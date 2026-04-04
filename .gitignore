@@ -1,0 +1,48 @@
+# Data files (too large for git)
+data/**/*.jsonl
+data/**/*.json
+data/**/*.zip
+data/**/*.pt
+data/**/*.bin
+data/**/*.parquet
+data/**/*.db
+data/kaggle/
+data/hf/
+data/external/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+*.egg
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Checkpoints
+checkpoint-*/
+*.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large outputs
+*.pdf
+*.log
