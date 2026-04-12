@@ -1,6 +1,11 @@
-Zolai CLI utilities and scripts for data processing and model training.
+# Zomi AI: The Zolai Second Brain
+> **Vision:** To ensure the Zolai language thrives in the AI era by building a fully capable "Zolai AI Second Brain"—allowing the Zomi people to learn, work, and interact with cutting-edge technology entirely in their native tongue.
+> 
+> **Mission:** To digitize, standardize, and preserve the Zolai language through automated data-harvesting pipelines, creating high-purity bilingual datasets, and fine-tuning open-source Large Language Models (LLMs) to understand and generate fluent Tedim Zolai.
 
-This project provides a set of command-line tools for Zolai dataset manipulation, cleaning, and training workflows. You can run these scripts directly from the command line using `python zolai_menu.py`.
+---
+
+This project provides the core architecture, utilities, pipelines, and automated Kaggle loops to handle Zolai dataset manipulation, cleaning, and training workflows. You can interact with the dataset utilities directly from the command line using `python zolai_menu.py`.
 
 ## Available Commands:
 

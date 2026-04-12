@@ -5,32 +5,35 @@ Zolai vocabulary for governance and law reflects a combination of traditional tr
 
 ### Core Administrative Vocabulary
 - **Kumpi:** Government / King.
-- **Thukham:** Law / Commandment.
+- **Thukham:** Great Law / Divine Commandment (High register).
+- **Thukhun:** Law / Regulation / Official Rule (Standard register).
 - **Upadi:** Law / Regulation (Burmese loanword, widely used in modern legal contexts).
 - **Thukhen:** Judge (Thu = Word/Case, Khen = Divide/Decide).
-- **Thukhun:** Rule / Ordinance.
 - **Thonginn:** Prison / Jail.
 - **Thukhen Zum:** Court / Courthouse (Zum = Office/Bureau).
 - **Palik:** Police.
 - **Uliante:** Officials / Leaders / Elite (Big ones).
 - **Gam le Gua:** Country and Nation / Territorial borders.
-- **Kilaipai:** Election / Voting.
-- **Zalenna:** Freedom / Independence.
+- **Kitelna:** Election / Voting (Choosing each other).
+- **Suahtakna / Suakta:** Freedom / Liberation / Being set free.
 - **Tualsuak Mite:** Indigenous people / Citizens (Born on the soil).
 
 ## Decision / Application
-The AI Tutor uses these terms when discussing news, politics, citizenship, the history of the Zomi people, or legal scenarios.
+The AI Tutor uses these terms when discussing news, politics, citizenship, the history of the Zomi people, or legal scenarios. It must distinguish between the formal/divine `Thukham` and the administrative `Thukhun`.
 
 ## Reason
-Providing a robust legal and administrative vocabulary bridges the gap between conversational Zolai and formal, journalistic Zolai (like the language used in *Zomi Daily*). It allows users to discuss rights, laws, and the State.
+Providing a robust legal and administrative vocabulary bridges the gap between conversational Zolai and formal, journalistic Zolai (like the language used in *Zomi Daily*). Differentiating registers (Thukham vs. Thukhun) ensures the AI sounds natural and context-appropriate.
 
 ## Pattern / Vocabulary Usage
 When creating sentences about government or laws:
 ```zolai
-Kumpi thukham i zuih ding a kisam hi. (It is necessary for us to follow the government's law.)
-Mite khempeuh zalenna a deih uh hi. (All people want freedom.)
-Thukhente in thuman thutak zang in vaihawm uh hi. (The judges administer using truth and justice.)
+Kumpi thukhun i zuih ding a kisam hi.
+Mi khempeuh in suahtakna a deih uh hi.
+Thukhente in thuman thutak zang in vaihawm uh hi.
 ```
 
 ## Mistake / Anti-pattern
-Do not translate "King" exclusively as `Kumpi` if discussing a modern government context. `Kumpi` in a modern context almost always refers to the State or the Government administration, not a literal monarch. Use `Kumpi ukna` for government administration or kingdom. Avoid translating "police" as soldiers (`galkapte`); the specific term is `Palik`.
+- Do not use `Zalenna` for freedom; the pure Tedim (Zolai) term is `Suahtakna` / `Suakta`.
+- Do not use `galkapte` (soldiers) for police; use `Palik`.
+- Do not use `Thukham` for everyday regulations; use `Thukhun`.
+- `Kumpi` means Government/State. For a literal King, use `Kumpi ukpa`.

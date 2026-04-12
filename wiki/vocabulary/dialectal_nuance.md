@@ -1,29 +1,24 @@
-# Dialectal Nuance & "False Friends"
+# Zolai Tedim Consistency Check
 
-This document tracks theological and semantic shifts across Zolai (Tedim), Falam (FCL), and Hakha (HCL) dialects to ensure the AI maintains consistency.
+This document ensures the AI uses pure Tedim (Zolai) and avoids common mistakes from other dialects (Hakha/Falam).
 
-## Theological Term Mapping
+## Pure Tedim Terms
+| English | Pure Tedim (Zolai) | DO NOT USE (Hakha/Falam) | Notes |
+|---------|--------------------|---------------------------|-------|
+| **God** | Pasian | Pathian | Tedim uses 's', not 'th'. |
+| **Spirit** | Kha | Thlarau | Tedim uses 'Kha'. |
+| **Life** | Nuntakna | Nunnak | Tedim uses 't' suffix. |
+| **Freedom** | Suahtakna | Zalenna | Tedim uses 'Suahtakna'. |
+| **Correct** | Man / Dik | - | Both are used in Tedim. |
+| **Happy** | Lungdam | Nuam | Lungdam is specific to heart-joy. |
+| **Beautiful** | Et-lawm | Mawi | Tedim prefers Et-lawm for appearance. |
 
-| English | Tedim (ZVS) | Falam (FCL) | Hakha (HCL) | Notes |
-|---------|-------------|-------------|-------------|-------|
-| **God** | Pasian | Pathian | Pathian | Tedim uses 's', others use 'th'. |
-| **Jesus** | Jesuh | Jesuh | Jesuh | Generally consistent across dialects. |
-| **Christ** | Khrih | Khrih | Khrih | Consistent, though some versions use *Kri*. |
-| **Spirit** | Kha | Thlarau | Thlarau | Tedim 'Kha' is very distinct from 'Thlarau'. |
-| **Life** | Nuntakna | Nunnak | Nunnak | Tedim uses 't' suffix, others use 'k'. |
-
-## Semantic Shifts ("False Friends")
-
-- **Kha vs. Thlarau:** In Tedim, *Kha* specifically refers to the spirit/soul, while *Thlarau* is more common in Falam/Hakha. The AI should prefer *Kha* for Tedim outputs.
-- **Nuntakna vs. Nunnak:** Using *Nunnak* in a Tedim context will sound like Falam/Hakha. Ensure the 't' is present for Tedim (*Nuntakna*).
-
-## Frequency in 1 John (Sample)
-
-| Term | Tedim | Falam | Hakha |
-|------|-------|-------|-------|
-| God | 103 | 88 | 82 |
-| Jesus | 14 | 12 | 12 |
-| Christ | 32 | 31 | 29 |
-| Spirit | 14 | 14 | 18 |
-
-*Note: The lower frequency in Falam/Hakha often corresponds to where backfilled translations are pending.*
+## Linguistic Rules
+- **Man / Dik:** Both are used for "correct" or "true" in Tedim.
+- **Kha:** Always use *Kha* for spirit/soul in Tedim.
+- **Nuntakna:** Always ensure the 't' is present. *Nunnak* is incorrect in Tedim.
+- **Pasian:** Never use *Pathian*.
+- **Suahtakna:** Use for "freedom" or "liberty".
+- **I vs Ko:** *I* is inclusive we (you and me), *Ko* is exclusive we (me and them, not you).
+- **Uh:** In Tedim, do not use *uh* with *i* (e.g., *I pai hi* is correct, *I pai uh hi* is wrong).
+- **In:** The ergative particle *in* is crucial for identifying the subject who acts (e.g., *Mipa in an ne hi* - The man eats rice).

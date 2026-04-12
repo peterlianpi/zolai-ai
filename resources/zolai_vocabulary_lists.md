@@ -501,7 +501,7 @@ Common compound formation patterns found in dictionary:
 - Flagged `Dawi`, `Thu`, and `Hiam` as review items because their current glosses conflict with stronger in-repo usage.
 - Left homographs visible when they are genuinely used with different meanings, such as `Hi`, `Lui`, `Sang`, `Ni`, and `Kha`.
 - Added 100+ new entries from Tongdot Dictionary (Tedim dialect).
-- Expanded categories with dictionary-attested words.
+- **Expanded categories systematically** (e.g. Health & Medical, Work & Occupations, Finance & Trade, Law & Society) based on context and content constraints from real-world usage and Tongdot dictionary mappings.
 
-*Reviewed against in-repo references and Tongdot Dictionary on 2026-04-01. This is a practical training/reference list, not a full dictionary.*
+*Reviewed against in-repo references and Tongdot Dictionary. This is a practical, context-driven reference list, rather than a flat dictionary.*
 *Full dictionary data available in: `data/zolai_complete_vocabulary.json` (12,521 Tedim words)*

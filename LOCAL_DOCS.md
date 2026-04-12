@@ -687,7 +687,164 @@ tail -f /kaggle/working/zolai_combine_out/combine_progress.log
 
 ---
 
-## 9. Update Checklist
+## 10. Mistral OCR for PDF Extraction
+
+### 10.1 Setup
+
+```bash
+pip install mistralai
+export MISTRAL_API_KEY="your-key"  # Get from https://console.mistral.ai
+# Or add to .env: MISTRAL_API_KEY=your-key
+```
+
+### 10.2 Why Mistral OCR
+
+| Feature | Mistral OCR | Tesseract | PyMuPDF |
+|---------|------------|-----------|---------|
+| Handwritten text | ✅ Yes | ❌ No | ❌ No |
+| Complex layouts | ✅ Multi-column, tables | ⚠️ Basic | ⚠️ Basic |
+| Tables | ✅ HTML/Markdown output | ❌ No | ❌ No |
+| Image extraction | ✅ With base64 | ❌ No | Manual |
+| Headers/footers | ✅ Separate extraction | ❌ No | ❌ No |
+| Scanned PDFs | ✅ Excellent | ⚠️ Needs training | ❌ No |
+| Zolai/Tedim script | ✅ Vision model handles | ⚠️ Needs custom training | ❌ No |
+| Cost | ~$0.0014/page | Free | Free |
+| Speed | ~2-5s/page | Instant | Instant |
+
+**Mistral OCR is best for:** Zolai lesson PDFs (scanned books, grammar volumes, dictionaries) because:
+- Handles scanned/OCR'd content that PyMuPDF can't extract
+- Preserves document structure (headers, tables, multi-column)
+- Returns clean markdown for downstream processing
+- Works with Zolai script without custom training
+
+### 10.3 CLI Usage
+
+```bash
+# Single PDF
+zolai ocr "data/external/lessons/Tan Lang.pdf" -o data/processed/lessons-ocr/
+
+# Directory of PDFs (with resume)
+zolai ocr "data/external/lessons/" --resume --sleep 3
+
+# Dry run (see what would be processed)
+zolai ocr "data/external/lessons/" --dry-run
+
+# Extract headers/footers separately
+zolai ocr "data/external/lessons/" --extract-header --extract-footer
+
+# Save extracted images
+zolai ocr "data/external/lessons/" --save-images
+```
+
+### 10.4 Python API
+
+```python
+from zolai.ocr.mistral_ocr import get_client, ocr_pdf, extract_markdown, extract_text
+
+client = get_client()
+
+# OCR a single PDF
+response = ocr_pdf(client, Path("data/external/lessons/Tan Lang.pdf"))
+
+# Get markdown output
+markdown = extract_markdown(response)
+print(markdown)
+
+# Get plain text
+text = extract_text(response)
+print(text)
+
+# Process entire directory
+from zolai.ocr.mistral_ocr import process_directory
+stats = process_directory(
+    client,
+    input_dir=Path("data/external/lessons/"),
+    output_dir=Path("data/processed/lessons-ocr/"),
+    resume=True,
+    sleep=3.0,
+)
+print(f"Processed {stats['success']} files, {stats['pages']} pages")
+```
+
+### 10.5 Output Format
+
+Each PDF produces 3 files:
+- `filename.md` — Full markdown with page breaks
+- `filename.txt` — Plain text (markdown stripped)
+- `filename.ocr.json` — Metadata (pages, chars, usage, per-page info)
+
+```json
+{
+  "source": "Tan Lang.pdf",
+  "model": "mistral-ocr-latest",
+  "pages": 45,
+  "total_chars": 125000,
+  "usage_info": {"prompt_tokens": 0, "completion_tokens": 0},
+  "pages_detail": [
+    {"index": 0, "chars": 2800, "dimensions": {"width": 612, "height": 792}}
+  ]
+}
+```
+
+### 10.6 Batch Processing (Large PDFs)
+
+For large documents (100+ pages), use Mistral's Batch API for cost savings:
+
+```python
+from mistralai.client import Mistral
+
+client = Mistral(api_key="your-key")
+
+# Create batch job
+batch = client.batch_jobs.create(
+    model="mistral-ocr-latest",
+    input_files=["file1.pdf", "file2.pdf"],
+)
+
+# Check status
+status = client.batch_jobs.get(batch.id)
+print(status.status)  # "pending", "running", "success", "failed"
+
+# Download results
+result = client.batch_jobs.get_result(batch.id)
+```
+
+### 10.7 Integration with Zolai Pipeline
+
+```
+PDFs (Zolai Lessons)
+  ↓ Mistral OCR
+Markdown (.md) + Text (.txt)
+  ↓ V9 Standardizer
+Cleaned Zolai text
+  ↓ Dedup + Split
+Training data → QLoRA fine-tuning
+```
+
+### 10.8 Current Zolai PDFs to OCR
+
+| PDF | Size | Pages (est) | Content |
+|-----|------|-------------|---------|
+| `zolai-simbu-tan-li-sinna_compress.pdf` | 14 MB | ~100 | Zolai Simbu Lesson 5 |
+| `zolai-simbu-tan-nih-sinna_compress.pdf` | 9.4 MB | ~80 | Zolai Simbu Lesson 2 |
+| `zolai-simbu-tan-thum-sinna_compress.pdf` | 7.8 MB | ~70 | Zolai Simbu Lesson 3 |
+| `zolai-simbu-tan-lang-sinna_compress.pdf` | 5.2 MB | ~50 | Zolai Simbu Lesson 1 |
+| `zolai-simbu-tan-khat-sinna_compress.pdf` | 4.6 MB | ~45 | Zolai Simbu Lesson 4 |
+| `2_Tone_Sandhi_in_Tedim_Zomi_Toponyms.pdf` | 496K | ~10 | Academic paper |
+| `Zolai_Standard_Format.pdf` | 243K | ~8 | Format guide |
+| `12_Zolai_Khantohsak_Nang_Hanciamnate_Pa.pdf` | 179K | ~5 | Grammar |
+| `16_Zolai_Picinsak_Ding_Hanciam_Huai.pdf` | 140K | ~4 | Grammar |
+| `19_Lia_leh_Taang_Vai_02A.pdf` | 109K | ~3 | Grammar |
+| `20_Lia_leh_Taang_Vai_02B.pdf` | 116K | ~3 | Grammar |
+| `13_Zomi_Nam_Ni_Vai_Dawnna.pdf` | 107K | ~3 | Cultural |
+| `8_We_Are_Zomis_Poem.pdf` | 76K | ~2 | Poetry |
+| `18_Lia_le_Taang_Vai_01.pdf` | 62K | ~2 | Grammar |
+
+**Estimated cost:** ~500 pages × $0.0014 = ~$0.70 total
+
+---
+
+## 11. Update Checklist
 
 When updating this file:
 
@@ -697,3 +854,4 @@ When updating this file:
 - [ ] Update automation scripts if Kaggle API changes
 - [ ] Add new troubleshooting entries as issues arise
 - [ ] Update session limits if Kaggle changes quotas
+- [ ] Check Mistral OCR pricing and model updates

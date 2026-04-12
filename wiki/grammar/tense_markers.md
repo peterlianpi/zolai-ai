@@ -7,29 +7,28 @@ Zolai (Tedim) uses final particles and specific verb suffixes to indicate tense 
 | Tense | Marker | Example | Translation |
 |-------|--------|---------|-------------|
 | **Present** | **hi** | A pai **hi**. | He goes. / He is going. |
-| **Past** | **ta** | A pai **ta**. | He went. / He has gone. |
+| **Past** | **khin** | A pai **khin** hi. | He went. / He has gone. |
 | **Future** | **ding** | A pai **ding** hi. | He will go. |
-| **Perfect** | **ngei** | A pai **ngei** hi. | He has (already) gone / once went. |
 
-## Progressive Aspect (Continuous)
-Action in progress is often indicated by the particle **"laitak"** following the verb.
+## Negation Patterns (lo vs kei)
+In Tedim Zolai, the choice of negation particle depends on the tense and intent:
 
-- **Example:** A pai **laitak** hi. (He is going right now.)
+### 1. General Negation (lo)
+Used for simple present and descriptive negation.
+- **Example:** Ka ne **lo** hi. (I do not eat.)
 
-## Negative Tense Structures (Stem II)
-When a sentence is negated, the verb often shifts from **Stem I** (Affirmative) to **Stem II** (Negative/Subordinate).
+### 2. Future & Intent Negation (kei)
+Used specifically with the future marker **ding**.
+- **Correct:** Ka pai **kei** ding hi. (I will not go.)
+- **Incorrect:** Ka pai **lo** ding. (Sounds mixed/unnatural in pure Tedim.)
 
-### First Person (I)
-Negative future or negative present often uses the suffix **"keng"** (a contraction of "kei" + "in" + negation).
+### 3. First Person Contraction (keng)
+"Kei" + "in" often contracts to "keng" for first-person future negation.
+- **Example:** Ka pai **keng**. (I will not go.)
 
-- **Affirmative:** Ka pai ding hi. (I will go.)
-- **Negative:** Ka pai **keng**. (I will not go.)
-
-### Imperative Negative (Do not)
-The negative imperative is marked with the final particle **"lo"** or **"ken"** (specifically for commands).
-
-- **Example:** Pai **lo** in. (Do not go.)
-- **Example:** Pai **ken**. (Do not go - direct command.)
+### 4. Imperative Negative (kei)
+Used for commands.
+- **Example:** Pai **kei** in. (Do not go.)
 
 ## 2018 Standard Notes (ZVS)
 The **2018 Zokam Standard Version (ZVS)** prioritizes the use of `ta` for completed actions in narrative contexts and `hi` for universal truths or ongoing present states. This distinction is critical for maintaining the "Lung-Kha" (Heart-Spirit) emotional weight in translations.
