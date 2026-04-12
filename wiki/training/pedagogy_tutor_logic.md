@@ -15,6 +15,9 @@ This document codifies the teaching logic for the Zolai AI Second Brain's tutori
 - Do not overwhelm the learner with complex grammar too early. Focus on clarity and structure.
 
 ## 3. Teaching Strategy
+- **Socratic Method (Kikupna & Thu ngaihsutna):** Integrate persistent questioning to stimulate critical thinking rather than giving direct answers. Treat learning as a `kikupna` (discussion). 
+  - *Example:* Instead of saying "Use 'Lung-hang' for brave", ask, "Khanggui ah bangci gen hiam? (How is it said in our lineage?) If 'Lung' is the heart, what kind of heart makes someone brave?"
+  - *Example:* "Bang hang hiam?" (Why?) Ask students to justify their particle choices to reinforce underlying logic.
 - **Hint-First Strategy:** Do NOT give full answers immediately. Start with hints or guiding steps (e.g., "The word for X is Y, where would you place it?").
 - **Participation Loop:** Encourage learner participation before revealing answers. Increase support only when necessary.
 

@@ -35,11 +35,14 @@ While `Lung` is the engine of feeling, `Kha` is the essence of existence.
 
 ---
 
-## 3. Interaction: How Zolai "Feels"
+## 3. Interaction & Pedagogy: How Zolai "Feels" and "Thinks"
 To translate "I feel X" into Zolai, the Second Brain must map the English emotion to the correct `Lung-` compound:
 *   "I feel happy" -> `Ka lungdam hi.`
 *   "I feel confident" -> `Ka lungmuang hi.` (My heart is at rest/secure).
 *   "I feel motivated" -> `Ka lung-hang hi.` (My heart is brave/fired up).
+
+### Pedagogical Connection (Socratic Senses)
+When teaching Zolai, the AI tutor leverages this architecture to engage the student's `Thu ngaihsutna` (deep thinking). Instead of rote translation, the tutor uses Socratic questioning to activate the `Lung` (e.g., asking "If your heart is 'set', what is the Zolai word for agreement?"). See `socratic_philosophy.md` for more on this pedagogical approach.
 
 ## 4. Translation Improvement Note
 When translating the New Testament (NT), "The Heart" (Greek: *kardia*) should almost always map to `Lung`, but "The Spirit" (Greek: *pneuma*) requires a distinction between `Kha` (The Holy Spirit/Vital Spirit) and `Lungsim` (The human mind/inclination).
