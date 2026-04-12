@@ -1,31 +1,40 @@
 # Archaic vs. Modern Zolai (Tedim) Vocabulary
 
-The Zolai language has undergone significant shifts in spelling, phonology, and theological mapping over the past century.
+The Zolai language has evolved significantly over the past century through three major translation eras: **Tedim 1932**, **TDB77 (1977)**, and the **ZVS 2018 (Zokam Standard Version)**.
 
-## Common Terminology Shifts (1932 vs. 2018 ZVS)
+## 1. Evolution of the Standard
+Spelling and usage have shifted from phonetic/Burmese-influenced transliteration to a more consistent Roman-standardized Zokam format. While modern standards (ZVS 2018) prioritize clarity, the core vocabulary remains strictly Tedim.
 
-| Archaic (1932/1977) | Modern (2018 ZVS) | Meaning | Notes |
-|---------------------|-------------------|---------|-------|
-| **Thuciam** | **Thuciam** | Covenant / Promise | Remains stable across versions. |
-| **Pasian** | **Pasian** | God | Stable, foundational. |
-| **Hotkhiatna** | **Hotkhiatna** | Salvation | Stable. |
-| **Jesuh** | **Jesuh** | Jesus | Modern ZVS prefers "Jesuh" for consistency with international standards. |
-| **Kha** | **Kha** | Spirit | Remains critical in "Lung-Kha" architecture. |
+| Traditional / 1932 | Modern / ZVS 2018 | Meaning | Note |
+| :--- | :--- | :--- | :--- |
+| **Jesuh** | **Jesu / Jesuh** | Jesus | ZVS often leans toward `Jesu`. |
+| **Izipt** | **Egypt** | Egypt | Modern normalization of place names. |
+| **Iakob** | **Jakob** | Jacob | Transliteration shift. |
+| **nadingin** | **na'ng / nadingin** | for the purpose of | ZVS uses more frequent contractions. |
+| **inla / unla** | **in / un** | (Imperative) | Standardized removal of the suffix `-la`. |
 
-## Orthographic and Spelling Changes
-The **2018 Zokam Standard Version (ZVS)** has standardized many spellings that were inconsistent in older texts.
+## 2. Orthographic Standardization
+The current standard (Zokam) focuses on consistency in vowel combinations and suffix usage, ensuring that "Tedim Style" is preserved across all formal writing.
 
-| Older Form | Modern Form (ZVS) | Meaning |
-|------------|-------------------|---------|
-| **Izipt** | **Egypt** | Egypt | Modern ZVS uses international place names more frequently. |
-| **Iakob** | **Jakob** | Jacob | Shifts from Burmese-influenced to English/International transliteration. |
-| **Petros** | **Peter** | Peter | Consistent with modern international Zolai usage. |
+### Avoid Non-Tedim Styles
+It is critical to avoid phrases and words from neighboring dialects (Hakha-Lai, Falam) that may appear in mixed datasets.
+- **Avoid:** `cu/cun` (that), `pathian` (God), `fapa` (son), `ram` (country), `siangpahrang` (king), `bawipa` (Lord).
+- **Prefer:** `tua`, `pasian`, `tapa`, `gam`, `kumpipa`, `topa`.
 
-## Phonetic and Dialectal Mergers
-Older versions often reflected specific regional sub-dialects of Tedim. The **Zokam Standard (ZVS)** merges these into a more unified literary form.
+---
 
-- **Example:** The use of **"uh"** (plural marker) has been standardized in the 2018 version to avoid redundancy with personal pronouns (e.g., `i` + `uh` is now often simplified to just `i` in some contexts, but `uh` is still used for emphasis).
+## 3. High-Frequency Rank Shifts
+Some words were extremely common in earlier translations but shifted in usage frequency in the 2018 standard due to stylistic normalization.
 
-## Semantic Nuance in Modernity
-- **Lungdam** (Joy): In the 1932 version, this was often used for simple happiness. In the 2018 ZVS, it has a deeper theological weight, representing the "sweet heart" that comes from spiritual peace.
-- **Hehpihna** (Grace): Modern usage in the **Zolai AI Second Brain** focuses on its aspect of unmerited favor, whereas older texts sometimes used it interchangeably with general mercy.
+- **`takin` (Adverb marker):** Usage has dropped significantly in favor of simpler `-in` suffixes.
+- **`theih` (Able):** Frequency rank has shifted as more specific modal verbs (e.g., `zo`) are used in nuanced contexts.
+- **`taka` (Truly/Very):** Often replaced by `mahmah` or `-in` in modern prose.
+
+## 4. Semantic Evolution
+- **Lungdam (Joy):** Traditionally meant "at peace" or "thankful." In modern contexts, it has a broader "spiritual joy" connotation.
+- **Hehpihna (Grace):** Older texts focused on "mercy/pity." Modern ZVS emphasizes "unmerited favor" (grace).
+- **Thuciam (Covenant):** Remained stable for 100 years as the core identifying word for biblical "Promise."
+- **Lungtang (Heart):** In older texts, `lungsim` was generic. Modern ZVS uses `lungtang` more specifically for the emotional/physical "heart" in poetic contexts.
+
+---
+*Reference: Empirical comparative audit of ZVS 2018, TDB77, and Tedim 1932 datasets (2026).*

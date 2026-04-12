@@ -243,6 +243,95 @@ Pasian tung ah i deih i sapte ngen lehang, hong piak nading lampi hau mahmah hi.
 Ngimna sanglo, ut mel neilo, lunggulhluat zongh a theilote tawh kithuah, kikholhna in i khantoh nading pan hong khaktan thei hi.
 
 
+## Satan Kap
+**Theme:** Lungsim Limlangh, Paulap
+
+Mihing lungsim tawh khentat aa kisem thu pawlkhat, Satan a ngawh om in, Pasian deihna ci-in paulap a pia zongh kiom thei hi.
+
+## Humpi le Bawng
+**Theme:** Lungsim Limlangh
+
+Humpi in a duh a ngah nadingin a duhlohte tah/pia hi. Deih khat a kingah nading a dang khat tah thei hi. Hong kipia khat hangin a tamzaw kisuplawhzaw thei hi. Hong kikhek, hong kitah na khatpeuh zongh amau deihlo man na hi thei hi.
+
+## Sahang le Kumpipa
+**Theme:** Lungsim Limlangh
+
+I deih khat hong kitah in (ahk) hong kiphatphat in i hatna, i sep theihna, i neihsate hong kidokdok sak aa suplawhna piangzaw thei hi. A beisa hun sungin bangbang ihiphial zong, sep zawhna, hih theihna bangmah a om nawnloh ciang hong kithudon nawn tuanlo thei hi.
+
+## Sumhaupa le Ngabengte Nupa
+**Theme:** Hun, Lungkimna, Nopsakna
+
+Lungnopna, lungkimna, nopsakna tampite pen sumhauh tektek kullo hi. Sumhauh ding lunggulhna tawh hun nuam, hun manpha tampi kiphawk khaloin kisuplawh thei hi.
+
+## Vatawt le Aneipa
+**Theme:** Huaiham, duhhopna ii hoihlohna
+
+Huaihamluatna in khialhna piang sak hi. Thu theihlohna in hai gamtatna piang sak hi. Hehpih theihlohna in supna piang sak hi.
+
+## Pitek le Putek Nupa Khat
+**Theme:** Hun, Lungkimna, Nopsakna
+
+A tung aa nopsak theihna a tuamtuamte zat theihloh, nek zawhloh, kimawl zawh nawnloh hun ciang khualzit panpan sangin nopsak theih hun lai-in zinzawk, vakzawk, nekzawk, nopsak hun laakzawk ding hi. Nop sak theih hun lai-in nopsakna pen sum tawh kileikik theilo hi.
+
+## Numei Unau Nih
+**Theme:** Itna, Nopsakna, Lungkimna
+
+Sum huah simin kaplo, lungnuam, nopsa cihna hi khin pah tuanlo aa, sum hauhloh simin zongh lungnuamlo, nopsalo cihna hi pah tuanlo hi.
+
+## Pata Khat
+**Theme:** Hun, Lungkimna, Nopsakna
+
+Innkuan sung ah ziletate ii kisap pen sum bekbek hikhinlo aa khat le khat hun kipia in kithuahkhawm aa kikholhkhop theih ding zongh kisam hi.
+
+## Nute' Itna
+**Theme:** Itna, Khualna
+
+Tate pen ki it thei mahmah aa, tate in nute' pate' itna a phawk zah dingun phawk khalo thei hi.
+
+## Nupi Thum le A Tate
+**Theme:** Kampi sangin sepkhiatna thupizaw, tate hangin nulepa angtang nuam
+
+Phat zawh thu, gup zawh thu tawh na a piangpiang, maipha a ki ngah den, a kigual zo kha pah cih bang hiloin, a sem a bawlte mah in maipha ngah aa gualzozaw veve uhhi. Tate zongh siamna, pilna, hauhna bangzah takin i nei zong nulepa ii phattuampih ding thupi mahmah hi.
+
+## Khebai Tangvalno
+**Theme:** Thusia omlo - Ei ading a hoih vive
+
+Khat veivei ciang i tung ah a sia khat hong tung leh thuak hak kisa kha thei aa, ahi zongin ei ading a hoihzawkna suak thei hi.
+
+## Lawmta Kilemlo Nih
+**Theme:** Thusia omlo - Ei ading a hoih vive
+
+Khat veivei ciang i tung ah a sia khat hong tung leh thuak hak kisa kha thei aa, ahi zongin ei ading a hoihzawkna suak thei hi.
+
+## Kisilbuuk le Hehpihna
+**Theme:** Hehpihna, Itna
+
+Pasian kiang zuat ding pen siangtho masak, hoih masak kullo hi. Mawhna, khialhna leh i hihna bangbang tawh zuanin Topa Zeisu sisan hang aa siangthona ngah ding hizaw hi.
+
+## Mohluum
+**Theme:** Upna, Thungetna
+
+Pasian tung ah i deih i sapte ngen lehang, hong piak nading lampi hau mahmah hi.
+
+## Lawmta Thum ii Ngaihsutnate
+**Theme:** Lawm, Kiimlepaam ii thupitna
+
+Ngimna sanglo, ut mel neilo, lunggulhluat zongh a theilote tawh kithuah, kikholhna in i khantoh nading pan hong khaktan thei hi.
+
+## Teci Panna
+**Theme:** Upna, Thungetna
+
+I nuntakna ah sum a omloh hang' Pasian ompeuh leh i deihte ki nei kha veve hi. Cidam ciang bek nasem zo ding, nasep zawh ciang bek sum nei ding, sum neih ciang bek deihte nei zo ding kisa kha thei hi. Cidamlo, nasep neilo, sum neilo kawmkal pan i deih khat I neih theih nading Pasian in lampi na theilua mahmah hi. I dinmun en lehang lamet huai bangmah a omloh hang' Pasian in lampi hau mahmah ahih manin um ngam aa, nget ngam ding bek kisam ahi hi.
+
+## Lai Siangtho Sung Aa Gentehna Pawlkhat
+**Theme:** Biblical Parables Collection
+
+This section compiles references to parables found within the Holy Bible itself, as collected by Pa Lian Than Tuang. Key references include: Paunak 1:6, Late 78:2-3, Thuhilhna 9:13-18, Ezekiel 17:2-24, Ezekiel 18:5-20, Ezekiel 24:3-6, Ezekiel 33:15-17, Hosea 12:10, Matthew 13:3-36, Mark 3:23, Mark 4:2-34, Luke 5:36, Luke 8:4-11, Luke 12:16, Luke 15:3-11, Luke 18:1-9, Luke 19:11, Luke 20:19, Luke 21:29, Johan 10:6, Johan 16:25-29, Rom 7:2, Galati 3:15, Galati 4:24, and James 2:2-16.
+
+> *Thugen siam cih pen a gen bangbang a ngai mite in a tel theih dingin a gen theite ahi hi. Laigelh siam a cihte zongh a gelh bangbang a sim mite ii tel theih dingin a gelh theite ahi hi.* — Pa Lian Than Tuang
+
+---
+
 ## ZomiDaily News Style
 Extracted from ZomiDaily Master Corpus patterns.
 

@@ -18,25 +18,36 @@ Used in negative sentences, with certain particles, or in subordinate clauses.
 
 ## Common Suffixes and Stems
 - **Infinitive/Noun:** Verb + `na` (e.g., `paina` - departure).
-- **Infinitive Purpose:** Verb + `nading` (two words) (e.g., `pai nading` - to go).
+- **Infinitive Purpose:** Verb + `nading` (single word) (e.g., `painading` - to go / for going).
 - **Causative:** Verb + `sak` (e.g., `paisak` - to make someone go).
 
 ## Verbs Identified in Standard Format
-| Stem I (Primary) | Meaning | Stem II (Secondary) | Environment / Usage Example |
+| Stem I (Primary) | Meaning | Stem II (Secondary) | Trigger / Transformation |
 | :--- | :--- | :--- | :--- |
-| `pai` | Go / Walk | `pailoh` / `paikeh` | Negation: `pailo`, `pailoh`, `paikeh` |
+| `si` | Die | `sih` | Vowel -> `-h` (Noun: `sihna`) |
+| `la` | Take | `laak` | Vowel -> `-k` (Noun: `laakna`) |
+| `sa` | Hot | `sat` | Vowel -> `-t` (Noun: `satna`) |
+| `nei` | Have | `neih` | `-i` -> `-ih` (Noun: `neihna`) |
+| `sal` | Shout | `salh` | `-l` -> `-lh` (Noun: `salhna`) |
+| `hau` | Rich | `hauh` | `-u` -> `-uh` (Noun: `hauhna`) |
+| `hak` | Hard | `hah` | `-k` -> `-h` (Noun: `hahna`) |
+| `kap` | Cry | `kah` | `-p` -> `-h` (Noun: `kahna`) |
+| `that` | Kill | `thah` | `-t` -> `-h` (Noun: `thahna`) |
+| `sam` | Call/Name | `sap` | `-m` -> `-p` (Noun: `sapna`) |
+| `kipan` | Start | `kipat` | `-n` -> `-t` (Noun: `kipatna`) |
+| `thang` | Famous | `than'` | `-ng` -> `-n'` (Noun: `than'na`) |
+| `taang` | Transfer | `tat` | `-ng` -> `-t` (Noun: `tatna`) |
+| `pai` | Go / Walk | `piah / paih` | Irregular / Neg: `pailoh` |
 | `gen` | Say / Speak | `gent` | Subordinate/Negation: `gent` |
 | `mu` | See | `muh` | Subordinate/Negation: `muh` |
 | `ciah` | Return home | `ciahk` | Subordinate/Negation: `ciahk` |
-| `lua` | Too much / Exceed | `luat` | Comparative/Adverb: `sangluat` |
-| `lo` | Negation marker | `loh` | Subordinate/Noun: `pailoh` |
-| `kei` | Not (negation) | `keh` | First person/Imperative neg: `paikeh` |
-| `zaw` | More (comp.) | `zawk` | Comparative: `teelzawk` |
+| `lua` | Too much | `luat` | Comparative/Adverb: `sangluat` |
+| `lo` | Negation | `loh` | Subordinate/Noun: `pailoh` |
+| `kei` | Not | `keh` | First person/Imperative neg |
+| `zaw` | More | `zawk` | Comparative: `teelzawk` |
 | `khawm` | Together | `khop` | Adverbial: `paikhop` |
-| `lamdang` | Strange / Diff | `lamdan` | Noun/Adj: `kilamdanna` |
-| `thang` | Famous / Spread | `than` | Noun: `min thanna` |
+| `lamdang` | Strange | `lamdan` | Noun/Adj: `kilamdanna` |
 | `thupi` | Important | `thupit` | Noun/Adj: `thupitna` |
-| `kap` | Cry | `kah` | Noun: `kahna` |
 | `thei` | Can / Know | `theih` | Noun/Possibility: `theihna` |
 | `guk` | Six / Steal | `guuk` | Contextual: `kiguuksak` |
 

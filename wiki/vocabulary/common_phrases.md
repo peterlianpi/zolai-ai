@@ -1,35 +1,65 @@
-# Common Tedim Phrases
+# Common Tedim Phrases & Conversational Patterns
 
-## Concept / Rule
-Short, high-frequency phrases for greetings, thanks, and yes/no. The chat tutor must recognize these **without** asking for English rephrasing. These phrases are **Tedim** (Zolai) specific—do not use Hakha or Falam variants.
+Standard phrases for greetings, small talk, and daily interaction in Tedim (Zolai). These are categorized by context to help learners navigate real-world situations.
 
-## Greetings & health
-| Phrase | Meaning | Notes |
-|--------|---------|--------|
-| **Na dam na?** | How are you? | Full form; `dam` = well/healthy state |
-| **Dam maw?** | How are you? / You well? | Informal; `maw` ≈ soft question |
-| **Kum** | Hello / Hi | Short greeting (per project usage) |
-| **Na dam hi** / **Ka dam hi** | You are well / I am well | Response |
+## 1. Greetings & Well-being
+Greetings in Zolai often center on health and "eating rice."
 
-If the user writes **“dam maw”** or **“hello, dam maw?”**, treat as **greeting + health check**, not as unknown English.
+| Tedim | Meaning | Context |
+| :--- | :--- | :--- |
+| **Na dam na?** | How are you? | Formal/Standard |
+| **Dam maw?** | How are you? | Informal |
+| **Ka dam hi.** | I am well. | Standard response |
+| **Dam mah.** | [I'm] fine. | Informal response |
+| **Zingsang pha.** | Good morning. | Modern borrowing |
+| **Nitak pha.** | Good evening. | Modern borrowing |
+| **An na ne na?** | Have you eaten? | Common greeting |
+| **E, ka ne khin hi.** | Yes, I have eaten. | Standard response |
+| **An ne nailo hing.** | I haven't eaten yet. | Negative response |
 
-## Thanks & politeness
-| Phrase | Meaning |
-|--------|---------|
-| **Lungdam** / **Ka lungdam** / **Lungdam mahmah** | Thank you (heart + good) |
-| **Hong p’aw** | Welcome (come) |
+## 2. Politeness & Interaction
+| Tedim | Meaning | Context |
+| :--- | :--- | :--- |
+| **Lungdam.** | Thank you. | General |
+| **Lungdam mahmah.** | Thank you very much. | Emphatic |
+| **Hehpihhuai.** | Please / Mercifully. | Requesting |
+| **Dawntuah.** | Welcome. | Welcoming a guest |
+| **Maisak in.** | Forgive [me] / Excuse me. | Apology |
+| **Phamawh kei.** | It doesn't matter / No problem. | Response to apology |
+| **Pai tapeuh ve maw.** | Please go / Do go. | Polite command (Natural) |
+| **Pai o.** | Go. | Simple command |
+| **Hong pai o.** | Please come. | Polite request |
 
-## Yes / no / agreement
-| Phrase | Meaning |
-|--------|---------|
-| **Aw** | Yes |
-| **Ai** / **Kei** | No (context-dependent; align with your dialect notes) |
-| **Tua hi** | That’s right / That’s it |
+## 3. Agreement & Disagreement
+| Tedim | Meaning | Note |
+| :--- | :--- | :--- |
+| **Aw / E** | Yes | `Aw` is more formal |
+| **Ai / Kei** | No | `Kei` often ends a sentence |
+| **Tua hi.** | That's it / That's right. | Agreement |
+| **Man ei / Dik ei.** | Correct / True. | Validation |
+| **Ahi mah hiam?** | Is that so? | Checking |
+| **Tua pen hi lo.** | Not that one. | Disagreement |
+| **Tua hi lo.** | It's not that. | Disagreement |
 
-## Anti-pattern (for models)
-- Do **not** answer “what does dam maw mean?” with “I don’t know—rephrase” when wiki lists **Na dam na?** / health greetings.
-- Do **not** confuse **Tedim/Zolai** (language) with **Zola** (unrelated proper names).
+## 4. Sinna Sentence Patterns (Beginner)
+Extracted from *Zolai Sinna Bu* Lessons 1–6.
 
-## Pattern
-- OSV where the phrase is a full sentence: *Na dam na?* = *(You) well question-particle?*
-- Keep explanations in **English** for the learner; **Tedim** for the phrase itself.
+- **Zola a sa thei kei hi.** — He cannot sing Zolai songs.
+- **Nai ka nei nai kei hi.** — I don't have a watch yet.
+- **Lui-ah tui ka tawi hi.** — I fetch water from the river.
+- **Jesu thu a thei hi.** — He knows about Jesus.
+- **Dai kikai nai lo hi.** — The dew hasn't fallen yet.
+- **Ka nu nawitui ka ne hi.** — I drink my mother's milk.
+- **Maimeh a duh kei hi.** — He doesn't like pumpkin curry.
+
+## 5. Parting Phrases
+| Tedim | Meaning | context |
+| :--- | :--- | :--- |
+| **Ciah ta ning.** | I will go home now. | Taking leave |
+| **Pai ta ning.** | I will go now. | Taking leave |
+| **Kalsuan hoih.** | Safe travels. | To someone leaving |
+| **Zingciang kimu kik ni.** | Let's meet again tomorrow. | See you later |
+| **Ihmu nuam o.** | Sleep well. | Goodnight |
+
+---
+*Reference: Zolai Sinna Bu, Zolai Simbu Tan 1, ZVS Bible.*

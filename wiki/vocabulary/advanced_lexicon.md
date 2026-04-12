@@ -128,6 +128,30 @@ These terms have been verified against the Tongdot Dictionary intermediate scrap
 
 ---
 
+## 10. Dictionary-Derived Standardization Patterns
+
+Based on the analysis of 12,500+ dictionary entries and the core "3 sources", these morphological patterns determine standard Zolai:
+
+### A. The `-na` Suffix (Noun Formation)
+Always join `-na` to the Stem II form of the verb.
+- `it` (love) -> `itna`
+- `pil` (wise) -> `pilna`
+- `sep` (work) -> `sepna`
+
+### B. Logical/Temporal Suffixes
+- **`nading` (for/to):** Join `na` and `ding` always. *Example:* `hinnading` (for living/life).
+- **`teng` (all):** Join to the preceding word. *Example:* `moupiteng` (all the guests).
+
+### C. Religious & Formal Compounds
+Common religious terms are treated as single semantic units:
+- `biakinn` (church)
+- `laisiangtho` (holy book/Bible)
+- `thungetna` (prayer)
+
+---
+
+---
+
 ## 10. Domain: Legal & Covenant Terms (OT Focus)
 
 | English Term | Basic Translation | Advanced/Formal Translation | Contextual Usage |
@@ -165,7 +189,7 @@ These terms have been verified against the Tongdot Dictionary intermediate scrap
 
 | English Term | Basic Translation | Advanced/Formal Translation | Contextual Usage |
 | :--- | :--- | :--- | :--- |
-| Armor | Puan | Galthuam / Galdo puan | `Galthuam` specifically refers to armament designed for defensive combat. |
+| Armor | Galthuam | Galdo puan | `Galthuam` specifically refers to armament designed for defensive combat. |
 | Sword | Namsa | Namsau | `Namsau` highlights the long, devastating edge of typical ancient combat blades. |
 | Shield | Dalna | Phaw / Dal-phaw | `Phaw` explicitly means the defensive shield structure. |
 | Enemy | Mi | Gal / Galte | Defines hostile physical or spiritual combatants. |
@@ -177,6 +201,6 @@ These terms have been verified against the Tongdot Dictionary intermediate scrap
 | English Term | Basic Translation | Advanced/Formal Translation | Contextual Usage |
 | :--- | :--- | :--- | :--- |
 | Leprosy | Phak | Phakna / Phaknatna | Contextualized specifically as an isolation-causing skin disease. |
-| Paralyzed | Cidamlo | Guhzawng / A puksia | Describes the physiological failure of bones/limbs (`Guhzawng`). |
+| Paralyzed | Guhzawng | A puksia | Describes the physiological failure of bones/limbs (`Guhzawng`). |
 | Priest/Healer | Siavuan | Siampi | `Siampi` functions perfectly as both the anatomical judge (OT priest) and spiritual intercessor. |
-| Bloodshed | Sisan | Sisan luangna | Elevates regular blood to the context of anatomical trauma or sacrifice. |
+| Bloodshed | Sisan luangna | Sithahna | Elevates regular blood to the context of anatomical trauma or sacrifice. |

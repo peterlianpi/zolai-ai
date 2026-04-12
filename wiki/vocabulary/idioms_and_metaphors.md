@@ -1,34 +1,50 @@
 # Gentehna: Idioms and Metaphors
 
-## Concept / Rule
-Zolai relies heavily on idioms (`Gentehna`) and metaphorical narratives to convey complex moral, philosophical, and social lessons. These often take the form of short parables or analogies involving animals, nature, and human roles.
+Zolai relies heavily on idioms (`Gentehna`) and metaphorical narratives to convey complex moral, philosophical, and social lessons. These are rooted in nature, domestic life, and spiritual journeys.
 
-### Key Idiomatic Themes
-1. **Leitung Bei Ding le Beiloh Ding (The End of the World vs. Its Continuation):**
-   - **Metaphor:** The world will end (temporally), but the impact of actions continues. Focuses on the transient nature of life versus the eternal nature of legacy and spiritual truth.
-2. **Gunkuang Holhpa le Ulian, Mipil, Sumhaute (The Boatman and the Elite/Wise/Wealthy):**
-   - **Metaphor:** Practical knowledge vs. theoretical knowledge. The boatman represents practical, life-saving skill (knowing how to swim), contrasting with the elites who possess wealth or abstract wisdom but lack the practical ability to survive a crisis (a sinking boat).
-3. **Sakol (The Horse):**
-   - **Metaphor:** Strength, servitude, and the burden of labor. A horse represents a tireless worker or a force that can be directed but must be respected.
-4. **Ngabeng Nih (Two Fishermen):**
-   - **Metaphor:** Collaboration, competition, or differing approaches to the same goal. Often illustrates the necessity of working together or the pitfalls of greed when sharing a resource.
-5. **Nupi Khat le A Tano (A Woman and Her Child):**
-   - **Metaphor:** Maternal instinct, sacrifice, and the unbreakable bond of family. Often used to illustrate unconditional love or the lengths one will go to protect their own.
-6. **Uiphuk le Tuisa (The Frog and the Hot Water):**
-   - **Metaphor:** The danger of gradual change and complacency. This is the classic "boiling frog" metaphor; failing to react to slowly increasing danger until it's too late.
+## 1. Core Idiomatic Themes (Sinna & Gentehna)
 
-## Decision / Application
-When the Zolai AI encounters abstract English concepts (e.g., "practicality," "complacency," "sacrifice"), the tutor should proactively introduce these *Gentehna* to elevate the user's cultural fluency.
+| Theme | Metaphor / Lesson |
+| :--- | :--- |
+| **Uiphuk le Tuisa** | Danger of gradual complacency; failing to recognize slow threats. |
+| **Gunkuang Holhpa** | Practical skill/survival awareness is more valuable than abstract status. |
+| **Bilpi le Sumkuang** | Persistence (*citak*) beats innate talent/speed (*hat*). |
+| **Keivom le Tuuno** | The inherently strong/oppressive will always find excuses to blame the weak. |
+| **Va-ak Utong** | The danger of trying to be something you are not; losing one's own identity. |
+| **Kau le A Bu** | Struggle and resistance are necessary for strength and flight. |
 
-## Reason
-Language is deeply tied to culture. Teaching vocabulary without the underlying metaphorical structure results in sterile, robotic translation. Introducing *Gentehna* grounds the AI's instruction in authentic Zomi worldview and storytelling traditions.
+## 2. Emotional Metaphors (The "Lung" System)
+Emotions in Zolai are almost exclusively expressed as compound results involving the "heart/mind" (*lung*).
 
-## Pattern / Code Snippet
-When translating "complacency" or "failing to recognize danger," the AI can suggest:
-*   `Uiphuk le tuisa gentehna bangin...` (Like the metaphor of the frog and the hot water...)
+- **Lungdam (Heart-well):** Joy / Thankfulness.
+- **Lungtang (Heart-hard/scar):** Deep emotional scars or the physical/emotional core.
+  - *Example:* "A lungtang tung ah a ma na om lai veve hi." (The mark remains on his heart forever.)
+- **Lungkim (Heart-complete):** Satisfaction / Contentment.
+- **Lungkham (Heart-blocked):** Anxiety / Worry.
+- **Lungngai (Heart-longing):** Nostalgia / Deep love.
+- **Lungphawng (Heart-pierced):** Conviction / Sudden realization.
 
-When translating "practical knowledge is better than theoretical knowledge," suggest:
-*   `Gunkuang holhpa thiamna...` (The boatman's skill...)
+## 3. Biblical & Agrarian Metaphors
+Extracted from the ZVS Bible parallel corpus.
 
-## Mistake / Anti-pattern
-Do not translate these idioms literally into English without explaining the metaphorical context. For example, do not just translate "The frog and the hot water" without explaining that it means "complacency in the face of gradual danger" in Zolai context.
+### A. The Sower (Khaici vawhpa)
+- **Metaphor:** The word of God as a seed (*khaici*) and the heart of man as various types of soil (*lo*).
+- **Usage:** Illustrates receptivity, distractions (thorns), and growth.
+
+### B. The Shepherd (Zatawi / Tuucing)
+- **Metaphor:** Protection, guidance, and intimacy.
+- **Usage:** "Topa pen ka honpa ahi hi." (The Lord is my shepherd.)
+
+### C. Agrarian Life
+- **Lenggui suan (Planting vines):** Legacy, investment, and fruitfulness.
+- **Lo khawhlawh (Working the field):** Daily struggle and the reward of labor.
+- **Anlak hun (Harvest time):** Fulfillment of promises / The culmination of history.
+
+## 4. Literary Expressives
+Zolai uses "expressive" reduplication to create metaphorical moods.
+- **Kiu keu:** The sound/feeling of an empty stomach (hunger).
+- **Ziuh zeuh:** Playful, lighthearted giggling.
+- **Siuh seuh:** The feeling of a steady, persistent drip (rain or tears).
+
+---
+*Reference: Gentehna Tuamtuam le A Deihnate, Zolai Sinna Bu, ZVS Bible.*

@@ -4,13 +4,48 @@ This document codifies the internal "Second Brain" logic for Zolai translation a
 
 ## 1. The "Zolai First" Decision Matrix
 When encountering an English concept or tutoring a student, the system follows this priority:
-1.  **Pedagogical Goal:** Is the user learning? If yes, provide hints over direct answers. Ensure the translation matches the user's detected difficulty level.
-2.  **Standard Consistency:** Does it match `Zolai_Standard_Format.txt`?
-3.  **Idiomatic Naturalness:** Would a native speaker say this? (e.g., `Cidam hi` > `Hoih hi`).
-4.  **Register/Domain Alignment:** Does the vocabulary match the selected domain (e.g., religious vs. daily conversation)?
-5.  **Stem Accuracy:** Is the correct Stem (I or II) used for the syntactic slot?
+-   **Pedagogical Goal:** Is the user learning? If yes, provide hints over direct answers. Ensure the translation matches the user's detected difficulty level.
+-   **Standard Consistency:** Does it match `Zolai_Standard_Format.txt`?
+-   **Pure Tedim Dialect Filter:** Strictly **exclude** non-Tedim (Hakha/Falam) styles. Prioritize Tedim-specific terms over generic or neighboring dialect terms.
+-   **Idiomatic Naturalness:** Would a native speaker say this? (e.g., `Cidam hi` > `Hoih hi`).
+-   **Register/Domain Alignment:** Does the vocabulary match the selected domain (e.g., religious vs. daily conversation)?
+-   **Stem Accuracy:** Is the correct Stem (I or II) used for the syntactic slot?
 
-## 2. Translation Patterns (Recurrent Structures)
+## 2. Pedagogical Pattern Logic (Sinna/Sinbu)
+Decision logic for a language tutor following the standard curriculum.
+
+| Pattern | Logic / Reasoning | Example |
+| :--- | :--- | :--- |
+| **Simplicity First** | Use A1-level core words before complex synonyms. | `Pai` (Go) vs `Kalsuan` (March/Move). |
+| **Soft Suffix Trigger** | If an exercise focuses on `-h`, prioritize `cinah`, `cimawh`, etc. | `Na cina na?` (Are you sick?). |
+| **Comparative Chain** | Use `...sangin ... -zaw` for all comparison drills. | `Lian sangin tei zaw hi.` |
+| **Negative Volition** | Distinguish between `keng` (I won't) and `lo` (I don't). | `Ka pai keng.` (I refuse). |
+
+## 3. Register & Social Decision Matrix
+Logic for choosing the correct phrase based on social proximity.
+
+| Input / Context | Decision | Reason |
+| :--- | :--- | :--- |
+| **Formal / Elder** | Use `Nang` (singular) or `Note` (plural as honorific). | ZVS/Khanggui respect markers. |
+| **Informal / Peer** | Use `Dam maw?` | Everyday Sinbu greeting. |
+| **General Greeting** | Use `An na ne na?` | Cultural standard from Sinna. |
+| **Religious Intro** | Use `Topa' Thupha...` | Standard ZVS evangelical register. |
+
+## 4. Dialect Filter: Avoid vs. Prefer
+To maintain pure Zolai Tedim literacy, the system MUST filter out the following non-Tedim styles common in neighboring languages (Hakha-Lai, Falam).
+
+| Avoid (Non-Tedim) | Prefer (Pure Tedim) | Grammatical Category |
+| :--- | :--- | :--- |
+| **cu / cun** | **tua** | That / Then (Demonstrative) |
+| **pathian** | **pasian** | God (Proper Noun) |
+| **bawipa** | **topa** | Lord / Master |
+| **fapa** | **tapa** | Son |
+| **ram** | **gam** | Country / Land |
+| **siangpahrang** | **kumpipa** | King / Ruler |
+| **bia** | **thu** | Word / Message |
+| **ka hmu** | **ka mu** | See (Verb) |
+
+## 5. Translation Patterns (Recurrent Structures)
 
 ### A. The "Nong... Hi" Pattern (Relative Clauses)
 English often uses "The [Noun] that [Subject] [Verb]".

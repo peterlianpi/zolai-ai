@@ -37,18 +37,20 @@ The Ciimnuai settlement served as a cultural hub. From there, subgroups migrated
 - He was given the title **"Laipianpa"** (Father of Writing)
 - His script spawned a religion: **"Laipian Pau Cin Hau Biakna"**
 - The Zomi community actively used his script well into the 1910s
-- In **1917**, the Piantit paite formally adopted Pu Pau Cin Hau's script for correspondence
 - In **2010**, researcher **Anshuman Pandey** submitted Pau Cin Hau's script to the **Unicode Consortium** for digital encoding
+- **France Gam Pai (1917):** During WWI, 1,000 Zomite (France Gam Pai) formally used Pau Cin Hau's script for communication while deployed in Europe.
 
 ### Rev. Dr. Joseph Herbert Cope — Roman Alphabet Pioneer
 **Rev. Dr. J.H. Cope** and his wife **Elizabeth** arrived in Zogam on **November 1, 1910**. Their contributions:
 
-| Year | Achievement |
-| :--- | :--- |
-| **1910** | Arrived at Tedim; began developing Roman Alphabet Zolai |
-| **1913** | Published `Tual Lai-sintawmna Bu` — the **first-ever book written in Zolai** |
+| **1882 Nov 21** | J.H. Cope born in Germantown, Philadelphia, USA |
+| **1908 Dec 21** | Cope arrives at Khalkha, Chin State |
+| **1910 Nov 1** | Cope arrives at Tedim (Mission phual thak satna) |
+| **1912 Feb 12** | Bible translation begins in Khuasak village |
+| **1913** | Published `Tual Lai-sintawmna Bu` — the **first Zolai book** |
 | **1914** | Published the first `Tedim Labu` (Tedim Hymn Book) |
-| **1919** | Launched `Tedim Thukizakna Lai` — the first Zolai newspaper (Cope as editor) |
+| **1919** | Launched `Tedim Thukizakna Lai` — first Zolai newspaper |
+| **1932** | Published `Thuciam Thak` (New Testament) in Tedim Zolai |
 
 > `J.H. Cope hong tun ciangin Zolai a kinei pan ahi hi.` — When J.H. Cope arrived, that's when Zolai came to exist [as a written language]. *(Pau, Gin Sian, 2008)*
 
@@ -114,4 +116,15 @@ The core threat: `Gamdanga piang Zomi naupangte in ei pau siam nawn loin, zang t
 8. **Arakan (Rakhine) State** — 2 groups (Asho, M'ro)
 
 ---
-*Reference: Zolai Sinna Bu (Thu Masa, pp. 1–7), Zolai Khanggui (AD 1899–2013, pp. 22–100), ZVS Standard Format, Zolai Gelhmaan Bu.*
+## 6. Significant Historical Events
+
+### France Gam Pai (Piantit Pai) — WWI (1917–1919)
+One of the most defining moments for Zomi global awareness was the **Labor Corps** mission during World War I.
+- **Departure:** May 27, 1917 (Departed from Tedim via Gunkhawm and Zangkung).
+- **Arrival:** August 15, 1917 (Marseilles, France).
+- **Scope:** 1,000 Zomite (out of 3,000 from the region) were deployed as the 61st and 62nd India Companies.
+- **Royal Visit:** In March 1918, a delegation of Zomi leaders (including Mang Pum and Thawng Za Kai) was invited by **King George V** to Buckingham Palace, London.
+- **Impact:** This event brought global exposure, the concept of a "salary" (khasum), and accelerated the spread of Christianity when the veterans returned.
+
+---
+*Reference: Zolai Sinna Bu (Lesson 34, "Piantit Pai" and "Rev. Dr. Cope"), Zolai Khanggui (AD 1899–2013, pp. 22–100), ZVS Standard Format.*

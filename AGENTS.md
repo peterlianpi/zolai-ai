@@ -132,6 +132,17 @@ python scripts/audit-jsonl -i data/output.jsonl       # Audit JSONL file
 - Use generators (`yield`) for streaming large files
 - Never load entire JSONL/CSV files into memory
 
+### Linguistic Standards (ZVS)
+- **Plurality Logic:** Strictly avoid `uh` plural markers when using the first-person inclusive `i` (we).
+  - *Pass:* `I pai hi.`
+  - *Fail:* `I pai uh hi.`
+- **Phonetic Restrictions:** Prevent generation of `ti` clusters or `c` followed by `a, e, o, aw`.
+- **Apostrophe (Pawfi):** Correctly distinguish contraction (`na'ng`) from possession (`ka pu'`).
+- **Stem Morphology:** Ensure nouns and subordinate clauses use Stem II (e.g., `dahna` from `dah`, `liatna` from `lian`).
+- **Standard realization:** Phonetically, `o` is realized as `/oʊ/` (ou).
+- **Conditional Rules:** Strictly use `nong pai kei a leh` / `nong pai kei leh` for negative conditionals, NEVER `lo leh`.
+- **Dialect Exclusion:** Strictly avoid non-Tedim (Hakha/Falam) styles. **NEVER** use `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, or `cu/cun`. Always use **`pasian`, `gam`, `tapa`, `topa`, `kumpipa`, and `tua`**.
+
 ### Script Patterns (Karpathy-Style)
 Each script should have a clear structure:
 1. Imports
@@ -156,12 +167,12 @@ When generating or structuring data, responses, or examples for the Zolai langua
 ## Language Tutor Profile
 When acting as a Zolai language tutor:
 - **System Priority:** Teach effectively, guide thinking, reinforce learning, and adapt dynamically. *Never* act as a simple translator only. *Always* act as a structured tutor.
-- **Core Rules:** Adapt to learner level; keep difficulty slightly above current ability; prioritize clarity and gradual learning over complex grammar.
-- **Difficulty Control:** Adjust based on level:
-  - Beginner: short sentences, basic vocabulary.
-  - Intermediate: moderate sentence complexity.
-  - Advanced: full structure and nuance.
-  - *Always* stay slightly above user ability, increase gradually, and reduce if user struggles repeatedly.
+- **Core Rules:** Adapt to learner level; keep difficulty slightly above current ability (the +1 Rule); prioritize clarity over complex grammar. You MUST reference `wiki/curriculum/readme.md` for standard grammar patterns at each level.
+- **Difficulty Control (CEFR Aligned):** Adjust based on level:
+  - **A1-A2 (Beginner):** Focus on SOV identity, simple prepositions, and past/future markers (khin, ding, ngei).
+  - **B1-B2 (Intermediate):** Focus on cause/effect (ahih manin), interrogatives, and conditional logic (leh).
+  - **C1-C2 (Advanced/Mastery):** Use embedded clauses, I Am metaphors, rhetorical questions, and poetic parallelism.
+  - *Always* stay slightly above user ability (+1 level), increase gradually, and reduce if user struggles repeatedly.
 - **Task Routing:** Classify input as `translation`, `grammar`, `reading`, `practice`, or `conversation`. Detect domain (`religious`, `daily conversation`, `education`, `culture`, `general`). Default to `general` conversational learning if unclear.
 - **Teaching Strategy:** Do NOT give full answers immediately. Start with hints/guiding steps. Encourage participation before revealing answers.
 - **Correction Method:** Recast naturally instead of explicitly saying "wrong". Model correct usage.

@@ -1,50 +1,160 @@
 # Particle Differentiations & Verb Alternations
 
-## Concept / Rule
-Zolai utilizes distinct prefixes to indicate possession, action, or state. Additionally, Kuki-Chin languages possess two forms of most verbs (Stem I and Stem II), depending on their syntactic environment.
+This document codifies the critical grammatical particles, prefixes, and alternation rules that distinguish meaning in Zolai. Sourced from *Zolai Gelhmaan Bu*, *Zolai Khanggui* (kammal zatzia section, lines 456–481), and the ZVS Bible corpus.
 
-### "A" Prefix Usage
-1. **A + verb:** Denotes a 3rd person singular subject ("He/she does").
-   - *A pai hi* (He/she goes).
-2. **A + noun:** Denotes 3rd person singular possession ("His/her").
-   - *A pa* (His/her father).
-3. **A + preposition:** Acts as an article for position ("The + prep").
-   - *Atung* (On it).
+## 1. Personal Prefixes
 
-### "Ki" Prefix Usage
-1. **Ki + verb (Reciprocal):** Actions done to each other.
-   - *Kituak* (Meet each other).
-2. **Ki + verb (Passive):** Actions done to a subject.
-   - *Kibawl* (Be made).
-3. **Ki + noun:** Represents a collective or organization.
-   - *Kipawlna* (Organization).
+### Subject Markers
+| Prefix | Person | Example | Translation |
+| :--- | :--- | :--- | :--- |
+| **ka** | 1st singular (I) | `Ka pai hi.` | I go. |
+| **na** | 2nd singular (you) | `Na pai hi.` | You go. |
+| **a** | 3rd singular (he/she/it) | `A pai hi.` | He/she goes. |
+| **i** | 1st plural inclusive (we all) | `I pai hi.` | We go. |
+| **ko** | 1st plural exclusive (we, not you) | `Ko pai hi.` | We (excl.) go. |
 
-### "G" vs "Ng" Distinction
-A critical phonological and semantic distinction in Zolai. Misusing 'g' for 'ng' completely changes the meaning of the word.
-- **Gai** (Marry - female) vs **Ngai** (Marry - male / Love)
-- **Gah** (Earn/Fruit) vs **Ngah** (Receive)
-- **Gam** (Country/Land) vs **Ngam** (Dare)
-- **Gap** (Strong/Firm) vs **Ngap** (Start work / Be able to)
+### "A" Prefix Multi-Function
+1. **A + verb:** 3rd person subject — `A pai hi.` (He goes.)
+2. **A + noun:** 3rd person possession — `A pa` (His father.)
+3. **A + preposition:** Article/position — `Atung` (On top / above.)
 
-### Verb Stem Alternation (Stem I and Stem II)
-- **Stem I:** Used in simple, affirmative main clauses (e.g., `mu` - see).
-- **Stem II:** Used in dependent clauses, negative clauses, interrogatives, and noun formations (e.g., `muh` - seeing).
-- **Noun Formation Rule:** Verb (Stem II) + `na` = Noun (e.g., `It` + `na` = `Itna` [Love]).
+---
 
-## Decision / Application
-The parser must strictly flag any instances where "Ki" is used non-reciprocally or non-passively outside of established nouns, and it must validate the presence of Stem II verbs preceding the `na` suffix for nominalization. The tutoring agent must explicitly correct users confusing 'G' and 'Ng' sounds due to their high semantic weight.
+## 2. Plurality Logic (`uh` vs `i`)
 
-## Reason
-This standardization aligns with the Zomi Christian Literature Society (ZCLS) and the *Zolai Gelhmaan Bu* (Zolai Grammar Book), ensuring the AI's output reflects formal, educated Zolai rather than colloquial phonetic spelling errors.
+From *Khanggui* (lines 458–481), the plurality system is strict:
 
-## Pattern / Regex Snippet
-```regex
-# Ensure 'ng' is used for nasal endings and not just 'g'
-\b(tun|sin|lun|din|man|sun|kon|zon|hon)g\b
+### Rule: `uh` = 3rd person plural; `i` / `ei` = 1st person inclusive plural
 
-# Noun formation requires Stem II
-\b(mu|thei|kap)\s+na\b  # Flag to suggest muhna, theihna, kahna
-```
+| Context | Marker | Example | Translation | Note |
+| :--- | :--- | :--- | :--- | :--- |
+| 3rd person pl. | **uh** | `A pai uh hi.` | They go. | `uh` marks "them" (2+ people) |
+| 1st person incl. | **i** | `I pai hi.` | We (all) go. | NO `uh` needed! |
+| 1st person excl. | **ko** | `Ko pai hi.` | We (not you) go. | |
+| Mixed reference | context | `Amaute sang ah pai uh hi.` | They went to school. | `uh` for 3rd person pl. |
 
-## Mistake / Anti-pattern
-Do not accept `mu na` (see + noun suffix) as valid; it must always be the Stem II form `muh na`. Do not allow `gam` (country) to be translated as "dare" due to phonetic similarity with `ngam`.
+### ⚠️ Critical Rule
+> **NEVER combine `uh` with `i` (1st person inclusive).**
+> - ✅ `I pai hi.` — We go.
+> - ❌ `I pai uh hi.` — **WRONG**
+
+### Khanggui Explanation (lines 474–481)
+> `"i", "ei" I zatna mun ah, "uh" cih zat kul nawnlo hi.`
+> — When using `i` or `ei`, the word `uh` is no longer needed.
+
+> `"i" leh "ei" ciang pen, ei leh ei kigenna hi phadiak.`
+> — `i` and `ei` specifically refer to "us talking to/about us."
+
+> `"uh" ahih leh eilo midangte genna hi phadiak.`
+> — `uh` specifically refers to "them" (people other than us).
+
+---
+
+## 3. Ergative Particle `in`
+
+The particle `in` marks the **agent** (doer) of a transitive verb:
+
+| Pattern | Example | Translation |
+| :--- | :--- | :--- |
+| Agent + **in** + Object + Verb | `Pasian in leitung a piangsak hi.` | God created the earth. |
+| Pronoun + **in** | `Kei in kong gen hi.` | I (agent) say it. |
+| Noun + **in** | `Topa in hong pia hi.` | The Lord gave [it]. |
+
+### Contracted Forms
+- `Amah in` → `Ama'n` (He/she + agent)
+- `Kote in` → `Kote'n` (We + agent)
+- `Nang in` → `Na'n` (You + agent)
+
+---
+
+## 4. Locative Particle `ah`
+
+The particle `ah` marks **location, direction, or time**:
+
+| Usage | Example | Translation |
+| :--- | :--- | :--- |
+| Location | `Khua ah om hi.` | [He] is in the village. |
+| Direction | `Sang ah pai hi.` | [He] goes to school. |
+| Time | `Tua hun ah...` | At that time... |
+| Purpose | `Nek ding ah...` | For eating... |
+
+---
+
+## 5. Connectors: `le` vs `leh`
+
+| Word | Meaning | Usage | Example |
+| :--- | :--- | :--- | :--- |
+| **le** | and (joining nouns) | Connects items in a list | `Nu le Pa` (Mother and Father) |
+| **leh** | if/then/when | Conditional conjunction | `Na pai leh...` (If you go...) |
+| **le** | and (continuation) | `Vantung le leitung` (Heaven and earth) |
+
+> ⚠️ These are NOT interchangeable. `le` joins nouns; `leh` introduces conditions.
+
+---
+
+## 6. Quotative Particles
+
+| Particle | Function | Example |
+| :--- | :--- | :--- |
+| **ci** | Say/said (direct quote closer) | `"Khuavak om hen," ci hi.` — [He] said, "Let there be light." |
+| **ci-in** | Having said / saying (connective) | `Hoih hi, ci-in a mu hi.` — Seeing it, He said it was good. |
+| **kici** | Be called / named | `Laipianpa na kici hi.` — He was called Laipianpa. |
+| **ci aa** | Said and then... | `Tua bang ci aa paikhia hi.` — Having said so, he left. |
+
+---
+
+## 7. "G" vs "Ng" Distinction
+
+A critical phonological and semantic distinction. Confusing these completely changes meaning:
+
+| G Word | Meaning | NG Word | Meaning |
+| :--- | :--- | :--- | :--- |
+| **gai** | marry (female marries) | **ngai** | love/wait/long for |
+| **gah** | fruit/earn | **ngah** | receive/get |
+| **gam** | country/land | **ngam** | dare/brave |
+| **gap** | strong/firm | **ngap** | start work |
+| **gak** | sit (plural) | **ngak** | wait/midwife |
+| **gawm** | join/combine | **ngawm** | (less common) |
+| **gim** | tired/difficult | **ngim** | aim/faithful |
+| **gol** | big/mature | **ngol** | (less common) |
+| **gen** | say/speak | **ngen** | pray/request |
+| **gel** | write/mark | **ngel** | certainly/surely |
+
+---
+
+## 8. Verb Stem Alternation (Stem I vs Stem II)
+
+| Environment | Stem Used | Example |
+| :--- | :--- | :--- |
+| Affirmative main clause | **Stem I** | `Ka mu hi.` — I see. |
+| Dependent/subordinate clause | **Stem II** | `A muh ciangin...` — When [he] saw... |
+| Negative clause | **Stem II** | `Ka muh lo hi.` — I don't see. |
+| Interrogative | **Stem II** | `Na muh hiam?` — Do you see? |
+| Nominalization (+na) | **Stem II** | `Muhna` — Vision/seeing. |
+
+---
+
+## 9. Authoritative Spacing Fixes
+
+| Wrong | Correct | Note |
+| :--- | :--- | :--- |
+| `uhhi` | `uh hi` | Plural marker + copula must be separated |
+| `ahihi` | `ahi hi` | |
+| `u hi` | `uh hi` | Missing 'h' |
+| `na sep` | `nasep` | "Work" is a compound |
+| `ci'n` | `ci hi` or `ci-in` | Context-dependent |
+| `le hang` | `lehang` | "if we" is compound |
+
+---
+
+## 10. Demonstratives & Spatial Deictics
+
+| Word | Meaning | Usage |
+| :--- | :--- | :--- |
+| **hih** | this (near speaker) | `Hih laibu` — This book |
+| **tua** | that (near listener) | `Tua mipa` — That man |
+| **a** | the (generic) | `A mipa` — The man |
+| **koi** | which/where | `Koi ah?` — Where? |
+
+---
+*Reference: Zolai Gelhmaan Bu (Vol I), Zolai Khanggui (kammal zatzia pp. 456–481), Zolai Sinna Bu, ZVS Bible (2018), ZCLS Standards.*
