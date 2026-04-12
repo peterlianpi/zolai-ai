@@ -22,7 +22,7 @@ Zolai is highly agglutinative, heavily relying on suffixes and compounding to fo
    - **Rule:** `[Action/Object] + Set`
    - **Function:** Denotes a mechanical or automated version of a task.
    - **Examples:**
-     - `Tui` (Water) + `Lup` (Pump) + `Set` = `Tui-lup-set` (Water pump machine)
+     - `Tui` (Water) + `Hup` (Suck/Draw) + `Set` = `Tui-hup-set` (Water pump machine)
      - `Sik` (Iron) + `Set` = `Sik-set` (Heavy machinery/Robot)
 4. **The `Siangtho` Modifier (Holy/Sanctified/Pure):**
    - **Rule:** `[Noun] + Siangtho`
