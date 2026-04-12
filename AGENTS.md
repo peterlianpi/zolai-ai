@@ -1,10 +1,32 @@
-# AGENTS.md — Zolai Kaggle Workspace
+# AGENTS.md — Zolai AI Second Brain Project
 
 ## Build / Install / Run Commands
 
 ```bash
 pip install -e .                     # Editable install (zolai CLI entrypoint)
 pip install -r requirements.txt      # Core ML deps (datasets, transformers, peft, torch, jupyter)
+pip install -e ".[dev]"              # Install with dev dependencies (ruff, mypy, pytest)
+```
+
+**Linting & Type Checking:**
+```bash
+ruff check src/ scripts/                # Lint Python files
+ruff check --fix src/ scripts/          # Auto-fix issues
+mypy src/ scripts/                      # Type check (uses pyproject.toml config)
+```
+
+**Testing:**
+```bash
+pytest tests/                           # Run test suite
+python -m pytest tests/ -v              # Verbose output
+pytest tests/test_specific_file.py::test_function_name  # Run a single specific test
+python scripts/test_grammar_rules.py    # Grammar rule validation script
+```
+
+**Run Single Script:**
+```bash
+python scripts/<script_name>.py --arg1 value --arg2 value
+python -c "import json; [json.loads(l) for l in open('output.jsonl')]"  # Validate JSONL output
 ```
 
 **CLI commands:**
@@ -25,19 +47,28 @@ python scripts/export_all_linguistics_sources.py [--ocr] [--overwrite]
 
 **Notebooks:** Located in `notebooks/` — designed for Kaggle execution.
 
-## Testing
+## Testing Validation
 
-No formal test suite exists. Validate changes by:
+**No formal extensive pytest test suite exists yet.** Validate changes by:
 1. Running the affected script/notebook end-to-end with a small sample
 2. Checking output JSONL validity: `python -c "import json; [json.loads(l) for l in open('output.jsonl')]"`
 3. Verifying UTF-8 integrity and no truncated fragments (lowercase-end check)
+4. Running grammar validation: `python scripts/test_grammar_rules.py`
+
+**Validation Scripts:**
+```bash
+python scripts/test_grammar_rules.py                    # Test grammar patterns
+python scripts/verify_words.py data/processed/          # Verify word list integrity
+python scripts/audit-jsonl -i data/output.jsonl       # Audit JSONL file
+```
 
 ## Code Style Guidelines
 
 ### General
-- **Line length:** ~120 chars max
+- **Line length:** ~120 chars max (enforced by ruff in pyproject.toml)
 - **Encoding:** Strictly valid UTF-8; no truncated fragments
-- **Formatting:** No auto-formatter configured; follow existing file conventions
+- **Formatting:** Use ruff for linting; follow existing file conventions
+- **Python:** 3.10+ required (`from __future__ import annotations` in all files)
 
 ### Imports
 - Every file starts with `from __future__ import annotations`
@@ -65,10 +96,12 @@ No formal test suite exists. Validate changes by:
 - Always log or print error context; never silently swallow
 - Use `raise SystemExit(main())` for script entry points
 - Use `argparse` with sensible defaults for all CLI scripts
+- Log to stderr with context: `print(f"Error processing {file}: {e}", file=sys.stderr)`
+- Fail fast on unrecoverable errors (missing files, invalid config)
 
 ### Path Handling
 - Prefer `pathlib.Path` over `os.path` for new code
-- Use `Path(...).mkdir(parents=True, exist_ok=True)` before writing
+- Use `Path(...).parent.mkdir(parents=True, exist_ok=True)` before writing
 - Check `path.exists()` before reading
 
 ### JSONL Processing
@@ -82,47 +115,6 @@ No formal test suite exists. Validate changes by:
   sys.stdout.write(msg); sys.stdout.flush()
   ```
 - Write progress to a log file alongside stdout for resumability
-
-### Kaggle-Specific
-- First cell: internet check + consolidated `pip install`
-- Use `os.environ[...]` or `%env` over shell `export` in notebook cells
-- Default to single GPU (`CUDA_VISIBLE_DEVICES=0`); use `USE_DDP_2GPU` for multi-GPU
-- Pin deps: `pandas<3`, `matplotlib<3.10.1`; avoid `pip install -U`
-- Resolve HF datasets via `ZOLOAI_DATASET_SRC` env var
-
-## Project Structure
-
-```
-src/zolai/          # Core Python package (CLI, standardizer, paths)
-scripts/            # Standalone utility scripts
-notebooks/          # Jupyter notebooks (Kaggle-first)
-data/               # Small fixtures and word lists
-resources/          # Reference docs, grammar sheets, agent knowledge
-references/         # Large source PDFs/MD (git-ignored)
-Zolai Cleaned*/     # Dataset outputs (git-ignored)
-```
-
-## Environment Variables
-
-| Variable | Purpose |
-|----------|---------|
-| `ZOLOAI_REPO_ROOT` | Override default repo root for path resolution |
-| `ZOLOAI_DATASET_SRC` | Resolve HuggingFace dataset sources |
-| `CUDA_VISIBLE_DEVICES` | GPU selection (default: `0`) |
-| `USE_DDP_2GPU` | Enable multi-GPU distributed training |
-
-## Package Structure
-
-```
-src/zolai/
-  __init__.py       # Package init
-  cli.py            # CLI entrypoint (zolai command)
-  paths.py          # Central path management (RepoPaths dataclass)
-  commands/         # Subcommand implementations
-  v9/               # V9 pipeline standardizer + blacklist filters
-```
-
-## Key Conventions
 
 ### Dataclass Usage
 - Use `@dataclass` for stats, config, and path objects
@@ -140,14 +132,34 @@ src/zolai/
 - Use generators (`yield`) for streaming large files
 - Never load entire JSONL/CSV files into memory
 
-### Notebook Conventions
-- First cell: internet connectivity check + consolidated pip install
-- Use `%env` magic for environment variables in cells
-- Pin dependency versions; avoid `pip install -U`
-- Default to single GPU; use env vars for multi-GPU
+### Script Patterns (Karpathy-Style)
+Each script should have a clear structure:
+1. Imports
+2. Configuration/Constants
+3. Helper functions
+4. Main execution function
+5. Entry point with `if __name__ == "__main__": raise SystemExit(main())`
 
-## Git Notes
+## Content Selection Rules
+When generating or structuring data, responses, or examples for the Zolai language, adhere to the following domain-specific guidelines to match user intent and level:
 
-- Large outputs in `Zolai Cleaned*/` and `references/` are git-ignored
-- Commit only source code, configs, and small data fixtures
-- Do not commit generated outputs or model checkpoints
+- **General Principles:**
+  - Prefer simple, everyday language for beginners.
+  - Introduce domain-specific language only when appropriate.
+  - Avoid mixing too many domains in one response.
+  - Balance exposure across domains over time.
+- **Religious Text:** Use for structured, formal language.
+- **Conversation:** Use for daily communication practice.
+- **Education:** Use for grammar and structured learning.
+- **Culture:** Use for contextual understanding and expressions.
+
+## Language Tutor Profile
+When acting as a Zolai language tutor:
+- **Core Rules:** Adapt to learner level; keep difficulty slightly above current ability; prioritize clarity and gradual learning over complex grammar.
+- **Teaching Strategy:** Do NOT give full answers immediately. Start with hints/guiding steps. Encourage participation before revealing answers.
+- **Correction Method:** Recast naturally instead of explicitly saying "wrong". Model correct usage.
+- **Feedback:** Provide specific, actionable feedback; focus on 1-2 key improvements.
+- **Language Rules:** Follow SOV structure; use English only for explanations; keep explanations short.
+- **Data Usage:** Use all domains without bias.
+- **Memory Behavior:** Track weak vocabulary/grammar and reintroduce later.
+- **Response Flow:** 1) Identify intent 2) Detect level 3) Select domain 4) Apply teaching strategy 5) Generate response.
