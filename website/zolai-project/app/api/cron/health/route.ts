@@ -1,6 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
 import prisma from "@/lib/prisma";
-import { notify } from "@/lib/telegram";
 import { monitorConfig } from "@/lib/config/monitoring";
 import { getPerformanceMetrics } from "@/lib/services/performance-monitoring";
 import {
@@ -8,6 +7,7 @@ import {
   getServerMetrics,
   getSystemHealth,
 } from "@/lib/services/system-resources";
+import { sendMonitorAlert } from "@/lib/services/telegram-monitor";
 
 // Call this from an external cron (e.g. cron-job.org, Vercel cron) every 5 minutes
 // GET /api/cron/health?secret=CRON_SECRET
@@ -23,23 +23,24 @@ export async function GET(req: NextRequest) {
   try {
     await prisma.$queryRaw`SELECT 1`;
     dbOk = true;
-  } catch (e) {
-    await notify(`🚨 <b>DB DOWN</b>\n${e instanceof Error ? e.message : "unknown error"}\n${new Date().toISOString()}`);
+  } catch {
+    dbOk = false;
   }
 
   const mem = process.memoryUsage();
   const heapMb = Math.round(mem.heapUsed / 1024 / 1024);
 
-  if (heapMb > monitorConfig.heapWarningMb) {
-    await notify(`⚠️ <b>High memory</b>: ${heapMb}MB heap used`);
-  }
-
   const performanceMetrics = await getPerformanceMetrics(monitorConfig.performanceTimeRange);
   const systemHealth = getSystemHealth();
   const serverMetrics = getServerMetrics();
   const dbLatencyMs = Date.now() - start;
-  
-  // Send monitoring progress update
+
+  const severity = !dbOk || systemHealth.status === "critical"
+    ? "critical"
+    : (heapMb > monitorConfig.heapWarningMb || systemHealth.status === "warning")
+      ? "warning"
+      : "info";
+
   const progressMessage = `📊 <b>Cron Health Status</b>\n` +
     `✅ Status: ${dbOk ? "OK" : "⚠️ DB Issue"}\n` +
     `📈 DB Latency: ${dbLatencyMs}ms\n` +
@@ -50,8 +51,22 @@ export async function GET(req: NextRequest) {
     `❌ Error Rate: ${performanceMetrics.errorRate.toFixed(2)}%\n` +
     `🧠 Event Loop Delay: ${serverMetrics.eventLoopDelay.toFixed(2)}ms\n\n` +
     formatSystemHealthStats(systemHealth);
-  
-  await notify(progressMessage);
+
+  if (monitorConfig.heartbeatEnabled || severity !== "info") {
+    await sendMonitorAlert({
+      source: "cron-health",
+      title: "System Health Monitor",
+      message: progressMessage,
+      severity,
+      metadata: {
+        dbOk,
+        dbLatencyMs,
+        heapMb,
+        uptime: Math.floor(process.uptime()),
+        performanceTimeRange: monitorConfig.performanceTimeRange,
+      },
+    });
+  }
 
   return NextResponse.json({
     ok: dbOk,
