@@ -37,6 +37,7 @@ export const monitorConfig = {
   alertMaxRetries: toInt(process.env.MONITOR_ALERT_MAX_RETRIES, 3),
   alertRetryBaseMs: toInt(process.env.MONITOR_ALERT_RETRY_BASE_MS, 1000),
   alertRetryMaxMs: toInt(process.env.MONITOR_ALERT_RETRY_MAX_MS, 10000),
+  alertDefaultSilenceMinutes: toInt(process.env.MONITOR_ALERT_DEFAULT_SILENCE_MINUTES, 60),
   alertQuietHoursStart: toInt(process.env.MONITOR_QUIET_HOURS_START, -1),
   alertQuietHoursEnd: toInt(process.env.MONITOR_QUIET_HOURS_END, -1),
   maintenanceMode: toBool(process.env.MONITOR_MAINTENANCE_MODE, false),
