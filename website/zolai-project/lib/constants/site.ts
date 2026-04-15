@@ -38,7 +38,8 @@ export const DEFAULT_SITE_SHORT_NAME = "Zolai";
 /**
  * Creator/author organization name
  */
-export const DEFAULT_SITE_CREATOR = DEFAULT_SITE_NAME;
+export const DEFAULT_SITE_CREATOR =
+  process.env.NEXT_PUBLIC_SITE_CREATOR || DEFAULT_SITE_NAME;
 
 /**
  * Publisher organization name
@@ -98,10 +99,16 @@ export const DEFAULT_GEO_PLACENAME = "Chin State, Myanmar";
 export const DEFAULT_GEO_POSITION = "23.5;93.5";
 
 /**
- * Contact email
+ * Contact emails
  */
 export const DEFAULT_CONTACT_EMAIL =
-  process.env.NEXT_PUBLIC_CONTACT_EMAIL || `contact@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000").hostname}`;
+  process.env.NEXT_PUBLIC_CONTACT_EMAIL || `hello@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000").hostname}`;
+
+export const DEFAULT_SUPPORT_EMAIL =
+  process.env.NEXT_PUBLIC_SUPPORT_EMAIL || `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000").hostname}`;
+
+export const DEFAULT_ADMIN_EMAIL =
+  process.env.NEXT_PUBLIC_ADMIN_EMAIL || `admin@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "http://localhost:3000").hostname}`;
 
 /**
  * Team name used in email signatures
