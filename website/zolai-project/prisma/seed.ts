@@ -24,11 +24,11 @@ async function main() {
   const hash = await ctx.password.hash("Password123!");
 
   const testUsers = [
-    { id: "admin_zolai_001",   email: "admin@zolai.peterlianpi.site",     name: "Zolai Admin",     role: "SUPER_ADMIN"   },
-    { id: "user_admin",         email: "admin2@zolai.peterlianpi.site",    name: "Admin",           role: "ADMIN"         },
-    { id: "user_content_admin", email: "content@zolai.peterlianpi.site",   name: "Content Manager", role: "CONTENT_ADMIN" },
-    { id: "user_moderator",     email: "moderator@zolai.peterlianpi.site", name: "Moderator",       role: "MODERATOR"     },
-    { id: "user_regular",       email: "user@zolai.peterlianpi.site",      name: "Regular User",    role: "USER"          },
+    { id: "admin_zolai_001",   email: "admin@zolai.space",     name: "Zolai Admin",     role: "SUPER_ADMIN"   },
+    { id: "user_admin",         email: "admin2@zolai.space",    name: "Admin",           role: "ADMIN"         },
+    { id: "user_content_admin", email: "content@zolai.space",   name: "Content Manager", role: "CONTENT_ADMIN" },
+    { id: "user_moderator",     email: "moderator@zolai.space", name: "Moderator",       role: "MODERATOR"     },
+    { id: "user_regular",       email: "user@zolai.space",      name: "Regular User",    role: "USER"          },
   ];
 
   for (const u of testUsers) {

@@ -177,7 +177,7 @@ const newsletter = new Hono()
       },
     });
 
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://zolai.ai";
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000";
     const confirmUrl = `${baseUrl}/api/newsletter/confirm/${token}`;
 
     try {

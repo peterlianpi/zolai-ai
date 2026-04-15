@@ -4,7 +4,7 @@ set -euo pipefail
 
 SERVER="zolai"
 SERVICE="zolai-next"
-SITE="https://zolai.peterlianpi.site"
+SITE="${NEXT_PUBLIC_APP_URL:-https://zolai.space}"
 INTERVAL=${1:-30}  # Default 30 seconds
 
 C='\033[0;36m'; G='\033[0;32m'; Y='\033[1;33m'; R='\033[0;31m'; N='\033[0m'

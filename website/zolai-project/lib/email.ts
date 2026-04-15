@@ -84,7 +84,7 @@ export function buildSecurityEmailHtml(
           ` : ''}
           <div class="footer">
             <p>If you did not request this action, please ignore this email or contact support.</p>
-            <p>© 2026 Zolai. All rights reserved.</p>
+            <p>© ${new Date().getFullYear()} ${process.env.NEXT_PUBLIC_APP_NAME || 'Zolai'}. All rights reserved.</p>
           </div>
         </div>
       </body>
