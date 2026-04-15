@@ -33,8 +33,25 @@ interface MonitorAlertResult {
 
 const sleep = (ms: number) => new Promise(resolve => setTimeout(resolve, ms));
 
-const incidentKey = (source: string) => `monitor.incident.${source}`;
-const silenceKey = (source: string) => `monitor.silence.${source}`;
+// incidentKey is kept for reference if needed; unused after migration to Prisma models
+// const incidentKey = (source: string) => `monitor.incident.${source}`;
+const severityToDb = {
+  info: "INFO",
+  warning: "WARNING",
+  critical: "CRITICAL",
+} as const;
+
+const statusToDb = {
+  healthy: "HEALTHY",
+  warning: "WARNING",
+  critical: "CRITICAL",
+} as const;
+
+const dbToStatus: Record<string, IncidentStatus> = {
+  HEALTHY: "healthy",
+  WARNING: "warning",
+  CRITICAL: "critical",
+};
 
 function getChatIds(severity: AlertSeverity): string[] {
   const adminChat = process.env.TELEGRAM_CHAT_ID ? [process.env.TELEGRAM_CHAT_ID] : [];
@@ -94,28 +111,41 @@ async function writeAuditLog(action: "CREATE" | "UPDATE", entityType: string, en
 }
 
 async function getIncidentState(source: string): Promise<IncidentState | null> {
-  const setting = await prisma.siteSetting.findUnique({ where: { key: incidentKey(source) } });
-  if (!setting) return null;
-  try {
-    return JSON.parse(setting.value) as IncidentState;
-  } catch {
+  const incident = await prisma.monitorIncident.findUnique({
+    where: { source },
+    select: { status: true, updatedAt: true },
+  });
+  if (!incident) {
     return null;
   }
+  return {
+    status: dbToStatus[incident.status] ?? "healthy",
+    updatedAt: incident.updatedAt.getTime(),
+  };
 }
 
 async function setIncidentState(source: string, state: IncidentState): Promise<void> {
-  await prisma.siteSetting.upsert({
-    where: { key: incidentKey(source) },
-    update: { value: JSON.stringify(state) },
-    create: { key: incidentKey(source), value: JSON.stringify(state) },
+  await prisma.monitorIncident.upsert({
+    where: { source },
+    update: {
+      status: statusToDb[state.status],
+      updatedAt: new Date(state.updatedAt),
+    },
+    create: {
+      source,
+      status: statusToDb[state.status],
+      updatedAt: new Date(state.updatedAt),
+    },
   });
 }
 
 async function getSilencedUntil(source: string): Promise<number | null> {
-  const setting = await prisma.siteSetting.findUnique({ where: { key: silenceKey(source) } });
-  if (!setting) return null;
-  const value = Number.parseInt(setting.value, 10);
-  return Number.isFinite(value) ? value : null;
+  const incident = await prisma.monitorIncident.findUnique({
+    where: { source },
+    select: { silencedUntil: true },
+  });
+  if (!incident?.silencedUntil) return null;
+  return incident.silencedUntil.getTime();
 }
 
 async function isSilenced(source: string): Promise<boolean> {
@@ -125,10 +155,9 @@ async function isSilenced(source: string): Promise<boolean> {
 
 async function isDuplicate(dedupKey: string): Promise<boolean> {
   const threshold = new Date(Date.now() - monitorConfig.alertDedupWindowMs);
-  const existing = await prisma.auditLog.findFirst({
+  const existing = await prisma.monitorAlert.findFirst({
     where: {
-      entityType: "monitor_alert",
-      entityId: dedupKey,
+      dedupKey,
       createdAt: { gte: threshold },
     },
     select: { id: true },
@@ -148,22 +177,28 @@ async function sendChunksWithRetry(chatId: string, text: string, deliveryId: str
       const result = await sendTelegramDetailed(chatId, chunk);
       if (result.ok) {
         success = true;
-        await writeAuditLog("CREATE", "monitor_delivery", `${deliveryId}:${chatId}:${chunkIndex}:${attempt}`, {
-          chatId,
-          chunkIndex,
-          attempt,
-          status: "sent",
+        await prisma.monitorAlertDelivery.create({
+          data: {
+            alertId: deliveryId,
+            chatId,
+            chunkIndex,
+            attempt,
+            status: "SENT",
+          },
         });
         break;
       }
 
       lastError = result.error ?? "delivery_failed";
-      await writeAuditLog("UPDATE", "monitor_delivery", `${deliveryId}:${chatId}:${chunkIndex}:${attempt}`, {
-        chatId,
-        chunkIndex,
-        attempt,
-        status: "failed",
-        error: lastError,
+      await prisma.monitorAlertDelivery.create({
+        data: {
+          alertId: deliveryId,
+          chatId,
+          chunkIndex,
+          attempt,
+          status: "FAILED",
+          error: lastError,
+        },
       });
 
       if (attempt < monitorConfig.alertMaxRetries) {
@@ -173,11 +208,15 @@ async function sendChunksWithRetry(chatId: string, text: string, deliveryId: str
     }
 
     if (!success) {
-      await writeAuditLog("UPDATE", "monitor_delivery", `${deliveryId}:${chatId}:${chunkIndex}:final`, {
-        chatId,
-        chunkIndex,
-        status: "failed_final",
-        error: lastError,
+      await prisma.monitorAlertDelivery.create({
+        data: {
+          alertId: deliveryId,
+          chatId,
+          chunkIndex,
+          attempt: monitorConfig.alertMaxRetries,
+          status: "FAILED_FINAL",
+          error: lastError,
+        },
       });
       return false;
     }
@@ -188,72 +227,69 @@ async function sendChunksWithRetry(chatId: string, text: string, deliveryId: str
 
 export async function setMonitorSilence(source: string, minutes = monitorConfig.alertDefaultSilenceMinutes): Promise<number> {
   const silencedUntil = Date.now() + Math.max(1, minutes) * 60 * 1000;
-  await prisma.siteSetting.upsert({
-    where: { key: silenceKey(source) },
-    update: { value: String(silencedUntil) },
-    create: { key: silenceKey(source), value: String(silencedUntil) },
+  await prisma.monitorIncident.upsert({
+    where: { source },
+    update: { silencedUntil: new Date(silencedUntil) },
+    create: {
+      source,
+      status: "HEALTHY",
+      silencedUntil: new Date(silencedUntil),
+    },
   });
   return silencedUntil;
 }
 
 export async function clearMonitorSilence(source: string): Promise<void> {
-  await prisma.siteSetting.deleteMany({ where: { key: silenceKey(source) } });
+  await prisma.monitorIncident.updateMany({
+    where: { source },
+    data: { silencedUntil: null },
+  });
 }
 
 export async function getMonitorIncidents(): Promise<MonitorIncident[]> {
-  const [incidentSettings, silenceSettings] = await Promise.all([
-    prisma.siteSetting.findMany({ where: { key: { startsWith: "monitor.incident." } }, orderBy: { key: "asc" } }),
-    prisma.siteSetting.findMany({ where: { key: { startsWith: "monitor.silence." } } }),
-  ]);
+  const incidents = await prisma.monitorIncident.findMany({
+    orderBy: [{ status: "desc" }, { updatedAt: "desc" }],
+    select: {
+      source: true,
+      status: true,
+      updatedAt: true,
+      silencedUntil: true,
+    },
+  });
 
-  const silenceMap = new Map<string, number>();
-  for (const setting of silenceSettings) {
-    const source = setting.key.replace("monitor.silence.", "");
-    const value = Number.parseInt(setting.value, 10);
-    silenceMap.set(source, Number.isFinite(value) ? value : 0);
-  }
-
-  const incidents: MonitorIncident[] = [];
-  for (const setting of incidentSettings) {
-    try {
-      const source = setting.key.replace("monitor.incident.", "");
-      const parsed = JSON.parse(setting.value) as IncidentState;
-      incidents.push({
-        source,
-        status: parsed.status,
-        updatedAt: parsed.updatedAt,
-        silencedUntil: silenceMap.get(source) ?? null,
-      });
-    } catch {
-      // ignore invalid records
-    }
-  }
-
-  return incidents;
+  return incidents.map(incident => ({
+    source: incident.source,
+    status: dbToStatus[incident.status] ?? "healthy",
+    updatedAt: incident.updatedAt.getTime(),
+    silencedUntil: incident.silencedUntil ? incident.silencedUntil.getTime() : null,
+  }));
 }
 
 export async function getRecentMonitorAlerts(limit = 50): Promise<Array<Record<string, unknown>>> {
-  const rows = await prisma.auditLog.findMany({
-    where: { entityType: { in: ["monitor_alert", "monitor_delivery"] } },
+  const rows = await prisma.monitorAlert.findMany({
     orderBy: { createdAt: "desc" },
     take: Math.max(1, Math.min(limit, 200)),
-    select: {
-      id: true,
-      action: true,
-      entityType: true,
-      entityId: true,
-      createdAt: true,
-      newValues: true,
+    include: {
+      deliveries: {
+        orderBy: { createdAt: "desc" },
+        take: 20,
+      },
     },
   });
 
   return rows.map(row => ({
     id: row.id,
-    action: row.action,
-    entityType: row.entityType,
-    entityId: row.entityId,
+    source: row.source,
+    title: row.title,
+    severity: row.severity,
+    sent: row.sent,
+    reason: row.reason,
+    dedupKey: row.dedupKey,
+    transitioned: row.transitioned,
+    isRecovery: row.isRecovery,
+    metadata: row.metadata,
     createdAt: row.createdAt,
-    payload: row.newValues,
+    deliveries: row.deliveries,
   }));
 }
 
@@ -270,7 +306,12 @@ export async function sendMonitorAlert(input: MonitorAlertInput): Promise<Monito
     return { sent: false, reason: "silenced" };
   }
 
-  const dedupKey = hashId(`${input.source}:${input.title}:${input.severity}`);
+  const dedupKey = hashId(
+    input.severity === "info"
+      // Heartbeat info alerts: dedup per hour bucket so each hour's first alert sends
+      ? `${input.source}:${input.title}:${input.severity}:${Math.floor(Date.now() / 3600000)}`
+      : `${input.source}:${input.title}:${input.severity}`
+  );
   const duplicate = await isDuplicate(dedupKey);
 
   const previousState = await getIncidentState(input.source);
@@ -295,14 +336,42 @@ export async function sendMonitorAlert(input: MonitorAlertInput): Promise<Monito
     return { sent: false, reason: "missing_chat_id" };
   }
 
-  const deliveryId = hashId(`${input.source}:${Date.now()}:${Math.random()}`);
+  const alert = await prisma.monitorAlert.create({
+    data: {
+      source: input.source,
+      title: input.title,
+      message,
+      severity: severityToDb[input.severity],
+      sent: false,
+      dedupKey,
+      transitioned,
+      isRecovery,
+      metadata: input.metadata ?? {},
+    },
+  });
+
+  const deliveryId = alert.id;
   let sentCount = 0;
   for (const chatId of chatIds) {
     const ok = await sendChunksWithRetry(chatId, message, deliveryId);
     if (ok) sentCount += 1;
   }
 
-  await writeAuditLog(sentCount > 0 ? "CREATE" : "UPDATE", "monitor_alert", dedupKey, {
+  await prisma.monitorAlert.update({
+    where: { id: alert.id },
+    data: {
+      sent: sentCount > 0,
+      reason: sentCount > 0 ? null : "delivery_failed",
+      metadata: {
+        ...(input.metadata ?? {}),
+        sentCount,
+        totalChats: chatIds.length,
+        timestamp: Date.now(),
+      },
+    },
+  });
+
+  await writeAuditLog(sentCount > 0 ? "CREATE" : "UPDATE", "monitor_alert", alert.id, {
     source: input.source,
     title: input.title,
     severity: input.severity,
@@ -311,8 +380,6 @@ export async function sendMonitorAlert(input: MonitorAlertInput): Promise<Monito
     dedupKey,
     transitioned,
     isRecovery,
-    metadata: input.metadata ?? {},
-    timestamp: Date.now(),
   });
 
   return sentCount > 0 ? { sent: true } : { sent: false, reason: "delivery_failed" };

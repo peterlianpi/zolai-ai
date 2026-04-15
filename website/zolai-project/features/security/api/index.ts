@@ -2,11 +2,11 @@ import { Hono } from "hono";
 import { z } from "zod";
 import { zValidator } from "@hono/zod-validator";
 import prisma from "@/lib/prisma";
-import { getSessionUserId } from "@/lib/auth/hono-helpers";
+import { getSessionUserId } from "@/lib/auth/server-guards";
 import { toAuditJson } from "@/lib/audit";
 import { auth } from "@/lib/auth";
 import { ok, created, list, notFound, unauthorized, internalError, forbidden } from "@/lib/api/response";
-import { requireMinRole } from "@/lib/auth/role-guards";
+import { requireMinRole } from "@/lib/auth/server-guards";
 import {
   clearMonitorSilence,
   getMonitorIncidents,
