@@ -6,9 +6,13 @@ import {
   DEFAULT_SITE_SHORT_NAME,
   DEFAULT_SITE_DESCRIPTION,
   DEFAULT_SITE_URL,
+  DEFAULT_SITE_CREATOR,
   DEFAULT_TWITTER_HANDLE,
   DEFAULT_TIMEZONE,
   DEFAULT_FOOTER_COPYRIGHT_TEXT,
+  DEFAULT_CONTACT_EMAIL,
+  DEFAULT_SUPPORT_EMAIL,
+  DEFAULT_ADMIN_EMAIL,
 } from "../lib/constants/site";
 
 async function main() {
@@ -57,7 +61,7 @@ async function main() {
     { key: "site_short_name", value: DEFAULT_SITE_SHORT_NAME },
     { key: "site_description", value: DEFAULT_SITE_DESCRIPTION },
     { key: "site_url", value: DEFAULT_SITE_URL },
-    { key: "site_creator", value: "Peter Lian Pi" },
+    { key: "site_creator", value: DEFAULT_SITE_CREATOR },
     { key: "site_publisher", value: DEFAULT_SITE_NAME },
     { key: "site_timezone", value: DEFAULT_TIMEZONE },
     { key: "twitter_handle", value: DEFAULT_TWITTER_HANDLE },
@@ -71,6 +75,9 @@ async function main() {
     { key: "comments_enabled", value: "true" },
     { key: "posts_per_page", value: "10" },
     { key: "footer_copyright_text", value: DEFAULT_FOOTER_COPYRIGHT_TEXT },
+    { key: "contact_email",         value: DEFAULT_CONTACT_EMAIL },
+    { key: "support_email",         value: DEFAULT_SUPPORT_EMAIL },
+    { key: "admin_email",           value: DEFAULT_ADMIN_EMAIL },
   ];
   for (const s of siteSettings) {
     await prisma.siteSetting.upsert({ where: { key: s.key }, update: { value: s.value }, create: s });
