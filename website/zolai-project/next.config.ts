@@ -39,7 +39,7 @@ const nextConfig: NextConfig = {
   // PERFORMANCE OPTIMIZATIONS
   experimental: {
     serverActions: {
-      allowedOrigins: ["localhost:3000", "192.168.100.7:3000", "192.168.100.10:3000", "zolai.peterlianpi.site", "zolai.space", "www.zolai.space", "chat.peterlianpi.site"],
+      allowedOrigins: ["localhost:3000", "192.168.100.7:3000", "192.168.100.10:3000", "zolai.space", "www.zolai.space"],
     },
     authInterrupts: true,
     optimizeCss: true, // Enable CSS optimization
@@ -52,7 +52,7 @@ const nextConfig: NextConfig = {
     ], // Tree-shake heavy packages
   },
   
-  allowedDevOrigins: ["localhost", "192.168.100.7", "192.168.100.10", "zolai.peterlianpi.site", "zolai.space"],
+  allowedDevOrigins: ["localhost", "192.168.100.7", "192.168.100.10", "zolai.space"],
   
   
   // Image optimization

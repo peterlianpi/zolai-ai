@@ -57,7 +57,7 @@ const seo = new Hono()
       }),
     ]);
 
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://zolai.ai";
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000";
 
     let xml = `<?xml version="1.0" encoding="UTF-8"?>\n`;
     xml += `<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n`;
@@ -89,7 +89,7 @@ const seo = new Hono()
   })
 
   .get("/robots.txt", async (c) => {
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://zolai.ai";
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000";
 
     let robots = `User-agent: *\n`;
     robots += `Allow: /\n\n`;
@@ -113,7 +113,7 @@ const seo = new Hono()
       take: 20,
     });
 
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://zolai.ai";
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000";
 
     let rss = `<?xml version="1.0" encoding="UTF-8"?>\n`;
     rss += `<rss version="2.0">\n`;
@@ -150,7 +150,7 @@ const seo = new Hono()
       take: 20,
     });
 
-    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://zolai.ai";
+    const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000";
 
     let rss = `<?xml version="1.0" encoding="UTF-8"?>\n`;
     rss += `<rss version="2.0">\n`;

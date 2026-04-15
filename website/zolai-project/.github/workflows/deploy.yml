@@ -54,7 +54,7 @@ jobs:
       - name: Health check
         run: |
           sleep 10
-          curl -f https://zolai.peterlianpi.site/api/cron/health || exit 1
+          curl -f https://zolai.space/api/cron/health || exit 1
 
       - name: Notify Telegram on failure
         if: failure()

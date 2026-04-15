@@ -13,7 +13,7 @@ jobs:
         id: check
         run: |
           STATUS=$(curl -s -o /dev/null -w "%{http_code}" --max-time 10 \
-            "https://zolai.peterlianpi.site/api/cron/health?secret=${{ secrets.CRON_SECRET }}")
+            "${NEXT_PUBLIC_APP_URL:-https://zolai.space}/api/cron/health?secret=${{ secrets.CRON_SECRET }}")
           echo "status=$STATUS" >> $GITHUB_OUTPUT
           echo "HTTP status: $STATUS"
           [ "$STATUS" = "200" ] || exit 1

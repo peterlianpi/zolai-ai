@@ -95,7 +95,7 @@ All systems normal.
 • Event tracking
 • Deployment status
 
-For more info, visit: https://zolai.space
+For more info, visit: ${process.env.NEXT_PUBLIC_APP_URL || 'https://zolai.space'}
       `);
     } else {
       await sendTelegramMessage(chatId, `
@@ -187,7 +187,7 @@ async function setTelegramCommands(commands: Array<{ command: string; descriptio
 
 async function checkDeploymentStatus(): Promise<string> {
   try {
-    const domain = 'https://zolai.space';
+    const domain = process.env.NEXT_PUBLIC_APP_URL || 'http://localhost:3000';
     
     // Check domain
     const domainRes = await fetch(domain, { method: 'HEAD' });
@@ -205,7 +205,7 @@ async function checkDeploymentStatus(): Promise<string> {
       return `
 🚀 <b>Deployment Status: LIVE ✅</b>
 
-Domain: https://zolai.space
+Domain: ${domain}
 API: ✅ Responding
 Database: ✅ Connected
 

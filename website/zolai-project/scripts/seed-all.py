@@ -291,13 +291,15 @@ def seed_resources(cur) -> int:
 
 # ── SEO Settings ──────────────────────────────────────────────────────────────
 def seed_seo(cur) -> int:
+    app_name = os.environ.get("NEXT_PUBLIC_APP_NAME", "Zolai AI")
+    app_url  = os.environ.get("NEXT_PUBLIC_APP_URL", "https://zolai.space")
     settings = [
-        ("site_title",       "Zolai AI — Tedim Chin Language Platform"),
+        ("site_title",       f"{app_name} — Tedim Chin Language Platform"),
         ("site_description", "Learn Tedim Zolai with AI-powered lessons, 24,891-word dictionary, and full Bible corpus."),
         ("og_image",         "/og-image.png"),
-        ("twitter_handle",   "@zolai_ai"),
+        ("twitter_handle",   os.environ.get("NEXT_PUBLIC_TWITTER_HANDLE", "@zolai_ai")),
         ("robots_txt",       "User-agent: *\nAllow: /\nDisallow: /api/\nDisallow: /admin/"),
-        ("canonical_base",   "https://zolai.peterlianpi.site"),
+        ("canonical_base",   app_url),
     ]
     cur.execute("DELETE FROM seo_setting")
     rows = [[cuid(f"seo_{k}"), k, v, "", NOW, NOW] for k, v in settings]

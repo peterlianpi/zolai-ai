@@ -56,8 +56,6 @@ export const auth = betterAuth({
   trustedOrigins: [
     process.env.NEXT_PUBLIC_APP_URL || "",
     process.env.BETTER_AUTH_URL || "",
-    "https://zolai.peterlianpi.site",
-    "http://zolai.peterlianpi.site",
     // Local development origins
     "http://localhost:3000",
     "http://localhost:3001",
