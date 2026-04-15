@@ -92,26 +92,26 @@ echo "━━━━━━━━━━━━━━━━━━━━━━━━�
 echo ""; checkpoint 3
 else echo -e "${BLUE}[3/9] Skipped (already done)${NC}"; fi
 
-# Step 4: Git commit & push
+# Step 4: Git commit (local only, no remote)
 if [ "$START_STEP" -le 4 ]; then
-echo -e "${YELLOW}[4/9]${NC} Committing and pushing to git..."
+echo -e "${YELLOW}[4/9]${NC} Committing locally..."
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 git add . 2>&1
 git commit -m "Production deployment to VPS" 2>&1 || echo "No changes to commit"
-git push origin master 2>&1
-echo -e "${GREEN}✓${NC} Git pushed"
-notify_telegram "✅ Step 4/9: Code pushed to git"
+echo -e "${GREEN}✓${NC} Committed"
+notify_telegram "✅ Step 4/9: Code committed"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo ""; checkpoint 4
 else echo -e "${BLUE}[4/9] Skipped (already done)${NC}"; fi
 
-# Step 5: SSH - Pull code
+# Step 5: SSH - Rsync code to VPS
 if [ "$START_STEP" -le 5 ]; then
-echo -e "${YELLOW}[5/9]${NC} Pulling code on VPS ($SSH_HOST)..."
+echo -e "${YELLOW}[5/9]${NC} Syncing code to VPS ($SSH_HOST)..."
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-ssh $SSH_HOST "cd $DEPLOY_PATH && git pull origin master" 2>&1
-echo -e "${GREEN}✓${NC} Code pulled"
-notify_telegram "✅ Step 5/9: Code pulled on VPS"
+rsync -avz --exclude='.git' --exclude='node_modules' --exclude='.next' \
+  ./ $SSH_HOST:$DEPLOY_PATH/ 2>&1
+echo -e "${GREEN}✓${NC} Code synced"
+notify_telegram "✅ Step 5/9: Code synced to VPS"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 echo ""; checkpoint 5
 else echo -e "${BLUE}[5/9] Skipped (already done)${NC}"; fi
