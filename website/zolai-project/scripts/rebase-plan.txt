@@ -1,0 +1,20 @@
+# Commit rebase script for feature/mysql-clean
+# Run with: git filter-branch --index-filter or use manual approach
+
+# List of new commits (in order):
+# 1. chore: initial Next.js project setup
+# 2. feat: add core content models and database schema  
+# 3. feat: add rich-text editor and content templates
+# 4. feat: add admin dashboard and analytics
+# 5. feat: add content and media management APIs
+# 6. feat: add comment system
+# 7. feat: add SEO optimization features
+# 8. feat: add redirects management
+# 9. refactor: restructure codebase to feature-based architecture
+# 10. perf: optimize API endpoints and database queries
+# 11. security: fix critical vulnerabilities
+# 12. feat: add authentication with multi-tenant support
+# 13. feat: add admin pages
+# 14. chore: update dependencies to latest versions
+# 15. perf: optimize Prisma query payloads
+# 16. feat: add MySQL database support

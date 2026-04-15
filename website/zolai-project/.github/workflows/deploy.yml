@@ -1,0 +1,64 @@
+name: Deploy to VPS
+
+on:
+  push:
+    branches: [master]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v1
+
+      - name: Install dependencies
+        run: bun install --frozen-lockfile
+
+      - name: Lint
+        run: bun run lint
+
+      - name: Build
+        run: bun run build
+        env:
+          DATABASE_URL: ${{ secrets.DATABASE_URL }}
+          BETTER_AUTH_SECRET: ${{ secrets.BETTER_AUTH_SECRET }}
+          BETTER_AUTH_URL: ${{ secrets.BETTER_AUTH_URL }}
+          NEXT_PUBLIC_APP_URL: ${{ secrets.BETTER_AUTH_URL }}
+
+      - name: Sync to VPS
+        uses: appleboy/scp-action@v0.1.7
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ubuntu
+          key: ${{ secrets.VPS_SSH_KEY }}
+          source: "./"
+          target: "/home/ubuntu/nextjs-app"
+          rm: false
+          exclude: ".git,node_modules,.env*,tests,playwright-report,docs,.next/cache"
+
+      - name: Install deps & restart
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ubuntu
+          key: ${{ secrets.VPS_SSH_KEY }}
+          script: |
+            cd /home/ubuntu/nextjs-app
+            /home/ubuntu/.bun/bin/bun install --production --frozen-lockfile
+            /home/ubuntu/.bun/bin/bunx prisma migrate deploy
+            sudo systemctl restart zolai-next
+            sleep 3
+            systemctl is-active zolai-next
+
+      - name: Health check
+        run: |
+          sleep 10
+          curl -f https://zolai.peterlianpi.site/api/cron/health || exit 1
+
+      - name: Notify Telegram on failure
+        if: failure()
+        run: |
+          curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
+            -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -d text="❌ Zolai deploy FAILED on commit ${{ github.sha }} by ${{ github.actor }}"

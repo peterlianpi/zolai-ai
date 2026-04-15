@@ -1,0 +1,1485 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../lib/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id                  String               @id
+  name                String
+  email               String               @unique
+  emailVerified       Boolean              @default(false)
+  image               String?
+  createdAt           DateTime             @default(now())
+  updatedAt           DateTime             @updatedAt
+  role                UserRole             @default(USER)
+  customRoleId        String?
+  deletedAt           DateTime?
+  banExpires          DateTime?
+  banReason           String?
+  banned              Boolean?             @default(false)
+  accountLocked       Boolean              @default(false)
+  lockoutExpires      DateTime?
+  failedLoginAttempts Int                  @default(0)
+  lastFailedLoginAt   DateTime?
+  twoFactorEnabled    Boolean              @default(false)
+  accounts            Account[]
+  agentMemories       AgentMemory[]        @relation("UserAgentMemory")
+  auditLogs           AuditLog[]           @relation("AuditLogsCreated")
+  backups             Backup[]             @relation("BackupAuthor")
+  blockedIps          BlockedIp[]          @relation("BlockedIpAuthor")
+  chatSessions        ChatSession[]        @relation("UserChatSessions")
+  comments            Comment[]            @relation("CommentAuthor")
+  commentModerations  Comment[]            @relation("CommentModerator")
+  formSubmissions     FormSubmission[]     @relation("FormSubmissionUser")
+  invitationsSent     Invitation[]         @relation("InvitationsSent")
+  learningResources   LearningResource[]   @relation("ResourceAuthor")
+  organizationMembers Member[]             @relation("OrganizationMembers")
+  notifications       Notification[]
+  posts               Post[]               @relation("PostAuthor")
+  revisions           Revision[]           @relation("RevisionAuthor")
+  sessions            Session[]
+  subscribers         Subscriber[]         @relation("SubscriberModerator")
+  twoFactor           TwoFactor?
+  lessonProgress      UserLessonProgress[] @relation("UserLessonProgress")
+  subUnitProgress     UserSubUnitProgress[] @relation("UserSubUnitProgress")
+  phonicsProgress     UserPhonicsProgress[] @relation("UserPhonicsProgress")
+  userPreferences     UserPreferences?
+  streak              UserStreak?          @relation("UserStreak")
+  customRole          CustomRole?          @relation("UserCustomRoles", fields: [customRoleId], references: [id], onDelete: SetNull)
+  loginHistory        LoginHistory[]       @relation("UserLoginHistory")
+
+  @@index([email, deletedAt])
+  @@index([role])
+  @@index([customRoleId])
+  @@index([createdAt])
+  @@map("user")
+}
+
+model TwoFactor {
+  id          String   @id @default(cuid())
+  secret      String
+  backupCodes String
+  userId      String   @unique
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+  user        User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([secret])
+  @@index([userId])
+  @@map("two_factor")
+}
+
+model Session {
+  id                   String   @id
+  expiresAt            DateTime
+  token                String   @unique
+  createdAt            DateTime @default(now())
+  updatedAt            DateTime @updatedAt
+  ipAddress            String?
+  userAgent            String?
+  userId               String
+  impersonatedBy       String?
+  activeOrganizationId String?
+  user                 User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("session")
+}
+
+model Account {
+  id                    String    @id
+  accountId             String
+  providerId            String
+  userId                String
+  accessToken           String?
+  refreshToken          String?
+  idToken               String?
+  accessTokenExpiresAt  DateTime?
+  refreshTokenExpiresAt DateTime?
+  scope                 String?
+  password              String?
+  createdAt             DateTime  @default(now())
+  updatedAt             DateTime  @updatedAt
+  user                  User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("account")
+}
+
+model Verification {
+  id         String   @id
+  identifier String
+  value      String
+  expiresAt  DateTime
+  createdAt  DateTime @default(now())
+  updatedAt  DateTime @updatedAt
+
+  @@index([identifier])
+  @@map("verification")
+}
+
+model LearningResource {
+  id              String          @id @default(cuid())
+  slug            String
+  title           String
+  description     String?
+  content         String
+  resourceType    ResourceType
+  difficultyLevel DifficultyLevel @default(BEGINNER)
+  status          ResourceStatus  @default(DRAFT)
+  locale          String          @default("en")
+  zolaiLocale     String?
+  category        String?
+  tags            String[]
+  createdAt       DateTime        @default(now())
+  updatedAt       DateTime        @updatedAt
+  publishedAt     DateTime?
+  authorId        String
+  featuredMediaId String?
+  viewCount       Int             @default(0)
+  completionCount Int             @default(0)
+  rating          Int?
+  ratingCount     Int             @default(0)
+  isFeatured      Boolean         @default(false)
+  isPremium       Boolean         @default(false)
+  durationMinutes Int?
+  prerequisites   String[]
+  answerCount     Int             @default(0)
+  author          User            @relation("ResourceAuthor", fields: [authorId], references: [id])
+  featuredMedia   Media?          @relation("ResourceFeaturedMedia", fields: [featuredMediaId], references: [id])
+
+  @@unique([slug, locale])
+  @@index([resourceType, status])
+  @@index([difficultyLevel, status])
+  @@index([authorId])
+  @@index([tags])
+  @@index([category])
+  @@index([zolaiLocale])
+  @@map("learning_resource")
+}
+
+model Post {
+  id               String        @id @default(cuid())
+  wpId             Int?          @unique
+  type             PostType
+  status           PostStatus    @default(DRAFT)
+  slug             String
+  title            String
+  excerpt          String?
+  contentHtml      String
+  contentRaw       String?
+  menuOrder        Int           @default(0)
+  password         String?
+  commentStatus    String        @default("open")
+  pingStatus       String        @default("open")
+  publishedAt      DateTime?
+  publishedAtGmt   DateTime?
+  modifiedAt       DateTime      @updatedAt
+  locale           String        @default("en")
+  translationGroup String?
+  seoTitle         String?
+  seoDescription   String?
+  seoKeywords      String?
+  canonicalUrl     String?
+  isFeatured       Boolean       @default(false)
+  isPopular        Boolean       @default(false)
+  isSticky         Boolean       @default(false)
+  template         String?       @default("default")
+  templateId       String?
+  allowComments    Boolean       @default(true)
+  allowPings       Boolean       @default(true)
+  readingTime      Int?
+  wordCount        Int?
+  viewCount        Int           @default(0)
+  likeCount        Int           @default(0)
+  shareCount       Int           @default(0)
+  commentCount     Int           @default(0)
+  authorId         String
+  parentId         String?
+  featuredMediaId  String?
+  createdAt        DateTime      @default(now())
+  comments         Comment[]
+  author           User          @relation("PostAuthor", fields: [authorId], references: [id])
+  featuredMedia    Media?        @relation("FeaturedMedia", fields: [featuredMediaId], references: [id])
+  parent           Post?         @relation("PostHierarchy", fields: [parentId], references: [id])
+  children         Post[]        @relation("PostHierarchy")
+  pageTemplate     PageTemplate? @relation("PostTemplate", fields: [templateId], references: [id])
+  meta             PostMeta[]
+  terms            PostTerm[]
+  revisions        Revision[]    @relation("PostRevisions")
+
+  @@unique([type, slug, locale])
+  @@index([type, status, publishedAt])
+  @@index([slug, locale])
+  @@index([translationGroup])
+  @@index([isFeatured])
+  @@index([isSticky])
+  @@index([authorId])
+  @@index([templateId])
+  @@index([status, publishedAt])
+  @@index([status, isFeatured, publishedAt])
+  @@index([status, isPopular, publishedAt])
+  @@map("post")
+}
+
+model PostMeta {
+  id     String @id @default(cuid())
+  postId String
+  key    String
+  value  String
+  post   Post   @relation(fields: [postId], references: [id], onDelete: Cascade)
+
+  @@index([postId, key])
+  @@map("post_meta")
+}
+
+model Taxonomy {
+  id    String @id @default(cuid())
+  slug  String @unique
+  name  String
+  terms Term[]
+
+  @@map("taxonomy")
+}
+
+model Term {
+  id           String     @id @default(cuid())
+  wpTermId     Int?
+  taxonomyId   String
+  slug         String
+  name         String
+  description  String?
+  parentTermId String?
+  count        Int        @default(0)
+  posts        PostTerm[]
+  parent       Term?      @relation("TermHierarchy", fields: [parentTermId], references: [id])
+  children     Term[]     @relation("TermHierarchy")
+  taxonomy     Taxonomy   @relation(fields: [taxonomyId], references: [id], onDelete: Cascade)
+
+  @@unique([taxonomyId, slug])
+  @@index([slug])
+  @@map("term")
+}
+
+model PostTerm {
+  postId String
+  termId String
+  post   Post   @relation(fields: [postId], references: [id], onDelete: Cascade)
+  term   Term   @relation(fields: [termId], references: [id], onDelete: Cascade)
+
+  @@id([postId, termId])
+  @@index([postId])
+  @@index([termId])
+  @@map("post_term")
+}
+
+model Comment {
+  id            String        @id @default(cuid())
+  wpId          Int?          @unique
+  postId        String
+  parentId      String?
+  authorId      String?
+  authorName    String
+  authorEmail   String?
+  authorUrl     String?
+  authorIp      String?
+  content       String
+  status        CommentStatus @default(PENDING)
+  spamScore     Float?
+  userAgent     String?
+  createdAt     DateTime      @default(now())
+  updatedAt     DateTime      @updatedAt
+  moderatedAt   DateTime?
+  moderatedById String?
+  akismetMeta   Json?
+  author        User?         @relation("CommentAuthor", fields: [authorId], references: [id])
+  moderator     User?         @relation("CommentModerator", fields: [moderatedById], references: [id])
+  parent        Comment?      @relation("CommentHierarchy", fields: [parentId], references: [id], onDelete: Cascade)
+  children      Comment[]     @relation("CommentHierarchy")
+  post          Post          @relation(fields: [postId], references: [id], onDelete: Cascade)
+
+  @@index([postId, status])
+  @@index([authorEmail])
+  @@index([authorIp])
+  @@index([status, createdAt])
+  @@index([spamScore])
+  @@map("comment")
+}
+
+model Revision {
+  id          String     @id @default(cuid())
+  postId      String
+  title       String
+  contentHtml String
+  contentRaw  String?
+  excerpt     String?
+  slug        String?
+  status      PostStatus @default(DRAFT)
+  isAutoDraft Boolean    @default(false)
+  authorId    String
+  createdAt   DateTime   @default(now())
+  author      User       @relation("RevisionAuthor", fields: [authorId], references: [id], onDelete: Cascade)
+  post        Post       @relation("PostRevisions", fields: [postId], references: [id], onDelete: Cascade)
+
+  @@index([postId, createdAt])
+  @@index([postId, isAutoDraft])
+  @@index([authorId])
+  @@map("revision")
+}
+
+model PageTemplate {
+  id           String   @id @default(cuid())
+  name         String   @unique
+  slug         String   @unique
+  description  String?
+  thumbnail    String?
+  htmlTemplate String
+  cssTemplate  String?
+  slots        Json     @default("[]")
+  featured     Boolean  @default(false)
+  createdAt    DateTime @default(now())
+  updatedAt    DateTime @updatedAt
+  posts        Post[]   @relation("PostTemplate")
+
+  @@index([slug])
+  @@index([featured])
+  @@map("page_template")
+}
+
+model Media {
+  id                String             @id @default(cuid())
+  wpId              Int?               @unique
+  url               String
+  thumbnailUrl      String?
+  mimeType          String
+  filePath          String?
+  altText           String?
+  caption           String?
+  description       String?
+  width             Int?
+  height            Int?
+  fileSize          Int?
+  blurHash          String?
+  createdAt         DateTime           @default(now())
+  learningResources LearningResource[] @relation("ResourceFeaturedMedia")
+  postsFeatured     Post[]             @relation("FeaturedMedia")
+
+  @@index([mimeType])
+  @@index([createdAt])
+  @@map("media")
+}
+
+model Menu {
+  id          String     @id @default(cuid())
+  name        String
+  slug        String     @unique
+  location    String?
+  description String?
+  createdAt   DateTime   @default(now())
+  updatedAt   DateTime   @updatedAt
+  items       MenuItem[]
+
+  @@index([location])
+  @@map("menu")
+}
+
+model MenuItem {
+  id        String     @id @default(cuid())
+  menuId    String
+  parentId  String?
+  label     String
+  url       String?
+  postId    String?
+  target    String?
+  classes   String?
+  order     Int        @default(0)
+  createdAt DateTime   @default(now())
+  updatedAt DateTime   @updatedAt
+  menu      Menu       @relation(fields: [menuId], references: [id], onDelete: Cascade)
+  parent    MenuItem?  @relation("MenuItemHierarchy", fields: [parentId], references: [id], onDelete: Cascade)
+  children  MenuItem[] @relation("MenuItemHierarchy")
+
+  @@index([menuId, order])
+  @@index([parentId])
+  @@map("menu_item")
+}
+
+model Form {
+  id               String           @id @default(cuid())
+  name             String
+  slug             String           @unique
+  description      String?
+  fields           Json
+  settings         Json?
+  isActive         Boolean          @default(true)
+  honeypot         Boolean          @default(true)
+  notifyEmail      String?
+  autoReply        Boolean          @default(false)
+  autoReplySubject String?
+  autoReplyBody    String?
+  successMessage   String?
+  submitCount      Int              @default(0)
+  createdAt        DateTime         @default(now())
+  updatedAt        DateTime         @updatedAt
+  submissions      FormSubmission[]
+
+  @@index([isActive])
+  @@map("form")
+}
+
+model FormSubmission {
+  id            String   @id @default(cuid())
+  formId        String
+  data          Json
+  ip            String?
+  userAgent     String?
+  isSpam        Boolean  @default(false)
+  spamReason    String?
+  submittedById String?
+  createdAt     DateTime @default(now())
+  form          Form     @relation(fields: [formId], references: [id], onDelete: Cascade)
+  submittedBy   User?    @relation("FormSubmissionUser", fields: [submittedById], references: [id])
+
+  @@index([formId, createdAt])
+  @@index([isSpam])
+  @@index([ip])
+  @@map("form_submission")
+}
+
+model Redirect {
+  id          String    @id @default(cuid())
+  source      String    @unique
+  destination String
+  statusCode  Int       @default(301)
+  enabled     Boolean   @default(true)
+  hitCount    Int       @default(0)
+  lastHitAt   DateTime?
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+
+  @@index([source, enabled])
+  @@index([hitCount])
+  @@map("redirect")
+}
+
+model SeoSetting {
+  id          String   @id @default(cuid())
+  key         String   @unique
+  value       String
+  description String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@map("seo_setting")
+}
+
+model SiteSetting {
+  id        String   @id @default(cuid())
+  key       String   @unique
+  value     String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@map("site_setting")
+}
+
+model MonitorAlert {
+  id          String                 @id @default(cuid())
+  source      String
+  title       String
+  message     String
+  severity    MonitorSeverity
+  sent        Boolean               @default(false)
+  reason      String?
+  dedupKey    String
+  transitioned Boolean              @default(false)
+  isRecovery  Boolean              @default(false)
+  metadata    Json?
+  createdAt   DateTime             @default(now())
+  deliveries  MonitorAlertDelivery[]
+
+  @@index([source, createdAt])
+  @@index([dedupKey])
+  @@index([severity, createdAt])
+  @@map("monitor_alert")
+}
+
+model MonitorAlertDelivery {
+  id         String             @id @default(cuid())
+  alertId    String
+  chatId     String
+  chunkIndex Int
+  attempt    Int
+  status     MonitorDeliveryStatus
+  error      String?
+  createdAt  DateTime           @default(now())
+  alert      MonitorAlert       @relation(fields: [alertId], references: [id], onDelete: Cascade)
+
+  @@index([alertId, createdAt])
+  @@index([chatId, createdAt])
+  @@map("monitor_alert_delivery")
+}
+
+model MonitorIncident {
+  id           String         @id @default(cuid())
+  source       String         @unique
+  status       IncidentStatus
+  updatedAt    DateTime       @updatedAt
+  silencedUntil DateTime?
+  createdAt    DateTime       @default(now())
+
+  @@index([status, updatedAt])
+  @@map("monitor_incident")
+}
+
+model Notification {
+  id          String    @id @default(cuid())
+  title       String
+  description String
+  type        String
+  action      String?
+  actorUserId String?
+  actorName   String?
+  metadata    Json?
+  link        String?
+  entityType  String?
+  entityId    String?
+  read        Boolean   @default(false)
+  readAt      DateTime?
+  createdAt   DateTime  @default(now())
+  userId      String
+  user        User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([userId, read])
+  @@index([userId, createdAt])
+  @@index([userId, read, createdAt])
+  @@index([entityType, entityId])
+  @@index([actorUserId])
+  @@index([createdAt])
+  @@index([type])
+  @@map("notification")
+}
+
+model NotificationTemplate {
+  id        String   @id @default(cuid())
+  name      String
+  slug      String   @unique
+  subject   String
+  body      String
+  variables Json?
+  isActive  Boolean  @default(true)
+  type      String
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([type])
+  @@index([isActive])
+  @@map("notification_template")
+}
+
+model AuditLog {
+  id          String      @id @default(cuid())
+  action      AuditAction
+  entityType  String
+  entityId    String
+  oldValues   Json?
+  newValues   Json?
+  ipAddress   String?
+  userAgent   String?
+  createdAt   DateTime    @default(now())
+  createdById String?
+  createdBy   User?       @relation("AuditLogsCreated", fields: [createdById], references: [id])
+
+  @@index([entityType, entityId])
+  @@index([createdById])
+  @@index([action])
+  @@index([createdAt])
+  @@index([entityType, action])
+  @@map("audit_log")
+}
+
+model RateLimit {
+  id          String   @id @default(cuid())
+  key         String   @unique
+  count       Int      @default(0)
+  lastRequest BigInt?
+  resetAt     DateTime @default(now())
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([key])
+  @@index([resetAt])
+  @@map("rate_limit")
+}
+
+model BlockedIp {
+  id          String    @id @default(cuid())
+  ip          String    @unique
+  reason      String
+  blockedById String?
+  expiresAt   DateTime?
+  hitCount    Int       @default(0)
+  createdAt   DateTime  @default(now())
+  updatedAt   DateTime  @updatedAt
+  blocker     User?     @relation("BlockedIpAuthor", fields: [blockedById], references: [id])
+
+  @@index([ip])
+  @@index([expiresAt])
+  @@index([blockedById])
+  @@map("blocked_ip")
+}
+
+model SecurityEvent {
+  id        String            @id @default(cuid())
+  type      SecurityEventType
+  ip        String?
+  userAgent String?
+  userId    String?
+  email     String?
+  details   Json?
+  severity  SecuritySeverity
+  createdAt DateTime          @default(now())
+
+  @@index([type, createdAt])
+  @@index([ip])
+  @@index([severity])
+  @@index([userId])
+  @@map("security_event")
+}
+
+model LoginHistory {
+  id           String    @id @default(cuid())
+  userId       String
+  ipAddress    String
+  userAgent    String?
+  deviceName   String?   // e.g., "Chrome on Windows"
+  deviceType   String?   // e.g., "desktop", "mobile", "tablet"
+  osName       String?   // e.g., "Windows", "macOS", "iOS"
+  osVersion    String?
+  browserName  String?   // e.g., "Chrome", "Safari"
+  browserVersion String?
+  country      String?   // e.g., "US"
+  city         String?   // e.g., "New York"
+  latitude     Float?
+  longitude    Float?
+  isCurrentSession Boolean @default(false)
+  lastActivityAt DateTime?
+  revokedAt    DateTime?
+  revokedReason String?
+  createdAt    DateTime  @default(now())
+  user         User      @relation("UserLoginHistory", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, createdAt])
+  @@index([userId, isCurrentSession])
+  @@index([ipAddress])
+  @@map("login_history")
+}
+
+model LoginAttempt {
+  id        String    @id @default(cuid())
+  email     String
+  ipAddress String
+  success   Boolean
+  reason    String?   // "invalid_password", "account_locked", etc.
+  createdAt DateTime  @default(now())
+
+  @@index([email, createdAt])
+  @@index([ipAddress, createdAt])
+  @@index([success])
+  @@map("login_attempt")
+}
+
+model SecurityAlert {
+  id         String            @id @default(cuid())
+  userId     String
+  type       SecurityAlertType
+  title      String
+  message    String
+  severity   SecuritySeverity
+  isRead     Boolean           @default(false)
+  isResolved Boolean           @default(false)
+  createdAt  DateTime          @default(now())
+  resolvedAt DateTime?
+  resolvedBy String?
+
+  @@index([userId, isRead])
+  @@index([userId, createdAt])
+  @@index([severity])
+  @@map("security_alert")
+}
+
+model SecuritySettings {
+  id                        String   @id @default(cuid())
+  userId                    String   @unique
+  twoFactorEnabled          Boolean  @default(false)
+  emailNotificationsEnabled Boolean  @default(true)
+  suspiciousActivityAlerts  Boolean  @default(true)
+  newDeviceAlerts           Boolean  @default(true)
+  locationBasedAlerts       Boolean  @default(false)
+  sessionTimeout            Int      @default(30)
+  maxSessions               Int      @default(5)
+  allowedCountries          String[] @default([])
+  blockedCountries          String[] @default([])
+  trustedDevices            String[] @default([])
+  createdAt                 DateTime @default(now())
+  updatedAt                 DateTime @updatedAt
+
+  @@index([userId])
+  @@map("security_settings")
+}
+
+model Backup {
+  id          String       @id @default(cuid())
+  name        String
+  type        BackupType
+  status      BackupStatus @default(PENDING)
+  filePath    String?
+  fileSize    Int?
+  checksum    String?
+  error       String?
+  createdById String?
+  expiresAt   DateTime?
+  createdAt   DateTime     @default(now())
+  completedAt DateTime?
+  creator     User?        @relation("BackupAuthor", fields: [createdById], references: [id])
+
+  @@index([status])
+  @@index([type])
+  @@index([createdAt])
+  @@map("backup")
+}
+
+model Subscriber {
+  id             String           @id @default(cuid())
+  email          String           @unique
+  name           String?
+  status         SubscriberStatus @default(PENDING)
+  token          String           @unique
+  subscribedAt   DateTime         @default(now())
+  confirmedAt    DateTime?
+  unsubscribedAt DateTime?
+  source         String?
+  moderatedById  String?
+  moderator      User?            @relation("SubscriberModerator", fields: [moderatedById], references: [id])
+
+  @@index([status])
+  @@index([email])
+  @@map("subscriber")
+}
+
+model NewsletterCampaign {
+  id          String         @id @default(cuid())
+  name        String
+  subject     String
+  body        String
+  status      CampaignStatus @default(DRAFT)
+  sentCount   Int            @default(0)
+  openCount   Int            @default(0)
+  clickCount  Int            @default(0)
+  scheduledAt DateTime?
+  sentAt      DateTime?
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+
+  @@index([status])
+  @@index([scheduledAt])
+  @@map("newsletter_campaign")
+}
+
+model CookieConsent {
+  id          String   @id @default(cuid())
+  sessionId   String   @unique
+  preferences Json
+  ip          String?
+  userAgent   String?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  @@index([sessionId])
+  @@index([createdAt])
+  @@map("cookie_consent")
+}
+
+model UserPreferences {
+  id                 String   @id @default(cuid())
+  userId             String   @unique
+  theme              String   @default("system")
+  language           String   @default("en")
+  timezone           String   @default("UTC")
+  emailNotifications Boolean  @default(true)
+  inAppNotifications Boolean  @default(true)
+  createdAt          DateTime @default(now())
+  updatedAt          DateTime @updatedAt
+  tablePagination    String   @default("infinite")
+  telegramChatId     String?
+  telegramEnabled    Boolean  @default(false)
+  aiModel            String?
+  aiProvider         String?
+  user               User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@map("user_preferences")
+}
+
+model Organization {
+  id          String       @id @default(cuid())
+  name        String
+  slug        String       @unique
+  logo        String?
+  metadata    Json?
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  invitations Invitation[]
+  members     Member[]
+
+  @@index([slug])
+  @@index([createdAt])
+  @@map("organization")
+}
+
+model Member {
+  id             String       @id @default(cuid())
+  organizationId String
+  userId         String
+  role           String       @default("member")
+  createdAt      DateTime     @default(now())
+  organization   Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+  user           User         @relation("OrganizationMembers", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([organizationId, userId])
+  @@index([organizationId])
+  @@index([userId])
+  @@index([role])
+  @@map("member")
+}
+
+model Invitation {
+  id             String       @id @default(cuid())
+  organizationId String
+  email          String
+  role           String
+  status         String       @default("pending")
+  inviterId      String
+  expiresAt      DateTime?
+  createdAt      DateTime     @default(now())
+  teamId         String?
+  inviter        User         @relation("InvitationsSent", fields: [inviterId], references: [id], onDelete: Cascade)
+  organization   Organization @relation(fields: [organizationId], references: [id], onDelete: Cascade)
+
+  @@unique([organizationId, email])
+  @@index([email])
+  @@index([status])
+  @@index([organizationId])
+  @@index([inviterId])
+  @@map("invitation")
+}
+
+model WikiEntry {
+  id        String   @id @default(cuid())
+  slug      String   @unique
+  title     String
+  category  String
+  content   String
+  status    String   @default("published")
+  tags      String[]
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([category])
+  @@index([slug])
+  @@map("wiki_entry")
+}
+
+model BibleVerse {
+  id        String  @id @default(cuid())
+  book      String
+  chapter   Int
+  verse     Int
+  testament String
+  tdb77     String?
+  tbr17     String?
+  tedim2010 String?
+  kjv       String?
+
+  @@unique([book, chapter, verse])
+  @@index([book, chapter])
+  @@index([testament])
+  @@map("bible_verse")
+}
+
+model DatasetStat {
+  id        String   @id @default(cuid())
+  label     String   @unique
+  value     Int
+  target    Int?
+  unit      String?
+  updatedAt DateTime @updatedAt
+
+  @@map("dataset_stat")
+}
+
+model TrainingRun {
+  id        String    @id @default(cuid())
+  name      String
+  model     String
+  status    String
+  steps     Int       @default(0)
+  maxSteps  Int?
+  lossJson  String?
+  config    Json?
+  startedAt DateTime  @default(now())
+  endedAt   DateTime?
+
+  @@index([status])
+  @@map("training_run")
+}
+
+model VocabWord {
+  id          String   @id @default(cuid())
+  zolai       String
+  english     String
+  pos         String?
+  category    String?
+  definition  String?
+  example     String?
+  explanation String?
+  synonyms    String[] @default([])
+  antonyms    String[] @default([])
+  related     String[] @default([])
+  variants    String[] @default([])
+  examples    Json?
+  accuracy    String?  @default("unverified")
+  tags        String[]
+  audioUrl    String?  @default("")
+  createdAt   DateTime @default(now())
+
+  @@index([zolai])
+  @@index([english])
+  @@index([category])
+  @@index([pos])
+  @@index([accuracy])
+  @@map("vocab_word")
+}
+
+model LessonPlan {
+  id          String       @id @default(cuid())
+  slug        String       @unique
+  title       String
+  description String?
+  level       String
+  order       Int          @default(0)
+  isActive    Boolean      @default(true)
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+  units       LessonUnit[]
+
+  @@index([level, isActive])
+  @@map("lesson_plan")
+}
+
+// ── New Duolingo-style curriculum hierarchy ───────────────────────────────────
+
+model CurriculumSection {
+  id             String           @id @default(cuid())
+  levelCode      String           // A1 | A2 | B1 | B2 | C1 | C2
+  number         Int              // 1–4 = content, 5 = daily refresh
+  name           String
+  isDailyRefresh Boolean          @default(false)
+  vocabMin       Int
+  vocabMax       Int
+  order          Int              @default(0)
+  createdAt      DateTime         @default(now())
+  units          CurriculumUnit[]
+
+  @@unique([levelCode, number])
+  @@index([levelCode])
+  @@map("curriculum_section")
+}
+
+model CurriculumUnit {
+  id          String          @id @default(cuid())
+  sectionId   String
+  number      Int
+  topic       String
+  description String?
+  xpReward    Int             @default(50)
+  order       Int             @default(0)
+  createdAt   DateTime        @default(now())
+  section     CurriculumSection @relation(fields: [sectionId], references: [id], onDelete: Cascade)
+  subUnits    CurriculumSubUnit[]
+
+  @@unique([sectionId, number])
+  @@index([sectionId])
+  @@map("curriculum_unit")
+}
+
+model CurriculumSubUnit {
+  id          String         @id @default(cuid())
+  unitId      String
+  number      Int            // 1–8
+  title       String
+  type        SubUnitType
+  xpReward    Int            @default(10)
+  order       Int            @default(0)
+  content     Json           // LessonContent[]
+  createdAt   DateTime       @default(now())
+  unit        CurriculumUnit @relation(fields: [unitId], references: [id], onDelete: Cascade)
+  progress    UserSubUnitProgress[]
+
+  @@unique([unitId, number])
+  @@index([unitId])
+  @@map("curriculum_sub_unit")
+}
+
+model UserSubUnitProgress {
+  id            String            @id @default(cuid())
+  userId        String
+  subUnitId     String
+  status        ProgressStatus    @default(NOT_STARTED)
+  score         Int               @default(0)
+  xpEarned      Int               @default(0)
+  attempts      Int               @default(0)
+  completedAt   DateTime?
+  createdAt     DateTime          @default(now())
+  updatedAt     DateTime          @updatedAt
+  subUnit       CurriculumSubUnit @relation(fields: [subUnitId], references: [id], onDelete: Cascade)
+  user          User              @relation("UserSubUnitProgress", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, subUnitId])
+  @@index([userId, status])
+  @@map("user_sub_unit_progress")
+}
+
+// ── Phonics track ─────────────────────────────────────────────────────────────
+
+model PhonicsUnit {
+  id          String           @id @default(cuid())
+  category    PhonicsCategory
+  number      Int
+  title       String
+  description String?
+  ipaSymbol   String?
+  audioUrl    String?
+  order       Int              @default(0)
+  createdAt   DateTime         @default(now())
+  subUnits    PhonicsSubUnit[]
+
+  @@unique([category, number])
+  @@index([category])
+  @@map("phonics_unit")
+}
+
+model PhonicsSubUnit {
+  id          String         @id @default(cuid())
+  unitId      String
+  number      Int            // 1–8
+  title       String
+  type        String         // PhonicsLessonType
+  content     Json           // PhonicsLesson[]
+  audioUrl    String?
+  order       Int            @default(0)
+  createdAt   DateTime       @default(now())
+  unit        PhonicsUnit    @relation(fields: [unitId], references: [id], onDelete: Cascade)
+  progress    UserPhonicsProgress[]
+
+  @@unique([unitId, number])
+  @@index([unitId])
+  @@map("phonics_sub_unit")
+}
+
+model UserPhonicsProgress {
+  id          String         @id @default(cuid())
+  userId      String
+  subUnitId   String
+  status      ProgressStatus @default(NOT_STARTED)
+  score       Int            @default(0)
+  xpEarned    Int            @default(0)
+  completedAt DateTime?
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+  subUnit     PhonicsSubUnit @relation(fields: [subUnitId], references: [id], onDelete: Cascade)
+  user        User           @relation("UserPhonicsProgress", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, subUnitId])
+  @@index([userId])
+  @@map("user_phonics_progress")
+}
+
+model LessonUnit {
+  id          String     @id @default(cuid())
+  planId      String
+  title       String
+  description String?
+  order       Int        @default(0)
+  xpReward    Int        @default(10)
+  lessons     Lesson[]
+  plan        LessonPlan @relation(fields: [planId], references: [id], onDelete: Cascade)
+
+  @@index([planId, order])
+  @@map("lesson_unit")
+}
+
+model Lesson {
+  id       String               @id @default(cuid())
+  unitId   String
+  title    String
+  type     LessonType
+  content  Json
+  xpReward Int                  @default(5)
+  order    Int                  @default(0)
+  unit     LessonUnit           @relation(fields: [unitId], references: [id], onDelete: Cascade)
+  progress UserLessonProgress[]
+
+  @@index([unitId, order])
+  @@map("lesson")
+}
+
+model UserLessonProgress {
+  id            String         @id @default(cuid())
+  userId        String
+  lessonId      String
+  status        ProgressStatus @default(NOT_STARTED)
+  score         Int            @default(0)
+  xpEarned      Int            @default(0)
+  attempts      Int            @default(0)
+  lastAttemptAt DateTime?
+  completedAt   DateTime?
+  createdAt     DateTime       @default(now())
+  updatedAt     DateTime       @updatedAt
+  lesson        Lesson         @relation(fields: [lessonId], references: [id], onDelete: Cascade)
+  user          User           @relation("UserLessonProgress", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, lessonId])
+  @@index([userId, status])
+  @@index([userId, completedAt])
+  @@map("user_lesson_progress")
+}
+
+model UserStreak {
+  id             String    @id @default(cuid())
+  userId         String    @unique
+  currentStreak  Int       @default(0)
+  longestStreak  Int       @default(0)
+  totalXp        Int       @default(0)
+  lastActivityAt DateTime?
+  user           User      @relation("UserStreak", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@map("user_streak")
+}
+
+model AgentMemory {
+  id        String    @id @default(cuid())
+  userId    String
+  agentId   String
+  key       String
+  value     Json
+  expiresAt DateTime?
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+  user      User      @relation("UserAgentMemory", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, agentId, key])
+  @@index([userId, agentId])
+  @@map("agent_memory")
+}
+
+model AgentLearnLog {
+  id        String   @id @default(cuid())
+  agentId   String
+  taskType  String
+  input     Json?
+  output    Json?
+  feedback  String?
+  lesson    String?
+  createdAt DateTime @default(now())
+
+  @@index([agentId, taskType])
+  @@index([createdAt])
+  @@map("agent_learn_log")
+}
+
+model ChatSession {
+  id        String        @id @default(cuid())
+  userId    String
+  title     String        @default("New Chat")
+  provider  String        @default("groq")
+  model     String        @default("llama-3.3-70b-versatile")
+  createdAt DateTime      @default(now())
+  updatedAt DateTime      @updatedAt
+  messages  ChatMessage[]
+  user      User          @relation("UserChatSessions", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId, updatedAt])
+  @@map("chat_session")
+}
+
+model ChatMessage {
+  id        String      @id @default(cuid())
+  sessionId String
+  role      String
+  content   String
+  provider  String?
+  model     String?
+  createdAt DateTime    @default(now())
+  session   ChatSession @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+
+  @@index([sessionId, createdAt])
+  @@map("chat_message")
+}
+
+enum LessonType {
+  VOCABULARY
+  TRANSLATION
+  FILL_BLANK
+  MULTIPLE_CHOICE
+  LISTENING
+  SPEAKING
+  GRAMMAR
+}
+
+enum SubUnitType {
+  INTRODUCTION
+  VOCABULARY
+  GRAMMAR
+  LISTENING
+  SPEAKING
+  READING
+  REVIEW
+  CHALLENGE
+}
+
+enum PhonicsCategory {
+  VOWELS
+  CONSONANTS
+  CLUSTERS
+  TONES
+  MINIMAL_PAIRS
+}
+
+enum ProgressStatus {
+  NOT_STARTED
+  IN_PROGRESS
+  COMPLETE
+  MASTERED
+}
+
+enum PostType {
+  POST
+  PAGE
+  NEWS
+}
+
+enum PostStatus {
+  DRAFT
+  PENDING
+  PUBLISHED
+  TRASH
+  PRIVATE
+  FUTURE
+}
+
+enum UserRole {
+  USER
+  EDITOR
+  AUTHOR
+  CONTRIBUTOR
+  ADMIN
+  SUPER_ADMIN
+  CONTENT_ADMIN
+  MODERATOR
+  VIEWER
+}
+
+enum ResourceType {
+  LESSON
+  VOCABULARY
+  GRAMMAR
+  EXERCISE
+  ARTICLE
+  STORY
+  AUDIO
+  VIDEO
+  QUIZ
+  REFERENCE
+}
+
+enum DifficultyLevel {
+  BEGINNER
+  ELEMENTARY
+  INTERMEDIATE
+  UPPER_INTERMEDIATE
+  ADVANCED
+  MASTERY
+}
+
+enum ResourceStatus {
+  DRAFT
+  REVIEW
+  PUBLISHED
+  ARCHIVED
+}
+
+enum CommentStatus {
+  APPROVED
+  PENDING
+  SPAM
+  TRASH
+}
+
+enum AuditAction {
+  CREATE
+  UPDATE
+  DELETE
+  VIEW
+  CANCEL
+  COMPLETE
+  RESCHEDULE
+  LOGIN
+  LOGOUT
+  PUBLISH
+  UNPUBLISH
+  RESTORE
+  EXPORT
+  IMPORT
+}
+
+enum SecurityEventType {
+  BRUTE_FORCE
+  IP_BLOCKED
+  SUSPICIOUS_LOGIN
+  RATE_LIMIT_EXCEEDED
+  INVALID_TOKEN
+  SQL_INJECTION_ATTEMPT
+  XSS_ATTEMPT
+  FILE_UPLOAD_BLOCKED
+  PASSWORD_CHANGE
+  EMAIL_CHANGE
+  ROLE_CHANGE
+  DEVICE_SESSION_CREATED
+  DEVICE_SESSION_REVOKED
+  ALL_OTHER_SESSIONS_REVOKED
+  PASSWORD_BREACH_DETECTED
+  CAPTCHA_FAILED
+  NEW_DEVICE_LOGIN
+  UNUSUAL_LOCATION_LOGIN
+  TWO_FACTOR_ENABLED
+  TWO_FACTOR_DISABLED
+  TWO_FACTOR_BACKUP_CODES_GENERATED
+  ACCOUNT_LOCKED
+  ACCOUNT_UNLOCKED
+}
+
+enum MonitorSeverity {
+  INFO
+  WARNING
+  CRITICAL
+}
+
+enum MonitorDeliveryStatus {
+  SENT
+  FAILED
+  FAILED_FINAL
+}
+
+enum IncidentStatus {
+  HEALTHY
+  WARNING
+  CRITICAL
+}
+
+enum SecuritySeverity {
+  LOW
+  MEDIUM
+  HIGH
+  CRITICAL
+}
+
+enum SecurityAlertType {
+  SUSPICIOUS_LOGIN
+  NEW_DEVICE_LOGIN
+  MULTIPLE_FAILED_LOGINS
+  PASSWORD_BREACH_DETECTED
+  UNUSUAL_LOCATION_LOGIN
+  ACCOUNT_LOCKED
+}
+
+enum BackupType {
+  FULL
+  DATABASE
+  MEDIA
+  CONFIG
+}
+
+enum BackupStatus {
+  PENDING
+  IN_PROGRESS
+  COMPLETED
+  FAILED
+  DELETED
+}
+
+enum SubscriberStatus {
+  PENDING
+  CONFIRMED
+  UNSUBSCRIBED
+  BOUNCED
+}
+
+enum CampaignStatus {
+  DRAFT
+  SCHEDULED
+  SENDING
+  SENT
+  FAILED
+  CANCELLED
+}
+
+// ── Custom Roles & Permissions ────────────────────────────────────────────────
+model CustomRole {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  description String?
+  baseRole    UserRole @default(USER)
+  isActive    Boolean  @default(true)
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  permissions RolePermission[]
+  users       User[]           @relation("UserCustomRoles")
+
+  @@index([baseRole])
+  @@map("custom_role")
+}
+
+model Permission {
+  id          String   @id @default(cuid())
+  name        String   @unique
+  description String?
+  category    String   // e.g., "content", "users", "admin", "moderation"
+  createdAt   DateTime @default(now())
+
+  roles RolePermission[]
+
+  @@index([category])
+  @@map("permission")
+}
+
+model RolePermission {
+  id           String   @id @default(cuid())
+  roleId       String
+  permissionId String
+  createdAt    DateTime @default(now())
+
+  role       CustomRole @relation(fields: [roleId], references: [id], onDelete: Cascade)
+  permission Permission @relation(fields: [permissionId], references: [id], onDelete: Cascade)
+
+  @@unique([roleId, permissionId])
+  @@index([roleId])
+  @@index([permissionId])
+  @@map("role_permission")
+}
