@@ -16,18 +16,20 @@ export async function sendEmailResend({
   subject,
   text,
   html,
+  from: fromOverride,
+  replyTo,
 }: {
   to: string;
   subject: string;
   text?: string;
   html?: string;
+  from?: string;
+  replyTo?: string;
 }) {
   const resend = getResendClient();
-  if (!resend) {
-    throw new Error("RESEND_API_KEY is not set");
-  }
+  if (!resend) throw new Error("RESEND_API_KEY is not set");
 
-  const from = process.env.RESEND_FROM_EMAIL || process.env.SMTP_FROM || "onboarding@resend.dev";
+  const from = fromOverride || process.env.RESEND_FROM_EMAIL || process.env.SMTP_FROM || "onboarding@resend.dev";
 
   const { data, error } = await resend.emails.send({
     from,
@@ -35,12 +37,10 @@ export async function sendEmailResend({
     subject,
     html: html || text || "",
     text: text || undefined,
+    ...(replyTo ? { reply_to: replyTo } : {}),
   });
 
-  if (error) {
-    throw new Error(`Resend error: ${error.message}`);
-  }
-
+  if (error) throw new Error(`Resend error: ${error.message}`);
   return data;
 }
 
@@ -49,16 +49,20 @@ export async function sendEmail({
   subject,
   text,
   html,
+  from,
+  replyTo,
 }: {
   to: string;
   subject: string;
   text?: string;
   html?: string;
+  from?: string;
+  replyTo?: string;
 }) {
   try {
     const resend = getResendClient();
     if (resend) {
-      const result = await sendEmailResend({ to, subject, text, html });
+      const result = await sendEmailResend({ to, subject, text, html, from, replyTo });
       console.log(`[Email] Sent via Resend to: ${to}`);
       return result;
     }
@@ -67,5 +71,5 @@ export async function sendEmail({
   }
 
   console.log(`[Email] Sending via nodemailer to: ${to}`);
-  return sendEmailNodemailer({ to, subject, text, html });
+  return sendEmailNodemailer({ to, subject, text, html, from, replyTo });
 }
