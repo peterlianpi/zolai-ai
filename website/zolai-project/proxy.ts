@@ -111,8 +111,8 @@ export async function proxy(request: NextRequest) {
 
   // Keep CSP strict in production; allow dev inline/eval for Next.js local scripts/HMR.
   const scriptSrc = isDevelopment
-    ? "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://vercel.live"
-    : "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://vercel.live";
+    ? "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://vercel.live https://static.cloudflareinsights.com"
+    : "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://vercel.live https://static.cloudflareinsights.com";
   const connectSrc = isDevelopment
     ? "connect-src 'self' ws: wss: http: https:"
     : "connect-src 'self' https:";
