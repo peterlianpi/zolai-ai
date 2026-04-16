@@ -5,6 +5,7 @@ import { Hero } from "@/features/home/components";
 import { DEFAULT_CONTACT_EMAIL, DEFAULT_SUPPORT_EMAIL } from "@/lib/constants/site";
 import { SupportForm } from "@/features/support/components/support-form";
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 import { Mail, MessageCircle, Clock } from "lucide-react";
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -95,7 +96,7 @@ export default function ContactPage() {
                   Check our documentation for common questions about Zolai grammar, dictionary usage, and platform features.
                 </p>
                 <Button variant="outline" size="sm" asChild>
-                  <a href="/wiki">Browse Documentation</a>
+                  <Link href="/wiki">Browse Documentation</Link>
                 </Button>
               </div>
             </div>
