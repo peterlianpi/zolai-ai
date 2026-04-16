@@ -190,11 +190,12 @@ fi
 
 ssh $SSH_HOST "
   export PATH=\$PATH:\$HOME/.bun/bin:/usr/local/bin
+  export SHELL=/bin/bash
 
   $SYSTEM_UPDATE
 
   # Install bun if missing
-  if ! command -v bun &>/dev/null; then
+  if ! command -v bun >/dev/null 2>&1; then
     echo '--- Installing bun ---'
     curl -fsSL https://bun.sh/install | bash
     export PATH=\$HOME/.bun/bin:\$PATH
@@ -218,7 +219,7 @@ else echo -e "${BLUE}[6/9] Skipped (already done)${NC}"; fi
 if [ "$START_STEP" -le 7 ]; then
 echo -e "${YELLOW}[7/9]${NC} Running database migrations..."
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
-ssh $SSH_HOST "export PATH=\$PATH:\$HOME/.bun/bin && cd $DEPLOY_PATH && bunx prisma migrate deploy" 2>&1
+ssh $SSH_HOST "export PATH=\$PATH:\$HOME/.bun/bin && export SHELL=/bin/bash && cd $DEPLOY_PATH && bunx prisma migrate deploy" 2>&1
 echo -e "${GREEN}✓${NC} Migrations complete"
 notify_telegram "✅ Step 7/9: Database migrations complete"
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
@@ -231,22 +232,23 @@ echo -e "${YELLOW}[8/9]${NC} Restarting service..."
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 ssh $SSH_HOST "
   export PATH=\$PATH:\$HOME/.bun/bin:/usr/local/bin
+  export SHELL=/bin/bash
 
   cd $DEPLOY_PATH
 
   # Check if systemd service exists
-  if sudo systemctl is-active zolai &>/dev/null || sudo systemctl list-unit-files | grep -q '^zolai.service'; then
+  if sudo systemctl is-active zolai >/dev/null 2>&1 || sudo systemctl list-unit-files 2>/dev/null | grep -q '^zolai.service'; then
     echo '--- Restarting systemd service ---'
     sudo systemctl restart zolai
     sleep 2
-    if sudo systemctl is-active zolai &>/dev/null; then
+    if sudo systemctl is-active zolai >/dev/null 2>&1; then
       echo 'Service running via systemd'
       exit 0
     fi
   fi
 
   # Check if PM2 is available
-  if command -v pm2 &>/dev/null; then
+  if command -v pm2 >/dev/null 2>&1; then
     echo '--- Restarting via PM2 ---'
     pm2 restart zolai || pm2 start npm --name zolai -- run start
     exit 0
@@ -254,10 +256,10 @@ ssh $SSH_HOST "
 
   # Fallback: Start manually with nohup
   echo '--- Starting manually with nohup ---'
-  pkill -f 'next-server' || true
+  pkill -f 'next-server' 2>/dev/null || true
   nohup bun run start > /var/log/zolai.log 2>&1 &
   sleep 3
-  if pgrep -f 'next-server'; then
+  if pgrep -f 'next-server' >/dev/null 2>&1; then
     echo 'Service started via nohup'
     exit 0
   fi
@@ -284,9 +286,10 @@ echo -e "${YELLOW}[9/9]${NC} Verifying deployment..."
 echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
 DEPLOYMENT_VERIFIED=$(ssh $SSH_HOST "
   export PATH=\$PATH:\$HOME/.bun/bin:/usr/local/bin
+  export SHELL=/bin/bash
 
   # Wait for server to be ready
-  for i in {1..10}; do
+  for i in \$(seq 1 10); do
     if curl -s -o /dev/null -w '%{http_code}' http://localhost:3000/api/health 2>/dev/null | grep -q '200'; then
       echo 'OK'
       exit 0
@@ -295,7 +298,7 @@ DEPLOYMENT_VERIFIED=$(ssh $SSH_HOST "
   done
 
   # Fallback: check if process is running
-  if pgrep -f 'next-server' || pgrep -f 'bun.*start'; then
+  if pgrep -f 'next-server' >/dev/null 2>&1 || pgrep -f 'bun.*start' >/dev/null 2>&1; then
     echo 'OK (process running)'
     exit 0
   fi
