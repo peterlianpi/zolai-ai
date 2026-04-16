@@ -1232,6 +1232,25 @@ model ChatMessage {
   @@map("chat_message")
 }
 
+model InboundEmail {
+  id          String   @id @default(cuid())
+  to          String   // which inbox received it (hello@, support@, admin@)
+  from        String
+  fromName    String?
+  subject     String
+  text        String?
+  html        String?
+  replyTo     String?
+  isRead      Boolean  @default(false)
+  isReplied   Boolean  @default(false)
+  repliedAt   DateTime?
+  createdAt   DateTime @default(now())
+
+  @@index([to, createdAt])
+  @@index([isRead])
+  @@map("inbound_email")
+}
+
 enum LessonType {
   VOCABULARY
   TRANSLATION

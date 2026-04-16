@@ -46,7 +46,7 @@ export function Footer({ siteSettings = [] }: FooterProps) {
 
   return (
     <footer className="border-t bg-muted/30 mt-12">
-      <div className="container mx-auto px-4 py-12">
+      <div className="container mx-auto px-4 py-6">
         <div className="grid gap-8 md:grid-cols-3">
           {/* Col 1: Brand */}
           <div className="space-y-3">
