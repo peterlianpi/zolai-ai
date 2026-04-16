@@ -3,24 +3,41 @@
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useState } from "react";
-import { Brain, Menu } from "lucide-react";
+import { Brain, Menu, ChevronDown } from "lucide-react";
 import { cn } from "@/lib/utils";
 import { Button } from "@/components/ui/button";
 import { Sheet, SheetContent, SheetHeader, SheetTitle, SheetTrigger } from "@/components/ui/sheet";
+import { DropdownMenu, DropdownMenuContent, DropdownMenuItem, DropdownMenuTrigger } from "@/components/ui/dropdown-menu";
 import { ModeToggle } from "@/features/nav/components/theme-toggle";
 import { DEFAULT_SITE_NAME } from "@/lib/constants/site";
 import type { Menu as MenuType } from "@/features/menus/types";
 import type { SiteSetting } from "@/features/settings/api";
 
-const NAV_LINKS = [
-  { href: "/", label: "Home" },
-  { href: "/about", label: "About" },
+const LEARN_LINKS = [
+  { href: "/search", label: "Dictionary" },
+  { href: "/tutor", label: "Tutor" },
+  { href: "/grammar", label: "Grammar" },
+  { href: "/wiki", label: "Wiki" },
+];
+
+const RESOURCES_LINKS = [
   { href: "/resources", label: "Resources" },
   { href: "/recommended", label: "Recommended" },
   { href: "/getting-started", label: "Get Started" },
+];
+
+const COMMUNITY_LINKS = [
   { href: "/community", label: "Community" },
   { href: "/help", label: "Help" },
   { href: "/contact", label: "Contact" },
+];
+
+// For mobile menu - all links flat
+const ALL_NAV_LINKS = [
+  { href: "/", label: "Home" },
+  ...LEARN_LINKS,
+  ...RESOURCES_LINKS,
+  ...COMMUNITY_LINKS,
 ];
 
 interface HeaderProps {
@@ -45,21 +62,66 @@ export function Header({ siteSettings = [] }: HeaderProps) {
         </Link>
 
         {/* Desktop nav */}
-        <nav className="hidden md:flex items-center gap-1">
-          {NAV_LINKS.map(({ href, label }) => (
-            <Link
-              key={href}
-              href={href}
-              className={cn(
-                "px-3 py-1.5 text-sm font-medium rounded-md transition-colors",
-                pathname === href || (href !== "/" && pathname.startsWith(href))
-                  ? "bg-primary/10 text-primary"
-                  : "text-muted-foreground hover:text-foreground hover:bg-muted/50",
-              )}
-            >
-              {label}
-            </Link>
-          ))}
+        <nav className="hidden md:flex items-center gap-1 ml-auto mr-4">
+          <Link
+            href="/"
+            className={cn(
+              "px-3 py-1.5 text-sm font-medium rounded-md transition-colors",
+              pathname === "/"
+                ? "bg-primary/10 text-primary"
+                : "text-muted-foreground hover:text-foreground hover:bg-muted/50",
+            )}
+          >
+            Home
+          </Link>
+
+          {/* Learn Dropdown */}
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <Button variant="ghost" size="sm" className="px-3 py-1.5 h-auto font-medium text-sm text-muted-foreground hover:text-foreground hover:bg-muted/50">
+                Learn <ChevronDown className="ml-1 h-3 w-3" />
+              </Button>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent align="start">
+              {LEARN_LINKS.map(({ href, label }) => (
+                <DropdownMenuItem key={href} asChild>
+                  <Link href={href}>{label}</Link>
+                </DropdownMenuItem>
+              ))}
+            </DropdownMenuContent>
+          </DropdownMenu>
+
+          {/* Resources Dropdown */}
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <Button variant="ghost" size="sm" className="px-3 py-1.5 h-auto font-medium text-sm text-muted-foreground hover:text-foreground hover:bg-muted/50">
+                Resources <ChevronDown className="ml-1 h-3 w-3" />
+              </Button>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent align="start">
+              {RESOURCES_LINKS.map(({ href, label }) => (
+                <DropdownMenuItem key={href} asChild>
+                  <Link href={href}>{label}</Link>
+                </DropdownMenuItem>
+              ))}
+            </DropdownMenuContent>
+          </DropdownMenu>
+
+          {/* Community Dropdown */}
+          <DropdownMenu>
+            <DropdownMenuTrigger asChild>
+              <Button variant="ghost" size="sm" className="px-3 py-1.5 h-auto font-medium text-sm text-muted-foreground hover:text-foreground hover:bg-muted/50">
+                Community <ChevronDown className="ml-1 h-3 w-3" />
+              </Button>
+            </DropdownMenuTrigger>
+            <DropdownMenuContent align="start">
+              {COMMUNITY_LINKS.map(({ href, label }) => (
+                <DropdownMenuItem key={href} asChild>
+                  <Link href={href}>{label}</Link>
+                </DropdownMenuItem>
+              ))}
+            </DropdownMenuContent>
+          </DropdownMenu>
         </nav>
 
         {/* Right controls */}
@@ -89,7 +151,7 @@ export function Header({ siteSettings = [] }: HeaderProps) {
                 </SheetTitle>
               </SheetHeader>
               <nav className="flex flex-col gap-1 mt-6">
-                {NAV_LINKS.map(({ href, label }) => (
+                {ALL_NAV_LINKS.map(({ href, label }) => (
                   <Link
                     key={href}
                     href={href}

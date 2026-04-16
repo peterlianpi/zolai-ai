@@ -5,6 +5,7 @@ import prisma from "@/lib/prisma";
 import { getSessionUserId, getIpAndUa } from "@/lib/auth/server-guards";
 import { toAuditJson } from "@/lib/audit";
 import { sendEmail } from "@/lib/email/resend";
+import { fromAddressFor } from "@/lib/email/addresses";
 import { ok, created, list, notFound, badRequest, forbidden } from "@/lib/api/response";
 import { requireMinRole } from "@/lib/auth/server-guards";
 
@@ -326,10 +327,15 @@ const forms = new Hono()
           .map((f) => `${f.label}: ${data[f.id]}`)
           .join("\n");
 
+        // Send from the inbox that was contacted so replies go to the right address
+        const submitterEmail = fields.find((f) => f.type === "email") ? String(data[fields.find((f) => f.type === "email")!.id] ?? "") : undefined;
+
         await sendEmail({
           to: form.notifyEmail,
+          from: fromAddressFor(form.notifyEmail),
           subject: `New submission: ${form.name}`,
           text: `Form: ${form.name}\n\n${fieldSummary}\n\nIP: ${ipAddress}\nUser Agent: ${userAgent}`,
+          ...(submitterEmail && { replyTo: submitterEmail }),
         });
       } catch (error) {
         console.error("[Forms] Failed to send notification email:", error);

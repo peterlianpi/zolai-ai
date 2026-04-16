@@ -48,13 +48,17 @@ export async function sendEmail({
   subject,
   text,
   html,
+  from: fromOverride,
+  replyTo,
 }: {
   to: string;
   subject: string;
   text?: string;
   html?: string;
+  from?: string;
+  replyTo?: string;
 }) {
-  const from = process.env.SMTP_FROM || process.env.RESEND_FROM_EMAIL;
+  const from = fromOverride || process.env.SMTP_FROM || process.env.RESEND_FROM_EMAIL;
 
   if (!from) {
     const errorMsg =
@@ -75,6 +79,7 @@ export async function sendEmail({
       subject,
       text,
       html,
+      ...(replyTo && { replyTo }),
     });
 
     console.log(`[Mail] Email sent successfully!`);

@@ -30,17 +30,73 @@ const dictionary = new Hono()
   .get("/search", searchSchema, async (c) => {
     try {
       const { q, lang, limit, page } = c.req.valid("query");
-      const where =
-        lang === "zolai"   ? { zolai:   { contains: q, mode: "insensitive" as const } } :
-        lang === "english" ? { english: { contains: q, mode: "insensitive" as const } } :
-        { OR: [
-          { zolai:   { contains: q, mode: "insensitive" as const } },
-          { english: { contains: q, mode: "insensitive" as const } },
-        ]};
-      const [words, total] = await Promise.all([
-        prisma.vocabWord.findMany({ where, select: WORD_SELECT, orderBy: { zolai: "asc" }, skip: (page - 1) * limit, take: limit }),
-        prisma.vocabWord.count({ where }),
-      ]);
+      const mode = "insensitive" as const;
+      const qn = q.trim().toLowerCase();
+
+      // Primary search field(s)
+      const primaryField = lang === "english" ? "english" : "zolai";
+      const secondaryField = lang === "english" ? "zolai" : "english";
+
+      // Fetch candidates: exact + prefix + contains on primary field only
+      // Never search definition/explanation/example (long noisy text)
+      const candidates = await prisma.vocabWord.findMany({
+        where: {
+          OR: [
+            { [primaryField]: { contains: q, mode } },
+            // Also search variants array contains the query
+            { variants: { has: q } },
+          ],
+        },
+        select: WORD_SELECT,
+        take: limit * 10,
+      });
+
+      // Score each candidate
+      const scored = candidates.map(w => {
+        const pv = w[primaryField as keyof typeof w] as string;
+        const pvl = pv.toLowerCase();
+        const sv = w[secondaryField as keyof typeof w] as string;
+        const svl = sv?.toLowerCase() ?? "";
+
+        let score = 0;
+
+        // Tier 1: exact match on primary field (highest)
+        if (pvl === qn) score += 1000;
+        // Tier 2: primary field starts with query
+        else if (pvl.startsWith(qn)) score += 500 - pvl.length; // shorter = better
+        // Tier 3: primary field word boundary match (e.g. "go" matches "go out")
+        else if (pvl.split(/\s+/)[0] === qn) score += 400;
+        // Tier 4: contains on primary
+        else if (pvl.includes(qn)) score += 100;
+
+        // Bonus: secondary field exact match
+        if (svl === qn) score += 200;
+        else if (svl.startsWith(qn)) score += 50;
+
+        // Bonus: variant exact match
+        if (w.variants?.some(v => v.toLowerCase() === qn)) score += 300;
+        if (w.synonyms?.some(v => v.toLowerCase() === qn)) score += 150;
+
+        // Penalty: compound phrases (spaces = less relevant for short queries)
+        const wordCount = pvl.split(/\s+/).length;
+        score -= wordCount * 80;
+        score -= pvl.length * 1.5;
+
+        // Bonus: confirmed accuracy
+        if (w.accuracy === "confirmed") score += 20;
+
+        return { word: w, score };
+      });
+
+      // Filter noise: for short queries, require meaningful score
+      const minScore = q.length <= 3 ? 50 : 0;
+      const filtered = scored.filter(s => s.score >= minScore);
+      filtered.sort((a, b) => b.score - a.score);
+
+      const skip = (page - 1) * limit;
+      const words = filtered.slice(skip, skip + limit).map(s => s.word);
+      const total = filtered.length;
+
       return list(c, words, { total, page, limit, totalPages: Math.ceil(total / limit) });
     } catch {
       return internalError(c, "Failed to search dictionary");

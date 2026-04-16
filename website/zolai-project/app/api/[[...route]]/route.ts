@@ -35,8 +35,10 @@ import audioPronunciation from "@/features/audio-pronunciation/api";
 import translationTools from "@/features/translation-tools/api";
 import lessons from "@/features/lessons/api";
 import agentMemory from "@/features/agent-memory/api";
+import inboundEmail from "@/features/inbound-email/api";
 import telegram from "@/features/telegram/api";
 import curriculum from "@/features/curriculum/api";
+import support from "@/features/support/api";
 
 import { rateLimiter } from "@/lib/rate-limit";
 import { csrfMiddleware } from "@/lib/auth/csrf";
@@ -88,7 +90,9 @@ const routes = app
   .route("/translation", translationTools)
   .route("/lessons", lessons)
   .route("/agent-memory", agentMemory)
+  .route("/inbound-email", inboundEmail)
   .route("/telegram", telegram)
-  .route("/curriculum", curriculum) as const;
+  .route("/curriculum", curriculum)
+  .route("/support", support) as const;
 
 export type AppType = typeof routes;
