@@ -15,7 +15,8 @@ export function useLessonPlans(level?: string) {
   return useQuery<LessonPlan[]>({
     queryKey: lessonKeys.plans(level),
     queryFn: async () => {
-      const res = await client.api.lessons.plans.$get({ query: level ? { level } : {} });
+      const query = level ? { level: level as "A1" | "A2" | "B1" | "B2" | "C1" | "C2" } : {};
+      const res = await client.api.lessons.plans.$get({ query });
       if (!res.ok) throw new Error("Fetch failed");
       const json = await res.json();
       return (json as { data: LessonPlan[] }).data;
@@ -42,8 +43,8 @@ export function useLesson(id: string) {
     queryFn: async () => {
       const res = await client.api.lessons.lesson[":id"].$get({ param: { id } });
       if (!res.ok) throw new Error("Fetch failed");
-      const json = await res.json();
-      return (json as { data: LessonContent }).data;
+      const json = await res.json() as unknown as { data: LessonContent };
+      return json.data;
     },
     enabled: !!id,
   });
@@ -81,7 +82,7 @@ export function useSubmitProgress() {
     mutationFn: async (vars: { lessonId: string; score: number; userId: string }) => {
       const res = await client.api.lessons.progress.$post({ json: vars });
       if (!res.ok) throw new Error("Submit failed");
-      return res.json();
+      return res.json() as unknown as { success: boolean; data: { progress: unknown; xpEarned: number } };
     },
     onSuccess: (_data, vars) => {
       qc.invalidateQueries({ queryKey: ["lessons", "progress", vars.userId] });

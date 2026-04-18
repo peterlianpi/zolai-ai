@@ -116,15 +116,15 @@ function checkImpossibleTravel(
   const lastLogin = recentLogins[0];
   if (!lastLogin.latitude || !lastLogin.longitude) return false;
 
-  const lastTime = new Date(lastLogin.createdAt).getTime();
+  const lastTime = new Date(lastLogin.createdAt as string).getTime();
   const currentTime = Date.now();
   const timeDiffHours = (currentTime - lastTime) / (1000 * 60 * 60);
 
   // If less than 1 hour, check distance
   if (timeDiffHours < 1) {
     const distance = calculateDistance(
-      lastLogin.latitude,
-      lastLogin.longitude,
+      lastLogin.latitude as number,
+      lastLogin.longitude as number,
       0, // placeholder - would need current coords
       0
     );

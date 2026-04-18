@@ -68,7 +68,7 @@ const forum = new Hono()
     try {
       const post = await prisma.learningResource.findFirst({
         where: { slug: c.req.param("slug"), resourceType: FORUM_TYPE },
-        include: { author: { select: { id: true, name: true, image: true } } },
+        select: { author: { select: { id: true, name: true, image: true } } },
       });
       if (!post) return notFound(c, "Post not found");
       await prisma.learningResource.update({ where: { id: post.id }, data: { viewCount: { increment: 1 } } });

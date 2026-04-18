@@ -36,11 +36,21 @@ function Feedback({ result, correct, explanation }: { result: ExerciseResult; co
 
 // ── Vocabulary (flashcard) ────────────────────────────────────────────────────
 function VocabExerciseView({ data, onComplete }: { data: VocabExercise; onComplete: (score: number) => void }) {
+  // Normalise: seed may use 'words' array with {zo, en} instead of 'pairs' with {zolai, english}
+  const rawData = data as unknown as Record<string, unknown>;
+  const pairs: Array<{ zolai: string; english: string; hint?: string }> =
+    data.pairs ??
+    ((rawData.words as Array<{ zo: string; en: string; example_zo?: string }> | undefined)?.map(w => ({
+      zolai: w.zo,
+      english: w.en,
+      hint: w.example_zo,
+    })) ?? []);
+
   const [idx, setIdx] = useState(0);
   const [answer, setAnswer] = useState("");
   const [result, setResult] = useState<ExerciseResult | null>(null);
   const [correct, setCorrect] = useState(0);
-  const pair = data.pairs[idx];
+  const pair = pairs[idx];
 
   function check() {
     const ok = fuzzyMatch(answer, pair.english);
@@ -50,7 +60,7 @@ function VocabExerciseView({ data, onComplete }: { data: VocabExercise; onComple
 
   function next() {
     setAnswer(""); setResult(null);
-    if (idx + 1 >= data.pairs.length) onComplete(Math.round((correct + (result?.correct ? 1 : 0)) / data.pairs.length * 100));
+    if (idx + 1 >= pairs.length) onComplete(Math.round((correct + (result?.correct ? 1 : 0)) / pairs.length * 100));
     else setIdx(i => i + 1);
   }
 
@@ -64,8 +74,8 @@ function VocabExerciseView({ data, onComplete }: { data: VocabExercise; onComple
       <Input value={answer} onChange={e => setAnswer(e.target.value)} onKeyDown={e => e.key === "Enter" && !result && check()} placeholder="Type the English meaning…" disabled={!!result} autoFocus />
       {result && <Feedback result={result} correct={pair.english} />}
       <div className="flex justify-between items-center">
-        <span className="text-xs text-muted-foreground">{idx + 1} / {data.pairs.length}</span>
-        {!result ? <Button onClick={check} disabled={!answer.trim()}>Check</Button> : <Button onClick={next}>{idx + 1 >= data.pairs.length ? "Finish" : "Next →"}</Button>}
+        <span className="text-xs text-muted-foreground">{idx + 1} / {pairs.length}</span>
+        {!result ? <Button onClick={check} disabled={!answer.trim()}>Check</Button> : <Button onClick={next}>{idx + 1 >= pairs.length ? "Finish" : "Next →"}</Button>}
       </div>
     </div>
   );
@@ -202,6 +212,11 @@ function GrammarView({ data, onComplete }: { data: GrammarExercise; onComplete: 
   const [idx, setIdx] = useState(0);
   const [selected, setSelected] = useState<number | null>(null);
   const [correct, setCorrect] = useState(0);
+
+  // Some GRAMMAR lessons use reading-style content (intro/sentences/vocabulary)
+  if (!data.rule && !data.questions?.length) {
+    return <ReadingLesson data={data as unknown as import("../types").ReadingExercise} onComplete={onComplete} />;
+  }
 
   if (phase === "rule") {
     return (

@@ -2,7 +2,8 @@ import { Hono } from "hono";
 import { z } from "zod";
 import { zValidator } from "@hono/zod-validator";
 import prisma from "@/lib/prisma";
-import { ok, notFound, internalError, list } from "@/lib/api/response";
+import { ok, notFound, internalError, list, unauthorized } from "@/lib/api/response";
+import { getSessionUserId } from "@/lib/auth/server-guards";
 import { DifficultyLevel, ResourceType } from "@/lib/generated/prisma";
 import type { Prisma } from "@/lib/generated/prisma";
 
@@ -53,7 +54,7 @@ const grammar = new Hono()
 
   .get("/lessons/:slug", async (c) => {
     try {
-      const lesson = await prisma.learningResource.findUnique({
+      const lesson = await prisma.learningResource.findFirst({
         where: { slug: c.req.param("slug") },
         select: {
           ...lessonSelect,
@@ -73,8 +74,10 @@ const grammar = new Hono()
   })
 
   .post("/lessons/:slug/complete", async (c) => {
+    const sessionUserId = await getSessionUserId(c);
+    if (!sessionUserId) return unauthorized(c);
     try {
-      const lesson = await prisma.learningResource.findUnique({
+      const lesson = await prisma.learningResource.findFirst({
         where: { slug: c.req.param("slug") },
       });
       if (!lesson) return notFound(c, "Lesson not found");

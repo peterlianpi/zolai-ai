@@ -112,7 +112,7 @@ export function getGeminiPool(): GeminiPool {
       process.env.GEMINI_API_KEY,
       process.env.GEMINI_API_KEY_2,
       process.env.GEMINI_API_KEY_3,
-    ].filter(Boolean);
+    ].filter((k): k is string => Boolean(k));
 
     const models = (process.env.GEMINI_MODELS || 'gemini-1.5-flash').split(',').map(m => m.trim());
 

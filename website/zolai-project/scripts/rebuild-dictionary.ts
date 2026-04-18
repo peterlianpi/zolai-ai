@@ -2,9 +2,9 @@
  * scripts/rebuild-dictionary.ts
  *
  * Rebuilds VocabWord table from all 3 source files:
- *   1. data/master/combined/dictionary.jsonl   — mixed ZO/EN headwords
- *   2. data/master/combined/phrases_consolidated.jsonl — ZO→EN phrases
- *   3. data/processed/bible_vocab_resolved.jsonl — ZO→EN bible vocab
+ *   1. data/dictionary/processed/dict_unified_v1.jsonl   — unified dictionary
+ *   2. data/parallel/zo_en_pairs_combined.jsonl — ZO→EN phrases
+ *   3. data/dictionary/processed/dict_enriched_v1.jsonl — enriched vocab
  *
  * Strategy:
  *   - Detect headword direction (ZO vs EN) using heuristics
@@ -21,9 +21,9 @@ import { createInterface } from "readline";
 import path from "path";
 import prisma from "../lib/prisma";
 
-const DICT_PATH    = "/home/peter/Documents/Projects/zolai/data/master/combined/dictionary.jsonl";
-const PHRASES_PATH = "/home/peter/Documents/Projects/zolai/data/master/combined/phrases_consolidated.jsonl";
-const BIBLE_PATH   = "/home/peter/Documents/Projects/zolai/data/processed/bible_vocab_resolved.jsonl";
+const DICT_PATH    = "/home/peter/Documents/Projects/zolai/data/dictionary/processed/dict_unified_v1.jsonl";
+const PHRASES_PATH = "/home/peter/Documents/Projects/zolai/data/parallel/zo_en_pairs_combined_v1.jsonl";
+const BIBLE_PATH   = "/home/peter/Documents/Projects/zolai/data/dictionary/processed/dict_enriched_v1.jsonl";
 
 const BATCH_SIZE = 500;
 

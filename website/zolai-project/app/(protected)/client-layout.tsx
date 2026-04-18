@@ -114,7 +114,9 @@ export function ClientLayout({ children }: { children: React.ReactNode }) {
     <SidebarProvider>
       <AppSidebar />
       <SidebarInset>
-        <header className="sticky top-0 z-20 flex h-16 shrink-0 items-center gap-2 border-b border-t-2 border-t-red-600 bg-background transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-12">
+        <header className="sticky top-0 z-20 flex h-16 shrink-0 items-center gap-2 border-b bg-background transition-[width,height] ease-linear group-has-data-[collapsible=icon]/sidebar-wrapper:h-12">
+          {/* Zomi flag accent stripe */}
+          <div className="absolute top-0 left-0 right-0 h-0.5 bg-gradient-to-r from-primary via-amber-400 to-green-500" aria-hidden="true" />
           <div className="flex items-center gap-2 px-4 w-full">
             <SidebarTrigger className="-ml-1" />
             <Separator

@@ -39,7 +39,7 @@ function runCommand(cmd: string): { success: boolean; output: string } {
 // Agent 1: Code Quality
 async function auditCode(): Promise<AgentResult> {
   const start = Date.now();
-  const checks = [];
+  const checks: Array<{ name: string; status: 'PASS' | 'FAIL' | 'WARN'; message: string }> = [];
 
   // ESLint
   const lint = runCommand('bun run lint --max-warnings=0');
@@ -72,7 +72,7 @@ async function auditCode(): Promise<AgentResult> {
 // Agent 2: Security
 async function auditSecurity(): Promise<AgentResult> {
   const start = Date.now();
-  const checks = [];
+  const checks: Array<{ name: string; status: 'PASS' | 'FAIL' | 'WARN'; message: string }> = [];
 
   // Raw fetch check
   const fetch = runCommand(
@@ -122,7 +122,7 @@ async function auditSecurity(): Promise<AgentResult> {
 // Agent 3: Database
 async function auditDatabase(): Promise<AgentResult> {
   const start = Date.now();
-  const checks = [];
+  const checks: Array<{ name: string; status: 'PASS' | 'FAIL' | 'WARN'; message: string }> = [];
 
   // Connection check
   const db = runCommand('bunx prisma db execute --stdin < /dev/null');
@@ -155,7 +155,7 @@ async function auditDatabase(): Promise<AgentResult> {
 // Agent 4: Configuration
 async function auditConfiguration(): Promise<AgentResult> {
   const start = Date.now();
-  const checks = [];
+  const checks: Array<{ name: string; status: 'PASS' | 'FAIL' | 'WARN'; message: string }> = [];
 
   // Environment variables
   const envFile = existsSync('.env.local') ? readFileSync('.env.local', 'utf-8') : '';
@@ -191,7 +191,7 @@ async function auditConfiguration(): Promise<AgentResult> {
 // Agent 5: API
 async function auditAPI(): Promise<AgentResult> {
   const start = Date.now();
-  const checks = [];
+  const checks: Array<{ name: string; status: 'PASS' | 'FAIL' | 'WARN'; message: string }> = [];
 
   // API routes check
   const apiRoutes = existsSync('app/api/[[...route]]/route.ts');

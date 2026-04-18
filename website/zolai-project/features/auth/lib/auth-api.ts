@@ -155,8 +155,9 @@ export async function resetPassword(
     }
 
     // 3. Log success on server side (invalidates other sessions)
-    if (data?.user?.email) {
-      await trackResetSuccess(data.user.email);
+    const dataWithUser = data as { user?: { email?: string } } | null;
+    if (dataWithUser?.user?.email) {
+      await trackResetSuccess(dataWithUser.user.email);
     }
 
     return { success: true };

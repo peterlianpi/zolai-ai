@@ -16,7 +16,11 @@ export function useDictSearch(q: string, lang: SearchLang, page = 1) {
     queryFn: async () => {
       const res = await client.api.dictionary.search.$get({ query: { q, lang, page: String(page), limit: "20" } });
       if (!res.ok) throw new Error("Search failed");
-      return res.json();
+      const json = await res.json();
+      if ("success" in json && json.success) {
+        return { data: json.data as DictWord[], meta: json.meta as { total: number; page: number; limit: number; totalPages: number } };
+      }
+      throw new Error("Search failed");
     },
     enabled: q.length >= 1,
     placeholderData: prev => prev,
@@ -29,7 +33,9 @@ export function useDictWord(id: string) {
     queryFn: async () => {
       const res = await client.api.dictionary[":id"].$get({ param: { id } });
       if (!res.ok) throw new Error("Fetch failed");
-      return res.json();
+      const json = await res.json();
+      if ("success" in json && json.success) return json as { success: boolean; data: { word: DictWord } };
+      throw new Error("Fetch failed");
     },
     enabled: !!id,
   });
@@ -41,7 +47,9 @@ export function useRandomWords(count = 6) {
     queryFn: async () => {
       const res = await client.api.dictionary.random.$get({ query: { count: String(count) } });
       if (!res.ok) throw new Error("Fetch failed");
-      return res.json();
+      const json = await res.json();
+      if ("success" in json && json.success) return json as { success: boolean; data: { words: DictWord[] } };
+      throw new Error("Fetch failed");
     },
     staleTime: 60_000,
   });
@@ -53,7 +61,9 @@ export function useDictStats() {
     queryFn: async () => {
       const res = await client.api.dictionary.stats.$get();
       if (!res.ok) throw new Error("Stats failed");
-      return res.json();
+      const json = await res.json();
+      if ("success" in json && json.success) return json as { success: boolean; data: DictStats };
+      throw new Error("Stats failed");
     },
     staleTime: 300_000,
   });

@@ -3,6 +3,7 @@ import { z } from "zod";
 import { zValidator } from "@hono/zod-validator";
 import prisma from "@/lib/prisma";
 import { ok, notFound, internalError, list } from "@/lib/api/response";
+import { _getSessionUserId } from "@/lib/auth/server-guards";
 import type { Prisma } from "@/lib/generated/prisma";
 
 const wordSelect = {

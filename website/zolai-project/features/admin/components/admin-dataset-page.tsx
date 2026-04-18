@@ -25,8 +25,8 @@ export function AdminDatasetPage() {
   const [statDialog, setStatDialog] = useState(false);
   const [statForm, setStatForm] = useState({ label: "", value: "", target: "", unit: "" });
 
-  const { data: statsData } = useQuery({ queryKey: ["admin-dataset-stats"], queryFn: async () => { const res = await client.api.zolai.stats.$get(); return res.json(); } });
-  const { data: runsData } = useQuery({ queryKey: ["admin-training-runs"], queryFn: async () => { const res = await client.api.zolai.training.$get(); return res.json(); } });
+  const { data: statsData } = useQuery({ queryKey: ["admin-dataset-stats"], queryFn: async () => { const res = await client.api.zolai.stats.$get(); return res.json() as unknown as { success: boolean; data: Stat[] }; } });
+  const { data: runsData } = useQuery({ queryKey: ["admin-training-runs"], queryFn: async () => { const res = await client.api.zolai.training.$get(); return res.json() as unknown as { success: boolean; data: Run[] }; } });
 
   const stats: Stat[] = statsData?.data ?? [];
   const runs: Run[] = runsData?.data ?? [];

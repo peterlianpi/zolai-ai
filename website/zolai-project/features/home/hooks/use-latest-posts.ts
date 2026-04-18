@@ -1,17 +1,19 @@
 "use client";
 
 import { useQuery } from "@tanstack/react-query";
-import { getLatestPosts, type HomePost } from "../api";
+import { client } from "@/lib/api/client";
+import type { HomePost } from "../api";
 
 export function useLatestPosts() {
-  const { data, isLoading, error } = useQuery<HomePost[], Error>({
+  return useQuery<HomePost[]>({
     queryKey: ["latest-posts"],
-    queryFn: () => getLatestPosts(),
+    queryFn: async () => {
+      const res = await client.api.content.posts.$get({
+        query: { limit: "5", status: "PUBLISHED", orderBy: "publishedAt", orderDir: "desc" },
+      });
+      if (!res.ok) throw new Error("Failed to fetch latest posts");
+      const json = (await res.json()) as { success: boolean; data: HomePost[] };
+      return json.data;
+    },
   });
-
-  return {
-    posts: data || [],
-    isLoading,
-    error,
-  };
 }

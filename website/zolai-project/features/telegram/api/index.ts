@@ -1,6 +1,9 @@
 import { Hono } from 'hono';
 import { z } from 'zod';
 import { zValidator } from '@hono/zod-validator';
+import { ok, unauthorized, internalError } from '@/lib/api/response';
+import { getSessionFromContext } from '@/lib/auth/server-guards';
+import prisma from '@/lib/prisma';
 
 const telegramRouter = new Hono()
   .post('/webhook', zValidator('json', z.object({
@@ -111,7 +114,32 @@ Type /help for available commands.
   .post('/set-webhook', async (c) => {
     const webhookUrl = `${process.env.NEXT_PUBLIC_APP_URL}/api/telegram/webhook`;
     const result = await setTelegramWebhook(webhookUrl);
-    return c.json(result);
+    return ok(c, result);
+  })
+  .post('/link-token', async (c) => {
+    const session = await getSessionFromContext(c);
+    if (!session?.user) return unauthorized(c, 'Authentication required');
+    try {
+      // Generate a short-lived token using user ID + timestamp
+      const token = Buffer.from(`${session.user.id}:${Date.now()}`).toString('base64url');
+      return ok(c, { token });
+    } catch {
+      return internalError(c, 'Failed to generate token');
+    }
+  })
+  .post('/unlink', async (c) => {
+    const session = await getSessionFromContext(c);
+    if (!session?.user) return unauthorized(c, 'Authentication required');
+    try {
+      await prisma.userPreferences.upsert({
+        where: { userId: session.user.id },
+        update: { telegramChatId: null, telegramEnabled: false },
+        create: { userId: session.user.id, telegramChatId: null, telegramEnabled: false },
+      });
+      return ok(c, { unlinked: true });
+    } catch {
+      return internalError(c, 'Failed to unlink');
+    }
   })
 
   .get('/commands', async (c) => {
@@ -125,7 +153,7 @@ Type /help for available commands.
     ];
 
     const result = await setTelegramCommands(commands);
-    return c.json(result);
+    return ok(c, result);
   });
 
 async function sendTelegramMessage(chatId: number, text: string): Promise<boolean> {

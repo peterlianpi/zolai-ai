@@ -22,11 +22,11 @@ const PLANS = [
         lessons: [
           {
             title: "Basic Greetings",
-            type: "READING",
+            type: "GRAMMAR",
             order: 1,
             xpReward: 5,
             content: {
-              type: "READING",
+              type: "GRAMMAR",
               intro: "In Zolai (Tedim Chin), greetings focus on wellbeing. The word 'dam' means 'well/healthy' and is central to most greetings.",
               sentences: [
                 {
@@ -169,11 +169,11 @@ const PLANS = [
         lessons: [
           {
             title: "People — Read & Learn",
-            type: "READING",
+            type: "GRAMMAR",
             order: 1,
             xpReward: 5,
             content: {
-              type: "READING",
+              type: "GRAMMAR",
               intro: "In Zolai, 'mi' is the generic word for person/people. 'Mipa' means specifically a male person, and 'numei' a female person. Never use 'mipa' to mean people in general.",
               sentences: [
                 {
@@ -322,65 +322,21 @@ const PLANS = [
         lessons: [
           {
             title: "Conditionals — Read & Learn",
-            type: "READING",
+            type: "GRAMMAR",
             order: 1,
             xpReward: 5,
             content: {
-              type: "READING",
+              type: "GRAMMAR",
               intro: "Zolai conditionals use 'leh' (if/when). For NEGATIVE conditionals, always use 'kei a leh' — NEVER 'lo leh'. This is one of the most common errors.",
               sentences: [
-                {
-                  zo: "Nong pai leh, ka lungkim ding hi.",
-                  en: "If you come, I will be happy.",
-                  breakdown: [
-                    { word: "Nong", meaning: "you (plural/formal)", pos: "pronoun" },
-                    { word: "pai", meaning: "go / come", pos: "verb" },
-                    { word: "leh", meaning: "if / when (conditional)", pos: "particle" },
-                    { word: "ka", meaning: "I / my (agreement marker)", pos: "pronoun" },
-                    { word: "lungkim", meaning: "happy / satisfied", pos: "adjective" },
-                    { word: "ding", meaning: "will (future marker)", pos: "particle" },
-                    { word: "hi", meaning: "copula", pos: "particle" },
-                  ],
-                  note: "Positive conditional: verb + leh. The result clause follows.",
-                },
-                {
-                  zo: "Nong hong pai kei a leh, ka om ding hi.",
-                  en: "If you do not come, I will stay.",
-                  breakdown: [
-                    { word: "hong", meaning: "toward speaker (directional)", pos: "particle" },
-                    { word: "kei", meaning: "not (negative conditional)", pos: "particle", note: "NEVER use 'lo' for negative conditionals" },
-                    { word: "a", meaning: "linker particle", pos: "particle" },
-                    { word: "leh", meaning: "if / when", pos: "particle" },
-                    { word: "om", meaning: "stay / remain / exist", pos: "verb" },
-                  ],
-                  note: "Negative conditional: verb + kei + a + leh. The 'a' between kei and leh is required.",
-                },
-                {
-                  zo: "Ka dam kei ahih manin, ka pai kei hi.",
-                  en: "Because I was not well, I did not go.",
-                  breakdown: [
-                    { word: "ahih", meaning: "it is so / that being", pos: "particle" },
-                    { word: "manin", meaning: "because of / due to", pos: "particle", note: "ahih manin = because (cause-effect connector)" },
-                  ],
-                  note: "'ahih manin' = because. Different from conditional — this is cause/effect.",
-                },
-                {
-                  zo: "Tua ahih ciangin, amah pai hi.",
-                  en: "After that, he went.",
-                  breakdown: [
-                    { word: "Tua", meaning: "that (demonstrative)", pos: "pronoun", note: "NEVER use 'cu' (Hakha dialect)" },
-                    { word: "ahih", meaning: "it being so", pos: "particle" },
-                    { word: "ciangin", meaning: "after / when (temporal)", pos: "particle" },
-                    { word: "amah", meaning: "he / she / they (singular)", pos: "pronoun" },
-                  ],
-                  note: "'Tua ahih ciangin' = after that / then. Common narrative connector.",
-                },
+                { zo: "Nong pai leh, ka lungkim ding hi.", en: "If you come, I will be happy.", breakdown: [{ word: "leh", meaning: "if / when (conditional)", pos: "particle" }, { word: "ding", meaning: "will (future marker)", pos: "particle" }], note: "Positive conditional: verb + leh." },
+                { zo: "Nong hong pai kei a leh, ka om ding hi.", en: "If you do not come, I will stay.", breakdown: [{ word: "kei", meaning: "not (negative conditional)", pos: "particle", note: "NEVER use 'lo' for negative conditionals" }, { word: "a leh", meaning: "if (negative conditional linker)", pos: "particle" }], note: "Negative conditional: verb + kei + a + leh." },
+                { zo: "Ka dam kei ahih manin, ka pai kei hi.", en: "Because I was not well, I did not go.", breakdown: [{ word: "ahih manin", meaning: "because / due to", pos: "particle" }], note: "'ahih manin' = because (cause-effect connector)." },
               ],
               vocabulary: [
                 { zo: "leh", en: "if / when (conditional)", example_zo: "Nong pai leh...", example_en: "If you come..." },
                 { zo: "kei a leh", en: "if not (negative conditional)", example_zo: "Nong pai kei a leh...", example_en: "If you don't come..." },
                 { zo: "ahih manin", en: "because / due to", example_zo: "Ka dam kei ahih manin...", example_en: "Because I was not well..." },
-                { zo: "Tua ahih ciangin", en: "after that / then", example_zo: "Tua ahih ciangin, amah pai hi.", example_en: "After that, he went." },
                 { zo: "ding", en: "will (future marker)", example_zo: "Ka pai ding hi.", example_en: "I will go." },
               ],
             },
@@ -394,8 +350,7 @@ const PLANS = [
               type: "GRAMMAR",
               rule: "Negative conditionals use 'nong pai kei a leh' (if [subject] does not go). NEVER use 'lo leh'. Positive: 'nong pai leh' (if you go).",
               examples: [
-                { correct: "Nong pai kei a leh, ka om ding hi.", incorrect: "Nong pai lo leh, ka om ding hi.", explanation: "'kei' is the correct negative conditional marker. 'lo' is simple negation, not conditional." },
-                { correct: "A tha leh, ka lungkim ding hi.", incorrect: "A tha lo leh, ka lungkim ding hi.", explanation: "Positive conditional: verb + leh (if it is good)." },
+                { correct: "Nong pai kei a leh, ka om ding hi.", incorrect: "Nong pai lo leh, ka om ding hi.", explanation: "'kei' is the correct negative conditional marker." },
               ],
               questions: [
                 { question: "How do you say 'If you don't come'?", options: ["Nong hong pai lo leh", "Nong hong pai kei a leh", "Nong hong pai kei leh", "Nong hong pai ding kei leh"], correct: 1 },
@@ -411,9 +366,246 @@ const PLANS = [
             content: {
               type: "TRANSLATION",
               sentences: [
-                { source: "Ka dam kei ahih manin, ka pai kei hi.", sourceLang: "zo", answer: "Because I was not well, I did not go.", hint: "ahih manin = because it is so" },
+                { source: "Ka dam kei ahih manin, ka pai kei hi.", sourceLang: "zo", answer: "Because I was not well, I did not go.", hint: "ahih manin = because" },
                 { source: "Because he studied, he passed.", sourceLang: "en", answer: "Amah sim ahih manin, a lam hi.", hint: "sim = study, lam = pass" },
-                { source: "Tua ahih ciangin, amah pai hi.", sourceLang: "zo", answer: "After that, he went.", hint: "Tua ahih ciangin = after that / then" },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        title: "Directional Particles",
+        description: "hong (toward speaker), pai (away), lam (direction) — essential for natural Zolai.",
+        order: 2,
+        xpReward: 30,
+        lessons: [
+          {
+            title: "Directional Particles",
+            type: "VOCABULARY",
+            order: 1,
+            xpReward: 10,
+            content: {
+              type: "VOCABULARY",
+              words: [
+                { zo: "hong", en: "toward speaker (come here)", example_zo: "Hong pai in.", example_en: "Come here." },
+                { zo: "pai", en: "away from speaker (go there)", example_zo: "Pai in.", example_en: "Go (away)." },
+                { zo: "lam", en: "direction / toward", example_zo: "Khua lam pai hi.", example_en: "He went toward the village." },
+                { zo: "pua", en: "carry / bring (toward)", example_zo: "Laibu pua hong pai in.", example_en: "Bring the book here." },
+              ],
+            },
+          },
+          {
+            title: "Directional Quiz",
+            type: "MULTIPLE_CHOICE",
+            order: 2,
+            xpReward: 15,
+            content: {
+              type: "MULTIPLE_CHOICE",
+              questions: [
+                { question: "Which particle means 'toward the speaker'?", options: ["pai", "hong", "lam", "pua"], correct: 1, explanation: "'hong' indicates movement toward the speaker." },
+                { question: "Translate: 'Come here'", options: ["Pai in", "Hong pai in", "Lam pai in", "Om in"], correct: 1, explanation: "'Hong pai in' = come here (hong = toward speaker, pai = go/come, in = imperative)." },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+];
+
+const B2_C2_PLANS = [
+  {
+    slug: "b2-upper-int",
+    title: "B2 — Upper Intermediate",
+    description: "Complex sentences, formal register, discourse markers, and extended narratives.",
+    level: "B2",
+    order: 4,
+    units: [
+      {
+        title: "Formal Register & Discourse",
+        description: "Formal speech patterns and discourse connectors.",
+        order: 1,
+        xpReward: 40,
+        lessons: [
+          {
+            title: "Formal vs Informal Speech",
+            type: "GRAMMAR",
+            order: 1,
+            xpReward: 10,
+            content: {
+              type: "GRAMMAR",
+              intro: "Zolai has distinct formal and informal registers. Formal speech uses full verb forms and respectful pronouns.",
+              sentences: [
+                { zo: "Nong hong pai ding hi a?", en: "Will you come? (formal)", breakdown: [{ word: "Nong", meaning: "you (formal/plural)", pos: "pronoun" }, { word: "ding", meaning: "will (future)", pos: "particle" }], note: "Formal question uses full pronoun 'nong'." },
+                { zo: "Ka lungkim taktak hi.", en: "I am very happy.", breakdown: [{ word: "taktak", meaning: "very / truly (intensifier)", pos: "adverb" }], note: "'taktak' intensifies adjectives." },
+              ],
+              vocabulary: [
+                { zo: "taktak", en: "very / truly", example_zo: "Ka lungkim taktak hi.", example_en: "I am truly happy." },
+                { zo: "hi a", en: "question marker (formal)", example_zo: "Nong dam hi a?", example_en: "Are you well?" },
+              ],
+            },
+          },
+          {
+            title: "Discourse Connectors",
+            type: "VOCABULARY",
+            order: 2,
+            xpReward: 15,
+            content: {
+              type: "VOCABULARY",
+              words: [
+                { zo: "Tua ahih ciangin", en: "After that / Then", example_zo: "Tua ahih ciangin, amah pai hi.", example_en: "After that, he went." },
+                { zo: "ahih manin", en: "Because / Therefore", example_zo: "A tha ahih manin, ka lungkim hi.", example_en: "Because it is good, I am happy." },
+                { zo: "himahin", en: "However / But", example_zo: "Ka pai ding hi, himahin ka dam kei hi.", example_en: "I will go, however I am not well." },
+                { zo: "tua bangin", en: "Like that / In that way", example_zo: "Tua bangin bawl in.", example_en: "Do it like that." },
+              ],
+            },
+          },
+          {
+            title: "Discourse Translation",
+            type: "TRANSLATION",
+            order: 3,
+            xpReward: 20,
+            content: {
+              type: "TRANSLATION",
+              sentences: [
+                { source: "Ka pai ding hi, himahin ka dam kei hi.", sourceLang: "zo", answer: "I will go, however I am not well.", hint: "himahin = however/but" },
+                { source: "Because it is good, I am happy.", sourceLang: "en", answer: "A tha ahih manin, ka lungkim hi.", hint: "ahih manin = because" },
+              ],
+            },
+          },
+        ],
+      },
+      {
+        title: "Narrative & Storytelling",
+        description: "Tell stories in Zolai using past tense, sequence markers, and quotatives.",
+        order: 2,
+        xpReward: 40,
+        lessons: [
+          {
+            title: "Quotative Patterns",
+            type: "GRAMMAR",
+            order: 1,
+            xpReward: 15,
+            content: {
+              type: "GRAMMAR",
+              intro: "Zolai uses 'ci-in' (saying/thinking) to report speech and thoughts. It follows the quoted content.",
+              sentences: [
+                { zo: "Amah in, 'Ka pai ding hi,' ci-in a gen hi.", en: "He said, 'I will go.'", breakdown: [{ word: "ci-in", meaning: "saying / thinking (quotative)", pos: "particle" }, { word: "gen", meaning: "say / speak", pos: "verb" }], note: "ci-in follows the quoted speech." },
+                { zo: "Ka pai ding hi ci-in ka ngaih hi.", en: "I thought I would go.", breakdown: [{ word: "ngaih", meaning: "think / consider", pos: "verb" }], note: "ci-in also marks reported thought." },
+              ],
+              vocabulary: [
+                { zo: "ci-in", en: "saying / thinking (quotative)", example_zo: "'Ka dam hi,' ci-in a gen hi.", example_en: "He said, 'I am well.'" },
+                { zo: "gen", en: "say / speak", example_zo: "Amah in a gen hi.", example_en: "He said it." },
+                { zo: "ngaih", en: "think / consider", example_zo: "Ka ngaih hi.", example_en: "I thought." },
+              ],
+            },
+          },
+          {
+            title: "Story Vocabulary",
+            type: "VOCABULARY",
+            order: 2,
+            xpReward: 15,
+            content: {
+              type: "VOCABULARY",
+              words: [
+                { zo: "a kipat cil-in", en: "in the beginning / at first", example_zo: "A kipat cil-in, Pasian in vantung leh lei a piangsak hi.", example_en: "In the beginning, God created heaven and earth." },
+                { zo: "tua ciangin", en: "then / after that", example_zo: "Tua ciangin amah pai hi.", example_en: "Then he went." },
+                { zo: "a bei ciangin", en: "when it was finished / at the end", example_zo: "A bei ciangin, amah hong pai hi.", example_en: "When it was finished, he came back." },
+                { zo: "a nungta in", en: "while alive / during life", example_zo: "A nungta in a bawl hi.", example_en: "He did it while alive." },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "c1-advanced",
+    title: "C1 — Advanced",
+    description: "Advanced grammar, idiomatic expressions, complex clause structures.",
+    level: "C1",
+    order: 5,
+    units: [
+      {
+        title: "Complex Clauses",
+        description: "Relative clauses, embedded sentences, and advanced particles.",
+        order: 1,
+        xpReward: 50,
+        lessons: [
+          {
+            title: "Relative Clauses",
+            type: "GRAMMAR",
+            order: 1,
+            xpReward: 15,
+            content: {
+              type: "GRAMMAR",
+              intro: "Zolai relative clauses precede the noun they modify (SOV structure). The relativizer 'a' links the clause to the head noun.",
+              sentences: [
+                { zo: "Amah a pai mi hi.", en: "He is the one who went.", breakdown: [{ word: "a", meaning: "relativizer particle", pos: "particle" }, { word: "pai", meaning: "go", pos: "verb" }, { word: "mi", meaning: "person / one who", pos: "noun" }], note: "Relative clause: [clause + a] + head noun. The clause precedes the noun." },
+                { zo: "Ka it mi pen amah hi.", en: "The one I love is him.", breakdown: [{ word: "it", meaning: "love", pos: "verb" }, { word: "pen", meaning: "topic marker / the (definite)", pos: "particle" }], note: "'pen' marks the topic/subject of the main clause." },
+              ],
+              vocabulary: [
+                { zo: "mi", en: "person / one who", example_zo: "A pai mi", example_en: "the one who went" },
+                { zo: "pen", en: "topic/definite marker", example_zo: "Ka it mi pen", example_en: "the one I love" },
+              ],
+            },
+          },
+          {
+            title: "Advanced Particles Quiz",
+            type: "MULTIPLE_CHOICE",
+            order: 2,
+            xpReward: 20,
+            content: {
+              type: "MULTIPLE_CHOICE",
+              questions: [
+                { question: "What does 'pen' mark in a sentence?", options: ["Future tense", "Topic/definite noun", "Negative", "Question"], correct: 1, explanation: "'pen' is a topic/definite marker, similar to 'the' in English." },
+                { question: "In 'A pai mi hi', what is 'a'?", options: ["Subject pronoun", "Relativizer particle", "Verb", "Copula"], correct: 1, explanation: "'a' links the relative clause to the head noun 'mi'." },
+                { question: "How do you say 'the person who came'?", options: ["A hong pai mi", "Hong pai a mi", "Mi a hong pai", "A mi hong pai"], correct: 0, explanation: "Relative clause precedes noun: [a + verb] + noun." },
+              ],
+            },
+          },
+        ],
+      },
+    ],
+  },
+  {
+    slug: "c2-mastery",
+    title: "C2 — Mastery",
+    description: "Native-level fluency: proverbs, poetry, rhetorical structures, and cultural expression.",
+    level: "C2",
+    order: 6,
+    units: [
+      {
+        title: "Proverbs & Idioms",
+        description: "Traditional Zomi proverbs and idiomatic expressions.",
+        order: 1,
+        xpReward: 60,
+        lessons: [
+          {
+            title: "Zomi Proverbs",
+            type: "VOCABULARY",
+            order: 1,
+            xpReward: 20,
+            content: {
+              type: "VOCABULARY",
+              words: [
+                { zo: "Lungkimna pen gam in om hi.", en: "Happiness lives in the land (home).", example_zo: "Lungkimna pen gam in om hi.", example_en: "True happiness is found at home." },
+                { zo: "Zangkhat in zang tampi a lam.", en: "One mountain leads to many mountains.", example_zo: "Zangkhat in zang tampi a lam.", example_en: "One step leads to many achievements." },
+                { zo: "Tapa tha in nu le pa a lungkim.", en: "A good child makes parents happy.", example_zo: "Tapa tha in nu le pa a lungkim.", example_en: "Good children bring joy to parents." },
+              ],
+            },
+          },
+          {
+            title: "Proverb Translation",
+            type: "TRANSLATION",
+            order: 2,
+            xpReward: 25,
+            content: {
+              type: "TRANSLATION",
+              sentences: [
+                { source: "Lungkimna pen gam in om hi.", sourceLang: "zo", answer: "Happiness lives in the land (home).", hint: "lungkimna = happiness, gam = land/home, om = exist/live" },
+                { source: "A good child makes parents happy.", sourceLang: "en", answer: "Tapa tha in nu le pa a lungkim.", hint: "tapa = child, tha = good, nu le pa = parents" },
+                { source: "Zangkhat in zang tampi a lam.", sourceLang: "zo", answer: "One mountain leads to many mountains.", hint: "zang = mountain, khat = one, tampi = many, lam = lead/pass" },
               ],
             },
           },
@@ -426,7 +618,9 @@ const PLANS = [
 async function main() {
   console.log("Seeding lesson plans...");
 
-  for (const planData of PLANS) {
+  const allPlans = [...PLANS, ...B2_C2_PLANS];
+
+  for (const planData of allPlans) {
     const { units, ...planFields } = planData;
     const plan = await prisma.lessonPlan.upsert({
       where: { slug: planFields.slug },
@@ -434,6 +628,10 @@ async function main() {
       update: planFields,
     });
     console.log(`  Plan: ${plan.title}`);
+
+    // Delete existing units for this plan to avoid duplicates on re-run
+    await prisma.lesson.deleteMany({ where: { unit: { planId: plan.id } } });
+    await prisma.lessonUnit.deleteMany({ where: { planId: plan.id } });
 
     for (const unitData of units) {
       const { lessons, ...unitFields } = unitData;
@@ -443,7 +641,7 @@ async function main() {
 
       for (const lessonData of lessons) {
         await prisma.lesson.create({
-          data: { ...lessonData, unitId: unit.id, content: lessonData.content as never },
+          data: { ...lessonData, unitId: unit.id, type: lessonData.type as import("@/lib/generated/prisma").LessonType, content: lessonData.content as never },
         });
       }
       console.log(`    Unit: ${unit.title} (${lessons.length} lessons)`);

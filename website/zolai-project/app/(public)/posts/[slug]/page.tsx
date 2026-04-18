@@ -8,7 +8,7 @@ import { format } from "date-fns";
 import { buildSiteMetadata, getSiteConfig } from "@/lib/site-config";
 import prisma from "@/lib/prisma";
 import { sanitizeContentHtml } from "@/lib/sanitize";
-import { Hero, RelatedPosts, PageTemplateClass, ContentClass, SidebarClass, resolveTemplateKey } from "@/features/home/components";
+import { PageTitle, RelatedPosts, PageTemplateClass, ContentClass, SidebarClass, resolveTemplateKey } from "@/features/home/components";
 import { publicPostPath } from "@/lib/content-paths";
 import { localeFromSearchParams, localePrefix, type LocaleCode } from "@/lib/i18n/locales";
 import { safeDbQuery } from "@/lib/server/safe-db";
@@ -19,6 +19,7 @@ import {
 } from "@/lib/seo";
 import { TableOfContents } from "@/features/content/components/table-of-contents";
 import { CommentsSection } from "@/features/comments";
+import { getServerSession } from "@/lib/auth/server";
 
 function getTagSlugsForType(type: "POST" | "NEWS"): string[] {
   return type === "POST" ? ["post_tag", "tag"] : ["news_tag", "tag"];
@@ -37,7 +38,7 @@ const getPostBySlug = cache(async function getPostBySlug(slug: string, locale: L
         where: {
           type: "POST",
           slug,
-          status: "PUBLISHED",
+          status: { in: ["PUBLISHED", "PRIVATE"] },
           locale,
         },
         include: {
@@ -185,6 +186,28 @@ export default async function PostArticlePage({ params, searchParams }: PostArti
 
   if (!post) {
     notFound();
+  }
+
+  // Members-only gate
+  if (post.status === "PRIVATE") {
+    const session = await getServerSession();
+    if (!session?.user) {
+      return (
+        <div className="min-h-[60vh] flex flex-col items-center justify-center gap-4 px-4 text-center">
+          <div className="p-4 rounded-full bg-primary/10">
+            <svg className="h-8 w-8 text-primary" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 15v2m-6 4h12a2 2 0 002-2v-6a2 2 0 00-2-2H6a2 2 0 00-2 2v6a2 2 0 002 2zm10-10V7a4 4 0 00-8 0v4h8z" /></svg>
+          </div>
+          <h1 className="text-2xl font-bold">{post.title}</h1>
+          <p className="text-muted-foreground max-w-md">This post is for members only. Sign in to read the full content.</p>
+          <Link href={`/login?redirect=/posts/${slug}`} className="inline-flex items-center justify-center rounded-md bg-primary text-primary-foreground px-6 py-2.5 text-sm font-semibold hover:bg-primary/90 transition-colors">
+            Sign In to Read
+          </Link>
+          <Link href="/signup" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+            Don&apos;t have an account? Sign up free
+          </Link>
+        </div>
+      );
+    }
   }
 
   const template = resolveTemplateKey(post.pageTemplate?.slug ?? post.template);
@@ -390,7 +413,7 @@ export default async function PostArticlePage({ params, searchParams }: PostArti
       <>
         <JsonLdScript data={articleJsonLd} />
         <JsonLdScript data={breadcrumbJsonLd} />
-        <Hero title={post.title} breadcrumb={["Home", "Posts", post.title]} />
+        <PageTitle title={post.title} />
         <article className="container mx-auto px-4 py-8">
           <div className={PageTemplateClass(template)}>
             <div className={contentClass}>
@@ -406,7 +429,7 @@ export default async function PostArticlePage({ params, searchParams }: PostArti
     <>
       <JsonLdScript data={articleJsonLd} />
       <JsonLdScript data={breadcrumbJsonLd} />
-      <Hero title={post.title} breadcrumb={["Home", "Posts", post.title]} />
+      <PageTitle title={post.title} />
 
       <article className="container mx-auto px-4 py-8">
         <div className={PageTemplateClass(template)}>

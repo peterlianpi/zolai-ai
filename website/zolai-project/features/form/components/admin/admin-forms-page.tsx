@@ -8,20 +8,18 @@ import { Plus } from "lucide-react";
 import { client } from "@/lib/api/client";
 
 interface Form { id: string; name: string; slug: string; isActive: boolean; submitCount: number; createdAt: string }
-interface Submission { id: string; formId: string; data: Record<string, string>; createdAt: string }
 
 export function AdminFormsPage() {
-  const { data: formsData } = useQuery<{ data: Form[] }>({
+  const { data: formsData } = useQuery<{ success: boolean; data: Form[] }>({
     queryKey: ["admin-forms"],
-    queryFn: async () => { const res = await client.api.forms.$get(); return res.json(); },
-  });
-  const { data: subsData } = useQuery<{ data: Submission[] }>({
-    queryKey: ["admin-submissions"],
-    queryFn: async () => { const res = await client.api.forms.submissions.$get({ query: { limit: "20" } }); return res.json(); },
+    queryFn: async () => {
+      const res = await client.api.forms.$get({ query: {} });
+      const json = await res.json() as { success: boolean; data: Form[] };
+      return json;
+    },
   });
 
   const forms = formsData?.data ?? [];
-  const subs  = subsData?.data ?? [];
 
   return (
     <div className="space-y-6">
@@ -55,26 +53,9 @@ export function AdminFormsPage() {
       </Card>
 
       <Card>
-        <CardHeader><CardTitle>Recent Submissions ({subs.length})</CardTitle></CardHeader>
+        <CardHeader><CardTitle>Recent Submissions</CardTitle></CardHeader>
         <CardContent>
-          {subs.length === 0 ? (
-            <p className="text-sm text-muted-foreground py-4 text-center">No submissions yet.</p>
-          ) : (
-            <div className="space-y-2">
-              {subs.map(s => (
-                <div key={s.id} className="py-2 border-b last:border-0 text-sm">
-                  <div className="flex items-center justify-between">
-                    <span className="text-xs text-muted-foreground">{new Date(s.createdAt).toLocaleString()}</span>
-                  </div>
-                  <div className="mt-1 flex flex-wrap gap-2">
-                    {Object.entries(s.data ?? {}).map(([k, v]) => (
-                      <span key={k} className="text-xs"><span className="font-medium">{k}:</span> {String(v).slice(0, 50)}</span>
-                    ))}
-                  </div>
-                </div>
-              ))}
-            </div>
-          )}
+          <p className="text-sm text-muted-foreground py-4 text-center">Select a form to view its submissions.</p>
         </CardContent>
       </Card>
     </div>

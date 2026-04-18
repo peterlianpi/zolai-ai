@@ -54,7 +54,8 @@ export function TutorInterface() {
     setInput("");
     try {
       const result = await chatMutation.mutateAsync({ messages: next, level, mode, tutor: true, provider, model: currentModel });
-      const final: Message[] = [...next, { role: "assistant", content: (result as { reply: string }).reply }];
+      const reply = (result as unknown as { reply: string }).reply;
+      const final: Message[] = [...next, { role: "assistant", content: reply }];
       setMessages(final);
       if (messages.length === 0) {
         setHistory(prev => [{ id: Date.now().toString(), title: text.slice(0, 40), messages: final, level, mode, provider, model }, ...prev.slice(0, 9)]);
@@ -143,7 +144,7 @@ export function TutorInterface() {
                   <SelectValue placeholder={modelsLoading ? "Loading…" : "Select model"} />
                 </SelectTrigger>
                 <SelectContent>
-                  {modelsData?.models?.map(m => (
+                  {modelsData?.models?.map((m: { id: string; name: string }) => (
                     <SelectItem key={m.id} value={m.id}>{m.name}</SelectItem>
                   ))}
                 </SelectContent>

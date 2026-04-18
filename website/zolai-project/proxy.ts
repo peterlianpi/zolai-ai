@@ -3,7 +3,12 @@ import { lookupRedirect, recordRedirectHit } from "@/features/redirects/server/l
 import { hasValidSession } from "@/lib/auth/validate";
 
 // Routes that require authentication
-const PROTECTED_PREFIXES = ["/dashboard", "/admin", "/settings"];
+const PROTECTED_PREFIXES = [
+  "/dashboard", "/admin", "/settings",
+  "/learn", "/dictionary", "/grammar", "/wiki", "/bible",
+  "/tutor", "/audio", "/chat", "/translate", "/training",
+  "/forum", "/submit", "/curriculum", "/security",
+];
 
 function isProtectedRoute(pathname: string): boolean {
   return PROTECTED_PREFIXES.some(

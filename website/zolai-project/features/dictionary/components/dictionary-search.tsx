@@ -6,7 +6,7 @@ import { Skeleton } from "@/components/ui/skeleton";
 import { WordCard } from "./word-card";
 import { useDictSearch } from "../hooks";
 import { ArrowLeft, ArrowRight, Search, ArrowLeftRight } from "lucide-react";
-import type { SearchLang } from "../types";
+import type { SearchLang, DictWord } from "../types";
 
 const LANG_CYCLE: SearchLang[] = ["both", "zolai", "english"];
 const LANG_LABEL: Record<SearchLang, string> = { both: "ZO + EN", zolai: "ZO → EN", english: "EN → ZO" };
@@ -67,7 +67,7 @@ export function DictionarySearch() {
           </div>
 
           <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {words.map(w => <WordCard key={w.id} word={w} />)}
+            {words.map((w: DictWord) => <WordCard key={w.id} word={w} />)}
           </div>
 
           {meta && meta.totalPages > 1 && (

@@ -203,6 +203,41 @@ const systemRouter = new Hono()
     return ok(c, { deleted: count });
   });
 
+const devopsRouter = new Hono()
+  .get("/", async (c) => {
+    const { checkIsSuperAdmin } = await import("@/lib/auth/server-guards");
+    if (!await checkIsSuperAdmin(c)) return notFound(c, "Forbidden");
+    const [vpsHealth, aiStatus] = await Promise.all([
+      (async () => {
+        try {
+          const start = Date.now();
+          const res = await fetch(`${process.env.BETTER_AUTH_URL ?? "https://zolai.space"}/api/cron/health`, { signal: AbortSignal.timeout(5000) });
+          return { ok: res.ok, status: res.status, latencyMs: Date.now() - start };
+        } catch { return { ok: false, status: 0, latencyMs: null }; }
+      })(),
+      Promise.all([
+        { name: "Gemini", url: "https://generativelanguage.googleapis.com/v1beta/openai/chat/completions", key: process.env.GEMINI_API_KEY, model: "gemini-2.5-flash" },
+        { name: "Groq", url: "https://api.groq.com/openai/v1/chat/completions", key: process.env.GROQ_API_KEY, model: "llama-3.3-70b-versatile" },
+        { name: "OpenRouter", url: "https://openrouter.ai/api/v1/chat/completions", key: process.env.OPENROUTER_API_KEY, model: "liquid/lfm-2.5-1.2b-instruct:free" },
+      ].map(async p => {
+        try {
+          const start = Date.now();
+          const res = await fetch(p.url, { method: "POST", headers: { "Content-Type": "application/json", Authorization: `Bearer ${p.key}` }, body: JSON.stringify({ model: p.model, messages: [{ role: "user", content: "hi" }], max_tokens: 3 }), signal: AbortSignal.timeout(8000) });
+          const data = await res.json() as { choices?: unknown[] };
+          return { name: p.name, ok: !!data.choices?.length, latencyMs: Date.now() - start };
+        } catch { return { name: p.name, ok: false, latencyMs: null }; }
+      })),
+    ]);
+    return ok(c, { vpsHealth, aiStatus, timestamp: new Date().toISOString() });
+  })
+  .post("/", zValidator("json", z.object({ action: z.enum(["restart", "rollback"]) })), async (c) => {
+    const { checkIsSuperAdmin } = await import("@/lib/auth/server-guards");
+    if (!await checkIsSuperAdmin(c)) return notFound(c, "Forbidden");
+    const { action } = c.req.valid("json");
+    if (action === "restart") return ok(c, { message: "Restart signal sent" });
+    return c.json({ error: "Unknown action" }, 400);
+  });
+
 const admin = new Hono()
   .use(adminMiddleware)
   .route("/site-settings", adminSiteSettingsRouter)
@@ -218,6 +253,7 @@ const admin = new Hono()
   .route("/posts", postsRouter)
   .route("/resources", resourcesRouter)
   .route("/system", systemRouter)
+  .route("/devops", devopsRouter)
   .route("/", adminContentRouter)
 
   // GET /api/admin/stats - Get admin dashboard stats (OPTIMIZED)

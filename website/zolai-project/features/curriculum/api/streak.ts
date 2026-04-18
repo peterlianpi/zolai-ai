@@ -9,11 +9,8 @@ export const streakRouter = new Hono()
     if (!session?.user?.id) return unauthorized(c, 'Authentication required');
 
     try {
-      const user = await prisma.user.findUnique({
-        where: { id: session.user.id },
-        select: { currentStreak: true, longestStreak: true, lastActivityAt: true },
-      });
-      return ok(c, user || { currentStreak: 0, longestStreak: 0, lastActivityAt: null });
+      const streak = await prisma.userStreak.findUnique({ where: { userId: session.user.id } });
+      return ok(c, streak || { currentStreak: 0, longestStreak: 0, lastActivityAt: null });
     } catch {
       return internalError(c, 'Failed to fetch streak');
     }
@@ -24,51 +21,37 @@ export const streakRouter = new Hono()
     if (!session?.user?.id) return unauthorized(c, 'Authentication required');
 
     try {
-      const user = await prisma.user.findUnique({
-        where: { id: session.user.id },
-        select: { currentStreak: true, longestStreak: true, lastActivityAt: true },
-      });
+      const streak = await prisma.userStreak.findUnique({ where: { userId: session.user.id } });
 
       const now = new Date();
-      const lastActivity = user?.lastActivityAt ? new Date(user.lastActivityAt) : null;
-      const daysSinceLastActivity = lastActivity
+      const lastActivity = streak?.lastActivityAt ? new Date(streak.lastActivityAt) : null;
+      const daysSince = lastActivity
         ? Math.floor((now.getTime() - lastActivity.getTime()) / (1000 * 60 * 60 * 24))
         : null;
 
-      let newStreak = user?.currentStreak || 0;
-      let newLongest = user?.longestStreak || 0;
+      let newStreak = streak?.currentStreak || 0;
+      let newLongest = streak?.longestStreak || 0;
 
-      // Check if streak continues (activity within last 24 hours) or resets
-      if (daysSinceLastActivity === null || daysSinceLastActivity === 0) {
-        // Already checked in today
-        newStreak = user?.currentStreak || 1;
-      } else if (daysSinceLastActivity === 1) {
-        // Streak continues
-        newStreak = (user?.currentStreak || 0) + 1;
+      if (daysSince === null || daysSince === 0) {
+        newStreak = streak?.currentStreak || 1;
+      } else if (daysSince === 1) {
+        newStreak = (streak?.currentStreak || 0) + 1;
       } else {
-        // Streak broken, reset to 1
         newStreak = 1;
       }
 
-      // Update longest streak
-      if (newStreak > (user?.longestStreak || 0)) {
-        newLongest = newStreak;
-      }
+      if (newStreak > (streak?.longestStreak || 0)) newLongest = newStreak;
 
-      const updated = await prisma.user.update({
-        where: { id: session.user.id },
-        data: {
-          currentStreak: newStreak,
-          longestStreak: newLongest,
-          lastActivityAt: now,
-        },
-        select: { currentStreak: true, longestStreak: true, lastActivityAt: true },
+      const updated = await prisma.userStreak.upsert({
+        where: { userId: session.user.id },
+        create: { userId: session.user.id, currentStreak: newStreak, longestStreak: newLongest, lastActivityAt: now },
+        update: { currentStreak: newStreak, longestStreak: newLongest, lastActivityAt: now },
       });
 
       return ok(c, {
         ...updated,
-        streakContinued: daysSinceLastActivity === null || daysSinceLastActivity <= 1,
-        bonus: newStreak % 7 === 0 ? 50 : 0, // 50 XP bonus every 7 days
+        streakContinued: daysSince === null || daysSince <= 1,
+        bonus: newStreak % 7 === 0 ? 50 : 0,
       });
     } catch {
       return internalError(c, 'Failed to check in');
@@ -89,17 +72,13 @@ export const streakRouter = new Hono()
             select: {
               id: true,
               topic: true,
-              subUnits: {
-                select: { id: true, type: true, title: true, content: true },
-              },
+              subUnits: { select: { id: true, type: true, title: true, content: true } },
             },
           },
         },
       });
 
-      if (!section?.units[0]) {
-        return ok(c, { message: 'No daily refresh available' });
-      }
+      if (!section?.units[0]) return ok(c, { message: 'No daily refresh available' });
 
       return ok(c, {
         section: { id: section.id, name: section.name },

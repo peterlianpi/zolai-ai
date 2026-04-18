@@ -82,12 +82,30 @@ export const DEFAULT_APPLE_ICON = "/apple-icon.png";
 export const DEFAULT_SEO_KEYWORDS = [
   "Zolai language",
   "Tedim Chin",
+  "Tedim Zolai",
   "language preservation",
   "AI language model",
   "Zomi people",
   "Tedim Bible",
   "language learning",
+  "low resource NLP",
+  "Kuki-Chin language",
+  "Myanmar language AI",
+  "Zolai dictionary",
 ];
+
+/**
+ * Project statistics — update when milestones change
+ */
+export const PROJECT_STATS = {
+  corpusTokens: "100M+",
+  parallelPairs: "105,511",
+  dictionaryEntries: "64,923",
+  trainingRecords: "5,604,960",
+  bibleVersions: 5,
+  hymns: 510,
+  lastUpdated: "2026-04-18",
+};
 
 export const DEFAULT_SEO_ROBOTS = "index,follow";
 

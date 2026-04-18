@@ -5,6 +5,7 @@ export const PUBLIC_SITE_SETTING_KEYS = [
   "site_timezone",
   "under_development",
   "under_development_message",
+  "recaptcha_site_key",
 ] as const;
 
 export const PUBLIC_LAYOUT_SETTING_KEYS = [

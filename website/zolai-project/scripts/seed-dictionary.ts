@@ -11,7 +11,7 @@ import path from "path";
 import prisma from "../lib/prisma";
 
 const DICT_PATH = path.resolve(
-  "/home/peter/Documents/Projects/zolai/data/processed/master_dictionary_semantic.jsonl"
+  process.env.DICT_PATH ?? "/home/peter/Documents/Projects/zolai/data/dictionary/processed/dict_unified_v1.jsonl"
 );
 
 const BATCH_SIZE = 200;
@@ -22,7 +22,7 @@ async function main() {
 
   const rl = createInterface({ input: createReadStream(DICT_PATH) });
 
-  type BatchItem = Parameters<typeof prisma.vocabWord.createMany>[0]["data"][number];
+  type BatchItem = import("@/lib/generated/prisma").Prisma.VocabWordCreateManyInput;
   let batch: BatchItem[] = [];
   let total = 0;
 
@@ -31,7 +31,7 @@ async function main() {
     const r = JSON.parse(line);
 
     // Map accuracy → category (reuse category field for POS grouping)
-    const pos = (r.pos ?? "").toLowerCase().trim();
+    const pos = (String(r.pos ?? "")).toLowerCase().trim();
     const category =
       pos === "v" || pos === "vt" ? "verb"
       : pos === "n" || pos === "noun" ? "noun"
@@ -49,20 +49,20 @@ async function main() {
       : null;
 
     batch.push({
-      zolai:       r.zolai       ?? "",
-      english:     r.english     ?? "",
-      pos:         r.pos         ?? "",
+      zolai:       String(r.zolai       ?? ""),
+      english:     String(r.english     ?? ""),
+      pos:         Array.isArray(r.pos) ? r.pos[0] ?? null : (r.pos ? String(r.pos) : null),
       category,
-      definition:  r.usage_notes ?? "",
+      definition:  r.usage_notes ? String(r.usage_notes) : (r.definition ? String(r.definition) : ""),
       example:     firstExample  ?? "",
-      explanation: r.explanation ?? "",
-      synonyms:    r.synonyms    ?? [],
-      antonyms:    r.antonyms    ?? [],
-      related:     (r.related    ?? []).slice(0, 10), // cap at 10
-      variants:    r.variants    ?? [],
+      explanation: r.explanation ? String(r.explanation) : "",
+      synonyms:    (r.synonyms    ?? []).filter((s: unknown) => typeof s === "string"),
+      antonyms:    (r.antonyms    ?? []).filter((s: unknown) => typeof s === "string"),
+      related:     ((r.related    ?? []) as unknown[]).filter((s): s is string => typeof s === "string").slice(0, 10),
+      variants:    (r.variants    ?? []).filter((s: unknown) => typeof s === "string"),
       examples:    examples.slice(0, 3),
-      accuracy:    r.accuracy    ?? "unverified",
-      tags:        [category, r.dialect ?? "tedim", r.accuracy ?? "unverified"],
+      accuracy:    r.accuracy ? String(r.accuracy) : "unverified",
+      tags:        [category, r.dialect ?? "tedim", r.accuracy ?? "unverified"].filter(Boolean) as string[],
       audioUrl:    "",
     });
 

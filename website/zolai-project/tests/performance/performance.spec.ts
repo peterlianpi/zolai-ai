@@ -129,7 +129,7 @@ test.describe('Performance Tests', () => {
         responses.push({
           url: response.url(),
           status: response.status(),
-          timing: { responseEnd: response.timing?.responseEnd }
+          timing: { responseEnd: (response as unknown as { timing?: { responseEnd?: number } }).timing?.responseEnd }
         });
       }
     });

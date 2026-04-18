@@ -23,11 +23,13 @@ export function useSecurityAlerts() {
   const fetchAlerts = async () => {
     try {
       setLoading(true);
-      const res = await client.api.auth.alerts.$get();
+      const res = await client.api.security.alerts.$get();
       if (!res.ok) throw new Error('Failed to fetch alerts');
-      const data = await res.json();
-      setAlerts(data.data.alerts);
-      setUnread(data.data.unread);
+      const data = await res.json() as unknown as { success: boolean; data: SecurityAlert[] };
+      if (data.success) {
+        setAlerts(data.data);
+        setUnread(data.data.filter(a => !a.isRead).length);
+      }
     } catch (err) {
       toast.error(err instanceof Error ? err.message : 'Failed to fetch alerts');
     } finally {
@@ -37,10 +39,7 @@ export function useSecurityAlerts() {
 
   const markAsRead = async (alertId: string) => {
     try {
-      const res = await client.api.auth.alerts[':id'].read.$post(
-        {},
-        { param: { id: alertId } }
-      );
+      const res = await client.api.security.alerts[':alertId']['mark-read'].$post({ param: { alertId } });
       if (!res.ok) throw new Error('Failed to mark as read');
       await fetchAlerts();
     } catch (err) {
@@ -48,12 +47,9 @@ export function useSecurityAlerts() {
     }
   };
 
-  const resolveAlert = async (alertId: string, action?: 'confirm_login' | 'deny_login') => {
+  const resolveAlert = async (alertId: string, _action?: 'confirm_login' | 'deny_login') => {
     try {
-      const res = await client.api.auth.alerts[':id'].resolve.$post(
-        { json: { action } },
-        { param: { id: alertId } }
-      );
+      const res = await client.api.security.alerts[':alertId'].resolve.$post({ param: { alertId } });
       if (!res.ok) throw new Error('Failed to resolve alert');
       await fetchAlerts();
       toast.success('Alert resolved');
@@ -64,16 +60,9 @@ export function useSecurityAlerts() {
 
   useEffect(() => {
     fetchAlerts();
-    const interval = setInterval(fetchAlerts, 30000); // Poll every 30s
+    const interval = setInterval(fetchAlerts, 30000);
     return () => clearInterval(interval);
   }, []);
 
-  return {
-    alerts,
-    unread,
-    loading,
-    markAsRead,
-    resolveAlert,
-    refetch: fetchAlerts,
-  };
+  return { alerts, unread, loading, markAsRead, resolveAlert, refetch: fetchAlerts };
 }

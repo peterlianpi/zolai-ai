@@ -25,7 +25,7 @@ export function AdminWikiPage() {
       const res = await client.api.zolai.wiki.$get({
         query: { ...(search && { search }), ...(category !== "all" && { category }) },
       });
-      return res.json();
+      return res.json() as unknown as { success: boolean; data: WikiEntry[] };
     },
   });
 

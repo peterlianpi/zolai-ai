@@ -103,7 +103,6 @@ const upload = new Hono().use(adminMiddleware)
       size: file.size,
     });
 
-    console.log("[Upload] Upload successful:", result.url);
 
     const mediaRecord = await prisma.media.create({
       data: {

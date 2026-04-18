@@ -12,7 +12,7 @@ import { toast } from "sonner";
 interface Session {
   id: string;
   userId: string;
-  token: string;
+  token?: string;
   expiresAt: Date;
   createdAt: Date;
   updatedAt: Date;

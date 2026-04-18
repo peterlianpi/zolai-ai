@@ -5,7 +5,6 @@
 import { Context } from "hono";
 import { auth } from "@/lib/auth";
 import { hasPermission, isAdmin, isSuperAdmin, Permission } from "./rbac";
-import { headers } from "next/headers";
 
 // Hono context helpers
 export async function getSession(c: Context) {
@@ -58,9 +57,10 @@ export async function requireMinRole(c: Context, minRole: string): Promise<boole
   if (!session?.user) return false;
   
   // Normalize role to camelCase (e.g., "SUPER_ADMIN" → "superAdmin")
-  const normalize = (r: string) => {
-    if (!r) return r;
-    return r.replace(/_([a-z])/gi, (_, c) => c.toUpperCase()).replace(/^[A-Z]/, (c) => c.toLowerCase());
+  const normalize = (r: string | null | undefined): string => {
+    if (!r) return "";
+    if (r === r.toUpperCase()) return r.toLowerCase().replace(/_([a-z])/g, (_, c) => c.toUpperCase());
+    return r;
   };
   
   const userLevel = ROLE_HIERARCHY[normalize(session.user.role)] ?? 0;
@@ -99,7 +99,9 @@ export async function requireAdmin(c: Context) {
 
 // Next.js page helpers
 export async function getServerSession() {
-  return auth.api.getSession({ headers: await headers() });
+  // Import the fixed version that handles URL-encoded cookies from Hono
+  const { getServerSession: getSession } = await import("@/lib/auth/server");
+  return getSession();
 }
 
 export async function requireServerAuth() {

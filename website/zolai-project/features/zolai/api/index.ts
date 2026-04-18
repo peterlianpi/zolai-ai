@@ -4,11 +4,11 @@ import { zValidator } from "@hono/zod-validator";
 import prisma from "@/lib/prisma";
 import { requirePermission, getSessionFromContext } from "@/lib/auth/server-guards";
 import { PERMISSIONS } from "@/lib/auth/rbac";
-import { ok, notFound, error as apiError, internalError, list, unauthorized } from "@/lib/api/response";
+import { ok, notFound, internalError, list, unauthorized } from "@/lib/api/response";
 import { notify } from "@/lib/telegram";
 import { getTutorSystemPrompt } from "@/lib/zolai/curriculum";
 import { cachedFetch } from "@/lib/cache";
-import { getAvailableModels } from "@/lib/ai/providers";
+import { getAvailableModels, generateChatCompletion } from "@/lib/ai/providers";
 
 const GRAMMAR_CATS = ["phonology", "morphology", "syntax", "semantics", "pragmatics", "dialect"];
 
@@ -16,37 +16,79 @@ export const chatRouter = new Hono()
   .post(
     "/",
     zValidator("json", z.object({
-      messages: z.array(z.object({ role: z.string(), content: z.string() })),
-      level:    z.string().optional(),
-      mode:     z.string().optional(),
-      tutor:    z.boolean().optional(),
+      messages:  z.array(z.object({ role: z.string(), content: z.string() })),
+      level:     z.string().optional(),
+      mode:      z.string().optional(),
+      tutor:     z.boolean().optional(),
+      provider:  z.string().optional(),
+      model:     z.string().optional(),
     })),
     async (c) => {
       const session = await getSessionFromContext(c);
       if (!session?.user) return unauthorized(c, "Authentication required");
-      const { messages, level, mode, tutor } = c.req.valid("json");
-      const apiUrl = process.env.ZOLAI_API_URL ?? "http://13.115.84.100:18789/chat";
-      const payload: Record<string, unknown> = { messages, level, mode };
-      if (tutor) payload.system = getTutorSystemPrompt(level, mode);
+      const { messages, level, mode, tutor, provider, model } = c.req.valid("json");
+
+      const systemPrompt = tutor ? getTutorSystemPrompt(level, mode) : undefined;
+      const allMessages = systemPrompt
+        ? [{ role: "system" as const, content: systemPrompt }, ...messages.map(m => ({ role: m.role as "user" | "assistant" | "system", content: m.content }))]
+        : messages.map(m => ({ role: m.role as "user" | "assistant" | "system", content: m.content }));
+
       try {
-        const upstream = await fetch(apiUrl, {
-          method: "POST",
-          headers: { "Content-Type": "application/json" },
-          body: JSON.stringify(payload),
+        const result = await generateChatCompletion({
+          provider: provider as import("@/lib/ai/providers").Provider | undefined,
+          model,
+          messages: allMessages,
+          maxTokens: 1000,
         });
-        if (!upstream.ok) return apiError(c, "Upstream error", "UPSTREAM_ERROR", upstream.status as import("hono/utils/http-status").ContentfulStatusCode);
-        const upstreamContentType = upstream.headers.get("content-type") ?? "";
-        const contentType = upstreamContentType.includes("text/event-stream")
-          ? "text/event-stream"
-          : "application/json";
-        return new Response(upstream.body, {
-          headers: { "Content-Type": contentType, "Transfer-Encoding": "chunked" },
-        });
+        return ok(c, { content: result });
       } catch {
         return internalError(c, "Failed to reach chat service");
       }
     }
-  );
+  )
+  .get("/sessions", async (c) => {
+    const session = await getSessionFromContext(c);
+    if (!session?.user) return unauthorized(c, "Authentication required");
+    const sessions = await prisma.chatSession.findMany({
+      where: { userId: session.user.id },
+      orderBy: { updatedAt: "desc" },
+      take: 30,
+      select: { id: true, title: true, provider: true, model: true, updatedAt: true },
+    });
+    return ok(c, sessions);
+  })
+  .delete("/sessions", async (c) => {
+    const session = await getSessionFromContext(c);
+    if (!session?.user) return unauthorized(c, "Authentication required");
+    const { id } = await c.req.json() as { id: string };
+    await prisma.chatSession.deleteMany({ where: { id, userId: session.user.id } });
+    return ok(c, { ok: true });
+  })
+  .get("/sessions/:id", async (c) => {
+    const session = await getSessionFromContext(c);
+    if (!session?.user) return unauthorized(c, "Authentication required");
+    const chatSession = await prisma.chatSession.findFirst({
+      where: { id: c.req.param("id"), userId: session.user.id },
+      select: { messages: { select: { id: true, role: true, content: true, provider: true, model: true, createdAt: true }, orderBy: { createdAt: "asc" } } },
+    });
+    if (!chatSession) return c.json({ error: "Not found" }, 404);
+    return ok(c, chatSession);
+  })
+  .delete("/sessions/:id", async (c) => {
+    const session = await getSessionFromContext(c);
+    if (!session?.user) return unauthorized(c, "Authentication required");
+    await prisma.chatSession.deleteMany({ where: { id: c.req.param("id"), userId: session.user.id } });
+    return ok(c, { ok: true });
+  })
+  .get("/models/:provider", async (c) => {
+    const provider = c.req.param("provider");
+    try {
+      const models = await getAvailableModels(provider);
+      return ok(c, { models });
+    } catch {
+      return internalError(c, "Failed to fetch models");
+    }
+  });
 
 const zolai = new Hono()
 

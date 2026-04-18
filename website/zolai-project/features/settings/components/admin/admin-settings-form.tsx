@@ -115,7 +115,7 @@ function getTimezones(): string[] {
 export default function AdminSettingsPage() {
   const queryClient = useQueryClient();
   const [savingSection, setSavingSection] = useState<string | null>(null);
-  const [formValues, setFormValues] = useState<Record<string, string>>({});
+  const [formValues, setFormValues] = useState<Record<string, string>>(DEFAULT_VALUES);
 
   const timezones = useMemo(() => getTimezones(), []);
 
@@ -150,9 +150,9 @@ export default function AdminSettingsPage() {
   }, [siteData?.data]);
 
   const updateMutation = useMutation({
-    mutationFn: async ({ key, value }: { key: string; value: string }) => {
+    mutationFn: async (payload: { key: string; value: string }) => {
       const res = await client.api.admin["site-settings"].$put({
-        json: { key, value },
+        json: payload,
       });
       if (!res.ok) {
         const json = (await res.json()) as { error?: { message: string } };
@@ -181,7 +181,7 @@ export default function AdminSettingsPage() {
     setSavingSection(section);
     try {
       for (const key of keys) {
-        const value = formValues[key] ?? DEFAULT_VALUES[key] ?? "";
+        const value = String(formValues[key] ?? DEFAULT_VALUES[key] ?? "");
         await updateMutation.mutateAsync({ key, value });
       }
       toast.success("Settings saved");

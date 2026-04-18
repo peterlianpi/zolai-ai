@@ -2,6 +2,8 @@ import { Hono } from "hono";
 import { zValidator } from "@hono/zod-validator";
 import { z } from "zod";
 import { ok } from "@/lib/api/response";
+import { SUPPORT_EMAIL, HELLO_EMAIL } from "@/lib/constants/emails";
+import { _getSessionUserId } from "@/lib/auth/server-guards";
 import { sendEmail } from "@/lib/email/resend";
 import { fromAddressFor } from "@/lib/email/addresses";
 
@@ -19,8 +21,8 @@ const app = new Hono()
     const { name, email, subject, category, message } = c.req.valid("json");
 
     const to = category === "bug" || category === "account"
-      ? "support@zolai.space"
-      : "hello@zolai.space";
+      ? SUPPORT_EMAIL
+      : HELLO_EMAIL;
 
     await sendEmail({
       to,

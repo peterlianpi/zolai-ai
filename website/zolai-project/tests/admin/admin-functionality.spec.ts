@@ -47,7 +47,7 @@ test.describe('User Management', () => {
     
     await expect(page.locator('h1')).toContainText('User Management');
     await expect(page.locator('[data-testid="users-table"]')).toBeVisible();
-    await expect(page.locator('[data-testid="user-row"]')).toHaveCount.toBeGreaterThan(0);
+    await expect(page.locator('[data-testid="user-row"]')).toHaveCount(1, { timeout: 5000 });
   });
 
   test('should search users', async ({ page }) => {
@@ -204,7 +204,7 @@ test.describe('Media Management', () => {
     const _fileInput = page.locator('[data-testid="file-input"]');
     // await _fileInput.setInputFiles('tests/fixtures/test-image.jpg');
     
-    await expect(page.locator('[data-testid="media-item"]')).toHaveCount.toBeGreaterThan(0);
+    await expect(page.locator('[data-testid="media-item"]')).toHaveCount(1, { timeout: 5000 });
   });
 
   test('should delete media files', async ({ page }) => {

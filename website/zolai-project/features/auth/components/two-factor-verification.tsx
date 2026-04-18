@@ -79,9 +79,8 @@ export function TwoFactorVerification({ onSuccess, onCancel }: TwoFactorVerifica
         router.push("/dashboard");
         router.refresh();
       }
-    } catch (err) {
+    } catch (_err) {
       setError("Failed to verify code");
-      console.error("2FA verification error:", err);
     } finally {
       setIsLoading(false);
     }
@@ -101,9 +100,8 @@ export function TwoFactorVerification({ onSuccess, onCancel }: TwoFactorVerifica
         setMethod("email");
         toast.success("Email OTP sent successfully!");
       }
-    } catch (err) {
+    } catch (_err) {
       setError("Failed to send email OTP");
-      console.error("Email OTP error:", err);
     } finally {
       setIsLoading(false);
     }

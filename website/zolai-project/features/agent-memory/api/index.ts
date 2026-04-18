@@ -2,7 +2,8 @@ import { Hono } from "hono";
 import { z } from "zod";
 import { zValidator } from "@hono/zod-validator";
 import prisma from "@/lib/prisma";
-import { ok, internalError, list } from "@/lib/api/response";
+import { ok, internalError, list, unauthorized } from "@/lib/api/response";
+import { getSessionUserId } from "@/lib/auth/server-guards";
 
 const agentMemory = new Hono()
 
@@ -28,9 +29,11 @@ const agentMemory = new Hono()
       agentId:   z.string(),
       key:       z.string(),
       value:     z.unknown(),
-      ttlHours:  z.number().optional(), // optional expiry
+      ttlHours:  z.number().optional(),
     })),
     async (c) => {
+      const sessionUserId = await getSessionUserId(c);
+      if (!sessionUserId) return unauthorized(c);
       try {
         const { userId, agentId, key, value, ttlHours } = c.req.valid("json");
         const expiresAt = ttlHours ? new Date(Date.now() + ttlHours * 3_600_000) : null;
@@ -53,9 +56,11 @@ const agentMemory = new Hono()
       input:    z.unknown().optional(),
       output:   z.unknown().optional(),
       feedback: z.string().optional(),
-      lesson:   z.string().optional(), // what the agent learned
+      lesson:   z.string().optional(),
     })),
     async (c) => {
+      const sessionUserId = await getSessionUserId(c);
+      if (!sessionUserId) return unauthorized(c);
       try {
         const { agentId, taskType, input, output, feedback, lesson } = c.req.valid("json");
         const log = await prisma.agentLearnLog.create({

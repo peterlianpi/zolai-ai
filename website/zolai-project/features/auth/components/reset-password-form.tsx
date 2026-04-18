@@ -20,15 +20,13 @@ import { ArrowLeft, CheckCircle2, Lock } from "lucide-react";
 import { cn } from "@/lib/utils";
 import type { ResetPasswordFormProps } from "../types/auth";
 import { PasswordInput } from "./password-input";
-
-// ============================================
-// Zod Schema
-// ============================================
+import { Captcha } from "@/features/security/components/captcha";
 
 const resetPasswordSchema = z
   .object({
     password: z.string().min(8, "Password must be at least 8 characters"),
     confirmPassword: z.string().min(1, "Please confirm your password"),
+    captchaToken: z.string().optional(),
   })
   .refine((data) => data.password === data.confirmPassword, {
     message: "Passwords do not match",
@@ -54,6 +52,7 @@ function ResetPasswordContent({ className }: { className?: string }) {
     defaultValues: {
       password: "",
       confirmPassword: "",
+      captchaToken: "",
     },
   });
 
@@ -74,6 +73,11 @@ function ResetPasswordContent({ className }: { className?: string }) {
       const { error } = await authClient.resetPassword({
         newPassword: values.password,
         token,
+        fetchOptions: {
+          headers: {
+            ...(values.captchaToken ? { "x-captcha-token": values.captchaToken } : {}),
+          },
+        },
       });
 
       if (error) {
@@ -154,6 +158,11 @@ function ResetPasswordContent({ className }: { className?: string }) {
               <Button type="submit" disabled={isLoading}>
                 {isLoading ? "Resetting..." : "Reset Password"}
               </Button>
+              <Captcha
+                onVerify={(token) => form.setValue("captchaToken", token)}
+                onExpire={() => form.setValue("captchaToken", "")}
+                action="reset_password"
+              />
               <Button
                 variant="outline"
                 className="w-full"

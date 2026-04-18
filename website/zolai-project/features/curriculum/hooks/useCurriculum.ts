@@ -18,7 +18,7 @@ export const useSections = (levelCode?: string) =>
     queryKey: ['curriculum', 'sections', levelCode],
     queryFn: async () => {
       const res = await client.api.curriculum.sections.$get(
-        levelCode ? { query: { levelCode } } : {}
+        { query: { levelCode } }
       );
       if (!res.ok) throw new Error('Failed to fetch sections');
       return res.json();
@@ -31,7 +31,7 @@ export const useUnits = (sectionId?: string) =>
     queryKey: ['curriculum', 'units', sectionId],
     queryFn: async () => {
       const res = await client.api.curriculum.units.$get(
-        sectionId ? { query: { sectionId } } : {}
+        { query: { sectionId } }
       );
       if (!res.ok) throw new Error('Failed to fetch units');
       return res.json();
@@ -56,7 +56,7 @@ export const useSubUnits = (unitId?: string) =>
     queryKey: ['curriculum', 'sub-units', unitId],
     queryFn: async () => {
       const res = await client.api.curriculum['sub-units'].$get(
-        unitId ? { query: { unitId } } : {}
+        { query: { unitId } }
       );
       if (!res.ok) throw new Error('Failed to fetch sub-units');
       return res.json();
@@ -81,7 +81,7 @@ export const usePhonicsUnits = (category?: string) =>
     queryKey: ['phonics', 'units', category],
     queryFn: async () => {
       const res = await client.api.curriculum.phonics.$get(
-        category ? { query: { category } } : {}
+        { query: { category } }
       );
       if (!res.ok) throw new Error('Failed to fetch phonics units');
       return res.json();

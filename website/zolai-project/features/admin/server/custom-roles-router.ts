@@ -24,8 +24,7 @@ const customRolesRouter = new Hono()
       });
 
       return ok(c, roles);
-    } catch (error) {
-      console.error("[Custom Roles] Error fetching roles:", error);
+    } catch (_error) {
       return internalError(c, "Failed to fetch roles");
     }
   })
@@ -81,8 +80,7 @@ const customRolesRouter = new Hono()
         }
 
         return ok(c, { role, message: "Role created successfully" });
-      } catch (error) {
-        console.error("[Custom Roles] Error creating role:", error);
+      } catch (_error) {
         return internalError(c, "Failed to create role");
       }
     }
@@ -111,12 +109,11 @@ const customRolesRouter = new Hono()
         const role = await prisma.customRole.update({
           where: { id },
           data,
-          include: { permissions: { include: { permission: true } } },
+          select: { permissions: { select: { permission: { select: { id: true, name: true, description: true, category: true } } } } },
         });
 
         return ok(c, { role, message: "Role updated successfully" });
-      } catch (error) {
-        console.error("[Custom Roles] Error updating role:", error);
+      } catch (_error) {
         return internalError(c, "Failed to update role");
       }
     }
@@ -133,8 +130,7 @@ const customRolesRouter = new Hono()
     try {
       await prisma.customRole.delete({ where: { id } });
       return ok(c, { message: "Role deleted successfully" });
-    } catch (error) {
-      console.error("[Custom Roles] Error deleting role:", error);
+    } catch (_error) {
       return internalError(c, "Failed to delete role");
     }
   })
@@ -178,7 +174,6 @@ const customRolesRouter = new Hono()
         if (err.code === "P2002") {
           return badRequest(c, "Permission already assigned to role");
         }
-        console.error("[Custom Roles] Error adding permission:", error);
         return internalError(c, "Failed to add permission");
       }
     }
@@ -198,8 +193,7 @@ const customRolesRouter = new Hono()
       });
 
       return ok(c, { message: "Permission removed from role" });
-    } catch (error) {
-      console.error("[Custom Roles] Error removing permission:", error);
+    } catch (_error) {
       return internalError(c, "Failed to remove permission");
     }
   });
@@ -218,8 +212,7 @@ const permissionsRouter = new Hono()
       });
 
       return ok(c, permissions);
-    } catch (error) {
-      console.error("[Permissions] Error fetching permissions:", error);
+    } catch (_error) {
       return internalError(c, "Failed to fetch permissions");
     }
   })

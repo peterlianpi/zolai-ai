@@ -2,7 +2,7 @@ import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { toast } from "sonner";
 import { client } from "@/lib/api/client";
 
-type Role = "USER" | "CONTRIBUTOR" | "AUTHOR" | "EDITOR" | "ADMIN" | "SUPER_ADMIN";
+type Role = "user" | "contributor" | "author" | "editor" | "admin" | "superAdmin" | "moderator" | "contentAdmin" | "viewer";
 export interface UpdateUserRoleRequest { userId: string; role: Role; reason?: string }
 export interface BulkRoleUpdateRequest { userIds: string[]; role: Role; reason?: string }
 
@@ -12,7 +12,8 @@ export function useRoleMetrics() {
     queryFn: async () => {
       const res = await client.api.roles.metrics.$get();
       if (!res.ok) throw new Error("Failed to fetch role metrics");
-      return res.json();
+      const json = await res.json() as unknown as { success: boolean; data: { roleDistribution: Record<string, number>; roleChangesLast30Days: number; recentRoleChanges: { id: string; userId: string; oldRole: string; newRole: string; changedAt: string }[] } };
+      return json;
     },
   });
 }

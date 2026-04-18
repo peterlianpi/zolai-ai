@@ -34,14 +34,14 @@ const adminSiteSettingsRouter = new Hono()
           create: { key, value },
         });
 
-        revalidateTag(SITE_SETTINGS_CACHE_TAG, "max");
-        revalidateTag(PUBLIC_LAYOUT_CACHE_TAG, "max");
+        revalidateTag(SITE_SETTINGS_CACHE_TAG);
+        revalidateTag(PUBLIC_LAYOUT_CACHE_TAG);
 
         return ok(c, setting);
       } catch (error) {
         const prismaError = error as { code?: string };
         if (prismaError?.code === "P2002") {
-          return c.json(
+          return ok(c, 
             { success: false, error: { code: "CONFLICT", message: "Site setting already exists." } },
             409
           );

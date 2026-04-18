@@ -57,6 +57,9 @@ export function AudioPage() {
       <div>
         <h1 className="text-2xl font-bold">Audio Pronunciation</h1>
         <p className="text-sm text-muted-foreground">{total.toLocaleString()} words · click to hear pronunciation</p>
+        <div className="mt-2 rounded-lg bg-yellow-50 dark:bg-yellow-950/30 border border-yellow-200 dark:border-yellow-800 px-3 py-2 text-xs text-yellow-800 dark:text-yellow-300">
+          🎵 Audio recordings are being collected. Words with audio will show a play button. Browse all words below.
+        </div>
       </div>
 
       <div className="flex gap-2 flex-wrap items-center">

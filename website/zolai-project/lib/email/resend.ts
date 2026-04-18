@@ -29,7 +29,7 @@ export async function sendEmailResend({
   const resend = getResendClient();
   if (!resend) throw new Error("RESEND_API_KEY is not set");
 
-  const from = fromOverride || process.env.RESEND_FROM_EMAIL || process.env.SMTP_FROM || "onboarding@resend.dev";
+  const from = fromOverride || process.env.RESEND_FROM_EMAIL || process.env.SMTP_FROM || "Zolai AI <no-reply@zolai.space>";
 
   const { data, error } = await resend.emails.send({
     from,

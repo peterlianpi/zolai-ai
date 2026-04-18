@@ -24,13 +24,10 @@ export function AccountLockoutStatus({ userId }: { userId: string }) {
   const fetchStatus = async () => {
     try {
       setLoading(true);
-      const res = await client.api.auth.lockout.status[':userId'].$get(
-        {},
-        { param: { userId } }
-      );
+      const res = await client.api.security.lockout.status[':userId'].$get({ param: { userId } });
       if (!res.ok) throw new Error('Failed to fetch status');
-      const data = await res.json();
-      setStatus(data.data);
+      const json = await res.json() as unknown as { data: LockoutStatus };
+      setStatus(json.data);
     } catch (err) {
       toast.error(err instanceof Error ? err.message : 'Failed to fetch status');
     } finally {
@@ -40,10 +37,7 @@ export function AccountLockoutStatus({ userId }: { userId: string }) {
 
   const handleUnlock = async (reason?: string) => {
     try {
-      const res = await client.api.auth.lockout.unlock[':userId'].$post(
-        { json: { reason } },
-        { param: { userId } }
-      );
+      const res = await client.api.security.lockout.unlock[':userId'].$post({ param: { userId }, json: { reason } });
       if (!res.ok) throw new Error('Failed to unlock');
       toast.success('Account unlocked');
       await fetchStatus();
@@ -98,17 +92,17 @@ export function AccountLockoutStatus({ userId }: { userId: string }) {
 
         <div className="space-y-2 text-sm">
           <div className="flex justify-between">
-            <span className="text-gray-600">Failed Attempts (15 min):</span>
+            <span className="text-muted-foreground">Failed Attempts (15 min):</span>
             <span className="font-semibold">{status.recentFailedAttempts}</span>
           </div>
           <div className="flex justify-between">
-            <span className="text-gray-600">Total Failed Attempts:</span>
+            <span className="text-muted-foreground">Total Failed Attempts:</span>
             <span className="font-semibold">{status.failedLoginAttempts}</span>
           </div>
           {status.lastFailedLoginAt && (
             <div className="flex justify-between">
-              <span className="text-gray-600">Last Failed Attempt:</span>
-              <span className="text-xs text-gray-500">
+              <span className="text-muted-foreground">Last Failed Attempt:</span>
+              <span className="text-xs text-muted-foreground">
                 {new Date(status.lastFailedLoginAt).toLocaleString()}
               </span>
             </div>

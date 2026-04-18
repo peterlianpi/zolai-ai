@@ -107,9 +107,11 @@ async function getVocab(levelCode: string, topic: string): Promise<VocabRow[]> {
     const raw = await prisma.vocabWord.findMany({
       skip: r.skip, take: r.take,
       where: {
-        zolai: { not: { contains: 'EMBED' } },
-        english: { not: { contains: 'EMBED' } },
-        zolai: { not: { contains: '\u0013' } },
+        AND: [
+          { zolai: { not: { contains: 'EMBED' } } },
+          { english: { not: { contains: 'EMBED' } } },
+          { zolai: { not: { contains: '\u0013' } } },
+        ],
       },
       select: { zolai: true, english: true, pos: true, example: true },
       orderBy: { zolai: 'asc' },

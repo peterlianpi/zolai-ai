@@ -252,8 +252,7 @@ const app = new Hono()
       };
 
       return ok(c, data);
-    } catch (err) {
-      console.error("Landing page data error:", err);
+    } catch (_err) {
       return internalError(c, "Failed to fetch landing page data");
     }
   });

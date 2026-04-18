@@ -14,6 +14,7 @@ import {
 import { Skeleton } from "@/components/ui/skeleton";
 import { Tabs, TabsList, TabsTrigger } from "@/components/ui/tabs";
 import { client } from "@/lib/api/client";
+import type { AdminAnalyticsData } from "@/features/admin/components/admin-analytics-charts";
 
 const AdminAnalyticsCharts = dynamic(() => import("@/features/admin/components/admin-analytics-charts"), {
   ssr: false,
@@ -22,12 +23,13 @@ const AdminAnalyticsCharts = dynamic(() => import("@/features/admin/components/a
 
 export default function AdminAnalyticsPage() {
   const [period, setPeriod] = useState(30);
+
   const { data, isLoading, error } = useQuery({
     queryKey: ["admin-analytics", period],
     queryFn: async () => {
       const res = await client.api.admin.analytics.$get({ query: { period: period.toString() } });
       if (!res.ok) throw new Error("Failed to fetch analytics");
-      return res.json();
+      return res.json() as unknown as { success: boolean; data: AdminAnalyticsData & { topPosts: { id: string; title: string; slug: string; publishedAt: string | null }[]; topPages: { id: string; title: string; slug: string; createdAt: string }[] } };
     },
   });
 

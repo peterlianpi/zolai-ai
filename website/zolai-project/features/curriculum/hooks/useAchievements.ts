@@ -10,57 +10,41 @@ interface Achievement {
   xp: number;
 }
 
-interface UserAchievement {
-  userId: string;
-  achievementId: string;
-  unlockedAt: string;
-}
+type ApiResponse<T> = { success: boolean; data: T };
 
 export function useAchievements() {
   const [achievements, setAchievements] = useState<Achievement[]>([]);
-  const [userAchievements, setUserAchievements] = useState<UserAchievement[]>([]);
+  const [userAchievements, setUserAchievements] = useState<string[]>([]);
   const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const fetch = async () => {
       try {
-        const [listRes, userRes] = await Promise.all([
-          client.api.curriculum.achievements.list.$get(),
-          client.api.curriculum.achievements.user.$get(),
-        ]);
-        const [listData, userData] = await Promise.all([listRes.json(), userRes.json()]);
-        setAchievements(listData.data);
-        setUserAchievements(userData.data);
-      } catch (err) {
-        console.error('Failed to fetch achievements:', err);
+        const res = await client.api.curriculum.achievements.list.$get();
+        const json = await res.json() as unknown as ApiResponse<Achievement[]>;
+        setAchievements(json.data);
+      } catch (_err) {
       } finally {
         setLoading(false);
       }
     };
-
     fetch();
   }, []);
 
   const checkAchievements = async () => {
     try {
       const res = await client.api.curriculum.achievements.check.$post();
-      const data = await res.json();
-      
-      // Refresh user achievements
-      const userRes = await client.api.curriculum.achievements.user.$get();
-      const userData = await userRes.json();
-      setUserAchievements(userData.data);
-      
-      return data.data;
-    } catch (err) {
-      console.error('Failed to check achievements:', err);
+      const json = await res.json() as unknown as ApiResponse<{ newAchievements: string[]; totalXp: number }>;
+      if (json.data?.newAchievements) {
+        setUserAchievements(prev => [...new Set([...prev, ...json.data.newAchievements])]);
+      }
+      return json.data;
+    } catch (_err) {
       return null;
     }
   };
 
-  const isUnlocked = (achievementId: string) => {
-    return userAchievements.some(a => a.achievementId === achievementId);
-  };
+  const isUnlocked = (id: string) => userAchievements.includes(id);
 
   return { achievements, userAchievements, loading, checkAchievements, isUnlocked };
 }

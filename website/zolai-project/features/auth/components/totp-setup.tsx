@@ -89,9 +89,8 @@ export function TOTPSetup({ onComplete, onCancel }: TOTPSetupProps) {
       } else {
         setError("Failed to generate 2FA setup data");
       }
-    } catch (err) {
+    } catch (_err) {
       setError("Failed to generate 2FA setup data");
-      console.error("2FA setup error:", err);
     } finally {
       setIsLoading(false);
     }
@@ -119,7 +118,6 @@ export function TOTPSetup({ onComplete, onCancel }: TOTPSetupProps) {
       }
     } catch (_err) {
       setError("Failed to verify code");
-      console.error("2FA verification error:", _err);
     } finally {
       setIsLoading(false);
     }

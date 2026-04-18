@@ -32,7 +32,7 @@ const adminRedirectsRouter = new Hono()
         prisma.redirect.count({ where }),
       ]);
 
-      return c.json({
+      return ok(c, {
         success: true,
         data: {
           redirects: redirects.map(r => ({

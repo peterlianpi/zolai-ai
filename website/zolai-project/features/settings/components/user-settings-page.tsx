@@ -48,6 +48,7 @@ import { updateProfileEmail, updateProfileName, updateUserPreferences } from "@/
 import { useSession } from "@/lib/auth-client";
 import { useSessions } from "@/features/auth/hooks/use-sessions";
 import { useUserPreferences } from "@/features/settings/hooks/use-user-preferences";
+import { ApiKeysSection } from "./api-keys-section";
 import { LanguageSwitcher } from "@/features/security/components/language-switcher";
 import { formatMyanmarDate } from "@/lib/myanmar-calendar";
 import { TwoFactorSettings } from "@/features/auth/components/two-factor-settings";
@@ -431,6 +432,8 @@ export default function UserSettingsPage() {
       </Card>
 
       <TelegramSettings telegramChatId={telegramChatId} telegramEnabled={telegramEnabled} />
+
+      <ApiKeysSection />
 
       <Card>
         <CardHeader className="flex flex-row items-center gap-3">

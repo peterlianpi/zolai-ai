@@ -351,7 +351,6 @@ export function getNetworkStats(): NetworkStats[] {
  */
 export function getProcessStats(): ProcessStats {
   try {
-    const stats = process.resourceUsage();
     const mem = process.memoryUsage();
     
     // Get process info from /proc
@@ -386,8 +385,8 @@ export function getProcessStats(): ProcessStats {
       user: process.env.USER || "unknown",
       cpuPercent,
       memPercent,
-      vmSize: stats.heapUsed,
-      rss: stats.heapUsed,
+      vmSize: mem.heapUsed,
+      rss: mem.heapUsed,
       state,
       uptime: Math.floor(uptime),
     };

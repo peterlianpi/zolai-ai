@@ -4,7 +4,7 @@ import prisma from "@/lib/prisma";
 
 export const dynamic = "force-dynamic";
 
-const LOCALES = ["en", "my"] as const;
+const LOCALES = ["en"] as const;
 
 let cachedSitemap: { data: MetadataRoute.Sitemap; timestamp: number } | null = null;
 const SITEMAP_CACHE_TTL = 3600 * 1000; // 1 hour

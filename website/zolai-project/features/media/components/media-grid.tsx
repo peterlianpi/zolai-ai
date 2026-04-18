@@ -1,7 +1,8 @@
 import prisma from "@/lib/prisma";
 import { auth } from "@/lib/auth";
 import { headers } from "next/headers";
-import type { MediaWhereInput } from "@/lib/generated/prisma/models";
+import { Prisma } from "@/lib/generated/prisma";
+type MediaWhereInput = Prisma.MediaWhereInput;
 import { cn } from "@/lib/utils";
 import { Trash2, Check } from "lucide-react";
 

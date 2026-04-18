@@ -337,8 +337,7 @@ const forms = new Hono()
           text: `Form: ${form.name}\n\n${fieldSummary}\n\nIP: ${ipAddress}\nUser Agent: ${userAgent}`,
           ...(submitterEmail && { replyTo: submitterEmail }),
         });
-      } catch (error) {
-        console.error("[Forms] Failed to send notification email:", error);
+      } catch (_error) {
       }
     }
 

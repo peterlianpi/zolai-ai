@@ -59,7 +59,7 @@ export async function trackFailedLogin(email: string) {
     const failedAttempts = await prisma.securityEvent.count({
       where: {
         email: user.email,
-        type: "FAILED_LOGIN" as const,
+        type: "BRUTE_FORCE" as const,
         createdAt: {
           gte: new Date(Date.now() - LOCKOUT_DURATION_MINUTES * 60 * 1000)
         }

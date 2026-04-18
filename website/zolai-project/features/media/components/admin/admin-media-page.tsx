@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Image, Plus } from "lucide-react";
-import type { MediaWhereInput } from "@/lib/generated/prisma/models";
+import { Prisma } from "@/lib/generated/prisma";
+type MediaWhereInput = Prisma.MediaWhereInput;
 import prisma from "@/lib/prisma";
 import { Badge } from "@/components/ui/badge";
 import { Button } from "@/components/ui/button";

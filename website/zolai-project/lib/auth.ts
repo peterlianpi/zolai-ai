@@ -40,12 +40,30 @@ async function sendTwoFactorOtpEmail(
 
 export const auth = betterAuth({
   baseURL: process.env.BETTER_AUTH_URL || process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000",
+  trustHost: true,
+  advanced: {
+    useSecureCookies: false,
+    ipAddress: {
+      ipv6Subnet: 64,
+    },
+  },
   database: prismaAdapter(prisma, {
     provider: "postgresql",
   }),
   databaseHooks: {
     user: {
       create: {
+        before: async (user) => {
+          // Map Better Auth camelCase roles to Prisma uppercase enum
+          const roleMap: Record<string, string> = {
+            user: "USER", viewer: "USER", contributor: "EDITOR",
+            author: "EDITOR", editor: "EDITOR", moderator: "EDITOR",
+            contentAdmin: "ADMIN", admin: "ADMIN", superAdmin: "SUPER_ADMIN",
+          };
+          const incoming = (user.role as string) ?? "user";
+          const mapped = roleMap[incoming] ?? incoming.toUpperCase();
+          return { data: { ...user, role: mapped } };
+        },
         after: async (user) => {
           const { notify } = await import("@/lib/telegram");
           notify(`👤 New signup: <b>${user.name}</b> (${user.email})`).catch(() => {});
@@ -72,7 +90,6 @@ export const auth = betterAuth({
   },
   cookies: {
     sessionToken: {
-      name: "better-auth.session_token",
       attributes: {
         httpOnly: true,
         secure: process.env.NODE_ENV === "production",
@@ -92,15 +109,10 @@ export const auth = betterAuth({
       "/reset-password": { window: 60 * 60, max: 3 },
     },
   },
-  advanced: {
-    ipAddress: {
-      ipv6Subnet: 64,
-    },
-  },
   emailAndPassword: {
     enabled: true,
     autoSignIn: false,
-    requireEmailVerification: true,
+    requireEmailVerification: process.env.NODE_ENV === "production",
     sendResetPassword: async (
       { user, url, token: _ }: { user: User; url: string; token: string },
       _request?: Request,
@@ -199,10 +211,10 @@ export const auth = betterAuth({
       defaultBanExpiresIn: 60 * 60 * 24 * 7, // 7 days
       bannedUserMessage: "Your account has been banned. Please contact support.",
       allowImpersonatingAdmins: false,
-      onImpersonationStart: async (data) => {
+      onImpersonationStart: async (data: { actor: { id: string }; subject: { id: string } }) => {
         await logImpersonation(data.actor.id, data.subject.id, "start");
       },
-      onImpersonationEnd: async (data) => {
+      onImpersonationEnd: async (data: { actor: { id: string }; subject: { id: string } }) => {
         await logImpersonation(data.actor.id, data.subject.id, "end");
       },
     }),
@@ -210,7 +222,11 @@ export const auth = betterAuth({
     // (Already configured in main config above)
     
     // CAPTCHA protection — only active when key is configured
-    ...(process.env.HCAPTCHA_SECRET_KEY ? [captcha({
+    ...(process.env.RECAPTCHA_SECRET_KEY ? [captcha({
+      provider: "google",
+      secretKey: process.env.RECAPTCHA_SECRET_KEY,
+      endpoints: ["/sign-up/email", "/reset-password", "/forgot-password"],
+    })] : process.env.HCAPTCHA_SECRET_KEY ? [captcha({
       provider: "hcaptcha",
       secretKey: process.env.HCAPTCHA_SECRET_KEY,
       endpoints: ["/sign-up/email", "/reset-password", "/forgot-password"],

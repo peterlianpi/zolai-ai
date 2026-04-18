@@ -21,7 +21,7 @@ const STATUS_VARIANT: Record<string, "default" | "secondary" | "destructive" | "
 interface Submission { id: string; title: string; status: string }
 
 export function SubmitPage() {
-  const [form, setForm] = useState({ title: "", description: "", content: "", resourceType: "ARTICLE", category: "" });
+  const [form, setForm] = useState<{ title: string; description: string; content: string; resourceType: typeof TYPES[number]; category: string }>({ title: "", description: "", content: "", resourceType: "ARTICLE", category: "" });
   const [loading, setLoading] = useState(false);
   const [submitted, setSubmitted] = useState<Submission | null>(null);
   const qc = useQueryClient();
@@ -29,8 +29,9 @@ export function SubmitPage() {
   const { data } = useQuery({
     queryKey: ["my-submissions"],
     queryFn: async () => {
-      const res = await client.api["content-submission"].submissions.$get();
-      return res.json();
+      const res = await client.api["content-submission"].submissions.$get({ query: {} });
+      const json = await res.json();
+      return json;
     },
   });
   const mySubmissions: Submission[] = (data as { data?: Submission[] })?.data ?? [];
@@ -85,7 +86,7 @@ export function SubmitPage() {
             <div className="grid grid-cols-2 gap-4">
               <div className="space-y-1">
                 <Label>Type</Label>
-                <Select value={form.resourceType} onValueChange={v => setForm(f => ({ ...f, resourceType: v }))}>
+                <Select value={form.resourceType} onValueChange={v => setForm(f => ({ ...f, resourceType: v as typeof TYPES[number] }))}>
                   <SelectTrigger><SelectValue /></SelectTrigger>
                   <SelectContent>{TYPES.map(t => <SelectItem key={t} value={t}>{t}</SelectItem>)}</SelectContent>
                 </Select>

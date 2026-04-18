@@ -25,7 +25,7 @@ export async function getLoginHistory(userId: string, limit: number = 20) {
       where: {
         userId,
         type: {
-          in: ["DEVICE_SESSION_CREATED", "LOGIN_SUCCESS", "SUSPICIOUS_LOGIN"] as const
+          in: ["DEVICE_SESSION_CREATED", "DEVICE_SESSION_CREATED", "SUSPICIOUS_LOGIN"] as const
         }
       },
       orderBy: {
@@ -35,8 +35,7 @@ export async function getLoginHistory(userId: string, limit: number = 20) {
     });
     
     return events;
-  } catch (error) {
-    console.error("[LoginHistory] Error fetching history:", error);
+  } catch (_error) {
     return [];
   }
 }

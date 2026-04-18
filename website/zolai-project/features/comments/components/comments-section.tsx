@@ -3,7 +3,7 @@
 import { useState, useMemo, useCallback } from "react";
 import { format } from "date-fns";
 import { useQuery } from "@tanstack/react-query";
-import { getCommentsApi } from "../api";
+import { client } from "@/lib/api/client";
 import { CommentForm } from "./comment-form";
 import type { CommentWithReplies } from "../types";
 import { Button } from "@/components/ui/button";
@@ -32,7 +32,12 @@ export function CommentsSection({ postId, commentsEnabled = true }: CommentsSect
 
   const { data, isLoading, refetch } = useQuery({
     queryKey: ["comments", postId],
-    queryFn: () => getCommentsApi({ postId, status: "APPROVED" }),
+    queryFn: async () => {
+      const res = await client.api.comments.$get({ query: { postId, status: "APPROVED", page: "1", limit: "100" } });
+      if (!res.ok) throw new Error("Failed to fetch comments");
+      const json = (await res.json()) as import("@/features/comments/types").CommentsListResponse;
+      return { comments: json.data ?? [], total: json.meta?.total ?? 0 };
+    },
     enabled: commentsEnabled,
     staleTime: 30_000,
     refetchOnWindowFocus: true,

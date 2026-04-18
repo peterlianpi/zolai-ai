@@ -114,7 +114,6 @@ export async function notifyAll(text: string, options?: { progressCallback?: (pr
     sendTelegram(p.telegramChatId!, text, { 
       progressCallback: (progress) => {
         if (progress.status === "success") {
-          console.log(`✅ Telegram message sent to user: ${p.telegramChatId}`);
         } else if (progress.status === "failed") {
           console.error(`❌ Failed to send Telegram message to user: ${p.telegramChatId}`);
         }

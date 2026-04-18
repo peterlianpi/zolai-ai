@@ -51,6 +51,7 @@ model User {
   streak              UserStreak?          @relation("UserStreak")
   customRole          CustomRole?          @relation("UserCustomRoles", fields: [customRoleId], references: [id], onDelete: SetNull)
   loginHistory        LoginHistory[]       @relation("UserLoginHistory")
+  apiKeys             ApiKey[]
 
   @@index([email, deletedAt])
   @@index([role])
@@ -1501,4 +1502,24 @@ model RolePermission {
   @@index([roleId])
   @@index([permissionId])
   @@map("role_permission")
+}
+
+// ── API Keys for Developer Access ──────────────────────────────────────────────
+model ApiKey {
+  id          String   @id @default(cuid())
+  name        String
+  key         String   @unique // hashed key
+  keyPreview  String   // first 8 chars for display
+  userId      String
+  isActive    Boolean  @default(true)
+  lastUsedAt  DateTime?
+  expiresAt   DateTime?
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  user User @relation(fields: [userId], references: [id], onDelete: Cascade)
+
+  @@index([userId])
+  @@index([key])
+  @@map("api_key")
 }

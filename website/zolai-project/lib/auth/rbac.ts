@@ -111,10 +111,14 @@ export const ROLE_PERMISSIONS: Record<Role, Permission[]> = {
 export const ADMIN_ROLES: Role[] = [ROLES.ADMIN, ROLES.SUPER_ADMIN, ROLES.CONTENT_ADMIN, ROLES.MODERATOR];
 
 // Core permission functions (work on both client and server)
-// Normalize role string to camelCase (e.g., "SUPER_ADMIN" → "superAdmin")
+// Normalize role string to camelCase (e.g., "SUPER_ADMIN" → "superAdmin", "ADMIN" → "admin")
 function normalizeRole(r: string): string {
   if (!r) return r;
-  return r.replace(/_([a-z])/gi, (_, c) => c.toUpperCase()).replace(/^[A-Z]/, (c) => c.toLowerCase());
+  // Handle SCREAMING_SNAKE_CASE → camelCase
+  if (r === r.toUpperCase()) {
+    return r.toLowerCase().replace(/_([a-z])/g, (_, c) => c.toUpperCase());
+  }
+  return r;
 }
 
 export function hasPermission(userRole: string | null | undefined, permission: Permission): boolean {
@@ -138,10 +142,9 @@ export function hasAllPermissions(userRole: string | null | undefined, permissio
 
 export function isAdmin(userRole: string | null | undefined): boolean {
   if (!userRole) return false;
-  // Try exact match first, then lowercase
   if (ADMIN_ROLES.includes(userRole as Role)) return true;
-  const normalizedRole = userRole.toLowerCase() as Role;
-  return ADMIN_ROLES.includes(normalizedRole);
+  const normalized = normalizeRole(userRole) as Role;
+  return ADMIN_ROLES.includes(normalized);
 }
 
 export function isSuperAdmin(userRole: string | null | undefined): boolean {

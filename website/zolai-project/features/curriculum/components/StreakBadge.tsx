@@ -14,7 +14,7 @@ export function StreakBadge() {
     const result = await checkIn();
     if (result?.bonus) {
       // Show bonus toast
-      console.log(`🎉 +${result.bonus} XP bonus!`);
+      // XP bonus earned;
     }
   };
 

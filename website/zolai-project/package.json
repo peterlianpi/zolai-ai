@@ -4,6 +4,9 @@
   "private": true,
   "description": "Zolai Language Hub - Comprehensive resources for learning and preserving the Zolai (Tedim Chin) language",
   "scripts": {
+    "bot": "bun scripts/zolai-bot.ts",
+    "bot:vps": "bun scripts/vps-bot.ts",
+    "bot:multi": "bun scripts/multi-vps-bot.ts",
     "dev": "node scripts/update-dev-ip.mjs && next dev --hostname 0.0.0.0",
     "build": "next build",
     "postinstall": "bun prisma generate",
@@ -12,7 +15,8 @@
     "audit:features": "bun scripts/audit-features.ts",
     "audit:system": "bunx tsx scripts/audit-system.ts",
     "audit:multi": "bunx tsx scripts/audit-multi-agent.ts",
-    "audit:all": "bun run audit:system && bun run audit:multi",
+    "audit:api": "bun scripts/audit-api-mutations.ts",
+    "audit:all": "bun run audit:system && bun run audit:multi && bun run audit:api",
     "pre-deploy": "bunx tsx scripts/pre-deploy.ts",
     "deploy": "bash scripts/deploy.sh",
     "check-deployment": "node check-deployment.js",
@@ -32,7 +36,12 @@
     "test:install": "playwright install --with-deps",
     "test:seed": "tsx tests/fixtures/seed-test-data.ts",
     "test:cleanup": "tsx tests/fixtures/seed-test-data.ts cleanup",
-    "seed:notifications": "tsx scripts/create-notification-templates.ts"
+    "seed:notifications": "tsx scripts/create-notification-templates.ts",
+    "deploy:full": "bash scripts/deploy.sh --full",
+    "deploy:quick": "bash scripts/deploy.sh --skip-build",
+    "agent:health": "bash scripts/agents/health-agent.sh",
+    "agent:ai": "bash scripts/agents/ai-agent.sh",
+    "agent:db": "bash scripts/agents/db-agent.sh"
   },
   "dependencies": {
     "@anthropic-ai/sdk": "^0.88.0",
@@ -99,6 +108,7 @@
     "react": "^19.2.5",
     "react-day-picker": "^9.14.0",
     "react-dom": "^19.2.5",
+    "react-google-recaptcha-v3": "^1.10.1",
     "react-hook-form": "^7.72.1",
     "react-resizable-panels": "^4.10.0",
     "recharts": "^3.8.1",

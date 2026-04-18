@@ -5,7 +5,7 @@ import { Button } from "@/components/ui/button";
 import { Input } from "@/components/ui/input";
 import { Label } from "@/components/ui/label";
 import { useMutation, useQueryClient } from "@tanstack/react-query";
-import { createComment } from "../api";
+import { client } from "@/lib/api/client";
 import type { CreateCommentInput } from "../types";
 import { toast } from "sonner";
 import { CommentEditor } from "./comment-editor";
@@ -33,7 +33,15 @@ export function CommentForm({
   const [content, setContent] = useState("");
 
   const mutation = useMutation({
-    mutationFn: (data: CreateCommentInput) => createComment(data),
+    mutationFn: async (data: CreateCommentInput) => {
+      const res = await client.api.comments.$post({ json: data });
+      if (!res.ok) {
+        const json = (await res.json()) as { error?: { message: string } };
+        throw new Error(json.error?.message || "Failed to create comment");
+      }
+      const json = (await res.json()) as { success: boolean; data: unknown };
+      return json.data;
+    },
     onSuccess: () => {
       queryClient.invalidateQueries({ queryKey: ["comments", postId] });
       setName("");

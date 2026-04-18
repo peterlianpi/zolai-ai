@@ -8,8 +8,7 @@ const app = new Hono()
     try {
       const isAdmin = await checkIsAdmin(c);
       return ok(c, { isAdmin });
-    } catch (error) {
-      console.error("[CheckRole] Error:", error);
+    } catch (_error) {
       return internalError(c, "Failed to check role");
     }
   });

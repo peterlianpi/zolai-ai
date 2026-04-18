@@ -82,7 +82,7 @@ export function PasswordStrengthIndicator({
       aria-label="Password strength indicator"
     >
       <div className="flex items-center gap-2">
-        <div className="flex-1 h-2 bg-gray-200 rounded-full overflow-hidden">
+        <div className="flex-1 h-2 bg-muted rounded-full overflow-hidden">
           <div
             className={cn(
               "h-full transition-all duration-300",

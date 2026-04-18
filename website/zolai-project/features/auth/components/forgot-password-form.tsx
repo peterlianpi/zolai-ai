@@ -18,16 +18,13 @@ import {
 import { Field, FieldLabel, FieldGroup } from "@/components/ui/field";
 import { toast } from "sonner";
 import { ArrowLeft, Mail } from "lucide-react";
-
+import { Captcha } from "@/features/security/components/captcha";
 import { cn } from "@/lib/utils";
 import type { ForgotPasswordFormProps } from "../types/auth";
 
-// ============================================
-// Zod Schema
-// ============================================
-
 const forgotPasswordSchema = z.object({
   email: z.string().email("Invalid email address"),
+  captchaToken: z.string().optional(),
 });
 
 type ForgotPasswordValues = z.infer<typeof forgotPasswordSchema>;
@@ -45,6 +42,7 @@ export function ForgotPasswordForm({ className }: ForgotPasswordFormProps) {
     resolver: zodResolver(forgotPasswordSchema),
     defaultValues: {
       email: "",
+      captchaToken: "",
     },
   });
 
@@ -55,6 +53,11 @@ export function ForgotPasswordForm({ className }: ForgotPasswordFormProps) {
       const { error } = await authClient.requestPasswordReset({
         email: values.email,
         redirectTo: "/reset-password",
+        fetchOptions: {
+          headers: {
+            ...(values.captchaToken ? { "x-captcha-token": values.captchaToken } : {}),
+          },
+        },
       });
 
       if (error) {
@@ -156,6 +159,12 @@ export function ForgotPasswordForm({ className }: ForgotPasswordFormProps) {
               <Button type="submit" disabled={isLoading}>
                 {isLoading ? "Sending..." : "Send Reset Link"}
               </Button>
+
+              <Captcha
+                onVerify={(token) => form.setValue("captchaToken", token)}
+                onExpire={() => form.setValue("captchaToken", "")}
+                action="forgot_password"
+              />
 
               <Button
                 variant="outline"

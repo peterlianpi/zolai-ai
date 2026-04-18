@@ -12,7 +12,7 @@ export async function recordLogin(metadata: LoginMetadata) {
   const { userId, ipAddress, userAgent } = metadata;
   
   const parsed = userAgent ? parseUserAgent(userAgent) : {};
-  const location = await getLocationFromIp(ipAddress).catch(() => ({}));
+  const location = await getLocationFromIp(ipAddress).catch(() => ({} as Partial<import('@/lib/utils/geolocation').LocationData>));
 
   // Mark previous sessions as inactive
   await prisma.loginHistory.updateMany({

@@ -13,8 +13,8 @@ interface Entry {
   id: string;
   zolai: string;
   english: string;
-  pos?: string;
-  definition?: string;
+  pos?: string | null;
+  definition?: string | null;
   synonyms?: string[];
   antonyms?: string[];
   related?: string[];

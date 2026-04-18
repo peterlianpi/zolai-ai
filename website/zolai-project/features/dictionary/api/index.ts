@@ -37,18 +37,33 @@ const dictionary = new Hono()
       const primaryField = lang === "english" ? "english" : "zolai";
       const secondaryField = lang === "english" ? "zolai" : "english";
 
-      // Fetch candidates: exact + prefix + contains on primary field only
-      // Never search definition/explanation/example (long noisy text)
-      const candidates = await prisma.vocabWord.findMany({
-        where: {
-          OR: [
-            { [primaryField]: { contains: q, mode } },
-            // Also search variants array contains the query
-            { variants: { has: q } },
-          ],
-        },
-        select: WORD_SELECT,
-        take: limit * 10,
+      // Fetch candidates: exact first, then prefix, then contains
+      const [exactMatches, prefixMatches, containsMatches] = await Promise.all([
+        prisma.vocabWord.findMany({
+          where: { [primaryField]: { equals: q, mode } },
+          select: WORD_SELECT,
+          take: limit,
+        }),
+        prisma.vocabWord.findMany({
+          where: { [primaryField]: { startsWith: q, mode } },
+          select: WORD_SELECT,
+          take: limit * 3,
+          orderBy: { [primaryField]: "asc" },
+        }),
+        prisma.vocabWord.findMany({
+          where: { [primaryField]: { contains: q, mode } },
+          select: WORD_SELECT,
+          take: limit * 5,
+          orderBy: { [primaryField]: "asc" },
+        }),
+      ]);
+
+      // Deduplicate by id
+      const seen = new Set<string>();
+      const candidates = [...exactMatches, ...prefixMatches, ...containsMatches].filter(w => {
+        if (seen.has(w.id)) return false;
+        seen.add(w.id);
+        return true;
       });
 
       // Score each candidate

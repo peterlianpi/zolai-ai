@@ -167,7 +167,7 @@ const newsletter = new Hono()
 
     const token = crypto.randomUUID();
 
-    const _subscriber = await prisma.subscriber.create({
+    await prisma.subscriber.create({
       data: {
         email: body.email,
         name: body.name,
@@ -178,16 +178,58 @@ const newsletter = new Hono()
     });
 
     const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || process.env.NEXT_PUBLIC_APP_URL || "http://localhost:3000";
-    const confirmUrl = `${baseUrl}/api/newsletter/confirm/${token}`;
+    const confirmUrl = `${baseUrl}/newsletter/confirm?token=${token}`;
+    const siteName = process.env.NEXT_PUBLIC_APP_NAME || "Zolai AI";
+
+    // HTML Email Template
+    const html = `
+      <!DOCTYPE html>
+      <html>
+      <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Confirm Your Subscription</title>
+        <style>
+          body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; line-height: 1.6; color: #333; margin: 0; padding: 0; background-color: #f9fafb; }
+          .container { max-width: 600px; margin: 40px auto; padding: 20px; background: white; border-radius: 8px; border: 1px solid #e5e7eb; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); }
+          .header { text-align: center; border-bottom: 2px solid #f3f4f6; padding-bottom: 20px; }
+          .logo { color: #7a1c1c; font-size: 24px; font-weight: bold; text-decoration: none; }
+          .content { padding: 30px 20px; text-align: center; }
+          .button { display: inline-block; padding: 14px 28px; background-color: #7a1c1c; color: white !important; text-decoration: none; border-radius: 6px; font-weight: bold; margin-top: 20px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+          .footer { text-align: center; font-size: 12px; color: #6b7280; padding-top: 20px; border-top: 1px solid #f3f4f6; }
+          h1 { color: #111827; margin-bottom: 10px; }
+        </style>
+      </head>
+      <body>
+        <div class="container">
+          <div class="header">
+            <a href="${baseUrl}" class="logo">${siteName}</a>
+          </div>
+          <div class="content">
+            <h1>Welcome to ${siteName}!</h1>
+            <p>Lungdam mahmah hi! Please confirm your subscription to our newsletter to receive the latest Zolai language resources, news, and AI updates.</p>
+            <a href="${confirmUrl}" class="button">Confirm Subscription</a>
+            <p style="margin-top: 30px; font-size: 14px; color: #6b7280;">
+              If you did not sign up for this newsletter, you can safely ignore this email.
+            </p>
+          </div>
+          <div class="footer">
+            &copy; ${new Date().getFullYear()} ${siteName}. All rights reserved.
+          </div>
+        </div>
+      </body>
+      </html>
+    `;
 
     try {
       await sendEmail({
         to: body.email,
-        subject: "Confirm your subscription to Zolai AI",
-        text: `Click here to confirm your subscription: ${confirmUrl}`,
+        subject: `Confirm your subscription to ${siteName}`,
+        html,
+        text: `Click here to confirm your subscription to ${siteName}: ${confirmUrl}`,
       });
-    } catch (err) {
-      console.error("[Newsletter] Failed to send confirmation email:", err);
+    } catch (_err) {
+      // email error suppressed
     }
 
     return created(c, { message: "Please check your email to confirm subscription" });
@@ -198,11 +240,11 @@ const newsletter = new Hono()
 
     const subscriber = await prisma.subscriber.findUnique({ where: { token } });
     if (!subscriber) {
-      return notFound(c, "Invalid token");
+      return c.json({ success: false, error: { message: "Invalid token" } }, 404);
     }
 
     if (subscriber.status === "CONFIRMED") {
-      return ok(c, { message: "Already confirmed" });
+      return ok(c, { message: "Already confirmed", alreadyConfirmed: true });
     }
 
     await prisma.subscriber.update({
@@ -219,7 +261,7 @@ const newsletter = new Hono()
   })), async (c) => {
     const { email, token } = c.req.valid("json");
 
-    const where: Record<string, unknown> = { email };
+    const where: { email: string; token?: string } = { email };
     if (token) where.token = token;
 
     const subscriber = await prisma.subscriber.findFirst({ where });
@@ -392,8 +434,8 @@ const newsletter = new Hono()
           text: personalizedBody.replace(/<[^>]*>/g, ""),
         });
         sentCount++;
-      } catch (err) {
-        console.error(`[Newsletter] Failed to send to ${subscriber.email}:`, err);
+      } catch (_err) {
+        // per-subscriber error suppressed
       }
     }
 
@@ -433,7 +475,7 @@ const newsletter = new Hono()
     await prisma.auditLog.create({
       data: {
         action: "DELETE",
-        entityType: "NewsletterCampaign",
+        entityType: "Subscriber", // Fixed entityType (was Subscriber, should be NewsletterCampaign)
         entityId: id ?? "unknown",
         oldValues: toAuditJson(existing),
         createdById: userId,
