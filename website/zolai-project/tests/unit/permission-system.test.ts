@@ -1,4 +1,4 @@
-import { describe, it, expect } from "bun:test";
+import { describe, it, expect } from "vitest";
 import { hasPermission, isAdmin, isSuperAdmin, ROLES, PERMISSIONS, ROLE_PERMISSIONS } from "@/lib/auth/rbac";
 
 describe("Unified RBAC Permission System", () => {

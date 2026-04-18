@@ -101,7 +101,6 @@ async function sendViaAWSSNS(
   try {
     // This would require the AWS SDK
     // For now, return a placeholder
-    console.log("[SMS] AWS SNS not yet implemented");
     return {
       success: false,
       error: "AWS SNS provider not yet implemented",

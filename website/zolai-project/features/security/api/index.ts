@@ -13,6 +13,7 @@ import {
   getRecentMonitorAlerts,
   setMonitorSilence,
 } from "@/lib/services/telegram-monitor";
+import lockoutRouter from "@/features/auth/api/lockout";
 
 const security = new Hono()
 
@@ -29,8 +30,7 @@ const security = new Hono()
       });
 
       return ok(c, sessions);
-    } catch (err) {
-      console.error("Failed to list device sessions:", err);
+    } catch (_err) {
       return internalError(c, "Failed to fetch device sessions");
     }
   })
@@ -59,8 +59,7 @@ const security = new Hono()
       });
 
       return ok(c, { sessionToken });
-    } catch (err) {
-      console.error("Failed to revoke session:", err);
+    } catch (_err) {
       return internalError(c, "Failed to revoke session");
     }
   })
@@ -87,8 +86,7 @@ const security = new Hono()
       });
 
       return ok(c, { userId });
-    } catch (err) {
-      console.error("Failed to revoke sessions:", err);
+    } catch (_err) {
       return internalError(c, "Failed to revoke sessions");
     }
   })
@@ -424,6 +422,10 @@ const security = new Hono()
       "security.rateLimit.autoBlockEnabled",
       "security.rateLimit.autoBlockThreshold",
       "security.rateLimit.autoBlockDurationMinutes",
+      "security.captcha.recaptchaSiteKey",
+      "security.captcha.recaptchaSecretKey",
+      "security.captcha.hcaptchaSiteKey",
+      "security.captcha.hcaptchaSecretKey",
     ];
 
     const settings = await prisma.siteSetting.findMany({
@@ -442,16 +444,24 @@ const security = new Hono()
         map.get("security.rateLimit.autoBlockDurationMinutes") ?? "60",
         10
       ),
+      recaptchaSiteKey: map.get("security.captcha.recaptchaSiteKey") ?? "",
+      recaptchaSecretKey: map.get("security.captcha.recaptchaSecretKey") ?? "",
+      hcaptchaSiteKey: map.get("security.captcha.hcaptchaSiteKey") ?? "",
+      hcaptchaSecretKey: map.get("security.captcha.hcaptchaSecretKey") ?? "",
     });
   })
 
    .put("/rate-limit-config", zValidator("json", z.object({
-     globalPerMinute: z.number().int().min(10).max(5000),
-     authPer15Min: z.number().int().min(1).max(100),
-     adminPerMinute: z.number().int().min(1).max(1000),
-     autoBlockEnabled: z.boolean(),
-     autoBlockThreshold: z.number().int().min(1).max(50),
-     autoBlockDurationMinutes: z.number().int().min(5).max(10080),
+     globalPerMinute: z.number().int().min(10).max(5000).optional(),
+     authPer15Min: z.number().int().min(1).max(100).optional(),
+     adminPerMinute: z.number().int().min(1).max(1000).optional(),
+     autoBlockEnabled: z.boolean().optional(),
+     autoBlockThreshold: z.number().int().min(1).max(50).optional(),
+     autoBlockDurationMinutes: z.number().int().min(5).max(10080).optional(),
+     recaptchaSiteKey: z.string().optional(),
+     recaptchaSecretKey: z.string().optional(),
+     hcaptchaSiteKey: z.string().optional(),
+     hcaptchaSecretKey: z.string().optional(),
    })), async (c) => {
      // Check if user has sufficient role for rate limit config (admin/moderator)
      if (!(await requireMinRole(c, "ADMIN"))) {
@@ -459,38 +469,85 @@ const security = new Hono()
      }
     const body = c.req.valid("json");
 
-    await prisma.$transaction([
-      prisma.siteSetting.upsert({
+    const upserts = [];
+    if (body.globalPerMinute !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
         where: { key: "security.rateLimit.globalPerMinute" },
         create: { key: "security.rateLimit.globalPerMinute", value: String(body.globalPerMinute) },
         update: { value: String(body.globalPerMinute) },
-      }),
-      prisma.siteSetting.upsert({
+      }));
+    }
+    if (body.authPer15Min !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
         where: { key: "security.rateLimit.authPer15Min" },
         create: { key: "security.rateLimit.authPer15Min", value: String(body.authPer15Min) },
         update: { value: String(body.authPer15Min) },
-      }),
-      prisma.siteSetting.upsert({
+      }));
+    }
+    if (body.adminPerMinute !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
         where: { key: "security.rateLimit.adminPerMinute" },
         create: { key: "security.rateLimit.adminPerMinute", value: String(body.adminPerMinute) },
         update: { value: String(body.adminPerMinute) },
-      }),
-      prisma.siteSetting.upsert({
+      }));
+    }
+    if (body.autoBlockEnabled !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
         where: { key: "security.rateLimit.autoBlockEnabled" },
         create: { key: "security.rateLimit.autoBlockEnabled", value: String(body.autoBlockEnabled) },
         update: { value: String(body.autoBlockEnabled) },
-      }),
-      prisma.siteSetting.upsert({
+      }));
+    }
+    if (body.autoBlockThreshold !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
         where: { key: "security.rateLimit.autoBlockThreshold" },
         create: { key: "security.rateLimit.autoBlockThreshold", value: String(body.autoBlockThreshold) },
         update: { value: String(body.autoBlockThreshold) },
-      }),
-      prisma.siteSetting.upsert({
+      }));
+    }
+    if (body.autoBlockDurationMinutes !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
         where: { key: "security.rateLimit.autoBlockDurationMinutes" },
         create: { key: "security.rateLimit.autoBlockDurationMinutes", value: String(body.autoBlockDurationMinutes) },
         update: { value: String(body.autoBlockDurationMinutes) },
-      }),
-    ]);
+      }));
+    }
+    if (body.recaptchaSiteKey !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
+        where: { key: "security.captcha.recaptchaSiteKey" },
+        create: { key: "security.captcha.recaptchaSiteKey", value: body.recaptchaSiteKey },
+        update: { value: body.recaptchaSiteKey },
+      }));
+      // Also sync to public key so providers.tsx can read it
+      upserts.push(prisma.siteSetting.upsert({
+        where: { key: "recaptcha_site_key" },
+        create: { key: "recaptcha_site_key", value: body.recaptchaSiteKey },
+        update: { value: body.recaptchaSiteKey },
+      }));
+    }
+    if (body.recaptchaSecretKey !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
+        where: { key: "security.captcha.recaptchaSecretKey" },
+        create: { key: "security.captcha.recaptchaSecretKey", value: body.recaptchaSecretKey },
+        update: { value: body.recaptchaSecretKey },
+      }));
+    }
+    if (body.hcaptchaSiteKey !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
+        where: { key: "security.captcha.hcaptchaSiteKey" },
+        create: { key: "security.captcha.hcaptchaSiteKey", value: body.hcaptchaSiteKey },
+        update: { value: body.hcaptchaSiteKey },
+      }));
+    }
+    if (body.hcaptchaSecretKey !== undefined) {
+      upserts.push(prisma.siteSetting.upsert({
+        where: { key: "security.captcha.hcaptchaSecretKey" },
+        create: { key: "security.captcha.hcaptchaSecretKey", value: body.hcaptchaSecretKey },
+        update: { value: body.hcaptchaSecretKey },
+      }));
+    }
+
+    await prisma.$transaction(upserts);
 
      return ok(c, body);
    })
@@ -537,6 +594,7 @@ const security = new Hono()
      const source = c.req.param("source");
      await clearMonitorSilence(source);
      return ok(c, { source, cleared: true });
-   });
+   })
+   .route("/lockout", lockoutRouter);
 
 export default security;

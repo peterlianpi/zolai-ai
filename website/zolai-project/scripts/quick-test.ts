@@ -12,7 +12,7 @@ const models = ['gemini-2.5-flash', 'gemini-2.0-flash', 'gemini-1.5-flash', 'gem
 async function test() {
   for (const model of models) {
     try {
-      const client = new GoogleGenerativeAI(key);
+      const client = new GoogleGenerativeAI(key!);
       const m = client.getGenerativeModel({ model });
       const result = await m.generateContent('OK');
       console.log(`✓ ${model}`);

@@ -9,7 +9,7 @@ import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
 import { formatDistanceToNow } from "date-fns";
 
-const INBOXES = ["all", "hello@zolai.space", "support@zolai.space", "admin@zolai.space"];
+import { INBOXES } from "@/lib/constants/emails";
 
 interface Email {
   id: string;
@@ -33,18 +33,19 @@ export function AdminInboundEmailPage() {
   const { data } = useQuery({
     queryKey: ["inbound-email", inbox],
     queryFn: async () => {
-      const res = await client["inbound-email"].$get({
+      const res = await client.api["inbound-email"].$get({
         query: { inbox: inbox === "all" ? undefined : inbox, limit: "50" },
       });
-      const json = await res.json();
-      return (json as { data: Email[] }).data ?? [];
+      const json = await res.json() as { data: Email[] };
+      return json.data ?? [];
     },
   });
 
   const openEmail = useMutation({
     mutationFn: async (id: string) => {
-      const res = await client["inbound-email"][":id"].$get({ param: { id } });
-      return (await res.json() as { data: Email }).data;
+      const res = await client.api["inbound-email"][":id"].$get({ param: { id } });
+      const json = await res.json() as { data: Email };
+      return json.data;
     },
     onSuccess: (email) => {
       setSelected(email);
@@ -55,7 +56,7 @@ export function AdminInboundEmailPage() {
 
   const reply = useMutation({
     mutationFn: async ({ id, text }: { id: string; text: string }) => {
-      const res = await client["inbound-email"][":id"].reply.$post({
+      const res = await client.api["inbound-email"][":id"].reply.$post({
         param: { id },
         json: { text },
       });
@@ -72,7 +73,7 @@ export function AdminInboundEmailPage() {
 
   const del = useMutation({
     mutationFn: async (id: string) => {
-      await client["inbound-email"][":id"].$delete({ param: { id } });
+      await client.api["inbound-email"][":id"].$delete({ param: { id } });
     },
     onSuccess: () => {
       toast.success("Deleted");

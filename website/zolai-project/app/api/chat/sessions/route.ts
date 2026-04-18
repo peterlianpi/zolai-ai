@@ -18,6 +18,25 @@ export async function GET() {
   return NextResponse.json(sessions);
 }
 
+export async function POST(req: NextRequest) {
+  const session = await auth.api.getSession({ headers: await headers() });
+  if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });
+
+  const { title, provider, model } = await req.json();
+
+  const newSession = await prisma.chatSession.create({
+    data: {
+      userId: session.user.id,
+      title: title || "New Chat",
+      provider: provider || "gemini",
+      model: model || "gemini-2.0-flash",
+    },
+    select: { id: true, title: true, provider: true, model: true, createdAt: true },
+  });
+
+  return NextResponse.json(newSession, { status: 201 });
+}
+
 export async function DELETE(req: NextRequest) {
   const session = await auth.api.getSession({ headers: await headers() });
   if (!session) return NextResponse.json({ error: "Unauthorized" }, { status: 401 });

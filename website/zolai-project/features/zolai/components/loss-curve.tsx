@@ -14,7 +14,7 @@ export function LossCurve({ data }: Props) {
         <YAxis tick={{ fontSize: 11 }} width={48} />
         <Tooltip
           contentStyle={{ fontSize: 12 }}
-          formatter={(v: number) => [v.toFixed(4), "Loss"]}
+          formatter={(v) => [typeof v === 'number' ? v.toFixed(4) : String(v), "Loss"]}
           labelFormatter={(l) => `Step ${l}`}
         />
         <Line type="monotone" dataKey="loss" dot={false} strokeWidth={2} className="stroke-primary" />

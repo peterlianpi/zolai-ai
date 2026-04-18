@@ -12,8 +12,8 @@ interface DictionaryEntry {
   id: string;
   zolai: string;
   english: string;
-  pos?: string;
-  definition?: string;
+  pos?: string | null;
+  definition?: string | null;
   synonyms?: string[];
   antonyms?: string[];
   related?: string[];
@@ -34,7 +34,7 @@ export function usePublicDictionarySearch() {
         query: { q: query.trim(), limit: "10", lang },
       });
       const data = await res.json();
-      setResults(data.success && Array.isArray(data.data) ? data.data : []);
+      setResults(data.success && Array.isArray(data.data) ? data.data as unknown as DictionaryEntry[] : []);
     } catch {
       setResults([]);
     } finally {

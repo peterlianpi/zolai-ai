@@ -75,6 +75,11 @@ export function SignupForm({ ...props }: React.ComponentProps<typeof Card>) {
         name: values.name,
         email: values.email,
         password: values.password,
+        fetchOptions: {
+          headers: {
+            "x-captcha-token": values.captchaToken,
+          },
+        },
       });
 
       if (error) {

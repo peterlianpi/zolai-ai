@@ -1,4 +1,6 @@
-import type { PostWhereInput, TermWhereInput } from "@/lib/generated/prisma/models";
+import { Prisma } from "@/lib/generated/prisma";
+type PostWhereInput = Prisma.PostWhereInput;
+type TermWhereInput = Prisma.TermWhereInput;
 import { Hono } from "hono";
 import { zValidator } from "@hono/zod-validator";
 import prisma from "@/lib/prisma";
@@ -494,7 +496,7 @@ const content = new Hono()
      revalidateTag("content", "max");
      revalidateTag("home-page-data", "max");
       
-     return c.json({ success: true, data: { id: post.id, status: post.status } });
+     return ok(c, { id: post.id, status: post.status });
   })
 
   // GET /api/content/terms - List terms (OPTIMIZED WITH CACHING)
@@ -601,7 +603,7 @@ const content = new Hono()
      revalidateTag("content", "max");
      revalidateTag("home-page-data", "max");
       
-     return c.json({ success: true, data: term }, 201);
+     return created(c, term);
   })
 
   // PATCH /api/content/terms/:id - Update term
@@ -695,7 +697,7 @@ const content = new Hono()
      revalidateTag("content", "max");
      revalidateTag("home-page-data", "max");
       
-     return c.json({ success: true, data: { id } });
+     return ok(c, { id });
   })
 
   // GET /api/content/taxonomies - List all taxonomies
@@ -710,7 +712,7 @@ const content = new Hono()
        orderBy: { name: "asc" },
      });
 
-    return c.json({ success: true, data: taxonomies });
+    return ok(c, taxonomies);
   });
 
 export default content;

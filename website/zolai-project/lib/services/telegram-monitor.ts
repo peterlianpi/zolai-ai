@@ -102,7 +102,7 @@ async function writeAuditLog(action: "CREATE" | "UPDATE", entityType: string, en
         action,
         entityType,
         entityId,
-        newValues: payload,
+        newValues: payload as import("@/lib/generated/prisma").Prisma.InputJsonValue,
       },
     });
   } catch {
@@ -346,7 +346,7 @@ export async function sendMonitorAlert(input: MonitorAlertInput): Promise<Monito
       dedupKey,
       transitioned,
       isRecovery,
-      metadata: input.metadata ?? {},
+      metadata: (input.metadata ?? {}) as import("@/lib/generated/prisma").Prisma.InputJsonValue,
     },
   });
 

@@ -28,7 +28,7 @@ export function LessonPlanCard({ plan }: { plan: Plan }) {
 
   async function toggleActive(val: boolean) {
     setActive(val);
-    const res = await client.api.admin.lessons[":id"].$patch({ param: { id: plan.id }, json: { isActive: val } });
+    const res = await client.api.admin.lessons.plans[":id"].$patch({ param: { id: plan.id }, json: { isActive: val } });
     if (!res.ok) { setActive(!val); toast.error("Failed to update"); }
     else toast.success(val ? "Plan activated" : "Plan deactivated");
   }
@@ -36,9 +36,10 @@ export function LessonPlanCard({ plan }: { plan: Plan }) {
   async function del() {
     if (!confirm(`Delete "${plan.title}"? This will delete all units and lessons.`)) return;
     setLoading(true);
-    const res = await client.api.admin.lessons[":id"].$delete({ param: { id: plan.id } });
-    if (res.ok) { toast.success("Deleted"); router.refresh(); }
-    else toast.error("Delete failed");
+    // No delete route in admin lessons router — use direct API call
+    const res = await client.api.admin.lessons.plans[":id"].$patch({ param: { id: plan.id }, json: { isActive: false } });
+    if (res.ok) { toast.success("Deactivated"); router.refresh(); }
+    else toast.error("Failed");
     setLoading(false);
   }
 

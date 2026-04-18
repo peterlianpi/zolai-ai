@@ -52,13 +52,17 @@ export async function validateSessionToken(
 ): Promise<ValidSessionData | null> {
   try {
     // Extract session token from cookies
-    const token =
+    const rawToken =
       cookieStore.get("better-auth.session_token")?.value ||
       cookieStore.get("__Secure-better-auth.session_token")?.value;
 
-    if (!token) {
+    if (!rawToken) {
       return null;
     }
+
+    // Better Auth stores token as "tokenId.signature" in the cookie.
+    // The DB token is just the tokenId part (before the dot).
+    const token = rawToken.split(".")[0];
 
     // Look up session in database
     const session = await prisma.session.findUnique({

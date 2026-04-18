@@ -7,7 +7,7 @@ import { format } from "date-fns";
 import { buildSiteMetadata, getSiteConfig } from "@/lib/site-config";
 import prisma from "@/lib/prisma";
 import { sanitizeContentHtml } from "@/lib/sanitize";
-import { Hero, PageTemplateClass, ContentClass, SidebarClass, resolveTemplateKey } from "@/features/home/components";
+import { PageTitle, PageTemplateClass, ContentClass, SidebarClass, resolveTemplateKey } from "@/features/home/components";
 import { publicPostPath } from "@/lib/content-paths";
 import { localeFromSearchParams, localePrefix, type LocaleCode } from "@/lib/i18n/locales";
 import { safeDbQuery } from "@/lib/server/safe-db";
@@ -234,7 +234,7 @@ export default async function PageDetailPage({ params, searchParams }: PageDetai
       <>
         <JsonLdScript data={pageJsonLd} />
         <JsonLdScript data={breadcrumbJsonLd} />
-        <Hero title={page.title} breadcrumb={["Home", "Pages", page.title]} />
+        <PageTitle title={page.title} />
         <article className="container mx-auto px-4 py-8">
           {pageContent}
         </article>
@@ -246,7 +246,7 @@ export default async function PageDetailPage({ params, searchParams }: PageDetai
     <>
       <JsonLdScript data={pageJsonLd} />
       <JsonLdScript data={breadcrumbJsonLd} />
-      <Hero title={page.title} breadcrumb={["Home", "Pages", page.title]} />
+      <PageTitle title={page.title} />
 
       <article className="container mx-auto px-4 py-8">
         <div className={PageTemplateClass(template)}>

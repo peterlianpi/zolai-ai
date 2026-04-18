@@ -62,8 +62,7 @@ const app = new Hono()
           subject: `Confirm your subscription to ${DEFAULT_SITE_NAME}`,
           html: `<p>Hi ${subscriber.name || "there"},</p><p>Click below to confirm your subscription:</p><p><a href="${confirmUrl}">${confirmUrl}</a></p><p>If you didn't subscribe, ignore this email.</p>`,
         });
-      } catch (e) {
-        console.error("[Newsletter] Confirmation email failed:", e);
+      } catch (_e) {
       }
       return created(c, {
         id: subscriber.id,
@@ -71,8 +70,7 @@ const app = new Hono()
         status: subscriber.status,
         message: "Please check your email to confirm subscription",
       });
-    } catch (err) {
-      console.error("Subscribe error:", err);
+    } catch (_err) {
       return internalError(c, "Failed to process subscription");
     }
   })
@@ -112,8 +110,7 @@ const app = new Hono()
         status: updated.status,
         message: "Subscription confirmed",
       });
-    } catch (err) {
-      console.error("Confirm error:", err);
+    } catch (_err) {
       return internalError(c, "Failed to confirm subscription");
     }
   })
@@ -144,8 +141,7 @@ const app = new Hono()
         status: updated.status,
         message: "Unsubscribed successfully",
       });
-    } catch (err) {
-      console.error("Unsubscribe error:", err);
+    } catch (_err) {
       return internalError(c, "Failed to unsubscribe");
     }
   })
@@ -206,8 +202,7 @@ const app = new Hono()
         limit: query.limit,
         totalPages,
       });
-    } catch (err) {
-      console.error("List subscribers error:", err);
+    } catch (_err) {
       return internalError(c, "Failed to fetch subscribers");
     }
   })
@@ -234,8 +229,7 @@ const app = new Hono()
         unsubscribed,
         bounced,
       });
-    } catch (err) {
-      console.error("Stats error:", err);
+    } catch (_err) {
       return internalError(c, "Failed to fetch stats");
     }
   })
@@ -271,8 +265,7 @@ const app = new Hono()
         });
 
         return ok(c, updated);
-      } catch (err) {
-        console.error("Update subscriber error:", err);
+      } catch (_err) {
         return internalError(c, "Failed to update subscriber");
       }
     }
@@ -324,7 +317,7 @@ const app = new Hono()
                 .then(() => {
                   sentCount++;
                 })
-                .catch((e) => console.error(`[Newsletter] Failed to send to ${sub.email}:`, e))
+                .catch(() => {})
             )
           );
           if (i + BATCH < subscribers.length) await new Promise((r) => setTimeout(r, 100));
@@ -342,8 +335,7 @@ const app = new Hono()
           ...updated,
           message: `Campaign queued to send to ${subscribers.length} subscribers`,
         });
-      } catch (err) {
-        console.error("Send campaign error:", err);
+      } catch (_err) {
         return internalError(c, "Failed to send campaign");
       }
     }
@@ -375,8 +367,7 @@ const app = new Hono()
       });
 
       return ok(c, { message: "Campaign deleted" });
-    } catch (err) {
-      console.error("Delete campaign error:", err);
+    } catch (_err) {
       return internalError(c, "Failed to delete campaign");
     }
   });

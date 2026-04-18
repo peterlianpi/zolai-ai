@@ -117,7 +117,7 @@ test.describe('Registration Flow', () => {
     await page.goto('/signup');
     
     await page.fill('[data-testid="password"]', 'weak');
-    await page.blur('[data-testid="password"]');
+    await page.locator('[data-testid="password"]').blur();
     
     await expect(page.locator('[data-testid="password-error"]')).toContainText('Password must be');
   });

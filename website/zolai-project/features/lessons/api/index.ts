@@ -3,6 +3,7 @@ import { z } from "zod";
 import { zValidator } from "@hono/zod-validator";
 import prisma from "@/lib/prisma";
 import { ok, notFound, internalError } from "@/lib/api/response";
+import { _getSessionUserId } from "@/lib/auth/server-guards";
 
 const LEVEL_ORDER = ["A1", "A2", "B1", "B2", "C1", "C2"];
 
@@ -17,7 +18,7 @@ const lessons = new Hono()
         const { level } = c.req.valid("query");
         const plans = await prisma.lessonPlan.findMany({
           where: { isActive: true, ...(level && { level }) },
-          include: { units: { orderBy: { order: "asc" }, include: { lessons: { select: { id: true, title: true, type: true, xpReward: true, order: true }, orderBy: { order: "asc" } } } } },
+          select: { units: { orderBy: { order: "asc" }, select: { id: true, lessons: { select: { id: true, title: true, type: true, xpReward: true, order: true }, orderBy: { order: "asc" } } } } },
           orderBy: [{ level: "asc" }, { order: "asc" }],
         });
         // Sort by CEFR level order
@@ -32,7 +33,7 @@ const lessons = new Hono()
     try {
       const plan = await prisma.lessonPlan.findUnique({
         where: { slug: c.req.param("slug") },
-        include: { units: { orderBy: { order: "asc" }, include: { lessons: { orderBy: { order: "asc" } } } } },
+        select: { units: { orderBy: { order: "asc" }, select: { id: true, lessons: { select: { id: true, title: true, type: true, xpReward: true, order: true }, orderBy: { order: "asc" } } } } },
       });
       if (!plan) return notFound(c, "Lesson plan not found");
       return ok(c, plan);
@@ -131,7 +132,7 @@ const lessons = new Hono()
       const next = await prisma.lesson.findFirst({
         where: { id: { notIn: [...completedIds] } },
         orderBy: [{ unit: { plan: { order: "asc" } } }, { unit: { order: "asc" } }, { order: "asc" }],
-        include: { unit: { include: { plan: { select: { title: true, level: true } } } } },
+        select: { unit: { select: { plan: { select: { title: true, level: true } } } } },
       });
       return ok(c, next);
     } catch { return internalError(c, "Failed to fetch next lesson"); }

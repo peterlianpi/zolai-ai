@@ -2,7 +2,7 @@ export const revalidate = 3600;
 export const dynamic = "force-dynamic";
 import type { Metadata } from "next";
 import { buildSiteMetadata, getSiteConfig } from "@/lib/site-config";
-import { Hero } from "@/features/home/components";
+import { PageTitle } from "@/features/home/components";
 import { PostCard } from "@/features/content/components/post-card";
 import { getPostList } from "@/action/content";
 import { PaginationWithParams } from "@/components/ui/pagination";
@@ -41,6 +41,7 @@ export default async function NewsPage({
     page,
     limit: POSTS_PER_PAGE,
     type: "NEWS",
+    status: "PUBLISHED",
     categorySlug: params.category,
     tagSlug: params.tag,
   });
@@ -48,9 +49,9 @@ export default async function NewsPage({
 
   return (
     <>
-      <Hero title="News" breadcrumb={["Home", "News"]} />
+      <PageTitle title="News" className="max-w-6xl" />
 
-      <section className="py-12">
+      <section className="py-8">
         <div className="container mx-auto px-4">
           {posts.length > 0 ? (
             <>
@@ -83,7 +84,7 @@ export default async function NewsPage({
               )}
             </>
           ) : (
-            <div className="text-center py-12 text-muted-foreground">
+            <div className="text-center py-8 text-muted-foreground">
               No news articles found.
             </div>
           )}

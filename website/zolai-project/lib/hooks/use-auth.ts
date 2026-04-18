@@ -7,7 +7,7 @@
 
 import { useSession, authClient } from "@/lib/auth-client";
 import { useMemo } from "react";
-import { isAdminRole, isSuperAdminRole } from "@/lib/auth/roles";
+import { isAdminRole, isSuperAdmin as isSuperAdminRole } from "@/lib/auth/roles";
 
 export function useAuth() {
   const { data: session, isPending, error, refetch } = useSession();

@@ -27,12 +27,12 @@ export function AdminVocabPage() {
   const [editForm, setEditForm] = useState({ accuracy: "", audioUrl: "", definition: "" });
 
   const { data, isLoading } = useQuery({
-    queryKey: ["admin-vocab", search, category, accuracy, page],
+    queryKey: ["admin-vocab", search, accuracy, page],
     queryFn: async () => {
       const res = await client.api.dictionary.search.$get({
         query: { q: search || " ", lang: "both", page: String(page), limit: "50" },
       });
-      return res.json();
+      return res.json() as unknown as { success: boolean; data: Word[]; meta: { total: number; page: number; limit: number; totalPages: number } };
     },
   });
 

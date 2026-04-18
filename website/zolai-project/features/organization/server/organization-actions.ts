@@ -63,8 +63,7 @@ export async function createOrganizationAction(data: CreateOrganizationData): Pr
 
     revalidatePath("/admin/organizations");
     return { success: true, data: organization as OrganizationWithStats };
-  } catch (error) {
-    console.error("[createOrganizationAction]", error);
+  } catch (_error) {
     return { success: false, error: "Failed to create organization" };
   }
 }
@@ -95,8 +94,7 @@ export async function getOrganizationsAction(): Promise<ActionResult<Organizatio
      });
 
     return { success: true, data: organizations as OrganizationWithStats[] };
-  } catch (error) {
-    console.error("[getOrganizationsAction]", error);
+  } catch (_error) {
     return { success: false, error: "Failed to fetch organizations" };
   }
 }
@@ -130,8 +128,7 @@ export async function getUserOrganizationsAction(): Promise<ActionResult<Organiz
 
     const organizations = memberships.map(membership => membership.organization) as OrganizationWithStats[];
     return { success: true, data: organizations };
-  } catch (error) {
-    console.error("[getUserOrganizationsAction]", error);
+  } catch (_error) {
     return { success: false, error: "Failed to fetch user organizations" };
   }
 }
@@ -182,8 +179,7 @@ export async function getOrganizationMembersAction(organizationId: string): Prom
      });
 
     return { success: true, data: members as MemberWithUser[] };
-  } catch (error) {
-    console.error("[getOrganizationMembersAction]", error);
+  } catch (_error) {
     return { success: false, error: "Failed to fetch organization members" };
   }
 }
@@ -267,8 +263,7 @@ export async function inviteMemberAction(data: InviteMemberData): Promise<Action
 
     revalidatePath(`/admin/organizations/${data.organizationId}`);
     return { success: true, data: invitation as InvitationWithOrg };
-  } catch (error) {
-    console.error("[inviteMemberAction]", error);
+  } catch (_error) {
     return { success: false, error: "Failed to invite member" };
   }
 }
@@ -320,8 +315,7 @@ export async function updateMemberRoleAction(data: UpdateMemberData): Promise<Ac
 
     revalidatePath(`/admin/organizations/${member.organizationId}`);
     return { success: true };
-  } catch (error) {
-    console.error("[updateMemberRoleAction]", error);
+  } catch (_error) {
     return { success: false, error: "Failed to update member role" };
   }
 }
@@ -372,8 +366,7 @@ export async function removeMemberAction(memberId: string): Promise<ActionResult
 
     revalidatePath(`/admin/organizations/${member.organizationId}`);
     return { success: true };
-  } catch (error) {
-    console.error("[removeMemberAction]", error);
+  } catch (_error) {
     return { success: false, error: "Failed to remove member" };
   }
 }
@@ -409,8 +402,7 @@ export async function switchOrganizationAction(organizationId: string): Promise<
 
     revalidatePath("/");
     return { success: true };
-  } catch (error) {
-    console.error("[switchOrganizationAction]", error);
+  } catch (_error) {
     return { success: false, error: "Failed to switch organization" };
   }
 }

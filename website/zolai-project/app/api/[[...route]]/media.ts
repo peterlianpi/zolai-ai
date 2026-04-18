@@ -1,4 +1,4 @@
-import type { MediaWhereInput } from "@/lib/generated/prisma/index";
+import type { Prisma } from "@/lib/generated/prisma/index";
 import { Hono } from "hono";
 import { zValidator } from "@hono/zod-validator";
 import { revalidateTag } from "next/cache";
@@ -26,7 +26,7 @@ const media = new Hono()
     const mimeType = c.req.query("mimeType");
     const skip = (page - 1) * limit;
 
-    const where: MediaWhereInput = {};
+    const where: Prisma.MediaWhereInput = {};
     if (mimeType) where.mimeType = mimeType;
 
     const [items, total] = await Promise.all([

@@ -105,8 +105,7 @@ const roleManagement = new Hono()
             changedBy: change.createdBy,
           })),
         });
-      } catch (error) {
-        console.error("[Role Management] Error fetching metrics:", error);
+      } catch (_error) {
         return internalError(c, "Failed to fetch role metrics");
       }
     }
@@ -149,8 +148,7 @@ const roleManagement = new Hono()
         const updatedUser = await prisma.user.update({
           where: { id: userId },
           data: {
-            role,
-            // Track when role was last changed
+            role: role as import("@/lib/generated/prisma").UserRole,
             updatedAt: new Date(),
           },
         });
@@ -179,8 +177,7 @@ const roleManagement = new Hono()
           },
           message: `User role updated from ${oldRole} to ${role}`,
         });
-      } catch (error) {
-        console.error("[Role Management] Error updating user role:", error);
+      } catch (_error) {
         return internalError(c, "Failed to update user role");
       }
     }
@@ -233,7 +230,7 @@ const roleManagement = new Hono()
             id: { in: userIds },
           },
           data: {
-            role,
+            role: role as "USER" | "EDITOR" | "ADMIN" | "SUPER_ADMIN",
             updatedAt: new Date(),
           },
         });
@@ -261,8 +258,7 @@ const roleManagement = new Hono()
           count: result.count,
           message: `${result.count} user roles updated to ${role}`,
         });
-      } catch (error) {
-        console.error("[Role Management] Error bulk updating user roles:", error);
+      } catch (_error) {
         return internalError(c, "Failed to bulk update user roles");
       }
     }

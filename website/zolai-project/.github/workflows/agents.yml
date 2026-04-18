@@ -1,0 +1,59 @@
+name: Agents — Zolai
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+    inputs:
+      agent:
+        description: Agent to run
+        type: choice
+        options: [db, ai, all]
+        default: all
+
+jobs:
+  setup-ssh:
+    name: Setup SSH
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.VPS_SSH_KEY }}" > ~/.ssh/zolai.pem
+          chmod 600 ~/.ssh/zolai.pem
+          printf "Host zolai\n  HostName %s\n  User ubuntu\n  IdentityFile ~/.ssh/zolai.pem\n  StrictHostKeyChecking no\n" "${{ secrets.VPS_HOST }}" >> ~/.ssh/config
+
+  db:
+    name: DB Agent
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' || inputs.agent == 'db' || inputs.agent == 'all'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          VPS_HOST: ${{ secrets.VPS_HOST }}
+          VPS_SSH_KEY: ${{ secrets.VPS_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$VPS_SSH_KEY" > ~/.ssh/zolai.pem && chmod 600 ~/.ssh/zolai.pem
+          printf "Host zolai\n  HostName %s\n  User ubuntu\n  IdentityFile ~/.ssh/zolai.pem\n  StrictHostKeyChecking no\n" "$VPS_HOST" >> ~/.ssh/config
+          bash scripts/agents/db-agent.sh
+
+  ai:
+    name: AI Provider Agent
+    runs-on: ubuntu-latest
+    if: github.event_name == 'schedule' || inputs.agent == 'ai' || inputs.agent == 'all'
+    steps:
+      - uses: actions/checkout@v4
+      - name: Run
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          VPS_HOST: ${{ secrets.VPS_HOST }}
+          VPS_SSH_KEY: ${{ secrets.VPS_SSH_KEY }}
+        run: |
+          mkdir -p ~/.ssh
+          echo "$VPS_SSH_KEY" > ~/.ssh/zolai.pem && chmod 600 ~/.ssh/zolai.pem
+          printf "Host zolai\n  HostName %s\n  User ubuntu\n  IdentityFile ~/.ssh/zolai.pem\n  StrictHostKeyChecking no\n" "$VPS_HOST" >> ~/.ssh/config
+          bash scripts/agents/ai-agent.sh

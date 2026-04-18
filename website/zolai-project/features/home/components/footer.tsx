@@ -4,6 +4,7 @@ import { type SVGProps } from "react";
 import { DEFAULT_SITE_NAME, DEFAULT_SITE_DESCRIPTION, DEFAULT_FOOTER_COPYRIGHT_TEXT } from "@/lib/constants/site";
 import type { Menu } from "@/features/menus/types";
 import type { SiteSetting } from "@/features/settings/api";
+import { SubscribeWidget } from "@/features/newsletter/components/SubscribeWidget";
 
 function TwitterIcon(props: SVGProps<SVGSVGElement>) {
   return (
@@ -22,11 +23,18 @@ function GitHubIcon(props: SVGProps<SVGSVGElement>) {
 }
 
 const LEARN_LINKS = [
-  { href: "/dictionary", label: "Dictionary" },
-  { href: "/grammar", label: "Grammar" },
-  { href: "/wiki", label: "Wiki" },
-  { href: "/bible", label: "Bible" },
-  { href: "/tutor", label: "Tutor" },
+  { href: "/search", label: "Dictionary" },
+  { href: "/posts/zolai-grammar-basics", label: "Grammar Guide" },
+  { href: "/getting-started", label: "Get Started" },
+  { href: "/resources", label: "Resources" },
+  { href: "/signup", label: "Full Platform →" },
+];
+
+const ABOUT_LINKS = [
+  { href: "/about", label: "About" },
+  { href: "/contact", label: "Contact" },
+  { href: "/help", label: "Help" },
+  { href: "/community", label: "Community" },
 ];
 
 interface FooterProps {
@@ -35,76 +43,80 @@ interface FooterProps {
 }
 
 export function Footer({ siteSettings = [] }: FooterProps) {
-  const getSetting = (key: string, fallback: string) =>
+  const get = (key: string, fallback: string) =>
     siteSettings.find((s) => s.key === key)?.value ?? fallback;
 
-  const siteName = getSetting("site_name", DEFAULT_SITE_NAME);
-  const siteDescription = getSetting("site_description", DEFAULT_SITE_DESCRIPTION);
-  const copyrightText = getSetting("footer_copyright_text", DEFAULT_FOOTER_COPYRIGHT_TEXT);
-  const twitterUrl = getSetting("social_twitter", "");
-  const githubUrl = getSetting("social_github", "");
+  const siteName = get("site_name", DEFAULT_SITE_NAME);
+  const siteDescription = get("site_description", DEFAULT_SITE_DESCRIPTION);
+  const copyrightText = get("footer_copyright_text", DEFAULT_FOOTER_COPYRIGHT_TEXT);
+  const twitterUrl = get("social_twitter", "");
+  const githubUrl = get("social_github", "");
 
   return (
-    <footer className="border-t bg-muted/30 mt-12">
-      <div className="container mx-auto px-4 py-6">
-        <div className="grid gap-8 md:grid-cols-3">
-          {/* Col 1: Brand */}
-          <div className="space-y-3">
-            <Link href="/" className="flex items-center gap-2 w-fit">
-              <Brain className="h-6 w-6 text-primary" />
+    <footer className="border-t bg-muted/20" role="contentinfo">
+      <div className="h-0.5 bg-gradient-to-r from-primary via-amber-400 to-green-500" aria-hidden="true" />
+      <div className="container mx-auto px-4 py-5">
+        <div className="grid gap-6 md:grid-cols-4">
+          <div className="space-y-3 md:col-span-1">
+            <Link href="/" className="flex items-center gap-2 w-fit group" aria-label={`${siteName} home`}>
+              <div className="flex items-center justify-center w-7 h-7 rounded-md bg-primary text-primary-foreground group-hover:bg-primary/90 transition-colors">
+                <Brain className="h-4 w-4" aria-hidden="true" />
+              </div>
               <span className="font-bold text-base">{siteName}</span>
             </Link>
             <p className="text-sm text-muted-foreground leading-relaxed">{siteDescription}</p>
+            <div className="flex items-center gap-3 pt-1">
+              {twitterUrl && (
+                <a href={twitterUrl} target="_blank" rel="noopener noreferrer"
+                  className="text-muted-foreground hover:text-foreground transition-colors" aria-label="Twitter / X">
+                  <TwitterIcon className="h-4 w-4" />
+                </a>
+              )}
+              {githubUrl && (
+                <a href={githubUrl} target="_blank" rel="noopener noreferrer"
+                  className="text-muted-foreground hover:text-foreground transition-colors" aria-label="GitHub">
+                  <GitHubIcon className="h-4 w-4" />
+                </a>
+              )}
+            </div>
           </div>
 
-          {/* Col 2: Learn */}
           <div className="space-y-3">
             <h3 className="font-semibold text-sm">Learn</h3>
-            <nav className="flex flex-col gap-2 text-sm">
+            <nav className="flex flex-col gap-2 text-sm" aria-label="Learn links">
               {LEARN_LINKS.map(({ href, label }) => (
-                <Link key={href} href={href} className="text-muted-foreground hover:text-foreground transition-colors">
-                  {label}
-                </Link>
+                <Link key={label} href={href} className="text-muted-foreground hover:text-foreground transition-colors">{label}</Link>
               ))}
             </nav>
           </div>
 
-          {/* Col 3: Connect */}
           <div className="space-y-3">
-            <h3 className="font-semibold text-sm">Connect</h3>
-            <div className="flex flex-col gap-2 text-sm">
-              {twitterUrl && (
-                <a
-                  href={twitterUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
-                >
-                  <TwitterIcon className="h-4 w-4" />
-                  Twitter / X
-                </a>
-              )}
-              {githubUrl && (
-                <a
-                  href={githubUrl}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="flex items-center gap-2 text-muted-foreground hover:text-foreground transition-colors"
-                >
-                  <GitHubIcon className="h-4 w-4" />
-                  GitHub
-                </a>
-              )}
-              <Link href="/about" className="text-muted-foreground hover:text-foreground transition-colors">
-                About
-              </Link>
-            </div>
+            <h3 className="font-semibold text-sm">About</h3>
+            <nav className="flex flex-col gap-2 text-sm" aria-label="About links">
+              {ABOUT_LINKS.map(({ href, label }) => (
+                <Link key={label} href={href} className="text-muted-foreground hover:text-foreground transition-colors">{label}</Link>
+              ))}
+            </nav>
+          </div>
+
+          <div className="space-y-3">
+            <SubscribeWidget
+              title="Stay Updated"
+              description="Get Zolai AI project updates."
+              source="footer"
+              className="border-0 shadow-none p-0 bg-transparent"
+            />
           </div>
         </div>
 
-        {/* Bottom bar */}
-        <div className="border-t mt-8 pt-6 text-center text-sm text-muted-foreground">
-          {copyrightText}
+        <div className="border-t mt-5 pt-4 flex flex-col sm:flex-row items-center justify-between gap-2 text-xs text-muted-foreground">
+          <span>{copyrightText}</span>
+          <div className="flex items-center gap-1.5" aria-label="Tedim Zolai ZVS">
+            <span className="w-2 h-2 rounded-full bg-primary" aria-hidden="true" />
+            <span className="w-2 h-2 rounded-full bg-amber-400" aria-hidden="true" />
+            <span className="w-2 h-2 rounded-full bg-green-500" aria-hidden="true" />
+            <span className="ml-1">Tedim Zolai (ZVS)</span>
+          </div>
         </div>
       </div>
     </footer>

@@ -111,7 +111,7 @@ const app = new Hono()
   .get('/sections/:id', async (c) => {
     const section = await prisma.curriculumSection.findUnique({
       where: { id: c.req.param('id') },
-      include: { units: { orderBy: { number: 'asc' }, select: { id: true, number: true, topic: true, xpReward: true } } },
+      select: { units: { orderBy: { number: "asc" }, select: { id: true, number: true, topic: true, xpReward: true } } },
     });
     if (!section) return notFound(c);
     return ok(c, section);
@@ -139,7 +139,7 @@ const app = new Hono()
   .get('/units/:id', async (c) => {
     const unit = await prisma.curriculumUnit.findUnique({
       where: { id: c.req.param('id') },
-      include: { subUnits: { orderBy: { number: 'asc' }, select: { id: true, number: true, title: true, type: true, xpReward: true } } },
+      select: { subUnits: { orderBy: { number: "asc" }, select: { id: true, number: true, title: true, type: true, xpReward: true } } },
     });
     if (!unit) return notFound(c);
     return ok(c, unit);
@@ -195,7 +195,7 @@ const app = new Hono()
   .get('/phonics/:id', async (c) => {
     const unit = await prisma.phonicsUnit.findUnique({
       where: { id: c.req.param('id') },
-      include: { subUnits: { orderBy: { number: 'asc' }, select: { id: true, number: true, title: true, type: true } } },
+      select: { subUnits: { orderBy: { number: "asc" }, select: { id: true, number: true, title: true, type: true } } },
     });
     if (!unit) return notFound(c);
     return ok(c, unit);

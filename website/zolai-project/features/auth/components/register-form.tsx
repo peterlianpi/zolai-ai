@@ -101,14 +101,12 @@ function RegisterFormComponent({
       // Try to send emails but don't block on failure
       try {
         await resendVerificationEmail(values.email);
-      } catch (e) {
-        console.error("[Signup] Failed to send verification email:", e);
+      } catch (_e) {
       }
 
       try {
         await sendWelcomeEmail(values.name, values.email);
-      } catch (e) {
-        console.error("[Signup] Failed to send welcome email:", e);
+      } catch (_e) {
       }
 
       toast.success(

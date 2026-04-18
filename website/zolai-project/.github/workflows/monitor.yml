@@ -1,33 +1,28 @@
-name: Monitor
+name: Monitor — Zolai
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "*/10 * * * *"   # every 10 min (GitHub minimum is 5, but 10 is more reliable)
   workflow_dispatch:
 
 jobs:
   health:
+    name: Health Check
     runs-on: ubuntu-latest
     steps:
-      - name: Check site health
+      - name: Check site
         id: check
         run: |
-          STATUS=$(curl -s -o /dev/null -w "%{http_code}" --max-time 10 \
-            "${NEXT_PUBLIC_APP_URL:-https://zolai.space}/api/cron/health?secret=${{ secrets.CRON_SECRET }}")
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" --max-time 15 \
+            "https://zolai.space/api/cron/health?secret=${{ secrets.CRON_SECRET }}")
           echo "status=$STATUS" >> $GITHUB_OUTPUT
-          echo "HTTP status: $STATUS"
+          echo "HTTP $STATUS"
           [ "$STATUS" = "200" ] || exit 1
 
-      - name: Alert on failure
+      - name: Alert down
         if: failure()
         run: |
-          MESSAGE="🚨 <b>Zolai DOWN</b>%0AHTTP ${{ steps.check.outputs.status }}%0ATime: $(date -u '+%Y-%m-%d %H:%M UTC')"
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
-            -d "chat_id=${{ secrets.TELEGRAM_CHAT_ID }}&text=${MESSAGE}&parse_mode=HTML"
-
-      - name: Alert on recovery
-        if: success()
-        run: |
-          # Only send recovery if previous run failed (GitHub doesn't track this natively,
-          # so we rely on the app's own recovery alert system via /api/cron/health)
-          echo "Site is healthy ✅"
+            -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
+            -d text="🚨 <b>Zolai DOWN</b>%0AHTTP ${{ steps.check.outputs.status }}%0A$(date -u '+%Y-%m-%d %H:%M UTC')" \
+            -d parse_mode="HTML" || true

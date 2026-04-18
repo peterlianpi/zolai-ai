@@ -49,7 +49,7 @@ async function isGuestPostingEnabled(): Promise<boolean> {
   });
 }
 
-function calculateSpamScore(data: { authorName: string; content: string; authorUrl?: string; authorIp?: string }): number {
+export function calculateSpamScore(data: { authorName: string; content: string; authorUrl?: string; authorIp?: string }): number {
   let score = 0;
   const contentLower = data.content.toLowerCase();
   const nameLower = data.authorName.toLowerCase();

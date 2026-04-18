@@ -120,7 +120,7 @@ export default async function RootLayout({
         <link rel="dns-prefetch" href={siteConfig.url} />
       </head>
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased`}
+        className={`${geistSans.variable} ${geistMono.variable} bg-background text-foreground antialiased`}
         suppressHydrationWarning
       >
         <Providers>{children}</Providers>

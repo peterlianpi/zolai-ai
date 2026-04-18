@@ -56,7 +56,7 @@ export function SecurityAlerts() {
       </CardHeader>
       <CardContent className="space-y-3">
         {unresolvedAlerts.length === 0 ? (
-          <div className="text-center py-8 text-gray-500">
+          <div className="text-center py-8 text-muted-foreground">
             No active security alerts
           </div>
         ) : (
@@ -64,7 +64,7 @@ export function SecurityAlerts() {
             <div
               key={alert.id}
               className={`rounded-lg border p-4 ${
-                alert.isRead ? 'bg-gray-50' : 'bg-white border-l-4 border-l-red-500'
+                alert.isRead ? 'bg-muted/30' : 'bg-white border-l-4 border-l-red-500'
               }`}
             >
               <div className="flex items-start justify-between gap-4">
@@ -76,8 +76,8 @@ export function SecurityAlerts() {
                       {alert.severity}
                     </Badge>
                   </div>
-                  <p className="text-sm text-gray-600">{alert.message}</p>
-                  <p className="text-xs text-gray-500">
+                  <p className="text-sm text-muted-foreground">{alert.message}</p>
+                  <p className="text-xs text-muted-foreground">
                     {new Date(alert.createdAt).toLocaleString()}
                   </p>
                 </div>
@@ -93,7 +93,7 @@ export function SecurityAlerts() {
                       <AlertDialogTitle>{alert.title}</AlertDialogTitle>
                       <AlertDialogDescription className="space-y-4">
                         <p>{alert.message}</p>
-                        <p className="text-sm text-gray-600">
+                        <p className="text-sm text-muted-foreground">
                           Was this you? If not, your account may be compromised.
                         </p>
                       </AlertDialogDescription>

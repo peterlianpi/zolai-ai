@@ -90,9 +90,8 @@ export function TwoFactorSettings() {
         // Refresh session
         await refetch();
       }
-    } catch (err) {
+    } catch (_err) {
       toast.error("Failed to disable 2FA");
-      console.error("Disable 2FA error:", err);
     } finally {
       setIsLoading(false);
     }
@@ -105,9 +104,8 @@ export function TwoFactorSettings() {
       // Note: This would need to be implemented as a server action
       // since Better Auth doesn't expose viewBackupCodes on client
       toast.info("Viewing backup codes requires password verification - feature coming soon");
-    } catch (err) {
+    } catch (_err) {
       toast.error("Failed to view backup codes");
-      console.error("View backup codes error:", err);
     } finally {
       setIsLoading(false);
     }
@@ -126,9 +124,8 @@ export function TwoFactorSettings() {
         setShowBackupCodes(true);
         toast.success("New backup codes generated");
       }
-    } catch (err) {
+    } catch (_err) {
       toast.error("Failed to generate backup codes");
-      console.error("Generate backup codes error:", err);
     } finally {
       setIsLoading(false);
     }

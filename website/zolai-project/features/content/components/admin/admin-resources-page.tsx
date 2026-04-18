@@ -142,7 +142,8 @@ export default function AdminResourcesPage({
       return res.json();
     },
     getNextPageParam: (lastPage) => {
-      const meta = lastPage?.data?.meta;
+      const typedPage = lastPage as { data: unknown[]; meta: { page: number; totalPages: number } };
+      const meta = typedPage?.meta;
       if (meta && meta.page < meta.totalPages) {
         return meta.page + 1;
       }
@@ -173,9 +174,9 @@ export default function AdminResourcesPage({
     enabled: !isPrefsLoading,
   });
 
-  const posts = tablePagination === "infinite"
-    ? infiniteData?.pages.flatMap((page) => page?.data?.posts ?? []) ?? []
-    : normalData?.data?.posts ?? [];
+  const posts = (tablePagination === "infinite"
+    ? infiniteData?.pages.flatMap((page) => (page as unknown as { data: AdminPost[] })?.data ?? []) ?? []
+    : (normalData as unknown as { data: AdminPost[] })?.data ?? []) as AdminPost[];
 
   const error = infiniteError || normalError;
   const isLoading = isPrefsLoading || (tablePagination === "infinite" ? isInfiniteLoading : isNormalLoading);

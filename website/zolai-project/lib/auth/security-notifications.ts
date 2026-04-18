@@ -5,7 +5,7 @@ import { sendEmail, buildSecurityEmailHtml } from '@/lib/email';
 
 export interface SecurityNotificationInput {
   userId?: string;
-  type: 'SUSPICIOUS_LOGIN' | 'ACCOUNT_LOCKED' | 'DEVICE_REVOKED' | 'PASSWORD_CHANGED' | 'EMAIL_CHANGED' | 'TWO_FACTOR_ENABLED' | 'TWO_FACTOR_DISABLED';
+  type: 'SUSPICIOUS_LOGIN' | 'ACCOUNT_LOCKED' | 'DEVICE_SESSION_REVOKED' | 'PASSWORD_CHANGE' | 'EMAIL_CHANGE' | 'TWO_FACTOR_ENABLED' | 'TWO_FACTOR_DISABLED';
   severity: 'LOW' | 'MEDIUM' | 'HIGH' | 'CRITICAL';
   title: string;
   message: string;
@@ -31,7 +31,7 @@ export async function notifySecurityEvent(input: SecurityNotificationInput) {
         ip: ipAddress,
         userAgent,
         severity,
-        details,
+        details: details as import('@/lib/generated/prisma').Prisma.InputJsonValue ?? undefined,
       },
     });
 
@@ -150,7 +150,7 @@ export async function notifyDeviceRevoked(userId: string, deviceName?: string) {
 
   await notifySecurityEvent({
     userId,
-    type: 'DEVICE_REVOKED',
+    type: 'DEVICE_SESSION_REVOKED',
     severity: 'MEDIUM',
     title: 'Session Revoked',
     message,
@@ -169,7 +169,7 @@ export async function notifyPasswordChanged(userId: string, ipAddress?: string) 
   
   await notifySecurityEvent({
     userId,
-    type: 'PASSWORD_CHANGED',
+    type: 'PASSWORD_CHANGE',
     severity: 'MEDIUM',
     title: 'Password Changed',
     message: 'Your password has been successfully changed.',
@@ -188,7 +188,7 @@ export async function notifyEmailChanged(userId: string, newEmail: string, ipAdd
   
   await notifySecurityEvent({
     userId,
-    type: 'EMAIL_CHANGED',
+    type: 'EMAIL_CHANGE',
     severity: 'HIGH',
     title: 'Email Address Changed',
     message: `Your email address has been changed to ${newEmail}. If you did not make this change, please contact support immediately.`,

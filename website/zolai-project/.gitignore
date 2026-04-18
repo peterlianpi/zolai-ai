@@ -1,49 +1,65 @@
-# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
-
 # dependencies
 /node_modules
-/.pnp
-.pnp.*
-.yarn/*
-!.yarn/patches
-!.yarn/plugins
-!.yarn/releases
-!.yarn/versions
-
-# testing
-/coverage
 
 # next.js
 /.next/
 /out/
-
-# production
 /build
+
+# testing
+/coverage
+/playwright-report
+/test-results
+
+# env files — never commit secrets
+.env
+.env.*
+!.env.example
+
+# sensitive exports
+ENV_KEYS_VALUES.*
+*.csv
+
+# generated
+*.tsbuildinfo
+next-env.d.ts
+/app/generated/prisma
+lib/generated/*
 
 # misc
 .DS_Store
 *.pem
-
-# debug
+*.log
 npm-debug.log*
 yarn-debug.log*
-yarn-error.log*
-.pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# deployment docs (local only)
+DEPLOYMENT*.md
+DEPLOY_NOW.md
+PRODUCTION*.md
+FINAL_*.md
+TEAM_*.md
+GEMINI*.md
+CURRICULUM_*.md
+ENV_SETUP_GUIDE.md
+ENV_KEYS_VALUES_SUMMARY.md
+TELEGRAM_MENU_COMMANDS.md
 
-.env.local
+# tool configs (local)
+.claude
+.cursor
+.kiro
+.agents
+.mcp-servers
+opencode.json
+skills-lock.json
+.audit-manifest
+
+# local scripts (not needed in repo)
+check-deployment.*
+deploy-now.sh
+verify-production.sh
+run-tests.sh
 
 # vercel
 .vercel
-
-# typescript
-*.tsbuildinfo
-next-env.d.ts
-
-/app/generated/prisma
-docs/*
-features/notifications/api/__tests__/test-specifications.md
-.env copy
-lib/generated/*
-.env

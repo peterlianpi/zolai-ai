@@ -26,9 +26,9 @@ export function useDevices() {
   const fetchDevices = async () => {
     try {
       setLoading(true);
-      const res = await client.api.auth.devices.active.$get();
+      const res = await client.api.security["device-sessions"].$get();
       if (!res.ok) throw new Error('Failed to fetch devices');
-      const data = await res.json();
+      const data = await res.json() as unknown as { success: boolean; data: { devices: Device[] } };
       setDevices(data.data.devices);
       setError(null);
     } catch (err) {
@@ -39,12 +39,9 @@ export function useDevices() {
     }
   };
 
-  const revokeDevice = async (deviceId: string, reason?: string) => {
+  const revokeDevice = async (sessionId: string, _reason?: string) => {
     try {
-      const res = await client.api.auth.devices[':id'].$post(
-        { json: { reason } },
-        { param: { id: deviceId } }
-      );
+      const res = await client.api.security["device-sessions"][":sessionId"].revoke.$post({ param: { sessionId } });
       if (!res.ok) throw new Error('Failed to revoke device');
       await fetchDevices();
       toast.success('Device revoked');
@@ -55,7 +52,7 @@ export function useDevices() {
 
   const revokeAllOthers = async () => {
     try {
-      const res = await client.api.auth.devices['revoke-all-others'].$post();
+      const res = await client.api.security["device-sessions"]["revoke-all-others"].$post();
       if (!res.ok) throw new Error('Failed to revoke sessions');
       await fetchDevices();
       toast.success('All other sessions revoked');
@@ -64,16 +61,7 @@ export function useDevices() {
     }
   };
 
-  useEffect(() => {
-    fetchDevices();
-  }, []);
+  useEffect(() => { fetchDevices(); }, []);
 
-  return {
-    devices,
-    loading,
-    error,
-    revokeDevice,
-    revokeAllOthers,
-    refetch: fetchDevices,
-  };
+  return { devices, loading, error, revokeDevice, revokeAllOthers, refetch: fetchDevices };
 }

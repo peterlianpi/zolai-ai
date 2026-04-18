@@ -92,6 +92,7 @@ export async function updateUserPreferences(preferences: {
   emailNotifications?: boolean;
   inAppNotifications?: boolean;
   tablePagination?: string;
+  telegramEnabled?: boolean;
 }) {
   const session = await auth.api.getSession({
     headers: await headers(),
@@ -110,6 +111,7 @@ export async function updateUserPreferences(preferences: {
       emailNotifications?: boolean;
       inAppNotifications?: boolean;
       tablePagination?: string;
+      telegramEnabled?: boolean;
     } = {};
 
     if (preferences.theme !== undefined) updateData.theme = preferences.theme;
@@ -123,6 +125,9 @@ export async function updateUserPreferences(preferences: {
     }
     if (preferences.tablePagination !== undefined) {
       updateData.tablePagination = preferences.tablePagination;
+    }
+    if (preferences.telegramEnabled !== undefined) {
+      updateData.telegramEnabled = preferences.telegramEnabled;
     }
 
     const updated = await prisma.userPreferences.upsert({

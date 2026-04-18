@@ -3,7 +3,7 @@ export const dynamic = "force-dynamic";
 import type { Metadata } from "next";
 import Link from "next/link";
 import { buildSiteMetadata, getSiteConfig } from "@/lib/site-config";
-import { Hero } from "@/features/home/components";
+import { PageTitle } from "@/features/home/components";
 import { getPostList } from "@/action/content";
 import { publicPostPath } from "@/lib/content-paths";
 import { FileText } from "lucide-react";
@@ -38,9 +38,9 @@ export default async function PagesPage() {
 
   return (
     <>
-      <Hero title="Pages" breadcrumb={["Home", "Pages"]} />
+      <PageTitle title="Pages" />
 
-      <section className="py-12">
+      <section className="py-8">
         <div className="container mx-auto px-4">
           {pages.length > 0 ? (
             <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
@@ -63,7 +63,7 @@ export default async function PagesPage() {
               ))}
             </div>
           ) : (
-            <div className="py-12 text-center">
+            <div className="py-8 text-center">
               <FileText className="mx-auto h-12 w-12 text-muted-foreground mb-4" />
               <p className="text-muted-foreground">No pages found.</p>
             </div>

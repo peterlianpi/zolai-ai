@@ -71,29 +71,29 @@ const createEmailTemplate = (
 export const emailTemplates = {
   passwordReset: ({ name, email, resetLink }: EmailTemplateData) => {
     const content = `<h2>Hello ${name || "there"},</h2><p>We received a request to reset your ${BRAND.name} account password. Click the button below to set a new password.</p><div style="text-align:center"><a href="${resetLink}" class="button">Reset Password</a></div><p>If you didn't request this, you can safely ignore this email.</p><p>Or copy and paste this link into your browser:</p><div class="link">${resetLink}</div><div class="warning"><p>This link expires in 1 hour for security reasons.</p></div>`;
-    return createEmailTemplate("Reset Your Password", "key", content, `Reset your ${BRAND.name} password`, `This email was sent to ${email}`);
+    return createEmailTemplate("Reset Your Password", "🔑", content, `Reset your ${BRAND.name} password`, `This email was sent to ${email}`);
   },
   emailVerification: ({ name, email, verificationLink }: EmailTemplateData) => {
     const content = `<h2>Welcome${name ? `, ${name}` : ""}!</h2><p>Thank you for joining ${BRAND.name} — the Zomi people's AI Second Brain for preserving and teaching the Tedim Zolai language.</p><p>Please verify your email address to activate your account.</p><div style="text-align:center"><a href="${verificationLink}" class="button">Verify Email Address</a></div><p>Or copy and paste this link:</p><div class="link">${verificationLink}</div><p>Once verified, you'll have access to the language tutor, Bible corpus, linguistics wiki, and training dashboard.</p>`;
-    return createEmailTemplate("Verify Your Email", "check-circle", content, `Verify your ${BRAND.name} account`, `This email was sent to ${email}`);
+    return createEmailTemplate("Verify Your Email", "✅", content, `Verify your ${BRAND.name} account`, `This email was sent to ${email}`);
   },
   welcome: ({ name, email }: EmailTemplateData) => {
     const content = `<h2>Welcome to ${BRAND.name}, ${name}!</h2><p>We're excited to have you on board. Your account has been created successfully.</p><p>Here's what you can do:</p><ul style="margin:16px 0;padding-left:20px"><li>Practice Tedim Zolai with the AI language tutor (A1–C2)</li><li>Browse the full Bible parallel corpus</li><li>Explore the linguistics wiki</li><li>Track AI training runs and dataset progress</li></ul><p>Start at <a href="${BRAND.url}" style="color:${BRAND.primaryColor};text-decoration:none">${BRAND.url}</a></p>`;
-    return createEmailTemplate(`Welcome to ${BRAND.name}!`, "wave", content, `Welcome to ${BRAND.name}!`, `This email was sent to ${email}`);
+    return createEmailTemplate(`Welcome to ${BRAND.name}!`, "👋", content, `Welcome to ${BRAND.name}!`, `This email was sent to ${email}`);
   },
   passwordChanged: ({ name, email }: EmailTemplateData) => {
     const content = `<h2>Password Changed Successfully</h2><p>Hi ${name || "there"},</p><p>This is a confirmation that your ${BRAND.name} account password was changed successfully.</p><div class="warning"><p>If you didn't make this change, please <a href="${BRAND.url}/contact" style="color:${BRAND.primaryDark};text-decoration:none">contact us</a> immediately to secure your account.</p></div>`;
-    return createEmailTemplate("Password Changed", "shield-check", content, `Your ${BRAND.name} password was changed`, `This email was sent to ${email}`);
+    return createEmailTemplate("Password Changed", "🔒", content, `Your ${BRAND.name} password was changed`, `This email was sent to ${email}`);
   },
   organizationInvitation: ({ organizationName, inviterName, inviteLink, role }: OrganizationInvitationData) => {
     const content = `<h2>You're invited to join ${organizationName}</h2><p>${inviterName} has invited you to join the organization <strong>${organizationName}</strong> as a <strong>${role}</strong>.</p><div style="text-align:center"><a href="${inviteLink}" class="button">Accept Invitation</a></div><p>Or copy and paste this link into your browser:</p><div class="link">${inviteLink}</div><div class="warning"><p>This invitation expires in 7 days. If you don't have an account, one will be created for you when you accept.</p></div>`;
-    return createEmailTemplate("Organization Invitation", "users", content, `Join ${organizationName} on ${BRAND.name}`, "You received this invitation to join an organization.");
+    return createEmailTemplate("Organization Invitation", "🤝", content, `Join ${organizationName} on ${BRAND.name}`, "You received this invitation to join an organization.");
   },
 };
 
 export function generateTwoFactorOtpEmail({ name, email, otp }: EmailTemplateData & { otp: string }) {
   const content = `<h2>Your Verification Code</h2><p>Hi ${name || email.split("@")[0]},</p><p>Use the code below to verify your identity:</p><div class="code" style="font-size:32px;letter-spacing:8px;">${otp}</div><div class="warning"><p>This code expires in 10 minutes. Don't share it with anyone.</p></div><p>If you didn't request this code, please ignore this email.</p>`;
-  return createEmailTemplate("Your Verification Code", "shield", content, `Your ${BRAND.shortName} verification code: ${otp}`, `This email was sent to ${email}`);
+  return createEmailTemplate("Your Verification Code", "🛡️", content, `Your ${BRAND.shortName} verification code: ${otp}`, `This email was sent to ${email}`);
 }
 
 export function generateNewsletterEmail({ email, title, content: newsletterContent }: { name?: string; email: string; title: string; content: string }) {

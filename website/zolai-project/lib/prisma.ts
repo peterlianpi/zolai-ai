@@ -67,14 +67,19 @@ export const prisma = (() => {
     const isNeon = buildDatabaseUrl().includes("neon.tech");
     const pool = new Pool({
       connectionString: buildDatabaseUrl(),
-      max: isDevelopment ? 5 : isNeon ? 10 : 20, // Neon free tier: keep low
+      max: isDevelopment ? 5 : isNeon ? 10 : 20,
       min: 0,
-      idleTimeoutMillis: isNeon ? 10000 : (isProduction ? 30000 : 5000),
-      connectionTimeoutMillis: 10000,
+      idleTimeoutMillis: isNeon ? 30000 : (isProduction ? 60000 : 5000),
+      connectionTimeoutMillis: 15000,
+      keepAlive: true,
+      keepAliveInitialDelayMillis: 10000,
       allowExitOnIdle: true,
     });
 
-    pool.on("error", (err) => console.error("PostgreSQL pool error:", err));
+    pool.on("error", (err) => {
+      console.error("PostgreSQL pool error:", err.message);
+      // Don't crash on connection errors — pool will reconnect
+    });
     if (isDevelopment) {
       console.log("Database: PostgreSQL connected");
     }

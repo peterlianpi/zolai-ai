@@ -149,8 +149,7 @@ const roleManagement = new Hono()
         const updatedUser = await prisma.user.update({
           where: { id: userId },
           data: {
-            role,
-            // Track when role was last changed
+            role: role as import("@/lib/generated/prisma").UserRole,
             updatedAt: new Date(),
           },
         });
@@ -233,7 +232,7 @@ const roleManagement = new Hono()
             id: { in: userIds },
           },
           data: {
-            role,
+            role: role as "USER" | "EDITOR" | "ADMIN" | "SUPER_ADMIN",
             updatedAt: new Date(),
           },
         });

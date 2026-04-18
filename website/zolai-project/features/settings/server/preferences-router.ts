@@ -25,15 +25,7 @@ const preferences = new Hono()
   .get("/", async (c) => {
     const userId = await getSessionUserId(c);
     if (!userId) {
-      // Return defaults for unauthenticated users (public pages call this)
-      return ok(c, {
-        theme: "system",
-        language: "en",
-        timezone: "UTC",
-        emailNotifications: true,
-        inAppNotifications: true,
-        tablePagination: "infinite",
-      });
+      return unauthorized(c, "Authentication required");
     }
 
     const userPrefs = await prisma.userPreferences.findUnique({

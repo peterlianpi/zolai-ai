@@ -117,7 +117,7 @@ const revisions = new Hono()
 
     const revision = await prisma.revision.findUnique({
       where: { id },
-      include: { post: true },
+      select: { id: true, title: true, contentHtml: true, contentRaw: true, excerpt: true, slug: true, status: true, isAutoDraft: true, authorId: true, createdAt: true },
     });
 
     if (!revision) {

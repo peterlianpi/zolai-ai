@@ -20,3 +20,4 @@ export {
 } from "./page-template";
 export { UnderDevelopmentBanner } from "./under-development-banner";
 export { HomePage } from "./home-page";
+export { PageTitle } from "./page-title";

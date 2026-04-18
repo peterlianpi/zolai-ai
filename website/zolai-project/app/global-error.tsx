@@ -16,7 +16,7 @@ export default function GlobalError({
 
   return (
     <html>
-      <body>
+      <body className="bg-background text-foreground">
         <PublicStatusPage
           code="500"
           title="Server Error"

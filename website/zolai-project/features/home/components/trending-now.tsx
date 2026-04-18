@@ -41,7 +41,7 @@ function TrendingPostsList({ trendingPosts }: { trendingPosts: HomePostSummary[]
                 unoptimized={Boolean(post.featuredMedia?.url?.startsWith("http"))}
               />
               <div className="absolute bottom-0 left-0 right-0 bg-black/60 py-1 px-3">
-                <span className="text-xs text-white">
+                <span className="text-xs text-white/90">
                   {formatDate(post.publishedAt)}
                 </span>
               </div>

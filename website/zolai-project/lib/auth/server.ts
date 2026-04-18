@@ -4,7 +4,19 @@ import { auth } from "@/lib/auth";
 
 export const getServerSession = async () => {
   try {
-    return await auth.api.getSession({ headers: await headers() });
+    const h = await headers();
+    // Hono URL-encodes cookie values but Better Auth doesn't decode them.
+    // Decode the cookie header before passing to auth.api.getSession().
+    const rawCookie = h.get("cookie");
+    if (rawCookie) {
+      const decoded = rawCookie.replace(/([^=]+)=([^;]*)/g, (_, name, value) => {
+        try { return `${name}=${decodeURIComponent(value)}`; } catch { return `${name}=${value}`; }
+      });
+      const patchedHeaders = new Headers(h);
+      patchedHeaders.set("cookie", decoded);
+      return await auth.api.getSession({ headers: patchedHeaders });
+    }
+    return await auth.api.getSession({ headers: h });
   } catch {
     return null;
   }

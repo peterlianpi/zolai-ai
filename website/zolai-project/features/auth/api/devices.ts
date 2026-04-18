@@ -72,7 +72,7 @@ const deviceRouter = new Hono()
     if (!session?.user) return unauthorized(c, 'Authentication required');
 
     try {
-      const currentSessionId = session.id;
+      const currentSessionId = session.session.id;
       
       // Revoke all other active sessions
       await prisma.loginHistory.updateMany({

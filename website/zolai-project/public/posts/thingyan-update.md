@@ -1,0 +1,17 @@
+# Zomi AI: The Zolai Second Brain — Development Updates
+
+## Post 1: The Spirit of Restoration – Our Maha Thingyan Progress Report
+As the water festival of Maha Thingyan washed away the dust of the old year, our team at Zomi AI used this time of renewal to focus on the restoration of our digital heritage. Maha Thingyan is a time for cleansing and preparation for a new beginning, and we mirrored this spirit by embarking on a massive structural overhaul of the "Zolai Second Brain." 
+
+For the past week, while many were out celebrating, our data pipelines were working tirelessly. We completed a comprehensive reorganization of our master dataset, moving from a scattered collection of raw scrapes to a pristine, production-ready structure. We have successfully unified our Bible corpus, consolidated over 18 disparate synthetic datasets into one cohesive training source, and standardized our dictionary entries to meet the rigorous Tedim ZVS 2018 normative standards. 
+
+This cleanup was not merely technical; it was a necessary act of preservation. By removing duplicates and standardizing orthography—such as ensuring compounds like `nasep` and `leitung` are correctly joined—we are ensuring that Zolai is not just preserved in text, but structured for deep learning. We have replaced legacy, non-standard vocabulary with the authentic Tedim forms, moving closer to a model that speaks with the heart of our land. This period of "digital cleansing" has laid the foundation for the upcoming training phase, where we will move from data collection to active intelligence. We are emerging from this festival season cleaner, stronger, and more prepared than ever to lead the Zolai language into the AI era.
+
+## Post 2: Building the Future – Our Roadmap to Zolai NLP Dominance
+The holiday break has officially come to an end, and as the new year begins, Zomi AI is transitioning from infrastructure development to the scaling phase of our roadmap. Having successfully reorganized our data and solidified our linguistic foundations, our focus now shifts to "Intelligence Synthesis."
+
+Our roadmap for the coming quarter is ambitious but clearly defined. First, we are finalizing the "Training Ready" snapshots. These are high-purity, audited datasets that serve as the bedrock for our upcoming LLM fine-tuning sessions. We are moving away from raw, unverified data toward a pipeline that prioritizes quality over quantity, ensuring every sentence used for training adheres to the SOV grammar and Tedim vocabulary mandates established in our ZVS guide. 
+
+Second, we are deploying our specialized AI agents, which you will soon see integrated into our web platform. These agents—ranging from our linguistic grammar checkers to our Bible vocabulary builders—are designed to interact with the Zolai language at a native level. By utilizing our newly processed parallel datasets, these agents will provide real-time feedback to users, effectively becoming tutors for the next generation of Zolai speakers. 
+
+Finally, we are preparing for a full-scale model training deployment. This involves optimizing our infrastructure for the Kaggle platform and setting up continuous evaluation benchmarks. We aren't just building an app; we are building an ecosystem. Whether you are a researcher, a student, or a lover of Zolai, the roadmap ahead is designed to make the language accessible, accurate, and powerful. Stay tuned as we bridge the gap between traditional heritage and modern machine learning, one token at a time.

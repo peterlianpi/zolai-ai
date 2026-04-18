@@ -28,10 +28,8 @@ export function useAvailableModels(provider: string) {
     queryKey: ["models", provider],
     queryFn: async () => {
       try {
-        const res = await client.api.chat.models[":provider"].$get({ 
-          param: { provider } 
-        });
-        const data = await res.json();
+      const res = await client.api.chat.models[":provider"].$get({ param: { provider } });
+        const data = await res.json() as { success: boolean; data: { models: { id: string; name: string }[] } };
         if (data.success && data.data?.models) {
           return { models: data.data.models };
         }
@@ -75,7 +73,7 @@ export function useChat() {
         json: { ...data, messages } 
       });
       if (!res.ok) {
-        const error = await res.json();
+        const error = await res.json() as unknown as { error?: string };
         throw new Error(error.error || 'Chat failed');
       }
       return await res.json();

@@ -11,6 +11,32 @@ const updateProfileSchema = z.object({
 });
 
 const profile = new Hono()
+  // GET /api/profile - Get user profile
+  .get("/", async (c) => {
+    const userId = await getSessionUserId(c);
+    if (!userId) {
+      return unauthorized(c, "Not authenticated");
+    }
+
+    const user = await prisma.user.findUnique({
+      where: { id: userId },
+      select: {
+        id: true,
+        name: true,
+        email: true,
+        emailVerified: true,
+        image: true,
+        role: true,
+        createdAt: true,
+      },
+    });
+
+    if (!user) {
+      return error(c, "User not found", "USER_NOT_FOUND", 404);
+    }
+
+    return ok(c, user);
+  })
   // PATCH /api/profile - Update user profile
   .patch(
     "/",

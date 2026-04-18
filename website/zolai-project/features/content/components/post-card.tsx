@@ -1,7 +1,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { format } from "date-fns";
-import { FileText, Newspaper, Star } from "lucide-react";
+import { FileText, Newspaper, Star, Lock } from "lucide-react";
 
 import {
   Card,
@@ -24,6 +24,7 @@ export interface PostCardProps {
   locale: string;
   isFeatured?: boolean;
   imageUrl?: string | null;
+  isPrivate?: boolean;
 }
 
 const typeConfig: Record<PostType, { label: string; icon: typeof FileText }> = {
@@ -45,6 +46,7 @@ export function PostCard({
   locale,
   isFeatured = false,
   imageUrl,
+  isPrivate = false,
 }: PostCardProps) {
   const config = typeConfig[type];
   const href = getPostHref(type, slug, locale);
@@ -71,12 +73,15 @@ export function PostCard({
             </div>
           )}
           {isFeatured && (
-            <Badge
-              variant="default"
-              className="absolute top-2 right-2 gap-1"
-            >
+            <Badge variant="default" className="absolute top-2 right-2 gap-1">
               <Star className="size-3" />
               Featured
+            </Badge>
+          )}
+          {isPrivate && (
+            <Badge variant="secondary" className="absolute top-2 left-2 gap-1 bg-amber-100 text-amber-800 dark:bg-amber-900/30 dark:text-amber-400 border-amber-200 dark:border-amber-800">
+              <Lock className="size-3" />
+              Members Only
             </Badge>
           )}
         </div>
@@ -108,11 +113,8 @@ export function PostCard({
         )}
       </CardContent>
       <CardFooter className="pt-0">
-        <Link
-          href={href}
-          className="text-sm text-primary hover:underline"
-        >
-          Read more →
+        <Link href={href} className="text-sm text-primary hover:underline flex items-center gap-1">
+          {isPrivate ? <><Lock className="size-3" /> Sign in to read</> : "Read more →"}
         </Link>
       </CardFooter>
     </Card>

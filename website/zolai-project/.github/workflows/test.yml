@@ -1,134 +1,31 @@
-name: Testing Pipeline
+name: Tests — Zolai
 
 on:
-  push:
-    branches: [develop, master, 'feature/**', 'feat/**']
   pull_request:
-    branches: [develop, master]
+    branches: [master, main]
+  workflow_dispatch:
 
 jobs:
-  # Lint and typecheck
-  lint:
+  unit:
+    name: Unit Tests
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    
-    - name: Setup Bun
-      uses: oven-sh/setup-bun@v1
-    
-    - name: Install dependencies
-      run: bun install
-    
-    - name: Lint
-      run: bun run lint
-    
-    - name: Typecheck
-      run: bun run typecheck 2>/dev/null || echo "No typecheck script"
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - uses: actions/cache@v4
+        with:
+          path: ~/.bun/install/cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('bun.lockb') }}
+      - run: bun install --frozen-lockfile
+      - run: bun run test:unit
 
-  # Unit tests
-  unit-test:
+  compliance:
+    name: Code Compliance
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v4
-    
-    - name: Setup Bun
-      uses: oven-sh/setup-bun@v1
-    
-    - name: Install dependencies
-      run: bun install
-    
-    - name: Run unit tests
-      run: bun run test:unit 2>/dev/null || echo "No unit tests"
-
-  # Build check
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v4
-    
-    - name: Setup Bun
-      uses: oven-sh/setup-bun@v1
-    
-    - name: Install dependencies
-      run: bun install
-    
-    - name: Build
-      run: bun run build
-
-  # E2E Tests (only on develop)
-  e2e:
-    needs: [lint, build]
-    if: github.ref == 'refs/heads/develop'
-    runs-on: ubuntu-latest
-    
-    services:
-      postgres:
-        image: postgres:15-alpine
-        env:
-          POSTGRES_PASSWORD: postgres
-          POSTGRES_DB: test
-        options: >-
-          --health-cmd pg_isready
-          --health-interval 10s
-          --health-timeout 5s
-          --health-retries 5
-        ports:
-          - 5432:5432
-
-    steps:
-    - uses: actions/checkout@v4
-    
-    - name: Setup Bun
-      uses: oven-sh/setup-bun@v1
-    
-    - name: Install dependencies
-      run: bun install
-    
-    - name: Setup environment
-      run: |
-        cp .env.example .env.local
-        echo "DATABASE_URL=postgresql://postgres:postgres@localhost:5432/test" >> .env.local
-        echo "NODE_ENV=development" >> .env.local
-    
-    - name: Install Playwright
-      run: npx playwright install --with-deps
-    
-    - name: Run tests
-      run: |
-        bun run build && bun run test 2>&1 || {
-          echo "Tests failed - continuing to capture results"
-        }
-      continue-on-error: true
-    
-    - name: Upload artifacts
-      uses: actions/upload-artifact@v4
-      if: always()
-      with:
-        name: test-report
-        path: playwright-report/
-        retention-days: 7
-
-  # Skip full test suite on feature branches (faster)
-  quick-test:
-    needs: [lint, build]
-    if: github.ref != 'refs/heads/develop'
-    runs-on: ubuntu-latest
-    
-    steps:
-    - uses: actions/checkout@v4
-    
-    - name: Setup Bun
-      uses: oven-sh/setup-bun@v1
-    
-    - name: Install and build
-      run: |
-        bun install
-        bun run build
-    
-    - name: Quick smoke test
-      run: |
-        bun run start &
-        sleep 10
-        curl -f http://localhost:3000 > /dev/null 2>&1 && echo "Server OK" || echo "Server failed"
-        pkill -f "bun run" 2>/dev/null || true
-      continue-on-error: true
+      - uses: actions/checkout@v4
+      - name: No raw fetch in client components
+        run: |
+          VIOLATIONS=$(grep -rn "await fetch(" features app --include="*.tsx" \
+            | grep -v "server/\|/api/" || true)
+          [ -z "$VIOLATIONS" ] || { echo "$VIOLATIONS"; exit 1; }

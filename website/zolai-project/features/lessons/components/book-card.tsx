@@ -35,6 +35,10 @@ export function BookCard({ plan, progressMap, locked = false }: Props) {
   const totalXp = allLessons.reduce((s, l) => s + l.xpReward, 0);
   const ctaLabel = pct === 0 ? "Start Book" : pct === 100 ? "Review" : "Continue";
 
+  // Go directly to the next incomplete lesson (or first lesson for review)
+  const nextLesson = allLessons.find(l => !["COMPLETE","MASTERED"].includes(progressMap[l.id]?.status ?? "")) ?? allLessons[0];
+  const ctaHref = nextLesson ? `/learn/${plan.slug}/${nextLesson.id}` : `/learn/${plan.slug}`;
+
   return (
     <div className={`group rounded-2xl border bg-card overflow-hidden transition-all ${locked ? "opacity-40 pointer-events-none" : "hover:shadow-lg hover:-translate-y-0.5"}`}>
       {/* Book spine colour strip */}
@@ -100,7 +104,7 @@ export function BookCard({ plan, progressMap, locked = false }: Props) {
 
         {/* CTA */}
         <Link
-          href={`/learn/${plan.slug}`}
+          href={ctaHref}
           className={`flex items-center justify-center gap-2 py-2.5 rounded-xl text-sm font-semibold transition-colors ${meta.color} text-white hover:opacity-90`}
         >
           <BookOpen className="w-4 h-4" />

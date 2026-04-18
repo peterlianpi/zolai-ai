@@ -17,6 +17,7 @@ const lockoutRouter = new Hono()
       const user = await prisma.user.findUnique({
         where: { id: userId },
         select: {
+          email: true,
           accountLocked: true,
           lockoutExpires: true,
           failedLoginAttempts: true,

@@ -120,7 +120,6 @@ const upload = new Hono().use(adminMiddleware)
       size: uploadBuffer.length,
     });
 
-    console.log("[Upload] Upload successful:", result.url);
 
     const mediaRecord = await prisma.media.create({
       data: {
@@ -198,7 +197,7 @@ const upload = new Hono().use(adminMiddleware)
         });
 
         results.push({ ...result, id: mediaRecord.id });
-      } catch (err) {
+      } catch (_err) {
         errors.push({
           fileName: file.name,
           error: err instanceof Error ? err.message : "Upload failed",
@@ -239,8 +238,7 @@ const upload = new Hono().use(adminMiddleware)
       if (existing.filePath) {
         await deleteMedia(existing.filePath);
       }
-    } catch (err) {
-      console.error("[Upload] Failed to delete from provider:", err);
+    } catch (_err) {
     }
 
     await prisma.media.delete({ where: { id } });

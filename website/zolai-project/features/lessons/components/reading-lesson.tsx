@@ -109,10 +109,10 @@ export function ReadingLesson({ data, onComplete }: Props) {
       )}
 
       <div className="space-y-3">
-        {data.sentences.map((s, i) => <SentenceRow key={i} s={s} idx={i} />)}
+        {(data.sentences ?? []).map((s, i) => <SentenceRow key={i} s={s} idx={i} />)}
       </div>
 
-      {data.vocabulary.length > 0 && (
+      {(data.vocabulary?.length ?? 0) > 0 && (
         <div className="border rounded-xl overflow-hidden">
           <button
             onClick={() => setShowVocab(o => !o)}

@@ -7,7 +7,7 @@ import { format } from "date-fns";
 import { buildSiteMetadata, getSiteConfig } from "@/lib/site-config";
 import prisma from "@/lib/prisma";
 import { sanitizeContentHtml } from "@/lib/sanitize";
-import { Hero, RelatedPosts, PageTemplateClass, ContentClass, SidebarClass, resolveTemplateKey } from "@/features/home/components";
+import { PageTitle, RelatedPosts, PageTemplateClass, ContentClass, SidebarClass, resolveTemplateKey } from "@/features/home/components";
 import { publicPostPath } from "@/lib/content-paths";
 import { localeFromSearchParams, localePrefix, type LocaleCode } from "@/lib/i18n/locales";
 import { safeDbQuery } from "@/lib/server/safe-db";
@@ -382,7 +382,7 @@ export default async function NewsArticlePage({ params, searchParams }: NewsArti
       <>
         <JsonLdScript data={articleJsonLd} />
         <JsonLdScript data={breadcrumbJsonLd} />
-        <Hero title={post.title} breadcrumb={["Home", "News", post.title]} />
+        <PageTitle title={post.title} />
         <article className="container mx-auto px-4 py-8">
           <div className={PageTemplateClass(template)}>
             <div className={contentClass}>
@@ -398,7 +398,7 @@ export default async function NewsArticlePage({ params, searchParams }: NewsArti
     <>
       <JsonLdScript data={articleJsonLd} />
       <JsonLdScript data={breadcrumbJsonLd} />
-      <Hero title={post.title} breadcrumb={["Home", "News", post.title]} />
+      <PageTitle title={post.title} />
 
       <article className="container mx-auto px-4 py-8">
         <div className={PageTemplateClass(template)}>

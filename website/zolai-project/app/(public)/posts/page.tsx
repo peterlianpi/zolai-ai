@@ -2,7 +2,7 @@ export const revalidate = 3600;
 export const dynamic = "force-dynamic";
 import type { Metadata } from "next";
 import { buildSiteMetadata, getSiteConfig } from "@/lib/site-config";
-import { Hero } from "@/features/home/components";
+import { PageTitle } from "@/features/home/components";
 import { PostCard } from "@/features/content/components/post-card";
 import { getPostList } from "@/action/content";
 import { PaginationWithParams } from "@/components/ui/pagination";
@@ -41,21 +41,34 @@ export default async function PostsPage({
     page,
     limit: POSTS_PER_PAGE,
     type: "POST",
+    status: "PUBLISHED",
     categorySlug: params.category,
     tagSlug: params.tag,
   });
-  const { posts, totalPages } = result;
+  // Also fetch private posts to show in listing with members badge
+  const privateResult = await getPostList({
+    page,
+    limit: POSTS_PER_PAGE,
+    type: "POST",
+    status: "PRIVATE" as never,
+    categorySlug: params.category,
+    tagSlug: params.tag,
+  });
+  const allPosts = [...result.posts, ...privateResult.posts].sort(
+    (a, b) => (b.publishedAt?.getTime() ?? 0) - (a.publishedAt?.getTime() ?? 0)
+  );
+  const { totalPages } = result;
 
   return (
     <>
-      <Hero title="Posts" breadcrumb={["Home", "Posts"]} />
+      <PageTitle title="Posts" className="max-w-6xl" />
 
-      <section className="py-12">
-        <div className="container mx-auto px-4">
-          {posts.length > 0 ? (
+      <section className="py-8">
+        <div className="container mx-auto px-4 max-w-6xl">
+          {allPosts.length > 0 ? (
             <>
               <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
-                {posts.map((post) => (
+                {allPosts.map((post) => (
                   <PostCard
                     key={post.id}
                     title={post.title}
@@ -66,6 +79,7 @@ export default async function PostsPage({
                     locale={post.locale}
                     isFeatured={post.isFeatured}
                     imageUrl={post.featuredMedia?.url ?? null}
+                    isPrivate={post.status === "PRIVATE"}
                   />
                 ))}
               </div>
@@ -83,7 +97,7 @@ export default async function PostsPage({
               )}
             </>
           ) : (
-            <div className="text-center py-12 text-muted-foreground">
+            <div className="text-center py-8 text-muted-foreground">
               No posts found.
             </div>
           )}

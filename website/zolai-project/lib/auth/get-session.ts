@@ -16,7 +16,7 @@ import {
   AuthenticationError, 
   AuthorizationError
 } from "./errors";
-import { isAdminRole, isSuperAdminRole } from "./roles";
+import { isAdminRole, isSuperAdmin as isSuperAdminRole } from "./roles";
 
 /**
  * Get session from Next.js server context (headers)

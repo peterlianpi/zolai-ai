@@ -78,13 +78,13 @@ export function AdminRoleManagementPage() {
   const { isLoading: isPrefsLoading } = useTablePagination();
   const [search, setSearch] = useState("");
   const [selectedIds, setSelectedIds] = useState<Set<string>>(new Set());
-  const [bulkRole, setBulkRole] = useState<RoleOption>("CONTRIBUTOR");
+  const [bulkRole, setBulkRole] = useState<RoleOption>("contributor");
   const [bulkReason, setBulkReason] = useState("");
   const [bulkOpen, setBulkOpen] = useState(false);
   const [roleEdit, setRoleEdit] = useState<RoleEditState>({
     open: false,
     user: null,
-    role: "CONTRIBUTOR",
+    role: "contributor",
     reason: "",
   });
 
@@ -104,13 +104,14 @@ export function AdminRoleManagementPage() {
   const updateUserRoleMutation = useUpdateUserRole();
   const bulkUpdateMutation = useBulkUpdateUserRoles();
 
-  const users = usersQuery.data?.data.users ?? [];
+  const users = (usersQuery.data as unknown as { success: boolean; data: { id: string; name: string; email: string; emailVerified: boolean; createdAt: string; role: string; banned: boolean | null }[] } | undefined)?.data ?? [];
+  const metricsData = metricsQuery.data?.data;
   const roleDistribution = useMemo(
-    () => metricsQuery.data?.data.roleDistribution ?? {},
-    [metricsQuery.data?.data.roleDistribution],
+    () => metricsData?.roleDistribution ?? {},
+    [metricsData],
   );
-  const recentChanges = metricsQuery.data?.data.recentRoleChanges ?? [];
-  const roleChangesLast30Days = metricsQuery.data?.data.roleChangesLast30Days ?? 0;
+  const recentChanges = metricsData?.recentRoleChanges ?? [];
+  const roleChangesLast30Days = metricsData?.roleChangesLast30Days ?? 0;
 
   const allSelected = users.length > 0 && users.every((user) => selectedIds.has(user.id));
   const selectedCount = selectedIds.size;
@@ -142,7 +143,7 @@ export function AdminRoleManagementPage() {
   function openRoleEdit(user: AdminUser) {
     const userRole = ROLE_OPTIONS.includes(user.role as RoleOption)
       ? (user.role as RoleOption)
-      : "CONTRIBUTOR";
+      : "contributor";
     setRoleEdit({ open: true, user, role: userRole, reason: "" });
   }
 
@@ -154,7 +155,7 @@ export function AdminRoleManagementPage() {
       reason: roleEdit.reason.trim() || undefined,
     };
     await updateUserRoleMutation.mutateAsync(payload);
-    setRoleEdit({ open: false, user: null, role: "CONTRIBUTOR", reason: "" });
+    setRoleEdit({ open: false, user: null, role: "contributor", reason: "" });
   }
 
   async function submitBulkUpdate() {
@@ -418,13 +419,10 @@ export function AdminRoleManagementPage() {
               {recentChanges.map((change) => (
                 <div key={change.id} className="flex flex-col justify-between gap-2 rounded-md border p-3 sm:flex-row sm:items-center">
                   <div className="space-y-1">
-                    <div className="text-sm font-medium">{change.details}</div>
-                    <div className="text-xs text-muted-foreground">
-                      by {change.changedBy?.name || "Unknown"}
-                    </div>
+                    <div className="text-sm font-medium">{change.userId}: {change.oldRole} → {change.newRole}</div>
                   </div>
                   <div className="text-xs text-muted-foreground">
-                    {new Date(change.timestamp).toLocaleString()}
+                    {new Date(change.changedAt).toLocaleString()}
                   </div>
                 </div>
               ))}
@@ -501,7 +499,7 @@ export function AdminRoleManagementPage() {
                 setRoleEdit({
                   open: false,
                   user: null,
-                  role: "CONTRIBUTOR",
+                  role: "contributor",
                   reason: "",
                 })
               }

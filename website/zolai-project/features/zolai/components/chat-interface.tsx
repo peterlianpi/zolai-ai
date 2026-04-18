@@ -51,7 +51,10 @@ export function ChatInterface() {
 
   const loadSessions = useCallback(async () => {
     const res = await client.api.chat.sessions.$get();
-    if (res.ok) setSessions(await res.json());
+    if (res.ok) {
+      const data = await res.json() as { success: boolean; data: Session[] };
+      setSessions(data.data ?? []);
+    }
   }, []);
 
   useEffect(() => { loadSessions(); }, [loadSessions]);
@@ -66,10 +69,10 @@ export function ChatInterface() {
     setStreamingText("");
     try {
       const res = await client.api.chat.$post({ json: { messages: next, level, mode, tutor: false } });
-      const data = await res.json();
-      if (!res.ok) throw new Error((data as { error?: string }).error ?? `Error ${res.status}`);
+      const data = await res.json() as unknown as { reply: string; sessionId?: string; error?: string };
+      if (!res.ok) throw new Error(data.error ?? `Error ${res.status}`);
       // Simulate streaming
-      const words = (data as { reply: string; sessionId?: string }).reply.split(" ");
+      const words = data.reply.split(" ");
       setLoading(false);
       let current = "";
       for (let i = 0; i < words.length; i++) {
@@ -77,9 +80,9 @@ export function ChatInterface() {
         setStreamingText(current);
         await new Promise(r => setTimeout(r, 40 + Math.random() * 60));
       }
-      setMessages([...next, { role: "assistant", content: (data as { reply: string }).reply }]);
+      setMessages([...next, { role: "assistant", content: data.reply }]);
       setStreamingText("");
-      const sid = (data as { sessionId?: string }).sessionId;
+      const sid = data.sessionId;
       if (sid && !sessionId) { setSessionId(sid); loadSessions(); }
     } catch (e) {
       setMessages([...next, { role: "assistant", content: `Error: ${e instanceof Error ? e.message : "Chat failed"}` }]);
@@ -152,7 +155,7 @@ export function ChatInterface() {
             <Select value={model} onValueChange={setModel} disabled={modelsLoading}>
               <SelectTrigger className="w-36 h-8 text-xs"><SelectValue placeholder={modelsLoading ? "Loading…" : "Model"} /></SelectTrigger>
               <SelectContent>
-                {modelsData?.models?.map(m => <SelectItem key={m.id} value={m.id} className="text-xs">{m.name}</SelectItem>)}
+                {modelsData?.models?.map((m: { id: string; name: string }) => <SelectItem key={m.id} value={m.id} className="text-xs">{m.name}</SelectItem>)}
               </SelectContent>
             </Select>
           </div>

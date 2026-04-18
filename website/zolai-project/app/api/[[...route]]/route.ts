@@ -5,6 +5,7 @@ import admin from "@/features/admin/server/router";
 import checkRole from "@/features/auth/server/check-role";
 import checkVerification from "@/features/auth/server/check-verification";
 import cookieConsent from "@/features/security/server/cookie-consent-router";
+import csrf from "@/features/security/server/csrf-router";
 import health from "./health";
 import landing from "@/features/home/server/landing-router";
 import preferences from "@/features/settings/server/preferences-router";
@@ -39,12 +40,15 @@ import inboundEmail from "@/features/inbound-email/api";
 import telegram from "@/features/telegram/api";
 import curriculum from "@/features/curriculum/api";
 import support from "@/features/support/api";
+import apiKeys from "@/features/api-keys/server/router";
 
 import { rateLimiter } from "@/lib/rate-limit";
 import { csrfMiddleware } from "@/lib/auth/csrf";
+import { apiKeyMiddleware } from "@/lib/auth/api-key-guard";
 
 const app = new Hono().basePath("/api");
 app.use("*", rateLimiter());
+app.use("*", apiKeyMiddleware);
 app.use("*", csrfMiddleware);
 
 export const GET = handle(app);
@@ -57,11 +61,13 @@ export const OPTIONS = handle(app);
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
 const routes = app
   .route("/admin", admin)
+  .route("/api-keys", apiKeys)
   .route("/check-role", checkRole)
   .route("/check-verification", checkVerification)
   .route("/comments", comments)
   .route("/content", content)
   .route("/cookie-consent", cookieConsent)
+  .route("/csrf-token", csrf)
   .route("/content-submission", contentSubmission)
   .route("/forms", forms)
   .route("/health", health)
@@ -93,6 +99,6 @@ const routes = app
   .route("/inbound-email", inboundEmail)
   .route("/telegram", telegram)
   .route("/curriculum", curriculum)
-  .route("/support", support) as const;
+  .route("/support", support);
 
 export type AppType = typeof routes;

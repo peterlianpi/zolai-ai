@@ -34,7 +34,7 @@ export function SupportForm() {
     e.preventDefault();
     setLoading(true);
     try {
-      const res = await client.support.$post({ json: form as never });
+      const res = await client.api.support.$post({ json: form as never });
       const json = await res.json() as { data?: { sent: boolean } };
       if (json.data?.sent) {
         setSent(true);

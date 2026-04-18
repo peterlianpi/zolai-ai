@@ -52,12 +52,12 @@ def bulk_insert(cur, table: str, cols: list[str], rows: list[list], conflict: st
 # ── Bible ─────────────────────────────────────────────────────────────────────
 def seed_bible(cur) -> int:
     sources = {
-        "tdb77":     ROOT_DATA / "data/master/sources/bible_tb77_online.jsonl",
-        "tbr17":     ROOT_DATA / "data/master/sources/bible_tbr17.jsonl",
-        "tedim2010": ROOT_DATA / "data/master/sources/bible_tedim2010.jsonl",
+        "tdb77":     ROOT_DATA / "data/corpus/bible/tdb77/bible_tb77_online.jsonl",
+        "tbr17":     ROOT_DATA / "data/corpus/bible/tbr17/bible_tbr17.jsonl",
+        "tedim2010": ROOT_DATA / "data/corpus/bible/tedim2010/bible_tedim2010.jsonl",
     }
     kjv: dict[str, str] = {}
-    with (ROOT_DATA / "data/master/combined/parallel.jsonl").open() as f:
+    with (ROOT_DATA / "data/parallel/zo_en_pairs_combined.jsonl").open() as f:
         for line in f:
             obj = json.loads(line)
             ref, en = obj.get("reference",""), obj.get("english","")
@@ -92,7 +92,7 @@ def seed_bible(cur) -> int:
 
 # ── Vocab ─────────────────────────────────────────────────────────────────────
 def seed_vocab(cur) -> int:
-    path = ROOT_DATA / "data/processed/master_dictionary_semantic.jsonl"
+    path = ROOT_DATA / "data/dictionary/processed/dict_unified_v1.jsonl"
     rows = []
     with path.open() as f:
         for i, line in enumerate(f):
@@ -216,13 +216,16 @@ def seed_menus(cur) -> int:
 
     items = [
         ("menu_main-nav", "Home",       "/",           1),
-        ("menu_main-nav", "Dictionary", "/dictionary", 2),
-        ("menu_main-nav", "Bible",      "/bible",      3),
-        ("menu_main-nav", "Wiki",       "/wiki",       4),
-        ("menu_main-nav", "Lessons",    "/lessons",    5),
-        ("menu_main-nav", "Chat",       "/chat",       6),
-        ("menu_footer",   "About",      "/about-zolai",1),
-        ("menu_footer",   "Grammar",    "/grammar-guide",2),
+        ("menu_main-nav", "News",       "/news",       2),
+        ("menu_main-nav", "Posts",      "/posts",      3),
+        ("menu_main-nav", "Search",     "/search",     4),
+        ("menu_main-nav", "Resources",  "/resources",  5),
+        ("menu_main-nav", "About",      "/about",      6),
+        ("menu_main-nav", "Community",  "/community",  7),
+        ("menu_main-nav", "Contact",    "/contact",    8),
+        ("menu_footer",   "About",      "/about",      1),
+        ("menu_footer",   "Contact",    "/contact",    2),
+        ("menu_footer",   "Resources",  "/resources",  3),
     ]
     item_rows = [[f"item_{mid}_{o}", mid, None, lbl, url, None, "_self", "", o, NOW, NOW]
                  for mid, lbl, url, o in items]

@@ -4,7 +4,7 @@ import { zValidator } from "@hono/zod-validator";
 import prisma from "@/lib/prisma";
 import { ok, notFound, list } from "@/lib/api/response";
 import { revalidateTag } from "next/cache";
-import type { PostWhereInput } from "@/lib/generated/prisma/index";
+import type { Prisma } from "@/lib/generated/prisma/index";
 import type { PostType, PostStatus } from "@/lib/generated/prisma/enums";
 import { safeDbQuery } from "@/lib/server/safe-db";
 import { getSessionFromContext } from "@/lib/auth/server-guards";
@@ -35,7 +35,7 @@ const adminContent = new Hono()
   .use(async (c, next) => {
     const allowed = await requireMinRole(c, "EDITOR");
     if (!allowed) {
-      return c.json(forbiddenRoleJson(), 403);
+      return forbiddenRoleJson(c);
     }
     await next();
   })
@@ -115,7 +115,7 @@ const adminContent = new Hono()
       const limitNum = parseInt(limit);
       const skip = (pageNum - 1) * limitNum;
 
-      const where: PostWhereInput = { type: "NEWS" };
+      const where: Prisma.PostWhereInput = { type: "NEWS" };
       if (status && status !== "ALL") where.status = status as PostStatus;
       if (locale && locale !== "ALL") where.locale = locale;
       if (search) {
@@ -179,7 +179,7 @@ const adminContent = new Hono()
       const limitNum = parseInt(limit);
       const skip = (pageNum - 1) * limitNum;
 
-      const where: PostWhereInput = { type: "PAGE" };
+      const where: Prisma.PostWhereInput = { type: "PAGE" };
       if (status && status !== "ALL") where.status = status as PostStatus;
       if (locale && locale !== "ALL") where.locale = locale;
       if (search) {

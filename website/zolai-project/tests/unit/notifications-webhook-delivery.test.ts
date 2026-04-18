@@ -22,6 +22,7 @@ import {
   type WebhookPayload,
 } from '@/lib/notifications/webhook-delivery';
 import prisma from '@/lib/prisma';
+const mockPrisma = prisma as unknown as { webhookEndpoint: { findMany: ReturnType<typeof vi.fn>; findUnique: ReturnType<typeof vi.fn>; create: ReturnType<typeof vi.fn>; update: ReturnType<typeof vi.fn>; delete: ReturnType<typeof vi.fn> } };
 
 // Mock fetch
 global.fetch = vi.fn();
@@ -111,7 +112,7 @@ describe('Webhook Delivery Service', () => {
         },
       ];
 
-      vi.mocked(prisma.webhookEndpoint.findMany).mockResolvedValue(endpoints as any);
+      vi.mocked(mockPrisma.webhookEndpoint.findMany).mockResolvedValue(endpoints as any);
       mockFetch.mockResolvedValue({ ok: true, status: 200 });
 
       const result = await sendWebhookToAllEndpoints(
@@ -123,7 +124,7 @@ describe('Webhook Delivery Service', () => {
     });
 
     it('should return success when no endpoints found', async () => {
-      vi.mocked(prisma.webhookEndpoint.findMany).mockResolvedValue([]);
+      vi.mocked(mockPrisma.webhookEndpoint.findMany).mockResolvedValue([]);
 
       const result = await sendWebhookToAllEndpoints(
         'notification.sent',
@@ -142,7 +143,7 @@ describe('Webhook Delivery Service', () => {
         status: 200,
       });
 
-      vi.mocked(prisma.webhookEndpoint.create).mockResolvedValue({
+      vi.mocked(mockPrisma.webhookEndpoint.create).mockResolvedValue({
         id: 'webhook-1',
         url: 'https://example.com/webhook',
         events: ['notification.sent'],
@@ -172,11 +173,11 @@ describe('Webhook Delivery Service', () => {
 
   describe('deleteWebhookEndpoint', () => {
     it('should delete own endpoint', async () => {
-      vi.mocked(prisma.webhookEndpoint.findUnique).mockResolvedValue({
+      vi.mocked(mockPrisma.webhookEndpoint.findUnique).mockResolvedValue({
         id: 'webhook-1',
         userId: 'user-1',
       } as any);
-      vi.mocked(prisma.webhookEndpoint.delete).mockResolvedValue({} as any);
+      vi.mocked(mockPrisma.webhookEndpoint.delete).mockResolvedValue({} as any);
 
       const result = await deleteWebhookEndpoint('user-1', 'webhook-1');
 
@@ -184,7 +185,7 @@ describe('Webhook Delivery Service', () => {
     });
 
     it('should prevent unauthorized deletion', async () => {
-      vi.mocked(prisma.webhookEndpoint.findUnique).mockResolvedValue({
+      vi.mocked(mockPrisma.webhookEndpoint.findUnique).mockResolvedValue({
         id: 'webhook-1',
         userId: 'user-2',
       } as any);
@@ -198,13 +199,13 @@ describe('Webhook Delivery Service', () => {
 
   describe('updateWebhookEndpoint', () => {
     it('should update webhook endpoint', async () => {
-      vi.mocked(prisma.webhookEndpoint.findUnique).mockResolvedValue({
+      vi.mocked(mockPrisma.webhookEndpoint.findUnique).mockResolvedValue({
         id: 'webhook-1',
         userId: 'user-1',
         url: 'https://example.com/webhook',
         secret: 'secret',
       } as any);
-      vi.mocked(prisma.webhookEndpoint.update).mockResolvedValue({
+      vi.mocked(mockPrisma.webhookEndpoint.update).mockResolvedValue({
         id: 'webhook-1',
         events: ['notification.sent', 'notification.read'],
       } as any);
@@ -219,7 +220,7 @@ describe('Webhook Delivery Service', () => {
     });
 
     it('should prevent unauthorized updates', async () => {
-      vi.mocked(prisma.webhookEndpoint.findUnique).mockResolvedValue({
+      vi.mocked(mockPrisma.webhookEndpoint.findUnique).mockResolvedValue({
         id: 'webhook-1',
         userId: 'user-2',
       } as any);

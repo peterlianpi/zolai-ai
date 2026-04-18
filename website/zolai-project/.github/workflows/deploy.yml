@@ -1,64 +1,121 @@
-name: Deploy to VPS
+name: CI/CD — Zolai
 
 on:
   push:
-    branches: [master]
+    branches: [master, main, develop]
+  pull_request:
+    branches: [master, main]
+  workflow_dispatch:
+    inputs:
+      rollback:
+        description: Rollback to previous build
+        type: boolean
+        default: false
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
 
 jobs:
-  deploy:
+  ci:
+    name: Lint & Build
     runs-on: ubuntu-latest
+    env:
+      DATABASE_URL: ${{ secrets.DATABASE_URL }}
+      BETTER_AUTH_SECRET: ${{ secrets.BETTER_AUTH_SECRET }}
+      BETTER_AUTH_URL: ${{ secrets.BETTER_AUTH_URL }}
+      NEXT_PUBLIC_APP_URL: ${{ secrets.BETTER_AUTH_URL }}
+      GEMINI_API_KEY: placeholder
+      GROQ_API_KEY: placeholder
+      OPENROUTER_API_KEY: placeholder
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.bun/install/cache
+            .next/cache
+          key: ${{ runner.os }}-bun-${{ hashFiles('bun.lockb') }}-${{ github.sha }}
+          restore-keys: ${{ runner.os }}-bun-${{ hashFiles('bun.lockb') }}-
+      - run: bun install --frozen-lockfile
+      - run: bun run lint
+      - run: bun run build
+
+  deploy:
+    name: Deploy → Production
+    runs-on: ubuntu-latest
+    needs: ci
+    if: (github.ref == 'refs/heads/master' || github.ref == 'refs/heads/main') && github.event_name != 'pull_request'
+    environment:
+      name: production
+      url: https://zolai.space
     steps:
       - uses: actions/checkout@v4
 
-      - uses: oven-sh/setup-bun@v1
-
-      - name: Install dependencies
-        run: bun install --frozen-lockfile
-
-      - name: Lint
-        run: bun run lint
-
-      - name: Build
-        run: bun run build
-        env:
-          DATABASE_URL: ${{ secrets.DATABASE_URL }}
-          BETTER_AUTH_SECRET: ${{ secrets.BETTER_AUTH_SECRET }}
-          BETTER_AUTH_URL: ${{ secrets.BETTER_AUTH_URL }}
-          NEXT_PUBLIC_APP_URL: ${{ secrets.BETTER_AUTH_URL }}
-
-      - name: Sync to VPS
-        uses: appleboy/scp-action@v0.1.7
-        with:
-          host: ${{ secrets.VPS_HOST }}
-          username: ubuntu
-          key: ${{ secrets.VPS_SSH_KEY }}
-          source: "./"
-          target: "/home/ubuntu/nextjs-app"
-          rm: false
-          exclude: ".git,node_modules,.env*,tests,playwright-report,docs,.next/cache"
-
-      - name: Install deps & restart
+      - name: Deploy (or rollback)
         uses: appleboy/ssh-action@v1.0.3
         with:
           host: ${{ secrets.VPS_HOST }}
           username: ubuntu
           key: ${{ secrets.VPS_SSH_KEY }}
+          timeout: 600s
           script: |
-            cd /home/ubuntu/nextjs-app
-            /home/ubuntu/.bun/bin/bun install --production --frozen-lockfile
-            /home/ubuntu/.bun/bin/bunx prisma migrate deploy
-            sudo systemctl restart zolai-next
-            sleep 3
-            systemctl is-active zolai-next
+            export PATH=$HOME/.bun/bin:$PATH
+            cd /home/ubuntu/zolai
+            if [ "${{ inputs.rollback }}" = "true" ]; then
+              [ -d .next.prev ] || { echo "No rollback available"; exit 1; }
+              rm -rf .next && mv .next.prev .next
+            else
+              [ -d .next ] && rm -rf .next.prev && cp -r .next .next.prev
+              git pull origin main
+              bun install --frozen-lockfile
+              bun run build
+              bunx prisma migrate deploy
+            fi
+            sudo systemctl restart zolai
+            sleep 5
+            sudo systemctl is-active zolai
 
       - name: Health check
         run: |
-          sleep 10
-          curl -f https://zolai.space/api/cron/health || exit 1
+          sleep 15
+          for i in 1 2 3; do
+            STATUS=$(curl -s -o /dev/null -w "%{http_code}" --max-time 15 https://zolai.space/api/cron/health)
+            [ "$STATUS" = "200" ] && exit 0
+            sleep 10
+          done
+          exit 1
 
-      - name: Notify Telegram on failure
-        if: failure()
+      - name: Notify
+        if: always()
         run: |
+          ICON=$([[ "${{ job.status }}" == "success" ]] && echo "✅" || echo "❌")
           curl -s -X POST "https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage" \
             -d chat_id="${{ secrets.TELEGRAM_CHAT_ID }}" \
-            -d text="❌ Zolai deploy FAILED on commit ${{ github.sha }} by ${{ github.actor }}"
+            -d text="${ICON} <b>Zolai ${{ job.status }}</b>%0ACommit: <code>${{ github.sha }}</code>%0ABy: ${{ github.actor }}" \
+            -d parse_mode="HTML" || true
+
+  deploy-preview:
+    name: Deploy → Preview
+    runs-on: ubuntu-latest
+    needs: ci
+    if: github.ref == 'refs/heads/develop'
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Deploy preview
+        uses: appleboy/ssh-action@v1.0.3
+        with:
+          host: ${{ secrets.VPS_HOST }}
+          username: ubuntu
+          key: ${{ secrets.VPS_SSH_KEY }}
+          timeout: 600s
+          script: |
+            export PATH=$HOME/.bun/bin:$PATH
+            cp /home/ubuntu/zolai/.env.production /home/ubuntu/zolai-preview/.env.production
+            cd /home/ubuntu/zolai-preview
+            git pull origin develop
+            bun install --frozen-lockfile
+            PORT=3001 bun run build
+            sudo systemctl is-active zolai-preview 2>/dev/null && sudo systemctl restart zolai-preview || nohup env PORT=3001 bun run start > /tmp/zolai-preview.log 2>&1 &

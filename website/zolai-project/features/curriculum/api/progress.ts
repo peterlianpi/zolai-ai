@@ -29,7 +29,7 @@ export const progressRouter = new Hono()
       const progress = await prisma.userSubUnitProgress.findUnique({
         where: { userId_subUnitId: { userId: session.user.id, subUnitId } },
       });
-      return ok(c, progress || { subUnitId, completed: false, score: 0, attempts: 0 });
+      return ok(c, progress || { subUnitId, status: 'NOT_STARTED', score: 0, attempts: 0 });
     } catch {
       return internalError(c, 'Failed to fetch progress');
     }
@@ -42,31 +42,22 @@ export const progressRouter = new Hono()
     try {
       const subUnitId = c.req.param('subUnitId');
       const data = c.req.valid('json');
+      const status = data.completed ? 'COMPLETE' : 'IN_PROGRESS';
+
+      const existing = await prisma.userSubUnitProgress.findUnique({
+        where: { userId_subUnitId: { userId: session.user.id, subUnitId } },
+      });
+
+      const subUnit = data.completed
+        ? await prisma.curriculumSubUnit.findUnique({ where: { id: subUnitId }, select: { xpReward: true } })
+        : null;
+      const xpEarned = (data.completed && !existing?.completedAt) ? (subUnit?.xpReward ?? 0) : (existing?.xpEarned ?? 0);
 
       const progress = await prisma.userSubUnitProgress.upsert({
         where: { userId_subUnitId: { userId: session.user.id, subUnitId } },
-        create: { userId: session.user.id, subUnitId, ...data },
-        update: {
-          completed: data.completed,
-          score: data.score,
-          attempts: data.attempts,
-          completedAt: data.completed ? new Date() : undefined,
-        },
+        create: { userId: session.user.id, subUnitId, status, score: data.score ?? 0, attempts: data.attempts, xpEarned, completedAt: data.completed ? new Date() : null },
+        update: { status, score: data.score ?? existing?.score ?? 0, attempts: data.attempts, xpEarned, completedAt: data.completed ? (existing?.completedAt ?? new Date()) : null },
       });
-
-      // Award XP if completed
-      if (data.completed && !progress.completed) {
-        const subUnit = await prisma.curriculumSubUnit.findUnique({
-          where: { id: subUnitId },
-          select: { xpReward: true },
-        });
-        if (subUnit) {
-          await prisma.user.update({
-            where: { id: session.user.id },
-            data: { xp: { increment: subUnit.xpReward } },
-          });
-        }
-      }
 
       return ok(c, progress);
     } catch {
@@ -79,11 +70,11 @@ export const progressRouter = new Hono()
     if (!session?.user?.id) return unauthorized(c, 'Authentication required');
 
     try {
-      const phonicsSubUnitId = c.req.param('phonicsSubUnitId');
+      const subUnitId = c.req.param('phonicsSubUnitId');
       const progress = await prisma.userPhonicsProgress.findUnique({
-        where: { userId_phonicsSubUnitId: { userId: session.user.id, phonicsSubUnitId } },
+        where: { userId_subUnitId: { userId: session.user.id, subUnitId } },
       });
-      return ok(c, progress || { phonicsSubUnitId, completed: false, score: 0, attempts: 0 });
+      return ok(c, progress || { subUnitId, status: 'NOT_STARTED', score: 0 });
     } catch {
       return internalError(c, 'Failed to fetch phonics progress');
     }
@@ -94,18 +85,14 @@ export const progressRouter = new Hono()
     if (!session?.user?.id) return unauthorized(c, 'Authentication required');
 
     try {
-      const phonicsSubUnitId = c.req.param('phonicsSubUnitId');
+      const subUnitId = c.req.param('phonicsSubUnitId');
       const data = c.req.valid('json');
+      const status = data.completed ? 'COMPLETE' : 'IN_PROGRESS';
 
       const progress = await prisma.userPhonicsProgress.upsert({
-        where: { userId_phonicsSubUnitId: { userId: session.user.id, phonicsSubUnitId } },
-        create: { userId: session.user.id, phonicsSubUnitId, ...data },
-        update: {
-          completed: data.completed,
-          score: data.score,
-          attempts: data.attempts,
-          completedAt: data.completed ? new Date() : undefined,
-        },
+        where: { userId_subUnitId: { userId: session.user.id, subUnitId } },
+        create: { userId: session.user.id, subUnitId, status, score: data.score ?? 0, completedAt: data.completed ? new Date() : null },
+        update: { status, score: data.score ?? 0, completedAt: data.completed ? new Date() : null },
       });
 
       return ok(c, progress);
@@ -119,28 +106,24 @@ export const progressRouter = new Hono()
     if (!session?.user?.id) return unauthorized(c, 'Authentication required');
 
     try {
-      const [completed, total, avgScore, xp] = await Promise.all([
-        prisma.userSubUnitProgress.count({
-          where: { userId: session.user.id, completed: true },
-        }),
-        prisma.userSubUnitProgress.count({
-          where: { userId: session.user.id },
-        }),
+      const [completed, total, avgScore, totalXp] = await Promise.all([
+        prisma.userSubUnitProgress.count({ where: { userId: session.user.id, status: 'COMPLETE' } }),
+        prisma.userSubUnitProgress.count({ where: { userId: session.user.id } }),
         prisma.userSubUnitProgress.aggregate({
-          where: { userId: session.user.id, score: { not: null } },
+          where: { userId: session.user.id, score: { not: 0 } },
           _avg: { score: true },
         }),
-        prisma.user.findUnique({
-          where: { id: session.user.id },
-          select: { xp: true },
+        prisma.userSubUnitProgress.aggregate({
+          where: { userId: session.user.id },
+          _sum: { xpEarned: true },
         }),
       ]);
 
       return ok(c, {
         completed,
         total,
-        avgScore: avgScore._avg.score || 0,
-        xp: xp?.xp || 0,
+        avgScore: avgScore._avg?.score ?? 0,
+        xp: totalXp._sum?.xpEarned ?? 0,
         completionRate: total > 0 ? Math.round((completed / total) * 100) : 0,
       });
     } catch {

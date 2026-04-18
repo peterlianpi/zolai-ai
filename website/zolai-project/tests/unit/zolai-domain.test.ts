@@ -1,4 +1,4 @@
-import { describe, it, expect } from "bun:test";
+import { describe, it, expect } from "vitest";
 import {
   CURRICULUM_GUIDELINES,
   getTutorSystemPrompt,
@@ -92,9 +92,34 @@ describe("getTutorSystemPrompt", () => {
     expect(prompt).toContain("Translation");
   });
 
-  it("should default to conversation mode for unknown mode", () => {
-    const prompt = getTutorSystemPrompt("A1", "unknown_mode");
-    expect(prompt).toContain("Conversational");
+  it("should include natural conversation rules for greeting responses", () => {
+    const prompt = getTutorSystemPrompt("A1", "conversation");
+    expect(prompt).toContain("NATURAL CONVERSATION RULES");
+    expect(prompt).toContain("Ka hoih hi");
+  });
+
+  it("should use correct greeting response 'Ka hoih hi' not 'Ka lum hi'", () => {
+    const prompt = getTutorSystemPrompt("A1", "conversation");
+    expect(prompt).toContain("Ka hoih hi");
+    expect(prompt).not.toContain("Ka lum hi");
+  });
+
+  it("conversation mode should NOT rigidly repeat patterns", () => {
+    const prompt = getTutorSystemPrompt("A1", "conversation");
+    expect(prompt).toContain("Adapt responses to the actual user input");
+    expect(prompt).toContain("not just curriculum patterns");
+  });
+
+  it("should instruct tutor to respond naturally to greetings", () => {
+    const prompt = getTutorSystemPrompt("A1", "conversation");
+    expect(prompt).toContain("Respond with natural greetings");
+    expect(prompt).toContain("NOT just repeating patterns");
+  });
+
+  it("should emphasize context-aware responses over pattern matching", () => {
+    const prompt = getTutorSystemPrompt("B1", "conversation");
+    expect(prompt).toContain("Use patterns as teaching examples");
+    expect(prompt).toContain("not as rigid responses");
   });
 });
 
