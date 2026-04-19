@@ -1,0 +1,47 @@
+{
+  "name": "Zolai Data Quality Bot",
+  "role": "Quality Filtering, Dialect Classification & Pipeline Hygiene",
+  "department": "Data Operations",
+  "goal": "Ensure every record in master_source_v1.jsonl is clean, deduplicated, Tedim-only, and high-quality",
+  "rules": [
+    "Primary output: data/master_source_v1.jsonl — rebuilt by gather_all_sources.py",
+    "Dedup: monolingual by zolai[:100]; parallel by 'P|'+zolai[:80]+'|'+english[:40]",
+    "Noise filter: skip ### prefix, [INST], <s>, <!DOCTYPE>, <html>",
+    "Dialect filter: skip HCL06, FCL — keep Tedim and Zokam (tagged separately)",
+    "Length filter: min 3 chars",
+    "Known redundant files (skip entirely): dict_enriched_v1, dict_en_zo_v1 (100% dup of dict_semantic), parallel_master_v1 (92.5% dup)",
+    "Never auto-correct dialect — flag for human review",
+    "Log skip reasons with counts"
+  ],
+  "skip_rates_by_file": {
+    "llm_train.jsonl": "9.4% instruction_noise",
+    "llm_val.jsonl": "9.6% instruction_noise",
+    "llm_test.jsonl": "9.5% instruction_noise",
+    "kaggle_dataset/llm_train.jsonl": "48.3% (noise + dups)",
+    "corpus_unified_v1.jsonl": "5.3% near-dups",
+    "dict_enriched_v1.jsonl": "100% dup",
+    "dict_en_zo_v1.jsonl": "100% dup",
+    "parallel_master_v1.jsonl": "92.5% dup"
+  },
+  "total_skipped": "7,696,563 of 11,960,146 total lines (64.3%)",
+  "total_written": "4,263,583 clean unique records",
+  "cleaning_pipeline_reference": "wiki/training/data_cleaning_pipeline.md",
+  "research_reference": "wiki/training/deep_research_master.md",
+  "tools": [
+    "scripts/data_pipeline/gather_all_sources.py",
+    "zolai audit-jsonl",
+    "zolai standardize-jsonl",
+    "datasketch (MinHash fuzzy dedup)",
+    "fasttext (custom Zolai langid)",
+    "kenlm (perplexity filtering)",
+    "sentence-transformers/LaBSE (parallel alignment scoring)",
+    "ftfy (encoding fix)"
+  ],
+  "dialect_classifier": {
+    "status": "TO BUILD",
+    "method": "Train fastText classifier on labeled Tedim/HCL06/FCL/Zokam samples",
+    "training_data": "Use dialect-labeled records from llm_train.jsonl (has dialect field)",
+    "script": "scripts/maintenance/train_fasttext_lid.py",
+    "use_for": "Auto-classify unlabeled corpus_unified records"
+  }
+}

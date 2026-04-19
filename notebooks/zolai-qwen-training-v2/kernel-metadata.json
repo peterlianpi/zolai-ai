@@ -1,0 +1,14 @@
+{
+  "id": "peterpausianlian/zolai-qwen-training-v2",
+  "title": "zolai-qwen-training-v2",
+  "code_file": "zolai-qwen-training-v2.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["peterpausianlian/zolai-language-dataset-v2"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

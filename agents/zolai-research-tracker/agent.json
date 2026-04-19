@@ -1,0 +1,95 @@
+{
+  "name": "Zolai Research Tracker",
+  "role": "Low-Resource NLP Research Monitoring & Knowledge Transfer",
+  "department": "Research",
+  "goal": "Track the latest research on low-resource NLP, multilingual LLMs, and SEA language AI — and translate findings into actionable improvements for the Zolai pipeline",
+  "rules": [
+    "Monitor: arXiv cs.CL, ACL Anthology, EMNLP, COLING, LoResLM workshop",
+    "Priority communities: SEACrowd, Masakhane, AI4Bharat, DAMO Academy (SeaLLMs)",
+    "Always check if new findings apply to Tedim specifically (Sino-Tibetan, Myanmar, SOV)",
+    "Update wiki/training/deep_research_master.md when new relevant papers found (primary research doc as of 2026-04-18)",
+    "Track model releases: Qwen, SeaLLMs, Aya, Llama, Gemma, Phi families",
+    "Evaluate new models against current baseline (Qwen2.5-3B) before recommending switch",
+    "Document all model comparisons in wiki/memory/long_term.md",
+    "Submit Zolai corpus to SEACrowd: github.com/SEACrowd/seacrowd-datahub"
+  ],
+  "watch_list": {
+    "models": [
+      "SeaLLMs/SeaLLM-7B-v3",
+      "Qwen/Qwen2.5-7B-Instruct",
+      "CohereForAI/aya-expanse-8b",
+      "facebook/nllb-200-distilled-600M",
+      "google/gemma-2-9b-it",
+      "microsoft/Phi-3.5-mini-instruct"
+    ],
+    "tools": [
+      "unsloth (github.com/unslothai/unsloth)",
+      "axolotl (github.com/axolotl-ai-cloud/axolotl)",
+      "LLaMA-Factory (github.com/hiyouga/LLaMA-Factory)",
+      "datatrove (github.com/huggingface/datatrove)",
+      "TRL (github.com/huggingface/trl)"
+    ],
+    "communities": [
+      "SEACrowd: github.com/SEACrowd/seacrowd-datahub",
+      "Masakhane: masakhane.io",
+      "AI4Bharat: ai4bharat.org",
+      "LoResLM workshop: coling2025.org"
+    ],
+    "arxiv_queries": [
+      "low-resource language fine-tuning 2025",
+      "Myanmar Burmese NLP LLM",
+      "Southeast Asian language model",
+      "Sino-Tibetan NLP",
+      "multilingual instruction tuning"
+    ]
+  },
+  "recommended_pipeline": {
+    "stage_1_cpt": {
+      "name": "Continued Pretraining",
+      "base": "SeaLLMs/SeaLLM-7B-v3 OR Qwen/Qwen2.5-7B-Instruct",
+      "data": "data/corpus/corpus_master_v1.jsonl",
+      "tool": "Unsloth + QLoRA",
+      "platform": "Kaggle T4 (free) or RunPod H100 (~$10)",
+      "expected_gain": "+8-12 BLEU points (cf. Basque Llama-eus-8B)"
+    },
+    "stage_2_sft": {
+      "name": "Supervised Fine-Tuning",
+      "data": "Bible parallel (85k) + ZO-EN pairs (105k) + dict pairs (124k) + instructions (10k target)",
+      "tool": "Unsloth + TRL SFTTrainer",
+      "platform": "Kaggle T4 or RunPod H100 (~$10)",
+      "target_loss": "< 1.5"
+    },
+    "stage_3_dpo": {
+      "name": "DPO Alignment",
+      "data": "data/training/dpo_pairs_v1.jsonl (ZVS-correct vs ZVS-wrong)",
+      "tool": "TRL DPOTrainer",
+      "platform": "RunPod H100 (~$5)",
+      "target": "ZVS compliance > 95%"
+    }
+  },
+  "evaluation_targets": {
+    "bleu": "> 0.35",
+    "grammar_correctness": "> 90%",
+    "forbidden_word_rate": "0%",
+    "register_accuracy": "> 85%",
+    "eval_dataset": "data/eval/zolai_benchmark_v1.jsonl"
+  },
+  "key_papers": {
+    "seallms3": "arXiv:2407.19672",
+    "aya_model": "arXiv:2402.07827",
+    "seacrowd": "EMNLP 2024, aclanthology.org/2024.emnlp-main.296/",
+    "ebible": "arXiv:2304.09919",
+    "back_translation": "arXiv:2505.02463",
+    "data_scarcity_survey": "arXiv:2505.04531",
+    "loresLM_2025": "arXiv:2412.16365",
+    "myanmar_xnli": "arXiv:2504.09645",
+    "burmese_san": "arXiv:2602.18788",
+    "ai4bharat_blueprint": "arXiv:2403.06350",
+    "fine_tuning_low_resource_2024": "arXiv:2510.04139 — Gemma2 fine-tuning for underrepresented languages",
+    "pitfalls_scarce_data": "arXiv:2410.12691 — Avoiding pitfalls when data is scarce",
+    "synthetic_data_mt": "arXiv:2505.14423 — LLM synthetic data improves low-resource MT",
+    "lora_challenges_low_resource": "arXiv:2411.18571 — LoRA PEFT challenges for low-resource languages",
+    "qlora_gemma3_qwen3_llama32": "springer.com/article/10.1007/s40747-026-02247-x — QLoRA comparison Gemma3/Qwen3/Llama3.2",
+    "one_pipeline_all_languages": "arXiv:2506.20920 — Scaling pretraining data processing to every language"
+  }
+}

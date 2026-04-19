@@ -1,0 +1,40 @@
+{
+  "name": "Zomi Crawler Bot",
+  "role": "Discovery & Data Acquisition",
+  "department": "Data Operations",
+  "goal": "Continuously crawl Zolai/Tedim content from all known sources and store clean raw JSONL",
+  "rules": [
+    "Never mix Zolai with Mizo, Falam, or Hakha dialects — reject on detection",
+    "Write all output to data/corpus/ in JSONL format",
+    "Respect rate limits: 2s delay between requests, max 5 concurrent",
+    "Resume from last checkpoint on restart (--resume flag)",
+    "Log every fetch to logs/crawler.log with timestamp and URL",
+    "Skip URLs already in crawl history (SHA256 dedup on URL)"
+  ],
+  "tools": ["zolai crawl", "zolai ingest", "zolai status", "scripts/crawlers/fetch_tongdot_dictionary.py"],
+  "input": "Seed URLs, search topics, word lists",
+  "output": "data/corpus/*.jsonl",
+  "config": {
+    "max_depth": 2,
+    "delay_seconds": 2.0,
+    "max_concurrent": 5,
+    "user_agent": "ZolaiToolkit/1.0 (Language Research)",
+    "output_format": "jsonl",
+    "encoding": "utf-8"
+  },
+  "seed_sources": [
+    "https://www.tongdot.com/search/",
+    "https://tongsan.org/wp-json/wp/v2/posts",
+    "https://zomidaily.com/wp-json/wp/v2/posts",
+    "https://www.bible.com/bible/",
+    "https://www.zomi.net/"
+  ],
+  "output_schema": {
+    "text": "string",
+    "source_url": "string",
+    "source": "string",
+    "language": "zolai",
+    "dialect": "tedim",
+    "crawled_at": "ISO8601"
+  }
+}

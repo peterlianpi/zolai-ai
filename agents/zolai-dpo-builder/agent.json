@@ -1,0 +1,119 @@
+{
+  "id": "zolai-dpo-builder",
+  "name": "Zolai DPO Builder",
+  "role": "DPO Preference Pair Generation for ZVS Dialect Alignment",
+  "department": "AI Training",
+  "team": "training",
+  "goal": "Generate DPO preference pairs that teach the model to prefer correct Tedim ZVS over wrong dialect forms",
+  "rules": [
+    "chosen = correct Tedim ZVS output",
+    "rejected = same output with wrong dialect substitutions",
+    "Never fabricate — only substitute known ZVS violations",
+    "Each pair must have a meaningful difference — not just one word swap",
+    "Validate chosen output passes ZVS rules before writing",
+    "Target: 10,000-60,000 pairs minimum (Basque team used 61k, got +7pts)",
+    "Also generate pairs from: grammar errors (lo leh → kei a leh), plural errors (uh+i), SOV violations"
+  ],
+  "zvs_substitutions": {
+    "pasian": "pathian",
+    "gam": "ram",
+    "topa": "bawipa",
+    "tapa": "fapa",
+    "kumpipa": "siangpahrang",
+    "tua": "cu",
+    "kei a leh": "lo leh"
+  },
+  "pronoun_system": {
+    "note": "Verified from all 3 Bible versions (TDB77, TBR17, Tedim2010)",
+    "i": {
+      "function": "1st person plural subject prefix (we) — used with verb directly",
+      "examples": ["i pai hi = we went", "i om hi = we are", "i hi hi = we are (emphatic)", "i it hi = we love"],
+      "corpus": "Ka itte aw, tu-in Pasian' tate i hi hi (TDB77 1Jn 3:2)"
+    },
+    "eite": {
+      "function": "1st person plural emphatic/object pronoun (us/we — emphatic)",
+      "examples": ["Pasian in eite hong it = God loves us", "eite tungah = toward us", "eite in = we (subject, emphatic)"],
+      "corpus": "Pasian in eite hong it a, eite mawhna hong lak ding Tapa hong khal hi (TDB77 1Jn 4:10)"
+    },
+    "kei te": {
+      "function": "NOT standard 'we' — corpus shows 0 occurrences as subject pronoun in Bible",
+      "note": "kei = I/me (1st person singular). 'kei te' appears only in specific emphatic contexts like 'kei teek' (just me/only me). Do NOT use as standard 'we'.",
+      "corpus_evidence": "kei te appears in: 'kei teek ka hi' (it is only me) — NOT as plural we"
+    }
+  },
+  "word_notes": {
+    "love (verb)": "it — corpus: 'Pasian in eite hong it' (God loves us), 'eite khat leh khat ki-it' (love one another)",
+    "love (noun)": "itna — corpus: 'Pasian' itna' (love of God), 'itna in Pasian tawh kipawl' (love is of God)",
+    "lungdam": "glad / thankful / happy — NOT love. Do NOT use for 'love'",
+    "God": "Pasian (ZVS Tedim) — NEVER pathian",
+    "us (object)": "eite — corpus: 'Pasian in eite hong it' (God loves us)",
+    "we (subject)": "i (prefix) or eite (emphatic) — NEVER kei te",
+    "go": "pai — directional: 'va pai' (go away), 'hong pai' (come toward speaker)",
+    "if you don't go (away)": "Na pai kei a leh / Na pai kei leh",
+    "if you don't come (toward)": "Nong pai kei a leh / Nong pai kei leh",
+    "hong": "directional particle — toward speaker. 'Pasian in eite hong it' = God loves us (coming to us)"
+  },
+  "pair_types": [
+    {
+      "type": "dialect_word",
+      "note": "it = love (verb). eite = us. hong = toward speaker (directional). Verified from 1Jn 4:10 TDB77.",
+      "example": {
+        "prompt": "Translate: God loves us.",
+        "chosen": "Pasian in eite hong it hi.",
+        "rejected": "Pathian in eite hong it hi."
+      }
+    },
+    {
+      "type": "negative_conditional",
+      "note": "Na = you going away from speaker. Nong = you coming toward speaker.",
+      "example_go": {
+        "prompt": "If you don't go...",
+        "chosen": "Na pai kei a leh...",
+        "rejected": "Na pai lo leh..."
+      },
+      "example_come": {
+        "prompt": "If you don't come...",
+        "chosen": "Nong pai kei a leh...",
+        "rejected": "Nong pai lo leh..."
+      }
+    },
+    {
+      "type": "plural_error",
+      "note": "i = we (subject prefix). 'I pai hi' = We went. Corpus: 'i pai uh' is wrong — never add uh with i.",
+      "example": {
+        "prompt": "We went.",
+        "chosen": "I pai hi.",
+        "rejected": "I pai uh hi."
+      }
+    },
+    {
+      "type": "wrong_pronoun",
+      "note": "kei te is NOT 'we'. eite or i is correct.",
+      "example": {
+        "prompt": "God loves us.",
+        "chosen": "Pasian in eite hong it hi.",
+        "rejected": "Pasian in kei te hong it hi."
+      }
+    }
+  ],
+  "input": "data/master_source_v1.jsonl (type=parallel, 110k records)",
+  "output": {
+    "zvs_pairs": "data/training/dpo_pairs_v1.jsonl",
+    "translated_pairs": "data/training/dpo_ultrafeedback_zo_v1.jsonl"
+  },
+  "scripts": [
+    "scripts/synthesis/build_dpo_pairs.py"
+  ],
+  "alignment_methods": {
+    "recommended": "ORPO (arXiv:2403.07691) — combines SFT+alignment in one pass, saves compute",
+    "alternative": "DPO (trl.DPOTrainer) — separate alignment stage after SFT",
+    "avoid": "GRPO — overkill for current stage, needs reward function",
+    "orpo_advantage": "No need for separate SFT run; trains preference alignment simultaneously"
+  },
+  "evidence": {
+    "basque": "Corral et al. 2024: DPO on 61k translated UltraFeedback pairs → +7pts correct answers",
+    "urdu": "arXiv:2502.16961: LoRA SFT on 41K instructions + 50K translation pairs → strong results",
+    "quality_vs_quantity": "arXiv:2408.12780: diversity of SFT data > raw quantity for low-resource",
+    "warning": "DPO/ORPO only works on language-adapted base model — run CPT first"
+  }
+}

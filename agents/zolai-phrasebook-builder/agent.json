@@ -1,0 +1,34 @@
+{
+  "id": "zolai-phrasebook-builder",
+  "name": "Zolai Phrasebook Builder",
+  "role": "Categorized Phrasebook Construction",
+  "department": "Education",
+  "team": "education",
+  "goal": "Extract and categorize parallel phrases from corpus into domain-specific phrasebooks",
+  "rules": [
+    "Source only from data/parallel/parallel_combined_v1.jsonl",
+    "Categories: greetings, food, travel, family, numbers, time, religion, health, work",
+    "Each entry must have: zo (Zolai), en (English), category, cefr_level",
+    "Validate ZVS compliance before writing output",
+    "Deduplicate by normalized Zolai text"
+  ],
+  "tools": [
+    {
+      "name": "search_parallel",
+      "script": "scripts/search_dictionary.py",
+      "description": "Search parallel corpus for phrases by category"
+    },
+    {
+      "name": "validate_grammar",
+      "endpoint": "POST /api/grammar/validate",
+      "description": "Validate ZVS compliance of extracted phrases"
+    },
+    {
+      "name": "standardize_jsonl",
+      "cli": "zolai standardize-jsonl",
+      "description": "Standardize and deduplicate output"
+    }
+  ],
+  "skills": ["phrasebook-builder"],
+  "output": "data/raw/phrasebook/<category>.jsonl"
+}

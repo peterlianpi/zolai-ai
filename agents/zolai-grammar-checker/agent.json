@@ -1,0 +1,65 @@
+{
+  "id": "zolai-grammar-checker",
+  "name": "Zolai Grammar Checker",
+  "role": "ZVS Grammar Validation & Correction",
+  "department": "Linguistics",
+  "team": "language",
+  "goal": "Validate Zolai sentences against ZVS Tedim standard, check word usage and context, and verify via Gemini API",
+  "validation_steps": [
+    "1. ZVS dialect check — forbidden words: pathian/ram/fapa/bawipa/siangpahrang/cu/cun",
+    "2. SOV word order check",
+    "3. Phonology — no ti cluster, no c+a/e/o/aw",
+    "4. Plural — no uh with i (we)",
+    "5. Negative conditional — nong pai kei a leh, never lo leh",
+    "6. Word lookup — verify in data/dictionary/processed/dict_unified_v1.jsonl",
+    "7. Known corrections check — wiki/grammar/news_register_patterns.md",
+    "8. Sinna phonological rules — wiki/linguistics/zolai_sinna_2010_knowledge.md",
+    "9. Gemini API — fluency, context, word choice, natural flow",
+    "10. Return structured result with all issues and corrected form"
+  ],
+  "known_corrections": {
+    "sia_vs_siat":          "sia = damaged/partial; siat = completely destroyed — check context",
+    "semsem_vs_zawzaw":     "semsem = more and more; zawzaw = comparatively more (a gol zawzaw)",
+    "roof":                 "innkhum or sikkang — NOT inn tungpuan",
+    "directions_east":      "zingsang lam = east (NOT morning in direction context)",
+    "directions_west":      "nitang lam = west (NOT evening in direction context)",
+    "directions_south":     "vaang lam nung = south (NOT nisatna lam)",
+    "plural_i":             "I pai hi (correct) — I pai uh hi (WRONG)",
+    "negative_conditional": "nong pai kei a leh (correct) — nong pai lo leh (WRONG)",
+    "o_pronunciation":      "o = /oʊ/ always",
+    "ti_cluster":           "ti cluster does not exist in Zolai",
+    "c_vowel":              "c cannot precede a/e/o/aw"
+  },
+  "gemini_validation": {
+    "model": "gemini-2.0-flash",
+    "api_key_env": "GEMINI_API_KEY",
+    "prompt_template": "You are a Tedim Zolai (Chin language) expert. Validate this sentence: '{sentence}'. Check: (1) ZVS Tedim dialect only (pasian not pathian, gam not ram), (2) SOV word order, (3) natural word choice and flow, (4) correct particles, (5) correct word meanings (sia=damaged not destroyed, semsem=more and more not zawzaw, innkhum=roof not inn tungpuan). Return JSON: { valid: bool, issues: [string], corrected: string, explanation: string }",
+    "on_failure": "return issues list with corrected form — never silently pass"
+  },
+  "tools": [
+    { "name": "validate_grammar",  "endpoint": "POST /api/grammar/validate" },
+    { "name": "run_grammar_tests", "script": "scripts/test_grammar_rules.py" },
+    { "name": "search_dictionary", "endpoint": "GET /api/dictionary/search" },
+    { "name": "gemini_check",      "endpoint": "POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent" }
+  ],
+  "reference_files": {
+    "grammar":      "wiki/grammar/sentence_structures.md",
+    "phonology":    "wiki/grammar/phonology.md",
+    "verb_stems":   "wiki/grammar/verb_stems.md",
+    "tense":        "wiki/grammar/tense_markers.md",
+    "particles":    "wiki/grammar/particle_differentiations.md",
+    "forbidden":    "wiki/grammar/forbidden_stems_auto.md",
+    "corrections":  "wiki/grammar/news_register_patterns.md",
+    "sinna":        "wiki/linguistics/zolai_sinna_2010_knowledge.md",
+    "standard":     "resources/Zolai_Standard_Format.md",
+    "vocabulary":   "wiki/vocabulary/news_domain_vocab.md",
+    "dictionary":   "data/dictionary/processed/dict_unified_v1.jsonl"
+  },
+  "output_schema": {
+    "valid": "boolean",
+    "errors": [{ "rule": "string", "span": "string", "suggestion": "string" }],
+    "gemini_issues": ["string"],
+    "corrected": "string",
+    "confidence": "float 0-1"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "name": "Zomi Bible Vocab Builder",
+  "role": "Bible Vocabulary Extraction, Gap Analysis & Dictionary Enrichment",
+  "department": "Linguistics & Data",
+  "goal": "Process all 66 Bible books to extract vocabulary, resolve gaps via cross-referencing, flag quality issues, and enrich the master dictionary — without external AI APIs",
+  "rules": [
+    "Use only local data sources: semantic dict, enriched dict, zomidictionary, parallel corpus",
+    "Never use Gemini or any external API unless explicitly enabled",
+    "Resolve gaps by cross-referencing TB77, TBR17, TDB versions against KJV English",
+    "Flag sentences with dialect violations, HTML artifacts, or alignment issues",
+    "Mark all auto-resolved entries with accuracy <= 0.65 for human review",
+    "Process books in canonical order (GEN → REV)",
+    "Resume from last completed book — never reprocess completed books",
+    "Log all recommendations to wiki/vocab_recommendations.md"
+  ],
+  "tools": [
+    "scripts/fill_bible_vocab_local.py",
+    "scripts/crossref_bible_vocab.py",
+    "scripts/fix_bible_data.py",
+    "scripts/bible_vocab_pipeline.py"
+  ],
+  "skills": [
+    "skills/bible-vocab-extractor",
+    "skills/bible-crossref-resolver",
+    "skills/bible-quality-auditor"
+  ],
+  "input": {
+    "bible_sources": [
+      "data/corpus/bible_tb77_online.jsonl",
+      "data/corpus/bible_tbr17.jsonl",
+      "data/corpus/bible_tdb_online.jsonl"
+    ],
+    "parallel": [
+      "data/parallel/bible_parallel_tdb77_kjv.jsonl",
+      "data/parallel/bible_parallel_tbr17_kjv.jsonl",
+      "data/parallel/bible_parallel_tedim2010_kjv.jsonl"
+    ],
+    "dictionaries": [
+      "data/dictionary/processed/dict_semantic_v1.jsonl",
+      "data/dictionary/processed/dict_enriched_v1.jsonl",
+      "data/dictionary/raw/zomidictionary_export_v1.jsonl"
+    ],
+    "db": "data/db/master_unified_dictionary.db",
+    "gaps_queue": "data/processed/bible_vocab_still_missing.jsonl"
+  },
+  "output": {
+    "vocab_per_chapter": "data/processed/bible_vocab/<book>_ch<N>_vocab.jsonl",
+    "resolved_entries": "data/processed/bible_vocab_resolved.jsonl",
+    "still_missing": "data/processed/bible_vocab_still_missing.jsonl",
+    "quality_flags": "data/processed/bible_quality_flags.jsonl",
+    "recommendations": "wiki/vocab_recommendations.md",
+    "progress": "data/processed/bible_vocab_pipeline_progress.json"
+  },
+  "run_command": "python scripts/bible_vocab_pipeline.py --all-books",
+  "resume_command": "python scripts/bible_vocab_pipeline.py --resume"
+}

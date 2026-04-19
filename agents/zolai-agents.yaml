@@ -1,0 +1,447 @@
+# Zolai Agent Configuration
+# All agents for the Zolai AI Second Brain project
+
+# ── Teams ──────────────────────────────────────────────────────────────────────
+teams:
+
+  data:
+    name: Data Team
+    description: "Data acquisition, processing, and lifecycle management"
+    agents: [crawler, bible-aligner, cleaner, data-quality, dictionary-builder, synthesizer, data-manager, bible-vocab-builder]
+
+  training:
+    name: Training Team
+    description: "Model training, evaluation, and deployment"
+    agents: [trainer, evaluator, research-tracker, dpo-builder]
+
+  language:
+    name: Language Team
+    description: "Linguistics, grammar, dialect, culture, and knowledge"
+    agents: [linguistic-specialist, learner, philosopher, wiki-manager, grammar-checker, dialect-classifier, cultural-content]
+
+  education:
+    name: Education Team
+    description: "Language learning, lessons, phrasebooks, and pronunciation"
+    agents: [lesson-tutor, phrasebook-builder, pronunciation-guide]
+
+  infrastructure:
+    name: Infrastructure Team
+    description: "Server ops, monitoring, API, and security"
+    agents: [server-ops, ops-monitor, security-auditor]
+
+  pipeline:
+    name: Pipeline Team
+    description: "End-to-end orchestration: collect → clean → validate → prepare → upload → train → download"
+    agents: [pipeline-team, crawler, cleaner, grammar-checker, trainer, ops-monitor, evaluator]
+    lead: pipeline-team
+
+# ── Agents ─────────────────────────────────────────────────────────────────────
+agents:
+
+  # ── Data Acquisition ────────────────────────────────────────────────────────
+  crawler:
+    name: Zomi Crawler Bot
+    dir: agents/zomi-crawler-bot/
+    team: data
+    trigger: ["crawl", "fetch", "scrape", "collect data"]
+    output: data/master/sources/
+
+  bible-aligner:
+    name: Zomi Bible Aligner
+    dir: agents/zomi-bible-aligner/
+    team: data
+    trigger: ["align bible", "extract verses", "parallel corpus"]
+    output: data/master/combined/parallel.jsonl
+
+  bible-vocab-builder:
+    name: Zomi Bible Vocab Builder
+    dir: agents/zomi-bible-vocab-builder/
+    team: data
+    trigger: ["bible vocab", "fill vocab gaps", "crossref bible"]
+    skills: [bible-vocab-extractor, bible-crossref-resolver, bible-quality-auditor]
+    run_command: "python scripts/bible_vocab_pipeline.py --all-books"
+    resume_command: "python scripts/bible_vocab_pipeline.py --resume"
+    output: data/processed/bible_vocab/
+
+  # ── Data Processing ─────────────────────────────────────────────────────────
+  data-quality:
+    name: Zolai Data Quality Bot
+    dir: agents/zolai-data-quality/
+    team: data
+    trigger: ["deduplicate", "quality filter", "language id", "minhash", "clean corpus", "lid tedim"]
+    script: scripts/data_pipeline/clean_training_data.py
+    output: data/corpus/corpus_master_clean_v1.jsonl
+
+  cleaner:
+    name: Zomi Cleaner Bot
+    dir: agents/zomi-cleaner-bot/
+    team: data
+    trigger: ["clean", "normalize", "deduplicate", "categorize"]
+    script: scripts/combine_and_categorize.py
+    output: data/master/combined/
+
+  dictionary-builder:
+    name: Zomi Dictionary Builder
+    dir: agents/zomi-dictionary-builder/
+    team: data
+    trigger: ["build dictionary", "add words", "update lexicon"]
+    output: data/master/combined/dictionary.jsonl
+
+  synthesizer:
+    name: Zomi Synthesizer
+    dir: agents/zomi-synthesizer/
+    team: data
+    trigger: ["generate data", "synthesize", "create training examples"]
+    output: data/master/sources/
+
+  # ── Data Management ─────────────────────────────────────────────────────────
+  data-manager:
+    name: Zomi Data Manager
+    dir: agents/zomi-data/
+    team: data
+    trigger: ["manage data", "dataset lifecycle", "promote dataset"]
+    script: scripts/doublecheck_master.py
+
+  ops-monitor:
+    name: Zomi Ops Monitor
+    dir: agents/zomi-ops-monitor/
+    team: infrastructure
+    trigger: ["monitor", "check health", "pipeline status", "milestones"]
+
+  # ── Training ─────────────────────────────────────────────────────────────────
+  trainer:
+    name: Zomi Trainer Bot
+    dir: agents/zomi-trainer-bot/
+    team: training
+    trigger: ["train", "fine-tune", "prepare training", "export model"]
+    output: runs/
+
+  evaluator:
+    name: Zomi Evaluator
+    dir: agents/zomi-evaluator/
+    team: training
+    trigger: ["evaluate", "benchmark", "test model", "quality check"]
+    output: artifacts/evaluation_report.md
+
+  research-tracker:
+    name: Zolai Research Tracker
+    dir: agents/zolai-research-tracker/
+    team: training
+    trigger: ["research", "new paper", "new model", "seacrowd", "low resource nlp", "best model", "training platform"]
+    output: wiki/training/low_resource_nlp_research.md
+
+  dpo-builder:
+    name: Zolai DPO Builder
+    dir: agents/zolai-dpo-builder/
+    team: training
+    trigger: ["dpo", "preference pairs", "zvs alignment", "dialect alignment", "build dpo"]
+    output: data/training/dpo_pairs_v1.jsonl
+
+  # ── Language & Knowledge ─────────────────────────────────────────────────────
+  linguistic-specialist:
+    name: Linguistic Specialist
+    dir: agents/linguistic-specialist/
+    team: language
+    trigger: ["grammar check", "dialect verify", "ZVS", "morphology"]
+
+  learner:
+    name: Zolai Learner
+    dir: agents/zolai-learner/
+    team: language
+    trigger: ["teach", "lesson", "translate", "practice", "learn zolai"]
+    notes: "Zolai = Zo language/literature/culture. Zola = Zo song (separate concept)."
+
+  philosopher:
+    name: Zomi Philosopher
+    dir: agents/zomi-philosopher/
+    team: language
+    trigger: ["culture", "gentehna", "history", "metaphor", "philosophy"]
+
+  wiki-manager:
+    name: Zomi Wiki Manager
+    dir: agents/zomi-wiki-manager/
+    team: language
+    trigger: ["update wiki", "add knowledge", "document rule"]
+    output: wiki/
+
+  grammar-checker:
+    name: Zolai Grammar Checker
+    dir: agents/zolai-grammar-checker/
+    team: language
+    skill: skills/grammar-checker/
+    trigger: ["check grammar", "validate sentence", "ZVS check", "grammar error"]
+    script: scripts/test_grammar_rules.py
+
+  dialect-classifier:
+    name: Zolai Dialect Classifier
+    dir: agents/zolai-dialect-classifier/
+    team: language
+    skill: skills/dialect-classifier/
+    trigger: ["detect dialect", "classify dialect", "is this tedim", "hakha or tedim"]
+
+  cultural-content:
+    name: Zongeina Content Agent
+    dir: agents/zolai-cultural-content/
+    team: language
+    skill: skills/cultural-content/
+    trigger: ["proverbs", "folklore", "culture", "festival", "history", "museum", "zongeina", "zo-an", "zolam"]
+    output: data/raw/cultural/
+    notes: |
+      Zongeina = Zo culture/customs. Zola = Zo songs. Zo-an = Zo food. Zolam = Zo dance.
+      Reference: wiki/glossary/zo_compound_words.md
+
+  # ── Education ─────────────────────────────────────────────────────────────────
+  lesson-tutor:
+    name: Zolai Lesson Tutor
+    dir: agents/zolai-lesson-tutor/
+    team: education
+    skill: skills/lesson-tutor/
+    trigger: ["lesson", "learn", "practice", "quiz", "exercise", "duolingo", "xp", "streak"]
+    tools:
+      - GET /api/lessons/user/:userId/next
+      - POST /api/lessons/progress
+      - GET /api/agent-memory/:userId/zolai-lesson-tutor
+      - PUT /api/agent-memory
+      - POST /api/agent-memory/learn
+      - GET /api/dictionary/search
+      - POST /api/chat
+    memory:
+      - cefr_level
+      - weak_vocab
+      - recent_errors
+      - preferred_exercise_type
+      - last_lesson_id
+    self_improvement: true
+
+  phrasebook-builder:
+    name: Zolai Phrasebook Builder
+    dir: agents/zolai-phrasebook-builder/
+    team: education
+    skill: skills/phrasebook-builder/
+    trigger: ["build phrasebook", "category phrases", "daily phrases", "travel phrases"]
+    output: data/raw/phrasebook/
+
+  pronunciation-guide:
+    name: Zolai Pronunciation Guide
+    dir: agents/zolai-pronunciation-guide/
+    team: education
+    skill: skills/pronunciation-guide/
+    trigger: ["pronunciation", "phonetics", "IPA", "how to pronounce"]
+
+  # ── Infrastructure ────────────────────────────────────────────────────────────
+  server-ops:
+    name: Zomi Server Ops
+    dir: agents/zomi-server-ops/
+    team: infrastructure
+    skill: skills/server-ops/
+    trigger: ["connect to server", "check server", "server health", "restart server",
+              "deploy to server", "server logs", "server backup", "openclaw down",
+              "nginx down", "521 error", "404 error"]
+    script: scripts/deploy/server.sh
+
+  security-auditor:
+    name: Zolai Security Auditor
+    dir: agents/zolai-security-auditor/
+    team: infrastructure
+    skill: skills/security-auditor/
+    trigger: ["security audit", "check headers", "api security", "vulnerability"]
+    output: artifacts/security_audit.md
+
+  # ── Pipeline Orchestration ────────────────────────────────────────────────
+  pipeline-team:
+    name: Zolai Pipeline Team
+    dir: agents/zolai-pipeline-team/
+    team: pipeline
+    skills: [pipeline-orchestrator, kaggle-automation]
+    trigger: ["run pipeline", "clean and train", "upload to kaggle", "start training", "full pipeline", "pipeline status"]
+    script: scripts/deploy/kaggle-pipeline.sh
+    stages:
+      collect:  "bash scripts/deploy/kaggle-pipeline.sh collect"
+      clean:    "bash scripts/deploy/kaggle-pipeline.sh clean"
+      combine:  "bash scripts/deploy/kaggle-pipeline.sh combine"
+      train:    "bash scripts/deploy/kaggle-pipeline.sh train"
+      download: "bash scripts/deploy/kaggle-pipeline.sh download"
+      deploy:   "bash scripts/deploy/kaggle-pipeline.sh deploy"
+      full:     "bash scripts/deploy/kaggle-pipeline.sh full"
+      status:   "bash scripts/deploy/kaggle-pipeline.sh status"
+    schedule:
+      collect:       "0 */6 * * *"
+      clean_upload:  "0 */12 * * *"
+      full_pipeline: "0 3 * * 0"
+    notifications:
+      telegram: true
+      events: [stage_complete, stage_failed, pipeline_complete, pipeline_failed]
+
+# ── Workflows ──────────────────────────────────────────────────────────────────
+workflows:
+
+  ingest_new_source:
+    description: "Add a new JSONL source and merge into master"
+    team: data
+    steps:
+      - agent: data-manager
+        action: "place file in data/master/sources/"
+      - agent: cleaner
+        action: "python scripts/combine_and_categorize.py"
+      - agent: ops-monitor
+        action: "python scripts/doublecheck_master.py"
+
+  full_data_rebuild:
+    description: "Rebuild all combined outputs from scratch"
+    team: data
+    steps:
+      - agent: cleaner
+        action: "python scripts/combine_and_categorize.py --output-dir data/master/combined"
+      - agent: ops-monitor
+        action: "python scripts/doublecheck_master.py"
+
+  training_pipeline:
+    description: "Prepare data and run fine-tuning"
+    team: training
+    steps:
+      - agent: ops-monitor
+        action: "verify combined/ record counts"
+      - agent: linguistic-specialist
+        action: "audit combined/ dataset for ZVS compliance"
+      - agent: trainer
+        action: "python scripts/training/prepare_train.py"
+      - agent: trainer
+        action: "upload to Kaggle and run notebook"
+      - agent: evaluator
+        action: "run benchmarks on checkpoint"
+
+  system_self_audit:
+    description: "Multi-agent audit of configs against latest ZVS standards"
+    team: language
+    steps:
+      - agent: linguistic-specialist
+        action: "audit agent rules for ZVS compliance"
+      - agent: grammar-checker
+        action: "run scripts/test_grammar_rules.py"
+      - agent: dialect-classifier
+        action: "scan combined/ for non-Tedim dialect words"
+      - agent: ops-monitor
+        action: "update milestones and record counts"
+      - agent: wiki-manager
+        action: "verify tool paths and documentation"
+
+  expand_instructions:
+    description: "Grow the instructions dataset (currently only 1,146 records — target 10,000)"
+    team: data
+    steps:
+      - agent: synthesizer
+        action: "generate tutor dialogues, grammar exercises, cultural Q&A"
+      - agent: linguistic-specialist
+        action: "validate ZVS compliance"
+      - agent: cleaner
+        action: "merge into combined/instructions.jsonl"
+
+  data_quality_pipeline:
+    description: "Run full data quality pipeline: LID → dedup → quality filter → clean corpus"
+    team: data
+    steps:
+      - agent: data-quality
+        action: "NFKC normalize + strip ### noise + length filter"
+      - agent: data-quality
+        action: "fastText LID filter (lid_tedim.bin) — keep Tedim only"
+      - agent: data-quality
+        action: "dialect purity filter — flag forbidden words"
+      - agent: data-quality
+        action: "SHA-256 exact deduplication"
+      - agent: data-quality
+        action: "MinHash LSH near-duplicate removal (threshold=0.8)"
+      - agent: data-quality
+        action: "quality heuristics (repetition, symbol ratio)"
+      - agent: ops-monitor
+        action: "log stats: input count, removed per stage, output count"
+      - agent: trainer
+        action: "use corpus_master_clean_v1.jsonl for next training run"
+
+  build_phrasebook:
+    description: "Build categorized phrasebook from parallel corpus"
+    team: education
+    steps:
+      - agent: phrasebook-builder
+        action: "extract phrases by category from parallel.jsonl"
+      - agent: grammar-checker
+        action: "validate ZVS compliance of all phrases"
+      - agent: wiki-manager
+        action: "document new phrasebook in wiki"
+
+  security_check:
+    description: "Audit API security after deployment"
+    team: infrastructure
+    steps:
+      - agent: security-auditor
+        action: "probe all public endpoints"
+      - agent: ops-monitor
+        action: "log findings to artifacts/security_audit.md"
+
+  full_pipeline:
+    description: "Full end-to-end: collect → clean → validate → prepare → upload → train → download → evaluate"
+    team: pipeline
+    lead: pipeline-team
+    command: "bash scripts/deploy/kaggle-pipeline.sh full"
+    steps:
+      - agent: pipeline-team
+        stage: collect
+        action: "bash scripts/deploy/kaggle-pipeline.sh collect"
+        gate: "at least 1 new JSONL in data/master/sources/"
+      - agent: zomi-cleaner-bot
+        stage: clean
+        action: "python scripts/combine_and_categorize.py"
+        gate: "data/master/combined/sentences.jsonl non-empty"
+      - agent: zolai-grammar-checker
+        stage: validate
+        action: "python scripts/test_grammar_rules.py && python scripts/doublecheck_master.py"
+        gate: "exit code 0"
+      - agent: zomi-trainer-bot
+        stage: prepare
+        action: "python scripts/training/prepare_train.py"
+        gate: "runs/zo_tdm_v1/train.txt has ≥10,000 lines"
+      - agent: pipeline-team
+        stage: upload
+        action: "kaggle datasets version -p data/master/combined/ -m 'Auto pipeline' -q"
+        gate: "kaggle exit 0"
+      - agent: zomi-trainer-bot
+        stage: train
+        action: "kaggle kernels push -p notebooks/zolai-qwen-training-v2/"
+        gate: "kaggle exit 0"
+      - agent: zomi-ops-monitor
+        stage: monitor
+        action: "poll kaggle kernels status every 60s until complete"
+        gate: "status = complete"
+      - agent: zomi-trainer-bot
+        stage: download
+        action: "kaggle kernels output -k peterpausianlian/zolai-qwen-training-v2 -p models/zolai-qwen2.5-3b-lora/"
+        gate: "models/ non-empty"
+      - agent: zomi-evaluator
+        stage: evaluate
+        action: "run benchmarks on checkpoint"
+        output: "artifacts/evaluation_report.md"
+
+# ── Master Data Layout ─────────────────────────────────────────────────────────
+data:
+  master_dir: data/master/
+  sources:  data/master/sources/    # 32 unique original files (~824MB)
+  combined: data/master/combined/   # 4 clean outputs (~1.6GB)
+  archive:  data/master/archive/    # 41 duplicates (~7.5GB, deletable)
+
+combined_stats:
+  sentences:    2453291   # cleaned: 92.8% pure Tedim, 7.2% unclassified
+  parallel:      195477
+  instructions:    1146   # CRITICAL GAP — target 10,000
+  dictionary:    159027
+
+default_model: Qwen/Qwen2.5-3B-Instruct
+default_dialect: tedim
+
+# ── Model Recommendations (2024-2025 Research) ────────────────────────────────
+model_recommendations:
+  current: Qwen/Qwen2.5-3B-Instruct
+  next_upgrade: Qwen/Qwen2.5-7B-Instruct
+  best_for_tedim: SeaLLMs/SeaLLM-7B-v3   # has Burmese, built on Qwen2
+  best_multilingual_instruction: CohereForAI/aya-expanse-8b
+  best_translation: facebook/nllb-200-distilled-600M
+  training_framework: unsloth   # 2-5x faster, 70% less VRAM
+  research_reference: wiki/training/low_resource_nlp_research.md

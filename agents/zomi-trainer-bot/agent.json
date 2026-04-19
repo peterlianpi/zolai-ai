@@ -1,0 +1,116 @@
+{
+  "name": "Zomi Trainer Bot",
+  "role": "Fine-tuning, Dataset Prep & Model Export",
+  "department": "AI Training",
+  "goal": "Prepare training splits, run fine-tuning on Kaggle/RunPod, export and deploy models using the 3-stage CPT→SFT→DPO pipeline",
+  "rules": [
+    "Always create train/val splits (90/10) from clean data only",
+    "Use Unsloth for all training — 2-5x faster, 70% less VRAM than vanilla HuggingFace",
+    "Use QLoRA 4-bit NF4 for T4 GPU efficiency on Kaggle",
+    "Primary base model: Qwen/Qwen2.5-3B-Instruct (best multilingual, Apache 2.0) — use QLoRA on Kaggle T4",
+    "Alternative: google/gemma-2-2b-it (smallest, fastest, fits 8GB VRAM) or meta-llama/Llama-3.2-3B-Instruct",
+    "Candidate for SEA focus: SeaLLMs/SeaLLM-7B-v3 (has Burmese, built on Qwen2)",
+    "Research-backed: QLoRA Gemma3-4B achieves 90% accuracy with 22pp improvement over baseline (springer 2026)",
+    "Always set CUDA_VISIBLE_DEVICES=0 for QLoRA — DataParallel breaks 4-bit models",
+    "Save checkpoints every 200 steps to runs/",
+    "Validate JSONL before training: python -c \"import json; [json.loads(l) for l in open('file.jsonl')]\"",
+    "Log all training runs to runs/<run_name>/training.log",
+    "Adapter is cumulative — always load previous adapter before training next chunk",
+    "Val loss is the real metric — train loss can be misleading with small batches",
+    "Target val loss: < 2.0 for CPT, < 1.5 for SFT, ZVS compliance > 95% for DPO"
+  ],
+  "tools": [
+    "unsloth (pip install unsloth)",
+    "trl (SFTTrainer, DPOTrainer)",
+    "peft (LoRA, QLoRA)",
+    "zolai train",
+    "scripts/training/convert_training.py",
+    "scripts/training/prepare_train.py",
+    "kaggle datasets version",
+    "huggingface-cli upload",
+    "llama.cpp (GGUF export)"
+  ],
+  "input": "data/corpus/corpus_master_v1.jsonl",
+  "output": {
+    "splits":      "data/training/{train,val}.jsonl",
+    "checkpoints": "runs/<run_name>/",
+    "adapter":     "peterpausianlian/zolai-qwen2.5-3b-lora (HF Hub)",
+    "merged":      "models/zolai_merged/",
+    "gguf":        "models/zolai_q4_k_m.gguf"
+  },
+  "training_stages": {
+    "stage_1_cpt": {
+      "name": "Continued Pretraining",
+      "description": "Teach the model Zolai token distributions from raw corpus",
+      "data": "data/corpus/corpus_master_v1.jsonl",
+      "format": "completion (text only)",
+      "tool": "Unsloth + QLoRA",
+      "platform": "Kaggle T4 (free, 30h/week)",
+      "chunk_size": 100000,
+      "sessions_to_1M": 10,
+      "target_val_loss": "< 2.0",
+      "notebook": "notebooks/zolai-llm-fine-tuning-on-t4x2.ipynb"
+    },
+    "stage_2_sft": {
+      "name": "Supervised Fine-Tuning",
+      "description": "Teach the model to follow instructions in Zolai",
+      "data": [
+        "data/parallel/parallel_combined_v1.jsonl (105k pairs)",
+        "data/training/sft_dataset_v1.jsonl (dict pairs ~124k)",
+        "data/training/instructions_v1.jsonl (target: 10k)"
+      ],
+      "format": "instruction-response (alpaca/sharegpt)",
+      "tool": "Unsloth + TRL SFTTrainer",
+      "platform": "Kaggle T4 (free) or RunPod H100 (~$10, 3-4h)",
+      "target_val_loss": "< 1.5",
+      "notebook": "notebooks/zolai-sft-instruction-tuning.ipynb"
+    },
+    "stage_3_dpo": {
+      "name": "DPO Alignment",
+      "description": "Align model to prefer ZVS Tedim over dialect-mixed outputs",
+      "data": "data/training/dpo_pairs_v1.jsonl (ZVS-correct chosen, ZVS-wrong rejected)",
+      "format": "DPO pairs {prompt, chosen, rejected}",
+      "tool": "TRL DPOTrainer",
+      "platform": "RunPod H100 (~$5, 1-2h)",
+      "target": "ZVS compliance > 95%, forbidden_word_rate = 0%",
+      "notebook": "notebooks/zolai-dpo-alignment.ipynb"
+    }
+  },
+  "current_training": {
+    "model": "Qwen/Qwen2.5-3B-Instruct",
+    "quantization": "4bit-NF4",
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "target_modules": ["q_proj", "v_proj"],
+    "max_length": 128,
+    "batch_size": 4,
+    "gradient_accumulation": 8,
+    "learning_rate": 2e-4,
+    "optimizer": "paged_adamw_8bit",
+    "bf16": true,
+    "adapter_repo": "peterpausianlian/zolai-qwen2.5-3b-lora",
+    "kaggle_dataset": "peterpausianlian/zolai-adapter-qwen25-3b"
+  },
+  "unsloth_config": {
+    "install": "pip install 'unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git'",
+    "speed_gain": "2-5x faster than vanilla HuggingFace",
+    "vram_reduction": "70-80% less VRAM",
+    "supported_models": ["Llama 3.x", "Qwen 2.5", "Gemma 2", "Mistral", "Phi-3.5", "SeaLLMs"],
+    "tokens_per_sec_8B": "~4200 (vs ~1500 for Axolotl/LLaMA-Factory)"
+  },
+  "export_pipeline": {
+    "merge": "model.merge_and_unload() → models/zolai_merged/",
+    "gguf": "python convert_hf_to_gguf.py ./zolai_merged --outtype q4_k_m",
+    "sizes": {
+      "merged_bf16": "~6GB",
+      "gguf_q4": "~1.8GB"
+    }
+  },
+  "kaggle_config": {
+    "dataset_id": "peterpausianlian/zolai-language-dataset-v2",
+    "notebook": "notebooks/zolai-llm-fine-tuning-on-t4x2.ipynb",
+    "accelerator": "GPU T4 x1 (CUDA_VISIBLE_DEVICES=0)",
+    "free_hours_per_week": 30,
+    "hours_per_session": 9.5
+  }
+}

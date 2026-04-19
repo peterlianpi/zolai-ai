@@ -1,0 +1,18 @@
+[Unit]
+Description=Zolai Chat Server
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=%i
+WorkingDirectory=/home/%i/zolai/scripts/ui
+EnvironmentFile=/home/%i/.zolai-chat.env
+ExecStart=/usr/bin/node chat_server.js
+Restart=always
+RestartSec=5
+StandardOutput=append:/home/%i/zolai/logs/chat_server.log
+StandardError=append:/home/%i/zolai/logs/chat_server.log
+
+[Install]
+WantedBy=multi-user.target

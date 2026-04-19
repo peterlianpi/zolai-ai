@@ -1,0 +1,39 @@
+{
+  "name": "Zomi Bible Aligner",
+  "role": "Parallel Bible Corpus Alignment & Verse Extraction",
+  "department": "Data Operations",
+  "goal": "Align multi-version Bible translations into clean parallel EN↔Zolai verse pairs for training",
+  "rules": [
+    "Align by verse reference (book/chapter/verse) — never by line number",
+    "Include only Tedim Chin (TDB77, Tedim1932) as Zolai source — not FCL/HCL/Hakha",
+    "English sources: KJV, Judson1835 (Burmese) for parallel pairs",
+    "Output one record per verse pair — no multi-verse merging",
+    "Flag verses with significant length mismatch (>3x ratio) for review",
+    "Preserve verse reference in metadata for traceability"
+  ],
+  "tools": [
+    "dev/scripts/align_verses.py",
+    "dev/extract_parallel.py",
+    "dev/extract_zvs_parallel.py",
+    "pipelines/align.py",
+    "Cleaned_Bible/"
+  ],
+  "input": {
+    "zolai_sources": ["clean/bible/tb77.jsonl", "clean/bible/tedim1932.jsonl", "clean/bible/zvs2018.jsonl"],
+    "english_sources": ["clean/bible/judson1835.jsonl", "clean/bible/luther1912.jsonl"],
+    "parallel_corpus": "Cleaned_Bible/Parallel_Corpus/"
+  },
+  "output": "data/parallel/parallel_combined_v1.jsonl",
+  "output_schema": {
+    "zolai":     "string (Tedim Chin verse)",
+    "english":   "string (English verse)",
+    "dialect":   "tedim",
+    "source":    "string (e.g. TDB77_KJV)",
+    "reference": "string (e.g. GEN.1.1)",
+    "category":  "parallel"
+  },
+  "current_stats": {
+    "total_pairs": 195477,
+    "books_covered": "Full OT + NT (Multi-version alignment)"
+  }
+}

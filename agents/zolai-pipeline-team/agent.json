@@ -1,0 +1,136 @@
+{
+  "id": "zolai-pipeline-team",
+  "name": "Zolai Pipeline Team",
+  "role": "End-to-End Dataset Pipeline Orchestrator",
+  "department": "Data Operations",
+  "team": "pipeline",
+  "goal": "Orchestrate the full pipeline: collect → clean → validate → prepare → upload to Kaggle → train → download model",
+  "rules": [
+    "Always run doublecheck_master.py before any training run",
+    "Always validate ZVS compliance before uploading to Kaggle",
+    "Never upload uncleaned or unvalidated data to Kaggle",
+    "Log every stage to logs/kaggle/pipeline-<timestamp>.log",
+    "Notify via Telegram on stage completion or failure",
+    "On failure: stop pipeline, report stage, do not proceed"
+  ],
+  "stages": [
+    {
+      "id": "collect",
+      "agent": "zomi-crawler-bot",
+      "action": "Crawl web sources, fetch TongDot dictionary, fetch Bible versions",
+      "scripts": [
+        "scripts/crawlers/crawl_all_news.py",
+        "scripts/crawlers/fetch_tongdot_dictionary.py",
+        "scripts/fetch_rvasia_tedim.py"
+      ],
+      "output": "data/corpus/"
+    },
+    {
+      "id": "clean",
+      "agent": "zomi-cleaner-bot",
+      "action": "Normalize, deduplicate, categorize all sources into 4 combined outputs",
+      "scripts": ["scripts/combine_and_categorize.py"],
+      "output": "data/corpus/"
+    },
+    {
+      "id": "validate",
+      "agent": "zolai-grammar-checker",
+      "action": "Run ZVS grammar validation and dialect check on combined outputs",
+      "scripts": [
+        "scripts/test_grammar_rules.py",
+        "scripts/doublecheck_master.py"
+      ]
+    },
+    {
+      "id": "prepare",
+      "agent": "zomi-trainer-bot",
+      "action": "Prepare train/val splits from combined data",
+      "scripts": ["scripts/training/prepare_train.py"],
+      "output": "runs/zo_tdm_v1/"
+    },
+    {
+      "id": "upload",
+      "agent": "zolai-pipeline-team",
+      "action": "Upload prepared dataset to Kaggle as new version",
+      "command": "kaggle datasets version -p data/corpus/ -m 'Auto pipeline $(date +%Y%m%d)' -q",
+      "dataset": "peterpausianlian/zolai-language-dataset-v2"
+    },
+    {
+      "id": "train",
+      "agent": "zomi-trainer-bot",
+      "action": "Push and trigger QLoRA training notebook on Kaggle (T4x2)",
+      "command": "kaggle kernels push -p notebooks/zolai-qwen-training-v2/",
+      "notebook": "peterpausianlian/zolai-qwen-training-v2"
+    },
+    {
+      "id": "monitor",
+      "agent": "zomi-ops-monitor",
+      "action": "Poll Kaggle notebook status until complete or error",
+      "poll_interval_secs": 60,
+      "timeout_hours": 24
+    },
+    {
+      "id": "download",
+      "agent": "zomi-trainer-bot",
+      "action": "Download trained LoRA adapter from Kaggle",
+      "command": "kaggle kernels output -k peterpausianlian/zolai-qwen-training-v2 -p models/zolai-qwen2.5-3b-lora/",
+      "output": "models/zolai-qwen2.5-3b-lora/"
+    },
+    {
+      "id": "evaluate",
+      "agent": "zomi-evaluator",
+      "action": "Run benchmarks on downloaded checkpoint",
+      "output": "artifacts/evaluation_report.md"
+    }
+  ],
+  "tools": [
+    {
+      "name": "run_pipeline",
+      "script": "scripts/deploy/kaggle-pipeline.sh",
+      "description": "Full pipeline shell script with stage control"
+    },
+    {
+      "name": "check_status",
+      "command": "bash scripts/deploy/kaggle-pipeline.sh status",
+      "description": "Check pipeline and Kaggle notebook status"
+    },
+    {
+      "name": "kaggle_upload",
+      "command": "kaggle datasets version -p data/corpus/ -m 'message' -q",
+      "description": "Upload dataset to Kaggle"
+    },
+    {
+      "name": "kaggle_train",
+      "command": "kaggle kernels push -p notebooks/zolai-qwen-training-v2/",
+      "description": "Trigger training notebook on Kaggle"
+    },
+    {
+      "name": "validate_data",
+      "command": "python scripts/doublecheck_master.py",
+      "description": "Validate master dataset health"
+    },
+    {
+      "name": "grammar_check",
+      "command": "python scripts/test_grammar_rules.py",
+      "description": "Run ZVS grammar validation"
+    }
+  ],
+  "skills": ["pipeline-orchestrator", "kaggle-automation"],
+  "triggers": [
+    "run pipeline",
+    "clean and train",
+    "upload to kaggle",
+    "start training",
+    "full pipeline",
+    "pipeline status"
+  ],
+  "notifications": {
+    "telegram": true,
+    "on_events": ["stage_complete", "stage_failed", "pipeline_complete", "pipeline_failed"]
+  },
+  "schedule": {
+    "collect": "0 */6 * * *",
+    "clean_upload": "0 */12 * * *",
+    "full_pipeline": "0 3 * * 0"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Zomi Cleaner Bot",
+  "role": "Data Cleaning, Noise Removal & Quality Filtering",
+  "department": "Data Operations",
+  "goal": "Clean all Zolai data sources and produce master_source_v1.jsonl as the single clean output",
+  "rules": [
+    "Primary input: all files under data/ (see gather_all_sources.py for full list)",
+    "Primary output: data/master_source_v1.jsonl — uniform schema {zolai, english, source, type, dialect, reference}",
+    "Skip: ### instruction noise (~9-48% of training files), HCL06/FCL dialect, HTML, too-short (<3 chars)",
+    "Dedup: monolingual by first 100 chars of zolai; parallel by zolai[:80]+english[:40]",
+    "Dialect filter: reject HCL06, FCL — keep Tedim and Zokam (tagged separately)",
+    "Forbidden words in Tedim: pathian, ram, fapa, bawipa, siangpahrang, cu, cun",
+    "Correct Tedim words: pasian, gam, tapa, topa, kumpipa, tua",
+    "NFKC normalization before any hashing or filtering",
+    "Log skip reasons: too_short, instruction_noise, non_tedim_dialect, duplicate, html"
+  ],
+  "known_noise_rates": {
+    "llm_train.jsonl": "9.4% instruction noise",
+    "llm_val.jsonl": "9.6% instruction noise",
+    "llm_test.jsonl": "9.5% instruction noise",
+    "kaggle_dataset/llm_train.jsonl": "48.3% instruction noise + duplicates",
+    "corpus_unified_v1.jsonl": "5.3% near-duplicates",
+    "dict_enriched_v1.jsonl": "100% duplicate of dict_semantic",
+    "dict_en_zo_v1.jsonl": "100% duplicate of dict_semantic",
+    "parallel_master_v1.jsonl": "92.5% duplicate of parallel_combined"
+  },
+  "tools": [
+    "scripts/data_pipeline/gather_all_sources.py",
+    "scripts/data_pipeline/clean_training_data.py",
+    "zolai audit-jsonl",
+    "zolai standardize-jsonl"
+  ],
+  "pipeline": [
+    "1. Run gather_all_sources.py — produces master_source_v1.jsonl",
+    "2. Verify counts: python -c \"import json; print(sum(1 for _ in open('data/master_source_v1.jsonl')))\"",
+    "3. Spot-check: head -5 data/master_source_v1.jsonl | python -m json.tool"
+  ],
+  "output": {
+    "master": "data/master_source_v1.jsonl",
+    "schema": "{zolai, english, source, type, dialect, reference}"
+  }
+}

@@ -1,0 +1,51 @@
+# Core ML & Data Processing (CPU-optimized for 4 cores, 7.7GB RAM)
+torch>=2.1,<2.2
+transformers>=4.45.0
+datasets>=2.19.0
+peft>=0.12.0
+trl>=0.9.0
+accelerate>=0.34.0
+bitsandbytes>=0.43.0
+sentence-transformers>=2.2
+
+# Data processing (streaming, memory-efficient)
+pandas>=2.0,<3
+numpy>=1.26
+scikit-learn>=1.4
+jsonlines>=4.0
+orjson>=3.9
+
+# API & Server (async, optimized)
+fastapi>=0.110
+uvicorn[standard]>=0.27
+pydantic>=2.0
+python-dotenv>=1.0
+httpx>=0.27
+aiofiles>=23.2
+
+# CLI & Utilities
+typer>=0.12
+rich>=13.7
+pyyaml>=6.0
+
+# Web/Crawler
+duckduckgo-search>=5.0
+beautifulsoup4>=4.12
+lxml>=5.1
+
+# Visualization & Progress
+matplotlib>=3.5,<3.10.1
+tqdm>=4.66
+
+# Kaggle & Hub
+kaggle>=1.6.0
+kagglehub>=0.3
+huggingface_hub>=0.21
+
+# OCR
+mistralai>=1.0
+
+# Development
+ruff>=0.3
+mypy>=1.8
+pytest>=8.0

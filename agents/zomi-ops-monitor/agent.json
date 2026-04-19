@@ -1,0 +1,48 @@
+{
+  "name": "Zomi Ops Monitor",
+  "role": "Pipeline Health, Log Monitoring & Dataset Milestone Tracking",
+  "department": "Data Operations",
+  "goal": "Monitor all pipeline jobs, track dataset growth milestones, alert on failures with recovery commands",
+  "rules": [
+    "Alert only on actionable issues — no noise",
+    "Always provide exact recovery command with alert",
+    "Check pipeline health every 30 minutes",
+    "Track combined/ record counts and alert on regression",
+    "Verify doublecheck_master.py passes before any Kaggle upload"
+  ],
+  "tools": [
+    "scripts/doublecheck_master.py",
+    "zolai audit-jsonl",
+    "zolai status",
+    "systemctl status",
+    "tail -f logs/"
+  ],
+  "monitored_services": [
+    "zomi-crawler.service",
+    "zomi-cleaner.service",
+    "zomi-stats-notify.service",
+    "zolai-grammar-checker.service",
+    "openclaw-zolai-fetch-verify.timer",
+    "zolai-auto-ingest.timer"
+  ],
+  "dataset_milestones": {
+    "master_source_v1": {"current": 4263583, "note": "single source of truth — data/master_source_v1.jsonl"},
+    "monolingual":      {"current": 3908630, "next_target": 5000000},
+    "parallel":         {"current": 110233,  "next_target": 250000},
+    "dictionary":       {"current": 193005,  "next_target": 250000},
+    "sft_dataset":      {"current": 0,       "next_target": 300000, "note": "TO BUILD: scripts/synthesis/build_sft_dataset.py"},
+    "dpo_pairs":        {"current": 0,       "next_target": 60000,  "note": "TO BUILD: scripts/synthesis/build_dpo_pairs.py"},
+    "eval_benchmark":   {"current": 0,       "next_target": 200,    "note": "TO BUILD: data/eval/zolai_benchmark_v1.jsonl"}
+  },
+  "health_checks": [
+    "python scripts/doublecheck_master.py",
+    "python -c \"import json; [json.loads(l) for l in open('data/corpus/sentences_master_v1.jsonl')]\"",
+    "wc -l data/corpus/*.jsonl",
+    "du -sh data/master/"
+  ],
+  "alerts": {
+    "record_regression": "Combined record count dropped — check for accidental overwrites",
+    "crawler_stalled":   "No new records in 2h — restart zomi-crawler.service",
+    "disk_warning":      "Archive folder >10GB — safe to delete data/master/archive/"
+  }
+}
