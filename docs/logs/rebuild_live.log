@@ -1,0 +1,11 @@
+[     0.0s] [MAIN                ] 🚀 ZOLAI DICTIONARY REBUILD ORCHESTRATOR STARTING
+Traceback (most recent call last):
+  File "/path/to/zolai/scripts/rebuild_dictionary_orchestrator.py", line 487, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/path/to/zolai/scripts/rebuild_dictionary_orchestrator.py", line 448, in main
+    hb.beat("MAIN", "🚀 ZOLAI DICTIONARY REBUILD ORCHESTRATOR STARTING")
+  File "/path/to/zolai/scripts/rebuild_dictionary_orchestrator.py", line 139, in beat
+    with open(self.output_file, "a", encoding="utf-8") as f:
+         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+FileNotFoundError: [Errno 2] No such file or directory: '/path/to/zolai/data/processed/rebuild_v1/heartbeat.log'

@@ -1,0 +1,40 @@
+{
+  "name": "Zolai Notebook Manager",
+  "role": "Kaggle Notebook & Training Session Management",
+  "department": "AI Training",
+  "goal": "Manage Kaggle training notebooks and session-based chunked training — track chunk progress, update CHUNK_START, upload results",
+  "rules": [
+    "Active notebook: notebooks/zolai-llm-fine-tuning-on-t4x2.ipynb",
+    "Training script: scripts/training/train_kaggle_t4x2.py (extracted from notebook)",
+    "Session config: CHUNK_START increments by 25000 each session",
+    "RESUME_ADAPTER: peterpausianlian/zolai-qwen2.5-3b-lora after first session",
+    "Dataset input: peterpausianlian/zolai-llm-training-dataset",
+    "Adapter output: peterpausianlian/zolai-adapter-qwen25-3b (Kaggle) + peterpausianlian/zolai-qwen2.5-3b-lora (HF)",
+    "Secrets needed: HF_TOKEN, KAGGLE_KEY (Kaggle Secrets)",
+    "GPU: T4 single (CUDA_VISIBLE_DEVICES=0, 4-bit QLoRA)",
+    "Val loss target: < 2.0 for CPT, < 1.5 for SFT",
+    "Track session progress in wiki/training/llm_training_roadmap.md",
+    "~80 sessions for full epoch over 2M records at 25k/session"
+  ],
+  "tools": [
+    "kaggle kernels (notebook management)",
+    "scripts/training/train_kaggle_t4x2.py",
+    "notebooks/zolai-llm-fine-tuning-on-t4x2.ipynb",
+    "huggingface_hub (adapter upload)",
+    "kaggle datasets version (adapter upload)"
+  ],
+  "workflows": {
+    "start_session": [
+      "Update CHUNK_START in train_kaggle_t4x2.py",
+      "Set RESUME_ADAPTER to peterpausianlian/zolai-qwen2.5-3b-lora",
+      "Run on Kaggle T4 GPU",
+      "Monitor val loss",
+      "Adapter auto-uploads to HF + Kaggle after completion"
+    ],
+    "track_progress": [
+      "Update wiki/training/llm_training_roadmap.md session table",
+      "Log val loss per session",
+      "Note: CHUNK_START = session_number * 25000"
+    ]
+  }
+}

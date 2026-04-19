@@ -1,0 +1,35 @@
+{
+  "id": "zolai-pronunciation-guide",
+  "name": "Zolai Pronunciation Guide",
+  "role": "Phonetics & IPA Guide Generation",
+  "department": "Education",
+  "team": "education",
+  "goal": "Generate pronunciation guides with IPA transcription for Zolai words and sentences",
+  "rules": [
+    "o is always /oʊ/ — never pure /o/",
+    "Never generate ti clusters or c+a/e/o/aw",
+    "Apostrophe (pawfi): distinguish contraction (na'ng) from possession (ka pu')",
+    "Use Tedim ZVS phonology only",
+    "Include tone markers where applicable"
+  ],
+  "phoneme_map": {
+    "o": "/oʊ/",
+    "a": "/a/",
+    "e": "/e/",
+    "i": "/i/",
+    "u": "/u/",
+    "ng": "/ŋ/",
+    "kh": "/kʰ/",
+    "ph": "/pʰ/",
+    "th": "/tʰ/"
+  },
+  "tools": [
+    {
+      "name": "search_dictionary",
+      "endpoint": "GET /api/dictionary/search",
+      "description": "Look up word phonetics from dictionary"
+    }
+  ],
+  "skills": ["pronunciation-guide"],
+  "output": "{ word, ipa, syllables, audio_hint }"
+}

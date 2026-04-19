@@ -1,0 +1,285 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zolai Chat</title>
+    <style>
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        
+        :root {
+            --bg-primary: #0f0f0f;
+            --bg-secondary: #1a1a1a;
+            --bg-tertiary: #252525;
+            --text-primary: #e5e5e5;
+            --text-secondary: #a0a0a0;
+            --accent: #10b981;
+            --accent-hover: #059669;
+            --border: #333;
+            --user-msg: #10b981;
+            --ai-msg: #3b82f6;
+        }
+        
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg-primary);
+            color: var(--text-primary);
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        header {
+            background: var(--bg-secondary);
+            border-bottom: 1px solid var(--border);
+            padding: 1rem;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        h1 { font-size: 1.25rem; font-weight: 600; }
+        h1 span { color: var(--accent); }
+        
+        .model-select {
+            background: var(--bg-tertiary);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+            padding: 0.5rem;
+            border-radius: 6px;
+            font-size: 0.875rem;
+        }
+        
+        #chat-container {
+            flex: 1;
+            overflow-y: auto;
+            padding: 1rem;
+            display: flex;
+            flex-direction: column;
+            gap: 1rem;
+        }
+        
+        .message {
+            max-width: 80%;
+            padding: 0.75rem 1rem;
+            border-radius: 12px;
+            line-height: 1.5;
+            white-space: pre-wrap;
+            word-wrap: break-word;
+        }
+        
+        .message.user {
+            align-self: flex-end;
+            background: var(--user-msg);
+            color: #fff;
+            border-bottom-right-radius: 4px;
+        }
+        
+        .message.assistant {
+            align-self: flex-start;
+            background: var(--bg-secondary);
+            border: 1px solid var(--border);
+            border-bottom-left-radius: 4px;
+        }
+        
+        .message.typing {
+            color: var(--text-secondary);
+            font-style: italic;
+        }
+        
+        #input-container {
+            background: var(--bg-secondary);
+            border-top: 1px solid var(--border);
+            padding: 1rem;
+            display: flex;
+            gap: 0.75rem;
+        }
+        
+        #message-input {
+            flex: 1;
+            background: var(--bg-tertiary);
+            color: var(--text-primary);
+            border: 1px solid var(--border);
+            padding: 0.75rem 1rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            resize: none;
+            min-height: 44px;
+            max-height: 150px;
+            font-family: inherit;
+        }
+        
+        #message-input:focus {
+            outline: none;
+            border-color: var(--accent);
+        }
+        
+        #send-btn {
+            background: var(--accent);
+            color: #fff;
+            border: none;
+            padding: 0.75rem 1.5rem;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 500;
+            cursor: pointer;
+            transition: background 0.2s;
+        }
+        
+        #send-btn:hover { background: var(--accent-hover); }
+        #send-btn:disabled { background: var(--text-secondary); cursor: not-allowed; }
+        
+        .typing-indicator {
+            display: inline-flex;
+            gap: 4px;
+            padding: 0.5rem;
+        }
+        
+        .typing-indicator span {
+            width: 8px;
+            height: 8px;
+            background: var(--text-secondary);
+            border-radius: 50%;
+            animation: bounce 1.4s infinite ease-in-out;
+        }
+        
+        .typing-indicator span:nth-child(1) { animation-delay: 0s; }
+        .typing-indicator span:nth-child(2) { animation-delay: 0.2s; }
+        .typing-indicator span:nth-child(3) { animation-delay: 0.4s; }
+        
+        @keyframes bounce {
+            0%, 80%, 100% { transform: translateY(0); }
+            40% { transform: translateY(-8px); }
+        }
+        
+        @media (max-width: 600px) {
+            .message { max-width: 95%; }
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🤖 <span>Zolai</span> Chat</h1>
+        <select id="model-select" class="model-select">
+            <option value="qwen3-coder:480b-cloud">qwen3-coder:480b-cloud</option>
+        </select>
+    </header>
+    
+    <div id="chat-container"></div>
+    
+    <div id="input-container">
+        <textarea id="message-input" placeholder="Type your message..." rows="1"></textarea>
+        <button id="send-btn">Send</button>
+    </div>
+    
+    <script>
+        const chatContainer = document.getElementById('chat-container');
+        const messageInput = document.getElementById('message-input');
+        const sendBtn = document.getElementById('send-btn');
+        const modelSelect = document.getElementById('model-select');
+        
+        const API_BASE = window.location.origin;
+        
+        // Load models on start
+        async function loadModels() {
+            try {
+                const resp = await fetch(`${API_BASE}/chat/models`);
+                const data = await resp.json();
+                modelSelect.innerHTML = '';
+                data.models.forEach(m => {
+                    const opt = document.createElement('option');
+                    opt.value = m.name;
+                    opt.textContent = m.name;
+                    modelSelect.appendChild(opt);
+                });
+            } catch (e) {
+                console.error('Failed to load models:', e);
+            }
+        }
+        
+        // Add message to chat
+        function addMessage(content, role) {
+            const div = document.createElement('div');
+            div.className = `message ${role}`;
+            div.textContent = content;
+            chatContainer.appendChild(div);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+            return div;
+        }
+        
+        // Show typing indicator
+        function showTyping() {
+            const div = document.createElement('div');
+            div.className = 'message assistant typing';
+            div.innerHTML = `
+                <div class="typing-indicator">
+                    <span></span><span></span><span></span>
+                </div>
+            `;
+            chatContainer.appendChild(div);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+            return div;
+        }
+        
+        // Send message
+        async function sendMessage() {
+            const content = messageInput.value.trim();
+            if (!content) return;
+            
+            messageInput.value = '';
+            addMessage(content, 'user');
+            sendBtn.disabled = true;
+            
+            const typingDiv = showTyping();
+            
+            try {
+                const resp = await fetch(`${API_BASE}/chat/chat`, {
+                    method: 'POST',
+                    headers: { 'Content-Type': 'application/json' },
+                    body: JSON.stringify({
+                        messages: [{ role: 'user', content }],
+                        model: modelSelect.value,
+                    }),
+                });
+                
+                typingDiv.remove();
+                
+                if (!resp.ok) {
+                    throw new Error(`HTTP ${resp.status}`);
+                }
+                
+                const data = await resp.json();
+                const response = data.message?.content || 'No response';
+                addMessage(response, 'assistant');
+            } catch (e) {
+                typingDiv.remove();
+                addMessage(`Error: ${e.message}`, 'assistant');
+            }
+            
+            sendBtn.disabled = false;
+            messageInput.focus();
+        }
+        
+        // Event listeners
+        sendBtn.addEventListener('click', sendMessage);
+        
+        messageInput.addEventListener('keydown', (e) => {
+            if (e.key === 'Enter' && !e.shiftKey) {
+                e.preventDefault();
+                sendMessage();
+            }
+        });
+        
+        messageInput.addEventListener('input', () => {
+            messageInput.style.height = 'auto';
+            messageInput.style.height = Math.min(messageInput.scrollHeight, 150) + 'px';
+        });
+        
+        // Initialize
+        loadModels();
+        
+        // Welcome message
+        addMessage('Hello! I'm your Zolai language assistant. Ask me about Zolai/Tedim language, translations, grammar, or anything else!', 'assistant');
+    </script>
+</body>
+</html>

@@ -1,0 +1,15 @@
+data/
+.venv/
+__pycache__/
+*.pyc
+.git/
+node_modules/
+tmp/
+logs/
+notebooks/
+kaggle_dataset/
+*.tar.gz
+*.zip
+.env
+.env.*
+!.env.example

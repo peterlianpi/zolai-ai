@@ -1,0 +1,425 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Zolai AI</title>
+<style>
+*{box-sizing:border-box;margin:0;padding:0}
+:root{
+  --bg:#212121;--sidebar:#171717;--surface:#2f2f2f;--surface2:#3a3a3a;
+  --border:#3a3a3a;--text:#ececec;--muted:#8e8ea0;--accent:#10a37f;
+  --user-bg:#2f2f2f;--radius:18px;--font:system-ui,-apple-system,sans-serif;
+}
+html,body{height:100%;overflow:hidden}
+body{font-family:var(--font);background:var(--bg);color:var(--text);display:flex}
+
+/* Sidebar */
+#sidebar{width:260px;background:var(--sidebar);display:flex;flex-direction:column;flex-shrink:0;border-right:1px solid var(--border);transition:width .2s}
+#sidebar.collapsed{width:0;overflow:hidden}
+.sidebar-top{padding:.75rem;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--border)}
+.sidebar-logo{font-weight:700;font-size:.95rem;color:var(--accent);display:flex;align-items:center;gap:.4rem}
+.new-chat-btn{display:flex;align-items:center;gap:.5rem;padding:.6rem .75rem;margin:.5rem;border-radius:10px;cursor:pointer;font-size:.85rem;color:var(--text);background:transparent;border:1px solid var(--border);transition:background .15s;width:calc(100% - 1rem)}
+.new-chat-btn:hover{background:var(--surface)}
+.sidebar-section{padding:.5rem .75rem;font-size:.7rem;color:var(--muted);text-transform:uppercase;letter-spacing:.05em;margin-top:.5rem}
+.history-item{padding:.5rem .75rem;margin:1px .5rem;border-radius:8px;cursor:pointer;font-size:.82rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;transition:background .15s}
+.history-item:hover{background:var(--surface);color:var(--text)}
+.sidebar-bottom{margin-top:auto;padding:.75rem;border-top:1px solid var(--border)}
+#google-btn{display:flex;align-items:center;gap:.5rem;padding:.6rem .75rem;border-radius:10px;cursor:pointer;font-size:.82rem;color:var(--text);background:transparent;border:1px solid var(--border);transition:all .2s;width:100%}
+#google-btn:hover{background:var(--surface)}
+#google-btn.signed-in{border-color:var(--accent);color:var(--accent);background:#0d2e22}
+
+/* Main */
+#main{flex:1;display:flex;flex-direction:column;min-width:0;position:relative}
+
+/* Top bar */
+#topbar{height:52px;display:flex;align-items:center;padding:0 1rem;gap:.5rem;flex-shrink:0;border-bottom:1px solid var(--border)}
+#toggle-sidebar{background:none;border:none;color:var(--muted);cursor:pointer;padding:6px;border-radius:8px;display:flex;align-items:center}
+#toggle-sidebar:hover{background:var(--surface);color:var(--text)}
+.model-selector{display:flex;align-items:center;gap:.4rem;flex:1}
+#prov-select,#model-select{background:var(--surface);color:var(--text);border:1px solid var(--border);padding:5px 10px;border-radius:10px;font-size:.82rem;cursor:pointer;outline:none;transition:border-color .15s}
+#prov-select:hover,#model-select:hover,#prov-select:focus,#model-select:focus{border-color:var(--accent)}
+#prov-select{width:110px}
+#model-select{flex:1;max-width:280px}
+#sel-status{font-size:.72rem;color:var(--muted);white-space:nowrap}
+.topbar-right{display:flex;align-items:center;gap:.4rem;margin-left:auto}
+#api-key-input{background:var(--surface);border:1px solid var(--border);color:var(--text);padding:5px 10px;border-radius:10px;font-size:.78rem;width:140px;outline:none}
+#api-key-input:focus{border-color:var(--accent)}
+#api-key-input::placeholder{color:var(--muted)}
+
+/* Messages */
+#msgs{flex:1;overflow-y:auto;padding:2rem 0 1rem;scroll-behavior:smooth}
+#msgs::-webkit-scrollbar{width:4px}
+#msgs::-webkit-scrollbar-thumb{background:var(--border);border-radius:4px}
+.msg-row{display:flex;justify-content:center;padding:.25rem 1rem;animation:fi .2s ease}
+@keyframes fi{from{opacity:0;transform:translateY(4px)}to{opacity:1;transform:none}}
+.msg-inner{width:100%;max-width:720px}
+.msg-row.user .msg-inner{display:flex;justify-content:flex-end}
+.bubble{padding:.75rem 1.1rem;border-radius:var(--radius);line-height:1.65;font-size:.92rem;word-break:break-word}
+.msg-row.user .bubble{background:var(--user-bg);border:1px solid var(--border);border-bottom-right-radius:5px;max-width:80%}
+.msg-row.bot .bubble{background:transparent;padding-left:0;padding-right:0;max-width:100%}
+.bubble.err{background:#2a0a0a;border:1px solid #ef4444;color:#ef4444;border-radius:10px;padding:.6rem 1rem}
+.bubble em{font-style:italic;color:#c8d3f5}
+.bubble strong{font-weight:600;color:#fff}
+.bubble code{background:var(--surface2);padding:1px 5px;border-radius:4px;font-size:.85em;font-family:monospace}
+.meta{font-size:.68rem;color:var(--muted);margin-top:.3rem;padding:0 2px;display:flex;align-items:center;gap:.4rem}
+.meta-icon{width:18px;height:18px;border-radius:50%;background:var(--accent);display:flex;align-items:center;justify-content:center;font-size:.6rem;color:#fff;flex-shrink:0}
+.typing-wrap{display:flex;align-items:center;gap:.5rem;padding:.5rem 0}
+.typing span{display:inline-block;width:6px;height:6px;border-radius:50%;background:var(--muted);animation:bounce .9s infinite}
+.typing span:nth-child(2){animation-delay:.15s}
+.typing span:nth-child(3){animation-delay:.3s}
+@keyframes bounce{0%,60%,100%{transform:translateY(0)}30%{transform:translateY(-6px)}}
+
+/* Welcome */
+#welcome{display:flex;flex-direction:column;align-items:center;justify-content:center;flex:1;padding:2rem 1rem;text-align:center}
+#welcome h1{font-size:1.8rem;font-weight:700;margin-bottom:.5rem}
+#welcome p{color:var(--muted);font-size:.9rem;margin-bottom:2rem}
+.suggestions{display:grid;grid-template-columns:1fr 1fr;gap:.6rem;max-width:560px;width:100%}
+.sug{background:var(--surface);border:1px solid var(--border);border-radius:12px;padding:.75rem 1rem;cursor:pointer;text-align:left;font-size:.82rem;color:var(--muted);transition:all .15s;line-height:1.4}
+.sug:hover{border-color:var(--accent);color:var(--text);background:var(--surface2)}
+.sug strong{display:block;color:var(--text);font-size:.85rem;margin-bottom:.2rem}
+
+/* Input */
+#input-wrap{padding:.75rem 1rem 1rem;display:flex;justify-content:center;flex-shrink:0}
+#input-box{width:100%;max-width:720px;background:var(--surface);border:1px solid var(--border);border-radius:16px;padding:.6rem .6rem .6rem 1rem;display:flex;align-items:flex-end;gap:.5rem;transition:border-color .2s;box-shadow:0 2px 12px rgba(0,0,0,.3)}
+#input-box:focus-within{border-color:var(--accent)}
+#msg{flex:1;background:transparent;border:none;outline:none;color:var(--text);font-size:.92rem;font-family:inherit;resize:none;max-height:160px;line-height:1.55;padding:4px 0}
+#msg::placeholder{color:var(--muted)}
+.input-actions{display:flex;align-items:center;gap:.3rem;flex-shrink:0}
+#send{width:36px;height:36px;border-radius:10px;border:none;cursor:pointer;background:var(--accent);color:#fff;display:flex;align-items:center;justify-content:center;transition:background .15s;flex-shrink:0}
+#send:hover{background:#0d8f6e}
+#send:disabled{background:var(--surface2);cursor:not-allowed}
+.icon-btn{width:32px;height:32px;border-radius:8px;border:1px solid var(--border);background:transparent;color:var(--muted);cursor:pointer;display:flex;align-items:center;justify-content:center;transition:all .15s;font-size:.8rem}
+.icon-btn:hover,.icon-btn.on{border-color:var(--accent);color:var(--accent);background:#0d2e22}
+#input-footer{text-align:center;font-size:.68rem;color:var(--muted);margin-top:.4rem}
+
+/* Responsive */
+@media(max-width:768px){
+  #sidebar{position:fixed;top:0;left:0;height:100%;z-index:100;transform:translateX(0);transition:transform .2s}
+  #sidebar.collapsed{transform:translateX(-100%);width:260px}
+  #api-key-input{width:110px}
+  .suggestions{grid-template-columns:1fr}
+}
+@media(max-width:480px){
+  #api-key-input{display:none}
+  #sel-status{display:none}
+  #model-select{max-width:160px}
+}
+</style>
+</head>
+<body>
+
+<!-- Sidebar -->
+<div id="sidebar">
+  <div class="sidebar-top">
+    <div class="sidebar-logo">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M12 8v4l3 3"/></svg>
+      Zolai AI
+    </div>
+  </div>
+  <button class="new-chat-btn" id="newChatBtn">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="12" y1="5" x2="12" y2="19"/><line x1="5" y1="12" x2="19" y2="12"/></svg>
+    New chat
+  </button>
+  <div class="sidebar-section">Recent</div>
+  <div id="history-list"></div>
+  <div class="sidebar-bottom">
+    <button id="google-btn">
+      <svg width="14" height="14" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>
+      Sign in with Google
+    </button>
+  </div>
+</div>
+
+<!-- Main -->
+<div id="main">
+  <!-- Topbar -->
+  <div id="topbar">
+    <button id="toggle-sidebar" title="Toggle sidebar">
+      <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+    <div class="model-selector">
+      <select id="prov-select">
+        <option value="groq">⚡ Groq</option>
+        <option value="gemini">✦ Gemini</option>
+        <option value="openrouter">🔀 OpenRouter</option>
+        <option value="qwen">🐉 Qwen</option>
+        <option value="nvidia">🟢 NVIDIA</option>
+      </select>
+      <select id="model-select"><option>Loading…</option></select>
+      <span id="sel-status"></span>
+      <select id="level-select" title="CEFR Level" style="background:var(--surface);color:var(--accent);border:1px solid var(--border);padding:4px 8px;border-radius:8px;font-size:.8rem;cursor:pointer;font-weight:600">
+        <option value="A1">A1</option><option value="A2">A2</option>
+        <option value="B1">B1</option><option value="B2">B2</option>
+        <option value="C1">C1</option><option value="C2">C2</option>
+      </select>
+    </div>
+    <div class="topbar-right">
+      <input id="api-key-input" type="password" placeholder="API key (optional)">
+      <button class="icon-btn" id="streamBtn" title="Typewriter stream">
+        <svg width="13" height="13" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="5 3 19 12 5 21 5 3"/></svg>
+      </button>
+    </div>
+  </div>
+
+  <!-- Messages / Welcome -->
+  <div id="msgs">
+    <div id="welcome">
+      <h1>Zolai AI Tutor</h1>
+      <p>Learn Tedim Zolai with AI assistance</p>
+      <div class="suggestions">
+        <div class="sug" onclick="fillMsg('Teach me basic Zolai greetings')"><strong>👋 Greetings</strong>Teach me basic Zolai greetings</div>
+        <div class="sug" onclick="fillMsg('How do I say I love you in Zolai?')"><strong>❤️ Phrases</strong>How do I say "I love you" in Zolai?</div>
+        <div class="sug" onclick="fillMsg('Explain SOV sentence structure in Zolai')"><strong>📖 Grammar</strong>Explain SOV sentence structure</div>
+        <div class="sug" onclick="fillMsg('Na dam na?')"><strong>💬 Practice</strong>Na dam na? (Are you well?)</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Input -->
+  <div id="input-wrap">
+    <div id="input-box">
+      <textarea id="msg" rows="1" placeholder="Message Zolai AI…"></textarea>
+      <div class="input-actions">
+        <button id="send" title="Send">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><line x1="22" y1="2" x2="11" y2="13"/><polygon points="22 2 15 22 11 13 2 9 22 2"/></svg>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div id="input-footer">Zolai AI can make mistakes. Verify important Zolai grammar.</div>
+</div>
+
+<script src="https://accounts.google.com/gsi/client" async></script>
+<script>
+const GOOGLE_CLIENT_ID = '312262054554-dh7966u19eopcnpi1auu8ongj983f6bo.apps.googleusercontent.com';
+
+// State
+let provider = 'groq', model = '', stream = false;
+let userId = sessionStorage.getItem('zolai_uid') || ('u_' + Math.random().toString(36).slice(2,8));
+sessionStorage.setItem('zolai_uid', userId);
+let oauthToken = sessionStorage.getItem('zolai_oauth') || null;
+let chatHistory = []; // local display history
+let currentLevel = sessionStorage.getItem('zolai_level') || 'A1';
+
+// DOM
+const msgsEl    = document.getElementById('msgs');
+const welcomeEl = document.getElementById('welcome');
+const msgInput  = document.getElementById('msg');
+const sendBtn   = document.getElementById('send');
+const provSel   = document.getElementById('prov-select');
+const modelSel  = document.getElementById('model-select');
+const levelSel  = document.getElementById('level-select');
+const selStatus = document.getElementById('sel-status');
+const apiKeyIn  = document.getElementById('api-key-input');
+const googleBtn = document.getElementById('google-btn');
+const streamBtn = document.getElementById('streamBtn');
+const sidebar   = document.getElementById('sidebar');
+const histList  = document.getElementById('history-list');
+
+// Sync level selector
+levelSel.value = currentLevel;
+levelSel.addEventListener('change', () => {
+  currentLevel = levelSel.value;
+  sessionStorage.setItem('zolai_level', currentLevel);
+});
+
+// Sidebar toggle
+document.getElementById('toggle-sidebar').addEventListener('click', () => sidebar.classList.toggle('collapsed'));
+document.getElementById('newChatBtn').addEventListener('click', () => {
+  chatHistory = [];
+  msgsEl.innerHTML = '';
+  msgsEl.appendChild(welcomeEl);
+  welcomeEl.style.display = '';
+  userId = 'u_' + Math.random().toString(36).slice(2,8);
+  sessionStorage.setItem('zolai_uid', userId);
+});
+
+// Stream toggle
+streamBtn.addEventListener('click', () => { stream = !stream; streamBtn.classList.toggle('on', stream); });
+
+// Status
+function setStatus(txt, active = false) {
+  selStatus.textContent = txt;
+  selStatus.style.color = active ? 'var(--accent)' : 'var(--muted)';
+}
+
+// Load models
+async function loadModels(prov, key) {
+  modelSel.innerHTML = '<option>Testing…</option>';
+  modelSel.disabled = true;
+  setStatus('Testing models…', true);
+  const k = key || (prov === 'gemini' && oauthToken ? oauthToken : '');
+  try {
+    const res  = await fetch(`/api/models?provider=${prov}&key=${encodeURIComponent(k)}`);
+    const data = await res.json();
+    const models = data.models || [];
+    if (!models.length) {
+      modelSel.innerHTML = '<option value="">No models — check key</option>';
+      setStatus(data.error ? '⚠ ' + data.error.slice(0,35) : 'No models');
+      modelSel.disabled = false; return;
+    }
+    modelSel.innerHTML = models.map(m => `<option value="${m.id}">${m.label || m.id}</option>`).join('');
+    model = models[0].id;
+    modelSel.disabled = false;
+    setStatus(`${models.length} models`);
+  } catch(e) {
+    modelSel.innerHTML = '<option value="">Error</option>';
+    setStatus('⚠ ' + e.message.slice(0,30));
+    modelSel.disabled = false;
+  }
+}
+
+provSel.addEventListener('change', () => { provider = provSel.value; loadModels(provider, apiKeyIn.value.trim()); });
+modelSel.addEventListener('change', () => { model = modelSel.value; });
+apiKeyIn.addEventListener('change', () => loadModels(provider, apiKeyIn.value.trim()));
+
+// Google OAuth
+const GSVG = `<svg width="14" height="14" viewBox="0 0 24 24"><path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/><path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/><path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l3.66-2.84z"/><path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/></svg>`;
+
+function setSignedIn(token) {
+  oauthToken = token;
+  sessionStorage.setItem('zolai_oauth', token);
+  googleBtn.classList.add('signed-in');
+  googleBtn.innerHTML = GSVG + ' ✓ Signed in with Google';
+}
+function setSignedOut() {
+  oauthToken = null;
+  sessionStorage.removeItem('zolai_oauth');
+  googleBtn.classList.remove('signed-in');
+  googleBtn.innerHTML = GSVG + ' Sign in with Google';
+}
+
+if (oauthToken) {
+  googleBtn.classList.add('signed-in');
+  googleBtn.innerHTML = GSVG + ' ✓ Signed in with Google';
+  provSel.value = 'gemini'; provider = 'gemini';
+}
+
+googleBtn.addEventListener('click', () => {
+  if (oauthToken) { setSignedOut(); loadModels(provider, ''); return; }
+  if (!window.google) { alert('Google script not loaded yet.'); return; }
+  google.accounts.oauth2.initTokenClient({
+    client_id: GOOGLE_CLIENT_ID,
+    scope: 'https://www.googleapis.com/auth/generative-language.peruserquota',
+    callback: resp => {
+      if (resp.error) { addMsg('Google sign-in failed: ' + resp.error, 'bot', true); return; }
+      setSignedIn(resp.access_token);
+      provSel.value = 'gemini'; provider = 'gemini';
+      loadModels('gemini', resp.access_token);
+    }
+  }).requestAccessToken();
+});
+
+// Markdown renderer
+function renderMd(text) {
+  return text
+    .replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;')
+    .replace(/\*\*(.+?)\*\*/g,'<strong>$1</strong>')
+    .replace(/\*(.+?)\*/g,'<em>$1</em>')
+    .replace(/`(.+?)`/g,'<code>$1</code>')
+    .replace(/\n/g,'<br>');
+}
+
+// Add message
+function addMsg(text, role, error = false) {
+  welcomeEl.style.display = 'none';
+  const row = document.createElement('div');
+  row.className = 'msg-row ' + role;
+  const inner = document.createElement('div');
+  inner.className = 'msg-inner';
+  const bubble = document.createElement('div');
+  bubble.className = 'bubble' + (error ? ' err' : '');
+  if (role === 'bot' && !error) bubble.innerHTML = renderMd(text);
+  else bubble.textContent = text;
+  inner.appendChild(bubble);
+  if (role === 'bot' && !error) {
+    const meta = document.createElement('div');
+    meta.className = 'meta';
+    meta.innerHTML = `<span class="meta-icon">Z</span>${provider} · ${model.split('/').pop()} · <strong>${currentLevel}</strong>`;
+    inner.appendChild(meta);
+  }
+  row.appendChild(inner);
+  msgsEl.appendChild(row);
+  msgsEl.scrollTop = msgsEl.scrollHeight;
+  return bubble;
+}
+
+function addTyping() {
+  welcomeEl.style.display = 'none';
+  const row = document.createElement('div');
+  row.className = 'msg-row bot'; row.id = 'typing';
+  row.innerHTML = '<div class="msg-inner"><div class="bubble"><div class="typing-wrap"><div class="typing"><span></span><span></span><span></span></div></div></div></div>';
+  msgsEl.appendChild(row);
+  msgsEl.scrollTop = msgsEl.scrollHeight;
+  return row;
+}
+
+// History sidebar
+function addToHistory(text) {
+  const item = document.createElement('div');
+  item.className = 'history-item';
+  item.textContent = text.slice(0, 40);
+  item.title = text;
+  histList.prepend(item);
+  if (histList.children.length > 20) histList.lastChild.remove();
+}
+
+function fillMsg(txt) { msgInput.value = txt; msgInput.focus(); autoResize(); }
+
+// Auto-resize textarea
+function autoResize() {
+  msgInput.style.height = 'auto';
+  msgInput.style.height = Math.min(msgInput.scrollHeight, 160) + 'px';
+}
+msgInput.addEventListener('input', autoResize);
+
+// Send
+async function send() {
+  const txt = msgInput.value.trim();
+  if (!txt || sendBtn.disabled) return;
+  addMsg(txt, 'user');
+  addToHistory(txt);
+  msgInput.value = ''; autoResize();
+  sendBtn.disabled = true;
+  setStatus('Thinking…', true);
+  const typing = addTyping();
+  try {
+    const body = { messages:[{role:'user',content:txt}], provider, model, userId, level: currentLevel };
+    if (oauthToken && provider === 'gemini') body.oauthToken = oauthToken;
+    else if (apiKeyIn.value.trim()) body.apiKey = apiKeyIn.value.trim();
+    const res  = await fetch('/api/chat', {method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify(body)});
+    const data = await res.json();
+    typing.remove();
+    if (data.error) { addMsg(data.error, 'bot', true); }
+    else {
+      const content = data.message?.content || '';
+      if (data.level) {
+        currentLevel = data.level;
+        sessionStorage.setItem('zolai_level', currentLevel);
+        levelSel.value = currentLevel;
+      }
+      if (stream) {
+        const b = addMsg('', 'bot');
+        let acc = '';
+        for (const ch of content) {
+          acc += ch; b.innerHTML = renderMd(acc);
+          msgsEl.scrollTop = msgsEl.scrollHeight;
+          await new Promise(r => setTimeout(r, 10));
+        }
+      } else { addMsg(content, 'bot'); }
+    }
+  } catch(e) { typing.remove(); addMsg('Error: ' + e.message, 'bot', true); }
+  sendBtn.disabled = false;
+  setStatus(`${modelSel.options.length} models`);
+  msgInput.focus();
+}
+
+sendBtn.addEventListener('click', send);
+msgInput.addEventListener('keydown', e => { if (e.key==='Enter'&&!e.shiftKey){e.preventDefault();send();} });
+
+// Init
+loadModels(provider, oauthToken && provider === 'gemini' ? oauthToken : '');
+</script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+[Unit]
+Description=Zolai Telegram Bot
+After=network-online.target
+Wants=network-online.target
+
+[Service]
+Type=simple
+User=%i
+WorkingDirectory=/home/%i/zolai
+EnvironmentFile=/home/%i/.zolai-bot.env
+ExecStart=/usr/bin/python3 scripts/deploy/telegram_bot.py
+Restart=always
+RestartSec=10
+StandardOutput=append:/home/%i/.openclaw/telegram_bot.log
+StandardError=append:/home/%i/.openclaw/telegram_bot.log
+
+[Install]
+WantedBy=multi-user.target

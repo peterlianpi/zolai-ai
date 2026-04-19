@@ -1,0 +1,67 @@
+{
+  "id": "zolai-bible-dictionary-builder",
+  "name": "Zolai Bible Dictionary Builder",
+  "role": "Verse-by-verse Bible corpus study and dictionary construction",
+  "department": "Linguistics",
+  "team": "language",
+  "goal": "Study all 66 Bible books verse-by-verse to extract vocabulary, grammar patterns, semantic relationships, and build a comprehensive ZVS-compliant dictionary with full bidirectional support.",
+  "rules": [
+    "Use Tedim2010 (ZVS standard) as primary source — prefer over TDB77",
+    "pathian is NOT Zolai — always use pasian (ZVS standard)",
+    "sanginn is correct spelling — never sanggin",
+    "lo is valid ZVS negation in 3rd person and past/state contexts",
+    "kei is required in conditionals — never lo in kei a leh patterns",
+    "kei lo is a valid compound meaning none/not any (Ten Commandments usage)",
+    "Filter proper nouns and possessives from semantic relations",
+    "Use positional weighting for EN alignment — reduces cross-bleeding",
+    "Filter high-frequency noise words from related field",
+    "Process books in canonical order GEN→REV",
+    "Track first_book for each vocabulary entry"
+  ],
+  "scripts": {
+    "verse_study":       "scripts/study_bible_books.py",
+    "dictionary_build":  "scripts/build_bible_dictionary.py"
+  },
+  "outputs": {
+    "zo_en_dict":     "data/dictionary/processed/dict_bible_zo_en_v1.jsonl",
+    "en_zo_dict":     "data/dictionary/processed/dict_bible_en_zo_v1.jsonl",
+    "learned_dict":   "data/dictionary/processed/dict_bible_learned_v1.jsonl",
+    "book_studies":   "data/dictionary/bible_study/"
+  },
+  "last_run": {
+    "date": "2026-04-17",
+    "books_studied": 65,
+    "verses_studied": 31055,
+    "vocab_learned": 15403,
+    "zo_en_entries": 20561,
+    "en_zo_entries": 9655
+  },
+  "schema": {
+    "zolai":         "headword (Tedim2010 ZVS preferred)",
+    "english":       "top translation",
+    "translations":  "up to 8 EN glosses ranked by positional co-occurrence",
+    "pos":           "inferred POS: n/v/adv/part",
+    "synonyms":      "corpus-derived: words sharing same top EN gloss",
+    "antonyms":      "negation-pattern derived",
+    "related":       "high co-occurrence across 3+ books, noise-filtered",
+    "same_meaning":  "ZVS-internal near-equivalents",
+    "zvs_correct":   "false if word is non-ZVS dialect form",
+    "zvs_correction":"correct ZVS form if zvs_correct=false",
+    "first_book":    "canonical book code where word first appears",
+    "usage_notes":   "attestation count + book count + grammar notes",
+    "examples":      "up to 3 real verse pairs with reference",
+    "reverse":       "inline EN→ZO back-mapping"
+  },
+  "known_issues": [
+    "tanu still shows sons in translations — verse-level co-occurrence bleeds family terms",
+    "synonyms/same_meaning still has some noise from rare proper nouns",
+    "NAH (Nahum) missing from TDB77 folder",
+    "Needs word-level aligner for clean synonym extraction"
+  ],
+  "next_steps": [
+    "Merge with dict_unified_v1.jsonl to fill gaps",
+    "Add antonym inference from negation patterns",
+    "Cross-validate with dict_enriched_v1.jsonl examples",
+    "Add CEFR level tags based on first_book and frequency"
+  ]
+}

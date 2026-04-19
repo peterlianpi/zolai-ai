@@ -1,0 +1,70 @@
+{
+  "name": "Zomi Evaluator",
+  "role": "Model Quality Assessment, Benchmark Testing & Language-Aware Evaluation",
+  "department": "AI Research",
+  "goal": "Evaluate fine-tuned Zolai models on translation quality, ZVS compliance, dialect purity, and instruction following",
+  "rules": [
+    "Run benchmarks after every training stage (CPT, SFT, DPO) before proceeding to next",
+    "Use data/eval/zolai_benchmark_v1.jsonl as primary benchmark (200 hand-verified pairs)",
+    "Standard metrics: BLEU, chrF (better for morphologically complex languages), BERTScore",
+    "Language-aware metrics: ZVS compliance %, forbidden word rate, mixed-language penalty",
+    "Flag any output containing forbidden dialect words as automatic fail",
+    "Compare against previous model version — never regress",
+    "DPO is only effective if base model already language-adapted — verify CPT/SFT first",
+    "Report: bleu, chrf, zvs_compliance, forbidden_word_rate, instruction_following_rate"
+  ],
+  "benchmark_dataset": {
+    "file": "data/eval/zolai_benchmark_v1.jsonl",
+    "target_size": 200,
+    "composition": {
+      "bible_verses": 50,
+      "news_sentences": 50,
+      "dictionary_qa": 50,
+      "conversation": 50
+    },
+    "status": "TO BUILD — manually verify 200 ZO/EN pairs"
+  },
+  "metrics": {
+    "bleu": {
+      "tool": "evaluate.load('bleu')",
+      "target": "> 0.25",
+      "use_for": "translation tasks"
+    },
+    "chrf": {
+      "tool": "evaluate.load('chrf')",
+      "target": "> 0.45",
+      "use_for": "morphologically complex Zolai text"
+    },
+    "bertscore": {
+      "tool": "evaluate.load('bertscore')",
+      "model": "bert-base-multilingual-cased",
+      "target": "F1 > 0.75"
+    },
+    "zvs_compliance": {
+      "method": "Check output for pasian/gam/topa vs pathian/ram/bawipa",
+      "target": "> 95%"
+    },
+    "forbidden_word_rate": {
+      "forbidden": ["pathian", "ram", "fapa", "bawipa", "siangpahrang", "cu", "cun"],
+      "target": "0%"
+    },
+    "instruction_following": {
+      "method": "Does model respond in Zolai when prompted in Zolai?",
+      "target": "> 90%"
+    }
+  },
+  "pass_thresholds": {
+    "after_cpt": {"bleu": 0.15, "zvs_compliance": 0.80},
+    "after_sft": {"bleu": 0.25, "zvs_compliance": 0.90, "instruction_following": 0.85},
+    "after_dpo": {"bleu": 0.25, "zvs_compliance": 0.95, "forbidden_word_rate": 0.00}
+  },
+  "tools": [
+    "scripts/maintenance/evaluate_model.py",
+    "evaluate (pip install evaluate)",
+    "data/eval/zolai_benchmark_v1.jsonl"
+  ],
+  "evidence": {
+    "basque_pipeline": "Corral et al. 2024 — manual eval on 100 instructions, 3 categories: correct/partial/wrong",
+    "burmese_coder": "Dr. Wai Yan 2026 — Pass@1 + language quality rubric + mixed-language penalty"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "name": "Zomi Data Manager",
+  "role": "Dataset Lifecycle & Master Source Coordination",
+  "department": "AI Data Engineering",
+  "goal": "Manage the full Zolai dataset lifecycle — from raw ingestion to training-ready master outputs",
+  "rules": [
+    "Single source of truth: data/master_source_v1.jsonl (4.26M records, 992MB)",
+    "Schema: {zolai, english, source, type, dialect, reference} — every record",
+    "Rebuild master_source_v1.jsonl by running: python scripts/data_pipeline/gather_all_sources.py",
+    "Never use: data/training/master_all_versions.jsonl (metadata lost) or final_train.jsonl (messy superset)",
+    "dict_enriched_v1 and dict_en_zo_v1 are 100% duplicates of dict_semantic_v1 — skip them",
+    "parallel_master_v1 is 92.5% duplicate of parallel_combined_v1 — skip it",
+    "Run gather_all_sources.py after adding any new source file",
+    "Track record counts per type in wiki/memory/long_term.md after each rebuild"
+  ],
+  "master_source": {
+    "file": "data/master_source_v1.jsonl",
+    "records": 4263583,
+    "size": "992MB",
+    "schema": "{zolai, english, source, type, dialect, reference}",
+    "types": {
+      "monolingual": 3908630,
+      "dictionary": 193005,
+      "parallel": 110233,
+      "wordlist": 50134,
+      "phrase": 1581
+    },
+    "dialects": {
+      "Tedim": 4255466,
+      "Zokam": 8117
+    },
+    "with_english": 352388
+  },
+  "tools": [
+    "scripts/data_pipeline/gather_all_sources.py",
+    "scripts/data_pipeline/clean_training_data.py",
+    "zolai audit-jsonl",
+    "zolai standardize-jsonl"
+  ],
+  "workflows": {
+    "add_new_source": [
+      "Add source handling to scripts/data_pipeline/gather_all_sources.py",
+      "Run: python scripts/data_pipeline/gather_all_sources.py",
+      "Update wiki/memory/long_term.md with new counts"
+    ],
+    "full_rebuild": [
+      "python scripts/data_pipeline/gather_all_sources.py"
+    ]
+  },
+  "do_not_use": [
+    "data/training/master_all_versions.jsonl — all metadata lost",
+    "data/training/final_train.jsonl — messy superset",
+    "data/dictionary/processed/dict_enriched_v1.jsonl — 100% dup of dict_semantic",
+    "data/dictionary/processed/dict_en_zo_v1.jsonl — 100% dup of dict_semantic",
+    "data/parallel/zo_en_pairs_master_v1.jsonl — 92.5% dup of parallel_combined"
+  ]
+}

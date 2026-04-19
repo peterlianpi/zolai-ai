@@ -1,0 +1,29 @@
+# CPU Optimization Config for 4-core, 7.7GB RAM machine
+# Use with: accelerate config --config_file config/cpu_optimization.yaml
+
+compute_environment: LOCAL_MACHINE
+distributed_type: NO
+mixed_precision: 'no'
+use_cpu: true
+num_processes: 4
+num_machines: 1
+machine_rank: 0
+main_training_function: main
+rdzv_backend: static
+same_network: true
+main_process_ip: null
+main_process_port: null
+process_index: null
+local_rank: null
+fp16_backend: auto
+torch_device_id: null
+downcast_bf16: 'no'
+
+# CPU-specific optimizations
+cpu_affinity: 'socket'  # Pin processes to CPU socket
+enable_cpu_affinity: true
+
+# Memory optimization
+gradient_accumulation_steps: 4  # Reduce batch size via accumulation
+gradient_checkpointing: true    # Trade compute for memory
+use_memory_efficient_attention: true

@@ -1,0 +1,12 @@
+ 143259 a 
+  65356 in 
+  49664 i 
+  41863 ah 
+  41670 na 
+  13802 hi 
+  12752 ka 
+   9172 ciangin 
+   6451 dingin 
+   5225 Topa 
+   3587 Pasian 
+     76 leng 

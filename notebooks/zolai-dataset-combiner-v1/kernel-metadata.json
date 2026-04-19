@@ -1,0 +1,14 @@
+{
+  "id": "peterpausianlian/zolai-dataset-combiner-v1",
+  "title": "zolai-dataset-combiner-v1",
+  "code_file": "zolai-dataset-combiner-v1.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": ["peterpausianlian/zolai-language-dataset-v2"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

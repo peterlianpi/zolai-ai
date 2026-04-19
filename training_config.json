@@ -1,0 +1,56 @@
+{
+  "model_name": "Qwen/Qwen2.5-3B-Instruct",
+  "dataset": {
+    "note": "data/ is gitignored; datasets are hosted on HuggingFace (peterpausianlian/zolai-*)",
+    "train": "data/training/llm_train_v3.jsonl",
+    "val": "data/training/llm_val_v3.jsonl",
+    "test": "data/training/llm_test_v3.jsonl",
+    "total_records": 2000000,
+    "language": "Zolai (Tedim)",
+    "description": "Tedim Zolai LLM training dataset v3 (~2M records)"
+  },
+  "training": {
+    "method": "LoRA",
+    "lora_r": 8,
+    "lora_alpha": 16,
+    "lora_dropout": 0.05,
+    "batch_size": 4,
+    "gradient_accumulation_steps": 4,
+    "learning_rate": 0.0002,
+    "num_epochs": 3,
+    "warmup_steps": 500,
+    "weight_decay": 0.01,
+    "max_seq_length": 128,
+    "save_steps": 500,
+    "eval_steps": 500,
+    "logging_steps": 100
+  },
+  "hardware": {
+    "recommended_gpu": "T4 (16GB) \u2014 Kaggle free tier",
+    "estimated_training_time": "~11 min per 25k chunk on T4",
+    "estimated_vram": "24GB"
+  },
+  "expected_results": {
+    "fluency": "High - 6.4M diverse examples",
+    "understanding": "Good - 90% corpus data",
+    "translation": "Moderate - 105K parallel pairs",
+    "learning_capability": "Excellent - 67% beginner-intermediate"
+  },
+  "alternatives": {
+    "model_1": {
+      "name": "Llama-2-7b-chat",
+      "pros": "Well-tested, good community support",
+      "cons": "Slightly slower than Qwen"
+    },
+    "model_2": {
+      "name": "Mistral-7B-Instruct",
+      "pros": "Fastest, most efficient",
+      "cons": "Less instruction-tuned"
+    },
+    "model_3": {
+      "name": "Qwen-14B-Chat",
+      "pros": "Better quality, more capable",
+      "cons": "Requires 40GB+ VRAM"
+    }
+  }
+}

@@ -1,0 +1,24 @@
+======================================================================
+BIBLE VOCABULARY EXTRACTION — Context & Usage Learning
+======================================================================
+
+Found 66 Bible books
+
+[1/66] 1CH
+  63 chunks to process
+    [1/63] calling API...Groq.429.Groq.429.Groq.429. saving... ✓ failed | 0 items
+    [2/63] calling API...Groq.429.Groq.429.Groq.429. saving... ✓ failed | 0 items
+    [3/63] calling API...Groq.429.Groq.429.Groq.429. saving... ✓ failed | 0 items
+    [4/63] calling API...Groq.429.Groq.429.Groq.429. saving... ✓ failed | 0 items
+    [5/63] calling API...Groq.429.Groq.429.Groq.429. saving... ✓ failed | 0 items
+    [6/63] calling API...Groq.429.Groq.429.Groq.429. saving... ✓ failed | 0 items
+    [7/63] calling API...Groq.429.Groq.429.Groq.429.Traceback (most recent call last):
+  File "/path/to/zolai/scripts/learn_bible_vocab.py", line 195, in <module>
+    raise SystemExit(main())
+                     ^^^^^^
+  File "/path/to/zolai/scripts/learn_bible_vocab.py", line 163, in main
+    data, provider = call_api(chunk_text)
+                     ^^^^^^^^^^^^^^^^^^^^
+  File "/path/to/zolai/scripts/learn_bible_vocab.py", line 59, in call_api
+    time.sleep(15)
+KeyboardInterrupt

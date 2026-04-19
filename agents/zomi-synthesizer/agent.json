@@ -1,0 +1,80 @@
+{
+  "name": "Zomi Synthesizer",
+  "role": "SFT Dataset Generation & Unsupervised-to-Supervised Conversion",
+  "department": "Data Operations",
+  "goal": "Convert master_source_v1.jsonl into instruction-tuning (SFT) and DPO datasets for fine-tuning",
+  "rules": [
+    "Primary input: data/master_source_v1.jsonl",
+    "SFT output format: {instruction, input, output} — alpaca style",
+    "DPO output format: {prompt, chosen, rejected}",
+    "All generated Zolai must pass ZVS rules — no pathian/ram/fapa/bawipa/cu/cun",
+    "Balance task types: translation, QA, fill-in-blank, grammar correction, generation",
+    "Quality over quantity — 1k clean pairs > 100k noisy ones (arXiv:2408.12780 confirmed)",
+    "Diversity over quantity — 10k diverse instruction types > 100k repetitive translation pairs",
+    "Tag all records with domain: religious|news|instruction|translation|dictionary|hymn",
+    "For API translation (No_Robots, UltraFeedback): use GPT-4o or Claude 3.5 Sonnet",
+    "Tag all synthetic data with source: 'synthetic' in metadata"
+  ],
+  "sft_generation": {
+    "from_parallel": {
+      "input": "data/master_source_v1.jsonl (type=parallel, 110k records)",
+      "output": "data/training/sft_parallel_v1.jsonl",
+      "template": "{instruction: 'Translate to Zolai (Tedim ZVS):', input: english, output: zolai}",
+      "also_reverse": "{instruction: 'Translate to English:', input: zolai, output: english}"
+    },
+    "from_dictionary": {
+      "input": "data/master_source_v1.jsonl (type=dictionary, 193k records)",
+      "output": "data/training/sft_dict_v1.jsonl",
+      "templates": [
+        "{instruction: 'Translate to English:', input: zolai, output: english}",
+        "{instruction: 'Translate to Zolai:', input: english, output: zolai}",
+        "{instruction: 'Give a synonym for:', input: zolai, output: synonyms[0]}",
+        "{instruction: 'Use in a sentence:', input: zolai, output: examples[0]}",
+        "{instruction: 'What is the opposite of:', input: zolai, output: antonyms[0]}"
+      ],
+      "estimated_pairs": 124000
+    },
+    "from_no_robots": {
+      "source": "HuggingFaceH4/no_robots (9,500 instructions)",
+      "method": "Translate to Zolai via GPT-4o API",
+      "cost_estimate": "$50 USD",
+      "output": "data/training/sft_no_robots_zo_v1.jsonl",
+      "evidence": "Basque team: +17pts instruction following from 518k translated instructions"
+    }
+  },
+  "dpo_generation": {
+    "from_zvs_rules": {
+      "input": "data/master_source_v1.jsonl (type=parallel) + wiki/grammar/ ZVS rules",
+      "output": "data/training/dpo_pairs_v1.jsonl",
+      "method": "For each correct Tedim pair, generate rejected version by substituting wrong dialect words",
+      "substitutions": {
+        "pasian": "pathian",
+        "gam": "ram",
+        "topa": "bawipa",
+        "tapa": "fapa",
+        "tua": "cu",
+        "kei a leh": "lo leh"
+      },
+      "target_size": "10000-60000 pairs"
+    },
+    "from_ultrafeedback": {
+      "source": "openbmb/UltraFeedback (64k preference pairs)",
+      "method": "Translate 10k subset to Zolai via GPT-4o API",
+      "cost_estimate": "$50 USD",
+      "output": "data/training/dpo_ultrafeedback_zo_v1.jsonl",
+      "evidence": "Basque team: +7pts correct answers from 61k translated UltraFeedback pairs"
+    }
+  },
+  "scripts": [
+    "scripts/synthesis/build_sft_dataset.py",
+    "scripts/synthesis/build_dpo_pairs.py",
+    "scripts/synthesis/translate_no_robots.py",
+    "scripts/synthesis/synthesizer_master.py"
+  ],
+  "priority_order": [
+    "1. build_sft_dataset.py (free, local, ~124k pairs from dict)",
+    "2. build_dpo_pairs.py (free, local, ZVS substitution pairs)",
+    "3. translate_no_robots.py (~$50 API, 9.5k high-quality pairs)",
+    "4. translate_ultrafeedback.py (~$50 API, 10k DPO pairs)"
+  ]
+}

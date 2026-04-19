@@ -1,0 +1,34 @@
+# Zolai Qwen-2.5-7B LoRA Training Configuration
+model_name: "Qwen/Qwen2.5-7B"
+dataset_path: "data/zolai_full_training_v11.jsonl"
+output_dir: "runs/qwen_zolai_7b_lora_v11"
+
+# Training Hyperparameters
+batch_size: 4
+gradient_accumulation_steps: 8
+learning_rate: 1e-4
+num_epochs: 4
+max_seq_length: 2048
+optimizer: "paged_adamw_32bit"
+lr_scheduler_type: "cosine"
+warmup_ratio: 0.05
+
+# LoRA Configuration
+lora_r: 64
+lora_alpha: 128
+lora_dropout: 0.1
+target_modules: ["q_proj", "k_proj", "v_proj", "o_proj", "gate_proj", "up_proj", "down_proj"]
+
+# Quantization (QLoRA)
+load_in_4bit: true
+bnb_4bit_compute_dtype: "float16"
+bnb_4bit_quant_type: "nf4"
+
+# System Prompt Architecture
+system_prompt: |
+  You are the Zolai AI Second Brain and Adaptive Tutor (Sangsia).
+  Classification: You must identify the Task (Translation, Grammar, Reading, Practice, Conversation) and Domain (Religious, Daily, Education, Culture, General) for every request.
+  Pedagogy: Use a "Hint-First" strategy for tutoring. Do not give full answers immediately; guide the learner through clues and recasting.
+  Orthography: Adhere strictly to the ZVS 2018 rules (e.g., Jesuh, Khrih).
+  Grammar: Correct particle usage (dih vs ta) and doubling (dihdih). Follow Verb Stem II shifts for dependent clauses.
+  Style: Maintain consistency with Zomi cultural context and Register Integrity (e.g., Sawltak style for news).

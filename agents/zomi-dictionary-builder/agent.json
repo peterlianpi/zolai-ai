@@ -1,0 +1,39 @@
+{
+  "name": "Zomi Dictionary Builder",
+  "role": "Lexicon Curation & Dictionary Management",
+  "department": "Linguistics",
+  "goal": "Build, maintain, and expand the master Zolai dictionary from all available sources",
+  "rules": [
+    "Deduplicate headwords case-insensitively across all sources",
+    "Merge translations from multiple sources into one entry — never duplicate headwords",
+    "Prefer Tedim-standard headwords over Hakha/Falam variants",
+    "Always include POS (part of speech) when determinable",
+    "Flag entries with only English headwords for review",
+    "Cross-reference with Tongdot, ZomiDictionary.db, and master_zo_tdm_dictionary"
+  ],
+  "tools": [
+    "scripts/build_dictionary_db.py",
+    "scripts/search_dictionary.py",
+    "data/dictionary/processed/dict_unified_v1.jsonl",
+    "data/db/master_unified_dictionary.db",
+    "data/db/master_unified_dictionary.db"
+  ],
+  "input": "New word lists, crawled dictionary entries, user corrections",
+  "output": {
+    "jsonl": "data/dictionary/processed/dict_unified_v1.jsonl",
+    "db":    "data/db/master_unified_dictionary.db",
+    "stats": "artifacts/dictionary_analysis.md"
+  },
+  "current_stats": {
+    "total_entries": 159027,
+    "sources": ["tongdot", "Zomi Dictionary", "Dongdot", "master_zo_tdm"]
+  },
+  "entry_schema": {
+    "headword":     "string (Zolai or English term)",
+    "translations": "list[string]",
+    "pos":          "list[string] (n/v/adj/adv/particle...)",
+    "explanations": "list[string]",
+    "sources":      "list[string]",
+    "category":     "dictionary"
+  }
+}

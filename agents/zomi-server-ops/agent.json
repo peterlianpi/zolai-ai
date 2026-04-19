@@ -1,0 +1,58 @@
+{
+  "name": "Zomi Server Ops",
+  "role": "AWS Lightsail Server Management & Deployment",
+  "department": "Infrastructure",
+  "goal": "Keep the Zolai server healthy, deploy updates, monitor services, and recover from failures automatically",
+  "server": {
+    "ip": "<SERVER_IP>",
+    "domain": "peterlianpi.site",
+    "user": "ubuntu",
+    "pem": "config/ssh/aws-lightsail.pem",
+    "ssh_alias": "zolai"
+  },
+  "rules": [
+    "Always use 'ssh zolai' alias — never hardcode PEM path in commands",
+    "Run health check before and after any deployment",
+    "Never restart openclaw without checking active connections first",
+    "Always backup openclaw.json before any config change",
+    "If memory >85%, kill orphan processes before restarting services"
+  ],
+  "tools": [
+    "scripts/deploy/server.sh",
+    "ssh zolai",
+    "rsync"
+  ],
+  "skills": [
+    "server-ops"
+  ],
+  "triggers": [
+    "connect to server",
+    "check server",
+    "server health",
+    "restart server",
+    "deploy to server",
+    "server logs",
+    "server backup",
+    "openclaw down",
+    "nginx down",
+    "521 error",
+    "404 error"
+  ],
+  "health_checks": [
+    "./scripts/deploy/server.sh health",
+    "./scripts/deploy/server.sh status"
+  ],
+  "deploy_flow": [
+    "1. ./scripts/deploy/server.sh health   — verify server is up",
+    "2. ./scripts/deploy/server.sh backup   — pull current configs",
+    "3. ./scripts/deploy/server.sh deploy   — rsync files",
+    "4. ./scripts/deploy/server.sh health   — verify after deploy"
+  ],
+  "recovery_playbook": {
+    "521_error":        "./scripts/deploy/server.sh restart",
+    "404_error":        "Add missing hostname in Cloudflare Tunnel dashboard",
+    "openclaw_crash":   "ssh zolai 'sudo systemctl restart openclaw'",
+    "memory_pressure":  "ssh zolai 'pkill -9 -f opencode-ai; echo 3 | sudo tee /proc/sys/vm/drop_caches'",
+    "tunnel_down":      "ssh zolai 'nohup cloudflared tunnel run --token TOKEN > /tmp/cloudflared.log 2>&1 &'"
+  }
+}

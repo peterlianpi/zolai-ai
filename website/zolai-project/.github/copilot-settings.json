@@ -1,0 +1,100 @@
+{
+  "name": "Zolai AI",
+  "description": "Copilot configuration for Zolai AI Next.js project",
+  "version": "1.0.0",
+  "copilot": {
+    "tools": {
+      "enabled": true,
+      "allowExternal": false
+    },
+    "mcp": {
+      "enabled": true,
+      "servers": {
+        "playwright": {
+          "enabled": true,
+          "command": "npx",
+          "args": ["playwright", "test"],
+          "cwd": "${workspaceFolder}",
+          "env": {
+            "NODE_ENV": "test",
+            "BROWSER": "chromium",
+            "DEBUG": "pw:api"
+          },
+          "timeout": 30000,
+          "capabilities": {
+            "testRunning": true,
+            "debugSupport": true,
+            "reportGeneration": true
+          }
+        },
+        "filesystem": {
+          "enabled": true,
+          "command": "node",
+          "args": ["-e", "require('@modelcontextprotocol/server-filesystem').start()"],
+          "cwd": "${workspaceFolder}",
+          "timeout": 5000,
+          "capabilities": {
+            "readFiles": true,
+            "writeFiles": true,
+            "createDirectories": true,
+            "search": true
+          }
+        },
+        "prisma": {
+          "enabled": false,
+          "command": "bunx",
+          "args": ["prisma-mcp"],
+          "cwd": "${workspaceFolder}",
+          "timeout": 10000,
+          "capabilities": {
+            "schemaIntrospection": true,
+            "migrationGeneration": true,
+            "typeHints": true
+          }
+        }
+      }
+    },
+    "documentation": {
+      "primary": "../copilot-instructions.md",
+      "references": [
+        "../AGENTS.md",
+        "../CLAUDE.md",
+        "../README.md"
+      ]
+    },
+    "codeStyle": {
+      "language": "TypeScript",
+      "framework": "Next.js 16",
+      "ui": "shadcn/ui + Tailwind CSS v4",
+      "api": "Hono RPC",
+      "orm": "Prisma 7",
+      "testing": "Playwright E2E + Vitest"
+    },
+    "commands": {
+      "dev": "bun run dev",
+      "build": "bun run build",
+      "lint": "bun run lint",
+      "test": "npx playwright test",
+      "testUnit": "bun run test:unit",
+      "migrate": "bunx prisma migrate dev --name",
+      "seed": "bunx prisma db seed"
+    }
+  },
+  "suggestions": {
+    "beforeCoding": [
+      "Read AGENTS.md for complete conventions",
+      "Check existing feature implementations in features/ for patterns",
+      "Run 'bun run lint' before committing code"
+    ],
+    "testing": [
+      "Write failing test first (TDD approach)",
+      "Run 'bun run build' before Playwright tests",
+      "Use 'npx playwright test --headed' to debug flaky tests"
+    ],
+    "common_issues": {
+      "build_fails": "Clear .next/ and reinstall: rm -rf .next/ && bun install",
+      "prisma_types_stale": "Regenerate: bunx prisma generate",
+      "tests_fail": "Check schema matches fixtures/seed-test-data.ts"
+    }
+  }
+}

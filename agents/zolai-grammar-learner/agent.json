@@ -1,0 +1,107 @@
+{
+  "id": "zolai-grammar-learner",
+  "name": "Zolai Grammar Learner",
+  "role": "Corpus-Based Grammar Pattern Extraction & Reference Builder",
+  "department": "Linguistics",
+  "team": "language",
+  "goal": "Learn grammar patterns from the 3 Bible parallel corpora and build verified reference tables. Rerunnable for any grammar topic.",
+  "rules": [
+    "Always verify from corpus — never assume",
+    "Use all 3 Bible versions: TDB77, TBR17, Tedim2010",
+    "Cross-check patterns across versions for consistency",
+    "Save findings to wiki/grammar/<topic>.md",
+    "Each entry must have: Zolai form, English equivalent, corpus citation (version + reference)",
+    "Flag contradictions between versions",
+    "Minimum 3 corpus examples per pattern before declaring it confirmed"
+  ],
+  "corpus_files": {
+    "TDB77":      "data/parallel/bible_parallel_tdb77_kjv.jsonl",
+    "TBR17":      "data/parallel/bible_parallel_tbr17_kjv.jsonl",
+    "Tedim2010":  "data/parallel/bible_parallel_tedim2010_kjv.jsonl",
+    "combined":   "data/master_source_v1.jsonl"
+  },
+  "learning_script": "scripts/maintenance/learn_grammar_from_corpus.py",
+  "completed_topics": [
+    {"topic": "pronouns",                    "output": "wiki/grammar/pronouns_complete.md",                "date": "2026-04-17"},
+    {"topic": "verbs",                       "output": "wiki/grammar/verbs_corpus.md",                     "date": "2026-04-17"},
+    {"topic": "tense_markers",               "output": "wiki/grammar/tense_markers_corpus.md",             "date": "2026-04-17"},
+    {"topic": "particles_conjunctions",      "output": "wiki/grammar/particles_corpus.md",                 "date": "2026-04-17"},
+    {"topic": "negation",                    "output": "wiki/grammar/negation_corpus.md",                  "date": "2026-04-17"},
+    {"topic": "negation_complete",           "output": "wiki/negation/negation_guide.md",                  "date": "2026-04-17",
+     "notes": "kei vs lo vs kei-lo fully documented. lo is valid ZVS in 3rd person/past. kei required in conditionals. kei lo = compound absolute negation (Ten Commandments)."},
+    {"topic": "questions",                   "output": "wiki/grammar/questions_corpus.md",                 "date": "2026-04-17"},
+    {"topic": "questions_and_answers",       "output": "wiki/grammar/questions_and_answers.md",            "date": "2026-04-17"},
+    {"topic": "directional_particles",       "output": "wiki/grammar/directional_particles_corpus.md",     "date": "2026-04-17"},
+    {"topic": "numbers",                     "output": "wiki/grammar/numbers_corpus.md",                   "date": "2026-04-17"},
+    {"topic": "body_parts",                  "output": "wiki/grammar/body_parts_corpus.md",                "date": "2026-04-17"},
+    {"topic": "time_expressions",            "output": "wiki/grammar/time_expressions_corpus.md",          "date": "2026-04-17"},
+    {"topic": "prepositions_postpositions",  "output": "wiki/grammar/particles_postpositions_corpus.md",   "date": "2026-04-17"},
+    {"topic": "adjectives",                  "output": "wiki/grammar/adjectives_corpus.md",                "date": "2026-04-17"},
+    {"topic": "imperatives",                 "output": "wiki/grammar/particles_postpositions_corpus.md",   "date": "2026-04-17"},
+    {"topic": "complete_reference",          "output": "wiki/grammar/complete_grammar_reference_corpus.md","date": "2026-04-17"},
+    {"topic": "a1_to_c2_leveled",            "output": "wiki/grammar/grammar_a1_to_c2.md",                "date": "2026-04-17"},
+    {"topic": "pronoun_vocabulary",          "output": "wiki/grammar/pronoun_vocabulary_reference.md",     "date": "2026-04-17"},
+    {"topic": "bible_verse_study_all_66",    "output": "data/dictionary/bible_study/",                     "date": "2026-04-17",
+     "notes": "31,055 verses studied across 65/66 books. 15,403 unique vocab entries. Grammar patterns: tense, negation, aspect, compound negation kei-lo. Per-book JSONL files with aligned vocab and grammar patterns."},
+    {"topic": "zvs_dialect_corrections",     "output": "scripts/build_bible_dictionary.py",                "date": "2026-04-17",
+     "notes": "pathian=non-ZVS(use pasian), sanggin=non-ZVS(use sanginn), ram=non-ZVS(use gam), lo=VALID ZVS negation"}
+  ],
+  "pending_topics": [
+    {
+      "topic": "verbs",
+      "en_patterns": ["go", "come", "say", "give", "take", "see", "know", "love", "eat", "drink"],
+      "output": "wiki/grammar/verbs_complete.md"
+    },
+    {
+      "topic": "tense_markers",
+      "en_patterns": ["will", "shall", "has", "had", "was", "were", "did"],
+      "output": "wiki/grammar/tense_markers_corpus.md"
+    },
+    {
+      "topic": "particles",
+      "en_patterns": ["and", "but", "because", "therefore", "if", "when", "until"],
+      "output": "wiki/grammar/particles_corpus.md"
+    },
+    {
+      "topic": "negation",
+      "en_patterns": ["not", "no", "never", "neither", "nor"],
+      "output": "wiki/grammar/negation_corpus.md"
+    },
+    {
+      "topic": "questions",
+      "en_patterns": ["who", "what", "where", "when", "why", "how", "which"],
+      "output": "wiki/grammar/questions_corpus.md"
+    },
+    {
+      "topic": "directional_particles",
+      "en_patterns": ["come", "go", "bring", "take", "send", "return"],
+      "output": "wiki/grammar/directional_particles_corpus.md"
+    },
+    {
+      "topic": "numbers",
+      "en_patterns": ["one", "two", "three", "four", "five", "ten", "hundred", "thousand"],
+      "output": "wiki/grammar/numbers_corpus.md"
+    },
+    {
+      "topic": "body_parts",
+      "en_patterns": ["head", "hand", "foot", "eye", "ear", "mouth", "heart"],
+      "output": "wiki/grammar/body_parts_corpus.md"
+    },
+    {
+      "topic": "time_expressions",
+      "en_patterns": ["day", "night", "morning", "evening", "year", "month", "week"],
+      "output": "wiki/grammar/time_expressions_corpus.md"
+    },
+    {
+      "topic": "prepositions",
+      "en_patterns": ["in", "on", "at", "from", "to", "with", "by", "for", "of"],
+      "output": "wiki/grammar/prepositions_corpus.md"
+    }
+  ],
+  "tools": [
+    "scripts/maintenance/learn_grammar_from_corpus.py",
+    "data/parallel/bible_parallel_tdb77_kjv.jsonl",
+    "data/parallel/bible_parallel_tbr17_kjv.jsonl",
+    "data/parallel/bible_parallel_tedim2010_kjv.jsonl"
+  ]
+}
