@@ -32,7 +32,7 @@
 ### v2
 **EN:** And both Jesus was called, and his disciples, to the marriage.
 
-**TDB77:** Zeisu leh a nungzuite zong lawmvakna-ah a sam uh hi.
+**TDB77:** Zeisu leh a nungzuite zong lawmvakna-ah a sam-te hi.
 
 **ZVS:** Jesuh leh a nungzuite zong tua pawi-ah a kisam hi.
 
@@ -41,7 +41,7 @@
 ### v3
 **EN:** And when they wanted wine, the mother of Jesus saith unto him, They have no wine.
 
-**TDB77:** Leenggahtui a bei ciangin Zeisu’ nu in Zeisu kiangah, “Leenggahtui a nei kei uh hi,” ci-in a ko hi.
+**TDB77:** Leenggahtui a bei ciangin Zeisu’ nu in Zeisu kiangah, “Leenggahtui a nei kei-te hi,” ci-in a ko hi.
 
 **ZVS:** Leenggahzu a bei ciangin Jesuh' nu in, “Leenggahzu om nawnlo hi,” ci-in Jesuh kiangah a gen hi.
 
@@ -70,7 +70,7 @@
 
 **TDB77:** Judah mite ngeina bangin, siangtho biakna adingin tua munah seeng nih seeng thum bang a ta thei leibeel guk a kikoih hi.
 
-**ZVS:** Jew mite in amau biakna ngeina-ah kisilsiangna ding ngeina nei uh ahih manin tua lai-ah tui tambong guk tambong sagih bang a ta thei thambelpi guk a om hi.
+**ZVS:** Jew mite in amau biakna ngeina-ah kisilsiangna ding ngeina nei-te ahih manin tua lai-ah tui tambong guk tambong sagih bang a ta thei thambelpi guk a om hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -79,23 +79,23 @@
 
 **TDB77:** Zeisu in, “Hih tui beelte tui na dimsak un,” ci-in nasemte a sawl hi.
 
-**ZVS:** Jesuh in nasemte kiangah, “Tua thambelpite sungah tui a dimin koih un,” ci-in a sawl mah bangin a dim sitsetin tui a koih uh hi.
+**ZVS:** Jesuh in nasemte kiangah, “Tua thambelpite sungah tui a dimin koih un,” ci-in a sawl mah bangin a dim sitsetin tui a koih-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v8
 **EN:** And he saith unto them,
 
-**TDB77:** Tuate in let dektakin a dimsak uh hi. “Tu-in suak un la, lawmvakna pawi ukpa kiangah paipih un,” a cih ciangin a paipih uh hi.
+**TDB77:** Tuate in let dektakin a dimsak-te hi. “Tu-in suak un la, lawmvakna pawi ukpa kiangah paipih un,” a cih ciangin a paipih-te hi.
 
-**ZVS:** Tua ciangin Jesuh in, “Tu-in tui pawlkhat suak un la, zuphungpa kiangah va paipih un,” a ci hi. Amaute in zong tua mah bangin a va paipih uh hi.
+**ZVS:** Tua ciangin Jesuh in, “Tu-in tui pawlkhat suak un la, zuphungpa kiangah va paipih un,” a ci hi. Amaute in zong tua mah bangin a va paipih-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** When the ruler of the feast had tasted the water that was made wine, and knew not whence it was: (but the servants which drew the water knew;) the governor of the feast called the bridegroom,
 
-**TDB77:** Pawi ukpa in tui a ciap ciangin, leenggahtui suak a, tui tawi nasemte in tua leenggahtui ngahna a theih uh hangin pawi ukpa in a thei kei hi.
+**TDB77:** Pawi ukpa in tui a ciap ciangin, leenggahtui suak a, tui tawi nasemte in tua leenggahtui ngahna a theih-te hangin pawi ukpa in a thei kei hi.
 
 **ZVS:** Zuphungpa in leenggahzu a suak tui a ciap ciangin, (tui a sung nasemte in a theih hangin) koi panin kingah ahi hiam, ci-in theilo ahih manin zinei tangvalpa samin,
 
@@ -104,27 +104,27 @@
 ### v10
 **EN:** And saith unto him, Every man at the beginning doth set forth good wine; and when men have well drunk, then that which is worse: but thou hast kept the good wine until now.
 
-**TDB77:** Zipipa sam a, “Mi khempeuh in leenggahtui hoihte hawm masa-in, mite in a kham khit uh ciangin a hoih lote a hawm uh hi. Nang in a hoih leenggahtui tudongin na koihcing hi,” a ci hi.
+**TDB77:** Zipipa sam a, “Mi khempeuh in leenggahtui hoihte hawm masa-in, mite in a kham khit-te ciangin a hoih lote a hawm-te hi. Nang in a hoih leenggahtui tudongin na koihcing hi,” a ci hi.
 
-**ZVS:** “Midangte in leenggahzu khumte hawm masakin nei uh a, mite in a khamgawp khit uh ciangin a ngeinate hawm pan uh hi. Ahi zongin nangmah in a khum pen teng tudong na sitlai hi,” a ci hi.
+**ZVS:** “Midangte in leenggahzu khumte hawm masakin nei-te a, mite in a khamgawp khit-te ciangin a ngeinate hawm pan-te hi. Ahi zongin nangmah in a khum pen teng tudong na sitlai hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v11
 **EN:** This beginning of miracles did Jesus in Cana of Galilee, and manifested forth his glory; and his disciples believed on him.
 
-**TDB77:** Zeisu in a masapen hih nalamdang Galile gam Kana khua-ah bawl a, ama minthan’na kilangsakin a nungzuite in zong amah a um uh hi.
+**TDB77:** Zeisu in a masapen hih nalamdang Galile gam Kana khua-ah bawl a, ama minthan’na kilangsakin a nungzuite in zong amah a um-te hi.
 
-**ZVS:** Jesuh in na lamdang a bawl masak pen Galilee gam Kana khua-ah hih bangin Pasian' pianzia a neihna kilangsak a, a nungzuite in zong amah a um uh hi.
+**ZVS:** Jesuh in na lamdang a bawl masak pen Galilee gam Kana khua-ah hih bangin Pasian' pianzia a neihna kilangsak a, a nungzuite in zong amah a um-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** After this he went down to Capernaum, he, and his mother, and his brethren, and his disciples: and they continued there not many days.
 
-**TDB77:** Tua nung ciangin a nu akipan a naute leh a nungzuite tawh Zeisu in Kapernaum khua-ah a pai uh hi. Tua khua-ah sawt lo khat a tam uh hi.
+**TDB77:** Tua nung ciangin a nu akipan a naute leh a nungzuite tawh Zeisu in Kapernaum khua-ah a pai-te hi. Tua khua-ah sawt lo khat a tam-te hi.
 
-**ZVS:** Tua khit ciangin Jesuh leh a nu, a sanggamte leh a nungzuite, Kapernaum khua-ah pai-in tua lai-ah ni tawmkhat a taam uh hi.
+**ZVS:** Tua khit ciangin Jesuh leh a nu, a sanggamte leh a nungzuite, Kapernaum khua-ah pai-in tua lai-ah ni tawmkhat a taam-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -138,7 +138,7 @@
 ### v14
 **EN:** And found in the temple those that sold oxen and sheep and doves, and the changers of money sitting:
 
-**TDB77:** Biakna innpi sungah bawngte, tuute, vakhute a zuakte leh sumkheekte tu-a om uh a muh ciangin;
+**TDB77:** Biakna innpi sungah bawngte, tuute, vakhute a zuakte leh sumkheekte tu-a om-te a muh ciangin;
 
 **ZVS:** Biakinn huangsung a lut ciangin bawng, tuu, leh kawl vakhu zuakte mu a, sumkhekte zong a sumkhekna sabuai-ah a tu mu hi.
 
@@ -158,43 +158,43 @@
 
 **TDB77:** Vakhu zuakte kiangah zong, “Hih nate na paimangpih un. Ka Pa’ inn sumzuakna inn na suaksak kei un,” a ci hi.
 
-**ZVS:** Tua ciangin kawl vakhu zuakte kiangah, “Na kawl vakhute uh hih lai panin paikhiatpih un. Ka Pa' inn pen sumzuakna inn phualpi-in nei kei un,” a ci hi.
+**ZVS:** Tua ciangin kawl vakhu zuakte kiangah, “Na kawl vakhute-te hih lai panin paikhiatpih un. Ka Pa' inn pen sumzuakna inn phualpi-in nei kei un,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
 ### v17
 **EN:** And his disciples remembered that it was written, The zeal of thine house hath eaten me up.
 
-**TDB77:** Tua lai takin a nungzuite in, “Nangma inn ka deih luatna in kei hong netum ding hi,” ci-a a kigelh a phawk uh hi.
+**TDB77:** Tua lai takin a nungzuite in, “Nangma inn ka deih luatna in kei hong netum ding hi,” ci-a a kigelh a phawk-te hi.
 
-**ZVS:** Hih bangin a gamtatna hangin, “Nangma inn ka deihluatna in ka lungsim hong uklah sak hi,” ci-in Lai Siangtho sungah a kigelhna thu, a nungzuite in a phawk uh hi.
+**ZVS:** Hih bangin a gamtatna hangin, “Nangma inn ka deihluatna in ka lungsim hong uklah sak hi,” ci-in Lai Siangtho sungah a kigelhna thu, a nungzuite in a phawk-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Then answered the Jews and said unto him, What sign shewest thou unto us, seeing that thou doest these things?
 
-**TDB77:** Tua ahih ciangin Judah mite in, “Nang in hih bang na hihna tawh bang nalamdang hong lak na hi hiam?” a ci uh hi.
+**TDB77:** Tua ahih ciangin Judah mite in, “Nang in hih bang na hihna tawh bang nalamdang hong lak na hi hiam?” a ci-te hi.
 
-**ZVS:** Tua ciangin Jerusalem khua-ah a om Jew uliante Jesuh kiangah hong pai uh a, “Hih bangin na gamtat theihna ding thu na neihna bang lim tawh hong lakthei ding na hi hiam?” ci-in a dot uh ciangin
+**ZVS:** Tua ciangin Jerusalem khua-ah a om Jew uliante Jesuh kiangah hong pai-te a, “Hih bangin na gamtat theihna ding thu na neihna bang lim tawh hong lakthei ding na hi hiam?” ci-in a dot-te ciangin
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
 ### v19
 **EN:** Jesus answered and said unto them,
 
-**TDB77:** Zeisu in zong, “Hih biakna innpi na phel gawp uh leh, ni thum sungin ka lamkik ding hi,” a ci hi.
+**TDB77:** Zeisu in zong, “Hih biakna innpi na phel gawp-te leh, ni thum sungin ka lamkik ding hi,” a ci hi.
 
-**ZVS:** Jesuh in, “Hih biakinn susia le uh cin ni thum sungin ka dingsak kik ding hi,” ci-in a dawng hi.
+**ZVS:** Jesuh in, “Hih biakinn susia le-te cin ni thum sungin ka dingsak kik ding hi,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | future: will
 
 ### v20
 **EN:** Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up in three days?
 
-**TDB77:** Judah mite in, “Hih biakna innpi kum sawmli leh kum guk tawntung kilam hi. Ni thum bek lam ding na hi hiam?” a ci uh hi.
+**TDB77:** Judah mite in, “Hih biakna innpi kum sawmli leh kum guk tawntung kilam hi. Ni thum bek lam ding na hi hiam?” a ci-te hi.
 
-**ZVS:** Tua ciangin Jew uliante in, “Hih biakinn kum sawmli leh kum guk sung a kilam ahi hi. Ni thum sungin dingsak kikzo ding na hi hiam?” a ci uh hi.
+**ZVS:** Tua ciangin Jew uliante in, “Hih biakinn kum sawmli leh kum guk sung a kilam ahi hi. Ni thum sungin dingsak kikzo ding na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -210,18 +210,18 @@
 ### v22
 **EN:** When therefore he was risen from the dead, his disciples remembered that he had said this unto them; and they believed the scripture, and the word which Jesus had said.
 
-**TDB77:** Tua ahih ciangin, sihna pan a thawhkik ciangin hih thute a nungzuite in phawkkik uh a, Lai Siangtho leh Zeisu thu a um uh hi.
+**TDB77:** Tua ahih ciangin, sihna pan a thawhkik ciangin hih thute a nungzuite in phawkkik-te a, Lai Siangtho leh Zeisu thu a um-te hi.
 
-**ZVS:** Tua ahih manin sihna panin amah a kithawhkik sak ciangin a nungzuite in Jesuh' thugen phawkkik uh a, Lai Siangtho leh Jesuh' thugente a um uh hi.
+**ZVS:** Tua ahih manin sihna panin amah a kithawhkik sak ciangin a nungzuite in Jesuh' thugen phawkkik-te a, Lai Siangtho leh Jesuh' thugente a um-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v23
 **EN:** Now when he was in Jerusalem at the passover, in the feast day, many believed in his name, when they saw the miracles which he did.
 
-**TDB77:** Paisan pawi sung Jerusalem khua-ah a om lai takin, Zeisu in nalamdang a lahte mi tampi in a muh uh ciangin Zeisu a um uh hi.
+**TDB77:** Paisan pawi sung Jerusalem khua-ah a om lai takin, Zeisu in nalamdang a lahte mi tampi in a muh-te ciangin Zeisu a um-te hi.
 
-**ZVS:** Paisan Pawi hun laitakin Jerusalem khuasungah Jesuh a om sungin Jesuh in vangliatna tawh na lamdang a bawlte mu uh ahih manin mi tampi in amah a um uh hi.
+**ZVS:** Paisan Pawi hun laitakin Jerusalem khuasungah Jesuh a om sungin Jesuh in vangliatna tawh na lamdang a bawlte mu-te ahih manin mi tampi in amah a um-te hi.
 
 **Grammar:** plural: uh marker
 

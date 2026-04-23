@@ -56,36 +56,36 @@
 ### v5
 **EN:** They shall not make baldness upon their head, neither shall they shave off the corner of their beard, nor make any cuttings in their flesh.
 
-**TDB77:** Amaute in a lu uh mettol loin, amau’ khamul nawlhui zong kiat loin, a ci tung uh liamsak lo ding uh hi.
+**TDB77:** Amaute in a lu-te mettol loin, amau’ khamul nawlhui zong kiat loin, a ci tung-te liamsak lo ding-te hi.
 
-**ZVS:** “Amaute in a lu uh mettol loin, amau' khamul nawlhui zong kiatloin, a ci tung uh liamsaklo ding uh hi.
+**ZVS:** “Amaute in a lu-te mettol loin, amau' khamul nawlhui zong kiatloin, a ci tung-te liamsaklo ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** They shall be holy unto their God, and not profane the name of their God: for the offerings of the
 
-**TDB77:** Amaute in amau’ Pasian adingin siangtho ding uh a, amau’ Pasian min daisak lo ding uh hi; bang hang hiam cih leh amaute in amau’ Pasian anlum ahi, Topa’ tungah meihal biakna pia uh hi; tua ahih ciangin amaute siangtho ding uh hi.
+**TDB77:** Amaute in amau’ Pasian adingin siangtho ding-te a, amau’ Pasian min daisak lo ding-te hi; bang hang hiam cih leh amaute in amau’ Pasian anlum ahi, Topa’ tungah meihal biakna pia-te hi; tua ahih ciangin amaute siangtho ding-te hi.
 
-**ZVS:** Amaute pen amau' Pasian-a' dingin siangtho ding uh a, amau' Pasian' min daisaklo ding uh hi. Bang hang hiam cih leh amaute in amau' Pasian' anlum ahi, { Topa' } tungah meihal biakna pia uh hi. Tua ahih ciangin amaute siangtho ding uh hi.
+**ZVS:** Amaute pen amau' Pasian-a' dingin siangtho ding-te a, amau' Pasian' min daisaklo ding-te hi. Bang hang hiam cih leh amaute in amau' Pasian' anlum ahi, { Topa' } tungah meihal biakna pia-te hi. Tua ahih ciangin amaute siangtho ding-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
 ### v7
 **EN:** They shall not take a wife that is a whore, or profane; neither shall they take a woman put away from her husband: for he is holy unto his God.
 
-**TDB77:** Amaute in numei paktat ahih kei leh a kininsaksa numei ten’pih lo ding uh hi; a pasal in a maksa numei zong ten’pih lo ding hi; bang hang hiam cih leh siampipa in ama Pasian adingin siangtho hi.
+**TDB77:** Amaute in numei paktat ahih kei leh a kininsaksa numei ten’pih lo ding-te hi; a pasal in a maksa numei zong ten’pih lo ding hi; bang hang hiam cih leh siampipa in ama Pasian adingin siangtho hi.
 
-**ZVS:** Amaute in numei paktat ahih kei leh a kininsaksa numei ten'pihlo ding uh a, a pasal in a maksa numei zong ten'pihlo ding uh hi. Bang hang hiam cih leh siampipa pen ama Pasian-a' dingin siangtho hi.
+**ZVS:** Amaute in numei paktat ahih kei leh a kininsaksa numei ten'pihlo ding-te a, a pasal in a maksa numei zong ten'pihlo ding-te hi. Bang hang hiam cih leh siampipa pen ama Pasian-a' dingin siangtho hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Thou shalt sanctify him therefore; for he offereth the bread of thy God: he shall be holy unto thee: for I the
 
-**TDB77:** Amah in note’ Pasian’ anlum pia ahih manin note in amah na ap ding uh hi; amah in note’ adingin siangtho ding hi; bang hang hiam cih leh Topa ahi keimah, note hong siangtho sakpa, ka siangtho hi.
+**TDB77:** Amah in note’ Pasian’ anlum pia ahih manin note in amah na ap ding-te hi; amah in note’ adingin siangtho ding hi; bang hang hiam cih leh Topa ahi keimah, note hong siangtho sakpa, ka siangtho hi.
 
-**ZVS:** Amah in note' Pasian' anlum pia ahih manin note in amah na ap ding uh a, amah pen note-a' dingin siangtho ding hi. Bang hang hiam cih leh { Topa } ahi keimah, note hong siangtho sakpa, ka siangtho hi.
+**ZVS:** Amah in note' Pasian' anlum pia ahih manin note in amah na ap ding-te a, amah pen note-a' dingin siangtho ding hi. Bang hang hiam cih leh { Topa } ahi keimah, note hong siangtho sakpa, ka siangtho hi.
 
 **Grammar:** purpose: in order to | future: will | causal: because | plural: uh marker
 

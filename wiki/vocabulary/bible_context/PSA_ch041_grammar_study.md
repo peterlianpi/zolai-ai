@@ -42,7 +42,7 @@
 
 **TDB77:** ci na-a a lupna tungah Topa in amah na kem a, a ci nat ciangin ama gitlohna khempeuh na damsak hi.
 
-**ZVS:** A ci uh a nat ciangin { Topa } in amaute kem ding a, a cinatna khempeuh uh damsakkik ding hi.
+**ZVS:** A ci-te a nat ciangin { Topa } in amaute kem ding a, a cinatna khempeuh-te damsakkik ding hi.
 
 **Grammar:** causative: -sak suffix
 
@@ -58,36 +58,36 @@
 ### v5
 **EN:** Mine enemies speak evil of me, When shall he die, and his name perish?
 
-**TDB77:** Ka galte in elna tawh keima thu gen uh a: “Cik ciangin amah a si tam, cik ciangin ama min a mang tam?” ci uh hi.
+**TDB77:** Ka galte in elna tawh keima thu gen-te a: “Cik ciangin amah a si tam, cik ciangin ama min a mang tam?” ci-te hi.
 
-**ZVS:** Ka galte in elna tawh keima thu gen uh a, “Cik ciangin amah a si tam, cik ciangin a min a mang tam,” ci uh hi.
+**ZVS:** Ka galte in elna tawh keima thu gen-te a, “Cik ciangin amah a si tam, cik ciangin a min a mang tam,” ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v6
 **EN:** And if he come to see me, he speaketh vanity: his heart gathereth iniquity to itself; when he goeth abroad, he telleth it.
 
-**TDB77:** Keimah en dingin mi hong pai ciangin, kam mawkna pau uh hi, a lung sungah siatna kaikhawm uh a, a paikhiat uh ciangin genthang uh hi.
+**TDB77:** Keimah en dingin mi hong pai ciangin, kam mawkna pau-te hi, a lung sungah siatna kaikhawm-te a, a paikhiat-te ciangin genthang-te hi.
 
-**ZVS:** Keimah a en dingin mi hong pai ciangin, kam mawkna a pau uh hi. A lungsim uhah siatna kaikhawm uh a, a paikhiat uh ciangin a genthang uh hi.
+**ZVS:** Keimah a en dingin mi hong pai ciangin, kam mawkna a pau-te hi. A lungsim uhah siatna kaikhawm-te a, a paikhiat-te ciangin a genthang-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v7
 **EN:** All that hate me whisper together against me: against me do they devise my hurt.
 
-**TDB77:** Kei hong mudah khempeuh in keima thu kihuauhuau uh a, kei’ adingin a sia thei pen gelgel uh hi.
+**TDB77:** Kei hong mudah khempeuh in keima thu kihuauhuau-te a, kei’ adingin a sia thei pen gelgel-te hi.
 
-**ZVS:** Kei hong mudah khempeuh in keima thu kihuauhuau uh a, kei-a' dingin a sia thei pen ding a geelgeel uh hi.
+**ZVS:** Kei hong mudah khempeuh in keima thu kihuauhuau-te a, kei-a' dingin a sia thei pen ding a geelgeel-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** An evil disease, say they, cleaveth fast unto him: and now that he lieth he shall rise up no more.
 
-**TDB77:** Amaute in, “Thusia khat ama tungah baang zo hi; a lupna panin thokik nawn lo ding hi,” ci uh hi.
+**TDB77:** Amaute in, “Thusia khat ama tungah baang zo hi; a lupna panin thokik nawn lo ding hi,” ci-te hi.
 
-**ZVS:** Amaute in, “Amah nak gim mahmah hi. A lupna panin thokikzo nawnlo ding hi,” ci uh hi.
+**ZVS:** Amaute in, “Amah nak gim mahmah hi. A lupna panin thokikzo nawnlo ding hi,” ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

@@ -169,9 +169,9 @@
 ### v18
 **EN:** And it was made with cherubims and palm trees, so that a palm tree was between a cherub and a cherub; and every cherub had two faces;
 
-**TDB77:** nisuh kungte leh kherub limte vive ahi hi. Amasa-in nisuh kung, tua ciangin kherub, nisuh kung, kherub cih bangin a kimkot khempeuh ah kihelh to dimdiam hi. Tua kherubte in maitang nih ciat nei uh hi.
+**TDB77:** nisuh kungte leh kherub limte vive ahi hi. Amasa-in nisuh kung, tua ciangin kherub, nisuh kung, kherub cih bangin a kimkot khempeuh ah kihelh to dimdiam hi. Tua kherubte in maitang nih ciat nei-te hi.
 
-**ZVS:** nisuh kungte leh kherub limte vive ahi hi. A masa-in nisuh kung, tua ciangin kherub, nisuh kung, kherub cih bangin a kimkot khempeuhah kihelhto dimdiam hi. Tua kherub-te in maitang nih ciat nei uh hi.
+**ZVS:** nisuh kungte leh kherub limte vive ahi hi. A masa-in nisuh kung, tua ciangin kherub, nisuh kung, kherub cih bangin a kimkot khempeuhah kihelhto dimdiam hi. Tua kherub-te in maitang nih ciat nei-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

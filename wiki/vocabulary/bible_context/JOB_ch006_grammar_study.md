@@ -146,9 +146,9 @@
 ### v16
 **EN:** Which are blackish by reason of the ice, and wherein the snow is hid:
 
-**TDB77:** nin a khaknelh vuk leh tuikhal bangin na zuautat uh hi.
+**TDB77:** nin a khaknelh vuk leh tuikhal bangin na zuautat-te hi.
 
-**ZVS:** nin a khalhnelh vuk leh tuikhal bangin na zuautat uh hi.
+**ZVS:** nin a khalhnelh vuk leh tuikhal bangin na zuautat-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -162,36 +162,36 @@
 ### v18
 **EN:** The paths of their way are turned aside; they go to nothing, and perish.
 
-**TDB77:** Tua tui zong dingin khualzin mite pai kawikawi a, gamsung tengah kawi pai-in a mangthang uh hi.
+**TDB77:** Tua tui zong dingin khualzin mite pai kawikawi a, gamsung tengah kawi pai-in a mangthang-te hi.
 
-**ZVS:** Tua tui a zong dingin khualzin mite pai kawikawi a, gamsung tengah kawi pai-in a mangthang uh hi.
+**ZVS:** Tua tui a zong dingin khualzin mite pai kawikawi a, gamsung tengah kawi pai-in a mangthang-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v19
 **EN:** The troops of Tema looked, the companies of Sheba waited for them.
 
-**TDB77:** Tema khua mi khualzinte in zong tua tui zong uh a, Sheba mite in zong tua tui muan’in a nei uh hi.
+**TDB77:** Tema khua mi khualzinte in zong tua tui zong-te a, Sheba mite in zong tua tui muan’in a nei-te hi.
 
-**ZVS:** Tema khuami khualzinte in zong tua tui zong uh a, Sheba mite in zong tua tui muan'in a nei uh hi.
+**ZVS:** Tema khuami khualzinte in zong tua tui zong-te a, Sheba mite in zong tua tui muan'in a nei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v20
 **EN:** They were confounded because they had hoped; they came thither, and were ashamed.
 
-**TDB77:** Ahi zongin tua a lametna uh ah cimawh uh hi; tua tui zuan uh a, a om loh ciangin cih nading thei loin kam ka uh hi.
+**TDB77:** Ahi zongin tua a lametna-te ah cimawh-te hi; tua tui zuan-te a, a om loh ciangin cih nading thei loin kam ka-te hi.
 
-**ZVS:** Ahi zongin tua a lametna uhah cimawh uh hi. Tua tui zuan uh a, a omloh ciangin cihna ding theiloin kamka lel uh hi.
+**ZVS:** Ahi zongin tua a lametna uhah cimawh-te hi. Tua tui zuan-te a, a omloh ciangin cihna ding theiloin kamka lel-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v21
 **EN:** For now ye are nothing; ye see my casting down, and are afraid.
 
-**TDB77:** Tu-in zong kei adingin note tua mah bang na hi uh hi; ka gimna teng nong mu uh a, na lau uh hi.
+**TDB77:** Tu-in zong kei adingin note tua mah bang na hi-te hi; ka gimna teng nong mu-te a, na lau-te hi.
 
-**ZVS:** Tu-in zong kei-a' dingin note tua bang lel na hi uh hi. Ka gimna teng nong mu uh a, na lau uh hi.
+**ZVS:** Tu-in zong kei-a' dingin note tua bang lel na hi-te hi. Ka gimna teng nong mu-te a, na lau-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -216,9 +216,9 @@
 ### v24
 **EN:** Teach me, and I will hold my tongue: and cause me to understand wherein I have erred.
 
-**TDB77:** “Hong hilh thei le uh cin, pau loin ka om pah ding hi: Ka khialhna hong theih telsak dih un.
+**TDB77:** “Hong hilh thei le-te cin, pau loin ka om pah ding hi: Ka khialhna hong theih telsak dih un.
 
-**ZVS:** “Hong hilh thei le uh cin, pauloin ka ompah ding hi. Ka khialhna hong theitelsak dih un.
+**ZVS:** “Hong hilh thei le-te cin, pauloin ka ompah ding hi. Ka khialhna hong theitelsak dih un.
 
 **Grammar:** future: will
 
@@ -234,21 +234,21 @@
 ### v26
 **EN:** Do ye imagine to reprove words, and the speeches of one that is desperate, which are as wind?
 
-**TDB77:** Kamging mawkmawk hehtaak sa a, huih letmang cihmawh kamte thupi ngaihsut na hi uh hiam?
+**TDB77:** Kamging mawkmawk hehtaak sa a, huih letmang cihmawh kamte thupi ngaihsut na hi-te hiam?
 
-**ZVS:** Kamging mawkmawk lelte heh taak sa a, huih' letmang cihmawh kamte thupi ngaihsut na hi uh hiam?
+**ZVS:** Kamging mawkmawk lelte heh taak sa a, huih' letmang cihmawh kamte thupi ngaihsut na hi-te hiam?
 
 ### v27
 **EN:** Yea, ye overwhelm the fatherless, and ye dig a pit for your friend.
 
-**TDB77:** Mi cimawh khat suksiat sawm a, na lawm khat uh hih gawp sawm na hi uh hiam?
+**TDB77:** Mi cimawh khat suksiat sawm a, na lawm khat-te hih gawp sawm na hi-te hiam?
 
-**ZVS:** Mi cimawh khat suksiatgawp sawm a, na lawm khat uh hihgawp sawm na hi uh hiam?
+**ZVS:** Mi cimawh khat suksiatgawp sawm a, na lawm khat-te hihgawp sawm na hi-te hiam?
 
 ### v28
 **EN:** Now therefore be content, look upon me; for it is evident unto you if I lie.
 
-**TDB77:** “Tu-in kong thuum hi; kihei un la kei hong en un, Na maitang uh ah zuau gen dingin kilawm ka hi hiam?
+**TDB77:** “Tu-in kong thuum hi; kihei un la kei hong en un, Na maitang-te ah zuau gen dingin kilawm ka hi hiam?
 
 **ZVS:** Tu-in kong thum hi; kihei un la kei hong en un. Na maitang uhah zuau a gen dingin kilawm ka hi hiam?
 
@@ -266,9 +266,9 @@
 ### v30
 **EN:** Is there iniquity in my tongue? cannot my taste discern perverse things?
 
-**TDB77:** Ahi zongin zuau gen mahin nong ngaihsun lai veve uh a, a sia leh a pha khen thei loin nong seh lai veve uh hi.
+**TDB77:** Ahi zongin zuau gen mahin nong ngaihsun lai veve-te a, a sia leh a pha khen thei loin nong seh lai veve-te hi.
 
-**ZVS:** Ahi zongin zuau gen mahin nong ngaihsun lai veve uh a, a sia leh a pha a khenthei loin nong seh lai veve uh hi.
+**ZVS:** Ahi zongin zuau gen mahin nong ngaihsun lai veve-te a, a sia leh a pha a khenthei loin nong seh lai veve-te hi.
 
 **Grammar:** plural: uh marker
 

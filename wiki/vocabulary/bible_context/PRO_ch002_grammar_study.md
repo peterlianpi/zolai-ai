@@ -165,7 +165,7 @@
 
 **TDB77:** Tua bang numei tawh mawhna a bawl mite, nuntakna nuam nei kik cih om ngei lo hi.
 
-**ZVS:** Tua bang numei tawh mawhna a bawl mite in nuntak nuam neikik ngeilo uh hi.
+**ZVS:** Tua bang numei tawh mawhna a bawl mite in nuntak nuam neikik ngeilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -181,9 +181,9 @@
 ### v21
 **EN:** For the upright shall dwell in the land, and the perfect shall remain in it.
 
-**TDB77:** Bang hang hiam cih leh mi thuman, mi ginate, hih i leitungah teengin om ding uh a,
+**TDB77:** Bang hang hiam cih leh mi thuman, mi ginate, hih i leitungah teengin om ding-te a,
 
-**ZVS:** Bang hang hiam cih leh mi thuman, miginate, hih i leitungah tengin om ding uh a,
+**ZVS:** Bang hang hiam cih leh mi thuman, miginate, hih i leitungah tengin om ding-te a,
 
 **Grammar:** plural: uh marker
 

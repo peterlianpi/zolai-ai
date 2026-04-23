@@ -114,36 +114,36 @@
 ### v11
 **EN:** And the men of his city, even the elders and the nobles who were the inhabitants in his city, did as Jezebel had sent unto them, and as it was written in the letters which she had sent unto them.
 
-**TDB77:** Tua ciangin ama khuapi mi, ama khuapi sungah a teeng upate leh uliante in amaute tungah Jezebel’ thupuak bangin hih uh hi. Amaute tungah a khak laite sungah a kigelh mah bangin,
+**TDB77:** Tua ciangin ama khuapi mi, ama khuapi sungah a teeng upate leh uliante in amaute tungah Jezebel’ thupuak bangin hih-te hi. Amaute tungah a khak laite sungah a kigelh mah bangin,
 
-**ZVS:** Tua ciangin ama khuapi mi, ama khuapi sungah a teng upate leh uliante in amaute tungah Jezebel' thupuak bangin hih uh hi. Amaute tungah a khak laite sungah a kigelh mah bangin,
+**ZVS:** Tua ciangin ama khuapi mi, ama khuapi sungah a teng upate leh uliante in amaute tungah Jezebel' thupuak bangin hih-te hi. Amaute tungah a khak laite sungah a kigelh mah bangin,
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** They proclaimed a fast, and set Naboth on high among the people.
 
-**TDB77:** amaute in an tan’ ding thu zasak uh a, mite lak a sangna munah Naboth koih uh hi.
+**TDB77:** amaute in an tan’ ding thu zasak-te a, mite lak a sangna munah Naboth koih-te hi.
 
-**ZVS:** amaute in an tan' ding thu zasak uh a, mite' lak a sangna munah Naboth koih uh hi.
+**ZVS:** amaute in an tan' ding thu zasak-te a, mite' lak a sangna munah Naboth koih-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** And there came in two men, children of Belial, and sat before him: and the men of Belial witnessed against him, even against Naboth, in the presence of the people, saying, Naboth did blaspheme God and the king. Then they carried him forth out of the city, and stoned him with stones, that he died.
 
-**TDB77:** Tua ciangin mi ginalo nihte hong pai-in ama mai-ah tu uh hi; tua ciangin mi ginalo nihte in mite’ mai-ah Naboth’ mawhna zong uh a, “Naboth in Pasian leh kumpipa samsia hi,” ci uh hi. Tua ahih ciangin amaute in khuapi pua lamah amah paipih uh a, suang tawh amah denglum uh hi.
+**TDB77:** Tua ciangin mi ginalo nihte hong pai-in ama mai-ah tu-te hi; tua ciangin mi ginalo nihte in mite’ mai-ah Naboth’ mawhna zong-te a, “Naboth in Pasian leh kumpipa samsia hi,” ci-te hi. Tua ahih ciangin amaute in khuapi pua lamah amah paipih-te a, suang tawh amah denglum-te hi.
 
-**ZVS:** Tua ciangin mi ginalo nihte hong pai-in ama mai-ah tu uh hi. Tua ciangin mi ginalo nihte in mite' omin Naboth' mawhna zong uh a, “Naboth in Pasian leh kumpipa samsia hi,” a ci uh hi. Tua ahih ciangin amaute in khuapi pualamah amah paipih uh a, suang tawh amah denglum uh hi.
+**ZVS:** Tua ciangin mi ginalo nihte hong pai-in ama mai-ah tu-te hi. Tua ciangin mi ginalo nihte in mite' omin Naboth' mawhna zong-te a, “Naboth in Pasian leh kumpipa samsia hi,” a ci-te hi. Tua ahih ciangin amaute in khuapi pualamah amah paipih-te a, suang tawh amah denglum-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v14
 **EN:** Then they sent to Jezebel, saying, Naboth is stoned, and is dead.
 
-**TDB77:** Tua ciangin amaute in Jezebel kiangah thu puakin, “Suang tawh Naboth kideng zo hi; amah si hi,” a ci uh hi.
+**TDB77:** Tua ciangin amaute in Jezebel kiangah thu puakin, “Suang tawh Naboth kideng zo hi; amah si hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin amaute in Jezebel kiangah thu puakin, “Suang tawh Naboth kideng khinzo a, amah sita hi,” a ci uh hi.
+**ZVS:** Tua ciangin amaute in Jezebel kiangah thu puakin, “Suang tawh Naboth kideng khinzo a, amah sita hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -186,9 +186,9 @@
 ### v19
 **EN:** And thou shalt speak unto him, saying, Thus saith the
 
-**TDB77:** Nangmah in ama kiangah, ‘Topa in hih bangin ci hi; “That khinin, zong luah khin na hi hiam?” ci hi,’ na ci ding hi. Tua ciangin ama kiangah, ‘Topa in hih bangin ci hi: “Uite in Naboth’ sisan a liahna munah uite in nangma sisan liak ding uh hi,” ci hi,’ ci-in gen in,” a ci hi.
+**TDB77:** Nangmah in ama kiangah, ‘Topa in hih bangin ci hi; “That khinin, zong luah khin na hi hiam?” ci hi,’ na ci ding hi. Tua ciangin ama kiangah, ‘Topa in hih bangin ci hi: “Uite in Naboth’ sisan a liahna munah uite in nangma sisan liak ding-te hi,” ci hi,’ ci-in gen in,” a ci hi.
 
-**ZVS:** Nangmah in ama kiangah, ‘{ Topa } in hih bangin ci hi: “That khinin zong luahkhin na hi hiam?” ci hi,’ na ci ding hi. Tua ciangin ama kiangah, ‘{ Topa } in hih bangin ci hi: “Uite in Naboth' sisan a liahna munah uite in nangma sisan liak ding uh hi,” ci hi,’ ci-in gen in,” a ci hi.
+**ZVS:** Nangmah in ama kiangah, ‘{ Topa } in hih bangin ci hi: “That khinin zong luahkhin na hi hiam?” ci hi,’ na ci ding hi. Tua ciangin ama kiangah, ‘{ Topa } in hih bangin ci hi: “Uite in Naboth' sisan a liahna munah uite in nangma sisan liak ding-te hi,” ci hi,’ ci-in gen in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -222,18 +222,18 @@
 ### v23
 **EN:** And of Jezebel also spake the
 
-**TDB77:** Jezebel’ thu zong Topa in genin, ‘Uite in Jezre-el huam sungah Jezebel ne ding uh hi,’ ci hi.
+**TDB77:** Jezebel’ thu zong Topa in genin, ‘Uite in Jezre-el huam sungah Jezebel ne ding-te hi,’ ci hi.
 
-**ZVS:** Jezebel' thu zong { Topa } in genin, ‘Uite in Jezreel khua sungah Jezebel ne ding uh hi,’ ci hi.
+**ZVS:** Jezebel' thu zong { Topa } in genin, ‘Uite in Jezreel khua sungah Jezebel ne ding-te hi,’ ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v24
 **EN:** Him that dieth of Ahab in the city the dogs shall eat; and him that dieth in the field shall the fowls of the air eat.
 
-**TDB77:** Khuapi sungah Ahab’ innkuan a si peuhpeuh uite in ne ding uh hi; gamlakah a si ama innkuan peuhpeuh huih lak vasate in ne ding uh hi, ci hi,” a ci hi.
+**TDB77:** Khuapi sungah Ahab’ innkuan a si peuhpeuh uite in ne ding-te hi; gamlakah a si ama innkuan peuhpeuh huih lak vasate in ne ding-te hi, ci hi,” a ci hi.
 
-**ZVS:** Khuapi sungah Ahab' innkuan a si peuhpeuh uite in ne ding uh hi; gamlakah a si nangma innkuan peuhpeuh huihlak vasate in ne ding uh hi, ci hi,” a ci hi.
+**ZVS:** Khuapi sungah Ahab' innkuan a si peuhpeuh uite in ne ding-te hi; gamlakah a si nangma innkuan peuhpeuh huihlak vasate in ne ding-te hi, ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

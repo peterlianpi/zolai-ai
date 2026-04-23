@@ -180,18 +180,18 @@
 ### v18
 **EN:** For the grave cannot praise thee, death can not celebrate thee: they that go down into the pit cannot hope for thy truth.
 
-**TDB77:** Bang hang hiam cih leh han-a om mite in nang tungah lungdamna hong ko thei lo a, a site in nang hong phat thei lo uh hi; gum sunga a pai sukte in nangma thumanna hong muang thei lo uh hi.
+**TDB77:** Bang hang hiam cih leh han-a om mite in nang tungah lungdamna hong ko thei lo a, a site in nang hong phat thei lo-te hi; gum sunga a pai sukte in nangma thumanna hong muang thei lo-te hi.
 
-**ZVS:** Bang hang hiam cih leh Leinuai-ah a om mite in nangma tungah lungdamna hong ko theilo a, a sisa mite in nang hong phat theilo uh hi. Gum sunga a paisukte in nangma thumanna hong muang theilo uh hi.
+**ZVS:** Bang hang hiam cih leh Leinuai-ah a om mite in nangma tungah lungdamna hong ko theilo a, a sisa mite in nang hong phat theilo-te hi. Gum sunga a paisukte in nangma thumanna hong muang theilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v19
 **EN:** The living, the living, he shall praise thee, as I do this day: the father to the children shall make known thy truth.
 
-**TDB77:** Tu ni-a keima bawl bangin, a hing mi, a hing mi bekin nang tungah lungdamna hong ko thei hi; pate in tate tungah nangma thumanna gen sawn uh hi.
+**TDB77:** Tu ni-a keima bawl bangin, a hing mi, a hing mi bekin nang tungah lungdamna hong ko thei hi; pate in tate tungah nangma thumanna gen sawn-te hi.
 
-**ZVS:** Tuni-in keima hong gamtat bangin a hing mite bek in nang tungah lungdamna hong ko thei hi. Pate in tate tungah nangma thumanna gensawn uh hi.
+**ZVS:** Tuni-in keima hong gamtat bangin a hing mite bek in nang tungah lungdamna hong ko thei hi. Pate in tate tungah nangma thumanna gensawn-te hi.
 
 **Grammar:** plural: uh marker
 

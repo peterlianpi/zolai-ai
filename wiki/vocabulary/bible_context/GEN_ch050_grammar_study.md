@@ -34,27 +34,27 @@
 ### v2
 **EN:** And Joseph commanded his servants the physicians to embalm his father: and the physicians embalmed Israel.
 
-**TDB77:** A pa a muat loh nadingin a bawl dingin Josef in a nasem zatui siamte thu pia hi. Tua ahih ciangin zatui siamte in zatui tawh Israel bawl uh hi;
+**TDB77:** A pa a muat loh nadingin a bawl dingin Josef in a nasem zatui siamte thu pia hi. Tua ahih ciangin zatui siamte in zatui tawh Israel bawl-te hi;
 
-**ZVS:** A pa a muatlohna dingin a bawl dingin Josef in a nasem zatui siamte thu pia hi. Tua ahih ciangin zatui siamte in zatui tawh Israel a bawl uh hi.
+**ZVS:** A pa a muatlohna dingin a bawl dingin Josef in a nasem zatui siamte thu pia hi. Tua ahih ciangin zatui siamte in zatui tawh Israel a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v3
 **EN:** And forty days were fulfilled for him; for so are fulfilled the days of those which are embalmed: and the Egyptians mourned for him threescore and ten days.
 
-**TDB77:** zatui tawh bawlna nasep hun tampi kisam ahih manin tua nasep ni sawmli sung sep ding kisam hi. Izipt mite ama' hangin ni sawmsagih sung kap uh hi.
+**TDB77:** zatui tawh bawlna nasep hun tampi kisam ahih manin tua nasep ni sawmli sung sep ding kisam hi. Izipt mite ama' hangin ni sawmsagih sung kap-te hi.
 
-**ZVS:** Zatui tawh bawlna nasep hun tampi kisam a, ni sawmli sung sep ding kisam hi. Egypt mite ama hangin ni sawmsagih sung a kap uh hi.
+**ZVS:** Zatui tawh bawlna nasep hun tampi kisam a, ni sawmli sung sep ding kisam hi. Egypt mite ama hangin ni sawmsagih sung a kap-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And when the days of his mourning were past, Joseph spake unto the house of Pharaoh, saying, If now I have found grace in your eyes, speak, I pray you, in the ears of Pharaoh, saying,
 
-**TDB77:** Ama' hangin kahna hun a bei ciangin Josef in Faro’ innsung upate' kiangah, “Tu-in note' mai-ah maipha ka ngah leh Faro’ kiangah thu nong va gensak ding uh kong thum hi.
+**TDB77:** Ama' hangin kahna hun a bei ciangin Josef in Faro’ innsung upate' kiangah, “Tu-in note' mai-ah maipha ka ngah leh Faro’ kiangah thu nong va gensak ding-te kong thum hi.
 
-**ZVS:** Ama hangin kahna hun a bei ciangin Josef in Faro' innkuante kiangah, “Tu-in note' mai-ah maipha ka ngah leh Faro' kiangah thu nong va gensak ding uh kong thum hi.
+**ZVS:** Ama hangin kahna hun a bei ciangin Josef in Faro' innkuante kiangah, “Tu-in note' mai-ah maipha ka ngah leh Faro' kiangah thu nong va gensak ding-te kong thum hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -88,54 +88,54 @@
 ### v8
 **EN:** And all the house of Joseph, and his brethren, and his father's house: only their little ones, and their flocks, and their herds, they left in the land of Goshen.
 
-**TDB77:** Josef innkuante khempeuh, a sanggamte, a pa’ innkuante mah bangin paito uh hi; a tate uh, a tuuhonte uh leh a ganhing honte bek uh Goshen gamah kinusia hi.
+**TDB77:** Josef innkuante khempeuh, a sanggamte, a pa’ innkuante mah bangin paito-te hi; a tate uh, a tuuhonte-te leh a ganhing honte bek-te Goshen gamah kinusia hi.
 
-**ZVS:** Josef' innkuante khempeuh, a sanggamte, a pa' innkuante bangmahin paito uh hi. A tate uh, a tuuhonte uh leh a ganhing honte bek uh Goshen gamah kinusia hi.
+**ZVS:** Josef' innkuante khempeuh, a sanggamte, a pa' innkuante bangmahin paito-te hi. A tate uh, a tuuhonte-te leh a ganhing honte bek-te Goshen gamah kinusia hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And there went up with him both chariots and horsemen: and it was a very great company.
 
-**TDB77:** Tua lai munah amah tawh leengte leh sakol tuangte zong paikhawm to uh hi; tua lai-a paite tam mahmah hi.
+**TDB77:** Tua lai munah amah tawh leengte leh sakol tuangte zong paikhawm to-te hi; tua lai-a paite tam mahmah hi.
 
-**ZVS:** Tua lai munah amah tawh leengte leh sakol tuangte zong paikhawm to uh hi. Tua lai-a paite tam mahmah hi.
+**ZVS:** Tua lai munah amah tawh leengte leh sakol tuangte zong paikhawm to-te hi. Tua lai-a paite tam mahmah hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v10
 **EN:** And they came to the threshingfloor of Atad, which is beyond Jordan, and there they mourned with a great and very sore lamentation: and he made a mourning for his father seven days.
 
-**TDB77:** Amaute Jordan gun gal khat, Atad’ buhcilna phual a tun’ uh ciangin, nakpi takin dahna tawh thuum uh hi; amah in a pa hangin ni sagih sung dahna hun bawl hi.
+**TDB77:** Amaute Jordan gun gal khat, Atad’ buhcilna phual a tun’ uh ciangin, nakpi takin dahna tawh thuum-te hi; amah in a pa hangin ni sagih sung dahna hun bawl hi.
 
-**ZVS:** Amaute Jordan gun galkhat, Atad' buhcilna phual a tun' uh ciangin, nakpi takin dahna tawh a thuum uh hi. Amah in a pa' hangin ni sagih sung dahna hun a bawl hi.
+**ZVS:** Amaute Jordan gun galkhat, Atad' buhcilna phual a tun' uh ciangin, nakpi takin dahna tawh a thuum-te hi. Amah in a pa' hangin ni sagih sung dahna hun a bawl hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** And when the inhabitants of the land, the Canaanites, saw the mourning in the floor of Atad, they said, This is a grievous mourning to the Egyptians: wherefore the name of it was called Abel–mizraim, which is beyond Jordan.
 
-**TDB77:** Tua gam-a teeng Kanaan mite in, Atad’ buhcilna-ah tua banga kahna a muh uh ciangin, amaute in, “Hih in Izipt mite’ adingin a nasia thuumna ahi hi,” ci uh hi. Tua ahih ciangin tua mun in Abelmizraim kici hi; tua in Jordan gungal khat ahi hi.
+**TDB77:** Tua gam-a teeng Kanaan mite in, Atad’ buhcilna-ah tua banga kahna a muh-te ciangin, amaute in, “Hih in Izipt mite’ adingin a nasia thuumna ahi hi,” ci-te hi. Tua ahih ciangin tua mun in Abelmizraim kici hi; tua in Jordan gungal khat ahi hi.
 
-**ZVS:** Tua gama teng Kanaan mite in, Atad' buhcilna-ah tua banga kahna a muh ciangin amaute in, “Hih pen Egypt mite-a' dingin a nasia mahmah thuumna ahi hi,” a ci uh hi. Tua ahih ciangin tua mun pen Abelmizraim, kici hi. Tua mun pen Jordan gun galkhat ahi hi.
+**ZVS:** Tua gama teng Kanaan mite in, Atad' buhcilna-ah tua banga kahna a muh ciangin amaute in, “Hih pen Egypt mite-a' dingin a nasia mahmah thuumna ahi hi,” a ci-te hi. Tua ahih ciangin tua mun pen Abelmizraim, kici hi. Tua mun pen Jordan gun galkhat ahi hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And his sons did unto him according as he commanded them:
 
-**TDB77:** Tua ahih ciangin amah in amaute a thupiak bangin ama' tapate in ama adingin bawlsak uh hi;
+**TDB77:** Tua ahih ciangin amah in amaute a thupiak bangin ama' tapate in ama adingin bawlsak-te hi;
 
-**ZVS:** Tua ahih ciangin amah in amaute a thupiak bangin ama tapate in ama-a' dingin bawlsak uh hi.
+**ZVS:** Tua ahih ciangin amah in amaute a thupiak bangin ama tapate in ama-a' dingin bawlsak-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v13
 **EN:** For his sons carried him into the land of Canaan, and buried him in the cave of the field of Machpelah, which Abraham bought with the field for a possession of a buryingplace of Ephron the Hittite, before Mamre.
 
-**TDB77:** bang hang hiam cih leh ama' tapate in Kanaan gamah amah pua-in, kivui nading mun-a neih dingin Abraham in Hit mi Efron’ tung panin a lo tawh a lei khop, Mamre nisuahna lam-a om, Makpelah mun-a lo sunga leihawm sungah vui uh hi.
+**TDB77:** bang hang hiam cih leh ama' tapate in Kanaan gamah amah pua-in, kivui nading mun-a neih dingin Abraham in Hit mi Efron’ tung panin a lo tawh a lei khop, Mamre nisuahna lam-a om, Makpelah mun-a lo sunga leihawm sungah vui-te hi.
 
-**ZVS:** Bang hang hiam cih leh ama tapate in Kanaan gamah amah pua-in, kivuina ding muna neih dingin Abraham in Hit mi Efron' tung panin a lo tawh a leikhop, Mamre nisuahna lamah a om, Makpelah mun lo sunga leihawm sungah a vui uh hi.
+**ZVS:** Bang hang hiam cih leh ama tapate in Kanaan gamah amah pua-in, kivuina ding muna neih dingin Abraham in Hit mi Efron' tung panin a lo tawh a leikhop, Mamre nisuahna lamah a om, Makpelah mun lo sunga leihawm sungah a vui-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -151,36 +151,36 @@
 ### v15
 **EN:** And when Joseph's brethren saw that their father was dead, they said, Joseph will peradventure hate us, and will certainly requite us all the evil which we did unto him.
 
-**TDB77:** Josef' sanggamte in a pa uh a sih khitna a muh uh ciangin, amaute in, “Josef in eite hong mudahin ama' tunga siatna i bawl khempeuh amah in hong thukkik kha ding hi,” ci uh hi.
+**TDB77:** Josef' sanggamte in a pa-te a sih khitna a muh-te ciangin, amaute in, “Josef in eite hong mudahin ama' tunga siatna i bawl khempeuh amah in hong thukkik kha ding hi,” ci-te hi.
 
-**ZVS:** Josef' sanggamte in a pa uh a sih khit ciangin, “Josef in eite hong mudahin ama tunga siatna i bawl khempeuh hong thukkik khading hi,” ci uh hi.
+**ZVS:** Josef' sanggamte in a pa-te a sih khit ciangin, “Josef in eite hong mudahin ama tunga siatna i bawl khempeuh hong thukkik khading hi,” ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v16
 **EN:** And they sent a messenger unto Joseph, saying, Thy father did command before he died, saying,
 
-**TDB77:** Tua ahih ciangin amaute in Josef' kiangah thu puak uh a, “I pa in a sih ma-in hih bangin thu hong pia a,
+**TDB77:** Tua ahih ciangin amaute in Josef' kiangah thu puak-te a, “I pa in a sih ma-in hih bangin thu hong pia a,
 
-**ZVS:** Tua ahih ciangin amaute in Josef kiangah thu puak uh a, “I pa in a sih ma-in thu hong pia a,
+**ZVS:** Tua ahih ciangin amaute in Josef kiangah thu puak-te a, “I pa in a sih ma-in thu hong pia a,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** So shall ye say unto Joseph, Forgive, I pray thee now, the trespass of thy brethren, and their sin; for they did unto thee evil: and now, we pray thee, forgive the trespass of the servants of the God of thy father. And Joseph wept when they spake unto him.
 
-**TDB77:** ‘Josef' kiangah hih bangin ci un. Na sanggamte’ thupalsatna leh a khialna na maisak in, kong thum hi, bang hang hiam cih leh nang' tungah amaute in siatna hong bawl uh hi,’ ci hi. Tua ahih ciangin tu-in nang' tungah kong thum uh hi, i pa’ Pasian’ nasemte’ thupalsatna hong maisak in,” ci uh hi. Amaute in ama' kiangah thu a gen ciangin Josef kap hi.
+**TDB77:** ‘Josef' kiangah hih bangin ci un. Na sanggamte’ thupalsatna leh a khialna na maisak in, kong thum hi, bang hang hiam cih leh nang' tungah amaute in siatna hong bawl-te hi,’ ci hi. Tua ahih ciangin tu-in nang' tungah kong thum-te hi, i pa’ Pasian’ nasemte’ thupalsatna hong maisak in,” ci-te hi. Amaute in ama' kiangah thu a gen ciangin Josef kap hi.
 
-**ZVS:** ‘Josef kiangah hih bangin ci un: Na sanggamte' thupalsatna leh a khialhna na maisak in, kong thum hi. Bang hang hiam cih leh nang' tungah amaute in siatna hong bawl uh hi,’ ci hi. Tua ahih ciangin tu-in nang' tungah kong thum uh hi. I pa' Pasian' nasemte' thupalsatna hong maisak in,” a ci uh hi. Amaute in ama kiangah tua bangin thu a gen ciangun Josef a kap hi.
+**ZVS:** ‘Josef kiangah hih bangin ci un: Na sanggamte' thupalsatna leh a khialhna na maisak in, kong thum hi. Bang hang hiam cih leh nang' tungah amaute in siatna hong bawl-te hi,’ ci hi. Tua ahih ciangin tu-in nang' tungah kong thum-te hi. I pa' Pasian' nasemte' thupalsatna hong maisak in,” a ci-te hi. Amaute in ama kiangah tua bangin thu a gen ciangun Josef a kap hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And his brethren also went and fell down before his face; and they said, Behold, we be thy servants.
 
-**TDB77:** A sanggamte zong hong pai-in ama mai-ah puk uh a, “En in, kote in nangma' nasemte ka hi uh hi,” ci uh hi.
+**TDB77:** A sanggamte zong hong pai-in ama mai-ah puk-te a, “En in, kote in nangma' nasemte ka hi-te hi,” ci-te hi.
 
-**ZVS:** A sanggamte zong pai-in ama mai-ah puk uh a, “En in, kote, nangma nasemte ka hi uh hi,” a ci uh hi.
+**ZVS:** A sanggamte zong pai-in ama mai-ah puk-te a, “En in, kote, nangma nasemte ka hi-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -196,16 +196,16 @@
 ### v20
 **EN:** But as for you, ye thought evil against me; but God meant it unto good, to bring to pass, as it is this day, to save much people alive.
 
-**TDB77:** Note in ahih leh, kei’ tungah a sia dingin na ngaihsun uh hi; ahih hangin Pasian in tu ni hun-a mah bangin mi tampite a nuntak theihna a pian’ nadingin a hoih dingin a ngaihsut ahi hi.
+**TDB77:** Note in ahih leh, kei’ tungah a sia dingin na ngaihsun-te hi; ahih hangin Pasian in tu ni hun-a mah bangin mi tampite a nuntak theihna a pian’ nadingin a hoih dingin a ngaihsut ahi hi.
 
-**ZVS:** Note in ahih leh, kei' tungah a sia dingin na ngaihsun uh hi. Ahih hangin Pasian in tuhuna mah bangin mi tampite a nuntak theihna a pian'na dingin a hoih dingin a ngaihsut ahi hi.
+**ZVS:** Note in ahih leh, kei' tungah a sia dingin na ngaihsun-te hi. Ahih hangin Pasian in tuhuna mah bangin mi tampite a nuntak theihna a pian'na dingin a hoih dingin a ngaihsut ahi hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v21
 **EN:** Now therefore fear ye not: I will nourish you, and your little ones. And he comforted them, and spake kindly unto them.
 
-**TDB77:** Tua ahih ciangin lau kei un; note leh na tate uh adingin an kong pia ding hi,” ci hi. Amah in tua bangin kip gen pha kikin amaute hehnem hi.
+**TDB77:** Tua ahih ciangin lau kei un; note leh na tate-te adingin an kong pia ding hi,” ci hi. Amah in tua bangin kip gen pha kikin amaute hehnem hi.
 
 **ZVS:** Tua ahih ciangin lau kei un. Note leh na tate uh-a' dingin an kong pia ding hi,” a ci hi. Amah in tua bangin kip gen pha kikin amaute a hehnem hi.
 
@@ -214,18 +214,18 @@
 ### v22
 **EN:** And Joseph dwelt in Egypt, he, and his father's house: and Joseph lived an hundred and ten years.
 
-**TDB77:** Tua ahih ciangin Josef, amah leh a pa’ innkuan tawh Izipt-ah teeng uh hi; Josef kum za leh kum sawm nungta hi.
+**TDB77:** Tua ahih ciangin Josef, amah leh a pa’ innkuan tawh Izipt-ah teeng-te hi; Josef kum za leh kum sawm nungta hi.
 
-**ZVS:** Tua ahih ciangin Josef, amah leh a pa' innkuante tawh Egypt-ah teng uh a, Josef kum za leh kum sawm nungta hi.
+**ZVS:** Tua ahih ciangin Josef, amah leh a pa' innkuante tawh Egypt-ah teng-te a, Josef kum za leh kum sawm nungta hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v23
 **EN:** And Joseph saw Ephraim's children of the third generation: the children also of Machir the son of Manasseh were brought up upon Joseph's knees.
 
-**TDB77:** Josef in khang thumna ahi Efraim’ tate mu hi; Manasseh’ tapa Makhir’ tate zong Josef’ inn sung mahah suak uh hi.
+**TDB77:** Josef in khang thumna ahi Efraim’ tate mu hi; Manasseh’ tapa Makhir’ tate zong Josef’ inn sung mahah suak-te hi.
 
-**ZVS:** Josef in khang thumna ahi Efraim' tate mu hi. Manasseh' tapa Makhir' tate zong Josef' innsung mahah suak uh hi.
+**ZVS:** Josef in khang thumna ahi Efraim' tate mu hi. Manasseh' tapa Makhir' tate zong Josef' innsung mahah suak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -241,18 +241,18 @@
 ### v25
 **EN:** And Joseph took an oath of the children of Israel, saying, God will surely visit you, and ye shall carry up my bones from hence.
 
-**TDB77:** Tua ciangin Josef in Israel tapate’ kiciamna bawlin, “Note' kiangah Pasian hong hawh ding a, note in hih lai panin ka guhte na pua to ding uh hi,” ci hi.
+**TDB77:** Tua ciangin Josef in Israel tapate’ kiciamna bawlin, “Note' kiangah Pasian hong hawh ding a, note in hih lai panin ka guhte na pua to ding-te hi,” ci hi.
 
-**ZVS:** Tua ciangin Josef in Israel tapate' kiciamna bawlin, “Pasian in note hong kem ding a, note in hih lai panin ka guhte na pua to ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin Josef in Israel tapate' kiciamna bawlin, “Pasian in note hong kem ding a, note in hih lai panin ka guhte na pua to ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** So Joseph died, being an hundred and ten years old: and they embalmed him, and he was put in a coffin in Egypt.
 
-**TDB77:** Tua ahih ciangin kum za leh kum sawm pha-in Josef si hi; amaute in zatui tawh amah a muat loh nadingin bawl uh a, Izipt hankuang sung khatah amah kikoih hi.
+**TDB77:** Tua ahih ciangin kum za leh kum sawm pha-in Josef si hi; amaute in zatui tawh amah a muat loh nadingin bawl-te a, Izipt hankuang sung khatah amah kikoih hi.
 
-**ZVS:** Tua ahih ciangin kum za leh kum sawm a pha-in Josef a si hi. Amaute in a muatlohna dingin zatui tawh amah bawl uh a, Egypt-ah hankuang sung khatah amah kikoih hi.
+**ZVS:** Tua ahih ciangin kum za leh kum sawm a pha-in Josef a si hi. Amaute in a muatlohna dingin zatui tawh amah bawl-te a, Egypt-ah hankuang sung khatah amah kikoih hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

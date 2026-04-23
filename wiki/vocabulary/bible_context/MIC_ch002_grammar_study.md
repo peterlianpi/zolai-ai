@@ -27,81 +27,81 @@
 ### v1
 **EN:** Woe to them that devise iniquity, and work evil upon their beds! when the morning is light, they practise it, because it is in the power of their hand.
 
-**TDB77:** A lupna tungah lumin gitlohna a geelgeelte in gimna ngah ta hen. Zingsang khua a vak ciangin, a hih theih ding hun a ngah phetun, a ngaihsutsa uh gitlohnate semkhia uh hi.
+**TDB77:** A lupna tungah lumin gitlohna a geelgeelte in gimna ngah ta hen. Zingsang khua a vak ciangin, a hih theih ding hun a ngah phetun, a ngaihsutsa-te gitlohnate semkhia-te hi.
 
-**ZVS:** A lupna tungah lumin gitlohna a geelgeelte in gimna ngah ta hen. Zingsang khua a vak ciangin, hihtheih ding hun a ngah phetun, a ngaihsutsa uh gitlohna a semkhia uh hi.
+**ZVS:** A lupna tungah lumin gitlohna a geelgeelte in gimna ngah ta hen. Zingsang khua a vak ciangin, hihtheih ding hun a ngah phetun, a ngaihsutsa-te gitlohna a semkhia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v2
 **EN:** And they covet fields, and take them by violence; and houses, and take them away: so they oppress a man and his house, even a man and his heritage.
 
-**TDB77:** Lo deih le uh, mi’ aa sut uh a, inn deih le uh, mi’ aa mah sut uh hi. Mite bawlsia-in, a inn leh a neihsa sut uh hi.
+**TDB77:** Lo deih le uh, mi’ aa sut-te a, inn deih le uh, mi’ aa mah sut-te hi. Mite bawlsia-in, a inn leh a neihsa sut-te hi.
 
-**ZVS:** Lo deih le uh, mi-a' sut uh a, inn deih le uh, mi-a' mah sut uh hi. Mite bawlsia-in, a inn leh a neihsa uh a sut uh hi.
+**ZVS:** Lo deih le uh, mi-a' sut-te a, inn deih le uh, mi-a' mah sut-te hi. Mite bawlsia-in, a inn leh a neihsa-te a sut-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v3
 **EN:** Therefore thus saith the
 
-**TDB77:** Tua ahih ciangin Topa in hih bangin ci hi: Note tungah gimna tun’sak ding ka ngaihsun a, tua gimna tawh na kipelh thei kei ding uh hi. Note’ adingin hun hoih lo hi ding ahih manin, na kiphatsak gamtat nawn kei ding uh hi.
+**TDB77:** Tua ahih ciangin Topa in hih bangin ci hi: Note tungah gimna tun’sak ding ka ngaihsun a, tua gimna tawh na kipelh thei kei ding-te hi. Note’ adingin hun hoih lo hi ding ahih manin, na kiphatsak gamtat nawn kei ding-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa } in hih bangin ci hi: Note' tungah gimna tun'sak ding ka ngaihsun a, tua gimna tawh na kipelh thei kei ding uh hi. Note-a' dingin hun hoihlo hi ding ahih manin kiphatsakna tawh na gamta nawn kei ding uh hi.
+**ZVS:** Tua ahih ciangin { Topa } in hih bangin ci hi: Note' tungah gimna tun'sak ding ka ngaihsun a, tua gimna tawh na kipelh thei kei ding-te hi. Note-a' dingin hun hoihlo hi ding ahih manin kiphatsakna tawh na gamta nawn kei ding-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | negation: kei | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** In that day shall one take up a parable against you, and lament with a doleful lamentation, and say, We be utterly spoiled: he hath changed the portion of my people: how hath he removed it from me! turning away he hath divided our fields.
 
-**TDB77:** Tua bang hun hong tun’ ciangin, mite in note’ gim ngahna thu gentehna-in zangin, dah la phuakin sa ding uh a, “Eite i sia khin taktak hi. Topa in i gam hong laksak a, ei hong mante tungah hong piaksak hi,” ci ding uh hi.
+**TDB77:** Tua bang hun hong tun’ ciangin, mite in note’ gim ngahna thu gentehna-in zangin, dah la phuakin sa ding-te a, “Eite i sia khin taktak hi. Topa in i gam hong laksak a, ei hong mante tungah hong piaksak hi,” ci ding-te hi.
 
-**ZVS:** Tua bang hun hong tun' ciangin mite in note' gimngahna thugentehna-in zangin, dah la phuakin sa ding uh a, “Eite i sia khin taktak hi. { Topa } in i gam hong laksak a, ei a hong mante tungah hong piaksak hi,” ci ding uh hi.
+**ZVS:** Tua bang hun hong tun' ciangin mite in note' gimngahna thugentehna-in zangin, dah la phuakin sa ding-te a, “Eite i sia khin taktak hi. { Topa } in i gam hong laksak a, ei a hong mante tungah hong piaksak hi,” ci ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v5
 **EN:** Therefore thou shalt have none that shall cast a cord by lot in the congregation of the
 
-**TDB77:** Tua ahih ciangin Topa’ mite lakah leitang a kihawm ciangin, kuamah in aisaanna tawh leitang na ngah kha kei ding uh hi.
+**TDB77:** Tua ahih ciangin Topa’ mite lakah leitang a kihawm ciangin, kuamah in aisaanna tawh leitang na ngah kha kei ding-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa' } mite lakah leitang a kihawm ciangin, kuamah in leitang na ngah kei ding uh hi.
+**ZVS:** Tua ahih ciangin { Topa' } mite lakah leitang a kihawm ciangin, kuamah in leitang na ngah kei ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Prophesy ye not, say they to them that prophesy: they shall not prophesy to them, that they shall not take shame.
 
-**TDB77:** Amaute in kei kiangah, “Tua bang thu hong gen kei in. Tua bang thu gen dingin kilawm lo hi. Tua bangin Pasian in hong minsiasak lo ding hi,” ci uh hi.
+**TDB77:** Amaute in kei kiangah, “Tua bang thu hong gen kei in. Tua bang thu gen dingin kilawm lo hi. Tua bangin Pasian in hong minsiasak lo ding hi,” ci-te hi.
 
-**ZVS:** Amaute in kei kiangah, “Tua bang thu hong gen kei in. Tua bang thu gen dingin kilawmlo hi. Tua bangin Pasian in hong minsiasak lo ding hi,” hong ci uh hi.
+**ZVS:** Amaute in kei kiangah, “Tua bang thu hong gen kei in. Tua bang thu gen dingin kilawmlo hi. Tua bangin Pasian in hong minsiasak lo ding hi,” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** O thou that art named the house of Jacob, is the spirit of the
 
-**TDB77:** Israel mite aw, “Topa a lungtom ta a, hihte, ama hong bawlna mah ahi hiam?” na cih ding uh kilawm lo hi. Ka thugenna kammalte in a thuman mite adingin a hoih hilo ahi hiam?
+**TDB77:** Israel mite aw, “Topa a lungtom ta a, hihte, ama hong bawlna mah ahi hiam?” na cih ding-te kilawm lo hi. Ka thugenna kammalte in a thuman mite adingin a hoih hilo ahi hiam?
 
-**ZVS:** Israel mite aw, “{ Topa } a lung tom ta a, hihte khempeuh, ama hong bawl mah ahi hiam?” na cih ding uh kilawmlo hi. Ka thugenna kammalte, a thuman mite-a' dingin a hoih hilo ahi hiam?
+**ZVS:** Israel mite aw, “{ Topa } a lung tom ta a, hihte khempeuh, ama hong bawl mah ahi hiam?” na cih ding-te kilawmlo hi. Ka thugenna kammalte, a thuman mite-a' dingin a hoih hilo ahi hiam?
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Even of late my people is risen up as an enemy: ye pull off the robe with the garment from them that pass by securely as men averse from war.
 
-**TDB77:** Ahi zongin Topa in hih bangin hong ci hi: Note in ka mite’ gal na suak uh a, gal sung panin a hong ciahkik, lungmuanga a om mite’ puantualpi ngahte na sut uh hi.
+**TDB77:** Ahi zongin Topa in hih bangin hong ci hi: Note in ka mite’ gal na suak-te a, gal sung panin a hong ciahkik, lungmuanga a om mite’ puantualpi ngahte na sut-te hi.
 
-**ZVS:** Ahi zongin { Topa } in hih bangin hong ci hi: Note pen ka mite' gal na suak uh a, galsung panin a hong ciahkik, lungmuanga a inn-ah a om mite' puantualpi ngahte na sut uh hi.
+**ZVS:** Ahi zongin { Topa } in hih bangin hong ci hi: Note pen ka mite' gal na suak-te a, galsung panin a hong ciahkik, lungmuanga a inn-ah a om mite' puantualpi ngahte na sut-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v9
 **EN:** The women of my people have ye cast out from their pleasant houses; from their children have ye taken away my glory for ever.
 
-**TDB77:** Ka mihingte’ numeite amau’ inn nuam panin na hawlkhia uh a, a tate un a ngah ding keima thuphate na taan paisuak sak uh hi.
+**TDB77:** Ka mihingte’ numeite amau’ inn nuam panin na hawlkhia-te a, a tate un a ngah ding keima thuphate na taan paisuak sak-te hi.
 
-**ZVS:** Ka mihingte' numeite, amau' inn nuam panin na hawlkhia uh a, a tate un a ngah ding keima thuphate na taansak paisuak uh hi.
+**ZVS:** Ka mihingte' numeite, amau' inn nuam panin na hawlkhia-te a, a tate un a ngah ding keima thuphate na taansak paisuak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -135,9 +135,9 @@
 ### v13
 **EN:** The breaker is come up before them: they have broken up, and have passed through the gate, and are gone out by it: and their king shall pass before them, and the
 
-**TDB77:** Pasian in lampi hong hon’sakin, na maiah hong paikhiatpih ding hi, Salsuahna khuapi kulh kongpi panin paikhia-in na suakta ding uh hi. Kumpi ahi Topa mahmah in hong makaih ding hi.
+**TDB77:** Pasian in lampi hong hon’sakin, na maiah hong paikhiatpih ding hi, Salsuahna khuapi kulh kongpi panin paikhia-in na suakta ding-te hi. Kumpi ahi Topa mahmah in hong makaih ding hi.
 
-**ZVS:** Pasian in note-a' ding lampi hong hon'sakin hong paikhiatpih ding hi. Salsuahna khuapikulh panin paikhia-in na suakta ding uh hi. Kumpi ahi { Topa } mahmah in note hong makai ding hi.
+**ZVS:** Pasian in note-a' ding lampi hong hon'sakin hong paikhiatpih ding hi. Salsuahna khuapikulh panin paikhia-in na suakta ding-te hi. Kumpi ahi { Topa } mahmah in note hong makai ding hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | future: will | plural: uh marker
 

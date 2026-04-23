@@ -32,9 +32,9 @@
 ### v2
 **EN:** And it shall be, as with the people, so with the priest; as with the servant, so with his master; as with the maid, so with her mistress; as with the buyer, so with the seller; as with the lender, so with the borrower; as with the taker of usury, so with the giver of usury to him.
 
-**TDB77:** Mi khempeuhte’ thuakna kibang kim ding hi. Siampite leh mi mawkmawkte, silate leh a tote, vanleite leh van zuakte, sum neite leh leibate, ahau azawng, a thuakna uh kibang ding hi.
+**TDB77:** Mi khempeuhte’ thuakna kibang kim ding hi. Siampite leh mi mawkmawkte, silate leh a tote, vanleite leh van zuakte, sum neite leh leibate, ahau azawng, a thuakna-te kibang ding hi.
 
-**ZVS:** Mi khempeuhte' thuakna kibang kim ding hi. Siampite leh mi mawkmawkte silate leh a tote, van leite leh van zuakte, sumneite leh leibate, a hau a zawng, a thuakna uh kibang ding hi.
+**ZVS:** Mi khempeuhte' thuakna kibang kim ding hi. Siampite leh mi mawkmawkte silate leh a tote, van leite leh van zuakte, sumneite leh leibate, a hau a zawng, a thuakna-te kibang ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -59,27 +59,27 @@
 ### v5
 **EN:** The earth also is defiled under the inhabitants thereof; because they have transgressed the laws, changed the ordinance, broken the everlasting covenant.
 
-**TDB77:** Ama tunga teengte in leitung ninsak uh hi; bang hang hiam cih leh amaute in thukhamte mang loin, ngeina kipte palsat uh a, tawntung thuciamna peel uh hi.
+**TDB77:** Ama tunga teengte in leitung ninsak-te hi; bang hang hiam cih leh amaute in thukhamte mang loin, ngeina kipte palsat-te a, tawntung thuciamna peel-te hi.
 
-**ZVS:** Ama tunga a tengte in leitung ninsak uh hi. Bang hang hiam cih leh amaute in thukhamte khialin ngeina kipte palsat uh a, tawntung thuciamna peel uh hi.
+**ZVS:** Ama tunga a tengte in leitung ninsak-te hi. Bang hang hiam cih leh amaute in thukhamte khialin ngeina kipte palsat-te a, tawntung thuciamna peel-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Therefore hath the curse devoured the earth, and they that dwell therein are desolate: therefore the inhabitants of the earth are burned, and few men left.
 
-**TDB77:** Tua ahih ciangin Topa in leitung samsiatin susia a, a tunga teeng mite in amau’ mawhna hangun kangtum uh hi; tua ahih ciangin leitunga teeng mite tawm semsem hi.
+**TDB77:** Tua ahih ciangin Topa in leitung samsiatin susia a, a tunga teeng mite in amau’ mawhna hangun kangtum-te hi; tua ahih ciangin leitunga teeng mite tawm semsem hi.
 
-**ZVS:** Tua ahih ciangin { Topa } in leitung samsiatin susia a, a tunga a teng mite in amau' mawhna hangun a thuak uh hi. Tua ahih ciangin leitungah a teng mite tawm semsem hi.
+**ZVS:** Tua ahih ciangin { Topa } in leitung samsiatin susia a, a tunga a teng mite in amau' mawhna hangun a thuak-te hi. Tua ahih ciangin leitungah a teng mite tawm semsem hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v7
 **EN:** The new wine mourneth, the vine languisheth, all the merryhearted do sigh.
 
-**TDB77:** Leengguite vulin, leenggahzu kang a, a lungdam mi khempeuh khuisa ta uh hi.
+**TDB77:** Leengguite vulin, leenggahzu kang a, a lungdam mi khempeuh khuisa ta-te hi.
 
-**ZVS:** Leengguite keutumin leenggahzu tawm semsem a, a lungdam mi khempeuh khuisa ta uh hi.
+**ZVS:** Leengguite keutumin leenggahzu tawm semsem a, a lungdam mi khempeuh khuisa ta-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -113,9 +113,9 @@
 ### v11
 **EN:** There is a crying for wine in the streets; all joy is darkened, the mirth of the land is gone.
 
-**TDB77:** Leenggahzu a duh manun kongzing ah mite kiko uh hi; lungdamna khempeuh lungkhamna suak a, leitung kipahna kibeisak ta hi.
+**TDB77:** Leenggahzu a duh manun kongzing ah mite kiko-te hi; lungdamna khempeuh lungkhamna suak a, leitung kipahna kibeisak ta hi.
 
-**ZVS:** Leenggahzu a duh manun kongzingah mite kiko uh hi. Lungdamna khempeuh mangthang khinta a, leitung kipahna teng kibeisak ta hi.
+**ZVS:** Leenggahzu a duh manun kongzingah mite kiko-te hi. Lungdamna khempeuh mangthang khinta a, leitung kipahna teng kibeisak ta hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -140,27 +140,27 @@
 ### v14
 **EN:** They shall lift up their voice, they shall sing for the majesty of the
 
-**TDB77:** A suakta sun mite in lungdamin la sa ding uh hi. Nitumna lam a, om mite in Topa a liat mahmahna thu gen ding uh a,
+**TDB77:** A suakta sun mite in lungdamin la sa ding-te hi. Nitumna lam a, om mite in Topa a liat mahmahna thu gen ding-te a,
 
-**ZVS:** A suaktasun mite in lungdamin la sa ding uh hi. Nitumna lama om mite in { Topa } a liat mahmahna thu gen ding uh hi.
+**ZVS:** A suaktasun mite in lungdamin la sa ding-te hi. Nitumna lama om mite in { Topa } a liat mahmahna thu gen ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v15
 **EN:** Wherefore glorify ye the
 
-**TDB77:** Nisuahna lama, om mite in Topa phat ding uh hi. Tuipi dunga a teeng mite in Topa, Israelte’ Pasian’ min phat ding uh hi.
+**TDB77:** Nisuahna lama, om mite in Topa phat ding-te hi. Tuipi dunga a teeng mite in Topa, Israelte’ Pasian’ min phat ding-te hi.
 
-**ZVS:** Nisuahna lama om mite in { Topa } phat ding uh hi. Tuipi dunga teng mite in { Topa}, Israel-te' Pasian phat ding uh hi.
+**ZVS:** Nisuahna lama om mite in { Topa } phat ding-te hi. Tuipi dunga teng mite in { Topa}, Israel-te' Pasian phat ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v16
 **EN:** From the uttermost part of the earth have we heard songs, even glory to the righteous. But I said, My leanness, my leanness, woe unto me! the treacherous dealers have dealt treacherously; yea, the treacherous dealers have dealt very treacherously.
 
-**TDB77:** Lei mong a gamla pen pek pan nangawnin “a thuman Pa in vanglian ta hen’ cih la i za ding hi. Ahih hangin keimah in, “Ka lungkham hi, ka lungkham hi. Gimna ngah hi ta ing! Bang hang hiam cih leh mi khemte in khemkhem lai-in sia semsem uh a, khem zawh thu ciam lailai uh hi,” ka ci hi.
+**TDB77:** Lei mong a gamla pen pek pan nangawnin “a thuman Pa in vanglian ta hen’ cih la i za ding hi. Ahih hangin keimah in, “Ka lungkham hi, ka lungkham hi. Gimna ngah hi ta ing! Bang hang hiam cih leh mi khemte in khemkhem lai-in sia semsem-te a, khem zawh thu ciam lailai-te hi,” ka ci hi.
 
-**ZVS:** Leimong a gamla pek pan nangawnin a thuman Israel minamte a kiphatna la i za ding hi. Ahih hangin keimah in, “Ka lungkham hi; ka lungkham hi. Gimna ngah hi ta ing! Bang hang hiam cih leh mi khemte in khemkhem lai-in sia semsem uh a, khemzawh thu mah ciamciam lai uh hi,” ka ci hi.
+**ZVS:** Leimong a gamla pek pan nangawnin a thuman Israel minamte a kiphatna la i za ding hi. Ahih hangin keimah in, “Ka lungkham hi; ka lungkham hi. Gimna ngah hi ta ing! Bang hang hiam cih leh mi khemte in khemkhem lai-in sia semsem-te a, khemzawh thu mah ciamciam lai-te hi,” ka ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 

@@ -60,7 +60,7 @@
 
 ### leh = and
 **Context:** Conjunction used to list names.
-**Example:** Magdiel, leh Iram ahi uh hi.
+**Example:** Magdiel, leh Iram ahi-te hi.
 
 ### tapate in = the sons of
 **Context:** Introduction to the list of Jacob's sons (Israel's sons).
@@ -111,6 +111,6 @@
   - Structure used to detail the wife's name and her lineage.
   - Example: ama zi’ min in Mehetabel hi a, Mezahab’ tanu ahi Matred’ tanu ahi hi.
 
-- **X tapate in: Y, Z, ... ahi uh hi.**
+- **X tapate in: Y, Z, ... ahi-te hi.**
   - Standard structure for listing the sons of a patriarch (e.g., Judah's sons, Israel's sons).
-  - Example: Judah’ tapate in: Er, Onan, leh Shelah ahi uh hi.
+  - Example: Judah’ tapate in: Er, Onan, leh Shelah ahi-te hi.

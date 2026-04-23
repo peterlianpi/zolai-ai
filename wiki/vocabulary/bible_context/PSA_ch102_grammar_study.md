@@ -84,9 +84,9 @@
 ### v8
 **EN:** Mine enemies reproach me all the day; and they that are mad against me are sworn against me.
 
-**TDB77:** Sun nilohin ka galte in kei hong zahko a, kei hong simmawhte in ciamsiatna-in ka min zang uh hi.
+**TDB77:** Sun nilohin ka galte in kei hong zahko a, kei hong simmawhte in ciamsiatna-in ka min zang-te hi.
 
-**ZVS:** Sun nilohin ka galte in kei hong zahko uh a, kei hong simmawhte in ciamsiatna-in ka min a zang uh hi.
+**ZVS:** Sun nilohin ka galte in kei hong zahko-te a, kei hong simmawhte in ciamsiatna-in ka min a zang-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -127,18 +127,18 @@
 ### v14
 **EN:** For thy servants take pleasure in her stones, and favour the dust thereof.
 
-**TDB77:** Bang hang hiam cih leh na nasemte in tua khua suangtumte itin a leivuite nangawn pammaih sa uh hi.
+**TDB77:** Bang hang hiam cih leh na nasemte in tua khua suangtumte itin a leivuite nangawn pammaih sa-te hi.
 
-**ZVS:** Bang hang hiam cih leh na nasemte in tua khua suangtumte it uh a, a leivuite nangawn pammaih sa uh hi.
+**ZVS:** Bang hang hiam cih leh na nasemte in tua khua suangtumte it-te a, a leivuite nangawn pammaih sa-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** So the heathen shall fear the name of the
 
-**TDB77:** Minamte in Topa hong zahtak-in, leitung kumpi khempeuh in nangma minthan’na hong zahtak ding uh hi.
+**TDB77:** Minamte in Topa hong zahtak-in, leitung kumpi khempeuh in nangma minthan’na hong zahtak ding-te hi.
 
-**ZVS:** Minamte in { Topa } hong zahtakin, leitung kumpi khempeuh in na minthan'na hong zahtak ding uh hi.
+**ZVS:** Minamte in { Topa } hong zahtakin, leitung kumpi khempeuh in na minthan'na hong zahtak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -172,7 +172,7 @@
 ### v22
 **EN:** When the people are gathered together, and the kingdoms, to serve the
 
-**TDB77:** Mihingte, kumpi gamte, { Topa } a bia dingin a kikaihkhop uh ciangin, mite in Zion khuasungah { Topa' } min, Jerusalem khuasungah amah phatna a pulak theihna dingun, thongkiate' taunate a za ding leh a si dingin a kisehte a khahkhia dingin a sangna ama siangtho mun panin amah in hong ensukin, vantung panin { Topa } in leitung hong en hi.
+**TDB77:** Mihingte, kumpi gamte, { Topa } a bia dingin a kikaihkhop-te ciangin, mite in Zion khuasungah { Topa' } min, Jerusalem khuasungah amah phatna a pulak theihna dingun, thongkiate' taunate a za ding leh a si dingin a kisehte a khahkhia dingin a sangna ama siangtho mun panin amah in hong ensukin, vantung panin { Topa } in leitung hong en hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -202,9 +202,9 @@
 ### v26
 **EN:** They shall perish, but thou shalt endure: yea, all of them shall wax old like a garment; as a vesture shalt thou change them, and they shall be changed:
 
-**TDB77:** Amaute sia ding a, ahih hangin nang na kip hi; amaute pen puan bangin paatkhia ding hi. Nangmah in amaute pen puan bangin na kheek a, amaute maimang uh hi;
+**TDB77:** Amaute sia ding a, ahih hangin nang na kip hi; amaute pen puan bangin paatkhia ding hi. Nangmah in amaute pen puan bangin na kheek a, amaute maimang-te hi;
 
-**ZVS:** Amaute sia ding uh a, ahih hangin nang na kip ding hi. Puan bangin amaute paatkhia ding uh hi. Nangmah in amaute puan bangin na khek a, amaute a maimang uh hi.
+**ZVS:** Amaute sia ding-te a, ahih hangin nang na kip ding hi. Puan bangin amaute paatkhia ding-te hi. Nangmah in amaute puan bangin na khek a, amaute a maimang-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -220,9 +220,9 @@
 ### v28
 **EN:** The children of thy servants shall continue, and their seed shall be established before thee.
 
-**TDB77:** Na nasemte’ tate, lungmuangin om ding uh a, amau suan-le-khakte nangma mai-ah kip ding uh hi.
+**TDB77:** Na nasemte’ tate, lungmuangin om ding-te a, amau suan-le-khakte nangma mai-ah kip ding-te hi.
 
-**ZVS:** Na nasemte' tate lungmuangin om ding uh a, amau' suanlekhakte na mai-ah kip ding uh hi.
+**ZVS:** Na nasemte' tate lungmuangin om ding-te a, amau' suanlekhakte na mai-ah kip ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

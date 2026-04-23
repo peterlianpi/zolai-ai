@@ -34,9 +34,9 @@
 ### v2
 **EN:** That the sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose.
 
-**TDB77:** Pasian’ tapate in mite’ tanute hoih hi, ci-in mu uh hi; amaute in a deih bangun tuate zi-in la uh hi.
+**TDB77:** Pasian’ tapate in mite’ tanute hoih hi, ci-in mu-te hi; amaute in a deih bangun tuate zi-in la-te hi.
 
-**ZVS:** vana om mite in leitung mite' tanute hoihsa uh ahih manin a deih bangun amaute zi-in a la uh hi.
+**ZVS:** vana om mite in leitung mite' tanute hoihsa-te ahih manin a deih bangun amaute zi-in a la-te hi.
 
 **Grammar:** quotative: said/saying | adjective: hoih (good) | serial verb: -in (and then) | plural: uh marker
 
@@ -52,9 +52,9 @@
 ### v4
 **EN:** There were giants in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown.
 
-**TDB77:** Pasian’ tapate in mihing' tanute luppihin, amaute in ta a neih hun laitak hita leh tua khit hita leh, amau’ suan-le-khak Nefilim a kici mite leitungah om hi. Hih mite in tang lai-a mi thahat, mi minthangte ahi uh hi.
+**TDB77:** Pasian’ tapate in mihing' tanute luppihin, amaute in ta a neih hun laitak hita leh tua khit hita leh, amau’ suan-le-khak Nefilim a kici mite leitungah om hi. Hih mite in tang lai-a mi thahat, mi minthangte ahi-te hi.
 
-**ZVS:** Vana om mite in leitung mihing tanute luppihin, amaute in ta a neih hun laitak hita leh tua khit hita leh, amau' suanlekhak Nefilim a kici mite leitungah om hi. Hih mite pen tang lai-a mi thahat, mi minthangte ahi uh hi.
+**ZVS:** Vana om mite in leitung mihing tanute luppihin, amaute in ta a neih hun laitak hita leh tua khit hita leh, amau' suanlekhak Nefilim a kici mite leitungah om hi. Hih mite pen tang lai-a mi thahat, mi minthangte ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -174,7 +174,7 @@
 
 **TDB77:** Ahih hangin nang tawh ka thuciamna ka kipsak ding hi; teembaw sungah nang na hong pai ding hi, nang, na tapate, na zi leh na natapate' zite tawh na paikhawm ding hi.
 
-**ZVS:** Ahih hangin nang tawh ka thuciamna ka kipsak ding hi. Teembaw sungah nang na hong pai ding hi. Nang, na tapate, na zi leh na tapate' zite tawh na paikhawm ding uh hi.
+**ZVS:** Ahih hangin nang tawh ka thuciamna ka kipsak ding hi. Teembaw sungah nang na hong pai ding hi. Nang, na tapate, na zi leh na tapate' zite tawh na paikhawm ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -190,9 +190,9 @@
 ### v20
 **EN:** Of fowls after their kind, and of cattle after their kind, of every creeping thing of the earth after his kind, two of every sort shall come unto thee, to keep them alive.
 
-**TDB77:** Vasate amau’ nam ciatin, ganhingte amau’ nam ciatin, lei lak-a a bokvak ganhingte peuhmah amau' nam ciatin, a suakta dingin nam khatah nih ciat nang' kiangah hong pai ding uh hi.
+**TDB77:** Vasate amau’ nam ciatin, ganhingte amau’ nam ciatin, lei lak-a a bokvak ganhingte peuhmah amau' nam ciatin, a suakta dingin nam khatah nih ciat nang' kiangah hong pai ding-te hi.
 
-**ZVS:** Vasate amau' nam ciatin, ganhingte amau' nam ciatin, leilakah a bokvak ganhingte peuhmah amau' nam ciatin, a suakta dingin nam khatah nih ciat nang kiangah hong pai ding uh hi.
+**ZVS:** Vasate amau' nam ciatin, ganhingte amau' nam ciatin, leilakah a bokvak ganhingte peuhmah amau' nam ciatin, a suakta dingin nam khatah nih ciat nang kiangah hong pai ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

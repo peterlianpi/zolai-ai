@@ -36,9 +36,9 @@
 ### v2
 **EN:** And it came to pass, that when they had made an end of eating the grass of the land, then I said, O Lord
 
-**TDB77:** Kauphe in gamsung lopate a gaih khit ciangin, keimah in Topa tungah ka thuum a, “Topa Pasian aw, na mihingte’ mawhna maisak in. Amaute minam tawm hi-in zawngkhal uh ahih manin bangci thuak zawh ding uh ahi hiam?” ka ci hi.
+**TDB77:** Kauphe in gamsung lopate a gaih khit ciangin, keimah in Topa tungah ka thuum a, “Topa Pasian aw, na mihingte’ mawhna maisak in. Amaute minam tawm hi-in zawngkhal-te ahih manin bangci thuak zawh ding-te ahi hiam?” ka ci hi.
 
-**ZVS:** Kauphe in gamsung lopate a gaih khit ciangin, keimah in { Topa } tungah ka thum a, “Topa { Pasian } aw, na mihingte' mawhna maisak in. Amaute minam tawm hi a, zawngkhal uh ahih manin bangci-in thuakzo ding ahi uh hiam?” ka ci hi.
+**ZVS:** Kauphe in gamsung lopate a gaih khit ciangin, keimah in { Topa } tungah ka thum a, “Topa { Pasian } aw, na mihingte' mawhna maisak in. Amaute minam tawm hi a, zawngkhal-te ahih manin bangci-in thuakzo ding ahi-te hiam?” ka ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | plural: uh marker
 
@@ -63,9 +63,9 @@
 ### v5
 **EN:** Then said I, O Lord
 
-**TDB77:** Tua ciangin Topa Pasian kiangah ka thuum a, “Topa aw, khawl dih in. Na mite, minam tawm hi-in zawngkhal mahmah uh ahih manin, amaute in bangci thuak zawh peuhmah ding uh ahi hiam?” ka ci hi.
+**TDB77:** Tua ciangin Topa Pasian kiangah ka thuum a, “Topa aw, khawl dih in. Na mite, minam tawm hi-in zawngkhal mahmah-te ahih manin, amaute in bangci thuak zawh peuhmah ding-te ahi hiam?” ka ci hi.
 
-**ZVS:** Tua ciangin Topa { Pasian } kiangah ka thum a, “{ Topa } aw, khawl dih in. Na mite, minam tawm hi a, zawngkhal mahmah uh ahih manin bangci-in thuakzo ding uh ahi hiam?”ka ci hi.
+**ZVS:** Tua ciangin Topa { Pasian } kiangah ka thum a, “{ Topa } aw, khawl dih in. Na mite, minam tawm hi a, zawngkhal mahmah-te ahih manin bangci-in thuakzo ding-te ahi hiam?”ka ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -90,9 +90,9 @@
 ### v8
 **EN:** And the
 
-**TDB77:** Tua ciangin Topa in kei kiangah, “Amos aw, bang na mu hiam?” hong ci hi. Kei zong dawngin, “Khaukhai khat mu ing,” ka ci hi. Tua ciangin Topa in, “En in, ka mi Israelte a khialhna uh a kitheih nadingin, hih khaukhai tawh ka en hi. Amaute daan ka piak ding ka khiamkik nawn kei ding hi.
+**TDB77:** Tua ciangin Topa in kei kiangah, “Amos aw, bang na mu hiam?” hong ci hi. Kei zong dawngin, “Khaukhai khat mu ing,” ka ci hi. Tua ciangin Topa in, “En in, ka mi Israelte a khialhna-te a kitheih nadingin, hih khaukhai tawh ka en hi. Amaute daan ka piak ding ka khiamkik nawn kei ding hi.
 
-**ZVS:** Tua ciangin { Topa } in kei kiangah, “Amos aw, bang na mu hiam?” hong ci hi. Kei zong dawngin, “Khaukhai khat mu ing,” ka ci hi. Tua ciangin { Topa } in, “En in, ka mi Israel-te a khialhna uh a kitheihna dingin hih khaukhai tawh ka en hi. Amaute gim ka piak ding ka khiakik nawn kei ding hi.
+**ZVS:** Tua ciangin { Topa } in kei kiangah, “Amos aw, bang na mu hiam?” hong ci hi. Kei zong dawngin, “Khaukhai khat mu ing,” ka ci hi. Tua ciangin { Topa } in, “En in, ka mi Israel-te a khialhna-te a kitheihna dingin hih khaukhai tawh ka en hi. Amaute gim ka piak ding ka khiakik nawn kei ding hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -171,9 +171,9 @@
 ### v17
 **EN:** Therefore thus saith the
 
-**TDB77:** Amaziah aw, tua bangin kampau na hih manin Topa in nang kiangah, “Na zi pen khua sungah numei paktat suak ding a, na tate, gal sungah si ding uh hi. Na gam kiphelkhamin midang tungah kipia ding a, lawkite gam sungah nang na si ding hi. Israel mite, gal matin kipai khiatpih ding hi,” ci hi,” a ci hi.
+**TDB77:** Amaziah aw, tua bangin kampau na hih manin Topa in nang kiangah, “Na zi pen khua sungah numei paktat suak ding a, na tate, gal sungah si ding-te hi. Na gam kiphelkhamin midang tungah kipia ding a, lawkite gam sungah nang na si ding hi. Israel mite, gal matin kipai khiatpih ding hi,” ci hi,” a ci hi.
 
-**ZVS:** Amaziah aw, tua bangin kampau na hih manin { Topa } in nang kiangah, ‘Na zi pen khuasungah numei paktat suak ding a, galsungah na tate si ding uh hi. Na gam kiphelkhamin midang tungah kipia ding a, lawkite' gamsungah nang na si ding hi. Israel mite, galmatin kipaipih ding hi,’ ci hi,” a ci hi.
+**ZVS:** Amaziah aw, tua bangin kampau na hih manin { Topa } in nang kiangah, ‘Na zi pen khuasungah numei paktat suak ding a, galsungah na tate si ding-te hi. Na gam kiphelkhamin midang tungah kipia ding a, lawkite' gamsungah nang na si ding hi. Israel mite, galmatin kipaipih ding hi,’ ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 

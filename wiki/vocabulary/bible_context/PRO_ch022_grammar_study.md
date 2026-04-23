@@ -32,18 +32,18 @@
 ### v2
 **EN:** The rich and poor meet together: the
 
-**TDB77:** A hau a zawng a kilamdan’na om lo hi; a nih tuak-in Topa’ bawlsa ahi uh hi.
+**TDB77:** A hau a zawng a kilamdan’na om lo hi; a nih tuak-in Topa’ bawlsa ahi-te hi.
 
-**ZVS:** A hau a zawng a kilamdan'na omlo a, a nih tuakun { Topa' } bawlsa ahi uh hi.
+**ZVS:** A hau a zawng a kilamdan'na omlo a, a nih tuakun { Topa' } bawlsa ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** A prudent man foreseeth the evil, and hideth himself: but the simple pass on, and are punished.
 
-**TDB77:** Mipilte in a lauhuai thu mu thei-in pelh uh a, mi mawkmawkte in phu suakin thuak uh hi.
+**TDB77:** Mipilte in a lauhuai thu mu thei-in pelh-te a, mi mawkmawkte in phu suakin thuak-te hi.
 
-**ZVS:** Mipilte in a lauhuai thu mu thei-in pelh uh a, mi mawkmawkte in phusuakin thuak uh hi.
+**ZVS:** Mipilte in a lauhuai thu mu thei-in pelh-te a, mi mawkmawkte in phusuakin thuak-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -59,9 +59,9 @@
 ### v5
 **EN:** Thorns and snares are in the way of the froward: he that doth keep his soul shall be far from them.
 
-**TDB77:** Migilote’ lampi-ah thang kisiahin so kidawh a, mipilte in tua lampi pelh uh hi.
+**TDB77:** Migilote’ lampi-ah thang kisiahin so kidawh a, mipilte in tua lampi pelh-te hi.
 
-**ZVS:** Migilote' lampi-ah thang kisiahin so kidawh a, mipilte in tua lampi pelh uh hi.
+**ZVS:** Migilote' lampi-ah thang kisiahin so kidawh a, mipilte in tua lampi pelh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -86,7 +86,7 @@
 
 **TDB77:** Thuman lo khaici a vawhte in lungkhamna tuak a, amau’ hehna ciangduai amau’ tung mah tu kik hi.
 
-**ZVS:** Thumanlo khaici a vawhte in lungkhamna tuak uh a, amau' hehna ciangduai amau' tung mah tukik ding hi.
+**ZVS:** Thumanlo khaici a vawhte in lungkhamna tuak-te a, amau' hehna ciangduai amau' tung mah tukik ding hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -125,9 +125,9 @@
 ### v13
 **EN:** The slothful man saith, There is a lion without, I shall be slain in the streets.
 
-**TDB77:** Mi thadahte inn-ah lumlum a, “pua pial leeng humpi’n hong hih kha’n teh,” ci uh hi.
+**TDB77:** Mi thadahte inn-ah lumlum a, “pua pial leeng humpi’n hong hih kha’n teh,” ci-te hi.
 
-**ZVS:** Mi thadahte a inn-ah lumlum a, “Pua pial lehang humpi'n hong hih kha'n teh,” ci uh hi.
+**ZVS:** Mi thadahte a inn-ah lumlum a, “Pua pial lehang humpi'n hong hih kha'n teh,” ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -157,25 +157,25 @@
 ### v17
 **EN:** Bow down thine ear, and hear the words of the wise, and apply thine heart unto my knowledge.
 
-**TDB77:** Na bil uh hong ngatin, mipilte’ thugen ngai un la, ka hong hilh pilna thute na lungsim uh ah lut sak un.
+**TDB77:** Na bil-te hong ngatin, mipilte’ thugen ngai un la, ka hong hilh pilna thute na lungsim-te ah lut sak un.
 
-**ZVS:** Na bil uh hong ngatin mipilte' thugen ngai un la, ka hong hilh pilna thute na lungsim uhah lutsak un.
+**ZVS:** Na bil-te hong ngatin mipilte' thugen ngai un la, ka hong hilh pilna thute na lungsim uhah lutsak un.
 
 ### v18
 **EN:** For it is a pleasant thing if thou keep them within thee; they shall withal be fitted in thy lips.
 
-**TDB77:** Na lungsim uh ah cing-in zang thei le uh cin, na lung uh dam tawntung ding hi.
+**TDB77:** Na lungsim-te ah cing-in zang thei le-te cin, na lung-te dam tawntung ding hi.
 
-**ZVS:** Na lungsim uhah ciingin zang thei le uh cin, na lung uh dam tawntung ding hi.
+**ZVS:** Na lungsim uhah ciingin zang thei le-te cin, na lung-te dam tawntung ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
 ### v19
 **EN:** That thy trust may be in the
 
-**TDB77:** Tua hi leh Topa muan’in na nei ding uh a, tu ni-in note’ phattuam nading kam pau ka suak ding hi.
+**TDB77:** Tua hi leh Topa muan’in na nei ding-te a, tu ni-in note’ phattuam nading kam pau ka suak ding hi.
 
-**ZVS:** Tua hi leh { Topa } muan'in na nei ding uh a, tuni-in note' phattuamna ding kam a pau ka suak ding hi.
+**ZVS:** Tua hi leh { Topa } muan'in na nei ding-te a, tuni-in note' phattuamna ding kam a pau ka suak ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -191,9 +191,9 @@
 ### v21
 **EN:** That I might make thee know the certainty of the words of truth; that thou mightest answer the words of truth to them that send unto thee?
 
-**TDB77:** note hong sawlte tungah thuman na gen kik theih nadingun, thuman na theih nading uh ka deihna ahi hi.
+**TDB77:** note hong sawlte tungah thuman na gen kik theih nadingun, thuman na theih nading-te ka deihna ahi hi.
 
-**ZVS:** thuman a kan dingin note hong sawlte' tungah thuman bang hiam cih na genkik theihna dingun thuman na theihna ding uh ka deihna ahi hi.
+**ZVS:** thuman a kan dingin note hong sawlte' tungah thuman bang hiam cih na genkik theihna dingun thuman na theihna ding-te ka deihna ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -229,7 +229,7 @@
 
 **TDB77:** Amau’ hoih lohnate na zuih khak loh nading na kidop kei leh, nangmah in zong na awk-lawh kha ding hi.
 
-**ZVS:** Amau' hoihlohnate na zuihkhak lohna dingun na kidop kei uh leh note in zong na awklawh khading uh hi.
+**ZVS:** Amau' hoihlohnate na zuihkhak lohna dingun na kidop kei-te leh note in zong na awklawh khading-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -247,7 +247,7 @@
 
 **TDB77:** A leiba lohsak zo kei lecin, na lupna nangawn hong kidawh khiatsak ding hi.
 
-**ZVS:** A leiba lohsakzo kei le uh cin na lupna nangawn uh hong kidawhkhiatsak ding hi.
+**ZVS:** A leiba lohsakzo kei le-te cin na lupna nangawn-te hong kidawhkhiatsak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -263,7 +263,7 @@
 
 **TDB77:** Ama nasepna-ah a siam mahmah mi na thei kha hiam? amah in mi mawkmawkte’ na sem lo ding a, kumpite’ na sem ding hi.
 
-**ZVS:** A nasepna-ah a siam mahmah mi na theikha uh hiam? Amah in mi mawkmawkte' na semlo ding a, kumpite' na sem ding hi.
+**ZVS:** A nasepna-ah a siam mahmah mi na theikha-te hiam? Amah in mi mawkmawkte' na semlo ding a, kumpite' na sem ding hi.
 
 **Grammar:** intensifier: very/greatly | future: will
 

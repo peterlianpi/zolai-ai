@@ -27,9 +27,9 @@
 ### v1
 **EN:** And the
 
-**TDB77:** Topa in Moses' kiangah, “Pai khia un la, Abraham, Isaak, leh Jakob' tungah ‘Na suan-le-khakte uh tungah ka pia ding hi,’ ci a ka ciam leitangah nangmah leh Izipt leitang panin na paikhiatpih toh mite tawh hih lai panin paito un.
+**TDB77:** Topa in Moses' kiangah, “Pai khia un la, Abraham, Isaak, leh Jakob' tungah ‘Na suan-le-khakte-te tungah ka pia ding hi,’ ci a ka ciam leitangah nangmah leh Izipt leitang panin na paikhiatpih toh mite tawh hih lai panin paito un.
 
-**ZVS:** { Topa } in Moses kiangah, “Hih mun nusia un; Abraham, Isaac, leh Jakob tungah, ‘Na suanlekhakte uh tungah ka pia ding hi,’ ci-a ka ciam leitangah nangmah leh Egypt leitang panin na paikhiatpih toh mite tawh hih lai panin paito un.
+**ZVS:** { Topa } in Moses kiangah, “Hih mun nusia un; Abraham, Isaac, leh Jakob tungah, ‘Na suanlekhakte-te tungah ka pia ding hi,’ ci-a ka ciam leitangah nangmah leh Egypt leitang panin na paikhiatpih toh mite tawh hih lai panin paito un.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -45,54 +45,54 @@
 ### v3
 **EN:** Unto a land flowing with milk and honey: for I will not go up in the midst of thee; for thou art a stiffnecked people: lest I consume thee in the way.
 
-**TDB77:** Bawngnawi leh khuaizu a luanna leitangah paito un; ahih hangin lampi-ah note hong sisak kha ding ka hih ciangin note' lakah kei kong paito kei ding hi, bang hang hiam cih leh note in lungkhauh mi na hi uh hi,” a ci hi.
+**TDB77:** Bawngnawi leh khuaizu a luanna leitangah paito un; ahih hangin lampi-ah note hong sisak kha ding ka hih ciangin note' lakah kei kong paito kei ding hi, bang hang hiam cih leh note in lungkhauh mi na hi-te hi,” a ci hi.
 
-**ZVS:** Bawngnawi leh khuaizu a luan'na leitangah paito un. Ahi zongin note hong sisak khading ka hih ciangin note' lakah kei kong paito kei ding hi. Bang hang hiam cih leh note mi lungkhauh na hi uh hi,” a ci hi.
+**ZVS:** Bawngnawi leh khuaizu a luan'na leitangah paito un. Ahi zongin note hong sisak khading ka hih ciangin note' lakah kei kong paito kei ding hi. Bang hang hiam cih leh note mi lungkhauh na hi-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | plural: uh marker
 
 ### v4
 **EN:** And when the people heard these evil tidings, they mourned: and no man did put on him his ornaments.
 
-**TDB77:** Mite in hih thusiate a zak uh ciangin amaute thuum uh hi; kuamah kizem lo uh hi.
+**TDB77:** Mite in hih thusiate a zak-te ciangin amaute thuum-te hi; kuamah kizem lo-te hi.
 
-**ZVS:** Mite in hih thusiate a zak uh ciangin amaute thuum uh a, kuamah kizemlo uh hi.
+**ZVS:** Mite in hih thusiate a zak-te ciangin amaute thuum-te a, kuamah kizemlo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** For the
 
-**TDB77:** Bang hang hiam cih leh Topa in Moses' kiangah, “Israel mite' tungah gen in, ‘Note in lungkhauh mi na hi uh hi; note' lakah tomno khat sung hong paito leng note kong beisak ding hi. Tua ahih ciangin note kong bawl nading ka theih nadingin note'tung panin na kizepnate uh suahkhia un,’ ci in,” ci-in gen khinzo hi.
+**TDB77:** Bang hang hiam cih leh Topa in Moses' kiangah, “Israel mite' tungah gen in, ‘Note in lungkhauh mi na hi-te hi; note' lakah tomno khat sung hong paito leng note kong beisak ding hi. Tua ahih ciangin note kong bawl nading ka theih nadingin note'tung panin na kizepnate-te suahkhia un,’ ci in,” ci-in gen khinzo hi.
 
-**ZVS:** Bang hang hiam cih leh { Topa } in Moses kiangah, “Israel mite' tungah hih bangin gen in: ‘Note mi lungkhauh na hi uh hi. Note' lakah tomno khat sung hong paito leng, note kong beisak ding hi. Tua ahih ciangin note kong bawlna ding ka theihna dingin note' tung panin na kizepnate uh suahkhia un,’ ci in,” ci-in gen khinzo hi.
+**ZVS:** Bang hang hiam cih leh { Topa } in Moses kiangah, “Israel mite' tungah hih bangin gen in: ‘Note mi lungkhauh na hi-te hi. Note' lakah tomno khat sung hong paito leng, note kong beisak ding hi. Tua ahih ciangin note kong bawlna ding ka theihna dingin note' tung panin na kizepnate-te suahkhia un,’ ci in,” ci-in gen khinzo hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And the children of Israel stripped themselves of their ornaments by the mount Horeb.
 
-**TDB77:** Tua ahih ciangin Israel mite in Horeb Mual pan-a kipanin amau’ kizepnate suahkhia uh hi.
+**TDB77:** Tua ahih ciangin Israel mite in Horeb Mual pan-a kipanin amau’ kizepnate suahkhia-te hi.
 
-**ZVS:** Tua ahih ciangin Israel mite in Horeb Mual pan-a kipanin amau' kizepnate suahkhia uh hi.
+**ZVS:** Tua ahih ciangin Israel mite in Horeb Mual pan-a kipanin amau' kizepnate suahkhia-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And Moses took the tabernacle, and pitched it without the camp, afar off from the camp, and called it the Tabernacle of the congregation. And it came to pass, that every one which sought the
 
-**TDB77:** Tu-in Moses in puanbuk la-in giahphual pualam, giahphual panin a gamla pekah lam thei zel hi; amah in tua pen kikhopna buk ci hi. Topa' tungah thu a dong nuam mi peuhmah giahphual pua lam-a om kikhopna buk-ah paikhia uh hi.
+**TDB77:** Tu-in Moses in puanbuk la-in giahphual pualam, giahphual panin a gamla pekah lam thei zel hi; amah in tua pen kikhopna buk ci hi. Topa' tungah thu a dong nuam mi peuhmah giahphual pua lam-a om kikhopna buk-ah paikhia-te hi.
 
-**ZVS:** Israel mite in giahphual a sat simin Moses in puanbuk la-in giahphual panin a gamla pekah lam thei zel hi. Amah in tua pen kikhopna buk, ci hi. { Topa' } tungah thu a dong nuam mi peuhmah giahphual pualama om kikhopna bukah paikhia uh hi.
+**ZVS:** Israel mite in giahphual a sat simin Moses in puanbuk la-in giahphual panin a gamla pekah lam thei zel hi. Amah in tua pen kikhopna buk, ci hi. { Topa' } tungah thu a dong nuam mi peuhmah giahphual pualama om kikhopna bukah paikhia-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And it came to pass, when Moses went out unto the tabernacle, that all the people rose up, and stood every man at his tent door, and looked after Moses, until he was gone into the tabernacle.
 
-**TDB77:** Puanbuk-ah Moses a pai peuhpeuh ciangin mi khempeuh ding to-in, a milip-in a puanbuk kong-ah ding a, puanbuk sungah a paikhit mateng Moses’ nung en uh hi.
+**TDB77:** Puanbuk-ah Moses a pai peuhpeuh ciangin mi khempeuh ding to-in, a milip-in a puanbuk kong-ah ding a, puanbuk sungah a paikhit mateng Moses’ nung en-te hi.
 
-**ZVS:** Puanbukah Moses a pai peuhpeuh ciangin mi khempeuh ding to-in, a milipin a puanbuk kong ciat uhah ding uh a, puanbuk sungah a tum khit mateng Moses' nung en uh hi.
+**ZVS:** Puanbukah Moses a pai peuhpeuh ciangin mi khempeuh ding to-in, a milipin a puanbuk kong ciat uhah ding-te a, puanbuk sungah a tum khit mateng Moses' nung en-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -108,9 +108,9 @@
 ### v10
 **EN:** And all the people saw the cloudy pillar stand at the tabernacle door: and all the people rose up and worshipped, every man in his tent door.
 
-**TDB77:** Mi khempeuhte in a puanbuk kongkhak ah meii khuam a ding a muh ciangin a milip-in a puanbuk kongkhak ah mi khempeuh ding to-in bia uh hi.
+**TDB77:** Mi khempeuhte in a puanbuk kongkhak ah meii khuam a ding a muh ciangin a milip-in a puanbuk kongkhak ah mi khempeuh ding to-in bia-te hi.
 
-**ZVS:** Puanbuk kongkhakah meii khuam a ding a muh uh ciangin a milipin a puanbuk kong ciat uhah mi khempeuh dingto-in kun uh hi.
+**ZVS:** Puanbuk kongkhakah meii khuam a ding a muh-te ciangin a milipin a puanbuk kong ciat uhah mi khempeuh dingto-in kun-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -162,9 +162,9 @@
 ### v16
 **EN:** For wherein shall it be known here that I and thy people have found grace in thy sight? is it not in that thou goest with us? so shall we be separated, I and thy people, from all the people that are upon the face of the earth.
 
-**TDB77:** Bang hang hiam cih leh keimah leh nangma' mite, keimah in nangma' muhna-ah maipha ka ngahna bang ci-in kithei ding ahi hiam? Leitung maitang tunga om mite khempeuh panin keimah leh nangma' mite, kote ka tungnun’na uh in kote tawh nang nong paikhopna hilo ahi hiam?” a ci hi.
+**TDB77:** Bang hang hiam cih leh keimah leh nangma' mite, keimah in nangma' muhna-ah maipha ka ngahna bang ci-in kithei ding ahi hiam? Leitung maitang tunga om mite khempeuh panin keimah leh nangma' mite, kote ka tungnun’na-te in kote tawh nang nong paikhopna hilo ahi hiam?” a ci hi.
 
-**ZVS:** Bang hang hiam cih leh keimah leh nangma mite in nangma muhna-ah maipha ka ngahna uh bang ci-in kithei ding ahi hiam? Leitunga om mi khempeuh tungah keimah leh nangma mite ka tungnun'na uh pen kote tawh nang nong paikhopna hilo ahi hiam?” a ci hi.
+**ZVS:** Bang hang hiam cih leh keimah leh nangma mite in nangma muhna-ah maipha ka ngahna-te bang ci-in kithei ding ahi hiam? Leitunga om mi khempeuh tungah keimah leh nangma mite ka tungnun'na-te pen kote tawh nang nong paikhopna hilo ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 

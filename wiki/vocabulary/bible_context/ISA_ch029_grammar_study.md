@@ -61,9 +61,9 @@
 ### v5
 **EN:** Moreover the multitude of thy strangers shall be like small dust, and the multitude of the terrible ones shall be as chaff that passeth away: yea, it shall be at an instant suddenly.
 
-**TDB77:** Ahih hangin nangma gal honpite leivui neel leeng bang ding uh a, thukhual lo mi honpite ansi leeng bang ding uh hi. Tua ciangin tomkha sungin thakhat thu-in,
+**TDB77:** Ahih hangin nangma gal honpite leivui neel leeng bang ding-te a, thukhual lo mi honpite ansi leeng bang ding-te hi. Tua ciangin tomkha sungin thakhat thu-in,
 
-**ZVS:** Ahih hangin nangma gal honpite leivuineel leeng bang ding uh a, thukhuallo mihonpite ansi leeng bang ding uh hi. Tua ciangin tomkha sungin thakhat thu-in,
+**ZVS:** Ahih hangin nangma gal honpite leivuineel leeng bang ding-te a, thukhuallo mihonpite ansi leeng bang ding-te hi. Tua ciangin tomkha sungin thakhat thu-in,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -79,18 +79,18 @@
 ### v7
 **EN:** And the multitude of all the nations that fight against Ariel, even all that fight against her and her munition, and that distress her, shall be as a dream of a night vision.
 
-**TDB77:** Tua ciangin Pasian’ biakna tau a do minam honpite khempeuh, tua khuapi leh a kulhpi simin a lungkham sakte khempeuh, zan-a mangmat tawh kibangin maimang ding uh hi.
+**TDB77:** Tua ciangin Pasian’ biakna tau a do minam honpite khempeuh, tua khuapi leh a kulhpi simin a lungkham sakte khempeuh, zan-a mangmat tawh kibangin maimang ding-te hi.
 
-**ZVS:** Tua ciangin Pasian biakna tau a do minam honpite khempeuh, tua khuapi leh a kulhpi simin a lungkhamsakte khempeuh, zana mangmat tawh kibangin maimang ding uh hi.
+**ZVS:** Tua ciangin Pasian biakna tau a do minam honpite khempeuh, tua khuapi leh a kulhpi simin a lungkhamsakte khempeuh, zana mangmat tawh kibangin maimang ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** It shall even be as when an hungry man dreameth, and, behold, he eateth; but he awaketh, and his soul is empty: or as when a thirsty man dreameth, and, behold, he drinketh; but he awaketh, and, behold, he is faint, and his soul hath appetite: so shall the multitude of all the nations be, that fight against mount Zion.
 
-**TDB77:** A gilkial mipa in a mangin an ne a, a khan’ lawh ciangin a gil a vah tuan lo, a dangtak mipa in a mangin tui dawn a, a dangtak pha tuan loin a gim mahin a khan’ lawh mah bangin, Jerusalem a do minam honpite khempeuh zong tua ci ding uh hi.
+**TDB77:** A gilkial mipa in a mangin an ne a, a khan’ lawh ciangin a gil a vah tuan lo, a dangtak mipa in a mangin tui dawn a, a dangtak pha tuan loin a gim mahin a khan’ lawh mah bangin, Jerusalem a do minam honpite khempeuh zong tua ci ding-te hi.
 
-**ZVS:** A gilkial mipa in a mangin an ne a, a khan'lawh ciangin a gil a vah tuanlo, a dangtak mipa in a mangin tui dawn a, a dangtak pha tuanloin a gim mahmahin a khan'lawh mah bangin Jerusalem khuapi a do mi khempeuh zong tuaci ding uh hi.
+**ZVS:** A gilkial mipa in a mangin an ne a, a khan'lawh ciangin a gil a vah tuanlo, a dangtak mipa in a mangin tui dawn a, a dangtak pha tuanloin a gim mahmahin a khan'lawh mah bangin Jerusalem khuapi a do mi khempeuh zong tuaci ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -124,18 +124,18 @@
 ### v12
 **EN:** And the book is delivered to him that is not learned, saying, Read this, I pray thee: and he saith, I am not learned.
 
-**TDB77:** Tua ciangin amaute in lai a sim thei lopa kiangah, “Hih lai sim dih in,” a cih uh ciangin amah in, “Ka sim thei kei hi,” a ci hi.
+**TDB77:** Tua ciangin amaute in lai a sim thei lopa kiangah, “Hih lai sim dih in,” a cih-te ciangin amah in, “Ka sim thei kei hi,” a ci hi.
 
-**ZVS:** Tua ciangin amaute in lai a sim theilopa kiangah, “Hih lai sim dih in,” a cih uh ciangin amah in, “Ka sim thei kei hi,” a ci hi.
+**ZVS:** Tua ciangin amaute in lai a sim theilopa kiangah, “Hih lai sim dih in,” a cih-te ciangin amah in, “Ka sim thei kei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: kei | reciprocal: ki- prefix
 
 ### v13
 **EN:** Wherefore the Lord said, Forasmuch as this people draw near me with their mouth, and with their lips do honour me, but have removed their heart far from me, and their fear toward me is taught by the precept of men:
 
-**TDB77:** Tua ciangin Topa in: “Amaute’ lungsim kei tawh kigamla napi-in hih mite in a kam uh tawh kei kiangah hong nai uh a, a muk uh tawh kei hong pahtawi-in, amaute in kei hong kihtakna pen mihingte’ thupiak a zuihna uh ahi lel hi;
+**TDB77:** Tua ciangin Topa in: “Amaute’ lungsim kei tawh kigamla napi-in hih mite in a kam-te tawh kei kiangah hong nai-te a, a muk-te tawh kei hong pahtawi-in, amaute in kei hong kihtakna pen mihingte’ thupiak a zuihna-te ahi lel hi;
 
-**ZVS:** Tua ciangin Topa in, “Amaute' lungsim kei tawh kigamla napi-in hih mite in a kam uh tawh kei kiangah hong pai uh a, a muk uh tawh kei hong pahtawi-in, amaute in kei hong kihtakna pen mihingte' thupiak a zuihna uh ahi lel hi.
+**ZVS:** Tua ciangin Topa in, “Amaute' lungsim kei tawh kigamla napi-in hih mite in a kam-te tawh kei kiangah hong pai-te a, a muk-te tawh kei hong pahtawi-in, amaute in kei hong kihtakna pen mihingte' thupiak a zuihna-te ahi lel hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -160,9 +160,9 @@
 ### v16
 **EN:** Surely your turning of things upside down shall be esteemed as the potter's clay: for shall the work say of him that made it, He made me not? or shall the thing framed say of him that framed it, He had no understanding?
 
-**TDB77:** Note in na khempeuh a leh lamin na koih uh hi. Beel seekpa pen tungman bangin kingaihsun ding a, a kibawlsa na in a bawlpa tawh kisai-in, “Amah in kei hong bawl lo hi,” cihna ahi zongin, a beel in a sekpa tungah, “Amah in theihna nei kei,” ci ding ahi hiam?
+**TDB77:** Note in na khempeuh a leh lamin na koih-te hi. Beel seekpa pen tungman bangin kingaihsun ding a, a kibawlsa na in a bawlpa tawh kisai-in, “Amah in kei hong bawl lo hi,” cihna ahi zongin, a beel in a sekpa tungah, “Amah in theihna nei kei,” ci ding ahi hiam?
 
-**ZVS:** Note in na khempeuh a lehlamin na koih uh hi. Beelsekpa pen tungman bangin kingaihsun ding a, a kibawlsa na in a bawlpa tungah, “Amah in kei hong bawllo hi,” ci ding ahi hiam? A kipiangsak na in a piangsakpa tungah, “Amah in theihna nei kei,” ci ding ahi hiam?
+**ZVS:** Note in na khempeuh a lehlamin na koih-te hi. Beelsekpa pen tungman bangin kingaihsun ding a, a kibawlsa na in a bawlpa tungah, “Amah in kei hong bawllo hi,” ci ding ahi hiam? A kipiangsak na in a piangsakpa tungah, “Amah in theihna nei kei,” ci ding ahi hiam?
 
 **Grammar:** serial verb: -in (and then) | negation: lo | conditional: if/when | reciprocal: ki- prefix | plural: uh marker
 
@@ -176,18 +176,18 @@
 ### v18
 **EN:** And in that day shall the deaf hear the words of the book, and the eyes of the blind shall see out of obscurity, and out of darkness.
 
-**TDB77:** Tua ni ciangin bilngongte in laibu sunga thute za ding a, lungzin’na leh khuamialna sung panin mittawte’ mit in mu ding uh hi.
+**TDB77:** Tua ni ciangin bilngongte in laibu sunga thute za ding a, lungzin’na leh khuamialna sung panin mittawte’ mit in mu ding-te hi.
 
-**ZVS:** Tua ni ciangin bilngongte in laibu sunga thute za ding a, lungzin'na leh khuamialna sung panin mittawte' mit in mu ding uh hi.
+**ZVS:** Tua ni ciangin bilngongte in laibu sunga thute za ding a, lungzin'na leh khuamialna sung panin mittawte' mit in mu ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v19
 **EN:** The meek also shall increase their joy in the
 
-**TDB77:** Lungniamkhiat mite in Topa sungah lungdamna thak ngah ding uh a, Israelte’ Siangtho Pa’ sungah mizawngte lungdam ding uh hi.
+**TDB77:** Lungniamkhiat mite in Topa sungah lungdamna thak ngah ding-te a, Israelte’ Siangtho Pa’ sungah mizawngte lungdam ding-te hi.
 
-**ZVS:** Mi' nopnehte in { Topa}' sungah lungdamna thak ngah ding uh a, Israel-te' Siangtho Pa' sungah mizawngte lungdam ding uh hi.
+**ZVS:** Mi' nopnehte in { Topa}' sungah lungdamna thak ngah ding-te a, Israel-te' Siangtho Pa' sungah mizawngte lungdam ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -210,18 +210,18 @@
 ### v23
 **EN:** But when he seeth his children, the work of mine hands, in the midst of him, they shall sanctify my name, and sanctify the Holy One of Jacob, and shall fear the God of Israel.
 
-**TDB77:** Bang hang hiam cih leh keima khut tawh ka bawlsa ahi amau’ tate a muh ciangin, amaute in keima min siangthosak ding uh hi; amaute in Jakob’ Siangtho Pa, a siangtho ahihna phawk ding uh a, Israel’ Pasian zaktakin kihta ding uh hi.
+**TDB77:** Bang hang hiam cih leh keima khut tawh ka bawlsa ahi amau’ tate a muh ciangin, amaute in keima min siangthosak ding-te hi; amaute in Jakob’ Siangtho Pa, a siangtho ahihna phawk ding-te a, Israel’ Pasian zaktakin kihta ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh keima khut tawh ka bawlsa amau' tate a muh uh ciangin amaute in keima min hong phat ding uh hi. Amaute in Jakob' Siangtho Pa, a siangtho ahihna phawk ding uh a, Israel Pasian zahtakin kihta ding uh hi.
+**ZVS:** Bang hang hiam cih leh keima khut tawh ka bawlsa amau' tate a muh-te ciangin amaute in keima min hong phat ding-te hi. Amaute in Jakob' Siangtho Pa, a siangtho ahihna phawk ding-te a, Israel Pasian zahtakin kihta ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** They also that erred in spirit shall come to understanding, and they that murmured shall learn doctrine.
 
-**TDB77:** Kha lamah a pialkhia mite in thu theitel ta ding uh a, a phunphun mite in thuhilhna ngai ta ding uh hi.”
+**TDB77:** Kha lamah a pialkhia mite in thu theitel ta ding-te a, a phunphun mite in thuhilhna ngai ta ding-te hi.”
 
-**ZVS:** Lungzingin a khial mite in thu theitel ta ding uh a, a phunphun mite in thuhilhna ngai ta ding uh hi,” a ci hi.
+**ZVS:** Lungzingin a khial mite in thu theitel ta ding-te a, a phunphun mite in thuhilhna ngai ta ding-te hi,” a ci hi.
 
 **Grammar:** future: will | plural: uh marker
 

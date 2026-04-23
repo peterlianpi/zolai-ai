@@ -12,7 +12,7 @@
 | sawt nailo | not long ago | Relating to time. |
 | tangthu tawm mahmah | short history | Describing something recent. |
 | kigen hi | it is said | Common introductory phrase for reported information. |
-| kihelhin om uh | they are mixed/intermingled | Describing population mixing. |
+| kihelhin om-te | they are mixed/intermingled | Describing population mixing. |
 | awsuah tuamtuam | various tones/sounds | Referring to linguistic variation. |
 
 ## Compound Words
@@ -80,7 +80,7 @@
 | kineita | ki+nei+ta | having possessed/had |
 | zungkhat guikhat phungkhat | zung+khat+gui+khat+phung+khat | one root, one branch (meaning same lineage) |
 | kibang sitset | kibang+sitset | completely the same |
-| om khin uh | om+khin+uh | they existed before |
+| om khin-te | om+khin+uh | they existed before |
 | uphuai penpen | up+huai+penpen | most honorable/best to be |
 | mawlgam matzia | mawl+gam+mat+zia | the way of writing/arranging words (mawlgam=writing system) |
 | halziate | hal+zia+te | those who are difficult (hal=difficult) |
@@ -115,7 +115,7 @@
 - `X cihte, Y cihte pen, sawt nailo aa khangtom mahmah lai, tangthu tawm mahmah lai cih theih ahi hi.` = It is known that X and Y are relatively recent and have short histories.
   - e.g. `Tedim cihte, Ciimnuai cihte pen, sawt nailo aa khangtom mahmah lai, tangthu tawm mahmah lai cih theih ahi hi.`
 - `X ci-in kigen hi.` = It is said as X.
-  - e.g. `Ciimnuai khua mun ah Zosuante ii mualsuang phut Khampat ci-in I pu I pate in, khua khat nasat uh hi ci aa kiummawh hi.`
+  - e.g. `Ciimnuai khua mun ah Zosuante ii mualsuang phut Khampat ci-in I pu I pate in, khua khat nasat-te hi ci aa kiummawh hi.`
 - `X ci-in kiciamteh hi.` = It is recorded as X.
   - e.g. `Tuhun Chin state (tualai Chin Hills) lam a na zuante in Ciimnuai khua a nasat uhhi ci-in kiciamteh hi.`
 - `X ci-in kici hi.` = It is called X.

@@ -26,16 +26,16 @@
 ### v1
 **EN:** And it came to pass, when Rehoboam had established the kingdom, and had strengthened himself, he forsook the law of the
 
-**TDB77:** Rehoboam’ ukna kipin a thahat ciangin, amah leh amah tawh a om Israel khempeuh in Topa’ thukham nusia uh hi.
+**TDB77:** Rehoboam’ ukna kipin a thahat ciangin, amah leh amah tawh a om Israel khempeuh in Topa’ thukham nusia-te hi.
 
-**ZVS:** Rehoboam' ukna kipin a thahat ciangin, amah-a kipan amah tawh a om Israel mi khempeuh in { Topa' } thukham nusia uh hi.
+**ZVS:** Rehoboam' ukna kipin a thahat ciangin, amah-a kipan amah tawh a om Israel mi khempeuh in { Topa' } thukham nusia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** With twelve hundred chariots, and threescore thousand horsemen: and the people were without number that came with him out of Egypt; the Libyans, the Sukkiims, and the Ethiopians.
 
-**TDB77:** { Topa } tungah amaute citaklo uh ahih manin Rehoboam' kum ngana kumin Jerusalem a sim dingin Egypt kumpipa Shishak, leeng galkap tul leh za nih, leh sakol tung tuang galkap tul sawmguk tawh hong kuanto hi. Egypt panin amah tawh a hong kuan mite pen Libya mi, Sukkiim mi, leh Ethiopia mite hi a, a tamna simzawh hilo hi.
+**TDB77:** { Topa } tungah amaute citaklo-te ahih manin Rehoboam' kum ngana kumin Jerusalem a sim dingin Egypt kumpipa Shishak, leeng galkap tul leh za nih, leh sakol tung tuang galkap tul sawmguk tawh hong kuanto hi. Egypt panin amah tawh a hong kuan mite pen Libya mi, Sukkiim mi, leh Ethiopia mite hi a, a tamna simzawh hilo hi.
 
 **Grammar:** purpose: in order to | causal: because
 
@@ -51,18 +51,18 @@
 ### v5
 **EN:** Then came Shemaiah the prophet to Rehoboam, and to the princes of Judah, that were gathered together to Jerusalem because of Shishak, and said unto them, Thus saith the
 
-**TDB77:** Tua ciangin Shishak’ huhau-in Jerusalem ah a kikhawm Rehoboam leh Judah uliante kiangah kamsang Shemaiah hong pai-in amaute kiangah, “Topa in hih bangin ci hi: ‘Note in kei nong nusia uh hi; tua ahih ciangin Shishak’ khut sungah note kong pia khin hi,’ ci hi,” a ci hi.
+**TDB77:** Tua ciangin Shishak’ huhau-in Jerusalem ah a kikhawm Rehoboam leh Judah uliante kiangah kamsang Shemaiah hong pai-in amaute kiangah, “Topa in hih bangin ci hi: ‘Note in kei nong nusia-te hi; tua ahih ciangin Shishak’ khut sungah note kong pia khin hi,’ ci hi,” a ci hi.
 
-**ZVS:** Tua ciangin Shishak' huhau-in Jerusalem-ah a kikhawm Rehoboam leh Judah uliante kiangah kamsang Shemaiah hong pai-in amaute kiangah, “{ Topa } in hih bangin ci hi: ‘Note in kei nong nusia uh hi. Tua ahih ciangin Shishak' khutsungah note kong pia khin hi,’ ci hi,” a ci hi.
+**ZVS:** Tua ciangin Shishak' huhau-in Jerusalem-ah a kikhawm Rehoboam leh Judah uliante kiangah kamsang Shemaiah hong pai-in amaute kiangah, “{ Topa } in hih bangin ci hi: ‘Note in kei nong nusia-te hi. Tua ahih ciangin Shishak' khutsungah note kong pia khin hi,’ ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Whereupon the princes of Israel and the king humbled themselves; and they said, The
 
-**TDB77:** Tua ciangin Israel uliante leh kumpipa kiniamkhiatin “Topa thuman hi,” a ci uh hi.
+**TDB77:** Tua ciangin Israel uliante leh kumpipa kiniamkhiatin “Topa thuman hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin Judah uliante leh kumpipa kiniamkhiatin, “{ Topa } thuman hi,” a ci uh hi.
+**ZVS:** Tua ciangin Judah uliante leh kumpipa kiniamkhiatin, “{ Topa } thuman hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -78,9 +78,9 @@
 ### v8
 **EN:** Nevertheless they shall be his servants; that they may know my service, and the service of the kingdoms of the countries.
 
-**TDB77:** Ahi zongin amaute in keima nasepna leh gam sung kumpite’ nasepna a theih nadingun amaute in ama nasemte suak ding uh hi,” a ci hi.
+**TDB77:** Ahi zongin amaute in keima nasepna leh gam sung kumpite’ nasepna a theih nadingun amaute in ama nasemte suak ding-te hi,” a ci hi.
 
-**ZVS:** Ahi zongin amaute in keima nasepna leh leitung kumpite' nasepna a kilamdan'na a theihna dingun amaute pen Shishak' nasemte suak ding uh hi,” a ci hi.
+**ZVS:** Ahi zongin amaute in keima nasepna leh leitung kumpite' nasepna a kilamdan'na a theihna dingun amaute pen Shishak' nasemte suak ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -105,9 +105,9 @@
 ### v11
 **EN:** And when the king entered into the house of the
 
-**TDB77:** Topa’ innah kumpipa a pai simin a cingte hong pai-in tuate keng uh a, tua ciangin cin’na inndei sungah tuate koih kik uh hi.
+**TDB77:** Topa’ innah kumpipa a pai simin a cingte hong pai-in tuate keng-te a, tua ciangin cin’na inndei sungah tuate koih kik-te hi.
 
-**ZVS:** { Topa' } biakinn-ah kumpipa a pai simin a cingte hong pai-in tuate keng uh a, tua ciangin cin'na inndei sungah tuate koihkik uh hi.
+**ZVS:** { Topa' } biakinn-ah kumpipa a pai simin a cingte hong pai-in tuate keng-te a, tua ciangin cin'na inndei sungah tuate koihkik-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

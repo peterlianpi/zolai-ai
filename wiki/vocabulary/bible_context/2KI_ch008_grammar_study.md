@@ -194,18 +194,18 @@
 ### v20
 **EN:** In his days Edom revolted from under the hand of Judah, and made a king over themselves.
 
-**TDB77:** Ama hun sungin Judah ukna panin Edom mite lengkhia-in amau’ ading kumpi khat koih uh hi.
+**TDB77:** Ama hun sungin Judah ukna panin Edom mite lengkhia-in amau’ ading kumpi khat koih-te hi.
 
-**ZVS:** Ama hun sungin Judah gam ukna panin Edom mite lengkhia-in amau-a' ding kumpi khat koih uh hi.
+**ZVS:** Ama hun sungin Judah gam ukna panin Edom mite lengkhia-in amau-a' ding kumpi khat koih-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v21
 **EN:** So Joram went over to Zair, and all the chariots with him: and he rose by night, and smote the Edomites which compassed him about, and the captains of the chariots: and the people fled into their tents.
 
-**TDB77:** Tua ciangin Jehoram in a leengte khempeuh tawh Zair-ah kuan hi. Tua lai-ah Edom mite in amaute umcih uh a, zanin kipanin amah leh a leeng ukte in amau a umcih Edom mite vatgawp-in innah tai uh hi.
+**TDB77:** Tua ciangin Jehoram in a leengte khempeuh tawh Zair-ah kuan hi. Tua lai-ah Edom mite in amaute umcih-te a, zanin kipanin amah leh a leeng ukte in amau a umcih Edom mite vatgawp-in innah tai-te hi.
 
-**ZVS:** Tua ciangin Judah kumpi Jehoram zong a leengte khempeuh tawh Zair-ah a kuan hi. Tua lai-ah Edom mite in amaute na umcih uh a, ahi zongin zanin amaute kipanin amah leh a leeng ukte in Edom mite vatgawpin inn-ah a tai uh hi.
+**ZVS:** Tua ciangin Judah kumpi Jehoram zong a leengte khempeuh tawh Zair-ah a kuan hi. Tua lai-ah Edom mite in amaute na umcih-te a, ahi zongin zanin amaute kipanin amah leh a leeng ukte in Edom mite vatgawpin inn-ah a tai-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -268,7 +268,7 @@
 
 **TDB77:** Siria mite in Joram a na liamsakna mun Ramoth-gilead ah Siria kumpipa Hazael tawh galkido dingin Ahab’ tapa Joram tawh kipawlin amah kuan hi.
 
-**ZVS:** Syria kumpipa Hazael tawh gal kido dingin Ahab' tapa Joram tawh kipawlin Ahaziah a kuan hi. Syria mite in a galkidona mun Ramothgilead-ah Israel kumpi Joram liamsak uh hi.
+**ZVS:** Syria kumpipa Hazael tawh gal kido dingin Ahab' tapa Joram tawh kipawlin Ahaziah a kuan hi. Syria mite in a galkidona mun Ramothgilead-ah Israel kumpi Joram liamsak-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 

@@ -4,11 +4,11 @@
 
 ### suante = sons/descendants
 **Context:** Used to denote lineage, 'the sons of X'.
-**Example:** Shashak' suante ahi uh hi
+**Example:** Shashak' suante ahi-te hi
 
-### ahi uh hi = they are
+### ahi-te hi = they are
 **Context:** A concluding copula phrase indicating identity or state for a plural subject.
-**Example:** Shashak' suante ahi uh hi
+**Example:** Shashak' suante ahi-te hi
 
 ### leh = and
 **Context:** Conjunction used to link items in a list, similar to 'and' in English.
@@ -24,15 +24,15 @@
 
 ### beh lutangte = heads of families/clans
 **Context:** Refers to the leaders or patriarchs of the groups.
-**Example:** beh lutangte, a ukpite ahi uh hi
+**Example:** beh lutangte, a ukpite ahi-te hi
 
 ### ukpite = chief men/rulers
 **Context:** Synonymous or closely related to 'beh lutangte', meaning leaders.
-**Example:** behlutangte, a ukpite ahi uh hi
+**Example:** behlutangte, a ukpite ahi-te hi
 
-### teeng uh hi = they dwelt/resided
+### teeng-te hi = they dwelt/resided
 **Context:** The verb phrase indicating residence in a place (Jerusalem).
-**Example:** Hihte Jerusalem ah teeng uh hi
+**Example:** Hihte Jerusalem ah teeng-te hi
 
 ### khuapi = city/town
 **Context:** Used to describe Gibeon.
@@ -68,7 +68,7 @@
 
 ## Phrases & Usage
 
-- **ahi uh hi** = they are
+- **ahi-te hi** = they are
   - Usage: Used at the end of a sentence to state the identity of a plural subject (e.g., 'they are the sons').
 
 - **khang tawh kizui-in** = according to their generations
@@ -82,9 +82,9 @@
 
 ## Grammar Patterns
 
-- **Noun' + suante ahi uh hi**
-  - Pattern for identifying a group as the descendants of a specific person. (e.g., X' suante ahi uh hi = They are the sons of X).
-  - Example: Shashak' suante ahi uh hi
+- **Noun' + suante ahi-te hi**
+  - Pattern for identifying a group as the descendants of a specific person. (e.g., X' suante ahi-te hi = They are the sons of X).
+  - Example: Shashak' suante ahi-te hi
 
 - **Noun + leh + Noun + ...**
   - Simple coordination using 'leh' (and) to list names or items.

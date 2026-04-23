@@ -62,7 +62,7 @@
 - **Topa in Nebukhadnezzar’ khut tawh Judah leh Jerusalem sal-in a mat ciangin** = When the Lord, by the hand of Nebuchadnezzar, captured Judah and Jerusalem into captivity
   - Usage: A complex temporal clause setting the historical context for the subsequent action.
 
-- **Hihte in amau’ beh tawh kizui-in Levi minamte ahi uh hi.** = These were the tribes/peoples of Levi, following their respective families/clans.
+- **Hihte in amau’ beh tawh kizui-in Levi minamte ahi-te hi.** = These were the tribes/peoples of Levi, following their respective families/clans.
   - Usage: A concluding statement summarizing the classification of the listed individuals.
 
 ## Grammar Patterns
@@ -71,9 +71,9 @@
   - Standard genealogical structure in Zolai, listing individuals sequentially using 'a tapa' (son of) to show direct descent, concluding with 'ahi hi' (it is/they are).
   - Example: a tapa Zadok, a tapa Ahima-az, ... ahi hi.
 
-- **Noun' + tapate in: List of names + ahi uh hi.**
+- **Noun' + tapate in: List of names + ahi-te hi.**
   - Structure used to list the descendants of a specific patriarch (e.g., Gershom's sons). 'tapate' is the plural form.
-  - Example: Gershom’ tapate in: Libni leh Shimei ahi uh hi.
+  - Example: Gershom’ tapate in: Libni leh Shimei ahi-te hi.
 
 - **Clause + ciangin + Action.**
   - Temporal clause structure using '-ciangin' (when/at the time that) to link a preceding condition or event to the main action.

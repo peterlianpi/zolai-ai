@@ -28,27 +28,27 @@
 ### v1
 **EN:** Now the Philistines gathered together their armies to battle, and were gathered together at Soco, which belongeth to Judah, and pitched between Soco and Azekah, in Ephes–dammim.
 
-**TDB77:** Tu-in Filistiate in galdo dingin a galkapte khawm uh hi; Judahte gam Sokoh ah amaute kikhawm uh a, Sokoh leh Azekah kikal Efesdammim ah giahphual sat uh hi.
+**TDB77:** Tu-in Filistiate in galdo dingin a galkapte khawm-te hi; Judahte gam Sokoh ah amaute kikhawm-te a, Sokoh leh Azekah kikal Efesdammim ah giahphual sat-te hi.
 
-**ZVS:** Tu-in Filistia-te in galsim dingin a galkapte uh khawmin Judah gam Sokoh-ah amaute kituah uh a, Sokoh leh Azekah kikal Efesdammim-ah giahphual sat uh hi.
+**ZVS:** Tu-in Filistia-te in galsim dingin a galkapte-te khawmin Judah gam Sokoh-ah amaute kituah-te a, Sokoh leh Azekah kikal Efesdammim-ah giahphual sat-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And Saul and the men of Israel were gathered together, and pitched by the valley of Elah, and set the battle in array against the Philistines.
 
-**TDB77:** Tua ciangin Saul leh Israel mite kikhawmin Elah kuam-ah giahphual sat uh a, Filistiate do dingin kikhung uh hi.
+**TDB77:** Tua ciangin Saul leh Israel mite kikhawmin Elah kuam-ah giahphual sat-te a, Filistiate do dingin kikhung-te hi.
 
-**ZVS:** Tua ciangin Saul leh Israel mite kikhawmin Elah kuamah giahphual sat uh a, Filistia-te a do dingin kithawi uh hi.
+**ZVS:** Tua ciangin Saul leh Israel mite kikhawmin Elah kuamah giahphual sat-te a, Filistia-te a do dingin kithawi-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And the Philistines stood on a mountain on the one side, and Israel stood on a mountain on the other side: and there was a valley between them.
 
-**TDB77:** Filistiate a gal khat mual tungah ding uh a, Israelte a gal khat mual tungah ding-in, amaute’ kikalah guam khat om hi.
+**TDB77:** Filistiate a gal khat mual tungah ding-te a, Israelte a gal khat mual tungah ding-in, amaute’ kikalah guam khat om hi.
 
-**ZVS:** Filistia-te a gal mualtungah ding uh a, Israel-te a galkhat mualtungah dingin, amaute' kikalah kuam khat om hi.
+**ZVS:** Filistia-te a gal mualtungah ding-te a, Israel-te a galkhat mualtungah dingin, amaute' kikalah kuam khat om hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -89,18 +89,18 @@
 ### v8
 **EN:** And he stood and cried unto the armies of Israel, and said unto them, Why are ye come out to set your battle in array? am not I a Philistine, and ye servants to Saul? choose you a man for you, and let him come down to me.
 
-**TDB77:** Amah ding-in Israel uliante otsanin, “Galdo dingin bang hangin hong kuankhia na hi uh hiam? Keimah in Filistia mi hi-in, note in Saul’ nasemte hilo na hi uh hiam? Note’ adingin mi khat teel un la, tua mipa kei kiangah hong paisuk sak un.
+**TDB77:** Amah ding-in Israel uliante otsanin, “Galdo dingin bang hangin hong kuankhia na hi-te hiam? Keimah in Filistia mi hi-in, note in Saul’ nasemte hilo na hi-te hiam? Note’ adingin mi khat teel un la, tua mipa kei kiangah hong paisuk sak un.
 
-**ZVS:** Amah dingin Israel uliante otsanin, “Galdo dingin bang hangin hong kuankhia ngam na hi uh hiam? Kei, Filistia mi hi-in, note, Saul' nasemte hilo na hi uh hiam? Note-a' dingin mi khat teel un la, tua mipa kei kiangah hong paisuksak un.
+**ZVS:** Amah dingin Israel uliante otsanin, “Galdo dingin bang hangin hong kuankhia ngam na hi-te hiam? Kei, Filistia mi hi-in, note, Saul' nasemte hilo na hi-te hiam? Note-a' dingin mi khat teel un la, tua mipa kei kiangah hong paisuksak un.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v9
 **EN:** If he be able to fight with me, and to kill me, then will we be your servants: but if I prevail against him, and kill him, then shall ye be our servants, and serve us.
 
-**TDB77:** Amah in kei hong doin hong thah zawh leh kote in na nasemte ka hi ding uh hi; ahih hangin keimah in amah zoin ka thah leh note in komau’ nasem hi-in ka na uh na sem ding uh hi,” a ci hi.
+**TDB77:** Amah in kei hong doin hong thah zawh leh kote in na nasemte ka hi ding-te hi; ahih hangin keimah in amah zoin ka thah leh note in komau’ nasem hi-in ka na-te na sem ding-te hi,” a ci hi.
 
-**ZVS:** Amah in kei hong do-in hong thah zawh leh kote na nasemte ka hi ding uh a, ahih hangin keimah in amah zo-in ka thah leh note, komau' nasem na hi ding uh hi,” a ci hi.
+**ZVS:** Amah in kei hong do-in hong thah zawh leh kote na nasemte ka hi ding-te a, ahih hangin keimah in amah zo-in ka thah leh note, komau' nasem na hi ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -116,9 +116,9 @@
 ### v11
 **EN:** When Saul and all Israel heard those words of the Philistine, they were dismayed, and greatly afraid.
 
-**TDB77:** Saul leh Israelte khempeuh in Filistia mipa’ kammalte a zak uh ciangin amaute lungkia-in nakpi takin lau uh hi.
+**TDB77:** Saul leh Israelte khempeuh in Filistia mipa’ kammalte a zak-te ciangin amaute lungkia-in nakpi takin lau-te hi.
 
-**ZVS:** Saul leh Israel-te khempeuh in Filistia mipa' kammalte a zak uh ciangin amaute lungkia-in nakpi takin a lau uh hi.
+**ZVS:** Saul leh Israel-te khempeuh in Filistia mipa' kammalte a zak-te ciangin amaute lungkia-in nakpi takin a lau-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -134,16 +134,16 @@
 ### v13
 **EN:** And the three eldest sons of Jesse went and followed Saul to the battle: and the names of his three sons that went to the battle were Eliab the firstborn, and next unto him Abinadab, and the third Shammah.
 
-**TDB77:** Jessi’ tapa a upen thumte in galdona-ah Saul zui khin uh hi; gal sungah a pai a tapa thumte’ min in a ta upa Eliab, leh ama zom-ah Abinadab, leh a thumna in Shammah ahi hi.
+**TDB77:** Jessi’ tapa a upen thumte in galdona-ah Saul zui khin-te hi; gal sungah a pai a tapa thumte’ min in a ta upa Eliab, leh ama zom-ah Abinadab, leh a thumna in Shammah ahi hi.
 
-**ZVS:** Jessi' tapa a u pen thumte in galdona-ah Saul zui khin uh hi. Gal sungah a pai a tapa thumte' min pen, a ta upa Eliab, ama zomah Abinadab, leh a thumna Shammah ahi hi.
+**ZVS:** Jessi' tapa a u pen thumte in galdona-ah Saul zui khin-te hi. Gal sungah a pai a tapa thumte' min pen, a ta upa Eliab, ama zomah Abinadab, leh a thumna Shammah ahi hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
 ### v14
 **EN:** And David was the youngest: and the three eldest followed Saul.
 
-**TDB77:** David in a nautum pen ahi hi; a upapen thumte in Saul zui uh a,
+**TDB77:** David in a nautum pen ahi hi; a upapen thumte in Saul zui-te a,
 
 **ZVS:** David, a nautum pen hi a, a upa pen thumte in Saul zui a,
 
@@ -188,9 +188,9 @@
 ### v19
 **EN:** Now Saul, and they, and all the men of Israel, were in the valley of Elah, fighting with the Philistines.
 
-**TDB77:** Tu-in Filistiate tawh kido-in Saul leh amaute, leh Israel mite khempeuh Elah kuam-ah om uh hi.
+**TDB77:** Tu-in Filistiate tawh kido-in Saul leh amaute, leh Israel mite khempeuh Elah kuam-ah om-te hi.
 
-**ZVS:** Tua laitakin Filistia-te tawh kido-in Saul leh amaute, leh Israel mite khempeuh, Elah kuamah om uh hi.
+**ZVS:** Tua laitakin Filistia-te tawh kido-in Saul leh amaute, leh Israel mite khempeuh, Elah kuamah om-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -206,9 +206,9 @@
 ### v21
 **EN:** For Israel and the Philistines had put the battle in array, army against army.
 
-**TDB77:** Israelte leh Filistiate, galkap leh galkap a kido dingin kinaih uh hi.
+**TDB77:** Israelte leh Filistiate, galkap leh galkap a kido dingin kinaih-te hi.
 
-**ZVS:** Israel-te leh Filistia-te, galkap leh galkap a kido dingin kinaih uh hi.
+**ZVS:** Israel-te leh Filistia-te, galkap leh galkap a kido dingin kinaih-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -233,16 +233,16 @@
 ### v24
 **EN:** And all the men of Israel, when they saw the man, fled from him, and were sore afraid.
 
-**TDB77:** Israel mite khempeuh in tua mipa a muh uh ciangin ama kiang panin taikhia uh a, lau mahmah uh hi.
+**TDB77:** Israel mite khempeuh in tua mipa a muh-te ciangin ama kiang panin taikhia-te a, lau mahmah-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And the men of Israel said, Have ye seen this man that is come up? surely to defy Israel is he come up: and it shall be, that the man who killeth him, the king will enrich him with great riches, and will give him his daughter, and make his father's house free in Israel.
 
-**TDB77:** Israel mite khat leh khat kiho-in, “Hih hong paikhia mipa na mu ngei hiam? Israelte a to dingin hong paito takpi hi; amah a that mipa tungah kumpipa in hauhna tampi pia-in, ama tanu zong pia ding a, a pa’ innkuante Israelte sungah aana nasep leh siah khempeuh maang sak ding hi,” a ci uh hi.
+**TDB77:** Israel mite khat leh khat kiho-in, “Hih hong paikhia mipa na mu ngei hiam? Israelte a to dingin hong paito takpi hi; amah a that mipa tungah kumpipa in hauhna tampi pia-in, ama tanu zong pia ding a, a pa’ innkuante Israelte sungah aana nasep leh siah khempeuh maang sak ding hi,” a ci-te hi.
 
-**ZVS:** Israel mite khatlekhat kiho-in, “Hih hong paikhia mipa na mu ngei uh hiam? Israel-te a to dingin hong paito takpi hi. Amah a that mipa tungah kumpipa in sum tampi pia-in, ama tanu zong pia ding a, a pa' innkuante, Israel sungah aana nasep leh siah khempeuh kipengsak ding hi,” a ci uh hi.
+**ZVS:** Israel mite khatlekhat kiho-in, “Hih hong paikhia mipa na mu ngei-te hiam? Israel-te a to dingin hong paito takpi hi. Amah a that mipa tungah kumpipa in sum tampi pia-in, ama tanu zong pia ding a, a pa' innkuante, Israel sungah aana nasep leh siah khempeuh kipengsak ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -258,9 +258,9 @@
 ### v27
 **EN:** And the people answered him after this manner, saying, So shall it be done to the man that killeth him.
 
-**TDB77:** Mite in a kibang mahin amah dawng uh a, “Amah a that mipa tungah tua bangin kihih ding hi,” a ci uh hi.
+**TDB77:** Mite in a kibang mahin amah dawng-te a, “Amah a that mipa tungah tua bangin kihih ding hi,” a ci-te hi.
 
-**ZVS:** Mite in a kibang mahin dawng uh a, “Amah a that mipa tungah tua bang tua bangin kihih ding hi,” a ci uh hi.
+**ZVS:** Mite in a kibang mahin dawng-te a, “Amah a that mipa tungah tua bang tua bangin kihih ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -285,18 +285,18 @@
 ### v30
 **EN:** And he turned from him toward another, and spake after the same manner: and the people answered him again after the former manner.
 
-**TDB77:** Tua ciangin ama kiang panin midang khat kiangah kihei-in a kibang mahin thu dong hi; mite in a masa-a mah bangin amah dawng kik uh hi.
+**TDB77:** Tua ciangin ama kiang panin midang khat kiangah kihei-in a kibang mahin thu dong hi; mite in a masa-a mah bangin amah dawng kik-te hi.
 
-**ZVS:** Tua ciangin ama kiang panin midang khat kiangah kihei-in a kibang mahin thu dong a, mite in a masa-a mah bangin amah dawngkik uh hi.
+**ZVS:** Tua ciangin ama kiang panin midang khat kiangah kihei-in a kibang mahin thu dong a, mite in a masa-a mah bangin amah dawngkik-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** And when the words were heard which David spake, they rehearsed them before Saul: and he sent for him.
 
-**TDB77:** David’ kampaute a kizak ciangin amaute in Saul’ kiangah gen kik uh hi; Saul in amah sam sak hi.
+**TDB77:** David’ kampaute a kizak ciangin amaute in Saul’ kiangah gen kik-te hi; Saul in amah sam sak hi.
 
-**ZVS:** David' kampaute a kizak ciangin amaute in Saul kiangah gen uh a, Saul in amah samsak hi.
+**ZVS:** David' kampaute a kizak ciangin amaute in Saul kiangah gen-te a, Saul in amah samsak hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -472,27 +472,27 @@
 ### v51
 **EN:** Therefore David ran, and stood upon the Philistine, and took his sword, and drew it out of the sheath thereof, and slew him, and cut off his head therewith. And when the Philistines saw their champion was dead, they fled.
 
-**TDB77:** Tua ciangin David tai-in Filistiapa tungah ding a, a namsau la-in a paai panin dok a, amah thatin tua tawh a lu tankhia hi. Filistiate in a makaipa uh a sihna a theih uh ciangin amaute tai uh hi.
+**TDB77:** Tua ciangin David tai-in Filistiapa tungah ding a, a namsau la-in a paai panin dok a, amah thatin tua tawh a lu tankhia hi. Filistiate in a makaipa-te a sihna a theih-te ciangin amaute tai-te hi.
 
-**ZVS:** Tua ciangin David tai-in ama tungah ding a, Filistia-pa' namsau mah a paai panin dok a, amah thatin tua tawh a lu a tankhia hi. Filistia-te in a makaipa uh a sihna a theih uh ciangin a taikek uh hi.
+**ZVS:** Tua ciangin David tai-in ama tungah ding a, Filistia-pa' namsau mah a paai panin dok a, amah thatin tua tawh a lu a tankhia hi. Filistia-te in a makaipa-te a sihna a theih-te ciangin a taikek-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v52
 **EN:** And the men of Israel and of Judah arose, and shouted, and pursued the Philistines, until thou come to the valley, and to the gates of Ekron. And the wounded of the Philistines fell down by the way to Shaaraim, even unto Gath, and unto Ekron.
 
-**TDB77:** Tua ciangin Israelte leh Judah mite awngin ding uh a, Gath leh Ekron kulh kongpi ciang dong Filistiate delh uh ahih manin Sha-araim panin Gath leh Ekron ciang dong Filistia mi a liamte lampi-ah puk uh hi.
+**TDB77:** Tua ciangin Israelte leh Judah mite awngin ding-te a, Gath leh Ekron kulh kongpi ciang dong Filistiate delh-te ahih manin Sha-araim panin Gath leh Ekron ciang dong Filistia mi a liamte lampi-ah puk-te hi.
 
-**ZVS:** Tua ciangin Israel-te leh Judah-te awngin ding uh a, Gath leh Ekron kulhkongpi ciangdong Filistia-te delh uh ahih manin Shaarim panin Gath leh Ekron ciangdong Filistia mi a liamte puk uh hi.
+**ZVS:** Tua ciangin Israel-te leh Judah-te awngin ding-te a, Gath leh Ekron kulhkongpi ciangdong Filistia-te delh-te ahih manin Shaarim panin Gath leh Ekron ciangdong Filistia mi a liamte puk-te hi.
 
 **Grammar:** sequence: then/therefore | causal: because | plural: uh marker
 
 ### v53
 **EN:** And the children of Israel returned from chasing after the Philistines, and they spoiled their tents.
 
-**TDB77:** Tua ciangin Filistiate a delhna panun Israelte hong ciahkik uh a, amaute in amau’ giahphual luhsak uh hi.
+**TDB77:** Tua ciangin Filistiate a delhna panun Israelte hong ciahkik-te a, amaute in amau’ giahphual luhsak-te hi.
 
-**ZVS:** Tua ciangin Filistia-te a delhna panun Israel-te hong ciahkik uh a, amaute in a giahphual uh luhsak uh hi.
+**ZVS:** Tua ciangin Filistia-te a delhna panun Israel-te hong ciahkik-te a, amaute in a giahphual-te luhsak-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

@@ -41,9 +41,9 @@
 ### v3
 **EN:** Blessed is he that readeth, and they that hear the words of this prophecy, and keep those things which are written therein: for the time is at hand.
 
-**TDB77:** Hih lai simin, hih hilhkholhna thu za-in, lai sungah a kigelh nate a ngai mite in thupha a ngah ding uh hi. Bang hang hiam i cih leh, a hun a nai zo hi.
+**TDB77:** Hih lai simin, hih hilhkholhna thu za-in, lai sungah a kigelh nate a ngai mite in thupha a ngah ding-te hi. Bang hang hiam i cih leh, a hun a nai zo hi.
 
-**ZVS:** Hih laibu a sim mite mi hampha hi a, hih thu kigente ngai-in, hih laibu sungah a kigelh thu a zuite zong mi hampha mah ahi uh hi. Bang hang hiam cih leh hih thu kigente a tun'ding hun hong naita hi.
+**ZVS:** Hih laibu a sim mite mi hampha hi a, hih thu kigente ngai-in, hih laibu sungah a kigelh thu a zuite zong mi hampha mah ahi-te hi. Bang hang hiam cih leh hih thu kigente a tun'ding hun hong naita hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -71,9 +71,9 @@
 ### v7
 **EN:** Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.
 
-**TDB77:** En un, Topa in meiite tawh hong kumsuk ding a, mittang khempeuh a, kipan amah a sun mite in amah hong mu ding uh hi. Leitung mipawl khempeuh in zong amah hangin a kap ding uh hi. Tua bang a man hi. Amen.
+**TDB77:** En un, Topa in meiite tawh hong kumsuk ding a, mittang khempeuh a, kipan amah a sun mite in amah hong mu ding-te hi. Leitung mipawl khempeuh in zong amah hangin a kap ding-te hi. Tua bang a man hi. Amen.
 
-**ZVS:** En un, amah hong paita ding a, meiipi tawh hong tonkhawm ding hi. Teipi tawh amah a sunte-a kipan mi khempeuh in a mu ding uh hi. Amah a hong pai ciangin leitung mi khempeuh lau-in a kap ding uh hi. Hih ka gen bangin hong piang takpi ding hi. Amen.
+**ZVS:** En un, amah hong paita ding a, meiipi tawh hong tonkhawm ding hi. Teipi tawh amah a sunte-a kipan mi khempeuh in a mu ding-te hi. Amah a hong pai ciangin leitung mi khempeuh lau-in a kap ding-te hi. Hih ka gen bangin hong piang takpi ding hi. Amen.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -125,7 +125,7 @@
 ### v14
 **EN:** His head and his hairs were white like wool, as white as snow; and his eyes were as a flame of fire;
 
-**TDB77:** a lutang leh a sam in tuumul paak bangin ahi zongin, vuk paak bangin ahi zongin a ngo hi. A mittangte in meikuang bangin ahi uh a,
+**TDB77:** a lutang leh a sam in tuumul paak bangin ahi zongin, vuk paak bangin ahi zongin a ngo hi. A mittangte in meikuang bangin ahi-te a,
 
 **ZVS:** A samte tuumul bangin kangin, khuavak bangin pak a, a mittangte meikuang a bang hi.
 

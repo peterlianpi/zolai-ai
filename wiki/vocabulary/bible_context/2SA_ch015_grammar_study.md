@@ -113,9 +113,9 @@
 ### v11
 **EN:** And with Absalom went two hundred men out of Jerusalem, that were called; and they went in their simplicity, and they knew not any thing.
 
-**TDB77:** A kisam mi zanihte Jerusalem panin Absalom tawh pai uh a, amaute lungsim hoih tawh pai uh a, bangmah thei lo uh hi.
+**TDB77:** A kisam mi zanihte Jerusalem panin Absalom tawh pai-te a, amaute lungsim hoih tawh pai-te a, bangmah thei lo-te hi.
 
-**ZVS:** A kisam mi za nihte Jerusalem panin Absalom tawh a pai uh hi. Amaute lungsim hoih tawh a pai hi a, bangmah theilo uh hi.
+**ZVS:** A kisam mi za nihte Jerusalem panin Absalom tawh a pai-te hi. Amaute lungsim hoih tawh a pai hi a, bangmah theilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -140,45 +140,45 @@
 ### v14
 **EN:** And David said unto all his servants that were with him at Jerusalem, Arise, and let us flee; for we shall not else escape from Absalom: make speed to depart, lest he overtake us suddenly, and bring evil upon us, and smite the city with the edge of the sword.
 
-**TDB77:** Tua ciangin David in Jerusalem ah amah tawh a om a nasemte khempeuh kiangah, “Ding un, tai ni; tua hi kei leh Absalom’ kiang panin eite’ suahtak nading om lo ding hi; manlangin pai ni, tua hi kei leh amah in eite hong pha pak ding a, eite tungah siatna hong tung sakin namsau tawh khuapi hong vat ding uh hi,” a ci hi.
+**TDB77:** Tua ciangin David in Jerusalem ah amah tawh a om a nasemte khempeuh kiangah, “Ding un, tai ni; tua hi kei leh Absalom’ kiang panin eite’ suahtak nading om lo ding hi; manlangin pai ni, tua hi kei leh amah in eite hong pha pak ding a, eite tungah siatna hong tung sakin namsau tawh khuapi hong vat ding-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin David in Jerusalem-ah amah tawh a om a nasemte khempeuh kiangah, “Ding un, tai ni; tua hi kei leh Absalom' kiang panin eite' suahtakna ding omlo ding hi. Manlangin pai ni; tua hi kei leh amah in eite hong pha pak ding a, eite' tungah siatna hong tungsakin namsau tawh khuapi hong vat ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin David in Jerusalem-ah amah tawh a om a nasemte khempeuh kiangah, “Ding un, tai ni; tua hi kei leh Absalom' kiang panin eite' suahtakna ding omlo ding hi. Manlangin pai ni; tua hi kei leh amah in eite hong pha pak ding a, eite' tungah siatna hong tungsakin namsau tawh khuapi hong vat ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | hortative: let us | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And the king's servants said unto the king, Behold, thy servants are ready to do whatsoever my lord the king shall appoint.
 
-**TDB77:** Tua ciangin kumpipa’ nasemte in kumpipa kiangah, “En in, ka to kumpipa in na khensat peuhpeuh a sem dingin na nasemte kiging hi,” a ci uh hi.
+**TDB77:** Tua ciangin kumpipa’ nasemte in kumpipa kiangah, “En in, ka to kumpipa in na khensat peuhpeuh a sem dingin na nasemte kiging hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin kumpipa' nasemte in ama kiangah, “En in, ka to kumpipa in na khensat peuhpeuh a sem dingin na nasemte kiging hi,” a ci uh hi.
+**ZVS:** Tua ciangin kumpipa' nasemte in ama kiangah, “En in, ka to kumpipa in na khensat peuhpeuh a sem dingin na nasemte kiging hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And the king went forth, and all his household after him. And the king left ten women, which were concubines, to keep the house.
 
-**TDB77:** Tua ahih ciangin kumpipa paikhia a, ama innkuan khempeuh in ama nung zui uh hi. Kumpipa in inn kem dingin zineu sawm nusia hi.
+**TDB77:** Tua ahih ciangin kumpipa paikhia a, ama innkuan khempeuh in ama nung zui-te hi. Kumpipa in inn kem dingin zineu sawm nusia hi.
 
-**ZVS:** Tua ahih ciangin kumpipa paikhia a, ama innkuan leh a ulian khempeuh in ama nung a zui uh hi. Kumpipa in inn kem dingin a zineu sawm nusia hi.
+**ZVS:** Tua ahih ciangin kumpipa paikhia a, ama innkuan leh a ulian khempeuh in ama nung a zui-te hi. Kumpipa in inn kem dingin a zineu sawm nusia hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v17
 **EN:** And the king went forth, and all the people after him, and tarried in a place that was far off.
 
-**TDB77:** Tua ciangin kumpipa paikhia a, mi khempeuh in ama nung zui uh hi; tua ciangin inn tawpna-ah amaute khawl uh hi.
+**TDB77:** Tua ciangin kumpipa paikhia a, mi khempeuh in ama nung zui-te hi; tua ciangin inn tawpna-ah amaute khawl-te hi.
 
-**ZVS:** Tua ciangin kumpipa paikhia a, mi khempeuh in ama nung a zui uh hi. Tua ciangin khuanawl inn tawpna-ah amaute khawl uh hi.
+**ZVS:** Tua ciangin kumpipa paikhia a, mi khempeuh in ama nung a zui-te hi. Tua ciangin khuanawl inn tawpna-ah amaute khawl-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v18
 **EN:** And all his servants passed on beside him; and all the Cherethites, and all the Pelethites, and all the Gittites, six hundred men which came after him from Gath, passed on before the king.
 
-**TDB77:** Tua ciangin a nasemte khempeuh in amah nawkin pai uh hi; tua ciangin Khereth mi khempeuh, Peleth mi khempeuh, leh Gath panin amah a zui Gath mi zagukte khempeuh, kumpipa mai nawkin paisuak uh hi.
+**TDB77:** Tua ciangin a nasemte khempeuh in amah nawkin pai-te hi; tua ciangin Khereth mi khempeuh, Peleth mi khempeuh, leh Gath panin amah a zui Gath mi zagukte khempeuh, kumpipa mai nawkin paisuak-te hi.
 
-**ZVS:** Tua ciangin a nasemte khempeuh in amah nawkin pai uh hi. Khereth mi khempeuh, Peleth mi khempeuh, leh Gath panin amah a zui mi za gukte khempeuh, kumpipa' mai nawkin paisuak uh hi.
+**ZVS:** Tua ciangin a nasemte khempeuh in amah nawkin pai-te hi. Khereth mi khempeuh, Peleth mi khempeuh, leh Gath panin amah a zui mi za gukte khempeuh, kumpipa' mai nawkin paisuak-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -221,18 +221,18 @@
 ### v23
 **EN:** And all the country wept with a loud voice, and all the people passed over: the king also himself passed over the brook Kidron, and all the people passed over, toward the way of the wilderness.
 
-**TDB77:** Tua ahih ciangin mi khempeuh a pai lai takin gamsung mi khempeuh a gingin kapkhia uh a, kumpipa in Kidron lui kantanin, mi khempeuh gamlak lamah paisuak uh hi.
+**TDB77:** Tua ahih ciangin mi khempeuh a pai lai takin gamsung mi khempeuh a gingin kapkhia-te a, kumpipa in Kidron lui kantanin, mi khempeuh gamlak lamah paisuak-te hi.
 
-**ZVS:** Tua ahih ciangin mi khempeuh a pai laitakin gamsung mi khempeuh a gingin kapkhia uh a, kumpipa in Kidron lui kantanin, mi khempeuh zong gamlak lamah a paisuak uh hi.
+**ZVS:** Tua ahih ciangin mi khempeuh a pai laitakin gamsung mi khempeuh a gingin kapkhia-te a, kumpipa in Kidron lui kantanin, mi khempeuh zong gamlak lamah a paisuak-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And lo Zadok also, and all the Levites were with him, bearing the ark of the covenant of God: and they set down the ark of God; and Abiathar went up, until all the people had done passing out of the city.
 
-**TDB77:** Tua ciangin Abiathar hong paito a, biakpiakna pia hi; en in, Zadok zong Levi mite khempeuh tawh hong pai-in Pasian’ thuciamna singkuang hong pua uh hi; mi khempeuh in khuapi a khen’ khit mateng amaute in Pasian’ thuciamna singkuang nga uh hi.
+**TDB77:** Tua ciangin Abiathar hong paito a, biakpiakna pia hi; en in, Zadok zong Levi mite khempeuh tawh hong pai-in Pasian’ thuciamna singkuang hong pua-te hi; mi khempeuh in khuapi a khen’ khit mateng amaute in Pasian’ thuciamna singkuang nga-te hi.
 
-**ZVS:** Tua ciangin Abiathar hong paito a, Zadok zong Levi mi khempeuh tawh hong pai-in Pasian' Thuciamna Singkuang hong pua uh hi. Mi khempeuh in khuapi a khen' khit mateng amaute in Pasian' Thuciamna Singkuang nga phot uh hi.
+**ZVS:** Tua ciangin Abiathar hong paito a, Zadok zong Levi mi khempeuh tawh hong pai-in Pasian' Thuciamna Singkuang hong pua-te hi. Mi khempeuh in khuapi a khen' khit mateng amaute in Pasian' Thuciamna Singkuang nga phot-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -275,18 +275,18 @@
 ### v29
 **EN:** Zadok therefore and Abiathar carried the ark of God again to Jerusalem: and they tarried there.
 
-**TDB77:** Tua ahih ciangin Zadok leh Abiathar in Pasian’ thuciamna singkuang Jerusalem ah puakik uh hi; amaute tua lai-ah om uh hi.
+**TDB77:** Tua ahih ciangin Zadok leh Abiathar in Pasian’ thuciamna singkuang Jerusalem ah puakik-te hi; amaute tua lai-ah om-te hi.
 
-**ZVS:** Tua ahih ciangin Zadok leh Abiathar in Pasian' Thuciamna Singkuang Jerusalem-ah puakik uh a, amaute tua lai-ah om uh hi.
+**ZVS:** Tua ahih ciangin Zadok leh Abiathar in Pasian' Thuciamna Singkuang Jerusalem-ah puakik-te a, amaute tua lai-ah om-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v30
 **EN:** And David went up by the ascent of mount Olivet, and wept as he went up, and had his head covered, and he went barefoot: and all the people that was with him covered every man his head, and they went up, weeping as they went up.
 
-**TDB77:** Ahih hangin Oliv Mual tung kahtohna-ah David paito-in, khe guak leh lu tuamsa-in a pai kawmin kap hi; amah tawh a om mi khempeuh in a lu uh khuhin paito uh a, a pai kawmun kap uh hi.
+**TDB77:** Ahih hangin Oliv Mual tung kahtohna-ah David paito-in, khe guak leh lu tuamsa-in a pai kawmin kap hi; amah tawh a om mi khempeuh in a lu-te khuhin paito-te a, a pai kawmun kap-te hi.
 
-**ZVS:** Ahih hangin Oliv Mual tung kahtohna-ah David paito a, khe guak leh lu tuamsa-in a paikawmin kap hi. Amah tawh a om mi khempeuh zong lu khuhsa-in a paitoh kawmun a kap uh hi.
+**ZVS:** Ahih hangin Oliv Mual tung kahtohna-ah David paito a, khe guak leh lu tuamsa-in a paikawmin kap hi. Amah tawh a om mi khempeuh zong lu khuhsa-in a paitoh kawmun a kap-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

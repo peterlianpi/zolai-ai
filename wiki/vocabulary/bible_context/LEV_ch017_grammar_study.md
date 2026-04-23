@@ -59,9 +59,9 @@
 ### v5
 **EN:** To the end that the children of Israel may bring their sacrifices, which they offer in the open field, even that they may bring them unto the
 
-**TDB77:** Hih in, gam lakah Israel mite in a gawh uh amau’ biakpiaknate hong paipih theih nading, kikhopna buk kongkhak a, siampipa kiang, Topa’ tungah amaute in tuate hong paipih theih nading, leh thunuam-a biakpiakna in Topa a hong gawh theih nading deihna ahi hi;
+**TDB77:** Hih in, gam lakah Israel mite in a gawh-te amau’ biakpiaknate hong paipih theih nading, kikhopna buk kongkhak a, siampipa kiang, Topa’ tungah amaute in tuate hong paipih theih nading, leh thunuam-a biakpiakna in Topa a hong gawh theih nading deihna ahi hi;
 
-**ZVS:** Hih pen, gamlakah Israel mite in a gawh uh amau' biakpiaknate hong paipih theihna ding, kikhopna buk kongkhak-a siampipa' kiang, { Topa' } tungah amaute in tuate hong paipih theihna ding, leh thunuama biakpiakna-in { Topa } tungah sa hong gawh theihna ding uh deihna ahi hi.
+**ZVS:** Hih pen, gamlakah Israel mite in a gawh-te amau' biakpiaknate hong paipih theihna ding, kikhopna buk kongkhak-a siampipa' kiang, { Topa' } tungah amaute in tuate hong paipih theihna ding, leh thunuama biakpiakna-in { Topa } tungah sa hong gawh theihna ding-te deihna ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -77,9 +77,9 @@
 ### v7
 **EN:** And they shall no more offer their sacrifices unto devils, after whom they have gone a whoring. This shall be a statute for ever unto them throughout their generations.
 
-**TDB77:** Tua ahih ciangin amaute in a biak uh keel milimte adingin amau’ biakpiaknate go nawn lo ding uh hi. Hih in amau’ khang tawntungin amaute tungah ngeina kip khat hi ding hi.
+**TDB77:** Tua ahih ciangin amaute in a biak-te keel milimte adingin amau’ biakpiaknate go nawn lo ding-te hi. Hih in amau’ khang tawntungin amaute tungah ngeina kip khat hi ding hi.
 
-**ZVS:** Tua ahih ciangin amaute in a biak uh keeldawite-a' dingin amau' biakpiaknate go nawnlo ding uh hi. Hih pen amau' khang tawntungin amaute' tungah ngeina kip khat hi ding hi.
+**ZVS:** Tua ahih ciangin amaute in a biak-te keeldawite-a' dingin amau' biakpiaknate go nawnlo ding-te hi. Hih pen amau' khang tawntungin amaute' tungah ngeina kip khat hi ding hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -140,9 +140,9 @@
 ### v14
 **EN:** For it is the life of all flesh; the blood of it is for the life thereof: therefore I said unto the children of Israel, Ye shall eat the blood of no manner of flesh: for the life of all flesh is the blood thereof: whosoever eateth it shall be cut off.
 
-**TDB77:** “Bang hang hiam cih leh ganhingte khempeuh’ nuntakna in a sisan ahi hi; tua ahih ciangin Israel mite tungah hih bangin ka ci khin zo hi: Ganhing khatpeuh peuh’ sisan na ne kei ding uh hi; bang hang hiam cih leh ganhing khempeuh nuntakna in a sisan ahi hi; sisan a ne mi peuhmah a mipihte kiang panin kihawlkhia ding hi.
+**TDB77:** “Bang hang hiam cih leh ganhingte khempeuh’ nuntakna in a sisan ahi hi; tua ahih ciangin Israel mite tungah hih bangin ka ci khin zo hi: Ganhing khatpeuh peuh’ sisan na ne kei ding-te hi; bang hang hiam cih leh ganhing khempeuh nuntakna in a sisan ahi hi; sisan a ne mi peuhmah a mipihte kiang panin kihawlkhia ding hi.
 
-**ZVS:** Ganhing khempeuh' nuntakna pen a si ahih manin Israel mite tungah hih bangin ka ci khinzo hi: Ganhing khat peuhpeuh si na ne kei ding uh hi. Bang hang hiam cih leh ganhing khempeuh' nuntakna pen a si ahi hi. Si a ne mi peuhmah a mipihte kiang panin kihawlkhia ding hi.
+**ZVS:** Ganhing khempeuh' nuntakna pen a si ahih manin Israel mite tungah hih bangin ka ci khinzo hi: Ganhing khat peuhpeuh si na ne kei ding-te hi. Bang hang hiam cih leh ganhing khempeuh' nuntakna pen a si ahi hi. Si a ne mi peuhmah a mipihte kiang panin kihawlkhia ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

@@ -31,81 +31,81 @@
 ### v2
 **EN:** Some remove the landmarks; they violently take away flocks, and feed thereof.
 
-**TDB77:** Mite in leitang gol a ngah theih nadingun gisuangte khinsim uh a, tuute gu-in amau’ tuuhon tawh khawl khawm uh hi.
+**TDB77:** Mite in leitang gol a ngah theih nadingun gisuangte khinsim-te a, tuute gu-in amau’ tuuhon tawh khawl khawm-te hi.
 
-**ZVS:** “Mihingte in leitang zaipi a ngah theihna dingun gisuangte khinsim uh a, tuute gu-in amau' tuuhonte tawh khawi khawm uh hi.
+**ZVS:** “Mihingte in leitang zaipi a ngah theihna dingun gisuangte khinsim-te a, tuute gu-in amau' tuuhonte tawh khawi khawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v3
 **EN:** They drive away the ass of the fatherless, they take the widow's ox for a pledge.
 
-**TDB77:** Mi tagahte’ la neihsunte guksak uh a, meigong numei in a leiba a loh khit dong a bawngtal matsak uh hi.
+**TDB77:** Mi tagahte’ la neihsunte guksak-te a, meigong numei in a leiba a loh khit dong a bawngtal matsak-te hi.
 
-**ZVS:** Mi tagahte' la neihsunte guksak uh a, meigong numei in a leiba a loh khit dong a bawngtal a matsak uh hi.
+**ZVS:** Mi tagahte' la neihsunte guksak-te a, meigong numei in a leiba a loh khit dong a bawngtal a matsak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** They turn the needy out of the way: the poor of the earth hide themselves together.
 
-**TDB77:** Mizawngte’ ngah theih dingte khaktan uh a, mizawngte notkhia uh ahih manin amaute bucip uh hi.
+**TDB77:** Mizawngte’ ngah theih dingte khaktan-te a, mizawngte notkhia-te ahih manin amaute bucip-te hi.
 
-**ZVS:** Mizawngte' ngah theih dingte khaktan uh a, mizawngte notkhia ahih manun amaute lau-in a bucip uh hi.
+**ZVS:** Mizawngte' ngah theih dingte khaktan-te a, mizawngte notkhia ahih manun amaute lau-in a bucip-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
 ### v5
 **EN:** Behold, as wild asses in the desert, go they forth to their work; rising betimes for a prey: the wilderness yieldeth food for them and for their children.
 
-**TDB77:** Tua ahih manin gamlak la bangin gam keuna sungah a an ding zong tawm uh a, a tate uh an ding koi mah-ah mu zo lo uh hi.
+**TDB77:** Tua ahih manin gamlak la bangin gam keuna sungah a an ding zong tawm-te a, a tate-te an ding koi mah-ah mu zo lo-te hi.
 
-**ZVS:** “Tua ahih manin gamlaka om la bangin gam keu sungah a an ding uh zongtawm uh a, a tate uh an ding koimahah mu zolo uh hi.
+**ZVS:** “Tua ahih manin gamlaka om la bangin gam keu sungah a an ding-te zongtawm-te a, a tate-te an ding koimahah mu zolo-te hi.
 
 **Grammar:** negation: lo | causal: because | plural: uh marker
 
 ### v6
 **EN:** They reap every one his corn in the field: and they gather the vintage of the wicked.
 
-**TDB77:** Midangte’ lo sungah anlak na sem uh a, migilote’ leenggui lo-ah leenggah loin om uh hi.
+**TDB77:** Midangte’ lo sungah anlak na sem-te a, migilote’ leenggui lo-ah leenggah loin om-te hi.
 
-**ZVS:** Midangte' lo sungah anlak na sem uh a, migilote' leenggui lo-ah leenggah lo-in a om uh hi.
+**ZVS:** Midangte' lo sungah anlak na sem-te a, migilote' leenggui lo-ah leenggah lo-in a om-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** They cause the naked to lodge without clothing, that they have no covering in the cold.
 
-**TDB77:** Zan-in puan silh loin lum uh a, khuadampi lakah silh ding nei loin om uh hi.
+**TDB77:** Zan-in puan silh loin lum-te a, khuadampi lakah silh ding nei loin om-te hi.
 
-**ZVS:** Zanin puan silhloin lum uh a, khuadampi lakah silh ding neiloin om uh hi.
+**ZVS:** Zanin puan silhloin lum-te a, khuadampi lakah silh ding neiloin om-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v8
 **EN:** They are wet with the showers of the mountains, and embrace the rock for want of a shelter.
 
-**TDB77:** Mualtung pan-a hong zu guahtui in amaute kawt ciimsak a, suangpi pang peuh belin toncip uh hi.
+**TDB77:** Mualtung pan-a hong zu guahtui in amaute kawt ciimsak a, suangpi pang peuh belin toncip-te hi.
 
-**ZVS:** Mualtung gam panin a hong zu guahtui in amaute kawtciimsak a, suangpi pang peuh beelin a toncip uh hi.
+**ZVS:** Mualtung gam panin a hong zu guahtui in amaute kawtciimsak a, suangpi pang peuh beelin a toncip-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** They pluck the fatherless from the breast, and take a pledge of the poor.
 
-**TDB77:** Migilote in pa nei nawn lo naupangte sila-in nei uh a, mizawngte’ tate leiba taangin la uh hi.
+**TDB77:** Migilote in pa nei nawn lo naupangte sila-in nei-te a, mizawngte’ tate leiba taangin la-te hi.
 
-**ZVS:** “Migilote in pa nei nawnlo naupangte sila-in nei uh a, mizawngte' tate leiba tangin a la uh hi.
+**ZVS:** “Migilote in pa nei nawnlo naupangte sila-in nei-te a, mizawngte' tate leiba tangin a la-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v10
 **EN:** They cause him to go naked without clothing, and they take away the sheaf from the hungry;
 
-**TDB77:** Tua mizawngte in puan silh loin na sem uh a, gil kialpi-in anlak na sem uh hi.
+**TDB77:** Tua mizawngte in puan silh loin na sem-te a, gil kialpi-in anlak na sem-te hi.
 
-**ZVS:** Tua mizawngte in puan silhloin na sem uh a, gilkialpi mahin anlak na a sem uh hi.
+**ZVS:** Tua mizawngte in puan silhloin na sem-te a, gilkialpi mahin anlak na a sem-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -155,18 +155,18 @@
 ### v16
 **EN:** In the dark they dig through houses, which they had marked for themselves in the daytime: they know not the light.
 
-**TDB77:** Gutate in sun a ciamtehsa teng zan-in inn luh uh a, sunin amaute bu- in khuavak peel uh hi.
+**TDB77:** Gutate in sun a ciamtehsa teng zan-in inn luh-te a, sunin amaute bu- in khuavak peel-te hi.
 
-**ZVS:** Gutate in sun sungin a ciamtehsa teng zanin a inn luh uh a, sun sung bu-in khuavak a peel uh hi.
+**ZVS:** Gutate in sun sungin a ciamtehsa teng zanin a inn luh-te a, sun sung bu-in khuavak a peel-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v17
 **EN:** For the morning is to them even as the shadow of death: if one know them, they are in the terrors of the shadow of death.
 
-**TDB77:** Bang hang hiam cih leh zan khuamial pen amaute khempeuh’ adingin zing khuavak bang hi a, zan khuamial lauhuai sung nuamsa uh hi.
+**TDB77:** Bang hang hiam cih leh zan khuamial pen amaute khempeuh’ adingin zing khuavak bang hi a, zan khuamial lauhuai sung nuamsa-te hi.
 
-**ZVS:** Bang hang hiam cih leh zan khuamial pen amaute khempeuh-a' dingin zing khuavak bang hi a, zan khuamial lauhuai sung nuam a sa uh hi.
+**ZVS:** Bang hang hiam cih leh zan khuamial pen amaute khempeuh-a' dingin zing khuavak bang hi a, zan khuamial lauhuai sung nuam a sa-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -200,7 +200,7 @@
 
 **TDB77:** Bang hang hiam cih leh tua bang mi in numei tacingte’ neihsa tawh kivak a, meigong numeite’ phattuam nading bangmah bawl lo hi.
 
-**ZVS:** Bang hang hiam cih leh tua bang mite, numei taciingte' neihsa tawh a kivak uh hi a, meigongte' phattuamna ding bangmah bawllo uh hi.
+**ZVS:** Bang hang hiam cih leh tua bang mite, numei taciingte' neihsa tawh a kivak-te hi a, meigongte' phattuamna ding bangmah bawllo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -232,9 +232,9 @@
 ### v25
 **EN:** And if it be not so now, who will make me a liar, and make my speech nothing worth?
 
-**TDB77:** Hih thu kua-in nial zo ding na hi uh hiam? Ka thugennate man lo hi, ci-in kua in hong sel zo ding na hi uh hiam?” a ci hi.
+**TDB77:** Hih thu kua-in nial zo ding na hi-te hiam? Ka thugennate man lo hi, ci-in kua in hong sel zo ding na hi-te hiam?” a ci hi.
 
-**ZVS:** Hih thu kua in nialzo ding na hi uh hiam? Ka thugennate manlo hi, ci-in kei langah hong pangin ka thugente hong selzo ding kua om na hi uh hiam?” a ci hi.
+**ZVS:** Hih thu kua in nialzo ding na hi-te hiam? Ka thugennate manlo hi, ci-in kei langah hong pangin ka thugente hong selzo ding kua om na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo
 

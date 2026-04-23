@@ -24,9 +24,9 @@
 ### v1
 **EN:** Put them in mind to be subject to principalities and powers, to obey magistrates, to be ready to every good work,
 
-**TDB77:** Mite in gam ukte leh mangte’ ukna uh a man’ nading, nasepna pha khempeuh a sep nading a kigin’ kholh nading;
+**TDB77:** Mite in gam ukte leh mangte’ ukna-te a man’ nading, nasepna pha khempeuh a sep nading a kigin’ kholh nading;
 
-**ZVS:** Na mite in hong uk kumpite leh aana neite' thu mangin, thuhoih khempeuh a sem dingin a kigingsa-in a om ding uh phawksak in la,
+**ZVS:** Na mite in hong uk kumpite leh aana neite' thu mangin, thuhoih khempeuh a sem dingin a kigingsa-in a om ding-te phawksak in la,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -35,7 +35,7 @@
 
 **TDB77:** kuamah gensia loin, kitawng loin, lungkhuah nei loin, mi khempeuh tungah lungnem takpi nading a ngaihsut nadingun thu na hilh in.
 
-**ZVS:** kuamah gensia loin, mite tawh kilemin kikhawl thei-in, lungsim nemin, mi khempeuh tungah a dikna ding uh na gen in.
+**ZVS:** kuamah gensia loin, mite tawh kilemin kikhawl thei-in, lungsim nemin, mi khempeuh tungah a dikna ding-te na gen in.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -85,7 +85,7 @@
 ### v8
 **EN:** This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.
 
-**TDB77:** Hih thu in thuman thutak ahi hi. Hih thu ngaihsunin Pasian a um mite in gamtatna ahoihte ahih tawntung nading a kikep nadingun, hahkatin na hilh nading ka hong deih hi. Hih thute a pha uh tham loin mite’ phattuamna a piangsak thei uh hi.
+**TDB77:** Hih thu in thuman thutak ahi hi. Hih thu ngaihsunin Pasian a um mite in gamtatna ahoihte ahih tawntung nading a kikep nadingun, hahkatin na hilh nading ka hong deih hi. Hih thute a pha-te tham loin mite’ phattuamna a piangsak thei-te hi.
 
 **ZVS:** Hih ka thugente a man mahmah ahi hi. Tua ahih manin Pasian' thu a um mite in gamtat hoih a neihtheihnadingun hih ka hong thugente na lim ngaihsut ding ka deih hi. Ka hong thugente a hoih hi a, mite-a' dingin a manpha vive ahi hi.
 
@@ -94,7 +94,7 @@
 ### v9
 **EN:** But avoid foolish questions, and genealogies, and contentions, and strivings about the law; for they are unprofitable and vain.
 
-**TDB77:** Thu kidong hainate leh khangciamtehna laite, kitotnate, thukham hangin kiseelnate tang in. Bang hang hiam na cih leh, tua nate in phattuamna hong pia lo uh hi, a mawkna ahi uh hi.
+**TDB77:** Thu kidong hainate leh khangciamtehna laite, kitotnate, thukham hangin kiseelnate tang in. Bang hang hiam na cih leh, tua nate in phattuamna hong pia lo-te hi, a mawkna ahi-te hi.
 
 **ZVS:** Ahi zongin a haihuai thu kiselna, min kigual deudau khangsimna, kitotna, thukham kitotlawhna cihte na pelh in. Tuate a kiman'na a omlo, a mawkna thu hi lel hi.
 
@@ -114,7 +114,7 @@
 
 **TDB77:** tua bang mi in amahmah thu a kikhen manin mawhna bawlin khialhna ahih mi ahih thei-in paaikhia in.
 
-**ZVS:** Tua bang mite a kisiakhin hi a, a mawhna un a khialhna uh a kilangsak ahihna thu na thei in.
+**ZVS:** Tua bang mite a kisiakhin hi a, a mawhna un a khialhna-te a kilangsak ahihna thu na thei in.
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix
 
@@ -132,12 +132,12 @@
 
 **TDB77:** Sitni Zenas leh Appolos-te in sapna a neih loh nadingun hahkatin na kha in.
 
-**ZVS:** Sitni Zenas leh Apollos-te a khualzinna uh manlang takin a paisuak theihna dingun na hihtheih bangin na huh in la, lamkalah kisapna bangmah a neihkhak lohna ding uh zong na thei in.
+**ZVS:** Sitni Zenas leh Apollos-te a khualzinna-te manlang takin a paisuak theihna dingun na hihtheih bangin na huh in la, lamkalah kisapna bangmah a neihkhak lohna ding-te zong na thei in.
 
 ### v14
 **EN:** And let ours also learn to maintain good works for necessary uses, that they be not unfruitful.
 
-**TDB77:** I mite in zong a gah nei lo mi hi loin, kisapnate a ngah nadingun, gamtatna ahoih a hih tawntung nadingun sin uh hen.
+**TDB77:** I mite in zong a gah nei lo mi hi loin, kisapnate a ngah nadingun, gamtatna ahoih a hih tawntung nadingun sin-te hen.
 
 **ZVS:** I mite ommawk loin, thu kisam a phamawhte huh thei-in, na hoih na phate a septheihna dingun na hilh in.
 
@@ -146,9 +146,9 @@
 ### v15
 **EN:** All that are with me salute thee. Greet them that love us in the faith. Grace be with you all. Amen.
 
-**TDB77:** Keima kiangah a om mi khempeuh in nang hong hopih uh hi. Upna sungah ko hong itte na hopihsak in. Note khempeuh tungah hehpihna thupha om ta hen.
+**TDB77:** Keima kiangah a om mi khempeuh in nang hong hopih-te hi. Upna sungah ko hong itte na hopihsak in. Note khempeuh tungah hehpihna thupha om ta hen.
 
-**ZVS:** Kei tawh a om mi khempeuh in nang hong hopih uh hi. Thu upna sungah ei hong itte khempeuh na na hopihsak in. Note khempeuh tungah Pasian' hehpihna thupha hong tung ta hen.
+**ZVS:** Kei tawh a om mi khempeuh in nang hong hopih-te hi. Thu upna sungah ei hong itte khempeuh na na hopihsak in. Note khempeuh tungah Pasian' hehpihna thupha hong tung ta hen.
 
 **Grammar:** optative: let there be / let it be | reciprocal: ki- prefix | plural: uh marker
 

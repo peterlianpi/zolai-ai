@@ -38,9 +38,9 @@
 ### v3
 **EN:** The foolishness of man perverteth his way: and his heart fretteth against the
 
-**TDB77:** Mi pawlkhat in amau’ haitatna hangin gimna ngah hi napi-in, Topa ngawhin mawk heh uh hi.
+**TDB77:** Mi pawlkhat in amau’ haitatna hangin gimna ngah hi napi-in, Topa ngawhin mawk heh-te hi.
 
-**ZVS:** Mi pawlkhat in amau' haitatna hangin gimna a ngah hinapi-in { Topa } ngawhin mawk heh uh hi.
+**ZVS:** Mi pawlkhat in amau' haitatna hangin gimna a ngah hinapi-in { Topa } ngawhin mawk heh-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -49,7 +49,7 @@
 
 **TDB77:** Mihaute in lawm mu thuahthuah a, mizawngte in a neihsun teng nangawn khahsuah suah hi.
 
-**ZVS:** Mihaute in lawm mu thuahthuah a, mizawngte in a neihsun teng nangawn khahsuahsuah uh hi.
+**ZVS:** Mihaute in lawm mu thuahthuah a, mizawngte in a neihsun teng nangawn khahsuahsuah-te hi.
 
 ### v5
 **EN:** A false witness shall not be unpunished, and he that speaketh lies shall not escape.
@@ -70,9 +70,9 @@
 ### v7
 **EN:** All the brethren of the poor do hate him: how much more do his friends go far from him? he pursueth them with words, yet they are wanting to him.
 
-**TDB77:** Mi khempeuh in a sanggam zawngpa uh mudah ciat a, a lawmte in a taisatna thu lamdang hi lo hi. A nungah zui-in a sap uh hangin amaute kimu zo nawn lo uh hi.
+**TDB77:** Mi khempeuh in a sanggam zawngpa-te mudah ciat a, a lawmte in a taisatna thu lamdang hi lo hi. A nungah zui-in a sap-te hangin amaute kimu zo nawn lo-te hi.
 
-**ZVS:** Mi khempeuh in a sanggam zawngpa uh mudah ciat ahih manin a lawmte in a taisatna a thu lamdang hilo hi.
+**ZVS:** Mi khempeuh in a sanggam zawngpa-te mudah ciat ahih manin a lawmte in a taisatna a thu lamdang hilo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -208,9 +208,9 @@
 ### v23
 **EN:** The fear of the
 
-**TDB77:** Topa a zahtakte in nuntakna nei-in, lungkim takin nuamsa-in om uh a, siatna bangmah tuak kha lo uh hi.
+**TDB77:** Topa a zahtakte in nuntakna nei-in, lungkim takin nuamsa-in om-te a, siatna bangmah tuak kha lo-te hi.
 
-**ZVS:** { Topa } a zahtakte a khan' sau a, lungkim takin nuamsa-in om uh a, siatna bangmah tuak khalo uh hi.
+**ZVS:** { Topa } a zahtakte a khan' sau a, lungkim takin nuamsa-in om-te a, siatna bangmah tuak khalo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -224,9 +224,9 @@
 ### v25
 **EN:** Smite a scorner, and the simple will beware: and reprove one that hath understanding, and he will understand knowledge.
 
-**TDB77:** Thu theilote in satna tawh pilna ngah zo bek a, thu ngaihsunte in taina lel tawh pilna ngah zo uh hi.
+**TDB77:** Thu theilote in satna tawh pilna ngah zo bek a, thu ngaihsunte in taina lel tawh pilna ngah zo-te hi.
 
-**ZVS:** Thu theilote in satna bek tawh pilna ngahzo a, thungaihsun theite in taina lel tawh pilna ngahzo uh hi.
+**ZVS:** Thu theilote in satna bek tawh pilna ngahzo a, thungaihsun theite in taina lel tawh pilna ngahzo-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -247,9 +247,9 @@
 ### v28
 **EN:** An ungodly witness scorneth judgment: and the mouth of the wicked devoureth iniquity.
 
-**TDB77:** Mi a susia nuam teci in thuman gen nuam lo a, migilote in gitloh tatna nuam sa uh hi.
+**TDB77:** Mi a susia nuam teci in thuman gen nuam lo a, migilote in gitloh tatna nuam sa-te hi.
 
-**ZVS:** Mi a susia nuam teci in thuman gen nuamlo a, migilote in gitloh tatna nuamsa uh hi.
+**ZVS:** Mi a susia nuam teci in thuman gen nuamlo a, migilote in gitloh tatna nuamsa-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -258,7 +258,7 @@
 
 **TDB77:** Mi a thusim lote in ciangduai thuak a, mihaite in satna thuak hi.
 
-**ZVS:** Mi a thusimlote in ciangduai thuak uh a, mihaite in satna thuak uh hi.
+**ZVS:** Mi a thusimlote in ciangduai thuak-te a, mihaite in satna thuak-te hi.
 
 ---
 

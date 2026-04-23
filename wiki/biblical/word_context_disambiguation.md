@@ -18,7 +18,7 @@ This document audits the usage of select Zolai words across the Bible corpus (Te
 - **Semantic Rule:** Represents literal water when used as a noun. Compounded when denoting processed liquids (oils, spirits, perfumes).
 
 ## 4. sathau
-- **Sense 1: Oil/Fat** - `sathau a nilh uh hi` (they anointed him with oil)
+- **Sense 1: Oil/Fat** - `sathau a nilh-te hi` (they anointed him with oil)
 - **Semantic Rule:** Denotes animal fat or vegetable oil. Used as a standalone noun.
 
 ## 5. ci

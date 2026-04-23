@@ -81,9 +81,9 @@
 ### v9
 **EN:** Out of the portion of the children of Judah was the inheritance of the children of Simeon: for the part of the children of Judah was too much for them: therefore the children of Simeon had their inheritance within the inheritance of them.
 
-**TDB77:** Simeon minam’ luah in Judah minam’ gamsung khenkhat hong suak hi; bang hang hiam cih leh Judah minam’ ngah in amau' adingin lian lua a, amau’ luah sung panin Simeon minam in gamh ngah uh hi.
+**TDB77:** Simeon minam’ luah in Judah minam’ gamsung khenkhat hong suak hi; bang hang hiam cih leh Judah minam’ ngah in amau' adingin lian lua a, amau’ luah sung panin Simeon minam in gamh ngah-te hi.
 
-**ZVS:** Simeon minamte' luah in Judah minamte' gamsung khenkhat hong huam hi. Bang hang hiam cih leh Judah minamte' ngah pen amau-a' dingin lianlua a, amau' luah sung panin Simeon minam in gamh ngahsawn uh hi.
+**ZVS:** Simeon minamte' luah in Judah minamte' gamsung khenkhat hong huam hi. Bang hang hiam cih leh Judah minamte' ngah pen amau-a' dingin lianlua a, amau' luah sung panin Simeon minam in gamh ngahsawn-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -369,9 +369,9 @@
 ### v47
 **EN:** And the coast of the children of Dan went out too little for them: therefore the children of Dan went up to fight against Leshem, and took it, and smote it with the edge of the sword, and possessed it, and dwelt therein, and called Leshem, Dan, after the name of Dan their father.
 
-**TDB77:** Dan mite in amau’ gam a taan ciangun Dan mite kuan to-in Leshem sim uh a, amaute in manin namsau tawh a thah khit uh ciangin tua gam luahin a sungah teeng uh a, amau’ pupi’ min tamin Leshem pen Dan ci-in phuak uh hi.
+**TDB77:** Dan mite in amau’ gam a taan ciangun Dan mite kuan to-in Leshem sim-te a, amaute in manin namsau tawh a thah khit-te ciangin tua gam luahin a sungah teeng-te a, amau’ pupi’ min tamin Leshem pen Dan ci-in phuak-te hi.
 
-**ZVS:** Dan mite in amau' gam a taan ciangun Dan mite kuanto-in Leshem sim uh a, amaute in a mite manin namsau tawh a thah khit uh ciangin tua gam luahin a sungah teng uh a, amau' pupi' min tamin Leshem pen Dan ci-in min a phuak uh hi.
+**ZVS:** Dan mite in amau' gam a taan ciangun Dan mite kuanto-in Leshem sim-te a, amaute in a mite manin namsau tawh a thah khit-te ciangin tua gam luahin a sungah teng-te a, amau' pupi' min tamin Leshem pen Dan ci-in min a phuak-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | plural: uh marker
 
@@ -387,27 +387,27 @@
 ### v49
 **EN:** When they had made an end of dividing the land for inheritance by their coasts, the children of Israel gave an inheritance to Joshua the son of Nun among them:
 
-**TDB77:** Israel mite in gamh-in tua leitangte a hawm khit uh ciangin amaute lakah Nun tapa Joshua tungah gamh pia uh hi.
+**TDB77:** Israel mite in gamh-in tua leitangte a hawm khit-te ciangin amaute lakah Nun tapa Joshua tungah gamh pia-te hi.
 
-**ZVS:** Israel mite in gamh-in tua leitangte a hawm khit uh ciangin amaute lakah Nun tapa Joshua tungah gamh a pia uh hi.
+**ZVS:** Israel mite in gamh-in tua leitangte a hawm khit-te ciangin amaute lakah Nun tapa Joshua tungah gamh a pia-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v50
 **EN:** According to the word of the
 
-**TDB77:** Topa’ thupiakna tawh ama nget khuapi, Efraim mualtung gam-a om Timnathserah pia uh hi; amah in tua khuapi lam kikin a sungah teeng hi.
+**TDB77:** Topa’ thupiakna tawh ama nget khuapi, Efraim mualtung gam-a om Timnathserah pia-te hi; amah in tua khuapi lam kikin a sungah teeng hi.
 
-**ZVS:** { Topa' } thupiakna tawh ama nget khuapi, Efraim mualtung gama om Timnathserah a pia uh hi. Amah in tua khuapi lamkikin a sungah a teng hi.
+**ZVS:** { Topa' } thupiakna tawh ama nget khuapi, Efraim mualtung gama om Timnathserah a pia-te hi. Amah in tua khuapi lamkikin a sungah a teng hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v51
 **EN:** These are the inheritances, which Eleazar the priest, and Joshua the son of Nun, and the heads of the fathers of the tribes of the children of Israel, divided for an inheritance by lot in Shiloh before the
 
-**TDB77:** Hihte in siampi Eleazar leh Nun tapa Joshua leh Israel minam beh lutangte in kikhopna buk kong, Topa mai Shiloh-ah aisaanna tawh a hawm khiat uh luahnate ahi hi. Tua bangin amaute in leitang hawmna zo uh hi.
+**TDB77:** Hihte in siampi Eleazar leh Nun tapa Joshua leh Israel minam beh lutangte in kikhopna buk kong, Topa mai Shiloh-ah aisaanna tawh a hawm khiat-te luahnate ahi hi. Tua bangin amaute in leitang hawmna zo-te hi.
 
-**ZVS:** Hihte pen siampi Eleazar leh Nun tapa Joshua leh Israel minam beh lutangte in kikhopna bukkong, { Topa' } mai Shiloh-ah aisanna tawh a hawmkhiat uh gamh ahi hi. Tua bangin amaute in leitang hawmna a zo uh hi.
+**ZVS:** Hihte pen siampi Eleazar leh Nun tapa Joshua leh Israel minam beh lutangte in kikhopna bukkong, { Topa' } mai Shiloh-ah aisanna tawh a hawmkhiat-te gamh ahi hi. Tua bangin amaute in leitang hawmna a zo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

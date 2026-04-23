@@ -93,34 +93,34 @@
 ### v10
 **EN:** They are inclosed in their own fat: with their mouth they speak proudly.
 
-**TDB77:** Amaute in hehpihna lungsim nei lo uh a, a kam uh tawh amaute kiphatsak pau uh hi.
+**TDB77:** Amaute in hehpihna lungsim nei lo-te a, a kam-te tawh amaute kiphatsak pau-te hi.
 
-**ZVS:** Amaute in hehpihna lungsim bangmah neilo uh a, a kam uh tawh amaute kiphatsak pau uh hi.
+**ZVS:** Amaute in hehpihna lungsim bangmah neilo-te a, a kam-te tawh amaute kiphatsak pau-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** They have now compassed us in our steps: they have set their eyes bowing down to the earth;
 
-**TDB77:** Amaute in kei hong sulzuih uh a, tu-in amaute in kei hong umcihin, keimah leilak den’ nadingin hong en uh hi.
+**TDB77:** Amaute in kei hong sulzuih-te a, tu-in amaute in kei hong umcihin, keimah leilak den’ nadingin hong en-te hi.
 
-**ZVS:** Amaute in kei hong sulzuih uh a, tu-in kei hong umcihin, keimah leilak den'na dingin a hong en uh hi.
+**ZVS:** Amaute in kei hong sulzuih-te a, tu-in kei hong umcihin, keimah leilak den'na dingin a hong en-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v12
 **EN:** Like as a lion that is greedy of his prey, and as it were a young lion lurking in secret places.
 
-**TDB77:** Amaute in a balnen nuam humpinelkai tawh kibang uh a, humpinelkai khanglai sa-pang tawh kibang uh hi.
+**TDB77:** Amaute in a balnen nuam humpinelkai tawh kibang-te a, humpinelkai khanglai sa-pang tawh kibang-te hi.
 
-**ZVS:** Amaute pen a balnen nuam humpinelkai tawh kibang uh a, humpinelkai khanglai sabuk tawh kibang uh hi.
+**ZVS:** Amaute pen a balnen nuam humpinelkai tawh kibang-te a, humpinelkai khanglai sabuk tawh kibang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** From men which are thy hand, O
 
-**TDB77:** { Topa } aw, tho in! Amaute maiphut in la, thalpaih in! { Topa } aw, a deih khempeuh uh hih leitungah a nei migilote kiang panin na khut leh na namsau tawh kei hong honkhia in. Amau-a' dingin na koihcing gimnate thuaksak in la, a tate un zong a cingvalin thuak uh hen la, a naungekte uh-a' ding nangawn nusiat lai ta uh hen.
+**TDB77:** { Topa } aw, tho in! Amaute maiphut in la, thalpaih in! { Topa } aw, a deih khempeuh-te hih leitungah a nei migilote kiang panin na khut leh na namsau tawh kei hong honkhia in. Amau-a' dingin na koihcing gimnate thuaksak in la, a tate un zong a cingvalin thuak-te hen la, a naungekte uh-a' ding nangawn nusiat lai ta-te hen.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 

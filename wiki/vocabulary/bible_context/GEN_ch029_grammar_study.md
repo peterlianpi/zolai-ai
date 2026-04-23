@@ -44,36 +44,36 @@
 ### v3
 **EN:** And thither were all the flocks gathered: and they rolled the stone from the well's mouth, and watered the sheep, and put the stone again upon the well's mouth in his place.
 
-**TDB77:** tua lai munah tuuhonte khempeuh a kikaihkhop khit ciangin, tuucingte in tuikhuk kong panin suang khukkhia uh a, tuute tui pia-in, tuikhuk kong ama' omna ngei-ah suang koih kik uh hi.
+**TDB77:** tua lai munah tuuhonte khempeuh a kikaihkhop khit ciangin, tuucingte in tuikhuk kong panin suang khukkhia-te a, tuute tui pia-in, tuikhuk kong ama' omna ngei-ah suang koih kik-te hi.
 
-**ZVS:** Tua lai munah tuuhonte khempeuh a kikaihkhop khit ciangin, tuucingte in tuikhuk gong panin a suang khukkhia uh a, tuute tui pia-in, tuikhuk gong ama omna ngei--ah a suang koih kik uh hi.
+**ZVS:** Tua lai munah tuuhonte khempeuh a kikaihkhop khit ciangin, tuucingte in tuikhuk gong panin a suang khukkhia-te a, tuute tui pia-in, tuikhuk gong ama omna ngei--ah a suang koih kik-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And Jacob said unto them, My brethren, whence be ye? And they said, Of Haran are we.
 
-**TDB77:** Jakob in amaute' kiangah, “Sanggamte aw, koi pan-a hong pai na hi uh hiam?” ci hi. Amaute in, “Haran pan hi ung,” ci hi.
+**TDB77:** Jakob in amaute' kiangah, “Sanggamte aw, koi pan-a hong pai na hi-te hiam?” ci hi. Amaute in, “Haran pan hi ung,” ci hi.
 
-**ZVS:** Jakob in amaute kiangah, “Sanggamte aw, koi pana hong pai na hi uh hiam?” a ci hi. Amaute in, “Haran pan hi ung,” ci uh hi.
+**ZVS:** Jakob in amaute kiangah, “Sanggamte aw, koi pana hong pai na hi-te hiam?” a ci hi. Amaute in, “Haran pan hi ung,” ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
 ### v5
 **EN:** And he said unto them, Know ye Laban the son of Nahor? And they said, We know him.
 
-**TDB77:** Amah in amaute' kiangah, “Nahor’ tapa Laban na thei uh hiam?” ci hi. Amaute in, “Thei mah ung,” ci hi.
+**TDB77:** Amah in amaute' kiangah, “Nahor’ tapa Laban na thei-te hiam?” ci hi. Amaute in, “Thei mah ung,” ci hi.
 
-**ZVS:** Amah in amaute kiangah, “Nahor' tapa Laban na thei uh hiam?” a ci hi. Amaute in, “Thei mah ung,” na ci uh hi.
+**ZVS:** Amah in amaute kiangah, “Nahor' tapa Laban na thei-te hiam?” a ci hi. Amaute in, “Thei mah ung,” na ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
 ### v6
 **EN:** And he said unto them, Is he well? And they said, He is well: and, behold, Rachel his daughter cometh with the sheep.
 
-**TDB77:** Amah in amaute' kiangah, “Amah a cidam hiam?” ci hi. Amaute in, “Dam hi; en in, a tanu Rachael zong tuu tawh hong pai!” ci uh hi.
+**TDB77:** Amah in amaute' kiangah, “Amah a cidam hiam?” ci hi. Amaute in, “Dam hi; en in, a tanu Rachael zong tuu tawh hong pai!” ci-te hi.
 
-**ZVS:** Amah in amaute kiangah, “Amah a cidam hiam?” a ci hi. Amaute in, “Dam hi; en in, a tanu Rachel zong a tuuhon tawh hong pai!” na ci uh hi.
+**ZVS:** Amah in amaute kiangah, “Amah a cidam hiam?” a ci hi. Amaute in, “Dam hi; en in, a tanu Rachel zong a tuuhon tawh hong pai!” na ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -89,9 +89,9 @@
 ### v8
 **EN:** And they said, We cannot, until all the flocks be gathered together, and till they roll the stone from the well's mouth; then we water the sheep.
 
-**TDB77:** Ahih hangin amaute in, “Tuute kikaikhawm a, tuikhuk gong panin suang a kikhuk mateng ka hih thei kei uh hi; tua ciangin tuute tui ka pia thei pan uh hi,” ci uh hi.
+**TDB77:** Ahih hangin amaute in, “Tuute kikaikhawm a, tuikhuk gong panin suang a kikhuk mateng ka hih thei kei-te hi; tua ciangin tuute tui ka pia thei pan-te hi,” ci-te hi.
 
-**ZVS:** Ahih hangin amaute in, “Tuute kikaikhawm a, tuikhuk gong panin a suang a kikhuk khiat mateng tui ka pia thei kei uh hi. A kikhuk khiat khit ciang bekin tuute tui ka pia thei pan uh hi,” na ci uh hi.
+**ZVS:** Ahih hangin amaute in, “Tuute kikaikhawm a, tuikhuk gong panin a suang a kikhuk khiat mateng tui ka pia thei kei-te hi. A kikhuk khiat khit ciang bekin tuute tui ka pia thei pan-te hi,” na ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -258,7 +258,7 @@
 ### v27
 **EN:** Fulfil her week, and we will give thee this also for the service which thou shalt serve with me yet seven other years.
 
-**TDB77:** Hih nu’ adingin nipi khat sung pawi beisak phot in la, a dang kum sagih ka na nong sepsak thaman-in a khat pen zong kong pia ding uh hi,” ci hi.
+**TDB77:** Hih nu’ adingin nipi khat sung pawi beisak phot in la, a dang kum sagih ka na nong sepsak thaman-in a khat pen zong kong pia ding-te hi,” ci hi.
 
 **ZVS:** Hih nu-a' dingin nipikal khat sung pawi beisak phot in la, adang kum sagih ka na nong sepsak thamanin a khat pen zong kong pia ding hi,” a ci hi.
 

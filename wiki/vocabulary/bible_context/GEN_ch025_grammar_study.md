@@ -87,7 +87,7 @@
 ### v10
 **EN:** The field which Abraham purchased of the sons of Heth: there was Abraham buried, and Sarah his wife.
 
-**TDB77:** Ama' tapate Isaak leh Ishmael in, Abraham in Hit mite' tung pan-a a lei lo, Mamre nisuahna lam-a om, Hit mi Zohar’ tapa Efron’ lo sung, Makpelah leihawm sungah amah vui uh hi. Tua lai mun-ah a zi Sarah tawh Abraham kivui hi.
+**TDB77:** Ama' tapate Isaak leh Ishmael in, Abraham in Hit mite' tung pan-a a lei lo, Mamre nisuahna lam-a om, Hit mi Zohar’ tapa Efron’ lo sung, Makpelah leihawm sungah amah vui-te hi. Tua lai mun-ah a zi Sarah tawh Abraham kivui hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -147,9 +147,9 @@
 ### v18
 **EN:** And they dwelt from Havilah unto Shur, that is before Egypt, as thou goest toward Assyria: and he died in the presence of all his brethren.
 
-**TDB77:** Amaute Izipt nisuahna, Assiri lam Havilah panin Shur dongah teng uh hi; ama sanggamte khempeuh panin amah tuam ten’ hi.
+**TDB77:** Amaute Izipt nisuahna, Assiri lam Havilah panin Shur dongah teng-te hi; ama sanggamte khempeuh panin amah tuam ten’ hi.
 
-**ZVS:** Amaute, Egypt nisuahna, Assiria lam Havilah panin Shur dongah teng uh a, amau' sanggamte khempeuh panin amau tuam ten' uh hi.
+**ZVS:** Amaute, Egypt nisuahna, Assiria lam Havilah panin Shur dongah teng-te a, amau' sanggamte khempeuh panin amau tuam ten' uh hi.
 
 **Grammar:** plural: uh marker
 
@@ -206,9 +206,9 @@
 ### v25
 **EN:** And the first came out red, all over like an hairy garment; and they called his name Esau.
 
-**TDB77:** A masa pen a san-in hong suak a, a pumpi khempeuh mul a nei puan tawh kibang hi; tua ahih ciangin ama' min Esau phuak uh hi.
+**TDB77:** A masa pen a san-in hong suak a, a pumpi khempeuh mul a nei puan tawh kibang hi; tua ahih ciangin ama' min Esau phuak-te hi.
 
-**ZVS:** A masa pen a sanin hong suak a, a pumpi khempeuh mul a nei puan tawh kibang hi. Tua ahih ciangin ama min dingin Esau phuak uh hi.
+**ZVS:** A masa pen a sanin hong suak a, a pumpi khempeuh mul a nei puan tawh kibang hi. Tua ahih ciangin ama min dingin Esau phuak-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

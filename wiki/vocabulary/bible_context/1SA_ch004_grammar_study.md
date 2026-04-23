@@ -26,63 +26,63 @@
 ### v1
 **EN:** And the word of Samuel came to all Israel. Now Israel went out against the Philistines to battle, and pitched beside Eben–ezer: and the Philistines pitched in Aphek.
 
-**TDB77:** Tua ciangin Israel khempeuh in Samuel thu zui uh hi. Tu-in Israel in Filistia mite a do dingin kuankhia uh hi; amaute in Ebenezer-ah phual sat uh a, Filistia mite in Afek-ah phual sat uh hi.
+**TDB77:** Tua ciangin Israel khempeuh in Samuel thu zui-te hi. Tu-in Israel in Filistia mite a do dingin kuankhia-te hi; amaute in Ebenezer-ah phual sat-te a, Filistia mite in Afek-ah phual sat-te hi.
 
-**ZVS:** Tu-in Filistia mite a sim dingin Israel-te kuankhia uh hi. Amaute in Ebenezer-ah phual sat uh a, Filistia mite in Afek-ah phual sat uh hi.
+**ZVS:** Tu-in Filistia mite a sim dingin Israel-te kuankhia-te hi. Amaute in Ebenezer-ah phual sat-te a, Filistia mite in Afek-ah phual sat-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v2
 **EN:** And the Philistines put themselves in array against Israel: and when they joined battle, Israel was smitten before the Philistines: and they slew of the army in the field about four thousand men.
 
-**TDB77:** Israel a do dingin Filistia mite kigual uh a, gal a kido uh ciangin Filistia mite in Israelte zoin galphual sungah mi tulli bang that uh hi.
+**TDB77:** Israel a do dingin Filistia mite kigual-te a, gal a kido-te ciangin Filistia mite in Israelte zoin galphual sungah mi tulli bang that-te hi.
 
-**ZVS:** Israel-te a do dingin Filistia mite kipan uh a, gal a kido uh ciangin Filistia mite in Israel-te zo-in galphual sungah mi tul li bang that uh hi.
+**ZVS:** Israel-te a do dingin Filistia mite kipan-te a, gal a kido-te ciangin Filistia mite in Israel-te zo-in galphual sungah mi tul li bang that-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And when the people were come into the camp, the elders of Israel said, Wherefore hath the
 
-**TDB77:** Mihonte giahphualah hong ciah ciangin Israel upate in, “Bang hangin Topa in tu ni-in Filistia mite mai-ah eite hong taisak ahi hiam? Amah in eite lakah hong pai-in i galte’ vangliatna panin eite hong hotkhiat theih nadingin Topa’ thuciamna singkuang Shiloh panin paipih ni,” a ci uh hi.
+**TDB77:** Mihonte giahphualah hong ciah ciangin Israel upate in, “Bang hangin Topa in tu ni-in Filistia mite mai-ah eite hong taisak ahi hiam? Amah in eite lakah hong pai-in i galte’ vangliatna panin eite hong hotkhiat theih nadingin Topa’ thuciamna singkuang Shiloh panin paipih ni,” a ci-te hi.
 
-**ZVS:** Mihonte giahphualah hong ciah ciangin Israel upate in, “Bang hangin { Topa } in tuni-in Filistia mite' mai-ah eite hong taisak ahi hiam? Eite' lakah amah hong pai-in a thahat i galte' khutsung panin amah in eite hong hotkhiat theihna dingin Shiloh panin { Topa' } Thuciamna Singkuang paipih ni,” a ci uh hi.
+**ZVS:** Mihonte giahphualah hong ciah ciangin Israel upate in, “Bang hangin { Topa } in tuni-in Filistia mite' mai-ah eite hong taisak ahi hiam? Eite' lakah amah hong pai-in a thahat i galte' khutsung panin amah in eite hong hotkhiat theihna dingin Shiloh panin { Topa' } Thuciamna Singkuang paipih ni,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v4
 **EN:** So the people sent to Shiloh, that they might bring from thence the ark of the covenant of the
 
-**TDB77:** Tua ahih ciangin mite in Shiloh-ah mi paisak uh a, Kherubte tungah a tu Vanglianpen Topa’ thuciamna singkuang tua lai panin hong pua uh hi; Eli’ tapa nihte, Hofni leh Finehas Pasian’ thuciamna singkuang tawh tua lai-ah om uh hi.
+**TDB77:** Tua ahih ciangin mite in Shiloh-ah mi paisak-te a, Kherubte tungah a tu Vanglianpen Topa’ thuciamna singkuang tua lai panin hong pua-te hi; Eli’ tapa nihte, Hofni leh Finehas Pasian’ thuciamna singkuang tawh tua lai-ah om-te hi.
 
-**ZVS:** Tua ahih ciangin mite in Shiloh-ah mi paisak uh a, kherub-te tungah a tu Vanglian { Topa' } Thuciamna Singkuang tua lai panin hong pua uh hi. Eli' tapa nihte, Hofni leh Finehas, Pasian' Thuciamna Singkuang tawh tua lai-ah om uh hi.
+**ZVS:** Tua ahih ciangin mite in Shiloh-ah mi paisak-te a, kherub-te tungah a tu Vanglian { Topa' } Thuciamna Singkuang tua lai panin hong pua-te hi. Eli' tapa nihte, Hofni leh Finehas, Pasian' Thuciamna Singkuang tawh tua lai-ah om-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v5
 **EN:** And when the ark of the covenant of the
 
-**TDB77:** Topa’ thuciamna singkuang giahphual sung hong tun’ ciangin Israelte khempeuh nakpi takin awng uh a, lei thawn hi.
+**TDB77:** Topa’ thuciamna singkuang giahphual sung hong tun’ ciangin Israelte khempeuh nakpi takin awng-te a, lei thawn hi.
 
-**ZVS:** { Topa' } Thuciamna Singkuang giahphual sung hong tun' ciangin Israel-te khempeuh nakpi takin awng uh a, lei a thawn hi.
+**ZVS:** { Topa' } Thuciamna Singkuang giahphual sung hong tun' ciangin Israel-te khempeuh nakpi takin awng-te a, lei a thawn hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** And when the Philistines heard the noise of the shout, they said, What meaneth the noise of this great shout in the camp of the Hebrews? And they understood that the ark of the
 
-**TDB77:** Filistia mite in awtna gamlumna a zak uh ciangin amaute in, “Hebru mite’ giahphual-ah nakpi-a hih bang otna bang a cih nopna ahi hiam?” a ci uh hi. Topa’ thuciamna singkuang giahphual a tun’ khitna a theih uh ciangin,
+**TDB77:** Filistia mite in awtna gamlumna a zak-te ciangin amaute in, “Hebru mite’ giahphual-ah nakpi-a hih bang otna bang a cih nopna ahi hiam?” a ci-te hi. Topa’ thuciamna singkuang giahphual a tun’ khitna a theih-te ciangin,
 
-**ZVS:** Filistia mite in otna gamlumna a zak uh ciangin amaute in, “Hebru mite' giahphualah nakpi-a hih bang otna bang a cihnopna ahi hiam?” a ci uh hi. { Topa' } Thuciamna Singkuang giahphual a tun' khitna a theih uh ciangin
+**ZVS:** Filistia mite in otna gamlumna a zak-te ciangin amaute in, “Hebru mite' giahphualah nakpi-a hih bang otna bang a cihnopna ahi hiam?” a ci-te hi. { Topa' } Thuciamna Singkuang giahphual a tun' khitna a theih-te ciangin
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v7
 **EN:** And the Philistines were afraid, for they said, God is come into the camp. And they said, Woe unto us! for there hath not been such a thing heretofore.
 
-**TDB77:** Filistia mite lau uh hi; bang hang hiam cih leh amaute in, “Giahphual ah a pasiante uh tung zo hi,” a ci uh hi. Amaute in, “Gimna ngah hi ta hang!. Bang hang hiam cih leh ni dangin hih bang piang ngei lo hi.
+**TDB77:** Filistia mite lau-te hi; bang hang hiam cih leh amaute in, “Giahphual ah a pasiante-te tung zo hi,” a ci-te hi. Amaute in, “Gimna ngah hi ta hang!. Bang hang hiam cih leh ni dangin hih bang piang ngei lo hi.
 
-**ZVS:** Filistia mite lau uh hi. Bang hang hiam cih leh amaute in, “Giahphualah a pasian-te uh tungzo hi,” a ci uh hi. Amaute in, “Gimna ngah hi ta hang! Bang hang hiam cih leh nidangin hih bang piang ngeilo hi.
+**ZVS:** Filistia mite lau-te hi. Bang hang hiam cih leh amaute in, “Giahphualah a pasian-te-te tungzo hi,” a ci-te hi. Amaute in, “Gimna ngah hi ta hang! Bang hang hiam cih leh nidangin hih bang piang ngeilo hi.
 
 **Grammar:** quotative: said/saying | negation: lo | plural: uh marker
 
@@ -96,18 +96,18 @@
 ### v9
 **EN:** Be strong, and quit yourselves like men, O ye Philistines, that ye be not servants unto the Hebrews, as they have been to you: quit yourselves like men, and fight.
 
-**TDB77:** Hang un la, pasal bangin gamta un, Filistia mite aw, tua hi kei leh amaute in note’ sila hong hih mah bangin Hebru mite’ sila na suak ding uh hi; pasal lungsim nei-in do un,” a ci uh hi.
+**TDB77:** Hang un la, pasal bangin gamta un, Filistia mite aw, tua hi kei leh amaute in note’ sila hong hih mah bangin Hebru mite’ sila na suak ding-te hi; pasal lungsim nei-in do un,” a ci-te hi.
 
-**ZVS:** Filistia mite aw, hang un la, pasal bangin gamta un. Tua hi kei leh amaute, note' sila hong hih mah bangin Hebru mite' sila na suak ding uh hi. Pasal lungsim nei-in do un,” a ci uh hi.
+**ZVS:** Filistia mite aw, hang un la, pasal bangin gamta un. Tua hi kei leh amaute, note' sila hong hih mah bangin Hebru mite' sila na suak ding-te hi. Pasal lungsim nei-in do un,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v10
 **EN:** And the Philistines fought, and Israel was smitten, and they fled every man into his tent: and there was a very great slaughter; for there fell of Israel thirty thousand footmen.
 
-**TDB77:** Tua ahih ciangin Filistia mite in do a, Israelte kizo in, mi khempeuh a inn ciat uhah tai uh hi; mi tampi tak kithat hi; bang hang hiam cih leh Israelte’ khe galkap mi tulsawmthum puk hi.
+**TDB77:** Tua ahih ciangin Filistia mite in do a, Israelte kizo in, mi khempeuh a inn ciat uhah tai-te hi; mi tampi tak kithat hi; bang hang hiam cih leh Israelte’ khe galkap mi tulsawmthum puk hi.
 
-**ZVS:** Tua ahih ciangin Filistia mite in do uh a, Israel-te kizo-in mi khempeuh a inn ciatah tai uh a, mi tampi tak kithat hi. Bang hang hiam cih leh Israel-te khe galkap mi tul sawmthum puk hi.
+**ZVS:** Tua ahih ciangin Filistia mite in do-te a, Israel-te kizo-in mi khempeuh a inn ciatah tai-te a, mi tampi tak kithat hi. Bang hang hiam cih leh Israel-te khe galkap mi tul sawmthum puk hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -132,9 +132,9 @@
 ### v13
 **EN:** And when he came, lo, Eli sat upon a seat by the wayside watching: for his heart trembled for the ark of God. And when the man came into the city, and told it, all the city cried out.
 
-**TDB77:** Amah a tun’in, lampi gei-ah a vilin ama tutna-ah Eli na tu hi, bang hang hiam cih leh Pasian’ thuciamna singkuang hangin a lungsim liing hi. Mipa khuapi sung hong tungin a thu teng a gen ciangin khuapi mi khempeuh kiko uh hi.
+**TDB77:** Amah a tun’in, lampi gei-ah a vilin ama tutna-ah Eli na tu hi, bang hang hiam cih leh Pasian’ thuciamna singkuang hangin a lungsim liing hi. Mipa khuapi sung hong tungin a thu teng a gen ciangin khuapi mi khempeuh kiko-te hi.
 
-**ZVS:** Amah a tun'in, lampi gei-ah a vilin ama tutna-ah Eli na tu hi; bang hang hiam cih leh Pasian' Thuciamna Singkuang hangin a lungsim ling hi. Mipa khuapi sung hong tungin a thu teng a gen ciangin khuapi mi khempeuh lau-in kiko uh hi.
+**ZVS:** Amah a tun'in, lampi gei-ah a vilin ama tutna-ah Eli na tu hi; bang hang hiam cih leh Pasian' Thuciamna Singkuang hangin a lungsim ling hi. Mipa khuapi sung hong tungin a thu teng a gen ciangin khuapi mi khempeuh lau-in kiko-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -168,9 +168,9 @@
 ### v17
 **EN:** And the messenger answered and said, Israel is fled before the Philistines, and there hath been also a great slaughter among the people, and thy two sons also, Hophni and Phinehas, are dead, and the ark of God is taken.
 
-**TDB77:** A thu hong puakpa in dawngin, “Filistia mite mai-ah Israelte tai uh a, mi tampi tak zong kithat hi; na tapa nihte, Hofni leh Finehas zong si uh a, Pasian’ thuciamna singkuang kiman khin hi,” a ci hi.
+**TDB77:** A thu hong puakpa in dawngin, “Filistia mite mai-ah Israelte tai-te a, mi tampi tak zong kithat hi; na tapa nihte, Hofni leh Finehas zong si-te a, Pasian’ thuciamna singkuang kiman khin hi,” a ci hi.
 
-**ZVS:** A thu hong puakpa in dawngin, “Filistia mite' mai-ah Israel-te tai uh a, mi tampi tak zong kithat hi; na tapa nihte, Hofni leh Finehas zong si uh a, Pasian' Thuciamna Singkuang kiman khin hi,” a ci hi.
+**ZVS:** A thu hong puakpa in dawngin, “Filistia mite' mai-ah Israel-te tai-te a, mi tampi tak zong kithat hi; na tapa nihte, Hofni leh Finehas zong si-te a, Pasian' Thuciamna Singkuang kiman khin hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -197,7 +197,7 @@
 
 **TDB77:** Amah si dektak a, ahi zongin amah a don numeite in ama kiangah, “Lau kei in, tapa khat na nei hi,” a ci hi. Ahih hangin amah in dawng lo a, zong don lo hi.
 
-**ZVS:** Amah si dektak a, ahi zongin amah a don numeite in ama kiangah, “Lau kei in, tapa khat na nei hi,” a ci uh hi. Ahih hangin amah in dawnglo a, zong donlo hi.
+**ZVS:** Amah si dektak a, ahi zongin amah a don numeite in ama kiangah, “Lau kei in, tapa khat na nei hi,” a ci-te hi. Ahih hangin amah in dawnglo a, zong donlo hi.
 
 **Grammar:** quotative: said/saying | negation: lo | reciprocal: ki- prefix
 

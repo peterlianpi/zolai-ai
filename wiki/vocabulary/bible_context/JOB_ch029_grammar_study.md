@@ -59,18 +59,18 @@
 ### v5
 **EN:** When the Almighty was yet with me, when my children were about me;
 
-**TDB77:** Tua hun lai-in Vanglian Pasian in kei hong ompih a, ka kimkotah ka tate om uh hi.
+**TDB77:** Tua hun lai-in Vanglian Pasian in kei hong ompih a, ka kimkotah ka tate om-te hi.
 
-**ZVS:** Tua hun lai-in Vanglian Pasian in kei hong ompih a, ka kimkotah ka tate a om uh hi.
+**ZVS:** Tua hun lai-in Vanglian Pasian in kei hong ompih a, ka kimkotah ka tate a om-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** When I washed my steps with butter, and the rock poured me out rivers of oil;
 
-**TDB77:** Ka bawngte leh ka keelte in nawi deih zahzah hong pia uh a, suang tam penna leilak nangawn-ah ka oliv kungte hoih mahmah hi.
+**TDB77:** Ka bawngte leh ka keelte in nawi deih zahzah hong pia-te a, suang tam penna leilak nangawn-ah ka oliv kungte hoih mahmah hi.
 
-**ZVS:** Ka bawngte leh ka keelte in nawi deih zahzah hong pia uh a, suang tam penna nangawnah ka oliv kungte hoih mahmah hi.
+**ZVS:** Ka bawngte leh ka keelte in nawi deih zahzah hong pia-te a, suang tam penna nangawnah ka oliv kungte hoih mahmah hi.
 
 **Grammar:** adjective: hoih (good) | intensifier: very/greatly | plural: uh marker
 
@@ -79,43 +79,43 @@
 
 **TDB77:** Khua sung upate a kikhop ciangin, amaute lakah kikhawm dingin ka pai ciangin,
 
-**ZVS:** Khuasung upate a kikhop uh ciangin a kikhawm dingin kei ka pai ciangin
+**ZVS:** Khuasung upate a kikhop-te ciangin a kikhawm dingin kei ka pai ciangin
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v8
 **EN:** The young men saw me, and hid themselves: and the aged arose, and stood up.
 
-**TDB77:** kei hong muh phetin khangnote in tutna hong awn uh a, kei hong zahtakna limin papite na ding uh hi.
+**TDB77:** kei hong muh phetin khangnote in tutna hong awn-te a, kei hong zahtakna limin papite na ding-te hi.
 
-**ZVS:** kei hong muh phetun khangnote in tutna hong awn uh a, kei hong zahtakna limun papite na ding uh hi.
+**ZVS:** kei hong muh phetun khangnote in tutna hong awn-te a, kei hong zahtakna limun papite na ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v9
 **EN:** The princes refrained talking, and laid their hand on their mouth.
 
-**TDB77:** Khua sung uliante a kiho na khawl pah uh a, a khut uh tawh a kam uh na hum uh hi.
+**TDB77:** Khua sung uliante a kiho na khawl pah-te a, a khut-te tawh a kam-te na hum-te hi.
 
-**ZVS:** Khuasung uliante a kiho na khawl pah uh a, a khut uh tawh a kam uh na hum uh hi.
+**ZVS:** Khuasung uliante a kiho na khawl pah-te a, a khut-te tawh a kam-te na hum-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** The nobles held their peace, and their tongue cleaved to the roof of their mouth.
 
-**TDB77:** Mi thupi pente nangawn na gamdai pah uh a, kuamah pau loin na om uh hi.
+**TDB77:** Mi thupi pente nangawn na gamdai pah-te a, kuamah pau loin na om-te hi.
 
-**ZVS:** Mi a thupi pente nangawn na gamdai pah uh a, kuamah pauloin na om uh hi.
+**ZVS:** Mi a thupi pente nangawn na gamdai pah-te a, kuamah pauloin na om-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** When the ear heard me, then it blessed me; and when the eye saw me, it gave witness to me:
 
-**TDB77:** Ka thugen a za mi peuhmah in a hoih lamin na za uh a, hong mu mi peuhmah in dik hong sa uh hi.
+**TDB77:** Ka thugen a za mi peuhmah in a hoih lamin na za-te a, hong mu mi peuhmah in dik hong sa-te hi.
 
-**ZVS:** “Ka thugen a za mi peuhmah in a hoihlamin na za uh a, a hong mu mi peuhmah in dik hong sa uh hi.
+**ZVS:** “Ka thugen a za mi peuhmah in a hoihlamin na za-te a, a hong mu mi peuhmah in dik hong sa-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -129,9 +129,9 @@
 ### v13
 **EN:** The blessing of him that was ready to perish came upon me: and I caused the widow's heart to sing for joy.
 
-**TDB77:** A lungkham a cimawhte in kei hong phat uh a, meigong numeite lungnuamin ka omsak hi.
+**TDB77:** A lungkham a cimawhte in kei hong phat-te a, meigong numeite lungnuamin ka omsak hi.
 
-**ZVS:** A lungkham a cimawhte in kei hong phat uh a, meigong numeite a lungnuamin ka omsak hi.
+**ZVS:** A lungkham a cimawhte in kei hong phat-te a, meigong numeite a lungnuamin ka omsak hi.
 
 **Grammar:** plural: uh marker
 
@@ -154,9 +154,9 @@
 ### v16
 **EN:** I was a father to the poor: and the cause which I knew not I searched out.
 
-**TDB77:** Mizawngte’ adingin a pa uh ka hi a, lungkhamna a thuak ka theih loh mite ka pan’pih hi.
+**TDB77:** Mizawngte’ adingin a pa-te ka hi a, lungkhamna a thuak ka theih loh mite ka pan’pih hi.
 
-**ZVS:** Mizawngte-a' dingin a pa uh ka hi a, lungkhamna a thuak, ka theihloh mite nangawn ka pan'pih tawntung hi.
+**ZVS:** Mizawngte-a' dingin a pa-te ka hi a, lungkhamna a thuak, ka theihloh mite nangawn ka pan'pih tawntung hi.
 
 **Grammar:** purpose: in order to
 
@@ -188,52 +188,52 @@
 ### v20
 **EN:** My glory was fresh in me, and my bow was renewed in my hand.
 
-**TDB77:** Mi khempeuh in kei hong phat tawntung uh a, ka tha a hat tawntung hi.
+**TDB77:** Mi khempeuh in kei hong phat tawntung-te a, ka tha a hat tawntung hi.
 
 **Grammar:** plural: uh marker
 
 ### v21
 **EN:** Unto me men gave ear, and waited, and kept silence at my counsel.
 
-**TDB77:** “Mite in ka thugen ngai-in hong ngak uh a, ka thugente pau loin lim takin hong ngai uh hi.
+**TDB77:** “Mite in ka thugen ngai-in hong ngak-te a, ka thugente pau loin lim takin hong ngai-te hi.
 
-**ZVS:** Mite in ka thugen ngai-in hong ngak dimdem uh a, kuamah pau hetloin limtakin hong ngai uh hi.
+**ZVS:** Mite in ka thugen ngai-in hong ngak dimdem-te a, kuamah pau hetloin limtakin hong ngai-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v22
 **EN:** After my words they spake not again; and my speech dropped upon them.
 
-**TDB77:** Thu ka gen khit ciangin a genthuah ding uh bangmah thei nawn lo uh a, ka thugennate hoih takin na sang pah uh hi.
+**TDB77:** Thu ka gen khit ciangin a genthuah ding-te bangmah thei nawn lo-te a, ka thugennate hoih takin na sang pah-te hi.
 
-**ZVS:** Thu ka gen khit ciangin a genthuah ding uh bangmah thei nawnlo uh a, ka thugente khempeuh hoihtakin na sang pah uh hi.
+**ZVS:** Thu ka gen khit ciangin a genthuah ding-te bangmah thei nawnlo-te a, ka thugente khempeuh hoihtakin na sang pah-te hi.
 
 **Grammar:** punctual: immediately/suddenly | plural: uh marker
 
 ### v23
 **EN:** And they waited for me as for the rain; and they opened their mouth wide as for the latter rain.
 
-**TDB77:** Lokhote in khuapi-guah deihin a ngak bangin, ka thugente hoih takin na sang uh hi.
+**TDB77:** Lokhote in khuapi-guah deihin a ngak bangin, ka thugente hoih takin na sang-te hi.
 
-**ZVS:** Lo khote in khuapi guah deih mahmahin a ngak bangin, ka thugente khempeuh hoihtakin na sang uh hi.
+**ZVS:** Lo khote in khuapi guah deih mahmahin a ngak bangin, ka thugente khempeuh hoihtakin na sang-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v24
 **EN:** If I laughed on them, they believed it not; and the light of my countenance they cast not down.
 
-**TDB77:** Amaute, itna tawh ka nuihsat ciangin lungnuam uh a, ka mai a tai ciangin a mai gumna uh a bei hi.
+**TDB77:** Amaute, itna tawh ka nuihsat ciangin lungnuam-te a, ka mai a tai ciangin a mai gumna-te a bei hi.
 
-**ZVS:** Itna tawh ka nuihsat ciangin amaute lungnuam mahmah uh a, ka mai a taii ciangin a maigumna uh a bei hi.
+**ZVS:** Itna tawh ka nuihsat ciangin amaute lungnuam mahmah-te a, ka mai a taii ciangin a maigumna-te a bei hi.
 
 **Grammar:** plural: uh marker
 
 ### v25
 **EN:** I chose out their way, and sat chief, and dwelt as a king in the army, as one that comforteth the mourners.
 
-**TDB77:** Amaute ukin a vai ding uh ka hawmsak, a kumpipa in a galkapte a makaih bangin ka makai a, a lungkham uh ciangin amaute ka hehnem hi.
+**TDB77:** Amaute ukin a vai ding-te ka hawmsak, a kumpipa in a galkapte a makaih bangin ka makai a, a lungkham-te ciangin amaute ka hehnem hi.
 
-**ZVS:** Amaute ukin a vai ding uh ka hawmsak a, kumpipa in a galkapte a makaih bangin ka makai a, a lungkham uh ciangin amaute ka hehnem hi.
+**ZVS:** Amaute ukin a vai ding-te ka hawmsak a, kumpipa in a galkapte a makaih bangin ka makai a, a lungkham-te ciangin amaute ka hehnem hi.
 
 **Grammar:** plural: uh marker
 

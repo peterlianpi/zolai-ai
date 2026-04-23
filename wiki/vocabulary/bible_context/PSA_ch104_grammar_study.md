@@ -77,7 +77,7 @@
 ### v7
 **EN:** At thy rebuke they fled; at the voice of thy thunder they hasted away.
 
-**TDB77:** Na thuhilhna hangin tua tuite taikhia uh a, na thupiakna awging a zak uh ciangin kikhawhkhia uh hi.
+**TDB77:** Na thuhilhna hangin tua tuite taikhia-te a, na thupiakna awging a zak-te ciangin kikhawhkhia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -86,7 +86,7 @@
 
 **TDB77:** Nangmah in amau adinga na sehnasa munah mualte kahto-in, guamte kiasuk hi.
 
-**ZVS:** Mualtung leh guamsungah tua tuite luang uh a, amau-a' dingin na sehsa munah a tung uh hi.
+**ZVS:** Mualtung leh guamsungah tua tuite luang-te a, amau-a' dingin na sehsa munah a tung-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -102,27 +102,27 @@
 ### v10
 **EN:** He sendeth the springs into the valleys, which run among the hills.
 
-**TDB77:** Nangmah in kuamte sung panin ciktui na phulkhiasak hi; mualte kikal-ah amaute luang uh a,
+**TDB77:** Nangmah in kuamte sung panin ciktui na phulkhiasak hi; mualte kikal-ah amaute luang-te a,
 
-**ZVS:** Kuamte sung panin ciktui na phulkhiasak a, mualte kikalah a luang uh hi.
+**ZVS:** Kuamte sung panin ciktui na phulkhiasak a, mualte kikalah a luang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** They give drink to every beast of the field: the wild asses quench their thirst.
 
-**TDB77:** gamlak ganhing khempeuhte’ dawn ding tui na pia hi; gam sakolte in amau dangtakna tua-ah phasak uh hi.
+**TDB77:** gamlak ganhing khempeuhte’ dawn ding tui na pia hi; gam sakolte in amau dangtakna tua-ah phasak-te hi.
 
-**ZVS:** Gamlak ganhingte' dawn ding tui na pia a, gamlak sakolte in a dangtakna uh tua tui-ah a phasak uh hi.
+**ZVS:** Gamlak ganhingte' dawn ding tui na pia a, gamlak sakolte in a dangtakna-te tua tui-ah a phasak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** By them shall the fowls of the heaven have their habitation, which sing among the branches.
 
-**TDB77:** Tua tui kiangah huih lak vasate om uh a, singhiangte lakah amaute ham zaizai uh hi.
+**TDB77:** Tua tui kiangah huih lak vasate om-te a, singhiangte lakah amaute ham zaizai-te hi.
 
-**ZVS:** Tua tui kiangah huihlak vasate om uh a, singhiangte lakah amaute ham zaizai uh hi.
+**ZVS:** Tua tui kiangah huihlak vasate om-te a, singhiangte lakah amaute ham zaizai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -163,9 +163,9 @@
 ### v17
 **EN:** Where the birds make their nests: as for the stork, the fir trees are her house.
 
-**TDB77:** Tua singte tungah vasate in bu bawl uh a, taaksing kungte lakah vasa golpite in bu tom uh hi.
+**TDB77:** Tua singte tungah vasate in bu bawl-te a, taaksing kungte lakah vasa golpite in bu tom-te hi.
 
-**ZVS:** Tua singte tungah vasate in bu bawl uh a, taksing kungte lakah gun vapite in bu a tom uh hi.
+**ZVS:** Tua singte tungah vasate in bu bawl-te a, taksing kungte lakah gun vapite in bu a tom-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -195,27 +195,27 @@
 ### v21
 **EN:** The young lions roar after their prey, and seek their meat from God.
 
-**TDB77:** Humpinelkai khanglaite in amau sa ngah nadingin hawk uh a, amau an ding Pasian’ tung pan ngah uh hi.
+**TDB77:** Humpinelkai khanglaite in amau sa ngah nadingin hawk-te a, amau an ding Pasian’ tung pan ngah-te hi.
 
-**ZVS:** Humpinelkai khanglaite in amau' nek ding sa a ngahna dingun nakpi takin hawk uh a, amau' an ding Pasian' tung pan a ngah uh hi.
+**ZVS:** Humpinelkai khanglaite in amau' nek ding sa a ngahna dingun nakpi takin hawk-te a, amau' an ding Pasian' tung pan a ngah-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v22
 **EN:** The sun ariseth, they gather themselves together, and lay them down in their dens.
 
-**TDB77:** Ni a suah ciangin amaute kihemkhia uh a, a kua sung uh-ah lum uh hi.
+**TDB77:** Ni a suah ciangin amaute kihemkhia-te a, a kua sung uh-ah lum-te hi.
 
-**ZVS:** Ni a suah ciangin amaute kihemkhia uh a, a kua sung uhah a lum hithiat uh hi.
+**ZVS:** Ni a suah ciangin amaute kihemkhia-te a, a kua sung uhah a lum hithiat-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** Man goeth forth unto his work and to his labour until the evening.
 
-**TDB77:** Mi pen, nasem dingin kuankhia uh a, nitak mateng na sem uh hi.
+**TDB77:** Mi pen, nasem dingin kuankhia-te a, nitak mateng na sem-te hi.
 
-**ZVS:** Mite pen nasem dingin kuankhia uh a, nitak mateng na sem uh hi.
+**ZVS:** Mite pen nasem dingin kuankhia-te a, nitak mateng na sem-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -247,25 +247,25 @@
 ### v27
 **EN:** These wait all upon thee; that thou mayest give them their meat in due season.
 
-**TDB77:** A hun ciangin an piak ding ngak-in hihte khempeuh in nang hong en uh hi.
+**TDB77:** A hun ciangin an piak ding ngak-in hihte khempeuh in nang hong en-te hi.
 
-**ZVS:** A hun ciangin an na piak ding ngakin hihte khempeuh in nangmah hong en uh hi.
+**ZVS:** A hun ciangin an na piak ding ngakin hihte khempeuh in nangmah hong en-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v28
 **EN:** That thou givest them they gather: thou openest thine hand, they are filled with good.
 
-**TDB77:** Na piak ciangin amaute in ne uh a, an na pia a, amaute lungkim uh hi.
+**TDB77:** Na piak ciangin amaute in ne-te a, an na pia a, amaute lungkim-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v29
 **EN:** Thou hidest thy face, they are troubled: thou takest away their breath, they die, and return to their dust.
 
-**TDB77:** Na maitang na seel ciangin amaute khasia uh hi; amau’ husan’na na lakkhiat ciangin, amaute si-in amau’ pian’na leivui-ah ciahkik uh hi.
+**TDB77:** Na maitang na seel ciangin amaute khasia-te hi; amau’ husan’na na lakkhiat ciangin, amaute si-in amau’ pian’na leivui-ah ciahkik-te hi.
 
-**ZVS:** Na maitang na seel ciangin amaute khasia uh hi. Amau' husan'na na lakkhiat ciangin amaute si-in amau' pian'na leivui-ah a ciahkik uh hi.
+**ZVS:** Na maitang na seel ciangin amaute khasia-te hi. Amau' husan'na na lakkhiat ciangin amaute si-in amau' pian'na leivui-ah a ciahkik-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

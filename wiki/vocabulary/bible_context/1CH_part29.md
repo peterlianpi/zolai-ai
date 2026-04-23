@@ -32,11 +32,11 @@
 
 ### guh = bone
 **Context:** Referring to close kinship ('our bone and our flesh').
-**Example:** kote in nangma guh leh nangma sa ka hi uh hi.
+**Example:** kote in nangma guh leh nangma sa ka hi-te hi.
 
 ### sa = flesh
 **Context:** Referring to close kinship ('our bone and our flesh').
-**Example:** nangma guh leh nangma sa ka hi uh hi.
+**Example:** nangma guh leh nangma sa ka hi-te hi.
 
 ### kuankhiatpih = led out (in battle/leading)
 **Context:** David was the one who led Israel out during Saul's reign.
@@ -54,9 +54,9 @@
 **Context:** David made a covenant with them.
 **Example:** David in Topa mai Hebron ah amaute tawh thuciamna khat bawl a
 
-### sathau nilh uh = anointed with oil
+### sathau nilh-te = anointed with oil
 **Context:** They anointed David as king with oil.
-**Example:** Israel kumpi-in David sathau nilh uh hi.
+**Example:** Israel kumpi-in David sathau nilh-te hi.
 
 ### munmuanhuai = stronghold/fortress/defensible place
 **Context:** Zion was a strong, defensible place.
@@ -114,7 +114,7 @@
 - **kumpi gam hei hi** = bestowed the kingdom
   - Usage: Used when God transfers kingship or authority to someone else.
 
-- **nangma guh leh nangma sa ka hi uh hi** = We are your bone and your flesh
+- **nangma guh leh nangma sa ka hi-te hi** = We are your bone and your flesh
   - Usage: A strong idiom expressing deep kinship and unity (similar to KJV 'bone of my bone, and flesh of my flesh').
 
 - **a cingpa na hi ding a, ka mi Israelte tungah ulian na hi ding hi** = You shall be the shepherd/ruler of my people Israel, and you shall be a prince/leader over my people Israel
@@ -141,7 +141,7 @@
 
 - **X in Y kiangah, 'Z' a ci hi**
   - Direct speech structure: X said to Y, 'Z'.
-  - Example: Jebus mite in David kiangah, “Hih lai-ah nang nong pai kei ding hi,” a ci uh hi.
+  - Example: Jebus mite in David kiangah, “Hih lai-ah nang nong pai kei ding hi,” a ci-te hi.
 
 - **X in Y tawh thuciamna khat bawl**
   - Structure for making a covenant: X made a covenant with Y.

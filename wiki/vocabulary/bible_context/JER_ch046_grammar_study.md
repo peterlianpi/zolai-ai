@@ -46,36 +46,36 @@
 ### v3
 **EN:** Order ye the buckler and shield, and draw near to battle.
 
-**TDB77:** “Na lumte uh la un la, galsim dingin kuankhia un!
+**TDB77:** “Na lumte-te la un la, galsim dingin kuankhia un!
 
-**ZVS:** “Na lumte uh la un la galsim dingin kuankhia un!
+**ZVS:** “Na lumte-te la un la galsim dingin kuankhia un!
 
 **Grammar:** purpose: in order to
 
 ### v4
 **EN:** Harness the horses; and get up, ye horsemen, and stand forth with your helmets; furbish the spears, and put on the brigandines.
 
-**TDB77:** Sakol vante vawh un la, tuang ta un, sakol galkapte aw. Na sik lukhute uh khu un la, na teipite uh tat hiam-in, na sik puante uh silh un.
+**TDB77:** Sakol vante vawh un la, tuang ta un, sakol galkapte aw. Na sik lukhute-te khu un la, na teipite-te tat hiam-in, na sik puante-te silh un.
 
-**ZVS:** Sakol vante vawh un la, tuang ta un, sakol galkapte aw. Na sik lukhute uh khu un la, na teipite uh tat hiamin, na sik puante uh silh un.
+**ZVS:** Sakol vante vawh un la, tuang ta un, sakol galkapte aw. Na sik lukhute-te khu un la, na teipite-te tat hiamin, na sik puante-te silh un.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v5
 **EN:** Wherefore have I seen them dismayed and turned away back? and their mighty ones are beaten down, and are fled apace, and look not back: for fear was round about, saith the
 
-**TDB77:** A bangci mawk a hia? Amaute lungmangin lah a nungkik ta uh-a! A galkapte uh kileh hawl a, lau-in taikek mang mawk uh hi. Kinunglehhei kik lo uh hi, mun khempeuh ah launa vive! Topa in a ci hi.
+**TDB77:** A bangci mawk a hia? Amaute lungmangin lah a nungkik ta uh-a! A galkapte-te kileh hawl a, lau-in taikek mang mawk-te hi. Kinunglehhei kik lo-te hi, mun khempeuh ah launa vive! Topa in a ci hi.
 
-**ZVS:** “A bangci mawk ahi hiam? Amaute lungmangin a nungkik ta uh hi. A galkapte uh kilehhawl a, lau-in taikekmang mawk uh hi. Kinungleh hei kiklo uh hi; mun khempeuhah launa vive!
+**ZVS:** “A bangci mawk ahi hiam? Amaute lungmangin a nungkik ta-te hi. A galkapte-te kilehhawl a, lau-in taikekmang mawk-te hi. Kinungleh hei kiklo-te hi; mun khempeuhah launa vive!
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Let not the swift flee away, nor the mighty man escape; they shall stumble, and fall toward the north by the river Euphrates.
 
-**TDB77:** A manlang pente zong paikhia thei tuan lo uh a, galkapte zong suakta lo uh hi. Leilu lam Eufrates gun geiah, hoi-in a tuk uh hi.
+**TDB77:** A manlang pente zong paikhia thei tuan lo-te a, galkapte zong suakta lo-te hi. Leilu lam Eufrates gun geiah, hoi-in a tuk-te hi.
 
-**ZVS:** A manlang pente zong paikhia thei tuanlo uh a, galkapte zong suaktalo uh hi. Leilu lam Eufratis gun gei-ah hoi-in a tuk uh hi.
+**ZVS:** A manlang pente zong paikhia thei tuanlo-te a, galkapte zong suaktalo-te hi. Leilu lam Eufratis gun gei-ah hoi-in a tuk-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -98,34 +98,34 @@
 ### v9
 **EN:** Come up, ye horses; and rage, ye chariots; and let the mighty men come forth; the Ethiopians and the Libyans, that handle the shield; and the Ludim, that handle and bend the bow.
 
-**TDB77:** Sakolte aw, mai nawt un, sakol leengte aw, hat un! Lum tawi Ethiopia mite leh Put mite aw, thal tawisiam Lud mite aw, na galkapte uh kuan sak un.
+**TDB77:** Sakolte aw, mai nawt un, sakol leengte aw, hat un! Lum tawi Ethiopia mite leh Put mite aw, thal tawisiam Lud mite aw, na galkapte-te kuan sak un.
 
-**ZVS:** Sakolte aw, mai nawt un; sakol leengte aw, hat un! Lum a tawi Ethiopia mite leh Put mite aw, thal tawi a siam Lud mite aw, na galkapte uh kuansak un.
+**ZVS:** Sakolte aw, mai nawt un; sakol leengte aw, hat un! Lum a tawi Ethiopia mite leh Put mite aw, thal tawi a siam Lud mite aw, na galkapte-te kuansak un.
 
 ### v10
 **EN:** For this is the day of the Lord
 
-**TDB77:** Bang hang hiam cih leh tu ni-in a vanglian Topa Pasian’ ni hi a, phu a lak kik ni, a galte a thuhkik ni ahi hi. Namsau in amaute that ding a, a kham mateng a si uh a dawn ding hi. Bang hang hiam cih leh a vanglian Topa Pasian in, Eufrates gun gei leilu lamah amaute biakna piakna-in a nei hi.
+**TDB77:** Bang hang hiam cih leh tu ni-in a vanglian Topa Pasian’ ni hi a, phu a lak kik ni, a galte a thuhkik ni ahi hi. Namsau in amaute that ding a, a kham mateng a si-te a dawn ding hi. Bang hang hiam cih leh a vanglian Topa Pasian in, Eufrates gun gei leilu lamah amaute biakna piakna-in a nei hi.
 
-**ZVS:** “Bang hang hiam cih leh tuni pen Vanglian Topa { Pasian }' ni hi a, phu a lakkik ni, a galte a thuk ni ahi hi. Namsau in amaute that ding a, a kham mateng a si uh a dawn ding hi. Bang hang hiam cih leh Vanglian Topa { Pasian } in Eufratis gun gei leilu lamah amaute biakna-in a nei hi.
+**ZVS:** “Bang hang hiam cih leh tuni pen Vanglian Topa { Pasian }' ni hi a, phu a lakkik ni, a galte a thuk ni ahi hi. Namsau in amaute that ding a, a kham mateng a si-te a dawn ding hi. Bang hang hiam cih leh Vanglian Topa { Pasian } in Eufratis gun gei leilu lamah amaute biakna-in a nei hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Go up into Gilead, and take balm, O virgin, the daughter of Egypt: in vain shalt thou use many medicines; for thou shalt not be cured.
 
-**TDB77:** Gilead gamah pai un la, damna zatui va la un, Izipt-te’ nungakte aw! Zatui tampi na zat khit uh hangin, damna na ngah kei uh hi.
+**TDB77:** Gilead gamah pai un la, damna zatui va la un, Izipt-te’ nungakte aw! Zatui tampi na zat khit-te hangin, damna na ngah kei-te hi.
 
-**ZVS:** Egypt nungakte aw, Gilead gamah pai un la, damna zatui va la un. Zatui tampi na zat khit uh hangin damna na ngah tuan kei uh hi.
+**ZVS:** Egypt nungakte aw, Gilead gamah pai un la, damna zatui va la un. Zatui tampi na zat khit-te hangin damna na ngah tuan kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v12
 **EN:** The nations have heard of thy shame, and thy cry hath filled the land: for the mighty man hath stumbled against the mighty, and they are fallen both together.
 
-**TDB77:** Gamdangte in na zum huaina uh hong za khin uh a, leitung bup-ah na kahna aw uh kiza hi. Na galkapte uh khat leh khat kiphu kha-in, a nihun a pukkhawm uh hi,” a ci hi,
+**TDB77:** Gamdangte in na zum huaina-te hong za khin-te a, leitung bup-ah na kahna aw-te kiza hi. Na galkapte-te khat leh khat kiphu kha-in, a nihun a pukkhawm-te hi,” a ci hi,
 
-**ZVS:** Gamdangte in na zumhuaina uh hong za khin uh a, leitung bupah na kahna aw uh kiza hi. Na galkapte uh khatlekhat kiphukha-in, a nihun a pukkhawm uh hi,” a hong ci hi.
+**ZVS:** Gamdangte in na zumhuaina-te hong za khin-te a, leitung bupah na kahna aw-te kiza hi. Na galkapte-te khatlekhat kiphukha-in, a nihun a pukkhawm-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -150,18 +150,18 @@
 ### v15
 **EN:** Why are thy valiant men swept away? they stood not, because the
 
-**TDB77:** Bang hangin na bawngtal pasian uh Apis guallel-in taimang ahi hiam? Topa in amah a vattuk hang ahi hi.
+**TDB77:** Bang hangin na bawngtal pasian-te Apis guallel-in taimang ahi hiam? Topa in amah a vattuk hang ahi hi.
 
-**ZVS:** Bang hangin na bawngtal pasian uh Apis guallelin taimang ahi hiam? { Topa } in amah a vattuk hang ahi hi.
+**ZVS:** Bang hangin na bawngtal pasian-te Apis guallelin taimang ahi hiam? { Topa } in amah a vattuk hang ahi hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v16
 **EN:** He made many to fall, yea, one fell upon another: and they said, Arise, and let us go again to our own people, and to the land of our nativity, from the oppressing sword.
 
-**TDB77:** Na mi uh tampi tak hoi-in a tuk uh a, amaute in khat leh khat kiangah, ‘Kithawi dih un, i mipihte kiangah, i suahna gamah va paikik ni; tua hi leh hih namsau tawh kithahna pan i suakta ding hi,’ a kici uh hi.
+**TDB77:** Na mi-te tampi tak hoi-in a tuk-te a, amaute in khat leh khat kiangah, ‘Kithawi dih un, i mipihte kiangah, i suahna gamah va paikik ni; tua hi leh hih namsau tawh kithahna pan i suakta ding hi,’ a kici-te hi.
 
-**ZVS:** Na mite uh tampi tak hoi-in tuk uh a, amaute in khatlekhat kiangah, ‘Kithawi dih un; i mipihte kiang, i suahna gamah va ciahkik ni; tua hi leh hih namsau tawh sihna pan i suakta ding hi,’ a kici uh hi.
+**ZVS:** Na mite-te tampi tak hoi-in tuk-te a, amaute in khatlekhat kiangah, ‘Kithawi dih un; i mipihte kiang, i suahna gamah va ciahkik ni; tua hi leh hih namsau tawh sihna pan i suakta ding hi,’ a kici-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -186,7 +186,7 @@
 
 **TDB77:** Sal-a hong kipaipih ciang ading na puanlomte uh, zial khol un, no Izipt gama teengte aw! Bang hang hiam cih leh Memfis khua in gamlak suak ding a, kisia-in kuamah teeng lo ding hi.
 
-**ZVS:** Egypt gamah a tengte aw, note salin a hong kipaipih cianga ding na puanlomte uh zialkhol un. Bang hang hiam cih leh Memfis khua gamlak suak ding a, kisia gawpin, kuamah tenglo ding hi.
+**ZVS:** Egypt gamah a tengte aw, note salin a hong kipaipih cianga ding na puanlomte-te zialkhol un. Bang hang hiam cih leh Memfis khua gamlak suak ding a, kisia gawpin, kuamah tenglo ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -202,45 +202,45 @@
 ### v21
 **EN:** Also her hired men are in the midst of her like fatted bullocks; for they also are turned back, and are fled away together: they did not stand, because the day of their calamity was come upon them, and the time of their visitation.
 
-**TDB77:** A galkap cialte nangawn amau lakah bawngno dawng hat lote a bang lel uh hi. Pangin do tentan lo uh a, nungkikin a tai kek uh hi. Bang hang hiam cih leh amau’ kisiat ding ni, amau’ daan thuak ding ni hong tung zo hi.
+**TDB77:** A galkap cialte nangawn amau lakah bawngno dawng hat lote a bang lel-te hi. Pangin do tentan lo-te a, nungkikin a tai kek-te hi. Bang hang hiam cih leh amau’ kisiat ding ni, amau’ daan thuak ding ni hong tung zo hi.
 
-**ZVS:** A galkap cialte nangawn amaute' lakah bawngno hatlote a bang lel uh hi. Pangloin, do tentanlo uh a, nungkikin a taikek uh hi. Bang hang hiam cih leh amau' kisiat ding ni, amau' gimthuak ding ni, hong tungzo hi.
+**ZVS:** A galkap cialte nangawn amaute' lakah bawngno hatlote a bang lel-te hi. Pangloin, do tentanlo-te a, nungkikin a taikek-te hi. Bang hang hiam cih leh amau' kisiat ding ni, amau' gimthuak ding ni, hong tungzo hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** The voice thereof shall go like a serpent; for they shall march with an army, and come against her with axes, as hewers of wood.
 
-**TDB77:** “A galte in do dingin hong kuan uh ahih manin Izipt mite in gul tai bangin zut khat a kisuah uh hi. A galte in sing phuk ding bangin, hei tawh hong kuan uh hi.
+**TDB77:** “A galte in do dingin hong kuan-te ahih manin Izipt mite in gul tai bangin zut khat a kisuah-te hi. A galte in sing phuk ding bangin, hei tawh hong kuan-te hi.
 
-**ZVS:** A galte uh hong kuan uh ahih manin Egypt mite gul tai bangin zutkhat a kisuah uh hi. A galte uh sing phuk bangin hei tawh hong kuan uh hi.
+**ZVS:** A galte-te hong kuan-te ahih manin Egypt mite gul tai bangin zutkhat a kisuah-te hi. A galte-te sing phuk bangin hei tawh hong kuan-te hi.
 
 **Grammar:** purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** They shall cut down her forest, saith the
 
-**TDB77:** Gam pha lua-in a kiphut zawh loh hangin a galte un a singte uh a phukmai sak teitei ding uh hi, Topa in a ci hi. Bang hang hiam cih leh amaute kauphe sangin tamzaw uh a, sim zawh loh zahin tam uh hi.
+**TDB77:** Gam pha lua-in a kiphut zawh loh hangin a galte un a singte-te a phukmai sak teitei ding-te hi, Topa in a ci hi. Bang hang hiam cih leh amaute kauphe sangin tamzaw-te a, sim zawh loh zahin tam-te hi.
 
-**ZVS:** Gam pha lua-in a kiphut zawhloh hangin a galte un a singte uh a phukmaisak teitei ding uh hi, { Topa } in a ci hi. Bang hang hiam cih leh amaute kauphe sangin tamzaw uh a, simzawhloh zahin a tam uh hi.
+**ZVS:** Gam pha lua-in a kiphut zawhloh hangin a galte un a singte-te a phukmaisak teitei ding-te hi, { Topa } in a ci hi. Bang hang hiam cih leh amaute kauphe sangin tamzaw-te a, simzawhloh zahin a tam-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** The daughter of Egypt shall be confounded; she shall be delivered into the hand of the people of the north.
 
-**TDB77:** Izipt-te’ nungakte a maizum ding uh hi, Leilu lam pana hong pai mite’ khut sungah, amaute a kipia ding hi,” a ci hi.
+**TDB77:** Izipt-te’ nungakte a maizum ding-te hi, Leilu lam pana hong pai mite’ khut sungah, amaute a kipia ding hi,” a ci hi.
 
-**ZVS:** Egypt nungakte a maizum ding uh hi. Leilu lam panin a hong pai mite' khutsungah amaute a kipia ding uh hi,” a hong ci hi.
+**ZVS:** Egypt nungakte a maizum ding-te hi. Leilu lam panin a hong pai mite' khutsungah amaute a kipia ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** The
 
-**TDB77:** A vanglian Topa, Israel mite’ Pasian in: “En un, Keimah in Thebes khua-a Amon pasian leh Faro kumpipa-a kipan Izipt gam, a pasiante uh leh a kumpite uh, Faro kumpipa leh amah a muang mi khempeuh tungah daan ka tat ding hi.
+**TDB77:** A vanglian Topa, Israel mite’ Pasian in: “En un, Keimah in Thebes khua-a Amon pasian leh Faro kumpipa-a kipan Izipt gam, a pasiante-te leh a kumpite uh, Faro kumpipa leh amah a muang mi khempeuh tungah daan ka tat ding hi.
 
-**ZVS:** Vanglian { Topa, } Israel mite' Pasian in, “En un: Keimah in Thebes khua-a Amon pasian leh Faro kumpipa-a kipan a pasian-te uh leh a kumpite uh, Egypt kumpipa leh amah a muang mi khempeuh tungah gimna ka tungsak ding hi.
+**ZVS:** Vanglian { Topa, } Israel mite' Pasian in, “En un: Keimah in Thebes khua-a Amon pasian leh Faro kumpipa-a kipan a pasian-te-te leh a kumpite uh, Egypt kumpipa leh amah a muang mi khempeuh tungah gimna ka tungsak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -256,9 +256,9 @@
 ### v27
 **EN:** But fear not thou, O my servant Jacob, and be not dismayed, O Israel: for, behold, I will save thee from afar off, and thy seed from the land of their captivity; and Jacob shall return, and be in rest and at ease, and none shall make him afraid.
 
-**TDB77:** “Ahih hangin lau kei un, ka nasempa Jakob’ suante aw; patau kei un, Israel mite aw, Bang hang hiam cih leh gamlapi panin no kong honkhia ding a, na suan na khakte uh saltan’na gam panin kong honkhia ding hi. Jakob’ suante hong ciahkik ding uh a, nuam takin a teeng ding uh hi. Kuamah in amaute a lausak nawn kei ding hi.
+**TDB77:** “Ahih hangin lau kei un, ka nasempa Jakob’ suante aw; patau kei un, Israel mite aw, Bang hang hiam cih leh gamlapi panin no kong honkhia ding a, na suan na khakte-te saltan’na gam panin kong honkhia ding hi. Jakob’ suante hong ciahkik ding-te a, nuam takin a teeng ding-te hi. Kuamah in amaute a lausak nawn kei ding hi.
 
-**ZVS:** Ahih hangin lau kei un, ka nasempa Jakob' suante aw. Patau kei un, Israel mite aw. Bang hang hiam cih leh gamlapi panin note kong honkhia ding a, na suanlekhakte uh saltan'na gam panin kong honkhia ding hi. Jakob' suante hong ciahkik ding uh a, nuamtakin a om ding uh hi. Kuamah in amaute a lausak nawn kei ding hi.
+**ZVS:** Ahih hangin lau kei un, ka nasempa Jakob' suante aw. Patau kei un, Israel mite aw. Bang hang hiam cih leh gamlapi panin note kong honkhia ding a, na suanlekhakte-te saltan'na gam panin kong honkhia ding hi. Jakob' suante hong ciahkik ding-te a, nuamtakin a om ding-te hi. Kuamah in amaute a lausak nawn kei ding hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 

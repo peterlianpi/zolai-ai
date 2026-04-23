@@ -27,9 +27,9 @@
 ### v1
 **EN:** And they continued three years without war between Syria and Israel.
 
-**TDB77:** Kum thum sung Siria leh Isarel galkido loin om uh hi.
+**TDB77:** Kum thum sung Siria leh Isarel galkido loin om-te hi.
 
-**ZVS:** Kum thum sung Syria leh Israel gal kido loin om uh hi.
+**ZVS:** Kum thum sung Syria leh Israel gal kido loin om-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -45,18 +45,18 @@
 ### v3
 **EN:** And the king of Israel said unto his servants, Know ye that Ramoth in Gilead is ours, and we be still, and take it not out of the hand of the king of Syria?
 
-**TDB77:** Tua ciangin Israel kumpipa in a nasemte kiangah, “Ramoth-gilead eima’ aa hi a, eite pau loin om-in Siria kumpipa khut sung panin i lakkhiat lohna thu na thei uh hiam?” a ci hi.
+**TDB77:** Tua ciangin Israel kumpipa in a nasemte kiangah, “Ramoth-gilead eima’ aa hi a, eite pau loin om-in Siria kumpipa khut sung panin i lakkhiat lohna thu na thei-te hiam?” a ci hi.
 
-**ZVS:** Tua ciangin Israel kumpipa in a nasemte kiangah, “Ramothgilead eima-a' hi a, eite pauloin omin Syria kumpipa' khutsung panin i lakkhiat lohna thu na thei uh hiam?” a ci hi.
+**ZVS:** Tua ciangin Israel kumpipa in a nasemte kiangah, “Ramothgilead eima-a' hi a, eite pauloin omin Syria kumpipa' khutsung panin i lakkhiat lohna thu na thei-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v4
 **EN:** And he said unto Jehoshaphat, Wilt thou go with me to battle to Ramoth–gilead? And Jehoshaphat said to the king of Israel, I am as thou art, my people as thy people, my horses as thy horses.
 
-**TDB77:** Tua ciangin amah in Jehoshafat kiangah, “Ramoth-gilead ah galdo dingin kei nong zui ding hiam?” a ci hi. Jehoshafat in Israel kumpipa kiangah, “Kei-a kipan ka mite leh ka sakolte in nangma’ aa ka hi uh hi,” a ci hi.
+**TDB77:** Tua ciangin amah in Jehoshafat kiangah, “Ramoth-gilead ah galdo dingin kei nong zui ding hiam?” a ci hi. Jehoshafat in Israel kumpipa kiangah, “Kei-a kipan ka mite leh ka sakolte in nangma’ aa ka hi-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin amah in Jehoshafat kiangah, “Ramothgilead-ah galsim dingin kei nong zui ding hiam?” a ci hi. Jehoshafat in Israel kumpipa kiangah, “Kei-a kipan ka mite leh ka sakolte nangma-a' ka hi uh hi,” a ci hi.
+**ZVS:** Tua ciangin amah in Jehoshafat kiangah, “Ramothgilead-ah galsim dingin kei nong zui ding hiam?” a ci hi. Jehoshafat in Israel kumpipa kiangah, “Kei-a kipan ka mite leh ka sakolte nangma-a' ka hi-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -72,9 +72,9 @@
 ### v6
 **EN:** Then the king of Israel gathered the prophets together, about four hundred men, and said unto them, Shall I go against Ramoth–gilead to battle, or shall I forbear? And they said, Go up; for the Lord shall deliver it into the hand of the king.
 
-**TDB77:** Tua ciangin Israel kumpipa kamsangte mihing zali bang khawmin amaute tungah, “Ramoth-gilead a sim dingin ka kuan ding hiam, ahih kei leh ka thuak ding hiam?” a ci hi. Amaute in, “Kuanto in; bang hang hiam cih leh Topa i kumpipa’ khut sungah hong pia ding hi,” a ci uh hi.
+**TDB77:** Tua ciangin Israel kumpipa kamsangte mihing zali bang khawmin amaute tungah, “Ramoth-gilead a sim dingin ka kuan ding hiam, ahih kei leh ka thuak ding hiam?” a ci hi. Amaute in, “Kuanto in; bang hang hiam cih leh Topa i kumpipa’ khut sungah hong pia ding hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin Israel kumpipa in kamsangte mihing za li bang khawmin amaute tungah, “Ramothgilead a sim dingin ka kuan ding hiam, ahih kei leh ka thuak ding hiam,” a ci hi. Amaute in, “Kuanto in; bang hang hiam cih leh { Topa } in kumpipa' khutsungah hong pia ding hi,” a ci uh hi.
+**ZVS:** Tua ciangin Israel kumpipa in kamsangte mihing za li bang khawmin amaute tungah, “Ramothgilead a sim dingin ka kuan ding hiam, ahih kei leh ka thuak ding hiam,” a ci hi. Amaute in, “Kuanto in; bang hang hiam cih leh { Topa } in kumpipa' khutsungah hong pia ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
@@ -108,9 +108,9 @@
 ### v10
 **EN:** And the king of Israel and Jehoshaphat the king of Judah sat each on his throne, having put on their robes, in a void place in the entrance of the gate of Samaria; and all the prophets prophesied before them.
 
-**TDB77:** Tu-in Samaria kulhpi lutna ancilna ah Israel kumpipa leh Judah kumpipa Jehoshafat a kumpi tokhom tung uhah tu-in kumpi puan tawh kizemin om uh hi; kamsang khempeuh in amau’ mai-ah thu gen uh hi.
+**TDB77:** Tu-in Samaria kulhpi lutna ancilna ah Israel kumpipa leh Judah kumpipa Jehoshafat a kumpi tokhom tung uhah tu-in kumpi puan tawh kizemin om-te hi; kamsang khempeuh in amau’ mai-ah thu gen-te hi.
 
-**ZVS:** Samaria kulhpi lutna ancilna-ah Israel kumpipa leh Judah kumpipa Jehoshafat a kumpi tokhom tung uhah tu-in kumpi puan tawh kizemin om uh a, kamsang khempeuh in amau' mai-ah thu gen uh hi.
+**ZVS:** Samaria kulhpi lutna ancilna-ah Israel kumpipa leh Judah kumpipa Jehoshafat a kumpi tokhom tung uhah tu-in kumpi puan tawh kizemin om-te a, kamsang khempeuh in amau' mai-ah thu gen-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -126,9 +126,9 @@
 ### v12
 **EN:** And all the prophets prophesied so, saying, Go up to Ramoth–gilead, and prosper: for the
 
-**TDB77:** Kamsang khempeuh in zong tua mah bangin genin, “Ramoth-gilead ah kuanto in la, gualzo in; Topa in kumpipa’ khut sungah hong pia ding hi,” a ci uh hi.
+**TDB77:** Kamsang khempeuh in zong tua mah bangin genin, “Ramoth-gilead ah kuanto in la, gualzo in; Topa in kumpipa’ khut sungah hong pia ding hi,” a ci-te hi.
 
-**ZVS:** Kamsang khempeuh in zong tua bangmahin genin, “Ramothgilead-ah kuanto in la gualzo in; { Topa } in kumpipa' khutsungah hong pia ding hi,” a ci uh hi.
+**ZVS:** Kamsang khempeuh in zong tua bangmahin genin, “Ramothgilead-ah kuanto in la gualzo in; { Topa } in kumpipa' khutsungah hong pia ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -279,9 +279,9 @@
 ### v29
 **EN:** So the king of Israel and Jehoshaphat the king of Judah went up to Ramoth–gilead.
 
-**TDB77:** Tua ahih ciangin Israel kumpipa leh Judah kumpipa Jehoshafat Ramoth-gilead ah kuanto uh hi.
+**TDB77:** Tua ahih ciangin Israel kumpipa leh Judah kumpipa Jehoshafat Ramoth-gilead ah kuanto-te hi.
 
-**ZVS:** Tua ahih ciangin Israel kumpipa leh Judah kumpipa Jehoshafat, Ramothgilead-ah kuanto uh hi.
+**ZVS:** Tua ahih ciangin Israel kumpipa leh Judah kumpipa Jehoshafat, Ramothgilead-ah kuanto-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -297,27 +297,27 @@
 ### v31
 **EN:** But the king of Syria commanded his thirty and two captains that had rule over his chariots, saying, Fight neither with small nor great, save only with the king of Israel.
 
-**TDB77:** Tu-in Siria kumpipa Aram in ama leeng a uk mi sawmthum-le-nihte thu pia-in, “A neu ahi a, a lian tawh ahi zongin kido loin, Israel kumpipa bek tawh na kido ding uh hi,” a ci hi.
+**TDB77:** Tu-in Siria kumpipa Aram in ama leeng a uk mi sawmthum-le-nihte thu pia-in, “A neu ahi a, a lian tawh ahi zongin kido loin, Israel kumpipa bek tawh na kido ding-te hi,” a ci hi.
 
-**ZVS:** Tu-in Syria kumpipa in ama leeng a uk mi sawmthumlenihte thu pia-in, “A neu ahi a, a lian tawh ahi zongin kido loin, Israel kumpipa bek tawh na kido ding uh hi,” a ci hi.
+**ZVS:** Tu-in Syria kumpipa in ama leeng a uk mi sawmthumlenihte thu pia-in, “A neu ahi a, a lian tawh ahi zongin kido loin, Israel kumpipa bek tawh na kido ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And it came to pass, when the captains of the chariots saw Jehoshaphat, that they said, Surely it is the king of Israel. And they turned aside to fight against him: and Jehoshaphat cried out.
 
-**TDB77:** Leeng a ukte in Jehoshafat a muh uh ciangin amaute in, “Israel kumpipa hi taktak hi,” a ci uh hi. Tua ahih ciangin amah do dingin amaute kihei uh hi; tua ciangin Jehoshafat awng khia hi.
+**TDB77:** Leeng a ukte in Jehoshafat a muh-te ciangin amaute in, “Israel kumpipa hi taktak hi,” a ci-te hi. Tua ahih ciangin amah do dingin amaute kihei-te hi; tua ciangin Jehoshafat awng khia hi.
 
-**ZVS:** Leeng a ukte in Jehoshafat a muh uh ciangin amaute in, “Israel kumpipa hi taktak hi,” a ci uh hi. Tua ahih ciangin amah a do dingin amaute kihei uh hi; tua ciangin Jehoshafat awngkhia hi.
+**ZVS:** Leeng a ukte in Jehoshafat a muh-te ciangin amaute in, “Israel kumpipa hi taktak hi,” a ci-te hi. Tua ahih ciangin amah a do dingin amaute kihei-te hi; tua ciangin Jehoshafat awngkhia hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v33
 **EN:** And it came to pass, when the captains of the chariots perceived that it was not the king of Israel, that they turned back from pursuing him.
 
-**TDB77:** Israel kumpipa ahih lohna leeng a ukte in a muh uh ciangin amah a delhna panin amaute nungkik uh hi.
+**TDB77:** Israel kumpipa ahih lohna leeng a ukte in a muh-te ciangin amah a delhna panin amaute nungkik-te hi.
 
-**ZVS:** Israel kumpipa ahih lohna leeng a ukte in a theih uh ciangin amah a delhna panun amaute nungkik uh hi.
+**ZVS:** Israel kumpipa ahih lohna leeng a ukte in a theih-te ciangin amah a delhna panun amaute nungkik-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -349,18 +349,18 @@
 ### v37
 **EN:** So the king died, and was brought to Samaria; and they buried the king in Samaria.
 
-**TDB77:** Tua ahih ciangin kumpipa si a, Samaria ah kipaipih hi; amaute in Samaria ah kumpipa vui uh hi.
+**TDB77:** Tua ahih ciangin kumpipa si a, Samaria ah kipaipih hi; amaute in Samaria ah kumpipa vui-te hi.
 
-**ZVS:** Tua ahih ciangin kumpipa si a, Samaria-ah kipaipih a, amaute in Samaria-ah kumpipa vui uh hi.
+**ZVS:** Tua ahih ciangin kumpipa si a, Samaria-ah kipaipih a, amaute in Samaria-ah kumpipa vui-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v38
 **EN:** And one washed the chariot in the pool of Samaria; and the dogs licked up his blood; and they washed his armour; according unto the word of the
 
-**TDB77:** Tua ciangin amaute in Samaria bual gei-ah leeng sil uh a, Topa in a gensa thu tawh kizui-in uite in a sisan liak tumin numei paktatte tua sungah kisil uh hi.
+**TDB77:** Tua ciangin amaute in Samaria bual gei-ah leeng sil-te a, Topa in a gensa thu tawh kizui-in uite in a sisan liak tumin numei paktatte tua sungah kisil-te hi.
 
-**ZVS:** Tua ciangin amaute in Samaria bual gei-ah a leeng sil uh a, { Topa } in a gensa thu tawh kizui-in uite in a sisan liak tumin numei paktatte tua sungah kisil uh hi.
+**ZVS:** Tua ciangin amaute in Samaria bual gei-ah a leeng sil-te a, { Topa } in a gensa thu tawh kizui-in uite in a sisan liak tumin numei paktatte tua sungah kisil-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -403,9 +403,9 @@
 ### v43
 **EN:** And he walked in all the ways of Asa his father; he turned not aside from it, doing that which was right in the eyes of the
 
-**TDB77:** Amah in a pa Asa’ khekhap tawn hi; amah tua lampi panin pial loin, Topa muhna ah a manin gamta hi; ahi zongin mual tunga biaknate kilakhia lo a, mite in tuate tungah biakna pia lai-in paknamtui hal uh hi.
+**TDB77:** Amah in a pa Asa’ khekhap tawn hi; amah tua lampi panin pial loin, Topa muhna ah a manin gamta hi; ahi zongin mual tunga biaknate kilakhia lo a, mite in tuate tungah biakna pia lai-in paknamtui hal-te hi.
 
-**ZVS:** Amah in a pa Asa' khekhap tawn a, tua lampi panin pialloin, { Topa' } muhna-ah a manin gamta hi. Ahi zongin mualtunga biaknate kilakhia lo a, mite in tuate tungah biakna pia lai-in paknamtui hal uh hi.
+**ZVS:** Amah in a pa Asa' khekhap tawn a, tua lampi panin pialloin, { Topa' } muhna-ah a manin gamta hi. Ahi zongin mualtunga biaknate kilakhia lo a, mite in tuate tungah biakna pia lai-in paknamtui hal-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -448,9 +448,9 @@
 ### v48
 **EN:** Jehoshaphat made ships of Tarshish to go to Ophir for gold: but they went not; for the ships were broken at Ezion–geber.
 
-**TDB77:** Jehoshafat in kham zongin Ofir-ah a pai dingin Tarshish teembawte bawl hi; ahih hangin Ezion-geber ah teembawte sia ahih manin amaute pai lo uh hi.
+**TDB77:** Jehoshafat in kham zongin Ofir-ah a pai dingin Tarshish teembawte bawl hi; ahih hangin Ezion-geber ah teembawte sia ahih manin amaute pai lo-te hi.
 
-**ZVS:** Jehoshafat in kham zongin Ofir-ah a pai dingin Tarshish teembawte bawl hi. Ahih hangin Eziongeber-ah teembawte sia ahih manin amaute pailo uh hi.
+**ZVS:** Jehoshafat in kham zongin Ofir-ah a pai dingin Tarshish teembawte bawl hi. Ahih hangin Eziongeber-ah teembawte sia ahih manin amaute pailo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | causal: because | plural: uh marker
 

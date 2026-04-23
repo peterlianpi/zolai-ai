@@ -45,9 +45,9 @@
 ### v4
 **EN:** But if any widow have children or nephews, let them learn first to shew piety at home, and to requite their parents: for that is good and acceptable before God.
 
-**TDB77:** Ahih hangin ta leh tu a nei meigongnu ahih leh, a tute a tate in a masa-in amau innkuanpihte zahtakin, a pa, a pite’ hehpihna thukkik nading sin uh hen. Bang hang hiam cih leh, tua bang hihna in Pasian mai-ah a deihhuai ahi hi.
+**TDB77:** Ahih hangin ta leh tu a nei meigongnu ahih leh, a tute a tate in a masa-in amau innkuanpihte zahtakin, a pa, a pite’ hehpihna thukkik nading sin-te hen. Bang hang hiam cih leh, tua bang hihna in Pasian mai-ah a deihhuai ahi hi.
 
-**ZVS:** Meigong numei khatpeuh in tate ahi a, tute ahi zongin a neih leh innkuan sungah biakna tawh kisai-in tavuan a neihna uh hilh in la, a nu a pa, a pu a pite a huhna dingun gen in. Hih bang gamtatna pen Pasian' muhna-ah a hoih thu ahi hi.
+**ZVS:** Meigong numei khatpeuh in tate ahi a, tute ahi zongin a neih leh innkuan sungah biakna tawh kisai-in tavuan a neihna-te hilh in la, a nu a pa, a pu a pite a huhna dingun gen in. Hih bang gamtatna pen Pasian' muhna-ah a hoih thu ahi hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -56,14 +56,14 @@
 
 **TDB77:** Meigongnu taktak hi a, khat guak a om lai numei in Pasian muang a, sun tawh zan tawh thungenin a om tawntung hi.
 
-**ZVS:** A kem a khoi ding a omlo meigong taktak ahi numeite in Pasian bek mah muan' leh suan'in nei-in, a sun a zanin Pasian' huhding deihin thu ngen tawntung uh hi.
+**ZVS:** A kem a khoi ding a omlo meigong taktak ahi numeite in Pasian bek mah muan' leh suan'in nei-in, a sun a zanin Pasian' huhding deihin thu ngen tawntung-te hi.
 
 ### v6
 **EN:** But she that liveth in pleasure is dead while she liveth.
 
 **TDB77:** Ahih hangin a mawktatna-ah, nopsa-a a om meigongnu ahih leh, a nuntak hangin si-in a om hi.
 
-**ZVS:** Ahi zongin a pumpi uh deihna zui-in a gamta meigong numeite pen a pumpi uh a nuntak hangin kha thu-ah a sikhin ahi uh hi.
+**ZVS:** Ahi zongin a pumpi-te deihna zui-in a gamta meigong numeite pen a pumpi-te a nuntak hangin kha thu-ah a sikhin ahi-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -95,32 +95,32 @@
 
 **TDB77:** na pha sem a, maipha a ngah, a tate a khoi thei, zin a do thei, mi siangthote’ khe a sil thei, gimna thuakte a hehnem thei, nasepna a pha khempeuh a sem thei numei ahih leh, tua numei a min na khum ta in.
 
-**ZVS:** Tua banah a gamtat hoihna a kitheite, a tate hoihtakin a khan'suahsate, a inn-ah zin leh leengla do a siam mite, kiniamkhiatin Pasian' mite' khe a silsakte, a lungkham mite a huhte, leh thu khempeuhah a hoih gamtat mite hi lai ding uh hi.
+**ZVS:** Tua banah a gamtat hoihna a kitheite, a tate hoihtakin a khan'suahsate, a inn-ah zin leh leengla do a siam mite, kiniamkhiatin Pasian' mite' khe a silsakte, a lungkham mite a huhte, leh thu khempeuhah a hoih gamtat mite hi lai ding-te hi.
 
 ### v11
 **EN:** But the younger widows refuse: for when they have begun to wax wanton against Christ, they will marry;
 
-**TDB77:** A khangno lai meigongnute ahih uh leh, a min uh khum kei in. Bang hang hiam cih leh, tua numeite in nopsakna lungsim nei-in, Khazih tawh kilem loin pasal nei nuam uh a,
+**TDB77:** A khangno lai meigongnute ahih-te leh, a min-te khum kei in. Bang hang hiam cih leh, tua numeite in nopsakna lungsim nei-in, Khazih tawh kilem loin pasal nei nuam-te a,
 
-**ZVS:** A khangno lai meigong numeite, sazian sungah hel kei in. A pumpi uh deihna zui-in pasal a neihkik nop uh ciangin Khrih taisan uh ahih manin,
+**ZVS:** A khangno lai meigong numeite, sazian sungah hel kei in. A pumpi-te deihna zui-in pasal a neihkik nop-te ciangin Khrih taisan-te ahih manin,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Having damnation, because they have cast off their first faith.
 
-**TDB77:** a masa thuciamna siasak uh ahih ciangin thukhenna a thuak uh hi.
+**TDB77:** a masa thuciamna siasak-te ahih ciangin thukhenna a thuak-te hi.
 
-**ZVS:** a thuciam masak uh palsat uh ahih manin a mawh a suak uh hi.
+**ZVS:** a thuciam masak-te palsat-te ahih manin a mawh a suak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** And withal they learn to be idle, wandering about from house to house; and not only idle, but tattlers also and busybodies, speaking things which they ought not.
 
-**TDB77:** Tua tham loin, inn khat pan inn khatah vak kawikawi-in, thadah tham loin, kam tamin, a gen tuak lo nate genin, amau tawh kikum lo thu-ah a kihel thei uh hi.
+**TDB77:** Tua tham loin, inn khat pan inn khatah vak kawikawi-in, thadah tham loin, kam tamin, a gen tuak lo nate genin, amau tawh kikum lo thu-ah a kihel thei-te hi.
 
-**ZVS:** Tua bek zong hiloin, bangmah semloin inn khat pan inn khatah vak kawikawi-in a hun uh mawk beisak uh a, a vakmawk uh tawh maisak loin mi gensia kawikawi-in midangte va nawngkaisak uh a, a genlohpi ding teng uh genin va nei uh hi.
+**ZVS:** Tua bek zong hiloin, bangmah semloin inn khat pan inn khatah vak kawikawi-in a hun-te mawk beisak-te a, a vakmawk-te tawh maisak loin mi gensia kawikawi-in midangte va nawngkaisak-te a, a genlohpi ding teng-te genin va nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -136,9 +136,9 @@
 ### v15
 **EN:** For some are already turned aside after Satan.
 
-**TDB77:** Bang hang hiam cih leh, a kimkhat in tu lai nangawnin Satan nung a zui uh hi.
+**TDB77:** Bang hang hiam cih leh, a kimkhat in tu lai nangawnin Satan nung a zui-te hi.
 
-**ZVS:** Bang hang hiam cih leh meigong numei pawlkhat, Satan' nung a zui dingin kipan khinta uh hi.
+**ZVS:** Bang hang hiam cih leh meigong numei pawlkhat, Satan' nung a zui dingin kipan khinta-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -147,7 +147,7 @@
 
 **TDB77:** Thu-um numei khatpeuh in a inn sungah meigongte a neih leh, pawlpi tungah van suan loin amahmah in vaak hen. Tua bang ahih leh, meigongnu taktak ahi-te pawlpi in a vaak thei ding hi.
 
-**ZVS:** Thu um innkuansungah meigong numei a nei a om leh pawlpite in a kisam meigong taktakte a huhtheihna dingin pawlpi tungah tavuan hong guan' kei hen la, amau' meigong numeite na huh ta uh hen.
+**ZVS:** Thu um innkuansungah meigong numei a nei a om leh pawlpite in a kisam meigong taktakte a huhtheihna dingin pawlpi tungah tavuan hong guan' kei hen la, amau' meigong numeite na huh ta-te hen.
 
 **Grammar:** future: will
 
@@ -213,9 +213,9 @@
 ### v24
 **EN:** Some men's sins are open beforehand, going before to judgment; and some men they follow after.
 
-**TDB77:** Mi kimkhatte a gitlohna uh kilangin thu kikhen masa thei hi. Mi kimkhat a gitlohna un, a nung uh hong zui hi.
+**TDB77:** Mi kimkhatte a gitlohna-te kilangin thu kikhen masa thei hi. Mi kimkhat a gitlohna un, a nung-te hong zui hi.
 
-**ZVS:** Mi pawlkhatte' khialhnate kimu pahpahin mawhsakna thuakpah uh a, pawlkhatte' khialhna pen damdamin hong kinung theih hi.
+**ZVS:** Mi pawlkhatte' khialhnate kimu pahpahin mawhsakna thuakpah-te a, pawlkhatte' khialhna pen damdamin hong kinung theih hi.
 
 **Grammar:** reciprocal: ki- prefix
 

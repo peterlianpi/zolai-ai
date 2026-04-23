@@ -26,18 +26,18 @@
 ### v1
 **EN:** After two days was the feast of the passover, and of unleavened bread: and the chief priests and the scribes sought how they might take him by craft, and put him to death.
 
-**TDB77:** Ni nih khit ciangin, Paisan pawi leh silngo om lo khomun pawikhamna tung ding hi. Tua lai takin siampi liante leh laitheite in zuauthu tawh Zeisu man-a a thah theih nading lampi a zong uh hi.
+**TDB77:** Ni nih khit ciangin, Paisan pawi leh silngo om lo khomun pawikhamna tung ding hi. Tua lai takin siampi liante leh laitheite in zuauthu tawh Zeisu man-a a thah theih nading lampi a zong-te hi.
 
-**ZVS:** Paisan Pawi leh Silngo Sawhloh Anlum Pawi a tun' ma ni nih ni-in siampi liante leh Thukham hilh siate in Jesuh simmatin a thahtheihna ding uh lampi a zong uh hi.
+**ZVS:** Paisan Pawi leh Silngo Sawhloh Anlum Pawi a tun' ma ni nih ni-in siampi liante leh Thukham hilh siate in Jesuh simmatin a thahtheihna ding-te lampi a zong-te hi.
 
 **Grammar:** future: will | negation: lo | plural: uh marker
 
 ### v2
 **EN:** But they said, Not on the feast day, lest there be an uproar of the people.
 
-**TDB77:** Ahih hangin mihonpi a gamlum khak ding a lunghihmawh manun, “Pawikham laitak hih kei ni,” a ci uh hi.
+**TDB77:** Ahih hangin mihonpi a gamlum khak ding a lunghihmawh manun, “Pawikham laitak hih kei ni,” a ci-te hi.
 
-**ZVS:** Ahi zongin, “Mihonpite hong buai khading ahih manin hih pawi hun sungin hih kei ni,” a ci uh hi.
+**ZVS:** Ahi zongin, “Mihonpite hong buai khading ahih manin hih pawi hun sungin hih kei ni,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -53,7 +53,7 @@
 ### v4
 **EN:** And there were some that had indignation within themselves, and said, Why was this waste of the ointment made?
 
-**TDB77:** Mi kimkhatte heh uh a, “Paknamtui bang dingin a mawkna-in kizangsak hiam?
+**TDB77:** Mi kimkhatte heh-te a, “Paknamtui bang dingin a mawkna-in kizangsak hiam?
 
 **ZVS:** Tua lai-a om mi pawlkhat a heh suak a, “Bang hangin hih paknamtui mawk beisak ahi hiam?
 
@@ -62,18 +62,18 @@
 ### v5
 **EN:** For it might have been sold for more than three hundred pence, and have been given to the poor. And they murmured against her.
 
-**TDB77:** Tua paknamtui dangka za thumin kizuakin mizawngte a kipia thei hi,” a cih khit uh ciangin, tua numei a mawhsak uh hi.
+**TDB77:** Tua paknamtui dangka za thumin kizuakin mizawngte a kipia thei hi,” a cih khit-te ciangin, tua numei a mawhsak-te hi.
 
-**ZVS:** Kizuak leh ngun peek za thum val kikhawng ding a, a sum mizawngte tungah kipia thei ding hi,” ci-in nakpi takin tua numei a mawhsak uh hi.
+**ZVS:** Kizuak leh ngun peek za thum val kikhawng ding a, a sum mizawngte tungah kipia thei ding hi,” ci-in nakpi takin tua numei a mawhsak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And Jesus said,
 
-**TDB77:** Zeisu in, “Tua numei om sak ta un. Bang hang bawlsia na hi uh hiam? Amah in kei tungah thupha hong bawl zo hi.
+**TDB77:** Zeisu in, “Tua numei om sak ta un. Bang hang bawlsia na hi-te hiam? Amah in kei tungah thupha hong bawl zo hi.
 
-**ZVS:** Ahi zongin Jesuh in, “Bangmah cihse kei un! Bang hangin nawngkaisak na hi uh hiam? Amah pen a kilawm a hoihin kei tungah hong gamta hi.
+**ZVS:** Ahi zongin Jesuh in, “Bangmah cihse kei un! Bang hangin nawngkaisak na hi-te hiam? Amah pen a kilawm a hoihin kei tungah hong gamta hi.
 
 ### v10
 **EN:** And Judas Iscariot, one of the twelve, went unto the chief priests, to betray him unto them.
@@ -87,43 +87,43 @@
 ### v11
 **EN:** And when they heard it, they were glad, and promised to give him money. And he sought how he might conveniently betray him.
 
-**TDB77:** Amaute’n a zak uh ciangin nuam uh a, “Dangka-in kong guai ding uh hi,” ci-in a kiciam uh hi. Amah in Topa amaute’ khut sungah piak theih nading a zong hi.
+**TDB77:** Amaute’n a zak-te ciangin nuam-te a, “Dangka-in kong guai ding-te hi,” ci-in a kiciam-te hi. Amah in Topa amaute’ khut sungah piak theih nading a zong hi.
 
-**ZVS:** Siampi liante in a thu a zak uh ciangin lungdam mahmah uh a, sum tawh kong guai ding uh hi, ci-in thu a ciam uh hi. Tua ahih manin Judas in Jesuh a lehhek theihna ding a hunhoih a zong hi.
+**ZVS:** Siampi liante in a thu a zak-te ciangin lungdam mahmah-te a, sum tawh kong guai ding-te hi, ci-in thu a ciam-te hi. Tua ahih manin Judas in Jesuh a lehhek theihna ding a hunhoih a zong hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And the first day of unleavened bread, when they killed the passover, his disciples said unto him, Where wilt thou that we go and prepare that thou mayest eat the passover?
 
-**TDB77:** Paisan tuuno a kigawh ni, silngo om lo khomun nek kipat ni-in a nungzuite in, “Paisan pawi na nek theih nadingin koi laitak mun hong bawlsak le-ung na deih hiam?” ci-in Zeisu kiangah a dong uh hi.
+**TDB77:** Paisan tuuno a kigawh ni, silngo om lo khomun nek kipat ni-in a nungzuite in, “Paisan pawi na nek theih nadingin koi laitak mun hong bawlsak le-ung na deih hiam?” ci-in Zeisu kiangah a dong-te hi.
 
-**ZVS:** Paisan Pawi an dingin tuuno a kigawh ni, Silngo Sawhloh Anlum Pawi ni masa ni-in a nungzuite in Jesuh kiangah, “Koi lai-ah pai-in Paisan Pawi an ding hong bawlsak ding ka hi uh hiam?” ci-in a dong uh hi.
+**ZVS:** Paisan Pawi an dingin tuuno a kigawh ni, Silngo Sawhloh Anlum Pawi ni masa ni-in a nungzuite in Jesuh kiangah, “Koi lai-ah pai-in Paisan Pawi an ding hong bawlsak ding ka hi-te hiam?” ci-in a dong-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And he sendeth forth two of his disciples, and saith unto them,
 
-**TDB77:** Zeisu in, “Khua sungah pai un la, tuibeel khat a pua mi khat tawh na kituak ding uh hi.
+**TDB77:** Zeisu in, “Khua sungah pai un la, tuibeel khat a pua mi khat tawh na kituak ding-te hi.
 
-**ZVS:** Tua ciangin Jesuh in a nungzuite nih sawlin amaute kiangah, “Jerusalem khuasungah va pai le uh cin, tuibeel a pua mi khat na mu ding uh hi. Amah zui un la,
+**ZVS:** Tua ciangin Jesuh in a nungzuite nih sawlin amaute kiangah, “Jerusalem khuasungah va pai le-te cin, tuibeel a pua mi khat na mu ding-te hi. Amah zui un la,
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And his disciples went forth, and came into the city, and found as he had said unto them: and they made ready the passover.
 
-**TDB77:** Tua nungzuite pai uh a, khua sung a tum uh ciangin Zeisu in a genkholh mah bangin a mu uh a, Paisan pawi a bawl khol uh hi.
+**TDB77:** Tua nungzuite pai-te a, khua sung a tum-te ciangin Zeisu in a genkholh mah bangin a mu-te a, Paisan pawi a bawl khol-te hi.
 
-**ZVS:** Nungzuite gel zong khuasungah va pai uh a, Jesuh' gen bangin a va mu uh hi. Tua lai-ah Paisan Pawi an ding a bawl uh hi.
+**ZVS:** Nungzuite gel zong khuasungah va pai-te a, Jesuh' gen bangin a va mu-te hi. Tua lai-ah Paisan Pawi an ding a bawl-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** And in the evening he cometh with the twelve.
 
-**TDB77:** Nitak ciangin Zeisu in Sawm-le-nihte tawh hong paikhawm uh hi.
+**TDB77:** Nitak ciangin Zeisu in Sawm-le-nihte tawh hong paikhawm-te hi.
 
 **ZVS:** A nitak ciangin a nungzui sawmlenihte tawh tua munah Jesuh a om hi.
 
@@ -141,9 +141,9 @@
 ### v19
 **EN:** And they began to be sorrowful, and to say unto him one by one, Is it I? and another said, Is it I?
 
-**TDB77:** A nungzuite a dah uh a, “Kei ka hi hiam?” ci-in khat nungah khat in a dong uh hi.
+**TDB77:** A nungzuite a dah-te a, “Kei ka hi hiam?” ci-in khat nungah khat in a dong-te hi.
 
-**ZVS:** A nungzuite in lamdangsa uh a, a banbanin, “Kei nong cihna hi kei buangin teh,” a ci ciat uh hi.
+**ZVS:** A nungzuite in lamdangsa-te a, a banbanin, “Kei nong cihna hi kei buangin teh,” a ci ciat-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -166,9 +166,9 @@
 ### v23
 **EN:** And he took the cup, and when he had given thanks, he gave it to them: and they all drank of it.
 
-**TDB77:** Hai zong la a, hehpihna a phat khit ciangin amau pia a, tuate khempeuh in a dawn uh hi.
+**TDB77:** Hai zong la a, hehpihna a phat khit ciangin amau pia a, tuate khempeuh in a dawn-te hi.
 
-**ZVS:** Tua ciangin hai la a, lungdamna a kohkhit ciangin a nungzuite tungah pia a, tua hai panin a dawnkim uh hi.
+**ZVS:** Tua ciangin hai la a, lungdamna a kohkhit ciangin a nungzuite tungah pia a, tua hai panin a dawnkim-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -184,25 +184,25 @@
 ### v26
 **EN:** And when they had sung an hymn, they went out into the mount of Olives.
 
-**TDB77:** Amaute in la a sak khit uh ciangin, Oliv Mual ah a paikhia uh hi.
+**TDB77:** Amaute in la a sak khit-te ciangin, Oliv Mual ah a paikhia-te hi.
 
-**ZVS:** Amaute in la khat a sakkhit uh ciangin Oliv Mual-ah a pai uh hi.
+**ZVS:** Amaute in la khat a sakkhit-te ciangin Oliv Mual-ah a pai-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v27
 **EN:** And Jesus saith unto them,
 
-**TDB77:** Tua lai takin Zeisu in, “Tuucingpa ka satlum a, tuute a kithehthang ding hi,” ci-a Lai Siangtho sunga a kigelh bangin, note na vekpi un na lungkia ding uh hi.
+**TDB77:** Tua lai takin Zeisu in, “Tuucingpa ka satlum a, tuute a kithehthang ding hi,” ci-a Lai Siangtho sunga a kigelh bangin, note na vekpi un na lungkia ding-te hi.
 
-**ZVS:** Tua ciangin Jesuh in amaute kiangah, “‘Tuucingpa ka satlum ding a, tuute a kithehthang ding hi,’ ci-in Lai Siangtho sungah a kigelh mah bangin note in kei nong taisan ding uh hi.
+**ZVS:** Tua ciangin Jesuh in amaute kiangah, “‘Tuucingpa ka satlum ding a, tuute a kithehthang ding hi,’ ci-in Lai Siangtho sungah a kigelh mah bangin note in kei nong taisan ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** But Peter said unto him, Although all shall be offended, yet will not I.
 
-**TDB77:** Piter in, “Mi khempeuh a lungkia uh hangin keimah in ka lungkia kei ding hi,” a ci hi.
+**TDB77:** Piter in, “Mi khempeuh a lungkia-te hangin keimah in ka lungkia kei ding hi,” a ci hi.
 
 **ZVS:** Tua ciangin Peter in, “Adang khempeuh in nang hong taisan ahi zongin ke'n kong nusia ngei kei ding hi,” a ci hi.
 
@@ -220,9 +220,9 @@
 ### v31
 **EN:** But he spake the more vehemently, If I should die with thee, I will not deny thee in any wise. Likewise also said they all.
 
-**TDB77:** Piter in, “Nang tawh ka sikhawm zongin nangmah kong nial kei ding hi,” ci-in lungkhauhna tawh a gen hi. Amaute khempeuh in zong tua mah bangin a ci uh hi.
+**TDB77:** Piter in, “Nang tawh ka sikhawm zongin nangmah kong nial kei ding hi,” ci-in lungkhauhna tawh a gen hi. Amaute khempeuh in zong tua mah bangin a ci-te hi.
 
-**ZVS:** Ahi zongin Peter in, “Nang tawh sihkhawmna ding ciangdong ahi zongin kong nial ngei het kei ding hi,” ci-in khauhtakin a gen hi. Tua mah bangin a vekpi-un a ci kim uh hi.
+**ZVS:** Ahi zongin Peter in, “Nang tawh sihkhawmna ding ciangdong ahi zongin kong nial ngei het kei ding hi,” ci-in khauhtakin a gen hi. Tua mah bangin a vekpi-un a ci kim-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
@@ -274,9 +274,9 @@
 ### v37
 **EN:** And he cometh, and findeth them sleeping, and saith unto Peter,
 
-**TDB77:** A nungzuite kiangah a paikik leh, amaute ihmu a, om uh a muh ciangin Piter kiangah “Simon aw, ihmu na hi hiam? Nai khat nangawn kei tawh ngakkhawm zo lo na hi hiam?
+**TDB77:** A nungzuite kiangah a paikik leh, amaute ihmu a, om-te a muh ciangin Piter kiangah “Simon aw, ihmu na hi hiam? Nai khat nangawn kei tawh ngakkhawm zo lo na hi hiam?
 
-**ZVS:** Tua ciangin hong pai a, a nungzui thumte ihmu-in om a muh ciangin Peter kiangah, “Simon aw, ihmu na hi uh hiam? Nai khat sung nangawn hong ngak zolo liang na hi uh hiam?” a ci hi.
+**ZVS:** Tua ciangin hong pai a, a nungzui thumte ihmu-in om a muh ciangin Peter kiangah, “Simon aw, ihmu na hi-te hiam? Nai khat sung nangawn hong ngak zolo liang na hi-te hiam?” a ci hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -292,9 +292,9 @@
 ### v40
 **EN:** And when he returned, he found them asleep again, (for their eyes were heavy,) neither wist they what to answer him.
 
-**TDB77:** A hong pai kik leh, a nungzuite ihmu a, om uh a mu hi. Bang hang hiam i cih leh, a mit uh a kham hi. Ama kiangah a dawn kik nading a thei kei uh hi.
+**TDB77:** A hong pai kik leh, a nungzuite ihmu a, om-te a mu hi. Bang hang hiam i cih leh, a mit-te a kham hi. Ama kiangah a dawn kik nading a thei kei-te hi.
 
-**ZVS:** Hong paikik ciangin a nungzuite na ihmu leuleu uh hi. A ihmut uh suak mahmah hi. Jesuh kiangah a gen ding uh bangmah theilo uh hi.
+**ZVS:** Hong paikik ciangin a nungzuite na ihmu leuleu-te hi. A ihmut-te suak mahmah hi. Jesuh kiangah a gen ding-te bangmah theilo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -303,16 +303,16 @@
 
 **TDB77:** Thumveina hong paikik a, “Tu-in nuam takin ihmu un. A kicing zo hi. A hun hong tung zo hi. Mihing Tapa migilote’ khut sungah kilehheek zo hi.
 
-**ZVS:** A thumveina a hong ciahkik ciangin amaute kiangah, “Ihmu-in na tawlnga hithiat lailai na hi uh hiam? Phazo hi. A hun hong tungta hi. Mihing Tapa mawhnei mite' khutsungah hong kipia khinta hi.
+**ZVS:** A thumveina a hong ciahkik ciangin amaute kiangah, “Ihmu-in na tawlnga hithiat lailai na hi-te hiam? Phazo hi. A hun hong tungta hi. Mihing Tapa mawhnei mite' khutsungah hong kipia khinta hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v43
 **EN:** And immediately, while he yet spake, cometh Judas, one of the twelve, and with him a great multitude with swords and staves, from the chief priests and the scribes and the elders.
 
-**TDB77:** Zeisu in a gen lai takin a nungzui sawm-le-nihte lak a khat, Judas in thakhatin hong pai a, siampi liante, laitheite leh upate in a sawl uh mihonpite in, namsau leh molhtumte tawi-in amah tawh hong tonkhawm uh hi.
+**TDB77:** Zeisu in a gen lai takin a nungzui sawm-le-nihte lak a khat, Judas in thakhatin hong pai a, siampi liante, laitheite leh upate in a sawl-te mihonpite in, namsau leh molhtumte tawi-in amah tawh hong tonkhawm-te hi.
 
-**ZVS:** Tua bangin Jesuh in thu a gen laitakin sawmlenihte sung panin Judas hong tung a, siampi liante, Thukham hilh siate, leh upate in a sawl mihonte in namsau leh molhtum tawi-in hong zui uh hi.
+**ZVS:** Tua bangin Jesuh in thu a gen laitakin sawmlenihte sung panin Judas hong tung a, siampi liante, Thukham hilh siate, leh upate in a sawl mihonte in namsau leh molhtum tawi-in hong zui-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -337,9 +337,9 @@
 ### v46
 **EN:** And they laid their hands on him, and took him.
 
-**TDB77:** Amaute in Zeisu a mat khit uh ciangin a kai uh hi.
+**TDB77:** Amaute in Zeisu a mat khit-te ciangin a kai-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in Jesuh manin limtakin a lencip uh hi.
+**ZVS:** Tua ahih ciangin amaute in Jesuh manin limtakin a lencip-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -355,18 +355,18 @@
 ### v48
 **EN:** And Jesus answered and said unto them,
 
-**TDB77:** Tua ciangin Zeisu in, ‘Note in galgu mat bangin kei man dingin namsau leh molhtum tawi-in na hong pai uh hiam?
+**TDB77:** Tua ciangin Zeisu in, ‘Note in galgu mat bangin kei man dingin namsau leh molhtum tawi-in na hong pai-te hiam?
 
-**ZVS:** Tua ciangin Jesuh in amaute kiangah, “Guta buluhte a man ding bang keekin, kei a man dingin namsau leh molhtum tawh hong kuan na hi uh hiam?
+**ZVS:** Tua ciangin Jesuh in amaute kiangah, “Guta buluhte a man ding bang keekin, kei a man dingin namsau leh molhtum tawh hong kuan na hi-te hiam?
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to
 
 ### v50
 **EN:** And they all forsook him, and fled.
 
-**TDB77:** Tua ciangin, a nungzuite khempeuh in Topa a taisan uh hi.
+**TDB77:** Tua ciangin, a nungzuite khempeuh in Topa a taisan-te hi.
 
-**ZVS:** Tua ciangin a nungzuite khempeuh in Jesuh a taisan uh hi.
+**ZVS:** Tua ciangin a nungzuite khempeuh in Jesuh a taisan-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -380,7 +380,7 @@
 ### v52
 **EN:** And he left the linen cloth, and fled from them naked.
 
-**TDB77:** amaute in a mat uh ciangin, a saihadial puan nusia-in puan nei loin a tai hi.
+**TDB77:** amaute in a mat-te ciangin, a saihadial puan nusia-in puan nei loin a tai hi.
 
 **ZVS:** a puanza kang nusia-in a guaktangin a tai hi.
 
@@ -389,9 +389,9 @@
 ### v53
 **EN:** And they led Jesus away to the high priest: and with him were assembled all the chief priests and the elders and the scribes.
 
-**TDB77:** Amaute in siampi ukpa kiangah Zeisu a paipih uh hi. Siampi liante, upate leh laitheite khempeuh amah tawh a kikhawm uh hi.
+**TDB77:** Amaute in siampi ukpa kiangah Zeisu a paipih-te hi. Siampi liante, upate leh laitheite khempeuh amah tawh a kikhawm-te hi.
 
-**ZVS:** Mihonte in siampi lianpenpa' inn-ah Jesuh paipih uh a, siampi liante, upate, leh Thukham hilh siate hong kikhawm uh hi.
+**ZVS:** Mihonte in siampi lianpenpa' inn-ah Jesuh paipih-te a, siampi liante, upate, leh Thukham hilh siate hong kikhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -407,32 +407,32 @@
 ### v55
 **EN:** And the chief priests and all the council sought for witness against Jesus to put him to death; and found none.
 
-**TDB77:** Siampi liante leh upate khempeuh in Zeisu that dingin teci a zon’ uh hangin a mu kei uh hi.
+**TDB77:** Siampi liante leh upate khempeuh in Zeisu that dingin teci a zon’ uh hangin a mu kei-te hi.
 
-**ZVS:** Siampi liante-a kipan uliante khempeuh in Jesuh a thahtheihna dingin thu zong uh a, ahi zongin bangmah mulo uh hi.
+**ZVS:** Siampi liante-a kipan uliante khempeuh in Jesuh a thahtheihna dingin thu zong-te a, ahi zongin bangmah mulo-te hi.
 
 **Grammar:** purpose: in order to | negation: kei | plural: uh marker
 
 ### v56
 **EN:** For many bare false witness against him, but their witness agreed not together.
 
-**TDB77:** Bang hang hiam i cih leh, mi tampi in Zeisu lang khatah zuau teci a pan’ uh hangin a kithutuak kei uh hi.
+**TDB77:** Bang hang hiam i cih leh, mi tampi in Zeisu lang khatah zuau teci a pan’ uh hangin a kithutuak kei-te hi.
 
-**ZVS:** Mi tampi in amah a mawhsakna dingun zuauthu gen uh a, ahi zongin a genna uh khatlekhat kituaklo hi.
+**ZVS:** Mi tampi in amah a mawhsakna dingun zuauthu gen-te a, ahi zongin a genna-te khatlekhat kituaklo hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v57
 **EN:** And there arose certain, and bare false witness against him, saying,
 
-**TDB77:** Tua ciangin mi pawlkhat hong dingin amah a mawhsakna dingun zuauthu hong gen uh a,
+**TDB77:** Tua ciangin mi pawlkhat hong dingin amah a mawhsakna dingun zuauthu hong gen-te a,
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v58
 **EN:** We heard him say, I will destroy this temple that is made with hands, and within three days I will build another made without hands.
 
-**TDB77:** “Mihingte' lam hih biakinn ka susia ding a, ni thum khit ciangin mihingte' lam a hilo adang khat ka lam ding hi,” a cihna ka za uh hi, ci-in hong gen uh hi.
+**TDB77:** “Mihingte' lam hih biakinn ka susia ding a, ni thum khit ciangin mihingte' lam a hilo adang khat ka lam ding hi,” a cihna ka za-te hi, ci-in hong gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -441,16 +441,16 @@
 
 **TDB77:** Ahih hangin amau teci pan’na a kituak kei hi.
 
-**ZVS:** Amaute nangawn zong a thugenzia uh kituaklo hi.
+**ZVS:** Amaute nangawn zong a thugenzia-te kituaklo hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v60
 **EN:** And the high priest stood up in the midst, and asked Jesus, saying, Answerest thou nothing? what is it which these witness against thee?
 
-**TDB77:** Siampi ukpa in amaute lai zangah ding a, “Nang kam khat beek dawng kik lo ding na hi hiam? Hih mite in nangma lang khatah teci bangci a pang uh hiam?” ci-in Zeisu kiangah a dot leh, Zeisu pau loin a om hi.
+**TDB77:** Siampi ukpa in amaute lai zangah ding a, “Nang kam khat beek dawng kik lo ding na hi hiam? Hih mite in nangma lang khatah teci bangci a pang-te hiam?” ci-in Zeisu kiangah a dot leh, Zeisu pau loin a om hi.
 
-**ZVS:** Tua ciangin amaute khempeuh mai-ah siampi lianpenpa hong dingin Jesuh thu dong a, “Nangmah mawhsakna-in a gen uh thute na dawn'na ding omlo ahi hiam?” ci-in a dong hi.
+**ZVS:** Tua ciangin amaute khempeuh mai-ah siampi lianpenpa hong dingin Jesuh thu dong a, “Nangmah mawhsakna-in a gen-te thute na dawn'na ding omlo ahi hiam?” ci-in a dong hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -466,9 +466,9 @@
 ### v62
 **EN:** And Jesus said,
 
-**TDB77:** Zeisu in, “Ka hi hi. Mihing Tapa in vangliatna ziatlam ah tu a, meii tungah hong kumsuk note in na mu ding uh hi,” a ci hi.
+**TDB77:** Zeisu in, “Ka hi hi. Mihing Tapa in vangliatna ziatlam ah tu a, meii tungah hong kumsuk note in na mu ding-te hi,” a ci hi.
 
-**ZVS:** Jesuh in, “Ka hi hi; Vanglian Pasian' taklamah Mihing Tapa omin meii lakah a hong pai na mu ding uh hi,” a ci hi.
+**ZVS:** Jesuh in, “Ka hi hi; Vanglian Pasian' taklamah Mihing Tapa omin meii lakah a hong pai na mu ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -482,18 +482,18 @@
 ### v64
 **EN:** Ye have heard the blasphemy: what think ye? And they all condemned him to be guilty of death.
 
-**TDB77:** Pasian tungah a pau khialhna thu na za zo uh hi. Bangci ngaihsut na hi uh hiam?” a ci hi. Amaute khempeuh in, “Hih pa thah tuak hi,” a ci uh hi.
+**TDB77:** Pasian tungah a pau khialhna thu na za zo-te hi. Bangci ngaihsut na hi-te hiam?” a ci hi. Amaute khempeuh in, “Hih pa thah tuak hi,” a ci-te hi.
 
-**ZVS:** Pasian' tungah a paukhialhna na zazo uh hi. Bangci ngaihsut na hi uh hiam?” a ci hi. Hih mipa thah dingin kilawm hi, ci-in amaute khempeuh in thu a khen uh hi.
+**ZVS:** Pasian' tungah a paukhialhna na zazo-te hi. Bangci ngaihsut na hi-te hiam?” a ci hi. Hih mipa thah dingin kilawm hi, ci-in amaute khempeuh in thu a khen-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v65
 **EN:** And some began to spit on him, and to cover his face, and to buffet him, and to say unto him, Prophesy: and the servants did strike him with the palms of their hands.
 
-**TDB77:** Tua lai takin kimkhatte in Zeisu cil tawh phih uh a, a maitang tuamin a khut uh tawh a tum uh hi. “Pasian’ kamsangte bangin hong hilh in,” a ci uh hi. Palikte in khut tawh pang betin a paipih uh hi.
+**TDB77:** Tua lai takin kimkhatte in Zeisu cil tawh phih-te a, a maitang tuamin a khut-te tawh a tum-te hi. “Pasian’ kamsangte bangin hong hilh in,” a ci-te hi. Palikte in khut tawh pang betin a paipih-te hi.
 
-**ZVS:** Tua ciangin mi pawlkhat in cilphih uh a, a mai tunsakin beng uh a, “Kua in hong beng ahi hiam, gen in,” a ci uh hi. Palikte in zong amah paipihin a beng uh hi.
+**ZVS:** Tua ciangin mi pawlkhat in cilphih-te a, a mai tunsakin beng-te a, “Kua in hong beng ahi hiam, gen in,” a ci-te hi. Palikte in zong amah paipihin a beng-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -536,18 +536,18 @@
 ### v70
 **EN:** And he denied it again. And a little after, they that stood by said again to Peter, Surely thou art one of them: for thou art a Galilaean, and thy speech agreeth thereto.
 
-**TDB77:** Piter in a nial kik hi. Tua nung a sawt nai loin Piter kiangah a dingte in, “Hua mite khat na hi takpi hi, bang hang hiam na cih leh, Galile mi na hi hi,” a cih uh ciangin,
+**TDB77:** Piter in a nial kik hi. Tua nung a sawt nai loin Piter kiangah a dingte in, “Hua mite khat na hi takpi hi, bang hang hiam na cih leh, Galile mi na hi hi,” a cih-te ciangin,
 
-**ZVS:** Ahi zongin Peter in nial leuleu hi. Tawlkhat khit ciangin a gei-a omte in Peter kiangah, “Nang zong Galilee gammi na hih manin huate khat na hi takpi hi,” a ci leuleu uh hi.
+**ZVS:** Ahi zongin Peter in nial leuleu hi. Tawlkhat khit ciangin a gei-a omte in Peter kiangah, “Nang zong Galilee gammi na hih manin huate khat na hi takpi hi,” a ci leuleu-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v71
 **EN:** But he began to curse and to swear, saying, I know not this man of whom ye speak.
 
-**TDB77:** Piter in, “No na gen uh mi pen ke’n ka thei kei hi,” ci-in hamsia tawh a kiciam hi.
+**TDB77:** Piter in, “No na gen-te mi pen ke’n ka thei kei hi,” ci-in hamsia tawh a kiciam hi.
 
-**ZVS:** Tua ciangin Peter in, “Na gen mipa uh ka theih taak leh Pasian in kei hong dawm kei ta hen,” ci-in a kiciam hi.
+**ZVS:** Tua ciangin Peter in, “Na gen mipa-te ka theih taak leh Pasian in kei hong dawm kei ta hen,” ci-in a kiciam hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix
 

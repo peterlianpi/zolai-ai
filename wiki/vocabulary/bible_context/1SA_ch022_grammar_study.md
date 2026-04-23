@@ -27,18 +27,18 @@
 ### v1
 **EN:** David therefore departed thence, and escaped to the cave Adullam: and when his brethren and all his father's house heard it, they went down thither to him.
 
-**TDB77:** David tua lai panin kihemkhia-in Adullam leihawm-ah tai hi; a sanggamte leh a pa’ innkuante khempeuh in a zak uh ciangin ama kiang tua lai mun-ah paisuk uh hi.
+**TDB77:** David tua lai panin kihemkhia-in Adullam leihawm-ah tai hi; a sanggamte leh a pa’ innkuante khempeuh in a zak-te ciangin ama kiang tua lai mun-ah paisuk-te hi.
 
-**ZVS:** David tua lai panin kihemkhia-in Adullam leihawmah tai hi. A sanggamte leh a pa' innkuante khempeuh in a zak uh ciangin ama kiang tua lai munah paisuk uh hi.
+**ZVS:** David tua lai panin kihemkhia-in Adullam leihawmah tai hi. A sanggamte leh a pa' innkuante khempeuh in a zak-te ciangin ama kiang tua lai munah paisuk-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And every one that was in distress, and every one that was in debt, and every one that was discontented, gathered themselves unto him; and he became a captain over them: and there were with him about four hundred men.
 
-**TDB77:** Tua ciangin a lungkham mi khempeuh, leh leiba a nei mi khempeuh, leh a lungkim lo mite khempeuh ama kiangah kikhawm uh hi; amah in amaute tungah a ukpa a suak hi. Tua lai-ah amah tawh mihing zali bang om hi.
+**TDB77:** Tua ciangin a lungkham mi khempeuh, leh leiba a nei mi khempeuh, leh a lungkim lo mite khempeuh ama kiangah kikhawm-te hi; amah in amaute tungah a ukpa a suak hi. Tua lai-ah amah tawh mihing zali bang om hi.
 
-**ZVS:** Tua ciangin a lungkham mi khempeuh, leiba a nei mi khempeuh, leh a lungkimlo mite khempeuh ama kiangah hong kikhawm uh hi. Amah pen amaute tungah a ukpa a suak hi. Tua lai-ah amah tawh mihing za li bang a om hi.
+**ZVS:** Tua ciangin a lungkham mi khempeuh, leiba a nei mi khempeuh, leh a lungkimlo mite khempeuh ama kiangah hong kikhawm-te hi. Amah pen amaute tungah a ukpa a suak hi. Tua lai-ah amah tawh mihing za li bang a om hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -54,9 +54,9 @@
 ### v4
 **EN:** And he brought them before the king of Moab: and they dwelt with him all the while that David was in the hold.
 
-**TDB77:** Amah in Moab kumpipa kiangah amaute nusia a, munmuanhuaina sungah David a om sung teng amah tawh omkhawm uh hi.
+**TDB77:** Amah in Moab kumpipa kiangah amaute nusia a, munmuanhuaina sungah David a om sung teng amah tawh omkhawm-te hi.
 
-**ZVS:** Amah in Moab kumpipa kiangah amaute nusia a, munmuan'huaina sungah David a om sungteng amah tawh omkhawm uh hi.
+**ZVS:** Amah in Moab kumpipa kiangah amaute nusia a, munmuan'huaina sungah David a om sungteng amah tawh omkhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -90,9 +90,9 @@
 ### v8
 **EN:** That all of you have conspired against me, and there is none that sheweth me that my son hath made a league with the son of Jesse, and there is none of you that is sorry for me, or sheweth unto me that my son hath stirred up my servant against me, to lie in wait, as at this day?
 
-**TDB77:** note khempeuh in kei hong sawmsim na hi uh hiam? Tu ni-a bangin hong pangsim dingin ka tapa in Jessi’ tapa tawh thukimna a bawl ciangin kuamah in kei kiangah hong pulak loin, ka tapa in keimah a do dingin ka nasempa a hanthotna-ah note kuamah dah loin, kei kiangah zong nong pulak kei uh hi,” a ci hi.
+**TDB77:** note khempeuh in kei hong sawmsim na hi-te hiam? Tu ni-a bangin hong pangsim dingin ka tapa in Jessi’ tapa tawh thukimna a bawl ciangin kuamah in kei kiangah hong pulak loin, ka tapa in keimah a do dingin ka nasempa a hanthotna-ah note kuamah dah loin, kei kiangah zong nong pulak kei-te hi,” a ci hi.
 
-**ZVS:** note khempeuh in kei hong sawmsim na hi uh hiam? Tuni-a bangin hong pangsim dingin ka tapa in Jessi' tapa tawh thukimna a bawl ciangin kuamah in kei kiangah hong pulak loin, ka tapa in keimah a do dingin ka nasempa a hanthotna-ah note kuamah dahloin, kei kiangah zong nong pulak kei uh hi,” a ci hi.
+**ZVS:** note khempeuh in kei hong sawmsim na hi-te hiam? Tuni-a bangin hong pangsim dingin ka tapa in Jessi' tapa tawh thukimna a bawl ciangin kuamah in kei kiangah hong pulak loin, ka tapa in keimah a do dingin ka nasempa a hanthotna-ah note kuamah dahloin, kei kiangah zong nong pulak kei-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -117,9 +117,9 @@
 ### v11
 **EN:** Then the king sent to call Ahimelech the priest, the son of Ahitub, and all his father's house, the priests that were in Nob: and they came all of them to the king.
 
-**TDB77:** Tua ciangin kumpipa in Ahitub’ tapa siampi Ahimelek leh a pa’ innkuante ahi Nob-a om siampi khempeuh a sam dingin mi sawl hi; kumpipa kiangah amaute khempeuh hong pai uh hi.
+**TDB77:** Tua ciangin kumpipa in Ahitub’ tapa siampi Ahimelek leh a pa’ innkuante ahi Nob-a om siampi khempeuh a sam dingin mi sawl hi; kumpipa kiangah amaute khempeuh hong pai-te hi.
 
-**ZVS:** Tua ciangin kumpipa in Ahitub' tapa siampi Ahimelek leh a pa' innkuante ahi Nob-a om siampi khempeuh a sam dingin mi sawl a, kumpipa kiangah amaute khempeuh hong pai uh hi.
+**ZVS:** Tua ciangin kumpipa in Ahitub' tapa siampi Ahimelek leh a pa' innkuante ahi Nob-a om siampi khempeuh a sam dingin mi sawl a, kumpipa kiangah amaute khempeuh hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -162,18 +162,18 @@
 ### v16
 **EN:** And the king said, Thou shalt surely die, Ahimelech, thou, and all thy father's house.
 
-**TDB77:** Tua ciangin kumpipa in, “Ahimelek aw, nang leh na pa’ innkuante na si taktak ding uh hi.” a ci hi.
+**TDB77:** Tua ciangin kumpipa in, “Ahimelek aw, nang leh na pa’ innkuante na si taktak ding-te hi.” a ci hi.
 
-**ZVS:** Tua ciangin kumpipa in, “Ahimelek aw, nang leh na pa' innkuante na si taktak ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin kumpipa in, “Ahimelek aw, nang leh na pa' innkuante na si taktak ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 
 ### v17
 **EN:** And the king said unto the footmen that stood about him, Turn, and slay the priests of the
 
-**TDB77:** Kumpipa in ama kiim-ah a ding a cingte kiangah, “Kihei un la, Topa’ siampite that un; bang hang hiam cih leh amaute zong David tawh pang khawm uh hi; amaute in ama tai lam thei napi-in kei kiangah hong pulak lo uh hi,” a ci hi. Ahih hangin kumpipa’ nasemte in Topa’ siampite tung a tu dingin a khut uh taangkhiasak lo uh hi.
+**TDB77:** Kumpipa in ama kiim-ah a ding a cingte kiangah, “Kihei un la, Topa’ siampite that un; bang hang hiam cih leh amaute zong David tawh pang khawm-te hi; amaute in ama tai lam thei napi-in kei kiangah hong pulak lo-te hi,” a ci hi. Ahih hangin kumpipa’ nasemte in Topa’ siampite tung a tu dingin a khut-te taangkhiasak lo-te hi.
 
-**ZVS:** Kumpipa in ama kiimah a ding a cingte kiangah, “Kihei un la { Topa' } siampite that un; bang hang hiam cih leh amaute zong David tawh pangkhawm uh a, amaute in ama tailam thei napi-in kei kiangah hong pulaklo uh hi,” a ci hi. Ahih hangin kumpipa' nasemte in { Topa' } siampite tung a tu dingin a khut uh taangkhiasak lo uh hi.
+**ZVS:** Kumpipa in ama kiimah a ding a cingte kiangah, “Kihei un la { Topa' } siampite that un; bang hang hiam cih leh amaute zong David tawh pangkhawm-te a, amaute in ama tailam thei napi-in kei kiangah hong pulaklo-te hi,” a ci hi. Ahih hangin kumpipa' nasemte in { Topa' } siampite tung a tu dingin a khut-te taangkhiasak lo-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

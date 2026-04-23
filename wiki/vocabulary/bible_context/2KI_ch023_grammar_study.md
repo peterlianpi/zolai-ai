@@ -24,34 +24,34 @@
 ### v1
 **EN:** And the king sent, and they gathered unto him all the elders of Judah and of Jerusalem.
 
-**TDB77:** Tua ciangin kumpipa in Judah leh Jerusalem upate khempeuh samsak a, ama kiangah hong kikhawm uh hi.
+**TDB77:** Tua ciangin kumpipa in Judah leh Jerusalem upate khempeuh samsak a, ama kiangah hong kikhawm-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And the king went up into the house of the
 
-**TDB77:** Tua ciangin kumpipa Topa’ innah paito a, amah tawh Judah mi khempeuh leh Jerusalem a, teengte khempeuh, siampite, kamsangte leh mi khempeuh a neu a lian tawh pai uh hi; tua ciangin amah in amaute’ zakin Topa’ inn sungah a kimu thuciamna laibu sunga thute khempeuh simkhia hi.
+**TDB77:** Tua ciangin kumpipa Topa’ innah paito a, amah tawh Judah mi khempeuh leh Jerusalem a, teengte khempeuh, siampite, kamsangte leh mi khempeuh a neu a lian tawh pai-te hi; tua ciangin amah in amaute’ zakin Topa’ inn sungah a kimu thuciamna laibu sunga thute khempeuh simkhia hi.
 
-**ZVS:** Tua ciangin { Topa' } biakinn-ah kumpipa paito a, amah tawh Judah mi khempeuh, Jerusalem-a tengte khempeuh, siampite, kamsangte, leh mi khempeuh a neu a lian tawh pai uh hi. Tua ciangin amah in amaute' zakin { Topa' } biakinn sungah a kimu thuciamna laibu sunga thute khempeuh a sim hi.
+**ZVS:** Tua ciangin { Topa' } biakinn-ah kumpipa paito a, amah tawh Judah mi khempeuh, Jerusalem-a tengte khempeuh, siampite, kamsangte, leh mi khempeuh a neu a lian tawh pai-te hi. Tua ciangin amah in amaute' zakin { Topa' } biakinn sungah a kimu thuciamna laibu sunga thute khempeuh a sim hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And the king stood by a pillar, and made a covenant before the
 
-**TDB77:** Tua ciangin khuampi gei-ah kumpipa dingin hih laibu sunga a kigelh hih thuciamna kammalte khempeuh a sep nading, Topa thu mangin a thupiaknate leh a tecipan’nate leh a thukhamte, a lungsim leh a ngaihsutna khempeuh tawh a zuih nading, Topa mai-ah thuciamna khat bawl hi; tua ciangin mi khempeuh tua thuciamna ah kihel uh hi.
+**TDB77:** Tua ciangin khuampi gei-ah kumpipa dingin hih laibu sunga a kigelh hih thuciamna kammalte khempeuh a sep nading, Topa thu mangin a thupiaknate leh a tecipan’nate leh a thukhamte, a lungsim leh a ngaihsutna khempeuh tawh a zuih nading, Topa mai-ah thuciamna khat bawl hi; tua ciangin mi khempeuh tua thuciamna ah kihel-te hi.
 
-**ZVS:** Tua ciangin khuampi gei-ah kumpipa dingin hih laibu sunga a kigelh thuciamna kammalte khempeuh a sepna ding, { Topa' } thu mangin a thupiaknate leh a thukhamte, a lungsim leh a ngaihsutna khempeuh tawh a zuihna ding, { Topa' } mai-ah thuciamna khat a bawl hi. Tua ciangin mi khempeuh zong tua thuciamna-ah a kihel uh hi.
+**ZVS:** Tua ciangin khuampi gei-ah kumpipa dingin hih laibu sunga a kigelh thuciamna kammalte khempeuh a sepna ding, { Topa' } thu mangin a thupiaknate leh a thukhamte, a lungsim leh a ngaihsutna khempeuh tawh a zuihna ding, { Topa' } mai-ah thuciamna khat a bawl hi. Tua ciangin mi khempeuh zong tua thuciamna-ah a kihel-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And the king commanded Hilkiah the high priest, and the priests of the second order, and the keepers of the door, to bring forth out of the temple of the
 
-**TDB77:** Tua ciangin kumpipa in siampi lian Hilkiah, a nihna siampi, leh kong cingte in Topa’ biakinn sung panin Baal leh Asherah milim’ adingin a kibawl nazatte khempeuh, leh vantung a, om nate khempeuh adingin a kibawlte hong paikhiatpih nading uh thupia hi; amah in Jerusalem pualam Kidron leikang halna munah tuate halin a vute Beth-el ah pua hi.
+**TDB77:** Tua ciangin kumpipa in siampi lian Hilkiah, a nihna siampi, leh kong cingte in Topa’ biakinn sung panin Baal leh Asherah milim’ adingin a kibawl nazatte khempeuh, leh vantung a, om nate khempeuh adingin a kibawlte hong paikhiatpih nading-te thupia hi; amah in Jerusalem pualam Kidron leikang halna munah tuate halin a vute Beth-el ah pua hi.
 
-**ZVS:** Tua ciangin kumpipa in siampi lianpenpa Hilkiah, leh a nihna siampi, leh kongcingte in { Topa' } biakinn sung panin Baal leh Asherah nusian milim-a' dingin a kibawl nazatte khempeuh, leh vantunga om nate khempeuh biakna dingin a kibawlte hong paikhiatpihna ding uh thu a pia hi. Amah in Jerusalem pualam Kidron leikang halna munah tuate halin a vute Bethel khua-ah a pua hi.
+**ZVS:** Tua ciangin kumpipa in siampi lianpenpa Hilkiah, leh a nihna siampi, leh kongcingte in { Topa' } biakinn sung panin Baal leh Asherah nusian milim-a' dingin a kibawl nazatte khempeuh, leh vantunga om nate khempeuh biakna dingin a kibawlte hong paikhiatpihna ding-te thu a pia hi. Amah in Jerusalem pualam Kidron leikang halna munah tuate halin a vute Bethel khua-ah a pua hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
@@ -94,9 +94,9 @@
 ### v9
 **EN:** Nevertheless the priests of the high places came not up to the altar of the
 
-**TDB77:** Ahi zongin, tua lai-a sem siampite ahih leh Jerusalem a, Topa’ biakna tau-ah hong paito thei lo uh a, amau’ sanggamte lakah silngo sawhloh anlum ne uh hi.
+**TDB77:** Ahi zongin, tua lai-a sem siampite ahih leh Jerusalem a, Topa’ biakna tau-ah hong paito thei lo-te a, amau’ sanggamte lakah silngo sawhloh anlum ne-te hi.
 
-**ZVS:** Tua lai-a sem siampite ahih leh Jerusalem-a { Topa' } biakna tau-ah hong paito theilo uh a, ahi zongin amau' sanggamte' lakah silngo sawhloh anlum ne thei uh hi.
+**ZVS:** Tua lai-a sem siampite ahih leh Jerusalem-a { Topa' } biakna tau-ah hong paito theilo-te a, ahi zongin amau' sanggamte' lakah silngo sawhloh anlum ne thei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -112,9 +112,9 @@
 ### v11
 **EN:** And he took away the horses that the kings of Judah had given to the sun, at the entering in of the house of the
 
-**TDB77:** Tua ciangin amah in a kimnai-a om, innsung ulian Nathanmelek’ inn gei, Topa’ inn sung lutna mun a, Judah kumpite in ni tungah a ap uh a sakolte koihkhia hi; tua ciangin amah in ni’ sakol leengte mei tawh hal hi.
+**TDB77:** Tua ciangin amah in a kimnai-a om, innsung ulian Nathanmelek’ inn gei, Topa’ inn sung lutna mun a, Judah kumpite in ni tungah a ap-te a sakolte koihkhia hi; tua ciangin amah in ni’ sakol leengte mei tawh hal hi.
 
-**ZVS:** Tua ciangin amah in a kimnai-a om, innsung ulian Nathanmelek' inn gei, { Topa' } biakinn sung lutna munah, Judah kumpite in ni tungah a ap uh a sakolte hemkhia hi. Tua ciangin amah in ni' sakol leengte mei tawh a hal hi.
+**ZVS:** Tua ciangin amah in a kimnai-a om, innsung ulian Nathanmelek' inn gei, { Topa' } biakinn sung lutna munah, Judah kumpite in ni tungah a ap-te a sakolte hemkhia hi. Tua ciangin amah in ni' sakol leengte mei tawh a hal hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -164,25 +164,25 @@
 ### v17
 **EN:** Then he said, What title is that that I see? And the men of the city told him, It is the sepulchre of the man of God, which came from Judah, and proclaimed these things that thou hast done against the altar of Beth–el.
 
-**TDB77:** Tua ciangin amah in, “Hua gal khat-a ka muh phawkna mual bang ahi hiam?” a ci hi. Tua ciangin khuapi sung mite in ama kiangah, “Judah panin hong pai-in Beth-el-a biakna tau tungah na bawl hih nate a genkhol Pasian’ mipa’ han ahi hi,” ci-in a gen uh hi.
+**TDB77:** Tua ciangin amah in, “Hua gal khat-a ka muh phawkna mual bang ahi hiam?” a ci hi. Tua ciangin khuapi sung mite in ama kiangah, “Judah panin hong pai-in Beth-el-a biakna tau tungah na bawl hih nate a genkhol Pasian’ mipa’ han ahi hi,” ci-in a gen-te hi.
 
-**ZVS:** Tua ciangin amah in, “Hua galkhata ka muh phawkna mual bang ahi hiam?” a ci hi. Tua ciangin khuapisung mite in ama kiangah, “Judah panin hong pai-in Bethel-a biakna tau tungah na bawl hih thute a genkhol Pasian' mipa' han ahi hi,” ci-in a gen uh hi.
+**ZVS:** Tua ciangin amah in, “Hua galkhata ka muh phawkna mual bang ahi hiam?” a ci hi. Tua ciangin khuapisung mite in ama kiangah, “Judah panin hong pai-in Bethel-a biakna tau tungah na bawl hih thute a genkhol Pasian' mipa' han ahi hi,” ci-in a gen-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And he said, Let him alone; let no man move his bones. So they let his bones alone, with the bones of the prophet that came out of Samaria.
 
-**TDB77:** Tua ciangin amah in, “Amah tuaci omsak un; kuamah in ama guhte khin kei un,” a ci hi. Tua ahih ciangin amaute in Samaria panin hong paikhia kamsangpa’ guhte tawh, ama guhte tuaci omsak uh hi.
+**TDB77:** Tua ciangin amah in, “Amah tuaci omsak un; kuamah in ama guhte khin kei un,” a ci hi. Tua ahih ciangin amaute in Samaria panin hong paikhia kamsangpa’ guhte tawh, ama guhte tuaci omsak-te hi.
 
-**ZVS:** Tua ciangin amah in, “Amah tuaci omsak un; kuamah in ama guhte khin kei un,” a ci hi. Tua ahih ciangin amaute in Samaria panin hong paikhia kamsangte' guhte leh ama guhte tuaci omsak uh hi.
+**ZVS:** Tua ciangin amah in, “Amah tuaci omsak un; kuamah in ama guhte khin kei un,” a ci hi. Tua ahih ciangin amaute in Samaria panin hong paikhia kamsangte' guhte leh ama guhte tuaci omsak-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
 ### v19
 **EN:** And all the houses also of the high places that were in the cities of Samaria, which the kings of Israel had made to provoke the
 
-**TDB77:** Tua ciangin Israel kumpite in a bawlsa, Topa a hehsakna uh ahi Samaria khuapite sunga om mual tunga biakna munte khempeuh zong Josiah in lakhia hi; Beth-el a, a hihsa khempeuh mah bangin tuate tungah hih hi.
+**TDB77:** Tua ciangin Israel kumpite in a bawlsa, Topa a hehsakna-te ahi Samaria khuapite sunga om mual tunga biakna munte khempeuh zong Josiah in lakhia hi; Beth-el a, a hihsa khempeuh mah bangin tuate tungah hih hi.
 
 **ZVS:** Tua ciangin Israel kumpite in a bawlsa, { Topa } a hehsakna uh, Samaria khuapite sunga om mualtunga biakna munte khempeuh zong Josiah in a lakhia hi. Bethel-a a hihsa khempeuh mah bangin tuate tungah a hih hi.
 
@@ -200,9 +200,9 @@
 ### v21
 **EN:** And the king commanded all the people, saying, Keep the passover unto the
 
-**TDB77:** Tua ciangin kumpipa in mi khempeuh thu pia a, “Hih thuciamna laibu sungah a kigelh mah bangin Topa na Pasian uh pahtawina-in Paisan Pawi bawl un,” a ci hi.
+**TDB77:** Tua ciangin kumpipa in mi khempeuh thu pia a, “Hih thuciamna laibu sungah a kigelh mah bangin Topa na Pasian-te pahtawina-in Paisan Pawi bawl un,” a ci hi.
 
-**ZVS:** Tua ciangin kumpipa in mi khempeuh thu pia a, “Hih thuciamna laibu sungah a kigelh mah bangin { Topa } na Pasian uh pahtawina-in Paisan Pawi bawl un,” a ci hi.
+**ZVS:** Tua ciangin kumpipa in mi khempeuh thu pia a, “Hih thuciamna laibu sungah a kigelh mah bangin { Topa } na Pasian-te pahtawina-in Paisan Pawi bawl un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -281,9 +281,9 @@
 ### v30
 **EN:** And his servants carried him in a chariot dead from Megiddo, and brought him to Jerusalem, and buried him in his own sepulchre. And the people of the land took Jehoahaz the son of Josiah, and anointed him, and made him king in his father's stead.
 
-**TDB77:** Tua ciangin ama nasemte in Megiddo panin a sisa-in leeng khat sungah amah pua-in Jerusalem ah ciahpih uh a, a hanah amah vui uh hi. Tua ciangin tua gam mite in Josiah’ tapa Jehoahaz la-in sathau nilh uh a, a pa’ tangin kumpi-in amah koih uh hi.
+**TDB77:** Tua ciangin ama nasemte in Megiddo panin a sisa-in leeng khat sungah amah pua-in Jerusalem ah ciahpih-te a, a hanah amah vui-te hi. Tua ciangin tua gam mite in Josiah’ tapa Jehoahaz la-in sathau nilh-te a, a pa’ tangin kumpi-in amah koih-te hi.
 
-**ZVS:** Tua ciangin ama nasemte in Megiddo panin a sisa-in leeng khat sungah amah pua-in Jerusalem-ah ciahpih uh a, a hanah amah a vui uh hi. Tua ciangin tua gam mite in Josiah' tapa Jehoahaz la-in sathau nilh uh a, a pa' tangin kumpi-in a koih uh hi.
+**ZVS:** Tua ciangin ama nasemte in Megiddo panin a sisa-in leeng khat sungah amah pua-in Jerusalem-ah ciahpih-te a, a hanah amah a vui-te hi. Tua ciangin tua gam mite in Josiah' tapa Jehoahaz la-in sathau nilh-te a, a pa' tangin kumpi-in a koih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -324,9 +324,9 @@
 ### v35
 **EN:** And Jehoiakim gave the silver and the gold to Pharaoh; but he taxed the land to give the money according to the commandment of Pharaoh: he exacted the silver and the gold of the people of the land, of every one according to his taxation, to give it unto Pharaoh–neco.
 
-**TDB77:** Tua ciangin Jehoiakim in a ngun leh a kham Faro tungah pia a, ahih hangin Faro’ thupiakna bangin tua sum a piak dingin a gam sung mite tungah amah in siah dong hi. Faro Neko tungah piak dingin amah in mi khempeuh tung panin a neihna uh tawh kizui-in a gam sung mite’ ngun leh kham dok hi.
+**TDB77:** Tua ciangin Jehoiakim in a ngun leh a kham Faro tungah pia a, ahih hangin Faro’ thupiakna bangin tua sum a piak dingin a gam sung mite tungah amah in siah dong hi. Faro Neko tungah piak dingin amah in mi khempeuh tung panin a neihna-te tawh kizui-in a gam sung mite’ ngun leh kham dok hi.
 
-**ZVS:** Tua ciangin Jehoiakim in a ngun leh a kham Faro' tungah pia a, ahih hangin Faro' thupiakna bangin tua sum a piak dingin a gamsung mite tung pan amah in siah a dong hi. Faro Neko tungah a piak dingin, amah in mi khempeuh tung panin a neihsa uh tawh kizui-in a gamsung mite' ngun leh kham a dok hi.
+**ZVS:** Tua ciangin Jehoiakim in a ngun leh a kham Faro' tungah pia a, ahih hangin Faro' thupiakna bangin tua sum a piak dingin a gamsung mite tung pan amah in siah a dong hi. Faro Neko tungah a piak dingin, amah in mi khempeuh tung panin a neihsa-te tawh kizui-in a gamsung mite' ngun leh kham a dok hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 

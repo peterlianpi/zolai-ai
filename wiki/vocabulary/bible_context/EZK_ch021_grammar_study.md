@@ -34,9 +34,9 @@
 ### v2
 **EN:** Son of man, set thy face toward Jerusalem, and drop thy word toward the holy places, and prophesy against the land of Israel,
 
-**TDB77:** “Ezekiel aw, Jerusalem khuapi, leh mite in biakna a piakna uh mun tuamtuamte mawhsakna thu gen in.
+**TDB77:** “Ezekiel aw, Jerusalem khuapi, leh mite in biakna a piakna-te mun tuamtuamte mawhsakna thu gen in.
 
-**ZVS:** “Mihing ahi Ezekiel aw, Jerusalem khuapi, leh mite in biakna a piakna uh mun tuamtuamte mawhsakna thu gen in.
+**ZVS:** “Mihing ahi Ezekiel aw, Jerusalem khuapi, leh mite in biakna a piakna-te mun tuamtuamte mawhsakna thu gen in.
 
 ### v3
 **EN:** And say to the land of Israel, Thus saith the
@@ -59,9 +59,9 @@
 ### v5
 **EN:** That all flesh may know that I the
 
-**TDB77:** Topa ahi keimah in namsau ka dawh khitna leh a paai-ah ka siatkik loh nading thu mi khempeuh in thei ding uh hi,’ ci-in gen in.
+**TDB77:** Topa ahi keimah in namsau ka dawh khitna leh a paai-ah ka siatkik loh nading thu mi khempeuh in thei ding-te hi,’ ci-in gen in.
 
-**ZVS:** { Topa } ahi keimah in namsau ka dawh khitna leh a paai-ah ka siatkik lohna ding thu mi khempeuh in thei ding uh hi,’ ci-in gen in.
+**ZVS:** { Topa } ahi keimah in namsau ka dawh khitna leh a paai-ah ka siatkik lohna ding thu mi khempeuh in thei ding-te hi,’ ci-in gen in.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -77,9 +77,9 @@
 ### v7
 **EN:** And it shall be, when they say unto thee, Wherefore sighest thou? that thou shalt answer, For the tidings; because it cometh: and every heart shall melt, and all hands shall be feeble, and every spirit shall faint, and all knees shall be weak as water: behold, it cometh, and shall be brought to pass, saith the Lord
 
-**TDB77:** Tua bangin na omna thu mite in hong dot ciangin mai lama thupiang ding hangin a tuaci om na hihna gen in. Tua hun ciangin a lungsim uh launa tawh kidimin, launa hangin a khut uh liingcipin, a han’na lungsim uh bei-in, lau-in a khuk uh a liin’ kelkel nading thu leh, tua hun ding pen tu-in a hong tung ta, ahihna thu gen in,” Topa Pasian in hong ci hi.
+**TDB77:** Tua bangin na omna thu mite in hong dot ciangin mai lama thupiang ding hangin a tuaci om na hihna gen in. Tua hun ciangin a lungsim-te launa tawh kidimin, launa hangin a khut-te liingcipin, a han’na lungsim-te bei-in, lau-in a khuk-te a liin’ kelkel nading thu leh, tua hun ding pen tu-in a hong tung ta, ahihna thu gen in,” Topa Pasian in hong ci hi.
 
-**ZVS:** Tua bangin na omna thu mite in hong dot ciangin mailama thupiang ding hangin a tuaci om na hihna thu gen in. Tua hun ciangin a lungsim uh launa tawh kidimin, launa hangin a khut uh lingcipin, a han'na lungsim uh bei-in, lau-in a khuk uh a lin' kelkelna ding thu leh, tua hun ding pen tu-in a hong tungta ahihna thu gen in,” Topa { Pasian } in a hong ci hi.
+**ZVS:** Tua bangin na omna thu mite in hong dot ciangin mailama thupiang ding hangin a tuaci om na hihna thu gen in. Tua hun ciangin a lungsim-te launa tawh kidimin, launa hangin a khut-te lingcipin, a han'na lungsim-te bei-in, lau-in a khuk-te a lin' kelkelna ding thu leh, tua hun ding pen tu-in a hong tungta ahihna thu gen in,” Topa { Pasian } in a hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -122,7 +122,7 @@
 ### v12
 **EN:** Cry and howl, son of man: for it shall be upon my people, it shall be upon all the princes of Israel: terrors by reason of the sword shall be upon my people: smite therefore upon thy thigh.
 
-**TDB77:** Ezekiel aw, awng in la, kiko in, hih namsau pen, ka mihingte leh Israel makai khempeuh a kisawmna ahi hi. Amaute pen, ka mite khempeuh tawh, a kithat khawm ding uh hi. Dahna tawh na dip hum in.
+**TDB77:** Ezekiel aw, awng in la, kiko in, hih namsau pen, ka mihingte leh Israel makai khempeuh a kisawmna ahi hi. Amaute pen, ka mite khempeuh tawh, a kithat khawm ding-te hi. Dahna tawh na dip hum in.
 
 **ZVS:** Mihing ahi Ezekiel aw, awng in la kiko in. Hih namsau pen ka mihingte leh Israel makai khempeuh a kisawmna ahi hi. Amaute pen ka mite khempeuh tawh a kithat khawm ding ahi hi. Dahna tawh na dip hum in.
 
@@ -131,9 +131,9 @@
 ### v13
 **EN:** Because it is a trial, and what if the sword contemn even the rod? it shall be no more, saith the Lord
 
-**TDB77:** Note hong kize-et ahi hi. Note in thuhilhna nial lailai le uh cin, hih thute khempeuh piang loin om ding ahi hiam, Topa Pasian in ci hi.
+**TDB77:** Note hong kize-et ahi hi. Note in thuhilhna nial lailai le-te cin, hih thute khempeuh piang loin om ding ahi hiam, Topa Pasian in ci hi.
 
-**ZVS:** Note hong kize-et ahi hi. Note in thuhilhna nial lailai le uh cin, hih thu khempeuh piangloin om ding ahi hiam, Topa { Pasian } in ci hi.
+**ZVS:** Note hong kize-et ahi hi. Note in thuhilhna nial lailai le-te cin, hih thu khempeuh piangloin om ding ahi hiam, Topa { Pasian } in ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
@@ -149,9 +149,9 @@
 ### v15
 **EN:** I have set the point of the sword against all their gates, that their heart may faint, and their ruins be multiplied: ah! it is made bright, it is wrapped up for the slaughter.
 
-**TDB77:** Tua namsau in ka mite meidawi sakin puk sak hi. Khuaphia bangin a tee zalzal, mi that dinga a kithawi ka namsau tawh a khuapi uh ka ngim hi.
+**TDB77:** Tua namsau in ka mite meidawi sakin puk sak hi. Khuaphia bangin a tee zalzal, mi that dinga a kithawi ka namsau tawh a khuapi-te ka ngim hi.
 
-**ZVS:** Tua namsau in ka mite meidawi sakin puksak hi. Khuaphia bangin a te zalzal, mi that dingin a kithawi ka namsau tawh a khuapi uh ka ngim hi.
+**ZVS:** Tua namsau in ka mite meidawi sakin puksak hi. Khuaphia bangin a te zalzal, mi that dingin a kithawi ka namsau tawh a khuapi-te ka ngim hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -219,18 +219,18 @@
 ### v23
 **EN:** And it shall be unto them as a false divination in their sight, to them that have sworn oaths: but he will call to remembrance the iniquity, that they may be taken.
 
-**TDB77:** Jerusalem khua mite in khat leh khat a kihuh nading uh midangte tawh thukimna nei khin uh ahih manin hih bangin amau’ khuapi a kisawmna thu um lo uh hi. Ahi zongin hih bangin ai a kisan’na in amau’ mawhna a phawk theih nading uh leh amaute a kiman ding ahih lam a theih nading uh lim khat ahi hi.
+**TDB77:** Jerusalem khua mite in khat leh khat a kihuh nading-te midangte tawh thukimna nei khin-te ahih manin hih bangin amau’ khuapi a kisawmna thu um lo-te hi. Ahi zongin hih bangin ai a kisan’na in amau’ mawhna a phawk theih nading-te leh amaute a kiman ding ahih lam a theih nading-te lim khat ahi hi.
 
-**ZVS:** Jerusalem khuamite in khatlekhat a kihuhna ding uh midangte tawh thukimna nei khin uh ahih manin hih bangin amau' khuapi a kisawmna thu umlo uh hi. Ahi zongin hih bangin ai a kisanna pen amau' mawhna a phawktheihna ding uh leh amaute a kiman ding ahihlam a theihna ding uh lim khat ahi hi.
+**ZVS:** Jerusalem khuamite in khatlekhat a kihuhna ding-te midangte tawh thukimna nei khin-te ahih manin hih bangin amau' khuapi a kisawmna thu umlo-te hi. Ahi zongin hih bangin ai a kisanna pen amau' mawhna a phawktheihna ding-te leh amaute a kiman ding ahihlam a theihna ding-te lim khat ahi hi.
 
 **Grammar:** completed: already done | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** Therefore thus saith the Lord
 
-**TDB77:** Tua ahih ciangin Topa Pasian ahi keimah in ka gen thu in; Na mawhna teng uh tu-in hong kipholak hi. Na mawhna uh mi khempeuh in thei hi. Na gamtatna panun na mawhna uh kilang hi. Mawhsakna a thuak ding na hita uh a, na galte uh khut sungah a hong pia ding ka hi hi.
+**TDB77:** Tua ahih ciangin Topa Pasian ahi keimah in ka gen thu in; Na mawhna teng-te tu-in hong kipholak hi. Na mawhna-te mi khempeuh in thei hi. Na gamtatna panun na mawhna-te kilang hi. Mawhsakna a thuak ding na hita-te a, na galte-te khut sungah a hong pia ding ka hi hi.
 
-**ZVS:** Tua ahih ciangin Topa { Pasian } ahi keimah in ka gen thu pen: Na mawhnateng uh tu-in hong kipholak hi. Na mawhna uh mi khempeuh in thei hi. Na gamtatna panun na mawhna uh kilang hi. Mawhsakna a thuak ding na hita uh a, na galte uh khutsungah a hong pia ding ka hi hi.
+**ZVS:** Tua ahih ciangin Topa { Pasian } ahi keimah in ka gen thu pen: Na mawhnateng-te tu-in hong kipholak hi. Na mawhna-te mi khempeuh in thei hi. Na gamtatna panun na mawhna-te kilang hi. Mawhsakna a thuak ding na hita-te a, na galte-te khutsungah a hong pia ding ka hi hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -271,18 +271,18 @@
 ### v29
 **EN:** Whiles they see vanity unto thee, whiles they divine a lie unto thee, to bring thee upon the necks of them that are slain, of the wicked, whose day is come, when their iniquity shall have an end.
 
-**TDB77:** No Ammon mite aw, a siangtho lo, mi gilote, a daantuah nading uh hun tungta ahih manin, sumai gawp un, ci-in a hong hanthawn, na mangmuhnate uh zuaupi hi a, na ai phate uh a mawkna hi.
+**TDB77:** No Ammon mite aw, a siangtho lo, mi gilote, a daantuah nading-te hun tungta ahih manin, sumai gawp un, ci-in a hong hanthawn, na mangmuhnate-te zuaupi hi a, na ai phate-te a mawkna hi.
 
-**ZVS:** No Ammon mite aw, a siangtholo, migilote, gim a tuahna ding uh a hun tungta ahih manin sumaigawp un, ci-in a hong hanthawn, na maangmuhnate uh zuaupi hi a, na ai phate uh a mawkna ahi hi.
+**ZVS:** No Ammon mite aw, a siangtholo, migilote, gim a tuahna ding-te a hun tungta ahih manin sumaigawp un, ci-in a hong hanthawn, na maangmuhnate-te zuaupi hi a, na ai phate-te a mawkna ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | plural: uh marker
 
 ### v30
 **EN:** Shall I cause it to return into his sheath? I will judge thee in the place where thou wast created, in the land of thy nativity.
 
-**TDB77:** Do dingin kithawi vet kei un la, na namsau uh a paai-ah siatkik zaw un. Note na pian’na gam, na suahna mun uhah, thu a hong khen ding ka hi hi.
+**TDB77:** Do dingin kithawi vet kei un la, na namsau-te a paai-ah siatkik zaw un. Note na pian’na gam, na suahna mun uhah, thu a hong khen ding ka hi hi.
 
-**ZVS:** “A do dingin kithawi vet kei un la na namsau uh a paai-ah siatkik zaw un. Note na pian'na gam, na suahna mun uhah, thu a hong khen ding ka hi hi.
+**ZVS:** “A do dingin kithawi vet kei un la na namsau-te a paai-ah siatkik zaw un. Note na pian'na gam, na suahna mun uhah, thu a hong khen ding ka hi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -298,9 +298,9 @@
 ### v32
 **EN:** Thou shalt be for fuel to the fire; thy blood shall be in the midst of the land; thou shalt be no more remembered: for I the
 
-**TDB77:** Mei in note hong kangtum ding a, note’ gam mah-ah na sisan uh luang-in, kuamah in hong phawk kha nawn lo ding hi. Topa in ci hi, ci-in gen in,” hong ci hi.
+**TDB77:** Mei in note hong kangtum ding a, note’ gam mah-ah na sisan-te luang-in, kuamah in hong phawk kha nawn lo ding hi. Topa in ci hi, ci-in gen in,” hong ci hi.
 
-**ZVS:** Mei in note hong kangtum ding a, note' gam mahah na sisan uh luangin, kuamah in note hong phawkkha nawnlo ding hi, { Topa } in ci hi, ci-in gen in,” a hong ci hi.
+**ZVS:** Mei in note hong kangtum ding a, note' gam mahah na sisan-te luangin, kuamah in note hong phawkkha nawnlo ding hi, { Topa } in ci hi, ci-in gen in,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 

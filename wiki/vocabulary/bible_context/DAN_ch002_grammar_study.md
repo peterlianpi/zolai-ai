@@ -46,7 +46,7 @@
 ### v3
 **EN:** And the king said unto them, I have dreamed a dream, and my spirit was troubled to know the dream.
 
-**TDB77:** Amaute hong pai uh a, kumpipa mai-ah a din’ uh ciangin kumpipa in, “Mang khat ka man a, tua ka mang pen bang hiam cih thei nuam ka hih manin ka lungsim a patau mahmah hi,” a ci hi.
+**TDB77:** Amaute hong pai-te a, kumpipa mai-ah a din’ uh ciangin kumpipa in, “Mang khat ka man a, tua ka mang pen bang hiam cih thei nuam ka hih manin ka lungsim a patau mahmah hi,” a ci hi.
 
 **ZVS:** Amaute hong pai-in kumpipa mai-ah a din' uh ciangin kumpipa in, “Mang khat ka man a, tua ka mang pen bang hiam cih theinuam ka hih manin ka lungsim a patau mahmah hi,” a ci hi.
 
@@ -55,52 +55,52 @@
 ### v4
 **EN:** Then spake the Chaldeans to the king in Syriack, O king, live for ever: tell thy servants the dream, and we will shew the interpretation.
 
-**TDB77:** Amaute in Aram pau tawh, “Kumpipa aw, na khan’ sau ta hen! Na mang hong gen leteh a khiatna kong gen ding uh hi,” a ci uh hi.
+**TDB77:** Amaute in Aram pau tawh, “Kumpipa aw, na khan’ sau ta hen! Na mang hong gen leteh a khiatna kong gen ding-te hi,” a ci-te hi.
 
-**ZVS:** Amaute in Aram pau tawh, “Kumpipa aw, na khan' sau hen! Na mang hong gen leteh a khiatna zong kong gen ding uh hi,” a ci uh hi.
+**ZVS:** Amaute in Aram pau tawh, “Kumpipa aw, na khan' sau hen! Na mang hong gen leteh a khiatna zong kong gen ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v5
 **EN:** The king answered and said to the Chaldeans, The thing is gone from me: if ye will not make known unto me the dream, with the interpretation thereof, ye shall be cut in pieces, and your houses shall be made a dunghill.
 
-**TDB77:** Kumpipa in, “Ka mangmat leh a khiatna nong gen theih kei uh leh note kong semnen gawp ding a, na inn uh suksiat gawp dingin ka ngaihsun khin zo hi.
+**TDB77:** Kumpipa in, “Ka mangmat leh a khiatna nong gen theih kei-te leh note kong semnen gawp ding a, na inn-te suksiat gawp dingin ka ngaihsun khin zo hi.
 
-**ZVS:** Kumpipa in, “Ka mangmat leh a khiatna nong gen theih kei uh leh note kong semnengawp ding a, na inn uh suksiatgawp dingin ka ngaihsun khinzo hi.
+**ZVS:** Kumpipa in, “Ka mangmat leh a khiatna nong gen theih kei-te leh note kong semnengawp ding a, na inn-te suksiatgawp dingin ka ngaihsun khinzo hi.
 
 **Grammar:** purpose: in order to
 
 ### v6
 **EN:** But if ye shew the dream, and the interpretation thereof, ye shall receive of me gifts and rewards and great honour: therefore shew me the dream, and the interpretation thereof.
 
-**TDB77:** Ahi zongin ka mangmat leh a khiatna nong gen theih uh leh, letsong leh minphatna lianpi ka hong pia ding hi. Tua ahih ciangin tu-in ka mangmat bang hi a, a khiatna bang ahi hiam cih hong gen un,” a ci hi.
+**TDB77:** Ahi zongin ka mangmat leh a khiatna nong gen theih-te leh, letsong leh minphatna lianpi ka hong pia ding hi. Tua ahih ciangin tu-in ka mangmat bang hi a, a khiatna bang ahi hiam cih hong gen un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will
 
 ### v7
 **EN:** They answered again and said, Let the king tell his servants the dream, and we will shew the interpretation of it.
 
-**TDB77:** Amaute in, “Kumpipa aw, na mang hong gen phot leteh a khiatna ka hong gen ding uh hi,” ci-in a dawngkik uh hi.
+**TDB77:** Amaute in, “Kumpipa aw, na mang hong gen phot leteh a khiatna ka hong gen ding-te hi,” ci-in a dawngkik-te hi.
 
-**ZVS:** Amaute in, “Kumpipa aw, na mang hong gen phot leteh a khiatna ka hong gen thei pan ding uh hi,” ci-in a dawngkik uh hi.
+**ZVS:** Amaute in, “Kumpipa aw, na mang hong gen phot leteh a khiatna ka hong gen thei pan ding-te hi,” ci-in a dawngkik-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v8
 **EN:** The king answered and said, I know of certainty that ye would gain the time, because ye see the thing is gone from me.
 
-**TDB77:** Kumpipa in “Ka ngaihsutna sa teng hong zasak khin zo ka hih manin hunsau theihtheih nang a zong na hih lam uh tel takin kithei hi.
+**TDB77:** Kumpipa in “Ka ngaihsutna sa teng hong zasak khin zo ka hih manin hunsau theihtheih nang a zong na hih lam-te tel takin kithei hi.
 
-**ZVS:** Kumpipa in, “Ka ngaihsutsa teng hong zasak khinzo ka hih manin hun sau theihtheihna ding a zong na hihlam uh teltakin kithei hi.
+**ZVS:** Kumpipa in, “Ka ngaihsutsa teng hong zasak khinzo ka hih manin hun sau theihtheihna ding a zong na hihlam-te teltakin kithei hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix
 
 ### v9
 **EN:** But if ye will not make known unto me the dream, there is but one decree for you: for ye have prepared lying and corrupt words to speak before me, till the time be changed: therefore tell me the dream, and I shall know that ye can shew me the interpretation thereof.
 
-**TDB77:** Ka mangmat nong gen kei uh leh note khempeuh thukhenna khat bek ka hong pia ding hi. No teng khempeuh in lungsim kikhat in zuau thu gengen leng a ngaihsutna hong kikhel ding hi a ci nuam na hi tazen uh hi. Tua ahih ciangin ka mangmat hong gen phot un, tua hi leh a khiatna zong hong gen thei ding ci-in ka hong muang ding hi,” a ci hi.
+**TDB77:** Ka mangmat nong gen kei-te leh note khempeuh thukhenna khat bek ka hong pia ding hi. No teng khempeuh in lungsim kikhat in zuau thu gengen leng a ngaihsutna hong kikhel ding hi a ci nuam na hi tazen-te hi. Tua ahih ciangin ka mangmat hong gen phot un, tua hi leh a khiatna zong hong gen thei ding ci-in ka hong muang ding hi,” a ci hi.
 
-**ZVS:** Ka mangmat nong gen theih kei uh leh note khempeuh thukhenna khat bek ka hong pia ding hi. Noteng khempeuh in lungsim kikhatin zuauthu gengen leeng a ngaihsutna hong kikheel ding hi, a ci nuam na hi tazen uh hi. Tua ahih ciangin ka mangmat hong gen phot un. Tua hi leh a khiatna zong hong gen thei ding ci-in ka hong muang pan ding hi,” a ci hi.
+**ZVS:** Ka mangmat nong gen theih kei-te leh note khempeuh thukhenna khat bek ka hong pia ding hi. Noteng khempeuh in lungsim kikhatin zuauthu gengen leeng a ngaihsutna hong kikheel ding hi, a ci nuam na hi tazen-te hi. Tua ahih ciangin ka mangmat hong gen phot un. Tua hi leh a khiatna zong hong gen thei ding ci-in ka hong muang pan ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -116,9 +116,9 @@
 ### v11
 **EN:** And it is a rare thing that the king requireth, and there is none other that can shew it before the king, except the gods, whose dwelling is not with flesh.
 
-**TDB77:** Kumpipa’ thu dotna pen haksa lua mahmah ahih manin, mihing ahi lo pasiante longal a gen thei ding kuamah om lo hi,” a ci uh hi.
+**TDB77:** Kumpipa’ thu dotna pen haksa lua mahmah ahih manin, mihing ahi lo pasiante longal a gen thei ding kuamah om lo hi,” a ci-te hi.
 
-**ZVS:** Kumpipa' thudotna pen haksa lua mahmah ahih manin, mihing a hilo pasian-te longal a gen thei ding kuamah omlo hi,” a ci uh hi.
+**ZVS:** Kumpipa' thudotna pen haksa lua mahmah ahih manin, mihing a hilo pasian-te longal a gen thei ding kuamah omlo hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | negation: lo | causal: because | plural: uh marker
 
@@ -134,9 +134,9 @@
 ### v13
 **EN:** And the decree went forth that the wise men should be slain; and they sought Daniel and his fellows to be slain.
 
-**TDB77:** Tua ahih ciangin mi pilte khempeuh thahlup khit nang thu kipia a, tua thahlup dingte sungah Daniel leh a lawmte teng zong a kihel uh hi.
+**TDB77:** Tua ahih ciangin mi pilte khempeuh thahlup khit nang thu kipia a, tua thahlup dingte sungah Daniel leh a lawmte teng zong a kihel-te hi.
 
-**ZVS:** Tua ahih ciangin mipilte khempeuh thahlup khitna ding thu kipia a, tua thahlup dingte sungah Daniel leh a lawmte zong a kihel uh ahi hi.
+**ZVS:** Tua ahih ciangin mipilte khempeuh thahlup khitna ding thu kipia a, tua thahlup dingte sungah Daniel leh a lawmte zong a kihel-te ahi hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -394,9 +394,9 @@
 ### v43
 **EN:** And whereas thou sawest iron mixed with miry clay, they shall mingle themselves with the seed of men: but they shall not cleave one to another, even as iron is not mixed with clay.
 
-**TDB77:** Sik leh tungman kigawm na muh mah bangin tua kumpi gam’ukte in kigawm ding hanciamin zi leh ta-in a kiman ding uh hi. Ahih hangin sik leh tungman a kimat theih loh mah bangin a kigawm thei kei ding uh hi.
+**TDB77:** Sik leh tungman kigawm na muh mah bangin tua kumpi gam’ukte in kigawm ding hanciamin zi leh ta-in a kiman ding-te hi. Ahih hangin sik leh tungman a kimat theih loh mah bangin a kigawm thei kei ding-te hi.
 
-**ZVS:** Sik leh tungman kigawm na muh mah bangin tua kumpi gam ukte in kigawm ding hanciamin zileta-in a kimat ding uh hi. Ahih hangin sik leh tungman a kimat theihloh mah bangin a kigawm thei kei ding uh hi.
+**ZVS:** Sik leh tungman kigawm na muh mah bangin tua kumpi gam ukte in kigawm ding hanciamin zileta-in a kimat ding-te hi. Ahih hangin sik leh tungman a kimat theihloh mah bangin a kigawm thei kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

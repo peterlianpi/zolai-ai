@@ -35,9 +35,9 @@
 ### v2
 **EN:** And the king called the Gibeonites, and said unto them; (now the Gibeonites were not of the children of Israel, but of the remnant of the Amorites; and the children of Israel had sworn unto them: and Saul sought to slay them in his zeal to the children of Israel and Judah.)
 
-**TDB77:** Tua ahih ciangin kumpipa in Gibeon mite sam hi. Tu-in Gibeon mite in Israel mite sung hi loin Amor mi a om laite ahi uh hi; amaute a hingkhawi ding Israel mite kiciam khin napi-in, Israel leh Judah mite ading a deih luatna-in Saul in amaute thah dingin zong hi.
+**TDB77:** Tua ahih ciangin kumpipa in Gibeon mite sam hi. Tu-in Gibeon mite in Israel mite sung hi loin Amor mi a om laite ahi-te hi; amaute a hingkhawi ding Israel mite kiciam khin napi-in, Israel leh Judah mite ading a deih luatna-in Saul in amaute thah dingin zong hi.
 
-**ZVS:** Tua ahih ciangin kumpipa in Gibeon mite sam hi. Tu-in Gibeon mite pen Israel-te' sung hiloin Amor mi a omlaite ahi uh hi. Amaute a hingkhawi ding Israel mite kiciam khin napi-in, Israel leh Judah mite-a' ding a deih luatna-in Saul in amaute thah dingin hanciam hi.
+**ZVS:** Tua ahih ciangin kumpipa in Gibeon mite sam hi. Tu-in Gibeon mite pen Israel-te' sung hiloin Amor mi a omlaite ahi-te hi. Amaute a hingkhawi ding Israel mite kiciam khin napi-in, Israel leh Judah mite-a' ding a deih luatna-in Saul in amaute thah dingin hanciam hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -53,9 +53,9 @@
 ### v4
 **EN:** And the Gibeonites said unto him, We will have no silver nor gold of Saul, nor of his house; neither for us shalt thou kill any man in Israel. And he said, What ye shall say, that will I do for you.
 
-**TDB77:** Gibeon mite in ama kiangah, “Kote leh Saul ahi a, a innkuan tawh ahi zongin kikal ah kitotna om pen ngun leh kham in maisak zo lo ding hi; Israelte sungah mi khatpeuh ka thah hangun zong lungkim zawh nading om lo hi,” a ci uh hi. Tua ciangin amah in, “Note ading kong hihsak ding bang hi ci na hi uh hiam?” a ci hi.
+**TDB77:** Gibeon mite in ama kiangah, “Kote leh Saul ahi a, a innkuan tawh ahi zongin kikal ah kitotna om pen ngun leh kham in maisak zo lo ding hi; Israelte sungah mi khatpeuh ka thah hangun zong lungkim zawh nading om lo hi,” a ci-te hi. Tua ciangin amah in, “Note ading kong hihsak ding bang hi ci na hi-te hiam?” a ci hi.
 
-**ZVS:** Gibeon mite in ama kiangah, “Kote leh Saul ahi a, a innkuan tawh kikalah ahi zongin kitotna a om pen ngun leh kham in maisak zolo ding hi. Israel-te sungah mi khatpeuh ka thah hangun zong lungkim zawhna ding omlo hi,” a ci uh hi. Tua ciangin amah in, “Note-a' ding kong hihsak ding bang hi, ci na hi uh hiam?” a ci hi.
+**ZVS:** Gibeon mite in ama kiangah, “Kote leh Saul ahi a, a innkuan tawh kikalah ahi zongin kitotna a om pen ngun leh kham in maisak zolo ding hi. Israel-te sungah mi khatpeuh ka thah hangun zong lungkim zawhna ding omlo hi,” a ci-te hi. Tua ciangin amah in, “Note-a' ding kong hihsak ding bang hi, ci na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -71,9 +71,9 @@
 ### v6
 **EN:** Let seven men of his sons be delivered unto us, and we will hang them up unto the
 
-**TDB77:** Topa’ mual tung, Topa mai Gibeon-ah amaute ka khai theih nadingun ama tapa sagihte hong pia in,” a ci uh hi. Tua ciangin kumpipa in, “Amaute kong pia ding hi,” a ci hi.
+**TDB77:** Topa’ mual tung, Topa mai Gibeon-ah amaute ka khai theih nadingun ama tapa sagihte hong pia in,” a ci-te hi. Tua ciangin kumpipa in, “Amaute kong pia ding hi,” a ci hi.
 
-**ZVS:** { Topa' } mualtung, { Topa' } mai Gibeon-ah amaute ka khai theihna dingun ama tapa sagihte hong pia in,” a ci uh hi. Tua ciangin kumpipa in, “Amaute kong pia ding hi,” a ci hi.
+**ZVS:** { Topa' } mualtung, { Topa' } mai Gibeon-ah amaute ka khai theihna dingun ama tapa sagihte hong pia in,” a ci-te hi. Tua ciangin kumpipa in, “Amaute kong pia ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** And he delivered them into the hands of the Gibeonites, and they hanged them in the hill before the
 
-**TDB77:** amah in Gibeon mite tungah amaute pia a, amaute in Topa mai mual tungah amaute khai uh hi, amau sagihte si khawm uh hi. Mangbuhham lak kipat hun, an lak kipat cil lamin amaute kithat hi.
+**TDB77:** amah in Gibeon mite tungah amaute pia a, amaute in Topa mai mual tungah amaute khai-te hi, amau sagihte si khawm-te hi. Mangbuhham lak kipat hun, an lak kipat cil lamin amaute kithat hi.
 
-**ZVS:** Amah in Gibeon mite tungah amaute pia a, amaute in { Topa' } mai mualtungah amaute khai uh a, amau sagihte sikhawm uh hi. Mangbuhham lak kipat hun, anlak kipat cil lamin amaute kithat hi.
+**ZVS:** Amah in Gibeon mite tungah amaute pia a, amaute in { Topa' } mai mualtungah amaute khai-te a, amau sagihte sikhawm-te hi. Mangbuhham lak kipat hun, anlak kipat cil lamin amaute kithat hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -132,27 +132,27 @@
 ### v13
 **EN:** And he brought up from thence the bones of Saul and the bones of Jonathan his son; and they gathered the bones of them that were hanged.
 
-**TDB77:** amah in tua lai panin Saul’ guhte leh a tapa Jonathan’ guhte paipih to hi; amaute in a kikhai mite’ guh zong kaikhawm uh hi.
+**TDB77:** amah in tua lai panin Saul’ guhte leh a tapa Jonathan’ guhte paipih to hi; amaute in a kikhai mite’ guh zong kaikhawm-te hi.
 
-**ZVS:** Amah in tua lai panin Saul' guhte leh a tapa Jonathan' guhte paipihto hi. Amaute in a kikhai mi sagihte' guh zong kaikhawm uh hi.
+**ZVS:** Amah in tua lai panin Saul' guhte leh a tapa Jonathan' guhte paipihto hi. Amaute in a kikhai mi sagihte' guh zong kaikhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And the bones of Saul and Jonathan his son buried they in the country of Benjamin in Zelah, in the sepulchre of Kish his father: and they performed all that the king commanded. And after that God was entreated for the land.
 
-**TDB77:** Tua ciangin amaute in Zela khua sung Benjamin’ leitang, a pa Kish’ han sungah Saul leh a tapa Jonathan’ guhte phum uh hi; amaute in kumpipa’ thupiak khempeuh hih uh hi. Tua khit ciangin tua gam ading thuumnate Pasian in ngai hi.
+**TDB77:** Tua ciangin amaute in Zela khua sung Benjamin’ leitang, a pa Kish’ han sungah Saul leh a tapa Jonathan’ guhte phum-te hi; amaute in kumpipa’ thupiak khempeuh hih-te hi. Tua khit ciangin tua gam ading thuumnate Pasian in ngai hi.
 
-**ZVS:** Tua ciangin amaute in Zela khuasung Benjamin' leitang, a pa Kish' han sungah Saul leh a tapa Jonathan' guhte phum uh a, amaute in kumpipa' thupiak khempeuh hih uh hi. Tua khit ciangin tua gam-a' ding thumnate Pasian in a ngai hi.
+**ZVS:** Tua ciangin amaute in Zela khuasung Benjamin' leitang, a pa Kish' han sungah Saul leh a tapa Jonathan' guhte phum-te a, amaute in kumpipa' thupiak khempeuh hih-te hi. Tua khit ciangin tua gam-a' ding thumnate Pasian in a ngai hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Moreover the Philistines had yet war again with Israel; and David went down, and his servants with him, and fought against the Philistines: and David waxed faint.
 
-**TDB77:** Filistiate in Israelte tawh gal kido kik uh a, David a nasemte tawh paisuk khawmin Filistiate sim uh hi; Tua ciangin David gim hi.
+**TDB77:** Filistiate in Israelte tawh gal kido kik-te a, David a nasemte tawh paisuk khawmin Filistiate sim-te hi; Tua ciangin David gim hi.
 
-**ZVS:** Filistia-te, Israel-te tawh kidokik uh a, David a nasemte tawh paisuk khawmin Filistia-te a sim uh hi. Tua galkidona-ah David gim mahmah hi.
+**ZVS:** Filistia-te, Israel-te tawh kidokik-te a, David a nasemte tawh paisuk khawmin Filistia-te a sim-te hi. Tua galkidona-ah David gim mahmah hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -166,9 +166,9 @@
 ### v17
 **EN:** But Abishai the son of Zeruiah succoured him, and smote the Philistine, and killed him. Then the men of David sware unto him, saying, Thou shalt go no more out with us to battle, that thou quench not the light of Israel.
 
-**TDB77:** Ahih hangin amah huh dingin Zeru-iah’ tapa Abishai hong pai a, Filistiapa simin amah that hi. Tua ciangin David mite in amah kunhin, “Galdo dingin ko tawh nong kuankhia nawn kei ding hi, tua hi kei leh Israel mite’ muan’ leh suan’pa kong taan kha ding uh hi,” a ci hi.
+**TDB77:** Ahih hangin amah huh dingin Zeru-iah’ tapa Abishai hong pai a, Filistiapa simin amah that hi. Tua ciangin David mite in amah kunhin, “Galdo dingin ko tawh nong kuankhia nawn kei ding hi, tua hi kei leh Israel mite’ muan’ leh suan’pa kong taan kha ding-te hi,” a ci hi.
 
-**ZVS:** Ahih hangin amah a huh dingin Zeruiah' tapa Abishai hong pai a, Filistia-pa simin amah a that hi. Tua ciangin David' mite in amah kunh-in, “Galsim dingin ko tawh nong kuankhia nawn kei ding hi. Hong kuan lecin Israel mite' muan' leh suan'pa kong taan khading uh hi,” a ci uh hi.
+**ZVS:** Ahih hangin amah a huh dingin Zeruiah' tapa Abishai hong pai a, Filistia-pa simin amah a that hi. Tua ciangin David' mite in amah kunh-in, “Galsim dingin ko tawh nong kuankhia nawn kei ding hi. Hong kuan lecin Israel mite' muan' leh suan'pa kong taan khading-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | negation: kei | plural: uh marker
 
@@ -209,9 +209,9 @@
 ### v22
 **EN:** These four were born to the giant in Gath, and fell by the hand of David, and by the hand of his servants.
 
-**TDB77:** Hih lite in Gath-a mi thagolte’ sung pan-a piang ahi uh hi, David leh a nasemte’ khut sungah amaute tuk uh hi.
+**TDB77:** Hih lite in Gath-a mi thagolte’ sung pan-a piang ahi-te hi, David leh a nasemte’ khut sungah amaute tuk-te hi.
 
-**ZVS:** Hih mi lite pen Gath-a mithagolte' sung pana piang ahi uh hi. David leh a nasemte in amaute a that uh hi.
+**ZVS:** Hih mi lite pen Gath-a mithagolte' sung pana piang ahi-te hi. David leh a nasemte in amaute a that-te hi.
 
 **Grammar:** plural: uh marker
 

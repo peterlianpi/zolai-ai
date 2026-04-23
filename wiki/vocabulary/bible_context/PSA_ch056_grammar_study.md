@@ -36,7 +36,7 @@
 
 **TDB77:** sunthapai-in ka galte in kei hong tuancil a, kiphatsakna tawh mi tampi in kei hong do hi.
 
-**ZVS:** Sunthapai-in ka galte in kei hong tuancil uh a, kiphatsakna tawh mi tampi in kei hong do hi.
+**ZVS:** Sunthapai-in ka galte in kei hong tuancil-te a, kiphatsakna tawh mi tampi in kei hong do hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -55,18 +55,18 @@
 ### v5
 **EN:** Every day they wrest my words: all their thoughts are against me for evil.
 
-**TDB77:** Amaute in ka vai siatsak ding sunthapai-in hanciam uh a, amau’ ngaihsutnate khempeuh uh keima siat nading ahi hi.
+**TDB77:** Amaute in ka vai siatsak ding sunthapai-in hanciam-te a, amau’ ngaihsutnate khempeuh-te keima siat nading ahi hi.
 
-**ZVS:** Amaute in ka vai siatsak ding sunthapai-in hanciam uh a, amau' ngaihsutnate khempeuh keima siatna ding ahi hi.
+**ZVS:** Amaute in ka vai siatsak ding sunthapai-in hanciam-te a, amau' ngaihsutnate khempeuh keima siatna ding ahi hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v6
 **EN:** They gather themselves together, they hide themselves, they mark my steps, when they wait for my soul.
 
-**TDB77:** Amaute kikai khawmin hong buk uh hi, ka kalsuanna hong encik uh hi. Amaute in keimah hong thah ding a hanciam uh bangin,
+**TDB77:** Amaute kikai khawmin hong buk-te hi, ka kalsuanna hong encik-te hi. Amaute in keimah hong thah ding a hanciam-te bangin,
 
-**ZVS:** Amaute kikaikhawmin keimah hong buk uh a, ka gamtatna khempeuh hong encik uh hi. Amaute in keimah thah ding a hanciam uh bangin,
+**ZVS:** Amaute kikaikhawmin keimah hong buk-te a, ka gamtatna khempeuh hong encik-te hi. Amaute in keimah thah ding a hanciam-te bangin,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -107,7 +107,7 @@
 
 **TDB77:** lunghihmawhna khat zong nei loin Pasian ka muang hi. Mi in kei bang hong cih thei ding ahi hiam?
 
-**ZVS:** lunghihmawhna khat zong nei hetloin Pasian ka muang hi. Mihing lellelte in kei, bang hong cihzo ding ahi uh hiam?
+**ZVS:** lunghihmawhna khat zong nei hetloin Pasian ka muang hi. Mihing lellelte in kei, bang hong cihzo ding ahi-te hiam?
 
 ### v12
 **EN:** Thy vows are upon me, O God: I will render praises unto thee.

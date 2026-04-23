@@ -204,9 +204,9 @@
 ### v22
 **EN:** Of Dan, Azareel the son of Jeroham. These were the princes of the tribes of Israel.
 
-**TDB77:** Dan adingin Jeroham’ tapa Azarel ahi hi. Hihte in Israel minamte’ makaite ahi uh hi.
+**TDB77:** Dan adingin Jeroham’ tapa Azarel ahi hi. Hihte in Israel minamte’ makaite ahi-te hi.
 
-**ZVS:** Dan mite-a' dingin Jehoram' tapa Azarel ahi hi. Hihte pen Israel minamte' makaite ahi uh hi.
+**ZVS:** Dan mite-a' dingin Jehoram' tapa Azarel ahi hi. Hihte pen Israel minamte' makaite ahi-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -283,7 +283,7 @@
 ### v31
 **EN:** And over the flocks was Jaziz the Hagarite. All these were the rulers of the substance which was king David's.
 
-**TDB77:** Tuuhonte tungah Hagri mi Jaziz ahi hi. Hihte khempeuh in Kumpi David’ neihsa a kemte ahi uh hi.
+**TDB77:** Tuuhonte tungah Hagri mi Jaziz ahi hi. Hihte khempeuh in Kumpi David’ neihsa a kemte ahi-te hi.
 
 **ZVS:** Hihte khempeuh pen Kumpi David' neihsa a kemte ahi hi.
 
@@ -292,9 +292,9 @@
 ### v32
 **EN:** Also Jonathan David's uncle was a counsellor, a wise man, and a scribe: and Jehiel the son of Hachmoni was with the king's sons:
 
-**TDB77:** David’ pano Jonathan in thu thei mi leh lai thei mi ahih manin thu-lam-lakpa ahi hi; amah leh Hakmoni’ tapa Jehiel in kumpipa’ tapate cing uh hi.
+**TDB77:** David’ pano Jonathan in thu thei mi leh lai thei mi ahih manin thu-lam-lakpa ahi hi; amah leh Hakmoni’ tapa Jehiel in kumpipa’ tapate cing-te hi.
 
-**ZVS:** David' pano Jonathan pen thuthei mi leh laithei mi ahih manin thu lamlakpa ahi hi. Amah leh Hakmoni' tapa Jehiel in kumpipa' tapate cing uh hi.
+**ZVS:** David' pano Jonathan pen thuthei mi leh laithei mi ahih manin thu lamlakpa ahi hi. Amah leh Hakmoni' tapa Jehiel in kumpipa' tapate cing-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
@@ -308,9 +308,9 @@
 ### v34
 **EN:** And after Ahithophel was Jehoiada the son of Benaiah, and Abiathar: and the general of the king's army was Joab.
 
-**TDB77:** Ahithofel a sih ciangin Benaiah’ tapa Jehoiada leh Abiathar in laih uh hi. Joab in kumpipa’ galkapte a ukpa ahi hi.
+**TDB77:** Ahithofel a sih ciangin Benaiah’ tapa Jehoiada leh Abiathar in laih-te hi. Joab in kumpipa’ galkapte a ukpa ahi hi.
 
-**ZVS:** Ahithofel a sih ciangin Benaiah' tapa Jehoiada leh Abiathar in laih uh hi. Joab pen kumpipa' galkapte a ukpa ahi hi.
+**ZVS:** Ahithofel a sih ciangin Benaiah' tapa Jehoiada leh Abiathar in laih-te hi. Joab pen kumpipa' galkapte a ukpa ahi hi.
 
 **Grammar:** plural: uh marker
 

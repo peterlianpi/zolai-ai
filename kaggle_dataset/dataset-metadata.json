@@ -1,0 +1,10 @@
+{
+  "id": "zolai-language-dataset-v2",
+  "ref": "peterpausianlian/zolai-language-dataset-v2",
+  "title": "Zolai Language Dataset v2",
+  "licenses": [
+    {
+      "name": "CC0-1.0"
+    }
+  ]
+}

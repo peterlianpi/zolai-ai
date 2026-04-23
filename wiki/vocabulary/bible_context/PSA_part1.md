@@ -44,9 +44,7 @@
 
 ### gah hun = season for fruit, proper time
 **Context:** Refers to the appointed time when fruit is produced.
-**Example:** ama gah hunin gah a
-
-### vul = to wither, to dry up
+**Example:** ama gah hunin gah a ### vul = to wither, to dry up
 **Context:** Used in the negative ('a teh a vul lo') meaning the leaf will not wither.
 **Example:** a teh a vul lo singkung tawh kibang hi.
 
@@ -56,11 +54,11 @@
 
 ### huit = wind
 **Context:** Used in comparison to the ungodly being driven away like chaff by the wind.
-**Example:** huih letkhiat ansi tawh kibang uh hi.
+**Example:** huih letkhiat ansi tawh kibang-te hi.
 
 ### letkhiat = to drive away, to scatter
 **Context:** The action of the wind scattering the chaff (anvai).
-**Example:** huih letkhiat ansi tawh kibang uh hi.
+**Example:** huih letkhiat ansi tawh kibang-te hi.
 
 ### thukhenna = judgment
 **Context:** The context where the ungodly will fail to stand.
@@ -88,7 +86,7 @@
 
 ### sathau nilhpa = anointed one (Messiah/Christ)
 **Context:** Refers to God's anointed one, whom the kings oppose.
-**Example:** Topa leh ama sathau nilhpa langpangin vaihawm uh a
+**Example:** Topa leh ama sathau nilhpa langpangin vaihawm-te a
 
 ### hennate = bonds, restraints
 **Context:** What the rulers wish to break off from themselves.
@@ -100,9 +98,7 @@
 
 ### nuihsan = to laugh at, to mock, to deride
 **Context:** The reaction of the one who sits in heaven towards the earthly rulers.
-**Example:** Vantunga tu-pa in nuihsan a
-
-### zahko = to hold in derision, to scorn
+**Example:** Vantunga tu-pa in nuihsan a ### zahko = to hold in derision, to scorn
 **Context:** The Lord's action towards those who oppose Him.
 **Example:** tua Topa in amaute zahko hi.
 
@@ -151,7 +147,7 @@
 - **luitui luang gei-a kisuan** = planted by the banks of flowing rivers
   - Usage: A metaphor for stability and nourishment, describing the righteous person.
 
-- **huih letkhiat ansi tawh kibang uh hi** = they are like the chaff which the wind drives away
+- **huih letkhiat ansi tawh kibang-te hi** = they are like the chaff which the wind drives away
   - Usage: A simile contrasting the fate of the ungodly with the stability of the righteous.
 
 - **thukhenna nang zo lo ding** = will not be able to stand in judgment
@@ -171,11 +167,11 @@
 
 - **Ahih leh [subject] ahih leh tua bang hi lo a, [comparison phrase].**
   - A contrastive structure introduced by 'Ahih leh' (But/However), setting up a direct comparison between the righteous and the ungodly.
-  - Example: Migilote ahih leh tua bang hi lo a, huih letkhiat ansi tawh kibang uh hi.
+  - Example: Migilote ahih leh tua bang hi lo a, huih letkhiat ansi tawh kibang-te hi.
 
 - **[Subject] in [Object] [Verb] a, [Object] [Verb].**
   - A common narrative structure showing sequential actions, often used when describing the actions of the rulers in Chapter 2.
-  - Example: Leitung kumpite leh gam ukte in, Topa leh ama sathau nilhpa langpangin vaihawm uh a,
+  - Example: Leitung kumpite leh gam ukte in, Topa leh ama sathau nilhpa langpangin vaihawm-te a,
 
 - **Tua ciangin [circumstance], [subject] in [action], [result/manner].**
   - Indicates a consequence or subsequent action following a preceding event (e.g., God speaking after the rulers conspire).

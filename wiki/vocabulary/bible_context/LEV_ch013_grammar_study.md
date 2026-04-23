@@ -480,9 +480,9 @@
 ### v54
 **EN:** Then the priest shall command that they wash the thing wherein the plague is, and he shall shut it up seven days more:
 
-**TDB77:** tua ciangin siampipa in tua natna a ban’na na pen amaute in a sawp nading uh thupia ding a, amah in adang ni sagih sung mah tua na koihcip ding hi;
+**TDB77:** tua ciangin siampipa in tua natna a ban’na na pen amaute in a sawp nading-te thupia ding a, amah in adang ni sagih sung mah tua na koihcip ding hi;
 
-**ZVS:** siampipa in tua natna a ban'na pen amaute in a sawp ding uh thu pia ding a, amah in adang ni sagih sung mah tua na koihcip ding hi.
+**ZVS:** siampipa in tua natna a ban'na pen amaute in a sawp ding-te thu pia ding a, amah in adang ni sagih sung mah tua na koihcip ding hi.
 
 **Grammar:** sequence: then/therefore | future: will
 
@@ -491,7 +491,7 @@
 
 **TDB77:** siampipa in tua natna a ban’na na pen a kisawp khit ciangin vel ding hi. Tua natna a ban’na mun a meel a kikhel kei leh, a natna a kizelh loh hangin tua in a nin ahi hi; tua natna pen a sung lamah ahi a, a pua lamah ahi zongin a ban’ leh mei sungah tua puan na hal ding hi.
 
-**ZVS:** Siampipa in tua natna a ban'na pen a kisawp khit ciangin vel ding hi. Tua natna a ban'na mun a mel a kikhel kei leh, a natna a kizelh loh hangin tua pen a nin mah ahi hi. Tua natna pen a sunglamah ahi a, a pualamah ahi zongin a baan' leh mei sungah tua puan na hal ding uh hi.
+**ZVS:** Siampipa in tua natna a ban'na pen a kisawp khit ciangin vel ding hi. Tua natna a ban'na mun a mel a kikhel kei leh, a natna a kizelh loh hangin tua pen a nin mah ahi hi. Tua natna pen a sunglamah ahi a, a pualamah ahi zongin a baan' leh mei sungah tua puan na hal ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -509,7 +509,7 @@
 
 **TDB77:** tua ciangin a puan tung hita leh puan a tung a phei tungah hita leh savun tawh a kibawl na khatpeuh peuh tungah a kilat kik leh, tua in a kizelh ahi hi; natna a ban’na na pen mei tawh na hal ding hi.
 
-**ZVS:** Tua ciangin a puan tung hita leh puan a tung a phei tungah hita leh savun tawh a kibawl na khat peuhpeuh tungah a kilatkik leh, tua natna a kizel ahih manin natna a baan'na pen mei tawh na hal ding uh hi.
+**ZVS:** Tua ciangin a puan tung hita leh puan a tung a phei tungah hita leh savun tawh a kibawl na khat peuhpeuh tungah a kilatkik leh, tua natna a kizel ahih manin natna a baan'na pen mei tawh na hal ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix
 

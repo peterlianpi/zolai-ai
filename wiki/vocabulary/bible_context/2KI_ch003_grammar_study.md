@@ -74,9 +74,9 @@
 ### v7
 **EN:** And he went and sent to Jehoshaphat the king of Judah, saying, The king of Moab hath rebelled against me: wilt thou go with me against Moab to battle? And he said, I will go up: I am as thou art, my people as thy people, and my horses as thy horses.
 
-**TDB77:** Tua ciangin amah pai-in Judah kumpi Jehoshafat kiangah thu puak a, “Moab kumpipa in kei hong lehdo hi; Moab gam a sim dingin kei tawh nong kuan ding hiam?” a ci hi. Tua ciangin amah in, “Kong kuan ding hi; keimah akipanin ka mite leh ka sakolte in nangma’ aa ka hi uh hi,” a ci hi.
+**TDB77:** Tua ciangin amah pai-in Judah kumpi Jehoshafat kiangah thu puak a, “Moab kumpipa in kei hong lehdo hi; Moab gam a sim dingin kei tawh nong kuan ding hiam?” a ci hi. Tua ciangin amah in, “Kong kuan ding hi; keimah akipanin ka mite leh ka sakolte in nangma’ aa ka hi-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin amah pai-in Judah kumpi Jehoshafat kiangah thu zasak a, “Moab kumpipa in kei hong lehdo hi; Moab gam a sim dingin kei tawh nong kuan ding hiam?” a ci hi. Tua ciangin amah in, “Kong kuan ding hi; keimah-a kipan ka mite leh ka sakolte nangma-a' ka hi uh hi,” a ci hi.
+**ZVS:** Tua ciangin amah pai-in Judah kumpi Jehoshafat kiangah thu zasak a, “Moab kumpipa in kei hong lehdo hi; Moab gam a sim dingin kei tawh nong kuan ding hiam?” a ci hi. Tua ciangin amah in, “Kong kuan ding hi; keimah-a kipan ka mite leh ka sakolte nangma-a' ka hi-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -92,9 +92,9 @@
 ### v9
 **EN:** So the king of Israel went, and the king of Judah, and the king of Edom: and they fetched a compass of seven days' journey: and there was no water for the host, and for the cattle that followed them.
 
-**TDB77:** Tua ahih ciangin Judah kumpipa leh Edom kumpipa tawh Israel kumpipa pai hi. Amaute ni sagih sung a kual paikhit uh ciangin galkapte hita leh amaute a zui ganhingte’ ading hita leh tui om lo hi.
+**TDB77:** Tua ahih ciangin Judah kumpipa leh Edom kumpipa tawh Israel kumpipa pai hi. Amaute ni sagih sung a kual paikhit-te ciangin galkapte hita leh amaute a zui ganhingte’ ading hita leh tui om lo hi.
 
-**ZVS:** Tua ahih ciangin Judah kumpipa leh Edom kumpipa tawh Israel kumpipa a kuan hi. Amaute ni sagih sung a kual pai khit uh ciangin galkapte hita leh amaute a zui ganhingte-a' ding hita leh tui omlo hi.
+**ZVS:** Tua ahih ciangin Judah kumpipa leh Edom kumpipa tawh Israel kumpipa a kuan hi. Amaute ni sagih sung a kual pai khit-te ciangin galkapte hita leh amaute a zui ganhingte-a' ding hita leh tui omlo hi.
 
 **Grammar:** sequence: then/therefore | negation: lo
 
@@ -119,9 +119,9 @@
 ### v12
 **EN:** And Jehoshaphat said, The word of the
 
-**TDB77:** Tua ciangin Jehoshafat in, “Topa’ thu in amah tawh om hi,” a ci hi. Tua ahih ciangin Israel kumpipa leh Jehoshafat leh Edom kumpipa ama kiangah paisuk uh hi.
+**TDB77:** Tua ciangin Jehoshafat in, “Topa’ thu in amah tawh om hi,” a ci hi. Tua ahih ciangin Israel kumpipa leh Jehoshafat leh Edom kumpipa ama kiangah paisuk-te hi.
 
-**ZVS:** Tua ciangin Jehoshafat in, “Amah pen { Topa' } kamsang man taktak ahi hi,” a ci hi. Tua ahih ciangin Israel kumpipa leh Jehoshafat leh Edom kumpipa ama kiangah paisuk uh hi.
+**ZVS:** Tua ciangin Jehoshafat in, “Amah pen { Topa' } kamsang man taktak ahi hi,” a ci hi. Tua ahih ciangin Israel kumpipa leh Jehoshafat leh Edom kumpipa ama kiangah paisuk-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -196,63 +196,63 @@
 ### v21
 **EN:** And when all the Moabites heard that the kings were come up to fight against them, they gathered all that were able to put on armour, and upward, and stood in the border.
 
-**TDB77:** Amaute a sim dingin kumpite a kuan tohna thu Moab mite khempeuh in a zak uh ciangin, a moipen panin a hampen dongin galhiam a tawi thei khempeuh kisamkhia uh a, gamgi ah kikhawm uh hi.
+**TDB77:** Amaute a sim dingin kumpite a kuan tohna thu Moab mite khempeuh in a zak-te ciangin, a moipen panin a hampen dongin galhiam a tawi thei khempeuh kisamkhia-te a, gamgi ah kikhawm-te hi.
 
-**ZVS:** Amaute a sim dingin kumpite a kuantohna thu Moab mite khempeuh in a zak uh ciangin, a moipen panin a hampen dongin galhiam a tawi thei khempeuh kisamkhia uh a, gamgi-ah kikhawm uh hi.
+**ZVS:** Amaute a sim dingin kumpite a kuantohna thu Moab mite khempeuh in a zak-te ciangin, a moipen panin a hampen dongin galhiam a tawi thei khempeuh kisamkhia-te a, gamgi-ah kikhawm-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And they rose up early in the morning, and the sun shone upon the water, and the Moabites saw the water on the other side as red as blood:
 
-**TDB77:** A zingciang zingsang tungin amaute tho-in, tui tungah ni a taan’ ciangin, Moab mite in amau’ gal khatah a om tuite pen sisan bangin a sanin mu uh hi.
+**TDB77:** A zingciang zingsang tungin amaute tho-in, tui tungah ni a taan’ ciangin, Moab mite in amau’ gal khatah a om tuite pen sisan bangin a sanin mu-te hi.
 
-**ZVS:** A zing ciang zingsang tungin amaute tho-in, tui tungah ni a taan' ciangin, Moab mite in amau' galkhatah a om tuite pen sisan bangin a sanin mu uh hi.
+**ZVS:** A zing ciang zingsang tungin amaute tho-in, tui tungah ni a taan' ciangin, Moab mite in amau' galkhatah a om tuite pen sisan bangin a sanin mu-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v23
 **EN:** And they said, This is blood: the kings are surely slain, and they have smitten one another: now therefore, Moab, to the spoil.
 
-**TDB77:** Tua ciangin amaute in, “Hih in sisan ahi hi; kumpite khat leh khat kidoin, khat leh khat kithat hi taktak ding hi. Tua ahih ciangin tu-in, Moabte aw, vankinusiate va la ni!” a ci uh hi.
+**TDB77:** Tua ciangin amaute in, “Hih in sisan ahi hi; kumpite khat leh khat kidoin, khat leh khat kithat hi taktak ding hi. Tua ahih ciangin tu-in, Moabte aw, vankinusiate va la ni!” a ci-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in, “Hua pen sisan ahi hi; kumpite khatlekhat kido-in, khatlekhat kithat hi taktak ding hi. Tua ahih ciangin tu-in, Moab-te aw, vankinusiate va la ni!” a ci uh hi.
+**ZVS:** Tua ahih ciangin amaute in, “Hua pen sisan ahi hi; kumpite khatlekhat kido-in, khatlekhat kithat hi taktak ding hi. Tua ahih ciangin tu-in, Moab-te aw, vankinusiate va la ni!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And when they came to the camp of Israel, the Israelites rose up and smote the Moabites, so that they fled before them: but they went forward smiting the Moabites, even in their country.
 
-**TDB77:** Ahih hangin Israelte’ giahphual ah amaute a tun’ uh ciangin, amaute’ mai-ah a taikhiat matengin Israel mite hong kipanin Moab mite do uh hi; tua ciangin amaute mai nawtin pai-in a pai kawmun Moab mite that uh hi.
+**TDB77:** Ahih hangin Israelte’ giahphual ah amaute a tun’ uh ciangin, amaute’ mai-ah a taikhiat matengin Israel mite hong kipanin Moab mite do-te hi; tua ciangin amaute mai nawtin pai-in a pai kawmun Moab mite that-te hi.
 
-**ZVS:** Ahih hangin Israel-te' giahphualah amaute a tun' uh ciangin, amaute' mai-ah a taikhiat matengin Israel mite hong kipanin Moab mite a do uh hi. Tua ciangin amaute mainawtin pai-in a paikawmun Moab mite that uh hi.
+**ZVS:** Ahih hangin Israel-te' giahphualah amaute a tun' uh ciangin, amaute' mai-ah a taikhiat matengin Israel mite hong kipanin Moab mite a do-te hi. Tua ciangin amaute mainawtin pai-in a paikawmun Moab mite that-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And they beat down the cities, and on every good piece of land cast every man his stone, and filled it; and they stopped all the wells of water, and felled all the good trees: only in Kir–hareseth left they the stones thereof; howbeit the slingers went about it, and smote it.
 
-**TDB77:** Tua ciangin amaute in khuapite lawnthal uh a, suang in a khuhcip dongin leitang tung khempeuhah mi khempeuh in suang lawn uh hi; amaute in tuinak khempeuh khakcip uh a, singkung hoih khempeuh phuk uh hi; Kirhareseth ah a suangtumte bek a om dongin suanglotna tawite in umcihin vatgawp uh hi.
+**TDB77:** Tua ciangin amaute in khuapite lawnthal-te a, suang in a khuhcip dongin leitang tung khempeuhah mi khempeuh in suang lawn-te hi; amaute in tuinak khempeuh khakcip-te a, singkung hoih khempeuh phuk-te hi; Kirhareseth ah a suangtumte bek a om dongin suanglotna tawite in umcihin vatgawp-te hi.
 
-**ZVS:** Tua ciangin amaute in khuapite lawnthal uh a, a suang in a khuhcip dongin leitang tung khempeuhah mi khempeuh in suang lawn uh hi. Amaute in tuinak khempeuh khakcip uh a, singkung hoih khempeuh phuk uh hi. Kirhareseth-ah a suangtumte bek a om dongin suanglotna a tawite in umcihin vatgawp uh hi.
+**ZVS:** Tua ciangin amaute in khuapite lawnthal-te a, a suang in a khuhcip dongin leitang tung khempeuhah mi khempeuh in suang lawn-te hi. Amaute in tuinak khempeuh khakcip-te a, singkung hoih khempeuh phuk-te hi. Kirhareseth-ah a suangtumte bek a om dongin suanglotna a tawite in umcihin vatgawp-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** And when the king of Moab saw that the battle was too sore for him, he took with him seven hundred men that drew swords, to break through even unto the king of Edom: but they could not.
 
-**TDB77:** Moab kumpipa in galsimna pen amah a kihihna ahih lam a theih ciangin, Edom kumpipa’ santak a phukhia dingin namsau tawi mihing zasagih la hi; ahih hangin amaute in phukhia zo lo uh hi.
+**TDB77:** Moab kumpipa in galsimna pen amah a kihihna ahih lam a theih ciangin, Edom kumpipa’ santak a phukhia dingin namsau tawi mihing zasagih la hi; ahih hangin amaute in phukhia zo lo-te hi.
 
-**ZVS:** Moab kumpipa in a lelhlam a kitheih ciangin, Edom kumpipa' san tak a phukhia dingin namsau tawi mihing za sagih a la hi. Ahih hangin amaute in phukhia zolo uh hi.
+**ZVS:** Moab kumpipa in a lelhlam a kitheih ciangin, Edom kumpipa' san tak a phukhia dingin namsau tawi mihing za sagih a la hi. Ahih hangin amaute in phukhia zolo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** Then he took his eldest son that should have reigned in his stead, and offered him for a burnt offering upon the wall. And there was great indignation against Israel: and they departed from him, and returned to their own land.
 
-**TDB77:** Tua ciangin amah in ama tangin a uk ding a tapa upa pen la-in kulh tungah meihal biakna-in pia hi. Israel mite in tua bang gamtatna a muh uh ciangin a lungsim uh sukha mahmah a, amau’ kiang panin nungkikin a gamah ciahkik uh hi.
+**TDB77:** Tua ciangin amah in ama tangin a uk ding a tapa upa pen la-in kulh tungah meihal biakna-in pia hi. Israel mite in tua bang gamtatna a muh-te ciangin a lungsim-te sukha mahmah a, amau’ kiang panin nungkikin a gamah ciahkik-te hi.
 
-**ZVS:** Tua ciangin amah in ama tangin a uk ding a ta upa pen la-in kulh tungah meihal biakna-in a pia hi. Israel mite in tua bangin a gamtatna a muh uh ciangin a lungsim uh sukha mahmah a, amau' kiang panin nungkikin a gamah a ciahkik uh hi.
+**ZVS:** Tua ciangin amah in ama tangin a uk ding a ta upa pen la-in kulh tungah meihal biakna-in a pia hi. Israel mite in tua bangin a gamtatna a muh-te ciangin a lungsim-te sukha mahmah a, amau' kiang panin nungkikin a gamah a ciahkik-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

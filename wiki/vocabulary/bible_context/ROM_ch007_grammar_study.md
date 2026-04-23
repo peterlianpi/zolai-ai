@@ -27,14 +27,14 @@
 ### v1
 **EN:** Know ye not, brethren, (for I speak to them that know the law,) how that the law hath dominion over a man as long as he liveth?
 
-**TDB77:** Thukham a thei ute naute aw, mi khat a nuntak lai takin thukham in tua mi a uk hi cih thei lo na hi uh hiam?
+**TDB77:** Thukham a thei ute naute aw, mi khat a nuntak lai takin thukham in tua mi a uk hi cih thei lo na hi-te hiam?
 
-**ZVS:** Lawmte aw, note khempeuh in thukham thei na hih manun tu-a kong gen dingte na tel mahmah ding uh hi. Mi khat a nuntak sungteng bek thukham in uk thei hi.
+**ZVS:** Lawmte aw, note khempeuh in thukham thei na hih manun tu-a kong gen dingte na tel mahmah ding-te hi. Mi khat a nuntak sungteng bek thukham in uk thei hi.
 
 ### v2
 **EN:** For the woman which hath an husband is bound by the law to her husband so long as he liveth; but if the husband be dead, she is loosed from the law of her husband.
 
-**TDB77:** Bang hang hiam na cih uh leh, pasal a nei numei in a pasal a sih matengin thukham bangin a pasal tawh a kikhih khawm hi. A pasal a sih leh, numei in a pasal’ thukham tawh a kipelh hi.
+**TDB77:** Bang hang hiam na cih-te leh, pasal a nei numei in a pasal a sih matengin thukham bangin a pasal tawh a kikhih khawm hi. A pasal a sih leh, numei in a pasal’ thukham tawh a kipelh hi.
 
 **ZVS:** Gentehna-in, pasal nei numei khat pen a pasal a nuntak sungteng bek, tua thukham in a pasal tawh lencip hi. Ahi zongin a pasal a sih ciangin tua a pasal tawh a lencip thukham panin a suakta hi.
 
@@ -52,9 +52,9 @@
 ### v4
 **EN:** Wherefore, my brethren, ye also are become dead to the law by the body of Christ; that ye should be married to another, even to him who is raised from the dead, that we should bring forth fruit unto God.
 
-**TDB77:** Tua mah bangin ka ute ka naute aw, note in zong midang a kici sihna pan a thokik mi’ zi na hi uh a, Pasian’ deihna bangin gah na gah nadingun Khazih’ pumpi hangin na si uh a, Thukham tawh na kikhen uh hi.
+**TDB77:** Tua mah bangin ka ute ka naute aw, note in zong midang a kici sihna pan a thokik mi’ zi na hi-te a, Pasian’ deihna bangin gah na gah nadingun Khazih’ pumpi hangin na si-te a, Thukham tawh na kikhen-te hi.
 
-**ZVS:** Sanggamte aw, note zong tua mah tawh a kibang na hi uh hi. Khrih tawh pumkhat na hihna uh hangin thukham tawh kisai thu-ah a sikhin na hi uh a, Pasian' nasepna-ah eite a man nei i suahtheihna dingin sihna panin a kithosak kik Khrih tawh nupa na hi uh hi.
+**ZVS:** Sanggamte aw, note zong tua mah tawh a kibang na hi-te hi. Khrih tawh pumkhat na hihna-te hangin thukham tawh kisai thu-ah a sikhin na hi-te a, Pasian' nasepna-ah eite a man nei i suahtheihna dingin sihna panin a kithosak kik Khrih tawh nupa na hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -79,7 +79,7 @@
 ### v7
 **EN:** What shall we say then? Is the law sin? God forbid. Nay, I had not known sin, but by the law: for I had not known lust, except the law had said, Thou shalt not covet.
 
-**TDB77:** Tua bang ahih leh, bang i ci gen ding hiam? Thukham in mawhna ahi i ci ding hiam? Tua bang hi zenzen lo hi. Ahi zongin thukham bek hangin mawhna lungsim ka thei hi. Bang hang hiam na cih uh leh, “Huaihamna lungsim nei kei in,” ci-in Thukham in na ci kei leh, huaihamna lungsim ke’n ka thei kei ding hi.
+**TDB77:** Tua bang ahih leh, bang i ci gen ding hiam? Thukham in mawhna ahi i ci ding hiam? Tua bang hi zenzen lo hi. Ahi zongin thukham bek hangin mawhna lungsim ka thei hi. Bang hang hiam na cih-te leh, “Huaihamna lungsim nei kei in,” ci-in Thukham in na ci kei leh, huaihamna lungsim ke’n ka thei kei ding hi.
 
 **ZVS:** Tua ahih leh Thukham mahmah pen a siahuai ahi hiam? A sia hilo hi. Mawhna bang hiam cih Thukham in hong theitel sak hi. Thukham in, “Hazatna lungsim nei kei in,” ci-in genlo hi leh, haza i cih bang ahi hiam, ci-in ka thei kei ding hi.
 
@@ -115,7 +115,7 @@
 ### v11
 **EN:** For sin, taking occasion by the commandment, deceived me, and by it slew me.
 
-**TDB77:** Bang hang hiam na cih uh leh, mawhna in thukham hangin thu ngah a, thukhamna tawh hong kheemin hong that hi.
+**TDB77:** Bang hang hiam na cih-te leh, mawhna in thukham hangin thu ngah a, thukhamna tawh hong kheemin hong that hi.
 
 **ZVS:** Bang hang hiam cih leh thukham a om manin mawhna in nuamtaksa a, kei hong khemin tua thukham tawh a hong that hi.
 
@@ -129,7 +129,7 @@
 ### v13
 **EN:** Was then that which is good made death unto me? God forbid. But sin, that it might appear sin, working death in me by that which is good; that sin by the commandment might become exceeding sinful.
 
-**TDB77:** Tua bang ahih leh, a hoih a pha na in keima tungah sihna a suak ahi hiam? Tua bang hi zenzen lo hi. Mawhna in mawhna taktak ahihna a kilat nadingin a pha nate hangin keima sungah sihna thu a piangsak hi. Bang hang hiam na cih uh leh, mawhna in thukham hangin mawhna taktak a pian’ theih nading ahi hi.
+**TDB77:** Tua bang ahih leh, a hoih a pha na in keima tungah sihna a suak ahi hiam? Tua bang hi zenzen lo hi. Mawhna in mawhna taktak ahihna a kilat nadingin a pha nate hangin keima sungah sihna thu a piangsak hi. Bang hang hiam na cih-te leh, mawhna in thukham hangin mawhna taktak a pian’ theih nading ahi hi.
 
 **ZVS:** Tua ahih leh a hoih na khat in kei' sihna ding hong piangsak ahi hiam? Hilo hi. Tua sihna pen mawhna' nasepna hi a, mawhna pianzia bangci bang taktak hiam, cih a kitheihna dingin a hoih na khat zangin kei tungah sihna a hong piangsak ahi hi. Tua ahih manin thukham a om manin mawhna a siahuai mahmah ahihna hong kilangzaw kan lai hi.
 
@@ -147,7 +147,7 @@
 ### v15
 **EN:** For that which I do I allow not: for what I would, that do I not; but what I hate, that do I.
 
-**TDB77:** Bang hang hiam na cih uh leh, ka gamtatna ka thei kei hi. Ka gamtat nop bangin ka gamta kei hi. Ka muhdah gamtatna ka hih hi.
+**TDB77:** Bang hang hiam na cih-te leh, ka gamtatna ka thei kei hi. Ka gamtat nop bangin ka gamta kei hi. Ka muhdah gamtatna ka hih hi.
 
 **ZVS:** Ka hihnopteng hihkha loin ka hih noplohteng keek mah hih zawsop ka hih manin keima gamtatna mahmah zong ka tel thei kei hi.
 

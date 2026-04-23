@@ -36,12 +36,12 @@ To maintain pure Zolai Tedim literacy, the system MUST filter out the following 
 
 | Avoid (Non-Tedim) | Prefer (Pure Tedim ZVS) | Grammatical Category |
 | :--- | :--- | :--- |
-| **cu / cun** | **tua** | That / Then (Demonstrative) |
-| **pathian** | **pasian** | God (Proper Noun) |
-| **bawipa** | **topa** | Lord / Master |
-| **fapa** | **tapa** | Son |
-| **ram** | **gam** | Country / Land |
-| **siangpahrang** | **kumpipa** | King / Ruler |
+| **tua / tua** | **tua** | That / Then (Demonstrative) |
+| **pasian** | **pasian** | God (Proper Noun) |
+| **topa** | **topa** | Lord / Master |
+| **tapa** | **tapa** | Son |
+| **gam** | **gam** | Country / Land |
+| **kumpipa** | **kumpipa** | King / Ruler |
 | **bia** | **thu** | Word / Message |
 | **ka hmu** | **ka mu** | See (Verb) |
 
@@ -58,7 +58,7 @@ English often uses "The [Noun] that [Subject] [Verb]".
 Zolai avoids the passive voice where possible.
 - **English:** "It is said that..."
 - **Direct (Avoid):** `Kici hi...`
-- **Natural (Prefer):** `Mi te'n gen uh hi...` (People say...) or `Kizakna ah...` (In what is heard...).
+- **Natural (Prefer):** `Mi te'n gen-te hi...` (People say...) or `Kizakna ah...` (In what is heard...).
 
 ### C. The "Resultative Stack" (Action Logic)
 Zolai describes the *process* and the *result* in a single stack.
@@ -150,7 +150,7 @@ Zolai uses rhythmic reduplication to indicate intensity, persistence, or descrip
 ### V. Formal Request/Exhortation: "Kong thuum hi"
 Used to translate "I beseech you" or "I entreat you" in a formal, high-register context.
 - **Pattern:** `[Subject] [Object] [Action] nadingun kong thuum hi.`
-- **Example:** "I beseech you... confirm your love" -> `ama it takpi uh na kilatsak nadingun kong thuum hi.` (2CO 2:8)
+- **Example:** "I beseech you... confirm your love" -> `ama it takpi-te na kilatsak nadingun kong thuum hi.` (2CO 2:8)
 
 ### W. The "Maleep" (Seal/Earnest/Guarantee)
 Specialized theological term for a down-payment or guarantee, specifically used for the Holy Spirit.
@@ -244,15 +244,15 @@ The following table is the authoritative list of forbidden vs. preferred terms p
 
 | Avoid (Non-Tedim) | Prefer (Pure Tedim ZVS) | Category |
 | :--- | :--- | :--- |
-| **pathian** | **pasian** | God |
-| **bawipa** | **topa** | Lord / Master |
-| **fapa** | **tapa** | Son |
-| **ram** | **gam** | Country / Land |
-| **siangpahrang** | **kumpipa** | King / Ruler |
-| **cu / cun** | **tua** | That / Then (Demonstrative) |
+| **pasian** | **pasian** | God |
+| **topa** | **topa** | Lord / Master |
+| **tapa** | **tapa** | Son |
+| **gam** | **gam** | Country / Land |
+| **kumpipa** | **kumpipa** | King / Ruler |
+| **tua / tua** | **tua** | That / Then (Demonstrative) |
 
 **Negation rule:** Use `kei` (not `lo`) for conditional negation: `nong pai kei a leh` — NEVER `kei a leh`.
-**Plural rule:** Never combine `uh` with `i` (we). `I pai hi` is correct; `I pai uh hi` is wrong.
+**Plural rule:** Never combine `uh` with `i` (we). `I pai hi` is correct; `I pai-te hi` is wrong.
 
 ---
 
@@ -575,7 +575,7 @@ Translating the "Worthy" acclamation.
 - **Term:** `Gimna lianpi` (Great suffering/tribulation).
 - **Ref:** REV 7:14.
 
-### CU. The New Creation: "Van thak leh Lei thak"
+### tua. The New Creation: "Van thak leh Lei thak"
 - **Term:** `Van thak leh lei thak` (New heaven and new earth).
 - **Ref:** REV 21:1.
 

@@ -69,9 +69,9 @@
 ### v6
 **EN:** Be strong and of a good courage: for unto this people shalt thou divide for an inheritance the land, which I sware unto their fathers to give them.
 
-**TDB77:** Thahat in la hang in; bang hang hiam cih leh amaute piak dingin a pate uh tungah ka ciam leitang hih mite na luahsak ding hi.
+**TDB77:** Thahat in la hang in; bang hang hiam cih leh amaute piak dingin a pate-te tungah ka ciam leitang hih mite na luahsak ding hi.
 
-**ZVS:** Thahat in la, hang in; bang hang hiam cih leh amaute piak dingin a pu a pate uh tungah ka ciam leitang hih mite na luahsak ding hi.
+**ZVS:** Thahat in la, hang in; bang hang hiam cih leh amaute piak dingin a pu a pate-te tungah ka ciam leitang hih mite na luahsak ding hi.
 
 **Grammar:** purpose: in order to | future: will
 
@@ -114,9 +114,9 @@
 ### v11
 **EN:** Pass through the host, and command the people, saying, Prepare you victuals; for within three days ye shall pass over this Jordan, to go in to possess the land, which the
 
-**TDB77:** “Giahphual-ah pai un la, mite thu pia-in, ‘Na lam-an ding uh kiging khol un; bang hang hiam cih leh Topa na Pasian un na neih dingun note hong piak leitangah pai-in a luah dingin ni thum sungin hih Jordan a galkah ding na hi uh hi,’ ci un,” a ci hi.
+**TDB77:** “Giahphual-ah pai un la, mite thu pia-in, ‘Na lam-an ding-te kiging khol un; bang hang hiam cih leh Topa na Pasian un na neih dingun note hong piak leitangah pai-in a luah dingin ni thum sungin hih Jordan a galkah ding na hi-te hi,’ ci un,” a ci hi.
 
-**ZVS:** “Giahphuaah pai un la, mite thu pia-in, ‘Na lam-an ding uh kigingkhol un; bang hang hiam cih leh { Topa } na Pasian un na neih dingun note hong piak leitangah pai-in a luah dingin ni thum sungin hih Jordan a galkah ding na hi uh hi,’ ci un,” a ci hi.
+**ZVS:** “Giahphuaah pai un la, mite thu pia-in, ‘Na lam-an ding-te kigingkhol un; bang hang hiam cih leh { Topa } na Pasian un na neih dingun note hong piak leitangah pai-in a luah dingin ni thum sungin hih Jordan a galkah ding na hi-te hi,’ ci un,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -139,43 +139,43 @@
 ### v14
 **EN:** Your wives, your little ones, and your cattle, shall remain in the land which Moses gave you on this side Jordan; but ye shall pass before your brethren armed, all the mighty men of valour, and help them;
 
-**TDB77:** Moses in Jordan gal khata note hong piak leitangah na zite, na taneute, leh na ganhingte uh a na om ding uh hi; ahih hangin note lakah galhang mi khempeuh in hiam tawi-in Jordan kantanin na sanggamte uh mai-ah pai-in,
+**TDB77:** Moses in Jordan gal khata note hong piak leitangah na zite, na taneute, leh na ganhingte-te a na om ding-te hi; ahih hangin note lakah galhang mi khempeuh in hiam tawi-in Jordan kantanin na sanggamte-te mai-ah pai-in,
 
-**ZVS:** Moses in Jordan galkhata note hong piak leitangah na zite uh, na taneute uh, leh na ganhingte uh a na om ding uh hi. Ahih hangin note lakah galhang mi khempeuh in hiam tawi-in Jordan kantanin na sanggamte uh mai-ah pai-in,
+**ZVS:** Moses in Jordan galkhata note hong piak leitangah na zite uh, na taneute uh, leh na ganhingte-te a na om ding-te hi. Ahih hangin note lakah galhang mi khempeuh in hiam tawi-in Jordan kantanin na sanggamte-te mai-ah pai-in,
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v15
 **EN:** Until the
 
-**TDB77:** note hong piak bangin Topa in na sanggamte uh tungah tawlngakna pia-in, Topa na Pasian un amaute a piak leitang amaute in zong a luah mateng na huh ding uh hi; tua ciangin note’ neih leitangah ciah kikin, Topa’ nasem Moses in Jordan gal ni suahna lamah note hong piak leitang na luah ding uh hi,” a ci hi.
+**TDB77:** note hong piak bangin Topa in na sanggamte-te tungah tawlngakna pia-in, Topa na Pasian un amaute a piak leitang amaute in zong a luah mateng na huh ding-te hi; tua ciangin note’ neih leitangah ciah kikin, Topa’ nasem Moses in Jordan gal ni suahna lamah note hong piak leitang na luah ding-te hi,” a ci hi.
 
-**ZVS:** note hong piak bangin { Topa } in na sanggamte uh tungah tawlngakna pia-in, { Topa } na Pasian un amaute a piak leitang amaute in zong a luah mateng uh na huh ding uh hi. Tua ciangin note' neih leitangah ciahkikin, { Topa' } nasem Moses in Jordan gal ni a suahna lamah note hong piak leitang na luah ding uh hi,” a ci hi.
+**ZVS:** note hong piak bangin { Topa } in na sanggamte-te tungah tawlngakna pia-in, { Topa } na Pasian un amaute a piak leitang amaute in zong a luah mateng-te na huh ding-te hi. Tua ciangin note' neih leitangah ciahkikin, { Topa' } nasem Moses in Jordan gal ni a suahna lamah note hong piak leitang na luah ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And they answered Joshua, saying, All that thou commandest us we will do, and whithersoever thou sendest us, we will go.
 
-**TDB77:** Amaute in Joshua dawngin, “Kote nong thupiak khempeuh ka hih ding uh a, nong sawlna peuhpeuhah ka pai ding uh hi.
+**TDB77:** Amaute in Joshua dawngin, “Kote nong thupiak khempeuh ka hih ding-te a, nong sawlna peuhpeuhah ka pai ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v17
 **EN:** According as we hearkened unto Moses in all things, so will we hearken unto thee: only the
 
-**TDB77:** Na khempeuhah Moses’ thu ka man’ uh mah bangin nangma thu zong kong mang ding uh hi. Moses a ompih mah bangin Topa na Pasian in nang hong ompih ta hen!
+**TDB77:** Na khempeuhah Moses’ thu ka man’ uh mah bangin nangma thu zong kong mang ding-te hi. Moses a ompih mah bangin Topa na Pasian in nang hong ompih ta hen!
 
-**ZVS:** Na khempeuhah Moses' thu ka man' uh mah bangin nangma thu zong kong mang ding uh hi. Moses a ompih mah bangin { Topa } na Pasian in nang hong ompih ta hen!
+**ZVS:** Na khempeuhah Moses' thu ka man' uh mah bangin nangma thu zong kong mang ding-te hi. Moses a ompih mah bangin { Topa } na Pasian in nang hong ompih ta hen!
 
 **Grammar:** future: will | plural: uh marker
 
 ### v18
 **EN:** Whosoever he be that doth rebel against thy commandment, and will not hearken unto thy words in all that thou commandest him, he shall be put to death: only be strong and of a good courage.
 
-**TDB77:** Na thupiakna leh na thute, na thupiak peuhpeuh hong langpangin a mang lo mipa kithat ding hi. Thahat in la hang in,” a ci uh hi.
+**TDB77:** Na thupiakna leh na thute, na thupiak peuhpeuh hong langpangin a mang lo mipa kithat ding hi. Thahat in la hang in,” a ci-te hi.
 
-**ZVS:** Na thupiakna leh na thute, na thupiak peuhpeuh hong langpangin a manglo mipa kithat ding hi. Thahat in la hang in,” a ci uh hi.
+**ZVS:** Na thupiakna leh na thute, na thupiak peuhpeuh hong langpangin a manglo mipa kithat ding hi. Thahat in la hang in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

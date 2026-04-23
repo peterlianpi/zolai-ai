@@ -60,7 +60,7 @@
 
 ### lutangte = heads/chiefs
 **Context:** Refers to the leaders among the Levites.
-**Example:** Levi mite beh lutangte na hi uh hi
+**Example:** Levi mite beh lutangte na hi-te hi
 
 ### kisiansuah = sanctify yourselves
 **Context:** Reflexive verb meaning to make oneself holy or set apart.
@@ -80,7 +80,7 @@
 
 ### liangko = shoulders
 **Context:** The part of the body used for carrying the Ark.
-**Example:** a liangko uh tungah zawlte tawh
+**Example:** a liangko-te tungah zawlte tawh
 
 ## Phrases & Usage
 
@@ -93,13 +93,13 @@
 - **a sem tawntung dingin** = in order that [it] may serve continually
   - Usage: Expresses the purpose of an action intended to be perpetual.
 
-- **beh lutangte na hi uh hi** = you are the heads of the clans
+- **beh lutangte na hi-te hi** = you are the heads of the clans
   - Usage: A formal declaration identifying the status or role of the addressed individuals.
 
 - **nomau mah kisiansuah tawm un** = you yourselves should sanctify
   - Usage: An imperative or strong suggestion urging self-consecration.
 
-- **a liangko uh tungah zawlte tawh** = with the staves upon their shoulders
+- **a liangko-te tungah zawlte tawh** = with the staves upon their shoulders
   - Usage: Describes the specific method prescribed for carrying the Ark (using poles resting on the shoulders).
 
 ## Grammar Patterns

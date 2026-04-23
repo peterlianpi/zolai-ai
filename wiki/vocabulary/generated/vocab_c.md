@@ -53,7 +53,7 @@
 **Related:** pai, gam, inn, israel, sungah
 **CEFR:** A1
 **Usage:** Attested 21129× across 75 Bible books.
-> *Moses leh Israel upate giahphual ah a ciahkik uh hi.*
+> *Moses leh Israel upate giahphual ah a ciahkik-te hi.*
 > → And Moses gat him into the camp, he and the elders of Israel.
 > `NUM 11:30`
 
@@ -80,7 +80,7 @@
 **Related:** kik, pai, inn, israel, pia
 **CEFR:** A1
 **Usage:** Attested 6874× across 45 Bible books.
-> *a matsa khempeuh uh, mihing ganhing ciahpih khin uh hi.*
+> *a matsa khempeuh uh, mihing ganhing ciahpih khin-te hi.*
 > → And they took all the spoil, and all the prey, both of men and of beasts.
 > `NUM 31:11`
 
@@ -106,7 +106,7 @@
 **Related:** kahlei, kibawl, pang, inndei, hang
 **CEFR:** A1
 **Usage:** Attested 3716× across 34 Bible books.
-> *galkap tawh cial uh a, amaute hong pai-in Medeba khua kiangah phual*
+> *galkap tawh cial-te a, amaute hong pai-in Medeba khua kiangah phual*
 
 ### ciam
 **[v]** assure
@@ -135,7 +135,7 @@
 **Related:** ciam, ciamtehna, ciamtehna akitheihna, ciamnuih siammi, ciamnuih bawlna
 **CEFR:** A1
 **Usage:** Adjective — place before noun or after verb as predicate.
-> *kei tungah hong thumanlo uh hi.*
+> *kei tungah hong thumanlo-te hi.*
 
 ### ciamnasa
 **[n]** mountain
@@ -324,7 +324,7 @@
 **Related:** uhah, israel, pia, nei, pai
 **CEFR:** A1
 **Usage:** Attested 32697× across 93 Bible books.
-> *maitang li leh kha li nei ciat uh hi.*
+> *maitang li leh kha li nei ciat-te hi.*
 > → And every one had four faces, and every one had four wings.
 > `EZK 1:6`
 
@@ -334,7 +334,7 @@
 **Related:** israel, mai, khuapi, jerusalem, levi
 **CEFR:** A1
 **Usage:** Attested 5140× across 36 Bible books.
-> *Mi khempeuhte in kisim dingin amau khua ciatah a pai uh hi.*
+> *Mi khempeuhte in kisim dingin amau khua ciatah a pai-te hi.*
 > → And all went to be taxed, every one into his own city.
 > `LUK 2:3`
 
@@ -390,7 +390,7 @@
 **Related:** kong, hang, cih, israel, gam
 **CEFR:** A1
 **Usage:** Attested 7066× across 19 Bible books.
-> *Ke'n kong cihin-ah, “Note khempeuh, Sangpenpa' tate, pasian-te na hi uh hi.*
+> *Ke'n kong cihin-ah, “Note khempeuh, Sangpenpa' tate, pasian-te na hi-te hi.*
 > → I have said, Ye are gods; and all of you are children of the most High.
 
 ### cihna
@@ -412,7 +412,7 @@
 **Related:** cih, thei, gen, zak, zongin
 **CEFR:** A1
 **Usage:** Attested 6055× across 50 Bible books.
-> *‘Lutangguh Mun’ a cihnopna, ‘Golgotha’ kici munah paipih uh a,*
+> *‘Lutangguh Mun’ a cihnopna, ‘Golgotha’ kici munah paipih-te a,*
 > → And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.
 > `MRK 15:22`
 
@@ -561,7 +561,7 @@
 **Related:** suang
 **CEFR:** A2
 **Usage:** Attested 490× across 12 Bible books.
-> *a kha sagihna sungin a mansiang uh hi.*
+> *a kha sagihna sungin a mansiang-te hi.*
 
 ### ciangciang
 **[n]** earth
@@ -661,7 +661,7 @@
 **Related:** moses, ngam, kua, jesuh
 **CEFR:** A2
 **Usage:** Attested 370× across 12 Bible books.
-> *‘Na cihtak kei uh leh minam dangte lakah kong thehthang ding hi.*
+> *‘Na cihtak kei-te leh minam dangte lakah kong thehthang ding hi.*
 
 ### cihtaklohna
 **[n]** like
@@ -670,7 +670,7 @@
 **Related:** israel, milim, gamtat, teng, sangin
 **CEFR:** A2
 **Usage:** Attested 1285× across 8 Bible books.
-> *Note in na theih uh bangin*
+> *Note in na theih-te bangin*
 
 ### cihte
 **[n]** beforetime
@@ -697,7 +697,7 @@
 **Synonyms:** ornan
 **CEFR:** A2
 **Usage:** Attested 95× across 2 Bible books.
-> *a tapa lite lau-in a bu uh hi.*
+> *a tapa lite lau-in a bu-te hi.*
 
 ### cilphuan
 **[n]** saliva
@@ -815,7 +815,7 @@
 **Related:** kua, maikhingsak, maizumna
 **CEFR:** A2
 **Usage:** Attested 252× across 9 Bible books.
-> *“Ha, ha!” a cite, a maizumna uh tawh maikhingsak in!*
+> *“Ha, ha!” a cite, a maizumna-te tawh maikhingsak in!*
 > → Let them be turned back for a reward of their shame that say, Aha, aha.
 > `PSA 70:3`
 
@@ -833,7 +833,7 @@
 **Meanings:** thus | saith
 **CEFR:** B1
 **Usage:** Attested 15× across 2 Bible books.
-> *nomau khialhna hangin na nu uh kipaikhiasak hi.*
+> *nomau khialhna hangin na nu-te kipaikhiasak hi.*
 
 ### ciak
 **[n]** lions'
@@ -890,7 +890,7 @@
 **[]** delivered
 **Meanings:** delivered | hands | pots | removed | shoulder | burden
 **CEFR:** B1
-> *na khut uh-a na ciangkhaite uh kong khahsak hi.*
+> *na khut uh-a na ciangkhaite-te kong khahsak hi.*
 > `PSA 81:6`
 
 ### ciangkik
@@ -1146,7 +1146,7 @@
 **Synonyms:** lutlo, luttheihna, kisusiasa
 **CEFR:** B1
 **Usage:** Attested 160× across 2 Bible books.
-> *a kisusiasa kulhkongpi-a pai bangin hong lut lel ding uh hi.*
+> *a kisusiasa kulhkongpi-a pai bangin hong lut lel ding-te hi.*
 
 ### cimtaak
 **[adj]** blas
@@ -1239,7 +1239,7 @@
 **Related:** limtakin, israel, kilawm, laizial, lakhia
 **CEFR:** B2
 **Usage:** Attested 505× across 6 Bible books.
-> *Israel mite' mawhna leh a khialh-nateng uh limtakin kiciamteh*
+> *Israel mite' mawhna leh a khialh-nateng-te limtakin kiciamteh*
 
 ### ciangpi
 **[n]** resemblance
@@ -1299,7 +1299,7 @@
 **Meanings:** blasting | smote | mildew | hail | labours | your
 **CEFR:** B2
 **Usage:** Attested 65× across 2 Bible books.
-> *Na an ciin' khempeuh uh cingteek sakin ka kausansak*
+> *Na an ciin' khempeuh-te cingteek sakin ka kausansak*
 
 ## C1 Level (9 words)
 
@@ -1307,7 +1307,7 @@
 **[]** eleven
 **Meanings:** eleven | these | things | rest | returned | sepulchre
 **CEFR:** C1
-> *tua thu khempeuh sawm-le-khatte akipan adang Christiante kiangah a ko uh hi.*
+> *tua thu khempeuh sawm-le-khatte akipan adang Christiante kiangah a ko-te hi.*
 > `LUK 24:9`
 
 ### ciampa

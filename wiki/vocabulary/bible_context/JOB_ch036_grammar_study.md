@@ -84,16 +84,16 @@
 ### v8
 **EN:** And if they be bound in fetters, and be holden in cords of affliction;
 
-**TDB77:** Ahi zongin mite sikkol kibulh a, a gamtatnasate hangin gimna a thuak uh leh,
+**TDB77:** Ahi zongin mite sikkol kibulh a, a gamtatnasate hangin gimna a thuak-te leh,
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v9
 **EN:** Then he sheweth them their work, and their transgressions that they have exceeded.
 
-**TDB77:** Pasian in amau’ mawhna leh a kiphatsaknate uh a lakkhia ahi hi.
+**TDB77:** Pasian in amau’ mawhna leh a kiphatsaknate-te a lakkhia ahi hi.
 
-**ZVS:** Pasian in amau' mawhna leh a kiphatsaknate uh a lakkhia ahi hi.
+**ZVS:** Pasian in amau' mawhna leh a kiphatsaknate-te a lakkhia ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -109,32 +109,32 @@
 
 **TDB77:** Amaute in Pasian' thu mangin ama na sem leh amaute nuam sa-in a khan’ uh sau hi.
 
-**ZVS:** Amaute in Pasian' thu mangin ama na sem le uh amaute nuamsa-in a khan' uh a sau hi.
+**ZVS:** Amaute in Pasian' thu mangin ama na sem le-te amaute nuamsa-in a khan' uh a sau hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v12
 **EN:** But if they obey not, they shall perish by the sword, and they shall die without knowledge.
 
-**TDB77:** Ahi zongin ama thu mang kei le uh, namsau tawh si ding uh a, misite' gam zuan ding uh hi.
+**TDB77:** Ahi zongin ama thu mang kei le uh, namsau tawh si ding-te a, misite' gam zuan ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v13
 **EN:** But the hypocrites in heart heap up wrath: they cry not when he bindeth them.
 
-**TDB77:** “Migilote a heh-in ni tum uh a, gimna a thuak ciang nangawn-un ama huh ding ngen lo uh hi.
+**TDB77:** “Migilote a heh-in ni tum-te a, gimna a thuak ciang nangawn-un ama huh ding ngen lo-te hi.
 
-**ZVS:** “Migilote a hehin nitum uh a, gimna a thuak ciang nangawnun ama huh ding ngenlo uh hi.
+**ZVS:** “Migilote a hehin nitum-te a, gimna a thuak ciang nangawnun ama huh ding ngenlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v14
 **EN:** They die in youth, and their life is among the unclean.
 
-**TDB77:** Amaute khan’sih uh a, zumhuaipi-in bei uh hi.
+**TDB77:** Amaute khan’sih-te a, zumhuaipi-in bei-te hi.
 
-**ZVS:** Amaute khan'sih uh a, a zumhuaipi-in a bei uh hi.
+**ZVS:** Amaute khan'sih-te a, a zumhuaipi-in a bei-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -225,9 +225,9 @@
 ### v25
 **EN:** Every man may see it; man may behold it afar off.
 
-**TDB77:** Mi khempeuh in Pasian’ sepsate mu uh a, thei kim zo loin lamdangsa uh hi.
+**TDB77:** Mi khempeuh in Pasian’ sepsate mu-te a, thei kim zo loin lamdangsa-te hi.
 
-**ZVS:** Mi khempeuh in Pasian' sepsate mu uh a, theikim zolo uh ahih manin lamdang a sa uh hi.
+**ZVS:** Mi khempeuh in Pasian' sepsate mu-te a, theikim zolo-te ahih manin lamdang a sa-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

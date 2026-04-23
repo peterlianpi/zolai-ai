@@ -51,27 +51,27 @@
 ### v4
 **EN:** And I saw thrones, and they sat upon them, and judgment was given unto them: and I saw the souls of them that were beheaded for the witness of Jesus, and for the word of God, and which had not worshipped the beast, neither his image, neither had received his mark upon their foreheads, or in their hands; and they lived and reigned with Christ a thousand years.
 
-**TDB77:** Tua lai takin kumpi tokhomte ka mu hi. Tokhom tungah a tu mite in thukhen theihna a ngah uh hi. Tua tham loin Zeisu’ teci pan’na hang leh Pasian’ thu hangin lu kitanna a thuak mite a nuntakna khate a kipan sahang leh sahang milim bia lo, ama ciamtehna a taltang tung leh khut tungah a nei lo mite nuntakna khate zong ka mu hi. Tua mite in kum tulkhat sung nungta-in, Khazih tawh a mang khawm uh hi.
+**TDB77:** Tua lai takin kumpi tokhomte ka mu hi. Tokhom tungah a tu mite in thukhen theihna a ngah-te hi. Tua tham loin Zeisu’ teci pan’na hang leh Pasian’ thu hangin lu kitanna a thuak mite a nuntakna khate a kipan sahang leh sahang milim bia lo, ama ciamtehna a taltang tung leh khut tungah a nei lo mite nuntakna khate zong ka mu hi. Tua mite in kum tulkhat sung nungta-in, Khazih tawh a mang khawm-te hi.
 
-**ZVS:** Tua ciangin tokhom tungah a tu mi pawlkhat ka mu a, tua mite tungah thukhenna ding aana a kipia ahi hi. Jesuh thu a genna leh Pasian thu hangin a kithat mite' kha zong ka mu hi. Tua mite in ganhing ahi a, a lim ahi zongin bialo uh hi; a taltang uhah ahi a, a khut tung uhah ahi zongin ganhing ciamtehna neilo uh hi. Amaute hong hingkik uh a, Khrih tawh kum tul khat sung ukna aana a neikhawm uh hi.
+**ZVS:** Tua ciangin tokhom tungah a tu mi pawlkhat ka mu a, tua mite tungah thukhenna ding aana a kipia ahi hi. Jesuh thu a genna leh Pasian thu hangin a kithat mite' kha zong ka mu hi. Tua mite in ganhing ahi a, a lim ahi zongin bialo-te hi; a taltang uhah ahi a, a khut tung uhah ahi zongin ganhing ciamtehna neilo-te hi. Amaute hong hingkik-te a, Khrih tawh kum tul khat sung ukna aana a neikhawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** But the rest of the dead lived not again until the thousand years were finished. This is the first resurrection.
 
-**TDB77:** A om lai a si mite in kum tul a cin’ ma-in a nungta kei uh hi. Hih thawhkikna in a masa thawhkikna ahi hi.
+**TDB77:** A om lai a si mite in kum tul a cin’ ma-in a nungta kei-te hi. Hih thawhkikna in a masa thawhkikna ahi hi.
 
-**ZVS:** Kum tul khat a cin'mateng a si dangte hingkiklo uh hi. Hih pen sihna panin thawhkikna a masa ahi hi.
+**ZVS:** Kum tul khat a cin'mateng a si dangte hingkiklo-te hi. Hih pen sihna panin thawhkikna a masa ahi hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | plural: uh marker
 
 ### v6
 **EN:** Blessed and holy is he that hath part in the first resurrection: on such the second death hath no power, but they shall be priests of God and of Christ, and shall reign with him a thousand years.
 
-**TDB77:** A masa thawhkikna-ah a om mi in thupha ngah a, misiangtho ahi hi. Tua mite tungah nihna sihna in neukha beek uk kha lo ding hi. Amaute in Pasian leh Khazih’ siampite suakin amah tawh tua kum tul sung a mang khawm ding uh hi.
+**TDB77:** A masa thawhkikna-ah a om mi in thupha ngah a, misiangtho ahi hi. Tua mite tungah nihna sihna in neukha beek uk kha lo ding hi. Amaute in Pasian leh Khazih’ siampite suakin amah tawh tua kum tul sung a mang khawm ding-te hi.
 
-**ZVS:** Hih thawhkikna masa sungah a kihel mite pen Pasian' mi siangtho hi a, a hampha mahmah ahi uh hi. Nihvei sihna in tua bang mite bangmah cihzo nawnlo ding a, amaute pen Pasian leh Khrih' siampite hi ding uh a, amah tawh kum tul khat sung ukna aana nei ding uh hi.
+**ZVS:** Hih thawhkikna masa sungah a kihel mite pen Pasian' mi siangtho hi a, a hampha mahmah ahi-te hi. Nihvei sihna in tua bang mite bangmah cihzo nawnlo ding a, amaute pen Pasian leh Khrih' siampite hi ding-te a, amah tawh kum tul khat sung ukna aana nei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -87,7 +87,7 @@
 ### v8
 **EN:** And shall go out to deceive the nations which are in the four quarters of the earth, Gog and Magog, to gather them together to battle: the number of whom is as the sand of the sea.
 
-**TDB77:** leitung kiu li-ah a om Gog leh Magog ahi uh mipawlte galdona phualah kikhawmsak dingin, kheem dingin pusuaksak ding hi. Tua mipawlte a kisim ciangin tuipi gei sehnel zah a pha uh hi.
+**TDB77:** leitung kiu li-ah a om Gog leh Magog ahi-te mipawlte galdona phualah kikhawmsak dingin, kheem dingin pusuaksak ding hi. Tua mipawlte a kisim ciangin tuipi gei sehnel zah a pha-te hi.
 
 **ZVS:** Gog leh Magog a kici leitung gam khempeuhah a om minam khempeuh a khem dingin kuankhia ding hi. Satan in a galsimpih dingin tuipi gei-a sehnel zahin a tam mihonpi kaikhawm ding hi.
 
@@ -96,34 +96,34 @@
 ### v9
 **EN:** And they went up on the breadth of the earth, and compassed the camp of the saints about, and the beloved city: and fire came down from God out of heaven, and devoured them.
 
-**TDB77:** Amaute zanglei tungah a kahtoh khit uh ciangin siangtho giahna phual leh a ithuai khuapi a uum uh ciangin, vantung panin mei kia-in tua mite a valh hi.
+**TDB77:** Amaute zanglei tungah a kahtoh khit-te ciangin siangtho giahna phual leh a ithuai khuapi a uum-te ciangin, vantung panin mei kia-in tua mite a valh hi.
 
-**ZVS:** Leitung khempeuhah amaute pai uh a, Pasian' mi siangtho omna mun leh Pasian in a it khuapi umcih uh hi. Ahi zongin vantung panin meikuang hong paisukin amaute a kangtum hi.
+**ZVS:** Leitung khempeuhah amaute pai-te a, Pasian' mi siangtho omna mun leh Pasian in a it khuapi umcih-te hi. Ahi zongin vantung panin meikuang hong paisukin amaute a kangtum hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v10
 **EN:** And the devil that deceived them was cast into the lake of fire and brimstone, where the beast and the false prophet are, and shall be tormented day and night for ever and ever.
 
-**TDB77:** Amaute a kheem Dawimangpa in zong sahang leh thuzuau hilh kamsangte omna kat meiphual sungah khiatsukna thuakin, amaute in sun tawh zan tawh a tawntungin bawlsiatna a thuak ding uh hi.
+**TDB77:** Amaute a kheem Dawimangpa in zong sahang leh thuzuau hilh kamsangte omna kat meiphual sungah khiatsukna thuakin, amaute in sun tawh zan tawh a tawntungin bawlsiatna a thuak ding-te hi.
 
-**ZVS:** Amaute a khem Satan pen ganhing leh kamsang zuaupa a omna mun, kat a kikhulna meiphualpi sungah kilawn a, a sun a zanin tua lai munah amaute in gimna a thuak tawntung ding uh ahi hi.
+**ZVS:** Amaute a khem Satan pen ganhing leh kamsang zuaupa a omna mun, kat a kikhulna meiphualpi sungah kilawn a, a sun a zanin tua lai munah amaute in gimna a thuak tawntung ding-te ahi hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v11
 **EN:** And I saw a great white throne, and him that sat on it, from whose face the earth and the heaven fled away; and there was found no place for them.
 
-**TDB77:** Tua nung ciangin kumpi tokhom a kaang a lian khat ahi zongin, tua tokhom a, a tu Topa ahi zongin ka mu hi. Tua Topa maitang pan lei leh van in a taikhia uh a, amau adingin omna a om nawn kei hi.
+**TDB77:** Tua nung ciangin kumpi tokhom a kaang a lian khat ahi zongin, tua tokhom a, a tu Topa ahi zongin ka mu hi. Tua Topa maitang pan lei leh van in a taikhia-te a, amau adingin omna a om nawn kei hi.
 
-**ZVS:** Tua ciangin tokhom kang a lian khat leh a tungah a tupa ka mu hi. Ama omna panin lei leh van lengkhiamang a, a tun'na mel uh kitheilo hi.
+**ZVS:** Tua ciangin tokhom kang a lian khat leh a tungah a tupa ka mu hi. Ama omna panin lei leh van lengkhiamang a, a tun'na mel-te kitheilo hi.
 
 **Grammar:** purpose: in order to | negation: kei | plural: uh marker
 
 ### v12
 **EN:** And I saw the dead, small and great, stand before God; and the books were opened: and another book was opened, which is the book of life: and the dead were judged out of those things which were written in the books, according to their works.
 
-**TDB77:** Tua lai takin a si mi a neu a liante in tua kumpi tokhom mai-ah ding-a a om uh ka mu hi. Laibute zong kiphen uh hi. Nuntakna laibu ahi adang laibu khat a kiphen hi. Tua a si mite in a gamtatnate bang laibu sungah a kigelh mah bangin thukhenna a thuak uh hi.
+**TDB77:** Tua lai takin a si mi a neu a liante in tua kumpi tokhom mai-ah ding-a a om-te ka mu hi. Laibute zong kiphen-te hi. Nuntakna laibu ahi adang laibu khat a kiphen hi. Tua a si mite in a gamtatnate bang laibu sungah a kigelh mah bangin thukhenna a thuak-te hi.
 
 **ZVS:** A lian a neu misite tua tokhom mai-ah dingin laibute a kilem ka mu hi. Tua ciangin a nungta mite a kigelhna laibu a dang khat zong a kilem ka mu hi. Amaute' gamtatna tua laibute sungah a kigelhna tawh kizui-in misite tungah thu a kikhen hi.
 
@@ -132,9 +132,9 @@
 ### v13
 **EN:** And the sea gave up the dead which were in it; and death and hell delivered up the dead which were in them: and they were judged every man according to their works.
 
-**TDB77:** Tua lai takin tuipi in a sungah a om mi site a puak hi, Sihna leh Sihna Gam in a sung uhah a om mi site a puak uh a, mi khempeuh in a gamtatnate bangin thukhenna a thuak uh hi.
+**TDB77:** Tua lai takin tuipi in a sungah a om mi site a puak hi, Sihna leh Sihna Gam in a sung uhah a om mi site a puak-te a, mi khempeuh in a gamtatnate bangin thukhenna a thuak-te hi.
 
-**ZVS:** Tuipi sungah a om misite, tuipi in hong pusuah a, Sihna leh Misite' Gam in zong amau sungah a om misite hong pusuah uh hi. Tua ciangin a vekpi-in amaute' gamtatnasa tawh kizui-in thu a kikhen hi.
+**ZVS:** Tuipi sungah a om misite, tuipi in hong pusuah a, Sihna leh Misite' Gam in zong amau sungah a om misite hong pusuah-te hi. Tua ciangin a vekpi-in amaute' gamtatnasa tawh kizui-in thu a kikhen hi.
 
 **Grammar:** plural: uh marker
 

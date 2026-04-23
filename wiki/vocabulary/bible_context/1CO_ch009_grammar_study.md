@@ -26,18 +26,18 @@
 ### v1
 **EN:** Am I not an apostle? am I not free? have I not seen Jesus Christ our Lord? are not ye my work in the Lord?
 
-**TDB77:** To nei lo mi hilo ka hi hiam? Sawltakpa hilo ka hi hiam? I Topa Zeisu a mu mi hilo ka hi hiam? Note in Pasian sungah ka nasepna gah hilo na hi uh hiam?
+**TDB77:** To nei lo mi hilo ka hi hiam? Sawltakpa hilo ka hi hiam? I Topa Zeisu a mu mi hilo ka hi hiam? Note in Pasian sungah ka nasepna gah hilo na hi-te hiam?
 
-**ZVS:** Kei pen sawltak ka hi a, mihingte' khutnuai-a nasem ka hi kei hi. I Topa Jesuh tawh a kimu mi ka hi a, Topa-a' dingin na ka sepna hangin note pen thu um a suak na hi uh hi.
+**ZVS:** Kei pen sawltak ka hi a, mihingte' khutnuai-a nasem ka hi kei hi. I Topa Jesuh tawh a kimu mi ka hi a, Topa-a' dingin na ka sepna hangin note pen thu um a suak na hi-te hi.
 
 **Grammar:** negation: lo
 
 ### v2
 **EN:** If I be not an apostle unto others, yet doubtless I am to you: for the seal of mine apostleship are ye in the Lord.
 
-**TDB77:** Midangte kiangah sawltak ka hih loh hangin note kiangah sawltak ka hi hi. Bang hang hiam na cih uh leh, Topa sungah a om note in sawltak ka hi hi cih ciamtehna na hi uh hi.
+**TDB77:** Midangte kiangah sawltak ka hih loh hangin note kiangah sawltak ka hi hi. Bang hang hiam na cih-te leh, Topa sungah a om note in sawltak ka hi hi cih ciamtehna na hi-te hi.
 
-**ZVS:** Midangte in sawltakin hong ngaihsun ta kei le uh, note in sawltakin na hong ngaihsut uh a kul ahi hi. Bang hang hiam cih leh Topa sungah na omna uh pen sawltak ka hihlam a kilatna ahi hi.
+**ZVS:** Midangte in sawltakin hong ngaihsun ta kei le uh, note in sawltakin na hong ngaihsut-te a kul ahi hi. Bang hang hiam cih leh Topa sungah na omna-te pen sawltak ka hihlam a kilatna ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -46,14 +46,14 @@
 
 **TDB77:** Keimah hong teldotte kiangah ka mawh phel nading hih thu-in ka dawng thei hi.
 
-**ZVS:** Mite in kei hong mawhsak uh ciangin ka gen thu in:
+**ZVS:** Mite in kei hong mawhsak-te ciangin ka gen thu in:
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v4
 **EN:** Have we not power to eat and to drink?
 
-**TDB77:** Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi uh hiam?
+**TDB77:** Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi-te hiam?
 
 **ZVS:** Ka nasepna hangin annek tuidawn hong kipiak ding mah ahi hi.
 
@@ -62,7 +62,7 @@
 ### v5
 **EN:** Have we not power to lead about a sister, a wife, as well as other apostles, and as the brethren of the Lord, and Cephas?
 
-**TDB77:** Kefas leh Topa’ sanggamte akipan adang sawltakte bangin thu-um zite ka tonpih kawikawi nading uh thu nei lo ka hi uh hiam?
+**TDB77:** Kefas leh Topa’ sanggamte akipan adang sawltakte bangin thu-um zite ka tonpih kawikawi nading-te thu nei lo ka hi-te hiam?
 
 **ZVS:** Sawltak dangte, Topa' naute, leh Peter mah bangin ka khualzinna-ah thu um mi ka zi a tonpih theiding ka hi hi.
 
@@ -73,7 +73,7 @@
 
 **TDB77:** Ahih kei leh, keimah leh Barnabas bek nasem loin om theih nading thu om lo ahi hiam?
 
-**ZVS:** Kei leh Barnabas bek, nektawmzon' tawh a thuahding ka hi zenzen kei uh hi.
+**ZVS:** Kei leh Barnabas bek, nektawmzon' tawh a thuahding ka hi zenzen kei-te hi.
 
 **Grammar:** negation: lo
 
@@ -82,12 +82,12 @@
 
 **TDB77:** Ama sum zangin kua in galkap-na sem ding ahi hiam? Kua in lo kho a, a gah ne lo ding hiam? Kua in tuu cing a, tuu-nawi ne lo ahi hiam?
 
-**ZVS:** Kuamah in ama sum bei-in galkap na semlo uh hi. Leenggui suan napi-in a leenggah a nelo kuamah omlo hi. Tuu cing napi-in a tuunawi a nelo kuamah omlo hi.
+**ZVS:** Kuamah in ama sum bei-in galkap na semlo-te hi. Leenggui suan napi-in a leenggah a nelo kuamah omlo hi. Tuu cing napi-in a tuunawi a nelo kuamah omlo hi.
 
 ### v8
 **EN:** Say I these things as a man? or saith not the law the same also?
 
-**TDB77:** Leitungmite a gen uh bangin hih thu ka hong gen hiam? Thukham in zong hih bang ci hilo ahi hiam?
+**TDB77:** Leitungmite a gen-te bangin hih thu ka hong gen hiam? Thukham in zong hih bang ci hilo ahi hiam?
 
 **ZVS:** Hih ka hong gente pen mihingte' zat ngeina hi a, Thukham in zong a tuaci ding mahin a gen thu ahi hi.
 
@@ -103,34 +103,34 @@
 ### v10
 **EN:** Or saith he it altogether for our sakes? For our sakes, no doubt, this is written: that he that ploweth should plow in hope; and that he that thresheth in hope should be partaker of his hope.
 
-**TDB77:** Ahih kei leh, eite ading gen ahi hiam? Ahi hi, eite ading a gen hi. Bang hang hiam na cih uh leh, lokho mi leh buhcil mi in hamphatna ngah ciat nading lawpin a sem tuak uh hi.
+**TDB77:** Ahih kei leh, eite ading gen ahi hiam? Ahi hi, eite ading a gen hi. Bang hang hiam na cih-te leh, lokho mi leh buhcil mi in hamphatna ngah ciat nading lawpin a sem tuak-te hi.
 
-**ZVS:** Hih bang a gen ciangin ei mihingte hong cihnopna hi a, eite-a' dingin a kigelh thu ahi hi. Lo a khopa leh an a lapa in amau' ngahdingin a kilawm an a ngahdingin lametna tawh nasem ahi uh hi.
+**ZVS:** Hih bang a gen ciangin ei mihingte hong cihnopna hi a, eite-a' dingin a kigelh thu ahi hi. Lo a khopa leh an a lapa in amau' ngahdingin a kilawm an a ngahdingin lametna tawh nasem ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** If we have sown unto you spiritual things, is it a great thing if we shall reap your carnal things?
 
-**TDB77:** Kote in note lakah Kha Siangtho khaici ka tuh khit uh ciangin note lak panin leitung gah ka lak uh leh, genhuaina bang om ahi hiam?
+**TDB77:** Kote in note lakah Kha Siangtho khaici ka tuh khit-te ciangin note lak panin leitung gah ka lak-te leh, genhuaina bang om ahi hiam?
 
-**ZVS:** Note lakah kha thu tawh kisai khaici hong vawh ka hih manun, note tung panin leitung nate ka ngah uh hangin a lianlua hilo hi.
+**ZVS:** Note lakah kha thu tawh kisai khaici hong vawh ka hih manun, note tung panin leitung nate ka ngah-te hangin a lianlua hilo hi.
 
 ### v12
 **EN:** If others be partakers of this power over you, are not we rather? Nevertheless we have not used this power; but suffer all things, lest we should hinder the gospel of Christ.
 
-**TDB77:** Midangte in note tungah hih bang thu a ngah theih uh leh, kote in ka ngah ding uh kilawmzaw hilo ahi hiam? Ahih hangin kote in tua thu ka zang kei uh hi. Khazih’ Lungdamna Thu ka khaktan khak loh nadingun na khempeuh ka thuak uh hi.
+**TDB77:** Midangte in note tungah hih bang thu a ngah theih-te leh, kote in ka ngah ding-te kilawmzaw hilo ahi hiam? Ahih hangin kote in tua thu ka zang kei-te hi. Khazih’ Lungdamna Thu ka khaktan khak loh nadingun na khempeuh ka thuak-te hi.
 
-**ZVS:** Midangte in note tung panin ngahtheihna ding thu nei uh ahih leh ko ka nei phazaw lai uh hi. Ahi zongin note tung panin ngahtheihna ding thu a om hangin bangmah ka hong la kei uh a, Khrih hangin Lungdamna Thu a dongtangsak ka suahkhak lohna dingun na khempeuhah ka thuak tentan uh hi.
+**ZVS:** Midangte in note tung panin ngahtheihna ding thu nei-te ahih leh ko ka nei phazaw lai-te hi. Ahi zongin note tung panin ngahtheihna ding thu a om hangin bangmah ka hong la kei-te a, Khrih hangin Lungdamna Thu a dongtangsak ka suahkhak lohna dingun na khempeuhah ka thuak tentan-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Do ye not know that they which minister about holy things live of the things of the temple? and they which wait at the altar are partakers with the altar?
 
-**TDB77:** A siangtho nate a semte in biakna innpi panin an a ne uh hi. Biakna tau na a semte in biakna tau tawh kipawlin an a ngah uh thei lo na hi uh hiam?
+**TDB77:** A siangtho nate a semte in biakna innpi panin an a ne-te hi. Biakna tau na a semte in biakna tau tawh kipawlin an a ngah-te thei lo na hi-te hiam?
 
-**ZVS:** Biakinn-ah nasem dingin a kicial mite in biakinn mah panin an ngah uh a, biakna tau-ah na a semte in biakna sa mah a ngahna uh theilo na hi uh hiam?
+**ZVS:** Biakinn-ah nasem dingin a kicial mite in biakinn mah panin an ngah-te a, biakna tau-ah na a semte in biakna sa mah a ngahna-te theilo na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -139,14 +139,14 @@
 
 **TDB77:** Tua mah bangin Lungdamna Thu a hilhte in Lungdamna Thu pan a kivaak nadingun Topa in thu a pia hi.
 
-**ZVS:** Tua mah bangin lungdamna thu a hilhte in tua nasepna mah panin nuntakna a ngahna ding uh Topa' thupiak ahi hi.
+**ZVS:** Tua mah bangin lungdamna thu a hilhte in tua nasepna mah panin nuntakna a ngahna ding-te Topa' thupiak ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v15
 **EN:** But I have used none of these things: neither have I written these things, that it should be so done unto me: for it were better for me to die, than that any man should make my glorying void.
 
-**TDB77:** Ahih hangin ka zat theih nate ka zang kei hi. Note in kei tungah tua bang nong bawl nadingun hih lai ka gelh kei hi. Bang hang hiam na cih uh leh, ka kisaktheihna mikhat in hong sukgawp sangin si leng a phazaw tham hi.
+**TDB77:** Ahih hangin ka zat theih nate ka zang kei hi. Note in kei tungah tua bang nong bawl nadingun hih lai ka gelh kei hi. Bang hang hiam na cih-te leh, ka kisaktheihna mikhat in hong sukgawp sangin si leng a phazaw tham hi.
 
 **ZVS:** Ahi zongin hih ngahtheih ding hamphatnate khempeuh ka la kei a, tu-in zong ka ngahtheihna dingin hih lai a hong gelh ka hi kei hi. Hih ka kisialhna teng a mawkna a suahding sangin ka si nuamzaw hi.
 
@@ -155,7 +155,7 @@
 ### v16
 **EN:** For though I preach the gospel, I have nothing to glory of: for necessity is laid upon me; yea, woe is unto me, if I preach not the gospel!
 
-**TDB77:** Lungdamna Thu ka hilh manin kisaktheih nading thu om lo hi. Bang hang hiam na cih uh leh, thu hilh loin ka om thei kei hi. Thu ka hilh kei leh, gimna ka thuak hi.
+**TDB77:** Lungdamna Thu ka hilh manin kisaktheih nading thu om lo hi. Bang hang hiam na cih-te leh, thu hilh loin ka om thei kei hi. Thu ka hilh kei leh, gimna ka thuak hi.
 
 **ZVS:** Lungdamna thu ka hilh hangin kisialhna ding thu bangmah omlo hi. Bang hang hiam cih leh tua thu a hilh ding mahin a hong kisawl ahi hi. Tua ahih manin lungdamna thu hilh kei leng kei-a' dingin a dahhuai mahmah ahi hi.
 
@@ -227,18 +227,18 @@
 ### v24
 **EN:** Know ye not that they which run in a race run all, but one receiveth the prize? So run, that ye may obtain.
 
-**TDB77:** Tai kidemte khempeuh a tai uh hangin khat bek in pahtawina a ngah hi cih thei lo na hi uh hiam? Tua ahih ciangin note in zong pahtawina na ngah theih nadingun na tai un.
+**TDB77:** Tai kidemte khempeuh a tai-te hangin khat bek in pahtawina a ngah hi cih thei lo na hi-te hiam? Tua ahih ciangin note in zong pahtawina na ngah theih nadingun na tai un.
 
-**ZVS:** Tai kidemna-ah mi khat bek in thaman a ngahding hinapi-in a vekpi-un tai veve uh hi. Tua ahih manin thaman na ngahzawhna dingun na tai un.
+**ZVS:** Tai kidemna-ah mi khat bek in thaman a ngahding hinapi-in a vekpi-un tai veve-te hi. Tua ahih manin thaman na ngahzawhna dingun na tai un.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v25
 **EN:** And every man that striveth for the mastery is temperate in all things. Now they do it to obtain a corruptible crown; but we an incorruptible.
 
-**TDB77:** Pawikhamna sungah a kidemte khempeuh in na khempeuh ah a pumpi uh a kham cip thei uh hi. Tuate in a vulgawp thei pahtakna lukhu a ngah nop manun a kidem uh hi. Eite i hih leh, a vul thei lo, a sia thei lo pahtakna lukhu ngah nadingin i kidem hi.
+**TDB77:** Pawikhamna sungah a kidemte khempeuh in na khempeuh ah a pumpi-te a kham cip thei-te hi. Tuate in a vulgawp thei pahtakna lukhu a ngah nop manun a kidem-te hi. Eite i hih leh, a vul thei lo, a sia thei lo pahtakna lukhu ngah nadingin i kidem hi.
 
-**ZVS:** Kimawlna sungah a kihel mi khempeuh in thu khempeuhah a pumpi uh uk ciat uh hi. Amaute pen a kisiathei pak a ngahna dingun a hanciam uh hi a, eite pen a kisia theilo i ngahna dingin a hanciam ihi hi.
+**ZVS:** Kimawlna sungah a kihel mi khempeuh in thu khempeuhah a pumpi-te uk ciat-te hi. Amaute pen a kisiathei pak a ngahna dingun a hanciam-te hi a, eite pen a kisia theilo i ngahna dingin a hanciam ihi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

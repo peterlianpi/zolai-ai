@@ -54,7 +54,7 @@
 
 **TDB77:** Vantung-a om khempeuh maimang ding a, laidal bangin vantungte kizial ding hi. Leenggui panin a tehte pulh-in, theikung panin a tehte a pulh bangin aksi hon khempeuh pulh ding hi.
 
-**ZVS:** Vantunga a om khempeuh muatmang ding a, laidal bangin vantungte kizial ding hi. Leenggui panin a tehte pulhin, theikung panin a tehte a pulh bangin aksi hon khempeuh pulh ding uh hi.
+**ZVS:** Vantunga a om khempeuh muatmang ding a, laidal bangin vantungte kizial ding hi. Leenggui panin a tehte pulhin, theikung panin a tehte a pulh bangin aksi hon khempeuh pulh ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -113,18 +113,18 @@
 ### v11
 **EN:** But the cormorant and the bittern shall possess it; the owl also and the raven shall dwell in it: and he shall stretch out upon it the line of confusion, and the stones of emptiness.
 
-**TDB77:** Ahih hangin gamlak simbu leh leh a ham zalzal simbu in, gamsung teng luah ding uh a, simbupi leh muu om ding uh hi. Pasian in Edom gam tungah buaina a khaukhai khai sukin kisiatna khaukhai sikbawk khia ding hi.
+**TDB77:** Ahih hangin gamlak simbu leh leh a ham zalzal simbu in, gamsung teng luah ding-te a, simbupi leh muu om ding-te hi. Pasian in Edom gam tungah buaina a khaukhai khai sukin kisiatna khaukhai sikbawk khia ding hi.
 
-**ZVS:** Ahih hangin mu leh sakuh in gamsung teng luah ding uh a, keising leh va-akte om ding uh hi. Amah in a khaukhai khai sukin a khaukhai sikbawk a khia ding hi.
+**ZVS:** Ahih hangin mu leh sakuh in gamsung teng luah ding-te a, keising leh va-akte om ding-te hi. Amah in a khaukhai khai sukin a khaukhai sikbawk a khia ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** They shall call the nobles thereof to the kingdom, but none shall be there, and all her princes shall be nothing.
 
-**TDB77:** Kumpi Gam Om Lo, ci-in amaute in min phuak ding uh a, a ulian khempeuhte a mawkna hi ding uh hi.
+**TDB77:** Kumpi Gam Om Lo, ci-in amaute in min phuak ding-te a, a ulian khempeuhte a mawkna hi ding-te hi.
 
-**ZVS:** Kumpi Omlo Gam, ci-in amaute in min phuak ding uh a, a ulian khempeuhte a mawkna hi ding uh hi.
+**ZVS:** Kumpi Omlo Gam, ci-in amaute in min phuak ding-te a, a ulian khempeuhte a mawkna hi ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: lo | plural: uh marker
 
@@ -142,16 +142,16 @@
 
 **TDB77:** Gamlak ganhingte leh ngiate kikhawl ding a, gamkeel in a lawmte sam ding hi; zan a, gamta ganhingte zong hong tuak sukin ama om nading mun zong ding hi.
 
-**ZVS:** Sangak leh ngiate kikhawl ding uh a, keeldawi in a lawmte sam ding hi. Dawi zong hong tuaksukin ama omna ding mun a zong ding hi.
+**ZVS:** Sangak leh ngiate kikhawl ding-te a, keeldawi in a lawmte sam ding hi. Dawi zong hong tuaksukin ama omna ding mun a zong ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v15
 **EN:** There shall the great owl make her nest, and lay, and hatch, and gather under her shadow: there shall the vultures also be gathered, every one with her mate.
 
-**TDB77:** Tua munah keising in bu tomin, tui-in, keuhin, ama kha liimah a note huai ding hi; musite zong kikhawm tuahin a nupa ciat-un om ding uh hi.
+**TDB77:** Tua munah keising in bu tomin, tui-in, keuhin, ama kha liimah a note huai ding hi; musite zong kikhawm tuahin a nupa ciat-un om ding-te hi.
 
-**ZVS:** Tua munah keising in bu tomin, tua lai-ah tui-in keuh ding a, ama liimah a note huai ding hi. Musite zong kikhawm tuahin a nupa ciatun om ding uh hi.
+**ZVS:** Tua munah keising in bu tomin, tua lai-ah tui-in keuh ding a, ama liimah a note huai ding hi. Musite zong kikhawm tuahin a nupa ciatun om ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -167,9 +167,9 @@
 ### v17
 **EN:** And he hath cast the lot for them, and his hand hath divided it unto them by line: they shall possess it for ever, from generation to generation shall they dwell therein.
 
-**TDB77:** Amah in amaute’ tan dingin leitang hawmsak ding a, amau’ tanh ding ciat pia ding hi. Amaute in tua gam nei tawntung ding a, khang khat pan khang khat dongin teeng paisuak ding uh hi.
+**TDB77:** Amah in amaute’ tan dingin leitang hawmsak ding a, amau’ tanh ding ciat pia ding hi. Amaute in tua gam nei tawntung ding a, khang khat pan khang khat dongin teeng paisuak ding-te hi.
 
-**ZVS:** Amah in amaute-a' dingin leitang hawmsak ding a, amau' tanh ding ciat a pia ding hi. Amaute in tua gam nei tawntung ding uh a, khang khat pan khang khat dongin teng paisuak ding uh hi.
+**ZVS:** Amah in amaute-a' dingin leitang hawmsak ding a, amau' tanh ding ciat a pia ding hi. Amaute in tua gam nei tawntung ding-te a, khang khat pan khang khat dongin teng paisuak ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 

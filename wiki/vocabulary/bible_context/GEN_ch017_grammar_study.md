@@ -99,9 +99,9 @@
 ### v9
 **EN:** And God said unto Abraham, Thou shalt keep my covenant therefore, thou, and thy seed after thee in their generations.
 
-**TDB77:** Pasian in Abraham’ kiangah, “Nang leh nang’ khit cianga na suan-le-khakte in zong ka thuciamna na zuih ding uh nong thukim ding uh ahi hi.
+**TDB77:** Pasian in Abraham’ kiangah, “Nang leh nang’ khit cianga na suan-le-khakte in zong ka thuciamna na zuih ding-te nong thukim ding-te ahi hi.
 
-**ZVS:** Pasian in Abraham' kiangah, “Nang leh nang' khit cianga na suanlekhakte in zong ka thuciamna na zuih ding uh nong thukim ding uh ahi hi.
+**ZVS:** Pasian in Abraham' kiangah, “Nang leh nang' khit cianga na suanlekhakte in zong ka thuciamna na zuih ding-te nong thukim ding-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -126,9 +126,9 @@
 ### v12
 **EN:** And he that is eight days old shall be circumcised among you, every man child in your generations, he that is born in the house, or bought with money of any stranger, which is not of thy seed.
 
-**TDB77:** Note' lak panin ni giat a pha peuhmahpa’ vun ki-at ding hi; note’ khang tawntungin pasal peuhmah, note’ inn sunga suak hita leh, note’ ta ahi lo, gamdang mi khatpeuh kiang panin na sum uh tawh na lei uh hita leh,
+**TDB77:** Note' lak panin ni giat a pha peuhmahpa’ vun ki-at ding hi; note’ khang tawntungin pasal peuhmah, note’ inn sunga suak hita leh, note’ ta ahi lo, gamdang mi khatpeuh kiang panin na sum-te tawh na lei-te hita leh,
 
-**ZVS:** Note' lak panin ni giat a pha peuhmahpa a vun ki-at ding hi. Note' khang tawntungin pasal peuhmah, note' inn sunga suak hita leh, note' ta a hilo, gamdang mi khatpeuh kiang panin na sum uh tawh na lei uh hita leh
+**ZVS:** Note' lak panin ni giat a pha peuhmahpa a vun ki-at ding hi. Note' khang tawntungin pasal peuhmah, note' inn sunga suak hita leh, note' ta a hilo, gamdang mi khatpeuh kiang panin na sum-te tawh na lei-te hita leh
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -246,16 +246,16 @@
 ### v26
 **EN:** In the selfsame day was Abraham circumcised, and Ishmael his son.
 
-**TDB77:** Tua ni mahmahin Abraham leh a tapa Ishmaelte a vun uh ki-at hi;
+**TDB77:** Tua ni mahmahin Abraham leh a tapa Ishmaelte a vun-te ki-at hi;
 
-**ZVS:** Tua ni mahmahin Abraham leh a tapa Ishmael a vun uh ki-at hi.
+**ZVS:** Tua ni mahmahin Abraham leh a tapa Ishmael a vun-te ki-at hi.
 
 ### v27
 **EN:** And all the men of his house, born in the house, and bought with money of the stranger, were circumcised with him.
 
-**TDB77:** ama' inn sunga pasal khempeuh, inn sunga suak hita leh gamdang mite’ tung pan-a sum tawh a kilei mite hita leh, amah tawh a vun uh ki-at khawm hi.
+**TDB77:** ama' inn sunga pasal khempeuh, inn sunga suak hita leh gamdang mite’ tung pan-a sum tawh a kilei mite hita leh, amah tawh a vun-te ki-at khawm hi.
 
-**ZVS:** Ama inn sunga pasal khempeuh, inn sunga suak hita leh gamdang mite' tung panin sum tawh a kilei mite hita leh, amah tawh a vun uh ki-at khawm hi.
+**ZVS:** Ama inn sunga pasal khempeuh, inn sunga suak hita leh gamdang mite' tung panin sum tawh a kilei mite hita leh, amah tawh a vun-te ki-at khawm hi.
 
 **Grammar:** reciprocal: ki- prefix
 

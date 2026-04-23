@@ -78,18 +78,18 @@
 ### v7
 **EN:** And the men which journeyed with him stood speechless, hearing a voice, but seeing no man.
 
-**TDB77:** Saul tawh a paikhawm mite in tua aw a zak uh hangin kuamah mu loin, pau thei loin, ding-in a om uh hi.
+**TDB77:** Saul tawh a paikhawm mite in tua aw a zak-te hangin kuamah mu loin, pau thei loin, ding-in a om-te hi.
 
-**ZVS:** Saul tawh a tonkhawm mite in a awging a zak uh hangin kuamah mulo uh ahih manin lamdangsa lua-in pau theilo liangin a om uh hi.
+**ZVS:** Saul tawh a tonkhawm mite in a awging a zak-te hangin kuamah mulo-te ahih manin lamdangsa lua-in pau theilo liangin a om-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v8
 **EN:** And Saul arose from the earth; and when his eyes were opened, he saw no man: but they led him by the hand, and brought him into Damascus.
 
-**TDB77:** Saul lei pan a thawh ciangin a mit hak a, kuamah mu thei lo ahih maninah amaute in a khut len uh a, Damaskas khua-ah a paipih uh hi.
+**TDB77:** Saul lei pan a thawh ciangin a mit hak a, kuamah mu thei lo ahih maninah amaute in a khut len-te a, Damaskas khua-ah a paipih-te hi.
 
-**ZVS:** Saul zong leilak panin thoto a, a mit a hah hangin khua mu theilo hi. Tua ahih manin a kikholhpihte in a khutin lenin Damaskas khua-ah a paipih uh hi.
+**ZVS:** Saul zong leilak panin thoto a, a mit a hah hangin khua mu theilo hi. Tua ahih manin a kikholhpihte in a khutin lenin Damaskas khua-ah a paipih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -123,7 +123,7 @@
 
 **TDB77:** Ananias in, “Topa aw, hih pa in Jerusalem khua-ah na misiangtho hi zah tak a bawlsiatna thu mi tampi kiangah ka za zo hi.
 
-**ZVS:** Ahi zongin Ananias in, “Topa aw, hih mipa in Jerusalem khua-a om nangma mite a bawlsiatna thu khempeuh, mi tampi tak in kei tungah hong gen khinzo uh hi.
+**ZVS:** Ahi zongin Ananias in, “Topa aw, hih mipa in Jerusalem khua-a om nangma mite a bawlsiatna thu khempeuh, mi tampi tak in kei tungah hong gen khinzo-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -184,9 +184,9 @@
 ### v21
 **EN:** But all that heard him were amazed, and said; Is not this he that destroyed them which called on this name in Jerusalem, and came hither for that intent, that he might bring them bound unto the chief priests?
 
-**TDB77:** Thu a za mite in lamdang a sa uh a, “Hih pa in Jerusalem khua sungah tua min tawh thungente a bawlsiapa hilo ahi hiam? Amaute khau-in a hen khit ciangin siampi liante kiangah paipih dingin hih lai takah hong pai hi,” a ci uh hi.
+**TDB77:** Thu a za mite in lamdang a sa-te a, “Hih pa in Jerusalem khua sungah tua min tawh thungente a bawlsiapa hilo ahi hiam? Amaute khau-in a hen khit ciangin siampi liante kiangah paipih dingin hih lai takah hong pai hi,” a ci-te hi.
 
-**ZVS:** Ama thuhilh a za mi khempeuh in lamdangsa uh a, “Pasian a bia mi peuhpeuh, Jerusalem khuasungah a thatpa hilo ahi hiam? Hih lai-ah zong thu um mite manin siampi liante kiangah a ciahpihkik dingin a hong pai hilo ahi hiam?” a ci uh hi.
+**ZVS:** Ama thuhilh a za mi khempeuh in lamdangsa-te a, “Pasian a bia mi peuhpeuh, Jerusalem khuasungah a thatpa hilo ahi hiam? Hih lai-ah zong thu um mite manin siampi liante kiangah a ciahpihkik dingin a hong pai hilo ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -195,43 +195,43 @@
 
 **TDB77:** Saul khangto-in siam semsem a, Judah mite’ thugenna hoih takin thukkikin, Zeisu in Khazih ahi takpi hi, ci-in a lak hi.
 
-**ZVS:** Ahi zongin a thuhilhna-ah Saul hong siam semsem a, Jesuh pen Khrih hi, ci-in teltakin lakthei ahih manin, Damaskas khua-a om Jew mite in a nialna ding uh om theilo hi.
+**ZVS:** Ahi zongin a thuhilhna-ah Saul hong siam semsem a, Jesuh pen Khrih hi, ci-in teltakin lakthei ahih manin, Damaskas khua-a om Jew mite in a nialna ding-te om theilo hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v23
 **EN:** And after that many days were fulfilled, the Jews took counsel to kill him:
 
-**TDB77:** Ni tampi a sawt khit ciangin Judah mite in Saul thah ding a vaihawm uh hi.
+**TDB77:** Ni tampi a sawt khit ciangin Judah mite in Saul thah ding a vaihawm-te hi.
 
-**ZVS:** Tuazawh ni tampi khit ciangin Jew mite kikaikhawmin Saul thahsawm uh a,
+**ZVS:** Tuazawh ni tampi khit ciangin Jew mite kikaikhawmin Saul thahsawm-te a,
 
 **Grammar:** plural: uh marker
 
 ### v24
 **EN:** But their laying await was known of Saul. And they watched the gates day and night to kill him.
 
-**TDB77:** Amau vaihawmna thu Saul in a thei hi. Amaute in Saul thah nading kongpi kiangah sun leh zanin a pang uh hi.
+**TDB77:** Amau vaihawmna thu Saul in a thei hi. Amaute in Saul thah nading kongpi kiangah sun leh zanin a pang-te hi.
 
-**ZVS:** ahi zongin Saul in amah a kisawm lamtak na phawk hi. Jew mite in Saul a thahtheihna dingun a sun a zanin khua kongpi-ah a pang uh hi.
+**ZVS:** ahi zongin Saul in amah a kisawm lamtak na phawk hi. Jew mite in Saul a thahtheihna dingun a sun a zanin khua kongpi-ah a pang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** Then the disciples took him by night, and let him down by the wall in a basket.
 
-**TDB77:** Nungzuite in Saul zan lai takin la uh a, seeng khat sungah kulh tung pan amah a khiasuk uh hi.
+**TDB77:** Nungzuite in Saul zan lai takin la-te a, seeng khat sungah kulh tung pan amah a khiasuk-te hi.
 
-**ZVS:** Ahi zongin Saul' nungzuite in zanin khuakulh tungah kahtohpihin kulh pualamah bawm tawh a khaisuk uh hi.
+**ZVS:** Ahi zongin Saul' nungzuite in zanin khuakulh tungah kahtohpihin kulh pualamah bawm tawh a khaisuk-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v26
 **EN:** And when Saul was come to Jerusalem, he assayed to join himself to the disciples: but they were all afraid of him, and believed not that he was a disciple.
 
-**TDB77:** Saul Jerusalem khua a tun’ ciangin nungzuite tawh kipawl ding a ut hangin amaute in Saul nungzui a suahna taksang loin a kihta uh hi.
+**TDB77:** Saul Jerusalem khua a tun’ ciangin nungzuite tawh kipawl ding a ut hangin amaute in Saul nungzui a suahna taksang loin a kihta-te hi.
 
-**ZVS:** Jerusalem khua-ah Saul pai a, thu um mite tawh kipawl dingin a vaihawm hi. Ahi zongin amaute in Saul pen thu um dingin na ngaihsun zolo uh ahih manin na kihta mahmah uh hi.
+**ZVS:** Jerusalem khua-ah Saul pai a, thu um mite tawh kipawl dingin a vaihawm hi. Ahi zongin amaute in Saul pen thu um dingin na ngaihsun zolo-te ahih manin na kihta mahmah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -254,27 +254,27 @@
 ### v29
 **EN:** And he spake boldly in the name of the Lord Jesus, and disputed against the Grecians: but they went about to slay him.
 
-**TDB77:** lau loin Zeisu’ min tawh thu hilh a, Grik Judah mite tawh thu kinialin a om hi. Tuate in Saul thah nading a zong uh hi.
+**TDB77:** lau loin Zeisu’ min tawh thu hilh a, Grik Judah mite tawh thu kinialin a om hi. Tuate in Saul thah nading a zong-te hi.
 
-**ZVS:** Grik pau a zang Jew mite tawh zong thu genkhawmin kisel uh a, amaute in Saul thahdingin a vaihawm uh hi.
+**ZVS:** Grik pau a zang Jew mite tawh zong thu genkhawmin kisel-te a, amaute in Saul thahdingin a vaihawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** Which when the brethren knew, they brought him down to Caesarea, and sent him forth to Tarsus.
 
-**TDB77:** Ute naute in tua thu a zak uh ciangin Saul Kaisaria khua-ah a kha uh a, Tarsas khua-ah a paisak uh hi.
+**TDB77:** Ute naute in tua thu a zak-te ciangin Saul Kaisaria khua-ah a kha-te a, Tarsas khua-ah a paisak-te hi.
 
-**ZVS:** A lawmte in hih thu a phawk uh ciangin Sisaria khua-ah Saul paipihsuk uh a, tua lai panin Tarsas khua-ah a ciahsak uh hi.
+**ZVS:** A lawmte in hih thu a phawk-te ciangin Sisaria khua-ah Saul paipihsuk-te a, tua lai panin Tarsas khua-ah a ciahsak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v31
 **EN:** Then had the churches rest throughout all Judaea and Galilee and Samaria, and were edified; and walking in the fear of the Lord, and in the comfort of the Holy Ghost, were multiplied.
 
-**TDB77:** Tua ahih ciangin Judah gam, Galile gam, Samaria gam mun khempeuh ah pawlpite in lungkimin kipna a ngah uh hi. Pasian kihtakna leh Kha Siangtho huhna tawh omin a khang semsem uh hi.
+**TDB77:** Tua ahih ciangin Judah gam, Galile gam, Samaria gam mun khempeuh ah pawlpite in lungkimin kipna a ngah-te hi. Pasian kihtakna leh Kha Siangtho huhna tawh omin a khang semsem-te hi.
 
-**ZVS:** Tua ahih manin Judea gam, Galilee gam, leh Samaria gamsunga om pawlpite in bawlsiatna thuak nawnloin nuamtakin om uh a, Topa zahtakna tawh gamta uh ahih manin Kha Siangtho huhna tawh a mi khangin a kibehlap uh hi.
+**ZVS:** Tua ahih manin Judea gam, Galilee gam, leh Samaria gamsunga om pawlpite in bawlsiatna thuak nawnloin nuamtakin om-te a, Topa zahtakna tawh gamta-te ahih manin Kha Siangtho huhna tawh a mi khangin a kibehlap-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -308,9 +308,9 @@
 ### v35
 **EN:** And all that dwelt at Lydda and Saron saw him, and turned to the Lord.
 
-**TDB77:** Lidda khua akipan Saron gamah a om mi khempeuhte in tua pa a muh uh ciangin Topa kiangah a kihei uh hi.
+**TDB77:** Lidda khua akipan Saron gamah a om mi khempeuhte in tua pa a muh-te ciangin Topa kiangah a kihei-te hi.
 
-**ZVS:** Tua khua-a teng mi khempeuh leh Sharon zanglei-a teng mi khempeuh in Aineas mu uh ahih manin Topa a um uh hi.
+**ZVS:** Tua khua-a teng mi khempeuh leh Sharon zanglei-a teng mi khempeuh in Aineas mu-te ahih manin Topa a um-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -324,27 +324,27 @@
 ### v37
 **EN:** And it came to pass in those days, that she was sick, and died: whom when they had washed, they laid her in an upper chamber.
 
-**TDB77:** Tua lai takin amah a ci na a, a si hi. Amaute in ama luang a sil khit uh ciangin dei tungnung ah koih uh hi.
+**TDB77:** Tua lai takin amah a ci na a, a si hi. Amaute in ama luang a sil khit-te ciangin dei tungnung ah koih-te hi.
 
-**ZVS:** Tua laitakin amah a ci na-in a si hi. Amah a silkhit uh ciangin inndei tungnungah a sial uh hi.
+**ZVS:** Tua laitakin amah a ci na-in a si hi. Amah a silkhit-te ciangin inndei tungnungah a sial-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v38
 **EN:** And forasmuch as Lydda was nigh to Joppa, and the disciples had heard that Peter was there, they sent unto him two men, desiring him that he would not delay to come to them.
 
-**TDB77:** Lidda khua in Joppa khua tawh kinai ahih ciangin Piter tua khua-ah a om ci-in nungzuite in a theih uh ciangin mi nih sawl uh a, “Zekai loin ko kiangah hong pai in,” ci-in a thuum uh hi.
+**TDB77:** Lidda khua in Joppa khua tawh kinai ahih ciangin Piter tua khua-ah a om ci-in nungzuite in a theih-te ciangin mi nih sawl-te a, “Zekai loin ko kiangah hong pai in,” ci-in a thuum-te hi.
 
-**ZVS:** Joppa khua leh Lydda khua kigamlalo ahih manin, Joppa khua-a teng thu um mite in Lydda khua-ah Peter om hi, ci-in thu a zak uh ciangin Peter kiangah mi nih sawl uh a, “A manlang theithei-in ko kiangah hong pai in,” ci-in a samsak uh hi.
+**ZVS:** Joppa khua leh Lydda khua kigamlalo ahih manin, Joppa khua-a teng thu um mite in Lydda khua-ah Peter om hi, ci-in thu a zak-te ciangin Peter kiangah mi nih sawl-te a, “A manlang theithei-in ko kiangah hong pai in,” ci-in a samsak-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v39
 **EN:** Then Peter arose and went with them. When he was come, they brought him into the upper chamber: and all the widows stood by him weeping, and shewing the coats and garments which Dorcas made, while she was with them.
 
-**TDB77:** Piter tho a, amaute tawh paikhawm hi. A tun’ ciangin dei tungnung sungah a paipihto uh hi. Meigong khempeuh a kiangah a ding uh a, kapin, Dorkas in amaute tawh a omkhawm lai taka a bawlsa puan-akte leh puante a lak uh hi.
+**TDB77:** Piter tho a, amaute tawh paikhawm hi. A tun’ ciangin dei tungnung sungah a paipihto-te hi. Meigong khempeuh a kiangah a ding-te a, kapin, Dorkas in amaute tawh a omkhawm lai taka a bawlsa puan-akte leh puante a lak-te hi.
 
-**ZVS:** Peter zong kithawi-in a samte tawh paikhawm pah a, tua khua a tun' ciangin inndei tungnungah a na paipihto pah uh hi. Tua lai-ah a na om meigong numei khempeuh in Peter na umcih uh a, Dorkas a hin' lai-in amaute-a' dingin a bawlsak puanakte leh puantungsilhte, a kahkawmun Peter kiangah a lak uh hi.
+**ZVS:** Peter zong kithawi-in a samte tawh paikhawm pah a, tua khua a tun' ciangin inndei tungnungah a na paipihto pah-te hi. Tua lai-ah a na om meigong numei khempeuh in Peter na umcih-te a, Dorkas a hin' lai-in amaute-a' dingin a bawlsak puanakte leh puantungsilhte, a kahkawmun Peter kiangah a lak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -369,9 +369,9 @@
 ### v42
 **EN:** And it was known throughout all Joppa; and many believed in the Lord.
 
-**TDB77:** Tua thu in Joppa khua-ah kithei khin a, mi tampi in Topa a um uh hi.
+**TDB77:** Tua thu in Joppa khua-ah kithei khin a, mi tampi in Topa a um-te hi.
 
-**ZVS:** Joppa khuasung khempeuhah hih thu kitheikim a, mi tampi in Topa a um uh hi.
+**ZVS:** Joppa khuasung khempeuhah hih thu kitheikim a, mi tampi in Topa a um-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

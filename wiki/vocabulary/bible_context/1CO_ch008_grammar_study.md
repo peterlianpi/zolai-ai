@@ -28,7 +28,7 @@
 
 **TDB77:** Milim kipia ganhing thu panin, eite khempeuh in pilna i neih i thei hi. Pilna in hong kisathei sak hi; itna in hong kipsak thei hi.
 
-**ZVS:** Tu-in milim biakna sa tawh kisai thu panin: Amaute in, “Ka thei uh hi,” a cih mah bangin eite khempeuh in theihna i neih ciatna thu i thei hi. Tua bang theihna in mite kisatheisak a, ahi zongin itna in mite kipsak hi.
+**ZVS:** Tu-in milim biakna sa tawh kisai thu panin: Amaute in, “Ka thei-te hi,” a cih mah bangin eite khempeuh in theihna i neih ciatna thu i thei hi. Tua bang theihna in mite kisatheisak a, ahi zongin itna in mite kipsak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -60,7 +60,7 @@
 ### v5
 **EN:** For though there be that are called gods, whether in heaven or in earth, (as there be gods many, and lords many,)
 
-**TDB77:** pasian a tampi leh topa a tampi a om bangin, vantung leh leitungah pasian akici a tampi a om uh hangin,
+**TDB77:** pasian a tampi leh topa a tampi a om bangin, vantung leh leitungah pasian akici a tampi a om-te hangin,
 
 **ZVS:** Leitung leh vantungah pasian leh topa a kici tampi a om ahi zongin,
 
@@ -76,9 +76,9 @@
 ### v7
 **EN:** Howbeit there is not in every man that knowledge: for some with conscience of the idol unto this hour eat it as a thing offered unto an idol; and their conscience being weak is defiled.
 
-**TDB77:** Ahih hangin mi khempeuh in tua bang pilna a nei kei uh hi. Kimkhatte in tu dongin milim biakna sa a nek uh ciangin milim ngaihsutna lungsim tawh a ne uh a, amau kitheihna lungsim a zawm manin a kihhuai a piang hi.
+**TDB77:** Ahih hangin mi khempeuh in tua bang pilna a nei kei-te hi. Kimkhatte in tu dongin milim biakna sa a nek-te ciangin milim ngaihsutna lungsim tawh a ne-te a, amau kitheihna lungsim a zawm manin a kihhuai a piang hi.
 
-**ZVS:** Ahi zongin mi khempeuh in hih thu theikimlo uh hi. Mi pawlkhatte, milim biakna thu-ah kingeinaseh lua khin uh ahih manin tuhun mahmahin zong biakna sate a nek uh ciangin tua milim tawh kisai sa mahin ngaihsunsun lai uh hi. Amaute lungsim thaneem uh ahih manin tua sate a nek uh ciangin a zehphi mahin kingaihsun uh hi.
+**ZVS:** Ahi zongin mi khempeuh in hih thu theikimlo-te hi. Mi pawlkhatte, milim biakna thu-ah kingeinaseh lua khin-te ahih manin tuhun mahmahin zong biakna sate a nek-te ciangin tua milim tawh kisai sa mahin ngaihsunsun lai-te hi. Amaute lungsim thaneem-te ahih manin tua sate a nek-te ciangin a zehphi mahin kingaihsun-te hi.
 
 **Grammar:** negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -94,18 +94,18 @@
 ### v9
 **EN:** But take heed lest by any means this liberty of yours become a stumblingblock to them that are weak.
 
-**TDB77:** Ahih hangin note in na ngah uh hih thu in upna neute puk khakna a suah loh nadingin na kikem un.
+**TDB77:** Ahih hangin note in na ngah-te hih thu in upna neute puk khakna a suah loh nadingin na kikem un.
 
-**ZVS:** Ahi zongin note' utbangin gamtat theihna ding thu na neihna uh hangin upna a neu laite a puksak na suahkhak lohna dingun hoihtakin kidawm un.
+**ZVS:** Ahi zongin note' utbangin gamtat theihna ding thu na neihna-te hangin upna a neu laite a puksak na suahkhak lohna dingun hoihtakin kidawm un.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v10
 **EN:** For if any man see thee which hast knowledge sit at meat in the idol's temple, shall not the conscience of him which is weak be emboldened to eat those things which are offered to idols;
 
-**TDB77:** Bang hang hiam na cih uh leh, lungpilna a nei nangmah in milim biakna inn sungah tu-in an ne-in na om, lungsim thanem-a kithei midang khat in hong muh ciangin milim biakna sa nek ding a hang ding hilo ahi hiam?
+**TDB77:** Bang hang hiam na cih-te leh, lungpilna a nei nangmah in milim biakna inn sungah tu-in an ne-in na om, lungsim thanem-a kithei midang khat in hong muh ciangin milim biakna sa nek ding a hang ding hilo ahi hiam?
 
-**ZVS:** No thuthei-a a kineite, milim biakna inn sungah milim biakna sa na neklam uh, hih thu tawh kisai-ah a lungsim hatzo nailote in hong mukha zenzen leh milim biakna sa nek ding a hanthawn na suakkha ding uh hi.
+**ZVS:** No thuthei-a a kineite, milim biakna inn sungah milim biakna sa na neklam uh, hih thu tawh kisai-ah a lungsim hatzo nailote in hong mukha zenzen leh milim biakna sa nek ding a hanthawn na suakkha ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -114,16 +114,16 @@
 
 **TDB77:** Amah tang ding Khazih a si, upna neu sanggampa in nangma pilna hangin kisia tazen hi!
 
-**ZVS:** Tua ahih manin note' thutheihna hangin, Khrih in sihna a thuakpih, thu upna sungah i sanggamte a siasak na suak ding uh hi.
+**ZVS:** Tua ahih manin note' thutheihna hangin, Khrih in sihna a thuakpih, thu upna sungah i sanggamte a siasak na suak ding-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v12
 **EN:** But when ye sin so against the brethren, and wound their weak conscience, ye sin against Christ.
 
-**TDB77:** Tua ahih ciangin note in ute naute lungsim kisuan’na a thanem lai takin susia-in, ama tungah na mawh uh ciangin Khazih tungah zong na mawh uh hi.
+**TDB77:** Tua ahih ciangin note in ute naute lungsim kisuan’na a thanem lai takin susia-in, ama tungah na mawh-te ciangin Khazih tungah zong na mawh-te hi.
 
-**ZVS:** Tua bangin lungsim thaneemte gimsakin, thu upna sungah na sanggamte uh tungah na khialh uh ciangin Khrih tung mahmahah a khial na hi uh hi.
+**ZVS:** Tua bangin lungsim thaneemte gimsakin, thu upna sungah na sanggamte-te tungah na khialh-te ciangin Khrih tung mahmahah a khial na hi-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

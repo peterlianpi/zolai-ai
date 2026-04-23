@@ -44,9 +44,9 @@
 ### v3
 **EN:** For thou shalt break forth on the right hand and on the left; and thy seed shall inherit the Gentiles, and make the desolate cities to be inhabited.
 
-**TDB77:** Bang hang hiam cih leh taklam leh veilamah nangmah kizeelin, na suan leh khakte in minamte luah ding uh a, a kinusia khuapite mi tawh dim sak ding uh hi.
+**TDB77:** Bang hang hiam cih leh taklam leh veilamah nangmah kizeelin, na suan leh khakte in minamte luah ding-te a, a kinusia khuapite mi tawh dim sak ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh taklam leh veilamah nangmah kizeelin, na suanlekhakte in minam dangte' leitang luah ding uh a, a kinusia khuapite mi tawh dimsak ding uh hi.
+**ZVS:** Bang hang hiam cih leh taklam leh veilamah nangmah kizeelin, na suanlekhakte in minam dangte' leitang luah ding-te a, a kinusia khuapite mi tawh dimsak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -134,7 +134,7 @@
 
 **TDB77:** Topa in na tapate khempeuh hilh ding a, na tapate daupai mahmah ding hi.
 
-**ZVS:** “{ Topa } in na tapate khempeuh hoihtakin hilh ding a, na tapate daupai mahmah ding uh hi.
+**ZVS:** “{ Topa } in na tapate khempeuh hoihtakin hilh ding a, na tapate daupai mahmah ding-te hi.
 
 **Grammar:** intensifier: very/greatly | future: will
 
@@ -152,7 +152,7 @@
 
 **TDB77:** Mi khatpeuh in kidona a pian’sak leh, tua pen keima kiang pan hilo hi; note tawh kidona a piangsak peuhmah note’ hangin puk ding hi.
 
-**ZVS:** Mi khatpeuh in note tawh kidona a pian'sak leh tua pen keima kiang pan hilo hi. Note tawh kidona a piangsak peuhmah note' hangin puk ding uh hi.
+**ZVS:** Mi khatpeuh in note tawh kidona a pian'sak leh tua pen keima kiang pan hilo hi. Note tawh kidona a piangsak peuhmah note' hangin puk ding-te hi.
 
 **Grammar:** causative: -sak suffix | future: will | reciprocal: ki- prefix
 

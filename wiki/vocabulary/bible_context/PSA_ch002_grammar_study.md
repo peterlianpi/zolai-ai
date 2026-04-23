@@ -24,27 +24,27 @@
 ### v1
 **EN:** Why do the heathen rage, and the people imagine a vain thing?
 
-**TDB77:** Bang thu hangin minamte in siat nading ah kithukhat sim a, mite in a mawk nading sawmsim uh hiam?
+**TDB77:** Bang thu hangin minamte in siat nading ah kithukhat sim a, mite in a mawk nading sawmsim-te hiam?
 
-**ZVS:** Bang thu hangin minam dangte siatna dingah kithukhat sim uh a, mite in a mawkna dingpi-in sawmsim uh ahi hiam?
+**ZVS:** Bang thu hangin minam dangte siatna dingah kithukhat sim-te a, mite in a mawkna dingpi-in sawmsim-te ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v2
 **EN:** The kings of the earth set themselves, and the rulers take counsel together, against the
 
-**TDB77:** Leitung kumpite leh gam ukte in, Topa leh ama sathau nilhpa langpangin vaihawm uh a,
+**TDB77:** Leitung kumpite leh gam ukte in, Topa leh ama sathau nilhpa langpangin vaihawm-te a,
 
-**ZVS:** Leitung kumpite leh gam ukte in { Topa } leh ama sathau nilhpa langpangin vaihawm uh a,
+**ZVS:** Leitung kumpite leh gam ukte in { Topa } leh ama sathau nilhpa langpangin vaihawm-te a,
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** Let us break their bands asunder, and cast away their cords from us.
 
-**TDB77:** “Amau’ hong hennate su-tat khia-in, amau khaute ei kiang panin paikhia ni,” ci uh hi.
+**TDB77:** “Amau’ hong hennate su-tat khia-in, amau khaute ei kiang panin paikhia ni,” ci-te hi.
 
-**ZVS:** “Amau' hong henna khaute sutat khia-in, amau' khaute ei kiang panin paiikhia ni,” ci uh hi.
+**ZVS:** “Amau' hong henna khaute sutat khia-in, amau' khaute ei kiang panin paiikhia ni,” ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -112,7 +112,7 @@
 ### v12
 **EN:** Kiss the Son, lest he be angry, and ye perish from the way, when his wrath is kindled but a little. Blessed are all they that put their trust in him.
 
-**TDB77:** Launa tawh { Topa' } na sem un la, lin'na tawh a khe nam un; tua hi kei leh amah sinso-in lamkalah na siamang ding uh hi; bang hang hiam cih leh amah heh pakpak hi. Amah a bel khempeuh mi nuamsate ahi hi.
+**TDB77:** Launa tawh { Topa' } na sem un la, lin'na tawh a khe nam un; tua hi kei leh amah sinso-in lamkalah na siamang ding-te hi; bang hang hiam cih leh amah heh pakpak hi. Amah a bel khempeuh mi nuamsate ahi hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 

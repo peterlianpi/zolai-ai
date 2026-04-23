@@ -4,27 +4,27 @@
 
 ### gulpi = serpent
 **Context:** The serpent speaks to the woman, denying that they will surely die.
-**Example:** Ahih hangin gulpi in numei kiangah, “Na si taktak kei ding uh hi.
+**Example:** Ahih hangin gulpi in numei kiangah, “Na si taktak kei ding-te hi.
 
 ### si taktak = surely die
 **Context:** The serpent's assurance to the woman regarding the consequence of eating the fruit.
-**Example:** Ahih hangin gulpi in numei kiangah, “Na si taktak kei ding uh hi.
+**Example:** Ahih hangin gulpi in numei kiangah, “Na si taktak kei ding-te hi.
 
 ### bang hang hiam = for what reason / why
 **Context:** The serpent explains the reason why their eyes will be opened.
-**Example:** Bang hang hiam na cih leh tua singgah na nek ciangun na mitte uh kihong ding a...
+**Example:** Bang hang hiam na cih leh tua singgah na nek ciangun na mitte-te kihong ding a...
 
 ### kihong ding = will be opened
 **Context:** Referring to the eyes of the man and woman after eating the fruit.
-**Example:** ...tua singgah na nek ciangun na mitte uh kihong ding a...
+**Example:** ...tua singgah na nek ciangun na mitte-te kihong ding a...
 
 ### kibat = to be like/equal to
 **Context:** The consequence of eating the fruit is becoming like God.
-**Example:** ...a pha leh a sia thei-in Pasian tawh na kibat ding lamtak uh Pasian in thei hi,” ci hi.
+**Example:** ...a pha leh a sia thei-in Pasian tawh na kibat ding lamtak-te Pasian in thei hi,” ci hi.
 
 ### lamtak = way/manner/aspect
 **Context:** The aspect in which they will be like God (knowing good and evil).
-**Example:** ...Pasian tawh na kibat ding lamtak uh Pasian in thei hi,” ci hi.
+**Example:** ...Pasian tawh na kibat ding lamtak-te Pasian in thei hi,” ci hi.
 
 ### deihhuaina = desirableness/attractiveness
 **Context:** The tree's fruit was desirable to make one wise.
@@ -36,27 +36,27 @@
 
 ### khua phawk = to realize/become aware
 **Context:** After eating, their eyes were opened and they realized their state.
-**Example:** A nek khit phetun amaute gel in khua phawk uh a...
+**Example:** A nek khit phetun amaute gel in khua phawk-te a...
 
 ### guaktang = nakedness/naked state
 **Context:** They became aware of their nakedness.
-**Example:** ...a guaktangun a om lam uh kithei uh hi;
+**Example:** ...a guaktangun a om lam-te kithei-te hi;
 
 ### puansilh = apron/covering (made of leaves)
 **Context:** They made coverings for themselves out of leaves.
-**Example:** ...thei tehte khuituah-in puansilh dingin bawl uh hi.
+**Example:** ...thei tehte khuituah-in puansilh dingin bawl-te hi.
 
 ### Khuavot hunin = In the cool of the day (evening)
 **Context:** When the Lord God walked in the garden in the evening.
-**Example:** Khuavot hunin huan sungah Topa Pasian a paina ging amaute in za uh a...
+**Example:** Khuavot hunin huan sungah Topa Pasian a paina ging amaute in za-te a...
 
 ### muhna = sight/presence
 **Context:** They hid themselves from the sight of the Lord God.
-**Example:** ...Topa Pasian a paina ging amaute in za uh a, Topa Pasian' muhna panin...
+**Example:** ...Topa Pasian a paina ging amaute in za-te a, Topa Pasian' muhna panin...
 
-### bu uh hi = they hid themselves
+### bu-te hi = they hid themselves
 **Context:** The action taken by the man and woman to hide from God.
-**Example:** ...mipa leh a zi, huan sung singte' lakah bu uh hi.
+**Example:** ...mipa leh a zi, huan sung singte' lakah bu-te hi.
 
 ### sam = to call out to/summon
 **Context:** God called out to the man.
@@ -133,13 +133,13 @@
 
 ## Grammar Patterns
 
-- **Na si taktak kei ding uh hi.**
+- **Na si taktak kei ding-te hi.**
   - Use of the negative particle 'kei' with the future marker 'ding' and the intensifier 'taktak' (surely) to express a strong negative prediction/assurance.
-  - Example: Ahih hangin gulpi in numei kiangah, “Na si taktak kei ding uh hi.
+  - Example: Ahih hangin gulpi in numei kiangah, “Na si taktak kei ding-te hi.
 
 - **a pha leh a sia thei-in**
   - Use of the verb 'thei' (to know) in the conjunctive form '-in' following a conjunction 'leh' (and) to describe a state of knowing both concepts.
-  - Example: ...a pha leh a sia thei-in Pasian tawh na kibat ding lamtak uh Pasian in thei hi,” ci hi.
+  - Example: ...a pha leh a sia thei-in Pasian tawh na kibat ding lamtak-te Pasian in thei hi,” ci hi.
 
 - **a muh ciangin, ... a ne hi.**
   - Temporal clause structure: 'When X happened (a muh ciangin), then Y occurred (a ne hi)'.

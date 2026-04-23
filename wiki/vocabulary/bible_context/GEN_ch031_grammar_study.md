@@ -71,9 +71,9 @@
 ### v6
 **EN:** And ye know that with all my power I have served your father.
 
-**TDB77:** Ka tha neih khempeuh tawh na pa’ na ka sepna na thei uh hi;
+**TDB77:** Ka tha neih khempeuh tawh na pa’ na ka sepna na thei-te hi;
 
-**ZVS:** Ka tha neih khempeuh tawh na pa' na ka sepna na thei uh hi.
+**ZVS:** Ka tha neih khempeuh tawh na pa' na ka sepna na thei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -125,9 +125,9 @@
 ### v12
 **EN:** And he said, Lift up now thine eyes, and see, all the rams which leap upon the cattle are ringstraked, speckled, and grisled: for I have seen all that Laban doeth unto thee.
 
-**TDB77:** Amah in, ‘Khuadak to in la en in, a honte tunga a diang keelte khempeuh dung gial, bem gial-in puang uh hi; bang hang hiam cih leh Laban in nang' tunga hong bawlna ka mu khin hi.
+**TDB77:** Amah in, ‘Khuadak to in la en in, a honte tunga a diang keelte khempeuh dung gial, bem gial-in puang-te hi; bang hang hiam cih leh Laban in nang' tunga hong bawlna ka mu khin hi.
 
-**ZVS:** Amah in, ‘Khuadak to in la en in, a honte' tunga a diang keelte khempeuh dung gial, bem gialin puang uh hi. Bang hang hiam cih leh Laban in nang' tunga hong bawlna ka mu khin hi.
+**ZVS:** Amah in, ‘Khuadak to in la en in, a honte' tunga a diang keelte khempeuh dung gial, bem gialin puang-te hi. Bang hang hiam cih leh Laban in nang' tunga hong bawlna ka mu khin hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | plural: uh marker
 
@@ -161,9 +161,9 @@
 ### v16
 **EN:** For all the riches which God hath taken from our father, that is ours, and our children's: now then, whatsoever God hath said unto thee, do.
 
-**TDB77:** I pa’ tung panin Pasian in a lakkhiatsa neihsa khempeuh eite leh i tate’ aa ahi hi; tua ahih ciangin tu- in, nang' tunga Pasian’ hong cih peuhpeuh hih in,” ci uh hi.
+**TDB77:** I pa’ tung panin Pasian in a lakkhiatsa neihsa khempeuh eite leh i tate’ aa ahi hi; tua ahih ciangin tu- in, nang' tunga Pasian’ hong cih peuhpeuh hih in,” ci-te hi.
 
-**ZVS:** I pa' tung panin Pasian in a lakkhiatsa neihsa khempeuh eite leh i tate-a' ahi hi. Tua ahih ciangin tu-in, nang' tunga Pasian' hong cih peuhpeuh hih in,” a ci uh hi.
+**ZVS:** I pa' tung panin Pasian in a lakkhiatsa neihsa khempeuh eite leh i tate-a' ahi hi. Tua ahih ciangin tu-in, nang' tunga Pasian' hong cih peuhpeuh hih in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
@@ -224,7 +224,7 @@
 ### v23
 **EN:** And he took his brethren with him, and pursued after him seven days' journey; and they overtook him in the mount Gilead.
 
-**TDB77:** amah in a behte zawnin ni sagih sung amah delh a, Gilead gam mualtungah amah pha dekdek uh hi.
+**TDB77:** amah in a behte zawnin ni sagih sung amah delh a, Gilead gam mualtungah amah pha dekdek-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -240,9 +240,9 @@
 ### v25
 **EN:** Then Laban overtook Jacob. Now Jacob had pitched his tent in the mount: and Laban with his brethren pitched in the mount of Gilead.
 
-**TDB77:** Tua ciangin Laban in Jakob pha hi. Tu-in Jakob in Gilead mualtung gamah a puanbuk lam a, Laban leh a behte in Gilead gam mual tungah phual sat uh hi,
+**TDB77:** Tua ciangin Laban in Jakob pha hi. Tu-in Jakob in Gilead mualtung gamah a puanbuk lam a, Laban leh a behte in Gilead gam mual tungah phual sat-te hi,
 
-**ZVS:** Tua ciangin Laban in Jakob pha hi. Tu-in Jakob in mualtung khatah a puanbuk na lam a, Laban leh a behte in Gilead gam mualtungah phual a sat uh hi.
+**ZVS:** Tua ciangin Laban in Jakob pha hi. Tu-in Jakob in mualtung khatah a puanbuk na lam a, Laban leh a behte in Gilead gam mualtungah phual a sat-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -429,9 +429,9 @@
 ### v46
 **EN:** And Jacob said unto his brethren, Gather stones; and they took stones, and made an heap: and they did eat there upon the heap.
 
-**TDB77:** Jakob in a behte' kiangah, “Suang khawm un,” ci a, amaute in suang la-in suangcian khat bawl uh hi; tua suangcian' gei-ah amaute in an ne khawm uh hi.
+**TDB77:** Jakob in a behte' kiangah, “Suang khawm un,” ci a, amaute in suang la-in suangcian khat bawl-te hi; tua suangcian' gei-ah amaute in an ne khawm-te hi.
 
-**ZVS:** Jakob in a behte kiangah, “Suang khawm un,” ci a, amaute in suang la-in suangcian khat a bawl uh hi. Tua suangcian gei-ah amaute in an a ne khawm uh hi.
+**ZVS:** Jakob in a behte kiangah, “Suang khawm un,” ci a, amaute in suang la-in suangcian khat a bawl-te hi. Tua suangcian gei-ah amaute in an a ne khawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -501,9 +501,9 @@
 ### v54
 **EN:** Then Jacob offered sacrifice upon the mount, and called his brethren to eat bread: and they did eat bread, and tarried all night in the mount.
 
-**TDB77:** Jakob in mualtungah biak piakna pia-in an ne dingin a behte sam hi; amaute in an ne-in zan tawntung mualtungah om uh hi.
+**TDB77:** Jakob in mualtungah biak piakna pia-in an ne dingin a behte sam hi; amaute in an ne-in zan tawntung mualtungah om-te hi.
 
-**ZVS:** Jakob in mualtungah biakpiakna pia-in an ne dingin a behte a sam hi. Amaute in an ne uh a, zan tawntung mualtungah a om uh hi.
+**ZVS:** Jakob in mualtungah biakpiakna pia-in an ne dingin a behte a sam hi. Amaute in an ne-te a, zan tawntung mualtungah a om-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 

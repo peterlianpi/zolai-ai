@@ -60,9 +60,9 @@
 ### v6
 **EN:** Also unto Shemaiah his son were sons born, that ruled throughout the house of their father: for they were mighty men of valour.
 
-**TDB77:** Ama tapa upa pen Shemaiah sung panin zong a beh sungah ukte ahi tapate suak hi; bang hang hiam cih leh amaute in siamna lian a nei mite ahi uh hi.
+**TDB77:** Ama tapa upa pen Shemaiah sung panin zong a beh sungah ukte ahi tapate suak hi; bang hang hiam cih leh amaute in siamna lian a nei mite ahi-te hi.
 
-**ZVS:** Ama tapa upa pen Shemaiah sung panin zong a beh sungah ukte ahi tapate a suak hi; bang hang hiam cih leh amaute pen siamna lian a nei mite ahi uh hi.
+**ZVS:** Ama tapa upa pen Shemaiah sung panin zong a beh sungah ukte ahi tapate a suak hi; bang hang hiam cih leh amaute pen siamna lian a nei mite ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -76,9 +76,9 @@
 ### v8
 **EN:** All these of the sons of Obed–edom: they and their sons and their brethren, able men for strength for the service, were threescore and two of Obed–edom.
 
-**TDB77:** Hihte khempeuh in Obededom’ tapate leh amau’ tapate leh a sanggamte uh tawh, nasepna dingin siamna a nei mikician ahi uh hi; Obededom sung panin sawmguk-le-nih pha uh hi.
+**TDB77:** Hihte khempeuh in Obededom’ tapate leh amau’ tapate leh a sanggamte-te tawh, nasepna dingin siamna a nei mikician ahi-te hi; Obededom sung panin sawmguk-le-nih pha-te hi.
 
-**ZVS:** Hihte khempeuh pen Obededom' tapate leh amau' tapate leh a sanggamte uh tawh, nasepna dingin siamna a nei mi kician ahi uh hi. Obededom sung panin sawmguklenih pha uh hi.
+**ZVS:** Hihte khempeuh pen Obededom' tapate leh amau' tapate leh a sanggamte-te tawh, nasepna dingin siamna a nei mi kician ahi-te hi. Obededom sung panin sawmguklenih pha-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -103,36 +103,36 @@
 ### v11
 **EN:** Hilkiah the second, Tebaliah the third, Zechariah the fourth: all the sons and brethren of Hosah were thirteen.
 
-**TDB77:** Hilkiah a nihna, Tebaliah a thumna, Zekhariah a lina ahi hi. Hosah’ tapate leh a sanggamte khempeuh sawm-le-thum pha uh hi.
+**TDB77:** Hilkiah a nihna, Tebaliah a thumna, Zekhariah a lina ahi hi. Hosah’ tapate leh a sanggamte khempeuh sawm-le-thum pha-te hi.
 
-**ZVS:** Hilkiah a nihna, Tebaliah a thumna, Zekhariah a lina ahi hi. Hosah' tapate leh a sanggamte khempeuh sawmlethum a pha uh hi.
+**ZVS:** Hilkiah a nihna, Tebaliah a thumna, Zekhariah a lina ahi hi. Hosah' tapate leh a sanggamte khempeuh sawmlethum a pha-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** Among these were the divisions of the porters, even among the chief men, having wards one against another, to minister in the house of the
 
-**TDB77:** Innkuan pasal lutangte kongcingte ahi uh hi; amaute in a sanggamte uh tawh Topa’ inn sungah nasep nei uh hi;
+**TDB77:** Innkuan pasal lutangte kongcingte ahi-te hi; amaute in a sanggamte-te tawh Topa’ inn sungah nasep nei-te hi;
 
-**ZVS:** Innkuan pasal lutangte pen kongcingte ahi uh hi. Amaute in a sanggamte uh tawh { Topa' } biakinn sungah nasep nei uh hi.
+**ZVS:** Innkuan pasal lutangte pen kongcingte ahi-te hi. Amaute in a sanggamte-te tawh { Topa' } biakinn sungah nasep nei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** And they cast lots, as well the small as the great, according to the house of their fathers, for every gate.
 
-**TDB77:** amaute in a neu a lian a kibangin a pate uh innkuan kuanin amau’ kongpi ding ai saan uh hi.
+**TDB77:** amaute in a neu a lian a kibangin a pate-te innkuan kuanin amau’ kongpi ding ai saan-te hi.
 
-**ZVS:** Amaute in a neu a lian a kibangin a pate uh innkuankuanin amau' kongpi cin' ding ai san uh hi.
+**ZVS:** Amaute in a neu a lian a kibangin a pate-te innkuankuanin amau' kongpi cin' ding ai san-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And the lot eastward fell to Shelemiah. Then for Zechariah his son, a wise counsellor, they cast lots; and his lot came out northward.
 
-**TDB77:** Nisuahna lam adingin ai, Shelemiah tungah tu hi. A tapa, a pil thulamlakpa Zekhariah’ adingin zong ai saan uh a, leilu lam-a dingin ama ai pha hi.
+**TDB77:** Nisuahna lam adingin ai, Shelemiah tungah tu hi. A tapa, a pil thulamlakpa Zekhariah’ adingin zong ai saan-te a, leilu lam-a dingin ama ai pha hi.
 
-**ZVS:** Nisuahna lam-a dingin ai, Shelemiah tungah tu hi. A tapa, a pil thulamlakpa Zekhariah-a' dingin zong ai san uh a, leilu lam-a dingin ai pha hi.
+**ZVS:** Nisuahna lam-a dingin ai, Shelemiah tungah tu hi. A tapa, a pil thulamlakpa Zekhariah-a' dingin zong ai san-te a, leilu lam-a dingin ai pha hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -150,7 +150,7 @@
 
 **TDB77:** Shuppim leh Hosah adingin lampi a pai tohna, Shallekheth kongpi san, nitumna lamah kia hi. Galvil leh galvil kimaituah hi.
 
-**ZVS:** Shuppim leh Hosah-a' dingin lampi a paitohna, Shallekheth kongpi san, nitumna lamah kia hi. Galvil leh galvil kimaituah uh hi.
+**ZVS:** Shuppim leh Hosah-a' dingin lampi a paitohna, Shallekheth kongpi san, nitumna lamah kia hi. Galvil leh galvil kimaituah-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -200,9 +200,9 @@
 ### v22
 **EN:** The sons of Jehieli; Zetham, and Joel his brother, which were over the treasures of the house of the
 
-**TDB77:** Jehiel’ tapate, Zetham leh a sanggampa Joelte in Topa’ inn van manpha koihnate uk uh hi.
+**TDB77:** Jehiel’ tapate, Zetham leh a sanggampa Joelte in Topa’ inn van manpha koihnate uk-te hi.
 
-**ZVS:** Jehiel' tapa Zetham leh a sanggampa Joel in { Topa' } biakinn vanmanpha koihnate uk uh hi.
+**ZVS:** Jehiel' tapa Zetham leh a sanggampa Joel in { Topa' } biakinn vanmanpha koihnate uk-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -232,18 +232,18 @@
 ### v26
 **EN:** Which Shelomith and his brethren were over all the treasures of the dedicated things, which David the king, and the chief fathers, the captains over thousands and hundreds, and the captains of the host, had dedicated.
 
-**TDB77:** Hih Shelomoth leh a sanggamte in, kumpi David, leh beh lutangte, leh a tul tul leh a za za-a uk uliante, leh galkap a ukte in a ap uh ahi, a ki-ap letsongte a kikoihna khempeuh uk uh hi.
+**TDB77:** Hih Shelomoth leh a sanggamte in, kumpi David, leh beh lutangte, leh a tul tul leh a za za-a uk uliante, leh galkap a ukte in a ap-te ahi, a ki-ap letsongte a kikoihna khempeuh uk-te hi.
 
-**ZVS:** Hih Shelomith leh a sanggamte in, Kumpi David, beh lutangte, leh a tultul leh a zaza-a uk uliante, leh galkap a ukte in a ap uh ahi, a ki-ap letsongte a kikoihna khempeuh uk uh hi.
+**ZVS:** Hih Shelomith leh a sanggamte in, Kumpi David, beh lutangte, leh a tultul leh a zaza-a uk uliante, leh galkap a ukte in a ap-te ahi, a ki-ap letsongte a kikoihna khempeuh uk-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** Out of the spoils won in battles did they dedicate to maintain the house of the
 
-**TDB77:** Gal sungah a ngah vankinusiate sung panin Topa’ inn puah nadingin amaute in letsongte ap uh hi.
+**TDB77:** Gal sungah a ngah vankinusiate sung panin Topa’ inn puah nadingin amaute in letsongte ap-te hi.
 
-**ZVS:** Gal sungah a ngah uh van kinusiate sung panin { Topa' } biakinn puahna dingin amaute in letsongte ap uh hi.
+**ZVS:** Gal sungah a ngah-te van kinusiate sung panin { Topa' } biakinn puahna dingin amaute in letsongte ap-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -268,18 +268,18 @@
 ### v30
 **EN:** And of the Hebronites, Hashabiah and his brethren, men of valour, a thousand and seven hundred, were officers among them of Israel on this side Jordan westward in all the business of the
 
-**TDB77:** Hebron mite sung panin Hashabiah leh a sanggamte, siamna a nei mihing tulkhat leh zasagih in Jordan nitumna lam Israel tungah Topa’ nasepna khempeuh leh kumpipa’ nasemna ah uk uh hi.
+**TDB77:** Hebron mite sung panin Hashabiah leh a sanggamte, siamna a nei mihing tulkhat leh zasagih in Jordan nitumna lam Israel tungah Topa’ nasepna khempeuh leh kumpipa’ nasemna ah uk-te hi.
 
-**ZVS:** Hebron mite sung panin Hashabiah leh a sanggamte, siamna a nei mihing tul khat leh za sagih in Jordan nitumna lam Israel tungah { Topa' } nasepna khempeuh leh kumpipa' nasepna-ah uk uh hi.
+**ZVS:** Hebron mite sung panin Hashabiah leh a sanggamte, siamna a nei mihing tul khat leh za sagih in Jordan nitumna lam Israel tungah { Topa' } nasepna khempeuh leh kumpipa' nasepna-ah uk-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v31
 **EN:** Among the Hebronites was Jeriah the chief, even among the Hebronites, according to the generations of his fathers. In the fortieth year of the reign of David they were sought for, and there were found among them mighty men of valour at Jazer of Gilead.
 
-**TDB77:** Hebron mite sung panin Jerijah in a ukpi ahi hi. (David’ uk a kum sawmlina kumin kikantelna bawl uh a, Gilead gam sung Jazer ah amaute sung panin siamna lian a nei mihing kimu hi.)
+**TDB77:** Hebron mite sung panin Jerijah in a ukpi ahi hi. (David’ uk a kum sawmlina kumin kikantelna bawl-te a, Gilead gam sung Jazer ah amaute sung panin siamna lian a nei mihing kimu hi.)
 
-**ZVS:** Hebron mite sung panin Jerijah a ukpi ahi hi. (David' uk a kum sawmlina kumin kikantelna bawl uh a, Gilead gamsung Jazer-ah amaute sung panin siamna lian a nei mihing kimu hi.)
+**ZVS:** Hebron mite sung panin Jerijah a ukpi ahi hi. (David' uk a kum sawmlina kumin kikantelna bawl-te a, Gilead gamsung Jazer-ah amaute sung panin siamna lian a nei mihing kimu hi.)
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

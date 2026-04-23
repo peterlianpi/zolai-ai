@@ -1414,5 +1414,5 @@
       "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
     }
   ],
-  "files_scanned": 95401
+  "files_scanned": 95403
 }

@@ -31,7 +31,7 @@
 **Grammar:** serial verb: -in (and then)
 
 ### v2
-**EN:** And he said unto Aaron, Take thee a young calf for a sin offering, and a ram for a burnt offering, without blemish, and offer them before the
+**EN:** And he said unto Aaron, Take thee a young calf for a sin offering, and a gam for a burnt offering, without blemish, and offer them before the
 
 **TDB77:** amah in Aaron kiangah, “Khialhna hanga biak nadingin bawng pano khat leh meihal biak nadingin tuutal khat, a nih tuakin a sitbang lo, la in la, Topa’ mai-ah tuate pia in.
 
@@ -49,7 +49,7 @@
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v4
-**EN:** Also a bullock and a ram for peace offerings, to sacrifice before the
+**EN:** Also a bullock and a gam for peace offerings, to sacrifice before the
 
 **TDB77:** leh thunuam-a biakna-in Topa’ mai-ah piak dingin bawngtal khat leh tuutal khat leh, sathau tawh a kibawl an tawh biakna la in; bang hang hiam cih leh tu ni-in note tungah Topa hong kilang ding hi,’ ci in,” a ci hi.
 
@@ -60,9 +60,9 @@
 ### v5
 **EN:** And they brought that which Moses commanded before the tabernacle of the congregation: and all the congregation drew near and stood before the
 
-**TDB77:** Amaute in kikhopna buk mai-ah Moses thupiak teng hong paipih uh hi; mihonpite khempeuh a nai-ah hong pai-in Topa mai-ah ding uh hi.
+**TDB77:** Amaute in kikhopna buk mai-ah Moses thupiak teng hong paipih-te hi; mihonpite khempeuh a nai-ah hong pai-in Topa mai-ah ding-te hi.
 
-**ZVS:** Amaute in zong kikhopna buk mai-ah Moses' thupiak teng hong paipih uh a, mihonpite khempeuh a nai-ah hong pai-in { Topa' } mai-ah ding uh hi.
+**ZVS:** Amaute in zong kikhopna buk mai-ah Moses' thupiak teng hong paipih-te a, mihonpite khempeuh a nai-ah hong pai-in { Topa' } mai-ah ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** And the sons of Aaron brought the blood unto him: and he dipped his finger in the blood, and put it upon the horns of the altar, and poured out the blood at the bottom of the altar:
 
-**TDB77:** Aaron’ tapate in ama tungah a sisan pia uh a, amah in a sisan sungah a khutme diahin biakna tau kite nuh a, biakna tau bulah a sisan sung khia hi;
+**TDB77:** Aaron’ tapate in ama tungah a sisan pia-te a, amah in a sisan sungah a khutme diahin biakna tau kite nuh a, biakna tau bulah a sisan sung khia hi;
 
-**ZVS:** Aaron' tapate in ama tungah a si pia uh a, amah in a si sungah a khutme diahin biakna tau kite nuh a, biakna tau bulah a si vallai teng a sungkhia hi.
+**ZVS:** Aaron' tapate in ama tungah a si pia-te a, amah in a si sungah a khutme diahin biakna tau kite nuh a, biakna tau bulah a si vallai teng a sungkhia hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -119,18 +119,18 @@
 ### v12
 **EN:** And he slew the burnt offering; and Aaron's sons presented unto him the blood, which he sprinkled round about upon the altar.
 
-**TDB77:** Amah in meihal biakna go hi; Aaron’ tapate in ama tungah a si pia uh a, amah in biakna tau tung kimkotah theh hi.
+**TDB77:** Amah in meihal biakna go hi; Aaron’ tapate in ama tungah a si pia-te a, amah in biakna tau tung kimkotah theh hi.
 
-**ZVS:** Tua ciangin a meihal biakna a go hi. A tapate in ama tungah a si pia uh a, amah in biakna tau tung kimkotah a theh hi.
+**ZVS:** Tua ciangin a meihal biakna a go hi. A tapate in ama tungah a si pia-te a, amah in biakna tau tung kimkotah a theh hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And they presented the burnt offering unto him, with the pieces thereof, and the head: and he burnt them upon the altar.
 
-**TDB77:** Amaute in meihal biakna ama tungah a nen nenin a lutang tawh pia uh hi; amah in biakna tau tungah tuate hal hi.
+**TDB77:** Amaute in meihal biakna ama tungah a nen nenin a lutang tawh pia-te hi; amah in biakna tau tungah tuate hal hi.
 
-**ZVS:** Amaute in meihal biakna ama tungah a nen nenin a lutang tawh pia uh a, amah in biakna tau tungah tuate a hal hi.
+**ZVS:** Amaute in meihal biakna ama tungah a nen nenin a lutang tawh pia-te a, amah in biakna tau tungah tuate a hal hi.
 
 **Grammar:** plural: uh marker
 
@@ -169,16 +169,16 @@
 **Grammar:** serial verb: -in (and then)
 
 ### v18
-**EN:** He slew also the bullock and the ram for a sacrifice of peace offerings, which was for the people: and Aaron's sons presented unto him the blood, which he sprinkled upon the altar round about,
+**EN:** He slew also the bullock and the gam for a sacrifice of peace offerings, which was for the people: and Aaron's sons presented unto him the blood, which he sprinkled upon the altar round about,
 
-**TDB77:** Moses’ thupiak bangin amah in mite adingin thunuam-a biakna bawngtal leh tuutal zong go hi; Aaron’ tapate in ama kiangah a sisan paipih uh a, amah in biakna tau tung kimkotah theh a,
+**TDB77:** Moses’ thupiak bangin amah in mite adingin thunuam-a biakna bawngtal leh tuutal zong go hi; Aaron’ tapate in ama kiangah a sisan paipih-te a, amah in biakna tau tung kimkotah theh a,
 
-**ZVS:** Moses' thupiak bangin amah in mite-a' dingin thunuama biakna bawngtal leh tuutal zong a go hi. A tapate in ama kiangah a si paipih uh a, amah in biakna tau kimkotah theh a,
+**ZVS:** Moses' thupiak bangin amah in mite-a' dingin thunuama biakna bawngtal leh tuutal zong a go hi. A tapate in ama kiangah a si paipih-te a, amah in biakna tau kimkotah theh a,
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
-**EN:** And the fat of the bullock and of the ram, the rump, and that which covereth the inwards, and the kidneys, and the caul above the liver:
+**EN:** And the fat of the bullock and of the gam, the rump, and that which covereth the inwards, and the kidneys, and the caul above the liver:
 
 **TDB77:** bawngtal leh tuutal thau, leh a mei thau, leh a gilpi tuam, leh a kalte, leh a sintuamte
 
@@ -212,18 +212,18 @@
 ### v23
 **EN:** And Moses and Aaron went into the tabernacle of the congregation, and came out, and blessed the people: and the glory of the
 
-**TDB77:** Moses leh Aaron kikhopna buk sungah pai uh hi; amaute hong paikhiat ciangun amaute in mite thupha pia-in, mi khempeuh tungah Topa’ minthan’na kilang hi.
+**TDB77:** Moses leh Aaron kikhopna buk sungah pai-te hi; amaute hong paikhiat ciangun amaute in mite thupha pia-in, mi khempeuh tungah Topa’ minthan’na kilang hi.
 
-**ZVS:** Kikhopna buk sungah Moses leh Aaron hong tum uh a, hong pusuah khiat ciangun mite thupha pia a, mi khempeuh tungah { Topa' } minthan'na vang hong kilang hi.
+**ZVS:** Kikhopna buk sungah Moses leh Aaron hong tum-te a, hong pusuah khiat ciangun mite thupha pia a, mi khempeuh tungah { Topa' } minthan'na vang hong kilang hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And there came a fire out from before the
 
-**TDB77:** Topa mai panin mei hong piang khia-a meihal biakna leh biakna tau tunga om sathau kang hi; mi khempeuh in a muh uh ciangin, amaute awng uh a, lei maingatin puksuk uh hi.
+**TDB77:** Topa mai panin mei hong piang khia-a meihal biakna leh biakna tau tunga om sathau kang hi; mi khempeuh in a muh-te ciangin, amaute awng-te a, lei maingatin puksuk-te hi.
 
-**ZVS:** { Topa' } mai panin mei hong piangkhia-in meihal biakna leh biakna tau tunga om sathau a kang hi. Mi khempeuh in a muh uh ciangin awng uh a, lei maingatin a kunsuk uh hi.
+**ZVS:** { Topa' } mai panin mei hong piangkhia-in meihal biakna leh biakna tau tunga om sathau a kang hi. Mi khempeuh in a muh-te ciangin awng-te a, lei maingatin a kunsuk-te hi.
 
 **Grammar:** plural: uh marker
 

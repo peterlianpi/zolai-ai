@@ -26,9 +26,9 @@
 ### v1
 **EN:** Ephraim feedeth on wind, and followeth after the east wind: he daily increaseth lies and desolation; and they do make a covenant with the Assyrians, and oil is carried into Egypt.
 
-**TDB77:** Israel mite, a nung kawikawi huih tawh kibangin, sun tha pai-a a nasepna uh a mawkna ahi hi. Zuauna leh siatna lamsang bekbek khangsak uh hi. Assiria tawh kipawlna bawl uh a, Izipt tawh kizopna nei uh hi.
+**TDB77:** Israel mite, a nung kawikawi huih tawh kibangin, sun tha pai-a a nasepna-te a mawkna ahi hi. Zuauna leh siatna lamsang bekbek khangsak-te hi. Assiria tawh kipawlna bawl-te a, Izipt tawh kizopna nei-te hi.
 
-**ZVS:** Israel mite, a nung kawikawi huih tawh kibang a, sun thapai-a a nasepna uh a mawkna ahi hi. Zuauna leh siatna lamsang bekbek khangsak uh hi. Assiria-te tawh kipawlna bawl uh a, Egypt-te tawh kizopna nei uh hi.
+**ZVS:** Israel mite, a nung kawikawi huih tawh kibang a, sun thapai-a a nasepna-te a mawkna ahi hi. Zuauna leh siatna lamsang bekbek khangsak-te hi. Assiria-te tawh kipawlna bawl-te a, Egypt-te tawh kizopna nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -78,18 +78,18 @@
 ### v7
 **EN:** He is a merchant, the balances of deceit are in his hand: he loveth to oppress.
 
-**TDB77:** Sumbukte in tawi tehna man lo zang uh a, amaute in mi khem ding nuam a sa uh hi.
+**TDB77:** Sumbukte in tawi tehna man lo zang-te a, amaute in mi khem ding nuam a sa-te hi.
 
-**ZVS:** Sumbukte in tawitehna manlo zang uh a, amaute in mi khem ding nuam a sa uh hi.
+**ZVS:** Sumbukte in tawitehna manlo zang-te a, amaute in mi khem ding nuam a sa-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** And Ephraim said, Yet I am become rich, I have found me out substance: in all my labours they shall find none iniquity in me that were sin.
 
-**TDB77:** Israel mite in, “Tu-in ka hau uh a, kote’ adingin neihsa tampi ka ngah uh hi,” ci uh hi. Ahi zongin a hauhna teng un a mawhna teng uh loh zo lo hi.
+**TDB77:** Israel mite in, “Tu-in ka hau-te a, kote’ adingin neihsa tampi ka ngah-te hi,” ci-te hi. Ahi zongin a hauhna teng un a mawhna teng-te loh zo lo hi.
 
-**ZVS:** Israel mite in, “Tu-in ka hau uh a, kote-a' dingin neihsa tampi ka ngah uh hi,” ci uh hi. Ahi zongin a hauhnateng un a mawhnateng uh loh zolo hi.
+**ZVS:** Israel mite in, “Tu-in ka hau-te a, kote-a' dingin neihsa tampi ka ngah-te hi,” ci-te hi. Ahi zongin a hauhnateng un a mawhnateng-te loh zolo hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | negation: lo | plural: uh marker
 
@@ -114,9 +114,9 @@
 ### v11
 **EN:** Is there iniquity in Gilead? surely they are vanity: they sacrifice bullocks in Gilgal; yea, their altars are as heaps in the furrows of the fields.
 
-**TDB77:** Gilead gamah milim biakna om a, tuate in a kiman’na om lo hi. Gilgal gamah bawngtal tawh bia uh a, lo khote in a suang deih loh teng uh a phualphualin a cian’ kawikawi tawh kibangin, a biakna taute uh bangmahin kimang lo ding hi.
+**TDB77:** Gilead gamah milim biakna om a, tuate in a kiman’na om lo hi. Gilgal gamah bawngtal tawh bia-te a, lo khote in a suang deih loh teng-te a phualphualin a cian’ kawikawi tawh kibangin, a biakna taute-te bangmahin kimang lo ding hi.
 
-**ZVS:** Gilead gamah milim biakna om a, tuate a kiman'na omlo hi. Gilgal gamah bawngtal tawh bia uh a, lokhote in a suang deihlohteng uh a phualphualin a cian kawikawi tawh kibangin, a biakna taute uh bangmahin kimanglo ding hi.
+**ZVS:** Gilead gamah milim biakna om a, tuate a kiman'na omlo hi. Gilgal gamah bawngtal tawh bia-te a, lokhote in a suang deihlohteng-te a phualphualin a cian kawikawi tawh kibangin, a biakna taute-te bangmahin kimanglo ding hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -130,18 +130,18 @@
 ### v13
 **EN:** And by a prophet the
 
-**TDB77:** Topa in kamsang khat zangin Izipt panin Israelte paikhiatpih a, kamsang khat nasepna tawh amaute suakta-in nungta uh hi.
+**TDB77:** Topa in kamsang khat zangin Izipt panin Israelte paikhiatpih a, kamsang khat nasepna tawh amaute suakta-in nungta-te hi.
 
-**ZVS:** { Topa } in kamsang khat zangin Egypt panin Israel-te paikhiatpih a, kamsang khat' nasepna tawh amaute suakta-in a nungta uh hi.
+**ZVS:** { Topa } in kamsang khat zangin Egypt panin Israel-te paikhiatpih a, kamsang khat' nasepna tawh amaute suakta-in a nungta-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v14
 **EN:** Ephraim provoked him to anger most bitterly: therefore shall he leave his blood upon him, and his reproach shall his Lord return unto him.
 
-**TDB77:** Heh mahmah theih nading Israel mite gamta uh ahih manin amaute’ Topa in amau tung mahah a mawhna uh tungsak ding a, amaute’ mawhna mah thuaksak ding hi.
+**TDB77:** Heh mahmah theih nading Israel mite gamta-te ahih manin amaute’ Topa in amau tung mahah a mawhna-te tungsak ding a, amaute’ mawhna mah thuaksak ding hi.
 
-**ZVS:** Heh mahmah theihna dingin Israel mite gamta uh ahih manin amaute' { Topa } in amau' tung mahah a mawhna uh tungsak ding a, amaute' mawhna mah a thuaksak ding hi.
+**ZVS:** Heh mahmah theihna dingin Israel mite gamta-te ahih manin amaute' { Topa } in amau' tung mahah a mawhna-te tungsak ding a, amaute' mawhna mah a thuaksak ding hi.
 
 **Grammar:** intensifier: very/greatly | future: will | causal: because
 

@@ -69,18 +69,18 @@
 ### v6
 **EN:** And the children of Israel took their journey from Beeroth of the children of Jaakan to Moserah: there Aaron died, and there he was buried; and Eleazar his son ministered in the priest's office in his stead.
 
-**TDB77:** (Be-eroth Ben-ejaakan panin Moserah ah Israel mite zin uh hi. Tua lai-ah Aaron si a, tua lai mah ah kivui hi; ama tangin a tapa Eleazar in siampi na sem hi.
+**TDB77:** (Be-eroth Ben-ejaakan panin Moserah ah Israel mite zin-te hi. Tua lai-ah Aaron si a, tua lai mah ah kivui hi; ama tangin a tapa Eleazar in siampi na sem hi.
 
-**ZVS:** (Beeroth Benejaakan panin Moserah-ah Israel mite zin uh hi. Tua lai-ah Aaron si a, tua lai munah kivui hi. Ama tangin a tapa Eleazar in siampi na sem hi.
+**ZVS:** (Beeroth Benejaakan panin Moserah-ah Israel mite zin-te hi. Tua lai-ah Aaron si a, tua lai munah kivui hi. Ama tangin a tapa Eleazar in siampi na sem hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** From thence they journeyed unto Gudgodah; and from Gudgodah to Jotbathah, a land of rivers of waters.
 
-**TDB77:** Tua lai panin Gudgodah ah pai uh a, Gudgodah panin lui tuite a omna gam Jotbathah ah pai uh hi.
+**TDB77:** Tua lai panin Gudgodah ah pai-te a, Gudgodah panin lui tuite a omna gam Jotbathah ah pai-te hi.
 
-**ZVS:** Tua lai panin Gudgodah-ah pai uh a, Gudgodah panin lui tuite a omna gam Jotbathah-ah pai uh hi.
+**ZVS:** Tua lai panin Gudgodah-ah pai-te a, Gudgodah panin lui tuite a omna gam Jotbathah-ah pai-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** Wherefore Levi hath no part nor inheritance with his brethren; the
 
-**TDB77:** Tua ahih ciangin a sanggamte uh bangin Levi mite in tanh ahi a, luah ahi zongin nei lo uh hi. Topa na Pasian un amau kiangah a gen bangin Topa in amau luah ahi hi.)
+**TDB77:** Tua ahih ciangin a sanggamte-te bangin Levi mite in tanh ahi a, luah ahi zongin nei lo-te hi. Topa na Pasian un amau kiangah a gen bangin Topa in amau luah ahi hi.)
 
-**ZVS:** Tua ahih ciangin a sanggamte uh bangin Levi mite in tanh ahi a, luah ahi zongin neilo uh a, { Topa } na Pasian un amau kiangah a gen bangin { Topa } pen amau' luah ahi hi.)
+**ZVS:** Tua ahih ciangin a sanggamte-te bangin Levi mite in tanh ahi a, luah ahi zongin neilo-te a, { Topa } na Pasian un amau kiangah a gen bangin { Topa } pen amau' luah ahi hi.)
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -114,18 +114,18 @@
 ### v11
 **EN:** And the
 
-**TDB77:** Topa in kei tungah, ‘Amaute tungah piak dingin a pate uh tungah ka kiciam leitangah pai-in a luah theih nadingun ding in la, na khualzin uh zomin mite mai-ah pai in,’ hong ci hi.
+**TDB77:** Topa in kei tungah, ‘Amaute tungah piak dingin a pate-te tungah ka kiciam leitangah pai-in a luah theih nadingun ding in la, na khualzin-te zomin mite mai-ah pai in,’ hong ci hi.
 
-**ZVS:** { Topa } in kei kiangah, ‘Amaute tungah piak dingin a pu a pate uh tungah ka kiciam leitangah pai-in a luah theihna dingun ding in la, na khualzin uh zomin mite mai-ah pai in,’ hong ci hi.
+**ZVS:** { Topa } in kei kiangah, ‘Amaute tungah piak dingin a pu a pate-te tungah ka kiciam leitangah pai-in a luah theihna dingun ding in la, na khualzin-te zomin mite mai-ah pai in,’ hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v12
 **EN:** And now, Israel, what doth the
 
-**TDB77:** “Israelte aw, tu-in, Topa na Pasian uh zahtak ding, ama lampite tot ding, amah it ding, na lungsim khempeuh uh leh na nuntakna khempeuh uh tawh Topa note’ Pasian’ na sep ding,
+**TDB77:** “Israelte aw, tu-in, Topa na Pasian-te zahtak ding, ama lampite tot ding, amah it ding, na lungsim khempeuh-te leh na nuntakna khempeuh-te tawh Topa note’ Pasian’ na sep ding,
 
-**ZVS:** “Israel-te aw, tu-in, { Topa } na Pasian uh zahtak ding, ama lampite tot ding, amah it ding, na lungsim khempeuh uh leh na nuntakna khempeuh uh tawh { Topa } note' Pasian' na sep ding,
+**ZVS:** “Israel-te aw, tu-in, { Topa } na Pasian-te zahtak ding, ama lampite tot ding, amah it ding, na lungsim khempeuh-te leh na nuntakna khempeuh-te tawh { Topa } note' Pasian' na sep ding,
 
 **Grammar:** serial verb: -in (and then)
 
@@ -148,9 +148,9 @@
 ### v15
 **EN:** Only the
 
-**TDB77:** tua hi napi-in Topa in itna tawh ama lungsim na pu na pate uh tungah koihin, tu ni-a mah bangin midangte khempeuh sangin nomau’ suan leh khakte hong teel hi.
+**TDB77:** tua hi napi-in Topa in itna tawh ama lungsim na pu na pate-te tungah koihin, tu ni-a mah bangin midangte khempeuh sangin nomau’ suan leh khakte hong teel hi.
 
-**ZVS:** Tua hi napi-in { Topa } in na pu na pate uh a itna lian mahmah ahih manin tuni-a mah bangin midangte khempeuh sangin amau' suanlekhakte hong teelzaw hi.
+**ZVS:** Tua hi napi-in { Topa } in na pu na pate-te a itna lian mahmah ahih manin tuni-a mah bangin midangte khempeuh sangin amau' suanlekhakte hong teelzaw hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -168,7 +168,7 @@
 
 **TDB77:** Bang hang hiam cih leh Topa na Pasian un a lian, a vanglian a kihtak huai Pasian, angvan nei loin, sumgolh a la lo, pasiante’ Pasian, topate’ Topa ahi hi.
 
-**ZVS:** Bang hang hiam cih leh { Topa } na Pasian uh a lian, a vanglian, a kihtakhuai Pasian, angvan neiloin, sumgolh a lalo, pasian-te' Pasian, topate' Topa ahi hi.
+**ZVS:** Bang hang hiam cih leh { Topa } na Pasian-te a lian, a vanglian, a kihtakhuai Pasian, angvan neiloin, sumgolh a lalo, pasian-te' Pasian, topate' Topa ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -184,36 +184,36 @@
 ### v19
 **EN:** Love ye therefore the stranger: for ye were strangers in the land of Egypt.
 
-**TDB77:** Tua ahih ciangin mi peemte it un; bang hang hiam cih leh note in Izipt gamah mi peemte na hi uh hi.
+**TDB77:** Tua ahih ciangin mi peemte it un; bang hang hiam cih leh note in Izipt gamah mi peemte na hi-te hi.
 
-**ZVS:** Tua ahih ciangin peemtate it un; bang hang hiam cih leh note zong Egypt gamah peemta na hi uh hi.
+**ZVS:** Tua ahih ciangin peemtate it un; bang hang hiam cih leh note zong Egypt gamah peemta na hi-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v20
 **EN:** Thou shalt fear the
 
-**TDB77:** Topa note’ Pasian na zahtak ding uh hi; ama na semin amah beelin, ama min tawh na kiciam ding uh hi.
+**TDB77:** Topa note’ Pasian na zahtak ding-te hi; ama na semin amah beelin, ama min tawh na kiciam ding-te hi.
 
-**ZVS:** { Topa } note' Pasian na zahtak ding uh a, ama na semin, amah beelin, ama min tawh na kiciam ding uh hi.
+**ZVS:** { Topa } note' Pasian na zahtak ding-te a, ama na semin, amah beelin, ama min tawh na kiciam ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** He is thy praise, and he is thy God, that hath done for thee these great and terrible things, which thine eyes have seen.
 
-**TDB77:** Amah in nomau’ phat ahi hi: na mitte un a muhsa ahi hih a lian a kihtak huai a lamdang nate note adingin hong bawlsakpa in na Pasian uh ahi hi.
+**TDB77:** Amah in nomau’ phat ahi hi: na mitte un a muhsa ahi hih a lian a kihtak huai a lamdang nate note adingin hong bawlsakpa in na Pasian-te ahi hi.
 
-**ZVS:** Amah pen nomau' phat ding ahi hi. Na mitte un a muhsa hih a lian a kihtakhuai nate note-a' dingin hong bawlsakpa pen na Pasian uh ahi hi.
+**ZVS:** Amah pen nomau' phat ding ahi hi. Na mitte un a muhsa hih a lian a kihtakhuai nate note-a' dingin hong bawlsakpa pen na Pasian-te ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v22
 **EN:** Thy fathers went down into Egypt with threescore and ten persons; and now the
 
-**TDB77:** Na pu na pate uh mihing sawmsagih Izipt ah paisuk uh hi; tu-in Topa na Pasian un vantung aksi zah-in note hong tamsak hi.
+**TDB77:** Na pu na pate-te mihing sawmsagih Izipt ah paisuk-te hi; tu-in Topa na Pasian un vantung aksi zah-in note hong tamsak hi.
 
-**ZVS:** Na pu na pate uh mihing sawmsagih bek Egypt-ah paisuk uh a, ahi zongin tu-in { Topa } na Pasian un vantung aksi zahin note hong tamsak hi.
+**ZVS:** Na pu na pate-te mihing sawmsagih bek Egypt-ah paisuk-te a, ahi zongin tu-in { Topa } na Pasian un vantung aksi zahin note hong tamsak hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

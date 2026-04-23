@@ -51,9 +51,9 @@
 ### v4
 **EN:** Save that the high places were not removed: the people sacrificed and burnt incense still on the high places.
 
-**TDB77:** Ahi zongin mual tunga biaknate kilakhia lo hi; mite in tuate tungah biakna pia-in paknamtui hal lai uh hi.
+**TDB77:** Ahi zongin mual tunga biaknate kilakhia lo hi; mite in tuate tungah biakna pia-in paknamtui hal lai-te hi.
 
-**ZVS:** Ahi zongin mualtunga biaknate kilakhia lo hi. Mite in tuate tungah biakna pia-in paknamtui hal lai uh hi.
+**ZVS:** Ahi zongin mualtunga biaknate kilakhia lo hi. Mite in tuate tungah biakna pia-in paknamtui hal lai-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -78,9 +78,9 @@
 ### v7
 **EN:** So Azariah slept with his fathers; and they buried him with his fathers in the city of David: and Jotham his son reigned in his stead.
 
-**TDB77:** Tua ciangin Uzziah a pate tawh ihmu a, amaute in David khuapi sungah a pate tawh amah vui uh a, tua ciangin ama tangin a tapa Jotham in uk hi.
+**TDB77:** Tua ciangin Uzziah a pate tawh ihmu a, amaute in David khuapi sungah a pate tawh amah vui-te a, tua ciangin ama tangin a tapa Jotham in uk hi.
 
-**ZVS:** Tua ciangin Uzziah si a, amaute in David khuapi sungah a pate tawh amah vui uh a, tua ciangin ama tangin a tapa Jotham in a uk hi.
+**ZVS:** Tua ciangin Uzziah si a, amaute in David khuapi sungah a pate tawh amah vui-te a, tua ciangin ama tangin a tapa Jotham in a uk hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -157,9 +157,9 @@
 ### v16
 **EN:** Then Menahem smote Tiphsah, and all that were therein, and the coasts thereof from Tirzah: because they opened not to him, therefore he smote it; and all the women therein that were with child he ripped up.
 
-**TDB77:** Tua hun lai takin Menahem in Tappuah leh a sunga teng khempeuh leh Tirzah pana kipan a gam sung teng luh hi; bang hang hiam cih leh amaute in ama adingin a kongpite uh hong lo uh a, tua ahih ciangin amah in luhin, tua sunga om numei naupaai khempeuh phel kham hi.
+**TDB77:** Tua hun lai takin Menahem in Tappuah leh a sunga teng khempeuh leh Tirzah pana kipan a gam sung teng luh hi; bang hang hiam cih leh amaute in ama adingin a kongpite-te hong lo-te a, tua ahih ciangin amah in luhin, tua sunga om numei naupaai khempeuh phel kham hi.
 
-**ZVS:** Tua hun laitakin Menahem in Tappuah leh a sunga teng khempeuh leh Tirzah pana kipan a gamsungteng a luh hi. Bang hang hiam cih leh amaute in ama-a' dingin a kongpite uh honglo uh hi. Tua ahih ciangin amah in luhin, a sunga om numei naupaii khempeuh a phelkham hi.
+**ZVS:** Tua hun laitakin Menahem in Tappuah leh a sunga teng khempeuh leh Tirzah pana kipan a gamsungteng a luh hi. Bang hang hiam cih leh amaute in ama-a' dingin a kongpite-te honglo-te hi. Tua ahih ciangin amah in luhin, a sunga om numei naupaii khempeuh a phelkham hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -326,9 +326,9 @@
 ### v35
 **EN:** Howbeit the high places were not removed: the people sacrificed and burned incense still in the high places. He built the higher gate of the house of the
 
-**TDB77:** Ahi zongin mualtunga biaknate kikoih khia lo hi; mite in tuate tungah biakna pia-in paknamtui hal lai uh hi. Amah in Topa’ inn kulh kongpi tungnung bawl hi.
+**TDB77:** Ahi zongin mualtunga biaknate kikoih khia lo hi; mite in tuate tungah biakna pia-in paknamtui hal lai-te hi. Amah in Topa’ inn kulh kongpi tungnung bawl hi.
 
-**ZVS:** Ahi zongin mualtunga biaknate kikoihkhia lo hi. Mite in tuate' tungah biaknate pia-in paknamtui hal lai uh hi. Amah in { Topa' } biakinn kulhkongpi tungnung bawl hi.
+**ZVS:** Ahi zongin mualtunga biaknate kikoihkhia lo hi. Mite in tuate' tungah biaknate pia-in paknamtui hal lai-te hi. Amah in { Topa' } biakinn kulhkongpi tungnung bawl hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

@@ -14,7 +14,7 @@
   "id": "zvs_001",
   "prompt": "Translate: God created the heavens and the earth.",
   "correct": "Pasian in van leh gam a sak hi.",
-  "wrong": "Pathian in van leh ram a sak hi.",
+  "wrong": "pasian in van leh gam a sak hi.",
   "rule": "use_pasian_not_pathian + use_gam_not_ram",
   "source": "GEN 1:1 Tedim2010"
 }
@@ -113,7 +113,7 @@ from pathlib import Path
 def run_zvs_eval(model, test_file="data/eval/zvs_compliance_test_v1.jsonl"):
     """Run ZVS compliance evaluation."""
     tests = [json.loads(l) for l in Path(test_file).read_text().splitlines()]
-    FORBIDDEN = {"pathian", "ram", "fapa", "bawipa", "cu", "cun", "siangpahrang"}
+    FORBIDDEN = {"pasian", "gam", "tapa", "topa", "tua", "tua", "kumpipa"}
     
     results = []
     for t in tests:

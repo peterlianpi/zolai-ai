@@ -51,27 +51,27 @@
 ### v4
 **EN:** And his father in law, the damsel's father, retained him; and he abode with him three days: so they did eat and drink, and lodged there.
 
-**TDB77:** Tua ciangin a sungpa, numei’pa in amah taam sak a, amah tawh nithum sung om hi; tua ahih ciangin amaute in an ne, tui dawnin giak khawm uh hi.
+**TDB77:** Tua ciangin a sungpa, numei’pa in amah taam sak a, amah tawh nithum sung om hi; tua ahih ciangin amaute in an ne, tui dawnin giak khawm-te hi.
 
-**ZVS:** Tua ciangin a sungpa in amah taamsak a, amah tawh ni thum sung a om hi. Tua ahih ciangin amaute in an ne, tui dawnin giakkhawm uh hi.
+**ZVS:** Tua ciangin a sungpa in amah taamsak a, amah tawh ni thum sung a om hi. Tua ahih ciangin amaute in an ne, tui dawnin giakkhawm-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v5
 **EN:** And it came to pass on the fourth day, when they arose early in the morning, that he rose up to depart: and the damsel's father said unto his son in law, Comfort thine heart with a morsel of bread, and afterward go your way.
 
-**TDB77:** Tua ciangin a nili ni-in zingsangin amaute tho baih uh a, kithawi uh hi; ahih hangin numei’pa in a makpa, kiangah, “An tawmkhat ne-in na tha khauhsak in, tua khit ciangin na pai thei ding hi,” a ci hi.
+**TDB77:** Tua ciangin a nili ni-in zingsangin amaute tho baih-te a, kithawi-te hi; ahih hangin numei’pa in a makpa, kiangah, “An tawmkhat ne-in na tha khauhsak in, tua khit ciangin na pai thei ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin a ni li ni zingsangin amaute tho baih uh a, pai dingin kithawi uh hi. Ahih hangin a sungpa in a makpa kiangah, “An tawmkhat ne-in na tha khauhsak in. Tua khit ciangin na pai thei ding hi,” a ci hi.
+**ZVS:** Tua ciangin a ni li ni zingsangin amaute tho baih-te a, pai dingin kithawi-te hi. Ahih hangin a sungpa in a makpa kiangah, “An tawmkhat ne-in na tha khauhsak in. Tua khit ciangin na pai thei ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And they sat down, and did eat and drink both of them together: for the damsel's father had said unto the man, Be content, I pray thee, and tarry all night, and let thine heart be merry.
 
-**TDB77:** Tua ahih ciangin tua mi nihte tu-in ne-in dawn khawm uh hi; numei’ pa in mipa kiangah, “Tu zan taam ding lungkim in la, na lung nuamsak in,” a ci hi.
+**TDB77:** Tua ahih ciangin tua mi nihte tu-in ne-in dawn khawm-te hi; numei’ pa in mipa kiangah, “Tu zan taam ding lungkim in la, na lung nuamsak in,” a ci hi.
 
-**ZVS:** Tua ahih ciangin tua mi nihte tukhawmin an ne-in tui dawn uh hi. A sungpa in a makpa kiangah, “Tuzan taam ding lungkim hoh in la, na lung nuamsak in,” a ci hi.
+**ZVS:** Tua ahih ciangin tua mi nihte tukhawmin an ne-in tui dawn-te hi. A sungpa in a makpa kiangah, “Tuzan taam ding lungkim hoh in la, na lung nuamsak in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -87,18 +87,18 @@
 ### v8
 **EN:** And he arose early in the morning on the fifth day to depart: and the damsel's father said, Comfort thine heart, I pray thee. And they tarried until afternoon, and they did eat both of them.
 
-**TDB77:** Tua ciangin a ni nga ni-in a ding dingin zingsangin amah tho baih hi; numei’ pa in “An ne phot in la, ni a dialh mateng khawl lai in,” a ci hi. Tua ahih ciangin amaute in an ne uh hi.
+**TDB77:** Tua ciangin a ni nga ni-in a ding dingin zingsangin amah tho baih hi; numei’ pa in “An ne phot in la, ni a dialh mateng khawl lai in,” a ci hi. Tua ahih ciangin amaute in an ne-te hi.
 
-**ZVS:** Tua ciangin a ni nga ni-in a ding dingin zingsangin amah tho baih hi. A sungpa in, “An ne phot in la, ni a dialh mateng khawl lai in,” a ci hi. Tua ahih ciangin amaute in an ne uh hi.
+**ZVS:** Tua ciangin a ni nga ni-in a ding dingin zingsangin amah tho baih hi. A sungpa in, “An ne phot in la, ni a dialh mateng khawl lai in,” a ci hi. Tua ahih ciangin amaute in an ne-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v9
 **EN:** And when the man rose up to depart, he, and his concubine, and his servant, his father in law, the damsel's father, said unto him, Behold, now the day draweth toward evening, I pray you tarry all night: behold, the day groweth to an end, lodge here, that thine heart may be merry; and to morrow get you early on your way, that thou mayest go home.
 
-**TDB77:** Mipa leh a zineu leh a nasempa paikhia dingin a din’ ciangin a sungpa, numei’pa in ama kiangah, “En in, tu-in nitak nai-in ni niam ta hi; tu zan taam un. En in, ni tum dektak hi; hih lai-ah giak in la na lung nuamsak in; na lam pai nading uh zing ciang zingsangin tho baihin innah na ciah ding uh hi,” a ci hi.
+**TDB77:** Mipa leh a zineu leh a nasempa paikhia dingin a din’ ciangin a sungpa, numei’pa in ama kiangah, “En in, tu-in nitak nai-in ni niam ta hi; tu zan taam un. En in, ni tum dektak hi; hih lai-ah giak in la na lung nuamsak in; na lam pai nading-te zing ciang zingsangin tho baihin innah na ciah ding-te hi,” a ci hi.
 
-**ZVS:** Mipa leh a zineu leh a nasempa a paikhia dingin a din' uh ciangin a sungpa in, “En in, tu-in nitak nai-in ni niamta hi; tuzan taam un. En in, ni tum dektak hi. Hih lai-ah giak in la, na lung nuamsak in. Zing ciang zingsangin tho baihin inn-ah na ciah ding uh hi,” a ci hi.
+**ZVS:** Mipa leh a zineu leh a nasempa a paikhia dingin a din' uh ciangin a sungpa in, “En in, tu-in nitak nai-in ni niamta hi; tuzan taam un. En in, ni tum dektak hi. Hih lai-ah giak in la, na lung nuamsak in. Zing ciang zingsangin tho baihin inn-ah na ciah ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -141,18 +141,18 @@
 ### v14
 **EN:** And they passed on and went their way; and the sun went down upon them when they were by Gibeah, which belongeth to Benjamin.
 
-**TDB77:** Tua ahih ciangin amaute in khengin paisuak uh hi; tua ciangin Benjaminte’ gam ahi Gibeah khua gei-ah ni tum a,
+**TDB77:** Tua ahih ciangin amaute in khengin paisuak-te hi; tua ciangin Benjaminte’ gam ahi Gibeah khua gei-ah ni tum a,
 
-**ZVS:** Tua ahih ciangin amaute in khengin paisuak uh a, Benjamin-te' gam ahi Gibeah khua gei-ah ni tum a,
+**ZVS:** Tua ahih ciangin amaute in khengin paisuak-te a, Benjamin-te' gam ahi Gibeah khua gei-ah ni tum a,
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v15
 **EN:** And they turned aside thither, to go in and to lodge in Gibeah: and when he went in, he sat him down in a street of the city: for there was no man that took them into his house to lodging.
 
-**TDB77:** Gibeah-ah pai in a giak dingin tua lai-ah amaute kihei uh hi. Amah pai-in khuapi sung kongzing laizangah tu hi; bang hang hiam cih leh a zan taam dingin kuamah in a innah amaute sang lo hi.
+**TDB77:** Gibeah-ah pai in a giak dingin tua lai-ah amaute kihei-te hi. Amah pai-in khuapi sung kongzing laizangah tu hi; bang hang hiam cih leh a zan taam dingin kuamah in a innah amaute sang lo hi.
 
-**ZVS:** Gibeah-ah pai-in a giak dingin tua khua a zuan uh hi. Amah pai-in khuapisung kongzing laizangah tu hi; bang hang hiam cih leh a zan taam dingin kuamah in a inn-ah amaute sanglo hi.
+**ZVS:** Gibeah-ah pai-in a giak dingin tua khua a zuan-te hi. Amah pai-in khuapisung kongzing laizangah tu hi; bang hang hiam cih leh a zan taam dingin kuamah in a inn-ah amaute sanglo hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -175,18 +175,18 @@
 ### v18
 **EN:** And he said unto him, We are passing from Beth–lehem–judah toward the side of mount Ephraim; from thence am I: and I went to Beth–lehem–judah, but I am now going to the house of the
 
-**TDB77:** Amah in ama kiangah, “Keima hong pai khiatna Judah gam Bethlehem panin Efraim mualtung gam mongah a pai dingin hong nawk ka hi uh hi. Judah gam Bethlehem-ah ka pai hi; tu-in Topa inn-a ciah ka hi hi; kuamah in a inn-ah hong tungsak lo hi.
+**TDB77:** Amah in ama kiangah, “Keima hong pai khiatna Judah gam Bethlehem panin Efraim mualtung gam mongah a pai dingin hong nawk ka hi-te hi. Judah gam Bethlehem-ah ka pai hi; tu-in Topa inn-a ciah ka hi hi; kuamah in a inn-ah hong tungsak lo hi.
 
-**ZVS:** Amah in, “Keima hong paikhiatna Judah gam Bethlehem khua panin Efraim mualtung gam mongah a pai dingin hong nawk ka hi uh hi. Judah gam Bethlehem-ah ka pai hi. Tu-in ka inn-a a ciah ka hi hi. Kuamah in a inn-ah hong tungsak nuamlo hi.
+**ZVS:** Amah in, “Keima hong paikhiatna Judah gam Bethlehem khua panin Efraim mualtung gam mongah a pai dingin hong nawk ka hi-te hi. Judah gam Bethlehem-ah ka pai hi. Tu-in ka inn-a a ciah ka hi hi. Kuamah in a inn-ah hong tungsak nuamlo hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** Yet there is both straw and provender for our asses; and there is bread and wine also for me, and for thy handmaid, and for the young man which is with thy servants: there is no want of any thing.
 
-**TDB77:** Ka late uh adingin buhtu leh gan-an, kei leh na nasemnu leh na nasemte tawh a om tangvalpa’ adingin anlum leh leenggahzu ka nei uh hi; a kisam bangmah om lo hi,” a ci hi.
+**TDB77:** Ka late-te adingin buhtu leh gan-an, kei leh na nasemnu leh na nasemte tawh a om tangvalpa’ adingin anlum leh leenggahzu ka nei-te hi; a kisam bangmah om lo hi,” a ci hi.
 
-**ZVS:** Ka late uh-a' dingin buhtu leh gan-an, kei leh na nasemnu leh na nasemte tawh a om tangvalpa-a' dingin anlum leh leenggahzu ka nei uh a, a kisam bangmah omlo hi,” a ci hi.
+**ZVS:** Ka late uh-a' dingin buhtu leh gan-an, kei leh na nasemnu leh na nasemte tawh a om tangvalpa-a' dingin anlum leh leenggahzu ka nei-te a, a kisam bangmah omlo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -202,18 +202,18 @@
 ### v21
 **EN:** So he brought him into his house, and gave provender unto the asses: and they washed their feet, and did eat and drink.
 
-**TDB77:** Tua ahih ciangin amah in a innah ciahpih in late gan-an pia hi; amaute in a khe uh silin, ne-in dawn uh hi.
+**TDB77:** Tua ahih ciangin amah in a innah ciahpih in late gan-an pia hi; amaute in a khe-te silin, ne-in dawn-te hi.
 
-**ZVS:** Tua ahih ciangin amah in a inn-ah ciahpihin late gan-an a pia hi. Amaute in a khe uh silin an a ne uh hi.
+**ZVS:** Tua ahih ciangin amah in a inn-ah ciahpihin late gan-an a pia hi. Amaute in a khe-te silin an a ne-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v22
 **EN:** Now as they were making their hearts merry, behold, the men of the city, certain sons of Belial, beset the house round about, and beat at the door, and spake to the master of the house, the old man, saying, Bring forth the man that came into thine house, that we may know him.
 
-**TDB77:** Amaute in a lung uh nuamsakin a om lai takun, en in, tua khuapi mi, mi gina lote in tua inn kimkotah pangin a kongkhak tum uh hi; amaute in inn neipa puteekpa kiangah, “Ama taw ka luktheih nadingun na innah a hong tung mipa hong paikhiatpih in,” a ci uh hi.
+**TDB77:** Amaute in a lung-te nuamsakin a om lai takun, en in, tua khuapi mi, mi gina lote in tua inn kimkotah pangin a kongkhak tum-te hi; amaute in inn neipa puteekpa kiangah, “Ama taw ka luktheih nadingun na innah a hong tung mipa hong paikhiatpih in,” a ci-te hi.
 
-**ZVS:** Amaute in a lung uh nuamsakin a om laitakun, tua khuapi mi, mi ginalote in tua inn kimkotah pangin a kongkhak tumgawp uh hi. Amaute in inn nei puteekpa kiangah, “Ama taw ka luk theihna dingun na inn-ah a hong tung mipa hong paikhiatpih in,” a ci uh hi.
+**ZVS:** Amaute in a lung-te nuamsakin a om laitakun, tua khuapi mi, mi ginalote in tua inn kimkotah pangin a kongkhak tumgawp-te hi. Amaute in inn nei puteekpa kiangah, “Ama taw ka luk theihna dingun na inn-ah a hong tung mipa hong paikhiatpih in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -238,9 +238,9 @@
 ### v25
 **EN:** But the men would not hearken to him: so the man took his concubine, and brought her forth unto them; and they knew her, and abused her all the night until the morning: and when the day began to spring, they let her go.
 
-**TDB77:** Ahih hangin mite in ama thu ngai lo uh hi. Tua ciangin mipa in a zineu manin amaute kiangah koih khia hi; tua ciangin amaute in tua nu buan uh a, zingsang mateng zan tawntung tua nu hih uh hi. Zingsang khuavak ding hong kipat ciangin amaute in tua nu ciahsak uh hi.
+**TDB77:** Ahih hangin mite in ama thu ngai lo-te hi. Tua ciangin mipa in a zineu manin amaute kiangah koih khia hi; tua ciangin amaute in tua nu buan-te a, zingsang mateng zan tawntung tua nu hih-te hi. Zingsang khuavak ding hong kipat ciangin amaute in tua nu ciahsak-te hi.
 
-**ZVS:** Ahih hangin mite in ama thu ngailo uh hi. Tua ciangin Levi mipa in a zineu manin amaute kiangah koihkhia hi. Amaute in tuanu buan uh a, zingsang mateng zan tawntung tuanu hih uh hi. Zingsang khuavak dingin a kipat ciangin amaute in tuanu ciahsak uh hi.
+**ZVS:** Ahih hangin mite in ama thu ngailo-te hi. Tua ciangin Levi mipa in a zineu manin amaute kiangah koihkhia hi. Amaute in tuanu buan-te a, zingsang mateng zan tawntung tuanu hih-te hi. Zingsang khuavak dingin a kipat ciangin amaute in tuanu ciahsak-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -279,9 +279,9 @@
 ### v30
 **EN:** And it was so, that all that saw it said, There was no such deed done nor seen from the day that the children of Israel came up out of the land of Egypt unto this day: consider of it, take advice, and speak your minds.
 
-**TDB77:** A mu mite khempeuh in, “Tu ni dongin, Izipt gam panin Israel mite a pai khiat-a kipan hih bang thu piang ngei lo a, zong kimu ngei lo hi; hih thu ngaihsun un, kikum un la gen un,” a ci uh hi.
+**TDB77:** A mu mite khempeuh in, “Tu ni dongin, Izipt gam panin Israel mite a pai khiat-a kipan hih bang thu piang ngei lo a, zong kimu ngei lo hi; hih thu ngaihsun un, kikum un la gen un,” a ci-te hi.
 
-**ZVS:** A mu mite khempeuh in, “Egypt gam panin Israel mite a paikhiata kipan tuni dongin hih bang thu piang ngeilo a, zong kimu ngeilo hi. Hih thu ngaihsun un; kikum un la, gen un,” a ci uh hi.
+**ZVS:** A mu mite khempeuh in, “Egypt gam panin Israel mite a paikhiata kipan tuni dongin hih bang thu piang ngeilo a, zong kimu ngeilo hi. Hih thu ngaihsun un; kikum un la, gen un,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

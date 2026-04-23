@@ -33,18 +33,18 @@
 ### v2
 **EN:** And great multitudes followed him; and he healed them there.
 
-**TDB77:** Mi tampite in a nung zui uh a, tua munah cinate a damsak hi.
+**TDB77:** Mi tampite in a nung zui-te a, tua munah cinate a damsak hi.
 
-**ZVS:** Mihon tampi in amah zui uh a, tua munah cinate a damsak hi.
+**ZVS:** Mihon tampi in amah zui-te a, tua munah cinate a damsak hi.
 
 **Grammar:** causative: -sak suffix | plural: uh marker
 
 ### v3
 **EN:** The Pharisees also came unto him, tempting him, and saying unto him, Is it lawful for a man to put away his wife for every cause?
 
-**TDB77:** Farisaite in a kiangah va nai uh a, “Thu khempeuh hangin zi a mak tuak hiam?” ci-in a ze-et nadingin a dot uh ciangin,
+**TDB77:** Farisaite in a kiangah va nai-te a, “Thu khempeuh hangin zi a mak tuak hiam?” ci-in a ze-et nadingin a dot-te ciangin,
 
-**ZVS:** Farisi mite pawlkhat Jesuh kiangah hong pai uh a, amah a mawhsak theihna ding uh a deihna-un, “Thu khat peuhpeuh hangin zi maktheih ding mah ahi hiam?” ci-in a dong uh hi.
+**ZVS:** Farisi mite pawlkhat Jesuh kiangah hong pai-te a, amah a mawhsak theihna ding-te a deihna-un, “Thu khat peuhpeuh hangin zi maktheih ding mah ahi hiam?” ci-in a dong-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -60,16 +60,16 @@
 ### v7
 **EN:** They say unto him, Why did Moses then command to give a writing of divorcement, and to put her away?
 
-**TDB77:** Amaute in, “Tua bang ahih leh, kikhenna lai pia-in, a zi ma hen,’ ci-in Moses in bang hangin thu a pia hiam?” ci-a a dot uh ciangin,
+**TDB77:** Amaute in, “Tua bang ahih leh, kikhenna lai pia-in, a zi ma hen,’ ci-in Moses in bang hangin thu a pia hiam?” ci-a a dot-te ciangin,
 
-**ZVS:** Tua ciangin Farisi mite in, “Tua ahih leh bang hangin Moses in mi khatpeuh makna lai gelh sakin a zi masak thei ahi hiam?” ci-in a dot uh ciangin
+**ZVS:** Tua ciangin Farisi mite in, “Tua ahih leh bang hangin Moses in mi khatpeuh makna lai gelh sakin a zi masak thei ahi hiam?” ci-in a dot-te ciangin
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v8
 **EN:** He saith unto them,
 
-**TDB77:** Zeisu in, “Note na lungsim uh khauh lua ahih ciangin, a zi a mak theih nadingin Moses in thu a pia hi. Ahih hangin a kipat cilin tua bang ahi kei hi.
+**TDB77:** Zeisu in, “Note na lungsim-te khauh lua ahih ciangin, a zi a mak theih nadingin Moses in thu a pia hi. Ahih hangin a kipat cilin tua bang ahi kei hi.
 
 **ZVS:** Jesuh in, “Note, hilhzawhin na omloh manun Moses in hih bangin ngeina a omsak thei ahi hi. Ahi zongin a kipat cilin tua bang na hilo hi.
 
@@ -80,32 +80,32 @@
 
 **TDB77:** A nungzuite in, “Nupate thu in hih bang ahih leh, kiteeng kei leeng a pha ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin a nungzuite in Jesuh kiangah, “Nupa thu tua bang ding ahih leh kiteng vet kei lehang hoihzaw ding hi,” a ci uh hi.
+**ZVS:** Tua ciangin a nungzuite in Jesuh kiangah, “Nupa thu tua bang ding ahih leh kiteng vet kei lehang hoihzaw ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 
 ### v11
 **EN:** But he said unto them,
 
-**TDB77:** Zeisu in, “Hih thu mi khempeuh in mang zo lo ding uh hi.
+**TDB77:** Zeisu in, “Hih thu mi khempeuh in mang zo lo ding-te hi.
 
-**ZVS:** Ahi zongin Jesuh in, “Hih ngeina pen mi khempeuh in a zuihzawh ding hilo a, Pasian in a tuaci dingin a sehte bek in a zuizo ding uh ahi hi.
+**ZVS:** Ahi zongin Jesuh in, “Hih ngeina pen mi khempeuh in a zuihzawh ding hilo a, Pasian in a tuaci dingin a sehte bek in a zuizo ding-te ahi hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v13
 **EN:** Then were there brought unto him little children, that he should put his hands on them, and pray: and the disciples rebuked them.
 
-**TDB77:** Tua ciangin naupangte tungah a khut nga a, thu a ngetsak nading deihin, Zeisu kiangah paipih uh a, a nungzuite in a kham uh hi.
+**TDB77:** Tua ciangin naupangte tungah a khut nga a, thu a ngetsak nading deihin, Zeisu kiangah paipih-te a, a nungzuite in a kham-te hi.
 
-**ZVS:** Tua ciangin mi pawlkhat in a naupangte uh tungah Jesuh in a khut nga-in thu a ngetsakna ding deihin a naupangte uh a hong paipih uh hi. Ahi zongin a nungzuite in tua mite na taii uh hi.
+**ZVS:** Tua ciangin mi pawlkhat in a naupangte-te tungah Jesuh in a khut nga-in thu a ngetsakna ding deihin a naupangte-te a hong paipih-te hi. Ahi zongin a nungzuite in tua mite na taii-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** But Jesus said,
 
-**TDB77:** Zeisu in, “Naupangte omsak ta un. Ka kiangah hong pai ding uh kham kei un. Bang hang hiam na cih uh leh, Vantung Gam in tua bangte gam ahi hi,” a ci hi.
+**TDB77:** Zeisu in, “Naupangte omsak ta un. Ka kiangah hong pai ding-te kham kei un. Bang hang hiam na cih-te leh, Vantung Gam in tua bangte gam ahi hi,” a ci hi.
 
 **ZVS:** Jesuh in, “Vantung ki-ukna pen naupangte tawh a kibang mite-a' ding ahih manin, tua naupangte ka kiangah hong paipihsak un la, khaktan kei un,” a ci hi.
 
@@ -182,16 +182,16 @@
 ### v25
 **EN:** When his disciples heard it, they were exceedingly amazed, saying, Who then can be saved?
 
-**TDB77:** A nungzuite in tua thu a zak uh ciangin, lamdang mahmah a sa uh hi. “Tua bang ahih leh, kua in gupna ngah zo ding hiam?” a ci uh hi.
+**TDB77:** A nungzuite in tua thu a zak-te ciangin, lamdang mahmah a sa-te hi. “Tua bang ahih leh, kua in gupna ngah zo ding hiam?” a ci-te hi.
 
-**ZVS:** Nungzuite in hih thu a zak uh ciangin lamdangsa mahmah uh a, “Kua in hotkhiatna ngahzo ding ahi hiam?” a ci uh hi.
+**ZVS:** Nungzuite in hih thu a zak-te ciangin lamdangsa mahmah-te a, “Kua in hotkhiatna ngahzo ding ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | plural: uh marker
 
 ### v26
 **EN:** But Jesus beheld them, and said unto them,
 
-**TDB77:** Zeisu in amaute enin, “Hih thu mite in ahih zo kei uh hi. Ahih hangin Pasian in na khempeuh ahih thei hi,” a ci hi.
+**TDB77:** Zeisu in amaute enin, “Hih thu mite in ahih zo kei-te hi. Ahih hangin Pasian in na khempeuh ahih thei hi,” a ci hi.
 
 **ZVS:** Ahi zongin Jesuh in amaute enin, “Mihingte' hihzawh ding hilo mah hi; ahi zongin Pasian in na khempeuh hihthei hi,” a ci hi.
 
@@ -200,18 +200,18 @@
 ### v27
 **EN:** Then answered Peter and said unto him, Behold, we have forsaken all, and followed thee; what shall we have therefore?
 
-**TDB77:** Tua lai takin Piter in, “Kote in ka neihsa khempeuh uh nusia-in, nangmah ka hong zui uh hi. Tua ahih ciangin bang ka ngah ding uh hiam?” ci-in a dong hi.
+**TDB77:** Tua lai takin Piter in, “Kote in ka neihsa khempeuh-te nusia-in, nangmah ka hong zui-te hi. Tua ahih ciangin bang ka ngah ding-te hiam?” ci-in a dong hi.
 
-**ZVS:** Tua ciangin Peter in, “Kote in na khempeuh nusia-in nang ka hong zui uh hi. Tua ahih ciangin bang ngahding ka hi uh hiam?” ci-in a dot ciangin
+**ZVS:** Tua ciangin Peter in, “Kote in na khempeuh nusia-in nang ka hong zui-te hi. Tua ahih ciangin bang ngahding ka hi-te hiam?” ci-in a dot ciangin
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v28
 **EN:** And Jesus said unto them,
 
-**TDB77:** Zeisu in, “Ke’n aman takpi kong cih-inah, na khempeuh a thak kibawl kik a, Mihing Tapa in vangliatna tokhom tungah a tut ciangin ka nung hong zui note in thukhen tokhom sawm leh nih tungah tu-in, Israel mipawl sawm leh nihte tungah thu na khen ding uh hi.
+**TDB77:** Zeisu in, “Ke’n aman takpi kong cih-inah, na khempeuh a thak kibawl kik a, Mihing Tapa in vangliatna tokhom tungah a tut ciangin ka nung hong zui note in thukhen tokhom sawm leh nih tungah tu-in, Israel mipawl sawm leh nihte tungah thu na khen ding-te hi.
 
-**ZVS:** Jesuh in amaute kiangah, “Ke'n limtaka kong genin-ah: A hong tungding hun thak sungah a minthan'na tokhom tungah Mihing Tapa a tut hun ciangin kei a hong zui note zong, tokhom sawmlenihte tung mahah tu-in Israel minam sawmlenihte tungah thukhenin na om ding uh hi.
+**ZVS:** Jesuh in amaute kiangah, “Ke'n limtaka kong genin-ah: A hong tungding hun thak sungah a minthan'na tokhom tungah Mihing Tapa a tut hun ciangin kei a hong zui note zong, tokhom sawmlenihte tung mahah tu-in Israel minam sawmlenihte tungah thukhenin na om ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

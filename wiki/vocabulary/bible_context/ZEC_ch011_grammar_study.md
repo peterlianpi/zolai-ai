@@ -45,9 +45,9 @@
 ### v3
 **EN:** There is a voice of the howling of the shepherds; for their glory is spoiled: a voice of the roaring of young lions; for the pride of Jordan is spoiled.
 
-**TDB77:** Tuucingte, a minthan’na uh beita ahih manin, dahin kap uh hi. A tulak inn uh kisusia khin ahih manin humpinelkaite’ hawkna za un.
+**TDB77:** Tuucingte, a minthan’na-te beita ahih manin, dahin kap-te hi. A tulak inn-te kisusia khin ahih manin humpinelkaite’ hawkna za un.
 
-**ZVS:** Tuucingte a minthan'na uh bei khinta ahih manin dahin a kap uh hi. A tuulak inn uh kisusia khin ahih manin humpinelkaite' hawkna za un.
+**ZVS:** Tuucingte a minthan'na-te bei khinta ahih manin dahin a kap-te hi. A tuulak inn-te kisusia khin ahih manin humpinelkaite' hawkna za un.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -63,9 +63,9 @@
 ### v5
 **EN:** Whose possessors slay them, and hold themselves not guilty: and they that sell them say, Blessed be the
 
-**TDB77:** Tuu neite in a tuute go uh a, ahi zongin daan kipia lo hi. Amaute in a tuusa zuak uh a, ‘Topa in thupha ngah ta hen. Tu-in i hau ta hi,’ ci uh hi. A tuucingte mahmah in a tuute hehpihna nei lo uh hi.
+**TDB77:** Tuu neite in a tuute go-te a, ahi zongin daan kipia lo hi. Amaute in a tuusa zuak-te a, ‘Topa in thupha ngah ta hen. Tu-in i hau ta hi,’ ci-te hi. A tuucingte mahmah in a tuute hehpihna nei lo-te hi.
 
-**ZVS:** Tuu neite in a tuute go uh a, ahi zongin amaute gim kipialo hi. Amaute in a tuusa zuak uh a, ‘{ Topa } in thupha ngah ta hen. Tu-in i hauta hi,’ ci uh hi. A tuucingte mahmah in a tuute uh hehpihna neilo uh hi.
+**ZVS:** Tuu neite in a tuute go-te a, ahi zongin amaute gim kipialo hi. Amaute in a tuusa zuak-te a, ‘{ Topa } in thupha ngah ta hen. Tu-in i hauta hi,’ ci-te hi. A tuucingte mahmah in a tuute-te hehpihna neilo-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -81,18 +81,18 @@
 ### v7
 **EN:** And I will feed the flock of slaughter, even you, O poor of the flock. And I took unto me two staves; the one I called Beauty, and the other I called Bands; and I fed the flock.
 
-**TDB77:** Tua summeet bawlte in kei hong cial uh a, a kigo ding tuute a cingpa ka suak hi. Kei zong ciangkhut nih ka la a, khat pen Hehpihna ci-in min ka phuak a, a khat pen Kipawlna ci-in min ka phuak hi. Tua hi a, kei zong tua tuute a cingin ka om hi.
+**TDB77:** Tua summeet bawlte in kei hong cial-te a, a kigo ding tuute a cingpa ka suak hi. Kei zong ciangkhut nih ka la a, khat pen Hehpihna ci-in min ka phuak a, a khat pen Kipawlna ci-in min ka phuak hi. Tua hi a, kei zong tua tuute a cingin ka om hi.
 
-**ZVS:** Tuu summeet bawlte in kei hong cial uh a, a kigo ding tuute a cingpa ka suak hi. Kei zong ciangkhut nih la-in khat pen “Hehpihna” ci-in min ka phuak a, a khat pen “Kipawlna” ci-in min ka phuak hi. Tua hi a, tuute a cingin kei ka om hi.
+**ZVS:** Tuu summeet bawlte in kei hong cial-te a, a kigo ding tuute a cingpa ka suak hi. Kei zong ciangkhut nih la-in khat pen “Hehpihna” ci-in min ka phuak a, a khat pen “Kipawlna” ci-in min ka phuak hi. Tua hi a, tuute a cingin kei ka om hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Three shepherds also I cut off in one month; and my soul lothed them, and their soul also abhorred me.
 
-**TDB77:** Kha khat sungin tuucing thumte ka notkhia hi. Bang hang hiam cih leh amaute tungah ka lungduai zo nawn kei a, amaute in kei hong mudah uh hi.
+**TDB77:** Kha khat sungin tuucing thumte ka notkhia hi. Bang hang hiam cih leh amaute tungah ka lungduai zo nawn kei a, amaute in kei hong mudah-te hi.
 
-**ZVS:** Kha khat sungin tuucing adang thumte ka notkhia hi. Bang hang hiam cih leh amaute tungah ka lungduaizo nawn kei a, amaute in kei hong mudah uh hi.
+**ZVS:** Kha khat sungin tuucing adang thumte ka notkhia hi. Bang hang hiam cih leh amaute tungah ka lungduaizo nawn kei a, amaute in kei hong mudah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -117,27 +117,27 @@
 ### v11
 **EN:** And it was broken in that day: and so the poor of the flock that waited upon me knew that it was the word of the
 
-**TDB77:** Tua ahih manin tua ni-in thuciamna kiphiat hi. Tuu summeet bawlte in hong en giugiau uh a, hih banga ka gamtatna panin Topa’ thugen ahih lam phawk uh hi.
+**TDB77:** Tua ahih manin tua ni-in thuciamna kiphiat hi. Tuu summeet bawlte in hong en giugiau-te a, hih banga ka gamtatna panin Topa’ thugen ahih lam phawk-te hi.
 
-**ZVS:** Tua ahih manin tua ni-in thuciamna kiphiat hi. Tuu summeet bawlte in hong en giaugiau uh a, hih banga ka gamtatna panin { Topa' } thugen ahihlam a phawk uh hi.
+**ZVS:** Tua ahih manin tua ni-in thuciamna kiphiat hi. Tuu summeet bawlte in hong en giaugiau-te a, hih banga ka gamtatna panin { Topa' } thugen ahihlam a phawk-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And I said unto them, If ye think good, give me my price; and if not, forbear. So they weighed for my price thirty pieces of silver.
 
-**TDB77:** Tua ciangin kei zong amaute kiangah, “Hoih na sak uh leh ka tuucin’ thaman hong pia un. Hoih na sak kei uh leh lah tang lel un,” ka ci hi. Tua ciangin ka thaman dingin ngun shekel sawmthum hong pia uh hi.
+**TDB77:** Tua ciangin kei zong amaute kiangah, “Hoih na sak-te leh ka tuucin’ thaman hong pia un. Hoih na sak kei-te leh lah tang lel un,” ka ci hi. Tua ciangin ka thaman dingin ngun shekel sawmthum hong pia-te hi.
 
-**ZVS:** Tua ciangin kei zong amaute kiangah, “Hoih na sak uh leh ka tuucin' thaman hong pia un. Hoih na sak kei uh leh lah tang lel un,” ka ci hi. Tua ciangin ka thaman dingin ngun shekel sawmthum hong pia uh hi.
+**ZVS:** Tua ciangin kei zong amaute kiangah, “Hoih na sak-te leh ka tuucin' thaman hong pia un. Hoih na sak kei-te leh lah tang lel un,” ka ci hi. Tua ciangin ka thaman dingin ngun shekel sawmthum hong pia-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And the
 
-**TDB77:** Tua ciangin Topa in kei kiangah, “Biakinn sum koihna sungah tuate koih in,” hong ci hi. Tua ciangin kei zong, kei tawh kituak-a tam a sak mahmah uh tua dangka sawmthum la-in biakinn sumkoihna sungah ka koih hi.
+**TDB77:** Tua ciangin Topa in kei kiangah, “Biakinn sum koihna sungah tuate koih in,” hong ci hi. Tua ciangin kei zong, kei tawh kituak-a tam a sak mahmah-te tua dangka sawmthum la-in biakinn sumkoihna sungah ka koih hi.
 
-**ZVS:** Tua ciangin { Topa } in kei kiangah, “Biakinn sumkoihna sungah tuate koih in,” hong ci hi. Tua ciangin kei zong, kei tawh kituakin tam a sak mahmah uh tua dangka sawmthum la-in biakinn sumkoihna sungah ka koih hi.
+**ZVS:** Tua ciangin { Topa } in kei kiangah, “Biakinn sumkoihna sungah tuate koih in,” hong ci hi. Tua ciangin kei zong, kei tawh kituakin tam a sak mahmah-te tua dangka sawmthum la-in biakinn sumkoihna sungah ka koih hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix
 

@@ -25,16 +25,16 @@
 ### v2
 **EN:** Thou that art full of stirs, a tumultuous city, a joyous city: thy slain men are not slain with the sword, nor dead in battle.
 
-**TDB77:** Maangmuhna Kuam tawh kisai thu hih bangin gen hi: Kikona tawh a kidim, a gamlum khuapi, lungdamin a diang khua aw, note khempeuh, innkhumzangah na kah toh uh bang na cihnopna uh ahi hiam? A kithat nangma mite pen namsau tawh a kithat hilo a, galsunga si hilo uh hi.
+**TDB77:** Maangmuhna Kuam tawh kisai thu hih bangin gen hi: Kikona tawh a kidim, a gamlum khuapi, lungdamin a diang khua aw, note khempeuh, innkhumzangah na kah toh-te bang na cihnopna-te ahi hiam? A kithat nangma mite pen namsau tawh a kithat hilo a, galsunga si hilo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** All thy rulers are fled together, they are bound by the archers: all that are found in thee are bound together, which have fled from far.
 
-**TDB77:** Note hong uk mite tai uh a, thal zat kul loin amaute kiman hi. Amaute gamlapi ah a tai uh hangin, hong kimu note khempeuh hong kiman hi.
+**TDB77:** Note hong uk mite tai-te a, thal zat kul loin amaute kiman hi. Amaute gamlapi ah a tai-te hangin, hong kimu note khempeuh hong kiman hi.
 
-**ZVS:** Note hong uk mite tai uh a, thal zat kulloin amaute kiman hi. Gamlapi-ah na tai uh hangin hong kimu note khempeuh hong kiman hi.
+**ZVS:** Note hong uk mite tai-te a, thal zat kulloin amaute kiman hi. Gamlapi-ah na tai-te hangin hong kimu note khempeuh hong kiman hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -59,18 +59,18 @@
 ### v6
 **EN:** And Elam bare the quiver with chariots of men and horsemen, and Kir uncovered the shield.
 
-**TDB77:** Sakol leengte leh sakol tung tuangte tawh Elam galkapte in thallawng pua a, Kir galkapte in a lumte uh a baihsa-in nei uh hi.
+**TDB77:** Sakol leengte leh sakol tung tuangte tawh Elam galkapte in thallawng pua a, Kir galkapte in a lumte-te a baihsa-in nei-te hi.
 
-**ZVS:** Sakol leengte leh sakol tung tuangte tawh Elam galkapte in thallawng pua uh a, Kir galkapte in a lumte uh a baihsa-in nei uh hi.
+**ZVS:** Sakol leengte leh sakol tung tuangte tawh Elam galkapte in thallawng pua-te a, Kir galkapte in a lumte-te a baihsa-in nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And it shall come to pass, that thy choicest valleys shall be full of chariots, and the horsemen shall set themselves in array at the gate.
 
-**TDB77:** Nomau’ teel Judah kuamte pen sakol leeng tawh kidim a, sakol tuangte in Jerusalem kulh kongpite ah pang uh hi.
+**TDB77:** Nomau’ teel Judah kuamte pen sakol leeng tawh kidim a, sakol tuangte in Jerusalem kulh kongpite ah pang-te hi.
 
-**ZVS:** Nomau' teel Judah kuamte sakol leeng tawh kidim a, sakol tung tuangte in Jerusalem kulhkongpite-ah a pang uh hi.
+**ZVS:** Nomau' teel Judah kuamte sakol leeng tawh kidim a, sakol tung tuangte in Jerusalem kulhkongpite-ah a pang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -120,9 +120,9 @@
 ### v13
 **EN:** And behold joy and gladness, slaying oxen, and killing sheep, eating flesh, and drinking wine: let us eat and drink; for to morrow we shall die.
 
-**TDB77:** ahih hangin note in lungdamna leh kipahna, bawngtalte leh tuute gawhna, sa nekna leh leenggahzu nekna na nei zawsop uh a, “Zing ciangin si ding i hih ciangin ne-in dawn ni” na ci uh hi.
+**TDB77:** ahih hangin note in lungdamna leh kipahna, bawngtalte leh tuute gawhna, sa nekna leh leenggahzu nekna na nei zawsop-te a, “Zing ciangin si ding i hih ciangin ne-in dawn ni” na ci-te hi.
 
-**ZVS:** Ahih hangin note in lungdamna leh kipahna, bawngtalte leh tuute gawhna, sa nekna leh leenggahzu nekna na nei zawsop uh a, “Zing ciangin si ding ihih ciangin nene-in dawndawn ni,” na ci zawsop uh hi.
+**ZVS:** Ahih hangin note in lungdamna leh kipahna, bawngtalte leh tuute gawhna, sa nekna leh leenggahzu nekna na nei zawsop-te a, “Zing ciangin si ding ihih ciangin nene-in dawndawn ni,” na ci zawsop-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -215,9 +215,9 @@
 ### v24
 **EN:** And they shall hang upon him all the glory of his father's house, the offspring and the issue, all vessels of small quantity, from the vessels of cups, even to all the vessels of flagons.
 
-**TDB77:** Ahi zongin a beh a phung, a suan a khakte khempeuh ama adingin vangikpi hi ding a, um-le-beel, kuang leh keute, hai akipan thawl dongin vankhai ah a kikhai bangin ama tungah kibom ding uh hi.
+**TDB77:** Ahi zongin a beh a phung, a suan a khakte khempeuh ama adingin vangikpi hi ding a, um-le-beel, kuang leh keute, hai akipan thawl dongin vankhai ah a kikhai bangin ama tungah kibom ding-te hi.
 
-**ZVS:** “Ahi zongin a beh a phung, a suan a khakte khempeuh ama-a' dingin van gikpi hi ding a, umlebeel, kuanglekeute, hai-a kipan thawl dongin van khaina-ah a kikhai bangin ama tungah kibom ding uh hi.
+**ZVS:** “Ahi zongin a beh a phung, a suan a khakte khempeuh ama-a' dingin van gikpi hi ding a, umlebeel, kuanglekeute, hai-a kipan thawl dongin van khaina-ah a kikhai bangin ama tungah kibom ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

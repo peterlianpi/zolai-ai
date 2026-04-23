@@ -29,9 +29,9 @@
 ### v1
 **EN:** When he was come down from the mountain, great multitudes followed him.
 
-**TDB77:** Zeisu mual tung pan hong kumsuk khit ciangin, mihonpi in a nung a zui uh hi.
+**TDB77:** Zeisu mual tung pan hong kumsuk khit ciangin, mihonpi in a nung a zui-te hi.
 
-**ZVS:** Tua mual panin Jesuh hong paisuk ciangin mihon tampi in amah a zui uh hi.
+**ZVS:** Tua mual panin Jesuh hong paisuk ciangin mihon tampi in amah a zui-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -144,9 +144,9 @@
 ### v16
 **EN:** When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:
 
-**TDB77:** Nitak ciangin a sungah dawi lut tampi Zeisu kiangah hong paipih uh a, thu khat bek tawh dawi a hawlkhia a, cinate khempeuh a damsak hi.
+**TDB77:** Nitak ciangin a sungah dawi lut tampi Zeisu kiangah hong paipih-te a, thu khat bek tawh dawi a hawlkhia a, cinate khempeuh a damsak hi.
 
-**ZVS:** A nitak ciangin mite in Jesuh kiangah dawivei mi tampi tak hong paipih uh hi. Jesuh in kam khat pauna bek tawh dawite hawlkhia-in cina khempeuh a damsak hi.
+**ZVS:** A nitak ciangin mite in Jesuh kiangah dawivei mi tampi tak hong paipih-te hi. Jesuh in kam khat pauna bek tawh dawite hawlkhia-in cina khempeuh a damsak hi.
 
 **Grammar:** causative: -sak suffix | reciprocal: ki- prefix | plural: uh marker
 
@@ -180,9 +180,9 @@
 ### v20
 **EN:** And Jesus saith unto him,
 
-**TDB77:** Zeisu in, “Ngiate in kua nei uh hi. Vasate in zong bu a nei uh hi. Ahih hangin Mihing Tapa in ahih leh, a lutang ngak nading mun a nei kei hi,” a ci hi.
+**TDB77:** Zeisu in, “Ngiate in kua nei-te hi. Vasate in zong bu a nei-te hi. Ahih hangin Mihing Tapa in ahih leh, a lutang ngak nading mun a nei kei hi,” a ci hi.
 
-**ZVS:** Jesuh in, “Ngiate in lupna ding kua nei uh a, vasate in zong giahna ding bu nei uh hi. Ahi zongin Mihing Tapa in a luptheihna ding mun koimahah neilo hi,” ci-in a dawng hi.
+**ZVS:** Jesuh in, “Ngiate in lupna ding kua nei-te a, vasate in zong giahna ding bu nei-te hi. Ahi zongin Mihing Tapa in a luptheihna ding mun koimahah neilo hi,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | negation: kei | plural: uh marker
 
@@ -207,9 +207,9 @@
 ### v23
 **EN:** And when he was entered into a ship, his disciples followed him.
 
-**TDB77:** Tua khit ciangin Zeisu in gunkuang tungah tuang a, a nungzuite in a zui uh hi.
+**TDB77:** Tua khit ciangin Zeisu in gunkuang tungah tuang a, a nungzuite in a zui-te hi.
 
-**ZVS:** Gunkuang tungah Jesuh a tuan' ciangin a nungzuite in zong a zui uh hi.
+**ZVS:** Gunkuang tungah Jesuh a tuan' ciangin a nungzuite in zong a zui-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -225,50 +225,50 @@
 ### v25
 **EN:** And his disciples came to him, and awoke him, saying, Lord, save us: we perish.
 
-**TDB77:** A nungzuite in Zeisu a phong uh a, “Topa aw, kote ka si dek tak uh hi. Hong hon in,” a ci uh hi.
+**TDB77:** A nungzuite in Zeisu a phong-te a, “Topa aw, kote ka si dek tak-te hi. Hong hon in,” a ci-te hi.
 
-**ZVS:** Nungzuite in Jesuh va phong uh a, “Topa aw, ka si dektak uh hi; hong hon in,” a va ci uh hi.
+**ZVS:** Nungzuite in Jesuh va phong-te a, “Topa aw, ka si dektak-te hi; hong hon in,” a va ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v26
 **EN:** And he saith unto them,
 
-**TDB77:** Zeisu in, “Upna neute aw, bang dinga lau na hi uh hiam?” a cih khit ciangin, tho a, huih leh tuihual a taai khit ciangin a dai ta hi.
+**TDB77:** Zeisu in, “Upna neute aw, bang dinga lau na hi-te hiam?” a cih khit ciangin, tho a, huih leh tuihual a taai khit ciangin a dai ta hi.
 
-**ZVS:** Jesuh in, “Bang hangin tuaci lau na hi uh hiam? Na upna uh neu mahmah hi,” a cih khit ciangin tho-in huihpi leh tuihualte thu pia a, a dai dide pah hi.
+**ZVS:** Jesuh in, “Bang hangin tuaci lau na hi-te hiam? Na upna-te neu mahmah hi,” a cih khit ciangin tho-in huihpi leh tuihualte thu pia a, a dai dide pah hi.
 
 ### v27
 **EN:** But the men marvelled, saying, What manner of man is this, that even the winds and the sea obey him!
 
-**TDB77:** Tua mite in, “Hih pa in bangci mi ahi hiam? Huih leh tuipi nangawn in a thu a ngai tazen uh hi!” ci-in lamdang a sa uh hi.
+**TDB77:** Tua mite in, “Hih pa in bangci mi ahi hiam? Huih leh tuipi nangawn in a thu a ngai tazen-te hi!” ci-in lamdang a sa-te hi.
 
-**ZVS:** A nungzuite in lamdangsa mahmah uh a, “Huihpi leh tuihualte nangawn in ama thu mang ahih manin hih mipa a bangci mi hi ding ahi hiam?” a ci uh hi.
+**ZVS:** A nungzuite in lamdangsa mahmah-te a, “Huihpi leh tuihualte nangawn in ama thu mang ahih manin hih mipa a bangci mi hi ding ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v28
 **EN:** And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way.
 
-**TDB77:** A galkhatah Gadara gam a tun’ uh ciangin, lampi ah kuama pai ngam lohna dinga om, a hangsan mahmah dawi lut nih in han lak pan pusuakin Zeisu va dawn uh hi.
+**TDB77:** A galkhatah Gadara gam a tun’ uh ciangin, lampi ah kuama pai ngam lohna dinga om, a hangsan mahmah dawi lut nih in han lak pan pusuakin Zeisu va dawn-te hi.
 
-**ZVS:** Tuili galkhat, Gadara gam a tun' ciangin han panin dawivei mi nih hong paikhia-in Jesuh a na dawn uh hi. Tua mi nihte kihtakhuai mahmah ahih manin amaute omna lam tawnin kuamah pai ngamlo uh hi.
+**ZVS:** Tuili galkhat, Gadara gam a tun' ciangin han panin dawivei mi nih hong paikhia-in Jesuh a na dawn-te hi. Tua mi nihte kihtakhuai mahmah ahih manin amaute omna lam tawnin kuamah pai ngamlo-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v29
 **EN:** And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time?
 
-**TDB77:** “Pasian’ Tapa aw, kote in nang tawh bang kikum i hi hiam? A hun hong tung nai lopi-in kote susia ding hong pai na hi hiam?” ci-in a kiko uh hi.
+**TDB77:** “Pasian’ Tapa aw, kote in nang tawh bang kikum i hi hiam? A hun hong tung nai lopi-in kote susia ding hong pai na hi hiam?” ci-in a kiko-te hi.
 
-**ZVS:** Amaute nakpi takin hong kiko uh a, “Pasian' Tapa aw, kote bang hong nuammawh na hi hiam? A hun tung nailopi-in kote gim a pia dingin hong pai na hi hiam?” a ci uh hi.
+**ZVS:** Amaute nakpi takin hong kiko-te a, “Pasian' Tapa aw, kote bang hong nuammawh na hi hiam? A hun tung nailopi-in kote gim a pia dingin hong pai na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** And there was a good way off from them an herd of many swine feeding.
 
-**TDB77:** Tua mite tawh kigamla-ah vok honkhat gamta-in a om uh hi.
+**TDB77:** Tua mite tawh kigamla-ah vok honkhat gamta-in a om-te hi.
 
 **ZVS:** Tua laitakin tua san panin a gamlalo mun khatah vok honpi gamta-in a om hi.
 
@@ -277,36 +277,36 @@
 ### v31
 **EN:** So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine.
 
-**TDB77:** Dawite in, “Topa aw, kote nong hawlkhiat leh, vok hon sungah hong lutsak in,” ci-in a ngen uh hi.
+**TDB77:** Dawite in, “Topa aw, kote nong hawlkhiat leh, vok hon sungah hong lutsak in,” ci-in a ngen-te hi.
 
-**ZVS:** Tua ciangin dawite in Jesuh kiangah, “Kote hong hawlkhia ding na hih leh hua vokte sungah hong lutsak in,” ci-in a thum uh ciangin
+**ZVS:** Tua ciangin dawite in Jesuh kiangah, “Kote hong hawlkhia ding na hih leh hua vokte sungah hong lutsak in,” ci-in a thum-te ciangin
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v32
 **EN:** And he said unto them,
 
-**TDB77:** “Pai ta un,” a cih ciangin dawite a paikhia uh a, vokte sungah a lut uh leh, vok hon in keen sang tung pan nakpi-in taisuk uh a, tui sungah a si khin uh hi.
+**TDB77:** “Pai ta un,” a cih ciangin dawite a paikhia-te a, vokte sungah a lut-te leh, vok hon in keen sang tung pan nakpi-in taisuk-te a, tui sungah a si khin-te hi.
 
-**ZVS:** Jesuh in, “Pai un,” ci ahih manin amaute zong paikhia-in vokte sungah a lut uh hi. Tua vok honte, keen luvum panin tuaksuk gawpin tuili sung tu uh ahih manin a vekpi-in tuikia-in a si khin hi.
+**ZVS:** Jesuh in, “Pai un,” ci ahih manin amaute zong paikhia-in vokte sungah a lut-te hi. Tua vok honte, keen luvum panin tuaksuk gawpin tuili sung tu-te ahih manin a vekpi-in tuikia-in a si khin hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | plural: uh marker
 
 ### v33
 **EN:** And they that kept them fled, and went their ways into the city, and told every thing, and what was befallen to the possessed of the devils.
 
-**TDB77:** Vok cingte tai uh a, khua sungah a lut khit uh ciangin, dawi lutte’ thu a kipan thu khempeuh a ko uh hi.
+**TDB77:** Vok cingte tai-te a, khua sungah a lut khit-te ciangin, dawi lutte’ thu a kipan thu khempeuh a ko-te hi.
 
-**ZVS:** Tua vokcingte zong tai-in khuasung tuh uh a, tua dawivei mite' thu leh a thupiang khempeuh a gen uh hi.
+**ZVS:** Tua vokcingte zong tai-in khuasung tuh-te a, tua dawivei mite' thu leh a thupiang khempeuh a gen-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v34
 **EN:** And, behold, the whole city came out to meet Jesus: and when they saw him, they besought him that he would depart out of their coasts.
 
-**TDB77:** Tua ciangin, khuazangin Zeisu dawn dingin a kuankhia uh a, Zeisu a muh uh ciangin, “Ko gam pan taikhia in,” ci-in a thuum uh hi.
+**TDB77:** Tua ciangin, khuazangin Zeisu dawn dingin a kuankhia-te a, Zeisu a muh-te ciangin, “Ko gam pan taikhia in,” ci-in a thuum-te hi.
 
-**ZVS:** Tua ciangin khuasung mi khempeuh, Jesuh kiangah hong pai-in amah a muh uh ciangin, amau gam panin a paikhiatna dingin a thum uh hi.
+**ZVS:** Tua ciangin khuasung mi khempeuh, Jesuh kiangah hong pai-in amah a muh-te ciangin, amau gam panin a paikhiatna dingin a thum-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 

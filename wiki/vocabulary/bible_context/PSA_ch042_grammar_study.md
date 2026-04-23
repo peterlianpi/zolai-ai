@@ -75,7 +75,7 @@
 
 **TDB77:** Nangma tuizeu ging tawh tui thukte khat leh khat kidawng a, na tuihual neu leh na tuihual liante in kei hong tuum hi.
 
-**ZVS:** Nangma tuizeu gingte khatlekhat kidawng uh a, dahna tuihualte in kei a hong tuum hi.
+**ZVS:** Nangma tuizeu gingte khatlekhat kidawng-te a, dahna tuihualte in kei a hong tuum hi.
 
 **Grammar:** reciprocal: ki- prefix
 

@@ -71,7 +71,7 @@ A nungta mihing khatciat in nisim aa i khamkhop ding an, i tha om nading an, i p
 ## Singphuukpa le Hei Hiamlo
 **Theme:** Kiginna
 
-A tung lamin i lawm i gual leh midangte tawh kidanna a om kholloh hang' hun ong sawtsawt ciang, a na hanciamzaw, a na kigingzawte mah tha liau in mazangzaw uh hi.
+A tung lamin i lawm i gual leh midangte tawh kidanna a om kholloh hang' hun ong sawtsawt ciang, a na hanciamzaw, a na kigingzawte mah tha liau in mazangzaw-te hi.
 
 ## Singphuukpa le Hei Hiam
 **Theme:** Masak huaite masak theihna
@@ -101,12 +101,12 @@ Hun cih pen second khat na ngawn a gualzo ta dingin manpha aa, hauh ding, mintha
 ## Tuuno le Keivom
 **Theme:** Lungsim Limlangh
 
-Hong daisak nuam, mawh ong zongte in, bangbang ihi zongin paulap tuamtuam nei nuam teitei uh hi. I mawhna hong muhkei leh i u i nau khatpeuh ii mawhna tawh zongh hong ko nuam, hong gensia nuam, hong mawhsak nuam lai veve ding uh hi.
+Hong daisak nuam, mawh ong zongte in, bangbang ihi zongin paulap tuamtuam nei nuam teitei-te hi. I mawhna hong muhkei leh i u i nau khatpeuh ii mawhna tawh zongh hong ko nuam, hong gensia nuam, hong mawhsak nuam lai veve ding-te hi.
 
 ## Sakol Nei Nupa Khat
 **Theme:** Lungsim limlangh
 
-Hong gensia dingte in bangbang i sem i bawl zong, hong gensia veve ding uh hi. Mawhna hong zong nuamte in bangbang ihi zong, hong mawhsak nuam teitei ding uh hi. Mite ii gensiatna hangin i ngaihsutna, i gamtatzia na khelkhel leh ei mah kigim in kisuplawhzaw ding hi.
+Hong gensia dingte in bangbang i sem i bawl zong, hong gensia veve ding-te hi. Mawhna hong zong nuamte in bangbang ihi zong, hong mawhsak nuam teitei ding-te hi. Mite ii gensiatna hangin i ngaihsutna, i gamtatzia na khelkhel leh ei mah kigim in kisuplawhzaw ding hi.
 
 ## Tangvalpa le A Ngaihsutna
 **Theme:** Kingaihsutna
@@ -126,7 +126,7 @@ Mun sang ah i tung phial zong mi khatpeuh pen neu tah, bangmah hikei tah, a niam
 ## Humpi le Zusa
 **Theme:** A kicing kuamah omlo, a hatlo a neilo a siamlote in zongh kimanna nei
 
-I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek uh hi.
+I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek-te hi.
 
 ## U Hoih
 **Theme:** Piakkhiatna
@@ -166,12 +166,12 @@ Pasian in pen lampi tuamtuam pan hong hopih, i thungetnate hong dawng hi. Thunge
 ## Sa le Be
 **Theme:** Cihtakna
 
-Mihing tampite pen amau hoihlohna kiphawklo in mite tung heh thei uh hi. I hihna bangin kithuakkik thei hi.
+Mihing tampite pen amau hoihlohna kiphawklo in mite tung heh thei-te hi. I hihna bangin kithuakkik thei hi.
 
 ## Pawisiimte le Zu
 **Theme:** Cihtakna
 
-Pawisim mi khat ciat in kei ii tui thawl khat leltak tawh beelpi khat sung aa zu, peng zo tuam samken teh cih ngaihsun tek uh a hihman hi. Na khatpeuh sep ding, bawl ding geelna ah a dangte hong kiging lel unteh, amau hong thei, hong sem lel unteh cih lungsim pen a tung aa tui puate tawh kibang hi. Tua dang lungsim pua, ngaihsutna nei vive kipawl kha, na semkhawm kha lai leh bangmah suaklo ding cihna hi.
+Pawisim mi khat ciat in kei ii tui thawl khat leltak tawh beelpi khat sung aa zu, peng zo tuam samken teh cih ngaihsun tek-te a hihman hi. Na khatpeuh sep ding, bawl ding geelna ah a dangte hong kiging lel unteh, amau hong thei, hong sem lel unteh cih lungsim pen a tung aa tui puate tawh kibang hi. Tua dang lungsim pua, ngaihsutna nei vive kipawl kha, na semkhawm kha lai leh bangmah suaklo ding cihna hi.
 
 ## Zawhngeu Long
 **Theme:** Sepkhiatna
@@ -221,7 +221,7 @@ Tate pen ki it thei mahmah aa, tate in nute’ pate’ itna a phawk zah dingun p
 ## Nupi Thum le A Tate
 **Theme:** Kampi sangin sepkhiatna thupizaw, tate hangin nulepa angtang nuam
 
-Phat zawh thu, gup zawh thu tawh na a piangpiang, maipha a ki ngah den, a kigual zo kha pah cih bang hiloin, a sem a bawlte mah in maipha ngah aa gualzozaw veve uh hi. Tate zongh siamna, pilna, hauhna bangzah takin i nei zong nulepa ii phattuampih ding thupi mahmah hi.
+Phat zawh thu, gup zawh thu tawh na a piangpiang, maipha a ki ngah den, a kigual zo kha pah cih bang hiloin, a sem a bawlte mah in maipha ngah aa gualzozaw veve-te hi. Tate zongh siamna, pilna, hauhna bangzah takin i nei zong nulepa ii phattuampih ding thupi mahmah hi.
 
 ## Khebai Tangvalno
 **Theme:** Thusia omlo - Ei ading a hoih vive
@@ -297,7 +297,7 @@ Tate pen ki it thei mahmah aa, tate in nute' pate' itna a phawk zah dingun phawk
 ## Nupi Thum le A Tate
 **Theme:** Kampi sangin sepkhiatna thupizaw, tate hangin nulepa angtang nuam
 
-Phat zawh thu, gup zawh thu tawh na a piangpiang, maipha a ki ngah den, a kigual zo kha pah cih bang hiloin, a sem a bawlte mah in maipha ngah aa gualzozaw veve uh hi. Tate zongh siamna, pilna, hauhna bangzah takin i nei zong nulepa ii phattuampih ding thupi mahmah hi.
+Phat zawh thu, gup zawh thu tawh na a piangpiang, maipha a ki ngah den, a kigual zo kha pah cih bang hiloin, a sem a bawlte mah in maipha ngah aa gualzozaw veve-te hi. Tate zongh siamna, pilna, hauhna bangzah takin i nei zong nulepa ii phattuampih ding thupi mahmah hi.
 
 ## Khebai Tangvalno
 **Theme:** Thusia omlo - Ei ading a hoih vive
@@ -368,7 +368,7 @@ These maxims are collected in the *Zolai Khanggui* (AD 1899–2013) as `Kammalho
 ### On Relationships
 - `Lawm le gual lung kihual.` — Friends share hearts. *(ABC Laimal)*
 - `Neih val, lamh val hilo, itna omna ah hop ding, huh ding, piak ding om veve hi.` — Love isn't about wealth — it's about helping, supporting, and giving.
-- `Bangbang ihi zongin hong gensia veve ding uh hi.` — No matter what you do, critics will always criticize.
+- `Bangbang ihi zongin hong gensia veve ding-te hi.` — No matter what you do, critics will always criticize.
 - `Mite bangbang a pau zongin a hoih lamin la theipeuh lehang ei adingin thahatna, lawpna piang thei veve hi.` — If we take the good from whatever people say, strength and joy can always arise.
 
 ### On Wisdom
@@ -391,7 +391,7 @@ Each of the 51 parables in *Gentehna Tuamtuam* concludes with a moral lesson. He
 
 ### On Perseverance
 - `I phul khak i haksatnate in sangpi i tun nadingin thakhauhna, hangsanna, hatna hong guanzaw thei ahi hi.` — The difficulties we struggle through build stamina, endurance, and strength for reaching the summit. *(Kau le A Bu)*
-- `Thanuamte in thadahte a zo tawtung uh hi.` — The diligent always overcome the lazy. *(Sumkuang le Bilpi)*
+- `Thanuamte in thadahte a zo tawtung-te hi.` — The diligent always overcome the lazy. *(Sumkuang le Bilpi)*
 
 ### On Self-Awareness
 - `I pianzia bangbangin lungkimlo a midangte pianzia banga I kibawl leh eima pianzia ngeina zong kitaanlawh thei hi.` — If we're not content with who we are and try to be like others, we may lose our own nature entirely. *(Va-ak Utong)*
@@ -399,10 +399,10 @@ Each of the 51 parables in *Gentehna Tuamtuam* concludes with a moral lesson. He
 
 ### On Humility
 - `Mun sang ah i tung phial zong mi khatpeuh pen neu tah, bangmah hikei tah ci aa simmawh diloin thupit bawl theih ding, lungkim sak zawh ding kisam hi.` — Even at the top, never look down on anyone — everyone deserves respect. *(Dahpa)*
-- `I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek uh hi.` — When succeeding, don't despise others. Even the weak have their own strengths. *(Humpi le Zusa)*
+- `I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek-te hi.` — When succeeding, don't despise others. Even the weak have their own strengths. *(Humpi le Zusa)*
 
 ### On Deception
-- `Hong daisak nuam, mawh ong zongte in bangbang ihi zongin paulap tuamtuam nei nuam teitei uh hi.` — Those who want to oppress will always find excuses, no matter what. *(Keivom le Tuuno)*
+- `Hong daisak nuam, mawh ong zongte in bangbang ihi zongin paulap tuamtuam nei nuam teitei-te hi.` — Those who want to oppress will always find excuses, no matter what. *(Keivom le Tuuno)*
 - `Humpi in a duh a ngah nadingin a duhlohte tah/pia hi.` — The tiger gives away what it doesn't want to get what it desires. *(Humpi le Bawng)*
 
 ### On Time & Contentment
@@ -422,7 +422,7 @@ Most Zolai proverbs follow the **antithetic parallelism** pattern:
 ```
 
 ### Selected Proverbs
-- `Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente uh a theih nading ahi hi.` — Understanding proverbs, parables, the words of the wise and their riddles. *(Proverbs 1:6)*
+- `Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente-te a theih nading ahi hi.` — Understanding proverbs, parables, the words of the wise and their riddles. *(Proverbs 1:6)*
 - `Pilna, hauhna, zaliatna, siamna cihte pen amau mun tek bek ah kimanna nei hi.` — Knowledge, wealth, authority, and skill each have value only in their proper place. *(Gentehna #2)*
 
 ---
@@ -547,8 +547,8 @@ The *Zolai Sinna* preserves classical Zomi fables, each teaching moral lessons t
 | Title | Characters | Moral (A Deihna) |
 | :--- | :--- | :--- |
 | **Uiphuk le Naupangte** | Frog + Children | Don't judge what you don't understand (`Saipi in keel mawlpih leh keel in thuak zo lo ding hi`) |
-| **Bilpi le Sumkuang** | Hare + Tortoise | Perseverance beats speed (`Thanuamte in thadahte zo tawtung uh hi`) |
-| **Keivom le Tuuno** | Wolf + Lamb | The powerful always find excuses to oppress (`Mawhna hong zong nuamte in bangbang ihi zongin paulap tuamtuam nei nuam teitei uh hi`) |
+| **Bilpi le Sumkuang** | Hare + Tortoise | Perseverance beats speed (`Thanuamte in thadahte zo tawtung-te hi`) |
+| **Keivom le Tuuno** | Wolf + Lamb | The powerful always find excuses to oppress (`Mawhna hong zong nuamte in bangbang ihi zongin paulap tuamtuam nei nuam teitei-te hi`) |
 | **Va-ak Utong Kineihna** | Crow + Peacock | Be content with who you are (`I pianzia bangbangin lungkimlo a midangte pianzia banga I kibawl leh eima pianzia ngeina zong kitaanlawh thei hi`) |
 | **Kauphe le Miksi** | Grasshopper + Ant | Prepare for the future (`Phaibi ciangin ka nek ding an ka khol hi`) |
 | **Naupang le Uiphuk** | Children + Frog | Respect others' lives |
@@ -592,8 +592,8 @@ The ZVS Bible preserves the parallelism structure of Hebrew poetry:
 
 ### B. Proverbial Wisdom Patterns
 - `A neupen siamna nengno khat na ngawn vallo hi.` — Even the smallest skill is not worthless. *(Gentehna #2)*
-- `Thanuamte in thadahte a zo tawtung uh hi.` — The diligent always overcome the lazy. *(Gentehna #10)*
-- `Bangbang ihi zongin hong gensia veve ding uh hi.` — No matter what you do, they will always criticize. *(Gentehna #20)*
+- `Thanuamte in thadahte a zo tawtung-te hi.` — The diligent always overcome the lazy. *(Gentehna #10)*
+- `Bangbang ihi zongin hong gensia veve ding-te hi.` — No matter what you do, they will always criticize. *(Gentehna #20)*
 
 ---
 
@@ -647,7 +647,7 @@ Focuses on `-ah, -eh, -ih, -oh, -uh, -awh`.
 ### Lesson 3: Diphthongs & Moral Parables
 Focuses on `-ai, -ei, -oi, -ui, -awi`.
 - **Moral Theme:** *Bilpi le Sumkuang* (The Rabbit and the Snail).
-- **Key Proverb:** `Thanuamte in thadahte a zo tawntung uh hi.` (The diligent always overcome the lazy.)
+- **Key Proverb:** `Thanuamte in thadahte a zo tawntung-te hi.` (The diligent always overcome the lazy.)
 - **Example Sentences:**
   - **Sumkuang sangin bilpi hatzaw hi.** (The rabbit is faster than the snail.)
   - **Ken na'ng hong kihta keng.** (I don't fear you.)
@@ -891,8 +891,8 @@ Sermons typically follow this flow:
 
 - `Hih laibu pen [topic] ahi hi` = This book is about [topic]
   - e.g. `Hih laibu pen Zomi Khangnote ii nasepna lianpi khat ahi hi`
-- `[Subject] in [action] nei uh hi` = [Subject] has [action]
-  - e.g. `Rev. Dr. Dam Suan Mung leh Rev. Dr. Nang Khen Khup te in Pasian tungah apna nei uh ahi hi`
+- `[Subject] in [action] nei-te hi` = [Subject] has [action]
+  - e.g. `Rev. Dr. Dam Suan Mung leh Rev. Dr. Nang Khen Khup te in Pasian tungah apna nei-te ahi hi`
 - `[Subject] tungah [action] mahmah hi` = [Subject] is very [action]
   - e.g. `Laibu a lei, a sim, a hawmsawn mimalkim khatciat tungah zongh lungdam mahmah hi`
 
@@ -915,7 +915,7 @@ Sermons typically follow this flow:
 |---|---|---|
 | lai neih zawh | to have/possess a book/writing | Context suggests 'having' or 'possessing' literature/writing. |
 | hunthak mualsuang khat | a new milestone/landmark | mualsuang means landmark/milestone. |
-| thupha piakna nei uh | they gave thanks/offered praise | piakna nei = to give/offer something. |
+| thupha piakna nei-te | they gave thanks/offered praise | piakna nei = to give/offer something. |
 | kizop kim zawhna ding | for the purpose of complete connection/unity | kizop = connection; kim zawhna = completeness. |
 | lawngkhatin ginkhop zawhna ding | for the purpose of achieving unity/oneness together | lawngkhatin = as one; ginkhop zawhna = achieving unity. |
 | khutkhat tawi, khekhat khai-in | holding one hand, lifting one leg (idiom for working together/helping) | A clear idiom for mutual support. |
@@ -1017,7 +1017,7 @@ Sermons typically follow this flow:
 
 - `Hih laibu pen Zomite’ lai neih zawh, kum 100 cin lopna leh Zolai tangthu ciaptehna hunthak mualsuang khat ahi hi.` = This book is a new milestone marking the completion of 100 years of Zomi literature and the establishment of Zolai history.
   - e.g. `Hih laibu pen Zomite’ lai neih zawh, kum 100 cin lopna leh Zolai tangthu ciaptehna hunthak mualsuang khat ahi hi.`
-- `USA aa om, Zomi khanghamte sungpan, Pu X leh Pi Y te in, thupha piakna nei uh hi.` = Among the younger generation Zomis living in the USA, Pu X and Pi Y offered thanks.
+- `USA aa om, Zomi khanghamte sungpan, Pu X leh Pi Y te in, thupha piakna nei-te hi.` = Among the younger generation Zomis living in the USA, Pu X and Pi Y offered thanks.
   - e.g. `USA aa om, Zomi khanghamte sungpan, Pu Dal Za Khup leh Pi Cing Za Vai te in, thupha piakna nei uhhi.`
 - `Hih laibu pen Zomi Khangnote ii nasepna lianpi khat ahi hi.` = This book is one great work of the Zomi Youth.
   - e.g. `Hih laibu pen Zomi Khangnote ii nasepna lianpi khat ahi hi.`
@@ -1051,7 +1051,7 @@ Sermons typically follow this flow:
 | sawt nailo | not long ago | Relating to time. |
 | tangthu tawm mahmah | short history | Describing something recent. |
 | kigen hi | it is said | Common introductory phrase for reported information. |
-| kihelhin om uh | they are mixed/intermingled | Describing population mixing. |
+| kihelhin om-te | they are mixed/intermingled | Describing population mixing. |
 | awsuah tuamtuam | various tones/sounds | Referring to linguistic variation. |
 
 ## Compound Words
@@ -1119,7 +1119,7 @@ Sermons typically follow this flow:
 | kineita | ki+nei+ta | having possessed/had |
 | zungkhat guikhat phungkhat | zung+khat+gui+khat+phung+khat | one root, one branch (meaning same lineage) |
 | kibang sitset | kibang+sitset | completely the same |
-| om khin uh | om+khin+uh | they existed before |
+| om khin-te | om+khin+uh | they existed before |
 | uphuai penpen | up+huai+penpen | most honorable/best to be |
 | mawlgam matzia | mawl+gam+mat+zia | the way of writing/arranging words (mawlgam=writing system) |
 | halziate | hal+zia+te | those who are difficult (hal=difficult) |
@@ -1154,7 +1154,7 @@ Sermons typically follow this flow:
 - `X cihte, Y cihte pen, sawt nailo aa khangtom mahmah lai, tangthu tawm mahmah lai cih theih ahi hi.` = It is known that X and Y are relatively recent and have short histories.
   - e.g. `Tedim cihte, Ciimnuai cihte pen, sawt nailo aa khangtom mahmah lai, tangthu tawm mahmah lai cih theih ahi hi.`
 - `X ci-in kigen hi.` = It is said as X.
-  - e.g. `Ciimnuai khua mun ah Zosuante ii mualsuang phut Khampat ci-in I pu I pate in, khua khat nasat uh hi ci aa kiummawh hi.`
+  - e.g. `Ciimnuai khua mun ah Zosuante ii mualsuang phut Khampat ci-in I pu I pate in, khua khat nasat-te hi ci aa kiummawh hi.`
 - `X ci-in kiciamteh hi.` = It is recorded as X.
   - e.g. `Tuhun Chin state (tualai Chin Hills) lam a na zuante in Ciimnuai khua a nasat uhhi ci-in kiciamteh hi.`
 - `X ci-in kici hi.` = It is called X.
@@ -1524,7 +1524,7 @@ Sermons typically follow this flow:
 | Pasian in lampi na theilua mahmah hi | God knows the way very well |  |
 | um ngam aa, nget ngam ding bek kisam ahi hi | we can be content and only need to ask |  |
 | thuhilhna, thugenna tampi na nei uhhi | they gave many parables and teachings |  |
-| mipilte kampau le a thugente uh | the speech of the wise and their teachings |  |
+| mipilte kampau le a thugente-te | the speech of the wise and their teachings |  |
 | a khuasung luhgawp dingin | in order to conquer that city |  |
 | a hu zo hi | he was able to save/deliver |  |
 | a gen lualua sangin | rather than the ruler speaking too much |  |
@@ -1736,7 +1736,7 @@ Sermons typically follow this flow:
 | Cidam ciang bek nasem zo ding, nasep zawh ciang bek sum nei ding, sum neih ciang bek deihte nei zo ding kisa kha thei hi. | One might think that one can only work when healthy, only get money when work is done, and only get what one desires when one has money. |
 | Cidamlo, nasep neilo, sum neilo kawmkal pan i deih khat I neih theih nading Pasian in lampi na theilua mahmah hi. | God knows the way very well so that we can get one thing we desire even amidst sickness, unemployment, and poverty. |
 | Hi bang i cih ciang, nasem nawnlo ding cihna bel hituan samlo hi. | When we say this, it does not mean that we should stop working. |
-| Paunak 1:6 Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente uh a theih nading ahi hi. | Proverbs 1:6: The proverbs and teachings are to be understood clearly so that the wise may know the speech and teachings of the wise. |
+| Paunak 1:6 Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente-te a theih nading ahi hi. | Proverbs 1:6: The proverbs and teachings are to be understood clearly so that the wise may know the speech and teachings of the wise. |
 | Thahatna sangin pilna hoihzaw | Wisdom is better than strength. |
 | ahi zongin khialhna khat in a hoih tampi susia thei hi. | However, one sin can spoil much good. |
 
@@ -1790,7 +1790,7 @@ Sermons typically follow this flow:
 | Kipawlna, Kinialna | Association/Gathering, Refusal/Disagreement | Reciprocal/reflexive nouns |
 | Kisang tungsak, Kigamla, Kinai, Kihal, Kiniamkhiat | To cause to be high/lifted up, To be far apart, To be near, To be jealous/envious, To humble oneself | Reciprocal/reflexive actions with prepositions |
 | Atung, Anuai, Amai, Agei | Above him/her, Below him/her, In front of him/her, Beside him/her | Possessive marker with prepositions |
-| Ka gam uh hong cidam sak in, Topa | Heal our land, Lord | Prayer/request to God |
+| Ka gam-te hong cidam sak in, Topa | Heal our land, Lord | Prayer/request to God |
 | A tha hoihin a tha gap hi | His strength is good, he gains strength | Description of gaining strength |
 | Ngap pha melkei ing, nasep kuan ngapkeng | I don't want to get (it), when starting work I won't get (it) | Expression of not wanting/expecting something |
 | A sem ngam peuhpeuh nasep kipan | Whoever dares to work starts working | General statement about daring to work |
@@ -1820,7 +1820,7 @@ Sermons typically follow this flow:
 | Kipawlna, Kinialna | Association/Gathering, Refusal/Disagreement | Reciprocal/reflexive nouns |
 | Kisang tungsak, Kigamla, Kinai, Kihal, Kiniamkhiat | To cause to be high/lifted up, To be far apart, To be near, To be jealous/envious, To humble oneself | Reciprocal/reflexive actions with prepositions |
 | Atung, Anuai, Amai, Agei | Above him/her, Below him/her, In front of him/her, Beside him/her | Possessive marker with prepositions |
-| Ka gam uh hong cidam sak in, Topa | Heal our land, Lord | Prayer/request to God |
+| Ka gam-te hong cidam sak in, Topa | Heal our land, Lord | Prayer/request to God |
 | A tha hoihin a tha gap hi | His strength is good, he gains strength | Description of gaining strength |
 | Ngap pha melkei ing, nasep kuan ngapkeng | I don't want to get (it), when starting work I won't get (it) | Expression of not wanting/expecting something |
 | A sem ngam peuhpeuh nasep kipan | Whoever dares to work starts working | General statement about daring to work |
@@ -1871,7 +1871,7 @@ Sermons typically follow this flow:
 | Hanciamna thaman a gah kingah hi | Hanciamna + thaman + a + gah + kingah hi | The reward for perseverance is received |
 | Singgah tampi ne den in | Singgah + tampi + ne + den in | Keep eating many fruits/rewards |
 | Kong laikhak na ngah ciang hong zasakkik oo | Kong + laikhak + na + ngah + ciang + hong + zasak + kik + oo | When you receive the letter, remember to let me know |
-| Ka gam uh hong cidam sak in, Topa | Ka + gam + uh + hong + cidam + sak + in, Topa | Heal our land, Lord |
+| Ka gam-te hong cidam sak in, Topa | Ka + gam + uh + hong + cidam + sak + in, Topa | Heal our land, Lord |
 | A tha gap | A + tha + gap | He gains strength |
 | Ngap pha melkei | Ngap + pha + melkei | Don't want to get/receive |
 | Nasep kuan ngapkeng | Nasep + kuan + ngap + keng | When starting work, I won't get (it) |
@@ -1951,7 +1951,7 @@ Sermons typically follow this flow:
   - e.g. `Atung, Anuai, Amai, Agei`
 - `Ki + /preposition/ = Kisang tungsak, Kigamla, Kinai, Kihal, Kiniamkhiat` = To cause to be high/lifted up, To be far apart, To be near, To be jealous/envious, To humble oneself
   - e.g. `Kisang tungsak, Kigamla, Kinai, Kihal, Kiniamkhiat`
-- `Ka gam uh hong cidam sak in, Topa` = Heal our land, Lord
+- `Ka gam-te hong cidam sak in, Topa` = Heal our land, Lord
 - `A tha hoihin a tha gap hi` = His strength is good, he gains strength
 - `Ngap pha melkei ing, nasep kuan ngapkeng` = I don't want to get (it), when starting work I won't get (it)
 - `A sem ngam peuhpeuh nasep kipan` = Whoever dares to work starts working
@@ -2055,8 +2055,8 @@ Sermons typically follow this flow:
   - e.g. `Banghang hiam cih leh Zolai pen theih baih, sin baih, ciapteh baih ahih ding kisam hi.`
 - `Tualoin Zolai a lunglut le a sin nuam kitawm semsem kha ding hi` = Otherwise, interest in Zolai and the desire to read it will gradually decrease
   - e.g. `Tualoin Zolai a lunglut le a sin nuam kitawm semsem kha ding hi.`
-- `Phonetic tuamtuam a zangh minamdang tampi a om sam hang’ zangh hetlo aa a khangto veve, a lai uh a tangzai veve minam tampi mah na om kawikawi hi` = Many other ethnic groups who use various phonetics have not used them and have gradually disappeared, while many ethnic groups whose language and stories have been preserved still exist
-  - e.g. `Phonetic tuamtuam a zangh minamdang tampi a om sam hang’ zangh hetlo aa a khangto veve, a lai uh a tangzai veve minam tampi mah na om kawikawi hi.`
+- `Phonetic tuamtuam a zangh minamdang tampi a om sam hang’ zangh hetlo aa a khangto veve, a lai-te a tangzai veve minam tampi mah na om kawikawi hi` = Many other ethnic groups who use various phonetics have not used them and have gradually disappeared, while many ethnic groups whose language and stories have been preserved still exist
+  - e.g. `Phonetic tuamtuam a zangh minamdang tampi a om sam hang’ zangh hetlo aa a khangto veve, a lai-te a tangzai veve minam tampi mah na om kawikawi hi.`
 - `“ah” cih laimal pen tang gelh ding mah hoihzaw hi` = It is better to write the word 'ah' as it is
   - e.g. `“ah” cih laimal pen tang gelh ding mah hoihzaw hi.`
 - `Banghang hiam cih leh “a le h” kihel laimal kigawm tampitak Zolai ah om ahih manin “ah” tawh laimal matna in laisimna haksasak tuam thei hi` = Because there are many combined words of 'a' and 'h' in Zolai, using 'ah' to end a word can make reading difficult
@@ -2226,8 +2226,8 @@ Sermons typically follow this flow:
   - e.g. `Tuang in laibu sim hi.`
 - `Tuang in laibu sim hi. Tua ama sim pen hoih mahmah hi.` = Tuang reads a book. He reads very well.
   - e.g. `Tuang in laibu sim hi. Tua ama sim pen hoih mahmah hi.`
-- `Laibuteng le a simte koi lam tung uh ahia?` = Where do the books and their readers belong?
-  - e.g. `Laibuteng le a simte koi lam tung uh ahia?`
+- `Laibuteng le a simte koi lam tung-te ahia?` = Where do the books and their readers belong?
+  - e.g. `Laibuteng le a simte koi lam tung-te ahia?`
 - `I mawtaw tawh na pai un.` = Go with our car.
   - e.g. `I mawtaw tawh na pai un.`
 - `Eiteng in bang i hih tam?` = What are we all doing?

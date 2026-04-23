@@ -35,18 +35,18 @@
 ### v2
 **EN:** Thou shalt separate three cities for thee in the midst of thy land, which the
 
-**TDB77:** Topa na Pasian un note’ neih dingin hong piak gam sungah note adingin khuapi thum na tuam koih ding uh hi.
+**TDB77:** Topa na Pasian un note’ neih dingin hong piak gam sungah note adingin khuapi thum na tuam koih ding-te hi.
 
-**ZVS:** { Topa } na Pasian un note' neih dingin hong piak gam sungah note-a' dingin khuapi thum na tuamkoih ding uh hi.
+**ZVS:** { Topa } na Pasian un note' neih dingin hong piak gam sungah note-a' dingin khuapi thum na tuamkoih ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v3
 **EN:** Thou shalt prepare thee a way, and divide the coasts of thy land, which the
 
-**TDB77:** Mi a that khatpeuh peuh a tai theih nadingin Topa na Pasian un na neih dingun a hong piak leitang seh thumin khenin a lampite na bawl ding uh hi.
+**TDB77:** Mi a that khatpeuh peuh a tai theih nadingin Topa na Pasian un na neih dingun a hong piak leitang seh thumin khenin a lampite na bawl ding-te hi.
 
-**ZVS:** Mi a thatkha peuhpeuh a tai theihna dingin { Topa } na Pasian un na neih dingun a hong piak leitang seh thumin khenin seh khat sungah khuapi khat ciat koihin a lampite na puah ding uh hi.
+**ZVS:** Mi a thatkha peuhpeuh a tai theihna dingin { Topa } na Pasian un na neih dingun a hong piak leitang seh thumin khenin seh khat sungah khuapi khat ciat koihin a lampite na puah ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
@@ -90,9 +90,9 @@
 ### v9
 **EN:** If thou shalt keep all these commandments to do them, which I command thee this day, to love the
 
-**TDB77:** Note in Topa na Pasian uh itin, ama lampi zuih tawntungna tawh tuni-a kong thupiak ahi hih thupiakna khempeuh lim takin na zuih uh a, amah in na pu na pate uh tungah a kiciam mah bangin Topa na Pasian un na gamgite uh hong keek sakin, na pu na pate uh piak dingin a ciam leitang note tungah hong piak leh, hih khuapi thum banah khuapi thum mah na behlap ding uh hi.
+**TDB77:** Note in Topa na Pasian-te itin, ama lampi zuih tawntungna tawh tuni-a kong thupiak ahi hih thupiakna khempeuh lim takin na zuih-te a, amah in na pu na pate-te tungah a kiciam mah bangin Topa na Pasian un na gamgite-te hong keek sakin, na pu na pate-te piak dingin a ciam leitang note tungah hong piak leh, hih khuapi thum banah khuapi thum mah na behlap ding-te hi.
 
-**ZVS:** “Note in { Topa } na Pasian uh itin, ama lampi zuih tawntungna tawh tuni-a kong gen hih thupiakna khempeuh limtakin na zuih uh a, amah in na pu na pate uh tungah a kiciam mah bangin { Topa } na Pasian un na gamgite uh hong keeksakin, na pu na pate uh piak dingin a ciam leitang note tungah hong piak leh, hih khuapi thum banah khuapi thum mah na behlap ding uh hi.
+**ZVS:** “Note in { Topa } na Pasian-te itin, ama lampi zuih tawntungna tawh tuni-a kong gen hih thupiakna khempeuh limtakin na zuih-te a, amah in na pu na pate-te tungah a kiciam mah bangin { Topa } na Pasian un na gamgite-te hong keeksakin, na pu na pate-te piak dingin a ciam leitang note tungah hong piak leh, hih khuapi thum banah khuapi thum mah na behlap ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -115,27 +115,27 @@
 ### v12
 **EN:** Then the elders of his city shall send and fetch him thence, and deliver him into the hand of the avenger of blood, that he may die.
 
-**TDB77:** ama khua upate in amah hong puakin hong paipih ding uh a, a sih theih nadingin phulapa tungah ap ding hi.
+**TDB77:** ama khua upate in amah hong puakin hong paipih ding-te a, a sih theih nadingin phulapa tungah ap ding hi.
 
-**ZVS:** ama khua upate in amah hong puakin hong paipih ding uh a, a sih theihna dingin phulapa tungah ap ding uh hi.
+**ZVS:** ama khua upate in amah hong puakin hong paipih ding-te a, a sih theihna dingin phulapa tungah ap ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v13
 **EN:** Thine eye shall not pity him, but thou shalt put away the guilt of innocent blood from Israel, that it may go well with thee.
 
-**TDB77:** Note na nopsak theih nadingun amah hehpih loin, Israelte sung panin mi thatpa na beisak ding uh hi.
+**TDB77:** Note na nopsak theih nadingun amah hehpih loin, Israelte sung panin mi thatpa na beisak ding-te hi.
 
-**ZVS:** Note na nopsak theihna dingun amah hehpih loin, Israel-te sung panin mi thatpa na beisak ding uh hi.
+**ZVS:** Note na nopsak theihna dingun amah hehpih loin, Israel-te sung panin mi thatpa na beisak ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v14
 **EN:** Thou shalt not remove thy neighbour's landmark, which they of old time have set in thine inheritance, which thou shalt inherit in the land that the
 
-**TDB77:** “Topa na Pasian un na neih dingun hong piak leitang tungah note’ kep ding na gamh luahna sung uhah khang lui mite in a phuhsa na vengte’ gi-suang na khin kei ding uh hi.
+**TDB77:** “Topa na Pasian un na neih dingun hong piak leitang tungah note’ kep ding na gamh luahna sung uhah khang lui mite in a phuhsa na vengte’ gi-suang na khin kei ding-te hi.
 
-**ZVS:** “{ Topa } na Pasian un na neih dingun hong piak leitang tungah note' kep ding na gamhluahna sung uhah khanglui mite in a phuhsa na vengte' gisuang na khin kei ding uh hi.
+**ZVS:** “{ Topa } na Pasian un na neih dingun hong piak leitang tungah note' kep ding na gamhluahna sung uhah khanglui mite in a phuhsa na vengte' gisuang na khin kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -158,45 +158,45 @@
 ### v17
 **EN:** Then both the men, between whom the controversy is, shall stand before the
 
-**TDB77:** thu neite a lang nih tuakin, tua hun lai taka siampite leh thukhente mai, Topa mai-ah pai ding uh hi;
+**TDB77:** thu neite a lang nih tuakin, tua hun lai taka siampite leh thukhente mai, Topa mai-ah pai ding-te hi;
 
-**ZVS:** thuneite a langnih tuakin, tuahun laitaka siampite leh thukhente' mai, { Topa' } mai-ah pai ding uh hi.
+**ZVS:** thuneite a langnih tuakin, tuahun laitaka siampite leh thukhente' mai, { Topa' } mai-ah pai ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v18
 **EN:** And the judges shall make diligent inquisition: and, behold, if the witness be a false witness, and hath testified falsely against his brother;
 
-**TDB77:** thukhente in lim takin kan ding uh a, teci-pa pen zuau teci hi-in, a man lopi-in a sanggampa mawhsak ahih leh,
+**TDB77:** thukhente in lim takin kan ding-te a, teci-pa pen zuau teci hi-in, a man lopi-in a sanggampa mawhsak ahih leh,
 
-**ZVS:** Thukhente in limtakin kan ding uh a, tecipa pen zuau teci hi-in, a manlopi-in a sanggampa a mawhsak ahih leh,
+**ZVS:** Thukhente in limtakin kan ding-te a, tecipa pen zuau teci hi-in, a manlopi-in a sanggampa a mawhsak ahih leh,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v19
 **EN:** Then shall ye do unto him, as he had thought to have done unto his brother: so shalt thou put the evil away from among you.
 
-**TDB77:** a sanggampa tungah amah in hih dinga a sawm bang teekin ama tungah na hih ding uh hi; tua bangin note sung panin gitlohna na siangsak ding uh hi.
+**TDB77:** a sanggampa tungah amah in hih dinga a sawm bang teekin ama tungah na hih ding-te hi; tua bangin note sung panin gitlohna na siangsak ding-te hi.
 
-**ZVS:** a sanggampa tungah amah in hih dinga a sawm bang teekin ama tungah na hih ding uh hi. Tua bangin note sung panin gitlohna na siangsak ding uh hi.
+**ZVS:** a sanggampa tungah amah in hih dinga a sawm bang teekin ama tungah na hih ding-te hi. Tua bangin note sung panin gitlohna na siangsak ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v20
 **EN:** And those which remain shall hear, and fear, and shall henceforth commit no more any such evil among you.
 
-**TDB77:** A om lai mite in za-in, lau-in, note lakah tua bang gitlohna bawl kik ngei nawn lo ding uh hi.
+**TDB77:** A om lai mite in za-in, lau-in, note lakah tua bang gitlohna bawl kik ngei nawn lo ding-te hi.
 
-**ZVS:** Tua hi leh a omlai mite in za-in lau ding a, note lakah tua bang gitlohna bawlkik ngei nawnlo ding uh hi.
+**ZVS:** Tua hi leh a omlai mite in za-in lau ding a, note lakah tua bang gitlohna bawlkik ngei nawnlo ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And thine eye shall not pity; but life shall go for life, eye for eye, tooth for tooth, hand for hand, foot for foot.
 
-**TDB77:** Amah na hehpih kei ding uh hi; nuntakna tang ding nuntakna, mit tang ding mit, ha tang ding ha, khut tang ding khut, khe tang ding khe hi ding hi.
+**TDB77:** Amah na hehpih kei ding-te hi; nuntakna tang ding nuntakna, mit tang ding mit, ha tang ding ha, khut tang ding khut, khe tang ding khe hi ding hi.
 
-**ZVS:** Amah na hehpih kei ding uh hi. Nuntakna tangding nuntakna, mit tangding mit, ha tangding ha, khut tangding khut, khe tangding khe na hisak ding uh hi.
+**ZVS:** Amah na hehpih kei ding-te hi. Nuntakna tangding nuntakna, mit tangding mit, ha tangding ha, khut tangding khut, khe tangding khe na hisak ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 

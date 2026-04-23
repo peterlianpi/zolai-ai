@@ -58,18 +58,18 @@
 ### v5
 **EN:** The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.
 
-**TDB77:** Lungsim khauhte’ neihsa nate kisutkhia a, amaute ihmucip suak uh hi; gal hat mi khempeuhte in amau khut uh zang thei nawn lo uh hi.
+**TDB77:** Lungsim khauhte’ neihsa nate kisutkhia a, amaute ihmucip suak-te hi; gal hat mi khempeuhte in amau khut-te zang thei nawn lo-te hi.
 
-**ZVS:** A thahatte' neihsa nate kisutkhia a, amaute ihmucip suak uh hi.
+**ZVS:** A thahatte' neihsa nate kisutkhia a, amaute ihmucip suak-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** At thy rebuke, O God of Jacob, both the chariot and horse are cast into a dead sleep.
 
-**TDB77:** Jakob’ Pasian aw, nangma thuhilhna hangin sakol leh a tung tuangpa khawlcip uh hi.
+**TDB77:** Jakob’ Pasian aw, nangma thuhilhna hangin sakol leh a tung tuangpa khawlcip-te hi.
 
-**ZVS:** Jakob' Pasian aw, nangma thuhilhna hangin sakol leh a tung tuangpa khawlcip uh hi.
+**ZVS:** Jakob' Pasian aw, nangma thuhilhna hangin sakol leh a tung tuangpa khawlcip-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -92,16 +92,16 @@
 ### v10
 **EN:** Surely the wrath of man shall praise thee: the remainder of wrath shalt thou restrain.
 
-**TDB77:** Mite’ hehna in nangmah hong kiphatna piangsak ding a, na hehna pan a suakta sun mite in nangmah pahtawina pawi bawl ding uh hi.
+**TDB77:** Mite’ hehna in nangmah hong kiphatna piangsak ding a, na hehna pan a suakta sun mite in nangmah pahtawina pawi bawl ding-te hi.
 
-**ZVS:** Mihingte' hehna in nang hong kiphatna ding piangsak ding a, na hehna panin a suakta mite in nangmah pahtawina pawi a bawl ding uh hi.
+**ZVS:** Mihingte' hehna in nang hong kiphatna ding piangsak ding a, na hehna panin a suakta mite in nangmah pahtawina pawi a bawl ding-te hi.
 
 **Grammar:** causative: -sak suffix | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** He shall cut off the spirit of princes: he is terrible to the kings of the earth.
 
-**TDB77:** { Topa } na Pasian' tungah na thuciamnate uh pia un la, tuate khempeuh zui un. Leitung kumpite sangin a kihtakhuai zaw, uliante' lungsim a niamkhiat, zahtak ding ahipa' tungah, ama kiimah a om mi khempeuhte in letsong puak ta uh hen!
+**TDB77:** { Topa } na Pasian' tungah na thuciamnate-te pia un la, tuate khempeuh zui un. Leitung kumpite sangin a kihtakhuai zaw, uliante' lungsim a niamkhiat, zahtak ding ahipa' tungah, ama kiimah a om mi khempeuhte in letsong puak ta-te hen!
 
 **Grammar:** reciprocal: ki- prefix
 

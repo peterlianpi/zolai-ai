@@ -36,9 +36,9 @@
 ### v2
 **EN:** But neither he, nor his servants, nor the people of the land, did hearken unto the words of the
 
-**TDB77:** Ahih hangin amahmah a, kipan a nasemte leh a gamsung mite in kamsangpa Jeremiah’ tung tawna Topa’ thugennate a ngai kei uh hi.
+**TDB77:** Ahih hangin amahmah a, kipan a nasemte leh a gamsung mite in kamsangpa Jeremiah’ tung tawna Topa’ thugennate a ngai kei-te hi.
 
-**ZVS:** Ahih hangin amahmaha kipan a nasemte leh a gamsung mite in keima tung tawna { Topa' } thugennate a ngai kei uh hi.
+**ZVS:** Ahih hangin amahmaha kipan a nasemte leh a gamsung mite in keima tung tawna { Topa' } thugennate a ngai kei-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -63,9 +63,9 @@
 ### v5
 **EN:** Then Pharaoh's army was come forth out of Egypt: and when the Chaldeans that besieged Jerusalem heard tidings of them, they departed from Jerusalem.
 
-**TDB77:** Tua hun laitakin Khaldea mite in Jerusalem khua a sim laitak uh hi a, tua hun laitak mahin Faro kumpipa’ galkapte in galsim dingin Izipt gam panin hong kuankhia hi, cih thu a zak uh ciangin Jerusalem khua panin a nungkik uh hi.
+**TDB77:** Tua hun laitakin Khaldea mite in Jerusalem khua a sim laitak-te hi a, tua hun laitak mahin Faro kumpipa’ galkapte in galsim dingin Izipt gam panin hong kuankhia hi, cih thu a zak-te ciangin Jerusalem khua panin a nungkik-te hi.
 
-**ZVS:** Tua hun laitak pen Babylon galkapte in Jerusalem khua a sim laitak uh hi a, tua hun laitak mahin Faro kumpipa' galkapte, galsim dingin Egypt gam panin hong kuankhia hi, cih thu a zak uh ciangin Jerusalem khua panin a nungkik uh hi.
+**ZVS:** Tua hun laitak pen Babylon galkapte in Jerusalem khua a sim laitak-te hi a, tua hun laitak mahin Faro kumpipa' galkapte, galsim dingin Egypt gam panin hong kuankhia hi, cih thu a zak-te ciangin Jerusalem khua panin a nungkik-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -81,45 +81,45 @@
 ### v7
 **EN:** Thus saith the
 
-**TDB77:** “Topa ahi, Israel mite’ Pasian in kong cih-inah: Kei tung-a thu dong ding a, hong sawl Judah kumpipa kiangah hih bangin na va gen ding hi: ‘En in, nang hong huh ding a, hong pai Faro kumpipa’ galkapte a gam uhah ciahkik ding uh hi.
+**TDB77:** “Topa ahi, Israel mite’ Pasian in kong cih-inah: Kei tung-a thu dong ding a, hong sawl Judah kumpipa kiangah hih bangin na va gen ding hi: ‘En in, nang hong huh ding a, hong pai Faro kumpipa’ galkapte a gam uhah ciahkik ding-te hi.
 
-**ZVS:** “{ Topa } ahi Israel mite' Pasian in kong cihin-ah: Kei' tungah thu a hong dongsak Judah kumpipa kiangah hih bangin na va gen ding hi: ‘En in, nang hong huh dingin a hong pai Faro kumpipa' galkapte a gam uhah ciahkik ding uh hi.
+**ZVS:** “{ Topa } ahi Israel mite' Pasian in kong cihin-ah: Kei' tungah thu a hong dongsak Judah kumpipa kiangah hih bangin na va gen ding hi: ‘En in, nang hong huh dingin a hong pai Faro kumpipa' galkapte a gam uhah ciahkik ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And the Chaldeans shall come again, and fight against this city, and take it, and burn it with fire.
 
-**TDB77:** Tua ciangin Khaldea mite hong kileh kikin hih khuapi hong sim ding uh a, khuapi la-in mei tawh a hal ding uh hi.
+**TDB77:** Tua ciangin Khaldea mite hong kileh kikin hih khuapi hong sim ding-te a, khuapi la-in mei tawh a hal ding-te hi.
 
-**ZVS:** Tua ciangin Babylon-te hong kileh kikin hih khuapi hong sim ding uh a, khuapi la-in mei tawh a hal ding uh hi.
+**ZVS:** Tua ciangin Babylon-te hong kileh kikin hih khuapi hong sim ding-te a, khuapi la-in mei tawh a hal ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** Thus saith the
 
-**TDB77:** Topa in kong cih-inah, Nang leh nang kikhemin, “Khaldea mite in hong kilehkik nawn lo taktak ding uh hi,” ci kha kei in. Bang hang hiam cih leh amau hong kilehkik ding uh hi.
+**TDB77:** Topa in kong cih-inah, Nang leh nang kikhemin, “Khaldea mite in hong kilehkik nawn lo taktak ding-te hi,” ci kha kei in. Bang hang hiam cih leh amau hong kilehkik ding-te hi.
 
-**ZVS:** { Topa } in kong cihin-ah, nang leh nang kikhemin, “Babylon-te hong kilehkik nawnlo taktak ding uh hi,” cikha kei in. Bang hang hiam cih leh amaute hong kilehkik ding uh hi.
+**ZVS:** { Topa } in kong cihin-ah, nang leh nang kikhemin, “Babylon-te hong kilehkik nawnlo taktak ding-te hi,” cikha kei in. Bang hang hiam cih leh amaute hong kilehkik ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** For though ye had smitten the whole army of the Chaldeans that fight against you, and there remained but wounded men among them, yet should they rise up every man in his tent, and burn this city with fire.
 
-**TDB77:** Nangmah in na gal Khaldea galkap khempeuh zo lua kisa-in buk sunga milian teng bek na suakta sak kha phial ahi zongin, amaute hong tho teitei ding uh a, hih khuapi hong hal sak veve ding uh hi,’ ci-in va gen in,” a ci hi.
+**TDB77:** Nangmah in na gal Khaldea galkap khempeuh zo lua kisa-in buk sunga milian teng bek na suakta sak kha phial ahi zongin, amaute hong tho teitei ding-te a, hih khuapi hong hal sak veve ding-te hi,’ ci-in va gen in,” a ci hi.
 
-**ZVS:** Nangmah in na gal Babylon galkap khempeuh zolua kisa-in buk sunga mi liam teng bek na suaktasak khaphial ahi zongin, amaute hong thokik teitei ding uh a, hih khuapi hong halsak veve ding uh hi,’ ci-in va gen in,” a hong ci hi.
+**ZVS:** Nangmah in na gal Babylon galkap khempeuh zolua kisa-in buk sunga mi liam teng bek na suaktasak khaphial ahi zongin, amaute hong thokik teitei ding-te a, hih khuapi hong halsak veve ding-te hi,’ ci-in va gen in,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And it came to pass, that when the army of the Chaldeans was broken up from Jerusalem for fear of Pharaoh's army,
 
-**TDB77:** Faro galkapte Jerusalem khua hong naih ciangun Khaldea galkapte a nungkik uh hi.
+**TDB77:** Faro galkapte Jerusalem khua hong naih ciangun Khaldea galkapte a nungkik-te hi.
 
-**ZVS:** Faro' galkapte Jerusalem khua a hong naih ciangun Babylon galkapte a nungkik uh hi.
+**ZVS:** Faro' galkapte Jerusalem khua a hong naih ciangun Babylon galkapte a nungkik-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -153,9 +153,9 @@
 ### v15
 **EN:** Wherefore the princes were wroth with Jeremiah, and smote him, and put him in prison in the house of Jonathan the scribe: for they had made that the prison.
 
-**TDB77:** Kumpi uliante zong Jeremiah tungah heh mahmah uh a, a sat khit uh ciangin thong ding a, a kizang sa, kumpi thuvanpipa Jonathan’ innah thong a kia sak uh hi.
+**TDB77:** Kumpi uliante zong Jeremiah tungah heh mahmah-te a, a sat khit-te ciangin thong ding a, a kizang sa, kumpi thuvanpipa Jonathan’ innah thong a kia sak-te hi.
 
-**ZVS:** Kumpi uliante zong kei tungah heh mahmah uh a, hong sat khit uh ciangin thong dingin a kizangsa, kumpi thuvanpipa Jonathan' inn-ah thong hong kiasak uh hi.
+**ZVS:** Kumpi uliante zong kei tungah heh mahmah-te a, hong sat khit-te ciangin thong dingin a kizangsa, kumpi thuvanpipa Jonathan' inn-ah thong hong kiasak-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
@@ -187,9 +187,9 @@
 ### v19
 **EN:** Where are now your prophets which prophesied unto you, saying, The king of Babylon shall not come against you, nor against this land?
 
-**TDB77:** Nang’ kiang a, ‘Babilon kumpipa in nang leh hih gam hong sim lo ding hi,’ ci-a thu a hong genkhol, na kamsangte tu-in koiah om uh ahi hiam?
+**TDB77:** Nang’ kiang a, ‘Babilon kumpipa in nang leh hih gam hong sim lo ding hi,’ ci-a thu a hong genkhol, na kamsangte tu-in koiah om-te ahi hiam?
 
-**ZVS:** Nang' kiangah, ‘Babylon kumpipa in nang leh hih gam hong simlo ding hi,’ ci-in thu a hong genkhol, na kamsangte tu-in koi-ah om ahi uh hiam?
+**ZVS:** Nang' kiangah, ‘Babylon kumpipa in nang leh hih gam hong simlo ding hi,’ ci-in thu a hong genkhol, na kamsangte tu-in koi-ah om ahi-te hiam?
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 

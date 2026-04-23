@@ -83,8 +83,8 @@
   - e.g. `Banghang hiam cih leh Zolai pen theih baih, sin baih, ciapteh baih ahih ding kisam hi.`
 - `Tualoin Zolai a lunglut le a sin nuam kitawm semsem kha ding hi` = Otherwise, interest in Zolai and the desire to read it will gradually decrease
   - e.g. `Tualoin Zolai a lunglut le a sin nuam kitawm semsem kha ding hi.`
-- `Phonetic tuamtuam a zangh minamdang tampi a om sam hang’ zangh hetlo aa a khangto veve, a lai uh a tangzai veve minam tampi mah na om kawikawi hi` = Many other ethnic groups who use various phonetics have not used them and have gradually disappeared, while many ethnic groups whose language and stories have been preserved still exist
-  - e.g. `Phonetic tuamtuam a zangh minamdang tampi a om sam hang’ zangh hetlo aa a khangto veve, a lai uh a tangzai veve minam tampi mah na om kawikawi hi.`
+- `Phonetic tuamtuam a zangh minamdang tampi a om sam hang’ zangh hetlo aa a khangto veve, a lai-te a tangzai veve minam tampi mah na om kawikawi hi` = Many other ethnic groups who use various phonetics have not used them and have gradually disappeared, while many ethnic groups whose language and stories have been preserved still exist
+  - e.g. `Phonetic tuamtuam a zangh minamdang tampi a om sam hang’ zangh hetlo aa a khangto veve, a lai-te a tangzai veve minam tampi mah na om kawikawi hi.`
 - `“ah” cih laimal pen tang gelh ding mah hoihzaw hi` = It is better to write the word 'ah' as it is
   - e.g. `“ah” cih laimal pen tang gelh ding mah hoihzaw hi.`
 - `Banghang hiam cih leh “a le h” kihel laimal kigawm tampitak Zolai ah om ahih manin “ah” tawh laimal matna in laisimna haksasak tuam thei hi` = Because there are many combined words of 'a' and 'h' in Zolai, using 'ah' to end a word can make reading difficult

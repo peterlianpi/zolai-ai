@@ -34,7 +34,7 @@
 ### v2
 **EN:** For men shall be lovers of their own selves, covetous, boasters, proud, blasphemers, disobedient to parents, unthankful, unholy,
 
-**TDB77:** Bang hang hiam cih leh, mite in amau pumpi uh it mi, sum it mi, a kisathei mi, lungkhauh mi, mi gensia thei mi, a nute a pate thu a mang lo mi, hehpihna a phawk lo mi, a siangtho lo mi,
+**TDB77:** Bang hang hiam cih leh, mite in amau pumpi-te it mi, sum it mi, a kisathei mi, lungkhauh mi, mi gensia thei mi, a nute a pate thu a mang lo mi, hehpihna a phawk lo mi, a siangtho lo mi,
 
 **ZVS:** Tuahun ciangin mite in amau angsung ding bek ngaihsunin, huaihamin, kisialin, kihisakin, mi zahko-in, nu leh pate' thu mangloin, lungdam theihna mel neiloin, biakna lungsim neiloin,
 
@@ -61,45 +61,45 @@
 ### v5
 **EN:** Having a form of godliness, but denying the power thereof: from such turn away.
 
-**TDB77:** Pasian biakna puatham teng zui uh a, ahih hangin a vangliatna a nial mi ahi ding uh hi. Tua bang mite na peel in.
+**TDB77:** Pasian biakna puatham teng zui-te a, ahih hangin a vangliatna a nial mi ahi ding-te hi. Tua bang mite na peel in.
 
-**ZVS:** biakna thu a puathamteng zui napi-in biakna hangin vangliatna thu a omte deihlo ding uh hi. Tua bangin a gamta mite na pelh in.
+**ZVS:** biakna thu a puathamteng zui napi-in biakna hangin vangliatna thu a omte deihlo ding-te hi. Tua bangin a gamta mite na pelh in.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v6
 **EN:** For of this sort are they which creep into houses, and lead captive silly women laden with sins, led away with divers lusts,
 
-**TDB77:** Tua mite lakah simtatin innte sungah a lut khit uh ciangin, deihgawhna atuam atuam zui-in,
+**TDB77:** Tua mite lakah simtatin innte sungah a lut khit-te ciangin, deihgawhna atuam atuam zui-in,
 
-**ZVS:** Tua bang mite pawlkhat, mite inn-ah va hawh khiankhianin, deihna nam tuamtuam leh mawhna lungsim tawh a kidim numeite na thuzawh uh hi.
+**ZVS:** Tua bang mite pawlkhat, mite inn-ah va hawh khiankhianin, deihna nam tuamtuam leh mawhna lungsim tawh a kidim numeite na thuzawh-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v7
 **EN:** Ever learning, and never able to come to the knowledge of the truth.
 
-**TDB77:** a kihilh niloh hangin cikmah hunin thuman thutak a thei thei lo numei haite’ thuzawh mite a om uh hi.
+**TDB77:** a kihilh niloh hangin cikmah hunin thuman thutak a thei thei lo numei haite’ thuzawh mite a om-te hi.
 
-**ZVS:** Tua bang numeite in thu a zakzak uh hangin a man leh a manlo khen theilo uh ahih manin thuman thutak thei zolo uh hi.
+**ZVS:** Tua bang numeite in thu a zakzak-te hangin a man leh a manlo khen theilo-te ahih manin thuman thutak thei zolo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Now as Jannes and Jambres withstood Moses, so do these also resist the truth: men of corrupt minds, reprobate concerning the faith.
 
-**TDB77:** Zannes leh Zabres in Moses a nial uh mah bangin tua mite in zong thuman thutak a nial uh hi. Amaute a lungsim uh kisia-in upna thu-ah thudotna a thuak zo lo mi ahi uh hi.
+**TDB77:** Zannes leh Zabres in Moses a nial-te mah bangin tua mite in zong thuman thutak a nial-te hi. Amaute a lungsim-te kisia-in upna thu-ah thudotna a thuak zo lo mi ahi-te hi.
 
-**ZVS:** Jannes leh Jambres-te in Moses thu a nial mah bangin upna paizia a manlo hih thuhilh mite in zong thuman thutak a nial uh hi.
+**ZVS:** Jannes leh Jambres-te in Moses thu a nial mah bangin upna paizia a manlo hih thuhilh mite in zong thuman thutak a nial-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** But they shall proceed no further: for their folly shall be manifest unto all men, as theirs also was.
 
-**TDB77:** Tua mi nihte’ haina in mi khempeuh mai-ah a kilang mah bangin, hih mite’ haina zong kilang ding a, amaute in sotto khangto thei lo ding uh hi.
+**TDB77:** Tua mi nihte’ haina in mi khempeuh mai-ah a kilang mah bangin, hih mite’ haina zong kilang ding a, amaute in sotto khangto thei lo ding-te hi.
 
-**ZVS:** Ahi zongin Jannes leh Jambres-te tungah a piangsa thu mah bangin mi khempeuh in amaute' haina mu ding uh ahih manin a nasepna uh sau tung khollo ding hi.
+**ZVS:** Ahi zongin Jannes leh Jambres-te tungah a piangsa thu mah bangin mi khempeuh in amaute' haina mu ding-te ahih manin a nasepna-te sau tung khollo ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -122,7 +122,7 @@
 ### v12
 **EN:** Yea, and all that will live godly in Christ Jesus shall suffer persecution.
 
-**TDB77:** Ahi hi. Khazih Zeisu sungah kipin a nungta nuam mi khempeuhte in zong bawlsiatna a thuak ding uh hi.
+**TDB77:** Ahi hi. Khazih Zeisu sungah kipin a nungta nuam mi khempeuhte in zong bawlsiatna a thuak ding-te hi.
 
 **ZVS:** Khrih Jesuh tawh kipawlin Pasian' deihna bangin a nungta nuam khempeuh in bawlsiatna a thuakding mah hi a,
 
@@ -131,9 +131,9 @@
 ### v13
 **EN:** But evil men and seducers shall wax worse and worse, deceiving, and being deceived.
 
-**TDB77:** A gilo leh mi kheem thei mite a hih uh leh, gilo semsem ding uh a, midangte kheemin, amau mahmah zong a kikheem ding uh hi.
+**TDB77:** A gilo leh mi kheem thei mite a hih-te leh, gilo semsem ding-te a, midangte kheemin, amau mahmah zong a kikheem ding-te hi.
 
-**ZVS:** migilote leh thuthei kineihin mi khem theite zong sia tat semsemin, amaute in mi khemkhemin, amaute mah in zong khemna a thuakding mah uh ahi hi.
+**ZVS:** migilote leh thuthei kineihin mi khem theite zong sia tat semsemin, amaute in mi khemkhemin, amaute mah in zong khemna a thuakding mah-te ahi hi.
 
 **Grammar:** intensifier: very/greatly | future: will | reciprocal: ki- prefix | plural: uh marker
 

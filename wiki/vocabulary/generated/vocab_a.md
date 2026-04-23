@@ -49,7 +49,7 @@
 **Related:** mual, piak, israel, sat, giahphual
 **CEFR:** A1
 **Usage:** Attested 355× across 6 Bible books.
-> *Nebo tun' ma Abarim mualte-ah giahphual sat uh hi.*
+> *Nebo tun' ma Abarim mualte-ah giahphual sat-te hi.*
 
 ### abdon
 **[n]** abdon
@@ -92,7 +92,7 @@
 **Related:** note, paikhia, bawl, egypt, sungin
 **CEFR:** A1
 **Usage:** Attested 500× across 4 Bible books.
-> *Abib kha, tuni-in note a paikhia na hi uh hi.*
+> *Abib kha, tuni-in note a paikhia na hi-te hi.*
 > → This day came ye out in the month Abib.
 
 ### abida
@@ -196,7 +196,7 @@
 **Related:** gam, pai, bawl, kum, kanaan
 **CEFR:** A1
 **Usage:** Attested 3706× across 6 Bible books.
-> *tua ciangin Abraham a kici Abram ahi suk uh hi.*
+> *tua ciangin Abraham a kici Abram ahi suk-te hi.*
 > → Abram; the same is Abraham.
 > `1CH 1:27`
 
@@ -266,7 +266,7 @@
 **Related:** zongin, bek, gen, pai, cih
 **CEFR:** A1
 **Usage:** Attested 1645× across 32 Bible books.
-> *Siampite’ ta adangte in a namtui nate hel dingin bawl uh a,*
+> *Siampite’ ta adangte in a namtui nate hel dingin bawl-te a,*
 > → And some of the sons of the priests made the ointment of the spices.
 > `1CH 9:30`
 
@@ -332,7 +332,7 @@
 **Related:** zeboiim, gomorrah, sodom, bela, kumpipa
 **CEFR:** A1
 **Usage:** Attested 840× across 6 Bible books.
-> *leh Bela (Zoar) kumpipa kuankhia uh a*
+> *leh Bela (Zoar) kumpipa kuankhia-te a*
 
 ### adullam
 **[n]** adullam
@@ -390,7 +390,7 @@
 **[a]** judgment
 **Meanings:** judgment | unrighteousness | meteyard | weight | measure
 **CEFR:** A1
-> *atam tehnate ah a man loin na gamta kei ding uh hi.*
+> *atam tehnate ah a man loin na gamta kei ding-te hi.*
 > `LEV 19:35`
 
 ### ahem
@@ -457,7 +457,7 @@
 **Related:** beh
 **CEFR:** A2
 **Usage:** Attested 165× across 4 Bible books.
-> *leh Elijah ahi uh hi.*
+> *leh Elijah ahi-te hi.*
 
 ### abdiel
 **[]** son
@@ -496,7 +496,7 @@
 **Meanings:** abel | cities | against | israel | smote | ijon
 **CEFR:** A2
 **Usage:** Attested 150× across 2 Bible books.
-> *leh Naftali vankoihna khuapite a zo uh hi.*
+> *leh Naftali vankoihna khuapite a zo-te hi.*
 
 ### abelmeholah
 **[n]** trumpets
@@ -607,7 +607,7 @@
 **Related:** shunem, kumpipa, kumpi, ngetsak, solomon
 **CEFR:** A2
 **Usage:** Attested 495× across 2 Bible books.
-> *Shunem mi Abishag mu-in, kumpipa kiangah amah paipih uh hi.*
+> *Shunem mi Abishag mu-in, kumpipa kiangah amah paipih-te hi.*
 
 ### abishai
 **[n]** abishai
@@ -631,7 +631,7 @@
 **Meanings:** nadab | name | abishur | sons | shammai | wife
 **CEFR:** A2
 **Usage:** Attested 75× across 2 Bible books.
-> *Onam' tapate: Shammai leh Jada ahi uh hi. Shammai' tapate:*
+> *Onam' tapate: Shammai leh Jada ahi-te hi. Shammai' tapate:*
 
 ### abital
 **[n]** shephatiah
@@ -676,7 +676,7 @@
 **[]** adaiah
 **Meanings:** adaiah | beeliada | obed | son | malchijah | azariah
 **CEFR:** A2
-> *Elishama, Beel-i-ada, leh Elifelet ahi uh hi.*
+> *Elishama, Beel-i-ada, leh Elifelet ahi-te hi.*
 > → And Elishama, and Beeliada, and Eliphelet.
 > `1CH 14:7`
 
@@ -773,7 +773,7 @@
 **Related:** tulin, ukte, sung
 **CEFR:** A2
 **Usage:** Attested 255× across 4 Bible books.
-> *Manasseh sungah mi a tulin a ukte ahi uh hi.*
+> *Manasseh sungah mi a tulin a ukte ahi-te hi.*
 
 ### adohijah
 **[]** turned
@@ -878,7 +878,7 @@
 **Meanings:** princes | admatha | tarshish | meres | marsena | memucan
 **CEFR:** B1
 **Usage:** Attested 145× across 2 Bible books.
-> *kumpipa kiangah a hawh thei, kumpi gamsungah ulian pente ahi uh hi.*
+> *kumpipa kiangah a hawh thei, kumpi gamsungah ulian pente ahi-te hi.*
 
 ### agur
 **[]** agur
@@ -1093,7 +1093,7 @@
 **Synonyms:** khialnu
 **CEFR:** B1
 **Usage:** Attested 280× across 2 Bible books.
-> *numei paktatte' inn-ah a hon om uh hi.*
+> *numei paktatte' inn-ah a hon om-te hi.*
 
 ### angkawmte
 **[n]** because
@@ -1147,7 +1147,7 @@
 **Meanings:** groweth | year | eat | sign | such | itself
 **CEFR:** B1
 **Usage:** Attested 160× across 2 Bible books.
-> *leenggui suanin a gah na ne ding uh hi.*
+> *leenggui suanin a gah na ne ding-te hi.*
 
 ### anlimnono
 **[n]** day
@@ -1155,7 +1155,7 @@
 **Related:** nei, jew, lungdam, pawi
 **CEFR:** B1
 **Usage:** Attested 335× across 2 Bible books.
-> *anlimnono kikholhna ni-in a zang uh hi.*
+> *anlimnono kikholhna ni-in a zang-te hi.*
 
 ### annekna
 **[n]** palace
@@ -1173,7 +1173,7 @@
 **Related:** mai, khuh, pawl
 **CEFR:** B1
 **Usage:** Attested 215× across 4 Bible books.
-> *a dahte' annekte pawl zong na ne kei ding uh hi.*
+> *a dahte' annekte pawl zong na ne kei ding-te hi.*
 
 ### anngawlin
 **[]** where
@@ -1184,7 +1184,7 @@
 **[]** young
 **Meanings:** young | cleaveth | roof | mouth | thirst | children
 **CEFR:** B1
-> *Na gam ah mi ten anngen tui na ding uh diam?*
+> *Na gam ah mi ten anngen tui na ding-te diam?*
 
 ### anote
 **[]** thou
@@ -1246,7 +1246,7 @@
 **[]** prophet
 **Meanings:** prophet | parted | garments | lots | might | fulfilled
 **CEFR:** B2
-> *khai khit uh ciangin lai aisaanin*
+> *khai khit-te ciangin lai aisaanin*
 > `MAT 27:35`
 
 ### aisanin
@@ -1515,7 +1515,7 @@
 **Related:** gam, tung
 **CEFR:** C1
 **Usage:** Attested 225× across 2 Bible books.
-> *Tua lai-ah tawlkhat ka taam khit uh ciangin Judea gam*
+> *Tua lai-ah tawlkhat ka taam khit-te ciangin Judea gam*
 
 ### agrippa
 **[n]** agrippa
@@ -1676,7 +1676,7 @@
 **Related:** amanlanga ngaihsut theihna leh khensat theihna, aman tuatkhitna, amanseh, aman, aman sik
 **CEFR:** C1
 **Usage:** Adjective — place before noun or after verb as predicate.
-> *“Vasa-kalaohte in a kha uh bangzah takin nawh zap thei*
+> *“Vasa-kalaohte in a kha-te bangzah takin nawh zap thei*
 
 ### amawkna
 **[n]** farce
@@ -1722,7 +1722,7 @@
 **Meanings:** junia | salute | andronicus | kinsmen | fellowprisoners | note
 **CEFR:** C1
 **Usage:** Attested 80× across 2 Bible books.
-> *sawltakte khempeuh in a theihkim uh mite ahi uh hi.*
+> *sawltakte khempeuh in a theihkim-te mite ahi-te hi.*
 
 ### andrute
 **[]** house
@@ -1887,7 +1887,7 @@ an
 **CEFR:** C2
 
 ### a.d.
-**[]** (n.) Anno Domino; Kan Bawipa kum chungah, Bawi Jesuh chuah hnu
+**[]** (n.) Anno Domino; Kan topa kum chungah, Bawi Jesuh chuah hnu
 **CEFR:** C2
 
 ### a.m.
@@ -1909,7 +1909,7 @@ an
 **CEFR:** C2
 
 ### a;aa
-**[]** (a-)(1.8) or (a:) (1.9) Coord.Conj.as in " Ka pai uh a,la kasa uh hi" We go along and sing songs
+**[]** (a-)(1.8) or (a:) (1.9) Coord.Conj.as in " Ka pai-te a,la kasa-te hi" We go along and sing songs
 **CEFR:** C2
 
 ### aa
@@ -1989,7 +1989,7 @@ khuang
 ### aaklui
 **[]** cock rooster
 **CEFR:** C2
-> *Innsimah aaklui khuangthei khatciat aneih nangun hanciam uh hi.*
+> *Innsimah aaklui khuangthei khatciat aneih nangun hanciam-te hi.*
 
 ### aakluui/aaktal
 **[]** (male fowl) rooster
@@ -2036,7 +2036,7 @@ nungaakno
 ### aaksa
 **[]** chicken
 **CEFR:** C2
-> *Amau aaksa aneek uh leh e’n zongh ih ne ve le!*
+> *Amau aaksa aneek-te leh e’n zongh ih ne ve le!*
 
 ### aaksi
 **[n]** star

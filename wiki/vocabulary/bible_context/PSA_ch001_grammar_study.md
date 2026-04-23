@@ -43,9 +43,9 @@
 ### v4
 **EN:** The ungodly are not so: but are like the chaff which the wind driveth away.
 
-**TDB77:** Migilote ahih leh tua bang hi lo a, huih letkhiat ansi tawh kibang uh hi.
+**TDB77:** Migilote ahih leh tua bang hi lo a, huih letkhiat ansi tawh kibang-te hi.
 
-**ZVS:** Migilote ahih leh tua bang hilo uh a, huih in a letkhiat anvai tawh kibang lel uh hi.
+**ZVS:** Migilote ahih leh tua bang hilo-te a, huih in a letkhiat anvai tawh kibang lel-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -54,7 +54,7 @@
 
 **TDB77:** Tua ahih ciangin migilote in thukhenna nang zo lo ding a, mimawhte in midikte’ pawl sungah kihel thei lo ding hi;
 
-**ZVS:** Tua ahih ciangin migilote in thukhenna thuak zolo ding uh a, mimawhte pen midikte' pawl sungah kihel theilo ding uh hi;
+**ZVS:** Tua ahih ciangin migilote in thukhenna thuak zolo ding-te a, mimawhte pen midikte' pawl sungah kihel theilo ding-te hi;
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix
 
@@ -63,7 +63,7 @@
 
 **TDB77:** bang hang hiam cih leh Topa in midikte’ lampi kem a, migilote’ lampi ahi leh siamang ding hi.
 
-**ZVS:** bang hang hiam cih leh { Topa } in midikte lam lakin hu tawntung a, migilote ahih leh sia maimang ding uh hi.
+**ZVS:** bang hang hiam cih leh { Topa } in midikte lam lakin hu tawntung a, migilote ahih leh sia maimang ding-te hi.
 
 **Grammar:** future: will
 

@@ -16,15 +16,15 @@
 
 ### vantung = heaven/firmament
 **Context:** The expanse above, where the lights (sun, moon) are placed.
-**Example:** vantungah khuavak hi uh hen
+**Example:** vantungah khuavak hi-te hen
 
 ### khuavak = light/lights
 **Context:** Refers to the celestial bodies placed in the heaven to give light.
-**Example:** vantungah khuavak hi uh hen
+**Example:** vantungah khuavak hi-te hen
 
 ### hen = let it be/may it be (hortative/permissive suffix)
 **Context:** Used at the end of a command or request, similar to 'let them be'.
-**Example:** khuavak hi uh hen
+**Example:** khuavak hi-te hen
 
 ### ci = say/said
 **Context:** The verb used for quoting speech.
@@ -224,7 +224,7 @@
 
 ### an = to eat
 **Context:** The purpose of the provision given.
-**Example:** tuate an-in na nei ding uh hi.
+**Example:** tuate an-in na nei ding-te hi.
 
 ## Phrases & Usage
 

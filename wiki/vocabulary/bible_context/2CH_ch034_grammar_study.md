@@ -95,45 +95,45 @@
 ### v9
 **EN:** And when they came to Hilkiah the high priest, they delivered the money that was brought into the house of God, which the Levites that kept the doors had gathered of the hand of Manasseh and Ephraim, and of all the remnant of Israel, and of all Judah and Benjamin; and they returned to Jerusalem.
 
-**TDB77:** Siampi lianpa Hilkiah kiangah amaute hong pai uh a, kongcingte ahi Levi mite in Manasseh leh Efraim leh Israel a om laite khempeuh leh Judah leh Benjamin khempeuh leh Jerusalem a, teeng mite tung panin a khop ahi, Pasian’ innah hong kipaipih sumte pia uh hi.
+**TDB77:** Siampi lianpa Hilkiah kiangah amaute hong pai-te a, kongcingte ahi Levi mite in Manasseh leh Efraim leh Israel a om laite khempeuh leh Judah leh Benjamin khempeuh leh Jerusalem a, teeng mite tung panin a khop ahi, Pasian’ innah hong kipaipih sumte pia-te hi.
 
-**ZVS:** Siampi lianpenpa Hilkiah kiangah amaute hong pai uh a, kongcingte ahi Levi mite in Manasseh leh Efraim, leh Israel a omlaite khempeuh, leh Judah leh Benjamin khempeuh, leh Jerusalem-a a teng mite tung panin a khop uh ahi, Pasian' biakinn-ah a hong kipaipih sumte a pia uh hi.
+**ZVS:** Siampi lianpenpa Hilkiah kiangah amaute hong pai-te a, kongcingte ahi Levi mite in Manasseh leh Efraim, leh Israel a omlaite khempeuh, leh Judah leh Benjamin khempeuh, leh Jerusalem-a a teng mite tung panin a khop-te ahi, Pasian' biakinn-ah a hong kipaipih sumte a pia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And they put it in the hand of the workmen that had the oversight of the house of the
 
-**TDB77:** Amaute in Topa’ inn a vaan nasemte tungah tua sum pia uh hi; tua ciangin Topa’ innah a sem nasemte in a inn puah nading leh a ngei batsakkik nadingin pia uh hi.
+**TDB77:** Amaute in Topa’ inn a vaan nasemte tungah tua sum pia-te hi; tua ciangin Topa’ innah a sem nasemte in a inn puah nading leh a ngei batsakkik nadingin pia-te hi.
 
-**ZVS:** Amaute in { Topa' } biakinn a vaan nasemte tungah tua sumte pia uh hi. Tua ciangin { Topa' } biakinn-ah a sem nasemte in biakinn puahna ding leh a ngei batsak kikna dingin pia uh hi.
+**ZVS:** Amaute in { Topa' } biakinn a vaan nasemte tungah tua sumte pia-te hi. Tua ciangin { Topa' } biakinn-ah a sem nasemte in biakinn puahna ding leh a ngei batsak kikna dingin pia-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v11
 **EN:** Even to the artificers and builders gave they it, to buy hewn stone, and timber for couplings, and to floor the houses which the kings of Judah had destroyed.
 
-**TDB77:** Amaute in a kito suangte lei nading, leh Judah kumpite in a siatsak, tep nadingin singte leh inn lam nadingin innkamte lei nadingin khutsiamte leh innlamte tungah pia uh hi.
+**TDB77:** Amaute in a kito suangte lei nading, leh Judah kumpite in a siatsak, tep nadingin singte leh inn lam nadingin innkamte lei nadingin khutsiamte leh innlamte tungah pia-te hi.
 
-**ZVS:** Amaute in a kito suangte leina ding, leh Judah kumpite in a siatsak, tepna dingin singte leh biakinn lamna dingin innkamte leina dingin khutsiamte leh innlamte tungah a sumte a pia uh hi.
+**ZVS:** Amaute in a kito suangte leina ding, leh Judah kumpite in a siatsak, tepna dingin singte leh biakinn lamna dingin innkamte leina dingin khutsiamte leh innlamte tungah a sumte a pia-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And the men did the work faithfully: and the overseers of them were Jahath and Obadiah, the Levites, of the sons of Merari; and Zechariah and Meshullam, of the sons of the Kohathites, to set it forward; and other of the Levites, all that could skill of instruments of musick.
 
-**TDB77:** Tua ciangin mite in cihtakna tawh na sem uh hi. Amaute tungah a en dingin Levi mi Merari beh sung pan Jahath leh Obadiah, leh Kohathte beh sung pan Zekhariah leh Meshullam kikoih hi. Levi mi, lasakna nazatte ah siamna a nei khempeuh,
+**TDB77:** Tua ciangin mite in cihtakna tawh na sem-te hi. Amaute tungah a en dingin Levi mi Merari beh sung pan Jahath leh Obadiah, leh Kohathte beh sung pan Zekhariah leh Meshullam kikoih hi. Levi mi, lasakna nazatte ah siamna a nei khempeuh,
 
-**ZVS:** Tua ciangin mite in cihtakna tawh na sem uh hi. Amaute tungah a en dingin Levi mi Merari-te beh sung pan Jahath leh Obadiah, leh Kohath-te beh sung pan Zekhariah leh Meshullam kikoih hi. Levi mi, lasakna nazatte-ah siamna a nei khempeuh,
+**ZVS:** Tua ciangin mite in cihtakna tawh na sem-te hi. Amaute tungah a en dingin Levi mi Merari-te beh sung pan Jahath leh Obadiah, leh Kohath-te beh sung pan Zekhariah leh Meshullam kikoih hi. Levi mi, lasakna nazatte-ah siamna a nei khempeuh,
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Also they were over the bearers of burdens, and were overseers of all that wrought the work in any manner of service: and of the Levites there were scribes, and officers, and porters.
 
-**TDB77:** vangik puate a uk hi a, nasepna namkim a sem khempeuh makaih uh hi; tua ciangin Levi mi pawlkhatte in laigelhte, leh za neite, leh kulhkongpi cingte ahi uh hi.
+**TDB77:** vangik puate a uk hi a, nasepna namkim a sem khempeuh makaih-te hi; tua ciangin Levi mi pawlkhatte in laigelhte, leh za neite, leh kulhkongpi cingte ahi-te hi.
 
-**ZVS:** vangik puate a uk, leh nasep namkim a sem khempeuh a makaih uh hi. Tua ciangin Levi mi pawlkhatte pen laigelhte, leh za neite, leh kulhkongpi cingte ahi hi.
+**ZVS:** vangik puate a uk, leh nasep namkim a sem khempeuh a makaih-te hi. Tua ciangin Levi mi pawlkhatte pen laigelhte, leh za neite, leh kulhkongpi cingte ahi hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -158,18 +158,18 @@
 ### v16
 **EN:** And Shaphan carried the book to the king, and brought the king word back again, saying, All that was committed to thy servants, they do it.
 
-**TDB77:** Shafan in kumpipa kiangah a laibu paipih a, kumpipa kiangah, “Na semte tungah a kipia khempeuh amaute in a sepsan laitak uh ahi hi.
+**TDB77:** Shafan in kumpipa kiangah a laibu paipih a, kumpipa kiangah, “Na semte tungah a kipia khempeuh amaute in a sepsan laitak-te ahi hi.
 
-**ZVS:** Shafan in kumpipa kiangah a laibu paipihin ama kiangah, “Na nasemte tungah a kipia khempeuh amaute in a sep san laitak uh ahi hi.
+**ZVS:** Shafan in kumpipa kiangah a laibu paipihin ama kiangah, “Na nasemte tungah a kipia khempeuh amaute in a sep san laitak-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v17
 **EN:** And they have gathered together the money that was found in the house of the
 
-**TDB77:** Topa inn sungah a kimu sumte amaute in lakhia a, nasep vaante leh nasemte tungah pia uh hi,” ci-in gen thuah lai hi.
+**TDB77:** Topa inn sungah a kimu sumte amaute in lakhia a, nasep vaante leh nasemte tungah pia-te hi,” ci-in gen thuah lai hi.
 
-**ZVS:** { Topa' } biakinn sungah a kikoih sumte amaute in lakhia-in nasep vaante leh nasemte tungah pia uh hi,” ci-in gen thuah lai hi.
+**ZVS:** { Topa' } biakinn sungah a kikoih sumte amaute in lakhia-in nasep vaante leh nasemte tungah pia-te hi,” ci-in gen thuah lai hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -199,18 +199,18 @@
 ### v21
 **EN:** Go, enquire of the
 
-**TDB77:** “Pai un la, a kimu laibu sunga kammalte tawh kisai-in keima ading leh Israel leh Judah ah a om lai mite adingin Topa thu na dong un; bang hang hiam cih leh i pu i pate in hih laibu sungah a kigelh khempeuh bangin sep ding Topa’ kammal na zui lo uh ahih manin eite tungah Topa’ hehna lian hi,” a ci hi.
+**TDB77:** “Pai un la, a kimu laibu sunga kammalte tawh kisai-in keima ading leh Israel leh Judah ah a om lai mite adingin Topa thu na dong un; bang hang hiam cih leh i pu i pate in hih laibu sungah a kigelh khempeuh bangin sep ding Topa’ kammal na zui lo-te ahih manin eite tungah Topa’ hehna lian hi,” a ci hi.
 
-**ZVS:** “Pai un la, a kimu laibu sunga kammalte tawh kisai-in keima-a' ding leh Israel leh Judah-ah a omlai mite-a' dingin { Topa } thu va dong un; bang hang hiam cih leh i pu i pate in hih laibu sungah a kigelh khempeuh bangin sep ding { Topa' } kammal na zuilo uh ahih manin eite tungah { Topa' } hehna lian hi,” a ci hi.
+**ZVS:** “Pai un la, a kimu laibu sunga kammalte tawh kisai-in keima-a' ding leh Israel leh Judah-ah a omlai mite-a' dingin { Topa } thu va dong un; bang hang hiam cih leh i pu i pate in hih laibu sungah a kigelh khempeuh bangin sep ding { Topa' } kammal na zuilo-te ahih manin eite tungah { Topa' } hehna lian hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix
 
 ### v22
 **EN:** And Hilkiah, and they that the king had appointed, went to Huldah the prophetess, the wife of Shallum the son of Tikvath, the son of Hasrah, keeper of the wardrobe; (now she dwelt in Jerusalem in the college:) and they spake to her to that effect.
 
-**TDB77:** Tua ahih ciangin Hilkiah leh kumpipa in a sawl mite, puan a kem Hasrah, a tapa Tokhath, a tapa Shallum’ zi ahi kamsangnu Huldah kiangah pai-in (tu-in tua nu Jerusalem sung a Veng Nihna ah teeng hi) tua thu tawh kisai ama kiangah va gen uh hi.
+**TDB77:** Tua ahih ciangin Hilkiah leh kumpipa in a sawl mite, puan a kem Hasrah, a tapa Tokhath, a tapa Shallum’ zi ahi kamsangnu Huldah kiangah pai-in (tu-in tua nu Jerusalem sung a Veng Nihna ah teeng hi) tua thu tawh kisai ama kiangah va gen-te hi.
 
-**ZVS:** Tua ahih ciangin Hilkiah leh kumpipa in a sawl mite, Hasrah, a tapa Tokhath, a tapa Shallum, biakinn puante a kempa' zi ahi kamsangnu Huldah kiangah pai-in (tu-in tuanu Jerusalem sung a Veng Nihna-ah teng hi) tua thu tawh kisai ama kiangah va gen uh hi.
+**ZVS:** Tua ahih ciangin Hilkiah leh kumpipa in a sawl mite, Hasrah, a tapa Tokhath, a tapa Shallum, biakinn puante a kempa' zi ahi kamsangnu Huldah kiangah pai-in (tu-in tuanu Jerusalem sung a Veng Nihna-ah teng hi) tua thu tawh kisai ama kiangah va gen-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -235,18 +235,18 @@
 ### v25
 **EN:** Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be poured out upon this place, and shall not be quenched.
 
-**TDB77:** Amaute in amau’ gamtatna tawh kei hong hehsak theih nadingun amaute in kei hong nusia in, pasian dangte tungah paknamtui hal uh ahih manin hih mun tungah ka hehna kisungin dai lo ding hi.
+**TDB77:** Amaute in amau’ gamtatna tawh kei hong hehsak theih nadingun amaute in kei hong nusia in, pasian dangte tungah paknamtui hal-te ahih manin hih mun tungah ka hehna kisungin dai lo ding hi.
 
-**ZVS:** Amaute in amau' gamtatna tawh kei hong hehsak theihna dingun amaute in kei hong nusia-in pasian dangte tungah paknamtui hal uh ahih manin hih mun tungah ka hehna kisungin dailo ding hi.
+**ZVS:** Amaute in amau' gamtatna tawh kei hong hehsak theihna dingun amaute in kei hong nusia-in pasian dangte tungah paknamtui hal-te ahih manin hih mun tungah ka hehna kisungin dailo ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix
 
 ### v26
 **EN:** And as for the king of Judah, who sent you to enquire of the
 
-**TDB77:** Ahih hangin Topa thu a dong dingin note a hong sawl Judah kumpipa tungah hih bangin na gen ding uh hi. Israel Pasian, Topa in hih bangin ci hi: Na zaksa thute tawh kisai-in,
+**TDB77:** Ahih hangin Topa thu a dong dingin note a hong sawl Judah kumpipa tungah hih bangin na gen ding-te hi. Israel Pasian, Topa in hih bangin ci hi: Na zaksa thute tawh kisai-in,
 
-**ZVS:** Ahih hangin { Topa } thu a dong dingin note a hong sawl Judah kumpipa tungah hih bangin na gen ding uh hi. Israel Pasian, { Topa } in hih bangin ci hi: Na zaksa thute tawh kisai-in,
+**ZVS:** Ahih hangin { Topa } thu a dong dingin note a hong sawl Judah kumpipa tungah hih bangin na gen ding-te hi. Israel Pasian, { Topa } in hih bangin ci hi: Na zaksa thute tawh kisai-in,
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -262,9 +262,9 @@
 ### v28
 **EN:** Behold, I will gather thee to thy fathers, and thou shalt be gathered to thy grave in peace, neither shall thine eyes see all the evil that I will bring upon this place, and upon the inhabitants of the same. So they brought the king word again.
 
-**TDB77:** En in, na pate kiang kong zuan sak ding a, nuam takin na han na zuan ding a, hih mun leh a tunga teengte tungah ka tun’sak ding siatna khempeuh na mit in mu lo ding hi,’ ci hi,” a ci hi. Tua ciangin amaute in kumpipa kiangah thu puak kik uh hi.
+**TDB77:** En in, na pate kiang kong zuan sak ding a, nuam takin na han na zuan ding a, hih mun leh a tunga teengte tungah ka tun’sak ding siatna khempeuh na mit in mu lo ding hi,’ ci hi,” a ci hi. Tua ciangin amaute in kumpipa kiangah thu puak kik-te hi.
 
-**ZVS:** Na pate kiang kong zuansak ding a, hih mun leh a tunga tengte tungah ka tun'sak ding siatna khempeuh na mit in mulo ding hi,’ ci hi,” a ci hi. Tua ciangin amaute in kumpipa kiangah a thu puakkik uh hi.
+**ZVS:** Na pate kiang kong zuansak ding a, hih mun leh a tunga tengte tungah ka tun'sak ding siatna khempeuh na mit in mulo ding hi,’ ci hi,” a ci hi. Tua ciangin amaute in kumpipa kiangah a thu puakkik-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -280,7 +280,7 @@
 
 **TDB77:** Tua ciangin kumpipa, Judah mite leh Jerusalem-a teeng mite leh siampite leh Levi mite khempeuh, mi khempeuh a lian a neu tawh, Topa’ innah paito hi; tua ciangin amah in Topa’ inn sungah a kimu thuciamna laibu sunga thute khempeuh amau’ zakin sim hi.
 
-**ZVS:** Tua ciangin kumpipa, Judah mite leh Jerusalem-a a teng mite, siampite leh Levi mite, leh mi khempeuh a lian a neu tawh, { Topa' } biakinn-ah paito uh hi. Tua ciangin amah in { Topa' } biakinn sungah a kimu thuciamna laibu sunga thute khempeuh amau' zakin a sim hi.
+**ZVS:** Tua ciangin kumpipa, Judah mite leh Jerusalem-a a teng mite, siampite leh Levi mite, leh mi khempeuh a lian a neu tawh, { Topa' } biakinn-ah paito-te hi. Tua ciangin amah in { Topa' } biakinn sungah a kimu thuciamna laibu sunga thute khempeuh amau' zakin a sim hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -296,18 +296,18 @@
 ### v32
 **EN:** And he caused all that were present in Jerusalem and Benjamin to stand to it. And the inhabitants of Jerusalem did according to the covenant of God, the God of their fathers.
 
-**TDB77:** Tua ciangin amah in Jerusalem leh Benjamin sunga om mi khempeuh hih thu zui sak hi. Tua ciangin Jerusalem a, teeng mite in amau’ pute pate’ Pasian ahi Pasian’ thuciamna bangin gamta uh hi.
+**TDB77:** Tua ciangin amah in Jerusalem leh Benjamin sunga om mi khempeuh hih thu zui sak hi. Tua ciangin Jerusalem a, teeng mite in amau’ pute pate’ Pasian ahi Pasian’ thuciamna bangin gamta-te hi.
 
-**ZVS:** Tua ciangin amah in Jerusalem leh Benjamin sunga a om mi khempeuh hih thu a zuisak hi. Tua ciangin Jerusalem-a teng mite zong amau' pute pate' Pasian ahi Pasian' thuciamna bangin a gamta uh hi.
+**ZVS:** Tua ciangin amah in Jerusalem leh Benjamin sunga a om mi khempeuh hih thu a zuisak hi. Tua ciangin Jerusalem-a teng mite zong amau' pute pate' Pasian ahi Pasian' thuciamna bangin a gamta-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v33
 **EN:** And Josiah took away all the abominations out of all the countries that pertained to the children of Israel, and made all that were present in Israel to serve, even to serve the
 
-**TDB77:** Tua ciangin Josiah in Israel mite’neihsa gam sung khempeuh panin kihhuainate khempeuh lakhia a, Israel sunga om mi khempeuh Topa amaute’ Pasian na a sem sak hi. Ama nuntak sung khempeuh amau’ pute pate’ Pasian ahi Topa zuihna panin amaute kiheikhia lo uh hi.
+**TDB77:** Tua ciangin Josiah in Israel mite’neihsa gam sung khempeuh panin kihhuainate khempeuh lakhia a, Israel sunga om mi khempeuh Topa amaute’ Pasian na a sem sak hi. Ama nuntak sung khempeuh amau’ pute pate’ Pasian ahi Topa zuihna panin amaute kiheikhia lo-te hi.
 
-**ZVS:** Tua ciangin Josiah in Israel mite' neihsa gamsung khempeuh panin a kihhuaite khempeuh lakhia a, Israel sunga om mi khempeuh { Topa } amaute' Pasian' na a semsak hi. Ama nuntak sung khempeuh amau' pute pate' Pasian ahi { Topa } zuihna panin amaute kiheikhia lo uh hi.
+**ZVS:** Tua ciangin Josiah in Israel mite' neihsa gamsung khempeuh panin a kihhuaite khempeuh lakhia a, Israel sunga om mi khempeuh { Topa } amaute' Pasian' na a semsak hi. Ama nuntak sung khempeuh amau' pute pate' Pasian ahi { Topa } zuihna panin amaute kiheikhia lo-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

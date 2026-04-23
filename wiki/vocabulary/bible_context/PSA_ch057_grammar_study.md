@@ -62,9 +62,9 @@
 ### v6
 **EN:** They have prepared a net for my steps; my soul is bowed down: they have digged a pit before me, into the midst whereof they are fallen themselves. Selah.
 
-**TDB77:** Amaute in ka khe, thang hong siah uh hi; lungkhamin hong koih uh hi. Ka pai nading ah gum khat to uh a, ahih hangin tua sungah amaute mah kia uh hi.
+**TDB77:** Amaute in ka khe, thang hong siah-te hi; lungkhamin hong koih-te hi. Ka pai nading ah gum khat to-te a, ahih hangin tua sungah amaute mah kia-te hi.
 
-**ZVS:** Amaute in keima khe, thang hong siah uh a, lungkhamin hong koih uh hi. Ka paina ding munah gum khat to uh a, ahih hangin tua gum sungah amaute mah kia uh hi.
+**ZVS:** Amaute in keima khe, thang hong siah-te a, lungkhamin hong koih-te hi. Ka paina ding munah gum khat to-te a, ahih hangin tua gum sungah amaute mah kia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

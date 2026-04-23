@@ -32,9 +32,9 @@
 ### v2
 **EN:** The works of the
 
-**TDB77:** Topa’ nasepnate lian a, hoih a sa mi khempeuh in tuate kankan uh hi.
+**TDB77:** Topa’ nasepnate lian a, hoih a sa mi khempeuh in tuate kankan-te hi.
 
-**ZVS:** { Topa' } nasepna lian a, hoih a sa mi khempeuh in tuate kankan uh hi.
+**ZVS:** { Topa' } nasepna lian a, hoih a sa mi khempeuh in tuate kankan-te hi.
 
 **Grammar:** plural: uh marker
 

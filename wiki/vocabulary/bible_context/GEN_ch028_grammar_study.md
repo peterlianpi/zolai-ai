@@ -124,7 +124,7 @@
 ### v12
 **EN:** And he dreamed, and behold a ladder set up on the earth, and the top of it reached to heaven: and behold the angels of God ascending and descending on it.
 
-**TDB77:** Amah in mang man a, leitungah kahlei khat kiphutin, kahlei dawn in van ban hi; en in, Pasian’ vantungmite tua kahlei tungah kahto-in kumsuk uh hi.
+**TDB77:** Amah in mang man a, leitungah kahlei khat kiphutin, kahlei dawn in van ban hi; en in, Pasian’ vantungmite tua kahlei tungah kahto-in kumsuk-te hi.
 
 **ZVS:** Amah in mang man a, leitungah kahlei khat kiphutin, a kahlei dawn in van ban hi. Pasian' vantung mite tua kahlei tungah kah to-in a kum suk a mu hi.
 
@@ -142,9 +142,9 @@
 ### v14
 **EN:** And thy seed shall be as the dust of the earth, and thou shalt spread abroad to the west, and to the east, and to the north, and to the south: and in thee and in thy seed shall all the families of the earth be blessed.
 
-**TDB77:** na suan-le-khakte lei lak leivui bang ding a, nitumna lam leh nisuahna lam, leilu lam leh leitaw lamah na kizelthang ding uh hi; nang leh na suan-le-khakte thupha kong piak bangin leitung innkuan khempeuh in thupha a ngah nadingun hong ngen ding uh hi.
+**TDB77:** na suan-le-khakte lei lak leivui bang ding a, nitumna lam leh nisuahna lam, leilu lam leh leitaw lamah na kizelthang ding-te hi; nang leh na suan-le-khakte thupha kong piak bangin leitung innkuan khempeuh in thupha a ngah nadingun hong ngen ding-te hi.
 
-**ZVS:** Na suanlekhakte leilak leivui zah pha ding a, nitumna lam leh nisuahna lam, leilu lam leh leitaw lamah na kizelthang ding uh hi. Nang leh na suanlekhakte thupha kong piak bangin leitung minam khempeuh in thupha a ngahna dingun hong ngen ding uh hi.
+**ZVS:** Na suanlekhakte leilak leivui zah pha ding a, nitumna lam leh nisuahna lam, leilu lam leh leitaw lamah na kizelthang ding-te hi. Nang leh na suanlekhakte thupha kong piak bangin leitung minam khempeuh in thupha a ngahna dingun hong ngen ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

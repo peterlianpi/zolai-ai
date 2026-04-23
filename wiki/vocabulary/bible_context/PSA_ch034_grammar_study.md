@@ -32,9 +32,9 @@
 ### v2
 **EN:** My soul shall make her boast in the
 
-**TDB77:** Topa ka phat ding hi; gimna thuakte zasak un la lungdam uh hen.
+**TDB77:** Topa ka phat ding hi; gimna thuakte zasak un la lungdam-te hen.
 
-**ZVS:** { Topa } ka phat ding hi. Gimna thuakte zasak un la, lungdam uh hen.
+**ZVS:** { Topa } ka phat ding hi. Gimna thuakte zasak un la, lungdam-te hen.
 
 **Grammar:** future: will
 
@@ -55,9 +55,9 @@
 ### v5
 **EN:** They looked unto him, and were lightened: and their faces were not ashamed.
 
-**TDB77:** Amah en un la, maitai un; tua hi leh na mai uh zum ngei lo ding hi.
+**TDB77:** Amah en un la, maitai un; tua hi leh na mai-te zum ngei lo ding hi.
 
-**ZVS:** Amah en un la, maitaii un; tua hi leh na mai uh zum ngeilo ding hi.
+**ZVS:** Amah en un la, maitaii un; tua hi leh na mai-te zum ngeilo ding hi.
 
 **Grammar:** future: will
 
@@ -84,7 +84,7 @@
 
 **TDB77:** Topa’ hoihna sin un la, hoih hi, ci-in thei un! Amah a bel mi in lungdam hi.
 
-**ZVS:** { Topa } tawh kikhawl phot un la, ama hoihna thei un! Amah a beel mite mi lungdam ahi uh hi.
+**ZVS:** { Topa } tawh kikhawl phot un la, ama hoihna thei un! Amah a beel mite mi lungdam ahi-te hi.
 
 **Grammar:** quotative: said/saying | adjective: hoih (good) | serial verb: -in (and then)
 
@@ -100,9 +100,9 @@
 ### v10
 **EN:** The young lions do lack, and suffer hunger: but they that seek the
 
-**TDB77:** Humpinelkai khang laite in kisapna leh gilkialna thuak hi; ahih hangin Topa a zongte in na hoih a kisap uh om lo hi.
+**TDB77:** Humpinelkai khang laite in kisapna leh gilkialna thuak hi; ahih hangin Topa a zongte in na hoih a kisap-te om lo hi.
 
-**ZVS:** Humpinelkai khanglaite in kisapna leh gilkialna thuak a, ahih hangin { Topa } a zongte in na hoih a kisap uh omlo hi.
+**ZVS:** Humpinelkai khanglaite in kisapna leh gilkialna thuak a, ahih hangin { Topa } a zongte in na hoih a kisap-te omlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 

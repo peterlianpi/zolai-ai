@@ -36,9 +36,9 @@
 ### v2
 **EN:** For then would they not have ceased to be offered? because that the worshippers once purged should have had no more conscience of sins.
 
-**TDB77:** Ahih kei leh, a bia mite in khatvei bekin a sian’ tho khit uh ciang lungsim kisuan’na om nawnlo ding ahih manin biak piakna piak kikkik ding kisam nawnlo ding hilo ahi hiam?
+**TDB77:** Ahih kei leh, a bia mite in khatvei bekin a sian’ tho khit-te ciang lungsim kisuan’na om nawnlo ding ahih manin biak piakna piak kikkik ding kisam nawnlo ding hilo ahi hiam?
 
-**ZVS:** Thukham zui-in Pasian a bia mite in mawhna panin sian'suahna ngahzo uh hi leh a lungsim uhah kisuan'na lungsim om nawnlo ding ahih manin biakpiakna piak kikkik kul nawnlo ding hi.
+**ZVS:** Thukham zui-in Pasian a bia mite in mawhna panin sian'suahna ngahzo-te hi leh a lungsim uhah kisuan'na lungsim om nawnlo ding ahih manin biakpiakna piak kikkik kul nawnlo ding hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix
 
@@ -47,14 +47,14 @@
 
 **TDB77:** Tu-in ahih leh, hih biakna pia-in, mawhnate kum simin kingaihsunin a om hi.
 
-**ZVS:** Tua ahih manin biakpiakna a kipiak simin a kum kumin mite a mawhna uh a kiphawksak kikkik ahi hi.
+**ZVS:** Tua ahih manin biakpiakna a kipiak simin a kum kumin mite a mawhna-te a kiphawksak kikkik ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v4
 **EN:** For it is not possible that the blood of bulls and of goats should take away sins.
 
-**TDB77:** Bang hang hiam na cih uh leh, bawngtal’ si leh keel’ si in mawhna paaikhia zo lo uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, bawngtal’ si leh keel’ si in mawhna paaikhia zo lo-te hi.
 
 **ZVS:** Tua hi a, bawngtal sisan leh keel sisan in mawhna siangsakzo ngeilo hi.
 
@@ -115,9 +115,9 @@
 ### v11
 **EN:** And every priest standeth daily ministering and offering oftentimes the same sacrifices, which can never take away sins:
 
-**TDB77:** Siampi peuhmah in ni simin na semin, cikmah hunin mawhna a maisak zo lo piaknate pia kikkikin a ding uh hi.
+**TDB77:** Siampi peuhmah in ni simin na semin, cikmah hunin mawhna a maisak zo lo piaknate pia kikkikin a ding-te hi.
 
-**ZVS:** Jew siampite nisimin a nasepna uh munah dingin a kibang biakpiakna mah pia niloh uh a, ahi zongin tua a piak uh biakpiaknate in mawhna maisak theilo hi.
+**ZVS:** Jew siampite nisimin a nasepna-te munah dingin a kibang biakpiakna mah pia niloh-te a, ahi zongin tua a piak-te biakpiaknate in mawhna maisak theilo hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -140,7 +140,7 @@
 ### v14
 **EN:** For by one offering he hath perfected for ever them that are sanctified.
 
-**TDB77:** Bang hang hiam na cih uh leh, siangthona a ngah mite, khatvei biakna tawh kicin’ tawntungna a ngahsak hi.
+**TDB77:** Bang hang hiam na cih-te leh, siangthona a ngah mite, khatvei biakna tawh kicin’ tawntungna a ngahsak hi.
 
 **ZVS:** Mawhna panin a sian'thosak mite, khatvei bek biakpiakna a bawlna tawh siangtho paisuak sak hi.
 
@@ -169,7 +169,7 @@
 
 **TDB77:** “Amaute mawhnate khialhnate, Lungngai nawn loin ka om ding hi,” a ci hi.
 
-**ZVS:** “Amaute' mawhna leh a gitloh gamtatnate uh ka ciamteh nawn kei ding hi,” ci hi, ci-in a na gen hi.
+**ZVS:** “Amaute' mawhna leh a gitloh gamtatnate-te ka ciamteh nawn kei ding hi,” ci hi, ci-in a na gen hi.
 
 **Grammar:** quotative: said/saying | future: will
 
@@ -215,7 +215,7 @@
 ### v23
 **EN:** Let us hold fast the profession of our faith without wavering; (for he is faithful that promised;)
 
-**TDB77:** Lametna thu tawh kipawl i man’nate sawisak loin lenkip ni. Bang hang hiam na cih uh leh, thuciamna a koihpa in thuman mi ahi hi.
+**TDB77:** Lametna thu tawh kipawl i man’nate sawisak loin lenkip ni. Bang hang hiam na cih-te leh, thuciamna a koihpa in thuman mi ahi hi.
 
 **ZVS:** Pasian in piakdingin a hong ciam thu muangngam ihih manin i lametna thu kiptakin len ni.
 
@@ -233,7 +233,7 @@
 ### v25
 **EN:** Not forsaking the assembling of ourselves together, as the manner of some is; but exhorting one another: and so much the more, as ye see the day approaching.
 
-**TDB77:** Mi kimkhatte’ ngeina bangin khat leh khat kikhopna thu pelh loin, khat leh khat kihansuah ni. A Ni hong nai zo ahih thu na thei uh ahih ciangin na hahkat zaw un.
+**TDB77:** Mi kimkhatte’ ngeina bangin khat leh khat kikhopna thu pelh loin, khat leh khat kihansuah ni. A Ni hong nai zo ahih thu na thei-te ahih ciangin na hahkat zaw un.
 
 **ZVS:** Mi pawlkhatte in kikhop a pelh bang hiloin, eite in kikhop khawmnate pelhloin om ni. Topa' hong paiding Ni hong naina thu thei ihih manin khatlekhat kihanthawn semsemzaw ni.
 
@@ -242,7 +242,7 @@
 ### v26
 **EN:** For if we sin wilfully after that we have received the knowledge of the truth, there remaineth no more sacrifice for sins,
 
-**TDB77:** Bang hang hiam na cih uh leh, thuman i theih khit ciangin i deihna zui-in i mawh kik leh, a nung ciangin mawh maisak nading biakna a om kei ding hi;
+**TDB77:** Bang hang hiam na cih-te leh, thuman i theih khit ciangin i deihna zui-in i mawh kik leh, a nung ciangin mawh maisak nading biakna a om kei ding hi;
 
 **ZVS:** Thuman thutak i theih khit ciangin mawhna i bawl hamtang lai leh i mawhna a kimaisakna dingin biakpiakna dang om nawnlo a,
 
@@ -267,7 +267,7 @@
 ### v29
 **EN:** Of how much sorer punishment, suppose ye, shall he be thought worthy, who hath trodden under foot the Son of God, and hath counted the blood of the covenant, wherewith he was sanctified, an unholy thing, and hath done despite unto the Spirit of grace?
 
-**TDB77:** Tua bang tham loin, Pasian’ Tapa, a khe tawh sik a, amah a siangthosak thuciamna si a siangtho lo ci-in ngaihsun a, thupha a pia Kha Siangtho a simmawh mi in bang zah a lianzaw daantatna a thuak ding na um uh hiam?
+**TDB77:** Tua bang tham loin, Pasian’ Tapa, a khe tawh sik a, amah a siangthosak thuciamna si a siangtho lo ci-in ngaihsun a, thupha a pia Kha Siangtho a simmawh mi in bang zah a lianzaw daantatna a thuak ding na um-te hiam?
 
 **ZVS:** Tua bang ahih leh Pasian' Tapa a simmawh, mawhna a hong maisak Pasian' thuciamna sisan a thudonlo, Pasian' hehpihna a hong puak Kha Siangtho a hehsakte' thuakding bangzah takin lianzaw kan ding ahi hiam?
 
@@ -292,48 +292,48 @@
 ### v32
 **EN:** But call to remembrance the former days, in which, after ye were illuminated, ye endured a great fight of afflictions;
 
-**TDB77:** A beisa huna note tungah thupiangte phawkkik un. Pasian' khuavak sungah na om khit uh ciangin haksatna tampi thuak napi-in tuate na lel kei uh hi.
+**TDB77:** A beisa huna note tungah thupiangte phawkkik un. Pasian' khuavak sungah na om khit-te ciangin haksatna tampi thuak napi-in tuate na lel kei-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | plural: uh marker
 
 ### v33
 **EN:** Partly, whilst ye were made a gazingstock both by reproaches and afflictions; and partly, whilst ye became companions of them that were so used.
 
-**TDB77:** Mipi' mai-ah hong kisimmawhin hong kibawlsia a, tua bang a thuakte na pawlpih ngam uh hi.
+**TDB77:** Mipi' mai-ah hong kisimmawhin hong kibawlsia a, tua bang a thuakte na pawlpih ngam-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v34
 **EN:** For ye had compassion of me in my bonds, and took joyfully the spoiling of your goods, knowing in yourselves that ye have in heaven a better and an enduring substance.
 
-**TDB77:** Tua lai-in note in khihna a thuak mite na khasiat uh tham loin, neihsa a phazaw a kip tawntung sum a om hi ci-in thei-in na sum na paite uh hong kisuh ciangin na lungdam uh a, na mang uh hi.
+**TDB77:** Tua lai-in note in khihna a thuak mite na khasiat-te tham loin, neihsa a phazaw a kip tawntung sum a om hi ci-in thei-in na sum na paite-te hong kisuh ciangin na lungdam-te a, na mang-te hi.
 
-**ZVS:** Note in a hoihzaw, a kipzaw nate a nei na hihlam uh kithei na hih manun thongkia mite thuakpih ngamin, na neihsa uh hong kilaksak hangin zong lungdam takin na om thei veve lai uh hi.
+**ZVS:** Note in a hoihzaw, a kipzaw nate a nei na hihlam-te kithei na hih manun thongkia mite thuakpih ngamin, na neihsa-te hong kilaksak hangin zong lungdam takin na om thei veve lai-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v35
 **EN:** Cast not away therefore your confidence, which hath great recompence of reward.
 
-**TDB77:** Tua ahih ciangin phattuamna lian mahmah tawh kizom na lau lohna lungsim uh na paaikhia kei un.
+**TDB77:** Tua ahih ciangin phattuamna lian mahmah tawh kizom na lau lohna lungsim-te na paaikhia kei un.
 
-**ZVS:** Tua ahih manin thaman lianpi a hong ngahsak thei na lungsim han'na uh na khahsuah kei un.
+**ZVS:** Tua ahih manin thaman lianpi a hong ngahsak thei na lungsim han'na-te na khahsuah kei un.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | reciprocal: ki- prefix
 
 ### v36
 **EN:** For ye have need of patience, that, after ye have done the will of God, ye might receive the promise.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian’ deihna bang na nasep khit uh ciangin ama kamciamna na ngah nadingun thuakzawhna lungsim na kisam uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian’ deihna bang na nasep khit-te ciangin ama kamciamna na ngah nadingun thuakzawhna lungsim na kisam-te hi.
 
-**ZVS:** Pasian' deihna bangin gamta-in, ama thuciam na ngahtheihna dingun lungduai-in thuakzawhna na kisam uh hi.
+**ZVS:** Pasian' deihna bangin gamta-in, ama thuciam na ngahtheihna dingun lungduai-in thuakzawhna na kisam-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v37
 **EN:** For yet a little while, and he that shall come will come, and will not tarry.
 
-**TDB77:** “Bang hang hiam na cih uh leh, A hong pai dingpa in khawl loin, Tawlno khat khit ciangin a hong tung ding hi.
+**TDB77:** “Bang hang hiam na cih-te leh, A hong pai dingpa in khawl loin, Tawlno khat khit ciangin a hong tung ding hi.
 
 **ZVS:** Bang hang hiam cih leh Lai Siangtho sungah, “A sawt loin, a hong pai dingpa hong tung ding a, hong zekai nawnlo ding hi.
 
@@ -344,7 +344,7 @@
 
 **TDB77:** Ka midik in upna tawh a nungta ding hi, a nung kin leh, ka lungsim in Tua mi hangin lungdamna a nei kei hi,” ci-in Pasian in thu a pia hi.
 
-**ZVS:** Ahi zongin keima mi a thuman mite in ka thu umin nungta ding uh a, a nungkik a om uh leh tua mite tungah ka lungkim kei ding hi,” na ci hi.
+**ZVS:** Ahi zongin keima mi a thuman mite in ka thu umin nungta ding-te a, a nungkik a om-te leh tua mite tungah ka lungkim kei ding hi,” na ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 

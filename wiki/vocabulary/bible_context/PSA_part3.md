@@ -144,7 +144,7 @@
 
 ### mawk phat = flatter/praise falsely
 **Context:** Describing the deceitful speech of the wicked.
-**Example:** A leii uh tawh mawk phat uh hi.
+**Example:** A leii-te tawh mawk phat-te hi.
 
 ### puksak = cast down/overthrow
 **Context:** A request for God to cause the wicked to fall by their own words.
@@ -152,7 +152,7 @@
 
 ### lehdo = rebel/oppose
 **Context:** Describing the action of the wicked against God.
-**Example:** Amaute in nangmah hong lehdo uh ahih manin
+**Example:** Amaute in nangmah hong lehdo-te ahih manin
 
 ### paaikhia = cast out/drive away
 **Context:** A request for God to expel the wicked due to their transgressions.
@@ -208,7 +208,7 @@
 
 - **Comparative structure: X sangin Y lianzaw**
   - Used to state that Y is greater than X (X-than Y greater).
-  - Example: a nuam uh sangin nuamna lianzaw ka lung sungah nong guan hi.
+  - Example: a nuam-te sangin nuamna lianzaw ka lung sungah nong guan hi.
 
 - **Bang hang hiam cih leh [Statement of Fact]**
   - A rhetorical structure meaning 'Why is this? Because [reason follows].' Often used to explain God's nature or actions.

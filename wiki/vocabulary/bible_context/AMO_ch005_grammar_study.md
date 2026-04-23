@@ -52,16 +52,16 @@
 ### v4
 **EN:** For thus saith the
 
-**TDB77:** Tua ahih manin Topa in Israel mite tungah hih bangin ci hi: Kei hong zong un, tua hi leh na nungta ding uh hi.
+**TDB77:** Tua ahih manin Topa in Israel mite tungah hih bangin ci hi: Kei hong zong un, tua hi leh na nungta ding-te hi.
 
-**ZVS:** Tua ahih manin { Topa } in Israel mite tungah hih bangin ci hi: Kei hong zong un; tua hi leh na nungta ding uh hi.
+**ZVS:** Tua ahih manin { Topa } in Israel mite tungah hih bangin ci hi: Kei hong zong un; tua hi leh na nungta ding-te hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | plural: uh marker
 
 ### v5
 **EN:** But seek not Beth–el, nor enter into Gilgal, and pass not to Beer–sheba: for Gilgal shall surely go into captivity, and Beth–el shall come to nought.
 
-**TDB77:** A bia dingin Be-ersheba-ah pai kei un. Beth-el-ah hong zong kei un, a mawkna suak ding hi. Gilgal-ah zong lut kei un, Gilgal mite, sal a suak ding uh hi lel hi.
+**TDB77:** A bia dingin Be-ersheba-ah pai kei un. Beth-el-ah hong zong kei un, a mawkna suak ding hi. Gilgal-ah zong lut kei un, Gilgal mite, sal a suak ding-te hi lel hi.
 
 **ZVS:** A bia dingin Beersheba-ah pai kei un. Bethel-ah kei hong zong kei un; a mawkna suak ding hi. Gilgal-ah zong lut kei un; Gilgal mite, sal a suak ding hi lel hi.
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** Seek the
 
-**TDB77:** Topa zong un, tua hi leh na nungta ding uh hi. Amah na zon’ kei uh leh, Josef mite tungah amah mei bangin hong kuang ding a, tua mei in Bethel-a om mite kang tumin, tua mei a phelh ding kuamah om lo ding hi.
+**TDB77:** Topa zong un, tua hi leh na nungta ding-te hi. Amah na zon’ kei-te leh, Josef mite tungah amah mei bangin hong kuang ding a, tua mei in Bethel-a om mite kang tumin, tua mei a phelh ding kuamah om lo ding hi.
 
-**ZVS:** { Topa } zong un; tua hi leh na nungta ding uh hi. Amah na zon kei uh leh Josef mite tungah meikuang bangin amah hong kuang ding a, tua mei in Bethel-a om mite kangtumin, tua mei a phelh ding kuamah omlo ding hi.
+**ZVS:** { Topa } zong un; tua hi leh na nungta ding-te hi. Amah na zon kei-te leh Josef mite tungah meikuang bangin amah hong kuang ding a, tua mei in Bethel-a om mite kangtumin, tua mei a phelh ding kuamah omlo ding hi.
 
 **Grammar:** future: will | negation: lo | plural: uh marker
 
@@ -102,25 +102,25 @@
 ### v10
 **EN:** They hate him that rebuketh in the gate, and they abhor him that speaketh uprightly.
 
-**TDB77:** Note in thukhen zumah thutang a deihpa na mudah uh a, thuman a genpa na hua uh hi.
+**TDB77:** Note in thukhen zumah thutang a deihpa na mudah-te a, thuman a genpa na hua-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** Forasmuch therefore as your treading is upon the poor, and ye take from him burdens of wheat: ye have built houses of hewn stone, but ye shall not dwell in them; ye have planted pleasant vineyards, but ye shall not drink wine of them.
 
-**TDB77:** Note in mi zawngte tuancilin, a an teng uh laksak na hih manun, suangseek inn na lam hangun a sungah na teeng kha kei ding uh a, leenggui lo hoih na neih hangun a leenggahzu na dawn kha kei ding uh hi.
+**TDB77:** Note in mi zawngte tuancilin, a an teng-te laksak na hih manun, suangseek inn na lam hangun a sungah na teeng kha kei ding-te a, leenggui lo hoih na neih hangun a leenggahzu na dawn kha kei ding-te hi.
 
-**ZVS:** Note in mizawngte tuancilin, a an neihteng khempeuh uh laksak na hih manun, suangseek inn na lam hangun tua suang innsungah na tengkha kei ding uh a, leenggui lo hoih na neih hangun a leenggahzu na dawnkha kei ding uh hi.
+**ZVS:** Note in mizawngte tuancilin, a an neihteng khempeuh-te laksak na hih manun, suangseek inn na lam hangun tua suang innsungah na tengkha kei ding-te a, leenggui lo hoih na neih hangun a leenggahzu na dawnkha kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v12
 **EN:** For I know your manifold transgressions and your mighty sins: they afflict the just, they take a bribe, and they turn aside the poor in the gate from their right.
 
-**TDB77:** Bang hang hiam cih leh na khialhna tampite uh, leh na mawhna tampite uh ka thei khin a, thuman mite gimsakin, sumgolh na la uh a, thukhenna zumah mi zawngte’ thu a manin na khen kei uh hi.
+**TDB77:** Bang hang hiam cih leh na khialhna tampite uh, leh na mawhna tampite-te ka thei khin a, thuman mite gimsakin, sumgolh na la-te a, thukhenna zumah mi zawngte’ thu a manin na khen kei-te hi.
 
-**ZVS:** Bang hang hiam cih leh na khialhna tampite uh leh na mawhna tampite uh a vekin ka thei khin hi. Thuman mite gimsakin, sumgolh na la uh a, thukhenna zumah mizawngte' thu a manin na khen kei uh hi.
+**ZVS:** Bang hang hiam cih leh na khialhna tampite-te leh na mawhna tampite-te a vekin ka thei khin hi. Thuman mite gimsakin, sumgolh na la-te a, thukhenna zumah mizawngte' thu a manin na khen kei-te hi.
 
 **Grammar:** negation: kei | causal: because | plural: uh marker
 
@@ -136,9 +136,9 @@
 ### v14
 **EN:** Seek good, and not evil, that ye may live: and so the
 
-**TDB77:** Note na nuntak theih nadingun, siatna gamta loin, thuman-a gamtat ding hanciam un. Tua hi leh na gensa uh mah bangin, Topa, mihonpite’ Pasian in note hong ompih ding hi.
+**TDB77:** Note na nuntak theih nadingun, siatna gamta loin, thuman-a gamtat ding hanciam un. Tua hi leh na gensa-te mah bangin, Topa, mihonpite’ Pasian in note hong ompih ding hi.
 
-**ZVS:** Note na nuntak theihna dingun siatna gamta loin, thumanin gamtat ding hanciam un. Tua hi leh na gensa uh mah bangin { Topa, } Vanglian Pasian in note hong ompih ding hi.
+**ZVS:** Note na nuntak theihna dingun siatna gamta loin, thumanin gamtat ding hanciam un. Tua hi leh na gensa-te mah bangin { Topa, } Vanglian Pasian in note hong ompih ding hi.
 
 **Grammar:** future: will
 
@@ -154,9 +154,9 @@
 ### v16
 **EN:** Therefore the
 
-**TDB77:** Tua ahih ciangin Topa, mihonpite’ Pasian in hih bangin ci hi: Mihon omna lamkabom khempeuh ah, mite in nasa-in thuumin tau ding uh a, kongzing khempeuh ah kap ding uh hi. Khua neu-a mite a thuum dingin kisam ding a, a kah siam mite a kap dingin kicial ding hi.
+**TDB77:** Tua ahih ciangin Topa, mihonpite’ Pasian in hih bangin ci hi: Mihon omna lamkabom khempeuh ah, mite in nasa-in thuumin tau ding-te a, kongzing khempeuh ah kap ding-te hi. Khua neu-a mite a thuum dingin kisam ding a, a kah siam mite a kap dingin kicial ding hi.
 
-**ZVS:** Tua ahih ciangin { Topa, } Vanglian Pasian in hih bangin ci hi: Mihon omna lamkabom khempeuhah mite in na sa-in thumin tau ding uh a, kongzing khempeuhah kap ding uh hi. Khuaneu-a mite a thum dingin kisam ding a, a kah siam mite a kap dingin kicial ding hi.
+**ZVS:** Tua ahih ciangin { Topa, } Vanglian Pasian in hih bangin ci hi: Mihon omna lamkabom khempeuhah mite in na sa-in thumin tau ding-te a, kongzing khempeuhah kap ding-te hi. Khuaneu-a mite a thum dingin kisam ding a, a kah siam mite a kap dingin kicial ding hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -199,25 +199,25 @@
 ### v21
 **EN:** I hate, I despise your feast days, and I will not smell in your solemn assemblies.
 
-**TDB77:** Na biakna pawite uh mudahin ka deih kei a, na biak kikhopna te uhah ka lung a kim kei hi.
+**TDB77:** Na biakna pawite-te mudahin ka deih kei a, na biak kikhopna te uhah ka lung a kim kei hi.
 
-**ZVS:** Na biakna pawite uh mudahin ka deih kei a, na biak kikhopnate uhah ka lung a kim kei hi.
+**ZVS:** Na biakna pawite-te mudahin ka deih kei a, na biak kikhopnate uhah ka lung a kim kei hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v22
 **EN:** Though ye offer me burnt offerings and your meat offerings, I will not accept them: neither will I regard the peace offerings of your fat beasts.
 
-**TDB77:** Meihal biakna leh an tawh biakna nong paipih uh hangin, tuate kong sang kei ding a, Thu-nuam-a biakpiak nading a, nong paipih uh a thau mahmah ganhingte zong, et-in ka nei vet kei ding hi.
+**TDB77:** Meihal biakna leh an tawh biakna nong paipih-te hangin, tuate kong sang kei ding a, Thu-nuam-a biakpiak nading a, nong paipih-te a thau mahmah ganhingte zong, et-in ka nei vet kei ding hi.
 
-**ZVS:** Meihal biakna leh an tawh biakna nong paipih uh hangin tuate kong sang kei ding hi. Thunuama biakpiakna dingin na hong paipih uh a thau mahmah ganhingte zong et-in ka nei vet kei ding hi.
+**ZVS:** Meihal biakna leh an tawh biakna nong paipih-te hangin tuate kong sang kei ding hi. Thunuama biakpiakna dingin na hong paipih-te a thau mahmah ganhingte zong et-in ka nei vet kei ding hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
 ### v23
 **EN:** Take thou away from me the noise of thy songs; for I will not hear the melody of thy viols.
 
-**TDB77:** La sa-in na gamlumnate uh khawl un; na lasakna uh a gingte ka za nuam kei hi.
+**TDB77:** La sa-in na gamlumnate-te khawl un; na lasakna-te a gingte ka za nuam kei hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | plural: uh marker
 
@@ -231,9 +231,9 @@
 ### v25
 **EN:** Have ye offered unto me sacrifices and offerings in the wilderness forty years, O house of Israel?
 
-**TDB77:** Israel mite aw, gamlakah kum sawmli na om sungun, gan go-a biakna leh piakna bangmah nong nei kei uh hi.
+**TDB77:** Israel mite aw, gamlakah kum sawmli na om sungun, gan go-a biakna leh piakna bangmah nong nei kei-te hi.
 
-**ZVS:** Israel mite aw, gamlakah kum sawmli na om sungun gan go-a biakna leh keima tungah piakna bangmah nong bawl kei uh hi.
+**ZVS:** Israel mite aw, gamlakah kum sawmli na om sungun gan go-a biakna leh keima tungah piakna bangmah nong bawl kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -242,7 +242,7 @@
 
 **TDB77:** Tua hi napi-in tu-in, note’ adingin na bawl tawm uh, aksi pasiante ahi Sakkuth leh Kaiwan milimte na biak manun,
 
-**ZVS:** Tua hinapi tu-in note-a' dingin na bawltawm uh aksi pasian-te ahi Sakkuth leh Kaivuan milimte na biak manun
+**ZVS:** Tua hinapi tu-in note-a' dingin na bawltawm-te aksi pasian-te ahi Sakkuth leh Kaivuan milimte na biak manun
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 

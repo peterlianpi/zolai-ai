@@ -52,9 +52,9 @@
 ### v4
 **EN:** It may be the
 
-**TDB77:** Ama topa ahi Assiria kumpipa in a nungta Pasian a zahko dingin a sawl a ulianpa’ kammalte khempeuh Topa na Pasian in za-in Topa na Pasian in a zaksa thute nial khin kha ding hi; tua ciangin a om lai mite adingin thungen in,” a ci uh hi.
+**TDB77:** Ama topa ahi Assiria kumpipa in a nungta Pasian a zahko dingin a sawl a ulianpa’ kammalte khempeuh Topa na Pasian in za-in Topa na Pasian in a zaksa thute nial khin kha ding hi; tua ciangin a om lai mite adingin thungen in,” a ci-te hi.
 
-**ZVS:** Ama topa ahi Assiria kumpipa in a nungta Pasian a zahko dingin a sawl a ulianpa' kammalte khempeuh { Topa } na Pasian in za-in, { Topa } na Pasian in a zaksa thute nialkhin khading hi. Tua ahih ciangin a omlai mite-a' dingin thu ngen in,’ ci hi,” a ci uh hi.
+**ZVS:** Ama topa ahi Assiria kumpipa in a nungta Pasian a zahko dingin a sawl a ulianpa' kammalte khempeuh { Topa } na Pasian in za-in, { Topa } na Pasian in a zaksa thute nialkhin khading hi. Tua ahih ciangin a omlai mite-a' dingin thu ngen in,’ ci hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** And Isaiah said unto them, Thus shall ye say to your master, Thus saith the
 
-**TDB77:** Isaiah in amaute kiangah, “Na topa uh kiangah gen un, ‘Topa in hih bangin ci hi: Assiria kumpipa’ nasemte in kei hong simmawhna, na zaksa uh thute hangin lau kei un.
+**TDB77:** Isaiah in amaute kiangah, “Na topa-te kiangah gen un, ‘Topa in hih bangin ci hi: Assiria kumpipa’ nasemte in kei hong simmawhna, na zaksa-te thute hangin lau kei un.
 
-**ZVS:** Isaiah in amaute kiangah, “Na topa uh kiangah hih bangin gen un. ‘{ Topa } in hih bangin ci hi: “Assiria kumpipa' nasemte in kei hong simmawhna, na zaksa uh thute hangin lau kei un.
+**ZVS:** Isaiah in amaute kiangah, “Na topa-te kiangah hih bangin gen un. ‘{ Topa } in hih bangin ci hi: “Assiria kumpipa' nasemte in kei hong simmawhna, na zaksa-te thute hangin lau kei un.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
@@ -131,7 +131,7 @@
 
 **TDB77:** Hamath kumpipa, Arpad kumpipa, Sefarvaim khuapi kumpipa, Hena kumpipa, ahih kei leh Ivvah kumpipa koi-ah om ahi hiam?’ ci un,” a ci hi.
 
-**ZVS:** Hamath kumpipa, Arpad kumpipa, Sefarvaim khuapi kumpipa, Hena kumpipa, ahih kei leh Ivvah kumpipa koi-ah om ahi uh hiam, ci hi,’ ci un,” a ci hi.
+**ZVS:** Hamath kumpipa, Arpad kumpipa, Sefarvaim khuapi kumpipa, Hena kumpipa, ahih kei leh Ivvah kumpipa koi-ah om ahi-te hiam, ci hi,’ ci un,” a ci hi.
 
 **Grammar:** quotative: said/saying
 
@@ -156,16 +156,16 @@
 ### v17
 **EN:** Of a truth,
 
-**TDB77:** A taktakin, Topa aw, Assiria kumpite in minam dangte leh a gam uh siasak a,
+**TDB77:** A taktakin, Topa aw, Assiria kumpite in minam dangte leh a gam-te siasak a,
 
-**ZVS:** A taktakin, { Topa } aw, Assiria kumpite in minam dangte leh a gam uh siasak uh a,
+**ZVS:** A taktakin, { Topa } aw, Assiria kumpite in minam dangte leh a gam-te siasak-te a,
 
 ### v18
 **EN:** And have cast their gods into the fire: for they were no gods, but the work of men's hands, wood and stone: therefore they have destroyed them.
 
-**TDB77:** a pasiante uh meikhuk sungah lotsak uh hi; bang hang hiam cih leh tuate in pasian hi lo-in, mihingte’ khut tawh a kibawl sing leh suang ahi hi; tua ahih ciangin tuate kisusia hi.
+**TDB77:** a pasiante-te meikhuk sungah lotsak-te hi; bang hang hiam cih leh tuate in pasian hi lo-in, mihingte’ khut tawh a kibawl sing leh suang ahi hi; tua ahih ciangin tuate kisusia hi.
 
-**ZVS:** a pasian-te uh meikhuk sungah lotsak uh hi. Bang hang hiam cih leh tuate pasian hiloin, mihingte' khut tawh a kibawl sing leh suang ahi hi. Tua ahih manin tuate kisusia hi.
+**ZVS:** a pasian-te-te meikhuk sungah lotsak-te hi. Bang hang hiam cih leh tuate pasian hiloin, mihingte' khut tawh a kibawl sing leh suang ahi hi. Tua ahih manin tuate kisusia hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -328,9 +328,9 @@
 ### v37
 **EN:** And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword: and they escaped into the land of Armenia. And Esar–haddon his son reigned in his stead.
 
-**TDB77:** Tua ciangin amah in ama pasian Nisrok’ inn sungah bia-in a om lai takin, ama tapate Adrammelek leh Sharezer in namsau tawh amah thatin Ararat gamah tai uh hi. Tua ciangin ama tangin a tapa Esarhaddon in uk hi.
+**TDB77:** Tua ciangin amah in ama pasian Nisrok’ inn sungah bia-in a om lai takin, ama tapate Adrammelek leh Sharezer in namsau tawh amah thatin Ararat gamah tai-te hi. Tua ciangin ama tangin a tapa Esarhaddon in uk hi.
 
-**ZVS:** Tua ciangin amah in ama pasian Nisrok' biakinn sungah bia-in a om laitakin, ama tapate Adrammelek leh Sharezer in namsau tawh amah thatin Ararat gamah a tai uh hi. Tua ciangin ama tangin a tapa Esarhaddon in a uk hi.
+**ZVS:** Tua ciangin amah in ama pasian Nisrok' biakinn sungah bia-in a om laitakin, ama tapate Adrammelek leh Sharezer in namsau tawh amah thatin Ararat gamah a tai-te hi. Tua ciangin ama tangin a tapa Esarhaddon in a uk hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

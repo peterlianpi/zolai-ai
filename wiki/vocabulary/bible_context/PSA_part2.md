@@ -32,7 +32,7 @@
 
 ### sinso = wrath/anger (divine)
 **Context:** Referring to God's anger if the command is not followed.
-**Example:** amah sinso-in lamkalah na siamang ding uh hi
+**Example:** amah sinso-in lamkalah na siamang ding-te hi
 
 ### heh pakpak = kindled but a little/slightly burning
 **Context:** Describing the slightness of God's anger that can still cause destruction.

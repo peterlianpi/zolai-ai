@@ -113,7 +113,7 @@
 - `Pai un la, ...` = Go and... (sequential imperative)
 - `Khuavak om hen.` = Let there be light. (Gen 1:3)
 - `Eite khat leh khat ki-it ni.` = Let us love one another.
-- `Na lungtang uh patau kei hen.` = Let not your heart be troubled. (John 14:1)
+- `Na lungtang-te patau kei hen.` = Let not your heart be troubled. (John 14:1)
 - `Nuam takin pai in.` = Go in peace.
 - `Thakhauhin hang in.` = Be strong and courageous.
 

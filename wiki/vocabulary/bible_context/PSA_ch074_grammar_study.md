@@ -46,63 +46,63 @@
 ### v4
 **EN:** Thine enemies roar in the midst of thy congregations; they set up their ensigns for signs.
 
-**TDB77:** Na galte, nangma mun siangtho laizangah awng uh a, amau lumte lim dingin suang uh hi.
+**TDB77:** Na galte, nangma mun siangtho laizangah awng-te a, amau lumte lim dingin suang-te hi.
 
-**ZVS:** Nangma galte mun siangtho laizangah awng uh a, amau' dialte gualzawhna lim dingin a khai uh hi.
+**ZVS:** Nangma galte mun siangtho laizangah awng-te a, amau' dialte gualzawhna lim dingin a khai-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v5
 **EN:** A man was famous according as he had lifted up axes upon the thick trees.
 
-**TDB77:** Amaute pen, tuu-lak sing phatna sungah pai-in heipi tawh sing a phuk bang uh hi.
+**TDB77:** Amaute pen, tuu-lak sing phatna sungah pai-in heipi tawh sing a phuk bang-te hi.
 
-**ZVS:** Amaute pen tulak sing phatna-ah pai-in heipi tawh sing a phuk bang uh hi.
+**ZVS:** Amaute pen tulak sing phatna-ah pai-in heipi tawh sing a phuk bang-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v6
 **EN:** But now they break down the carved work thereof at once with axes and hammers.
 
-**TDB77:** Tua ciangin biakinn na kizeemte khempeuh sek-hei leh sekpite tawh sat kham uh hi.
+**TDB77:** Tua ciangin biakinn na kizeemte khempeuh sek-hei leh sekpite tawh sat kham-te hi.
 
-**ZVS:** Tua ciangin biakinn na a kizemte khempeuh sek-hei leh sekpi tawh a satkham uh hi.
+**ZVS:** Tua ciangin biakinn na a kizemte khempeuh sek-hei leh sekpi tawh a satkham-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** They have cast fire into thy sanctuary, they have defiled by casting down the dwelling place of thy name to the ground.
 
-**TDB77:** Amaute in nangma biakinn mei tawh hal uh a, nangmah hong kibiakna mun susia uh hi.
+**TDB77:** Amaute in nangma biakinn mei tawh hal-te a, nangmah hong kibiakna mun susia-te hi.
 
-**ZVS:** Amaute in mei tawh na biakinn hal uh a, nangmah hong kibiakna mun a susia uh hi.
+**ZVS:** Amaute in mei tawh na biakinn hal-te a, nangmah hong kibiakna mun a susia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** They said in their hearts, Let us destroy them together: they have burned up all the synagogues of God in the land.
 
-**TDB77:** Amaute in, “A vekpi-in zomang khin ni,” kici uh a, gam sung teng-a om Pasian biakna inn khempeuh mei tawh hal uh hi.
+**TDB77:** Amaute in, “A vekpi-in zomang khin ni,” kici-te a, gam sung teng-a om Pasian biakna inn khempeuh mei tawh hal-te hi.
 
-**ZVS:** Amaute in, “A vekpi-in zo mang khin ni,” kici uh a, gamsung tenga om Pasian biakna inn khempeuh mei tawh a hal uh hi.
+**ZVS:** Amaute in, “A vekpi-in zo mang khin ni,” kici-te a, gamsung tenga om Pasian biakna inn khempeuh mei tawh a hal-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** We see not our signs: there is no more any prophet: neither is there among us any that knoweth how long.
 
-**TDB77:** Kote in ka mailam thu ding uh ka thei kei uh hi; kamsang khat zong om nawn lo a, bang tanvei hi ding ci-a a thei kuamah ka om kei uh hi.
+**TDB77:** Kote in ka mailam thu ding-te ka thei kei-te hi; kamsang khat zong om nawn lo a, bang tanvei hi ding ci-a a thei kuamah ka om kei-te hi.
 
-**ZVS:** Kote in ka mailam thu ding uh ka thei kei uh hi. Kamsang khat zong om nawnlo a, bang tanvei hi ding, ci-in a thei kuamah ka om kei uh hi.
+**ZVS:** Kote in ka mailam thu ding-te ka thei kei-te hi. Kamsang khat zong om nawnlo a, bang tanvei hi ding, ci-in a thei kuamah ka om kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v10
 **EN:** O God, how long shall the adversary reproach? shall the enemy blaspheme thy name for ever?
 
-**TDB77:** Pasian aw, galte in bang tanvei hong thusim loin om ding ahi hiam? Langpangte in nangma min hong simmawh den ding ahi uh hiam?
+**TDB77:** Pasian aw, galte in bang tanvei hong thusim loin om ding ahi hiam? Langpangte in nangma min hong simmawh den ding ahi-te hiam?
 
-**ZVS:** Pasian aw, ka galte in bang tanvei hong thusim loin om ding ahi hiam? Langpangte in nangma min hong simmawh den ding ahi uh hiam?
+**ZVS:** Pasian aw, ka galte in bang tanvei hong thusim loin om ding ahi hiam? Langpangte in nangma min hong simmawh den ding ahi-te hiam?
 
 ### v11
 **EN:** Why withdrawest thou thy hand, even thy right hand? pluck it out of thy bosom.
@@ -164,16 +164,16 @@
 ### v18
 **EN:** Remember this, that the enemy hath reproached, O
 
-**TDB77:** Topa aw, galte in hong thusimlohna leh, dawi bia mite in nangma min a simmawhna thu uh phawk in.
+**TDB77:** Topa aw, galte in hong thusimlohna leh, dawi bia mite in nangma min a simmawhna thu-te phawk in.
 
 **ZVS:** { Topa } aw, galte in nang hong thusimlohna leh, dawibia mite in nangma min a hong simmawhna hong phawk ta in.
 
 ### v19
 **EN:** O deliver not the soul of thy turtledove unto the multitude of the wicked: forget not the congregation of thy poor for ever.
 
-**TDB77:** A cimawh na mite, a gal gilote uh khut sungah nusia kei in la, bawlsiatna a thuak na mite mangngilh kei in.
+**TDB77:** A cimawh na mite, a gal gilote-te khut sungah nusia kei in la, bawlsiatna a thuak na mite mangngilh kei in.
 
-**ZVS:** A cimawh mite a gal gilote uh khutsungah nusia kei in la, bawlsiatna a thuak mite mangngilh kei in.
+**ZVS:** A cimawh mite a gal gilote-te khutsungah nusia kei in la, bawlsiatna a thuak mite mangngilh kei in.
 
 ### v20
 **EN:** Have respect unto the covenant: for the dark places of the earth are full of the habitations of cruelty.

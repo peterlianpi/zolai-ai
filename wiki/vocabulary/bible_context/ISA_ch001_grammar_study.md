@@ -37,9 +37,9 @@
 ### v2
 **EN:** Hear, O heavens, and give ear, O earth: for the
 
-**TDB77:** Vantungte aw, za un, leitung aw, ngai un; bang hang hiam cih leh Topa in thu hong gen khin zo hi: “Ka pattahsa tapate in kei hong lehdo uh hi.
+**TDB77:** Vantungte aw, za un, leitung aw, ngai un; bang hang hiam cih leh Topa in thu hong gen khin zo hi: “Ka pattahsa tapate in kei hong lehdo-te hi.
 
-**ZVS:** Vantungte aw, na za un; leitung aw, na ngai in; bang hang hiam cih leh { Topa } in thu hong gen khinzo a, “Ka pattahsa ka tate in kei hong lehdo uh hi.
+**ZVS:** Vantungte aw, na za un; leitung aw, na ngai in; bang hang hiam cih leh { Topa } in thu hong gen khinzo a, “Ka pattahsa ka tate in kei hong lehdo-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -48,25 +48,25 @@
 
 **TDB77:** Bawng in amah a neipa thei a, la in ama topa’ an piakna mun thei buang hi; ahih hangin Israel in thei lo hi, keima mite in thei-thei lo hi,”
 
-**ZVS:** Bawng in amah a neipa thei a, la in zong a topa' an piakna mun thei buang hi. Ahih hangin Israel in bangmah theilo a, keima mite in thei theilo uh hi,” a ci hi.
+**ZVS:** Bawng in amah a neipa thei a, la in zong a topa' an piakna mun thei buang hi. Ahih hangin Israel in bangmah theilo a, keima mite in thei theilo-te hi,” a ci hi.
 
 **Grammar:** negation: lo
 
 ### v4
 **EN:** Ah sinful nation, a people laden with iniquity, a seed of evildoers, children that are corrupters: they have forsaken the
 
-**TDB77:** Ah, a khial minam, mawhna tawh a gik mite, siatna a bawlte’ suan leh khakte, a gamtatsia tapate! Amaute in Topa nusia khin uh a, amaute in Israelte’ Siangtho Pa simmawh khin uh hi; amaute in amah nungngat uh hi.
+**TDB77:** Ah, a khial minam, mawhna tawh a gik mite, siatna a bawlte’ suan leh khakte, a gamtatsia tapate! Amaute in Topa nusia khin-te a, amaute in Israelte’ Siangtho Pa simmawh khin-te hi; amaute in amah nungngat-te hi.
 
-**ZVS:** Ah, a khial minam, mawhna in a nencip mite, siatna a bawlte' suanlekhakte, a gamtatsia tapate! Amaute in { Topa } nusia khin uh a, amaute in Israel-te' Siangtho Pasian simmawh khin uh hi. Amaute in lam khial khin taktak uh hi.
+**ZVS:** Ah, a khial minam, mawhna in a nencip mite, siatna a bawlte' suanlekhakte, a gamtatsia tapate! Amaute in { Topa } nusia khin-te a, amaute in Israel-te' Siangtho Pasian simmawh khin-te hi. Amaute in lam khial khin taktak-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
 ### v5
 **EN:** Why should ye be stricken any more? ye will revolt more and more: the whole head is sick, and the whole heart faint.
 
-**TDB77:** Bang hangin note hong kisat beh lailai nadingin lehdo teitei na hi uh hiam? Israel aw, na lutang khempeuh liamma dim a, na lungsim leh na ngaihsutna gim mahmah hi.
+**TDB77:** Bang hangin note hong kisat beh lailai nadingin lehdo teitei na hi-te hiam? Israel aw, na lutang khempeuh liamma dim a, na lungsim leh na ngaihsutna gim mahmah hi.
 
-**ZVS:** Bang hangin note hong kisat theihna dingin lehdo teitei na hi uh hiam? Israel aw, na lutang khempeuh liamma dim a, na lungsim leh na ngaihsutna gim mahmah hi.
+**ZVS:** Bang hangin note hong kisat theihna dingin lehdo teitei na hi-te hiam? Israel aw, na lutang khempeuh liamma dim a, na lungsim leh na ngaihsutna gim mahmah hi.
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | reciprocal: ki- prefix
 
@@ -82,9 +82,9 @@
 ### v7
 **EN:** Your country is desolate, your cities are burned with fire: your land, strangers devour it in your presence, and it is desolate, as overthrown by strangers.
 
-**TDB77:** Na gam uh khing a, na khuapite uh mei tawh kihal hi; na muh tangpi mahun gamdang mite in na gam uh hong laksak a, theih ngei lohte’ lotthal bangin na khempeuh susia gawp uh hi.
+**TDB77:** Na gam-te khing a, na khuapite-te mei tawh kihal hi; na muh tangpi mahun gamdang mite in na gam-te hong laksak a, theih ngei lohte’ lotthal bangin na khempeuh susia gawp-te hi.
 
-**ZVS:** Na gam uh khing a, na khuapite uh mei tawh kihal hi. Na muh tangpi mahun gamdang mite in na gam uh hong laksakin na khempeuh susia gawp hi.
+**ZVS:** Na gam-te khing a, na khuapite-te mei tawh kihal hi. Na muh tangpi mahun gamdang mite in na gam-te hong laksakin na khempeuh susia gawp hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -125,45 +125,45 @@
 ### v12
 **EN:** When ye come to appear before me, who hath required this at your hand, to tread my courts?
 
-**TDB77:** “Kei’ mai-ah kilaak ding a, nong pai uh ciangin hih banga ka huang sung na tuatcil gawpna uh kua in hong deih ahi hiam?
+**TDB77:** “Kei’ mai-ah kilaak ding a, nong pai-te ciangin hih banga ka huang sung na tuatcil gawpna-te kua in hong deih ahi hiam?
 
-**ZVS:** Kei' mai-ah a kilaak dingin na hong pai uh ciangin hih bangin ka huangsung na tuatcil gawpna uh kua'n hong deih ding ahi hiam?
+**ZVS:** Kei' mai-ah a kilaak dingin na hong pai-te ciangin hih bangin ka huangsung na tuatcil gawpna-te kua'n hong deih ding ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v13
 **EN:** Bring no more vain oblations; incense is an abomination unto me; the new moons and sabbaths, the calling of assemblies, I cannot away with; it is iniquity, even the solemn meeting.
 
-**TDB77:** Bangmah-a kimang lo piaknate hong paipih nawn kei un; paknamtui halna ka kih hi. Khadet ni, sabbath ni leh thupi tak-a na kikhopnate uh mawhna tawh kidim ahih manin ke’n ka thuak zo kei hi.
+**TDB77:** Bangmah-a kimang lo piaknate hong paipih nawn kei un; paknamtui halna ka kih hi. Khadet ni, sabbath ni leh thupi tak-a na kikhopnate-te mawhna tawh kidim ahih manin ke’n ka thuak zo kei hi.
 
-**ZVS:** Bangmahin a kimanglo piaknate hong paipih nawn kei un. Paknamtui halna ka kih hi. Khadet ni, Sabbath ni, leh thupi takin na kikhopnate uh mawhna tawh kidim ahih manin ke'n ka thuakzo kei hi.
+**ZVS:** Bangmahin a kimanglo piaknate hong paipih nawn kei un. Paknamtui halna ka kih hi. Khadet ni, Sabbath ni, leh thupi takin na kikhopnate-te mawhna tawh kidim ahih manin ke'n ka thuakzo kei hi.
 
 **Grammar:** negation: kei | causal: because | reciprocal: ki- prefix
 
 ### v14
 **EN:** Your new moons and your appointed feasts my soul hateth: they are a trouble unto me; I am weary to bear them.
 
-**TDB77:** Note’ khadet nite leh na pawite uh ka mudah hi; tuate pen kei’ adingin van gikpi khat suak khin a, tuate ka puakna-in ka gim hi.
+**TDB77:** Note’ khadet nite leh na pawite-te ka mudah hi; tuate pen kei’ adingin van gikpi khat suak khin a, tuate ka puakna-in ka gim hi.
 
-**ZVS:** Note' Khadet nite leh na pawite uh ka mudah hi. Tuate pen kei-a' dingin vangikpi khat suakkhin a, tuate khempeuh ka puakna-in ka gim hi.
+**ZVS:** Note' Khadet nite leh na pawite-te ka mudah hi. Tuate pen kei-a' dingin vangikpi khat suakkhin a, tuate khempeuh ka puakna-in ka gim hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
 ### v15
 **EN:** And when ye spread forth your hands, I will hide mine eyes from you: yea, when ye make many prayers, I will not hear: your hands are full of blood.
 
-**TDB77:** Thu ngenin na khutte uh nong zaak uh ciangin note kiang pan ka mai ka seel ding a, thu tampi na nget uh hangin, ke’n ka ngai tuan kei ding hi; bang hang hiam cih leh note’ khut in sisan tawh kidim hi.
+**TDB77:** Thu ngenin na khutte-te nong zaak-te ciangin note kiang pan ka mai ka seel ding a, thu tampi na nget-te hangin, ke’n ka ngai tuan kei ding hi; bang hang hiam cih leh note’ khut in sisan tawh kidim hi.
 
-**ZVS:** “Thungenin na khutte uh nong zaak uh ciangin note kong en kei ding a, thu tampi na nget uh hangin ke'n ka ngai tuan kei ding hi. Bang hang hiam cih leh sisan tawh note' khut kidim hi.
+**ZVS:** “Thungenin na khutte-te nong zaak-te ciangin note kong en kei ding a, thu tampi na nget-te hangin ke'n ka ngai tuan kei ding hi. Bang hang hiam cih leh sisan tawh note' khut kidim hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
 ### v16
 **EN:** Wash you, make you clean; put away the evil of your doings from before mine eyes; cease to do evil;
 
-**TDB77:** Note kisil tawm un la, a siangtho-in kibawl un; keima muhna-ah na gamtat siatnate uh paikhia un; siatna na bawlte uh khawl un la,
+**TDB77:** Note kisil tawm un la, a siangtho-in kibawl un; keima muhna-ah na gamtat siatnate-te paikhia un; siatna na bawlte-te khawl un la,
 
-**ZVS:** Note kisil tawm un la, a siangtho-in kibawl un. Keima muhna-ah na gamtat siatnate uh paikhia-in, siatna na bawlte uh khawl un.
+**ZVS:** Note kisil tawm un la, a siangtho-in kibawl un. Keima muhna-ah na gamtat siatnate-te paikhia-in, siatna na bawlte-te khawl un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -179,27 +179,27 @@
 ### v18
 **EN:** Come now, and let us reason together, saith the
 
-**TDB77:** Topa in hih bangin ci hi: “Tu-in hong pai un la, thu kikum khawm ni; na mawhnate uh puansan a bat hangin vuuk bangin hong ngo ding hi; na mawhnate uh si bangin a san hangin tuumul bangin hong kaang ding hi.
+**TDB77:** Topa in hih bangin ci hi: “Tu-in hong pai un la, thu kikum khawm ni; na mawhnate-te puansan a bat hangin vuuk bangin hong ngo ding hi; na mawhnate-te si bangin a san hangin tuumul bangin hong kaang ding hi.
 
-**ZVS:** { Topa } in hih bangin ci hi: “Tu-in hong pai un la, thu kikumkhawm ni. Na mawhnate uh puansan a bat hangin vuk bangin hong ngo ding hi. Na mawhnate uh si bangin a san hangin tuumul bangin hong kang ding hi.
+**ZVS:** { Topa } in hih bangin ci hi: “Tu-in hong pai un la, thu kikumkhawm ni. Na mawhnate-te puansan a bat hangin vuk bangin hong ngo ding hi. Na mawhnate-te si bangin a san hangin tuumul bangin hong kang ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v19
 **EN:** If ye be willing and obedient, ye shall eat the good of the land:
 
-**TDB77:** Note in utna lungsim nei-in thu na man’ nak uh leh lei pan-a piang a gah hoihte na ne ding uh hi;
+**TDB77:** Note in utna lungsim nei-in thu na man’ nak-te leh lei pan-a piang a gah hoihte na ne ding-te hi;
 
-**ZVS:** Note in utna lungsim nei-in thu na man' nak uh leh lei pana piang a gah hoihte na ne ding uh hi.
+**ZVS:** Note in utna lungsim nei-in thu na man' nak-te leh lei pana piang a gah hoihte na ne ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v20
 **EN:** But if ye refuse and rebel, ye shall be devoured with the sword: for the mouth of the
 
-**TDB77:** Ahih hangin note in kei hong nialin nong lehdo uh leh namsau in note hong vatmai ding hi; bang hang hiam cih leh Topa in hih thu gen khin zo hi.”
+**TDB77:** Ahih hangin note in kei hong nialin nong lehdo-te leh namsau in note hong vatmai ding hi; bang hang hiam cih leh Topa in hih thu gen khin zo hi.”
 
-**ZVS:** Ahih hangin note in kei hong nialin na hong lehdo uh leh namsau in note hong vatmai ding hi. Bang hang hiam cih leh { Topa } in hih thu gen khinzo hi,” a ci hi.
+**ZVS:** Ahih hangin note in kei hong nialin na hong lehdo-te leh namsau in note hong vatmai ding hi. Bang hang hiam cih leh { Topa } in hih thu gen khinzo hi,” a ci hi.
 
 **Grammar:** future: will
 
@@ -224,9 +224,9 @@
 ### v23
 **EN:** Thy princes are rebellious, and companions of thieves: every one loveth gifts, and followeth after rewards: they judge not the fatherless, neither doth the cause of the widow come unto them.
 
-**TDB77:** Na uliante, mi lehdote hi a, gutate tawh a kikhawlte ahi hi. Mi khempeuh in sumgolh leh letsong deih uh hi. Amaute in pa nei lote pan’pih lo uh a, meigongnu’ thu amaute in sang lo uh hi.
+**TDB77:** Na uliante, mi lehdote hi a, gutate tawh a kikhawlte ahi hi. Mi khempeuh in sumgolh leh letsong deih-te hi. Amaute in pa nei lote pan’pih lo-te a, meigongnu’ thu amaute in sang lo-te hi.
 
-**ZVS:** Na uliante, mi lehdote hi a, gutate tawh a kikhawlte ahi hi. Mi khempeuh in sumgolh leh letsong a deih uh hi. Amaute in pa neilote pan'pihlo uh a, meigongnu' thu amaute in sanglo uh hi.
+**ZVS:** Na uliante, mi lehdote hi a, gutate tawh a kikhawlte ahi hi. Mi khempeuh in sumgolh leh letsong a deih-te hi. Amaute in pa neilote pan'pihlo-te a, meigongnu' thu amaute in sanglo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -242,9 +242,9 @@
 ### v25
 **EN:** And I will turn my hand upon thee, and purely purge away thy dross, and take away all thy tin:
 
-**TDB77:** Note kong langpan ding a, meikhuk-a haltui bangin na saam-ek teng uh tuikhia sakin, na kihelpih na nin khempeuh uh ka lakhia ding hi.
+**TDB77:** Note kong langpan ding a, meikhuk-a haltui bangin na saam-ek teng-te tuikhia sakin, na kihelpih na nin khempeuh-te ka lakhia ding hi.
 
-**ZVS:** Note tungah na kong sem ding a, meikhukah haltui bangin na saamek teng uh tuikhia sakin, na kihelpih na nin khempeuh uh ka lakhia ding hi.
+**ZVS:** Note tungah na kong sem ding a, meikhukah haltui bangin na saamek teng-te tuikhia sakin, na kihelpih na nin khempeuh-te ka lakhia ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -278,25 +278,25 @@
 ### v29
 **EN:** For they shall be ashamed of the oaks which ye have desired, and ye shall be confounded for the gardens that ye have chosen.
 
-**TDB77:** Bang hang hiam cih leh tawsaw kungte na biakna hangun note na maizum ding uh a, biakna huan na bawlna hangun zahhuai-in na mai uh san ding hi.
+**TDB77:** Bang hang hiam cih leh tawsaw kungte na biakna hangun note na maizum ding-te a, biakna huan na bawlna hangun zahhuai-in na mai-te san ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v30
 **EN:** For ye shall be as an oak whose leaf fadeth, and as a garden that hath no water.
 
-**TDB77:** Bang hang hiam cih leh note pen, a teh a vul tawsaw kung leh tui a ngah lo huan tawh na kibang ding uh hi.
+**TDB77:** Bang hang hiam cih leh note pen, a teh a vul tawsaw kung leh tui a ngah lo huan tawh na kibang ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh note pen a teh a vul tawsaw kung leh tui a ngahlo huan tawh na kibang ding uh hi.
+**ZVS:** Bang hang hiam cih leh note pen a teh a vul tawsaw kung leh tui a ngahlo huan tawh na kibang ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** And the strong shall be as tow, and the maker of it as a spark, and they shall both burn together, and none shall quench them.
 
-**TDB77:** A thahat mipa pen patlom tawh kibang ding a, ama nasepna pen mei-ek suak ding hi; kuamah in phelh zo loin amaute gel kangtum khawm ding uh hi.
+**TDB77:** A thahat mipa pen patlom tawh kibang ding a, ama nasepna pen mei-ek suak ding hi; kuamah in phelh zo loin amaute gel kangtum khawm ding-te hi.
 
-**ZVS:** A thahat mipa pen patlom tawh kibang ding a, ama nasepna pen meiek suak ding hi. Kuamah in phelhzo loin amaute gel kangtum khawm ding uh hi.
+**ZVS:** A thahat mipa pen patlom tawh kibang ding a, ama nasepna pen meiek suak ding hi. Kuamah in phelhzo loin amaute gel kangtum khawm ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

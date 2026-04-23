@@ -47,7 +47,7 @@
 
 **TDB77:** A husan’na a bei ciangin amah lei-ah ciahkik a, tua ni mahin ama ngaihsutnate bei ta hi.
 
-**ZVS:** A husan'na a bei ciangin lei-ah ciahkik uh a, tua ni mahmahin a ngaihsutnate uh beita hi.
+**ZVS:** A husan'na a bei ciangin lei-ah ciahkik-te a, tua ni mahmahin a ngaihsutnate-te beita hi.
 
 ### v5
 **EN:** Happy is he that hath the God of Jacob for his help, whose hope is in the

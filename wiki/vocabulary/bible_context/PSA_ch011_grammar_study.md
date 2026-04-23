@@ -30,9 +30,9 @@
 ### v2
 **EN:** For, lo, the wicked bend their bow, they make ready their arrow upon the string, that they may privily shoot at the upright in heart.
 
-**TDB77:** bang hang hiam cih leh, en in, migilote in, khuamial sung pan lungsim thutangte kap dingin a thalkhau uh-ah thaltang bulhin a thal uh keek hi;
+**TDB77:** bang hang hiam cih leh, en in, migilote in, khuamial sung pan lungsim thutangte kap dingin a thalkhau uh-ah thaltang bulhin a thal-te keek hi;
 
-**ZVS:** bang hang hiam cih leh, en in, migilote in khuamial sung panin lungsim thutangte a kap dingin a thalkhau uhah thaltang bulhin a thal uh a keek uh hi.
+**ZVS:** bang hang hiam cih leh, en in, migilote in khuamial sung panin lungsim thutangte a kap dingin a thalkhau uhah thaltang bulhin a thal-te a keek-te hi.
 
 **Grammar:** purpose: in order to
 

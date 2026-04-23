@@ -14,7 +14,7 @@
 - `[TDB77]` *And Pathrusim, and Casluhim, (of whom came the Philistines,) and * → **Pathrus mite, Kasluh mite (Filistia mite’ hong pian’na), leh Kaft**
 - `[TDB77]` *And Ephraim their father mourned many days, and his brethren came* → **Tua ciangin a pa Efraim ni tampi sung kap a, amah hehnem dingin a**
 - `[TDB77]` *And there came of the children of Benjamin and Judah to the hold * → **Tua ciangin Benjamin mi leh Judah mi pawlkhat David kiang mun mua**
-- `[TDB77]` *And the Philistines came and spread themselves in the valley of R* → **Tu-in Filistiate hong pai-in Refaim kuam sung luh uh hi.**
+- `[TDB77]` *And the Philistines came and spread themselves in the valley of R* → **Tu-in Filistiate hong pai-in Refaim kuam sung luh-te hi.**
 
 ## say/said
 
@@ -26,7 +26,7 @@
 ## give/gave
 
 - `[TDB77]` *And Sheshan gave his daughter to Jarha his servant to wife; and s* → **Tua ahih ciangin Sheshan in a sila Jarha tungah a zi dingin a tan**
-- `[TDB77]` *And they gave them Hebron in the land of Judah, and the suburbs t* → **Judah gam sungah Hebron leh a kiim lononate amaute tungah pia uh **
+- `[TDB77]` *And they gave them Hebron in the land of Judah, and the suburbs t* → **Judah gam sungah Hebron leh a kiim lononate amaute tungah pia-te **
 - `[TDB77]` *But the fields of the city, and the villages thereof, they gave t* → **ahih hangin khuapi lote leh a khuaneute Jefunneh’ tapa Kaleb tung**
 - `[TDB77]` *And the children of Israel gave to the Levites these cities with * → **Tua ahih ciangin Israel mite in hih bangin Levi mite tungah khuap**
 
@@ -47,13 +47,13 @@
 ## know/knew
 
 - `[TDB77]` *And I baptized also the household of Stephanas: besides, I know n* → **Stefanas-te innkuan zong ka baptaiz hi. Midangte ka baptaiz lam k**
-- `[TDB77]` *For I determined not to know any thing among you, save Jesus Chri* → **Bang hang hiam na cih uh leh, note lakah ka om lai takin Zeisu Kh**
+- `[TDB77]` *For I determined not to know any thing among you, save Jesus Chri* → **Bang hang hiam na cih-te leh, note lakah ka om lai takin Zeisu Kh**
 - `[TDB77]` *For who hath known the mind of the Lord, that he may instruct him* → **Topa a hilh dingin ama lungsim a thei kua ahi hiam? Eite in ahih **
-- `[TDB77]` *Know ye not that ye are the temple of God, and that the Spirit of* → **Note in Pasian’ biakna innpi na hi uh a, Pasian’ Kha Siangtho not**
+- `[TDB77]` *Know ye not that ye are the temple of God, and that the Spirit of* → **Note in Pasian’ biakna innpi na hi-te a, Pasian’ Kha Siangtho not**
 
 ## love/loved
 
-- `[TDB77]` *What will ye? shall I come unto you with a rod, or in love, and i* → **Koici bang deih na hi uh hiam? Ciangduai tawi-in note kiangah hon**
+- `[TDB77]` *What will ye? shall I come unto you with a rod, or in love, and i* → **Koici bang deih na hi-te hiam? Ciangduai tawi-in note kiangah hon**
 - `[TDB77]` *But if any man love God, the same is known of him.* → **Mikhat in Pasian a it leh, Pasian in tua mi a thei hi.**
 - `[TDB77]` *If any man love not the Lord Jesus Christ, let him be Anathema Ma* → **Mi khat peuhmah in Topa a it kei leh, tua mi in hamsiatna thuak t**
 - `[TDB77]` *My love be with you all in Christ Jesus. Amen.* → **Ka itna in Khazih Zeisu sunga om note khempeuh tawh omkhawm ta he**
@@ -61,23 +61,23 @@
 ## eat/ate
 
 - `[TDB77]` *And did eat and drink before the* → **tua ciangin amaute in tua ni-in lungdamna lianpi tawh Topa mai-ah**
-- `[TDB77]` *Have we not power to eat and to drink?* → **Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi uh h**
-- `[TDB77]` *And did all eat the same spiritual meat;* → **a vekpi-un kha an a nekhawm uh ahi zongin,**
+- `[TDB77]` *Have we not power to eat and to drink?* → **Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi-te h**
+- `[TDB77]` *And did all eat the same spiritual meat;* → **a vekpi-un kha an a nekhawm-te ahi zongin,**
 - `[TDB77]` *Behold Israel after the flesh: are not they which eat of the sacr* → **Ci-le-sa lamsangah Israelte na en ta un. Biakna sa a nete in biak**
 
 ## drink/drank
 
 - `[TDB77]` *And did eat and drink before the* → **tua ciangin amaute in tua ni-in lungdamna lianpi tawh Topa mai-ah**
-- `[TDB77]` *Have we not power to eat and to drink?* → **Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi uh h**
+- `[TDB77]` *Have we not power to eat and to drink?* → **Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi-te h**
 - `[TDB77]` *Whether therefore ye eat, or drink, or whatsoever ye do, do all t* → **Tua ahih ciangin note in anneek tuidawn akipan na khempeuh na baw**
-- `[TDB77]` *For as often as ye eat this bread, and drink this cup, ye do shew* → **Bang hang hiam na cih uh leh, note in hih khomun ne-in, hih hai n**
+- `[TDB77]` *For as often as ye eat this bread, and drink this cup, ye do shew* → **Bang hang hiam na cih-te leh, note in hih khomun ne-in, hih hai n**
 
 ## hear/heard
 
 - `[TDB77]` *And when all Jabesh–gilead heard all that the Philistines had don* → **Ahih hangin Jabeshgilead mi khempeuh in Saul tungah Filistiate’ h**
 - `[TDB77]` *Now when Tou king of Hamath heard how David had smitten all the h* → **David in Zobah kumpipa Hadadezer’ galkap buppi a zawhna thu Hamat**
 - `[TDB77]` *And when David heard of it, he sent Joab, and all the host of the* → **David in tua thu a zak ciangin Joab leh mi thahat galkap khempeuh**
-- `[TDB77]` *For this is the message that ye heard from the beginning, that we* → **Note in a cil panin na zak uh thu in, Dawimangpa tawh a kipawl a **
+- `[TDB77]` *For this is the message that ye heard from the beginning, that we* → **Note in a cil panin na zak-te thu in, Dawimangpa tawh a kipawl a **
 
 ## speak/spoke
 
@@ -90,13 +90,13 @@
 
 - `[TDB77]` *And when all Jabesh–gilead heard all that the Philistines had don* → **Ahih hangin Jabeshgilead mi khempeuh in Saul tungah Filistiate’ h**
 - `[TDB77]` *These things did Benaiah the son of Jehoiada, and had the name am* → **Jehoiada’ tapa Benaiah in hih nate sem a, a thahat mi thumte bana**
-- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei uh a, a kisehsa bang danin k**
+- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei-te a, a kisehsa bang danin k**
 - `[TDB77]` *Remember his marvellous works that he hath done, his wonders, and* → **Ama hihsa a lamdang nasepte phawk un la, ama hih a lamdangte, a g**
 
 ## make/made
 
 - `[TDB77]` *And they made war with the Hagarites, with Jetur, and Naphish, an* → **Amaute in Hagri mite, Jetur mite, Nafish mite, leh Nodab mite zo **
-- `[TDB77]` *And some of the sons of the priests made the ointment of the spic* → **Siampite’ ta adangte in a namtui nate hel dingin bawl uh a,**
+- `[TDB77]` *And some of the sons of the priests made the ointment of the spic* → **Siampite’ ta adangte in a namtui nate hel dingin bawl-te a,**
 - `[TDB77]` *Even of the covenant which he made with Abraham, and of his oath * → **Abraham tawh a bawl thuciamna, Isaak tungah kiciamin a khapna,**
 - `[TDB77]` *For thy people Israel didst thou make thine own people for ever; * → **Na mi Israelte a tawntungin nangma mi ahi dingin na bawl hi; tua **
 
@@ -116,7 +116,7 @@
 
 ## return
 
-- `[TDB77]` *And all the people departed every man to his house: and David ret* → **Tua ciangin mi khempeuh in a inn ciat uhah ciah uh a, David zong **
+- `[TDB77]` *And all the people departed every man to his house: and David ret* → **Tua ciangin mi khempeuh in a inn ciat uhah ciah-te a, David zong **
 - `[TDB77]` *And Jeroboam said in his heart, Now shall the kingdom return to t* → **Tua ciangin Jeroboam in a lungsim sungah, “Tu-in kumpigam in Davi**
 - `[TDB77]` *So he went another way, and returned not by the way that he came * → **Tua ahih ciangin amah lampi dangah pai-in Beth-el ah hong paina l**
 - `[TDB77]` *And Micaiah said, If thou return at all in peace, the* → **Tua ciangin Mikaiah in, “Lungnuam takin nong ciahkik leh Topa in **
@@ -131,15 +131,15 @@
 ## live/lived
 
 - `[TDB77]` *Even so hath the Lord ordained that they which preach the gospel * → **Tua mah bangin Lungdamna Thu a hilhte in Lungdamna Thu pan a kiva**
-- `[TDB77]` *That they may fear thee all the days that they live in the land w* → **ka pu ka pate uh tungah na piak leitang tungah a nuntak hun sung **
+- `[TDB77]` *That they may fear thee all the days that they live in the land w* → **ka pu ka pate-te tungah na piak leitang tungah a nuntak hun sung **
 - `[TDB77]` *And thou shalt not only while yet I live shew me the kindness of * → **Kei ka nuntak lai leh ka sih loh nadingin Topa’ thuman itna kei t**
-- `[TDB77]` *For now we live, if ye stand fast in the Lord.* → **Bang hang hiam na cih uh leh, note in Topa sungah na kip uh leh, **
+- `[TDB77]` *For now we live, if ye stand fast in the Lord.* → **Bang hang hiam na cih-te leh, note in Topa sungah na kip-te leh, **
 
 ## fear/feared
 
 - `[TDB77]` *Fear before him, all the earth: the world also shall be stable, t* → **leitung mi khempeuh aw, ama mai-ah ling un; hi hi, leitung kip a,**
 - `[TDB77]` *And I was with you in weakness, and in fear, and in much tremblin* → **Note tawh ka omkhawm lai takin thanemin, lau-in, liingin ka om hi**
-- `[TDB77]` *That they may fear thee all the days that they live in the land w* → **ka pu ka pate uh tungah na piak leitang tungah a nuntak hun sung **
+- `[TDB77]` *That they may fear thee all the days that they live in the land w* → **ka pu ka pate-te tungah na piak leitang tungah a nuntak hun sung **
 - `[TDB77]` *And Ahab called Obadiah, which was the governor of his house. (No* → **Tua ciangin Ahab in kumpi inn sung a ukpa Obadiah sam hi. (Obadia**
 
 ## pray/prayed
@@ -154,14 +154,14 @@
 - `[TDB77]` *And this thing became a sin: for the people went to worship befor* → **Hih na in khialhna khat suak hi; bang hang hiam cih leh mite Beth**
 - `[TDB77]` *For he served Baal, and worshipped him, and provoked to anger the* → **Amah in Baal’ na semin bia a, a pa mah bangin a hihna khempeuh ah**
 - `[TDB77]` *And this man went up out of his city yearly to worship and to sac* → **Hih mipa a kum kumin a khuapi panin, Eli’ tapa nihte Hofni leh Fi**
-- `[TDB77]` *And they rose up in the morning early, and worshipped before the* → **Amaute zingsangin tho baihin Topa mai-ah bia uh hi; tua ciangin a**
+- `[TDB77]` *And they rose up in the morning early, and worshipped before the* → **Amaute zingsangin tho baihin Topa mai-ah bia-te hi; tua ciangin a**
 
 ## believe
 
 - `[TDB77]` *Therefore whether it were I or they, so we preach, and so ye beli* → **Tua ahih ciangin kei ka hi zongin, amau ahi zongin tua bangin ka **
 - `[TDB77]` *So that ye were ensamples to all that believe in Macedonia and Ac* → **Tua ahih ciangin Makedonia gam leh Akhaia gamah thu-um mite khemp**
 - `[TDB77]` *If we believe not, yet he abideth faithful: he cannot deny himsel* → **Eite i muanhuai loh hangin, Ama muanhuaina a kip den hi. Bang han**
-- `[TDB77]` *And all that believed were together, and had all things common;* → **Thu-um mi khempeuh pawlkhat bekin a om uh a, amaute neihsa khempe**
+- `[TDB77]` *And all that believed were together, and had all things common;* → **Thu-um mi khempeuh pawlkhat bekin a om-te a, amaute neihsa khempe**
 
 ## ask/asked
 

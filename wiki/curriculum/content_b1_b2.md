@@ -18,7 +18,7 @@
 | `tua ahih leh` | if that is so | conditional consequence |
 
 **Examples:**
-- `Topa' minthan'na in inn dim ahih manin siampite lut thei kei uh hi.` = Because the glory filled the temple, the priests could not enter.
+- `Topa' minthan'na in inn dim ahih manin siampite lut thei kei-te hi.` = Because the glory filled the temple, the priests could not enter.
 - `Bang hang hiam cih leh Pasian in leitung mite a it mahmah hi.` = For God so loved the world.
 - `Tua ahih ciangin ka itte aw, khat leh khat ki-it ni.` = Therefore, beloved, let us love one another.
 
@@ -46,7 +46,7 @@
 |---|---|---|
 | Why? | `Bang hangin...hiam?` | `...ahih manin...` |
 | How? | `Bangci...hiam?` | `[method] tawh...` |
-| How many? | `Bangzah...hiam?` | `[number] pha uh hi` |
+| How many? | `Bangzah...hiam?` | `[number] pha-te hi` |
 | Which? | `Tua bang...hiam?` | `[item] ahi hi` |
 | When? | `Bang hun...hiam?` | `[time] ciangin...` |
 
@@ -95,7 +95,7 @@ Key patterns from TDB77:
 **Structure of Zolai proverbs:**
 - Parallel structure: A line + B line (same meaning, different words)
 - `Lungpil mi koi-ah a om hiam?` = Where is the wise man? (rhetorical)
-- `Pilna a nei na kisa mah uh hi.` = You think you have wisdom.
+- `Pilna a nei na kisa mah-te hi.` = You think you have wisdom.
 
 ### Unit 5: Zomi History
 Key vocabulary:
@@ -121,7 +121,7 @@ Key vocabulary:
 | `Hilo hi.` | No / I disagree. |
 | `Ka ngaihsut in, ahi hi.` | I think so. |
 | `Ka ngaihsut in, hilo hi.` | I don't think so. |
-| `Nang thu na gen uh hoih hi.` | What you said is good. |
+| `Nang thu na gen-te hoih hi.` | What you said is good. |
 | `Ahih hangin...` | But... / However... |
 | `Tua tham loin...` | Not only that... |
 
@@ -232,7 +232,7 @@ Examples from corpus:
 ### Unit 3: Metaphor Basics
 **Pattern:** `[subject] pen [metaphor] hi`
 - `Kei pen nuntakna an ka hi hi.` = I am the bread of life.
-- `Note pen leitung mite-a' dingin khuavak tawh na kibang uh hi.` = You are the light of the world.
+- `Note pen leitung mite-a' dingin khuavak tawh na kibang-te hi.` = You are the light of the world.
 - `Pasian in itna ahi hi.` = God is love.
 
 ### Unit 4: Comparative & Superlative

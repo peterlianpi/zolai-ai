@@ -48,9 +48,9 @@
 ### v4
 **EN:** It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward.
 
-**TDB77:** Bawngtal sawm-le-nihte tungah tua tuikuangpi kinga a, thum leilu lam nga a, thum nitumna lam nga-in, thum leitaw lam nga a, thum nisuahna lam nga hi; tuate tungah a tuikuangpi kinga a, a nung lam uh a sung lamah om hi.
+**TDB77:** Bawngtal sawm-le-nihte tungah tua tuikuangpi kinga a, thum leilu lam nga a, thum nitumna lam nga-in, thum leitaw lam nga a, thum nisuahna lam nga hi; tuate tungah a tuikuangpi kinga a, a nung lam-te a sung lamah om hi.
 
-**ZVS:** Bawngtal sawmlenihte tungah tua tuikuangpi kinga a, thum leilu lam nga a, thum nitumna lam nga-in, thum leitaw lam nga a, thum nisuahna lam nga hi. Tuate tungah a tuikuangpi kinga a, a nunglam uh a sunglamah om hi.
+**ZVS:** Bawngtal sawmlenihte tungah tua tuikuangpi kinga a, thum leilu lam nga a, thum nitumna lam nga-in, thum leitaw lam nga a, thum nisuahna lam nga hi. Tuate tungah a tuikuangpi kinga a, a nunglam-te a sunglamah om hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -66,9 +66,9 @@
 ### v6
 **EN:** He made also ten lavers, and put five on the right hand, and five on the left, to wash in them: such things as they offered for the burnt offering they washed in them; but the sea was for the priests to wash in.
 
-**TDB77:** Amah in kisil nading tuikuang dang sawm zong bawl a, leitaw lamah nga, leilu lamah nga koih hi. Amaute in meihal biakna a, a zatte uh hihte sungah silsiang ding uh a, tuikuangpi in siampite’ kisil nading ahi hi.
+**TDB77:** Amah in kisil nading tuikuang dang sawm zong bawl a, leitaw lamah nga, leilu lamah nga koih hi. Amaute in meihal biakna a, a zatte-te hihte sungah silsiang ding-te a, tuikuangpi in siampite’ kisil nading ahi hi.
 
-**ZVS:** Amah in kisilna ding tuikuang dang sawm zong bawl a, leitaw lamah nga, leilu lamah nga a koih hi. Amaute in meihal biakna-a a zatte uh hihte sungah silsiang ding uh a, tuikuangpi pen siampite' kisilna ding ahi hi.
+**ZVS:** Amah in kisilna ding tuikuang dang sawm zong bawl a, leitaw lamah nga, leilu lamah nga a koih hi. Amaute in meihal biakna-a a zatte-te hihte sungah silsiang ding-te a, tuikuangpi pen siampite' kisilna ding ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

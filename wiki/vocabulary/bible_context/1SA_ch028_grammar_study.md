@@ -31,9 +31,9 @@
 ### v1
 **EN:** And it came to pass in those days, that the Philistines gathered their armies together for warfare, to fight with Israel. And Achish said unto David, Know thou assuredly, that thou shalt go out with me to battle, thou and thy men.
 
-**TDB77:** Tua hunin Filistiate in Israelte do dingin a galkapte khawm uh hi. Akhish in David kiangah, “Nang leh na mite in kei tawh galkapte lakah a kuan khawm ding na hih lam thei in,” a ci hi.
+**TDB77:** Tua hunin Filistiate in Israelte do dingin a galkapte khawm-te hi. Akhish in David kiangah, “Nang leh na mite in kei tawh galkapte lakah a kuan khawm ding na hih lam thei in,” a ci hi.
 
-**ZVS:** Tua hunin Filistia-te in Israel-te a sim dingin a galkapte khawm uh hi. Akhish in David kiangah, “Nang leh na mite, kei tawh galkapte lakah a kuankhawm ding na hihlam thei in,” a ci hi.
+**ZVS:** Tua hunin Filistia-te in Israel-te a sim dingin a galkapte khawm-te hi. Akhish in David kiangah, “Nang leh na mite, kei tawh galkapte lakah a kuankhawm ding na hihlam thei in,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -49,18 +49,18 @@
 ### v3
 **EN:** Now Samuel was dead, and all Israel had lamented him, and buried him in Ramah, even in his own city. And Saul had put away those that had familiar spirits, and the wizards, out of the land.
 
-**TDB77:** Tu-in Samuel si a, Israelte khempeuh ama hangin kapin, ama khuapi Ramah ah vui uh hi. Saul in vankahte leh aisante a gamsung panin beisak hi.
+**TDB77:** Tu-in Samuel si a, Israelte khempeuh ama hangin kapin, ama khuapi Ramah ah vui-te hi. Saul in vankahte leh aisante a gamsung panin beisak hi.
 
-**ZVS:** Tu-in Samuel si khin a, Israel-te khempeuh ama hangin kapin, ama khuapi Ramah-ah vui uh hi. Saul in vankahte leh aisante a gamsung panin beisak hi.
+**ZVS:** Tu-in Samuel si khin a, Israel-te khempeuh ama hangin kapin, ama khuapi Ramah-ah vui-te hi. Saul in vankahte leh aisante a gamsung panin beisak hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v4
 **EN:** And the Philistines gathered themselves together, and came and pitched in Shunem: and Saul gathered all Israel together, and they pitched in Gilboa.
 
-**TDB77:** Filistiate kikhawm uh a, hong pai-in Shunem ah giahphual sat uh hi; Saul in Israelte khempeuh khawm a, amaute in Gilboa-ah giahphual sat uh hi.
+**TDB77:** Filistiate kikhawm-te a, hong pai-in Shunem ah giahphual sat-te hi; Saul in Israelte khempeuh khawm a, amaute in Gilboa-ah giahphual sat-te hi.
 
-**ZVS:** Filistia-te kikhawm uh a, hong pai-in Shunem-ah giahphual sat uh hi. Saul in Israel-te khempeuh khawm a, amaute in Gilboa-ah giahphual sat uh hi.
+**ZVS:** Filistia-te kikhawm-te a, hong pai-in Shunem-ah giahphual sat-te hi. Saul in Israel-te khempeuh khawm a, amaute in Gilboa-ah giahphual sat-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -83,18 +83,18 @@
 ### v7
 **EN:** Then said Saul unto his servants, Seek me a woman that hath a familiar spirit, that I may go to her, and enquire of her. And his servants said to him, Behold, there is a woman that hath a familiar spirit at Endor.
 
-**TDB77:** Tua ciangin Saul in a nasemte kiangah, “Ama kiangah pai-in ama tung pan thu ka dot theih nadingin vankah thei numei khat kei adingin hong zon’sak un,” a ci hi. A nasemte in ama kiangah, ‘En in, Edor-ah vankah thei khat om hi,” a ci uh hi.
+**TDB77:** Tua ciangin Saul in a nasemte kiangah, “Ama kiangah pai-in ama tung pan thu ka dot theih nadingin vankah thei numei khat kei adingin hong zon’sak un,” a ci hi. A nasemte in ama kiangah, ‘En in, Edor-ah vankah thei khat om hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin Saul in a nasemte kiangah, “Ama kiangah pai-in ama tung pan thu ka dot theihna dingin vankahthei numei khat kei-a' dingin hong zon'sak un,” a ci hi. A nasemte in ama kiangah, “En in, Endor-ah vankahthei khat om hi,” a ci uh hi.
+**ZVS:** Tua ciangin Saul in a nasemte kiangah, “Ama kiangah pai-in ama tung pan thu ka dot theihna dingin vankahthei numei khat kei-a' dingin hong zon'sak un,” a ci hi. A nasemte in ama kiangah, “En in, Endor-ah vankahthei khat om hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And Saul disguised himself, and put on other raiment, and he went, and two men with him, and they came to the woman by night: and he said, I pray thee, divine unto me by the familiar spirit, and bring me him up, whom I shall name unto thee.
 
-**TDB77:** Tua ahih ciangin Saul in a mel seelin puan dang silh a, amah leh mi nih pai hi; amaute zanin numei kiangah pai uh hi. Amah in, “Kei adingin a sisate’ kha kiang pan thu hong dotsak in la, nang kiang a min kong gen peuhpeuh kei adingin hong sap tohsak in,” a ci hi.
+**TDB77:** Tua ahih ciangin Saul in a mel seelin puan dang silh a, amah leh mi nih pai hi; amaute zanin numei kiangah pai-te hi. Amah in, “Kei adingin a sisate’ kha kiang pan thu hong dotsak in la, nang kiang a min kong gen peuhpeuh kei adingin hong sap tohsak in,” a ci hi.
 
-**ZVS:** Tua ahih ciangin Saul in a meel seelin puan dang silh a, amah leh mi nih pai hi. Amaute zanin tua numei kiangah va pai uh hi. Amah in, “Kei-a' dingin a sisate' kha kiang pan thu hong dotsak in la, nang kianga a min kong gen peuhpeuh kei-a' dingin hong saptohsak in,” a ci hi.
+**ZVS:** Tua ahih ciangin Saul in a meel seelin puan dang silh a, amah leh mi nih pai hi. Amaute zanin tua numei kiangah va pai-te hi. Amah in, “Kei-a' dingin a sisate' kha kiang pan thu hong dotsak in la, nang kianga a min kong gen peuhpeuh kei-a' dingin hong saptohsak in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -191,9 +191,9 @@
 ### v19
 **EN:** Moreover the
 
-**TDB77:** Tua tham loin Topa in Israel mite zong nang tawh Filistiate khut sungah hong piakhawm ding hi; zing ciangin nang leh na tapate in zong kei kiang nong zuan ding uh hi; Topa in Israel galkapte zong Filistia-te’ khut sungah pia ding hi,” a ci hi.
+**TDB77:** Tua tham loin Topa in Israel mite zong nang tawh Filistiate khut sungah hong piakhawm ding hi; zing ciangin nang leh na tapate in zong kei kiang nong zuan ding-te hi; Topa in Israel galkapte zong Filistia-te’ khut sungah pia ding hi,” a ci hi.
 
-**ZVS:** Tua thamloin { Topa } in Israel mite zong nang tawh Filistia-te' khutsungah hong piakhawm ding hi. Zing ciangin nang leh na tapate in zong kei kiang nong zuan ding uh hi. { Topa } in Israel galkapte zong Filistia-te' khutsungah pia ding hi,” a ci hi.
+**ZVS:** Tua thamloin { Topa } in Israel mite zong nang tawh Filistia-te' khutsungah hong piakhawm ding hi. Zing ciangin nang leh na tapate in zong kei kiang nong zuan ding-te hi. { Topa } in Israel galkapte zong Filistia-te' khutsungah pia ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -227,9 +227,9 @@
 ### v23
 **EN:** But he refused, and said, I will not eat. But his servants, together with the woman, compelled him; and he hearkened unto their voice. So he arose from the earth, and sat upon the bed.
 
-**TDB77:** Amah in nial a, “Ka ne kei ding hi,” a ci hi. Ahih hangin tua numei tawh kopin a nasemte in ci teitei uh hi; tua ciangin amau cih bangin mang hi. Tua ahih ciangin lei lak panin amah tho-in lupna tungah tu hi.
+**TDB77:** Amah in nial a, “Ka ne kei ding hi,” a ci hi. Ahih hangin tua numei tawh kopin a nasemte in ci teitei-te hi; tua ciangin amau cih bangin mang hi. Tua ahih ciangin lei lak panin amah tho-in lupna tungah tu hi.
 
-**ZVS:** Amah in nial a, “Ka ne kei ding hi,” a ci hi. Ahih hangin tua numei tawh kopin a nasemte in ci teitei uh ahih manin amau' cih bangin a mang hi. Tua ahih ciangin leilak panin amah tho-in lupna tungah a tu hi.
+**ZVS:** Amah in nial a, “Ka ne kei ding hi,” a ci hi. Ahih hangin tua numei tawh kopin a nasemte in ci teitei-te ahih manin amau' cih bangin a mang hi. Tua ahih ciangin leilak panin amah tho-in lupna tungah a tu hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
@@ -245,9 +245,9 @@
 ### v25
 **EN:** And she brought it before Saul, and before his servants; and they did eat. Then they rose up, and went away that night.
 
-**TDB77:** Saul leh a nasemte mai-ah lui hi; amaute in ne uh hi. Tua ciangin amaute ding-in tua zanin paikhia uh hi.
+**TDB77:** Saul leh a nasemte mai-ah lui hi; amaute in ne-te hi. Tua ciangin amaute ding-in tua zanin paikhia-te hi.
 
-**ZVS:** Saul leh a nasemte' mai-ah lui a, amaute in a ne uh hi. Tua ciangin amaute dingin tua zanin a paikhia uh hi.
+**ZVS:** Saul leh a nasemte' mai-ah lui a, amaute in a ne-te hi. Tua ciangin amaute dingin tua zanin a paikhia-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

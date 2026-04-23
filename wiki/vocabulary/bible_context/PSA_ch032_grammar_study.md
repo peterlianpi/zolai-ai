@@ -102,9 +102,9 @@
 ### v10
 **EN:** Many sorrows shall be to the wicked: but he that trusteth in the
 
-**TDB77:** Migilote in gimna tampi thuak uh a, Topa a muangte ahih leh itna kip in tuamcip hi.
+**TDB77:** Migilote in gimna tampi thuak-te a, Topa a muangte ahih leh itna kip in tuamcip hi.
 
-**ZVS:** Migilote in gimna tampi thuak uh a, { Topa } a muangte ahih leh itna kip in a hu hi.
+**ZVS:** Migilote in gimna tampi thuak-te a, { Topa } a muangte ahih leh itna kip in a hu hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

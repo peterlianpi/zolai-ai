@@ -32,7 +32,7 @@
 ### v2
 **EN:** That ye receive her in the Lord, as becometh saints, and that ye assist her in whatsoever business she hath need of you: for she hath been a succourer of many, and of myself also.
 
-**TDB77:** Misiangthote in ahih ding a kilawm bangin, Pasian hangah tua numei na tungsak un la, amah huh dinga a kisapnate khempeuh na huh ta un. Bang hang hiam na cih uh leh, amah in mi tampi ahi zongin, keimah ahi zongin hong huh mi ahi hi.
+**TDB77:** Misiangthote in ahih ding a kilawm bangin, Pasian hangah tua numei na tungsak un la, amah huh dinga a kisapnate khempeuh na huh ta un. Bang hang hiam na cih-te leh, amah in mi tampi ahi zongin, keimah ahi zongin hong huh mi ahi hi.
 
 **ZVS:** Amah pen keimah-a kipan mi tampi-a' dingin lawm hoih mahmah khat ahih manin, Pasian' mite in a hih dingin a kilawm ahih mah bangin Topa' thu sungah mihoihin na sang un la, note' huhding a kisapna khempeuhah hoihtakin na huh un.
 
@@ -50,9 +50,9 @@
 ### v4
 **EN:** Who have for my life laid down their own necks: unto whom not only I give thanks, but also all the churches of the Gentiles.
 
-**TDB77:** Amaute in keima nuntakna tang ding amau ngawng a dawh ngamte ahi uh hi. “Amau in hehpihna a nei uh hi,” ci-in kei guak hi lo, Gentail pawlpite khempeuh in a phat uh hi.
+**TDB77:** Amaute in keima nuntakna tang ding amau ngawng a dawh ngamte ahi-te hi. “Amau in hehpihna a nei-te hi,” ci-in kei guak hi lo, Gentail pawlpite khempeuh in a phat-te hi.
 
-**ZVS:** Amaute pen kei-a' dingin a si ngam uh ahi hi. Amaute tungah a lungdam kei guak bek zong hiloin, Gentail pawlpi mi khempeuh zong a lungdam ahi hi.
+**ZVS:** Amaute pen kei-a' dingin a si ngam-te ahi hi. Amaute tungah a lungdam kei guak bek zong hiloin, Gentail pawlpi mi khempeuh zong a lungdam ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -73,9 +73,9 @@
 ### v7
 **EN:** Salute Andronicus and Junia, my kinsmen, and my fellowprisoners, who are of note among the apostles, who also were in Christ before me.
 
-**TDB77:** Kei tawh thongkia khawm, keima behte ahi Andronikas leh Junias zong na hopihsak un. Amaute in sawltak lakah maiphatna a ngah mi ahi uh a, kei mai-ah Khazih’ sunga om mite ahi uh hi.
+**TDB77:** Kei tawh thongkia khawm, keima behte ahi Andronikas leh Junias zong na hopihsak un. Amaute in sawltak lakah maiphatna a ngah mi ahi-te a, kei mai-ah Khazih’ sunga om mite ahi-te hi.
 
-**ZVS:** Jew mipih ahih banah ka thongkiatpih ahi Andronikas leh Junias zong na hopih sak un. Amaute pen kei' Khristian suahma pekin a na suak khinsate na hi uh a, sawltakte khempeuh in a theihkim uh mite ahi uh hi.
+**ZVS:** Jew mipih ahih banah ka thongkiatpih ahi Andronikas leh Junias zong na hopih sak un. Amaute pen kei' Khristian suahma pekin a na suak khinsate na hi-te a, sawltakte khempeuh in a theihkim-te mite ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -91,7 +91,7 @@
 
 **TDB77:** Kote tawh Khazih’ nasem khawmpa Urbanas leh ka it Stakhus zong na hopihsak un.
 
-**ZVS:** Khrih nasepna sungah na ka sepkhoppih uh ahi Urbanas, leh ka lawm Stakhus zong na hopih sak un.
+**ZVS:** Khrih nasepna sungah na ka sepkhoppih-te ahi Urbanas, leh ka lawm Stakhus zong na hopih sak un.
 
 ### v10
 **EN:** Salute Apelles approved in Christ. Salute them which are of Aristobulus' household.
@@ -140,16 +140,16 @@
 ### v16
 **EN:** Salute one another with an holy kiss. The churches of Christ salute you.
 
-**TDB77:** Khat leh khat siangtho kinapna tawh na kihopih un. Khazih’ pawlpite khempeuh in note hong hopih uh hi.
+**TDB77:** Khat leh khat siangtho kinapna tawh na kihopih un. Khazih’ pawlpite khempeuh in note hong hopih-te hi.
 
-**ZVS:** Sanggam ki-itna taktak tawh note khatlekhat kinamin na kihopih un. Khrih pawlpi khempeuh in zong hopihna kam hong khak uh hi.
+**ZVS:** Sanggam ki-itna taktak tawh note khatlekhat kinamin na kihopih un. Khrih pawlpi khempeuh in zong hopihna kam hong khak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Now I beseech you, brethren, mark them which cause divisions and offences contrary to the doctrine which ye have learned; and avoid them.
 
-**TDB77:** Ute naute aw, na san’sa uh thuhilhna tawh kituak lo, kikhenna leh pukna a bawl thei mite ciamteh un la, tang un, ci-in kong thuum hi.
+**TDB77:** Ute naute aw, na san’sa-te thuhilhna tawh kituak lo, kikhenna leh pukna a bawl thei mite ciamteh un la, tang un, ci-in kong thuum hi.
 
 **ZVS:** Lawmte aw, note' theihsa thute gensia langpangin, mite' upna nawngkaisakin pawl a kikhensak mite kidawm un. Tua bang mite tawh kikhawl vet kei un.
 
@@ -158,9 +158,9 @@
 ### v18
 **EN:** For they that are such serve not our Lord Jesus Christ, but their own belly; and by good words and fair speeches deceive the hearts of the simple.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite Topa Khazih’ na sem loin amau gilpi na bek a sem uh a, kamsiam leh kamzol tawh a pha mite a kheem thei uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite Topa Khazih’ na sem loin amau gilpi na bek a sem-te a, kamsiam leh kamzol tawh a pha mite a kheem thei-te hi.
 
-**ZVS:** Tua bang mite in i Topa Khrih' na a sem hiloin, gilpi vai bek a sem uh ahi hi. Amaute in mite phatin kamkhum nono zang uh ahih manin mihoih pawlkhat a khemzo uh hi.
+**ZVS:** Tua bang mite in i Topa Khrih' na a sem hiloin, gilpi vai bek a sem-te ahi hi. Amaute in mite phatin kamkhum nono zang-te ahih manin mihoih pawlkhat a khemzo-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -169,14 +169,14 @@
 
 **TDB77:** Note’ thuman’na in mi khempeuhte lakah kithang ahih ciangin, note hangin ka lung a dam hi. Ahih hangin note in thuhoih lamsang ah lungpilna nei-in, gitlohna lamsang ah mawhna a om loh nading ka hong deih hi.
 
-**ZVS:** Lungdamna thu tawh kisai-ah na cihtakna uh mi khempeuh in thei ahih manin hih thu-ah kong lungdampih mahmah hi. A hoih bang hiam, ci-in theihna ding pilna nei-in, a sia peuhmah tawh na kizopkhak hetlohna ding uh kong deihsak hi.
+**ZVS:** Lungdamna thu tawh kisai-ah na cihtakna-te mi khempeuh in thei ahih manin hih thu-ah kong lungdampih mahmah hi. A hoih bang hiam, ci-in theihna ding pilna nei-in, a sia peuhmah tawh na kizopkhak hetlohna ding-te kong deihsak hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v20
 **EN:** And the God of peace shall bruise Satan under your feet shortly. The grace of our Lord Jesus Christ be with you. Amen.
 
-**TDB77:** Nopna hong pia Pasian in a sawt loin note khe nuai uh ah Satan a bawlsia ding hi. Eite Topa Zeisu Khazih’ hehpihna thupha in note tungah om ta hen.
+**TDB77:** Nopna hong pia Pasian in a sawt loin note khe nuai-te ah Satan a bawlsia ding hi. Eite Topa Zeisu Khazih’ hehpihna thupha in note tungah om ta hen.
 
 **ZVS:** Tua hi leh eite tungah nopsakna a hong pia thei Pasian in Satan tuancilin note' khenuai mi hong hisak baih ding hi. I Topa Jesuh Khrih hong hehpihna thupha, note tungah om ta hen.
 
@@ -185,9 +185,9 @@
 ### v21
 **EN:** Timothy my workfellow, and Lucius, and Jason, and Sosipater, my kinsmen, salute you.
 
-**TDB77:** Kei tawh na a semkhawm Timoti akipan ka behte ahi uh Lukias, Jason leh Sosipater-te in note hong hopih uh hi.
+**TDB77:** Kei tawh na a semkhawm Timoti akipan ka behte ahi-te Lukias, Jason leh Sosipater-te in note hong hopih-te hi.
 
-**ZVS:** Ka naseppih Timoti in note hong hopih a, Jew mipih Lusias, Jason, leh Sosipater-te in zong hong hopih uh hi.
+**ZVS:** Ka naseppih Timoti in note hong hopih a, Jew mipih Lusias, Jason, leh Sosipater-te in zong hong hopih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -201,9 +201,9 @@
 ### v23
 **EN:** Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.
 
-**TDB77:** Kei ahi zongin, pawlpi khempeuh ahi zongin, zin hong do thei Gaias in note hong hopih hi. Khuapi dangka keem Erastas leh i sanggampa Kuartas-te in note hong hopih uh hi. (
+**TDB77:** Kei ahi zongin, pawlpi khempeuh ahi zongin, zin hong do thei Gaias in note hong hopih hi. Khuapi dangka keem Erastas leh i sanggampa Kuartas-te in note hong hopih-te hi. (
 
-**ZVS:** Keima zintun'napa leh pawlpite' kikhopna inn neipa zong ahi Gaias in zong hong hopih hi. Ka omna khuapi sumkempa Erastas leh i Khristian sanggam Kuartas in zong hong hopih uh hi.
+**ZVS:** Keima zintun'napa leh pawlpite' kikhopna inn neipa zong ahi Gaias in zong hong hopih hi. Ka omna khuapi sumkempa Erastas leh i Khristian sanggam Kuartas in zong hong hopih-te hi.
 
 **Grammar:** plural: uh marker
 

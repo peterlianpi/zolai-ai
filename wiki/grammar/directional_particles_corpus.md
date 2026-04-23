@@ -31,18 +31,18 @@ The verb prefix must be **3rd-person** (`a`), NOT 1st-person (`ka`).
 - `[TDB77]` *And Pathrusim, and Casluhim, (of whom came the Philistines,) and Capht* → **Pathrus mite, Kasluh mite (Filistia mite’ hong pian’na), leh Kaftor mi**
 - `[TDB77]` *For Judah prevailed above his brethren, and of him came the chief rule* → **Judah in a sanggamte lakah a thahat suakin ama sung panin ulian khat a**
 - `[TDB77]` *And Ephraim their father mourned many days, and his brethren came to c* → **Tua ciangin a pa Efraim ni tampi sung kap a, amah hehnem dingin a sang**
-- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte uh hih mite tawh a om **
+- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte-te hih mite tawh a om **
 
 ## go (away)
 
-- `[TDB77]` *And they went to the entrance of Gedor, even unto the east side of the* → **A tuuhonte uh adingin lonona zong dingin kuam nisuahna lam pang, Gedor**
+- `[TDB77]` *And they went to the entrance of Gedor, even unto the east side of the* → **A tuuhonte-te adingin lonona zong dingin kuam nisuahna lam pang, Gedor**
 - `[TDB77]` *And Jehozadak went into captivity, when the* → **Topa in Nebukhadnezzar’ khut tawh Judah leh Jerusalem sal-in a mat cia**
 - `[TDB77]` *And the battle went sore against Saul, and the archers hit him, and he* → **Gal kidona in Saul neh mahmah a, thaltawite in amah pha hi; thaltawite**
 - `[TDB77]` *And David and all Israel went to Jerusalem, which is Jebus; where the * → **Tua ciangin Jebus mite a ten’na, Jebus a kici Jerusalem ah David leh I**
 
 ## bring (toward)
 
-- `[TDB77]` *And certain of them had the charge of the ministering vessels, that th* → **Amaute pawlkhat in biakinn sunga kizang um-le-beelte uk uh hi; bang ha**
+- `[TDB77]` *And certain of them had the charge of the ministering vessels, that th* → **Amaute pawlkhat in biakinn sunga kizang um-le-beelte uk-te hi; bang ha**
 - `[TDB77]` *And let us bring again the ark of our God to us: for we enquired not a* → **Tua ciangin thuciamna singkuang eite kiangah la kik ni; bang hang hiam**
 - `[TDB77]` *And David was afraid of God that day, saying, How shall I bring the ar* → **Tua ni-in David in Pasian kihta hi; amah in, “Pasian’ thuciamna singku**
 - `[TDB77]` *And David gathered all Israel together to Jerusalem, to bring up the a* → **Tua ciangin amah in a bawlsa, ama om nading munah Topa’ thuciamna sing**
@@ -59,7 +59,7 @@ The verb prefix must be **3rd-person** (`a`), NOT 1st-person (`ka`).
 - `[TDB77]` *And Shaharaim begat children in the country of Moab, after he had sent* → **Shaharaim in a zite ahi Hushim leh Baara a mak khit ciangin Moab gam s**
 - `[TDB77]` *And when David heard of it, he sent Joab, and all the host of the migh* → **David in tua thu a zak ciangin Joab leh mi thahat galkap khempeuh sawl**
 - `[TDB77]` *And God sent an angel unto Jerusalem to destroy it: and as he was dest* → **Tua ciangin Pasian in a susia dingin Jerusalem ah vantungmi sawl hi; a**
-- `[TDB77]` *And when I come, whomsoever ye shall approve by your letters, them wil* → **Ka hong tun’ ciangin mi na deihte uh laitai sakin na piak uh sumpi Jer**
+- `[TDB77]` *And when I come, whomsoever ye shall approve by your letters, them wil* → **Ka hong tun’ ciangin mi na deihte-te laitai sakin na piak-te sumpi Jer**
 
 ## return/come back
 
@@ -86,7 +86,7 @@ The verb prefix must be **3rd-person** (`a`), NOT 1st-person (`ka`).
 
 - `[TDB77]` *And the fame of David went out into all lands; and the* → **Tua ciangin David minthan’na in gam khempeuh zel a, Topa in minam khem**
 - `[TDB77]` *And it came to pass, when the priests were come out of the holy place,* → **Siangtho Mun panin siampite a paikhiat ciangin meii in Topa’ inn tuam **
-- `[TDB77]` *If thy people go out to battle against their enemy, whithersoever thou* → **“A galte uh do dingin na mite kuan khia-in, bangbang lamah amaute sawl**
+- `[TDB77]` *If thy people go out to battle against their enemy, whithersoever thou* → **“A galte-te do dingin na mite kuan khia-in, bangbang lamah amaute sawl**
 - `[TDB77]` *Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and w* → **Tua ciangin Jeroboam in Efraim mualtung gam sungah Shekhem khua lamin **
 
 ## go in/enter
@@ -94,5 +94,5 @@ The verb prefix must be **3rd-person** (`a`), NOT 1st-person (`ka`).
 - `[TDB77]` *And, lo, while she yet talked with the king, Nathan the prophet also c* → **Tua nu kumpipa tawh kiho-in a om lai takin kamsangpa Nathan hong tum h**
 - `[TDB77]` *Arise thou therefore, get thee to thine own house: and when thy feet e* → **Tua ahih ciangin ding in la, na innah ciah in. Na khua na tun’ ciangin**
 - `[TDB77]` *Then Eli answered and said, Go in peace: and the God of Israel grant t* → **Tua ciangin Eli in dawngin, “Nuam takin pai in, Israelte’ Pasian in am**
-- `[TDB77]` *But all Israel and Judah loved David, because he went out and came in * → **Ahih hangin Israelte khempeuh leh Judahte khempeuh in David it uh hi; **
+- `[TDB77]` *But all Israel and Judah loved David, because he went out and came in * → **Ahih hangin Israelte khempeuh leh Judahte khempeuh in David it-te hi; **
 

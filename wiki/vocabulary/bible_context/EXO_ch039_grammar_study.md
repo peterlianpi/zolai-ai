@@ -23,9 +23,9 @@
 ### v1
 **EN:** And of the blue, and purple, and scarlet, they made cloths of service, to do service in the holy place, and made the holy garments for Aaron; as the
 
-**TDB77:** Topa in Moses a thupiaksa bangin, siangtho mun-ah nasep nadingin amaute in a dum, a dupsan, a ausan khaute tawh limtak-a kigan puan bawl uh hi; amaute in Aaron’ adingin biakna puan siangthote bawl uh hi.
+**TDB77:** Topa in Moses a thupiaksa bangin, siangtho mun-ah nasep nadingin amaute in a dum, a dupsan, a ausan khaute tawh limtak-a kigan puan bawl-te hi; amaute in Aaron’ adingin biakna puan siangthote bawl-te hi.
 
-**ZVS:** { Topa } in Moses a thupiaksa bangin, siangtho munah nasepna dingin amaute in a dum, a dupsan, a ausan khaute tawh limtakin a kigan puan a bawl uh hi. Amaute in Aaron-a' dingin biakna puan siangtho a bawl uh hi.
+**ZVS:** { Topa } in Moses a thupiaksa bangin, siangtho munah nasepna dingin amaute in a dum, a dupsan, a ausan khaute tawh limtakin a kigan puan a bawl-te hi. Amaute in Aaron-a' dingin biakna puan siangtho a bawl-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -34,7 +34,7 @@
 
 **TDB77:** Amah in siampi puan pen, kham, a dum, a dupsan, a ausan khaute leh a kop-a kikhuk a kigan puan hoihte tawh bawl hi.
 
-**ZVS:** Amaute in siampipuan pen kham, a dum, a dupsan, a ausan tuumul khaute leh a kopin a kikhuk a kigan puan hoihte tawh a bawl uh hi.
+**ZVS:** Amaute in siampipuan pen kham, a dum, a dupsan, a ausan tuumul khaute leh a kopin a kikhuk a kigan puan hoihte tawh a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -50,9 +50,9 @@
 ### v4
 **EN:** They made shoulderpieces for it, to couple it together: by the two edges was it coupled together.
 
-**TDB77:** Amaute in siampi puan’ adingin liangkaih puan bawl uh a, a mong nihte gel-ah zom uh hi.
+**TDB77:** Amaute in siampi puan’ adingin liangkaih puan bawl-te a, a mong nihte gel-ah zom-te hi.
 
-**ZVS:** Amaute in siampipuan-a' dingin liangkaih puan bawl uh a, a mong nihte gelah zom uh hi.
+**ZVS:** Amaute in siampipuan-a' dingin liangkaih puan bawl-te a, a mong nihte gelah zom-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -79,7 +79,7 @@
 
 **TDB77:** Topa in Moses a thupiaksa bangin Israel tapate phawkna suang dingin amah in siampi puan’ liangkaih puan tungah bulh hi.
 
-**ZVS:** { Topa } in Moses a thupiaksa bangin Israel tapate phawkna suang dingin siampipuan' liangkaih puan tungah a bulh uh hi.
+**ZVS:** { Topa } in Moses a thupiaksa bangin Israel tapate phawkna suang dingin siampipuan' liangkaih puan tungah a bulh-te hi.
 
 **Grammar:** purpose: in order to
 
@@ -88,7 +88,7 @@
 
 **TDB77:** Amah in kham, a dum, a dupsan, a ausan khaute leh a kop-a kikhuk a kigan puan hoihte tawh, siampi puan a kibawl bangin hoih takin awmdal bawl hi.
 
-**ZVS:** Amaute in kham, a dum, a dupsan, a ausan tuumul khaute leh a kopin a kikhuk a kigan puan hoihte tawh, siampipuan a kibawl puan bangin hoihtakin awmdal a bawl uh hi.
+**ZVS:** Amaute in kham, a dum, a dupsan, a ausan tuumul khaute leh a kopin a kikhuk a kigan puan hoihte tawh, siampipuan a kibawl puan bangin hoihtakin awmdal a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -106,7 +106,7 @@
 
 **TDB77:** Amah in tua sungah suang gual li bulh hi. Sardis suang, topaz suang, leh kabankel suang gual khat in a gual masa ahi hi;
 
-**ZVS:** Amaute in tua sungah suang gual li bulh uh a, sardis suang, topaz suang, leh karbankal suang gual khat pen a gual masa ahi hi.
+**ZVS:** Amaute in tua sungah suang gual li bulh-te a, sardis suang, topaz suang, leh karbankal suang gual khat pen a gual masa ahi hi.
 
 ### v11
 **EN:** And the second row, an emerald, a sapphire, and a diamond.
@@ -143,63 +143,63 @@
 ### v15
 **EN:** And they made upon the breastplate chains at the ends, of wreathen work of pure gold.
 
-**TDB77:** Amaute in awmdal tungah khau tawh a kibang, a kihual kham citak khainiang bawl uh hi;
+**TDB77:** Amaute in awmdal tungah khau tawh a kibang, a kihual kham citak khainiang bawl-te hi;
 
-**ZVS:** Amaute in awmdal tungah khau tawh a kibang, a kihual kham citak khainiang a bawl uh hi.
+**ZVS:** Amaute in awmdal tungah khau tawh a kibang, a kihual kham citak khainiang a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And they made two ouches of gold, and two gold rings; and put the two rings in the two ends of the breastplate.
 
-**TDB77:** amaute in kham tawh a kibawl zepna nih leh kham kual nih bawl uh a, awmdal mong nihte-ah kham kual nihte koih uh hi;
+**TDB77:** amaute in kham tawh a kibawl zepna nih leh kham kual nih bawl-te a, awmdal mong nihte-ah kham kual nihte koih-te hi;
 
-**ZVS:** Kham tawh a kibawl zepna nih leh kham kual nih bawl uh a, awmdal mong nihte-ah kham kual nihte a koih uh hi.
+**ZVS:** Kham tawh a kibawl zepna nih leh kham kual nih bawl-te a, awmdal mong nihte-ah kham kual nihte a koih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And they put the two wreathen chains of gold in the two rings on the ends of the breastplate.
 
-**TDB77:** amaute in awmdal mongte-ah a om kual nihte' sungah kham khau nihte koih uh hi.
+**TDB77:** amaute in awmdal mongte-ah a om kual nihte' sungah kham khau nihte koih-te hi.
 
-**ZVS:** Amaute in awmdal mongte-ah a om kual nihte pen kham khau nihte tawh a khih uh hi.
+**ZVS:** Amaute in awmdal mongte-ah a om kual nihte pen kham khau nihte tawh a khih-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** And the two ends of the two wreathen chains they fastened in the two ouches, and put them on the shoulderpieces of the ephod, before it.
 
-**TDB77:** Amaute in zepna nihte' tungah khau mong nihte zom uh hi; tua bangin amaute in siampi puan’ liangkaih puan tung a mai lamah bulh uh hi.
+**TDB77:** Amaute in zepna nihte' tungah khau mong nihte zom-te hi; tua bangin amaute in siampi puan’ liangkaih puan tung a mai lamah bulh-te hi.
 
-**ZVS:** Amaute in zepna nihte tungah khau mong nihte zom uh a, tua bangin amaute in siampipuan' liangkaih puan tung a mailamah a bulh uh hi.
+**ZVS:** Amaute in zepna nihte tungah khau mong nihte zom-te a, tua bangin amaute in siampipuan' liangkaih puan tung a mailamah a bulh-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v19
 **EN:** And they made two rings of gold, and put them on the two ends of the breastplate, upon the border of it, which was on the side of the ephod inward.
 
-**TDB77:** Tua ciangin amaute in kham kual nih bawl uh a, siampi puan tawh a kizom a sung lam nawl, awmdal mong nihte-ah koih uh hi.
+**TDB77:** Tua ciangin amaute in kham kual nih bawl-te a, siampi puan tawh a kizom a sung lam nawl, awmdal mong nihte-ah koih-te hi.
 
-**ZVS:** Tua ciangin amaute in kham kual nih bawl uh a, siampipuan tawh a kizom a sunglam nawl, awmdal mong nihte-ah a bulh uh hi.
+**ZVS:** Tua ciangin amaute in kham kual nih bawl-te a, siampipuan tawh a kizom a sunglam nawl, awmdal mong nihte-ah a bulh-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And they made two other golden rings, and put them on the two sides of the ephod underneath, toward the forepart of it, over against the other coupling thereof, above the curious girdle of the ephod.
 
-**TDB77:** Amaute in kham kual nih bawl uh a, siampi puan’ liangkaih puan nihte’ nuai a mai lam, hoih taka a kigan siampi puante’ puankhau a kizopna tung tak-ah bulh uh hi.
+**TDB77:** Amaute in kham kual nih bawl-te a, siampi puan’ liangkaih puan nihte’ nuai a mai lam, hoih taka a kigan siampi puante’ puankhau a kizopna tung tak-ah bulh-te hi.
 
-**ZVS:** Amaute in kham kual nih bawl uh a, siampipuan' liangkaih puan nihte' nuai a mailam, hoihtakin a kigan siampipuante' puankhau a kizopna tung takah a bulh uh hi.
+**ZVS:** Amaute in kham kual nih bawl-te a, siampipuan' liangkaih puan nihte' nuai a mailam, hoihtakin a kigan siampipuante' puankhau a kizopna tung takah a bulh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And they did bind the breastplate by his rings unto the rings of the ephod with a lace of blue, that it might be above the curious girdle of the ephod, and that the breastplate might not be loosed from the ephod; as the
 
-**TDB77:** Topa in Moses a thupiaksa bangin, hoih taka a kigan siampi puan khau tungah a om theih nading leh siampi puan tung panin awmdal a kol theih loh nadingin amaute in siampi puan’ kualte-ah khau dum khat-in a kualte tawh awmdal gak uh hi.
+**TDB77:** Topa in Moses a thupiaksa bangin, hoih taka a kigan siampi puan khau tungah a om theih nading leh siampi puan tung panin awmdal a kol theih loh nadingin amaute in siampi puan’ kualte-ah khau dum khat-in a kualte tawh awmdal gak-te hi.
 
-**ZVS:** { Topa } in Moses a thupiaksa bangin, hoihtakin a kigan siampipuan khau tungah a om theihna ding leh siampipuan tung panin awmdal a kol theihlohna dingin amaute in siampipuan' kualte-ah khau dum khatin a kualte tawh awmdal a gak uh hi.
+**ZVS:** { Topa } in Moses a thupiaksa bangin, hoihtakin a kigan siampipuan khau tungah a om theihna ding leh siampipuan tung panin awmdal a kol theihlohna dingin amaute in siampipuan' kualte-ah khau dum khatin a kualte tawh awmdal a gak-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -208,7 +208,7 @@
 
 **TDB77:** Amah in khau dum bek tawh a kigan siampi puantualpi zong bawl hi;
 
-**ZVS:** Amaute in khau dum bek tawh a kigan siampi puantualpi zong a bawl uh hi.
+**ZVS:** Amaute in khau dum bek tawh a kigan siampi puantualpi zong a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -224,18 +224,18 @@
 ### v24
 **EN:** And they made upon the hems of the robe pomegranates of blue, and purple, and scarlet, and twined linen.
 
-**TDB77:** Puantualpi mongte-ah amaute in a dum, a dupsan, a ausan khaute leh a kop-a kikhuk a kigan puan hoih tawh mang kawlsing gahte bawl uh hi.
+**TDB77:** Puantualpi mongte-ah amaute in a dum, a dupsan, a ausan khaute leh a kop-a kikhuk a kigan puan hoih tawh mang kawlsing gahte bawl-te hi.
 
-**ZVS:** Puantualpi mongte-ah amaute in a dum, a dupsan, a ausan tuumul khaute leh a kopin a kikhuk a kigan puan hoih tawh mang kawlsing gahte a bawl uh hi.
+**ZVS:** Puantualpi mongte-ah amaute in a dum, a dupsan, a ausan tuumul khaute leh a kopin a kikhuk a kigan puan hoih tawh mang kawlsing gahte a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And they made bells of pure gold, and put the bells between the pomegranates upon the hem of the robe, round about between the pomegranates;
 
-**TDB77:** Topa in Moses a thupiaksa bangin, amaute in kham citak siklongte zong bawl uh a, mang kawlsing gahte’ kikal, puantualpi mong kimkot tunga mang kawlsing gahte' kikal-ah siklongte koih uh hi;
+**TDB77:** Topa in Moses a thupiaksa bangin, amaute in kham citak siklongte zong bawl-te a, mang kawlsing gahte’ kikal, puantualpi mong kimkot tunga mang kawlsing gahte' kikal-ah siklongte koih-te hi;
 
-**ZVS:** { Topa } in Moses a thupiaksa bangin, amaute in kham citak siklongte zong bawl uh a, puantualpi mong kimkot tunga mang kawlsing gahte' kikalah siklongte a koih uh hi.
+**ZVS:** { Topa } in Moses a thupiaksa bangin, amaute in kham citak siklongte zong bawl-te a, puantualpi mong kimkot tunga mang kawlsing gahte' kikalah siklongte a koih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -269,27 +269,27 @@
 ### v29
 **EN:** And a girdle of fine twined linen, and blue, and purple, and scarlet, of needlework; as the
 
-**TDB77:** leh a kop-a kikhuk a kigan puan hoihte tawh a kibawl puan kawnggak leh phim tawh kikkhui-in a kizem a dum, a dupsan, a ausan puante zong bawl uh hi.
+**TDB77:** leh a kop-a kikhuk a kigan puan hoihte tawh a kibawl puan kawnggak leh phim tawh kikkhui-in a kizem a dum, a dupsan, a ausan puante zong bawl-te hi.
 
-**ZVS:** leh a kopin a kikhuk a kigan puan hoihte tawh a kibawl puan kawnggak leh phim tawh kikhui-in a kizem a dum, a dupsan, a ausan tuumul puante zong a bawl uh hi.
+**ZVS:** leh a kopin a kikhuk a kigan puan hoihte tawh a kibawl puan kawnggak leh phim tawh kikhui-in a kizem a dum, a dupsan, a ausan tuumul puante zong a bawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** And they made the plate of the holy crown of pure gold, and wrote upon it a writing, like to the engravings of a signet, HOLINESS TO THE
 
-**TDB77:** Amaute in kham citak tawh a siangtho kizepna peek khat bawl uh a, min gelhna a kibawl mah bangin tua tungah thu gelhin, “Topa’ tungah siangtho,” ci uh hi.
+**TDB77:** Amaute in kham citak tawh a siangtho kizepna peek khat bawl-te a, min gelhna a kibawl mah bangin tua tungah thu gelhin, “Topa’ tungah siangtho,” ci-te hi.
 
-**ZVS:** Amaute in kham citak tawh a siangtho kizepna peek khat bawl uh a, min gelhna a kibawl mah bangin tua tungah thu gelhin, “{ Topa' } tungah siangtho,” ci uh hi.
+**ZVS:** Amaute in kham citak tawh a siangtho kizepna peek khat bawl-te a, min gelhna a kibawl mah bangin tua tungah thu gelhin, “{ Topa' } tungah siangtho,” ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** And they tied unto it a lace of blue, to fasten it on high upon the mitre; as the
 
-**TDB77:** Topa in Moses a thupiaksa bangin, amaute in a tunga dialpi tungah a gak dingin tua tungah khau dum khat vawh uh hi.
+**TDB77:** Topa in Moses a thupiaksa bangin, amaute in a tunga dialpi tungah a gak dingin tua tungah khau dum khat vawh-te hi.
 
-**ZVS:** { Topa } in Moses a thupiaksa bangin, amaute in a tunga dialpi tungah a gak dingin tua tungah khau dum khat a vawh uh hi.
+**ZVS:** { Topa } in Moses a thupiaksa bangin, amaute in a tunga dialpi tungah a gak dingin tua tungah khau dum khat a vawh-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -298,7 +298,7 @@
 
 **TDB77:** Tua bangin kikhopna buk ahi biakbuk nasep khempeuh kiman hi; Topa in Moses a thupiaksa khempeuh bangin Israel mite in sem khin hi; tua ahih ciangin amaute mankhin hi.
 
-**ZVS:** Tua bangin kikhopna buk ahi biakbuk nasep khempeuh kiman hi. { Topa } in Moses a thupiaksa khempeuh bangin Israel mite in sem khin uh hi. Tua ahih ciangin amaute man khin uh hi.
+**ZVS:** Tua bangin kikhopna buk ahi biakbuk nasep khempeuh kiman hi. { Topa } in Moses a thupiaksa khempeuh bangin Israel mite in sem khin-te hi. Tua ahih ciangin amaute man khin-te hi.
 
 **Grammar:** sequence: then/therefore | completed: already done | reciprocal: ki- prefix
 
@@ -367,18 +367,18 @@
 ### v41
 **EN:** The cloths of service to do service in the holy place, and the holy garments for Aaron the priest, and his sons' garments, to minister in the priest's office.
 
-**TDB77:** siampi nasep nadingin siangtho mun-a zat ding hoih taka a kibawl puante, siampi Aaron ading biakna puan siangthote leh ama' tapate’ puante paipih uh hi.
+**TDB77:** siampi nasep nadingin siangtho mun-a zat ding hoih taka a kibawl puante, siampi Aaron ading biakna puan siangthote leh ama' tapate’ puante paipih-te hi.
 
-**ZVS:** siampi nasepna dingin siangtho muna zat ding hoihtakin a kibawl puante, siampi Aaron-a' ding biakna puan siangthote leh ama tapate' puante, Moses kiangah a paipih uh hi.
+**ZVS:** siampi nasepna dingin siangtho muna zat ding hoihtakin a kibawl puante, siampi Aaron-a' ding biakna puan siangthote leh ama tapate' puante, Moses kiangah a paipih-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v42
 **EN:** According to all that the
 
-**TDB77:** Topa in Moses a thupiaksa khempeuh tawh kituakin Israel mite in nasep khempeuh hih uh hi.
+**TDB77:** Topa in Moses a thupiaksa khempeuh tawh kituakin Israel mite in nasep khempeuh hih-te hi.
 
-**ZVS:** { Topa } in Moses a thupiaksa khempeuh tawh kituakin Israel mite in nasep khempeuh hih uh hi.
+**ZVS:** { Topa } in Moses a thupiaksa khempeuh tawh kituakin Israel mite in nasep khempeuh hih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

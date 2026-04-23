@@ -156,7 +156,7 @@
 
 **TDB77:** Pilna a nei mite a lungdam mi hi a, pilna a neite in nuntakna singkung tawh kibang hi.
 
-**ZVS:** Pilna a nei mite a lungdam mi hi a, pilna a nei mite nuntakna singkung tawh kibang uh hi.
+**ZVS:** Pilna a nei mite a lungdam mi hi a, pilna a nei mite nuntakna singkung tawh kibang-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -295,9 +295,9 @@
 ### v35
 **EN:** The wise shall inherit glory: but shame shall be the promotion of fools.
 
-**TDB77:** Mipilte in minphatna leh pahtawina ngah ding a, mihaite in maizumna leh mindaina ngah ding uh hi.
+**TDB77:** Mipilte in minphatna leh pahtawina ngah ding a, mihaite in maizumna leh mindaina ngah ding-te hi.
 
-**ZVS:** Mipilte in minphatna leh pahtawina ngah ding uh a, mihaite in maizumna leh mindaina ngah ding uh hi.
+**ZVS:** Mipilte in minphatna leh pahtawina ngah ding-te a, mihaite in maizumna leh mindaina ngah ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

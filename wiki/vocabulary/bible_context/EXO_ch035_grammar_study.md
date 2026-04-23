@@ -25,7 +25,7 @@
 ### v1
 **EN:** And Moses gathered all the congregation of the children of Israel together, and said unto them, These are the words which the
 
-**TDB77:** Moses in Israel mi honpi khempeuh khawmin amaute' tungah, “Hihte in note in na hih ding uh Topa’ hong thupiak ahi hi.
+**TDB77:** Moses in Israel mi honpi khempeuh khawmin amaute' tungah, “Hihte in note in na hih ding-te Topa’ hong thupiak ahi hi.
 
 **ZVS:** Moses in Israel mihonpi khempeuh khawmin amaute kiangah, “Hihte pen note' hih ding { Topa' } hong thupiak ahi hi.
 
@@ -34,18 +34,18 @@
 ### v2
 **EN:** Six days shall work be done, but on the seventh day there shall be to you an holy day, a sabbath of rest to the
 
-**TDB77:** Ni guk sungin nasep kiman ding hi, ahih hangin a ni sagih ni-in thupi-a tawlngakna sabbath siangtho Topa’ tungah na nei ding uh hi; tua ni-in na khat peuhpeuh a sem peuhmah kithat ding hi;
+**TDB77:** Ni guk sungin nasep kiman ding hi, ahih hangin a ni sagih ni-in thupi-a tawlngakna sabbath siangtho Topa’ tungah na nei ding-te hi; tua ni-in na khat peuhpeuh a sem peuhmah kithat ding hi;
 
-**ZVS:** Ni guk sungin nasep kiman ding a, ahih hangin a ni sagih ni-in thupi-a tawlngakna Sabbath siangtho { Topa' } tungah na nei ding uh hi. Tua ni-in na khat peuhpeuh a sem peuhmah kithat ding hi.
+**ZVS:** Ni guk sungin nasep kiman ding a, ahih hangin a ni sagih ni-in thupi-a tawlngakna Sabbath siangtho { Topa' } tungah na nei ding-te hi. Tua ni-in na khat peuhpeuh a sem peuhmah kithat ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Ye shall kindle no fire throughout your habitations upon the sabbath day.
 
-**TDB77:** sabbath ni-in na ten’na khempeuh uh-ah mei na cih kei ding uh hi,” a ci hi.
+**TDB77:** sabbath ni-in na ten’na khempeuh uh-ah mei na cih kei ding-te hi,” a ci hi.
 
-**ZVS:** Sabbath ni-in na ten'na khempeuh uhah mei na cih kei ding uh hi,” a ci hi.
+**ZVS:** Sabbath ni-in na ten'na khempeuh uhah mei na cih kei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
@@ -61,7 +61,7 @@
 
 **TDB77:** Note' lak panin Topa ading piakna la un; lungsim citna a nei peuhmah Topa' tungah piakna paipihsak un. Tuate in: kham, ngun leh sumngo;
 
-**ZVS:** Note in { Topa' } tungah biakna na pia ding uh hi. A pia nuam peuhmah in { Topa' } tungah biakna paipih un. Tuate in: Kham, ngun leh sumngo,
+**ZVS:** Note in { Topa' } tungah biakna na pia ding-te hi. A pia nuam peuhmah in { Topa' } tungah biakna paipih un. Tuate in: Kham, ngun leh sumngo,
 
 ### v6
 **EN:** And blue, and purple, and scarlet, and fine linen, and goats' hair,
@@ -172,27 +172,27 @@
 ### v20
 **EN:** And all the congregation of the children of Israel departed from the presence of Moses.
 
-**TDB77:** Tua ciangin Israel mi honpi khempeuh Moses’ omna panin paikhia uh hi.
+**TDB77:** Tua ciangin Israel mi honpi khempeuh Moses’ omna panin paikhia-te hi.
 
-**ZVS:** Tua ciangin Israel mihonpi khempeuh Moses' omna panin paikhia uh hi.
+**ZVS:** Tua ciangin Israel mihonpi khempeuh Moses' omna panin paikhia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v21
 **EN:** And they came, every one whose heart stirred him up, and every one whom his spirit made willing, and they brought the
 
-**TDB77:** A lungsim-ah piaknopna a nei mi khempeuh hong paitawm uh a, kikhopna buk leh a nasep nading khempeuh leh puan siangthote-a zat dingin Topa ading a piakte uh hong puak uh hi.
+**TDB77:** A lungsim-ah piaknopna a nei mi khempeuh hong paitawm-te a, kikhopna buk leh a nasep nading khempeuh leh puan siangthote-a zat dingin Topa ading a piakte-te hong puak-te hi.
 
-**ZVS:** Piak nopna lungsim a nei mi peuhmah hong pai tawm uh a, kikhopna buk leh a nasepna ding khempeuh leh puan siangthote-a zat dingin { Topa}-a' ding a piakte uh hong puak uh hi.
+**ZVS:** Piak nopna lungsim a nei mi peuhmah hong pai tawm-te a, kikhopna buk leh a nasepna ding khempeuh leh puan siangthote-a zat dingin { Topa}-a' ding a piakte-te hong puak-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And they came, both men and women, as many as were willing hearted, and brought bracelets, and earrings, and rings, and tablets, all jewels of gold: and every man that offered offered an offering of gold unto the
 
-**TDB77:** Tua ahih ciangin pasalte leh numeite, amaute hong pai uh hi; utna lungsim a neite khempeuh in tukkilhte, bilbahte, min gelhna zungbuhte, leh banbuhte ahi kham tawh a kibawl na namkim hong paipih uh a, a milip in Topa' tungah kham tawh piakna ap uh hi.
+**TDB77:** Tua ahih ciangin pasalte leh numeite, amaute hong pai-te hi; utna lungsim a neite khempeuh in tukkilhte, bilbahte, min gelhna zungbuhte, leh banbuhte ahi kham tawh a kibawl na namkim hong paipih-te a, a milip in Topa' tungah kham tawh piakna ap-te hi.
 
-**ZVS:** Tua ahih ciangin numei, pasal hong pai uh hi. Piak nopna lungsim a neite khempeuh in tukkilhte, bilbahte, min gelhna zungbuhte, leh banbulhte ahi kham tawh a kibawl na namkim hong paipih uh a, a milip in { Topa' } tungah kham tawh piakna ap uh hi.
+**ZVS:** Tua ahih ciangin numei, pasal hong pai-te hi. Piak nopna lungsim a neite khempeuh in tukkilhte, bilbahte, min gelhna zungbuhte, leh banbulhte ahi kham tawh a kibawl na namkim hong paipih-te a, a milip in { Topa' } tungah kham tawh piakna ap-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -201,34 +201,34 @@
 
 **TDB77:** A dum, a dupsan, a ausan khaute, puan hoih, keelmul, a kisansak tuutal vunte, savunte ahi zongin a nei mi peuhmah in tuate paipih hi.
 
-**ZVS:** A dum, a dupsan, a ausan khaute, puan hoih, keelmul, a kisansak tuutal vunte, ahih kei leh savun hoihte ahi zongin a nei mi peuhmah in tuate hong paipih uh hi.
+**ZVS:** A dum, a dupsan, a ausan khaute, puan hoih, keelmul, a kisansak tuutal vunte, ahih kei leh savun hoihte ahi zongin a nei mi peuhmah in tuate hong paipih-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v24
 **EN:** Every one that did offer an offering of silver and brass brought the
 
-**TDB77:** Ngun ahi a, sumngo ahi zongin piakna a bawl thei mi peuhmah in Topa’ tungah a kipia nate paipih uh hi; nasep nadinga kimang thei ding singkha sing a nei mi peuhmah in hong paipih hi.
+**TDB77:** Ngun ahi a, sumngo ahi zongin piakna a bawl thei mi peuhmah in Topa’ tungah a kipia nate paipih-te hi; nasep nadinga kimang thei ding singkha sing a nei mi peuhmah in hong paipih hi.
 
-**ZVS:** Ngun ahi a, sumngo ahi zongin a pia thei peuhmah in { Topa' } tungah tua nate paipih uh a, nasepna dinga kimang thei ding singkha sing a nei mi peuhmah in zong hong paipih hi.
+**ZVS:** Ngun ahi a, sumngo ahi zongin a pia thei peuhmah in { Topa' } tungah tua nate paipih-te a, nasepna dinga kimang thei ding singkha sing a nei mi peuhmah in zong hong paipih hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And all the women that were wise hearted did spin with their hands, and brought that which they had spun, both of blue, and of purple, and of scarlet, and of fine linen.
 
-**TDB77:** A hih thei numei khempeuh in a khut uh tawh khau khuk uh a, amau’ khuksate a dum, a dupsan, a ausan khaute leh a kop-a a kikhuk khaute hong paipih uh hi;
+**TDB77:** A hih thei numei khempeuh in a khut-te tawh khau khuk-te a, amau’ khuksate a dum, a dupsan, a ausan khaute leh a kop-a a kikhuk khaute hong paipih-te hi;
 
-**ZVS:** A hih thei numei khempeuh in a khut uh tawh khau khuk uh a, amau' khuksa a dum, a dupsan, a ausan khaute leh a kopin a kikhuk khaute hong paipih uh hi.
+**ZVS:** A hih thei numei khempeuh in a khut-te tawh khau khuk-te a, amau' khuksa a dum, a dupsan, a ausan khaute leh a kopin a kikhuk khaute hong paipih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** And all the women whose heart stirred them up in wisdom spun goats' hair.
 
-**TDB77:** hih theih siamna in a phut lungsim a nei numei khempeuh in keelmul khuk uh hi.
+**TDB77:** hih theih siamna in a phut lungsim a nei numei khempeuh in keelmul khuk-te hi.
 
-**ZVS:** Hih theih siamna a nei numei khempeuh in zong keelmul khuk uh hi.
+**ZVS:** Hih theih siamna a nei numei khempeuh in zong keelmul khuk-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -244,9 +244,9 @@
 ### v28
 **EN:** And spice, and oil for the light, and for the anointing oil, and for the sweet incense.
 
-**TDB77:** meivak ding leh nilh sathau ding leh paknamtui dingin a namtui nate leh sathau hong paipih uh hi.
+**TDB77:** meivak ding leh nilh sathau ding leh paknamtui dingin a namtui nate leh sathau hong paipih-te hi.
 
-**ZVS:** meivak ding, nilh sathau ding, leh paknamtui dingin a namtui nate leh sathau hong paipih uh hi.
+**ZVS:** meivak ding, nilh sathau ding, leh paknamtui dingin a namtui nate leh sathau hong paipih-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -255,7 +255,7 @@
 
 **TDB77:** Israel mi, pasal leh numei, Topa in Moses' tunga a thupiaksa nasep nadingin na khat peuhpeuh paipih ding lungsim in a phut mi khempeuh in ut thu-a biakna-in Topa' tungah paipih hi.
 
-**ZVS:** { Topa } in Moses tunga a thupiaksa nasepna dingin na khat peuhpeuh a pia nuam numei pasal Israel mi khempeuh in utthu-a biakna-in { Topa' } tungah hong paipih uh hi.
+**ZVS:** { Topa } in Moses tunga a thupiaksa nasepna dingin na khat peuhpeuh a pia nuam numei pasal Israel mi khempeuh in utthu-a biakna-in { Topa' } tungah hong paipih-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 

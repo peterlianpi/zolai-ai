@@ -43,27 +43,27 @@
 ### v3
 **EN:** If so be they will hearken, and turn every man from his evil way, that I may repent me of the evil, which I purpose to do unto them because of the evil of their doings.
 
-**TDB77:** Amaute in na thu gen hong ngai-in, a gitlohna uh pan a kihei kha thei ding uh hi. Tua hi leh amau’ gitlohna hanga amau suksiat ding a, ka ngaihsut sa ka khelkik ding hi.
+**TDB77:** Amaute in na thu gen hong ngai-in, a gitlohna-te pan a kihei kha thei ding-te hi. Tua hi leh amau’ gitlohna hanga amau suksiat ding a, ka ngaihsut sa ka khelkik ding hi.
 
-**ZVS:** Amaute in na thugen hong ngai-in, a gitlohna uh pan kihei khathei ding uh hi. Tua hi leh amau' gitlohna hanga amaute suksiat dingin ka ngaihsutsa ka khelkik ding hi.
+**ZVS:** Amaute in na thugen hong ngai-in, a gitlohna-te pan kihei khathei ding-te hi. Tua hi leh amau' gitlohna hanga amaute suksiat dingin ka ngaihsutsa ka khelkik ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And thou shalt say unto them, Thus saith the
 
-**TDB77:** Nangmah in amaute’ kiangah, ‘Topa in hih bangin ci hi: Note in ka thu hong ngai loin, note’ mai-a kong lah sa ka thukham bangin na gamtat kei uh a,
+**TDB77:** Nangmah in amaute’ kiangah, ‘Topa in hih bangin ci hi: Note in ka thu hong ngai loin, note’ mai-a kong lah sa ka thukham bangin na gamtat kei-te a,
 
-**ZVS:** Nangmah in amaute kiangah, ‘{ Topa } in hih bangin ci hi: Note in ka thu hong ngailoin, note mai-a kong lahsa ka thukham bangin na gamtat kei uh a,
+**ZVS:** Nangmah in amaute kiangah, ‘{ Topa } in hih bangin ci hi: Note in ka thu hong ngailoin, note mai-a kong lahsa ka thukham bangin na gamtat kei-te a,
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** To hearken to the words of my servants the prophets, whom I sent unto you, both rising up early, and sending them, but ye have not hearkened;
 
-**TDB77:** note in a thu na man’ ngei loh uh ahi, kong sawl zelzel ka nasem kamsangte’ thu na thupisim kei uh leh
+**TDB77:** note in a thu na man’ ngei loh-te ahi, kong sawl zelzel ka nasem kamsangte’ thu na thupisim kei-te leh
 
-**ZVS:** note in a thu na man' ngeiloh uh ahi, kong sawl zelzel ka nasem kamsangte' thu na thupi sim kei uh leh
+**ZVS:** note in a thu na man' ngeiloh-te ahi, kong sawl zelzel ka nasem kamsangte' thu na thupi sim kei-te leh
 
 ### v6
 **EN:** Then will I make this house like Shiloh, and will make this city a curse to all the nations of the earth.
@@ -77,88 +77,88 @@
 ### v7
 **EN:** So the priests and the prophets and all the people heard Jeremiah speaking these words in the house of the
 
-**TDB77:** Siampite, kamsangte leh mi khempeuh in Topa’ biakinnpi sunga Jeremiah in hih thu a gen teng a za uh hi.
+**TDB77:** Siampite, kamsangte leh mi khempeuh in Topa’ biakinnpi sunga Jeremiah in hih thu a gen teng a za-te hi.
 
-**ZVS:** Siampite, kamsangte leh mi khempeuh in hih thu a gen teng a za uh hi.
+**ZVS:** Siampite, kamsangte leh mi khempeuh in hih thu a gen teng a za-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** Now it came to pass, when Jeremiah had made an end of speaking all that the
 
-**TDB77:** Mi khempeuh’ tunga Topa in gen dinga a sawl teng Jeremiah in a gen khit ciangin, siampite, kamsangte leh mi khempeuhte in a man uh a, “Nang na si ding hi.
+**TDB77:** Mi khempeuh’ tunga Topa in gen dinga a sawl teng Jeremiah in a gen khit ciangin, siampite, kamsangte leh mi khempeuhte in a man-te a, “Nang na si ding hi.
 
-**ZVS:** Mi khempeuh tungah { Topa } in gen dingin a sawlteng Jeremiah in a gen khit ciangin siampite, kamsangte, leh mi khempeuhte in amah man uh a, “Nang na sih ding kilawm hi.
+**ZVS:** Mi khempeuh tungah { Topa } in gen dingin a sawlteng Jeremiah in a gen khit ciangin siampite, kamsangte, leh mi khempeuhte in amah man-te a, “Nang na sih ding kilawm hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v9
 **EN:** Why hast thou prophesied in the name of the
 
-**TDB77:** Bang hangin, ‘Hih biakinnpi in Shiloh tawh kibang ding a, hih khuapi-ah a teeng om loin gam simtham a suak ding hi,’ ci-in Topa’ minin thu hilh na hi hiam?” ci-in a gen uh hi. Topa’ biakinnpi sungah mi khempeuh in Jeremiah a umcih uh hi.
+**TDB77:** Bang hangin, ‘Hih biakinnpi in Shiloh tawh kibang ding a, hih khuapi-ah a teeng om loin gam simtham a suak ding hi,’ ci-in Topa’ minin thu hilh na hi hiam?” ci-in a gen-te hi. Topa’ biakinnpi sungah mi khempeuh in Jeremiah a umcih-te hi.
 
-**ZVS:** Bang hangin, ‘Hih biakinnpi pen Shiloh tawh kibang ding a, hih khuapi-ah a teng omloin gam simtham suak ding hi,’ ci-in { Topa' } minin thu hilh ngam na hi hiam?” ci-in a gen uh hi. { Topa' } biakinnpi sungah a om mi khempeuh in Jeremiah a umcih uh hi.
+**ZVS:** Bang hangin, ‘Hih biakinnpi pen Shiloh tawh kibang ding a, hih khuapi-ah a teng omloin gam simtham suak ding hi,’ ci-in { Topa' } minin thu hilh ngam na hi hiam?” ci-in a gen-te hi. { Topa' } biakinnpi sungah a om mi khempeuh in Jeremiah a umcih-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** When the princes of Judah heard these things, then they came up from the king's house unto the house of the
 
-**TDB77:** Judah gam uk uliante in hih thu a zak uh ciangin kumpipa’ inn sung pan Topa’ biakinnpi ah hong paito uh a, Topa’ biakinnpi lutna Kongpi Thakah a tu uh hi.
+**TDB77:** Judah gam uk uliante in hih thu a zak-te ciangin kumpipa’ inn sung pan Topa’ biakinnpi ah hong paito-te a, Topa’ biakinnpi lutna Kongpi Thakah a tu-te hi.
 
-**ZVS:** Judah gam uk uliante in hih thu a zak uh ciangin kumpipa' innsung pan { Topa' } biakinnpi-ah hong paito uh a, { Topa' } biakinnpi lutna Kongpi Thak-ah a tu uh hi.
+**ZVS:** Judah gam uk uliante in hih thu a zak-te ciangin kumpipa' innsung pan { Topa' } biakinnpi-ah hong paito-te a, { Topa' } biakinnpi lutna Kongpi Thak-ah a tu-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** Then spake the priests and the prophets unto the princes and to all the people, saying, This man is worthy to die; for he hath prophesied against this city, as ye have heard with your ears.
 
-**TDB77:** Tua ciangin siampite leh kamsangte in kumpi uliante leh mi khempeuhte’ kiangah, “Note in na bil uh tawh na zak ciat uh mah bangin hihpa in hih khuapi langpan’in thu hilh ahih manin sihdaan piak tuak hi,” a ci uh hi.
+**TDB77:** Tua ciangin siampite leh kamsangte in kumpi uliante leh mi khempeuhte’ kiangah, “Note in na bil-te tawh na zak ciat-te mah bangin hihpa in hih khuapi langpan’in thu hilh ahih manin sihdaan piak tuak hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin siampite leh kamsangte in kumpi uliante leh mi khempeuhte' kiangah, “Note in na bil uh tawh na zak ciat uh mah bangin hihpa in hih Jerusalem khuapi langpangin thu hilh ahih manin thah ding kilawm hi,” a ci uh hi.
+**ZVS:** Tua ciangin siampite leh kamsangte in kumpi uliante leh mi khempeuhte' kiangah, “Note in na bil-te tawh na zak ciat-te mah bangin hihpa in hih Jerusalem khuapi langpangin thu hilh ahih manin thah ding kilawm hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Then spake Jeremiah unto all the princes and to all the people, saying, The
 
-**TDB77:** Tua ciangin Jeremiah in kumpi ulian khempeuhte leh mi khempeuhte’ kiangah, “Topa in na zaksak uh ahi hih biakinnpi leh hih khuapi lang khatah ka gen thu khempeuh a gen dingin kei hong sawl hi.
+**TDB77:** Tua ciangin Jeremiah in kumpi ulian khempeuhte leh mi khempeuhte’ kiangah, “Topa in na zaksak-te ahi hih biakinnpi leh hih khuapi lang khatah ka gen thu khempeuh a gen dingin kei hong sawl hi.
 
-**ZVS:** Tua ciangin Jeremiah in kumpi ulian khempeuhte leh mi khempeuhte' kiangah, “{ Topa } in na zaksa uh ahi hih biakinnpi leh hih khuapi langkhatah ka gen thu khempeuh a gen dingin kei hong sawl hi.
+**ZVS:** Tua ciangin Jeremiah in kumpi ulian khempeuhte leh mi khempeuhte' kiangah, “{ Topa } in na zaksa-te ahi hih biakinnpi leh hih khuapi langkhatah ka gen thu khempeuh a gen dingin kei hong sawl hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
 ### v13
 **EN:** Therefore now amend your ways and your doings, and obey the voice of the
 
-**TDB77:** Tua ahih manin tu-in na nuntakdante uh leh na gamtatziate uh khel un la, Topa na Pasian uh’ thu ngai un. Tua hi leh Topa in note’ kisiat nading a gensa pen a khelkik ding hi.
+**TDB77:** Tua ahih manin tu-in na nuntakdante-te leh na gamtatziate-te khel un la, Topa na Pasian uh’ thu ngai un. Tua hi leh Topa in note’ kisiat nading a gensa pen a khelkik ding hi.
 
-**ZVS:** Tua ahih manin tu-in na nuntak dante uh leh na gamtatziate uh khel un la, { Topa } na Pasian uh thu ngai un. Tua hi leh { Topa } in note' kisiatna ding a gensa thu a khelkik ding hi.
+**ZVS:** Tua ahih manin tu-in na nuntak dante-te leh na gamtatziate-te khel un la, { Topa } na Pasian-te thu ngai un. Tua hi leh { Topa } in note' kisiatna ding a gensa thu a khelkik ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix
 
 ### v14
 **EN:** As for me, behold, I am in your hand: do with me as seemeth good and meet unto you.
 
-**TDB77:** Ahih hangin kei ka hih leh, en un, note’ khut sungah ka om hi. Note in hoih na sak uh leh man na sak uh bangin kei tungah hong bawl un.
+**TDB77:** Ahih hangin kei ka hih leh, en un, note’ khut sungah ka om hi. Note in hoih na sak-te leh man na sak-te bangin kei tungah hong bawl un.
 
-**ZVS:** Ahih hangin kei ka hih leh, en un, note' khutsungah ka om hi. Note in hoih na sak uh bangin kei tungah hong bawl un.
+**ZVS:** Ahih hangin kei ka hih leh, en un, note' khutsungah ka om hi. Note in hoih na sak-te bangin kei tungah hong bawl un.
 
 ### v15
 **EN:** But know ye for certain, that if ye put me to death, ye shall surely bring innocent blood upon yourselves, and upon this city, and upon the inhabitants thereof: for of a truth the
 
-**TDB77:** Kei nong thah uh leh bel, mawhnei lo mi khat na thah manun note mahmah-a kipan hih khuapi leh a sunga teengte in na thuak ding uh hi, cih thei ta un. Bang hang hiam cih leh na bil mahmah a, na zak dingun hih thute a gen dingin Topa’ hong sawl taktak ka hi hi,” a ci hi.
+**TDB77:** Kei nong thah-te leh bel, mawhnei lo mi khat na thah manun note mahmah-a kipan hih khuapi leh a sunga teengte in na thuak ding-te hi, cih thei ta un. Bang hang hiam cih leh na bil mahmah a, na zak dingun hih thute a gen dingin Topa’ hong sawl taktak ka hi hi,” a ci hi.
 
-**ZVS:** Kei nong thah uh leh bel, mawh neilo mi khat na thah manun note mahmaha kipan hih khuapi leh a sunga tengte in na thuak ding uh thei ta un. Bang hang hiam cih leh note' bil mahmahin na zak dingun hih thute a gen dingin { Topa' } hong sawl taktak ka hi hi,” a ci hi.
+**ZVS:** Kei nong thah-te leh bel, mawh neilo mi khat na thah manun note mahmaha kipan hih khuapi leh a sunga tengte in na thuak ding-te thei ta un. Bang hang hiam cih leh note' bil mahmahin na zak dingun hih thute a gen dingin { Topa' } hong sawl taktak ka hi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** Then said the princes and all the people unto the priests and to the prophets; This man is not worthy to die: for he hath spoken to us in the name of the
 
-**TDB77:** Tua ciangin kumpi uliante leh mi khempeuhte in siampite leh kamsangte tungah, “Hih pa in Topa in Pasian’ min tawh thu hong gen ahih manin sihdaan piak tuak lo hi,” a ci uh hi.
+**TDB77:** Tua ciangin kumpi uliante leh mi khempeuhte in siampite leh kamsangte tungah, “Hih pa in Topa in Pasian’ min tawh thu hong gen ahih manin sihdaan piak tuak lo hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin kumpi uliante leh mi khempeuhte in siampite leh kamsangte tungah, “Hihpa in eite' { Topa } Pasian' min tawh thu hong gen ahih manin thah ding kilawmlo hi,” a ci uh hi.
+**ZVS:** Tua ciangin kumpi uliante leh mi khempeuhte in siampite leh kamsangte tungah, “Hihpa in eite' { Topa } Pasian' min tawh thu hong gen ahih manin thah ding kilawmlo hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | causal: because | plural: uh marker
 
@@ -183,9 +183,9 @@
 ### v19
 **EN:** Did Hezekiah king of Judah and all Judah put him at all to death? did he not fear the
 
-**TDB77:** Judah kumpipa Hezekiah leh Judah mi khempeuhte in amah that zenzen uh ahi hiam? Kumpipa in Topa zahtakin Topa’ pahtak ding a nget ciangin Topa in zong amau’ tunga siatna tun’sak dinga a gensa khelkik zaw hilo ahi hiam? Ahih hangin eite in eite’ tungah siatna lianpi khat i tungsak dekdek hi,” a ci uh hi.
+**TDB77:** Judah kumpipa Hezekiah leh Judah mi khempeuhte in amah that zenzen-te ahi hiam? Kumpipa in Topa zahtakin Topa’ pahtak ding a nget ciangin Topa in zong amau’ tunga siatna tun’sak dinga a gensa khelkik zaw hilo ahi hiam? Ahih hangin eite in eite’ tungah siatna lianpi khat i tungsak dekdek hi,” a ci-te hi.
 
-**ZVS:** “Tua hinapi, Judah kumpipa Hezekiah leh Judah mi khempeuhte in amah that zenzen uh ahi hiam? Kumpipa in { Topa } zahtakin, { Topa' } pahtak ding a nget ciangin { Topa } in zong amau' tungah siatna tun'sak dingin a gensa khelkikzaw hilo ahi hiam? Ahih hangin eite in eite' tungah siatna lianpi khat i tungsak dektak hi,” a ci uh hi.
+**ZVS:** “Tua hinapi, Judah kumpipa Hezekiah leh Judah mi khempeuhte in amah that zenzen-te ahi hiam? Kumpipa in { Topa } zahtakin, { Topa' } pahtak ding a nget ciangin { Topa } in zong amau' tungah siatna tun'sak dingin a gensa khelkikzaw hilo ahi hiam? Ahih hangin eite in eite' tungah siatna lianpi khat i tungsak dektak hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -201,9 +201,9 @@
 ### v21
 **EN:** And when Jehoiakim the king, with all his mighty men, and all the princes, heard his words, the king sought to put him to death: but when Urijah heard it, he was afraid, and fled, and went into Egypt;
 
-**TDB77:** Jehoiakim kumpipa leh a galkapmang khempeuh leh kumpi ulian khempeuhte in ama’ thugente a zak uh ciangin kumpipa in thah dingin a zong hi. Ahih hangin Uriah in tua thu a zak ciangin lau-in Izipt gamah a taisim hi.
+**TDB77:** Jehoiakim kumpipa leh a galkapmang khempeuh leh kumpi ulian khempeuhte in ama’ thugente a zak-te ciangin kumpipa in thah dingin a zong hi. Ahih hangin Uriah in tua thu a zak ciangin lau-in Izipt gamah a taisim hi.
 
-**ZVS:** Kumpi Jehoiakim leh a galkapmang khempeuh leh kumpi ulian khempeuhte in ama thugente a zak uh ciangin kumpipa in thah dingin a zong hi. Ahih hangin Uriah in tua thu a zak ciangin lau-in Egypt gamah a taisim hi.
+**ZVS:** Kumpi Jehoiakim leh a galkapmang khempeuh leh kumpi ulian khempeuhte in ama thugente a zak-te ciangin kumpipa in thah dingin a zong hi. Ahih hangin Uriah in tua thu a zak ciangin lau-in Egypt gamah a taisim hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
@@ -219,9 +219,9 @@
 ### v23
 **EN:** And they fetched forth Urijah out of Egypt, and brought him unto Jehoiakim the king; who slew him with the sword, and cast his dead body into the graves of the common people.
 
-**TDB77:** amau in zong Izipt gam panin Uriah manin Jehoiakim kumpipa’ kiangah a puak uh hi. Amah in tua pa namsau tawh that-in a luanghawm mi mawkmawkte’ kivuina munah a paai hi.
+**TDB77:** amau in zong Izipt gam panin Uriah manin Jehoiakim kumpipa’ kiangah a puak-te hi. Amah in tua pa namsau tawh that-in a luanghawm mi mawkmawkte’ kivuina munah a paai hi.
 
-**ZVS:** amau in zong Egypt gam panin Uriah manin kumpi Jehoiakim kiangah a puak uh hi. Amah in tuapa namsau tawh thatin a luanghawm mi mawkmawkte' kivuina munah a paai hi.
+**ZVS:** amau in zong Egypt gam panin Uriah manin kumpi Jehoiakim kiangah a puak-te hi. Amah in tuapa namsau tawh thatin a luanghawm mi mawkmawkte' kivuina munah a paai hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 

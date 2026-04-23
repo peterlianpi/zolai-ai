@@ -53,7 +53,7 @@
 
 **TDB77:** Migilote in gitlohna thu mah ngaih-in nei a, zuautheite in zuauthu mah ngaih-in nei hi.
 
-**ZVS:** Migilote in gitlohna thu bek mah ngaihin nei uh a, zuautheite in zuauthu mah ngaihin nei hi.
+**ZVS:** Migilote in gitlohna thu bek mah ngaihin nei-te a, zuautheite in zuauthu mah ngaihin nei hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -85,18 +85,18 @@
 ### v8
 **EN:** A gift is as a precious stone in the eyes of him that hath it: whithersoever it turneth, it prospereth.
 
-**TDB77:** Sumgolh a zangte in ai bangin ngaihsun uh a, a deih khempeuh uh a ngah sak dingin ngaihsun uh hi.
+**TDB77:** Sumgolh a zangte in ai bangin ngaihsun-te a, a deih khempeuh-te a ngah sak dingin ngaihsun-te hi.
 
-**ZVS:** Sumgolh a zangte in ai bangin ngaihsun uh a, a deih khempeuh uh a ngahsak dingin ngaihsun uh hi.
+**ZVS:** Sumgolh a zangte in ai bangin ngaihsun-te a, a deih khempeuh-te a ngahsak dingin ngaihsun-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v9
 **EN:** He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.
 
-**TDB77:** Mi’ khialhna a maisakte, midangte in it-in lawm hau uh a, mi’ khialhna ciamtehna in lawm taanna hi.
+**TDB77:** Mi’ khialhna a maisakte, midangte in it-in lawm hau-te a, mi’ khialhna ciamtehna in lawm taanna hi.
 
-**ZVS:** Mi' khialhna a maisakte midangte in itin lawm hau uh a, mi' khialhna ciamtehna pen lawm taanna ahi hi.
+**ZVS:** Mi' khialhna a maisakte midangte in itin lawm hau-te a, mi' khialhna ciamtehna pen lawm taanna ahi hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -119,9 +119,9 @@
 ### v12
 **EN:** Let a bear robbed of her whelps meet a man, rather than a fool in his folly.
 
-**TDB77:** Mihaite a hai gamtatna uh i tuah khak sangin, a no a kilaksak vompi hang khat tuak leeng hoihzaw lai hi.
+**TDB77:** Mihaite a hai gamtatna-te i tuah khak sangin, a no a kilaksak vompi hang khat tuak leeng hoihzaw lai hi.
 
-**ZVS:** Mihaite a hai gamtatna uh i tuahkhak sangin a no a kilaksak vompi hang khat tuak lehang hoihzaw lai hi.
+**ZVS:** Mihaite a hai gamtatna-te i tuahkhak sangin a no a kilaksak vompi hang khat tuak lehang hoihzaw lai hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -191,7 +191,7 @@
 
 **TDB77:** Lungsim hoih lote in lungdamna mu lo a, mi a khem theite in lungkhamna tuak hi.
 
-**ZVS:** Lungsim hoihlote in lungdam mulo uh a, mi a khem theite in lungkhamna tuak uh hi.
+**ZVS:** Lungsim hoihlote in lungdam mulo-te a, mi a khem theite in lungkhamna tuak-te hi.
 
 ### v21
 **EN:** He that begetteth a fool doeth it to his sorrow: and the father of a fool hath no joy.
@@ -214,18 +214,18 @@
 ### v23
 **EN:** A wicked man taketh a gift out of the bosom to pervert the ways of judgment.
 
-**TDB77:** A ginalo thukhente in sumgolh sang sim uh a, a thukhenna uh ah thuman om nawn lo hi.
+**TDB77:** A ginalo thukhente in sumgolh sang sim-te a, a thukhenna-te ah thuman om nawn lo hi.
 
-**ZVS:** A ginalo thukhente in sumgolh sangsim uh a, a thukhenna uhah thuman om nawnlo hi.
+**ZVS:** A ginalo thukhente in sumgolh sangsim-te a, a thukhenna uhah thuman om nawnlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v24
 **EN:** Wisdom is before him that hath understanding; but the eyes of a fool are in the ends of the earth.
 
-**TDB77:** Mipilte in ahoih pen-a gamtat nading thei a, mihaite in a cih nading meel uh thei lo hi.
+**TDB77:** Mipilte in ahoih pen-a gamtat nading thei a, mihaite in a cih nading meel-te thei lo hi.
 
-**ZVS:** Mipilte in a hoihpenin gamtatna ding thei uh a, mihaite in a cihna ding theilo uh hi.
+**ZVS:** Mipilte in a hoihpenin gamtatna ding thei-te a, mihaite in a cihna ding theilo-te hi.
 
 **Grammar:** negation: lo
 

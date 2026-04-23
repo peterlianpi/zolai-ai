@@ -37,7 +37,7 @@
 
 **TDB77:** Tua mi in a diktat mi hi a, a innkuanpihte tawh Pasian kihta a, mite tungah hehpihna tampi pia a, Pasian kiangah thungen nilohin a om hi.
 
-**ZVS:** Amah biakna a hahkat mahmah mi khat hi a, a innkuan bupun Pasian bia uh hi. Amah in Jew mizawngte huhna dingin nakpi takin na sem a, Pasian kiangah thu a ngen tawntung mi khat ahi hi.
+**ZVS:** Amah biakna a hahkat mahmah mi khat hi a, a innkuan bupun Pasian bia-te hi. Amah in Jew mizawngte huhna dingin nakpi takin na sem a, Pasian kiangah thu a ngen tawntung mi khat ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -164,27 +164,27 @@
 ### v17
 **EN:** Now while Peter doubted in himself what this vision which he had seen should mean, behold, the men which were sent from Cornelius had made enquiry for Simon's house, and stood before the gate,
 
-**TDB77:** Piter in a mangmuhna a cihnopna bang ahi hiam ci-in a lunghihmawh lai takin, Kornelias in a sawl mite in, “Simon’ inn koi lai-ah a om hiam?” ci-a a dot khit uh ciangin inn kongkhak mai-ah ding-in
+**TDB77:** Piter in a mangmuhna a cihnopna bang ahi hiam ci-in a lunghihmawh lai takin, Kornelias in a sawl mite in, “Simon’ inn koi lai-ah a om hiam?” ci-a a dot khit-te ciangin inn kongkhak mai-ah ding-in
 
-**ZVS:** Peter in tua a maangmuhna bang a cihnopna hi ding ahi hiam, ci-in lamdangsa-in a om laitakin, Kornelias in a sawl mite in Simon' inn hong kan kawikawi uh a, a inn hong thei uh ahih manin a kongbiang hong tungta uh hi.
+**ZVS:** Peter in tua a maangmuhna bang a cihnopna hi ding ahi hiam, ci-in lamdangsa-in a om laitakin, Kornelias in a sawl mite in Simon' inn hong kan kawikawi-te a, a inn hong thei-te ahih manin a kongbiang hong tungta-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v18
 **EN:** And called, and asked whether Simon, which was surnamed Peter, were lodged there.
 
-**TDB77:** “Piter kici min thak nei Simon hi lai-ah a om hiam?” ci-in a kiko uh hi.
+**TDB77:** “Piter kici min thak nei Simon hi lai-ah a om hiam?” ci-in a kiko-te hi.
 
-**ZVS:** Amaute in, “Simon Peter a kici mi khat, hih lai-ah zin hong tung kha hiam,” ci-in a hong dong uh hi.
+**ZVS:** Amaute in, “Simon Peter a kici mi khat, hih lai-ah zin hong tung kha hiam,” ci-in a hong dong-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** While Peter thought on the vision, the Spirit said unto him, Behold, three men seek thee.
 
-**TDB77:** Piter in a mangmuhna a ngaihsut lai takin Kha Siangtho in, “Mi thumte in nang hong zong uh hi.
+**TDB77:** Piter in a mangmuhna a ngaihsut lai takin Kha Siangtho in, “Mi thumte in nang hong zong-te hi.
 
-**ZVS:** Tua bangin Peter in a maang muh lungngaingai-in a om laitakin Kha Siangtho in, “En in, mihing thum in nang hong zong uh hi.
+**ZVS:** Tua bangin Peter in a maang muh lungngaingai-in a om laitakin Kha Siangtho in, “En in, mihing thum in nang hong zong-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -200,36 +200,36 @@
 ### v21
 **EN:** Then Peter went down to the men which were sent unto him from Cornelius; and said, Behold, I am he whom ye seek: what is the cause wherefore ye are come?
 
-**TDB77:** Piter in tua mite kiangah kumsuk a, “Na zon’ uh mi ka hi hi. Bang thu om a, hong pai na hi uh hiam?” ci-in a dot ciangin
+**TDB77:** Piter in tua mite kiangah kumsuk a, “Na zon’ uh mi ka hi hi. Bang thu om a, hong pai na hi-te hiam?” ci-in a dot ciangin
 
-**ZVS:** Tua ciangin Peter zong amaute kiangah paisuk a, “Kei pen na zon'pa uh ka hi hi. Bang thu ahi hiam?” ci-in a dong hi.
+**ZVS:** Tua ciangin Peter zong amaute kiangah paisuk a, “Kei pen na zon'pa-te ka hi hi. Bang thu ahi hiam?” ci-in a dong hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v22
 **EN:** And they said, Cornelius the centurion, a just man, and one that feareth God, and of good report among all the nation of the Jews, was warned from God by an holy angel to send for thee into his house, and to hear words of thee.
 
-**TDB77:** amaute in, “Pasian a kihta, Judah mi khempeuh in a zahtak, midik, galkap mangpa Kornelias in nangmah hong sam a, nangmah kiang pan thu a zak nading, vantungmi siangtho khat in thu a pia hi,” a ci uh hi.
+**TDB77:** amaute in, “Pasian a kihta, Judah mi khempeuh in a zahtak, midik, galkap mangpa Kornelias in nangmah hong sam a, nangmah kiang pan thu a zak nading, vantungmi siangtho khat in thu a pia hi,” a ci-te hi.
 
-**ZVS:** Amaute in, “Galkapbupa Kornelias in nang kiangah kote hong sawl hi. Amah pen Pasian a bia mihoih mahmah khat hi a, Jew mi khempeuh in zong a zahtak mahmah khat uh ahi hi. Amah in nangma thugente a zaktheihna dingin a inn-ah nang a hong sapna dingin Pasian in a vantung mite khat ama kiangah gensak hi,” ci-in a dawng uh hi.
+**ZVS:** Amaute in, “Galkapbupa Kornelias in nang kiangah kote hong sawl hi. Amah pen Pasian a bia mihoih mahmah khat hi a, Jew mi khempeuh in zong a zahtak mahmah khat-te ahi hi. Amah in nangma thugente a zaktheihna dingin a inn-ah nang a hong sapna dingin Pasian in a vantung mite khat ama kiangah gensak hi,” ci-in a dawng-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** Then called he them in, and lodged them. And on the morrow Peter went away with them, and certain brethren from Joppa accompanied him.
 
-**TDB77:** Tua ahih ciangin Piter in tuate inn sungah sam a, a tung sak hi. Zingsang ciangin Piter tho a, amaute tawh a paikhawm hi. Joppa khua unau kimkhatte in zong a zui uh hi.
+**TDB77:** Tua ahih ciangin Piter in tuate inn sungah sam a, a tung sak hi. Zingsang ciangin Piter tho a, amaute tawh a paikhawm hi. Joppa khua unau kimkhatte in zong a zui-te hi.
 
-**ZVS:** Tua ahih manin amah tawh a giakkhawm dingin Peter in amaute a sam hi. A zing ciangin Peter zong kithawi-in amaute tawh paikhawm a, Joppakhua-a om thu um mi pawlkhatte in zong a zui uh hi.
+**ZVS:** Tua ahih manin amah tawh a giakkhawm dingin Peter in amaute a sam hi. A zing ciangin Peter zong kithawi-in amaute tawh paikhawm a, Joppakhua-a om thu um mi pawlkhatte in zong a zui-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And the morrow after they entered into Caesarea. And Cornelius waited for them, and had called together his kinsmen and near friends.
 
-**TDB77:** Zingsang ciangin Kaisaria khua-ah a lut uh hi. Kornelias in a behte, a lawmte kikhawm sakin, lamenin a om hi.
+**TDB77:** Zingsang ciangin Kaisaria khua-ah a lut-te hi. Kornelias in a behte, a lawmte kikhawm sakin, lamenin a om hi.
 
-**ZVS:** A zing ciangin Sisaria khua a tung uh hi. Kornelias in zong amaute' tun'ding lamen ahih manin, a beh a phungte leh a lawm itteng a inn-ah a na samkhol hi.
+**ZVS:** A zing ciangin Sisaria khua a tung-te hi. Kornelias in zong amaute' tun'ding lamen ahih manin, a beh a phungte leh a lawm itteng a inn-ah a na samkhol hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -252,7 +252,7 @@
 ### v27
 **EN:** And as he talked with him, he went in, and found many that were come together.
 
-**TDB77:** Amah in Kornelias tawh a kihopih lai takin inn sungah tum uh a, mi tampi kikhawmin a om uh a mu hi.
+**TDB77:** Amah in Kornelias tawh a kihopih lai takin inn sungah tum-te a, mi tampi kikhawmin a om-te a mu hi.
 
 **ZVS:** Tua bangin a kiho kawmin Peter zong innsungah tum a, mi tampi tak a na om a muh ciangin
 
@@ -261,18 +261,18 @@
 ### v28
 **EN:** And he said unto them, Ye know how that it is an unlawful thing for a man that is a Jew to keep company, or come unto one of another nation; but God hath shewed me that I should not call any man common or unclean.
 
-**TDB77:** Piter in, “Judah mite in mipawl dangte tawh kipawl a, amau kiangah pai ding a kilawm lo cih na thei uh hi. Ahih hangin a siangtho lo, a nin hi, kuamah ka cih loh nadingin Pasian in hong hilh zo hi.
+**TDB77:** Piter in, “Judah mite in mipawl dangte tawh kipawl a, amau kiangah pai ding a kilawm lo cih na thei-te hi. Ahih hangin a siangtho lo, a nin hi, kuamah ka cih loh nadingin Pasian in hong hilh zo hi.
 
-**ZVS:** amaute kiangah, “Note mahmah in zong limtakin na theih ciat uh mah bangin Jew mite pen minam dangte kiangah hawhin a kikholh ding a ngeina hilo hi. Ahi zongin mi khat peuhpeuh a nin hi, ci-in ka ngaihsutlohna dingin Pasian in kei tungah a thu hong lakkhin zo hi.
+**ZVS:** amaute kiangah, “Note mahmah in zong limtakin na theih ciat-te mah bangin Jew mite pen minam dangte kiangah hawhin a kikholh ding a ngeina hilo hi. Ahi zongin mi khat peuhpeuh a nin hi, ci-in ka ngaihsutlohna dingin Pasian in kei tungah a thu hong lakkhin zo hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** Therefore came I unto you without gainsaying, as soon as I was sent for: I ask therefore for what intent ye have sent for me?
 
-**TDB77:** Tua ahih ciangin kei nong sap uh ciangin seel loin ka hong pai hi. Tua ahih ciangin bang thu-in kei hong sam na hi uh hiam?” a ci hi.
+**TDB77:** Tua ahih ciangin kei nong sap-te ciangin seel loin ka hong pai hi. Tua ahih ciangin bang thu-in kei hong sam na hi-te hiam?” a ci hi.
 
-**ZVS:** Tua ahih manin kei nong sap uh ciangin nialloin kong pai hi. Tu-in bang thu-a hong sam na hi uh hiam?” ci-in a dong hi.
+**ZVS:** Tua ahih manin kei nong sap-te ciangin nialloin kong pai hi. Tu-in bang thu-a hong sam na hi-te hiam?” ci-in a dong hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then)
 
@@ -304,9 +304,9 @@
 ### v33
 **EN:** Immediately therefore I sent to thee; and thou hast well done that thou art come. Now therefore are we all here present before God, to hear all things that are commanded thee of God.
 
-**TDB77:** Tua ahih ciangin nangma kiangah a manlangin mi kong paisak hi. Tu-in nang hong tung na hih ciangin thuhoih ahi hi. Tua ahih ciangin hih san takah Pasian in nangma kiangah thu hong piaksa teng ngai dingin kote khempeuh in Pasian mai-ah ka om uh hi,” a ci hi.
+**TDB77:** Tua ahih ciangin nangma kiangah a manlangin mi kong paisak hi. Tu-in nang hong tung na hih ciangin thuhoih ahi hi. Tua ahih ciangin hih san takah Pasian in nangma kiangah thu hong piaksa teng ngai dingin kote khempeuh in Pasian mai-ah ka om-te hi,” a ci hi.
 
-**ZVS:** Tua ahih manin nang kong samsakpah a, midik na hih manin hih lai ciang a hong tung na hi hi. Topa in na gen dingin a hong sawl thu khempeuh na hong gending ngakin Pasian' omna hih lai munah a om ka hi uh hi,” ci-in a dawng hi.
+**ZVS:** Tua ahih manin nang kong samsakpah a, midik na hih manin hih lai ciang a hong tung na hi hi. Topa in na gen dingin a hong sawl thu khempeuh na hong gending ngakin Pasian' omna hih lai munah a om ka hi-te hi,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -322,7 +322,7 @@
 ### v35
 **EN:** But in every nation he that feareth him, and worketh righteousness, is accepted with him.
 
-**TDB77:** Mipawl khempeuh lakah amah kihta uh a, thuman thutak a bawlte amah in a sang hi.
+**TDB77:** Mipawl khempeuh lakah amah kihta-te a, thuman thutak a bawlte amah in a sang hi.
 
 **ZVS:** kua mi kua mi hita leh amah zahtakin a manin a gamta mi khempeuh a san'na thu teltakin ka thei hi.
 
@@ -333,34 +333,34 @@
 
 **TDB77:** Mi khempeuhte’ Topa ahi, Zeisu Khazih hangah thupha Lungdamna Thu kihilhin, Israel mite a vaikhak mah bangin,
 
-**ZVS:** Mi khempeuh' Topa ahi Jesuh Khrih hangin a kingah Lungdamna Thu, Israel mite tungah Pasian in a puakna thu na thei uh hi.
+**ZVS:** Mi khempeuh' Topa ahi Jesuh Khrih hangin a kingah Lungdamna Thu, Israel mite tungah Pasian in a puakna thu na thei-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v37
 **EN:** That word, I say, ye know, which was published throughout all Judaea, and began from Galilee, after the baptism which John preached;
 
-**TDB77:** Johan in baptaizna thu a hilh khit ciangin Galile gam pan akipan Judah gam mun khempeuh dongin a kihilh khin thu note in na thei uh hi.
+**TDB77:** Johan in baptaizna thu a hilh khit ciangin Galile gam pan akipan Judah gam mun khempeuh dongin a kihilh khin thu note in na thei-te hi.
 
-**ZVS:** Johan in tuiphumna thu a hilh khita kipanin Galilee gama kipan Judea gam khempeuhah a piang thu lianpite na thei uh hi.
+**ZVS:** Johan in tuiphumna thu a hilh khita kipanin Galilee gama kipan Judea gam khempeuhah a piang thu lianpite na thei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v38
 **EN:** How God anointed Jesus of Nazareth with the Holy Ghost and with power: who went about doing good, and healing all that were oppressed of the devil; for God was with him.
 
-**TDB77:** Pasian in Nazareth khua mi Zeisu, Kha Siangtho leh vangliatna tawh sathau a nilh khit ciangin tua Zeisu pai kawikawi a, thupha bawlin dawimangpa in a bawlsiatte khempeuh a damsak hi. Bang hang hiam na cih uh leh, Pasian in amah tawh a omkhawm hi.
+**TDB77:** Pasian in Nazareth khua mi Zeisu, Kha Siangtho leh vangliatna tawh sathau a nilh khit ciangin tua Zeisu pai kawikawi a, thupha bawlin dawimangpa in a bawlsiatte khempeuh a damsak hi. Bang hang hiam na cih-te leh, Pasian in amah tawh a omkhawm hi.
 
-**ZVS:** Nazareth khuami Jesuh tungah Pasian in Kha Siangtho leh vangliatna pia a, Pasian in a ompihna hangin tua Jesuh in a paina khempeuhah na hoih semin, Dawimangpa in a gimsak mite khempeuh a damsakna thu zong na thei uh hi.
+**ZVS:** Nazareth khuami Jesuh tungah Pasian in Kha Siangtho leh vangliatna pia a, Pasian in a ompihna hangin tua Jesuh in a paina khempeuhah na hoih semin, Dawimangpa in a gimsak mite khempeuh a damsakna thu zong na thei-te hi.
 
 **Grammar:** causative: -sak suffix
 
 ### v39
 **EN:** And we are witnesses of all things which he did both in the land of the Jews, and in Jerusalem; whom they slew and hanged on a tree:
 
-**TDB77:** Judah gam sung leh Jerusalem khuapi sungah a bawl na khempeuh’ teci ka hi uh hi. Amaute in amah singkhuam tungah khai-in a that uh hi.
+**TDB77:** Judah gam sung leh Jerusalem khuapi sungah a bawl na khempeuh’ teci ka hi-te hi. Amaute in amah singkhuam tungah khai-in a that-te hi.
 
-**ZVS:** Amah in Jerusalem khua leh Jew mite omna mundang khempeuhah a septe khempeuh a thei tecite ka hi uh hi. Jew mite in sing tungah amah khai-in a that uh hi.
+**ZVS:** Amah in Jerusalem khua leh Jew mite omna mundang khempeuhah a septe khempeuh a thei tecite ka hi-te hi. Jew mite in sing tungah amah khai-in a that-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -374,9 +374,9 @@
 ### v41
 **EN:** Not to all the people, but unto witnesses chosen before of God, even to us, who did eat and drink with him after he rose from the dead.
 
-**TDB77:** mi khempeuh’ mai hi lo, Pasian’ teel kholhsa a teci, kote bek mai-ah hong kilat nadingin thu a pia hi. Sihna pan a thawhkik khit ciangin amah tawh an ka nekhawm uh hi.
+**TDB77:** mi khempeuh’ mai hi lo, Pasian’ teel kholhsa a teci, kote bek mai-ah hong kilat nadingin thu a pia hi. Sihna pan a thawhkik khit ciangin amah tawh an ka nekhawm-te hi.
 
-**ZVS:** Mi khempeuh tungah kilangsak loin, a thei teci dingin Pasian in a hong teelsa kote bek tungah hong kilangsak hi. Sihna panin a hin'kik khit ciangin kote in amah tawh an nekhawm tui dawnkhawmin ka om uh hi.
+**ZVS:** Mi khempeuh tungah kilangsak loin, a thei teci dingin Pasian in a hong teelsa kote bek tungah hong kilangsak hi. Sihna panin a hin'kik khit ciangin kote in amah tawh an nekhawm tui dawnkhawmin ka om-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -385,16 +385,16 @@
 
 **TDB77:** Amah in ‘Mi khempeuh kiangah thuhilh un la, mi nungta leh misite thu khen dingin Pasian’ koihsa mi in tua mi ahi hi ci-in teci na pang un,’ ci-in kote thu hong pia hi.
 
-**ZVS:** Kote in mite kiangah thu ka hilhna ding uh leh mihing leh misite tungah thu a khen dingin Pasian in amah a sehna thu teci a pang dingin a hong sawl hi.
+**ZVS:** Kote in mite kiangah thu ka hilhna ding-te leh mihing leh misite tungah thu a khen dingin Pasian in amah a sehna thu teci a pang dingin a hong sawl hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v43
 **EN:** To him give all the prophets witness, that through his name whosoever believeth in him shall receive remission of sins.
 
-**TDB77:** Amah a um mi khempeuh in ama min hangin mawhna maisakna a ngah ding hi ci-in Pasian’ kamsangte khempeuh in teci a pang zo uh hi,” ci-in thu a hilh hi.
+**TDB77:** Amah a um mi khempeuh in ama min hangin mawhna maisakna a ngah ding hi ci-in Pasian’ kamsangte khempeuh in teci a pang zo-te hi,” ci-in thu a hilh hi.
 
-**ZVS:** Amah a um mite khempeuh in ama min hangin a mawhna uh a maina ding thu, kamsangte khempeuh in zong gen belin a neih khat uh ahi hi,” a ci hi.
+**ZVS:** Amah a um mite khempeuh in ama min hangin a mawhna-te a maina ding thu, kamsangte khempeuh in zong gen belin a neih khat-te ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -408,18 +408,18 @@
 ### v45
 **EN:** And they of the circumcision which believed were astonished, as many as came with Peter, because that on the Gentiles also was poured out the gift of the Holy Ghost.
 
-**TDB77:** Piter tawh a paikhawm Pasian thu-um vunatte khempeuh in Gentailte tungah Kha Siangtho a tung a muh uh ciangin a lungmang uh hi.
+**TDB77:** Piter tawh a paikhawm Pasian thu-um vunatte khempeuh in Gentailte tungah Kha Siangtho a tung a muh-te ciangin a lungmang-te hi.
 
-**ZVS:** Gentail mite tungah zong Pasian in a Kha Siangtho a piakkhongna thu a muh uh ciangin Joppa khua panin Peter tawh a hong paikhawm Jew mi thu umte in lamdang a sa mahmah uh hi.
+**ZVS:** Gentail mite tungah zong Pasian in a Kha Siangtho a piakkhongna thu a muh-te ciangin Joppa khua panin Peter tawh a hong paikhawm Jew mi thu umte in lamdang a sa mahmah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v46
 **EN:** For they heard them speak with tongues, and magnify God. Then answered Peter,
 
-**TDB77:** Bang hang hiam i cih leh, tua mite in kamtuam tawh pau-in, Pasian’ min a phat uh cih a za uh hi.
+**TDB77:** Bang hang hiam i cih leh, tua mite in kamtuam tawh pau-in, Pasian’ min a phat-te cih a za-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in pau lamdang pau-in Pasian' liatna a phatnate uh amau bil mahmah tawh a za uh hi. Tua ciangin Peter in,
+**ZVS:** Bang hang hiam cih leh amaute in pau lamdang pau-in Pasian' liatna a phatnate-te amau bil mahmah tawh a za-te hi. Tua ciangin Peter in,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -428,16 +428,16 @@
 
 **TDB77:** Tua ciangin Piter in, “Eite bangin Kha Siangtho a ngahte in tui sungah kibaptaiz loh nadingin kua in tui a kham zo hiam?” a cih ciangin,
 
-**ZVS:** “Eite mah bangin hih mite in zong Kha Siangtho ngah uh hi. Tui sungah a kiphum ding uh kua'n kham thei ding ahi hiam?” ci-in a gen khit ciangin,
+**ZVS:** “Eite mah bangin hih mite in zong Kha Siangtho ngah-te hi. Tui sungah a kiphum ding-te kua'n kham thei ding ahi hiam?” ci-in a gen khit ciangin,
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
 ### v48
 **EN:** And he commanded them to be baptized in the name of the Lord. Then prayed they him to tarry certain days.
 
-**TDB77:** amaute Zeisu Khazih’ min tawh kibaptaiz dingin thu a pia hi. Piter ni tawmkhat sung a tam lai na’ngin a thuum uh hi.
+**TDB77:** amaute Zeisu Khazih’ min tawh kibaptaiz dingin thu a pia hi. Piter ni tawmkhat sung a tam lai na’ngin a thuum-te hi.
 
-**ZVS:** Jesuh Khrih min tawh amaute tui a kiphumna ding uh a sawl hi. Tua ciangin amaute kiangah Peter a tam laina dingin a thum uh hi.
+**ZVS:** Jesuh Khrih min tawh amaute tui a kiphumna ding-te a sawl hi. Tua ciangin amaute kiangah Peter a tam laina dingin a thum-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

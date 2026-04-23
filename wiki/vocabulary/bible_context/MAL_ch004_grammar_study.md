@@ -23,27 +23,27 @@
 ### v1
 **EN:** For, behold, the day cometh, that shall burn as an oven; and all the proud, yea, and all that do wickedly, shall be stubble: and the day that cometh shall burn them up, saith the
 
-**TDB77:** Vanglianpen Topa in hih bangin ci hi: “En un, mi kiphasak khempeuh leh migilo khempeuh, a zung a hiang cih om loin buhtu bangin a kattum ding hun hong tung ding hi. Tua ni ciangin khat zong suakta loin a vekpi-in kangtum khin ding uh hi.
+**TDB77:** Vanglianpen Topa in hih bangin ci hi: “En un, mi kiphasak khempeuh leh migilo khempeuh, a zung a hiang cih om loin buhtu bangin a kattum ding hun hong tung ding hi. Tua ni ciangin khat zong suakta loin a vekpi-in kangtum khin ding-te hi.
 
-**ZVS:** Vanglian { Topa } in hih bangin ci hi: “En un, mi kiphasak khempeuh leh migilo khempeuh, a zung a hiang cih omloin buhtu bangin a kattum ding hun hong tung ding hi. Tua ni ciangin khat zong suakta loin a vekpi-in kangtum khin ding uh hi.
+**ZVS:** Vanglian { Topa } in hih bangin ci hi: “En un, mi kiphasak khempeuh leh migilo khempeuh, a zung a hiang cih omloin buhtu bangin a kattum ding hun hong tung ding hi. Tua ni ciangin khat zong suakta loin a vekpi-in kangtum khin ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** But unto you that fear my name shall the Sun of righteousness arise with healing in his wings; and ye shall go forth, and grow up as calves of the stall.
 
-**TDB77:** Ahi zongin ka thu a hong mang note tungah dikna ni hong taang ding a, tua in nizang bangin note tungah cidamna hong tun’ ding hi. Bawngkhumna panin a kikhah bawngnote bangin suakta-in nuam na sa ding uh hi.
+**TDB77:** Ahi zongin ka thu a hong mang note tungah dikna ni hong taang ding a, tua in nizang bangin note tungah cidamna hong tun’ ding hi. Bawngkhumna panin a kikhah bawngnote bangin suakta-in nuam na sa ding-te hi.
 
-**ZVS:** Ahi zongin ka thu a hong mang note tungah dikna ni hong taang ding a, tua in nizang bangin note tungah cidamna hong tun' ding hi. Bawng khumna panin a kikhah bawngnote bangin suakta-in nuam na sa ding uh hi.
+**ZVS:** Ahi zongin ka thu a hong mang note tungah dikna ni hong taang ding a, tua in nizang bangin note tungah cidamna hong tun' ding hi. Bawng khumna panin a kikhah bawngnote bangin suakta-in nuam na sa ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And ye shall tread down the wicked; for they shall be ashes under the soles of your feet in the day that I shall do this, saith the
 
-**TDB77:** Keimah in na kong sep ni ciangin, migilote nuaisiahin, leivui bangin na tuancil ding uh hi,” ci hi.
+**TDB77:** Keimah in na kong sep ni ciangin, migilote nuaisiahin, leivui bangin na tuancil ding-te hi,” ci hi.
 
-**ZVS:** Keimah in na kong sep ni ciangin note in migilote nuaisiahin leivui bangin na tuancil ding uh hi.
+**ZVS:** Keimah in na kong sep ni ciangin note in migilote nuaisiahin leivui bangin na tuancil ding-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -68,9 +68,9 @@
 ### v6
 **EN:** And he shall turn the heart of the fathers to the children, and the heart of the children to their fathers, lest I come and smite the earth with a curse.
 
-**TDB77:** Amah in pate leh tapate, tapate leh pate lemtuahin kilemsak kik ding hi. Tua bang hi kei leh keimah hong pai-in na gam khempeuh uh ka susiagawp ding hi,”ci hi, a ci hi.
+**TDB77:** Amah in pate leh tapate, tapate leh pate lemtuahin kilemsak kik ding hi. Tua bang hi kei leh keimah hong pai-in na gam khempeuh-te ka susiagawp ding hi,”ci hi, a ci hi.
 
-**ZVS:** Amah in pate leh tate lemtuahin a kilemsak kik ding hi. Tua bang hi kei leh keimah hong pai-in na gam khempeuh uh ka susiagawp ding hi,” ci hi, a ci hi.
+**ZVS:** Amah in pate leh tate lemtuahin a kilemsak kik ding hi. Tua bang hi kei leh keimah hong pai-in na gam khempeuh-te ka susiagawp ding hi,” ci hi, a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 

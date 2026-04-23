@@ -58,7 +58,7 @@ Used in: newspapers (Zomidaily), books, official letters, wiki, formal documents
 ### Example
 ```
 Zomi mite in amau' pau leh ngeina tawntung theihna dingin
-nasem tampi a bawl uh hi.
+nasem tampi a bawl-te hi.
 — Zomidaily style
 ```
 

@@ -74,9 +74,9 @@
 ### v12
 **EN:** When they were but a few men in number; yea, very few, and strangers in it.
 
-**TDB77:** Amaute tawm mahmah-in, bangmah gentham lo uh a, khualmi hi-in,
+**TDB77:** Amaute tawm mahmah-in, bangmah gentham lo-te a, khualmi hi-in,
 
-**ZVS:** Amaute tawm mahmahin, bangmah genthamlo uh a, khualmi hi-in,
+**ZVS:** Amaute tawm mahmahin, bangmah genthamlo-te a, khualmi hi-in,
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 
@@ -176,7 +176,7 @@
 ### v25
 **EN:** He turned their heart to hate his people, to deal subtilly with his servants.
 
-**TDB77:** Ama mite mudahin, ama nasemte, khemsiamna tawh a bawl dingin, amau lungsim uh amah in kiheisak hi.
+**TDB77:** Ama mite mudahin, ama nasemte, khemsiamna tawh a bawl dingin, amau lungsim-te amah in kiheisak hi.
 
 **ZVS:** Ama mite mudahin, ama nasemte siamna tawh a khem dingin amaute' lungsim amah in kiheisak hi.
 
@@ -192,27 +192,27 @@
 ### v27
 **EN:** They shewed his signs among them, and wonders in the land of Ham.
 
-**TDB77:** Amaute in, ama limte amaute lakah, nalamdangte, Ham’ gam sungah bawl uh hi.
+**TDB77:** Amaute in, ama limte amaute lakah, nalamdangte, Ham’ gam sungah bawl-te hi.
 
-**ZVS:** Amaute in ama limte amaute' lakah na lamdangte Ham' gamsungah a bawl uh hi.
+**ZVS:** Amaute in ama limte amaute' lakah na lamdangte Ham' gamsungah a bawl-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v28
 **EN:** He sent darkness, and made it dark; and they rebelled not against his word.
 
-**TDB77:** Amah in khuamial sawlin, leitung khimzing sak hi; ahih hangin Izipt mite in ama thu langpang uh hi.
+**TDB77:** Amah in khuamial sawlin, leitung khimzing sak hi; ahih hangin Izipt mite in ama thu langpang-te hi.
 
-**ZVS:** Amah in khuamial sawl a, leitung khim a zingsak hi. Ahih hangin Egypt mite in ama thu a langpang uh hi.
+**ZVS:** Amah in khuamial sawl a, leitung khim a zingsak hi. Ahih hangin Egypt mite in ama thu a langpang-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v29
 **EN:** He turned their waters into blood, and slew their fish.
 
-**TDB77:** Amah in amau’ tuite sisan suak sak a, a ngasate uh sisak hi.
+**TDB77:** Amah in amau’ tuite sisan suak sak a, a ngasate-te sisak hi.
 
-**ZVS:** Amah in amau' tuite sisan suaksak a, a ngasate uh a sisak hi.
+**ZVS:** Amah in amau' tuite sisan suaksak a, a ngasate-te a sisak hi.
 
 ### v30
 **EN:** Their land brought forth frogs in abundance, in the chambers of their kings.
@@ -244,14 +244,14 @@
 
 **TDB77:** Amah in amau’ leengguite leh theikungte vattansak a, amau gamsung singte kuaihtansak hi.
 
-**ZVS:** Amah in amau' leengguite leh a theikungte uh vattansak a, amau' gamsung sing khempeuh a kuaihtansak hi.
+**ZVS:** Amah in amau' leengguite leh a theikungte-te vattansak a, amau' gamsung sing khempeuh a kuaihtansak hi.
 
 ### v34
 **EN:** He spake, and the locusts came, and caterpillers, and that without number,
 
-**TDB77:** Amah kam pau a, kauphete leh tangngolte, sim zawh lohin hong pai uh a,
+**TDB77:** Amah kam pau a, kauphete leh tangngolte, sim zawh lohin hong pai-te a,
 
-**ZVS:** Amah kampau a, kauphete leh tangngolte, simzawh lohin hong pai uh a,
+**ZVS:** Amah kampau a, kauphete leh tangngolte, simzawh lohin hong pai-te a,
 
 **Grammar:** plural: uh marker
 
@@ -272,18 +272,18 @@
 ### v37
 **EN:** He brought them forth also with silver and gold: and there was not one feeble person among their tribes.
 
-**TDB77:** Tua ciangin amah in, ngun leh kham tawh Israelte paikhiatpih a, amaute a vekpi-in cidamin thahat kim uh hi.
+**TDB77:** Tua ciangin amah in, ngun leh kham tawh Israelte paikhiatpih a, amaute a vekpi-in cidamin thahat kim-te hi.
 
-**ZVS:** Tua ciangin amah in ngun leh kham tawh Israel-te paikhiatpih a, amaute a vekpi-in cidamin thahat kim uh hi.
+**ZVS:** Tua ciangin amah in ngun leh kham tawh Israel-te paikhiatpih a, amaute a vekpi-in cidamin thahat kim-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v38
 **EN:** Egypt was glad when they departed: for the fear of them fell upon them.
 
-**TDB77:** Amaute a paikhiat ciangun Izipt mite lungdam mahmah uh hi, bang hang hiam cih leh amaute kihta uh hi.
+**TDB77:** Amaute a paikhiat ciangun Izipt mite lungdam mahmah-te hi, bang hang hiam cih leh amaute kihta-te hi.
 
-**ZVS:** Amaute a paikhiat ciangun Egypt mite lungdam mahmah uh hi. Bang hang hiam cih leh amaute kihta uh hi.
+**ZVS:** Amaute a paikhiat ciangun Egypt mite lungdam mahmah-te hi. Bang hang hiam cih leh amaute kihta-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 

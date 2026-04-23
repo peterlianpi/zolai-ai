@@ -70,7 +70,7 @@
 
 **TDB77:** gitlohna thu-ah a lungdam thei kei hi, thuman thutak ah a lungdam thei hi,
 
-**ZVS:** Thuman lote-ah lungdam ngeilo uh a, thumante bekah lungdam uh hi.
+**ZVS:** Thuman lote-ah lungdam ngeilo-te a, thumante bekah lungdam-te hi.
 
 **Grammar:** negation: kei
 
@@ -79,7 +79,7 @@
 
 **TDB77:** na khempeuh a thuak thei hi, na khempeuh a um thei hi, na khempeuh a thuak keeikaai hi.
 
-**ZVS:** Itna neite lungkia cih om ngeilo hi; a upna, a lametna, lungduai takin a ngaknate uh a mawkna cih om ngeilo hi.
+**ZVS:** Itna neite lungkia cih om ngeilo hi; a upna, a lametna, lungduai takin a ngaknate-te a mawkna cih om ngeilo hi.
 
 ### v8
 **EN:** Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
@@ -93,7 +93,7 @@
 ### v9
 **EN:** For we know in part, and we prophesy in part.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite in kicing loin i thei hi, kamsangte’ pilna tawh kicing loin i hilh hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite in kicing loin i thei hi, kamsangte’ pilna tawh kicing loin i hilh hi.
 
 **ZVS:** Bang hang hiam cih leh eite' neih thutheih siamnate leh i thuhilh siamnate a kicing hilo hi.
 
@@ -102,7 +102,7 @@
 ### v10
 **EN:** But when that which is perfect is come, then that which is in part shall be done away.
 
-**TDB77:** Ahih hangin kicin’na a tun’ ciangin a kicing lote a mangthang ding uh hi.
+**TDB77:** Ahih hangin kicin’na a tun’ ciangin a kicing lote a mangthang ding-te hi.
 
 **ZVS:** Ahi zongin a kicing thu hong tun' ciangin a kicingtaaklo thuteng maimang ding hi.
 
@@ -127,7 +127,7 @@
 ### v13
 **EN:** And now abideth faith, hope, charity, these three; but the greatest of these is charity.
 
-**TDB77:** Tu-in upna, lawpna, itna hih thute thum a om uh hi. A thumte sungpan itna thu a lianbel hi.
+**TDB77:** Tu-in upna, lawpna, itna hih thute thum a om-te hi. A thumte sungpan itna thu a lianbel hi.
 
 **ZVS:** Tu laitakin a omlai thu thumte pen upna, lametna, leh itna hi a, tua thumte sung panin itna mah a thu lianpen ahi hi.
 

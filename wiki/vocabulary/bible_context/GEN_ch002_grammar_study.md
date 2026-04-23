@@ -231,18 +231,18 @@
 ### v24
 **EN:** Therefore shall a man leave his father and his mother, and shall cleave unto his wife: and they shall be one flesh.
 
-**TDB77:** Tua ahih ciangin mipa in a nu leh a pa nusia-in a zi beel a, amaute in sakhat suak uh hi.
+**TDB77:** Tua ahih ciangin mipa in a nu leh a pa nusia-in a zi beel a, amaute in sakhat suak-te hi.
 
-**ZVS:** Tua thu hangin pasal in a nu leh a pa nusia-in a zi tawh kigawm a, amaute gel pum khat a bang uh hi.
+**ZVS:** Tua thu hangin pasal in a nu leh a pa nusia-in a zi tawh kigawm a, amaute gel pum khat a bang-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v25
 **EN:** And they were both naked, the man and his wife, and were not ashamed.
 
-**TDB77:** Mipa leh a zi guaktangin om uh a, maizum lo uh hi.
+**TDB77:** Mipa leh a zi guaktangin om-te a, maizum lo-te hi.
 
-**ZVS:** Mipa leh a zi a guaktangin om uh a, maizum lo uh hi.
+**ZVS:** Mipa leh a zi a guaktangin om-te a, maizum lo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

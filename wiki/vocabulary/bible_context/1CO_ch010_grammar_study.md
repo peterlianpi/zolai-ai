@@ -25,39 +25,39 @@
 ### v1
 **EN:** Moreover, brethren, I would not that ye should be ignorant, how that all our fathers were under the cloud, and all passed through the sea;
 
-**TDB77:** Ute naute aw, i pute in meii nuai-ah a om uh a, San Tuipi laizang a kantan uh ahi zongin,
+**TDB77:** Ute naute aw, i pute in meii nuai-ah a om-te a, San Tuipi laizang a kantan-te ahi zongin,
 
-**ZVS:** Sanggamte aw, Moses a zui i pu i pate tungah a piang thu na phawk ding uh ka deih hi. Meiipi in amaute khempeuh na hu a, a vekpi-un nuamtakin San Tuipi na kantanzo uh hi.
+**ZVS:** Sanggamte aw, Moses a zui i pu i pate tungah a piang thu na phawk ding-te ka deih hi. Meiipi in amaute khempeuh na hu a, a vekpi-un nuamtakin San Tuipi na kantanzo-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v2
 **EN:** And were all baptized unto Moses in the cloud and in the sea;
 
-**TDB77:** a vekpi-un meii leh tuipi sungah Moses’ baptaizna a ngah uh ahi zongin,
+**TDB77:** a vekpi-un meii leh tuipi sungah Moses’ baptaizna a ngah-te ahi zongin,
 
-**ZVS:** Meiipi sung leh tuipi sungah ama nungzui a suak dingin Moses sungah amaute na kiphum uh hi.
+**ZVS:** Meiipi sung leh tuipi sungah ama nungzui a suak dingin Moses sungah amaute na kiphum-te hi.
 
 ### v3
 **EN:** And did all eat the same spiritual meat;
 
-**TDB77:** a vekpi-un kha an a nekhawm uh ahi zongin,
+**TDB77:** a vekpi-un kha an a nekhawm-te ahi zongin,
 
-**ZVS:** A vekpi-un kha tawh kisai an ne uh a,
+**ZVS:** A vekpi-un kha tawh kisai an ne-te a,
 
 ### v4
 **EN:** And did all drink the same spiritual drink: for they drank of that spiritual Rock that followed them: and that Rock was Christ.
 
-**TDB77:** kha tawh kipawl tui a dawnkhawm uh ahi zongin, note in thei loin na om ding uh ka deih kei hi. Bang hang hiam na cih uh leh, tuate khempeuh in amau nung a zui, kha tawh kipawl suangpi pan a luangkhia tui a dawn uh hi. Tua suangpi in Khazih ahi hi.
+**TDB77:** kha tawh kipawl tui a dawnkhawm-te ahi zongin, note in thei loin na om ding-te ka deih kei hi. Bang hang hiam na cih-te leh, tuate khempeuh in amau nung a zui, kha tawh kipawl suangpi pan a luangkhia tui a dawn-te hi. Tua suangpi in Khazih ahi hi.
 
-**ZVS:** a vekpi mahun kha tawh kisai tui na dawn uh hi. Bang hang hiam cih leh amaute a tonpih, kha tawh kisai suangpi panin tui na dawn uh a, tua suangpi pen Khrih ahi hi.
+**ZVS:** a vekpi mahun kha tawh kisai tui na dawn-te hi. Bang hang hiam cih leh amaute a tonpih, kha tawh kisai suangpi panin tui na dawn-te a, tua suangpi pen Khrih ahi hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** But with many of them God was not well pleased: for they were overthrown in the wilderness.
 
-**TDB77:** Ahih hangin Pasian in amaute lakah a tampite tungah a lungkim kei a, gampa lakah a sigawp uh hi.
+**TDB77:** Ahih hangin Pasian in amaute lakah a tampite tungah a lungkim kei a, gampa lakah a sigawp-te hi.
 
 **ZVS:** Ahi zongin amaute a tamzaw tungah Pasian lungkimlo ahih manin gamsung tengah amaute' luanghawm kithehzak hi.
 
@@ -66,7 +66,7 @@
 ### v6
 **EN:** Now these things were our examples, to the intent we should not lust after evil things, as they also lusted.
 
-**TDB77:** Amaute in a hoih lote a deihgawh uh bangin i deihgawh loh nadingin hih thute in eite adingin lim kilahna ahi hi.
+**TDB77:** Amaute in a hoih lote a deihgawh-te bangin i deihgawh loh nadingin hih thute in eite adingin lim kilahna ahi hi.
 
 **ZVS:** Amaute tungah a piangte khempeuh, eite-a' dingin hilhkholhna ahi hi. Amaute bangin a sia nate i deih kei ding a,
 
@@ -75,25 +75,25 @@
 ### v7
 **EN:** Neither be ye idolaters, as were some of them; as it is written, The people sat down to eat and drink, and rose up to play.
 
-**TDB77:** “Mite in an ne, tui dawnin a tu uh a, a nung ciangin laam dingin a ding uh hi,” ci-in a kigelh mah bangin tuate kimkhat in milim a biak uh mah bangin bia kei ni.
+**TDB77:** “Mite in an ne, tui dawnin a tu-te a, a nung ciangin laam dingin a ding-te hi,” ci-in a kigelh mah bangin tuate kimkhat in milim a biak-te mah bangin bia kei ni.
 
-**ZVS:** amaute pawlkhat in a biak bangin milim i bia kei ding hi. Lai Siangtho in, “Anne zune dingin mite tu uh a, tua khit ciangin a lam dingin a ding uh hi,” na ci hi.
+**ZVS:** amaute pawlkhat in a biak bangin milim i bia kei ding hi. Lai Siangtho in, “Anne zune dingin mite tu-te a, tua khit ciangin a lam dingin a ding-te hi,” na ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Neither let us commit fornication, as some of them committed, and fell in one day three and twenty thousand.
 
-**TDB77:** Tuate in numei leh pasal mawhna bawl uh a, nikhat sunga mi thennih le tulthum tak a sih uh bangin numei leh pasal mawhna hih kei ni.
+**TDB77:** Tuate in numei leh pasal mawhna bawl-te a, nikhat sunga mi thennih le tulthum tak a sih-te bangin numei leh pasal mawhna hih kei ni.
 
-**ZVS:** Amaute pawlkhat bangin numei tawh paktatna i gamta kei ding hi. Nikhat thu-in mi tul sawmnih leh tul thum a si uh hi.
+**ZVS:** Amaute pawlkhat bangin numei tawh paktatna i gamta kei ding hi. Nikhat thu-in mi tul sawmnih leh tul thum a si-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** Neither let us tempt Christ, as some of them also tempted, and were destroyed of serpents.
 
-**TDB77:** Tuate kimkhat in Topa a ze-et uh a, gul in a sukgawp bangin eite in Pasian ze-et loin om ni.
+**TDB77:** Tuate kimkhat in Topa a ze-et-te a, gul in a sukgawp bangin eite in Pasian ze-et loin om ni.
 
 **ZVS:** Amaute pawlkhat bangin Topa i ze-et kei ding hi. Gul in amaute na tulum hi.
 
@@ -102,7 +102,7 @@
 ### v10
 **EN:** Neither murmur ye, as some of them also murmured, and were destroyed of the destroyer.
 
-**TDB77:** Tuate kimkhat in kihhuaina a bawl uh a, a susia vantungmi’ khut sungah a kisiat uh bangin eite in kihhuaina bawl kei ni.
+**TDB77:** Tuate kimkhat in kihhuaina a bawl-te a, a susia vantungmi’ khut sungah a kisiat-te bangin eite in kihhuaina bawl kei ni.
 
 **ZVS:** Amaute pawlkhat bangin Pasian i phunsan kei ding hi. Vantung mite in amaute na sulum hi.
 
@@ -122,16 +122,16 @@
 
 **TDB77:** Tua ahih ciangin ka lungkip hi ci-in a ki-um mi in a puk loh nadingin kikem hen.
 
-**ZVS:** Lungkip takin ka omzo hi, ci-in a kingaihsun mite a pukkhak lohna dingun kikem uh hen.
+**ZVS:** Lungkip takin ka omzo hi, ci-in a kingaihsun mite a pukkhak lohna dingun kikem-te hen.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v13
 **EN:** There hath no temptation taken you but such as is common to man: but God is faithful, who will not suffer you to be tempted above that ye are able; but will with the temptation also make a way to escape, that ye may be able to bear it.
 
-**TDB77:** Mi in a thuak theih loh ze-etna khat beek na thuak kei uh hi. Pasian in thumanna lungsim tawh kidim ahih ciangin na thuak zawh loh uh ze-etna hong tun’ nadingin thu a pia kei ding hi. Note in na thuak ding uh ze-etna a hong tun’sak ciangin na thuak zawh nadingun suahtak nading lampi zong hong bawlsak ding hi.
+**TDB77:** Mi in a thuak theih loh ze-etna khat beek na thuak kei-te hi. Pasian in thumanna lungsim tawh kidim ahih ciangin na thuak zawh loh-te ze-etna hong tun’ nadingin thu a pia kei ding hi. Note in na thuak ding-te ze-etna a hong tun’sak ciangin na thuak zawh nadingun suahtak nading lampi zong hong bawlsak ding hi.
 
-**ZVS:** Na tuah uh ze-etnate khempeuh pen mite' tuah ngeingeite mah ahi hi. Pasian in citakin a thuciamna lenkip ahih manin note' thuak zawhloh ding ze-etna hong tuaksaklo ding hi. Ze-etna na tuah hun uh ciangin zong na thuakzawhna ding uh thahatna hong guan'ding ahih manin na suahtak zawhna ding uh lampi hong hon'sak ding hi.
+**ZVS:** Na tuah-te ze-etnate khempeuh pen mite' tuah ngeingeite mah ahi hi. Pasian in citakin a thuciamna lenkip ahih manin note' thuak zawhloh ding ze-etna hong tuaksaklo ding hi. Ze-etna na tuah hun-te ciangin zong na thuakzawhna ding-te thahatna hong guan'ding ahih manin na suahtak zawhna ding-te lampi hong hon'sak ding hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -172,9 +172,9 @@
 ### v18
 **EN:** Behold Israel after the flesh: are not they which eat of the sacrifices partakers of the altar?
 
-**TDB77:** Ci-le-sa lamsangah Israelte na en ta un. Biakna sa a nete in biakna tau tawh kipawl hilo ahi uh hiam?
+**TDB77:** Ci-le-sa lamsangah Israelte na en ta un. Biakna sa a nete in biakna tau tawh kipawl hilo ahi-te hiam?
 
-**ZVS:** Israel mite' thu ngaihsun dih un. Biakna sa a ne khempeuh pen biakna tau tungah Pasian biakna thu-ah a kipawl hilo ahi uh hiam?
+**ZVS:** Israel mite' thu ngaihsun dih un. Biakna sa a ne khempeuh pen biakna tau tungah Pasian biakna thu-ah a kipawl hilo ahi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -188,18 +188,18 @@
 ### v20
 **EN:** But I say, that the things which the Gentiles sacrifice, they sacrifice to devils, and not to God: and I would not that ye should have fellowship with devils.
 
-**TDB77:** Tua bang ahi kei hi. Gentailte’ biakna in Pasian a biakna uh hi loin, dawigilote a biakna uh ahi hi. Note dawigilote tawh na kipawl ding uh ka deih kei hi.
+**TDB77:** Tua bang ahi kei hi. Gentailte’ biakna in Pasian a biakna-te hi loin, dawigilote a biakna-te ahi hi. Note dawigilote tawh na kipawl ding-te ka deih kei hi.
 
-**ZVS:** Ka cihnopna pen, lawkite in gan a gawh uh ciangin dawi a biakna uh hi a, Pasian a biakna uh hilo hi. Dawi biakna-ah note na kihel ding uh ka hong deih kei hi.
+**ZVS:** Ka cihnopna pen, lawkite in gan a gawh-te ciangin dawi a biakna-te hi a, Pasian a biakna-te hilo hi. Dawi biakna-ah note na kihel ding-te ka hong deih kei hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** Ye cannot drink the cup of the Lord, and the cup of devils: ye cannot be partakers of the Lord's table, and of the table of devils.
 
-**TDB77:** Topa’ hai leh dawigilote’ hai na dawnkhawm zo kei ding uh hi. Topa’ sabuai leh dawigilote’ sabuai-ah an na nekhawm zo kei ding uh hi.
+**TDB77:** Topa’ hai leh dawigilote’ hai na dawnkhawm zo kei ding-te hi. Topa’ sabuai leh dawigilote’ sabuai-ah an na nekhawm zo kei ding-te hi.
 
-**ZVS:** Note in Topa tawh nekkhawmna hai sung pan leh dawi tawh nekkhawmna hai sung panin na dawnkhawm thei kei ding uh hi. Topa tawh nekkhawmna an leh dawi tawh nekkhawmna an zong na nekhawm thei kei ding uh hi.
+**ZVS:** Note in Topa tawh nekkhawmna hai sung pan leh dawi tawh nekkhawmna hai sung panin na dawnkhawm thei kei ding-te hi. Topa tawh nekkhawmna an leh dawi tawh nekkhawmna an zong na nekhawm thei kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -215,7 +215,7 @@
 ### v23
 **EN:** All things are lawful for me, but all things are not expedient: all things are lawful for me, but all things edify not.
 
-**TDB77:** Na khempeuh i bawl theih hangin na khempeuh hih ding a kilawm kei hi. Thu khempeuh i hih theih hangin thu khempeuh in hong kipsak thei kei uh hi.
+**TDB77:** Na khempeuh i bawl theih hangin na khempeuh hih ding a kilawm kei hi. Thu khempeuh i hih theih hangin thu khempeuh in hong kipsak thei kei-te hi.
 
 **ZVS:** “Ka ut peuhpeuh ka hihtheihna ding thu om hi,” a ci omkha ding hi. Ahi zongin na khempeuh ka hihding kilawmlo hi. Na khempeuh hihtheihna ding thu a om hangin a kihihthei khempeuh hihna in midangte' hoihna ding piangsaklo hi.
 
@@ -233,21 +233,21 @@
 
 **TDB77:** Kitheihna lungsim tawh ngaihsunin sumbuka kizuak khempeuh teldot loin na ne un.
 
-**ZVS:** Na lungsim uhah kisuan'na a omlohna dingin sa zuakna-ah a kizuak sa peuhpeuh bang sa ahi hiam, ci-in dong se loin na ututun na nethei ding uh hi.
+**ZVS:** Na lungsim uhah kisuan'na a omlohna dingin sa zuakna-ah a kizuak sa peuhpeuh bang sa ahi hiam, ci-in dong se loin na ututun na nethei ding-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v26
 **EN:** For the earth is the Lord's, and the fulness thereof.
 
-**TDB77:** Bang hang hiam na cih uh leh, leitung leh leitung-ah a om khempeuh in Topa’ aa ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, leitung leh leitung-ah a om khempeuh in Topa’ aa ahi hi.
 
 **ZVS:** Bang hang hiam cih leh Lai Siangtho in, “Leitung leh a sungah a om khempeuh pen Topa-a' ahi hi,” na ci hi.
 
 ### v27
 **EN:** If any of them that believe not bid you to a feast, and ye be disposed to go; whatsoever is set before you, eat, asking no question for conscience sake.
 
-**TDB77:** A um lote khat in no hong vaak dingin hong sam a, na hawh nop uh leh, kitheihna lungsim tawh ngaihsunin na mai uhah hong kilui khempeuh teldot loin na ne un.
+**TDB77:** A um lote khat in no hong vaak dingin hong sam a, na hawh nop-te leh, kitheihna lungsim tawh ngaihsunin na mai uhah hong kilui khempeuh teldot loin na ne un.
 
 **ZVS:** Thu umlo mi khat in an nekpih dingin hong samin tua an ne dingin na pai leh, na lungsimah kisuan'na a omlohna dingin bang sa ahi hiam, ci-in dong se loin ne lel in.
 
@@ -256,7 +256,7 @@
 ### v28
 **EN:** But if any man say unto you, This is offered in sacrifice unto idols, eat not for his sake that shewed it, and for conscience sake: for the earth is the Lord's, and the fulness thereof:
 
-**TDB77:** Ahi zongin mikhat in, “Hihte milim biakna sa ahi hi,” ci-in hong gen leh, tua hong lak mi na khualna uh leh kitheihna lungsim tawh ngaihsunin na ne kei un.
+**TDB77:** Ahi zongin mikhat in, “Hihte milim biakna sa ahi hi,” ci-in hong gen leh, tua hong lak mi na khualna-te leh kitheihna lungsim tawh ngaihsunin na ne kei un.
 
 **ZVS:** Ahi zongin mi khatpeuh in, “Milim biakna sa hi,” hong cih leh, tua a hong gen mipa na khualna leh nangma lungsim nopmawhna a omlohna dingin ne kei pah in.
 
@@ -265,7 +265,7 @@
 ### v29
 **EN:** Conscience, I say, not thine own, but of the other: for why is my liberty judged of another man's conscience?
 
-**TDB77:** Kitheihna lungsim ka cihna ah, nangma kitheih theihna lungsim ka cihna ahi kei hi. Ama kitheih theihna lungsim ka cihnopna hi. Bang hang hiam na cih uh leh, midangte’ kitheih theihna lungsim in bang hangin kei thu hong khen ding ahi hiam?
+**TDB77:** Kitheihna lungsim ka cihna ah, nangma kitheih theihna lungsim ka cihna ahi kei hi. Ama kitheih theihna lungsim ka cihnopna hi. Bang hang hiam na cih-te leh, midangte’ kitheih theihna lungsim in bang hangin kei thu hong khen ding ahi hiam?
 
 **ZVS:** Nangma lungsim nuamlo ding cihna hiloin a hong genpa' lungsim nuamlo ding ahih manin ne kei in, a ci ka hi hi. Mi pawlkhat in, “Bang hangin kei' gamtatna ding mite' ngaihsutna in hong khaktan thei ding ahi hiam?
 
@@ -281,7 +281,7 @@
 ### v31
 **EN:** Whether therefore ye eat, or drink, or whatsoever ye do, do all to the glory of God.
 
-**TDB77:** Tua ahih ciangin note in anneek tuidawn akipan na khempeuh na bawl uh ciangin Pasian’ minthan’ nading ngaihsunin na hih un.
+**TDB77:** Tua ahih ciangin note in anneek tuidawn akipan na khempeuh na bawl-te ciangin Pasian’ minthan’ nading ngaihsunin na hih un.
 
 **ZVS:** Tua ahih manin keimah in ka hong gennop thu in: Na hihna khempeuh uh, nekna dawnna-ah ahi zongin Pasian' minthan'na dingin na hih un.
 

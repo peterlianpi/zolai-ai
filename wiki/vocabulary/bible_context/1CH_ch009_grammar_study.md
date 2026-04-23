@@ -32,18 +32,18 @@
 ### v2
 **EN:** Now the first inhabitants that dwelt in their possessions in their cities were, the Israelites, the priests, Levites, and the Nethinims.
 
-**TDB77:** Tu-in amau’ neihsa amau’ khuapite’ sungah a teeng kik masate in Israel nautangte, siampite, Levi mite, leh biakinn nasemte ahi uh hi.
+**TDB77:** Tu-in amau’ neihsa amau’ khuapite’ sungah a teeng kik masate in Israel nautangte, siampite, Levi mite, leh biakinn nasemte ahi-te hi.
 
-**ZVS:** Tu-in amau' neihsa amau' khuapite sungah a tengkik masate pen Israel nautangte, siampite, Levi mite, leh biakinn nasemte ahi uh hi.
+**ZVS:** Tu-in amau' neihsa amau' khuapite sungah a tengkik masate pen Israel nautangte, siampite, Levi mite, leh biakinn nasemte ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And in Jerusalem dwelt of the children of Judah, and of the children of Benjamin, and of the children of Ephraim, and Manasseh;
 
-**TDB77:** Tua ciangin Judah, Benjamin, Efraim, leh Manasseh mi pawl khat Jerusalem ah teeng uh a, tuate in:
+**TDB77:** Tua ciangin Judah, Benjamin, Efraim, leh Manasseh mi pawl khat Jerusalem ah teeng-te a, tuate in:
 
-**ZVS:** Tua ciangin Judah, Benjamin, Efraim, leh Manasseh mi pawlkhat Jerusalem-ah teng uh a, tua a tengte:
+**ZVS:** Tua ciangin Judah, Benjamin, Efraim, leh Manasseh mi pawlkhat Jerusalem-ah teng-te a, tua a tengte:
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -89,9 +89,9 @@
 ### v9
 **EN:** And their brethren, according to their generations, nine hundred and fifty and six. All these men were chief of the fathers in the house of their fathers.
 
-**TDB77:** Benjamin minamte sung panin innkuan za kua leh sawmnga-le-guk ahi hi. Hih min kilote khempeuhte in amau’ beh ciatah beh lutangte ahi uh hi.
+**TDB77:** Benjamin minamte sung panin innkuan za kua leh sawmnga-le-guk ahi hi. Hih min kilote khempeuhte in amau’ beh ciatah beh lutangte ahi-te hi.
 
-**ZVS:** Benjamin minamte sung panin innkuan za kua leh sawmnga leh guk ahi hi. Hih min kilote khempeuh pen amau' beh ciatah beh lutangte ahi uh hi.
+**ZVS:** Benjamin minamte sung panin innkuan za kua leh sawmnga leh guk ahi hi. Hih min kilote khempeuh pen amau' beh ciatah beh lutangte ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -156,18 +156,18 @@
 ### v18
 **EN:** Who hitherto waited in the king's gate eastward: they were porters in the companies of the children of Levi.
 
-**TDB77:** Tu dongin Kumpipa’ Kulhkongpi nisuahna lam pangah a omte ahi uh hi. Hihte in Levi mite omna kongcingte ahi ngei uh hi.
+**TDB77:** Tu dongin Kumpipa’ Kulhkongpi nisuahna lam pangah a omte ahi-te hi. Hihte in Levi mite omna kongcingte ahi ngei-te hi.
 
-**ZVS:** Tudongin Kumpipa' Kulhkongpi nisuahna lampangah a omte ahi uh hi. Hihte pen Levi mite' omna kongcingte ahi ngei uh hi.
+**ZVS:** Tudongin Kumpipa' Kulhkongpi nisuahna lampangah a omte ahi-te hi. Hihte pen Levi mite' omna kongcingte ahi ngei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v19
 **EN:** And Shallum the son of Kore, the son of Ebiasaph, the son of Korah, and his brethren, of the house of his father, the Korahites, were over the work of the service, keepers of the gates of the tabernacle: and their fathers, being over the host of the
 
-**TDB77:** A pu a pate un lutna mun a cing, Topa’ phual a ukte ahih mah bangin Korah’ tapa Ebiasaf, a tapa Kore’ tapa Shallum, leh a behte ahi Korah mite in nasepna a uk, puanbuk kong a cingte ahi uh hi.
+**TDB77:** A pu a pate un lutna mun a cing, Topa’ phual a ukte ahih mah bangin Korah’ tapa Ebiasaf, a tapa Kore’ tapa Shallum, leh a behte ahi Korah mite in nasepna a uk, puanbuk kong a cingte ahi-te hi.
 
-**ZVS:** A pu a pate uh, biakbuk lutna mun a cing, { Topa' } phual a ukte ahih uh mah bangin Korah' tapa Ebiasaf, a tapa Kore' tapa Shallum, leh a behte ahi Korah mite pen nasepna a uk, puanbuk kong a cingte ahi uh hi.
+**ZVS:** A pu a pate uh, biakbuk lutna mun a cing, { Topa' } phual a ukte ahih-te mah bangin Korah' tapa Ebiasaf, a tapa Kore' tapa Shallum, leh a behte ahi Korah mite pen nasepna a uk, puanbuk kong a cingte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -190,63 +190,63 @@
 ### v22
 **EN:** All these which were chosen to be porters in the gates were two hundred and twelve. These were reckoned by their genealogy in their villages, whom David and Samuel the seer did ordain in their set office.
 
-**TDB77:** Sangkil-ah kongcing-in a kitel hih mite khempeuh in zanih leh sawm-le-nih ahi hi. Amaute a khuaneute uh-a khangsimna ah kiciamteh uh hi. David leh thu-mupa Samuel in amau’ panmun-ah amaute phut hi.
+**TDB77:** Sangkil-ah kongcing-in a kitel hih mite khempeuh in zanih leh sawm-le-nih ahi hi. Amaute a khuaneute uh-a khangsimna ah kiciamteh-te hi. David leh thu-mupa Samuel in amau’ panmun-ah amaute phut hi.
 
-**ZVS:** Kongcingin a kiteel hih mite khempeuh za nih leh sawmlenih ahi hi. Amaute pen a khuaneute uh-a khangsimna-ah kiciamteh uh hi. David leh thumupa Samuel in amau' pan'mun-ah amaute phut hi.
+**ZVS:** Kongcingin a kiteel hih mite khempeuh za nih leh sawmlenih ahi hi. Amaute pen a khuaneute uh-a khangsimna-ah kiciamteh-te hi. David leh thumupa Samuel in amau' pan'mun-ah amaute phut hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** So they and their children had the oversight of the gates of the house of the
 
-**TDB77:** Tua ahih ciangin amaute leh a suan a khakte un Topa’ inn kulhkongpite a uk, puanbuk inn a cingte ahi uh hi.
+**TDB77:** Tua ahih ciangin amaute leh a suan a khakte un Topa’ inn kulhkongpite a uk, puanbuk inn a cingte ahi-te hi.
 
-**ZVS:** Tua ahih ciangin amaute leh a suan a khakte uh { Topa' } biakinn kulhkongpite a uk, a cingte ahi uh hi.
+**ZVS:** Tua ahih ciangin amaute leh a suan a khakte-te { Topa' } biakinn kulhkongpite a uk, a cingte ahi-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v24
 **EN:** In four quarters were the porters, toward the east, west, north, and south.
 
-**TDB77:** Kongpi cingte in a pang li, nisuahna, nitumna, leilu, leh leitaw lamah om uh hi;
+**TDB77:** Kongpi cingte in a pang li, nisuahna, nitumna, leilu, leh leitaw lamah om-te hi;
 
-**ZVS:** Kongpi cingte pen a pang li, nisuahna, nitumna, leilu, leh leitaw lamah om uh hi.
+**ZVS:** Kongpi cingte pen a pang li, nisuahna, nitumna, leilu, leh leitaw lamah om-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v25
 **EN:** And their brethren, which were in their villages, were to come after seven days from time to time with them.
 
-**TDB77:** tua ciangin amau’ khuaneute sungah a om a behte uh hih mite tawh a om dingin a hun hunin ni sagih simin hong pai ding uh a kisam ahi hi;
+**TDB77:** tua ciangin amau’ khuaneute sungah a om a behte-te hih mite tawh a om dingin a hun hunin ni sagih simin hong pai ding-te a kisam ahi hi;
 
-**ZVS:** Tua ciangin amau' khuaneute sungah a om a behte uh hih mite tawh a om dingin a hun hunin ni sagih simin a hong pai ding uh a kisam ahi hi.
+**ZVS:** Tua ciangin amau' khuaneute sungah a om a behte-te hih mite tawh a om dingin a hun hunin ni sagih simin a hong pai ding-te a kisam ahi hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** For these Levites, the four chief porters, were in their set office, and were over the chambers and treasuries of the house of God.
 
-**TDB77:** bang hang hiam cih leh Levi mi ahi kongpi a cing ukpi lite in inn sungte leh Pasian’ inn van manpha koihnate a uk ahi uh hi.
+**TDB77:** bang hang hiam cih leh Levi mi ahi kongpi a cing ukpi lite in inn sungte leh Pasian’ inn van manpha koihnate a uk ahi-te hi.
 
-**ZVS:** Bang hang hiam cih leh Levi mi kongpi a cing ukpi lite pen biakinn sungte leh Pasian' biakinn van manpha koihnate a uk ahi uh hi.
+**ZVS:** Bang hang hiam cih leh Levi mi kongpi a cing ukpi lite pen biakinn sungte leh Pasian' biakinn van manpha koihnate a uk ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v27
 **EN:** And they lodged round about the house of God, because the charge was upon them, and the opening thereof every morning pertained to them.
 
-**TDB77:** Pasian’ inn kiimah amaute giak uh hi; bang hang hiam cih leh amaute tungah vilna nasep leh zingsang simin kong a hon’ dingin nasep kiguan hi.
+**TDB77:** Pasian’ inn kiimah amaute giak-te hi; bang hang hiam cih leh amaute tungah vilna nasep leh zingsang simin kong a hon’ dingin nasep kiguan hi.
 
-**ZVS:** Pasian' biakinn kiimah amaute giak uh hi; bang hang hiam cih leh amaute tungah vilna nasep, leh zingsang simin kong a hon' ding uh nasep kiguan hi.
+**ZVS:** Pasian' biakinn kiimah amaute giak-te hi; bang hang hiam cih leh amaute tungah vilna nasep, leh zingsang simin kong a hon' ding-te nasep kiguan hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** And certain of them had the charge of the ministering vessels, that they should bring them in and out by tale.
 
-**TDB77:** Amaute pawlkhat in biakinn sunga kizang um-le-beelte uk uh hi; bang hang hiam cih leh tua nazatte hong kitumpih ciang hita leh a kilakkhiat ciang hita leh a mal zah a sim ding uh kisam hi.
+**TDB77:** Amaute pawlkhat in biakinn sunga kizang um-le-beelte uk-te hi; bang hang hiam cih leh tua nazatte hong kitumpih ciang hita leh a kilakkhiat ciang hita leh a mal zah a sim ding-te kisam hi.
 
-**ZVS:** Amaute pawlkhat in biakinn sunga kizang umlebeelte uk uh hi; bang hang hiam cih leh tua nazatte hong kitumpih ciang hita leh a kilakkhiat ciang hita leh a malzah a sim ding uh kisam hi.
+**ZVS:** Amaute pawlkhat in biakinn sunga kizang umlebeelte uk-te hi; bang hang hiam cih leh tua nazatte hong kitumpih ciang hita leh a kilakkhiat ciang hita leh a malzah a sim ding-te kisam hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -262,9 +262,9 @@
 ### v30
 **EN:** And some of the sons of the priests made the ointment of the spices.
 
-**TDB77:** Siampite’ ta adangte in a namtui nate hel dingin bawl uh a,
+**TDB77:** Siampite’ ta adangte in a namtui nate hel dingin bawl-te a,
 
-**ZVS:** Siampite' ta a dangte in a namtui nate hel dingin bawl uh a,
+**ZVS:** Siampite' ta a dangte in a namtui nate hel dingin bawl-te a,
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -280,27 +280,27 @@
 ### v32
 **EN:** And other of their brethren, of the sons of the Kohathites, were over the shewbread, to prepare it every sabbath.
 
-**TDB77:** Kohath mi amau’ behte pawlkhat in zong sabbath simin koih ding Ompihna Anlum uk uh hi.
+**TDB77:** Kohath mi amau’ behte pawlkhat in zong sabbath simin koih ding Ompihna Anlum uk-te hi.
 
-**ZVS:** Kohath mi amau' behte pawlkhat in zong Sabbath simin koih ding Ompihna Anlum uk uh hi.
+**ZVS:** Kohath mi amau' behte pawlkhat in zong Sabbath simin koih ding Ompihna Anlum uk-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v33
 **EN:** And these are the singers, chief of the fathers of the Levites, who remaining in the chambers were free: for they were employed in that work day and night.
 
-**TDB77:** Tu-in hihte in lasate, Levi mi beh lutangte, nasep dangte panin pengin biakinn deite sungah a teengte ahi uh hi; bang hang hiam cih leh amaute in sun leh zanin na sem uh hi.
+**TDB77:** Tu-in hihte in lasate, Levi mi beh lutangte, nasep dangte panin pengin biakinn deite sungah a teengte ahi-te hi; bang hang hiam cih leh amaute in sun leh zanin na sem-te hi.
 
-**ZVS:** Tu-in hihte pen lasate, Levi mi beh lutangte, nasep dangte panin pengin biakinn deite sungah a tengte ahi uh hi. Bang hang hiam cih leh amaute in sun leh zanin na sem uh hi.
+**ZVS:** Tu-in hihte pen lasate, Levi mi beh lutangte, nasep dangte panin pengin biakinn deite sungah a tengte ahi-te hi. Bang hang hiam cih leh amaute in sun leh zanin na sem-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v34
 **EN:** These chief fathers of the Levites were chief throughout their generations; these dwelt at Jerusalem.
 
-**TDB77:** Hihte in Jerusalem ah a teeng amau’ khang tawh kizui-in makaite, Levi mi beh lutangte ahi uh hi.
+**TDB77:** Hihte in Jerusalem ah a teeng amau’ khang tawh kizui-in makaite, Levi mi beh lutangte ahi-te hi.
 
-**ZVS:** Hihte pen Jerusalem-ah a teng amau' khang tawh kizui-in makaite, Levi mi beh lutangte ahi uh hi.
+**ZVS:** Hihte pen Jerusalem-ah a teng amau' khang tawh kizui-in makaite, Levi mi beh lutangte ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -327,14 +327,14 @@
 
 **TDB77:** Gedor, Ahio, Zekhariah, leh Mikloth ahi hi;
 
-**ZVS:** Gedor, Ahio, Zekhariah, leh Mikloth ahi uh hi.
+**ZVS:** Gedor, Ahio, Zekhariah, leh Mikloth ahi-te hi.
 
 ### v38
 **EN:** And Mikloth begat Shimeam. And they also dwelt with their brethren at Jerusalem, over against their brethren.
 
-**TDB77:** tua ciangin Mikloth in Shifeam’ pa ahi hi; amau’ suan leh khakte zong Jerusalem a, a behte uh gal khatah a behte uh tawh teeng uh hi.
+**TDB77:** tua ciangin Mikloth in Shifeam’ pa ahi hi; amau’ suan leh khakte zong Jerusalem a, a behte-te gal khatah a behte-te tawh teeng-te hi.
 
-**ZVS:** Mikloth pen Shimeah' pa ahi hi. Amau' suanlekhakte zong Jerusalem-a a behte uh galkhatah a behte uh tawh teng uh hi.
+**ZVS:** Mikloth pen Shimeah' pa ahi hi. Amau' suanlekhakte zong Jerusalem-a a behte-te galkhatah a behte-te tawh teng-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -357,9 +357,9 @@
 ### v41
 **EN:** And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz.
 
-**TDB77:** Mikah tapate in: Pithon, Melek, Tahrea, leh Ahaz ahi uh hi;
+**TDB77:** Mikah tapate in: Pithon, Melek, Tahrea, leh Ahaz ahi-te hi;
 
-**ZVS:** Mikah' tapate: Pithon, Melek, Tahrea, leh Ahaz ahi uh hi.
+**ZVS:** Mikah' tapate: Pithon, Melek, Tahrea, leh Ahaz ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -380,9 +380,9 @@
 ### v44
 **EN:** And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan: these were the sons of Azel.
 
-**TDB77:** Azel in tapa guk nei a, amau’ minte in: Azrikam, Bokheru, Ishmael, Sheraiah, Obadiah, leh Hanan ahi uh hi; hihte in Azel’ tapate ahi uh hi.
+**TDB77:** Azel in tapa guk nei a, amau’ minte in: Azrikam, Bokheru, Ishmael, Sheraiah, Obadiah, leh Hanan ahi-te hi; hihte in Azel’ tapate ahi-te hi.
 
-**ZVS:** Azel in tapa guk nei a, tuate' min: Azrikam, Bokheru, Ishmael, Sheariah, Obadiah, leh Hanan ahi uh hi. Hihte pen Azel' tapate ahi uh hi.
+**ZVS:** Azel in tapa guk nei a, tuate' min: Azrikam, Bokheru, Ishmael, Sheariah, Obadiah, leh Hanan ahi-te hi. Hihte pen Azel' tapate ahi-te hi.
 
 **Grammar:** plural: uh marker
 

@@ -25,7 +25,7 @@
 ### v1
 **EN:** My brethren, be not many masters, knowing that we shall receive the greater condemnation.
 
-**TDB77:** Ka u ka naute aw, Sia a sem kote in a khauhzaw thukhenna thuak ding ka hih manun note a tampi Sia suah ding na sawm kei un. Bang hang hiam na cih uh leh eite in thudotna i thuak zaw ding hi ci-in na thei ta un.
+**TDB77:** Ka u ka naute aw, Sia a sem kote in a khauhzaw thukhenna thuak ding ka hih manun note a tampi Sia suah ding na sawm kei un. Bang hang hiam na cih-te leh eite in thudotna i thuak zaw ding hi ci-in na thei ta un.
 
 **ZVS:** Sanggamte aw, mite tungah thu a hilh eite pen midangte sangin a khauhzaw-in thu hong kikhen ding ahih manin note tampi sia na suaknuam se kei un.
 
@@ -52,7 +52,7 @@
 ### v4
 **EN:** Behold also the ships, which though they be so great, and are driven of fierce winds, yet are they turned about with a very small helm, whithersoever the governor listeth.
 
-**TDB77:** Ngai un, teembawte a lian mahmah uh a, huihpi in nakpi-in a mut hangin heina lenpa in a deih bangin, a neu mahmah heina tawh a hei thei hi.
+**TDB77:** Ngai un, teembawte a lian mahmah-te a, huihpi in nakpi-in a mut hangin heina lenpa in a deih bangin, a neu mahmah heina tawh a hei thei hi.
 
 **ZVS:** Teembawte ngaihsun dih un. Teembaw lian mahmah a, huihpi in nakpi takin a mut hangin a hawlpa' deihna bangin a heina neu khat tawh ki-ukzo hi.
 
@@ -77,9 +77,9 @@
 ### v7
 **EN:** For every kind of beasts, and of birds, and of serpents, and of things in the sea, is tamed, and hath been tamed of mankind:
 
-**TDB77:** Ganhing apawlpawl khempeuh, vasa apawl apawl khempeuh leh tuipi sungah a om apawl apawl khempeuh mite in a zualsak zo uh hi.
+**TDB77:** Ganhing apawlpawl khempeuh, vasa apawl apawl khempeuh leh tuipi sungah a om apawl apawl khempeuh mite in a zualsak zo-te hi.
 
-**ZVS:** Mihingte in gamsa, vasa, a bokvak ganhing leh tui sunga om ngasate-a kipan ganhing khempeuh zualsakin ukzo uh hi.
+**ZVS:** Mihingte in gamsa, vasa, a bokvak ganhing leh tui sunga om ngasate-a kipan ganhing khempeuh zualsakin ukzo-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -138,7 +138,7 @@
 
 **TDB77:** Ahih hangin note lungsim sung uhah hazatna leh kidemna siatna a om leh, thuman thutak tawh kilem loin kisathei kei un.
 
-**ZVS:** Ahi zongin na lungsim uhah en'na, gitlohna, leh huaihamna a om leh a zuaugen na hi uh a, pil ing, ci-in kisialhna ding bangmah omlo hi.
+**ZVS:** Ahi zongin na lungsim uhah en'na, gitlohna, leh huaihamna a om leh a zuaugen na hi-te a, pil ing, ci-in kisialhna ding bangmah omlo hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -154,7 +154,7 @@
 ### v16
 **EN:** For where envying and strife is, there is confusion and every evil work.
 
-**TDB77:** Bang hang hiam na cih uh leh, hazatna leh kidem nopna a om leh, gamlumna leh a kihhuai gilo bawlna apawl apawl a piangsak uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, hazatna leh kidem nopna a om leh, gamlumna leh a kihhuai gilo bawlna apawl apawl a piangsak-te hi.
 
 **ZVS:** En'na leh huaihamna a om nak leh buaina leh siatna nam khempeuh tawh kizom pahpah hi.
 

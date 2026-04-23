@@ -38,18 +38,18 @@
 ### v2
 **EN:** Son of man, speak unto Pharaoh king of Egypt, and to his multitude; Whom art thou like in thy greatness?
 
-**TDB77:** “Ezekiel aw, Izipt kumpipa Faro leh ama mite’ kiangah hih bangin gen in: Na lian mahmah uh a, kong tehpih theih ding om lo hi.
+**TDB77:** “Ezekiel aw, Izipt kumpipa Faro leh ama mite’ kiangah hih bangin gen in: Na lian mahmah-te a, kong tehpih theih ding om lo hi.
 
-**ZVS:** “Mihing ahi Ezekiel aw, Egypt kumpipa Faro leh ama mite' kiangah hih bangin gen in: “Na lian mahmah uh a, kong tehpihtheih ding kuamah omlo hi.
+**ZVS:** “Mihing ahi Ezekiel aw, Egypt kumpipa Faro leh ama mite' kiangah hih bangin gen in: “Na lian mahmah-te a, kong tehpihtheih ding kuamah omlo hi.
 
 **Grammar:** intensifier: very/greatly | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Behold, the Assyrian was a cedar in Lebanon with fair branches, and with a shadowing shroud, and of an high stature; and his top was among the thick boughs.
 
-**TDB77:** A hiangte hoih-in pha mahmah a, a kung sang mahmahin meii lak a ban, Lebanon-a taamtaak tawh na kibang uh hi.
+**TDB77:** A hiangte hoih-in pha mahmah a, a kung sang mahmahin meii lak a ban, Lebanon-a taamtaak tawh na kibang-te hi.
 
-**ZVS:** A hiangte hoihin pha mahmah a, a kung sang mahmahin meii lak a ban, Lebanon-a a po taamtak tawh na kibang uh hi.
+**ZVS:** A hiangte hoihin pha mahmah a, a kung sang mahmahin meii lak a ban, Lebanon-a a po taamtak tawh na kibang-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -58,7 +58,7 @@
 
 **TDB77:** A khangsak ding tui om a, lei sung pan an a pia ding tui om hi. Tua sing a pona mun tui kawt a, gamsung sing khempeuh in zong tui ngah hi.
 
-**ZVS:** A khangsak ding tui om a, leisung panin an a pia ding tui om hi. Tua sing a pona mun tui kawt a, gamsung sing khempeuh in zong tui a ngah uh hi.
+**ZVS:** A khangsak ding tui om a, leisung panin an a pia ding tui om hi. Tua sing a pona mun tui kawt a, gamsung sing khempeuh in zong tui a ngah-te hi.
 
 ### v5
 **EN:** Therefore his height was exalted above all the trees of the field, and his boughs were multiplied, and his branches became long because of the multitude of waters, when he shot forth.
@@ -72,9 +72,9 @@
 ### v6
 **EN:** All the fowls of heaven made their nests in his boughs, and under his branches did all the beasts of the field bring forth their young, and under his shadow dwelt all great nations.
 
-**TDB77:** Vasa nam khempeuh in a hiang tungah bu tom uh a, ganhing nam khempeuh in a limnuai, ta suahna-in nei uh hi. Leitung minam khempeuh in zong, a limnuai belh-in nei uh hi.
+**TDB77:** Vasa nam khempeuh in a hiang tungah bu tom-te a, ganhing nam khempeuh in a limnuai, ta suahna-in nei-te hi. Leitung minam khempeuh in zong, a limnuai belh-in nei-te hi.
 
-**ZVS:** Vasa nam khempeuh in a hiang tungah bu tom uh a, ganhing nam khempeuh in a limnuai, tasuahna-in a nei uh hi. Leitung minam khempeuh in zong a limnuai belhin a nei uh hi.
+**ZVS:** Vasa nam khempeuh in a hiang tungah bu tom-te a, ganhing nam khempeuh in a limnuai, tasuahna-in a nei-te hi. Leitung minam khempeuh in zong a limnuai belhin a nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -126,16 +126,16 @@
 ### v12
 **EN:** And strangers, the terrible of the nations, have cut him off, and have left him: upon the mountains and in all the valleys his branches are fallen, and his boughs are broken by all the rivers of the land; and all the people of the earth are gone down from his shadow, and have left him.
 
-**TDB77:** Thu khualna a nei lo gamdang mite in tua singkung phukin nusia cip ding uh hi. Mual khempeuh leh guam khempeuh ah, a hiang kitante kia ding uh hi. A liim a beel minam khempeuh in taisan ta ding uh hi.
+**TDB77:** Thu khualna a nei lo gamdang mite in tua singkung phukin nusia cip ding-te hi. Mual khempeuh leh guam khempeuh ah, a hiang kitante kia ding-te hi. A liim a beel minam khempeuh in taisan ta ding-te hi.
 
-**ZVS:** Thukhualna a neilo gamdang mite in tua singkung phukin a nusiacip ding uh hi. Mual khempeuh leh guam khempeuhah a hiang kitante a kia ding uh hi. A lim a bel minam khempeuh in taisanta ding uh hi.
+**ZVS:** Thukhualna a neilo gamdang mite in tua singkung phukin a nusiacip ding-te hi. Mual khempeuh leh guam khempeuhah a hiang kitante a kia ding-te hi. A lim a bel minam khempeuh in taisanta ding-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Upon his ruin shall all the fowls of the heaven remain, and all the beasts of the field shall be upon his branches:
 
-**TDB77:** Vasate hong leengin tua sing puk tungah tuang ding uh a, gamsate in a hiangte tuancil ding uh hi.
+**TDB77:** Vasate hong leengin tua sing puk tungah tuang ding-te a, gamsate in a hiangte tuancil ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -160,18 +160,18 @@
 ### v16
 **EN:** I made the nations to shake at the sound of his fall, when I cast him down to hell with them that descend into the pit: and all the trees of Eden, the choice and best of Lebanon, all that drink water, shall be comforted in the nether parts of the earth.
 
-**TDB77:** Mi site’ omna Leinuai khua-ah tua singkung ka khiat suk ciangin, a kiatna ging in minam khempeuh lok gawp ding hi. Tua singkung a kiat manin, Eden singkung khempeuh, leh a hoihpen, lim takin tui a ngah Lebanon singkungte khempeuh in zong Leinuai-ah nuamtuam na sa ding uh hi.
+**TDB77:** Mi site’ omna Leinuai khua-ah tua singkung ka khiat suk ciangin, a kiatna ging in minam khempeuh lok gawp ding hi. Tua singkung a kiat manin, Eden singkung khempeuh, leh a hoihpen, lim takin tui a ngah Lebanon singkungte khempeuh in zong Leinuai-ah nuamtuam na sa ding-te hi.
 
-**ZVS:** Misite' omna Leinuai khua-ah tua singkung ka khiatsuk ciangin, a kiatna ging in minam khempeuh lokgawp ding hi. Tua singkung a kiat manin Eden singkung khempeuh, leh a hoihpen, limtakin tui a ngah Lebanon singkungte khempeuh in zong Leinuai-ah nuamtuam na sa ding uh hi.
+**ZVS:** Misite' omna Leinuai khua-ah tua singkung ka khiatsuk ciangin, a kiatna ging in minam khempeuh lokgawp ding hi. Tua singkung a kiat manin Eden singkung khempeuh, leh a hoihpen, limtakin tui a ngah Lebanon singkungte khempeuh in zong Leinuai-ah nuamtuam na sa ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** They also went down into hell with him unto them that be slain with the sword; and they that were his arm, that dwelt under his shadow in the midst of the heathen.
 
-**TDB77:** Bang hang hiam cih leh a sisate a zuan dingin mi site omna Leinuai-ah amah tawh a paikhawm uh ahi hi. Ama liim nuai a beelte khempeuh, minam dangte lakah kithehthang mang uh hi.
+**TDB77:** Bang hang hiam cih leh a sisate a zuan dingin mi site omna Leinuai-ah amah tawh a paikhawm-te ahi hi. Ama liim nuai a beelte khempeuh, minam dangte lakah kithehthang mang-te hi.
 
-**ZVS:** Bang hang hiam cih leh a sisate a zuan dingin misite' omna Leinuai-ah amah tawh a paikhawm ding uh hi. Ama limnuai a belte khempeuh, minam dangte' lakah kithehthang khin uh hi.
+**ZVS:** Bang hang hiam cih leh a sisate a zuan dingin misite' omna Leinuai-ah amah tawh a paikhawm ding-te hi. Ama limnuai a belte khempeuh, minam dangte' lakah kithehthang khin-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

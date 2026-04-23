@@ -51,9 +51,9 @@
 ### v5
 **EN:** By these were the isles of the Gentiles divided in their lands; every one after his tongue, after their families, in their nations.
 
-**TDB77:** Hihte pen tuipi gei-a teeng mite’ pu leh pa ahi uh hi. Amaute’ leitang-ah amau’ kampau ciat zangin, a beh, a minamin om uh hi.
+**TDB77:** Hihte pen tuipi gei-a teeng mite’ pu leh pa ahi-te hi. Amaute’ leitang-ah amau’ kampau ciat zangin, a beh, a minamin om-te hi.
 
-**ZVS:** Hihte pen tuipi gei-a teng mite' pulepa ahi uh hi. Amaute' leitangah amau' kam pau ciat zangin, a beh, a minamin a om uh hi.
+**ZVS:** Hihte pen tuipi gei-a teng mite' pulepa ahi-te hi. Amaute' leitangah amau' kam pau ciat zangin, a beh, a minamin a om-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -164,7 +164,7 @@
 ### v20
 **EN:** These are the sons of Ham, after their families, after their tongues, in their countries, and in their nations.
 
-**TDB77:** Hihte in, a innkuan, a kam pau, a leitang, a minamin Ham’ suan-le-khakte ahi uh hi.
+**TDB77:** Hihte in, a innkuan, a kam pau, a leitang, a minamin Ham’ suan-le-khakte ahi-te hi.
 
 **ZVS:** Hihte pen a innkuan, a kam pau, a leitang, a minamin Ham' suanlekhakte ahi hi.
 
@@ -229,7 +229,7 @@
 ### v29
 **EN:** And Ophir, and Havilah, and Jobab: all these were the sons of Joktan.
 
-**TDB77:** Ofir, Havilah, leh Jobab’ pian’na pa ahi hi; hihte khempeuh in Joktan’ tapate ahi uh hi.
+**TDB77:** Ofir, Havilah, leh Jobab’ pian’na pa ahi hi; hihte khempeuh in Joktan’ tapate ahi-te hi.
 
 **ZVS:** Ofir, Havilah, leh Jobab' pian'na pa ahi hi. Hihte khempeuh Joktan' tapate ahi hi.
 
@@ -247,7 +247,7 @@
 ### v31
 **EN:** These are the sons of Shem, after their families, after their tongues, in their lands, after their nations.
 
-**TDB77:** Hihte in, a innkuan, a kampau, a leitang, a minamin Shem’ suan-le-khakte ahi uh hi.
+**TDB77:** Hihte in, a innkuan, a kampau, a leitang, a minamin Shem’ suan-le-khakte ahi-te hi.
 
 **ZVS:** Hihte pen a innkuan, a kam pau, a leitang, a minamin Shem' suanlekhakte ahi hi.
 
@@ -256,7 +256,7 @@
 ### v32
 **EN:** These are the families of the sons of Noah, after their generations, in their nations: and by these were the nations divided in the earth after the flood.
 
-**TDB77:** Hihte in Noah’ tapate’ innkuan, a khangsimna tawh kizui-in amau’ minam ahi uh hi; tuiciin khit ciangin hihte’ tung panin leitungah minamte kizelthang hi.
+**TDB77:** Hihte in Noah’ tapate’ innkuan, a khangsimna tawh kizui-in amau’ minam ahi-te hi; tuiciin khit ciangin hihte’ tung panin leitungah minamte kizelthang hi.
 
 **ZVS:** Hihte pen Noah' tapate innkuan, a khangsimna tawh kizui-in amau' minam ahi hi. Tuiciin tun' khit ciangin hihte tung panin leitungah minamte kizelthang hi.
 

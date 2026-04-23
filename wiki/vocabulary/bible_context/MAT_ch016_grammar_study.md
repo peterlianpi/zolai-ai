@@ -25,27 +25,27 @@
 ### v1
 **EN:** The Pharisees also with the Sadducees came, and tempting desired him that he would shew them a sign from heaven.
 
-**TDB77:** Tua lai takin Farisaite leh Saddusite in, Zeisu ze-et dingin va nai uh a, “Vantung panin lim hong lak in,” ci-in a ngen uh hi.
+**TDB77:** Tua lai takin Farisaite leh Saddusite in, Zeisu ze-et dingin va nai-te a, “Vantung panin lim hong lak in,” ci-in a ngen-te hi.
 
-**ZVS:** Jesuh kiangah Farisi mite leh Saddusi mite pawlkhat a hong pai uh hi. Amaute in Jesuh a mawhsak theihna ding uh a deihna-in Pasian tawh a kipawl ahihna a lahna dingin lim khat a lah ding a ngen uh hi.
+**ZVS:** Jesuh kiangah Farisi mite leh Saddusi mite pawlkhat a hong pai-te hi. Amaute in Jesuh a mawhsak theihna ding-te a deihna-in Pasian tawh a kipawl ahihna a lahna dingin lim khat a lah ding a ngen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v2
 **EN:** He answered and said unto them,
 
-**TDB77:** Zeisu in, “Note in nitak ciangin, ‘Meii san ahih ciangin khua a pha ding hi,’ na ci thei uh hi.
+**TDB77:** Zeisu in, “Note in nitak ciangin, ‘Meii san ahih ciangin khua a pha ding hi,’ na ci thei-te hi.
 
-**ZVS:** Ahi zongin Jesuh in, “Ni a tum khit nitak ciangin, ‘Van san ahih manin khua pha ding hi,’ na ci uh hi.
+**ZVS:** Ahi zongin Jesuh in, “Ni a tum khit nitak ciangin, ‘Van san ahih manin khua pha ding hi,’ na ci-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v5
 **EN:** And when his disciples were come to the other side, they had forgotten to take bread.
 
-**TDB77:** A nungzuite gal khatah a pai uh ciangin, khomun puak ding a mangngilh uh hi.
+**TDB77:** A nungzuite gal khatah a pai-te ciangin, khomun puak ding a mangngilh-te hi.
 
-**ZVS:** Tui galkhat a tun' uh ciangin nungzuite in anlum a puak mangngilh lam uh a phawk uh hi.
+**ZVS:** Tui galkhat a tun' uh ciangin nungzuite in anlum a puak mangngilh lam-te a phawk-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -61,54 +61,54 @@
 ### v7
 **EN:** And they reasoned among themselves, saying, It is because we have taken no bread.
 
-**TDB77:** a nungzuite in, “Eite in khomun i pua kei hi,” ci-in khat leh khat a kikum uh hi.
+**TDB77:** a nungzuite in, “Eite in khomun i pua kei hi,” ci-in khat leh khat a kikum-te hi.
 
-**ZVS:** Tua ciangin nungzuite in, “Anlum i puak mangngilh manin hih thu hong gen hi ding hi,” ci-in amaute khatlekhat a kikum uh hi.
+**ZVS:** Tua ciangin nungzuite in, “Anlum i puak mangngilh manin hih thu hong gen hi ding hi,” ci-in amaute khatlekhat a kikum-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Which when Jesus perceived, he said unto them,
 
-**TDB77:** Zeisu in a theih ciangin, “Upna neu mite aw, khomun na neih loh manun, bang hangin khat leh khat na kikum uh hiam?
+**TDB77:** Zeisu in a theih ciangin, “Upna neu mite aw, khomun na neih loh manun, bang hangin khat leh khat na kikum-te hiam?
 
-**ZVS:** Jesuh in hih amaute' kihona thu thei ahih manin, “Upna neu mite aw, anlum na puakloh manun bang hangin kikum na hi uh hiam?
+**ZVS:** Jesuh in hih amaute' kihona thu thei ahih manin, “Upna neu mite aw, anlum na puakloh manun bang hangin kikum na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v12
 **EN:** Then understood they how that he bade them not beware of the leaven of bread, but of the doctrine of the Pharisees and of the Sadducees.
 
-**TDB77:** Tua lai takin amaute in, Khomun leh silngo tang un, a ci kei hi; “Farisaite leh Saddusite’ thuhilhna na tang un,” a ci ahih lam a thei uh hi.
+**TDB77:** Tua lai takin amaute in, Khomun leh silngo tang un, a ci kei hi; “Farisaite leh Saddusite’ thuhilhna na tang un,” a ci ahih lam a thei-te hi.
 
-**ZVS:** Tua bangin thu a gen ciangin anlum a kisawh silngo thu a gen hiloin, Farisi-te leh Saddusi-te' thuhilhna a gen ahihlam a phawk pan uh hi.
+**ZVS:** Tua bangin thu a gen ciangin anlum a kisawh silngo thu a gen hiloin, Farisi-te leh Saddusi-te' thuhilhna a gen ahihlam a phawk pan-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v13
 **EN:** When Jesus came into the coasts of Caesarea Philippi, he asked his disciples, saying,
 
-**TDB77:** Zeisu in Filippi-Kaisaria khua a tun’ ciangin, “Mite in kei, Mihing Tapa kua mi hi hong ci uh hiam?” ci-in a nungzuite a dong hi.
+**TDB77:** Zeisu in Filippi-Kaisaria khua a tun’ ciangin, “Mite in kei, Mihing Tapa kua mi hi hong ci-te hiam?” ci-in a nungzuite a dong hi.
 
-**ZVS:** Sisaria Filippi gam a tun' uh ciangin Jesuh in a nungzuite kiangah, “Mite in Mihing' Tapa kei kua hi hong ci uh ahi hiam?” ci-in a dong hi.
+**ZVS:** Sisaria Filippi gam a tun' uh ciangin Jesuh in a nungzuite kiangah, “Mite in Mihing' Tapa kei kua hi hong ci-te ahi hiam?” ci-in a dong hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v14
 **EN:** And they said, Some say that thou art John the Baptist: some, Elias; and others, Jeremiah, or one of the prophets.
 
-**TDB77:** Amaute in, “Mi kimkhat in, ‘Baptaizpa Johan,’ a ci uh hi. Kimkhat in, ‘Elijah’ a ci uh hi. Midangte in, ‘Jeremiah akipan Pasian’ kamsangte khatpeuh hi,’ a ci ciat uh hi,” ci-in a gen uh hi.
+**TDB77:** Amaute in, “Mi kimkhat in, ‘Baptaizpa Johan,’ a ci-te hi. Kimkhat in, ‘Elijah’ a ci-te hi. Midangte in, ‘Jeremiah akipan Pasian’ kamsangte khatpeuh hi,’ a ci ciat-te hi,” ci-in a gen-te hi.
 
-**ZVS:** Amaute in, “Pawlkhat in Tuiphumpa Johan hi, hong ci uh hi; pawlkhat in Elijah hi, hong ci uh hi; pawlkhat in Jeremiah ahih kei leh kamsang khat peuhpeuh hi ding hi, hong ci uh hi,” ci-in a dawng uh hi.
+**ZVS:** Amaute in, “Pawlkhat in Tuiphumpa Johan hi, hong ci-te hi; pawlkhat in Elijah hi, hong ci-te hi; pawlkhat in Jeremiah ahih kei leh kamsang khat peuhpeuh hi ding hi, hong ci-te hi,” ci-in a dawng-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** He saith unto them,
 
-**TDB77:** Zeisu in, “Note in kei kua mi hi nong ci uh hiam?” ci-in a dot ciangin
+**TDB77:** Zeisu in, “Note in kei kua mi hi nong ci-te hiam?” ci-in a dot ciangin
 
-**ZVS:** Tua ciangin Jesuh in amaute kiangah, “Tua ahih leh note in kei kua hi hong ci na hi uh hiam?” ci-in a dot ciangin
+**ZVS:** Tua ciangin Jesuh in amaute kiangah, “Tua ahih leh note in kei kua hi hong ci na hi-te hiam?” ci-in a dot ciangin
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 

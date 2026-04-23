@@ -32,9 +32,9 @@
 ### v2
 **EN:** How long will it be ere ye make an end of words? mark, and afterwards we will speak.
 
-**TDB77:** “Job aw, khawl hun nei thei lo ding na hi hiam? Hong khawl phot lecin, ko zong thu kong gen thei ding uh hi.
+**TDB77:** “Job aw, khawl hun nei thei lo ding na hi hiam? Hong khawl phot lecin, ko zong thu kong gen thei ding-te hi.
 
-**ZVS:** “Job aw, khawl hun nei theilo ding na hi hiam? Hong khawl phot lecin, thu kong gen thei ding uh hi.
+**ZVS:** “Job aw, khawl hun nei theilo ding na hi hiam? Hong khawl phot lecin, thu kong gen thei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -188,9 +188,9 @@
 ### v20
 **EN:** They that come after him shall be astonished at his day, as they that went before were affrighted.
 
-**TDB77:** Nisuahna pan nitumna dong ama thuakna a za peuhmah kigaih-in launa tawh liing uh hi.
+**TDB77:** Nisuahna pan nitumna dong ama thuakna a za peuhmah kigaih-in launa tawh liing-te hi.
 
-**ZVS:** Nisuahna pan nitumna dong ama thuakna a za peuhmah kigaihin a ling uh hi.
+**ZVS:** Nisuahna pan nitumna dong ama thuakna a za peuhmah kigaihin a ling-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -199,7 +199,7 @@
 
 **TDB77:** Migilote, Pasian a ngaihsun lote’ thu tawpna in hih bang mah ahi hi,” a ci hi.
 
-**ZVS:** Migilote, Pasian a ngaihsun lote a thutawpna uh tu-a bang ahi hi,” a ci hi.
+**ZVS:** Migilote, Pasian a ngaihsun lote a thutawpna-te tu-a bang ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying
 

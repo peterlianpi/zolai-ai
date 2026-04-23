@@ -44,9 +44,9 @@
 ### v3
 **EN:** And he hath put a new song in my mouth, even praise unto our God: many shall see it, and fear, and shall trust in the
 
-**TDB77:** Eima Pasian phatna la thak keima sungah hong koih hi. Mi tampi in mu-in zahtak ding a, amaute in Topa muang ding uh hi.
+**TDB77:** Eima Pasian phatna la thak keima sungah hong koih hi. Mi tampi in mu-in zahtak ding a, amaute in Topa muang ding-te hi.
 
-**ZVS:** Eima Pasian phatna la thak keimah hong hilh hi. Mi tampite in hih thu mu-in amah zahtak ding uh a, amaute khempeuh in { Topa } muang ding uh hi.
+**ZVS:** Eima Pasian phatna la thak keimah hong hilh hi. Mi tampite in hih thu mu-in amah zahtak ding-te a, amaute khempeuh in { Topa } muang ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -125,9 +125,9 @@
 ### v12
 **EN:** For innumerable evils have compassed me about: mine iniquities have taken hold upon me, so that I am not able to look up; they are more than the hairs of mine head: therefore my heart faileth me.
 
-**TDB77:** Bang hang hiam cih leh a mal-a sim zawh loh ding siatna tampi in kei hong umcih hi; khua hong mu thei losak zah dongin ka mawhnate in kei hong pha khin hi, amaute ka lu tunga ka sammal sangin tamzaw uh hi; ka lung in a lel hi.
+**TDB77:** Bang hang hiam cih leh a mal-a sim zawh loh ding siatna tampi in kei hong umcih hi; khua hong mu thei losak zah dongin ka mawhnate in kei hong pha khin hi, amaute ka lu tunga ka sammal sangin tamzaw-te hi; ka lung in a lel hi.
 
-**ZVS:** Bang hang hiam cih leh a malin simzawh lohding siatna tampite in kei hong umcih a, khua a hong musak theilo zah dong dingin ka mawhna thaman ka thuak khinta hi. Amaute ka sam mal sangin tamzaw uh a, ka lung in a lel ta hi.
+**ZVS:** Bang hang hiam cih leh a malin simzawh lohding siatna tampite in kei hong umcih a, khua a hong musak theilo zah dong dingin ka mawhna thaman ka thuak khinta hi. Amaute ka sam mal sangin tamzaw-te a, ka lung in a lel ta hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
@@ -157,9 +157,9 @@
 ### v16
 **EN:** Let all those that seek thee rejoice and be glad in thee: let such as love thy salvation say continually, The
 
-**TDB77:** Ahih hangin nang hong zongte khempeuh nang sungah nuamin kipak hen la, na gupkhiatna a deihte in, “Topa in lian hi!” ci ngitnget uh hen.
+**TDB77:** Ahih hangin nang hong zongte khempeuh nang sungah nuamin kipak hen la, na gupkhiatna a deihte in, “Topa in lian hi!” ci ngitnget-te hen.
 
-**ZVS:** Ahih hangin nang a hong zongte khempeuh nangma hangin nuamin kipak hen la, na hotkhiat ding a deihte in, “{ Topa } lian hi!” ci ngitnget ta uh hen.
+**ZVS:** Ahih hangin nang a hong zongte khempeuh nangma hangin nuamin kipak hen la, na hotkhiat ding a deihte in, “{ Topa } lian hi!” ci ngitnget ta-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 

@@ -23,8 +23,8 @@
 **Example:** Ahimoth’ suante in:
 
 ### uh = they/them (plural marker)
-**Context:** A plural marker often attached to verbs or used as a pronoun suffix, seen here in 'ahi uh hi'.
-**Example:** ahi uh hi.
+**Context:** A plural marker often attached to verbs or used as a pronoun suffix, seen here in 'ahi-te hi'.
+**Example:** ahi-te hi.
 
 ### tacil = firstborn
 **Context:** Used to specify the eldest son in a list of sons.
@@ -56,7 +56,7 @@
 
 ### koih mite = those whom [he] appointed/set
 **Context:** Refers to the people David assigned to the task.
-**Example:** David in a koih mite in hihte ahi uh hi.
+**Example:** David in a koih mite in hihte ahi-te hi.
 
 ### Biakinn = Temple/House of God
 **Context:** Used interchangeably with 'Topa' inn' (House of the Lord) to refer to Solomon's structure.
@@ -72,11 +72,11 @@
 
 ### hunhun = their respective times/seasons
 **Context:** Indicates that the service was performed according to a schedule or rotation.
-**Example:** a nasep uh a hunhun a banbanin
+**Example:** a nasep-te a hunhun a banbanin
 
 ### banbanin = in turn/alternately/according to division
 **Context:** Describes the manner in which the service was carried out (rotationally).
-**Example:** a hunhun a banbanin sem uh hi.
+**Example:** a hunhun a banbanin sem-te hi.
 
 ### khangsimna = genealogy/lineage/succession
 **Context:** Refers to the recorded line of descent.
@@ -107,7 +107,7 @@
 - **a tapa X, a tapa Y** = the son of X, the son of Y
   - Usage: Standard formula for listing successive male descendants.
 
-- **ahi uh hi** = they are
+- **ahi-te hi** = they are
   - Usage: Used at the end of a list or description to confirm identity or existence of the group mentioned.
 
 - **a hunhun a banbanin** = in their respective turns/alternately
@@ -126,9 +126,9 @@
   - Possessive marker (') followed by 'suante' (offspring/descendants) and the particle 'in' (topic marker), introducing the list of descendants.
   - Example: Ahimoth’ suante in:
 
-- **X ahi hi / X ahi uh hi**
+- **X ahi hi / X ahi-te hi**
   - Copula structure indicating 'X is/are'. 'uh' marks the plural subject.
-  - Example: Shaul ahi hi. / ahi uh hi.
+  - Example: Shaul ahi hi. / ahi-te hi.
 
 - **Topa’ inn sungah [Event] ciangin**
   - Locative phrase ('in the house of the Lord') followed by 'ciangin' (when/after), setting the temporal context for the subsequent action.

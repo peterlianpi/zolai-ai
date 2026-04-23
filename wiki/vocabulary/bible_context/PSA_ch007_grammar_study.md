@@ -31,9 +31,9 @@
 ### v2
 **EN:** Lest he tear my soul like a lion, rending it in pieces, while there is none to deliver.
 
-**TDB77:** Hong hon kei lecin, hong hon ding dang om lo ahih manin amaute in humpinelkai bangin hong kaikhia-in hong balgawp ding uh hi.
+**TDB77:** Hong hon kei lecin, hong hon ding dang om lo ahih manin amaute in humpinelkai bangin hong kaikhia-in hong balgawp ding-te hi.
 
-**ZVS:** Kei hong hon kei lecin a hong hon ding dang kuamah omlo ahih manin amaute in humpinelkai bangin hong kaikhia-in hong balgawp ding uh hi.
+**ZVS:** Kei hong hon kei lecin a hong hon ding dang kuamah omlo ahih manin amaute in humpinelkai bangin hong kaikhia-in hong balgawp ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: lo | causal: because | plural: uh marker
 
@@ -58,7 +58,7 @@
 
 **TDB77:** galte in delhin hong pha hen la, lei lakah kei hong tuancilsak in la, leilak ah hong sialpai ta hen.
 
-**ZVS:** galte in kei hong delhin hong pha uh hen la, leilakah kei hong tuancilsak in la, leilakah kei hong sialpai ta uh hen.
+**ZVS:** galte in kei hong delhin hong pha-te hen la, leilakah kei hong tuancilsak in la, leilakah kei hong sialpai ta-te hen.
 
 ### v6
 **EN:** Arise, O

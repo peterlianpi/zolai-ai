@@ -1,0 +1,144 @@
+{
+  "stats": {
+    "total_entries": 24894,
+    "with_pos": 0,
+    "with_pos_pct": 0.0,
+    "with_examples": 0,
+    "with_examples_pct": 0.0,
+    "with_related": 0,
+    "with_related_pct": 0.0,
+    "zo_en_entries": 21283,
+    "avg_confidence": 1.0,
+    "timestamp": "2026-04-16T09:21:19.484228"
+  },
+  "gaps": {
+    "missing_pos": [
+      {
+        "en": "13287",
+        "zo": "mawkna hita"
+      },
+      {
+        "en": ">",
+        "zo": "tedim2010"
+      },
+      {
+        "en": "a",
+        "zo": "khat"
+      },
+      {
+        "en": "a-nimosity",
+        "zo": "muhdahna"
+      },
+      {
+        "en": "a1",
+        "zo": "khat"
+      },
+      {
+        "en": "a2",
+        "zo": "Laimung (consonant) mai-a kizangh"
+      },
+      {
+        "en": "Aardvark",
+        "zo": "(African) leivok"
+      },
+      {
+        "en": "aardwolf",
+        "zo": "(Afrikan)- leingia"
+      },
+      {
+        "en": "Aaron",
+        "zo": "Pasal min.2.Lai Siangtho sunga Moses u leh Hebiate siampi lianpen masa."
+      },
+      {
+        "en": "Aaronic",
+        "zo": "Aaron bang"
+      }
+    ],
+    "missing_examples": [
+      {
+        "en": "13287",
+        "zo": "mawkna hita"
+      },
+      {
+        "en": ">",
+        "zo": "tedim2010"
+      },
+      {
+        "en": "a",
+        "zo": "khat"
+      },
+      {
+        "en": "a-nimosity",
+        "zo": "muhdahna"
+      },
+      {
+        "en": "a1",
+        "zo": "khat"
+      },
+      {
+        "en": "a2",
+        "zo": "Laimung (consonant) mai-a kizangh"
+      },
+      {
+        "en": "Aardvark",
+        "zo": "(African) leivok"
+      },
+      {
+        "en": "aardwolf",
+        "zo": "(Afrikan)- leingia"
+      },
+      {
+        "en": "Aaron",
+        "zo": "Pasal min.2.Lai Siangtho sunga Moses u leh Hebiate siampi lianpen masa."
+      },
+      {
+        "en": "Aaronic",
+        "zo": "Aaron bang"
+      }
+    ],
+    "missing_related": [
+      {
+        "en": "13287",
+        "zo": "mawkna hita"
+      },
+      {
+        "en": ">",
+        "zo": "tedim2010"
+      },
+      {
+        "en": "a",
+        "zo": "khat"
+      },
+      {
+        "en": "a-nimosity",
+        "zo": "muhdahna"
+      },
+      {
+        "en": "a1",
+        "zo": "khat"
+      },
+      {
+        "en": "a2",
+        "zo": "Laimung (consonant) mai-a kizangh"
+      },
+      {
+        "en": "Aardvark",
+        "zo": "(African) leivok"
+      },
+      {
+        "en": "aardwolf",
+        "zo": "(Afrikan)- leingia"
+      },
+      {
+        "en": "Aaron",
+        "zo": "Pasal min.2.Lai Siangtho sunga Moses u leh Hebiate siampi lianpen masa."
+      },
+      {
+        "en": "Aaronic",
+        "zo": "Aaron bang"
+      }
+    ],
+    "low_confidence": []
+  },
+  "timestamp": "2026-04-16T09:21:19.674299"
+}

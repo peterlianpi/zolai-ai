@@ -236,9 +236,9 @@
 ### v25
 **EN:** And the king said to Absalom, Nay, my son, let us not all now go, lest we be chargeable unto thee. And he pressed him: howbeit he would not go, but blessed him.
 
-**TDB77:** Ahih hangin kumpipa in Absalom kiangah, “Hilo hi, ka tapa aw, i vekpi-in pai kei ni, pai lehang kote in nang adingin vangik ka hi kha ding uh hi.” a ci hi. Amah in ci teitei a, ahih hangin amah pai nuam loin ama thupha a tungah pia hi.
+**TDB77:** Ahih hangin kumpipa in Absalom kiangah, “Hilo hi, ka tapa aw, i vekpi-in pai kei ni, pai lehang kote in nang adingin vangik ka hi kha ding-te hi.” a ci hi. Amah in ci teitei a, ahih hangin amah pai nuam loin ama thupha a tungah pia hi.
 
-**ZVS:** Ahih hangin kumpipa in Absalom kiangah, “Hilo hi, ka tapa aw; i vekpi-in pai kei ni; pai lehang kote pen nang-a' dingin vangik ka hi khading uh hi,” a ci hi. Amah in ci teitei a, ahih hangin amah pai nuamloin ama thupha a tungah a pia hi.
+**ZVS:** Ahih hangin kumpipa in Absalom kiangah, “Hilo hi, ka tapa aw; i vekpi-in pai kei ni; pai lehang kote pen nang-a' dingin vangik ka hi khading-te hi,” a ci hi. Amah in ci teitei a, ahih hangin amah pai nuamloin ama thupha a tungah a pia hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -270,9 +270,9 @@
 ### v29
 **EN:** And the servants of Absalom did unto Amnon as Absalom had commanded. Then all the king's sons arose, and every man gat him up upon his mule, and fled.
 
-**TDB77:** Tua ahih ciangin Absalom’ nasemte in Absalom’ thupiaksa bangin Amnon hih uh hi. Tua ciangin kumpipa’ tapate khempeuh ding-in a la tung ciat uh ah tuangin tai uh hi.
+**TDB77:** Tua ahih ciangin Absalom’ nasemte in Absalom’ thupiaksa bangin Amnon hih-te hi. Tua ciangin kumpipa’ tapate khempeuh ding-in a la tung ciat-te ah tuangin tai-te hi.
 
-**ZVS:** Tua ahih ciangin Absalom' nasemte in ama thupiaksa bangin Ammon hih uh hi. Tua ciangin kumpipa' tapate khempeuh dingin a la tung ciat uhah tuangin a tai uh hi.
+**ZVS:** Tua ahih ciangin Absalom' nasemte in ama thupiaksa bangin Ammon hih-te hi. Tua ciangin kumpipa' tapate khempeuh dingin a la tung ciat uhah tuangin a tai-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -288,9 +288,9 @@
 ### v31
 **EN:** Then the king arose, and tare his garments, and lay on the earth; and all his servants stood by with their clothes rent.
 
-**TDB77:** Tua ciangin kumpipa ding a, a puante balkeekin lei lakah lum hi; a kianga ding a nasemte khempeuh in a puan uh balkek uh hi.
+**TDB77:** Tua ciangin kumpipa ding a, a puante balkeekin lei lakah lum hi; a kianga ding a nasemte khempeuh in a puan-te balkek-te hi.
 
-**ZVS:** Tua ciangin kumpipa ding a, a puante balkekin leilakah a lum hi. A kianga om a nasemte khempeuh in zong a puan uh balkek uh hi.
+**ZVS:** Tua ciangin kumpipa ding a, a puante balkekin leilakah a lum hi. A kianga om a nasemte khempeuh in zong a puan-te balkek-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -333,9 +333,9 @@
 ### v36
 **EN:** And it came to pass, as soon as he had made an end of speaking, that, behold, the king's sons came, and lifted up their voice and wept: and the king also and all his servants wept very sore.
 
-**TDB77:** Amah in a thugen a man khit phetin, en in, kumpipa’ tapate hong tungin hong kap uh hi; tua ciangin kumpipa zong a nasemte khempeuh tawh nakpi takin kap uh hi.
+**TDB77:** Amah in a thugen a man khit phetin, en in, kumpipa’ tapate hong tungin hong kap-te hi; tua ciangin kumpipa zong a nasemte khempeuh tawh nakpi takin kap-te hi.
 
-**ZVS:** Amah in a thugen a man khit phetin, kumpipa' tapate hong tungin hong kap uh hi. Tua ciangin kumpipa zong a nasemte khempeuh tawh nakpi takin a kap uh hi.
+**ZVS:** Amah in a thugen a man khit phetin, kumpipa' tapate hong tungin hong kap-te hi. Tua ciangin kumpipa zong a nasemte khempeuh tawh nakpi takin a kap-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

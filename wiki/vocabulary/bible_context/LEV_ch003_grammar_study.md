@@ -34,7 +34,7 @@
 
 **TDB77:** Tua ciangin amah in a biakna ganhing lu tungah a khut nga-in kikhopna buk kongah go ding hi; tua ciangin Aaron’ suan siampite in biakna tau kimkot tungah a si theh ding hi.
 
-**ZVS:** Tua ciangin amah in a biakna ganhing lu tungah a khut nga-in kikhopna buk kongah go ding a, tua ciangin Aaron' suan siampite in biakna tau kimkot tungah a si theh ding uh hi.
+**ZVS:** Tua ciangin amah in a biakna ganhing lu tungah a khut nga-in kikhopna buk kongah go ding a, tua ciangin Aaron' suan siampite in biakna tau kimkot tungah a si theh ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -52,16 +52,16 @@
 
 **TDB77:** a kawng-a om a kal nihte athau leh a kalte tawh a lakkhiat khop ding ahi a sintuamte pia ding hi.
 
-**ZVS:** a kawnga om a kal nihte a thau leh a kalte tawh a lakkhiat khop ding ahi a sintuamte pia ding uh hi.
+**ZVS:** a kawnga om a kal nihte a thau leh a kalte tawh a lakkhiat khop ding ahi a sintuamte pia ding-te hi.
 
 **Grammar:** future: will
 
 ### v5
 **EN:** And Aaron's sons shall burn it on the altar upon the burnt sacrifice, which is upon the wood that is on the fire: it is an offering made by fire, of a sweet savour unto the
 
-**TDB77:** Tua ciangin Aaron’ suante in singkuang tunga om meihal biakpiakna tau tung mah ah hal ding uh hi; tua in Topa adingin a gim namtui, mei tawh kihal biakna ahi hi.
+**TDB77:** Tua ciangin Aaron’ suante in singkuang tunga om meihal biakpiakna tau tung mah ah hal ding-te hi; tua in Topa adingin a gim namtui, mei tawh kihal biakna ahi hi.
 
-**ZVS:** Tua ciangin Aaron' suante in mei tunga om sing tunga meihal biakpiakna tau tung mahah hal ding uh hi. Tua pen { Topa}-a' dingin a gim namtui, mei tawh kihal biakna ahi hi.
+**ZVS:** Tua ciangin Aaron' suante in mei tunga om sing tunga meihal biakpiakna tau tung mahah hal ding-te hi. Tua pen { Topa}-a' dingin a gim namtui, mei tawh kihal biakna ahi hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -86,9 +86,9 @@
 ### v8
 **EN:** And he shall lay his hand upon the head of his offering, and kill it before the tabernacle of the congregation: and Aaron's sons shall sprinkle the blood thereof round about upon the altar.
 
-**TDB77:** a biakna ganhing lu tungah a khut nga-in kikhopna buk mai-ah tua ganhing go ding hi; tua ciangin Aaron’ suante in biakna tau kimkot tungah a si theh ding uh hi.
+**TDB77:** a biakna ganhing lu tungah a khut nga-in kikhopna buk mai-ah tua ganhing go ding hi; tua ciangin Aaron’ suante in biakna tau kimkot tungah a si theh ding-te hi.
 
-**ZVS:** a biakna ganhing lu tungah a khut nga-in kikhopna buk mai-ah go ding hi. Tua ciangin Aaron' suante in biakna tau kimkot tungah a si theh ding uh hi.
+**ZVS:** a biakna ganhing lu tungah a khut nga-in kikhopna buk mai-ah go ding hi. Tua ciangin Aaron' suante in biakna tau kimkot tungah a si theh ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -106,7 +106,7 @@
 
 **TDB77:** a kawng-a om a kal nihte a thau tawh, a kalte tawh a lakkhiat khop ding ahi a sintuamte pia ding hi.
 
-**ZVS:** a kawnga om a kal nihte a thau tawh, a kalte tawh a lakkhiat khop ding ahi a sintuamte pia ding uh hi.
+**ZVS:** a kawnga om a kal nihte a thau tawh, a kalte tawh a lakkhiat khop ding ahi a sintuamte pia ding-te hi.
 
 **Grammar:** future: will
 
@@ -129,9 +129,9 @@
 ### v13
 **EN:** And he shall lay his hand upon the head of it, and kill it before the tabernacle of the congregation: and the sons of Aaron shall sprinkle the blood thereof upon the altar round about.
 
-**TDB77:** a lu tungah a khut nga-in kikhopna buk mai-ah go ding hi; tua ciangin Aaron’ suante in biakna tau kimkot tungah a si theh ding uh hi.
+**TDB77:** a lu tungah a khut nga-in kikhopna buk mai-ah go ding hi; tua ciangin Aaron’ suante in biakna tau kimkot tungah a si theh ding-te hi.
 
-**ZVS:** a lu tungah a khut nga-in kikhopna buk mai-ah go ding hi. Tua ciangin Aaron' suante in biakna tau kimkot tungah a si theh ding uh hi.
+**ZVS:** a lu tungah a khut nga-in kikhopna buk mai-ah go ding hi. Tua ciangin Aaron' suante in biakna tau kimkot tungah a si theh ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -149,7 +149,7 @@
 
 **TDB77:** a kawng-a om a kal nihte a thau tawh, a kalte tawh a lakkhiat khop ding ahi a sintuamte pia ding hi.
 
-**ZVS:** a kawnga om a kal nihte a thau tawh, a kalte tawh a lakkhiat khop ding ahi a sintuamte pia ding uh hi.
+**ZVS:** a kawnga om a kal nihte a thau tawh, a kalte tawh a lakkhiat khop ding ahi a sintuamte pia ding-te hi.
 
 **Grammar:** future: will
 

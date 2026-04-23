@@ -26,9 +26,9 @@
 ### v1
 **EN:** And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadnezzar king of Babylon came, he, and all his host, against Jerusalem, and pitched against it; and they built forts against it round about.
 
-**TDB77:** Tua ahih manin ama uk a kum kua-na, tua kum a kha sawmna, tua kha a ni sawm ni-in Babilon kumpipa Nebukhadnezzar a galkap khempeuh tawh Jerusalem a sim dingin hong pai-in tua khua umcih uh hi; tua ciangin amaute in a kimkotah umcih nading panmun bawl uh hi.
+**TDB77:** Tua ahih manin ama uk a kum kua-na, tua kum a kha sawmna, tua kha a ni sawm ni-in Babilon kumpipa Nebukhadnezzar a galkap khempeuh tawh Jerusalem a sim dingin hong pai-in tua khua umcih-te hi; tua ciangin amaute in a kimkotah umcih nading panmun bawl-te hi.
 
-**ZVS:** Tua ciangin Zedekiah in Babylon kumpipa lehdo hi. Tua ahih manin ama uk a kum kuana, tua kum a kha sawmna, tua kha a ni sawm ni-in Babylon kumpipa Nebukhadnezzar a galkap khempeuh tawh Jerusalem a sim dingin hong kuanin tua khua a umcih uh hi. Tua ciangin amaute in a kimkotah umcihna ding pan'mun a bawl uh hi.
+**ZVS:** Tua ciangin Zedekiah in Babylon kumpipa lehdo hi. Tua ahih manin ama uk a kum kuana, tua kum a kha sawmna, tua kha a ni sawm ni-in Babylon kumpipa Nebukhadnezzar a galkap khempeuh tawh Jerusalem a sim dingin hong kuanin tua khua a umcih-te hi. Tua ciangin amaute in a kimkotah umcihna ding pan'mun a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -53,36 +53,36 @@
 ### v4
 **EN:** And the city was broken up, and all the men of war fled by night by the way of the gate between two walls, which is by the king's garden: (now the Chaldeans were against the city round about:) and the king went the way toward the plain.
 
-**TDB77:** Tua ciangin khuapi kulh sulet uh hi; Khaldea mite khuapi kiimah a ompi mahin, kumpipa’ huan kiang lam kulhpi nih kikal kulh kongpi lampi zui-in kumpipa leh a galhang mi khempeuh zanin tai uh hi. Amaute Arabah lam manawhin pai uh hi.
+**TDB77:** Tua ciangin khuapi kulh sulet-te hi; Khaldea mite khuapi kiimah a ompi mahin, kumpipa’ huan kiang lam kulhpi nih kikal kulh kongpi lampi zui-in kumpipa leh a galhang mi khempeuh zanin tai-te hi. Amaute Arabah lam manawhin pai-te hi.
 
-**ZVS:** Tua ciangin khuapikulh sulet uh hi. Khaldea mite khuapi kiimah a ompi mahin, kumpipa' huan kiang lam kulhpi nih kikal kulhkongpi lampi zui-in kumpipa leh a galhang mi khempeuh zanin a tai uh hi. Arabah lam manawhin amaute pai uh hi.
+**ZVS:** Tua ciangin khuapikulh sulet-te hi. Khaldea mite khuapi kiimah a ompi mahin, kumpipa' huan kiang lam kulhpi nih kikal kulhkongpi lampi zui-in kumpipa leh a galhang mi khempeuh zanin a tai-te hi. Arabah lam manawhin amaute pai-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And the army of the Chaldeans pursued after the king, and overtook him in the plains of Jericho: and all his army were scattered from him.
 
-**TDB77:** Ahih hangin Khaldea mite’ galkapte in kumpipa delh uh a, Jerikho zanglei-ah amah pha uh hi; tua ciangin a galkap khempeuh ama kiang panin kithehthang uh hi.
+**TDB77:** Ahih hangin Khaldea mite’ galkapte in kumpipa delh-te a, Jerikho zanglei-ah amah pha-te hi; tua ciangin a galkap khempeuh ama kiang panin kithehthang-te hi.
 
-**ZVS:** Ahih hangin Khaldea mite' galkapte in kumpipa delh uh a, Jerikho zanglei-ah amah pha uh hi; tua ciangin a galkap khempeuh ama kiang panin kithehthang hi.
+**ZVS:** Ahih hangin Khaldea mite' galkapte in kumpipa delh-te a, Jerikho zanglei-ah amah pha-te hi; tua ciangin a galkap khempeuh ama kiang panin kithehthang hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** So they took the king, and brought him up to the king of Babylon to Riblah; and they gave judgment upon him.
 
-**TDB77:** Tua ciangin amaute in kumpipa man uh a, ama tungah thukhenna a pia, Riblah a, Babilon kumpipa kiangah amah paipih uh hi.
+**TDB77:** Tua ciangin amaute in kumpipa man-te a, ama tungah thukhenna a pia, Riblah a, Babilon kumpipa kiangah amah paipih-te hi.
 
-**ZVS:** Tua ciangin amaute in kumpipa man uh a, ama tungah thukhenna a pia, Riblah-a Babylon kumpipa kiangah amah paipih uh hi.
+**ZVS:** Tua ciangin amaute in kumpipa man-te a, ama tungah thukhenna a pia, Riblah-a Babylon kumpipa kiangah amah paipih-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And they slew the sons of Zedekiah before his eyes, and put out the eyes of Zedekiah, and bound him with fetters of brass, and carried him to Babylon.
 
-**TDB77:** Amaute in Zedekiah’ muhna ah a tapate thatin, Zedekiah’ mitte khelkhia uh a, amah kol bulhin Babilon ah paipih uh hi.
+**TDB77:** Amaute in Zedekiah’ muhna ah a tapate thatin, Zedekiah’ mitte khelkhia-te a, amah kol bulhin Babilon ah paipih-te hi.
 
-**ZVS:** Amaute in Zedekiah' muhna-ah a tapate thatin, Zedekiah' mitte khelkhia uh a, amah kol bulhin Babylon-ah a paipih uh hi.
+**ZVS:** Amaute in Zedekiah' muhna-ah a tapate thatin, Zedekiah' mitte khelkhia-te a, amah kol bulhin Babylon-ah a paipih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -103,9 +103,9 @@
 ### v10
 **EN:** And all the army of the Chaldeans, that were with the captain of the guard, brake down the walls of Jerusalem round about.
 
-**TDB77:** Tua ciangin a cingte a ukpa tawh a om Khaldea mi galkapte khempeuh in Jerusalem kimkot a, kulhpi susia uh hi.
+**TDB77:** Tua ciangin a cingte a ukpa tawh a om Khaldea mi galkapte khempeuh in Jerusalem kimkot a, kulhpi susia-te hi.
 
-**ZVS:** Tua ciangin a cingte a ukpa tawh a om Khaldea mi galkapte khempeuh in Jerusalem kimkota kulhpi susia uh hi.
+**ZVS:** Tua ciangin a cingte a ukpa tawh a om Khaldea mi galkapte khempeuh in Jerusalem kimkota kulhpi susia-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -130,9 +130,9 @@
 ### v13
 **EN:** And the pillars of brass that were in the house of the
 
-**TDB77:** Tua ciangin Topa’ inn sungah a om sumngo khuampite, leh Topa’ inn sungah a om a din’nate leh sumngo tuikuangpi Khaldea mite in satnen uh a, Babilon ah a sumngo pua uh hi.
+**TDB77:** Tua ciangin Topa’ inn sungah a om sumngo khuampite, leh Topa’ inn sungah a om a din’nate leh sumngo tuikuangpi Khaldea mite in satnen-te a, Babilon ah a sumngo pua-te hi.
 
-**ZVS:** Tua ciangin { Topa' } biakinn sungah a om sumngo khuampite, { Topa' } biakinn sungah a om tuikuang kingaknate, leh sumngo tuikuangpi, Khaldea mite in satnen uh a, Babylon-ah a sumngo pua uh hi.
+**ZVS:** Tua ciangin { Topa' } biakinn sungah a om sumngo khuampite, { Topa' } biakinn sungah a om tuikuang kingaknate, leh sumngo tuikuangpi, Khaldea mite in satnen-te a, Babylon-ah a sumngo pua-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -148,9 +148,9 @@
 ### v15
 **EN:** And the firepans, and the bowls, and such things as were of gold, in gold, and of silver, in silver, the captain of the guard took away.
 
-**TDB77:** vutluahnate zong, leh haite lakhia uh hi. A cingte a ukpa in kham a hite kham mahin la-in ngun a hite a ngun mahin la hi.
+**TDB77:** vutluahnate zong, leh haite lakhia-te hi. A cingte a ukpa in kham a hite kham mahin la-in ngun a hite a ngun mahin la hi.
 
-**ZVS:** vutluahna, leh haite lakhia uh hi. A cingte a ukpa in kham ahite kham mahin la-in, ngun ahite a ngun mahin a la hi.
+**ZVS:** vutluahna, leh haite lakhia-te hi. A cingte a ukpa in kham ahite kham mahin la-in, ngun ahite a ngun mahin a la hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -220,18 +220,18 @@
 ### v23
 **EN:** And when all the captains of the armies, they and their men, heard that the king of Babylon had made Gedaliah governor, there came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan the son of Kareah, and Seraiah the son of Tanhumeth the Netophathite, and Jaazaniah the son of a Maachathite, they and their men.
 
-**TDB77:** Tu-in gamsunga om galkap a ukte leh a mite in Babilon kumpipa in a uk dingin Gedaliah a sehna thu a zak uh ciangin amaute a mite uh tawh Mizpah a, Gedaliah kiangah hong pai uh hi; tuate in Nethaniah’ tapa Ishmael, leh Kareah’ tapa Johanan, leh Netofah mi Tanhumeth’ tapa Seraiah, leh Ma-akath mi Ja-azaniah ahi uh hi.
+**TDB77:** Tu-in gamsunga om galkap a ukte leh a mite in Babilon kumpipa in a uk dingin Gedaliah a sehna thu a zak-te ciangin amaute a mite-te tawh Mizpah a, Gedaliah kiangah hong pai-te hi; tuate in Nethaniah’ tapa Ishmael, leh Kareah’ tapa Johanan, leh Netofah mi Tanhumeth’ tapa Seraiah, leh Ma-akath mi Ja-azaniah ahi-te hi.
 
-**ZVS:** Tu-in gamsunga om galkap a ukte leh a mite in Babylon kumpipa in a uk dingin Gedaliah a sehna thu a zak uh ciangin amaute a mite uh tawh Mizpah-a Gedaliah kiangah hong pai uh hi. Tuate pen Nethaniah' tapa Ishmael, Kareah' tapa Johanan, Netofah mi Tanhumeth' tapa Seraiah, leh Maakath mi Jaazaniah ahi uh hi.
+**ZVS:** Tu-in gamsunga om galkap a ukte leh a mite in Babylon kumpipa in a uk dingin Gedaliah a sehna thu a zak-te ciangin amaute a mite-te tawh Mizpah-a Gedaliah kiangah hong pai-te hi. Tuate pen Nethaniah' tapa Ishmael, Kareah' tapa Johanan, Netofah mi Tanhumeth' tapa Seraiah, leh Maakath mi Jaazaniah ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And Gedaliah sware to them, and to their men, and said unto them, Fear not to be the servants of the Chaldeans: dwell in the land, and serve the king of Babylon; and it shall be well with you.
 
-**TDB77:** Tua ciangin Gedaliah in amaute leh a mite uh tungah kiciamin, “Khaldea mi uliante’ hangin lau kei un; gam sungah teengin, Babilon kumpipa’ na sem un, tua ciangin note’ adingin thu hong nuam ding hi,” a ci hi.
+**TDB77:** Tua ciangin Gedaliah in amaute leh a mite-te tungah kiciamin, “Khaldea mi uliante’ hangin lau kei un; gam sungah teengin, Babilon kumpipa’ na sem un, tua ciangin note’ adingin thu hong nuam ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin amaute leh a mite uh tungah Gedaliah kiciamin, “Khaldea mi uliante' hangin lau kei un; gam sungah tengin, Babylon kumpipa' na sem un. Tua hi leh note-a' dingin thu hong nuam ding hi,” a ci hi.
+**ZVS:** Tua ciangin amaute leh a mite-te tungah Gedaliah kiciamin, “Khaldea mi uliante' hangin lau kei un; gam sungah tengin, Babylon kumpipa' na sem un. Tua hi leh note-a' dingin thu hong nuam ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -245,9 +245,9 @@
 ### v26
 **EN:** And all the people, both small and great, and the captains of the armies, arose, and came to Egypt: for they were afraid of the Chaldeans.
 
-**TDB77:** Tua ciangin a neu a lianin mi khempeuh, leh galkap a ukte dingkhia-in Izipt ah pai uh hi; bang hang hiam cih leh amaute in Khaldea mite kihta uh hi.
+**TDB77:** Tua ciangin a neu a lianin mi khempeuh, leh galkap a ukte dingkhia-in Izipt ah pai-te hi; bang hang hiam cih leh amaute in Khaldea mite kihta-te hi.
 
-**ZVS:** Tua ciangin a lian a neu-in mi khempeuh, leh galkap a ukte kithawi-in Egypt-ah pai uh hi; bang hang hiam cih leh amaute in Khaldea mite kihta uh hi.
+**ZVS:** Tua ciangin a lian a neu-in mi khempeuh, leh galkap a ukte kithawi-in Egypt-ah pai-te hi; bang hang hiam cih leh amaute in Khaldea mite kihta-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

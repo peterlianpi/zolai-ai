@@ -34,43 +34,43 @@
 ### v2
 **EN:** Speak unto the children of Israel, and say unto them, I am the
 
-**TDB77:** “Israel mite tungah hih bangin gen in: Keimah in Topa na Pasian uh ka hi hi.
+**TDB77:** “Israel mite tungah hih bangin gen in: Keimah in Topa na Pasian-te ka hi hi.
 
-**ZVS:** “Israel mite tungah hih bangin gen in: Kei pen { Topa } na Pasian uh ka hi hi.
+**ZVS:** “Israel mite tungah hih bangin gen in: Kei pen { Topa } na Pasian-te ka hi hi.
 
 ### v3
 **EN:** After the doings of the land of Egypt, wherein ye dwelt, shall ye not do: and after the doings of the land of Canaan, whither I bring you, shall ye not do: neither shall ye walk in their ordinances.
 
-**TDB77:** Note na ten’na uh Izipt gamah amaute a gamtat bangin note na gamta kei ding uh a, note kong paipihna Kanaan gamah amaute a gamtat bangin zong note na gamta kei ding uh hi. Note in amau’ tatziate na zui kei ding uh hi.
+**TDB77:** Note na ten’na-te Izipt gamah amaute a gamtat bangin note na gamta kei ding-te a, note kong paipihna Kanaan gamah amaute a gamtat bangin zong note na gamta kei ding-te hi. Note in amau’ tatziate na zui kei ding-te hi.
 
-**ZVS:** Note na ten'na uh Egypt gamah amaute a gamtat bangin note na gamta kei ding uh a, note kong paipihna Kanaan gamah zong amaute a gamtat bangin note na gamta kei ding uh hi. Note in amau' gamtatnate na zui kei ding uh hi.
+**ZVS:** Note na ten'na-te Egypt gamah amaute a gamtat bangin note na gamta kei ding-te a, note kong paipihna Kanaan gamah zong amaute a gamtat bangin note na gamta kei ding-te hi. Note in amau' gamtatnate na zui kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v4
 **EN:** Ye shall do my judgments, and keep mine ordinances, to walk therein: I am the
 
-**TDB77:** Note in keima biakna ngeina kipte semin ka thukhamte lenin tuate na zui ding uh hi. Keimah in Topa na Pasian uh ka hi hi.
+**TDB77:** Note in keima biakna ngeina kipte semin ka thukhamte lenin tuate na zui ding-te hi. Keimah in Topa na Pasian-te ka hi hi.
 
-**ZVS:** Note in keima biakna ngeina kipte semin ka thukhamte lenin tuate na zui ding uh hi. Kei pen { Topa } na Pasian uh ka hi hi.
+**ZVS:** Note in keima biakna ngeina kipte semin ka thukhamte lenin tuate na zui ding-te hi. Kei pen { Topa } na Pasian-te ka hi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** Ye shall therefore keep my statutes, and my judgments: which if a man do, he shall live in them: I am the
 
-**TDB77:** Tua ahih ciangin note in ka thukhamte leh ka biakna ngeina kipte na zui ding uh hi; tuate a zui mi-in nungta ding hi. Keimah in Topa ka hi hi.
+**TDB77:** Tua ahih ciangin note in ka thukhamte leh ka biakna ngeina kipte na zui ding-te hi; tuate a zui mi-in nungta ding hi. Keimah in Topa ka hi hi.
 
-**ZVS:** Tua ahih ciangin note in ka thukhamte leh ka biakna ngeina kipte na zui ding uh hi. Tuate a zui mi peuhpeuh nungta ding hi. Kei pen { Topa } ka hi hi.
+**ZVS:** Tua ahih ciangin note in ka thukhamte leh ka biakna ngeina kipte na zui ding-te hi. Tuate a zui mi peuhpeuh nungta ding hi. Kei pen { Topa } ka hi hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** None of you shall approach to any that is near of kin to him, to uncover their nakedness: I am the
 
-**TDB77:** “Note kuamah in na kinaipih na behte uh mawhpih dingin na naih kei ding uh hi. Keimah in Topa ka hi hi.
+**TDB77:** “Note kuamah in na kinaipih na behte-te mawhpih dingin na naih kei ding-te hi. Keimah in Topa ka hi hi.
 
-**ZVS:** “Note kuamah in na kinaipih na behte uh mawhpih dingin na naih kei ding uh hi. Kei pen { Topa } ka hi hi.
+**ZVS:** “Note kuamah in na kinaipih na behte-te mawhpih dingin na naih kei ding-te hi. Kei pen { Topa } ka hi hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -167,9 +167,9 @@
 ### v17
 **EN:** Thou shalt not uncover the nakedness of a woman and her daughter, neither shalt thou take her son's daughter, or her daughter's daughter, to uncover her nakedness; for they are her near kinswomen: it is wickedness.
 
-**TDB77:** Nangmah in na luppih nupi khat’ tanu na mawhpih kei ding a, nangmah in nupi’ tapa’ tanu hita leh tua nupi tanu’ tanu hita leh, luppih dingin na la kei ding hi; amaute in nangmah tawh a kinai beh numei ahi uh hi; tua in gitlohna ahi hi.
+**TDB77:** Nangmah in na luppih nupi khat’ tanu na mawhpih kei ding a, nangmah in nupi’ tapa’ tanu hita leh tua nupi tanu’ tanu hita leh, luppih dingin na la kei ding hi; amaute in nangmah tawh a kinai beh numei ahi-te hi; tua in gitlohna ahi hi.
 
-**ZVS:** Na luppih numei khat' tanu na mawhpih kei ding a, tua numei' tapa' tanu hita leh tua numei' tanu' tanu hita leh, luppih dingin na la kei ding hi. Amaute pen nangmah tawh a kinai beh numeite ahi uh hi. Tua bang gamtatna pen a siahuai ahi hi.
+**ZVS:** Na luppih numei khat' tanu na mawhpih kei ding a, tua numei' tapa' tanu hita leh tua numei' tanu' tanu hita leh, luppih dingin na la kei ding hi. Amaute pen nangmah tawh a kinai beh numeite ahi-te hi. Tua bang gamtatna pen a siahuai ahi hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -230,9 +230,9 @@
 ### v24
 **EN:** Defile not ye yourselves in any of these things: for in all these the nations are defiled which I cast out before you:
 
-**TDB77:** “Hih nate khatpeuh tawh note kininsak kei un: bang hang hiam cih leh note’ mai-a ka paihkhiat ding minamte in hihte khempeuh tawh amau kininsak uh hi;
+**TDB77:** “Hih nate khatpeuh tawh note kininsak kei un: bang hang hiam cih leh note’ mai-a ka paihkhiat ding minamte in hihte khempeuh tawh amau kininsak-te hi;
 
-**ZVS:** “Hih nate khatpeuh tawh note kininsak kei un; bang hang hiam cih leh note' mai-a ka paihkhiat minamte in hihte khempeuh tawh amaute kininsak uh hi.
+**ZVS:** “Hih nate khatpeuh tawh note kininsak kei un; bang hang hiam cih leh note' mai-a ka paihkhiat minamte in hihte khempeuh tawh amaute kininsak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -248,27 +248,27 @@
 ### v26
 **EN:** Ye shall therefore keep my statutes and my judgments, and shall not commit any of these abominations; neither any of your own nation, nor any stranger that sojourneth among you:
 
-**TDB77:** Ahih hangin, tual sung mi hita leh note lakah hong peem khualmi hita leh note in keima thukhamte leh keima biakna ngeina kipte na zui ding uh a, hih a kihhuai nate khat beek na hih kei ding uh hi.
+**TDB77:** Ahih hangin, tual sung mi hita leh note lakah hong peem khualmi hita leh note in keima thukhamte leh keima biakna ngeina kipte na zui ding-te a, hih a kihhuai nate khat beek na hih kei ding-te hi.
 
-**ZVS:** Ahih hangin, tualsung mi hita leh note lakah hong peem khualmi hita leh, note in keima thukhamte leh keima biakna ngeina kipte na zui ding uh a, hih a kihhuai nate khat beek na hih kei ding uh hi;
+**ZVS:** Ahih hangin, tualsung mi hita leh note lakah hong peem khualmi hita leh, note in keima thukhamte leh keima biakna ngeina kipte na zui ding-te a, hih a kihhuai nate khat beek na hih kei ding-te hi;
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** (For all these abominations have the men of the land done, which were before you, and the land is defiled;)
 
-**TDB77:** (bang hang hiam cih leh note’ ma-a a om gam mite in hih kihhuainate khempeuh hih uh a, tua ahih manin leitang a nin suak hi);
+**TDB77:** (bang hang hiam cih leh note’ ma-a a om gam mite in hih kihhuainate khempeuh hih-te a, tua ahih manin leitang a nin suak hi);
 
-**ZVS:** (bang hang hiam cih leh note' ma-a a om gam mite in hih a kihhuaite khempeuh gamta uh ahih manin leitang a nin a suak hi;)
+**ZVS:** (bang hang hiam cih leh note' ma-a a om gam mite in hih a kihhuaite khempeuh gamta-te ahih manin leitang a nin a suak hi;)
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** That the land spue not you out also, when ye defile it, as it spued out the nations that were before you.
 
-**TDB77:** tua bang hi kei leh leitang in note ma-a a om minamte a luakkhiat bangin note in amah na nitsak uh ciangin note hong luakhia ding hi.
+**TDB77:** tua bang hi kei leh leitang in note ma-a a om minamte a luakkhiat bangin note in amah na nitsak-te ciangin note hong luakhia ding hi.
 
-**ZVS:** tua bang hi kei leh leitang in note' ma-a a om minamte a luakkhiat bangin note in amah na nitsak uh ciangin amah in note hong luakhia ding hi.
+**ZVS:** tua bang hi kei leh leitang in note' ma-a a om minamte a luakkhiat bangin note in amah na nitsak-te ciangin amah in note hong luakhia ding hi.
 
 **Grammar:** future: will
 
@@ -284,9 +284,9 @@
 ### v30
 **EN:** Therefore shall ye keep mine ordinance, that ye commit not any one of these abominable customs, which were committed before you, and that ye defile not yourselves therein: I am the
 
-**TDB77:** Tua ahih ciangin note ma-a a kizang hih a kihhuai ngeinate khatpeuh peuh na gamtat ngei loh nading uh leh tuate tawh nomau na kinitsak ngei loh nadingun kong thuhilh zui un: keimah in Topa na Pasian uh ka hi hi,” a ci hi.
+**TDB77:** Tua ahih ciangin note ma-a a kizang hih a kihhuai ngeinate khatpeuh peuh na gamtat ngei loh nading-te leh tuate tawh nomau na kinitsak ngei loh nadingun kong thuhilh zui un: keimah in Topa na Pasian-te ka hi hi,” a ci hi.
 
-**ZVS:** “Tua ahih ciangin note' ma-a a kizang hih a kihhuai ngeinate khat peuhpeuh na gamtat ngeilohna ding uh leh tuate tawh nomau na kinitsak lohna dingun kong thuhilhte zui un; kei pen { Topa } na Pasian uh ka hi hi,” a ci hi.
+**ZVS:** “Tua ahih ciangin note' ma-a a kizang hih a kihhuai ngeinate khat peuhpeuh na gamtat ngeilohna ding-te leh tuate tawh nomau na kinitsak lohna dingun kong thuhilhte zui un; kei pen { Topa } na Pasian-te ka hi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 

@@ -62,9 +62,9 @@
 ### v6
 **EN:** The righteous also shall see, and fear, and shall laugh at him:
 
-**TDB77:** Thuman mite in mu-in, lau ding uh a, amah nuihsan-in,
+**TDB77:** Thuman mite in mu-in, lau ding-te a, amah nuihsan-in,
 
-**ZVS:** Thuman mite in nang hong mu-in, lau mahmah ding uh a, nang hong nuihsanin,
+**ZVS:** Thuman mite in nang hong mu-in, lau mahmah ding-te a, nang hong nuihsanin,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -73,7 +73,7 @@
 
 **TDB77:** “Pasian a beel lo, ama hauhnate a muang, ama hauhna a beelpa en un!” ci ding hi.
 
-**ZVS:** “Pasian a bello, ama hauhnate a muang, ama hauhna a belpa en un,” hong ci ding uh hi.
+**ZVS:** “Pasian a bello, ama hauhnate a muang, ama hauhna a belpa en un,” hong ci ding-te hi.
 
 **Grammar:** future: will
 

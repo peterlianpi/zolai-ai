@@ -23,18 +23,18 @@
 ### v1
 **EN:** The wicked flee when no man pursueth: but the righteous are bold as a lion.
 
-**TDB77:** Kuama delh lopi-in migilote taimang a, mi thumante ahih leh humpinelkai bangin hang uh hi.
+**TDB77:** Kuama delh lopi-in migilote taimang a, mi thumante ahih leh humpinelkai bangin hang-te hi.
 
-**ZVS:** Kuama delhlohpi-in migilote taimang a, mithumante ahih leh humpinelkai bangin a hang uh hi.
+**ZVS:** Kuama delhlohpi-in migilote taimang a, mithumante ahih leh humpinelkai bangin a hang-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v2
 **EN:** For the transgression of a land many are the princes thereof: but by a man of understanding and knowledge the state thereof shall be prolonged.
 
-**TDB77:** Gamsung mite a hoih loh ciangin, a ban banin gam uk tampi nei uh a, ahi zongin mipil thu ngaihsun theite in, gamsung thahatsakin kipsak uh hi.
+**TDB77:** Gamsung mite a hoih loh ciangin, a ban banin gam uk tampi nei-te a, ahi zongin mipil thu ngaihsun theite in, gamsung thahatsakin kipsak-te hi.
 
-**ZVS:** Gamsung mite a hoihloh ciangin a banbanin gam uk kumpi tampi nei uh a, ahi zongin mipil thungaihsun theite in gamsung thahatsakin kipsak uh hi.
+**ZVS:** Gamsung mite a hoihloh ciangin a banbanin gam uk kumpi tampi nei-te a, ahi zongin mipil thungaihsun theite in gamsung thahatsakin kipsak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -50,18 +50,18 @@
 ### v4
 **EN:** They that forsake the law praise the wicked: but such as keep the law contend with them.
 
-**TDB77:** Thukham zui lo mite in migilote pakta uh a, thukham zui mite ahih leh migilote tawh kilemlo uh hi.
+**TDB77:** Thukham zui lo mite in migilote pakta-te a, thukham zui mite ahih leh migilote tawh kilemlo-te hi.
 
-**ZVS:** Thukham a zuilo mite in migilote pakta uh a, thukham a zui mite ahih leh migilote tawh kilemlo uh hi.
+**ZVS:** Thukham a zuilo mite in migilote pakta-te a, thukham a zui mite ahih leh migilote tawh kilemlo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** Evil men understand not judgment: but they that seek the
 
-**TDB77:** Mi sia-huaite in thutang cih mel thei lo uh a, Topa a biate in ahih leh a kicingin thei uh hi.
+**TDB77:** Mi sia-huaite in thutang cih mel thei lo-te a, Topa a biate in ahih leh a kicingin thei-te hi.
 
-**ZVS:** Mi siahuaite in thutang cihmel theilo uh a, { Topa } a biate in ahih leh a kicingin a thei uh hi.
+**ZVS:** Mi siahuaite in thutang cihmel theilo-te a, { Topa } a biate in ahih leh a kicingin a thei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -118,9 +118,9 @@
 ### v12
 **EN:** When righteous men do rejoice, there is great glory: but when the wicked rise, a man is hidden.
 
-**TDB77:** Mihoihte in vangliatna a ngah ciangin, mi khempeuh lungdam uh a, migilote a liat ciangin, adangte in gimna thuak uh hi.
+**TDB77:** Mihoihte in vangliatna a ngah ciangin, mi khempeuh lungdam-te a, migilote a liat ciangin, adangte in gimna thuak-te hi.
 
-**ZVS:** Mihoihte in vangliatna a ngah ciangin mi khempeuh lungdam uh a, migilote a liat ciangin adangte in gimna thuak uh hi.
+**ZVS:** Mihoihte in vangliatna a ngah ciangin mi khempeuh lungdam-te a, migilote a liat ciangin adangte in gimna thuak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -129,7 +129,7 @@
 
 **TDB77:** A khialhna a im mipa a dau pai lo ding a, a mawhna pulakin a kikheel mipa in hehpihna ngah ding hi.
 
-**ZVS:** A khialhna a im mite a dau pailo ding a, a mawhna pulakin a kikhel mite in hehpihna ngah ding uh hi.
+**ZVS:** A khialhna a im mite a dau pailo ding a, a mawhna pulakin a kikhel mite in hehpihna ngah ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -138,7 +138,7 @@
 
 **TDB77:** Topa a zahtak tawntung mipa in mi nuamsa hi a, a lung khauh mipa in lungkhamna tuak ding hi.
 
-**ZVS:** { Topa } a zahtak tawntungte pen mi nuamsa hi a, a lungkhauh mite in lungkhamna tuak ding uh hi.
+**ZVS:** { Topa } a zahtak tawntungte pen mi nuamsa hi a, a lungkhauh mite in lungkhamna tuak ding-te hi.
 
 **Grammar:** future: will
 
@@ -170,9 +170,9 @@
 ### v18
 **EN:** Whoso walketh uprightly shall be saved: but he that is perverse in his ways shall fall at once.
 
-**TDB77:** Thuman-a gamta mite lung muangin om ding uh a, a zuautat mite ahih leh puk ding uh hi.
+**TDB77:** Thuman-a gamta mite lung muangin om ding-te a, a zuautat mite ahih leh puk ding-te hi.
 
-**ZVS:** Thumanin a gamta mite lungmuangin om ding uh a, a zuautat mite ahih leh puk ding uh hi.
+**ZVS:** Thumanin a gamta mite lungmuangin om ding-te a, a zuautat mite ahih leh puk ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -256,9 +256,9 @@
 ### v28
 **EN:** When the wicked rise, men hide themselves: but when they perish, the righteous increase.
 
-**TDB77:** Migilote a liat ciangin midangte bucip uh a, amaute a za kiat ciangin midikte in uk kik ding hi.
+**TDB77:** Migilote a liat ciangin midangte bucip-te a, amaute a za kiat ciangin midikte in uk kik ding hi.
 
-**ZVS:** Migilote a liat ciangin midangte bucip uh a, amaute a zakiat ciangin midikte in ukkik ding hi.
+**ZVS:** Migilote a liat ciangin midangte bucip-te a, amaute a zakiat ciangin midikte in ukkik ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

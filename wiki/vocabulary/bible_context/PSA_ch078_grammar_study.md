@@ -27,9 +27,9 @@
 ### v1
 **EN:** Give ear, O my people, to my law: incline your ears to the words of my mouth.
 
-**TDB77:** Ka mite aw, keima hilhna ngai un la, ka kam tawh ka thugente na bil uh hong ngat un!
+**TDB77:** Ka mite aw, keima hilhna ngai un la, ka kam tawh ka thugente na bil-te hong ngat un!
 
-**ZVS:** Ka mite aw, keima hilhna ngai un la, ka kam tawh ka thugente na bil uh hong ngat un.
+**ZVS:** Ka mite aw, keima hilhna ngai un la, ka kam tawh ka thugente na bil-te hong ngat un.
 
 ### v3
 **EN:** Which we have heard and known, and our fathers have told us.
@@ -57,27 +57,27 @@
 ### v9
 **EN:** The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.
 
-**TDB77:** Thal a tawi Efraim mite in gal kido ni-in nungkik uh hi.
+**TDB77:** Thal a tawi Efraim mite in gal kido ni-in nungkik-te hi.
 
-**ZVS:** Thal a tawi Efraim mite, galkido ni-in nungkik uh hi.
+**ZVS:** Thal a tawi Efraim mite, galkido ni-in nungkik-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** They kept not the covenant of God, and refused to walk in his law;
 
-**TDB77:** Amaute in Pasian’ thuciamna zui lo uh a, ama thukham bangin gamta nuam lo uh hi.
+**TDB77:** Amaute in Pasian’ thuciamna zui lo-te a, ama thukham bangin gamta nuam lo-te hi.
 
-**ZVS:** Amaute in Pasian' thuciamna zuilo uh a, ama thukham bangin gamta nuamlo uh hi.
+**ZVS:** Amaute in Pasian' thuciamna zuilo-te a, ama thukham bangin gamta nuamlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v11
 **EN:** And forgat his works, and his wonders that he had shewed them.
 
-**TDB77:** Ama bawlsa leh amau tunga nalamdang a lahsate amaute in mangngilh uh hi.
+**TDB77:** Ama bawlsa leh amau tunga nalamdang a lahsate amaute in mangngilh-te hi.
 
-**ZVS:** Ama bawlsa leh amaute tungah na lamdang a lahsate amaute in mangngilh uh hi.
+**ZVS:** Ama bawlsa leh amaute tungah na lamdang a lahsate amaute in mangngilh-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -123,36 +123,36 @@
 ### v17
 **EN:** And they sinned yet more against him by provoking the most High in the wilderness.
 
-**TDB77:** Ahi zongin ama tungah amaute khial lailai uh a, sehnel gam sungah Sang Penpa lehpan’ uh hi.
+**TDB77:** Ahi zongin ama tungah amaute khial lailai-te a, sehnel gam sungah Sang Penpa lehpan’ uh hi.
 
-**ZVS:** Ahi zongin ama tungah amaute khial lailai uh a, Sehnel gamsungah Sangpenpa a lehpan' uh hi.
+**ZVS:** Ahi zongin ama tungah amaute khial lailai-te a, Sehnel gamsungah Sangpenpa a lehpan' uh hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** And they tempted God in their heart by asking meat for their lust.
 
-**TDB77:** Amau’ duh mahmah an kalhna tawh amaute in a lungsim sung uh-ah Pasian ze-et uh hi.
+**TDB77:** Amau’ duh mahmah an kalhna tawh amaute in a lungsim sung uh-ah Pasian ze-et-te hi.
 
-**ZVS:** Amaute in amau' duh mahmah an a kalhna uh tawh amaute in a lungsim sung uhah Pasian a ze-et uh hi.
+**ZVS:** Amaute in amau' duh mahmah an a kalhna-te tawh amaute in a lungsim sung uhah Pasian a ze-et-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v19
 **EN:** Yea, they spake against God; they said, Can God furnish a table in the wilderness?
 
-**TDB77:** Amaute in Pasian gensia uh a, “Pasian in gamlakah sabuai phah thei ding ahi hiam?
+**TDB77:** Amaute in Pasian gensia-te a, “Pasian in gamlakah sabuai phah thei ding ahi hiam?
 
-**ZVS:** Amaute in Pasian gensia uh a, “Pasian in gamlakah an pia thei ding ahi hiam?
+**ZVS:** Amaute in Pasian gensia-te a, “Pasian in gamlakah an pia thei ding ahi hiam?
 
 **Grammar:** plural: uh marker
 
 ### v20
 **EN:** Behold, he smote the rock, that the waters gushed out, and the streams overflowed; can he give bread also? can he provide flesh for his people?
 
-**TDB77:** Amah in suangpi sat a, tui lengkhia-in luite dimlet takpi ahi hiam? Amah in ama mite, an ahi a, sa-meh ahi zongin a pia thei takpi ahi hiam?” ci uh hi.
+**TDB77:** Amah in suangpi sat a, tui lengkhia-in luite dimlet takpi ahi hiam? Amah in ama mite, an ahi a, sa-meh ahi zongin a pia thei takpi ahi hiam?” ci-te hi.
 
-**ZVS:** Amah in suangpi sat a, tui lengkhia-in tuite dimlet takpi ahi hiam? Amah in ama mite, an ahi a, sameh ahi zongin a pia thei takpi ahi hiam?” a ci uh hi.
+**ZVS:** Amah in suangpi sat a, tui lengkhia-in tuite dimlet takpi ahi hiam? Amah in ama mite, an ahi a, sameh ahi zongin a pia thei takpi ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -168,9 +168,9 @@
 ### v22
 **EN:** Because they believed not in God, and trusted not in his salvation:
 
-**TDB77:** Bang hang hiam cih leh amaute in Pasian um lo uh a, ama hotkhiat vangliatna muang lo uh hi.
+**TDB77:** Bang hang hiam cih leh amaute in Pasian um lo-te a, ama hotkhiat vangliatna muang lo-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in Pasian umlo uh a, a honkhiazo dingin muanglo uh hi.
+**ZVS:** Bang hang hiam cih leh amaute in Pasian umlo-te a, a honkhiazo dingin muanglo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -197,7 +197,7 @@
 
 **TDB77:** Mihingte in vantungmite’ an ne a, amah in amaute tungah an tampi puak hi.
 
-**ZVS:** Mihingte in vantung mite' an ne uh a, amah in amaute tungah an tampi a puak hi.
+**ZVS:** Mihingte in vantung mite' an ne-te a, amah in amaute tungah an tampi a puak hi.
 
 ### v26
 **EN:** He caused an east wind to blow in the heaven: and by his power he brought in the south wind.
@@ -227,18 +227,18 @@
 ### v29
 **EN:** So they did eat, and were well filled: for he gave them their own desire;
 
-**TDB77:** Amah in amau’ duhpen pia ahih manin, amaute in ne-in gilvah uh hi.
+**TDB77:** Amah in amau’ duhpen pia ahih manin, amaute in ne-in gilvah-te hi.
 
-**ZVS:** Amau' duh pen pia ahih manin, amaute in ne-in gilvah uh hi.
+**ZVS:** Amau' duh pen pia ahih manin, amaute in ne-in gilvah-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | plural: uh marker
 
 ### v30
 **EN:** They were not estranged from their lust. But while their meat was yet in their mouths,
 
-**TDB77:** Ahih hangin amaute in a duhpen uh a kham ma, amau kam sungah an om laipi mahin,
+**TDB77:** Ahih hangin amaute in a duhpen-te a kham ma, amau kam sungah an om laipi mahin,
 
-**ZVS:** Ahih hangin amaute in a duh pen uh a kham ma, amau' kam sungah an a omlaipi mahin,
+**ZVS:** Ahih hangin amaute in a duh pen-te a kham ma, amau' kam sungah an a omlaipi mahin,
 
 **Grammar:** plural: uh marker
 
@@ -254,9 +254,9 @@
 ### v32
 **EN:** For all this they sinned still, and believed not for his wondrous works.
 
-**TDB77:** Hih nalamdangte khempeuh om napi-in amaute khial lai veve uh a, ama nalamdangte hangin amaute in um tuan lo uh hi.
+**TDB77:** Hih nalamdangte khempeuh om napi-in amaute khial lai veve-te a, ama nalamdangte hangin amaute in um tuan lo-te hi.
 
-**ZVS:** Hih na lamdangte khempeuh a omkhin hinapi-in amaute khial lai veve uh a, ama na lamdangte' hangin amaute in um tuanlo uh hi.
+**ZVS:** Hih na lamdangte khempeuh a omkhin hinapi-in amaute khial lai veve-te a, ama na lamdangte' hangin amaute in um tuanlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -272,36 +272,36 @@
 ### v34
 **EN:** When he slew them, then they sought him: and they returned and enquired early after God.
 
-**TDB77:** Amah in amaute a thah ciangin amaute in amah zong a, amaute kisikin, lungsim taktak tawh Pasian zong uh hi.
+**TDB77:** Amah in amaute a thah ciangin amaute in amah zong a, amaute kisikin, lungsim taktak tawh Pasian zong-te hi.
 
-**ZVS:** Amaute pawlkhat a thah khit ciangin a omlai mite in amah zong pan uh hi. Amaute kisikin, lungsim taktak tawh Pasian a zong uh hi.
+**ZVS:** Amaute pawlkhat a thah khit ciangin a omlai mite in amah zong pan-te hi. Amaute kisikin, lungsim taktak tawh Pasian a zong-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v35
 **EN:** And they remembered that God was their rock, and the high God their redeemer.
 
-**TDB77:** Amaute in Pasian pen, amau tankhiapa Sangpen Pasian, a suangpi uh ahihna phawk uh hi.
+**TDB77:** Amaute in Pasian pen, amau tankhiapa Sangpen Pasian, a suangpi-te ahihna phawk-te hi.
 
-**ZVS:** Amaute in Pasian pen, amaute a honkhia, Sangpen Pasian, amaute a hupa ahihna a phawk uh hi.
+**ZVS:** Amaute in Pasian pen, amaute a honkhia, Sangpen Pasian, amaute a hupa ahihna a phawk-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v36
 **EN:** Nevertheless they did flatter him with their mouth, and they lied unto him with their tongues.
 
-**TDB77:** Ahih hangin amaute in a kam uh tawh amah phat khem uh a, a lei uh tawh ama tungah zuau gen uh hi.
+**TDB77:** Ahih hangin amaute in a kam-te tawh amah phat khem-te a, a lei-te tawh ama tungah zuau gen-te hi.
 
-**ZVS:** Ahih hangin amaute in a kampi bek uh tawh amah phatkhem uh a, a leii uh tawh ama tungah zuaugen uh hi.
+**ZVS:** Ahih hangin amaute in a kampi bek-te tawh amah phatkhem-te a, a leii-te tawh ama tungah zuaugen-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v37
 **EN:** For their heart was not right with him, neither were they stedfast in his covenant.
 
-**TDB77:** Amau lungsim uh ama lamah kip lo a, ama thuciamna-ah amaute thuman lo hi.
+**TDB77:** Amau lungsim-te ama lamah kip lo a, ama thuciamna-ah amaute thuman lo hi.
 
-**ZVS:** Amaute' lungsim ama lamah kiplo uh a, ama thuciamna-ah amaute thumanlo uh hi.
+**ZVS:** Amaute' lungsim ama lamah kiplo-te a, ama thuciamna-ah amaute thumanlo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -317,41 +317,41 @@
 ### v39
 **EN:** For he remembered that they were but flesh; a wind that passeth away, and cometh not again.
 
-**TDB77:** Amah in, amaute pen mihing hi lel a, hong paikik nawn lo huih nung bang ahihna uh phawk hi.
+**TDB77:** Amah in, amaute pen mihing hi lel a, hong paikik nawn lo huih nung bang ahihna-te phawk hi.
 
-**ZVS:** Amah in, amaute pen mihing hi lel a, a hong paikik nawnlo huihnung bang ahihna uh a phawk hi.
+**ZVS:** Amah in, amaute pen mihing hi lel a, a hong paikik nawnlo huihnung bang ahihna-te a phawk hi.
 
 ### v40
 **EN:** How oft did they provoke him in the wilderness, and grieve him in the desert!
 
-**TDB77:** Amaute in gam lakah amah lehdo zelzelin, sehnel gam sungah amah dahsak uh hi!
+**TDB77:** Amaute in gam lakah amah lehdo zelzelin, sehnel gam sungah amah dahsak-te hi!
 
-**ZVS:** Amaute in gamlakah amah lehdo zelzel uh a, sehnel gamsungah amah dahsak uh hi.
+**ZVS:** Amaute in gamlakah amah lehdo zelzel-te a, sehnel gamsungah amah dahsak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v41
 **EN:** Yea, they turned back and tempted God, and limited the Holy One of Israel.
 
-**TDB77:** Amaute in amah ze-et kikkik uh a, Israelte’ Siangtho Pa phin uh hi.
+**TDB77:** Amaute in amah ze-et kikkik-te a, Israelte’ Siangtho Pa phin-te hi.
 
-**ZVS:** Amaute in amah ze-et kikkik uh a, Israel-te' Siangtho Pasian a phin uh hi.
+**ZVS:** Amaute in amah ze-et kikkik-te a, Israel-te' Siangtho Pasian a phin-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v43
 **EN:** How he had wrought his signs in Egypt, and his wonders in the field of Zoan:
 
-**TDB77:** Galte' kiang panin amah in amaute a hotkhiat ni hita leh, Egypt gamah ama limte a bawl hun lai hita leh, Zoan gamah a bawl a na lamdangte hita leh, ama vangliatna hita leh, amaute in ngaihsutin neilo uh hi.
+**TDB77:** Galte' kiang panin amah in amaute a hotkhiat ni hita leh, Egypt gamah ama limte a bawl hun lai hita leh, Zoan gamah a bawl a na lamdangte hita leh, ama vangliatna hita leh, amaute in ngaihsutin neilo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v44
 **EN:** And had turned their rivers into blood; and their floods, that they could not drink.
 
-**TDB77:** Amaute in a luituite uh a dawn theih loh nadingin amau gunte amah in sisan a suaksak hi.
+**TDB77:** Amaute in a luituite-te a dawn theih loh nadingin amau gunte amah in sisan a suaksak hi.
 
-**ZVS:** Amaute in a luituite uh a dawn theihlohna dingin amau' guntuite amah in sisan a suaksak hi.
+**ZVS:** Amaute in a luituite-te a dawn theihlohna dingin amau' guntuite amah in sisan a suaksak hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -372,16 +372,16 @@
 ### v47
 **EN:** He destroyed their vines with hail, and their sycomore trees with frost.
 
-**TDB77:** Amah in, a leengguite uh gial tawh denggawp a, a theithekte uh vukkhal tawh susia hi.
+**TDB77:** Amah in, a leengguite-te gial tawh denggawp a, a theithekte-te vukkhal tawh susia hi.
 
-**ZVS:** A leengguite uh gial tawh denggawp a, a theithekte uh vukkhal tawh susia hi.
+**ZVS:** A leengguite-te gial tawh denggawp a, a theithekte-te vukkhal tawh susia hi.
 
 ### v48
 **EN:** He gave up their cattle also to the hail, and their flocks to hot thunderbolts.
 
-**TDB77:** Amah in, a ganhingte uh gial tawh denglum a, a gankhawite uh keek tawh denglum hi.
+**TDB77:** Amah in, a ganhingte-te gial tawh denglum a, a gankhawite-te keek tawh denglum hi.
 
-**ZVS:** A ganhingte uh gial tawh denglum a, a gan khawite uh keek tawh a denglum hi.
+**ZVS:** A ganhingte-te gial tawh denglum a, a gan khawite-te keek tawh a denglum hi.
 
 ### v49
 **EN:** He cast upon them the fierceness of his anger, wrath, and indignation, and trouble, by sending evil angels among them.
@@ -416,9 +416,9 @@
 ### v53
 **EN:** And he led them on safely, so that they feared not: but the sea overwhelmed their enemies.
 
-**TDB77:** Amah in muan’huaina mun-ah amaute paipih ahih manin amaute lau lo uh hi; ahih hangin tuipi in amau’ galte tumcip hi.
+**TDB77:** Amah in muan’huaina mun-ah amaute paipih ahih manin amaute lau lo-te hi; ahih hangin tuipi in amau’ galte tumcip hi.
 
-**ZVS:** Amah in a muan'huaina munah amaute paipih ahih manin amaute laulo uh hi. Ahih hangin tuipi in amau' galte tumcip hi.
+**ZVS:** Amah in a muan'huaina munah amaute paipih ahih manin amaute laulo-te hi. Ahih hangin tuipi in amau' galte tumcip hi.
 
 **Grammar:** negation: lo | causal: because | plural: uh marker
 
@@ -441,27 +441,27 @@
 ### v56
 **EN:** Yet they tempted and provoked the most high God, and kept not his testimonies:
 
-**TDB77:** Ahi zongin amaute in Sangpen Pasian ze-etin lehdo uh a, ama teci pan’nate zui loin,
+**TDB77:** Ahi zongin amaute in Sangpen Pasian ze-etin lehdo-te a, ama teci pan’nate zui loin,
 
-**ZVS:** Ahi zongin amaute in Sangpen Pasian ze-etin lehdo uh a, ama thupiakna zuiloin,
+**ZVS:** Ahi zongin amaute in Sangpen Pasian ze-etin lehdo-te a, ama thupiakna zuiloin,
 
 **Grammar:** plural: uh marker
 
 ### v57
 **EN:** But turned back, and dealt unfaithfully like their fathers: they were turned aside like a deceitful bow.
 
-**TDB77:** a pate uh mah bangin kiheikhia-in zuau gamtat uh hi; thal ginalo bangin amaute kihuiheek uh hi.
+**TDB77:** a pate-te mah bangin kiheikhia-in zuau gamtat-te hi; thal ginalo bangin amaute kihuiheek-te hi.
 
-**ZVS:** a pu a pate uh mah bangin kiheikhia-in a zuau gamtat uh hi. Thal ginalo bangin amaute a kihuiheek uh hi.
+**ZVS:** a pu a pate-te mah bangin kiheikhia-in a zuau gamtat-te hi. Thal ginalo bangin amaute a kihuiheek-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v58
 **EN:** For they provoked him to anger with their high places, and moved him to jealousy with their graven images.
 
-**TDB77:** Bang hang hiam cih leh amaute in amau’ munsangte tawh amah a sinso nadingin phin uh a, amau’ milim bawlte tawh ama hazat nading piangsak uh hi.
+**TDB77:** Bang hang hiam cih leh amaute in amau’ munsangte tawh amah a sinso nadingin phin-te a, amau’ milim bawlte tawh ama hazat nading piangsak-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in a munsangte uh tawh amah a sinsona dingin phinphin uh a, amau' milim bawlte tawh ama hazatna ding a piangsak uh hi.
+**ZVS:** Bang hang hiam cih leh amaute in a munsangte-te tawh amah a sinsona dingin phinphin-te a, amau' milim bawlte tawh ama hazatna ding a piangsak-te hi.
 
 **Grammar:** causative: -sak suffix | purpose: in order to | plural: uh marker
 
@@ -507,9 +507,9 @@
 ### v64
 **EN:** Their priests fell by the sword; and their widows made no lamentation.
 
-**TDB77:** Amau siampite, namsau in puksak a, amau zite in kah zo lo uh hi.
+**TDB77:** Amau siampite, namsau in puksak a, amau zite in kah zo lo-te hi.
 
-**ZVS:** Amau' siampite, namsau in puksak a, amau' zite in a pasalte kah zolo uh hi.
+**ZVS:** Amau' siampite, namsau in puksak a, amau' zite in a pasalte kah zolo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

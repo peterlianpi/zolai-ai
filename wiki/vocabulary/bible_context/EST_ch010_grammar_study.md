@@ -35,9 +35,9 @@
 ### v3
 **EN:** For Mordecai the Jew was next unto king Ahasuerus, and great among the Jews, and accepted of the multitude of his brethren, seeking the wealth of his people, and speaking peace to all his seed.
 
-**TDB77:** Bang hang hiam cih leh Kumpipa Ahasu-eras’ zomah Mordekai in a za lianpen nihna ahi hi; Mordekai in ama mite’ phattuam nading leh a suan-le-khakte uh a khan’toh nading hanciam ahih manin Judah mite lakah milian khat hi a, a gam mihonpite in it kim uh hi.
+**TDB77:** Bang hang hiam cih leh Kumpipa Ahasu-eras’ zomah Mordekai in a za lianpen nihna ahi hi; Mordekai in ama mite’ phattuam nading leh a suan-le-khakte-te a khan’toh nading hanciam ahih manin Judah mite lakah milian khat hi a, a gam mihonpite in it kim-te hi.
 
-**ZVS:** Bang hang hiam cih leh Kumpipa Ahasueras' zomah Mordekai a lianpen ahi hi. Mordekai in ama mite' phattuamna ding leh a suanlekhakte uh a khan'tohna ding hanciam ahih manin Jew mite lakah milian khat hi a, a gam mihonpite in a it kim uh hi.
+**ZVS:** Bang hang hiam cih leh Kumpipa Ahasueras' zomah Mordekai a lianpen ahi hi. Mordekai in ama mite' phattuamna ding leh a suanlekhakte-te a khan'tohna ding hanciam ahih manin Jew mite lakah milian khat hi a, a gam mihonpite in a it kim-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 

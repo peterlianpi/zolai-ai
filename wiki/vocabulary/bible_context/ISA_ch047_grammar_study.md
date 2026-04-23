@@ -141,18 +141,18 @@
 ### v14
 **EN:** Behold, they shall be as stubble; the fire shall burn them; they shall not deliver themselves from the power of the flame: there shall not be a coal to warm at, nor fire to sit before it.
 
-**TDB77:** En in, amaute pen buhkung tawh kibang uh a, mei in amaute kangtum hi; meikuang’ vangliatna panin amau leh amau kihontawm thei lo uh hi. Hih pen khua lum nading mei-am hi lo a, awi ding mei zong hi lo hi.
+**TDB77:** En in, amaute pen buhkung tawh kibang-te a, mei in amaute kangtum hi; meikuang’ vangliatna panin amau leh amau kihontawm thei lo-te hi. Hih pen khua lum nading mei-am hi lo a, awi ding mei zong hi lo hi.
 
-**ZVS:** En in, amaute pen buhkung tawh kibang uh a, mei in amaute kangtum hi. Meikuang' vangliatna panin amau leh amau kihontawm theilo uh hi. Hih pen khua lumna ding mei-am hilo a, awi ding mei zong hilo hi.
+**ZVS:** En in, amaute pen buhkung tawh kibang-te a, mei in amaute kangtum hi. Meikuang' vangliatna panin amau leh amau kihontawm theilo-te hi. Hih pen khua lumna ding mei-am hilo a, awi ding mei zong hilo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Thus shall they be unto thee with whom thou hast laboured, even thy merchants, from thy youth: they shall wander every one to his quarter; none shall save thee.
 
-**TDB77:** Nang tawh na a semkhawm, na neu lai-a kipan nang tawh na a semkhawmte tungah hih thute hong tung ding hi; amaute pen amau’ tum ciatah zauvak uh hi; nang hong hon ding kuamah om lo hi.
+**TDB77:** Nang tawh na a semkhawm, na neu lai-a kipan nang tawh na a semkhawmte tungah hih thute hong tung ding hi; amaute pen amau’ tum ciatah zauvak-te hi; nang hong hon ding kuamah om lo hi.
 
-**ZVS:** Nang tawh na a semkhawm, na neu lai-a kipan nang tawh na a semkhawmte tungah hih thute hong tung ding hi. Amaute pen amau' tum ciatah zauvak uh a, nang a hong hon ding kuamah omlo hi.
+**ZVS:** Nang tawh na a semkhawm, na neu lai-a kipan nang tawh na a semkhawmte tungah hih thute hong tung ding hi. Amaute pen amau' tum ciatah zauvak-te a, nang a hong hon ding kuamah omlo hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

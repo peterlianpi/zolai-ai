@@ -18,9 +18,9 @@
 ### v1
 **EN:** And seeing the multitudes, he went up into a mountain: and when he was set, his disciples came unto him:
 
-**TDB77:** Tua mihonpi a muh ciangin, Topa in mual tungah kahto a, tu-a a om lai takin, a nungzuite in ama kiangah va nai uh hi.
+**TDB77:** Tua mihonpi a muh ciangin, Topa in mual tungah kahto a, tu-a a om lai takin, a nungzuite in ama kiangah va nai-te hi.
 
-**ZVS:** Jesuh in tua bangin mihon tampi tak a muh ciangin mualtung lamah kahto-in tusuk a, a nungzuite zong ama nai-ah hong tu uh hi.
+**ZVS:** Jesuh in tua bangin mihon tampi tak a muh ciangin mualtung lamah kahto-in tusuk a, a nungzuite zong ama nai-ah hong tu-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

@@ -1,0 +1,6 @@
+# Literature/Tedim Labu/TAWMVEI SUNG LUNGGIM THUAK KHIT CIANG (TDM - 65).txt
+
+Full-text export split into parts for reliability.
+
+## Parts
+- `part-0001.md`

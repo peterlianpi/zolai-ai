@@ -37,9 +37,9 @@
 ### v3
 **EN:** Who whet their tongue like a sword, and bend their bows to shoot their arrows, even bitter words:
 
-**TDB77:** namsau banga a leii uh a tatte, thaltang banga thu hoih lo a ngimte,
+**TDB77:** namsau banga a leii-te a tatte, thaltang banga thu hoih lo a ngimte,
 
-**ZVS:** namsau taat bangin a leii uh a taatte, thaltang bangin thu hoihlo a ngimte,
+**ZVS:** namsau taat bangin a leii-te a taatte, thaltang bangin thu hoihlo a ngimte,
 
 **Grammar:** plural: uh marker
 
@@ -55,54 +55,54 @@
 ### v5
 **EN:** They encourage themselves in an evil matter: they commune of laying snares privily; they say, Who shall see them?
 
-**TDB77:** Amaute in a thusia ngaihsutna uh len kip uh hi; amaute in thang siahsim ding gen uh a, “Eite kua in hong mu ding ahi hiam?
+**TDB77:** Amaute in a thusia ngaihsutna-te len kip-te hi; amaute in thang siahsim ding gen-te a, “Eite kua in hong mu ding ahi hiam?
 
-**ZVS:** Amaute in thusia bekbek ngaihsun niloh uh hi. Amaute in thangsiah sim ding gen uh a, “Eite kua in hong mu ding ahi hiam?
+**ZVS:** Amaute in thusia bekbek ngaihsun niloh-te hi. Amaute in thangsiah sim ding gen-te a, “Eite kua in hong mu ding ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** They search out iniquities; they accomplish a diligent search: both the inward thought of every one of them, and the heart, is deep.
 
-**TDB77:** Eite’ mawhna kua in hong kankhia zo ding ahi hiam? Siam mahmahna tawh i sawm simna i ngaihsun khia hi,” ci-in ngaihsun uh hi. Bang hang hiam cih leh mihingte’ sung thu leh lungsim thuk mahmah hi.
+**TDB77:** Eite’ mawhna kua in hong kankhia zo ding ahi hiam? Siam mahmahna tawh i sawm simna i ngaihsun khia hi,” ci-in ngaihsun-te hi. Bang hang hiam cih leh mihingte’ sung thu leh lungsim thuk mahmah hi.
 
-**ZVS:** Eite' mawhna kua in phawkzo ding ahi hiam? Siam mahmahna tawh i sawmsimna i vaihawm hi,” ci-in a ngaihsun uh hi. Bang hang hiam cih leh mihingte' sung thu leh a lungsim ngaihsutna uh thuk mahmah hi.
+**ZVS:** Eite' mawhna kua in phawkzo ding ahi hiam? Siam mahmahna tawh i sawmsimna i vaihawm hi,” ci-in a ngaihsun-te hi. Bang hang hiam cih leh mihingte' sung thu leh a lungsim ngaihsutna-te thuk mahmah hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 
 ### v7
 **EN:** But God shall shoot at them with an arrow; suddenly shall they be wounded.
 
-**TDB77:** Ahih hangin Pasian in a thaltang tawh amaute kap ding hi; amaute thakhatin liam ding uh hi.
+**TDB77:** Ahih hangin Pasian in a thaltang tawh amaute kap ding hi; amaute thakhatin liam ding-te hi.
 
-**ZVS:** Ahih hangin Pasian in a thaltang tawh amaute kapgawp ding a, amaute khempeuh thakhatin liam ding uh hi.
+**ZVS:** Ahih hangin Pasian in a thaltang tawh amaute kapgawp ding a, amaute khempeuh thakhatin liam ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v8
 **EN:** So they shall make their own tongue to fall upon themselves: all that see them shall flee away.
 
-**TDB77:** Amau’ kampauna hangin amah in amaute siatna ngah sak ding a, amau a mu khempeuh in a lu uh peisan ding uh hi.
+**TDB77:** Amau’ kampauna hangin amah in amaute siatna ngah sak ding a, amau a mu khempeuh in a lu-te peisan ding-te hi.
 
-**ZVS:** Amau' kampaunate hangin amaute siatna thuaksak ding a, amaute a mu khempeuh in a lu uh peisan ding uh hi.
+**ZVS:** Amau' kampaunate hangin amaute siatna thuaksak ding a, amaute a mu khempeuh in a lu-te peisan ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v9
 **EN:** And all men shall fear, and shall declare the work of God; for they shall wisely consider of his doing.
 
-**TDB77:** Tua ciangin mi khempeuh lau ding uh hi; amaute in Pasian hihsa thute gen ding uh a, ama hihsate ngaihsunsun ding uh hi.
+**TDB77:** Tua ciangin mi khempeuh lau ding-te hi; amaute in Pasian hihsa thute gen ding-te a, ama hihsate ngaihsunsun ding-te hi.
 
-**ZVS:** Tua ciangin mi khempeuh lau ding uh hi. Amaute in Pasian' hihsa thute gengen ding uh a, ama hihsa nate khempeuh ngaihsunsun ding uh hi.
+**ZVS:** Tua ciangin mi khempeuh lau ding-te hi. Amaute in Pasian' hihsa thute gengen ding-te a, ama hihsa nate khempeuh ngaihsunsun ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v10
 **EN:** The righteous shall be glad in the
 
-**TDB77:** Topa’ sungah midikte lungdam ding uh a, ama sungah bu ding uh hi. Lungsim thutangte khempeuh in amah phat ding uh hi.
+**TDB77:** Topa’ sungah midikte lungdam ding-te a, ama sungah bu ding-te hi. Lungsim thutangte khempeuh in amah phat ding-te hi.
 
-**ZVS:** { Topa' } nasepna hangin midikte lungdam ding uh a, amah a bel ding uh hi. Lungsim thutangte khempeuh in amah a phat ding uh hi.
+**ZVS:** { Topa' } nasepna hangin midikte lungdam ding-te a, amah a bel ding-te hi. Lungsim thutangte khempeuh in amah a phat ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

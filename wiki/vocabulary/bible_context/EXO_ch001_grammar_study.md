@@ -50,14 +50,14 @@
 ### v6
 **EN:** And Joseph died, and all his brethren, and all that generation.
 
-**TDB77:** Tua ciangin Josef leh a sanggamte leh tua khangmi khempeuh si uh hi.
+**TDB77:** Tua ciangin Josef leh a sanggamte leh tua khangmi khempeuh si-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v7
 **EN:** And the children of Israel were fruitful, and increased abundantly, and multiplied, and waxed exceeding mighty; and the land was filled with them.
 
-**TDB77:** Ahih hangin Israel' suanlekhakte pungin nakpi takin khang uh hi. Amaute tampi pha-in nakpi takin khang uh ahih manin Egypt gamah dim uh hi.
+**TDB77:** Ahih hangin Israel' suanlekhakte pungin nakpi takin khang-te hi. Amaute tampi pha-in nakpi takin khang-te ahih manin Egypt gamah dim-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | plural: uh marker
 
@@ -71,42 +71,42 @@
 ### v9
 **EN:** And he said unto his people, Behold, the people of the children of Israel are more and mightier than we:
 
-**TDB77:** Amah in a mipihte kiangah, “En un, Israel mite eite-a' dingin tam lua-in thahat lua uh hi.
+**TDB77:** Amah in a mipihte kiangah, “En un, Israel mite eite-a' dingin tam lua-in thahat lua-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Come on, let us deal wisely with them; lest they multiply, and it come to pass, that, when there falleth out any war, they join also unto our enemies, and fight against us, and so get them up out of the land.
 
-**TDB77:** Amaute hong tam khading uh ahih manin ngaihsut siamna tawh amaute hih ni. Eite tungah gal hong om leh amaute in i galte pawlin eite hong do-in hih gam panin taikhia khading uh hi,” a ci hi.
+**TDB77:** Amaute hong tam khading-te ahih manin ngaihsut siamna tawh amaute hih ni. Eite tungah gal hong om leh amaute in i galte pawlin eite hong do-in hih gam panin taikhia khading-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | plural: uh marker
 
 ### v11
 **EN:** Therefore they did set over them taskmasters to afflict them with their burdens. And they built for Pharaoh treasure cities, Pithom and Rameses.
 
-**TDB77:** Tua ahih ciangin nasepna tawh amaute a gimsak dingin amaute tungah nasem ukte koih uh hi. Israel mite in Faro-a' dingin van koihna Pithom leh Rameses khuapite lam uh hi.
+**TDB77:** Tua ahih ciangin nasepna tawh amaute a gimsak dingin amaute tungah nasem ukte koih-te hi. Israel mite in Faro-a' dingin van koihna Pithom leh Rameses khuapite lam-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v12
 **EN:** But the more they afflicted them, the more they multiplied and grew. And they were grieved because of the children of Israel.
 
-**TDB77:** Ahih hangin amaute a kinenniam ciangin amaute tampi phazaw-in kizelthang zaw uh hi. Egypt mite in Israel mite kihta uh hi.
+**TDB77:** Ahih hangin amaute a kinenniam ciangin amaute tampi phazaw-in kizelthang zaw-te hi. Egypt mite in Israel mite kihta-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And the Egyptians made the children of Israel to serve with rigour:
 
-**TDB77:** Tua ahih ciangin amaute in Israel mite a gim mahmahin na semsak uh a,
+**TDB77:** Tua ahih ciangin amaute in Israel mite a gim mahmahin na semsak-te a,
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v14
 **EN:** And they made their lives bitter with hard bondage, in mortar, and in brick, and in all manner of service in the field: all their service, wherein they made them serve, was with rigour.
 
-**TDB77:** buan leh leiseek tawh nasepna leh lo sungah nasep namkim khempeuh tawh amau' nuntakna haksa sak uh hi. Israel mite' sepna khempeuhah amaute in a gim mahmahin semsak uh hi.
+**TDB77:** buan leh leiseek tawh nasepna leh lo sungah nasep namkim khempeuh tawh amau' nuntakna haksa sak-te hi. Israel mite' sepna khempeuhah amaute in a gim mahmahin semsak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -120,49 +120,49 @@
 ### v16
 **EN:** And he said, When ye do the office of a midwife to the Hebrew women, and see them upon the stools; if it be a son, then ye shall kill him: but if it be a daughter, then she shall live.
 
-**TDB77:** “Hebru numeite nau domin, nausuahna tutphah tungah a tut ciangun, tapa ahih leh a naungek na that ding uh a, ahi zongin tanu ahih leh na nungtasak ding uh hi,” a ci hi.
+**TDB77:** “Hebru numeite nau domin, nausuahna tutphah tungah a tut ciangun, tapa ahih leh a naungek na that ding-te a, ahi zongin tanu ahih leh na nungtasak ding-te hi,” a ci hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | future: will | plural: uh marker
 
 ### v17
 **EN:** But the midwives feared God, and did not as the king of Egypt commanded them, but saved the men children alive.
 
-**TDB77:** Ahih hangin naudomte in Pasian zahtak uh hi. Egypt kumpipa in amaute a thupiak bangin gamtalo uh a, nau pasalte nungtasak uh hi.
+**TDB77:** Ahih hangin naudomte in Pasian zahtak-te hi. Egypt kumpipa in amaute a thupiak bangin gamtalo-te a, nau pasalte nungtasak-te hi.
 
 **Grammar:** causative: -sak suffix | plural: uh marker
 
 ### v18
 **EN:** And the king of Egypt called for the midwives, and said unto them, Why have ye done this thing, and have saved the men children alive?
 
-**TDB77:** Tua ahih ciangin Egypt kumpipa in naudomte samin amaute kiangah, “Bang hangin hih bangin gamta a, nau pasalte nungtasak na hi uh hiam?” a ci hi.
+**TDB77:** Tua ahih ciangin Egypt kumpipa in naudomte samin amaute kiangah, “Bang hangin hih bangin gamta a, nau pasalte nungtasak na hi-te hiam?” a ci hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
 ### v19
 **EN:** And the midwives said unto Pharaoh, Because the Hebrew women are not as the Egyptian women; for they are lively, and are delivered ere the midwives come in unto them.
 
-**TDB77:** Naudomte in Faro' kiangah, “Hebru numeite leh Egypt numeite a kibatlohna hang ahi hi. Bang hang hiam cih leh amaute thadim uh a, amau' kiangah naudomte a tun' ma-in amaute na suak khin pahpah uh hi,” na ci uh hi.
+**TDB77:** Naudomte in Faro' kiangah, “Hebru numeite leh Egypt numeite a kibatlohna hang ahi hi. Bang hang hiam cih leh amaute thadim-te a, amau' kiangah naudomte a tun' ma-in amaute na suak khin pahpah-te hi,” na ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** Therefore God dealt well with the midwives: and the people multiplied, and waxed very mighty.
 
-**TDB77:** Tua ahih ciangin Pasian in naudomte limbawl hi. Mite khangin pawlcing semsem uh hi.
+**TDB77:** Tua ahih ciangin Pasian in naudomte limbawl hi. Mite khangin pawlcing semsem-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v21
 **EN:** And it came to pass, because the midwives feared God, that he made them houses.
 
-**TDB77:** Naudomte in Pasian zahtak uh ahih manin amah in amaute tungah suanlekhak a pia hi.
+**TDB77:** Naudomte in Pasian zahtak-te ahih manin amah in amaute tungah suanlekhak a pia hi.
 
 **Grammar:** causal: because
 
 ### v22
 **EN:** And Pharaoh charged all his people, saying, Every son that is born ye shall cast into the river, and every daughter ye shall save alive.
 
-**TDB77:** Tua ciangin Faro in a mipihte khempeuh thu pia a, “Hebru mite sung panin tapa a suak khempeuh Nail gun sungah na khia ding uh a, ahi zongin tanu khempeuh na nungtasak ding uh hi,” a ci hi.
+**TDB77:** Tua ciangin Faro in a mipihte khempeuh thu pia a, “Hebru mite sung panin tapa a suak khempeuh Nail gun sungah na khia ding-te a, ahi zongin tanu khempeuh na nungtasak ding-te hi,” a ci hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 

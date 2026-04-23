@@ -41,7 +41,7 @@
 
 **TDB77:** Tua meikhu sung pan leitungah kauphete hong piangkhia a, tuate leitungah a om momaite’ vangliatna bang vangliatna pia a,
 
-**ZVS:** Tua meikhu sung panin kauphete hong pusuakin leitungah pai uh a, momaite' neih bangin a gupha mahmah amaute tungah a kipia hi.
+**ZVS:** Tua meikhu sung panin kauphete hong pusuakin leitungah pai-te a, momaite' neih bangin a gupha mahmah amaute tungah a kipia hi.
 
 ### v4
 **EN:** And it was commanded them that they should not hurt the grass of the earth, neither any green thing, neither any tree; but only those men which have not the seal of God in their foreheads.
@@ -57,16 +57,16 @@
 
 **TDB77:** Ciamtehna a ngah lo mite thah nading thu a pia kei hi, kha nga tawntung a haksa mahmah gimna a pian’sak nading thu a pia hi. Tuate gimna in momai in mi a sut ciangin a natna tawh kibang hi.
 
-**ZVS:** Amaute in tua bang mite thatloin kha nga sung a bawlsiatna ding uh thu kipia a, amaute' bawlsiatna pen momai in mi a deh ciangin a na tawh kibangin a na velval ahi hi.
+**ZVS:** Amaute in tua bang mite thatloin kha nga sung a bawlsiatna ding-te thu kipia a, amaute' bawlsiatna pen momai in mi a deh ciangin a na tawh kibangin a na velval ahi hi.
 
 **Grammar:** intensifier: very/greatly | negation: kei | reciprocal: ki- prefix
 
 ### v6
 **EN:** And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.
 
-**TDB77:** Tua nite lai takin mite in sih nading a zon’ uh hangin a mu kei ding uh hi. Amaute in a sih nop mahmah uh hangin sihna mangpa in amaute kiang pan a taikhia ding hi.
+**TDB77:** Tua nite lai takin mite in sih nading a zon’ uh hangin a mu kei ding-te hi. Amaute in a sih nop mahmah-te hangin sihna mangpa in amaute kiang pan a taikhia ding hi.
 
-**ZVS:** Tua hun ciangin mite in a sihtheihna ding uh a zon'zon' uh hangin sihtheihna ding lampi mulo ding uh a, sinuam mahmah napi-un sithei hetlo ding uh hi.
+**ZVS:** Tua hun ciangin mite in a sihtheihna ding-te a zon'zon' uh hangin sihtheihna ding lampi mulo ding-te a, sinuam mahmah napi-un sithei hetlo ding-te hi.
 
 **Grammar:** intensifier: very/greatly | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -75,16 +75,16 @@
 
 **TDB77:** Tua kauphete meel in galsim dinga kisa khol sakol tawh kibang hi. Amau lu tung uhah kham kumpi-lukhu tawh kibang a om hi. A maitang un pasal’ maitang tawh kibang hi.
 
-**ZVS:** Tua kauphete' pianzia pen galsim dingin a kithawi sakolte tawh kibang uh hi. A lu tung uhah kham lukhu tawh a kibang khu uh a, a maitang uh mihing maitang tawh a kibang hi.
+**ZVS:** Tua kauphete' pianzia pen galsim dingin a kithawi sakolte tawh kibang-te hi. A lu tung uhah kham lukhu tawh a kibang khu-te a, a maitang-te mihing maitang tawh a kibang hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v8
 **EN:** And they had hair as the hair of women, and their teeth were as the teeth of lions.
 
-**TDB77:** Numeite sam bangin sam a nei uh hi. A ha uh humpinelkai’ ha bang ahi hi.
+**TDB77:** Numeite sam bangin sam a nei-te hi. A ha-te humpinelkai’ ha bang ahi hi.
 
-**ZVS:** A sam uh numei sam tawh kibang a, a ha uh humpinelkai ha tawh a kibang hi.
+**ZVS:** A sam-te numei sam tawh kibang a, a ha-te humpinelkai ha tawh a kibang hi.
 
 **Grammar:** plural: uh marker
 
@@ -93,7 +93,7 @@
 
 **TDB77:** A awmdalna un sik awmdal tawh kibang hi. A khazap ging in galkapna-ah a kidelh sakolleengte’ gin tawh kibang hi.
 
-**ZVS:** A awm uh, sik-awmdal tawh a kibang pian in tuam a, a khazap uh a gingte pen galkido laitakin sakol in a kaih leeng tampite' gin' tawh a kibang hi.
+**ZVS:** A awm uh, sik-awmdal tawh a kibang pian in tuam a, a khazap-te a gingte pen galkido laitakin sakol in a kaih leeng tampite' gin' tawh a kibang hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -102,7 +102,7 @@
 
 **TDB77:** A mei un momai’ mei tawh kibang a, gu nei ling a om hi. Mite kha nga tawntung a bawlsiat theih nading amau mei sungah vangliatna a om hi.
 
-**ZVS:** Momai bangin mei nei-in mi dehthei uh a, tua a mei uh tawh mihingte kha nga sung gimsak theihna ding gu a nei uh hi.
+**ZVS:** Momai bangin mei nei-in mi dehthei-te a, tua a mei-te tawh mihingte kha nga sung gimsak theihna ding gu a nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -111,7 +111,7 @@
 
 **TDB77:** Amau tunga kumpipa in Hebru kam-in Abaddon kici, ahi zongin, Grik kam in Apollion kici ahi zongin kiphuak a, kuam thukpi’ sawltak ahi hi.
 
-**ZVS:** Amaute in tua kuahawm thukpi a uk vantung mi pen kumpi-in nei uh a, tua vantung mi a min pen Hebru pau-in Abaddon hi a, Grik pau-in Apollion hi a, “A Susiapa,” a cihnopna ahi hi.
+**ZVS:** Amaute in tua kuahawm thukpi a uk vantung mi pen kumpi-in nei-te a, tua vantung mi a min pen Hebru pau-in Abaddon hi a, Grik pau-in Apollion hi a, “A Susiapa,” a cihnopna ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -145,7 +145,7 @@
 
 **TDB77:** Tua lai takin mi seh thumsuah seh khat thah nading tua nai, ni, kha, kum hun ading a kikoih khol vantungmi lite a kikhahkhia hi.
 
-**ZVS:** Tua ahih manin leitung mi khempeuh sehthumsuah sehkhat a thahding uh a kum, a kha, a ni, a nai hun ngakin a kigingsa-in a om tua vantung mi lite a kikhahkhia hi.
+**ZVS:** Tua ahih manin leitung mi khempeuh sehthumsuah sehkhat a thahding-te a kum, a kha, a ni, a nai hun ngakin a kigingsa-in a om tua vantung mi lite a kikhahkhia hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -161,16 +161,16 @@
 ### v17
 **EN:** And thus I saw the horses in the vision, and them that sat on them, having breastplates of fire, and of jacinth, and brimstone: and the heads of the horses were as the heads of lions; and out of their mouths issued fire and smoke and brimstone.
 
-**TDB77:** Mang sungah tua sakolte leh a tuang mite ka mu a, tua mite in mei bang a san, engdum leh kat banga eng awmdalnate a nei uh hi. Sakolte’ lutangte in humpinelkai’ lutang tawh kibang hi. Amau kam sung pan mei leh meikhu leh kat a pusuak hi.
+**TDB77:** Mang sungah tua sakolte leh a tuang mite ka mu a, tua mite in mei bang a san, engdum leh kat banga eng awmdalnate a nei-te hi. Sakolte’ lutangte in humpinelkai’ lutang tawh kibang hi. Amau kam sung pan mei leh meikhu leh kat a pusuak hi.
 
-**ZVS:** Ka maang sungah ka muh sakolte leh a tungah a tuangte pen hih bang ahi hi: Sakol tung tuangte in mei bangin a san, sapfaia suangmanpha bangin a dum, kat bangin a eng, awmdal a bulh uh hi. A sakol lutangte pen humpinelkai lutang tawh kibang a, a kam uh panin meikuang, meikhu, leh kat a pusuak hi.
+**ZVS:** Ka maang sungah ka muh sakolte leh a tungah a tuangte pen hih bang ahi hi: Sakol tung tuangte in mei bangin a san, sapfaia suangmanpha bangin a dum, kat bangin a eng, awmdal a bulh-te hi. A sakol lutangte pen humpinelkai lutang tawh kibang a, a kam-te panin meikuang, meikhu, leh kat a pusuak hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** By these three was the third part of men killed, by the fire, and by the smoke, and by the brimstone, which issued out of their mouths.
 
-**TDB77:** Tua banga a pusuak mei, meikhu leh kat ahi gimna pawl thum hangin mi seh thum suah seh khat a si uh hi.
+**TDB77:** Tua banga a pusuak mei, meikhu leh kat ahi gimna pawl thum hangin mi seh thum suah seh khat a si-te hi.
 
 **ZVS:** Hih sakolte' kam panin a hong pusuak meikuang, meikhu, leh kat, hih gimna nam thumte in leitung mi sehthumsuah sehkhat a sisak hi.
 
@@ -179,9 +179,9 @@
 ### v19
 **EN:** For their power is in their mouth, and in their tails: for their tails were like unto serpents, and had heads, and with them they do hurt.
 
-**TDB77:** Tua sakolte’ vangliatna in a kam sung uhah ahi zongin, a mei uhah ahi zongin a om hi. A meite uh gul tawh kibang uh a, lutang nei-in gimna a bawl thei uh hi.
+**TDB77:** Tua sakolte’ vangliatna in a kam sung uhah ahi zongin, a mei uhah ahi zongin a om hi. A meite-te gul tawh kibang-te a, lutang nei-in gimna a bawl thei-te hi.
 
-**ZVS:** Hih sakolte in a kam leh a mei uhah gu nei uh a, a meite un gul tawh kibangin lutang nei ahih manin a meite uh tawh mi a liamsak uh hi.
+**ZVS:** Hih sakolte in a kam leh a mei uhah gu nei-te a, a meite un gul tawh kibangin lutang nei ahih manin a meite-te tawh mi a liamsak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -190,16 +190,16 @@
 
 **TDB77:** Tua gimna hanga a si lo a om lai mite in dawi gilote tawh, a za ngeilo, amu ngeilo, a pai thei ngeilo kham milim, ngun milim, sumngo milim, suang milim, sing milimte, a biak loh nadingun a mau khut tawh a bawlnate a kisik lo tham loin,
 
-**ZVS:** Hih gimna tawh a silo midangte pen amau' gamtatnasa panin kikheelkik nuamlo uh hi. Dawi a biaknate uh, khua a mu theilo, khua a za theilo, lam a pai theilo ngun, kham, sumngo, suang, leh sing a kibawl milim a biakte uh khawl tuanlo uh hi.
+**ZVS:** Hih gimna tawh a silo midangte pen amau' gamtatnasa panin kikheelkik nuamlo-te hi. Dawi a biaknate uh, khua a mu theilo, khua a za theilo, lam a pai theilo ngun, kham, sumngo, suang, leh sing a kibawl milim a biakte-te khawl tuanlo-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v21
 **EN:** Neither repented they of their murders, nor of their sorceries, nor of their fornication, nor of their thefts.
 
-**TDB77:** amaute thahnate, mi bumnate, numei leh pasal mawhnate, guktaknate zong a kisik kei uh hi.
+**TDB77:** amaute thahnate, mi bumnate, numei leh pasal mawhnate, guktaknate zong a kisik kei-te hi.
 
-**ZVS:** A mi thahna, a aisanna, a paktatna, leh a guktaknate uh zong khawl tuanlo uh hi.
+**ZVS:** A mi thahna, a aisanna, a paktatna, leh a guktaknate-te zong khawl tuanlo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 

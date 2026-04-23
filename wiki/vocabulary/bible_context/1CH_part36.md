@@ -28,7 +28,7 @@
 
 ### zong dingin = in order to seek / to look for
 **Context:** Indicates the purpose of the Philistines' movement towards David.
-**Example:** David a zong dingin Filistia mi khempeuh kuanto uh hi.
+**Example:** David a zong dingin Filistia mi khempeuh kuanto-te hi.
 
 ### kuankhia = went out / marched out
 **Context:** David's action of moving out to confront the enemy.
@@ -36,7 +36,7 @@
 
 ### kuam sung = valley (lit. 'hollow/depression area')
 **Context:** Geographical location where the Philistines spread out.
-**Example:** Refaim kuamsung a luh uh hi.
+**Example:** Refaim kuamsung a luh-te hi.
 
 ### Pasian thu dong = inquired of God / asked God's word
 **Context:** David seeking divine guidance before battle.
@@ -58,9 +58,9 @@
 **Context:** Used to state the resulting name of a place.
 **Example:** tua mun a min Baalperazim kici hi.
 
-### nusia uh = left behind / abandoned
+### nusia-te = left behind / abandoned
 **Context:** The Philistines abandoned their gods.
-**Example:** Filistia mite in tua lai-ah a pasian-te uh nusia uh a,
+**Example:** Filistia mite in tua lai-ah a pasian-te-te nusia-te a,
 
 ### kihal = were burned
 **Context:** The fate of the abandoned gods according to David's command.
@@ -68,7 +68,7 @@
 
 ### kik = again (repetition)
 **Context:** Indicates the Philistines returned to the valley.
-**Example:** kuam sung hong luhkik lai uh hi.
+**Example:** kuam sung hong luhkik lai-te hi.
 
 ### dotkik = inquired again
 **Context:** David seeking counsel from God a second time.
@@ -88,7 +88,7 @@
 
 ### vatgawp = smote completely / defeated thoroughly
 **Context:** The comprehensive defeat of the Philistine army.
-**Example:** Filistia galkapte vatgawp uh hi.
+**Example:** Filistia galkapte vatgawp-te hi.
 
 ### minthan'na = fame / renown
 **Context:** David's growing reputation throughout the land.

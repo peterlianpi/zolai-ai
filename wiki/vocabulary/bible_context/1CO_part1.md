@@ -40,7 +40,7 @@
 
 ### kicing = to be complete/abundant/enriched
 **Context:** Describing how they were enriched in all things.
-**Example:** na khempeuh na kicing uh a
+**Example:** na khempeuh na kicing-te a
 
 ### thu genna = utterance/speech/speaking ability
 **Context:** One of the gifts they were enriched in.
@@ -88,7 +88,7 @@
 
 ### kibaptaiz = to be baptized (in the name of)
 **Context:** Questioning if they were baptized in Paul's name.
-**Example:** Paul’ min tawh kibaptaiz na hi uh hiam?
+**Example:** Paul’ min tawh kibaptaiz na hi-te hiam?
 
 ### tuiphum = to baptize (literally 'to dip in water')
 **Context:** Paul expressing joy that he baptized few people.
@@ -132,6 +132,6 @@
   - A common benediction structure: 'May X come upon you (note tungah)'.
   - Example: hehpihna thupha leh nopna nomau tungah hong tung ta hen (Grace and peace be unto you).
 
-- **Note in, '...' na ci tek uh ka cihna ahi hi.**
+- **Note in, '...' na ci tek-te ka cihna ahi hi.**
   - Reporting speech structure: 'When I say this, I mean that some of you say, '...''.
-  - Example: Note in, “Kei Paul’ mi ka hi...” na ci tek uh ka cihna ahi hi.
+  - Example: Note in, “Kei Paul’ mi ka hi...” na ci tek-te ka cihna ahi hi.

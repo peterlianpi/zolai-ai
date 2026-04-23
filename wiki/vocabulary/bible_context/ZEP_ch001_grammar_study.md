@@ -96,27 +96,27 @@
 ### v9
 **EN:** In the same day also will I punish all those that leap on the threshold, which fill their masters' houses with violence and deceit.
 
-**TDB77:** Midangte’ sangkil kanin zawhthawh bawl a, khemna leh thahna tawh a ngah uh vante tawh, a Topa uh inn a dimsakte khempeuh, tua ni mahin daan ka pia ding hi,” ci hi.
+**TDB77:** Midangte’ sangkil kanin zawhthawh bawl a, khemna leh thahna tawh a ngah-te vante tawh, a Topa-te inn a dimsakte khempeuh, tua ni mahin daan ka pia ding hi,” ci hi.
 
-**ZVS:** Lawki mite bangin biakinn sungah a lamte, khemna leh thahna tawh a ngah uh vante tawh, a topa uh' inn a dimsakte khempeuh, tua ni mahin gim ka pia ding hi,” a ci hi.
+**ZVS:** Lawki mite bangin biakinn sungah a lamte, khemna leh thahna tawh a ngah-te vante tawh, a topa uh' inn a dimsakte khempeuh, tua ni mahin gim ka pia ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will
 
 ### v10
 **EN:** And it shall come to pass in that day, saith the
 
-**TDB77:** Topa in hih bangin thu gen a, tua ni-in “Jerusalem khua Ngasa Kulh kongpi-ah mite’ kikona na za ding uh a, tua khuapi Veng Nihna sungah mite’ kahna, leh mual neute tungah a puak zaizai-a ging na za ding uh hi.
+**TDB77:** Topa in hih bangin thu gen a, tua ni-in “Jerusalem khua Ngasa Kulh kongpi-ah mite’ kikona na za ding-te a, tua khuapi Veng Nihna sungah mite’ kahna, leh mual neute tungah a puak zaizai-a ging na za ding-te hi.
 
-**ZVS:** { Topa } in hih bangin thu gen a, “Jerusalem khua-a om Ngasa Kulh kongpi-ah mite' kikona na za ding uh a, tua khuapi Veng Nihna sungah mite' kahna leh mual neute tungah a puak zaizai na za ding uh hi.
+**ZVS:** { Topa } in hih bangin thu gen a, “Jerusalem khua-a om Ngasa Kulh kongpi-ah mite' kikona na za ding-te a, tua khuapi Veng Nihna sungah mite' kahna leh mual neute tungah a puak zaizai na za ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Howl, ye inhabitants of Maktesh, for all the merchant people are cut down; all they that bear silver are cut off.
 
-**TDB77:** Khuapi Veng Nuainung sunga teeng mite aw, hih bang gamlumna na zak uh ciangin kapin thuum un. Bang hang hiam cih leh sumbukte khempeuh kisia ding uh hi.
+**TDB77:** Khuapi Veng Nuainung sunga teeng mite aw, hih bang gamlumna na zak-te ciangin kapin thuum un. Bang hang hiam cih leh sumbukte khempeuh kisia ding-te hi.
 
-**ZVS:** Khuapi Veng Nuainung sungah a teng mite aw, hih bang gamlumna na zak uh ciangin kapin thum un. Bang hang hiam cih leh sumbukte khempeuh si ding uh hi.
+**ZVS:** Khuapi Veng Nuainung sungah a teng mite aw, hih bang gamlumna na zak-te ciangin kapin thum un. Bang hang hiam cih leh sumbukte khempeuh si ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -132,18 +132,18 @@
 ### v13
 **EN:** Therefore their goods shall become a booty, and their houses a desolation: they shall also build houses, but not inhabit them; and they shall plant vineyards, but not drink the wine thereof.
 
-**TDB77:** Amau’ neihsa khempeuh kisut ding a, a innte uh kisuksiatsak ding hi. Inn a lam hangun a sungah teeng kha lo ding uh a, leenggui a suan hangun leenggahzu dawn kha lo ding uh hi,” ci hi.
+**TDB77:** Amau’ neihsa khempeuh kisut ding a, a innte-te kisuksiatsak ding hi. Inn a lam hangun a sungah teeng kha lo ding-te a, leenggui a suan hangun leenggahzu dawn kha lo ding-te hi,” ci hi.
 
-**ZVS:** Amau' neihsa khempeuh kisut ding a, a innte uh kisuksiatsak ding hi. Inn a lam hangun a sungah teng khalo ding uh a, leenggui a suan hangun a leenggahzu dawn khalo ding uh hi,” a ci hi.
+**ZVS:** Amau' neihsa khempeuh kisut ding a, a innte-te kisuksiatsak ding hi. Inn a lam hangun a sungah teng khalo ding-te a, leenggui a suan hangun a leenggahzu dawn khalo ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** The great day of the
 
-**TDB77:** Topa’ ni hong nai ta a, nai mahmahin hong tung hathat hi. Tua Topa’ ni hong tun’ciangin, galhang pente nangawn cimawhin kap ding uh hi.
+**TDB77:** Topa’ ni hong nai ta a, nai mahmahin hong tung hathat hi. Tua Topa’ ni hong tun’ciangin, galhang pente nangawn cimawhin kap ding-te hi.
 
-**ZVS:** { Topa' } ni hong naita a, nai mahmahin hong tung hathat hi. Tua { Topa' } ni hong tun' ciangin galhang pente nangawn cimawhin kap ding uh hi.
+**ZVS:** { Topa' } ni hong naita a, nai mahmahin hong tung hathat hi. Tua { Topa' } ni hong tun' ciangin galhang pente nangawn cimawhin kap ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -168,9 +168,9 @@
 ### v17
 **EN:** And I will bring distress upon men, that they shall walk like blind men, because they have sinned against the
 
-**TDB77:** Topa in hih bangin thu gen a, “Mihingte tungah lungkhamna lianpi ka tungsak ding a, amaute in mittaw bangin khua zawt ding uh hi. Keima tungah amaute hong khial uh ahih manin, tui bangin a sisan uh kithehthang ding a, a luanghawm uh, leilakah muatcip ding hi,” ci hi.
+**TDB77:** Topa in hih bangin thu gen a, “Mihingte tungah lungkhamna lianpi ka tungsak ding a, amaute in mittaw bangin khua zawt ding-te hi. Keima tungah amaute hong khial-te ahih manin, tui bangin a sisan-te kithehthang ding a, a luanghawm uh, leilakah muatcip ding hi,” ci hi.
 
-**ZVS:** { Topa } in hih bangin thu gen a, “Mihingte tungah lungkhamna lianpi ka tungsak ding a, amaute in mittaw bangin khua a zawt ding uh hi. Keima tungah amaute hong khial uh ahih manin, a sisan uh tui bangin kithehthang ding a, a luanghawm uh leilakah muatcip ding hi,” a ci hi.
+**ZVS:** { Topa } in hih bangin thu gen a, “Mihingte tungah lungkhamna lianpi ka tungsak ding a, amaute in mittaw bangin khua a zawt ding-te hi. Keima tungah amaute hong khial-te ahih manin, a sisan-te tui bangin kithehthang ding a, a luanghawm-te leilakah muatcip ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 

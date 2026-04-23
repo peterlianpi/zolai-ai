@@ -67,18 +67,18 @@
 ### v6
 **EN:** And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together.
 
-**TDB77:** tua ahih manin mun khat-a teng khawm dingin leitang in amaute gel vak zo lo hi; bang hang hiam cih leh amau’ neihsate tam mahmah ahih manin amaute teng khawm thei lo uh a,
+**TDB77:** tua ahih manin mun khat-a teng khawm dingin leitang in amaute gel vak zo lo hi; bang hang hiam cih leh amau’ neihsate tam mahmah ahih manin amaute teng khawm thei lo-te a,
 
-**ZVS:** Tua ahih manin mun khatah a tengkhawm dingin leitang in amaute gel vak zolo hi. Bang hang hiam cih leh amau' gan neihsate tam mahmah ahih manin amaute gel tengkhawm theilo uh a,
+**ZVS:** Tua ahih manin mun khatah a tengkhawm dingin leitang in amaute gel vak zolo hi. Bang hang hiam cih leh amau' gan neihsate tam mahmah ahih manin amaute gel tengkhawm theilo-te a,
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | negation: lo | causal: because | plural: uh marker
 
 ### v7
 **EN:** And there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle: and the Canaanite and the Perizzite dwelled then in the land.
 
-**TDB77:** Abram’ gancingte leh Lot’ gancingte kitawng zel hi. Tua hun lai takin Kanaan mite leh Perez mite tua gamah teng uh hi.
+**TDB77:** Abram’ gancingte leh Lot’ gancingte kitawng zel hi. Tua hun lai takin Kanaan mite leh Perez mite tua gamah teng-te hi.
 
-**ZVS:** Abram' gancingte leh Lot' gancingte kitawng thei zel hi. Tua hun laitakin Kanaan mite leh Perez mite tua gamah teng lai uh hi.
+**ZVS:** Abram' gancingte leh Lot' gancingte kitawng thei zel hi. Tua hun laitakin Kanaan mite leh Perez mite tua gamah teng lai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -112,9 +112,9 @@
 ### v11
 **EN:** Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other.
 
-**TDB77:** Tua ahih ciangin Lot in ama adingin Jordan kuam khempeuh teel a, Lot nisuahna lamah pai hi; tua ahih manin amaute kikhen tuak uh hi.
+**TDB77:** Tua ahih ciangin Lot in ama adingin Jordan kuam khempeuh teel a, Lot nisuahna lamah pai hi; tua ahih manin amaute kikhen tuak-te hi.
 
-**ZVS:** Tua ahih ciangin Lot in ama-a' dingin Jordan gun kuam khempeuh teel a, nisuahna lamah a pai hi. Tua ahih manin amaute kikhen tuak uh hi.
+**ZVS:** Tua ahih ciangin Lot in ama-a' dingin Jordan gun kuam khempeuh teel a, nisuahna lamah a pai hi. Tua ahih manin amaute kikhen tuak-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -128,7 +128,7 @@
 ### v13
 **EN:** But the men of Sodom were wicked and sinners before the
 
-**TDB77:** Tu-in Sodom mite mi gilo uh a, Topa’ tungah nakpi tak-a a khialte ahi uh hi.
+**TDB77:** Tu-in Sodom mite mi gilo-te a, Topa’ tungah nakpi tak-a a khialte ahi-te hi.
 
 **ZVS:** Tua laitakin Sodom mite migilo hi a, { Topa' } tungah nakpi takin a khialte ahi hi.
 

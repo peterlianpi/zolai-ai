@@ -54,9 +54,9 @@
 **Context:** Indicates membership within a larger group (clan or house).
 **Example:** beh sung panin...
 
-### a teeng uh hi = they dwelt/resided
+### a teeng-te hi = they dwelt/resided
 **Context:** Describes where a specific group settled.
-**Example:** Nebo leh Baalmeon ciang dong Aroer-ah a teeng uh hi.
+**Example:** Nebo leh Baalmeon ciang dong Aroer-ah a teeng-te hi.
 
 ### bawngte = cattle/livestock
 **Context:** Refers to their wealth or possessions, which necessitated expansion.
@@ -70,17 +70,17 @@
 **Context:** Geographical direction.
 **Example:** nisuahna lam pang sehnel gam lutna ciang dong...
 
-### do-in zo uh hi = fought and conquered/defeated
+### do-in zo-te hi = fought and conquered/defeated
 **Context:** Describes military victory over the Hagarites.
-**Example:** Hagri mite do-in zo uh hi;
+**Example:** Hagri mite do-in zo-te hi;
 
 ### puanbukte = tents/encampments
 **Context:** Refers to their temporary or mobile dwellings.
-**Example:** amau’ puanbukte luahin a sungah teeng uh hi.
+**Example:** amau’ puanbukte luahin a sungah teeng-te hi.
 
 ### luahin = taking possession of/occupying
 **Context:** Indicates taking over the area where the tents were.
-**Example:** puanbukte luahin a sungah teeng uh hi.
+**Example:** puanbukte luahin a sungah teeng-te hi.
 
 ### gal khatah = over against them/opposite them
 **Context:** Describes the location of the Gadites relative to the Reubenites' territory.
@@ -88,15 +88,15 @@
 
 ### beh makai = clan leaders
 **Context:** Leaders of the specific clans within the Gad tribe.
-**Example:** Bashan-ah beh makai ahi uh hi.
+**Example:** Bashan-ah beh makai ahi-te hi.
 
 ### a zom = the next/the second in rank
 **Context:** Used to denote the next person listed after the chief (Joel).
 **Example:** Ukpi Joel, a zom Shafam...
 
-### sagih pha uh hi = there were seven in total
+### sagih pha-te hi = there were seven in total
 **Context:** A concluding statement indicating the total count of the listed brethren.
-**Example:** leh Eber, sagih pha uh hi.
+**Example:** leh Eber, sagih pha-te hi.
 
 ### mi thahat = valiant men/mighty men
 **Context:** Describes the quality of the soldiers listed.
@@ -138,12 +138,12 @@
   - Usage: Describes the method of enumeration or organization by family unit.
 
 - **ciang dong** = up to the boundary/as far as
-  - Usage: Used to define the extent of territory or settlement (e.g., Aroer-ah a teeng uh hi).
+  - Usage: Used to define the extent of territory or settlement (e.g., Aroer-ah a teeng-te hi).
 
 - **nisuahna lam pang** = on the side of the east/eastward
   - Usage: Used for directional description of territory.
 
-- **do-in zo uh hi** = they fought and conquered
+- **do-in zo-te hi** = they fought and conquered
   - Usage: A concise way to state a military victory.
 
 - **a khuapite sung** = in their suburbs/outskirts
@@ -162,9 +162,9 @@
   - Sentence structure identifying a person's role or status within a specific tribal group. (Amah pen = He is/was).
   - Example: amah in Reuben mite a ukpipa ahi hi.
 
-- **[Location]-ah a teeng uh hi.**
+- **[Location]-ah a teeng-te hi.**
   - Simple statement of residence or settlement, using the locative suffix '-ah'.
-  - Example: Aroer-ah a teeng uh hi.
+  - Example: Aroer-ah a teeng-te hi.
 
 - **Hihte khempeuh [Time Period]-in khangsimna-ah kiciamteh hi.**
   - A summary statement indicating that all the preceding individuals/groups were officially recorded during specific historical reigns.

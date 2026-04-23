@@ -37,9 +37,9 @@
 ### v2
 **EN:** For they call themselves of the holy city, and stay themselves upon the God of Israel; The
 
-**TDB77:** Note tua bang hi napi-in, khuapi siangtho sunga a teeng mite hi a, Israel Pasian i muang hi. Ama min in vanglian Topa ahi hi, ci-in na kisathei zaw lai uh hi.
+**TDB77:** Note tua bang hi napi-in, khuapi siangtho sunga a teeng mite hi a, Israel Pasian i muang hi. Ama min in vanglian Topa ahi hi, ci-in na kisathei zaw lai-te hi.
 
-**ZVS:** Note tua bang hinapi-in, khuapi siangtho sungah a teng mite ihi a, Israel Pasian i muang hi. Ama min pen Vanglian { Topa } ahi hi, ci-in kisaktheihna-in na neizaw lai uh hi.
+**ZVS:** Note tua bang hinapi-in, khuapi siangtho sungah a teng mite ihi a, Israel Pasian i muang hi. Ama min pen Vanglian { Topa } ahi hi, ci-in kisaktheihna-in na neizaw lai-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -55,9 +55,9 @@
 ### v4
 **EN:** Because I knew that thou art obstinate, and thy neck is an iron sinew, and thy brow brass;
 
-**TDB77:** Note pen paupeng-in, na ngawng uh sik thagui bang hi-in, na taltang uh sumngo banga sak a hihna thei ka hih manin,
+**TDB77:** Note pen paupeng-in, na ngawng-te sik thagui bang hi-in, na taltang-te sumngo banga sak a hihna thei ka hih manin,
 
-**ZVS:** Note pen paupengin na ngawng uh sik thagui bang hi a, na thatang uh sumngo bangin a sakna thei khin ka hih manin,
+**ZVS:** Note pen paupengin na ngawng-te sik thagui bang hi a, na thatang-te sumngo bangin a sakna thei khin ka hih manin,
 
 **Grammar:** serial verb: -in (and then) | causal: because
 
@@ -66,34 +66,34 @@
 
 **TDB77:** note in, ‘Ka milim un hihte bawl a, a kisui ka milim leh a kisung ka milim un thu pia hi,’ na cih theih loh nadingun tanglai-a kipanin hih thute note tungah kong gen a, tuate hong pian’ ma-in note tungah kong zasak khol hi.
 
-**ZVS:** note in, “Ka milim un hihte bawl a, a kisui ka milim uh leh a kisung ka milim un thu pia hi,” na cih theihlohna dingun tanglai-a kipanin note tungah hih thute kong gen a, tuate hong pian' ma-in note tungah kong zasakkhol hi.
+**ZVS:** note in, “Ka milim un hihte bawl a, a kisui ka milim-te leh a kisung ka milim un thu pia hi,” na cih theihlohna dingun tanglai-a kipanin note tungah hih thute kong gen a, tuate hong pian' ma-in note tungah kong zasakkhol hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v6
 **EN:** Thou hast heard, see all this; and will not ye declare it? I have shewed thee new things from this time, even hidden things, and thou didst not know them.
 
-**TDB77:** “Ka gensa thu khempeuh hong tung ta a, Ka gennate man hi, na cih ding uh hi ta hi. Tu-a kipanin, na a thakte, na theih ngei loh uh hong tung ding a ki-im nate, kong gen ding hi.
+**TDB77:** “Ka gensa thu khempeuh hong tung ta a, Ka gennate man hi, na cih ding-te hi ta hi. Tu-a kipanin, na a thakte, na theih ngei loh-te hong tung ding a ki-im nate, kong gen ding hi.
 
-**ZVS:** Ka gensa thu khempeuh hong tungta ahih manin, na gennate a man hi, na hong cih ding uh hita hi. Tu-a kipanin na a thakte, na theih ngeiloh uh hong tung ding a ki-im nate kong gen ding hi.
+**ZVS:** Ka gensa thu khempeuh hong tungta ahih manin, na gennate a man hi, na hong cih ding-te hita hi. Tu-a kipanin na a thakte, na theih ngeiloh-te hong tung ding a ki-im nate kong gen ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** They are created now, and not from the beginning; even before the day when thou heardest them not; lest thou shouldest say, Behold, I knew them.
 
-**TDB77:** Hihte pen, tu hunin a piangsak ka hi a, a beisa hun ah hih bang piang nai lo hi. A piang khinsa thu hi leh, ka theih uh thu hi, na ci kha ding uh hi.
+**TDB77:** Hihte pen, tu hunin a piangsak ka hi a, a beisa hun ah hih bang piang nai lo hi. A piang khinsa thu hi leh, ka theih-te thu hi, na ci kha ding-te hi.
 
-**ZVS:** Hihte pen tuhunin a piangsak ka hi a, a beisa hunah hih bang piang nailo hi. A piang khinsa thu hi leh, ka theihsa uh thu hi, na ci khading uh hi.
+**ZVS:** Hihte pen tuhunin a piangsak ka hi a, a beisa hunah hih bang piang nailo hi. A piang khinsa thu hi leh, ka theihsa-te thu hi, na ci khading-te hi.
 
 **Grammar:** causative: -sak suffix | future: will | negation: lo | plural: uh marker
 
 ### v8
 **EN:** Yea, thou heardest not; yea, thou knewest not; yea, from that time that thine ear was not opened: for I knew that thou wouldest deal very treacherously, and wast called a transgressor from the womb.
 
-**TDB77:** Note pen a lehheek thei na hih lam uh ka thei a, na suah tung uh akipan mi lehdo thei na hihna uh ka thei hi. Tua ahih manin tanglai akipan na bil uh kihong ngei lo a, zong na thei ngei kei uh hi.
+**TDB77:** Note pen a lehheek thei na hih lam-te ka thei a, na suah tung-te akipan mi lehdo thei na hihna-te ka thei hi. Tua ahih manin tanglai akipan na bil-te kihong ngei lo a, zong na thei ngei kei-te hi.
 
-**ZVS:** Note pen muan'theih ding na hihlohna uh, na suah tung uh-a kipan mi lehdo thei na hihna uh ka hong thei hi. Tua ahih manin hih thute na za ngei kei uh a, zong na thei ngei kei uh hi.
+**ZVS:** Note pen muan'theih ding na hihlohna uh, na suah tung uh-a kipan mi lehdo thei na hihna-te ka hong thei hi. Tua ahih manin hih thute na za ngei kei-te a, zong na thei ngei kei-te hi.
 
 **Grammar:** negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -109,9 +109,9 @@
 ### v10
 **EN:** Behold, I have refined thee, but not with silver; I have chosen thee in the furnace of affliction.
 
-**TDB77:** En un, meikhuk sungah ngun a kisian’sak bangin, gimna meikhuk sungah note kong ze-et hi. Ahi zongin note pen bangmah-a kimang lo na hihna uh hong kimu khia hi.
+**TDB77:** En un, meikhuk sungah ngun a kisian’sak bangin, gimna meikhuk sungah note kong ze-et hi. Ahi zongin note pen bangmah-a kimang lo na hihna-te hong kimu khia hi.
 
-**ZVS:** Meikhuk sungah ngun a kisian'sak bangin gimna meikhuk sungah note kong ze-et hi. Ahi zongin note bangmahin a kimanglo na hihna uh hong kimu khin hi.
+**ZVS:** Meikhuk sungah ngun a kisian'sak bangin gimna meikhuk sungah note kong ze-et hi. Ahi zongin note bangmahin a kimanglo na hihna-te hong kimu khin hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -136,9 +136,9 @@
 ### v13
 **EN:** Mine hand also hath laid the foundation of the earth, and my right hand hath spanned the heavens: when I call unto them, they stand up together.
 
-**TDB77:** Ka khut in leitung bulpi koih a, ka khut taklam in vantungte zal hi; amaute ka sap ciangin amaute omkhawm pah uh hi.
+**TDB77:** Ka khut in leitung bulpi koih a, ka khut taklam in vantungte zal hi; amaute ka sap ciangin amaute omkhawm pah-te hi.
 
-**ZVS:** Ka khut in leitung bulpi koih a, ka khut taklam in vantungte zal hi. Amaute ka sap ciangin amaute omkhawm pah uh hi.
+**ZVS:** Ka khut in leitung bulpi koih a, ka khut taklam in vantungte zal hi. Amaute ka sap ciangin amaute omkhawm pah-te hi.
 
 **Grammar:** punctual: immediately/suddenly | plural: uh marker
 
@@ -208,9 +208,9 @@
 ### v21
 **EN:** And they thirsted not when he led them through the deserts: he caused the waters to flow out of the rock for them: he clave the rock also, and the waters gushed out.
 
-**TDB77:** Amah in sehnel gam kantanin amaute a paipih ciangin a dang uh taak lo hi; suangpi panin amau adingin amah in tui luangsak hi; amah in suangpi khangkham sak a, tui phulkhia hi.
+**TDB77:** Amah in sehnel gam kantanin amaute a paipih ciangin a dang-te taak lo hi; suangpi panin amau adingin amah in tui luangsak hi; amah in suangpi khangkham sak a, tui phulkhia hi.
 
-**ZVS:** Amah in sehnel gam kantanin amaute a paipih ciangin a dang uh taaklo hi. Suangpi panin amau-a' dingin amah in tui a luangsak hi. Amah in suangpi khangkhamsak a, tui a phulkhia hi.
+**ZVS:** Amah in sehnel gam kantanin amaute a paipih ciangin a dang-te taaklo hi. Suangpi panin amau-a' dingin amah in tui a luangsak hi. Amah in suangpi khangkhamsak a, tui a phulkhia hi.
 
 **Grammar:** purpose: in order to | negation: lo
 

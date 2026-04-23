@@ -240,7 +240,7 @@ Most practical alignment method for Zolai:
 ```
 Prompt: "Zolai in 'God' ci hi eng nge?"
 Chosen: "Pasian ci hi." (ZVS correct)
-Rejected: "Pathian ci hi." (wrong dialect)
+Rejected: "pasian ci hi." (wrong dialect)
 ```
 
 Sources for rejected examples:

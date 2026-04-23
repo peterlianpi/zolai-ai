@@ -42,9 +42,9 @@
 ### v3
 **EN:** Shall vain words have an end? or what emboldeneth thee that thou answerest?
 
-**TDB77:** Khawl hun nei loin gengen lai ding na hi uh hiam? Na gen ding uh omom lai ahi hiam?
+**TDB77:** Khawl hun nei loin gengen lai ding na hi-te hiam? Na gen ding-te omom lai ahi hiam?
 
-**ZVS:** Khawl hun neiloin gengen lai ding na hi uh hiam? Na gen ding uh omom lai ahi hiam?
+**ZVS:** Khawl hun neiloin gengen lai ding na hi-te hiam? Na gen ding-te omom lai ahi hiam?
 
 **Grammar:** plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** And thou hast filled me with wrinkles, which is a witness against me: and my leanness rising up in me beareth witness to my face.
 
-**TDB77:** Kei nong mancip a, ka gal na suak hi. Ka vun guak leh ka guh guak bek-in ka om a, keima mawhna a kilatna-in mite in ngaihsun uh hi.
+**TDB77:** Kei nong mancip a, ka gal na suak hi. Ka vun guak leh ka guh guak bek-in ka om a, keima mawhna a kilatna-in mite in ngaihsun-te hi.
 
-**ZVS:** Kei na hong mancip a, keima gal na suak hi. Ka vun guak leh ka guh guak bekin ka om a, keima mawhna a kilatna-in mite in a ngaihsun uh hi.
+**ZVS:** Kei na hong mancip a, keima gal na suak hi. Ka vun guak leh ka guh guak bekin ka om a, keima mawhna a kilatna-in mite in a ngaihsun-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -103,7 +103,7 @@
 ### v10
 **EN:** They have gaped upon me with their mouth; they have smitten me upon the cheek reproachfully; they have gathered themselves together against me.
 
-**TDB77:** Mite in kei hong zahko uh a, ka paang a beng dingin hong kikhawmtuah uh hi.
+**TDB77:** Mite in kei hong zahko-te a, ka paang a beng dingin hong kikhawmtuah-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

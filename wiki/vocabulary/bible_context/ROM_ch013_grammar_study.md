@@ -23,7 +23,7 @@
 ### v1
 **EN:** Let every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God.
 
-**TDB77:** A hong uk mangte ukna khempeuh na mang un. Bang hang hiam na cih uh leh, Pasian in thu a piak kei leh, ukna aana a nei kei ding uh hi. Ukna za a nei khempeuh Pasian piak za ahi hi.
+**TDB77:** A hong uk mangte ukna khempeuh na mang un. Bang hang hiam na cih-te leh, Pasian in thu a piak kei leh, ukna aana a nei kei ding-te hi. Ukna za a nei khempeuh Pasian piak za ahi hi.
 
 **ZVS:** A kuamah peuh in hong ukte' thu na mang ciat un. Bang hang hiam cih leh Pasian' thukimpih lohin kuamah in ukna thu neilo hi; ukna thu nei i cih mite pen Pasian' koih mite ahi hi.
 
@@ -32,18 +32,18 @@
 ### v2
 **EN:** Whosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation.
 
-**TDB77:** Tua ahih ciangin ukna a nial mi in Pasian’ thu a nial ahi hi. Tua bang a nialte in mawhna daan a thuak ding uh hi.
+**TDB77:** Tua ahih ciangin ukna a nial mi in Pasian’ thu a nial ahi hi. Tua bang a nialte in mawhna daan a thuak ding-te hi.
 
-**ZVS:** Tua ahih manin ukna thunei a nialte pen Pasian' koihsa mite a nial suak a, tua bang mite in thukhenna a thuak ding uh ahi hi.
+**ZVS:** Tua ahih manin ukna thunei a nialte pen Pasian' koihsa mite a nial suak a, tua bang mite in thukhenna a thuak ding-te ahi hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v3
 **EN:** For rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same:
 
-**TDB77:** Bang hang hiam na cih uh leh, ukna za a neite in, gamtat hoih mite kihtak ding ahi kei uh hi, gamtat hoih lote kihtak ding ahi uh hi. Ukna za a neite na kihtak nop kei leh, ahoihin gamta in. Tua bang na hih leh ukna neite kiangah pahtawina na ngah ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, ukna za a neite in, gamtat hoih mite kihtak ding ahi kei-te hi, gamtat hoih lote kihtak ding ahi-te hi. Ukna za a neite na kihtak nop kei leh, ahoihin gamta in. Tua bang na hih leh ukna neite kiangah pahtawina na ngah ding hi.
 
-**ZVS:** Bang hang hiam cih leh gam uk mite pen a gamtat hoih mite' kihtak ding hilo a, mi tatsiate' kihtak ding hi bek hi. Ukna thu a neite kihta loin na omnop uh leh a hoihin gamta un. Tua hi leh amaute in note hong pakta-in hong phat ding uh hi.
+**ZVS:** Bang hang hiam cih leh gam uk mite pen a gamtat hoih mite' kihtak ding hilo a, mi tatsiate' kihtak ding hi bek hi. Ukna thu a neite kihta loin na omnop-te leh a hoihin gamta un. Tua hi leh amaute in note hong pakta-in hong phat ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -52,25 +52,25 @@
 
 **TDB77:** Amah in nang noptuam nadinga Pasian’ na sem ahi hi. A hoih lo a gamta mi na hih leh, na kihta in. Bang hang hiam na cih leh, amah in a valkhong a, namsau tawi ahi kei hi. Gamtat hoih lo ahihte a mawhna daan pia ding Pasian’ sawltak ahi hi.
 
-**ZVS:** Ukna thuneite pen note' hoihna dingin Pasian' nasemte ahi uh hi. Ahi zongin a sia-in na gamtat uh leh gim hong pia taktak ding uh ahih manin na lau ding uh ahi hi. Bang hang hiam cih leh amaute pen Pasian' nasemte hi a, a sia-in a gamta mite tungah Pasian' hehna bangin gim a pia dingte ahi uh hi.
+**ZVS:** Ukna thuneite pen note' hoihna dingin Pasian' nasemte ahi-te hi. Ahi zongin a sia-in na gamtat-te leh gim hong pia taktak ding-te ahih manin na lau ding-te ahi hi. Bang hang hiam cih leh amaute pen Pasian' nasemte hi a, a sia-in a gamta mite tungah Pasian' hehna bangin gim a pia dingte ahi-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v5
 **EN:** Wherefore ye must needs be subject, not only for wrath, but also for conscience sake.
 
-**TDB77:** Tua ahih ciangin, daan kihtakna hang bekin a mang na hi kei uh hi; nomau kitheihna lungsim hangin na mang uh hi.
+**TDB77:** Tua ahih ciangin, daan kihtakna hang bekin a mang na hi kei-te hi; nomau kitheihna lungsim hangin na mang-te hi.
 
-**ZVS:** Tua ahih manin Pasian' gimpiak ding kihtakna hang bek hiloin, ahi ding thu mah hi, ci-a theihna tawh ukna thu a neite' thu na man' ding uh ahi hi.
+**ZVS:** Tua ahih manin Pasian' gimpiak ding kihtakna hang bek hiloin, ahi ding thu mah hi, ci-a theihna tawh ukna thu a neite' thu na man' ding-te ahi hi.
 
 **Grammar:** sequence: then/therefore | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** For for this cause pay ye tribute also: for they are God's ministers, attending continually upon this very thing.
 
-**TDB77:** Tua thu hangin phiangsiah na pia uh hi. Bang hang hiam na cih uh leh, amaute in Pasian’ sawltak ahi uh ciangin, tua nasepna a tawntung a sem uh hi.
+**TDB77:** Tua thu hangin phiangsiah na pia-te hi. Bang hang hiam na cih-te leh, amaute in Pasian’ sawltak ahi-te ciangin, tua nasepna a tawntung a sem-te hi.
 
-**ZVS:** Ukna thu a neite in amau' sep dingteng a kimtakin a sep uh ciangin Pasian-a' dingin na a semte hi uh ahih manin tua thu hang mahin zong mangmu a pia na hi uh hi.
+**ZVS:** Ukna thu a neite in amau' sep dingteng a kimtakin a sep-te ciangin Pasian-a' dingin na a semte hi-te ahih manin tua thu hang mahin zong mangmu a pia na hi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -95,7 +95,7 @@
 ### v9
 **EN:** For this, Thou shalt not commit adultery, Thou shalt not kill, Thou shalt not steal, Thou shalt not bear false witness, Thou shalt not covet; and if there be any other commandment, it is briefly comprehended in this saying, namely, Thou shalt love thy neighbour as thyself.
 
-**TDB77:** Bang hang hiam na cih uh leh, “Mi’ zi tawh na mawh kei in, Mi na that kei in, Mi’ na na gu kei in, Mi’ na na deihgawh kei in, a cihna thukhamte akipan adang thukham khempeuh in, “Na pumpi na it bangin na lawmte na it in,” cihna thukham khat sungah a om uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, “Mi’ zi tawh na mawh kei in, Mi na that kei in, Mi’ na na gu kei in, Mi’ na na deihgawh kei in, a cihna thukhamte akipan adang thukham khempeuh in, “Na pumpi na it bangin na lawmte na it in,” cihna thukham khat sungah a om-te hi.
 
 **ZVS:** Thukham sungah, “Nulepa mawhna bawl kei in, mi that kei in, guta kei in, hazatna lungsim nei kei in,” cihna leh adang khempeuhte pen, “Nang na ki-it bangin na vengte na it in,” cihna thu in huam khinmang hi.
 
@@ -115,7 +115,7 @@
 
 **TDB77:** Tua tham loin, eite hong gupna in eite upna ni tawh a nai sangin, tu-in hong naizaw ahih ciangin note in ihmutna pana khan’lawh nading hun hong tung zo hi ci-in na thei un.
 
-**ZVS:** Tuhun pen bang hun hita ahi hiam, ci-in theita na hih manun tu-a bangin na gamtat ding uh ahi hi. Tu-in note in khua phawkin na khan'lawh ding uh hun hita hi. Bang hang hiam cih leh Jesuh Khrih i up cil lai hun sangin tu-in Pasian in leitung haksatna panin eite hong hotkhiat ding hun hong naizaw hi.
+**ZVS:** Tuhun pen bang hun hita ahi hiam, ci-in theita na hih manun tu-a bangin na gamtat ding-te ahi hi. Tu-in note in khua phawkin na khan'lawh ding-te hun hita hi. Bang hang hiam cih leh Jesuh Khrih i up cil lai hun sangin tu-in Pasian in leitung haksatna panin eite hong hotkhiat ding hun hong naizaw hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -140,9 +140,9 @@
 ### v14
 **EN:** But put ye on the Lord Jesus Christ, and make not provision for the flesh, to fulfil the lusts thereof.
 
-**TDB77:** Topa Zeisu Khazih silh un la, na pumpi huaiham na’ng uh note in na ngaihsun kei un.
+**TDB77:** Topa Zeisu Khazih silh un la, na pumpi huaiham na’ng-te note in na ngaihsun kei un.
 
-**ZVS:** Kidalna dingin, Topa Jesuh Khrih' hong piak galhiamte zang un la, na pumpi uh deihna bangin gamtatna ding hun omsak nawn kei un.
+**ZVS:** Kidalna dingin, Topa Jesuh Khrih' hong piak galhiamte zang un la, na pumpi-te deihna bangin gamtatna ding hun omsak nawn kei un.
 
 ---
 

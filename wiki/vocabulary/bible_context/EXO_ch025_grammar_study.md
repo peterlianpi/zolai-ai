@@ -100,9 +100,9 @@
 ### v10
 **EN:** And they shall make an ark of shittim wood: two cubits and a half shall be the length thereof, and a cubit and a half the breadth thereof, and a cubit and a half the height thereof.
 
-**TDB77:** “Amaute in singkha sing tawh singkuang khat bawl ding uh hi; a dung tong nih leh khap, a vai tong khat leh khap, a san’na tong khat leh khap hi ding hi.
+**TDB77:** “Amaute in singkha sing tawh singkuang khat bawl ding-te hi; a dung tong nih leh khap, a vai tong khat leh khap, a san’na tong khat leh khap hi ding hi.
 
-**ZVS:** “Amaute in singkha sing tawh singkuang khat bawl ding uh hi. A dung pi thum leh letmat kua, a vai pi nih leh letmat thum, a san'na pi nih leh letmat thum hi ding hi.
+**ZVS:** “Amaute in singkha sing tawh singkuang khat bawl ding-te hi. A dung pi thum leh letmat kua, a vai pi nih leh letmat thum, a san'na pi nih leh letmat thum hi ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -190,9 +190,9 @@
 ### v20
 **EN:** And the cherubims shall stretch forth their wings on high, covering the mercy seat with their wings, and their faces shall look one to another; toward the mercy seat shall the faces of the cherubims be.
 
-**TDB77:** Kherubte in a khate uh a tungah zal ding uh a, amau’ khate tawh hehpihna tokhom liim sunin amaute khat leh khat kimai-ngat ding uh hi; hehpihna tokhom lamah kherubte’ mai nga ding uh hi.
+**TDB77:** Kherubte in a khate-te a tungah zal ding-te a, amau’ khate tawh hehpihna tokhom liim sunin amaute khat leh khat kimai-ngat ding-te hi; hehpihna tokhom lamah kherubte’ mai nga ding-te hi.
 
-**ZVS:** Kherub-te in a khate uh a tungah zal ding uh a, amau' khate tawh hehpihna tokhom liimsunin amaute khatlekhat kimaingat ding uh hi. Hehpihna tokhom lamah kherub-te' mai nga ding uh hi.
+**ZVS:** Kherub-te in a khate-te a tungah zal ding-te a, amau' khate tawh hehpihna tokhom liimsunin amaute khatlekhat kimaingat ding-te hi. Hehpihna tokhom lamah kherub-te' mai nga ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -287,9 +287,9 @@
 ### v31
 **EN:** And thou shalt make a candlestick of pure gold: of beaten work shall the candlestick be made: his shaft, and his branches, his bowls, his knops, and his flowers, shall be of the same.
 
-**TDB77:** “Kham citak tawh meivakkhuam khat na bawl ding hi. Meivakkhuam bul leh a kungte pen a kiseek nate tawh kibawl ding hi; a haite, a nunte leh a pakte in tua tawh sa-khat hi khawm ding uh hi;
+**TDB77:** “Kham citak tawh meivakkhuam khat na bawl ding hi. Meivakkhuam bul leh a kungte pen a kiseek nate tawh kibawl ding hi; a haite, a nunte leh a pakte in tua tawh sa-khat hi khawm ding-te hi;
 
-**ZVS:** “Kham citak tawh meivakkhuam khat na bawl ding hi. Meivakkhuam bul leh a kungte pen a kiseek nate tawh kibawl ding hi. A haite, a nunte leh a pakte, tua tawh sakhat hi khawm ding uh hi.
+**ZVS:** “Kham citak tawh meivakkhuam khat na bawl ding hi. Meivakkhuam bul leh a kungte pen a kiseek nate tawh kibawl ding hi. A haite, a nunte leh a pakte, tua tawh sakhat hi khawm ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

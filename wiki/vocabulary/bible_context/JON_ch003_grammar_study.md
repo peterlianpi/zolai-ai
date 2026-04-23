@@ -62,9 +62,9 @@
 ### v5
 **EN:** So the people of Nineveh believed God, and proclaimed a fast, and put on sackcloth, from the greatest of them even to the least of them.
 
-**TDB77:** Nineveh khuamite in kisik kik-in Pasian a um uh a, antan’ nading thu thang sakin, a golpen pana kipan a neupen dongin ippi puan a silh uh hi.
+**TDB77:** Nineveh khuamite in kisik kik-in Pasian a um-te a, antan’ nading thu thang sakin, a golpen pana kipan a neupen dongin ippi puan a silh-te hi.
 
-**ZVS:** Nineveh khuamite kisikin Pasian um uh a, antan' ding thu thangsakin, a golpen pana kipan a neupen dongin puanhampi a silh uh hi.
+**ZVS:** Nineveh khuamite kisikin Pasian um-te a, antan' ding thu thangsakin, a golpen pana kipan a neupen dongin puanhampi a silh-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -80,36 +80,36 @@
 ### v7
 **EN:** And he caused it to be proclaimed and published through Nineveh by the decree of the king and his nobles, saying, Let neither man nor beast, herd nor flock, taste any thing: let them not feed, nor drink water:
 
-**TDB77:** Tua ciangin amah in Nineveh khua sung khempeuh thu thang sak-in a tangko sak a, “Kumpipa leh uliante’ thu tawh: Mihing ahi-a ganhing ahi zongin, bawng hon ahi-a tuu hon ahi zongin, bang mah ciam thei lo ding, an ne thei lo ding, tuidawn thei lo ding uh hi.
+**TDB77:** Tua ciangin amah in Nineveh khua sung khempeuh thu thang sak-in a tangko sak a, “Kumpipa leh uliante’ thu tawh: Mihing ahi-a ganhing ahi zongin, bawng hon ahi-a tuu hon ahi zongin, bang mah ciam thei lo ding, an ne thei lo ding, tuidawn thei lo ding-te hi.
 
-**ZVS:** Tua ciangin amah in Nineveh khuasung khempeuhah thu thangsakin taangkosak a, “Kumpipa leh uliante' thu tawh: Mihing ahi a, ganhing ahi zongin, bawnghon ahi a, tuuhon ahi zongin, kuamah in bangmah ciam theilo ding, an ne theilo ding, tui dawn theilo ding uh hi.
+**ZVS:** Tua ciangin amah in Nineveh khuasung khempeuhah thu thangsakin taangkosak a, “Kumpipa leh uliante' thu tawh: Mihing ahi a, ganhing ahi zongin, bawnghon ahi a, tuuhon ahi zongin, kuamah in bangmah ciam theilo ding, an ne theilo ding, tui dawn theilo ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v8
 **EN:** But let man and beast be covered with sackcloth, and cry mightily unto God: yea, let them turn every one from his evil way, and from the violence that is in their hands.
 
-**TDB77:** Mihing leh ganhingte in ippi puan silhin Pasian tungah nakpi-in kiko ta uh hen. Hi hi, mi khempeuh in a khialhnate uh leh a gitlohnate uh panin kihei ta uh hen.
+**TDB77:** Mihing leh ganhingte in ippi puan silhin Pasian tungah nakpi-in kiko ta-te hen. Hi hi, mi khempeuh in a khialhnate-te leh a gitlohnate-te panin kihei ta-te hen.
 
-**ZVS:** Mihing leh ganhingte in puanhampi silhin Pasian' tungah nakpi-in kiko ta uh hen. Mi khempeuh, a khialhnate uh leh a gitlohnate uh panin kihei ta uh hen.
+**ZVS:** Mihing leh ganhingte in puanhampi silhin Pasian' tungah nakpi-in kiko ta-te hen. Mi khempeuh, a khialhnate-te leh a gitlohnate-te panin kihei ta-te hen.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v9
 **EN:** Who can tell if God will turn and repent, and turn away from his fierce anger, that we perish not?
 
-**TDB77:** Eite i sih loh nadingin Pasian kisik kik-in a hehna damsak lo ding hi, kua in ci thei na hi uh hiam?” a cisak hi.
+**TDB77:** Eite i sih loh nadingin Pasian kisik kik-in a hehna damsak lo ding hi, kua in ci thei na hi-te hiam?” a cisak hi.
 
-**ZVS:** Eite i sihlohna dingin Pasian kisikin a hehna damsaklo ding hi, kua in ci thei na hi uh hiam?” a cisak hi.
+**ZVS:** Eite i sihlohna dingin Pasian kisikin a hehna damsaklo ding hi, kua in ci thei na hi-te hiam?” a cisak hi.
 
 **Grammar:** causative: -sak suffix | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v10
 **EN:** And God saw their works, that they turned from their evil way; and God repented of the evil, that he had said that he would do unto them; and he did it not.
 
-**TDB77:** Pasian in amau’ hihnate mu a, a khialhnate uh panin a kihei uh a muh ciangin kisik kik a, amaute tungah hih dinga a cihsa siatna a tungsak nawn kei hi.
+**TDB77:** Pasian in amau’ hihnate mu a, a khialhnate-te panin a kihei-te a muh ciangin kisik kik a, amaute tungah hih dinga a cihsa siatna a tungsak nawn kei hi.
 
-**ZVS:** Pasian in amau' hihnate mu a, a khialhna uh panin a kihei uh a muh ciangin kisik a, amau tungah hih dingin a cihsa siatna a tungsak nawn kei hi.
+**ZVS:** Pasian in amau' hihnate mu a, a khialhna-te panin a kihei-te a muh ciangin kisik a, amau tungah hih dingin a cihsa siatna a tungsak nawn kei hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 

@@ -53,18 +53,18 @@
 ### v5
 **EN:** And the king appointed them a daily provision of the king's meat, and of the wine which he drank: so nourishing them three years, that at the end thereof they might stand before the king.
 
-**TDB77:** Amaute in kumpi inn sunga nasem dangte mah bangin ni simin an leh leenggahzu tawh vak dingin kumpipa in thu a pia hi. Tua banga kumthum sung sinna a neih khit uh ciangin amaute kumpipa’ mai-ah a kilak kik ding uh ahi hi.
+**TDB77:** Amaute in kumpi inn sunga nasem dangte mah bangin ni simin an leh leenggahzu tawh vak dingin kumpipa in thu a pia hi. Tua banga kumthum sung sinna a neih khit-te ciangin amaute kumpipa’ mai-ah a kilak kik ding-te ahi hi.
 
-**ZVS:** Amaute pen kumpi innsunga nasem dangte mah bangin nisimin an leh leenggahzu tawh a vak dingin kumpipa in thu a pia hi. Tua bangin kum thum sung sinna a neih khit uh ciangin kumpipa mai-ah amaute a kilak kik ding uh ahi hi.
+**ZVS:** Amaute pen kumpi innsunga nasem dangte mah bangin nisimin an leh leenggahzu tawh a vak dingin kumpipa in thu a pia hi. Tua bangin kum thum sung sinna a neih khit-te ciangin kumpipa mai-ah amaute a kilak kik ding-te ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Now among these were of the children of Judah, Daniel, Hananiah, Mishael, and Azariah:
 
-**TDB77:** Tua banga a kiteelte in Judah mi vive ahi Daniel, Hananiah, Mishael leh Azariahte ahi uh hi.
+**TDB77:** Tua banga a kiteelte in Judah mi vive ahi Daniel, Hananiah, Mishael leh Azariahte ahi-te hi.
 
-**ZVS:** Tua bangin a kiteelte, Judah mite vive hi a, Daniel, Hananiah, Mishael, leh Azariah-te ahi uh hi.
+**ZVS:** Tua bangin a kiteelte, Judah mite vive hi a, Daniel, Hananiah, Mishael, leh Azariah-te ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -98,9 +98,9 @@
 ### v10
 **EN:** And the prince of the eunuchs said unto Daniel, I fear my lord the king, who hath appointed your meat and your drink: for why should he see your faces worse liking than the children which are of your sort? then shall ye make me endanger my head to the king.
 
-**TDB77:** Ahih hangin Ashpenaz in Daniel kiangah, “Kumpipa in na an nek ding uh leh na dawn ding uh sehsa-a nei khin zo ahih ciangin, khangno dangte ban zo kei kha zenzen leteh a hong thah ding ka lau hi” a ci hi.
+**TDB77:** Ahih hangin Ashpenaz in Daniel kiangah, “Kumpipa in na an nek ding-te leh na dawn ding-te sehsa-a nei khin zo ahih ciangin, khangno dangte ban zo kei kha zenzen leteh a hong thah ding ka lau hi” a ci hi.
 
-**ZVS:** Ahih hangin Ashpenaz in Daniel kiangah, “Kumpipa in na annek ding uh leh na dawn ding uh sehsa-in nei khinzo ahih ciangin, khangno dangte banzo kei kha zenzen leteh a hong thah ding ka lau hi,” a ci hi.
+**ZVS:** Ahih hangin Ashpenaz in Daniel kiangah, “Kumpipa in na annek ding-te leh na dawn ding-te sehsa-in nei khinzo ahih ciangin, khangno dangte banzo kei kha zenzen leteh a hong thah ding ka lau hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -141,9 +141,9 @@
 ### v15
 **EN:** And at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king's meat.
 
-**TDB77:** Nisawm a cin’ khit ciangin amaute kumpi’ an nete sangin cidam zaw uh a, a ci a sa uh a hoih zaw hi.
+**TDB77:** Nisawm a cin’ khit ciangin amaute kumpi’ an nete sangin cidam zaw-te a, a ci a sa-te a hoih zaw hi.
 
-**ZVS:** Ni sawm a cin' khit ciangin amaute pen kumpi an nete sangin cidamzaw uh a, a ci a sa uh a hoihzaw hi.
+**ZVS:** Ni sawm a cin' khit ciangin amaute pen kumpi an nete sangin cidamzaw-te a, a ci a sa-te a hoihzaw hi.
 
 **Grammar:** plural: uh marker
 
@@ -175,18 +175,18 @@
 ### v19
 **EN:** And the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah: therefore stood they before the king.
 
-**TDB77:** Kumpipa in amaute khempeuh hopih a, Daniel, Hananiah, Mishael leh Azariahte adang teng khempeuh sangin a hoih zawk tuan lam uh a mu hi. Tua ahih ciangin kumpi inn-a vaihawm pawl a suak uh hi.
+**TDB77:** Kumpipa in amaute khempeuh hopih a, Daniel, Hananiah, Mishael leh Azariahte adang teng khempeuh sangin a hoih zawk tuan lam-te a mu hi. Tua ahih ciangin kumpi inn-a vaihawm pawl a suak-te hi.
 
-**ZVS:** Kumpipa in amaute khempeuh hopih a, Daniel, Hananiah, Mishael, leh Azariah-te adangteng khempeuh sangin a hoihzawk tuanlam uh a mu hi. Tua ahih ciangin kumpi inn-a vaihawm ulian pawl a suak uh hi.
+**ZVS:** Kumpipa in amaute khempeuh hopih a, Daniel, Hananiah, Mishael, leh Azariah-te adangteng khempeuh sangin a hoihzawk tuanlam-te a mu hi. Tua ahih ciangin kumpi inn-a vaihawm ulian pawl a suak-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v20
 **EN:** And in all matters of wisdom and understanding, that the king enquired of them, he found them ten times better than all the magicians and astrologers that were in all his realm.
 
-**TDB77:** Kumpipa in bangbang thu haksa nono a dot hangin, hi mi lite in ama gamsung khempeuh a, mitphial siamte leh aisan theite khempeuh sangin a zah sawmin a siamzawk lam uh a mu hi.
+**TDB77:** Kumpipa in bangbang thu haksa nono a dot hangin, hi mi lite in ama gamsung khempeuh a, mitphial siamte leh aisan theite khempeuh sangin a zah sawmin a siamzawk lam-te a mu hi.
 
-**ZVS:** Kumpipa in bangbang thuhaksa nono a dot hangin, hih mi lite pen ama gamsung khempeuha mitphial siamte leh aisan theite khempeuh sangin a zah sawmin a siamzawklam uh a mu hi.
+**ZVS:** Kumpipa in bangbang thuhaksa nono a dot hangin, hih mi lite pen ama gamsung khempeuha mitphial siamte leh aisan theite khempeuh sangin a zah sawmin a siamzawklam-te a mu hi.
 
 **Grammar:** plural: uh marker
 

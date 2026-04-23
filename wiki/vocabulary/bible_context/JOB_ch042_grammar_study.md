@@ -77,27 +77,27 @@
 ### v7
 **EN:** And it was so, that after the
 
-**TDB77:** Topa in hih thute khempeuh Job tungah a gen khit ciangin, Teman khuami Elifaz kiangah, “Ka nasempa Job bangin, keima thu na gen ding uh a, kilawm bangin gen lo na hih manun, nang leh na lawm tegel tungah ka heh hi.
+**TDB77:** Topa in hih thute khempeuh Job tungah a gen khit ciangin, Teman khuami Elifaz kiangah, “Ka nasempa Job bangin, keima thu na gen ding-te a, kilawm bangin gen lo na hih manun, nang leh na lawm tegel tungah ka heh hi.
 
-**ZVS:** { Topa } in hih thute khempeuh Job tungah a gen khit ciangin, Teman khua mi Elifaz kiangah, “Ka nasempa Job bangin, keima thu na gen ding uh a kilawm bangin genlo na hih manun, nang leh na lawmte gel tungah ka heh hi.
+**ZVS:** { Topa } in hih thute khempeuh Job tungah a gen khit ciangin, Teman khua mi Elifaz kiangah, “Ka nasempa Job bangin, keima thu na gen ding-te a kilawm bangin genlo na hih manun, nang leh na lawmte gel tungah ka heh hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Therefore take unto you now seven bullocks and seven rams, and go to my servant Job, and offer up for yourselves a burnt offering; and my servant Job shall pray for you: for him will I accept: lest I deal with you after your folly, in that ye have not spoken of me the thing which is right, like my servant Job.
 
-**TDB77:** Tu-in bawngtal sagih leh tuutal sagih la-in Job kiangah paipih un la, note’ adingin biakpiakna-in nei un. Job in note’ adingin thu hong ngetsak ding a, keimah in ama thungetna ka pia ding hi. Note’ haina zahin kong minsiasak kei ding hi. Note in Job’ gen bangin keima thu a manin na gen kei uh hi,” a ci hi.
+**TDB77:** Tu-in bawngtal sagih leh tuutal sagih la-in Job kiangah paipih un la, note’ adingin biakpiakna-in nei un. Job in note’ adingin thu hong ngetsak ding a, keimah in ama thungetna ka pia ding hi. Note’ haina zahin kong minsiasak kei ding hi. Note in Job’ gen bangin keima thu a manin na gen kei-te hi,” a ci hi.
 
-**ZVS:** Tu-in bawngtal sagih leh tuutal sagih la-in Job kiangah paipih un la, note-a' dingin biakpiakna-in nei un. Job in note-a' dingin thu hong ngetsak ding a, keimah in ama thungetna ka pia ding hi. Note' haina zahin kong minsiasak kei ding hi. Note in Job' gen bangin keima thu a manin na gen kei uh hi,” a ci hi.
+**ZVS:** Tu-in bawngtal sagih leh tuutal sagih la-in Job kiangah paipih un la, note-a' dingin biakpiakna-in nei un. Job in note-a' dingin thu hong ngetsak ding a, keimah in ama thungetna ka pia ding hi. Note' haina zahin kong minsiasak kei ding hi. Note in Job' gen bangin keima thu a manin na gen kei-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** So Eliphaz the Temanite and Bildad the Shuhite and Zophar the Naamathite went, and did according as the
 
-**TDB77:** Tua ahih ciangin Topa’ sawl bangin Elifaz, Bildad, leh Zofar gamta uh a, Topa in Job’ thungetna a pia hi.
+**TDB77:** Tua ahih ciangin Topa’ sawl bangin Elifaz, Bildad, leh Zofar gamta-te a, Topa in Job’ thungetna a pia hi.
 
-**ZVS:** Tua ahih ciangin { Topa' } sawl bangin Elifaz, Bildad, leh Zofar gamta uh a, { Topa } in Job' thungetna a pia hi.
+**ZVS:** Tua ahih ciangin { Topa' } sawl bangin Elifaz, Bildad, leh Zofar gamta-te a, { Topa } in Job' thungetna a pia hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -113,9 +113,9 @@
 ### v11
 **EN:** Then came there unto him all his brethren, and all his sisters, and all they that had been of his acquaintance before, and did eat bread with him in his house: and they bemoaned him, and comforted him over all the evil that the
 
-**TDB77:** Tua ciangin Job’ sanggam pasalte, a sanggam numeite, leh a lawm ngeite a innah hong hawh uh a, a innah pawi bawlin lungdamin omkhawm uh hi. Topa in ama tungah a tun’sak gimnate hangin a khasiatpihnate uh genin hanthawn uh hi. Amaute in sum leh kham zungbuh khatciat tawh va pha uh hi.
+**TDB77:** Tua ciangin Job’ sanggam pasalte, a sanggam numeite, leh a lawm ngeite a innah hong hawh-te a, a innah pawi bawlin lungdamin omkhawm-te hi. Topa in ama tungah a tun’sak gimnate hangin a khasiatpihnate-te genin hanthawn-te hi. Amaute in sum leh kham zungbuh khatciat tawh va pha-te hi.
 
-**ZVS:** Tua ciangin Job' sanggam pasalte, a sanggam numeite, leh a lawm ngeite a inn-ah hong hawh uh a, a inn-ah pawi bawlin lungdamin a omkhawm uh hi. { Topa } in ama tungah a tun'sak gimnate hangin a khasiatpihnate uh genin a hanthawn uh hi. Amaute in sum leh kham zungbuh khat ciat tawh va pha uh hi.
+**ZVS:** Tua ciangin Job' sanggam pasalte, a sanggam numeite, leh a lawm ngeite a inn-ah hong hawh-te a, a inn-ah pawi bawlin lungdamin a omkhawm-te hi. { Topa } in ama tungah a tun'sak gimnate hangin a khasiatpihnate-te genin a hanthawn-te hi. Amaute in sum leh kham zungbuh khat ciat tawh va pha-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -145,9 +145,9 @@
 ### v15
 **EN:** And in all the land were no women found so fair as the daughters of Job: and their father gave them inheritance among their brethren.
 
-**TDB77:** Job’ tanute zahin a meelhoih leitungah numei dang khat zong om lo a, a pa un a sanggam pasalte uh tawh a kibangin gamh luah khawmsak hi.
+**TDB77:** Job’ tanute zahin a meelhoih leitungah numei dang khat zong om lo a, a pa un a sanggam pasalte-te tawh a kibangin gamh luah khawmsak hi.
 
-**ZVS:** Job' tanute zahin a melhoih leitungah numei dang khat zong omlo a, a pa un a sanggam pasalte uh tawh a kibangin gamh a luahkhawmsak hi.
+**ZVS:** Job' tanute zahin a melhoih leitungah numei dang khat zong omlo a, a pa un a sanggam pasalte-te tawh a kibangin gamh a luahkhawmsak hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 

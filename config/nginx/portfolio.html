@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peter Pau Sian Lian — Full Stack Developer | AI Enthusiast</title>
+    <meta name="description" content="Peter Pau Sian Lian — Full Stack Developer, AI Enthusiast, building scalable software and AI tools for the Zolai language community.">
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        :root {
+            --primary: #2834C4;
+            --secondary: #38BDF8;
+            --bg: #0a0a0a;
+            --card: #111;
+            --border: #222;
+            --text: #e0e0e0;
+            --muted: #888;
+        }
+        body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; background: var(--bg); color: var(--text); line-height: 1.6; }
+        .container { max-width: 900px; margin: 0 auto; padding: 0 1.5rem; }
+        .hero { text-align: center; padding: 5rem 0 3rem; }
+        .avatar { width: 100px; height: 100px; border-radius: 50%; border: 3px solid var(--primary); margin-bottom: 1rem; }
+        .hero h1 { font-size: 2.5rem; margin-bottom: 0.3rem; }
+        .hero h1 span { background: linear-gradient(135deg, var(--primary), var(--secondary)); -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        .hero .tagline { color: var(--muted); font-size: 1.1rem; margin-bottom: 1.5rem; }
+        .badges { display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; margin-bottom: 1.5rem; }
+        .badge { background: var(--card); border: 1px solid var(--border); padding: 0.3rem 0.8rem; border-radius: 20px; font-size: 0.85rem; color: var(--muted); }
+        .social { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+        .social a { color: var(--secondary); text-decoration: none; font-size: 0.9rem; padding: 0.4rem 1rem; border: 1px solid var(--secondary); border-radius: 8px; transition: all 0.2s; }
+        .social a:hover { background: var(--secondary); color: var(--bg); }
+        section { padding: 2rem 0; }
+        h2 { font-size: 1.5rem; margin-bottom: 1rem; color: var(--secondary); }
+        .card { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 1.5rem; margin: 1rem 0; transition: border-color 0.2s; }
+        .card:hover { border-color: var(--primary); }
+        .card h3 { color: var(--secondary); margin-bottom: 0.5rem; font-size: 1.1rem; }
+        .card p { color: var(--muted); font-size: 0.95rem; }
+        .projects { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+        .project { background: var(--card); border: 1px solid var(--border); border-radius: 12px; padding: 1.2rem; transition: all 0.2s; text-decoration: none; color: inherit; display: block; }
+        .project:hover { border-color: var(--primary); transform: translateY(-2px); }
+        .project h3 { color: var(--secondary); font-size: 1rem; margin-bottom: 0.3rem; }
+        .project p { color: var(--muted); font-size: 0.85rem; margin-bottom: 0.5rem; }
+        .project .lang { display: inline-block; background: var(--border); padding: 0.2rem 0.5rem; border-radius: 10px; font-size: 0.75rem; color: var(--muted); }
+        .project .stars { color: var(--muted); font-size: 0.8rem; margin-left: 0.5rem; }
+        .tech { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+        .tech span { background: var(--card); border: 1px solid var(--border); padding: 0.3rem 0.8rem; border-radius: 8px; font-size: 0.85rem; color: var(--muted); }
+        footer { text-align: center; padding: 3rem 0; color: #444; font-size: 0.85rem; border-top: 1px solid var(--border); margin-top: 2rem; }
+        @media (max-width: 600px) { .hero h1 { font-size: 1.8rem; } .projects { grid-template-columns: 1fr; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="hero">
+            <img src="https://avatars.githubusercontent.com/u/36624809?v=4" alt="Peter" class="avatar">
+            <h1><span>Peter Pau Sian Lian</span></h1>
+            <p class="tagline">Full Stack Developer | AI Enthusiast | Building scalable software and AI tools</p>
+            <div class="badges">
+                <span class="badge">Yangon, Myanmar</span>
+                <span class="badge">BSc Computer Science (UoPeople)</span>
+                <span class="badge">Junior Engineer</span>
+            </div>
+            <div class="social">
+                <a href="https://github.com/peterlianpi" target="_blank">GitHub</a>
+                <a href="https://huggingface.co/peterpausianlian" target="_blank">HuggingFace</a>
+                <a href="https://www.kaggle.com/peterpausianlian" target="_blank">Kaggle</a>
+                <a href="https://peterlianpi.blogspot.com/" target="_blank">Blog</a>
+                <a href="mailto:peterpausianlian2020@gmail.com">Email</a>
+            </div>
+        </div>
+        <section>
+            <h2>About</h2>
+            <div class="card">
+                <p>I'm passionate about building useful software, learning new technologies, and solving real-world problems with code. I work mostly across web development, artificial intelligence, data systems, and modular software architecture.</p>
+                <br>
+                <p><strong>My mission</strong> is to build meaningful technology that helps people and communities grow, ultimately aiming to become a technology entrepreneur.</p>
+                <br>
+                <p>Currently: Junior Engineer, BSc Computer Science (UoPeople), background in tech support and repair. Also into piano and music theory.</p>
+            </div>
+        </section>
+        <section>
+            <h2>Projects</h2>
+            <div class="projects">
+                <a href="https://github.com/peterlianpi/zolai" target="_blank" class="project">
+                    <h3>Zolai AI Language</h3>
+                    <p>AI project for dataset preparation, web crawlers, LLM fine-tuning, and language preservation for the Zolai (Tedim Chin) language.</p>
+                    <span class="lang">Python</span>
+                </a>
+                <a href="https://github.com/peterlianpi/ebyf-info" target="_blank" class="project">
+                    <h3>EBYF Info</h3>
+                    <p>PWA for church youth contact management and community engagement.</p>
+                    <span class="lang">TypeScript</span>
+                </a>
+                <a href="https://github.com/peterlianpi/Praise-And-Worship-Collective" target="_blank" class="project">
+                    <h3>Praise & Worship Collective</h3>
+                    <p>Worship music collection and management platform.</p>
+                    <span class="stars">2 stars</span>
+                </a>
+                <a href="https://github.com/peterlianpi/Tedim-Chin-Bible" target="_blank" class="project">
+                    <h3>Tedim Chin Bible</h3>
+                    <p>Lai Siangtho for ProPresenter 7 - TDB, TB77, KJV, FCL, HCL06, BJB.</p>
+                    <span class="stars">1 star</span>
+                </a>
+                <a href="https://github.com/peterlianpi/Tedim-Chin-Bible-2010-for-macOS" target="_blank" class="project">
+                    <h3>Tedim Chin Bible 2010 (macOS)</h3>
+                    <p>Tedim Chin Bible 2010 (TDB) and Chin 1977 (TB77) for macOS.</p>
+                    <span class="stars">1 star</span>
+                </a>
+                <a href="https://github.com/peterlianpi/bible" target="_blank" class="project">
+                    <h3>Bible</h3>
+                    <p>The Holy Bible - JavaScript-based Bible reader.</p>
+                    <span class="lang">JavaScript</span>
+                </a>
+            </div>
+        </section>
+        <section>
+            <h2>Tech Stack</h2>
+            <div class="tech">
+                <span>JavaScript</span><span>TypeScript</span><span>Python</span><span>React</span><span>Next.js</span><span>Node.js</span><span>PostgreSQL</span><span>MongoDB</span><span>HTML/CSS</span><span>Tailwind</span><span>Git</span><span>Linux</span><span>Ubuntu</span><span>Docker</span><span>Vercel</span><span>AI/ML</span><span>LLM Fine-tuning</span>
+            </div>
+        </section>
+        <section>
+            <h2>Learning</h2>
+            <div class="card">
+                <p><strong>Architecture:</strong> Advanced Next.js paradigms and scalable backend design.</p>
+                <p><strong>Data & ML:</strong> Data analytics with SQL/Python, machine learning fundamentals.</p>
+                <p><strong>AI:</strong> Prompt engineering, foundation model tuning, and LLM applications.</p>
+            </div>
+        </section>
+        <section>
+            <h2>Contact</h2>
+            <div class="card" style="text-align:center">
+                <p><a href="mailto:peterpausianlian2020@gmail.com" style="color:var(--secondary)">peterpausianlian2020@gmail.com</a></p>
+                <p><a href="https://github.com/peterlianpi" target="_blank" style="color:var(--secondary)">github.com/peterlianpi</a></p>
+                <p><a href="https://twitter.com/peterlianpi" target="_blank" style="color:var(--secondary)">@peterlianpi</a></p>
+            </div>
+        </section>
+        <footer>
+            <p>2026 Peter Pau Sian Lian. Built with love for the Zolai community.</p>
+            <p style="margin-top:0.5rem">Interactive 3D scene showcase coming soon.</p>
+        </footer>
+    </div>
+</body>
+</html>

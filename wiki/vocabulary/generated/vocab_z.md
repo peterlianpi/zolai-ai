@@ -22,7 +22,7 @@
 ### zagiat
 **[n]** begat
 **Meanings:** begat | hundred | enoch | spear | armed | house
-**Synonyms:** suah, ram, salmon
+**Synonyms:** suah, gam, salmon
 **Related:** kum, dang, nungta, nei, khit
 **CEFR:** A1
 **Usage:** Attested 790× across 4 Bible books.
@@ -281,7 +281,7 @@
 **Related:** sat, giahphual, dingkhia
 **CEFR:** A1
 **Usage:** Attested 75× across 2 Bible books.
-> *Zalmonah panin dingkhia uh a, Punon-ah giahphual sat uh hi.*
+> *Zalmonah panin dingkhia-te a, Punon-ah giahphual sat-te hi.*
 > → And they departed from Zalmonah, and pitched in Punon.
 
 ### zam
@@ -306,7 +306,7 @@
 **Meanings:** tall | many | anakims | people | great
 **CEFR:** A1
 **Usage:** Attested 40× across 2 Bible books.
-> *amau' munah teng uh hi.*
+> *amau' munah teng-te hi.*
 
 ### zan
 **[n]** night
@@ -426,7 +426,7 @@
 **Related:** kuam, teng
 **CEFR:** A1
 **Usage:** Attested 445× across 6 Bible books.
-> *amaute pen Beersheba panin Hinnom Kuam dongah teng uh hi.*
+> *amaute pen Beersheba panin Hinnom Kuam dongah teng-te hi.*
 
 ### zap
 **[n]** over
@@ -434,7 +434,7 @@
 **Related:** vasa, leitung, khin, beek
 **CEFR:** A1
 **Usage:** Attested 655× across 10 Bible books.
-> *“Vasa-kalaohte in a kha uh bangzah takin nawh zap thei*
+> *“Vasa-kalaohte in a kha-te bangzah takin nawh zap thei*
 
 ### zarah
 **[]** pharez
@@ -498,7 +498,7 @@
 **Synonyms:** hananiah, umsak
 **CEFR:** A2
 **Usage:** Attested 60× across 2 Bible books.
-> *Bebai-te beh panin Jehohanan, Hananiah, Zabbai, leh Athlai ahi uh hi.*
+> *Bebai-te beh panin Jehohanan, Hananiah, Zabbai, leh Athlai ahi-te hi.*
 > → Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai.
 
 ### zabbud
@@ -547,7 +547,7 @@
 **[]** children
 **Meanings:** children | land | son | came | passed | men
 **CEFR:** A2
-> *tawi Dan mi zagukte kulh kongpi lutna-ah ding uh hi;*
+> *tawi Dan mi zagukte kulh kongpi lutna-ah ding-te hi;*
 > `JDG 18:16`
 
 ### zaham
@@ -572,7 +572,7 @@
 **Related:** zahkai; mizap tello, zahkona kammal, zahkohna
 **CEFR:** A2
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Kam dang tampi tawh Zeisu lang pangin a zahko uh hi.*
+> *Kam dang tampi tawh Zeisu lang pangin a zahko-te hi.*
 > → And many other things blasphemously spake they against him.
 > `LUK 22:65`
 
@@ -600,7 +600,7 @@
 **Related:** zahpih huai, Zahpih zahkona kammal, zahpih kam, zahpihna leh lamdang sakna kam, zahpihna kammal
 **CEFR:** A2
 **Usage:** Adjective — place before noun or after verb as predicate.
-> *Zingsang a kipan nitak dong a hong zahpih uh hi.*
+> *Zingsang a kipan nitak dong a hong zahpih-te hi.*
 > → Behold their sitting down, and their rising up; I am their musick.
 > `LAM 3:63`
 
@@ -718,7 +718,7 @@
 **Related:** zalhkhia
 **CEFR:** A2
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Amaute pen Pasian' nasem dingin a khualzin khia uh hi*
+> *Amaute pen Pasian' nasem dingin a khualzin khia-te hi*
 
 ### zalite
 **[]** pillars
@@ -952,7 +952,7 @@
 **Related:** kilawm, note, ngaihsun
 **CEFR:** B1
 **Usage:** Attested 480× across 12 Bible books.
-> *a zumhuai mahmahpi-in a gamta uh hi.*
+> *a zumhuai mahmahpi-in a gamta-te hi.*
 
 ### zahtakbawl
 **[n]** mother
@@ -981,7 +981,7 @@
 **Meanings:** lord | thus | saith | thou | son | man
 **CEFR:** B1
 **Usage:** Attested 135× across 4 Bible books.
-> *vasate khempeuh in a nekzawh zahzahun amaute' sa a ne uh hi.*
+> *vasate khempeuh in a nekzawh zahzahun amaute' sa a ne-te hi.*
 
 ### zaizai
 **[n]** doth
@@ -1024,7 +1024,7 @@
 **[]** god
 **Meanings:** god | sanctify | holy | one | jacob | fear
 **CEFR:** B1
-> *A khangto minamte in pianna Nute zaktakin thupi sim ciat uh hi.*
+> *A khangto minamte in pianna Nute zaktakin thupi sim ciat-te hi.*
 
 ### zaktheih
 **[n]** give
@@ -1076,7 +1076,7 @@
 **Related:** namsau, teipi, khuaphia
 **CEFR:** B1
 **Usage:** Attested 655× across 10 Bible books.
-> *Tua ganhingte zong khuaphia mah bangin kin zalzal kawikawi uh hi.*
+> *Tua ganhingte zong khuaphia mah bangin kin zalzal kawikawi-te hi.*
 > → And the living creatures ran and returned as the appearance of a flash of lightning.
 > `EZK 1:14`
 
@@ -1090,7 +1090,7 @@
 **Meanings:** aha | tyre | hath | against | jerusalem | broken
 **CEFR:** B1
 **Usage:** Attested 125× across 2 Bible books.
-> *amaute' guallelhna tu-in eima hauhna suak ding hi,’ ci uh hi.*
+> *amaute' guallelhna tu-in eima hauhna suak ding hi,’ ci-te hi.*
 
 ### zangawp
 **[]** eaten
@@ -1234,7 +1234,7 @@
 **Related:** zasan vui, zasan nam, zasan meh, zasanpi gawivuui, Zasan pi
 **CEFR:** B1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *Ka suahtak khit uh ciangin Malta tuikulh gam hi cih*
+> *Ka suahtak khit-te ciangin Malta tuikulh gam hi cih*
 
 ### zasimin
 **[]** thou
@@ -1289,7 +1289,7 @@
 **[]** jerusalem
 **Meanings:** jerusalem | city | come | into | gathered | moved
 **CEFR:** B2
-> *khua zangpi-in kongkhak kiangah a kikhawm uh hi.*
+> *khua zangpi-in kongkhak kiangah a kikhawm-te hi.*
 > → And all the city was gathered together at the door.
 > `MRK 1:33`
 
@@ -1401,7 +1401,7 @@
 **[]** disciples
 **Meanings:** disciples | heart | did | call | lord | out
 **CEFR:** B2
-> *a nungzuite tawh tua pa nung a zuikhawm uh hi.*
+> *a nungzuite tawh tua pa nung a zuikhawm-te hi.*
 > `MAT 9:19`
 
 ### zuikik
@@ -1443,7 +1443,7 @@
 **[]** missing
 **Meanings:** missing | mocked | jesus | smote | men | held
 **CEFR:** C1
-> *Zeisu a len mite in amah zahkoin a sat uh hi.*
+> *Zeisu a len mite in amah zahkoin a sat-te hi.*
 > → And the men that held Jesus mocked him, and smote him.
 > `LUK 22:63`
 
@@ -1452,7 +1452,7 @@
 **Meanings:** man | god | heareth | sinners | any | worshipper
 **CEFR:** C1
 **Usage:** Attested 60× across 2 Bible books.
-> *kinei mite in amau' ngaihsutna uh man mahmah sa semsem uh hi.*
+> *kinei mite in amau' ngaihsutna-te man mahmah sa semsem-te hi.*
 
 ### zahzaha
 **[]** many
@@ -1497,7 +1497,7 @@
 **[]** come
 **Meanings:** come | fourteenth | night | driven | down | adria
 **CEFR:** C1
-> *Zaninah Tom leh Mary a lawmte uh inah om uh hi.*
+> *Zaninah Tom leh Mary a lawmte-te inah om-te hi.*
 
 ### zankhua
 **[]** master
@@ -1515,7 +1515,7 @@
 **Meanings:** wondered | heard | missing | fear | church | just
 **CEFR:** C1
 **Usage:** Attested 10× across 2 Bible books.
-> *Tuucingte’ thugenna zate khempeuh in lamdang a sa uh hi.*
+> *Tuucingte’ thugenna zate khempeuh in lamdang a sa-te hi.*
 > → And all they that heard it wondered at those things which were told them by the shepherds.
 > `LUK 2:18`
 
@@ -1541,7 +1541,7 @@
 **[]** could
 **Meanings:** could | together | again | much | eat | multitude
 **CEFR:** C1
-> *an kine thei lo zawzenin mihonpite khatvei a kikhawm kik uh hi.*
+> *an kine thei lo zawzenin mihonpite khatvei a kikhawm kik-te hi.*
 > `MRK 3:20`
 
 ### zealot
@@ -1844,7 +1844,7 @@ z
 **Variants:** khuuk nunglam
 **CEFR:** C2
 **Usage:** Adjective — place before noun or after verb as predicate.
-> *leh a thal uh tawh*
+> *leh a thal-te tawh*
 
 ### zadanggui
 **[]** hamstring
@@ -1879,7 +1879,7 @@ z
 **Meanings:** order | declaration | those | things | most | surely
 **CEFR:** C2
 **Usage:** Attested 110× across 2 Bible books.
-> *mi tampi in amau siamna zahciat tawh lai-in a gelh uh hi.*
+> *mi tampi in amau siamna zahciat tawh lai-in a gelh-te hi.*
 
 ### zahgiat
 **[adj]** eightfold
@@ -1900,7 +1900,7 @@ z
 ### zahkai
 **[]** shy
 **CEFR:** C2
-> *Introvert khempeuh mi zahkai hi khin sam lo uh hi.*
+> *Introvert khempeuh mi zahkai hi khin sam lo-te hi.*
 
 ### zahkim
 **[adv]** around

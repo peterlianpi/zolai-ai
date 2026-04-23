@@ -115,9 +115,9 @@
 ### v12
 **EN:** His troops come together, and raise up their way against me, and encamp round about my tabernacle.
 
-**TDB77:** Amah in keimah sim dingin a galkapte hong sawl a, galkapte in dum to-in ka buk hong umcih uh hi.
+**TDB77:** Amah in keimah sim dingin a galkapte hong sawl a, galkapte in dum to-in ka buk hong umcih-te hi.
 
-**ZVS:** Amah in keimah a sim dingin a galkapte hong sawl a, a galkapte in dum to-in ka buk hong umcih uh hi.
+**ZVS:** Amah in keimah a sim dingin a galkapte hong sawl a, a galkapte in dum to-in ka buk hong umcih-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -135,46 +135,46 @@
 
 **TDB77:** Ka behte leh ka lawmte bei ta hi.
 
-**ZVS:** Ka behte leh ka lawmte beimang khinta uh hi.
+**ZVS:** Ka behte leh ka lawmte beimang khinta-te hi.
 
 ### v15
 **EN:** They that dwell in mine house, and my maids, count me for a stranger: I am an alien in their sight.
 
 **TDB77:** Ka inn-ah hong tung ngei ka zinte in hong mangngilh ta a, ka na a sem numeite in mikhual bangin hong bawl a, amau’ mai-ah midangpi ka suak hi.
 
-**ZVS:** Ka inn-ah a hong tung ngei keima zinte in hong mangngilh ta a, ka na a sem numeite in khualmi bangin hong bawl uh a, amaute' mai-ah midangpi khat ka suak hi.
+**ZVS:** Ka inn-ah a hong tung ngei keima zinte in hong mangngilh ta a, ka na a sem numeite in khualmi bangin hong bawl-te a, amaute' mai-ah midangpi khat ka suak hi.
 
 ### v16
 **EN:** I called my servant, and he gave me no answer; I entreated him with my mouth.
 
-**TDB77:** Ka nasemte khatpeuh ka sap ciangin hong dawng nuam lo uh a, hong huh nading ka thuum ciang nangawnin hong thudon lo uh hi.
+**TDB77:** Ka nasemte khatpeuh ka sap ciangin hong dawng nuam lo-te a, hong huh nading ka thuum ciang nangawnin hong thudon lo-te hi.
 
-**ZVS:** Ka nasemte khatpeuh ka sap ciangin hong dawng nuamlo uh a, hong huhna ding uh ka thum ciang nangawnin hong thudonlo uh hi.
+**ZVS:** Ka nasemte khatpeuh ka sap ciangin hong dawng nuamlo-te a, hong huhna ding-te ka thum ciang nangawnin hong thudonlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v17
 **EN:** My breath is strange to my wife, though I entreated for the children's sake of mine own body.
 
-**TDB77:** Ka zi in ka gimnam nam zo lo a, ka sanggamte mahmah in zong hong naih nuam lo uh hi.
+**TDB77:** Ka zi in ka gimnam nam zo lo a, ka sanggamte mahmah in zong hong naih nuam lo-te hi.
 
-**ZVS:** Ka zi nangawn in ka gimnam thuak zolo a, ka sanggamte mahmah in zong hong naih nuamlo uh hi.
+**ZVS:** Ka zi nangawn in ka gimnam thuak zolo a, ka sanggamte mahmah in zong hong naih nuamlo-te hi.
 
 **Grammar:** intensifier: very/greatly | negation: lo | plural: uh marker
 
 ### v18
 **EN:** Yea, young children despised me; I arose, and they spake against me.
 
-**TDB77:** Naupang melmawl nangawn in kei hong simmawh uh a, kei hong muh uh ciangin hong nuihsan uh hi.
+**TDB77:** Naupang melmawl nangawn in kei hong simmawh-te a, kei hong muh-te ciangin hong nuihsan-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v19
 **EN:** All my inward friends abhorred me: and they whom I loved are turned against me.
 
-**TDB77:** Ka lawm it pente nangawn in kei hong muhdah et uh a, ka it pente nangawn in kei hong lang bawl uh hi.
+**TDB77:** Ka lawm it pente nangawn in kei hong muhdah et-te a, ka it pente nangawn in kei hong lang bawl-te hi.
 
-**ZVS:** Ka lawm it pente nangawn in kei hong muhdah et uh a, ka it pente nangawn in kei hong langbawl uh hi.
+**ZVS:** Ka lawm it pente nangawn in kei hong muhdah et-te a, ka it pente nangawn in kei hong langbawl-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -190,16 +190,16 @@
 ### v21
 **EN:** Have pity upon me, have pity upon me, O ye my friends; for the hand of God hath touched me.
 
-**TDB77:** Hong hehpih un! Hong hehpih un! Ka lawmte hilo na hi uh hiam? Pasian in kei hong satpaai hi.
+**TDB77:** Hong hehpih un! Hong hehpih un! Ka lawmte hilo na hi-te hiam? Pasian in kei hong satpaai hi.
 
-**ZVS:** Hong hehpih un! Hong hehpih un! Keima lawmte hilo na hi uh hiam? Pasian in kei hong satpai ta hi.
+**ZVS:** Hong hehpih un! Hong hehpih un! Keima lawmte hilo na hi-te hiam? Pasian in kei hong satpai ta hi.
 
 ### v22
 **EN:** Why do ye persecute me as God, and are not satisfied with my flesh?
 
-**TDB77:** Pasian’ hong bawlsiat bangin bang hangin no zong hong bawlsia ding na hi uh hiam? Nong gimsakna uh kicing ta hoh hilo ahi hiam?
+**TDB77:** Pasian’ hong bawlsiat bangin bang hangin no zong hong bawlsia ding na hi-te hiam? Nong gimsakna-te kicing ta hoh hilo ahi hiam?
 
-**ZVS:** Pasian' hong bawlsiat bangin bang hangin no zong kei hong bawlsia ding na hi uh hiam? Nong gimsakna uh kicing ta hoh hilo ahi hiam?
+**ZVS:** Pasian' hong bawlsiat bangin bang hangin no zong kei hong bawlsia ding na hi-te hiam? Nong gimsakna-te kicing ta hoh hilo ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -247,18 +247,18 @@
 ### v28
 **EN:** But ye should say, Why persecute we him, seeing the root of the matter is found in me?
 
-**TDB77:** Bang hang hiam cih leh, “Amah bang i ci gimsak thei ding hiam?” na ci uh hi. Kei nong suk theih nadingun paulap khatpeuh na zong uh hi.
+**TDB77:** Bang hang hiam cih leh, “Amah bang i ci gimsak thei ding hiam?” na ci-te hi. Kei nong suk theih nadingun paulap khatpeuh na zong-te hi.
 
-**ZVS:** Bang hang hiam cih leh, ‘Amah bangci gimsak thei ding ihi hiam?’ na ci uh hi. Kei nong suktheihna dingun paulap khatpeuh na zong uh hi.
+**ZVS:** Bang hang hiam cih leh, ‘Amah bangci gimsak thei ding ihi hiam?’ na ci-te hi. Kei nong suktheihna dingun paulap khatpeuh na zong-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v29
 **EN:** Be ye afraid of the sword: for wrath bringeth the punishments of the sword, that ye may know there is a judgment.
 
-**TDB77:** Ahi zongin tu-in namsau kihta un—tua namsau in a mawhte tungah Pasian’ hehna hong sem ding hi; tua ciangin thu a khen ding khat a om lam na thei ding uh hi,” a ci hi.
+**TDB77:** Ahi zongin tu-in namsau kihta un—tua namsau in a mawhte tungah Pasian’ hehna hong sem ding hi; tua ciangin thu a khen ding khat a om lam na thei ding-te hi,” a ci hi.
 
-**ZVS:** Ahi zongin tu-in namsau kihta un. Tua namsau in a mawhte tungah Pasian' hehna hong sem ding hi. Tua ciangin thukhen ding khat a omlam na thei ding uh hi,” a ci hi.
+**ZVS:** Ahi zongin tu-in namsau kihta un. Tua namsau in a mawhte tungah Pasian' hehna hong sem ding hi. Tua ciangin thukhen ding khat a omlam na thei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

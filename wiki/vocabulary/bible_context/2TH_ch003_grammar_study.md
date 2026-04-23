@@ -33,9 +33,9 @@
 ### v2
 **EN:** And that we may be delivered from unreasonable and wicked men: for all men have not faith.
 
-**TDB77:** a nial mite leh migilote’ khut tung pan kote hong hotkhiat nading thu hong ngetsak un. Bang hang hiam na cih uh leh, mi khempeuh in thu-um mi ahi kei uh hi.
+**TDB77:** a nial mite leh migilote’ khut tung pan kote hong hotkhiat nading thu hong ngetsak un. Bang hang hiam na cih-te leh, mi khempeuh in thu-um mi ahi kei-te hi.
 
-**ZVS:** Mi khempeuh in thu um nailo uh ahih manin a gilo a siahuai mite panin Pasian in kote hong hotkhiatna dingin zong hong ngetsak un.
+**ZVS:** Mi khempeuh in thu um nailo-te ahih manin a gilo a siahuai mite panin Pasian in kote hong hotkhiatna dingin zong hong ngetsak un.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -51,9 +51,9 @@
 ### v4
 **EN:** And we have confidence in the Lord touching you, that ye both do and will do the things which we command you.
 
-**TDB77:** Kote’ thupiakna bangin note in tu-in na gamta uh tham loin, a nung ciangin zong na gamta ding uh hi ci-in Topa suangin kote in ka lungkim uh hi.
+**TDB77:** Kote’ thupiakna bangin note in tu-in na gamta-te tham loin, a nung ciangin zong na gamta ding-te hi ci-in Topa suangin kote in ka lungkim-te hi.
 
-**ZVS:** Note kiangah ka hong gen uh thute a kipat cila kipanin na zuih uh mah bangin zui paisuak taktak ding, ci-in note muan'na lungsim kote sungah Topa in hong guan hi.
+**ZVS:** Note kiangah ka hong gen-te thute a kipat cila kipanin na zuih-te mah bangin zui paisuak taktak ding, ci-in note muan'na lungsim kote sungah Topa in hong guan hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -67,79 +67,79 @@
 ### v6
 **EN:** Now we command you, brethren, in the name of our Lord Jesus Christ, that ye withdraw yourselves from every brother that walketh disorderly, and not after the tradition which he received of us.
 
-**TDB77:** Ute naute aw, kote kiangah na san’ uh ngeina thu bangin a gamta lo, thadahin a zulhtat ute naute khempeuh na pel un ci-in i Topa Zeisu Khazih’ min tawh thu kong pia uh hi.
+**TDB77:** Ute naute aw, kote kiangah na san’ uh ngeina thu bangin a gamta lo, thadahin a zulhtat ute naute khempeuh na pel un ci-in i Topa Zeisu Khazih’ min tawh thu kong pia-te hi.
 
-**ZVS:** Sanggamte aw, i Topa Jesuh Khrih min tawh kong sawlnop uh thu panin: Note tungah ka hong hilhsa uh thute a zuilo, a thadah gamtat thu uppih mite tawh na kikhawl kei un.
+**ZVS:** Sanggamte aw, i Topa Jesuh Khrih min tawh kong sawlnop-te thu panin: Note tungah ka hong hilhsa-te thute a zuilo, a thadah gamtat thu uppih mite tawh na kikhawl kei un.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** For yourselves know how ye ought to follow us: for we behaved not ourselves disorderly among you;
 
-**TDB77:** Bang hang hiam na cih uh leh, kote hong piak lim zui-in note na gamtat nading uh a kilawm hi ci-in na thei uh hi. Bang hang hiam na cih uh leh, kote in note lakah thadah zulhtatin ka gamta kei uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, kote hong piak lim zui-in note na gamtat nading-te a kilawm hi ci-in na thei-te hi. Bang hang hiam na cih-te leh, kote in note lakah thadah zulhtatin ka gamta kei-te hi.
 
-**ZVS:** Kote' gamtatzia bangin a gamta ding na hihna uh teltakin na thei uh hi. Note tawh ka hong omkhawm lai-un ka thadah om kei uh hi.
+**ZVS:** Kote' gamtatzia bangin a gamta ding na hihna-te teltakin na thei-te hi. Note tawh ka hong omkhawm lai-un ka thadah om kei-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Neither did we eat any man's bread for nought; but wrought with labour and travail night and day, that we might not be chargeable to any of you:
 
-**TDB77:** A man pia loin kuama an ka ne kei uh hi. Note lakah kuamah tungah vangik ka suah loh nadingun gimpi-in hahkatin, sun tawh zan tawh na ka sem uh hi.
+**TDB77:** A man pia loin kuama an ka ne kei-te hi. Note lakah kuamah tungah vangik ka suah loh nadingun gimpi-in hahkatin, sun tawh zan tawh na ka sem-te hi.
 
-**ZVS:** Kuama an a khongin ka ne kei uh hi. Note khat peuhpeuh in nong suplawhkhak lohna dingun a sun a zanin hahkat takin na ka sem uh hi.
+**ZVS:** Kuama an a khongin ka ne kei-te hi. Note khat peuhpeuh in nong suplawhkhak lohna dingun a sun a zanin hahkat takin na ka sem-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | plural: uh marker
 
 ### v9
 **EN:** Not because we have not power, but to make ourselves an ensample unto you to follow us.
 
-**TDB77:** Tua bang ka bawl uh ciangin a ngah ding, a la dingin kilawm ka kisak lohna hang uh hi loin, note zuih dingin komau pumpi in limpha ka suah nadingun ka bawl uh hi.
+**TDB77:** Tua bang ka bawl-te ciangin a ngah ding, a la dingin kilawm ka kisak lohna hang-te hi loin, note zuih dingin komau pumpi in limpha ka suah nadingun ka bawl-te hi.
 
-**ZVS:** Hih bangin ka gamtatna uh pen note' hong piakte a khongin ne-in a zang dingin a kilawm mah hinapi-in, note' etteh ding gamtatzia a hong lak ka hizaw uh hi.
+**ZVS:** Hih bangin ka gamtatna-te pen note' hong piakte a khongin ne-in a zang dingin a kilawm mah hinapi-in, note' etteh ding gamtatzia a hong lak ka hizaw-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** For even when we were with you, this we commanded you, that if any would not work, neither should he eat.
 
-**TDB77:** Bang hang hiam na cih uh leh, kote in note tawh ka omkhawm lai takun, “Mi khat peuhmah in na a sep nop kei leh, tua mi in an ne kei hen,” ci-in thu kong pia uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, kote in note tawh ka omkhawm lai takun, “Mi khat peuhmah in na a sep nop kei leh, tua mi in an ne kei hen,” ci-in thu kong pia-te hi.
 
-**ZVS:** Note tawh ka hong omkhawm lai-un, “Na a sem nuamlo mi peuhmah an nesak kei un,” ci-in ka hong gen uh hi.
+**ZVS:** Note tawh ka hong omkhawm lai-un, “Na a sem nuamlo mi peuhmah an nesak kei un,” ci-in ka hong gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v11
 **EN:** For we hear that there are some which walk among you disorderly, working not at all, but are busybodies.
 
-**TDB77:** Note lakah amau’ na bangmah sem lo a, amau tawh kisai lo thute ah a kitaaklah, a vakthap mi kimkhat a om hi cih thu ka za uh hi.
+**TDB77:** Note lakah amau’ na bangmah sem lo a, amau tawh kisai lo thute ah a kitaaklah, a vakthap mi kimkhat a om hi cih thu ka za-te hi.
 
-**ZVS:** Hih bangin thu ka hong genna uh pen note lakah mi pawlkhatte thadahin na sem nuamlo uh a, midangte' nasepna va nawngkaisak zawsop hi, ci-in ka zakna hang uh ahi hi.
+**ZVS:** Hih bangin thu ka hong genna-te pen note lakah mi pawlkhatte thadahin na sem nuamlo-te a, midangte' nasepna va nawngkaisak zawsop hi, ci-in ka zakna hang-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Now them that are such we command and exhort by our Lord Jesus Christ, that with quietness they work, and eat their own bread.
 
-**TDB77:** Tua bang mite in nuamtakin nasemin, amau khut pana piang an a neek nadingun i Topa Zeisu Khazih suangin thu ka pia uh a, hansuahin ka zol uh hi.
+**TDB77:** Tua bang mite in nuamtakin nasemin, amau khut pana piang an a neek nadingun i Topa Zeisu Khazih suangin thu ka pia-te a, hansuahin ka zol-te hi.
 
-**ZVS:** Tu-in tua bang mite in kuamah nawngkaisak nawnloin man manin na sem hiathiatin amau' nuntakna dingun na a sepna dingun Topa Jesuh Khrih min tawh hanthawnin thu ka hong pia uh hi.
+**ZVS:** Tu-in tua bang mite in kuamah nawngkaisak nawnloin man manin na sem hiathiatin amau' nuntakna dingun na a sepna dingun Topa Jesuh Khrih min tawh hanthawnin thu ka hong pia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** But ye, brethren, be not weary in well doing.
 
-**TDB77:** Ute naute aw, no na hih uh leh, thakiam loin ahoih nate na gamta un.
+**TDB77:** Ute naute aw, no na hih-te leh, thakiam loin ahoih nate na gamta un.
 
 **ZVS:** Sanggamte aw, note in a hoihin gamtat ding na cimtak ngei het kei ta un.
 
 ### v14
 **EN:** And if any man obey not our word by this epistle, note that man, and have no company with him, that he may be ashamed.
 
-**TDB77:** Hih lai sungah ka gelh uh thupiaknate mi khat peuhmah in a ngaih kei leh, tua mi na ciamteh un; a maizum nadingin amah tawh na kipawl kei un.
+**TDB77:** Hih lai sungah ka gelh-te thupiaknate mi khat peuhmah in a ngaih kei leh, tua mi na ciamteh un; a maizum nadingin amah tawh na kipawl kei un.
 
-**ZVS:** Hih lai sunga ka hong gente uh a zui nuamlo mi khatpeuh a om leh tua mipa limtakin ciamteh un la, amah a maizum theihna dingin kikholhpih nawn kei un.
+**ZVS:** Hih lai sunga ka hong gente-te a zui nuamlo mi khatpeuh a om leh tua mipa limtakin ciamteh un la, amah a maizum theihna dingin kikholhpih nawn kei un.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 

@@ -67,27 +67,27 @@
 ### v7
 **EN:** And Elishama, and Beeliada, and Eliphelet.
 
-**TDB77:** Elishama, Beel-i-ada, leh Elifelet ahi uh hi.
+**TDB77:** Elishama, Beel-i-ada, leh Elifelet ahi-te hi.
 
-**ZVS:** Elishama, Beeliada, leh Elifelet ahi uh hi.
+**ZVS:** Elishama, Beeliada, leh Elifelet ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** And when the Philistines heard that David was anointed king over all Israel, all the Philistines went up to seek David. And David heard of it, and went out against them.
 
-**TDB77:** Israel khempeuh tungah kumpi-in David sathau a kinilhna thu Filistiate in a zak uh ciangin David zong dingin Filistiate khempeuh kuanto uh hi; David in tua thu za-in amaute do dingin kuankhia hi.
+**TDB77:** Israel khempeuh tungah kumpi-in David sathau a kinilhna thu Filistiate in a zak-te ciangin David zong dingin Filistiate khempeuh kuanto-te hi; David in tua thu za-in amaute do dingin kuankhia hi.
 
-**ZVS:** Israel mi khempeuh tungah kumpi-in David sathau a kinilhna thu Filistia mite in a zak uh ciangin David a zong dingin Filistia mi khempeuh kuanto uh hi. David in zong tua thu za ahih manin amaute a do dingin a kuankhia hi.
+**ZVS:** Israel mi khempeuh tungah kumpi-in David sathau a kinilhna thu Filistia mite in a zak-te ciangin David a zong dingin Filistia mi khempeuh kuanto-te hi. David in zong tua thu za ahih manin amaute a do dingin a kuankhia hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And the Philistines came and spread themselves in the valley of Rephaim.
 
-**TDB77:** Tu-in Filistiate hong pai-in Refaim kuam sung luh uh hi.
+**TDB77:** Tu-in Filistiate hong pai-in Refaim kuam sung luh-te hi.
 
-**ZVS:** Tu-in Filistia mite hong pai-in Refaim kuamsung a luh uh hi.
+**ZVS:** Tu-in Filistia mite hong pai-in Refaim kuamsung a luh-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -112,18 +112,18 @@
 ### v12
 **EN:** And when they had left their gods there, David gave a commandment, and they were burned with fire.
 
-**TDB77:** Filistiate in tua lai-ah a pasiante uh nusia uh a, David’ thupiakna tawh tuate mei sungah kihal hi.
+**TDB77:** Filistiate in tua lai-ah a pasiante-te nusia-te a, David’ thupiakna tawh tuate mei sungah kihal hi.
 
-**ZVS:** Filistia mite in tua lai-ah a pasian-te uh nusia uh a, David' thupiakna tawh tuate kihal hi.
+**ZVS:** Filistia mite in tua lai-ah a pasian-te-te nusia-te a, David' thupiakna tawh tuate kihal hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And the Philistines yet again spread themselves abroad in the valley.
 
-**TDB77:** Tua ciangin Filistiate in kuam sung luh kik lai uh hi.
+**TDB77:** Tua ciangin Filistiate in kuam sung luh kik lai-te hi.
 
-**ZVS:** Tua ciangin Filistia mite hong kuanin kuam sung hong luhkik lai uh hi.
+**ZVS:** Tua ciangin Filistia mite hong kuanin kuam sung hong luhkik lai-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -148,9 +148,9 @@
 ### v16
 **EN:** David therefore did as God commanded him: and they smote the host of the Philistines from Gibeon even to Gezer.
 
-**TDB77:** Pasian in amah a thupiak bangin David gamta a, amaute in Gibeon panin Gezer ciang dong Filistia galkapte vat gawp uh hi.
+**TDB77:** Pasian in amah a thupiak bangin David gamta a, amaute in Gibeon panin Gezer ciang dong Filistia galkapte vat gawp-te hi.
 
-**ZVS:** Pasian in amah a thupiak bangin David gamta a, amaute in Gibeon panin Gezer ciangdong Filistia galkapte vatgawp uh hi.
+**ZVS:** Pasian in amah a thupiak bangin David gamta a, amaute in Gibeon panin Gezer ciangdong Filistia galkapte vatgawp-te hi.
 
 **Grammar:** plural: uh marker
 

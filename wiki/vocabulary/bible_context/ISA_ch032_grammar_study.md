@@ -25,36 +25,36 @@
 ### v1
 **EN:** Behold, a king shall reign in righteousness, and princes shall rule in judgment.
 
-**TDB77:** En un, ni khat ni ciangin thumanna tawh kumpi khat hong maang ding a, thutan’na tawh uliante in hong uk ding uh hi.
+**TDB77:** En un, ni khat ni ciangin thumanna tawh kumpi khat hong maang ding a, thutan’na tawh uliante in hong uk ding-te hi.
 
-**ZVS:** En un, ni khat ni ciangin thuman takin kumpi khat in hong uk ding a, uliante in thutang tawh hong uk ding uh hi.
+**ZVS:** En un, ni khat ni ciangin thuman takin kumpi khat in hong uk ding a, uliante in thutang tawh hong uk ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v2
 **EN:** And a man shall be as an hiding place from the wind, and a covert from the tempest; as rivers of water in a dry place, as the shadow of a great rock in a weary land.
 
-**TDB77:** Amaute pen, huihpi panin belhna, guahpi panin bukna bang ding uh a, sehnel gam sunga tui luang bangin, nisa gam sunga om suangpi liim bang ding uh hi.
+**TDB77:** Amaute pen, huihpi panin belhna, guahpi panin bukna bang ding-te a, sehnel gam sunga tui luang bangin, nisa gam sunga om suangpi liim bang ding-te hi.
 
-**ZVS:** Amaute pen huihpi panin belhna, guahpi panin bukna bang ding uh hi. Sehnel gamsungah a luang tui bang ding uh a, nisa gamsungah a om suangpi liim bang ding uh hi.
+**ZVS:** Amaute pen huihpi panin belhna, guahpi panin bukna bang ding-te hi. Sehnel gamsungah a luang tui bang ding-te a, nisa gamsungah a om suangpi liim bang ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v3
 **EN:** And the eyes of them that see shall not be dim, and the ears of them that hear shall hearken.
 
-**TDB77:** Tua ciangin amau’ mit si loin, mi cimawhte’ kisapna mu ding a, amau’ bil in mi cimawhte’ thugen ngai ding uh hi.
+**TDB77:** Tua ciangin amau’ mit si loin, mi cimawhte’ kisapna mu ding a, amau’ bil in mi cimawhte’ thugen ngai ding-te hi.
 
-**ZVS:** Tua ciangin amau' mit in mi cimawhte' kisapna mu ding uh a, amau' bil in mi cimawhte' thugen ngai ding uh hi.
+**ZVS:** Tua ciangin amau' mit in mi cimawhte' kisapna mu ding-te a, amau' bil in mi cimawhte' thugen ngai ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** The heart also of the rash shall understand knowledge, and the tongue of the stammerers shall be ready to speak plainly.
 
-**TDB77:** Amaute lungtomin hi phangphang nawn lo ding uh a, deihsakna lungsim tawh tel takin thugen hiathiat ding uh hi.
+**TDB77:** Amaute lungtomin hi phangphang nawn lo ding-te a, deihsakna lungsim tawh tel takin thugen hiathiat ding-te hi.
 
-**ZVS:** Amaute lungtomin hi phangphang nawnlo ding uh a, deihsakna lungsim tawh a kitel takin thu gen hiathiat ding uh hi.
+**ZVS:** Amaute lungtomin hi phangphang nawnlo ding-te a, deihsakna lungsim tawh a kitel takin thu gen hiathiat ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -102,34 +102,34 @@
 ### v10
 **EN:** Many days and years shall ye be troubled, ye careless women: for the vintage shall fail, the gathering shall not come.
 
-**TDB77:** Nomau thu tum tak-a a lungkim numeite aw, kumkhat val zek khit ciangin na liinglawng ding uh hi; bang hang hiam cih leh leenggah kum hong sia ding a, singgah lawhna hun hong tung lo ding hi.
+**TDB77:** Nomau thu tum tak-a a lungkim numeite aw, kumkhat val zek khit ciangin na liinglawng ding-te hi; bang hang hiam cih leh leenggah kum hong sia ding a, singgah lawhna hun hong tung lo ding hi.
 
-**ZVS:** Nomau' tumtakin a lungkim numeite aw, kum khat val zek khit ciangin na linglawng ding uh hi. Bang hang hiam cih leh leenggah kum hong sia ding a, singgah lawhna hun hong tunglo ding hi.
+**ZVS:** Nomau' tumtakin a lungkim numeite aw, kum khat val zek khit ciangin na linglawng ding-te hi. Bang hang hiam cih leh leenggah kum hong sia ding a, singgah lawhna hun hong tunglo ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v11
 **EN:** Tremble, ye women that are at ease; be troubled, ye careless ones: strip you, and make you bare, and gird sackcloth upon your loins.
 
-**TDB77:** Nuam tak-a om hithiat numeite aw, liing un, nomau tum tak-a a lungmuangte aw, liinglawng un; na puan uh hawkkhia-in na tangguakun om un la, na kawng uhah puanhampi teeng un.
+**TDB77:** Nuam tak-a om hithiat numeite aw, liing un, nomau tum tak-a a lungmuangte aw, liinglawng un; na puan-te hawkkhia-in na tangguakun om un la, na kawng uhah puanhampi teeng un.
 
-**ZVS:** Nuamtakin a om hithiat numeite aw, ling un. Nomau tumtakin a lungkimte aw, linglawng un. Na puan uh hawkkhia-in na tangguakun om un la na kawng uhah puanhampi teng un.
+**ZVS:** Nuamtakin a om hithiat numeite aw, ling un. Nomau tumtakin a lungkimte aw, linglawng un. Na puan-te hawkkhia-in na tangguakun om un la na kawng uhah puanhampi teng un.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v13
 **EN:** Upon the land of my people shall come up thorns and briers; yea, upon all the houses of joy in the joyous city:
 
-**TDB77:** A hoih mahmah lote leh tampi a gah leengguite a siatna, keima mite' leitangah ling leh lingkungte a pona, lungdamna khuapi sungah lungdamna a omna innte a siatna hangin dahin na dip uh hum un.
+**TDB77:** A hoih mahmah lote leh tampi a gah leengguite a siatna, keima mite' leitangah ling leh lingkungte a pona, lungdamna khuapi sungah lungdamna a omna innte a siatna hangin dahin na dip-te hum un.
 
 **Grammar:** adjective: hoih (good) | intensifier: very/greatly
 
 ### v14
 **EN:** Because the palaces shall be forsaken; the multitude of the city shall be left; the forts and towers shall be for dens for ever, a joy of wild asses, a pasture of flocks;
 
-**TDB77:** Munmuanhuaite kinusia-in, mi tampi a omna kumpi khuapi kilawi ding hi. Mual leh tausangte zong kisia gawp ding a, late leh tuuhonte in gamtatna munin nei ding uh hi.
+**TDB77:** Munmuanhuaite kinusia-in, mi tampi a omna kumpi khuapi kilawi ding hi. Mual leh tausangte zong kisia gawp ding a, late leh tuuhonte in gamtatna munin nei ding-te hi.
 
-**ZVS:** Kumpi innte kinusia-in, mi tampi a omna kumpi khuapi kilawi ding hi. Mual leh tausangte zong kisiagawp ding a, late leh tuuhonte in gamtatna munin nei ding uh hi.
+**ZVS:** Kumpi innte kinusia-in, mi tampi a omna kumpi khuapi kilawi ding hi. Mual leh tausangte zong kisiagawp ding a, late leh tuuhonte in gamtatna munin nei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -163,9 +163,9 @@
 ### v18
 **EN:** And my people shall dwell in a peaceable habitation, and in sure dwellings, and in quiet resting places;
 
-**TDB77:** Ka mihingte pen kilem tak-a teen’na lungmuang tak-a omna inn, daii tak-a tawlngakna munah om ding uh hi.
+**TDB77:** Ka mihingte pen kilem tak-a teen’na lungmuang tak-a omna inn, daii tak-a tawlngakna munah om ding-te hi.
 
-**ZVS:** Ka mihingte pen kilem takin a ten'na, lungmuang takin a omna, daitakin a tawlngakna munah om ding uh hi.
+**ZVS:** Ka mihingte pen kilem takin a ten'na, lungmuang takin a omna, daitakin a tawlngakna munah om ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -181,9 +181,9 @@
 ### v20
 **EN:** Blessed are ye that sow beside all waters, that send forth thither the feet of the ox and the ass.
 
-**TDB77:** Tui tampi a omna-ah khai tuh a, bawngtal leh late a ut utna-ah a ta sak note in mi lungdam na hi uh hi.
+**TDB77:** Tui tampi a omna-ah khai tuh a, bawngtal leh late a ut utna-ah a ta sak note in mi lungdam na hi-te hi.
 
-**ZVS:** Tui tampi a omna-ah khai tuh a, bawngtal leh late a ut utna-ah a tasak note pen mi nuamsa na hi uh hi.
+**ZVS:** Tui tampi a omna-ah khai tuh a, bawngtal leh late a ut utna-ah a tasak note pen mi nuamsa na hi-te hi.
 
 **Grammar:** plural: uh marker
 

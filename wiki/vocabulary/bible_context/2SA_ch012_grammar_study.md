@@ -169,45 +169,45 @@
 ### v17
 **EN:** And the elders of his house arose, and went to him, to raise him up from the earth: but he would not, neither did he eat bread with them.
 
-**TDB77:** Tua ciangin lei lak panin a phong dingin a inn sung upate ama kiangah ding uh hi; ahih hangin amah tho lo a, amaute tawh an zong ne lo hi.
+**TDB77:** Tua ciangin lei lak panin a phong dingin a inn sung upate ama kiangah ding-te hi; ahih hangin amah tho lo a, amaute tawh an zong ne lo hi.
 
-**ZVS:** Tua ciangin leilak panin a phong dingin a innsung upate ama kiangah ding uh hi. Ahih hangin amah tholo a, amaute tawh an zong ne nuamlo hi.
+**ZVS:** Tua ciangin leilak panin a phong dingin a innsung upate ama kiangah ding-te hi. Ahih hangin amah tholo a, amaute tawh an zong ne nuamlo hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And it came to pass on the seventh day, that the child died. And the servants of David feared to tell him that the child was dead: for they said, Behold, while the child was yet alive, we spake unto him, and he would not hearken unto our voice: how will he then vex himself, if we tell him that the child is dead?
 
-**TDB77:** A ni sagih ni-in naungek si hi. Ama kiangah, naungek si hi, ci-in a gen ding uh David’ nasemte lau uh hi; bang hang hiam cih leh amaute in, ‘En un, naungek a hin’ lai-in amah i hopih a, amah in i thu hong ngai lo hi; tua ahih ciangin bangci-in ama kiangah naungek si, ci ngam ding i hi hiam? Amahmah kisusia kha ding hi,” a ci uh hi.
+**TDB77:** A ni sagih ni-in naungek si hi. Ama kiangah, naungek si hi, ci-in a gen ding-te David’ nasemte lau-te hi; bang hang hiam cih leh amaute in, ‘En un, naungek a hin’ lai-in amah i hopih a, amah in i thu hong ngai lo hi; tua ahih ciangin bangci-in ama kiangah naungek si, ci ngam ding i hi hiam? Amahmah kisusia kha ding hi,” a ci-te hi.
 
-**ZVS:** A ni sagih ni-in naungek si hi. Ama kiangah, naungek si hi, ci-in a gen ding uh David' nasemte lau uh hi. Bang hang hiam cih leh amaute in, “Naungek a hin'lai nangawnin amah i hopih hangin i thu hong ngailo hi. Tua ahih ciangin bangci-in ama kiangah, naungek si, ci ngam ding ihi hiam? Amahmah kisusia khading hi,” a ci uh hi.
+**ZVS:** A ni sagih ni-in naungek si hi. Ama kiangah, naungek si hi, ci-in a gen ding-te David' nasemte lau-te hi. Bang hang hiam cih leh amaute in, “Naungek a hin'lai nangawnin amah i hopih hangin i thu hong ngailo hi. Tua ahih ciangin bangci-in ama kiangah, naungek si, ci ngam ding ihi hiam? Amahmah kisusia khading hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** But when David saw that his servants whispered, David perceived that the child was dead: therefore David said unto his servants, Is the child dead? And they said, He is dead.
 
-**TDB77:** Ahih hangin ama nasemte a kihuauna uh David in a muh ciangin naungek si hi, ci-in David in thei hi; tua ciangin David in a nasemte kiangah, “Naungek si ahi hiam?” a ci hi. Amaute in, “Amah si hi,” a ci uh hi.
+**TDB77:** Ahih hangin ama nasemte a kihuauna-te David in a muh ciangin naungek si hi, ci-in David in thei hi; tua ciangin David in a nasemte kiangah, “Naungek si ahi hiam?” a ci hi. Amaute in, “Amah si hi,” a ci-te hi.
 
-**ZVS:** Ahih hangin ama nasemte a kihuauna uh David in a muh ciangin naungek si hi, ci-in a thei hi. Tua ciangin David in a nasemte kiangah, “Naungek si ahi hiam?” a ci hi. Amaute in, “Amah si ta hi,” a ci uh hi.
+**ZVS:** Ahih hangin ama nasemte a kihuauna-te David in a muh ciangin naungek si hi, ci-in a thei hi. Tua ciangin David in a nasemte kiangah, “Naungek si ahi hiam?” a ci hi. Amaute in, “Amah si ta hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** Then David arose from the earth, and washed, and anointed himself, and changed his apparel, and came into the house of the
 
-**TDB77:** Tua ciangin David lei lak panin tho-in kisil a, sathau nilhin a puante khek hi; tua ciangin Topa’ inn-ah pai-in bia hi; tua ciangin ama inn-ah pai hi; an a nget ciangin amaute in a mai-ah lui uh a, amah in ne hi.
+**TDB77:** Tua ciangin David lei lak panin tho-in kisil a, sathau nilhin a puante khek hi; tua ciangin Topa’ inn-ah pai-in bia hi; tua ciangin ama inn-ah pai hi; an a nget ciangin amaute in a mai-ah lui-te a, amah in ne hi.
 
-**ZVS:** Tua ciangin David leilak panin tho-in kisil a, sathau nilhin a puante khek a, { Topa' } inn-ah pai-in Pasian a bia hi. Tua ciangin ama inn-ah ciah hi. An a nget ciangin amaute in a mai-ah lui uh a, amah in a ne hi.
+**ZVS:** Tua ciangin David leilak panin tho-in kisil a, sathau nilhin a puante khek a, { Topa' } inn-ah pai-in Pasian a bia hi. Tua ciangin ama inn-ah ciah hi. An a nget ciangin amaute in a mai-ah lui-te a, amah in a ne hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** Then said his servants unto him, What thing is this that thou hast done? thou didst fast and weep for the child, while it was alive; but when the child was dead, thou didst rise and eat bread.
 
-**TDB77:** Tua ciangin a nasemte in ama kiangah, “Hih banga na gamtatna a bangci ahi hiam? Naungek a hin’ lai-in an tangin na kap hi; ahih hangin naungek a sih ciangin tho-in an na ne hi,” a ci uh hi.
+**TDB77:** Tua ciangin a nasemte in ama kiangah, “Hih banga na gamtatna a bangci ahi hiam? Naungek a hin’ lai-in an tangin na kap hi; ahih hangin naungek a sih ciangin tho-in an na ne hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin a nasemte in ama kiangah, “Hih banga na gamtatna a bangci hiam? Naungek a hin' lai-in an tangin na kap hi; ahih hangin naungek a sih ciangin tho-in an na ne zawsop hi,” a ci uh hi.
+**ZVS:** Tua ciangin a nasemte in ama kiangah, “Hih banga na gamtatna a bangci hiam? Naungek a hin' lai-in an tangin na kap hi; ahih hangin naungek a sih ciangin tho-in an na ne zawsop hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -289,9 +289,9 @@
 ### v31
 **EN:** And he brought forth the people that were therein, and put them under saws, and under harrows of iron, and under axes of iron, and made them pass through the brickkiln: and thus did he unto all the cities of the children of Ammon. So David and all the people returned unto Jerusalem.
 
-**TDB77:** Amah in a sunga om mite paikhiatpihin sing-atnate leh tuzumte leh heite tawh na a sem dingin koih a, leisek sekna-ah amaute nasem sak hi; tua bangin Ammon mite’ khuapi khempeuh ah hih hi. Tua ciangin David leh mi khempeuh Jerusalem ah ciah uh hi.
+**TDB77:** Amah in a sunga om mite paikhiatpihin sing-atnate leh tuzumte leh heite tawh na a sem dingin koih a, leisek sekna-ah amaute nasem sak hi; tua bangin Ammon mite’ khuapi khempeuh ah hih hi. Tua ciangin David leh mi khempeuh Jerusalem ah ciah-te hi.
 
-**ZVS:** Amah in a sunga om mite paikhiatpihin singatnate, tuzumte, leh heite tawh na a sem dingin koih a, leiseek seekna-ah amaute na semsak hi. Tua bangin Ammon mite' khuapi khempeuh a hih hi. Tua ciangin David leh mi khempeuh Jerusalem-ah a ciah uh hi.
+**ZVS:** Amah in a sunga om mite paikhiatpihin singatnate, tuzumte, leh heite tawh na a sem dingin koih a, leiseek seekna-ah amaute na semsak hi. Tua bangin Ammon mite' khuapi khempeuh a hih hi. Tua ciangin David leh mi khempeuh Jerusalem-ah a ciah-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 

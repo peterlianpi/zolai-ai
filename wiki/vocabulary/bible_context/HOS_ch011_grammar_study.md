@@ -35,18 +35,18 @@
 ### v2
 **EN:** As they called them, so they went from them: they sacrificed unto Baalim, and burned incense to graven images.
 
-**TDB77:** Ahi zongin tapa bangin limbawl semsem leng, kei kiang panin gamla pai semsem hi. Ka mite in Baal tungah biakna pia uh a, milim biakna-in paknamtui hal uh hi.
+**TDB77:** Ahi zongin tapa bangin limbawl semsem leng, kei kiang panin gamla pai semsem hi. Ka mite in Baal tungah biakna pia-te a, milim biakna-in paknamtui hal-te hi.
 
-**ZVS:** Ahi zongin limsap semsem leng gamla pai semsem hi. Ka mite in Baal tungah biakna pia uh a, milim biakna-in paknamtui a hal uh hi.
+**ZVS:** Ahi zongin limsap semsem leng gamla pai semsem hi. Ka mite in Baal tungah biakna pia-te a, milim biakna-in paknamtui a hal-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** I taught Ephraim also to go, taking them by their arms; but they knew not that I healed them.
 
-**TDB77:** Ahi zongin Israel mite lam a pai theih nading a hilhpa in keimah ka hi a, ka ang sungah amaute ka tawi hi. Ahi zongin amaute ka don lamtak phawk kha lo uh hi.
+**TDB77:** Ahi zongin Israel mite lam a pai theih nading a hilhpa in keimah ka hi a, ka ang sungah amaute ka tawi hi. Ahi zongin amaute ka don lamtak phawk kha lo-te hi.
 
-**ZVS:** Ahi zongin Israel mite lam a paitheihna ding a hilhpa keimah ka hi a, ka ang sungah amaute ka tawi hi. Ahi zongin amaute ka don lamtak phawkkhalo uh hi.
+**ZVS:** Ahi zongin Israel mite lam a paitheihna ding a hilhpa keimah ka hi a, ka ang sungah amaute ka tawi hi. Ahi zongin amaute ka don lamtak phawkkhalo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -60,27 +60,27 @@
 ### v5
 **EN:** He shall not return into the land of Egypt, but the Assyrian shall be his king, because they refused to return.
 
-**TDB77:** Tua hi napi, kei lamah amaute hong kihei nuam lo uh ahih manin, Izipt gamah pai kikin, Assiria mite, amau’ kumpi hi ding hi.
+**TDB77:** Tua hi napi, kei lamah amaute hong kihei nuam lo-te ahih manin, Izipt gamah pai kikin, Assiria mite, amau’ kumpi hi ding hi.
 
-**ZVS:** Tua bang hinapi, kei lamah amaute hong kihei nuamlo uh ahih manin Egypt gamah paikik ding uh a, Assiria mite, amau' kumpi hi ding hi.
+**ZVS:** Tua bang hinapi, kei lamah amaute hong kihei nuamlo-te ahih manin Egypt gamah paikik ding-te a, Assiria mite, amau' kumpi hi ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix
 
 ### v6
 **EN:** And the sword shall abide on his cities, and shall consume his branches, and devour them, because of their own counsels.
 
-**TDB77:** Galte in a khuapi sung uh luhin, a khuapi kulh kongpi zawlte uh suktansak ding hi. Ka mite in thuhoih lo zui kha uh ahih manin gal in susia mang ding hi.
+**TDB77:** Galte in a khuapi sung-te luhin, a khuapi kulh kongpi zawlte-te suktansak ding hi. Ka mite in thuhoih lo zui kha-te ahih manin gal in susia mang ding hi.
 
-**ZVS:** Galte in a khuapi sung uh luhin, a khuapi kulhkongpi zawlte uh suktansak ding hi. Ka mite in thu hoihlo zuikha uh ahih manin gal in susiamang ding hi.
+**ZVS:** Galte in a khuapi sung-te luhin, a khuapi kulhkongpi zawlte-te suktansak ding hi. Ka mite in thu hoihlo zuikha-te ahih manin gal in susiamang ding hi.
 
 **Grammar:** future: will | causal: because
 
 ### v7
 **EN:** And my people are bent to backsliding from me: though they called them to the most High, none at all would exalt him.
 
-**TDB77:** Ka mite in kei kiang panin pial ding ngaihsun tawntung ahih manin amaute in kol bulhna thuak ding uh a, kuamah in a kol sutsak lo ding hi.
+**TDB77:** Ka mite in kei kiang panin pial ding ngaihsun tawntung ahih manin amaute in kol bulhna thuak ding-te a, kuamah in a kol sutsak lo ding hi.
 
-**ZVS:** Ka mite in kei kiang panin pial ding ngaihsun tawntung uh ahih manin amaute in kolbulhna thuak ding uh a, kuamah in a kol sutsaklo ding hi.
+**ZVS:** Ka mite in kei kiang panin pial ding ngaihsun tawntung-te ahih manin amaute in kolbulhna thuak ding-te a, kuamah in a kol sutsaklo ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -105,27 +105,27 @@
 ### v10
 **EN:** They shall walk after the
 
-**TDB77:** Humpinelkai bangin a galte uh ka hawksan gawp ding a, tua ciangin ka mite in kei hong zui ding uh hi. Nitumna lam gam panin kei kiangah hong nawh tai ding uh hi.
+**TDB77:** Humpinelkai bangin a galte-te ka hawksan gawp ding a, tua ciangin ka mite in kei hong zui ding-te hi. Nitumna lam gam panin kei kiangah hong nawh tai ding-te hi.
 
-**ZVS:** Humpinelkai bangin a galte uh ka hawksan gawp ding a, tua ciangin ka mite in kei hong zui ding uh hi. Nitumna lam gam panin kei kiangah hong nawhtai ding uh hi.
+**ZVS:** Humpinelkai bangin a galte-te ka hawksan gawp ding a, tua ciangin ka mite in kei hong zui ding-te hi. Nitumna lam gam panin kei kiangah hong nawhtai ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** They shall tremble as a bird out of Egypt, and as a dove out of the land of Assyria: and I will place them in their houses, saith the
 
-**TDB77:** Izipt gam panin vasa bangin lawp takin hong leeng ding uh a, Assiria gam panin vakhu bangin hong leeng ding uh hi. Tua ciangin keimah in amaute’ inn ngeisa-ah ka tun’pih kik ding hi, Topa in ci hi.
+**TDB77:** Izipt gam panin vasa bangin lawp takin hong leeng ding-te a, Assiria gam panin vakhu bangin hong leeng ding-te hi. Tua ciangin keimah in amaute’ inn ngeisa-ah ka tun’pih kik ding hi, Topa in ci hi.
 
-**ZVS:** Egypt gam panin vasa bangin lawptakin hong leeng ding uh a, Assiria gam panin vakhu bangin hong leeng ding uh hi. Tua ciangin keimah in amaute' inn ngeisa-ah ka tun'pih kik ding hi, { Topa } in ci hi.
+**ZVS:** Egypt gam panin vasa bangin lawptakin hong leeng ding-te a, Assiria gam panin vakhu bangin hong leeng ding-te hi. Tua ciangin keimah in amaute' inn ngeisa-ah ka tun'pih kik ding hi, { Topa } in ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Ephraim compasseth me about with lies, and the house of Israel with deceit: but Judah yet ruleth with God, and is faithful with the saints.
 
-**TDB77:** Topa in hih bangin ci hi. Israel mite in zuauna leh khemna bekbek tawh kei hong khuhcip uh hi. Judah mite in zong a citak a Siangtho Pa keimah hong langpang lai uh hi.
+**TDB77:** Topa in hih bangin ci hi. Israel mite in zuauna leh khemna bekbek tawh kei hong khuhcip-te hi. Judah mite in zong a citak a Siangtho Pa keimah hong langpang lai-te hi.
 
-**ZVS:** { Topa } in hih bangin ci hi: Israel mite in zuauna leh khemna bekbek tawh kei hong khuhcip uh hi. Judah mite in zong a citak a Siangtho Pa keimah hong langpang lai uh hi.
+**ZVS:** { Topa } in hih bangin ci hi: Israel mite in zuauna leh khemna bekbek tawh kei hong khuhcip-te hi. Judah mite in zong a citak a Siangtho Pa keimah hong langpang lai-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 

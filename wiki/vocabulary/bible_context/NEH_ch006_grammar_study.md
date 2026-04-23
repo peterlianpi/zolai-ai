@@ -26,16 +26,16 @@
 ### v1
 **EN:** Now it came to pass, when Sanballat, and Tobiah, and Geshem the Arabian, and the rest of our enemies, heard that I had builded the wall, and that there was no breach left therein; (though at that time I had not set up the doors upon the gates;)
 
-**TDB77:** Kongpite ah kongkhak ka bulh nai loh hangin, kulh ka cian’ khitna leh a vang khat zong a om nawn lohna thu, Sanballat, Tobiah, Arab mi Geshem, leh ka gal dangte khempeuh un a zak uh ciangin,
+**TDB77:** Kongpite ah kongkhak ka bulh nai loh hangin, kulh ka cian’ khitna leh a vang khat zong a om nawn lohna thu, Sanballat, Tobiah, Arab mi Geshem, leh ka gal dangte khempeuh un a zak-te ciangin,
 
-**ZVS:** Kongpite-ah kongkhak ka bulh nailoh uh hangin, kulh ka cian' khitna uh leh a vang khat zong a om nawnlohna thu, Sanballat, Tobiah, Arab mi Geshem, leh ka gal dangte khempeuh un a zak uh ciangin,
+**ZVS:** Kongpite-ah kongkhak ka bulh nailoh-te hangin, kulh ka cian' khitna-te leh a vang khat zong a om nawnlohna thu, Sanballat, Tobiah, Arab mi Geshem, leh ka gal dangte khempeuh un a zak-te ciangin,
 
 ### v2
 **EN:** That Sanballat and Geshem sent unto me, saying, Come, let us meet together in some one of the villages in the plain of Ono. But they thought to do me mischief.
 
-**TDB77:** Sanballat leh Geshem in Ono zanglei sunga om Hakkefirim khua-ah pai-in amaute tawh thu kikum dingin hong sam uh hi; hih pen kei hong suksiat nopna uh ahi hi.
+**TDB77:** Sanballat leh Geshem in Ono zanglei sunga om Hakkefirim khua-ah pai-in amaute tawh thu kikum dingin hong sam-te hi; hih pen kei hong suksiat nopna-te ahi hi.
 
-**ZVS:** Sanballat leh Geshem zong Ono zanglei sunga om Hakkofirim khua-ah pai-in amaute tawh thu a kikum dingin hong sam uh hi. Hih pen kei hong suksiat nopna uh ahi hi.
+**ZVS:** Sanballat leh Geshem zong Ono zanglei sunga om Hakkofirim khua-ah pai-in amaute tawh thu a kikum dingin hong sam-te hi. Hih pen kei hong suksiat nopna-te ahi hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -51,9 +51,9 @@
 ### v4
 **EN:** Yet they sent unto me four times after this sort; and I answered them after the same manner.
 
-**TDB77:** Amaute in tu-a mah bangin li vei tak hong sam uh a, kei zong a li vei mahin tu-a bangin ka dawng kik hi.
+**TDB77:** Amaute in tu-a mah bangin li vei tak hong sam-te a, kei zong a li vei mahin tu-a bangin ka dawng kik hi.
 
-**ZVS:** Amaute in tu-a bangmahin livei tak hong sam uh a, kei zong a livei mahin tu-a bangin ka dawngkik hi.
+**ZVS:** Amaute in tu-a bangmahin livei tak hong sam-te a, kei zong a livei mahin tu-a bangin ka dawngkik hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -67,9 +67,9 @@
 ### v6
 **EN:** Wherein was written, It is reported among the heathen, and Gashmu saith it, that thou and the Jews think to rebel: for which cause thou buildest the wall, that thou mayest be their king, according to these words.
 
-**TDB77:** A laikhak sungah, “Mi namdangte lakah a kigen, Geshem in zong tua a kigen thu man hi, ci-a a gen thu in, nang leh Judah mite in kumpi lehdo ding na sawm uh a, tua thu hangin kulh na ciang uh hi; tua banah nangmahmah zong kumpi na utna kigen lai hi.
+**TDB77:** A laikhak sungah, “Mi namdangte lakah a kigen, Geshem in zong tua a kigen thu man hi, ci-a a gen thu in, nang leh Judah mite in kumpi lehdo ding na sawm-te a, tua thu hangin kulh na ciang-te hi; tua banah nangmahmah zong kumpi na utna kigen lai hi.
 
-**ZVS:** A laikhak sungah, “Minam dangte lakah a kigen, Geshem in zong tu-a a kigen thu man hi, ci-a a gen thu in: Nang leh Jew mite in kumpi lehdo ding na sawm uh a, tua thu hangin kulh na ciang uh hi. Tua banah nangmahmah zong kumpi na utna kigen lai hi.
+**ZVS:** A laikhak sungah, “Minam dangte lakah a kigen, Geshem in zong tu-a a kigen thu man hi, ci-a a gen thu in: Nang leh Jew mite in kumpi lehdo ding na sawm-te a, tua thu hangin kulh na ciang-te hi. Tua banah nangmahmah zong kumpi na utna kigen lai hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -94,18 +94,18 @@
 ### v9
 **EN:** For they all made us afraid, saying, Their hands shall be weakened from the work, that it be not done. Now therefore, O God, strengthen my hands.
 
-**TDB77:** Kote in ka hanciamna uh khiamin nasep a kizawh loh nading deihna tawh amaute in kote hong lausak theih nading uh a hanciam uh ahi hi. Tua ahih ciangin ka hahkat semsem zaw hi.
+**TDB77:** Kote in ka hanciamna-te khiamin nasep a kizawh loh nading deihna tawh amaute in kote hong lausak theih nading-te a hanciam-te ahi hi. Tua ahih ciangin ka hahkat semsem zaw hi.
 
-**ZVS:** Kote in ka hanciamna uh khiamin nasep a kizawhlohna ding deihna tawh amaute in kote hong lausak theihna ding uh a hanciam uh ahi hi. Tua ahih ciangin ka hahkat semsem zaw uh hi.
+**ZVS:** Kote in ka hanciamna-te khiamin nasep a kizawhlohna ding deihna tawh amaute in kote hong lausak theihna ding-te a hanciam-te ahi hi. Tua ahih ciangin ka hahkat semsem zaw-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Afterward I came unto the house of Shemaiah the son of Delaiah the son of Mehetabeel, who was shut up; and he said, Let us meet together in the house of God, within the temple, and let us shut the doors of the temple: for they will come to slay thee; yea, in the night will they come to slay thee.
 
-**TDB77:** Mehetabel’ tapa Delaiah, a tapa Shemaiah a innah omcip ahih manin ni khat ama kiangah ka pai leh amah in, “Pasian’ inn sung, siangtho munah kituahin biakinn kong kikhak nelh ni; bang hang hiam cih leh nang hong that dingin amaute hong pai uh a, zanin amaute in nang hong that ding uh hi,” hong ci hi.
+**TDB77:** Mehetabel’ tapa Delaiah, a tapa Shemaiah a innah omcip ahih manin ni khat ama kiangah ka pai leh amah in, “Pasian’ inn sung, siangtho munah kituahin biakinn kong kikhak nelh ni; bang hang hiam cih leh nang hong that dingin amaute hong pai-te a, zanin amaute in nang hong that ding-te hi,” hong ci hi.
 
-**ZVS:** Mehetabel' tapa Delaiah, a tapa Shemaiah a inn-ah omcip ahih manin ni khat ama kiangah ka pai leh amah in, “Pasian' inn sung, siangtho munah kituahin biakinn kong kikhaknelh ni; bang hang hiam cih leh nang hong that dingin amaute hong pai uh a, zanin amaute in nang hong that ding uh hi,” hong ci hi.
+**ZVS:** Mehetabel' tapa Delaiah, a tapa Shemaiah a inn-ah omcip ahih manin ni khat ama kiangah ka pai leh amah in, “Pasian' inn sung, siangtho munah kituahin biakinn kong kikhaknelh ni; bang hang hiam cih leh nang hong that dingin amaute hong pai-te a, zanin amaute in nang hong that ding-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -130,9 +130,9 @@
 ### v13
 **EN:** Therefore was he hired, that I should be afraid, and do so, and sin, and that they might have matter for an evil report, that they might reproach me.
 
-**TDB77:** Ama thugen bangin gamta-in mawhna ka bawl theih nadingin keimah hong lausak dingin a kicial ahi hi; tua bangin zui kha leng kei hong minsia sakin hong simmawh ding uh hi.
+**TDB77:** Ama thugen bangin gamta-in mawhna ka bawl theih nadingin keimah hong lausak dingin a kicial ahi hi; tua bangin zui kha leng kei hong minsia sakin hong simmawh ding-te hi.
 
-**ZVS:** Ama thugen bangin gamta-in mawhna ka bawl theihna dingin keimah hong lausakna dingin a kicial ahi hi. Tua bangin zuikha leng kei hong minsia sakin hong simmawh ding uh hi.
+**ZVS:** Ama thugen bangin gamta-in mawhna ka bawl theihna dingin keimah hong lausakna dingin a kicial ahi hi. Tua bangin zuikha leng kei hong minsia sakin hong simmawh ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -157,18 +157,18 @@
 ### v16
 **EN:** And it came to pass, that when all our enemies heard thereof, and all the heathen that were about us saw these things, they were much cast down in their own eyes: for they perceived that this work was wrought of our God.
 
-**TDB77:** Ka galte un hih thu za-in, ka kiim uh-a om mi namdangte in a theih uh ciangin lamdang sa uh a, kote’ Pasian’ huhna tawh hih nasep kizo ahihna phawk uh hi.
+**TDB77:** Ka galte un hih thu za-in, ka kiim uh-a om mi namdangte in a theih-te ciangin lamdang sa-te a, kote’ Pasian’ huhna tawh hih nasep kizo ahihna phawk-te hi.
 
-**ZVS:** Ka galte un hih thu za-in, ka kiim uha om minam dangte in a theih uh ciangin lamdangsa a, kote' Pasian' huhna tawh hih nasep kizo ahihna a phawk uh hi.
+**ZVS:** Ka galte un hih thu za-in, ka kiim uha om minam dangte in a theih-te ciangin lamdangsa a, kote' Pasian' huhna tawh hih nasep kizo ahihna a phawk-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Moreover in those days the nobles of Judah sent many letters unto Tobiah, and the letters of Tobiah came unto them.
 
-**TDB77:** Hih hun sung teng khempeuh Judah uliante in Tobiah kiangah lai tampi khak uh a, Tobiah’ laikhakte zong amaute tungah tung hi.
+**TDB77:** Hih hun sung teng khempeuh Judah uliante in Tobiah kiangah lai tampi khak-te a, Tobiah’ laikhakte zong amaute tungah tung hi.
 
-**ZVS:** Hih hun sungteng khempeuh Jew uliante in Tobiah kiangah lai tampi khak uh a, Tobiah' laikhakte zong amaute' kiangah tung hi.
+**ZVS:** Hih hun sungteng khempeuh Jew uliante in Tobiah kiangah lai tampi khak-te a, Tobiah' laikhakte zong amaute' kiangah tung hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -184,9 +184,9 @@
 ### v19
 **EN:** Also they reported his good deeds before me, and uttered my words to him. And Tobiah sent letters to put me in fear.
 
-**TDB77:** Amaute in ama hoihnate zong keima zakna ah hong gen uh a, keima sepna teng zong ama kiangah na puak uh hi. Tua hi a, Tobiah in zong ka lau theih nadingin kei tungah lai tampi hong khak hi.
+**TDB77:** Amaute in ama hoihnate zong keima zakna ah hong gen-te a, keima sepna teng zong ama kiangah na puak-te hi. Tua hi a, Tobiah in zong ka lau theih nadingin kei tungah lai tampi hong khak hi.
 
-**ZVS:** Amaute in ama hoihnate zong keima zakah hong gen uh a, keima sepna teng zong ama kiangah na puak uh hi. Tua hi a, Tobiah in zong ka lau theihna dingin kei tungah lai tampi hong khak hi.
+**ZVS:** Amaute in ama hoihnate zong keima zakah hong gen-te a, keima sepna teng zong ama kiangah na puak-te hi. Tua hi a, Tobiah in zong ka lau theihna dingin kei tungah lai tampi hong khak hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

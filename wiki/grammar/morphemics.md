@@ -173,7 +173,7 @@ Verbs are modified by particles that attach to the stem:
 ### A. Plurality/Grouping
 - `-te` (plural marker): `mite` (people), `naupangte` (children)
 - `-teng` (all of): `khempeuh teng` (all of everything)
-- `-uh` (3rd person plural verb marker): `a pai uh hi` (they go)
+- `-uh` (3rd person plural verb marker): `a pai-te hi` (they go)
 
 ### B. Nominalization/Purpose
 - `-na` (abstract noun): `theihna` (knowledge), `lungdamna` (joy)

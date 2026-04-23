@@ -126,9 +126,9 @@
 ### v12
 **EN:** And she said, As the
 
-**TDB77:** Tua ciangin amah in, “Topa na Pasian in a nungta ahih mah bangin emsa bangmah ka nei kei a, beel sungah annel khut dim khat leh um sungah sathau tawmno khat bek om hi; tu-in keimah leh ka tapa’ adingin bawlin kote in ka nek theih nadingun singkang nih khawng a tom ka hi a, tua ciangin a si ta ding ka hi uh hi,” a ci hi.
+**TDB77:** Tua ciangin amah in, “Topa na Pasian in a nungta ahih mah bangin emsa bangmah ka nei kei a, beel sungah annel khut dim khat leh um sungah sathau tawmno khat bek om hi; tu-in keimah leh ka tapa’ adingin bawlin kote in ka nek theih nadingun singkang nih khawng a tom ka hi a, tua ciangin a si ta ding ka hi-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin amah in, “{ Topa } na Pasian a nungta ahih mah bangin emsa bangmah ka nei kei a, beel sungah annel khutdim khat leh um sungah sathau tawmno khat bek om hi. Tu-in keimah leh ka tapa-a' dingin tuate bawlin kote in ka nek theihna dingun singkang nih khawng a tom ka hi a, tua ciangin a si ta ding ka hi uh hi,” a ci hi.
+**ZVS:** Tua ciangin amah in, “{ Topa } na Pasian a nungta ahih mah bangin emsa bangmah ka nei kei a, beel sungah annel khutdim khat leh um sungah sathau tawmno khat bek om hi. Tu-in keimah leh ka tapa-a' dingin tuate bawlin kote in ka nek theihna dingun singkang nih khawng a tom ka hi a, tua ciangin a si ta ding ka hi-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -155,7 +155,7 @@
 
 **TDB77:** Tua ciangin amah pai-in Elijah’ gensa bangin hih hi; tua nu, leh amah, leh tua nu’ innkuan ading nisimin an om hi.
 
-**ZVS:** Tua ciangin amah pai-in Elijah' gensa bangin hih hi. Tuanu, leh amah, leh tuanu' innkuan in ni tampi sung ne uh hi.
+**ZVS:** Tua ciangin amah pai-in Elijah' gensa bangin hih hi. Tuanu, leh amah, leh tuanu' innkuan in ni tampi sung ne-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then)
 

@@ -68,7 +68,7 @@ When instructed to teach or correct a student, the AI Tutor should first determi
 | kua | nine |
 | sawm | ten |
 
-**Pattern:** `[number] pha uh hi` = there are [number] of them
+**Pattern:** `[number] pha-te hi` = there are [number] of them
 
 ### Unit 3: Family
 | Zolai | English |
@@ -385,7 +385,7 @@ Full review of A2 patterns:
 | `tua ahih leh` | if that is so | conditional consequence |
 
 **Examples:**
-- `Topa' minthan'na in inn dim ahih manin siampite lut thei kei uh hi.` = Because the glory filled the temple, the priests could not enter.
+- `Topa' minthan'na in inn dim ahih manin siampite lut thei kei-te hi.` = Because the glory filled the temple, the priests could not enter.
 - `Bang hang hiam cih leh Pasian in leitung mite a it mahmah hi.` = For God so loved the world.
 - `Tua ahih ciangin ka itte aw, khat leh khat ki-it ni.` = Therefore, beloved, let us love one another.
 
@@ -413,7 +413,7 @@ Full review of A2 patterns:
 |---|---|---|
 | Why? | `Bang hangin...hiam?` | `...ahih manin...` |
 | How? | `Bangci...hiam?` | `[method] tawh...` |
-| How many? | `Bangzah...hiam?` | `[number] pha uh hi` |
+| How many? | `Bangzah...hiam?` | `[number] pha-te hi` |
 | Which? | `Tua bang...hiam?` | `[item] ahi hi` |
 | When? | `Bang hun...hiam?` | `[time] ciangin...` |
 
@@ -462,7 +462,7 @@ Key patterns from TDB77:
 **Structure of Zolai proverbs:**
 - Parallel structure: A line + B line (same meaning, different words)
 - `Lungpil mi koi-ah a om hiam?` = Where is the wise man? (rhetorical)
-- `Pilna a nei na kisa mah uh hi.` = You think you have wisdom.
+- `Pilna a nei na kisa mah-te hi.` = You think you have wisdom.
 
 ### Unit 5: Zomi History
 Key vocabulary:
@@ -488,7 +488,7 @@ Key vocabulary:
 | `Hilo hi.` | No / I disagree. |
 | `Ka ngaihsut in, ahi hi.` | I think so. |
 | `Ka ngaihsut in, hilo hi.` | I don't think so. |
-| `Nang thu na gen uh hoih hi.` | What you said is good. |
+| `Nang thu na gen-te hoih hi.` | What you said is good. |
 | `Ahih hangin...` | But... / However... |
 | `Tua tham loin...` | Not only that... |
 
@@ -599,7 +599,7 @@ Examples from corpus:
 ### Unit 3: Metaphor Basics
 **Pattern:** `[subject] pen [metaphor] hi`
 - `Kei pen nuntakna an ka hi hi.` = I am the bread of life.
-- `Note pen leitung mite-a' dingin khuavak tawh na kibang uh hi.` = You are the light of the world.
+- `Note pen leitung mite-a' dingin khuavak tawh na kibang-te hi.` = You are the light of the world.
 - `Pasian in itna ahi hi.` = God is love.
 
 ### Unit 4: Comparative & Superlative
@@ -1209,9 +1209,9 @@ To make a noun plural, attach the suffix `te`.
 > Note: `mi` = person/people (generic). `mipa` = male person. `numei` = female person. Use `mi` / `mite` / `mikhempeuh` when referring to people in general.
 
 When using pronouns (You all, They, We), the verb must be followed by the plural agreement marker `uh` (except for the inclusive 'We' `i`, which *never* takes `uh`).
-*   **Nong pai uh hi:** You (plural) come.
-*   **A pai uh hi:** They go.
-*   *Exception:* **I pai hi:** We (inclusive) go. (Never say "I pai uh hi").
+*   **Nong pai-te hi:** You (plural) come.
+*   **A pai-te hi:** They go.
+*   *Exception:* **I pai hi:** We (inclusive) go. (Never say "I pai-te hi").
 
 ### 1.3 Positional Prepositions
 Post-positions (they come *after* the noun in Zolai).
@@ -1231,14 +1231,14 @@ Used to describe where something is happening.
     *   *English:* He sleeps in the house.
     *   *Zolai:* Amah innsung**ah** a lum hi.
     *   *English:* They are going to the mountain.
-    *   *Zolai:* Mualtung**ah** a pai uh hi.
+    *   *Zolai:* Mualtung**ah** a pai-te hi.
 
 ### Pattern 2: Telling a Sequence (Narrative Links)
 Used to string actions together, commonly found in Luke or 1 Samuel.
 *   **Tua ciangin:** Then / After that
 *   **Ahi zongin:** But / However
 *   **Usage:**
-    *   *Zolai:* Jesuh in mualtungah kahto hi. **Tua ciangin**, a nungzuite hong pai uh hi.
+    *   *Zolai:* Jesuh in mualtungah kahto hi. **Tua ciangin**, a nungzuite hong pai-te hi.
     *   *English:* Jesus went up the mountain. **Then**, his disciples came.
 
 ### Pattern 3: Expressing Desire
@@ -1577,7 +1577,7 @@ Used when weighing two options or declaring the highest state, heavily utilizing
 - love (verb) = `it` NOT `lungdam` (lungdam=glad/thankful)
 - God loves us = `Pasian in eite hong it hi` NOT `kei te a lungdam hi`
 - we (subject) = `i` (prefix) or `eite` (emphatic) NOT `kei te`
-- we went = `I pai hi` NOT `I pai uh hi` (never uh with i)
+- we went = `I pai hi` NOT `I pai-te hi` (never-te with i)
 
 ---
 ## [c1_advanced.md]
@@ -1596,7 +1596,7 @@ While A1 uses noun equivalency for identity (I am a man), C1 uses it to map abst
 *   **Examples:**
     *   *Zolai:* Kei pen nuntakna an ka hi hi. (John 6:35)
     *   *English:* I am the bread of life.
-    *   *Zolai:* Note pen leitung mite-a' dingin khuavak tawh na kibang uh hi. (Matthew 5:14)
+    *   *Zolai:* Note pen leitung mite-a' dingin khuavak tawh na kibang-te hi. (Matthew 5:14)
     *   *English:* You are the light of the world.
 
 ### The "I AM" Absolute Declaration (EXO 3:14)
@@ -1617,7 +1617,7 @@ Used to challenge a position or status in philosophical debate.
 *   *English:* Where is the wise man?
 *   *Zolai:* Lungpil mi **koi-ah a om hiam**? (1 Corinthians 1:20 Pattern)
 *   *English:* Where is your faith?
-*   *Zolai:* Na upna uh **koi-ah om hiam**?
+*   *Zolai:* Na upna-te **koi-ah om hiam**?
 
 ### 2.2 Direct Causality / Basis (`Bang hang hiam cih leh`)
 Used as a bridge between a declaration and its foundational reason.
@@ -1648,7 +1648,7 @@ Mapping the "None except [X]" pattern.
 ### 4.2 Prohibitive Jussive (`kei hen`)
 "Let not" commands.
 *   *English:* Let not your heart be troubled.
-*   *Zolai:* Na lungtang uh patau **kei hen**. (John 14:1)
+*   *Zolai:* Na lungtang-te patau **kei hen**. (John 14:1)
 
 ---
 
@@ -1693,7 +1693,7 @@ Rule: ALL subordinate clauses before main verb. Main verb always last.
 - `Kha Siangtho longal kuamah in a thei kei hi.` = No one knows except the Holy Spirit.
 
 ### Prohibitive `kei hen` (verified)
-- `Na lungtang uh patau kei hen.` = Let not your heart be troubled. (John 14:1)
+- `Na lungtang-te patau kei hen.` = Let not your heart be troubled. (John 14:1)
 
 ### Rhetorical questions (verified)
 - `Lungpil mi koi-ah a om hiam?` = Where is the wise man? (1 Cor 1:20)
@@ -1794,7 +1794,7 @@ tawntung=forever/eternal, Amen=Amen
 | Wrong | Correct | Rule |
 |---|---|---|
 | `Pasian in kei te a lungdam hi` | `Pasian in eite hong it hi` | love=it, we=eite, toward=hong |
-| `I pai uh hi` | `I pai hi` | never uh with i |
+| `I pai-te hi` | `I pai hi` | never-te with i |
 | `Na pai kei a leh` | `Na pai kei a leh` | negative conditional |
 | `pasian` | `Pasian` | ZVS dialect |
 | `gam` | `Gam` | ZVS dialect |

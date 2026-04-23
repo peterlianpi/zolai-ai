@@ -19,7 +19,7 @@
 ## three
 
 - `[TDB77]` *And Jesse begat his firstborn Eliab, and Abinadab the second, and Shim* → **Jessi in a tacil Eliab, a nihna Abinadab, thumna Shimea,**
-- `[TDB77]` *Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abis* → **amau’ sanggamnumeite in Zeru-iah leh Abigail ahi uh hi. Zeru-iah’ tapa**
+- `[TDB77]` *Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abis* → **amau’ sanggamnumeite in Zeru-iah leh Abigail ahi-te hi. Zeru-iah’ tapa**
 - `[TDB77]` *And Segub begat Jair, who had three and twenty cities in the land of G* → **Segub in Jair’ pa hi a, Gilead gam sungah khuapi sawmnih-le-thum nei h**
 - `[TDB77]` *The third, Absalom the son of Maacah the daughter of Talmai king of Ge* → **Geshur kumpipa Talmai’ tanu, a nu Ma-akah a hi a thumna Absalom; a nu **
 
@@ -28,7 +28,7 @@
 - `[TDB77]` *Nethaneel the fourth, Raddai the fifth,* → **a lina Nethanel, a ngana Raddai,**
 - `[TDB77]` *The third, Absalom the son of Maacah the daughter of Talmai king of Ge* → **Geshur kumpipa Talmai’ tanu, a nu Ma-akah a hi a thumna Absalom; a nu **
 - `[TDB77]` *And the sons of Josiah were, the firstborn Johanan, the second Jehoiak* → **Josiah’ tapate in: A tacil Johanan, a nihna Jehoiakim, a thumna Zedeki**
-- `[TDB77]` *Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, fo* → **Issakhar’ tapate in: Tola, Puah, Jashub, leh Shimron, li pha uh hi.**
+- `[TDB77]` *Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, fo* → **Issakhar’ tapate in: Tola, Puah, Jashub, leh Shimron, li pha-te hi.**
 
 ## five
 
@@ -40,13 +40,13 @@
 ## seven
 
 - `[TDB77]` *Ozem the sixth, David the seventh:* → **a gukna Ozem, a sagihna David’ pa ahi hi;**
-- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte uh hih mite tawh a om **
+- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte-te hih mite tawh a om **
 - `[TDB77]` *Attai the sixth, Eliel the seventh,* → **a gukna Attai, a sagihna Eliel,**
 - `[TDB77]` *Of the children of Simeon, mighty men of valour for the war, seven tho* → **Simeon mite sung panin galdo dingin a thahat a vanglian mihing tulsagi**
 
 ## ten
 
-- `[TDB77]` *Jeremiah the tenth, Machbanai the eleventh.* → **a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi uh hi.**
+- `[TDB77]` *Jeremiah the tenth, Machbanai the eleventh.* → **a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi-te hi.**
 - `[TDB77]` *The ninth to Jeshua, the tenth to Shecaniah,* → **a kuana Jeshua tung, a sawmna Shekaiah tung,**
 - `[TDB77]` *The tenth to Shimei, he, his sons, and his brethren, were twelve:* → **a sawmna Shimei, leh a tapate leh a sanggamte, sawm-le-nih tung tu hi;**
 - `[TDB77]` *And Solomon had threescore and ten thousand that bare burdens, and fou* → **Solomon in van pua mi tul sawmsagih leh mual tung gamah suangseek mi t**

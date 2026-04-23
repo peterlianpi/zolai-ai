@@ -69,9 +69,9 @@
 ### v6
 **EN:** And Moses spake unto the children of Israel, and every one of their princes gave him a rod apiece, for each prince one, according to their fathers' houses, even twelve rods: and the rod of Aaron was among their rods.
 
-**TDB77:** Moses in Israel mite tungah gen hi; a makaite khempeuh in a beh tawh kizui-in makai khat ciangin khat pai, ciangkhut sawm leh nih ama tungah pia uh hi; Aaron’ ciangkhut pen amaute’ ciangkhut lakah om hi.
+**TDB77:** Moses in Israel mite tungah gen hi; a makaite khempeuh in a beh tawh kizui-in makai khat ciangin khat pai, ciangkhut sawm leh nih ama tungah pia-te hi; Aaron’ ciangkhut pen amaute’ ciangkhut lakah om hi.
 
-**ZVS:** Moses in zong Israel mite tungah tua thu a gen hi. A makaite khempeuh in a beh tawh kizui-in makai khat ciangin khat pai, ciangkhut sawmlenih ama tungah pia uh a, Aaron' ciangkhut zong amau' ciangkhut lakah a om hi.
+**ZVS:** Moses in zong Israel mite tungah tua thu a gen hi. A makaite khempeuh in a beh tawh kizui-in makai khat ciangin khat pai, ciangkhut sawmlenih ama tungah pia-te a, Aaron' ciangkhut zong amau' ciangkhut lakah a om hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -92,9 +92,9 @@
 ### v9
 **EN:** And Moses brought out all the rods from before the
 
-**TDB77:** Tua ciangin Moses in Topa’ mai panin Israel mite khempeuh kiangah ciangkhut khempeuh pai khiatpih hi; amaute in en uh a, a ciangkhut ciat uh la uh hi.
+**TDB77:** Tua ciangin Moses in Topa’ mai panin Israel mite khempeuh kiangah ciangkhut khempeuh pai khiatpih hi; amaute in en-te a, a ciangkhut ciat-te la-te hi.
 
-**ZVS:** Tua ciangin Moses in { Topa' } mai panin Israel mite khempeuh kiangah ciangkhut khempeuh paikhiatpih hi. Amaute in en uh a, a ciangkhut ciat uh a la uh hi.
+**ZVS:** Tua ciangin Moses in { Topa' } mai panin Israel mite khempeuh kiangah ciangkhut khempeuh paikhiatpih hi. Amaute in en-te a, a ciangkhut ciat-te a la-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -117,18 +117,18 @@
 ### v12
 **EN:** And the children of Israel spake unto Moses, saying, Behold, we die, we perish, we all perish.
 
-**TDB77:** Israel mite in Moses kiangah, “En in, kote a si ka hi ta uh a, a mawkna ka hi ta uh hi; kote khempeuh a mawkna ka hi ta uh hi.
+**TDB77:** Israel mite in Moses kiangah, “En in, kote a si ka hi ta-te a, a mawkna ka hi ta-te hi; kote khempeuh a mawkna ka hi ta-te hi.
 
-**ZVS:** Israel mite in Moses kiangah, “En in, kote a si ka hi ta uh a, kote khempeuh a mawkna ka hi ta uh hi.
+**ZVS:** Israel mite in Moses kiangah, “En in, kote a si ka hi ta-te a, kote khempeuh a mawkna ka hi ta-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Whosoever cometh any thing near unto the tabernacle of the
 
-**TDB77:** A nai-ah a pai, Topa’ biakbuk nai-ah a pai peuhmah si ding hi. Kote khempeuh ka bei nading uh hi ta ahi hiam?” a ci uh hi.
+**TDB77:** A nai-ah a pai, Topa’ biakbuk nai-ah a pai peuhmah si ding hi. Kote khempeuh ka bei nading-te hi ta ahi hiam?” a ci-te hi.
 
-**ZVS:** A nai-ah a pai, { Topa' } biakbuk nai-ah a pai peuhmah si ding hi. Kote khempeuh ka beina ding uh hita hilo ahi hiam?” a ci uh hi.
+**ZVS:** A nai-ah a pai, { Topa' } biakbuk nai-ah a pai peuhmah si ding hi. Kote khempeuh ka beina ding-te hita hilo ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

@@ -42,7 +42,7 @@
 ### v3
 **EN:** And not only so, but we glory in tribulations also: knowing that tribulation worketh patience;
 
-**TDB77:** Tua tham loin gimna i thuak ciangin i lungdam hi. Bang hang hiam na cih uh leh, gimna in thuakzawhna a piangsak hi.
+**TDB77:** Tua tham loin gimna i thuak ciangin i lungdam hi. Bang hang hiam na cih-te leh, gimna in thuakzawhna a piangsak hi.
 
 **ZVS:** Haksatna i thuak laitak nangawnin i lungdam veve hi. Bang hang hiam cih leh haksatna in thuakzawh hatna piangsak a,
 
@@ -60,7 +60,7 @@
 ### v5
 **EN:** And hope maketh not ashamed; because the love of God is shed abroad in our hearts by the Holy Ghost which is given unto us.
 
-**TDB77:** Lawpna in hong zumsak lo ding hi. Bang hang hiam na cih uh leh, hong piak Kha Siangtho in Pasian’ itna eite sin sungah hong sung zo hi.
+**TDB77:** Lawpna in hong zumsak lo ding hi. Bang hang hiam na cih-te leh, hong piak Kha Siangtho in Pasian’ itna eite sin sungah hong sung zo hi.
 
 **ZVS:** Pasian in eite tungah a hong piak a Kha Siangtho tawh eite sungah ama itna hong guang ahih manin hih lametna in eite hong lungkiasak ngeilo hi.
 
@@ -105,7 +105,7 @@
 ### v10
 **EN:** For if, when we were enemies, we were reconciled to God by the death of his Son, much more, being reconciled, we shall be saved by his life.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite in galte i hih lai takin ama Tapa in sihna a thuakna hangin eite in Pasian tawh kilem i hih leh, ama hin’na tawh gupna i ngah zaw ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite in galte i hih lai takin ama Tapa in sihna a thuakna hangin eite in Pasian tawh kilem i hih leh, ama hin’na tawh gupna i ngah zaw ding hi.
 
 **ZVS:** Pasian tawh eite i kilangneih laitakin ama Tapa' sihna hangin amah tawh hong kilemsak ahih leh tu-in Pasian tawh kipawl khinta ihih manin Khrih nuntakna in eite hong honkhiazo zaw kan ding hilo ahi hiam?
 
@@ -123,16 +123,16 @@
 ### v12
 **EN:** Wherefore, as by one man sin entered into the world, and death by sin; and so death passed upon all men, for that all have sinned:
 
-**TDB77:** Tua ahih ciangin mi khat hangin khialhna in leitungah tung a, mawhna hangin sihna a piang mah bangin, mi khempeuhte in zong a mawh zo uh ahih ciangin, mi khempeuh tungah sihna hong tung hi.
+**TDB77:** Tua ahih ciangin mi khat hangin khialhna in leitungah tung a, mawhna hangin sihna a piang mah bangin, mi khempeuhte in zong a mawh zo-te ahih ciangin, mi khempeuh tungah sihna hong tung hi.
 
-**ZVS:** Mi khat hangin leitungah mawhna hong om a, tua mawhna hangin sihna hong piang hi. Mi khempeuh mawh uh ahih manin tu-a bangzia-in mi khempeuh tungah sihna hong tung hi.
+**ZVS:** Mi khat hangin leitungah mawhna hong om a, tua mawhna hangin sihna hong piang hi. Mi khempeuh mawh-te ahih manin tu-a bangzia-in mi khempeuh tungah sihna hong tung hi.
 
 **Grammar:** sequence: then/therefore
 
 ### v13
 **EN:** (For until the law sin was in the world: but sin is not imputed when there is no law.
 
-**TDB77:** Bang hang hiam na cih uh leh, thukham a om ma-inah leitungah mawhna a om hi. Ahih hangin thukham om lo hi leh, mawhna a om hi cih nading a om kei hi.
+**TDB77:** Bang hang hiam na cih-te leh, thukham a om ma-inah leitungah mawhna a om hi. Ahih hangin thukham om lo hi leh, mawhna a om hi cih nading a om kei hi.
 
 **ZVS:** Thukham a omma pekin leitungah mawhna na omkhin a, thukham a omlohna munah Pasian in mawhna a ciamtehna laibu neilo hi.
 
@@ -143,14 +143,14 @@
 
 **TDB77:** Ahih hangin Adam’ khang pana kipan Moses’ khang dongin sihna in Adam’ khialhna bangin a khial lote nangawn a uk hi. Tua Adam in a nung ciangin hong piang ding mi’ lim ahi hi.
 
-**ZVS:** Ahi zongin Adam huna kipan Moses hun dongin sihna in mite uk a, Adam in Pasian' thupiak a man'loh manin a khialh bangin a khial nailo mite nangawn sihna khutnuai mah hi veve uh hi. Adam pen a hong pai lai ding mipa' lim ahi hi.
+**ZVS:** Ahi zongin Adam huna kipan Moses hun dongin sihna in mite uk a, Adam in Pasian' thupiak a man'loh manin a khialh bangin a khial nailo mite nangawn sihna khutnuai mah hi veve-te hi. Adam pen a hong pai lai ding mipa' lim ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v15
 **EN:** But not as the offence, so also is the free gift. For if through the offence of one many be dead, much more the grace of God, and the gift by grace, which is by one man, Jesus Christ, hath abounded unto many.
 
-**TDB77:** Ahih hangin mawhna leh hehpihna kibang lo hi. Bang hang hiam na cih uh leh, mi khat a khial ahih maninah, mi tampi a si uh ahih leh, Zeisu Khazih kici mi khat’ hehpihna thupha hanga i ngah lungdamna leh Pasian’ hehpihna thupha in mi tampi ading a kicing hi.
+**TDB77:** Ahih hangin mawhna leh hehpihna kibang lo hi. Bang hang hiam na cih-te leh, mi khat a khial ahih maninah, mi tampi a si-te ahih leh, Zeisu Khazih kici mi khat’ hehpihna thupha hanga i ngah lungdamna leh Pasian’ hehpihna thupha in mi tampi ading a kicing hi.
 
 **ZVS:** Ahi zongin Pasian' hong piak letsong pen Adam' mawhna tawh kibang lo ahih manin tuate gel tehkak theihding hilo hi. Tua mi khat a khialhna hangin mi tampi a sihna pen a man mah ahi hi. Ahi zongin Pasian' hong itna leh hong hehpihna nakpi takin lianzaw lai a, mi khat ahi tua Jesuh Khrih' hehpihna hangin mi tampi tak tungah hong kipia letsong lian mahmah hi.
 
@@ -159,7 +159,7 @@
 ### v16
 **EN:** And not as it was by one that sinned, so is the gift: for the judgment was by one to condemnation, but the free gift is of many offences unto justification.
 
-**TDB77:** Mi khat’ mawhna hangin a piang na leh hehpihna a kibang kei hi. Bang hang hiam na cih uh leh, mawhna khat hangin daan thuak hen cihna thu a khen hi. Hehpihna panin mawhna tampi om napi-in mai ta hen cihna thu a khen hi.
+**TDB77:** Mi khat’ mawhna hangin a piang na leh hehpihna a kibang kei hi. Bang hang hiam na cih-te leh, mawhna khat hangin daan thuak hen cihna thu a khen hi. Hehpihna panin mawhna tampi om napi-in mai ta hen cihna thu a khen hi.
 
 **ZVS:** Pasian' letsong leh mi khat' mawhna a hatna zia kilamdang hi. Khialhna khat a om khit ciangin, “Mawh hi,” ci-in thukhenna kipia a, ahi zongin khialhna tampi tak a om khit ciangin a kilawm lopi mahin, “Dik hi,” cihna piakkhong thupha a om hi.
 
@@ -168,16 +168,16 @@
 ### v17
 **EN:** For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)
 
-**TDB77:** Mi khat a khial ahih maninah, tua mi hangin sihna in a uk leh, Zeisu Khazih kici mi khat hangah hehpihna thu kicing a, dikna leh hehpihna a ngah mite in nuntakna a ukzaw ding uh hi.
+**TDB77:** Mi khat a khial ahih maninah, tua mi hangin sihna in a uk leh, Zeisu Khazih kici mi khat hangah hehpihna thu kicing a, dikna leh hehpihna a ngah mite in nuntakna a ukzaw ding-te hi.
 
-**ZVS:** Mi khat bek' mawhna hangin sihna in hong uk ahih leh mi khat mah ahi Jesuh Khrih hangin nakpi takin a lian Pasian' hehpihna leh mihoih-a san'na a ngah mite nungta-in thahatzaw kan ding uh hi.
+**ZVS:** Mi khat bek' mawhna hangin sihna in hong uk ahih leh mi khat mah ahi Jesuh Khrih hangin nakpi takin a lian Pasian' hehpihna leh mihoih-a san'na a ngah mite nungta-in thahatzaw kan ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Therefore as by the offence of one judgment came upon all men to condemnation; even so by the righteousness of one the free gift came upon all men unto justification of life.
 
-**TDB77:** Tua ahih ciangin mi khat hangin mi khempeuh in daan thuak hen ci-in thu kikhenna a thuak uh mah bangin dikna tawh kipawl hihna khat hangin mi khempeuhte in nuntakna tawh kipawl dikkisakna a ngah uh hi.
+**TDB77:** Tua ahih ciangin mi khat hangin mi khempeuh in daan thuak hen ci-in thu kikhenna a thuak-te mah bangin dikna tawh kipawl hihna khat hangin mi khempeuhte in nuntakna tawh kipawl dikkisakna a ngah-te hi.
 
 **ZVS:** Tua hi a, khialhna khat in mi khempeuh tungah thukhenna tungsak ahih mah bangin gamtatna hoih khat mah in mi khempeuh khahin nungtasak hi.
 
@@ -186,9 +186,9 @@
 ### v19
 **EN:** For as by one man's disobedience many were made sinners, so by the obedience of one shall many be made righteous.
 
-**TDB77:** Mi khat in thu a ngaih loh maninah, mi tampite in mawhnei mite a suah mah bangin, mi khat in thu a ngaih maninah mi tampite in zong dikna a ngah mite a suak uh hi.
+**TDB77:** Mi khat in thu a ngaih loh maninah, mi tampite in mawhnei mite a suah mah bangin, mi khat in thu a ngaih maninah mi tampite in zong dikna a ngah mite a suak-te hi.
 
-**ZVS:** Mi khat in thu a man'loh manin mi tampi mimawh a suahsak mah bangin mi khat in thu a man'na hangin mi tampi in Pasian tawh kipawl theihna a ngah ding uh ahi hi.
+**ZVS:** Mi khat in thu a man'loh manin mi tampi mimawh a suahsak mah bangin mi khat in thu a man'na hangin mi tampi in Pasian tawh kipawl theihna a ngah ding-te ahi hi.
 
 **Grammar:** plural: uh marker
 

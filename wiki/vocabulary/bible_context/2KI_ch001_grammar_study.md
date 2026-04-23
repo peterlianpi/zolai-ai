@@ -59,18 +59,18 @@
 ### v5
 **EN:** And when the messengers turned back unto him, he said unto them, Why are ye now turned back?
 
-**TDB77:** Kamtaite kumpipa kiangah hong ciahkik uh a, amah in amaute kiangah, “Bang hangin hong ciahkik na hi uh hiam?” a ci hi.
+**TDB77:** Kamtaite kumpipa kiangah hong ciahkik-te a, amah in amaute kiangah, “Bang hangin hong ciahkik na hi-te hiam?” a ci hi.
 
-**ZVS:** Kamtaite zong kumpipa kiangah hong ciahkik uh a, amah in amaute kiangah, “Bang hangin hong ciahkik na hi uh hiam?” na ci hi.
+**ZVS:** Kamtaite zong kumpipa kiangah hong ciahkik-te a, amah in amaute kiangah, “Bang hangin hong ciahkik na hi-te hiam?” na ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And they said unto him, There came a man up to meet us, and said unto us, Go, turn again unto the king that sent you, and say unto him, Thus saith the
 
-**TDB77:** Tua ciangin amaute in ama kiangah, “Kote dawn dingin mi khat hong pai a, kote kiangah, ‘Note hong sawl kumpipa kiangah paikik un la, ama kiangah, Topa in hih bangin ci hi: Ekron pasian, Baalzebub kiangah thu a dong dingin na sawl nadingin Israel sungah Pasian om nawn lo ahi hiam? Tua ahih ciangin tu-a na lupna panin na thokik nawn kei ding hi; na si taktak ding hi,’ ci hi,” a ci uh hi.
+**TDB77:** Tua ciangin amaute in ama kiangah, “Kote dawn dingin mi khat hong pai a, kote kiangah, ‘Note hong sawl kumpipa kiangah paikik un la, ama kiangah, Topa in hih bangin ci hi: Ekron pasian, Baalzebub kiangah thu a dong dingin na sawl nadingin Israel sungah Pasian om nawn lo ahi hiam? Tua ahih ciangin tu-a na lupna panin na thokik nawn kei ding hi; na si taktak ding hi,’ ci hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin amaute in ama kiangah, “Kote a dawn dingin mi khat hong pai-in kote kiangah, ‘Note hong sawl kumpipa kiangah paikik un la, { Topa } in hih bangin ci hi: Ekron pasian, Baalzebub kiangah thu a dong dingin mi na sawlna dingin Israel sungah Pasian om nawnlo ahi hiam? Tua ahih ciangin tu-a na liamna panin na damkikzo nawn kei ding a, na si taktak ding hi,’ hong ci hi,” a ci uh hi.
+**ZVS:** Tua ciangin amaute in ama kiangah, “Kote a dawn dingin mi khat hong pai-in kote kiangah, ‘Note hong sawl kumpipa kiangah paikik un la, { Topa } in hih bangin ci hi: Ekron pasian, Baalzebub kiangah thu a dong dingin mi na sawlna dingin Israel sungah Pasian om nawnlo ahi hiam? Tua ahih ciangin tu-a na liamna panin na damkikzo nawn kei ding a, na si taktak ding hi,’ hong ci hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -86,9 +86,9 @@
 ### v8
 **EN:** And they answered him, He was an hairy man, and girt with a girdle of leather about his loins. And he said, It is Elijah the Tishbite.
 
-**TDB77:** Amaute in amah dawngin, “Amah in samul puan khat silh a, a kawngah savun kawnggak gak hi,” a ci uh hi. Tua ciangin amah in, “Amah in Tishbe mi Elijah ahi hi,” a ci hi.
+**TDB77:** Amaute in amah dawngin, “Amah in samul puan khat silh a, a kawngah savun kawnggak gak hi,” a ci-te hi. Tua ciangin amah in, “Amah in Tishbe mi Elijah ahi hi,” a ci hi.
 
-**ZVS:** Amaute in amah dawngin, “Amah in samulpuan khat silh a, a kawngah savun kawnggak gak hi,” a ci uh hi. Tua ciangin amah in, “Amah pen Tishbe mi Elijah ahi hi,” a ci hi.
+**ZVS:** Amaute in amah dawngin, “Amah in samulpuan khat silh a, a kawngah savun kawnggak gak hi,” a ci-te hi. Tua ciangin amah in, “Amah pen Tishbe mi Elijah ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
@@ -140,9 +140,9 @@
 ### v14
 **EN:** Behold, there came fire down from heaven, and burnt up the two captains of the former fifties with their fifties: therefore let my life now be precious in thy sight.
 
-**TDB77:** En in, vantung panin meikuang hong paisuk a, mihing sawmnga a uk a masa nihte a mi sawmngate uh tawh kangtum hi; ahih hangin tu-in ka nuntakna pammaih sa-in hong hehpih in,” a ci hi.
+**TDB77:** En in, vantung panin meikuang hong paisuk a, mihing sawmnga a uk a masa nihte a mi sawmngate-te tawh kangtum hi; ahih hangin tu-in ka nuntakna pammaih sa-in hong hehpih in,” a ci hi.
 
-**ZVS:** En in, vantung panin meikuang hong paisuk a, mihing sawmnga a uk a masa nihte a mi sawmnga tuak uh tawh kangtum hi. Ahih hangin ka nuntakna pammaih sa-in hong hehpih in,” a ci hi.
+**ZVS:** En in, vantung panin meikuang hong paisuk a, mihing sawmnga a uk a masa nihte a mi sawmnga tuak-te tawh kangtum hi. Ahih hangin ka nuntakna pammaih sa-in hong hehpih in,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 

@@ -37,9 +37,9 @@
 ### v3
 **EN:** The floods have lifted up, O
 
-**TDB77:** Topa aw, gunte hong khangto-in, gunte in a aw uh hong sangsak a, gunte, nakpi takin hong ging hi.
+**TDB77:** Topa aw, gunte hong khangto-in, gunte in a aw-te hong sangsak a, gunte, nakpi takin hong ging hi.
 
-**ZVS:** { Topa } aw, gunte hong khangin, a aw uh hong sangsak a, nakpi takin hong ging hi.
+**ZVS:** { Topa } aw, gunte hong khangin, a aw-te hong sangsak a, nakpi takin hong ging hi.
 
 **Grammar:** serial verb: -in (and then)
 

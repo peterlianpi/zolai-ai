@@ -62,9 +62,9 @@
 ### v6
 **EN:** And Sarah said, God hath made me to laugh, so that all that hear will laugh with me.
 
-**TDB77:** Sarah in, “Pasian in kei’ adingin nuam-a nuihzak nading hong bawlsak khin hi; a za peuhmah in nuamin hong nuihpih ding uh hi,” ci hi.
+**TDB77:** Sarah in, “Pasian in kei’ adingin nuam-a nuihzak nading hong bawlsak khin hi; a za peuhmah in nuamin hong nuihpih ding-te hi,” ci hi.
 
-**ZVS:** Sarah in, “Pasian in kei-a' dingin nuamin nuihzakna ding hong bawlsak khin hi. A za peuhmah in nuamin hong nuihpih ding uh hi,” a ci hi.
+**ZVS:** Sarah in, “Pasian in kei-a' dingin nuamin nuihzakna ding hong bawlsak khin hi. A za peuhmah in nuamin hong nuihpih ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | completed: already done | future: will | plural: uh marker
 
@@ -96,9 +96,9 @@
 ### v10
 **EN:** Wherefore she said unto Abraham, Cast out this bondwoman and her son: for the son of this bondwoman shall not be heir with my son, even with Isaac.
 
-**TDB77:** Tua ahih ciangin amah in Abraham’ kiangah, “Hih sila-numei a tapa tawh lawnkhia in; bang hang hiam cih leh sila-numei’ tapa in ka tapa Isaak tawh gamhluah lo ding uh hi,” ci hi.
+**TDB77:** Tua ahih ciangin amah in Abraham’ kiangah, “Hih sila-numei a tapa tawh lawnkhia in; bang hang hiam cih leh sila-numei’ tapa in ka tapa Isaak tawh gamhluah lo ding-te hi,” ci hi.
 
-**ZVS:** Tua ahih ciangin amah in Abraham' kiangah, “Hih sila numei a tapa tawh lawnkhia in; bang hang hiam cih leh sila numei' tapa in ka tapa Isaac tawh gamh luahkhawm theilo ding uh hi,” a ci hi.
+**ZVS:** Tua ahih ciangin amah in Abraham' kiangah, “Hih sila numei a tapa tawh lawnkhia in; bang hang hiam cih leh sila numei' tapa in ka tapa Isaac tawh gamh luahkhawm theilo ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -241,9 +241,9 @@
 ### v27
 **EN:** And Abraham took sheep and oxen, and gave them unto Abimelech; and both of them made a covenant.
 
-**TDB77:** Tua ahih ciangin Abraham in tuu leh bawngtalte la-in Abimelek pia a, tua mi nihte in thuciamna khat bawl uh hi.
+**TDB77:** Tua ahih ciangin Abraham in tuu leh bawngtalte la-in Abimelek pia a, tua mi nihte in thuciamna khat bawl-te hi.
 
-**ZVS:** Tua ahih ciangin Abraham in tuu leh bawngtalte la-in Abimelek pia a, tua mi nihte in thuciamna khat a bawl uh hi.
+**ZVS:** Tua ahih ciangin Abraham in tuu leh bawngtalte la-in Abimelek pia a, tua mi nihte in thuciamna khat a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -275,18 +275,18 @@
 ### v31
 **EN:** Wherefore he called that place Beer–sheba; because there they sware both of them.
 
-**TDB77:** Tua ahih ciangin tua mun Be-ersheba kici hi; bang hang hiam cih leh amaute gel in tua munah thu kiciam uh hi.
+**TDB77:** Tua ahih ciangin tua mun Be-ersheba kici hi; bang hang hiam cih leh amaute gel in tua munah thu kiciam-te hi.
 
-**ZVS:** Tua ahih ciangin tua mun Beersheba kici hi. Bang hang hiam cih leh amaute gel tua munah thu kiciam uh hi.
+**ZVS:** Tua ahih ciangin tua mun Beersheba kici hi. Bang hang hiam cih leh amaute gel tua munah thu kiciam-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** Thus they made a covenant at Beer–sheba: then Abimelech rose up, and Phichol the chief captain of his host, and they returned into the land of the Philistines.
 
-**TDB77:** Tua ahih ciangin amaute in Be-ersheba-ah thuciamna khat bawl uh hi. Tua khit ciangin Abimelek leh a galkap mangpa Fikol, Filistia mite’ leitang-ah ciahkik uh hi.
+**TDB77:** Tua ahih ciangin amaute in Be-ersheba-ah thuciamna khat bawl-te hi. Tua khit ciangin Abimelek leh a galkap mangpa Fikol, Filistia mite’ leitang-ah ciahkik-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in Beersheba-ah thuciamna khat a bawl uh hi. Tua khit ciangin Abimelek leh a galkapmangpa Fikol, Filistia mite' leitangah ciahkik uh hi.
+**ZVS:** Tua ahih ciangin amaute in Beersheba-ah thuciamna khat a bawl-te hi. Tua khit ciangin Abimelek leh a galkapmangpa Fikol, Filistia mite' leitangah ciahkik-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

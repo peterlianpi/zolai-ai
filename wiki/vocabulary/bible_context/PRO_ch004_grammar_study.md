@@ -148,18 +148,18 @@
 ### v16
 **EN:** For they sleep not, except they have done mischief; and their sleep is taken away, unless they cause some to fall.
 
-**TDB77:** Migilote in asia khatpeuh a sep mateng lum thei lo uh a, mi khatpeuh a suk zawh mateng ihmu lo uh hi.
+**TDB77:** Migilote in asia khatpeuh a sep mateng lum thei lo-te a, mi khatpeuh a suk zawh mateng ihmu lo-te hi.
 
-**ZVS:** Migilote in a sia khatpeuh a sep mateng uh lum theilo uh a, mi khatpeuh a sukzawh mateng uh ihmu theilo uh hi.
+**ZVS:** Migilote in a sia khatpeuh a sep mateng-te lum theilo-te a, mi khatpeuh a sukzawh mateng-te ihmu theilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v17
 **EN:** For they eat the bread of wickedness, and drink the wine of violence.
 
-**TDB77:** Gitlohna, annek bangin nuamsa uh a, ngongtatna, tuidawn bangin ngaihsun uh hi.
+**TDB77:** Gitlohna, annek bangin nuamsa-te a, ngongtatna, tuidawn bangin ngaihsun-te hi.
 
-**ZVS:** Gitloh gamtatna, annek bangin nuamsa uh a, ngongtatna, tui dawn bangin a ngaihsun uh hi.
+**ZVS:** Gitloh gamtatna, annek bangin nuamsa-te a, ngongtatna, tui dawn bangin a ngaihsun-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -175,9 +175,9 @@
 ### v19
 **EN:** The way of the wicked is as darkness: they know not at what they stumble.
 
-**TDB77:** Migilote’ lampi ahih leh zan khuamial bangin mial a, amaute a tuksak, a suihkhak nate nangawn mu thei lo uh hi.
+**TDB77:** Migilote’ lampi ahih leh zan khuamial bangin mial a, amaute a tuksak, a suihkhak nate nangawn mu thei lo-te hi.
 
-**ZVS:** Migilote' lampi ahih leh zan khuamial bangin mial a, amaute a tuksak, a suihkhakte nangawn mu theilo uh hi.
+**ZVS:** Migilote' lampi ahih leh zan khuamial bangin mial a, amaute a tuksak, a suihkhakte nangawn mu theilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -200,9 +200,9 @@
 ### v22
 **EN:** For they are life unto those that find them, and health to all their flesh.
 
-**TDB77:** Bang hang hiam cih leh tua thu a zuite in, nuntakna leh cidamna-in nei uh hi.
+**TDB77:** Bang hang hiam cih leh tua thu a zuite in, nuntakna leh cidamna-in nei-te hi.
 
-**ZVS:** Bang hang hiam cih leh tua thu a zuite in nuntakna leh cidamna-in a nei uh hi.
+**ZVS:** Bang hang hiam cih leh tua thu a zuite in nuntakna leh cidamna-in a nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

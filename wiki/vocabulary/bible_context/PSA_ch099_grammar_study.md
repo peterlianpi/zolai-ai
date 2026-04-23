@@ -34,7 +34,7 @@
 
 **TDB77:** A lian a kihtak-huai ama min, mi khempeuh in phat ta hen. Amah siangtho hi.
 
-**ZVS:** A lian a kihtakhuai ama min mi khempeuh in phat ta uh hen. Amah siangtho hi.
+**ZVS:** A lian a kihtakhuai ama min mi khempeuh in phat ta-te hen. Amah siangtho hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -55,18 +55,18 @@
 ### v6
 **EN:** Moses and Aaron among his priests, and Samuel among them that call upon his name; they called upon the
 
-**TDB77:** Moses leh Aaronte in ama siampi hi uh a, amah a biate lakah Samuel zong kihel hi. Topa tungah amaute kiko uh a, amah in amaute a dawng hi.
+**TDB77:** Moses leh Aaronte in ama siampi hi-te a, amah a biate lakah Samuel zong kihel hi. Topa tungah amaute kiko-te a, amah in amaute a dawng hi.
 
-**ZVS:** Moses leh Aaron-te ama siampi hi uh a, amah a biate lakah Samuel zong a kihel hi. { Topa' } tungah amaute kiko uh a, amah in amaute a dawng hi.
+**ZVS:** Moses leh Aaron-te ama siampi hi-te a, amah a biate lakah Samuel zong a kihel hi. { Topa' } tungah amaute kiko-te a, amah in amaute a dawng hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** He spake unto them in the cloudy pillar: they kept his testimonies, and the ordinance that he gave them.
 
-**TDB77:** Amah in meii khuampi sung pan amaute tungah thu gen a, ama teci pan’nate leh amah in amau tunga a thukham piakte amaute in zui uh hi.
+**TDB77:** Amah in meii khuampi sung pan amaute tungah thu gen a, ama teci pan’nate leh amah in amau tunga a thukham piakte amaute in zui-te hi.
 
-**ZVS:** Amah in meii khuampi sung pan amaute tungah thu gen a, ama teci pan'nate leh amah in amaute tungah a thukham piakte amaute in a zui uh hi.
+**ZVS:** Amah in meii khuampi sung pan amaute tungah thu gen a, ama teci pan'nate leh amah in amaute tungah a thukham piakte amaute in a zui-te hi.
 
 **Grammar:** plural: uh marker
 

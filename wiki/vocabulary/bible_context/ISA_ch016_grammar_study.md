@@ -27,18 +27,18 @@
 ### v1
 **EN:** Send ye the lamb to the ruler of the land from Sela to the wilderness, unto the mount of the daughter of Zion.
 
-**TDB77:** Moab mite in Zion Tanu’ mual, gam ukpa tungah Sehnel gam Sela khua panin siah dingin tuunote puak uh hi.
+**TDB77:** Moab mite in Zion Tanu’ mual, gam ukpa tungah Sehnel gam Sela khua panin siah dingin tuunote puak-te hi.
 
-**ZVS:** Moab mite in Jerusalem-a om gam ukpa tungah sehnel gam Sela khua panin tuunote a puak uh hi.
+**ZVS:** Moab mite in Jerusalem-a om gam ukpa tungah sehnel gam Sela khua panin tuunote a puak-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v2
 **EN:** For it shall be, that, as a wandering bird cast out of the nest, so the daughters of Moab shall be at the fords of Arnon.
 
-**TDB77:** A bu a kipaih khiatsak ciangin cih nading thei loin a leeng kawikawi vasate bangin, Arnon guntui ngahmun ah Moab mite om uh hi.
+**TDB77:** A bu a kipaih khiatsak ciangin cih nading thei loin a leeng kawikawi vasate bangin, Arnon guntui ngahmun ah Moab mite om-te hi.
 
-**ZVS:** A bu a kipaih khiatsak ciangin a cihna ding theiloin a leng kawikawi vasate bangin Arnon guntui ngahmunah Moab mite om uh hi.
+**ZVS:** A bu a kipaih khiatsak ciangin a cihna ding theiloin a leng kawikawi vasate bangin Arnon guntui ngahmunah Moab mite om-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -65,7 +65,7 @@
 
 **TDB77:** itna kip tawh kumpi tokhom khat kiphut ding a, thuman sep ding a manlang, thutang zongin, thu a khen mipa pen David’ buk sunga tua tokhom tungah thuman tawh tu ding hi.”
 
-**ZVS:** itna kip tawh kumpi tokhom khat kiphut ding a, thuman sep ding a manlang, thutang zongin thu a khen mipa pen David' buk sunga om tua tokhom tungah thuman tawh tu ding hi,” a ci uh hi.
+**ZVS:** itna kip tawh kumpi tokhom khat kiphut ding a, thuman sep ding a manlang, thutang zongin thu a khen mipa pen David' buk sunga om tua tokhom tungah thuman tawh tu ding hi,” a ci-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -74,16 +74,16 @@
 
 **TDB77:** Moab’ kiphatsakna thu i za khin hi, amah kiphasak mahmah hi; a kiliatsakna, a kiphatsakna, a kihihsaknate— ama kisialhnate a mawkna ahi hi.
 
-**ZVS:** Tua ciangin Judah mite in, “Moab' kiphatsakna thu i za khinta hi. Amah kiphasak mahmah hi. A kiliatsakna, a kiphatsakna, a kihihsakna, ama kisialhnate khempeuh a mawkna ahi hi,” a ci uh hi.
+**ZVS:** Tua ciangin Judah mite in, “Moab' kiphatsakna thu i za khinta hi. Amah kiphasak mahmah hi. A kiliatsakna, a kiphatsakna, a kihihsakna, ama kisialhnate khempeuh a mawkna ahi hi,” a ci-te hi.
 
 **Grammar:** intensifier: very/greatly | completed: already done | reciprocal: ki- prefix
 
 ### v7
 **EN:** Therefore shall Moab howl for Moab, every one shall howl: for the foundations of Kir–hareseth shall ye mourn; surely they are stricken.
 
-**TDB77:** Tua ahih ciangin a thuakna uh hangin Moab mite kap hen la, mi khempeuh zong Moab— mite’ hangin kap ta hen. Nakpi takin gimna a thuak lai takun Kirhareseth khua a, a an lim nekte uh a phawk khak uh ciangin khasia-in kap uh hi.
+**TDB77:** Tua ahih ciangin a thuakna-te hangin Moab mite kap hen la, mi khempeuh zong Moab— mite’ hangin kap ta hen. Nakpi takin gimna a thuak lai takun Kirhareseth khua a, a an lim nekte-te a phawk khak-te ciangin khasia-in kap-te hi.
 
-**ZVS:** Tua ahih ciangin a thuakna uh hangin Moab mite kap hen la, mi khempeuh zong Moab mite' hangin kap ta uh hen. Nakpi takin gimna a thuak laitakun Kirhareseth khua-ah a anlim nekte uh a phawkkhak uh ciangin khasia-in a kap uh hi.
+**ZVS:** Tua ahih ciangin a thuakna-te hangin Moab mite kap hen la, mi khempeuh zong Moab mite' hangin kap ta-te hen. Nakpi takin gimna a thuak laitakun Kirhareseth khua-ah a anlim nekte-te a phawkkhak-te ciangin khasia-in a kap-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -92,14 +92,14 @@
 
 **TDB77:** Bang hang hiam cih leh a hiang zai-in tuipi kantan a, Jazer khua banin sehnel gam dongah a zaam ama hiangte, minamte’ tote in sattan ahih manin Heshbon lo laite leh Sibmah leengguite vul ta hi.
 
-**ZVS:** Bang hang hiam cih leh a hiang zai-in tuipi kantan a, Jazer khua banin sehnel gam dongah a zaam ama hiangte, minam dangte' tote in sattan ahih manin Heshbon lolaite leh Sibmah leengguite vul ta uh hi.
+**ZVS:** Bang hang hiam cih leh a hiang zai-in tuipi kantan a, Jazer khua banin sehnel gam dongah a zaam ama hiangte, minam dangte' tote in sattan ahih manin Heshbon lolaite leh Sibmah leengguite vul ta-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because
 
 ### v9
 **EN:** Therefore I will bewail with the weeping of Jazer the vine of Sibmah: I will water thee with my tears, O Heshbon, and Elealeh: for the shouting for thy summer fruits and for thy harvest is fallen.
 
-**TDB77:** Tua ahih ciangin Jazer khuamite a kah bangin Sibmah leengguite’ hangin kei ka kap hi; Heshbon leh Elealeh khuate aw, ka khitui tawh note kong kawtsak hi; na singgahte uh minta a, na anlakna uh hangin lungdamna tawh kikonate dai ta hi.
+**TDB77:** Tua ahih ciangin Jazer khuamite a kah bangin Sibmah leengguite’ hangin kei ka kap hi; Heshbon leh Elealeh khuate aw, ka khitui tawh note kong kawtsak hi; na singgahte-te minta a, na anlakna-te hangin lungdamna tawh kikonate dai ta hi.
 
 **ZVS:** Tua ahih ciangin Jazer khua mite a kah bangin Sibmah leengguite' hangin kei ka kap hi. Heshbon leh Elealeh khuamite aw, ka khitui tawh note kong kawtsak hi. Bang hang hiam cih leh galkidona in note' singgah leh ante hong banzo hi.
 
@@ -146,7 +146,7 @@
 
 **TDB77:** Ahih hangin tu-in Topa in, “Nasem ding a, a kicial kum hunte sung bangin, kumthum sungin, ama mihon tampite om tase leh Moab’ minthan’na in simmawhna thuak ding a, a suakta lai mite pen tawm mahmahin, thanem ding hi,” a ci hi.
 
-**ZVS:** Ahih hangin tu-in { Topa } in, “Nasem dingin a kicial kum hunte sung bangin, kum thum sungin, ama mihon tampite om ta se leh Moab' minthan'na in simmawhna thuak ding a, a suakta lai mite pen tawm mahmahin, thanem ding uh hi,” a ci hi.
+**ZVS:** Ahih hangin tu-in { Topa } in, “Nasem dingin a kicial kum hunte sung bangin, kum thum sungin, ama mihon tampite om ta se leh Moab' minthan'na in simmawhna thuak ding a, a suakta lai mite pen tawm mahmahin, thanem ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 

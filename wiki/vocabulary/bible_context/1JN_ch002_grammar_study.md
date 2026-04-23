@@ -26,7 +26,7 @@
 
 **TDB77:** Ka ta neute aw, note in na mawh loh nadingun hih thute lai sungah kong gelh hi. Mi khat peuhmah in a mawh leh, midik Zeisu Khazih ahi, eite hong huhpa Pasian kiangah i nei hi.
 
-**ZVS:** Ka itte aw, note na khialhkhak lohna ding uh ka deihna-in hih lai a hong gelh ka hi hi. Ahi zongin mi khatpeuh a khialh ciangin eite-a' dingin Pa Pasian kiangah a hong thumsak dingin a thuman Jesuh Khrih i nei hi.
+**ZVS:** Ka itte aw, note na khialhkhak lohna ding-te ka deihna-in hih lai a hong gelh ka hi hi. Ahi zongin mi khatpeuh a khialh ciangin eite-a' dingin Pa Pasian kiangah a hong thumsak dingin a thuman Jesuh Khrih i nei hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -40,7 +40,7 @@
 ### v3
 **EN:** And hereby we do know that we know him, if we keep his commandments.
 
-**TDB77:** Eite in amah bang i ci theih tel thei ding hiam na cih uh leh, ama thupiaknate i zuih leh, i thei ding hi.
+**TDB77:** Eite in amah bang i ci theih tel thei ding hiam na cih-te leh, ama thupiaknate i zuih leh, i thei ding hi.
 
 **ZVS:** Eite in ama thupiaknate i zuih leh amah a thei taktak ihihna hong kilang hi.
 
@@ -76,18 +76,18 @@
 ### v7
 **EN:** Brethren, I write no new commandment unto you, but an old commandment which ye had from the beginning. The old commandment is the word which ye have heard from the beginning.
 
-**TDB77:** Ka itte aw, note kiangah thupiakna thak kong gelh kei hi. A kipat cil panin na neih lui uh kong pia hi. Tua thupiakna lui in a masa belin na zak uh thuhilhna ahi hi.
+**TDB77:** Ka itte aw, note kiangah thupiakna thak kong gelh kei hi. A kipat cil panin na neih lui-te kong pia hi. Tua thupiakna lui in a masa belin na zak-te thuhilhna ahi hi.
 
-**ZVS:** Kong it lawmte aw, hih ka hong gelh thupiaknate pen a thak hilo a, a kipat cila kipanin na neihsa uh thupiakna lui mah ahi hi. Tua thupiakna lui pen note in na zakzaksa uh thu ahi hi.
+**ZVS:** Kong it lawmte aw, hih ka hong gelh thupiaknate pen a thak hilo a, a kipat cila kipanin na neihsa-te thupiakna lui mah ahi hi. Tua thupiakna lui pen note in na zakzaksa-te thu ahi hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v8
 **EN:** Again, a new commandment I write unto you, which thing is true in him and in you: because the darkness is past, and the true light now shineth.
 
-**TDB77:** Khat vei thupiakna thak note kiangah kong gelh hi. Tua thupiakna in tua Topa sungah ahi zongin, note sungah ahi zongin thuman thutak ahi hi. Bang hang hiam na cih uh leh, khuamialna mangthang zo a, a maan khuavak a tan’ laitak ahi hi.
+**TDB77:** Khat vei thupiakna thak note kiangah kong gelh hi. Tua thupiakna in tua Topa sungah ahi zongin, note sungah ahi zongin thuman thutak ahi hi. Bang hang hiam na cih-te leh, khuamialna mangthang zo a, a maan khuavak a tan’ laitak ahi hi.
 
-**ZVS:** Ahi zongin note kiangah ka hong gelh thupiakna pen na zak ngeiloh uh thuthak hi a, Khrih gamtatna leh note' gamtatnate in tua thu a man taktak ahihna hong kilangsak hi. Tu-in khuamial beita a, khuavak taktak hong taang khinta hi, cihna pen thuthak ahi hi.
+**ZVS:** Ahi zongin note kiangah ka hong gelh thupiakna pen na zak ngeiloh-te thuthak hi a, Khrih gamtatna leh note' gamtatnate in tua thu a man taktak ahihna hong kilangsak hi. Tu-in khuamial beita a, khuavak taktak hong taang khinta hi, cihna pen thuthak ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -114,14 +114,14 @@
 
 **TDB77:** A u a nau a mudah mi in khuamial sungah om a, khuamial sungah zong lam pai-in a gamta hi. Khuamial in ama mit khua musak thei lo a, a paina mun a thei kei hi.
 
-**ZVS:** Ahi zongin a Khristian mipihte a mudah mite pen khuamial sungah omin khuamial gamtatna a gamta uh hi a, tua khuamial in bangmah ngaihsunsak theilo ahih manin a gamtatna ding mel uh theilo uh hi.
+**ZVS:** Ahi zongin a Khristian mipihte a mudah mite pen khuamial sungah omin khuamial gamtatna a gamta-te hi a, tua khuamial in bangmah ngaihsunsak theilo ahih manin a gamtatna ding mel-te theilo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei
 
 ### v12
 **EN:** I write unto you, little children, because your sins are forgiven you for his name's sake.
 
-**TDB77:** Ka ta neute aw, ama min hangin na mawhna uh a kimaisak ahih ciangin, note kiangah lai kong gelh hi.
+**TDB77:** Ka ta neute aw, ama min hangin na mawhna-te a kimaisak ahih ciangin, note kiangah lai kong gelh hi.
 
 **ZVS:** Ka tate aw, Khrih hangin note' mawhna hong kimaisak ahih manin lai a hong gelh ka hi hi.
 
@@ -130,7 +130,7 @@
 ### v13
 **EN:** I write unto you, fathers, because ye have known him that is from the beginning. I write unto you, young men, because ye have overcome the wicked one. I write unto you, little children, because ye have known the Father.
 
-**TDB77:** Pate aw, a cil panin a om mi na thei uh ahih ciangin, note kiangah lai kong gelh hi. Tangvalte aw, note in a gilopa na zo uh ahih ciangin, note kiangah lai kong gelh hi. Naupang neute aw, note in Pa na thei uh ahih ciangin, note kiangah lai kong gelh hi.
+**TDB77:** Pate aw, a cil panin a om mi na thei-te ahih ciangin, note kiangah lai kong gelh hi. Tangvalte aw, note in a gilopa na zo-te ahih ciangin, note kiangah lai kong gelh hi. Naupang neute aw, note in Pa na thei-te ahih ciangin, note kiangah lai kong gelh hi.
 
 **ZVS:** Pate aw, a kipat cila kipanin a na ompa thei na hih manun lai a hong gelh ka hi hi. Tangvalte aw, Dawimangpa zokhin na hih manun lai a hong gelh ka hi hi. Tate aw, Pa Pasian thei taktak na hih manun lai a hong gelh ka hi hi.
 
@@ -139,9 +139,9 @@
 ### v14
 **EN:** I have written unto you, fathers, because ye have known him that is from the beginning. I have written unto you, young men, because ye are strong, and the word of God abideth in you, and ye have overcome the wicked one.
 
-**TDB77:** Pate aw, a cil pan a om mi na theih manunah note kiangah lai kong gelh hi. Tangvalte aw, na thakhauh uh a, note sungah Pasian’ thu om a, a gilopa na zo uh ahih ciangin note kiangah lai kong gelh hi.
+**TDB77:** Pate aw, a cil pan a om mi na theih manunah note kiangah lai kong gelh hi. Tangvalte aw, na thakhauh-te a, note sungah Pasian’ thu om a, a gilopa na zo-te ahih ciangin note kiangah lai kong gelh hi.
 
-**ZVS:** Pate aw, note tungah lai ka hong gelhna pen a kipat cila kipanin a na ompa na theihna hang uh ahi hi. Tangvalte aw, note tungah lai ka hong gelhna pen note na lungsim uh thahatin, Pasian' thu zui-in, Dawimangpa zokhin na hihna hang uh ahi hi.
+**ZVS:** Pate aw, note tungah lai ka hong gelhna pen a kipat cila kipanin a na ompa na theihna hang-te ahi hi. Tangvalte aw, note tungah lai ka hong gelhna pen note na lungsim-te thahatin, Pasian' thu zui-in, Dawimangpa zokhin na hihna hang-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -157,7 +157,7 @@
 ### v16
 **EN:** For all that is in the world, the lust of the flesh, and the lust of the eyes, and the pride of life, is not of the Father, but is of the world.
 
-**TDB77:** Bang hang hiam na cih uh leh, leitungah a om na khempeuh ahi, pumpi deihgawhna, mittang deihgawhna, kisaktheih mawknate in Pa tawh kipawl hi loin, leitung bek tawh kipawl ahi uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, leitungah a om na khempeuh ahi, pumpi deihgawhna, mittang deihgawhna, kisaktheih mawknate in Pa tawh kipawl hi loin, leitung bek tawh kipawl ahi-te hi.
 
 **ZVS:** Bang hang hiam cih leh pumpi deihna, mit tawh mu-in i deihte, leh mite' kisaktheihpih nate ahi leitung nate khempeuh pen Pa Pasian tawh a kizom thu hilo a, leitung tawh a kizom thu ahi hi.
 
@@ -166,7 +166,7 @@
 ### v17
 **EN:** And the world passeth away, and the lust thereof: but he that doeth the will of God abideth for ever.
 
-**TDB77:** Leitung leh leitung deihgawhnate in a mangthang ding ahi uh hi. Pasian’ deihna bang a gamta mi ahih leh, a kip tawntung ding hi.
+**TDB77:** Leitung leh leitung deihgawhnate in a mangthang ding ahi-te hi. Pasian’ deihna bang a gamta mi ahih leh, a kip tawntung ding hi.
 
 **ZVS:** Leitung nate leh leitung deihnate a beibei ding hita a, ahi zongin Pasian' deihna bangin a gamta mite pen kip tawntung ding hi.
 
@@ -175,36 +175,36 @@
 ### v18
 **EN:** Little children, it is the last time: and as ye have heard that antichrist shall come, even now are there many antichrists; whereby we know that it is the last time.
 
-**TDB77:** Ta neute aw, tu laitak hun in a nunung bel hun ahi hi. Khazih’ gal ahi Anti Khazih hong piang ding thu note in na za zo uh mah bangin, tu-in Anti Khazih tampi a om uh hi. Tua ahih ciangin tu hun in a nunung bel hun ahi hi cih i thei hi.
+**TDB77:** Ta neute aw, tu laitak hun in a nunung bel hun ahi hi. Khazih’ gal ahi Anti Khazih hong piang ding thu note in na za zo-te mah bangin, tu-in Anti Khazih tampi a om-te hi. Tua ahih ciangin tu hun in a nunung bel hun ahi hi cih i thei hi.
 
-**ZVS:** Tate aw, tu-in huntawpna hong naita hi. Khrih' Gal hong paiding hi, ci-in na zaksa uh mah bangin tu-in Khrih' gal tampi tak hong tung khinta hi. Tua ahih ciangin beina ding nai taktakta hi, ci-in i thei hi.
+**ZVS:** Tate aw, tu-in huntawpna hong naita hi. Khrih' Gal hong paiding hi, ci-in na zaksa-te mah bangin tu-in Khrih' gal tampi tak hong tung khinta hi. Tua ahih ciangin beina ding nai taktakta hi, ci-in i thei hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v19
 **EN:** They went out from us, but they were not of us; for if they had been of us, they would no doubt have continued with us: but they went out, that they might be made manifest that they were not all of us.
 
-**TDB77:** Tua mite in eite kiang pan a paikhiat uh hangin nidang lai-inah eite tawh a kipawl kei uh hi. Bang hang hiam na cih uh leh, eite tawh kipawl uh hi leh, eite tawh a omkhawm ding uh hi. Tua mite in eite tawh a kipawl loh thu a kilat nading eite kiang pan a paikhia uh hi.
+**TDB77:** Tua mite in eite kiang pan a paikhiat-te hangin nidang lai-inah eite tawh a kipawl kei-te hi. Bang hang hiam na cih-te leh, eite tawh kipawl-te hi leh, eite tawh a omkhawm ding-te hi. Tua mite in eite tawh a kipawl loh thu a kilat nading eite kiang pan a paikhia-te hi.
 
-**ZVS:** Khrih' gal ahi hih mite pen ei' pawl hi ngei napi-in hong taisan uh hi. Ei' pawl taktak hi leh eite tawh omkhawm paisuak ding uh ahih manin, tu-in amaute paikhia uh ahih ciangin ei' pawl taktak ahihlohna uh hong kilang hi.
+**ZVS:** Khrih' gal ahi hih mite pen ei' pawl hi ngei napi-in hong taisan-te hi. Ei' pawl taktak hi leh eite tawh omkhawm paisuak ding-te ahih manin, tu-in amaute paikhia-te ahih ciangin ei' pawl taktak ahihlohna-te hong kilang hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** But ye have an unction from the Holy One, and ye know all things.
 
-**TDB77:** Note in Siangtho Pa’ Kha Siangtho sathau nilhsa na hi uh a, na khempeuh na thei uh hi.
+**TDB77:** Note in Siangtho Pa’ Kha Siangtho sathau nilhsa na hi-te a, na khempeuh na thei-te hi.
 
-**ZVS:** Ahi zongin Khrih in note tungah Kha Siangtho hong piakhin ahih manin note khempeuh in a man na thei uh hi.
+**ZVS:** Ahi zongin Khrih in note tungah Kha Siangtho hong piakhin ahih manin note khempeuh in a man na thei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v21
 **EN:** I have not written unto you because ye know not the truth, but because ye know it, and that no lie is of the truth.
 
-**TDB77:** Note in thuman thutak na thei loh manun lai hong gelh ka hi kei hi. Note in thuman thutak na thei uh ahi zongin, thuzuau khat beek in thuman tawh kipawl lo ahi zongin na theih manunah lai kong gelh hi.
+**TDB77:** Note in thuman thutak na thei loh manun lai hong gelh ka hi kei hi. Note in thuman thutak na thei-te ahi zongin, thuzuau khat beek in thuman tawh kipawl lo ahi zongin na theih manunah lai kong gelh hi.
 
-**ZVS:** Tua ahih manin note kiangah lai ka hong gelhna pen note in a man na theihlohna hang uh hiloin, note in a man thei-in, zuauthu pen thuman panin hong piang ngeilo hi, ci-in zong na theihna uh hangin a hong gelh ka hizaw hi.
+**ZVS:** Tua ahih manin note kiangah lai ka hong gelhna pen note in a man na theihlohna hang-te hiloin, note in a man thei-in, zuauthu pen thuman panin hong piang ngeilo hi, ci-in zong na theihna-te hangin a hong gelh ka hizaw hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
@@ -213,7 +213,7 @@
 
 **TDB77:** Zuauthu a gen mi kua ahi hiam? “Zeisu in Khazih ahi kei hi,” ci-in a nial mi ahi hi. Hih mi in Pa leh Tapa nial a, Anti Khazih ahi hi.
 
-**ZVS:** Tua ahih leh zuau thugen i cihte kuate ahi hiam? Jesuh pen Khrih hilo hi, a cite ahi hi. Hih bangin thugente pen Khrih' Gal hi a, amaute in Pa leh Tapa a nihin nial uh hi.
+**ZVS:** Tua ahih leh zuau thugen i cihte kuate ahi hiam? Jesuh pen Khrih hilo hi, a cite ahi hi. Hih bangin thugente pen Khrih' Gal hi a, amaute in Pa leh Tapa a nihin nial-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei
 
@@ -229,9 +229,9 @@
 ### v24
 **EN:** Let that therefore abide in you, which ye have heard from the beginning. If that which ye have heard from the beginning shall remain in you, ye also shall continue in the Son, and in the Father.
 
-**TDB77:** Note na hih uh leh, a cil panin na zak uh thuhilhna note sungah na kipsak un. Note in a cil pan na theih uh thuhilhna in note sungah a om leh, note in Pa sungah ahi zongin, Tapa sungah ahi zongin na kip ding uh hi.
+**TDB77:** Note na hih-te leh, a cil panin na zak-te thuhilhna note sungah na kipsak un. Note in a cil pan na theih-te thuhilhna in note sungah a om leh, note in Pa sungah ahi zongin, Tapa sungah ahi zongin na kip ding-te hi.
 
-**ZVS:** Note in ahih leh a kipat cila kipan na zak uh thute hoihtakin na zui un. A kipat cila kipan na zak uh thute hoihtakin na zuih nak uh leh Tapa tawh kipawlin, Pa Pasian tawh zong a kipawl na hi ding uh hi.
+**ZVS:** Note in ahih leh a kipat cila kipan na zak-te thute hoihtakin na zui un. A kipat cila kipan na zak-te thute hoihtakin na zuih nak-te leh Tapa tawh kipawlin, Pa Pasian tawh zong a kipawl na hi ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -247,16 +247,16 @@
 ### v26
 **EN:** These things have I written unto you concerning them that seduce you.
 
-**TDB77:** Note hong kheem mite thu uh hih bangin kong gelh hi.
+**TDB77:** Note hong kheem mite thu-te hih bangin kong gelh hi.
 
 **ZVS:** Note khempeuh a hong sawm mite' thu tu-a zah tawh khin phot ni.
 
 ### v27
 **EN:** But the anointing which ye have received of him abideth in you, and ye need not that any man teach you: but as the same anointing teacheth you of all things, and is truth, and is no lie, and even as it hath taught you, ye shall abide in him.
 
-**TDB77:** Note na hih uh leh, ama khut pan na ngah uh Kha Siangtho sathau nilhna in note sungah kipin a om a, kuamah in note thu hong hilh ding na kisam kei uh hi. Ama’ Kha Siangtho sathau nilhna in note na khempeuh hong hilh a, tua Kha Siangtho sathau nilhna in thuman thutak hi a, thuzuau hi lo ahih ciangin note hong hilh mah bangin ama sungah kipin na om un.
+**TDB77:** Note na hih-te leh, ama khut pan na ngah-te Kha Siangtho sathau nilhna in note sungah kipin a om a, kuamah in note thu hong hilh ding na kisam kei-te hi. Ama’ Kha Siangtho sathau nilhna in note na khempeuh hong hilh a, tua Kha Siangtho sathau nilhna in thuman thutak hi a, thuzuau hi lo ahih ciangin note hong hilh mah bangin ama sungah kipin na om un.
 
-**ZVS:** Khrih in note tungah ama Kha Siangtho hong piakhin a, tua Kha Siangtho na neih laiteng uh kuamah in note hong hilhding kisam nawnlo hi. Bang hang hiam cih leh Kha Siangtho in note tungah thu khempeuh hong hilh a, tua a hong hilh thute a man vive hi a, zuauthu khat zong omlo hi. Tua ahih manin Kha Siangtho' hilhnate zui un la, Khrih sungah kiptakin om un.
+**ZVS:** Khrih in note tungah ama Kha Siangtho hong piakhin a, tua Kha Siangtho na neih laiteng-te kuamah in note hong hilhding kisam nawnlo hi. Bang hang hiam cih leh Kha Siangtho in note tungah thu khempeuh hong hilh a, tua a hong hilh thute a man vive hi a, zuauthu khat zong omlo hi. Tua ahih manin Kha Siangtho' hilhnate zui un la, Khrih sungah kiptakin om un.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -272,9 +272,9 @@
 ### v29
 **EN:** If ye know that he is righteous, ye know that every one that doeth righteousness is born of him.
 
-**TDB77:** Amah in midik ahih note in na theih uh leh, dikna thu a sem mi khempeuh in zong ama pian’sak mi ahi uh hi, cih na thei uh hi.
+**TDB77:** Amah in midik ahih note in na theih-te leh, dikna thu a sem mi khempeuh in zong ama pian’sak mi ahi-te hi, cih na thei-te hi.
 
-**ZVS:** Khrih, thuman hi, ci-in na theih uh mah bangin a manin a gamta mi khempeuh zong Pasian' tate hi, ci-in na theihding uh ahi hi.
+**ZVS:** Khrih, thuman hi, ci-in na theih-te mah bangin a manin a gamta mi khempeuh zong Pasian' tate hi, ci-in na theihding-te ahi hi.
 
 **Grammar:** plural: uh marker
 

@@ -1,0 +1,69 @@
+[
+  {
+    "title": "Verb Conjugation",
+    "description": "Zomi verbs don't change form based on subject. Particles indicate tense.",
+    "examples": [
+      {
+        "label": "Present",
+        "zolai": "pai",
+        "english": "go"
+      },
+      {
+        "label": "Past",
+        "zolai": "pai zo",
+        "english": "went"
+      },
+      {
+        "label": "Future",
+        "zolai": "pai ding",
+        "english": "will go"
+      },
+      {
+        "label": "Progressive",
+        "zolai": "pai lai",
+        "english": "going"
+      }
+    ]
+  },
+  {
+    "title": "Word Order (SOV)",
+    "description": "Zomi follows Subject-Object-Verb order, unlike English SVO.",
+    "examples": [
+      {
+        "label": "SOV",
+        "zolai": "Ka tui dot",
+        "english": "I water drink (I drink water)"
+      },
+      {
+        "label": "SOV",
+        "zolai": "An ann ne",
+        "english": "You food eat (You eat food)"
+      }
+    ]
+  },
+  {
+    "title": "Tones",
+    "examples": [
+      {
+        "label": "High Tone",
+        "description": "Voice rises, like asking a question",
+        "zolai": "An kidah?"
+      },
+      {
+        "label": "Mid Tone",
+        "description": "Normal speaking pitch",
+        "zolai": "Maw ka"
+      },
+      {
+        "label": "Low Tone",
+        "description": "Voice drops slightly",
+        "zolai": "Lungdam"
+      },
+      {
+        "label": "Falling Tone",
+        "description": "Start high, end low",
+        "zolai": "Innkuan"
+      }
+    ]
+  }
+]

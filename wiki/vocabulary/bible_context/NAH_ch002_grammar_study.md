@@ -42,27 +42,27 @@
 ### v3
 **EN:** The shield of his mighty men is made red, the valiant men are in scarlet: the chariots shall be with flaming torches in the day of his preparation, and the fir trees shall be terribly shaken.
 
-**TDB77:** A galkapte in lum san hong keng uh a, puan zong a san mah hong silh uh hi. A sim dingin hong kipan uh a, a sakol leengte uh khuaphia bangin, a sakolte uh hong koplen hi.
+**TDB77:** A galkapte in lum san hong keng-te a, puan zong a san mah hong silh-te hi. A sim dingin hong kipan-te a, a sakol leengte-te khuaphia bangin, a sakolte-te hong koplen hi.
 
-**ZVS:** A galkapte in lum san hong keng uh a, puan zong a san mah hong silh uh hi. A sim dingin hong kipan uh a, a sakol leengte uh khuaphia bang a, a sakolte uh hong koplen' uh hi.
+**ZVS:** A galkapte in lum san hong keng-te a, puan zong a san mah hong silh-te hi. A sim dingin hong kipan-te a, a sakol leengte-te khuaphia bang a, a sakolte-te hong koplen' uh hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** The chariots shall rage in the streets, they shall justle one against another in the broad ways: they shall seem like torches, they shall run like the lightnings.
 
-**TDB77:** Sakol leengte kongzing lakah, kisuk leh kito leh uh a, lamkabom khempeuh nawkin leeng kawikawi uh hi. Meikuang bangin kikhawh uh a, khuaphia bangin leeng uh hi.
+**TDB77:** Sakol leengte kongzing lakah, kisuk leh kito leh-te a, lamkabom khempeuh nawkin leeng kawikawi-te hi. Meikuang bangin kikhawh-te a, khuaphia bangin leeng-te hi.
 
-**ZVS:** Sakol leengte kongzing lakah kilehsuk kilehto uh a, lamkabom khempeuh nawkin leeng kawikawi uh hi. Meikuang bangin kikhawh uh a, khuaphia bangin leeng uh hi.
+**ZVS:** Sakol leengte kongzing lakah kilehsuk kilehto-te a, lamkabom khempeuh nawkin leeng kawikawi-te hi. Meikuang bangin kikhawh-te a, khuaphia bangin leeng-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** He shall recount his worthies: they shall stumble in their walk; they shall make haste to the wall thereof, and the defence shall be prepared.
 
-**TDB77:** Galkap mangte kikaikhawm a, a galkapte uh thupia hi. Amaute, kan phung lam kiden’na uh a, a lum uh tawh kidal uh hi.
+**TDB77:** Galkap mangte kikaikhawm a, a galkapte-te thupia hi. Amaute, kan phung lam kiden’na-te a, a lum-te tawh kidal-te hi.
 
-**ZVS:** Galkapmangte kikaikhawm a, a galkapte uh thu pia uh hi. Amaute, kan phung lam kiden'na uh a, a lum uh tawh kidal uh hi.
+**ZVS:** Galkapmangte kikaikhawm a, a galkapte-te thu pia-te hi. Amaute, kan phung lam kiden'na-te a, a lum-te tawh kidal-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -78,18 +78,18 @@
 ### v7
 **EN:** And Huzzab shall be led away captive, she shall be brought up, and her maids shall lead her as with the voice of doves, tabering upon their breasts.
 
-**TDB77:** Kumpinu kimanin kipua khia a, a nasemte thuumin kap uh a, dahin a dip uh hum uh hi.
+**TDB77:** Kumpinu kimanin kipua khia a, a nasemte thuumin kap-te a, dahin a dip-te hum-te hi.
 
-**ZVS:** Kumpinu kimanin kipuakhia a, a nasemte thumin kap uh a, dahin dip hum uh hi.
+**ZVS:** Kumpinu kimanin kipuakhia a, a nasemte thumin kap-te a, dahin dip hum-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** But Nineveh is of old like a pool of water: yet they shall flee away. Stand, stand, shall they cry; but none shall look back.
 
-**TDB77:** Tuibeem kitam pan-a tui luang khia bangin, Nineveh khuapi panin mite taikhia uh hi. “Khawl un, khawl un,” a kicih hangin, khat beek nunghei lo uh hi.
+**TDB77:** Tuibeem kitam pan-a tui luang khia bangin, Nineveh khuapi panin mite taikhia-te hi. “Khawl un, khawl un,” a kicih hangin, khat beek nunghei lo-te hi.
 
-**ZVS:** Tuibem kitam panin tui a kikhawhkhia bangin, Nineveh khuapi panin mite a taikhia uh hi. “Khawl un, khawl un,” a kicih hangin khat beek nungheilo uh hi.
+**ZVS:** Tuibem kitam panin tui a kikhawhkhia bangin, Nineveh khuapi panin mite a taikhia-te hi. “Khawl un, khawl un,” a kicih hangin khat beek nungheilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -132,9 +132,9 @@
 ### v13
 **EN:** Behold, I am against thee, saith the
 
-**TDB77:** Topa in hih bangin ci hi: “Keimah in note’ gal ka hi a, na sakol leengte uh ka haltum ding hi. Na humpinelkai note uh namsau in vattum ding a, midangte’ na na suh teng uh ka susia mang khin ding hi. Na kamtaite uh awging koimah ah kiza nawn lo ding hi,” ci hi.
+**TDB77:** Topa in hih bangin ci hi: “Keimah in note’ gal ka hi a, na sakol leengte-te ka haltum ding hi. Na humpinelkai note-te namsau in vattum ding a, midangte’ na na suh teng-te ka susia mang khin ding hi. Na kamtaite-te awging koimah ah kiza nawn lo ding hi,” ci hi.
 
-**ZVS:** Vanglian { Topa } in hih bangin ci hi: “Kei pen note' gal ka hi a, na sakol leengte uh ka haltum ding hi. Na humpinelkai note uh namsau in vatmai ding a, midangte' na na suh teng uh ka susiamang khin ding hi. Na tangmite uh' awging koi mahah kiza nawnlo ding hi,”ci hi.
+**ZVS:** Vanglian { Topa } in hih bangin ci hi: “Kei pen note' gal ka hi a, na sakol leengte-te ka haltum ding hi. Na humpinelkai note-te namsau in vatmai ding a, midangte' na na suh teng-te ka susiamang khin ding hi. Na tangmite uh' awging koi mahah kiza nawnlo ding hi,”ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 

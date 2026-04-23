@@ -97,9 +97,9 @@
 ### v9
 **EN:** All nations whom thou hast made shall come and worship before thee, O Lord; and shall glorify thy name.
 
-**TDB77:** Topa aw, na bawlsa minam khempeuh hong pai-in na mai-ah hong kun ding a, nangma min hong phat ding uh hi.
+**TDB77:** Topa aw, na bawlsa minam khempeuh hong pai-in na mai-ah hong kun ding a, nangma min hong phat ding-te hi.
 
-**ZVS:** Topa aw, na bawlsa minam khempeuh hong pai-in na mai-ah hong kun ding uh a, nangma min hong phat ding uh hi.
+**ZVS:** Topa aw, na bawlsa minam khempeuh hong pai-in na mai-ah hong kun ding-te a, nangma min hong phat ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -140,9 +140,9 @@
 ### v14
 **EN:** O God, the proud are risen against me, and the assemblies of violent men have sought after my soul; and have not set thee before them.
 
-**TDB77:** Pasian aw, mi kihisakte, kei lang pangin hong tho hi; thuhelhhawt mi pawlkhat in kei, thah hong sawm uh a, amaute in nang hong thudon lo uh hi.
+**TDB77:** Pasian aw, mi kihisakte, kei lang pangin hong tho hi; thuhelhhawt mi pawlkhat in kei, thah hong sawm-te a, amaute in nang hong thudon lo-te hi.
 
-**ZVS:** Pasian aw, mi kihisakte, kei langpangin hong kipan hi. Thu-helhawt mi pawlkhat in kei, thah hong sawm uh a, amaute in nang hong thudonlo uh hi.
+**ZVS:** Pasian aw, mi kihisakte, kei langpangin hong kipan hi. Thu-helhawt mi pawlkhat in kei, thah hong sawm-te a, amaute in nang hong thudonlo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 

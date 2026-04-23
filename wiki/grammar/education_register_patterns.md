@@ -45,7 +45,7 @@ ki-laih in khang = learn through interaction
 
 ### 6. `a...uh` — 3rd Person Plural Agreement
 ```
-sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna uh tawh pilsin uh hi
+sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna-te tawh pilsin-te hi
 = students learn through engaging their curiosity in their own environment
 ```
 - Subject: `sangnaupangte in` (students + ergative)

@@ -78,9 +78,9 @@
 ### v7
 **EN:** And as he did so year by year, when she went up to the house of the
 
-**TDB77:** Tua ahih ciangin a kum kumin tua bangin hih uh hi; Topa’ inn-ah amah a paitoh simin a lawmnu in amah phin zel hi. Tua ahih ciangin Hannah kapin an ne lo hi.
+**TDB77:** Tua ahih ciangin a kum kumin tua bangin hih-te hi; Topa’ inn-ah amah a paitoh simin a lawmnu in amah phin zel hi. Tua ahih ciangin Hannah kapin an ne lo hi.
 
-**ZVS:** Tua ahih ciangin a kumkumin tua bangin hi den uh hi. { Topa' } inn-ah a paitoh simin Peninnah in Hannah phin zel hi. Tua ahih ciangin Hannah kapin an nelo hi.
+**ZVS:** Tua ahih ciangin a kumkumin tua bangin hi den-te hi. { Topa' } inn-ah a paitoh simin Peninnah in Hannah phin zel hi. Tua ahih ciangin Hannah kapin an nelo hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** So Hannah rose up after they had eaten in Shiloh, and after they had drunk. Now Eli the priest sat upon a seat by a post of the temple of the
 
-**TDB77:** Amaute in Shiloh-ah ne-in a dawn khit uh ciangin Hannah ding hi. Tu-in Topa’ biakinn kongkhak khuam pangah siampi Eli tu hi.
+**TDB77:** Amaute in Shiloh-ah ne-in a dawn khit-te ciangin Hannah ding hi. Tu-in Topa’ biakinn kongkhak khuam pangah siampi Eli tu hi.
 
-**ZVS:** Amaute in Shiloh-ah an a nek khit uh ciangin khatvei Hannah ding khia-in biakinn-ah thungen dingin a pai hi. Tua hun laitakin { Topa' } biakinn kongkhak khuam pangah siampi Eli na tu hi.
+**ZVS:** Amaute in Shiloh-ah an a nek khit-te ciangin khatvei Hannah ding khia-in biakinn-ah thungen dingin a pai hi. Tua hun laitakin { Topa' } biakinn kongkhak khuam pangah siampi Eli na tu hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
@@ -180,9 +180,9 @@
 ### v19
 **EN:** And they rose up in the morning early, and worshipped before the
 
-**TDB77:** Amaute zingsangin tho baihin Topa mai-ah bia uh hi; tua ciangin amaute Ramah-a a inn uh ah ciahkik uh hi. Tua ciangin Elkanah in a zi Hannah luppih a, Topa in tua nu’ thungetna pia hi;
+**TDB77:** Amaute zingsangin tho baihin Topa mai-ah bia-te hi; tua ciangin amaute Ramah-a a inn-te ah ciahkik-te hi. Tua ciangin Elkanah in a zi Hannah luppih a, Topa in tua nu’ thungetna pia hi;
 
-**ZVS:** Amaute zingsangin tho baihin biakinn-ah { Topa } a biak khit uh ciangin amaute' khua Ramah-a a inn uhah a ciahkik uh hi. Tua ciangin Elkanah in a zi Hannah luppih a, { Topa } in tuanu' thungetna a pia hi.
+**ZVS:** Amaute zingsangin tho baihin biakinn-ah { Topa } a biak khit-te ciangin amaute' khua Ramah-a a inn uhah a ciahkik-te hi. Tua ciangin Elkanah in a zi Hannah luppih a, { Topa } in tuanu' thungetna a pia hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -198,9 +198,9 @@
 ### v21
 **EN:** And the man Elkanah, and all his house, went up to offer unto the
 
-**TDB77:** Tua ciangin Elkanah leh a innkuante khempeuh Topa tungah kum sim biakna leh a thuciamna pia dingin paito uh hi.
+**TDB77:** Tua ciangin Elkanah leh a innkuante khempeuh Topa tungah kum sim biakna leh a thuciamna pia dingin paito-te hi.
 
-**ZVS:** Tua ciangin Elkanah leh a innkuante khempeuh { Topa' } tungah kumsim biakna leh a thuciamna a pia dingin paito kik uh hi.
+**ZVS:** Tua ciangin Elkanah leh a innkuante khempeuh { Topa' } tungah kumsim biakna leh a thuciamna a pia dingin paito kik-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -234,9 +234,9 @@
 ### v25
 **EN:** And they slew a bullock, and brought the child to Eli.
 
-**TDB77:** Tua ciangin amaute in a bawngtal go-in a naupang Eli kiangah paipih uh hi.
+**TDB77:** Tua ciangin amaute in a bawngtal go-in a naupang Eli kiangah paipih-te hi.
 
-**ZVS:** Tua ciangin amaute in a bawngtal go-in Eli kiangah a naupang a paipih uh hi.
+**ZVS:** Tua ciangin amaute in a bawngtal go-in Eli kiangah a naupang a paipih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -257,9 +257,9 @@
 ### v28
 **EN:** Therefore also I have lent him to the
 
-**TDB77:** Tua ahih ciangin Topa tungah amah ka pia hi; a nuntak lai teng Topa tungah amah a kipia ahi hi,” a ci hi. Tua ciangin amaute in tua lai-ah Topa bia uh hi.
+**TDB77:** Tua ahih ciangin Topa tungah amah ka pia hi; a nuntak lai teng Topa tungah amah a kipia ahi hi,” a ci hi. Tua ciangin amaute in tua lai-ah Topa bia-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa' } tungah amah ka kawm hi. A nuntak laiteng { Topa' } tungah amah a kikawm ahi hi,” a ci hi. Tua ciangin amaute in tua lai-ah{ Topa } a bia uh hi.
+**ZVS:** Tua ahih ciangin { Topa' } tungah amah ka kawm hi. A nuntak laiteng { Topa' } tungah amah a kikawm ahi hi,” a ci hi. Tua ciangin amaute in tua lai-ah{ Topa } a bia-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

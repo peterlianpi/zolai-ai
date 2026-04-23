@@ -23,7 +23,7 @@
 ### v1
 **EN:** And Saul was consenting unto his death. And at that time there was a great persecution against the church which was at Jerusalem; and they were all scattered abroad throughout the regions of Judaea and Samaria, except the apostles.
 
-**TDB77:** Saul in Stefen sih nading a thukim hi. Tua lai takin Jerusalem khua-ah a om pawlpite nakpi-in bawlsia uh a, sawltakte sim loh thu-um midangte khempeuh in Judah gam leh Samaria gam mun khempeuh ah a kithehthang uh hi.
+**TDB77:** Saul in Stefen sih nading a thukim hi. Tua lai takin Jerusalem khua-ah a om pawlpite nakpi-in bawlsia-te a, sawltakte sim loh thu-um midangte khempeuh in Judah gam leh Samaria gam mun khempeuh ah a kithehthang-te hi.
 
 **ZVS:** Hih Stefen thahna thu-ah Saul in zong thukimpih hi.
 
@@ -32,9 +32,9 @@
 ### v2
 **EN:** And devout men carried Stephen to his burial, and made great lamentation over him.
 
-**TDB77:** Thu a zahtakte in Stefen a vui uh a, ama hangin nakpi-in a kap uh hi.
+**TDB77:** Thu a zahtakte in Stefen a vui-te a, ama hangin nakpi-in a kap-te hi.
 
-**ZVS:** Thu um mi pawlkhat in Stefen vui uh a, nakpi takin dahin a kap uh hi.
+**ZVS:** Thu um mi pawlkhat in Stefen vui-te a, nakpi takin dahin a kap-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -48,9 +48,9 @@
 ### v4
 **EN:** Therefore they that were scattered abroad went every where preaching the word.
 
-**TDB77:** Tua ahih ciangin gam khempeuh ah a kithehthang mite a vak kawikawi uh a, thu a hilh uh hi.
+**TDB77:** Tua ahih ciangin gam khempeuh ah a kithehthang mite a vak kawikawi-te a, thu a hilh-te hi.
 
-**ZVS:** Tua bangin a kithehthang mite pai kawikawi-in thu a hilh uh hi.
+**ZVS:** Tua bangin a kithehthang mite pai kawikawi-in thu a hilh-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -66,18 +66,18 @@
 ### v6
 **EN:** And the people with one accord gave heed unto those things which Philip spake, hearing and seeing the miracles which he did.
 
-**TDB77:** Mihonte in a za uh a, Filip hih nalamdangte a muh ciangin tua thu lungsim kikhatin a ngai ciat uh hi.
+**TDB77:** Mihonte in a za-te a, Filip hih nalamdangte a muh ciangin tua thu lungsim kikhatin a ngai ciat-te hi.
 
-**ZVS:** Mihonte in Filip' thugen leh a na lamdang bawlte a muh uh ciangin a thugen khempeuh limtakin a ngai uh hi.
+**ZVS:** Mihonte in Filip' thugen leh a na lamdang bawlte a muh-te ciangin a thugen khempeuh limtakin a ngai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** For unclean spirits, crying with loud voice, came out of many that were possessed with them: and many taken with palsies, and that were lame, were healed.
 
-**TDB77:** Bang hang hiam i cih leh, dawivei mi tampite pan dawite in nakpi-in kiko-in a pusuak uh hi. A pum langkhat a si mi leh khebai mi tampi in damna a ngah uh hi.
+**TDB77:** Bang hang hiam i cih leh, dawivei mi tampite pan dawite in nakpi-in kiko-in a pusuak-te hi. A pum langkhat a si mi leh khebai mi tampi in damna a ngah-te hi.
 
-**ZVS:** Mi tampite sung panin dawite nakpi takin kiko-in paikhia uh a, khutzaw khezaw mite zong kidamsak hi.
+**ZVS:** Mi tampite sung panin dawite nakpi takin kiko-in paikhia-te a, khutzaw khezaw mite zong kidamsak hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -86,41 +86,41 @@
 
 **TDB77:** Tua khua sungah lungdamna tampi a piang hi.
 
-**ZVS:** Tua ahih manin tua khuapi sunga om mite lungdam mahmah uh hi.
+**ZVS:** Tua ahih manin tua khuapi sunga om mite lungdam mahmah-te hi.
 
 ### v9
 **EN:** But there was a certain man, called Simon, which beforetime in the same city used sorcery, and bewitched the people of Samaria, giving out that himself was some great one:
 
 **TDB77:** Simon min nei mi khat in tua khua sungah mitphial dawi bawlin, “Kei zong milian khat ka hi hi,” ci-in Samaria mite lamdang a sasak ngei hi.
 
-**ZVS:** Tua khuasungah Simon a kici mi khat om a, amah mitphial bawl siampi hi a, Samaria mite in lamdangsa mahmah uh hi. Amah milian mahmah khatin kigen a,
+**ZVS:** Tua khuasungah Simon a kici mi khat om a, amah mitphial bawl siampi hi a, Samaria mite in lamdangsa mahmah-te hi. Amah milian mahmah khatin kigen a,
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v10
 **EN:** To whom they all gave heed, from the least to the greatest, saying, This man is the great power of God.
 
-**TDB77:** A neu a lian a om khempeuh in, “Hih mi in Lian kici Pasian’ vangliatna mah hi,” ci-in ama thu a ngai uh hi.
+**TDB77:** A neu a lian a om khempeuh in, “Hih mi in Lian kici Pasian’ vangliatna mah hi,” ci-in ama thu a ngai-te hi.
 
-**ZVS:** tua khuasunga om milian mineu a om khempeuh in a thu limtakin ngai-in, “Vang Lianpa,” a kici Pasian pen amah ahi hi, a ci uh hi.
+**ZVS:** tua khuasunga om milian mineu a om khempeuh in a thu limtakin ngai-in, “Vang Lianpa,” a kici Pasian pen amah ahi hi, a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And to him they had regard, because that of long time he had bewitched them with sorceries.
 
-**TDB77:** Amah in mitphial bawlin, sawt veipi mite lamdang sasak ahih ciangin amaute in a thu a ngai uh hi.
+**TDB77:** Amah in mitphial bawlin, sawt veipi mite lamdang sasak ahih ciangin amaute in a thu a ngai-te hi.
 
-**ZVS:** Amah in sauveipi sung mitphial bawl a, mite in lamdangsa mahmah uh ahih manin a thu a um uh hi.
+**ZVS:** Amah in sauveipi sung mitphial bawl a, mite in lamdangsa mahmah-te ahih manin a thu a um-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** But when they believed Philip preaching the things concerning the kingdom of God, and the name of Jesus Christ, they were baptized, both men and women.
 
-**TDB77:** Filip in Pasian’ Gam leh Zeisu Khazih’ minin Lungdamna Thu gen a, tua mite in a up uh ciangin numeite leh pasalte a kibaptaiz uh hi.
+**TDB77:** Filip in Pasian’ Gam leh Zeisu Khazih’ minin Lungdamna Thu gen a, tua mite in a up-te ciangin numeite leh pasalte a kibaptaiz-te hi.
 
-**ZVS:** Ahi zongin Pasian' Ukna Lungdamna Thu leh Jesuh Khrih thu, Filip' gente a up uh ciangin, numei pasal a um khempeuh tui a kiphum uh hi.
+**ZVS:** Ahi zongin Pasian' Ukna Lungdamna Thu leh Jesuh Khrih thu, Filip' gente a up-te ciangin, numei pasal a um khempeuh tui a kiphum-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -136,45 +136,45 @@
 ### v14
 **EN:** Now when the apostles which were at Jerusalem heard that Samaria had received the word of God, they sent unto them Peter and John:
 
-**TDB77:** Samaria khuapihte in Pasian’ thu a mang uh a, Jerusalem khua-ah a om sawltakte in a zak uh ciangin Piter leh Johan a sawl uh hi.
+**TDB77:** Samaria khuapihte in Pasian’ thu a mang-te a, Jerusalem khua-ah a om sawltakte in a zak-te ciangin Piter leh Johan a sawl-te hi.
 
-**ZVS:** Samaria mite in Pasian' thu a san'khitna uh, Jerusalem-a om sawltakte in a zak uh ciangin amaute kiangah Peter leh Johan a paisak uh hi.
+**ZVS:** Samaria mite in Pasian' thu a san'khitna uh, Jerusalem-a om sawltakte in a zak-te ciangin amaute kiangah Peter leh Johan a paisak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** Who, when they were come down, prayed for them, that they might receive the Holy Ghost:
 
-**TDB77:** Tuate a tun’ uh ciangin amaute in Kha Siangtho a ngah nadingun amaute ading thu a ngetsak uh hi.
+**TDB77:** Tuate a tun’ uh ciangin amaute in Kha Siangtho a ngah nadingun amaute ading thu a ngetsak-te hi.
 
-**ZVS:** Amaute a tun' uh ciangin tua lai-a om thu um mite in Kha Siangtho a ngahna dingun thu a ngetsak uh hi.
+**ZVS:** Amaute a tun' uh ciangin tua lai-a om thu um mite in Kha Siangtho a ngahna dingun thu a ngetsak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v16
 **EN:** (For as yet he was fallen upon none of them: only they were baptized in the name of the Lord Jesus.)
 
-**TDB77:** Bang hang hiam i cih leh, Topa Zeisu’ min tawh a kibaptaiz khit uh hangin Kha Siangtho in khat beek tungah a tung nai kei hi.
+**TDB77:** Bang hang hiam i cih leh, Topa Zeisu’ min tawh a kibaptaiz khit-te hangin Kha Siangtho in khat beek tungah a tung nai kei hi.
 
-**ZVS:** Bang hang hiam cih leh amaute pen Topa Jesuh min tawh a kituiphum hi pan bek uh a, amaute khat beek in Kha Siangtho ngah nailo uh hi.
+**ZVS:** Bang hang hiam cih leh amaute pen Topa Jesuh min tawh a kituiphum hi pan bek-te a, amaute khat beek in Kha Siangtho ngah nailo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v17
 **EN:** Then laid they their hands on them, and they received the Holy Ghost.
 
-**TDB77:** Amaute in tua mite tungah a khut uh a ngak khit uh ciangin Kha Siangtho a ngah uh hi.
+**TDB77:** Amaute in tua mite tungah a khut-te a ngak khit-te ciangin Kha Siangtho a ngah-te hi.
 
-**ZVS:** Peter leh Johan in amaute lu tungah a khut uh a ngak khit uh ciangin Kha Siangtho a ngah uh hi.
+**ZVS:** Peter leh Johan in amaute lu tungah a khut-te a ngak khit-te ciangin Kha Siangtho a ngah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** And when Simon saw that through laying on of the apostles' hands the Holy Ghost was given, he offered them money,
 
-**TDB77:** Sawltakte in khut a ngak uh ciangin Kha Siangtho kipia Simon in a muh ciangin,
+**TDB77:** Sawltakte in khut a ngak-te ciangin Kha Siangtho kipia Simon in a muh ciangin,
 
-**ZVS:** Sawltakte in amaute tungah a khut uh a ngak ciangin Kha Siangtho a ngahna uh mu ahih manin Simon in Peter leh Johan kiangah sum pia a,
+**ZVS:** Sawltakte in amaute tungah a khut-te a ngak ciangin Kha Siangtho a ngahna-te mu ahih manin Simon in Peter leh Johan kiangah sum pia a,
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -228,16 +228,16 @@
 
 **TDB77:** Simon in, “Na thupiak khat beek keima tungah a tun’ loh nadingin Pasian kiangah thu hong ngetsak in,” a ci hi.
 
-**ZVS:** Tua ciangin Simon in Peter leh Johan kiangah, “Tu-a na thugente uh kei tungah khat beek hong tun'lohna dingin thu hong ngetsak un,” a ci hi.
+**ZVS:** Tua ciangin Simon in Peter leh Johan kiangah, “Tu-a na thugente-te kei tungah khat beek hong tun'lohna dingin thu hong ngetsak un,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix
 
 ### v25
 **EN:** And they, when they had testified and preached the word of the Lord, returned to Jerusalem, and preached the gospel in many villages of the Samaritans.
 
-**TDB77:** Amaute in teci a pang uh a, Topa’ thu a hilh khit uh ciangin Jerusalem khuapi-ah a ciah uh a, Samaria mite khua tampi sungah Lungdamna Thu a hilh uh hi.
+**TDB77:** Amaute in teci a pang-te a, Topa’ thu a hilh khit-te ciangin Jerusalem khuapi-ah a ciah-te a, Samaria mite khua tampi sungah Lungdamna Thu a hilh-te hi.
 
-**ZVS:** Amaute in Jesuh Khrih thu a theihte uh genin Topa' thugente a hilh khit uh ciangin Jerusalem khua-ah a ciahkik uh hi. A ciahkik kawmun Samaria khuaneu lampite-ah Lungdamna Thu a hilh uh hi.
+**ZVS:** Amaute in Jesuh Khrih thu a theihte-te genin Topa' thugente a hilh khit-te ciangin Jerusalem khua-ah a ciahkik-te hi. A ciahkik kawmun Samaria khuaneu lampite-ah Lungdamna Thu a hilh-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -305,7 +305,7 @@
 ### v33
 **EN:** In his humiliation his judgment was taken away: and who shall declare his generation? for his life is taken from the earth.
 
-**TDB77:** A kilungnemsak lai takin midangte in ama tungah thu a khen uh hi. Ama hin’na leitungah kilakhia ahih ciangin, Ama suante kua in a lak ding hiam?” cih ahi hi.
+**TDB77:** A kilungnemsak lai takin midangte in ama tungah thu a khen-te hi. Ama hin’na leitungah kilakhia ahih ciangin, Ama suante kua in a lak ding hiam?” cih ahi hi.
 
 **ZVS:** Mite in amah simmawhbawl gawp a, amah a huh kuamah omlo hi. Ama nuntakna leitungah bei ahih manin, a suan a khakte' thu, ci-a gen ding omlo hi,” ci-in a kigelhna mun ahi hi.
 
@@ -330,9 +330,9 @@
 ### v36
 **EN:** And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized?
 
-**TDB77:** Lampi a pai lai takun tui omna-ah a tung uh a,
+**TDB77:** Lampi a pai lai takun tui omna-ah a tung-te a,
 
-**ZVS:** Lampi-ah a pai laitakun tui omna mun tung uh a, mangpa in, “Hih lai-ah tui om hi. Tui kiphum nuam peuh leng kua'n hong kham thei ding ahi hiam?” a ci hi.
+**ZVS:** Lampi-ah a pai laitakun tui omna mun tung-te a, mangpa in, “Hih lai-ah tui om hi. Tui kiphum nuam peuh leng kua'n hong kham thei ding ahi hiam?” a ci hi.
 
 **Grammar:** plural: uh marker
 
@@ -348,7 +348,7 @@
 ### v38
 **EN:** And he commanded the chariot to stand still: and they went down both into the water, both Philip and the eunuch; and he baptized him.
 
-**TDB77:** Mangpa in leeng khawlsak a, Filip leh Mangpa a nihun tui sungah a pai uh a, Filip in a baptaiz hi.
+**TDB77:** Mangpa in leeng khawlsak a, Filip leh Mangpa a nihun tui sungah a pai-te a, Filip in a baptaiz hi.
 
 **ZVS:** Tua ciangin a leeng a khawlsakna dingin mangpa in thu pia a, Filip tawh a nihun tui phualah pai-in Filip in amah a tuiphum hi.
 
@@ -359,7 +359,7 @@
 
 **TDB77:** Tui sung pan a kahtoh khit ciangin Kha Siangtho in Filip lakhia a, Mangpa in a nung ciangin Filip a mu nawn kei hi; lungdam mahmahin lam a paikik hi.
 
-**ZVS:** Tui sung panin a paikhiat khit uh ciangin Topa' Kha Siangtho in Filip paikhiatpih hi. Mangpa in Filip mu nawnlo hi; ahi zongin lungdam takin a lampai a zom hi.
+**ZVS:** Tui sung panin a paikhiat khit-te ciangin Topa' Kha Siangtho in Filip paikhiatpih hi. Mangpa in Filip mu nawnlo hi; ahi zongin lungdam takin a lampai a zom hi.
 
 **Grammar:** negation: kei
 

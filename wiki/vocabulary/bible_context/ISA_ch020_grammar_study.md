@@ -61,18 +61,18 @@
 ### v5
 **EN:** And they shall be afraid and ashamed of Ethiopia their expectation, and of Egypt their glory.
 
-**TDB77:** Tua ciangin amau’ muan Ethiopia leh amau’ kisialhpih Izipt’ hangin amaute lungkia-in a maizum ding uh thei lo ding uh hi.
+**TDB77:** Tua ciangin amau’ muan Ethiopia leh amau’ kisialhpih Izipt’ hangin amaute lungkia-in a maizum ding-te thei lo ding-te hi.
 
-**ZVS:** Tua ciangin amau' lametna Ethiopia leh amau' kisialhpih Egypt' hangin amaute lungkia-in a cihna ding uh theilo ding uh hi.
+**ZVS:** Tua ciangin amau' lametna Ethiopia leh amau' kisialhpih Egypt' hangin amaute lungkia-in a cihna ding-te theilo ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And the inhabitant of this isle shall say in that day, Behold, such is our expectation, whither we flee for help to be delivered from the king of Assyria: and how shall we escape?
 
-**TDB77:** Tua ni ciangin hih tuipi gei-a teeng mite in, “En un, eite’ muan Assiria kumpipa’ kiang pan a, eite huhin honkhia dingin i belh mite’ tungah hih bang piang khin ta hi. Eite bangci suahtak ding i hi hiam?’ ci ding uh hi,” a ci hi.
+**TDB77:** Tua ni ciangin hih tuipi gei-a teeng mite in, “En un, eite’ muan Assiria kumpipa’ kiang pan a, eite huhin honkhia dingin i belh mite’ tungah hih bang piang khin ta hi. Eite bangci suahtak ding i hi hiam?’ ci ding-te hi,” a ci hi.
 
-**ZVS:** Tua ni ciangin hih tuipi gei-a teng mite in, ‘En un, eite' lametna, Assiria kumpipa' kiang panin eite hong honkhia dingin i belh mite' tungah hih bang piang khinta hi. Eite bangci suahtak ding ihi hiam?’ ci ding uh hi,” a ci hi.
+**ZVS:** Tua ni ciangin hih tuipi gei-a teng mite in, ‘En un, eite' lametna, Assiria kumpipa' kiang panin eite hong honkhia dingin i belh mite' tungah hih bang piang khinta hi. Eite bangci suahtak ding ihi hiam?’ ci ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 

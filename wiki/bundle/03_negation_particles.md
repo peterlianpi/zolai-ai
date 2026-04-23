@@ -26,7 +26,7 @@
 - **`lo` is NOT Hakha-only** — it is valid Tedim ZVS in non-conditional contexts.
 
 ### `kei lo` — Compound absolute negation ("none / not any")
-- `Pasian dang kei lo uh hen.` = You shall have no other gods. (Ten Commandments)
+- `Pasian dang kei lo-te hen.` = You shall have no other gods. (Ten Commandments)
 - `Kuamah kei lo.` = There is no one / nobody.
 - Meaning: stronger than plain `kei` — total absence.
 
@@ -99,12 +99,12 @@
 
 - `[TDB77]` *And also unto the Levites; they shall no more carry the tabernacle, no* → **Tua ahih ciangin Levi mite in puanbuk hita leh tua tawh kisai nasep na**
 - `[TDB77]` *And David said to Solomon his son, Be strong and of good courage, and * → **Tua ciangin David in a tapa Solomon kiangah, “Thakhauhin hang in la, s**
-- `[TDB77]` *I have fed you with milk, and not with meat: for hitherto ye were not * → **Note in an haizan zo nai lo na hih uh ciangin sa tawh kong vaak nai ke**
+- `[TDB77]` *I have fed you with milk, and not with meat: for hitherto ye were not * → **Note in an haizan zo nai lo na hih-te ciangin sa tawh kong vaak nai ke**
 - `[TDB77]` *So then neither is he that planteth any thing, neither he that wateret* → **Tua ahih ciangin a suanpa in mi phamawh ahi kei hi; tuibuakpa in mi ph**
 
 ## do not
 
-- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih uh leh, a pualam mite thukhenna tawh bang kikum **
+- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih-te leh, a pualam mite thukhenna tawh bang kikum **
 - `[TDB77]` *Doth not even nature itself teach you, that, if a man have long hair, * → **Pasal in sam sau a neih leh, zumhuaina ahi ci-in leitung ngeina thu na**
 - `[TDB77]` *Doth not behave itself unseemly, seeketh not her own, is not easily pr* → **a kituak loin a gamta kei hi, ama phat nading a zong kei hi, a heh bai**
 - `[TDB77]` *If we say that we have fellowship with him, and walk in darkness, we l* → **“Eite in Pasian tawh i kiho thei hi,” i ci napi-in khuamial lakah i ga**
@@ -112,22 +112,22 @@
 ## shall not
 
 - `[TDB77]` *Behold, I shew you a mystery; We shall not all sleep, but we shall all* → **En un, thuthuk khat kong gen ding hi. Eite khempeuh sicip ding i hi ke**
-- `[TDB77]` *For I will not see you now by the way; but I trust to tarry a while wi* → **Bang hang hiam na cih uh leh, lam lai-ah kimuh ding bek ka ut kei hi. **
+- `[TDB77]` *For I will not see you now by the way; but I trust to tarry a while wi* → **Bang hang hiam na cih-te leh, lam lai-ah kimuh ding bek ka ut kei hi. **
 - `[TDB77]` *And I will dwell among the children of Israel, and will not forsake my* → **Tua ciangin na lam inn sung Israel mite lakah ka teeng ding a, keima m**
 - `[TDB77]` *Notwithstanding in thy days I will not do it for David thy father's sa* → **Ahi zongin na pa David’ hangin nangma hun sungin ka hih kei ding a, na**
 
 ## cannot
 
-- `[TDB77]` *But if they cannot contain, let them marry: for it is better to marry * → **Ahi zongin a pumpi uh a kikham zawh kei uh leh, kiteeng uh hen. A kat **
+- `[TDB77]` *But if they cannot contain, let them marry: for it is better to marry * → **Ahi zongin a pumpi-te a kikham zawh kei-te leh, kiteeng-te hen. A kat **
 - `[TDB77]` *And the eye cannot say unto the hand, I have no need of thee: nor agai* → **Mittang in khut kiangah, “Nang kong deih kei hi,” ci thei lo hi. Tua m**
 - `[TDB77]` *And turn ye not aside: for then should ye go after vain things, which * → **meetna hong pia thei lote ahi a, hong hon thei lo a mawkna nate lamah **
 - `[TDB77]` *Likewise also the good works of some are manifest beforehand; and they* → **Tua mah bangin a kilang gamtatna hoih a om thei hi, a kilanglo gamtatn**
 
 ## without
 
-- `[TDB77]` *And the sons of Nadab; Seled, and Appaim: but Seled died without child* → **Nadab’ tapate in: Seled leh Appaim ahi uh hi; Seled in ta nei loin si **
+- `[TDB77]` *And the sons of Nadab; Seled, and Appaim: but Seled died without child* → **Nadab’ tapate in: Seled leh Appaim ahi-te hi; Seled in ta nei loin si **
 - `[TDB77]` *And the sons of Jada the brother of Shammai; Jether, and Jonathan: and* → **Tua ciangin Shammai’ sanggampa Jada’ tapate in: Jether leh Jonathan ah**
-- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih uh leh, a pualam mite thukhenna tawh bang kikum **
+- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih-te leh, a pualam mite thukhenna tawh bang kikum **
 - `[TDB77]` *But them that are without God judgeth. Therefore put away from among y* → **A pua lamah a omte Pasian in thu a khen ding hi. Tua a gilopa note lak**
 
 ---
@@ -247,15 +247,15 @@ From *Khanggui* (lines 458–481), the plurality system is strict:
 
 | Context | Marker | Example | Translation | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| 3rd person pl. | **uh** | `A pai uh hi.` | They go. | `uh` marks "them" (2+ people) |
+| 3rd person pl. | **uh** | `A pai-te hi.` | They go. | `uh` marks "them" (2+ people) |
 | 1st person incl. | **i** | `I pai hi.` | We (all) go. | NO `uh` needed! |
 | 1st person excl. | **ko** | `Ko pai hi.` | We (not you) go. | |
-| Mixed reference | context | `Amaute sang ah pai uh hi.` | They went to school. | `uh` for 3rd person pl. |
+| Mixed reference | context | `Amaute sang ah pai-te hi.` | They went to school. | `uh` for 3rd person pl. |
 
 ### ⚠️ Critical Rule
 > **NEVER combine `uh` with `i` (1st person inclusive).**
 > - ✅ `I pai hi.` — We go.
-> - ❌ `I pai uh hi.` — **WRONG**
+> - ❌ `I pai-te hi.` — **WRONG**
 
 ### Khanggui Explanation (lines 474–481)
 > `"i", "ei" I zatna mun ah, "uh" cih zat kul nawnlo hi.`
@@ -465,7 +465,7 @@ These connectors drive narrative flow throughout Genesis and Exodus.
 | :--- | :--- | :--- |
 | `[Verb] leh` | If [action] | `Lim takin hih lecin, na'ng hong kisang lo ding ahi hiam?` *(GEN 4:7)* |
 | `[Verb] kei leh` | If [action] not | `Amaute in hih lim nihte nangawn um loin na thu hong thudon kei leh...` *(EXO 4:9)* |
-| `[Verb] ciangun` | When [action] happens | `A nek khit phetun amaute gel in khua phawk uh a...` *(GEN 3:7)* |
+| `[Verb] ciangun` | When [action] happens | `A nek khit phetun amaute gel in khua phawk-te a...` *(GEN 3:7)* |
 | `[Verb] khit ciangin` | After [action] is done | `Moses a khan' khit ciangin, ama' mipihte' kiangah pai-in...` *(EXO 2:11)* |
 
 ---
@@ -549,7 +549,7 @@ These connectors drive narrative flow throughout Genesis and Exodus.
 | Pattern | Example | Translation |
 | :--- | :--- | :--- |
 | `hoih mahmah` | `Pasian in a bawlsate khempeuh mu hi, en un, hoih mahmah hi.` | God saw everything, behold, it was very good. *(GEN 1:31)* |
-| `nakpi takin` | `...nakpi takin khang uh hi` | They multiplied exceedingly. *(EXO 1:7)* |
+| `nakpi takin` | `...nakpi takin khang-te hi` | They multiplied exceedingly. *(EXO 1:7)* |
 | `tampi pha` | `Ci pha-in tampi pha un.` | Be fruitful and multiply. *(GEN 1:22)* |
 | `tawntung` | `...tawntung a, tua ahih manin keimah in khang tawntunga phawk ding ka hi hi.` | ...forever, this is my memorial to all generations. *(EXO 3:15)* |
 | `takin` | `Lim takin hih lecin...` | If you do well... *(GEN 4:7)* |
@@ -697,7 +697,7 @@ ki-laih in khang = learn through interaction
 
 ### 6. `a...uh` — 3rd Person Plural Agreement
 ```
-sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna uh tawh pilsin uh hi
+sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna-te tawh pilsin-te hi
 = students learn through engaging their curiosity in their own environment
 ```
 - Subject: `sangnaupangte in` (students + ergative)
@@ -818,7 +818,7 @@ Mawtaw khat a that hi. = A vehicle was destroyed.
 
 ### 8. Shelter/refuge idiom
 ```
-A buuk sungah a kikhum uh hi. = They took shelter inside.
+A buuk sungah a kikhum-te hi. = They took shelter inside.
 (buuk = nest/shelter, ki-khum = gather/hide together)
 ```
 
@@ -1239,8 +1239,8 @@ Zolai (Tedim) distinguishes between formal (biblical, academic, public speech) a
 
 | Register | Pattern | Example |
 | :--- | :--- | :--- |
-| **Formal** | `uh hi` (3rd person) | `A pai uh hi.` (They go.) |
-| **Informal** | `uh ve` | `A pai uh ve.` (They're going.) |
+| **Formal** | `uh hi` (3rd person) | `A pai-te hi.` (They go.) |
+| **Informal** | `uh ve` | `A pai-te ve.` (They're going.) |
 | **Slang** | `ote` / `ote hi` | `Keite' ote...` (Us guys...) |
 
 ---
@@ -1376,7 +1376,7 @@ When a pronoun is the subject of a transitive verb (doing an action to an object
 1. **Never skip the agreement marker.** `Amah pai hi` is wrong; it must be `Amah a pai hi.`
 2. **Inclusive "We" Rule:** `i` never takes the plural suffix `uh`.
    - ✅ `I pai hi.`
-   - ❌ `I pai uh hi.`
+   - ❌ `I pai-te hi.`
 3. **Third Person "A":** Use `a` for both "he/she" and "it". Zolai does not distinguish gender in pronouns.
 
 ---
@@ -1393,7 +1393,7 @@ When a pronoun is the subject of a transitive verb (doing an action to an object
 
 | Pronoun | Function | Correct Use | Wrong |
 |---|---|---|---|
-| `i` | Subject prefix "we" | `I pai hi` (We went) | `I pai uh hi` ❌ |
+| `i` | Subject prefix "we" | `I pai hi` (We went) | `I pai-te hi` ❌ |
 | `eite` | Emphatic / object "us/we" | `Pasian in eite hong it` (God loves us) | `kei te hong it` ❌ |
 | `kei te` | NOT "we" — emphatic singular only | `kei teek ka hi` (it is only me) | `kei te pai hi` for "we went" ❌ |
 

@@ -33,11 +33,11 @@
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
 ### v2
-**EN:** And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a ram.
+**EN:** And Balak did as Balaam had spoken; and Balak and Balaam offered on every altar a bullock and a gam.
 
-**TDB77:** Balaam’ gen bangin Balak in hih hi; Balak leh Balaam in biakna tau simah bawngtal khat leh tuutal khat ciat pia uh hi.
+**TDB77:** Balaam’ gen bangin Balak in hih hi; Balak leh Balaam in biakna tau simah bawngtal khat leh tuutal khat ciat pia-te hi.
 
-**ZVS:** Balaam' gen bangin Balak gamta a, Balak leh Balaam in biakna tau simah bawngtal khat leh tuutal khat ciat a pia uh hi.
+**ZVS:** Balaam' gen bangin Balak gamta a, Balak leh Balaam in biakna tau simah bawngtal khat leh tuutal khat ciat a pia-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -51,7 +51,7 @@
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v4
-**EN:** And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a ram.
+**EN:** And God met Balaam: and he said unto him, I have prepared seven altars, and I have offered upon every altar a bullock and a gam.
 
 **TDB77:** Pasian in Balaam na dawn hi; Balaam in ama kiangah, “Biakna tau sagih ka bawl khin a, baikna tau simah bawngtal khat leh tuutal khat ciat ka pia hi,” a ci hi.
 
@@ -71,9 +71,9 @@
 ### v6
 **EN:** And he returned unto him, and, lo, he stood by his burnt sacrifice, he, and all the princes of Moab.
 
-**TDB77:** Ama kiangah a ciahkik ciangin amah leh Moab uliante khempeuh a meihal biakna gei-ah na ding uh hi.
+**TDB77:** Ama kiangah a ciahkik ciangin amah leh Moab uliante khempeuh a meihal biakna gei-ah na ding-te hi.
 
-**ZVS:** Balak kiangah a ciahkik ciangin amah leh Moab uliante khempeuh ama meihal biakna gei-ah na ding uh hi.
+**ZVS:** Balak kiangah a ciahkik ciangin amah leh Moab uliante khempeuh ama meihal biakna gei-ah na ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -139,7 +139,7 @@
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 
 ### v14
-**EN:** And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a ram on every altar.
+**EN:** And he brought him into the field of Zophim, to the top of Pisgah, and built seven altars, and offered a bullock and a gam on every altar.
 
 **TDB77:** Tua ciangin amah in Zofim gamlak, Pisgah mual dawnah amah paipihin, biakna tau sagih bawl a, biakna tau simah bawngtal khat leh tuutal khat ciat a pia hi.
 
@@ -166,9 +166,9 @@
 ### v17
 **EN:** And when he came to him, behold, he stood by his burnt offering, and the princes of Moab with him. And Balak said unto him, What hath the
 
-**TDB77:** Ama kiangah a pai ciangin a meihal biakna gei-ah amah na ding a, Moab uliante tawh na om uh hi. Balak in ama kiangah, “Topa in bang hong gen ahi hiam?” a ci hi.
+**TDB77:** Ama kiangah a pai ciangin a meihal biakna gei-ah amah na ding a, Moab uliante tawh na om-te hi. Balak in ama kiangah, “Topa in bang hong gen ahi hiam?” a ci hi.
 
-**ZVS:** Balak kiangah a paikik ciangin a meihal biakna gei-ah amah na ding a, Moab uliante tawh na om uh hi. Balak in ama kiangah, “{ Topa } in bang hong gen ahi hiam?” a ci hi.
+**ZVS:** Balak kiangah a paikik ciangin a meihal biakna gei-ah amah na ding a, Moab uliante tawh na om-te hi. Balak in ama kiangah, “{ Topa } in bang hong gen ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -209,9 +209,9 @@
 ### v22
 **EN:** God brought them out of Egypt; he hath as it were the strength of an unicorn.
 
-**TDB77:** Pasian in Izipt panin amaute paikhiatpih hi; amaute in gamsial tha bang hatna nei uh hi.
+**TDB77:** Pasian in Izipt panin amaute paikhiatpih hi; amaute in gamsial tha bang hatna nei-te hi.
 
-**ZVS:** Pasian in Egypt panin amaute paikhiatpih a, amaute in gamsial tha bang hatna nei uh hi.
+**ZVS:** Pasian in Egypt panin amaute paikhiatpih a, amaute in gamsial tha bang hatna nei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -275,7 +275,7 @@
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
 ### v30
-**EN:** And Balak did as Balaam had said, and offered a bullock and a ram on every altar.
+**EN:** And Balak did as Balaam had said, and offered a bullock and a gam on every altar.
 
 **TDB77:** Balaam’ cih bangin Balak in hih a, biakna tau simah bawngtal khat leh tuutal khat ciat pia hi.
 

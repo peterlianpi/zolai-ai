@@ -24,36 +24,36 @@
 ### v1
 **EN:** And all the congregation of the children of Israel journeyed from the wilderness of Sin, after their journeys, according to the commandment of the
 
-**TDB77:** Topa’ thupiak bangin Israel mihon khempeuh Sin gamlak panin giahphual a ban banin sat uh a, Refidim-ah phual sat uh hi; ahih hangin mite’ dawn ding tui om lo hi.
+**TDB77:** Topa’ thupiak bangin Israel mihon khempeuh Sin gamlak panin giahphual a ban banin sat-te a, Refidim-ah phual sat-te hi; ahih hangin mite’ dawn ding tui om lo hi.
 
-**ZVS:** { Topa' } thupiak bangin Israel mihon khempeuh Sin sehnel gam panin giahphual a ban banin sat uh a, Refidim-ah phual sat uh hi. Ahih hangin mite' dawn ding tui omlo hi.
+**ZVS:** { Topa' } thupiak bangin Israel mihon khempeuh Sin sehnel gam panin giahphual a ban banin sat-te a, Refidim-ah phual sat-te hi. Ahih hangin mite' dawn ding tui omlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v2
 **EN:** Wherefore the people did chide with Moses, and said, Give us water that we may drink. And Moses said unto them, Why chide ye with me? wherefore do ye tempt the
 
-**TDB77:** Tua ahih ciangin mite in Moses’ mawhna zong uh a, “Tui dawn ding hong pia in,” ci uh hi. Moses in amaute' kiangah, “Bang hangin kei tungah mawhna hong zong na hi uh hiam? Bang hangin Topa ze-et na hi uh hiam?” ci hi.
+**TDB77:** Tua ahih ciangin mite in Moses’ mawhna zong-te a, “Tui dawn ding hong pia in,” ci-te hi. Moses in amaute' kiangah, “Bang hangin kei tungah mawhna hong zong na hi-te hiam? Bang hangin Topa ze-et na hi-te hiam?” ci hi.
 
-**ZVS:** Tua ahih ciangin mite in Moses' tungah mawhna zong uh a, “Tui dawn ding hong pia in,” ci uh hi. Moses in amaute kiangah, “Bang hangin kei' tungah mawhna hong zong na hi uh hiam? Bang hangin { Topa } ze-et na hi uh hiam?” a ci hi.
+**ZVS:** Tua ahih ciangin mite in Moses' tungah mawhna zong-te a, “Tui dawn ding hong pia in,” ci-te hi. Moses in amaute kiangah, “Bang hangin kei' tungah mawhna hong zong na hi-te hiam? Bang hangin { Topa } ze-et na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And the people thirsted there for water; and the people murmured against Moses, and said, Wherefore is this that thou hast brought us up out of Egypt, to kill us and our children and our cattle with thirst?
 
-**TDB77:** Ahih hangin tua mun-ah tui duhin mite dangtak uh a, Moses tungah mite phun-in, “Kote leh ka tate uh leh ka ganhingte uh dangtakin a si dingin bang hangin Izipt panin kote hong paipih to na hi hiam?” ci uh hi.
+**TDB77:** Ahih hangin tua mun-ah tui duhin mite dangtak-te a, Moses tungah mite phun-in, “Kote leh ka tate-te leh ka ganhingte-te dangtakin a si dingin bang hangin Izipt panin kote hong paipih to na hi hiam?” ci-te hi.
 
-**ZVS:** Ahi zongin tua munah tui duhin mite dangtak uh a, Moses' tungah mite phunin, “Kote leh ka tate uh leh ka ganhingte uh dangtakin a si dingin bang hangin Egypt panin hong paipih to na hi hiam?” a ci uh hi.
+**ZVS:** Ahi zongin tua munah tui duhin mite dangtak-te a, Moses' tungah mite phunin, “Kote leh ka tate-te leh ka ganhingte-te dangtakin a si dingin bang hangin Egypt panin hong paipih to na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v4
 **EN:** And Moses cried unto the
 
-**TDB77:** Tua ahih ciangin Topa' tungah Moses kiko a, “Hih mite bang cih ding ka hi hiam? Suang tawh kei hong deeng dingin amaute kithawi uh hi,” a ci hi.
+**TDB77:** Tua ahih ciangin Topa' tungah Moses kiko a, “Hih mite bang cih ding ka hi hiam? Suang tawh kei hong deeng dingin amaute kithawi-te hi,” a ci hi.
 
-**ZVS:** Tua ahih ciangin { Topa' } tungah Moses kiko a, “Hih mite bang cih ding ka hi hiam? Suang tawh kei hong deng dingin amaute kithawi uh hi,” a ci hi.
+**ZVS:** Tua ahih ciangin { Topa' } tungah Moses kiko a, “Hih mite bang cih ding ka hi hiam? Suang tawh kei hong deng dingin amaute kithawi-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -87,7 +87,7 @@
 ### v8
 **EN:** Then came Amalek, and fought with Israel in Rephidim.
 
-**TDB77:** Tua ciangin Amalek mite hong pai-in Israel mite tawh Refidim-ah kido uh hi.
+**TDB77:** Tua ciangin Amalek mite hong pai-in Israel mite tawh Refidim-ah kido-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -103,9 +103,9 @@
 ### v10
 **EN:** So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill.
 
-**TDB77:** Tua ahih bangin Joshua gamta a, Amalekte tawh kido uh hi, Moses, Aaron leh Hurte mual dawn ah paito uh hi.
+**TDB77:** Tua ahih bangin Joshua gamta a, Amalekte tawh kido-te hi, Moses, Aaron leh Hurte mual dawn ah paito-te hi.
 
-**ZVS:** Tua ahih ciangin Moses in ama tungah a gen bangin Joshua gamta a, Amalek mite tawh kido uh hi. Moses, Aaron, leh Hur-te mual dawnah paito uh hi.
+**ZVS:** Tua ahih ciangin Moses in ama tungah a gen bangin Joshua gamta a, Amalek mite tawh kido-te hi. Moses, Aaron, leh Hur-te mual dawnah paito-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -119,9 +119,9 @@
 ### v12
 **EN:** But Moses' hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun.
 
-**TDB77:** Ahih hangin Moses a khut kham hi; tua ahih ciangin amaute in suangtum khat la-in ama' nuai-ah koih uh a, tua tungah amah tu a, Aaron leh Hur in a pang khat tuak panin ama' khutte len uh hi; tua ahih ciangin nitum mateng ama' khutte kip hi.
+**TDB77:** Ahih hangin Moses a khut kham hi; tua ahih ciangin amaute in suangtum khat la-in ama' nuai-ah koih-te a, tua tungah amah tu a, Aaron leh Hur in a pang khat tuak panin ama' khutte len-te hi; tua ahih ciangin nitum mateng ama' khutte kip hi.
 
-**ZVS:** Ahih hangin Moses a khut kham hi. Tua ahih ciangin amaute in suangtum khat la-in ama nuai-ah koih uh a, tua suang tungah amah tu a, Aaron leh Hur in a pang khat tuak panin ama khutte len uh hi. Tua ahih ciangin nitum mateng ama khutte kip hi.
+**ZVS:** Ahih hangin Moses a khut kham hi. Tua ahih ciangin amaute in suangtum khat la-in ama nuai-ah koih-te a, tua suang tungah amah tu a, Aaron leh Hur in a pang khat tuak panin ama khutte len-te hi. Tua ahih ciangin nitum mateng ama khutte kip hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

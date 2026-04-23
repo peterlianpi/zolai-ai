@@ -27,7 +27,7 @@
 
 **TDB77:** Kulh kiciang khinin, kongkhakte ka bulh khin a, kongcingte, lasate, leh Levi mite a kiseh khit ciangin,
 
-**ZVS:** Kulh kiciang khinin, kongkhakte ka bulh khin uh a, kongcingte, lasate, leh Levi mite a kiseh khit ciangin,
+**ZVS:** Kulh kiciang khinin, kongkhakte ka bulh khin-te a, kongcingte, lasate, leh Levi mite a kiseh khit ciangin,
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -70,7 +70,7 @@
 ### v7
 **EN:** Who came with Zerubbabel, Jeshua, Nehemiah, Azariah, Raamiah, Nahamani, Mordecai, Bilshan, Mispar, Bigvai, Nehum, Baanah. The number, I say, of the men of the people of Israel was this;
 
-**TDB77:** Babylon kumpipa Nebukhadnezzar in a zawhna gam panin salin a lak mite sung panin hih mite pen Zerubbabel, Jeshua, Nehemiah, Mordekai, Bilshan, Mispereth, Bigvai, Nehum, leh Baanah-te' makaihna tawh Jerusalem leh Judah gamsung amau khua ciatah a hong ciahkik ahi uh hi. Israel sung panin mi a phazah:
+**TDB77:** Babylon kumpipa Nebukhadnezzar in a zawhna gam panin salin a lak mite sung panin hih mite pen Zerubbabel, Jeshua, Nehemiah, Mordekai, Bilshan, Mispereth, Bigvai, Nehum, leh Baanah-te' makaihna tawh Jerusalem leh Judah gamsung amau khua ciatah a hong ciahkik ahi-te hi. Israel sung panin mi a phazah:
 
 **Grammar:** plural: uh marker
 
@@ -319,9 +319,9 @@
 ### v42
 **EN:** The children of Harim, a thousand and seventeen.
 
-**TDB77:** Harim’ suante mi tul khat leh sawm-le-sagih ahi uh hi.
+**TDB77:** Harim’ suante mi tul khat leh sawm-le-sagih ahi-te hi.
 
-**ZVS:** Harim suante — mi tul khat sawmlesagih ahi uh hi.
+**ZVS:** Harim suante — mi tul khat sawmlesagih ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -342,9 +342,9 @@
 ### v45
 **EN:** The porters: the children of Shallum, the children of Ater, the children of Talmon, the children of Akkub, the children of Hatita, the children of Shobai, an hundred thirty and eight.
 
-**TDB77:** Kongcingte nam sung panin: Shallum’ suante, Ater’ suante, Talmon’ suante, Akkub’ suante, Hatita’ suante leh Shobai’ suante mi za khat leh sawmthum-le-giat ahi uh hi.
+**TDB77:** Kongcingte nam sung panin: Shallum’ suante, Ater’ suante, Talmon’ suante, Akkub’ suante, Hatita’ suante leh Shobai’ suante mi za khat leh sawmthum-le-giat ahi-te hi.
 
-**ZVS:** Kongcingte nam sung panin Shallum suante, Ater suante, Talmon suante, Akkub suante, Hatita suante, leh Shobai suante — mi za khat sawmthumgiat ahi uh hi.
+**ZVS:** Kongcingte nam sung panin Shallum suante, Ater suante, Talmon suante, Akkub suante, Hatita suante, leh Shobai suante — mi za khat sawmthumgiat ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -421,9 +421,9 @@
 ### v56
 **EN:** The children of Neziah, the children of Hatipha.
 
-**TDB77:** Neziah’ suante leh Harifa’ suante ahi uh hi.
+**TDB77:** Neziah’ suante leh Harifa’ suante ahi-te hi.
 
-**ZVS:** Neziah suante leh Hatifa suante ahi uh hi.
+**ZVS:** Neziah suante leh Hatifa suante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -444,18 +444,18 @@
 ### v59
 **EN:** The children of Shephatiah, the children of Hattil, the children of Pochereth of Zebaim, the children of Amon.
 
-**TDB77:** Shefatiah’ suante, Hattil’ suante, Pokhereth-hazzebaim’ suante, leh Amon’ suante ahi uh hi.
+**TDB77:** Shefatiah’ suante, Hattil’ suante, Pokhereth-hazzebaim’ suante, leh Amon’ suante ahi-te hi.
 
-**ZVS:** Shefatiah suante, Hattil suante, Pokherethhazzebaim suante, leh Amon suante ahi uh hi.
+**ZVS:** Shefatiah suante, Hattil suante, Pokherethhazzebaim suante, leh Amon suante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v60
 **EN:** All the Nethinims, and the children of Solomon's servants, were three hundred ninety and two.
 
-**TDB77:** Biakinn nasemte leh Solomon’ nasemte’ suan leh khakte mi a vekpi-in za thum leh sawmkua-le-nih pha uh hi.
+**TDB77:** Biakinn nasemte leh Solomon’ nasemte’ suan leh khakte mi a vekpi-in za thum leh sawmkua-le-nih pha-te hi.
 
-**ZVS:** Biakinn nasemte leh Solomon' nasemte' suanlekhakte mi a vekpi-in za thum sawmkuanih a pha uh hi.
+**ZVS:** Biakinn nasemte leh Solomon' nasemte' suanlekhakte mi a vekpi-in za thum sawmkuanih a pha-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -471,36 +471,36 @@
 ### v62
 **EN:** The children of Delaiah, the children of Tobiah, the children of Nekoda, six hundred forty and two.
 
-**TDB77:** Delaiah’ suante, Tobiah’ suante, Nekoda’ suante, mi za guk leh sawmli-le-nih ahi uh hi.
+**TDB77:** Delaiah’ suante, Tobiah’ suante, Nekoda’ suante, mi za guk leh sawmli-le-nih ahi-te hi.
 
-**ZVS:** Delaiah suante, Tobiah suante, leh Nekoda suante, mi za guk sawmlinih ahi uh hi.
+**ZVS:** Delaiah suante, Tobiah suante, leh Nekoda suante, mi za guk sawmlinih ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v63
 **EN:** And of the priests: the children of Habaiah, the children of Koz, the children of Barzillai, which took one of the daughters of Barzillai the Gileadite to wife, and was called after their name.
 
-**TDB77:** Siampite’ sung panin zong: Hobaiah’ suante, Hakkoz’ suante, Barzillai’ suante (amah in Gilead mi Barzillai’ tanute khat ten’pihin tua min tawh a kilo pah) ahi uh hi.
+**TDB77:** Siampite’ sung panin zong: Hobaiah’ suante, Hakkoz’ suante, Barzillai’ suante (amah in Gilead mi Barzillai’ tanute khat ten’pihin tua min tawh a kilo pah) ahi-te hi.
 
-**ZVS:** Siampite' sung panin zong: Hobaiah suante, Hakkoz suante, Barzilai suante (amah in Gilead mi Barzilai' tanute khat ten'pihin tua min tawh a kilo pah) ahi uh hi.
+**ZVS:** Siampite' sung panin zong: Hobaiah suante, Hakkoz suante, Barzilai suante (amah in Gilead mi Barzilai' tanute khat ten'pihin tua min tawh a kilo pah) ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v64
 **EN:** These sought their register among those that were reckoned by genealogy, but it was not found: therefore were they, as polluted, put from the priesthood.
 
-**TDB77:** Hih mite in khang ciamtehna sungah a kiciamteh mite lakah amau min a zon’ uh hangin mu lo uh ahih manin amaute a siang loin seh uh a, siampi nasep semsak thei lo uh hi;
+**TDB77:** Hih mite in khang ciamtehna sungah a kiciamteh mite lakah amau min a zon’ uh hangin mu lo-te ahih manin amaute a siang loin seh-te a, siampi nasep semsak thei lo-te hi;
 
-**ZVS:** Hih mite in khang ciamtehna sungah a kiciamteh mite lakah amau' min a zon' uh hangin mulo uh ahih manin amaute a siangloin seh uh a, siampi nasep semsak theilo uh hi.
+**ZVS:** Hih mite in khang ciamtehna sungah a kiciamteh mite lakah amau' min a zon' uh hangin mulo-te ahih manin amaute a siangloin seh-te a, siampi nasep semsak theilo-te hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v65
 **EN:** And the Tirshatha said unto them, that they should not eat of the most holy things, till there stood up a priest with Urim and Thummim.
 
-**TDB77:** tua hi a, Urim leh Thummim aisanna tawh aisan ding siampi khat a om matengin amaute in biakna an siangthopente a nek loh nading uh gam ukpa in gen hi.
+**TDB77:** tua hi a, Urim leh Thummim aisanna tawh aisan ding siampi khat a om matengin amaute in biakna an siangthopente a nek loh nading-te gam ukpa in gen hi.
 
-**ZVS:** Tua hi a, Urim leh Thummim aisanna tawh ai san ding siampi khat a om matengin amaute in biakna an siangtho pente a neklohna ding uh gam ukpa in a gen hi.
+**ZVS:** Tua hi a, Urim leh Thummim aisanna tawh ai san ding siampi khat a om matengin amaute in biakna an siangtho pente a neklohna ding-te gam ukpa in a gen hi.
 
 ### v66
 **EN:** The whole congregation together was forty and two thousand three hundred and threescore,
@@ -514,41 +514,41 @@
 ### v67
 **EN:** Beside their manservants and their maidservants, of whom there were seven thousand three hundred thirty and seven: and they had two hundred forty and five singing men and singing women.
 
-**TDB77:** amaute’ nasem numei leh pasal tul sagih leh za thum leh sawmthum-le-sagihte kisim lo lai hi; tua banah amaute in lasa numei leh pasal za nih leh sawmli-le-nga nei uh hi.
+**TDB77:** amaute’ nasem numei leh pasal tul sagih leh za thum leh sawmthum-le-sagihte kisim lo lai hi; tua banah amaute in lasa numei leh pasal za nih leh sawmli-le-nga nei-te hi.
 
-**ZVS:** amaute' nasem numei leh pasal tul sagih zathum sawmthumsagihte kisimlo lai hi. Tua banah amaute in lasa numei leh pasal za nih sawmlinga nei uh hi.
+**ZVS:** amaute' nasem numei leh pasal tul sagih zathum sawmthumsagihte kisimlo lai hi. Tua banah amaute in lasa numei leh pasal za nih sawmlinga nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v68
 **EN:** Their horses, seven hundred thirty and six: their mules, two hundred forty and five:
 
-**TDB77:** Amau’ sakol uh za sagih leh sawmthum-le-guk, a la-sakol uh za nih leh sawmli-le-nga,
+**TDB77:** Amau’ sakol-te za sagih leh sawmthum-le-guk, a la-sakol-te za nih leh sawmli-le-nga,
 
-**ZVS:** Amau' sakol za sagih sawmthum guk, a la-sakol uh za nih sawmli nga,
+**ZVS:** Amau' sakol za sagih sawmthum guk, a la-sakol-te za nih sawmli nga,
 
 ### v69
 **EN:** Their camels, four hundred thirty and five: six thousand seven hundred and twenty asses.
 
-**TDB77:** a kalaoh uh za li leh sawmthum-le-nga, leh a late uh tul guk za sagih leh sawmnih pha hi.
+**TDB77:** a kalaoh-te za li leh sawmthum-le-nga, leh a late-te tul guk za sagih leh sawmnih pha hi.
 
-**ZVS:** a kalaoh uh za li sawmthum nga, leh a late uh tul guk za sagih sawmnih a pha hi.
+**ZVS:** a kalaoh-te za li sawmthum nga, leh a late-te tul guk za sagih sawmnih a pha hi.
 
 ### v70
 **EN:** And some of the chief of the fathers gave unto the work. The Tirshatha gave to the treasure a thousand drams of gold, fifty basins, five hundred and thirty priests' garments.
 
-**TDB77:** Beh lutang mi pawl khat in nasep nadingin nate pia uh hi. Gam ukpa in vanmanpha koihna ah kham darik tul khat, kuang-uk sawmnga, leh siampipuan za nga leh sawmthum pia hi.
+**TDB77:** Beh lutang mi pawl khat in nasep nadingin nate pia-te hi. Gam ukpa in vanmanpha koihna ah kham darik tul khat, kuang-uk sawmnga, leh siampipuan za nga leh sawmthum pia hi.
 
-**ZVS:** Beh lutang mi pawlkhat in nasepna dingin nate pia uh hi. Gam ukpa in vanmanpha koihna-ah kham darik tul khat, kuang-uk sawmnga, leh siampipuan za nga sawmthum a pia hi.
+**ZVS:** Beh lutang mi pawlkhat in nasepna dingin nate pia-te hi. Gam ukpa in vanmanpha koihna-ah kham darik tul khat, kuang-uk sawmnga, leh siampipuan za nga sawmthum a pia hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v71
 **EN:** And some of the chief of the fathers gave to the treasure of the work twenty thousand drams of gold, and two thousand and two hundred pound of silver.
 
-**TDB77:** Tua ciangin beh lutang pawl khatte in vanmanpha koihna ah kham darik tul sawmnih leh ngun mina tul nih za nih pia uh hi.
+**TDB77:** Tua ciangin beh lutang pawl khatte in vanmanpha koihna ah kham darik tul sawmnih leh ngun mina tul nih za nih pia-te hi.
 
-**ZVS:** Tua ciangin beh lutang pawlkhatte in vanmanpha koihna-ah kham darik tul sawmnih leh ngun mina tul nih za nih a pia uh hi.
+**ZVS:** Tua ciangin beh lutang pawlkhatte in vanmanpha koihna-ah kham darik tul sawmnih leh ngun mina tul nih za nih a pia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -564,9 +564,9 @@
 ### v73
 **EN:** So the priests, and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities; and when the seventh month came, the children of Israel were in their cities.
 
-**TDB77:** Tua ciangin siampite, Levi mite, leh mi pawl khatte Jerusalem khua leh a kiim-ah teeng uh a, kongcingte, lasate, biakinn nasemte, leh Israel mi dangte amau’ khuapi ciatah teeng uh hi. Kha sagihna hong cin’ ciangin Israel mite amau’ khuapi ciatah teeng khin uh hi.
+**TDB77:** Tua ciangin siampite, Levi mite, leh mi pawl khatte Jerusalem khua leh a kiim-ah teeng-te a, kongcingte, lasate, biakinn nasemte, leh Israel mi dangte amau’ khuapi ciatah teeng-te hi. Kha sagihna hong cin’ ciangin Israel mite amau’ khuapi ciatah teeng khin-te hi.
 
-**ZVS:** Tua ciangin siampite, Levi mite, leh mi pawlkhatte Jerusalem khua leh a kiimah teng uh hi; kongcingte, lasate, biakinn nasemte, leh Israel midangte amau' khuapi ciatah a teng uh hi.
+**ZVS:** Tua ciangin siampite, Levi mite, leh mi pawlkhatte Jerusalem khua leh a kiimah teng-te hi; kongcingte, lasate, biakinn nasemte, leh Israel midangte amau' khuapi ciatah a teng-te hi.
 
 **Grammar:** sequence: then/therefore | completed: already done | reciprocal: ki- prefix | plural: uh marker
 

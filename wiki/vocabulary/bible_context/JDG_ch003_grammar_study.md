@@ -49,54 +49,54 @@
 ### v4
 **EN:** And they were to prove Israel by them, to know whether they would hearken unto the commandments of the
 
-**TDB77:** Moses tung tawnin a pu a pate uh a thupiak, Topa’ thupiaknate Israelte in a mang uh hiam cih a kitheih nadingin amaute pen Israelte a kize-etna hi.
+**TDB77:** Moses tung tawnin a pu a pate-te a thupiak, Topa’ thupiaknate Israelte in a mang-te hiam cih a kitheih nadingin amaute pen Israelte a kize-etna hi.
 
-**ZVS:** Moses tung tawnin a pu a pate uh a thupiak, { Topa' } thupiaknate Israel-te in a mang uh hiam, cih a kitheihna dingin amaute pen Israel-te a kize-etna ahi hi.
+**ZVS:** Moses tung tawnin a pu a pate-te a thupiak, { Topa' } thupiaknate Israel-te in a mang-te hiam, cih a kitheihna dingin amaute pen Israel-te a kize-etna ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And the children of Israel dwelt among the Canaanites, Hittites, and Amorites, and Perizzites, and Hivites, and Jebusites:
 
-**TDB77:** Tua ahih ciangin Kanaan mite, Hit mite, Amor mite, Perez mite, Hiv mite, leh Jebus mite lakah Israel mite teeng uh hi;
+**TDB77:** Tua ahih ciangin Kanaan mite, Hit mite, Amor mite, Perez mite, Hiv mite, leh Jebus mite lakah Israel mite teeng-te hi;
 
-**ZVS:** Tua ahih ciangin Kanaan mite, Hit mite, Amor mite, Perez mite, Hiv mite, leh Jebus mite' lakah Israel mite teng uh hi.
+**ZVS:** Tua ahih ciangin Kanaan mite, Hit mite, Amor mite, Perez mite, Hiv mite, leh Jebus mite' lakah Israel mite teng-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v6
 **EN:** And they took their daughters to be their wives, and gave their daughters to their sons, and served their gods.
 
-**TDB77:** amaute in a zi dingun a tanute uh la a, amaute tanute a tapate uh tungah pia uh hi; amaute in a pasiante uh na sem uh hi.
+**TDB77:** amaute in a zi dingun a tanute-te la a, amaute tanute a tapate-te tungah pia-te hi; amaute in a pasiante-te na sem-te hi.
 
-**ZVS:** Amaute in a zi dingun a tanute uh la uh a, amau' tanute a tapate uh tungah a pia uh hi. Amaute in a pasian-te uh a bia uh hi.
+**ZVS:** Amaute in a zi dingun a tanute-te la-te a, amau' tanute a tapate-te tungah a pia-te hi. Amaute in a pasian-te-te a bia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** And the children of Israel did evil in the sight of the
 
-**TDB77:** Topa’ muhna-ah Israel mite a sia gamta-in, Topa amau’ Pasian mangngilh uh a, Baalte leh Asheroth-te’ na sem uh hi.
+**TDB77:** Topa’ muhna-ah Israel mite a sia gamta-in, Topa amau’ Pasian mangngilh-te a, Baalte leh Asheroth-te’ na sem-te hi.
 
-**ZVS:** { Topa' } muhna-ah Israel-te a sia gamta-in, { Topa } amau' Pasian mangngilh uh a, Baal-te leh Asherah milimte a bia uh hi.
+**ZVS:** { Topa' } muhna-ah Israel-te a sia gamta-in, { Topa } amau' Pasian mangngilh-te a, Baal-te leh Asherah milimte a bia-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v8
 **EN:** Therefore the anger of the
 
-**TDB77:** Tua ahih ciangin Israelte tungah Topa’ hehna so a, amah in Mesopotamia kumpipa Kushan-rish-athaim tungah amaute zuak hi; Israel mite in Kushan-rish-athaim’ na kum giat sem uh hi.
+**TDB77:** Tua ahih ciangin Israelte tungah Topa’ hehna so a, amah in Mesopotamia kumpipa Kushan-rish-athaim tungah amaute zuak hi; Israel mite in Kushan-rish-athaim’ na kum giat sem-te hi.
 
-**ZVS:** Tua ahih ciangin Israel-te tungah { Topa } sinso a, amah in Mesopotamia kumpipa Kushanrishathaim tungah amaute a pia hi. Israel mite in Kushanrishathaim' na kum giat sung a sem uh hi.
+**ZVS:** Tua ahih ciangin Israel-te tungah { Topa } sinso a, amah in Mesopotamia kumpipa Kushanrishathaim tungah amaute a pia hi. Israel mite in Kushanrishathaim' na kum giat sung a sem-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v9
 **EN:** And when the children of Israel cried unto the
 
-**TDB77:** Ahih hangin Israel mite Topa tungah kiko uh a, Topa in Kaleb’ naupa Kenaz’ tapa Othniel, amaute a honkhiapa ahi honpa khat Israel mite adingin khangsak hi.
+**TDB77:** Ahih hangin Israel mite Topa tungah kiko-te a, Topa in Kaleb’ naupa Kenaz’ tapa Othniel, amaute a honkhiapa ahi honpa khat Israel mite adingin khangsak hi.
 
-**ZVS:** Ahih hangin { Topa' } tungah Israel mite kiko uh a, { Topa } in Kaleb' naupa Kenaz' tapa Othniel, amaute a honkhia dingin a khangsak hi.
+**ZVS:** Ahih hangin { Topa' } tungah Israel mite kiko-te a, { Topa } in Kaleb' naupa Kenaz' tapa Othniel, amaute a honkhia dingin a khangsak hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -121,36 +121,36 @@
 ### v12
 **EN:** And the children of Israel did evil again in the sight of the
 
-**TDB77:** Tua ciangin Topa muhna-ah Israel mite a sia gamta kik uh hi; tua ciangin Topa in Israelte lang khatah Moab kumpipa Eglon thahatsak hi; bang hang hiam cih leh Topa muhna-ah amaute a sia gamta uh hi.
+**TDB77:** Tua ciangin Topa muhna-ah Israel mite a sia gamta kik-te hi; tua ciangin Topa in Israelte lang khatah Moab kumpipa Eglon thahatsak hi; bang hang hiam cih leh Topa muhna-ah amaute a sia gamta-te hi.
 
-**ZVS:** Tua ciangin { Topa' } muhna-ah Israel-te a sia gamta kik uh ahih ciangin { Topa } in Israel-te' langkhatah Moab kumpipa Eglon thahatsak hi. Bang hang hiam cih leh { Topa' } muhna-ah amaute a sia gamta uh hi.
+**ZVS:** Tua ciangin { Topa' } muhna-ah Israel-te a sia gamta kik-te ahih ciangin { Topa } in Israel-te' langkhatah Moab kumpipa Eglon thahatsak hi. Bang hang hiam cih leh { Topa' } muhna-ah amaute a sia gamta-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And he gathered unto him the children of Ammon and Amalek, and went and smote Israel, and possessed the city of palm trees.
 
-**TDB77:** Eglon in Ammon mite leh Amalek mite ama kiangah khawm a, va kuan-in Israelte va zo hi; amaute in nisuh khuapi luah uh hi.
+**TDB77:** Eglon in Ammon mite leh Amalek mite ama kiangah khawm a, va kuan-in Israelte va zo hi; amaute in nisuh khuapi luah-te hi.
 
-**ZVS:** Eglon in Ammon mite leh Amalek mite ama kiangah khawm a, va kuanin Israel-te va zo hi. Amaute in nisuh khuapi a luah uh hi.
+**ZVS:** Eglon in Ammon mite leh Amalek mite ama kiangah khawm a, va kuanin Israel-te va zo hi. Amaute in nisuh khuapi a luah-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** So the children of Israel served Eglon the king of Moab eighteen years.
 
-**TDB77:** Israel mite in Moab kumpi Eglon’ na kum sawm leh kum giat sung sem uh hi.
+**TDB77:** Israel mite in Moab kumpi Eglon’ na kum sawm leh kum giat sung sem-te hi.
 
-**ZVS:** Israel mite in Moab kumpi Eglon' na kum sawmlegiat sung a sem uh hi.
+**ZVS:** Israel mite in Moab kumpi Eglon' na kum sawmlegiat sung a sem-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** But when the children of Israel cried unto the
 
-**TDB77:** Ahih hangin Topa tungah Israel mite a kiko uh ciangin, Topa in Benjamin mi, Gera tapa a veikhoi Ehud, amaute’ honpa dingin khangsak hi. Israel mite in ama tung tawnin Moab kumpipa Eglon tungah siah puak uh hi.
+**TDB77:** Ahih hangin Topa tungah Israel mite a kiko-te ciangin, Topa in Benjamin mi, Gera tapa a veikhoi Ehud, amaute’ honpa dingin khangsak hi. Israel mite in ama tung tawnin Moab kumpipa Eglon tungah siah puak-te hi.
 
-**ZVS:** Ahih hangin { Topa' } tungah Israel mite a kiko uh ciangin, { Topa } in Benjamin mi, Gera' tapa a veikhoi Ehud, amaute' honpa dingin a khangsak hi. Israel mite in ama tung tawnin Moab kumpipa Eglon tungah siah a puak uh hi.
+**ZVS:** Ahih hangin { Topa' } tungah Israel mite a kiko-te ciangin, { Topa } in Benjamin mi, Gera' tapa a veikhoi Ehud, amaute' honpa dingin a khangsak hi. Israel mite in ama tung tawnin Moab kumpipa Eglon tungah siah a puak-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -180,9 +180,9 @@
 ### v19
 **EN:** But he himself turned again from the quarries that were by Gilgal, and said, I have a secret errand unto thee, O king: who said, Keep silence. And all that stood by him went out from him.
 
-**TDB77:** Ahih hangin Gilgal kiang suang milimte omna panin amah kileh kikin, “Kumpipa aw, nang tungah gen ding thusim khat ka nei hi,” a ci hi. Tua ciangin amah in, “Gam dai un,” ci-in thu pia hi. Amah a cing mi khempeuh ama omna panin paikhia uh hi.
+**TDB77:** Ahih hangin Gilgal kiang suang milimte omna panin amah kileh kikin, “Kumpipa aw, nang tungah gen ding thusim khat ka nei hi,” a ci hi. Tua ciangin amah in, “Gam dai un,” ci-in thu pia hi. Amah a cing mi khempeuh ama omna panin paikhia-te hi.
 
-**ZVS:** Ahih hangin Gilgal kiang suang milimte omna panin amah kileh kikin, “Kumpipa aw, nang tungah gen ding thusim khat ka nei hi,” a ci hi. Tua ciangin amah in, “Gam dai un,” ci-in thu a pia hi. Amah a cing mi khempeuh ama omna panin paikhia uh hi.
+**ZVS:** Ahih hangin Gilgal kiang suang milimte omna panin amah kileh kikin, “Kumpipa aw, nang tungah gen ding thusim khat ka nei hi,” a ci hi. Tua ciangin amah in, “Gam dai un,” ci-in thu a pia hi. Amah a cing mi khempeuh ama omna panin paikhia-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -225,18 +225,18 @@
 ### v24
 **EN:** When he was gone out, his servants came; and when they saw that, behold, the doors of the parlour were locked, they said, Surely he covereth his feet in his summer chamber.
 
-**TDB77:** Amah a paikhiat khit ciangin nasemte hong pai hi; innkhum zang inndei kongkhakte a kikalh a muh uh ciangin amaute in, “Inn vot sunga inndei ah awng hawh hi-in teh,” ci in ngaihsun uh hi.
+**TDB77:** Amah a paikhiat khit ciangin nasemte hong pai hi; innkhum zang inndei kongkhakte a kikalh a muh-te ciangin amaute in, “Inn vot sunga inndei ah awng hawh hi-in teh,” ci in ngaihsun-te hi.
 
-**ZVS:** Amah a paikhiat khit ciangin nasemte hong pai hi. Innkhumzang inndei kongkhakte a kikalh a muh uh ciangin amaute in, “Inn vot sunga inndei-ah awnghawh hi in teh,” ci-in ngaihsun uh hi.
+**ZVS:** Amah a paikhiat khit ciangin nasemte hong pai hi. Innkhumzang inndei kongkhakte a kikalh a muh-te ciangin amaute in, “Inn vot sunga inndei-ah awnghawh hi in teh,” ci-in ngaihsun-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And they tarried till they were ashamed: and, behold, he opened not the doors of the parlour; therefore they took a key, and opened them: and, behold, their lord was fallen down dead on the earth.
 
-**TDB77:** A cih nading uh a theih loh zah dong uh ngak uh hi; ahih hangin innkhum zang inndei kongkhak amah in a hon’ loh veve ciangin, amaute in a tawhtang la-in hong uh hi; sual tungah a topa uh na si hi.
+**TDB77:** A cih nading-te a theih loh zah dong-te ngak-te hi; ahih hangin innkhum zang inndei kongkhak amah in a hon’ loh veve ciangin, amaute in a tawhtang la-in hong-te hi; sual tungah a topa-te na si hi.
 
-**ZVS:** A cihna ding uh a theihloh zah dong uh ngak uh hi. Ahih hangin innkhumzang inndei kongkhak amah in a hon' loh veve ciangin, amaute in a tawhtang la-in hong uh a, sual tungah a topa uh na si hi.
+**ZVS:** A cihna ding-te a theihloh zah dong-te ngak-te hi. Ahih hangin innkhumzang inndei kongkhak amah in a hon' loh veve ciangin, amaute in a tawhtang la-in hong-te a, sual tungah a topa-te na si hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -252,27 +252,27 @@
 ### v27
 **EN:** And it came to pass, when he was come, that he blew a trumpet in the mountain of Ephraim, and the children of Israel went down with him from the mount, and he before them.
 
-**TDB77:** Amah a tun’ ciangin Efraim mualtung gamah peengkul gingsak hi; mualtung gam panin Israel mite amah tawh paisuk uh a, amau’ lutangin amah nei uh hi.
+**TDB77:** Amah a tun’ ciangin Efraim mualtung gamah peengkul gingsak hi; mualtung gam panin Israel mite amah tawh paisuk-te a, amau’ lutangin amah nei-te hi.
 
-**ZVS:** Amah a tun' ciangin Efraim mualtung gamah peengkul a gingsak hi. Mualtung gam panin Israel mite amah tawh paisuk uh a, amau' lutangin Ehud a nei uh hi.
+**ZVS:** Amah a tun' ciangin Efraim mualtung gamah peengkul a gingsak hi. Mualtung gam panin Israel mite amah tawh paisuk-te a, amau' lutangin Ehud a nei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v28
 **EN:** And he said unto them, Follow after me: for the
 
-**TDB77:** Amah in amaute kiangah, “Ka nung hong zui un; bang hang hiam cih leh Topa in na gal uh Moab mite na khut sung uh ah hong pia zo hi,” a ci hi. Tua ahih ciangin ama nungah amaute paisuk uh a, Moab mite kiang panin Jordan ngahmunte la-in mi khat zong galkah sak lo uh hi.
+**TDB77:** Amah in amaute kiangah, “Ka nung hong zui un; bang hang hiam cih leh Topa in na gal-te Moab mite na khut sung-te ah hong pia zo hi,” a ci hi. Tua ahih ciangin ama nungah amaute paisuk-te a, Moab mite kiang panin Jordan ngahmunte la-in mi khat zong galkah sak lo-te hi.
 
-**ZVS:** Amah in amaute kiangah, “Ka nung hong zui un. Bang hang hiam cih leh { Topa } in na gal uh Moab mite na khutsung uhah hong piazo hi,” a ci hi. Tua ahih ciangin ama nungah amaute paisuk uh a, Moab mite kiang panin Jordan ngahmunte la-in, mi khat zong galkah saklo uh hi.
+**ZVS:** Amah in amaute kiangah, “Ka nung hong zui un. Bang hang hiam cih leh { Topa } in na gal-te Moab mite na khutsung uhah hong piazo hi,” a ci hi. Tua ahih ciangin ama nungah amaute paisuk-te a, Moab mite kiang panin Jordan ngahmunte la-in, mi khat zong galkah saklo-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** And they slew of Moab at that time about ten thousand men, all lusty, and all men of valour; and there escaped not a man.
 
-**TDB77:** Tua hunin amaute in a thahat a siam Moab mite khempeuh, mi tulsawm bang that uh hi; mi khat zong suakta lo hi.
+**TDB77:** Tua hunin amaute in a thahat a siam Moab mite khempeuh, mi tulsawm bang that-te hi; mi khat zong suakta lo hi.
 
-**ZVS:** Tua hunin amaute in a thahat a siam Moab mite khempeuh, mi tul sawm bang that uh a, mi khat zong suaktalo hi.
+**ZVS:** Tua hunin amaute in a thahat a siam Moab mite khempeuh, mi tul sawm bang that-te a, mi khat zong suaktalo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

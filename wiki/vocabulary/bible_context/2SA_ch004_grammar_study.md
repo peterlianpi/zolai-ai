@@ -33,18 +33,18 @@
 ### v2
 **EN:** And Saul's son had two men that were captains of bands: the name of the one was Baanah, and the name of the other Rechab, the sons of Rimmon a Beerothite, of the children of Benjamin: (for Beeroth also was reckoned to Benjamin:
 
-**TDB77:** Saul’ tapa in galsim pawlte a makai mi nih nei hi; khat pa’ min in Baanah hi-in, adang khat pa’ min in Rekhab hi a, Be-eroth khua pan Benjamin mi Rimmon’ tapate ahi uh hi (bang hang hiam cih leh Be-eroth zong Benjamin’ aa-in kisim hi;
+**TDB77:** Saul’ tapa in galsim pawlte a makai mi nih nei hi; khat pa’ min in Baanah hi-in, adang khat pa’ min in Rekhab hi a, Be-eroth khua pan Benjamin mi Rimmon’ tapate ahi-te hi (bang hang hiam cih leh Be-eroth zong Benjamin’ aa-in kisim hi;
 
-**ZVS:** Saul' tapa in galsim pawlte a makai mi nih nei hi. Khatpa' min Baanah hi-in, adang khatpa' min Rekhab hi a, Beeroth khua pan Benjamin mi Rimmon' tapate ahi uh hi. (Bang hang hiam cih leh Beeroth zong Benjamin-a'-in kisim hi.
+**ZVS:** Saul' tapa in galsim pawlte a makai mi nih nei hi. Khatpa' min Baanah hi-in, adang khatpa' min Rekhab hi a, Beeroth khua pan Benjamin mi Rimmon' tapate ahi-te hi. (Bang hang hiam cih leh Beeroth zong Benjamin-a'-in kisim hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And the Beerothites fled to Gittaim, and were sojourners there until this day.)
 
-**TDB77:** Be-eroth mite Gittaim-ah tai uh a, tu ni dongin tua lai-ah peemta-in om uh hi).
+**TDB77:** Be-eroth mite Gittaim-ah tai-te a, tu ni dongin tua lai-ah peemta-in om-te hi).
 
-**ZVS:** Beeroth mite Gittaim-ah tai uh a, tuni dongin tua lai-ah peemta-in om uh hi.)
+**ZVS:** Beeroth mite Gittaim-ah tai-te a, tuni dongin tua lai-ah peemta-in om-te hi.)
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -60,36 +60,36 @@
 ### v5
 **EN:** And the sons of Rimmon the Beerothite, Rechab and Baanah, went, and came about the heat of the day to the house of Ish–bosheth, who lay on a bed at noon.
 
-**TDB77:** Tu-in Be-eroth mi Rimmon’ tapate Rekhab leh Baanah dingkhia uh a, sun nisat hun pawlin Ishbosheth’ inn-ah a sun tawlngak lai takin hong tung uh hi.
+**TDB77:** Tu-in Be-eroth mi Rimmon’ tapate Rekhab leh Baanah dingkhia-te a, sun nisat hun pawlin Ishbosheth’ inn-ah a sun tawlngak lai takin hong tung-te hi.
 
-**ZVS:** Tu-in Beeroth mi Rimmon' tapate Rekhab leh Baanah dingkhia uh a, sun nisat hun pawlin Ishbosheth' inn-ah a sun tawlngak laitakin hong tung uh hi.
+**ZVS:** Tu-in Beeroth mi Rimmon' tapate Rekhab leh Baanah dingkhia-te a, sun nisat hun pawlin Ishbosheth' inn-ah a sun tawlngak laitakin hong tung-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v6
 **EN:** And they came thither into the midst of the house, as though they would have fetched wheat; and they smote him under the fifth rib: and Rechab and Baanah his brother escaped.
 
-**TDB77:** En in, inn kongcingnu mangbuh a su khin hi a, a lusuk suakin ihmu hi; tua ahih ciangin Rekhab leh a sanggampa Baanah sim lut uh hi.
+**TDB77:** En in, inn kongcingnu mangbuh a su khin hi a, a lusuk suakin ihmu hi; tua ahih ciangin Rekhab leh a sanggampa Baanah sim lut-te hi.
 
-**ZVS:** Inn kongcingnu mangbuh a su khin hi a, a lusuk suakin ihmu hi. Tua ahih ciangin Rekhab leh a sanggampa Baanah simlut uh hi.
+**ZVS:** Inn kongcingnu mangbuh a su khin hi a, a lusuk suakin ihmu hi. Tua ahih ciangin Rekhab leh a sanggampa Baanah simlut-te hi.
 
 **Grammar:** sequence: then/therefore | completed: already done | plural: uh marker
 
 ### v7
 **EN:** For when they came into the house, he lay on his bed in his bedchamber, and they smote him, and slew him, and beheaded him, and took his head, and gat them away through the plain all night.
 
-**TDB77:** Amaute inn sungah a tun’ uh ciangin a lupna dei sung a lupna tungah amah lumin a om lai takin amaute in amah satin that uh a, a lu tan uh hi. Amaute in ama lu la-in Arabah lam tawnin zan tawntung pai uh a,
+**TDB77:** Amaute inn sungah a tun’ uh ciangin a lupna dei sung a lupna tungah amah lumin a om lai takin amaute in amah satin that-te a, a lu tan-te hi. Amaute in ama lu la-in Arabah lam tawnin zan tawntung pai-te a,
 
-**ZVS:** Amaute innsungah a tun' uh ciangin a lupna deisung a lupna tungah Ishbosheth lumin a om laitakin amaute in amah satin that uh a, a lu tan uh hi. Amaute in ama lu la-in Arabah lam tawnin zan tawntung pai uh a,
+**ZVS:** Amaute innsungah a tun' uh ciangin a lupna deisung a lupna tungah Ishbosheth lumin a om laitakin amaute in amah satin that-te a, a lu tan-te hi. Amaute in ama lu la-in Arabah lam tawnin zan tawntung pai-te a,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v8
 **EN:** And they brought the head of Ish–bosheth unto David to Hebron, and said to the king, Behold the head of Ish–bosheth the son of Saul thine enemy, which sought thy life; and the
 
-**TDB77:** Ishbosheth’ lutang Hebron-a David kiang tun’pih uh hi. Amaute in kumpipa kiangah, “Hih lai-ah, thah dingin nang a hong zong, na gal Saul tapa Ishbosheth’ lutang om hi; Topa in tu ni-in Saul leh a suan-le-khak tungah ka to kumpipa adingin hong thuksak hi,” a ci uh hi.
+**TDB77:** Ishbosheth’ lutang Hebron-a David kiang tun’pih-te hi. Amaute in kumpipa kiangah, “Hih lai-ah, thah dingin nang a hong zong, na gal Saul tapa Ishbosheth’ lutang om hi; Topa in tu ni-in Saul leh a suan-le-khak tungah ka to kumpipa adingin hong thuksak hi,” a ci-te hi.
 
-**ZVS:** Ishbosheth' lutang Hebron-a David' kiang tun'pih uh hi. Amaute in kumpipa kiangah, “Hih lai-ah, thah dingin nang a hong zong, na gal Saul' tapa Ishbosheth' lutang om hi. { Topa } in tuni-in Saul leh a suanlekhakte tungah kote' to kumpipa-a' dingin hong thuksak hi,” a ci uh hi.
+**ZVS:** Ishbosheth' lutang Hebron-a David' kiang tun'pih-te hi. Amaute in kumpipa kiangah, “Hih lai-ah, thah dingin nang a hong zong, na gal Saul' tapa Ishbosheth' lutang om hi. { Topa } in tuni-in Saul leh a suanlekhakte tungah kote' to kumpipa-a' dingin hong thuksak hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -121,9 +121,9 @@
 ### v12
 **EN:** And David commanded his young men, and they slew them, and cut off their hands and their feet, and hanged them up over the pool in Hebron. But they took the head of Ish–bosheth, and buried it in the sepulchre of Abner in Hebron.
 
-**TDB77:** Tua ciangin David in a tangvalte thu pia a, tangvalte in amaute thatin a khutte leh a khete sattan uh a, Hebron-a bual gei-ah amaute khai uh hi. Ahih hangin amaute in Ishbosheth’ lutang la-in Hebron-a Abner’ han-ah vui uh hi.
+**TDB77:** Tua ciangin David in a tangvalte thu pia a, tangvalte in amaute thatin a khutte leh a khete sattan-te a, Hebron-a bual gei-ah amaute khai-te hi. Ahih hangin amaute in Ishbosheth’ lutang la-in Hebron-a Abner’ han-ah vui-te hi.
 
-**ZVS:** Tua ciangin David in a tangvalte thu pia a, tangvalte in amaute thatin a khut leh a khete sattan uh a, Hebron-a bual gei-ah amaute khai uh hi. Ahih hangin amaute in Ishbosheth' lutang la-in Hebron-a Abner' hanah a vui uh hi.
+**ZVS:** Tua ciangin David in a tangvalte thu pia a, tangvalte in amaute thatin a khut leh a khete sattan-te a, Hebron-a bual gei-ah amaute khai-te hi. Ahih hangin amaute in Ishbosheth' lutang la-in Hebron-a Abner' hanah a vui-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

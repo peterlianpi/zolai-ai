@@ -80,81 +80,81 @@
 ### v7
 **EN:** Now when all the captains of the forces which were in the fields, even they and their men, heard that the king of Babylon had made Gedaliah the son of Ahikam governor in the land, and had committed unto him men, and women, and children, and of the poor of the land, of them that were not carried away captive to Babylon;
 
-**TDB77:** Babilon kumpipa in Ahikam’ tapa Gedaliah, gam uk dingin koih a, Babilon khua-a sal dinga a kipaipih lo gam sunga mizawng pente ahi papi, nupi leh naupangte a en dinga a koihna thu gamsung khua neu-a om galkap mangte leh a galkapte un a zak uh ciangin
+**TDB77:** Babilon kumpipa in Ahikam’ tapa Gedaliah, gam uk dingin koih a, Babilon khua-a sal dinga a kipaipih lo gam sunga mizawng pente ahi papi, nupi leh naupangte a en dinga a koihna thu gamsung khua neu-a om galkap mangte leh a galkapte un a zak-te ciangin
 
-**ZVS:** Babylon kumpipa in gam uk dingin Ahikam' tapa Gedaliah koih a, Babylon khua-ah sal dingin a kipaipihlo gamsungah mizawng pente ahi papi, nupi, leh naupangte a en dingin a koihna thu, Babylon-te' khutsungah a lut nailo, gamsung khuaneu-a om galkapbute leh a galkapte un a zak uh ciangin
+**ZVS:** Babylon kumpipa in gam uk dingin Ahikam' tapa Gedaliah koih a, Babylon khua-ah sal dingin a kipaipihlo gamsungah mizawng pente ahi papi, nupi, leh naupangte a en dingin a koihna thu, Babylon-te' khutsungah a lut nailo, gamsung khuaneu-a om galkapbute leh a galkapte un a zak-te ciangin
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v8
 **EN:** Then they came to Gedaliah to Mizpah, even Ishmael the son of Nethaniah, and Johanan and Jonathan the sons of Kareah, and Seraiah the son of Tanhumeth, and the sons of Ephai the Netophathite, and Jezaniah the son of a Maachathite, they and their men.
 
-**TDB77:** Mizpah khua Gedaliah’ kiangah a pai uh hi. Nethaniah’ tapa Ishmael, Kareah’ tapa Johanan, Tanhumeth’ tapa Seraiah, Netofah khua Efai’ tate, Ma-akath mi Jezaniah leh a galkapte a pai uh hi.
+**TDB77:** Mizpah khua Gedaliah’ kiangah a pai-te hi. Nethaniah’ tapa Ishmael, Kareah’ tapa Johanan, Tanhumeth’ tapa Seraiah, Netofah khua Efai’ tate, Ma-akath mi Jezaniah leh a galkapte a pai-te hi.
 
-**ZVS:** Mizpah khua Gedaliah kiangah a pai uh hi. Nethaniah' tapa Ishmael, Kareah' tapa Johanan, Tanhumeth' tapa Seraiah, Netofah khuami Efai' tate, leh Maakath mi Jezaniah-te in a galkapte hong paipih uh hi.
+**ZVS:** Mizpah khua Gedaliah kiangah a pai-te hi. Nethaniah' tapa Ishmael, Kareah' tapa Johanan, Tanhumeth' tapa Seraiah, Netofah khuami Efai' tate, leh Maakath mi Jezaniah-te in a galkapte hong paipih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And Gedaliah the son of Ahikam the son of Shaphan sware unto them and to their men, saying, Fear not to serve the Chaldeans: dwell in the land, and serve the king of Babylon, and it shall be well with you.
 
-**TDB77:** Ahikam’ tapa, Shafan’ tupa Gedaliah in zong amaute kiangah kiciam-in gen a, “Khaldea mite’ khut nuai-a na om ding uh kihta tuan kei un. Hih gam sung mah ah teeng un la, Babilon kumpipa’ na sepsak le uh cin, no tungah thusia bangmah om lo ding hi.
+**TDB77:** Ahikam’ tapa, Shafan’ tupa Gedaliah in zong amaute kiangah kiciam-in gen a, “Khaldea mite’ khut nuai-a na om ding-te kihta tuan kei un. Hih gam sung mah ah teeng un la, Babilon kumpipa’ na sepsak le-te cin, no tungah thusia bangmah om lo ding hi.
 
-**ZVS:** Ahikam' tapa, Shafan' tupa Gedaliah in zong amaute kiangah kiciamin gen a, “Babylon mite' khutnuai-ah na om ding uh kihta tuan kei un. Hih gamsung mahah om un la, Babylon kumpipa' na sepsak le uh cin note tungah thusia bangmah omlo ding hi.
+**ZVS:** Ahikam' tapa, Shafan' tupa Gedaliah in zong amaute kiangah kiciamin gen a, “Babylon mite' khutnuai-ah na om ding-te kihta tuan kei un. Hih gamsung mahah om un la, Babylon kumpipa' na sepsak le-te cin note tungah thusia bangmah omlo ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** As for me, behold, I will dwell at Mizpah to serve the Chaldeans, which will come unto us: but ye, gather ye wine, and summer fruits, and oil, and put them in your vessels, and dwell in your cities that ye have taken.
 
-**TDB77:** Kei ka hih leh Mizpah khua mah ah ka teeng ding a, eite kianga hong pai ding Khaldea mite’ kiangah no’ taangin ka ding ding hi. No na hih uh leh leenggah zute, khuakhal ante leh sathaute khawm un la, na bel sung uhah koih un. Na laksa uh khua sung ciat mah ah na teeng un,” a ci hi.
+**TDB77:** Kei ka hih leh Mizpah khua mah ah ka teeng ding a, eite kianga hong pai ding Khaldea mite’ kiangah no’ taangin ka ding ding hi. No na hih-te leh leenggah zute, khuakhal ante leh sathaute khawm un la, na bel sung uhah koih un. Na laksa-te khua sung ciat mah ah na teeng un,” a ci hi.
 
-**ZVS:** Kei ka hih leh Mizpah khua mahah ka om ding a, ei kiangah hong pai ding Babylon mite kiangah note' tangin ka ding ding hi. No na hih uh leh leenggahzu, khuakhal ante, leh sathaute khawm un la, na beel sung uhah koih un. Na laksa uh khua ciat mahah na teng un,” a ci hi.
+**ZVS:** Kei ka hih leh Mizpah khua mahah ka om ding a, ei kiangah hong pai ding Babylon mite kiangah note' tangin ka ding ding hi. No na hih-te leh leenggahzu, khuakhal ante, leh sathaute khawm un la, na beel sung uhah koih un. Na laksa-te khua ciat mahah na teng un,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 
 ### v11
 **EN:** Likewise when all the Jews that were in Moab, and among the Ammonites, and in Edom, and that were in all the countries, heard that the king of Babylon had left a remnant of Judah, and that he had set over them Gedaliah the son of Ahikam the son of Shaphan;
 
-**TDB77:** Tua mah bangin Moab gam, Ammon gam, Edom gam leh gamdang a, teeng Judah mi khempeuh in, Babilon kumpipa in Judah gamah mi pawlkhat om sak lai a, tuate a uk dingin Ahikam’ tapa, Shafan’ tupa Gedaliah koih hi, cih thu a za uh hi.
+**TDB77:** Tua mah bangin Moab gam, Ammon gam, Edom gam leh gamdang a, teeng Judah mi khempeuh in, Babilon kumpipa in Judah gamah mi pawlkhat om sak lai a, tuate a uk dingin Ahikam’ tapa, Shafan’ tupa Gedaliah koih hi, cih thu a za-te hi.
 
-**ZVS:** Tua mah bangin Moab gam, Ammon gam, Edom gam, leh gamdanga teng Judah mi khempeuh in, Babylon kumpipa in Judah gamah mi pawlkhat omsak lai a, tuate a uk dingin Ahikam' tapa, Shafan' tupa Gedaliah koih hi, cih thu a za uh hi.
+**ZVS:** Tua mah bangin Moab gam, Ammon gam, Edom gam, leh gamdanga teng Judah mi khempeuh in, Babylon kumpipa in Judah gamah mi pawlkhat omsak lai a, tuate a uk dingin Ahikam' tapa, Shafan' tupa Gedaliah koih hi, cih thu a za-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v12
 **EN:** Even all the Jews returned out of all places whither they were driven, and came to the land of Judah, to Gedaliah, unto Mizpah, and gathered wine and summer fruits very much.
 
-**TDB77:** Tua ciangin Judah mi khempeuh a kitheh thangna mun khempeuh panin Judah gamah hong ciahkik uh a, Mizpah khua Gedaliah’ kiangah hong pai uh hi. Lenggahzu leh khuakhal an tampi a kaikhawm uh hi.
+**TDB77:** Tua ciangin Judah mi khempeuh a kitheh thangna mun khempeuh panin Judah gamah hong ciahkik-te a, Mizpah khua Gedaliah’ kiangah hong pai-te hi. Lenggahzu leh khuakhal an tampi a kaikhawm-te hi.
 
-**ZVS:** Tua ciangin Jew mi khempeuh a kithehthangna mun khempeuh panin Judah gamah hong ciahkik uh a, Mizpah khua Gedaliah kiangah hong pai uh hi. Leenggahzu leh khuakhal an tampi a kaikhawm uh hi.
+**ZVS:** Tua ciangin Jew mi khempeuh a kithehthangna mun khempeuh panin Judah gamah hong ciahkik-te a, Mizpah khua Gedaliah kiangah hong pai-te hi. Leenggahzu leh khuakhal an tampi a kaikhawm-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Moreover Johanan the son of Kareah, and all the captains of the forces that were in the fields, came to Gedaliah to Mizpah,
 
-**TDB77:** Tua ciangin Kareah’ tapa Johanan leh gamsung khua neu-a om galkap mangte khempeuh Mizpah khua Gedaliah’ kiangah hong pai uh a,
+**TDB77:** Tua ciangin Kareah’ tapa Johanan leh gamsung khua neu-a om galkap mangte khempeuh Mizpah khua Gedaliah’ kiangah hong pai-te a,
 
-**ZVS:** Tua ciangin Kareah' tapa Johanan leh gamsung khuaneu-a om galkapbute khempeuh Mizpah khua Gedaliah kiangah hong pai uh a,
+**ZVS:** Tua ciangin Kareah' tapa Johanan leh gamsung khuaneu-a om galkapbute khempeuh Mizpah khua Gedaliah kiangah hong pai-te a,
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And said unto him, Dost thou certainly know that Baalis the king of the Ammonites hath sent Ishmael the son of Nethaniah to slay thee? But Gedaliah the son of Ahikam believed them not.
 
-**TDB77:** “Ammon kumpipa Baalis in nang hong suam dingin Nethaniah’ tapa Ishmael a sawl lam na thei hiam?” ci-in a dong uh hi. Ahih hangin Ahikam’ tapa Gedaliah in amau’ gen a um kei hi.
+**TDB77:** “Ammon kumpipa Baalis in nang hong suam dingin Nethaniah’ tapa Ishmael a sawl lam na thei hiam?” ci-in a dong-te hi. Ahih hangin Ahikam’ tapa Gedaliah in amau’ gen a um kei hi.
 
-**ZVS:** “Ammon kumpipa Baalis in nang a hong suam dingin Nethaniah' tapa Ishmael a sawllam na thei hiam?” ci-in a dong uh hi. Ahih hangin Ahikam' tapa Gedaliah in amau' thugen a um kei hi.
+**ZVS:** “Ammon kumpipa Baalis in nang a hong suam dingin Nethaniah' tapa Ishmael a sawllam na thei hiam?” ci-in a dong-te hi. Ahih hangin Ahikam' tapa Gedaliah in amau' thugen a um kei hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | negation: kei | plural: uh marker
 
 ### v15
 **EN:** Then Johanan the son of Kareah spake to Gedaliah in Mizpah secretly, saying, Let me go, I pray thee, and I will slay Ishmael the son of Nethaniah, and no man shall know it: wherefore should he slay thee, that all the Jews which are gathered unto thee should be scattered, and the remnant in Judah perish?
 
-**TDB77:** Tua ciangin Kareah’ tapa Johanan in Mizpah khua-a Gedaliah kiangah, “Nethaniah’ tapa Ishmael hong that sak in. Kuamah in hong thei lo ding uh hi. Nang hong kithat leh nang hong beel Judah mite kikhenthang ding a, Judah mi a om lai sun teng in zong bei lawh ding uh ahih manin bang hangin amah in nang hong that laizang ding ahi hiam?” ci-in a hopih sim hi.
+**TDB77:** Tua ciangin Kareah’ tapa Johanan in Mizpah khua-a Gedaliah kiangah, “Nethaniah’ tapa Ishmael hong that sak in. Kuamah in hong thei lo ding-te hi. Nang hong kithat leh nang hong beel Judah mite kikhenthang ding a, Judah mi a om lai sun teng in zong bei lawh ding-te ahih manin bang hangin amah in nang hong that laizang ding ahi hiam?” ci-in a hopih sim hi.
 
-**ZVS:** Tua ciangin Kareah' tapa Johanan in Mizpah khua-a Gedaliah' kiangah, “Nethaniah' tapa Ishmael hong thatsak in. Kuamah in hong theilo ding uh hi. Nang hong kithat leh nang a hong beel Jew mite kikhenthang ding a, Judah gamah mi a omlai sunteng in zong beilawh ding uh ahih manin bang hangin amah in nang hong that laizang ding ahi hiam?” ci-in a hopihsim hi.
+**ZVS:** Tua ciangin Kareah' tapa Johanan in Mizpah khua-a Gedaliah' kiangah, “Nethaniah' tapa Ishmael hong thatsak in. Kuamah in hong theilo ding-te hi. Nang hong kithat leh nang a hong beel Jew mite kikhenthang ding a, Judah gamah mi a omlai sunteng in zong beilawh ding-te ahih manin bang hangin amah in nang hong that laizang ding ahi hiam?” ci-in a hopihsim hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 

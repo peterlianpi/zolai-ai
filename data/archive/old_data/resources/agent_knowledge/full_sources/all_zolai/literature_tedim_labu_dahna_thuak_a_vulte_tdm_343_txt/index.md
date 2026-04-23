@@ -1,0 +1,6 @@
+# Literature/Tedim Labu/DAHNA THUAK A VULTE (TDM - 343).txt
+
+Full-text export split into parts for reliability.
+
+## Parts
+- `part-0001.md`

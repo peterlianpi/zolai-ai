@@ -33,9 +33,9 @@
 ### v2
 **EN:** Command the children of Israel, that they give unto the Levites of the inheritance of their possession cities to dwell in; and ye shall give also unto the Levites suburbs for the cities round about them.
 
-**TDB77:** “Amaute in amau’ neih a luah uh sung panin ten’ nadingin Levi mite tungah khuapi a piak nadingun Israel mite thu pia in: khuapi kiim-a lonona gamte Levi mite tungah na pia ding hi.
+**TDB77:** “Amaute in amau’ neih a luah-te sung panin ten’ nadingin Levi mite tungah khuapi a piak nadingun Israel mite thu pia in: khuapi kiim-a lonona gamte Levi mite tungah na pia ding hi.
 
-**ZVS:** “Amaute in amau' neih a luah uh sung panin ten'na dingin Levi mite tungah khuapite a piak dingun Israel mite thu pia in. Khuapi kiima lonona gamte Levi mite tungah na pia ding hi.
+**ZVS:** “Amaute in amau' neih a luah-te sung panin ten'na dingin Levi mite tungah khuapite a piak dingun Israel mite thu pia in. Khuapi kiima lonona gamte Levi mite tungah na pia ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -49,45 +49,45 @@
 ### v4
 **EN:** And the suburbs of the cities, which ye shall give unto the Levites, shall reach from the wall of the city and outward a thousand cubits round about.
 
-**TDB77:** Levi mite tungah na piak ding uh khuapi lonona gamte in khuapi kulh panin a kimkot tong tul ciang bang ding hi.
+**TDB77:** Levi mite tungah na piak ding-te khuapi lonona gamte in khuapi kulh panin a kimkot tong tul ciang bang ding hi.
 
-**ZVS:** Levi mite tungah na piak ding uh khuapi lonona gamte pen khuapikulh panin a kimkot pi tul leh zanga ciang ban ding hi.
+**ZVS:** Levi mite tungah na piak ding-te khuapi lonona gamte pen khuapikulh panin a kimkot pi tul leh zanga ciang ban ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And ye shall measure from without the city on the east side two thousand cubits, and on the south side two thousand cubits, and on the west side two thousand cubits, and on the north side two thousand cubits; and the city shall be in the midst: this shall be to them the suburbs of the cities.
 
-**TDB77:** Khuapi pualam na teh ding a, nisuahna lam pang tong tulnih, leitaw lam pang tong tulnih, nitumna lam pang tong tulnih, leilu lam pang tong tulnih hi ding a, a laizangah khuapi om ding hi; hih in amau’ khuapite’ lonona taang gam dingin a neih ding uh ahi hi.
+**TDB77:** Khuapi pualam na teh ding a, nisuahna lam pang tong tulnih, leitaw lam pang tong tulnih, nitumna lam pang tong tulnih, leilu lam pang tong tulnih hi ding a, a laizangah khuapi om ding hi; hih in amau’ khuapite’ lonona taang gam dingin a neih ding-te ahi hi.
 
-**ZVS:** Khuapi laizang panin na teh ding a, nisuahna lampang pi tul thum, leitaw lampang pi tul thum, nitumna lampang pi tul thum, leilu lampang pi tul thum hi ding a, a laizangah khuapi om ding hi. Hih pen amau' khuapi lonona taanggam dingin a neih ding uh ahi hi.
+**ZVS:** Khuapi laizang panin na teh ding a, nisuahna lampang pi tul thum, leitaw lampang pi tul thum, nitumna lampang pi tul thum, leilu lampang pi tul thum hi ding a, a laizangah khuapi om ding hi. Hih pen amau' khuapi lonona taanggam dingin a neih ding-te ahi hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v6
 **EN:** And among the cities which ye shall give unto the Levites there shall be six cities for refuge, which ye shall appoint for the manslayer, that he may flee thither: and to them ye shall add forty and two cities.
 
-**TDB77:** Levi mite tungah na piak uh khuapite in bukna khuapi gukte hi ding a, mi thatte tua lai-ah na taisak ding uh a, tuate banah khuapi sawmli leh nih na pia ding uh hi.
+**TDB77:** Levi mite tungah na piak-te khuapite in bukna khuapi gukte hi ding a, mi thatte tua lai-ah na taisak ding-te a, tuate banah khuapi sawmli leh nih na pia ding-te hi.
 
-**ZVS:** Levi mite tungah na piak uh khuapite pen bukna khuapi gukte hi ding a, mi thatte tua lai-ah na taisak ding uh a, tuate' banah khuapi sawmli leh nih na pia thuah ding uh hi.
+**ZVS:** Levi mite tungah na piak-te khuapite pen bukna khuapi gukte hi ding a, mi thatte tua lai-ah na taisak ding-te a, tuate' banah khuapi sawmli leh nih na pia thuah ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v7
 **EN:** So all the cities which ye shall give to the Levites shall be forty and eight cities: them shall ye give with their suburbs.
 
-**TDB77:** Levi mite tungah na piak uh khuapi khempeuh in sawmli leh giat hi-in, a lonona gamte tawh hi ding hi.
+**TDB77:** Levi mite tungah na piak-te khuapi khempeuh in sawmli leh giat hi-in, a lonona gamte tawh hi ding hi.
 
-**ZVS:** Levi mite tungah na piak ding uh khuapi vekpi sawmli leh giat hi-in, a lonona gamte tawh hi ding hi.
+**ZVS:** Levi mite tungah na piak ding-te khuapi vekpi sawmli leh giat hi-in, a lonona gamte tawh hi ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
 ### v8
 **EN:** And the cities which ye shall give shall be of the possession of the children of Israel: from them that have many ye shall give many; but from them that have few ye shall give few: every one shall give of his cities unto the Levites according to his inheritance which he inheriteth.
 
-**TDB77:** Israel mite’ neihsa sung panin na piak ding khuapite in, minam tamte tung panin tam la-in, minam tawmte tung panin tawm na la ding hi; amau’ luah gamh tawh a kizui-in Levi mite tungah a khuapite uh pia ciat ding uh hi,” a ci hi.
+**TDB77:** Israel mite’ neihsa sung panin na piak ding khuapite in, minam tamte tung panin tam la-in, minam tawmte tung panin tawm na la ding hi; amau’ luah gamh tawh a kizui-in Levi mite tungah a khuapite-te pia ciat ding-te hi,” a ci hi.
 
-**ZVS:** Israel mite' neihsa sung panin na piak ding khuapite pen minam tamte tung panin tam la-in, minam tawmte tung panin tawm na la ding hi. Amau' luah gamh tawh a kizui-in Levi mite tungah a khuapite uh a piak ciat ding uh ahi hi,” a ci hi.
+**ZVS:** Israel mite' neihsa sung panin na piak ding khuapite pen minam tamte tung panin tam la-in, minam tawmte tung panin tawm na la ding hi. Amau' luah gamh tawh a kizui-in Levi mite tungah a khuapite-te a piak ciat ding-te ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -103,16 +103,16 @@
 ### v10
 **EN:** Speak unto the children of Israel, and say unto them, When ye be come over Jordan into the land of Canaan;
 
-**TDB77:** “Israel mite tungah hih bangin gen in: Jordan kantanin Kanaan gamah na tun uh ciangin,
+**TDB77:** “Israel mite tungah hih bangin gen in: Jordan kantanin Kanaan gamah na tun-te ciangin,
 
 **ZVS:** “Israel mite tungah hih bangin gen in: Jordan kantanin Kanaan gamah na tun' uh ciangin,
 
 ### v11
 **EN:** Then ye shall appoint you cities to be cities of refuge for you; that the slayer may flee thither, which killeth any person at unawares.
 
-**TDB77:** sawm lopi-in mi khatpeuh a that kha mi thatte a va tai theih nadingin note adingin bukna khuapi dingin khuapite na teel ding uh hi.
+**TDB77:** sawm lopi-in mi khatpeuh a that kha mi thatte a va tai theih nadingin note adingin bukna khuapi dingin khuapite na teel ding-te hi.
 
-**ZVS:** sawmlopi-in mi khatpeuh a thatkha mi thatte a va tai theihna ding, note-a' dingin bukna khuapi dingin khuapite na teel ding uh hi.
+**ZVS:** sawmlopi-in mi khatpeuh a thatkha mi thatte a va tai theihna ding, note-a' dingin bukna khuapi dingin khuapite na teel ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
@@ -128,18 +128,18 @@
 ### v13
 **EN:** And of these cities which ye shall give six cities shall ye have for refuge.
 
-**TDB77:** Na piak uh khuapite in note’ bukna khuapi gukte hi ding hi.
+**TDB77:** Na piak-te khuapite in note’ bukna khuapi gukte hi ding hi.
 
-**ZVS:** Na piak uh tua khuapite, note' bukna khuapi gukte hi ding hi.
+**ZVS:** Na piak-te tua khuapite, note' bukna khuapi gukte hi ding hi.
 
 **Grammar:** future: will
 
 ### v14
 **EN:** Ye shall give three cities on this side Jordan, and three cities shall ye give in the land of Canaan, which shall be cities of refuge.
 
-**TDB77:** Bukna khuapi dingin Jordan gal khatah khuapi thum, Kanaan gamah khuapi thum na pia ding uh hi.
+**TDB77:** Bukna khuapi dingin Jordan gal khatah khuapi thum, Kanaan gamah khuapi thum na pia ding-te hi.
 
-**ZVS:** Bukna khuapi dingin Jordan galkhatah khuapi thum, Kanaan gamah khuapi thum na teel ding uh hi.
+**ZVS:** Bukna khuapi dingin Jordan galkhatah khuapi thum, Kanaan gamah khuapi thum na teel ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
@@ -286,36 +286,36 @@
 ### v31
 **EN:** Moreover ye shall take no satisfaction for the life of a murderer, which is guilty of death: but he shall be surely put to death.
 
-**TDB77:** Tua tham loin, sihna thuak dingin a mawh mipa’ nuntakna tatna sum na sang kei ding uh hi; amah kithat ding hi.
+**TDB77:** Tua tham loin, sihna thuak dingin a mawh mipa’ nuntakna tatna sum na sang kei ding-te hi; amah kithat ding hi.
 
-**ZVS:** Tua thamloin, sihna thuak dingin a kilawm mipa tatna ding sum na sang kei ding uh hi; amah kithat ding hi.
+**ZVS:** Tua thamloin, sihna thuak dingin a kilawm mipa tatna ding sum na sang kei ding-te hi; amah kithat ding hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And ye shall take no satisfaction for him that is fled to the city of his refuge, that he should come again to dwell in the land, until the death of the priest.
 
-**TDB77:** Siampi lianpa a sih ma-in bukna khuapi ah a taisa mipa a gamah a ciahkik theih nadingin ama nuntakna tat nading sum na sang kei ding uh hi.
+**TDB77:** Siampi lianpa a sih ma-in bukna khuapi ah a taisa mipa a gamah a ciahkik theih nadingin ama nuntakna tat nading sum na sang kei ding-te hi.
 
-**ZVS:** Siampi lianpenpa a sih ma-in bukna khuapi-ah a taisa mipa a gamah a ciahkik theihna dingin ama nuntakna tatna ding sum na sang kei ding uh hi.
+**ZVS:** Siampi lianpenpa a sih ma-in bukna khuapi-ah a taisa mipa a gamah a ciahkik theihna dingin ama nuntakna tatna ding sum na sang kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | plural: uh marker
 
 ### v33
 **EN:** So ye shall not pollute the land wherein ye are: for blood it defileth the land: and the land cannot be cleansed of the blood that is shed therein, but by the blood of him that shed it.
 
-**TDB77:** Na ten’na leitang uh na ninsak kei ding uh hi; bang hang hiam cih leh mi thahna in leitang ninsak a, a that mipa a kithah kei buang leh, tua mi kithahna leitang sian’sak nading thu dang om thei lo hi.
+**TDB77:** Na ten’na leitang-te na ninsak kei ding-te hi; bang hang hiam cih leh mi thahna in leitang ninsak a, a that mipa a kithah kei buang leh, tua mi kithahna leitang sian’sak nading thu dang om thei lo hi.
 
-**ZVS:** Na ten'na uh leitang na ninsak kei ding uh hi; bang hang hiam cih leh mi thahna in leitang ninsak a, a that mipa a kithah kei buang leh, tua mi kithahna leitang sian'sakna ding thudang om theilo hi.
+**ZVS:** Na ten'na-te leitang na ninsak kei ding-te hi; bang hang hiam cih leh mi thahna in leitang ninsak a, a that mipa a kithah kei buang leh, tua mi kithahna leitang sian'sakna ding thudang om theilo hi.
 
 **Grammar:** future: will | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v34
 **EN:** Defile not therefore the land which ye shall inhabit, wherein I dwell: for I the
 
-**TDB77:** A laizangah keimah ka ten’na, note ten’na leitang na ninsak kei ding uh hi; bang hang hiam cih leh Topa keimah in Israel mite laizangah ka teeng hi, ci-in gen in,” a ci hi.
+**TDB77:** A laizangah keimah ka ten’na, note ten’na leitang na ninsak kei ding-te hi; bang hang hiam cih leh Topa keimah in Israel mite laizangah ka teeng hi, ci-in gen in,” a ci hi.
 
-**ZVS:** A laizangah keimah ka ten'na leitang na ninsak kei ding uh hi; bang hang hiam cih leh { Topa } keimah, Israel mite' laizangah ka teng hi, ci hi, ci-in gen in,” a ci hi.
+**ZVS:** A laizangah keimah ka ten'na leitang na ninsak kei ding-te hi; bang hang hiam cih leh { Topa } keimah, Israel mite' laizangah ka teng hi, ci hi, ci-in gen in,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 

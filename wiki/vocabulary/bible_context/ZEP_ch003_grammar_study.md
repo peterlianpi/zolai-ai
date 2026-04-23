@@ -43,45 +43,45 @@
 ### v3
 **EN:** Her princes within her are roaring lions; her judges are evening wolves; they gnaw not the bones till the morrow.
 
-**TDB77:** A uliante, a hawk thei humpinelkai gilkial bang a, a thukhente, keivom gilkial bang uh hi. Zing khuavak mateng a saguh nek a nusia nuam lo, a huaiham gamsate tawh kibang uh hi.
+**TDB77:** A uliante, a hawk thei humpinelkai gilkial bang a, a thukhente, keivom gilkial bang-te hi. Zing khuavak mateng a saguh nek a nusia nuam lo, a huaiham gamsate tawh kibang-te hi.
 
-**ZVS:** A uliante, humpinelkai gilkial bang a, a thukhente, keivom gilkial bang uh hi. Zingsang khuavak mateng a saguh nek a nusia nuamlo, a huaiham gamsate tawh kibang uh hi.
+**ZVS:** A uliante, humpinelkai gilkial bang a, a thukhente, keivom gilkial bang-te hi. Zingsang khuavak mateng a saguh nek a nusia nuamlo, a huaiham gamsate tawh kibang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** Her prophets are light and treacherous persons: her priests have polluted the sanctuary, they have done violence to the law.
 
-**TDB77:** A kamsangte kihisak uh a, kamsang citak hi lo uh hi. A siampite in a siangtho nate ninsak a, amau’ angsung ding bek khualna-in Pasian’ thukham lehhei uh hi.
+**TDB77:** A kamsangte kihisak-te a, kamsang citak hi lo-te hi. A siampite in a siangtho nate ninsak a, amau’ angsung ding bek khualna-in Pasian’ thukham lehhei-te hi.
 
-**ZVS:** A kamsangte kihisak uh a, kamsang citak hilo uh hi. A siampite in a siangtho nate ninsak uh a, amau angsung ding bek a khualna-un Pasian' thukham lehhei uh hi.
+**ZVS:** A kamsangte kihisak-te a, kamsang citak hilo-te hi. A siampite in a siangtho nate ninsak-te a, amau angsung ding bek a khualna-un Pasian' thukham lehhei-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** The just
 
-**TDB77:** Ahi zongin tua khuapi sungah Topa om a, a thuman na bek semin, a khial-in gamta ngei lo hi. Zingsang simin mihingte tungah pelh ngei loin thutang lak hi. Ahi zongin tua lai-a mihing thuman lote, a sia-in gamta teitei uh a, maizumna meel thei thei lo uh hi.
+**TDB77:** Ahi zongin tua khuapi sungah Topa om a, a thuman na bek semin, a khial-in gamta ngei lo hi. Zingsang simin mihingte tungah pelh ngei loin thutang lak hi. Ahi zongin tua lai-a mihing thuman lote, a sia-in gamta teitei-te a, maizumna meel thei thei lo-te hi.
 
-**ZVS:** Ahi zongin tua khuapi sungah { Topa } omin, a thuman na bek sem a, a khialin gamta ngeilo hi. Zingsang simin mihingte tungah pelh ngeiloin thutang lak hi. Ahi zongin tua lai-a mihing thumanlote, a sia-in gamta teitei uh a, maizumna mel thei theilo uh hi.
+**ZVS:** Ahi zongin tua khuapi sungah { Topa } omin, a thuman na bek sem a, a khialin gamta ngeilo hi. Zingsang simin mihingte tungah pelh ngeiloin thutang lak hi. Ahi zongin tua lai-a mihing thumanlote, a sia-in gamta teitei-te a, maizumna mel thei theilo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v6
 **EN:** I have cut off the nations: their towers are desolate; I made their streets waste, that none passeth by: their cities are destroyed, so that there is no man, that there is none inhabitant.
 
-**TDB77:** Topa in hih bangin thu gen a, “A kiphasak mite ka nilkhia a, a gal panmunte uh ka susia hi. A kongzing lampite uh ka kinusiacip sak a, kuamah in tua lampi tawn nawn lo hi. A khuapi uh kisia gawpin kinusia a, a sungah kuamah om nawn lo hi.
+**TDB77:** Topa in hih bangin thu gen a, “A kiphasak mite ka nilkhia a, a gal panmunte-te ka susia hi. A kongzing lampite-te ka kinusiacip sak a, kuamah in tua lampi tawn nawn lo hi. A khuapi-te kisia gawpin kinusia a, a sungah kuamah om nawn lo hi.
 
-**ZVS:** { Topa } in hih bangin thu gen a, “A kiphasak mite ka nilkhia a, a gal pan'munte uh ka susia hi. A kongzing lampite uh ka kinusiacipsak a, tua lampi kuamah in tawn nawnlo hi. A khuapi uh kisia gawpin kinusia a, a sungah kuamah om nawnlo hi.
+**ZVS:** { Topa } in hih bangin thu gen a, “A kiphasak mite ka nilkhia a, a gal pan'munte-te ka susia hi. A kongzing lampite-te ka kinusiacipsak a, tua lampi kuamah in tawn nawnlo hi. A khuapi-te kisia gawpin kinusia a, a sungah kuamah om nawnlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
 ### v7
 **EN:** I said, Surely thou wilt fear me, thou wilt receive instruction; so their dwelling should not be cut off, howsoever I punished them: but they rose early, and corrupted all their doings.
 
-**TDB77:** Tua ahih manin ka mite in kei hong zahtakin, amau ka thuhilhnate mangngilh lo ding hi, ci-in ka ngaihsun hi. Ahi zongin a gamtatsiat ngei bangin gamta lai veve uh hi,” ci hi.
+**TDB77:** Tua ahih manin ka mite in kei hong zahtakin, amau ka thuhilhnate mangngilh lo ding hi, ci-in ka ngaihsun hi. Ahi zongin a gamtatsiat ngei bangin gamta lai veve-te hi,” ci hi.
 
-**ZVS:** Tua ahih manin ka mite in kei hong zahtakin ka thuhilhna ngai ding uh a, mangngilhlo ding uh hi, ci-in ka ngaihsun hi. Ahi zongin a gamtatsiat ngei bangun gamtalai veve uh hi,” a ci hi.
+**ZVS:** Tua ahih manin ka mite in kei hong zahtakin ka thuhilhna ngai ding-te a, mangngilhlo ding-te hi, ci-in ka ngaihsun hi. Ahi zongin a gamtatsiat ngei bangun gamtalai veve-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | causal: because | plural: uh marker
 
@@ -97,45 +97,45 @@
 ### v9
 **EN:** For then will I turn to the people a pure language, that they may all call upon the name of the
 
-**TDB77:** Tua ciangin minamte’ lungsim ka hei ding a, amaute in Topa tung bekah thu ngenin, lungsim kikhatin Topa’ na sem ding uh hi.
+**TDB77:** Tua ciangin minamte’ lungsim ka hei ding a, amaute in Topa tung bekah thu ngenin, lungsim kikhatin Topa’ na sem ding-te hi.
 
-**ZVS:** “Tua ciangin minamte' lungsim ka hei ding a, amaute in keima tung bekah thu hong ngenin, lungsim kikhatin ka na hong sem ding uh hi.
+**ZVS:** “Tua ciangin minamte' lungsim ka hei ding a, amaute in keima tung bekah thu hong ngenin, lungsim kikhatin ka na hong sem ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** From beyond the rivers of Ethiopia my suppliants, even the daughter of my dispersed, shall bring mine offering.
 
-**TDB77:** A gamlapi Ethiopia gam peka om, a kithehthang ka mite nangawn in biakna hong puak ding uh hi.
+**TDB77:** A gamlapi Ethiopia gam peka om, a kithehthang ka mite nangawn in biakna hong puak ding-te hi.
 
-**ZVS:** A gamlapi Ethiopia gam pekah a om, a kithehthang ka mite nangawn in biakna hong puak ding uh hi.
+**ZVS:** A gamlapi Ethiopia gam pekah a om, a kithehthang ka mite nangawn in biakna hong puak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** In that day shalt thou not be ashamed for all thy doings, wherein thou hast transgressed against me: for then I will take away out of the midst of thee them that rejoice in thy pride, and thou shalt no more be haughty because of my holy mountain.
 
-**TDB77:** Tua hun ciangin, ka mite in kei nong lehdona hangun, maizumna ding bangmah om nawn lo ding hi. Note’ lak panin a kiphasak a kihisak mite ka hawlkhia ding a, Jerusalem khua a, ka mual siangtho tungah kei nong lehdo nawn kei ding uh hi.
+**TDB77:** Tua hun ciangin, ka mite in kei nong lehdona hangun, maizumna ding bangmah om nawn lo ding hi. Note’ lak panin a kiphasak a kihisak mite ka hawlkhia ding a, Jerusalem khua a, ka mual siangtho tungah kei nong lehdo nawn kei ding-te hi.
 
-**ZVS:** Tua hun ciangin ka mite in kei nong lehdona hangun maizumna ding bangmah om nawnlo ding hi. Note lak panin a kiphasak, a kihisak mite ka hawlkhia ding a, Jerusalem khua-a ka mual siangtho tungah kei nong lehdo nawn kei ding uh hi.
+**ZVS:** Tua hun ciangin ka mite in kei nong lehdona hangun maizumna ding bangmah om nawnlo ding hi. Note lak panin a kiphasak, a kihisak mite ka hawlkhia ding a, Jerusalem khua-a ka mual siangtho tungah kei nong lehdo nawn kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** I will also leave in the midst of thee an afflicted and poor people, and they shall trust in the name of the
 
-**TDB77:** Note lakah a kiniamkhiat, mi lungnemte bek, ka suakta sak lai ding a, keima min suangin thu hong ngen ding uh hi.
+**TDB77:** Note lakah a kiniamkhiat, mi lungnemte bek, ka suakta sak lai ding a, keima min suangin thu hong ngen ding-te hi.
 
-**ZVS:** Note lakah a kiniamkhiat, mineute bek, ka suaktasak lai ding a, keima tungah huhna hong ngen ding uh hi.
+**ZVS:** Note lakah a kiniamkhiat, mineute bek, ka suaktasak lai ding a, keima tungah huhna hong ngen ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** The remnant of Israel shall not do iniquity, nor speak lies; neither shall a deceitful tongue be found in their mouth: for they shall feed and lie down, and none shall make them afraid.
 
-**TDB77:** Israel mi a om lai sunte, midang tungah gilo nawn lo ding a, zuauthu gen nawn loin, mi kheem ding zong ngaihsun nawn lo ding uh hi. Amaute cithei-in lungmuangin om ding uh a, kuamah kihta nawn lo ding uh hi,” ci hi.
+**TDB77:** Israel mi a om lai sunte, midang tungah gilo nawn lo ding a, zuauthu gen nawn loin, mi kheem ding zong ngaihsun nawn lo ding-te hi. Amaute cithei-in lungmuangin om ding-te a, kuamah kihta nawn lo ding-te hi,” ci hi.
 
-**ZVS:** Israel mi a omlai sunte, midangte tungah gilo nawnlo ding uh a, zuauthu gen nawnloin, mi khem ding zong ngaihsun nawnlo ding uh hi. Amaute cithei-in lungmuangin om ding uh a, kuamah kihta nawnloin om ding uh hi,” a ci hi.
+**ZVS:** Israel mi a omlai sunte, midangte tungah gilo nawnlo ding-te a, zuauthu gen nawnloin, mi khem ding zong ngaihsun nawnlo ding-te hi. Amaute cithei-in lungmuangin om ding-te a, kuamah kihta nawnloin om ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -178,27 +178,27 @@
 ### v18
 **EN:** I will gather them that are sorrowful for the solemn assembly, who are of thee, to whom the reproach of it was a burden.
 
-**TDB77:** pawi hun sunga mi lungdamte bang ding hi. Topa in hih bangin thu gen a, “Note adingin a lauhuai thu ka beisak khin a, na mindai nading teng uh kong paihkhiatsak khin hi.
+**TDB77:** pawi hun sunga mi lungdamte bang ding hi. Topa in hih bangin thu gen a, “Note adingin a lauhuai thu ka beisak khin a, na mindai nading teng-te kong paihkhiatsak khin hi.
 
-**ZVS:** pawi hun sungah mi a lungdamte bang ding hi. { Topa } in hih bangin thu gen a, “Note-a' dingin a lauhuai thu ka beisak khin a, na mindaina teng uh kong paihkhiatsak khin hi.
+**ZVS:** pawi hun sungah mi a lungdamte bang ding hi. { Topa } in hih bangin thu gen a, “Note-a' dingin a lauhuai thu ka beisak khin a, na mindaina teng-te kong paihkhiatsak khin hi.
 
 **Grammar:** purpose: in order to | completed: already done | future: will
 
 ### v19
 **EN:** Behold, at that time I will undo all that afflict thee: and I will save her that halteth, and gather her that was driven out; and I will get them praise and fame in every land where they have been put to shame.
 
-**TDB77:** En un, tua hun ciangin no hong bawlsiate, daan ka pia ding a, a khebaite honkhia-in, a kipaikhiatpih mite ka ciahpih ding hi. Amau’ maizumna, minthan’na ka suaksak ding a, mi khempeuh in amaute phat ding uh hi.
+**TDB77:** En un, tua hun ciangin no hong bawlsiate, daan ka pia ding a, a khebaite honkhia-in, a kipaikhiatpih mite ka ciahpih ding hi. Amau’ maizumna, minthan’na ka suaksak ding a, mi khempeuh in amaute phat ding-te hi.
 
-**ZVS:** En un, tua hun ciangin no a hong bawlsiate gim ka pia ding a, a khebaite honkhia-in, a kipaikhiatpih mite ka ciahpihkik ding hi. Amau' maizumna uh minthan'na ka suaksak ding a, mi khempeuh in amaute a phat ding uh hi.
+**ZVS:** En un, tua hun ciangin no a hong bawlsiate gim ka pia ding a, a khebaite honkhia-in, a kipaikhiatpih mite ka ciahpihkik ding hi. Amau' maizumna-te minthan'na ka suaksak ding a, mi khempeuh in amaute a phat ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** At that time will I bring you again, even in the time that I gather you: for I will make you a name and a praise among all people of the earth, when I turn back your captivity before your eyes, saith the
 
-**TDB77:** Tua hun ciangin, a kithehthang na mite uh kong kaikhawm ding a, leitung mi khempeuh in note hong pahtawi-in hong phat ding uh hi. A tawpna-ah note na cithei kik ding uh hi,” Topa in ci hi, a ci hi.
+**TDB77:** Tua hun ciangin, a kithehthang na mite-te kong kaikhawm ding a, leitung mi khempeuh in note hong pahtawi-in hong phat ding-te hi. A tawpna-ah note na cithei kik ding-te hi,” Topa in ci hi, a ci hi.
 
-**ZVS:** Tua hun ciangin, a kithehthang na mite uh kong kaikhawm ding a, leitung mi khempeuh in note hong phat ding uh hi. A tawpna-ah note na cithei kik ding uh hi,” { Topa } in ci hi, a ci hi.
+**ZVS:** Tua hun ciangin, a kithehthang na mite-te kong kaikhawm ding a, leitung mi khempeuh in note hong phat ding-te hi. A tawpna-ah note na cithei kik ding-te hi,” { Topa } in ci hi, a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

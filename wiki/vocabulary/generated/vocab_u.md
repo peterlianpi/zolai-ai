@@ -153,7 +153,7 @@
 **Related:** umcip
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Galte’ umcih a thuak mite aw, na puanlom uh zial un!*
+> *Galte’ umcih a thuak mite aw, na puanlom-te zial un!*
 > → Gather up thy wares out of the land, O inhabitant of the fortress.
 > `JER 10:17`
 
@@ -274,13 +274,13 @@
 **Related:** utna leh uukna nei lo, utna thupitak nei, utna nei
 **CEFR:** A1
 **Usage:** Adjective — place before noun or after verb as predicate.
-> *a utna lam peuhpeuh ah pai thei uh hi.*
+> *a utna lam peuhpeuh ah pai thei-te hi.*
 > → When they went, they went upon their four sides: and they turned not when they went.
 > `EZK 1:17`
 
 ### utok
 **[n]** inwards
-**Meanings:** inwards | fat | ram | take | rump | covereth
+**Meanings:** inwards | fat | gam | take | rump | covereth
 **Related:** thau, gilpi, kal, tuate, nihte
 **CEFR:** A1
 **Usage:** Attested 275× across 2 Bible books.
@@ -331,7 +331,7 @@
 **Meanings:** brought | saw | thirty | companions | came | pass
 **CEFR:** A2
 **Usage:** Attested 55× across 4 Bible books.
-> *uap dingin tangval sawmthum hong paipih uh hi.*
+> *uap dingin tangval sawmthum hong paipih-te hi.*
 
 ### uili
 **[n]** flea
@@ -411,7 +411,7 @@
 **[]** sons
 **Meanings:** sons | ulla | arah | haniel | rezia
 **CEFR:** A2
-> *Ulla’ suante in: Arah, Hanniel, leh Rizia ahi uh hi.*
+> *Ulla’ suante in: Arah, Hanniel, leh Rizia ahi-te hi.*
 > → And the sons of Ulla; Arah, and Haniel, and Rezia.
 > `1CH 7:39`
 
@@ -452,7 +452,7 @@
 **[adj]** followed
 **Meanings:** followed | anger | firstborn | thou | eldest | eliab
 **CEFR:** A2
-> *upapen thumte in Saul zui uh a,*
+> *upapen thumte in Saul zui-te a,*
 > `1SA 17:14`
 
 ### upapente
@@ -687,7 +687,7 @@
 **Meanings:** lords | young | men | captains | rulers | great
 **CEFR:** B1
 **Usage:** Attested 120× across 2 Bible books.
-> *a vekpi-un ulianpipi, sakol tung tuang galkapmang liante vive ahi uh hi.*
+> *a vekpi-un ulianpipi, sakol tung tuang galkapmang liante vive ahi-te hi.*
 
 ### umcihte
 **[]** shalt
@@ -749,7 +749,7 @@
 **Meanings:** should | mine | heart | folly | till | might
 **CEFR:** B1
 **Usage:** Attested 285× across 4 Bible books.
-> *Galdozo ding om nawnlo uh ahih manin*
+> *Galdozo ding om nawnlo-te ahih manin*
 
 ### utzaw
 **[n]** choose
@@ -945,7 +945,7 @@ u
 **Related:** uang, uang gitloh, uang bawl deuh, uang geen, uangtat
 **CEFR:** C2
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *Hih bangin a vaihawm mihing sawmli val bang a pha uh hi.*
+> *Hih bangin a vaihawm mihing sawmli val bang a pha-te hi.*
 > → And they were more than forty which had made this conspiracy.
 
 ### uangsak
@@ -1030,10 +1030,10 @@ bad
 **CEFR:** C2
 
 ### uh
-**[]** pluralising suffix-verbally in , "Ka pai uh hi," We go
-**Meanings:** pluralising suffix-verbally in , "Ka pai uh hi," We go | pluralising suffix-nominally in "Ka ui uh," Our dog
+**[]** pluralising suffix-verbally in , "Ka pai-te hi," We go
+**Meanings:** pluralising suffix-verbally in , "Ka pai-te hi," We go | pluralising suffix-nominally in "Ka ui uh," Our dog
 **CEFR:** C2
-> *Tu-in kong thum uh hi.*
+> *Tu-in kong thum-te hi.*
 
 ### uha
 **[n]** thou
@@ -1041,7 +1041,7 @@ bad
 **Related:** note, kipan, kiim, khua, thei
 **CEFR:** C2
 **Usage:** Attested 5802× across 53 Bible books.
-> *pia uh hi. Jakob in Shekhem khua gei-a tawsaw nuai-ah tuate*
+> *pia-te hi. Jakob in Shekhem khua gei-a tawsaw nuai-ah tuate*
 
 ### uhaam
 **[]** old aged

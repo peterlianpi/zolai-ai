@@ -14,7 +14,7 @@ Isaiah uses high-register Zolai to describe the majesty of God and the gravity o
 *   **Grand Commissioning:** Use of the first-person response to divine calls.
     *   *Example:* "Keimah hih sungah ka om hi, kei hong sawl in." (Isaiah 6:8) - *Here am I, send me.*
 *   **Contrasting States:** Before and After/Judgment and Restoration.
-    *   *Example:* "Na mawhna uh a san' hangin, vu bangin hong paak ding hi." (Isaiah 1:18) - *Though your sins be red, they shall be white as snow.*
+    *   *Example:* "Na mawhna-te a san' hangin, vu bangin hong paak ding hi." (Isaiah 1:18) - *Though your sins be red, they shall be white as snow.*
 *   **Royal Titles:** Use of complex honorifics like "Vanglian Pasian," "Nopna Kumpi" (Prince of Peace).
 
 ### Pedagogical Utility
@@ -43,7 +43,7 @@ Ezekiel introduces highly detailed, technical descriptions of visions and symbol
 
 ### Key Linguistic Patterns
 *   **Detailed Descriptive Chains:** Long sentences describing anatomy and appearance.
-    *   *Example:* "Maitang li leh kha li nei ciat uh hi." (Ezekiel 1:6) - *Each had four faces and four wings.*
+    *   *Example:* "Maitang li leh kha li nei ciat-te hi." (Ezekiel 1:6) - *Each had four faces and four wings.*
 *   **Symbolic Objects:** High utility for "Object-based Narration" (Scroll, Tile, Iron Pan).
 *   **Divine "Watchman" Formula:** `Galvilpa` (Watchman) provides a model for responsibility and duty.
 

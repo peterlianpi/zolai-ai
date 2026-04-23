@@ -21,27 +21,27 @@
 ### v1
 **EN:** The sons of Levi; Gershon, Kohath, and Merari.
 
-**TDB77:** Levi’ tapate in: Gershom, Kohath, leh Merari ahi uh hi.
+**TDB77:** Levi’ tapate in: Gershom, Kohath, leh Merari ahi-te hi.
 
-**ZVS:** Levi' tapate: Gershom, Kohath, leh Merari ahi uh hi.
+**ZVS:** Levi' tapate: Gershom, Kohath, leh Merari ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v2
 **EN:** And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel.
 
-**TDB77:** Kohath’ tapate in: Amram, Izhar, Hebron, leh Uzziel ahi uh hi.
+**TDB77:** Kohath’ tapate in: Amram, Izhar, Hebron, leh Uzziel ahi-te hi.
 
-**ZVS:** Kohath' tapate: Amram, Izhar, Hebron, leh Uzziel ahi uh hi.
+**ZVS:** Kohath' tapate: Amram, Izhar, Hebron, leh Uzziel ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** And the children of Amram; Aaron, and Moses, and Miriam. The sons also of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 
-**TDB77:** Amram’ tate in: Aaron, Moses, leh Miriam ahi uh hi. Aaron’ tapate in: Nadab, Abihu, Eleazar, leh Ithamar ahi uh hi,
+**TDB77:** Amram’ tate in: Aaron, Moses, leh Miriam ahi-te hi. Aaron’ tapate in: Nadab, Abihu, Eleazar, leh Ithamar ahi-te hi,
 
-**ZVS:** Amram' tate: Aaron, Moses, leh tanu Miriam ahi uh hi. Aaron' tapate: Nadab, Abihu, Eleazar, leh Ithamar ahi uh hi.
+**ZVS:** Amram' tate: Aaron, Moses, leh tanu Miriam ahi-te hi. Aaron' tapate: Nadab, Abihu, Eleazar, leh Ithamar ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -126,36 +126,36 @@
 ### v16
 **EN:** The sons of Levi; Gershom, Kohath, and Merari.
 
-**TDB77:** Levi’ tapate in: Gershom, Kohath, leh Merari ahi uh hi.
+**TDB77:** Levi’ tapate in: Gershom, Kohath, leh Merari ahi-te hi.
 
-**ZVS:** Levi' tapate: Gershom, Kohath, leh Merari ahi uh hi.
+**ZVS:** Levi' tapate: Gershom, Kohath, leh Merari ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** And these be the names of the sons of Gershom; Libni, and Shimei.
 
-**TDB77:** Tua ciangin Gershom’ tapate in: Libni leh Shimei ahi uh hi.
+**TDB77:** Tua ciangin Gershom’ tapate in: Libni leh Shimei ahi-te hi.
 
-**ZVS:** Gershom' tapate: Libni leh Shimei ahi uh hi.
+**ZVS:** Gershom' tapate: Libni leh Shimei ahi-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v18
 **EN:** And the sons of Kohath were, Amram, and Izhar, and Hebron, and Uzziel.
 
-**TDB77:** Kohath’ tapate in: Amram, Izhar, Hebron, leh Uzziel ahi uh hi.
+**TDB77:** Kohath’ tapate in: Amram, Izhar, Hebron, leh Uzziel ahi-te hi.
 
-**ZVS:** Kohath' tapate: Amram, Izhar, Hebron, leh Uzziel ahi uh hi.
+**ZVS:** Kohath' tapate: Amram, Izhar, Hebron, leh Uzziel ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v19
 **EN:** The sons of Merari; Mahli, and Mushi. And these are the families of the Levites according to their fathers.
 
-**TDB77:** Merari tapate in: Mahli leh Mushi ahi uh hi. Hihte in amau’ beh tawh kizui-in Levi minamte ahi uh hi.
+**TDB77:** Merari tapate in: Mahli leh Mushi ahi-te hi. Hihte in amau’ beh tawh kizui-in Levi minamte ahi-te hi.
 
-**ZVS:** Merari' tapate: Mahli leh Mushi ahi uh hi. Hihte amau' beh tawh kizui-in Levi minamte ahi uh hi.
+**ZVS:** Merari' tapate: Mahli leh Mushi ahi-te hi. Hihte amau' beh tawh kizui-in Levi minamte ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -209,18 +209,18 @@
 ### v27
 **EN:** Eliab his son, Jeroham his son, Elkanah his son.
 
-**TDB77:** a tapa Eliab, a tapa Jeroham, a tapa Elkanah, a tapa Samuel ahi uh hi.
+**TDB77:** a tapa Eliab, a tapa Jeroham, a tapa Elkanah, a tapa Samuel ahi-te hi.
 
-**ZVS:** a tapa Eliab, a tapa Jeroham, a tapa Ekanah, a tapa Samuel ahi uh hi.
+**ZVS:** a tapa Eliab, a tapa Jeroham, a tapa Ekanah, a tapa Samuel ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v28
 **EN:** And the sons of Samuel; the firstborn Vashni, and Abiah.
 
-**TDB77:** Samuel tapa in: a tacil Joel, a nihna Abijah ahi uh hi.
+**TDB77:** Samuel tapa in: a tacil Joel, a nihna Abijah ahi-te hi.
 
-**ZVS:** Samuel' tapate: A tacil Joel, a nihna Abijah ahi uh hi.
+**ZVS:** Samuel' tapate: A tacil Joel, a nihna Abijah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -234,14 +234,14 @@
 ### v30
 **EN:** Shimea his son, Haggiah his son, Asaiah his son.
 
-**TDB77:** a tapa Shimea, a tapa Haggiah, leh a tapa Asaiah ahi uh hi.
+**TDB77:** a tapa Shimea, a tapa Haggiah, leh a tapa Asaiah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v31
 **EN:** And these are they whom David set over the service of song in the house of the
 
-**TDB77:** Topa’ inn sungah thuciamna singkuang a tawlngak khit ciangin tua sungah lasak nasep a ukin David in a koih mite in hihte ahi uh hi.
+**TDB77:** Topa’ inn sungah thuciamna singkuang a tawlngak khit ciangin tua sungah lasak nasep a ukin David in a koih mite in hihte ahi-te hi.
 
 **ZVS:** { Topa' } biakbuk sungah Thuciamna Singkuang a tawlngak khit ciangin tua sungah lasak nasep a ukin David in a koih hih mite ahi hi.
 
@@ -250,9 +250,9 @@
 ### v32
 **EN:** And they ministered before the dwelling place of the tabernacle of the congregation with singing, until Solomon had built the house of the
 
-**TDB77:** Solomon in Jerusalem ah Topa’ inn a lam ciang dong amaute in kikhopna puanbuk ahi biakbuk mai-ah lasak na sem uh hi; amaute in a nasep uh a hunhun a banbanin, sem uh hi.
+**TDB77:** Solomon in Jerusalem ah Topa’ inn a lam ciang dong amaute in kikhopna puanbuk ahi biakbuk mai-ah lasak na sem-te hi; amaute in a nasep-te a hunhun a banbanin, sem-te hi.
 
-**ZVS:** Solomon in Jerusalem-ah { Topa' } Biakinn a lam ciangdong amaute in kikhopna puanbuk ahi biakbuk mai-ah lasak na sem uh a, amaute in a nasep uh a hunhun a banbanin sem uh hi.
+**ZVS:** Solomon in Jerusalem-ah { Topa' } Biakinn a lam ciangdong amaute in kikhopna puanbuk ahi biakbuk mai-ah lasak na sem-te a, amaute in a nasep-te a hunhun a banbanin sem-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -327,9 +327,9 @@
 ### v43
 **EN:** The son of Jahath, the son of Gershom, the son of Levi.
 
-**TDB77:** a pa Jahath, a pa Gershom, a pa Levi, ahi uh hi.
+**TDB77:** a pa Jahath, a pa Gershom, a pa Levi, ahi-te hi.
 
-**ZVS:** a pa Jahath, a pa Gershom, a pa Levi ahi uh hi.
+**ZVS:** a pa Jahath, a pa Gershom, a pa Levi ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -364,18 +364,18 @@
 ### v48
 **EN:** Their brethren also the Levites were appointed unto all manner of service of the tabernacle of the house of God.
 
-**TDB77:** Levi mi a sanggamte uh Pasian’ inn biakbuk nasep dang khempeuh a sem dingin a kisehte ahi hi.
+**TDB77:** Levi mi a sanggamte-te Pasian’ inn biakbuk nasep dang khempeuh a sem dingin a kisehte ahi hi.
 
-**ZVS:** Levi mi a sanggamte uh Pasian' biakbuk nasep dang khempeuh a sem dingin a kisehte ahi hi.
+**ZVS:** Levi mi a sanggamte-te Pasian' biakbuk nasep dang khempeuh a sem dingin a kisehte ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v49
 **EN:** But Aaron and his sons offered upon the altar of the burnt offering, and on the altar of incense, and were appointed for all the work of the place most holy, and to make an atonement for Israel, according to all that Moses the servant of God had commanded.
 
-**TDB77:** Ahih hangin Aaron leh a tapate in Pasian’ nasem Moses’ thupiaksate khempeuh bangin siangtho pen mun nasepnate khempeuh leh Israel mite adingin kilemna a bawl dingin meihal biakna tau tung leh paknamtui biakna tau tungah piakna bawl uh hi.
+**TDB77:** Ahih hangin Aaron leh a tapate in Pasian’ nasem Moses’ thupiaksate khempeuh bangin siangtho pen mun nasepnate khempeuh leh Israel mite adingin kilemna a bawl dingin meihal biakna tau tung leh paknamtui biakna tau tungah piakna bawl-te hi.
 
-**ZVS:** Aaron leh a tapate in Pasian' nasem Moses' thupiaksate khempeuh bangin siangtho pen mun nasepnate khempeuh leh Israel mite-a' dingin kilemna a bawl dingin meihal biakna tau tung leh paknamtui biakna tau tungah piakna a bawl uh hi.
+**ZVS:** Aaron leh a tapate in Pasian' nasem Moses' thupiaksate khempeuh bangin siangtho pen mun nasepnate khempeuh leh Israel mite-a' dingin kilemna a bawl dingin meihal biakna tau tung leh paknamtui biakna tau tungah piakna a bawl-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -406,25 +406,25 @@
 ### v54
 **EN:** Now these are their dwelling places throughout their castles in their coasts, of the sons of Aaron, of the families of the Kohathites: for theirs was the lot.
 
-**TDB77:** Amau’ gamgi huam sungah amau’ ten’na tawh kizui-in amau’ omna munte in: Kohathte beh sung pan Aaron’ suante tungah a kipia, amau’ adingin a tanh uh om a,
+**TDB77:** Amau’ gamgi huam sungah amau’ ten’na tawh kizui-in amau’ omna munte in: Kohathte beh sung pan Aaron’ suante tungah a kipia, amau’ adingin a tanh-te om a,
 
-**ZVS:** Amau' gamgi huam sungah amau' ten'na tawh kizui-in amau' omna munte: Kohath-te beh sung pan Aaron suante tungah a kipia, amau-a' dingin a tanh uh om a,
+**ZVS:** Amau' gamgi huam sungah amau' ten'na tawh kizui-in amau' omna munte: Kohath-te beh sung pan Aaron suante tungah a kipia, amau-a' dingin a tanh-te om a,
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v55
 **EN:** And they gave them Hebron in the land of Judah, and the suburbs thereof round about it.
 
-**TDB77:** Judah gam sungah Hebron leh a kiim lononate amaute tungah pia uh a,
+**TDB77:** Judah gam sungah Hebron leh a kiim lononate amaute tungah pia-te a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v56
 **EN:** But the fields of the city, and the villages thereof, they gave to Caleb the son of Jephunneh.
 
-**TDB77:** ahih hangin khuapi lote leh a khuaneute Jefunneh’ tapa Kaleb tungah pia uh hi.
+**TDB77:** ahih hangin khuapi lote leh a khuaneute Jefunneh’ tapa Kaleb tungah pia-te hi.
 
-**ZVS:** ahih hangin a lote leh a khuaneute Jefunneh' tapa Kaleb tungah a pia uh hi.
+**ZVS:** ahih hangin a lote leh a khuaneute Jefunneh' tapa Kaleb tungah a pia-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -486,27 +486,27 @@
 ### v64
 **EN:** And the children of Israel gave to the Levites these cities with their suburbs.
 
-**TDB77:** Tua ahih ciangin Israel mite in hih bangin Levi mite tungah khuapite a lononate tawh pia uh hi.
+**TDB77:** Tua ahih ciangin Israel mite in hih bangin Levi mite tungah khuapite a lononate tawh pia-te hi.
 
-**ZVS:** Tua ahih ciangin Israel mite in hih bangin Levi mite tungah khuapite a lononate tawh a pia uh hi.
+**ZVS:** Tua ahih ciangin Israel mite in hih bangin Levi mite tungah khuapite a lononate tawh a pia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v65
 **EN:** And they gave by lot out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, and out of the tribe of the children of Benjamin, these cities, which are called by their names.
 
-**TDB77:** Amaute in Judahte’ gam, Simeonte’ gam, leh Benjaminte’ gam sung panin zong a min-a kilo hih khuapite amaute tungah pia uh hi.
+**TDB77:** Amaute in Judahte’ gam, Simeonte’ gam, leh Benjaminte’ gam sung panin zong a min-a kilo hih khuapite amaute tungah pia-te hi.
 
-**ZVS:** Amaute in Judah-te' gam, Simeon-te' gam, leh Benjamin-te' gamsung panin zong a minin a kilo hih khuapite amaute tungah a pia uh hi.
+**ZVS:** Amaute in Judah-te' gam, Simeon-te' gam, leh Benjamin-te' gamsung panin zong a minin a kilo hih khuapite amaute tungah a pia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v66
 **EN:** And the residue of the families of the sons of Kohath had cities of their coasts out of the tribe of Ephraim.
 
-**TDB77:** Tua ciangin Kohathte beh pawl khat in Efraim minamte gam sung panin amau’ gam khuapite ngah uh hi.
+**TDB77:** Tua ciangin Kohathte beh pawl khat in Efraim minamte gam sung panin amau’ gam khuapite ngah-te hi.
 
-**ZVS:** Tua ciangin Kohath-te beh pawlkhat in Efraim minamte' gamsung panin amau' gam khuapite mah ngah uh hi.
+**ZVS:** Tua ciangin Kohath-te beh pawlkhat in Efraim minamte' gamsung panin amau' gam khuapite mah ngah-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

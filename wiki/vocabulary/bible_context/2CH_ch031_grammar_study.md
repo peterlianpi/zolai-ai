@@ -23,18 +23,18 @@
 ### v1
 **EN:** Now when all this was finished, all Israel that were present went out to the cities of Judah, and brake the images in pieces, and cut down the groves, and threw down the high places and the altars out of all Judah and Benjamin, in Ephraim also and Manasseh, until they had utterly destroyed them all. Then all the children of Israel returned, every man to his possession, into their own cities.
 
-**TDB77:** Tu-in hihte khempeuh a man ciangin, tua lai-a a om Israel khempeuh Judah khuapite ah pai-in khuampite sat khamin Asherah milimte phukin, Judah leh Benjamin sung, leh Efraim leh Manasseh sunga mual dawn-a biak piaknate leh biakna taute a suksiat khit mateng uh phelkek uh hi. Tua ciangin Israel mi khempeuh, a mi kimin amau’ inn omna a khuapi ciat uhah ciah uh hi.
+**TDB77:** Tu-in hihte khempeuh a man ciangin, tua lai-a a om Israel khempeuh Judah khuapite ah pai-in khuampite sat khamin Asherah milimte phukin, Judah leh Benjamin sung, leh Efraim leh Manasseh sunga mual dawn-a biak piaknate leh biakna taute a suksiat khit mateng-te phelkek-te hi. Tua ciangin Israel mi khempeuh, a mi kimin amau’ inn omna a khuapi ciat uhah ciah-te hi.
 
-**ZVS:** Tu-in hihte khempeuh a man ciangin, tua lai-a a om Israel khempeuh Judah khuapite-ah pai-in biakna songte sat khamin Asherah milimte phukin, Judah leh Benjamin sung, leh Efraim leh Manasseh sunga mual dawna biakpiaknate leh biakna taute a suksiat khit mateng uh phelkek uh hi. Tua ciangin Israel mi khempeuh, a mi kimin amau' inn omna a khuapi ciat uhah a ciah uh hi.
+**ZVS:** Tu-in hihte khempeuh a man ciangin, tua lai-a a om Israel khempeuh Judah khuapite-ah pai-in biakna songte sat khamin Asherah milimte phukin, Judah leh Benjamin sung, leh Efraim leh Manasseh sunga mual dawna biakpiaknate leh biakna taute a suksiat khit mateng-te phelkek-te hi. Tua ciangin Israel mi khempeuh, a mi kimin amau' inn omna a khuapi ciat uhah a ciah-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And Hezekiah appointed the courses of the priests and the Levites after their courses, every man according to his service, the priests and Levites for burnt offerings and for peace offerings, to minister, and to give thanks, and to praise in the gates of the tents of the
 
-**TDB77:** Tua ciangin Hezekiah in siampite leh Levi mite amau’ nasep ciat tawh kizui-in a khen a khenin seh a, siampite leh Levi mite in meihal biaknate leh thu-nuama biaknate pia-in, Topa’ inn sung phual tuamtuamte huang sungah nasemin lungdam kohna leh phatna a bawl ding ahi uh hi.
+**TDB77:** Tua ciangin Hezekiah in siampite leh Levi mite amau’ nasep ciat tawh kizui-in a khen a khenin seh a, siampite leh Levi mite in meihal biaknate leh thu-nuama biaknate pia-in, Topa’ inn sung phual tuamtuamte huang sungah nasemin lungdam kohna leh phatna a bawl ding ahi-te hi.
 
-**ZVS:** Tua ciangin Hezekiah in siampite leh Levi mite amau' nasep ciat tawh kizui-in a khen a khenin seh a, siampite leh Levi mite in meihal biaknate leh thunuama biaknate pia-in, { Topa' } biakinn sung phual tuamtuamte-ah na semin lungdam kohna leh phatna a bawl ding uh ahi hi.
+**ZVS:** Tua ciangin Hezekiah in siampite leh Levi mite amau' nasep ciat tawh kizui-in a khen a khenin seh a, siampite leh Levi mite in meihal biaknate leh thunuama biaknate pia-in, { Topa' } biakinn sung phual tuamtuamte-ah na semin lungdam kohna leh phatna a bawl ding-te ahi hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -59,36 +59,36 @@
 ### v5
 **EN:** And as soon as the commandment came abroad, the children of Israel brought in abundance the firstfruits of corn, wine, and oil, and honey, and of all the increase of the field; and the tithe of all things brought they in abundantly.
 
-**TDB77:** Tua thupiakna a kitheihthang phetin Israel mite in anpalte, leeggahzu, sathau, khuaizu, leh lo-a piang khempeuh tampi tak hong pia uh hi; tua ciangin amaute in na khempeuh sung pan seh-sawm suah seh-khat ahi tampi tak hong paipih uh hi.
+**TDB77:** Tua thupiakna a kitheihthang phetin Israel mite in anpalte, leeggahzu, sathau, khuaizu, leh lo-a piang khempeuh tampi tak hong pia-te hi; tua ciangin amaute in na khempeuh sung pan seh-sawm suah seh-khat ahi tampi tak hong paipih-te hi.
 
-**ZVS:** Tua thupiakna a kitheihthang phetin Israel mite in anpalte, leenggahzu, leh lo-a piang khempeuh tampi tak hong pia uh hi. Tua ciangin amaute in na khempeuh sung pan sawmah khat ahi tampi tak hong paipih uh hi.
+**ZVS:** Tua thupiakna a kitheihthang phetin Israel mite in anpalte, leenggahzu, leh lo-a piang khempeuh tampi tak hong pia-te hi. Tua ciangin amaute in na khempeuh sung pan sawmah khat ahi tampi tak hong paipih-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And concerning the children of Israel and Judah, that dwelt in the cities of Judah, they also brought in the tithe of oxen and sheep, and the tithe of holy things which were consecrated unto the
 
-**TDB77:** Tua ciangin Judah khuapite sungah a teeng Israel mite leh Judah mite in zong bawng leh tuu seh-sawm suah seh-khat, leh Topa a Pasian uh tungah a kipiasa a ki-ap nate hong paipih uh a, a lom lomin koih uh hi.
+**TDB77:** Tua ciangin Judah khuapite sungah a teeng Israel mite leh Judah mite in zong bawng leh tuu seh-sawm suah seh-khat, leh Topa a Pasian-te tungah a kipiasa a ki-ap nate hong paipih-te a, a lom lomin koih-te hi.
 
-**ZVS:** Tua ciangin Judah khuapite sungah a teng Israel mite leh Judah mite in zong bawng leh tuu sawmah khat leh { Topa } a Pasian uh tungah a kipiasa a ki-ap nate hong paipih uh a, a lom a lomin a koih uh hi.
+**ZVS:** Tua ciangin Judah khuapite sungah a teng Israel mite leh Judah mite in zong bawng leh tuu sawmah khat leh { Topa } a Pasian-te tungah a kipiasa a ki-ap nate hong paipih-te a, a lom a lomin a koih-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** In the third month they began to lay the foundation of the heaps, and finished them in the seventh month.
 
-**TDB77:** A kha thumna sungin amaute in tua a lomte cian ding kipan uh a, a kha sagihna sungin man siang uh hi.
+**TDB77:** A kha thumna sungin amaute in tua a lomte cian ding kipan-te a, a kha sagihna sungin man siang-te hi.
 
-**ZVS:** A kha thumna sungin amaute in tua a lomte cian ding kipan uh a, a kha sagihna sungin a mansiang uh hi.
+**ZVS:** A kha thumna sungin amaute in tua a lomte cian ding kipan-te a, a kha sagihna sungin a mansiang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And when Hezekiah and the princes came and saw the heaps, they blessed the
 
-**TDB77:** Hezekiah leh uliante hong pai-in a lomte a muh uh ciangin amaute in Topa leh ama mi Israelte thupha pia uh hi.
+**TDB77:** Hezekiah leh uliante hong pai-in a lomte a muh-te ciangin amaute in Topa leh ama mi Israelte thupha pia-te hi.
 
-**ZVS:** Hezekiah leh uliante hong pai-in a lomte a muh uh ciangin amaute in { Topa } leh ama mi Israel-te thupha a pia uh hi.
+**ZVS:** Hezekiah leh uliante hong pai-in a lomte a muh-te ciangin amaute in { Topa } leh ama mi Israel-te thupha a pia-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -104,36 +104,36 @@
 ### v10
 **EN:** And Azariah the chief priest of the house of Zadok answered him, and said, Since the people began to bring the offerings into the house of the
 
-**TDB77:** Zadok’ suan ahi, siampi lian Azariah in amah dawngin, “Amaute in amau’ piakte uh Topa’ inn sungah paipih ding hong kipat uh a, kipan kote in an ka ne uh a, a kicing nei-in tampi val lai hi; Topa in ama mite thupha pia ahih manin hih na tampi a om lai i nei hi,” a ci hi.
+**TDB77:** Zadok’ suan ahi, siampi lian Azariah in amah dawngin, “Amaute in amau’ piakte-te Topa’ inn sungah paipih ding hong kipat-te a, kipan kote in an ka ne-te a, a kicing nei-in tampi val lai hi; Topa in ama mite thupha pia ahih manin hih na tampi a om lai i nei hi,” a ci hi.
 
-**ZVS:** Zadok' suan ahi siampi lianpenpa Azariah in amah dawngin, “Amaute in amau' piakte uh { Topa' } biakinn sungah paipih ding hong kipat uh-a kipan kote in an ka ne uh a, a kicing nei-in tampi vallai hi. { Topa } in ama mite thupha pia ahih manin hih na tampi a omlai i nei hi,” a ci hi.
+**ZVS:** Zadok' suan ahi siampi lianpenpa Azariah in amah dawngin, “Amaute in amau' piakte-te { Topa' } biakinn sungah paipih ding hong kipat uh-a kipan kote in an ka ne-te a, a kicing nei-in tampi vallai hi. { Topa } in ama mite thupha pia ahih manin hih na tampi a omlai i nei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Then Hezekiah commanded to prepare chambers in the house of the
 
-**TDB77:** Tua ciangin amaute in Topa’ inn sungah inndeite a bawl nading uh Hezekiah in thupia hi; tua ciangin amaute in a deite bawl uh hi.
+**TDB77:** Tua ciangin amaute in Topa’ inn sungah inndeite a bawl nading-te Hezekiah in thupia hi; tua ciangin amaute in a deite bawl-te hi.
 
-**ZVS:** Tua ciangin amaute in { Topa' } biakinn sungah inndeite a bawlna ding uh Hezekiah in thu pia a, amaute in zong a deite a bawl uh hi.
+**ZVS:** Tua ciangin amaute in { Topa' } biakinn sungah inndeite a bawlna ding-te Hezekiah in thu pia a, amaute in zong a deite a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v12
 **EN:** And brought in the offerings and the tithes and the dedicated things faithfully: over which Cononiah the Levite was ruler, and Shimei his brother was the next.
 
-**TDB77:** Tua ciangin amaute in a piaknate, seh-sawm suah seh-khat leh a ki-ap nate cihtakna tawh hong paipih uh hi. Tuate a en ulian penpa in Levi mi Konaniah hi a, a sanggampa Shimei in amah a huhpa ahi hi;
+**TDB77:** Tua ciangin amaute in a piaknate, seh-sawm suah seh-khat leh a ki-ap nate cihtakna tawh hong paipih-te hi. Tuate a en ulian penpa in Levi mi Konaniah hi a, a sanggampa Shimei in amah a huhpa ahi hi;
 
-**ZVS:** Tua ciangin amaute in a piaknate, sawmah khat leh a ki-ap nate cihtakna tawh hong paipih uh hi. Tuate a en ulian penpa Levi mi Konaniah hi a, a sanggampa Shimei pen amah a huhpa ahi hi.
+**ZVS:** Tua ciangin amaute in a piaknate, sawmah khat leh a ki-ap nate cihtakna tawh hong paipih-te hi. Tuate a en ulian penpa Levi mi Konaniah hi a, a sanggampa Shimei pen amah a huhpa ahi hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v13
 **EN:** And Jehiel, and Azaziah, and Nahath, and Asahel, and Jerimoth, and Jozabad, and Eliel, and Ismachiah, and Mahath, and Benaiah, were overseers under the hand of Cononiah and Shimei his brother, at the commandment of Hezekiah the king, and Azariah the ruler of the house of God.
 
-**TDB77:** Kumpipa Hezekiah leh Pasian’ inn ukpipa Azariah’ sehna tawh Jehiel, Azariah, Nathan, Asahel, Jerimoth, Jozabad, Eliel, Ismakhiah, Mahath, leh Benaiahte in Konaniah leh a sanggampa Shimei huhin a ukte ahi uh hi.
+**TDB77:** Kumpipa Hezekiah leh Pasian’ inn ukpipa Azariah’ sehna tawh Jehiel, Azariah, Nathan, Asahel, Jerimoth, Jozabad, Eliel, Ismakhiah, Mahath, leh Benaiahte in Konaniah leh a sanggampa Shimei huhin a ukte ahi-te hi.
 
-**ZVS:** Kumpipa Hezekiah leh Pasian' biakinn ukpa Azariah' sehna tawh Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismakhiah, Mahath, leh Benaiah-te in Konaniah leh a sanggampa Shimei huhin a ukte ahi uh hi.
+**ZVS:** Kumpipa Hezekiah leh Pasian' biakinn ukpa Azariah' sehna tawh Jehiel, Azaziah, Nahath, Asahel, Jerimoth, Jozabad, Eliel, Ismakhiah, Mahath, leh Benaiah-te in Konaniah leh a sanggampa Shimei huhin a ukte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -149,9 +149,9 @@
 ### v15
 **EN:** And next him were Eden, and Miniamin, and Jeshua, and Shemaiah, Amariah, and Shecaniah, in the cities of the priests, in their set office, to give to their brethren by courses, as well to the great as to the small:
 
-**TDB77:** Eden, Miniamin, Jeshua, Shemaiah, Amariah, leh Shekaniahte in siampite’ khuapite sungah a moi a ham a kibangin a khen khenin, a ngah ding ciat a sanggamte uh tungah a hawm dingin cihtakna tawh amah huh uh hi.
+**TDB77:** Eden, Miniamin, Jeshua, Shemaiah, Amariah, leh Shekaniahte in siampite’ khuapite sungah a moi a ham a kibangin a khen khenin, a ngah ding ciat a sanggamte-te tungah a hawm dingin cihtakna tawh amah huh-te hi.
 
-**ZVS:** Eden, Miniamin, Jeshua, Shemaiah, Amariah, leh Shekaniah-te in siampite' khuapi sungah a moi a ham a kibangin a khen khenin, a ngah ding ciat a sanggamte uh tungah a hawm dingin cihtakna tawh amah huh uh hi.
+**ZVS:** Eden, Miniamin, Jeshua, Shemaiah, Amariah, leh Shekaniah-te in siampite' khuapi sungah a moi a ham a kibangin a khen khenin, a ngah ding ciat a sanggamte-te tungah a hawm dingin cihtakna tawh amah huh-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -176,9 +176,9 @@
 ### v18
 **EN:** And to the genealogy of all their little ones, their wives, and their sons, and their daughters, through all the congregation: for in their set office they sanctified themselves in holiness:
 
-**TDB77:** Siampite a naupangte khempeuh, a zite, a tapate leh a tanute uh tawh a mihon buppi-in kiciamteh hi; bang hang hiam cih leh a siangtho-in a kikepna uhah amaute citak uh hi.
+**TDB77:** Siampite a naupangte khempeuh, a zite, a tapate leh a tanute-te tawh a mihon buppi-in kiciamteh hi; bang hang hiam cih leh a siangtho-in a kikepna uhah amaute citak-te hi.
 
-**ZVS:** Siampite a naupangte khempeuh, a zite, a tapate, leh a tanute uh tawh a mihon bupin kiciamteh hi; bang hang hiam cih leh a siangtho-in a kikepna uhah amaute citak uh hi.
+**ZVS:** Siampite a naupangte khempeuh, a zite, a tapate, leh a tanute-te tawh a mihon bupin kiciamteh hi; bang hang hiam cih leh a siangtho-in a kikepna uhah amaute citak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

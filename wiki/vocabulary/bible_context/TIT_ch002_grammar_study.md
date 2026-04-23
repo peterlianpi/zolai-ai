@@ -33,21 +33,21 @@
 
 **TDB77:** A teek pasalte in a pumpi deihna khaam nading, a khuaval zulhtat loh nading, a lungkip nading, upna lamah a kip nading, itna a neih nading, a thuak zawh nading na hilh in.
 
-**ZVS:** Pasal khanghamte a kilawm a kituakin a omtheihna ding, thu ngaihsun thei mi ahihna ding, a kikemzo mite ahih theihna ding, upna man a neihtheihna ding, itna man a neihtheihna ding uh leh a manin lungkipin a thuakzawhna dingun na gen in.
+**ZVS:** Pasal khanghamte a kilawm a kituakin a omtheihna ding, thu ngaihsun thei mi ahihna ding, a kikemzo mite ahih theihna ding, upna man a neihtheihna ding, itna man a neihtheihna ding-te leh a manin lungkipin a thuakzawhna dingun na gen in.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v3
 **EN:** The aged women likewise, that they be in behaviour as becometh holiness, not false accusers, not given to much wine, teachers of good things;
 
-**TDB77:** Tua mah bangin mite in Pasian' thu a gensiatkhak lohna dingun numei khanghamte zong a gamtat a khuahek uh a zahtakhuai ahihna ding, mi gensiate ahih lohna ding, zunek kiphamawhte ahih lohna ding, thuhoih thupha hilhin,
+**TDB77:** Tua mah bangin mite in Pasian' thu a gensiatkhak lohna dingun numei khanghamte zong a gamtat a khuahek-te a zahtakhuai ahihna ding, mi gensiate ahih lohna ding, zunek kiphamawhte ahih lohna ding, thuhoih thupha hilhin,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** That they may teach the young women to be sober, to love their husbands, to love their children,
 
-**TDB77:** amaute sangin a nauzaw nupite in a pasalte uh leh a tate uh a itna dingun a hilh ding,
+**TDB77:** amaute sangin a nauzaw nupite in a pasalte-te leh a tate-te a itna dingun a hilh ding,
 
 **Grammar:** plural: uh marker
 
@@ -56,7 +56,7 @@
 
 **TDB77:** a khuaval zulhtat loh ding, mi siangtho hi ding, a inn sung khempeuh a keem ding, migi ding, a pasal’ ukna a mang ding, thu a hilh theih nadingun na hilh in.
 
-**ZVS:** thu ngaihsun thei, a gamtat siangtho, inn nasep a kizen, a migi, leh a pasalte uh thu a mang thei mi ahihna dingun na gen in.
+**ZVS:** thu ngaihsun thei, a gamtat siangtho, inn nasep a kizen, a migi, leh a pasalte-te thu a mang thei mi ahihna dingun na gen in.
 
 ### v6
 **EN:** Young men likewise exhort to be sober minded.
@@ -79,21 +79,21 @@
 
 **TDB77:** Tua bang na hih leh, lang khatah a om mi in eite hong gensiat nading thu ngah loin a maizum ding hi.
 
-**ZVS:** mite' mawhmat theihloh ding kamhoihte na zang in. Tua hi leh i langte in hong gensiat theihna ding muloin a mai uh zum lel ding hi.
+**ZVS:** mite' mawhmat theihloh ding kamhoihte na zang in. Tua hi leh i langte in hong gensiat theihna ding muloin a mai-te zum lel ding hi.
 
 **Grammar:** future: will
 
 ### v9
 **EN:** Exhort servants to be obedient unto their own masters, and to please them well in all things; not answering again;
 
-**TDB77:** Silate in zong a tote uh thu mangin, thu khempeuhah a tote uh a lungkimsakna ding, a tote uh thu seelloin,
+**TDB77:** Silate in zong a tote-te thu mangin, thu khempeuhah a tote-te a lungkimsakna ding, a tote-te thu seelloin,
 
 **Grammar:** plural: uh marker
 
 ### v10
 **EN:** Not purloining, but shewing all good fidelity; that they may adorn the doctrine of God our Saviour in all things.
 
-**TDB77:** a guktaklohna ding, a tawntungin hoih gamtatin a cihtakna uh a kilatsakna dingun na hanthawn in. Tua hi leh eite hong Hon Pasian' thu a hoihna a kilangsakte ahi ding uh ahi hi.
+**TDB77:** a guktaklohna ding, a tawntungin hoih gamtatin a cihtakna-te a kilatsakna dingun na hanthawn in. Tua hi leh eite hong Hon Pasian' thu a hoihna a kilangsakte ahi ding-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

@@ -82,9 +82,9 @@
 ### v8
 **EN:** With whom the Reubenites and the Gadites have received their inheritance, which Moses gave them, beyond Jordan eastward, even as Moses the servant of the
 
-**TDB77:** Reuben mite leh Gad mite in Manasseh minam a lang dang khatte tawh Topa’ nasem Moses in amaute a piak mah bangin, nisuahna lam Jordan gal khatah Moses in amaute a piak gamh ngah khawm uh hi;
+**TDB77:** Reuben mite leh Gad mite in Manasseh minam a lang dang khatte tawh Topa’ nasem Moses in amaute a piak mah bangin, nisuahna lam Jordan gal khatah Moses in amaute a piak gamh ngah khawm-te hi;
 
-**ZVS:** Reuben mite leh Gad mite in Manasseh minam alang dang khatte tawh { Topa' } nasem Moses in amaute a piaksa ahih manin nisuahna lam Jordan galkhatah gamh ngah khin uh hi.
+**ZVS:** Reuben mite leh Gad mite in Manasseh minam alang dang khatte tawh { Topa' } nasem Moses in amaute a piaksa ahih manin nisuahna lam Jordan galkhatah gamh ngah khin-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -121,9 +121,9 @@
 ### v13
 **EN:** Nevertheless the children of Israel expelled not the Geshurites, nor the Maachathites: but the Geshurites and the Maachathites dwell among the Israelites until this day.
 
-**TDB77:** Ahi zongin Israel mite in Geshur mite ahi a, Ma-akath mite ahi zongin hawlkhia lo uh hi; tu ni dongin Geshur mite leh Ma-akath mite Israelte lakah teeng uh hi.
+**TDB77:** Ahi zongin Israel mite in Geshur mite ahi a, Ma-akath mite ahi zongin hawlkhia lo-te hi; tu ni dongin Geshur mite leh Ma-akath mite Israelte lakah teeng-te hi.
 
-**ZVS:** Ahi zongin Israel mite in Geshur mite ahi a, Maakath mite ahi zongin hawlkhia lo uh a, tuni dongin Geshur mite leh Maakath mite Israel-te lakah a teng uh hi.
+**ZVS:** Ahi zongin Israel mite in Geshur mite ahi a, Maakath mite ahi zongin hawlkhia lo-te a, tuni dongin Geshur mite leh Maakath mite Israel-te lakah a teng-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -194,9 +194,9 @@
 ### v22
 **EN:** Balaam also the son of Beor, the soothsayer, did the children of Israel slay with the sword among them that were slain by them.
 
-**TDB77:** Beor’ tapa, aisanpa Balaam zong, Israel mite in a dang a thahte lakah namsau tawh that khawm uh hi.
+**TDB77:** Beor’ tapa, aisanpa Balaam zong, Israel mite in a dang a thahte lakah namsau tawh that khawm-te hi.
 
-**ZVS:** Beor' tapa, aisanpa Balaam zong, Israel mite in adang a thahte lakah namsau tawh thatkhawm uh hi.
+**ZVS:** Beor' tapa, aisanpa Balaam zong, Israel mite in adang a thahte lakah namsau tawh thatkhawm-te hi.
 
 **Grammar:** plural: uh marker
 

@@ -40,9 +40,9 @@
 ### v3
 **EN:** In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water.
 
-**TDB77:** Tuate ah mittaw, khezaw, pum langkhat si akipan cina tampite a lum uh hi.
+**TDB77:** Tuate ah mittaw, khezaw, pum langkhat si akipan cina tampite a lum-te hi.
 
-**ZVS:** Hih talapte sungah a mittaw, a khebai, khutlekhezaw, cina tampi lum phengphang uh hi. (Amaute in tua bualtui a kilawh ding ngakin a om uh ahi hi.
+**ZVS:** Hih talapte sungah a mittaw, a khebai, khutlekhezaw, cina tampi lum phengphang-te hi. (Amaute in tua bualtui a kilawh ding ngakin a om-te ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -74,7 +74,7 @@
 ### v7
 **EN:** The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me.
 
-**TDB77:** Cinapa in, “Topa aw, tui a tat ciangin bual sungah hong koih ding mi ka nei kei hi. Kei ka pai lai takin midangte ka mai-ah a tum uh hi,” ci-in a dawng hi.
+**TDB77:** Cinapa in, “Topa aw, tui a tat ciangin bual sungah hong koih ding mi ka nei kei hi. Kei ka pai lai takin midangte ka mai-ah a tum-te hi,” ci-in a dawng hi.
 
 **ZVS:** cinapa in, “Sia aw, bualtui a kilawh ciangin kei hong pua ding kuamah omlo ahih manin, kei ka tun' ma-in midang khat a bual sung na tungkhin pahpah hi,” ci-in a dawng hi.
 
@@ -99,9 +99,9 @@
 ### v10
 **EN:** The Jews therefore said unto him that was cured, It is the sabbath day: it is not lawful for thee to carry thy bed.
 
-**TDB77:** Tua ahih ciangin Judah mite in a kiangah, “Tuni in Sabbath ni ahi hi; lupna puak tuak lo hi,” ci-in a gen uh hi.
+**TDB77:** Tua ahih ciangin Judah mite in a kiangah, “Tuni in Sabbath ni ahi hi; lupna puak tuak lo hi,” ci-in a gen-te hi.
 
-**ZVS:** Jerusalem khuasunga om Jew mi uliante in cina damkikpa kiangah, “Tuni pen Sabbath ni ahih manin lupna pheek na puak ding ngeina hilo hi,” a cih uh ciangin
+**ZVS:** Jerusalem khuasunga om Jew mi uliante in cina damkikpa kiangah, “Tuni pen Sabbath ni ahih manin lupna pheek na puak ding ngeina hilo hi,” a cih-te ciangin
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -117,9 +117,9 @@
 ### v12
 **EN:** Then asked they him, What man is that which said unto thee,
 
-**TDB77:** Judah mite in, “Na lupna pua in la, lam pai in,” hong ci kua ahi hiam? ci-in a dong uh hi.
+**TDB77:** Judah mite in, “Na lupna pua in la, lam pai in,” hong ci kua ahi hiam? ci-in a dong-te hi.
 
-**ZVS:** Tua ciangin amaute in, “‘Na lupna pheek la in la pai in,’ hong ci kua ahi hiam?” ci-in a dong uh hi.
+**ZVS:** Tua ciangin amaute in, “‘Na lupna pheek la in la pai in,’ hong ci kua ahi hiam?” ci-in a dong-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -153,9 +153,9 @@
 ### v16
 **EN:** And therefore did the Jews persecute Jesus, and sought to slay him, because he had done these things on the sabbath day.
 
-**TDB77:** Tua thu Sabbath ni-in bawl ahih ciangin, Judah mite in Zeisu bawlsia-in thah theih nading thu a zong uh hi.
+**TDB77:** Tua thu Sabbath ni-in bawl ahih ciangin, Judah mite in Zeisu bawlsia-in thah theih nading thu a zong-te hi.
 
-**ZVS:** Tua ahih manin Jesuh in Sabbath ni-in cina a damsakna hangin amaute in Jesuh bawlsiat ding a kipan uh hi.
+**ZVS:** Tua ahih manin Jesuh in Sabbath ni-in cina a damsakna hangin amaute in Jesuh bawlsiat ding a kipan-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -171,9 +171,9 @@
 ### v18
 **EN:** Therefore the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God.
 
-**TDB77:** Tua ahih ciangin amah in Sabbath ni siasak tham loin, Pasian nangawn “Ka Pa hi” ci-in Pasian bangin kibawl hi ci-in, Judah mite in Zeisu a that nuam semsem zaw uh hi.
+**TDB77:** Tua ahih ciangin amah in Sabbath ni siasak tham loin, Pasian nangawn “Ka Pa hi” ci-in Pasian bangin kibawl hi ci-in, Judah mite in Zeisu a that nuam semsem zaw-te hi.
 
-**ZVS:** Hih bangin ama kampauna hangin amaute in Jesuh thatnuam semsem uh hi. Amah in Sabbath thukham a palsat bek hiloin, Pasian nangawn ka Pa ci ahih manin Pasian tawh a kikimin kiseh hi, ci-in a mawhsak uh hi.
+**ZVS:** Hih bangin ama kampauna hangin amaute in Jesuh thatnuam semsem-te hi. Amah in Sabbath thukham a palsat bek hiloin, Pasian nangawn ka Pa ci ahih manin Pasian tawh a kikimin kiseh hi, ci-in a mawhsak-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

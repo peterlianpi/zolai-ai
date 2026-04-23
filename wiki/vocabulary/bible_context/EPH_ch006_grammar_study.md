@@ -27,9 +27,9 @@
 ### v1
 **EN:** Children, obey your parents in the Lord: for this is right.
 
-**TDB77:** Tanute tapate aw, Topa’ deih bangin na nute na pate thu uh na mang un. Bang hang hiam na cih uh leh, hih gamtatna in thuman ahi hi.
+**TDB77:** Tanute tapate aw, Topa’ deih bangin na nute na pate thu-te na mang un. Bang hang hiam na cih-te leh, hih gamtatna in thuman ahi hi.
 
-**ZVS:** Tate aw, na nu na pate uh thu na man'ding uh Khristian ngeina hi a, ahi ding mah ahi hi.
+**ZVS:** Tate aw, na nu na pate-te thu na man'ding-te Khristian ngeina hi a, ahi ding mah ahi hi.
 
 ### v3
 **EN:** That it may be well with thee, and thou mayest live long on the earth.
@@ -41,25 +41,25 @@
 ### v4
 **EN:** And, ye fathers, provoke not your children to wrath: but bring them up in the nurture and admonition of the Lord.
 
-**TDB77:** Pate aw, na tapate na tanute uh heh nading bawl kei un. Pasian’ deihna tawh kituakin tai-in hilh un la, vaak un.
+**TDB77:** Pate aw, na tapate na tanute-te heh nading bawl kei un. Pasian’ deihna tawh kituakin tai-in hilh un la, vaak un.
 
-**ZVS:** Pate aw, na tate uh a hehtheihna dingin bawl kei un la, Khristiante ngeina tawh kituakin taii-in hilhin pantah un.
+**ZVS:** Pate aw, na tate-te a hehtheihna dingin bawl kei un la, Khristiante ngeina tawh kituakin taii-in hilhin pantah un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v5
 **EN:** Servants, be obedient to them that are your masters according to the flesh, with fear and trembling, in singleness of your heart, as unto Christ;
 
-**TDB77:** Silate aw, Khazih thu na ngaih uh mah bangin launa tawh, kihta-in, liingin, lungka loin, ci-le-sa bangin na tote uh thu na mang un.
+**TDB77:** Silate aw, Khazih thu na ngaih-te mah bangin launa tawh, kihta-in, liingin, lungka loin, ci-le-sa bangin na tote-te thu na mang un.
 
-**ZVS:** Silate aw, launa leh lin'na tawh na leitung tote uh thu mang un la, Khrih' na na sep uh mah bangin lungsim takpi tawh na na sepsak un.
+**ZVS:** Silate aw, launa leh lin'na tawh na leitung tote-te thu mang un la, Khrih' na na sep-te mah bangin lungsim takpi tawh na na sepsak un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v6
 **EN:** Not with eyeservice, as menpleasers; but as the servants of Christ, doing the will of God from the heart;
 
-**TDB77:** A hong pahtak ding uh deihna tawh amaute' muhsung bekin tuaci gamtat kei un la, Khrih' sila na hihna hangun Pasian' hong deih bangin lungsim takpi tawh na sem un.
+**TDB77:** A hong pahtak ding-te deihna tawh amaute' muhsung bekin tuaci gamtat kei un la, Khrih' sila na hihna hangun Pasian' hong deih bangin lungsim takpi tawh na sem un.
 
 **Grammar:** plural: uh marker
 
@@ -82,9 +82,9 @@
 ### v9
 **EN:** And, ye masters, do the same things unto them, forbearing threatening: knowing that your Master also is in heaven; neither is there respect of persons with him.
 
-**TDB77:** Tote aw, tawn’na om loin na silate uh tungah tua bangin na bawl un. No leh amau Topa in vantungah om a, amah in kuama maitang zahtak lo hi cih na thei un.
+**TDB77:** Tote aw, tawn’na om loin na silate-te tungah tua bangin na bawl un. No leh amau Topa in vantungah om a, amah in kuama maitang zahtak lo hi cih na thei un.
 
-**ZVS:** Tote aw, silate in note hong bawl mah bangin note in zong amaute limbawl un la, tawn' gawpgawpnate zang nawn kei un. Note leh na silate uh vantung panin To khat khutnuai-ah a om na hihna uh leh tua Topa in kuamah maitang zahtak tuam neiloin a kibangin mi khempeuh thu a khen ahihna thu na phawk ta un.
+**ZVS:** Tote aw, silate in note hong bawl mah bangin note in zong amaute limbawl un la, tawn' gawpgawpnate zang nawn kei un. Note leh na silate-te vantung panin To khat khutnuai-ah a om na hihna-te leh tua Topa in kuamah maitang zahtak tuam neiloin a kibangin mi khempeuh thu a khen ahihna thu na phawk ta un.
 
 **Grammar:** negation: lo
 
@@ -93,7 +93,7 @@
 
 **TDB77:** A khak belin, Topa-ah ahi zongin, ma vangliatna’ hatna-ah ahi zongin, thahatin om un.
 
-**ZVS:** Tu-a kipanin Topa tawh na kipawlna uh leh ama vangliatna hangin na tha uh khauhsak ta un.
+**ZVS:** Tu-a kipanin Topa tawh na kipawlna-te leh ama vangliatna hangin na tha-te khauhsak ta un.
 
 ### v11
 **EN:** Put on the whole armour of God, that ye may be able to stand against the wiles of the devil.
@@ -105,7 +105,7 @@
 ### v12
 **EN:** For we wrestle not against flesh and blood, but against principalities, against powers, against the rulers of the darkness of this world, against spiritual wickedness in high places.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite in ci-le-sa tawh kido i hi kei hi; asang belte tawh ahi zongin, ukte tawh ahi zongin, vangliatna tawh ahi zongin, leitung tawh kipawl khuamial ukte tawh ahi zongin, vantung tawh kipawl munah a om gilo khate tawh ahi zongin i kido hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite in ci-le-sa tawh kido i hi kei hi; asang belte tawh ahi zongin, ukte tawh ahi zongin, vangliatna tawh ahi zongin, leitung tawh kipawl khuamial ukte tawh ahi zongin, vantung tawh kipawl munah a om gilo khate tawh ahi zongin i kido hi.
 
 **ZVS:** Eite' do pen leitung mite hilo a, vantung huihlakah a om ukna, aana a neite, hih leitung khuamial a uk a tuamtuamte ahi hi.
 
@@ -159,7 +159,7 @@
 
 **TDB77:** Thungetna pawlpawlte, thuumna pawlpawlte, Kha Siangtho tawh a tawntungin thu na ngen un. Tua bang thunget nading thakiam loin, misiangtho khempeuh ading thu nget sakin om un.
 
-**ZVS:** Kha Siangtho tawh kopin a tawntungin Pasian kiangah na kisapna khempeuh uh ngenin na thum un la, tatsat loin Pasian mi khempeuh-a' dingin thu na ngetsak un.
+**ZVS:** Kha Siangtho tawh kopin a tawntungin Pasian kiangah na kisapna khempeuh-te ngenin na thum un la, tatsat loin Pasian mi khempeuh-a' dingin thu na ngetsak un.
 
 ### v19
 **EN:** And for me, that utterance may be given unto me, that I may open my mouth boldly, to make known the mystery of the gospel,
@@ -187,9 +187,9 @@
 ### v22
 **EN:** Whom I have sent unto you for the same purpose, that ye might know our affairs, and that he might comfort your hearts.
 
-**TDB77:** Note in kote thu na theih nading uh leh amah in note lungsim hong hehnep nadingin note kiangah ka hong sawl hi.
+**TDB77:** Note in kote thu na theih nading-te leh amah in note lungsim hong hehnep nadingin note kiangah ka hong sawl hi.
 
-**ZVS:** Kote' omzia na theihna ding uh leh amah in note' lungsim hong thahatsak theihna dingin amah a hong paisak ka hi hi.
+**ZVS:** Kote' omzia na theihna ding-te leh amah in note' lungsim hong thahatsak theihna dingin amah a hong paisak ka hi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 

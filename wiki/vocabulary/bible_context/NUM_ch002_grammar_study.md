@@ -32,9 +32,9 @@
 ### v2
 **EN:** Every man of the children of Israel shall pitch by his own standard, with the ensign of their father's house: far off about the tabernacle of the congregation shall they pitch.
 
-**TDB77:** “Israel mite in amau’ dialkhai gei ciatah a beh dialkhaite tawh phual sat ding uh hi; amaute in a pang simah kikhopna buk mai ngatin phual sat ding uh hi.
+**TDB77:** “Israel mite in amau’ dialkhai gei ciatah a beh dialkhaite tawh phual sat ding-te hi; amaute in a pang simah kikhopna buk mai ngatin phual sat ding-te hi.
 
-**ZVS:** Israel mite in amau' dialkhai gei ciatah a beh dialkhaite tawh phual sat ding uh a, amaute in a pang simah kikhopna buk mai ngatin phual sat ding uh hi.
+**ZVS:** Israel mite in amau' dialkhai gei ciatah a beh dialkhaite tawh phual sat ding-te a, amaute in a pang simah kikhopna buk mai ngatin phual sat ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -77,7 +77,7 @@
 ### v9
 **EN:** All that were numbered in the camp of Judah were an hundred thousand and fourscore thousand and six thousand and four hundred, throughout their armies. These shall first set forth.
 
-**TDB77:** Judah’ phual a, a pawl pawl-a omte a vekpi in tul za leh tul sawmgiat leh tulguk leh zali pha hi. A kipai khiat ciangin amau masa ding uh hi.
+**TDB77:** Judah’ phual a, a pawl pawl-a omte a vekpi in tul za leh tul sawmgiat leh tulguk leh zali pha hi. A kipai khiat ciangin amau masa ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -127,9 +127,9 @@
 ### v17
 **EN:** Then the tabernacle of the congregation shall set forward with the camp of the Levites in the midst of the camp: as they encamp, so shall they set forward, every man in his place by their standards.
 
-**TDB77:** “Tua ciangin kikhopna buk in, giahphualte laizangah a om Levi mite’ phual tawh kikhin khawm ding hi; a phual sat hun mah bangun amau’ san ciat ciatah a dialkhai uh tawh paikhia ding uh hi.
+**TDB77:** “Tua ciangin kikhopna buk in, giahphualte laizangah a om Levi mite’ phual tawh kikhin khawm ding hi; a phual sat hun mah bangun amau’ san ciat ciatah a dialkhai-te tawh paikhia ding-te hi.
 
-**ZVS:** Tua ciangin kikhopna buk pen, giahphualte' laizangah a om Levi mite' phual tawh kikhin khawm ding a, a phual sat hun mah bangun amau' san ciatah a dialkhai uh tawh paikhia ding uh hi.
+**ZVS:** Tua ciangin kikhopna buk pen, giahphualte' laizangah a om Levi mite' phual tawh kikhin khawm ding a, a phual sat hun mah bangun amau' san ciatah a dialkhai-te tawh paikhia ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -172,7 +172,7 @@
 ### v24
 **EN:** All that were numbered of the camp of Ephraim were an hundred thousand and eight thousand and an hundred, throughout their armies. And they shall go forward in the third rank.
 
-**TDB77:** Efraim giahphual-a a pawl pawl-a omte a vekpi in tulza leh tulgiat leh zakhat pha hi. Amaute a thumna ah paikhia ding uh hi.
+**TDB77:** Efraim giahphual-a a pawl pawl-a omte a vekpi in tulza leh tulgiat leh zakhat pha hi. Amaute a thumna ah paikhia ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -215,7 +215,7 @@
 ### v31
 **EN:** All they that were numbered in the camp of Dan were an hundred thousand and fifty and seven thousand and six hundred. They shall go hindmost with their standards.
 
-**TDB77:** Dan’ giahphual a, om mi vekpi in tul za leh tul sawmnga leh tul sagih leh zaguk pha hi. Amaute a dialkhai tawh kizui-in pai nunung ding uh hi,” a ci hi.
+**TDB77:** Dan’ giahphual a, om mi vekpi in tul za leh tul sawmnga leh tul sagih leh zaguk pha hi. Amaute a dialkhai tawh kizui-in pai nunung ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -240,9 +240,9 @@
 ### v34
 **EN:** And the children of Israel did according to all that the
 
-**TDB77:** Tua bangin Israel mite in hih uh hi. Topa in Moses a thupiak bangin a beh tawh kizui-in a innkuankuan-in amau dialkhaite gei-ah giahphual sat uh a, tua mah bangin paikhia uh hi.
+**TDB77:** Tua bangin Israel mite in hih-te hi. Topa in Moses a thupiak bangin a beh tawh kizui-in a innkuankuan-in amau dialkhaite gei-ah giahphual sat-te a, tua mah bangin paikhia-te hi.
 
-**ZVS:** Tua bangin Israel mite gamta uh hi. { Topa } in Moses a thupiak bangin a beh tawh kizui-in a innkuankuanin amau' dialkhaite' gei-ah giahphual sat uh a, tua bangmahin paikhia uh hi.
+**ZVS:** Tua bangin Israel mite gamta-te hi. { Topa } in Moses a thupiak bangin a beh tawh kizui-in a innkuankuanin amau' dialkhaite' gei-ah giahphual sat-te a, tua bangmahin paikhia-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

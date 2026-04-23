@@ -95,18 +95,18 @@
 ### v9
 **EN:** And thou shalt gird them with girdles, Aaron and his sons, and put the bonnets on them: and the priest's office shall be theirs for a perpetual statute: and thou shalt consecrate Aaron and his sons.
 
-**TDB77:** kawnggakte tawh amaute gakin amau' tungah a lukhute uh na gak ding hi; siampi nasepna in a kip tawntung ngeina ahih manin amau aa hi ding hi. Tua bangin Aaron leh a tapate na koih ding hi.
+**TDB77:** kawnggakte tawh amaute gakin amau' tungah a lukhute-te na gak ding hi; siampi nasepna in a kip tawntung ngeina ahih manin amau aa hi ding hi. Tua bangin Aaron leh a tapate na koih ding hi.
 
-**ZVS:** kawnggakte tawh amaute gakin, amau' lu tungah a lukhute uh na gak ding hi. Siampi nasepna pen a kip tawntung ngeina ahih manin amau-a' hi ding hi. Tua bangin Aaron leh a tapate na kipsak ding hi.
+**ZVS:** kawnggakte tawh amaute gakin, amau' lu tungah a lukhute-te na gak ding hi. Siampi nasepna pen a kip tawntung ngeina ahih manin amau-a' hi ding hi. Tua bangin Aaron leh a tapate na kipsak ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix
 
 ### v10
 **EN:** And thou shalt cause a bullock to be brought before the tabernacle of the congregation: and Aaron and his sons shall put their hands upon the head of the bullock.
 
-**TDB77:** “Tua ciangin kikhopna buk mai-ah bawngtal na paipih ding hi. Aaron leh a tapate in bawngtal lu tungah amau’ khut nga ding uh a,
+**TDB77:** “Tua ciangin kikhopna buk mai-ah bawngtal na paipih ding hi. Aaron leh a tapate in bawngtal lu tungah amau’ khut nga ding-te a,
 
-**ZVS:** “Tua ciangin kikhopna buk mai-ah bawngtal na paipih ding hi. Aaron leh a tapate in bawngtal lu tungah amau' khut nga ding uh a,
+**ZVS:** “Tua ciangin kikhopna buk mai-ah bawngtal na paipih ding hi. Aaron leh a tapate in bawngtal lu tungah amau' khut nga ding-te a,
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -147,16 +147,16 @@
 **Grammar:** future: will
 
 ### v15
-**EN:** Thou shalt also take one ram; and Aaron and his sons shall put their hands upon the head of the ram.
+**EN:** Thou shalt also take one gam; and Aaron and his sons shall put their hands upon the head of the gam.
 
-**TDB77:** “Tua ciangin nangmah in tuutalte khat la-in, Aaron leh a tapate in tuutal' lu tungah amau’ khut nga ding uh a,
+**TDB77:** “Tua ciangin nangmah in tuutalte khat la-in, Aaron leh a tapate in tuutal' lu tungah amau’ khut nga ding-te a,
 
-**ZVS:** “Tua ciangin nangmah in tuutalte khat la-in, Aaron leh a tapate in tuutal lu tungah amau' khut nga ding uh a,
+**ZVS:** “Tua ciangin nangmah in tuutalte khat la-in, Aaron leh a tapate in tuutal lu tungah amau' khut nga ding-te a,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v16
-**EN:** And thou shalt slay the ram, and thou shalt take his blood, and sprinkle it round about upon the altar.
+**EN:** And thou shalt slay the gam, and thou shalt take his blood, and sprinkle it round about upon the altar.
 
 **TDB77:** nangmah in tuutal go-in, a si la-in biaknatau kimkotah na theh ding hi.
 
@@ -165,7 +165,7 @@
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v17
-**EN:** And thou shalt cut the ram in pieces, and wash the inwards of him, and his legs, and put them unto his pieces, and unto his head.
+**EN:** And thou shalt cut the gam in pieces, and wash the inwards of him, and his legs, and put them unto his pieces, and unto his head.
 
 **TDB77:** Tua ciangin nangmah in tuutal sem nenin, a sungkua leh a khete silin, a sa-bakte leh a lu tawh tuate koihin,
 
@@ -174,7 +174,7 @@
 **Grammar:** sequence: then/therefore
 
 ### v18
-**EN:** And thou shalt burn the whole ram upon the altar: it is a burnt offering unto the
+**EN:** And thou shalt burn the whole gam upon the altar: it is a burnt offering unto the
 
 **TDB77:** biakna tau tungah tuutal a bup-in na hal ding hi; tua in Topa’ tungah meihal biakna ahi hi; tua in a gim namtui, Topa’ tungah mei tawh kihal biakna ahi hi.
 
@@ -183,16 +183,16 @@
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v19
-**EN:** And thou shalt take the other ram; and Aaron and his sons shall put their hands upon the head of the ram.
+**EN:** And thou shalt take the other gam; and Aaron and his sons shall put their hands upon the head of the gam.
 
-**TDB77:** “Nangmah in tuutal a dang khat na la ding hi; Aaron leh a tapate in tuutal' lu tungah amau khut nga ding uh a,
+**TDB77:** “Nangmah in tuutal a dang khat na la ding hi; Aaron leh a tapate in tuutal' lu tungah amau khut nga ding-te a,
 
-**ZVS:** “Nangmah in tuutal adang khat na la ding hi. Aaron leh a tapate in tua tuutal lu tungah amau' khut nga ding uh a,
+**ZVS:** “Nangmah in tuutal adang khat na la ding hi. Aaron leh a tapate in tua tuutal lu tungah amau' khut nga ding-te a,
 
 **Grammar:** future: will | plural: uh marker
 
 ### v20
-**EN:** Then shalt thou kill the ram, and take of his blood, and put it upon the tip of the right ear of Aaron, and upon the tip of the right ear of his sons, and upon the thumb of their right hand, and upon the great toe of their right foot, and sprinkle the blood upon the altar round about.
+**EN:** Then shalt thou kill the gam, and take of his blood, and put it upon the tip of the right ear of Aaron, and upon the tip of the right ear of his sons, and upon the thumb of their right hand, and upon the great toe of their right foot, and sprinkle the blood upon the altar round about.
 
 **TDB77:** nangmah in tuutal go-in, a si tawmkhat la-in Aaron’ taklam bil dawn leh ama' tapate’ taklam bil dawnte leh amau' taklam khutpi dawnte leh amau’ taklam khepi dawnte nuhin, a om lai si teng biakna tau kimah na theh ding hi.
 
@@ -210,7 +210,7 @@
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will
 
 ### v22
-**EN:** Also thou shalt take of the ram the fat and the rump, and the fat that covereth the inwards, and the caul above the liver, and the two kidneys, and the fat that is upon them, and the right shoulder; for it is a ram of consecration:
+**EN:** Also thou shalt take of the gam the fat and the rump, and the fat that covereth the inwards, and the caul above the liver, and the two kidneys, and the fat that is upon them, and the right shoulder; for it is a gam of consecration:
 
 **TDB77:** “Nangmah in tuutal thau, a mei, a gilpi tuam a thau, a sin pan a utok, a kal nihte leh a tuam leh a taklam phei (bang hang hiam cih leh tua inkipsakna tuutal ahi hi),
 
@@ -244,7 +244,7 @@
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v26
-**EN:** And thou shalt take the breast of the ram of Aaron's consecration, and wave it for a wave offering before the
+**EN:** And thou shalt take the breast of the gam of Aaron's consecration, and wave it for a wave offering before the
 
 **TDB77:** “Nangmah in Aaron a kikipsakna tuutal sa-iik la-in Topa’ mai-ah veii-a piak nadingin na veii ding hi; tua in nangma' tanh hi ding hi.
 
@@ -253,7 +253,7 @@
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v27
-**EN:** And thou shalt sanctify the breast of the wave offering, and the shoulder of the heave offering, which is waved, and which is heaved up, of the ram of the consecration, even of that which is for Aaron, and of that which is for his sons:
+**EN:** And thou shalt sanctify the breast of the wave offering, and the shoulder of the heave offering, which is waved, and which is heaved up, of the gam of the consecration, even of that which is for Aaron, and of that which is for his sons:
 
 **TDB77:** Tua in Aaron leh ama' tapate ading ahih ciangin, kipsakna tuutal pan-a a kipia, a kiveii, siampite’ tanh a phei leh veii-a piakna sa-iikte na siangthosak ding hi.
 
@@ -264,9 +264,9 @@
 ### v28
 **EN:** And it shall be Aaron's and his sons' by a statute for ever from the children of Israel: for it is an heave offering: and it shall be an heave offering from the children of Israel of the sacrifice of their peace offerings, even their heave offering unto the
 
-**TDB77:** Tua in Aaron leh ama' tapate adingin Israel mite’ tung panin a kaih tawntung ding uh ahi hi, bang hang hiam cih leh thunuam-a amau biakna panin Israel mite in a piak ding siampite’ tanh ahi hi; tua in Topa’ tungah amau’ piakna ahi hi.
+**TDB77:** Tua in Aaron leh ama' tapate adingin Israel mite’ tung panin a kaih tawntung ding-te ahi hi, bang hang hiam cih leh thunuam-a amau biakna panin Israel mite in a piak ding siampite’ tanh ahi hi; tua in Topa’ tungah amau’ piakna ahi hi.
 
-**ZVS:** Tua pen Aaron leh ama tapate-a' dingin Israel mite' tung panin a kaih tawntung ding uh ahi hi. Bang hang hiam cih leh thunuama amau' biakna panin Israel mite in a piak ding siampite' tanh ahi hi. Tua pen { Topa' } tungah amau' piak ahi hi.
+**ZVS:** Tua pen Aaron leh ama tapate-a' dingin Israel mite' tung panin a kaih tawntung ding-te ahi hi. Bang hang hiam cih leh thunuama amau' biakna panin Israel mite in a piak ding siampite' tanh ahi hi. Tua pen { Topa' } tungah amau' piak ahi hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -289,7 +289,7 @@
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v31
-**EN:** And thou shalt take the ram of the consecration, and seethe his flesh in the holy place.
+**EN:** And thou shalt take the gam of the consecration, and seethe his flesh in the holy place.
 
 **TDB77:** “Nangmah in kipsakna tuutal la-in a siangtho mun khatah a sa na huan ding hi;
 
@@ -298,20 +298,20 @@
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v32
-**EN:** And Aaron and his sons shall eat the flesh of the ram, and the bread that is in the basket, by the door of the tabernacle of the congregation.
+**EN:** And Aaron and his sons shall eat the flesh of the gam, and the bread that is in the basket, by the door of the tabernacle of the congregation.
 
-**TDB77:** Aaron leh a tapate in kikhopna buk kongkhak-ah tuutal sa leh lawh sunga om anlum ne ding uh hi.
+**TDB77:** Aaron leh a tapate in kikhopna buk kongkhak-ah tuutal sa leh lawh sunga om anlum ne ding-te hi.
 
-**ZVS:** Aaron leh a tapate in kikhopna buk kongkhakah tuutal sa leh lawh sunga om anlum ne ding uh hi.
+**ZVS:** Aaron leh a tapate in kikhopna buk kongkhakah tuutal sa leh lawh sunga om anlum ne ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v33
 **EN:** And they shall eat those things wherewith the atonement was made, to consecrate and to sanctify them: but a stranger shall not eat thereof, because they are holy.
 
-**TDB77:** Amaute in amaute kipsak ding leh a siangthosak dingin kilemna a kibawlna tua ante ne ding uh hi, ahih hangin a pualam mi in tuate ne thei lo ding hi, bang hang hiam cih leh tuate a siangtho ahi hi.
+**TDB77:** Amaute in amaute kipsak ding leh a siangthosak dingin kilemna a kibawlna tua ante ne ding-te hi, ahih hangin a pualam mi in tuate ne thei lo ding hi, bang hang hiam cih leh tuate a siangtho ahi hi.
 
-**ZVS:** Amaute in amaute a kikipsakna ding leh a siangthosak dingin kilemna a kibawlna tua ante ne ding uh a, ahih hangin a pualam mi in tuate ne theilo ding hi. Bang hang hiam cih leh tuate pen a siangtho biakna an ahi hi.
+**ZVS:** Amaute in amaute a kikipsakna ding leh a siangthosak dingin kilemna a kibawlna tua ante ne ding-te a, ahih hangin a pualam mi in tuate ne theilo ding hi. Bang hang hiam cih leh tuate pen a siangtho biakna an ahi hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -426,9 +426,9 @@
 ### v46
 **EN:** And they shall know that I am the
 
-**TDB77:** Keimah in amaute’ lakah ka ten’na hangin Izipt leitang panin amaute a paikhiatpih Topa amau’ Pasian ka hihna amaute in thei ding uh hi; keimah in Topa amau' Pasian ka hi hi.
+**TDB77:** Keimah in amaute’ lakah ka ten’na hangin Izipt leitang panin amaute a paikhiatpih Topa amau’ Pasian ka hihna amaute in thei ding-te hi; keimah in Topa amau' Pasian ka hi hi.
 
-**ZVS:** Amaute' lakah keimah ka ten'na hangin Egypt leitang panin amaute a paikhiatpih { Topa } amau' Pasian ka hihna amaute in hong thei ding uh hi. Kei pen { Topa } amau' Pasian ka hi hi.
+**ZVS:** Amaute' lakah keimah ka ten'na hangin Egypt leitang panin amaute a paikhiatpih { Topa } amau' Pasian ka hihna amaute in hong thei ding-te hi. Kei pen { Topa } amau' Pasian ka hi hi.
 
 **Grammar:** future: will | plural: uh marker
 

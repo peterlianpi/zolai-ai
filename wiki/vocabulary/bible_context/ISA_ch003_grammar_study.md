@@ -46,18 +46,18 @@
 ### v4
 **EN:** And I will give children to be their princes, and babes shall rule over them.
 
-**TDB77:** Amaute’ ulian dingin naupangte ka bawl ding a, naungeekte in amau uk ding uh hi.
+**TDB77:** Amaute’ ulian dingin naupangte ka bawl ding a, naungeekte in amau uk ding-te hi.
 
-**ZVS:** Amaute' ulian dingin naupangte ka bawl ding a, naungekte in amaute uk ding uh hi.
+**ZVS:** Amaute' ulian dingin naupangte ka bawl ding a, naungekte in amaute uk ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v5
 **EN:** And the people shall be oppressed, every one by another, and every one by his neighbour: the child shall behave himself proudly against the ancient, and the base against the honourable.
 
-**TDB77:** Mite khat leh khat, mi khempeuh in a lawmte ciat, mi khempeuh in a veengte ciat, kinencip gawp ding uh hi; khangnote pen uhamte tungah, migina lote pen miliante tungah kiphasak ding uh hi.
+**TDB77:** Mite khat leh khat, mi khempeuh in a lawmte ciat, mi khempeuh in a veengte ciat, kinencip gawp ding-te hi; khangnote pen uhamte tungah, migina lote pen miliante tungah kiphasak ding-te hi.
 
-**ZVS:** Mite khatlekhat, mi khempeuh in a lawmte ciat, mi khempeuh in a vengte ciat, hihgawp ding uh hi. Khangnote pen uhamte tungah, mi ginalote pen miliante tungah kiphasak ding uh hi.
+**ZVS:** Mite khatlekhat, mi khempeuh in a lawmte ciat, mi khempeuh in a vengte ciat, hihgawp ding-te hi. Khangnote pen uhamte tungah, mi ginalote pen miliante tungah kiphasak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -82,27 +82,27 @@
 ### v8
 **EN:** For Jerusalem is ruined, and Judah is fallen: because their tongue and their doings are against the
 
-**TDB77:** Bang hang hiam cih leh, amau kampaute leh amau gamtatnate in Topa langpangin, a minthang ama omna dem uh ahih manin, Jerusalem khua kipukin, Judah gam kia hi.
+**TDB77:** Bang hang hiam cih leh, amau kampaute leh amau gamtatnate in Topa langpangin, a minthang ama omna dem-te ahih manin, Jerusalem khua kipukin, Judah gam kia hi.
 
-**ZVS:** Bang hang hiam cih leh amaute khempeuh leh amau' gamtatnate in { Topa } langpangin amah dem uh ahih manin Jerusalem khua kipukin Judah gam kia hi.
+**ZVS:** Bang hang hiam cih leh amaute khempeuh leh amau' gamtatnate in { Topa } langpangin amah dem-te ahih manin Jerusalem khua kipukin Judah gam kia hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix
 
 ### v9
 **EN:** The shew of their countenance doth witness against them; and they declare their sin as Sodom, they hide it not. Woe unto their soul! for they have rewarded evil unto themselves.
 
-**TDB77:** Amau’ maiput in amau langah teci pang hi; Sodom bangin amaute in a mawhna uh genkhia uh hi, amaute in iim lo uh hi. Amaute in gimna ngah ta hen! Bang hang hiam cih leh amaute in amau tung mah ah siatna kitun’ uh hi.
+**TDB77:** Amau’ maiput in amau langah teci pang hi; Sodom bangin amaute in a mawhna-te genkhia-te hi, amaute in iim lo-te hi. Amaute in gimna ngah ta hen! Bang hang hiam cih leh amaute in amau tung mah ah siatna kitun’ uh hi.
 
-**ZVS:** Amau' maiput in amau' langah teci pang hi. Sodom bangin amaute a langtangin gamta uh a, amaute in imlo uh hi. Amaute in gimna ngah ta hen! Bang hang hiam cih leh amaute in amau' tung mahah siatna kitun' uh hi.
+**ZVS:** Amau' maiput in amau' langah teci pang hi. Sodom bangin amaute a langtangin gamta-te a, amaute in imlo-te hi. Amaute in gimna ngah ta hen! Bang hang hiam cih leh amaute in amau' tung mahah siatna kitun' uh hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Say ye to the righteous, that it shall be well with him: for they shall eat the fruit of their doings.
 
-**TDB77:** Amaute tungah thu hoih ding hi, ci-in thuman mite kiangah gen un, bang hang hiam cih leh amaute in amau gamtatna hoih a gah ne ding uh hi.
+**TDB77:** Amaute tungah thu hoih ding hi, ci-in thuman mite kiangah gen un, bang hang hiam cih leh amaute in amau gamtatna hoih a gah ne ding-te hi.
 
-**ZVS:** Amaute tungah thu hoih ding hi, ci-in thuman mite kiangah hih thu gen un. Bang hang hiam cih leh amaute in amau' gamtat hoih thaman ngah ding uh hi.
+**ZVS:** Amaute tungah thu hoih ding hi, ci-in thuman mite kiangah hih thu gen un. Bang hang hiam cih leh amaute in amau' gamtat hoih thaman ngah ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -118,9 +118,9 @@
 ### v12
 **EN:** As for my people, children are their oppressors, and women rule over them. O my people, they which lead thee cause thee to err, and destroy the way of thy paths.
 
-**TDB77:** Keima mite ahih leh—khangnote in bawlsia uh a, numeite in zong uk uh hi. Ka mite aw, na makaite un note lam hong lak khial a, note’ lampi zuih pen hong siasak hi.
+**TDB77:** Keima mite ahih leh—khangnote in bawlsia-te a, numeite in zong uk-te hi. Ka mite aw, na makaite un note lam hong lak khial a, note’ lampi zuih pen hong siasak hi.
 
-**ZVS:** Keima mite ahih leh naupangte in bawlsia uh a, numeite in zong uk uh hi. Ka mite aw, na makaite un note lam hong lakkhial a, note' lampi zuih pen hong siasak hi.
+**ZVS:** Keima mite ahih leh naupangte in bawlsia-te a, numeite in zong uk-te hi. Ka mite aw, na makaite un note lam hong lakkhial a, note' lampi zuih pen hong siasak hi.
 
 **Grammar:** plural: uh marker
 
@@ -136,27 +136,27 @@
 ### v14
 **EN:** The
 
-**TDB77:** Topa in, upate leh ama mite’ uliante tawh thukhen dingin kipan a; “Leenggui lo a ne tumte pen note na hi uh a, mizawngte’ na a kisutte note’ inn sungah om hi.
+**TDB77:** Topa in, upate leh ama mite’ uliante tawh thukhen dingin kipan a; “Leenggui lo a ne tumte pen note na hi-te a, mizawngte’ na a kisutte note’ inn sungah om hi.
 
-**ZVS:** { Topa } pen upate leh ama mite' uliante tawh thukhen dingin kipan a, “Leenggui lo a netumte, note na hi uh a, mizawngte' na a kisutte note' innsungah om hi.
+**ZVS:** { Topa } pen upate leh ama mite' uliante tawh thukhen dingin kipan a, “Leenggui lo a netumte, note na hi-te a, mizawngte' na a kisutte note' innsungah om hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** What mean ye that ye beat my people to pieces, and grind the faces of the poor? saith the Lord
 
-**TDB77:** Ka mite sucip-in, mi zawngte na gawina uh, bang na cih nopna uh ahi hiam? Vanglianpen Topa Pasian in ci hi.
+**TDB77:** Ka mite sucip-in, mi zawngte na gawina uh, bang na cih nopna-te ahi hiam? Vanglianpen Topa Pasian in ci hi.
 
-**ZVS:** Ka mite sucipin mizawngte na gawina uh bang na cihnopna uh a hiam?” Vanglian Topa { Pasian } in ci hi.
+**ZVS:** Ka mite sucipin mizawngte na gawina-te bang na cihnopna-te a hiam?” Vanglian Topa { Pasian } in ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v16
 **EN:** Moreover the
 
-**TDB77:** Topa in hih bangin ci hi: Jerusalem numeite kiphasakin ngawng doksa-in lam pai a, kiphatsakna tawh a mit uh hei pampam-in hi tuihtuihsa-in pai uh a, a khe uh tawh gingsak sualsual ahih uh ciangin;
+**TDB77:** Topa in hih bangin ci hi: Jerusalem numeite kiphasakin ngawng doksa-in lam pai a, kiphatsakna tawh a mit-te hei pampam-in hi tuihtuihsa-in pai-te a, a khe-te tawh gingsak sualsual ahih-te ciangin;
 
-**ZVS:** { Topa } in hih bangin ci hi: Jerusalem numeite kiphasakin ngawng doksa-in lam pai uh a, kiphatsakna tawh a mit uh hei pampamin hi tuihtuihin lam pai uh a, a khe uh gingsak sualsual ahih ciangun
+**ZVS:** { Topa } in hih bangin ci hi: Jerusalem numeite kiphasakin ngawng doksa-in lam pai-te a, kiphatsakna tawh a mit-te hei pampamin hi tuihtuihin lam pai-te a, a khe-te gingsak sualsual ahih ciangun
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -227,9 +227,9 @@
 ### v25
 **EN:** Thy men shall fall by the sword, and thy mighty in the war.
 
-**TDB77:** Na mite pen namsau tawh si ding uh a, a vanglian na mitepen gal sungah kisia ding uh hi.
+**TDB77:** Na mite pen namsau tawh si ding-te a, a vanglian na mitepen gal sungah kisia ding-te hi.
 
-**ZVS:** Na mite, namsau tawh si ding uh a, a vanglian na mite, galsungah kisia ding uh hi.
+**ZVS:** Na mite, namsau tawh si ding-te a, a vanglian na mite, galsungah kisia ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

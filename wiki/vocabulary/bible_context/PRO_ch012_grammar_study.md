@@ -23,7 +23,7 @@
 
 **TDB77:** Pilna a deihte in kithuhilh ding ut a, kitai ding ut lohna in haina hi.
 
-**ZVS:** Pilna a deihte, kithuhilh ding ut uh a, kitai ding utlohna pen haina ahi hi.
+**ZVS:** Pilna a deihte, kithuhilh ding ut-te a, kitai ding utlohna pen haina ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -37,9 +37,9 @@
 ### v3
 **EN:** A man shall not be established by wickedness: but the root of the righteous shall not be moved.
 
-**TDB77:** Gitlohna in lungmuan’na piangsak lo a, thuman mite lungmuang takin om uh hi.
+**TDB77:** Gitlohna in lungmuan’na piangsak lo a, thuman mite lungmuang takin om-te hi.
 
-**ZVS:** Gitlohna in lungmuan'na piangsaklo a, thuman mite lungmuang takin om uh hi.
+**ZVS:** Gitlohna in lungmuan'na piangsaklo a, thuman mite lungmuang takin om-te hi.
 
 **Grammar:** causative: -sak suffix | plural: uh marker
 
@@ -117,9 +117,9 @@
 ### v13
 **EN:** The wicked is snared by the transgression of his lips: but the just shall come out of trouble.
 
-**TDB77:** Migilote’ in a zuaugenna uh awkpih a, thuman mite, buaina tawh kipelh hi.
+**TDB77:** Migilote’ in a zuaugenna-te awkpih a, thuman mite, buaina tawh kipelh hi.
 
-**ZVS:** Migilote in a zuaugenna uh awkpih a, thuman mite buaina tawh kipelh hi.
+**ZVS:** Migilote in a zuaugenna-te awkpih a, thuman mite buaina tawh kipelh hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -128,28 +128,28 @@
 
 **TDB77:** Mite in kamhoih pauna hangin thaman ngah a, a sepna bangun zong thaman ngah hi.
 
-**ZVS:** Mite in kam hoih pauna hangin thaman ngah uh a, a sepna bangun zong thaman ngah uh hi.
+**ZVS:** Mite in kam hoih pauna hangin thaman ngah-te a, a sepna bangun zong thaman ngah-te hi.
 
 ### v15
 **EN:** The way of a fool is right in his own eyes: but he that hearkeneth unto counsel is wise.
 
-**TDB77:** Mihaite in amau mah thuman kisa tawntung a, mipilte in mi’ thugenna ngai nuam uh hi.
+**TDB77:** Mihaite in amau mah thuman kisa tawntung a, mipilte in mi’ thugenna ngai nuam-te hi.
 
-**ZVS:** Mihaite pen amau mah thuman kisa tawntung a, mipilte in mi' thugenna ngai nuam uh hi.
+**ZVS:** Mihaite pen amau mah thuman kisa tawntung a, mipilte in mi' thugenna ngai nuam-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** A fool's wrath is presently known: but a prudent man covereth shame.
 
-**TDB77:** Mihaite in a hehna uh langsak pah a, mipilte in a hehna uh iip zo hi.
+**TDB77:** Mihaite in a hehna-te langsak pah a, mipilte in a hehna-te iip zo hi.
 
-**ZVS:** Mihaite in a hehna uh langsakpah uh a, mipilte in a hehna uh ipzo hi.
+**ZVS:** Mihaite in a hehna-te langsakpah-te a, mipilte in a hehna-te ipzo hi.
 
 ### v17
 **EN:** He that speaketh truth sheweth forth righteousness: but a false witness deceit.
 
-**TDB77:** Thuman mite in thu taktak mah gen uh a, zuau tecite in khemna thu bek gen uh hi.
+**TDB77:** Thuman mite in thu taktak mah gen-te a, zuau tecite in khemna thu bek gen-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -174,7 +174,7 @@
 
 **TDB77:** Thusia ngaihsunte lungkham a, thuhoih vaihawmte lungdam hi.
 
-**ZVS:** Thusia ngaihsunte lungkham uh a, thuhoih vaihawmte lungdam uh hi.
+**ZVS:** Thusia ngaihsunte lungkham-te a, thuhoih vaihawmte lungdam-te hi.
 
 ### v21
 **EN:** There shall no evil happen to the just: but the wicked shall be filled with mischief.
@@ -195,7 +195,7 @@
 ### v23
 **EN:** A prudent man concealeth knowledge: but the heart of fools proclaimeth foolishness.
 
-**TDB77:** Mipilte in a theihna uh im khinkhian a, mihaite in a haina uh pholaklak hi.
+**TDB77:** Mipilte in a theihna-te im khinkhian a, mihaite in a haina-te pholaklak hi.
 
 ### v24
 **EN:** The hand of the diligent shall bear rule: but the slothful shall be under tribute.
@@ -214,9 +214,9 @@
 ### v26
 **EN:** The righteous is more excellent than his neighbour: but the way of the wicked seduceth them.
 
-**TDB77:** Midikte in a gamtatna uh tel-et a, migilote, a gamtatna un lam pialsak hi.
+**TDB77:** Midikte in a gamtatna-te tel-et a, migilote, a gamtatna un lam pialsak hi.
 
-**ZVS:** Midikte in a gamtatna uh tel et a, migilote a gamtatna un lam pialsak hi.
+**ZVS:** Midikte in a gamtatna-te tel et a, migilote a gamtatna un lam pialsak hi.
 
 ### v27
 **EN:** The slothful man roasteth not that which he took in hunting: but the substance of a diligent man is precious.

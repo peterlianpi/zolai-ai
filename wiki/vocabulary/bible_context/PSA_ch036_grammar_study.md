@@ -76,27 +76,27 @@
 ### v7
 **EN:** How excellent is thy lovingkindness, O God! therefore the children of men put their trust under the shadow of thy wings.
 
-**TDB77:** Pasian aw, na itna kip bangzahta in manpha! Mihing tate na kha lim-ah bu uh hi.
+**TDB77:** Pasian aw, na itna kip bangzahta in manpha! Mihing tate na kha lim-ah bu-te hi.
 
-**ZVS:** Pasian aw, na itna kip manpha mahmah hi. Mihing tate na kha liimah bu uh hi.
+**ZVS:** Pasian aw, na itna kip manpha mahmah hi. Mihing tate na kha liimah bu-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** They shall be abundantly satisfied with the fatness of thy house; and thou shalt make them drink of the river of thy pleasures.
 
-**TDB77:** Na inn sunga na tampite tawh amaute nuamsa uh a, na lungkimna gun panin amaute dawn ding na pia hi.
+**TDB77:** Na inn sunga na tampite tawh amaute nuamsa-te a, na lungkimna gun panin amaute dawn ding na pia hi.
 
-**ZVS:** Na inn sunga na tampite tawh amaute nuamsa uh a, na hoihna gun panin amaute na dawnsak hi.
+**ZVS:** Na inn sunga na tampite tawh amaute nuamsa-te a, na hoihna gun panin amaute na dawnsak hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** For with thee is the fountain of life: in thy light shall we see light.
 
-**TDB77:** Bang hang hiam cih leh nuntakna tuinak nang tawh om a, na khuavak sungah kote in khuavak ka mu uh hi.
+**TDB77:** Bang hang hiam cih leh nuntakna tuinak nang tawh om a, na khuavak sungah kote in khuavak ka mu-te hi.
 
-**ZVS:** Bang hang hiam cih leh nuntakna tuinak nangmah tawh om a, na khuavak sungah kote in khuavak ka mu uh hi.
+**ZVS:** Bang hang hiam cih leh nuntakna tuinak nangmah tawh om a, na khuavak sungah kote in khuavak ka mu-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -119,9 +119,9 @@
 ### v12
 **EN:** There are the workers of iniquity fallen: they are cast down, and shall not be able to rise.
 
-**TDB77:** Hia lai-ah siatna bawlte cimawh-in kun uh a, amaute kisuncip sukin, tho zo lo uh hi.
+**TDB77:** Hia lai-ah siatna bawlte cimawh-in kun-te a, amaute kisuncip sukin, tho zo lo-te hi.
 
-**ZVS:** Hua lai-ah siatna bawlte a cimawhin kun uh a, amaute kisuncip sukin, thozo nawnlo uh hi.
+**ZVS:** Hua lai-ah siatna bawlte a cimawhin kun-te a, amaute kisuncip sukin, thozo nawnlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

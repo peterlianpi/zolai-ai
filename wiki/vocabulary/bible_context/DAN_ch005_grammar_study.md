@@ -26,9 +26,9 @@
 ### v1
 **EN:** Belshazzar the king made a great feast to a thousand of his lords, and drank wine before the thousand.
 
-**TDB77:** Belshazzar in kumpi a suah ciangin pawi lianpi bawl a, u liante tulkhat samin amaute tawh zu a dawn uh hi.
+**TDB77:** Belshazzar in kumpi a suah ciangin pawi lianpi bawl a, u liante tulkhat samin amaute tawh zu a dawn-te hi.
 
-**ZVS:** Kumpi a suah ciangin Belshazzar in pawi lianpi khat bawl a, a mi liante tul khat samin amaute tawh zu a ne uh hi.
+**ZVS:** Kumpi a suah ciangin Belshazzar in pawi lianpi khat bawl a, a mi liante tul khat samin amaute tawh zu a ne-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -44,18 +44,18 @@
 ### v3
 **EN:** Then they brought the golden vessels that were taken out of the temple of the house of God which was at Jerusalem; and the king, and his princes, his wives, and his concubines, drank in them.
 
-**TDB77:** Thakhatin khamhai leh kuangte hong paipih uh a, a vekpi-un tua haite tawh zu a dawn uh hi.
+**TDB77:** Thakhatin khamhai leh kuangte hong paipih-te a, a vekpi-un tua haite tawh zu a dawn-te hi.
 
-**ZVS:** Thakhatin kham haite, kuangte hong paipih uh a, a vekpi-un tua haite tawh zu a ne uh hi.
+**ZVS:** Thakhatin kham haite, kuangte hong paipih-te a, a vekpi-un tua haite tawh zu a ne-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** They drank wine, and praised the gods of gold, and of silver, of brass, of iron, of wood, and of stone.
 
-**TDB77:** Amaute in zu dawn uh a, kham tawh, ngun tawh, sumngo tawh, sik tawh, sing tawh, suang tawh kibawl pasiante a phat uh hi.
+**TDB77:** Amaute in zu dawn-te a, kham tawh, ngun tawh, sumngo tawh, sik tawh, sing tawh, suang tawh kibawl pasiante a phat-te hi.
 
-**ZVS:** Amaute in zu ne uh a, kham tawh, ngun tawh, sumngo tawh, sik tawh, sing tawh, suang tawh a kibawl pasian-te a phat uh hi.
+**ZVS:** Amaute in zu ne-te a, kham tawh, ngun tawh, sumngo tawh, sik tawh, sing tawh, suang tawh a kibawl pasian-te a phat-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -89,18 +89,18 @@
 ### v8
 **EN:** Then came in all the king's wise men: but they could not read the writing, nor make known to the king the interpretation thereof.
 
-**TDB77:** Kumpipa’ thudot mite hong tung uh a, ahih hangin tua lai a sim thei leh kumpipa tunga a khiatna a gen thei kuamah a om kei uh hi.
+**TDB77:** Kumpipa’ thudot mite hong tung-te a, ahih hangin tua lai a sim thei leh kumpipa tunga a khiatna a gen thei kuamah a om kei-te hi.
 
-**ZVS:** Kumpipa' thudot mite hong tung uh a, ahih hangin tua lai a sim thei leh kumpipa tungah a khiatna a gen thei kuamah a om kei uh hi.
+**ZVS:** Kumpipa' thudot mite hong tung-te a, ahih hangin tua lai a sim thei leh kumpipa tungah a khiatna a gen thei kuamah a om kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v9
 **EN:** Then was king Belshazzar greatly troubled, and his countenance was changed in him, and his lords were astonished.
 
-**TDB77:** Tua ciangin Belshazzar kumpipa a lungkham mahmah a, a mel daang semsem a, a u liante in a cih nading meel a thei kei uh hi.
+**TDB77:** Tua ciangin Belshazzar kumpipa a lungkham mahmah a, a mel daang semsem a, a u liante in a cih nading meel a thei kei-te hi.
 
-**ZVS:** Tua tak ciangin kumpi Belshazzar lungkham mahmahin a mel daang semsem a, a miliante in a cihna ding mel a thei kei uh hi.
+**ZVS:** Tua tak ciangin kumpi Belshazzar lungkham mahmahin a mel daang semsem a, a miliante in a cihna ding mel a thei kei-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | negation: kei | plural: uh marker
 
@@ -134,9 +134,9 @@
 ### v13
 **EN:** Then was Daniel brought in before the king. And the king spake and said unto Daniel, Art thou that Daniel, which art of the children of the captivity of Judah, whom the king my father brought out of Jewry?
 
-**TDB77:** Tua ciangin Daniel thakhatin kumpipa kiangah a paipih uh hi. Kumpipa in, “Nang Daniel pen ka pa kumpipa in Judah gam pana a hong lakkhiat Judah salte khat hilo na hi hiam?
+**TDB77:** Tua ciangin Daniel thakhatin kumpipa kiangah a paipih-te hi. Kumpipa in, “Nang Daniel pen ka pa kumpipa in Judah gam pana a hong lakkhiat Judah salte khat hilo na hi hiam?
 
-**ZVS:** Tua ciangin thakhatin kumpipa kiangah Daniel a paipih uh hi. Kumpipa in, “Nang Daniel pen kumpi ahi ka pa in Judah gam panin a hong lakkhiat Jew mi salte khat hilo na hi hiam?
+**ZVS:** Tua ciangin thakhatin kumpipa kiangah Daniel a paipih-te hi. Kumpipa in, “Nang Daniel pen kumpi ahi ka pa in Judah gam panin a hong lakkhiat Jew mi salte khat hilo na hi hiam?
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -152,9 +152,9 @@
 ### v15
 **EN:** And now the wise men, the astrologers, have been brought in before me, that they should read this writing, and make known unto me the interpretation thereof: but they could not shew the interpretation of the thing:
 
-**TDB77:** Ka thudot mite leh mitphial siamte in hih lai kigelh sim ding leh a khiatna gen dinga hong pai uh hi napi, a khiatna a thei zo kei uh hi.
+**TDB77:** Ka thudot mite leh mitphial siamte in hih lai kigelh sim ding leh a khiatna gen dinga hong pai-te hi napi, a khiatna a thei zo kei-te hi.
 
-**ZVS:** Ka thudot mite leh mitphial siamte, hih lai kigelh a sim ding leh a khiatna a gen dingin a hong pai uh hinapi, a khiatna a theizo kei uh hi.
+**ZVS:** Ka thudot mite leh mitphial siamte, hih lai kigelh a sim ding leh a khiatna a gen dingin a hong pai-te hinapi, a khiatna a theizo kei-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -186,9 +186,9 @@
 ### v19
 **EN:** And for the majesty that he gave him, all people, nations, and languages, trembled and feared before him: whom he would he slew; and whom he would he kept alive; and whom he would he set up; and whom he would he put down.
 
-**TDB77:** Amah lian lua mahmah ahih manin gam khempeuh, nam khempeuh, pau khempeuhte in kihta in a liing uh hi. Mi khatpeuh a thah nop leh that a, a nuntak sak nop leh a nungta sak hi. A ut leh mi khatpeuh pahtawi-in, a ut leh a daisak thei hi.
+**TDB77:** Amah lian lua mahmah ahih manin gam khempeuh, nam khempeuh, pau khempeuhte in kihta in a liing-te hi. Mi khatpeuh a thah nop leh that a, a nuntak sak nop leh a nungta sak hi. A ut leh mi khatpeuh pahtawi-in, a ut leh a daisak thei hi.
 
-**ZVS:** Amah lianlua mahmah ahih manin gam khempeuh, nam khempeuh, pau khempeuhte in kihta-in a ling uh hi. Mi khatpeuh a thahnop leh that a, a nuntaksaknop leh a nungtasak hi. A ut leh mi khatpeuh pahtawi-in, a ut leh a daisak thei hi.
+**ZVS:** Amah lianlua mahmah ahih manin gam khempeuh, nam khempeuh, pau khempeuhte in kihta-in a ling-te hi. Mi khatpeuh a thahnop leh that a, a nuntaksaknop leh a nungtasak hi. A ut leh mi khatpeuh pahtawi-in, a ut leh a daisak thei hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -222,9 +222,9 @@
 ### v23
 **EN:** But hast lifted up thyself against the Lord of heaven; and they have brought the vessels of his house before thee, and thou, and thy lords, thy wives, and thy concubines, have drunk wine in them; and thou hast praised the gods of silver, and gold, of brass, iron, wood, and stone, which see not, nor hear, nor know: and the God in whose hand thy breath is, and whose are all thy ways, hast thou not glorified:
 
-**TDB77:** Vantung Topa langah na pang hi. A biakinnpi hai leh kuangte la-in sabuai tungah nangmah tawh, na u liante tawh, na zite leh na zi-neute uh tawh zu dawnna-in na zang uh hi. Theihna a neilo, a mu thei lo, khua a za thei lo, ngun, kham, sumngo, sik, sing leh suang tawh a kibawl pasiante’ min na phat uh hi. Na nuntakna leh na hihna khempeuh a hong uk Pasian na zahtak kei hi.
+**TDB77:** Vantung Topa langah na pang hi. A biakinnpi hai leh kuangte la-in sabuai tungah nangmah tawh, na u liante tawh, na zite leh na zi-neute-te tawh zu dawnna-in na zang-te hi. Theihna a neilo, a mu thei lo, khua a za thei lo, ngun, kham, sumngo, sik, sing leh suang tawh a kibawl pasiante’ min na phat-te hi. Na nuntakna leh na hihna khempeuh a hong uk Pasian na zahtak kei hi.
 
-**ZVS:** Vantung Topa' langah na pang hi. A biakinnpi hai leh kuangte la-in sabuai tungah nangmah tawh, na miliante tawh a zineute leh na zite uh tawh zunekna-in na zang uh hi. Theihna a neilo, a mu theilo, khua a za theilo ngun, kham, sumngo, sik, sing, leh suang tawh a kibawl pasian-te' min na phat uh hi. Na nuntakna leh na hihna khempeuh a hong uk Pasian na zahtak kei hi.
+**ZVS:** Vantung Topa' langah na pang hi. A biakinnpi hai leh kuangte la-in sabuai tungah nangmah tawh, na miliante tawh a zineute leh na zite-te tawh zunekna-in na zang-te hi. Theihna a neilo, a mu theilo, khua a za theilo ngun, kham, sumngo, sik, sing, leh suang tawh a kibawl pasian-te' min na phat-te hi. Na nuntakna leh na hihna khempeuh a hong uk Pasian na zahtak kei hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

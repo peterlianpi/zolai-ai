@@ -43,18 +43,18 @@
 ### v3
 **EN:** How long will ye imagine mischief against a man? ye shall be slain all of you: as a bowing wall shall ye be, and as a tottering fence.
 
-**TDB77:** Note khempeuh in, a hoi kawm, a kiliing gawl tawh a kibang mi khat, susia dingin bang tanvei hih huan ding na hi uh hiam?
+**TDB77:** Note khempeuh in, a hoi kawm, a kiliing gawl tawh a kibang mi khat, susia dingin bang tanvei hih huan ding na hi-te hiam?
 
-**ZVS:** Note khempeuh in kawm a hoi tawh a kibang, gawl bangin a kiling mi khat a susia dingin bang tanvei hih huan nilohin, susia ding na hi uh hiam?
+**ZVS:** Note khempeuh in kawm a hoi tawh a kibang, gawl bangin a kiling mi khat a susia dingin bang tanvei hih huan nilohin, susia ding na hi-te hiam?
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v4
 **EN:** They only consult to cast him down from his excellency: they delight in lies: they bless with their mouth, but they curse inwardly. Selah.
 
-**TDB77:** Ama za-liatna panin sukniam ding bek amaute in sawm uh hi. Amaute in thuman lo-ah nuam sa uh hi. Amaute in a kam uh tawh phat uh a, ahih hangin a sungtawng uh-ah samsiat uh hi.
+**TDB77:** Ama za-liatna panin sukniam ding bek amaute in sawm-te hi. Amaute in thuman lo-ah nuam sa-te hi. Amaute in a kam-te tawh phat-te a, ahih hangin a sungtawng uh-ah samsiat-te hi.
 
-**ZVS:** Amah a zaliatna panin sukniam ding bekbek amaute in a sawm uh hi. Amaute in thuman lo-ah nuamsa mahmah uh hi. Amaute in a kampi uh tawh phat khem uh a, ahih hangin a sungtawng uhah samsiat uh hi.
+**ZVS:** Amah a zaliatna panin sukniam ding bekbek amaute in a sawm-te hi. Amaute in thuman lo-ah nuamsa mahmah-te hi. Amaute in a kampi-te tawh phat khem-te a, ahih hangin a sungtawng uhah samsiat-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -86,16 +86,16 @@
 ### v8
 **EN:** Trust in him at all times; ye people, pour out your heart before him: God is a refuge for us. Selah.
 
-**TDB77:** Mite aw, amah muang tawntung un; na lungkhamna teng uh ama tungah gen un; Pasian in eite’ bukna ahi hi.
+**TDB77:** Mite aw, amah muang tawntung un; na lungkhamna teng-te ama tungah gen un; Pasian in eite’ bukna ahi hi.
 
-**ZVS:** Mite aw, amah muang tawntung un la, na lungkhamna teng uh ama tungah gen un. Pasian, eite' bukna ahi hi.
+**ZVS:** Mite aw, amah muang tawntung un la, na lungkhamna teng-te ama tungah gen un. Pasian, eite' bukna ahi hi.
 
 ### v9
 **EN:** Surely men of low degree are vanity, and men of high degree are a lie: to be laid in the balance, they are altogether lighter than vanity.
 
-**TDB77:** Mineute ahih leh husan’ bang bek hi a, miliante pen a hawmpi ahi hi; tawikhaina-ah amaute in lek lo uh hi; amaute a kigawmin husan’ khat sangin zangzaw uh hi.
+**TDB77:** Mineute ahih leh husan’ bang bek hi a, miliante pen a hawmpi ahi hi; tawikhaina-ah amaute in lek lo-te hi; amaute a kigawmin husan’ khat sangin zangzaw-te hi.
 
-**ZVS:** Mihingte ahih leh husan' bang bek hi a, a lian a neu kibang lel hi. Tawi a kikhai ciangin amaute in leeklo uh a, amaute a kigawmin husan' sangin zangzaw hi.
+**ZVS:** Mihingte ahih leh husan' bang bek hi a, a lian a neu kibang lel hi. Tawi a kikhai ciangin amaute in leeklo-te a, amaute a kigawmin husan' sangin zangzaw hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 

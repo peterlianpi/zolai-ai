@@ -70,18 +70,18 @@
 ### v7
 **EN:** The robbery of the wicked shall destroy them; because they refuse to do judgment.
 
-**TDB77:** Migilote, a manin gamta nuam lo uh ahih manin, amau’ gamtat siatna mah awkpih uh hi.
+**TDB77:** Migilote, a manin gamta nuam lo-te ahih manin, amau’ gamtat siatna mah awkpih-te hi.
 
-**ZVS:** Migilote a manin gamta nuamlo uh ahih manin amau' gamtatsiatna mah a awkpih uh hi.
+**ZVS:** Migilote a manin gamta nuamlo-te ahih manin amau' gamtatsiatna mah a awkpih-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
 ### v8
 **EN:** The way of man is froward and strange: but as for the pure, his work is right.
 
-**TDB77:** Mimawhte thukawi-in gamta uh a, midikte a man-in gamta uh hi.
+**TDB77:** Mimawhte thukawi-in gamta-te a, midikte a man-in gamta-te hi.
 
-**ZVS:** Mimawhte thukawi-in gamta uh a, midikte a manin gamta uh hi.
+**ZVS:** Mimawhte thukawi-in gamta-te a, midikte a manin gamta-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -97,18 +97,18 @@
 ### v10
 **EN:** The soul of the wicked desireth evil: his neighbour findeth no favour in his eyes.
 
-**TDB77:** Migilote in thusia bekbek deih uh a, a lawmte nangawn zah tuan lo uh hi.
+**TDB77:** Migilote in thusia bekbek deih-te a, a lawmte nangawn zah tuan lo-te hi.
 
-**ZVS:** Migilote in thusia bekbek deih uh a, a lawmte nangawn zah tuanlo uh hi.
+**ZVS:** Migilote in thusia bekbek deih-te a, a lawmte nangawn zah tuanlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v11
 **EN:** When the scorner is punished, the simple is made wise: and when the wise is instructed, he receiveth knowledge.
 
-**TDB77:** Mi kiphasakte daan a kipiak ciangin mi mawkmawkte in pil lawh a, mipilte a kihilh ciangin thutheihna-in nei uh hi.
+**TDB77:** Mi kiphasakte daan a kipiak ciangin mi mawkmawkte in pil lawh a, mipilte a kihilh ciangin thutheihna-in nei-te hi.
 
-**ZVS:** Mi kiphasakte gim a kipiak ciangin mi mawkmawkte in pillawh uh a, mipilte a kihilh ciangin thutheihna-in nei uh hi.
+**ZVS:** Mi kiphasakte gim a kipiak ciangin mi mawkmawkte in pillawh-te a, mipilte a kihilh ciangin thutheihna-in nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -124,7 +124,7 @@
 
 **TDB77:** Mizawngte’ huh ngetna a pia nuam lote pen, amau zong cimawhin huhna a nget ciangun kipia lo ding hi.
 
-**ZVS:** Mizawngte' huh ngetna a pia nuamlote pen amau zong cimawhin huhna a nget uh ciangin kipialo ding hi.
+**ZVS:** Mizawngte' huh ngetna a pia nuamlote pen amau zong cimawhin huhna a nget-te ciangin kipialo ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -156,16 +156,16 @@
 
 **TDB77:** A noptat nuamte zawng a, zu ne a, sathau namtui nilhte hau lo hi.
 
-**ZVS:** A noptat nuamte zawng uh a, zu ne-in sathau namtui a nilhte haulo uh hi.
+**ZVS:** A noptat nuamte zawng-te a, zu ne-in sathau namtui a nilhte haulo-te hi.
 
 **Grammar:** negation: lo
 
 ### v18
 **EN:** The wicked shall be a ransom for the righteous, and the transgressor for the upright.
 
-**TDB77:** Midikte’ thuak dingin a bawlsak uh gimnate pen, migilote mah in lehthuak zawsop uh hi.
+**TDB77:** Midikte’ thuak dingin a bawlsak-te gimnate pen, migilote mah in lehthuak zawsop-te hi.
 
-**ZVS:** Midikte' thuak dingin a bawlsak uh gimnate pen migilote mah in lehthuak zawsop uh hi.
+**ZVS:** Midikte' thuak dingin a bawlsak-te gimnate pen migilote mah in lehthuak zawsop-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -231,18 +231,18 @@
 ### v26
 **EN:** He coveteth greedily all the day long: but the righteous giveth and spareth not.
 
-**TDB77:** Mihoih lote in lungkim hun nei loin deih thuah tawntung a, mihoihte cingh-in, piakhia tawntung uh hi.
+**TDB77:** Mihoih lote in lungkim hun nei loin deih thuah tawntung a, mihoihte cingh-in, piakhia tawntung-te hi.
 
-**ZVS:** Mihoihlote in lungkim hun neiloin deih thuah tawntung uh a, mihoihte cingh-in piakhia tawntung uh hi.
+**ZVS:** Mihoihlote in lungkim hun neiloin deih thuah tawntung-te a, mihoihte cingh-in piakhia tawntung-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v27
 **EN:** The sacrifice of the wicked is abomination: how much more, when he bringeth it with a wicked mind?
 
-**TDB77:** Topa in migilote’ biakpiakna deih lo hi; ngimna hoih lo tawh a piakte uh deih lo kanlai hi.
+**TDB77:** Topa in migilote’ biakpiakna deih lo hi; ngimna hoih lo tawh a piakte-te deih lo kanlai hi.
 
-**ZVS:** { Topa } in migilote' biakpiaknate deihlo a, ngimna hoihlo tawh a piakte uh deihlo zaw kan lai hi.
+**ZVS:** { Topa } in migilote' biakpiaknate deihlo a, ngimna hoihlo tawh a piakte-te deihlo zaw kan lai hi.
 
 **Grammar:** negation: lo
 
@@ -251,16 +251,16 @@
 
 **TDB77:** A manlo tecite mangthang ding a, thuman tecite’ kam kiza za ding hi.
 
-**ZVS:** A manlo tecite mangthang ding uh a, thuman tecite' kam kizaza ding hi.
+**ZVS:** A manlo tecite mangthang ding-te a, thuman tecite' kam kizaza ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v29
 **EN:** A wicked man hardeneth his face: but as for the upright, he directeth his way.
 
-**TDB77:** Migilote in mi’ muan theih nadingin khauh pau uh a, midikte ahih leh lungmuangin kampau hiathiat uh hi.
+**TDB77:** Migilote in mi’ muan theih nadingin khauh pau-te a, midikte ahih leh lungmuangin kampau hiathiat-te hi.
 
-**ZVS:** Migilote pen muan'theih dingin khauh pau uh a, midikte ahih leh lungmuang takin kampau hiathiat uh hi.
+**ZVS:** Migilote pen muan'theih dingin khauh pau-te a, midikte ahih leh lungmuang takin kampau hiathiat-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

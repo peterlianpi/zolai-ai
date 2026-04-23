@@ -26,16 +26,16 @@
 
 **TDB77:** A dangtak mi peuhmah tui phualah hong pai un; an nei lote aw, hong pai-in lei un la, ne un! Hong pai un, sum leh a man ding pia loin leenggahzu leh bawngnawi lei un.
 
-**ZVS:** A dangtak mi peuhmah tui phualah hong pai un. An neilote aw, hong pai un la hong ne un! Hong pai un; a man ding bangmah piak kulloin leenggahzu leh bawngnawi na duh zahzah uh hong ne un.
+**ZVS:** A dangtak mi peuhmah tui phualah hong pai un. An neilote aw, hong pai un la hong ne un! Hong pai un; a man ding bangmah piak kulloin leenggahzu leh bawngnawi na duh zahzah-te hong ne un.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v2
 **EN:** Wherefore do ye spend money for that which is not bread? and your labour for that which satisfieth not? hearken diligently unto me, and eat ye that which is good, and let your soul delight itself in fatness.
 
-**TDB77:** An ahi lo nate’ adingin bang hangin na sum uh zang a, hong gilvah sak thei lo nate adingin bang hangin na sem na hi uh hiam? Keima thu lim takin ngai-in, a hoih nate ne un la, an limte ah nuamsa-in om un.
+**TDB77:** An ahi lo nate’ adingin bang hangin na sum-te zang a, hong gilvah sak thei lo nate adingin bang hangin na sem na hi-te hiam? Keima thu lim takin ngai-in, a hoih nate ne un la, an limte ah nuamsa-in om un.
 
-**ZVS:** An a hilo nate leina dingin bang hangin na sum uh zang a, hong gilvahsak theilo nate ngahna dingin bang hangin na sem na hi uh hiam? Keima thu limtakin ngai-in a limci an ne un la, anlimte-ah nuamsa-in om un.
+**ZVS:** An a hilo nate leina dingin bang hangin na sum-te zang a, hong gilvahsak theilo nate ngahna dingin bang hangin na sem na hi-te hiam? Keima thu limtakin ngai-in a limci an ne un la, anlimte-ah nuamsa-in om un.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
@@ -60,9 +60,9 @@
 ### v5
 **EN:** Behold, thou shalt call a nation that thou knowest not, and nations that knew not thee shall run unto thee because of the
 
-**TDB77:** En un, note in na theih loh uh minamte na sam ding uh a, amah in note hong minthang sak zo ahih manin, Topa na Pasian leh Israelte’ Siangtho Pa’ hangin note hong thei lo minamte note kiangah hong tai ding uh hi.
+**TDB77:** En un, note in na theih loh-te minamte na sam ding-te a, amah in note hong minthang sak zo ahih manin, Topa na Pasian leh Israelte’ Siangtho Pa’ hangin note hong thei lo minamte note kiangah hong tai ding-te hi.
 
-**ZVS:** Tu-in note in na theih ngeiloh uh minam dangte na sam ding uh a, amah in note hong minthangsak zo ahih manin, { Topa } note' Pasian, Israel-te' Siangtho Pa' hangin note hong theilo minamte note kiangah hong tai ding uh hi.
+**ZVS:** Tu-in note in na theih ngeiloh-te minam dangte na sam ding-te a, amah in note hong minthangsak zo ahih manin, { Topa } note' Pasian, Israel-te' Siangtho Pa' hangin note hong theilo minamte note kiangah hong tai ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -121,9 +121,9 @@
 ### v12
 **EN:** For ye shall go out with joy, and be led forth with peace: the mountains and the hills shall break forth before you into singing, and all the trees of the field shall clap their hands.
 
-**TDB77:** “Bang hang hiam cih leh lungdamna tawh Babilon panin na paikhia ding uh a, nopsakna tawh hong kipaikhiatpih ding hi; note mai-a mual liante leh mual neute in lasa-in awng ding uh a, gamsunga sing khempeuh in a khut uh beeng ding uh hi.
+**TDB77:** “Bang hang hiam cih leh lungdamna tawh Babilon panin na paikhia ding-te a, nopsakna tawh hong kipaikhiatpih ding hi; note mai-a mual liante leh mual neute in lasa-in awng ding-te a, gamsunga sing khempeuh in a khut-te beeng ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh Babylon panin lungdamna tawh na paikhia ding uh a, nopsakna tawh hong kipaikhiatpih ding hi. Note mai-a mual liante leh mual neute in la sa-in awng ding uh a, gamsunga sing khempeuh in a khut uh beeng ding uh hi.
+**ZVS:** Bang hang hiam cih leh Babylon panin lungdamna tawh na paikhia ding-te a, nopsakna tawh hong kipaikhiatpih ding hi. Note mai-a mual liante leh mual neute in la sa-in awng ding-te a, gamsunga sing khempeuh in a khut-te beeng ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

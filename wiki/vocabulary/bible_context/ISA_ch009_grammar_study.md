@@ -24,9 +24,9 @@
 ### v1
 **EN:** Nevertheless the dimness shall not be such as was in her vexation, when at the first he lightly afflicted the land of Zebulun and the land of Naphtali, and afterward did more grievously afflict her by the way of the sea, beyond Jordan, in Galilee of the nations.
 
-**TDB77:** Zebulun minamte leh Naftali minamte’ teen’na gamte in lungkham thuak ding uh a, mai lamah pahtawina ngah kik ding uh hi. Mediterranean tuipi akipanin nisuahna lam Jordan gun gal, minam dangte’ teenna Galile gamsung pen minthang kik ding hi.
+**TDB77:** Zebulun minamte leh Naftali minamte’ teen’na gamte in lungkham thuak ding-te a, mai lamah pahtawina ngah kik ding-te hi. Mediterranean tuipi akipanin nisuahna lam Jordan gun gal, minam dangte’ teenna Galile gamsung pen minthang kik ding hi.
 
-**ZVS:** Zebulun minamte leh Naftali minamte' ten'na gamte in mindaina thuak ngei uh a, ahi zongin mailamah pahtawina ngahkik ding uh hi. Mediterranean tuipi-a kipanin nisuahna lam Jordan gun gal, minam dangte' ten'na Galilee gamsung minthang kik ding hi.
+**ZVS:** Zebulun minamte leh Naftali minamte' ten'na gamte in mindaina thuak ngei-te a, ahi zongin mailamah pahtawina ngahkik ding-te hi. Mediterranean tuipi-a kipanin nisuahna lam Jordan gun gal, minam dangte' ten'na Galilee gamsung minthang kik ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -42,16 +42,16 @@
 ### v3
 **EN:** Thou hast multiplied the nation, and not increased the joy: they joy before thee according to the joy in harvest, and as men rejoice when they divide the spoil.
 
-**TDB77:** Nangmah in amaute na pung sak a, a lungdamna uh na khang sak hi; anlak hun ciang-a lungdamna leh mite in vankisutte a hawm ciangun a lungdam bangun, nangma mai-ah amaute lungdam uh hi.
+**TDB77:** Nangmah in amaute na pung sak a, a lungdamna-te na khang sak hi; anlak hun ciang-a lungdamna leh mite in vankisutte a hawm ciangun a lungdam bangun, nangma mai-ah amaute lungdam-te hi.
 
-**ZVS:** Nangmah in amaute na pungsak a, a lungdamna uh na khangsak hi. Anlak hun ciangin lungdamna leh mite in vankisutte a hawm ciangun a lungdam bangun nangma mai-ah amaute lungdam uh hi.
+**ZVS:** Nangmah in amaute na pungsak a, a lungdamna-te na khangsak hi. Anlak hun ciangin lungdamna leh mite in vankisutte a hawm ciangun a lungdam bangun nangma mai-ah amaute lungdam-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** For thou hast broken the yoke of his burden, and the staff of his shoulder, the rod of his oppressor, as in the day of Midian.
 
-**TDB77:** Bang hang hiam cih leh Midian mite a kizawh ni-a bangin nangmah in gik a sak uh a hakkol uh, amau liangko tunga singzawl leh amaute a nengniamte in a satna ciangkhut na kuaihtan sak a, nangma mi a bawlsia minamte na zo gawp hi.
+**TDB77:** Bang hang hiam cih leh Midian mite a kizawh ni-a bangin nangmah in gik a sak-te a hakkol uh, amau liangko tunga singzawl leh amaute a nengniamte in a satna ciangkhut na kuaihtan sak a, nangma mi a bawlsia minamte na zo gawp hi.
 
 **ZVS:** Bang hang hiam cih leh Midian-te a kizawh ni-a bangin nangmah in amau' vangik puakna hakkol leh amaute a kisatna ciangkhut na kuaihtansak a, nangma mi a bawlsia minamte na zogawp hi.
 
@@ -96,7 +96,7 @@
 ### v10
 **EN:** The bricks are fallen down, but we will build with hewn stones: the sycomores are cut down, but we will change them into cedars.
 
-**TDB77:** “Leiseekte kicim khin hi; ahih hangin suangseek tawh i lam ding hi. Theithek singte kisia khin hi; ahih hangin taamtak sing tawh i khek ding hi,” ci-a kiphasakin lungsim kihisak Efraim mite leh Samaria gamsunga teng mi khempeuh in thei ding uh hi.
+**TDB77:** “Leiseekte kicim khin hi; ahih hangin suangseek tawh i lam ding hi. Theithek singte kisia khin hi; ahih hangin taamtak sing tawh i khek ding hi,” ci-a kiphasakin lungsim kihisak Efraim mite leh Samaria gamsunga teng mi khempeuh in thei ding-te hi.
 
 **Grammar:** completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -112,18 +112,18 @@
 ### v12
 **EN:** The Syrians before, and the Philistines behind; and they shall devour Israel with open mouth. For all this his anger is not turned away, but his hand is stretched out still.
 
-**TDB77:** A mai-a om Siria mite leh a nunga om Filistia mite in kamka-in Israel netum uh hi. Hih thute khempeuh hangin ama hehna dam zo nai lo a, ama khut kilamto lai hi.
+**TDB77:** A mai-a om Siria mite leh a nunga om Filistia mite in kamka-in Israel netum-te hi. Hih thute khempeuh hangin ama hehna dam zo nai lo a, ama khut kilamto lai hi.
 
-**ZVS:** Ama mai-a om Syria mite leh a nunga om Filistia mite in kam ka-in Israel netum uh hi. Hih thute khempeuh hangin ama hehna damzo nailo a, ama khut kizanlai hi.
+**ZVS:** Ama mai-a om Syria mite leh a nunga om Filistia mite in kam ka-in Israel netum-te hi. Hih thute khempeuh hangin ama hehna damzo nailo a, ama khut kizanlai hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** For the people turneth not unto him that smiteth them, neither do they seek the
 
-**TDB77:** Amaute a satpa’ lamah mite kihei lo a, Vanglianpen Topa zong lo uh hi.
+**TDB77:** Amaute a satpa’ lamah mite kihei lo a, Vanglianpen Topa zong lo-te hi.
 
-**ZVS:** Amaute a satpa' lamah Israel mite kiheilo a, Vanglian { Topa } zonglo uh hi.
+**ZVS:** Amaute a satpa' lamah Israel mite kiheilo a, Vanglian { Topa } zonglo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -146,54 +146,54 @@
 ### v16
 **EN:** For the leaders of this people cause them to err; and they that are led of them are destroyed.
 
-**TDB77:** bang hang hiam cih leh hih minam a makaihte in lam khialsak a, amaute’ makaite in lampialsak uh hi.
+**TDB77:** bang hang hiam cih leh hih minam a makaihte in lam khialsak a, amaute’ makaite in lampialsak-te hi.
 
-**ZVS:** Bang hang hiam cih leh hih minam a makaihte in lam khialsak a, amau' makaih mite in siatna ngah uh hi.
+**ZVS:** Bang hang hiam cih leh hih minam a makaihte in lam khialsak a, amau' makaih mite in siatna ngah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** Therefore the Lord shall have no joy in their young men, neither shall have mercy on their fatherless and widows: for every one is an hypocrite and an evildoer, and every mouth speaketh folly. For all this his anger is not turned away, but his hand is stretched out still.
 
-**TDB77:** Tua ahih ciangin amau’ tangvalte tungah Topa lungdam lo a, pa nei lote leh a meigong numeite uh tungah hehpihna nei lo hi; bang hang hiam cih leh mi khempeuh in Pasian’ thu khual loin siatna a bawl vive hi a, kam khempeuh in haina thu gen uh hi. Hih thute khempeuh hangin ama hehna dam zo nai lo a, ama khut kilamto lai hi.
+**TDB77:** Tua ahih ciangin amau’ tangvalte tungah Topa lungdam lo a, pa nei lote leh a meigong numeite-te tungah hehpihna nei lo hi; bang hang hiam cih leh mi khempeuh in Pasian’ thu khual loin siatna a bawl vive hi a, kam khempeuh in haina thu gen-te hi. Hih thute khempeuh hangin ama hehna dam zo nai lo a, ama khut kilamto lai hi.
 
-**ZVS:** Tua ahih ciangin amau' tangvalte tungah Topa lungdamlo a, pa neilote leh a meigong numeite uh tungah hehpihna neilo hi. Bang hang hiam cih leh mi khempeuh pen Pasian' thu a khual omloin siatna a bawl vive hi a, kam khempeuh in haina thu a gen uh hi. Hih thute khempeuh hangin ama hehna damzo nailo a, ama khut kizanlai hi.
+**ZVS:** Tua ahih ciangin amau' tangvalte tungah Topa lungdamlo a, pa neilote leh a meigong numeite-te tungah hehpihna neilo hi. Bang hang hiam cih leh mi khempeuh pen Pasian' thu a khual omloin siatna a bawl vive hi a, kam khempeuh in haina thu a gen-te hi. Hih thute khempeuh hangin ama hehna damzo nailo a, ama khut kizanlai hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** For wickedness burneth as the fire: it shall devour the briers and thorns, and shall kindle in the thickets of the forest, and they shall mount up like the lifting up of smoke.
 
-**TDB77:** Bang hang hiam cih leh gitlohna pen mei bangin kuang a, lingkungte leh lingte kangtum sak hi; gamlak lopa phate kuang sak a, meikhu lomtangin van lamah kizialto uh hi.
+**TDB77:** Bang hang hiam cih leh gitlohna pen mei bangin kuang a, lingkungte leh lingte kangtum sak hi; gamlak lopa phate kuang sak a, meikhu lomtangin van lamah kizialto-te hi.
 
-**ZVS:** Bang hang hiam cih leh gitlohna mei bangin kuang a, lingkungte leh lingte kangtum sak hi. Gamlak lopa phate kuangsak a, meikhu lomtangin van lamah kizialto uh hi.
+**ZVS:** Bang hang hiam cih leh gitlohna mei bangin kuang a, lingkungte leh lingte kangtum sak hi. Gamlak lopa phate kuangsak a, meikhu lomtangin van lamah kizialto-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** Through the wrath of the
 
-**TDB77:** Vanglianpen Topa’ hehna hangin meikuang bangin gamsung kang a, mite pen mei-a kicih sing tawh kibang uh hi; kuamah in a sanggampa zahtuan lo hi.
+**TDB77:** Vanglianpen Topa’ hehna hangin meikuang bangin gamsung kang a, mite pen mei-a kicih sing tawh kibang-te hi; kuamah in a sanggampa zahtuan lo hi.
 
-**ZVS:** Vanglian { Topa}' hehna hangin meikuang bangin gamsung kang a, mite pen mei-a kicih sing tawh kibang uh hi. Kuamah in a sanggampa nangawn zah tuanlo hi.
+**ZVS:** Vanglian { Topa}' hehna hangin meikuang bangin gamsung kang a, mite pen mei-a kicih sing tawh kibang-te hi. Kuamah in a sanggampa nangawn zah tuanlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And he shall snatch on the right hand, and be hungry; and he shall eat on the left hand, and they shall not be satisfied: they shall eat every man the flesh of his own arm:
 
-**TDB77:** Amaute in taklam-a omte ne uh a, ahih hangin gilkial lai uh hi, amaute in veilam-a omte ne uh a, ahih hangin kham nai lo uh hi; mite in amau’ vengte’ sa ne ciat uh hi,
+**TDB77:** Amaute in taklam-a omte ne-te a, ahih hangin gilkial lai-te hi, amaute in veilam-a omte ne-te a, ahih hangin kham nai lo-te hi; mite in amau’ vengte’ sa ne ciat-te hi,
 
-**ZVS:** Amaute in a taklama omte ne uh a, ahih hangin a gil uh kiallai veve hi. A veilama omte ne uh a, ahih hangin kham nailo uh hi. Mite in amau' vengte' sa ne ciat uh hi.
+**ZVS:** Amaute in a taklama omte ne-te a, ahih hangin a gil-te kiallai veve hi. A veilama omte ne-te a, ahih hangin kham nailo-te hi. Mite in amau' vengte' sa ne ciat-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v21
 **EN:** Manasseh, Ephraim; and Ephraim, Manasseh: and they together shall be against Judah. For all this his anger is not turned away, but his hand is stretched out still.
 
-**TDB77:** Manasseh in Efraim, Efraim in Manasseh ne-in tua tegel in Judah langpang khawm uh hi. Hih thute khempeuh hangin ama hehna dam zo nai lo a, ama khut kilamto lai hi.
+**TDB77:** Manasseh in Efraim, Efraim in Manasseh ne-in tua tegel in Judah langpang khawm-te hi. Hih thute khempeuh hangin ama hehna dam zo nai lo a, ama khut kilamto lai hi.
 
-**ZVS:** Manasseh in Efraim, Efraim in Manasseh ne-in, tuate gel in Judah langpang khawm uh hi. Hih thute khempeuh hangin ama hehna damzo nailo a, ama khut kizanlai hi.
+**ZVS:** Manasseh in Efraim, Efraim in Manasseh ne-in, tuate gel in Judah langpang khawm-te hi. Hih thute khempeuh hangin ama hehna damzo nailo a, ama khut kizanlai hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

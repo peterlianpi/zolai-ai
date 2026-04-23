@@ -28,16 +28,16 @@
 ### v1
 **EN:** And he began again to teach by the sea side: and there was gathered unto him a great multitude, so that he entered into a ship, and sat in the sea; and the whole multitude was by the sea on the land.
 
-**TDB77:** Khatvei Zeisu in tuili geiah thu a hilh lai takin, mihonpite a kiangah kikhawm uh a, amah in tui gei nai-ah a om gunkuang tungah tuangin a tu hi.
+**TDB77:** Khatvei Zeisu in tuili geiah thu a hilh lai takin, mihonpite a kiangah kikhawm-te a, amah in tui gei nai-ah a om gunkuang tungah tuangin a tu hi.
 
-**ZVS:** Jesuh in Galilee Tuili gei-ah thuhilh ding kipankik leuleu hi. Ama kiimah a kikhawm mite tamlua ahih manin gunkuang sungah pai-in a tu hi. A gunkuang pen tui tungah om a, mihonpite ahih leh tuigei leilakah om uh hi.
+**ZVS:** Jesuh in Galilee Tuili gei-ah thuhilh ding kipankik leuleu hi. Ama kiimah a kikhawm mite tamlua ahih manin gunkuang sungah pai-in a tu hi. A gunkuang pen tui tungah om a, mihonpite ahih leh tuigei leilakah om-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And he taught them many things by parables, and said unto them in his doctrine,
 
-**TDB77:** Mihonpite in tuili geiah lei tungah a om uh hi. Zeisu in thugentehna tawh thu tampi hilh a, a thuhilhna sungah a gen-inah,
+**TDB77:** Mihonpite in tuili geiah lei tungah a om-te hi. Zeisu in thugentehna tawh thu tampi hilh a, a thuhilhna sungah a gen-inah,
 
 **ZVS:** Amah in thugentehna tawh thu tampi hilh a, a thuhilhna-ah:
 
@@ -55,16 +55,16 @@
 ### v10
 **EN:** And when he was alone, they that were about him with the twelve asked of him the parable.
 
-**TDB77:** Zeisu in gam daina-ah a om lai takin, sawm-le-nihte tawh a kimkot a omkhawmte in thugentehna a dong uh hi.
+**TDB77:** Zeisu in gam daina-ah a om lai takin, sawm-le-nihte tawh a kimkot a omkhawmte in thugentehna a dong-te hi.
 
-**ZVS:** Mihonpite a ven', amah guak a om ciangin nungzui sawmlenihte leh ama thugen a za mite in, na thugentehna a khiatna hong gen in, ci-in a ngen uh hi.
+**ZVS:** Mihonpite a ven', amah guak a om ciangin nungzui sawmlenihte leh ama thugen a za mite in, na thugentehna a khiatna hong gen in, ci-in a ngen-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And he said unto them,
 
-**TDB77:** Zeisu in, “Pasian’ Gam thu theih hakte na theih nadingun thu hong pia hi. A pua lam a omte ahih uh leh, kikheela amau mawhna uh a kimaisak loh nadingin,
+**TDB77:** Zeisu in, “Pasian’ Gam thu theih hakte na theih nadingun thu hong pia hi. A pua lam a omte ahih-te leh, kikheela amau mawhna-te a kimaisak loh nadingin,
 
 **ZVS:** Jesuh in, “Pasian' Ukna tawh kisai thusim, Pasian in note tungah hong gen khinzo hi. Ahi zongin a pualama om mite tungah na khempeuh, thugentehna bek tawh kigen hi.
 
@@ -73,9 +73,9 @@
 ### v13
 **EN:** And he said unto them,
 
-**TDB77:** “Note in hih thugentehna thei lo na hi uh hiam? Na theih kei uh leh, thugentehna khempeuh bangci theih ding na hi uh hiam?
+**TDB77:** “Note in hih thugentehna thei lo na hi-te hiam? Na theih kei-te leh, thugentehna khempeuh bangci theih ding na hi-te hiam?
 
-**ZVS:** Tua ciangin Jesuh in, “Note in hih thugentehna theilo na hi uh hiam? Theilo na hih uh leh, thugentehna khat peuhpeuh bangci theih ngei ding na hi uh hiam?
+**ZVS:** Tua ciangin Jesuh in, “Note in hih thugentehna theilo na hi-te hiam? Theilo na hih-te leh, thugentehna khat peuhpeuh bangci theih ngei ding na hi-te hiam?
 
 ### v21
 **EN:** And he said unto them,
@@ -89,9 +89,9 @@
 ### v24
 **EN:** And he said unto them,
 
-**TDB77:** Zeisu in, “Note in bang na ci zak uh hiam ci-in na kikeem ta un. Midangte na piakna uh seeng mahin no zong hong kipia kik ding a, a tam zawin a hong pia ding hi.
+**TDB77:** Zeisu in, “Note in bang na ci zak-te hiam ci-in na kikeem ta un. Midangte na piakna-te seeng mahin no zong hong kipia kik ding a, a tam zawin a hong pia ding hi.
 
-**ZVS:** Tua ciangin amaute kiangah, “Na zak uh thu limtakin ngaihsun un. Midangte tungah na piakna uh tawh kizui-in note tungah Pasian in hong pia ding a, a tamzaw-in hong piathuah ding hi.
+**ZVS:** Tua ciangin amaute kiangah, “Na zak-te thu limtakin ngaihsun un. Midangte tungah na piakna-te tawh kizui-in note tungah Pasian in hong pia ding a, a tamzaw-in hong piathuah ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -139,9 +139,9 @@
 ### v36
 **EN:** And when they had sent away the multitude, they took him even as he was in the ship. And there were also with him other little ships.
 
-**TDB77:** Amaute in mihonpi nusia-in paikhia uh a, gunkuangah amah a om bangin amaute in Topa tawh tuang khawmin a pai uh hi. Gunkuang dangte zong amau tawh a paikhawm uh hi.
+**TDB77:** Amaute in mihonpi nusia-in paikhia-te a, gunkuangah amah a om bangin amaute in Topa tawh tuang khawmin a pai-te hi. Gunkuang dangte zong amau tawh a paikhawm-te hi.
 
-**ZVS:** Tua ahih ciangin a nungzuite in mihonpite nusia-in Jesuh a na tuan'nasa gunkuang tungah kahin a gunkuang tawh a paikhiatpih uh hi. Gunkuang dangte in zong amau a zui uh hi.
+**ZVS:** Tua ahih ciangin a nungzuite in mihonpite nusia-in Jesuh a na tuan'nasa gunkuang tungah kahin a gunkuang tawh a paikhiatpih-te hi. Gunkuang dangte in zong amau a zui-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -157,9 +157,9 @@
 ### v38
 **EN:** And he was in the hinder part of the ship, asleep on a pillow: and they awake him, and say unto him, Master, carest thou not that we perish?
 
-**TDB77:** Zeisu in gunkuang tawlam lukham tungah a ihmu hi. Amaute in phong uh a, “Topa aw, kote kisiat ding nong awi hiam?” a cih uh ciangin
+**TDB77:** Zeisu in gunkuang tawlam lukham tungah a ihmu hi. Amaute in phong-te a, “Topa aw, kote kisiat ding nong awi hiam?” a cih-te ciangin
 
-**ZVS:** Jesuh pen gunkuang nunglamah lukham khamin ihmu-in a om hi. A nungzuite in amah phongin, “Sia aw, kote sita le ung phamawh hong salo na hi hiam?” a ci uh hi.
+**ZVS:** Jesuh pen gunkuang nunglamah lukham khamin ihmu-in a om hi. A nungzuite in amah phongin, “Sia aw, kote sita le ung phamawh hong salo na hi hiam?” a ci-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -175,18 +175,18 @@
 ### v40
 **EN:** And he said unto them,
 
-**TDB77:** Tua lai takin Zeisu in, “Note in bang dinga lau na hi uh hiam? Upna nei lo na hi uh hiam?” ci-in a dong hi.
+**TDB77:** Tua lai takin Zeisu in, “Note in bang dinga lau na hi-te hiam? Upna nei lo na hi-te hiam?” ci-in a dong hi.
 
-**ZVS:** Tua ciangin Jesuh in a nungzuite kiangah, “Bang hangin lau na hi uh hiam? Tu ciangdong upna nei nailo na hi uh hiam?” a ci hi.
+**ZVS:** Tua ciangin Jesuh in a nungzuite kiangah, “Bang hangin lau na hi-te hiam? Tu ciangdong upna nei nailo na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo
 
 ### v41
 **EN:** And they feared exceedingly, and said one to another, What manner of man is this, that even the wind and the sea obey him?
 
-**TDB77:** Amaute in lau mahmah uh a, “Hih pa in kua mi ahi hiam? Huih leh tuipi nangawn in a thu ngai tazen uh hi,” ci-in khat leh khat a kikum uh hi.
+**TDB77:** Amaute in lau mahmah-te a, “Hih pa in kua mi ahi hiam? Huih leh tuipi nangawn in a thu ngai tazen-te hi,” ci-in khat leh khat a kikum-te hi.
 
-**ZVS:** A nungzuite in lamdangsa mahmah uh a, “Huihpi leh tuihualte nangawn, ama sawl bangin a gamta uh hi,” a ci uh hi.
+**ZVS:** A nungzuite in lamdangsa mahmah-te a, “Huihpi leh tuihualte nangawn, ama sawl bangin a gamta-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

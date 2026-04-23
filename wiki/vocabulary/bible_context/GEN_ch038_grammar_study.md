@@ -197,18 +197,18 @@
 ### v21
 **EN:** Then he asked the men of that place, saying, Where is the harlot, that was openly by the way side? And they said, There was no harlot in this place.
 
-**TDB77:** Amah in tua lai mun mite dong a, “Lam gei Enaim-a om numei paktat nu koi-ah om ahi hiam?” ci hi. Amaute in, “Hih lai-ah numei paktat om ngei lo hi,” ci uh hi.
+**TDB77:** Amah in tua lai mun mite dong a, “Lam gei Enaim-a om numei paktat nu koi-ah om ahi hiam?” ci hi. Amaute in, “Hih lai-ah numei paktat om ngei lo hi,” ci-te hi.
 
-**ZVS:** Amah in tua lai mun mite dong a, “Lam gei Enaim-a om numei paktatnu koi-ah om ahi hiam?” a ci hi. Amaute in, “Hih lai-ah numei paktat om ngeilo hi,” na ci uh hi.
+**ZVS:** Amah in tua lai mun mite dong a, “Lam gei Enaim-a om numei paktatnu koi-ah om ahi hiam?” a ci hi. Amaute in, “Hih lai-ah numei paktat om ngeilo hi,” na ci-te hi.
 
 **Grammar:** quotative: said/saying | negation: lo | plural: uh marker
 
 ### v22
 **EN:** And he returned to Judah, and said, I cannot find her; and also the men of the place said, that there was no harlot in this place.
 
-**TDB77:** Tua ahih ciangin Judah kiangah amah ciah kikin, “Amah ka mu kei hi; tua lai mun mite in, ‘Hih lai-ah numei paktat om ngei lo hi,’ zong hong ci uh hi,” ci hi.
+**TDB77:** Tua ahih ciangin Judah kiangah amah ciah kikin, “Amah ka mu kei hi; tua lai mun mite in, ‘Hih lai-ah numei paktat om ngei lo hi,’ zong hong ci-te hi,” ci hi.
 
-**ZVS:** Tua ahih ciangin Judah kiangah amah ciahkikin, “Amah ka mu kei hi. Tua lai mun mite in, ‘Hih lai-ah numei paktat om ngeilo hi,’ zong hong ci uh hi,” a ci hi.
+**ZVS:** Tua ahih ciangin Judah kiangah amah ciahkikin, “Amah ka mu kei hi. Tua lai mun mite in, ‘Hih lai-ah numei paktat om ngeilo hi,’ zong hong ci-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

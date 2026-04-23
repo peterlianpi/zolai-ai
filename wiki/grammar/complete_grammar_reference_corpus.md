@@ -209,7 +209,7 @@
 **Critical rules:**
 - `kei te` is NOT "we" — 0 corpus occurrences as subject
 - `i` = subject prefix (we), NEVER add `uh` with `i`
-- `amaute pai uh hi` = they went (NOT `amaute i pai hi`)
+- `amaute pai-te hi` = they went (NOT `amaute i pai hi`)
 - `eite` = emphatic/object we/us | `kote` = exclusive we | `i` = subject prefix
 - No gender distinction: `amah` = he/she/it
 
@@ -245,5 +245,5 @@
 | `???` | `kumpipa` |
 | `tua` / `tuan` | `tua` |
 | `kei a leh` (conditional) | `kei a leh` |
-| `I pai uh hi` | `I pai hi` (never uh with i) |
+| `I pai-te hi` | `I pai hi` (never-te with i) |
 | `kei te` (as "we") | `i` / `eite` |

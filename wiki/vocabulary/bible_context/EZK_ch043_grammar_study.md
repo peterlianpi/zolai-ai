@@ -74,27 +74,27 @@
 ### v7
 **EN:** And he said unto me, Son of man, the place of my throne, and the place of the soles of my feet, where I will dwell in the midst of the children of Israel for ever, and my holy name, shall the house of Israel no more defile, neither they, nor their kings, by their whoredom, nor by the carcases of their kings in their high places.
 
-**TDB77:** “Ezekiel aw, hih lai munah ka kumpi tokhom om hi. Israel mite lak hih lai munah ka teeng ding a, amaute ka uk tawntung ding hi. Israel mite leh a kumpite un pasian dang biakna tawh ahi a, a kumpi sisate uh phawk nading mual bawlna tawh ahi zongin ka min siangtho daisak ngei nawn lo ding uh hi.
+**TDB77:** “Ezekiel aw, hih lai munah ka kumpi tokhom om hi. Israel mite lak hih lai munah ka teeng ding a, amaute ka uk tawntung ding hi. Israel mite leh a kumpite un pasian dang biakna tawh ahi a, a kumpi sisate-te phawk nading mual bawlna tawh ahi zongin ka min siangtho daisak ngei nawn lo ding-te hi.
 
-**ZVS:** “Mihing ahi Ezekiel aw, hih lai munah ka kumpi tokhom om hi. Israel mite lak hih lai munah ka teng ding a, amaute ka uk tawntung ding hi. Israel mite leh a kumpite un pasian dang biakna tawh ahi a, a kumpi sisate uh phawkna ding mual bawlna tawh ahi zongin ka min siangtho daisak ngei nawnlo ding uh hi.
+**ZVS:** “Mihing ahi Ezekiel aw, hih lai munah ka kumpi tokhom om hi. Israel mite lak hih lai munah ka teng ding a, amaute ka uk tawntung ding hi. Israel mite leh a kumpite un pasian dang biakna tawh ahi a, a kumpi sisate-te phawkna ding mual bawlna tawh ahi zongin ka min siangtho daisak ngei nawnlo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v8
 **EN:** In their setting of their threshold by my thresholds, and their post by my posts, and the wall between me and them, they have even defiled my holy name by their abominations that they have committed: wherefore I have consumed them in mine anger.
 
-**TDB77:** Bang hang hiam cih leh a kumpite un a kongkhuam uh leh a kongzawlte uh keima biakinn kongkhuam leh kongzawlte tawh kimatin bawl uh a, ka kikal uh kawm bek in hong hal hi. A muhdahhuai a gamtatnate khempeuh uh tawh ka min siangtho hong daisak uh a, kei zong ka heh manin amaute ka susia mang hi.
+**TDB77:** Bang hang hiam cih leh a kumpite un a kongkhuam-te leh a kongzawlte-te keima biakinn kongkhuam leh kongzawlte tawh kimatin bawl-te a, ka kikal-te kawm bek in hong hal hi. A muhdahhuai a gamtatnate khempeuh-te tawh ka min siangtho hong daisak-te a, kei zong ka heh manin amaute ka susia mang hi.
 
-**ZVS:** Bang hang hiam cih leh a kumpite un a kongkhuam uh leh a kongzawlte uh keima biakinn kongkhuam leh kongzawlte tawh kimatin bawl uh a, ka kikal uh kawm bek in hong hal hi. A muhdahhuai a gamtatnate khempeuh uh tawh ka min siangtho hong daisak uh a, kei zong ka heh manin amaute ka susiamang hi.
+**ZVS:** Bang hang hiam cih leh a kumpite un a kongkhuam-te leh a kongzawlte-te keima biakinn kongkhuam leh kongzawlte tawh kimatin bawl-te a, ka kikal-te kawm bek in hong hal hi. A muhdahhuai a gamtatnate khempeuh-te tawh ka min siangtho hong daisak-te a, kei zong ka heh manin amaute ka susiamang hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** Now let them put away their whoredom, and the carcases of their kings, far from me, and I will dwell in the midst of them for ever.
 
-**TDB77:** Ahi zongin tu-in amaute in pasian dangte bia nawn loin, a kumpi sisate uh phawkna a mual uh a phiat ding uh ahi hi. Tua bangin a gamtat nak uh leh amaute lakah ka teeng paisuak tawntung ding hi,” hong ci hi.
+**TDB77:** Ahi zongin tu-in amaute in pasian dangte bia nawn loin, a kumpi sisate-te phawkna a mual-te a phiat ding-te ahi hi. Tua bangin a gamtat nak-te leh amaute lakah ka teeng paisuak tawntung ding hi,” hong ci hi.
 
-**ZVS:** Ahi zongin tu-in amaute in pasian dangte bia nawnloin, a kumpi sisate uh phawkna a mual uh a phiat ding uh ahi hi. Tua bangin a gamtat nak uh leh amaute lakah ka teng paisuak tawntung ding hi,” hong ci hi.
+**ZVS:** Ahi zongin tu-in amaute in pasian dangte bia nawnloin, a kumpi sisate-te phawkna a mual-te a phiat ding-te ahi hi. Tua bangin a gamtat nak-te leh amaute lakah ka teng paisuak tawntung ding hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -110,9 +110,9 @@
 ### v11
 **EN:** And if they be ashamed of all that they have done, shew them the form of the house, and the fashion thereof, and the goings out thereof, and the comings in thereof, and all the forms thereof, and all the ordinances thereof, and all the forms thereof, and all the laws thereof: and write it in their sight, that they may keep the whole form thereof, and all the ordinances thereof, and do them.
 
-**TDB77:** Amaute a gamtatnasate uh hang hong maizum theih uh leh, biakinn geelna, a lim, a lutna leh a pusuahna, a buppi lim, a na khempeuh a kigeelna, leh a zat dan ding khempeuh a cing takin amaute tungah lak tel in la, amaute in a kigeelnate thei-in a zat dan ding bangin a zuih theih nadingun amaute’ adingin lai-in gelhsak in.
+**TDB77:** Amaute a gamtatnasate-te hang hong maizum theih-te leh, biakinn geelna, a lim, a lutna leh a pusuahna, a buppi lim, a na khempeuh a kigeelna, leh a zat dan ding khempeuh a cing takin amaute tungah lak tel in la, amaute in a kigeelnate thei-in a zat dan ding bangin a zuih theih nadingun amaute’ adingin lai-in gelhsak in.
 
-**ZVS:** Amaute a gamtatnasate uh hangin hong maizum theih uh leh, biakinn gelna, a lim, a lutna leh a pusuahna, a buppi lim, a na khempeuh a kigelna, leh a zat dan ding khempeuh a cingtakin amaute tungah laktel in la, amaute in a kigelnate thei-in a zat dan ding bangin a zuih theihna dingun amaute-a' dingin lai-in gelhsak in.
+**ZVS:** Amaute a gamtatnasate-te hangin hong maizum theih-te leh, biakinn gelna, a lim, a lutna leh a pusuahna, a buppi lim, a na khempeuh a kigelna, leh a zat dan ding khempeuh a cingtakin amaute tungah laktel in la, amaute in a kigelnate thei-in a zat dan ding bangin a zuih theihna dingun amaute-a' dingin lai-in gelhsak in.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -182,9 +182,9 @@
 ### v19
 **EN:** And thou shalt give to the priests the Levites that be of the seed of Zadok, which approach unto me, to minister unto me, saith the Lord
 
-**TDB77:** Zadok suan leh khak ahi Levi siampite pen keima na a sem dingin ka omna-ah a hong pai dingte ahi uh hi. Topa Pasian keimah in hih thu kong pia hi. Mawhna hangin biakna-a piak dingin amaute tungah bawngtal khat na pia ding hi.
+**TDB77:** Zadok suan leh khak ahi Levi siampite pen keima na a sem dingin ka omna-ah a hong pai dingte ahi-te hi. Topa Pasian keimah in hih thu kong pia hi. Mawhna hangin biakna-a piak dingin amaute tungah bawngtal khat na pia ding hi.
 
-**ZVS:** Zadok' suanlekhak Levi siampite pen keima na a sem dingin ka omna-ah a hong pai dingte ahi uh hi. Topa { Pasian } keimah in hih thu kong pia hi. Mawhna hangin biakna-a piak dingin amaute tungah bawngtal khat na pia ding hi.
+**ZVS:** Zadok' suanlekhak Levi siampite pen keima na a sem dingin ka omna-ah a hong pai dingte ahi-te hi. Topa { Pasian } keimah in hih thu kong pia hi. Mawhna hangin biakna-a piak dingin amaute tungah bawngtal khat na pia ding hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
@@ -214,7 +214,7 @@
 **Grammar:** serial verb: -in (and then) | future: will | negation: lo
 
 ### v23
-**EN:** When thou hast made an end of cleansing it, thou shalt offer a young bullock without blemish, and a ram out of the flock without blemish.
+**EN:** When thou hast made an end of cleansing it, thou shalt offer a young bullock without blemish, and a gam out of the flock without blemish.
 
 **TDB77:** Hih bangin sian’suahna na man khit ciangin, paubanna a om lo bawngtal khat leh tuutal khat na la ding a,
 
@@ -225,36 +225,36 @@
 ### v24
 **EN:** And thou shalt offer them before the
 
-**TDB77:** Topa ahi keima kiangah nong paipih ding hi. Siampite in tua ganhingte tungah ci thehin, keimah hong biakna-in tua ganhingte hal ding uh hi.
+**TDB77:** Topa ahi keima kiangah nong paipih ding hi. Siampite in tua ganhingte tungah ci thehin, keimah hong biakna-in tua ganhingte hal ding-te hi.
 
-**ZVS:** { Topa } ahi keima kiangah nong paipih ding hi. Siampite in tua ganhingte tungah ci thehin, keimah hong biakna-in tua ganhingte hal ding uh hi.
+**ZVS:** { Topa } ahi keima kiangah nong paipih ding hi. Siampite in tua ganhingte tungah ci thehin, keimah hong biakna-in tua ganhingte hal ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
-**EN:** Seven days shalt thou prepare every day a goat for a sin offering: they shall also prepare a young bullock, and a ram out of the flock, without blemish.
+**EN:** Seven days shalt thou prepare every day a goat for a sin offering: they shall also prepare a young bullock, and a gam out of the flock, without blemish.
 
-**TDB77:** Mawhna hangin biak piakna-in ni sagih sung nisimin, paubanna a om lo keeltal khat, bawngtal khat, leh tuutal khat a pia ding na hi uh hi.
+**TDB77:** Mawhna hangin biak piakna-in ni sagih sung nisimin, paubanna a om lo keeltal khat, bawngtal khat, leh tuutal khat a pia ding na hi-te hi.
 
-**ZVS:** Mawhna hangin biakpiakna-in ni sagih sung nisimin, paubaan'na a omlo keeltal khat, bawngtal khat, leh tuutal khat a pia ding na hi uh hi.
+**ZVS:** Mawhna hangin biakpiakna-in ni sagih sung nisimin, paubaan'na a omlo keeltal khat, bawngtal khat, leh tuutal khat a pia ding na hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v26
 **EN:** Seven days shall they purge the altar and purify it; and they shall consecrate themselves.
 
-**TDB77:** Siampite in ni sagih sung biakna tau apna bawlin zat theih dingin a baihsa-in omsak ding uh hi.
+**TDB77:** Siampite in ni sagih sung biakna tau apna bawlin zat theih dingin a baihsa-in omsak ding-te hi.
 
-**ZVS:** Siampite in ni sagih sung biakna tau apna bawlin zattheih dingin a baihsa-in omsak ding uh hi.
+**ZVS:** Siampite in ni sagih sung biakna tau apna bawlin zattheih dingin a baihsa-in omsak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
 ### v27
 **EN:** And when these days are expired, it shall be, that upon the eighth day, and so forward, the priests shall make your burnt offerings upon the altar, and your peace offerings; and I will accept you, saith the Lord
 
-**TDB77:** Hih bangin ni sagih sung a hih khit uh ciangin, a ni giat ni-a kipanin siampite in meihal biakna leh thunuam-a biak piaknate, biakna tau tungah piak ding kipan ding uh hi. Tua ciangin note tungah kei ka lungkim ding hi. Topa Pasian keimah in hih thu ka gen khin hi,” hong ci hi.
+**TDB77:** Hih bangin ni sagih sung a hih khit-te ciangin, a ni giat ni-a kipanin siampite in meihal biakna leh thunuam-a biak piaknate, biakna tau tungah piak ding kipan ding-te hi. Tua ciangin note tungah kei ka lungkim ding hi. Topa Pasian keimah in hih thu ka gen khin hi,” hong ci hi.
 
-**ZVS:** Hih bangin ni sagih sung a hih khit uh ciangin, a ni giat ni-a kipanin siampite in meihal biakna leh thunuama biakpiaknate, biakna tau tungah piak ding kipan ding uh hi. Tua ciangin note tungah kei ka lungkim ding hi. Topa { Pasian } keimah in hih thu ka gen khin hi,” hong ci hi.
+**ZVS:** Hih bangin ni sagih sung a hih khit-te ciangin, a ni giat ni-a kipanin siampite in meihal biakna leh thunuama biakpiaknate, biakna tau tungah piak ding kipan ding-te hi. Tua ciangin note tungah kei ka lungkim ding hi. Topa { Pasian } keimah in hih thu ka gen khin hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 

@@ -35,9 +35,9 @@
 ### v2
 **EN:** Thus speaketh the
 
-**TDB77:** Vanglianpen’ Topa in thu gen a, “Hih mite in, biakinn lamkik ding hun nai lo hi, ci uh hi,” a ci hi.
+**TDB77:** Vanglianpen’ Topa in thu gen a, “Hih mite in, biakinn lamkik ding hun nai lo hi, ci-te hi,” a ci hi.
 
-**ZVS:** Vanglian { Topa } in thu gen a, “Hih mite in, biakinn lamkik ding hun nailo hi, ci uh hi,” a ci hi.
+**ZVS:** Vanglian { Topa } in thu gen a, “Hih mite in, biakinn lamkik ding hun nailo hi, ci-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: lo | plural: uh marker
 
@@ -53,50 +53,50 @@
 ### v4
 **EN:** Is it time for you, O ye, to dwell in your ceiled houses, and this house lie waste?
 
-**TDB77:** “Ka mite aw, ka biakinn a siacipin a om lai takin, inn hoihpipi sungah note na om ding uh kilawm ahi hiam?
+**TDB77:** “Ka mite aw, ka biakinn a siacipin a om lai takin, inn hoihpipi sungah note na om ding-te kilawm ahi hiam?
 
-**ZVS:** “Ka mite aw, ka biakinn a siacipin a om laitakin, inn hoihpipi sungah note na om ding uh kilawm sa na hi uh hiam?
+**ZVS:** “Ka mite aw, ka biakinn a siacipin a om laitakin, inn hoihpipi sungah note na om ding-te kilawm sa na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** Now therefore thus saith the
 
-**TDB77:** Tu laitak-a na omzia uh lim takin ngaihsun un.
+**TDB77:** Tu laitak-a na omzia-te lim takin ngaihsun un.
 
-**ZVS:** Tua ahih ciangin Vanglian { Topa } in ka hong cihin-ah: Tu laitaka na omzia uh limtakin ngaihsun un.
+**ZVS:** Tua ahih ciangin Vanglian { Topa } in ka hong cihin-ah: Tu laitaka na omzia-te limtakin ngaihsun un.
 
 ### v6
 **EN:** Ye have sown much, and bring in little; ye eat, but ye have not enough; ye drink, but ye are not filled with drink; ye clothe you, but there is none warm; and he that earneth wages earneth wages to put it into a bag with holes.
 
-**TDB77:** Khaici tampi na tuh uh hangin an tawm bek na la uh a, an nek ding na neih tei uh hangin na kham ding uh na nei kei uh hi. Dawn ding leenggahzu na neih tei uh hangin na kham ding uh na nei kei uh hi. Puan silh ding na neih tei uh hangin a lum khop ding na nei kei uh hi. Sum thalawhte in zong a khamkhop ding uh thalawh zo lo uh hi.
+**TDB77:** Khaici tampi na tuh-te hangin an tawm bek na la-te a, an nek ding na neih tei-te hangin na kham ding-te na nei kei-te hi. Dawn ding leenggahzu na neih tei-te hangin na kham ding-te na nei kei-te hi. Puan silh ding na neih tei-te hangin a lum khop ding na nei kei-te hi. Sum thalawhte in zong a khamkhop ding-te thalawh zo lo-te hi.
 
-**ZVS:** Khaici tampi na tuh uh hangin an tawm bek na la uh a, annek ding na neih tei uh hangin na kham ding uh na nei kei uh hi. Dawn ding leenggahzu na neih tei uh hangin na kham ding uh na nei kei uh hi. Puansilh ding na neih tei uh hangin a lumkhop ding na nei kei uh hi. Sum thalawhte in zong a khamkhop ding uh thalawh zolo uh hi.
+**ZVS:** Khaici tampi na tuh-te hangin an tawm bek na la-te a, annek ding na neih tei-te hangin na kham ding-te na nei kei-te hi. Dawn ding leenggahzu na neih tei-te hangin na kham ding-te na nei kei-te hi. Puansilh ding na neih tei-te hangin a lumkhop ding na nei kei-te hi. Sum thalawhte in zong a khamkhop ding-te thalawh zolo-te hi.
 
 **Grammar:** negation: kei | negation: lo | plural: uh marker
 
 ### v7
 **EN:** Thus saith the
 
-**TDB77:** Tu laitak-a na omzia uh lim takin ngaihsun un.
+**TDB77:** Tu laitak-a na omzia-te lim takin ngaihsun un.
 
-**ZVS:** Tua ahih ciangin Vanglian { Topa } in ka hong cihin-ah: Tu laitaka na omzia uh limtakin ngaihsun un.
+**ZVS:** Tua ahih ciangin Vanglian { Topa } in ka hong cihin-ah: Tu laitaka na omzia-te limtakin ngaihsun un.
 
 ### v8
 **EN:** Go up to the mountain, and bring wood, and build the house; and I will take pleasure in it, and I will be glorified, saith the
 
-**TDB77:** Tu-in mual tungah kuanto un la, sing sui un. Tua singte tawh biakinn lamkik le uh cin, kei ka lungdam ding a, nong biak ding uh akilawm bangin kei nong bia thei ding uh hi.
+**TDB77:** Tu-in mual tungah kuanto un la, sing sui un. Tua singte tawh biakinn lamkik le-te cin, kei ka lungdam ding a, nong biak ding-te akilawm bangin kei nong bia thei ding-te hi.
 
-**ZVS:** Tu-in mualtungah kuanto un la, sing sui un. Tua singte tawh biakinn lamkik le uh cin kei ka lungkim ding a, nong biak ding uha kilawm bangin kei nong bia thei ding uh hi.
+**ZVS:** Tu-in mualtungah kuanto un la, sing sui un. Tua singte tawh biakinn lamkik le-te cin kei ka lungkim ding a, nong biak ding uha kilawm bangin kei nong bia thei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v9
 **EN:** Ye looked for much, and, lo, it came to little; and when ye brought it home, I did blow upon it. Why? saith the
 
-**TDB77:** An hau dingin na kilamet uh hangin tawmcik bek na nei uh hi. Na neihsunte nangawn uh inn na tun’pih uh hangin kong mutkhiatsak mang khin hi. Bang hangin hong tua cih ka hi hiam? Note khempeuh, nomau’ inn ding ciat lamin na manlah uh a, ka biakinn a siapi-in na koihdakna hang uh ahi hi.
+**TDB77:** An hau dingin na kilamet-te hangin tawmcik bek na nei-te hi. Na neihsunte nangawn-te inn na tun’pih-te hangin kong mutkhiatsak mang khin hi. Bang hangin hong tua cih ka hi hiam? Note khempeuh, nomau’ inn ding ciat lamin na manlah-te a, ka biakinn a siapi-in na koihdakna hang-te ahi hi.
 
-**ZVS:** “An hau dingin na kilamet uh hangin tawmcik bek na nei uh hi. Na neihsunte nangawn uh inn na tun'pih uh hangin kong mutkhiatsak mang khin hi. Bang hangin tuacih ka hi hiam? Note khempeuh, nomau' inn ding ciat lamin na manlah uh a, ka biakinn a siapi-in na koihdakna hang uh ahi hi.
+**ZVS:** “An hau dingin na kilamet-te hangin tawmcik bek na nei-te hi. Na neihsunte nangawn-te inn na tun'pih-te hangin kong mutkhiatsak mang khin hi. Bang hangin tuacih ka hi hiam? Note khempeuh, nomau' inn ding ciat lamin na manlah-te a, ka biakinn a siapi-in na koihdakna hang-te ahi hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -121,9 +121,9 @@
 ### v12
 **EN:** Then Zerubbabel the son of Shealtiel, and Joshua the son of Jehozadak, the high priest, with all the remnant of the people, obeyed the voice of the
 
-**TDB77:** Tua ciangin Shealtiel’ tapa Zerubbabel, Jehozadak’ tapa Joshua ahi siampi lianpa, leh salsuahna panin hong ciahkik mi khempeuh in Topa ahi amau’ Pasian’ thu mang uh a, Topa Pasian’ kamtai ahi kamsang Haggai’ gen bangin gamta-in, Topa zahtakin lau uh hi.
+**TDB77:** Tua ciangin Shealtiel’ tapa Zerubbabel, Jehozadak’ tapa Joshua ahi siampi lianpa, leh salsuahna panin hong ciahkik mi khempeuh in Topa ahi amau’ Pasian’ thu mang-te a, Topa Pasian’ kamtai ahi kamsang Haggai’ gen bangin gamta-in, Topa zahtakin lau-te hi.
 
-**ZVS:** Tua ciangin Sheatiel' tapa Zerubbabel, Jehozadak' tapa Joshua ahi siampi lianpenpa, leh salsuahna panin hong ciahkik mi khempeuh in { Topa } ahi amau' Pasian' thu mang uh a, { Topa } Pasian' kamtai ahi kamsang Haggai' gen bangin gamta-in, { Topa } zahtakin a lau uh hi.
+**ZVS:** Tua ciangin Sheatiel' tapa Zerubbabel, Jehozadak' tapa Joshua ahi siampi lianpenpa, leh salsuahna panin hong ciahkik mi khempeuh in { Topa } ahi amau' Pasian' thu mang-te a, { Topa } Pasian' kamtai ahi kamsang Haggai' gen bangin gamta-in, { Topa } zahtakin a lau-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -139,16 +139,16 @@
 ### v14
 **EN:** And the
 
-**TDB77:** Tua hi a, Topa in Judah gam ukpa Zerubbabel, siampi lianpa Jehozadak’ tapa Joshua leh salsuahna panin a hong ciahkik mi khempeuh’ sungah biakinn lam nopna lungsim a guan hi. Topa, amau’ Pasian’ biakinn lam dingin hong kithawi uh a,
+**TDB77:** Tua hi a, Topa in Judah gam ukpa Zerubbabel, siampi lianpa Jehozadak’ tapa Joshua leh salsuahna panin a hong ciahkik mi khempeuh’ sungah biakinn lam nopna lungsim a guan hi. Topa, amau’ Pasian’ biakinn lam dingin hong kithawi-te a,
 
-**ZVS:** Tua hi a, { Topa } in Judah gam ukpa Zerubbabel, siampi lianpenpa Joshua, leh salsuahna panin a hong ciahkik mi khempeuh' sungah biakinn lamnopna lungsim a guan' hi. Vanglian { Topa}, amau' Pasian' biakinn a lam dingin hong kithawi uh a,
+**ZVS:** Tua hi a, { Topa } in Judah gam ukpa Zerubbabel, siampi lianpenpa Joshua, leh salsuahna panin a hong ciahkik mi khempeuh' sungah biakinn lamnopna lungsim a guan' hi. Vanglian { Topa}, amau' Pasian' biakinn a lam dingin hong kithawi-te a,
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** In the four and twentieth day of the sixth month, in the second year of Darius the king.
 
-**TDB77:** Darias in kumpi a sep a kum nihna kum, a kha gukna a ni sawmnih leh ni li ni-in biakinn lam hong kipan uh hi.
+**TDB77:** Darias in kumpi a sep a kum nihna kum, a kha gukna a ni sawmnih leh ni li ni-in biakinn lam hong kipan-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

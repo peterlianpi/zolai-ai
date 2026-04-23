@@ -30,34 +30,34 @@
 ### v2
 **EN:** No doubt but ye are the people, and wisdom shall die with you.
 
-**TDB77:** “Note pen theihna kicing na kisa mah uh a, pilna a nei na kisa mah uh hi.
+**TDB77:** “Note pen theihna kicing na kisa mah-te a, pilna a nei na kisa mah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** But I have understanding as well as you; I am not inferior to you: yea, who knoweth not such things as these?
 
-**TDB77:** Ahi zongin note zah mahin kei zong thu ka thei a, note sangin themkhat zong ka niamzaw tuan kei hi. Midangte sangin na theih zawk uh bang om tuan ahi hiam?
+**TDB77:** Ahi zongin note zah mahin kei zong thu ka thei a, note sangin themkhat zong ka niamzaw tuan kei hi. Midangte sangin na theih zawk-te bang om tuan ahi hiam?
 
-**ZVS:** Ahi zongin note zah mahin kei zong thu ka thei a, midangte sangin na theihzawk uh bang om tuan ahi hiam?
+**ZVS:** Ahi zongin note zah mahin kei zong thu ka thei a, midangte sangin na theihzawk-te bang om tuan ahi hiam?
 
 **Grammar:** negation: kei
 
 ### v4
 **EN:** I am as one mocked of his neighbour, who calleth upon God, and he answereth him: the just upright man is laughed to scorn.
 
-**TDB77:** Ka lawmte nangawn in tu-in kei hong nuihsan uh a, kei dikin paubaang lo napi hong nuihsan uh hi; ahi zongin Pasian in ka thungetna hong piak hun om hi.
+**TDB77:** Ka lawmte nangawn in tu-in kei hong nuihsan-te a, kei dikin paubaang lo napi hong nuihsan-te hi; ahi zongin Pasian in ka thungetna hong piak hun om hi.
 
-**ZVS:** Ka lawmte nangawn in tu-in kei hong nuihsan uh a, kei dikin paubaanglo napi hong nuihsan uh hi. Ahi zongin Pasian in ka thungetna a hong piak hun om hi.
+**ZVS:** Ka lawmte nangawn in tu-in kei hong nuihsan-te a, kei dikin paubaanglo napi hong nuihsan-te hi. Ahi zongin Pasian in ka thungetna a hong piak hun om hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v5
 **EN:** He that is ready to slip with his feet is as a lamp despised in the thought of him that is at ease.
 
-**TDB77:** Note in lungkhamna na nei kei uh a, ahi zongin kei nong ciamnuih bawl uh hi; a puk dektak mipa na satgawp uh hi.
+**TDB77:** Note in lungkhamna na nei kei-te a, ahi zongin kei nong ciamnuih bawl-te hi; a puk dektak mipa na satgawp-te hi.
 
-**ZVS:** Note in lungkhamna bangmah na nei kei uh a, kei na hong ciamnuih bawl gawpgawp uh hi. A puk dektak mipa na satgawp uh hi.
+**ZVS:** Note in lungkhamna bangmah na nei kei-te a, kei na hong ciamnuih bawl gawpgawp-te hi. A puk dektak mipa na satgawp-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -66,32 +66,32 @@
 
 **TDB77:** Guta mite nuam takin om hit-hiat a, Pasian simmawhte nuam takin nungta hi.
 
-**ZVS:** Guta mite nuamtakin om hithiat uh a, Pasian a simmawhte nuamtakin nungta uh hi.
+**ZVS:** Guta mite nuamtakin om hithiat-te a, Pasian a simmawhte nuamtakin nungta-te hi.
 
 ### v7
 **EN:** But ask now the beasts, and they shall teach thee; and the fowls of the air, and they shall tell thee:
 
-**TDB77:** “Ahi zongin, gamsate va dong un, hong hilh ding uh hi; vasate va dong un, hong hilh ding uh hi;
+**TDB77:** “Ahi zongin, gamsate va dong un, hong hilh ding-te hi; vasate va dong un, hong hilh ding-te hi;
 
-**ZVS:** “Ahi zongin gamsate va dong un, hong hilh ding uh hi. Vasate va dong un, hong hilh ding uh hi.
+**ZVS:** “Ahi zongin gamsate va dong un, hong hilh ding-te hi. Vasate va dong un, hong hilh ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v8
 **EN:** Or speak to the earth, and it shall teach thee: and the fishes of the sea shall declare unto thee.
 
-**TDB77:** lei tunga bokvak ganhingte va dong un, hong hilh ding uh hi; tui sung ngasate zong va dong un, hong hilh ding uh hi.
+**TDB77:** lei tunga bokvak ganhingte va dong un, hong hilh ding-te hi; tui sung ngasate zong va dong un, hong hilh ding-te hi.
 
-**ZVS:** Leitung ganhingte va dong un, hong hilh ding uh hi. Tui sung ngasate zong va dong un, hong hilh ding uh hi.
+**ZVS:** Leitung ganhingte va dong un, hong hilh ding-te hi. Tui sung ngasate zong va dong un, hong hilh ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v9
 **EN:** Who knoweth not in all these that the hand of the
 
-**TDB77:** Pasian’ khut in amaute a bawlna thu, a vekpi-in thei kim uh hilo ahi hiam?
+**TDB77:** Pasian’ khut in amaute a bawlna thu, a vekpi-in thei kim-te hilo ahi hiam?
 
-**ZVS:** Pasian' khut in amaute a bawlna thu a vekpi-un thei kim uh hilo ahi hiam?
+**ZVS:** Pasian' khut in amaute a bawlna thu a vekpi-un thei kim-te hilo ahi hiam?
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -112,9 +112,9 @@
 ### v12
 **EN:** With the ancient is wisdom; and in length of days understanding.
 
-**TDB77:** Khanghamte in pilna nei a, nuntak saute in thu thei tel uh hi.
+**TDB77:** Khanghamte in pilna nei a, nuntak saute in thu thei tel-te hi.
 
-**ZVS:** “Khanghamte in pilna nei a, nuntak saute in thu theitel uh hi.
+**ZVS:** “Khanghamte in pilna nei a, nuntak saute in thu theitel-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -148,7 +148,7 @@
 
 **TDB77:** Pasian thahatin gualzo tawntung a, mi khemte leh khemna a thuakte Pasian’ ukna nuai-ah om hi.
 
-**ZVS:** “Pasian thahatin gualzo tawntung a, mi khemte leh khemna a thuakte Pasian' ukna nuai-ah a om uh ahi hi.
+**ZVS:** “Pasian thahatin gualzo tawntung a, mi khemte leh khemna a thuakte Pasian' ukna nuai-ah a om-te ahi hi.
 
 ### v17
 **EN:** He leadeth counsellors away spoiled, and maketh the judges fools.
@@ -210,14 +210,14 @@
 
 **TDB77:** Amah in minam makaite’ pilna paihkhiatsak a, lampi om lohna gamlakah a vakvai sak hi.
 
-**ZVS:** Amah in minam makaite a pilna uh paihkhiatsak a, lampi omlohna gamlakah vakvaisak hi.
+**ZVS:** Amah in minam makaite a pilna-te paihkhiatsak a, lampi omlohna gamlakah vakvaisak hi.
 
 ### v25
 **EN:** They grope in the dark without light, and he maketh them to stagger like a drunken man.
 
-**TDB77:** Khuavak om loin khuamial lakah amaute in mialzawt uh a, zukham bangin amaute hoi-hoi uh hi.
+**TDB77:** Khuavak om loin khuamial lakah amaute in mialzawt-te a, zukham bangin amaute hoi-hoi-te hi.
 
-**ZVS:** Khuamial lakah amaute in mialzawt uh a, zukham bangin amaute hoihoi uh hi.
+**ZVS:** Khuamial lakah amaute in mialzawt-te a, zukham bangin amaute hoihoi-te hi.
 
 **Grammar:** plural: uh marker
 

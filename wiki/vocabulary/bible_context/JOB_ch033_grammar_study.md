@@ -151,9 +151,9 @@
 ### v16
 **EN:** Then he openeth the ears of men, and sealeth their instruction,
 
-**TDB77:** Pasian in mite kiangah thu gen a, ama hilhkholhna hangin mite lau mahmah uh hi.
+**TDB77:** Pasian in mite kiangah thu gen a, ama hilhkholhna hangin mite lau mahmah-te hi.
 
-**ZVS:** Pasian in thu hong gen a, ama hilhkholhna hangin mite lau mahmah uh hi.
+**ZVS:** Pasian in thu hong gen a, ama hilhkholhna hangin mite lau mahmah-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
@@ -210,7 +210,7 @@
 ### v23
 **EN:** If there be a messenger with him, an interpreter, one among a thousand, to shew unto man his uprightness:
 
-**TDB77:** Mihingte a tavuan uh a phawksak, Pasian’ vantungmi tul tampite lak panin vantungmi khat amah huh dingin hong pai kha ding hi.
+**TDB77:** Mihingte a tavuan-te a phawksak, Pasian’ vantungmi tul tampite lak panin vantungmi khat amah huh dingin hong pai kha ding hi.
 
 **ZVS:** “Mihingte' tavuan a phawksak, Pasian' vantung mi tul tampite lak panin vantung mi khat amah a huh dingin hong paikhia ding hi.
 

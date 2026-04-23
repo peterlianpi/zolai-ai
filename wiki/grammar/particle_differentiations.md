@@ -28,15 +28,15 @@ From *Khanggui* (lines 458–481), the plurality system is strict:
 
 | Context | Marker | Example | Translation | Note |
 | :--- | :--- | :--- | :--- | :--- |
-| 3rd person pl. | **uh** | `A pai uh hi.` | They go. | `uh` marks "them" (2+ people) |
+| 3rd person pl. | **uh** | `A pai-te hi.` | They go. | `uh` marks "them" (2+ people) |
 | 1st person incl. | **i** | `I pai hi.` | We (all) go. | NO `uh` needed! |
 | 1st person excl. | **ko** | `Ko pai hi.` | We (not you) go. | |
-| Mixed reference | context | `Amaute sang ah pai uh hi.` | They went to school. | `uh` for 3rd person pl. |
+| Mixed reference | context | `Amaute sang ah pai-te hi.` | They went to school. | `uh` for 3rd person pl. |
 
 ### ⚠️ Critical Rule
 > **NEVER combine `uh` with `i` (1st person inclusive).**
 > - ✅ `I pai hi.` — We go.
-> - ❌ `I pai uh hi.` — **WRONG**
+> - ❌ `I pai-te hi.` — **WRONG**
 
 ### Khanggui Explanation (lines 474–481)
 > `"i", "ei" I zatna mun ah, "uh" cih zat kul nawnlo hi.`

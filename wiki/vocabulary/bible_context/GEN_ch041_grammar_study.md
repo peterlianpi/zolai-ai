@@ -38,27 +38,27 @@
 ### v2
 **EN:** And, behold, there came up out of the river seven well favoured kine and fatfleshed; and they fed in a meadow.
 
-**TDB77:** en in, Nail gun sung panin bawngpi a zol a thau sagih hong paikhia a, amaute in phai lopate ne uh hi.
+**TDB77:** en in, Nail gun sung panin bawngpi a zol a thau sagih hong paikhia a, amaute in phai lopate ne-te hi.
 
-**ZVS:** Nail gun sung panin bawngpi a zol a thau sagih hong paikhia a, amaute in phai lopate ne uh hi.
+**ZVS:** Nail gun sung panin bawngpi a zol a thau sagih hong paikhia a, amaute in phai lopate ne-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** And, behold, seven other kine came up after them out of the river, ill favoured and leanfleshed; and stood by the other kine upon the brink of the river.
 
-**TDB77:** En in, amaute’ khit ciangin Nail gun sung panin a gulhgawng a gawng bawngpi dang sagih hong paikhia a, Nail gun gei-a bawngpi dangte' kiangah ding uh hi.
+**TDB77:** En in, amaute’ khit ciangin Nail gun sung panin a gulhgawng a gawng bawngpi dang sagih hong paikhia a, Nail gun gei-a bawngpi dangte' kiangah ding-te hi.
 
-**ZVS:** Amaute' khit ciangin Nail gun sung pan mahin a gulhgawng a gawng bawngpi dang sagih hong paikhia a, Nail gun gei-a bawngpi dangte kiangah ding uh hi.
+**ZVS:** Amaute' khit ciangin Nail gun sung pan mahin a gulhgawng a gawng bawngpi dang sagih hong paikhia a, Nail gun gei-a bawngpi dangte kiangah ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And the ill favoured and leanfleshed kine did eat up the seven well favoured and fat kine. So Pharaoh awoke.
 
-**TDB77:** Tua ciangin a gulhgawng bawngpi sagihte in a zol a thau bawngpi sagihte netum uh hi. Tua ciangin Faro khanglo hi.
+**TDB77:** Tua ciangin a gulhgawng bawngpi sagihte in a zol a thau bawngpi sagihte netum-te hi. Tua ciangin Faro khanglo hi.
 
-**ZVS:** Tua ciangin a gulhgawng bawngpi gawng sagihte in a zol a thau bawngpi sagihte netum uh hi. Tua ciangin Faro khanglo hi.
+**ZVS:** Tua ciangin a gulhgawng bawngpi gawng sagihte in a zol a thau bawngpi sagihte netum-te hi. Tua ciangin Faro khanglo hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -81,9 +81,9 @@
 ### v7
 **EN:** And the seven thin ears devoured the seven rank and full ears. And Pharaoh awoke, and, behold, it was a dream.
 
-**TDB77:** A vui hawmte in a taksa a dim vui sagihte valh tum uh hi. Tua ciangin Faro khanglo a, en in, tua pen a mang na hi hi.
+**TDB77:** A vui hawmte in a taksa a dim vui sagihte valh tum-te hi. Tua ciangin Faro khanglo a, en in, tua pen a mang na hi hi.
 
-**ZVS:** A vui hawmte in a taksa a dim vui sagihte valhtum uh hi. Tua ciangin Faro khanglo a, tua pen a mang na hi hi.
+**ZVS:** A vui hawmte in a taksa a dim vui sagihte valhtum-te hi. Tua ciangin Faro khanglo a, tua pen a mang na hi hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -117,16 +117,16 @@
 ### v11
 **EN:** And we dreamed a dream in one night, I and he; we dreamed each man according to the interpretation of his dream.
 
-**TDB77:** amah leh keimah in zan khat sungin mang ka man uh a, a mangte in a khiatna tuam ciat nei hi.
+**TDB77:** amah leh keimah in zan khat sungin mang ka man-te a, a mangte in a khiatna tuam ciat nei hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** And there was there with us a young man, an Hebrew, servant to the captain of the guard; and we told him, and he interpreted to us our dreams; to each man according to his dream he did interpret.
 
-**TDB77:** Inncing mangpa’ nasem ahi Hebru mi tangval khat tua lai-ah kote tawh om hi; ama' kiangah ka gen uh ciangin, amah in ka mangte uh hong khiatsak a, ka mang uh tawh a kizui tuakin a khiatna hong gen hi.
+**TDB77:** Inncing mangpa’ nasem ahi Hebru mi tangval khat tua lai-ah kote tawh om hi; ama' kiangah ka gen-te ciangin, amah in ka mangte-te hong khiatsak a, ka mang-te tawh a kizui tuakin a khiatna hong gen hi.
 
-**ZVS:** Inncing mangpa' nasem ahi Hebru mi tangval khat tua lai-ah kote tawh om hi. Ama kiangah ka gen uh ciangin, amah in ka mangte uh hong khiatsak a, ka mang uh tawh a kizui tuakin a khiatna hong gen hi.
+**ZVS:** Inncing mangpa' nasem ahi Hebru mi tangval khat tua lai-ah kote tawh om hi. Ama kiangah ka gen-te ciangin, amah in ka mangte-te hong khiatsak a, ka mang-te tawh a kizui tuakin a khiatna hong gen hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -142,9 +142,9 @@
 ### v14
 **EN:** Then Pharaoh sent and called Joseph, and they brought him hastily out of the dungeon: and he shaved himself, and changed his raiment, and came in unto Pharaoh.
 
-**TDB77:** Tua ciangin Faro in mi sawlin Josef samsak a, amaute in manlang takin thongmial sung panin amah paikhiatpih uh hi; amah in a mul kiatin a puan a khek khit ciangin, Faro' mai-ah hong pai hi.
+**TDB77:** Tua ciangin Faro in mi sawlin Josef samsak a, amaute in manlang takin thongmial sung panin amah paikhiatpih-te hi; amah in a mul kiatin a puan a khek khit ciangin, Faro' mai-ah hong pai hi.
 
-**ZVS:** Tua ciangin Faro in mi sawlin Josef samsak a, amaute in manlang takin thongmial sung panin amah a paikhiatpih uh hi. Amah in a mul kiatin a puan a khek khit ciangin, Faro' mai-ah hong pai hi.
+**ZVS:** Tua ciangin Faro in mi sawlin Josef samsak a, amaute in manlang takin thongmial sung panin amah a paikhiatpih-te hi. Amah in a mul kiatin a puan a khek khit ciangin, Faro' mai-ah hong pai hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -178,9 +178,9 @@
 ### v18
 **EN:** And, behold, there came up out of the river seven kine, fatfleshed and well favoured; and they fed in a meadow:
 
-**TDB77:** a thau a zol bawngpi sagih Nail gun panin hong paikhia a, phai lopate ne uh hi;
+**TDB77:** a thau a zol bawngpi sagih Nail gun panin hong paikhia a, phai lopate ne-te hi;
 
-**ZVS:** A thau a zol bawngpi sagih Nail gun panin hong paikhia a, phai lopate ne uh hi.
+**ZVS:** A thau a zol bawngpi sagih Nail gun panin hong paikhia a, phai lopate ne-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -196,14 +196,14 @@
 
 **TDB77:** A gawng a gulhgawng bawngpite in a masa a thau bawngpi sagihte netum hi,
 
-**ZVS:** A gawng a gulhgawng bawngpite in a masa a thau bawngpi sagihte netum uh hi.
+**ZVS:** A gawng a gulhgawng bawngpite in a masa a thau bawngpi sagihte netum-te hi.
 
 ### v21
 **EN:** And when they had eaten them up, it could not be known that they had eaten them; but they were still ill favoured, as at the beginning. So I awoke.
 
-**TDB77:** ahih hangin amaute in tuate a nek khit ciangun, a nek khit lam uh kuamah in thei lo hi, bang hang hiam cih leh amaute pen a tunga mah bangin gulhgawng lai uh hi. Tua ciangin ka khanglo hi.
+**TDB77:** ahih hangin amaute in tuate a nek khit ciangun, a nek khit lam-te kuamah in thei lo hi, bang hang hiam cih leh amaute pen a tunga mah bangin gulhgawng lai-te hi. Tua ciangin ka khanglo hi.
 
-**ZVS:** Ahih hangin amaute in tuate a nek khit uh ciangin, a nek khitlam uh kuamah in theilo hi. Bang hang hiam cih leh amaute pen a tunga mah bangin gulhgawng lai veve uh hi. Tua ciangin ka khanglo hi.
+**ZVS:** Ahih hangin amaute in tuate a nek khit-te ciangin, a nek khitlam-te kuamah in theilo hi. Bang hang hiam cih leh amaute pen a tunga mah bangin gulhgawng lai veve-te hi. Tua ciangin ka khanglo hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
@@ -228,7 +228,7 @@
 
 **TDB77:** a vui hawm in a vui hoih sagihte valh tum hi. Mitphial siamte' kiangah ka gen a, ahih hangin kei' kiangah hong gentel thei khat beek om lo hi,” ci hi.
 
-**ZVS:** a vui hawmte in a vui hoih sagihte valhtum uh hi. Mitphial siamte kiangah ka gen a, ahih hangin kei kiangah hong gentel thei khat beek omlo hi,” a ci hi.
+**ZVS:** a vui hawmte in a vui hoih sagihte valhtum-te hi. Mitphial siamte kiangah ka gen a, ahih hangin kei kiangah hong gentel thei khat beek omlo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: lo | reciprocal: ki- prefix
 
@@ -339,9 +339,9 @@
 ### v37
 **EN:** And the thing was good in the eyes of Pharaoh, and in the eyes of all his servants.
 
-**TDB77:** Hih a thugen pen Faro leh a nasem khempeuhte in hoih sa uh hi.
+**TDB77:** Hih a thugen pen Faro leh a nasem khempeuhte in hoih sa-te hi.
 
-**ZVS:** Hih a thugen pen Faro leh a nasemte khempeuh in hoihsa uh hi.
+**ZVS:** Hih a thugen pen Faro leh a nasemte khempeuh in hoihsa-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -366,9 +366,9 @@
 ### v40
 **EN:** Thou shalt be over my house, and according unto thy word shall all my people be ruled: only in the throne will I be greater than thou.
 
-**TDB77:** nang in ka inn sungah ulian na hi ding a, nangma thupiak bangin ka mite khempeuh gamta ding uh hi; kumpi tokhom tawh kisai-in kei in nang' sangin ka lianzaw bek ding hi,” ci hi.
+**TDB77:** nang in ka inn sungah ulian na hi ding a, nangma thupiak bangin ka mite khempeuh gamta ding-te hi; kumpi tokhom tawh kisai-in kei in nang' sangin ka lianzaw bek ding hi,” ci hi.
 
-**ZVS:** Nang pen ka inn sungah ulian na hi ding a, nangma thupiak bangin ka mite khempeuh gamta ding uh hi. Kumpi tokhom tawh kisai-in kei pen nang sangin ka lian zaw ding hi,” a ci hi.
+**ZVS:** Nang pen ka inn sungah ulian na hi ding a, nangma thupiak bangin ka mite khempeuh gamta ding-te hi. Kumpi tokhom tawh kisai-in kei pen nang sangin ka lian zaw ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -402,9 +402,9 @@
 ### v44
 **EN:** And Pharaoh said unto Joseph, I am Pharaoh, and without thee shall no man lift up his hand or foot in all the land of Egypt.
 
-**TDB77:** Tua tham loin Faro in Josef' kiangah, “Keimah in Faro ka hi hi, nangma' thukim lohin Izipt leitang tung khempeuhah kuamah in a khut a khe nangawn uh liik lo ding uh hi,” ci hi.
+**TDB77:** Tua tham loin Faro in Josef' kiangah, “Keimah in Faro ka hi hi, nangma' thukim lohin Izipt leitang tung khempeuhah kuamah in a khut a khe nangawn-te liik lo ding-te hi,” ci hi.
 
-**ZVS:** Tua thamloin Faro in Josef kiangah, “Kei pen Faro ka hi hi. Nangma thukim lohin Egypt gamsung khempeuhah kuamah in a khut a khe nangawn uh liiklo ding uh hi,” a ci hi.
+**ZVS:** Tua thamloin Faro in Josef kiangah, “Kei pen Faro ka hi hi. Nangma thukim lohin Egypt gamsung khempeuhah kuamah in a khut a khe nangawn-te liiklo ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -495,9 +495,9 @@
 ### v55
 **EN:** And when all the land of Egypt was famished, the people cried to Pharaoh for bread: and Pharaoh said unto all the Egyptians, Go unto Joseph; what he saith to you, do.
 
-**TDB77:** Izipt gam khempeuh a kial ciangin, an ngenin mite Faro' tungah kiko uh hi; Faro in Izipt mite khempeuh' tungah, “Josef kiangah pai un; note tunga ama' hong cih bangin gamta un,” ci hi.
+**TDB77:** Izipt gam khempeuh a kial ciangin, an ngenin mite Faro' tungah kiko-te hi; Faro in Izipt mite khempeuh' tungah, “Josef kiangah pai un; note tunga ama' hong cih bangin gamta un,” ci hi.
 
-**ZVS:** Egypt gam khempeuh a kial ciangin, an ngenin mite Faro' tungah kiko uh hi. Faro in Egypt mite khempeuh tungah, “Josef' kiangah pai un. Note' tunga ama hong cih bangin gamta un,” a ci hi.
+**ZVS:** Egypt gam khempeuh a kial ciangin, an ngenin mite Faro' tungah kiko-te hi. Faro in Egypt mite khempeuh tungah, “Josef' kiangah pai un. Note' tunga ama hong cih bangin gamta un,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -513,9 +513,9 @@
 ### v57
 **EN:** And all countries came into Egypt to Joseph for to buy corn; because that the famine was so sore in all lands.
 
-**TDB77:** Tua tham loin, leitung khempeuhah kialpi nasia ahih manin, antang lei dingin Josef' kiangah leitung mi khempeuh hong pai uh hi.
+**TDB77:** Tua tham loin, leitung khempeuhah kialpi nasia ahih manin, antang lei dingin Josef' kiangah leitung mi khempeuh hong pai-te hi.
 
-**ZVS:** Tua thamloin, leitung khempeuhah kialpi nasia ahih manin, antang lei dingin Josef' kiangah leitung mi khempeuh hong pai uh hi.
+**ZVS:** Tua thamloin, leitung khempeuhah kialpi nasia ahih manin, antang lei dingin Josef' kiangah leitung mi khempeuh hong pai-te hi.
 
 **Grammar:** purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 

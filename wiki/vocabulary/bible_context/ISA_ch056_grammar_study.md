@@ -81,7 +81,7 @@
 
 **TDB77:** hih mite ka mual siangtho ah paipihin keima thungetna inn sungah ka lungdam sak ding a, amaute’ meihal biakna leh biak piaknate ka biakna tau tungah kisang ding hi; bang hang hiam cih leh ka inn pen mi khempeuh’ adingin thungetna inn kici ding hi.
 
-**ZVS:** ka mual siangtho-ah paipihin keima thungetna innsungah ka lungdamsak ding a, amaute' meihal biakna leh a biakpiaknate uh ka biakna tau tungah kisang ding hi. Bang hang hiam cih leh ka inn pen mi khempeuh-a' dingin thungetna inn kici ding hi.
+**ZVS:** ka mual siangtho-ah paipihin keima thungetna innsungah ka lungdamsak ding a, amaute' meihal biakna leh a biakpiaknate-te ka biakna tau tungah kisang ding hi. Bang hang hiam cih leh ka inn pen mi khempeuh-a' dingin thungetna inn kici ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -106,27 +106,27 @@
 ### v10
 **EN:** His watchmen are blind: they are all ignorant, they are all dumb dogs, they cannot bark; sleeping, lying down, loving to slumber.
 
-**TDB77:** Ama galvilte mit taw uh a, amaute khempeuh in bangmah thei lo uh hi, amaute khempeuh ui a ham thei lote hi uh a, amaute in tawng thei lo uh hi, mot paupau, lum lum, lu su-su-in om nuam sa uh hi.
+**TDB77:** Ama galvilte mit taw-te a, amaute khempeuh in bangmah thei lo-te hi, amaute khempeuh ui a ham thei lote hi-te a, amaute in tawng thei lo-te hi, mot paupau, lum lum, lu su-su-in om nuam sa-te hi.
 
-**ZVS:** Amau' galvilte a mit uh taw a, amaute khempeuh in bangmah theilo uh hi. Amaute khempeuh ui ham theilo inncing tawh kibang uh a, amaute in tawng theilo uh hi. Mot paupau, lumlum, lususu-in om ding bek nuam a sa uh hi.
+**ZVS:** Amau' galvilte a mit-te taw a, amaute khempeuh in bangmah theilo-te hi. Amaute khempeuh ui ham theilo inncing tawh kibang-te a, amaute in tawng theilo-te hi. Mot paupau, lumlum, lususu-in om ding bek nuam a sa-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v11
 **EN:** Yea, they are greedy dogs which can never have enough, and they are shepherds that cannot understand: they all look to their own way, every one for his gain, from his quarter.
 
-**TDB77:** Uite in nakpi takin duhna lian nei uh a, amaute in kham hun cih nei ngei lo uh hi. Tuucingte in zong thu theihna nei lo uh hi; amaute khempeuh amau tum ciatin gamta uh a, a vekpi-un amaute’ ngah nading lam lam ciatah kihei uh hi.
+**TDB77:** Uite in nakpi takin duhna lian nei-te a, amaute in kham hun cih nei ngei lo-te hi. Tuucingte in zong thu theihna nei lo-te hi; amaute khempeuh amau tum ciatin gamta-te a, a vekpi-un amaute’ ngah nading lam lam ciatah kihei-te hi.
 
-**ZVS:** Uite in nakpi takin duh uh a, kham hun cih nei ngeilo uh hi. Tuucingte in zong thutheihna neilo uh hi. Amaute khempeuh amau tum ciatin gamta uh a, a vekpi-un amau' phattuamna ding bek a zong ciat uh hi.
+**ZVS:** Uite in nakpi takin duh-te a, kham hun cih nei ngeilo-te hi. Tuucingte in zong thutheihna neilo-te hi. Amaute khempeuh amau tum ciatin gamta-te a, a vekpi-un amau' phattuamna ding bek a zong ciat-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Come ye, say they, I will fetch wine, and we will fill ourselves with strong drink; and to morrow shall be as this day, and much more abundant.
 
-**TDB77:** Amaute in, “Hong pai un leenggahzu la ni, kham theih zu ne-in gilvah ni; zing ciangin zong tu ni mah bangin gen zawh lohin nuam ding hi,” ci uh hi.
+**TDB77:** Amaute in, “Hong pai un leenggahzu la ni, kham theih zu ne-in gilvah ni; zing ciangin zong tu ni mah bangin gen zawh lohin nuam ding hi,” ci-te hi.
 
-**ZVS:** Amaute in, “Hong pai un, leenggahzu nene ni; khamtheihzu dawndawn ni. Zing ciangin zong tuni sangin nuamzaw lai ding hi,” a ci uh hi.
+**ZVS:** Amaute in, “Hong pai un, leenggahzu nene ni; khamtheihzu dawndawn ni. Zing ciangin zong tuni sangin nuamzaw lai ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 

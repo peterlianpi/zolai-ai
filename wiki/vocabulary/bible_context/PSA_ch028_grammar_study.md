@@ -51,7 +51,7 @@
 
 **TDB77:** Amau sepna leh amau gamtat siatnate bangin amaute thukkik in; amau khut sepna tawh kizui-in thuk in la, amau ngah dinga kilawm thaman pia in.
 
-**ZVS:** Amau' sepna leh a gamtat siatnate uh bangin amaute thukkik in. Amau' sepna tawh a kizui-in amaute tungah thuk in la, amau' ngah ding a kilawm thaman pia in.
+**ZVS:** Amau' sepna leh a gamtat siatnate-te bangin amaute thukkik in. Amau' sepna tawh a kizui-in amaute tungah thuk in la, amau' ngah ding a kilawm thaman pia in.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 

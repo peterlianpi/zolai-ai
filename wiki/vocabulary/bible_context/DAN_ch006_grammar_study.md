@@ -56,45 +56,45 @@
 ### v4
 **EN:** Then the presidents and princes sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault; forasmuch as he was faithful, neither was there any error or fault found in him.
 
-**TDB77:** Tua ciangin vaihawmpi dangte leh gam ukpi teng in Daniel’ nasepna en cikin a mawhna zon’ ding a hanciam uh hi. Ahih hangin Daniel pen a thuman leh a citak khat ahih manin a mawhna leh a simtatna a mu zo kei uh hi.
+**TDB77:** Tua ciangin vaihawmpi dangte leh gam ukpi teng in Daniel’ nasepna en cikin a mawhna zon’ ding a hanciam-te hi. Ahih hangin Daniel pen a thuman leh a citak khat ahih manin a mawhna leh a simtatna a mu zo kei-te hi.
 
-**ZVS:** Tua ahih ciangin vaihawmpi dangte leh gam ukpite in Daniel' nasepna encikin a mawhna zon'ding a hanciam uh hi. Ahih hangin Daniel pen a thuman leh a citak khat ahih manin a mawhna leh a simtatna a muzo kei uh hi.
+**ZVS:** Tua ahih ciangin vaihawmpi dangte leh gam ukpite in Daniel' nasepna encikin a mawhna zon'ding a hanciam-te hi. Ahih hangin Daniel pen a thuman leh a citak khat ahih manin a mawhna leh a simtatna a muzo kei-te hi.
 
 **Grammar:** sequence: then/therefore | negation: kei | causal: because | plural: uh marker
 
 ### v5
 **EN:** Then said these men, We shall not find any occasion against this Daniel, except we find it against him concerning the law of his God.
 
-**TDB77:** Tua banga nasep kizen’ lohna leh a tatkhialhna a muh loh uh ciangin, “Hih Daniel pen a biakna tawh kisai-a thu i muh kei ngal leh mawhsak nading dang i mu kei ding hi,” ci-in a kikum uh hi.
+**TDB77:** Tua banga nasep kizen’ lohna leh a tatkhialhna a muh loh-te ciangin, “Hih Daniel pen a biakna tawh kisai-a thu i muh kei ngal leh mawhsak nading dang i mu kei ding hi,” ci-in a kikum-te hi.
 
-**ZVS:** Tua banga nasep kizenlohna leh a tatkhialhna a muhloh uh ciangin, “Hih Daniel pen a biakna tawh kisai-in thu i muh kei ngal leh mawhsakna ding dang i mu kei ding hi,” ci-in a kikum uh hi.
+**ZVS:** Tua banga nasep kizenlohna leh a tatkhialhna a muhloh-te ciangin, “Hih Daniel pen a biakna tawh kisai-in thu i muh kei ngal leh mawhsakna ding dang i mu kei ding hi,” ci-in a kikum-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Then these presidents and princes assembled together to the king, and said thus unto him, King Darius, live for ever.
 
-**TDB77:** Tua ciangin amaute kumpipa kiangah pai uh a, “Darias kumpipa aw, sau veipi nungta in!
+**TDB77:** Tua ciangin amaute kumpipa kiangah pai-te a, “Darias kumpipa aw, sau veipi nungta in!
 
-**ZVS:** Tua ciangin kumpipa kiangah amaute pai uh a, “Darias kumpipa aw, sauveipi nungta in!
+**ZVS:** Tua ciangin kumpipa kiangah amaute pai-te a, “Darias kumpipa aw, sauveipi nungta in!
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** All the presidents of the kingdom, the governors, and the princes, the counsellors, and the captains, have consulted together to establish a royal statute, and to make a firm decree, that whosoever shall ask a petition of any God or man for thirty days, save of thee, O king, he shall be cast into the den of lions.
 
-**TDB77:** Na gam sung nasem ko vaihawmpite, gam ukpite, gam ukpi huhte leh kumpipa thudot mite khempeuh in, Kumpipa in ngat taka zuih ding thukham khat na bawl ding ka thukim uh hi. Tu zawh ni sawmthum sungin nang kumpipa’ kiang longal, pasian kiang ahi a, midang khatpeuh kiang ahi zongin thungen om thei lo ding hi ci-in na kham ding hi. Hih na thupiakna a mang lo peuhmah humpinelkai koihna khuk sungah kikhia ding hi.
+**TDB77:** Na gam sung nasem ko vaihawmpite, gam ukpite, gam ukpi huhte leh kumpipa thudot mite khempeuh in, Kumpipa in ngat taka zuih ding thukham khat na bawl ding ka thukim-te hi. Tu zawh ni sawmthum sungin nang kumpipa’ kiang longal, pasian kiang ahi a, midang khatpeuh kiang ahi zongin thungen om thei lo ding hi ci-in na kham ding hi. Hih na thupiakna a mang lo peuhmah humpinelkai koihna khuk sungah kikhia ding hi.
 
-**ZVS:** Ngattakin zuih ding thukham khat kumpipa in na bawl ding, gamsung nasem ko vaihawmpite, gam ukpite, gam ukpi huhte, leh kumpipa' thudot mite khempeuh ka thukim uh hi. Tuzawh ni sawmthum sungin nang kumpipa kiang longal, pasian kiang ahi a, midang khat peuhpeuh kiangah ahi zongin thungen om theilo ding hi, ci-in na kham ding hi. Hih na thupiakna a manglo peuhmah humpinelkai kikhumna sungah kikhia ding hi.
+**ZVS:** Ngattakin zuih ding thukham khat kumpipa in na bawl ding, gamsung nasem ko vaihawmpite, gam ukpite, gam ukpi huhte, leh kumpipa' thudot mite khempeuh ka thukim-te hi. Tuzawh ni sawmthum sungin nang kumpipa kiang longal, pasian kiang ahi a, midang khat peuhpeuh kiangah ahi zongin thungen om theilo ding hi, ci-in na kham ding hi. Hih na thupiakna a manglo peuhmah humpinelkai kikhumna sungah kikhia ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Now, O king, establish the decree, and sign the writing, that it be not changed, according to the law of the Medes and Persians, which altereth not.
 
-**TDB77:** Tua ahih ciangin kumpipa aw, thupiakna lai hawmkhia in la, a tungah na min gelh in. Tua hi leh Mediate leh Persiate’ upadi pen kikhel thei lo ding a, ngat taka a kizuih kul ding hi,” a ci uh hi.
+**TDB77:** Tua ahih ciangin kumpipa aw, thupiakna lai hawmkhia in la, a tungah na min gelh in. Tua hi leh Mediate leh Persiate’ upadi pen kikhel thei lo ding a, ngat taka a kizuih kul ding hi,” a ci-te hi.
 
-**ZVS:** Tua ahih ciangin kumpipa aw, thupiakna lai hawmkhia-in a tungah na min gelh in. Tua hi leh Media-te leh Persia-te upadi pen kikhel theilo ding a, ngattakin a kizuih kul ding hi,” a ci uh hi.
+**ZVS:** Tua ahih ciangin kumpipa aw, thupiakna lai hawmkhia-in a tungah na min gelh in. Tua hi leh Media-te leh Persia-te upadi pen kikhel theilo ding a, ngattakin a kizuih kul ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -117,27 +117,27 @@
 ### v11
 **EN:** Then these men assembled, and found Daniel praying and making supplication before his God.
 
-**TDB77:** Tua ciangin amah a encik mite in Daniel in pasian kianga thu a nget a mu uh hi.
+**TDB77:** Tua ciangin amah a encik mite in Daniel in pasian kianga thu a nget a mu-te hi.
 
-**ZVS:** Tua ciangin amah a encik mite in Daniel in Pasian kiangah thu a nget a mu uh hi.
+**ZVS:** Tua ciangin amah a encik mite in Daniel in Pasian kiangah thu a nget a mu-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Then they came near, and spake before the king concerning the king's decree; Hast thou not signed a decree, that every man that shall ask a petition of any God or man within thirty days, save of thee, O king, shall be cast into the den of lions? The king answered and said, The thing is true, according to the law of the Medes and Persians, which altereth not.
 
-**TDB77:** Amaute khempeuh kumpipa kiangah Daniel hek dingin a pai uh hi. Amaute in “Kumpipa aw, tu zawh ni sawmthum sungin kumpipa kiang longal, pasian kiang ahi a, mi khatpeuh kiang ahi zongin thungen a om leh, humpinelkai koihna khuk sungah kikhia ding hi ci-in thu piakna lai hawmkhia in na min gelh hilo na hiam?” a ci uh hi. Tua ciangin kumpipa in, “Hi mah hi, Mediate leh Persiate’ upadi bangin a kikhel thei lo ding a ngat thu piakna ka bawl hi,” a ci hi.
+**TDB77:** Amaute khempeuh kumpipa kiangah Daniel hek dingin a pai-te hi. Amaute in “Kumpipa aw, tu zawh ni sawmthum sungin kumpipa kiang longal, pasian kiang ahi a, mi khatpeuh kiang ahi zongin thungen a om leh, humpinelkai koihna khuk sungah kikhia ding hi ci-in thu piakna lai hawmkhia in na min gelh hilo na hiam?” a ci-te hi. Tua ciangin kumpipa in, “Hi mah hi, Mediate leh Persiate’ upadi bangin a kikhel thei lo ding a ngat thu piakna ka bawl hi,” a ci hi.
 
-**ZVS:** Amaute khempeuh kumpipa kiangah Daniel a hek dingin a pai uh hi. Amaute in, “Kumpipa aw, tuzawh ni sawmthum sungin kumpipa kiang longal, pasian kiang ahi a, mi khat peuhpeuh kiangah ahi zongin thungen a om leh humpinelkai kikhumna sungah kikhia ding hi, ci-in thupiakna lai hawmkhia-in na min gelh hilo na hi hiam?” a ci uh hi. Tua ciangin kumpipa in, “Hi mah hi; Media-te leh Persia-te' upadi bangin a kikhel theilo ding a ngat thupiakna ka bawl hi,” a ci hi.
+**ZVS:** Amaute khempeuh kumpipa kiangah Daniel a hek dingin a pai-te hi. Amaute in, “Kumpipa aw, tuzawh ni sawmthum sungin kumpipa kiang longal, pasian kiang ahi a, mi khat peuhpeuh kiangah ahi zongin thungen a om leh humpinelkai kikhumna sungah kikhia ding hi, ci-in thupiakna lai hawmkhia-in na min gelh hilo na hi hiam?” a ci-te hi. Tua ciangin kumpipa in, “Hi mah hi; Media-te leh Persia-te' upadi bangin a kikhel theilo ding a ngat thupiakna ka bawl hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Then answered they and said before the king, That Daniel, which is of the children of the captivity of Judah, regardeth not thee, O king, nor the decree that thou hast signed, but maketh his petition three times a day.
 
-**TDB77:** Amaute in kumpipa kiangah, “Judah salte khat ahi Daniel in kumpipa hong zahtak lo a, na thu piakna a mang nuam kei hi. Ni simin thum vei ta thu a ngen tawntung hi,” a ci uh hi.
+**TDB77:** Amaute in kumpipa kiangah, “Judah salte khat ahi Daniel in kumpipa hong zahtak lo a, na thu piakna a mang nuam kei hi. Ni simin thum vei ta thu a ngen tawntung hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin amaute in kumpipa kiangah, “Judah gam panin a hong pai Jew mi salte khat ahi Daniel in kumpipa hong zahtaklo a, na thupiakna a mang nuam kei hi. Nisimin thumveita thu a ngen tawntung hi,” a ci uh hi.
+**ZVS:** Tua ciangin amaute in kumpipa kiangah, “Judah gam panin a hong pai Jew mi salte khat ahi Daniel in kumpipa hong zahtaklo a, na thupiakna a mang nuam kei hi. Nisimin thumveita thu a ngen tawntung hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -151,27 +151,27 @@
 ### v15
 **EN:** Then these men assembled unto the king, and said unto the king, Know, O king, that the law of the Medes and Persians is, That no decree nor statute which the king establisheth may be changed.
 
-**TDB77:** Tua ciangin tua mite kumpipa’ kiangah hong paikik uh a, “Kumpipa aw, Mediate leh Persiate’ upadi bangin kumpipa in a hawm khiatsa thupiakna kikhel kik thei lo hi cih na thei hi,” a ci uh hi.
+**TDB77:** Tua ciangin tua mite kumpipa’ kiangah hong paikik-te a, “Kumpipa aw, Mediate leh Persiate’ upadi bangin kumpipa in a hawm khiatsa thupiakna kikhel kik thei lo hi cih na thei hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin kumpipa kiangah tua mite hong paikik uh a, “Kumpipa aw, Media leh Persia-te' upadi bangin kumpipa in a hawmkhiatsa thupiakna kikhelkik theilo hi, cih na thei hi,” a ci uh hi.
+**ZVS:** Tua ciangin kumpipa kiangah tua mite hong paikik-te a, “Kumpipa aw, Media leh Persia-te' upadi bangin kumpipa in a hawmkhiatsa thupiakna kikhelkik theilo hi, cih na thei hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** Then the king commanded, and they brought Daniel, and cast him into the den of lions. Now the king spake and said unto Daniel, Thy God whom thou servest continually, he will deliver thee.
 
-**TDB77:** Tua ciangin kumpipa in Daniel humpinelkai koihna khuk sunga khiat dingin thu a pia hi. Amah in Daniel kiangah, “Thuman taka na biak tawntung na Pasian in hong honkhia ta hen,” a ci hi. Tua ciangin humpinelkai koihna khuk sungah Daniel a khia uh hi.
+**TDB77:** Tua ciangin kumpipa in Daniel humpinelkai koihna khuk sunga khiat dingin thu a pia hi. Amah in Daniel kiangah, “Thuman taka na biak tawntung na Pasian in hong honkhia ta hen,” a ci hi. Tua ciangin humpinelkai koihna khuk sungah Daniel a khia-te hi.
 
-**ZVS:** Tua ciangin kumpipa in humpinelkai kikhumna sungah Daniel a khiat dingun thu a pia hi. Amah in Daniel kiangah, “Thuman takin na biak tawntung na Pasian in hong honkhia ta hen,” a ci hi. Tua ciangin humpinelkai kikhumna sungah Daniel a khia uh hi.
+**ZVS:** Tua ciangin kumpipa in humpinelkai kikhumna sungah Daniel a khiat dingun thu a pia hi. Amah in Daniel kiangah, “Thuman takin na biak tawntung na Pasian in hong honkhia ta hen,” a ci hi. Tua ciangin humpinelkai kikhumna sungah Daniel a khia-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And a stone was brought, and laid upon the mouth of the den; and the king sealed it with his own signet, and with the signet of his lords; that the purpose might not be changed concerning Daniel.
 
-**TDB77:** Amaute in suangtum khat la uh a, humpinelkai koihna khuk gong a hu uh hi. Kumpipa in ama ciamtehna leh a u liante ciamtehna tawh kuamah in Daniel a hotkhiat theih loh nadingin a ciamteh hi.
+**TDB77:** Amaute in suangtum khat la-te a, humpinelkai koihna khuk gong a hu-te hi. Kumpipa in ama ciamtehna leh a u liante ciamtehna tawh kuamah in Daniel a hotkhiat theih loh nadingin a ciamteh hi.
 
-**ZVS:** Amaute in suangtum khat la uh a, humpinelkai kikhumna gong a hu uh hi. Kuamah in Daniel a hotkhiat theihlohna dingin kumpipa in ama ciamtehna leh a miliante' ciamtehna tawh a ciamteh hi.
+**ZVS:** Amaute in suangtum khat la-te a, humpinelkai kikhumna gong a hu-te hi. Kuamah in Daniel a hotkhiat theihlohna dingin kumpipa in ama ciamtehna leh a miliante' ciamtehna tawh a ciamteh hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -221,18 +221,18 @@
 ### v23
 **EN:** Then was the king exceeding glad for him, and commanded that they should take Daniel up out of the den. So Daniel was taken up out of the den, and no manner of hurt was found upon him, because he believed in his God.
 
-**TDB77:** Kumpipa a lungdam mahmah a, humpinelkai koihna khuk sung pan Daniel kaihkhiat dingin thu a pia hi. Tua ahih ciangin Daniel kaikhiato uh a, liamna themcik zong a neih loh lam a mu uh hi. Bang hang hiam cih leh amah in Pasian a muang hi.
+**TDB77:** Kumpipa a lungdam mahmah a, humpinelkai koihna khuk sung pan Daniel kaihkhiat dingin thu a pia hi. Tua ahih ciangin Daniel kaikhiato-te a, liamna themcik zong a neih loh lam a mu-te hi. Bang hang hiam cih leh amah in Pasian a muang hi.
 
-**ZVS:** Kumpipa lungdam mahmah a, humpinelkai kikhumna sung pan Daniel kaihkhiat dingin thu a pia hi. Tua ahih ciangin Daniel kaikhiato uh a, liamna themcik zong a neihlohlam a mu uh hi. Bang hang hiam cih leh amah in Pasian muang hi.
+**ZVS:** Kumpipa lungdam mahmah a, humpinelkai kikhumna sung pan Daniel kaihkhiat dingin thu a pia hi. Tua ahih ciangin Daniel kaikhiato-te a, liamna themcik zong a neihlohlam a mu-te hi. Bang hang hiam cih leh amah in Pasian muang hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | purpose: in order to | plural: uh marker
 
 ### v24
 **EN:** And the king commanded, and they brought those men which had accused Daniel, and they cast them into the den of lions, them, their children, and their wives; and the lions had the mastery of them, and brake all their bones in pieces or ever they came at the bottom of the den.
 
-**TDB77:** Tua ciangin kumpipa in a hek teng khempeuh a zi a ta tek uh tawh humpinelkai koihna khuk sunga khiat dingin thu a pia hi. Amaute humpinelkai khuk taw a tun’ ma-un humpinelkai in bak khat suahin a guh a taang-in a balzan gawp hi.
+**TDB77:** Tua ciangin kumpipa in a hek teng khempeuh a zi a ta tek-te tawh humpinelkai koihna khuk sunga khiat dingin thu a pia hi. Amaute humpinelkai khuk taw a tun’ ma-un humpinelkai in bak khat suahin a guh a taang-in a balzan gawp hi.
 
-**ZVS:** Tua ciangin kumpipa in Daniel a hekteng khempeuh a zi a ta ciat uh tawh humpinelkai kikhumna sungah khiat dingin thu a pia hi. Amaute humpinelkai kikhumna taw a tun' ma-un humpinelkaite in bakkhat suahin a guh a taangin a balzan gawp uh hi.
+**ZVS:** Tua ciangin kumpipa in Daniel a hekteng khempeuh a zi a ta ciat-te tawh humpinelkai kikhumna sungah khiat dingin thu a pia hi. Amaute humpinelkai kikhumna taw a tun' ma-un humpinelkaite in bakkhat suahin a guh a taangin a balzan gawp-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to
 

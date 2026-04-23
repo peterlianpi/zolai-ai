@@ -22,9 +22,9 @@
 ### v1
 **EN:** O God, thou hast cast us off, thou hast scattered us, thou hast been displeased; O turn thyself to us again.
 
-**TDB77:** Pasian aw, kote nong paai khin a, ka panmunte uh na sukham khin hi; kote tungah nangmah na heh khin hi; kote ka ngei uh hong bangsak kik in.
+**TDB77:** Pasian aw, kote nong paai khin a, ka panmunte-te na sukham khin hi; kote tungah nangmah na heh khin hi; kote ka ngei-te hong bangsak kik in.
 
-**ZVS:** Pasian aw, kote na hong nilkhia khin a, ka pan'munte uh na sukham mang khin hi. Kote tungah nangmah na heh khin hi. Kote ka ngei uh hong bangsakkik ta in.
+**ZVS:** Pasian aw, kote na hong nilkhia khin a, ka pan'munte-te na sukham mang khin hi. Kote tungah nangmah na heh khin hi. Kote ka ngei-te hong bangsakkik ta in.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix
 

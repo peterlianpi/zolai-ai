@@ -87,23 +87,23 @@
 
 **TDB77:** Tuuno in ngana ciamtehna a hon’ ciangin Pasian’ thu hang ahi zongin, a san’ uh teci pan’na hang ahi zongin, thahna a thuak mite’ khate biakna tau nuai-ah ka mu hi.
 
-**ZVS:** Ciamtehna ngana a hon' ciangin Pasian' thu a genna hang leh Pasian' thu citakin teci a pan'na uh hangin a kithat mite' kha, biakna tau nuai-ah a om ka mu hi.
+**ZVS:** Ciamtehna ngana a hon' ciangin Pasian' thu a genna hang leh Pasian' thu citakin teci a pan'na-te hangin a kithat mite' kha, biakna tau nuai-ah a om ka mu hi.
 
 ### v10
 **EN:** And they cried with a loud voice, saying, How long, O Lord, holy and true, dost thou not judge and avenge our blood on them that dwell on the earth?
 
-**TDB77:** Amaute in zong, “A siangtho, a dik Vanglianpen Topa aw, leitungah a om mite, kote’ sihna sisan hangin thu khenin daantat loin bang tan vei sawtpi na om ding hiam?” ci-in nakpi a kiko uh hi.
+**TDB77:** Amaute in zong, “A siangtho, a dik Vanglianpen Topa aw, leitungah a om mite, kote’ sihna sisan hangin thu khenin daantat loin bang tan vei sawtpi na om ding hiam?” ci-in nakpi a kiko-te hi.
 
-**ZVS:** Amaute nakpi takin kiko uh a, “A thuman, a siangtho, a Vanglian Topa aw, leitungah a omlai, kote a hong that mite tungah cik ciangin thu khenin, kote hong thahna hangin cik ciangin phu la ding na hi hiam?” a ci uh hi.
+**ZVS:** Amaute nakpi takin kiko-te a, “A thuman, a siangtho, a Vanglian Topa aw, leitungah a omlai, kote a hong that mite tungah cik ciangin thu khenin, kote hong thahna hangin cik ciangin phu la ding na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And white robes were given unto every one of them; and it was said unto them, that they should rest yet for a little season, until their fellowservants also and their brethren, that should be killed as they were, should be fulfilled.
 
-**TDB77:** Tua lai takin amau khempeuh, puanpaak khat ciat a piak khit ciangin, amaute tawh nasem khawm mite akipan amaute mah bangin thahna a thuak ding sanggamte in kicin’na a tun’ dongin tomkha a ngak lai nading thupiakna a ngah uh hi.
+**TDB77:** Tua lai takin amau khempeuh, puanpaak khat ciat a piak khit ciangin, amaute tawh nasem khawm mite akipan amaute mah bangin thahna a thuak ding sanggamte in kicin’na a tun’ dongin tomkha a ngak lai nading thupiakna a ngah-te hi.
 
-**ZVS:** Tua ciangin amaute tungah puantualpi a kang khat ciat kipia a, amaute a kithah mah bangin a kithat lai ding a naseppihte uh leh a sanggamte uh a kim matengin tawlkhat sung a tawlngak laina ding uh kigen hi.
+**ZVS:** Tua ciangin amaute tungah puantualpi a kang khat ciat kipia a, amaute a kithah mah bangin a kithat lai ding a naseppihte-te leh a sanggamte-te a kim matengin tawlkhat sung a tawlngak laina ding-te kigen hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -119,27 +119,27 @@
 ### v13
 **EN:** And the stars of heaven fell unto the earth, even as a fig tree casteth her untimely figs, when she is shaken of a mighty wind.
 
-**TDB77:** Huih in theikung nakpi-in a mut ciangin a min nai lo gahte a pulhkhiat bangin vantung aksite in leitungah a pulhkhia uh hi.
+**TDB77:** Huih in theikung nakpi-in a mut ciangin a min nai lo gahte a pulhkhiat bangin vantung aksite in leitungah a pulhkhia-te hi.
 
-**ZVS:** Aksite ahih leh huihpi in theipuam a mutkhiat bangin van panin kia zaizai uh hi.
+**ZVS:** Aksite ahih leh huihpi in theipuam a mutkhiat bangin van panin kia zaizai-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v14
 **EN:** And the heaven departed as a scroll when it is rolled together; and every mountain and island were moved out of their places.
 
-**TDB77:** Van in laidal zial bangin kizial mang hi. Mualte leh tuikulhte khempeuh in a omna uh pan a kinkhia uh hi.
+**TDB77:** Van in laidal zial bangin kizial mang hi. Mualte leh tuikulhte khempeuh in a omna-te pan a kinkhia-te hi.
 
-**ZVS:** Laidal a kizial bangin vanpi kizialin maimang a, mual leh tuikulhte khempeuh a omna uh panin maimangta hi.
+**ZVS:** Laidal a kizial bangin vanpi kizialin maimang a, mual leh tuikulhte khempeuh a omna-te panin maimangta hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And the kings of the earth, and the great men, and the rich men, and the chief captains, and the mighty men, and every bondman, and every free man, hid themselves in the dens and in the rocks of the mountains;
 
-**TDB77:** Leitung kumpi mangte leh vaihawm lian upate, galkap mangte, sumhaute, thahatte, silate, to nei lote khempeuh in suanghawm leh mual suangpi lakah a bu uh hi.
+**TDB77:** Leitung kumpi mangte leh vaihawm lian upate, galkap mangte, sumhaute, thahatte, silate, to nei lote khempeuh in suanghawm leh mual suangpi lakah a bu-te hi.
 
-**ZVS:** Tua ciangin leitung kumpite leh miliante, galkapmangte, mihaute leh mi vangliante, silate leh sila a hilote-a kipanin a kuamah peuh, mualtunga leihawmte sungah bu uh a,
+**ZVS:** Tua ciangin leitung kumpite leh miliante, galkapmangte, mihaute leh mi vangliante, silate leh sila a hilote-a kipanin a kuamah peuh, mualtunga leihawmte sungah bu-te a,
 
 **Grammar:** plural: uh marker
 
@@ -155,9 +155,9 @@
 ### v17
 **EN:** For the great day of his wrath is come; and who shall be able to stand?
 
-**TDB77:** Bang hang hiam na cih uh leh, tuate hehna a lianpi Ni hong tung zo hi. Kua in a thuak zo ding hiam?” ci-in mualte leh suangte kiangah a ci uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, tuate hehna a lianpi Ni hong tung zo hi. Kua in a thuak zo ding hiam?” ci-in mualte leh suangte kiangah a ci-te hi.
 
-**ZVS:** Amaute' hehna hangin gimna hun hong tungta ahih manin kua in thuakzo ding ahi hiam?” a ci uh hi.
+**ZVS:** Amaute' hehna hangin gimna hun hong tungta ahih manin kua in thuakzo ding ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

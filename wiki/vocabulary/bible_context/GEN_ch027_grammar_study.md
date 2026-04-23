@@ -270,9 +270,9 @@
 ### v29
 **EN:** Let people serve thee, and nations bow down to thee: be lord over thy brethren, and let thy mother's sons bow down to thee: cursed be every one that curseth thee, and blessed be he that blesseth thee.
 
-**TDB77:** Mite in nangma' na hong sem hen la, minamte na mai-ah hong kun ta uh hen. Na sanggamte' tungah topa hi in la, na sanggamte’ suan-le-khakte, na mai-ah hong kun uh hen. Nang hong samsia peuhmah in samsiatna ngah hen la, nang thupha hong pia peuhmah in thupha ngah ta hen!” ci hi.
+**TDB77:** Mite in nangma' na hong sem hen la, minamte na mai-ah hong kun ta-te hen. Na sanggamte' tungah topa hi in la, na sanggamte’ suan-le-khakte, na mai-ah hong kun-te hen. Nang hong samsia peuhmah in samsiatna ngah hen la, nang thupha hong pia peuhmah in thupha ngah ta hen!” ci hi.
 
-**ZVS:** Mite in nangma na hong sem hen la, minamte na mai-ah hong kun ta uh hen. Na sanggamte' tungah topa hi in la, na sanggamte' suanlekhakte, na mai-ah hong kun uh hen. Nang hong samsia peuhmah in samsiatna ngah hen la, thupha hong pia peuhmah in thupha ngah ta hen,” a ci hi.
+**ZVS:** Mite in nangma na hong sem hen la, minamte na mai-ah hong kun ta-te hen. Na sanggamte' tungah topa hi in la, na sanggamte' suanlekhakte, na mai-ah hong kun-te hen. Nang hong samsia peuhmah in samsiatna ngah hen la, thupha hong pia peuhmah in thupha ngah ta hen,” a ci hi.
 
 **Grammar:** quotative: said/saying
 

@@ -72,7 +72,7 @@
 **Meanings:** children | israel | would | god | died | hand
 **CEFR:** A1
 **Usage:** Attested 45× across 2 Bible books.
-> *puksisak dingin note in sehnel gamah nong paikhiatpih uh hi,”*
+> *puksisak dingin note in sehnel gamah nong paikhiatpih-te hi,”*
 
 ### sabengpa
 **[n]** before
@@ -424,7 +424,7 @@
 **Related:** egypt, paikhiatpih, gam, note, israel
 **CEFR:** A1
 **Usage:** Attested 2970× across 20 Bible books.
-> *na lungsim uh lianin, salsuahna Izipt gam panin no hong paikhiatpih,*
+> *na lungsim-te lianin, salsuahna Izipt gam panin no hong paikhiatpih,*
 > → Then thine heart be lifted up, and thou forget the
 > `DEU 8:14`
 
@@ -450,7 +450,7 @@
 **Related:** pai, zongin, kong, jesuh, cih
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Na sam uh zong a kisim khin hi.*
+> *Na sam-te zong a kisim khin hi.*
 > → [Missing]
 > `MAT 10:30`
 
@@ -472,7 +472,7 @@
 **Meanings:** havilah | sons | raamah | cush | seba | sabtah
 **CEFR:** A2
 **Usage:** Attested 100× across 2 Bible books.
-> *leh Sabteka mite ahi uh hi. Raamah' suante: Sheba mite*
+> *leh Sabteka mite ahi-te hi. Raamah' suante: Sheba mite*
 
 ### sabuaite
 **[n]** moneychangers
@@ -539,7 +539,7 @@
 **Meanings:** jeuz | shachia | mirma | these | sons | heads
 **CEFR:** A2
 **Usage:** Attested 50× across 2 Bible books.
-> *Jeuz, Sakhia, leh Mirmah ahi uh hi. Hihte pen amau*
+> *Jeuz, Sakhia, leh Mirmah ahi-te hi. Hihte pen amau*
 
 ### sakhipite
 **[]** feet
@@ -571,7 +571,7 @@
 **Related:** peengkulte, awging
 **CEFR:** A2
 **Usage:** Attested 45× across 4 Bible books.
-> *leh sakite tawh { Topa' } tungah kiciamna a bawl uh hi.*
+> *leh sakite tawh { Topa' } tungah kiciamna a bawl-te hi.*
 
 ### sakkik
 **[n]** persia
@@ -599,7 +599,7 @@
 **Related:** gam, israel, babylon, khuapi, pai
 **CEFR:** A2
 **Usage:** Attested 7186× across 50 Bible books.
-> *A kumpipa uh leh a uliante salin kiman ding hi.*
+> *A kumpipa-te leh a uliante salin kiman ding hi.*
 > → And their king shall go into captivity, he and his princes together, saith the
 > `AMO 1:15`
 
@@ -632,7 +632,7 @@
 ### salmon
 **[n]** salmon
 **Meanings:** salmon | begat | naasson | booz | obed | nahshon
-**Synonyms:** suah, zagiat, ram
+**Synonyms:** suah, zagiat, gam
 **Related:** boaz, nahshon, jessi, obed, pa
 **CEFR:** A2
 **Usage:** Attested 325× across 6 Bible books.
@@ -704,7 +704,7 @@
 **Related:** kialo, tunga, nangawn, zongin, hang
 **CEFR:** A2
 **Usage:** Attested 385× across 14 Bible books.
-> *Ahi zongin na samzang khat nangawn uh mangthanglo ding hi.*
+> *Ahi zongin na samzang khat nangawn-te mangthanglo ding hi.*
 > → [Missing]
 
 ### sanangte
@@ -727,7 +727,7 @@
 **Meanings:** served | here | dogs | overwhelmed | swifter | servants
 **CEFR:** A2
 **Usage:** Attested 310× across 6 Bible books.
-> *kei sanga a khangnozawte in hong ciamnuih bawlta uh hi.*
+> *kei sanga a khangnozawte in hong ciamnuih bawlta-te hi.*
 
 ### sangah
 **[n]** father
@@ -788,7 +788,7 @@
 **Related:** pai, tung
 **CEFR:** A2
 **Usage:** Attested 275× across 4 Bible books.
-> *Amaute in kumpipa' vaikhak thuteng a zak khit uh ciangin paikhia uh*
+> *Amaute in kumpipa' vaikhak thuteng a zak khit-te ciangin paikhia uh*
 
 ### sapin
 **[n]** man
@@ -852,7 +852,7 @@
 **Meanings:** sheep | people | honey | butter | cheese | kine
 **CEFR:** A2
 **Usage:** Attested 105× across 2 Bible books.
-> *gimin dangtak uh hi,” a ci uh hi.*
+> *gimin dangtak-te hi,” a ci-te hi.*
 
 ### satkhamin
 **[n]** head
@@ -894,7 +894,7 @@
 **Related:** tultul, suak, dimin, tuute, thenthen
 **CEFR:** B1
 **Usage:** Attested 102× across 3 Bible books.
-> *Ka saalte uh a dimin an nam khempeuh om ta hen la*
+> *Ka saalte-te a dimin an nam khempeuh om ta hen la*
 
 ### saam
 **[]** purge
@@ -1297,7 +1297,7 @@
 **Related:** pai, khuami, simon, kici, singlamteh
 **CEFR:** B2
 **Usage:** Attested 715× across 8 Bible books.
-> *amah lammatin Jesuh' singlamteh a puasak uh hi.*
+> *amah lammatin Jesuh' singlamteh a puasak-te hi.*
 
 ### saka
 **[a]** strict
@@ -1312,7 +1312,7 @@
 **Meanings:** your | images | star | god | made | yourselves
 **CEFR:** B2
 **Usage:** Attested 80× across 2 Bible books.
-> *Tua hinapi tu-in note-a' dingin na bawltawm uh aksi pasian-te*
+> *Tua hinapi tu-in note-a' dingin na bawltawm-te aksi pasian-te*
 
 ### sakolleengte
 **[n]** talked
@@ -1470,7 +1470,7 @@
 **Synonyms:** betharbel, kikekgawp, kisutkhia
 **CEFR:** B2
 **Usage:** Attested 140× across 2 Bible books.
-> *gal in na mite uh hong sim ding*
+> *gal in na mite-te hong sim ding*
 
 ### shebat
 **[n]** month
@@ -1529,7 +1529,7 @@
 **Related:** siapa, siapinu
 **CEFR:** B2
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *ka biakinn a siapi-in na koihdakna hang uh ahi hi.*
+> *ka biakinn a siapi-in na koihdakna hang-te ahi hi.*
 
 ### sibupin
 **[n]** face
@@ -1554,7 +1554,7 @@
 
 ### sii
 **[n]** soya bean
-**Meanings:** power | river | ran | fury | came | ram
+**Meanings:** power | river | ran | fury | came | gam
 **Variants:** sii anamtui hi. Lo ah sii ka ciing hi, Bekan
 **CEFR:** B2
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
@@ -1689,7 +1689,7 @@
 **Synonyms:** khios
 **CEFR:** C1
 **Usage:** Attested 165× across 2 Bible books.
-> *zing ciangin Miletas khua ka tung uh hi.*
+> *zing ciangin Miletas khua ka tung-te hi.*
 
 ### samsim
 **[n]** took
@@ -1798,7 +1798,7 @@
 **Related:** sawp siang theihna, sawp siang nadinga kizanghna, sawp theih
 **CEFR:** C1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *dalkuangte tui tawh sawpna ngeina a zuih uh tampi a om hi).*
+> *dalkuangte tui tawh sawpna ngeina a zuih-te tampi a om hi).*
 
 ### sawpsak
 **[]** washed
@@ -1939,7 +1939,7 @@
 **Related:** paul, khua, timoti, judas, inn
 **CEFR:** C1
 **Usage:** Attested 1990× across 6 Bible books.
-> *A tawpna-ah ka thuakzawh nawnloh uh ciangin Athen khua-ah kei*
+> *A tawpna-ah ka thuakzawh nawnloh-te ciangin Athen khua-ah kei*
 
 ### silngote
 **[]** neither

@@ -164,13 +164,13 @@ Target val loss: < 2.0 (CPT), < 1.5 (SFT)
 ### Never Use
 | Wrong | Correct | Reason |
 |---|---|---|
-| pathian | pasian | Hakha/Falam dialect |
-| ram | gam | Hakha dialect |
+| pasian | pasian | Hakha/Falam dialect |
+| gam | gam | Hakha dialect |
 | sanggin | sanginn | Spelling error |
-| cu / cun | tua | Hakha demonstrative |
-| fapa | tapa | Non-ZVS |
-| bawipa | topa | Non-ZVS |
-| siangpahrang | pasian | Non-ZVS |
+| tua / tua | tua | Hakha demonstrative |
+| tapa | tapa | Non-ZVS |
+| topa | topa | Non-ZVS |
+| kumpipa | pasian | Non-ZVS |
 
 ### Negation Rules
 | Context | Use | Example |

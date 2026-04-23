@@ -38,9 +38,9 @@
 ### v3
 **EN:** The
 
-**TDB77:** Topa in mihoihte a gil kialin koih lo a, migilote a duh uh ne sak lo hi.
+**TDB77:** Topa in mihoihte a gil kialin koih lo a, migilote a duh-te ne sak lo hi.
 
-**ZVS:** { Topa } in mihoihte a gilkialin koihlo a, migilote a duh uh nesaklo hi.
+**ZVS:** { Topa } in mihoihte a gilkialin koihlo a, migilote a duh-te nesaklo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -100,7 +100,7 @@
 
 **TDB77:** Mihoihte’ kampaute in nuntakna tuinak bang a, migilote in thusia bekbek gen hi.
 
-**ZVS:** Mihoihte' kampaute pen nuntakna tuinak bang a, migilote in thusia bekbek gen uh hi.
+**ZVS:** Mihoihte' kampaute pen nuntakna tuinak bang a, migilote in thusia bekbek gen-te hi.
 
 ### v12
 **EN:** Hatred stirreth up strifes: but love covereth all sins.
@@ -123,9 +123,9 @@
 ### v14
 **EN:** Wise men lay up knowledge: but the mouth of the foolish is near destruction.
 
-**TDB77:** Mipilte in a pilna uh behlapin, mihaite a pau ciangin thusia tawh kizom pah hi.
+**TDB77:** Mipilte in a pilna-te behlapin, mihaite a pau ciangin thusia tawh kizom pah hi.
 
-**ZVS:** Mipilte in a pilna uh behlapin, mihaite a pau ciangin thusia tawh kizom pahpah hi.
+**ZVS:** Mipilte in a pilna-te behlapin, mihaite a pau ciangin thusia tawh kizom pahpah hi.
 
 **Grammar:** punctual: immediately/suddenly | reciprocal: ki- prefix
 
@@ -178,9 +178,9 @@
 ### v21
 **EN:** The lips of the righteous feed many: but fools die for want of wisdom.
 
-**TDB77:** Mihoihte’ thugente in mi tampi nuamtuam sak a, mihaite in a hai sihpih uh hi.
+**TDB77:** Mihoihte’ thugente in mi tampi nuamtuam sak a, mihaite in a hai sihpih-te hi.
 
-**ZVS:** Mihoihte' thugente in mi tampi nuamtuamsak a, mihaite in a hai sihpih uh hi.
+**ZVS:** Mihoihte' thugente in mi tampi nuamtuamsak a, mihaite in a hai sihpih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -196,25 +196,25 @@
 ### v23
 **EN:** It is as sport to a fool to do mischief: but a man of understanding hath wisdom.
 
-**TDB77:** Mihaite in gamtat siat ding nuam sa uh a, thu ngaihsun theite in pilna gamtatna nuam sa uh hi.
+**TDB77:** Mihaite in gamtat siat ding nuam sa-te a, thu ngaihsun theite in pilna gamtatna nuam sa-te hi.
 
-**ZVS:** Mihaite in gamtatsiat ding nuamsa uh a, thungaihsun theite in pil gamtatna nuamsa uh hi.
+**ZVS:** Mihaite in gamtatsiat ding nuamsa-te a, thungaihsun theite in pil gamtatna nuamsa-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v24
 **EN:** The fear of the wicked, it shall come upon him: but the desire of the righteous shall be granted.
 
-**TDB77:** Migilote tungah a kihtaktak uh tung a, mihoihte in a deihdeih uh ngah uh hi.
+**TDB77:** Migilote tungah a kihtaktak-te tung a, mihoihte in a deihdeih-te ngah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** As the whirlwind passeth, so is the wicked no more: but the righteous is an everlasting foundation.
 
-**TDB77:** Huihpi a nun’ ciangin migilote len’mang a, thuman mite lungmuangin om tawntung uh hi.
+**TDB77:** Huihpi a nun’ ciangin migilote len’mang a, thuman mite lungmuangin om tawntung-te hi.
 
-**ZVS:** Huihpi a nun' ciangin migilote leen'mang a, thuman mite lungmuangin om tawntung uh hi.
+**ZVS:** Huihpi a nun' ciangin migilote leen'mang a, thuman mite lungmuangin om tawntung-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -251,27 +251,27 @@
 ### v30
 **EN:** The righteous shall never be removed: but the wicked shall not inhabit the earth.
 
-**TDB77:** Midikte lungmuangin mun khatah teeng tawntung ding uh a, migilote in teen’ nading mun ngah zo lo ding uh hi.
+**TDB77:** Midikte lungmuangin mun khatah teeng tawntung ding-te a, migilote in teen’ nading mun ngah zo lo ding-te hi.
 
-**ZVS:** Midikte lungmuang takin om tawntung ding uh a, migilote in omna ding mun ngah zolo ding uh hi.
+**ZVS:** Midikte lungmuang takin om tawntung ding-te a, migilote in omna ding mun ngah zolo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v31
 **EN:** The mouth of the just bringeth forth wisdom: but the froward tongue shall be cut out.
 
-**TDB77:** Midikte in pilna thu gen uh a, thuhoih lo a gente’ leei ki-attan ding hi.
+**TDB77:** Midikte in pilna thu gen-te a, thuhoih lo a gente’ leei ki-attan ding hi.
 
-**ZVS:** Midikte in pilna thu gen uh a, thu hoihlo a gente' leii ki-attan ding hi.
+**ZVS:** Midikte in pilna thu gen-te a, thu hoihlo a gente' leii ki-attan ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v32
 **EN:** The lips of the righteous know what is acceptable: but the mouth of the wicked speaketh frowardness.
 
-**TDB77:** Midikte in a gen ding thuhoih thei a, migilote in thusia bekbek gengen uh hi.
+**TDB77:** Midikte in a gen ding thuhoih thei a, migilote in thusia bekbek gengen-te hi.
 
-**ZVS:** Midikte in a gen ding uh thuhoih thei a, migilote in thusia bekbek gengen uh hi.
+**ZVS:** Midikte in a gen ding-te thuhoih thei a, migilote in thusia bekbek gengen-te hi.
 
 **Grammar:** plural: uh marker
 

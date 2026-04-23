@@ -1,0 +1,15 @@
+{
+  "model": "Qwen/Qwen2.5-1.5B-Instruct",
+  "max_tokens": 512,
+  "train": 3633788,
+  "val": 74923,
+  "test": 37461,
+  "categories": {
+    "monolingual": 3579971,
+    "parallel": 103837,
+    "dictionary": 10346,
+    "instructions": 49764,
+    "orpo": 1999,
+    "eval": 255
+  }
+}

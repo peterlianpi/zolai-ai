@@ -36,9 +36,9 @@
 ### v2
 **EN:** And it was told the Gazites, saying, Samson is come hither. And they compassed him in, and laid wait for him all night in the gate of the city, and were quiet all the night, saying, In the morning, when it is day, we shall kill him.
 
-**TDB77:** Gaza mite kiangah “Samson hong pai,” ci-in kigen a, amaute in tua mun umcihin khuapi kulh kongpi-ah zan tawntung amah pangsim uh hi. Amaute zan tawntung dai takin om uh a, “Zingsang khuavak mateng ngak ni; tua ciangin amah i that ding hi,” ci uh hi.
+**TDB77:** Gaza mite kiangah “Samson hong pai,” ci-in kigen a, amaute in tua mun umcihin khuapi kulh kongpi-ah zan tawntung amah pangsim-te hi. Amaute zan tawntung dai takin om-te a, “Zingsang khuavak mateng ngak ni; tua ciangin amah i that ding hi,” ci-te hi.
 
-**ZVS:** Gaza mite kiangah, “Samson hong pai,” ci-in kigen a, amaute in tua khua umcihin khuapi kulhkongpi-ah zan tawntung amah pangsim uh hi. Amaute zan tawntung daitakin om uh a, “Zingsang khuavak mateng ngak ni; tua ciangin amah that ni,” ci uh hi.
+**ZVS:** Gaza mite kiangah, “Samson hong pai,” ci-in kigen a, amaute in tua khua umcihin khuapi kulhkongpi-ah zan tawntung amah pangsim-te hi. Amaute zan tawntung daitakin om-te a, “Zingsang khuavak mateng ngak ni; tua ciangin amah that ni,” ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -63,9 +63,9 @@
 ### v5
 **EN:** And the lords of the Philistines came up unto her, and said unto her, Entice him, and see wherein his great strength lieth, and by what means we may prevail against him, that we may bind him to afflict him: and we will give thee every one of us eleven hundred pieces of silver.
 
-**TDB77:** Tua ciangin Filistia mi uliante tua nu kiangah hong pai-in, “Amah hong zol in la, ama hatna koi lai-ah om hiam cihna leh amah i nuaisiah nadingin amah i hen theih nading, amah i zawh theih nading zia hong thei in; tua ciangin kote in ngun peek tul leh peek zakhat ciat nang kong pia ding uh hi,” a ci uh hi.
+**TDB77:** Tua ciangin Filistia mi uliante tua nu kiangah hong pai-in, “Amah hong zol in la, ama hatna koi lai-ah om hiam cihna leh amah i nuaisiah nadingin amah i hen theih nading, amah i zawh theih nading zia hong thei in; tua ciangin kote in ngun peek tul leh peek zakhat ciat nang kong pia ding-te hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin Filistia mi uliante tuanu kiangah hong pai-in, “Amah hong zol in la, ama hatna koi-ah om hiam cihna leh amah i nuaisiah zawhna dingin amah i hen theihna ding, amah i zawh theihna ding zia hong thei in. Na theihzawh leh ngun pek tul leh za khat ciat nang kong pia ding uh hi,” a ci uh hi.
+**ZVS:** Tua ciangin Filistia mi uliante tuanu kiangah hong pai-in, “Amah hong zol in la, ama hatna koi-ah om hiam cihna leh amah i nuaisiah zawhna dingin amah i hen theihna ding, amah i zawh theihna ding zia hong thei in. Na theihzawh leh ngun pek tul leh za khat ciat nang kong pia ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -90,9 +90,9 @@
 ### v8
 **EN:** Then the lords of the Philistines brought up to her seven green withs which had not been dried, and she bound him with them.
 
-**TDB77:** Tua ciangin Filistia mi uliante in tua nu kiangah a keu nai lo thalkhau sagih hong paipih uh a, tua nu in tua khaute tawh amah hen hi.
+**TDB77:** Tua ciangin Filistia mi uliante in tua nu kiangah a keu nai lo thalkhau sagih hong paipih-te a, tua nu in tua khaute tawh amah hen hi.
 
-**ZVS:** Tua ciangin Filistia mi uliante in tuanu kiangah a keu nailo thalkhau sagih hong paipih uh a, tuanu in tua khaute tawh amah a hen hi.
+**ZVS:** Tua ciangin Filistia mi uliante in tuanu kiangah a keu nailo thalkhau sagih hong paipih-te a, tuanu in tua khaute tawh amah a hen hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -126,9 +126,9 @@
 ### v12
 **EN:** Delilah therefore took new ropes, and bound him therewith, and said unto him, The Philistines be upon thee, Samson. And there were liers in wait abiding in the chamber. And he brake them from off his arms like a thread.
 
-**TDB77:** Tua ahih ciangin Delilah in khauhual thakte la-in tuate tawh amah hen a, ama kiangah “Filistia mite in nang hong hih, Samson!” a ci hi. A busim mite inndei sungnungah om uh hi. Ahih hangin amah in mimkhau bangin khauhualte botsat ziau hi.
+**TDB77:** Tua ahih ciangin Delilah in khauhual thakte la-in tuate tawh amah hen a, ama kiangah “Filistia mite in nang hong hih, Samson!” a ci hi. A busim mite inndei sungnungah om-te hi. Ahih hangin amah in mimkhau bangin khauhualte botsat ziau hi.
 
-**ZVS:** Tua ahih ciangin Delilah in khauhual thakte la-in tuate tawh amah hen a, “Filistia mite in nang hong hih, Samson!” a ci hi. A busim mite inndei sungnungah om uh hi. Ahih hangin Samson in mimkhau bangin khauhualte botsat ziau hi.
+**ZVS:** Tua ahih ciangin Delilah in khauhual thakte la-in tuate tawh amah hen a, “Filistia mite in nang hong hih, Samson!” a ci hi. A busim mite inndei sungnungah om-te hi. Ahih hangin Samson in mimkhau bangin khauhualte botsat ziau hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -180,9 +180,9 @@
 ### v18
 **EN:** And when Delilah saw that he had told her all his heart, she sent and called for the lords of the Philistines, saying, Come up this once, for he hath shewed me all his heart. Then the lords of the Philistines came up unto her, and brought money in their hand.
 
-**TDB77:** Ama tungah a lungsim khempeuh gen khin hi, ci-in Delilah in a theih ciangin amah in mi sawlin Filistia mi uliante sam a, “Tu-a khatvei hong pai un; bang hang hiam cih leh amah in a lungsim khempeuh kei kiangah hong gen khin zo hi,” a ci hi. Tua ciangin Filistia uliante tua nu kiangah hong pai-in sum zong hong pua uh hi.
+**TDB77:** Ama tungah a lungsim khempeuh gen khin hi, ci-in Delilah in a theih ciangin amah in mi sawlin Filistia mi uliante sam a, “Tu-a khatvei hong pai un; bang hang hiam cih leh amah in a lungsim khempeuh kei kiangah hong gen khin zo hi,” a ci hi. Tua ciangin Filistia uliante tua nu kiangah hong pai-in sum zong hong pua-te hi.
 
-**ZVS:** Ama tungah a lungsim khempeuh gen khin hi, ci-in Delilah in a theih ciangin amah in mi sawlin Filistia mi uliante sam a, “Tu-a khatvei hong pai un; bang hang hiam cih leh amah in a lungsim khempeuh kei kiangah hong gen khinzo hi,” a ci hi. Tua ciangin Filistia uliante tuanu kiangah hong pai-in sum zong hong pua uh hi.
+**ZVS:** Ama tungah a lungsim khempeuh gen khin hi, ci-in Delilah in a theih ciangin amah in mi sawlin Filistia mi uliante sam a, “Tu-a khatvei hong pai un; bang hang hiam cih leh amah in a lungsim khempeuh kei kiangah hong gen khinzo hi,” a ci hi. Tua ciangin Filistia uliante tuanu kiangah hong pai-in sum zong hong pua-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -207,9 +207,9 @@
 ### v21
 **EN:** But the Philistines took him, and put out his eyes, and brought him down to Gaza, and bound him with fetters of brass; and he did grind in the prison house.
 
-**TDB77:** Tua ciangin Filistia mite in amah manin a mitte khelkhia uh a, Gaza-ah paipihin amah sumngo kol bulh uh hi, amah in thong sung angawina-ah an gawi hi.
+**TDB77:** Tua ciangin Filistia mite in amah manin a mitte khelkhia-te a, Gaza-ah paipihin amah sumngo kol bulh-te hi, amah in thong sung angawina-ah an gawi hi.
 
-**ZVS:** Tua ciangin Filistia mite in amah manin a mitte khelkhia uh a, Gaza-ah paipihin amah sumngo kol a bulh uh hi. Amah in thong sung an gawina-ah an a gawi hi.
+**ZVS:** Tua ciangin Filistia mite in amah manin a mitte khelkhia-te a, Gaza-ah paipihin amah sumngo kol a bulh-te hi. Amah in thong sung an gawina-ah an a gawi hi.
 
 **Grammar:** sequence: then/therefore | causal: because | plural: uh marker
 
@@ -225,27 +225,27 @@
 ### v23
 **EN:** Then the lords of the Philistines gathered them together for to offer a great sacrifice unto Dagon their god, and to rejoice: for they said, Our god hath delivered Samson our enemy into our hand.
 
-**TDB77:** Tu-in Filistia uliante a pasian uh Dagon tungah biakna lianpi khat a pia ding leh a gualnuam dingin kikhawm uh hi; bang hang hiam cih leh amaute in, “I pasian in i khut sungah i galpa Samson hong pia zo hi,” a ci hi.
+**TDB77:** Tu-in Filistia uliante a pasian-te Dagon tungah biakna lianpi khat a pia ding leh a gualnuam dingin kikhawm-te hi; bang hang hiam cih leh amaute in, “I pasian in i khut sungah i galpa Samson hong pia zo hi,” a ci hi.
 
-**ZVS:** Tu-in Filistia uliante a pasian uh Dagon tungah biakna lianpi khat a pia ding leh a gualnuam dingin kikhawm uh hi. Bang hang hiam cih leh amaute in, “I pasian in i khutsungah i galpa Samson hong piazo hi,” a ci uh hi.
+**ZVS:** Tu-in Filistia uliante a pasian-te Dagon tungah biakna lianpi khat a pia ding leh a gualnuam dingin kikhawm-te hi. Bang hang hiam cih leh amaute in, “I pasian in i khutsungah i galpa Samson hong piazo hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And when the people saw him, they praised their god: for they said, Our god hath delivered into our hands our enemy, and the destroyer of our country, which slew many of us.
 
-**TDB77:** Mite in amah a muh ciangun a pasian uh phat uh hi; bang hang hiam cih leh amaute in, “I pasian in eite khut sungah i gam a susia-pa, eite tampi hong thatpa hong pia zo hi,” a ci uh hi.
+**TDB77:** Mite in amah a muh ciangun a pasian-te phat-te hi; bang hang hiam cih leh amaute in, “I pasian in eite khut sungah i gam a susia-pa, eite tampi hong thatpa hong pia zo hi,” a ci-te hi.
 
-**ZVS:** Mite in amah a muh ciangun a pasian uh phat uh hi. Bang hang hiam cih leh amaute in, “I pasian in eite' khutsungah i gam a susiapa, eite tampi hong thatpa hong piazo hi,” a ci uh hi.
+**ZVS:** Mite in amah a muh ciangun a pasian-te phat-te hi. Bang hang hiam cih leh amaute in, “I pasian in eite' khutsungah i gam a susiapa, eite tampi hong thatpa hong piazo hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v25
 **EN:** And it came to pass, when their hearts were merry, that they said, Call for Samson, that he may make us sport. And they called for Samson out of the prison house; and he made them sport: and they set him between the pillars.
 
-**TDB77:** A lungsim uh a nop ciangin amaute in, “Eite’ adingin a kimawl theih nadingin Samson sam un,” a ci uh hi. Tua ahih ciangin amaute in, thong panin Samson sam khia-in amau’ mai-ah mawlpih uh hi. Khuampite kikalah amah ding sak uh hi;
+**TDB77:** A lungsim-te a nop ciangin amaute in, “Eite’ adingin a kimawl theih nadingin Samson sam un,” a ci-te hi. Tua ahih ciangin amaute in, thong panin Samson sam khia-in amau’ mai-ah mawlpih-te hi. Khuampite kikalah amah ding sak-te hi;
 
-**ZVS:** A lungsim uh a nop ciangin amaute in, “Eite-a' dingin a kimawl theihna dingin Samson sam un,” a ci uh hi. Tua ahih ciangin amaute in thong panin Samson samkhia-in amau' mai-ah mawlpih uh hi. Khuampite kikalah amah kidingsak hi.
+**ZVS:** A lungsim-te a nop ciangin amaute in, “Eite-a' dingin a kimawl theihna dingin Samson sam un,” a ci-te hi. Tua ahih ciangin amaute in thong panin Samson samkhia-in amau' mai-ah mawlpih-te hi. Khuampite kikalah amah kidingsak hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -261,9 +261,9 @@
 ### v27
 **EN:** Now the house was full of men and women; and all the lords of the Philistines were there; and there were upon the roof about three thousand men and women, that beheld while Samson made sport.
 
-**TDB77:** Tu-in a innpi pen numei leh pasal tawh kidim hi; Samson a kimawl lai takin a en Filistia ulian khempeuh leh innkhum zangah numei leh pasal mi tulthum bang om uh hi.
+**TDB77:** Tu-in a innpi pen numei leh pasal tawh kidim hi; Samson a kimawl lai takin a en Filistia ulian khempeuh leh innkhum zangah numei leh pasal mi tulthum bang om-te hi.
 
-**ZVS:** Tua laitakin a innpi pen numei leh pasal tawh kidim hi. Samson a kimawlsak laitakin a en Filistia ulian khempeuh leh innkhum zangah numei leh pasal mi tul thum bang om uh hi.
+**ZVS:** Tua laitakin a innpi pen numei leh pasal tawh kidim hi. Samson a kimawlsak laitakin a en Filistia ulian khempeuh leh innkhum zangah numei leh pasal mi tul thum bang om-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -297,9 +297,9 @@
 ### v31
 **EN:** Then his brethren and all the house of his father came down, and took him, and brought him up, and buried him between Zorah and Eshtaol in the buryingplace of Manoah his father. And he judged Israel twenty years.
 
-**TDB77:** Tua ciangin a sanggam pasalte leh a innkuanpihte khempeuh hong paisukin amah la uh a, amah ciahpih to-in Zorah leh Eshtaol kikal-a om a pa Manoah’ han-ah vui uh hi. Amah in Israelte kum sawmnih sung thukhen hi.
+**TDB77:** Tua ciangin a sanggam pasalte leh a innkuanpihte khempeuh hong paisukin amah la-te a, amah ciahpih to-in Zorah leh Eshtaol kikal-a om a pa Manoah’ han-ah vui-te hi. Amah in Israelte kum sawmnih sung thukhen hi.
 
-**ZVS:** Tua ciangin a sanggam pasalte leh a innkuanpihte khempeuh hong paisukin a luanghawm la uh a, ciahpihto-in Zorah leh Eshtaol kikala om a pa Manoah' hanah a vui uh hi. Amah in Israel-te kum sawmnih sung thu a khen hi.
+**ZVS:** Tua ciangin a sanggam pasalte leh a innkuanpihte khempeuh hong paisukin a luanghawm la-te a, ciahpihto-in Zorah leh Eshtaol kikala om a pa Manoah' hanah a vui-te hi. Amah in Israel-te kum sawmnih sung thu a khen hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

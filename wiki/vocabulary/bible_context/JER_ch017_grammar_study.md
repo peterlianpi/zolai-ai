@@ -37,27 +37,27 @@
 ### v2
 **EN:** Whilst their children remember their altars and their groves by the green trees upon the high hills.
 
-**TDB77:** A tate un singlim nuai khempeuh leh mualsangte’ tunga a biakna taute uh leh a nusian uh Asherah milimte a phawk veve uh a,
+**TDB77:** A tate un singlim nuai khempeuh leh mualsangte’ tunga a biakna taute-te leh a nusian-te Asherah milimte a phawk veve-te a,
 
-**ZVS:** A tate un singnim nuai khempeuh leh mualsangte' tunga a biakna taute uh leh a nusian uh Asherah milimte phawk veve uh a,
+**ZVS:** A tate un singnim nuai khempeuh leh mualsangte' tunga a biakna taute-te leh a nusian-te Asherah milimte phawk veve-te a,
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** O my mountain in the field, I will give thy substance and all thy treasures to the spoil, and thy high places for sin, throughout all thy borders.
 
-**TDB77:** zanglei-a om mualte tungah zong tua mawhna a kilang hi. Na gam sung khempeuh uh-a na bawl uh mawhnate hangin na neih na lam uh leh na sum na paite uh, na galte uh ka tuahmang sak ding hi.
+**TDB77:** zanglei-a om mualte tungah zong tua mawhna a kilang hi. Na gam sung khempeuh uh-a na bawl-te mawhnate hangin na neih na lam-te leh na sum na paite uh, na galte-te ka tuahmang sak ding hi.
 
-**ZVS:** zanglei-a om mualte tungah zong tua mawhna a kilang hi. Na gamsung khempeuh uhah na bawl uh mawhnate hangin na neih na lam uh leh na sum na paite uh, na galte uh ka tuahmangsak ding hi.
+**ZVS:** zanglei-a om mualte tungah zong tua mawhna a kilang hi. Na gamsung khempeuh uhah na bawl-te mawhnate hangin na neih na lam-te leh na sum na paite uh, na galte-te ka tuahmangsak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v4
 **EN:** And thou, even thyself, shalt discontinue from thine heritage that I gave thee; and I will cause thee to serve thine enemies in the land which thou knowest not: for ye have kindled a fire in mine anger, which shall burn for ever.
 
-**TDB77:** Nang kong piak na gam zong na taan ding a, na theih ngei loh uh gam khatah na galte’ na ka hong semsak ding hi; bang hang hiam cih leh ka hehna kitawh kuang a, a mit nawn kei ding hi.
+**TDB77:** Nang kong piak na gam zong na taan ding a, na theih ngei loh-te gam khatah na galte’ na ka hong semsak ding hi; bang hang hiam cih leh ka hehna kitawh kuang a, a mit nawn kei ding hi.
 
-**ZVS:** Note kong piak na gam uh zong na taan ding uh a, na theih ngeiloh uh gam khatah na galte uh' na ka hong semsak ding hi. Bang hang hiam cih leh ka hehna kitawhkuang a, a mit nawn kei ding hi,” a ci hi.
+**ZVS:** Note kong piak na gam-te zong na taan ding-te a, na theih ngeiloh-te gam khatah na galte uh' na ka hong semsak ding hi. Bang hang hiam cih leh ka hehna kitawhkuang a, a mit nawn kei ding hi,” a ci hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
@@ -134,9 +134,9 @@
 ### v13
 **EN:** O
 
-**TDB77:** Aw Topa, Israel mite’ lametpa aw, nang a hong taisan mite a zahhuai ding uh hi. Nang a hong lehngat san mite leivui laka min gelh bangin a mang thang ding uh hi. Bang hang hiam cih leh nuntakna ciktui ahi Topa a hong taisan zo uh hi.
+**TDB77:** Aw Topa, Israel mite’ lametpa aw, nang a hong taisan mite a zahhuai ding-te hi. Nang a hong lehngat san mite leivui laka min gelh bangin a mang thang ding-te hi. Bang hang hiam cih leh nuntakna ciktui ahi Topa a hong taisan zo-te hi.
 
-**ZVS:** Aw { Topa, } Israel mite' lametpa aw, nang a hong taisan mite a zahhuai ding uh hi. Nang a hong lehngatsan mite leivui laka min gelh bangin a mangthang uh hi. Bang hang hiam cih leh nuntakna ciktui ahi { Topa } a hong taisanzo uh hi.
+**ZVS:** Aw { Topa, } Israel mite' lametpa aw, nang a hong taisan mite a zahhuai ding-te hi. Nang a hong lehngatsan mite leivui laka min gelh bangin a mangthang-te hi. Bang hang hiam cih leh nuntakna ciktui ahi { Topa } a hong taisanzo-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -152,9 +152,9 @@
 ### v15
 **EN:** Behold, they say unto me, Where is the word of the
 
-**TDB77:** En in, amaute in, “Topa’ hong tawn’nate koi lai takah om ahi hiam? Tu-in hong tung ta hen!” a ci uh hi.
+**TDB77:** En in, amaute in, “Topa’ hong tawn’nate koi lai takah om ahi hiam? Tu-in hong tung ta hen!” a ci-te hi.
 
-**ZVS:** En in, amaute in, “{ Topa' } hong tawn'nate koi lai takah om ahi hiam? Tu-in hong tungta hen!” a ci uh hi.
+**ZVS:** En in, amaute in, “{ Topa' } hong tawn'nate koi lai takah om ahi hiam? Tu-in hong tungta hen!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -200,63 +200,63 @@
 ### v21
 **EN:** Thus saith the
 
-**TDB77:** Topa in hih bangin ci hi: Na nuntak nop lai uh leh kidawm un la, sabbath ni-in van pua kei un. Jerusalem khua kongpite-ah bangmah hong lutpih kei un.
+**TDB77:** Topa in hih bangin ci hi: Na nuntak nop lai-te leh kidawm un la, sabbath ni-in van pua kei un. Jerusalem khua kongpite-ah bangmah hong lutpih kei un.
 
-**ZVS:** { Topa } in hih bangin ci hi: Na nuntak nop lai uh leh kidawm un la, Sabbath ni-in van pua kei un. Jerusalem khua kongpite-ah bangmah hong lutpih kei un.
+**ZVS:** { Topa } in hih bangin ci hi: Na nuntak nop lai-te leh kidawm un la, Sabbath ni-in van pua kei un. Jerusalem khua kongpite-ah bangmah hong lutpih kei un.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v22
 **EN:** Neither carry forth a burden out of your houses on the sabbath day, neither do ye any work, but hallow ye the sabbath day, as I commanded your fathers.
 
-**TDB77:** Sabbath ni-in na inn panun bangmah puakhia kei un la, bangmah sem kei un. Na pu na pate uh ka thupiak mah bangin sabbath ni siangthosak un.
+**TDB77:** Sabbath ni-in na inn panun bangmah puakhia kei un la, bangmah sem kei un. Na pu na pate-te ka thupiak mah bangin sabbath ni siangthosak un.
 
-**ZVS:** Sabbath ni-in na inn uhah bangmah sem kei un. Na pu na pate uh ka thupiak mah bangin Sabbath ni siangthosak un.
+**ZVS:** Sabbath ni-in na inn uhah bangmah sem kei un. Na pu na pate-te ka thupiak mah bangin Sabbath ni siangthosak un.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v23
 **EN:** But they obeyed not, neither inclined their ear, but made their neck stiff, that they might not hear, nor receive instruction.
 
-**TDB77:** Ahih hangin na pu na pate un ka thu hong ngai lo uh a, a bil uh hong ngat lo uh hi. Hong mang loin ka hilhna a theih loh nadingun a lung uh a khauhsak uh hi.
+**TDB77:** Ahih hangin na pu na pate un ka thu hong ngai lo-te a, a bil-te hong ngat lo-te hi. Hong mang loin ka hilhna a theih loh nadingun a lung-te a khauhsak-te hi.
 
-**ZVS:** Ahih hangin na pu na pate un ka thu hong ngailo uh a, a bil uh hong ngatlo uh hi. Ka thu hong manglo uh a, ka hilhna a theihlohna dingun a lungsim uh a khauhsak uh hi.
+**ZVS:** Ahih hangin na pu na pate un ka thu hong ngailo-te a, a bil-te hong ngatlo-te hi. Ka thu hong manglo-te a, ka hilhna a theihlohna dingun a lungsim-te a khauhsak-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v24
 **EN:** And it shall come to pass, if ye diligently hearken unto me, saith the
 
-**TDB77:** “Ahih hangin Topa in kong cih-inah, note in ka thu nong ngaih uh a, sabbath ni-in hih khua kongpite pan bangmah hong lutpih loin, sabbath ni siangtho sakin na na sep kei uh leh,
+**TDB77:** “Ahih hangin Topa in kong cih-inah, note in ka thu nong ngaih-te a, sabbath ni-in hih khua kongpite pan bangmah hong lutpih loin, sabbath ni siangtho sakin na na sep kei-te leh,
 
-**ZVS:** “‘Ahih hangin { Topa } in kong cihin-ah, note in ka thu nong ngaih uh a, Sabbath ni-in hih khua kongpite-ah bangmah hong lutpih loin, Sabbath ni siangthosakin, na na sep kei uh leh,
+**ZVS:** “‘Ahih hangin { Topa } in kong cihin-ah, note in ka thu nong ngaih-te a, Sabbath ni-in hih khua kongpite-ah bangmah hong lutpih loin, Sabbath ni siangthosakin, na na sep kei-te leh,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v25
 **EN:** Then shall there enter into the gates of this city kings and princes sitting upon the throne of David, riding in chariots and on horses, they, and their princes, the men of Judah, and the inhabitants of Jerusalem: and this city shall remain for ever.
 
-**TDB77:** na kumpite uh leh na uliante un David’ neih bang kumpi vangliatna a nei ding uh hi. Amaute in Judah mite leh Jerusalem khua mite tawh sakol leeng leh sakolte’ tungah tuangin hih khua kongpite-ah hong lut ding uh a, hih khuapi-ah zong mi a teeng tawntung ding hi.
+**TDB77:** na kumpite-te leh na uliante un David’ neih bang kumpi vangliatna a nei ding-te hi. Amaute in Judah mite leh Jerusalem khua mite tawh sakol leeng leh sakolte’ tungah tuangin hih khua kongpite-ah hong lut ding-te a, hih khuapi-ah zong mi a teeng tawntung ding hi.
 
-**ZVS:** na kumpite uh leh na uliante un David' neih bang kumpi vangliatna a nei ding uh hi. Amaute in Judah mite leh Jerusalem khuamite tawh sakol leeng leh sakolte tungah tuangin hih khua kongpite-ah hong lut ding uh a, hih khuapi-ah zong mi teng tawntung ding hi.
+**ZVS:** na kumpite-te leh na uliante un David' neih bang kumpi vangliatna a nei ding-te hi. Amaute in Judah mite leh Jerusalem khuamite tawh sakol leeng leh sakolte tungah tuangin hih khua kongpite-ah hong lut ding-te a, hih khuapi-ah zong mi teng tawntung ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v26
 **EN:** And they shall come from the cities of Judah, and from the places about Jerusalem, and from the land of Benjamin, and from the plain, and from the mountains, and from the south, bringing burnt offerings, and sacrifices, and meat offerings, and incense, and bringing sacrifices of praise, unto the house of the
 
-**TDB77:** Mite in Judah gam khuapite leh Jerusalem khua kim panin ahi zongin, Benjamin gam, Shefelah zanglei gam, mualtung gam leh leitaw lam Negeb gamte panin ahi zongin meihal biakna leh kithoihnate, an tawh biakna, paknamtui leh lungdam biak piaknate Topa’ biakinn-ah hong keng uh hi.
+**TDB77:** Mite in Judah gam khuapite leh Jerusalem khua kim panin ahi zongin, Benjamin gam, Shefelah zanglei gam, mualtung gam leh leitaw lam Negeb gamte panin ahi zongin meihal biakna leh kithoihnate, an tawh biakna, paknamtui leh lungdam biak piaknate Topa’ biakinn-ah hong keng-te hi.
 
-**ZVS:** Mite in Judah gam khuapite leh Jerusalem khua kiim panin ahi zongin, Benjamin gam, Shefelah zanglei gam, mualtung gam, leh leitaw lam Negeb gamte panin ahi zongin meihal biakna leh biakpiaknate, an tawh biakna, paknamtui leh lungdam biakpiaknate, { Topa' } biakinn-ah hong pia ding uh hi.
+**ZVS:** Mite in Judah gam khuapite leh Jerusalem khua kiim panin ahi zongin, Benjamin gam, Shefelah zanglei gam, mualtung gam, leh leitaw lam Negeb gamte panin ahi zongin meihal biakna leh biakpiaknate, an tawh biakna, paknamtui leh lungdam biakpiaknate, { Topa' } biakinn-ah hong pia ding-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** But if ye will not hearken unto me to hallow the sabbath day, and not to bear a burden, even entering in at the gates of Jerusalem on the sabbath day; then will I kindle a fire in the gates thereof, and it shall devour the palaces of Jerusalem, and it shall not be quenched.
 
-**TDB77:** Ahih hangin ka thu nong ngaih kei uh a, sabbath ni siangthosak loin, sabbath ni-in Jerusalem khua kongpite pan van pua-in nong lutpih uh leh, tua kongpite ka hal ding hi. A mei in Jerusalem khua kumpi innte lawhin a kangtum ding a, mei a kiphelh zo kei ding hi,’ va ci in,” hong ci hi.
+**TDB77:** Ahih hangin ka thu nong ngaih kei-te a, sabbath ni siangthosak loin, sabbath ni-in Jerusalem khua kongpite pan van pua-in nong lutpih-te leh, tua kongpite ka hal ding hi. A mei in Jerusalem khua kumpi innte lawhin a kangtum ding a, mei a kiphelh zo kei ding hi,’ va ci in,” hong ci hi.
 
-**ZVS:** Ahih hangin ka thu nong ngaih kei uh a, Sabbath ni siangthosak loin, Jerusalem khua kongpite-ah van pua-in nong lutpih uh leh, tua kongpite ka hal ding hi. A mei in Jerusalem khua kumpi innte lawhin kangtum ding a, a mei a kiphelhzo kei ding hi,’ va ci in,” hong ci hi.
+**ZVS:** Ahih hangin ka thu nong ngaih kei-te a, Sabbath ni siangthosak loin, Jerusalem khua kongpite-ah van pua-in nong lutpih-te leh, tua kongpite ka hal ding hi. A mei in Jerusalem khua kumpi innte lawhin kangtum ding a, a mei a kiphelhzo kei ding hi,’ va ci in,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

@@ -154,7 +154,7 @@
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v16
-**EN:** And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the ram of the trespass offering, and it shall be forgiven him.
+**EN:** And he shall make amends for the harm that he hath done in the holy thing, and shall add the fifth part thereto, and give it unto the priest: and the priest shall make an atonement for him with the gam of the trespass offering, and it shall be forgiven him.
 
 **TDB77:** Amah in a siangtho na a hih khialhna-ah lohkikna zong bawl ding a, sehnga suah sehkhat gawm behin siampipa tungah pia ding hi; siampipa in mawhna hanga biakna tuutal tawh ama adingin kilemna bawlsak ding hi; amah kimaisak ding hi.
 
@@ -172,7 +172,7 @@
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 
 ### v18
-**EN:** And he shall bring a ram without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist it not, and it shall be forgiven him.
+**EN:** And he shall bring a gam without blemish out of the flock, with thy estimation, for a trespass offering, unto the priest: and the priest shall make an atonement for him concerning his ignorance wherein he erred and wist it not, and it shall be forgiven him.
 
 **TDB77:** Tuuhon lak panin a sitbang lo tuutal khat, mawhna hanga biakna man zah ding nangmah in seh in la, amah in siampipa kiangah paipih ding hi; theih lohna hanga ama gamtatnasa khialhna hangin siampipa in ama ading kilemna bawlsak ding hi; amah kimaisak ding hi.
 

@@ -55,7 +55,7 @@
 
 **TDB77:** Baasha’ mi ahi khuapi sunga a si peuhpeuh uite in ne ding hi; ama mi gamlakah a si peuhpeuh huihlak vasate in ne ding hi,” a ci hi.
 
-**ZVS:** Baasha' mi, khuapi sunga a si peuhpeuh uite in ne ding a, ama mi gamlakah a si peuhpeuh huihlak vasate in ne ding uh hi,” a ci hi.
+**ZVS:** Baasha' mi, khuapi sunga a si peuhpeuh uite in ne ding a, ama mi gamlakah a si peuhpeuh huihlak vasate in ne ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will
 
@@ -123,7 +123,7 @@
 ### v13
 **EN:** For all the sins of Baasha, and the sins of Elah his son, by which they sinned, and by which they made Israel to sin, in provoking the
 
-**TDB77:** Baasha' khialhnate leh a khialhsa uh ahi a tapa Elah' khialhnate, leh amaute in Israel khialsakin, a milimte uh tawh Israel Pasian, { Topa } a hehsakna uh hangin, Baasha langpangin kamsang Jehu tung tawnin { Topa' } thugenna bangin Baasha' innkuan khempeuh tua bangin Zimri in susia hi.
+**TDB77:** Baasha' khialhnate leh a khialhsa-te ahi a tapa Elah' khialhnate, leh amaute in Israel khialsakin, a milimte-te tawh Israel Pasian, { Topa } a hehsakna-te hangin, Baasha langpangin kamsang Jehu tung tawnin { Topa' } thugenna bangin Baasha' innkuan khempeuh tua bangin Zimri in susia hi.
 
 ### v14
 **EN:** Now the rest of the acts of Elah, and all that he did, are they not written in the book of the chronicles of the kings of Israel?
@@ -137,25 +137,25 @@
 ### v15
 **EN:** In the twenty and seventh year of Asa king of Judah did Zimri reign seven days in Tirzah. And the people were encamped against Gibbethon, which belonged to the Philistines.
 
-**TDB77:** Judah kumpi Asa’ kum sawmnih-le-sagihna kumin Zimri in Tirzah ah ni sagih sung uk hi. Tu-in Filistiate’ khua Gibbethon simin galkapte in giahphual sat uh a,
+**TDB77:** Judah kumpi Asa’ kum sawmnih-le-sagihna kumin Zimri in Tirzah ah ni sagih sung uk hi. Tu-in Filistiate’ khua Gibbethon simin galkapte in giahphual sat-te a,
 
-**ZVS:** Judah kumpi Asa' kum sawmnihlesagihna kumin Zimri in Tirzah-ah ni sagih sung uk hi. Tua laitakin Filistia-te' khua Gibbethon simin Israel galkapte in giahphual sat uh a,
+**ZVS:** Judah kumpi Asa' kum sawmnihlesagihna kumin Zimri in Tirzah-ah ni sagih sung uk hi. Tua laitakin Filistia-te' khua Gibbethon simin Israel galkapte in giahphual sat-te a,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v16
 **EN:** And the people that were encamped heard say, Zimri hath conspired, and hath also slain the king: wherefore all Israel made Omri, the captain of the host, king over Israel that day in the camp.
 
-**TDB77:** giahphual sat a, om galkapte in, “Zimri in sawmsimin kumpipa that khin hi,” a kicihna za uh hi; tua ahih ciangin Israelte khempeuh in tua ni-in giahphual ah galkap a ukpa Omri kumpi-in bawl uh hi.
+**TDB77:** giahphual sat a, om galkapte in, “Zimri in sawmsimin kumpipa that khin hi,” a kicihna za-te hi; tua ahih ciangin Israelte khempeuh in tua ni-in giahphual ah galkap a ukpa Omri kumpi-in bawl-te hi.
 
-**ZVS:** giahphual sata om galkapte in, “Zimri in sawmsimin kumpipa that khin hi,” a kicihna a za uh hi. Tua ahih ciangin Israel-te khempeuh in tua ni-in giahphualah galkap a ukpa Omri kumpi-in a bawl uh hi.
+**ZVS:** giahphual sata om galkapte in, “Zimri in sawmsimin kumpipa that khin hi,” a kicihna a za-te hi. Tua ahih ciangin Israel-te khempeuh in tua ni-in giahphualah galkap a ukpa Omri kumpi-in a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And Omri went up from Gibbethon, and all Israel with him, and they besieged Tirzah.
 
-**TDB77:** Tua ahih ciangin Omri leh amah tawh a om Israel khempeuh Gibbethon panin paito-in amaute in Tirzah umcih uh hi.
+**TDB77:** Tua ahih ciangin Omri leh amah tawh a om Israel khempeuh Gibbethon panin paito-in amaute in Tirzah umcih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -178,18 +178,18 @@
 ### v21
 **EN:** Then were the people of Israel divided into two parts: half of the people followed Tibni the son of Ginath, to make him king; and half followed Omri.
 
-**TDB77:** Tua ciangin Israel mite pawl nihin kikhen uh hi; mi a kimkhat in kumpi-in a bawl dingin Ginath’ tapa Tibni zui uh a, a kimkhat in Omri zui uh hi.
+**TDB77:** Tua ciangin Israel mite pawl nihin kikhen-te hi; mi a kimkhat in kumpi-in a bawl dingin Ginath’ tapa Tibni zui-te a, a kimkhat in Omri zui-te hi.
 
-**ZVS:** Tua ciangin Israel mite pawl nihin kikhen uh hi. Mi pawlkhat in kumpi-in a bawl dingin Ginath' tapa Tibni zui uh a, a pawlkhat in Omri zui uh hi.
+**ZVS:** Tua ciangin Israel mite pawl nihin kikhen-te hi. Mi pawlkhat in kumpi-in a bawl dingin Ginath' tapa Tibni zui-te a, a pawlkhat in Omri zui-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** But the people that followed Omri prevailed against the people that followed Tibni the son of Ginath: so Tibni died, and Omri reigned.
 
-**TDB77:** Ahih hangin Omri a zui mite in Ginath’ tapa Tibni a zuite zo uh hi; tua ahih ciangin Tibni si a, Omri kumpi suak hi.
+**TDB77:** Ahih hangin Omri a zui mite in Ginath’ tapa Tibni a zuite zo-te hi; tua ahih ciangin Tibni si a, Omri kumpi suak hi.
 
-**ZVS:** Ahih hangin Omri a zui mite in Ginath' tapa Tibni a zuite zo uh ahih ciangin Tibni si a, Omri kumpi a suak hi.
+**ZVS:** Ahih hangin Omri a zui mite in Ginath' tapa Tibni a zuite zo-te ahih ciangin Tibni si a, Omri kumpi a suak hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -221,9 +221,9 @@
 ### v26
 **EN:** For he walked in all the way of Jeroboam the son of Nebat, and in his sin wherewith he made Israel to sin, to provoke the
 
-**TDB77:** Bang hang hiam cih leh Nebat’ tapa Jeroboam’ lampi khempeuh, leh Israel a khialhsakna khialhnate, a milimte uh tawh Israel Pasian, Topa a hehsakna uh zui hi.
+**TDB77:** Bang hang hiam cih leh Nebat’ tapa Jeroboam’ lampi khempeuh, leh Israel a khialhsakna khialhnate, a milimte-te tawh Israel Pasian, Topa a hehsakna-te zui hi.
 
-**ZVS:** Bang hang hiam cih leh Nebat' tapa Jeroboam' gamtat khempeuh, leh Israel a khialhsakna khialhnate, a milimte uh tawh Israel Pasian, { Topa } a hehsakna uh a zui hi.
+**ZVS:** Bang hang hiam cih leh Nebat' tapa Jeroboam' gamtat khempeuh, leh Israel a khialhsakna khialhnate, a milimte-te tawh Israel Pasian, { Topa } a hehsakna-te a zui hi.
 
 ### v27
 **EN:** Now the rest of the acts of Omri which he did, and his might that he shewed, are they not written in the book of the chronicles of the kings of Israel?

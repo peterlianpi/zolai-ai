@@ -61,54 +61,54 @@
 ### v5
 **EN:** The gold for things of gold, and the silver for things of silver, and for all manner of work to be made by the hands of artificers. And who then is willing to consecrate his service this day unto the
 
-**TDB77:** leh siamneelte in a hih ding nasepna khempeuh adingin kham zat nading nate ah kham leh ngun zat nading nate ah ngun ahi hi. Kua in utna lungsim tawh Topa tungah tu ni-in amahmah kipia-in ki-ap ding na hi uh hiam?” a ci hi.
+**TDB77:** leh siamneelte in a hih ding nasepna khempeuh adingin kham zat nading nate ah kham leh ngun zat nading nate ah ngun ahi hi. Kua in utna lungsim tawh Topa tungah tu ni-in amahmah kipia-in ki-ap ding na hi-te hiam?” a ci hi.
 
-**ZVS:** leh siamneelte in a hih ding nasepna khempeuh-a dingin kham zatna ding nate-ah kham, leh ngun zatna ding nate-ah ngun ahi hi. Kua teng utna lungsim tawh { Topa' } tungah tuni-in amahmah kipia-in ki-ap ding na hi uh hiam?” a ci hi.
+**ZVS:** leh siamneelte in a hih ding nasepna khempeuh-a dingin kham zatna ding nate-ah kham, leh ngun zatna ding nate-ah ngun ahi hi. Kua teng utna lungsim tawh { Topa' } tungah tuni-in amahmah kipia-in ki-ap ding na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v6
 **EN:** Then the chief of the fathers and princes of the tribes of Israel, and the captains of thousands and of hundreds, with the rulers of the king's work, offered willingly,
 
-**TDB77:** Tua ciangin beh lutangte in ut thu-a piakna bawl uh a, minam makaite, a tul tul-a a ukte leh a za za-a a ukte, leh kumpipa’ nasepna ah a uk uliante in zong hih uh hi.
+**TDB77:** Tua ciangin beh lutangte in ut thu-a piakna bawl-te a, minam makaite, a tul tul-a a ukte leh a za za-a a ukte, leh kumpipa’ nasepna ah a uk uliante in zong hih-te hi.
 
-**ZVS:** Tua ciangin beh lutangte in utthu-a piakna bawl uh a, minam makaite, a tul tula a ukte leh a za za-a a ukte, leh kumpipa' nasepna-ah a uk uliante in zong hih uh hi.
+**ZVS:** Tua ciangin beh lutangte in utthu-a piakna bawl-te a, minam makaite, a tul tula a ukte leh a za za-a a ukte, leh kumpipa' nasepna-ah a uk uliante in zong hih-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v7
 **EN:** And gave for the service of the house of God of gold five thousand talents and ten thousand drams, and of silver ten thousand talents, and of brass eighteen thousand talents, and one hundred thousand talents of iron.
 
-**TDB77:** Amaute in Pasian’ inn nasep nadingin kham talen tulnga leh kham darik tulsawm, ngun talen tulsawm, sumngo talen tulsawm leh tulgiat, leh sik talen tul zakhat pia uh hi.
+**TDB77:** Amaute in Pasian’ inn nasep nadingin kham talen tulnga leh kham darik tulsawm, ngun talen tulsawm, sumngo talen tulsawm leh tulgiat, leh sik talen tul zakhat pia-te hi.
 
-**ZVS:** Amaute in Pasian' biakinn nasepna dingin kham talen tul nga leh kham darik tul sawm, ngun talen tul sawm, sumngo talen tul sawm leh tul giat, leh sik talen tul za khat a pia uh hi.
+**ZVS:** Amaute in Pasian' biakinn nasepna dingin kham talen tul nga leh kham darik tul sawm, ngun talen tul sawm, sumngo talen tul sawm leh tul giat, leh sik talen tul za khat a pia-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v8
 **EN:** And they with whom precious stones were found gave them to the treasure of the house of the
 
-**TDB77:** Suangmanpha a nei peuhmah in Gershon mi Jehiel’ kepna sung, Topa’ inn van manpha koihna ah pia uh hi.
+**TDB77:** Suangmanpha a nei peuhmah in Gershon mi Jehiel’ kepna sung, Topa’ inn van manpha koihna ah pia-te hi.
 
-**ZVS:** Suangmanpha a nei peuhmah in Gershon mi Jehiel' kepna sung, { Topa' } biakinn sung vanmanpha koihna-ah a pia uh hi.
+**ZVS:** Suangmanpha a nei peuhmah in Gershon mi Jehiel' kepna sung, { Topa' } biakinn sung vanmanpha koihna-ah a pia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** Then the people rejoiced, for that they offered willingly, because with perfect heart they offered willingly to the
 
-**TDB77:** Tua ciangin hih mite in utna lungsim tawh pia uh ahih manin mite lungdam uh hi; bang hang hiam cih leh amaute in lungsim khempeuh tawh Topa tungah cingtakin pia uh hi; kumpi David zong nakpi takin lungdam hi.
+**TDB77:** Tua ciangin hih mite in utna lungsim tawh pia-te ahih manin mite lungdam-te hi; bang hang hiam cih leh amaute in lungsim khempeuh tawh Topa tungah cingtakin pia-te hi; kumpi David zong nakpi takin lungdam hi.
 
-**ZVS:** Tua ciangin hih mite in utna lungsim tawh pia uh ahih manin mite lungdam uh hi; bang hang hiam cih leh amaute in a lungsim khempeuh uh tawh { Topa' } tungah pia ziahziah uh a, kumpi David zong nakpi takin a lungdam hi.
+**ZVS:** Tua ciangin hih mite in utna lungsim tawh pia-te ahih manin mite lungdam-te hi; bang hang hiam cih leh amaute in a lungsim khempeuh-te tawh { Topa' } tungah pia ziahziah-te a, kumpi David zong nakpi takin a lungdam hi.
 
 **Grammar:** sequence: then/therefore | causal: because | plural: uh marker
 
 ### v10
 **EN:** Wherefore David blessed the
 
-**TDB77:** Tua ahih ciangin a kikhawmte khempeuh’ omna ah David in Topa phat hi; tua ciangin David in: “Nang, Topa, ka pu uh Israel Pasian aw, a tawntungin thupha ngah ta in.
+**TDB77:** Tua ahih ciangin a kikhawmte khempeuh’ omna ah David in Topa phat hi; tua ciangin David in: “Nang, Topa, ka pu-te Israel Pasian aw, a tawntungin thupha ngah ta in.
 
-**ZVS:** Tua ahih ciangin a kikhawmte khempeuh' omna-ah David in { Topa } phat hi. David in, “Nang, { Topa}, ka pu uh Israel Pasian aw, a tawntungin thupha ngah ta in.
+**ZVS:** Tua ahih ciangin a kikhawmte khempeuh' omna-ah David in { Topa } phat hi. David in, “Nang, { Topa}, ka pu-te Israel Pasian aw, a tawntungin thupha ngah ta in.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -133,36 +133,36 @@
 ### v13
 **EN:** Now therefore, our God, we thank thee, and praise thy glorious name.
 
-**TDB77:** Tu-in nangma tungah ka nuam uh hi, kote’ Pasian aw, a minthang na min ka phat uh hi.
+**TDB77:** Tu-in nangma tungah ka nuam-te hi, kote’ Pasian aw, a minthang na min ka phat-te hi.
 
-**ZVS:** Tu-in nangma tungah ka nuam uh hi, kote' Pasian aw, a minthang na min ka phat uh hi.
+**ZVS:** Tu-in nangma tungah ka nuam-te hi, kote' Pasian aw, a minthang na min ka phat-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v14
 **EN:** But who am I, and what is my people, that we should be able to offer so willingly after this sort? for all things come of thee, and of thine own have we given thee.
 
-**TDB77:** “Ahih hangin kote in hih bangin utna tawh ka piak nadingun keimah in kua hi a, ka mite in bang hi lel ahi hiam? Bang hang hiam cih leh na khempeuh nang kiang pan hong pai hi a, nangma’ aa mah nang tungah kong pia uh hi.
+**TDB77:** “Ahih hangin kote in hih bangin utna tawh ka piak nadingun keimah in kua hi a, ka mite in bang hi lel ahi hiam? Bang hang hiam cih leh na khempeuh nang kiang pan hong pai hi a, nangma’ aa mah nang tungah kong pia-te hi.
 
-**ZVS:** “Ahih hangin kote in hih bangin utna tawh kong piakna dingun kei kua hi a, ka mite bang ahi hiam? Bang hang hiam cih leh na khempeuh nang kiang pan hong pai hi a, nangma-a' mah nang tungah a hong pia ka hi uh hi.
+**ZVS:** “Ahih hangin kote in hih bangin utna tawh kong piakna dingun kei kua hi a, ka mite bang ahi hiam? Bang hang hiam cih leh na khempeuh nang kiang pan hong pai hi a, nangma-a' mah nang tungah a hong pia ka hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** For we are strangers before thee, and sojourners, as were all our fathers: our days on the earth are as a shadow, and there is none abiding.
 
-**TDB77:** Bang hang hiam cih leh ka pu ka pate khempeuh uh mah bangin kote in nangma mai-ah mikhualte leh peemtate ka hi uh hi; ka hunte uh leitungah nilim bang hi a, a kip om lo hi.
+**TDB77:** Bang hang hiam cih leh ka pu ka pate khempeuh-te mah bangin kote in nangma mai-ah mikhualte leh peemtate ka hi-te hi; ka hunte-te leitungah nilim bang hi a, a kip om lo hi.
 
-**ZVS:** Bang hang hiam cih leh ka pu ka pate khempeuh uh mah bangin kote pen nangma mai-ah khualmite leh pemtate ka hi uh hi. Ka hunte uh leitungah nilim bang hi a, sih ding ka pelh thei kei uh hi.
+**ZVS:** Bang hang hiam cih leh ka pu ka pate khempeuh-te mah bangin kote pen nangma mai-ah khualmite leh pemtate ka hi-te hi. Ka hunte-te leitungah nilim bang hi a, sih ding ka pelh thei kei-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** O
 
-**TDB77:** Topa kote’ Pasian aw, na min siangtho pahtawi nadingin nang ading inn lam nadingin ka piaksa uh hih a tampite in nangma khut sung panin hong pai hi a, a vekpi-in nangma aa mah ahi hi.
+**TDB77:** Topa kote’ Pasian aw, na min siangtho pahtawi nadingin nang ading inn lam nadingin ka piaksa-te hih a tampite in nangma khut sung panin hong pai hi a, a vekpi-in nangma aa mah ahi hi.
 
-**ZVS:** { Topa } kote' Pasian aw, na min siangtho pahtawina dingin nang-a' ding biakinn lamna dingin ka piaksa uh hih a tampite zong nangma khutsung panin hong pai hi a, a vekpi-in nangma-a' mah ahi hi.
+**ZVS:** { Topa } kote' Pasian aw, na min siangtho pahtawina dingin nang-a' ding biakinn lamna dingin ka piaksa-te hih a tampite zong nangma khutsung panin hong pai hi a, a vekpi-in nangma-a' mah ahi hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
@@ -178,9 +178,9 @@
 ### v18
 **EN:** O
 
-**TDB77:** Ka pute uh Abraham, Isaak, leh Israel Pasian, Topa aw, na mite’ lungsim sungah tua bang ngimnate leh ngaihsutnate omsak tawntung in la, amaute’ lungsim nangma lamah kai in.
+**TDB77:** Ka pute-te Abraham, Isaak, leh Israel Pasian, Topa aw, na mite’ lungsim sungah tua bang ngimnate leh ngaihsutnate omsak tawntung in la, amaute’ lungsim nangma lamah kai in.
 
-**ZVS:** Ka pute uh Abraham, Isaac, leh Israel Pasian, { Topa } aw, na mite' lungsim sungah tua bang ngimnate leh ngaihsutnate omsak tawntung in la, amaute' lungsim nangma lamah kai in.
+**ZVS:** Ka pute-te Abraham, Isaac, leh Israel Pasian, { Topa } aw, na mite' lungsim sungah tua bang ngimnate leh ngaihsutnate omsak tawntung in la, amaute' lungsim nangma lamah kai in.
 
 ### v19
 **EN:** And give unto Solomon my son a perfect heart, to keep thy commandments, thy testimonies, and thy statutes, and to do all these things, and to build the palace, for the which I have made provision.
@@ -194,45 +194,45 @@
 ### v20
 **EN:** And David said to all the congregation, Now bless the
 
-**TDB77:** Tua ciangin David in a kikhawmte khempeuh tungah, “Topa na Pasian uh phat un,” a ci hi. Tua ciangin a kikhawmte khempeuh in a pute a pate uh Pasian Topa phat in, a lu uh kun uh a, Topa bia-in kumpipa tungah zahtakna bawl uh hi.
+**TDB77:** Tua ciangin David in a kikhawmte khempeuh tungah, “Topa na Pasian-te phat un,” a ci hi. Tua ciangin a kikhawmte khempeuh in a pute a pate-te Pasian Topa phat in, a lu-te kun-te a, Topa bia-in kumpipa tungah zahtakna bawl-te hi.
 
-**ZVS:** Tua ciangin David in a kikhawmte khempeuh tungah, “{ Topa } na Pasian uh phat un,” a ci hi. Tua ciangin a kikhawmte khempeuh in a pute a pate uh Pasian { Topa } phatin a lu uh kun uh a, { Topa } bia-in kumpipa tungah zahtakna a bawl uh hi.
+**ZVS:** Tua ciangin David in a kikhawmte khempeuh tungah, “{ Topa } na Pasian-te phat un,” a ci hi. Tua ciangin a kikhawmte khempeuh in a pute a pate-te Pasian { Topa } phatin a lu-te kun-te a, { Topa } bia-in kumpipa tungah zahtakna a bawl-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And they sacrificed sacrifices unto the
 
-**TDB77:** Tua ciangin amaute in Topa tungah biakpiakna bawl uh a, a zing ciangin Topa tungah meihal biakna bawngtal tulkhat, tuutal tulkhat, leh tuuno tulkhat, a leenggahzu tawh a biakna teng tawh, leh Israel khempeuh adingin biak piakna tampi pia uh hi;
+**TDB77:** Tua ciangin amaute in Topa tungah biakpiakna bawl-te a, a zing ciangin Topa tungah meihal biakna bawngtal tulkhat, tuutal tulkhat, leh tuuno tulkhat, a leenggahzu tawh a biakna teng tawh, leh Israel khempeuh adingin biak piakna tampi pia-te hi;
 
-**ZVS:** Tua ciangin amaute in { Topa } tungah biakpiakna bawl uh a, a zing ciangin { Topa } tungah meihal biakna bawngtal tul khat, tuutal tul khat, leh tuuno tul khat, a leenggahzu tawh a biakna teng tawh, leh Israel khempeuh-a' dingin biakpiakna tampi a pia uh hi.
+**ZVS:** Tua ciangin amaute in { Topa } tungah biakpiakna bawl-te a, a zing ciangin { Topa } tungah meihal biakna bawngtal tul khat, tuutal tul khat, leh tuuno tul khat, a leenggahzu tawh a biakna teng tawh, leh Israel khempeuh-a' dingin biakpiakna tampi a pia-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v22
 **EN:** And did eat and drink before the
 
-**TDB77:** tua ciangin amaute in tua ni-in lungdamna lianpi tawh Topa mai-ah pawi khamin om uh hi.Tua ciangin amaute in David’ tapa Solomon kumpi-in a nihveina bawl uh a, amaute in Topa adingin amah kumpi-in sathau nilhin, siampi dingin Zadok sathau nilh uh hi.
+**TDB77:** tua ciangin amaute in tua ni-in lungdamna lianpi tawh Topa mai-ah pawi khamin om-te hi.Tua ciangin amaute in David’ tapa Solomon kumpi-in a nihveina bawl-te a, amaute in Topa adingin amah kumpi-in sathau nilhin, siampi dingin Zadok sathau nilh-te hi.
 
-**ZVS:** Tua ciangin amaute in tua ni-in lungdamna lianpi tawh { Topa' } mai-ah pawi khamin a om uh hi. Tua ciangin amaute in David' tapa Solomon kumpi-in a nihveina bawl uha, amaute in { Topa}-a' dingin amah kumpi-in sathau nilhin, siampi dingin Zadok sathau a nilh uh hi.
+**ZVS:** Tua ciangin amaute in tua ni-in lungdamna lianpi tawh { Topa' } mai-ah pawi khamin a om-te hi. Tua ciangin amaute in David' tapa Solomon kumpi-in a nihveina bawl uha, amaute in { Topa}-a' dingin amah kumpi-in sathau nilhin, siampi dingin Zadok sathau a nilh-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v23
 **EN:** Then Solomon sat on the throne of the
 
-**TDB77:** Tua ciangin a pa David tangin Topa’ kumpi tokhom tungah kumpi-in Solomon tu hi; tua ciangin amah a dau pai a, Israel khempeuh in ama thu mang uh hi.
+**TDB77:** Tua ciangin a pa David tangin Topa’ kumpi tokhom tungah kumpi-in Solomon tu hi; tua ciangin amah a dau pai a, Israel khempeuh in ama thu mang-te hi.
 
-**ZVS:** Tua ciangin a pa David tangin { Topa' } phuhsa kumpi tokhom tungah kumpi-in Solomon a tu hi. Amah a dau pai a, Israel mi khempeuh in ama thu a mang uh hi.
+**ZVS:** Tua ciangin a pa David tangin { Topa' } phuhsa kumpi tokhom tungah kumpi-in Solomon a tu hi. Amah a dau pai a, Israel mi khempeuh in ama thu a mang-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v24
 **EN:** And all the princes, and the mighty men, and all the sons likewise of king David, submitted themselves unto Solomon the king.
 
-**TDB77:** Makaite khempeuh leh a thahat mite, leh Kumpi David’ tapate khempeuhte in zong Kumpi Solomon tungah a thuman ding uh thu ciam uh hi.
+**TDB77:** Makaite khempeuh leh a thahat mite, leh Kumpi David’ tapate khempeuhte in zong Kumpi Solomon tungah a thuman ding-te thu ciam-te hi.
 
-**ZVS:** Makaite khempeuh leh a thahat mite, leh Kumpi David' tapate khempeuh in zong Kumpi Solomon tungah a thuman ding uh thu ciam uh hi.
+**ZVS:** Makaite khempeuh leh a thahat mite, leh Kumpi David' tapate khempeuh in zong Kumpi Solomon tungah a thuman ding-te thu ciam-te hi.
 
 **Grammar:** plural: uh marker
 

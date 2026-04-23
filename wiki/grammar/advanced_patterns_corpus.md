@@ -52,7 +52,7 @@ Zolai chains verbs using `-in` or `a` between them. The first verb is subordinat
 | `nusia-in` | 71 | leaving and... |
 
 **Examples:**
-- `Filistiate hong pai-in Refaim kuam sung luh uh hi.` = The Philistines came and spread in the valley.
+- `Filistiate hong pai-in Refaim kuam sung luh-te hi.` = The Philistines came and spread in the valley.
 - `David kiangah Gad hong pai-in ama tungah gen hi.` = Gad came to David and said to him.
 - `Kaleb in Efrath ten'pihin, tua nu in amah tawh Hur nei hi.` = Caleb took Ephrath, and she bore him Hur.
 
@@ -112,7 +112,7 @@ Zolai chains verbs using `-in` or `a` between them. The first verb is subordinat
 
 **Examples:**
 - `A innkuan khempeuh si hi.` = All his household died.
-- `Mi khempeuh in Topa pahtawi uh hi.` = All people praised the Lord.
+- `Mi khempeuh in Topa pahtawi-te hi.` = All people praised the Lord.
 - `Khua khatpeuh peuh sungah` = in every single village
 
 ---

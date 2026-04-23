@@ -12,7 +12,7 @@
 
 ### tuate = children
 **Context:** used to refer to multiple children
-**Example:** tuate in Shem, Ham, leh Jafeth ahi uh hi
+**Example:** tuate in Shem, Ham, leh Jafeth ahi-te hi
 
 ### suante = sons
 **Context:** used to refer to multiple male children
@@ -40,11 +40,11 @@
 
 ### lehung = and
 **Context:** used as a conjunction to connect words or phrases
-**Example:** Shem, Ham, leh Jafeth ahi uh hi
+**Example:** Shem, Ham, leh Jafeth ahi-te hi
 
 ### pen = is
 **Context:** used as a verb to indicate a state of being
-**Example:** Noah in tapa thum nei a, tuate pen Shem, Ham, leh Jafeth ahi uh hi
+**Example:** Noah in tapa thum nei a, tuate pen Shem, Ham, leh Jafeth ahi-te hi
 
 ### hi = is
 **Context:** used as a verb to indicate a state of being
@@ -97,5 +97,5 @@
   - Example: amau' min pua-in minam piang ciat hi
 
 - **Use of conjunctions**
-  - Conjunctions are used to connect words or phrases, e.g. 'Shem, Ham, leh Jafeth ahi uh hi'
-  - Example: Shem, Ham, leh Jafeth ahi uh hi
+  - Conjunctions are used to connect words or phrases, e.g. 'Shem, Ham, leh Jafeth ahi-te hi'
+  - Example: Shem, Ham, leh Jafeth ahi-te hi

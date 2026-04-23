@@ -27,18 +27,18 @@
 ### v1
 **EN:** He cried also in mine ears with a loud voice, saying, Cause them that have charge over the city to draw near, even every man with his destroying weapon in his hand.
 
-**TDB77:** Tua ciangin Pasian hong kiko a, “Hih khuapi a susia ding no mihingte hong pai un la, na hiam zat ding ciat uh zong hong keng un,” ci-in sam hi.
+**TDB77:** Tua ciangin Pasian hong kiko a, “Hih khuapi a susia ding no mihingte hong pai un la, na hiam zat ding ciat-te zong hong keng un,” ci-in sam hi.
 
-**ZVS:** Tua ciangin Pasian hong kiko a, “Hih khuapi a susia ding no mihingte hong pai un la, na hiam zat ciat ding uh zong hong keng un,” ci-in a sam hi.
+**ZVS:** Tua ciangin Pasian hong kiko a, “Hih khuapi a susia ding no mihingte hong pai un la, na hiam zat ciat ding-te zong hong keng un,” ci-in a sam hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v2
 **EN:** And, behold, six men came from the way of the higher gate, which lieth toward the north, and every man a slaughter weapon in his hand; and one man among them was clothed with linen, with a writer's inkhorn by his side: and they went in, and stood beside the brasen altar.
 
-**TDB77:** Leilu lam biakinn kongpi pua lam panin thakhatin mihing guk hong pai a, hiam khat ciat hong tawi uh hi. Saihadial puan a silh, laigelh nading a tawi mi khat tawh zong hong paikhawm uh hi. A vekpi-un sumngo biaknatau gei-ah hong ding uh hi.
+**TDB77:** Leilu lam biakinn kongpi pua lam panin thakhatin mihing guk hong pai a, hiam khat ciat hong tawi-te hi. Saihadial puan a silh, laigelh nading a tawi mi khat tawh zong hong paikhawm-te hi. A vekpi-un sumngo biaknatau gei-ah hong ding-te hi.
 
-**ZVS:** Leilu lam biakinn kongpi pualam panin thakhatin mihing guk hong pai-in hiam khat ciat hong tawi uh hi. Saihadial puan a silh, lai gelhna ding a tawi mi khat tawh zong hong paikhawm uh hi. A vekpi-un sumngo biakna tau gei-ah hong ding uh hi.
+**ZVS:** Leilu lam biakinn kongpi pualam panin thakhatin mihing guk hong pai-in hiam khat ciat hong tawi-te hi. Saihadial puan a silh, lai gelhna ding a tawi mi khat tawh zong hong paikhawm-te hi. A vekpi-un sumngo biakna tau gei-ah hong ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -72,18 +72,18 @@
 ### v6
 **EN:** Slay utterly old and young, both maids, and little children, and women: but come not near any man upon whom is the mark; and begin at my sanctuary. Then they began at the ancient men which were before the house.
 
-**TDB77:** Puteek, nungak tangval, numei naupang dong takin va that un la, ahi zongin a taltangah ciamtehna a nei peuhmah su kei un. Hih ka biakinn mahmah panin kipan pah un,” a cihna ka za hi. Tua ahih manin tua biakinn sunga ding Israel makaite, kipatna in nei pah uh hi.
+**TDB77:** Puteek, nungak tangval, numei naupang dong takin va that un la, ahi zongin a taltangah ciamtehna a nei peuhmah su kei un. Hih ka biakinn mahmah panin kipan pah un,” a cihna ka za hi. Tua ahih manin tua biakinn sunga ding Israel makaite, kipatna in nei pah-te hi.
 
-**ZVS:** Puteek, nungak, tangval, numei, naupang dong takin va thatlum un la, ahi zongin a taltangah ciamtehna a nei peuhmah su kei un. Hih ka biakinn mahmah panin kipan pah un,” a cihna ka za hi. Tua ahih manin tua biakinn sungah a ding Israel makaite, kipatna-in a nei pah uh hi.
+**ZVS:** Puteek, nungak, tangval, numei, naupang dong takin va thatlum un la, ahi zongin a taltangah ciamtehna a nei peuhmah su kei un. Hih ka biakinn mahmah panin kipan pah un,” a cihna ka za hi. Tua ahih manin tua biakinn sungah a ding Israel makaite, kipatna-in a nei pah-te hi.
 
 **Grammar:** punctual: immediately/suddenly | intensifier: very/greatly | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And he said unto them, Defile the house, and fill the courts with the slain: go ye forth. And they went forth, and slew in the city.
 
-**TDB77:** Tua ciangin amaute kiangah, “Biakinn ninsak un. A tual tengah siluang hawm dimsak un. Tu-in kipan un,” ci hi. Tua ahih ciangin amaute kuan khia-in khua sungah mite thah ding kipan uh hi.
+**TDB77:** Tua ciangin amaute kiangah, “Biakinn ninsak un. A tual tengah siluang hawm dimsak un. Tu-in kipan un,” ci hi. Tua ahih ciangin amaute kuan khia-in khua sungah mite thah ding kipan-te hi.
 
-**ZVS:** Tua ciangin amaute kiangah, “Biakinn ninsak un. A tualtengah misi luanghawm dimsak un. Tu-in kipan un,” ci hi. Tua ahih ciangin amaute kuankhia-in khuasungah mi thah ding a kipan uh hi.
+**ZVS:** Tua ciangin amaute kiangah, “Biakinn ninsak un. A tualtengah misi luanghawm dimsak un. Tu-in kipan un,” ci hi. Tua ahih ciangin amaute kuankhia-in khuasungah mi thah ding a kipan-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -99,9 +99,9 @@
 ### v9
 **EN:** Then said he unto me, The iniquity of the house of Israel and Judah is exceeding great, and the land is full of blood, and the city full of perverseness: for they say, The
 
-**TDB77:** Tua ciangin amah in hong dawng a, “Israel mite leh Judah mite’ mawhna nak liat mahmah hi. Gam sung khempeuh mi thahna tawh kidimsak uh a, Jerusalem khuapi, siatna namkim tawh kidimsak uh hi. Amaute in, ‘Topa in i gam susia khin a, Topa in eite hong mu lo hi,’ ci uh hi.
+**TDB77:** Tua ciangin amah in hong dawng a, “Israel mite leh Judah mite’ mawhna nak liat mahmah hi. Gam sung khempeuh mi thahna tawh kidimsak-te a, Jerusalem khuapi, siatna namkim tawh kidimsak-te hi. Amaute in, ‘Topa in i gam susia khin a, Topa in eite hong mu lo hi,’ ci-te hi.
 
-**ZVS:** Tua ciangin amah in hong dawng a, “Israel mite leh Judah mite' mawhna nak liat mahmah hi. Gamsung khempeuh mi thahna tawh kidimsak uh a, Jerusalem khuapi, siatna namkim tawh kidimsak uh hi. Amaute in, ‘{ Topa } in i gam susia khin a, { Topa } in eite hong mulo hi,’ ci uh hi.
+**ZVS:** Tua ciangin amah in hong dawng a, “Israel mite leh Judah mite' mawhna nak liat mahmah hi. Gamsung khempeuh mi thahna tawh kidimsak-te a, Jerusalem khuapi, siatna namkim tawh kidimsak-te hi. Amaute in, ‘{ Topa } in i gam susia khin a, { Topa } in eite hong mulo hi,’ ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

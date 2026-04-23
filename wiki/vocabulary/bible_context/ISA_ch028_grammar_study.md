@@ -30,7 +30,7 @@
 
 **TDB77:** Efraim minam zukhamte’ kisaktheihna leihoih zangkuam i lutunga kisuang, a vulgawp paak ahi, a vanglian ama hoihna tawh zukham a, a pukte’ kisak theihna tua kumpi lukhu in gim ngah ta hen!
 
-**ZVS:** Israel Kumpi gam in siatna a thuak ding hita hi. Zu a kham, a gam makaite' lu tungah a om pak tawh a kibawl Kumpi lukhu bangin a minthan'na maimangta hi. A lutang uh paknamtui kinuh napi-in zukhamin tukmangkhin uh hi.
+**ZVS:** Israel Kumpi gam in siatna a thuak ding hita hi. Zu a kham, a gam makaite' lu tungah a om pak tawh a kibawl Kumpi lukhu bangin a minthan'na maimangta hi. A lutang-te paknamtui kinuh napi-in zukhamin tukmangkhin-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -78,63 +78,63 @@
 ### v7
 **EN:** But they also have erred through wine, and through strong drink are out of the way; the priest and the prophet have erred through strong drink, they are swallowed up of wine, they are out of the way through strong drink; they err in vision, they stumble in judgment.
 
-**TDB77:** Hih mite zong leenggahzu tawh hoi-in kham theih zu tawh awn uh hi: siampite leh kamsangte nangawn zu khamin hoi uh hi. Kamsangte in zu kham lua ahih manin Pasian’ muhsak mangmuhnate thei thei lo uh a, siampite in zong zu kham lua uh ahih manin a thukhen dingte uh khen thei lo uh hi.
+**TDB77:** Hih mite zong leenggahzu tawh hoi-in kham theih zu tawh awn-te hi: siampite leh kamsangte nangawn zu khamin hoi-te hi. Kamsangte in zu kham lua ahih manin Pasian’ muhsak mangmuhnate thei thei lo-te a, siampite in zong zu kham lua-te ahih manin a thukhen dingte-te khen thei lo-te hi.
 
-**ZVS:** Hih mite zong leenggahzu tawh hoi-in khamtheihzu tawh awn uh hi. Siampite leh kamsangte nangawn zukhamin hoi uh hi. Kamsangte in zu kham lua uh ahih manin Pasian' muhsak maangmuhnate thei theilo uh a, siampite in zong zu kham lua uh ahih manin a thukhen dingte uh khen theilo uh hi.
+**ZVS:** Hih mite zong leenggahzu tawh hoi-in khamtheihzu tawh awn-te hi. Siampite leh kamsangte nangawn zukhamin hoi-te hi. Kamsangte in zu kham lua-te ahih manin Pasian' muhsak maangmuhnate thei theilo-te a, siampite in zong zu kham lua-te ahih manin a thukhen dingte-te khen theilo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | causal: because | plural: uh marker
 
 ### v8
 **EN:** For all tables are full of vomit and filthiness, so that there is no place clean.
 
-**TDB77:** Bang hang hiam cih leh sabuai khempeuh a luak uh tawh kidim a, a nit lohna mun om lo hi.
+**TDB77:** Bang hang hiam cih leh sabuai khempeuh a luak-te tawh kidim a, a nit lohna mun om lo hi.
 
-**ZVS:** Bang hang hiam cih leh sabuai tung khempeuh a luak uh tawh kidim a, a nitlohna mun omlo hi.
+**ZVS:** Bang hang hiam cih leh sabuai tung khempeuh a luak-te tawh kidim a, a nitlohna mun omlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
 ### v9
 **EN:** Whom shall he teach knowledge? and whom shall he make to understand doctrine? them that are weaned from the milk, and drawn from the breasts.
 
-**TDB77:** Amaute in kei hong phunsan uh a, “Amah in kua tungah hilh a, kua tungah thugen-a kinei ahi hiam? Ang sung panin a kilakhia nawi tawh a kikhentung naungeekte hilh-a kinei ahi hiam?
+**TDB77:** Amaute in kei hong phunsan-te a, “Amah in kua tungah hilh a, kua tungah thugen-a kinei ahi hiam? Ang sung panin a kilakhia nawi tawh a kikhentung naungeekte hilh-a kinei ahi hiam?
 
-**ZVS:** Amaute in kei hong phunsan uh a, “Amah in kua tungah hilh a, kua tungah thu gena kinei ahi hiam? Angsung panin a kilakhia, nawi tawh a kikhen tung naungekte a hilha kinei ahi hiam?
+**ZVS:** Amaute in kei hong phunsan-te a, “Amah in kua tungah hilh a, kua tungah thu gena kinei ahi hiam? Angsung panin a kilakhia, nawi tawh a kikhen tung naungekte a hilha kinei ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** For precept must be upon precept, precept upon precept; line upon line, line upon line; here a little, and there a little:
 
-**TDB77:** Bang hang hiam cih leh malkhat khit malkhat, gualkhat khit gualkhat, thukhat khit thukhat, cih bang hi lel hi,” hong ci uh hi.
+**TDB77:** Bang hang hiam cih leh malkhat khit malkhat, gualkhat khit gualkhat, thukhat khit thukhat, cih bang hi lel hi,” hong ci-te hi.
 
-**ZVS:** Bang hang hiam cih leh mal khat khit mal khat, gual khat khit gual khat, thu khat khit thu khat, cih bang hilel hi,” hong ci uh hi.
+**ZVS:** Bang hang hiam cih leh mal khat khit mal khat, gual khat khit gual khat, thu khat khit thu khat, cih bang hilel hi,” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v11
 **EN:** For with stammering lips and another tongue will he speak to this people.
 
-**TDB77:** A mantakin, note in ka thugen na ngaih kei uh leh Topa in hih mite kiangah a pau na theih loh uh gamdang mite, note tungah thu hong hilhsak ding hi.
+**TDB77:** A mantakin, note in ka thugen na ngaih kei-te leh Topa in hih mite kiangah a pau na theih loh-te gamdang mite, note tungah thu hong hilhsak ding hi.
 
-**ZVS:** A mantakin, note in ka thugen na ngaih kei uh leh { Topa } in a pau na theihloh uh gamdang mite, note tungah thu hong hilhsak ding hi.
+**ZVS:** A mantakin, note in ka thugen na ngaih kei-te leh { Topa } in a pau na theihloh-te gamdang mite, note tungah thu hong hilhsak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v12
 **EN:** To whom he said, This is the rest wherewith ye may cause the weary to rest; and this is the refreshing: yet they would not hear.
 
-**TDB77:** Topa in note tungah tawlngakna leh lungnopna hong pia napi-in! note in ama thu na ngai kei uh hi.
+**TDB77:** Topa in note tungah tawlngakna leh lungnopna hong pia napi-in! note in ama thu na ngai kei-te hi.
 
-**ZVS:** { Topa } in note tungah tawlngakna leh lungnopna hong pia napi-in, note in ama thu na ngai kei uh hi.
+**ZVS:** { Topa } in note tungah tawlngakna leh lungnopna hong pia napi-in, note in ama thu na ngai kei-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | plural: uh marker
 
 ### v13
 **EN:** But the word of the
 
-**TDB77:** Tua ahih ciangin Topa in note tungah, malkhat khit malkhat, gualkhat khit gualkhat, thukhat khit thukhat, cih bangin hong hilh ding ahi hi. Tua ciangin na kalsuanna khempeuh uhah na puk ding uh a, note liamin, thang-ah awk-in, sal-in hong kipaipih ding hi.
+**TDB77:** Tua ahih ciangin Topa in note tungah, malkhat khit malkhat, gualkhat khit gualkhat, thukhat khit thukhat, cih bangin hong hilh ding ahi hi. Tua ciangin na kalsuanna khempeuh uhah na puk ding-te a, note liamin, thang-ah awk-in, sal-in hong kipaipih ding hi.
 
-**ZVS:** Tua ahih ciangin { Topa } in note tungah, mal khat khit mal khat, gual khat khit gual khat, thu khat khit thu khat, cih bangin hong hilh ding ahi hi. Tua ciangin na kalsuanna khempeuh uhah na puk ding uh a, note liamin, thangah awkin, salin hong kipaipih ding hi.
+**ZVS:** Tua ahih ciangin { Topa } in note tungah, mal khat khit mal khat, gual khat khit gual khat, thu khat khit thu khat, cih bangin hong hilh ding ahi hi. Tua ciangin na kalsuanna khempeuh uhah na puk ding-te a, note liamin, thangah awkin, salin hong kipaipih ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -150,9 +150,9 @@
 ### v15
 **EN:** Because ye have said, We have made a covenant with death, and with hell are we at agreement; when the overflowing scourge shall pass through, it shall not come unto us: for we have made lies our refuge, and under falsehood have we hid ourselves:
 
-**TDB77:** “Eite in sihna tawh thuciamna khat i bawl khin a, Leinuai tawh thukimna khat i nei zo hi; a tuumcip ding tuiciin in hong nawk ciangin ei hong ban lo ding hi; bang hang hiam cih leh zuau thu i beel a, zuauna ah i bu hi,” na ci uh hi.
+**TDB77:** “Eite in sihna tawh thuciamna khat i bawl khin a, Leinuai tawh thukimna khat i nei zo hi; a tuumcip ding tuiciin in hong nawk ciangin ei hong ban lo ding hi; bang hang hiam cih leh zuau thu i beel a, zuauna ah i bu hi,” na ci-te hi.
 
-**ZVS:** “Eite in sihna tawh thuciamna khat i bawl khin a, Leinuai tawh thukimna khat i neizo hi. A tuumcip ding tuiciin hong tun' ciangin eite hong banlo ding hi; bang hang hiam cih leh zuauthu i bel a, zuauna-ah i bu hi,” na ci uh hi.
+**ZVS:** “Eite in sihna tawh thuciamna khat i bawl khin a, Leinuai tawh thukimna khat i neizo hi. A tuumcip ding tuiciin hong tun' ciangin eite hong banlo ding hi; bang hang hiam cih leh zuauthu i bel a, zuauna-ah i bu hi,” na ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -168,27 +168,27 @@
 ### v17
 **EN:** Judgment also will I lay to the line, and righteousness to the plummet: and the hail shall sweep away the refuge of lies, and the waters shall overflow the hiding place.
 
-**TDB77:** Keimah in thutan’na pen khau khai bangin ka bawl ding a, thuman’na pen khaukhai sikbawk bangin ka bawl ding hi; gial in na zuau buk uh dengkhia ding a, tui in na bukna mun uh susia ding hi,” ci hi.
+**TDB77:** Keimah in thutan’na pen khau khai bangin ka bawl ding a, thuman’na pen khaukhai sikbawk bangin ka bawl ding hi; gial in na zuau buk-te dengkhia ding a, tui in na bukna mun-te susia ding hi,” ci hi.
 
-**ZVS:** Keimah in thutang pen khaukhai bangin ka bawl ding a, thuman pen khaukhai sikbawk bangin ka bawl ding hi. Gial in na zuau buk uh dengkhia ding a, tui in na bukna mun uh susia ding hi,” ci hi.
+**ZVS:** Keimah in thutang pen khaukhai bangin ka bawl ding a, thuman pen khaukhai sikbawk bangin ka bawl ding hi. Gial in na zuau buk-te dengkhia ding a, tui in na bukna mun-te susia ding hi,” ci hi.
 
 **Grammar:** quotative: said/saying | future: will
 
 ### v18
 **EN:** And your covenant with death shall be disannulled, and your agreement with hell shall not stand; when the overflowing scourge shall pass through, then ye shall be trodden down by it.
 
-**TDB77:** Tua ciangin sihna tawh na thuciamna uh kiphiat ding a, Leinuai tawh na thukimna uh kip lo ding hi; a tuumcip ding tuiciin in hong nawk ciangin note hong sugawp ding hi.
+**TDB77:** Tua ciangin sihna tawh na thuciamna-te kiphiat ding a, Leinuai tawh na thukimna-te kip lo ding hi; a tuumcip ding tuiciin in hong nawk ciangin note hong sugawp ding hi.
 
-**ZVS:** Tua ciangin sihna tawh na thuciamna uh kiphiat ding a, Leinuai tawh na thukimna uh kiplo ding hi. A tumcip ding tuiciin in a hong nawk ciangin note hong sugawp ding hi.
+**ZVS:** Tua ciangin sihna tawh na thuciamna-te kiphiat ding a, Leinuai tawh na thukimna-te kiplo ding hi. A tumcip ding tuiciin in a hong nawk ciangin note hong sugawp ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix
 
 ### v19
 **EN:** From the time that it goeth forth it shall take you: for morning by morning shall it pass over, by day and by night: and it shall be a vexation only to understand the report.
 
-**TDB77:** Hong nawk sial-in note hong tai ding hi; bang hang hiam cih leh zingsang khat khit zingsang khat, sun leh zan-in hong nawk tawntung ding hi; Topa tung panin na zak uh thute a ban banin launa lianpi vive hi ding hi.
+**TDB77:** Hong nawk sial-in note hong tai ding hi; bang hang hiam cih leh zingsang khat khit zingsang khat, sun leh zan-in hong nawk tawntung ding hi; Topa tung panin na zak-te thute a ban banin launa lianpi vive hi ding hi.
 
-**ZVS:** Hong nawk sialin note hong ban ding hi; bang hang hiam cih leh zingsang khat khit zingsang khat, sun leh zanin hong nawk tawntung ding hi. { Topa}' tung panin na zak uh thute a banbanin launa lianpi vive hi ding hi.
+**ZVS:** Hong nawk sialin note hong ban ding hi; bang hang hiam cih leh zingsang khat khit zingsang khat, sun leh zanin hong nawk tawntung ding hi. { Topa}' tung panin na zak-te thute a banbanin launa lianpi vive hi ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
@@ -197,7 +197,7 @@
 
 **TDB77:** Bang hang hiam cih leh paunak sungah, khe khuan’ nadingin lupna tom lua a, silh dingin puanza neu lua in nang hong tuam zo lo hi.
 
-**ZVS:** Bang hang hiam cih leh puanbuk sungah khe khuan'na dingin lupna tom lua a, silh dingin puanza neu lua hi, a cih tawh na kibang ding uh hi.
+**ZVS:** Bang hang hiam cih leh puanbuk sungah khe khuan'na dingin lupna tom lua a, silh dingin puanza neu lua hi, a cih tawh na kibang ding-te hi.
 
 **Grammar:** purpose: in order to | negation: lo
 
@@ -222,9 +222,9 @@
 ### v23
 **EN:** Give ye ear, and hear my voice; hearken, and hear my speech.
 
-**TDB77:** Na bil uh hong ngat un la, ka aw za un; ngai un la, ka thugenna za un.
+**TDB77:** Na bil-te hong ngat un la, ka aw za un; ngai un la, ka thugenna za un.
 
-**ZVS:** Na bil uh hong ngat un la, ka aw hong za un. Ngai un la, ka thugenna hong za un.
+**ZVS:** Na bil-te hong ngat un la, ka aw hong za un. Ngai un la, ka thugenna hong za un.
 
 ### v24
 **EN:** Doth the plowman plow all day to sow? doth he open and break the clods of his ground?

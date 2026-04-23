@@ -81,16 +81,16 @@
 
 **TDB77:** Ahi zongin kei thah dingin a hong zongte pen lei thukpi sungah paisuk ding hi;
 
-**ZVS:** Ahi zongin thah dingin kei a hong zongte, lei thukpi sungah paisuk ding uh hi.
+**ZVS:** Ahi zongin thah dingin kei a hong zongte, lei thukpi sungah paisuk ding-te hi.
 
 **Grammar:** purpose: in order to | future: will
 
 ### v10
 **EN:** They shall fall by the sword: they shall be a portion for foxes.
 
-**TDB77:** Amaute pen gal sungah si ding uh a, ngiate’ an suak ding uh hi.
+**TDB77:** Amaute pen gal sungah si ding-te a, ngiate’ an suak ding-te hi.
 
-**ZVS:** Galsungah amaute si ding uh a, ngiate' an suak ding uh hi.
+**ZVS:** Galsungah amaute si ding-te a, ngiate' an suak ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -99,7 +99,7 @@
 
 **TDB77:** Ahih hangin Pasian sungah kumpipa lungdam ding hi; amah tawh thuciam khempeuhte zong minthang ding hi; bang hang hiam cih leh zuauthu gente kamte kihubing ding hi.
 
-**ZVS:** Ahi zongin Pasian' hangin kumpipa lungdam ding a, Pasian tawh thuciamna a nei khempeuhte zong minthang ding uh hi. Bang hang hiam cih leh zuauthu a gen kam khempeuh kihubing ding hi.
+**ZVS:** Ahi zongin Pasian' hangin kumpipa lungdam ding a, Pasian tawh thuciamna a nei khempeuhte zong minthang ding-te hi. Bang hang hiam cih leh zuauthu a gen kam khempeuh kihubing ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

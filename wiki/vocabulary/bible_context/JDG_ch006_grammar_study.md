@@ -29,63 +29,63 @@
 ### v1
 **EN:** And the children of Israel did evil in the sight of the
 
-**TDB77:** Israel mite Topa muhna-ah a sia gamta uh hi; Topa in Midiante’ khut sungah amaute kum sagih sung pia hi.
+**TDB77:** Israel mite Topa muhna-ah a sia gamta-te hi; Topa in Midiante’ khut sungah amaute kum sagih sung pia hi.
 
-**ZVS:** { Topa' } muhna-ah Israel-te a sia gamta uh a, { Topa } in Midian-te' khutsungah amaute kum sagih sung a pia hi.
+**ZVS:** { Topa' } muhna-ah Israel-te a sia gamta-te a, { Topa } in Midian-te' khutsungah amaute kum sagih sung a pia hi.
 
 **Grammar:** plural: uh marker
 
 ### v2
 **EN:** And the hand of Midian prevailed against Israel: and because of the Midianites the children of Israel made them the dens which are in the mountains, and caves, and strong holds.
 
-**TDB77:** Israelte tungah Midiante gualzo hi; Midiante hangin Israel mite in amau adingin mual tungah a om bukna munte, leh leihawmte leh mun muanhuaite bawl uh hi.
+**TDB77:** Israelte tungah Midiante gualzo hi; Midiante hangin Israel mite in amau adingin mual tungah a om bukna munte, leh leihawmte leh mun muanhuaite bawl-te hi.
 
-**ZVS:** Israel-te tungah Midian-te gualzo uh hi. Midian-te' kiang panin a bukna dingun leihawmte leh munmuan'huaite a bawl uh hi.
+**ZVS:** Israel-te tungah Midian-te gualzo-te hi. Midian-te' kiang panin a bukna dingun leihawmte leh munmuan'huaite a bawl-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v3
 **EN:** And so it was, when Israel had sown, that the Midianites came up, and the Amalekites, and the children of the east, even they came up against them;
 
-**TDB77:** Bang hang hiam cih leh Israelte in khai a tuh peuhmah uh ciangin Midian mite leh Amalek mite leh Nisuahna lam mite hong pai-in amaute do hi;
+**TDB77:** Bang hang hiam cih leh Israelte in khai a tuh peuhmah-te ciangin Midian mite leh Amalek mite leh Nisuahna lam mite hong pai-in amaute do hi;
 
-**ZVS:** Bang hang hiam cih leh Israel-te in khai a tuh peuhmah uh ciangin Midian-te leh Amalek mite leh Nisuahna lam mite hong pai-in amaute sim uh hi.
+**ZVS:** Bang hang hiam cih leh Israel-te in khai a tuh peuhmah-te ciangin Midian-te leh Amalek mite leh Nisuahna lam mite hong pai-in amaute sim-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v4
 **EN:** And they encamped against them, and destroyed the increase of the earth, till thou come unto Gaza, and left no sustenance for Israel, neither sheep, nor ox, nor ass.
 
-**TDB77:** amau’ lang khatah amaute in giahphual satin Gaza kiim ciangciang dong lei pan-a piangte susia uh a, Israel sungah nuntak nading bangmah nusia loin, tuu ahi a, bawngtal ahi a, la ahi zongin nusia lo hi.
+**TDB77:** amau’ lang khatah amaute in giahphual satin Gaza kiim ciangciang dong lei pan-a piangte susia-te a, Israel sungah nuntak nading bangmah nusia loin, tuu ahi a, bawngtal ahi a, la ahi zongin nusia lo hi.
 
-**ZVS:** Amaute a simna dingun giahphual satin Gaza kiim ciangciang dong lei pana piangte susia uh a, Israel mite a nuntakna ding bangmah nusia loin, tuu ahi a, bawngtal ahi a, la ahi zongin sit neilo uh hi.
+**ZVS:** Amaute a simna dingun giahphual satin Gaza kiim ciangciang dong lei pana piangte susia-te a, Israel mite a nuntakna ding bangmah nusia loin, tuu ahi a, bawngtal ahi a, la ahi zongin sit neilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** For they came up with their cattle and their tents, and they came as grasshoppers for multitude; for both they and their camels were without number: and they entered into the land to destroy it.
 
-**TDB77:** Bang hang hiam cih leh amaute a ganhingte leh a puanbukte uh tawh hong pai-in, kauphe bangin tamin hong pai uh hi; amaute leh a kalaohte uh kisim zo lo hi; tua ahih ciangin amaute hong tun’ ciangin gam teng bei sak uh hi.
+**TDB77:** Bang hang hiam cih leh amaute a ganhingte leh a puanbukte-te tawh hong pai-in, kauphe bangin tamin hong pai-te hi; amaute leh a kalaohte-te kisim zo lo hi; tua ahih ciangin amaute hong tun’ ciangin gam teng bei sak-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute a ganhingte leh a puanbukte uh tawh kauphe honpi bangin tamin hong pai uh a, amau leh a kalaohte uh kisim zolo hi. Tua ahih ciangin amaute hong tun' ciangin gamteng beisak uh hi.
+**ZVS:** Bang hang hiam cih leh amaute a ganhingte leh a puanbukte-te tawh kauphe honpi bangin tamin hong pai-te a, amau leh a kalaohte-te kisim zolo hi. Tua ahih ciangin amaute hong tun' ciangin gamteng beisak-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And Israel was greatly impoverished because of the Midianites; and the children of Israel cried unto the
 
-**TDB77:** Midiante hangin Israelte kiniam koih mahmah hi; Israel mite in Topa tungah huhna ngenin kiko uh hi.
+**TDB77:** Midiante hangin Israelte kiniam koih mahmah hi; Israel mite in Topa tungah huhna ngenin kiko-te hi.
 
-**ZVS:** Midian-te' hangin Israel-te kiniamkoih mahmah a, Israel mite in { Topa' } tungah huhna ngenin kiko uh hi.
+**ZVS:** Midian-te' hangin Israel-te kiniamkoih mahmah a, Israel mite in { Topa' } tungah huhna ngenin kiko-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And it came to pass, when the children of Israel cried unto the
 
-**TDB77:** Midiante hangin Israel mite Topa tungah a kiko uh ciangin,
+**TDB77:** Midiante hangin Israel mite Topa tungah a kiko-te ciangin,
 
-**ZVS:** Midian-te' hangin Israel mite { Topa' } tungah a kiko uh ciangin,
+**ZVS:** Midian-te' hangin Israel mite { Topa' } tungah a kiko-te ciangin,
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -110,9 +110,9 @@
 ### v10
 **EN:** And I said unto you, I am the
 
-**TDB77:** tua ciangin note kiangah, “Keimah in Topa na Pasian uh ka hi hi; na teen’na uh Amor mite pasiante zahtakna na pia kei ding uh hi,’ kong ci hi. Ahih hangin note in ka thu na ngai kei uh hi,” a ci hi.
+**TDB77:** tua ciangin note kiangah, “Keimah in Topa na Pasian-te ka hi hi; na teen’na-te Amor mite pasiante zahtakna na pia kei ding-te hi,’ kong ci hi. Ahih hangin note in ka thu na ngai kei-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin note kiangah, ‘Kei pen { Topa } na Pasian uh ka hi hi. Na ten'na uh Amor mite' pasian-te zahtakna na pia kei ding uh hi,’ kong ci hi. Ahih hangin note in ka thu na ngai kei uh hi, ci hi,” a ci hi.
+**ZVS:** Tua ciangin note kiangah, ‘Kei pen { Topa } na Pasian-te ka hi hi. Na ten'na-te Amor mite' pasian-te zahtakna na pia kei ding-te hi,’ kong ci hi. Ahih hangin note in ka thu na ngai kei-te hi, ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -137,9 +137,9 @@
 ### v13
 **EN:** And Gideon said unto him, Oh my Lord, if the
 
-**TDB77:** Gideon in ama kiangah, “Kong thuum hi, sia aw, Topa in kote tawh hong om ahih leh, bang hangin hih nate khempeuh ko tungah hong tung ahi hiam? Ka pate un kote tungah hong genin ‘Topa in Izipt panin eite hong paipih to hilo ahi hiam?’ a cih uh a lamdang ama sepnate khempeuh koi-ah om ahi hiam? Ahih hangin tu-in Topa in kote hong paaikhia-in, Midiante’ khut sungah hong pia khin hi,” a ci hi.
+**TDB77:** Gideon in ama kiangah, “Kong thuum hi, sia aw, Topa in kote tawh hong om ahih leh, bang hangin hih nate khempeuh ko tungah hong tung ahi hiam? Ka pate un kote tungah hong genin ‘Topa in Izipt panin eite hong paipih to hilo ahi hiam?’ a cih-te a lamdang ama sepnate khempeuh koi-ah om ahi hiam? Ahih hangin tu-in Topa in kote hong paaikhia-in, Midiante’ khut sungah hong pia khin hi,” a ci hi.
 
-**ZVS:** Gideon in ama kiangah, “Kong thum hi, sia aw, { Topa } in kote hong ompih ahih leh, bang hangin hih thu khempeuh ko tungah hong tung ahi hiam? Ka pate un kote tungah hong genin, ‘{ Topa } in Egypt panin eite hong paipih hilo ahi hiam?’ a cih uh a lamdang ama sepnate khempeuh koi-ah om ta ahi hiam? Ahih hangin tu-in { Topa } in kote hong paaikhia-in Midian-te' khutsungah hong pia khin hi,” a ci hi.
+**ZVS:** Gideon in ama kiangah, “Kong thum hi, sia aw, { Topa } in kote hong ompih ahih leh, bang hangin hih thu khempeuh ko tungah hong tung ahi hiam? Ka pate un kote tungah hong genin, ‘{ Topa } in Egypt panin eite hong paipih hilo ahi hiam?’ a cih-te a lamdang ama sepnate khempeuh koi-ah om ta ahi hiam? Ahih hangin tu-in { Topa } in kote hong paaikhia-in Midian-te' khutsungah hong pia khin hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -272,36 +272,36 @@
 ### v28
 **EN:** And when the men of the city arose early in the morning, behold, the altar of Baal was cast down, and the grove was cut down that was by it, and the second bullock was offered upon the altar that was built.
 
-**TDB77:** Tua khua mite zingsang tungin a thawh uh ciangin, en in, Baal biakna tau kiphel khia-in a gei-a om Asherah milim kiphuk a, a kilam thak biakna tau tungah bawngtal nihna kipia hi.
+**TDB77:** Tua khua mite zingsang tungin a thawh-te ciangin, en in, Baal biakna tau kiphel khia-in a gei-a om Asherah milim kiphuk a, a kilam thak biakna tau tungah bawngtal nihna kipia hi.
 
-**ZVS:** Tua khuamite zingsang tungin a thawh uh ciangin, Baal biakna tau kiphelkhia-in a gei-a om Asherah milim kiphuk a, a kilam thak biakna tau tungah bawngtal a nihna a kipia a mu uh hi.
+**ZVS:** Tua khuamite zingsang tungin a thawh-te ciangin, Baal biakna tau kiphelkhia-in a gei-a om Asherah milim kiphuk a, a kilam thak biakna tau tungah bawngtal a nihna a kipia a mu-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v29
 **EN:** And they said one to another, Who hath done this thing? And when they enquired and asked, they said, Gideon the son of Joash hath done this thing.
 
-**TDB77:** Amaute khat leh khat kiangah, “Hih na kua in hih hiam?” kici uh hi. Amaute in a thu kanin a dot khit uh ciangin, “Joash tapa Gideon in hih hi,” kici uh hi.
+**TDB77:** Amaute khat leh khat kiangah, “Hih na kua in hih hiam?” kici-te hi. Amaute in a thu kanin a dot khit-te ciangin, “Joash tapa Gideon in hih hi,” kici-te hi.
 
-**ZVS:** Amaute khatlekhat kiangah, “Hih na kua in hih ahi hiam?” kici uh hi. Amaute in a thu kanin a dot uh ciangin, “Joash' tapa Gideon in hih hi,” kici uh hi.
+**ZVS:** Amaute khatlekhat kiangah, “Hih na kua in hih ahi hiam?” kici-te hi. Amaute in a thu kanin a dot-te ciangin, “Joash' tapa Gideon in hih hi,” kici-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** Then the men of the city said unto Joash, Bring out thy son, that he may die: because he hath cast down the altar of Baal, and because he hath cut down the grove that was by it.
 
-**TDB77:** Tua ciangin tua khua mite in Joash kiangah, “Na tapa in Baal biakna tau phel khia-in a gei-a om Asherah milim phuk ahih manin a sih theih nadingin amah hong pai khiatpih in,” a ci uh hi.
+**TDB77:** Tua ciangin tua khua mite in Joash kiangah, “Na tapa in Baal biakna tau phel khia-in a gei-a om Asherah milim phuk ahih manin a sih theih nadingin amah hong pai khiatpih in,” a ci-te hi.
 
-**ZVS:** Tua ciangin tua khuamite in Joash kiangah, “Na tapa in Baal biakna tau phelkhia-in a gei-a om Asherah milim phuk ahih manin ka thah theihna dingun amah hong paikhiatpih in,” a ci uh hi.
+**ZVS:** Tua ciangin tua khuamite in Joash kiangah, “Na tapa in Baal biakna tau phelkhia-in a gei-a om Asherah milim phuk ahih manin ka thah theihna dingun amah hong paikhiatpih in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** And Joash said unto all that stood against him, Will ye plead for Baal? will ye save him? he that will plead for him, let him be put to death whilst it is yet morning: if he be a god, let him plead for himself, because one hath cast down his altar.
 
-**TDB77:** Ahih hangin Joash in ama lang khatah a pang mite khempeuh tungah, “Baal pan’pih ding a, ama tupna hutpih ding na hi uh hiam? Amah a pan’pih peuhmah zingsang ciangin kithat ding hi. Amah in pasian ahih leh amah in ama ading pang tawm hen, bang hang hiam cih leh ama biakna tau kiphel khin hi,” a ci hi.
+**TDB77:** Ahih hangin Joash in ama lang khatah a pang mite khempeuh tungah, “Baal pan’pih ding a, ama tupna hutpih ding na hi-te hiam? Amah a pan’pih peuhmah zingsang ciangin kithat ding hi. Amah in pasian ahih leh amah in ama ading pang tawm hen, bang hang hiam cih leh ama biakna tau kiphel khin hi,” a ci hi.
 
-**ZVS:** Ahih hangin Joash in ama langkhatah a pang mite khempeuh tungah, “Baal pan'pih ding a, ama tupna hutpih ding na hi uh hiam? Amah a pan'pih peuhmah zingsang ciangin kithat ding hi. Amah pasian ahih leh amahmah kihu tawm ta hen. Bang hang hiam cih leh ama biakna tau a kiphelsak ahi hi,” a ci hi.
+**ZVS:** Ahih hangin Joash in ama langkhatah a pang mite khempeuh tungah, “Baal pan'pih ding a, ama tupna hutpih ding na hi-te hiam? Amah a pan'pih peuhmah zingsang ciangin kithat ding hi. Amah pasian ahih leh amahmah kihu tawm ta hen. Bang hang hiam cih leh ama biakna tau a kiphelsak ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | completed: already done | future: will | reciprocal: ki- prefix
 
@@ -317,9 +317,9 @@
 ### v33
 **EN:** Then all the Midianites and the Amalekites and the children of the east were gathered together, and went over, and pitched in the valley of Jezreel.
 
-**TDB77:** Tua ciangin Midian mite leh Amalek mite leh Nisuahna lam mite khempeuh hong paikhawm uh a, amaute in Jordan kantanin Jezre-el Kuam-ah giahphual sat uh hi.
+**TDB77:** Tua ciangin Midian mite leh Amalek mite leh Nisuahna lam mite khempeuh hong paikhawm-te a, amaute in Jordan kantanin Jezre-el Kuam-ah giahphual sat-te hi.
 
-**ZVS:** Tua ciangin Midian mite, Amalek mite, leh Nisuahna lam mite khempeuh hong paikhawm uh a, amaute in Jordan kantanin Jezreel Kuam-ah giahphual a sat uh hi.
+**ZVS:** Tua ciangin Midian mite, Amalek mite, leh Nisuahna lam mite khempeuh hong paikhawm-te a, amaute in Jordan kantanin Jezreel Kuam-ah giahphual a sat-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -335,9 +335,9 @@
 ### v35
 **EN:** And he sent messengers throughout all Manasseh; who also was gathered after him: and he sent messengers unto Asher, and unto Zebulun, and unto Naphtali; and they came up to meet them.
 
-**TDB77:** Amah in Manasseh gam khempeuhah kamtaite sawl hi; amaute zong amah zui dingin kisam hi. Amah in Asher, Zebulun, leh Naftali kiangah kamtaite sawl hi; a dawn dingin amaute paito uh hi.
+**TDB77:** Amah in Manasseh gam khempeuhah kamtaite sawl hi; amaute zong amah zui dingin kisam hi. Amah in Asher, Zebulun, leh Naftali kiangah kamtaite sawl hi; a dawn dingin amaute paito-te hi.
 
-**ZVS:** Amah in Manasseh gam khempeuhah kamtaite sawl a, amaute zong amah a zui dingin kisam hi. Amah in Asher, Zebulun, leh Naftali minamte kiangah kamtaite sawl a, amah a pawm dingin amaute zong paito uh hi.
+**ZVS:** Amah in Manasseh gam khempeuhah kamtaite sawl a, amaute zong amah a zui dingin kisam hi. Amah in Asher, Zebulun, leh Naftali minamte kiangah kamtaite sawl a, amah a pawm dingin amaute zong paito-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

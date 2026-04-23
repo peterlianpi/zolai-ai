@@ -24,9 +24,9 @@
 ### v1
 **EN:** Then wrought Bezaleel and Aholiab, and every wise hearted man, in whom the
 
-**TDB77:** Bezalel leh Oholiab leh biakinn lamna-ah nasep khat peuhpeuh sep nading zia a thei dingin Topa in siamna leh pilna a guat mi peuhmah in Topa' thupiaksa khempeuh tawh kituakin sem ding uh hi,” a ci hi.
+**TDB77:** Bezalel leh Oholiab leh biakinn lamna-ah nasep khat peuhpeuh sep nading zia a thei dingin Topa in siamna leh pilna a guat mi peuhmah in Topa' thupiaksa khempeuh tawh kituakin sem ding-te hi,” a ci hi.
 
-**ZVS:** “Bezalel leh Oholiab leh biakbuk lamna-ah nasep khat peuhpeuh sepna ding zia a thei dingin { Topa } in siamna leh pilna a guat mi peuhmah in { Topa' } thupiaksa khempeuh tawh kituakin sem ding uh hi,” a ci hi.
+**ZVS:** “Bezalel leh Oholiab leh biakbuk lamna-ah nasep khat peuhpeuh sepna ding zia a thei dingin { Topa } in siamna leh pilna a guat mi peuhmah in { Topa' } thupiaksa khempeuh tawh kituakin sem ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -42,36 +42,36 @@
 ### v3
 **EN:** And they received of Moses all the offering, which the children of Israel had brought for the work of the service of the sanctuary, to make it withal. And they brought yet unto him free offerings every morning.
 
-**TDB77:** amaute in Moses'tung panin Israel mite in biakinn sep nadinga ut thu-a a piak uh piakna a paipih khempeuh uh sang hi. Amaute in zingsang simin ut thu-a piakna ama' tungah paipih uh ahih manin,
+**TDB77:** amaute in Moses'tung panin Israel mite in biakinn sep nadinga ut thu-a a piak-te piakna a paipih khempeuh-te sang hi. Amaute in zingsang simin ut thu-a piakna ama' tungah paipih-te ahih manin,
 
-**ZVS:** Israel mite in biakbuk sepna dingin utthu-a a piak uh nate a paipih khempeuh uh amaute in Moses' tung panin a sang uh hi. Amaute in zingsang simin utthu-a piakna ama tungah paipih uh ahih manin,
+**ZVS:** Israel mite in biakbuk sepna dingin utthu-a a piak-te nate a paipih khempeuh-te amaute in Moses' tung panin a sang-te hi. Amaute in zingsang simin utthu-a piakna ama tungah paipih-te ahih manin,
 
 **Grammar:** causal: because
 
 ### v4
 **EN:** And all the wise men, that wrought all the work of the sanctuary, came every man from his work which they made;
 
-**TDB77:** biakinn nasep a namkim a sem mi khempeuh amau’ nasepna ciat panun hong pai uh a,
+**TDB77:** biakinn nasep a namkim a sem mi khempeuh amau’ nasepna ciat panun hong pai-te a,
 
-**ZVS:** biakbuk nasep a namkim a sem mi khempeuh amau' nasepna ciat panin hong pai uh a,
+**ZVS:** biakbuk nasep a namkim a sem mi khempeuh amau' nasepna ciat panin hong pai-te a,
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** And they spake unto Moses, saying, The people bring much more than enough for the service of the work, which the
 
-**TDB77:** Moses' kiangah, “Topa in eite sep dinga hong sawl nasep nadingin a kicing ding zah val tampi mite in hong paipih uh hi,” a ci uh hi.
+**TDB77:** Moses' kiangah, “Topa in eite sep dinga hong sawl nasep nadingin a kicing ding zah val tampi mite in hong paipih-te hi,” a ci-te hi.
 
-**ZVS:** Moses kiangah, “{ Topa } in eite' sep dingin a hong sawl nasepna dingin a kicing ding zahval, mite in tampi hong paipih uh hi,” a ci uh hi.
+**ZVS:** Moses kiangah, “{ Topa } in eite' sep dingin a hong sawl nasepna dingin a kicing ding zahval, mite in tampi hong paipih-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And Moses gave commandment, and they caused it to be proclaimed throughout the camp, saying, Let neither man nor woman make any more work for the offering of the sanctuary. So the people were restrained from bringing.
 
-**TDB77:** Tua ahih ciangin Moses in thupia-in giahphual khempeuhah thu kizasakin, “Pasal hita leh numei hita leh kuamah in biakinn adingin piathuah nawn kei un,” kici hi. Tua ahih ciangin a piak ding uh mite kikho hi;
+**TDB77:** Tua ahih ciangin Moses in thupia-in giahphual khempeuhah thu kizasakin, “Pasal hita leh numei hita leh kuamah in biakinn adingin piathuah nawn kei un,” kici hi. Tua ahih ciangin a piak ding-te mite kikho hi;
 
-**ZVS:** Tua ahih ciangin Moses in thu pia-in giahphual khempeuhah thu kizasak a, “Numei hita leh pasal hita leh kuamah in biakbuk-a dingin pia thuah nawn kei un,” kici hi. Tua ahih ciangin a piak ding uh mite kikho hi.
+**ZVS:** Tua ahih ciangin Moses in thu pia-in giahphual khempeuhah thu kizasak a, “Numei hita leh pasal hita leh kuamah in biakbuk-a dingin pia thuah nawn kei un,” kici hi. Tua ahih ciangin a piak ding-te mite kikho hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** And every wise hearted man among them that wrought the work of the tabernacle made ten curtains of fine twined linen, and blue, and purple, and scarlet: with cherubims of cunning work made he them.
 
-**TDB77:** Nasem mite' lak panin a hih thei mi khempeuh in puan dal sawm tawh biakbuk bawl uh hi; tuate pen a kop-a kikhuk a kigan puan hoih leh a dum, a dupsan, a ausan khaute tawh kibawlin hoih taka a kibawl kherubte tawh bawl uh hi.
+**TDB77:** Nasem mite' lak panin a hih thei mi khempeuh in puan dal sawm tawh biakbuk bawl-te hi; tuate pen a kop-a kikhuk a kigan puan hoih leh a dum, a dupsan, a ausan khaute tawh kibawlin hoih taka a kibawl kherubte tawh bawl-te hi.
 
-**ZVS:** Nasem mite' lak panin a hih thei mi khempeuh in puan dal sawm tawh biakbuk bawl uh hi. Tuate pen a kopin a kikhuk a kigan puan hoih leh a dum, a dupsan, a ausan khaute tawh kibawlin hoihtakin a kibawl kherub-te tawh zem uh hi.
+**ZVS:** Nasem mite' lak panin a hih thei mi khempeuh in puan dal sawm tawh biakbuk bawl-te hi. Tuate pen a kopin a kikhuk a kigan puan hoih leh a dum, a dupsan, a ausan khaute tawh kibawlin hoihtakin a kibawl kherub-te tawh zem-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -107,14 +107,14 @@
 
 **TDB77:** Amah in puan dal ngate khat leh khat khuituahin, puan a dang ngate zong khat leh khat khuituah hi.
 
-**ZVS:** Amaute in puan dal ngate khatlekhat khuituahin, puan adang ngate zong khatlekhat mah khuituah uh hi.
+**ZVS:** Amaute in puan dal ngate khatlekhat khuituahin, puan adang ngate zong khatlekhat mah khuituah-te hi.
 
 ### v11
 **EN:** And he made loops of blue on the edge of one curtain from the selvedge in the coupling: likewise he made in the uttermost side of another curtain, in the coupling of the second.
 
 **TDB77:** Amah in a kikhuituah masa puan a nawlnung pen nawl dung suk-ah khuadum tawh a bilvangte bawl hi; tua mah bangin amah in a kikhui tuah a nihna puan a nawlnung pen nawl dung suk-ah zong tuate mah bawl hi;
 
-**ZVS:** Amaute in a kikhuituah masa puan a nawlnung pen nawl dung sukah khau dum tawh a bilvangte bawl uh a, tua mah bangin a kikhuituah nihna puan a nawlnung pen nawl dung sukah zong tuate mah a bawl uh hi.
+**ZVS:** Amaute in a kikhuituah masa puan a nawlnung pen nawl dung sukah khau dum tawh a bilvangte bawl-te a, tua mah bangin a kikhuituah nihna puan a nawlnung pen nawl dung sukah zong tuate mah a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -123,7 +123,7 @@
 
 **TDB77:** amah in puan khat tungah bilvang sawmnga bawlin, amah in a kikhuituah a nihna puan nawlah bilvang sawmnga mah bawl hi; a bilvangte khat leh khat kitang hi.
 
-**ZVS:** Amaute in puan khat tungah bilvang sawmnga bawlin, a kikhuituah a nihna puan nawlah bilvang sawmnga mah bawl uh a, a bilvangte khatlekhat kitang hi.
+**ZVS:** Amaute in puan khat tungah bilvang sawmnga bawlin, a kikhuituah a nihna puan nawlah bilvang sawmnga mah bawl-te a, a bilvangte khatlekhat kitang hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -132,7 +132,7 @@
 
 **TDB77:** Amah in kham kilhna sawmnga bawlin, kilhnate tawh puante khat leh khat kimatsak hi; tua ahih ciangin biakbuk in bup khat ahi hi.
 
-**ZVS:** Amaute in kham kilhna sawmnga bawlin, tua kilhnate tawh a puan khatlekhat kimatsak uh hi. Tua ahih ciangin biakbuk puan bupkhat a suak hi.
+**ZVS:** Amaute in kham kilhna sawmnga bawlin, tua kilhnate tawh a puan khatlekhat kimatsak-te hi. Tua ahih ciangin biakbuk puan bupkhat a suak hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -141,7 +141,7 @@
 
 **TDB77:** Amah in biakbuk tungah puanbuk dingin keelmul tawh kibawl puante zong bawl hi; amah in puan dal sawm-le-khat bawl hi.
 
-**ZVS:** Amaute in biakbuk a tung khuhna dingin keelmul tawh puan dal sawmlekhat a bawl uh hi.
+**ZVS:** Amaute in biakbuk a tung khuhna dingin keelmul tawh puan dal sawmlekhat a bawl-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -159,14 +159,14 @@
 
 **TDB77:** Amah in puan dal ngate khat leh khat khuituahin, a puan gukte zong khat leh khat mah khuituah hi.
 
-**ZVS:** Amaute in puan dal ngate khatlekhat khuituahin, a puan dang gukte zong khatlekhat mah a khuituah uh hi.
+**ZVS:** Amaute in puan dal ngate khatlekhat khuituahin, a puan dang gukte zong khatlekhat mah a khuituah-te hi.
 
 ### v17
 **EN:** And he made fifty loops upon the uttermost edge of the curtain in the coupling, and fifty loops made he upon the edge of the curtain which coupleth the second.
 
 **TDB77:** Amah in a kikhuituah puan khat a nawlnung pen nawl-ah a bilvang sawmnga bawlin, puan dal a zom nawlah a bilvang sawmnga mah bawl hi.
 
-**ZVS:** Amaute in a kikhuituah puan khat a nawlnung pen nawlah a bilvang sawmnga bawlin, puan dal a zom nawlah a bilvang sawmnga mah a bawl uh hi.
+**ZVS:** Amaute in a kikhuituah puan khat a nawlnung pen nawlah a bilvang sawmnga bawlin, puan dal a zom nawlah a bilvang sawmnga mah a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -175,7 +175,7 @@
 
 **TDB77:** Tua pen bup khat a suah theih nadingin puanbuk a kimatsak dingin amah in kilhna sawmnga sumngo tawh bawl hi.
 
-**ZVS:** Tuate bup khat a suah theihna ding, puanbuk a kimatsak dingin amaute in kilhna sawmnga sumngo tawh a bawl uh hi.
+**ZVS:** Tuate bup khat a suah theihna ding, puanbuk a kimatsak dingin amaute in kilhna sawmnga sumngo tawh a bawl-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -184,7 +184,7 @@
 
 **TDB77:** Amah in puanbuk adingin a kisansak tuutal vunte leh keelvunte tawh khuhna khat bawl hi.
 
-**ZVS:** Amaute in puanbuk-a dingin a kisansak tuutal vunte leh keel vunte tawh khuhna khat a bawl uh hi.
+**ZVS:** Amaute in puanbuk-a dingin a kisansak tuutal vunte leh keel vunte tawh khuhna khat a bawl-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -193,7 +193,7 @@
 
 **TDB77:** Tua ciangin amah in biakbuk adingin singkha sing tawh a po to khawm ding khuampeekte bawl hi.
 
-**ZVS:** Tua ciangin amaute in biakbuk-a dingin singkha sing tawh a po to khawm ding khuampeekte a bawl uh hi.
+**ZVS:** Tua ciangin amaute in biakbuk-a dingin singkha sing tawh a po to khawm ding khuampeekte a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to
 
@@ -209,7 +209,7 @@
 
 **TDB77:** A bulh nadingin khuampeek khat in zang nih ciat nei hi; amah in biakbuk khuam khempeuh adingin hih bawl hi.
 
-**ZVS:** A bulhna dingin khuampeek khat in zang nih ciat nei a, amaute in biakbuk khuam khempeuh-a dingin a bawl uh hi.
+**ZVS:** A bulhna dingin khuampeek khat in zang nih ciat nei a, amaute in biakbuk khuam khempeuh-a dingin a bawl-te hi.
 
 **Grammar:** purpose: in order to
 
@@ -218,7 +218,7 @@
 
 **TDB77:** Amah in biakbuk adingin hih bangin khuampeekte bawl hi: leitaw lam pang adingin khuam sawmnih;
 
-**ZVS:** Amaute in biakbuk-a dingin khuampeekte hih bangin bawl uh hi: Leitaw lampang-a dingin khuam sawmnih;
+**ZVS:** Amaute in biakbuk-a dingin khuampeekte hih bangin bawl-te hi: Leitaw lampang-a dingin khuam sawmnih;
 
 **Grammar:** purpose: in order to
 
@@ -227,7 +227,7 @@
 
 **TDB77:** amah in a khuampeek sawmnihte bul-ah bullen sawmli ngun tawh, a zang nihte’ adingin khuampeek khat bul-ah bullen nih, leh a khuampeek dang khat bul-ah a zang nihte’ adingin bullen nih mah bawl hi.
 
-**ZVS:** a khuampeek sawmnihte' bulah bullen sawmli ngun tawh, a zang nihte-a' dingin khuampeek khat bulah bullen nih, leh a khuampeek dang khat bulah a zang nihte-a' dingin bullen nih mah a bawl uh hi.
+**ZVS:** a khuampeek sawmnihte' bulah bullen sawmli ngun tawh, a zang nihte-a' dingin khuampeek khat bulah bullen nih, leh a khuampeek dang khat bulah a zang nihte-a' dingin bullen nih mah a bawl-te hi.
 
 **Grammar:** purpose: in order to
 
@@ -245,7 +245,7 @@
 
 **TDB77:** leh ngun tawh kibawl a bullen sawmli, khuampeek khat bul-ah bullen nih mah bawl hi.
 
-**ZVS:** leh ngun tawh kibawl a bullen sawmli, khuampeek khat bulah bullen nih, adang khuampeek khat bulah bullen nih mah a bawl uh hi.
+**ZVS:** leh ngun tawh kibawl a bullen sawmli, khuampeek khat bulah bullen nih, adang khuampeek khat bulah bullen nih mah a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -254,7 +254,7 @@
 
 **TDB77:** Nitumna lam biakbuk nunglam adingin amah in khuampeek guk bawl hi.
 
-**ZVS:** Nitumna lam, biakbuk nung lam-a dingin amaute in khuampeek guk a bawl uh hi.
+**ZVS:** Nitumna lam, biakbuk nung lam-a dingin amaute in khuampeek guk a bawl-te hi.
 
 **Grammar:** purpose: in order to
 
@@ -263,7 +263,7 @@
 
 **TDB77:** Amah in biakbuk nung lam kiute’ adingin a khuampeek nih bawl hi.
 
-**ZVS:** Biakbuk nung lam kiute-a dingin a khuampeek nih zong a bawl uh hi.
+**ZVS:** Biakbuk nung lam kiute-a dingin a khuampeek nih zong a bawl-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -272,7 +272,7 @@
 
 **TDB77:** Tuate a bul lam-ah kikak a, ahih hangin a kual masa-ah a dawn kimat hi; amah in a kiu nihte’ adingin tua bangin nih bawl hi.
 
-**ZVS:** Tuate a bul lamah kikak a, ahih hangin a kual masa-ah a dawn kimat hi. A kiu nihte-a dingin tua bangin nih a bawl uh hi.
+**ZVS:** Tuate a bul lamah kikak a, ahih hangin a kual masa-ah a dawn kimat hi. A kiu nihte-a dingin tua bangin nih a bawl-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -299,14 +299,14 @@
 
 **TDB77:** biakbuk a pang lang khat-a khuampeekte’ ading zawl nga, nitumna lam biakbuk nung lam panga a khuampeekte’ ading zawl nga bawl hi.
 
-**ZVS:** biakbuk a pang langkhat-a khuampeekte-a' dingin zawl nga, nitumna lam biakbuk nung lampanga khuampeekte-a' dingin zawl nga mah a bawl uh hi.
+**ZVS:** biakbuk a pang langkhat-a khuampeekte-a' dingin zawl nga, nitumna lam biakbuk nung lampanga khuampeekte-a' dingin zawl nga mah a bawl-te hi.
 
 ### v33
 **EN:** And he made the middle bar to shoot through the boards from the one end to the other.
 
 **TDB77:** Amah in a khuampeekte kim ciang takah mong khat panin mong khat dongin a zawl laita paisuaksak hi.
 
-**ZVS:** A khuampeekte' kimciang takah mong khat panin mong khat dongin a zawl laita paisuak sak uh hi.
+**ZVS:** A khuampeekte' kimciang takah mong khat panin mong khat dongin a zawl laita paisuak sak-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -315,7 +315,7 @@
 
 **TDB77:** Amah in khuampeekte kham tawh zutin, zawlte a len dingin a kualte kham tawh bawlin, zawlte kham tawh zut hi.
 
-**ZVS:** Amaute in kham tawh khuampeekte zutin, zawlte a len dingin kham tawh a kualte bawl uh a, kham tawh a zawlte a zut uh hi.
+**ZVS:** Amaute in kham tawh khuampeekte zutin, zawlte a len dingin kham tawh a kualte bawl-te a, kham tawh a zawlte a zut-te hi.
 
 **Grammar:** purpose: in order to
 
@@ -324,7 +324,7 @@
 
 **TDB77:** Amah in a dum, a dupsan, a ausan khaute leh a kopa-a kikhuk a kigan puan hoih tawh dalna puan bawl hi; hoih taka a kibawl kherubte tawh amah in tua dalna puan bawl hi.
 
-**ZVS:** Amaute in a dum, a dupsan, a ausan khaute leh a kopin a kikhuk a kigan puan hoih tawh dalna puan a bawl uh hi. Hoihtakin a kibawl kherub-te tawh amaute in tua dalna puan a zem uh hi.
+**ZVS:** Amaute in a dum, a dupsan, a ausan khaute leh a kopin a kikhuk a kigan puan hoih tawh dalna puan a bawl-te hi. Hoihtakin a kibawl kherub-te tawh amaute in tua dalna puan a zem-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -333,7 +333,7 @@
 
 **TDB77:** Tua adingin amah in singkha khuampi li bawl a, tua khuampite kham tawh zut hi, a vankhainate in kham hi a, amah in tuate’ adingin ngun bullen li sung hi.
 
-**ZVS:** Tua puan-a' dingin amaute in singkha khuampi li bawl uh a, kham tawh tua khuampite a zut uh hi. A vankhainate pen kham hi a, tua khuamte-a' dingin ngun bullen li a sung uh hi.
+**ZVS:** Tua puan-a' dingin amaute in singkha khuampi li bawl-te a, kham tawh tua khuampite a zut-te hi. A vankhainate pen kham hi a, tua khuamte-a' dingin ngun bullen li a sung-te hi.
 
 **Grammar:** purpose: in order to
 
@@ -351,7 +351,7 @@
 
 **TDB77:** a khuampi ngate a vankhainate tawh bawl hi. Amah in tuate’ luzepnate zutin, a gaknate kham hi a, ahih hangin a bullen ngate in sumngo ahi hi.
 
-**ZVS:** a khuampi ngate a vankhainate tawh a bawl uh hi. Amaute in tuate' luzepnate kham tawh zutin, a gaknate kham hi a, ahih hangin a bullen ngate pen sumngo ahi hi.
+**ZVS:** a khuampi ngate a vankhainate tawh a bawl-te hi. Amaute in tuate' luzepnate kham tawh zutin, a gaknate kham hi a, ahih hangin a bullen ngate pen sumngo ahi hi.
 
 ---
 

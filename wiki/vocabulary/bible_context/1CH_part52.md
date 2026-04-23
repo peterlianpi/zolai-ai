@@ -4,15 +4,15 @@
 
 ### sih = died
 **Context:** Referring to the death of Nadab and Abihu.
-**Example:** Ahih hangin a pa uh sih ma-in Nadab leh Abihu si-in...
+**Example:** Ahih hangin a pa-te sih ma-in Nadab leh Abihu si-in...
 
-### ta nei lo uh = had no children
+### ta nei lo-te = had no children
 **Context:** Describing the state of Nadab and Abihu after their death.
-**Example:** Nadab leh Abihu si-in ta neilo uh ahih manin...
+**Example:** Nadab leh Abihu si-in ta neilo-te ahih manin...
 
-### siampi suak uh hi = became priests
+### siampi suak-te hi = became priests
 **Context:** The result of Eleazar and Ithamar succeeding their deceased brothers.
-**Example:** Eleazar leh Ithamar-te siampi suak uh hi.
+**Example:** Eleazar leh Ithamar-te siampi suak-te hi.
 
 ### suan = descendant/son of
 **Context:** Used to trace lineage (e.g., Zadok is the descendant of Eleazar).
@@ -48,23 +48,23 @@
 
 ### biakinn uliante = governors of the sanctuary
 **Context:** One category of officials among the descendants.
-**Example:** biakinn uliante leh Pasian’ uliante om tuak uh ahih manin...
+**Example:** biakinn uliante leh Pasian’ uliante om tuak-te ahih manin...
 
 ### Pasian’ uliante = governors of the house of God
 **Context:** The second category of officials.
-**Example:** biakinn uliante leh Pasian’ uliante om tuak uh ahih manin...
+**Example:** biakinn uliante leh Pasian’ uliante om tuak-te ahih manin...
 
-### om tuak uh ahih manin = since they were found together/alike
+### om tuak-te ahih manin = since they were found together/alike
 **Context:** The reason for their equal appointment method.
-**Example:** ...uliante om tuak uh ahih manin...
+**Example:** ...uliante om tuak-te ahih manin...
 
 ### kibangin = equally/alike
 **Context:** Describing the manner of their appointment.
-**Example:** amaute in a kibangin aisanna tawh amaute koih uh hi.
+**Example:** amaute in a kibangin aisanna tawh amaute koih-te hi.
 
 ### aisanna = by lot/casting lots
 **Context:** The method used for division.
-**Example:** a kibangin aisanna tawh amaute koih uh hi.
+**Example:** a kibangin aisanna tawh amaute koih-te hi.
 
 ### lai-atpa = scribe
 **Context:** Describing Shemaiah's role.
@@ -82,9 +82,9 @@
 **Context:** Used to describe the selection for each lineage.
 **Example:** Eleazar’ suante’ adingin khat kiteelin, tua ciangin Ithamar’ suante adingin khat kiteel a...
 
-### kilaih sak niloh uh hi = they were made pleasing/acceptable (or perhaps 'they were confirmed')
+### kilaih sak niloh-te hi = they were made pleasing/acceptable (or perhaps 'they were confirmed')
 **Context:** The final status of the selection process.
-**Example:** kilaih sak niloh uh hi.
+**Example:** kilaih sak niloh-te hi.
 
 ### tung = fell to/was assigned to
 **Context:** Used in sequence to indicate which lot fell to which name.
@@ -92,16 +92,16 @@
 
 ## Phrases & Usage
 
-- **a pa uh a sih ma-in** = before their father died
+- **a pa-te a sih ma-in** = before their father died
   - Usage: Used to establish a time frame relative to a death.
 
-- **si-in ta neilo uh ahih manin** = because they died and had no children
+- **si-in ta neilo-te ahih manin** = because they died and had no children
   - Usage: A causal clause explaining the necessity for succession.
 
 - **lak sangin** = than (in comparison to)
   - Usage: Used for comparative statements, often preceding the larger quantity.
 
-- **om tuak uh ahih manin** = since they were found together/alike
+- **om tuak-te ahih manin** = since they were found together/alike
   - Usage: A causal phrase indicating similarity leading to a specific action.
 
 - **a kibangin aisanna tawh** = by lot equally

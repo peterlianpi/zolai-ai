@@ -102,18 +102,18 @@
 ### v10
 **EN:** He arose, and smote the Philistines until his hand was weary, and his hand clave unto the sword: and the
 
-**TDB77:** Amah ding-in a khut a gim mateng Filistiate sattuk a, a khut a namsau-ah kimatcip hi; Topa in tua ni-in gualzawhna lianpi piangsak hi; a kithat mite’ na a tawm ding bekin ama nungah mite hong paikik uh hi.
+**TDB77:** Amah ding-in a khut a gim mateng Filistiate sattuk a, a khut a namsau-ah kimatcip hi; Topa in tua ni-in gualzawhna lianpi piangsak hi; a kithat mite’ na a tawm ding bekin ama nungah mite hong paikik-te hi.
 
-**ZVS:** Amah dingin a khut a hikcip mateng Filistia-te sattuk a, a namsau a khutsungah omcip hi. { Topa } in tua ni-in gualzawhna lianpi piangsak a, a kithat mite' na a tawm ding bekin ama nungah mite hong paikik uh hi.
+**ZVS:** Amah dingin a khut a hikcip mateng Filistia-te sattuk a, a namsau a khutsungah omcip hi. { Topa } in tua ni-in gualzawhna lianpi piangsak a, a kithat mite' na a tawm ding bekin ama nungah mite hong paikik-te hi.
 
 **Grammar:** causative: -sak suffix | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And after him was Shammah the son of Agee the Hararite. And the Philistines were gathered together into a troop, where was a piece of ground full of lentiles: and the people fled from the Philistines.
 
-**TDB77:** Ama zomah Harar mi Agee’ tapa Shammah ahi hi. Besan a dimna mun Lehi-ah Filistiate kikaikhawm uh hi; Filistiate kiang panin mite tai uh hi.
+**TDB77:** Ama zomah Harar mi Agee’ tapa Shammah ahi hi. Besan a dimna mun Lehi-ah Filistiate kikaikhawm-te hi; Filistiate kiang panin mite tai-te hi.
 
-**ZVS:** Ama zomah Harar mi Agee' tapa Shammah ahi hi. Besan a dimna mun Lehi-ah Filistia-te kikaikhawm uh a, Filistia-te' kiang panin mite tai uh hi.
+**ZVS:** Ama zomah Harar mi Agee' tapa Shammah ahi hi. Besan a dimna mun Lehi-ah Filistia-te kikaikhawm-te a, Filistia-te' kiang panin mite tai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -129,18 +129,18 @@
 ### v13
 **EN:** And three of the thirty chief went down, and came to David in the harvest time unto the cave of Adullam: and the troop of the Philistines pitched in the valley of Rephaim.
 
-**TDB77:** Ukpa sawmthumte lakpanin mi thumte paisukin, Refaim kuamah Filistia mihonte in giahphual satin a om laitak Adullam leihawm-a David kiangah anlak hun pawlin tung uh hi.
+**TDB77:** Ukpa sawmthumte lakpanin mi thumte paisukin, Refaim kuamah Filistia mihonte in giahphual satin a om laitak Adullam leihawm-a David kiangah anlak hun pawlin tung-te hi.
 
-**ZVS:** Ukpa sawmthumte lak panin mi thumte paisukin, Refaim kuamah Filistia mihonte in giahphual satin a om laitakin, Adullam leihawm-a David kiangah anlak hun pawlin tung uh hi.
+**ZVS:** Ukpa sawmthumte lak panin mi thumte paisukin, Refaim kuamah Filistia mihonte in giahphual satin a om laitakin, Adullam leihawm-a David kiangah anlak hun pawlin tung-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And David was then in an hold, and the garrison of the Philistines was then in Beth–lehem.
 
-**TDB77:** Tua hunin munmuanhuai sungah David om hi; Filistia khuacingte Bethelehem ah om uh hi.
+**TDB77:** Tua hunin munmuanhuai sungah David om hi; Filistia khuacingte Bethelehem ah om-te hi.
 
-**ZVS:** Tua hunin munmuan'huai sungah David om a, Filistia khuacingte Bethlehem-ah om uh hi.
+**ZVS:** Tua hunin munmuan'huai sungah David om a, Filistia khuacingte Bethlehem-ah om-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -156,16 +156,16 @@
 ### v16
 **EN:** And the three mighty men brake through the host of the Philistines, and drew water out of the well of Beth–lehem, that was by the gate, and took it, and brought it to David: nevertheless he would not drink thereof, but poured it out unto the
 
-**TDB77:** Tua ciangin mi thahat thumte in Filistiate’ giahphual phulin kulh kongpi gei-a om Bethlehem tuikhuk panin tui tawi khia uh a, a tui la-in David kiangah paipih uh hi. Ahih hangin amah in a tui dawn lo hi; amah in Topa adingin a tui sung a,
+**TDB77:** Tua ciangin mi thahat thumte in Filistiate’ giahphual phulin kulh kongpi gei-a om Bethlehem tuikhuk panin tui tawi khia-te a, a tui la-in David kiangah paipih-te hi. Ahih hangin amah in a tui dawn lo hi; amah in Topa adingin a tui sung a,
 
-**ZVS:** Tua ciangin mi thahat thumte in Filistia-te' giahphual phulin kulhkongpi gei-a om Bethlehem tuikhuk panin tui tawikhia uh a, a tui la-in David kiangah paipih uh hi. Ahih hangin David in a tui dawnlo hi. Amah in { Topa}-a' dingin a tui sung a,
+**ZVS:** Tua ciangin mi thahat thumte in Filistia-te' giahphual phulin kulhkongpi gei-a om Bethlehem tuikhuk panin tui tawikhia-te a, a tui la-in David kiangah paipih-te hi. Ahih hangin David in a tui dawnlo hi. Amah in { Topa}-a' dingin a tui sung a,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And he said, Be it far from me, O
 
-**TDB77:** Topa aw, hih tui ka dawn het kei ding hi. Amau’ nuntakna khamin a pai mite’ sisan a dawn tawh ka kibang ding hi,” a ci hi. Tua ahih ciangin amah in dawn lo hi. Mi thahat thumte zong hih mah bangin gamta uh hi.
+**TDB77:** Topa aw, hih tui ka dawn het kei ding hi. Amau’ nuntakna khamin a pai mite’ sisan a dawn tawh ka kibang ding hi,” a ci hi. Tua ahih ciangin amah in dawn lo hi. Mi thahat thumte zong hih mah bangin gamta-te hi.
 
 **ZVS:** “{ Topa } aw, hih tui ka dawn het kei ding hi. Amau' nuntakna khamin a pai mite' sisan a dawn tawh ka kibang hi,” a ci hi. Tua ahih ciangin amah in dawnlo hi. Mi thahat thumte' han'zia tu-a bang ahi hi.
 
@@ -325,7 +325,7 @@
 
 **TDB77:** Hit mi Uriah, a vekpi-in sawmthum-le-sagih ahi hi.
 
-**ZVS:** Hit mi Uriah, a vekpi-in sawmthumlesagih ahi uh hi.
+**ZVS:** Hit mi Uriah, a vekpi-in sawmthumlesagih ahi-te hi.
 
 **Grammar:** serial verb: -in (and then)
 

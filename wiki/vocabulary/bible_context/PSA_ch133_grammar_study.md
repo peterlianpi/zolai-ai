@@ -19,7 +19,7 @@
 
 **TDB77:** En un, sanggam bangin mite pumkhat suakin a tutkhawm ciangin bangzahin hoihin nuam ahi hiam!
 
-**ZVS:** En un, sanggamte pumkhat suakin a tut khawm uh ciangin bangzahin hoihin nuam ahi hiam?
+**ZVS:** En un, sanggamte pumkhat suakin a tut khawm-te ciangin bangzahin hoihin nuam ahi hiam?
 
 ### v2
 **EN:** It is like the precious ointment upon the head, that ran down upon the beard, even Aaron's beard: that went down to the skirts of his garments;

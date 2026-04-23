@@ -22,34 +22,34 @@
 ### v1
 **EN:** Do ye indeed speak righteousness, O congregation? do ye judge uprightly, O ye sons of men?
 
-**TDB77:** No gam ukte aw, a manin thu na khen uh hiam? Note in mi khempeuh thu a tangin na khen uh hiam?
+**TDB77:** No gam ukte aw, a manin thu na khen-te hiam? Note in mi khempeuh thu a tangin na khen-te hiam?
 
-**ZVS:** No gam ukte aw, a manin thu na khen uh hiam? Note in mi khempeuh' thu a tangin na khen uh hiam?
+**ZVS:** No gam ukte aw, a manin thu na khen-te hiam? Note in mi khempeuh' thu a tangin na khen-te hiam?
 
 **Grammar:** causal: because
 
 ### v2
 **EN:** Yea, in heart ye work wickedness; ye weigh the violence of your hands in the earth.
 
-**TDB77:** Hi peuhmah lo hi, na lungsim uh ah aman lo na ngaihsun uh a, gam sungah ngongtatna na gamta uh hi.
+**TDB77:** Hi peuhmah lo hi, na lungsim-te ah aman lo na ngaihsun-te a, gam sungah ngongtatna na gamta-te hi.
 
-**ZVS:** Hi peuhmahlo hi; na lungsim uhah a manlo na ngaihsun uh a, gam sungah ngongtatna na gamta uh hi.
+**ZVS:** Hi peuhmahlo hi; na lungsim uhah a manlo na ngaihsun-te a, gam sungah ngongtatna na gamta-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v3
 **EN:** The wicked are estranged from the womb: they go astray as soon as they be born, speaking lies.
 
-**TDB77:** Migilote, a khan’ tawntungin khial uh hi, a suah tung mah-un lam khial pah uh a, zuauthu gen uh hi.
+**TDB77:** Migilote, a khan’ tawntungin khial-te hi, a suah tung mah-un lam khial pah-te a, zuauthu gen-te hi.
 
-**ZVS:** Migilote a khan' tawnun khial uh hi. A suah tung mahun lam khial pah uh a, zuauthu gen uh hi.
+**ZVS:** Migilote a khan' tawnun khial-te hi. A suah tung mahun lam khial pah-te a, zuauthu gen-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** Which will not hearken to the voice of charmers, charming never so wisely.
 
-**TDB77:** Amaute in gulpi' gu bang gu nei uh a, a khiimte' aw ahi a, a zol siamte' aw ahi zongin bangmah a za hetlo, gul bilngong tawh kibang uh hi.
+**TDB77:** Amaute in gulpi' gu bang gu nei-te a, a khiimte' aw ahi a, a zol siamte' aw ahi zongin bangmah a za hetlo, gul bilngong tawh kibang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -58,7 +58,7 @@
 
 **TDB77:** Pasian aw, amau kam sunga hate sutan in la, humpinelkai khanglai hatute botkhia in, Topa aw.
 
-**ZVS:** Pasian aw, amau' kam sunga a om a hate uh sutan in la, humpinelkai khanglai hatu-te botkhia in, { Topa } aw.
+**ZVS:** Pasian aw, amau' kam sunga a om a hate-te sutan in la, humpinelkai khanglai hatu-te botkhia in, { Topa } aw.
 
 ### v7
 **EN:** Let them melt away as waters which run continually: when he bendeth his bow to shoot his arrows, let them be as cut in pieces.
@@ -97,9 +97,9 @@
 ### v11
 **EN:** So that a man shall say, Verily there is a reward for the righteous: verily he is a God that judgeth in the earth.
 
-**TDB77:** Mite in, “Thuman mi’ ading noptuamna om taktak a, leitunga thukhen Pasian khat om taktak hi,” ci ding uh hi.
+**TDB77:** Mite in, “Thuman mi’ ading noptuamna om taktak a, leitunga thukhen Pasian khat om taktak hi,” ci ding-te hi.
 
-**ZVS:** Mite in, “Thuman mi-a' ding noptuamna om taktak a, leitung thu a khen Pasian khat om taktak hi,” ci ding uh hi.
+**ZVS:** Mite in, “Thuman mi-a' ding noptuamna om taktak a, leitung thu a khen Pasian khat om taktak hi,” ci ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

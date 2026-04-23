@@ -28,7 +28,7 @@ Amos uses "Street Zolai" — direct, earthy, and uncompromising — to challenge
 ### Key Linguistic Patterns
 *   **Judgment Sequence:** `...a khialh kikkik nilohna hangun...` (For three transgressions... and for four...). This is a model for counting repeated failures.
 *   **Socio-Ethic Logic:** Describing the exploitation of the poor.
-    *   *Example:* "...khedap bu khat man a loh zawh loh man bekin mi cimawhte sila-in zuak uh hi." (Amos 2:6) - *They sell the poor for a pair of shoes.*
+    *   *Example:* "...khedap bu khat man a loh zawh loh man bekin mi cimawhte sila-in zuak-te hi." (Amos 2:6) - *They sell the poor for a pair of shoes.*
 *   **Rhetorical Questions:** Using logic to prove a point.
     *   *Example:* "Mi nih thukimna om masa lopi-in, lampi-ah tonkhawm ahi hiam?" (Amos 3:3) - *Can two walk together, except they be agreed?*
 
@@ -43,7 +43,7 @@ Malachi is almost entirely structured as a Q&A between God and the people, makin
 
 ### Key Linguistic Patterns
 *   **The "Wherein?" Pattern:** People question a statement, and God provides proof.
-    *   *Example:* "Topa in, 'Note kong it hi,' ci hi. Ahi zongin note in, 'Kote hong bangci it na hi hiam?' na ci uh hi." (Malachi 1:2) - *Lord: "I loved you." People: "How have you loved us?"*
+    *   *Example:* "Topa in, 'Note kong it hi,' ci hi. Ahi zongin note in, 'Kote hong bangci it na hi hiam?' na ci-te hi." (Malachi 1:2) - *Lord: "I loved you." People: "How have you loved us?"*
 *   **Challenge of Faith:** `Kei hong ze-et dih un.` (Malachi 3:10) - *Test me now.*
 *   **Legacy and Lineage:** Patterns for inter-generational relationships (Pate leh Tapate).
 

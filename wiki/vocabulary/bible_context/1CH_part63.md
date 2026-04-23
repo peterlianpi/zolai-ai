@@ -36,17 +36,11 @@
 
 ### thukhamte = commandments/statutes
 **Context:** Referring to God's laws.
-**Example:** na thukhamte kemin a vekpi-in sem a
-
-### kemin = keeping/observing
+**Example:** na thukhamte kemin a vekpi-in sem a ### kemin = keeping/observing
 **Context:** Verbal noun form of 'kem' (to keep/guard), used adverbially meaning 'by keeping'.
-**Example:** na thukhamte kemin a vekpi-in sem a
-
-### vekpi-in = completely/entirely
+**Example:** na thukhamte kemin a vekpi-in sem a ### vekpi-in = completely/entirely
 **Context:** Adverbial phrase meaning 'in its entirety' or 'completely'.
-**Example:** kemin a vekpi-in sem a
-
-### vaihawmsa = prepared/made ready
+**Example:** kemin a vekpi-in sem a ### vaihawmsa = prepared/made ready
 **Context:** Describes the temple/house ('inn lianpi') that David had prepared.
 **Example:** keimah in ka vaihawmsa inn lianpi
 
@@ -64,19 +58,19 @@
 
 ### phat un = praise (imperative plural)
 **Context:** Command to praise God.
-**Example:** Topa na Pasian uh phat un,” a ci hi.
+**Example:** Topa na Pasian-te phat un,” a ci hi.
 
 ### phatin = praising (adverbial/participial)
 **Context:** Describes the manner in which the people bowed their heads—while praising God.
-**Example:** Pasian Topa phatin a lu uh kun uh a
+**Example:** Pasian Topa phatin a lu-te kun-te a
 
-### kun uh = they bowed down
+### kun-te = they bowed down
 **Context:** Past tense action of bowing the head in reverence.
-**Example:** a lu uh kun uh a
+**Example:** a lu-te kun-te a
 
 ### biakpiakna = offering/sacrifice
 **Context:** Refers to the religious offerings made to the Lord.
-**Example:** Tua ciangin amaute in Topa tungah biakpiakna bawl uh a
+**Example:** Tua ciangin amaute in Topa tungah biakpiakna bawl-te a
 
 ### meihal biakna = burnt offering
 **Context:** Specific type of sacrifice, usually involving fire.
@@ -92,15 +86,15 @@
 
 ### lungdamna = joy/gladness
 **Context:** Describes the great joy with which they celebrated.
-**Example:** lungdamna lianpi tawh Topa mai-ah pawi khamin om uh hi.
+**Example:** lungdamna lianpi tawh Topa mai-ah pawi khamin om-te hi.
 
 ### pawi khamin = feasting/celebrating
 **Context:** Describes the act of holding a feast or celebration.
-**Example:** Topa mai-ah pawi khamin om uh hi.
+**Example:** Topa mai-ah pawi khamin om-te hi.
 
 ### sathau nilhin = anoint with oil
 **Context:** The act of consecrating Solomon and Zadok as king and priest, respectively.
-**Example:** amah kumpi-in sathau nilhin, siampi dingin Zadok sathau nilh uh hi.
+**Example:** amah kumpi-in sathau nilhin, siampi dingin Zadok sathau nilh-te hi.
 
 ### tokhom = throne
 **Context:** The seat of royal authority.
@@ -114,9 +108,9 @@
 **Context:** Refers to Solomon's procession or appearance after being crowned.
 **Example:** Amah a dau pai a
 
-### thu mang uh hi = they obeyed his word
+### thu mang-te hi = they obeyed his word
 **Context:** Indicates the submission and obedience of the people to the new king.
-**Example:** Israel mi khempeuh in ama thu a mang uh hi.
+**Example:** Israel mi khempeuh in ama thu a mang-te hi.
 
 ### minthan’na = glory/great renown
 **Context:** The great honor and fame God bestowed upon Solomon.
@@ -161,7 +155,7 @@
 - **a vekpi-in sem a** = to do completely/to execute fully
   - Usage: Indicates the thorough execution of God's laws.
 
-- **Topa’ mai-ah pawi khamin om uh hi** = they remained feasting before the Lord
+- **Topa’ mai-ah pawi khamin om-te hi** = they remained feasting before the Lord
   - Usage: Describes a communal celebration of worship and joy in God's presence.
 
 - **a dau pai a** = he proceeded out/went forth

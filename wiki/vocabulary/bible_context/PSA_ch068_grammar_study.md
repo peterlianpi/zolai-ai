@@ -24,9 +24,9 @@
 ### v1
 **EN:** Let God arise, let his enemies be scattered: let them also that hate him flee before him.
 
-**TDB77:** Pasian tho hen la, ama galte kithehthangsak hen; amah a mudahte ama mai-ah tai uh hen.
+**TDB77:** Pasian tho hen la, ama galte kithehthangsak hen; amah a mudahte ama mai-ah tai-te hen.
 
-**ZVS:** Pasian hong kipan hen la, ama galte kithehthangsak hen. Amah a mudahte ama mai-ah tai uh hen.
+**ZVS:** Pasian hong kipan hen la, ama galte kithehthangsak hen. Amah a mudahte ama mai-ah tai-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -42,9 +42,9 @@
 ### v3
 **EN:** But let the righteous be glad; let them rejoice before God: yea, let them exceedingly rejoice.
 
-**TDB77:** Ahih hangin midikte lungdam ding hi; Pasian’ mai-ah amaute nuamin diang ding hi; amaute lungdamin awng ding uh hi.
+**TDB77:** Ahih hangin midikte lungdam ding hi; Pasian’ mai-ah amaute nuamin diang ding hi; amaute lungdamin awng ding-te hi.
 
-**ZVS:** Ahih hangin midikte lungdam ding hi. Pasian' mai-ah nuamin diang ding uh a, amaute lungdam mahmahin awng-awng ding uh hi.
+**ZVS:** Ahih hangin midikte lungdam ding hi. Pasian' mai-ah nuamin diang ding-te a, amaute lungdam mahmahin awng-awng ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -65,9 +65,9 @@
 ### v6
 **EN:** God setteth the solitary in families: he bringeth out those which are bound with chains: but the rebellious dwell in a dry land.
 
-**TDB77:** Pasian in a cimawhte a ten’ nading inn pia hi; amah in thongkiate nopsakna munah tun hi; ahih hangin mi lehdote ahih leh keugaw gamah teeng uh hi.
+**TDB77:** Pasian in a cimawhte a ten’ nading inn pia hi; amah in thongkiate nopsakna munah tun hi; ahih hangin mi lehdote ahih leh keugaw gamah teeng-te hi.
 
-**ZVS:** Pasian in a cimawhte a ten'na ding innlelo guan' a, thongkia mite nopsakna munah a tun'pih hi. Ahih hangin mi lehdote ahih leh keugaw gamah teng uh hi.
+**ZVS:** Pasian in a cimawhte a ten'na ding innlelo guan' a, thongkia mite nopsakna munah a tun'pih hi. Ahih hangin mi lehdote ahih leh keugaw gamah teng-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -92,16 +92,16 @@
 
 **TDB77:** Pasian aw, na luah mite vulgawp ahih manin guah tampi zusakin na nosuak sak kik hi;
 
-**ZVS:** Pasian aw, na luah mite vulgawp uh ahih manin guah tampi zusakin na nosuaksak kik hi.
+**ZVS:** Pasian aw, na luah mite vulgawp-te ahih manin guah tampi zusakin na nosuaksak kik hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix
 
 ### v10
 **EN:** Thy congregation hath dwelt therein: thou, O God, hast prepared of thy goodness for the poor.
 
-**TDB77:** na mihonte in tua sungah om nading mu uh hi; Pasian aw, nangma hoihna tawh a cimawhte’ kisapna na guan hi.
+**TDB77:** na mihonte in tua sungah om nading mu-te hi; Pasian aw, nangma hoihna tawh a cimawhte’ kisapna na guan hi.
 
-**ZVS:** Nangma mihonte in tua sungah omna ding mu uh hi. Pasian aw, nangma hoihna tawh a cimawh mite' kisapna a kicingin na guan' hi.
+**ZVS:** Nangma mihonte in tua sungah omna ding mu-te hi. Pasian aw, nangma hoihna tawh a cimawh mite' kisapna a kicingin na guan' hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -110,25 +110,25 @@
 
 **TDB77:** Topa in thu pia hi; hih thu a pua mihonte tam mahmah hi:
 
-**ZVS:** Topa in thu pia hi: Hih thu a pua mihonte tam mahmah uh a,
+**ZVS:** Topa in thu pia hi: Hih thu a pua mihonte tam mahmah-te a,
 
 **Grammar:** intensifier: very/greatly
 
 ### v12
 **EN:** Kings of armies did flee apace: and she that tarried at home divided the spoil.
 
-**TDB77:** “Kumpite’ galkapte, tai uh!” ci uh hi. Inn-a om nupite in galte’ van kisutte hawm uh a,
+**TDB77:** “Kumpite’ galkapte, tai uh!” ci-te hi. Inn-a om nupite in galte’ van kisutte hawm-te a,
 
-**ZVS:** “Kumpipa' galkapte tai uh!” ci uh hi. Inn-a om nupite in galte' van a kisutte hawm uh a, tua vante pen
+**ZVS:** “Kumpipa' galkapte tai uh!” ci-te hi. Inn-a om nupite in galte' van a kisutte hawm-te a, tua vante pen
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Though ye have lien among the pots, yet shall ye be as the wings of a dove covered with silver, and her feathers with yellow gold.
 
-**TDB77:** Meiphual gei-ah na ihmut laitak nangawn un, ngun leh kham mel tawh a kizem keima vakhu khate tawh na kibang ding uh hi.
+**TDB77:** Meiphual gei-ah na ihmut laitak nangawn un, ngun leh kham mel tawh a kizem keima vakhu khate tawh na kibang ding-te hi.
 
-**ZVS:** ngun tawh a kizut vakhu limte hi a, a khate kham tawh kizut hi. Bang hangin note pawlkhat, tuukhawk sungah mawk om na hi uh hiam?
+**ZVS:** ngun tawh a kizut vakhu limte hi a, a khate kham tawh kizut hi. Bang hangin note pawlkhat, tuukhawk sungah mawk om na hi-te hiam?
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -199,7 +199,7 @@
 ### v23
 **EN:** That thy foot may be dipped in the blood of thine enemies, and the tongue of thy dogs in the same.
 
-**TDB77:** Topa in hih bangin ci hi: “Note in sisan sungah na khe uh silin, na uite un galte' sisan a liak theihna dingin Bashan mual panin galte lakhia kikin, tuipi thuk sung panin ka kaikhia kik ding hi,” a ci hi.
+**TDB77:** Topa in hih bangin ci hi: “Note in sisan sungah na khe-te silin, na uite un galte' sisan a liak theihna dingin Bashan mual panin galte lakhia kikin, tuipi thuk sung panin ka kaikhia kik ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -224,16 +224,16 @@
 
 **TDB77:** “Israel’ suan-le-khakte aw, mipi kikhopna sungah Topa Pasian phat un!”
 
-**ZVS:** “Israel' suanlekhakte aw, mipi kikhopna sungah { Topa } Pasian phat un!” ci uh hi.
+**ZVS:** “Israel' suanlekhakte aw, mipi kikhopna sungah { Topa } Pasian phat un!” ci-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v27
 **EN:** There is little Benjamin with their ruler, the princes of Judah and their council, the princes of Zebulun, and the princes of Naphtali.
 
-**TDB77:** Amaute lakah a neupen Benjamin in a mapi-in om a, amau’ hon lakah Judah kumpite, Zebulun kumpite, Naftali kumpite om uh hi.
+**TDB77:** Amaute lakah a neupen Benjamin in a mapi-in om a, amau’ hon lakah Judah kumpite, Zebulun kumpite, Naftali kumpite om-te hi.
 
-**ZVS:** Amaute' lakah a mi tawmpen Benjamin-te a mapi-in om a, amau' zomah Judah kumpite leh a mite, Naftali kumpite leh a mite ahi uh hi.
+**ZVS:** Amaute' lakah a mi tawmpen Benjamin-te a mapi-in om a, amau' zomah Judah kumpite leh a mite, Naftali kumpite leh a mite ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -247,7 +247,7 @@
 ### v29
 **EN:** Because of thy temple at Jerusalem shall kings bring presents unto thee.
 
-**TDB77:** Jerusalem-a na biakinn hangin kumpite in nang tungah letsong hong puak uh hi.
+**TDB77:** Jerusalem-a na biakinn hangin kumpite in nang tungah letsong hong puak-te hi.
 
 **Grammar:** plural: uh marker
 

@@ -76,9 +76,9 @@
 ### v7
 **EN:** And Moses went out to meet his father in law, and did obeisance, and kissed him; and they asked each other of their welfare; and they came into the tent.
 
-**TDB77:** a sungpa dawn dingin Moses paikhia a, zahtakna pia-in amah nam hi; amaute khat leh khat omzia kidong tuak uh a, puanbuk sungah pai uh hi.
+**TDB77:** a sungpa dawn dingin Moses paikhia a, zahtakna pia-in amah nam hi; amaute khat leh khat omzia kidong tuak-te a, puanbuk sungah pai-te hi.
 
-**ZVS:** Moses zong a sungpa a dawn dingin paikhia a, zahtakna pia-in amah a nam hi. Amaute khat leh khat omzia kidong tuak uh a, puanbuk sungah a pai uh hi.
+**ZVS:** Moses zong a sungpa a dawn dingin paikhia a, zahtakna pia-in amah a nam hi. Amaute khat leh khat omzia kidong tuak-te a, puanbuk sungah a pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -119,25 +119,25 @@
 
 **TDB77:** Moses’ sungpa Jethro in Pasian' tungah meihal biakna leh biak piakna bawl hi; Pasian’ mai-ah Moses’ sungpa tawh an a ne dingin Israel upate khempeuh tawh Aaron hong pai hi.
 
-**ZVS:** Moses' sungpa Jethro in Pasian' tungah meihal biakna leh biakpiakna a bawl hi. Pasian' mai-ah Moses' sungpa tawh an a ne khawm dingin Israel upate khempeuh leh Aaron hong pai uh hi.
+**ZVS:** Moses' sungpa Jethro in Pasian' tungah meihal biakna leh biakpiakna a bawl hi. Pasian' mai-ah Moses' sungpa tawh an a ne khawm dingin Israel upate khempeuh leh Aaron hong pai-te hi.
 
 **Grammar:** purpose: in order to
 
 ### v13
 **EN:** And it came to pass on the morrow, that Moses sat to judge the people: and the people stood by Moses from the morning unto the evening.
 
-**TDB77:** A zing ciangin mite thukhen dingin Moses tu a, zingsang a kipan nitak dongin Moses’ kiim-ah mite ding uh hi.
+**TDB77:** A zing ciangin mite thukhen dingin Moses tu a, zingsang a kipan nitak dongin Moses’ kiim-ah mite ding-te hi.
 
-**ZVS:** A zing ciangin mite' thu a khen dingin Moses tu a, zingsanga kipan nitak dongin Moses' kiimah mite a ding uh hi.
+**ZVS:** A zing ciangin mite' thu a khen dingin Moses tu a, zingsanga kipan nitak dongin Moses' kiimah mite a ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And when Moses' father in law saw all that he did to the people, he said, What is this thing that thou doest to the people? why sittest thou thyself alone, and all the people stand by thee from morning unto even?
 
-**TDB77:** Mihingte adingin ama' hihte khempeuh Moses’ sungpa in a muh ciangin, amah in, “Mihingte' adinga nang' sep hih in bang ahi hiam? Bang hangin nang bek tu a, zingsanga kipan nitak dongin na kiim-ah mite khempeuh ding ahi uh hiam?” a ci hi.
+**TDB77:** Mihingte adingin ama' hihte khempeuh Moses’ sungpa in a muh ciangin, amah in, “Mihingte' adinga nang' sep hih in bang ahi hiam? Bang hangin nang bek tu a, zingsanga kipan nitak dongin na kiim-ah mite khempeuh ding ahi-te hiam?” a ci hi.
 
-**ZVS:** Mite-a' dingin ama hihte khempeuh Moses' sungpa in a muh ciangin amah in, “Mite-a' dinga nang' sep hih pen a bangci ahi hiam? Bang hangin nang bek tu a, zingsanga kipan nitak dongin na kiimah mite khempeuh ding ahi uh hiam?” a ci hi.
+**ZVS:** Mite-a' dingin ama hihte khempeuh Moses' sungpa in a muh ciangin amah in, “Mite-a' dinga nang' sep hih pen a bangci ahi hiam? Bang hangin nang bek tu a, zingsanga kipan nitak dongin na kiimah mite khempeuh ding ahi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix
 
@@ -146,16 +146,16 @@
 
 **TDB77:** Moses in a sungpa' kiangah, “Bang hang hiam cih leh Pasian’ deihna kan dingin kei' kiangah mite hong pai hi;
 
-**ZVS:** Moses in a sungpa kiangah, “Pasian' thu a kan dingin kei' kiangah mite hong pai uh hi.
+**ZVS:** Moses in a sungpa kiangah, “Pasian' thu a kan dingin kei' kiangah mite hong pai-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v16
 **EN:** When they have a matter, they come unto me; and I judge between one and another, and I do make them know the statutes of God, and his laws.
 
-**TDB77:** amaute in thu a neih uh ciangin kei' kiangah hong pai uh a, mi khat leh a vengpa' kikal-ah thu ka khen a, Pasian’ ngeina kipte leh ama' thukhennate amaute ka theisak hi,” a ci hi.
+**TDB77:** amaute in thu a neih-te ciangin kei' kiangah hong pai-te a, mi khat leh a vengpa' kikal-ah thu ka khen a, Pasian’ ngeina kipte leh ama' thukhennate amaute ka theisak hi,” a ci hi.
 
-**ZVS:** Amaute in thu a neih uh ciangin kei kiangah hong pai uh a, mi khat leh a vengpa' kikalah thu ka khen a, Pasian' ngeina kipte leh ama thukhennate amaute ka theisak hi,” a ci hi.
+**ZVS:** Amaute in thu a neih-te ciangin kei kiangah hong pai-te a, mi khat leh a vengpa' kikalah thu ka khen a, Pasian' ngeina kipte leh ama thukhennate amaute ka theisak hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -171,9 +171,9 @@
 ### v18
 **EN:** Thou wilt surely wear away, both thou, and this people that is with thee: for this thing is too heavy for thee; thou art not able to perform it thyself alone.
 
-**TDB77:** Nang leh nangmah tawh a om mite in na zawngkhal lawh ding uh hi, bang hang hiam cih leh tua nasep in nang’ ading gik lua hi; nang bek in na sem khin zo kei hi.
+**TDB77:** Nang leh nangmah tawh a om mite in na zawngkhal lawh ding-te hi, bang hang hiam cih leh tua nasep in nang’ ading gik lua hi; nang bek in na sem khin zo kei hi.
 
-**ZVS:** Nang leh na kianga om mite in na zawngkhal lawh ding uh hi. Bang hang hiam cih leh tua nasep nang-a' dingin gik lua hi. Nang bek in na sem khinzo kei hi.
+**ZVS:** Nang leh na kianga om mite in na zawngkhal lawh ding-te hi. Bang hang hiam cih leh tua nasep nang-a' dingin gik lua hi. Nang bek in na sem khinzo kei hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -207,18 +207,18 @@
 ### v22
 **EN:** And let them judge the people at all seasons: and it shall be, that every great matter they shall bring unto thee, but every small matter they shall judge: so shall it be easier for thyself, and they shall bear the burden with thee.
 
-**TDB77:** Mite’ thu amaute khensak tawntung in; amaute in thu lian peuhmah ' kiangah hong puak ding uh hi, ahih hangin thu neute amau mah in khen tawm ding uh hi; tua hi leh nang adingin baih zaw ding hi, amaute in vangik hong puakpih ding uh hi.
+**TDB77:** Mite’ thu amaute khensak tawntung in; amaute in thu lian peuhmah ' kiangah hong puak ding-te hi, ahih hangin thu neute amau mah in khen tawm ding-te hi; tua hi leh nang adingin baih zaw ding hi, amaute in vangik hong puakpih ding-te hi.
 
-**ZVS:** Mite' thu amaute khensak tawntung in. Amaute in thu liante bek nang kiangah hong puak ding uh a, ahi zongin thu neute amau mah in khen tawm ding uh hi. Tua hi leh nang-a' dingin baih zaw ding a, amaute in na vangik hong puakpih ding uh hi.
+**ZVS:** Mite' thu amaute khensak tawntung in. Amaute in thu liante bek nang kiangah hong puak ding-te a, ahi zongin thu neute amau mah in khen tawm ding-te hi. Tua hi leh nang-a' dingin baih zaw ding a, amaute in na vangik hong puakpih ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** If thou shalt do this thing, and God command thee so, then thou shalt be able to endure, and all this people shall also go to their place in peace.
 
-**TDB77:** Hih bangin hih lecin Pasian in thahatna hong pia ding a, nangmah in na sem paisuak zo ding hi; tua tham loin hih mite khempeuh zong amau' omna-ah lungnuam takin ciah thei ding uh hi,” a ci hi.
+**TDB77:** Hih bangin hih lecin Pasian in thahatna hong pia ding a, nangmah in na sem paisuak zo ding hi; tua tham loin hih mite khempeuh zong amau' omna-ah lungnuam takin ciah thei ding-te hi,” a ci hi.
 
-**ZVS:** Hih bangin hih lecin Pasian in thahatna hong pia ding a, nangmah in na sem paisuakzo ding hi. Tua thamloin hih mite khempeuh zong amau' omna-ah lungnuam takin ciah thei ding uh hi,” a ci hi.
+**ZVS:** Hih bangin hih lecin Pasian in thahatna hong pia ding a, nangmah in na sem paisuakzo ding hi. Tua thamloin hih mite khempeuh zong amau' omna-ah lungnuam takin ciah thei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -243,9 +243,9 @@
 ### v26
 **EN:** And they judged the people at all seasons: the hard causes they brought unto Moses, but every small matter they judged themselves.
 
-**TDB77:** Amaute in mite' tungah a tawntungin thukhen uh hi; amaute in thuhaksate Moses' tungah puak uh a, ahih hangin thu neute amaute in khen tawm uh hi.
+**TDB77:** Amaute in mite' tungah a tawntungin thukhen-te hi; amaute in thuhaksate Moses' tungah puak-te a, ahih hangin thu neute amaute in khen tawm-te hi.
 
-**ZVS:** Amaute in mite tungah a tawntungin thu khen uh hi. Amaute in thu haksate bek Moses tungah puak uh a, ahi zongin thuneute amaute in khen tawm uh hi.
+**ZVS:** Amaute in mite tungah a tawntungin thu khen-te hi. Amaute in thu haksate bek Moses tungah puak-te a, ahi zongin thuneute amaute in khen tawm-te hi.
 
 **Grammar:** plural: uh marker
 

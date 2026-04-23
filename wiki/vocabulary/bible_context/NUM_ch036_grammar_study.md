@@ -23,18 +23,18 @@
 ### v1
 **EN:** And the chief fathers of the families of the children of Gilead, the son of Machir, the son of Manasseh, of the families of the sons of Joseph, came near, and spake before Moses, and before the princes, the chief fathers of the children of Israel:
 
-**TDB77:** Josef tapate beh Manasseh, Manasseh’ tapa Makhir, Makhir’ tapa Gilead ahi Gilead’ tapate beh lutangte in hong naih-in Moses leh Israel mi beh lutang ahi makaite’ mai-ah thu gen uh a,
+**TDB77:** Josef tapate beh Manasseh, Manasseh’ tapa Makhir, Makhir’ tapa Gilead ahi Gilead’ tapate beh lutangte in hong naih-in Moses leh Israel mi beh lutang ahi makaite’ mai-ah thu gen-te a,
 
-**ZVS:** Josef' tapate beh Manasseh, Manasseh' tapa Makhir, Makhir' tapa Gilead, Gilead' tapa beh lutangte in hong naihin Moses leh Israel mite beh lutang ahi makaite' mai-ah thu gen uh a,
+**ZVS:** Josef' tapate beh Manasseh, Manasseh' tapa Makhir, Makhir' tapa Gilead, Gilead' tapa beh lutangte in hong naihin Moses leh Israel mite beh lutang ahi makaite' mai-ah thu gen-te a,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v2
 **EN:** And they said, The
 
-**TDB77:** amaute in, “Israel mite tungah aisaanna tawh luah dingin leitang piak ding Topa in ka topa thu hong pia hi; ka sanggam uh Zelofehad’ luahnate a tanute tungah piak dingin Topa in ka topa thu hong pia hi.
+**TDB77:** amaute in, “Israel mite tungah aisaanna tawh luah dingin leitang piak ding Topa in ka topa thu hong pia hi; ka sanggam-te Zelofehad’ luahnate a tanute tungah piak dingin Topa in ka topa thu hong pia hi.
 
-**ZVS:** “Israel mite tungah aisaanna tawh gamhluah dingin leitang piak ding { Topa } in ka topa tungah thu hong pia hi. Ka sanggampa uh Zelofehad' gamhluahte a tanute tungah piak dingin { Topa } in ka topa tungah thu hong pia hi.
+**ZVS:** “Israel mite tungah aisaanna tawh gamhluah dingin leitang piak ding { Topa } in ka topa tungah thu hong pia hi. Ka sanggampa-te Zelofehad' gamhluahte a tanute tungah piak dingin { Topa } in ka topa tungah thu hong pia hi.
 
 **Grammar:** purpose: in order to
 
@@ -50,9 +50,9 @@
 ### v4
 **EN:** And when the jubilee of the children of Israel shall be, then shall their inheritance be put unto the inheritance of the tribe whereunto they are received: so shall their inheritance be taken away from the inheritance of the tribe of our fathers.
 
-**TDB77:** Israel mite’ jubili hong tun ciangin, amau’ aate pen a manawh minamte’ tungah kapia beh ding hi; ka pa uh namte’ luahna panin amau’ aa kikhenkhia ding hi,” a ci hi.
+**TDB77:** Israel mite’ jubili hong tun ciangin, amau’ aate pen a manawh minamte’ tungah kapia beh ding hi; ka pa-te namte’ luahna panin amau’ aa kikhenkhia ding hi,” a ci hi.
 
-**ZVS:** Israel mite' Jubilee hong tun' ciangin amau-a'te pen a manawh minamte' tungah kipia beh ding hi. Ka pa uh namte' gamhluah panin amau-a' kikhenkhia ding hi,” a ci uh hi.
+**ZVS:** Israel mite' Jubilee hong tun' ciangin amau-a'te pen a manawh minamte' tungah kipia beh ding hi. Ka pa-te namte' gamhluah panin amau-a' kikhenkhia ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 
@@ -68,18 +68,18 @@
 ### v6
 **EN:** This is the thing which the
 
-**TDB77:** Hih in Zelofehad’ tanute tawh kisai-in Topa thupiak ahi hi; Amaute in hoih a sak pente uh tawh kiteng hen; ahih hangin amau’ behte bek ten’pih thei ding uh hi.
+**TDB77:** Hih in Zelofehad’ tanute tawh kisai-in Topa thupiak ahi hi; Amaute in hoih a sak pente-te tawh kiteng hen; ahih hangin amau’ behte bek ten’pih thei ding-te hi.
 
-**ZVS:** Zelofehad' tanute tawh kisai-in { Topa' } thupiak hih bang ahi hi: ‘Amaute in hoih a sak pente uh tawh kiteng uh hen. Ahih hangin amau' behte bek ten'pih thei ding uh hi.
+**ZVS:** Zelofehad' tanute tawh kisai-in { Topa' } thupiak hih bang ahi hi: ‘Amaute in hoih a sak pente-te tawh kiteng-te hen. Ahih hangin amau' behte bek ten'pih thei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** So shall not the inheritance of the children of Israel remove from tribe to tribe: for every one of the children of Israel shall keep himself to the inheritance of the tribe of his fathers.
 
-**TDB77:** Israel mite’ gamhte minam khat pan namdang khatah paikhia lo ding hi; bang hang hiam cih leh Israel mi khempeuh a minam ciat uh tawh kip ding uh hi.
+**TDB77:** Israel mite’ gamhte minam khat pan namdang khatah paikhia lo ding hi; bang hang hiam cih leh Israel mi khempeuh a minam ciat-te tawh kip ding-te hi.
 
-**ZVS:** Israel mite' gamhte minam khat pan namdang khatah paikhialo ding hi; bang hang hiam cih leh Israel mi khempeuh a minam gamhluah ciat uh tawh kip ding uh hi.
+**ZVS:** Israel mite' gamhte minam khat pan namdang khatah paikhialo ding hi; bang hang hiam cih leh Israel mi khempeuh a minam gamhluah ciat-te tawh kip ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -95,36 +95,36 @@
 ### v9
 **EN:** Neither shall the inheritance remove from one tribe to another tribe; but every one of the tribes of the children of Israel shall keep himself to his own inheritance.
 
-**TDB77:** Tua ahih ciangin minam khat pan a dangah gamh paikhia lo ding hi; bang hang hiam cih leh Israel mite sung panin minam khempeuh amau’ gamh ciat tawh kip ding uh hi,’ ci hi,” ci-in a gen hi.
+**TDB77:** Tua ahih ciangin minam khat pan a dangah gamh paikhia lo ding hi; bang hang hiam cih leh Israel mite sung panin minam khempeuh amau’ gamh ciat tawh kip ding-te hi,’ ci hi,” ci-in a gen hi.
 
-**ZVS:** Tua ahih ciangin minam khat pan adangah gamh paikhialo ding hi; bang hang hiam cih leh Israel mite' sung panin minam khempeuh amau' gamh ciat tawh kip ding uh hi,’ ci hi,” ci-in a gen hi.
+**ZVS:** Tua ahih ciangin minam khat pan adangah gamh paikhialo ding hi; bang hang hiam cih leh Israel mite' sung panin minam khempeuh amau' gamh ciat tawh kip ding-te hi,’ ci hi,” ci-in a gen hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Even as the
 
-**TDB77:** Topa in Moses a thupiak bangin Zelofehad’ tanute gamta uh hi;
+**TDB77:** Topa in Moses a thupiak bangin Zelofehad’ tanute gamta-te hi;
 
-**ZVS:** { Topa } in Moses a thupiak bangin Zelofehad' tanute gamta uh hi.
+**ZVS:** { Topa } in Moses a thupiak bangin Zelofehad' tanute gamta-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** For Mahlah, Tirzah, and Hoglah, and Milcah, and Noah, the daughters of Zelophehad, were married unto their father's brothers' sons:
 
-**TDB77:** Bang hang hiam cih leh Zelofehad’ tanu Mahlah, Tirzah, Hoglah, Milkah leh Noahte, a pate uh sanggamte’ tapate tawh kiteng uh hi.
+**TDB77:** Bang hang hiam cih leh Zelofehad’ tanu Mahlah, Tirzah, Hoglah, Milkah leh Noahte, a pate-te sanggamte’ tapate tawh kiteng-te hi.
 
-**ZVS:** Bang hang hiam cih leh Zelofehad' tanu Mahlah, Tirzah, Hoglah, Milkah, leh Noah-te, a pate uh' sanggamte' tapate tawh kiteng uh hi.
+**ZVS:** Bang hang hiam cih leh Zelofehad' tanu Mahlah, Tirzah, Hoglah, Milkah, leh Noah-te, a pate uh' sanggamte' tapate tawh kiteng-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And they were married into the families of the sons of Manasseh the son of Joseph, and their inheritance remained in the tribe of the family of their father.
 
-**TDB77:** Josef’ ta Manasseh’ tapate innkuan sungah amaute in pasal nei uh a, a pate nam innkuan sungah amau’ gamh luahte kip hi.
+**TDB77:** Josef’ ta Manasseh’ tapate innkuan sungah amaute in pasal nei-te a, a pate nam innkuan sungah amau’ gamh luahte kip hi.
 
-**ZVS:** Josef' ta Manasseh' tapate' innkuan sungah amaute in pasal nei uh a, a pate nam innkuan sungah amau' gamhluahte a kip hi.
+**ZVS:** Josef' ta Manasseh' tapate' innkuan sungah amaute in pasal nei-te a, a pate nam innkuan sungah amau' gamhluahte a kip hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

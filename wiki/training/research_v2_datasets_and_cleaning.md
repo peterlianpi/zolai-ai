@@ -134,7 +134,7 @@ Beyond generic cleaning, Zolai needs:
 **Dialect enforcement (ZVS standard):**
 ```python
 # These words indicate wrong dialect — flag for review, don't auto-delete
-WRONG_DIALECT = {"pathian", "ram", "fapa", "bawipa", "siangpahrang", "cu", "cun"}
+WRONG_DIALECT = {"pasian", "gam", "tapa", "topa", "kumpipa", "tua", "tua"}
 
 # These are correct ZVS markers
 CORRECT_DIALECT = {"pasian", "gam", "tapa", "topa", "kumpipa", "tua"}
@@ -214,7 +214,7 @@ def validate_instruction(record):
 {
   "prompt": "Zolai in 'God' ci hi eng nge?",
   "chosen": "Zolai in 'God' ci hi 'Pasian' ci hi. ZVS standard in 'Pasian' hi a dik hi.",
-  "rejected": "Zolai in 'God' ci hi 'Pathian' ci hi."
+  "rejected": "Zolai in 'God' ci hi 'pasian' ci hi."
 }
 ```
 
@@ -261,7 +261,7 @@ FLORES format: 1,012 sentences covering diverse domains, translated by humans.
 
 100 sentences with known ZVS violations + correct versions:
 ```json
-{"wrong": "Pathian in gam a sak hi.", "correct": "Pasian in gam a sak hi.", "rule": "use_pasian_not_pathian"}
+{"wrong": "pasian in gam a sak hi.", "correct": "Pasian in gam a sak hi.", "rule": "use_pasian_not_pathian"}
 ```
 
 ---

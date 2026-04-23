@@ -58,18 +58,18 @@
 ### v5
 **EN:** Now the upper chambers were shorter: for the galleries were higher than these, than the lower, and than the middlemost of the building.
 
-**TDB77:** A cial tungnung-a om inndeite pen a nuai-ate sangin neuzaw hi. Bang hang hiam cih leh tuate pen a sangto zaw, a kawcik zaw-ah om uh hi.
+**TDB77:** A cial tungnung-a om inndeite pen a nuai-ate sangin neuzaw hi. Bang hang hiam cih leh tuate pen a sangto zaw, a kawcik zaw-ah om-te hi.
 
-**ZVS:** A cial tungnungah a om inndeite pen a nuai-ate sangin neuzaw hi. Bang hang hiam cih leh tuate pen a sangto zaw, a kawcik zaw-ah om uh hi.
+**ZVS:** A cial tungnungah a om inndeite pen a nuai-ate sangin neuzaw hi. Bang hang hiam cih leh tuate pen a sangto zaw, a kawcik zaw-ah om-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** For they were in three stories, but had not pillars as the pillars of the courts: therefore the building was straitened more than the lowest and the middlemost from the ground.
 
-**TDB77:** Biakinn tual-a inn dangte mah bangin tua inndei dawl thumte pen a cial tungah kinga uh a, a tuamin khuam nei lo uh hi.
+**TDB77:** Biakinn tual-a inn dangte mah bangin tua inndei dawl thumte pen a cial tungah kinga-te a, a tuamin khuam nei lo-te hi.
 
-**ZVS:** Biakinn tuala a inn dangte mah bangin tua inndei dawl thumte pen a cial tung-ah kinga uh a, a tuamin khuam neilo uh hi.
+**ZVS:** Biakinn tuala a inn dangte mah bangin tua inndei dawl thumte pen a cial tung-ah kinga-te a, a tuamin khuam neilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -108,18 +108,18 @@
 ### v13
 **EN:** Then said he unto me, The north chambers and the south chambers, which are before the separate place, they be holy chambers, where the priests that approach unto the
 
-**TDB77:** Tua ciangin a mipa in kei kiangah, “Leilu lama om leh leitaw lama om hih inn nihte pen biakna inn siangtho ahi hi. Topa’ omna-ah a lut siampite in biakna-in a kipia a siangthopente, hih innte sungah ne uh hi. Hih inndeite a siangtho ahih manin, a kipia nate an tawh biaknate leh mawhna leh khialhna hangin biakna-in a kipia sate, a sungah koih uh hi.
+**TDB77:** Tua ciangin a mipa in kei kiangah, “Leilu lama om leh leitaw lama om hih inn nihte pen biakna inn siangtho ahi hi. Topa’ omna-ah a lut siampite in biakna-in a kipia a siangthopente, hih innte sungah ne-te hi. Hih inndeite a siangtho ahih manin, a kipia nate an tawh biaknate leh mawhna leh khialhna hangin biakna-in a kipia sate, a sungah koih-te hi.
 
-**ZVS:** Tua ciangin a mipa in kei kiangah, “Leilu lama om leh leitaw lama om hih inn nihte pen biakna inn siangtho ahi hi. { Topa' } omna-ah a lut siampite in biakna-in a kipia a siangtho pente, hih innte sungah ne uh hi. Hih inndeite a siangtho ahih manin, a kipia nate an tawh biaknate leh mawhna leh khialhna hangin biakna-in a kipia sate, a sungah koih uh hi.
+**ZVS:** Tua ciangin a mipa in kei kiangah, “Leilu lama om leh leitaw lama om hih inn nihte pen biakna inn siangtho ahi hi. { Topa' } omna-ah a lut siampite in biakna-in a kipia a siangtho pente, hih innte sungah ne-te hi. Hih inndeite a siangtho ahih manin, a kipia nate an tawh biaknate leh mawhna leh khialhna hangin biakna-in a kipia sate, a sungah koih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** When the priests enter therein, then shall they not go out of the holy place into the utter court, but there they shall lay their garments wherein they minister; for they are holy; and shall put on other garments, and shall approach to those things which are for the people.
 
-**TDB77:** Siampite in Topa tungah biakna pia-in biakinn sungah a lut khit uh ciangin a pualamah a pusuah nop uh leh, Topa tungah biakna a piak lai takun a silh uh puante suahin hih inndeite sungah koih ding uh hi. Tua lai panin puan dang silhin mihonte omna-ah pai thei pan uh hi,” hong ci hi.
+**TDB77:** Siampite in Topa tungah biakna pia-in biakinn sungah a lut khit-te ciangin a pualamah a pusuah nop-te leh, Topa tungah biakna a piak lai takun a silh-te puante suahin hih inndeite sungah koih ding-te hi. Tua lai panin puan dang silhin mihonte omna-ah pai thei pan-te hi,” hong ci hi.
 
-**ZVS:** Siampite in { Topa } tungah biakna pia-in biakinn sungah a lut khit uh ciangin a pualamah a pusuah nop uh leh, { Topa } tungah biakna a piak laitakun a silh uh puante suahin hih inndeite sungah koih ding uh hi. Tua lai panin puan dang silhin midangte omna-ah pai thei pan uh hi,” hong ci hi.
+**ZVS:** Siampite in { Topa } tungah biakna pia-in biakinn sungah a lut khit-te ciangin a pualamah a pusuah nop-te leh, { Topa } tungah biakna a piak laitakun a silh-te puante suahin hih inndeite sungah koih ding-te hi. Tua lai panin puan dang silhin midangte omna-ah pai thei pan-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 

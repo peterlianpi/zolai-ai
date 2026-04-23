@@ -36,43 +36,43 @@
 ### v2
 **EN:** She weepeth sore in the night, and her tears are on her cheeks: among all her lovers she hath none to comfort her: all her friends have dealt treacherously with her, they are become her enemies.
 
-**TDB77:** Amah zan khuavakin kap a, a khitui a biang tungah a tak kauhkauh hi. Amah a it ngeite khempeuh a hehnem ding khat beek a om nawn kei hi. A kipawl pihte khempeuh in kheemin, tu in a langpan’ khin ta uh hi.
+**TDB77:** Amah zan khuavakin kap a, a khitui a biang tungah a tak kauhkauh hi. Amah a it ngeite khempeuh a hehnem ding khat beek a om nawn kei hi. A kipawl pihte khempeuh in kheemin, tu in a langpan’ khin ta-te hi.
 
-**ZVS:** Amah zan khuavakin kap a, a khitui a biang tungah a tak kauhkauh hi. Amah a it ngeite khempeuh a hehnem ding khat beek a om nawn kei hi. A kipawlpihte khempeuh in amah khemin, tu-in a langpan' khinta uh hi.
+**ZVS:** Amah zan khuavakin kap a, a khitui a biang tungah a tak kauhkauh hi. Amah a it ngeite khempeuh a hehnem ding khat beek a om nawn kei hi. A kipawlpihte khempeuh in amah khemin, tu-in a langpan' khinta-te hi.
 
 **Grammar:** completed: already done | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Judah is gone into captivity because of affliction, and because of great servitude: she dwelleth among the heathen, she findeth no rest: all her persecutors overtook her between the straits.
 
-**TDB77:** Judahmite, a huh ding nei lo silate bangin a inn panun a kihawl khia hi. Amaute gamdang ah teeng uh a, amau gam ding a om kei hi. Galte in umcih uh a, a suahtak theih na’ng uh lampi a om kei hi.
+**TDB77:** Judahmite, a huh ding nei lo silate bangin a inn panun a kihawl khia hi. Amaute gamdang ah teeng-te a, amau gam ding a om kei hi. Galte in umcih-te a, a suahtak theih na’ng-te lampi a om kei hi.
 
-**ZVS:** Judah mite, a huh ding a neilo silate bangin a inn panun kihawlkhia hi. Amaute gamdangah teng uh a, amau' gam ding a om kei hi. Galte in umcih uh a, a suahtak theihna ding uh lampi a om kei hi.
+**ZVS:** Judah mite, a huh ding a neilo silate bangin a inn panun kihawlkhia hi. Amaute gamdangah teng-te a, amau' gam ding a om kei hi. Galte in umcih-te a, a suahtak theihna ding-te lampi a om kei hi.
 
 **Grammar:** negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** The ways of Zion do mourn, because none come to the solemn feasts: all her gates are desolate: her priests sigh, her virgins are afflicted, and she is in bitterness.
 
-**TDB77:** Ni siangtho ni cianga a bia dingin Biakinnpi ah kuamah a pai nawn kei hi. Tua lai-a lasa numeite in gimna thuak uh a, siampite a tau uh hi. Khuapi kongpi-ah kuamah om nawn lo a, Jerusalem khuapi in gimna a thuak hi.
+**TDB77:** Ni siangtho ni cianga a bia dingin Biakinnpi ah kuamah a pai nawn kei hi. Tua lai-a lasa numeite in gimna thuak-te a, siampite a tau-te hi. Khuapi kongpi-ah kuamah om nawn lo a, Jerusalem khuapi in gimna a thuak hi.
 
-**ZVS:** Ni siangtho ni ciangin Pasian a bia dingin Biakinnpi-ah kuamah a pai nawn kei hi. Tua lai-a lasa numeite in gimna thuak uh a, siampite a tau uh hi. Khua kongpi-ah kuamah om nawnlo a, Jerusalem khuapi in gimna a thuak hi.
+**ZVS:** Ni siangtho ni ciangin Pasian a bia dingin Biakinnpi-ah kuamah a pai nawn kei hi. Tua lai-a lasa numeite in gimna thuak-te a, siampite a tau-te hi. Khua kongpi-ah kuamah om nawnlo a, Jerusalem khuapi in gimna a thuak hi.
 
 **Grammar:** purpose: in order to | negation: kei | plural: uh marker
 
 ### v5
 **EN:** Her adversaries are the chief, her enemies prosper; for the
 
-**TDB77:** A galte gualzo uh a, amaute a nuaisiah gawp uh hi. Mawhna tampi a neih manun, Topa in tua bangin gimna a thuaksak hi. Naupangte nangawn sila dingin a kipua khia hi.
+**TDB77:** A galte gualzo-te a, amaute a nuaisiah gawp-te hi. Mawhna tampi a neih manun, Topa in tua bangin gimna a thuaksak hi. Naupangte nangawn sila dingin a kipua khia hi.
 
-**ZVS:** A galte gualzo uh a, amaute a nuaisiah gawp uh hi. Mawhna tampi a neih manun, { Topa } in tua bangin gimna a thuaksak hi. A mite khempeuh sila dingin a kipuakhia hi.
+**ZVS:** A galte gualzo-te a, amaute a nuaisiah gawp-te hi. Mawhna tampi a neih manun, { Topa } in tua bangin gimna a thuaksak hi. A mite khempeuh sila dingin a kipuakhia hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And from the daughter of Zion all her beauty is departed: her princes are become like harts that find no pasture, and they are gone without strength before the pursuer.
 
-**TDB77:** Jerusalem minthan’na teng a maimang zo hi. A makaite uh, lonona mun mu lo a, a vak kawikawi, sabengte a muh cianga taai lahpi-a a taai teitei sazuk tawh kibang uh hi.
+**TDB77:** Jerusalem minthan’na teng a maimang zo hi. A makaite uh, lonona mun mu lo a, a vak kawikawi, sabengte a muh cianga taai lahpi-a a taai teitei sazuk tawh kibang-te hi.
 
 **ZVS:** Jerusalem a minthan'na teng a maimang zota hi. A makaite uh, lonona mun muloin a vak kawikawi, sabengte a muh ciangin tailahpi-in a tai teitei sazuk tawh kibang hi.
 
@@ -81,9 +81,9 @@
 ### v7
 **EN:** Jerusalem remembered in the days of her affliction and of her miseries all her pleasant things that she had in the days of old, when her people fell into the hand of the enemy, and none did help her: the adversaries saw her, and did mock at her sabbaths.
 
-**TDB77:** Tu in Jerusalem kisia zo ta a, nidanga a thupitnate a nung phawk kik uh hi. Galte in a sim lai takin a huh ding khat beek a om kei hi. Guallel ahih manun a galte in a nuihsan uh hi.
+**TDB77:** Tu in Jerusalem kisia zo ta a, nidanga a thupitnate a nung phawk kik-te hi. Galte in a sim lai takin a huh ding khat beek a om kei hi. Guallel ahih manun a galte in a nuihsan-te hi.
 
-**ZVS:** Tu-in Jerusalem kisiazo ta a, nidanga a thupinate a nung phawkkik hi. Galte in a sim laitakin a huh ding khat beek a om kei hi. Guallel ahih manin a galte in a nuihsan uh hi.
+**ZVS:** Tu-in Jerusalem kisiazo ta a, nidanga a thupinate a nung phawkkik hi. Galte in a sim laitakin a huh ding khat beek a om kei hi. Guallel ahih manin a galte in a nuihsan-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -108,18 +108,18 @@
 ### v10
 **EN:** The adversary hath spread out his hand upon all her pleasant things: for she hath seen that the heathen entered into her sanctuary, whom thou didst command that they should not enter into thy congregation.
 
-**TDB77:** A galte in a neih a lam khempeuh a laksak hi. Biakinnpi sungah lut uh a, Topa in Gentailte pai nading a khamna munah a lut uh a mu uh hi.
+**TDB77:** A galte in a neih a lam khempeuh a laksak hi. Biakinnpi sungah lut-te a, Topa in Gentailte pai nading a khamna munah a lut-te a mu-te hi.
 
-**ZVS:** A galte in a neih a lam khempeuh a laksak khinmang hi. Biakinnpi sungah lut uh a, { Topa } in Gentailte a pai ding a phallohna munah a lut uh a mu hi.
+**ZVS:** A galte in a neih a lam khempeuh a laksak khinmang hi. Biakinnpi sungah lut-te a, { Topa } in Gentailte a pai ding a phallohna munah a lut-te a mu hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** All her people sigh, they seek bread; they have given their pleasant things for meat to relieve the soul: see, O
 
-**TDB77:** Amaute in thuum kawmsa-in annek zong dingin a paikhia uh hi. A nuntak theih nadingun a sum a pai uh tawh an a khek uh hi. Khuapi in “Hong en in Topa aw, ka thuakna teng hong mu in” ci-in a kiko hi.
+**TDB77:** Amaute in thuum kawmsa-in annek zong dingin a paikhia-te hi. A nuntak theih nadingun a sum a pai-te tawh an a khek-te hi. Khuapi in “Hong en in Topa aw, ka thuakna teng hong mu in” ci-in a kiko hi.
 
-**ZVS:** Amaute, a thum kawmsa-in annek zong dingin a paikhia uh hi. A nuntak theihna dingun a sum a paai uh tawh an a khek uh hi. Khuapi in, “Hong en in { Topa } aw, ka thuakna teng hong mu in,” ci-in a kiko hi.
+**ZVS:** Amaute, a thum kawmsa-in annek zong dingin a paikhia-te hi. A nuntak theihna dingun a sum a paai-te tawh an a khek-te hi. Khuapi in, “Hong en in { Topa } aw, ka thuakna teng hong mu in,” ci-in a kiko hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -162,18 +162,18 @@
 ### v16
 **EN:** For these things I weep; mine eye, mine eye runneth down with water, because the comforter that should relieve my soul is far from me: my children are desolate, because the enemy prevailed.
 
-**TDB77:** Tua ahih manin ka mit sung pan khitui a dim letin a luang hi. Hong hehnem ding leh hong hanthawn ding kuamah a om kei hi. Galte in hong zo khin a, ka mite a cimawh uh hi.
+**TDB77:** Tua ahih manin ka mit sung pan khitui a dim letin a luang hi. Hong hehnem ding leh hong hanthawn ding kuamah a om kei hi. Galte in hong zo khin a, ka mite a cimawh-te hi.
 
-**ZVS:** Tua ahih manin ka mit pan khitui a dimletin a luang hi. Hong hehnem ding leh a hong hanthawn ding kuamah omlo hi. Galte in hong zo khin a, ka mite a cimawh uh hi.
+**ZVS:** Tua ahih manin ka mit pan khitui a dimletin a luang hi. Hong hehnem ding leh a hong hanthawn ding kuamah omlo hi. Galte in hong zo khin a, ka mite a cimawh-te hi.
 
 **Grammar:** negation: kei | causal: because | plural: uh marker
 
 ### v17
 **EN:** Zion spreadeth forth her hands, and there is none to comfort her: the
 
-**TDB77:** Hong huh un ci-a khut ka vanvan hangin kuamah in a hong huh nuam kei hi. Topa in mun khempeuh panin galte hong paisak a, amaute in a kihhuai na khat bangin a hong gimneih uh hi.
+**TDB77:** Hong huh un ci-a khut ka vanvan hangin kuamah in a hong huh nuam kei hi. Topa in mun khempeuh panin galte hong paisak a, amaute in a kihhuai na khat bangin a hong gimneih-te hi.
 
-**ZVS:** Hong huh un, ci-in ka khut ka vanvan hangin kuamah in a hong huh nuam kei hi. { Topa } in mun khempeuh panin galte hong paisak a, amaute in a kihhuai na khat bangin kei a hong gimneih uh hi.
+**ZVS:** Hong huh un, ci-in ka khut ka vanvan hangin kuamah in a hong huh nuam kei hi. { Topa } in mun khempeuh panin galte hong paisak a, amaute in a kihhuai na khat bangin kei a hong gimneih-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -189,9 +189,9 @@
 ### v19
 **EN:** I called for my lovers, but they deceived me: my priests and mine elders gave up the ghost in the city, while they sought their meat to relieve their souls.
 
-**TDB77:** Ka kipawl pihte ka sapsap hangin a hong huh nuam kei uh hi. A nuntak nading uh an a zon’na lamun siampite leh makaite kongzing lakah a si uh hi.
+**TDB77:** Ka kipawl pihte ka sapsap hangin a hong huh nuam kei-te hi. A nuntak nading-te an a zon’na lamun siampite leh makaite kongzing lakah a si-te hi.
 
-**ZVS:** Ka kipawlpihte ka sapsap hangin a hong huh nuam kei uh hi. A nuntakna ding uh an a zon'na lamun siampite leh makaite kongzing lakah a si uh hi.
+**ZVS:** Ka kipawlpihte ka sapsap hangin a hong huh nuam kei-te hi. A nuntakna ding-te an a zon'na lamun siampite leh makaite kongzing lakah a si-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -207,9 +207,9 @@
 ### v21
 **EN:** They have heard that I sigh: there is none to comfort me: all mine enemies have heard of my trouble; they are glad that thou hast done it: thou wilt bring the day that thou hast called, and they shall be like unto me.
 
-**TDB77:** Ka tauna hong ngai in, hong hehnem ding kuamah dang a om nawn kei hi. Gimna nong thuaksak manin ka galte lungdam lua uh hi. Na ni ciam ni hong tungsak in la, kei thuak bangin ka galte zong thuaksak in.
+**TDB77:** Ka tauna hong ngai in, hong hehnem ding kuamah dang a om nawn kei hi. Gimna nong thuaksak manin ka galte lungdam lua-te hi. Na ni ciam ni hong tungsak in la, kei thuak bangin ka galte zong thuaksak in.
 
-**ZVS:** Ka tauna hong ngai in; kei a hong hehnem ding kuamah dang om nawnlo hi. Gimna nong thuaksak manin ka galte lungdam lua uh hi. Na ni ciam ni hong tungsak in la, kei' thuak bangin ka galte zong thuaksak in.
+**ZVS:** Ka tauna hong ngai in; kei a hong hehnem ding kuamah dang om nawnlo hi. Gimna nong thuaksak manin ka galte lungdam lua-te hi. Na ni ciam ni hong tungsak in la, kei' thuak bangin ka galte zong thuaksak in.
 
 **Grammar:** negation: kei | causal: because | plural: uh marker
 

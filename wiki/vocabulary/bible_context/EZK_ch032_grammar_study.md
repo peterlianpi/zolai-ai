@@ -106,9 +106,9 @@
 ### v10
 **EN:** Yea, I will make many people amazed at thee, and their kings shall be horribly afraid for thee, when I shall brandish my sword before them; and they shall tremble at every moment, every man for his own life, in the day of thy fall.
 
-**TDB77:** Nang tunga kong bawlna thu minam tampite in lamdang sa ding uh hi. Ka namsau ka viik ciangin kumpite lau-in kigaih ding uh hi. Nang na puk ni ciangin mi khempeuh a sih khak ding uh lau-in liing kelkel ding uh hi.
+**TDB77:** Nang tunga kong bawlna thu minam tampite in lamdang sa ding-te hi. Ka namsau ka viik ciangin kumpite lau-in kigaih ding-te hi. Nang na puk ni ciangin mi khempeuh a sih khak ding-te lau-in liing kelkel ding-te hi.
 
-**ZVS:** Nang tunga kong bawlna thu minam tampite in lamdangsa ding uh hi. Ka namsau ka vik ciangin kumpite lau-in kigaih ding uh hi. Nang na puk ni ciangin a sihkhak ding uh lau-in mi khempeuh ling kelkel ding uh hi.
+**ZVS:** Nang tunga kong bawlna thu minam tampite in lamdangsa ding-te hi. Ka namsau ka vik ciangin kumpite lau-in kigaih ding-te hi. Nang na puk ni ciangin a sihkhak ding-te lau-in mi khempeuh ling kelkel ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -124,9 +124,9 @@
 ### v12
 **EN:** By the swords of the mighty will I cause thy multitude to fall, the terrible of the nations, all of them: and they shall spoil the pomp of Egypt, and all the multitude thereof shall be destroyed.
 
-**TDB77:** Minam dang a gilopente sung panin a galkapte uh a namsau uh dok sakin, na mihonpite ka thatsak ding hi. Na kisaktheihpih teng vatmai ding uh a, na mi khempeuh that mang ding uh hi.
+**TDB77:** Minam dang a gilopente sung panin a galkapte-te a namsau-te dok sakin, na mihonpite ka thatsak ding hi. Na kisaktheihpih teng vatmai ding-te a, na mi khempeuh that mang ding-te hi.
 
-**ZVS:** Minam dang a gilo pente sung panin a galkapte uh a namsau uh doksakin, na mihonpite ka thatsak ding hi. “Na kisaktheihpih teng vatmai ding uh a, na minam khempeuh thatmang ding uh hi.
+**ZVS:** Minam dang a gilo pente sung panin a galkapte-te a namsau-te doksakin, na mihonpite ka thatsak ding hi. “Na kisaktheihpih teng vatmai ding-te a, na minam khempeuh thatmang ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -142,7 +142,7 @@
 ### v14
 **EN:** Then will I make their waters deep, and cause their rivers to run like oil, saith the Lord
 
-**TDB77:** Bangmah in su nawn lo ding ahih manin, tuite cim sitset ding a, gunte zong dum dide ding uh hi, ci-in Topa Pasian in ka gen khin hi.
+**TDB77:** Bangmah in su nawn lo ding ahih manin, tuite cim sitset ding a, gunte zong dum dide ding-te hi, ci-in Topa Pasian in ka gen khin hi.
 
 **ZVS:** Bangmah in su nawnlo ding ahih manin, tuite cim sitset ding a, gunte zong dum dide ding hi, ci-in Topa { Pasian } in ka gen khin hi.
 
@@ -151,18 +151,18 @@
 ### v15
 **EN:** When I shall make the land of Egypt desolate, and the country shall be destitute of that whereof it was full, when I shall smite all them that dwell therein, then shall they know that I am the
 
-**TDB77:** Izipt gamkhing suaksakin, a gam sunga om teng ka suksiat ciangin, Topa ka hihna thu hong thei ding uh hi.
+**TDB77:** Izipt gamkhing suaksakin, a gam sunga om teng ka suksiat ciangin, Topa ka hihna thu hong thei ding-te hi.
 
-**ZVS:** Egypt gam gamkhing suaksakin, a gamsunga omteng ka suksiat ciangin { Topa } ka hihna thu hong thei ding uh hi.
+**ZVS:** Egypt gam gamkhing suaksakin, a gamsunga omteng ka suksiat ciangin { Topa } ka hihna thu hong thei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v16
 **EN:** This is the lamentation wherewith they shall lament her: the daughters of the nations shall lament her: they shall lament for her, even for Egypt, and for all her multitude, saith the Lord
 
-**TDB77:** Hih in kah la-in a kisa ding tamlawhna hi a, Izipt leh a mite tamlawhna-in minam dang numeite in nei ding uh hi. Topa Pasian in hih thu ka gen khin hi,” hong ci hi.
+**TDB77:** Hih in kah la-in a kisa ding tamlawhna hi a, Izipt leh a mite tamlawhna-in minam dang numeite in nei ding-te hi. Topa Pasian in hih thu ka gen khin hi,” hong ci hi.
 
-**ZVS:** “Hih pen kah la-in a kisa ding tamlawhna hi a, Egypt leh a mite tamlawhna-in minam dang numeite in nei ding uh hi. Topa { Pasian } in hih thu ka gen khin hi,” hong ci hi.
+**ZVS:** “Hih pen kah la-in a kisa ding tamlawhna hi a, Egypt leh a mite tamlawhna-in minam dang numeite in nei ding-te hi. Topa { Pasian } in hih thu ka gen khin hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -187,81 +187,81 @@
 ### v19
 **EN:** Whom dost thou pass in beauty? go down, and be thou laid with the uncircumcised.
 
-**TDB77:** Midang khempeuh sangin mel hoih zaw hilo na hi uh hiam? Pai un la, Pasian a thei lo mite han sungah lum un, ci-in gen in.
+**TDB77:** Midang khempeuh sangin mel hoih zaw hilo na hi-te hiam? Pai un la, Pasian a thei lo mite han sungah lum un, ci-in gen in.
 
-**ZVS:** “Midang khempeuh sangin melhoihzaw hilo na hi uh hiam? Ahi zongin pai un la, Pasian a theilo mite' han sungah va lum un, ci-in gen in.
+**ZVS:** “Midang khempeuh sangin melhoihzaw hilo na hi-te hiam? Ahi zongin pai un la, Pasian a theilo mite' han sungah va lum un, ci-in gen in.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v20
 **EN:** They shall fall in the midst of them that are slain by the sword: she is delivered to the sword: draw her and all her multitudes.
 
-**TDB77:** Gal sunga a kithatte tawh si khawm ding uh hi. Izipt gam sunga om mi khempeuh a vatlum dingin namsau khat a baihsa-in om hi.
+**TDB77:** Gal sunga a kithatte tawh si khawm ding-te hi. Izipt gam sunga om mi khempeuh a vatlum dingin namsau khat a baihsa-in om hi.
 
-**ZVS:** “Galsunga a kithatte tawh si khawm ding uh hi. Egypt gamsunga om mi khempeuh a vatlum dingin namsau khat a baihsa-in om hi.
+**ZVS:** “Galsunga a kithatte tawh si khawm ding-te hi. Egypt gamsunga om mi khempeuh a vatlum dingin namsau khat a baihsa-in om hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** The strong among the mighty shall speak to him out of the midst of hell with them that help him: they are gone down, they lie uncircumcised, slain by the sword.
 
-**TDB77:** Izipt mite a pan’pih galhang pente in mi site gam Leinuai panin amaute na dawn ding uh a, ‘Pasian a thei lo, gal sunga si mite hong paisuk uh a, hih lai-ah lum ta uh hi,’ ci-in kiko ding uh hi.
+**TDB77:** Izipt mite a pan’pih galhang pente in mi site gam Leinuai panin amaute na dawn ding-te a, ‘Pasian a thei lo, gal sunga si mite hong paisuk-te a, hih lai-ah lum ta-te hi,’ ci-in kiko ding-te hi.
 
-**ZVS:** Egypt mite a pan'pih galhang pente in misite' gam Leinuai panin amaute na dawn ding uh a, ‘Pasian a theilo, galsunga si mite hong paisuk uh a, hih lai-ah lumta uh hi,’ ci-in kiko ding uh hi.
+**ZVS:** Egypt mite a pan'pih galhang pente in misite' gam Leinuai panin amaute na dawn ding-te a, ‘Pasian a theilo, galsunga si mite hong paisuk-te a, hih lai-ah lumta-te hi,’ ci-in kiko ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** Asshur is there and all her company: his graves are about him: all of them slain, fallen by the sword:
 
-**TDB77:** “Assiria zong, a kimkot-ah a galkapte’ han tawh, tua lai mah-ah om hi. Amaute khempeuh zong gal sungah a si uh hi a,
+**TDB77:** “Assiria zong, a kimkot-ah a galkapte’ han tawh, tua lai mah-ah om hi. Amaute khempeuh zong gal sungah a si-te hi a,
 
-**ZVS:** “Assiria zong, a kimkotah a galkapte' han tawh, tua lai mahah om hi. Amaute khempeuh zong galsungah a si uh hi a,
+**ZVS:** “Assiria zong, a kimkotah a galkapte' han tawh, tua lai mahah om hi. Amaute khempeuh zong galsungah a si-te hi a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** Whose graves are set in the sides of the pit, and her company is round about her grave: all of them slain, fallen by the sword, which caused terror in the land of the living.
 
-**TDB77:** Leinuai a thukpenna munah amaute’ han om hi. A galkap khempeuh gal sungah a si hi a, a hante uh ama kimkotah om hi. Ahi zongin amaute pen ni dangin minam dangte a liinglawng sak zo ngeite ahi uh hi.
+**TDB77:** Leinuai a thukpenna munah amaute’ han om hi. A galkap khempeuh gal sungah a si hi a, a hante-te ama kimkotah om hi. Ahi zongin amaute pen ni dangin minam dangte a liinglawng sak zo ngeite ahi-te hi.
 
-**ZVS:** Leinuai a thukpenna munah amaute' han om hi. A galkap khempeuh galsungah a si hi a, a hante uh ama kimkotah om hi. Ahi zongin amaute pen nidangin minam dangte a linglawngsak zo ngeite ahi uh hi.
+**ZVS:** Leinuai a thukpenna munah amaute' han om hi. A galkap khempeuh galsungah a si hi a, a hante-te ama kimkotah om hi. Ahi zongin amaute pen nidangin minam dangte a linglawngsak zo ngeite ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** There is Elam and all her multitude round about her grave, all of them slain, fallen by the sword, which are gone down uncircumcised into the nether parts of the earth, which caused their terror in the land of the living; yet have they borne their shame with them that go down to the pit.
 
-**TDB77:** “Elam zong a kimkotah a galkapte’ han tawh, tua lai mah-ah om hi. Amaute khempeuh gal sungah a si uh hi a, mi site gam Leinuai-ah Pasian a thei loin paisuk uh hi. A hin’ lai-un mi khempeuh a lausak ngeite hi uh a, ahi zongin tu-in amaute si-in mindai-in om uh hi.
+**TDB77:** “Elam zong a kimkotah a galkapte’ han tawh, tua lai mah-ah om hi. Amaute khempeuh gal sungah a si-te hi a, mi site gam Leinuai-ah Pasian a thei loin paisuk-te hi. A hin’ lai-un mi khempeuh a lausak ngeite hi-te a, ahi zongin tu-in amaute si-in mindai-in om-te hi.
 
-**ZVS:** “Elam zong, a kimkotah a galkap-te' han tawh, tua lai mahah om hi. Amaute khempeuh galsungah a si uh hi a, misite' gam Leinuai-ah Pasian a theiloin paisuk uh hi. A hin' lai-un mi khempeuh a lausak ngeite hi uh a, ahi zongin tu-in amaute si-in mindai-in a om uh hi.
+**ZVS:** “Elam zong, a kimkotah a galkap-te' han tawh, tua lai mahah om hi. Amaute khempeuh galsungah a si-te hi a, misite' gam Leinuai-ah Pasian a theiloin paisuk-te hi. A hin' lai-un mi khempeuh a lausak ngeite hi-te a, ahi zongin tu-in amaute si-in mindai-in a om-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** They have set her a bed in the midst of the slain with all her multitude: her graves are round about him: all of them uncircumcised, slain by the sword: though their terror was caused in the land of the living, yet have they borne their shame with them that go down to the pit: he is put in the midst of them that be slain.
 
-**TDB77:** Gal sunga a site lak mah-ah Elam lum a, ama kimkot-ah a galkapte’ han om hi. Amaute in Pasian a thei loin, gal sungah si uh hi. A hin’ lai-un mite a lausak ngeite hi uh a, ahi zongin tu-in amaute si-in mindai-in om uh a, gal sunga site mah tawh kibangin gimna thuak uh hi.
+**TDB77:** Gal sunga a site lak mah-ah Elam lum a, ama kimkot-ah a galkapte’ han om hi. Amaute in Pasian a thei loin, gal sungah si-te hi. A hin’ lai-un mite a lausak ngeite hi-te a, ahi zongin tu-in amaute si-in mindai-in om-te a, gal sunga site mah tawh kibangin gimna thuak-te hi.
 
-**ZVS:** Galsunga a site lak mahah Elam lum a, ama kimkotah a galkapte' han om hi. Amaute, Pasian a theiloin, galsungah si uh hi. A hin' lai-un mite a lausak ngeite hi uh a, ahi zongin tu-in amaute si-in mindai-in om uh a, galsunga site mah tawh a kibangin gimna a thuak uh hi.
+**ZVS:** Galsunga a site lak mahah Elam lum a, ama kimkotah a galkapte' han om hi. Amaute, Pasian a theiloin, galsungah si-te hi. A hin' lai-un mite a lausak ngeite hi-te a, ahi zongin tu-in amaute si-in mindai-in om-te a, galsunga site mah tawh a kibangin gimna a thuak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** There is Meshech, Tubal, and all her multitude: her graves are round about him: all of them uncircumcised, slain by the sword, though they caused their terror in the land of the living.
 
-**TDB77:** “Meshek leh Tubal zong tua lai mah ah om uh a, a kimkot uhah a galkapte uh’ han om hi. Amaute khempeuh in Pasian a thei lo, gal sunga a si ahi uh hi. Ahi zongin a hin’ lai-un mi dangte a lausak zo ngeite ahi uh hi.
+**TDB77:** “Meshek leh Tubal zong tua lai mah ah om-te a, a kimkot uhah a galkapte uh’ han om hi. Amaute khempeuh in Pasian a thei lo, gal sunga a si ahi-te hi. Ahi zongin a hin’ lai-un mi dangte a lausak zo ngeite ahi-te hi.
 
-**ZVS:** “Meshek leh Tubal zong tua lai mahah om uh a, a kimkot uhah a galkapte uh' han om hi. Amaute khempeuh zong Pasian a theilo, galsunga a si ahi uh hi. Ahi zongin a hin' lai-un midangte a lausakzo ngeite ahi uh hi.
+**ZVS:** “Meshek leh Tubal zong tua lai mahah om-te a, a kimkot uhah a galkapte uh' han om hi. Amaute khempeuh zong Pasian a theilo, galsunga a si ahi-te hi. Ahi zongin a hin' lai-un midangte a lausakzo ngeite ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** And they shall not lie with the mighty that are fallen of the uncircumcised, which are gone down to hell with their weapons of war: and they have laid their swords under their heads, but their iniquities shall be upon their bones, though they were the terror of the mighty in the land of the living.
 
-**TDB77:** Hih mite pen mi site omna Leinuai-ah a galvan teng uh tawh pai-in a namsau uh kilukhamsakin, a lum uh a awm tung uhah a kikoihsak kawmin lim takin a kivui tanglai galkapte bangin pahtawi-a vuina ngah lo uh hi. Ahi zongin hih mite pen mi dangte a lausak zo dingin a vanglian ngeite ahi uh hi.
+**TDB77:** Hih mite pen mi site omna Leinuai-ah a galvan teng-te tawh pai-in a namsau-te kilukhamsakin, a lum-te a awm tung uhah a kikoihsak kawmin lim takin a kivui tanglai galkapte bangin pahtawi-a vuina ngah lo-te hi. Ahi zongin hih mite pen mi dangte a lausak zo dingin a vanglian ngeite ahi-te hi.
 
-**ZVS:** Hih mite pen misite' omna Leinuai-ah a galvanteng uh tawh pai-in, a namsau uh kilukham sakin, a lum uh a awm tung uhah a kikoihsak kawmin limtakin a kivui tanglai galkapte bangin pahtawi-a vuina ngahlo uh hi. Ahi zongin hih mite pen midang a lausakzo dingin a vanglian ngeite ahi uh hi.
+**ZVS:** Hih mite pen misite' omna Leinuai-ah a galvanteng-te tawh pai-in, a namsau-te kilukham sakin, a lum-te a awm tung uhah a kikoihsak kawmin limtakin a kivui tanglai galkapte bangin pahtawi-a vuina ngahlo-te hi. Ahi zongin hih mite pen midang a lausakzo dingin a vanglian ngeite ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -277,18 +277,18 @@
 ### v29
 **EN:** There is Edom, her kings, and all her princes, which with their might are laid by them that were slain by the sword: they shall lie with the uncircumcised, and with them that go down to the pit.
 
-**TDB77:** “Edom zong a kumpite leh a gam ukte tawh tua lai mah ah om hi. Amaute in a thahat gakapte hi a, ahi zongin tu-in Pasian thei loin gal sunga a site lak, misite gam Leinuai-ah lum uh hi.
+**TDB77:** “Edom zong a kumpite leh a gam ukte tawh tua lai mah ah om hi. Amaute in a thahat gakapte hi a, ahi zongin tu-in Pasian thei loin gal sunga a site lak, misite gam Leinuai-ah lum-te hi.
 
-**ZVS:** “Edom zong a kumpite leh a gam ukte tawh tua lai mahah om hi. Amaute pen a thahat galkapte hi a, ahi zongin tu-in Pasian a theiloin galsunga a site lak, misite' gam Leinuai-ah a lum uh hi.
+**ZVS:** “Edom zong a kumpite leh a gam ukte tawh tua lai mahah om hi. Amaute pen a thahat galkapte hi a, ahi zongin tu-in Pasian a theiloin galsunga a site lak, misite' gam Leinuai-ah a lum-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v30
 **EN:** There be the princes of the north, all of them, and all the Zidonians, which are gone down with the slain; with their terror they are ashamed of their might; and they lie uncircumcised with them that be slain by the sword, and bear their shame with them that go down to the pit.
 
-**TDB77:** “Leilu lam uliante leh Sidon mite zong tua lai mah ah om uh hi. Amaute’ vangliatna in midangte lausak ngei a, ahi zongin tu-in gal sunga si mite tawh mindai-in paisuk uh a, Pasian thei loin kivui uh hi. Misite gam Leinuai-a a pai sukte tawh a mindaina uh kibang hi.
+**TDB77:** “Leilu lam uliante leh Sidon mite zong tua lai mah ah om-te hi. Amaute’ vangliatna in midangte lausak ngei a, ahi zongin tu-in gal sunga si mite tawh mindai-in paisuk-te a, Pasian thei loin kivui-te hi. Misite gam Leinuai-a a pai sukte tawh a mindaina-te kibang hi.
 
-**ZVS:** “Leilu lam uliante leh Sidon mite zong tua lai mahah om uh hi. Amaute' vangliatna in midangte lausak ngei a, ahi zongin tu-in galsunga si mite tawh mindai-in paisuk uh a, Pasian a theiloin kivui uh hi. Misite' gam Leinuai-a a paisukte tawh a mindaina uh kibang hi.
+**ZVS:** “Leilu lam uliante leh Sidon mite zong tua lai mahah om-te hi. Amaute' vangliatna in midangte lausak ngei a, ahi zongin tu-in galsunga si mite tawh mindai-in paisuk-te a, Pasian a theiloin kivui-te hi. Misite' gam Leinuai-a a paisukte tawh a mindaina-te kibang hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

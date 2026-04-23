@@ -44,9 +44,9 @@
 ### v3
 **EN:** He is despised and rejected of men; a man of sorrows, and acquainted with grief: and we hid as it were our faces from him; he was despised, and we esteemed him not.
 
-**TDB77:** Amah pen mite in simmawhin nusia hi; gimna leh natna a thuak mi ahi hi; mite in en nuam loin a mai uh a humsan mipa bangin amah kisimmawh a, eite in amah i thusim kei hi.
+**TDB77:** Amah pen mite in simmawhin nusia hi; gimna leh natna a thuak mi ahi hi; mite in en nuam loin a mai-te a humsan mipa bangin amah kisimmawh a, eite in amah i thusim kei hi.
 
-**ZVS:** Amah pen mite in simmawhin nusia a, gimna leh natna a thuak ahi hi. Mite in en nuamloin a mai uh a humsan uh mipa bangin amah kisimmawh a, eite in amah i thusim kei hi.
+**ZVS:** Amah pen mite in simmawhin nusia a, gimna leh natna a thuak ahi hi. Mite in en nuamloin a mai-te a humsan-te mipa bangin amah kisimmawh a, eite in amah i thusim kei hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -98,9 +98,9 @@
 ### v9
 **EN:** And he made his grave with the wicked, and with the rich in his death; because he had done no violence, neither was any deceit in his mouth.
 
-**TDB77:** Amah in mawhna bawl lo, amah in zuau gen ngei lo napi-in, amaute in, mi gilote tawh hankhuk kibang, siatna bawlte tawh hanphual kibang bawl sak uh hi,” ci uh hi.
+**TDB77:** Amah in mawhna bawl lo, amah in zuau gen ngei lo napi-in, amaute in, mi gilote tawh hankhuk kibang, siatna bawlte tawh hanphual kibang bawl sak-te hi,” ci-te hi.
 
-**ZVS:** Amah in mawhna bawllo, zuau gen ngeilo napi-in, amaute in migilote tawh sihna a kibang, mihaute tawh hankhuk a kibang a bawlsak uh hi,” a ci uh hi.
+**ZVS:** Amah in mawhna bawllo, zuau gen ngeilo napi-in, amaute in migilote tawh sihna a kibang, mihaute tawh hankhuk a kibang a bawlsak-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

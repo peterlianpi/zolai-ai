@@ -32,9 +32,9 @@
 ### v2
 **EN:** Wherefore should the heathen say, Where is now their God?
 
-**TDB77:** Bang hangin minamte in, “Amaute’ Pasian koi-ah om ahi hiam?” ci laizang ding ahi uh hiam?
+**TDB77:** Bang hangin minamte in, “Amaute’ Pasian koi-ah om ahi hiam?” ci laizang ding ahi-te hiam?
 
-**ZVS:** Bang hangin minam dangte in, “Amaute' Pasian koi-ah om ahi hiam?” ci laizang ding ahi uh hiam?
+**ZVS:** Bang hangin minam dangte in, “Amaute' Pasian koi-ah om ahi hiam?” ci laizang ding ahi-te hiam?
 
 ### v3
 **EN:** But our God is in the heavens: he hath done whatsoever he hath pleased.
@@ -55,36 +55,36 @@
 ### v5
 **EN:** They have mouths, but they speak not: eyes have they, but they see not:
 
-**TDB77:** Amaute in kam nei napi-in pau thei lo uh a, mit nei napi-in khua mu thei lo uh hi.
+**TDB77:** Amaute in kam nei napi-in pau thei lo-te a, mit nei napi-in khua mu thei lo-te hi.
 
-**ZVS:** Amaute in kam nei napi-in pau theilo uh a, mit nei napi-in khua mu theilo uh hi.
+**ZVS:** Amaute in kam nei napi-in pau theilo-te a, mit nei napi-in khua mu theilo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v6
 **EN:** They have ears, but they hear not: noses have they, but they smell not:
 
-**TDB77:** Amaute in bil nei napi-in khua za lo uh a, nak nei napi-in nam thei lo uh hi.
+**TDB77:** Amaute in bil nei napi-in khua za lo-te a, nak nei napi-in nam thei lo-te hi.
 
-**ZVS:** Amaute in bil nei napi-in khua zalo uh a, nak nei napi-in a nam theilo uh hi.
+**ZVS:** Amaute in bil nei napi-in khua zalo-te a, nak nei napi-in a nam theilo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v7
 **EN:** They have hands, but they handle not: feet have they, but they walk not: neither speak they through their throat.
 
-**TDB77:** Amaute in khut nei napi-in lawng thei lo uh a, khe nei napi-in lam pai thei lo uh hi; amaute in aw gingsak thei lo uh hi.
+**TDB77:** Amaute in khut nei napi-in lawng thei lo-te a, khe nei napi-in lam pai thei lo-te hi; amaute in aw gingsak thei lo-te hi.
 
-**ZVS:** Amaute in khut nei napi-in lawng theilo uh a, khe nei napi-in pai theilo uh hi. Amaute in aw gingsak theilo uh hi.
+**ZVS:** Amaute in khut nei napi-in lawng theilo-te a, khe nei napi-in pai theilo-te hi. Amaute in aw gingsak theilo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v8
 **EN:** They that make them are like unto them; so is every one that trusteth in them.
 
-**TDB77:** Amaute a bawlte leh amaute a muangte khempeuh pen amaute mah tawh kibang uh hi.
+**TDB77:** Amaute a bawlte leh amaute a muangte khempeuh pen amaute mah tawh kibang-te hi.
 
-**ZVS:** Tuate a bawlte leh tuate a muangte khempeuh pen tuate mah tawh kibang uh hi.
+**ZVS:** Tuate a bawlte leh tuate a muangte khempeuh pen tuate mah tawh kibang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -130,9 +130,9 @@
 ### v14
 **EN:** The
 
-**TDB77:** Topa in note leh na tate uh hong pung sak ta hen!
+**TDB77:** Topa in note leh na tate-te hong pung sak ta hen!
 
-**ZVS:** { Topa } in note leh na tate uh hong pungsak ta hen.
+**ZVS:** { Topa } in note leh na tate-te hong pungsak ta hen.
 
 ### v15
 **EN:** Ye are blessed of the
@@ -153,9 +153,9 @@
 ### v17
 **EN:** The dead praise not the
 
-**TDB77:** Misite ahi a, gamdaihna sunga a pai peuhpeuhte in ahi zongin Topa phat lo uh hi.
+**TDB77:** Misite ahi a, gamdaihna sunga a pai peuhpeuhte in ahi zongin Topa phat lo-te hi.
 
-**ZVS:** Misite ahi a, gamdaihna sungah a pai peuhpeuhte in ahi zongin { Topa } phatlo uh hi.
+**ZVS:** Misite ahi a, gamdaihna sungah a pai peuhpeuhte in ahi zongin { Topa } phatlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

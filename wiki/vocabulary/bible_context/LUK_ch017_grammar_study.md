@@ -32,18 +32,18 @@
 ### v5
 **EN:** And the apostles said unto the Lord, Increase our faith.
 
-**TDB77:** Sawltakte in, “Komau’ upna khangsak ta in,” ci-in Topa kiangah a gen uh hi.
+**TDB77:** Sawltakte in, “Komau’ upna khangsak ta in,” ci-in Topa kiangah a gen-te hi.
 
-**ZVS:** Nikhat, sawltakte in Topa kiangah, “Ka upna uh hong liansak in,” a ci uh hi.
+**ZVS:** Nikhat, sawltakte in Topa kiangah, “Ka upna-te hong liansak in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And the Lord said,
 
-**TDB77:** Topa in, “Note in ankamtang khat cia bang upna nei le-uhteh hih theikung kiangah, ‘Zung tawh kibotkhia-in tuipi sungah na po in,’ na cih uh leh, na thu uh a mang ding hi.”
+**TDB77:** Topa in, “Note in ankamtang khat cia bang upna nei le-uhteh hih theikung kiangah, ‘Zung tawh kibotkhia-in tuipi sungah na po in,’ na cih-te leh, na thu-te a mang ding hi.”
 
-**ZVS:** Topa in, “Ankam tang cia a pha upna nei le uh cin, hih nailung kung kiangah, ‘Kizunglot in la tuipi sungah va po in,’ ci le uh cin na cih bangun piangzo ding hi.
+**ZVS:** Topa in, “Ankam tang cia a pha upna nei le-te cin, hih nailung kung kiangah, ‘Kizunglot in la tuipi sungah va po in,’ ci le-te cin na cih bangun piangzo ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -57,27 +57,27 @@
 ### v12
 **EN:** And as he entered into a certain village, there met him ten men that were lepers, which stood afar off:
 
-**TDB77:** Khua khat sungah a lut lai takin miphak sawm in amah dawn uh a, a gamla pan ding-in,
+**TDB77:** Khua khat sungah a lut lai takin miphak sawm in amah dawn-te a, a gamla pan ding-in,
 
-**ZVS:** Khuaneu khatah a lut dektak laitakin miphak sawm in a dawntuah uh hi. Jesuh tawh a kigamla munah ding uh a,
+**ZVS:** Khuaneu khatah a lut dektak laitakin miphak sawm in a dawntuah-te hi. Jesuh tawh a kigamla munah ding-te a,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v13
 **EN:** And they lifted up their voices, and said, Jesus, Master, have mercy on us.
 
-**TDB77:** “Topa Zeisu aw, kote hong hehpih in,” ci-in a kiko uh hi.
+**TDB77:** “Topa Zeisu aw, kote hong hehpih in,” ci-in a kiko-te hi.
 
-**ZVS:** nakpi takin kiko-in, “Topa Jesuh aw, kote hong hehpih in,” a ci uh hi.
+**ZVS:** nakpi takin kiko-in, “Topa Jesuh aw, kote hong hehpih in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And when he saw them, he said unto them,
 
-**TDB77:** Zeisu in tuate a muh ciangin, “Pai un la, Pasian’ siampi kiangah va kilak un,” ci-in thu a pia hi. Amaute a pai lai takun damna a ngah uh hi.
+**TDB77:** Zeisu in tuate a muh ciangin, “Pai un la, Pasian’ siampi kiangah va kilak un,” ci-in thu a pia hi. Amaute a pai lai takun damna a ngah-te hi.
 
-**ZVS:** Jesuh in amaute a muh ciangin, “Pai un la siampite va kivelsak un,” a ci hi. Amaute a va pai uh ciangin lamkalah a dam uh hi.
+**ZVS:** Jesuh in amaute a muh ciangin, “Pai un la siampite va kivelsak un,” a ci hi. Amaute a va pai-te ciangin lamkalah a dam-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -102,9 +102,9 @@
 ### v17
 **EN:** And Jesus answering said,
 
-**TDB77:** Zeisu in, “Mi sawmte in damna ngah hilo ahi hiam? Adang kua teng koiah om ahi uh hiam?
+**TDB77:** Zeisu in, “Mi sawmte in damna ngah hilo ahi hiam? Adang kua teng koiah om ahi-te hiam?
 
-**ZVS:** Tua ciangin Jesuh hong paukhia a, “Mihing sawm kidamsak hilo ahi hiam? Adang kuate koi lai-ah om ahi uh hiam?
+**ZVS:** Tua ciangin Jesuh hong paukhia a, “Mihing sawm kidamsak hilo ahi hiam? Adang kuate koi lai-ah om ahi-te hiam?
 
 ### v19
 **EN:** And he said unto him,
@@ -120,25 +120,25 @@
 
 **TDB77:** Farisaite in, “Pasian’ Gam in cik ciangin hong tung ding hiam?” ci-in a dot ciangun Zeisu in, “Pasian’ Gam in mittangin kimu loin a hong tung hi.
 
-**ZVS:** Khatvei Farisi mite pawlkhat in, cik ciangin Pasian' Ukna hun hong tung ding ahi hiam, ci-in Jesuh dong uh a, Jesuh in, “Pasian' Ukna pen mit tawh muhtheihin hong tunglo ding hi.
+**ZVS:** Khatvei Farisi mite pawlkhat in, cik ciangin Pasian' Ukna hun hong tung ding ahi hiam, ci-in Jesuh dong-te a, Jesuh in, “Pasian' Ukna pen mit tawh muhtheihin hong tunglo ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v22
 **EN:** And he said unto the disciples,
 
-**TDB77:** Zeisu in khatvei a nungzuite kiangah, “Note in Mihing Tapa’ hun leh nite khat na muh nop hun uh a hong tung ding hi; ahih hangin na mu kei ding uh hi.
+**TDB77:** Zeisu in khatvei a nungzuite kiangah, “Note in Mihing Tapa’ hun leh nite khat na muh nop hun-te a hong tung ding hi; ahih hangin na mu kei ding-te hi.
 
-**ZVS:** Tua ciangin Jesuh in nungzuite kiangah, “Nikhat ni ciangin Mihing Tapa nikhat sung bek nangawn na muhnop hun uh hong tung ding a, ahi zongin na mu kei ding uh hi.
+**ZVS:** Tua ciangin Jesuh in nungzuite kiangah, “Nikhat ni ciangin Mihing Tapa nikhat sung bek nangawn na muhnop hun-te hong tung ding a, ahi zongin na mu kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v37
 **EN:** And they answered and said unto him, Where, Lord? And he said unto them,
 
-**TDB77:** Amaute in, “Topa aw, koi lai takah tua bangin a piang ding hiam?” ci-in a dot uh ciangin, Zeisu in, “Sapul omna peuhah musanete zong hong kikhawm ding uh hi,” ci-in a gen hi.
+**TDB77:** Amaute in, “Topa aw, koi lai takah tua bangin a piang ding hiam?” ci-in a dot-te ciangin, Zeisu in, “Sapul omna peuhah musanete zong hong kikhawm ding-te hi,” ci-in a gen hi.
 
-**ZVS:** Tua ciangin a nungzuite in Jesuh kiangah, “Topa aw, koi laitakah tua thute hong piang ding ahi hiam?” ci-in a dot uh ciangin Jesuh in, “Sapul omna peuhah musane a om mah bangin mi omna peuhah hong piang ding hi,” ci-in a dawng hi.
+**ZVS:** Tua ciangin a nungzuite in Jesuh kiangah, “Topa aw, koi laitakah tua thute hong piang ding ahi hiam?” ci-in a dot-te ciangin Jesuh in, “Sapul omna peuhah musane a om mah bangin mi omna peuhah hong piang ding hi,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

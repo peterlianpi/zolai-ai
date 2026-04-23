@@ -45,7 +45,7 @@
 ### v3
 **EN:** For we are the circumcision, which worship God in the spirit, and rejoice in Christ Jesus, and have no confidence in the flesh.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian Kha Siangtho hangin bia a, i pumpi muang loin, Khazih Zeisu hangah lungdamna kisaktheihna bek a nei eite in, vun-atna taktak a ngah mite i hi hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian Kha Siangtho hangin bia a, i pumpi muang loin, Khazih Zeisu hangah lungdamna kisaktheihna bek a nei eite in, vun-atna taktak a ngah mite i hi hi.
 
 **ZVS:** Bang hang hiam cih leh eite in Kha Siangtho' hong huhna tawh Pasian bia-in, Jesuh Khrih tawh i kipawl manin lungdamin, a tung lama kilang vun-atna limte muan'in neilo ihih manin, amaute hiloin, eite pen vun-atna man taktak a zang mite ihi zaw hi.
 
@@ -138,7 +138,7 @@
 ### v15
 **EN:** Let us therefore, as many as be perfect, be thus minded: and if in any thing ye be otherwise minded, God shall reveal even this unto you.
 
-**TDB77:** Tua ahih ciangin a kicing eite khempeuh in tua bangin lungsim nei ciat ni. Note in na khatpeuh peuh ah na lungsim ngaihsutna uh a kibat kei leh, Pasian in tua na a hong lak ding hi.
+**TDB77:** Tua ahih ciangin a kicing eite khempeuh in tua bangin lungsim nei ciat ni. Note in na khatpeuh peuh ah na lungsim ngaihsutna-te a kibat kei leh, Pasian in tua na a hong lak ding hi.
 
 **ZVS:** Kha thu-ah a khangham eite in hihbang lungsim pua ciat ni. Hihbang lungsim a neilo i omkhak leh zong, Pasian in a kitel takin hong kilangsak ding hi.
 
@@ -154,7 +154,7 @@
 ### v17
 **EN:** Brethren, be followers together of me, and mark them which walk so as ye have us for an example.
 
-**TDB77:** Ute naute aw, kei’ gamtat mah bangin a kituakin na gamta un. Note lakah ka hong piak uh lim tawh kituakin a gamta mite zong na ciamteh un.
+**TDB77:** Ute naute aw, kei’ gamtat mah bangin a kituakin na gamta un. Note lakah ka hong piak-te lim tawh kituakin a gamta mite zong na ciamteh un.
 
 **ZVS:** Sanggamte aw, keima gamtat bangin hong gamta niloh un. Note' etteh dingin a hoihin kote hong gamta ka hih manun, kote' gamtat bangin a gamtate na etteh un.
 
@@ -163,7 +163,7 @@
 ### v18
 **EN:** (For many walk, of whom I have told you often, and now tell you even weeping, that they are the enemies of the cross of Christ:
 
-**TDB77:** Bang hang hiam na cih uh leh, nidang lai-in tam veipi kong genkhol a, tu-in zong khitui luangin ka hong gen mah bangin, Khazih’ singlamteh galin do-in a gamta mi tampi a om hi.
+**TDB77:** Bang hang hiam na cih-te leh, nidang lai-in tam veipi kong genkhol a, tu-in zong khitui luangin ka hong gen mah bangin, Khazih’ singlamteh galin do-in a gamta mi tampi a om hi.
 
 **ZVS:** Singlamteh tungah Khrih a sihna thu tawh a kilehngatin a nungta mi tampi tak a omna thu, a beisa hunah tamveipi ka hong genkhin a, tu-in zong khitui tawh ka hong genpha kikkik hi.
 
@@ -172,9 +172,9 @@
 ### v19
 **EN:** Whose end is destruction, whose god is their belly, and whose glory is in their shame, who mind earthly things.)
 
-**TDB77:** Tua mite in kisiatna-ah a tung ding uh hi, amaute’ pasian in a gilpi uh ahi hi; amaute in a maizumhuai a gamtatnate uh ah a kiphasak uh hi. Amaute in leitung nate a lunggulh uh hi.
+**TDB77:** Tua mite in kisiatna-ah a tung ding-te hi, amaute’ pasian in a gilpi-te ahi hi; amaute in a maizumhuai a gamtatnate-te ah a kiphasak-te hi. Amaute in leitung nate a lunggulh-te hi.
 
-**ZVS:** Amaute in amau pumpi deihnate Pasian zahin ngaihsun uh a, a maizumna ding uh thute-ah kisial zawsopin, leitung nate bek ngaihsutin nei uh ahih manin Hell khuksung a tung ding uh ahi hi.
+**ZVS:** Amaute in amau pumpi deihnate Pasian zahin ngaihsun-te a, a maizumna ding-te thute-ah kisial zawsopin, leitung nate bek ngaihsutin nei-te ahih manin Hell khuksung a tung ding-te ahi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

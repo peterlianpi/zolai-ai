@@ -32,9 +32,9 @@
 ### v2
 **EN:** They speak vanity every one with his neighbour: with flattering lips and with a double heart do they speak.
 
-**TDB77:** Mi kim in a vengte kiangah zuau thu gen ciat a, phat khemna kamzol leh lungsim nam nih tawh pau uh hi.
+**TDB77:** Mi kim in a vengte kiangah zuau thu gen ciat a, phat khemna kamzol leh lungsim nam nih tawh pau-te hi.
 
-**ZVS:** Mi kim in a vengte kiangah zuauthu gen ciat a, phat khemna kam zol leh lungsim nam nih tawh thu a gen uh hi.
+**ZVS:** Mi kim in a vengte kiangah zuauthu gen ciat a, phat khemna kam zol leh lungsim nam nih tawh thu a gen-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -50,7 +50,7 @@
 
 **TDB77:** Topa in, “Mizawng mi a neihsa kihawkkhia a, mi cimawh mi thuum ahih ciangin, tu’n ding-in, ama lunggulh lungmuan’na munah amah ka koih ding hi,” ci hi.
 
-**ZVS:** { Topa } in, “Mizawngte a neihsa kihawkkhia a, mi cimawhte thumin tau uh ahih ciangin tu-in dingin, amau' lunggulh, lungmuan'na munah amaute ka koih ding hi,” a ci hi.
+**ZVS:** { Topa } in, “Mizawngte a neihsa kihawkkhia a, mi cimawhte thumin tau-te ahih ciangin tu-in dingin, amau' lunggulh, lungmuan'na munah amaute ka koih ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -77,7 +77,7 @@
 
 **TDB77:** Mihing’ tate lakah siatna a kipahtawi ciangin mun khempeuhah migilote vak kawikawi hi.
 
-**ZVS:** Bang hang hiam cih leh mihingte lakah siatna kipahtawi a, mun khempeuhah migilote kidimin vak kawikawi uh hi.
+**ZVS:** Bang hang hiam cih leh mihingte lakah siatna kipahtawi a, mun khempeuhah migilote kidimin vak kawikawi-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 

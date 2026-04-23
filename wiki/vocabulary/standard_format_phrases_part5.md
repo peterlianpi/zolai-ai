@@ -125,8 +125,8 @@
   - e.g. `Tuang in laibu sim hi.`
 - `Tuang in laibu sim hi. Tua ama sim pen hoih mahmah hi.` = Tuang reads a book. He reads very well.
   - e.g. `Tuang in laibu sim hi. Tua ama sim pen hoih mahmah hi.`
-- `Laibuteng le a simte koi lam tung uh ahia?` = Where do the books and their readers belong?
-  - e.g. `Laibuteng le a simte koi lam tung uh ahia?`
+- `Laibuteng le a simte koi lam tung-te ahia?` = Where do the books and their readers belong?
+  - e.g. `Laibuteng le a simte koi lam tung-te ahia?`
 - `I mawtaw tawh na pai un.` = Go with our car.
   - e.g. `I mawtaw tawh na pai un.`
 - `Eiteng in bang i hih tam?` = What are we all doing?

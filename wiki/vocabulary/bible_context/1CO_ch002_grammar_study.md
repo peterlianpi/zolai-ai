@@ -33,7 +33,7 @@
 ### v2
 **EN:** For I determined not to know any thing among you, save Jesus Christ, and him crucified.
 
-**TDB77:** Bang hang hiam na cih uh leh, note lakah ka om lai takin Zeisu Khazih’ thu leh ama singlamteh thu longal, thudang ka ngaihsut loh nadingin ka lungsim ka hanciam hi.
+**TDB77:** Bang hang hiam na cih-te leh, note lakah ka om lai takin Zeisu Khazih’ thu leh ama singlamteh thu longal, thudang ka ngaihsut loh nadingin ka lungsim ka hanciam hi.
 
 **ZVS:** Bang hang hiam cih leh note kiangah ka om laitakin singlamteh tungah Jesuh Khrih a sihna thu simloh thudang peuhmah ngaihsutloh dingin ka ngaihsutsa ahi hi.
 
@@ -62,14 +62,14 @@
 
 **TDB77:** ka kam leh ka thuhilhna in mite’ pilna tawh kipawl zolna kam ahi kei hi; Kha Siangtho hong lahna vangliatna ahi hi.
 
-**ZVS:** Tua ahih manin note' thu upna pen mihingte' pilna hang hiloin, Pasian' vangliatna hangin a um na hi uh hi.
+**ZVS:** Tua ahih manin note' thu upna pen mihingte' pilna hang hiloin, Pasian' vangliatna hangin a um na hi-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v6
 **EN:** Howbeit we speak wisdom among them that are perfect: yet not the wisdom of this world, nor of the princes of this world, that come to nought:
 
-**TDB77:** A kicing mite kiangah pilna thu i gen hi. Ahih hangin leitung pilna thu ahi zongin, a mangthang ding hih leitung ukte’ pilna thu ahi zongin ka hilh kei uh hi.
+**TDB77:** A kicing mite kiangah pilna thu i gen hi. Ahih hangin leitung pilna thu ahi zongin, a mangthang ding hih leitung ukte’ pilna thu ahi zongin ka hilh kei-te hi.
 
 **ZVS:** Ahi zongin kha thu lamah a khangham mite tungah pilna thu ka gen hi. Tua ka gen pilna pen tu-in a maimang kuankuanta ding hih leitung mite' pilna leh vangliatna thu hilo hi.
 
@@ -78,7 +78,7 @@
 ### v7
 **EN:** But we speak the wisdom of God in a mystery, even the hidden wisdom, which God ordained before the world unto our glory:
 
-**TDB77:** Leitung pian’ ma-in eite minthan’ nadingin Pasian in a vaihawm kholh pilna ahi, Pasian’ pilna thu thukpi tawh ka hilh uh hi.
+**TDB77:** Leitung pian’ ma-in eite minthan’ nadingin Pasian in a vaihawm kholh pilna ahi, Pasian’ pilna thu thukpi tawh ka hilh-te hi.
 
 **ZVS:** Tua ka gen pilna thu pen mite' theihloh dingin Pasian in a ipcip Pasian' pilna thusim hi a, eite' minthan'na dingin leitung pian'ma pekin Pasian in a na koihsa thu ahi hi.
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** Which none of the princes of this world knew: for had they known it, they would not have crucified the Lord of glory.
 
-**TDB77:** Tua pilna pen leitung ukte khat beek in a thei kei uh hi. Thei uh hi leh, minthan’na Topa singlamteh tungah a that kei ding uh hi.
+**TDB77:** Tua pilna pen leitung ukte khat beek in a thei kei-te hi. Thei-te hi leh, minthan’na Topa singlamteh tungah a that kei ding-te hi.
 
-**ZVS:** Hih leitung a uk mite kuamah in hih pilna thu theilo uh hi. Thei hi le uh, a minthang Topa pen singlamteh tungah na thatlo ding uh hi.
+**ZVS:** Hih leitung a uk mite kuamah in hih pilna thu theilo-te hi. Thei hi le uh, a minthang Topa pen singlamteh tungah na thatlo ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -98,14 +98,14 @@
 
 **TDB77:** Lai Siangtho sungah a kigelh mah bangin: “Pasian a itte adingin Pasian bawlsate in, mittang tawh kimu lo, bil tawh kiza lo, mite’ lungsim sungah a tum lo nate ahi hi,” a ci hi.
 
-**ZVS:** Tua ahih manin Lai Siangtho sungah, “Kuamah in a muh ngeiloh, a zak ngeiloh, piangthei dingin zong a ngaihsutloh uh thu pen Pasian in amah a it mite-a' dingin a bawlkholh saksa ahi hi,” ci-in na kigelh hi.
+**ZVS:** Tua ahih manin Lai Siangtho sungah, “Kuamah in a muh ngeiloh, a zak ngeiloh, piangthei dingin zong a ngaihsutloh-te thu pen Pasian in amah a it mite-a' dingin a bawlkholh saksa ahi hi,” ci-in na kigelh hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix
 
 ### v10
 **EN:** But God hath revealed them unto us by his Spirit: for the Spirit searcheth all things, yea, the deep things of God.
 
-**TDB77:** Pasian in ama Kha Siangtho tawh tua nate eite hong lak hi. Bang ci hiam na cih uh leh, Kha Siangtho in Pasian’ thu a thukpi dongin na khempeuh a zong hi.
+**TDB77:** Pasian in ama Kha Siangtho tawh tua nate eite hong lak hi. Bang ci hiam na cih-te leh, Kha Siangtho in Pasian’ thu a thukpi dongin na khempeuh a zong hi.
 
 **ZVS:** Ahi zongin Pasian in a Kha Siangtho tawh eite tungah tua thusim a hong langsak hi. Tua Kha Siangtho in na khempeuh kankhia a, Pasian' ngimna a ki-imcip a thutawng dongtakin a kankhia hi.
 
@@ -130,18 +130,18 @@
 ### v13
 **EN:** Which things also we speak, not in the words which man's wisdom teacheth, but which the Holy Ghost teacheth; comparing spiritual things with spiritual.
 
-**TDB77:** Tua nate kote in mi pilna hong hilh kam tawh ka gen kei uh hi; Kha Siangtho in hong hilh kam tawh kha thute khamite kiangah ka gen uh hi.
+**TDB77:** Tua nate kote in mi pilna hong hilh kam tawh ka gen kei-te hi; Kha Siangtho in hong hilh kam tawh kha thute khamite kiangah ka gen-te hi.
 
-**ZVS:** Tua ahih manin hih bangin thu ka hong gen uh ciangin zong, mihingte' hong hilh pilna kamte a zang hiloin, Kha Siangtho a nei mite tungah kha tawh kisai thu ka gen uh ciangin Kha Siangtho in a hong hilh kammalte zangin a gen ka hi uh hi.
+**ZVS:** Tua ahih manin hih bangin thu ka hong gen-te ciangin zong, mihingte' hong hilh pilna kamte a zang hiloin, Kha Siangtho a nei mite tungah kha tawh kisai thu ka gen-te ciangin Kha Siangtho in a hong hilh kammalte zangin a gen ka hi-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** But the natural man receiveth not the things of the Spirit of God: for they are foolishness unto him: neither can he know them, because they are spiritually discerned.
 
-**TDB77:** Kha Siangtho a nei lo mi in Pasian’ Kha Siangtho’ thute a mang kei hi. Bang hang hiam na cih uh leh, tuate haina a sa a, tua thute Kha Siangtho bek tawh kikhentel thei ahih ciangin amah in a thei zo kei hi.
+**TDB77:** Kha Siangtho a nei lo mi in Pasian’ Kha Siangtho’ thute a mang kei hi. Bang hang hiam na cih-te leh, tuate haina a sa a, tua thute Kha Siangtho bek tawh kikhentel thei ahih ciangin amah in a thei zo kei hi.
 
-**ZVS:** Ahi zongin Kha Siangtho a neilo mite in Pasian' Kha Siangtho in a hong piak nate sang theilo uh hi. Kha Siangtho a nei mite bek in theithei uh ahih manin amaute in tel theilo uh a, amau-a' dingin a haihuai thu khat ahi lel hi.
+**ZVS:** Ahi zongin Kha Siangtho a neilo mite in Pasian' Kha Siangtho in a hong piak nate sang theilo-te hi. Kha Siangtho a nei mite bek in theithei-te ahih manin amaute in tel theilo-te a, amau-a' dingin a haihuai thu khat ahi lel hi.
 
 **Grammar:** negation: kei | negation: lo | reciprocal: ki- prefix
 
@@ -150,7 +150,7 @@
 
 **TDB77:** Kha Siangtho a nei mi in na khempeuh khen thei a, amah ahih leh kuamah in a khen thei kei hi.
 
-**ZVS:** Kha Siangtho a nei mite in na khempeuh theithei uh a, ahi zongin leitung mite in bangmah theilo uh ahih manin a lungmang uh hi.
+**ZVS:** Kha Siangtho a nei mite in na khempeuh theithei-te a, ahi zongin leitung mite in bangmah theilo-te ahih manin a lungmang-te hi.
 
 **Grammar:** negation: kei
 

@@ -1,0 +1,6 @@
+# Linguistics/Zolai/bible-master/json/judson1835.json
+
+Full-text export split into parts for reliability.
+
+## Parts
+- `part-0001.md`

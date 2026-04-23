@@ -41,9 +41,9 @@
 ### v3
 **EN:** Therefore shall the strong people glorify thee, the city of the terrible nations shall fear thee.
 
-**TDB77:** Tua ahih ciangin mi thahatte in nang hong minthang sak ding a, thukhual lo minamte’ khuapite in nang hong zahtak ding uh hi.
+**TDB77:** Tua ahih ciangin mi thahatte in nang hong minthang sak ding a, thukhual lo minamte’ khuapite in nang hong zahtak ding-te hi.
 
-**ZVS:** Tua ahih ciangin mi thahatte in nangma min hong thangsak ding a, thukhuallo minamte' khuapite in nang hong zahtak ding uh hi.
+**ZVS:** Tua ahih ciangin mi thahatte in nangma min hong thangsak ding a, thukhuallo minamte' khuapite in nang hong zahtak ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -77,7 +77,7 @@
 ### v7
 **EN:** And he will destroy in this mountain the face of the covering cast over all people, and the veil that is spread over all nations.
 
-**TDB77:** Amah in, mi khempeuh in a khuk uh dahna puan leh minam khempeuh’ silh dahna puante, hih mual tungah susia ding hi.
+**TDB77:** Amah in, mi khempeuh in a khuk-te dahna puan leh minam khempeuh’ silh dahna puante, hih mual tungah susia ding hi.
 
 **ZVS:** Amah in mi khempeuh' khuk dahna puan leh minam khempeuh' silh dahna puante, hih mual tungah susia ding hi.
 
@@ -113,9 +113,9 @@
 ### v11
 **EN:** And he shall spread forth his hands in the midst of them, as he that swimmeth spreadeth forth his hands to swim: and he shall bring down their pride together with the spoils of their hands.
 
-**TDB77:** Tuipeekpa in tuipeek dingin a khutte a van bangin amaute in a khut uh vanvan ding uh a, ahih hangin a khut uh a van simin a kiphatsaknate uh Pasian in niamsuk sak ding hi.
+**TDB77:** Tuipeekpa in tuipeek dingin a khutte a van bangin amaute in a khut-te vanvan ding-te a, ahih hangin a khut-te a van simin a kiphatsaknate-te Pasian in niamsuk sak ding hi.
 
-**ZVS:** Tuipeekpa in tui peek dingin a khutte a van bangin amaute in a khut uh vanvan ding uh a, ahih hangin a khut uh a van simin a kiphatsaknate uh a khut uh tawh bengtumsuk ding uh hi.
+**ZVS:** Tuipeekpa in tui peek dingin a khutte a van bangin amaute in a khut-te vanvan ding-te a, ahih hangin a khut-te a van simin a kiphatsaknate-te a khut-te tawh bengtumsuk ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

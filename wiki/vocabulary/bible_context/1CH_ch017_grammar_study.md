@@ -99,7 +99,7 @@
 ### v10
 **EN:** And since the time that I commanded judges to be over my people Israel. Moreover I will subdue all thine enemies. Furthermore I tell thee that the
 
-**TDB77:** Amau' inn ciatah a ten' theihna ding leh a kinawngkaisak nawnlohna dingin ka mi Israel-te-a' dingin mun khat sehin amaute ka phut ding hi. Ka mi Israel-te tungah thukhente ka seh-a kipanin a nidanga bangin mi ngongtatte in amaute beisak nawnlo ding uh hi. Tua ciangin keimah in na galte khempeuh ka nuaisiah ding hi. Tua thamloin { Topa } keimah in nang a lianin hong bawlin, suanlekhak na neihna ding thu nang tungah kong gen hi.
+**TDB77:** Amau' inn ciatah a ten' theihna ding leh a kinawngkaisak nawnlohna dingin ka mi Israel-te-a' dingin mun khat sehin amaute ka phut ding hi. Ka mi Israel-te tungah thukhente ka seh-a kipanin a nidanga bangin mi ngongtatte in amaute beisak nawnlo ding-te hi. Tua ciangin keimah in na galte khempeuh ka nuaisiah ding hi. Tua thamloin { Topa } keimah in nang a lianin hong bawlin, suanlekhak na neihna ding thu nang tungah kong gen hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -183,9 +183,9 @@
 ### v20
 **EN:** O
 
-**TDB77:** Ka bil-un ka zakna uh tawh kizui-in Topa aw, nangmah tawh a kibang kuamah om lo a, nang simloh Pasian om lo hi.
+**TDB77:** Ka bil-un ka zakna-te tawh kizui-in Topa aw, nangmah tawh a kibang kuamah om lo a, nang simloh Pasian om lo hi.
 
-**ZVS:** Ka bilun ka zakna uh tawh kizui-in { Topa } aw, nangmah tawh a kibang kuamah omlo a, nang simloh Pasian dang omlo hi.
+**ZVS:** Ka bilun ka zakna-te tawh kizui-in { Topa } aw, nangmah tawh a kibang kuamah omlo a, nang simloh Pasian dang omlo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix
 

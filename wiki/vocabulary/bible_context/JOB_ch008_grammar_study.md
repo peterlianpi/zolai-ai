@@ -194,9 +194,9 @@
 ### v22
 **EN:** They that hate thee shall be clothed with shame; and the dwelling place of the wicked shall come to nought.
 
-**TDB77:** Nang hong mudahte in maizumna ngah ding uh a, migilote’ puanbuk maimang ding hi,” a ci hi.
+**TDB77:** Nang hong mudahte in maizumna ngah ding-te a, migilote’ puanbuk maimang ding hi,” a ci hi.
 
-**ZVS:** Nang hong mudahte in maizumna ngah ding uh a, migilote' puanbuk maimang ding hi,” a ci hi.
+**ZVS:** Nang hong mudahte in maizumna ngah ding-te a, migilote' puanbuk maimang ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

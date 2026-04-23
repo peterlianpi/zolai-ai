@@ -60,9 +60,9 @@
 ### v6
 **EN:** Surely every man walketh in a vain shew: surely they are disquieted in vain: he heapeth up riches, and knoweth not who shall gather them.
 
-**TDB77:** Ni liim bangin mihing pai kawikawi takpi hi. A mawkna-in amau lungkham takpi uh a, kua in ngah ding cih thei lopi-in mite in nate khol hi.
+**TDB77:** Ni liim bangin mihing pai kawikawi takpi hi. A mawkna-in amau lungkham takpi-te a, kua in ngah ding cih thei lopi-in mite in nate khol hi.
 
-**ZVS:** Niliim bangin mihing pai kawikawi takpi hi. A mawkna-in amau lungkham takpi uh a, kua' ngah ding cih theilopi-in mite in na a khol uh hi.
+**ZVS:** Niliim bangin mihing pai kawikawi takpi hi. A mawkna-in amau lungkham takpi-te a, kua' ngah ding cih theilopi-in mite in na a khol-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

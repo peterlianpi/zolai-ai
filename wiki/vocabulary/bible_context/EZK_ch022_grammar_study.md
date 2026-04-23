@@ -65,14 +65,14 @@
 
 **TDB77:** A nai, a gamla-a om mi khempeuh in na gamtat hoih lohna hangin nang hong simmawh hi.
 
-**ZVS:** A nai, a gamla-ah a om mi khempeuh in na gamtat hoihlohna hangin nang hong simmawh uh hi.
+**ZVS:** A nai, a gamla-ah a om mi khempeuh in na gamtat hoihlohna hangin nang hong simmawh-te hi.
 
 ### v6
 **EN:** Behold, the princes of Israel, every one were in thee to their power to shed blood.
 
-**TDB77:** Na sunga om Israel ulian khempeuh in amau’ thatang muang uh a, mi that uh hi.
+**TDB77:** Na sunga om Israel ulian khempeuh in amau’ thatang muang-te a, mi that-te hi.
 
-**ZVS:** Na sunga om Israel ulian khempeuh in amau' thatang muang uh a, mi that uh hi.
+**ZVS:** Na sunga om Israel ulian khempeuh in amau' thatang muang-te a, mi that-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -88,7 +88,7 @@
 ### v8
 **EN:** Thou hast despised mine holy things, and hast profaned my sabbaths.
 
-**TDB77:** Mun siangthote zong zahtakna mel kinei loin, sabbathte zong kitang lo hi. Mi pawlkhat te in midangte a sih theih nadingin zuau thu phuak uh hi.
+**TDB77:** Mun siangthote zong zahtakna mel kinei loin, sabbathte zong kitang lo hi. Mi pawlkhat te in midangte a sih theih nadingin zuau thu phuak-te hi.
 
 **ZVS:** Mun siangthote zong zahtakna mel kinei loin, Sabbath-te zong kitanglo hi.
 
@@ -97,36 +97,36 @@
 ### v9
 **EN:** In thee are men that carry tales to shed blood: and in thee they eat upon the mountains: in the midst of thee they commit lewdness.
 
-**TDB77:** Mi pawlkhat in milim biakna sa ne uh hi. Pawl khatte in amau’ lanna tawh kizui-in gamta tawntung hi.
+**TDB77:** Mi pawlkhat in milim biakna sa ne-te hi. Pawl khatte in amau’ lanna tawh kizui-in gamta tawntung hi.
 
-**ZVS:** Mi pawlkhatte in midangte a sih theihna dingin zuauthu phuak uh hi. Mi pawlkhat in milim biakna sa ne uh hi. Pawlkhatte amau' lanna tawh kizui-in gamta tawntung hi.
+**ZVS:** Mi pawlkhatte in midangte a sih theihna dingin zuauthu phuak-te hi. Mi pawlkhat in milim biakna sa ne-te hi. Pawlkhatte amau' lanna tawh kizui-in gamta tawntung hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** In thee have they discovered their fathers' nakedness: in thee have they humbled her that was set apart for pollution.
 
-**TDB77:** Pawl khatte in a pa’ zi mawhpih uh a, pawl khatte in numei nin nei kimlaipi buan uh hi.
+**TDB77:** Pawl khatte in a pa’ zi mawhpih-te a, pawl khatte in numei nin nei kimlaipi buan-te hi.
 
-**ZVS:** Pawlkhatte in a pa' zi mawhpih uh a, pawlkhatte in numei ninnei kimlaipi buan uh hi.
+**ZVS:** Pawlkhatte in a pa' zi mawhpih-te a, pawlkhatte in numei ninnei kimlaipi buan-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And one hath committed abomination with his neighbour's wife; and another hath lewdly defiled his daughter in law; and another in thee hath humbled his sister, his father's daughter.
 
-**TDB77:** Pawlkhat in midangte’ zi tawh nu-le-pa mawhna bawl uh a, pawlkhat in a mote mawhpihin, pawlkhat in a sanggamnu ahi a pa’ tanu mawhpih hi.
+**TDB77:** Pawlkhat in midangte’ zi tawh nu-le-pa mawhna bawl-te a, pawlkhat in a mote mawhpihin, pawlkhat in a sanggamnu ahi a pa’ tanu mawhpih hi.
 
-**ZVS:** Pawlkhat in midangte' zi tawh nulepa mawhna bawl uh a, pawlkhat in a mote mawhpihin, pawlkhat in a sanggamnu ahi a pa' tanu mawhpih hi.
+**ZVS:** Pawlkhat in midangte' zi tawh nulepa mawhna bawl-te a, pawlkhat in a mote mawhpihin, pawlkhat in a sanggamnu ahi a pa' tanu mawhpih hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** In thee have they taken gifts to shed blood; thou hast taken usury and increase, and thou hast greedily gained of thy neighbours by extortion, and hast forgotten me, saith the Lord
 
-**TDB77:** Pawlkhat in sum deih manin mi that uh hi. Pawl khatte in a Israel mipih sum leitawi late tungah nuamtak sa-in a met lakna tawh hauh lawh uh hi. Amaute in kei hong mangngilh uh hi, Topa Pasian in ci hi.
+**TDB77:** Pawlkhat in sum deih manin mi that-te hi. Pawl khatte in a Israel mipih sum leitawi late tungah nuamtak sa-in a met lakna tawh hauh lawh-te hi. Amaute in kei hong mangngilh-te hi, Topa Pasian in ci hi.
 
-**ZVS:** Pawlkhat in sum deih manin mi that uh hi. Pawlkhatte in a Israel mipih sum leitawi a late tungah nuamtak sa-in a meet lakna tawh hauhlawh uh hi. Amaute in kei hong mangngilh uh hi, Topa { Pasian } in ci hi.
+**ZVS:** Pawlkhat in sum deih manin mi that-te hi. Pawlkhatte in a Israel mipih sum leitawi a late tungah nuamtak sa-in a meet lakna tawh hauhlawh-te hi. Amaute in kei hong mangngilh-te hi, Topa { Pasian } in ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | plural: uh marker
 
@@ -178,16 +178,16 @@
 
 **TDB77:** “Ezekiel aw, kei adingin Israel mite a kiman’na om nawn lo hi. Amaute pen, sumngo, dal, sik, hak, leh ngun a kihel khawm sung panin meikhuk sungah kihalin a ngun teng a kilak khit ciangin a om lai ngun-ek tawh kibang hi.
 
-**ZVS:** “Mihing ahi Ezekiel aw, kei-a' dingin Israel mite a kiman'na om nawnlo hi. Amaute pen sumngo, dal, sik, hak, leh ngun a kihelkhawm sung panin meikhuk sungah kihalin a ngunteng a kilak khit ciangin a omlai ngun-ek tawh kibang uh hi.
+**ZVS:** “Mihing ahi Ezekiel aw, kei-a' dingin Israel mite a kiman'na om nawnlo hi. Amaute pen sumngo, dal, sik, hak, leh ngun a kihelkhawm sung panin meikhuk sungah kihalin a ngunteng a kilak khit ciangin a omlai ngun-ek tawh kibang-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix
 
 ### v19
 **EN:** Therefore thus saith the Lord
 
-**TDB77:** Tua ahih ciangin Topa Pasian ahi keimah in ka gen in-ah: Note in tua ngun-ek bangin na kiman’na uh om nawn lo ahih manin Jerusalem ah kong kaikhawm ding hi.
+**TDB77:** Tua ahih ciangin Topa Pasian ahi keimah in ka gen in-ah: Note in tua ngun-ek bangin na kiman’na-te om nawn lo ahih manin Jerusalem ah kong kaikhawm ding hi.
 
-**ZVS:** Tua ahih ciangin Topa { Pasian } ahi keimah in ka genin-ah: Note, tua ngun-ek bangin na kiman'na uh om nawnlo ahih manin Jerusalem-ah kong kaikhawm ding hi.
+**ZVS:** Tua ahih ciangin Topa { Pasian } ahi keimah in ka genin-ah: Note, tua ngun-ek bangin na kiman'na-te om nawnlo ahih manin Jerusalem-ah kong kaikhawm ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | causal: because | reciprocal: ki- prefix
 
@@ -212,9 +212,9 @@
 ### v22
 **EN:** As silver is melted in the midst of the furnace, so shall ye be melted in the midst thereof; and ye shall know that I the
 
-**TDB77:** Meiphual sungah ngunte a kituisak bangin Jerusalem ah note hong kibawl ding hi. Tua ciangin keima hehna a thuak na hih lam uh na thei ding uh hi,” hong ci hi.
+**TDB77:** Meiphual sungah ngunte a kituisak bangin Jerusalem ah note hong kibawl ding hi. Tua ciangin keima hehna a thuak na hih lam-te na thei ding-te hi,” hong ci hi.
 
-**ZVS:** Meiphual sungah ngunte a kituisak bangin Jerusalem-ah note hong kibawl ding hi. Tua ciangin keima hehna a thuak na hihlam uh na thei ding uh hi,” a hong ci hi.
+**ZVS:** Meiphual sungah ngunte a kituisak bangin Jerusalem-ah note hong kibawl ding hi. Tua ciangin keima hehna a thuak na hihlam-te na thei ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -228,54 +228,54 @@
 ### v24
 **EN:** Son of man, say unto her, Thou art the land that is not cleansed, nor rained upon in the day of indignation.
 
-**TDB77:** “Ezekiel aw, Israel mite pen, ka hehna hangin puah loin, a tungah guah ka zuksak lohna leitang tawh a kibatna uh amaute kiangah gen in.
+**TDB77:** “Ezekiel aw, Israel mite pen, ka hehna hangin puah loin, a tungah guah ka zuksak lohna leitang tawh a kibatna-te amaute kiangah gen in.
 
-**ZVS:** “Mihing ahi Ezekiel aw, Israel mite pen ka hehna hangin puahloin, a tungah guah ka zuksaklohna leitang tawh a kibatna uh amaute kiangah gen in.
+**ZVS:** “Mihing ahi Ezekiel aw, Israel mite pen ka hehna hangin puahloin, a tungah guah ka zuksaklohna leitang tawh a kibatna-te amaute kiangah gen in.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v25
 **EN:** There is a conspiracy of her prophets in the midst thereof, like a roaring lion ravening the prey; they have devoured souls; they have taken the treasure and precious things; they have made her many widows in the midst thereof.
 
-**TDB77:** A uliante uh pen ganhing a that humpinelkai hawk tawh kibang uh hi. Amaute in mi thatin, a sum leh a neihsa khempeuh laksak uh a, a mi thahna hangun numei tampi tak meigong suaksak uh hi.
+**TDB77:** A uliante-te pen ganhing a that humpinelkai hawk tawh kibang-te hi. Amaute in mi thatin, a sum leh a neihsa khempeuh laksak-te a, a mi thahna hangun numei tampi tak meigong suaksak-te hi.
 
-**ZVS:** A uliante uh, ganhing a that humpinelkai hawk tawh kibang uh hi. Amaute in mi thatin, a sum leh a neihsa khempeuh laksak uh a, a mi thahna hangun numei tampi tak meigong suaksak uh hi.
+**ZVS:** A uliante uh, ganhing a that humpinelkai hawk tawh kibang-te hi. Amaute in mi thatin, a sum leh a neihsa khempeuh laksak-te a, a mi thahna hangun numei tampi tak meigong suaksak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** Her priests have violated my law, and have profaned mine holy things: they have put no difference between the holy and profane, neither have they shewed difference between the unclean and the clean, and have hid their eyes from my sabbaths, and I am profaned among them.
 
-**TDB77:** A siampite un ka thukham palsatin, a siangtho biakna nate ninsak uh hi. A siangtho biakna nate leh a mawkmawk nate khenna mel nei lo uh a, a tate uh tungah a siang leh a nin a kilamdan’na zong hilh lo uh hi. Sabbathte zong donin nei lo uh hi. Tuate khempeuh hangin Israel mite in kei hong zahtak lo uh hi.
+**TDB77:** A siampite un ka thukham palsatin, a siangtho biakna nate ninsak-te hi. A siangtho biakna nate leh a mawkmawk nate khenna mel nei lo-te a, a tate-te tungah a siang leh a nin a kilamdan’na zong hilh lo-te hi. Sabbathte zong donin nei lo-te hi. Tuate khempeuh hangin Israel mite in kei hong zahtak lo-te hi.
 
-**ZVS:** A siampite un ka thukham palsatin, a siangtho biakna nate ninsak uh hi. A siangtho biakna nate leh a mawkmawk nate khenna mel neilo uh a, a tate uh tungah a siang leh a nin a kilamdan'na zong hilhlo uh hi. Sabbath-te zong donin neilo uh hi. Tuate khempeuh hangin Israel mite in kei hong zahtaklo uh hi.
+**ZVS:** A siampite un ka thukham palsatin, a siangtho biakna nate ninsak-te hi. A siangtho biakna nate leh a mawkmawk nate khenna mel neilo-te a, a tate-te tungah a siang leh a nin a kilamdan'na zong hilhlo-te hi. Sabbath-te zong donin neilo-te hi. Tuate khempeuh hangin Israel mite in kei hong zahtaklo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** Her princes in the midst thereof are like wolves ravening the prey, to shed blood, and to destroy souls, to get dishonest gain.
 
-**TDB77:** A kumpi uliante uh pen a samatsa uh a bal gawpgawp ngia hon tawh kibang hi. Sum ngah theihna dingin mi that uh hi.
+**TDB77:** A kumpi uliante-te pen a samatsa-te a bal gawpgawp ngia hon tawh kibang hi. Sum ngah theihna dingin mi that-te hi.
 
-**ZVS:** A kumpi uliante uh, a sa matsa uh a balgawpgawp ngiahon tawh kibang uh hi. Sum ngahtheihna dingin mi that uh hi.
+**ZVS:** A kumpi uliante uh, a sa matsa-te a balgawpgawp ngiahon tawh kibang-te hi. Sum ngahtheihna dingin mi that-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** And her prophets have daubed them with untempered mortar, seeing vanity, and divining lies unto them, saying, Thus saith the Lord
 
-**TDB77:** Kulh nin kimlai leikang tui tawh a kizut kaang bangin a kamsangte un hih bang mawhnate iimcip uh hi. A man lopi maang mu uh a, a man lopi-in mailam thu gen uh hi. Topa ahi keimah in amaute tungah thu gen lo napi-in, Topa Pasian in hih bangin thu gen hi, ci-in zuau phuakin mite tungah thu gen uh hi.
+**TDB77:** Kulh nin kimlai leikang tui tawh a kizut kaang bangin a kamsangte un hih bang mawhnate iimcip-te hi. A man lopi maang mu-te a, a man lopi-in mailam thu gen-te hi. Topa ahi keimah in amaute tungah thu gen lo napi-in, Topa Pasian in hih bangin thu gen hi, ci-in zuau phuakin mite tungah thu gen-te hi.
 
-**ZVS:** Kulh nin kimlai leikang tui tawh a kizut kang bangin a kamsangte un hih bang mawhnate imcip uh hi. A manlopi maang mu uh a, a manlopi-in mailam thu gen uh hi. { Topa } ahi keimah in amaute tungah thu genlo napi-in, Topa { Pasian } in hih bangin thu gen hi, ci-in zuau phuakin mite tungah thu gen uh hi.
+**ZVS:** Kulh nin kimlai leikang tui tawh a kizut kang bangin a kamsangte un hih bang mawhnate imcip-te hi. A manlopi maang mu-te a, a manlopi-in mailam thu gen-te hi. { Topa } ahi keimah in amaute tungah thu genlo napi-in, Topa { Pasian } in hih bangin thu gen hi, ci-in zuau phuakin mite tungah thu gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** The people of the land have used oppression, and exercised robbery, and have vexed the poor and needy: yea, they have oppressed the stranger wrongfully.
 
-**TDB77:** Mi cithei-a kineite in mi khemin a na sut uh hi. Mizawng mi cimawhte bawlsia-in, peemtate tungah nuamtak sa-in khualna mel nei loin a ut ut-un gamta uh hi.
+**TDB77:** Mi cithei-a kineite in mi khemin a na sut-te hi. Mizawng mi cimawhte bawlsia-in, peemtate tungah nuamtak sa-in khualna mel nei loin a ut ut-un gamta-te hi.
 
-**ZVS:** Mi cithei-a kineite in mi khemin a na sut uh hi. Mizawng mi cimawhte bawlsia-in, pemtate tungah nuamtak sa-in khualna mel neiloin a ut utun gamta uh hi.
+**ZVS:** Mi cithei-a kineite in mi khemin a na sut-te hi. Mizawng mi cimawhte bawlsia-in, pemtate tungah nuamtak sa-in khualna mel neiloin a ut utun gamta-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

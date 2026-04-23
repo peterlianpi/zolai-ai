@@ -21,9 +21,9 @@
 ### v1
 **EN:** Unto thee, O God, do we give thanks, unto thee do we give thanks: for that thy name is near thy wondrous works declare.
 
-**TDB77:** Pasian aw, nangma tungah ka lungdam uh hi; nangma tungah ka lungdam uh hi; nangma liatna thu ka gen uh a, a lamdang na bawlnate ka sut kikkik uh hi.
+**TDB77:** Pasian aw, nangma tungah ka lungdam-te hi; nangma tungah ka lungdam-te hi; nangma liatna thu ka gen-te a, a lamdang na bawlnate ka sut kikkik-te hi.
 
-**ZVS:** Pasian aw, nangma tungah ka lungdam mahmah uh a, nangma tungah ka nuam mahmah uh hi. Nangma liatna thu ka gen uh a, a lamdang na bawlnate ka sut kikkik uh hi.
+**ZVS:** Pasian aw, nangma tungah ka lungdam mahmah-te a, nangma tungah ka nuam mahmah-te hi. Nangma liatna thu ka gen-te a, a lamdang na bawlnate ka sut kikkik-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -82,9 +82,9 @@
 ### v8
 **EN:** For in the hand of the
 
-**TDB77:** Bang hang hiam cih leh Topa khut sungah leenggahzu a phuan, a kihelkim ngiingei hai khat om a, amah in tua sung panin hong bungkhia dinga, leitung migilote khempeuh in a tawdat dong takin liaktum ding uh hi.
+**TDB77:** Bang hang hiam cih leh Topa khut sungah leenggahzu a phuan, a kihelkim ngiingei hai khat om a, amah in tua sung panin hong bungkhia dinga, leitung migilote khempeuh in a tawdat dong takin liaktum ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh { Topa' } khutsungah leenggahzu a phuan, a kihelkim ngiingei hai khat om a, amah in tua sung panin hong bungkhia ding a, leitung migilo khempeuh in a tawdat dong takin a liaktum ding uh hi.
+**ZVS:** Bang hang hiam cih leh { Topa' } khutsungah leenggahzu a phuan, a kihelkim ngiingei hai khat om a, amah in tua sung panin hong bungkhia ding a, leitung migilo khempeuh in a tawdat dong takin a liaktum ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

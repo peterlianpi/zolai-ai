@@ -76,9 +76,9 @@
 ### v7
 **EN:** And I Daniel alone saw the vision: for the men that were with me saw not the vision; but a great quaking fell upon them, so that they fled to hide themselves.
 
-**TDB77:** Tua mangmuhna keimah bekin ka mu hi. Ka gei-a om mi dangte in bangmah a mu kei uh hi. Ahih hangin lau-in taimangin a bu uh hi.
+**TDB77:** Tua mangmuhna keimah bekin ka mu hi. Ka gei-a om mi dangte in bangmah a mu kei-te hi. Ahih hangin lau-in taimangin a bu-te hi.
 
-**ZVS:** Tua maangmuhna keimah bek in ka mu hi. Ka gei-a om midangte in bangmah a mu kei uh hi. Amaute lau uh ahih manin taimangin a bu uh hi.
+**ZVS:** Tua maangmuhna keimah bek in ka mu hi. Ka gei-a om midangte in bangmah a mu kei-te hi. Amaute lau-te ahih manin taimangin a bu-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | plural: uh marker
 
@@ -87,7 +87,7 @@
 
 **TDB77:** Kei guak bek hong kinusia ahih manin tua a lamdang mangmuhna keimah guak bek mah in ka mu hi. Ka tha neih teng bei khin a, ka mel kikhel gawp ahih manin ka cimawh hi.
 
-**ZVS:** Kei guak bek hong kinusia ahih manin tua a lamdang maangmuhna keimah guak bek mah in ka mu hi. Ka thaneihteng beikhin a, ka mel kikhelgawp ahih manin kei ka hihlam mel kuamah in a hong thei nawn kei uh hi.
+**ZVS:** Kei guak bek hong kinusia ahih manin tua a lamdang maangmuhna keimah guak bek mah in ka mu hi. Ka thaneihteng beikhin a, ka mel kikhelgawp ahih manin kei ka hihlam mel kuamah in a hong thei nawn kei-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix
 

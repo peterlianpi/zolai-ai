@@ -25,9 +25,9 @@
 ### v1
 **EN:** Who is as the wise man? and who knoweth the interpretation of a thing? a man's wisdom maketh his face to shine, and the boldness of his face shall be changed.
 
-**TDB77:** Mipilte bek in na akhiatna taktak theithei uh hi. Pilna in mipilte maitaisak a, a hehmai bei sak hi.
+**TDB77:** Mipilte bek in na akhiatna taktak theithei-te hi. Pilna in mipilte maitaisak a, a hehmai bei sak hi.
 
-**ZVS:** Mipilte bek in na a khiatna taktak theithei uh hi. Pilna in mipilte maitaisak a, a hehmai a beisak hi.
+**ZVS:** Mipilte bek in na a khiatna taktak theithei-te hi. Pilna in mipilte maitaisak a, a hehmai a beisak hi.
 
 **Grammar:** plural: uh marker
 
@@ -59,9 +59,9 @@
 ### v5
 **EN:** Whoso keepeth the commandment shall feel no evil thing: and a wise man's heart discerneth both time and judgment.
 
-**TDB77:** Ama thu a mangte in haksakna tuak kha lo ding hi; mipilte in a gamtat nading zia leh a hun hoih thei uh hi.
+**TDB77:** Ama thu a mangte in haksakna tuak kha lo ding hi; mipilte in a gamtat nading zia leh a hun hoih thei-te hi.
 
-**ZVS:** Ama thu a mangte in haksatna tuakkha lo ding hi. Mipilte in a gamtatna zia leh a hun hoih thei uh hi.
+**ZVS:** Ama thu a mangte in haksatna tuakkha lo ding hi. Mipilte in a gamtatna zia leh a hun hoih thei-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -102,18 +102,18 @@
 ### v10
 **EN:** And so I saw the wicked buried, who had come and gone from the place of the holy, and they were forgotten in the city where they had so done: this is also vanity.
 
-**TDB77:** Migilote si-in kivui a, a siat gamtatna khua sunga mite mah in han panin a ciah ciangun amah a phat vevena uh ka mu hi.
+**TDB77:** Migilote si-in kivui a, a siat gamtatna khua sunga mite mah in han panin a ciah ciangun amah a phat vevena-te ka mu hi.
 
-**ZVS:** Migilote si-in kivui a, a siat gamtatna khuasunga om mite mah in han panin a ciah ciangun amah a phat vevena uh ka mu hi.
+**ZVS:** Migilote si-in kivui a, a siat gamtatna khuasunga om mite mah in han panin a ciah ciangun amah a phat vevena-te ka mu hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v11
 **EN:** Because sentence against an evil work is not executed speedily, therefore the heart of the sons of men is fully set in them to do evil.
 
-**TDB77:** A mawhte kidaantat pahpah lo ahih manin, mihingte in khialh ding haksa sa lo uh hi.
+**TDB77:** A mawhte kidaantat pahpah lo ahih manin, mihingte in khialh ding haksa sa lo-te hi.
 
-**ZVS:** A mawhte gim kipia pahpahlo ahih manin mihingte in khialhding haksa salo uh hi.
+**ZVS:** A mawhte gim kipia pahpahlo ahih manin mihingte in khialhding haksa salo-te hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -129,18 +129,18 @@
 ### v13
 **EN:** But it shall not be well with the wicked, neither shall he prolong his days, which are as a shadow; because he feareth not before God.
 
-**TDB77:** Migilote’ adingin, thu nuam lo ding a, amaute in Pasian zahtak lo uh ahih manin, a nuntak hun uh nilim bangin bei pak ding a, khan’sih ding uh hi,” kici hi.
+**TDB77:** Migilote’ adingin, thu nuam lo ding a, amaute in Pasian zahtak lo-te ahih manin, a nuntak hun-te nilim bangin bei pak ding a, khan’sih ding-te hi,” kici hi.
 
-**ZVS:** Migilote-a' dingin thu nuamlo ding a, amaute in Pasian zahtaklo uh ahih manin a nuntak hun uh nilim bangin beipak ding a, khan'sih ding uh hi,” kici hi.
+**ZVS:** Migilote-a' dingin thu nuamlo ding a, amaute in Pasian zahtaklo-te ahih manin a nuntak hun-te nilim bangin beipak ding a, khan'sih ding-te hi,” kici hi.
 
 **Grammar:** purpose: in order to | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** There is a vanity which is done upon the earth; that there be just men, unto whom it happeneth according to the work of the wicked; again, there be wicked men, to whom it happeneth according to the work of the righteous: I said that this also is vanity.
 
-**TDB77:** Ahi zongin hih thugenna a mawknapi ahi hi. Leitunga thupiangte ngaihsun dih in: khatveivei midikte’ in migilote’ daantuah ding teng tuak zawsop a, migilote in midikte’ thaman ngah ding teng ngah zawsop uh hi. Hih thu in a hai vai, a mawkna taktak ahi hi.
+**TDB77:** Ahi zongin hih thugenna a mawknapi ahi hi. Leitunga thupiangte ngaihsun dih in: khatveivei midikte’ in migilote’ daantuah ding teng tuak zawsop a, migilote in midikte’ thaman ngah ding teng ngah zawsop-te hi. Hih thu in a hai vai, a mawkna taktak ahi hi.
 
-**ZVS:** Ahi zongin hih thugenna a mawknapi ahi hi. Leitunga thupiangte ngaihsun dih in: Khat veivei midikte in migilote' gimthuak dingteng thuak zawsop a, migilote in midikte' thaman ngah dingteng ngah zawsop uh hi. Hih thu pen a haivai, a mawkna taktak ahi hi.
+**ZVS:** Ahi zongin hih thugenna a mawknapi ahi hi. Leitunga thupiangte ngaihsun dih in: Khat veivei midikte in migilote' gimthuak dingteng thuak zawsop a, migilote in midikte' thaman ngah dingteng ngah zawsop-te hi. Hih thu pen a haivai, a mawkna taktak ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -163,9 +163,9 @@
 ### v17
 **EN:** Then I beheld all the work of God, that a man cannot find out the work that is done under the sun: because though a man labour to seek it out, yet he shall not find it; yea further; though a wise man think to know it, yet shall he not be able to find it.
 
-**TDB77:** Pasian’ nasepna i theih zawh lohna ka phawk hi. Mihingte in bangzahin i hahkat hangin kithei khia zo lo hi. Mipilte in thei a kisak hangun, bangmah thei lo uh hi.
+**TDB77:** Pasian’ nasepna i theih zawh lohna ka phawk hi. Mihingte in bangzahin i hahkat hangin kithei khia zo lo hi. Mipilte in thei a kisak hangun, bangmah thei lo-te hi.
 
-**ZVS:** Pasian' nasepna i theihzawh lohna ka phawk hi. Mihingte in bangzahin i hahkat hangin kitheikhia zolo hi. Mipilte in thei a kisak hangun bangmah theilo uh hi.
+**ZVS:** Pasian' nasepna i theihzawh lohna ka phawk hi. Mihingte in bangzahin i hahkat hangin kitheikhia zolo hi. Mipilte in thei a kisak hangun bangmah theilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 

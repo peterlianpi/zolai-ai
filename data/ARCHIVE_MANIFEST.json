@@ -1,0 +1,65 @@
+{
+  "archive_extraction": {
+    "timestamp": "2026-04-16T14:28:00Z",
+    "status": "EXTRACTED",
+    "training_versions": {
+      "extracted": [
+        {
+          "name": "archive_combined_master.jsonl",
+          "source": "combine mater.jsonl",
+          "size_mb": 760.6,
+          "records": 4372900,
+          "description": "Largest combined training set"
+        },
+        {
+          "name": "archive_all_sources_v1.jsonl",
+          "source": "all_sources_combined.jsonl",
+          "size_mb": 578.6,
+          "records": 2629815,
+          "description": "All sources combined"
+        },
+        {
+          "name": "archive_hf_train.jsonl",
+          "source": "hf_train.jsonl",
+          "size_mb": 444.8,
+          "records": 2134963,
+          "description": "HuggingFace training format"
+        },
+        {
+          "name": "archive_zolai_complete.jsonl",
+          "source": "zolai_complete.jsonl",
+          "size_mb": 512.2,
+          "records": 2040307,
+          "description": "Complete Zolai dataset"
+        },
+        {
+          "name": "archive_validation.jsonl",
+          "source": "hf_validation.jsonl",
+          "size_mb": 23.7,
+          "records": 112367,
+          "description": "Validation set"
+        }
+      ],
+      "total_extracted_mb": 2319.9,
+      "total_extracted_records": 11280352,
+      "available_in_archive": 41
+    },
+    "old_data_resources": {
+      "zokam_standard_version": {
+        "path": "corpus/texts/Zokam_Standard_Version_Bible",
+        "files": 29,
+        "description": "Bible books in Zokam standard version"
+      },
+      "markdown_files": {
+        "total": 145,
+        "extracted": "Zokam Bible + key texts"
+      }
+    },
+    "archive_stats": {
+      "total_files": 8625,
+      "total_size_gb": 10.6,
+      "training_versions_count": 41,
+      "old_data_files": 145
+    }
+  }
+}

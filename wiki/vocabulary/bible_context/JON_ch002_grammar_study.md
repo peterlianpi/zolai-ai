@@ -84,9 +84,9 @@
 ### v8
 **EN:** They that observe lying vanities forsake their own mercy.
 
-**TDB77:** Kiman’na nei lo milim a biate in nangmah hong tai san uh hi.
+**TDB77:** Kiman’na nei lo milim a biate in nangmah hong tai san-te hi.
 
-**ZVS:** Kiman'na a neilo milim a biate in nangmah hong taisan uh hi.
+**ZVS:** Kiman'na a neilo milim a biate in nangmah hong taisan-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 

@@ -65,18 +65,18 @@
 ### v6
 **EN:** From which some having swerved have turned aside unto vain jangling;
 
-**TDB77:** Tua gamtatnate mi kimkhatte in zui tawntung loin, a mawkna kampauna lamah a pialkhia uh hi.
+**TDB77:** Tua gamtatnate mi kimkhatte in zui tawntung loin, a mawkna kampauna lamah a pialkhia-te hi.
 
-**ZVS:** Mi pawlkhatte, hihbang ngaihsutna panin peukhia-in bangmahin a kimanglo thu kikupna tawh nitum uh hi.
+**ZVS:** Mi pawlkhatte, hihbang ngaihsutna panin peukhia-in bangmahin a kimanglo thu kikupna tawh nitum-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Desiring to be teachers of the law; understanding neither what they say, nor whereof they affirm.
 
-**TDB77:** Tuate in Thukham hilhna a sep nop uh hangin amau kampau ahi zongin, bang ci thu lamah amaute in a kiptakin ahilh uh ahi zongin a thei kei uh hi.
+**TDB77:** Tuate in Thukham hilhna a sep nop-te hangin amau kampau ahi zongin, bang ci thu lamah amaute in a kiptakin ahilh-te ahi zongin a thei kei-te hi.
 
-**ZVS:** Thei kisa ngelin a gen kankan uh thute leh amau kampauna mahmah zong bang gen ka hi hiam cih a thei hetlo hinapi-in amaute pen Pasian' thukhamte a hilh dingin utzaw lai uh hi.
+**ZVS:** Thei kisa ngelin a gen kankan-te thute leh amau kampauna mahmah zong bang gen ka hi hiam cih a thei hetlo hinapi-in amaute pen Pasian' thukhamte a hilh dingin utzaw lai-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -172,18 +172,18 @@
 ### v19
 **EN:** Holding faith, and a good conscience; which some having put away concerning faith have made shipwreck:
 
-**TDB77:** Mi kimkhat in tua upna a nial uh a, amau upna teembaw a siasak uh hi.
+**TDB77:** Mi kimkhat in tua upna a nial-te a, amau upna teembaw a siasak-te hi.
 
-**ZVS:** na upna leh lungsim kisuang loin na omna thu kiptakin len paisuak in. Mi pawlkhatte in a lungsim kitheihna uhah man a kisakna bangun gamtalo uh ahih manin a thu upna uh a mawkna a suah uh hi.
+**ZVS:** na upna leh lungsim kisuang loin na omna thu kiptakin len paisuak in. Mi pawlkhatte in a lungsim kitheihna uhah man a kisakna bangun gamtalo-te ahih manin a thu upna-te a mawkna a suah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** Of whom is Hymenaeus and Alexander; whom I have delivered unto Satan, that they may learn not to blaspheme.
 
-**TDB77:** Tua mite lakah Himenaius leh Alekzander a om uh hi. Tuate in thu gensiatna kam a gen nawn loh nading uh a kisin nadingun Satan ka keemsak zo hi.
+**TDB77:** Tua mite lakah Himenaius leh Alekzander a om-te hi. Tuate in thu gensiatna kam a gen nawn loh nading-te a kisin nadingun Satan ka keemsak zo hi.
 
-**ZVS:** Tua bang mite lakah Hymenaias leh Alexander kihel uh a, Pasian gensiat nawnlohna ding thu a phawktheihna dingun Satan' khutsungah amaute ka ap hi.
+**ZVS:** Tua bang mite lakah Hymenaias leh Alexander kihel-te a, Pasian gensiat nawnlohna ding thu a phawktheihna dingun Satan' khutsungah amaute ka ap hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

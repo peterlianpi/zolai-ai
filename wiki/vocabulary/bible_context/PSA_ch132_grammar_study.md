@@ -32,9 +32,9 @@
 ### v6
 **EN:** Lo, we heard of it at Ephratah: we found it in the fields of the wood.
 
-**TDB77:** En un, Jaar gam sungah ka mu uh hi; cihna thuthak Ephrathah-ah kiza hi.
+**TDB77:** En un, Jaar gam sungah ka mu-te hi; cihna thuthak Ephrathah-ah kiza hi.
 
-**ZVS:** Jaar gamsungah Thuciamna Singkuang ka mu uh hi, cihna thuthak Bethlehem-ah kiza hi.
+**ZVS:** Jaar gamsungah Thuciamna Singkuang ka mu-te hi, cihna thuthak Bethlehem-ah kiza hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -43,7 +43,7 @@
 
 **TDB77:** “Ama omna mun-ah va pai ni; ama khe-ngakna-ah va bia ni!”
 
-**ZVS:** “Ama omna munah va pai ni; ama khengakna-ah va bia ni,” ka ci uh hi.
+**ZVS:** “Ama omna munah va pai ni; ama khengakna-ah va bia ni,” ka ci-te hi.
 
 **Grammar:** hortative: let us
 
@@ -57,9 +57,9 @@
 ### v9
 **EN:** Let thy priests be clothed with righteousness; and let thy saints shout for joy.
 
-**TDB77:** Nangma siampite in diktatna puan silh uh hen la, na misiangthote lungdamin awng ta uh hen.
+**TDB77:** Nangma siampite in diktatna puan silh-te hen la, na misiangthote lungdamin awng ta-te hen.
 
-**ZVS:** Na mite na hotkhiatna thu, na siampite in taangko hen la, na mi siangthote lungdamin awng ta uh hen.
+**ZVS:** Na mite na hotkhiatna thu, na siampite in taangko hen la, na mi siangthote lungdamin awng ta-te hen.
 
 ### v10
 **EN:** For thy servant David's sake turn not away the face of thine anointed.
@@ -80,9 +80,9 @@
 ### v12
 **EN:** If thy children will keep my covenant and my testimony that I shall teach them, their children shall also sit upon thy throne for evermore.
 
-**TDB77:** Na tate in, amau tunga ka hilh ding ka thuciamna leh ka teci pan’nate a zuih uh leh, amau’ tate zong na kumpi tokhom tungah tu paisuak ding uh hi,” na ci hi.
+**TDB77:** Na tate in, amau tunga ka hilh ding ka thuciamna leh ka teci pan’nate a zuih-te leh, amau’ tate zong na kumpi tokhom tungah tu paisuak ding-te hi,” na ci hi.
 
-**ZVS:** Na tate in, amau' tungah ka hilh ding ka thuciamna leh ka teci pan'nate a zuih nak uh leh, amau' tate zong na kumpi tokhom tungah tu paisuak ding uh hi,” na ci hi.
+**ZVS:** Na tate in, amau' tungah ka hilh ding ka thuciamna leh ka teci pan'nate a zuih nak-te leh, amau' tate zong na kumpi tokhom tungah tu paisuak ding-te hi,” na ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -116,9 +116,9 @@
 ### v16
 **EN:** I will also clothe her priests with salvation: and her saints shall shout aloud for joy.
 
-**TDB77:** Ka hotkhiatna thu, a siampite ka taangko sak ding a, a mi siangthote lungdamin la sa-in awng ding uh hi.
+**TDB77:** Ka hotkhiatna thu, a siampite ka taangko sak ding a, a mi siangthote lungdamin la sa-in awng ding-te hi.
 
-**ZVS:** Ka hotkhiatna thu, a siampite ka taangkosak ding a, a mi siangthote lungdamin la sa-in awng ding uh hi.
+**ZVS:** Ka hotkhiatna thu, a siampite ka taangkosak ding a, a mi siangthote lungdamin la sa-in awng ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 

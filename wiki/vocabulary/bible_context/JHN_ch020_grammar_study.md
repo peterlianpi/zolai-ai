@@ -32,27 +32,27 @@
 ### v2
 **EN:** Then she runneth, and cometh to Simon Peter, and to the other disciple, whom Jesus loved, and saith unto them, They have taken away the Lord out of the sepulchre, and we know not where they have laid him.
 
-**TDB77:** Tua ahih ciangin tai mengmeng a, Piter leh Zeisu’ it nungzuipa kiangah tungin, “Han sung pan Topa’ luang a paikhiatpih zo uh hi. Koi lai takah a koih uh hiam ka thei kei hi,” ci-in a gen hi.
+**TDB77:** Tua ahih ciangin tai mengmeng a, Piter leh Zeisu’ it nungzuipa kiangah tungin, “Han sung pan Topa’ luang a paikhiatpih zo-te hi. Koi lai takah a koih-te hiam ka thei kei hi,” ci-in a gen hi.
 
-**ZVS:** Amah zong tai-in Simon Peter leh Jesuh in a it a nungzuipa kiangah, “Amaute in hankhuk panin i Topa lakhia khin uh a, koi lai-ah koih ahi uh hiam, cih ka thei kei uh hi,” a ci uh hi.
+**ZVS:** Amah zong tai-in Simon Peter leh Jesuh in a it a nungzuipa kiangah, “Amaute in hankhuk panin i Topa lakhia khin-te a, koi lai-ah koih ahi-te hiam, cih ka thei kei-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Peter therefore went forth, and that other disciple, and came to the sepulchre.
 
-**TDB77:** Tua lai takin, Piter leh adang nungzuipa paikhia uh a, han lamah a tai uh hi.
+**TDB77:** Tua lai takin, Piter leh adang nungzuipa paikhia-te a, han lamah a tai-te hi.
 
-**ZVS:** Tua ciangin nungzui dang khatpa tawh Peter zong paikhia-in han lam a manawh uh hi.
+**ZVS:** Tua ciangin nungzui dang khatpa tawh Peter zong paikhia-in han lam a manawh-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** So they ran both together: and the other disciple did outrun Peter, and came first to the sepulchre.
 
-**TDB77:** Amaute nih a kibangin a tai uh hi; ahih hangin adang nungzuipa in Piter makhelhin han a tung masa hi.
+**TDB77:** Amaute nih a kibangin a tai-te hi; ahih hangin adang nungzuipa in Piter makhelhin han a tung masa hi.
 
-**ZVS:** A nih tuakun taikhawm uh a, ahi zongin nungzui dang khatpa in Peter makhelhin hanah a tung masa hi.
+**ZVS:** A nih tuakun taikhawm-te a, ahi zongin nungzui dang khatpa in Peter makhelhin hanah a tung masa hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -91,18 +91,18 @@
 ### v9
 **EN:** For as yet they knew not the scripture, that he must rise again from the dead.
 
-**TDB77:** Bang hang hiam i cih leh, Zeisu in sihna pan thokik ding a cihna Lai Siangtho sungah a om thu a thei nai kei uh hi.
+**TDB77:** Bang hang hiam i cih leh, Zeisu in sihna pan thokik ding a cihna Lai Siangtho sungah a om thu a thei nai kei-te hi.
 
-**ZVS:** (Sihna panin thokik ding hi, ci-in Lai Siangtho in a genna thu a theithei nailo uh ahi hi.)
+**ZVS:** (Sihna panin thokik ding hi, ci-in Lai Siangtho in a genna thu a theithei nailo-te ahi hi.)
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v10
 **EN:** Then the disciples went away again unto their own home.
 
-**TDB77:** Tua ahih ciangin tua nungzuite amau innah a ciah uh hi.
+**TDB77:** Tua ahih ciangin tua nungzuite amau innah a ciah-te hi.
 
-**ZVS:** Tua ciangin nungzuite a inn uhah a ciah uh hi.
+**ZVS:** Tua ciangin nungzuite a inn uhah a ciah-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -127,9 +127,9 @@
 ### v13
 **EN:** And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my Lord, and I know not where they have laid him.
 
-**TDB77:** Amaute in, “Numei aw, bang hangin kap na hi hiam?” ci-a a dot uh ciangin Mari in, “Ka Topa a paikhiatpih zo uh a, koi-ah a koih uh cih ka thei kei hi,” a ci hi.
+**TDB77:** Amaute in, “Numei aw, bang hangin kap na hi hiam?” ci-a a dot-te ciangin Mari in, “Ka Topa a paikhiatpih zo-te a, koi-ah a koih-te cih ka thei kei hi,” a ci hi.
 
-**ZVS:** Tua vantung mite in Mary kiangah, “Bang hangin kap na hi hiam?” ci-in a dot uh ciangin amah in, “Amaute in ka Topa paikhiatpih uh a, koi lai-ah koih ahi uh hiam, cih ka thei kei hi,” ci-in a dawng hi.
+**ZVS:** Tua vantung mite in Mary kiangah, “Bang hangin kap na hi hiam?” ci-in a dot-te ciangin amah in, “Amaute in ka Topa paikhiatpih-te a, koi lai-ah koih ahi-te hiam, cih ka thei kei hi,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | negation: kei | plural: uh marker
 
@@ -181,18 +181,18 @@
 ### v19
 **EN:** Then the same day at evening, being the first day of the week, when the doors were shut where the disciples were assembled for fear of the Jews, came Jesus and stood in the midst, and saith unto them,
 
-**TDB77:** Ni sagih lakah ni kipat ni, a nitak ciangin Judah mite a kihtak man-unah a nungzuite in kikhopna-ah kongkhakte khakin a om uh a, tua sungah Zeisu hong lut a, amau lai zangah ding-in, “Nopna na ngah ta un!” a ci hi.
+**TDB77:** Ni sagih lakah ni kipat ni, a nitak ciangin Judah mite a kihtak man-unah a nungzuite in kikhopna-ah kongkhakte khakin a om-te a, tua sungah Zeisu hong lut a, amau lai zangah ding-in, “Nopna na ngah ta un!” a ci hi.
 
-**ZVS:** Tua ni pen Nipi ni nitak lam hi a, nungzuite zong a nitakin innsung khatah a kikhop laitakun Jerusalem khua-a Jew mi uliante a kihtakna uh hangin inn a kikalhnelh uh hi. Tua bang hinapi-in amaute lakah Jesuh hong ding a, “Nopna ngah ta un,” ci-in a hopih hi.
+**ZVS:** Tua ni pen Nipi ni nitak lam hi a, nungzuite zong a nitakin innsung khatah a kikhop laitakun Jerusalem khua-a Jew mi uliante a kihtakna-te hangin inn a kikalhnelh-te hi. Tua bang hinapi-in amaute lakah Jesuh hong ding a, “Nopna ngah ta un,” ci-in a hopih hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And when he had so said, he shewed unto them his hands and his side. Then were the disciples glad, when they saw the Lord.
 
-**TDB77:** Tua bang a cih khit ciangin a khut leh a pang a lak hi. Tua nungzuite in Topa a muh uh ciangin a lungdam uh hi.
+**TDB77:** Tua bang a cih khit ciangin a khut leh a pang a lak hi. Tua nungzuite in Topa a muh-te ciangin a lungdam-te hi.
 
-**ZVS:** Tua bangin a hopih khit ciangin a khutte leh a pangpi zong a lak hi. Topa a muhna hangun nungzuite a nuam mahmah uh hi.
+**ZVS:** Tua bangin a hopih khit ciangin a khutte leh a pangpi zong a lak hi. Topa a muhna hangun nungzuite a nuam mahmah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -226,18 +226,18 @@
 ### v25
 **EN:** The other disciples therefore said unto him, We have seen the Lord. But he said unto them, Except I shall see in his hands the print of the nails, and put my finger into the print of the nails, and thrust my hand into his side, I will not believe.
 
-**TDB77:** Tua ahih ciangin nungzui dangte in, “Topa ka mu zo uh hi,” ci-in Thomas kiangah a gen uh ciangin amah in, “A khut a, sikkhetna pawn mu-in, sikkhetna pawn sung ka khutme tawh lawng a, ama pang zong ka khut tawh ka lawn’ kei leh, ka um kei ding hi,” a ci hi.
+**TDB77:** Tua ahih ciangin nungzui dangte in, “Topa ka mu zo-te hi,” ci-in Thomas kiangah a gen-te ciangin amah in, “A khut a, sikkhetna pawn mu-in, sikkhetna pawn sung ka khutme tawh lawng a, ama pang zong ka khut tawh ka lawn’ kei leh, ka um kei ding hi,” a ci hi.
 
-**ZVS:** Tua ahih manin nungzui dangte in ama kiangah, “Topa ka mu uh hi,” a cih uh leh amah in, “A khut, siktukkilh tawh a kikilhna mate mu-in, tua a siktukkilh ma vangah ka khutmete ka va khum teek kei a, ama pangpi zong ka khut tawh ka lawn' teek kei leh ka um kei ding hi,” a ci hi.
+**ZVS:** Tua ahih manin nungzui dangte in ama kiangah, “Topa ka mu-te hi,” a cih-te leh amah in, “A khut, siktukkilh tawh a kikilhna mate mu-in, tua a siktukkilh ma vangah ka khutmete ka va khum teek kei a, ama pangpi zong ka khut tawh ka lawn' teek kei leh ka um kei ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** And after eight days again his disciples were within, and Thomas with them: then came Jesus, the doors being shut, and stood in the midst, and said,
 
-**TDB77:** Tua nung ni giat ni ciangin, a nungzuite inn sungah khatvei kikhawm kik uh a, Thomas zong a om hi. Kongkhakte a kikhak lai takin Zeisu zong hong pai a, amau laizang ah ding-a “Nopna na ngah ta un,” a ci hi.
+**TDB77:** Tua nung ni giat ni ciangin, a nungzuite inn sungah khatvei kikhawm kik-te a, Thomas zong a om hi. Kongkhakte a kikhak lai takin Zeisu zong hong pai a, amau laizang ah ding-a “Nopna na ngah ta un,” a ci hi.
 
-**ZVS:** Tua zawh nipikal khat ciangin nungzuite zong innsung khatah kikhawm leuleu uh a, tua hunin Thomas zong a om hi. Amaute kong kikhaknelh uh hinapi-in Jesuh hong pai-in amaute lakah hong ding a, “Nopna ngah ta un,” ci-in a hopih khit ciangin
+**ZVS:** Tua zawh nipikal khat ciangin nungzuite zong innsung khatah kikhawm leuleu-te a, tua hunin Thomas zong a om hi. Amaute kong kikhaknelh-te hinapi-in Jesuh hong pai-in amaute lakah hong ding a, “Nopna ngah ta un,” ci-in a hopih khit ciangin
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -260,7 +260,7 @@
 ### v29
 **EN:** Jesus saith unto him,
 
-**TDB77:** Zeisu in, “Nong muh man-inah um na hi hiam? Hong mu lo napi-in a um mite in thupha a ngah uh hi,” a ci hi.
+**TDB77:** Zeisu in, “Nong muh man-inah um na hi hiam? Hong mu lo napi-in a um mite in thupha a ngah-te hi,” a ci hi.
 
 **ZVS:** Jesuh in, “Kei na hong muhkhit ciang bekin hong um pan na hi hiam? Kei hong mulo napi-in hong umte-a' dingin lungdamhuai mahmah zaw ding hi,” a ci hi.
 
@@ -278,9 +278,9 @@
 ### v31
 **EN:** But these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name.
 
-**TDB77:** Zeisu in Khazih hi a, Pasian’ Tapa ahih note’n na up theih nading uh leh, ama min umin tua min hangin nuntakna na ngah theih nadingun hih laibu a kigelh zo hi.
+**TDB77:** Zeisu in Khazih hi a, Pasian’ Tapa ahih note’n na up theih nading-te leh, ama min umin tua min hangin nuntakna na ngah theih nadingun hih laibu a kigelh zo hi.
 
-**ZVS:** Hih laibu sungah a kigelh thute pen Jesuh, Pasian' Tapa, Khrih ahihna thu na uptheihna ding uh leh ama min hangin tua upna tawh nuntakna na ngahtheihna ding uh deihna tawh a kigelh ahi hi.
+**ZVS:** Hih laibu sungah a kigelh thute pen Jesuh, Pasian' Tapa, Khrih ahihna thu na uptheihna ding-te leh ama min hangin tua upna tawh nuntakna na ngahtheihna ding-te deihna tawh a kigelh ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 

@@ -33,9 +33,9 @@
 ### v2
 **EN:** It shall blossom abundantly, and rejoice even with joy and singing: the glory of Lebanon shall be given unto it, the excellency of Carmel and Sharon, they shall see the glory of the
 
-**TDB77:** tampi takin palhkhia ding a, lung nopna leh lasakna tawh lungdam ding hi. Lebanon mual a minthan’na, Karmel mual leh Sharon mual, a min liatna ama tungah kipia ding hi. Amaute in Topa’ minthan’na, i Pasian’ liatna mu ding uh hi.
+**TDB77:** tampi takin palhkhia ding a, lung nopna leh lasakna tawh lungdam ding hi. Lebanon mual a minthan’na, Karmel mual leh Sharon mual, a min liatna ama tungah kipia ding hi. Amaute in Topa’ minthan’na, i Pasian’ liatna mu ding-te hi.
 
-**ZVS:** tampi takin palhkhia ding a, lungnopna leh lasakna tawh lungdam ding hi. Lebanon mual a minthan'na, Karmel mual leh Sharon mual a minliatna tua leitang in ngah ding hi. Mi khempeuh in { Topa}' minthan'na, i Pasian' liatna mu ding uh hi.
+**ZVS:** tampi takin palhkhia ding a, lungnopna leh lasakna tawh lungdam ding hi. Lebanon mual a minthan'na, Karmel mual leh Sharon mual a minliatna tua leitang in ngah ding hi. Mi khempeuh in { Topa}' minthan'na, i Pasian' liatna mu ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -49,9 +49,9 @@
 ### v4
 **EN:** Say to them that are of a fearful heart, Be strong, fear not: behold, your God will come with vengeance, even God with a recompence; he will come and save you.
 
-**TDB77:** Lungsim lauthawng mite kiangah, “Thakhauh un, lau kei un! En un, na galte uh tungah phu hong laksak dingin Pasian hong pai ding a, amah in note hong honkhia ding hi,” ci un.
+**TDB77:** Lungsim lauthawng mite kiangah, “Thakhauh un, lau kei un! En un, na galte-te tungah phu hong laksak dingin Pasian hong pai ding a, amah in note hong honkhia ding hi,” ci un.
 
-**ZVS:** Lungsim patau-in, a lauthawng mite kiangah, “Thakhauh un, lau kei un! En un, na galte uh tungah phu hong laksak dingin Pasian hong pai ding a, amah in note hong honkhia ding hi,” ci un.
+**ZVS:** Lungsim patau-in, a lauthawng mite kiangah, “Thakhauh un, lau kei un! En un, na galte-te tungah phu hong laksak dingin Pasian hong pai ding a, amah in note hong honkhia ding hi,” ci un.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -94,18 +94,18 @@
 ### v9
 **EN:** No lion shall be there, nor any ravenous beast shall go up thereon, it shall not be found there; but the redeemed shall walk there:
 
-**TDB77:** Tua lai-ah humpinelkai om lo ding a, sasialne ganhing khat peuhpeuh hong pai lo ding hi; tua lai-ah ganhing lauhuaite kimu lo ding hi. Topa’ tatkhiatsa mite in tua lampi tawnin hong ciah ding uh hi.
+**TDB77:** Tua lai-ah humpinelkai om lo ding a, sasialne ganhing khat peuhpeuh hong pai lo ding hi; tua lai-ah ganhing lauhuaite kimu lo ding hi. Topa’ tatkhiatsa mite in tua lampi tawnin hong ciah ding-te hi.
 
-**ZVS:** Tua lai-ah humpinelkai omlo ding a, sasialne ganhing khat peuhpeuh hong pailo ding hi. Tua lai-ah ganhing lauhuaite kimu lo ding hi. { Topa}' hotkhiatsa mite in tua lampi tawnin hong ciah ding uh hi.
+**ZVS:** Tua lai-ah humpinelkai omlo ding a, sasialne ganhing khat peuhpeuh hong pailo ding hi. Tua lai-ah ganhing lauhuaite kimu lo ding hi. { Topa}' hotkhiatsa mite in tua lampi tawnin hong ciah ding-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And the ransomed of the
 
-**TDB77:** Topa’ tatkhiatsa mite hong ciah kikin, lungdam tawntungna mai pua-in lasa kawmin Jerusalem hong tung ding uh hi; amaute in lungdamna leh kipahna ngah ding uh a, dahna leh khuisatna om nawn lo ding hi.
+**TDB77:** Topa’ tatkhiatsa mite hong ciah kikin, lungdam tawntungna mai pua-in lasa kawmin Jerusalem hong tung ding-te hi; amaute in lungdamna leh kipahna ngah ding-te a, dahna leh khuisatna om nawn lo ding hi.
 
-**ZVS:** { Topa}' hotkhiatsa mite hong ciahkikin, lungdam tawntungna mai pua-in la sa kawmin Jerusalem-ah hong tung ding uh hi. Amaute in lungdamna leh kipakna ngah ding uh a, dahna leh khuisatna om nawnlo ding hi.
+**ZVS:** { Topa}' hotkhiatsa mite hong ciahkikin, lungdam tawntungna mai pua-in la sa kawmin Jerusalem-ah hong tung ding-te hi. Amaute in lungdamna leh kipakna ngah ding-te a, dahna leh khuisatna om nawnlo ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

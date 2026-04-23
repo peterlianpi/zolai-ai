@@ -8,11 +8,11 @@
 
 ### vekpi-in = altogether/in total
 **Context:** Indicates the total count of the preceding list.
-**Example:** a vekpi-in nga pha uh hi.
+**Example:** a vekpi-in nga pha-te hi.
 
 ### pha = to reach/to amount to (in number)
 **Context:** Used with 'vekpi-in' to state the total number reached.
-**Example:** a vekpi-in nga pha uh hi.
+**Example:** a vekpi-in nga pha-te hi.
 
 ### ki-ap nate-ah = in the thing accursed/in the trespass
 **Context:** Refers to the specific transgression mentioned in the KJV ('thing accursed').
@@ -40,7 +40,7 @@
 
 ### pa = father (used for 'begat')
 **Context:** Used repeatedly in the structure X pa Y (X begat Y).
-**Example:** Ram pen Amminadab' pa hi a...
+**Example:** gam pen Amminadab' pa hi a...
 
 ### tacil = firstborn
 **Context:** Used to specify the birth order of Eliab.
@@ -48,7 +48,7 @@
 
 ### sanggamnumeite = sisters (female siblings)
 **Context:** Referring to the sisters of David's line.
-**Example:** amau’ sanggamnumeite in Zeru-iah leh Abigail ahi uh hi.
+**Example:** amau’ sanggamnumeite in Zeru-iah leh Abigail ahi-te hi.
 
 ### nei = to have/to bear (a child)
 **Context:** Used when Abigail bore Amasa.
@@ -64,7 +64,7 @@
 
 ## Phrases & Usage
 
-- **a vekpi-in nga pha uh hi** = they amounted to five in all
+- **a vekpi-in nga pha-te hi** = they amounted to five in all
   - Usage: Used to summarize the total count of individuals listed.
 
 - **A ki-ap nate-ah a khial** = he transgressed in the thing accursed
@@ -90,7 +90,7 @@
 
 - **X pen Y' pa hi a, Y pen Z' pa ahi hi.**
   - The structure 'X pen Y' pa hi' establishes a direct lineage chain (X was the father of Y). The conjunction 'a' links sequential generations.
-  - Example: Ram pen Amminadab' pa hi a, Amminadab pen Judah' tapate' sung pan ulian Nahshon' pa ahi hi.
+  - Example: gam pen Amminadab' pa hi a, Amminadab pen Judah' tapate' sung pan ulian Nahshon' pa ahi hi.
 
 - **a [ordinal number]na [Name]**
   - Used to denote birth order (second, third, etc.). 'a' acts as a definite article/marker for the ordinal.

@@ -35,9 +35,9 @@
 ### v2
 **EN:** And he said, Amos, what seest thou? And I said, A basket of summer fruit. Then said the
 
-**TDB77:** Topa in, “Amos aw, bang na mu hiam?” hong ci a, “Seeng sunga kikoih singgah min ka mu hi,” ci-in ken zong ka dawng hi. Tua ciangin Topa in, “Ka mi Israelte adingin a bei hun uh tung ta hi. Amaute daan ka piak ding ka khawl nawn peuhmah kei ding hi.
+**TDB77:** Topa in, “Amos aw, bang na mu hiam?” hong ci a, “Seeng sunga kikoih singgah min ka mu hi,” ci-in ken zong ka dawng hi. Tua ciangin Topa in, “Ka mi Israelte adingin a bei hun-te tung ta hi. Amaute daan ka piak ding ka khawl nawn peuhmah kei ding hi.
 
-**ZVS:** { Topa } in, “Amos aw, bang na mu hiam?” hong ci hi. “Seeng sunga kikoih singgah min ka mu hi,” ci-in kei zong ka dawng hi. Tua ciangin { Topa } in, “Ka mi Israel-te-a' dingin a bei hun uh tungta hi. Amaute gim ka piak ding ka khawl nawn kei ding hi.
+**ZVS:** { Topa } in, “Amos aw, bang na mu hiam?” hong ci hi. “Seeng sunga kikoih singgah min ka mu hi,” ci-in kei zong ka dawng hi. Tua ciangin { Topa } in, “Ka mi Israel-te-a' dingin a bei hun-te tungta hi. Amaute gim ka piak ding ka khawl nawn kei ding hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix
 
@@ -69,27 +69,27 @@
 ### v6
 **EN:** That we may buy the poor for silver, and the needy for a pair of shoes; yea, and sell the refuse of the wheat?
 
-**TDB77:** Khedap bu khat man dingin, mizawngte sila-in i zuak nuam a, i mangbuh hoih lote, sum tampi i khawng nuam hi,” na ci uh hi.
+**TDB77:** Khedap bu khat man dingin, mizawngte sila-in i zuak nuam a, i mangbuh hoih lote, sum tampi i khawng nuam hi,” na ci-te hi.
 
-**ZVS:** Khedap bu khat man dingin mizawngte sila-in i zuak nuam a, i mangbuh hoihlote sum tampi i khawng nuam hi,” na ci uh hi.
+**ZVS:** Khedap bu khat man dingin mizawngte sila-in i zuak nuam a, i mangbuh hoihlote sum tampi i khawng nuam hi,” na ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v7
 **EN:** The
 
-**TDB77:** Topa, Israel Pasian in ama min liatna tawh kiciam a, “Na gamtat siatnate uh ka mangngilh ngei kei ding hi.
+**TDB77:** Topa, Israel Pasian in ama min liatna tawh kiciam a, “Na gamtat siatnate-te ka mangngilh ngei kei ding hi.
 
-**ZVS:** { Topa, } Israel Pasian kiciam a, “Na gamtatsiatnate uh ka mangngilh ngei kei ding hi.
+**ZVS:** { Topa, } Israel Pasian kiciam a, “Na gamtatsiatnate-te ka mangngilh ngei kei ding hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
 ### v8
 **EN:** Shall not the land tremble for this, and every one mourn that dwelleth therein? and it shall rise up wholly as a flood; and it shall be cast out and drowned, as by the flood of Egypt.
 
-**TDB77:** Tua ahih manin ziin hong liing ding a, leitunga om mi khempeuh kap ding uh hi. Nail Gunpi bangin leitung khempeuh khang toin kiamsuk ding hi.
+**TDB77:** Tua ahih manin ziin hong liing ding a, leitunga om mi khempeuh kap ding-te hi. Nail Gunpi bangin leitung khempeuh khang toin kiamsuk ding hi.
 
-**ZVS:** Tua ahih manin zin hong ling ding a, leitunga om mi khempeuh a kap ding uh hi. Nail Gunpi bangin leitung khempeuh khangto-in kiamsuk ding hi.
+**ZVS:** Tua ahih manin zin hong ling ding a, leitunga om mi khempeuh a kap ding-te hi. Nail Gunpi bangin leitung khempeuh khangto-in kiamsuk ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -105,9 +105,9 @@
 ### v10
 **EN:** And I will turn your feasts into mourning, and all your songs into lamentation; and I will bring up sackcloth upon all loins, and baldness upon every head; and I will make it as the mourning of an only son, and the end thereof as a bitter day.
 
-**TDB77:** Na lungdam pawite uh dahna ka suaksak ding a, na lasaknate uh kahna awging ka suaksak ding hi. Dahna limin puanhampi na silh ding uh a, na sam uh zong na mettol ding uh hi. A tapa khat neihsun a sihsuah nupa na bang ding uh hi. Tua hun in a tawp dongin nasia semsem ding hi.
+**TDB77:** Na lungdam pawite-te dahna ka suaksak ding a, na lasaknate-te kahna awging ka suaksak ding hi. Dahna limin puanhampi na silh ding-te a, na sam-te zong na mettol ding-te hi. A tapa khat neihsun a sihsuah nupa na bang ding-te hi. Tua hun in a tawp dongin nasia semsem ding hi.
 
-**ZVS:** Na lungdam pawite uh dahna ka suaksak ding a, na lasaknate uh kahna awging ka suaksak ding hi. Dahna limin puanhampi na silh ding uh a, na sam uh zong na mettol ding uh hi. A tapa khat neihsun a sihsuah nupa na bang ding uh hi. Tua hun pen a tawp dongin nasia semsem ding hi.
+**ZVS:** Na lungdam pawite-te dahna ka suaksak ding a, na lasaknate-te kahna awging ka suaksak ding hi. Dahna limin puanhampi na silh ding-te a, na sam-te zong na mettol ding-te hi. A tapa khat neihsun a sihsuah nupa na bang ding-te hi. Tua hun pen a tawp dongin nasia semsem ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -123,27 +123,27 @@
 ### v12
 **EN:** And they shall wander from sea to sea, and from the north even to the east, they shall run to and fro to seek the word of the
 
-**TDB77:** Mihingte, leilu pan leitaw dong, nisuahna pan nitumna dong, Topa’ thu kanin vak kawikawi ding uh a, ahi zongin mu zo lo ding uh hi.
+**TDB77:** Mihingte, leilu pan leitaw dong, nisuahna pan nitumna dong, Topa’ thu kanin vak kawikawi ding-te a, ahi zongin mu zo lo ding-te hi.
 
-**ZVS:** Mihingte, leilu pan leitaw dong, { Topa' } thu kanin vak kawikawi ding uh a, ahi zongin mu zolo ding uh hi.
+**ZVS:** Mihingte, leilu pan leitaw dong, { Topa' } thu kanin vak kawikawi ding-te a, ahi zongin mu zolo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v13
 **EN:** In that day shall the fair virgins and young men faint for thirst.
 
-**TDB77:** Tua ni ciangin nungakte leh tangvalte, dangtakin puk ding uh hi.
+**TDB77:** Tua ni ciangin nungakte leh tangvalte, dangtakin puk ding-te hi.
 
-**ZVS:** Tua ni ciangin nungakte leh tangvalte dangtakin puk ding uh hi.
+**ZVS:** Tua ni ciangin nungakte leh tangvalte dangtakin puk ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v14
 **EN:** They that swear by the sin of Samaria, and say, Thy god, O Dan, liveth; and, The manner of Beer–sheba liveth; even they shall fall, and never rise up again.
 
-**TDB77:** Samariah milim pasian Ashimah min tawh kiciam a, ‘Dan khuapi pasian a nungta ahih mah bangin,’ a ci mite leh ‘Beersheba khuapi pasian a nungta ahih mah bangin,’ a ci mite pukin thokik nawn lo ding uh hi,” ci hi.
+**TDB77:** Samariah milim pasian Ashimah min tawh kiciam a, ‘Dan khuapi pasian a nungta ahih mah bangin,’ a ci mite leh ‘Beersheba khuapi pasian a nungta ahih mah bangin,’ a ci mite pukin thokik nawn lo ding-te hi,” ci hi.
 
-**ZVS:** Samaria milim pasian Ashimah min tawh kiciam a, ‘Dan khuapi pasian a nungta ahih mah bangin,’ leh ‘Beersheba khuapi pasian a nungta ahih mah bangin,’ a ci mite pukin thokik nawnlo ding uh hi,” a ci hi.
+**ZVS:** Samaria milim pasian Ashimah min tawh kiciam a, ‘Dan khuapi pasian a nungta ahih mah bangin,’ leh ‘Beersheba khuapi pasian a nungta ahih mah bangin,’ a ci mite pukin thokik nawnlo ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

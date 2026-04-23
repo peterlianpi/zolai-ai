@@ -25,18 +25,18 @@
 ### v1
 **EN:** Moreover, brethren, I declare unto you the gospel which I preached unto you, which also ye have received, and wherein ye stand;
 
-**TDB77:** Ute naute aw, note kiangah kong hilh ngei mah bangin na san’ uh a, na belh uh Lungdamna Thu kong zasak kik ding hi.
+**TDB77:** Ute naute aw, note kiangah kong hilh ngei mah bangin na san’ uh a, na belh-te Lungdamna Thu kong zasak kik ding hi.
 
-**ZVS:** Sanggamte aw, note kiangah ka hong hilh, note in hong sangin kiptakin na let uh thu, na phawkkik ding uh ka deih hi.
+**ZVS:** Sanggamte aw, note kiangah ka hong hilh, note in hong sangin kiptakin na let-te thu, na phawkkik ding-te ka deih hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** By which also ye are saved, if ye keep in memory what I preached unto you, unless ye have believed in vain.
 
-**TDB77:** Tu-ma a, thu kong hilh thu in a mawkna hi ci loin umin na lungkip uh leh, tua thu hangin gupna na ngah ding uh hi.
+**TDB77:** Tu-ma a, thu kong hilh thu in a mawkna hi ci loin umin na lungkip-te leh, tua thu hangin gupna na ngah ding-te hi.
 
-**ZVS:** Kei' hong hilh thu pen lungdamna thu ahi hi. Note in kiptakin tua lungdamna thu na let nak uh leh hotkhiatna a ngah na hi uh hi. Tua hi kei leh na upna uh a mawkna ahi hi.
+**ZVS:** Kei' hong hilh thu pen lungdamna thu ahi hi. Note in kiptakin tua lungdamna thu na let nak-te leh hotkhiatna a ngah na hi-te hi. Tua hi kei leh na upna-te a mawkna ahi hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** After that, he was seen of above five hundred brethren at once; of whom the greater part remain unto this present, but some are fallen asleep.
 
-**TDB77:** Tua nung ciangin ute naute za nga tham lote kiangah thakhatin a kilang hi. Tuate a tampi in tudong a nungta lai uh hi. Kimkhat a si zo uh hi.
+**TDB77:** Tua nung ciangin ute naute za nga tham lote kiangah thakhatin a kilang hi. Tuate a tampi in tudong a nungta lai-te hi. Kimkhat a si zo-te hi.
 
-**ZVS:** Tua ciangin thu um mi za nga val tungah thakhatin kilang hi. Tua mi za nga valte, pawlkhat a sih khit tei hangin a tamzaw nungta lai uh hi.
+**ZVS:** Tua ciangin thu um mi za nga val tungah thakhatin kilang hi. Tua mi za nga valte, pawlkhat a sih khit tei hangin a tamzaw nungta lai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -115,7 +115,7 @@
 ### v11
 **EN:** Therefore whether it were I or they, so we preach, and so ye believed.
 
-**TDB77:** Tua ahih ciangin kei ka hi zongin, amau ahi zongin tua bangin ka hilh uh a, tua mah bangin note in zong na um uh hi.
+**TDB77:** Tua ahih ciangin kei ka hi zongin, amau ahi zongin tua bangin ka hilh-te a, tua mah bangin note in zong na um-te hi.
 
 **ZVS:** Tua ahih ciangin kei ka hi a, sawltak dangte in ahi zongin hong hilh thu pen Khrih' thawhkikna thu mah hi a, note' up zong tua thu mah ahi hi.
 
@@ -124,9 +124,9 @@
 ### v12
 **EN:** Now if Christ be preached that he rose from the dead, how say some among you that there is no resurrection of the dead?
 
-**TDB77:** Tu-in Khazih in sihna pan a thawhkikna thu a kihilh ciangin, “Misite thawhkikna a om kei hi,” ci-in note lakah mi kimkhat in bang hangin a ci uh hiam?
+**TDB77:** Tu-in Khazih in sihna pan a thawhkikna thu a kihilh ciangin, “Misite thawhkikna a om kei hi,” ci-in note lakah mi kimkhat in bang hangin a ci-te hiam?
 
-**ZVS:** Tu-in gen penin a kinei thu in: Sihna panin Khrih kihingkik sak hi, cihna thu ahih manin, bang hangin note pawlkhat in, misite thokiklo ding hi, ci thei na hi uh hiam?
+**ZVS:** Tu-in gen penin a kinei thu in: Sihna panin Khrih kihingkik sak hi, cihna thu ahih manin, bang hangin note pawlkhat in, misite thokiklo ding hi, ci thei na hi-te hiam?
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix
 
@@ -151,9 +151,9 @@
 ### v15
 **EN:** Yea, and we are found false witnesses of God; because we have testified of God that he raised up Christ: whom he raised not up, if so be that the dead rise not.
 
-**TDB77:** Tua tham loin, kote in Pasian thu hilhna panin zuau teci ka hi ding uh hi. Bang hang hiam na cih uh leh, misite thokik lo hi leh, Pasian in Khazih a thokik sak kei ding hi. Tu-in Khazih a thokik sak hi ci-in Pasian ading teci ka hi uh hi.
+**TDB77:** Tua tham loin, kote in Pasian thu hilhna panin zuau teci ka hi ding-te hi. Bang hang hiam na cih-te leh, misite thokik lo hi leh, Pasian in Khazih a thokik sak kei ding hi. Tu-in Khazih a thokik sak hi ci-in Pasian ading teci ka hi-te hi.
 
-**ZVS:** Tua bek zong hilo lai-in, misite a kihingkik saklo ding hi leh Pasian in Khrih hingkik sak hi, ci-in teci pang ka hih manun, mite kiangah Pasian' thu a manlopi-in a gen ka suak ding uh hi.
+**ZVS:** Tua bek zong hilo lai-in, misite a kihingkik saklo ding hi leh Pasian in Khrih hingkik sak hi, ci-in teci pang ka hih manun, mite kiangah Pasian' thu a manlopi-in a gen ka suak ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | negation: lo | plural: uh marker
 
@@ -169,16 +169,16 @@
 ### v17
 **EN:** And if Christ be not raised, your faith is vain; ye are yet in your sins.
 
-**TDB77:** Khazih a thokik lo hi leh, na upna uh a mawkna ahi hi; mawhna khialhna sungah a om lai na hi uh hi.
+**TDB77:** Khazih a thokik lo hi leh, na upna-te a mawkna ahi hi; mawhna khialhna sungah a om lai na hi-te hi.
 
-**ZVS:** Khrih a kihingkik saklo hi leh note' upna a mawkna hi ding a, na mawhna sung mah uhah note a omlai na suak ding uh hi.
+**ZVS:** Khrih a kihingkik saklo hi leh note' upna a mawkna hi ding a, na mawhna sung mah uhah note a omlai na suak ding-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v18
 **EN:** Then they also which are fallen asleep in Christ are perished.
 
-**TDB77:** Tua tham loin, Khazih’ thu-um a sisate in zong a mangthang ahi ding uh hi.
+**TDB77:** Tua tham loin, Khazih’ thu-um a sisate in zong a mangthang ahi ding-te hi.
 
 **ZVS:** Khrih thu a um, a sisa mite zong a mawkna mah hi lai ding hi.
 
@@ -212,7 +212,7 @@
 ### v22
 **EN:** For as in Adam all die, even so in Christ shall all be made alive.
 
-**TDB77:** Adam sungah mi khempeuh a sih mah bangin Khazih sungah mi khempeuh a nungta uh hi.
+**TDB77:** Adam sungah mi khempeuh a sih mah bangin Khazih sungah mi khempeuh a nungta-te hi.
 
 **ZVS:** Bang hang hiam cih leh Adam tawh a kizop manin mi khempeuh si a, tua mah bangin Khrih tawh a kizom khempeuh zong kihingsak kik ding hi.
 
@@ -221,7 +221,7 @@
 ### v23
 **EN:** But every man in his own order: Christ the firstfruits; afterward they that are Christ's at his coming.
 
-**TDB77:** Ahih hangin mi khempeuh in amau hun bang a zui ciat ding uh hi. Khazih in a gah masa bel ahi hi. Tu nung ciangin Khazih hong pai ciangin ama mite in thawhkikna a ngah ding uh hi.
+**TDB77:** Ahih hangin mi khempeuh in amau hun bang a zui ciat ding-te hi. Khazih in a gah masa bel ahi hi. Tu nung ciangin Khazih hong pai ciangin ama mite in thawhkikna a ngah ding-te hi.
 
 **ZVS:** Ahi zongin tua hin'kikna pen ama hun tawh kizui-in a banbanin hi ding hi. A masa penin Khrih hi a, Khrih hong paikik ciangin ama pawlte khempeuh hingkik ding hi.
 
@@ -275,18 +275,18 @@
 ### v29
 **EN:** Else what shall they do which are baptized for the dead, if the dead rise not at all? why are they then baptized for the dead?
 
-**TDB77:** Ahih kei leh, misite tang ding bang hangin kibaptaiz ahi uh hiam? Misite a thokik lo takpi ahih leh, amaute tang ding bang hangin a kibaptaiz uh hiam?
+**TDB77:** Ahih kei leh, misite tang ding bang hangin kibaptaiz ahi-te hiam? Misite a thokik lo takpi ahih leh, amaute tang ding bang hangin a kibaptaiz-te hiam?
 
-**ZVS:** Tua ciangin thu khatah, a sisa mite' tangdingin tui a kiphum mite in bang a deihna uh ahi hiam? Misite kihingkik sak hetlo ding ahih leh bang hangin a sisate' tangdingin tui kiphum ahi uh hiam?
+**ZVS:** Tua ciangin thu khatah, a sisa mite' tangdingin tui a kiphum mite in bang a deihna-te ahi hiam? Misite kihingkik sak hetlo ding ahih leh bang hangin a sisate' tangdingin tui kiphum ahi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v30
 **EN:** And why stand we in jeopardy every hour?
 
-**TDB77:** Kote in zong hong tung ding gimna tawh bang hangin kituak niloh ka hi uh hiam?
+**TDB77:** Kote in zong hong tung ding gimna tawh bang hangin kituak niloh ka hi-te hiam?
 
-**ZVS:** A site hin'kikna omlo ding hi leh bang hangin kote in nisimin gimna leh sihna zah dong dingin lauhuaina thuakin na sem nuam ding ka hi uh hiam?
+**ZVS:** A site hin'kikna omlo ding hi leh bang hangin kote in nisimin gimna leh sihna zah dong dingin lauhuaina thuakin na sem nuam ding ka hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -320,7 +320,7 @@
 ### v34
 **EN:** Awake to righteousness, and sin not; for some have not the knowledge of God: I speak this to your shame.
 
-**TDB77:** Note kimkhat in Pasian kitheih mawhbawl na hih uh ciangin kilehkik un, mawhna hih nawn kei un – tua bang ka cih ciangin note zum nadingin kong ci hi.
+**TDB77:** Note kimkhat in Pasian kitheih mawhbawl na hih-te ciangin kilehkik un, mawhna hih nawn kei un – tua bang ka cih ciangin note zum nadingin kong ci hi.
 
 **ZVS:** Hoihtakin thu ngaihsun phakik un la, mawhna gamta nawn kei un. Note pawlkhat in Pasian thei hetlo na hih manun maizumhuai mahmah hi.
 
@@ -329,7 +329,7 @@
 ### v35
 **EN:** But some man will say, How are the dead raised up? and with what body do they come?
 
-**TDB77:** “Misite bangci-in thokik ding uh ahi hiam? Bang ci pumpi hong suak ding uh hiam?” ci-in mi kimkhat in hong dong uh hi.
+**TDB77:** “Misite bangci-in thokik ding-te ahi hiam? Bang ci pumpi hong suak ding-te hiam?” ci-in mi kimkhat in hong dong-te hi.
 
 **ZVS:** Mi pawlkhatte in, “A sisa mite bangci thawhkik ding a, bang pumpi tawh thokik ding ahi hiam?” cikha thei hi.
 
@@ -340,16 +340,16 @@
 
 **TDB77:** Lungpil lo mi aw, nang na tuh khaici in a kisiat kei leh, a hing thei kei ding hi.
 
-**ZVS:** Tua bang ngaihsutna haihuai mahmah hi. Khaici na tuh uh ciangin a muatlopi-in hong po theilo hi.
+**ZVS:** Tua bang ngaihsutna haihuai mahmah hi. Khaici na tuh-te ciangin a muatlopi-in hong po theilo hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
 ### v37
 **EN:** And that which thou sowest, thou sowest not that body that shall be, but bare grain, it may chance of wheat, or of some other grain:
 
-**TDB77:** Khaici na tuh uh ciangin a nung ciangin a hong piang ding a kungpi pen a tuhpah na hi kei uh hi. Mangbuh ahi zongin, buh dangte ahi zongin a tang taktak na tuh uh hi.
+**TDB77:** Khaici na tuh-te ciangin a nung ciangin a hong piang ding a kungpi pen a tuhpah na hi kei-te hi. Mangbuh ahi zongin, buh dangte ahi zongin a tang taktak na tuh-te hi.
 
-**ZVS:** Mangbuhci ahi a, khaici dang khat peuhpeuh ahi zongin na tuh uh ciangin hong po-in a khan'khit ciangin a kung omzia dingteng tawh a tuh na hi kei uh a, a khaici bek a tuh na hi uh hi.
+**ZVS:** Mangbuhci ahi a, khaici dang khat peuhpeuh ahi zongin na tuh-te ciangin hong po-in a khan'khit ciangin a kung omzia dingteng tawh a tuh na hi kei-te a, a khaici bek a tuh na hi-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -365,7 +365,7 @@
 ### v39
 **EN:** All flesh is not the same flesh: but there is one kind of flesh of men, another flesh of beasts, another of fishes, and another of birds.
 
-**TDB77:** Sa khempeuh nam khat bek ahi kei hi. Mihing’ sa namkhat, ganhing’ sa namkhat, vasa namkhat, ngasa namkhat atuamtuam a om ciat uh hi.
+**TDB77:** Sa khempeuh nam khat bek ahi kei hi. Mihing’ sa namkhat, ganhing’ sa namkhat, vasa namkhat, ngasa namkhat atuamtuam a om ciat-te hi.
 
 **ZVS:** Tua mah bangin sa a nei nuntakna nam khempeuh zong a sa kibang kimlo hi. Mihing sa, ganhing sa, vasa sa, ngasa sa, cih bangin a nam tuamtuam a om hi.
 
@@ -374,7 +374,7 @@
 ### v40
 **EN:** There are also celestial bodies, and bodies terrestrial: but the glory of the celestial is one, and the glory of the terrestrial is another.
 
-**TDB77:** Vantung pumpite a om uh hi, leitung pumpite a om uh hi. Vantung pumpite’ vangliatna pawl khat, leitung pumpite’ vangliatna nam khat a om ciat hi.
+**TDB77:** Vantung pumpite a om-te hi, leitung pumpite a om-te hi. Vantung pumpite’ vangliatna pawl khat, leitung pumpite’ vangliatna nam khat a om ciat hi.
 
 **ZVS:** Vantung pumpi om a, leitung pumpi zong om hi. Vantung pumpi a hoihna a tuam khat hi a, leitung pumpi a hoihna zong a tuam khat mah ahi hi.
 
@@ -383,7 +383,7 @@
 ### v41
 **EN:** There is one glory of the sun, and another glory of the moon, and another glory of the stars: for one star differeth from another star in glory.
 
-**TDB77:** Ni a vangliatna a om hi, kha a vangliatna a om hi, aksite a vangliatna a om hi. Bang hang hiam na cih uh leh, aksite a vangliatna in atuam tuamin a kilamdang hi.
+**TDB77:** Ni a vangliatna a om hi, kha a vangliatna a om hi, aksite a vangliatna a om hi. Bang hang hiam na cih-te leh, aksite a vangliatna in atuam tuamin a kilamdang hi.
 
 **ZVS:** Ni a hoihna a tuam khat hi a, kha a hoihna a tuam khat hi a, aksite a hoihna a tuam khat mah ahi hi. Aksite nangawn a hoihna a tuamtuamin omlai hi.
 
@@ -480,7 +480,7 @@
 ### v52
 **EN:** In a moment, in the twinkling of an eye, at the last trump: for the trumpet shall sound, and the dead shall be raised incorruptible, and we shall be changed.
 
-**TDB77:** A nunung peengkul a hong mut ciangin tomkha sung mitphiat kikalin eite khempeuh i kikheel ding hi. Tua peengkul a mut ding a, misite in muat thei nawn lo dingin hong thokik ding uh hi. Eite khempeuh in zong i kikheel khin ding hi.
+**TDB77:** A nunung peengkul a hong mut ciangin tomkha sung mitphiat kikalin eite khempeuh i kikheel ding hi. Tua peengkul a mut ding a, misite in muat thei nawn lo dingin hong thokik ding-te hi. Eite khempeuh in zong i kikheel khin ding hi.
 
 **ZVS:** Peengkul nunung hong gin' ciangin mitphiat kikal sungin i kikheelpak ding hi. Bang hang hiam cih leh peengkul hong gin' ciangin misite a sithei nawnlo dingin hong tho ding a, i vekpi-in i kikheel ding hi.
 
@@ -489,7 +489,7 @@
 ### v53
 **EN:** For this corruptible must put on incorruption, and this mortal must put on immortality.
 
-**TDB77:** Bang hang hiam na cih uh leh, hih a muat theite in muat theih lohna a silh ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, hih a muat theite in muat theih lohna a silh ding hi.
 
 **ZVS:** A muatthei pumpi pen a muattheilo pumpi-in hong kikheel ding a, a sithei pumpi pen a sitheilo pumpi-in hong kikheel ding hi.
 
@@ -528,9 +528,9 @@
 ### v58
 **EN:** Therefore, my beloved brethren, be ye stedfast, unmoveable, always abounding in the work of the Lord, forasmuch as ye know that your labour is not in vain in the Lord.
 
-**TDB77:** Tua ahih ciangin ka it ka ute ka naute aw, Topa’ nasep na hahkatna uh in Pasian tungah a mawkna hi lo hi cih thei na hih ciangun lungkipin, kicingin, kiam loin, hoi loin hahkat-in sem un.
+**TDB77:** Tua ahih ciangin ka it ka ute ka naute aw, Topa’ nasep na hahkatna-te in Pasian tungah a mawkna hi lo hi cih thei na hih ciangun lungkipin, kicingin, kiam loin, hoi loin hahkat-in sem un.
 
-**ZVS:** Tua ahih ciangin ka hong it sanggamte aw, Topa' hangin na nasepnate uh a mawkna hi ngei hetlo hi, ci-in na theih uh mah bangin Topa-a' dingin a tawntungin na sem un la, ling hetloin lungsim kiptakin na om ta un.
+**ZVS:** Tua ahih ciangin ka hong it sanggamte aw, Topa' hangin na nasepnate-te a mawkna hi ngei hetlo hi, ci-in na theih-te mah bangin Topa-a' dingin a tawntungin na sem un la, ling hetloin lungsim kiptakin na om ta un.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix
 

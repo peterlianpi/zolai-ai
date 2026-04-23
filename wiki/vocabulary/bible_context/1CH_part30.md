@@ -32,7 +32,7 @@
 
 ### paisuk = went down/descended
 **Context:** Three men went down to David.
-**Example:** mihing thum paisuk uh hi
+**Example:** mihing thum paisuk-te hi
 
 ### munmuanhuai = stronghold/place of safety
 **Context:** David was in the place of safety.
@@ -40,7 +40,7 @@
 
 ### khua cing = garrison/military post
 **Context:** The Philistine garrisons were at Bethlehem.
-**Example:** Filistia khua cingte Bethlehem ah om uh hi
+**Example:** Filistia khua cingte Bethlehem ah om-te hi
 
 ### lunggulhna = longing/strong desire
 **Context:** David spoke with longing.
@@ -60,7 +60,7 @@
 
 ### sung = life/soul (often used metaphorically for life force)
 **Context:** They brought it at the risk of their lives.
-**Example:** a nuntakna uh khamin
+**Example:** a nuntakna-te khamin
 
 ### gamta = to do/to act (often used negatively in prohibition)
 **Context:** May God forbid that I should do such a thing.
@@ -122,7 +122,7 @@
 - **lunggulhna tawh pau hi** = spoke with longing
   - Usage: Describes speaking driven by a deep desire or yearning for something.
 
-- **a nuntakna uh khamin** = at the risk/cost of their lives
+- **a nuntakna-te khamin** = at the risk/cost of their lives
   - Usage: Emphasizes extreme danger or sacrifice undertaken by someone.
 
 - **a thahat mi thumte ban lo hi** = did not equal the three mighty men
@@ -141,9 +141,9 @@
   - Contrastive structure using 'Ahih hangin' (But/However) to set up a comparison or limitation. Example: He was famous, BUT he didn't equal the top three.
   - Example: amah minthang a, ahih hangin amah in mihing thumte ban lo hi.
 
-- **X in Y panin Z tawi uh a, A la-in B kiangah paipih uh hi.**
+- **X in Y panin Z tawi-te a, A la-in B kiangah paipih-te hi.**
   - Complex action sequence: Drawing something (Z) from a source (Y panin) and then taking it (A la-in) to someone (B kiangah).
-  - Example: tuikhuk panin tui tawi uh a, a tui la-in David kiangah paipih uh hi.
+  - Example: tuikhuk panin tui tawi-te a, a tui la-in David kiangah paipih-te hi.
 
 - **X tapa Y in...**
   - Standard patronymic structure: Son of X, Y (e.g., Benaiah the son of Jehoiada).

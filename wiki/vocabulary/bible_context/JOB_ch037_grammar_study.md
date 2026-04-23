@@ -76,12 +76,12 @@
 
 **TDB77:** Amah in mihingte’ nasep khawlsak a, amah a gamtaang ahihna lak hi.
 
-**ZVS:** Amah in mihingte a nasep uh khawlsak a, amah a gamtang ahihna a kilangsak hi.
+**ZVS:** Amah in mihingte a nasep-te khawlsak a, amah a gamtang ahihna a kilangsak hi.
 
 ### v8
 **EN:** Then the beasts go into dens, and remain in their places.
 
-**TDB77:** Gamsate in a lupna ngei delh uh a, a kua sungah bucip uh hi.
+**TDB77:** Gamsate in a lupna ngei delh-te a, a kua sungah bucip-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -111,9 +111,9 @@
 ### v12
 **EN:** And it is turned round about by his counsels: that they may do whatsoever he commandeth them upon the face of the world in the earth.
 
-**TDB77:** Pasian’ deihna zui-in kikhin kawikawi hi. Leitung mun khempeuhah pai- in, Pasian’ sawl teng sem uh hi.
+**TDB77:** Pasian’ deihna zui-in kikhin kawikawi hi. Leitung mun khempeuhah pai- in, Pasian’ sawl teng sem-te hi.
 
-**ZVS:** Pasian' deihna zui-in a kikhin kawikawi hi. Leitung mun khempeuhah pai-in, Pasian' sawl teng a sem uh hi.
+**ZVS:** Pasian' deihna zui-in a kikhin kawikawi hi. Leitung mun khempeuhah pai-in, Pasian' sawl teng a sem-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -168,9 +168,9 @@
 ### v19
 **EN:** Teach us what we shall say unto him; for we cannot order our speech by reason of darkness.
 
-**TDB77:** Pasian kiangah ka gen ding uh hong hilh in; a hawmpi-in ka om uh a, ka gen ding uh bangmah om lo hi.
+**TDB77:** Pasian kiangah ka gen ding-te hong hilh in; a hawmpi-in ka om-te a, ka gen ding-te bangmah om lo hi.
 
-**ZVS:** Pasian kiangah ka gen ding uh hong hilh in. A hawmpi-in ka om uh a, ka gen ding uh omlo hi.
+**ZVS:** Pasian kiangah ka gen ding-te hong hilh in. A hawmpi-in ka om-te a, ka gen ding-te omlo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

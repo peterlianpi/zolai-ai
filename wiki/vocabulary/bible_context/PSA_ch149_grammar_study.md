@@ -51,16 +51,16 @@
 ### v5
 **EN:** Let the saints be joyful in glory: let them sing aloud upon their beds.
 
-**TDB77:** A gualzawhna uh-ah thuman mite lungdamin diang uh hen la, ama mai-ah khukdin-in, nuamna la sa uh hen.
+**TDB77:** A gualzawhna uh-ah thuman mite lungdamin diang-te hen la, ama mai-ah khukdin-in, nuamna la sa-te hen.
 
-**ZVS:** A gualzawhna uhah thuman mite lungdamin diang uh hen la, ama mai-ah khukdin'in nuamna la sa uh hen.
+**ZVS:** A gualzawhna uhah thuman mite lungdamin diang-te hen la, ama mai-ah khukdin'in nuamna la sa-te hen.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v9
 **EN:** To execute upon them the judgment written: this honour have all his saints. Praise ye the
 
-**TDB77:** Minam dangte tungah phu la-in gim a pia ding, a kumpite uh sikkhau tawh henin a miliante uh sikkol a bulh ding, a kigelhsa thukhenna bangin amaute tungah a semkhia dingin langnih a hiam namsau a tawi kawmun Pasian phatin awng ta uh hen. Hih pen Pasian' mite' gualzawhna ahi hi. { Topa } phat un.
+**TDB77:** Minam dangte tungah phu la-in gim a pia ding, a kumpite-te sikkhau tawh henin a miliante-te sikkol a bulh ding, a kigelhsa thukhenna bangin amaute tungah a semkhia dingin langnih a hiam namsau a tawi kawmun Pasian phatin awng ta-te hen. Hih pen Pasian' mite' gualzawhna ahi hi. { Topa } phat un.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 

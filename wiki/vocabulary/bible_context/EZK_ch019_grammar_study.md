@@ -34,7 +34,7 @@
 
 **TDB77:** Na nu uh, humpinelkai tawh kibang! Humpinelkai dangte tawh kikhawlin, a note khoi hi.
 
-**ZVS:** Na nu uh humpinelkai tawh kibang hi. Humpinelkai dangte tawh kikhawlin, a note a khoi hi.
+**ZVS:** Na nu-te humpinelkai tawh kibang hi. Humpinelkai dangte tawh kikhawlin, a note a khoi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -48,9 +48,9 @@
 ### v4
 **EN:** The nations also heard of him; he was taken in their pit, and they brought him with chains unto the land of Egypt.
 
-**TDB77:** Mite in tua thu za uh a, gum sungah awksak uh hi. Bawm sungah khum uh a, Izipt gamah paipih uh hi.
+**TDB77:** Mite in tua thu za-te a, gum sungah awksak-te hi. Bawm sungah khum-te a, Izipt gamah paipih-te hi.
 
-**ZVS:** Mite in tua thu za uh a, gum sungah awksak uh hi. Bawm sungah khum uh a, Egypt gamah paipih uh hi.
+**ZVS:** Mite in tua thu za-te a, gum sungah awksak-te hi. Bawm sungah khum-te a, Egypt gamah paipih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -80,18 +80,18 @@
 ### v8
 **EN:** Then the nations set against him on every side from the provinces, and spread their net over him: he was taken in their pit.
 
-**TDB77:** Amah hih dingin mite kikaikhawm a, mun khempeuh panin hong kuan uh hi. A ngenthang uh zak uh a, a thang-ah awksak uh hi.
+**TDB77:** Amah hih dingin mite kikaikhawm a, mun khempeuh panin hong kuan-te hi. A ngenthang-te zak-te a, a thang-ah awksak-te hi.
 
-**ZVS:** Amah a hih dingin mite kikaikhawm uh a, mun khempeuh panin hong kuan uh hi. A ngenthang uh zak uh a, thangah a awksak uh hi.
+**ZVS:** Amah a hih dingin mite kikaikhawm-te a, mun khempeuh panin hong kuan-te hi. A ngenthang-te zak-te a, thangah a awksak-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And they put him in ward in chains, and brought him to the king of Babylon: they brought him into holds, that his voice should no more be heard upon the mountains of Israel.
 
-**TDB77:** Bawm sungah khum uh a, Babilon kumpipa kiang tun uh hi. Israel mual tungte ah a hawkna a kizak nawn loh nadingin kikhumcip hi.
+**TDB77:** Bawm sungah khum-te a, Babilon kumpipa kiang tun-te hi. Israel mual tungte ah a hawkna a kizak nawn loh nadingin kikhumcip hi.
 
-**ZVS:** Bawm sungah khum uh a, Babylon kumpipa kiang a tun'pih uh hi. Israel mualtung tengah ama hawkna a kizak nawnlohna dingin a khumcip uh hi.
+**ZVS:** Bawm sungah khum-te a, Babylon kumpipa kiang a tun'pih-te hi. Israel mualtung tengah ama hawkna a kizak nawnlohna dingin a khumcip-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

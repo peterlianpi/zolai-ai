@@ -12,15 +12,15 @@
 
 ### lungdamin = with gladness/joyfully
 **Context:** Adverbial form of 'lungdam' (gladness), describing how the fields should rejoice.
-**Example:** gamlak leh a sunga om khempeuh lungdamin diang ta uh hen!
+**Example:** gamlak leh a sunga om khempeuh lungdamin diang ta-te hen!
 
 ### singte = trees (plural)
 **Context:** Referring to the trees of the wood/forest.
-**Example:** Tua ciangin gamlak singte in lungdamin Topa mai-ah la sa ding uh hi
+**Example:** Tua ciangin gamlak singte in lungdamin Topa mai-ah la sa ding-te hi
 
 ### mai-ah = before/in the presence of
 **Context:** Indicates location relative to the Lord (Topa mai-ah = in the presence of the Lord).
-**Example:** Topa mai-ah la sa ding uh hi
+**Example:** Topa mai-ah la sa ding-te hi
 
 ### thukhen = judge/discern matters
 **Context:** Referring to the Lord coming to judge the world.
@@ -72,7 +72,7 @@
 
 ### cing = guard/porter/gatekeeper
 **Context:** The role assigned to Jeduthun's sons.
-**Example:** kongpi cing dingte ahi uh hi.
+**Example:** kongpi cing dingte ahi-te hi.
 
 ### meihal biakna = burnt offering
 **Context:** The type of sacrifice offered on the altar.
@@ -84,11 +84,11 @@
 
 ### peengkulte = trumpets
 **Context:** Musical instruments used by Heman and Jeduthun.
-**Example:** Heman leh Jeduthun in la aw dingin peengkulte leh daltuahte nei uh a
+**Example:** Heman leh Jeduthun in la aw dingin peengkulte leh daltuahte nei-te a
 
 ### daltuahte = cymbals
 **Context:** Musical instruments used alongside trumpets.
-**Example:** peengkulte leh daltuahte nei uh a
+**Example:** peengkulte leh daltuahte nei-te a
 
 ### taamtaak = cedar (adjective form)
 **Context:** Describing the house David lived in (house of cedars).
@@ -124,7 +124,7 @@
 
 - **bang hang hiam cih leh**
   - A rhetorical structure meaning 'Why? Because...' or 'For the reason that...', introducing the justification for the preceding statement.
-  - Example: la sa ding uh hi, bang hang hiam cih leh leitung thukhen dingin amah hong pai hi.
+  - Example: la sa ding-te hi, bang hang hiam cih leh leitung thukhen dingin amah hong pai hi.
 
 - **X tungah lungdamna ko un**
   - Imperative structure: 'Give thanks to X' (X tungah = upon X; lungdamna = thanks; ko un = offer/put).

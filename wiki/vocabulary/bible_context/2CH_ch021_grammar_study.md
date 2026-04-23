@@ -34,9 +34,9 @@
 ### v2
 **EN:** And he had brethren the sons of Jehoshaphat, Azariah, and Jehiel, and Zechariah, and Azariah, and Michael, and Shephatiah: all these were the sons of Jehoshaphat king of Israel.
 
-**TDB77:** Jehoshafat’ tapa ama sanggam pasalte in: Azariah, Jehiel, Zekhariah, Azariah, Mikhael, leh Shefatiah ahi uh hi; hihte khempeuh in Judah kumpipa Jehoshafat’ tapate ahi hi.
+**TDB77:** Jehoshafat’ tapa ama sanggam pasalte in: Azariah, Jehiel, Zekhariah, Azariah, Mikhael, leh Shefatiah ahi-te hi; hihte khempeuh in Judah kumpipa Jehoshafat’ tapate ahi hi.
 
-**ZVS:** Jehoshafat' tapa Jehoram' sanggam pasalte: Azariah, Jehiel, Zekhariah, Azariah, Mikhael, leh Shefatiah ahi uh hi. Hihte khempeuh, Judah kumpi Jehoshafat' tapate ahi hi.
+**ZVS:** Jehoshafat' tapa Jehoram' sanggam pasalte: Azariah, Jehiel, Zekhariah, Azariah, Mikhael, leh Shefatiah ahi-te hi. Hihte khempeuh, Judah kumpi Jehoshafat' tapate ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -84,9 +84,9 @@
 ### v8
 **EN:** In his days the Edomites revolted from under the dominion of Judah, and made themselves a king.
 
-**TDB77:** Ama hun sungin Judah ukna panin Edom leengkhia-in amau’ kumpi tuam phuan uh hi.
+**TDB77:** Ama hun sungin Judah ukna panin Edom leengkhia-in amau’ kumpi tuam phuan-te hi.
 
-**ZVS:** Ama hun sungin Judah ukna panin Edom lengkhia-in amau' kumpi tuam a koih uh hi.
+**ZVS:** Ama hun sungin Judah ukna panin Edom lengkhia-in amau' kumpi tuam a koih-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -157,9 +157,9 @@
 ### v17
 **EN:** And they came up into Judah, and brake into it, and carried away all the substance that was found in the king's house, and his sons also, and his wives; so that there was never a son left him, save Jehoahaz, the youngest of his sons.
 
-**TDB77:** tua ciangin Judah simin amaute hong kuanto-in luh uh a, kumpipa’ innah a om a muh uh na khempeuh, leh a tapate leh a zite zong puakhia uh a, a tapa neupen Jehoahaz simloh a tapa a kinusia om lo hi.
+**TDB77:** tua ciangin Judah simin amaute hong kuanto-in luh-te a, kumpipa’ innah a om a muh-te na khempeuh, leh a tapate leh a zite zong puakhia-te a, a tapa neupen Jehoahaz simloh a tapa a kinusia om lo hi.
 
-**ZVS:** Tua ahih ciangin Judah a simin amaute hong kuanto-in luh uh a, kumpipa' inn-ah a om a muh uh na khempeuh, leh a tapate leh a zite zong puakhia uh a, a tapa neupen Jehoahaz simloh a tapate a kinusia omlo hi.
+**ZVS:** Tua ahih ciangin Judah a simin amaute hong kuanto-in luh-te a, kumpipa' inn-ah a om a muh-te na khempeuh, leh a tapate leh a zite zong puakhia-te a, a tapa neupen Jehoahaz simloh a tapate a kinusia omlo hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -173,18 +173,18 @@
 ### v19
 **EN:** And it came to pass, that in process of time, after the end of two years, his bowels fell out by reason of his sickness: so he died of sore diseases. And his people made no burning for him, like the burning of his fathers.
 
-**TDB77:** A hun a cin, kum nih beina ciangin a natna hangin a gil tolh khia a, nakpi takin na sa-in si hi. A pate adingin mei a cih uh bangin, a mite in amah zahtakna-in mei cih lo uh hi.
+**TDB77:** A hun a cin, kum nih beina ciangin a natna hangin a gil tolh khia a, nakpi takin na sa-in si hi. A pate adingin mei a cih-te bangin, a mite in amah zahtakna-in mei cih lo-te hi.
 
-**ZVS:** A hun a cin', kum nih beina ciangin a natna hangin a gil tolhkhia a, nakpi takin na sa-in a si hi. A pate-a' dingin mei a cih uh bangin a mite in amah zahtakna-in mei cihlo uh hi.
+**ZVS:** A hun a cin', kum nih beina ciangin a natna hangin a gil tolhkhia a, nakpi takin na sa-in a si hi. A pate-a' dingin mei a cih-te bangin a mite in amah zahtakna-in mei cihlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | negation: lo | plural: uh marker
 
 ### v20
 **EN:** Thirty and two years old was he when he began to reign, and he reigned in Jerusalem eight years, and departed without being desired. Howbeit they buried him in the city of David, but not in the sepulchres of the kings.
 
-**TDB77:** Amah in uk ding a kipatin kum sawmthum-le-nih pha a, Jerusalem ah kumgiat sung uk hi; kuama dahpih lohin amah kihemkhia hi. Amaute in David khuapi sungah amah phum uh a, ahih hangin kumpite’ han sungah kiphum lo hi.
+**TDB77:** Amah in uk ding a kipatin kum sawmthum-le-nih pha a, Jerusalem ah kumgiat sung uk hi; kuama dahpih lohin amah kihemkhia hi. Amaute in David khuapi sungah amah phum-te a, ahih hangin kumpite’ han sungah kiphum lo hi.
 
-**ZVS:** Amah in uk ding a kipatin kum sawmthumlenih a pha hi. Jerusalem-ah kum giat sung uk a, kuama dahpih lohin amah kihemkhia hi. Amaute in David khuapi sungah amah vui uh a, ahih hangin kumpite' han sungah kivui lo hi.
+**ZVS:** Amah in uk ding a kipatin kum sawmthumlenih a pha hi. Jerusalem-ah kum giat sung uk a, kuama dahpih lohin amah kihemkhia hi. Amaute in David khuapi sungah amah vui-te a, ahih hangin kumpite' han sungah kivui lo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 

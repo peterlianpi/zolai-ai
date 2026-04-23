@@ -45,27 +45,27 @@
 ### v3
 **EN:** And ye shall compass the city, all ye men of war, and go round about the city once. Thus shalt thou do six days.
 
-**TDB77:** Khuapi kimkotah galkap mi khempeuh khatvei na pai ding uh hi. Tua bangin niguk sung na pai ding uh hi.
+**TDB77:** Khuapi kimkotah galkap mi khempeuh khatvei na pai ding-te hi. Tua bangin niguk sung na pai ding-te hi.
 
-**ZVS:** Khuapi kimkotah galkap mi khempeuh khatvei na pai ding uh hi. Tua bangin ni guk sung na pai ding uh hi.
+**ZVS:** Khuapi kimkotah galkap mi khempeuh khatvei na pai ding-te hi. Tua bangin ni guk sung na pai ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And seven priests shall bear before the ark seven trumpets of rams' horns: and the seventh day ye shall compass the city seven times, and the priests shall blow with the trumpets.
 
-**TDB77:** Siampi sagih in thuciamna singkuang mai-ah tuutal ki peengkul sagih tawi ding uh hi; a ni sagih ni-in khuapi kimkotah sagihvei na pai ding uh a, siampite in peengkul tum ding uh hi.
+**TDB77:** Siampi sagih in thuciamna singkuang mai-ah tuutal ki peengkul sagih tawi ding-te hi; a ni sagih ni-in khuapi kimkotah sagihvei na pai ding-te a, siampite in peengkul tum ding-te hi.
 
-**ZVS:** Siampi sagih in Thuciamna Singkuang mai-ah tuutal ki peengkul sagih tawi ding uh hi. A ni sagih ni-in khuapi kimkotah sagihvei na pai ding uh a, siampite in peengkul tum ding uh hi.
+**ZVS:** Siampi sagih in Thuciamna Singkuang mai-ah tuutal ki peengkul sagih tawi ding-te hi. A ni sagih ni-in khuapi kimkotah sagihvei na pai ding-te a, siampite in peengkul tum ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
-**EN:** And it shall come to pass, that when they make a long blast with the ram's horn, and when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.
+**EN:** And it shall come to pass, that when they make a long blast with the gam's horn, and when ye hear the sound of the trumpet, all the people shall shout with a great shout; and the wall of the city shall fall down flat, and the people shall ascend up every man straight before him.
 
-**TDB77:** Amaute in tuutal ki sauveipi a gin’sak uh ciangin, peengkul aw na zak phetun nakpi takin mi khempeuh awng ding uh hi; khuapi kulh cim mai ding a, mi khempeuh amau mai ciatah tang takin paisuak ding uh hi,” a ci hi.
+**TDB77:** Amaute in tuutal ki sauveipi a gin’sak-te ciangin, peengkul aw na zak phetun nakpi takin mi khempeuh awng ding-te hi; khuapi kulh cim mai ding a, mi khempeuh amau mai ciatah tang takin paisuak ding-te hi,” a ci hi.
 
-**ZVS:** Amaute in tuutal ki sauveipi a gin'sak khit uh ciangin, peengkul aw na zak phetun nakpi takin mi khempeuh awng ding uh hi. Khuapikulh cimmai ding a, mi khempeuh amau mai ciatah tangtakin khuapi sungah paisuak ding uh hi,” a ci hi.
+**ZVS:** Amaute in tuutal ki sauveipi a gin'sak khit-te ciangin, peengkul aw na zak phetun nakpi takin mi khempeuh awng ding-te hi. Khuapikulh cimmai ding a, mi khempeuh amau mai ciatah tangtakin khuapi sungah paisuak ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -90,72 +90,72 @@
 ### v8
 **EN:** And it came to pass, when Joshua had spoken unto the people, that the seven priests bearing the seven trumpets of rams' horns passed on before the
 
-**TDB77:** Joshua in mite a thupiak bangin Topa mai-ah a pai tuutal ki peengkul a tawi siampi sagihte mai nawtin pai-in peengkul tum uh a, Topa thuciamna singkuang in amaute zui hi.
+**TDB77:** Joshua in mite a thupiak bangin Topa mai-ah a pai tuutal ki peengkul a tawi siampi sagihte mai nawtin pai-in peengkul tum-te a, Topa thuciamna singkuang in amaute zui hi.
 
-**ZVS:** Joshua in mite a thupiak bangin { Topa' } mai-ah a pai tuutal ki peengkul a tawi siampi sagihte mai nawtin pai-in peengkul tum uh a, { Topa' } Thuciamna Singkuang in amaute zui hi.
+**ZVS:** Joshua in mite a thupiak bangin { Topa' } mai-ah a pai tuutal ki peengkul a tawi siampi sagihte mai nawtin pai-in peengkul tum-te a, { Topa' } Thuciamna Singkuang in amaute zui hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v9
 **EN:** And the armed men went before the priests that blew with the trumpets, and the rearward came after the ark, the priests going on, and blowing with the trumpets.
 
-**TDB77:** Tua ciangin peengkul a tum siampite mai-ah hiamtawi mite pai uh a, peengkulte a kitum suak hun lai takin thuciamna singkuang nungah a nungdalte pai uh hi.
+**TDB77:** Tua ciangin peengkul a tum siampite mai-ah hiamtawi mite pai-te a, peengkulte a kitum suak hun lai takin thuciamna singkuang nungah a nungdalte pai-te hi.
 
-**ZVS:** Tua ciangin peengkul a tum siampite' mai-ah hiam tawi mite pai uh a, peengkulte a kitum suak hun laitakin Thuciamna Singkuang nungah a nungdalte a pai uh hi.
+**ZVS:** Tua ciangin peengkul a tum siampite' mai-ah hiam tawi mite pai-te a, peengkulte a kitum suak hun laitakin Thuciamna Singkuang nungah a nungdalte a pai-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And Joshua had commanded the people, saying, Ye shall not shout, nor make any noise with your voice, neither shall any word proceed out of your mouth, until the day I bid you shout; then shall ye shout.
 
-**TDB77:** Ahih hangin Joshua in mite thu pia-in, “Awng un, ci-a kong sawl hun matengin note awng loin, na aw uh zong na kizasak kei ding uh a, na kam panun aw khatbeek ging khia lo ding hi; awng un, kong cih ciangin na awng bek ding uh hi,” a ci hi.
+**TDB77:** Ahih hangin Joshua in mite thu pia-in, “Awng un, ci-a kong sawl hun matengin note awng loin, na aw-te zong na kizasak kei ding-te a, na kam panun aw khatbeek ging khia lo ding hi; awng un, kong cih ciangin na awng bek ding-te hi,” a ci hi.
 
-**ZVS:** Ahih hangin Joshua in mite thu pia-in, “Awng un, ci-a kong sawl hun matengin note awngloin, na aw uh zong na kizasak kei ding uh a, na kam panun aw khat beek gingkhia lo ding hi. Awng un, kong cih ciangin na awng bek ding uh hi,” a ci hi.
+**ZVS:** Ahih hangin Joshua in mite thu pia-in, “Awng un, ci-a kong sawl hun matengin note awngloin, na aw-te zong na kizasak kei ding-te a, na kam panun aw khat beek gingkhia lo ding hi. Awng un, kong cih ciangin na awng bek ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** So the ark of the
 
-**TDB77:** Tua ahih ciangin amah in Topa thuciamna singkuang khuapi kimkotah khatvei paisak hi; amaute giahphual-ah hong ciahin giahphualah a zan giak uh hi.
+**TDB77:** Tua ahih ciangin amah in Topa thuciamna singkuang khuapi kimkotah khatvei paisak hi; amaute giahphual-ah hong ciahin giahphualah a zan giak-te hi.
 
-**ZVS:** Tua ahih ciangin amah in { Topa' } Thuciamna Singkuang khuapi kimkotah khatvei paisak a, amaute hong ciahkikin giahphualah a zan giak uh hi.
+**ZVS:** Tua ahih ciangin amah in { Topa' } Thuciamna Singkuang khuapi kimkotah khatvei paisak a, amaute hong ciahkikin giahphualah a zan giak-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And Joshua rose early in the morning, and the priests took up the ark of the
 
-**TDB77:** Tua ciangin zingsangin Joshua thobaih a, siampite in Topa thuciamna singkuang la uh hi.
+**TDB77:** Tua ciangin zingsangin Joshua thobaih a, siampite in Topa thuciamna singkuang la-te hi.
 
-**ZVS:** Tua ciangin zingsangin Joshua tho baih a, siampite in { Topa' } Thuciamna Singkuang a la uh hi.
+**ZVS:** Tua ciangin zingsangin Joshua tho baih a, siampite in { Topa' } Thuciamna Singkuang a la-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v13
 **EN:** And seven priests bearing seven trumpets of rams' horns before the ark of the
 
-**TDB77:** Topa thuciamna singkuang mai-ah a pai tuutal ki peengkul sagih a tawi siampi sagihte paisuakin peengkulte tum suak uh hi; amaute mai-ah hiamtawite pai-in, peengkulte a kitum suak hun lai takin Topa thuciamna singkuang nungah a nungdalte pai uh hi.
+**TDB77:** Topa thuciamna singkuang mai-ah a pai tuutal ki peengkul sagih a tawi siampi sagihte paisuakin peengkulte tum suak-te hi; amaute mai-ah hiamtawite pai-in, peengkulte a kitum suak hun lai takin Topa thuciamna singkuang nungah a nungdalte pai-te hi.
 
-**ZVS:** { Topa' } Thuciamna Singkuang mai-ah a pai tuutal ki peengkul sagih a tawi siampi sagihte paisuakin peengkulte tumsuak uh hi. Amaute' mai-ah hiam tawite pai-in, peengkulte a kitum suak hun laitakin { Topa' } Thuciamna Singkuang nungah a nungdalte a pai uh hi.
+**ZVS:** { Topa' } Thuciamna Singkuang mai-ah a pai tuutal ki peengkul sagih a tawi siampi sagihte paisuakin peengkulte tumsuak-te hi. Amaute' mai-ah hiam tawite pai-in, peengkulte a kitum suak hun laitakin { Topa' } Thuciamna Singkuang nungah a nungdalte a pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And the second day they compassed the city once, and returned into the camp: so they did six days.
 
-**TDB77:** A ninih ni-in khuapi kimkotah khatvei pai uh a, giahphualah ciahkik uh hi. Tua bangin niguk sung hih uh hi.
+**TDB77:** A ninih ni-in khuapi kimkotah khatvei pai-te a, giahphualah ciahkik-te hi. Tua bangin niguk sung hih-te hi.
 
-**ZVS:** A ni nih ni-in khuapi kimkotah khatvei pai uh a, giahphualah ciahkik uh hi. Tua bangin ni guk sung a hih uh hi.
+**ZVS:** A ni nih ni-in khuapi kimkotah khatvei pai-te a, giahphualah ciahkik-te hi. Tua bangin ni guk sung a hih-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And it came to pass on the seventh day, that they rose early about the dawning of the day, and compassed the city after the same manner seven times: only on that day they compassed the city seven times.
 
-**TDB77:** A ni sagih ni-in khuavak tungin tho baih uh a, tua mah bangin khuapi kimkotah sagihvei pai uh hi; tua ni bekin khuapi kimkotah amaute sagihvei pai uh hi.
+**TDB77:** A ni sagih ni-in khuavak tungin tho baih-te a, tua mah bangin khuapi kimkotah sagihvei pai-te hi; tua ni bekin khuapi kimkotah amaute sagihvei pai-te hi.
 
-**ZVS:** A ni sagih ni-in khuavak tungin tho baih uh a, tua bangmahin khuapi kimkotah sagihvei a pai uh hi. Tuani bekin khuapi kimkotah amaute sagihvei pai uh hi.
+**ZVS:** A ni sagih ni-in khuavak tungin tho baih-te a, tua bangmahin khuapi kimkotah sagihvei a pai-te hi. Tuani bekin khuapi kimkotah amaute sagihvei pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -180,9 +180,9 @@
 ### v18
 **EN:** And ye, in any wise keep yourselves from the accursed thing, lest ye make yourselves accursed, when ye take of the accursed thing, and make the camp of Israel a curse, and trouble it.
 
-**TDB77:** Ahih hangin suksiat dingin a kiseh nate panin nomau mah na kikem ding uh hi, tua hi kei leh tuate na suksiat ding uh ciangin a kisusia ding nate khat peuhpeuh iplahin la kha-in Israelte’ giahphual siat nading na khat suaksakin haksatna na tun’ kha ding uh hi.
+**TDB77:** Ahih hangin suksiat dingin a kiseh nate panin nomau mah na kikem ding-te hi, tua hi kei leh tuate na suksiat ding-te ciangin a kisusia ding nate khat peuhpeuh iplahin la kha-in Israelte’ giahphual siat nading na khat suaksakin haksatna na tun’ kha ding-te hi.
 
-**ZVS:** Ahih hangin suksiat dingin a kiseh nate panin nomau mah na kikem ding uh hi. Tua hi kei leh tuate na suksiat ding uh ciangin a kisusia ding nate khat peuhpeuh iplahin la kha-in Israel-te' giahphual sungah siatna ding na khat suaksakin haksatna na tun' khading uh hi.
+**ZVS:** Ahih hangin suksiat dingin a kiseh nate panin nomau mah na kikem ding-te hi. Tua hi kei leh tuate na suksiat ding-te ciangin a kisusia ding nate khat peuhpeuh iplahin la kha-in Israel-te' giahphual sungah siatna ding na khat suaksakin haksatna na tun' khading-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -198,18 +198,18 @@
 ### v20
 **EN:** So the people shouted when the priests blew with the trumpets: and it came to pass, when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat, so that the people went up into the city, every man straight before him, and they took the city.
 
-**TDB77:** Tua ahih ciangin mite awng a, peengkulte kitum hi. Mite in peengkul aw a zak phetun nakpi takin awng uh a, kulhpi cim mai-in, mi khempeuh amau mai ciatah tang takin khuapi sungah pai uh a, khuapi la uh hi.
+**TDB77:** Tua ahih ciangin mite awng a, peengkulte kitum hi. Mite in peengkul aw a zak phetun nakpi takin awng-te a, kulhpi cim mai-in, mi khempeuh amau mai ciatah tang takin khuapi sungah pai-te a, khuapi la-te hi.
 
-**ZVS:** Tua ahih ciangin mite awng a, peengkulte kitum hi. Mite in peengkul aw a zak phetun nakpi takin awng uh a, kulhpi cimmai-in, mi khempeuh amau mai ciatah tangtakin khuapi sungah pai uh a, khuapi a la uh hi.
+**ZVS:** Tua ahih ciangin mite awng a, peengkulte kitum hi. Mite in peengkul aw a zak phetun nakpi takin awng-te a, kulhpi cimmai-in, mi khempeuh amau mai ciatah tangtakin khuapi sungah pai-te a, khuapi a la-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And they utterly destroyed all that was in the city, both man and woman, young and old, and ox, and sheep, and ass, with the edge of the sword.
 
-**TDB77:** Tua ciangin amaute in khuapi sunga om khempeuh numei leh pasal, a moi a ham, bawngtalte, tuute, leh late khempeuh namsau tawh that mang khin uh a, khuapi Topa tungah ap uh hi.
+**TDB77:** Tua ciangin amaute in khuapi sunga om khempeuh numei leh pasal, a moi a ham, bawngtalte, tuute, leh late khempeuh namsau tawh that mang khin-te a, khuapi Topa tungah ap-te hi.
 
-**ZVS:** Tua ciangin amaute in khuapi sunga om khempeuh numei leh pasal, a moi a ham, bawngtalte, tuute, leh late khempeuh namsau tawh thatmang khin uh hi.
+**ZVS:** Tua ciangin amaute in khuapi sunga om khempeuh numei leh pasal, a moi a ham, bawngtalte, tuute, leh late khempeuh namsau tawh thatmang khin-te hi.
 
 **Grammar:** sequence: then/therefore | completed: already done | plural: uh marker
 
@@ -225,27 +225,27 @@
 ### v23
 **EN:** And the young men that were spies went in, and brought out Rahab, and her father, and her mother, and her brethren, and all that she had; and they brought out all her kindred, and left them without the camp of Israel.
 
-**TDB77:** Tua ahih ciangin thu kansim tangvalte va tum uh a, Rahab, leh a nu leh a pa leh a sanggamte leh amah tawh a kizom khempeuh pai khiatpih uh hi; amaute in tua nu’ tanau teng khempeuh paipih uh a, Israelte’ giahphual pua lamah koih uh hi.
+**TDB77:** Tua ahih ciangin thu kansim tangvalte va tum-te a, Rahab, leh a nu leh a pa leh a sanggamte leh amah tawh a kizom khempeuh pai khiatpih-te hi; amaute in tua nu’ tanau teng khempeuh paipih-te a, Israelte’ giahphual pua lamah koih-te hi.
 
-**ZVS:** Tua ahih ciangin thu kansim tangvalte va tum uh a, Rahab, a nu, a pa, a sanggamte, leh amah tawh a kizom khempeuh a paikhiatpih uh hi. Amaute in tuanu' tanau teng khempeuh paipih uh a, Israel-te' giahphual pualamah a koih uh hi.
+**ZVS:** Tua ahih ciangin thu kansim tangvalte va tum-te a, Rahab, a nu, a pa, a sanggamte, leh amah tawh a kizom khempeuh a paikhiatpih-te hi. Amaute in tuanu' tanau teng khempeuh paipih-te a, Israel-te' giahphual pualamah a koih-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And they burnt the city with fire, and all that was therein: only the silver, and the gold, and the vessels of brass and of iron, they put into the treasury of the house of the
 
-**TDB77:** Amaute in khuapi leh a sunga om khempeuh mei tawh hal uh hi; ngun leh kham, leh sumngo leh sik tawh a kibawl nazatte bek Topa’ inn-a sumkoihna-ah koih uh hi.
+**TDB77:** Amaute in khuapi leh a sunga om khempeuh mei tawh hal-te hi; ngun leh kham, leh sumngo leh sik tawh a kibawl nazatte bek Topa’ inn-a sumkoihna-ah koih-te hi.
 
-**ZVS:** Amaute in khuapi leh a sunga om khempeuh mei tawh hal uh a, ngun leh kham, sumngo leh sik tawh a kibawl nazatte bek { Topa' } inn-a sumkoihna-ah a koih uh hi.
+**ZVS:** Amaute in khuapi leh a sunga om khempeuh mei tawh hal-te a, ngun leh kham, sumngo leh sik tawh a kibawl nazatte bek { Topa' } inn-a sumkoihna-ah a koih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And Joshua saved Rahab the harlot alive, and her father's household, and all that she had; and she dwelleth in Israel even unto this day; because she hid the messengers, which Joshua sent to spy out Jericho.
 
-**TDB77:** Ahih hangin numei paktat Rahab, leh a pa innkuanpite, leh tua nu tawh a kizomte khempeuh Joshua in hingkhawi hi; Jerikho thu kansim dingin Joshua in a sawl kamtaite tua nu in na seel ahih manin tu ni dongin Israel mite lakah a suan-le-khakte teeng uh hi.
+**TDB77:** Ahih hangin numei paktat Rahab, leh a pa innkuanpite, leh tua nu tawh a kizomte khempeuh Joshua in hingkhawi hi; Jerikho thu kansim dingin Joshua in a sawl kamtaite tua nu in na seel ahih manin tu ni dongin Israel mite lakah a suan-le-khakte teeng-te hi.
 
-**ZVS:** Ahih hangin numei paktat Rahab, leh tuanu tawh a kizomte khempeuh Joshua in a hingkhawi hi. Jerikho khua thu a kansim dingin Joshua in a sawl kamtaite tuanu in na seel ahih manin tuni dongin Israel mite lakah a suanlekhakte a teng uh hi.
+**ZVS:** Ahih hangin numei paktat Rahab, leh tuanu tawh a kizomte khempeuh Joshua in a hingkhawi hi. Jerikho khua thu a kansim dingin Joshua in a sawl kamtaite tuanu in na seel ahih manin tuni dongin Israel mite lakah a suanlekhakte a teng-te hi.
 
 **Grammar:** purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 

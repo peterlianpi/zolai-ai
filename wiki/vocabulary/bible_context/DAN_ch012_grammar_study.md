@@ -25,7 +25,7 @@
 ### v1
 **EN:** And at that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time: and at that time thy people shall be delivered, every one that shall be found written in the book.
 
-**TDB77:** “Tua hun ciangin na mite a cing, a lian vantungmi Mikhael a hong kilang ding hi. Tua ciangin leitunga mihing a pian’ zawh akipan a nasia penpen gimna hun a hong tung ding hi. Tua hun a hong tun’ ciangin Pasian’ laibu sunga a min kigelh, na mite khempeuh in gupna a ngah ding uh hi.
+**TDB77:** “Tua hun ciangin na mite a cing, a lian vantungmi Mikhael a hong kilang ding hi. Tua ciangin leitunga mihing a pian’ zawh akipan a nasia penpen gimna hun a hong tung ding hi. Tua hun a hong tun’ ciangin Pasian’ laibu sunga a min kigelh, na mite khempeuh in gupna a ngah ding-te hi.
 
 **ZVS:** Tua ciangin saihadial puan a silh vantung mi in, “Na mite a cing, a lian vantung mi Mikhael hong kilang ding hi. Tua ciangin leitungah mihing a pian'zawha kipan a nasia penpen gimna hun hong tung ding hi. Tua hun a hong tun' ciangin Pasian' laibu sungah a min a kigelh na mite khempeuh kihonkhia ding hi.
 
@@ -34,27 +34,27 @@
 ### v2
 **EN:** And many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt.
 
-**TDB77:** A sisa mi tampite in nuntakna a ngah kik ding uh hi. Pawl khatte in nungta tawntung ding uh a, pawl khatte in a tawntung zumna leh minsiatna a ngah ding uh hi.
+**TDB77:** A sisa mi tampite in nuntakna a ngah kik ding-te hi. Pawl khatte in nungta tawntung ding-te a, pawl khatte in a tawntung zumna leh minsiatna a ngah ding-te hi.
 
-**ZVS:** A sisa mi tampite in nuntakna a ngahkik ding uh hi. Pawlkhatte nungta tawntung ding uh a, pawlkhatte in a tawntung zumna leh minsiatna a ngah ding uh hi.
+**ZVS:** A sisa mi tampite in nuntakna a ngahkik ding-te hi. Pawlkhatte nungta tawntung ding-te a, pawlkhatte in a tawntung zumna leh minsiatna a ngah ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And they that be wise shall shine as the brightness of the firmament; and they that turn many to righteousness as the stars for ever and ever.
 
-**TDB77:** A pilte ahih uh leh vantung khuavak tawh a taang khawm ding uh hi. A pha-a a gamtat nading uh mi tampi thu a hilhte in aksi bangin a taang tawntung ding uh hi.
+**TDB77:** A pilte ahih-te leh vantung khuavak tawh a taang khawm ding-te hi. A pha-a a gamtat nading-te mi tampi thu a hilhte in aksi bangin a taang tawntung ding-te hi.
 
-**ZVS:** A pilte ahih uh leh vantung khuavak tawh a taangkhawm ding uh hi. A pha-in gamtat ding mi tampi a hilhte pen aksi bangin a taang tawntung ding uh hi.
+**ZVS:** A pilte ahih-te leh vantung khuavak tawh a taangkhawm ding-te hi. A pha-in gamtat ding mi tampi a hilhte pen aksi bangin a taang tawntung ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v4
 **EN:** But thou, O Daniel, shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased.
 
-**TDB77:** Tu-in Daniel aw, beina hun a tun’ mateng laibu khakcip in la, a tungah ciamtehna koih in. A kal lakah mi tampite’ pilna khangin, bang thu piang hiam cih thei tel nuamin kileh kawikawi ding uh hi,” hong ci hi.
+**TDB77:** Tu-in Daniel aw, beina hun a tun’ mateng laibu khakcip in la, a tungah ciamtehna koih in. A kal lakah mi tampite’ pilna khangin, bang thu piang hiam cih thei tel nuamin kileh kawikawi ding-te hi,” hong ci hi.
 
-**ZVS:** Tu-in Daniel aw, beina hun a tun' mateng laibu khupcip in la, a tungah ciamtehna koih in. A kallakah mi tampite in bang thu piang hiam cih theitel nuamin a hanciam ding uh hi,” a hong ci hi.
+**ZVS:** Tu-in Daniel aw, beina hun a tun' mateng laibu khupcip in la, a tungah ciamtehna koih in. A kallakah mi tampite in bang thu piang hiam cih theitel nuamin a hanciam ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -104,9 +104,9 @@
 ### v10
 **EN:** Many shall be purified, and made white, and tried; but the wicked shall do wickedly: and none of the wicked shall understand; but the wise shall understand.
 
-**TDB77:** Mi tampite kisiansuahin a hoih leh a hoih lo lam a kikhentel ding hi. Mi gilote in bangmah thei tel thei lo uh ahih manin a gi kei semsem ding uh hi. Ahih hangin mi pilte in theih tel theihna a nei ding uh hi.
+**TDB77:** Mi tampite kisiansuahin a hoih leh a hoih lo lam a kikhentel ding hi. Mi gilote in bangmah thei tel thei lo-te ahih manin a gi kei semsem ding-te hi. Ahih hangin mi pilte in theih tel theihna a nei ding-te hi.
 
-**ZVS:** Mi tampite kisian'suahin a hoih leh a hoihlo a kikhentel ding uh hi. Migilote in bangmah theitel theilo uh ahih manin a gilo semsem ding uh hi. Ahih hangin mipilte in theihtel theihna a nei ding uh hi.
+**ZVS:** Mi tampite kisian'suahin a hoih leh a hoihlo a kikhentel ding-te hi. Migilote in bangmah theitel theilo-te ahih manin a gilo semsem ding-te hi. Ahih hangin mipilte in theihtel theihna a nei ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -122,9 +122,9 @@
 ### v12
 **EN:** Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days.
 
-**TDB77:** Ni tulkhat leh zathum leh sawmthum leh nga dong muan’ huai taka a ngak zo kenkante in thupha a ngah ding uh hi.
+**TDB77:** Ni tulkhat leh zathum leh sawmthum leh nga dong muan’ huai taka a ngak zo kenkante in thupha a ngah ding-te hi.
 
-**ZVS:** Ni tul khat zathum sawmthumnga sung muan'huai takin a ngakzo kenkante in thupha a ngah ding uh hi.
+**ZVS:** Ni tul khat zathum sawmthumnga sung muan'huai takin a ngakzo kenkante in thupha a ngah ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

@@ -148,9 +148,9 @@
 ### v17
 **EN:** They came round about me daily like water; they compassed me about together.
 
-**TDB77:** Amaute in tuikhang bangin sun tawntung kei hong umcih uh a, kei hong tuamcip uh hi.
+**TDB77:** Amaute in tuikhang bangin sun tawntung kei hong umcih-te a, kei hong tuamcip-te hi.
 
-**ZVS:** Amaute in tuikhang bangin sun tawntungin kei hong umcih uh a, kei hong tuamcip uh hi.
+**ZVS:** Amaute in tuikhang bangin sun tawntungin kei hong umcih-te a, kei hong tuamcip-te hi.
 
 **Grammar:** plural: uh marker
 

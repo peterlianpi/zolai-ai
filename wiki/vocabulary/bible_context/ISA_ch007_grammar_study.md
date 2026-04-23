@@ -27,9 +27,9 @@
 ### v1
 **EN:** And it came to pass in the days of Ahaz the son of Jotham, the son of Uzziah, king of Judah, that Rezin the king of Syria, and Pekah the son of Remaliah, king of Israel, went up toward Jerusalem to war against it, but could not prevail against it.
 
-**TDB77:** Uzziah’ tapa Jotham, Jotham’ tapa Ahaz ahi Judah kumpipa’ hun lai takin, Siria kumpipa Rezin leh Remaliah’ tapa Pekah ahi Israel kumpipa in Jerusalem khuapi sim dingin kuanto uh a, ahih hangin amaute in zo zo lo uh hi.
+**TDB77:** Uzziah’ tapa Jotham, Jotham’ tapa Ahaz ahi Judah kumpipa’ hun lai takin, Siria kumpipa Rezin leh Remaliah’ tapa Pekah ahi Israel kumpipa in Jerusalem khuapi sim dingin kuanto-te a, ahih hangin amaute in zo zo lo-te hi.
 
-**ZVS:** Uzziah' tapa Jotham, Jotham' tapa Ahaz ahi Judah kumpipa' hun laitakin, Syria kumpipa Rezin leh Remaliah' tapa Pekah ahi Israel kumpipa, Jerusalem khuapi a sim dingin kuanto uh a, ahih hangin amaute in zo zolo uh hi.
+**ZVS:** Uzziah' tapa Jotham, Jotham' tapa Ahaz ahi Judah kumpipa' hun laitakin, Syria kumpipa Rezin leh Remaliah' tapa Pekah ahi Israel kumpipa, Jerusalem khuapi a sim dingin kuanto-te a, ahih hangin amaute in zo zolo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | plural: uh marker
 
@@ -63,18 +63,18 @@
 ### v5
 **EN:** Because Syria, Ephraim, and the son of Remaliah, have taken evil counsel against thee, saying,
 
-**TDB77:** Bang hang hiam cih leh Siria kumpi-a kipan Remaliah’ tapa leh Efraim mite in nang hong sawm uh a,
+**TDB77:** Bang hang hiam cih leh Siria kumpi-a kipan Remaliah’ tapa leh Efraim mite in nang hong sawm-te a,
 
-**ZVS:** Bang hang hiam cih leh Syria kumpi-a kipan Remaliah' tapa leh Efraim mite in nang hong sawm uh a,
+**ZVS:** Bang hang hiam cih leh Syria kumpi-a kipan Remaliah' tapa leh Efraim mite in nang hong sawm-te a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Let us go up against Judah, and vex it, and let us make a breach therein for us, and set a king in the midst of it, even the son of Tabeal:
 
-**TDB77:** “Judah gam do dingin pai-in va sugawp ni, eima adingin va zo ni, tua gamah kumpi dingin Tabe-el’ tapa va koih ni,” ci uh hi,
+**TDB77:** “Judah gam do dingin pai-in va sugawp ni, eima adingin va zo ni, tua gamah kumpi dingin Tabe-el’ tapa va koih ni,” ci-te hi,
 
-**ZVS:** “Judah gam a sim dingin pai-in va sugawp ni; eima-a' dingin va zo ni; tua gamah kumpi dingin Tabeel' tapa va koih ni,” ci uh hi.
+**ZVS:** “Judah gam a sim dingin pai-in va sugawp ni; eima-a' dingin va zo ni; tua gamah kumpi dingin Tabeel' tapa va koih ni,” ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -135,9 +135,9 @@
 ### v13
 **EN:** And he said, Hear ye now, O house of David; Is it a small thing for you to weary men, but will ye weary my God also?
 
-**TDB77:** Tua ciangin Isaiah in, “David innkuan aw, ngai un! Mite na lunggim sakna uh thu neu sa a, ka Pasian zong lunggim sak na hi uh hiam?
+**TDB77:** Tua ciangin Isaiah in, “David innkuan aw, ngai un! Mite na lunggim sakna-te thu neu sa a, ka Pasian zong lunggim sak na hi-te hiam?
 
-**ZVS:** Tua ciangin Isaiah in, “David' innkuan aw, ngai un! Mite na lunggim sakna uh kicing salo a, ka Pasian zong lunggimsak lai na hi uh hiam?
+**ZVS:** Tua ciangin Isaiah in, “David' innkuan aw, ngai un! Mite na lunggim sakna-te kicing salo a, ka Pasian zong lunggimsak lai na hi-te hiam?
 
 **Grammar:** sequence: then/therefore
 
@@ -162,9 +162,9 @@
 ### v16
 **EN:** For before the child shall know to refuse the evil, and choose the good, the land that thou abhorrest shall be forsaken of both her kings.
 
-**TDB77:** Bang hang hiam cih leh naupang in a hoih lote nial-in a hoihte a teel theih hun ma-in na kihtak uh kumpi nihte’ gam kinusiacip ding hi.
+**TDB77:** Bang hang hiam cih leh naupang in a hoih lote nial-in a hoihte a teel theih hun ma-in na kihtak-te kumpi nihte’ gam kinusiacip ding hi.
 
-**ZVS:** Bang hang hiam cih leh naupang in a hoihlote nialin a hoihte a teel theih hun ma-in na kihtak uh kumpi nihte' gam kinusiacip ding hi.
+**ZVS:** Bang hang hiam cih leh naupang in a hoihlote nialin a hoihte a teel theih hun ma-in na kihtak-te kumpi nihte' gam kinusiacip ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -189,9 +189,9 @@
 ### v19
 **EN:** And they shall come, and shall rest all of them in the desolate valleys, and in the holes of the rocks, and upon all thorns, and upon all bushes.
 
-**TDB77:** Tuate khempeuh hong pai-in, keenhawmte sung leh suangpi heengte sung leh lingkung kawmte leh ganhing tatna mun khempeuh ah dim ding uh hi.
+**TDB77:** Tuate khempeuh hong pai-in, keenhawmte sung leh suangpi heengte sung leh lingkung kawmte leh ganhing tatna mun khempeuh ah dim ding-te hi.
 
-**ZVS:** Tuate khempeuh hong pai-in, keenhawmte sung, suangpi heengte sung, lingkung kawmte, leh ganhing tatna mun khempeuhah dim ding uh hi.
+**ZVS:** Tuate khempeuh hong pai-in, keenhawmte sung, suangpi heengte sung, lingkung kawmte, leh ganhing tatna mun khempeuhah dim ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -216,7 +216,7 @@
 
 **TDB77:** ahi zongin tuate in nawi tampi a piakna hangin amah in bawngnawi thaukhal ne zo ding hi; bang hang hiam cih leh gam sunga a om lai mi khempeuh in bawngnawi thaukhal leh khuaizu ne ding hi.
 
-**ZVS:** ahi zongin tuate in nawi tampi a piakna hangin amah in bawngnawi thaukhal ne zo ding hi; bang hang hiam cih leh gamsungah a omlai mi khempeuh in bawngnawi thaukhal leh khuaizu ne ding uh hi.
+**ZVS:** ahi zongin tuate in nawi tampi a piakna hangin amah in bawngnawi thaukhal ne zo ding hi; bang hang hiam cih leh gamsungah a omlai mi khempeuh in bawngnawi thaukhal leh khuaizu ne ding-te hi.
 
 **Grammar:** future: will
 
@@ -232,9 +232,9 @@
 ### v24
 **EN:** With arrows and with bows shall men come thither; because all the land shall become briers and thorns.
 
-**TDB77:** Gam khempeuh lingkungte leh lingte tawh kidim ding ahih manin, thal leh thaltangte tawh tua munah mihingte gamvak ding uh hi;
+**TDB77:** Gam khempeuh lingkungte leh lingte tawh kidim ding ahih manin, thal leh thaltangte tawh tua munah mihingte gamvak ding-te hi;
 
-**ZVS:** Gam khempeuh lingkungte leh lingte tawh kidim ding ahih manin, thal leh thaltangte tawh tua munah mihingte gam vak ding uh hi.
+**ZVS:** Gam khempeuh lingkungte leh lingte tawh kidim ding ahih manin, thal leh thaltangte tawh tua munah mihingte gam vak ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 

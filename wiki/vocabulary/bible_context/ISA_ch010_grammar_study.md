@@ -28,16 +28,16 @@
 ### v2
 **EN:** To turn aside the needy from judgment, and to take away the right from the poor of my people, that widows may be their prey, and that they may rob the fatherless!
 
-**TDB77:** A cimawhte' thutang kimlai hei khiatsakin, keima mite sungah a zawngte' thuman sutkhia-in, meigong numeite' neihsa amau-a' ding a suahtheihna ding leh pa neilote' neihsa amau' nek dingin a bawl theihna dingun a manlo thukhensatna pia a, nenniamna thu a gelhte in gimna ngah ta uh hen!
+**TDB77:** A cimawhte' thutang kimlai hei khiatsakin, keima mite sungah a zawngte' thuman sutkhia-in, meigong numeite' neihsa amau-a' ding a suahtheihna ding leh pa neilote' neihsa amau' nek dingin a bawl theihna dingun a manlo thukhensatna pia a, nenniamna thu a gelhte in gimna ngah ta-te hen!
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v3
 **EN:** And what will ye do in the day of visitation, and in the desolation which shall come from far? to whom will ye flee for help? and where will ye leave your glory?
 
-**TDB77:** Dan piak ni hun, gamlapi panin siatna hong pai ciangin note in bang cih ding na hi uh hiam! Huhna ngenin kua kiangah tai ding a, na neihsa uh koi-ah koih ding na hi uh hiam?
+**TDB77:** Dan piak ni hun, gamlapi panin siatna hong pai ciangin note in bang cih ding na hi-te hiam! Huhna ngenin kua kiangah tai ding a, na neihsa-te koi-ah koih ding na hi-te hiam?
 
-**ZVS:** Gimpiak ni hun, gamlapi panin huihpi hong nun' ciangin note in bangcih ding na hi uh hiam? Huhna ngenin kua kiangah tai ding a, na neihsa uh koi lai-ah koih ding na hi uh hiam?
+**ZVS:** Gimpiak ni hun, gamlapi panin huihpi hong nun' ciangin note in bangcih ding na hi-te hiam? Huhna ngenin kua kiangah tai ding a, na neihsa-te koi lai-ah koih ding na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -53,7 +53,7 @@
 ### v5
 **EN:** O Assyrian, the rod of mine anger, and the staff in their hand is mine indignation.
 
-**TDB77:** Assiria-te in gimna ngah hen, keima hehna molhtum leh ka lungdamna ciangkhut ahi uh hi.
+**TDB77:** Assiria-te in gimna ngah hen, keima hehna molhtum leh ka lungdamna ciangkhut ahi-te hi.
 
 **ZVS:** Assiria-te pen ka hehna mite gimpiakna dingin molhtum leh ciangkhutin ka zat ahi hi.
 
@@ -182,9 +182,9 @@
 ### v20
 **EN:** And it shall come to pass in that day, that the remnant of Israel, and such as are escaped of the house of Jacob, shall no more again stay upon him that smote them; but shall stay upon the
 
-**TDB77:** Tua ni-a kipan, Israel a om laite leh Jakob innkuan a suakta laite in amau a sugawppa suang nawn loin, Topa ahi, Israelte’ Siangtho Pa pen thuman tawh suan’ in, nei ding uh hi.
+**TDB77:** Tua ni-a kipan, Israel a om laite leh Jakob innkuan a suakta laite in amau a sugawppa suang nawn loin, Topa ahi, Israelte’ Siangtho Pa pen thuman tawh suan’ in, nei ding-te hi.
 
-**ZVS:** Tua ni-a kipan Israel a omlaite, Jakob innkuan a suakta laite in amau a sugawppa suang nawnloin, { Topa } ahi, Israel Siangtho Pa pen thuman tawh suan'in nei ding uh hi.
+**ZVS:** Tua ni-a kipan Israel a omlaite, Jakob innkuan a suakta laite in amau a sugawppa suang nawnloin, { Topa } ahi, Israel Siangtho Pa pen thuman tawh suan'in nei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -218,18 +218,18 @@
 ### v24
 **EN:** Therefore thus saith the Lord
 
-**TDB77:** Tua ahih ciangin Topa, Vanglianpen Topa in hih bangin ci hi: “Zion-ah a teeng ka mihingte aw, Izipt mite’ hih bangin amaute in molhtum tawh hong satin a ciangkhut uh hong liik ciangin Assiria mite kihta kei un.
+**TDB77:** Tua ahih ciangin Topa, Vanglianpen Topa in hih bangin ci hi: “Zion-ah a teeng ka mihingte aw, Izipt mite’ hih bangin amaute in molhtum tawh hong satin a ciangkhut-te hong liik ciangin Assiria mite kihta kei un.
 
-**ZVS:** Tua ahih ciangin Topa, Vanglian { Topa } in thu gen a, “Zion-ah a teng ka mihingte aw, Egypt mite' hih bangin amaute in molhtum tawh hong satin a ciangkhut uh hong lik ciangin Assiria mite kihta kei un.
+**ZVS:** Tua ahih ciangin Topa, Vanglian { Topa } in thu gen a, “Zion-ah a teng ka mihingte aw, Egypt mite' hih bangin amaute in molhtum tawh hong satin a ciangkhut-te hong lik ciangin Assiria mite kihta kei un.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
 ### v25
 **EN:** For yet a very little while, and the indignation shall cease, and mine anger in their destruction.
 
-**TDB77:** Bang hang hiam cih leh a sawt loin note tungah ka thangpaihna bei ding a, ka hehna amaute’ tung tuin, amaute sia ding uh hi.
+**TDB77:** Bang hang hiam cih leh a sawt loin note tungah ka thangpaihna bei ding a, ka hehna amaute’ tung tuin, amaute sia ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh a sawtloin note tungah ka thangpaihna bei ding a, ka hehna amaute' tung tu-in, amaute sia ding uh hi.
+**ZVS:** Bang hang hiam cih leh a sawtloin note tungah ka thangpaihna bei ding a, ka hehna amaute' tung tu-in, amaute sia ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -254,18 +254,18 @@
 ### v28
 **EN:** He is come to Aiath, he is passed to Migron; at Michmash he hath laid up his carriages:
 
-**TDB77:** Galte pen Rimmon gampan hong kipanin Ai-ath khua hong tung uh a, amaute in Migron khua kantanin hong pai uh a, Mikmas khua-ah a van uh hong seng uh hi.
+**TDB77:** Galte pen Rimmon gampan hong kipanin Ai-ath khua hong tung-te a, amaute in Migron khua kantanin hong pai-te a, Mikmas khua-ah a van-te hong seng-te hi.
 
-**ZVS:** Rimmon gam pan galte hong kipanin Aiath khua hong tung uh a, Migron khua kantanin hong pai uh a, Mikmash khua-ah a van uh hong seng uh hi.
+**ZVS:** Rimmon gam pan galte hong kipanin Aiath khua hong tung-te a, Migron khua kantanin hong pai-te a, Mikmash khua-ah a van-te hong seng-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** They are gone over the passage: they have taken up their lodging at Geba; Ramah is afraid; Gibeah of Saul is fled.
 
-**TDB77:** Amaute in mualciang kantanin Geba khua-ah zan khat giak uh hi; Ramah khua mite lau-in liing uh a, Saul’ teen’na Gibeah khua mite tai uh hi.
+**TDB77:** Amaute in mualciang kantanin Geba khua-ah zan khat giak-te hi; Ramah khua mite lau-in liing-te a, Saul’ teen’na Gibeah khua mite tai-te hi.
 
-**ZVS:** Amaute in mualciang kantanin Geba khua-ah zan khat giak uh hi. Rama khuamite lau-in ling uh a, Saul' ten'na Gibeah khuamite a tai uh hi.
+**ZVS:** Amaute in mualciang kantanin Geba khua-ah zan khat giak-te hi. Rama khuamite lau-in ling-te a, Saul' ten'na Gibeah khuamite a tai-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -281,18 +281,18 @@
 ### v31
 **EN:** Madmenah is removed; the inhabitants of Gebim gather themselves to flee.
 
-**TDB77:** Madmenah khuamite taikhia a, Gebim khua-a teeng mite suakta dingin tai uh hi.
+**TDB77:** Madmenah khuamite taikhia a, Gebim khua-a teeng mite suakta dingin tai-te hi.
 
-**ZVS:** Madmenah khuamite taikhia a, Gebim khua-a a teng mite a suakta dingin a tai uh hi.
+**ZVS:** Madmenah khuamite taikhia a, Gebim khua-a a teng mite a suakta dingin a tai-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v32
 **EN:** As yet shall he remain at Nob that day: he shall shake his hand against the mount of the daughter of Zion, the hill of Jerusalem.
 
-**TDB77:** Tu ni mahmah-in Nob khua-ah galte tungin khawl uh a, Zion Mual ahi, Jerulasem khuapi, a khuttum uh sin’san uh hi.
+**TDB77:** Tu ni mahmah-in Nob khua-ah galte tungin khawl-te a, Zion Mual ahi, Jerulasem khuapi, a khuttum-te sin’san-te hi.
 
-**ZVS:** Tuni mahmahin Nob khua-ah galte tungin khawl uh a, Zion Mual ahi Jerusalem khuapi a khuttum uh sin'san uh hi.
+**ZVS:** Tuni mahmahin Nob khua-ah galte tungin khawl-te a, Zion Mual ahi Jerusalem khuapi a khuttum-te sin'san-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 

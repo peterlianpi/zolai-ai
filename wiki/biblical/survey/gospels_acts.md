@@ -11,7 +11,7 @@ The Gospels and Acts represent a transition from the Old Testament's grand rheto
 Matthew focuses on Jesus as the teacher and the fulfillment of the Law. It is the bridge between OT and NT.
 
 ### Key Linguistic Patterns
-*   **The Beatitudes Formula:** `Thupha ngah mi na hi uh hi...` (Blessed are you/ye...).
+*   **The Beatitudes Formula:** `Thupha ngah mi na hi-te hi...` (Blessed are you/ye...).
 *   **Metaphorical Identity:** `Leitung ci` (Salt of the earth), `Leitung khuavak` (Light of the world).
 *   **Synthesis of Old and New:** `Moses Thukham... ka phiat dingin a hong pai hiloin...` (I came not to destroy the law...).
 

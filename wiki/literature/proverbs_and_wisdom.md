@@ -15,7 +15,7 @@ These maxims are collected in the *Zolai Khanggui* (AD 1899–2013) as `Kammalho
 ### On Relationships
 - `Lawm le gual lung kihual.` — Friends share hearts. *(ABC Laimal)*
 - `Neih val, lamh val hilo, itna omna ah hop ding, huh ding, piak ding om veve hi.` — Love isn't about wealth — it's about helping, supporting, and giving.
-- `Bangbang ihi zongin hong gensia veve ding uh hi.` — No matter what you do, critics will always criticize.
+- `Bangbang ihi zongin hong gensia veve ding-te hi.` — No matter what you do, critics will always criticize.
 - `Mite bangbang a pau zongin a hoih lamin la theipeuh lehang ei adingin thahatna, lawpna piang thei veve hi.` — If we take the good from whatever people say, strength and joy can always arise.
 
 ### On Wisdom
@@ -38,7 +38,7 @@ Each of the 51 parables in *Gentehna Tuamtuam* concludes with a moral lesson. He
 
 ### On Perseverance
 - `I phul khak i haksatnate in sangpi i tun nadingin thakhauhna, hangsanna, hatna hong guanzaw thei ahi hi.` — The difficulties we struggle through build stamina, endurance, and strength for reaching the summit. *(Kau le A Bu)*
-- `Thanuamte in thadahte a zo tawtung uh hi.` — The diligent always overcome the lazy. *(Sumkuang le Bilpi)*
+- `Thanuamte in thadahte a zo tawtung-te hi.` — The diligent always overcome the lazy. *(Sumkuang le Bilpi)*
 
 ### On Self-Awareness
 - `I pianzia bangbangin lungkimlo a midangte pianzia banga I kibawl leh eima pianzia ngeina zong kitaanlawh thei hi.` — If we're not content with who we are and try to be like others, we may lose our own nature entirely. *(Va-ak Utong)*
@@ -46,10 +46,10 @@ Each of the 51 parables in *Gentehna Tuamtuam* concludes with a moral lesson. He
 
 ### On Humility
 - `Mun sang ah i tung phial zong mi khatpeuh pen neu tah, bangmah hikei tah ci aa simmawh diloin thupit bawl theih ding, lungkim sak zawh ding kisam hi.` — Even at the top, never look down on anyone — everyone deserves respect. *(Dahpa)*
-- `I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek uh hi.` — When succeeding, don't despise others. Even the weak have their own strengths. *(Humpi le Zusa)*
+- `I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek-te hi.` — When succeeding, don't despise others. Even the weak have their own strengths. *(Humpi le Zusa)*
 
 ### On Deception
-- `Hong daisak nuam, mawh ong zongte in bangbang ihi zongin paulap tuamtuam nei nuam teitei uh hi.` — Those who want to oppress will always find excuses, no matter what. *(Keivom le Tuuno)*
+- `Hong daisak nuam, mawh ong zongte in bangbang ihi zongin paulap tuamtuam nei nuam teitei-te hi.` — Those who want to oppress will always find excuses, no matter what. *(Keivom le Tuuno)*
 - `Humpi in a duh a ngah nadingin a duhlohte tah/pia hi.` — The tiger gives away what it doesn't want to get what it desires. *(Humpi le Bawng)*
 
 ### On Time & Contentment
@@ -69,7 +69,7 @@ Most Zolai proverbs follow the **antithetic parallelism** pattern:
 ```
 
 ### Selected Proverbs
-- `Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente uh a theih nading ahi hi.` — Understanding proverbs, parables, the words of the wise and their riddles. *(Proverbs 1:6)*
+- `Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente-te a theih nading ahi hi.` — Understanding proverbs, parables, the words of the wise and their riddles. *(Proverbs 1:6)*
 - `Pilna, hauhna, zaliatna, siamna cihte pen amau mun tek bek ah kimanna nei hi.` — Knowledge, wealth, authority, and skill each have value only in their proper place. *(Gentehna #2)*
 
 ---

@@ -1,0 +1,55 @@
+[2026-04-16T10:11:53.999604] === EXPERT LINGUISTIC DEEP LEARNING V8 (100+ CYCLES) ===
+
+[2026-04-16T10:11:54.020940] === LOADING 3+ DICTIONARIES ===
+[2026-04-16T10:12:03.556802]   ZomiDictionary: 33386 entries
+[2026-04-16T10:12:03.557259]   TongDot: 0 entries
+[2026-04-16T10:12:03.557506]   Wordlists: 53646 entries
+[2026-04-16T10:12:03.557738]   Bible parallel: 82771 entries
+[2026-04-16T10:12:03.557951] 
+=== EXTRACTING ALL SOURCES ===
+[2026-04-16T10:22:44.200665]   Bible MD: 30868 verses
+[2026-04-16T10:22:44.201204]   All JSONL: 382821 entries
+[2026-04-16T10:22:44.201380] 
+=== STARTING 100+ DEEP CYCLES ===
+
+[2026-04-16T10:23:04.334412] [Cycle   1] L:315514 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3746
+[2026-04-16T10:26:22.018967] [Cycle  10] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3746
+[2026-04-16T10:29:42.399852] [Cycle  20] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3746
+[2026-04-16T10:33:03.769932] [Cycle  30] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3746
+[2026-04-16T10:36:28.235266] [Cycle  40] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3746
+[2026-04-16T10:39:53.450634] [Cycle  50] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3746
+[2026-04-16T10:42:14.554125] === EXPERT LINGUISTIC DEEP LEARNING V8 (100+ CYCLES) ===
+
+[2026-04-16T10:42:14.564907] === LOADING 3+ DICTIONARIES ===
+[2026-04-16T10:42:21.179537]   ZomiDictionary: 33386 entries
+[2026-04-16T10:42:21.179788]   TongDot: 75744 entries
+[2026-04-16T10:42:21.179900]   Wordlists: 53646 entries
+[2026-04-16T10:42:21.180021]   Bible parallel: 82771 entries
+[2026-04-16T10:42:21.180121] 
+=== EXTRACTING ALL SOURCES ===
+[2026-04-16T10:52:46.986417]   Bible MD: 30868 verses
+[2026-04-16T10:52:46.990021]   All JSONL: 382821 entries
+[2026-04-16T10:52:46.990223] 
+=== STARTING 100+ DEEP CYCLES ===
+
+[2026-04-16T10:53:14.680489] [Cycle   1] L:315514 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3748
+[2026-04-16T10:58:07.945267] [Cycle  10] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3748
+[2026-04-16T11:02:41.070595] [Cycle  20] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3748
+[2026-04-16T11:06:59.373293] [Cycle  30] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3748
+[2026-04-16T11:12:12.975056] [Cycle  40] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.666 | High:     0 | Multi:  3748
+[2026-04-16T11:12:47.380832] === EXPERT LINGUISTIC DEEP LEARNING V8 (100+ CYCLES) ===
+
+[2026-04-16T11:12:47.389532] === LOADING 3+ DICTIONARIES ===
+[2026-04-16T11:12:58.575935]   ZomiDictionary: 33386 entries
+[2026-04-16T11:12:58.576368]   TongDot: 75744 entries
+[2026-04-16T11:12:58.576669]   Wordlists: 53646 entries
+[2026-04-16T11:12:58.576934]   Bible parallel: 82771 entries
+[2026-04-16T11:12:58.577162] 
+=== EXTRACTING ALL SOURCES ===
+[2026-04-16T11:26:58.137815]   Bible MD: 30868 verses
+[2026-04-16T11:26:58.138350]   All JSONL: 382821 entries
+[2026-04-16T11:26:58.138503] 
+=== STARTING 100+ DEEP CYCLES ===
+
+[2026-04-16T11:27:16.627420] [Cycle   1] L:315514 I:     0 R:     0 | Total: 315514 | Avg:0.744 | High:  3748 | Multi:  3748
+[2026-04-16T11:32:01.645204] [Cycle  10] L:     0 I:     0 R:     0 | Total: 315514 | Avg:0.744 | High:  3748 | Multi:  3748

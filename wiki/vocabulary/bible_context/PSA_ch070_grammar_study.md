@@ -37,9 +37,9 @@
 ### v3
 **EN:** Let them be turned back for a reward of their shame that say, Aha, aha.
 
-**TDB77:** “Ha, ha!” a cite, a maizumna uh tawh maikhingsak in!
+**TDB77:** “Ha, ha!” a cite, a maizumna-te tawh maikhingsak in!
 
-**ZVS:** “Ha, ha!” a cite a maizumna uh tawh maikhingsak in.
+**ZVS:** “Ha, ha!” a cite a maizumna-te tawh maikhingsak in.
 
 ### v4
 **EN:** Let all those that seek thee rejoice and be glad in thee: and let such as love thy salvation say continually, Let God be magnified.

@@ -23,27 +23,27 @@
 ### v1
 **EN:** And Jesus went out, and departed from the temple: and his disciples came to him for to shew him the buildings of the temple.
 
-**TDB77:** Zeisu in biakna innpi pan a paikhiat lai takin, a nungzuite in biakna innpi lak dingin a kiangah va nai uh hi.
+**TDB77:** Zeisu in biakna innpi pan a paikhiat lai takin, a nungzuite in biakna innpi lak dingin a kiangah va nai-te hi.
 
-**ZVS:** Biakinn panin Jesuh a paikhiat laitakin ama kiangah a nungzuite hong pai-in, tua biakinn a thupina zia a lak uh hi.
+**ZVS:** Biakinn panin Jesuh a paikhiat laitakin ama kiangah a nungzuite hong pai-in, tua biakinn a thupina zia a lak-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And Jesus said unto them,
 
-**TDB77:** Zeisu in, “Hihte khempeuh mu hilo na hi uh hiam? Ke’n aman takpi kong cih-inah, a kiphelkhia loin suang khat tungah suang kiciang khat beek a om kei ding hi,” a ci hi.
+**TDB77:** Zeisu in, “Hihte khempeuh mu hilo na hi-te hiam? Ke’n aman takpi kong cih-inah, a kiphelkhia loin suang khat tungah suang kiciang khat beek a om kei ding hi,” a ci hi.
 
-**ZVS:** Ahi zongin Jesuh in amaute kiangah, “Hihte khempeuh na mu khinta uh hi. Ke'n a mantaka kong genin-ah: Hih inn lamna-a a kiciang suangte a kithuapin a om nangawn a om nawnlo zah dongin kilawnkeek mang ding hi,” ci-in a dawng hi.
+**ZVS:** Ahi zongin Jesuh in amaute kiangah, “Hihte khempeuh na mu khinta-te hi. Ke'n a mantaka kong genin-ah: Hih inn lamna-a a kiciang suangte a kithuapin a om nangawn a om nawnlo zah dongin kilawnkeek mang ding hi,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | reciprocal: ki- prefix
 
 ### v3
 **EN:** And as he sat upon the mount of Olives, the disciples came unto him privately, saying, Tell us, when shall these things be? and what shall be the sign of thy coming, and of the end of the world?
 
-**TDB77:** Tua lai takin Zeisu in, Oliv Mual tungah tu-a a om lai takin a nungzuite in a kiangah va pai sim uh a, “Tua thute in cikciang a hong piang ding hiam? Topa, nong kum ding ahi zongin, leitung bei ding ahi zongin, bang limin hong kihil ding cih hong hilh in,” ci-in a dong uh hi.
+**TDB77:** Tua lai takin Zeisu in, Oliv Mual tungah tu-a a om lai takin a nungzuite in a kiangah va pai sim-te a, “Tua thute in cikciang a hong piang ding hiam? Topa, nong kum ding ahi zongin, leitung bei ding ahi zongin, bang limin hong kihil ding cih hong hilh in,” ci-in a dong-te hi.
 
-**ZVS:** Oliv Mual tungah Jesuh tu-in a om laitakin a nungzuite guak a tuamin hong pai uh a, “Hih thute cik ciangin hong piangding a, nang na hong paiding hun leh hun beina ding bang lim hong om ding ahi hiam, hong gen in,” a ci uh hi.
+**ZVS:** Oliv Mual tungah Jesuh tu-in a om laitakin a nungzuite guak a tuamin hong pai-te a, “Hih thute cik ciangin hong piangding a, nang na hong paiding hun leh hun beina ding bang lim hong om ding ahi hiam, hong gen in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

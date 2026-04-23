@@ -42,7 +42,7 @@
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v3
-**EN:** Then I lifted up mine eyes, and saw, and, behold, there stood before the river a ram which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.
+**EN:** Then I lifted up mine eyes, and saw, and, behold, there stood before the river a gam which had two horns: and the two horns were high; but one was higher than the other, and the higher came up last.
 
 **TDB77:** Ka khuadak toh leh gun gei-ah tuutal khat ding-a om ka mu hi. Amah in a sau mahmah ki nih nei a, a ki po nunung pen a po masa sangin a sauzaw hi.
 
@@ -51,7 +51,7 @@
 **Grammar:** intensifier: very/greatly
 
 ### v4
-**EN:** I saw the ram pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great.
+**EN:** I saw the gam pushing westward, and northward, and southward; so that no beasts might stand before him, neither was there any that could deliver out of his hand; but he did according to his will, and became great.
 
 **TDB77:** Tua tuutal in a ki tawh, nitumna lam, sak lam, khang lam a si kawikawi ka mu hi. Ama ut bangin kiphasak-in gamta ahih manin, amah a kho zo ding leh a thahatna pan a suakta zo ding ganhing khat beek a om kei hi.
 
@@ -69,7 +69,7 @@
 **Grammar:** intensifier: very/greatly | negation: kei | causal: because | reciprocal: ki- prefix
 
 ### v6
-**EN:** And he came to the ram that had two horns, which I had seen standing before the river, and ran unto him in the fury of his power.
+**EN:** And he came to the gam that had two horns, which I had seen standing before the river, and ran unto him in the fury of his power.
 
 **TDB77:** Ki nih a nei gun gei-a ding ka muh tuutal kiang a hong phak ciangin a tha neih zahin a sii hi.
 
@@ -78,7 +78,7 @@
 **Grammar:** reciprocal: ki- prefix
 
 ### v7
-**EN:** And I saw him come close unto the ram, and he was moved with choler against him, and smote the ram, and brake his two horns: and there was no power in the ram to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the ram out of his hand.
+**EN:** And I saw him come close unto the gam, and he was moved with choler against him, and smote the gam, and brake his two horns: and there was no power in the gam to stand before him, but he cast him down to the ground, and stamped upon him: and there was none that could deliver the gam out of his hand.
 
 **TDB77:** Heh lua mahmah ahih manin tua tuutal tuangawp a, a ki tegel a suktan sak hi. Tuutal in a nan’ zawh na’ng thahatna nei lo ahih manin lei kiden’na a, a huh zo ding kuamah a om kei hi.
 
@@ -195,7 +195,7 @@
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v20
-**EN:** The ram which thou sawest having two horns are the kings of Media and Persia.
+**EN:** The gam which thou sawest having two horns are the kings of Media and Persia.
 
 **TDB77:** Na muh ki nih a nei tuutal in Media leh Persia gam kumpite a cih nopna ahi hi.
 
@@ -213,18 +213,18 @@
 ### v22
 **EN:** Now that being broken, whereas four stood up for it, four kingdoms shall stand up out of the nation, but not in his power.
 
-**TDB77:** Ki po masapen a kitan’ khit ciangin a nunga hong po ki lite in, tua gam panin kumpi gam li hong piang ding cih nopna ahi hi. Ahih hangin tua gamte in a masapen kumpi zahin a thahat kei ding uh hi.
+**TDB77:** Ki po masapen a kitan’ khit ciangin a nunga hong po ki lite in, tua gam panin kumpi gam li hong piang ding cih nopna ahi hi. Ahih hangin tua gamte in a masapen kumpi zahin a thahat kei ding-te hi.
 
-**ZVS:** Ki po masa pen a kitan khit ciangin a nunga hong po ki lite pen tua gam panin kumpi gam li hong piang ding a cihnopna ahi hi. Ahih hangin tua gamte ahih leh a masa pen kumpi gam zahin a thahat kei ding uh hi.
+**ZVS:** Ki po masa pen a kitan khit ciangin a nunga hong po ki lite pen tua gam panin kumpi gam li hong piang ding a cihnopna ahi hi. Ahih hangin tua gamte ahih leh a masa pen kumpi gam zahin a thahat kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** And in the latter time of their kingdom, when the transgressors are come to the full, a king of fierce countenance, and understanding dark sentences, shall stand up.
 
-**TDB77:** Tua kumpi gamte a bei ding a nunung zaw hun a nai ciangin, gilo lua mahmah ding uh ahih manin daan a kipia ding hi. Tua ciangin ama thu bek thu a sa, mawhna pawlpawl tawh kidim, hehmel a pua kumpi khat a hong om ding hi.
+**TDB77:** Tua kumpi gamte a bei ding a nunung zaw hun a nai ciangin, gilo lua mahmah ding-te ahih manin daan a kipia ding hi. Tua ciangin ama thu bek thu a sa, mawhna pawlpawl tawh kidim, hehmel a pua kumpi khat a hong om ding hi.
 
-**ZVS:** “Tua kumpi gamte a bei ding hun a nai ciangin gilo lua mahmah ding uh ahih manin gim a kipia ding hi. Tua ciangin ama thu bek thu a sa, mawhna pawlpawl tawh a kidim, zuauphuah hat kumpi khat a hong om ding hi.
+**ZVS:** “Tua kumpi gamte a bei ding hun a nai ciangin gilo lua mahmah ding-te ahih manin gim a kipia ding hi. Tua ciangin ama thu bek thu a sa, mawhna pawlpawl tawh a kidim, zuauphuah hat kumpi khat a hong om ding hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 

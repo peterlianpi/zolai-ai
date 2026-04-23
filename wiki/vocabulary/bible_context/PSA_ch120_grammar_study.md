@@ -69,9 +69,9 @@
 ### v7
 **EN:** I am for peace: but when I speak, they are for war.
 
-**TDB77:** Kei in gal kilemna a ngaihsun mi ka hi hi; ahih hangin kilem nading thu ka gen ciangin amaute in hong do nuam semsem uh hi.
+**TDB77:** Kei in gal kilemna a ngaihsun mi ka hi hi; ahih hangin kilem nading thu ka gen ciangin amaute in hong do nuam semsem-te hi.
 
-**ZVS:** Kei pen gal kilemna a ngaihsun mi ka hi hi. Ahih hangin kilemna ding thu ka gen ciangin amaute in galkido ding utna tengin nei uh hi.
+**ZVS:** Kei pen gal kilemna a ngaihsun mi ka hi hi. Ahih hangin kilemna ding thu ka gen ciangin amaute in galkido ding utna tengin nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

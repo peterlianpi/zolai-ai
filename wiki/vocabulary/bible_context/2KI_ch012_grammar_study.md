@@ -42,9 +42,9 @@
 ### v3
 **EN:** But the high places were not taken away: the people still sacrificed and burnt incense in the high places.
 
-**TDB77:** Ahi zongin mual tunga biaknate kila khia lo hi; mite in tuate tungah biakna pia-in paknamtui hal lai uh hi.
+**TDB77:** Ahi zongin mual tunga biaknate kila khia lo hi; mite in tuate tungah biakna pia-in paknamtui hal lai-te hi.
 
-**ZVS:** Ahi zongin mualtunga biaknate kilakhia lo hi. Mite in tuate tungah biakna pia-in paknamtui hal lai uh hi.
+**ZVS:** Ahi zongin mualtunga biaknate kilakhia lo hi. Mite in tuate tungah biakna pia-in paknamtui hal lai-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -69,63 +69,63 @@
 ### v6
 **EN:** But it was so, that in the three and twentieth year of king Jehoash the priests had not repaired the breaches of the house.
 
-**TDB77:** Ahih hangin kumpi Joash’ uk kum sawmnih-le-thumna kum dongin siampite in inn puah nai lo uh hi.
+**TDB77:** Ahih hangin kumpi Joash’ uk kum sawmnih-le-thumna kum dongin siampite in inn puah nai lo-te hi.
 
-**ZVS:** Ahih hangin Kumpi Joash' uk kum sawmnihlethumna kum dongin siampite in biakinn puah kipan nailo uh hi.
+**ZVS:** Ahih hangin Kumpi Joash' uk kum sawmnihlethumna kum dongin siampite in biakinn puah kipan nailo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v7
 **EN:** Then king Jehoash called for Jehoiada the priest, and the other priests, and said unto them, Why repair ye not the breaches of the house? now therefore receive no more money of your acquaintance, but deliver it for the breaches of the house.
 
-**TDB77:** Tua ahih ciangin Kumpi Joash in siampi Jehoiada leh siampi dangte samin amaute kiangah, “Bang hangin inn puah lo na hi uh hiam? Tua ahih ciangin tu-in na nasepna uh mite kiang panin na sum lakte uh kem nawn kei un la, a sumte inn puah nadingin hong ap un,” a ci hi.
+**TDB77:** Tua ahih ciangin Kumpi Joash in siampi Jehoiada leh siampi dangte samin amaute kiangah, “Bang hangin inn puah lo na hi-te hiam? Tua ahih ciangin tu-in na nasepna-te mite kiang panin na sum lakte-te kem nawn kei un la, a sumte inn puah nadingin hong ap un,” a ci hi.
 
-**ZVS:** Tua ahih ciangin Kumpi Joash in siampi Jehoiada leh siampi dangte samin amaute kiangah, “Bang hangin biakinn puahlo na hi uh hiam? Tua ahih ciangin tu-in na nasepna uh mite kiang panin na sumlakte uh kem nawn kei un la, a sumte biakinn puahna dingin ap un,” a ci hi.
+**ZVS:** Tua ahih ciangin Kumpi Joash in siampi Jehoiada leh siampi dangte samin amaute kiangah, “Bang hangin biakinn puahlo na hi-te hiam? Tua ahih ciangin tu-in na nasepna-te mite kiang panin na sumlakte-te kem nawn kei un la, a sumte biakinn puahna dingin ap un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v8
 **EN:** And the priests consented to receive no more money of the people, neither to repair the breaches of the house.
 
-**TDB77:** Tua ahih ciangin mite’ tung pan sum kaihkhop tavuan la nawn loin, inn puah ding zong tavuan a lak nawn loh ding uh siampite thukim uh hi.
+**TDB77:** Tua ahih ciangin mite’ tung pan sum kaihkhop tavuan la nawn loin, inn puah ding zong tavuan a lak nawn loh ding-te siampite thukim-te hi.
 
-**ZVS:** Tua ahih ciangin mite tung pan sum kaihkhop tavuan la nawnloin, biakinn puah ding zong tavuan a lak nawnlohna ding uh siampite a thukim uh hi.
+**ZVS:** Tua ahih ciangin mite tung pan sum kaihkhop tavuan la nawnloin, biakinn puah ding zong tavuan a lak nawnlohna ding-te siampite a thukim-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v9
 **EN:** But Jehoiada the priest took a chest, and bored a hole in the lid of it, and set it beside the altar, on the right side as one cometh into the house of the
 
-**TDB77:** Tua ciangin siampi Jehoiada in singkuang, khat la-in a siin vutvang a, Topa’ inn sung tum ciangin taklam pang khuampi gei-ah koih hi; tua ciangin sangkil a cing siampite in Topa’ inn sungah a kipaipih sum khempeuh tua sungah koih uh hi.
+**TDB77:** Tua ciangin siampi Jehoiada in singkuang, khat la-in a siin vutvang a, Topa’ inn sung tum ciangin taklam pang khuampi gei-ah koih hi; tua ciangin sangkil a cing siampite in Topa’ inn sungah a kipaipih sum khempeuh tua sungah koih-te hi.
 
-**ZVS:** Tua ciangin siampi Jehoiada in singkuang khat la-in a siin vutvang a, { Topa' } biakinn sung tum ciangin taklam pang khuam gei-ah a koih hi. Tua ciangin kongkhak a cing siampite in { Topa' } biakinn sungah a kipaipih sum khempeuh tua sungah a koih uh hi.
+**ZVS:** Tua ciangin siampi Jehoiada in singkuang khat la-in a siin vutvang a, { Topa' } biakinn sung tum ciangin taklam pang khuam gei-ah a koih hi. Tua ciangin kongkhak a cing siampite in { Topa' } biakinn sungah a kipaipih sum khempeuh tua sungah a koih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And it was so, when they saw that there was much money in the chest, that the king's scribe and the high priest came up, and they put up in bags, and told the money that was found in the house of the
 
-**TDB77:** Singkuang sungah sum tam om hi ci-in a theih peuhpeuh uh ciangin kumpipa’ lai-atpa leh siampi lianpa hong paito-in Topa’ inn sungah a om sumte amaute in simin ip tawh tun uh hi.
+**TDB77:** Singkuang sungah sum tam om hi ci-in a theih peuhpeuh-te ciangin kumpipa’ lai-atpa leh siampi lianpa hong paito-in Topa’ inn sungah a om sumte amaute in simin ip tawh tun-te hi.
 
-**ZVS:** Singkuang sungah sum tam om hi, ci-in a theih peuhpeuh uh ciangin kumpipa' lai-atpa leh siampi lianpenpa hong paito-in { Topa' } biakinn sungah a om sumte amaute in simin ip-in tun uh hi.
+**ZVS:** Singkuang sungah sum tam om hi, ci-in a theih peuhpeuh-te ciangin kumpipa' lai-atpa leh siampi lianpenpa hong paito-in { Topa' } biakinn sungah a om sumte amaute in simin ip-in tun-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v11
 **EN:** And they gave the money, being told, into the hands of them that did the work, that had the oversight of the house of the
 
-**TDB77:** Tua ciangin amaute in Topa’ inn a en nasemte’ khut sungah a teh khiat uh sumte pia uh hi; tua ciangin amaute in Topa’ inn a sem khutsiamte leh innlamte tung,
+**TDB77:** Tua ciangin amaute in Topa’ inn a en nasemte’ khut sungah a teh khiat-te sumte pia-te hi; tua ciangin amaute in Topa’ inn a sem khutsiamte leh innlamte tung,
 
-**ZVS:** Tua ciangin amaute in { Topa' } biakinn a en nasemte' khutsungah a tawi teh khiat uh sumte pia uh hi. Tua ciangin amaute in { Topa' } biakinn a sem khutsiamte leh innlamte tung,
+**ZVS:** Tua ciangin amaute in { Topa' } biakinn a en nasemte' khutsungah a tawi teh khiat-te sumte pia-te hi. Tua ciangin amaute in { Topa' } biakinn a sem khutsiamte leh innlamte tung,
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v12
 **EN:** And to masons, and hewers of stone, and to buy timber and hewed stone to repair the breaches of the house of the
 
-**TDB77:** leh lei-le-suang inn lam siamte leh suangsekte tung, Topa’ inn puah nadingin sing lei nading leh suang tawh nading, leh inn puahna khat peuhpeuh a, zat dingin piakhia uh hi.
+**TDB77:** leh lei-le-suang inn lam siamte leh suangsekte tung, Topa’ inn puah nadingin sing lei nading leh suang tawh nading, leh inn puahna khat peuhpeuh a, zat dingin piakhia-te hi.
 
-**ZVS:** leh leilesuang innlam siamte leh suangseekte tungah { Topa' } biakinn puahna dingin sing leina ding leh suang tawhna ding, leh biakinn puahna khat peuhpeuh-a zat dingin piakhia uh hi.
+**ZVS:** leh leilesuang innlam siamte leh suangseekte tungah { Topa' } biakinn puahna dingin sing leina ding leh suang tawhna ding, leh biakinn puahna khat peuhpeuh-a zat dingin piakhia-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -150,9 +150,9 @@
 ### v15
 **EN:** Moreover they reckoned not with the men, into whose hand they delivered the money to be bestowed on workmen: for they dealt faithfully.
 
-**TDB77:** Amaute in thuman takin na sem uh ahih manin nasemte tungah piak dingin a khut sung uhah sum a apnate uh tung panin amaute in sum ciamtehna lai ngen lo uh hi.
+**TDB77:** Amaute in thuman takin na sem-te ahih manin nasemte tungah piak dingin a khut sung uhah sum a apnate-te tung panin amaute in sum ciamtehna lai ngen lo-te hi.
 
-**ZVS:** Amaute in thuman takin na sem uh ahih manin nasemte tungah piak dingin a khutsung uhah sum a apnate uh tung panin amaute in sazian ngenlo uh hi.
+**ZVS:** Amaute in thuman takin na sem-te ahih manin nasemte tungah piak dingin a khutsung uhah sum a apnate-te tung panin amaute in sazian ngenlo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | causal: because | plural: uh marker
 
@@ -195,18 +195,18 @@
 ### v20
 **EN:** And his servants arose, and made a conspiracy, and slew Joash in the house of Millo, which goeth down to Silla.
 
-**TDB77:** Ama nasemte kipanin sawmsimna khat vaihawm uh a, Silla paisukna lampi Millo inn sungah Joash that uh hi.
+**TDB77:** Ama nasemte kipanin sawmsimna khat vaihawm-te a, Silla paisukna lampi Millo inn sungah Joash that-te hi.
 
-**ZVS:** Ama nasemte kipanin sawmsimna khat vaihawm uh a, Silla paisukna lampi, Millo inn sungah Joash a that uh hi.
+**ZVS:** Ama nasemte kipanin sawmsimna khat vaihawm-te a, Silla paisukna lampi, Millo inn sungah Joash a that-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** For Jozachar the son of Shimeath, and Jehozabad the son of Shomer, his servants, smote him, and he died; and they buried him with his fathers in the city of David: and Amaziah his son reigned in his stead.
 
-**TDB77:** Amah a sat pukte in ama nasemte’ Shimeath’ tapa Jozakar leh Shomer’ tapa Jehozabad ahi hi; tua hi a, amah si hi. Tua ciangin amaute in David khuapi sungah ama pate tawh amah vui uh a, ama tangin a tapa Amaziah in uk hi.
+**TDB77:** Amah a sat pukte in ama nasemte’ Shimeath’ tapa Jozakar leh Shomer’ tapa Jehozabad ahi hi; tua hi a, amah si hi. Tua ciangin amaute in David khuapi sungah ama pate tawh amah vui-te a, ama tangin a tapa Amaziah in uk hi.
 
-**ZVS:** Amah a satpukte pen ama nasemte, Shimeath' tapa Jozakar leh Shomer' tapa Jehozabad ahi hi; tua hi a, amah si ta hi. Tua ciangin amaute in David khuapi sungah a pate tawh amah vui uh a, ama tangin a tapa Amaziah in a uk hi.
+**ZVS:** Amah a satpukte pen ama nasemte, Shimeath' tapa Jozakar leh Shomer' tapa Jehozabad ahi hi; tua hi a, amah si ta hi. Tua ciangin amaute in David khuapi sungah a pate tawh amah vui-te a, ama tangin a tapa Amaziah in a uk hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

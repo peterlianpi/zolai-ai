@@ -72,7 +72,7 @@ Based on *Zolai Sinna Bu* (lines 1074–1076), three strict phonotactic rules ar
 2. **[c] + [a, e, o, aw] never combine:** The initial consonant `c` is restricted to pairing only with `i` and `u` (e.g., `ci`, `cih`, `ciang`). It never appears before `a`, `e`, `o`, or `aw`.
 3. **[uh] never with first-person [i]:** The plural marker `uh` is never used with the first-person inclusive pronoun `i` (we).
    - ✅ `I pai hi` (We go)
-   - ❌ `I pai uh hi`
+   - ❌ `I pai-te hi`
 
 ---
 

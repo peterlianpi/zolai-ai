@@ -32,7 +32,7 @@
 **Meanings:** after | searching | land | forty | returned | days
 **CEFR:** A1
 **Usage:** Attested 50× across 2 Bible books.
-> *cin’ ciangin gam vaanna panin amaute hong ciahkik uh hi.*
+> *cin’ ciangin gam vaanna panin amaute hong ciahkik-te hi.*
 > `NUM 13:25`
 
 ### vaansa
@@ -75,7 +75,7 @@
 **Related:** vaihawmna, vaihawmna tawh kisailam, vaihawmpipa, vaihawm pawl upadi bawl pawl, vaihawmna nei
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Sawltakte leh upate in tua thu vaihawm dingun a kikhawm uh hi.*
+> *Sawltakte leh upate in tua thu vaihawm dingun a kikhawm-te hi.*
 > → And the apostles and elders came together for to consider of this matter.
 > `ACT 15:6`
 
@@ -153,7 +153,7 @@
 **Variants:** taanna, vaakna, ciimna
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *amau in vaakna a ngah ding uh hi.”*
+> *amau in vaakna a ngah ding-te hi.”*
 
 ### vaksak
 **[v]** firmament
@@ -259,7 +259,7 @@
 **Related:** vang ik, vangliat ciangkhut, vangkiingkianga kiteh, vangik dom haat kisinten siikzawl khat nawl tuaka siik beem gihna tuamtuam nei a behlap theih, vangik guan van pawsak
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *Han vang pan suang kilikkhia a, om mu uh a,*
+> *Han vang pan suang kilikkhia a, om mu-te a,*
 > → And they found the stone rolled away from the sepulchre.
 > `LUK 24:2`
 
@@ -391,7 +391,7 @@
 **[]** thine
 **Meanings:** thine | forth | heaven | any | driven | out
 **CEFR:** A1
-> *A kihawlkhia na mite uh vanmong pekah a om leh zong,*
+> *A kihawlkhia na mite-te vanmong pekah a om leh zong,*
 
 ### vanpi
 **[n]** heavens
@@ -687,7 +687,7 @@
 **Related:** koihnate, biakinn, sung, koihna, kham
 **CEFR:** A2
 **Usage:** Attested 1285× across 8 Bible books.
-> *sanggampa Joel in { Topa' } biakinn vanmanpha koihnate uk uh hi.*
+> *sanggampa Joel in { Topa' } biakinn vanmanpha koihnate uk-te hi.*
 
 ### vanmanphate
 **[n]** jerusalem
@@ -907,7 +907,7 @@
 **Related:** khua, jesuh, sum, limtakin, kem
 **CEFR:** B1
 **Usage:** Attested 510× across 10 Bible books.
-> *na mei uh vakin a kigingsa-in om un la,*
+> *na mei-te vakin a kigingsa-in om un la,*
 
 ### vakkhia
 **[v]** saith
@@ -949,7 +949,7 @@
 **Related:** suanlekhakte, aksi, tuipi, leitung, pia
 **CEFR:** B1
 **Usage:** Attested 2674× across 21 Bible books.
-> *vana om mite in leitung mite' tanute hoihsa uh ahih manin*
+> *vana om mite in leitung mite' tanute hoihsa-te ahih manin*
 
 ### vanah
 **[n]** day
@@ -957,7 +957,7 @@
 **Related:** sungah, pai, thei, lim, kilang
 **CEFR:** B1
 **Usage:** Attested 1768× across 23 Bible books.
-> *thukna-ah kiasuk uh hi. A lauhuai siatna sungah amau' lungsim han'na*
+> *thukna-ah kiasuk-te hi. A lauhuai siatna sungah amau' lungsim han'na*
 
 ### vanglianin
 **[n]** exalted
@@ -1136,7 +1136,7 @@
 **Related:** hang
 **CEFR:** B1
 **Usage:** Attested 200× across 4 Bible books.
-> *Bang hangin na bawngtal pasian uh Apis guallelin taimang ahi*
+> *Bang hangin na bawngtal pasian-te Apis guallelin taimang ahi*
 
 ### veisak
 **[v]** presence
@@ -1163,7 +1163,7 @@
 **Related:** sal, suak
 **CEFR:** B1
 **Usage:** Attested 240× across 4 Bible books.
-> *a galte uh khutsungah pia-in galsungah a vekun a sisak ka hihna,*
+> *a galte-te khutsungah pia-in galsungah a vekun a sisak ka hihna,*
 
 ### velvalna
 **[n]** death
@@ -1326,7 +1326,7 @@
 **Meanings:** mildew | missing | your | smitten | blasting | gardens
 **CEFR:** B2
 **Usage:** Attested 110× across 2 Bible books.
-> *Na ankungte uh lung nesakin ka vulsak*
+> *Na ankungte-te lung nesakin ka vulsak*
 
 ### vumin
 **[]** heap
@@ -1396,7 +1396,7 @@
 **Related:** tai, thupiang, khuasung, gen, gamsung
 **CEFR:** C1
 **Usage:** Attested 230× across 6 Bible books.
-> *muh uh ciangin amaute tai-in khuasung leh gamsung tengah*
+> *muh-te ciangin amaute tai-in khuasung leh gamsung tengah*
 
 ### vokte
 **[n]** besought
@@ -1639,7 +1639,7 @@ ciimna
 **[]** glorious, fortunate
 **Meanings:** glorious | fortunate
 **CEFR:** C2
-> *pasal neite peuhpeuh?a nuntaakna uh bucing pah*
+> *pasal neite peuhpeuh?a nuntaakna-te bucing pah*
 
 ### vaangpha
 **[n]** lucky

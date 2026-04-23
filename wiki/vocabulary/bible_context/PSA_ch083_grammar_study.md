@@ -30,36 +30,36 @@
 ### v2
 **EN:** For, lo, thine enemies make a tumult: and they that hate thee have lifted up the head.
 
-**TDB77:** Bang hang hiam cih leh na galte in gamlumna piang sak uh a, nang hong mudahte kiphasak uh hi.
+**TDB77:** Bang hang hiam cih leh na galte in gamlumna piang sak-te a, nang hong mudahte kiphasak-te hi.
 
-**ZVS:** Bang hang hiam cih leh na galte in gamlumna piangsak uh a, nang hong mudahte kiphasak mahmah uh hi.
+**ZVS:** Bang hang hiam cih leh na galte in gamlumna piangsak-te a, nang hong mudahte kiphasak mahmah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** They have taken crafty counsel against thy people, and consulted against thy hidden ones.
 
-**TDB77:** Amaute in khem siamna tawh na mite thang siah uh a, amaute in, na itte lang pangin thu kikum uh hi.
+**TDB77:** Amaute in khem siamna tawh na mite thang siah-te a, amaute in, na itte lang pangin thu kikum-te hi.
 
-**ZVS:** Amaute in khem siamna tawh na mite thangsiah uh a, amaute in na it mite langpangin thu kikum uh hi.
+**ZVS:** Amaute in khem siamna tawh na mite thangsiah-te a, amaute in na it mite langpangin thu kikum-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** They have said, Come, and let us cut them off from being a nation; that the name of Israel may be no more in remembrance.
 
-**TDB77:** Amaute in, “Hong pai un, amaute minam khat hihna panin beisak ni; Israel min kiphawksak nawn kei ni!” ci uh hi.
+**TDB77:** Amaute in, “Hong pai un, amaute minam khat hihna panin beisak ni; Israel min kiphawksak nawn kei ni!” ci-te hi.
 
-**ZVS:** Amaute in, “Hong pai un, minam khat hihna panin amaute beisak ni. Israel min peuhmah kiphawksak nawn kei ni!” ci uh hi.
+**ZVS:** Amaute in, “Hong pai un, minam khat hihna panin amaute beisak ni. Israel min peuhmah kiphawksak nawn kei ni!” ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** For they have consulted together with one consent: they are confederate against thee:
 
-**TDB77:** Hi hi, amaute in siat nading geelin kithukhat uh hi; amaute in nangmah lang pangin thuciam bawl uh hi—
+**TDB77:** Hi hi, amaute in siat nading geelin kithukhat-te hi; amaute in nangmah lang pangin thuciam bawl-te hi—
 
-**ZVS:** Amaute in siatna ding geelin kithukhat uh a, nangmah hong langpangin thuciamna a bawl uh hi.
+**ZVS:** Amaute in siatna ding geelin kithukhat-te a, nangmah hong langpangin thuciamna a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -71,25 +71,25 @@
 ### v7
 **EN:** Gebal, and Ammon, and Amalek; the Philistines with the inhabitants of Tyre;
 
-**TDB77:** Gabal, Ammon leh Amalek mite, Filistia leh Tai-ar khua-a teeng mite tawh thuciam bawl uh hi.
+**TDB77:** Gabal, Ammon leh Amalek mite, Filistia leh Tai-ar khua-a teeng mite tawh thuciam bawl-te hi.
 
-**ZVS:** Gebal, Ammon, leh Amalek mite, Filistia leh Taia khua mite tawh thuciam a bawl uh hi.
+**ZVS:** Gebal, Ammon, leh Amalek mite, Filistia leh Taia khua mite tawh thuciam a bawl-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** Assur also is joined with them: they have holpen the children of Lot. Selah.
 
-**TDB77:** Assiria mite in zong amaute pawlpih hi; amaute in Lot suan-le-khakte’ pawl muanhuaite ahi uh hi.
+**TDB77:** Assiria mite in zong amaute pawlpih hi; amaute in Lot suan-le-khakte’ pawl muanhuaite ahi-te hi.
 
-**ZVS:** Assiria mite in zong amaute pawlpih uh a, amaute pen Lot' suanlekhakte-a' dingin pawl muan'huaite ahi uh hi.
+**ZVS:** Assiria mite in zong amaute pawlpih-te a, amaute pen Lot' suanlekhakte-a' dingin pawl muan'huaite ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v10
 **EN:** Which perished at Endor: they became as dung for the earth.
 
-**TDB77:** Endor munah a kizogawp, leilakah a luang uh a muatgawp, Midian mite' tungah na bawl bang leh, Kishon gun-a Sisera leh Jabin-te' tungah na bawl bangin amaute tungah bawl in.
+**TDB77:** Endor munah a kizogawp, leilakah a luang-te a muatgawp, Midian mite' tungah na bawl bang leh, Kishon gun-a Sisera leh Jabin-te' tungah na bawl bangin amaute tungah bawl in.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
