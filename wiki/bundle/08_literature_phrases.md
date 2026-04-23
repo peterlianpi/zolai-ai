@@ -1148,7 +1148,7 @@ Sermons typically follow this flow:
 - `Hih pau pen "X" kici-in, Y cih tengah kilim zat phadiak ahi hi.` = This language is called "X", and it is mutually understood in Y.
   - e.g. `Hih pau pen "Zopau" kici-in, Tedim, Tonzang, Cikha, Kalay (+ Tahan) leh Tamu cih tengah kilim zat phadiak ahi hi.`
 - `Tuate pen, X, Y, Z cihte ahi hi.` = Those are X, Y, Z, etc.
-  - e.g. `Tuate pen, Zotung, Zophei, Lai, Senthang, Mi-e, Thor, Mara (Lakher/Miram) leh Lautu cihte ahi hi.`
+  - e.g. `tuate pen, zotung, zophei, lai, senthang, mi-e, thor, mara (lakher/migam) leh lautu cihte ahi hi.`
 - `X ci aa kithei sung pan pau tuamtuam (akl) awsuah awkaih tuamtuamte sungah, nam Y om cih theih ahi hi.` = Within the various pronunciations and tones known as X language, it is known that there are Y types.
   - e.g. `Falam/laizo pau ci aa kithei sung pan pau tuamtuam (akl) awsuah awkaih tuamtuamte sungah, nam 9 (Hlawnceu nam 2 in sim lehang nam 10) om cih theih ahi hi.`
 - `X cihte, Y cihte pen, sawt nailo aa khangtom mahmah lai, tangthu tawm mahmah lai cih theih ahi hi.` = It is known that X and Y are relatively recent and have short histories.
@@ -2035,8 +2035,8 @@ Sermons typically follow this flow:
   - e.g. `Gup hauluate kimudah hi.`
 - `X pen Zopau Tedim awsuah siksanin lakna bek hi aa “Ng” aw a zangte aa zongh Zopau/Zolai mah bel hiveve hi` = These are just examples of Tedim pronunciation using the sound 'Ng', but they are truly Zopau/Zolai speakers
   - e.g. `Hihte pen Zopau Tedim awsuah siksanin lakna bek hi aa “Ng” aw a zangte aa zongh Zopau/Zolai mah bel hiveve hi.`
-- `Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak uh ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi` = Some people, enjoying the Tedim sound too much, change all 'Ng' sounds to 'G' sounds, so we want to point out that this is a major difference in pronunciation
-  - e.g. `Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak uh ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi.`
+- `Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi` = Some people, enjoying the Tedim sound too much, change all 'Ng' sounds to 'G' sounds, so we want to point out that this is a major difference in pronunciation
+  - e.g. `Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi.`
 - `( ’ ) pen laimal tomlaakna ah kilim zat mahmah hi` = The apostrophe (') is very appropriate to use in word division
   - e.g. `( ’ ) pen laimal tomlaakna ah kilim zat mahmah hi.`
 - `Paulai tawh i gelh ciang, pau awsuah bangin i gelh ciang kilim zat diak hi` = It is very appropriate to use when writing alongside words, when writing as it sounds

@@ -108,7 +108,7 @@ This is comparable to the Basque ZelaiHandi corpus that achieved +12 points impr
 | "We went." | "I pai hi." | "I pai uh hi." |
 
 **DPO dataset to build:** `data/training/dpo_pairs_v1.jsonl`
-- Source: `zo_en_pairs_combined_v1.jsonl` + ZVS grammar rules from `wiki/grammar/`
+- Source: `zo_en_pairs_combined_v1.jsonl` + ZVS grammar rules from `wiki/ggammar/`
 - Method: For each correct Tedim pair, generate a "rejected" version by substituting wrong dialect words
 - Target size: 10,000–60,000 triplets (even 10k is sufficient per Corral et al.)
 
@@ -145,7 +145,7 @@ Based on Hou (2024) and the Basque pipeline research:
 
 Standard benchmarks (MMLU, ARC, HumanEval) are English-centric. They measure whether code runs or whether a multiple-choice answer is correct — but they cannot measure:
 - Whether the output is in fluent Tedim ZVS
-- Whether the model uses `pasian` vs `pathian`
+- Whether the model uses `pasian` vs `pasian`
 - Whether SOV word order is maintained
 - Whether the model mixes Falam Chin words into Tedim output
 
@@ -278,7 +278,7 @@ MAX_LENGTH = 128
 - 105k parallel ZO↔EN pairs (SFT gold data)
 - 85k Bible parallel pairs (SFT gold data)
 - 24k semantic dictionary entries (SFT generation source)
-- ZVS grammar rules in `wiki/grammar/` (DPO pair generation source)
+- ZVS grammar rules in `wiki/ggammar/` (DPO pair generation source)
 - Qwen2.5-3B base model + existing adapter (3 sessions done)
 - Kaggle training pipeline (working)
 

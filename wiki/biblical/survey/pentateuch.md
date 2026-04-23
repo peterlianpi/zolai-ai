@@ -70,5 +70,5 @@ This document contains a linguistic analysis of the first five books of the Bibl
 - **Logical Deductions:** `Tua ahih ciangin` (Therefore), `Bang hang hiam cih leh` (Because).
 
 ### Verse Evidence
-- **Deut 6:4-5:** `Israelte aw, za un; Topa i Pasian in Topa khat bek ahi hi; Topa note’ Pasian, na lungsim khempeuh... na it ding uh hi.` (Hear, O Israel: The LORD our God is one LORD: And thou shalt love the LORD thy God with all thine heart...)
+- **Deut 6:4-5:** `Israelte aw, za un; Topa i Pasian in Topa khat bek ahi hi; Topa note’ Pasian, na lungsim khempeuh... na it ding hi.` (Hear, O Israel: The LORD our God is one LORD: And thou shalt love the LORD thy God with all thine heart...)
 - **Deut 28:1:** `Tu ni-a kong piak ama thupiak khempeuh lim takin na zui-in...` (And it shall come to pass, if thou shalt hearken diligently unto the voice of the LORD thy God, to observe and to do all his commandments...)

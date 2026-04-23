@@ -63,7 +63,7 @@ Used when weighing two options or declaring the highest state, heavily utilizing
 | **Arguments**| Judgment, Promise | Thukhenna, Kamciam |
 
 ## 5. Teaching Strategy for AI Tutors
-1.  **Strict Negative Affirmation:** Actively bait the student into using a negative conditional (e.g., "What happens if I don't answer?"). If they use `lo leh`, immediately correct them to `kei a leh`.
+1.  **Strict Negative Affirmation:** Actively bait the student into using a negative conditional (e.g., "What happens if I don't answer?"). If they use `kei a leh`, immediately correct them to `kei a leh`.
 2.  **Comparative Exercises:** Have the student weigh two concepts (e.g., "Which is better, city or village?") to force the `sangin... hoihzaw` structure.
 3.  **Debate Format:** Engage in mild Socratic questioning to promote logical reasoning over rote facts.
 

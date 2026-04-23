@@ -137,7 +137,7 @@ Target: < 2.0
 
 ## 💡 Lessons Learned
 
-1. `CUDA_VISIBLE_DEVICES=0` required for QLoRA — prevents DataParallel issues
+1. `tuada_visible_devices=0` required for QLoRA — prevents DataParallel issues
 2. `report_to="none"` required for loss to show in Kaggle console
 3. 100k chunks fit in ~9.5h — perfect for overnight Kaggle sessions
 4. Adapter is cumulative — always load previous adapter before next chunk
@@ -192,7 +192,7 @@ Target: < 2.0
 ### Key Learnings
 - `lo` is valid ZVS negation (3rd person/past) — not Hakha-only
 - `kei lo` = compound absolute negation ("none/not any")
-- `pathian` = Hakha — always use `pasian` in ZVS
+- `pasian` = Hakha — always use `pasian` in ZVS
 - `sanginn` = correct spelling (not `sanggin`)
 - Family terms need explicit blocking to prevent co-occurrence bleeding
 
@@ -216,7 +216,7 @@ Target: < 2.0
 ### Key Learnings
 - `lo` is valid ZVS negation (3rd person/past) — not Hakha-only
 - `kei lo` = compound absolute negation ("none/not any")
-- `pathian` = Hakha — always use `pasian` in ZVS
+- `pasian` = Hakha — always use `pasian` in ZVS
 - `sanginn` = correct spelling (not `sanggin`)
 - Family terms need explicit blocking to prevent co-occurrence bleeding
 
@@ -240,7 +240,7 @@ Target: < 2.0
 ### Key Learnings
 - `lo` is valid ZVS negation (3rd person/past) — not Hakha-only
 - `kei lo` = compound absolute negation ("none/not any")
-- `pathian` = Hakha — always use `pasian` in ZVS
+- `pasian` = Hakha — always use `pasian` in ZVS
 - `sanginn` = correct spelling (not `sanggin`)
 - Family terms need explicit blocking to prevent co-occurrence bleeding
 
@@ -269,7 +269,7 @@ Target: < 2.0
 ## ✅ Completed This Session (2026-04-17–18)
 
 ### ZVS Corrections Learned
-- `pathian` = Hakha/Falam — NOT ZVS. Always use `pasian`
+- `pasian` = Hakha/Falam — NOT ZVS. Always use `pasian`
 - `sanginn` = correct ZVS spelling for "school" — never `sanggin`
 - `lo` = valid ZVS negation (3rd person, past/state) — NOT forbidden
 - `kei` = preferred 1st/2nd person + ALL conditionals (`kei a leh`)
@@ -312,7 +312,7 @@ Target: < 2.0
 ### Wiki/Agents Updated
 - `wiki/negation/negation_guide.md` — complete kei/lo/kei-lo reference
 - `agents/zolai-bible-dictionary-builder/agent.json` — new agent
-- `agents/zolai-grammar-learner/agent.json` — 3 new completed topics
+- `agents/zolai-ggammar-learner/agent.json` — 3 new completed topics
 
 ---
 
@@ -735,9 +735,9 @@ Acting as a tutor cannot rely on memory alone; the chat system must treat every 
 - Endpoint: `GET /api/zolai/bible/:book?chapter=1`
 
 ### 1.4 Grammar Checker API
-- Expose `scripts/test_grammar_rules.py` as endpoint
-- Endpoint: `POST /api/grammar/check` `{text}` → `{valid, errors[]}`
-- Already have: grammar rules in `wiki/grammar/`
+- Expose `scripts/test_ggammar_rules.py` as endpoint
+- Endpoint: `post /api/ggammar/check` `{text}` → `{valid, errors[]}`
+- Already have: grammar rules in `wiki/ggammar/`
 - **Unique** — no competitor has this
 
 ### 1.5 Dialect Classifier
@@ -762,7 +762,7 @@ Acting as a tutor cannot rely on memory alone; the chat system must treat every 
 
 ### 2.3 Cultural Content Pages
 - Proverbs: `wiki/literature/proverbs_and_wisdom.md`
-- History: `wiki/culture/zomi_comprehensive.md`
+- History: `wiki/tualture/zomi_comprehensive.md`
 - Literature: `wiki/literature/`
 - **Advantage** — sources are older and more authoritative than competitors
 
@@ -783,7 +783,7 @@ Acting as a tutor cannot rely on memory alone; the chat system must treat every 
 ## Priority 3 — New Features (Higher effort, high differentiation)
 
 ### 3.1 ZVS Grammar Lessons
-- Structured lessons based on `wiki/curriculum/readme.md`
+- Structured lessons based on `wiki/tuarritualum/readme.md`
 - CEFR-aligned: A1→C2 as defined in `AGENTS.md`
 - Unique: no competitor teaches ZVS-standard Tedim grammar
 
@@ -811,10 +811,10 @@ Acting as a tutor cannot rely on memory alone; the chat system must treat every 
 
 | Skill | Purpose | Priority |
 |---|---|---|
-| `zolai-grammar-checker` | Grammar validation endpoint | P1 |
+| `zolai-ggammar-checker` | Grammar validation endpoint | P1 |
 | `zolai-dialect-classifier` | Tedim vs Hakha/Falam detection | P1 |
 | `zolai-phrasebook-builder` | Categorized phrase generation | P2 |
-| `zolai-cultural-content` | Proverbs/history/literature extraction | P2 |
+| `zolai-tualtural-content` | Proverbs/history/literature extraction | P2 |
 | `zolai-quiz-generator` | Vocabulary quiz from dictionary | P2 |
 | `zolai-bible-search` | Full-text Bible search API | P3 |
 | `zolai-pwa` | Offline-capable web frontend | P3 |
@@ -861,7 +861,7 @@ This plan outlines the steps required to integrate the A1-B2 proficiency levels 
 
 ## 🛠 Phase 2: AI Tutor Logic (The "Sangsia" Upgrade)
 - [ ] **Adaptive Difficulty Controller:**
-  - Update `pedagogy_tutor_logic.md` to reference the `curriculum_levels.md` for sequence.
+  - Update `pedagogy_tutor_logic.md` to reference the `tuarritualum_levels.md` for sequence.
   - Implement a "Socratic Gate": The tutor must verify A1 present tense `hi` mastery before moving to B1 `ciangin` clauses.
 - [ ] **Gentehna (Parables) Integration:**
   - Map specific parables from *Gentehna Tuamtuam* to the B1/B2 reading exercises.

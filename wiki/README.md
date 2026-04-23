@@ -1,6 +1,8 @@
 # Zolai AI Wiki — Second Brain Knowledge Base
 
-> The central knowledge repository for the **Zolai Second Brain** project — linguistic rules, grammar, vocabulary, culture, curriculum, and training strategy for the Tedim Zolai language.
+> **Language:** Tedim Chin (ISO 639-3: ctd) — ZVS Standard Dialect  
+> The central knowledge repository for the **Zolai Second Brain** project — linguistic rules, grammar, vocabulary, culture, curriculum, and training strategy for the Tedim Zolai language.  
+> **Author:** Peter Pau Sian Lian ([@peterpausianlian](https://huggingface.co/peterpausianlian))
 
 ---
 
@@ -209,16 +211,26 @@
 
 | ✅ Use | ❌ Never |
 |--------|---------|
-| `pasian` | `pathian` |
-| `gam` | `ram` |
-| `tapa` | `fapa` |
-| `topa` | `bawipa` |
-| `kumpipa` | `siangpahrang` |
-| `tua` | `cu` / `cun` |
+| `pasian` | `pasian` |
+| `gam` | `gam` |
+| `tapa` | `tapa` |
+| `topa` | `topa` |
+| `kumpipa` | `???` |
+| `tua` | `tua` / `tuan` |
 
 - Word order: **SOV** (Subject-Object-Verb)
-- Negation: `kei` not `lo` for conditionals
+- Negation: `kei` not `lo` for conditionals (`nong pai kei a leh` — NEVER `kei a leh`)
+- Plural: never combine `uh` with `i` (we) — `I pai hi` ✅, `I pai uh hi` ❌
 - `o` is always /oʊ/ — never pure /o/
+
+---
+
+## Current Models (2026-04-20)
+
+| Model | Base | Method | Status |
+|-------|------|--------|--------|
+| [`zolai-qwen-0.5b`](https://huggingface.co/peterpausianlian/zolai-qwen-0.5b) | Qwen2.5-0.5B-Instruct | LoRA FP16 r=16 α=32, T4x2 | Training: chunk 300k–800k / 5.1M |
+| [`zolai-qwen2.5-3b-lora`](https://huggingface.co/peterpausianlian/zolai-qwen2.5-3b-lora) | Qwen2.5-3B-Instruct | QLoRA 4-bit NF4 r=8 α=16, T4 | Training: chunk 300k+ |
 
 ---
 

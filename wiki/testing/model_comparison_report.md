@@ -1,8 +1,11 @@
 # Zolai Phrase Extraction — Model Performance Report
 
-**Date:** 2026-04-15  
+**Report Date:** 2026-04-15  
+**Wiki Updated:** 2026-04-20  
 **Script:** `scripts/deep_learn_phrases.py`  
 **Test:** 11 extraction tasks across 7 Zolai resources
+
+> **Note (2026-04-20):** This report covers phrase extraction performance for external LLM APIs (OpenRouter, Groq, Gemini Direct). For performance of the project's own fine-tuned models (`zolai-qwen-0.5b`, `zolai-qwen2.5-3b-lora`), see `testing/phrase_extraction_final_report.md` and `training/evaluation_benchmarks.md`.
 
 ---
 
@@ -166,4 +169,4 @@
 
 **Log file:** `wiki/testing/phrase_extraction_log.jsonl`  
 **Scripts:** `scripts/deep_learn_phrases.py`, `scripts/continue_extraction.py`  
-**Date:** 2026-04-15
+**Report date:** 2026-04-15 | **Wiki updated:** 2026-04-20

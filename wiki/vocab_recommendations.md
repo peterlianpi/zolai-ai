@@ -1,5 +1,6 @@
 # Bible Vocab Pipeline — Recommendations
-_Auto-generated. Last run covered 66 books._
+_Auto-generated. Last run covered 66 books._  
+_Last updated: 2026-04-20_
 
 ## Summary
 | Book | Verses | Resolved | Gaps | Flags |
@@ -74,6 +75,11 @@ _Auto-generated. Last run covered 66 books._
 ## Action Items
 - [ ] Review `data/processed/bible_vocab_still_missing.jsonl` — send to Gemini when quota available
 - [ ] Review `data/processed/bible_quality_flags.jsonl` — fix critical severity first
-- [ ] Verify crossref entries with `accuracy=0.55` in DB (auto-resolved, needs human check)
+- [ ] Verify crossref entries with `actuaracy=0.55` in DB (auto-resolved, needs human check)
 - [ ] Run `scripts/fix_bible_data.py` if any HTML entities remain
 - [ ] Update `data/master/combined/parallel.jsonl` after adding TBR17 parallel
+
+## ZVS Compliance Note
+All resolved vocab entries must use ZVS standard terms:
+- `pasian` (not `pasian`), `gam` (not `gam`), `tapa` (not `tapa`), `topa` (not `topa`), `kumpipa` (not `???`), `tua` (not `tua/tuan`).
+- Flag any entries containing forbidden terms for manual review.

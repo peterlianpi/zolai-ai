@@ -84,6 +84,6 @@ tawntung=forever/eternal, Amen=Amen
 |---|---|---|
 | `Pasian in kei te a lungdam hi` | `Pasian in eite hong it hi` | love=it, we=eite, toward=hong |
 | `I pai uh hi` | `I pai hi` | never uh with i |
-| `Na pai lo leh` | `Na pai kei a leh` | negative conditional |
-| `Pathian` | `Pasian` | ZVS dialect |
-| `Ram` | `Gam` | ZVS dialect |
+| `Na pai kei a leh` | `Na pai kei a leh` | negative conditional |
+| `pasian` | `Pasian` | ZVS dialect |
+| `gam` | `Gam` | ZVS dialect |

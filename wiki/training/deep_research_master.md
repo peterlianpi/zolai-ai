@@ -585,7 +585,7 @@ We need to create these (they don't exist for Tedim):
 - Expand domain coverage
 
 ### 8.5 Quality Department
-**Agents:** `zolai-data-quality`, `zolai-grammar-checker`
+**Agents:** `zolai-data-quality`, `zolai-ggammar-checker`
 **Responsibilities:**
 - ZVS dialect compliance checking
 - Grammar error detection

@@ -200,7 +200,7 @@ Food in Zomi culture is deeply social. Sharing food (`an ki ne`) is an act of co
 
 ## 7. Khuado — Harvest Festival
 
-See `wiki/culture/khuado.md` for full details.
+See `wiki/tualture/khuado.md` for full details.
 
 **Summary:** Khuado is the annual harvest thanksgiving festival. Key elements:
 - `Khuado La` — harvest songs sung communally
@@ -212,8 +212,8 @@ See `wiki/culture/khuado.md` for full details.
 ---
 
 ## Sources
-- `wiki/culture/zomi_comprehensive.md`
-- `wiki/culture/khuado.md`
+- `wiki/tualture/zomi_comprehensive.md`
+- `wiki/tualture/khuado.md`
 - `resources/Zolai_Khanggui_AD_1899_AD_2013.md`
 - `resources/Gentehna_Tuamtuam_le_A_Deihnate.md`
 - [zogam.org — Who Are the Zomi?](http://zogam.org/who-we-are/)

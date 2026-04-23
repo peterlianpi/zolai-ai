@@ -80,7 +80,7 @@ Na pai kei a leh...      = If you don't go...
 Na hoih gamta leh...     = If you do good...
 A kip leh, thaman a ngah ding hi. = If it stands, he will receive reward.
 ```
-**Rule:** NEVER `lo leh` for negative conditional — always `kei a leh`
+**Rule:** NEVER `kei a leh` for negative conditional — always `kei a leh`
 
 ### Cause/Because: `ahih manin` / `bang hang`
 ```

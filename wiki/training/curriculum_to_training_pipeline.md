@@ -1,12 +1,13 @@
 # Curriculum → Training Data Pipeline
-> Connects A1–C2 curriculum content to instruction pairs for training
-> Status: PLANNED | Deadline: 2026-05-31
+> Connects A1–C2 curriculum content to instruction pairs for training  
+> **Status: IN PROGRESS** | Target deadline: 2026-05-31  
+> **Last updated: 2026-04-20**
 
 ---
 
 ## The Gap
 
-The curriculum wiki (`wiki/curriculum/`) has well-structured A1–C2 content but it's never been converted into training examples. This means the model learns from Bible text and news but not from pedagogically graded language.
+The curriculum wiki (`wiki/tuarritualum/`) has well-structured A1–C2 content but it's never been converted into training examples. This means the model learns from Bible text and news but not from pedagogically graded language.
 
 ---
 
@@ -72,6 +73,11 @@ The curriculum wiki (`wiki/curriculum/`) has well-structured A1–C2 content but
 
 This 13K CEFR-tagged set, combined with the existing 11K synthetic + 329K Bible pairs, gives us a well-rounded training corpus.
 
+> **Current training status (2026-04-20):**
+> - `zolai-qwen-0.5b` (0.5B LoRA FP16, T4x2): chunk 300k–800k of 5.1M sentences
+> - `zolai-qwen2.5-3b-lora` (3B QLoRA 4-bit, single T4): chunk 300k+
+> - Both models hosted on HuggingFace: [peterpausianlian](https://huggingface.co/peterpausianlian)
+
 ---
 
 ## Script to Build
@@ -85,3 +91,5 @@ This 13K CEFR-tagged set, combined with the existing 11K synthetic + 329K Bible 
 ```
 
 **Status:** TO BUILD — assign to `zomi-synthesizer` agent.
+
+> **Last updated: 2026-04-20** — Status changed from PLANNED to IN PROGRESS; current model training progress added.

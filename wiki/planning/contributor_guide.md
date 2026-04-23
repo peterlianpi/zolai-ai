@@ -24,7 +24,7 @@ The **Zolai AI Second Brain** builds a fully capable AI for the Tedim Zolai lang
 - Rate responses on a 1–5 scale
 
 **How to start:**
-1. Read `wiki/grammar/core_grammar_reference.md` — 15 min overview
+1. Read `wiki/ggammar/core_ggammar_reference.md` — 15 min overview
 2. Read `wiki/zolai_ai_instructions.md` §1 — ZVS rules summary
 3. Contact the project lead to get access to the review spreadsheet
 4. Review 20 sentences per session using the template below
@@ -68,7 +68,7 @@ zolai/          — Core Python package
 **Rules:**
 - Never commit raw data files > 10MB to git
 - Always log wiki changes in `wiki/planning/CHANGELOG.md`
-- All generated Zolai must pass ZVS: no `pathian`, `ram`, `fapa`, `bawipa`, `cu`, `cun`
+- All generated Zolai must pass ZVS: no `pasian`, `gam`, `tapa`, `topa`, `tua`, `tuan`
 - Run `zolai audit-jsonl -i <file>` before committing new datasets
 
 ---
@@ -93,7 +93,7 @@ zolai/          — Core Python package
 | HuggingFace model | `peterpausianlian/zolai-qwen2.5-3b-lora` |
 | Training dataset | `peterpausianlian/zolai-llm-training-dataset` |
 | Wiki | `wiki/` in this repo |
-| Grammar reference | `wiki/grammar/core_grammar_reference.md` |
+| Grammar reference | `wiki/ggammar/core_ggammar_reference.md` |
 | ZVS rules | `wiki/zolai_ai_instructions.md` |
 | Research | `wiki/training/research_v2_models_and_platforms.md` |
 

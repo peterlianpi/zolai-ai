@@ -1,0 +1,128 @@
+{
+  "timestamp": "2026-04-22T21:35:59.998476",
+  "total_tested": 10,
+  "total_correct": 8,
+  "total_wrong": 2,
+  "accuracy_percent": 80.0,
+  "by_category": {
+    "basic": 3,
+    "basic_correct": 3,
+    "motion": 1,
+    "motion_correct": 1,
+    "imperative": 1,
+    "imperative_correct": 1,
+    "transitive": 1,
+    "transitive_correct": 1,
+    "negation": 2,
+    "negation_correct": 1,
+    "action": 1,
+    "speech": 1,
+    "speech_correct": 1
+  },
+  "results": [
+    {
+      "english": "God loves us.",
+      "zolai": "Pasian in eite hong it hi.",
+      "category": "basic",
+      "verdict": "CORRECT",
+      "rules_passed": 4,
+      "rules_failed": 0,
+      "failures": [],
+      "timestamp": "2026-04-22T21:35:59.997824"
+    },
+    {
+      "english": "I love God.",
+      "zolai": "Pasian ka it hi.",
+      "category": "basic",
+      "verdict": "CORRECT",
+      "rules_passed": 2,
+      "rules_failed": 0,
+      "failures": [],
+      "timestamp": "2026-04-22T21:35:59.998015"
+    },
+    {
+      "english": "God's love is great.",
+      "zolai": "Pasian' hong itna lian hi.",
+      "category": "basic",
+      "verdict": "CORRECT",
+      "rules_passed": 3,
+      "rules_failed": 0,
+      "failures": [],
+      "timestamp": "2026-04-22T21:35:59.998042"
+    },
+    {
+      "english": "He went to the village.",
+      "zolai": "Khua ah a va pai hi.",
+      "category": "motion",
+      "verdict": "CORRECT",
+      "rules_passed": 3,
+      "rules_failed": 0,
+      "failures": [],
+      "timestamp": "2026-04-22T21:35:59.998162"
+    },
+    {
+      "english": "Come here.",
+      "zolai": "Hika hong pai in.",
+      "category": "imperative",
+      "verdict": "CORRECT",
+      "rules_passed": 3,
+      "rules_failed": 0,
+      "failures": [],
+      "timestamp": "2026-04-22T21:35:59.998182"
+    },
+    {
+      "english": "The teacher gave me a book.",
+      "zolai": "Sia in lai hong pia hi.",
+      "category": "transitive",
+      "verdict": "CORRECT",
+      "rules_passed": 3,
+      "rules_failed": 0,
+      "failures": [],
+      "timestamp": "2026-04-22T21:35:59.998197"
+    },
+    {
+      "english": "I cannot go.",
+      "zolai": "Ka pai thei kei hi.",
+      "category": "negation",
+      "verdict": "WRONG",
+      "rules_passed": 2,
+      "rules_failed": 1,
+      "failures": [
+        "has_agreement_ka"
+      ],
+      "timestamp": "2026-04-22T21:35:59.998217"
+    },
+    {
+      "english": "If you do not come, I will go.",
+      "zolai": "Nong pai kei a leh, ka pai ding hi.",
+      "category": "negation",
+      "verdict": "CORRECT",
+      "rules_passed": 2,
+      "rules_failed": 0,
+      "failures": [],
+      "timestamp": "2026-04-22T21:35:59.998230"
+    },
+    {
+      "english": "We gathered together.",
+      "zolai": "I kikhawm hi.",
+      "category": "action",
+      "verdict": "WRONG",
+      "rules_passed": 2,
+      "rules_failed": 1,
+      "failures": [
+        "has_agreement_i"
+      ],
+      "timestamp": "2026-04-22T21:35:59.998422"
+    },
+    {
+      "english": "They said it is good.",
+      "zolai": "Hoih hi, a ci uh hi.",
+      "category": "speech",
+      "verdict": "CORRECT",
+      "rules_passed": 3,
+      "rules_failed": 0,
+      "failures": [],
+      "timestamp": "2026-04-22T21:35:59.998459"
+    }
+  ]
+}

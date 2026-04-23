@@ -157,7 +157,7 @@ Wherever you go, go)
 ---
 
 ## Sources
-- `wiki/grammar/particle_differentiations.md`
-- `wiki/grammar/sentence_structures.md`
-- `wiki/culture/zomi_comprehensive.md`
+- `wiki/ggammar/particle_differentiations.md`
+- `wiki/ggammar/sentence_structures.md`
+- `wiki/tualture/zomi_comprehensive.md`
 - ZVS 2018 corpus, Zolai Sinna Bu, Zomidaily corpus

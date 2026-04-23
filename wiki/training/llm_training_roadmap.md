@@ -1,62 +1,95 @@
 # Zolai LLM Training Roadmap
 
-> Last updated: 2026-04-17
+> Last updated: 2026-04-20
 
-## Current Status
+## Active Models
+
+| Model | Adapter Repo | Method | LoRA | Hardware |
+|-------|-------------|--------|------|----------|
+| Qwen2.5-0.5B-Instruct | `peterpausianlian/zolai-qwen-0.5b` | LoRA FP16 | r=16, alpha=32 | Kaggle T4x2 |
+| Qwen2.5-3B-Instruct | `peterpausianlian/zolai-qwen2.5-3b-lora` | QLoRA 4-bit NF4 | r=8, alpha=16 | Kaggle T4 x1 |
+
+## Current Status (2026-04-20)
 
 | Item | Value |
 |------|-------|
-| Base model | Qwen2.5-3B-Instruct |
-| Adapter repo | `peterpausianlian/zolai-qwen2.5-3b-lora` |
-| Kaggle dataset | `peterpausianlian/zolai-adapter-qwen25-3b` |
-| Notebook | `notebooks/zolai-llm-fine-tuning-on-t4x2.ipynb` |
-| Training hardware | Kaggle T4 x1 (single GPU, CUDA_VISIBLE_DEVICES=0) |
-| Chunk size | 100,000 samples/session |
-| Sessions/week | ~3 (30h free / ~9.5h per session) |
-| Samples/week | ~300,000 |
+| Primary active model | Qwen2.5-0.5B (zolai-qwen-0.5b) |
+| Active training range | Chunks 300k–800k of 5.1M total |
+| Chunk size | 100,000–500,000 samples/session |
+| Dataset | `peterpausianlian/zolai-llm-training-dataset` (Kaggle) |
+| Total dataset | ~5.1M sentences (`llm_train.jsonl`) |
+| Sessions/week | ~3 (30h free / ~9.5h per session on T4x2) |
+| Samples/week | ~300,000–500,000 |
 
 ## Training Progress
 
+### zolai-qwen-0.5b (active — T4x2, LoRA FP16, r=16, alpha=32)
+| Session | Chunk Range | Status |
+|---------|-------------|--------|
+| Early sessions | 0–300k | ✅ Done |
+| Current | 300k–800k | 🔄 In progress |
+| Remaining | 800k–5.1M | ⏳ Planned |
+
+### zolai-qwen2.5-3b-lora (paused — T4 x1, QLoRA 4-bit NF4, r=8, alpha=16)
 | Session | Chunk | Train Loss | Val Loss | Date |
 |---------|-------|-----------|----------|------|
-| 1 | 0–25k | 3.32 | 2.99 | 2026-04-17 |
-| 2 | 25k–50k | 3.14 | 2.74 | 2026-04-17 |
-| 3 | 50k–75k | in progress | - | 2026-04-17 |
-
-> From session 4 onwards: CHUNK_SIZE = 100,000
+| 1 | 0–25k | 3.3243 | 2.9856 | 2026-04-17 |
+| 2 | 25k–50k | 3.1365 | 2.7398 | 2026-04-17 |
+| 3 | 50k–75k | ~3.00 | ~2.535 | 2026-04-17 |
+| 4 | 75k–100k | ✅ Done | - | 2026-04-17 |
+| 5+ | 100k+ | ⏳ Paused | - | - |
 
 ## Weekly Session Routine
 
 1. Open Kaggle notebook
-2. Update cell 3:
+2. Update session config:
    ```python
    CHUNK_START    = <next value>
-   RESUME_ADAPTER = "peterpausianlian/zolai-qwen2.5-3b-lora"
+   CHUNK_SIZE     = 100_000  # or up to 500_000 for longer sessions
+   RESUME_ADAPTER = "peterpausianlian/zolai-qwen-0.5b"  # or 3b adapter
    ```
-3. Run all cells (~9.5h overnight)
-4. Run cell 9 to upload adapter to HF Hub + Kaggle
+3. Run all cells (~9.5h overnight on T4x2)
+4. Run upload cell to push adapter to HF Hub + Kaggle
 5. Note `Next session: CHUNK_START = X` from output
 
 ## Dataset
 
-- Train file: `llm_train.jsonl` (~5.1M samples)
+- Train file: `llm_train.jsonl` (~5.1M samples total)
 - Val file: `llm_val.jsonl`
 - Kaggle dataset: `peterpausianlian/zolai-llm-training-dataset`
 - Full coverage: ~51 sessions at 100k/session (~17 weeks)
 - Quality plateau expected: ~10–15 sessions (1–1.5M samples, ~5 weeks)
 
-## Model Config
+## Library Versions (Current)
 
+```
+transformers==5.5.4
+peft==0.19.1
+trl==1.2.0
+accelerate==1.13.0
+bitsandbytes==0.49.2
+torch==2.5.1+cu121
+```
+
+## Model Configs
+
+### zolai-qwen-0.5b (active)
 ```python
-# QLoRA
+# LoRA FP16 (no quantization — 0.5B fits in VRAM)
+r=16, lora_alpha=32
+target_modules=["q_proj", "v_proj"]
+BATCH_SIZE=8, gradient_accumulation_steps=4  # effective batch=32
+MAX_LENGTH=256, fp16=True
+optim="adamw_torch"
+```
+
+### zolai-qwen2.5-3b-lora (paused)
+```python
+# QLoRA 4-bit NF4
 load_in_4bit=True, bnb_4bit_quant_type="nf4"
 bnb_4bit_compute_dtype=torch.bfloat16
-
-# LoRA
 r=8, lora_alpha=16
 target_modules=["q_proj", "v_proj"]
-
-# Training
 BATCH_SIZE=4, gradient_accumulation_steps=8  # effective batch=32
 MAX_LENGTH=128, bf16=True
 optim="paged_adamw_8bit"
@@ -124,31 +157,38 @@ optim="paged_adamw_8bit"
 
 ## Active Training Setup (2026-04-20)
 
-### Script
+### Primary Script
 `scripts/training/train_kaggle_t4x2.py` — extracted from `notebooks/zolai-llm-fine-tuning-on-t4x2.ipynb`
 
-### Session Config
+### Active Model: zolai-qwen-0.5b
 | Parameter | Value |
 |-----------|-------|
-| Base model | Qwen/Qwen2.5-3B-Instruct |
-| Method | QLoRA 4-bit NF4 |
-| LoRA r / alpha | 8 / 16 |
+| Base model | Qwen/Qwen2.5-0.5B-Instruct |
+| Method | LoRA FP16 (no quantization) |
+| LoRA r / alpha | 16 / 32 |
 | Target modules | q_proj, v_proj |
-| Batch size | 4 × 8 grad accum |
-| Max length | 128 tokens |
-| Optimizer | paged_adamw_8bit |
-| Chunk size | 25,000 rows/session |
+| Batch size | 8 × 4 grad accum = 32 effective |
+| Max length | 256 tokens |
+| Optimizer | adamw_torch |
+| Chunk size | 100,000–500,000 rows/session |
 | Dataset | peterpausianlian/zolai-llm-training-dataset |
-| Adapter repo | peterpausianlian/zolai-qwen2.5-3b-lora |
+| Adapter repo | peterpausianlian/zolai-qwen-0.5b |
+| Hardware | Kaggle T4x2 |
 
-### Session Progress
+### Session Progress (0.5b model)
+| Milestone | Chunk Range | Status |
+|-----------|-------------|--------|
+| Early training | 0–300k | ✅ Done |
+| Current | 300k–800k | 🔄 In progress |
+| Mid training | 800k–2M | ⏳ Planned |
+| Late training | 2M–5.1M | ⏳ Planned |
+
+### Paused Model: zolai-qwen2.5-3b-lora
 | Session | CHUNK_START | Status |
 |---------|-------------|--------|
 | 1 | 0 | ✅ Done |
 | 2 | 25,000 | ✅ Done |
 | 3 | 50,000 | ✅ Done |
 | 4 | 75,000 | ✅ Done |
-| 5 | 100,000 | 🔄 Next |
-| ... | ... | ... |
-| ~80 | ~2,000,000 | Full epoch |
+| 5+ | 100,000+ | ⏸️ Paused (switched to 0.5b) |
 

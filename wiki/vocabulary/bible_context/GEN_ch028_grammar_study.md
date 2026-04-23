@@ -241,7 +241,7 @@
 | `kei` | 6 |
 | `tungah` | 6 |
 | `isaak` | 5 |
-| `aram` | 5 |
+| `agam` | 5 |
 | `piak` | 5 |
 | `ahih` | 5 |
 

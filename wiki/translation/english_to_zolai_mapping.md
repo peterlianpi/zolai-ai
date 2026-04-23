@@ -1,6 +1,9 @@
 # English-to-Zolai Grammar Mapping
 
-This document provides a systematic mapping of English grammatical structures to Zolai (Tedim). It is designed to help translates and AI models convert English intent into natural, standard Zolai (ZVS).
+> **Language:** Tedim Chin (ISO 639-3: ctd) — ZVS Standard Dialect  
+> **Last updated: 2026-04-20**
+
+This document provides a systematic mapping of English grammatical structures to Zolai (Tedim). It is designed to help translators and AI models convert English intent into natural, standard Zolai (ZVS).
 
 ---
 
@@ -34,12 +37,16 @@ This document provides a systematic mapping of English grammatical structures to
 
 ## 3. Negation (Subject-Dependent)
 
+> **ZVS Rule:** Use `kei` (not `lo`) for conditional negation. `lo` is used for simple present negation (3rd person / general). `keng` = refusal/volition. `kei` = conditional/2nd person.
+
 | English "Not" | Subject | Zolai Marker | Example |
 | :--- | :--- | :--- | :--- |
-| **I do not...** | 1st Person | `... lo / keng` | Ka pai lo hi. / Ka pai keng. |
+| **I do not...** | 1st Person | `... lo` | Ka pai lo hi. |
+| **I refuse / will not** | 1st Person (volitional) | `... keng` | Ka pai keng. |
 | **You do not...** | 2nd Person | `... kei` | Na pai kei hi. |
 | **He does not...** | 3rd Person | `... lo` | A pai lo hi. |
 | **Don't!** | Imperative | `... kei in` | Pai kei in. |
+| **Unless you...** | Conditional (2nd person) | `nong ... kei a leh` | Nong pai kei a leh... |
 
 ---
 
@@ -153,3 +160,5 @@ When mapping sounds, the following Sinna-defined rules must be followed:
 
 ---
 *Reference: Zolai Grammar Cheat Sheet, Biblical Sentence Patterns, ZVS 2018, Zolai Sinna Bu.*
+
+> **Last updated: 2026-04-20** — Header updated with ISO code; negation table corrected to reflect ZVS `kei` vs `lo` distinction and conditional negation rule.

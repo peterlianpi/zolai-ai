@@ -5,7 +5,7 @@ Tedim Zolai grammar rules, patterns, and reference materials following the ZVS s
 ## ZVS Dialect Rules (Summary)
 
 - Use: `pasian`, `gam`, `tapa`, `topa`, `kumpipa`, `tua`
-- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`
+- Never: `pasian`, `gam`, `tapa`, `topa`, `???`, `tua/tuan`
 - Word order: **SOV** (Subject-Object-Verb)
 - Negation: `kei` not `lo` for conditionals
 - Plural: never combine `uh` with `i` (we)

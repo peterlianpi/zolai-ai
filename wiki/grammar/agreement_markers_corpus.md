@@ -165,7 +165,7 @@ a bawl uh hi  = they do/did
 
 | English | Correct Zolai | Wrong |
 |---|---|---|
-| They go | `Amaute pai uh hi` | `Amaute i pai uh hi` ❌ |
+| They go | `Amaute pai uh hi` | `Amaute i pai hi` ❌ |
 | We go | `I pai hi` | `I pai uh hi` ❌ |
 | They said | `Amaute ci uh hi` | — |
 | We said | `Kote ci uh hi` / `I gen hi` | — |

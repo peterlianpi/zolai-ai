@@ -26,7 +26,7 @@
 **Grammar:** `a leh` / `leh` = if
 - `Na hoih gamta leh, thupha na ngah ding hi.` = If you do good, you will receive blessing.
 - `Na pai kei a leh, ka pai ding hi.` = If you don't go, I will go.
-- **NEVER:** `lo leh` for negative conditional — always `kei a leh`
+- **NEVER:** `kei a leh` for negative conditional — always `kei a leh`
 
 **Types:**
 | Type | Pattern | Example |

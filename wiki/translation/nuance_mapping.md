@@ -1,5 +1,8 @@
 # Nuanced Translation: Contextual and Idiomatic Zolai
 
+> **Language:** Tedim Chin (ISO 639-3: ctd) — ZVS Standard Dialect  
+> **Last updated: 2026-04-20**
+
 To move beyond direct word-for-word translation, Zolai employs specific syntactic and lexical shifts based on the **tone** (Formal/Informal) and **domain** (Theology/Science/Law).
 
 ## 1. Respectful vs. Neutral Forms (Honorifics)
@@ -56,8 +59,15 @@ Advanced Zolai uses strings of aspect markers to show precise levels of completi
 ---
 
 ## 4. Contextual Negation
-Advanced negation is not just `lo`.
-- **Prohibition (Do not):** `...ken` (e.g., `Pai ken`).
+
+Advanced negation is not just `lo`. ZVS distinguishes carefully:
+
+- **Conditional (Unless/If not):** `nong ... kei a leh` — NEVER use `kei a leh` for conditionals.
+- **Prohibition (Do not):** `...kei in` (singular) / `...kei un` (plural).
 - **Inability (Cannot):** `...zokei` (e.g., `Pai zokei`).
 - **Discontinuance (No longer):** `...nawnlo` (e.g., `Pai nawnlo`).
 - **Refusal (Will not):** `...keng` (e.g., `Pai keng`).
+- **Simple present negative:** `...lo` (3rd person general: `A pai lo hi`).
+
+---
+> **Last updated: 2026-04-20** — Header updated with ISO code; negation section corrected to reflect ZVS `kei` conditional rule (removed incorrect `ken` form).

@@ -75,9 +75,9 @@ Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense,
 - **Future/intent:** Use `kei`, NOT `lo`
   - ✅ `Ka pai kei ding hi.` — I will not go.
   - ❌ `Ka pai lo ding.` — **Unnatural in pure Tedim**
-- **Negative conditional:** Use `kei...leh`, NEVER `lo leh`
+- **Negative conditional:** Use `kei...leh`, NEVER `kei a leh`
   - ✅ `Nong pai kei a leh...` — If you don't come...
-  - ❌ `Na pai lo leh...` — **FORBIDDEN in ZVS**
+  - ❌ `Na pai kei a leh...` — **FORBIDDEN in ZVS**
 
 ---
 

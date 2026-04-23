@@ -202,7 +202,7 @@
 | `ama` | 8 |
 | `mite` | 8 |
 | `tawh` | 7 |
-| `jehoram` | 7 |
+| `jehogam` | 7 |
 | `topa` | 7 |
 | `khempeuh` | 6 |
 | `ahih` | 6 |

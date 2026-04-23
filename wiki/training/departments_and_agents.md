@@ -1,5 +1,5 @@
 # Zolai Departments, Agents & Research Responsibilities
-> Last updated: 2026-04-18
+> Last updated: 2026-04-20
 
 ---
 
@@ -90,11 +90,13 @@ ZOLAI PROJECT
 | `zolai-dpo-builder` | Build 2K+ DPO pairs, train ORPO |
 
 **Training stack:**
-- Framework: Unsloth (Kaggle) + LLaMA-Factory (multi-GPU)
-- Base model: Qwen2.5-7B-Instruct (primary)
-- Method: QLoRA (4-bit NF4, r=16, alpha=32)
+- Framework: transformers + peft + trl (Kaggle) — versions: transformers==5.5.4, peft==0.19.1, trl==1.2.0, accelerate==1.13.0, bitsandbytes==0.49.2, torch==2.5.1+cu121
+- Active model: Qwen2.5-0.5B-Instruct (zolai-qwen-0.5b, LoRA FP16, r=16, alpha=32, T4x2)
+- Stable model: Qwen2.5-3B-Instruct (zolai-qwen2.5-3b-lora, QLoRA 4-bit NF4, r=8, alpha=16, T4 x1)
+- Future target: Qwen2.5-7B-Instruct (when compute allows)
+- Method: QLoRA (4-bit NF4, r=16, alpha=32) for 7B; LoRA FP16 for 0.5B
 - Tracking: W&B free tier
-- Storage: HuggingFace Hub `zolai-project/`
+- Storage: HuggingFace Hub `peterpausianlian/`
 - Alignment: ORPO (combines SFT+DPO in one pass)
 
 ### Synthesis Department

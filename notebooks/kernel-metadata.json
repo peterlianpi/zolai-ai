@@ -1,0 +1,16 @@
+{
+  "id": "peterpausianlian/zolai-llm-fine-tuning-0-5b",
+  "title": "Zolai LLM Fine-Tuning 0.5B",
+  "code_file": "zolai-llm-fine-tuning-0-5b.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "enable_internet": true,
+  "dataset_sources": [
+    "peterpausianlian/zolai-llm-training-dataset"
+  ],
+  "competition_sources": [],
+  "kernel_sources": []
+}

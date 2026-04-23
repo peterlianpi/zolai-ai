@@ -1,5 +1,8 @@
 # Archaic vs. Modern Zolai (Tedim) Vocabulary
 
+> **Language:** Tedim Chin (ISO 639-3: ctd) — ZVS Standard Dialect  
+> **Last updated: 2026-04-20**
+
 The Zolai language has evolved significantly over the past century through three major translation eras: **Tedim 1932**, **TDB77 (1977)**, and the **ZVS 2018 (Zokam Standard Version)**.
 
 ## 1. Evolution of the Standard
@@ -18,7 +21,7 @@ The current standard (Zokam) focuses on consistency in vowel combinations and su
 
 ### Avoid Non-Tedim Styles
 It is critical to avoid phrases and words from neighboring dialects (Hakha-Lai, Falam) that may appear in mixed datasets.
-- **Avoid:** `cu/cun` (that), `pathian` (God), `fapa` (son), `ram` (country), `siangpahrang` (king), `bawipa` (Lord).
+- **Avoid:** `tua/tuan` (that), `pasian` (God), `tapa` (son), `gam` (country), `???` (king), `topa` (Lord).
 - **Prefer:** `tua`, `pasian`, `tapa`, `gam`, `kumpipa`, `topa`.
 
 ---
@@ -38,3 +41,5 @@ Some words were extremely common in earlier translations but shifted in usage fr
 
 ---
 *Reference: Empirical comparative audit of ZVS 2018, TDB77, and Tedim 1932 datasets (2026).*
+
+> **Last updated: 2026-04-20** — ISO code header added; audit reference year updated to 2026.

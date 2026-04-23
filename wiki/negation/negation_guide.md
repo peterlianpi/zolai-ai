@@ -11,7 +11,7 @@
 - Future: `Ka pai kei ding hi.` = I will not go.
 - Ability: `Ka sem thei kei hi.` = I cannot do it.
 - **Conditionals — ONLY `kei`:** `Nong pai kei a leh...` = If you don't go...
-  - ❌ NEVER: `Nong pai lo leh...`
+  - ❌ NEVER: `Nong pai kei a leh...`
 
 ### `lo` — Valid ZVS negation, common in 3rd person
 - Past/state: `Amah dam lo hi.` = He/she is not well.

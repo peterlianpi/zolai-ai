@@ -1,7 +1,18 @@
 # Zolai Data Pipeline & Training Strategy
 
-> Last updated: 2026-04-17
+> Last updated: 2026-04-20
 > Inspired by: Burmese-Coder-4B (Dr. Wai Yan Nyein Naing, April 2026)
+
+## Library Versions (Current)
+
+```
+transformers==5.5.4
+peft==0.19.1
+trl==1.2.0
+accelerate==1.13.0
+bitsandbytes==0.49.2
+torch==2.5.1+cu121
+```
 
 ---
 
@@ -34,9 +45,9 @@ Our current approach uses millions of noisy samples. The priority is:
 | `dict_semantic_v1.jsonl` | 24,891 | **21.8%** dups | 🔴 dedupe |
 | `dict_enriched_v1.jsonl` | 24,891 | **21.8%** dups | 🔴 dedupe |
 | `dict_en_zo_v1.jsonl` | 24,891 | **21.8%** dups | 🔴 dedupe |
-| `training/llm_train.jsonl` | 2,340,568 | **~15%** noise | 🔴 clean |
-| `training/llm_val.jsonl` | 292,571 | **~15%** noise | 🔴 clean |
-| `training/llm_test.jsonl` | 292,571 | **~15%** noise | 🔴 clean |
+| `training/llm_train.jsonl` | ~5.1M | **~15%** noise | 🔴 clean |
+| `training/llm_val.jsonl` | ~200k | **~15%** noise | 🔴 clean |
+| `training/llm_test.jsonl` | ~200k | **~15%** noise | 🔴 clean |
 
 ### Do Not Use for Training
 
@@ -164,13 +175,13 @@ Inspired by Burmese-Coder-4B Stage 2. This is what we haven't done yet.
 ### ZVS violation pairs to generate:
 | Wrong (rejected) | Correct (chosen) |
 |---|---|
-| `pathian` | `pasian` |
-| `ram` | `gam` |
-| `fapa` | `tapa` |
-| `bawipa` | `topa` / `kumpipa` |
-| `siangpahrang` | (avoid entirely) |
-| `cu` / `cun` | `tua` |
-| `lo leh` (conditional) | `kei a leh` |
+| `pasian` | `pasian` |
+| `gam` | `gam` |
+| `tapa` | `tapa` |
+| `topa` | `topa` / `kumpipa` |
+| `???` | (avoid entirely) |
+| `tua` / `tuan` | `tua` |
+| `kei a leh` (conditional) | `kei a leh` |
 | `uh i` (plural+we) | never combine |
 
 ### Script: `scripts/synthesis/generate_dpo_pairs.py`

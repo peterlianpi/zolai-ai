@@ -184,7 +184,7 @@
 | Zolai | Count |
 |---|---|
 | `solomon` | 13 |
-| `hiram` | 10 |
+| `higam` | 10 |
 | `leh` | 10 |
 | `pia` | 9 |
 | `ding` | 9 |

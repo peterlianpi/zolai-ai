@@ -95,7 +95,7 @@ Zolai uses specific verb suffixes to indicate vertical or relational direction.
 Zolai uses a unique "Question-Answer" structure for logical explanations (equivalent to English "Because..." or "For...").
 - **Pattern:** `Bang hang hiam i cih leh, [Explanation] ahi hi.`
 - **Literal:** "If we say 'Why is that?', [Explanation] it is."
-- **Example:** "For all have sinned" -> `Bang hang hiam i cih leh, mi khempeuh a mawh uh hi.` (ROM 3:23)
+- **Example:** "For all have sinned" -> `Bang hang hiam i cih leh, mi khempeuh a mawh hi.` (ROM 3:23)
 
 ### I. Conditional Correlatives (Ahih Leh / Ahih Ciangin)
 Differentiating between "If" (hypothetical) and "Since/When" (consequential).
@@ -1015,7 +1015,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 ## 1. Mixing Dialects
 - **Mistake:** Using "Pathian" (Hakha) for God.
 - **Correct:** Always use "Pasian".
-- **Also avoid:** `ram` (use `gam`), `fapa` (use `tapa`), `bawipa` (use `topa`), `siangpahrang` (use `kumpipa`), `cu`/`cun` (use `tua`), `nunnak` (use `nuntakna`), `zalenna` (use `suahtakna`)
+- **Also avoid:** `gam` (use `gam`), `tapa` (use `tapa`), `topa` (use `topa`), `???` (use `kumpipa`), `tua`/`tuan` (use `tua`), `nunnak` (use `nuntakna`), `zalenna` (use `suahtakna`)
 
 ## 2. Incorrect Greeting Responses
 - **Mistake:** Replying "Man ei" when asked "Na dam na?" (How are you?).
@@ -1042,7 +1042,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 - **Correct:** `I kiphawk mahmah ahihman in...` — drop `uh` when using `i`.
 - **Rule:** NEVER combine `uh` with `i`. (Khanggui lines 474–481)
 
-## 8. Negative conditional `lo leh`
+## 8. Negative conditional `kei a leh`
 - **Mistake:** `Nong pai kei leh...`
 - **Correct:** `Nong pai kei a leh...`
 - **Rule:** Negative conditionals use `kei`, NEVER `kei leh`.

@@ -1,5 +1,13 @@
 # Zolai Project — SWOT & SMART Audit
 > Date: 2026-04-18 | Method: SWOT (wiki audit) + SMART (project goals audit)
+> Updated: 2026-04-20 — see CHANGELOG.md for changes since this audit
+
+> **2026-04-20 Status Update:**
+> - Eval benchmarks (W1) ✅ BUILT — ZVS (100), Translation (500), QA (500), ORPO pairs (2000)
+> - Active model changed: zolai-qwen-0.5b (LoRA FP16, r=16, T4x2) now primary; 3B paused
+> - Training at chunks 300k–800k of 5.1M total dataset
+> - GitHub repo made public; CI passing; 34 agents, 46 skills confirmed
+> - Goal 1 updated: 0.5B + 3B models (not 7B) — 7B is future upgrade target
 
 ---
 
@@ -11,7 +19,7 @@
 The grammar section is genuinely world-class for a minority language. Phonology, morphemics, verb stems, tense markers, particle differentiations, negation rules, ergative marking, social registers — all documented. Most low-resource language projects have none of this.
 
 **S2. ZVS standard is clearly enforced**
-The forbidden word list, dialect rules, and negation system are documented consistently across `zolai_ai_instructions.md`, `long_term.md`, and agent configs. Every agent knows `pathian` is wrong.
+The forbidden word list, dialect rules, and negation system are documented consistently across `zolai_ai_instructions.md`, `long_term.md`, and agent configs. Every agent knows `pasian` is wrong.
 
 **S3. Research knowledge is now current**
 After today's sessions, the training wiki has 7 research files covering FineWeb2, AI4Bharat, UrduLLaMA, ORPO, and the full cleaning pipeline. This is better than most academic NLP projects.

@@ -245,7 +245,7 @@
 | `kumpipa` | 24 |
 | `leh` | 21 |
 | `ciangin` | 11 |
-| `abram` | 11 |
+| `abgam` | 11 |
 | `hong` | 9 |
 | `sodom` | 8 |
 | `ahi` | 8 |

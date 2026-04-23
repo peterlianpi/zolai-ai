@@ -34,7 +34,7 @@ Logic for choosing the correct phrase based on social proximity.
 ## 4. Dialect Filter: Avoid vs. Prefer
 To maintain pure Zolai Tedim literacy, the system MUST filter out the following non-Tedim styles common in neighboring languages (Hakha-Lai, Falam).
 
-| Avoid (Non-Tedim) | Prefer (Pure Tedim) | Grammatical Category |
+| Avoid (Non-Tedim) | Prefer (Pure Tedim ZVS) | Grammatical Category |
 | :--- | :--- | :--- |
 | **cu / cun** | **tua** | That / Then (Demonstrative) |
 | **pathian** | **pasian** | God (Proper Noun) |
@@ -44,6 +44,8 @@ To maintain pure Zolai Tedim literacy, the system MUST filter out the following 
 | **siangpahrang** | **kumpipa** | King / Ruler |
 | **bia** | **thu** | Word / Message |
 | **ka hmu** | **ka mu** | See (Verb) |
+
+> **Note (2026):** These rules are enforced by the ZVS standard (ISO 639-3: ctd, Tedim Chin). All training data, agents, and generated output must comply. See also Section 3 above.
 
 ## 5. Translation Patterns (Recurrent Structures)
 
@@ -89,7 +91,7 @@ Zolai uses specific verb suffixes to indicate vertical or relational direction.
 Zolai uses a unique "Question-Answer" structure for logical explanations (equivalent to English "Because..." or "For...").
 - **Pattern:** `Bang hang hiam i cih leh, [Explanation] ahi hi.`
 - **Literal:** "If we say 'Why is that?', [Explanation] it is."
-- **Example:** "For all have sinned" -> `Bang hang hiam i cih leh, mi khempeuh a mawh uh hi.` (ROM 3:23)
+- **Example:** "For all have sinned" -> `Bang hang hiam i cih leh, mi khempeuh a mawh hi.` (ROM 3:23)
 
 ### I. Conditional Correlatives (Ahih Leh / Ahih Ciangin)
 Differentiating between "If" (hypothetical) and "Since/When" (consequential).
@@ -236,7 +238,25 @@ In translating strict theological or legal absolute statements from the Epistles
 When translating poetic Hebrew parallelisms, Zolai prefers maintaining the symmetry by matching pairs over literal word-for-word translating.
 - **Rule:** If Line A uses a noun-adjective pair, Line B should mirror the cadence, even if the English translation obscures it, leaning heavily on traditional Zolai figurative binaries (e.g., `Mual le guam` - Mountains and valleys, symbolizing all terrain).
 
-## 3. Auditor Task Logic (Regex & Heuristics)
+## 3. ZVS Dialect Filter (Canonical Reference — 2026)
+
+The following table is the authoritative list of forbidden vs. preferred terms per the ZVS standard. All agents, scripts, and training data must enforce this.
+
+| Avoid (Non-Tedim) | Prefer (Pure Tedim ZVS) | Category |
+| :--- | :--- | :--- |
+| **pathian** | **pasian** | God |
+| **bawipa** | **topa** | Lord / Master |
+| **fapa** | **tapa** | Son |
+| **ram** | **gam** | Country / Land |
+| **siangpahrang** | **kumpipa** | King / Ruler |
+| **cu / cun** | **tua** | That / Then (Demonstrative) |
+
+**Negation rule:** Use `kei` (not `lo`) for conditional negation: `nong pai kei a leh` — NEVER `kei a leh`.
+**Plural rule:** Never combine `uh` with `i` (we). `I pai hi` is correct; `I pai uh hi` is wrong.
+
+---
+
+## 4. Auditor Task Logic (Regex & Heuristics)
 
 | Task | Logic / Pattern | Reason |
 | :--- | :--- | :--- |
@@ -602,4 +622,6 @@ The "Bless the Lord, O my soul" pattern.
 
 ---
 *This wiki is updated as new patterns are discovered in parallel corpora and dictionaries.*
+
+> **Last updated: 2026-04-20** — ZVS dialect filter section added; negation and plural rules clarified per current project standards.
 

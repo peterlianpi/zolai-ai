@@ -4,6 +4,24 @@
 
 ---
 
+## 2026-04-20: Wiki Audit & Sync (this session)
+
+| Date | File | Change | Reason |
+|---|---|---|---|
+| 2026-04-20 | `training/llm_training_roadmap.md` | Added zolai-qwen-0.5b model; updated training progress to 300k–800k range; added lib versions; split model configs | New active model |
+| 2026-04-20 | `training/dataset_specs.md` | Full rewrite — updated to 5.1M total, current file names, v3 splits, eval sets, quality notes | Was severely outdated (V1.0 stats) |
+| 2026-04-20 | `training/data_pipeline_and_training_strategy.md` | Added lib versions block; updated llm_train count to ~5.1M | Accuracy |
+| 2026-04-20 | `training/evaluation_benchmarks.md` | Updated status header — ZVS/Translation/QA now BUILT | Accuracy |
+| 2026-04-20 | `training/ai_second_brain.md` | Added zolai-qwen-0.5b as primary model; updated training progress; added lib versions; fixed dataset counts | New active model + accuracy |
+| 2026-04-20 | `training/departments_and_agents.md` | Updated training stack — 0.5B as active, 3B as stable, 7B as future; added lib versions | Accuracy |
+| 2026-04-20 | `planning/smart_goals_roadmap.md` | Goal 1 updated: 0.5B + 3B models (not 7B); added current training range | Accuracy |
+| 2026-04-20 | `planning/swot_smart_audit_2026_04_18.md` | Added 2026-04-20 status update block | Progress tracking |
+| 2026-04-20 | `memory/long_term.md` | Added zolai-qwen-0.5b to architecture decisions; updated training progress; added lib versions; updated next actions | Accuracy |
+| 2026-04-20 | `memory/short_term.md` | Added current session state (300k–800k chunk, 0.5b active); updated next actions | Accuracy |
+| 2026-04-20 | `memory/webdev_devops.md` | Updated last-updated date | Freshness |
+
+---
+
 ## 2026-04-20: Open Source Release
 - Full security audit: removed all hardcoded secrets and paths
 - GitHub repo made public: peterlianpi/zolai-ai
@@ -54,7 +72,7 @@
 |---|---|---|---|
 | 2026-04-17 | `negation/negation_guide.md` | Clarified `lo` is valid ZVS (3rd person/past) — NOT Hakha-only | Corpus evidence from TDB77/TBR17/Tedim2010 |
 | 2026-04-17 | `negation/negation_guide.md` | Added `kei lo` = compound absolute negation | Ten Commandments corpus evidence |
-| 2026-04-17 | `grammar/` | Added `sanginn` = correct ZVS spelling (not `sanggin`) | Spelling correction |
+| 2026-04-17 | `ggammar/` | Added `sanginn` = correct ZVS spelling (not `sanggin`) | Spelling correction |
 | 2026-04-17 | `memory/long_term.md` | Added training progress (val loss sessions 1–3) | Session tracking |
 
 ---

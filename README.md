@@ -59,7 +59,7 @@ All datasets are gitignored and distributed via **[Hugging Face Hub](https://hug
 | Parallel ZO↔EN pairs | 105k+ bilingual translation pairs |
 | Unified dictionary | 152k entries (ZO↔EN) |
 | Bible corpus | TB77, TBR17, Tedim2010 ↔ KJV parallel |
-| Training set (v3) | ~2M deduplicated Zolai sentences |
+| Training set (v3) | ~5.1M deduplicated Zolai sentences |
 | ORPO preference pairs | Preference pairs for alignment training |
 | Eval benchmarks | QA, translation, ZVS compliance tests |
 
@@ -176,20 +176,25 @@ See `wiki/` for full grammar reference and `docs/guides/AGENTS.md` for coding st
 | CLI / API | Typer, FastAPI |
 | Frontend | Next.js 16, Tailwind CSS, Bun |
 | Database | PostgreSQL (Prisma), SQLite FTS5 |
-| ML / LLM | Transformers, PEFT, TRL, Unsloth |
-| Training platform | Kaggle (T4 GPU, session-based 25k chunks) |
+| ML / LLM | transformers==5.5.4, peft==0.19.1, trl==1.2.0, accelerate==1.13.0, bitsandbytes==0.49.2, torch==2.5.1+cu121 |
+| Training platform | Kaggle (T4 GPU, session-based) |
 | Model hosting | Hugging Face Hub |
 | Deployment | Vercel (website), VPS (API), Docker |
 
 ---
 
-## Current Model
+## Current Models
 
-Fine-tuned adapter: **[peterpausianlian/zolai-qwen2.5-3b-lora](https://huggingface.co/peterpausianlian/zolai-qwen2.5-3b-lora)**
+**Active training — [peterpausianlian/zolai-qwen-0.5b](https://huggingface.co/peterpausianlian/zolai-qwen-0.5b)**
+- Base: Qwen2.5-0.5B-Instruct
+- Method: LoRA FP16, r=16, alpha=32
+- Training: ~5.1M Zolai sentences, session-based (T4x2), currently at chunk 300k–800k
+- Script: `scripts/training/train_kaggle_t4x2.py`
+
+**Stable adapter — [peterpausianlian/zolai-qwen2.5-3b-lora](https://huggingface.co/peterpausianlian/zolai-qwen2.5-3b-lora)**
 - Base: Qwen2.5-3B-Instruct
 - Method: QLoRA (4-bit NF4), r=8, alpha=16
-- Training: ~2M Zolai sentences + ORPO preference pairs (session-based, 25k chunks)
-- Script: `scripts/training/train_kaggle_t4x2.py`
+- Training: ~5.1M Zolai sentences + ORPO preference pairs (session-based, single T4)
 - Notebook: `notebooks/zolai-llm-fine-tuning-on-t4x2.ipynb`
 
 ---

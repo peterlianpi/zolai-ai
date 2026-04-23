@@ -18,7 +18,7 @@ This plan outlines the steps required to integrate the A1-B2 proficiency levels 
 
 ## 🛠 Phase 2: AI Tutor Logic (The "Sangsia" Upgrade)
 - [ ] **Adaptive Difficulty Controller:**
-  - Update `pedagogy_tutor_logic.md` to reference the `curriculum_levels.md` for sequence.
+  - Update `pedagogy_tutor_logic.md` to reference the `tuarritualum_levels.md` for sequence.
   - Implement a "Socratic Gate": The tutor must verify A1 present tense `hi` mastery before moving to B1 `ciangin` clauses.
 - [ ] **Gentehna (Parables) Integration:**
   - Map specific parables from *Gentehna Tuamtuam* to the B1/B2 reading exercises.

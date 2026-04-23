@@ -35,9 +35,9 @@
 - Endpoint: `GET /api/zolai/bible/:book?chapter=1`
 
 ### 1.4 Grammar Checker API
-- Expose `scripts/test_grammar_rules.py` as endpoint
-- Endpoint: `POST /api/grammar/check` `{text}` → `{valid, errors[]}`
-- Already have: grammar rules in `wiki/grammar/`
+- Expose `scripts/test_ggammar_rules.py` as endpoint
+- Endpoint: `post /api/ggammar/check` `{text}` → `{valid, errors[]}`
+- Already have: grammar rules in `wiki/ggammar/`
 - **Unique** — no competitor has this
 
 ### 1.5 Dialect Classifier
@@ -62,7 +62,7 @@
 
 ### 2.3 Cultural Content Pages
 - Proverbs: `wiki/literature/proverbs_and_wisdom.md`
-- History: `wiki/culture/zomi_comprehensive.md`
+- History: `wiki/tualture/zomi_comprehensive.md`
 - Literature: `wiki/literature/`
 - **Advantage** — sources are older and more authoritative than competitors
 
@@ -83,7 +83,7 @@
 ## Priority 3 — New Features (Higher effort, high differentiation)
 
 ### 3.1 ZVS Grammar Lessons
-- Structured lessons based on `wiki/curriculum/readme.md`
+- Structured lessons based on `wiki/tuarritualum/readme.md`
 - CEFR-aligned: A1→C2 as defined in `AGENTS.md`
 - Unique: no competitor teaches ZVS-standard Tedim grammar
 
@@ -111,10 +111,10 @@
 
 | Skill | Purpose | Priority |
 |---|---|---|
-| `zolai-grammar-checker` | Grammar validation endpoint | P1 |
+| `zolai-ggammar-checker` | Grammar validation endpoint | P1 |
 | `zolai-dialect-classifier` | Tedim vs Hakha/Falam detection | P1 |
 | `zolai-phrasebook-builder` | Categorized phrase generation | P2 |
-| `zolai-cultural-content` | Proverbs/history/literature extraction | P2 |
+| `zolai-tualtural-content` | Proverbs/history/literature extraction | P2 |
 | `zolai-quiz-generator` | Vocabulary quiz from dictionary | P2 |
 | `zolai-bible-search` | Full-text Bible search API | P3 |
 | `zolai-pwa` | Offline-capable web frontend | P3 |

@@ -18,36 +18,35 @@ Zolai uses an ergative-absolutive alignment.
 - `Amah` (He/She) + `in` = `Aman` (He/She did it)
 - `Pasian` (God) + `in` = `Pasian in` (God did it)
 
-### Word Order: OSV (Object-Subject-Verb) and Flexible Order
+### Word Order: SOV (Subject-Object-Verb) — ZVS Standard
+Zolai follows **SOV** (Subject–Object–Verb) word order per the ZVS standard. The verb always comes last.
+
 ```
-Object + Subject + Verb + Particle (Highly natural/common)
-Subject + Object + Verb + Particle (Also acceptable)
-Subject + Verb + Particle (Intransitive or dropped object)
-
-Example 1 (OSV - Preferred/Natural):
-Laibu ka sim hi. (or Lai ka sim hi.)
-(Book I read is.)
-= I read a book.
-
-Example 2 (SOV - Requires explicit subject marker):
+Subject + Object + Verb (ZVS standard)
 Ka pa in laibu sim hi.
 (My father book read is.)
 = My father reads a book.
-*(Note: "Ka laibu sim hi" is INCORRECT and should not be used)*
 
-Example 3 (SV):
+Object-fronted (topic prominence — also natural):
+Laibu ka sim hi.
+(Book I read is.)
+= I read a book. [object fronted for topic/emphasis]
+
+Subject + Verb (intransitive or dropped object):
 Ka sim hi.
 = I read.
 ```
+
+**Note on `Ka laibu sim hi`:** This is INCORRECT — `Ka` before `laibu` acts as a possessive ("My book"). To say "I read a book" without an explicit agentive subject, front the object: `Laibu ka sim hi`. With explicit subject: `Kei in laibu ka sim hi` or `Ken laibu ka sim hi`.
 
 ### Simple Sentence Patterns
 | Pattern | Example | Translation | Notes |
 |---------|---------|-------------|-------|
 | S + V | Ka sim hi | I read | "I" = ka |
-| O + S + V | Laibu ka sim hi | I read a book | **Highly natural and preferred** |
-| S + O + V | Ka pa in laibu sim hi | My father reads a book | Requires explicit subject or agentive marker ("in") |
-| S + O + V | Kei in laibu ka sim hi | I read a book | Explicit subject + OSV |
+| S + O + V | Ka pa in laibu sim hi | My father reads a book | Requires agentive marker `in` on subject |
+| S + O + V | Kei in laibu ka sim hi | I read a book | Explicit subject + agentive `in` |
 | S + O + V | Ken laibu ka sim hi | I read a book | "Ken" = "Kei in" |
+| O + V (topic-fronted) | Laibu ka sim hi | I read a book | Object fronted; natural in conversation |
 | O + S + V + Adv | Laibu hoih takin ka sim hi | I read a book well | |
 
 ---
@@ -432,4 +431,4 @@ RIGHT: Pasian hong itna
 ---
 
 *Generated from: zolai_gelhmaan_bu_grammar_vol, zolai_standard_format, zolai_sinna, Zolai Simbu (ZCLS/ZOLLS)*
-*Last updated: 2026-04-01*
+*Last updated: 2026-04-20*

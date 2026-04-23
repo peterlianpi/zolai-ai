@@ -140,7 +140,7 @@
 | `ciangin` | 10 |
 | `tapa` | 9 |
 | `tawh` | 8 |
-| `jehoram` | 8 |
+| `jehogam` | 8 |
 | `kumpi` | 7 |
 | `leh` | 6 |
 | `ahih` | 6 |

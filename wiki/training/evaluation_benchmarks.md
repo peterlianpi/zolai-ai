@@ -1,5 +1,5 @@
 # Zolai Evaluation Benchmarks
-> Status: IN PROGRESS | Target: 2026-05-15 (ZVS set), 2026-08-31 (FLORES)
+> Last updated: 2026-04-20 | Status: BUILT (ZVS, Translation, QA) | Pending: FLORES
 
 ---
 

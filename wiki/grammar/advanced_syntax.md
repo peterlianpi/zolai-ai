@@ -37,7 +37,7 @@ When the relative clause is more descriptive, the verb often stays in its primar
 
 **CRITICAL RULE:** For 2nd person subjects (`Nong`), use `kei` instead of `lo`. 
 - **Correct (2nd Person):** `Nong pai kei a leh...` or `Nong pai kei leh...` (If you don't come / Unless you come).
-- **Wrong:** `Nong pai lo leh...`
+- **Wrong:** `Nong pai kei a leh...`
 
 **Third Person / General Negation:**
 - **Possible:** `Hong pai lo hi leh...` (If he/she does not come).

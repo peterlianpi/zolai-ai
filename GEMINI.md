@@ -12,9 +12,9 @@
 |---|---|
 | Core Language | Python 3.10+ |
 | Backend Framework | FastAPI, Typer (CLI) |
-| Frontend | Next.js, Tailwind CSS, Bun |
+| Frontend | Next.js 16, Tailwind CSS, Bun |
 | Database | PostgreSQL (Prisma), SQLite (FTS5 for Dictionary) |
-| ML/LLM | Transformers, PEFT, TRL, Accelerate, Datasets |
+| ML/LLM | transformers==5.5.4, peft==0.19.1, trl==1.2.0, accelerate==1.13.0, bitsandbytes==0.49.2, torch==2.5.1+cu121 |
 | Infrastructure | Kaggle (Training), Hugging Face Hub, Cloudinary |
 | Data Processing | Pandas, NumPy, Scikit-learn, BeautifulSoup4 |
 
@@ -197,29 +197,31 @@ Always output valid JSONL — one entry per line:
 `kinship` | `nature` | `body` | `food` | `action` | `emotion` | `place` | `time` | `religion` | `culture` | `education` | `wordlist` (= unverified, prioritize these)
 
 ## Current Training State (2026-04-20)
-- Dataset: llm_train_v3.jsonl (651MB, ~2M samples)
-- ORPO pairs: data/training/orpo_pairs_v1.jsonl (1GB)
-- Eval: data/eval/ (QA, translation, ZVS compliance benchmarks)
-- Adapter: peterpausianlian/zolai-qwen2.5-3b-lora
-- Next steps: Complete session training, merge adapter, export GGUF Q4
+- Dataset: `peterpausianlian/zolai-llm-training-dataset` — llm_train_v3.jsonl (~5.1M samples)
+- ORPO pairs: `data/training/orpo_pairs_v1.jsonl`
+- Eval: `data/eval/` (QA, translation, ZVS compliance benchmarks)
+- **Active model:** `peterpausianlian/zolai-qwen-0.5b` — LoRA FP16, r=16, alpha=32, T4x2, chunk 300k–800k
+- **Stable adapter:** `peterpausianlian/zolai-qwen2.5-3b-lora` — QLoRA 4-bit NF4, r=8, alpha=16
+- Next steps: Complete chunk 300k–800k, merge adapter, export GGUF Q4
 
 ## Session-Based Training
 
-Each Kaggle session processes 25,000 rows from `llm_train.jsonl`:
+Each Kaggle session processes a chunk from `llm_train_v3.jsonl` (~5.1M total):
 
 ```python
 # UPDATE EACH SESSION in scripts/training/train_kaggle_t4x2.py:
-CHUNK_START    = 0        # 0, 25000, 50000, 75000 ...
-RESUME_ADAPTER = None     # None = fresh; "peterpausianlian/zolai-qwen2.5-3b-lora" to resume
+CHUNK_START    = 300000   # current position
+CHUNK_END      = 800000   # end of current range
+RESUME_ADAPTER = "peterpausianlian/zolai-qwen-0.5b"  # None = fresh start
 ```
 
 **Kaggle setup:**
 1. Dataset: `peterpausianlian/zolai-llm-training-dataset`
 2. Secrets: `HF_TOKEN`, `KAGGLE_KEY`
-3. Accelerator: T4 GPU (single)
+3. Accelerator: T4 x2 GPU
 4. Script: `scripts/training/train_kaggle_t4x2.py`
 
-**Config:** Qwen2.5-3B-Instruct · QLoRA 4-bit NF4 · r=8, alpha=16 · batch 4×8 · paged_adamw_8bit
+**Config:** Qwen2.5-0.5B-Instruct · LoRA FP16 · r=16, alpha=32 · T4x2
 
 ### Evaluation
 ```bash

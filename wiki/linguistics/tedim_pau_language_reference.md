@@ -1,7 +1,26 @@
 # Tedim Pau (Zolai) — Language Reference
 > Comprehensive linguistic reference for Tedim Zolai (Zopau)
-> Sources: Wikipedia (Tedim language), Zolai_Khanggui, Zolai Sinna Bu, ZVS 2018, corpus analysis
-> Last updated: 2026-04-14
+> Sources: Wikipedia (Tedim language), Zolai_Khanggui, Zolai Sinna Bu, ZVS 2018, corpus analysis, ISO 639-3, Glottolog, Ethnologue
+> Last updated: 2026-04-20
+
+## Official Language Classification
+
+| Property | Value |
+|---|---|
+| ISO 639-3 | `ctd` (Tedim Chin) |
+| Glottocode | `tedi1235` |
+| Also known as | Zopau, Zomi, Tedim Pau, Zo, Ei pau |
+| Family | Sino-Tibetan → Tibeto-Burman → Kuki-Chin → Northeastern Chin |
+| Native to | Myanmar (Chin State, Sagaing Division), India (Manipur, Mizoram) |
+| Speakers | ~340,000 (1990 Ethnologue estimate) |
+| Script | Latin (primary), Pau Cin Hau script (historical) |
+| Vitality | **Stable** — all children in ethnic community learn and use it |
+| Digital support | Emerging (Ethnologue digital scale) |
+| Word order | SOV |
+| Mutual intelligibility | Paite language |
+| Existing resources | Literature, dictionary, Bible (1977–2023) |
+
+**Sources:** [ISO 639-3 ctd](https://iso639-3.sil.org/code/ctd) · [Glottolog tedi1235](https://glottolog.org/resource/languoid/id/tedi1235) · [Ethnologue](https://www.ethnologue.com/language/ctd/) · [Wikipedia](https://en.wikipedia.org/wiki/Tedim_language)
 
 ---
 
@@ -210,9 +229,9 @@ Negation follows the verb using `kei` or `lo`:
 - `Ka pai lo hi.` — I didn't go (emphatic refusal/inability)
 - `A dam kei.` — He/she is not well.
 
-**Critical rule:** Negative conditionals use `kei`, NEVER `lo leh`:
+**Critical rule:** Negative conditionals use `kei`, NEVER `kei a leh`:
 - ✓ `Nong pai kei a leh...` — If you don't go...
-- ✗ `Nong pai lo leh...` — WRONG
+- ✗ `Nong pai kei a leh...` — WRONG
 
 ### Directional Verb Particles
 These modify verbs to specify movement direction:
@@ -335,12 +354,12 @@ God named what was above the horizon "sky."
 
 | Concept | Tedim (ZVS) ✓ | Hakha/Falam ✗ |
 |---|---|---|
-| God | **Pasian** | Pathian |
-| Country/land | **Gam** | Ram |
-| Son | **Tapa** | Fapa |
-| Lord | **Topa** | Bawipa |
+| God | **Pasian** | pasian |
+| Country/land | **Gam** | gam |
+| Son | **Tapa** | tapa |
+| Lord | **Topa** | topa |
 | Teacher | **Kumpipa** | Siangpahrang |
-| That/then | **Tua** | Cu / Cun |
+| That/then | **Tua** | tua / tua |
 | Life | **Nuntakna** | Nunnak |
 | Freedom | **Suahtakna** | Zalenna |
 
@@ -391,7 +410,7 @@ Three distinct uses:
 - [Wikipedia — Tedim language](https://en.wikipedia.org/wiki/Tedim_language)
 - Otsuka, Kosei (2014). *Tiddim Chin*. ILCAA, Tokyo University of Foreign Studies.
 - `resources/Zolai_Khanggui_AD_1899_AD_2013.md`
-- `wiki/grammar/phonology.md`
-- `wiki/grammar/sentence_structures.md`
-- `wiki/grammar/morphemics.md`
+- `wiki/ggammar/phonology.md`
+- `wiki/ggammar/sentence_structures.md`
+- `wiki/ggammar/morphemics.md`
 - ZVS 2018 Bible corpus (2.8M sentences)
