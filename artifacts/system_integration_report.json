@@ -1,17 +1,17 @@
 {
-  "timestamp": "2026-04-23T07:01:39.449552",
+  "timestamp": "2026-04-23T07:11:46.444059",
   "agents": {
     "security": {
       "status": "\u2705 COMPLETE",
-      "files_scanned": 95403,
-      "api_keys_found": 46,
+      "files_scanned": 95402,
+      "api_keys_found": 33,
       "credentials_found": 236,
       "cookies_found": 0
     },
     "wiki": {
       "status": "\u2705 COMPLETE",
       "files_audited": 1530,
-      "total_findings": 1558,
+      "total_findings": 1472,
       "agents": [
         "GrammarAuditAgent",
         "ExampleAuditAgent",
@@ -40,8 +40,8 @@
     "recommendations_count": 3
   },
   "recommendations": [
-    "\u26a0\ufe0f Security: 282 sensitive data instances found - review and rotate keys",
-    "\ud83d\udcda Wiki: 1558 findings - update examples for ZVS 2018 compliance",
+    "\u26a0\ufe0f Security: 269 sensitive data instances found - review and rotate keys",
+    "\ud83d\udcda Wiki: 1472 findings - update examples for ZVS 2018 compliance",
     "\ud83d\udd17 Git: Secrets detected in history - run git filter-branch"
   ]
 }
