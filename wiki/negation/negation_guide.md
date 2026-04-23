@@ -20,7 +20,7 @@
 - **`lo` is NOT Hakha-only** — it is valid Tedim ZVS in non-conditional contexts.
 
 ### `kei lo` — Compound absolute negation ("none / not any")
-- `Pasian dang kei lo uh hen.` = You shall have no other gods. (Ten Commandments)
+- `Pasian dang kei lo-te hen.` = You shall have no other gods. (Ten Commandments)
 - `Kuamah kei lo.` = There is no one / nobody.
 - Meaning: stronger than plain `kei` — total absence.
 

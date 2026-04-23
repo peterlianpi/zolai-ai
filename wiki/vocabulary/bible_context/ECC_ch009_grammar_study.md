@@ -33,16 +33,16 @@
 
 **TDB77:** Bang hang hiam cih leh mi khempeuh thumong kibang a, midikte leh migilote, mihoihte leh misiate, misiangte leh mininte, biakna piate leh a pia lote, a thu tawpna a vekpi-in kibang lel hi. Mawhneipa sangin mihoihpa hampha zaw tuan lo a, thuciamna a bawl lopa sangin a bawlpa hampha zaw tuan lo hi.
 
-**ZVS:** Bang hang hiam cih leh mi khempeuh a thumong kibang a, midikte leh migilote, mihoihte leh misiate, mi siangte leh mi ninte, biakna piate leh a pialote, a thutawpna uh a vekpi-in kibang lel hi. Mawhneipa sangin mihoihpa hamphazaw tuanlo a, thuciamna a bawllopa sangin a bawlpa hamphazaw tuanlo hi.
+**ZVS:** Bang hang hiam cih leh mi khempeuh a thumong kibang a, midikte leh migilote, mihoihte leh misiate, mi siangte leh mi ninte, biakna piate leh a pialote, a thutawpna-te a vekpi-in kibang lel hi. Mawhneipa sangin mihoihpa hamphazaw tuanlo a, thuciamna a bawllopa sangin a bawlpa hamphazaw tuanlo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix
 
 ### v3
 **EN:** This is an evil among all things that are done under the sun, that there is one event unto all: yea, also the heart of the sons of men is full of evil, and madness is in their heart while they live, and after that they go to the dead.
 
-**TDB77:** Mi khempeuh’ thumong kibang kim a, hih thu in leitunga thupiang lakah a man het lo khat ahi hi. Mihingte a nuntak lai teng, gitlohna leh a mawkna thu tawh a lungsim uh kidim a, theih kholh lohin mihingte si pak uh hi.
+**TDB77:** Mi khempeuh’ thumong kibang kim a, hih thu in leitunga thupiang lakah a man het lo khat ahi hi. Mihingte a nuntak lai teng, gitlohna leh a mawkna thu tawh a lungsim-te kidim a, theih kholh lohin mihingte si pak-te hi.
 
-**ZVS:** Mi khempeuh' thumong kibang kim a, hih pen leitunga thupiang lakah a man hetlo khat ahi hi. Mihingte a nuntak laiteng gitlohna leh a mawkna thu tawh a lungsim uh kidim a, theihkholh lohin mihingte sipak uh hi.
+**ZVS:** Mi khempeuh' thumong kibang kim a, hih pen leitunga thupiang lakah a man hetlo khat ahi hi. Mihingte a nuntak laiteng gitlohna leh a mawkna thu tawh a lungsim-te kidim a, theihkholh lohin mihingte sipak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -56,18 +56,18 @@
 ### v5
 **EN:** For the living know that they shall die: but the dead know not any thing, neither have they any more a reward; for the memory of them is forgotten.
 
-**TDB77:** A hing laite in a si ding ahih lam thei thei uh a, a sisate in bangmah thei nawn lo hi. A sisate in thaman bangmah nei nawn lo uh a, amaute kiphawk kha nawn lo hi.
+**TDB77:** A hing laite in a si ding ahih lam thei thei-te a, a sisate in bangmah thei nawn lo hi. A sisate in thaman bangmah nei nawn lo-te a, amaute kiphawk kha nawn lo hi.
 
-**ZVS:** A hing laite in a si ding ahihlam uh thei a, a sisate in bangmah thei nawnlo uh hi. A sisate in thaman bangmah nei nawnlo uh a, amaute kiphawkkha nawnlo hi.
+**ZVS:** A hing laite in a si ding ahihlam-te thei a, a sisate in bangmah thei nawnlo-te hi. A sisate in thaman bangmah nei nawnlo-te a, amaute kiphawkkha nawnlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Also their love, and their hatred, and their envy, is now perished; neither have they any more a portion for ever in any thing that is done under the sun.
 
-**TDB77:** Amau ading itna, muhdahna, hanciamna cihte om nawn lo a, leitunga om nate, khat beek thei kha kik nawn lo ding uh hi.
+**TDB77:** Amau ading itna, muhdahna, hanciamna cihte om nawn lo a, leitunga om nate, khat beek thei kha kik nawn lo ding-te hi.
 
-**ZVS:** Amau-a' dingin itna, muhdahna, hanciamna cihte om nawnlo a, leitunga om nate khat beek theikha kik nawnlo ding uh hi.
+**ZVS:** Amau-a' dingin itna, muhdahna, hanciamna cihte om nawnlo a, leitunga om nate khat beek theikha kik nawnlo ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

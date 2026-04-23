@@ -95,27 +95,27 @@
 ### v9
 **EN:** Then lifted I up mine eyes, and looked, and, behold, there came out two women, and the wind was in their wings; for they had wings like the wings of a stork: and they lifted up the ephah between the earth and the heaven.
 
-**TDB77:** Tua ciangin ka khuadak leh numei nih ka mu a, tui-vapi bangin kha nei-in, keima lamah hong leeng uh hi. Van lamah tua ciangpi leh’pih to uh hi.
+**TDB77:** Tua ciangin ka khuadak leh numei nih ka mu a, tui-vapi bangin kha nei-in, keima lamah hong leeng-te hi. Van lamah tua ciangpi leh’pih to-te hi.
 
-**ZVS:** Tua ciangin ka khuadak leh numei nih ka mu a, gun vapi bangin kha nei-in, keima lamah hong leeng uh hi. Van lamah tua ciangpi a leen'pihto uh hi.
+**ZVS:** Tua ciangin ka khuadak leh numei nih ka mu a, gun vapi bangin kha nei-in, keima lamah hong leeng-te hi. Van lamah tua ciangpi a leen'pihto-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v10
 **EN:** Then said I to the angel that talked with me, Whither do these bear the ephah?
 
-**TDB77:** Tua ciangin vantungmi kiangah, “Koi lai-ah len’pih ding ahi uh hiam?” ci-in ka dong hi.
+**TDB77:** Tua ciangin vantungmi kiangah, “Koi lai-ah len’pih ding ahi-te hiam?” ci-in ka dong hi.
 
-**ZVS:** Tua ciangin vantung mi kiangah, “Koi lai-ah leen'pih ding ahi uh hiam?” ci-in ka dot leh
+**ZVS:** Tua ciangin vantung mi kiangah, “Koi lai-ah leen'pih ding ahi-te hiam?” ci-in ka dot leh
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v11
 **EN:** And he said unto me, To build it an house in the land of Shinar: and it shall be established, and set there upon her own base.
 
-**TDB77:** Amah in, “Biakinn khat a lamsak dingin Babilon gamah a len’pih ding ahi uh hi. Biakinn a lamsak uh a zawh uh ciangin, biak dingin tua ciangpi kikoih ding hi,” ci-in hong dawng hi.
+**TDB77:** Amah in, “Biakinn khat a lamsak dingin Babilon gamah a len’pih ding ahi-te hi. Biakinn a lamsak-te a zawh-te ciangin, biak dingin tua ciangpi kikoih ding hi,” ci-in hong dawng hi.
 
-**ZVS:** amah in, “Biakinn khat a lamsak dingin Babylon gamah a leen'pih ding ahi uh hi. Biakinn a lamsak uh a zawh uh ciangin, biak dingin tua ciangpi kikoih ding hi,” ci-in a hong dawng hi.
+**ZVS:** amah in, “Biakinn khat a lamsak dingin Babylon gamah a leen'pih ding ahi-te hi. Biakinn a lamsak-te a zawh-te ciangin, biak dingin tua ciangpi kikoih ding hi,” ci-in a hong dawng hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

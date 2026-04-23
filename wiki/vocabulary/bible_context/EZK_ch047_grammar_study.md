@@ -106,45 +106,45 @@
 ### v10
 **EN:** And it shall come to pass, that the fishers shall stand upon it from En–gedi even unto En–eglaim; they shall be a place to spread forth nets; their fish shall be according to their kinds, as the fish of the great sea, exceeding many.
 
-**TDB77:** En-gedi khua panin En-eglaim khua ciang dong tuipi dungah ngasa bengte omin, tua dungah a ngen uh zalin pho keu ding uh hi. Mediterranean Tuipi sungah ngasa om zah mah bangin ngasa nam tampite om ding hi.
+**TDB77:** En-gedi khua panin En-eglaim khua ciang dong tuipi dungah ngasa bengte omin, tua dungah a ngen-te zalin pho keu ding-te hi. Mediterranean Tuipi sungah ngasa om zah mah bangin ngasa nam tampite om ding hi.
 
-**ZVS:** Engedi khua panin Eneglaim khua ciangdong tuipi dungah ngasa bengte omin, tua dungah a ngen uh zalin phokeu ding uh hi. Mediterranean Tuipi sungah ngasa a omzah mah bangin ngasa nam tampi om ding hi.
+**ZVS:** Engedi khua panin Eneglaim khua ciangdong tuipi dungah ngasa bengte omin, tua dungah a ngen-te zalin phokeu ding-te hi. Mediterranean Tuipi sungah ngasa a omzah mah bangin ngasa nam tampi om ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v11
 **EN:** But the miry places thereof and the marishes thereof shall not be healed; they shall be given to salt.
 
-**TDB77:** Ahi zongin tuipi dunga om nawng lakte leh bualte-a om tuite siang lo ding a, cikhuk dingin tuaci-in om lai ding uh hi.
+**TDB77:** Ahi zongin tuipi dunga om nawng lakte leh bualte-a om tuite siang lo ding a, cikhuk dingin tuaci-in om lai ding-te hi.
 
-**ZVS:** Ahi zongin tuipi dunga om nawnglakte leh bualte-a om tuite sianglo ding a, cikhuk dingin a tuaci mahin omlai ding uh hi.
+**ZVS:** Ahi zongin tuipi dunga om nawnglakte leh bualte-a om tuite sianglo ding a, cikhuk dingin a tuaci mahin omlai ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
 ### v12
 **EN:** And by the river upon the bank thereof, on this side and on that side, shall grow all trees for meat, whose leaf shall not fade, neither shall the fruit thereof be consumed: it shall bring forth new fruit according to his months, because their waters they issued out of the sanctuary: and the fruit thereof shall be for meat, and the leaf thereof for medicine.
 
-**TDB77:** Hih gun pang tuakah a gah nek dingin singkung nam khempeuh po ding hi. A tehte pulh ngei lo ding a, a gah tawh zong kilawi ngei lo ding hi. Biakinn panin a luangkhia tui ngah ding uh ahih manin kha simin a gah thak gah tawntung ding uh hi. A singgahte an ding hi ding a, a tehte zatui in kizang ding hi,” hong ci hi.
+**TDB77:** Hih gun pang tuakah a gah nek dingin singkung nam khempeuh po ding hi. A tehte pulh ngei lo ding a, a gah tawh zong kilawi ngei lo ding hi. Biakinn panin a luangkhia tui ngah ding-te ahih manin kha simin a gah thak gah tawntung ding-te hi. A singgahte an ding hi ding a, a tehte zatui in kizang ding hi,” hong ci hi.
 
-**ZVS:** Hih gun pang tuakah a gah nek dingin singkung nam khempeuh po ding hi. A tehte pulh ngeilo ding a, a gah tawh zong kilawi ngeilo ding hi. Biakinn panin a luangkhia tui ngah ding uh ahih manin khasimin a gah thak gah tawntung ding uh hi. A singgahte an ding hi ding a, a tehte zatui-in kizang ding hi,” hong ci hi.
+**ZVS:** Hih gun pang tuakah a gah nek dingin singkung nam khempeuh po ding hi. A tehte pulh ngeilo ding a, a gah tawh zong kilawi ngeilo ding hi. Biakinn panin a luangkhia tui ngah ding-te ahih manin khasimin a gah thak gah tawntung ding-te hi. A singgahte an ding hi ding a, a tehte zatui-in kizang ding hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Thus saith the Lord
 
-**TDB77:** Tua ciangin Topa Pasian in kei kiangah, “Israel minam sawm leh nihte’ gamh dingin leitang hawm ding gamgi in hih bang hi ding hi. Josef minamte in a dangte’ ngah zah nih ngah ding uh hi.
+**TDB77:** Tua ciangin Topa Pasian in kei kiangah, “Israel minam sawm leh nihte’ gamh dingin leitang hawm ding gamgi in hih bang hi ding hi. Josef minamte in a dangte’ ngah zah nih ngah ding-te hi.
 
-**ZVS:** Tua ciangin Topa { Pasian } in kei kiangah, “Israel minam sawmlenihte' gamh dingin leitang hawm ding a gamgi ding hih bang hi ding hi. Josef minamte in a dangte' ngahzah nih ngah ding uh hi.
+**ZVS:** Tua ciangin Topa { Pasian } in kei kiangah, “Israel minam sawmlenihte' gamh dingin leitang hawm ding a gamgi ding hih bang hi ding hi. Josef minamte in a dangte' ngahzah nih ngah ding-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And ye shall inherit it, one as well as another: concerning the which I lifted up mine hand to give it unto your fathers: and this land shall fall unto you for inheritance.
 
-**TDB77:** Hih gam amaute’ tanh dingin ka piak nading thu, na pu na pate uh tungah thupi takin ka kiciam khin zo hi. Tua ahih manin tu-in note lakah a kikim dimdiamin hawm un.
+**TDB77:** Hih gam amaute’ tanh dingin ka piak nading thu, na pu na pate-te tungah thupi takin ka kiciam khin zo hi. Tua ahih manin tu-in note lakah a kikim dimdiamin hawm un.
 
-**ZVS:** Hih gam na pu na pate uh tanh dingin ka piakna ding thu, amaute tungah thupi takin ka kiciam khinzo hi. Tua ahih manin tu-in note' lakah a kikim dimdiamin hawm un.
+**ZVS:** Hih gam na pu na pate-te tanh dingin ka piakna ding thu, amaute tungah thupi takin ka kiciam khinzo hi. Tua ahih manin tu-in note' lakah a kikim dimdiamin hawm un.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix
 
@@ -212,18 +212,18 @@
 ### v22
 **EN:** And it shall come to pass, that ye shall divide it by lot for an inheritance unto you, and to the strangers that sojourn among you, which shall beget children among you: and they shall be unto you as born in the country among the children of Israel; they shall have inheritance with you among the tribes of Israel.
 
-**TDB77:** Note adingin na neih kip tawntung ding uh gamh hi ding hi. Hih leitang na hawm uh ciangin note lakah hong teengin ta a nei khinsa minam dangte zong note mah bangin tanh na pia ding uh hi. Amaute pen Israel minam taktakte mah bangin na ngaihsun ding uh a, Israel minam dangte mah bangin leitang hawmna-ah aii sawk thei ding uh hi.
+**TDB77:** Note adingin na neih kip tawntung ding-te gamh hi ding hi. Hih leitang na hawm-te ciangin note lakah hong teengin ta a nei khinsa minam dangte zong note mah bangin tanh na pia ding-te hi. Amaute pen Israel minam taktakte mah bangin na ngaihsun ding-te a, Israel minam dangte mah bangin leitang hawmna-ah aii sawk thei ding-te hi.
 
-**ZVS:** Note-a' dingin na neih kip tawntung ding uh gamh hi ding hi. Hih leitang na hawm uh ciangin note lakah hong tengin ta a nei khinsa minam dangte zong note mah bangin tanh na pia ding uh hi. Amaute pen Israel minam taktakte mah bangin na ngaihsun ding uh a, Israel minam dangte mah bangin leitang hawmna-ah ai sawk thei ding uh hi.
+**ZVS:** Note-a' dingin na neih kip tawntung ding-te gamh hi ding hi. Hih leitang na hawm-te ciangin note lakah hong tengin ta a nei khinsa minam dangte zong note mah bangin tanh na pia ding-te hi. Amaute pen Israel minam taktakte mah bangin na ngaihsun ding-te a, Israel minam dangte mah bangin leitang hawmna-ah ai sawk thei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** And it shall come to pass, that in what tribe the stranger sojourneth, there shall ye give him his inheritance, saith the Lord
 
-**TDB77:** Note’ lakah a teeng gamdang mite in amau’ ten’na minamte tawh leitang ngah khawm ding uh hi. Topa Pasian in hih thu kong gen khin hi.
+**TDB77:** Note’ lakah a teeng gamdang mite in amau’ ten’na minamte tawh leitang ngah khawm ding-te hi. Topa Pasian in hih thu kong gen khin hi.
 
-**ZVS:** Note' lakah a teng gamdang mite in amau' ten'na minamte tawh leitang ngahkhawm ding uh hi. Topa { Pasian } in hih thu kong gen khin hi.
+**ZVS:** Note' lakah a teng gamdang mite in amau' ten'na minamte tawh leitang ngahkhawm ding-te hi. Topa { Pasian } in hih thu kong gen khin hi.
 
 **Grammar:** completed: already done | future: will | plural: uh marker
 

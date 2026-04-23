@@ -30,9 +30,9 @@
 ### v2
 **EN:** The wicked in his pride doth persecute the poor: let them be taken in the devices that they have imagined.
 
-**TDB77:** Migilote in kiphatsakna tawh mizawngte uuk delh uh hi; amau ngaihsut vaihawmna mah-ah amaute awk sak in.
+**TDB77:** Migilote in kiphatsakna tawh mizawngte uuk delh-te hi; amau ngaihsut vaihawmna mah-ah amaute awk sak in.
 
-**ZVS:** Migilote in kiphatsakna tawh mizawngte uuk delh uh hi. Amau ngaihsut vaihawmna mahah amaute awksak in.
+**ZVS:** Migilote in kiphatsakna tawh mizawngte uuk delh-te hi. Amau ngaihsut vaihawmna mahah amaute awksak in.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -159,7 +159,7 @@
 
 **TDB77:** Pa nei lo leh nen’niamna a thuakte tungah na thutang a, leitung mite in launa tuak kha nawn lo ding hi.
 
-**ZVS:** Pa neilote leh netniamna a thuakte tungah nang na thutang a, leitung mite in launa tuakkha nawnlo ding uh hi.
+**ZVS:** Pa neilote leh netniamna a thuakte tungah nang na thutang a, leitung mite in launa tuakkha nawnlo ding-te hi.
 
 **Grammar:** future: will | negation: lo
 

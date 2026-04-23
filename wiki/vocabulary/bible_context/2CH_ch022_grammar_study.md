@@ -25,9 +25,9 @@
 ### v1
 **EN:** And the inhabitants of Jerusalem made Ahaziah his youngest son king in his stead: for the band of men that came with the Arabians to the camp had slain all the eldest. So Ahaziah the son of Jehoram king of Judah reigned.
 
-**TDB77:** Tua ciangin Jerusalem a, teengte in ama taangin a tapa neupen Ahaziah kumpi-in koih uh hi; bang hang hiam cih leh Arab mite tawh giahphual ah hong pai mite in a tapa golzawte khempeuh that khin uh hi. Tua ahih ciangin Judah kumpi Jehoram’ tapa Ahaziah in uk hi.
+**TDB77:** Tua ciangin Jerusalem a, teengte in ama taangin a tapa neupen Ahaziah kumpi-in koih-te hi; bang hang hiam cih leh Arab mite tawh giahphual ah hong pai mite in a tapa golzawte khempeuh that khin-te hi. Tua ahih ciangin Judah kumpi Jehoram’ tapa Ahaziah in uk hi.
 
-**ZVS:** Tua ciangin Jerusalem-ah a tengte in ama tangin a tapa neupen Ahaziah kumpi-in koih uh hi; bang hang hiam cih leh Arab mite tawh giahphualah hong pai mite in a tapa golzawte khempeuh that khin uh hi. Tua ahih ciangin Judah kumpi Jehoram' tapa Ahaziah in uk hi.
+**ZVS:** Tua ciangin Jerusalem-ah a tengte in ama tangin a tapa neupen Ahaziah kumpi-in koih-te hi; bang hang hiam cih leh Arab mite tawh giahphualah hong pai mite in a tapa golzawte khempeuh that khin-te hi. Tua ahih ciangin Judah kumpi Jehoram' tapa Ahaziah in uk hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | completed: already done | plural: uh marker
 
@@ -52,18 +52,18 @@
 ### v4
 **EN:** Wherefore he did evil in the sight of the
 
-**TDB77:** Ahab innkuan mah bangin Topa’ muhna ah a sia gamta hi; bang hang hiam cih leh a pa’ sih khit ciangin ama siatna dingah thulamlakte in amaute ahi uh hi.
+**TDB77:** Ahab innkuan mah bangin Topa’ muhna ah a sia gamta hi; bang hang hiam cih leh a pa’ sih khit ciangin ama siatna dingah thulamlakte in amaute ahi-te hi.
 
-**ZVS:** Ahab innkuan dangte mah bangin { Topa' } muhna-ah a sia gamta hi; bang hang hiam cih leh a pa' sih khit ciangin ama siatna dingah thu lamlakte pen Ahab' innkuante ahi uh hi.
+**ZVS:** Ahab innkuan dangte mah bangin { Topa' } muhna-ah a sia gamta hi; bang hang hiam cih leh a pa' sih khit ciangin ama siatna dingah thu lamlakte pen Ahab' innkuante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** He walked also after their counsel, and went with Jehoram the son of Ahab king of Israel to war against Hazael king of Syria at Ramoth–gilead: and the Syrians smote Joram.
 
-**TDB77:** Amah in amaute’ thugen nangawn zui a, Ramothgilead ah Siria kumpi Hazael tawh a kido dingin Israel kumpi Ahab’ tapa Jehoram tawh kuan hi. Tua ciangin Siria mite in Jehoram liamsak uh a,
+**TDB77:** Amah in amaute’ thugen nangawn zui a, Ramothgilead ah Siria kumpi Hazael tawh a kido dingin Israel kumpi Ahab’ tapa Jehoram tawh kuan hi. Tua ciangin Siria mite in Jehoram liamsak-te a,
 
-**ZVS:** Amah in amaute' thugen nangawn zui a, Ramothgilead-ah Syria kumpi Hazael tawh a kido dingin Israel kumpi Ahab' tapa Joram tawh a kuan hi. Tua ciangin Syria mite in Joram liamsak uh a,
+**ZVS:** Amah in amaute' thugen nangawn zui a, Ramothgilead-ah Syria kumpi Hazael tawh a kido dingin Israel kumpi Ahab' tapa Joram tawh a kuan hi. Tua ciangin Syria mite in Joram liamsak-te a,
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -95,9 +95,9 @@
 ### v9
 **EN:** And he sought Ahaziah: and they caught him, (for he was hid in Samaria,) and brought him to Jehu: and when they had slain him, they buried him: Because, said they, he is the son of Jehoshaphat, who sought the
 
-**TDB77:** Amah in Ahaziah zong a, Samaria ah a buk lai takin amah kiman a, tua ciangin Jehu kiangah amah kipai pihin kithat hi. Amaute in amah vui uh hi; bang hang hiam cih leh amaute in, “Amah in, a lungsim khempeuh tawh Topa a zong Jehoshafat’ tupa ahi hi,” a ci uh hi. Tua ciangin Ahaziah innkuante in kumpigam a uk zo ding mi khat zong nei nawn lo uh hi.
+**TDB77:** Amah in Ahaziah zong a, Samaria ah a buk lai takin amah kiman a, tua ciangin Jehu kiangah amah kipai pihin kithat hi. Amaute in amah vui-te hi; bang hang hiam cih leh amaute in, “Amah in, a lungsim khempeuh tawh Topa a zong Jehoshafat’ tupa ahi hi,” a ci-te hi. Tua ciangin Ahaziah innkuante in kumpigam a uk zo ding mi khat zong nei nawn lo-te hi.
 
-**ZVS:** Amah in Ahaziah zong a, Samaria-ah a buk laitakin amah kiman a, tua ciangin Jehu kiangah amah kipaipihin kithat hi. Amaute in amah vui uh hi; bang hang hiam cih leh amaute in, “Amah pen a lungsim khempeuh tawh { Topa } a zong Jehoshafat' tupa ahi hi,” ci uh hi. Tua ciangin Ahaziah innkuante in kumpi gam a ukzo ding mi khat zong nei nawnlo uh hi.
+**ZVS:** Amah in Ahaziah zong a, Samaria-ah a buk laitakin amah kiman a, tua ciangin Jehu kiangah amah kipaipihin kithat hi. Amaute in amah vui-te hi; bang hang hiam cih leh amaute in, “Amah pen a lungsim khempeuh tawh { Topa } a zong Jehoshafat' tupa ahi hi,” ci-te hi. Tua ciangin Ahaziah innkuante in kumpi gam a ukzo ding mi khat zong nei nawnlo-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

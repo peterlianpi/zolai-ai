@@ -25,18 +25,18 @@
 ### v1
 **EN:** Then Jerubbaal, who is Gideon, and all the people that were with him, rose up early, and pitched beside the well of Harod: so that the host of the Midianites were on the north side of them, by the hill of Moreh, in the valley.
 
-**TDB77:** Tua ciangin Jerubbaal (Gideon a cihna) leh amah tawh a om mi khempeuh zingsangin tho baihin Harod tuikhuk gei-ah giahphual sat uh hi; Midiante’ giahphual pen amau kiang pan leilu lam, Moreh mual kiang, kuam sungah om hi.
+**TDB77:** Tua ciangin Jerubbaal (Gideon a cihna) leh amah tawh a om mi khempeuh zingsangin tho baihin Harod tuikhuk gei-ah giahphual sat-te hi; Midiante’ giahphual pen amau kiang pan leilu lam, Moreh mual kiang, kuam sungah om hi.
 
-**ZVS:** Tua ciangin Jerubbaal (Gideon a cihna) leh amah tawh a om mi khempeuh zingsangin tho baihin Harod tuikhuk gei-ah giahphual a sat uh hi. Midian-te' giahphual pen amau' kiang pan leilu lam, Moreh mual kiang, kuam sungah om hi.
+**ZVS:** Tua ciangin Jerubbaal (Gideon a cihna) leh amah tawh a om mi khempeuh zingsangin tho baihin Harod tuikhuk gei-ah giahphual a sat-te hi. Midian-te' giahphual pen amau' kiang pan leilu lam, Moreh mual kiang, kuam sungah om hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And the
 
-**TDB77:** Topa in Gideon kiangah, “Amau’ khut sungah Midian mite piak nadingin nang tawh a omkhawm mite kei adingin tam lua hi, tua hi kei leh kei tungah Israelte kisialin, ‘Komau’ hatna hangin ka gualzo uh hi,’ ci kha ding uh hi.
+**TDB77:** Topa in Gideon kiangah, “Amau’ khut sungah Midian mite piak nadingin nang tawh a omkhawm mite kei adingin tam lua hi, tua hi kei leh kei tungah Israelte kisialin, ‘Komau’ hatna hangin ka gualzo-te hi,’ ci kha ding-te hi.
 
-**ZVS:** { Topa } in Gideon kiangah, “Amau' khutsungah Midian mite piakna dingin nang tawh a omkhawm mite kei-a' dingin tamlua hi. Tua bangin tamlua leh kei tungah Israel-te kisialin, ‘Komau' hatna hangin ka gualzo uh hi,’ ci khading uh hi.
+**ZVS:** { Topa } in Gideon kiangah, “Amau' khutsungah Midian mite piakna dingin nang tawh a omkhawm mite kei-a' dingin tamlua hi. Tua bangin tamlua leh kei tungah Israel-te kisialin, ‘Komau' hatna hangin ka gualzo-te hi,’ ci khading-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** And the number of them that lapped, putting their hand to their mouth, were three hundred men: but all the rest of the people bowed down upon their knees to drink water.
 
-**TDB77:** Tui a liak, a khut uh a kam-ah a tuah mi zathum ahi hi; ahih hangin a dangte khempeuh tui dawn dingin khukdin’ suk uh hi.
+**TDB77:** Tui a liak, a khut-te a kam-ah a tuah mi zathum ahi hi; ahih hangin a dangte khempeuh tui dawn dingin khukdin’ suk-te hi.
 
-**ZVS:** Tui a liak, a khut uh a kamah a tuah mi za thum ahi hi. Ahih hangin a dangte khempeuh tui dawn dingin khukdin' suk uh hi.
+**ZVS:** Tui a liak, a khut-te a kamah a tuah mi za thum ahi hi. Ahih hangin a dangte khempeuh tui dawn dingin khukdin' suk-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -90,7 +90,7 @@
 
 **TDB77:** Tua ahih ciangin amah in amau’ tung panin mite’ beelte leh a peengkulte la hi; Israel a dangte khempeuh amau puanbuk ciatah ciahsak a, ahih hangin mihing zathumte khawl sak hi; Midiante’ giahphual pen ama khang lam kuam sungah om hi.
 
-**ZVS:** Tua ahih ciangin amah in Israel midang khempeuh ciahsak a, a beelte leh a peengkulte khempeuh uh a kem mihing za thumte a khawlsak hi. Midian-te' giahphual pen amau' khanglam kuam sungah om hi.
+**ZVS:** Tua ahih ciangin amah in Israel midang khempeuh ciahsak a, a beelte leh a peengkulte khempeuh-te a kem mihing za thumte a khawlsak hi. Midian-te' giahphual pen amau' khanglam kuam sungah om hi.
 
 **Grammar:** sequence: then/therefore
 
@@ -115,16 +115,16 @@
 
 **TDB77:** tua ciangin amaute’ thugen na za ding a, tua khit ciangin giahphual simin a paisuk dingin na tha hong khauh ding hi,” a ci hi. Tua ciangin a nasempa Purah tawh giahphual a om galkapte in a pua lamah a gal pan’na mun-ah paisuk hi.
 
-**ZVS:** Tua ciangin amaute' thugen na za ding a, giahphual simin a kuansuk dingin na tha hong khauh ding hi,” a ci hi. Tua ciangin a nasempa Purah tawh giahphuala om galkapte in a pualamah a galpan'na munah a paisuk uh hi.
+**ZVS:** Tua ciangin amaute' thugen na za ding a, giahphual simin a kuansuk dingin na tha hong khauh ding hi,” a ci hi. Tua ciangin a nasempa Purah tawh giahphuala om galkapte in a pualamah a galpan'na munah a paisuk-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will
 
 ### v12
 **EN:** And the Midianites and the Amalekites and all the children of the east lay along in the valley like grasshoppers for multitude; and their camels were without number, as the sand by the sea side for multitude.
 
-**TDB77:** Midian mite leh Amalek mite leh Nisuahna lam mite khempeuh kauphe bangin tamin kuam dungah om uh hi; a kalaohte uh sim zawh hilo a, a tamna pen tuipi gei-a om sehnel zah bang ahi hi.
+**TDB77:** Midian mite leh Amalek mite leh Nisuahna lam mite khempeuh kauphe bangin tamin kuam dungah om-te hi; a kalaohte-te sim zawh hilo a, a tamna pen tuipi gei-a om sehnel zah bang ahi hi.
 
-**ZVS:** Midian mite, Amalek mite, leh Nisuahna lam mite khempeuh kauphe bangin tamin kuam dungah om uh hi. A kalaohte uh simzawh hilo a, a tamna pen tuipi gei-a sehnel omzah bang ahi hi.
+**ZVS:** Midian mite, Amalek mite, leh Nisuahna lam mite khempeuh kauphe bangin tamin kuam dungah om-te hi. A kalaohte-te simzawh hilo a, a tamna pen tuipi gei-a sehnel omzah bang ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -149,7 +149,7 @@
 ### v15
 **EN:** And it was so, when Gideon heard the telling of the dream, and the interpretation thereof, that he worshipped, and returned into the host of Israel, and said, Arise; for the
 
-**TDB77:** Gideon in mang leh a khiatna a kigenna a zak ciangin Pasian bia-in khukdin hi; Israelte’ giahphual ah ciah kikin, “Tho in, bang hang hiam cih leh Topa in na khut sung uh ah Midian honte hong pia zo hi,” a ci hi.
+**TDB77:** Gideon in mang leh a khiatna a kigenna a zak ciangin Pasian bia-in khukdin hi; Israelte’ giahphual ah ciah kikin, “Tho in, bang hang hiam cih leh Topa in na khut sung-te ah Midian honte hong pia zo hi,” a ci hi.
 
 **ZVS:** Gideon in a mang leh a khiatna a kigenna a zak ciangin Pasian bia-in a khukdin' hi. Israel-te' giahphualah ciahkikin, “Tho un, bang hang hiam cih leh { Topa } in na khutsung uhah Midian honte hong piazo hi,” a ci hi.
 
@@ -176,70 +176,70 @@
 
 **TDB77:** kei leh ka ompih khempeuh in peengkul ka tum ciangin, giahphual pang khempeuhah zong peengkulte tum un la, ‘Topa ading leh Gideon ading,’ ci-in awng un,” a ci hi.
 
-**ZVS:** Kei leh ka ompih khempeuh in peengkul ka tum uh ciangin, giahphual pang khempeuhah zong peengkulte tum un la, ‘{ Topa}-a' ding leh Gideon-a' ding,’ ci-in awng un,” a ci hi.
+**ZVS:** Kei leh ka ompih khempeuh in peengkul ka tum-te ciangin, giahphual pang khempeuhah zong peengkulte tum un la, ‘{ Topa}-a' ding leh Gideon-a' ding,’ ci-in awng un,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v19
 **EN:** So Gideon, and the hundred men that were with him, came unto the outside of the camp in the beginning of the middle watch; and they had but newly set the watch: and they blew the trumpets, and brake the pitchers that were in their hands.
 
-**TDB77:** Tua ahih ciangin, amaute in galvil a laih khit phet, zankim lai takin, Gideon leh amah tawh a om mi za khatte giahphual nawlah hong pai uh hi; amaute in peengkul tumin a khut sung uh a, om beelte sukham uh hi.
+**TDB77:** Tua ahih ciangin, amaute in galvil a laih khit phet, zankim lai takin, Gideon leh amah tawh a om mi za khatte giahphual nawlah hong pai-te hi; amaute in peengkul tumin a khut sung-te a, om beelte sukham-te hi.
 
-**ZVS:** Tua ahih ciangin, amaute in galvil a laih khit phet, zankim laitakin, Gideon leh amah tawh a om mi za khatte giahphual nawlah hong pai uh a, amaute in peengkul tumin a khutsung uha om beelte a sukham uh hi.
+**ZVS:** Tua ahih ciangin, amaute in galvil a laih khit phet, zankim laitakin, Gideon leh amah tawh a om mi za khatte giahphual nawlah hong pai-te a, amaute in peengkul tumin a khutsung uha om beelte a sukham-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v20
 **EN:** And the three companies blew the trumpets, and brake the pitchers, and held the lamps in their left hands, and the trumpets in their right hands to blow withal: and they cried, The sword of the
 
-**TDB77:** A pawl thum-un peengkul tumin beelte sukham uh a, a veilam khut-un meilah tawi-in, a taklam khut-un a tum ding uh peengkul tawi uh hi; tua ciangin amaute kiko-in, “Topa ading leh Gideon’ading namsau khat!” a ci uh hi.
+**TDB77:** A pawl thum-un peengkul tumin beelte sukham-te a, a veilam khut-un meilah tawi-in, a taklam khut-un a tum ding-te peengkul tawi-te hi; tua ciangin amaute kiko-in, “Topa ading leh Gideon’ading namsau khat!” a ci-te hi.
 
-**ZVS:** A pawl thum-un peengkul tumin beelte sukham uh a, a veilam khutun meilah tawi-in, a taklam khutun a tum ding uh peengkul tawi uh hi. Tua ciangin amaute kiko-in, “{ Topa}-a' ding leh Gideon-a' ding namsau khat!” a ci uh hi.
+**ZVS:** A pawl thum-un peengkul tumin beelte sukham-te a, a veilam khutun meilah tawi-in, a taklam khutun a tum ding-te peengkul tawi-te hi. Tua ciangin amaute kiko-in, “{ Topa}-a' ding leh Gideon-a' ding namsau khat!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And they stood every man in his place round about the camp: and all the host ran, and cried, and fled.
 
-**TDB77:** Amaute a vekpi-in giahphual kiim-ah ding uh a, galkapte khempeuh tai uh hi; amaute kiko-in tai khia uh hi.
+**TDB77:** Amaute a vekpi-in giahphual kiim-ah ding-te a, galkapte khempeuh tai-te hi; amaute kiko-in tai khia-te hi.
 
-**ZVS:** Amaute a vekpi-in giahphual kiimah ding uh a, a galte khempeuh uh kiko-in taikhia uh hi.
+**ZVS:** Amaute a vekpi-in giahphual kiimah ding-te a, a galte khempeuh-te kiko-in taikhia-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And the three hundred blew the trumpets, and the
 
-**TDB77:** Amaute in peengkul zathumte a tum uh ciangin, Topa in giahphuala om mi khempeuh a namsau uh tawh amau leh amau kisat gawpsak hi; tua ciangin galkapte Zererah lam Bethshittah ciang, Tabbath kiang Abelmeholah gamgi dong tai uh hi.
+**TDB77:** Amaute in peengkul zathumte a tum-te ciangin, Topa in giahphuala om mi khempeuh a namsau-te tawh amau leh amau kisat gawpsak hi; tua ciangin galkapte Zererah lam Bethshittah ciang, Tabbath kiang Abelmeholah gamgi dong tai-te hi.
 
-**ZVS:** Amaute in peengkul za thumte a tum uh ciangin, { Topa } in a galte khempeuh a namsau uh tawh amau leh amau kisatgawp sak hi. Tua ciangin a galte uh Zererah gei Bethshittah ciang, leh Tabbath kiang Abelmeholah gamgi dong tai uh hi.
+**ZVS:** Amaute in peengkul za thumte a tum-te ciangin, { Topa } in a galte khempeuh a namsau-te tawh amau leh amau kisatgawp sak hi. Tua ciangin a galte-te Zererah gei Bethshittah ciang, leh Tabbath kiang Abelmeholah gamgi dong tai-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** And the men of Israel gathered themselves together out of Naphtali, and out of Asher, and out of all Manasseh, and pursued after the Midianites.
 
-**TDB77:** Tua ciangin Naftali leh Asher leh Manassehte khempeuh panin Israel mite kisam khia a, amaute in Midiante delh uh hi.
+**TDB77:** Tua ciangin Naftali leh Asher leh Manassehte khempeuh panin Israel mite kisam khia a, amaute in Midiante delh-te hi.
 
-**ZVS:** Tua ciangin Naftali, Asher, leh Manasseh minamte khempeuh sung panin mite kisamkhia a, amaute in Midian-te a delh uh hi.
+**ZVS:** Tua ciangin Naftali, Asher, leh Manasseh minamte khempeuh sung panin mite kisamkhia a, amaute in Midian-te a delh-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And Gideon sent messengers throughout all mount Ephraim, saying, Come down against the Midianites, and take before them the waters unto Beth–barah and Jordan. Then all the men of Ephraim gathered themselves together, and took the waters unto Beth–barah and Jordan.
 
-**TDB77:** Tua ciangin Gideon in Efraim mualtung gam khempeuhah kamtaite sawl a, “Midian mite’ lang khatah hong kuansuk un la Bethbarah ciang dong luite hong la un, Jordan zong la un,” ci sak hi. Tua ahih ciangin Efraim mite khempeuh kisam khia a, amaute in Bethbarah ciang dong luite la-in, Jordan zong la uh hi.
+**TDB77:** Tua ciangin Gideon in Efraim mualtung gam khempeuhah kamtaite sawl a, “Midian mite’ lang khatah hong kuansuk un la Bethbarah ciang dong luite hong la un, Jordan zong la un,” ci sak hi. Tua ahih ciangin Efraim mite khempeuh kisam khia a, amaute in Bethbarah ciang dong luite la-in, Jordan zong la-te hi.
 
-**ZVS:** Tua ciangin Gideon in Efraim mualtung gam khempeuhah kamtaite sawl a, “Midian mite' langkhatah hong kuansukin Bethbarah ciangdong luite hong la un la, Jordan zong hong la un,” cisak hi. Tua ahih ciangin Efraim mite khempeuh kisamkhia a, amaute in Bethbarah ciangdong luite la-in, Jordan zong a la uh hi.
+**ZVS:** Tua ciangin Gideon in Efraim mualtung gam khempeuhah kamtaite sawl a, “Midian mite' langkhatah hong kuansukin Bethbarah ciangdong luite hong la un la, Jordan zong hong la un,” cisak hi. Tua ahih ciangin Efraim mite khempeuh kisamkhia a, amaute in Bethbarah ciangdong luite la-in, Jordan zong a la-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And they took two princes of the Midianites, Oreb and Zeeb; and they slew Oreb upon the rock Oreb, and Zeeb they slew at the winepress of Zeeb, and pursued Midian, and brought the heads of Oreb and Zeeb to Gideon on the other side Jordan.
 
-**TDB77:** Amaute in Midian ulian nihte Oreb leh Ze-eb man uh hi; amaute in Midiante a delh kawm-un Oreb suangpi-ah Oreb that uh a, Ze-eb leenggah sukna-ah Ze-eb that uh hi; amaute in Jordan gal khat Gideon kiangah Oreb leh Ze-eb lutangte paipih uh hi.
+**TDB77:** Amaute in Midian ulian nihte Oreb leh Ze-eb man-te hi; amaute in Midiante a delh kawm-un Oreb suangpi-ah Oreb that-te a, Ze-eb leenggah sukna-ah Ze-eb that-te hi; amaute in Jordan gal khat Gideon kiangah Oreb leh Ze-eb lutangte paipih-te hi.
 
-**ZVS:** Amaute in Midian ulian nihte Oreb leh Zeeb a man uh hi. Amaute in Midian-te a delh kawmun Oreb Suangpi-ah Oreb that uh a, Zeeb Leenggahsukna-ah Zeeb that uh hi. Amaute in Jordan galkhat Gideon kiangah Oreb leh Zeeb lutangte hong paipih uh hi.
+**ZVS:** Amaute in Midian ulian nihte Oreb leh Zeeb a man-te hi. Amaute in Midian-te a delh kawmun Oreb Suangpi-ah Oreb that-te a, Zeeb Leenggahsukna-ah Zeeb that-te hi. Amaute in Jordan galkhat Gideon kiangah Oreb leh Zeeb lutangte hong paipih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

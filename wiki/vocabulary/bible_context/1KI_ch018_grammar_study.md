@@ -73,9 +73,9 @@
 ### v6
 **EN:** So they divided the land between them to pass throughout it: Ahab went one way by himself, and Obadiah went another way by himself.
 
-**TDB77:** Tua ahih ciangin amaute in a et dingun leitang hawm uh hi; Ahab mahmah mun khat lamah pai-in Obadiah mahmah a mun dang khat lamah pai hi.
+**TDB77:** Tua ahih ciangin amaute in a et dingun leitang hawm-te hi; Ahab mahmah mun khat lamah pai-in Obadiah mahmah a mun dang khat lamah pai hi.
 
-**ZVS:** Tua ciangin amaute in a et dingun leitang hawm uh hi. Ahab mahmah mun khat lamah pai-in Obadiah mahmah a mun dang khat lamah a pai hi.
+**ZVS:** Tua ciangin amaute in a et dingun leitang hawm-te hi. Ahab mahmah mun khat lamah pai-in Obadiah mahmah a mun dang khat lamah a pai hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 
@@ -109,9 +109,9 @@
 ### v10
 **EN:** As the
 
-**TDB77:** Topa na Pasian in a nungta ahih mah bangin nangmah zong dingin ka topa in a sawl lohna minam ahi a, kumpi gam ahi zongin om lo hi; amaute in, ‘Hih lai-ah amah om lo hi,’ a cih uh ciangin, amaute in nang hong muh lohna thu amah in kumpi gam ahi a, minam ahi zongin kiciamsak hi.
+**TDB77:** Topa na Pasian in a nungta ahih mah bangin nangmah zong dingin ka topa in a sawl lohna minam ahi a, kumpi gam ahi zongin om lo hi; amaute in, ‘Hih lai-ah amah om lo hi,’ a cih-te ciangin, amaute in nang hong muh lohna thu amah in kumpi gam ahi a, minam ahi zongin kiciamsak hi.
 
-**ZVS:** { Topa } na Pasian a nungta ahih mah bangin nangmah a zong dingin ka topa in a sawllohna minam ahi a, kumpi gam ahi zongin omlo hi. Amaute in, ‘Hih lai-ah amah omlo hi,’ a cih uh ciangin, amaute in nang hong muhlohna thu amah in kumpi gam ahi a, minam ahi zongin kiciamsak hi.
+**ZVS:** { Topa } na Pasian a nungta ahih mah bangin nangmah a zong dingin ka topa in a sawllohna minam ahi a, kumpi gam ahi zongin omlo hi. Amaute in, ‘Hih lai-ah amah omlo hi,’ a cih-te ciangin, amaute in nang hong muhlohna thu amah in kumpi gam ahi a, minam ahi zongin kiciamsak hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix
 
@@ -181,9 +181,9 @@
 ### v18
 **EN:** And he answered, I have not troubled Israel; but thou, and thy father's house, in that ye have forsaken the commandments of the
 
-**TDB77:** Amah in dawngin, “Keimah in Israel mite ka lungkhamsak kei hi; nang in Topa’ thupiaknate nusia-in Baalte zui na hih manin nang leh na pa’ innkuan in na lungkhamsak uh hi.
+**TDB77:** Amah in dawngin, “Keimah in Israel mite ka lungkhamsak kei hi; nang in Topa’ thupiaknate nusia-in Baalte zui na hih manin nang leh na pa’ innkuan in na lungkhamsak-te hi.
 
-**ZVS:** Amah in dawngin, “Keimah in Israel mite ka lungkhamsak kei hi. Nang in { Topa' } thupiaknate nusia-in Baal-te zui na hih manin nang leh na pa' innkuan in na lungkhamsak uh hi.
+**ZVS:** Amah in dawngin, “Keimah in Israel mite ka lungkhamsak kei hi. Nang in { Topa' } thupiaknate nusia-in Baal-te zui na hih manin nang leh na pa' innkuan in na lungkhamsak-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | causal: because | plural: uh marker
 
@@ -206,9 +206,9 @@
 ### v21
 **EN:** And Elijah came unto all the people, and said, How long halt ye between two opinions? if the
 
-**TDB77:** Tua ciangin mi khempeuh mai-ah Elijah hong pai-in, “Ngaihsutna kibang lo thu nih-ah bang tan vei kip loin om ding na hi uh hiam? Topa in Pasian ahih leh amah zui un; ahih hangin Baal pen Pasian ahih leh amah zui un,” a ci hi. Tua ciangin mite in kam khat beek dawng lo uh hi.
+**TDB77:** Tua ciangin mi khempeuh mai-ah Elijah hong pai-in, “Ngaihsutna kibang lo thu nih-ah bang tan vei kip loin om ding na hi-te hiam? Topa in Pasian ahih leh amah zui un; ahih hangin Baal pen Pasian ahih leh amah zui un,” a ci hi. Tua ciangin mite in kam khat beek dawng lo-te hi.
 
-**ZVS:** Tua ciangin mi khempeuh' nai-ah Elijah hong pai-in, “Ngaihsutna kibanglo thu nih kikalah bang tanvei khensat loin om niloh ding na hi uh hiam? { Topa } pen Pasian ahih leh amah zui un; tua hiloin Baal pen Pasian ahih leh amah zui un,” a ci hi. Ahi zongin mite in kam khat beek dawnglo uh hi.
+**ZVS:** Tua ciangin mi khempeuh' nai-ah Elijah hong pai-in, “Ngaihsutna kibanglo thu nih kikalah bang tanvei khensat loin om niloh ding na hi-te hiam? { Topa } pen Pasian ahih leh amah zui un; tua hiloin Baal pen Pasian ahih leh amah zui un,” a ci hi. Ahi zongin mite in kam khat beek dawnglo-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -233,27 +233,27 @@
 ### v24
 **EN:** And call ye on the name of your gods, and I will call on the name of the
 
-**TDB77:** Tua ciangin note in na pasian tung uhah thu ngenin, keimah in Topa tungah thu ka ngen ding hi; tua ciangin thungetna mei tawh hong pia pasian in Pasian taktak ahi hi,” a ci hi. Tua ciangin mi khempeuh in dawngin, “Hih thugen hoih hi,” a ci uh hi.
+**TDB77:** Tua ciangin note in na pasian tung uhah thu ngenin, keimah in Topa tungah thu ka ngen ding hi; tua ciangin thungetna mei tawh hong pia pasian in Pasian taktak ahi hi,” a ci hi. Tua ciangin mi khempeuh in dawngin, “Hih thugen hoih hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin note in na pasian tung uhah thu ngen un la, keimah in zong { Topa' } tungah thu ka ngen ding hi. Tua ciangin thungetna mei tawh hong pia pasian pen Pasian taktak ahi hi,” a ci hi. Tua ciangin mi khempeuh in dawngin, “Hih na thugen hoih hi,” a ci uh hi.
+**ZVS:** Tua ciangin note in na pasian tung uhah thu ngen un la, keimah in zong { Topa' } tungah thu ka ngen ding hi. Tua ciangin thungetna mei tawh hong pia pasian pen Pasian taktak ahi hi,” a ci hi. Tua ciangin mi khempeuh in dawngin, “Hih na thugen hoih hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | adjective: hoih (good) | future: will | plural: uh marker
 
 ### v25
 **EN:** And Elijah said unto the prophets of Baal, Choose you one bullock for yourselves, and dress it first; for ye are many; and call on the name of your gods, but put no fire under.
 
-**TDB77:** Tua ciangin Elijah in Baal kamsangte kiangah, “Note tam na hih manun note’ adingin bawngtal khat teel un la, bawl masa un; tua ciangin na pasian uh tungah thungen un la, ahih hangin a tungah mei koih kei un,” a ci hi.
+**TDB77:** Tua ciangin Elijah in Baal kamsangte kiangah, “Note tam na hih manun note’ adingin bawngtal khat teel un la, bawl masa un; tua ciangin na pasian-te tungah thungen un la, ahih hangin a tungah mei koih kei un,” a ci hi.
 
-**ZVS:** Tua ciangin Elijah in Baal kamsangte kiangah, “Note tam na hih manun note-a' dingin bawngtal khat teel un la bawl masa un. Tua ciangin na pasian uh tungah thu ngen un la, ahih hangin a tungah mei koih kei un,” a ci hi.
+**ZVS:** Tua ciangin Elijah in Baal kamsangte kiangah, “Note tam na hih manun note-a' dingin bawngtal khat teel un la bawl masa un. Tua ciangin na pasian-te tungah thu ngen un la, ahih hangin a tungah mei koih kei un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
 ### v26
 **EN:** And they took the bullock which was given them, and they dressed it, and called on the name of Baal from morning even until noon, saying, O Baal, hear us. But there was no voice, nor any that answered. And they leaped upon the altar which was made.
 
-**TDB77:** Tua ciangin amaute in amau tungah a kipia bawngtal la-in bawl uh a, zingsang-a kipan sun dong Baal tungah thu ngenin, “Baal aw, kote hong dawng in!” a ci uh hi. Ahih hangin awging om lo a, kuamah in dawng lo hi. Tua ciangin amau’ bawlsa biakna tau-ah amaute diang uh hi.
+**TDB77:** Tua ciangin amaute in amau tungah a kipia bawngtal la-in bawl-te a, zingsang-a kipan sun dong Baal tungah thu ngenin, “Baal aw, kote hong dawng in!” a ci-te hi. Ahih hangin awging om lo a, kuamah in dawng lo hi. Tua ciangin amau’ bawlsa biakna tau-ah amaute diang-te hi.
 
-**ZVS:** Tua ciangin amaute in amaute tungah a kipia bawngtal la-in bawl uh a, zingsang-a kipan sun dong Baal tungah thu ngenin, “Baal aw, kote hong dawng in,” a ci uh hi. Ahih hangin awging omlo a, kuamah in dawnglo hi. Tua ciangin amau' bawlsa biakna tau-ah amaute diang uh hi.
+**ZVS:** Tua ciangin amaute in amaute tungah a kipia bawngtal la-in bawl-te a, zingsang-a kipan sun dong Baal tungah thu ngenin, “Baal aw, kote hong dawng in,” a ci-te hi. Ahih hangin awging omlo a, kuamah in dawnglo hi. Tua ciangin amau' bawlsa biakna tau-ah amaute diang-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -269,27 +269,27 @@
 ### v28
 **EN:** And they cried aloud, and cut themselves after their manner with knives and lancets, till the blood gushed out upon them.
 
-**TDB77:** Tua ciangin amaute a gingin kiko-in, amau’ ngeina bangin namsaute leh sikzumte tawh, amaute tungah si a luan’ dongin ki-at kisun uh hi.
+**TDB77:** Tua ciangin amaute a gingin kiko-in, amau’ ngeina bangin namsaute leh sikzumte tawh, amaute tungah si a luan’ dongin ki-at kisun-te hi.
 
-**ZVS:** Tua ciangin amaute a gingin kiko-in, amau' ngeina bangin namsaute leh sikzumte tawh, amaute tungah si a luan' dongin ki-atin kisun uh hi.
+**ZVS:** Tua ciangin amaute a gingin kiko-in, amau' ngeina bangin namsaute leh sikzumte tawh, amaute tungah si a luan' dongin ki-atin kisun-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** And it came to pass, when midday was past, and they prophesied until the time of the offering of the evening sacrifice, that there was neither voice, nor any to answer, nor any that regarded.
 
-**TDB77:** Sunkim khit ciangin biakpiak hun dong mateng amaute awng suak uh a, ahih hangin awging om lo hi; kuamah in dawng lo a, kuamah in don lo hi.
+**TDB77:** Sunkim khit ciangin biakpiak hun dong mateng amaute awng suak-te a, ahih hangin awging om lo hi; kuamah in dawng lo a, kuamah in don lo hi.
 
-**ZVS:** Sunkim khit ciangin biakpiak hun dong mateng amaute awngsuak uh a, ahih hangin awging omlo hi. Kuamah in dawnglo a, kuamah in donlo hi.
+**ZVS:** Sunkim khit ciangin biakpiak hun dong mateng amaute awngsuak-te a, ahih hangin awging omlo hi. Kuamah in dawnglo a, kuamah in donlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v30
 **EN:** And Elijah said unto all the people, Come near unto me. And all the people came near unto him. And he repaired the altar of the
 
-**TDB77:** Tua ciangin Elijah in mi khempeuh kiangah, “Ka kiang nai-ah hong pai-un,” a ci hi; tua ciangin mi khempeuh ama kiang nai-ah hong pai uh hi. Tua ciangin amah in Topa’ biakna tau a kisupaisa khat puah kik hi;
+**TDB77:** Tua ciangin Elijah in mi khempeuh kiangah, “Ka kiang nai-ah hong pai-un,” a ci hi; tua ciangin mi khempeuh ama kiang nai-ah hong pai-te hi. Tua ciangin amah in Topa’ biakna tau a kisupaisa khat puah kik hi;
 
-**ZVS:** Tua ciangin Elijah in mi khempeuh kiangah, “Ka kiang nai-ah hong pai un,” a ci hi. Tua ciangin mi khempeuh ama kiang nai-ah hong pai uh hi. Tua ciangin amah in { Topa' } biakna tau a kisupaisa khat puahkik hi.
+**ZVS:** Tua ciangin Elijah in mi khempeuh kiangah, “Ka kiang nai-ah hong pai un,” a ci hi. Tua ciangin mi khempeuh ama kiang nai-ah hong pai-te hi. Tua ciangin amah in { Topa' } biakna tau a kisupaisa khat puahkik hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -323,9 +323,9 @@
 ### v34
 **EN:** And he said, Do it the second time. And they did it the second time. And he said, Do it the third time. And they did it the third time.
 
-**TDB77:** Tua ciangin amah in, “A nih veina hih un,” a ci hi; tua ciangin amaute in nih veina hih uh hi. Tua ciangin amah in “A thum veina hih un,” a ci hi; tua ciangin amaute in a thum veina hih uh hi.
+**TDB77:** Tua ciangin amah in, “A nih veina hih un,” a ci hi; tua ciangin amaute in nih veina hih-te hi. Tua ciangin amah in “A thum veina hih un,” a ci hi; tua ciangin amaute in a thum veina hih-te hi.
 
-**ZVS:** Tua ciangin amah in, “A nihveina hih un,” a ci hi. Tua ciangin amaute in a nihveina hih uh hi. Tua ciangin amah in, “A thumveina hih un,” a ci hi. Tua ciangin amaute in a thumveina hih leuleu uh hi.
+**ZVS:** Tua ciangin amah in, “A nihveina hih un,” a ci hi. Tua ciangin amaute in a nihveina hih-te hi. Tua ciangin amah in, “A thumveina hih un,” a ci hi. Tua ciangin amaute in a thumveina hih leuleu-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
@@ -366,18 +366,18 @@
 ### v39
 **EN:** And when all the people saw it, they fell on their faces: and they said, The
 
-**TDB77:** Mi khempeuh in tua thu a muh uh ciangin a mai uh lei lam ngatin puk uh hi; amaute in, “Topa in Pasian ahi hi; Topa in Pasian ahi hi,” a ci uh hi.
+**TDB77:** Mi khempeuh in tua thu a muh-te ciangin a mai-te lei lam ngatin puk-te hi; amaute in, “Topa in Pasian ahi hi; Topa in Pasian ahi hi,” a ci-te hi.
 
-**ZVS:** Mi khempeuh in tua thu a muh uh ciangin a mai uh leilam ngatin puk uh hi. Amaute in, “{ Topa } pen Pasian ahi hi; { Topa } pen Pasian ahi hi,” a ci uh hi.
+**ZVS:** Mi khempeuh in tua thu a muh-te ciangin a mai-te leilam ngatin puk-te hi. Amaute in, “{ Topa } pen Pasian ahi hi; { Topa } pen Pasian ahi hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v40
 **EN:** And Elijah said unto them, Take the prophets of Baal; let not one of them escape. And they took them: and Elijah brought them down to the brook Kishon, and slew them there.
 
-**TDB77:** Tua ciangin Elijah in amaute kiangah, “Baal kamsangte man un; amaute khat zong suaktasak kei un,” a ci hi. Tua ciangin amaute in man uh hi; Elijah in Kishon lui-ah amaute paipih sukin tua lai-ah amaute that hi.
+**TDB77:** Tua ciangin Elijah in amaute kiangah, “Baal kamsangte man un; amaute khat zong suaktasak kei un,” a ci hi. Tua ciangin amaute in man-te hi; Elijah in Kishon lui-ah amaute paipih sukin tua lai-ah amaute that hi.
 
-**ZVS:** Tua ciangin Elijah in amaute kiangah, “Baal kamsangte man un; amaute khat zong suaktasak kei un,” a ci hi. Tua ciangin amaute in man uh hi. Elijah in Kishon lui-ah amaute paipih sukin tua lai-ah amaute a that hi.
+**ZVS:** Tua ciangin Elijah in amaute kiangah, “Baal kamsangte man un; amaute khat zong suaktasak kei un,” a ci hi. Tua ciangin amaute in man-te hi. Elijah in Kishon lui-ah amaute paipih sukin tua lai-ah amaute a that hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

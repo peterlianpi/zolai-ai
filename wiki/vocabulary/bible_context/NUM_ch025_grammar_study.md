@@ -26,18 +26,18 @@
 ### v1
 **EN:** And Israel abode in Shittim, and the people began to commit whoredom with the daughters of Moab.
 
-**TDB77:** Shittim ah Israel mite a om lai takin mite in Moab tanute tawh paktat ding kipan uh hi.
+**TDB77:** Shittim ah Israel mite a om lai takin mite in Moab tanute tawh paktat ding kipan-te hi.
 
-**ZVS:** Shittim-ah Israel mite a om laitakin Moab gam numeite tawh paktat ding kipan uh hi.
+**ZVS:** Shittim-ah Israel mite a om laitakin Moab gam numeite tawh paktat ding kipan-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And they called the people unto the sacrifices of their gods: and the people did eat, and bowed down to their gods.
 
-**TDB77:** Hih mite in amau’ pasian biak piakna ah mite sam uh a, mite in ne-in, amau’ pasiante’ mai-ah kun uh hi.
+**TDB77:** Hih mite in amau’ pasian biak piakna ah mite sam-te a, mite in ne-in, amau’ pasiante’ mai-ah kun-te hi.
 
-**ZVS:** Hih numeite in amau' pasian biakpiakna pawi-ah Israel mite sam uh a, amaute in a pawi an nekpihin, amau' pasian-te' mai-ah kun uh hi.
+**ZVS:** Hih numeite in amau' pasian biakpiakna pawi-ah Israel mite sam-te a, amaute in a pawi an nekpihin, amau' pasian-te' mai-ah kun-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -62,9 +62,9 @@
 ### v5
 **EN:** And Moses said unto the judges of Israel, Slay ye every one his men that were joined unto Baal–peor.
 
-**TDB77:** Moses in Israel thukhente kiangah, “Note khempeuh in Peor-a Baal tawh a va kizom tawm na mite khempeuh uh na that ciat ding uh hi,” a ci hi.
+**TDB77:** Moses in Israel thukhente kiangah, “Note khempeuh in Peor-a Baal tawh a va kizom tawm na mite khempeuh-te na that ciat ding-te hi,” a ci hi.
 
-**ZVS:** Moses in Israel thukhente kiangah, “Note khempeuh in Peor-a Baal tawh a va kizomtawm na mite khempeuh uh na that ciat ding uh hi,” a ci hi.
+**ZVS:** Moses in Israel thukhente kiangah, “Note khempeuh in Peor-a Baal tawh a va kizomtawm na mite khempeuh-te na that ciat ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -173,9 +173,9 @@
 ### v18
 **EN:** For they vex you with their wiles, wherewith they have beguiled you in the matter of Peor, and in the matter of Cozbi, the daughter of a prince of Midian, their sister, which was slain in the day of the plague for Peor's sake.
 
-**TDB77:** bang hang hiam cih leh amaute in a khel pilna uh tawh note hong gimsak gawp uh a, Peor tawh kisai thu leh Peor hangin gimna ni-in a kithat, amau’ sanggamnu, Midian uliante tanu Kozbi thu-ah note hong khem uh hi,” a ci hi.
+**TDB77:** bang hang hiam cih leh amaute in a khel pilna-te tawh note hong gimsak gawp-te a, Peor tawh kisai thu leh Peor hangin gimna ni-in a kithat, amau’ sanggamnu, Midian uliante tanu Kozbi thu-ah note hong khem-te hi,” a ci hi.
 
-**ZVS:** bang hang hiam cih leh amaute in a khelpilna uh tawh note hong gimsakgawp uh a, Peor tawh kisai thu leh Peor' hangin gimna ni-in a kithat, amau' sanggamnu, Midian uliante' tanu Kozbi thu-ah note hong khem uh hi,” a ci hi.
+**ZVS:** bang hang hiam cih leh amaute in a khelpilna-te tawh note hong gimsakgawp-te a, Peor tawh kisai thu leh Peor' hangin gimna ni-in a kithat, amau' sanggamnu, Midian uliante' tanu Kozbi thu-ah note hong khem-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

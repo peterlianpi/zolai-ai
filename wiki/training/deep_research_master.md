@@ -144,7 +144,7 @@ filters = {
 Based on our ZVS standard:
 
 ```python
-FORBIDDEN_WORDS = ["pathian", "ram", "fapa", "bawipa", "siangpahrang", "cu", "cun"]
+FORBIDDEN_WORDS = ["pasian", "gam", "tapa", "topa", "kumpipa", "tua", "tua"]
 REQUIRED_DIALECT = ["pasian", "gam", "tapa", "topa", "kumpipa", "tua"]
 
 def zolai_dialect_check(text):

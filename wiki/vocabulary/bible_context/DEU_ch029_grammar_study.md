@@ -42,45 +42,45 @@
 ### v3
 **EN:** The great temptations which thine eyes have seen, the signs, and those great miracles:
 
-**TDB77:** note’ mit in a muhsa ze-etna lianpite, limte, tua nalamdang liante khempeuh na thei khin uh hi;
+**TDB77:** note’ mit in a muhsa ze-etna lianpite, limte, tua nalamdang liante khempeuh na thei khin-te hi;
 
-**ZVS:** note' mit in a muhsa ze-etna lianpite, limte, tua na lamdang liante khempeuh na thei khin uh hi.
+**ZVS:** note' mit in a muhsa ze-etna lianpite, limte, tua na lamdang liante khempeuh na thei khin-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
 ### v4
 **EN:** Yet the
 
-**TDB77:** ahih hangin tu ni dongin Topa in note tungah a thu na tel nading uh lungsim hita leh, na muh nading uh mit hita leh, na zak nading uh bil hita leh hong pia nai lo hi.
+**TDB77:** ahih hangin tu ni dongin Topa in note tungah a thu na tel nading-te lungsim hita leh, na muh nading-te mit hita leh, na zak nading-te bil hita leh hong pia nai lo hi.
 
-**ZVS:** Ahih hangin tuni dongin { Topa } in note' tungah a thu na telna ding uh lungsim hita leh, na muhna ding uh mit hita leh, na zakna ding uh bil hita leh hong pia nailo hi.
+**ZVS:** Ahih hangin tuni dongin { Topa } in note' tungah a thu na telna ding-te lungsim hita leh, na muhna ding-te mit hita leh, na zakna ding-te bil hita leh hong pia nailo hi.
 
 **Grammar:** negation: lo
 
 ### v5
 **EN:** And I have led you forty years in the wilderness: your clothes are not waxen old upon you, and thy shoe is not waxen old upon thy foot.
 
-**TDB77:** Kum sawmli sung gamlakah note hong makaih khin hi; note tung panin na puante uh sia nai lo a, na khe panun zong na khedapte uh sia nai lo hi;
+**TDB77:** Kum sawmli sung gamlakah note hong makaih khin hi; note tung panin na puante-te sia nai lo a, na khe panun zong na khedapte-te sia nai lo hi;
 
-**ZVS:** Kum sawmli sung sehnel gamah note hong makaih khin hi. Note' tung panin na puante uh sia nailo a, na khe panun zong na khedapte uh sia nailo hi.
+**ZVS:** Kum sawmli sung sehnel gamah note hong makaih khin hi. Note' tung panin na puante-te sia nailo a, na khe panun zong na khedapte-te sia nailo hi.
 
 **Grammar:** completed: already done | negation: lo
 
 ### v6
 **EN:** Ye have not eaten bread, neither have ye drunk wine or strong drink: that ye might know that I am the
 
-**TDB77:** Topa pen na Pasian uh ahihna na theih nadingun nek ding anlum, leh dawn ding leenggahzu ahi a, kham theih zu ahi zongin na ne nai kei uh a, ahi zongin na kisapna teng uh hong pia hi.
+**TDB77:** Topa pen na Pasian-te ahihna na theih nadingun nek ding anlum, leh dawn ding leenggahzu ahi a, kham theih zu ahi zongin na ne nai kei-te a, ahi zongin na kisapna teng-te hong pia hi.
 
-**ZVS:** { Topa } pen na Pasian uh ahihna na theihna dingun nek ding anlum, leh dawn ding leenggahzu ahi a, khamtheih zu ahi zongin na ne nai kei uh a, ahi zongin na kisapna teng uh hong pia hi.
+**ZVS:** { Topa } pen na Pasian-te ahihna na theihna dingun nek ding anlum, leh dawn ding leenggahzu ahi a, khamtheih zu ahi zongin na ne nai kei-te a, ahi zongin na kisapna teng-te hong pia hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And when ye came unto this place, Sihon the king of Heshbon, and Og the king of Bashan, came out against us unto battle, and we smote them:
 
-**TDB77:** Hih mun na tun’ uh ciangin Heshbon kumpipa Sihon leh Bashan kumpipa Og, eite a do dingin hong kuankhia uh a, ahih hangin amaute i zo hi;
+**TDB77:** Hih mun na tun’ uh ciangin Heshbon kumpipa Sihon leh Bashan kumpipa Og, eite a do dingin hong kuankhia-te a, ahih hangin amaute i zo hi;
 
-**ZVS:** Hih mun na tun' uh ciangin Heshbon kumpipa Sihon leh Bashan kumpipa Og, eite a do dingin hong kuankhia uh a, ahih hangin amaute i zo hi.
+**ZVS:** Hih mun na tun' uh ciangin Heshbon kumpipa Sihon leh Bashan kumpipa Og, eite a do dingin hong kuankhia-te a, ahih hangin amaute i zo hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -96,16 +96,16 @@
 ### v9
 **EN:** Keep therefore the words of this covenant, and do them, that ye may prosper in all that ye do.
 
-**TDB77:** Tua ahih ciangin na hihna khempeuh uhah na daupai theih nadingun hih thuciamna kammalte khempeuh lim takin na zuih ding uh na ngaihsun ding uh hi.
+**TDB77:** Tua ahih ciangin na hihna khempeuh uhah na daupai theih nadingun hih thuciamna kammalte khempeuh lim takin na zuih ding-te na ngaihsun ding-te hi.
 
-**ZVS:** Tua ahih ciangin na hihna khempeuh uhah na daupai theihna dingun hih thuciamna kammalte khempeuh limtakin na zuih ding uh na ngaihsun ding uh hi.
+**ZVS:** Tua ahih ciangin na hihna khempeuh uhah na daupai theihna dingun hih thuciamna kammalte khempeuh limtakin na zuih ding-te na ngaihsun ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v13
 **EN:** That he may establish thee to day for a people unto himself, and that he may be unto thee a God, as he hath said unto thee, and as he hath sworn unto thy fathers, to Abraham, to Isaac, and to Jacob.
 
-**TDB77:** “{ Topa } na Pasian un tuni-in note tawh a bawl, { Topa } na Pasian uh thuciamna sungah na lut theihna dingun, tuni-in amah in ama mi dingin note hong kipsak theihna ding, leh note' tungah hong ciamna leh na pu na pate uh Abraham, Isaac, leh Jakob tungah a kiciamna bangin, amah, note' Pasian ahih theihna dingin, na minam lutangte uh, na upate uh, na uliante uh, Israel mi pasal khempeuh, na taneute uh, na zite uh, na giahphual uhah a om peemtate, na sing uh hong tomsakin na tui uh a hong tawisakte-a kipan note khempeuh, tuni-in { Topa } na Pasian uh mai-ah na ding uh hi.
+**TDB77:** “{ Topa } na Pasian un tuni-in note tawh a bawl, { Topa } na Pasian-te thuciamna sungah na lut theihna dingun, tuni-in amah in ama mi dingin note hong kipsak theihna ding, leh note' tungah hong ciamna leh na pu na pate-te Abraham, Isaac, leh Jakob tungah a kiciamna bangin, amah, note' Pasian ahih theihna dingin, na minam lutangte uh, na upate uh, na uliante uh, Israel mi pasal khempeuh, na taneute uh, na zite uh, na giahphual uhah a om peemtate, na sing-te hong tomsakin na tui-te a hong tawisakte-a kipan note khempeuh, tuni-in { Topa } na Pasian-te mai-ah na ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -130,18 +130,18 @@
 ### v16
 **EN:** (For ye know how we have dwelt in the land of Egypt; and how we came through the nations which ye passed by;
 
-**TDB77:** “Izipt gam i teen’na leh note in na nawk uh minamte lakah i paina na thei uh hi;
+**TDB77:** “Izipt gam i teen’na leh note in na nawk-te minamte lakah i paina na thei-te hi;
 
-**ZVS:** “Egypt gamah i ten'na leh note in na nawk uh minamte lakah i paina na thei uh hi.
+**ZVS:** “Egypt gamah i ten'na leh note in na nawk-te minamte lakah i paina na thei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** And ye have seen their abominations, and their idols, wood and stone, silver and gold, which were among them:)
 
-**TDB77:** a muhdahhuai amau’ na, sing leh suang a kibawl, ngun leh kham a kibawl, amaute lakah a om a milimte uh na mu khin uh hi.
+**TDB77:** a muhdahhuai amau’ na, sing leh suang a kibawl, ngun leh kham a kibawl, amaute lakah a om a milimte-te na mu khin-te hi.
 
-**ZVS:** A muhdahhuai amau' na, singlesuang a kibawl, ngunlekham a kibawl, amaute' lakah a om a milimte uh na mu khin uh hi.
+**ZVS:** A muhdahhuai amau' na, singlesuang a kibawl, ngunlekham a kibawl, amaute' lakah a om a milimte-te na mu khin-te hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -180,43 +180,43 @@
 ### v22
 **EN:** So that the generation to come of your children that shall rise up after you, and the stranger that shall come from a far land, shall say, when they see the plagues of that land, and the sicknesses which the
 
-**TDB77:** Hong khang lai ding mi, note nungah hong piang na tate uh leh a gamla panin hong pai gamdang mi in tua gam in a gim ngahna leh Topa in a natsakna cinatnate a muh uh ciangin—
+**TDB77:** Hong khang lai ding mi, note nungah hong piang na tate-te leh a gamla panin hong pai gamdang mi in tua gam in a gim ngahna leh Topa in a natsakna cinatnate a muh-te ciangin—
 
-**ZVS:** “Hong khanglai ding, note' nungah hong piang na tate uh, leh a gamla gam panin a hong pai gamdang mite in, tua gam' gimngahna leh { Topa } in a natsak cinatnate a muh uh ciangin,
+**ZVS:** “Hong khanglai ding, note' nungah hong piang na tate uh, leh a gamla gam panin a hong pai gamdang mite in, tua gam' gimngahna leh { Topa } in a natsak cinatnate a muh-te ciangin,
 
 ### v23
 **EN:** And that the whole land thereof is brimstone, and salt, and burning, that it is not sown, nor beareth, nor any grass groweth therein, like the overthrow of Sodom, and Gomorrah, Admah, and Zeboiim, which the
 
-**TDB77:** a gambup in kaat leh ci, leh nin a kangtum, khai kituh lo, bangmah po lo, lopa zong a po zawh lohna mun Sodom leh Gomorrah, Admah leh Zeboi-im bangin a kilawnthal gawp, a hehna leh a sinsona tawh Topa’ lotgawpte tawh kibang hi, ci ding uh hi—
+**TDB77:** a gambup in kaat leh ci, leh nin a kangtum, khai kituh lo, bangmah po lo, lopa zong a po zawh lohna mun Sodom leh Gomorrah, Admah leh Zeboi-im bangin a kilawnthal gawp, a hehna leh a sinsona tawh Topa’ lotgawpte tawh kibang hi, ci ding-te hi—
 
-**ZVS:** ‘A gambup pen kaat leh ci, leh nin a kangtum, khai kituhlo, bangmah polo, lopa zong a po zawhlohna mun Sodom leh Gomorrah, Admah leh Zeboiim bangin a kilawnthal gawp, a hehna leh a sinsona tawh { Topa' } lotgawpte tawh kibang hi,’ ci ding uh hi.
+**ZVS:** ‘A gambup pen kaat leh ci, leh nin a kangtum, khai kituhlo, bangmah polo, lopa zong a po zawhlohna mun Sodom leh Gomorrah, Admah leh Zeboiim bangin a kilawnthal gawp, a hehna leh a sinsona tawh { Topa' } lotgawpte tawh kibang hi,’ ci ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** Even all nations shall say, Wherefore hath the
 
-**TDB77:** hi hi, minamte khempeuh in bang hangin Topa in hih bangin hih gam bawl ahi hiam? Hih hehna lian in bang a cihnopna ahi hiam?’ ci ding uh hi.
+**TDB77:** hi hi, minamte khempeuh in bang hangin Topa in hih bangin hih gam bawl ahi hiam? Hih hehna lian in bang a cihnopna ahi hiam?’ ci ding-te hi.
 
-**ZVS:** Minam khempeuhte in, ‘Bang hangin { Topa } in hih bangin hih gam bawl ahi hiam? Hih hehna lian, bang a cihnopna ahi hiam?’ ci takpi ding uh hi.
+**ZVS:** Minam khempeuhte in, ‘Bang hangin { Topa } in hih bangin hih gam bawl ahi hiam? Hih hehna lian, bang a cihnopna ahi hiam?’ ci takpi ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v25
 **EN:** Then men shall say, Because they have forsaken the covenant of the
 
-**TDB77:** Tua ciangin mite in, ‘Amah in Izipt gam panin a paikhiatpih lai-in amaute tawh a bawl, a pu a pate uh Pasian ahi Topa’ thuciamna amaute in nusia in,
+**TDB77:** Tua ciangin mite in, ‘Amah in Izipt gam panin a paikhiatpih lai-in amaute tawh a bawl, a pu a pate-te Pasian ahi Topa’ thuciamna amaute in nusia in,
 
-**ZVS:** Tua ciangin mite in, ‘Amah in Egypt gam panin a paikhiatpih lai-in amaute tawh a bawl, a pu a pate uh Pasian ahi { Topa' } thuciamna amaute in nusia-in,
+**ZVS:** Tua ciangin mite in, ‘Amah in Egypt gam panin a paikhiatpih lai-in amaute tawh a bawl, a pu a pate-te Pasian ahi { Topa' } thuciamna amaute in nusia-in,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then)
 
 ### v26
 **EN:** For they went and served other gods, and worshipped them, gods whom they knew not, and whom he had not given unto them:
 
-**TDB77:** a theih nai loh uh pasiante leh amah in amaute tungah a piak loh pasian dangte, na va semin a biakna hang uh ahi hi;
+**TDB77:** a theih nai loh-te pasiante leh amah in amaute tungah a piak loh pasian dangte, na va semin a biakna hang-te ahi hi;
 
-**ZVS:** a theih nailoh uh pasian-te leh amah in amaute tungah a piakloh pasian dangte' na va semin a biakna hang uh ahi hi.
+**ZVS:** a theih nailoh-te pasian-te leh amah in amaute tungah a piakloh pasian dangte' na va semin a biakna hang-te ahi hi.
 
 ### v27
 **EN:** And the anger of the
@@ -230,9 +230,9 @@
 ### v28
 **EN:** And the
 
-**TDB77:** Topa in hehna, sinsona, lungham mahmahna tawh a leitang panun amaute zunglot a, tu ni-a i muh bangin amaute gamdangah lawn hi,’ ci ding uh hi.
+**TDB77:** Topa in hehna, sinsona, lungham mahmahna tawh a leitang panun amaute zunglot a, tu ni-a i muh bangin amaute gamdangah lawn hi,’ ci ding-te hi.
 
-**ZVS:** { Topa } in hehna, sinsona, lungham mahmahna tawh a leitang panun amaute zunglot a, tuni-a i muh bangin amaute gamdangah hawlkhia hi,’ ci ding uh hi.
+**ZVS:** { Topa } in hehna, sinsona, lungham mahmahna tawh a leitang panun amaute zunglot a, tuni-a i muh bangin amaute gamdangah hawlkhia hi,’ ci ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

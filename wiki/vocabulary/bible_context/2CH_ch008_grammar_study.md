@@ -78,27 +78,27 @@
 ### v8
 **EN:** But of their children, who were left after them in the land, whom the children of Israel consumed not, them did Solomon make to pay tribute until this day.
 
-**TDB77:** Israel mite in a suksiat nai loh amau nungah a suan leh khak uh tua gam sungah a om laite—Solomon in aana tawh siah a pia dingin bawl a, tua bangin tu ni dongin amaute om uh hi.
+**TDB77:** Israel mite in a suksiat nai loh amau nungah a suan leh khak-te tua gam sungah a om laite—Solomon in aana tawh siah a pia dingin bawl a, tua bangin tu ni dongin amaute om-te hi.
 
-**ZVS:** Israel mite in a suksiat nailoh amau nungah a suanlekhakte uh tua gamsungah a omlaite, Solomon in aana tawh siah a pia dingin bawl a, tua bangin tuni dongin amaute om uh hi.
+**ZVS:** Israel mite in a suksiat nailoh amau nungah a suanlekhakte-te tua gamsungah a omlaite, Solomon in aana tawh siah a pia dingin bawl a, tua bangin tuni dongin amaute om-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v9
 **EN:** But of the children of Israel did Solomon make no servants for his work; but they were men of war, and chief of his captains, and captains of his chariots and horsemen.
 
-**TDB77:** Ahih hangin Israel mite ahih leh Solomon in ama na a sem dingin sal-in bawl lo hi; amaute in galkapte, leh ama nuai-ah uliante, a leengte a ukte, leh a sakol tung tuangte ahi uh hi.
+**TDB77:** Ahih hangin Israel mite ahih leh Solomon in ama na a sem dingin sal-in bawl lo hi; amaute in galkapte, leh ama nuai-ah uliante, a leengte a ukte, leh a sakol tung tuangte ahi-te hi.
 
-**ZVS:** Ahih hangin Israel mite ahih leh Solomon in ama na a sem dingin salin bawllo hi. Amaute pen galkapte, ama nuai-ah uliante, a leengte a ukte, leh a sakol tung tuangte ahi uh hi.
+**ZVS:** Ahih hangin Israel mite ahih leh Solomon in ama na a sem dingin salin bawllo hi. Amaute pen galkapte, ama nuai-ah uliante, a leengte a ukte, leh a sakol tung tuangte ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | negation: lo | plural: uh marker
 
 ### v10
 **EN:** And these were the chief of king Solomon's officers, even two hundred and fifty, that bare rule over the people.
 
-**TDB77:** Hihte in Kumpi Solomon’ ulian ukpite hi a, mite tungah aana a zang mihing zanih leh sawmnga ahi uh hi.
+**TDB77:** Hihte in Kumpi Solomon’ ulian ukpite hi a, mite tungah aana a zang mihing zanih leh sawmnga ahi-te hi.
 
-**ZVS:** Kumpi Solomon' ulian, mite' tungah aana a zang mihing za nih leh sawmnga a om uh hi.
+**ZVS:** Kumpi Solomon' ulian, mite' tungah aana a zang mihing za nih leh sawmnga a om-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -130,9 +130,9 @@
 ### v15
 **EN:** And they departed not from the commandment of the king unto the priests and Levites concerning any matter, or concerning the treasures.
 
-**TDB77:** Thu khatpeuh peuh leh van manpha koihnate tawh kisai-in kumpipa in siampite leh Levi mite a thupiakna bang teekteekin amaute in sem uh hi.
+**TDB77:** Thu khatpeuh peuh leh van manpha koihnate tawh kisai-in kumpipa in siampite leh Levi mite a thupiakna bang teekteekin amaute in sem-te hi.
 
-**ZVS:** Thu khat peuhpeuh leh vanmanpha koihnate tawh kisai-in kumpipa in siampite leh Levi mite a thupiakna bang teekteekin amaute in a sem uh hi.
+**ZVS:** Thu khat peuhpeuh leh vanmanpha koihnate tawh kisai-in kumpipa in siampite leh Levi mite a thupiakna bang teekteekin amaute in a sem-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -157,9 +157,9 @@
 ### v18
 **EN:** And Huram sent him by the hands of his servants ships, and servants that had knowledge of the sea; and they went with the servants of Solomon to Ophir, and took thence four hundred and fifty talents of gold, and brought them to king Solomon.
 
-**TDB77:** Tua ciangin kumpi Huram in teembawte leh tuipi a thei a nasemte tawh ama nasemte sawl a, Solomon’ nasemte tawh Ofir-ah pai khawmin tua lai panin kham talen zali leh sawmnga pua-in kumpi Solomon kiang tun’ pih uh hi.
+**TDB77:** Tua ciangin kumpi Huram in teembawte leh tuipi a thei a nasemte tawh ama nasemte sawl a, Solomon’ nasemte tawh Ofir-ah pai khawmin tua lai panin kham talen zali leh sawmnga pua-in kumpi Solomon kiang tun’ pih-te hi.
 
-**ZVS:** Tua ciangin Kumpi Hiram in teembawte leh tuipi a thei a nasemte tawh ama nasemte sawl a, Solomon' nasemte tawh Ofir-ah paikhawmin tua lai panin kham talen za li leh sawmnga pua-in Kumpi Solomon kiang a tun'pih uh hi.
+**ZVS:** Tua ciangin Kumpi Hiram in teembawte leh tuipi a thei a nasemte tawh ama nasemte sawl a, Solomon' nasemte tawh Ofir-ah paikhawmin tua lai panin kham talen za li leh sawmnga pua-in Kumpi Solomon kiang a tun'pih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

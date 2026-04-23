@@ -42,9 +42,9 @@
 ### v3
 **EN:** Now the Egyptians are men, and not God; and their horses flesh, and not spirit. When the
 
-**TDB77:** Izipt mite mihing hi a, Pasian hilo hi; amau’ sakolte in sa hi a, kha hilo hi. Topa in a khut a zan ciangin a huhpa puk-in, huhna a ngahpa tuk ding a, amaute khempeuh siakhawm ding uh hi.
+**TDB77:** Izipt mite mihing hi a, Pasian hilo hi; amau’ sakolte in sa hi a, kha hilo hi. Topa in a khut a zan ciangin a huhpa puk-in, huhna a ngahpa tuk ding a, amaute khempeuh siakhawm ding-te hi.
 
-**ZVS:** Egypt mite mihing hi a, Pasian hilo hi. Amau' sakolte sa hi a, kha hilo hi. { Topa } in a khut a zan ciangin a huhpa pukin, huhna a ngahpa tuk ding a, amaute khempeuh siakhawm ding uh hi.
+**ZVS:** Egypt mite mihing hi a, Pasian hilo hi. Amau' sakolte sa hi a, kha hilo hi. { Topa } in a khut a zan ciangin a huhpa pukin, huhna a ngahpa tuk ding a, amaute khempeuh siakhawm ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -78,27 +78,27 @@
 ### v7
 **EN:** For in that day every man shall cast away his idols of silver, and his idols of gold, which your own hands have made unto you for a sin.
 
-**TDB77:** Bang hang hiam cih leh a kuamah peuh in no adingin na bawlsa uh, mawhna ahi na ngun milimte uh leh na kham milimte uh na paihkhiat hun uh hong tung ding hi.
+**TDB77:** Bang hang hiam cih leh a kuamah peuh in no adingin na bawlsa uh, mawhna ahi na ngun milimte-te leh na kham milimte-te na paihkhiat hun-te hong tung ding hi.
 
-**ZVS:** Bang hang hiam cih leh a kuamah peuh in no-a' dingin na bawlsa uh, mawhna ahi na ngun milimte uh na paihkhiat hun uh hong tung ding hi.
+**ZVS:** Bang hang hiam cih leh a kuamah peuh in no-a' dingin na bawlsa uh, mawhna ahi na ngun milimte-te na paihkhiat hun-te hong tung ding hi.
 
 **Grammar:** purpose: in order to | future: will
 
 ### v8
 **EN:** Then shall the Assyrian fall with the sword, not of a mighty man; and the sword, not of a mean man, shall devour him: but he shall flee from the sword, and his young men shall be discomfited.
 
-**TDB77:** “Assiria pen mihing’ namsau ahi lo, namsau khat tawh puk ding a, mihing namsau ahi lo, namsau khat in susia ding hi; namsau panin tai ding uh a, a tangvalte uh zawhthawh thu tawh nasem dingin kikoih ding hi.
+**TDB77:** “Assiria pen mihing’ namsau ahi lo, namsau khat tawh puk ding a, mihing namsau ahi lo, namsau khat in susia ding hi; namsau panin tai ding-te a, a tangvalte-te zawhthawh thu tawh nasem dingin kikoih ding hi.
 
-**ZVS:** “Assiria pen mihing' namsau a hilo, namsau khat tawh puk ding a, mihing' namsau a hilo, namsau khat in susia ding hi. Namsau panin tai ding uh a, a tangvalte uh zawhthawh thu tawh nasem dingin kikoih ding hi.
+**ZVS:** “Assiria pen mihing' namsau a hilo, namsau khat tawh puk ding a, mihing' namsau a hilo, namsau khat in susia ding hi. Namsau panin tai ding-te a, a tangvalte-te zawhthawh thu tawh nasem dingin kikoih ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And he shall pass over to his strong hold for fear, and his princes shall be afraid of the ensign, saith the
 
-**TDB77:** Amau’ belh a mun muanhuai uh, launa hangin tai ding a, buaina hangin a uliante in a lim uh taisan ding hi,” ama meikuang Zion ah a om, ama meikhuk Jerusalem khua ah a om Topa in ci hi.
+**TDB77:** Amau’ belh a mun muanhuai uh, launa hangin tai ding a, buaina hangin a uliante in a lim-te taisan ding hi,” ama meikuang Zion ah a om, ama meikhuk Jerusalem khua ah a om Topa in ci hi.
 
-**ZVS:** Amau' belh a kumpipa uh a launa hangin tai ding a, buaina hangin a uliante in a dialkhai uh taisan ding uh hi,” ama meikuang Zion-ah a om, ama meikhuk Jerusalem khua-ah a om { Topa } in ci hi.
+**ZVS:** Amau' belh a kumpipa-te a launa hangin tai ding a, buaina hangin a uliante in a dialkhai-te taisan ding-te hi,” ama meikuang Zion-ah a om, ama meikhuk Jerusalem khua-ah a om { Topa } in ci hi.
 
 **Grammar:** quotative: said/saying | future: will
 

@@ -36,7 +36,7 @@
 
 **TDB77:** Dawimangpa in Simon’ tapa Judas Iskariot sungah Zeisu a lehheek nadingin lungsim a guan’ khit ciangin; nitak an a nek lai takun,
 
-**ZVS:** Jesuh leh a nungzuite nitak an ne-in a tukhawm uh hi. Tua hun laitakin dawimangpa in Simon Iskariot' tapa Judas' lungsim sungah Jesuh lehhekna ding ngaihsutna koih khinzo hi.
+**ZVS:** Jesuh leh a nungzuite nitak an ne-in a tukhawm-te hi. Tua hun laitakin dawimangpa in Simon Iskariot' tapa Judas' lungsim sungah Jesuh lehhekna ding ngaihsutna koih khinzo hi.
 
 **Grammar:** purpose: in order to
 
@@ -104,43 +104,43 @@
 ### v10
 **EN:** Jesus saith to him,
 
-**TDB77:** Zeisu in, “A kisilsate in khe longal sil ding a deih kei hi, a pumpi a siang hi. No na sian’ uh hangin na vekpi-un na siang kim kei uh hi,” a ci hi.
+**TDB77:** Zeisu in, “A kisilsate in khe longal sil ding a deih kei hi, a pumpi a siang hi. No na sian’ uh hangin na vekpi-un na siang kim kei-te hi,” a ci hi.
 
-**ZVS:** Jesuh in, “A kipumsil khinsa mite siangthota ahih manin a khe simloh silkik ding kisam nawnlo hi. Note sung panin khat simloh na vekpi-un na siang khin uh hi,” a ci hi.
+**ZVS:** Jesuh in, “A kipumsil khinsa mite siangthota ahih manin a khe simloh silkik ding kisam nawnlo hi. Note sung panin khat simloh na vekpi-un na siang khin-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** For he knew who should betray him; therefore said he,
 
-**TDB77:** A lehheek ding pa theikhol ahih ciangin, “Note na vekpi-un na siang kei uh hi,” a ci hi.
+**TDB77:** A lehheek ding pa theikhol ahih ciangin, “Note na vekpi-un na siang kei-te hi,” a ci hi.
 
-**ZVS:** Jesuh in amah a lehhek dingpa theikhin ahih manin, “Note sung panin khat simloh na siangkhin uh hi,” a ci ahi hi.
+**ZVS:** Jesuh in amah a lehhek dingpa theikhin ahih manin, “Note sung panin khat simloh na siangkhin-te hi,” a ci ahi hi.
 
 **Grammar:** quotative: said/saying | negation: kei | plural: uh marker
 
 ### v12
 **EN:** So after he had washed their feet, and had taken his garments, and was set down again, he said unto them,
 
-**TDB77:** Tua bangin amau khe a sil khit ciangin a puan silh a, a tut khit ciangin, “Tu-a note tungah kong bawlna thu na thei uh hiam?
+**TDB77:** Tua bangin amau khe a sil khit ciangin a puan silh a, a tut khit ciangin, “Tu-a note tungah kong bawlna thu na thei-te hiam?
 
-**ZVS:** Jesuh in amaute' khe a silsak khit ciangin a puan silhkik a, annek sabuai-ah a tutnasa mun hong zuanin, “Tu-a note tungah ka hong gamtatna thu na thei uh hiam?
+**ZVS:** Jesuh in amaute' khe a silsak khit ciangin a puan silhkik a, annek sabuai-ah a tutnasa mun hong zuanin, “Tu-a note tungah ka hong gamtatna thu na thei-te hiam?
 
 ### v21
 **EN:** When Jesus had thus said, he was troubled in spirit, and testified, and said,
 
 **TDB77:** Tua bangin Zeisu in a gen khit ciangin, a lungmang mahmah a, “Note khat in hong lehheek ding hi,” ci-in a tel gen hi.
 
-**ZVS:** Jesuh in hih thuteng a genkhit ciangin lungkham mahmah ahih manin, “A mantakin ci lehang, note khat in kei nong lehhek ding uh hi,” ci-in a kilangin a genkhia hi.
+**ZVS:** Jesuh in hih thuteng a genkhit ciangin lungkham mahmah ahih manin, “A mantakin ci lehang, note khat in kei nong lehhek ding-te hi,” ci-in a kilangin a genkhia hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | future: will
 
 ### v22
 **EN:** Then the disciples looked one on another, doubting of whom he spake.
 
-**TDB77:** Kua a cihna hiam ci-in a nungzuite kimuangmawh ciatin, khat leh khat a ki-en uh hi.
+**TDB77:** Kua a cihna hiam ci-in a nungzuite kimuangmawh ciatin, khat leh khat a ki-en-te hi.
 
-**ZVS:** Kua a cihnopna hi ding ahi hiam, ci-in a nungzuite khatlekhat a ki-en uh hi.
+**ZVS:** Kua a cihnopna hi ding ahi hiam, ci-in a nungzuite khatlekhat a ki-en-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -190,18 +190,18 @@
 ### v28
 **EN:** Now no man at the table knew for what intent he spake this unto him.
 
-**TDB77:** Bang hangin tua bang a gen hiam ci-in a sabuai-a tute kuamah in a thei kei uh hi.
+**TDB77:** Bang hangin tua bang a gen hiam ci-in a sabuai-a tute kuamah in a thei kei-te hi.
 
-**ZVS:** Ahi zongin sabuai-ah a tutkhawmpih mite in hih bangin a cihna thu theilo uh hi.
+**ZVS:** Ahi zongin sabuai-ah a tutkhawmpih mite in hih bangin a cihna thu theilo-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | plural: uh marker
 
 ### v29
 **EN:** For some of them thought, because Judas had the bag, that Jesus had said unto him, Buy those things that we have need of against the feast; or, that he should give something to the poor.
 
-**TDB77:** Bang hang hiam i cih leh, mi kimkhat in Judas in dangka-ip tawi ahih ciangin, “Pawikhamna-ah i zat ding na khatpeuh peuh lei in,” ci ahih kei leh, “Mizawngte na khatpeuh na pia in,” a ci hi ci-in a ngaihsun uh hi.
+**TDB77:** Bang hang hiam i cih leh, mi kimkhat in Judas in dangka-ip tawi ahih ciangin, “Pawikhamna-ah i zat ding na khatpeuh peuh lei in,” ci ahih kei leh, “Mizawngte na khatpeuh na pia in,” a ci hi ci-in a ngaihsun-te hi.
 
-**ZVS:** Amah sumkem ahih manin hih pawi-a zat ding a kisam na pawlkhat a lei dingin a sawl hi ding hi; tua ahih kei leh zong mizawngte pawlkhat tungah sum a pia dingin a sawl hi ding hi, ci-in nungzui pawlkhat in a ngaihsun uh hi.
+**ZVS:** Amah sumkem ahih manin hih pawi-a zat ding a kisam na pawlkhat a lei dingin a sawl hi ding hi; tua ahih kei leh zong mizawngte pawlkhat tungah sum a pia dingin a sawl hi ding hi, ci-in nungzui pawlkhat in a ngaihsun-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -224,7 +224,7 @@
 ### v36
 **EN:** Simon Peter said unto him, Lord, whither goest thou? Jesus answered him,
 
-**TDB77:** Simon Piter in, “Topa aw, koi lam pai ding na hi hiam?” a cih ciangin Zeisu in, “Ka paina lamah tu-in nong zui zo kei ding hi. Tu nung ciangin na hong zui ding uh hi,” a ci kik hi.
+**TDB77:** Simon Piter in, “Topa aw, koi lam pai ding na hi hiam?” a cih ciangin Zeisu in, “Ka paina lamah tu-in nong zui zo kei ding hi. Tu nung ciangin na hong zui ding-te hi,” a ci kik hi.
 
 **ZVS:** Tua ciangin Simon Peter in, “Topa aw, koi-ah pai ding na hi hiam?” ci-in a dot ciangin Jesuh in, “Ka paina dingah tu-in na hong zui thei nai kei ding hi; ahi zongin nidang ciangin na hong zui ding hi,” ci-in a dawng hi.
 

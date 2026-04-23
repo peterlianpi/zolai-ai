@@ -19,9 +19,9 @@
 ### v1
 **EN:** The
 
-**TDB77:** Topa in uk hi; leitung lungdam hen la, tuikulh neu tampite zong lungdam ta uh hen!
+**TDB77:** Topa in uk hi; leitung lungdam hen la, tuikulh neu tampite zong lungdam ta-te hen!
 
-**ZVS:** { Topa } in uk hi. Leitung lungdam hen la, tuikulh neu tampite zong lungdam ta uh hen.
+**ZVS:** { Topa } in uk hi. Leitung lungdam hen la, tuikulh neu tampite zong lungdam ta-te hen.
 
 ### v2
 **EN:** Clouds and darkness are round about him: righteousness and judgment are the habitation of his throne.
@@ -53,36 +53,36 @@
 ### v5
 **EN:** The hills melted like wax at the presence of the
 
-**TDB77:** Topa’ mai, leitung mi khempeuh Topa’ mai-ah mualliante in khuainun bangin tui suak uh hi.
+**TDB77:** Topa’ mai, leitung mi khempeuh Topa’ mai-ah mualliante in khuainun bangin tui suak-te hi.
 
-**ZVS:** { Topa' } mai, leitung mi khempeuh' { Topa' } mai-ah mual liante khuainun bangin a tuisuak uh hi.
+**ZVS:** { Topa' } mai, leitung mi khempeuh' { Topa' } mai-ah mual liante khuainun bangin a tuisuak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** The heavens declare his righteousness, and all the people see his glory.
 
-**TDB77:** Vantungte in ama thumanna genkhia a, mi khempeuhte in ama minthan’na en uh hi.
+**TDB77:** Vantungte in ama thumanna genkhia a, mi khempeuhte in ama minthan’na en-te hi.
 
-**ZVS:** Vantungte in ama thumanna genkhia uh a, mi khempeuh in ama minthan'na mu uh hi.
+**ZVS:** Vantungte in ama thumanna genkhia-te a, mi khempeuh in ama minthan'na mu-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** Confounded be all they that serve graven images, that boast themselves of idols: worship him, all ye gods.
 
-**TDB77:** Bangmah man lo milimte a kisak theihpih, milim a bia mi khempeuhte maizumin kikoih a, ama mai-ah pasian khempeuh kun uh hi.
+**TDB77:** Bangmah man lo milimte a kisak theihpih, milim a bia mi khempeuhte maizumin kikoih a, ama mai-ah pasian khempeuh kun-te hi.
 
-**ZVS:** Bangmah a manlo milimte a kisaktheihpih, milim a bia mi khempeuhte maizumin kikoih a, ama mai-ah pasian khempeuh kun uh hi.
+**ZVS:** Bangmah a manlo milimte a kisaktheihpih, milim a bia mi khempeuhte maizumin kikoih a, ama mai-ah pasian khempeuh kun-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Zion heard, and was glad; and the daughters of Judah rejoiced because of thy judgments, O
 
-**TDB77:** Pasian aw, Zion in za-in nuam a, nangma thukhennate hangin Judah khuapite lungdam uh hi.
+**TDB77:** Pasian aw, Zion in za-in nuam a, nangma thukhennate hangin Judah khuapite lungdam-te hi.
 
-**ZVS:** Pasian aw, Zion in za-in nuam a, na thukhennate hangin Judah khuapite lungdam uh hi.
+**ZVS:** Pasian aw, Zion in za-in nuam a, na thukhennate hangin Judah khuapite lungdam-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

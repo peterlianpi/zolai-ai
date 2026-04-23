@@ -26,27 +26,27 @@
 ### v1
 **EN:** Then came to Jesus scribes and Pharisees, which were of Jerusalem, saying,
 
-**TDB77:** Tua khit ciangin, Jerusalem khua panin Farisaite leh laitheite Zeisu kiangah va pai uh a,
+**TDB77:** Tua khit ciangin, Jerusalem khua panin Farisaite leh laitheite Zeisu kiangah va pai-te a,
 
-**ZVS:** Tua ciangin Jerusalem khua panin Farisi mite leh Thukham hilh siate, Jesuh kiangah hong pai uh a,
+**ZVS:** Tua ciangin Jerusalem khua panin Farisi mite leh Thukham hilh siate, Jesuh kiangah hong pai-te a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** Why do thy disciples transgress the tradition of the elders? for they wash not their hands when they eat bread.
 
-**TDB77:** “Tanglai upate’ ngeina, na nungzuite in bang hangin palsat ahi uh hiam? Khut sil loin an a ne uh hi,” ci-in a ko uh hi.
+**TDB77:** “Tanglai upate’ ngeina, na nungzuite in bang hangin palsat ahi-te hiam? Khut sil loin an a ne-te hi,” ci-in a ko-te hi.
 
-**ZVS:** “Bang hangin na nungzuite in tangtawng pek panin a hong kihilh suksuk i pupa ngeinate zuilo uh ahi hiam? Amaute in an a nek ma-un a ngeina ding bangin a khut uh sil masa lo uh hi,” a ci uh hi.
+**ZVS:** “Bang hangin na nungzuite in tangtawng pek panin a hong kihilh suksuk i pupa ngeinate zuilo-te ahi hiam? Amaute in an a nek ma-un a ngeina ding bangin a khut-te sil masa lo-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v3
 **EN:** But he answered and said unto them,
 
-**TDB77:** Zeisu in, “Note in tanglai ngeina zui-in Pasian’ thukham bang hang palsat na hi uh hiam?
+**TDB77:** Zeisu in, “Note in tanglai ngeina zui-in Pasian’ thukham bang hang palsat na hi-te hiam?
 
-**ZVS:** Jesuh in, “Bang hangin note in na pupa ngeina uh zui-in, Pasian' thupiakna palsat zawsop na hi uh hiam?
+**ZVS:** Jesuh in, “Bang hangin note in na pupa ngeina-te zui-in, Pasian' thupiakna palsat zawsop na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then)
 
@@ -60,9 +60,9 @@
 ### v12
 **EN:** Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?
 
-**TDB77:** A nungzuite’n va nai uh a, “Tua thugentehna Farisaite in a zak uh ciangin, a lungmang uh na thei hiam? a ci uh hi.
+**TDB77:** A nungzuite’n va nai-te a, “Tua thugentehna Farisaite in a zak-te ciangin, a lungmang-te na thei hiam? a ci-te hi.
 
-**ZVS:** Tua ciangin nungzuite in Jesuh kiangah, “Farisi mite in hih na thugen a zak uh ciangin na a sak mahmahna thu uh na thei hiam?” a ci uh hi.
+**ZVS:** Tua ciangin nungzuite in Jesuh kiangah, “Farisi mite in hih na thugen a zak-te ciangin na a sak mahmahna thu-te na thei hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v16
 **EN:** And Jesus said,
 
-**TDB77:** Zeisu in, “Note in zong lungpilna nei nai lo na hi uh hiam?
+**TDB77:** Zeisu in, “Note in zong lungpilna nei nai lo na hi-te hiam?
 
-**ZVS:** Jesuh in, “Note nangawn in theilo a, tello na hi uh hiam?
+**ZVS:** Jesuh in, “Note nangawn in theilo a, tello na hi-te hiam?
 
 ### v21
 **EN:** Then Jesus went thence, and departed into the coasts of Tyre and Sidon.
@@ -110,9 +110,9 @@
 ### v23
 **EN:** But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us.
 
-**TDB77:** A nungzuite in a kiangah va nai uh a, “Tua numei na paikhiasak ta in. I nung hong zui-in hong kiko hi,” a ci uh hi.
+**TDB77:** A nungzuite in a kiangah va nai-te a, “Tua numei na paikhiasak ta in. I nung hong zui-in hong kiko hi,” a ci-te hi.
 
-**ZVS:** Ahi zongin Jesuh in kam khat beek paupihlo hi. Tua ciangin a nungzuite in Jesuh kiangah, “Hih nupi i nung zui-in kikoko ahih manin a ciahna dingin sawl in,” ci-in a thum uh hi.
+**ZVS:** Ahi zongin Jesuh in kam khat beek paupihlo hi. Tua ciangin a nungzuite in Jesuh kiangah, “Hih nupi i nung zui-in kikoko ahih manin a ciahna dingin sawl in,” ci-in a thum-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -146,7 +146,7 @@
 ### v27
 **EN:** And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table.
 
-**TDB77:** numei in, “Ahi mah hi, Topa aw, uite in a topa sabuai panin anneng kiate a ne uh hi,” a ci hi.
+**TDB77:** numei in, “Ahi mah hi, Topa aw, uite in a topa sabuai panin anneng kiate a ne-te hi,” a ci hi.
 
 **ZVS:** Nupi in, “Hi mah hi, Topa aw; a topa sabuai tung panin a kia annengte, ui khawite in zong nebuang hilo ahi hiam?” a ci hi.
 
@@ -173,43 +173,43 @@
 ### v30
 **EN:** And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus' feet; and he healed them:
 
-**TDB77:** Mi tampi a kiangah va tung uh a, khezawte, mittawte, mi pautheilote, mi cingtak lote a kipan, adang cinatna a vei khempeuh hong paipih-in Zeisu kiangah a nga uh hi.
+**TDB77:** Mi tampi a kiangah va tung-te a, khezawte, mittawte, mi pautheilote, mi cingtak lote a kipan, adang cinatna a vei khempeuh hong paipih-in Zeisu kiangah a nga-te hi.
 
-**ZVS:** Ama kiangah mihon tampi tak hong pai uh a, khebaite, khezawte, mittawte, a pau theilote, leh cina dang tampi, Jesuh kiangah hong koih uh hi. Jesuh in tuate khempeuh a damsak hi.
+**ZVS:** Ama kiangah mihon tampi tak hong pai-te a, khebaite, khezawte, mittawte, a pau theilote, leh cina dang tampi, Jesuh kiangah hong koih-te hi. Jesuh in tuate khempeuh a damsak hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel.
 
-**TDB77:** Zeisu in cinate a damsak hi. Mi pautheilote a pau thei uh hi; mi cingtak lote a cingtak uh hi; khezawte in lam a pai thei uh hi; mittawte in khua a mu kik thei uh, mihonpite in a muh uh ciangin lamdang a sa uh a, Israel pawlte’ Pasian’ min a phat uh hi.
+**TDB77:** Zeisu in cinate a damsak hi. Mi pautheilote a pau thei-te hi; mi cingtak lote a cingtak-te hi; khezawte in lam a pai thei-te hi; mittawte in khua a mu kik thei uh, mihonpite in a muh-te ciangin lamdang a sa-te a, Israel pawlte’ Pasian’ min a phat-te hi.
 
-**ZVS:** A pau theilote pau thei-in, khezawte damin, khebaite hoihtakin lam paithei-in, mittawte in khua a muh theihkikna thu mihonpite in a muh uh ciangin lamdangsa mahmah uh a, Israel mite' Pasian a phat uh hi.
+**ZVS:** A pau theilote pau thei-in, khezawte damin, khebaite hoihtakin lam paithei-in, mittawte in khua a muh theihkikna thu mihonpite in a muh-te ciangin lamdangsa mahmah-te a, Israel mite' Pasian a phat-te hi.
 
 **Grammar:** causative: -sak suffix | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** Then Jesus called his disciples unto him, and said,
 
-**TDB77:** Tua lai takin Zeisu in a nungzuite sam a, “Hih mite hehpih huai ka sa hi. Bang hang hiam na cih uh leh, ni thum tawntung kei tawh a omkhawm uh a, an nek ding a nei kei uh hi. Lampi ah a gim ding uh, ka lunghihmawh manin, an ne loin ka paisak nuam kei hi,” a ci hi.
+**TDB77:** Tua lai takin Zeisu in a nungzuite sam a, “Hih mite hehpih huai ka sa hi. Bang hang hiam na cih-te leh, ni thum tawntung kei tawh a omkhawm-te a, an nek ding a nei kei-te hi. Lampi ah a gim ding uh, ka lunghihmawh manin, an ne loin ka paisak nuam kei hi,” a ci hi.
 
-**ZVS:** Tua ciangin Jesuh in a nungzuite sam a, “Kei kiangah hih mite ni thum bang hong omkhin uh a, amaute in annek ding nei nawnlo uh ahih manin hehpihhuai ka sa hi. Lamkalah cimawh khading uh ahih manin gilkialin ka ciahsak nuam kei hi,” a ci hi.
+**ZVS:** Tua ciangin Jesuh in a nungzuite sam a, “Kei kiangah hih mite ni thum bang hong omkhin-te a, amaute in annek ding nei nawnlo-te ahih manin hehpihhuai ka sa hi. Lamkalah cimawh khading-te ahih manin gilkialin ka ciahsak nuam kei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: kei | causal: because | plural: uh marker
 
 ### v33
 **EN:** And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude?
 
-**TDB77:** A nungzuite in, “Mi hih zahpi kham ding khomun, hih gampa lakah ko bang lak pan ngah ding ka hi uh hiam?” a cih uh ciangin
+**TDB77:** A nungzuite in, “Mi hih zahpi kham ding khomun, hih gampa lakah ko bang lak pan ngah ding ka hi-te hiam?” a cih-te ciangin
 
-**ZVS:** Nungzuite in, “Mihon hih zah i piak ding, hih gamlakah koi panin an ngah ding ihi hiam?” a ci uh hi.
+**ZVS:** Nungzuite in, “Mihon hih zah i piak ding, hih gamlakah koi panin an ngah ding ihi hiam?” a ci-te hi.
 
 ### v34
 **EN:** And Jesus saith unto them,
 
-**TDB77:** Zeisu in, “Khomun pum bangzah na nei uh hiam?” ci-in a dot ciangin amaute in, “Pum sagih leh ngasa tawm a om hi,” a ci uh hi.
+**TDB77:** Zeisu in, “Khomun pum bangzah na nei-te hiam?” ci-in a dot ciangin amaute in, “Pum sagih leh ngasa tawm a om hi,” a ci-te hi.
 
-**ZVS:** Jesuh in, “Anlum bangzah nei na hi uh hiam?” a cih ciangin, “Lum sagih leh ngasa neu tawm khat om hi,” a ci uh hi.
+**ZVS:** Jesuh in, “Anlum bangzah nei na hi-te hiam?” a cih ciangin, “Lum sagih leh ngasa neu tawm khat om hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -227,16 +227,16 @@
 
 **TDB77:** Tua ciangin, khomun pum sagih leh ngasa la a, hehpihna a phat khit ciangin khomun leh ngasa balnenin a nungzuite a pia hi.
 
-**ZVS:** Anlum sagih leh a ngasate la-in Pasian tungah lungdamna a koh khit ciangin balnenin a nungzuite tungah pia a, a nungzuite in mihonpite mai-ah a lui uh hi.
+**ZVS:** Anlum sagih leh a ngasate la-in Pasian tungah lungdamna a koh khit ciangin balnenin a nungzuite tungah pia a, a nungzuite in mihonpite mai-ah a lui-te hi.
 
 **Grammar:** sequence: then/therefore
 
 ### v37
 **EN:** And they did all eat, and were filled: and they took up of the broken meat that was left seven baskets full.
 
-**TDB77:** A nungzuite in mihonpi a lui uh hi. Tua a om khempeuh in a ne uh a, a kham khit uh ciangin, a khamval a neng a themte tawm uh a, seeng sagih a ngah uh hi.
+**TDB77:** A nungzuite in mihonpi a lui-te hi. Tua a om khempeuh in a ne-te a, a kham khit-te ciangin, a khamval a neng a themte tawm-te a, seeng sagih a ngah-te hi.
 
-**ZVS:** Mihonte in ne-in a kham khit uh ciangin a khamval a neng a themte tawmkik uh a, paipel lian sagih a dim hi.
+**ZVS:** Mihonte in ne-in a kham khit-te ciangin a khamval a neng a themte tawmkik-te a, paipel lian sagih a dim hi.
 
 **Grammar:** plural: uh marker
 

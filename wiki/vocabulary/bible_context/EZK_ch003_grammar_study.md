@@ -70,18 +70,18 @@
 ### v6
 **EN:** Not to many people of a strange speech and of an hard language, whose words thou canst not understand. Surely, had I sent thee to them, they would have hearkened unto thee.
 
-**TDB77:** A pau na theih loh, pau haksa a zang minam liante kiangah nang hong sawl hi leng, amaute in na thugen hong mang ding uh hi.
+**TDB77:** A pau na theih loh, pau haksa a zang minam liante kiangah nang hong sawl hi leng, amaute in na thugen hong mang ding-te hi.
 
-**ZVS:** A pau na theihloh, pau haksa a zang minam liante kiangah nang hong sawl hi leng, amaute in na thugen hong mang ding uh hi.
+**ZVS:** A pau na theihloh, pau haksa a zang minam liante kiangah nang hong sawl hi leng, amaute in na thugen hong mang ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** But the house of Israel will not hearken unto thee; for they will not hearken unto me: for all the house of Israel are impudent and hardhearted.
 
-**TDB77:** Ahi zongin Israel mite khat beek in na thu hong ngai lo ding hi; keima kam teekteek nangawn ngai lo ding uh hi. Amaute a lungsim uh khauh a, dem nopna lungsim nei uh hi.
+**TDB77:** Ahi zongin Israel mite khat beek in na thu hong ngai lo ding hi; keima kam teekteek nangawn ngai lo ding-te hi. Amaute a lungsim-te khauh a, dem nopna lungsim nei-te hi.
 
-**ZVS:** Ahi zongin Israel mite khat beek in na thu hong ngailo ding uh hi. Keima kam teekteek nangawn ngailo ding uh hi. Amaute a lungsim uh khauh a, demnopna lungsim nei uh hi.
+**ZVS:** Ahi zongin Israel mite khat beek in na thu hong ngailo ding-te hi. Keima kam teekteek nangawn ngailo ding-te hi. Amaute a lungsim-te khauh a, demnopna lungsim nei-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -251,9 +251,9 @@
 ### v27
 **EN:** But when I speak with thee, I will open thy mouth, and thou shalt say unto them, Thus saith the Lord
 
-**TDB77:** Ahi zongin nang kong hopih kik ciangin kong pausak thei kik ding a, amaute kiangah, “Topa Pasian in hih bangin ci hi,’ na ci ding hi. Tua ciangin mi pawlkhat in na thu hong ngai ding a, ahi zongin amaute pen a lehdo thei minam ahih manin pawlkhat in na thu hong ngai lo ding uh hi,” hong ci hi.
+**TDB77:** Ahi zongin nang kong hopih kik ciangin kong pausak thei kik ding a, amaute kiangah, “Topa Pasian in hih bangin ci hi,’ na ci ding hi. Tua ciangin mi pawlkhat in na thu hong ngai ding a, ahi zongin amaute pen a lehdo thei minam ahih manin pawlkhat in na thu hong ngai lo ding-te hi,” hong ci hi.
 
-**ZVS:** Ahi zongin nang kong hopih kik ciangin kong pau theisak kik ding a, amaute kiangah, ‘{ Topa } Pasian in hih bangin ci hi,’ na ci ding hi. Tua ciangin mi pawlkhat in na thu hong ngai ding uh a, ahi zongin amaute pen a lehdo thei minam ahih uh manin pawlkhat in na thu hong ngailo ding uh hi,” a hong ci hi.
+**ZVS:** Ahi zongin nang kong hopih kik ciangin kong pau theisak kik ding a, amaute kiangah, ‘{ Topa } Pasian in hih bangin ci hi,’ na ci ding hi. Tua ciangin mi pawlkhat in na thu hong ngai ding-te a, ahi zongin amaute pen a lehdo thei minam ahih-te manin pawlkhat in na thu hong ngailo ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 

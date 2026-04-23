@@ -358,7 +358,7 @@ God named what was above the horizon "sky."
 | Country/land | **Gam** | gam |
 | Son | **Tapa** | tapa |
 | Lord | **Topa** | topa |
-| Teacher | **Kumpipa** | Siangpahrang |
+| Teacher | **Kumpipa** | kumpipa |
 | That/then | **Tua** | tua / tua |
 | Life | **Nuntakna** | Nunnak |
 | Freedom | **Suahtakna** | Zalenna |

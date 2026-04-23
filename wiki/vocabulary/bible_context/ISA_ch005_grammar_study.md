@@ -42,9 +42,9 @@
 ### v3
 **EN:** And now, O inhabitants of Jerusalem, and men of Judah, judge, I pray you, betwixt me and my vineyard.
 
-**TDB77:** Tu-in, Jerusalem khua-a teengte leh Judah mite aw, kei leh ka leenggui lo kikal-ah thu nong khen nading uh kong thuum hi.
+**TDB77:** Tu-in, Jerusalem khua-a teengte leh Judah mite aw, kei leh ka leenggui lo kikal-ah thu nong khen nading-te kong thuum hi.
 
-**ZVS:** Tu-in, Jerusalem khua-ah a tengte leh Judah mite aw, kei leh ka leenggui lo kikalah thu nong khenna ding uh ka hong thum hi.
+**ZVS:** Tu-in, Jerusalem khua-ah a tengte leh Judah mite aw, kei leh ka leenggui lo kikalah thu nong khenna ding-te ka hong thum hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -121,18 +121,18 @@
 ### v12
 **EN:** And the harp, and the viol, the tabret, and pipe, and wine, are in their feasts: but they regard not the work of the
 
-**TDB77:** Amaute in a pawi sung uhah laiza la sakna leh harp la sakna, khuang, tamngai leh leenggahzu tampi nei uh hi; ahih hangin amaute in Topa’ sepnate don lo uh a, a khut tawh a bawlte zong mu lo uh hi.
+**TDB77:** Amaute in a pawi sung uhah laiza la sakna leh harp la sakna, khuang, tamngai leh leenggahzu tampi nei-te hi; ahih hangin amaute in Topa’ sepnate don lo-te a, a khut tawh a bawlte zong mu lo-te hi.
 
-**ZVS:** Amaute in a pawi sung uhah laia lasakna leh harp lasakna, khuang, tamngai, leh leenggahzu, tampi a nei uh hi. Ahih hangin amaute in { Topa}' sepnate donlo uh a, a khut tawh a bawlte zong mulo uh hi.
+**ZVS:** Amaute in a pawi sung uhah laia lasakna leh harp lasakna, khuang, tamngai, leh leenggahzu, tampi a nei-te hi. Ahih hangin amaute in { Topa}' sepnate donlo-te a, a khut tawh a bawlte zong mulo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v13
 **EN:** Therefore my people are gone into captivity, because they have no knowledge: and their honourable men are famished, and their multitude dried up with thirst.
 
-**TDB77:** Tua ahih ciangin thu theihlohna hangin ka mite sal suak uh hi; amau’ mi liante gilkialin si dek uh a, a mihonte uh dangtakin keu uh hi.
+**TDB77:** Tua ahih ciangin thu theihlohna hangin ka mite sal suak-te hi; amau’ mi liante gilkialin si dek-te a, a mihonte-te dangtakin keu-te hi.
 
-**ZVS:** Tua hi a, thu theihlohna hangin ka mite sal suak uh hi. A miliante uh gilkialin si dek uh a, a mihonte uh dangtakin keu uh hi.
+**ZVS:** Tua hi a, thu theihlohna hangin ka mite sal suak-te hi. A miliante-te gilkialin si dek-te a, a mihonte-te dangtakin keu-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -166,16 +166,16 @@
 ### v17
 **EN:** Then shall the lambs feed after their manner, and the waste places of the fat ones shall strangers eat.
 
-**TDB77:** Tua ciangin tuunote in amau’ tatna gamlak mun bangin lopa ne ding uh a, a thau ganhingte leh keelnote in a siasa khuapi sungah gamta ding uh hi.
+**TDB77:** Tua ciangin tuunote in amau’ tatna gamlak mun bangin lopa ne ding-te a, a thau ganhingte leh keelnote in a siasa khuapi sungah gamta ding-te hi.
 
-**ZVS:** Tua ciangin tuunote in amau' tatna gamlak mun bangin tua khuasungah lopa ne ding uh a, a thau ganhingte leh keelnote a siasa khuapi sungah gamta ding uh hi.
+**ZVS:** Tua ciangin tuunote in amau' tatna gamlak mun bangin tua khuasungah lopa ne ding-te a, a thau ganhingte leh keelnote a siasa khuapi sungah gamta ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v19
 **EN:** That say, Let him make speed, and hasten his work, that we may see it: and let the counsel of the Holy One of Israel draw nigh and come, that we may know it!
 
-**TDB77:** Amaute in, “I muh theihna dingin amah manlang sakin, ama nasep khawlsak ni. Israel-te' Siangtho Pa' deihna i theih theihna dingin naisakin tungsak ni!” ci-in ganhing kaih bangin khauzen tawh mawhna kai-in, khauhualpi tawh khialhna kai uh ahih manin gimna ngah ta uh hen.
+**TDB77:** Amaute in, “I muh theihna dingin amah manlang sakin, ama nasep khawlsak ni. Israel-te' Siangtho Pa' deihna i theih theihna dingin naisakin tungsak ni!” ci-in ganhing kaih bangin khauzen tawh mawhna kai-in, khauhualpi tawh khialhna kai-te ahih manin gimna ngah ta-te hen.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | causal: because
 
@@ -212,9 +212,9 @@
 ### v24
 **EN:** Therefore as the fire devoureth the stubble, and the flame consumeth the chaff, so their root shall be as rottenness, and their blossom shall go up as dust: because they have cast away the law of the
 
-**TDB77:** Tua ahih ciangin, mei in buhkung keute kangtum a, meikuang sungah lopa keute a kattum bangin, amaute’ zung pen muatna hi ding a, amaute’ pak palhte pen leivui bangin van-ah leengto ding hi; bang hang hiam cih leh Vanglianpen Topa’ thu nialin, Israelte’ Siangtho Pa’ thu simmawh uh hi.
+**TDB77:** Tua ahih ciangin, mei in buhkung keute kangtum a, meikuang sungah lopa keute a kattum bangin, amaute’ zung pen muatna hi ding a, amaute’ pak palhte pen leivui bangin van-ah leengto ding hi; bang hang hiam cih leh Vanglianpen Topa’ thu nialin, Israelte’ Siangtho Pa’ thu simmawh-te hi.
 
-**ZVS:** Tua ahih ciangin mei in buhkung keute kangtum a, meikuang sungah lopa keute a kattum bangin amaute' zung pen muatgawp ding a, amaute' pakpalhte leivui bangin vanah leengto ding hi. Bang hang hiam cih leh amaute in Vanglian { Topa}' thu nialin Israel-te' Siangtho Pa' thu a simmawh uh hi.
+**ZVS:** Tua ahih ciangin mei in buhkung keute kangtum a, meikuang sungah lopa keute a kattum bangin amaute' zung pen muatgawp ding a, amaute' pakpalhte leivui bangin vanah leengto ding hi. Bang hang hiam cih leh amaute in Vanglian { Topa}' thu nialin Israel-te' Siangtho Pa' thu a simmawh-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -239,36 +239,36 @@
 ### v27
 **EN:** None shall be weary nor stumble among them; none shall slumber nor sleep; neither shall the girdle of their loins be loosed, nor the latchet of their shoes be broken:
 
-**TDB77:** Tua a hong pai mite kuamah gim lo uh hi, kuamah tuk lo uh hi, kuamah lusu lo, ihmu lo uh hi, dialkaih khat zong kol lo hi, khedap khau khat zong tat lo hi;
+**TDB77:** Tua a hong pai mite kuamah gim lo-te hi, kuamah tuk lo-te hi, kuamah lusu lo, ihmu lo-te hi, dialkaih khat zong kol lo hi, khedap khau khat zong tat lo hi;
 
-**ZVS:** Tua a hong pai mite kuamah gimlo uh a, kuamah tuklo uh hi. Kuamah lusu lo a, kuamah ihmu lo uh hi. Dialkaih khat zong kollo a, khedap khau khat zong kitat lo hi.
+**ZVS:** Tua a hong pai mite kuamah gimlo-te a, kuamah tuklo-te hi. Kuamah lusu lo a, kuamah ihmu lo-te hi. Dialkaih khat zong kollo a, khedap khau khat zong kitat lo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v28
 **EN:** Whose arrows are sharp, and all their bows bent, their horses' hoofs shall be counted like flint, and their wheels like a whirlwind:
 
-**TDB77:** amau’ thaltangte hiam a, a thal khempeuh uh a kikeeksa ahi hi, amau sakolte’ khecinte pen meisuang bangin sak a, a leengpeite uh pingpei bangin manlang hi.
+**TDB77:** amau’ thaltangte hiam a, a thal khempeuh-te a kikeeksa ahi hi, amau sakolte’ khecinte pen meisuang bangin sak a, a leengpeite-te pingpei bangin manlang hi.
 
-**ZVS:** Amau' thaltangte hiam a, a thal khempeuh uh a kikeeksa ahi hi. Amau' sakolte' khecinte meisuang bangin sak a, a leengpeite uh pingpei bangin manlang hi.
+**ZVS:** Amau' thaltangte hiam a, a thal khempeuh-te a kikeeksa ahi hi. Amau' sakolte' khecinte meisuang bangin sak a, a leengpeite-te pingpei bangin manlang hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** Their roaring shall be like a lion, they shall roar like young lions: yea, they shall roar, and lay hold of the prey, and shall carry it away safe, and none shall deliver it.
 
-**TDB77:** Amaute’ kikona pen humpinelkai hawk tawh kibang a, humpinelkai khanglaite bangin amaute hawk uh hi; amaute humhamin a sa nek ding uh man uh a, amaute in puakhia-in kuamah in honkhia zo lo hi.
+**TDB77:** Amaute’ kikona pen humpinelkai hawk tawh kibang a, humpinelkai khanglaite bangin amaute hawk-te hi; amaute humhamin a sa nek ding-te man-te a, amaute in puakhia-in kuamah in honkhia zo lo hi.
 
-**ZVS:** Amaute' kikona pen humpinelkai hawk bang a, humpinelkai khanglaite bangin amaute a hawk uh hi. Amaute humhamin a sa nek ding uh man uh a, amaute in puakhia-in kuamah in honkhia zolo hi.
+**ZVS:** Amaute' kikona pen humpinelkai hawk bang a, humpinelkai khanglaite bangin amaute a hawk-te hi. Amaute humhamin a sa nek ding-te man-te a, amaute in puakhia-in kuamah in honkhia zolo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** And in that day they shall roar against them like the roaring of the sea: and if one look unto the land, behold darkness and sorrow, and the light is darkened in the heavens thereof.
 
-**TDB77:** Tua ni ciangin amaute in tuipi ging bangin Israel tungah ngik ding uh hi. Mi khatpeuh in leitang en leh, khuamialna leh lungzin’na bek om hi; meiite in khua mialsak hi.
+**TDB77:** Tua ni ciangin amaute in tuipi ging bangin Israel tungah ngik ding-te hi. Mi khatpeuh in leitang en leh, khuamialna leh lungzin’na bek om hi; meiite in khua mialsak hi.
 
-**ZVS:** Tua ni ciangin amaute in tuipi ging bangin Israel ngik ding uh hi. Mi khatpeuh in hih gamsung en leh khuamial leh lungzin'na bek om a, meiite in khua a mialsak hi.
+**ZVS:** Tua ni ciangin amaute in tuipi ging bangin Israel ngik ding-te hi. Mi khatpeuh in hih gamsung en leh khuamial leh lungzin'na bek om a, meiite in khua a mialsak hi.
 
 **Grammar:** future: will | plural: uh marker
 

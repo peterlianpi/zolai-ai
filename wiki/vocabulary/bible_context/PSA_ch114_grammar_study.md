@@ -19,9 +19,9 @@
 ### v1
 **EN:** When Israel went out of Egypt, the house of Jacob from a people of strange language;
 
-**TDB77:** Israelte Izipt gam pan pusuakin, Jakob innkuanpihte paudang a zang mite kiang pan a paikhiat uh ciangin,
+**TDB77:** Israelte Izipt gam pan pusuakin, Jakob innkuanpihte paudang a zang mite kiang pan a paikhiat-te ciangin,
 
-**ZVS:** Israel-te, Egypt gam panin pusuakin, Jakob innkuanpihte paudang a zang mite kiang pan a paikhiat uh ciangin
+**ZVS:** Israel-te, Egypt gam panin pusuakin, Jakob innkuanpihte paudang a zang mite kiang pan a paikhiat-te ciangin
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -44,9 +44,9 @@
 ### v4
 **EN:** The mountains skipped like rams, and the little hills like lambs.
 
-**TDB77:** Mualliante tuutal bangin diang uh a, mualneute tuuno bangin a diang uh hi.
+**TDB77:** Mualliante tuutal bangin diang-te a, mualneute tuuno bangin a diang-te hi.
 
-**ZVS:** Mual liante tuutal bangin diang uh a, mual neute tuuno bangin a diang uh hi.
+**ZVS:** Mual liante tuutal bangin diang-te a, mual neute tuuno bangin a diang-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -60,9 +60,9 @@
 ### v6
 **EN:** Ye mountains, that ye skipped like rams; and ye little hills, like lambs?
 
-**TDB77:** Mualliante aw, tuutal bangin, mualneute aw, tuuno bangin na dian’ nading uh bang in hong nasak ahi hiam?
+**TDB77:** Mualliante aw, tuutal bangin, mualneute aw, tuuno bangin na dian’ nading-te bang in hong nasak ahi hiam?
 
-**ZVS:** mual liante aw, tuu bangin mual neute aw, tuuno bangin na dian'na ding uh bang in hong nasak ahi hiam?
+**ZVS:** mual liante aw, tuu bangin mual neute aw, tuuno bangin na dian'na ding-te bang in hong nasak ahi hiam?
 
 ### v8
 **EN:** Which turned the rock into a standing water, the flint into a fountain of waters.

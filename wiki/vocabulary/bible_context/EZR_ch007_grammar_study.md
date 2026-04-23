@@ -64,27 +64,27 @@
 ### v7
 **EN:** And there went up some of the children of Israel, and of the priests, and the Levites, and the singers, and the porters, and the Nethinims, unto Jerusalem, in the seventh year of Artaxerxes the king.
 
-**TDB77:** Kumpi Artakzaksis in a uk a kum sagihna kumin Israel mite, siampite, Levi mite, lasate, kongcingte, leh biakinn nasemte pawlkhat zong, Jerusalem ah Ezra tawh paito uh hi.
+**TDB77:** Kumpi Artakzaksis in a uk a kum sagihna kumin Israel mite, siampite, Levi mite, lasate, kongcingte, leh biakinn nasemte pawlkhat zong, Jerusalem ah Ezra tawh paito-te hi.
 
-**ZVS:** Kumpi Artakzaksis in a uk a kum sagihna kumin Israel mite, siampite, Levi mite, lasate, kongcingte, leh biak-inn nasem pawlkhat zong, Jerusalem-ah Ezra tawh tungto uh hi.
+**ZVS:** Kumpi Artakzaksis in a uk a kum sagihna kumin Israel mite, siampite, Levi mite, lasate, kongcingte, leh biak-inn nasem pawlkhat zong, Jerusalem-ah Ezra tawh tungto-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** And he came to Jerusalem in the fifth month, which was in the seventh year of the king.
 
-**TDB77:** Kumpipa’ uk kum sagih a cin’ kum, a kha ngana sungin Jerusalem tung uh hi;
+**TDB77:** Kumpipa’ uk kum sagih a cin’ kum, a kha ngana sungin Jerusalem tung-te hi;
 
-**ZVS:** Kumpipa' uk kum sagih a cin' kum, a kha ngana sungin Jerusalem tung uh hi.
+**ZVS:** Kumpipa' uk kum sagih a cin' kum, a kha ngana sungin Jerusalem tung-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** For upon the first day of the first month began he to go up from Babylon, and on the first day of the fifth month came he to Jerusalem, according to the good hand of his God upon him.
 
-**TDB77:** a kha masa a ni khat ni-in Babilon panin dingkhia dingin Ezra in a ni sehkhol a, a kha ngana a ni khat ni-in Jerusalem tung uh hi; bang hang hiam cih leh Pasian in amah ompih hi.
+**TDB77:** a kha masa a ni khat ni-in Babilon panin dingkhia dingin Ezra in a ni sehkhol a, a kha ngana a ni khat ni-in Jerusalem tung-te hi; bang hang hiam cih leh Pasian in amah ompih hi.
 
-**ZVS:** A kha masa a ni khat ni-in Babylon pan a dingkhia dingin Ezra in a ni sehkhol a, a kha ngana a ni khat ni-in Jerusalem a tung uh hi; bang hang hiam cih leh Pasian in amah ompih hi.
+**ZVS:** A kha masa a ni khat ni-in Babylon pan a dingkhia dingin Ezra in a ni sehkhol a, a kha ngana a ni khat ni-in Jerusalem a tung-te hi; bang hang hiam cih leh Pasian in amah ompih hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -118,18 +118,18 @@
 ### v13
 **EN:** I make a decree, that all they of the people of Israel, and of his priests and Levites, in my realm, which are minded of their own freewill to go up to Jerusalem, go with thee.
 
-**TDB77:** Ka lungsim khentatna in hih bang ahi hi. Ka gam sunga om Israel mi khatpeuh ahi a, a siampite ahi uh a, Levi mite ahi zongin, Jerusalem ah a painuam khempeuh in nang hong zuih theih nadingun thu ka pia hi.
+**TDB77:** Ka lungsim khentatna in hih bang ahi hi. Ka gam sunga om Israel mi khatpeuh ahi a, a siampite ahi-te a, Levi mite ahi zongin, Jerusalem ah a painuam khempeuh in nang hong zuih theih nadingun thu ka pia hi.
 
-**ZVS:** “Ka lungsim khentatna hih bang ahi hi: Ka gamsunga om Israel mi khatpeuh ahi a, a siampite uh ahi a, Levi mite ahi zongin, Jerusalem-ah a ciahkik nuam khempeuh in nang hong zuih theihna dingun thu ka pia hi.
+**ZVS:** “Ka lungsim khentatna hih bang ahi hi: Ka gamsunga om Israel mi khatpeuh ahi a, a siampite-te ahi a, Levi mite ahi zongin, Jerusalem-ah a ciahkik nuam khempeuh in nang hong zuih theihna dingun thu ka pia hi.
 
 **Grammar:** plural: uh marker
 
 ### v14
 **EN:** Forasmuch as thou art sent of the king, and of his seven counsellors, to enquire concerning Judah and Jerusalem, according to the law of thy God which is in thine hand;
 
-**TDB77:** Nang tungah hong kipia ahi na Pasian’ thukham tawh kisai-in Judah leh Jerusalem ah thu bangci om hiam cih a va thei dingin kumpipa keimah leh thu hong lamlak mihing sagihte in kong sawl uh hi.
+**TDB77:** Nang tungah hong kipia ahi na Pasian’ thukham tawh kisai-in Judah leh Jerusalem ah thu bangci om hiam cih a va thei dingin kumpipa keimah leh thu hong lamlak mihing sagihte in kong sawl-te hi.
 
-**ZVS:** Nang tungah hong kipia ahi na Pasian' thukham tawh kisai-in Judah leh Jerusalem-ah thu bangci om hiam cih a va thei dingin kumpipa keimah leh thu hong lamlak mihing sagihte in kong sawl uh hi.
+**ZVS:** Nang tungah hong kipia ahi na Pasian' thukham tawh kisai-in Judah leh Jerusalem-ah thu bangci om hiam cih a va thei dingin kumpipa keimah leh thu hong lamlak mihing sagihte in kong sawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -143,27 +143,27 @@
 ### v16
 **EN:** And all the silver and gold that thou canst find in all the province of Babylon, with the freewill offering of the people, and of the priests, offering willingly for the house of their God which is in Jerusalem:
 
-**TDB77:** Babilon gam sunga na muh uh ngun leh khamte, leh Jerusalem a, note’ Pasian’ inn dingin mite leh siampite in lungkim takin a piakkhiat zuahzuahte uh tawh a va puakkhawm ding na hi hi.
+**TDB77:** Babilon gam sunga na muh-te ngun leh khamte, leh Jerusalem a, note’ Pasian’ inn dingin mite leh siampite in lungkim takin a piakkhiat zuahzuahte-te tawh a va puakkhawm ding na hi hi.
 
-**ZVS:** Babylon gamah na muh uh ngun leh khamte, leh Jerusalem-a note' Pasian' biakinn dingin mite leh siampite in lungkim takin a piak khiat zuazuate uh tawh a va puakkhawm ding na hi uh hi.
+**ZVS:** Babylon gamah na muh-te ngun leh khamte, leh Jerusalem-a note' Pasian' biakinn dingin mite leh siampite in lungkim takin a piak khiat zuazuate-te tawh a va puakkhawm ding na hi-te hi.
 
 **Grammar:** purpose: in order to
 
 ### v17
 **EN:** That thou mayest buy speedily with this money bullocks, rams, lambs, with their meat offerings and their drink offerings, and offer them upon the altar of the house of your God which is in Jerusalem.
 
-**TDB77:** Hih ka thupiakna tawh kizui-in hih sumte pen Jerusalem a, note’ Pasian inn-a biakna tau tungah piak dingin bawngtalte, tuutalte, tuunote, leh a an tawh biaknate leh a leenggahzu tawh biak nadingte lei nading bekin na zang ding uh hi.
+**TDB77:** Hih ka thupiakna tawh kizui-in hih sumte pen Jerusalem a, note’ Pasian inn-a biakna tau tungah piak dingin bawngtalte, tuutalte, tuunote, leh a an tawh biaknate leh a leenggahzu tawh biak nadingte lei nading bekin na zang ding-te hi.
 
-**ZVS:** “Hih ka thupiakna tawh kizui-in hih sumte pen Jerusalem-a note' Pasian' biakinn-a biakna tau tungah piak dingin bawngtalte, tuutalte, tuunote, leh a an tawh biaknate, leh a leenggahzu tawh biakna dingte leina ding bekin na zang ding uh hi.
+**ZVS:** “Hih ka thupiakna tawh kizui-in hih sumte pen Jerusalem-a note' Pasian' biakinn-a biakna tau tungah piak dingin bawngtalte, tuutalte, tuunote, leh a an tawh biaknate, leh a leenggahzu tawh biakna dingte leina ding bekin na zang ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And whatsoever shall seem good to thee, and to thy brethren, to do with the rest of the silver and the gold, that do after the will of your God.
 
-**TDB77:** Tua banah ngun leh kham a val a om lai leh, note’ Pasian’ deihna tawh kituakin hoih na sak bangun na lawmte tawh na zang thei ding uh hi.
+**TDB77:** Tua banah ngun leh kham a val a om lai leh, note’ Pasian’ deihna tawh kituakin hoih na sak bangun na lawmte tawh na zang thei ding-te hi.
 
-**ZVS:** Tua banah ngun leh kham a val a omlai leh, note' Pasian' deihna tawh kituakin hoih na sak bangun na lawmte tawh na zang thei ding uh hi.
+**ZVS:** Tua banah ngun leh kham a val a omlai leh, note' Pasian' deihna tawh kituakin hoih na sak bangun na lawmte tawh na zang thei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -197,9 +197,9 @@
 ### v22
 **EN:** Unto an hundred talents of silver, and to an hundred measures of wheat, and to an hundred baths of wine, and to an hundred baths of oil, and salt without prescribing how much.
 
-**TDB77:** ngun talen zakhat, mangbuh seu zakhat, leenggahzu tambong zanih, sathau tambong zanih ciang, leh ci a deih zahzah na pia ding uh hi.
+**TDB77:** ngun talen zakhat, mangbuh seu zakhat, leenggahzu tambong zanih, sathau tambong zanih ciang, leh ci a deih zahzah na pia ding-te hi.
 
-**ZVS:** ngun talen za khat, mangbuh seu za khat, leenggahzu tambong za nih, sathau tambong za nih ciang, leh ci a deih zahzah na pia ding uh hi.
+**ZVS:** ngun talen za khat, mangbuh seu za khat, leenggahzu tambong za nih, sathau tambong za nih ciang, leh ci a deih zahzah na pia ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -215,18 +215,18 @@
 ### v24
 **EN:** Also we certify you, that touching any of the priests and Levites, singers, porters, Nethinims, or ministers of this house of God, it shall not be lawful to impose toll, tribute, or custom, upon them.
 
-**TDB77:** Siampite, Levi mite, lasate, kongcingte, biakinn nasemte, ahih kei leh hih Pasian’ inn-a nasemte khat peuhpeuh tung panin siah ahi a, mangmu ahi a, lo sap ahi zongin lak nading thu na neih lohna uh zong kong zasak uh hi, ka ci hi.
+**TDB77:** Siampite, Levi mite, lasate, kongcingte, biakinn nasemte, ahih kei leh hih Pasian’ inn-a nasemte khat peuhpeuh tung panin siah ahi a, mangmu ahi a, lo sap ahi zongin lak nading thu na neih lohna-te zong kong zasak-te hi, ka ci hi.
 
-**ZVS:** Siampite, Levi mite, lasate, kongcingte, biakinn nasemte, ahih kei leh hih Pasian' biakinn-a nasemte khat peuhpeuh tung panin siah ahi a, mangmu ahi a, losap ahi zongin lakna ding thu na neih lohna uh zong kong zasak uh hi, ka ci hi.
+**ZVS:** Siampite, Levi mite, lasate, kongcingte, biakinn nasemte, ahih kei leh hih Pasian' biakinn-a nasemte khat peuhpeuh tung panin siah ahi a, mangmu ahi a, losap ahi zongin lakna ding thu na neih lohna-te zong kong zasak-te hi, ka ci hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v25
 **EN:** And thou, Ezra, after the wisdom of thy God, that is in thine hand, set magistrates and judges, which may judge all the people that are beyond the river, all such as know the laws of thy God; and teach ye them that know them not.
 
-**TDB77:** “Tua hi a, nang Ezra in nang tungah hong kipia na Pasian’ pilna tawh kizui-in Eufrates Gungal gam sunga mite thu a khen dingin na Pasian’ thukham a thei mite seh in; nang leh amaute in na Pasian’ thukham a thei lote na hilh ding uh hi.
+**TDB77:** “Tua hi a, nang Ezra in nang tungah hong kipia na Pasian’ pilna tawh kizui-in Eufrates Gungal gam sunga mite thu a khen dingin na Pasian’ thukham a thei mite seh in; nang leh amaute in na Pasian’ thukham a thei lote na hilh ding-te hi.
 
-**ZVS:** “Tua hi a, nang Ezra in nang tungah hong kipia na Pasian' pilna tawh kizui-in Eufratis Gungal gamsunga mite thu a khen dingin na Pasian' thukham a thei mite seh in. Nang leh amaute in na Pasian' thukham a theilote na hilh ding uh hi.
+**ZVS:** “Tua hi a, nang Ezra in nang tungah hong kipia na Pasian' pilna tawh kizui-in Eufratis Gungal gamsunga mite thu a khen dingin na Pasian' thukham a thei mite seh in. Nang leh amaute in na Pasian' thukham a theilote na hilh ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

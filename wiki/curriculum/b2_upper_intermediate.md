@@ -98,4 +98,4 @@ Used when weighing two options or declaring the highest state, heavily utilizing
 - love (verb) = `it` NOT `lungdam` (lungdam=glad/thankful)
 - God loves us = `Pasian in eite hong it hi` NOT `kei te a lungdam hi`
 - we (subject) = `i` (prefix) or `eite` (emphatic) NOT `kei te`
-- we went = `I pai hi` NOT `I pai uh hi` (never uh with i)
+- we went = `I pai hi` NOT `I pai-te hi` (never-te with i)

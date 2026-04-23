@@ -11,7 +11,7 @@
 
 ## but
 
-- `[TDB77]` *And the sons of Nadab; Seled, and Appaim: but Seled died without child* → **Nadab’ tapate in: Seled leh Appaim ahi uh hi; Seled in ta nei loin si **
+- `[TDB77]` *And the sons of Nadab; Seled, and Appaim: but Seled died without child* → **Nadab’ tapate in: Seled leh Appaim ahi-te hi; Seled in ta nei loin si **
 - `[TDB77]` *Now Sheshan had no sons, but daughters. And Sheshan had a servant, an * → **Tu-in Sheshan in tapa nei loin tanu bek nei hi; ahih hangin Sheshan in**
 - `[TDB77]` *For Judah prevailed above his brethren, and of him came the chief rule* → **Judah in a sanggamte lakah a thahat suakin ama sung panin ulian khat a**
 - `[TDB77]` *But the fields of the city, and the villages thereof, they gave to Cal* → **ahih hangin khuapi lote leh a khuaneute Jefunneh’ tapa Kaleb tungah pi**
@@ -20,7 +20,7 @@
 
 - `[TDB77]` *And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the * → **Meonothai in Ofraih’ pa ahi hi; Seraiah in Joab’ pa hi a, Joab in Geha**
 - `[TDB77]` *These were the potters, and those that dwelt among plants and hedges: * → **Hihte in beelseekte hi a, Netaim khua leh Gederah khua ah a teengte ah**
-- `[TDB77]` *And they went to the entrance of Gedor, even unto the east side of the* → **A tuuhonte uh adingin lonona zong dingin kuam nisuahna lam pang, Gedor**
+- `[TDB77]` *And they went to the entrance of Gedor, even unto the east side of the* → **A tuuhonte-te adingin lonona zong dingin kuam nisuahna lam pang, Gedor**
 - `[TDB77]` *For Judah prevailed above his brethren, and of him came the chief rule* → **Judah in a sanggamte lakah a thahat suakin ama sung panin ulian khat a**
 
 ## therefore
@@ -48,12 +48,12 @@
 
 - `[TDB77]` *For there fell down many slain, because the war was of God. And they d* → **Tua gal in Pasian’ gal ahih manin mi tampi tak kithatin puk hi. Tua ci**
 - `[TDB77]` *For at that time day by day there came to David to help him, until it * → **Pasian’ galkap hon bangin galkap hon tampi a phak dongin a ni ni-in Da**
-- `[TDB77]` *For as often as ye eat this bread, and drink this cup, ye do shew the * → **Bang hang hiam na cih uh leh, note in hih khomun ne-in, hih hai na daw**
+- `[TDB77]` *For as often as ye eat this bread, and drink this cup, ye do shew the * → **Bang hang hiam na cih-te leh, note in hih khomun ne-in, hih hai na daw**
 - `[TDB77]` *For he must reign, till he hath put all enemies under his feet.* → **Pasian in galte khempeuh ama khe nuai-ah a khiat khit dong matengin Kh**
 
 ## although
 
-- `[TDB77]` *Now some are puffed up, as though I would not come to you.* → **Kei hong pai lo ding ci-in mi kimkhat in a kihisak uh hi.**
+- `[TDB77]` *Now some are puffed up, as though I would not come to you.* → **Kei hong pai lo ding ci-in mi kimkhat in a kihisak-te hi.**
 - `[TDB77]` *But this I say, brethren, the time is short: it remaineth, that both t* → **Ute naute aw, ke’n kong cih-inah, a hun a tom ahih ciangin zi neite in**
 - `[TDB77]` *For though there be that are called gods, whether in heaven or in eart* → **pasian a tampi leh topa a tampi a om bangin, vantung leh leitungah pas**
 - `[TDB77]` *For though I be free from all men, yet have I made myself servant unto* → **Keimah in kuamah’ sila ka hih loh hangin mi tampi ka ngah nadingin mi **
@@ -63,12 +63,12 @@
 - `[TDB77]` *These are their generations: The firstborn of Ishmael, Nebaioth; then * → **Hihte in amau’ khangsimna ahi hi: Ishmael’ tacil in Nebaioth ahi hi; t**
 - `[TDB77]` *And after that Hezron was dead in Caleb–ephratah, then Abiah Hezron's * → **Hezron a sih khit ciangin Kaleb in a pa Hezron’ zi Efrath luppih a, tu**
 - `[TDB77]` *And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, an* → **a tapa upa pen in Abdon, tua ciangin Zur, Kish, Baal, Ner, Nadab,**
-- `[TDB77]` *Then all Israel gathered themselves to David unto Hebron, saying, Beho* → **Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm uh a, “En**
+- `[TDB77]` *Then all Israel gathered themselves to David unto Hebron, saying, Beho* → **Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm-te a, “En**
 
 ## also/too
 
 - `[TDB77]` *The Jebusite also, and the Amorite, and the Girgashite,* → **leh Jubus mite, Amor mite, Girgash mite,**
 - `[TDB77]` *Hadoram also, and Uzal, and Diklah,* → **Hadoram mite, Uzal mite, Diklah mite,**
 - `[TDB77]` *Hadad died also. And the dukes of Edom were; duke Timnah, duke Alvah, * → **Tua ciangin Hadad si hi. Edom ukpite in: ukpi Timna, Aliah, Jetheth,**
-- `[TDB77]` *The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, * → **Ama sung panin a suak Hezron’ tapate in: Jerahme-el, Ram, leh Khelubai**
+- `[TDB77]` *The sons also of Hezron, that were born unto him; Jerahmeel, and gam, * → **Ama sung panin a suak Hezron’ tapate in: Jerahme-el, gam, leh Khelubai**
 

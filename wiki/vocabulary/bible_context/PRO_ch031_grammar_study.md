@@ -55,9 +55,9 @@
 ### v5
 **EN:** Lest they drink, and forget the law, and pervert the judgment of any of the afflicted.
 
-**TDB77:** Zu ne le uh, thukham mangngilh uh a, thukham hei-in mizawngte gim pia kha thei uh hi.
+**TDB77:** Zu ne le uh, thukham mangngilh-te a, thukham hei-in mizawngte gim pia kha thei-te hi.
 
-**ZVS:** Zu ne le uh, thukham mangngilh uh a, thukham hei-in mizawngte gim pia khathei uh hi.
+**ZVS:** Zu ne le uh, thukham mangngilh-te a, thukham hei-in mizawngte gim pia khathei-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -69,9 +69,9 @@
 ### v7
 **EN:** Let him drink, and forget his poverty, and remember his misery no more.
 
-**TDB77:** Amaute ne sak lecin a zawn’na uh mangngilhin, a lungkhamna uh phawk nawn lo ding hi.
+**TDB77:** Amaute ne sak lecin a zawn’na-te mangngilhin, a lungkhamna-te phawk nawn lo ding hi.
 
-**ZVS:** Amaute nesak lecin a zawn'na uh mangngilhin, a lungkhamna uh phawk nawnlo ding uh hi.
+**ZVS:** Amaute nesak lecin a zawn'na-te mangngilhin, a lungkhamna-te phawk nawnlo ding-te hi.
 
 **Grammar:** future: will
 
@@ -105,9 +105,9 @@
 ### v11
 **EN:** The heart of her husband doth safely trust in her, so that he shall have no need of spoil.
 
-**TDB77:** A pasal in muang mahmah a, a innsung uh ah annek kitasam ngei lo uh hi,
+**TDB77:** A pasal in muang mahmah a, a innsung-te ah annek kitasam ngei lo-te hi,
 
-**ZVS:** A pasal in muang mahmah a, a innsung uhah annek kitasam ngeilo uh hi.
+**ZVS:** A pasal in muang mahmah a, a innsung uhah annek kitasam ngeilo-te hi.
 
 **Grammar:** intensifier: very/greatly | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -242,9 +242,9 @@
 ### v28
 **EN:** Her children arise up, and call her blessed; her husband also, and he praiseth her.
 
-**TDB77:** A tate in amah it uh a, a pasal in zong pakta mahmah a,
+**TDB77:** A tate in amah it-te a, a pasal in zong pakta mahmah a,
 
-**ZVS:** A tate in amah it mahmah uh a, a pasal in zong pakta mahmah a,
+**ZVS:** A tate in amah it mahmah-te a, a pasal in zong pakta mahmah a,
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 

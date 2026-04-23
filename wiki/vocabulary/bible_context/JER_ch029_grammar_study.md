@@ -59,88 +59,88 @@
 ### v5
 **EN:** Build ye houses, and dwell in them; and plant gardens, and eat the fruit of them;
 
-**TDB77:** Inn lam un la, a sungah teeng un. Huan bawl un la, a sunga na ciin’te uh ne un.
+**TDB77:** Inn lam un la, a sungah teeng un. Huan bawl un la, a sunga na ciin’te-te ne un.
 
-**ZVS:** Inn lam un la, a sungah teng un. Huan bawl un la, a sungah na cin'te uh ne un.
+**ZVS:** Inn lam un la, a sungah teng un. Huan bawl un la, a sungah na cin'te-te ne un.
 
 ### v6
 **EN:** Take ye wives, and beget sons and daughters; and take wives for your sons, and give your daughters to husbands, that they may bear sons and daughters; that ye may be increased there, and not diminished.
 
-**TDB77:** Zi pi un la, tanu tapa nei un. Na tapate uh ading mo la un la, na tanute uh mo khak un; tua hi leh amau in zong tanu tapa hong nei ding uh hi. Kiam kei un la, pung zaw un.
+**TDB77:** Zi pi un la, tanu tapa nei un. Na tapate-te ading mo la un la, na tanute-te mo khak un; tua hi leh amau in zong tanu tapa hong nei ding-te hi. Kiam kei un la, pung zaw un.
 
-**ZVS:** Zi pi un la tanu tapa nei un. Na tapate-a' ding mo la un la, na tanute uh mo kha un; tua hi leh amau in zong tanu tapa hong nei ding uh hi. Kiam kei un la, pungzaw un.
+**ZVS:** Zi pi un la tanu tapa nei un. Na tapate-a' ding mo la un la, na tanute-te mo kha un; tua hi leh amau in zong tanu tapa hong nei ding-te hi. Kiam kei un la, pungzaw un.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And seek the peace of the city whither I have caused you to be carried away captives, and pray unto the
 
-**TDB77:** Note sal-a kong koihna khuapi’ phattuam nading bawl un la, tua khuapi adingin Topa tungah thu ngetsak un. Bang hang hiam cih leh tua khuapi in phattuamna a ngah leh no zong phattuamna a ngah mah na hi uh hi.
+**TDB77:** Note sal-a kong koihna khuapi’ phattuam nading bawl un la, tua khuapi adingin Topa tungah thu ngetsak un. Bang hang hiam cih leh tua khuapi in phattuamna a ngah leh no zong phattuamna a ngah mah na hi-te hi.
 
-**ZVS:** Note salin kong koihna khuapi' phattuamna ding bawl un la, tua khuapi-a' dingin { Topa' } tungah thu ngetsak un. Bang hang hiam cih leh tua khuapi in phattuamna ngah leh no zong phattuamna a ngah mah na hi uh hi.
+**ZVS:** Note salin kong koihna khuapi' phattuamna ding bawl un la, tua khuapi-a' dingin { Topa' } tungah thu ngetsak un. Bang hang hiam cih leh tua khuapi in phattuamna ngah leh no zong phattuamna a ngah mah na hi-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v8
 **EN:** For thus saith the
 
-**TDB77:** A vanglian Topa, Israel mite’ Pasian in kong gen-inah: note lak-a om na kamsangte uh leh na aisan theite uh’ khem sa-in ta kei un la, a mang mat hong gente uh na ngai kei un.
+**TDB77:** A vanglian Topa, Israel mite’ Pasian in kong gen-inah: note lak-a om na kamsangte-te leh na aisan theite uh’ khem sa-in ta kei un la, a mang mat hong gente-te na ngai kei un.
 
-**ZVS:** Vanglian { Topa, } Israel mite' Pasian in kong genin-ah: Note' lakah a om na kamsangte uh leh na aisan theite uh' khemsa-in ta kei un la, a mangmat hong gente uh na ngai kei un.
+**ZVS:** Vanglian { Topa, } Israel mite' Pasian in kong genin-ah: Note' lakah a om na kamsangte-te leh na aisan theite uh' khemsa-in ta kei un la, a mangmat hong gente-te na ngai kei un.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v9
 **EN:** For they prophesy falsely unto you in my name: I have not sent them, saith the
 
-**TDB77:** Bang hang hiam cih leh ka min tawh no’ tunga hong gen uh thute zuauthu hi a, ka sawl lohpi ahi uh hi, Topa in kong ci hi.
+**TDB77:** Bang hang hiam cih leh ka min tawh no’ tunga hong gen-te thute zuauthu hi a, ka sawl lohpi ahi-te hi, Topa in kong ci hi.
 
-**ZVS:** Bang hang hiam cih leh ka min tawh no tungah hong gen uh thute zuauthu hi a, ka sawllohpi ahi uh hi, { Topa } in ci hi.
+**ZVS:** Bang hang hiam cih leh ka min tawh no tungah hong gen-te thute zuauthu hi a, ka sawllohpi ahi-te hi, { Topa } in ci hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v10
 **EN:** For thus saith the
 
-**TDB77:** “Topa in kong cih-inah: Babilon khua-ah kum sawmsagih na om khit uh ciangin, note kong kan kik ding a, kong kamciamna sa hong tangtung sakin, hih munah kong la kik ding hi.
+**TDB77:** “Topa in kong cih-inah: Babilon khua-ah kum sawmsagih na om khit-te ciangin, note kong kan kik ding a, kong kamciamna sa hong tangtung sakin, hih munah kong la kik ding hi.
 
-**ZVS:** “{ Topa } in kong cihin-ah: Babylon khua-ah kum sawm sagih na om khit uh ciangin, note kong kan kik ding a, kong kamciamnasa hong tangtung sakin hih munah kong lakik ding hi.
+**ZVS:** “{ Topa } in kong cihin-ah: Babylon khua-ah kum sawm sagih na om khit-te ciangin, note kong kan kik ding a, kong kamciamnasa hong tangtung sakin hih munah kong lakik ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v11
 **EN:** For I know the thoughts that I think toward you, saith the
 
-**TDB77:** Bang hang hiam na cih uh leh Topa in kong cih-inah, note’ mai lamah lametna kong piak ding, na siat nading uh hi loin na phattuam nading uh geelna ka neihte kei bek in ka thei hi.
+**TDB77:** Bang hang hiam na cih-te leh Topa in kong cih-inah, note’ mai lamah lametna kong piak ding, na siat nading-te hi loin na phattuam nading-te geelna ka neihte kei bek in ka thei hi.
 
-**ZVS:** Bang hang hiam cih leh { Topa } in kong cihin-ah, mailamah lametna note kong piakkik ding, na siatna ding uh hiloin na phattuamna ding uh geelna ka neihte kei bek in ka thei hi.
+**ZVS:** Bang hang hiam cih leh { Topa } in kong cihin-ah, mailamah lametna note kong piakkik ding, na siatna ding-te hiloin na phattuamna ding-te geelna ka neihte kei bek in ka thei hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** Then shall ye call upon me, and ye shall go and pray unto me, and I will hearken unto you.
 
-**TDB77:** Tua hun ciangin note in kei hong samin, hong pai-in thu nong ngen ding uh a, ke’n zong kong dawng ding hi.
+**TDB77:** Tua hun ciangin note in kei hong samin, hong pai-in thu nong ngen ding-te a, ke’n zong kong dawng ding hi.
 
-**ZVS:** Tua hun ciangin note in kei hong samin, hong pai-in thu nong ngen ding uh a, ke'n zong kong dawng ding hi.
+**ZVS:** Tua hun ciangin note in kei hong samin, hong pai-in thu nong ngen ding-te a, ke'n zong kong dawng ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v13
 **EN:** And ye shall seek me, and find me, when ye shall search for me with all your heart.
 
-**TDB77:** Note in kei nong zong ding uh a, na lungsim khempeuh uh tawh nong zon’ uh ciangin nong mu ding uh hi.
+**TDB77:** Note in kei nong zong ding-te a, na lungsim khempeuh-te tawh nong zon’ uh ciangin nong mu ding-te hi.
 
-**ZVS:** Note in kei nong zong ding uh a, na lungsim khempeuh uh tawh nong zon' uh ciangin nong mu ding uh hi.
+**ZVS:** Note in kei nong zong ding-te a, na lungsim khempeuh-te tawh nong zon' uh ciangin nong mu ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v14
 **EN:** And I will be found of you, saith the
 
-**TDB77:** Topa in kong cih-inah, note in nong mu ding uh a, na saltan’na uh hong bei sakin, kong hawlkhiatna gam khempeuh leh mun khempeuh panin kong kaikhawm kik ding a, note kong lak khiatna gam mahah kong tun’pih kik ding hi, Topa in kong ci hi.
+**TDB77:** Topa in kong cih-inah, note in nong mu ding-te a, na saltan’na-te hong bei sakin, kong hawlkhiatna gam khempeuh leh mun khempeuh panin kong kaikhawm kik ding a, note kong lak khiatna gam mahah kong tun’pih kik ding hi, Topa in kong ci hi.
 
-**ZVS:** { Topa } in kong cihin-ah, note in nong mu ding uh a, na saltan'na uh hong beisakin, kong hawlkhiatna gam khempeuh leh mun khempeuh panin kong kaikhawm kik ding a, note kong lakkhiatna gam mahah kong tun'pih kik ding hi, { Topa } in kong ci hi.
+**ZVS:** { Topa } in kong cihin-ah, note in nong mu ding-te a, na saltan'na-te hong beisakin, kong hawlkhiatna gam khempeuh leh mun khempeuh panin kong kaikhawm kik ding a, note kong lakkhiatna gam mahah kong tun'pih kik ding hi, { Topa } in kong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -156,9 +156,9 @@
 ### v16
 **EN:** Know that thus saith the
 
-**TDB77:** David’ tokhom tunga tu kumpipa leh hih khuapi sunga om, note tawh sal tang ding a, a paikhawm lo na innkuan pihte khempeuh uh tawh kisai-in Topa in kong gen-inah:
+**TDB77:** David’ tokhom tunga tu kumpipa leh hih khuapi sunga om, note tawh sal tang ding a, a paikhawm lo na innkuan pihte khempeuh-te tawh kisai-in Topa in kong gen-inah:
 
-**ZVS:** David kumpi tokhom tunga tu kumpipa leh hih khuapi sunga om, note tawh saltang dingin a paikhawmlo na behte khempeuh uh tawh kisai-in { Topa } in kong genin-ah:
+**ZVS:** David kumpi tokhom tunga tu kumpipa leh hih khuapi sunga om, note tawh saltang dingin a paikhawmlo na behte khempeuh-te tawh kisai-in { Topa } in kong genin-ah:
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -183,9 +183,9 @@
 ### v19
 **EN:** Because they have not hearkened to my words, saith the
 
-**TDB77:** Bang hang hiam cih leh, Topa in kong cih-inah, ka nasem ka kamsangte’ tung tawnin kong puak ngitnget thute amaute in thupisim loin a hong mang kei uh hi.
+**TDB77:** Bang hang hiam cih leh, Topa in kong cih-inah, ka nasem ka kamsangte’ tung tawnin kong puak ngitnget thute amaute in thupisim loin a hong mang kei-te hi.
 
-**ZVS:** Bang hang hiam cih leh, { Topa } in kong cihin-ah, ka nasem ka kamsangte' tung tawnin kong puak ngitnget thute amaute in thupisim loin a hong mang kei uh hi.
+**ZVS:** Bang hang hiam cih leh, { Topa } in kong cihin-ah, ka nasem ka kamsangte' tung tawnin kong puak ngitnget thute amaute in thupisim loin a hong mang kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -208,18 +208,18 @@
 ### v22
 **EN:** And of them shall be taken up a curse by all the captivity of Judah which are in Babylon, saying, The
 
-**TDB77:** Amaute’ hangin Judah gam pana Babilon khua-a sal tang mi khempeuh in: “Babilon kumpipa in Zedekiah leh Ahab, a hing tanga mei sunga a em bangin Topa in nang hong hih hen,” ci-in kihaamsiatna-in a zang ding uh hi.
+**TDB77:** Amaute’ hangin Judah gam pana Babilon khua-a sal tang mi khempeuh in: “Babilon kumpipa in Zedekiah leh Ahab, a hing tanga mei sunga a em bangin Topa in nang hong hih hen,” ci-in kihaamsiatna-in a zang ding-te hi.
 
-**ZVS:** Amaute' hangin Judah gam panin Babylon khua-ah saltang mi khempeuh in, ‘Babylon kumpipa in Zedekiah leh Ahab, a hingtangin mei sungah a hal bangin { Topa } in nang hong hal ta hen,’ ci-in kihamsiatna-in a zang ding uh hi.
+**ZVS:** Amaute' hangin Judah gam panin Babylon khua-ah saltang mi khempeuh in, ‘Babylon kumpipa in Zedekiah leh Ahab, a hingtangin mei sungah a hal bangin { Topa } in nang hong hal ta hen,’ ci-in kihamsiatna-in a zang ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** Because they have committed villany in Israel, and have committed adultery with their neighbours' wives, and have spoken lying words in my name, which I have not commanded them; even I know, and am a witness, saith the
 
-**TDB77:** Bang hang hiam cih leh amaute Israel gamah hai gamtat uh hi: a innvengte’ zite mawhpih uh a, thu ka piak lohpi ka min tawh zuauthu a gen uh hi. Keimah Topa in ka mu a, teci ka hi hi, hong ci hi,” ci-in a gelh hi.
+**TDB77:** Bang hang hiam cih leh amaute Israel gamah hai gamtat-te hi: a innvengte’ zite mawhpih-te a, thu ka piak lohpi ka min tawh zuauthu a gen-te hi. Keimah Topa in ka mu a, teci ka hi hi, hong ci hi,” ci-in a gelh hi.
 
-**ZVS:** Bang hang hiam cih leh amaute, Israel gamah hai gamtat uh hi: A innvengte' zite mawhpih uh a, thu ka piaklohpi ka min tawh zuauthu a gen uh hi. Keimah { Topa } in ka mu a, teci ka hi hi, hong ci hi,” ci-in ka gelh hi.
+**ZVS:** Bang hang hiam cih leh amaute, Israel gamah hai gamtat-te hi: A innvengte' zite mawhpih-te a, thu ka piaklohpi ka min tawh zuauthu a gen-te hi. Keimah { Topa } in ka mu a, teci ka hi hi, hong ci hi,” ci-in ka gelh hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -251,9 +251,9 @@
 ### v28
 **EN:** For therefore he sent unto us in Babylon, saying, This captivity is long: build ye houses, and dwell in them; and plant gardens, and eat the fruit of them.
 
-**TDB77:** Bang hang hiam cih leh amah in Babilon khua-ate lai hong khakin, sawt veipi saltang ding na hih manun, inn lamin a sungah teeng un la, huan bawlin a sunga na ciin’te uh ne un, hong ci hi, ci-in na gen hi,’ ci-in Zefaniah kiangah lai na khak hi,” ci-a Shemai-ah kianga gen dingin Pasian in Jeremiah a sawl hi.
+**TDB77:** Bang hang hiam cih leh amah in Babilon khua-ate lai hong khakin, sawt veipi saltang ding na hih manun, inn lamin a sungah teeng un la, huan bawlin a sunga na ciin’te-te ne un, hong ci hi, ci-in na gen hi,’ ci-in Zefaniah kiangah lai na khak hi,” ci-a Shemai-ah kianga gen dingin Pasian in Jeremiah a sawl hi.
 
-**ZVS:** Bang hang hiam cih leh amah in Babylon khua-ate lai hong khakin, sawt veipi sal tang ding na hih manun, inn lamin a sungah teng un la, huan bawlin a sunga na cin'te uh ne un, hong ci hi,” ci-in a gelh hi. Hih bangin Zefaniah' kiangah a laikhakna thu tawh kisai Shemaiah kiangah a gen dingin Pasian in kei hong sawl hi.
+**ZVS:** Bang hang hiam cih leh amah in Babylon khua-ate lai hong khakin, sawt veipi sal tang ding na hih manun, inn lamin a sungah teng un la, huan bawlin a sunga na cin'te-te ne un, hong ci hi,” ci-in a gelh hi. Hih bangin Zefaniah' kiangah a laikhakna thu tawh kisai Shemaiah kiangah a gen dingin Pasian in kei hong sawl hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -287,9 +287,9 @@
 ### v32
 **EN:** Therefore thus saith the
 
-**TDB77:** Topa in kong cih-inah: En un, keimah in Nehelam khuami Shemai-ah leh a suan a khakte daan ka tat ding hi. Amah in keimah hong langpan nading thu gen ahih manin ka mite ading-a a hoih ka bawl ding nate, amah leh a suan a khakte khat beek in a mu kei ding uh hi,” Topa in kong ci hi,” a ci hi.
+**TDB77:** Topa in kong cih-inah: En un, keimah in Nehelam khuami Shemai-ah leh a suan a khakte daan ka tat ding hi. Amah in keimah hong langpan nading thu gen ahih manin ka mite ading-a a hoih ka bawl ding nate, amah leh a suan a khakte khat beek in a mu kei ding-te hi,” Topa in kong ci hi,” a ci hi.
 
-**ZVS:** { Topa } in kong cihin-ah: En un, keimah in Nehelam khuami Shemaiah leh a suan a khakte gim ka pia ding hi. Amah in keimah hong langpan'na ding thu gen ahih manin ka mite-a' dingin a hoih ka bawl ding nate, amah leh a suan a khakte khat beek in a mu kei ding uh hi, ci-in gen in,” hong ci hi.
+**ZVS:** { Topa } in kong cihin-ah: En un, keimah in Nehelam khuami Shemaiah leh a suan a khakte gim ka pia ding hi. Amah in keimah hong langpan'na ding thu gen ahih manin ka mite-a' dingin a hoih ka bawl ding nate, amah leh a suan a khakte khat beek in a mu kei ding-te hi, ci-in gen in,” hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | causal: because | plural: uh marker
 

@@ -86,9 +86,9 @@
 ### v8
 **EN:** Provideth her meat in the summer, and gathereth her food in the harvest.
 
-**TDB77:** khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol uh hi.
+**TDB77:** khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol-te hi.
 
-**ZVS:** khuakhal sungin a nek ding uh, tuk hun sungin kaikhawm khol uh hi.
+**ZVS:** khuakhal sungin a nek ding uh, tuk hun sungin kaikhawm khol-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -255,9 +255,9 @@
 ### v29
 **EN:** So he that goeth in to his neighbour's wife; whosoever toucheth her shall not be innocent.
 
-**TDB77:** Tua mah bangin, mi zi tawh a mawhte in thuak ding a, tua banga gamta peuhmah in thuak ding uh hi.
+**TDB77:** Tua mah bangin, mi zi tawh a mawhte in thuak ding a, tua banga gamta peuhmah in thuak ding-te hi.
 
-**ZVS:** Tua mah bangin mi' zi tawh a mawhte in gimna thuak ding uh a, tua bang a gamta peuhmah in gimna thuak ding uh hi.
+**ZVS:** Tua mah bangin mi' zi tawh a mawhte in gimna thuak ding-te a, tua bang a gamta peuhmah in gimna thuak ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -282,7 +282,7 @@
 
 **TDB77:** Ahi zongin numei tawh mawhte in thu ngaihsun thei lo mi hi a, amah leh amah a kisusia tawm ahi hi.
 
-**ZVS:** Ahi zongin numei tawh a mawhte pen thu ngaihsun theilo mi hi a, amau leh amau a kisusiatawm ahi uh hi.
+**ZVS:** Ahi zongin numei tawh a mawhte pen thu ngaihsun theilo mi hi a, amau leh amau a kisusiatawm ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 

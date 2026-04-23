@@ -60,9 +60,9 @@
 ### v5
 **EN:** Or let him take hold of my strength, that he may make peace with me; and he shall make peace with me.
 
-**TDB77:** Tua ahih kei leh keima hutna sungah amaute om hen la, amaute in kei tawh kilemna bawl-in, amaute kei tawh kilem ta uh hen.”
+**TDB77:** Tua ahih kei leh keima hutna sungah amaute om hen la, amaute in kei tawh kilemna bawl-in, amaute kei tawh kilem ta-te hen.”
 
-**ZVS:** Tua ahih kei leh keima hutna sungah amaute hong om hen la, amaute in kei tawh kilemna hong bawlin keimah tawh amaute hong kilem ta uh hen,” { Topa } in ci ding hi.
+**ZVS:** Tua ahih kei leh keima hutna sungah amaute hong om hen la, amaute in kei tawh kilemna hong bawlin keimah tawh amaute hong kilem ta-te hen,” { Topa } in ci ding hi.
 
 **Grammar:** optative: let there be / let it be | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -114,9 +114,9 @@
 ### v11
 **EN:** When the boughs thereof are withered, they shall be broken off: the women come, and set them on fire: for it is a people of no understanding: therefore he that made them will not have mercy on them, and he that formed them will shew them no favour.
 
-**TDB77:** A hiangte a keu ciangin kitan hi: nupite hong pai-in mei-in cih uh hi. Hih mite in khentel theihna nei lo ahih ciangin amaute a bawlpa in amaute hehpih lo ding a, amaute a piangsakpa in amaute tungah maipha lak lo ding hi.
+**TDB77:** A hiangte a keu ciangin kitan hi: nupite hong pai-in mei-in cih-te hi. Hih mite in khentel theihna nei lo ahih ciangin amaute a bawlpa in amaute hehpih lo ding a, amaute a piangsakpa in amaute tungah maipha lak lo ding hi.
 
-**ZVS:** A hiangte a keu ciangin kitan hi. Nupite hong pai-in mei-in cih uh hi. Hih mite in khentel theihna neilo ahih ciangin amaute a bawlpa in amaute hehpihlo ding a, amaute a piangsakpa in amaute tungah maipha laklo ding hi.
+**ZVS:** A hiangte a keu ciangin kitan hi. Nupite hong pai-in mei-in cih-te hi. Hih mite in khentel theihna neilo ahih ciangin amaute a bawlpa in amaute hehpihlo ding a, amaute a piangsakpa in amaute tungah maipha laklo ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -132,9 +132,9 @@
 ### v13
 **EN:** And it shall come to pass in that day, that the great trumpet shall be blown, and they shall come which were ready to perish in the land of Assyria, and the outcasts in the land of Egypt, and shall worship the
 
-**TDB77:** Tua ni ciangin peengkul lianpi khat kitum ding a, Assiria gam sunga a mangthang mite leh Izipt gam sunga a kihawlkhia mite hong pai-in Jerusalem mual siangtho tungah Topa bia ding uh hi.
+**TDB77:** Tua ni ciangin peengkul lianpi khat kitum ding a, Assiria gam sunga a mangthang mite leh Izipt gam sunga a kihawlkhia mite hong pai-in Jerusalem mual siangtho tungah Topa bia ding-te hi.
 
-**ZVS:** Tua ni ciangin peengkul lianpi khat kitum ding a, Assiria gamsunga a mangthang mite leh Egypt gamsunga a kihawlkhia mite hong pai-in Jerusalem mual siangtho tungah { Topa } hong bia ding uh hi.
+**ZVS:** Tua ni ciangin peengkul lianpi khat kitum ding a, Assiria gamsunga a mangthang mite leh Egypt gamsunga a kihawlkhia mite hong pai-in Jerusalem mual siangtho tungah { Topa } hong bia ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

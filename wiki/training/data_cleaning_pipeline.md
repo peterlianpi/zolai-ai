@@ -162,7 +162,7 @@ def quality_filter(text: str) -> bool:
 ## Step 6: ZVS Dialect Filter
 
 ```python
-FORBIDDEN = {"pathian", "ram", "fapa", "bawipa", "siangpahrang", "cu", "cun"}
+FORBIDDEN = {"pasian", "gam", "tapa", "topa", "kumpipa", "tua", "tua"}
 
 def zvs_dialect_check(text: str) -> tuple[bool, list[str]]:
     """Returns (is_clean, list_of_violations)."""

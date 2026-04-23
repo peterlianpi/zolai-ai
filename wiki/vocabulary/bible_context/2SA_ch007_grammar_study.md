@@ -214,9 +214,9 @@
 ### v22
 **EN:** Wherefore thou art great, O
 
-**TDB77:** Tua ahih ciangin nang na lian takpi hi, Topa  Pasian aw; ka bil-un ka zakna uh tawh kizui-in nang tawh a kibang kuamah om lo a, nang sim loh Pasian dang om lo hi.
+**TDB77:** Tua ahih ciangin nang na lian takpi hi, Topa  Pasian aw; ka bil-un ka zakna-te tawh kizui-in nang tawh a kibang kuamah om lo a, nang sim loh Pasian dang om lo hi.
 
-**ZVS:** Tua ahih ciangin nang na lian takpi hi, { Topa } Pasian aw. Ka bilun ka zakna uh tawh kizui-in nang tawh a kibang kuamah omlo a, nang simloh Pasian dang omlo hi.
+**ZVS:** Tua ahih ciangin nang na lian takpi hi, { Topa } Pasian aw. Ka bilun ka zakna-te tawh kizui-in nang tawh a kibang kuamah omlo a, nang simloh Pasian dang omlo hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix
 

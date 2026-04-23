@@ -315,7 +315,7 @@ I = we/our (inclusive, prefix):
 **Examples from Bible:**
 ```
 Amaute = they/them:
-  "Amaute pai uh hi." = They go.
+  "Amaute pai-te hi." = They go.
   "Amaute ka mu hi." = I see them.
   "Amaute ading hi." = It's for them.
 
@@ -352,7 +352,7 @@ Standalone (subject/object):
   Nang hong ngai hi = I wait for you
   Amah in a gen hi = He/she said it
   Eite i pai hi = We go
-  Amaute pai uh hi = They go
+  Amaute pai-te hi = They go
 ```
 
 **With verb "in" marker (agent marker):**
@@ -361,7 +361,7 @@ Kei in ka bawl hi = I did it (emphatic)
 Nang in na gen hi = You said it (emphatic)
 Amah in a gen hi = He/she said it
 Eite in i bawl hi = We did it (emphatic)
-Amaute in amau bawl uh hi = They did it
+Amaute in amau bawl-te hi = They did it
 ```
 
 ---
@@ -648,7 +648,7 @@ Bible examples:
 "Seth a suah khit ciangin Seth kum zagiat leh kum sagih nungta a, tapa leh tanu dang nei lai hi."
 = "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters."
 
-"Pasian' tapate in mite' tanute hoih hi, ci-in mu uh hi"
+"Pasian' tapate in mite' tanute hoih hi, ci-in mu-te hi"
 = "That the sons of God saw the daughters of men that they were fair"
 
 "Laban in tanu nih nei hi"
@@ -704,7 +704,7 @@ Extracted from official educational materials (Zolai Simbu Tan Lang to Tan Li):
 | akno | chick/young chicken | "Akno a khe a bai hi" (The chick limps) |
 | ngapi | fish paste | "Ngapi thau ne in" |
 | gua | bamboo | "Khua gei ah gua a po hi" (Bamboo grows near village) |
-| bualtui | pond/pool | "Bualtui gei khatah a mawl uh hi" |
+| bualtui | pond/pool | "Bualtui gei khatah a mawl-te hi" |
 | uiphuk | frog/toad | "Uiphuk tampi a om hi" (There are many frogs) |
 | sumkuang | tortoise/turtle | "Sumkuang le bilpi" (Tortoise and rabbit) |
 | bilpi | rabbit | "Bilpi tai a hat mahmah hi" |
@@ -1195,7 +1195,7 @@ THUPATNA
 
 Zolai pen Latin phonetic siksanin kibawl ahi hi. Tuhun ciang khangthakte in
 English phonetic siksanin lai sinzaw uhhi. Tua ahih manin Latin phonetic siksanin
-a kigelh Zolai a sim uh ciang Zopau awsuahin suak nawnlo hi. Tua panin Zopau
+a kigelh Zolai a sim-te ciang Zopau awsuahin suak nawnlo hi. Tua panin Zopau
 awsuah ngah nading English phonetic siksan aa hong kigelh leh Zolai gelhzia pen
 khat le khat hong kibanglo semsem kha ding hi.
 Tua ahih manin Zolai Standard Format khat kician takin a om zawh ding kisampha
@@ -1209,7 +1209,7 @@ phonetic zongh a zanglo gam tuamtuam aa tung Zomi khangthakte ii Zolai gelhzia
 zongh a tuampi khat hong suak kha thei lai ding hi. Tua ahih manin minambup in
 lai gelhziate a luanzia khat a kibatkim theih nadingin Zolai ah zongh Standard
 Format kician khat a om ding thupi mahmah hi.
-Tua bek thamlo, Zomi khangthakte aa kipan namdangte in Zolai a sin nop uh leh
+Tua bek thamlo, Zomi khangthakte aa kipan namdangte in Zolai a sin nop-te leh
 sinzia olin, sinna a nuam ding, kiciantak aa lak theih, hilh theih dingin Standard
 Format khat Zolai in a neih zawh ding kisam mahmah hi.
 
@@ -1342,7 +1342,7 @@ Plural Noun
 Te/Teng (Adj/v) pen tang khat bekin i gelh leh khiatna tuam neih hi.
 Te/Teng (Plural noun) pen a mai aa Noun tawh i mat leh tua Te/Teng in a mai aa Noun pen Plural
 noun (khat sangin a tamzaw) suaksak hi.
-Gtn. Tua a te ziahziah kham manphate nei le uh cin, khuapi sung ah noteng na teng zo ding uhhi.
+Gtn. Tua a te ziahziah kham manphate nei le-te cin, khuapi sung ah noteng na teng zo ding uhhi.
 *Plural Noun a suak sak, “te/teng” pen a mai aa Noun tawh mat hamtang ding.
 Adverb
 Lua (v) pen tang khat bekin i gelh leh khiatna tuam neih hi.
@@ -1421,7 +1421,7 @@ Keh/Kei = Kei ka paikeh, nang zongh na paikei oo.
 
 Zawk/Zaw = Nang kong teelzawk manin mi dangte in zongh nang mah hong teelzaw pah uhhi.
 
-Khop/Khawm = Noteng na paikhop uh ciang kei zongh no tawh paikhawm nuam ing.
+Khop/Khawm = Noteng na paikhop-te ciang kei zongh no tawh paikhawm nuam ing.
 
 Lamdan/Lamdang = Lamdang na cihcih uhhang’ a kilamdanna thei zokei ing.
 
@@ -2100,7 +2100,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 **Critical rules:**
 - `kei te` is NOT "we" — 0 corpus occurrences as subject
 - `i` = subject prefix (we), NEVER add `uh` with `i`
-- `amaute pai uh hi` = they went (NOT `amaute i pai hi`)
+- `amaute pai-te hi` = they went (NOT `amaute i pai hi`)
 - `eite` = emphatic/object we/us | `kote` = exclusive we | `i` = subject prefix
 - No gender distinction: `amah` = he/she/it
 
@@ -2136,7 +2136,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 | `???` | `kumpipa` |
 | `tua` / `tuan` | `tua` |
 | `kei a leh` (conditional) | `kei a leh` |
-| `I pai uh hi` | `I pai hi` (never uh with i) |
+| `I pai-te hi` | `I pai hi` (never-te with i) |
 | `kei te` (as "we") | `i` / `eite` |
 
 ---
@@ -2164,12 +2164,12 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *And also unto the Levites; they shall no more carry the tabernacle, no* → **Tua ahih ciangin Levi mite in puanbuk hita leh tua tawh kisai nasep na**
 - `[TDB77]` *And David said to Solomon his son, Be strong and of good courage, and * → **Tua ciangin David in a tapa Solomon kiangah, “Thakhauhin hang in la, s**
-- `[TDB77]` *I have fed you with milk, and not with meat: for hitherto ye were not * → **Note in an haizan zo nai lo na hih uh ciangin sa tawh kong vaak nai ke**
+- `[TDB77]` *I have fed you with milk, and not with meat: for hitherto ye were not * → **Note in an haizan zo nai lo na hih-te ciangin sa tawh kong vaak nai ke**
 - `[TDB77]` *So then neither is he that planteth any thing, neither he that wateret* → **Tua ahih ciangin a suanpa in mi phamawh ahi kei hi; tuibuakpa in mi ph**
 
 ## do not
 
-- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih uh leh, a pualam mite thukhenna tawh bang kikum **
+- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih-te leh, a pualam mite thukhenna tawh bang kikum **
 - `[TDB77]` *Doth not even nature itself teach you, that, if a man have long hair, * → **Pasal in sam sau a neih leh, zumhuaina ahi ci-in leitung ngeina thu na**
 - `[TDB77]` *Doth not behave itself unseemly, seeketh not her own, is not easily pr* → **a kituak loin a gamta kei hi, ama phat nading a zong kei hi, a heh bai**
 - `[TDB77]` *If we say that we have fellowship with him, and walk in darkness, we l* → **“Eite in Pasian tawh i kiho thei hi,” i ci napi-in khuamial lakah i ga**
@@ -2177,22 +2177,22 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## shall not
 
 - `[TDB77]` *Behold, I shew you a mystery; We shall not all sleep, but we shall all* → **En un, thuthuk khat kong gen ding hi. Eite khempeuh sicip ding i hi ke**
-- `[TDB77]` *For I will not see you now by the way; but I trust to tarry a while wi* → **Bang hang hiam na cih uh leh, lam lai-ah kimuh ding bek ka ut kei hi. **
+- `[TDB77]` *For I will not see you now by the way; but I trust to tarry a while wi* → **Bang hang hiam na cih-te leh, lam lai-ah kimuh ding bek ka ut kei hi. **
 - `[TDB77]` *And I will dwell among the children of Israel, and will not forsake my* → **Tua ciangin na lam inn sung Israel mite lakah ka teeng ding a, keima m**
 - `[TDB77]` *Notwithstanding in thy days I will not do it for David thy father's sa* → **Ahi zongin na pa David’ hangin nangma hun sungin ka hih kei ding a, na**
 
 ## cannot
 
-- `[TDB77]` *But if they cannot contain, let them marry: for it is better to marry * → **Ahi zongin a pumpi uh a kikham zawh kei uh leh, kiteeng uh hen. A kat **
+- `[TDB77]` *But if they cannot contain, let them marry: for it is better to marry * → **Ahi zongin a pumpi-te a kikham zawh kei-te leh, kiteeng-te hen. A kat **
 - `[TDB77]` *And the eye cannot say unto the hand, I have no need of thee: nor agai* → **Mittang in khut kiangah, “Nang kong deih kei hi,” ci thei lo hi. Tua m**
 - `[TDB77]` *And turn ye not aside: for then should ye go after vain things, which * → **meetna hong pia thei lote ahi a, hong hon thei lo a mawkna nate lamah **
 - `[TDB77]` *Likewise also the good works of some are manifest beforehand; and they* → **Tua mah bangin a kilang gamtatna hoih a om thei hi, a kilanglo gamtatn**
 
 ## without
 
-- `[TDB77]` *And the sons of Nadab; Seled, and Appaim: but Seled died without child* → **Nadab’ tapate in: Seled leh Appaim ahi uh hi; Seled in ta nei loin si **
+- `[TDB77]` *And the sons of Nadab; Seled, and Appaim: but Seled died without child* → **Nadab’ tapate in: Seled leh Appaim ahi-te hi; Seled in ta nei loin si **
 - `[TDB77]` *And the sons of Jada the brother of Shammai; Jether, and Jonathan: and* → **Tua ciangin Shammai’ sanggampa Jada’ tapate in: Jether leh Jonathan ah**
-- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih uh leh, a pualam mite thukhenna tawh bang kikum **
+- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih-te leh, a pualam mite thukhenna tawh bang kikum **
 - `[TDB77]` *But them that are without God judgeth. Therefore put away from among y* → **A pua lamah a omte Pasian in thu a khen ding hi. Tua a gilopa note lak**
 
 ---
@@ -2220,7 +2220,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - **`lo` is NOT Hakha-only** — it is valid Tedim ZVS in non-conditional contexts.
 
 ### `kei lo` — Compound absolute negation ("none / not any")
-- `Pasian dang kei lo uh hen.` = You shall have no other gods. (Ten Commandments)
+- `Pasian dang kei lo-te hen.` = You shall have no other gods. (Ten Commandments)
 - `Kuamah kei lo.` = There is no one / nobody.
 - Meaning: stronger than plain `kei` — total absence.
 
@@ -2327,7 +2327,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 ### myself (refl)
 
-- `[TDB77]` *For I know nothing by myself; yet am I not hereby justified: but * → **Bang hang hiam na cih uh leh, mawhsak nadingin ka pumpi tungah ba**
+- `[TDB77]` *For I know nothing by myself; yet am I not hereby justified: but * → **Bang hang hiam na cih-te leh, mawhsak nadingin ka pumpi tungah ba**
 - `[TDB77]` *For though I be free from all men, yet have I made myself servant* → **Keimah in kuamah’ sila ka hih loh hangin mi tampi ka ngah nadingi**
 - `[TDB77]` *I say again, Let no man think me a fool; if otherwise, yet as a f* → **Khatvei ka genin ah, keimah in mihai hi ci-in kuamah in hong um k**
 
@@ -2399,21 +2399,21 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 ### we (subj)
 
-- `[TDB77]` *Then all Israel gathered themselves to David unto Hebron, saying,* → **Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm uh a**
+- `[TDB77]` *Then all Israel gathered themselves to David unto Hebron, saying,* → **Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm-te a**
 - `[TDB77]` *And let us bring again the ark of our God to us: for we enquired * → **Tua ciangin thuciamna singkuang eite kiangah la kik ni; bang hang**
-- `[TDB77]` *Now therefore, our God, we thank thee, and praise thy glorious na* → **Tu-in nangma tungah ka nuam uh hi, kote’ Pasian aw, a minthang na**
+- `[TDB77]` *Now therefore, our God, we thank thee, and praise thy glorious na* → **Tu-in nangma tungah ka nuam-te hi, kote’ Pasian aw, a minthang na**
 
 ### us (obj)
 
 - `[TDB77]` *And let us bring again the ark of our God to us: for we enquired * → **Tua ciangin thuciamna singkuang eite kiangah la kik ni; bang hang**
-- `[TDB77]` *For the preaching of the cross is to them that perish foolishness* → **Bang hang hiam na cih uh leh, siatna a thuakte’ ading singlamteh **
+- `[TDB77]` *For the preaching of the cross is to them that perish foolishness* → **Bang hang hiam na cih-te leh, siatna a thuakte’ ading singlamteh **
 - `[TDB77]` *But God hath revealed them unto us by his Spirit: for the Spirit * → **Pasian in ama Kha Siangtho tawh tua nate eite hong lak hi. Bang c**
 
 ### our (poss adj)
 
 - `[TDB77]` *And let us bring again the ark of our God to us: for we enquired * → **Tua ciangin thuciamna singkuang eite kiangah la kik ni; bang hang**
 - `[TDB77]` *Be of good courage, and let us behave ourselves valiantly for our* → **Hang in, i mite ading leh i Pasian’ khuapite’ ading pasal tat ni;**
-- `[TDB77]` *Now therefore, our God, we thank thee, and praise thy glorious na* → **Tu-in nangma tungah ka nuam uh hi, kote’ Pasian aw, a minthang na**
+- `[TDB77]` *Now therefore, our God, we thank thee, and praise thy glorious na* → **Tu-in nangma tungah ka nuam-te hi, kote’ Pasian aw, a minthang na**
 
 ### ourselves (refl)
 
@@ -2424,24 +2424,24 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ### you/ye (subj)
 
 - `[TDB77]` *And David said unto all the congregation of Israel, If it seem go* → **Tua ciangin David in Israel a kikhawm khempeuhte kiangah, “Note i**
-- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei uh a, a kisehsa bang danin k**
+- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei-te a, a kisehsa bang danin k**
 - `[TDB77]` *Sing unto him, sing psalms unto him, talk ye of all his wondrous * → **Amah la sak un, phatna la amah sak un la, a lamdang ama septe khe**
 
 ### your (poss adj)
 
 - `[TDB77]` *Saying, Unto thee will I give the land of Canaan, the lot of your* → **“Nangma tungah Kanaan gam hong pia-in, gamhluah dingin na tanh di**
-- `[TDB77]` *Now set your heart and your soul to seek the* → **Tu-in Topa na Pasian uh a zong dingin na ngaihsutna uh leh na lun**
+- `[TDB77]` *Now set your heart and your soul to seek the* → **Tu-in Topa na Pasian-te a zong dingin na ngaihsutna-te leh na lun**
 - `[TDB77]` *I thank my God always on your behalf, for the grace of God which * → **Khazih’ thu tecipan’na nomau lakah a kip ahih ciangin**
 
 ### they (subj)
 
 - `[TDB77]` *And they dwelt at Beer–sheba, and Moladah, and Hazar–shual,* → **Amaute Beersheba, Moladah, Hazarshual,**
-- `[TDB77]` *And they smote the rest of the Amalekites that were escaped, and * → **amaute in Amalek mi a suakta a om laite susia uh a, tu ni dongin **
+- `[TDB77]` *And they smote the rest of the Amalekites that were escaped, and * → **amaute in Amalek mi a suakta a om laite susia-te a, tu ni dongin **
 - `[TDB77]` *And they dwelt in Gilead in Bashan, and in her towns, and in all * → **amaute Gilead gam sung, Bashan gam leh a khuapite sung, leh Sharo**
 
 ### them (obj)
 
-- `[TDB77]` *And they gave them Hebron in the land of Judah, and the suburbs t* → **Judah gam sungah Hebron leh a kiim lononate amaute tungah pia uh **
+- `[TDB77]` *And they gave them Hebron in the land of Judah, and the suburbs t* → **Judah gam sungah Hebron leh a kiim lononate amaute tungah pia-te **
 - `[TDB77]` *And Mikloth begat Shimeah. And these also dwelt with their brethr* → **leh Mikloth (amah in Shimeah’ pa) ahi hi. Tu-in amau’ suan leh kh**
 - `[TDB77]` *And Phinehas the son of Eleazar was the ruler over them in time p* → **Eleazar’ tapa Finehas in a beisa hun sungah amaute in ukpa ahi hi**
 
@@ -2454,8 +2454,8 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ### themselves (refl)
 
 - `[TDB77]` *So the priests and the Levites sanctified themselves to bring up * → **Tua ahih ciangin Israel Pasian, Topa’ thuciamna singkuang a paipi**
-- `[TDB77]` *And when the Syrians saw that they were smitten before Israel, th* → **Israelte in amaute a zawhna thu Siria mite in a muh uh ciangin am**
-- `[TDB77]` *They stoop, they bow down together; they could not deliver the bu* → **Amaute kunin, amaute puksuk khawm uh a, amaute in vangik pengsak **
+- `[TDB77]` *And when the Syrians saw that they were smitten before Israel, th* → **Israelte in amaute a zawhna thu Siria mite in a muh-te ciangin am**
+- `[TDB77]` *They stoop, they bow down together; they could not deliver the bu* → **Amaute kunin, amaute puksuk khawm-te a, amaute in vangik pengsak **
 
 
 ---
@@ -2491,7 +2491,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *And Pathrusim, and Casluhim, (of whom came the Philistines,) and * → **Pathrus mite, Kasluh mite (Filistia mite’ hong pian’na), leh Kaft**
 - `[TDB77]` *And Ephraim their father mourned many days, and his brethren came* → **Tua ciangin a pa Efraim ni tampi sung kap a, amah hehnem dingin a**
 - `[TDB77]` *And there came of the children of Benjamin and Judah to the hold * → **Tua ciangin Benjamin mi leh Judah mi pawlkhat David kiang mun mua**
-- `[TDB77]` *And the Philistines came and spread themselves in the valley of R* → **Tu-in Filistiate hong pai-in Refaim kuam sung luh uh hi.**
+- `[TDB77]` *And the Philistines came and spread themselves in the valley of R* → **Tu-in Filistiate hong pai-in Refaim kuam sung luh-te hi.**
 
 ## say/said
 
@@ -2503,7 +2503,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## give/gave
 
 - `[TDB77]` *And Sheshan gave his daughter to Jarha his servant to wife; and s* → **Tua ahih ciangin Sheshan in a sila Jarha tungah a zi dingin a tan**
-- `[TDB77]` *And they gave them Hebron in the land of Judah, and the suburbs t* → **Judah gam sungah Hebron leh a kiim lononate amaute tungah pia uh **
+- `[TDB77]` *And they gave them Hebron in the land of Judah, and the suburbs t* → **Judah gam sungah Hebron leh a kiim lononate amaute tungah pia-te **
 - `[TDB77]` *But the fields of the city, and the villages thereof, they gave t* → **ahih hangin khuapi lote leh a khuaneute Jefunneh’ tapa Kaleb tung**
 - `[TDB77]` *And the children of Israel gave to the Levites these cities with * → **Tua ahih ciangin Israel mite in hih bangin Levi mite tungah khuap**
 
@@ -2524,13 +2524,13 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## know/knew
 
 - `[TDB77]` *And I baptized also the household of Stephanas: besides, I know n* → **Stefanas-te innkuan zong ka baptaiz hi. Midangte ka baptaiz lam k**
-- `[TDB77]` *For I determined not to know any thing among you, save Jesus Chri* → **Bang hang hiam na cih uh leh, note lakah ka om lai takin Zeisu Kh**
+- `[TDB77]` *For I determined not to know any thing among you, save Jesus Chri* → **Bang hang hiam na cih-te leh, note lakah ka om lai takin Zeisu Kh**
 - `[TDB77]` *For who hath known the mind of the Lord, that he may instruct him* → **Topa a hilh dingin ama lungsim a thei kua ahi hiam? Eite in ahih **
-- `[TDB77]` *Know ye not that ye are the temple of God, and that the Spirit of* → **Note in Pasian’ biakna innpi na hi uh a, Pasian’ Kha Siangtho not**
+- `[TDB77]` *Know ye not that ye are the temple of God, and that the Spirit of* → **Note in Pasian’ biakna innpi na hi-te a, Pasian’ Kha Siangtho not**
 
 ## love/loved
 
-- `[TDB77]` *What will ye? shall I come unto you with a rod, or in love, and i* → **Koici bang deih na hi uh hiam? Ciangduai tawi-in note kiangah hon**
+- `[TDB77]` *What will ye? shall I come unto you with a rod, or in love, and i* → **Koici bang deih na hi-te hiam? Ciangduai tawi-in note kiangah hon**
 - `[TDB77]` *But if any man love God, the same is known of him.* → **Mikhat in Pasian a it leh, Pasian in tua mi a thei hi.**
 - `[TDB77]` *If any man love not the Lord Jesus Christ, let him be Anathema Ma* → **Mi khat peuhmah in Topa a it kei leh, tua mi in hamsiatna thuak t**
 - `[TDB77]` *My love be with you all in Christ Jesus. Amen.* → **Ka itna in Khazih Zeisu sunga om note khempeuh tawh omkhawm ta he**
@@ -2538,23 +2538,23 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## eat/ate
 
 - `[TDB77]` *And did eat and drink before the* → **tua ciangin amaute in tua ni-in lungdamna lianpi tawh Topa mai-ah**
-- `[TDB77]` *Have we not power to eat and to drink?* → **Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi uh h**
-- `[TDB77]` *And did all eat the same spiritual meat;* → **a vekpi-un kha an a nekhawm uh ahi zongin,**
+- `[TDB77]` *Have we not power to eat and to drink?* → **Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi-te h**
+- `[TDB77]` *And did all eat the same spiritual meat;* → **a vekpi-un kha an a nekhawm-te ahi zongin,**
 - `[TDB77]` *Behold Israel after the flesh: are not they which eat of the sacr* → **Ci-le-sa lamsangah Israelte na en ta un. Biakna sa a nete in biak**
 
 ## drink/drank
 
 - `[TDB77]` *And did eat and drink before the* → **tua ciangin amaute in tua ni-in lungdamna lianpi tawh Topa mai-ah**
-- `[TDB77]` *Have we not power to eat and to drink?* → **Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi uh h**
+- `[TDB77]` *Have we not power to eat and to drink?* → **Kote in an neek na’ng, tui dawn na’ng thuneihna nei lo ka hi-te h**
 - `[TDB77]` *Whether therefore ye eat, or drink, or whatsoever ye do, do all t* → **Tua ahih ciangin note in anneek tuidawn akipan na khempeuh na baw**
-- `[TDB77]` *For as often as ye eat this bread, and drink this cup, ye do shew* → **Bang hang hiam na cih uh leh, note in hih khomun ne-in, hih hai n**
+- `[TDB77]` *For as often as ye eat this bread, and drink this cup, ye do shew* → **Bang hang hiam na cih-te leh, note in hih khomun ne-in, hih hai n**
 
 ## hear/heard
 
 - `[TDB77]` *And when all Jabesh–gilead heard all that the Philistines had don* → **Ahih hangin Jabeshgilead mi khempeuh in Saul tungah Filistiate’ h**
 - `[TDB77]` *Now when Tou king of Hamath heard how David had smitten all the h* → **David in Zobah kumpipa Hadadezer’ galkap buppi a zawhna thu Hamat**
 - `[TDB77]` *And when David heard of it, he sent Joab, and all the host of the* → **David in tua thu a zak ciangin Joab leh mi thahat galkap khempeuh**
-- `[TDB77]` *For this is the message that ye heard from the beginning, that we* → **Note in a cil panin na zak uh thu in, Dawimangpa tawh a kipawl a **
+- `[TDB77]` *For this is the message that ye heard from the beginning, that we* → **Note in a cil panin na zak-te thu in, Dawimangpa tawh a kipawl a **
 
 ## speak/spoke
 
@@ -2567,13 +2567,13 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *And when all Jabesh–gilead heard all that the Philistines had don* → **Ahih hangin Jabeshgilead mi khempeuh in Saul tungah Filistiate’ h**
 - `[TDB77]` *These things did Benaiah the son of Jehoiada, and had the name am* → **Jehoiada’ tapa Benaiah in hih nate sem a, a thahat mi thumte bana**
-- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei uh a, a kisehsa bang danin k**
+- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei-te a, a kisehsa bang danin k**
 - `[TDB77]` *Remember his marvellous works that he hath done, his wonders, and* → **Ama hihsa a lamdang nasepte phawk un la, ama hih a lamdangte, a g**
 
 ## make/made
 
 - `[TDB77]` *And they made war with the Hagarites, with Jetur, and Naphish, an* → **Amaute in Hagri mite, Jetur mite, Nafish mite, leh Nodab mite zo **
-- `[TDB77]` *And some of the sons of the priests made the ointment of the spic* → **Siampite’ ta adangte in a namtui nate hel dingin bawl uh a,**
+- `[TDB77]` *And some of the sons of the priests made the ointment of the spic* → **Siampite’ ta adangte in a namtui nate hel dingin bawl-te a,**
 - `[TDB77]` *Even of the covenant which he made with Abraham, and of his oath * → **Abraham tawh a bawl thuciamna, Isaak tungah kiciamin a khapna,**
 - `[TDB77]` *For thy people Israel didst thou make thine own people for ever; * → **Na mi Israelte a tawntungin nangma mi ahi dingin na bawl hi; tua **
 
@@ -2593,7 +2593,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 ## return
 
-- `[TDB77]` *And all the people departed every man to his house: and David ret* → **Tua ciangin mi khempeuh in a inn ciat uhah ciah uh a, David zong **
+- `[TDB77]` *And all the people departed every man to his house: and David ret* → **Tua ciangin mi khempeuh in a inn ciat uhah ciah-te a, David zong **
 - `[TDB77]` *And Jeroboam said in his heart, Now shall the kingdom return to t* → **Tua ciangin Jeroboam in a lungsim sungah, “Tu-in kumpigam in Davi**
 - `[TDB77]` *So he went another way, and returned not by the way that he came * → **Tua ahih ciangin amah lampi dangah pai-in Beth-el ah hong paina l**
 - `[TDB77]` *And Micaiah said, If thou return at all in peace, the* → **Tua ciangin Mikaiah in, “Lungnuam takin nong ciahkik leh Topa in **
@@ -2608,15 +2608,15 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## live/lived
 
 - `[TDB77]` *Even so hath the Lord ordained that they which preach the gospel * → **Tua mah bangin Lungdamna Thu a hilhte in Lungdamna Thu pan a kiva**
-- `[TDB77]` *That they may fear thee all the days that they live in the land w* → **ka pu ka pate uh tungah na piak leitang tungah a nuntak hun sung **
+- `[TDB77]` *That they may fear thee all the days that they live in the land w* → **ka pu ka pate-te tungah na piak leitang tungah a nuntak hun sung **
 - `[TDB77]` *And thou shalt not only while yet I live shew me the kindness of * → **Kei ka nuntak lai leh ka sih loh nadingin Topa’ thuman itna kei t**
-- `[TDB77]` *For now we live, if ye stand fast in the Lord.* → **Bang hang hiam na cih uh leh, note in Topa sungah na kip uh leh, **
+- `[TDB77]` *For now we live, if ye stand fast in the Lord.* → **Bang hang hiam na cih-te leh, note in Topa sungah na kip-te leh, **
 
 ## fear/feared
 
 - `[TDB77]` *Fear before him, all the earth: the world also shall be stable, t* → **leitung mi khempeuh aw, ama mai-ah ling un; hi hi, leitung kip a,**
 - `[TDB77]` *And I was with you in weakness, and in fear, and in much tremblin* → **Note tawh ka omkhawm lai takin thanemin, lau-in, liingin ka om hi**
-- `[TDB77]` *That they may fear thee all the days that they live in the land w* → **ka pu ka pate uh tungah na piak leitang tungah a nuntak hun sung **
+- `[TDB77]` *That they may fear thee all the days that they live in the land w* → **ka pu ka pate-te tungah na piak leitang tungah a nuntak hun sung **
 - `[TDB77]` *And Ahab called Obadiah, which was the governor of his house. (No* → **Tua ciangin Ahab in kumpi inn sung a ukpa Obadiah sam hi. (Obadia**
 
 ## pray/prayed
@@ -2631,14 +2631,14 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *And this thing became a sin: for the people went to worship befor* → **Hih na in khialhna khat suak hi; bang hang hiam cih leh mite Beth**
 - `[TDB77]` *For he served Baal, and worshipped him, and provoked to anger the* → **Amah in Baal’ na semin bia a, a pa mah bangin a hihna khempeuh ah**
 - `[TDB77]` *And this man went up out of his city yearly to worship and to sac* → **Hih mipa a kum kumin a khuapi panin, Eli’ tapa nihte Hofni leh Fi**
-- `[TDB77]` *And they rose up in the morning early, and worshipped before the* → **Amaute zingsangin tho baihin Topa mai-ah bia uh hi; tua ciangin a**
+- `[TDB77]` *And they rose up in the morning early, and worshipped before the* → **Amaute zingsangin tho baihin Topa mai-ah bia-te hi; tua ciangin a**
 
 ## believe
 
 - `[TDB77]` *Therefore whether it were I or they, so we preach, and so ye beli* → **Tua ahih ciangin kei ka hi zongin, amau ahi zongin tua bangin ka **
 - `[TDB77]` *So that ye were ensamples to all that believe in Macedonia and Ac* → **Tua ahih ciangin Makedonia gam leh Akhaia gamah thu-um mite khemp**
 - `[TDB77]` *If we believe not, yet he abideth faithful: he cannot deny himsel* → **Eite i muanhuai loh hangin, Ama muanhuaina a kip den hi. Bang han**
-- `[TDB77]` *And all that believed were together, and had all things common;* → **Thu-um mi khempeuh pawlkhat bekin a om uh a, amaute neihsa khempe**
+- `[TDB77]` *And all that believed were together, and had all things common;* → **Thu-um mi khempeuh pawlkhat bekin a om-te a, amaute neihsa khempe**
 
 ## ask/asked
 
@@ -2666,12 +2666,12 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *And David was afraid of God that day, saying, How shall I bring the ar* → **Tua ni-in David in Pasian kihta hi; amah in, “Pasian’ thuciamna singku**
 - `[TDB77]` *Saying, Unto thee will I give the land of Canaan, the lot of your inhe* → **“Nangma tungah Kanaan gam hong pia-in, gamhluah dingin na tanh dingin **
 - `[TDB77]` *Fear before him, all the earth: the world also shall be stable, that i* → **leitung mi khempeuh aw, ama mai-ah ling un; hi hi, leitung kip a, kilo**
-- `[TDB77]` *Then shall the trees of the wood sing out at the presence of the* → **Tua ciangin gamlak singte in lungdamin Topa mai-ah la sa ding uh hi, b**
+- `[TDB77]` *Then shall the trees of the wood sing out at the presence of the* → **Tua ciangin gamlak singte in lungdamin Topa mai-ah la sa ding-te hi, b**
 
 ## past (did/was/were)
 
 - `[TDB77]` *And Ophir, and Havilah, and Jobab. All these were the sons of Joktan.* → **Ofir mite, Havilah mite, leh Jobab mite’ pian’napa ahi hi; hihte khemp**
-- `[TDB77]` *And the sons of Lotan; Hori, and Homam: and Timna was Lotan's sister.* → **Lotan’ tapate in Hori leh Homan ahi uh hi; tua ciangin Lotan’ sanggamn**
+- `[TDB77]` *And the sons of Lotan; Hori, and Homam: and Timna was Lotan's sister.* → **Lotan’ tapate in Hori leh Homan ahi-te hi; tua ciangin Lotan’ sanggamn**
 - `[TDB77]` *And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in hi* → **Bela a sih ciangin ama tangin Bozrah khuami Zerah’ tapa Jobab in uk hi**
 - `[TDB77]` *And when Jobab was dead, Husham of the land of the Temanites reigned i* → **Jobab a sih ciangin ama tangin Teman mite’ gam mi Husham in uk hi.**
 
@@ -2719,7 +2719,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 ## but
 
-- `[TDB77]` *And the sons of Nadab; Seled, and Appaim: but Seled died without child* → **Nadab’ tapate in: Seled leh Appaim ahi uh hi; Seled in ta nei loin si **
+- `[TDB77]` *And the sons of Nadab; Seled, and Appaim: but Seled died without child* → **Nadab’ tapate in: Seled leh Appaim ahi-te hi; Seled in ta nei loin si **
 - `[TDB77]` *Now Sheshan had no sons, but daughters. And Sheshan had a servant, an * → **Tu-in Sheshan in tapa nei loin tanu bek nei hi; ahih hangin Sheshan in**
 - `[TDB77]` *For Judah prevailed above his brethren, and of him came the chief rule* → **Judah in a sanggamte lakah a thahat suakin ama sung panin ulian khat a**
 - `[TDB77]` *But the fields of the city, and the villages thereof, they gave to Cal* → **ahih hangin khuapi lote leh a khuaneute Jefunneh’ tapa Kaleb tungah pi**
@@ -2728,7 +2728,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *And Meonothai begat Ophrah: and Seraiah begat Joab, the father of the * → **Meonothai in Ofraih’ pa ahi hi; Seraiah in Joab’ pa hi a, Joab in Geha**
 - `[TDB77]` *These were the potters, and those that dwelt among plants and hedges: * → **Hihte in beelseekte hi a, Netaim khua leh Gederah khua ah a teengte ah**
-- `[TDB77]` *And they went to the entrance of Gedor, even unto the east side of the* → **A tuuhonte uh adingin lonona zong dingin kuam nisuahna lam pang, Gedor**
+- `[TDB77]` *And they went to the entrance of Gedor, even unto the east side of the* → **A tuuhonte-te adingin lonona zong dingin kuam nisuahna lam pang, Gedor**
 - `[TDB77]` *For Judah prevailed above his brethren, and of him came the chief rule* → **Judah in a sanggamte lakah a thahat suakin ama sung panin ulian khat a**
 
 ## therefore
@@ -2756,12 +2756,12 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *For there fell down many slain, because the war was of God. And they d* → **Tua gal in Pasian’ gal ahih manin mi tampi tak kithatin puk hi. Tua ci**
 - `[TDB77]` *For at that time day by day there came to David to help him, until it * → **Pasian’ galkap hon bangin galkap hon tampi a phak dongin a ni ni-in Da**
-- `[TDB77]` *For as often as ye eat this bread, and drink this cup, ye do shew the * → **Bang hang hiam na cih uh leh, note in hih khomun ne-in, hih hai na daw**
+- `[TDB77]` *For as often as ye eat this bread, and drink this cup, ye do shew the * → **Bang hang hiam na cih-te leh, note in hih khomun ne-in, hih hai na daw**
 - `[TDB77]` *For he must reign, till he hath put all enemies under his feet.* → **Pasian in galte khempeuh ama khe nuai-ah a khiat khit dong matengin Kh**
 
 ## although
 
-- `[TDB77]` *Now some are puffed up, as though I would not come to you.* → **Kei hong pai lo ding ci-in mi kimkhat in a kihisak uh hi.**
+- `[TDB77]` *Now some are puffed up, as though I would not come to you.* → **Kei hong pai lo ding ci-in mi kimkhat in a kihisak-te hi.**
 - `[TDB77]` *But this I say, brethren, the time is short: it remaineth, that both t* → **Ute naute aw, ke’n kong cih-inah, a hun a tom ahih ciangin zi neite in**
 - `[TDB77]` *For though there be that are called gods, whether in heaven or in eart* → **pasian a tampi leh topa a tampi a om bangin, vantung leh leitungah pas**
 - `[TDB77]` *For though I be free from all men, yet have I made myself servant unto* → **Keimah in kuamah’ sila ka hih loh hangin mi tampi ka ngah nadingin mi **
@@ -2771,7 +2771,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *These are their generations: The firstborn of Ishmael, Nebaioth; then * → **Hihte in amau’ khangsimna ahi hi: Ishmael’ tacil in Nebaioth ahi hi; t**
 - `[TDB77]` *And after that Hezron was dead in Caleb–ephratah, then Abiah Hezron's * → **Hezron a sih khit ciangin Kaleb in a pa Hezron’ zi Efrath luppih a, tu**
 - `[TDB77]` *And his firstborn son Abdon, then Zur, and Kish, and Baal, and Ner, an* → **a tapa upa pen in Abdon, tua ciangin Zur, Kish, Baal, Ner, Nadab,**
-- `[TDB77]` *Then all Israel gathered themselves to David unto Hebron, saying, Beho* → **Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm uh a, “En**
+- `[TDB77]` *Then all Israel gathered themselves to David unto Hebron, saying, Beho* → **Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm-te a, “En**
 
 ## also/too
 
@@ -2797,9 +2797,9 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## what
 
 - `[TDB77]` *What can David speak more to thee for the honour of thy servant? for t* → **Na nasempa nong pahtawina ah David in nang tungah bang gen ding nei na**
-- `[TDB77]` *What will ye? shall I come unto you with a rod, or in love, and in the* → **Koici bang deih na hi uh hiam? Ciangduai tawi-in note kiangah hong pai**
-- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih uh leh, a pualam mite thukhenna tawh bang kikum **
-- `[TDB77]` *What? know ye not that he which is joined to an harlot is one body? fo* → **Numei gilo tawh kipawlte in numei gilo tawh pumkhat sakhat ahi uh hi c**
+- `[TDB77]` *What will ye? shall I come unto you with a rod, or in love, and in the* → **Koici bang deih na hi-te hiam? Ciangduai tawi-in note kiangah hong pai**
+- `[TDB77]` *For what have I to do to judge them also that are without? do not ye j* → **Bang hang hiam na cih-te leh, a pualam mite thukhenna tawh bang kikum **
+- `[TDB77]` *What? know ye not that he which is joined to an harlot is one body? fo* → **Numei gilo tawh kipawlte in numei gilo tawh pumkhat sakhat ahi-te hi c**
 
 ## where
 
@@ -2826,19 +2826,19 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *And David was afraid of God that day, saying, How shall I bring the ar* → **Tua ni-in David in Pasian kihta hi; amah in, “Pasian’ thuciamna singku**
 - `[TDB77]` *Now when Tou king of Hamath heard how David had smitten all the host o* → **David in Zobah kumpipa Hadadezer’ galkap buppi a zawhna thu Hamath kum**
-- `[TDB77]` *Know ye not that we shall judge angels? how much more things that pert* → **Eite in vantungmite thu i khen ding thei lo na hi uh hiam? Tua ahih ci**
+- `[TDB77]` *Know ye not that we shall judge angels? how much more things that pert* → **Eite in vantungmite thu i khen ding thei lo na hi-te hiam? Tua ahih ci**
 - `[TDB77]` *But he that is married careth for the things that are of the world, ho* → **Zi nei mi ahih leh, a zi lungdamsak nadingin leitung thu a ngaihsun hi**
 
 ## which
 
 - `[TDB77]` *And when Azubah was dead, Caleb took unto him Ephrath, which bare him * → **Azubah a sih ciangin Kaleb in Efrath ten’pihin, tua nu in amah tawh Hu**
 - `[TDB77]` *And Chelub the brother of Shuah begat Mehir, which was the father of E* → **Shuhah’ sanggampa Khelub in Mehir’ pa hi a, Mehir in Eshton’ pa ahi hi**
-- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte uh hih mite tawh a om **
+- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte-te hih mite tawh a om **
 - `[TDB77]` *So Saul died for his transgression which he committed against the* → **Tua ahih ciangin a thuman’lohna hangin Saul si hi; amah in Topa’ thupi**
 
 ## how many
 
-- `[TDB77]` *Know ye not that we shall judge angels? how much more things that pert* → **Eite in vantungmite thu i khen ding thei lo na hi uh hiam? Tua ahih ci**
+- `[TDB77]` *Know ye not that we shall judge angels? how much more things that pert* → **Eite in vantungmite thu i khen ding thei lo na hi-te hiam? Tua ahih ci**
 - `[TDB77]` *Then Ananias answered, Lord, I have heard by many of this man, how muc* → **Ananias in, “Topa aw, hih pa in Jerusalem khua-ah na misiangtho hi zah**
 - `[TDB77]` *How much less in them that dwell in houses of clay, whose foundation i* → **inn umna kawm dingin buan-a kizatna inn sunga teeng mite, a inn bulpi **
 - `[TDB77]` *How much less shall I answer him, and choose out my words to reason wi* → **Tua ahih ciangin ke’n amah bangci dawn thei loh zaw kan ding a, amah k**
@@ -2855,18 +2855,18 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *And Pathrusim, and Casluhim, (of whom came the Philistines,) and Capht* → **Pathrus mite, Kasluh mite (Filistia mite’ hong pian’na), leh Kaftor mi**
 - `[TDB77]` *For Judah prevailed above his brethren, and of him came the chief rule* → **Judah in a sanggamte lakah a thahat suakin ama sung panin ulian khat a**
 - `[TDB77]` *And Ephraim their father mourned many days, and his brethren came to c* → **Tua ciangin a pa Efraim ni tampi sung kap a, amah hehnem dingin a sang**
-- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte uh hih mite tawh a om **
+- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte-te hih mite tawh a om **
 
 ## go (away)
 
-- `[TDB77]` *And they went to the entrance of Gedor, even unto the east side of the* → **A tuuhonte uh adingin lonona zong dingin kuam nisuahna lam pang, Gedor**
+- `[TDB77]` *And they went to the entrance of Gedor, even unto the east side of the* → **A tuuhonte-te adingin lonona zong dingin kuam nisuahna lam pang, Gedor**
 - `[TDB77]` *And Jehozadak went into captivity, when the* → **Topa in Nebukhadnezzar’ khut tawh Judah leh Jerusalem sal-in a mat cia**
 - `[TDB77]` *And the battle went sore against Saul, and the archers hit him, and he* → **Gal kidona in Saul neh mahmah a, thaltawite in amah pha hi; thaltawite**
 - `[TDB77]` *And David and all Israel went to Jerusalem, which is Jebus; where the * → **Tua ciangin Jebus mite a ten’na, Jebus a kici Jerusalem ah David leh I**
 
 ## bring (toward)
 
-- `[TDB77]` *And certain of them had the charge of the ministering vessels, that th* → **Amaute pawlkhat in biakinn sunga kizang um-le-beelte uk uh hi; bang ha**
+- `[TDB77]` *And certain of them had the charge of the ministering vessels, that th* → **Amaute pawlkhat in biakinn sunga kizang um-le-beelte uk-te hi; bang ha**
 - `[TDB77]` *And let us bring again the ark of our God to us: for we enquired not a* → **Tua ciangin thuciamna singkuang eite kiangah la kik ni; bang hang hiam**
 - `[TDB77]` *And David was afraid of God that day, saying, How shall I bring the ar* → **Tua ni-in David in Pasian kihta hi; amah in, “Pasian’ thuciamna singku**
 - `[TDB77]` *And David gathered all Israel together to Jerusalem, to bring up the a* → **Tua ciangin amah in a bawlsa, ama om nading munah Topa’ thuciamna sing**
@@ -2883,7 +2883,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *And Shaharaim begat children in the country of Moab, after he had sent* → **Shaharaim in a zite ahi Hushim leh Baara a mak khit ciangin Moab gam s**
 - `[TDB77]` *And when David heard of it, he sent Joab, and all the host of the migh* → **David in tua thu a zak ciangin Joab leh mi thahat galkap khempeuh sawl**
 - `[TDB77]` *And God sent an angel unto Jerusalem to destroy it: and as he was dest* → **Tua ciangin Pasian in a susia dingin Jerusalem ah vantungmi sawl hi; a**
-- `[TDB77]` *And when I come, whomsoever ye shall approve by your letters, them wil* → **Ka hong tun’ ciangin mi na deihte uh laitai sakin na piak uh sumpi Jer**
+- `[TDB77]` *And when I come, whomsoever ye shall approve by your letters, them wil* → **Ka hong tun’ ciangin mi na deihte-te laitai sakin na piak-te sumpi Jer**
 
 ## return/come back
 
@@ -2910,7 +2910,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *And the fame of David went out into all lands; and the* → **Tua ciangin David minthan’na in gam khempeuh zel a, Topa in minam khem**
 - `[TDB77]` *And it came to pass, when the priests were come out of the holy place,* → **Siangtho Mun panin siampite a paikhiat ciangin meii in Topa’ inn tuam **
-- `[TDB77]` *If thy people go out to battle against their enemy, whithersoever thou* → **“A galte uh do dingin na mite kuan khia-in, bangbang lamah amaute sawl**
+- `[TDB77]` *If thy people go out to battle against their enemy, whithersoever thou* → **“A galte-te do dingin na mite kuan khia-in, bangbang lamah amaute sawl**
 - `[TDB77]` *Then Jeroboam built Shechem in mount Ephraim, and dwelt therein; and w* → **Tua ciangin Jeroboam in Efraim mualtung gam sungah Shekhem khua lamin **
 
 ## go in/enter
@@ -2918,7 +2918,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *And, lo, while she yet talked with the king, Nathan the prophet also c* → **Tua nu kumpipa tawh kiho-in a om lai takin kamsangpa Nathan hong tum h**
 - `[TDB77]` *Arise thou therefore, get thee to thine own house: and when thy feet e* → **Tua ahih ciangin ding in la, na innah ciah in. Na khua na tun’ ciangin**
 - `[TDB77]` *Then Eli answered and said, Go in peace: and the God of Israel grant t* → **Tua ciangin Eli in dawngin, “Nuam takin pai in, Israelte’ Pasian in am**
-- `[TDB77]` *But all Israel and Judah loved David, because he went out and came in * → **Ahih hangin Israelte khempeuh leh Judahte khempeuh in David it uh hi; **
+- `[TDB77]` *But all Israel and Judah loved David, because he went out and came in * → **Ahih hangin Israelte khempeuh leh Judahte khempeuh in David it-te hi; **
 
 ---
 <!-- SOURCE: wiki/grammar/adjectives_corpus.md -->
@@ -2945,19 +2945,19 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *Glory ye in his holy name: let the heart of them rejoice that seek the* → **Ama min siangtho hangin nuamin diang un la, Topa a zong mite lungdam t**
 - `[TDB77]` *If any man defile the temple of God, him shall God destroy; for the te* → **Mikhat in Pasian’ biakna innpi a sukgawp leh, Pasian in tua pa a sugaw**
-- `[TDB77]` *All the brethren greet you. Greet ye one another with an holy kiss.* → **Ute naute khempeuh in note hong hopih uh hi. Khat leh khat a siangtho **
-- `[TDB77]` *But ye have an unction from the Holy One, and ye know all things.* → **Note in Siangtho Pa’ Kha Siangtho sathau nilhsa na hi uh a, na khempeu**
+- `[TDB77]` *All the brethren greet you. Greet ye one another with an holy kiss.* → **Ute naute khempeuh in note hong hopih-te hi. Khat leh khat a siangtho **
+- `[TDB77]` *But ye have an unction from the Holy One, and ye know all things.* → **Note in Siangtho Pa’ Kha Siangtho sathau nilhsa na hi-te a, na khempeu**
 
 ## righteous
 
 - `[TDB77]` *And his brother Asaph, who stood on his right hand, even Asaph the son* → **Asaf in lasa pawl a nihna a makaipa hi a, ama khangsimna a pupi Levi l**
 - `[TDB77]` *And all the congregation said that they would do so: for the thing was* → **Tua thu mi khempeuh in hoih sa ahih manin tua bangin hih ding a kikhaw**
-- `[TDB77]` *If ye know that he is righteous, ye know that every one that doeth rig* → **Amah in midik ahih note in na theih uh leh, dikna thu a sem mi khempeu**
+- `[TDB77]` *If ye know that he is righteous, ye know that every one that doeth rig* → **Amah in midik ahih note in na theih-te leh, dikna thu a sem mi khempeu**
 - `[TDB77]` *Little children, let no man deceive you: he that doeth righteousness i* → **Ka ta neute aw, lam hong khialsak thei dingin kuamah kizolsak kei un. **
 
 ## evil
 
-- `[TDB77]` *Now these things were our examples, to the intent we should not lust a* → **Amaute in a hoih lote a deihgawh uh bangin i deihgawh loh nadingin hih**
+- `[TDB77]` *Now these things were our examples, to the intent we should not lust a* → **Amaute in a hoih lote a deihgawh-te bangin i deihgawh loh nadingin hih**
 - `[TDB77]` *For if I by grace be a partaker, why am I evil spoken of for that for * → **Lungdamna kohna tawh hehpihna phatin an ka nek leh, bang hangin gensia**
 - `[TDB77]` *Doth not behave itself unseemly, seeketh not her own, is not easily pr* → **a kituak loin a gamta kei hi, ama phat nading a zong kei hi, a heh bai**
 - `[TDB77]` *Be not deceived: evil communications corrupt good manners.* → **Na kikheem kei un, ‘Mipha lote tawh kikholhna hangin gamtatna pha kisi**
@@ -2972,9 +2972,9 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## small
 
 - `[TDB77]` *And they cast lots, ward against ward, as well the small as the great,* → **Tua ciangin a neu a lian, sia leh a sinte a kibangin, amaute in amau’ **
-- `[TDB77]` *And they cast lots, as well the small as the great, according to the h* → **amaute in a neu a lian a kibangin a pate uh innkuan kuanin amau’ kongp**
-- `[TDB77]` *Your glorying is not good. Know ye not that a little leaven leaveneth * → **Na kisaktheihna uh a hoih kei hi. Silngo tawmkha in annel sial lom kha**
-- `[TDB77]` *I write unto you, little children, because your sins are forgiven you * → **Ka ta neute aw, ama min hangin na mawhna uh a kimaisak ahih ciangin, n**
+- `[TDB77]` *And they cast lots, as well the small as the great, according to the h* → **amaute in a neu a lian a kibangin a pate-te innkuan kuanin amau’ kongp**
+- `[TDB77]` *Your glorying is not good. Know ye not that a little leaven leaveneth * → **Na kisaktheihna-te a hoih kei hi. Silngo tawmkha in annel sial lom kha**
+- `[TDB77]` *I write unto you, little children, because your sins are forgiven you * → **Ka ta neute aw, ama min hangin na mawhna-te a kimaisak ahih ciangin, n**
 
 ## many
 
@@ -2986,7 +2986,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## all
 
 - `[TDB77]` *And Ophir, and Havilah, and Jobab. All these were the sons of Joktan.* → **Ofir mite, Havilah mite, leh Jobab mite’ pian’napa ahi hi; hihte khemp**
-- `[TDB77]` *And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and E* → **Midian’ tapate in: Efah, Efer, Hanok, Abida, leh Elda-ah ahi uh hi. Hi**
+- `[TDB77]` *And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and E* → **Midian’ tapate in: Efah, Efer, Hanok, Abida, leh Elda-ah ahi-te hi. Hi**
 - `[TDB77]` *And Tamar his daughter in law bare him Pharez and Zerah. All the sons * → **A tapa’ zi Tamar in zong amah tawh Perez leh Zerah nei hi. Judah in a **
 - `[TDB77]` *And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Da* → **Zeran’ tapate in: Zimri, Ethan, Heman, Kalkol, leh Dara, a vekpi-in ng**
 
@@ -3009,7 +3009,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *Of the three, he was more honourable than the two; for he was their ca* → **Amah in mihing sawmthumte sung panin a minthang pen hi a, amaute a ukp**
 - `[TDB77]` *Behold, he was honourable among the thirty, but attained not to the fi* → **Mihing sawmthumte lakah amah minthang a, ahih hangin amah in mi thumte**
 - `[TDB77]` *Ezer the first, Obadiah the second, Eliab the third,* → **A ukpi Ezer, a nihna Obadiah, a thumna Eliab,**
-- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei uh a, a kisehsa bang danin kem lo**
+- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei-te a, a kisehsa bang danin kem lo**
 
 ## last
 
@@ -3042,7 +3042,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## three
 
 - `[TDB77]` *And Jesse begat his firstborn Eliab, and Abinadab the second, and Shim* → **Jessi in a tacil Eliab, a nihna Abinadab, thumna Shimea,**
-- `[TDB77]` *Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abis* → **amau’ sanggamnumeite in Zeru-iah leh Abigail ahi uh hi. Zeru-iah’ tapa**
+- `[TDB77]` *Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abis* → **amau’ sanggamnumeite in Zeru-iah leh Abigail ahi-te hi. Zeru-iah’ tapa**
 - `[TDB77]` *And Segub begat Jair, who had three and twenty cities in the land of G* → **Segub in Jair’ pa hi a, Gilead gam sungah khuapi sawmnih-le-thum nei h**
 - `[TDB77]` *The third, Absalom the son of Maacah the daughter of Talmai king of Ge* → **Geshur kumpipa Talmai’ tanu, a nu Ma-akah a hi a thumna Absalom; a nu **
 
@@ -3051,7 +3051,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 - `[TDB77]` *Nethaneel the fourth, Raddai the fifth,* → **a lina Nethanel, a ngana Raddai,**
 - `[TDB77]` *The third, Absalom the son of Maacah the daughter of Talmai king of Ge* → **Geshur kumpipa Talmai’ tanu, a nu Ma-akah a hi a thumna Absalom; a nu **
 - `[TDB77]` *And the sons of Josiah were, the firstborn Johanan, the second Jehoiak* → **Josiah’ tapate in: A tacil Johanan, a nihna Jehoiakim, a thumna Zedeki**
-- `[TDB77]` *Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, fo* → **Issakhar’ tapate in: Tola, Puah, Jashub, leh Shimron, li pha uh hi.**
+- `[TDB77]` *Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, fo* → **Issakhar’ tapate in: Tola, Puah, Jashub, leh Shimron, li pha-te hi.**
 
 ## five
 
@@ -3063,13 +3063,13 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## seven
 
 - `[TDB77]` *Ozem the sixth, David the seventh:* → **a gukna Ozem, a sagihna David’ pa ahi hi;**
-- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte uh hih mite tawh a om **
+- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte-te hih mite tawh a om **
 - `[TDB77]` *Attai the sixth, Eliel the seventh,* → **a gukna Attai, a sagihna Eliel,**
 - `[TDB77]` *Of the children of Simeon, mighty men of valour for the war, seven tho* → **Simeon mite sung panin galdo dingin a thahat a vanglian mihing tulsagi**
 
 ## ten
 
-- `[TDB77]` *Jeremiah the tenth, Machbanai the eleventh.* → **a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi uh hi.**
+- `[TDB77]` *Jeremiah the tenth, Machbanai the eleventh.* → **a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi-te hi.**
 - `[TDB77]` *The ninth to Jeshua, the tenth to Shecaniah,* → **a kuana Jeshua tung, a sawmna Shekaiah tung,**
 - `[TDB77]` *The tenth to Shimei, he, his sons, and his brethren, were twelve:* → **a sawmna Shimei, leh a tapate leh a sanggamte, sawm-le-nih tung tu hi;**
 - `[TDB77]` *And Solomon had threescore and ten thousand that bare burdens, and fou* → **Solomon in van pua mi tul sawmsagih leh mual tung gamah suangseek mi t**
@@ -3113,7 +3113,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *And his brother Asaph, who stood on his right hand, even Asaph the son* → **Asaf in lasa pawl a nihna a makaipa hi a, ama khangsimna a pupi Levi l**
 - `[TDB77]` *And when they came unto the threshingfloor of Chidon, Uzza put forth h* → **Amaute Khido’ ancilna phual a tun’ uh ciangin bawngtalte muktu ahih ma**
-- `[TDB77]` *These were born unto the giant in Gath; and they fell by the hand of D* → **Hihte in Gath a, mithagolte sung pana hong piang ahi uh hi; David leh **
+- `[TDB77]` *These were born unto the giant in Gath; and they fell by the hand of D* → **Hihte in Gath a, mithagolte sung pana hong piang ahi-te hi; David leh **
 - `[TDB77]` *And David said unto Gad, I am in a great strait: let me fall now into * → **Tua ciangin David in Gad kiangah, “Keimah in lungkhamna lianpi khat ka**
 
 ## foot/feet
@@ -3148,8 +3148,8 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *Glory ye in his holy name: let the heart of them rejoice that seek the* → **Ama min siangtho hangin nuamin diang un la, Topa a zong mite lungdam t**
 - `[TDB77]` *Then Nathan said unto David, Do all that is in thine heart; for God is* → **Tua ciangin Nathan in David kiangah, “Pasian in nang tawh om ahih mani**
-- `[TDB77]` *Now set your heart and your soul to seek the* → **Tu-in Topa na Pasian uh a zong dingin na ngaihsutna uh leh na lungsim **
-- `[TDB77]` *Then the people rejoiced, for that they offered willingly, because wit* → **Tua ciangin hih mite in utna lungsim tawh pia uh ahih manin mite lungd**
+- `[TDB77]` *Now set your heart and your soul to seek the* → **Tu-in Topa na Pasian-te a zong dingin na ngaihsutna-te leh na lungsim **
+- `[TDB77]` *Then the people rejoiced, for that they offered willingly, because wit* → **Tua ciangin hih mite in utna lungsim tawh pia-te ahih manin mite lungd**
 
 ## face
 
@@ -3167,10 +3167,10 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 ## blood
 
-- `[TDB77]` *And there are three that bear witness in earth, the Spirit, and the wa* → **Bang hang hiam na cih uh leh, teci a pang thum ahi Kha Siangtho, tui l**
+- `[TDB77]` *And there are three that bear witness in earth, the Spirit, and the wa* → **Bang hang hiam na cih-te leh, teci a pang thum ahi Kha Siangtho, tui l**
 - `[TDB77]` *But with the precious blood of Christ, as of a lamb without blemish an* → **hoih lohna om lo, a nin baang lo tuuno tawh kibang ahi Khazih’ manpha **
 - `[TDB77]` *Now therefore, let not my blood fall to the earth before the face of t* → **Tua ahih ciangin tu-in Topa’ omna panin gamdang leitangah kei hong si **
-- `[TDB77]` *And they killed the passover, and the priests sprinkled the blood from* → **Tua ciangin amaute in Paisan tuuno go uh a, Levi mite in savun a hawk **
+- `[TDB77]` *And they killed the passover, and the priests sprinkled the blood from* → **Tua ciangin amaute in Paisan tuuno go-te a, Levi mite in savun a hawk **
 
 ---
 <!-- SOURCE: wiki/grammar/time_expressions_corpus.md -->
@@ -3181,22 +3181,22 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 ## day
 
-- `[TDB77]` *And they smote the rest of the Amalekites that were escaped, and dwelt* → **amaute in Amalek mi a suakta a om laite susia uh a, tu ni dongin tua m**
+- `[TDB77]` *And they smote the rest of the Amalekites that were escaped, and dwelt* → **amaute in Amalek mi a suakta a om laite susia-te a, tu ni dongin tua m**
 - `[TDB77]` *All these were reckoned by genealogies in the days of Jotham king of J* → **Hihte khempeuh Judah kumpi Jotham’ hun sung, leh Israel kumpi Jeroboam**
 - `[TDB77]` *And Ephraim their father mourned many days, and his brethren came to c* → **Tua ciangin a pa Efraim ni tampi sung kap a, amah hehnem dingin a sang**
-- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte uh hih mite tawh a om **
+- `[TDB77]` *And their brethren, which were in their villages, were to come after s* → **tua ciangin amau’ khuaneute sungah a om a behte-te hih mite tawh a om **
 
 ## night
 
 - `[TDB77]` *And it came to pass the same night, that the word of God came to Natha* → **Ahih hangin tua zan mahin Nathan’ kiangah Topa’ thu hong tung a,**
 - `[TDB77]` *And this woman's child died in the night; because she overlaid it.* → **Amah in delhphah kha ahih manin zanin hih numei’ tapa si hi.**
-- `[TDB77]` *They were a wall unto us both by night and day, all the while we were * → **tuute kemin amaute tawh ka om sung khempeuh uh kote adingin sun leh za**
-- `[TDB77]` *And she brought it before Saul, and before his servants; and they did * → **Saul leh a nasemte mai-ah lui hi; amaute in ne uh hi. Tua ciangin amau**
+- `[TDB77]` *They were a wall unto us both by night and day, all the while we were * → **tuute kemin amaute tawh ka om sung khempeuh-te kote adingin sun leh za**
+- `[TDB77]` *And she brought it before Saul, and before his servants; and they did * → **Saul leh a nasemte mai-ah lui hi; amaute in ne-te hi. Tua ciangin amau**
 
 ## morning
 
-- `[TDB77]` *And to stand every morning to thank and praise the* → **Tua ciangin amaute zingsang simin ding ding uh a, lungdamna koin Topa **
-- `[TDB77]` *And they rose up in the morning early, and worshipped before the* → **Amaute zingsangin tho baihin Topa mai-ah bia uh hi; tua ciangin amaute**
+- `[TDB77]` *And to stand every morning to thank and praise the* → **Tua ciangin amaute zingsang simin ding ding-te a, lungdamna koin Topa **
+- `[TDB77]` *And they rose up in the morning early, and worshipped before the* → **Amaute zingsangin tho baihin Topa mai-ah bia-te hi; tua ciangin amaute**
 - `[TDB77]` *And Samuel lay until the morning, and opened the doors of the house of* → **Samuel zingsang dong lum hi; tua ciangin amah in Topa’ inn kongkhakte **
 - `[TDB77]` *And the Philistine drew near morning and evening, and presented himsel* → **Ni sawmli sung zing leh nitakin Filistiapa hong pai-in hong ding hi.**
 
@@ -3224,7 +3224,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 ## now
 
 - `[TDB77]` *Now Sheshan had no sons, but daughters. And Sheshan had a servant, an * → **Tu-in Sheshan in tapa nei loin tanu bek nei hi; ahih hangin Sheshan in**
-- `[TDB77]` *Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, fo* → **Issakhar’ tapate in: Tola, Puah, Jashub, leh Shimron, li pha uh hi.**
+- `[TDB77]` *Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, fo* → **Issakhar’ tapate in: Tola, Puah, Jashub, leh Shimron, li pha-te hi.**
 - `[TDB77]` *Now Benjamin begat Bela his firstborn, Ashbel the second, and Aharah t* → **Benjamin in a tacil Bela, a nihna Ashbel, a thumna Aharah,**
 - `[TDB77]` *Now these are the names of his children which he had in Jerusalem; Sha* → **Jerusalem ah a neih a tate’ min in: Shammua, Shobab, Nathan, Solomon,**
 
@@ -3242,7 +3242,7 @@ CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
 
 - `[TDB77]` *Be ye mindful always of his covenant; the word which he commanded to a* → **Amah in a thuciamna phawk tawntung hi, khang tulkhat adingin a thupiak**
 - `[TDB77]` *I thank my God always on your behalf, for the grace of God which is gi* → **Khazih’ thu tecipan’na nomau lakah a kip ahih ciangin**
-- `[TDB77]` *Therefore we are always confident, knowing that, whilst we are at home* → **Tua ahih ciangin pumpi-ah ka om lai tengun Pasian tawh ka kigamla uh h**
+- `[TDB77]` *Therefore we are always confident, knowing that, whilst we are at home* → **Tua ahih ciangin pumpi-ah ka om lai tengun Pasian tawh ka kigamla-te h**
 - `[TDB77]` *Moreover I will endeavour that ye may be able after my decease to have* → **Ahi hi. Ka sih khit ciangin note in hih thute na phawk tawntung nading**
 
 ---
@@ -3469,8 +3469,8 @@ Zolai forms passives using the reflexive/reciprocal prefix `ki-`:
 | 3rd singular | `amah` | `a` | `A pai hi.` | He/she/it goes. |
 | 1st plural inclusive | `keimahte` / `eite` | `i` | `I pai hi.` | We (all) go. |
 | 1st plural exclusive | `keite` / `koite` | `ko` | `Ko pai hi.` | We (not you) go. |
-| 2nd plural | `nangmite` | `na...uh` | `Na pai uh hi.` | You (all) go. |
-| 3rd plural | `amahte` | `a...uh` | `A pai uh hi.` | They go. |
+| 2nd plural | `nangmite` | `na...uh` | `Na pai-te hi.` | You (all) go. |
+| 3rd plural | `amahte` | `a...uh` | `A pai-te hi.` | They go. |
 
 ### Pronoun Drop Rule
 In informal speech, subject pronouns are dropped when the agreement marker makes person clear:
@@ -3520,13 +3520,13 @@ Asang              High / tall          [adjective prefix]
 ```
 I pai hi.           We (all) go.
 I ne ding.          We will eat.
-⚠️ NEVER: I pai uh hi. — WRONG (uh + i = forbidden)
+⚠️ NEVER: I pai-te hi. — WRONG (uh + i = forbidden)
 ```
 
 ### `uh` (3rd person plural marker)
 ```
-A pai uh hi.        They go.
-A ne uh hi.         They eat.
+A pai-te hi.        They go.
+A ne-te hi.         They eat.
 ⚠️ Only for 3rd person — NEVER with i/ei
 ```
 
@@ -3796,7 +3796,7 @@ Used in: newspapers (Zomidaily), books, official letters, wiki, formal documents
 ### Example
 ```
 Zomi mite in amau' pau leh ngeina tawntung theihna dingin
-nasem tampi a bawl uh hi.
+nasem tampi a bawl-te hi.
 — Zomidaily style
 ```
 
@@ -3951,7 +3951,7 @@ When the relative clause is more descriptive, the verb often stays in its primar
 **Biblical Evidence:**
 The ZVS and TDB77 Bibles consistently follow this subject-dependent negation:
 - `Thupha nong piak kei leh...` (If you don't give me a blessing) — *Gen 32:26*
-- `Nong pia ding uh hi; tua hi kei leh...` (You shall give it; otherwise...) — *1 Sam 2:16*
+- `Nong pia ding-te hi; tua hi kei leh...` (You shall give it; otherwise...) — *1 Sam 2:16*
 - *See [Biblical Sentence Patterns](grammar/biblical_sentence_patterns.md) for more.*
 
 ### The "Provided that / As long as" (Ciang)
@@ -4015,7 +4015,7 @@ To ensure "Correct Zolai" over "Beautiful Zolai" (as emphasized in *Zolai Gelhma
 
 | Category | Incorrect (Wrong) | Correct (ZVS Standard) | Reason |
 | :--- | :--- | :--- | :--- |
-| **First Person Plural** | `I pai uh hi` | `I pai hi` | `I` (we) already implies the group; `uh` is redundant. |
+| **First Person Plural** | `I pai-te hi` | `I pai hi` | `I` (we) already implies the group; `uh` is redundant. |
 | **Word Ordering** | `A u a huh buh tuh` | `A u buh tuh a huh hi` | Object `buh tuh` (planting) must precede the verb `huh` (help). |
 | **Negation Stems** | `Pai lo` | `Paih lo` (secondary) | In formal subordinates or specific markers, Stem II is required. |
 | **Space Usage** | `Nathapa` | `Na tapa` | Consistent spacing between possessive particle and noun is critical. |
@@ -4100,7 +4100,7 @@ Based on *Zolai Sinna Bu* (lines 1074–1076), three strict phonotactic rules ar
 2. **[c] + [a, e, o, aw] never combine:** The initial consonant `c` is restricted to pairing only with `i` and `u` (e.g., `ci`, `cih`, `ciang`). It never appears before `a`, `e`, `o`, or `aw`.
 3. **[uh] never with first-person [i]:** The plural marker `uh` is never used with the first-person inclusive pronoun `i` (we).
    - ✅ `I pai hi` (We go)
-   - ❌ `I pai uh hi`
+   - ❌ `I pai-te hi`
 
 ---
 
@@ -4389,7 +4389,7 @@ To maintain pure Zolai Tedim literacy, the system MUST filter out the following 
 | **topa** | **topa** | Lord / Master |
 | **tapa** | **tapa** | Son |
 | **gam** | **gam** | Country / Land |
-| **siangpahrang** | **kumpipa** | King / Ruler |
+| **kumpipa** | **kumpipa** | King / Ruler |
 | **bia** | **thu** | Word / Message |
 | **ka hmu** | **ka mu** | See (Verb) |
 
@@ -4404,7 +4404,7 @@ English often uses "The [Noun] that [Subject] [Verb]".
 Zolai avoids the passive voice where possible.
 - **English:** "It is said that..."
 - **Direct (Avoid):** `Kici hi...`
-- **Natural (Prefer):** `Mi te'n gen uh hi...` (People say...) or `Kizakna ah...` (In what is heard...).
+- **Natural (Prefer):** `Mi te'n gen-te hi...` (People say...) or `Kizakna ah...` (In what is heard...).
 
 ### C. The "Resultative Stack" (Action Logic)
 Zolai describes the *process* and the *result* in a single stack.
@@ -4496,7 +4496,7 @@ Zolai uses rhythmic reduplication to indicate intensity, persistence, or descrip
 ### V. Formal Request/Exhortation: "Kong thuum hi"
 Used to translate "I beseech you" or "I entreat you" in a formal, high-register context.
 - **Pattern:** `[Subject] [Object] [Action] nadingun kong thuum hi.`
-- **Example:** "I beseech you... confirm your love" -> `ama it takpi uh na kilatsak nadingun kong thuum hi.` (2CO 2:8)
+- **Example:** "I beseech you... confirm your love" -> `ama it takpi-te na kilatsak nadingun kong thuum hi.` (2CO 2:8)
 
 ### W. The "Maleep" (Seal/Earnest/Guarantee)
 Specialized theological term for a down-payment or guarantee, specifically used for the Holy Spirit.
@@ -5388,7 +5388,7 @@ kimawlna ii panlakna thupi ahihlam ciamteh hi
 
 ### `a...uh` (3rd person plural)
 ```
-sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna uh tawh pilsin uh hi
+sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna-te tawh pilsin-te hi
 = students learn through engaging their curiosity in their own environment
 ```
 
@@ -5515,8 +5515,8 @@ Providing a robust legal and administrative vocabulary bridges the gap between c
 When creating sentences about government or laws:
 ```zolai
 Kumpi thukhun i zuih ding a kisam hi.
-Mi khempeuh in suahtakna a deih uh hi.
-Thukhente in thuman thutak zang in vaihawm uh hi.
+Mi khempeuh in suahtakna a deih-te hi.
+Thukhente in thuman thutak zang in vaihawm-te hi.
 ```
 
 ## Mistake / Anti-pattern
@@ -6268,7 +6268,7 @@ The Ciimnuai settlement served as a cultural hub. From there, subgroups migrated
 From *Sinna* (lines 272–282):
 > `1980 pawl a kipanin Zomite sak leh khang sim leh malah kikhen thangin gam tuamtuamah kileng keek hi.` — From the 1980s, Zomi people scattered to many foreign countries.
 
-The core threat: `Gamdanga piang Zomi naupangte in ei pau siam nawn loin, zang thei nawn lo mawk uh hi.` — Zomi children born abroad can no longer speak or use the language.
+The core threat: `Gamdanga piang Zomi naupangte in ei pau siam nawn loin, zang thei nawn lo mawk-te hi.` — Zomi children born abroad can no longer speak or use the language.
 
 ### Preservation Efforts
 - **ZAUS** (Zomi Association of USA, 2009) — Created the online Zolai Sinna
@@ -6345,7 +6345,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 - **Correct:** Use "Suahtakna".
 
 ## 7. Plurality violation `i` + `uh`
-- **Mistake:** `I kiphawk mahmah uh ahihman in...`
+- **Mistake:** `I kiphawk mahmah-te ahihman in...`
 - **Correct:** `I kiphawk mahmah ahihman in...` — drop `uh` when using `i`.
 - **Rule:** NEVER combine `uh` with `i`. (Khanggui lines 474–481)
 
@@ -6361,7 +6361,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 
 ## 10. Sentence-final particles (learned from 2.8M corpus)
 - `maw` — soft question/confirmation: `Hoih maw?`
-- `uhi`/`uh hi` — 3rd person plural declarative: `A pai uh hi.`
+- `uhi`/`uh hi` — 3rd person plural declarative: `A pai-te hi.`
 - `ing` — 1st person exclusive future: `Ka pai ing.`
 - `ahihi` — contracted `ahi hi`
 - `diam` — soft question: `Na pai ding diam?`
@@ -6406,7 +6406,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 - `kikhawm` = gather/assemble (general)
 - `ki mu khawm` = meet together (people coming to meet each other specifically)
 - For diplomatic meetings: use `ki mu khawm`
-- Example: `US leh Iran te in Pakistan ah ki mu khawm uh hi.`
+- Example: `US leh Iran te in Pakistan ah ki mu khawm-te hi.`
 
 ## 14. `thu a kigen` vs `thu a kikum`
 - `thu a kigen uh` = they spoke/said words (general speech)
@@ -6420,8 +6420,8 @@ Avoid these common mistakes when generating Zolai Tedim.
 
 ## 16. Failed negotiations phrasing
 - `thu a kituah lo` = the matter did not happen (too vague)
-- `a thu uh a kituak kei hi` = their matter did not come together/agree
-- `thukim na a ngah kei uh hi` = they did not obtain agreement (most precise)
+- `a thu-te a kituak kei hi` = their matter did not come together/agree
+- `thukim na a ngah kei-te hi` = they did not obtain agreement (most precise)
 
 ## 17. Degrees of leaving/departing
 - `a ciah hi` = he left (neutral)
@@ -6443,12 +6443,12 @@ Avoid these common mistakes when generating Zolai Tedim.
 - `lauhuai` = dangerous / scary / fearful (from `lau` = fear)
 - `siahuai` = fierce / bad / wicked / evil
 - For something dangerous to release/handle: use `lauhuai`
-- Example: `A lauhuai lua ahih manin pulaakkhia nuam lo uh hi.` (Too dangerous to release.)
+- Example: `A lauhuai lua ahih manin pulaakkhia nuam lo-te hi.` (Too dangerous to release.)
 
 ## 19. `release` (product/model) = `pulaakkhia`
 - `pulaakkhia` = release/publish/put out for public
 - `suakta sak` = cause to come out (also valid)
-- Example: `Model thak pulaakkhia uh hi.` (They released a new model.)
+- Example: `Model thak pulaakkhia-te hi.` (They released a new model.)
 
 ## 20. `hong ki beh lap hi` for product launches
 - For many things being released/launched: `hong ki beh lap hi`
@@ -6607,7 +6607,7 @@ Si ding hi.              = (He) will die.
 ```
 Ka pai thei hi.          = I can go.
 Ka thei kei hi.          = I cannot / I don't know.
-Lut thei kei uh hi.      = They could not enter.
+Lut thei kei-te hi.      = They could not enter.
 ```
 
 ### Directional particles
@@ -6634,7 +6634,7 @@ A kip leh, thaman a ngah ding hi. = If it stands, he will receive reward.
 
 ### Cause/Because: `ahih manin` / `bang hang`
 ```
-Topa' minthan'na in Topa' inn dim ahih manin siampite lut thei kei uh hi.
+Topa' minthan'na in Topa' inn dim ahih manin siampite lut thei kei-te hi.
 = The priests could not enter because the glory of the Lord filled the temple.
 
 Bang hang hiam cih leh Pasian in leitung mite a it mahmah hi.
@@ -6752,13 +6752,13 @@ Kha Siangtho longal kuamah in a thei kei hi.
 
 ### Prohibitive jussive: `kei hen`
 ```
-Na lungtang uh patau kei hen.  = Let not your heart be troubled. (John 14:1)
+Na lungtang-te patau kei hen.  = Let not your heart be troubled. (John 14:1)
 ```
 
 ### Rhetorical question: `koi-ah om hiam?`
 ```
 Lungpil mi koi-ah a om hiam?  = Where is the wise man? (1 Cor 1:20)
-Na upna uh koi-ah om hiam?    = Where is your faith?
+Na upna-te koi-ah om hiam?    = Where is your faith?
 ```
 
 ### Foundational reason: `bang hang hiam cih leh`
@@ -6794,7 +6794,7 @@ Line B: Ka Dahna in mual lianpi bangin hong neencip hi.
 ### Metaphorical identity: `pen ... hi`
 ```
 Kei pen nuntakna an ka hi hi.         = I am the bread of life. (John 6:35)
-Note pen leitung mite-a' dingin khuavak tawh na kibang uh hi.
+Note pen leitung mite-a' dingin khuavak tawh na kibang-te hi.
 = You are the light of the world. (Matt 5:14)
 ```
 
@@ -6864,7 +6864,7 @@ Tawntung omna.                = Eternal dwelling.
 | kua | nine |
 | sawm | ten |
 
-**Pattern:** `[number] pha uh hi` = there are [number] of them
+**Pattern:** `[number] pha-te hi` = there are [number] of them
 
 ### Unit 3: Family
 | Zolai | English |
@@ -7181,7 +7181,7 @@ Full review of A2 patterns:
 | `tua ahih leh` | if that is so | conditional consequence |
 
 **Examples:**
-- `Topa' minthan'na in inn dim ahih manin siampite lut thei kei uh hi.` = Because the glory filled the temple, the priests could not enter.
+- `Topa' minthan'na in inn dim ahih manin siampite lut thei kei-te hi.` = Because the glory filled the temple, the priests could not enter.
 - `Bang hang hiam cih leh Pasian in leitung mite a it mahmah hi.` = For God so loved the world.
 - `Tua ahih ciangin ka itte aw, khat leh khat ki-it ni.` = Therefore, beloved, let us love one another.
 
@@ -7209,7 +7209,7 @@ Full review of A2 patterns:
 |---|---|---|
 | Why? | `Bang hangin...hiam?` | `...ahih manin...` |
 | How? | `Bangci...hiam?` | `[method] tawh...` |
-| How many? | `Bangzah...hiam?` | `[number] pha uh hi` |
+| How many? | `Bangzah...hiam?` | `[number] pha-te hi` |
 | Which? | `Tua bang...hiam?` | `[item] ahi hi` |
 | When? | `Bang hun...hiam?` | `[time] ciangin...` |
 
@@ -7258,7 +7258,7 @@ Key patterns from TDB77:
 **Structure of Zolai proverbs:**
 - Parallel structure: A line + B line (same meaning, different words)
 - `Lungpil mi koi-ah a om hiam?` = Where is the wise man? (rhetorical)
-- `Pilna a nei na kisa mah uh hi.` = You think you have wisdom.
+- `Pilna a nei na kisa mah-te hi.` = You think you have wisdom.
 
 ### Unit 5: Zomi History
 Key vocabulary:
@@ -7284,7 +7284,7 @@ Key vocabulary:
 | `Hilo hi.` | No / I disagree. |
 | `Ka ngaihsut in, ahi hi.` | I think so. |
 | `Ka ngaihsut in, hilo hi.` | I don't think so. |
-| `Nang thu na gen uh hoih hi.` | What you said is good. |
+| `Nang thu na gen-te hoih hi.` | What you said is good. |
 | `Ahih hangin...` | But... / However... |
 | `Tua tham loin...` | Not only that... |
 
@@ -7381,7 +7381,7 @@ A nungta mihing khatciat in nisim aa i khamkhop ding an, i tha om nading an, i p
 ## Singphuukpa le Hei Hiamlo
 **Theme:** Kiginna
 
-A tung lamin i lawm i gual leh midangte tawh kidanna a om kholloh hang' hun ong sawtsawt ciang, a na hanciamzaw, a na kigingzawte mah tha liau in mazangzaw uh hi.
+A tung lamin i lawm i gual leh midangte tawh kidanna a om kholloh hang' hun ong sawtsawt ciang, a na hanciamzaw, a na kigingzawte mah tha liau in mazangzaw-te hi.
 
 ## Singphuukpa le Hei Hiam
 **Theme:** Masak huaite masak theihna
@@ -7411,12 +7411,12 @@ Hun cih pen second khat na ngawn a gualzo ta dingin manpha aa, hauh ding, mintha
 ## Tuuno le Keivom
 **Theme:** Lungsim Limlangh
 
-Hong daisak nuam, mawh ong zongte in, bangbang ihi zongin paulap tuamtuam nei nuam teitei uh hi. I mawhna hong muhkei leh i u i nau khatpeuh ii mawhna tawh zongh hong ko nuam, hong gensia nuam, hong mawhsak nuam lai veve ding uh hi.
+Hong daisak nuam, mawh ong zongte in, bangbang ihi zongin paulap tuamtuam nei nuam teitei-te hi. I mawhna hong muhkei leh i u i nau khatpeuh ii mawhna tawh zongh hong ko nuam, hong gensia nuam, hong mawhsak nuam lai veve ding-te hi.
 
 ## Sakol Nei Nupa Khat
 **Theme:** Lungsim limlangh
 
-Hong gensia dingte in bangbang i sem i bawl zong, hong gensia veve ding uh hi. Mawhna hong zong nuamte in bangbang ihi zong, hong mawhsak nuam teitei ding uh hi. Mite ii gensiatna hangin i ngaihsutna, i gamtatzia na khelkhel leh ei mah kigim in kisuplawhzaw ding hi.
+Hong gensia dingte in bangbang i sem i bawl zong, hong gensia veve ding-te hi. Mawhna hong zong nuamte in bangbang ihi zong, hong mawhsak nuam teitei ding-te hi. Mite ii gensiatna hangin i ngaihsutna, i gamtatzia na khelkhel leh ei mah kigim in kisuplawhzaw ding hi.
 
 ## Tangvalpa le A Ngaihsutna
 **Theme:** Kingaihsutna
@@ -7436,7 +7436,7 @@ Mun sang ah i tung phial zong mi khatpeuh pen neu tah, bangmah hikei tah, a niam
 ## Humpi le Zusa
 **Theme:** A kicing kuamah omlo, a hatlo a neilo a siamlote in zongh kimanna nei
 
-I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek uh hi.
+I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek-te hi.
 
 ## U Hoih
 **Theme:** Piakkhiatna
@@ -7476,12 +7476,12 @@ Pasian in pen lampi tuamtuam pan hong hopih, i thungetnate hong dawng hi. Thunge
 ## Sa le Be
 **Theme:** Cihtakna
 
-Mihing tampite pen amau hoihlohna kiphawklo in mite tung heh thei uh hi. I hihna bangin kithuakkik thei hi.
+Mihing tampite pen amau hoihlohna kiphawklo in mite tung heh thei-te hi. I hihna bangin kithuakkik thei hi.
 
 ## Pawisiimte le Zu
 **Theme:** Cihtakna
 
-Pawisim mi khat ciat in kei ii tui thawl khat leltak tawh beelpi khat sung aa zu, peng zo tuam samken teh cih ngaihsun tek uh a hihman hi. Na khatpeuh sep ding, bawl ding geelna ah a dangte hong kiging lel unteh, amau hong thei, hong sem lel unteh cih lungsim pen a tung aa tui puate tawh kibang hi. Tua dang lungsim pua, ngaihsutna nei vive kipawl kha, na semkhawm kha lai leh bangmah suaklo ding cihna hi.
+Pawisim mi khat ciat in kei ii tui thawl khat leltak tawh beelpi khat sung aa zu, peng zo tuam samken teh cih ngaihsun tek-te a hihman hi. Na khatpeuh sep ding, bawl ding geelna ah a dangte hong kiging lel unteh, amau hong thei, hong sem lel unteh cih lungsim pen a tung aa tui puate tawh kibang hi. Tua dang lungsim pua, ngaihsutna nei vive kipawl kha, na semkhawm kha lai leh bangmah suaklo ding cihna hi.
 
 ## Zawhngeu Long
 **Theme:** Sepkhiatna
@@ -7535,7 +7535,7 @@ These maxims are collected in the *Zolai Khanggui* (AD 1899–2013) as `Kammalho
 ### On Relationships
 - `Lawm le gual lung kihual.` — Friends share hearts. *(ABC Laimal)*
 - `Neih val, lamh val hilo, itna omna ah hop ding, huh ding, piak ding om veve hi.` — Love isn't about wealth — it's about helping, supporting, and giving.
-- `Bangbang ihi zongin hong gensia veve ding uh hi.` — No matter what you do, critics will always criticize.
+- `Bangbang ihi zongin hong gensia veve ding-te hi.` — No matter what you do, critics will always criticize.
 - `Mite bangbang a pau zongin a hoih lamin la theipeuh lehang ei adingin thahatna, lawpna piang thei veve hi.` — If we take the good from whatever people say, strength and joy can always arise.
 
 ### On Wisdom
@@ -7558,7 +7558,7 @@ Each of the 51 parables in *Gentehna Tuamtuam* concludes with a moral lesson. He
 
 ### On Perseverance
 - `I phul khak i haksatnate in sangpi i tun nadingin thakhauhna, hangsanna, hatna hong guanzaw thei ahi hi.` — The difficulties we struggle through build stamina, endurance, and strength for reaching the summit. *(Kau le A Bu)*
-- `Thanuamte in thadahte a zo tawtung uh hi.` — The diligent always overcome the lazy. *(Sumkuang le Bilpi)*
+- `Thanuamte in thadahte a zo tawtung-te hi.` — The diligent always overcome the lazy. *(Sumkuang le Bilpi)*
 
 ### On Self-Awareness
 - `I pianzia bangbangin lungkimlo a midangte pianzia banga I kibawl leh eima pianzia ngeina zong kitaanlawh thei hi.` — If we're not content with who we are and try to be like others, we may lose our own nature entirely. *(Va-ak Utong)*
@@ -7566,10 +7566,10 @@ Each of the 51 parables in *Gentehna Tuamtuam* concludes with a moral lesson. He
 
 ### On Humility
 - `Mun sang ah i tung phial zong mi khatpeuh pen neu tah, bangmah hikei tah ci aa simmawh diloin thupit bawl theih ding, lungkim sak zawh ding kisam hi.` — Even at the top, never look down on anyone — everyone deserves respect. *(Dahpa)*
-- `I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek uh hi.` — When succeeding, don't despise others. Even the weak have their own strengths. *(Humpi le Zusa)*
+- `I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek-te hi.` — When succeeding, don't despise others. Even the weak have their own strengths. *(Humpi le Zusa)*
 
 ### On Deception
-- `Hong daisak nuam, mawh ong zongte in bangbang ihi zongin paulap tuamtuam nei nuam teitei uh hi.` — Those who want to oppress will always find excuses, no matter what. *(Keivom le Tuuno)*
+- `Hong daisak nuam, mawh ong zongte in bangbang ihi zongin paulap tuamtuam nei nuam teitei-te hi.` — Those who want to oppress will always find excuses, no matter what. *(Keivom le Tuuno)*
 - `Humpi in a duh a ngah nadingin a duhlohte tah/pia hi.` — The tiger gives away what it doesn't want to get what it desires. *(Humpi le Bawng)*
 
 ### On Time & Contentment
@@ -7589,7 +7589,7 @@ Most Zolai proverbs follow the **antithetic parallelism** pattern:
 ```
 
 ### Selected Proverbs
-- `Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente uh a theih nading ahi hi.` — Understanding proverbs, parables, the words of the wise and their riddles. *(Proverbs 1:6)*
+- `Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente-te a theih nading ahi hi.` — Understanding proverbs, parables, the words of the wise and their riddles. *(Proverbs 1:6)*
 - `Pilna, hauhna, zaliatna, siamna cihte pen amau mun tek bek ah kimanna nei hi.` — Knowledge, wealth, authority, and skill each have value only in their proper place. *(Gentehna #2)*
 
 ---
@@ -7843,8 +7843,8 @@ Zolai Sinna, ZAUS 2010. Full text: resources/zolai_sinna_2010.md
 
 ## Concept: Comma after `le`
 **Rule:** Do NOT place comma after `le` (and).
-**Wrong:** `Thangpi, Lunsen, le, Lian Pau pilpen uh hi.`
-**Correct:** `Thangpi, Lunsen le Lian Pau pilpen uh hi.`
+**Wrong:** `Thangpi, Lunsen, le, Lian Pau pilpen-te hi.`
+**Correct:** `Thangpi, Lunsen le Lian Pau pilpen-te hi.`
 **Source:** Sinna 33, rule 2.4
 
 ## Concept: Prefix `ki-` (Reflexive/Reciprocal)

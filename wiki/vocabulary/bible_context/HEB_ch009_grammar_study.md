@@ -34,7 +34,7 @@
 ### v2
 **EN:** For there was a tabernacle made; the first, wherein was the candlestick, and the table, and the shewbread; which is called the sanctuary.
 
-**TDB77:** Bang hang hiam na cih uh leh, puanbuk khat a kibawl hi. A masa dei sungah meivakna, sabuai leh Pasian mai-ah a kikoih khomunte a om uh hi. Hih mun in Siangtho Mun a kici hi.
+**TDB77:** Bang hang hiam na cih-te leh, puanbuk khat a kibawl hi. A masa dei sungah meivakna, sabuai leh Pasian mai-ah a kikoih khomunte a om-te hi. Hih mun in Siangtho Mun a kici hi.
 
 **ZVS:** Puanbuk khat kibawl a, a puanung dei pen Siangtho Mun kici a, tua sungah meivak, sabuai, leh Ompihna Anlum kikoih hi.
 
@@ -52,7 +52,7 @@
 ### v4
 **EN:** Which had the golden censer, and the ark of the covenant overlaid round about with gold, wherein was the golden pot that had manna, and Aaron's rod that budded, and the tables of the covenant;
 
-**TDB77:** Tua dei sungah paknamtui halna, kham tawh a kizut thuciamna singkuangte a om uh hi. Tua singkuang sungah mana koihna kham beel tawh, a paak a paak Aaron’ ciangkhut tawh, thuciamna kigelhna suangpeekte a om uh hi.
+**TDB77:** Tua dei sungah paknamtui halna, kham tawh a kizut thuciamna singkuangte a om-te hi. Tua singkuang sungah mana koihna kham beel tawh, a paak a paak Aaron’ ciangkhut tawh, thuciamna kigelhna suangpeekte a om-te hi.
 
 **ZVS:** Tua sungah paknamtui halna ding kham kibawl biakna tau leh kham tawh a kizut Thuciamna Singkuang om hi. Tua Thuciamna Singkuang sungah manna anlum a kikoihna kham beel, tehno nei-in a hing Aaron' ciangkhut leh thukhamte a kigelhna suangpek nihte kikoih hi.
 
@@ -61,18 +61,18 @@
 ### v5
 **EN:** And over it the cherubims of glory shadowing the mercyseat; of which we cannot now speak particularly.
 
-**TDB77:** Tua singkuang tungah vangliatna tawh kipawl vantungmi milimte in mawhphelna tokhom khuhin a om uh hi. Tua nate tu-in ka gen siang khin zo kei uh hi.
+**TDB77:** Tua singkuang tungah vangliatna tawh kipawl vantungmi milimte in mawhphelna tokhom khuhin a om-te hi. Tua nate tu-in ka gen siang khin zo kei-te hi.
 
-**ZVS:** Tua Thuciamna Singkuang tung sanah Pasian' ompihna lim ahi kherub nihte om a, tua kherub nihte in hehpihna tokhom liimsun uh hi. Hih nate' thu tu-in a neng a tawngin i gen khinzo kei hi.
+**ZVS:** Tua Thuciamna Singkuang tung sanah Pasian' ompihna lim ahi kherub nihte om a, tua kherub nihte in hehpihna tokhom liimsun-te hi. Hih nate' thu tu-in a neng a tawngin i gen khinzo kei hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Now when these things were thus ordained, the priests went always into the first tabernacle, accomplishing the service of God.
 
-**TDB77:** Tua ahih ciangin hih na khempeuh kibawla a om ciangin, siampite in biakna bawl dingin buk masa bel ah a tum niloh uh hi.
+**TDB77:** Tua ahih ciangin hih na khempeuh kibawla a om ciangin, siampite in biakna bawl dingin buk masa bel ah a tum niloh-te hi.
 
-**ZVS:** Hih bang tengin a kibawl khit ciangin a dei puanung sungah nisim a nasep uh a sem dingin siampite a lut hi.
+**ZVS:** Hih bang tengin a kibawl khit ciangin a dei puanung sungah nisim a nasep-te a sem dingin siampite a lut hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -104,7 +104,7 @@
 ### v10
 **EN:** Which stood only in meats and drinks, and divers washings, and carnal ordinances, imposed on them until the time of reformation.
 
-**TDB77:** neek ding dawn ding, silsiang nading apawl pawlte tawh, pumpi tawh kipawl ngeinate ahi uh a, a kibawl thak hun a tun’ dongin a kip bek uh hi.
+**TDB77:** neek ding dawn ding, silsiang nading apawl pawlte tawh, pumpi tawh kipawl ngeinate ahi-te a, a kibawl thak hun a tun’ dongin a kip bek-te hi.
 
 **ZVS:** Zu leh an, leh pumpi sian'suahna ngeina tuamtuamte hi bek a, Pasian in na khempeuh a puahphat hun ma kikal sungteng zatding ngeina ahi hi.
 
@@ -127,7 +127,7 @@
 ### v13
 **EN:** For if the blood of bulls and of goats, and the ashes of an heifer sprinkling the unclean, sanctifieth to the purifying of the flesh:
 
-**TDB77:** Bang hang hiam na cih uh leh, bawng’ si, keel’ si leh bawngnuno’ kangvute in a nin mite tungah a kitheh ciangin amau pum uh a siangtho sak thei ahih uh leh,
+**TDB77:** Bang hang hiam na cih-te leh, bawng’ si, keel’ si leh bawngnuno’ kangvute in a nin mite tungah a kitheh ciangin amau pum-te a siangtho sak thei ahih-te leh,
 
 **ZVS:** Keel sisan, bawngtal sisan, leh bawngla kihaltum vute, biakna vai-in a sianglo mite tungah a kitheh ciangin biakna vai-in mite' pum tung siangthosak thei ahih leh,
 
@@ -147,14 +147,14 @@
 
 **TDB77:** Tua ahih ciangin thuciamna masa hun lai takin mawhna a tatkhiat nadingin, sihna thuakna om zo ahih ciangin a sap mite in a luah tawntungna tawh kipawl thuciamna ngah nading, tua Topa in thuciamna thak khamna a suak hi.
 
-**ZVS:** Thuciamna masa in a huamkhak mite, a mawhna panun a suahtak theihna ding uh ngeina om pen a si suak khinta ahih manin, Pasian' sap mite in a ciamsa tawntung thupha a ngahtheihna dingun Khrih in thuciamna thak a hong vaihawm ahi hi.
+**ZVS:** Thuciamna masa in a huamkhak mite, a mawhna panun a suahtak theihna ding-te ngeina om pen a si suak khinta ahih manin, Pasian' sap mite in a ciamsa tawntung thupha a ngahtheihna dingun Khrih in thuciamna thak a hong vaihawm ahi hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
 ### v16
 **EN:** For where a testament is, there must also of necessity be the death of the testator.
 
-**TDB77:** Bang hang hiam na cih uh leh, sih khit ciang a, luah nading lai a kip leh, sih ciamna lai-at mi a sih phot kul ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, sih khit ciang a, luah nading lai a kip leh, sih ciamna lai-at mi a sih phot kul ding hi.
 
 **ZVS:** Mi khat in a sih khit ciangin a gamhluah dingin a deihpa lai-in ciamtehin a koih leh a laibawlpa a sih phot ding kisam hi.
 
@@ -163,7 +163,7 @@
 ### v17
 **EN:** For a testament is of force after men are dead: otherwise it is of no strength at all while the testator liveth.
 
-**TDB77:** A sih khit ciangin sih ciamna lai a kip ding hi. Bang hang hiam na cih uh leh, sih ciamna lai-atpa a nuntak lai takin sih ciamna lai in a kip kei hi.
+**TDB77:** A sih khit ciangin sih ciamna lai a kip ding hi. Bang hang hiam na cih-te leh, sih ciamna lai-atpa a nuntak lai takin sih ciamna lai in a kip kei hi.
 
 **ZVS:** A laibawlpa a hin' laiteng tua lai kizang theilo a, a sih khit ciangin kizang thei bek hi.
 
@@ -181,7 +181,7 @@
 ### v19
 **EN:** For when Moses had spoken every precept to all the people according to the law, he took the blood of calves and of goats, with water, and scarlet wool, and hyssop, and sprinkled both the book, and all the people,
 
-**TDB77:** Bang hang hiam na cih uh leh, Thukham khempeuh Moses in mi khempeuh kiangah a hilh khit ciangin tui tawh kihel bawngno’ si, keel’ si, a san tuumul leh pumpeeng ngeekte la-in Lai Siangtho ahi zongin, mi khempeuh tungah ahi zongin a theh a,
+**TDB77:** Bang hang hiam na cih-te leh, Thukham khempeuh Moses in mi khempeuh kiangah a hilh khit ciangin tui tawh kihel bawngno’ si, keel’ si, a san tuumul leh pumpeeng ngeekte la-in Lai Siangtho ahi zongin, mi khempeuh tungah ahi zongin a theh a,
 
 **ZVS:** Moses in zong mite tungah Thukham sunga om thute a piak lai-in bawngno sisan, keel sisan, leh tui sungah puknah leh tuumul san diahin, tuate tawh Thukham laibu leh mite theh a,
 
@@ -215,7 +215,7 @@
 ### v23
 **EN:** It was therefore necessary that the patterns of things in the heavens should be purified with these; but the heavenly things themselves with better sacrifices than these.
 
-**TDB77:** Tua ahih ciangin vantungah a om nate limte in tuate tawh a siangthosak hi. Ahih hangin vantung nate ahih uh leh, a phazawte tawh a siangthosak hi.
+**TDB77:** Tua ahih ciangin vantungah a om nate limte in tuate tawh a siangthosak hi. Ahih hangin vantung nate ahih-te leh, a phazawte tawh a siangthosak hi.
 
 **ZVS:** A taktak a hilo vantung limte pen hih bangin sian'suahna kibawl hi. Ahi zongin vantung nate in hih sangin a hoihzaw biakpiakna kisam hi.
 
@@ -251,7 +251,7 @@
 ### v27
 **EN:** And as it is appointed unto men once to die, but after this the judgment:
 
-**TDB77:** Mite in khatvei bek si-in tua nung ciangin thukhenna a thuak uh hi;
+**TDB77:** Mite in khatvei bek si-in tua nung ciangin thukhenna a thuak-te hi;
 
 **ZVS:** Mi khempeuh khatvei si-in, tua khit ciangin Pasian' thukhenna a thuakding ahih mah bangin,
 

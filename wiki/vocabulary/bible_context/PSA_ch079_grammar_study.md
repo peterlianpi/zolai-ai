@@ -26,36 +26,36 @@
 ### v1
 **EN:** O God, the heathen are come into thine inheritance; thy holy temple have they defiled; they have laid Jerusalem on heaps.
 
-**TDB77:** Pasian aw, nangma luahna gam sungah dawi biate hong pai uh hi; amaute in nangma biakinn siangtho nin sak uh hi; amaute in Jerusalem siasak khin uh hi.
+**TDB77:** Pasian aw, nangma luahna gam sungah dawi biate hong pai-te hi; amaute in nangma biakinn siangtho nin sak-te hi; amaute in Jerusalem siasak khin-te hi.
 
-**ZVS:** Pasian aw, na luah gamsungah dawibiate hong pai uh hi. Amaute in na biakinn siangtho ninsak gawp uh a, Jerusalem khuapi siasak gawp khin uh hi.
+**ZVS:** Pasian aw, na luah gamsungah dawibiate hong pai-te hi. Amaute in na biakinn siangtho ninsak gawp-te a, Jerusalem khuapi siasak gawp khin-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
 ### v2
 **EN:** The dead bodies of thy servants have they given to be meat unto the fowls of the heaven, the flesh of thy saints unto the beasts of the earth.
 
-**TDB77:** Amaute in, nangma nasemte’ pumpite, a an dingun huih lak vasate pia uh a, na misiangthote’ sate, lei lak ganhingte pia uh hi.
+**TDB77:** Amaute in, nangma nasemte’ pumpite, a an dingun huih lak vasate pia-te a, na misiangthote’ sate, lei lak ganhingte pia-te hi.
 
-**ZVS:** Amaute in, na nasemte' luanghawmte huihlak vasate pia uh a, na mi siangthote' sate leilak ganhingte a pia uh hi.
+**ZVS:** Amaute in, na nasemte' luanghawmte huihlak vasate pia-te a, na mi siangthote' sate leilak ganhingte a pia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** Their blood have they shed like water round about Jerusalem; and there was none to bury them.
 
-**TDB77:** Amaute in, Jerusalem kimkot-ah tui bangin amaute’ sisan buakhia uh a, amaute a vui ding kuamah om lo hi.
+**TDB77:** Amaute in, Jerusalem kimkot-ah tui bangin amaute’ sisan buakhia-te a, amaute a vui ding kuamah om lo hi.
 
-**ZVS:** Amaute in Jerusalem kimkotah tui buakkhiat bangin amaute' sisan buakhia uh a, amaute a vui ding kuamah omlo hi.
+**ZVS:** Amaute in Jerusalem kimkotah tui buakkhiat bangin amaute' sisan buakhia-te a, amaute a vui ding kuamah omlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** We are become a reproach to our neighbours, a scorn and derision to them that are round about us.
 
-**TDB77:** Kote in ka vengte uh’ zahko, ka kim uh-a omte’ ko leh nuihsat ka suak khin uh hi.
+**TDB77:** Kote in ka vengte uh’ zahko, ka kim uh-a omte’ ko leh nuihsat ka suak khin-te hi.
 
-**ZVS:** Kote pen ka vengte uh' zahko, ka kiim uha omte in a hong ko a hong nuihsat ka suak khinta uh hi.
+**ZVS:** Kote pen ka vengte uh' zahko, ka kiim uha omte in a hong ko a hong nuihsat ka suak khinta-te hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -76,25 +76,25 @@
 ### v7
 **EN:** For they have devoured Jacob, and laid waste his dwelling place.
 
-**TDB77:** Bang hang hiam cih leh amaute in ka mite uh thatmang khin a, ka gam sung uh susia gawp hi.
+**TDB77:** Bang hang hiam cih leh amaute in ka mite-te thatmang khin a, ka gam sung-te susia gawp hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in ka mite uh thatmang khin uh a, ka gamsung khempeuh uh susiagawp khin uh hi.
+**ZVS:** Bang hang hiam cih leh amaute in ka mite-te thatmang khin-te a, ka gamsung khempeuh-te susiagawp khin-te hi.
 
 ### v8
 **EN:** O remember not against us former iniquities: let thy tender mercies speedily prevent us: for we are brought very low.
 
-**TDB77:** Ka pu ka pate uh mawhna hangin kote hong lang ngaihsut kei in la, kote hong kiniam koih mahmah ahih manin, kote hong dawntuah dingin na hehpihna hong paisak mengmeng in.
+**TDB77:** Ka pu ka pate-te mawhna hangin kote hong lang ngaihsut kei in la, kote hong kiniam koih mahmah ahih manin, kote hong dawntuah dingin na hehpihna hong paisak mengmeng in.
 
-**ZVS:** Ka pu ka pate uh mawhna hangin ko a suanlekhakte hong lang ngaihsut kei in la, hong kiniamkoih ahih manin kote a huh dingin na hehpihna hong paisak mengmeng in.
+**ZVS:** Ka pu ka pate-te mawhna hangin ko a suanlekhakte hong lang ngaihsut kei in la, hong kiniamkoih ahih manin kote a huh dingin na hehpihna hong paisak mengmeng in.
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | causal: because | reciprocal: ki- prefix
 
 ### v9
 **EN:** Help us, O God of our salvation, for the glory of thy name: and deliver us, and purge away our sins, for thy name's sake.
 
-**TDB77:** Kote’ kihotkhiatna Pasian aw, nangma min a than’ nadingin kote hong huh in la, nangma min hangin kote hong khahkhia-in ka mawhna uh hong maisak in!
+**TDB77:** Kote’ kihotkhiatna Pasian aw, nangma min a than’ nadingin kote hong huh in la, nangma min hangin kote hong khahkhia-in ka mawhna-te hong maisak in!
 
-**ZVS:** Kote a hong honkhia Pasian aw, nangma min a than'na dingin kote hong huhin, nangma min hangin kote hong khahkhia-in, ka mawhnate uh hong maisak ta in.
+**ZVS:** Kote a hong honkhia Pasian aw, nangma min a than'na dingin kote hong huhin, nangma min hangin kote hong khahkhia-in, ka mawhnate-te hong maisak ta in.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -128,9 +128,9 @@
 ### v13
 **EN:** So we thy people and sheep of thy pasture will give thee thanks for ever: we will shew forth thy praise to all generations.
 
-**TDB77:** Tua ciangin, nangma mi, nangma gamsung tuu ahi kote in, na tungah lungdamna kong lak ngitnget ding uh a, a khang a khangin nangmah phatnate ka gengen ding uh hi.
+**TDB77:** Tua ciangin, nangma mi, nangma gamsung tuu ahi kote in, na tungah lungdamna kong lak ngitnget ding-te a, a khang a khangin nangmah phatnate ka gengen ding-te hi.
 
-**ZVS:** Tua ciangin nangma mi, nangma gamsung tuu kote in nangma tungah lungdamna kong lak ngitnget ding uh a, a khang khangin nangmah phatnate ka gengen ding uh hi.
+**ZVS:** Tua ciangin nangma mi, nangma gamsung tuu kote in nangma tungah lungdamna kong lak ngitnget ding-te a, a khang khangin nangmah phatnate ka gengen ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 

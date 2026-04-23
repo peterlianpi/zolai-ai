@@ -57,14 +57,14 @@
 ### v6
 **EN:** Wherefore say unto the children of Israel, I am the
 
-**TDB77:** Tua ahih ciangin Israel mite' tungah, ‘Kei pen { Topa } ka hi hi. Egypt mite' na na sepna uh panin note kong paikhiatpih ding hi. Amau' sal hihna panin note kong khahkhia ding a, a thahat ka khut zanin thukhenna nasep lian tawh note kong honkhia ding hi.
+**TDB77:** Tua ahih ciangin Israel mite' tungah, ‘Kei pen { Topa } ka hi hi. Egypt mite' na na sepna-te panin note kong paikhiatpih ding hi. Amau' sal hihna panin note kong khahkhia ding a, a thahat ka khut zanin thukhenna nasep lian tawh note kong honkhia ding hi.
 
 **Grammar:** sequence: then/therefore | future: will
 
 ### v7
 **EN:** And I will take you to me for a people, and I will be to you a God: and ye shall know that I am the
 
-**TDB77:** Keima mi dingin note kong la ding a, kei pen note' Pasian ka hi ding hi. Egypt mite' sila hihna panin note a hong paikhiatpihpa, { Topa } na Pasian uh ka hihna note in na thei ding uh hi.
+**TDB77:** Keima mi dingin note kong la ding a, kei pen note' Pasian ka hi ding hi. Egypt mite' sila hihna panin note a hong paikhiatpihpa, { Topa } na Pasian-te ka hihna note in na thei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
@@ -78,7 +78,7 @@
 ### v9
 **EN:** And Moses spake so unto the children of Israel: but they hearkened not unto Moses for anguish of spirit, and for cruel bondage.
 
-**TDB77:** Moses in tua bangmahin Israel mite tungah a gen hi. Ahih hangin amau' lungsim kitapna leh a salsuahna sung uhah a gimna uh hangin amaute in Moses' thu ngailo uh hi.
+**TDB77:** Moses in tua bangmahin Israel mite tungah a gen hi. Ahih hangin amau' lungsim kitapna leh a salsuahna sung uhah a gimna-te hangin amaute in Moses' thu ngailo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -99,7 +99,7 @@
 ### v12
 **EN:** And Moses spake before the
 
-**TDB77:** Ahih hangin Moses in { Topa } kiangah, “En in, Israel mite nangawn in ka thu hong ngailo uh hi. Tua ahih ciangin bangci-in thugen siamlo keima thu, Faro in hong ngai ding ahi hiam?” a ci hi.
+**TDB77:** Ahih hangin Moses in { Topa } kiangah, “En in, Israel mite nangawn in ka thu hong ngailo-te hi. Tua ahih ciangin bangci-in thugen siamlo keima thu, Faro in hong ngai ding ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -185,14 +185,14 @@
 ### v26
 **EN:** These are that Aaron and Moses, to whom the
 
-**TDB77:** “Egypt gam panin Israel mite a honpi-in paikhiatpih in,” { Topa } in a cihna mite pen hih Aaron leh Moses ahi uh hi.
+**TDB77:** “Egypt gam panin Israel mite a honpi-in paikhiatpih in,” { Topa } in a cihna mite pen hih Aaron leh Moses ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v27
 **EN:** These are they which spake to Pharaoh king of Egypt, to bring out the children of Israel from Egypt: these are that Moses and Aaron.
 
-**TDB77:** Egypt gam panin Israel mite paikhiatpihna ding thu Egypt kumpipa Faro' tunga thu a gente pen hih Moses leh Aaron ahi uh hi.
+**TDB77:** Egypt gam panin Israel mite paikhiatpihna ding thu Egypt kumpipa Faro' tunga thu a gente pen hih Moses leh Aaron ahi-te hi.
 
 **Grammar:** plural: uh marker
 

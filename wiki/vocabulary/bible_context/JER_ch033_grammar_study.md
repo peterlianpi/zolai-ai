@@ -61,9 +61,9 @@
 ### v5
 **EN:** They come to fight with the Chaldeans, but it is to fill them with the dead bodies of men, whom I have slain in mine anger and in my fury, and for all whose wickedness I have hid my face from this city.
 
-**TDB77:** Ka hehna leh ka thangpaihna tawh ka thahlup ding misi luangte tawh a kidimsak dingin Khaldea mite in a hong sim ding uh hi. Bang hang hiam cih leh hih khuapi sunga om mite’ gitlohna hangin hih khuapi panin ka mai ka seel hi.
+**TDB77:** Ka hehna leh ka thangpaihna tawh ka thahlup ding misi luangte tawh a kidimsak dingin Khaldea mite in a hong sim ding-te hi. Bang hang hiam cih leh hih khuapi sunga om mite’ gitlohna hangin hih khuapi panin ka mai ka seel hi.
 
-**ZVS:** Ka hehna leh ka thangpaihna tawh ka thahlup ding misi luangte tawh a kidimsak dingin Khaldea mite in a hong sim ding uh hi. Bang hang hiam cih leh khuapi sunga a om mite' gitlohna hangin hih khuapi panin ka mai ka seel hi.
+**ZVS:** Ka hehna leh ka thangpaihna tawh ka thahlup ding misi luangte tawh a kidimsak dingin Khaldea mite in a hong sim ding-te hi. Bang hang hiam cih leh khuapi sunga a om mite' gitlohna hangin hih khuapi panin ka mai ka seel hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -88,36 +88,36 @@
 ### v8
 **EN:** And I will cleanse them from all their iniquity, whereby they have sinned against me; and I will pardon all their iniquities, whereby they have sinned, and whereby they have transgressed against me.
 
-**TDB77:** Kei tunga hong bawl uh mawhna khempeuh panin amaute ka siangsak ding a, kei tunga hong mawhnate uh leh a hong langpan’na khempeuhte uh ka maisak ding hi.
+**TDB77:** Kei tunga hong bawl-te mawhna khempeuh panin amaute ka siangsak ding a, kei tunga hong mawhnate-te leh a hong langpan’na khempeuhte-te ka maisak ding hi.
 
-**ZVS:** Kei tungah hong bawl uh mawhna khempeuh panin amaute ka siangsak ding a, kei tungah a hong mawhnate uh leh a hong langpan'na khempeuhte uh ka maisak ding hi.
+**ZVS:** Kei tungah hong bawl-te mawhna khempeuh panin amaute ka siangsak ding a, kei tungah a hong mawhnate-te leh a hong langpan'na khempeuhte-te ka maisak ding hi.
 
 **Grammar:** future: will
 
 ### v9
 **EN:** And it shall be to me a name of joy, a praise and an honour before all the nations of the earth, which shall hear all the good that I do unto them: and they shall fear and tremble for all the goodness and for all the prosperity that I procure unto it.
 
-**TDB77:** Jerusalem khuapi in kei adingin lungdamna, minphatna leh minthan’na ahi ding hi. A sunga om mite tungah hoihna leh hauhna ka tun’sakna thu a za minam dangte in lau-in a liing ding uh hi.
+**TDB77:** Jerusalem khuapi in kei adingin lungdamna, minphatna leh minthan’na ahi ding hi. A sunga om mite tungah hoihna leh hauhna ka tun’sakna thu a za minam dangte in lau-in a liing ding-te hi.
 
-**ZVS:** Jerusalem khuapi pen kei-a' dingin lungdamna, minphatna, leh minthan'na ahi hi. A sunga om mite tungah hoihna leh hauhna ka tun'sakna thu a za minam dangte lau-in a ling ding uh hi.
+**ZVS:** Jerusalem khuapi pen kei-a' dingin lungdamna, minphatna, leh minthan'na ahi hi. A sunga om mite tungah hoihna leh hauhna ka tun'sakna thu a za minam dangte lau-in a ling ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
 ### v10
 **EN:** Thus saith the
 
-**TDB77:** “Topa in kong cih-inah, note in, ‘Hih munah mihing, ganhing om loin mun dai suak hi,’ ci-in na gen uh mah bangin Judah gam khuapite leh Jerusalem khua kongzingte awng a, mihing ganhing kuamah a teeng kei hi.
+**TDB77:** “Topa in kong cih-inah, note in, ‘Hih munah mihing, ganhing om loin mun dai suak hi,’ ci-in na gen-te mah bangin Judah gam khuapite leh Jerusalem khua kongzingte awng a, mihing ganhing kuamah a teeng kei hi.
 
-**ZVS:** “{ Topa } in kong cihin-ah, note in, ‘Hih munah mihing, ganhing omloin mundai suak hi,’ ci-in na gen uh mah bangin Judah gam khuapite leh Jerusalem khua kongzingte awng a, mihing ganhing kuamah a teng kei hi.
+**ZVS:** “{ Topa } in kong cihin-ah, note in, ‘Hih munah mihing, ganhing omloin mundai suak hi,’ ci-in na gen-te mah bangin Judah gam khuapite leh Jerusalem khua kongzingte awng a, mihing ganhing kuamah a teng kei hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei
 
 ### v11
 **EN:** The voice of joy, and the voice of gladness, the voice of the bridegroom, and the voice of the bride, the voice of them that shall say, Praise the
 
-**TDB77:** Ahih hangin lungdamna aw leh kipahna awte, zi nei thakte leh mothakte’ awte kiza kik ding hi. Mite in Topa’ biakinn ah hong pai-in lungdam biakna pia-in: ‘A vanglian Topa tungah lungdamna pia un. Bang hang hiam cih leh Topa hoih a, ama’ itna kip kho tawntung hi!’ ci-a a lasakna awte uh a kiza kik ding hi. Bang hang hiam cih leh Topa in kong cih-inah a masa-a mah bangin hih gam ka hausak kik ding hi.
+**TDB77:** Ahih hangin lungdamna aw leh kipahna awte, zi nei thakte leh mothakte’ awte kiza kik ding hi. Mite in Topa’ biakinn ah hong pai-in lungdam biakna pia-in: ‘A vanglian Topa tungah lungdamna pia un. Bang hang hiam cih leh Topa hoih a, ama’ itna kip kho tawntung hi!’ ci-a a lasakna awte-te a kiza kik ding hi. Bang hang hiam cih leh Topa in kong cih-inah a masa-a mah bangin hih gam ka hausak kik ding hi.
 
-**ZVS:** Ahih hangin lungdamna aw leh kipahna awte, zinei thakte leh mothakte' awte kiza kik ding hi. { Topa' } biakinn-ah mite hong pai-in lungdam kohna-in: ‘Vanglian { Topa' } tungah lungdamna ko un. Bang hang hiam cih leh { Topa } hoih a, ama itna kip tawntung hi,’ ci-in a lasakna awte uh a kiza kik ding hi. Bang hang hiam cih leh { Topa } in kong cihin-ah, a masa-a mah bangin hih gam ka hausak kik ding hi.
+**ZVS:** Ahih hangin lungdamna aw leh kipahna awte, zinei thakte leh mothakte' awte kiza kik ding hi. { Topa' } biakinn-ah mite hong pai-in lungdam kohna-in: ‘Vanglian { Topa' } tungah lungdamna ko un. Bang hang hiam cih leh { Topa } hoih a, ama itna kip tawntung hi,’ ci-in a lasakna awte-te a kiza kik ding hi. Bang hang hiam cih leh { Topa } in kong cihin-ah, a masa-a mah bangin hih gam ka hausak kik ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -133,9 +133,9 @@
 ### v13
 **EN:** In the cities of the mountains, in the cities of the vale, and in the cities of the south, and in the land of Benjamin, and in the places about Jerusalem, and in the cities of Judah, shall the flocks pass again under the hands of him that telleth them, saith the
 
-**TDB77:** Mual tunga khuapite, Shefelah zanglei-a khuapite leh leitaw lam Negeb gama khuapite, Benjamin gam, Jerusalem khua kimkot leh Judah gam khuapite ah, Topa in kong cih-inah tuucingte in a tuute uh a sim ding uh hi.
+**TDB77:** Mual tunga khuapite, Shefelah zanglei-a khuapite leh leitaw lam Negeb gama khuapite, Benjamin gam, Jerusalem khua kimkot leh Judah gam khuapite ah, Topa in kong cih-inah tuucingte in a tuute-te a sim ding-te hi.
 
-**ZVS:** Mualtunga khuapite, Shefelah zanglei-a khuapite leh leitaw lam Negeb gama khuapite, Benjamin gam, Jerusalem khua kimkot leh Judah gam khuapite-ah, { Topa } in kong cihin-ah, tuucingte in a tuute uh a phazah a sim ding uh hi.
+**ZVS:** Mualtunga khuapite, Shefelah zanglei-a khuapite leh leitaw lam Negeb gama khuapite, Benjamin gam, Jerusalem khua kimkot leh Judah gam khuapite-ah, { Topa } in kong cihin-ah, tuucingte in a tuute-te a phazah a sim ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -160,9 +160,9 @@
 ### v16
 **EN:** In those days shall Judah be saved, and Jerusalem shall dwell safely: and this is the name wherewith she shall be called, The
 
-**TDB77:** Tua ni ciangin Judah mite kihonkhia ding a, Israel mite lungmuang takin a teeng ding uh hi. Amah a kisap nadingin a min, Topa in eite’ Diktatna ahi hi, ci-in a kiphuak ding hi.
+**TDB77:** Tua ni ciangin Judah mite kihonkhia ding a, Israel mite lungmuang takin a teeng ding-te hi. Amah a kisap nadingin a min, Topa in eite’ Diktatna ahi hi, ci-in a kiphuak ding hi.
 
-**ZVS:** Tua ni ciangin Judah mite kihonkhia ding a, Israel mite lungmuang takin a teng ding uh hi. Amah a kisapna dingin a min ‘{ Topa, } Eite' Diktan'na,’ ci-in a kiphuak ding hi.
+**ZVS:** Tua ni ciangin Judah mite kihonkhia ding a, Israel mite lungmuang takin a teng ding-te hi. Amah a kisapna dingin a min ‘{ Topa, } Eite' Diktan'na,’ ci-in a kiphuak ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -228,9 +228,9 @@
 ### v24
 **EN:** Considerest thou not what this people have spoken, saying, The two families which the
 
-**TDB77:** “Hih mite in, Topa in a teelsa Israel leh Judah minam tegel a nusia ta hi, ci-a a gen uh thei kha lo na hi hiam? Tua bangin amaute in ka mite a simmawh uh a, amau’ muhna-ah gam khatin zong a sim nawn kei uh hi.
+**TDB77:** “Hih mite in, Topa in a teelsa Israel leh Judah minam tegel a nusia ta hi, ci-a a gen-te thei kha lo na hi hiam? Tua bangin amaute in ka mite a simmawh-te a, amau’ muhna-ah gam khatin zong a sim nawn kei-te hi.
 
-**ZVS:** “Hih mite in, { Topa } in a teelsa Israel leh Judah minamte gel a nusia ta hi, ci-in a gen uh thei khalo na hi hiam? Tua bangin amaute in ka mite simmawh uh a, amau' muhna-ah minam khatin a sim nawn kei uh hi.
+**ZVS:** “Hih mite in, { Topa } in a teelsa Israel leh Judah minamte gel a nusia ta hi, ci-in a gen-te thei khalo na hi hiam? Tua bangin amaute in ka mite simmawh-te a, amau' muhna-ah minam khatin a sim nawn kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 

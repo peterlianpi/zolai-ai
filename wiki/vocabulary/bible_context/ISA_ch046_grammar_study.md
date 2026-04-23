@@ -34,9 +34,9 @@
 ### v2
 **EN:** They stoop, they bow down together; they could not deliver the burden, but themselves are gone into captivity.
 
-**TDB77:** Amaute kunin, amaute puksuk khawm uh a, amaute in vangik pengsak thei lo uh a, amaute mahmah zong galte’ matna sungah tung uh hi.
+**TDB77:** Amaute kunin, amaute puksuk khawm-te a, amaute in vangik pengsak thei lo-te a, amaute mahmah zong galte’ matna sungah tung-te hi.
 
-**ZVS:** Amaute kunin, amaute puksuk khawm uh a, amaute in vangik pengsak theilo uh a, amaute mahmah zong galte' matna sungah tung uh hi.
+**ZVS:** Amaute kunin, amaute puksuk khawm-te a, amaute in vangik pengsak theilo-te a, amaute mahmah zong galte' matna sungah tung-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
@@ -52,36 +52,36 @@
 ### v4
 **EN:** And even to your old age I am he; and even to hoar hairs will I carry you: I have made, and I will bear; even I will carry, and will deliver you.
 
-**TDB77:** na tek dongun keimah in Amah ka hi a, na sam uh a kan hun dongin note kong kem ding hi. Ka bawl khin a, ka don ding hi; keimah in hong tawi-in kong honkhia ding hi.
+**TDB77:** na tek dongun keimah in Amah ka hi a, na sam-te a kan hun dongin note kong kem ding hi. Ka bawl khin a, ka don ding hi; keimah in hong tawi-in kong honkhia ding hi.
 
-**ZVS:** Na tek dongun kei pen Amah ka hi a, na sam uh a kan' hun dongin note kong kem ding hi. Ka hong bawlkhin a, ka hong don ding hi. Keimah in hong tawi-in ka hong honkhia ding hi.
+**ZVS:** Na tek dongun kei pen Amah ka hi a, na sam-te a kan' hun dongin note kong kem ding hi. Ka hong bawlkhin a, ka hong don ding hi. Keimah in hong tawi-in ka hong honkhia ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v5
 **EN:** To whom will ye liken me, and make me equal, and compare me, that we may be like?
 
-**TDB77:** “Note in kei, kua tawh hong kibang sakin hong kikim sak ding a, ka kibatpih dingin kua tawh hong enteh ding na hi uh hiam?
+**TDB77:** “Note in kei, kua tawh hong kibang sakin hong kikim sak ding a, ka kibatpih dingin kua tawh hong enteh ding na hi-te hiam?
 
-**ZVS:** “Note in kei, kua tawh hong kibangsakin kua tawh hong kikimsak ding a, ka kibatpih dingin a kua tawh hong enteh ding na hi uh hiam?
+**ZVS:** “Note in kei, kua tawh hong kibangsakin kua tawh hong kikimsak ding a, ka kibatpih dingin a kua tawh hong enteh ding na hi-te hiam?
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v6
 **EN:** They lavish gold out of the bag, and weigh silver in the balance, and hire a goldsmith; and he maketh it a god: they fall down, yea, they worship.
 
-**TDB77:** Sumbawm panin khamte uang zatin tawi-tehna tawh ngunte a tehkhiate in kham seekpa cial a, amah in tua nate pen pasian-in seeksak hi; tua ciangin amaute kunin tua milim bia uh hi.
+**TDB77:** Sumbawm panin khamte uang zatin tawi-tehna tawh ngunte a tehkhiate in kham seekpa cial a, amah in tua nate pen pasian-in seeksak hi; tua ciangin amaute kunin tua milim bia-te hi.
 
-**ZVS:** Sumbawm panin khamte uang zatin tawitehna tawh ngunte a tehkhiate in kham seekpa cial uh a, amah in tua nate pen pasian-in a seeksak hi. Tua ciangin amaute kunin tua milim a bia uh hi.
+**ZVS:** Sumbawm panin khamte uang zatin tawitehna tawh ngunte a tehkhiate in kham seekpa cial-te a, amah in tua nate pen pasian-in a seeksak hi. Tua ciangin amaute kunin tua milim a bia-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v7
 **EN:** They bear him upon the shoulder, they carry him, and set him in his place, and he standeth; from his place shall he not remove: yea, one shall cry unto him, yet can he not answer, nor save him out of his trouble.
 
-**TDB77:** Amaute in tua pasian pen a liangko tung uhah ngato-in pua uh a, ama om nading munah amaute in koih a, tua lai-ah om niloh hi; ama omna panin amah kinkhia thei lo hi. Mi khatpeuh in amah sam leh amah in dawng thei lo a, ama lungkhamna panin zong honkhia thei lo hi.
+**TDB77:** Amaute in tua pasian pen a liangko tung uhah ngato-in pua-te a, ama om nading munah amaute in koih a, tua lai-ah om niloh hi; ama omna panin amah kinkhia thei lo hi. Mi khatpeuh in amah sam leh amah in dawng thei lo a, ama lungkhamna panin zong honkhia thei lo hi.
 
-**ZVS:** Amaute in tua pasian pen a liangko tung uhah ngato-in pua uh a, ama omna ding munah a koih uh hi. Tua a koihna-ah a milim om niloh hi. Ama omna panin kinkhia theilo hi. Mi khatpeuh in amah sam leh amah in dawng theilo a, ama lungkhamna panin zong a honkhia thei kei hi.
+**ZVS:** Amaute in tua pasian pen a liangko tung uhah ngato-in pua-te a, ama omna ding munah a koih-te hi. Tua a koihna-ah a milim om niloh hi. Ama omna panin kinkhia theilo hi. Mi khatpeuh in amah sam leh amah in dawng theilo a, ama lungkhamna panin zong a honkhia thei kei hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

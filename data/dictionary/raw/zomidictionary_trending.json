@@ -1,0 +1,46 @@
+{
+  "trendingSearches": [
+    {
+      "term": "LUN",
+      "count": 155
+    },
+    {
+      "term": "LU",
+      "count": 75
+    },
+    {
+      "term": "LUNG",
+      "count": 50
+    },
+    {
+      "term": "SAN ",
+      "count": 39
+    },
+    {
+      "term": "LUNGDAM",
+      "count": 27
+    }
+  ],
+  "popularForumPosts": [],
+  "popularBlogPosts": [
+    {
+      "id": 2,
+      "title": "Essential Zomi Greetings and Phrases for Daily Conversation",
+      "slug": "essential-zomi-greetings-phrases",
+      "viewCount": 555
+    },
+    {
+      "id": 5,
+      "title": "A Brief History of the Zomi People: Origins and Migration",
+      "slug": "history-zomi-people-origins",
+      "viewCount": 550
+    },
+    {
+      "id": 4,
+      "title": "Understanding Zomi Grammar: Sentence Structure and Word Order",
+      "slug": "zomi-grammar-sentence-structure",
+      "viewCount": 429
+    }
+  ],
+  "recentWords": []
+}

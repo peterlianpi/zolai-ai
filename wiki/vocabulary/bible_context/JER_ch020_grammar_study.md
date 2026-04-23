@@ -61,27 +61,27 @@
 ### v5
 **EN:** Moreover I will deliver all the strength of this city, and all the labours thereof, and all the precious things thereof, and all the treasures of the kings of Judah will I give into the hand of their enemies, which shall spoil them, and take them, and carry them to Babylon.
 
-**TDB77:** Tua tham loin khuapi sunga hauhna khempeuh, a nasep sa uh khempeuh, a neih a lam thupi teng khempeuh leh Judah kumpite’ sum leh pai khempeuhte a galte’ khut sungah ka pia ding a, amau in sutin, manin, Babilon khua-ah a paipih ding uh hi.
+**TDB77:** Tua tham loin khuapi sunga hauhna khempeuh, a nasep sa-te khempeuh, a neih a lam thupi teng khempeuh leh Judah kumpite’ sum leh pai khempeuhte a galte’ khut sungah ka pia ding a, amau in sutin, manin, Babilon khua-ah a paipih ding-te hi.
 
-**ZVS:** Tua thamloin khuapi sunga hauhna khempeuh, a nasepsa uh khempeuh, a neih a lam a thupiteng khempeuh uh leh Judah kumpite' sumlepai khempeuhte a galte' khutsungah ka pia ding a, amaute in sutin, manin, Babylon khua-ah a paipih ding uh hi.
+**ZVS:** Tua thamloin khuapi sunga hauhna khempeuh, a nasepsa-te khempeuh, a neih a lam a thupiteng khempeuh-te leh Judah kumpite' sumlepai khempeuhte a galte' khutsungah ka pia ding a, amaute in sutin, manin, Babylon khua-ah a paipih ding-te hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
 ### v6
 **EN:** And thou, Pashur, and all that dwell in thine house shall go into captivity: and thou shalt come to Babylon, and there thou shalt die, and shalt be buried there, thou, and all thy friends, to whom thou hast prophesied lies.
 
-**TDB77:** Pashhur aw, nang leh na inn sung uh a, omte khempeuh sal dingin Babilon khua-ah na pai ding uh a, tua lai munah nang na si ding hi. Nang leh a man lopi-a na thuhilh a ngai na lawmte khempeuh tawh hong kivui ding uh hi,” a ci hi.
+**TDB77:** Pashhur aw, nang leh na inn sung-te a, omte khempeuh sal dingin Babilon khua-ah na pai ding-te a, tua lai munah nang na si ding hi. Nang leh a man lopi-a na thuhilh a ngai na lawmte khempeuh tawh hong kivui ding-te hi,” a ci hi.
 
-**ZVS:** Pashhur aw, nang leh na innsung uha omte khempeuh sal dingin Babylon khua-ah na pai ding uh a, tua lai munah nang na si ding hi. Nanga kipan a manlopi-a na thuhilh a ngai na lawmte khempeuh hong kivui ding uh hi,” a ci hi.
+**ZVS:** Pashhur aw, nang leh na innsung uha omte khempeuh sal dingin Babylon khua-ah na pai ding-te a, tua lai munah nang na si ding hi. Nanga kipan a manlopi-a na thuhilh a ngai na lawmte khempeuh hong kivui ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** O
 
-**TDB77:** Topa aw, kei nong khem a, khemna ka thuak takpi hi. Kei sangin nang na hatzaw a, keimah nong zo hi. Ni simin mite’ nuihsat lel ka hi a, Mi khempeuh in hong zahko uh hi.
+**TDB77:** Topa aw, kei nong khem a, khemna ka thuak takpi hi. Kei sangin nang na hatzaw a, keimah nong zo hi. Ni simin mite’ nuihsat lel ka hi a, Mi khempeuh in hong zahko-te hi.
 
-**ZVS:** { Topa } aw, kei nong khem a, khemna ka thuak takpi hi. Kei sangin nang na hatzaw a, keimah nong zo hi. Nisimin mite' nuihsat lel ka suak a, mi khempeuh in kei hong zahko uh hi.
+**ZVS:** { Topa } aw, kei nong khem a, khemna ka thuak takpi hi. Kei sangin nang na hatzaw a, keimah nong zo hi. Nisimin mite' nuihsat lel ka suak a, mi khempeuh in kei hong zahko-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -106,18 +106,18 @@
 ### v10
 **EN:** For I heard the defaming of many, fear on every side. Report, say they, and we will report it. All my familiars watched for my halting, saying, Peradventure he will be enticed, and we shall prevail against him, and we shall take our revenge on him.
 
-**TDB77:** Mite’ kihuau simna tampi ka za a, mun khempeuh lauhuai hi. Ka lawm itte khempeuh in, ka cihmawh ding hong ngak gige uh a, “A mawhna pulak un! A mawhna pulak ni! Amah i khem zo kha ding hi. Tua hi leh i zo pah ding a, tua ciangin i thukkik ding hi,” a ci uh hi.
+**TDB77:** Mite’ kihuau simna tampi ka za a, mun khempeuh lauhuai hi. Ka lawm itte khempeuh in, ka cihmawh ding hong ngak gige-te a, “A mawhna pulak un! A mawhna pulak ni! Amah i khem zo kha ding hi. Tua hi leh i zo pah ding a, tua ciangin i thukkik ding hi,” a ci-te hi.
 
-**ZVS:** Mite' kihuau simna thu tampi ka za a, mun khempeuh lauhuai hi. Ka lawm itte khempeuh in ka cihmawh ding hong ngak gige uh a, “A mawhna pulak ni! A mawhna pulak ni! Amah i khemzo khading hi. Tua hi leh i zo khading a, tua ciangin i thukkik ding hi,” hong ci uh hi.
+**ZVS:** Mite' kihuau simna thu tampi ka za a, mun khempeuh lauhuai hi. Ka lawm itte khempeuh in ka cihmawh ding hong ngak gige-te a, “A mawhna pulak ni! A mawhna pulak ni! Amah i khemzo khading hi. Tua hi leh i zo khading a, tua ciangin i thukkik ding hi,” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** But the
 
-**TDB77:** Ahih hangin Topa in a kihtak huai gal hangpa bangin, kei tawh hong omkhawm gige hi. Tua ahih manin kei hong bawlsiate a tuk ding uh a, kei hong zo lo ding uh hi. A tawntunga a mindaina uh kimangngilh ding hi.
+**TDB77:** Ahih hangin Topa in a kihtak huai gal hangpa bangin, kei tawh hong omkhawm gige hi. Tua ahih manin kei hong bawlsiate a tuk ding-te a, kei hong zo lo ding-te hi. A tawntunga a mindaina-te kimangngilh ding hi.
 
-**ZVS:** Ahih hangin { Topa } pen a kihtakhuai galhangpa bangin kei tawh hong omkhawm gige hi. Tua ahih manin kei hong bawlsiate tuk ding uh a, kei hong zolo ding uh hi. A tawntunga a mindaina uh kimangngilh ngeilo ding hi.
+**ZVS:** Ahih hangin { Topa } pen a kihtakhuai galhangpa bangin kei tawh hong omkhawm gige hi. Tua ahih manin kei hong bawlsiate tuk ding-te a, kei hong zolo ding-te hi. A tawntunga a mindaina-te kimangngilh ngeilo ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 

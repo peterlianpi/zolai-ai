@@ -36,27 +36,27 @@
 ### v2
 **EN:** Of the nations concerning which the
 
-**TDB77:** Topa in Israel mite tungah, “Amaute tawh na kiteng kei ding uh a, amaute zong note tawh kiteng lo ding hi; bang hang hiam cih leh amaute in amau’ pasian lamah na lungsim uh hong heikhia taktak ding hi,” a cih minamte’ lak pan ahi hi; Solomon in hihte ngai-in pom hi.
+**TDB77:** Topa in Israel mite tungah, “Amaute tawh na kiteng kei ding-te a, amaute zong note tawh kiteng lo ding hi; bang hang hiam cih leh amaute in amau’ pasian lamah na lungsim-te hong heikhia taktak ding hi,” a cih minamte’ lak pan ahi hi; Solomon in hihte ngai-in pom hi.
 
-**ZVS:** { Topa } in Israel mite tungah, “Amaute tawh na kiteng kei ding uh hi. Bang hang hiam cih leh amaute in amau' pasian' lamah na lungsim uh hong heikhia taktak ding uh hi,” a cih minamte' lak pan lawm ngai a, Solomon in hih mite ngai-in pom hi.
+**ZVS:** { Topa } in Israel mite tungah, “Amaute tawh na kiteng kei ding-te hi. Bang hang hiam cih leh amaute in amau' pasian' lamah na lungsim-te hong heikhia taktak ding-te hi,” a cih minamte' lak pan lawm ngai a, Solomon in hih mite ngai-in pom hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And he had seven hundred wives, princesses, and three hundred concubines: and his wives turned away his heart.
 
-**TDB77:** Amah in kumpi tanute, zi zasagih, leh zineu zathum nei hi; tua ciangin a zite in ama lungsim heikhia uh hi.
+**TDB77:** Amah in kumpi tanute, zi zasagih, leh zineu zathum nei hi; tua ciangin a zite in ama lungsim heikhia-te hi.
 
-**ZVS:** Amah in kumpite' tanu vive zi za sagih, leh zineu za thum nei hi. A zite in ama lungsim heikhia uh hi.
+**ZVS:** Amah in kumpite' tanu vive zi za sagih, leh zineu za thum nei hi. A zite in ama lungsim heikhia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v4
 **EN:** For it came to pass, when Solomon was old, that his wives turned away his heart after other gods: and his heart was not perfect with the
 
-**TDB77:** Bang hang hiam cih leh Solomon a teek ciangin a zite in pasian dangte lamah ama lungsim heikhia uh hi; ama pa David’ lungsim bangin ama lungsim Topa tungah thuman bup taktak lo hi.
+**TDB77:** Bang hang hiam cih leh Solomon a teek ciangin a zite in pasian dangte lamah ama lungsim heikhia-te hi; ama pa David’ lungsim bangin ama lungsim Topa tungah thuman bup taktak lo hi.
 
-**ZVS:** Bang hang hiam cih leh Solomon a teek ciangin a zite in pasian dangte' lamah ama lungsim heikhia uh a, ama pa David' lungsim bangin ama lungsim { Topa' } tungah thuman bup taktak zolo hi.
+**ZVS:** Bang hang hiam cih leh Solomon a teek ciangin a zite in pasian dangte' lamah ama lungsim heikhia-te a, ama pa David' lungsim bangin ama lungsim { Topa' } tungah thuman bup taktak zolo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -90,9 +90,9 @@
 ### v8
 **EN:** And likewise did he for all his strange wives, which burnt incense and sacrificed unto their gods.
 
-**TDB77:** Tua mah bangin amah in paknamtui halin a pasiante uh tungah biakna a pia a gamdang zite khempeuh adingin hihsak hi.
+**TDB77:** Tua mah bangin amah in paknamtui halin a pasiante-te tungah biakna a pia a gamdang zite khempeuh adingin hihsak hi.
 
-**ZVS:** Tua mah bangin amah in paknamtui halin a pasian-te uh tungah biakna a pia a gamdang zite khempeuh-a' dingin hihsak hi.
+**ZVS:** Tua mah bangin amah in paknamtui halin a pasian-te-te tungah biakna a pia a gamdang zite khempeuh-a' dingin hihsak hi.
 
 **Grammar:** purpose: in order to
 
@@ -151,9 +151,9 @@
 ### v16
 **EN:** (For six months did Joab remain there with all Israel, until he had cut off every male in Edom:)
 
-**TDB77:** (Bang hang hiam cih leh amah in Edom sunga pasal khempeuh a suksiat khit matengin Joab leh Israel khempeuh tua lai-ah kha guk sung om uh hi);
+**TDB77:** (Bang hang hiam cih leh amah in Edom sunga pasal khempeuh a suksiat khit matengin Joab leh Israel khempeuh tua lai-ah kha guk sung om-te hi);
 
-**ZVS:** (Bang hang hiam cih leh Joab in Edom sunga pasal khempeuh a suksiat khit matengin amah leh Israel-te khempeuh tua lai-ah kha guk sung om uh hi).
+**ZVS:** (Bang hang hiam cih leh Joab in Edom sunga pasal khempeuh a suksiat khit matengin amah leh Israel-te khempeuh tua lai-ah kha guk sung om-te hi).
 
 **Grammar:** plural: uh marker
 
@@ -169,9 +169,9 @@
 ### v18
 **EN:** And they arose out of Midian, and came to Paran: and they took men with them out of Paran, and they came to Egypt, unto Pharaoh king of Egypt; which gave him an house, and appointed him victuals, and gave him land.
 
-**TDB77:** Amaute Midian panin ding khia-in Paran tung uh a, Paran panin mi la-in tonpih a, ama tungah inn khat pia-in, annek ding pia-in, leitang a pia Izipt kumpipa Faro kiang Izipt gam tung uh hi.
+**TDB77:** Amaute Midian panin ding khia-in Paran tung-te a, Paran panin mi la-in tonpih a, ama tungah inn khat pia-in, annek ding pia-in, leitang a pia Izipt kumpipa Faro kiang Izipt gam tung-te hi.
 
-**ZVS:** Amaute Midian panin dingkhia-in Paran tung uh a, Paran panin mi zawnin tonpih a, ama tungah inn khat pia-in, annek ding pia-in, leitang a pia Egypt kumpipa Faro kiang Egypt gam tung uh hi.
+**ZVS:** Amaute Midian panin dingkhia-in Paran tung-te a, Paran panin mi zawnin tonpih a, ama tungah inn khat pia-in, annek ding pia-in, leitang a pia Egypt kumpipa Faro kiang Egypt gam tung-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -223,9 +223,9 @@
 ### v24
 **EN:** And he gathered men unto him, and became captain over a band, when David slew them of Zobah: and they went to Damascus, and dwelt therein, and reigned in Damascus.
 
-**TDB77:** Amah in ama kimah mi khawmin mite’ na a sut pawl a makai suak hi; amaute Damaskas ah pai-in tua lai munah teng uh a, Damaskas ah kumpi-in amah bawl uh hi.
+**TDB77:** Amah in ama kimah mi khawmin mite’ na a sut pawl a makai suak hi; amaute Damaskas ah pai-in tua lai munah teng-te a, Damaskas ah kumpi-in amah bawl-te hi.
 
-**ZVS:** Amah in ama kiimah mi khawmin mite' na a sut pawl a makai a suak hi. Amaute Damaskas-ah pai-in tua lai munah teng uh a, Damaskas-ah amah kumpi-in bawl uh hi.
+**ZVS:** Amah in ama kiimah mi khawmin mite' na a sut pawl a makai a suak hi. Amaute Damaskas-ah pai-in tua lai munah teng-te a, Damaskas-ah amah kumpi-in bawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -264,9 +264,9 @@
 ### v29
 **EN:** And it came to pass at that time when Jeroboam went out of Jerusalem, that the prophet Ahijah the Shilonite found him in the way; and he had clad himself with a new garment; and they two were alone in the field:
 
-**TDB77:** Tua hun sungin Jerusalem panin Jeroboam a paikhiat ciangin Shiloni mi kamsang Ahijah in lampi ah amah mu hi. Tu-in Ahijah in puanthak khat na silh tawm hi; amau nihte gel bek gamlakah om uh hi.
+**TDB77:** Tua hun sungin Jerusalem panin Jeroboam a paikhiat ciangin Shiloni mi kamsang Ahijah in lampi ah amah mu hi. Tu-in Ahijah in puanthak khat na silh tawm hi; amau nihte gel bek gamlakah om-te hi.
 
-**ZVS:** Tua hun sungin Jerusalem panin Jeroboam a paikhiat ciangin Shiloh khuami kamsang Ahijah in lampi-ah amah na dawn hi. Ahijah in puan thak khat na silhtawm a, amau nihte gel bek gamlakah om uh hi.
+**ZVS:** Tua hun sungin Jerusalem panin Jeroboam a paikhiat ciangin Shiloh khuami kamsang Ahijah in lampi-ah amah na dawn hi. Ahijah in puan thak khat na silhtawm a, amau nihte gel bek gamlakah om-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

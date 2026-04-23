@@ -64,7 +64,7 @@
 
 ### maang liante = chiefs/principal men
 **Context:** The role of David's sons in the king's service.
-**Example:** David’ tapate in kumpipa’ nasepna-ah maang liante ahi uh hi.
+**Example:** David’ tapate in kumpipa’ nasepna-ah maang liante ahi-te hi.
 
 ### a tapa in ama tangin uk hi = his son reigned in his stead
 **Context:** Describing the succession after Nahash died.
@@ -86,13 +86,13 @@
 **Context:** The princes suggesting the true, malicious intent of David's messengers.
 **Example:** Gamsung a pheklek ding leh a lumlet ding leh gamsung a ensim dingin...
 
-### khamul uh metsak a = shaved their beards
+### khamul-te metsak a = shaved their beards
 **Context:** The humiliating act Hanun performed on David's servants.
-**Example:** Hanun in David' nasemte manin a khamul uh metsak a,
+**Example:** Hanun in David' nasemte manin a khamul-te metsak a,
 
-### kawngciang uhah a puante uh atkhiatsakna tawh = cutting off their garments by their buttocks
+### kawngciang uhah a puante-te atkhiatsakna tawh = cutting off their garments by their buttocks
 **Context:** The second part of the humiliation, exposing them.
-**Example:** a kawng ciang uhah a puante uh atkhiatsakna tawh amaute daisakin a sawlkhia hi.
+**Example:** a kawng ciang uhah a puante-te atkhiatsakna tawh amaute daisakin a sawlkhia hi.
 
 ## Phrases & Usage
 

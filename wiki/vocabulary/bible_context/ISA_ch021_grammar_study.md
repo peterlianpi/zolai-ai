@@ -58,9 +58,9 @@
 ### v5
 **EN:** Prepare the table, watch in the watchtower, eat, drink: arise, ye princes, and anoint the shield.
 
-**TDB77:** Amaute in sabuai phahin, sual puante phah uh a, ne-in, dawn uh hi. Uliante aw, tho un, lumte sathau nuh un!
+**TDB77:** Amaute in sabuai phahin, sual puante phah-te a, ne-in, dawn-te hi. Uliante aw, tho un, lumte sathau nuh un!
 
-**ZVS:** Amaute in sabuai phahin, sualpuante phah uh a, an ne-in tui dawn uh hi. Uliante aw, tho un; lum, sathau nuh un!
+**ZVS:** Amaute in sabuai phahin, sualpuante phah-te a, an ne-in tui dawn-te hi. Uliante aw, tho un; lum, sathau nuh un!
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -128,9 +128,9 @@
 ### v13
 **EN:** The burden upon Arabia. In the forest in Arabia shall ye lodge, O ye travelling companies of Dedanim.
 
-**TDB77:** Arabia gam tawh kisai thu: Dedan mi khualzin honte aw, Arabia gamsung gamlakah na giak ding uh hi.
+**TDB77:** Arabia gam tawh kisai thu: Dedan mi khualzin honte aw, Arabia gamsung gamlakah na giak ding-te hi.
 
-**ZVS:** Arabia gam tawh kisai thu hih bangin gen hi: Dedan mi khualzin honte aw, Arabia gamlakah na giak ding uh hi.
+**ZVS:** Arabia gam tawh kisai thu hih bangin gen hi: Dedan mi khualzin honte aw, Arabia gamlakah na giak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -144,9 +144,9 @@
 ### v15
 **EN:** For they fled from the swords, from the drawn sword, and from the bent bow, and from the grievousness of war.
 
-**TDB77:** Bang hang hiam cih leh amaute pen namsau, a kidoksa namsau, a kikeek thal leh gal in a phutna panin hong tai uh ahi hi.
+**TDB77:** Bang hang hiam cih leh amaute pen namsau, a kidoksa namsau, a kikeek thal leh gal in a phutna panin hong tai-te ahi hi.
 
-**ZVS:** Bang hang hiam cih leh amaute, namsau, a kidoksa namsau, a kiseek thal leh gal in a phutna panin a hong tai uh ahi hi.
+**ZVS:** Bang hang hiam cih leh amaute, namsau, a kidoksa namsau, a kiseek thal leh gal in a phutna panin a hong tai-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 

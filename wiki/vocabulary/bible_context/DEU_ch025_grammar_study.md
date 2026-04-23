@@ -42,18 +42,18 @@
 ### v3
 **EN:** Forty stripes he may give him, and not exceed: lest, if he should exceed, and beat him above these with many stripes, then thy brother should seem vile unto thee.
 
-**TDB77:** Sat sawmli kipia thei ding a, ahih hangin tua val hi lo ding hi; tua hi kei leh, hih sangin a tamvei zaw mi khat in sat lai lai leh note muhna ah na sanggampa uh a kineubawl suak ding hi.
+**TDB77:** Sat sawmli kipia thei ding a, ahih hangin tua val hi lo ding hi; tua hi kei leh, hih sangin a tamvei zaw mi khat in sat lai lai leh note muhna ah na sanggampa-te a kineubawl suak ding hi.
 
-**ZVS:** Sat sawmli kipia thei ding a, ahih hangin tua val hilo ding hi. Tua hi kei leh, hih sangin a tamvei zaw mi khat in sat lai leh note' muhna-ah na sanggampa uh a kineubawl suak ding hi.
+**ZVS:** Sat sawmli kipia thei ding a, ahih hangin tua val hilo ding hi. Tua hi kei leh, hih sangin a tamvei zaw mi khat in sat lai leh note' muhna-ah na sanggampa-te a kineubawl suak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** Thou shalt not muzzle the ox when he treadeth out the corn.
 
-**TDB77:** “Bawng in an a cil ciangin a muk na tuam kei ding uh hi.
+**TDB77:** “Bawng in an a cil ciangin a muk na tuam kei ding-te hi.
 
-**ZVS:** “Bawng in an a cil laitakin a muk na tuam kei ding uh hi.
+**ZVS:** “Bawng in an a cil laitakin a muk na tuam kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** Then the elders of his city shall call him, and speak unto him: and if he stand to it, and say, I like not to take her;
 
-**TDB77:** Tua ciangin mipa’ khuapi upate in amah samin, amah thu genpih ding uh hi; amah in, ‘Tua nu ka la nuam kei hi,’ a cih teitei leh,
+**TDB77:** Tua ciangin mipa’ khuapi upate in amah samin, amah thu genpih ding-te hi; amah in, ‘Tua nu ka la nuam kei hi,’ a cih teitei leh,
 
-**ZVS:** Tua ciangin mipa' khuapi upate in amah samin thu genpih ding uh hi. Amah in, ‘Tuanu ka la nuam kei hi,’ a cih teitei leh,
+**ZVS:** Tua ciangin mipa' khuapi upate in amah samin thu genpih ding-te hi. Amah in, ‘Tuanu ka la nuam kei hi,’ a cih teitei leh,
 
 **Grammar:** sequence: then/therefore | future: will | negation: kei | plural: uh marker
 
@@ -123,36 +123,36 @@
 ### v12
 **EN:** Then thou shalt cut off her hand, thine eye shall not pity her.
 
-**TDB77:** tua nu’ khut na sattansak ding uh hi; amah na hehpih kei ding uh hi.
+**TDB77:** tua nu’ khut na sattansak ding-te hi; amah na hehpih kei ding-te hi.
 
-**ZVS:** tuanu' khut na sattansak ding uh a, amah na hehpih kei ding uh hi.
+**ZVS:** tuanu' khut na sattansak ding-te a, amah na hehpih kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v13
 **EN:** Thou shalt not have in thy bag divers weights, a great and a small.
 
-**TDB77:** “Na ip sung uhah tawisuang nam nih, a gik leh a zang, na neikhawm kei ding uh hi.
+**TDB77:** “Na ip sung uhah tawisuang nam nih, a gik leh a zang, na neikhawm kei ding-te hi.
 
-**ZVS:** “Na ipsung uhah tawisuang nam nih, a lian leh a neu, na neikhawm kei ding uh hi.
+**ZVS:** “Na ipsung uhah tawisuang nam nih, a lian leh a neu, na neikhawm kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v14
 **EN:** Thou shalt not have in thine house divers measures, a great and a small.
 
-**TDB77:** Na inn sung uhah tehna nam nih, a lian leh a neu, na neikhawm kei ding uh hi.
+**TDB77:** Na inn sung uhah tehna nam nih, a lian leh a neu, na neikhawm kei ding-te hi.
 
-**ZVS:** Na innsung uhah tehna nam nih, a lian leh a neu, na neikhawm kei ding uh hi.
+**ZVS:** Na innsung uhah tehna nam nih, a lian leh a neu, na neikhawm kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v15
 **EN:** But thou shalt have a perfect and just weight, a perfect and just measure shalt thou have: that thy days may be lengthened in the land which the
 
-**TDB77:** Tawisuang a cing a man na nei ding uh a, tehna a cing a man na nei ding uh hi; tua in Topa note’ Pasian in hong piak leitangah na khan’ uh a sau theih nading ahi hi.
+**TDB77:** Tawisuang a cing a man na nei ding-te a, tehna a cing a man na nei ding-te hi; tua in Topa note’ Pasian in hong piak leitangah na khan’ uh a sau theih nading ahi hi.
 
-**ZVS:** Tawisuang a cing a man na nei ding uh a, tehna a cing a man na nei ding uh hi. { Topa } note' Pasian in hong piak leitangah na khan' uh a sau theihna ding ahi hi.
+**ZVS:** Tawisuang a cing a man na nei ding-te a, tehna a cing a man na nei ding-te hi. { Topa } note' Pasian in hong piak leitangah na khan' uh a sau theihna ding ahi hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -175,18 +175,18 @@
 ### v18
 **EN:** How he met thee by the way, and smote the hindmost of thee, even all that were feeble behind thee, when thou wast faint and weary; and he feared not God.
 
-**TDB77:** note gimin lungkhamin na om lai takun lampi ah a hong simna, leh note nungah a nunung khempeuh hong thahna uh phawk un; amaute in Pasian kihta lo uh hi.
+**TDB77:** note gimin lungkhamin na om lai takun lampi ah a hong simna, leh note nungah a nunung khempeuh hong thahna-te phawk un; amaute in Pasian kihta lo-te hi.
 
-**ZVS:** note gimin lungkhamin na om laitakun lampi-ah a hong simna, leh note' nungah a nunung khempeuh hong thahna uh phawk un; amaute in Pasian kihtalo uh hi.
+**ZVS:** note gimin lungkhamin na om laitakun lampi-ah a hong simna, leh note' nungah a nunung khempeuh hong thahna-te phawk un; amaute in Pasian kihtalo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** Therefore it shall be, when the
 
-**TDB77:** Tua ahih ciangin Topa note Pasian in note’ neih dingin luahin hong piak leitang tungah, Topa na Pasian un na kiim uh a, na galte khempeuh panun tawlngakna hong piak ciangin, vantung nuai panin Amalek mite a kiphawkna na phiatkhia ding uh na mangngilh kei ding uh hi.
+**TDB77:** Tua ahih ciangin Topa note Pasian in note’ neih dingin luahin hong piak leitang tungah, Topa na Pasian un na kiim-te a, na galte khempeuh panun tawlngakna hong piak ciangin, vantung nuai panin Amalek mite a kiphawkna na phiatkhia ding-te na mangngilh kei ding-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa } note' Pasian in note' neih dingin gamh-in hong piak leitang tungah, { Topa } na Pasian un na kiim uha na galte khempeuh panun tawlngakna hong piak ciangin, mun khempeuh panin Amalek mite a kiphawkna na phiatkhiat ding uh na mangngilh kei ding uh hi.
+**ZVS:** Tua ahih ciangin { Topa } note' Pasian in note' neih dingin gamh-in hong piak leitang tungah, { Topa } na Pasian un na kiim uha na galte khempeuh panun tawlngakna hong piak ciangin, mun khempeuh panin Amalek mite a kiphawkna na phiatkhiat ding-te na mangngilh kei ding-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

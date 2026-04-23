@@ -4,10 +4,10 @@
 
 | Zolai | English | Note |
 |---|---|---|
-| laisinna sung lawhcingtak a kihel theih nading uh | to be able to participate successfully in the learning process | Context suggests 'participate successfully' or 'engage well' in the learning process. |
-| a kisap pelmawh uh siamnate | the necessary skills | Implies essential/crucial skills. |
+| laisinna sung lawhcingtak a kihel theih nading-te | to be able to participate successfully in the learning process | Context suggests 'participate successfully' or 'engage well' in the learning process. |
+| a kisap pelmawh-te siamnate | the necessary skills | Implies essential/crucial skills. |
 | a kitopna uhah sangsyate in bangci bangin panpih thei ding | how teachers can support them in their development | Refers to support during the development/growth stage. |
-| a zat theih ding uh sepzia zawipite | the main procedures they can use | Main/key methods/procedures for use. |
+| a zat theih ding-te sepzia zawipite | the main procedures they can use | Main/key methods/procedures for use. |
 | lawptak a kihelsak thei dingin | to enable them to participate successfully | Similar to the first phrase, meaning successful participation. |
 | thutheihnopna lungsim | curiosity/desire to know | Literally 'mind wanting to know'. |
 | mahlemawh kiteeltawm | self-esteem/self-worth | Literally 'self-value/self-measurement'. |
@@ -16,7 +16,7 @@
 | sunmang lungngaihna | imagination/vision | Literally 'dream/vision contemplation'. |
 | lawptak kihelna | successful participation/engagement | Repeated concept, meaning successful involvement. |
 | kankhiatna tawh muibunpen | most interesting through exploration/discovery | Muibunpen = most interesting/attractive. |
-| a khantohna uh panpih thapia hi | supports their development | Panpih thapia = supports/helps development. |
+| a khantohna-te panpih thapia hi | supports their development | Panpih thapia = supports/helps development. |
 | thu kikhelte hangin a piang thuhaksate thuakzosak hi | helps children cope with challenges arising from rapid changes | Thuhaksate thuakzosak = helps endure/cope with difficulties. |
 | kikhel thei kawikawi hi | can be adapted flexibly | Kawikawi suggests flexibility/adaptability. |
 | khenkhiakik thei van nam nih gawmkhawm dingin kihanthawn ahih man hi | because they are encouraged to combine two types of items they sorted | Kihanthawn = encouraged/motivated. |
@@ -59,13 +59,13 @@
 - `Hih laisinna in X, Y leh Z zonkhiata thapia a, A zong B hi.` = This learning [method] supports X, Y, and Z, and also A is B.
   - e.g. `Hih laisinna in lawptak kihelna, thutheihnopna leh taksep kankhiat zonkhiata thapia a, laisin nopsakna zong phungvuhihin khawk a namkim ah kitopna panpih hi.`
 - `Hih thusinna ah X, Y ahi zongin, Z cih ahi zongin, A ding hi.` = In this instruction, although X and Y, it is about Z, and A is the case.
-  - e.g. `Hih, Kimawl-bulphuh Laisinna, cih thusinna ah sangnaupangte kimawl-bulphuh laisinna sung lawhcingtak a kihel theih nading uh-a a kisap pelmawh uh siamnate ahi zongin, sangnaupangte’ pilsinna hun sung tawntung tua siamnate a kitopna uhah sangsyate in bangci bangin panpih thei ding cih ahi zongin, na kankhia ding hi.`
+  - e.g. `Hih, Kimawl-bulphuh Laisinna, cih thusinna ah sangnaupangte kimawl-bulphuh laisinna sung lawhcingtak a kihel theih nading uh-a a kisap pelmawh-te siamnate ahi zongin, sangnaupangte’ pilsinna hun sung tawntung tua siamnate a kitopna uhah sangsyate in bangci bangin panpih thei ding cih ahi zongin, na kankhia ding hi.`
 - `X in Y hong huh ding hi.` = X will help you to Y.
   - e.g. `Hih thusinna in kimawl-bulphuh hilhtelziate, ama’ mellemate leh ama’ hamphatpihte, na theihtel nading hong huh ding hi.`
 - `Tua banga theihtelna in X hong sikh ding hi.` = Such understanding will cause X to happen.
   - e.g. `Tua banga theihtelna in sangnaupangte kikal kiho-kizopna leh kankhiat sepkhopna thakhauhsak nadinga syate’ kitangsap ahi khuambulte hong sikh ding hi.`
 - `X tawh kisai Y khat ah Z ahi hi.` = In one Z related to X, it is that W.
-  - e.g. `Kimawl-bulphuh laisinna tawh kisai gentelna khat ah naupangte pen pianpihin thu thei nuam uh a, a muibunpena a sinkhak uh pen taksep kankhiat zonkhiata pan hi, cih ahi hi.`
+  - e.g. `Kimawl-bulphuh laisinna tawh kisai gentelna khat ah naupangte pen pianpihin thu thei nuam-te a, a muibunpena a sinkhak-te pen taksep kankhiat zonkhiata pan hi, cih ahi hi.`
 - `X in Y a kisam mahmah thu ahi hi.` = X is a very necessary thing for Y.
   - e.g. `Kimawlna pen thu khinkhai ngaihsutna leh vaibuai phelnalam cihte bek tham lo-in, naupangte ii kiho kithuahnalam, lungphawnnalam, pumpilam leh khuak zatnalam cidam nopsak nadingin a kisam mahmah thu ahi hi.`
 - `Hih module zawh ciangin na hihtheih dingte: X, Y, Z.` = Upon finishing this module, what you will be able to do are: X, Y, Z.
@@ -75,4 +75,4 @@
 - `X in anuai-a bangin Y nei hi.` = X has Y as follows.
   - e.g. `Kimawl-bulphuh laisinna in anuai-a bangin mellema dingpite nei hi.`
 - `X in Y ci-in dongbeh hi.` = He/She asked further, saying 'Y'.
-  - e.g. `Ama’n “Lungphawnna a nop lo khawng na neih uh ciang, na bangci hih uh hiam?” ci-in dongbeh hi.`
+  - e.g. `Ama’n “Lungphawnna a nop lo khawng na neih-te ciang, na bangci hih-te hiam?” ci-in dongbeh hi.`

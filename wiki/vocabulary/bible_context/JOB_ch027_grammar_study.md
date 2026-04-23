@@ -78,7 +78,7 @@
 
 **TDB77:** “Kei hong langpan’ kei hong dote in, migilote leh thumanlote bangin daan thuak ta hen.
 
-**ZVS:** “Kei a hong langpan', kei a hong dote in migilo leh thumanlote bangin gimna thuak ta uh hen.
+**ZVS:** “Kei a hong langpan', kei a hong dote in migilo leh thumanlote bangin gimna thuak ta-te hen.
 
 ### v8
 **EN:** For what is the hope of the hypocrite, though he hath gained, when God taketh away his soul?
@@ -90,18 +90,18 @@
 ### v9
 **EN:** Will God hear his cry when trouble cometh upon him?
 
-**TDB77:** Lungkhamna a thuak uh ciangin, Pasian in amau’ kikona aw ngai ding ahi hiam?
+**TDB77:** Lungkhamna a thuak-te ciangin, Pasian in amau’ kikona aw ngai ding ahi hiam?
 
-**ZVS:** Lungkhamna a thuak uh ciangin Pasian in amau' kikona awging ngai ding ahi hiam?
+**ZVS:** Lungkhamna a thuak-te ciangin Pasian in amau' kikona awging ngai ding ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v10
 **EN:** Will he delight himself in the Almighty? will he always call upon God?
 
-**TDB77:** Pasian in a piak ding lungdamna a deih ding uh kilawm ahih manin, ama tungah thu a nget tawntung ding uh a kilawm ahi hi.
+**TDB77:** Pasian in a piak ding lungdamna a deih ding-te kilawm ahih manin, ama tungah thu a nget tawntung ding-te a kilawm ahi hi.
 
-**ZVS:** Pasian' piak ding lungdamna a deih ding uh kilawm ahih manin, ama tungah thu a nget tawntung ding uh a kilawm ahi hi.
+**ZVS:** Pasian' piak ding lungdamna a deih ding-te kilawm ahih manin, ama tungah thu a nget tawntung ding-te a kilawm ahi hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -115,9 +115,9 @@
 ### v12
 **EN:** Behold, all ye yourselves have seen it; why then are ye thus altogether vain?
 
-**TDB77:** Ahi zongin tuate khempeuh na theih khitsa uh ahi hi; tua ahih ciangin bang hangin mawk pau na hi uh hiam?
+**TDB77:** Ahi zongin tuate khempeuh na theih khitsa-te ahi hi; tua ahih ciangin bang hangin mawk pau na hi-te hiam?
 
-**ZVS:** Ahi zongin tuate khempeuh na theih khitsa uh ahi hi. Tua ahih ciangin bang hangin mawk pau na hi uh hiam?
+**ZVS:** Ahi zongin tuate khempeuh na theih khitsa-te ahi hi. Tua ahih ciangin bang hangin mawk pau na hi-te hiam?
 
 **Grammar:** sequence: then/therefore
 
@@ -131,34 +131,34 @@
 ### v14
 **EN:** If his children be multiplied, it is for the sword: and his offspring shall not be satisfied with bread.
 
-**TDB77:** Tapa tampi a neih hangun, a vekin gal sungah si mang khin ding uh hi; a tate uh gilkial tawntung ding uh hi.
+**TDB77:** Tapa tampi a neih hangun, a vekin gal sungah si mang khin ding-te hi; a tate-te gilkial tawntung ding-te hi.
 
-**ZVS:** Tapa tampi a neih hangun, a vekpi-in galsungah si mangkhin ding uh hi. A tate uh a tawntungin gilkial niloh ding uh hi.
+**ZVS:** Tapa tampi a neih hangun, a vekpi-in galsungah si mangkhin ding-te hi. A tate-te a tawntungin gilkial niloh ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v15
 **EN:** Those that remain of him shall be buried in death: and his widows shall not weep.
 
-**TDB77:** A nungta lai sunte zong pulnatna tawh si ding uh a, meigong numeite in misite kah zo lo ding uh hi.
+**TDB77:** A nungta lai sunte zong pulnatna tawh si ding-te a, meigong numeite in misite kah zo lo ding-te hi.
 
-**ZVS:** A nungta laisunte zong pulnatna tawh si ding uh a, meigong numeite in misite kahzo nawnlo ding uh hi.
+**ZVS:** A nungta laisunte zong pulnatna tawh si ding-te a, meigong numeite in misite kahzo nawnlo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v16
 **EN:** Though he heap up silver as the dust, and prepare raiment as the clay;
 
-**TDB77:** Migilote in kuama sim zawh loh ngun tampi tak nei ding uh a, gen zawh lohin nikten puansilh ciang venvan ding uh hi.
+**TDB77:** Migilote in kuama sim zawh loh ngun tampi tak nei ding-te a, gen zawh lohin nikten puansilh ciang venvan ding-te hi.
 
-**ZVS:** Migilote in kuama simzawhloh ngun tampi tak nei ding uh a, genzawh lohin nikten' puansilh ciang venvan ding uh hi.
+**ZVS:** Migilote in kuama simzawhloh ngun tampi tak nei ding-te a, genzawh lohin nikten' puansilh ciang venvan ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v17
 **EN:** He may prepare it, but the just shall put it on, and the innocent shall divide the silver.
 
-**TDB77:** Ahi zongin mihoih pawlkhat in tua puante silhin, thuman mi pawlkhat in tua ngunte tang lel ding uh hi.
+**TDB77:** Ahi zongin mihoih pawlkhat in tua puante silhin, thuman mi pawlkhat in tua ngunte tang lel ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -174,9 +174,9 @@
 ### v19
 **EN:** The rich man shall lie down, but he shall not be gathered: he openeth his eyes, and he is not.
 
-**TDB77:** Amaute a hau sa-in lum uh a, ahih hangin a hausa-in a lumkik nawn kei ding uh hi. Zingsang a khan’lawh ciangun a neihsa teng uh na bei ta hi.
+**TDB77:** Amaute a hau sa-in lum-te a, ahih hangin a hausa-in a lumkik nawn kei ding-te hi. Zingsang a khan’lawh ciangun a neihsa teng-te na bei ta hi.
 
-**ZVS:** Amaute a hausa-in lum uh a, ahih hangin a khan'lawh uh ciangin a hauhna teng uh na maimang ta hi.
+**ZVS:** Amaute a hausa-in lum-te a, ahih hangin a khan'lawh-te ciangin a hauhna teng-te na maimang ta hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 

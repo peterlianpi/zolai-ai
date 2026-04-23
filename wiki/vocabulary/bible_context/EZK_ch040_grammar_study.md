@@ -228,9 +228,9 @@
 ### v25
 **EN:** And there were windows in it and in the arches thereof round about, like those windows: the length was fifty cubits, and the breadth five and twenty cubits.
 
-**TDB77:** Kongpi dang-a omte mah bangin hih lai-ah zong inndeite in kongvangneu nei uh hi. A kongpi lampi pen tong sawmnga sau-in tong sawmnih leh nga zai hi.
+**TDB77:** Kongpi dang-a omte mah bangin hih lai-ah zong inndeite in kongvangneu nei-te hi. A kongpi lampi pen tong sawmnga sau-in tong sawmnih leh nga zai hi.
 
-**ZVS:** Kongpi danga omte mah bangin hih lai-ah zong inndeite in tawlet nei uh hi. A kongpi lampi pen pi sawmgiatli sau-in pi sawmlinih zai hi.
+**ZVS:** Kongpi danga omte mah bangin hih lai-ah zong inndeite in tawlet nei-te hi. A kongpi lampi pen pi sawmgiatli sau-in pi sawmlinih zai hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -332,16 +332,16 @@
 ### v38
 **EN:** And the chambers and the entries thereof were by the posts of the gates, where they washed the burnt offering.
 
-**TDB77:** Tual puanung sungah lampi tawh a kimatin inndei gol khat om a, a inndei pen a tual lam nga hi. Hih lai munah biakna-in a pum a, a hal ding uh ganhing luangte silsiang uh hi.
+**TDB77:** Tual puanung sungah lampi tawh a kimatin inndei gol khat om a, a inndei pen a tual lam nga hi. Hih lai munah biakna-in a pum a, a hal ding-te ganhing luangte silsiang-te hi.
 
-**ZVS:** Tual puanung sungah lampi tawh a kimatin inndei gol khat om a, a inndei pen a tual lam a nga hi. Hih lai munah, biakna-in a pum-a a hal ding uh ganhing luangte silsiang uh hi.
+**ZVS:** Tual puanung sungah lampi tawh a kimatin inndei gol khat om a, a inndei pen a tual lam a nga hi. Hih lai munah, biakna-in a pum-a a hal ding-te ganhing luangte silsiang-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v39
 **EN:** And in the porch of the gate were two tables on this side, and two tables on that side, to slay thereon the burnt offering and the sin offering and the trespass offering.
 
-**TDB77:** Hih inndei gol sungah sabuai li om a, a lang tuakah nih tuakin kikoih hi. Meihal biakna-a piak ding ahi a, mawhna leh khialhna hanga biakna-in piak ding ganhingte ahi zongin, hih sabuaite tungah go uh hi.
+**TDB77:** Hih inndei gol sungah sabuai li om a, a lang tuakah nih tuakin kikoih hi. Meihal biakna-a piak ding ahi a, mawhna leh khialhna hanga biakna-in piak ding ganhingte ahi zongin, hih sabuaite tungah go-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -362,9 +362,9 @@
 ### v42
 **EN:** And the four tables were of hewn stone for the burnt offering, of a cubit and an half long, and a cubit and an half broad, and one cubit high: whereupon also they laid the instruments wherewith they slew the burnt offering and the sacrifice.
 
-**TDB77:** Meihal biakna-in piak ding ganhingte bawl nadinga kizang sabuai lite pen suang a kiseek ahi hi. Tua sabuaite tong khat sang a, a dung a vai tong khat leh a lang tuak ahi hi. Biakna-in piak ding gangawhna-in a zat uh na khempeuh, hih sabuaite tungah koih uh hi.
+**TDB77:** Meihal biakna-in piak ding ganhingte bawl nadinga kizang sabuai lite pen suang a kiseek ahi hi. Tua sabuaite tong khat sang a, a dung a vai tong khat leh a lang tuak ahi hi. Biakna-in piak ding gangawhna-in a zat-te na khempeuh, hih sabuaite tungah koih-te hi.
 
-**ZVS:** Meihal biakna-in piak ding ganhingte bawlna dingin a kizang sabuai lite pen suang a kiseek ahi hi. Tua sabuaite letmat sawmnih sang a, a dung a vai letmat sawmthum tuak ahi hi. Biakna-in piak ding gan gawhna-in a zat uh na khempeuh, hih sabuaite tungah koih uh hi.
+**ZVS:** Meihal biakna-in piak ding ganhingte bawlna dingin a kizang sabuai lite pen suang a kiseek ahi hi. Tua sabuaite letmat sawmnih sang a, a dung a vai letmat sawmthum tuak ahi hi. Biakna-in piak ding gan gawhna-in a zat-te na khempeuh, hih sabuaite tungah koih-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -398,9 +398,9 @@
 ### v46
 **EN:** And the chamber whose prospect is toward the north is for the priests, the keepers of the charge of the altar: these are the sons of Zadok among the sons of Levi, which come near to the
 
-**TDB77:** leilu lam a nga inndei pen biakna tau-ah na a sem siampite’ ading ahi hi. Tua siampite khempeuh pen Zadok’ suan Levi mite vive ahi uh hi. Ama na a sem dingin Topa’ omna-ah amaute bek kipaisak hi, hong ci hi.
+**TDB77:** leilu lam a nga inndei pen biakna tau-ah na a sem siampite’ ading ahi hi. Tua siampite khempeuh pen Zadok’ suan Levi mite vive ahi-te hi. Ama na a sem dingin Topa’ omna-ah amaute bek kipaisak hi, hong ci hi.
 
-**ZVS:** leilu lam a nga inndei pen biakna tau-ah na a sem siampite-a' ding ahi hi. Tua siampite khempeuh pen Zadok' suan Levi mite vive ahi uh hi. Ama na a sem dingin { Topa }' omna-ah amaute bek kipaisak hi, hong ci hi.
+**ZVS:** leilu lam a nga inndei pen biakna tau-ah na a sem siampite-a' ding ahi hi. Tua siampite khempeuh pen Zadok' suan Levi mite vive ahi-te hi. Ama na a sem dingin { Topa }' omna-ah amaute bek kipaisak hi, hong ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

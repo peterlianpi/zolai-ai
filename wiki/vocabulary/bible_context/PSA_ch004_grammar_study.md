@@ -28,9 +28,9 @@
 ### v2
 **EN:** O ye sons of men, how long will ye turn my glory into shame? how long will ye love vanity, and seek after leasing? Selah.
 
-**TDB77:** Mite aw, ka minphatna in bang tanvei daina thuak ding ahi hiam? Bang tanvei thu mawkna deih-in, zuauthu zong ding na hi uh hiam?
+**TDB77:** Mite aw, ka minphatna in bang tanvei daina thuak ding ahi hiam? Bang tanvei thu mawkna deih-in, zuauthu zong ding na hi-te hiam?
 
-**ZVS:** Mite aw, ka minphatna in bang tanvei daina thuak ding ahi hiam? Bang tanvei thumawkna deihin zuauthu zong ding na hi uh hiam?
+**ZVS:** Mite aw, ka minphatna in bang tanvei daina thuak ding ahi hiam? Bang tanvei thumawkna deihin zuauthu zong ding na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then)
 
@@ -62,18 +62,18 @@
 ### v6
 **EN:** There be many that say, Who will shew us any good?
 
-**TDB77:** Mi tampi in, "Thupha ngah thei leeng ut si hang. Ko tungah na maitang vang hong taangsak in, Topa!" ci uh hi.
+**TDB77:** Mi tampi in, "Thupha ngah thei leeng ut si hang. Ko tungah na maitang vang hong taangsak in, Topa!" ci-te hi.
 
-**ZVS:** Mi tampi in, “Thupha tampi hong pia in. Ko tungah na maitang vang hong taangsak in, { Topa}!” ci uh hi.
+**ZVS:** Mi tampi in, “Thupha tampi hong pia in. Ko tungah na maitang vang hong taangsak in, { Topa}!” ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v7
 **EN:** Thou hast put gladness in my heart, more than in the time that their corn and their wine increased.
 
-**TDB77:** Amaute in an leh leenggahtui a hauh cianga a nuam uh sangin nuamna lianzaw ka lung sungah nong guan hi.
+**TDB77:** Amaute in an leh leenggahtui a hauh cianga a nuam-te sangin nuamna lianzaw ka lung sungah nong guan hi.
 
-**ZVS:** Amaute, an leh leengtui a hauh cianga a nuam uh sangin nuamna lianzaw ka lung sungah nong guan hi.
+**ZVS:** Amaute, an leh leengtui a hauh cianga a nuam-te sangin nuamna lianzaw ka lung sungah nong guan hi.
 
 ### v8
 **EN:** I will both lay me down in peace, and sleep: for thou,

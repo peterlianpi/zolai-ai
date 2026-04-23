@@ -36,9 +36,9 @@
 ### v2
 **EN:** (And when they heard that he spake in the Hebrew tongue to them, they kept the more silence: and he saith,)
 
-**TDB77:** Hebru pau-in a gen mite in a zak uh ciangin pau lo semsemin a om uh hi.
+**TDB77:** Hebru pau-in a gen mite in a zak-te ciangin pau lo semsemin a om-te hi.
 
-**ZVS:** Hebru pau-in thu a genna mihonte in a zak uh ciangin amaute gamdaizaw kan uh ahih manin Paul in a thugen zomin,
+**ZVS:** Hebru pau-in thu a genna mihonte in a zak-te ciangin amaute gamdaizaw kan-te ahih manin Paul in a thugen zomin,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -61,9 +61,9 @@
 ### v5
 **EN:** As also the high priest doth bear me witness, and all the estate of the elders: from whom also I received letters unto the brethren, and went to Damascus, to bring them which were there bound unto Jerusalem, for to be punished.
 
-**TDB77:** Hih thu ah siampi liante leh upate khempeuh in kei lamah teci ahi uh hi. Amaute kiang panin zong ute naute kiangah vaikhakna lai ka ngah khit ciangin Damaskas khua-ah a omte zong daantat dingin, henin, Jerusalem khua-ah paipih dingin ka pai hi.
+**TDB77:** Hih thu ah siampi liante leh upate khempeuh in kei lamah teci ahi-te hi. Amaute kiang panin zong ute naute kiangah vaikhakna lai ka ngah khit ciangin Damaskas khua-ah a omte zong daantat dingin, henin, Jerusalem khua-ah paipih dingin ka pai hi.
 
-**ZVS:** Hih ka thugente a man ahihna thu, siampi lianpenpa leh upa khempeuh in hong genthei ding uh hi. Damaskas khua-a om i Jew mipihte ka lah dingin amaute in lai hong pia uh ahih manin, upate in gim a piaktheihna dingun tua khua-a om thu um mite manin sikkhau khihin Jerusalem khua-ah a ciahpih dingin ka va pai hi.
+**ZVS:** Hih ka thugente a man ahihna thu, siampi lianpenpa leh upa khempeuh in hong genthei ding-te hi. Damaskas khua-a om i Jew mipihte ka lah dingin amaute in lai hong pia-te ahih manin, upate in gim a piaktheihna dingun tua khua-a om thu um mite manin sikkhau khihin Jerusalem khua-ah a ciahpih dingin ka va pai hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -97,9 +97,9 @@
 ### v9
 **EN:** And they that were with me saw indeed the light, and were afraid; but they heard not the voice of him that spake to me.
 
-**TDB77:** Keimah tawh a tonkhawmte in khuavak a muh uh hangin kei kiangah hong genpa’ aw a za kei uh hi.
+**TDB77:** Keimah tawh a tonkhawmte in khuavak a muh-te hangin kei kiangah hong genpa’ aw a za kei-te hi.
 
-**ZVS:** Ka tonpih mite in a khuavak taang mu uh a, ahi zongin kei' tungah thu hong genpa' awging zalo uh hi.
+**ZVS:** Ka tonpih mite in a khuavak taang mu-te a, ahi zongin kei' tungah thu hong genpa' awging zalo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -115,9 +115,9 @@
 ### v11
 **EN:** And when I could not see for the glory of that light, being led by the hand of them that were with me, I came into Damascus.
 
-**TDB77:** Tua khuavak khauh luatna hangin ka mit in khua mu zo lo ahih ciangin ka tonpihte in khut tawh hong kai-in, Damaskas khua-ah ka tung uh hi.
+**TDB77:** Tua khuavak khauh luatna hangin ka mit in khua mu zo lo ahih ciangin ka tonpihte in khut tawh hong kai-in, Damaskas khua-ah ka tung-te hi.
 
-**ZVS:** Tua khuavak taanglua hangin khua muthei nawnlo ka hih manin ka tonpihte in ka khutin hong lenin Damaskas khua-ah a hong paipih uh hi.
+**ZVS:** Tua khuavak taanglua hangin khua muthei nawnlo ka hih manin ka tonpihte in ka khutin hong lenin Damaskas khua-ah a hong paipih-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -174,18 +174,18 @@
 ### v18
 **EN:** And saw him saying unto me,
 
-**TDB77:** ‘Nang thakhatin Jerusalem khua pan a manlangin na paikhia in. Bang hang hiam na cih leh, keima thu na genna amaute in hong sang kei ding uh hi,’ ci-in Pasian in hong gen ka mu hi.
+**TDB77:** ‘Nang thakhatin Jerusalem khua pan a manlangin na paikhia in. Bang hang hiam na cih leh, keima thu na genna amaute in hong sang kei ding-te hi,’ ci-in Pasian in hong gen ka mu hi.
 
-**ZVS:** Tua ka maang sungah Topa in kei kiangah, ‘Hih lai-a om mite in keima thu na gennate hong umlo ding uh ahih manin Jerusalem khua panin kuankhia mengmeng in,’ hong ci hi.
+**ZVS:** Tua ka maang sungah Topa in kei kiangah, ‘Hih lai-a om mite in keima thu na gennate hong umlo ding-te ahih manin Jerusalem khua panin kuankhia mengmeng in,’ hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
 ### v19
 **EN:** And I said, Lord, they know that I imprisoned and beat in every synagogue them that believed on thee:
 
-**TDB77:** Keimah in zong, ‘Topa aw, nangmah hong umte thong sungah ka khum a, kikhopna inn khempeuh sungah ka sat hi ci-in amaute in hong thei uh hi.
+**TDB77:** Keimah in zong, ‘Topa aw, nangmah hong umte thong sungah ka khum a, kikhopna inn khempeuh sungah ka sat hi ci-in amaute in hong thei-te hi.
 
-**ZVS:** Kei zong, ‘Kikhopna innte-ah pai kawikawi-in nangma thu hong um mite manin ka satgawpna thu amaute mahmah in teltakin hong thei uh hi.
+**ZVS:** Kei zong, ‘Kikhopna innte-ah pai kawikawi-in nangma thu hong um mite manin ka satgawpna thu amaute mahmah in teltakin hong thei-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -210,36 +210,36 @@
 ### v22
 **EN:** And they gave him audience unto this word, and then lifted up their voices, and said, Away with such a fellow from the earth: for it is not fit that he should live.
 
-**TDB77:** Hih thute a gen khit dongin amaute in a ngai uh hi. Tua ciangin, “Hih bang mipa, leitung pan paaikhia mang un’. Amah a hing dingin a kilawm kei hi!” ci-in nakpi-in a kiko uh hi.
+**TDB77:** Hih thute a gen khit dongin amaute in a ngai-te hi. Tua ciangin, “Hih bang mipa, leitung pan paaikhia mang un’. Amah a hing dingin a kilawm kei hi!” ci-in nakpi-in a kiko-te hi.
 
-**ZVS:** Paul in Gentail mite kianga paina ding thu a gen matengin mite in limtakin a ngai uh hi. Ahi zongin tu-a thu a pulak ciangin a aw neihzah uh tawh mite kiko-in, “Leitungah hih bang mi omsak kei un! That un! A hing dingin kilawm lo!” ci-in a awng uh hi.
+**ZVS:** Paul in Gentail mite kianga paina ding thu a gen matengin mite in limtakin a ngai-te hi. Ahi zongin tu-a thu a pulak ciangin a aw neihzah-te tawh mite kiko-in, “Leitungah hih bang mi omsak kei un! That un! A hing dingin kilawm lo!” ci-in a awng-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** And as they cried out, and cast off their clothes, and threw dust into the air,
 
-**TDB77:** Amaute kiko uh a, amau puan suahkhia-in leivui van lamah a lot uh ciangin galkap mangpa in
+**TDB77:** Amaute kiko-te a, amau puan suahkhia-in leivui van lamah a lot-te ciangin galkap mangpa in
 
-**ZVS:** Mihonte hehlua-in awngkeekgawp uh a, a puan uh suahin vanah lawnin, leivui zong van lamah a lawn uh hi.
+**ZVS:** Mihonte hehlua-in awngkeekgawp-te a, a puan-te suahin vanah lawnin, leivui zong van lamah a lawn-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** The chief captain commanded him to be brought into the castle, and bade that he should be examined by scourging; that he might know wherefore they cried so against him.
 
-**TDB77:** bang hangin kiko ahi uh hiam cih a theih nadingin, satna tawh Paul thu a kidot nadingin galkap inn sungah tumpih dingin thu a pia hi.
+**TDB77:** bang hangin kiko ahi-te hiam cih a theih nadingin, satna tawh Paul thu a kidot nadingin galkap inn sungah tumpih dingin thu a pia hi.
 
-**ZVS:** Tua ciangin Rom galkapmangpa in galkap huangsungah Paul a paipihna dingun thu pia a, bang hangin Jew mite hih bangin ama tungah hehin awngkekgawp uh ahi hiam, ci-in a theihna dingin a satsak hi.
+**ZVS:** Tua ciangin Rom galkapmangpa in galkap huangsungah Paul a paipihna dingun thu pia a, bang hangin Jew mite hih bangin ama tungah hehin awngkekgawp-te ahi hiam, ci-in a theihna dingin a satsak hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v25
 **EN:** And as they bound him with thongs, Paul said unto the centurion that stood by, Is it lawful for you to scourge a man that is a Roman, and uncondemned?
 
-**TDB77:** Amaute in Paul savun khau tawh a hen khit uh ciangin Paul in a kiangah a ding bupa kiangah, “Thukhenna thuak loin Rom mi sat ding a kilawm hiam?” ci-in a dong hi.
+**TDB77:** Amaute in Paul savun khau tawh a hen khit-te ciangin Paul in a kiangah a ding bupa kiangah, “Thukhenna thuak loin Rom mi sat ding a kilawm hiam?” ci-in a dong hi.
 
-**ZVS:** Amaute in sat dingin a hen khit uh ciangin Paul in a gei-a ding galkapbupa kiangah, “Khial hi, ci-in thu nangawn a kisit nailo Rom mi khat na sat ding uh ngeina ahi hiam?” a ci hi.
+**ZVS:** Amaute in sat dingin a hen khit-te ciangin Paul in a gei-a ding galkapbupa kiangah, “Khial hi, ci-in thu nangawn a kisit nailo Rom mi khat na sat ding-te ngeina ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -273,18 +273,18 @@
 ### v29
 **EN:** Then straightway they departed from him which should have examined him: and the chief captain also was afraid, after he knew that he was a Roman, and because he had bound him.
 
-**TDB77:** Tua ciangin thu dong dinga akisa mite in Paul kiang panin a paikhia pah uh hi. Amah Rom mi ahih thei a, amah khau tawh hen zo ahih ciangin galkap mangpa a lau mahmah hi.
+**TDB77:** Tua ciangin thu dong dinga akisa mite in Paul kiang panin a paikhia pah-te hi. Amah Rom mi ahih thei a, amah khau tawh hen zo ahih ciangin galkap mangpa a lau mahmah hi.
 
-**ZVS:** Tua ahih manin Paul thu a dong dingin a gei-a om mite a paikhia uh hi. Sikkhau tawh a khih khit ciangin Paul pen Rom gammi ahihna a phawk ciangin galkapmangpa zong lau-in a lunghimawh hi.
+**ZVS:** Tua ahih manin Paul thu a dong dingin a gei-a om mite a paikhia-te hi. Sikkhau tawh a khih khit ciangin Paul pen Rom gammi ahihna a phawk ciangin galkapmangpa zong lau-in a lunghimawh hi.
 
 **Grammar:** punctual: immediately/suddenly | sequence: then/therefore | intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** On the morrow, because he would have known the certainty wherefore he was accused of the Jews, he loosed him from his bands, and commanded the chief priests and all their council to appear, and brought Paul down, and set him before them.
 
-**TDB77:** A zing ciangin bang hangin Judah mite in Paul a mawhsak uh hiam cih galkap mangpa in tel takpi thei nuamin Paul khahkhia a, siampi liante leh upate a kikhopsak khit ciangin paipihsuk a, amaute mai-ah a koih hi.
+**TDB77:** A zing ciangin bang hangin Judah mite in Paul a mawhsak-te hiam cih galkap mangpa in tel takpi thei nuamin Paul khahkhia a, siampi liante leh upate a kikhopsak khit ciangin paipihsuk a, amaute mai-ah a koih hi.
 
-**ZVS:** Jew mite in bang hangin Paul mawhsak ahi uh hiam, ci-in teltakin galkapmangpa in theinuam ahih manin a zing ciangin Paul a khihsakna sikkhaute sutsak a, siampi liante leh upate thu kikupna a nei dingin a samsak hi. Tua ciangin Paul paikhiatpihin uliante mai-ah a dingsak hi.
+**ZVS:** Jew mite in bang hangin Paul mawhsak ahi-te hiam, ci-in teltakin galkapmangpa in theinuam ahih manin a zing ciangin Paul a khihsakna sikkhaute sutsak a, siampi liante leh upate thu kikupna a nei dingin a samsak hi. Tua ciangin Paul paikhiatpihin uliante mai-ah a dingsak hi.
 
 **Grammar:** reciprocal: ki- prefix
 

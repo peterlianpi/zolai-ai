@@ -60,7 +60,7 @@
 ### v6
 **EN:** Among whom are ye also the called of Jesus Christ:
 
-**TDB77:** Pasian' sapna za-in Jesuh Khrih tawh a kipawl Rom khua-a a om note khempeuh zong tua minamte sungah a kihel na hi uh hi.
+**TDB77:** Pasian' sapna za-in Jesuh Khrih tawh a kipawl Rom khua-a a om note khempeuh zong tua minamte sungah a kihel na hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -76,7 +76,7 @@
 
 **TDB77:** Nomau thu-upna in leitung gam khempeuh ah kizel ahih ciangin nomau hangin Zeisu Khazih tawh Pasian’ hehpihna ka phat masa bel hi.
 
-**ZVS:** Jesuh na upna thu uh leitung mi khempeuh in gen belin nei uh ahih manin tua Jesuh hangin Pasian tungah ka lungdamna thu koh belin ka nei hi.
+**ZVS:** Jesuh na upna thu-te leitung mi khempeuh in gen belin nei-te ahih manin tua Jesuh hangin Pasian tungah ka lungdamna thu koh belin ka nei hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -117,9 +117,9 @@
 ### v13
 **EN:** Now I would not have you ignorant, brethren, that oftentimes I purposed to come unto you, (but was let hitherto,) that I might have some fruit among you also, even as among other Gentiles.
 
-**TDB77:** Ute naute aw, Gentail adangte lakah gah ka ngah mah bangin nomau lakah zong ka ngah nadingin nomau kiangah pai ning ci-in tamveipi ka hanciam ci-in note in na theih loh ding uh ka deih kei hi. Ahih hangin tu dongin, hong kham a om hi.
+**TDB77:** Ute naute aw, Gentail adangte lakah gah ka ngah mah bangin nomau lakah zong ka ngah nadingin nomau kiangah pai ning ci-in tamveipi ka hanciam ci-in note in na theih loh ding-te ka deih kei hi. Ahih hangin tu dongin, hong kham a om hi.
 
-**ZVS:** Khrih sungah sanggamte aw, Gentail midangte lakah thu um mi ka ngah mah bangin note lakah zong ngahding lametna tawh note kiangah pai ding tam veipi ka geel zel hangin ka hong pai theihlohna thu nong theih ding uh ka ut hi.
+**ZVS:** Khrih sungah sanggamte aw, Gentail midangte lakah thu um mi ka ngah mah bangin note lakah zong ngahding lametna tawh note kiangah pai ding tam veipi ka geel zel hangin ka hong pai theihlohna thu nong theih ding-te ka ut hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -144,7 +144,7 @@
 ### v16
 **EN:** For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
 
-**TDB77:** Khazih’ Lungdamna Thu hangin ka maizum kei hi. Bang hang hiam na cih uh leh, tua thu in a masa-in Judah mite, a nung ciangin Grik mite akipan a um mi khempeuh in gupna a ngah nading Pasian’ vangliatna ahi hi.
+**TDB77:** Khazih’ Lungdamna Thu hangin ka maizum kei hi. Bang hang hiam na cih-te leh, tua thu in a masa-in Judah mite, a nung ciangin Grik mite akipan a um mi khempeuh in gupna a ngah nading Pasian’ vangliatna ahi hi.
 
 **ZVS:** Lungdamna Thu ka muang mahmah hi. Tua thu pen a masa-in Jew mi, tua zomin minam dangte, thu um mi khempeuh a honkhiazo Pasian' vangliatna ahi hi.
 
@@ -164,104 +164,104 @@
 
 **TDB77:** Gitlohna tawh thuman thutak a nial mite a gitlohna tungah Pasian’ hehna in vantung panin hong kilang hi.
 
-**ZVS:** Mihingte in a mawhna leh a gitlohna hangun Pasian' thuman selcip uh ahih manin van panin a hehna hong kilang sakin a gimpiakna dingzia hong kilangsak hi.
+**ZVS:** Mihingte in a mawhna leh a gitlohna hangun Pasian' thuman selcip-te ahih manin van panin a hehna hong kilang sakin a gimpiakna dingzia hong kilangsak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v19
 **EN:** Because that which may be known of God is manifest in them; for God hath shewed it unto them.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian’ thu a kiteltakin amaute lakah a kilang hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian’ thu a kiteltakin amaute lakah a kilang hi.
 
-**ZVS:** Pasian mahmah in amaute tungah limtakin laktel ahih manin Pasian' thu teltakin a theih khit uh ciangin a gamtatna uh ahih manin Pasian in gim a pia ahi hi.
+**ZVS:** Pasian mahmah in amaute tungah limtakin laktel ahih manin Pasian' thu teltakin a theih khit-te ciangin a gamtatna-te ahih manin Pasian in gim a pia ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v20
 **EN:** For the invisible things of him from the creation of the world are clearly seen, being understood by the things that are made, even his eternal power and Godhead; so that they are without excuse:
 
-**TDB77:** Bang hang hiam na cih uh leh, ama tawntung vangliatna leh siangthona ahi, mit tawh kimu thei lo nate, lei apian’cil a kipan kilangin a kimu hi. Tua ahih ciangin amaute in a kisuahtak thei kei ding uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, ama tawntung vangliatna leh siangthona ahi, mit tawh kimu thei lo nate, lei apian’cil a kipan kilangin a kimu hi. Tua ahih ciangin amaute in a kisuahtak thei kei ding-te hi.
 
-**ZVS:** Pasian in leitung a pian'sak cila kipanin a kimu theilo ama pianzia ahi tawntung vanglianpa leh Pasian ahihna thute ama bawlsa nate tung panin teltakin hong kilang hi. Tua ahih manin, “Thei kei ing,” ci-in paulap a zon'theihna ding uh omlo hi.
+**ZVS:** Pasian in leitung a pian'sak cila kipanin a kimu theilo ama pianzia ahi tawntung vanglianpa leh Pasian ahihna thute ama bawlsa nate tung panin teltakin hong kilang hi. Tua ahih manin, “Thei kei ing,” ci-in paulap a zon'theihna ding-te omlo hi.
 
 **Grammar:** sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** Because that, when they knew God, they glorified him not as God, neither were thankful; but became vain in their imaginations, and their foolish heart was darkened.
 
-**TDB77:** Amaute in Pasian a thei uh hi napi-in Pasian phat ding a kilawm zahin a phat kei uh a, ama hehpihna phat lo uh tham loin, amau in mawkna-in a ngaihsun uh a, ciamteh thei loin amau lungsim uh a mial hi.
+**TDB77:** Amaute in Pasian a thei-te hi napi-in Pasian phat ding a kilawm zahin a phat kei-te a, ama hehpihna phat lo-te tham loin, amau in mawkna-in a ngaihsun-te a, ciamteh thei loin amau lungsim-te a mial hi.
 
-**ZVS:** Amaute in Pasian thei napi-in a zahtak dingun a kilawm bangin zahtak loin, a tungah a lungdam dingun a kilawm bangin lungdamlo uh hi. Amaute in thuhoih ngaihsun nuamlo uh a, a ngaihsutnate uh a mawknapi a suak hi.
+**ZVS:** Amaute in Pasian thei napi-in a zahtak dingun a kilawm bangin zahtak loin, a tungah a lungdam dingun a kilawm bangin lungdamlo-te hi. Amaute in thuhoih ngaihsun nuamlo-te a, a ngaihsutnate-te a mawknapi a suak hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** Professing themselves to be wise, they became fools,
 
-**TDB77:** “Lungpil mi ka hi uh hi,” a cih uh hangin mihai suak uh a,
+**TDB77:** “Lungpil mi ka hi-te hi,” a cih-te hangin mihai suak-te a,
 
-**ZVS:** Amaute pil a kisak mahmah uh hangin a hai mahmah uh ahi hi.
+**ZVS:** Amaute pil a kisak mahmah-te hangin a hai mahmah-te ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v23
 **EN:** And changed the glory of the uncorruptible God into an image made like to corruptible man, and to birds, and fourfooted beasts, and creeping things.
 
-**TDB77:** kisia thei lo Pasian’ vangliatna in a sia thei mite ahi zongin, vasate ahi zongin, khe li nei ganhingte ahi zongin, bawkbak a, paite ahi zongin, tuate a milim tawh a kheek uh hi.
+**TDB77:** kisia thei lo Pasian’ vangliatna in a sia thei mite ahi zongin, vasate ahi zongin, khe li nei ganhingte ahi zongin, bawkbak a, paite ahi zongin, tuate a milim tawh a kheek-te hi.
 
-**ZVS:** A hing tawntung Pasian bialoin, mi, vasa, ganhing, ahih kei leh a bokvak ganhingte tawh a kibang limte a bia zawsop uh hi.
+**ZVS:** A hing tawntung Pasian bialoin, mi, vasa, ganhing, ahih kei leh a bokvak ganhingte tawh a kibang limte a bia zawsop-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** Wherefore God also gave them up to uncleanness through the lusts of their own hearts, to dishonour their own bodies between themselves:
 
-**TDB77:** Tua ahih ciangin Pasian in amau pumpi uh, amau mah in a siatsak theih nadingun amaute in lunggulhna a neih uh bangin kihhuaina sungah a pia hi.
+**TDB77:** Tua ahih ciangin Pasian in amau pumpi uh, amau mah in a siatsak theih nadingun amaute in lunggulhna a neih-te bangin kihhuaina sungah a pia hi.
 
-**ZVS:** Mihingte tua zahta-in hailua uh ahih manin amau ututin a gamtat theihna dingun Pasian in khahkhong vet a, a zumhuai mahmahpi-in a gamta uh hi.
+**ZVS:** Mihingte tua zahta-in hailua-te ahih manin amau ututin a gamtat theihna dingun Pasian in khahkhong vet a, a zumhuai mahmahpi-in a gamta-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v25
 **EN:** Who changed the truth of God into a lie, and worshipped and served the creature more than the Creator, who is blessed for ever. Amen.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian’ thuman thutak pen thuzuau tawh a kheek uh a, a Piangsakpa nusia-in a pian’sakte a bia uh hi. Tua Topa in thupha a ngah tawntung hi. Amen.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian’ thuman thutak pen thuzuau tawh a kheek-te a, a Piangsakpa nusia-in a pian’sakte a bia-te hi. Tua Topa in thupha a ngah tawntung hi. Amen.
 
-**ZVS:** Amaute in a man ahi Pasian' thu um nuamlo uh a, a tawntungin phat dingin a kilawm a Piangsakpa bialoin, Pasian' bawlsa nate bia-in a zui uh hi. Tu-a bangin hi takpi uh hi.
+**ZVS:** Amaute in a man ahi Pasian' thu um nuamlo-te a, a tawntungin phat dingin a kilawm a Piangsakpa bialoin, Pasian' bawlsa nate bia-in a zui-te hi. Tu-a bangin hi takpi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v26
 **EN:** For this cause God gave them up unto vile affections: for even their women did change the natural use into that which is against nature:
 
-**TDB77:** Tua bang ahih uh ciangin Pasian in amaute zumhuai lunggulhna khut sungah a pia hi. Amau numeite in a ngeina bang zui loin, a ngeina tawh kituak lo lam a zui uh hi.
+**TDB77:** Tua bang ahih-te ciangin Pasian in amaute zumhuai lunggulhna khut sungah a pia hi. Amau numeite in a ngeina bang zui loin, a ngeina tawh kituak lo lam a zui-te hi.
 
-**ZVS:** Tua ahih manin amau utna bangin a zumhuaipi-in a gamtat theihna dingun Pasian in a khahkhong hi. A numeite un pasal tawh lupkhop ngeina zangloin a numeipihte mah uh lunggulhin lumkhawm uh a,
+**ZVS:** Tua ahih manin amau utna bangin a zumhuaipi-in a gamtat theihna dingun Pasian in a khahkhong hi. A numeite un pasal tawh lupkhop ngeina zangloin a numeipihte mah-te lunggulhin lumkhawm-te a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** And likewise also the men, leaving the natural use of the woman, burned in their lust one toward another; men with men working that which is unseemly, and receiving in themselves that recompence of their error which was meet.
 
-**TDB77:** Tua mah bangin pasalte in zong numeite tawh bawlna ngeina nusia-in, khat leh khat kilunggulh uh a, pasal khat leh khat zumhuai kibawl uh a, amaute mawhna tawh kituak daan a pum sung uh ah a thuak uh hi.
+**TDB77:** Tua mah bangin pasalte in zong numeite tawh bawlna ngeina nusia-in, khat leh khat kilunggulh-te a, pasal khat leh khat zumhuai kibawl-te a, amaute mawhna tawh kituak daan a pum sung-te ah a thuak-te hi.
 
-**ZVS:** a pasalte uh zong numei tawh lumkhawm loin pasalte mah lunggulhin lumkhawm uh a, a zumhuaipi-in a gamta uh hi. Tua ahih manin amaute' gamtatsiatna tawh kituakin Pasian in gim a pia hi.
+**ZVS:** a pasalte-te zong numei tawh lumkhawm loin pasalte mah lunggulhin lumkhawm-te a, a zumhuaipi-in a gamta-te hi. Tua ahih manin amaute' gamtatsiatna tawh kituakin Pasian in gim a pia hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** And even as they did not like to retain God in their knowledge, God gave them over to a reprobate mind, to do those things which are not convenient;
 
-**TDB77:** Amaute in Pasian thei nuam lo uh ahih ciangin a kituak lo nate ahih nading Pasian in amaute gitlohna lungsim sungah a piak mah bangin,
+**TDB77:** Amaute in Pasian thei nuam lo-te ahih ciangin a kituak lo nate ahih nading Pasian in amaute gitlohna lungsim sungah a piak mah bangin,
 
-**ZVS:** Mite in a man ahi Pasian' thu ngaihsutin nei nuamlo uh ahih manin amaute' ngaihsut hoihlo bangin a gamtat theihna dingun Pasian in a khahkhia hi. Tua ahih manin a gamtat dingun a kilawm lopipi-in a gamta uh hi.
+**ZVS:** Mite in a man ahi Pasian' thu ngaihsutin nei nuamlo-te ahih manin amaute' ngaihsut hoihlo bangin a gamtat theihna dingun Pasian in a khahkhia hi. Tua ahih manin a gamtat dingun a kilawm lopipi-in a gamta-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v29
 **EN:** Being filled with all unrighteousness, fornication, wickedness, covetousness, maliciousness; full of envy, murder, debate, deceit, malignity; whisperers,
 
-**TDB77:** diklohna tawh, gitlohna tawh, duhgawh huaihamna tawh, hazatna tawh, en’na tawh, mi thahna tawh, kitotna tawh, kheemna tawh, etsat muhdahna tawh a dim uh hi.
+**TDB77:** diklohna tawh, gitlohna tawh, duhgawh huaihamna tawh, hazatna tawh, en’na tawh, mi thahna tawh, kitotna tawh, kheemna tawh, etsat muhdahna tawh a dim-te hi.
 
 **ZVS:** Siatna nam khempeuh ahi, hoihlohna, huaihamna, khatlekhat kisiatsak nopna, hazatna, mi thahna, kitotna, khemna, a sialam bekbek ngaihsutna, zuau genna,
 
@@ -279,18 +279,18 @@
 ### v31
 **EN:** Without understanding, covenantbreakers, without natural affection, implacable, unmerciful:
 
-**TDB77:** kikepna nei lo mi, kiciam pelh mi, unau it lo mi, hehpih lungsim nei lo mi a suak uh hi.
+**TDB77:** kikepna nei lo mi, kiciam pelh mi, unau it lo mi, hehpih lungsim nei lo mi a suak-te hi.
 
-**ZVS:** gamtatsiatna, ciampelna, midangte khuallo, hehpihna neiloin, a sia namkim a gamta uh hi.
+**ZVS:** gamtatsiatna, ciampelna, midangte khuallo, hehpihna neiloin, a sia namkim a gamta-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** Who knowing the judgment of God, that they which commit such things are worthy of death, not only do the same, but have pleasure in them that do them.
 
-**TDB77:** Tua bang gamtate in sihna daan a thuak ding uh ci-in Pasian’ thukham thei napi-in, amaute in ahih uh tham loin, tua bang ahih mite a awi uh hi.
+**TDB77:** Tua bang gamtate in sihna daan a thuak ding-te ci-in Pasian’ thukham thei napi-in, amaute in ahih-te tham loin, tua bang ahih mite a awi-te hi.
 
-**ZVS:** Tua bangin a gamtate in sihna thuak ding hi, ci-in Pasian' thukhenna thei napi-in, tua bangin amaute a gamtat uh banah, tua bangin a gamtate pakta-in a awi zawsop lai uh hi.
+**ZVS:** Tua bangin a gamtate in sihna thuak ding hi, ci-in Pasian' thukhenna thei napi-in, tua bangin amaute a gamtat-te banah, tua bangin a gamtate pakta-in a awi zawsop lai-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 

@@ -25,7 +25,7 @@
 ### v1
 **EN:** There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
 
-**TDB77:** Tua ahih ciangin si-le-sa deihna bangin kalsuan loin Kha deih bangin a kalsuan, Khazih sungah a om mite in mawhna thukhenna tawh a kipelh zo uh hi.
+**TDB77:** Tua ahih ciangin si-le-sa deihna bangin kalsuan loin Kha deih bangin a kalsuan, Khazih sungah a om mite in mawhna thukhenna tawh a kipelh zo-te hi.
 
 **ZVS:** Ahi zongin tu-in ahih leh Khrih Jesuh tawh kipawlin a nungta mite pen mawhna thukhenna tawh kipelh hi.
 
@@ -34,7 +34,7 @@
 ### v2
 **EN:** For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.
 
-**TDB77:** Bang hang hiam na cih uh leh, Khazih Zeisu hanga a om nuntakna’ Kha tawh kipawl thukham in mawhna leh sihna’ thukham sung pan kei hong honkhia zo hi.
+**TDB77:** Bang hang hiam na cih-te leh, Khazih Zeisu hanga a om nuntakna’ Kha tawh kipawl thukham in mawhna leh sihna’ thukham sung pan kei hong honkhia zo hi.
 
 **ZVS:** Bang hang hiam cih leh Khrih Jesuh tawh a hong kipawlsak Kha Siangtho in mawhna leh sihna a piangsak thukham panin kei hong suaktasak khinta hi.
 
@@ -52,7 +52,7 @@
 ### v4
 **EN:** That the righteousness of the law might be fulfilled in us, who walk not after the flesh, but after the Spirit.
 
-**TDB77:** Bang hang hiam na cih uh leh, ci leh sa deihna zui loin Pasian’ Kha Siangtho’ deihna zui-in a nungta eite tungah a Thukham hanciamna thu a tun’ nading hi.
+**TDB77:** Bang hang hiam na cih-te leh, ci leh sa deihna zui loin Pasian’ Kha Siangtho’ deihna zui-in a nungta eite tungah a Thukham hanciamna thu a tun’ nading hi.
 
 **ZVS:** Eite' deihna bangin nungta loin Pasian' Kha Siangtho' deihna bangin a nungta eite sungah Thukham' deihna teng a kicin' theihna dingin Pasian in a Tapa a hong sawl ahi hi.
 
@@ -61,16 +61,16 @@
 ### v5
 **EN:** For they that are after the flesh do mind the things of the flesh; but they that are after the Spirit the things of the Spirit.
 
-**TDB77:** Ci leh sa a zuite in ci leh sa’ thu a ngai uh hi. Pasian’ Kha Siangtho a zuite in Pasian’ Kha Siangtho’ thu a ngai uh hi.
+**TDB77:** Ci leh sa a zuite in ci leh sa’ thu a ngai-te hi. Pasian’ Kha Siangtho a zuite in Pasian’ Kha Siangtho’ thu a ngai-te hi.
 
-**ZVS:** Amau pumpi deihna bangin a nungtate, amau pumpi deihna in a lungsim uh a uk hi; Kha Siangtho deihna bangin a nungtate, Kha Siangtho in amau lungsim a uk hi.
+**ZVS:** Amau pumpi deihna bangin a nungtate, amau pumpi deihna in a lungsim-te a uk hi; Kha Siangtho deihna bangin a nungtate, Kha Siangtho in amau lungsim a uk hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** For to be carnally minded is death; but to be spiritually minded is life and peace.
 
-**TDB77:** Bang hang hiam na cih uh leh, ci leh sa lungsim in sihna tawh kituak hi. Kha Siangtho lungsim in nuntakna leh nopna tawh kituak hi.
+**TDB77:** Bang hang hiam na cih-te leh, ci leh sa lungsim in sihna tawh kituak hi. Kha Siangtho lungsim in nuntakna leh nopna tawh kituak hi.
 
 **ZVS:** I ngaihsutna, i pumpi deihna uksak lehang sihna tawh kizom hi; i ngaihsutna, Kha Siangtho uksak lehang nuntakna leh nopsakna tawh a kizom hi.
 
@@ -79,7 +79,7 @@
 ### v7
 **EN:** Because the carnal mind is enmity against God: for it is not subject to the law of God, neither indeed can be.
 
-**TDB77:** Bang hang hiam na cih uh leh, ci leh sa lungsim in Pasian’ Thukham mang lo tham loin a mang zo lo ahih maninah Pasian tawh a kido hi.
+**TDB77:** Bang hang hiam na cih-te leh, ci leh sa lungsim in Pasian’ Thukham mang lo tham loin a mang zo lo ahih maninah Pasian tawh a kido hi.
 
 **ZVS:** Mi khatpeuh in ama pumpi deihna a ki-uksak ciangin Pasian' thukhamte zuilo ahih manin Pasian' gal suak a, a zuihnop hangin zong zui theilo hi.
 
@@ -88,18 +88,18 @@
 ### v8
 **EN:** So then they that are in the flesh cannot please God.
 
-**TDB77:** Ci leh sa sungah a omte in Pasian a lungdamsak zo kei uh hi.
+**TDB77:** Ci leh sa sungah a omte in Pasian a lungdamsak zo kei-te hi.
 
-**ZVS:** Amau pumpi deihna bangin a gamtate in Pasian lungdamsak theilo uh hi.
+**ZVS:** Amau pumpi deihna bangin a gamtate in Pasian lungdamsak theilo-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v9
 **EN:** But ye are not in the flesh, but in the Spirit, if so be that the Spirit of God dwell in you. Now if any man have not the Spirit of Christ, he is none of his.
 
-**TDB77:** Pasian’ Kha Siangtho in note sungah a teen’ leh, note in ci leh sa sungah na om kei uh hi; Pasian’ Kha Siangtho sungah na om uh hi. Bang hang hiam na cih uh leh, Khazih’ Kha Siangtho a nei lo mite in Khazih’ mi ahi kei uh hi.
+**TDB77:** Pasian’ Kha Siangtho in note sungah a teen’ leh, note in ci leh sa sungah na om kei-te hi; Pasian’ Kha Siangtho sungah na om-te hi. Bang hang hiam na cih-te leh, Khazih’ Kha Siangtho a nei lo mite in Khazih’ mi ahi kei-te hi.
 
-**ZVS:** Note sungah Pasian' Kha Siangtho hong om nak leh nomau pumpi deihna bangin gamta loin Kha Siangtho deihna bangin na gamta ding uh hi. Khrih lungsim a neilote Khrih tawh kipawllo hi.
+**ZVS:** Note sungah Pasian' Kha Siangtho hong om nak leh nomau pumpi deihna bangin gamta loin Kha Siangtho deihna bangin na gamta ding-te hi. Khrih lungsim a neilote Khrih tawh kipawllo hi.
 
 **Grammar:** negation: kei | negation: lo | plural: uh marker
 
@@ -108,12 +108,12 @@
 
 **TDB77:** Khazih in note sungah a om leh, na pumpi un mawhna hangin a sih hangin na kha un dikna hangah a nungta hi.
 
-**ZVS:** Ahi zongin note sungah Khrih hong om leh mawhna hangin na pumpi uh a si veve ding ahi zongin, note pen Pasian tawh kipawlkhin na hih manun note-a' dingin Kha Siangtho pen nuntakna ahi hi.
+**ZVS:** Ahi zongin note sungah Khrih hong om leh mawhna hangin na pumpi-te a si veve ding ahi zongin, note pen Pasian tawh kipawlkhin na hih manun note-a' dingin Kha Siangtho pen nuntakna ahi hi.
 
 ### v11
 **EN:** But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.
 
-**TDB77:** Zeisu a thokiksak Pasian’ Kha Siangtho in note sungah a om leh, Khazih Zeisu a thokik sakpa in, note sungah a teeng a Kha Siangtho hangin, a si thei na pumpi uh zong hin’na a pia ding hi.
+**TDB77:** Zeisu a thokiksak Pasian’ Kha Siangtho in note sungah a om leh, Khazih Zeisu a thokik sakpa in, note sungah a teeng a Kha Siangtho hangin, a si thei na pumpi-te zong hin’na a pia ding hi.
 
 **ZVS:** Sihna panin Jesuh a thokiksak Pasian' Kha Siangtho note sungah hong om leh sihna panin Khrih a hingkik sakpa mah in note sungah a om ama Kha Siangtho mah tawh a sithei pumpi a hong nungtasak ding hi.
 
@@ -131,25 +131,25 @@
 ### v13
 **EN:** For if ye live after the flesh, ye shall die: but if ye through the Spirit do mortify the deeds of the body, ye shall live.
 
-**TDB77:** Note in ci leh sa thu zui-in na nuntak uh leh, na si ding uh hi. Kha Siangtho hangin na pumpi uh a gamtatna na sihsak uh leh, na nungta ding uh hi.
+**TDB77:** Note in ci leh sa thu zui-in na nuntak-te leh, na si ding-te hi. Kha Siangtho hangin na pumpi-te a gamtatna na sihsak-te leh, na nungta ding-te hi.
 
-**ZVS:** Na pumpi uh deihna zui-in na gamtat uh leh na si ding uh a, ahi zongin Kha Siangtho huhna tawh na mawh gamtatnate uh na sihsak uh leh na nungta ding uh hi.
+**ZVS:** Na pumpi-te deihna zui-in na gamtat-te leh na si ding-te a, ahi zongin Kha Siangtho huhna tawh na mawh gamtatnate-te na sihsak-te leh na nungta ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v14
 **EN:** For as many as are led by the Spirit of God, they are the sons of God.
 
-**TDB77:** Pasian’ Kha Siangtho’ thuhilhna a mang mi khempeuhte in Pasian’ tate ahi uh hi.
+**TDB77:** Pasian’ Kha Siangtho’ thuhilhna a mang mi khempeuhte in Pasian’ tate ahi-te hi.
 
-**ZVS:** Pasian' Kha Siangtho in a makaih mite, Pasian' tate ahi uh hi.
+**ZVS:** Pasian' Kha Siangtho in a makaih mite, Pasian' tate ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** For ye have not received the spirit of bondage again to fear; but ye have received the Spirit of adoption, whereby we cry, Abba, Father.
 
-**TDB77:** Note in kihtak kikkik nading sila’ lungsim na ngah kei uh hi. “Abba, Pa aw,” i cih mah bangin ta suahna lungsim na ngah uh hi.
+**TDB77:** Note in kihtak kikkik nading sila’ lungsim na ngah kei-te hi. “Abba, Pa aw,” i cih mah bangin ta suahna lungsim na ngah-te hi.
 
 **ZVS:** Note tungah Pasian in a hong piak a Kha Siangtho in note na launa dingun sila-in a hong bawl hilo a, Kha Siangtho in Pasian' tate a hong suaksak ahi zaw hi. Tua Kha Siangtho mah in Pasian pen, “Pa aw, Pa aw,” hong ci theisak hi.
 
@@ -185,16 +185,16 @@
 ### v19
 **EN:** For the earnest expectation of the creature waiteth for the manifestation of the sons of God.
 
-**TDB77:** A kipiangsak nate in Pasian’ tate a kilat ding lamenin, lawp pha-in a ngak uh hi.
+**TDB77:** A kipiangsak nate in Pasian’ tate a kilat ding lamenin, lawp pha-in a ngak-te hi.
 
-**ZVS:** Pasian' bawlsa khempeuh in Pasian' tate a hong kilahkhiat hun ding lawp mahmahin a ngak uh hi.
+**ZVS:** Pasian' bawlsa khempeuh in Pasian' tate a hong kilahkhiat hun ding lawp mahmahin a ngak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** For the creature was made subject to vanity, not willingly, but by reason of him who hath subjected the same in hope,
 
-**TDB77:** Bang hang hiam na cih leh, a kipiangsak nate in a kisia gam lam, amau ut bangin zui ahi kei uh hi.
+**TDB77:** Bang hang hiam na cih leh, a kipiangsak nate in a kisia gam lam, amau ut bangin zui ahi kei-te hi.
 
 **ZVS:** Pasian' bawlsate, amau utthu tawh hiloin siatna a thuak dingin Pasian mahmah in a ngaihsutsa ahi hi. Ahi zongin lametna omlai hi.
 
@@ -203,18 +203,18 @@
 ### v21
 **EN:** Because the creature itself also shall be delivered from the bondage of corruption into the glorious liberty of the children of God.
 
-**TDB77:** Pasian’ tate’ vangliatna tawh kipawl khahkhiat nopsakna ahi, kisiatna hen gawpna panin kikhahkhia-in nopsakna ah a tum ding ci-in lamet nading thu pia a, a kisia thei gam lam a zuisakpa’ deihna bang bek a zui uh hi.
+**TDB77:** Pasian’ tate’ vangliatna tawh kipawl khahkhiat nopsakna ahi, kisiatna hen gawpna panin kikhahkhia-in nopsakna ah a tum ding ci-in lamet nading thu pia a, a kisia thei gam lam a zuisakpa’ deihna bang bek a zui-te hi.
 
-**ZVS:** Pasian' bawlsate, nikhat ni ciangin muattheihna ding thu panin suakta-in Pasian' tate tawh a nuam suahtakna a ngahkhawm ding uh hi.
+**ZVS:** Pasian' bawlsate, nikhat ni ciangin muattheihna ding thu panin suakta-in Pasian' tate tawh a nuam suahtakna a ngahkhawm ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** For we know that the whole creation groaneth and travaileth in pain together until now.
 
-**TDB77:** Bang hang hiam na cih uh leh, a kipiangsak nate khempeuh in tu dongin a tau uh a, gimna thuakin a om uh i thei hi.
+**TDB77:** Bang hang hiam na cih-te leh, a kipiangsak nate khempeuh in tu dongin a tau-te a, gimna thuakin a om-te i thei hi.
 
-**ZVS:** Tuhun ciangdong Pasian' bawlsa khempeuh nupi nausuak ding bangin na sa-in a tauna uh i thei hi.
+**ZVS:** Tuhun ciangdong Pasian' bawlsa khempeuh nupi nausuak ding bangin na sa-in a tauna-te i thei hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -230,7 +230,7 @@
 ### v24
 **EN:** For we are saved by hope: but hope that is seen is not hope: for what a man seeth, why doth he yet hope for?
 
-**TDB77:** Eite in lametna hangin gupna i ngah hi. Ahih hangin lametna in i muhsa ahih leh, lamet nading a om kei hi. Bang hang hiam na cih uh leh, a muhsate kua in a lamen nawn ding hiam?
+**TDB77:** Eite in lametna hangin gupna i ngah hi. Ahih hangin lametna in i muhsa ahih leh, lamet nading a om kei hi. Bang hang hiam na cih-te leh, a muhsate kua in a lamen nawn ding hiam?
 
 **ZVS:** Hih bangin lamenin i upna in eite hong honkhia khin hi. Ahi zongin i lamet pen i muh ciangin tua pen lamet hi nawnlo hi. Kua in a muhsa nate lamen nawn ahi hiam?
 
@@ -246,7 +246,7 @@
 ### v26
 **EN:** Likewise the Spirit also helpeth our infirmities: for we know not what we should pray for as we ought: but the Spirit itself maketh intercession for us with groanings which cannot be uttered.
 
-**TDB77:** Tua mah bangin Kha Siangtho in i thahat lohnate hong huh hi. Bang hang hiam na cih uh leh, eite in thunget ding a kilawm bangin thunget ding i thei kei hi. Kha Siangtho mah in muk tawh kipau thei lo tauna tawh, eite ading thu hong ngetsak hi.
+**TDB77:** Tua mah bangin Kha Siangtho in i thahat lohnate hong huh hi. Bang hang hiam na cih-te leh, eite in thunget ding a kilawm bangin thunget ding i thei kei hi. Kha Siangtho mah in muk tawh kipau thei lo tauna tawh, eite ading thu hong ngetsak hi.
 
 **ZVS:** Tua ahih manin eite bangzahin ginalo hita lehang eite a hong huh dingin Kha Siangtho a hong pai hi. Eite in a kilawm bangin thunget ding nangawn i thei kei a, ahi zongin Kha Siangtho mah in tauna tawh eite-a' dingin a hong thumsak hi.
 
@@ -255,7 +255,7 @@
 ### v27
 **EN:** And he that searcheth the hearts knoweth what is the mind of the Spirit, because he maketh intercession for the saints according to the will of God.
 
-**TDB77:** Lungsim sung a zongpa in Kha Siangtho’ lungsim a thei hi. Bang hang hiam na cih uh leh, tua Kha Siangtho in misiangthote ading Pasian’ deihna tawh kituakin thu a ngetsak hi.
+**TDB77:** Lungsim sung a zongpa in Kha Siangtho’ lungsim a thei hi. Bang hang hiam na cih-te leh, tua Kha Siangtho in misiangthote ading Pasian’ deihna tawh kituakin thu a ngetsak hi.
 
 **ZVS:** Kha Siangtho in Pasian' deihna tawh kizui-in Pasian' mite-a' dingin hong thumsak ahih manin mihingte' lungsimtawng thu a thei Pasian in Kha Siangtho' ngaihsutna a thei hi.
 
@@ -264,7 +264,7 @@
 ### v28
 **EN:** And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
 
-**TDB77:** Pasian a it mite ahi uh, a geelna banga a sap mite adingin na khempeuh in hoih nadingin a piang uh hi cih i thei hi.
+**TDB77:** Pasian a it mite ahi uh, a geelna banga a sap mite adingin na khempeuh in hoih nadingin a piang-te hi cih i thei hi.
 
 **ZVS:** Ama deihna bang a sem dingin Pasian in a hong sap, amah a it eite-a' dingin na khempeuh a hoihlamin piangsak hi, ci-in i thei hi.
 
@@ -326,9 +326,9 @@
 ### v36
 **EN:** As it is written, For thy sake we are killed all the day long; we are accounted as sheep for the slaughter.
 
-**TDB77:** Lai Siangtho sungah: “Nangma tang dingin kote in sunthapai-in thahna ka thuak uh hi; Gawh dinga a kikoih tuu tawh kibangin mite in kote hong ciamteh uh hi,” ci-in kigelh hi.
+**TDB77:** Lai Siangtho sungah: “Nangma tang dingin kote in sunthapai-in thahna ka thuak-te hi; Gawh dinga a kikoih tuu tawh kibangin mite in kote hong ciamteh-te hi,” ci-in kigelh hi.
 
-**ZVS:** Lai Siangtho sungah zong, “Note hangin sunthapai-in siatna ding lauhuaina ka thuak uh a, gawhding tuu bangin a hong kibawl hi,” ci-in a kigelh hi.
+**ZVS:** Lai Siangtho sungah zong, “Note hangin sunthapai-in siatna ding lauhuaina ka thuak-te a, gawhding tuu bangin a hong kibawl hi,” ci-in a kigelh hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -344,7 +344,7 @@
 ### v38
 **EN:** For I am persuaded, that neither death, nor life, nor angels, nor principalities, nor powers, nor things present, nor things to come,
 
-**TDB77:** Bang hang hiam na cih uh leh, sihna ahi zongin, hin’na ahi zongin, vantungmite ahi zongin, ukna ahi zongin, tu lai taka omte ahi zongin, tu nung ciangin a om dingte ahi zongin,
+**TDB77:** Bang hang hiam na cih-te leh, sihna ahi zongin, hin’na ahi zongin, vantungmite ahi zongin, ukna ahi zongin, tu lai taka omte ahi zongin, tu nung ciangin a om dingte ahi zongin,
 
 **ZVS:** Bangmah in ama hong itna tawh hong kikhensakzo hetlo ding hi, ci-in ka thei hi. Sihna, nuntakna, vantung mite, vantung vangliatnate, tuhun nate leh a hong tungding nate,
 

@@ -98,9 +98,9 @@
 **Context:** Military commanders.
 **Example:** leh galkap a ukte in...
 
-### ngah uh van kinusiate = spoils won in battles
+### ngah-te van kinusiate = spoils won in battles
 **Context:** War booty dedicated to the temple maintenance.
-**Example:** Gal sungah a ngah uh van kinusiate sung panin...
+**Example:** Gal sungah a ngah-te van kinusiate sung panin...
 
 ### puahna = maintenance/repair/building up
 **Context:** The act of sustaining or restoring the temple.
@@ -159,6 +159,6 @@
   - Structure identifying an individual (Y) who holds authority ('uk hi') originating from a specific lineage (X mite sung panin) over a specific object (Z).
   - Example: Tua ciangin Levi mite sung panin Ahijah in Pasian’ inn van manpha koihnate uk hi.
 
-- **X leh a sanggamte in Y khempeuh uk uh hi**
+- **X leh a sanggamte in Y khempeuh uk-te hi**
   - Structure indicating collective authority over a comprehensive set of items (Y khempeuh) held by an individual (X) and their associates (a sanggamte).
-  - Example: Hih Shelomith leh a sanggamte in... a ki-ap letsongte a kikoihna khempeuh uk uh hi.
+  - Example: Hih Shelomith leh a sanggamte in... a ki-ap letsongte a kikoihna khempeuh uk-te hi.

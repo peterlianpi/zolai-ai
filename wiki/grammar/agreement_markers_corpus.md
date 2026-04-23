@@ -15,8 +15,8 @@ Zolai uses **agreement prefixes** on verbs (not pronouns) to mark person.
 | 2nd singular | `na` | `na pai hi` | you go |
 | 3rd singular | `a` | `a pai hi` | he/she/it goes |
 | 1st plural | `i` | `i pai hi` | we go |
-| 2nd plural | `na...uh` | `na pai uh hi` | you (all) go |
-| 3rd plural | `a...uh` | `a pai uh hi` | they go |
+| 2nd plural | `na...uh` | `na pai-te hi` | you (all) go |
+| 3rd plural | `a...uh` | `a pai-te hi` | they go |
 
 **Critical rule:** `uh` = plural agreement marker for 2nd and 3rd person plural. NEVER use `uh` with `i` (1st plural).
 
@@ -50,7 +50,7 @@ Zolai uses **agreement prefixes** on verbs (not pronouns) to mark person.
 - `I pai hi.` = We went. ✅
 - `I om hi.` = We are. ✅
 - `I bawl hi.` = We did it. ✅
-- `I pai uh hi.` = ❌ WRONG — never add `uh` with `i`
+- `I pai-te hi.` = ❌ WRONG — never add `uh` with `i`
 
 ---
 
@@ -153,10 +153,10 @@ i thei hi     = we know
 
 ### 3rd person plural (`a...uh`)
 ```
-a pai uh hi   = they go/went
-a gen uh hi   = they say/said
-a om uh hi    = they are/exist
-a bawl uh hi  = they do/did
+a pai-te hi   = they go/went
+a gen-te hi   = they say/said
+a om-te hi    = they are/exist
+a bawl-te hi  = they do/did
 ```
 
 ---
@@ -165,9 +165,9 @@ a bawl uh hi  = they do/did
 
 | English | Correct Zolai | Wrong |
 |---|---|---|
-| They go | `Amaute pai uh hi` | `Amaute i pai hi` ❌ |
-| We go | `I pai hi` | `I pai uh hi` ❌ |
-| They said | `Amaute ci uh hi` | — |
-| We said | `Kote ci uh hi` / `I gen hi` | — |
-| They came | `Amaute hong pai uh hi` | — |
-| We came | `Kote hong pai uh hi` / `I hong pai hi` | — |
+| They go | `Amaute pai-te hi` | `Amaute i pai hi` ❌ |
+| We go | `I pai hi` | `I pai-te hi` ❌ |
+| They said | `Amaute ci-te hi` | — |
+| We said | `Kote ci-te hi` / `I gen hi` | — |
+| They came | `Amaute hong pai-te hi` | — |
+| We came | `Kote hong pai-te hi` / `I hong pai hi` | — |

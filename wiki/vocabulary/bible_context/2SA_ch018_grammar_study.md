@@ -43,9 +43,9 @@
 ### v3
 **EN:** But the people answered, Thou shalt not go forth: for if we flee away, they will not care for us; neither if half of us die, will they care for us: but now thou art worth ten thousand of us: therefore now it is better that thou succour us out of the city.
 
-**TDB77:** Ahih hangin mite in, “Nang nong kuan khia kei ding hi. Bang hang hiam cih leh kote tai le-ung amaute in kote phamawh hong sa lo ding hi. Kote kimkhat si le-ung amaute in kote phamawh hong sa lo ding hi. Ahih hangin nang in kote tulsawm zahin na manpha hi; tua ahih ciangin khuapi panin kote kiangah huhna hong puak lecin hoihzaw hi,” a ci uh hi.
+**TDB77:** Ahih hangin mite in, “Nang nong kuan khia kei ding hi. Bang hang hiam cih leh kote tai le-ung amaute in kote phamawh hong sa lo ding hi. Kote kimkhat si le-ung amaute in kote phamawh hong sa lo ding hi. Ahih hangin nang in kote tulsawm zahin na manpha hi; tua ahih ciangin khuapi panin kote kiangah huhna hong puak lecin hoihzaw hi,” a ci-te hi.
 
-**ZVS:** Ahih hangin mite in, “Nang nong kuankhia kei ding hi. Bang hang hiam cih leh kote tai le-ung amaute in kote phamawh hong salo ding hi. Kote kimkhat si le ung amaute in kote phamawh hong salo ding hi. Ahih hangin nang pen kote tul sawm zahin na manpha hi. Tua ahih ciangin khuapi panin kote kiangah huhna hong puak lecin hoihzaw hi,” a ci uh hi.
+**ZVS:** Ahih hangin mite in, “Nang nong kuankhia kei ding hi. Bang hang hiam cih leh kote tai le-ung amaute in kote phamawh hong salo ding hi. Kote kimkhat si le ung amaute in kote phamawh hong salo ding hi. Ahih hangin nang pen kote tul sawm zahin na manpha hi. Tua ahih ciangin khuapi panin kote kiangah huhna hong puak lecin hoihzaw hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -61,27 +61,27 @@
 ### v5
 **EN:** And the king commanded Joab and Abishai and Ittai, saying, Deal gently for my sake with the young man, even with Absalom. And all the people heard when the king gave all the captains charge concerning Absalom.
 
-**TDB77:** Tua ciangin kumpipa in Joab leh Abishai leh Ittai thu pia-in, “Keimah nong khualna-un tangvalpa Absalom hong dawm mahmah un,” a ci hi. Kumpipa in Absalom’ thu galkapmangte tungah a vaikhakna mi khempeuh in za uh hi.
+**TDB77:** Tua ciangin kumpipa in Joab leh Abishai leh Ittai thu pia-in, “Keimah nong khualna-un tangvalpa Absalom hong dawm mahmah un,” a ci hi. Kumpipa in Absalom’ thu galkapmangte tungah a vaikhakna mi khempeuh in za-te hi.
 
-**ZVS:** Tua ciangin kumpipa in Joab leh Abishai leh Ittai thu pia-in, “Keimah nong khualna-un tangvalpa Absalom hong dawm mahmah un,” a ci hi. Kumpipa in Absalom' thu galkapmangte tungah a vaikhakna mi khempeuh in za uh hi.
+**ZVS:** Tua ciangin kumpipa in Joab leh Abishai leh Ittai thu pia-in, “Keimah nong khualna-un tangvalpa Absalom hong dawm mahmah un,” a ci hi. Kumpipa in Absalom' thu galkapmangte tungah a vaikhakna mi khempeuh in za-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 
 ### v6
 **EN:** So the people went out into the field against Israel: and the battle was in the wood of Ephraim;
 
-**TDB77:** Tua ahih ciangin galkapte Israelte do dingin gamlakah kuankhia uh hi; Efraim tulak-ah gal kido uh hi.
+**TDB77:** Tua ahih ciangin galkapte Israelte do dingin gamlakah kuankhia-te hi; Efraim tulak-ah gal kido-te hi.
 
-**ZVS:** Tua ahih ciangin Israel-te a do dingin gamlakah galkapte kuankhia uh a, Efraim tulakah kido uh hi.
+**ZVS:** Tua ahih ciangin Israel-te a do dingin gamlakah galkapte kuankhia-te a, Efraim tulakah kido-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Where the people of Israel were slain before the servants of David, and there was there a great slaughter that day of twenty thousand men.
 
-**TDB77:** David’ nasemte in tua lai-ah Israel mite zo uh a, tua ni-a mi kithat tam a, mi tulsawmnih ahi hi.
+**TDB77:** David’ nasemte in tua lai-ah Israel mite zo-te a, tua ni-a mi kithat tam a, mi tulsawmnih ahi hi.
 
-**ZVS:** David' nasemte in tua lai-ah Israel mite zo uh a, tua ni-a mi kithat tam a, mi tul sawmnih ahi hi.
+**ZVS:** David' nasemte in tua lai-ah Israel mite zo-te a, tua ni-a mi kithat tam a, mi tul sawmnih ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -97,9 +97,9 @@
 ### v9
 **EN:** And Absalom met the servants of David. And Absalom rode upon a mule, and the mule went under the thick boughs of a great oak, and his head caught hold of the oak, and he was taken up between the heaven and the earth; and the mule that was under him went away.
 
-**TDB77:** David’ nasemte in Absalom tuak kha uh hi. Absalom in a la tungah tuang a, tawsaw lianpi hiang pha nuai khatah a la pai-in, a lutang tawsaw lakah awk a, ama nuai-a om la a paisuak lai takin van leh lei kikalah amah a kikhai-in kinusia hi.
+**TDB77:** David’ nasemte in Absalom tuak kha-te hi. Absalom in a la tungah tuang a, tawsaw lianpi hiang pha nuai khatah a la pai-in, a lutang tawsaw lakah awk a, ama nuai-a om la a paisuak lai takin van leh lei kikalah amah a kikhai-in kinusia hi.
 
-**ZVS:** David' nasemte in Absalom tuakkha uh hi. Absalom a la tungah tuang a, tawsaw lianpi hiang pha nuai khatah a la tai-in, a lutang tawsaw hiang lakah awk a, ama nuai panin a la taisuakin, vanlelei kikalah amah a kikhai-in kinusia hi.
+**ZVS:** David' nasemte in Absalom tuakkha-te hi. Absalom a la tungah tuang a, tawsaw lianpi hiang pha nuai khatah a la tai-in, a lutang tawsaw hiang lakah awk a, ama nuai panin a la taisuakin, vanlelei kikalah amah a kikhai-in kinusia hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -151,27 +151,27 @@
 ### v15
 **EN:** And ten young men that bare Joab's armour compassed about and smote Absalom, and slew him.
 
-**TDB77:** Tua ciangin Joab’ galhiam tawite tangval sawm in Absalom umcih uh a, amah satin that uh hi.
+**TDB77:** Tua ciangin Joab’ galhiam tawite tangval sawm in Absalom umcih-te a, amah satin that-te hi.
 
-**ZVS:** Tua ciangin Joab' galhiam tawite tangval sawm in Absalom umcih a, amah satin that uh hi.
+**ZVS:** Tua ciangin Joab' galhiam tawite tangval sawm in Absalom umcih a, amah satin that-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v16
 **EN:** And Joab blew the trumpet, and the people returned from pursuing after Israel: for Joab held back the people.
 
-**TDB77:** Tua ciangin Joab in peengkul tum a, Israelte a delhna panun galkapte hong ciahkik uh hi; bang hang hiam cih leh Joab in amaute kho hi.
+**TDB77:** Tua ciangin Joab in peengkul tum a, Israelte a delhna panun galkapte hong ciahkik-te hi; bang hang hiam cih leh Joab in amaute kho hi.
 
-**ZVS:** Tua ciangin Joab in peengkul tum a, Israel-te a delhna panun galkapte hong ciahkik uh hi; bang hang hiam cih leh Joab in amaute kho hi.
+**ZVS:** Tua ciangin Joab in peengkul tum a, Israel-te a delhna panun galkapte hong ciahkik-te hi; bang hang hiam cih leh Joab in amaute kho hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v17
 **EN:** And they took Absalom, and cast him into a great pit in the wood, and laid a very great heap of stones upon him: and all Israel fled every one to his tent.
 
-**TDB77:** Tua ciangin amaute in Absalom la-in tulak-a dum lianpi khat sungah amah paai uh-a, ama tungah suangcianlian mahmah khat ciang uh hi; tua ciangin Israelte khempeuh amau’ inn ciatah tai uh hi.
+**TDB77:** Tua ciangin amaute in Absalom la-in tulak-a dum lianpi khat sungah amah paai uh-a, ama tungah suangcianlian mahmah khat ciang-te hi; tua ciangin Israelte khempeuh amau’ inn ciatah tai-te hi.
 
-**ZVS:** Tua ciangin amaute in Absalom la-in tulaka dum lianpi khat sungah amah paai uh a, ama tungah suangcian a lian mahmah khat ciang uh hi. Tua ciangin Israel-te khempeuh amau' inn ciatah tai uh hi.
+**ZVS:** Tua ciangin amaute in Absalom la-in tulaka dum lianpi khat sungah amah paai-te a, ama tungah suangcian a lian mahmah khat ciang-te hi. Tua ciangin Israel-te khempeuh amau' inn ciatah tai-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 

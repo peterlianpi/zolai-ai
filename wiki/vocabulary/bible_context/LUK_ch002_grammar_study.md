@@ -45,16 +45,16 @@
 ### v3
 **EN:** And all went to be taxed, every one into his own city.
 
-**TDB77:** Mi khempeuhte in kisim dingin amau khua ciatah a pai uh hi.
+**TDB77:** Mi khempeuhte in kisim dingin amau khua ciatah a pai-te hi.
 
-**ZVS:** Tua ahih manin amau khua ciatah min pia dingin mi khempeuh a pai uh hi.
+**ZVS:** Tua ahih manin amau khua ciatah min pia dingin mi khempeuh a pai-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And Joseph also went up from Galilee, out of the city of Nazareth, into Judaea, unto the city of David, which is called Bethlehem; (because he was of the house and lineage of David:)
 
-**TDB77:** Josef in zong David’ suan ahih ciangin, a kidongsa a lawmnu Mari tawh kisim dingin, Galile gam Nazareth khua panin Judah gam Bethlehem kici David’ khua-ah a pai uh hi.
+**TDB77:** Josef in zong David’ suan ahih ciangin, a kidongsa a lawmnu Mari tawh kisim dingin, Galile gam Nazareth khua panin Judah gam Bethlehem kici David’ khua-ah a pai-te hi.
 
 **ZVS:** Josef zong David' suante khat ahih manin Galilee gamsung Nazareth khua panin David' suahna khua ahi Judea gam Bethlehem khua-ah a pai hi.
 
@@ -65,7 +65,7 @@
 
 **TDB77:** Tua Mari a gai zawh a sawt zo hi.
 
-**ZVS:** Tua bangin min sazian kikhumsak dingin a pai ciangin ten'pih dingin zuthawl a piaksa a lawmnu Mary tawh a paikhawm uh hi. A lawmnu naupaii hi a,
+**ZVS:** Tua bangin min sazian kikhumsak dingin a pai ciangin ten'pih dingin zuthawl a piaksa a lawmnu Mary tawh a paikhawm-te hi. A lawmnu naupaii hi a,
 
 ### v6
 **EN:** And so it was, that, while they were there, the days were accomplished that she should be delivered.
@@ -79,32 +79,32 @@
 
 **TDB77:** a ta cil suak a, puanin a tun khit ciangin zin tun’na innah omna ding om lo ahih ciangin, bawng ankuang sungah naungeek a sial hi.
 
-**ZVS:** Zintun'na ding mun dang khempeuh mi dim khinta ahih manin ganbukah tung uh a, a tacil ahi ta pasal khat nei-in, puan tawh tunin gan annekna kuang sungah a sial hi.
+**ZVS:** Zintun'na ding mun dang khempeuh mi dim khinta ahih manin ganbukah tung-te a, a tacil ahi ta pasal khat nei-in, puan tawh tunin gan annekna kuang sungah a sial hi.
 
 **Grammar:** negation: lo
 
 ### v8
 **EN:** And there were in the same country shepherds abiding in the field, keeping watch over their flock by night.
 
-**TDB77:** Tua gamah tuucingte in gam lakah giakin amau tuu honte zanin a cing uh hi.
+**TDB77:** Tua gamah tuucingte in gam lakah giakin amau tuu honte zanin a cing-te hi.
 
-**ZVS:** Tua hun laitakin gamlakah a tuuhonte a giahpih tuucing pawlkhat a om uh hi.
+**ZVS:** Tua hun laitakin gamlakah a tuuhonte a giahpih tuucing pawlkhat a om-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** And, lo, the angel of the Lord came upon them, and the glory of the Lord shone round about them: and they were sore afraid.
 
-**TDB77:** Topa’ vantungmi khat in amaute kiangah ding a, a kiimkot ah Pasian’ vang tang a, amaute in a kihta mahmah uh hi.
+**TDB77:** Topa’ vantungmi khat in amaute kiangah ding a, a kiimkot ah Pasian’ vang tang a, amaute in a kihta mahmah-te hi.
 
-**ZVS:** Amaute kiangah Topa' vantung mi khat hong kilang a, Topa' minthan'na vang in amaute hong taan' ahih manin a lau mahmah uh hi.
+**ZVS:** Amaute kiangah Topa' vantung mi khat hong kilang a, Topa' minthan'na vang in amaute hong taan' ahih manin a lau mahmah-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And the angel said unto them, Fear not: for, behold, I bring you good tidings of great joy, which shall be to all people.
 
-**TDB77:** Ahih hangin vantungmi in, “Lau kei un. Bang hang hiam na cih uh leh, mi khempeuh ading nakpi nuamna thu note kong zasak ding hi.
+**TDB77:** Ahih hangin vantungmi in, “Lau kei un. Bang hang hiam na cih-te leh, mi khempeuh ading nakpi nuamna thu note kong zasak ding hi.
 
 **ZVS:** Ahi zongin vantung mi in, “Lau kei un. Mi khempeuh a lungdamsak ding thuthak hoih khat note-a' ding ka hong puak hi.
 
@@ -122,63 +122,63 @@
 ### v12
 **EN:** And this shall be a sign unto you; Ye shall find the babe wrapped in swaddling clothes, lying in a manger.
 
-**TDB77:** Note in, ‘Bang limin thei ding ka hi uh hiam?’ na cih uh leh naungeek puanin kitun a, bawng an nekna kuang sungah kisialin a om na mu ding uh hi,” a ci hi.
+**TDB77:** Note in, ‘Bang limin thei ding ka hi-te hiam?’ na cih-te leh naungeek puanin kitun a, bawng an nekna kuang sungah kisialin a om na mu ding-te hi,” a ci hi.
 
-**ZVS:** Amah na theihna ding uh a lim hih bang hi ding hi: Puan tawh kitun naungek khat, gan annekna kuang sungah a kisial na mu ding uh hi,” a ci hi.
+**ZVS:** Amah na theihna ding-te a lim hih bang hi ding hi: Puan tawh kitun naungek khat, gan annekna kuang sungah a kisial na mu ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And suddenly there was with the angel a multitude of the heavenly host praising God, and saying,
 
-**TDB77:** Tua khit ciangin vantungmi tawh vantung galkap tampite in thakhatin hong kikhawm uh a,
+**TDB77:** Tua khit ciangin vantungmi tawh vantung galkap tampite in thakhatin hong kikhawm-te a,
 
-**ZVS:** Tua khit phetin tua vantung mi tawh vantung mihonpite thakhatin hong omin Pasian phatna la sa uh a,
+**ZVS:** Tua khit phetin tua vantung mi tawh vantung mihonpite thakhatin hong omin Pasian phatna la sa-te a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** Glory to God in the highest, and on earth peace, good will toward men.
 
-**TDB77:** “Van a sang belna-ah Pasian minthang ta hen. Leitung a deih mite tungah nopna om ta hen,” ci-in Pasian a phat uh hi.
+**TDB77:** “Van a sang belna-ah Pasian minthang ta hen. Leitung a deih mite tungah nopna om ta hen,” ci-in Pasian a phat-te hi.
 
-**ZVS:** “Van a sang belna-ah a om Pasian' min thang hen la, ama pahtak leitung mite tungah nopna om ta hen,” a ci uh hi.
+**ZVS:** “Van a sang belna-ah a om Pasian' min thang hen la, ama pahtak leitung mite tungah nopna om ta hen,” a ci-te hi.
 
 **Grammar:** optative: let there be / let it be | quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v15
 **EN:** And it came to pass, as the angels were gone away from them into heaven, the shepherds said one to another, Let us now go even unto Bethlehem, and see this thing which is come to pass, which the Lord hath made known unto us.
 
-**TDB77:** Vantungmite in vantungah a ciah khit uh ciangin tuucingte in, “Eite Bethlehem khua-ah pai-in, Pasian hong lah hih a piangsa thu va en ni,” ci-in khat leh khat a kihopih uh hi.
+**TDB77:** Vantungmite in vantungah a ciah khit-te ciangin tuucingte in, “Eite Bethlehem khua-ah pai-in, Pasian hong lah hih a piangsa thu va en ni,” ci-in khat leh khat a kihopih-te hi.
 
-**ZVS:** Vantung mite vantungah a ciahkik khit uh ciangin tuucingte in, “Bethlehem khua-ah pai-in, Topa' hong gen hih thupiang va en ni,” a kici uh hi.
+**ZVS:** Vantung mite vantungah a ciahkik khit-te ciangin tuucingte in, “Bethlehem khua-ah pai-in, Topa' hong gen hih thupiang va en ni,” a kici-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And they came with haste, and found Mary, and Joseph, and the babe lying in a manger.
 
-**TDB77:** Manlangin pai uh a, Mari, Josef leh bawng an nekna kuang sungah kisial a, om naungeek a mu uh hi.
+**TDB77:** Manlangin pai-te a, Mari, Josef leh bawng an nekna kuang sungah kisial a, om naungeek a mu-te hi.
 
-**ZVS:** Amaute nawhpai mahmah uh a, Mary leh Josef leh gan annekna kuang sungah a kisial naungek a mupah uh hi.
+**ZVS:** Amaute nawhpai mahmah-te a, Mary leh Josef leh gan annekna kuang sungah a kisial naungek a mupah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And when they had seen it, they made known abroad the saying which was told them concerning this child.
 
-**TDB77:** A muh khit uh ciangin, amau kiangah naungeek thu kigensa thu teng a zasak uh hi.
+**TDB77:** A muh khit-te ciangin, amau kiangah naungeek thu kigensa thu teng a zasak-te hi.
 
-**ZVS:** Tua bangin naungek a muh uh ciangin, vantung mi in amaute kiangah hih naungek tawh kisai thu a gente a gensawn uh hi.
+**ZVS:** Tua bangin naungek a muh-te ciangin, vantung mi in amaute kiangah hih naungek tawh kisai thu a gente a gensawn-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And all they that heard it wondered at those things which were told them by the shepherds.
 
-**TDB77:** Tuucingte’ thugenna zate khempeuh in lamdang a sa uh hi.
+**TDB77:** Tuucingte’ thugenna zate khempeuh in lamdang a sa-te hi.
 
-**ZVS:** Hih tuucingte' thugen a za mi khempeuh in lamdang a sa uh hi.
+**ZVS:** Hih tuucingte' thugen a za mi khempeuh in lamdang a sa-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -192,27 +192,27 @@
 ### v20
 **EN:** And the shepherds returned, glorifying and praising God for all the things that they had heard and seen, as it was told unto them.
 
-**TDB77:** Tuucingte in amau kiangah a gensa mah bangin, a zaksa a muhsa uh khempeuhte hangin Pasian’ min phatna lasa-in a ciah uh hi.
+**TDB77:** Tuucingte in amau kiangah a gensa mah bangin, a zaksa a muhsa-te khempeuhte hangin Pasian’ min phatna lasa-in a ciah-te hi.
 
-**ZVS:** Tuucingte zong ciahkik uh a, amaute tungah a kigensa bangin a zaksa leh a muhsa uh thute hangin Pasian' min a phat uh hi.
+**ZVS:** Tuucingte zong ciahkik-te a, amaute tungah a kigensa bangin a zaksa leh a muhsa-te thute hangin Pasian' min a phat-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And when eight days were accomplished for the circumcising of the child, his name was called JESUS, which was so named of the angel before he was conceived in the womb.
 
-**TDB77:** Tua naungeek’ vunat nading ni giat a cin’ khit ciangin, a gai ma-a vantungmi in a phuah kholh mah bangin a min Zeisu a phuak uh hi.
+**TDB77:** Tua naungeek’ vunat nading ni giat a cin’ khit ciangin, a gai ma-a vantungmi in a phuah kholh mah bangin a min Zeisu a phuak-te hi.
 
-**ZVS:** Naungek a vun a ki-at ni hun nipikal khat a cin' khit ciangin, amah a kipaii ma-in a min dingin vantung mi in a piaksa ahi Jesuh, a min dingin a phuak uh hi.
+**ZVS:** Naungek a vun a ki-at ni hun nipikal khat a cin' khit ciangin, amah a kipaii ma-in a min dingin vantung mi in a piaksa ahi Jesuh, a min dingin a phuak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** And when the days of her purification according to the law of Moses were accomplished, they brought him to Jerusalem, to present him to the Lord;
 
-**TDB77:** Tua nung ciangin Moses’ Thukham bangin, amau kisian’thosak nading ni a cin’ ciangin, amaute in naungeek Jerusalem khuapi ah a paipih uh hi.
+**TDB77:** Tua nung ciangin Moses’ Thukham bangin, amau kisian’thosak nading ni a cin’ ciangin, amaute in naungeek Jerusalem khuapi ah a paipih-te hi.
 
-**ZVS:** Moses Thukham sungah a kigelhna tawh kizui-in Josef leh Mary a kisian'suah ding uh hun hong tung hi. Tua ahih manin Topa tungah naungek a ap dingin Jerusalem-ah a paipih uh hi.
+**ZVS:** Moses Thukham sungah a kigelhna tawh kizui-in Josef leh Mary a kisian'suah ding-te hun hong tung hi. Tua ahih manin Topa tungah naungek a ap dingin Jerusalem-ah a paipih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -228,9 +228,9 @@
 ### v24
 **EN:** And to offer a sacrifice according to that which is said in the law of the Lord, A pair of turtledoves, or two young pigeons.
 
-**TDB77:** Topa kiangah a piak khit uh ciangin, “Vakhu nupa kop ahi zongin, kawl vakhu neu ahi zongin,” ci-in Topa’ Thukhamna lai sungah a kigelh bangin biakna a pia uh hi.
+**TDB77:** Topa kiangah a piak khit-te ciangin, “Vakhu nupa kop ahi zongin, kawl vakhu neu ahi zongin,” ci-in Topa’ Thukhamna lai sungah a kigelh bangin biakna a pia-te hi.
 
-**ZVS:** Topa Thukham sungah a kigelhna tawh kizui-in biakna-in vakhu nih ahi a, kawl vakhuno nih ahi zongin a pia dingin zong a pai uh ahi hi.
+**ZVS:** Topa Thukham sungah a kigelhna tawh kizui-in biakna-in vakhu nih ahi a, kawl vakhuno nih ahi zongin a pia dingin zong a pai-te ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -257,7 +257,7 @@
 
 **TDB77:** Tua lai takin amah in Kha Siangtho tawh biakna innpi-ah pai a, a nu leh pate in naungeek Zeisu hangah Thukham ngeina bang hih dingin a paipih lai takun,
 
-**ZVS:** Kha Siangtho' makaihna tawh biakinn sungah Simeon a pai hi. A nu leh a pate in thukham sunga om ngeina bangin Topa tungah naungek a ap dingin biakinn-ah a hong paipih uh ciangin,
+**ZVS:** Kha Siangtho' makaihna tawh biakinn sungah Simeon a pai hi. A nu leh a pate in thukham sunga om ngeina bangin Topa tungah naungek a ap dingin biakinn-ah a hong paipih-te ciangin,
 
 **Grammar:** purpose: in order to
 
@@ -303,9 +303,9 @@
 ### v33
 **EN:** And Joseph and his mother marvelled at those things which were spoken of him.
 
-**TDB77:** A nu leh pate in naungeek a genna thu lamdang a sa uh hi.
+**TDB77:** A nu leh pate in naungeek a genna thu lamdang a sa-te hi.
 
-**ZVS:** Naungek' nu leh pate in, hih bangin Simeon in naungek' thu a genna a zak uh ciangin lamdang a sa mahmah uh hi.
+**ZVS:** Naungek' nu leh pate in, hih bangin Simeon in naungek' thu a genna a zak-te ciangin lamdang a sa mahmah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -314,7 +314,7 @@
 
 **TDB77:** Simeon in amaute thupha a piak khit ciangin a nu Mari kiangah, “Hih naungeek in Israel mi tampite kipuk nading ahi zongin, thawh nading ahi zongin, mi tampi a lungngaihna a kilat nading ahi zongin, nialna a thuak nading lim a pian’ nading ahi zongin a kikoih hi.
 
-**ZVS:** Tua ciangin Simeon in amaute thupha a piak khit ciangin naungek' nu Mary kiangah, “Hih naungek pen, Israel mite sungah mi tampi in siatna a ngahna ding, leh mi tampi in hotkhiatna a ngahna ding ahi hi. Mi tampi in hih naungek nial ding uh a,
+**ZVS:** Tua ciangin Simeon in amaute thupha a piak khit ciangin naungek' nu Mary kiangah, “Hih naungek pen, Israel mite sungah mi tampi in siatna a ngahna ding, leh mi tampi in hotkhiatna a ngahna ding ahi hi. Mi tampi in hih naungek nial ding-te a,
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -355,9 +355,9 @@
 ### v39
 **EN:** And when they had performed all things according to the law of the Lord, they returned into Galilee, to their own city Nazareth.
 
-**TDB77:** Amaute in Topa’ Thukhamna bangin na khempeuh a bawl khit uh ciangin, Galile gam amau khua Nazareth-ah a ciah uh hi.
+**TDB77:** Amaute in Topa’ Thukhamna bangin na khempeuh a bawl khit-te ciangin, Galile gam amau khua Nazareth-ah a ciah-te hi.
 
-**ZVS:** Amaute in Topa' Thukham tawh kizui-in hihding a kisam khempeuh a bawl khit uh ciangin Galilee gam, amau khua Nazareth-ah a ciahkik uh hi.
+**ZVS:** Amaute in Topa' Thukham tawh kizui-in hihding a kisam khempeuh a bawl khit-te ciangin Galilee gam, amau khua Nazareth-ah a ciahkik-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -373,18 +373,18 @@
 ### v41
 **EN:** Now his parents went to Jerusalem every year at the feast of the passover.
 
-**TDB77:** A nu leh pate in kum simin Paisan pawikhamna Jerusalem khua ah a pai uh hi.
+**TDB77:** A nu leh pate in kum simin Paisan pawikhamna Jerusalem khua ah a pai-te hi.
 
-**ZVS:** Kumsimin Jerusalem khua-a Paisan Pawi a kibawlna-ah Jesuh' nu leh pa a pai zel uh ahi hi.
+**ZVS:** Kumsimin Jerusalem khua-a Paisan Pawi a kibawlna-ah Jesuh' nu leh pa a pai zel-te ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v42
 **EN:** And when he was twelve years old, they went up to Jerusalem after the custom of the feast.
 
-**TDB77:** Zeisu kum sawm leh kum nih a phak ciangin, ngeina bangin Paisan pawikhamna-ah a paito uh hi.
+**TDB77:** Zeisu kum sawm leh kum nih a phak ciangin, ngeina bangin Paisan pawikhamna-ah a paito-te hi.
 
-**ZVS:** Jesuh, kum sawmlenih a phak ciangin a ngeina bangin tua pawi-ah a thumun a pai uh hi.
+**ZVS:** Jesuh, kum sawmlenih a phak ciangin a ngeina bangin tua pawi-ah a thumun a pai-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -393,68 +393,68 @@
 
 **TDB77:** Pawikham ni a cin’ khit ciangin, a nu leh pate a ciah lai takin naupang Zeisu in Jerusalem khua-ah a om lai hi.
 
-**ZVS:** Tua pawi vengin a ciahkik uh ciangin Jerusalem khua-ah naupang Jesuh kinusia kha hi. A nu leh a pa in a nusiatlam uh theilo uh hi.
+**ZVS:** Tua pawi vengin a ciahkik-te ciangin Jerusalem khua-ah naupang Jesuh kinusia kha hi. A nu leh a pa in a nusiatlam-te theilo-te hi.
 
 ### v44
 **EN:** But they, supposing him to have been in the company, went a day's journey; and they sought him among their kinsfolk and acquaintance.
 
-**TDB77:** A nu leh pate in thei loin a lawmte tawh naupang ton hi ci-in um-in ni khat lam a pai uh hi. Tua ciangin a behte a meeltheihte lakah a zong uh a;
+**TDB77:** A nu leh pate in thei loin a lawmte tawh naupang ton hi ci-in um-in ni khat lam a pai-te hi. Tua ciangin a behte a meeltheihte lakah a zong-te a;
 
-**ZVS:** Amaute' honlak mahah a omomin ngaihsun uh ahih manin ni khat lam paikhin uh a, tua ciangin a lawmte leh a tanaute lak khawng a zong pan uh hi.
+**ZVS:** Amaute' honlak mahah a omomin ngaihsun-te ahih manin ni khat lam paikhin-te a, tua ciangin a lawmte leh a tanaute lak khawng a zong pan-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v45
 **EN:** And when they found him not, they turned back again to Jerusalem, seeking him.
 
-**TDB77:** a muh loh uh ciangin Jerusalem khua-ah nungkikin a zong uh hi.
+**TDB77:** a muh loh-te ciangin Jerusalem khua-ah nungkikin a zong-te hi.
 
-**ZVS:** Amah a muh zawhloh uh ciangin Jerusalem-ah kileh kikin a zong uh hi.
+**ZVS:** Amah a muh zawhloh-te ciangin Jerusalem-ah kileh kikin a zong-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v46
 **EN:** And it came to pass, that after three days they found him in the temple, sitting in the midst of the doctors, both hearing them, and asking them questions.
 
-**TDB77:** Ni thum khit ciangin, naupang biakna innpi sungah thuhilhte lai zangah tu a, amaute thu ngai a, amaute kiangah thu dongin a om a mu uh hi.
+**TDB77:** Ni thum khit ciangin, naupang biakna innpi sungah thuhilhte lai zangah tu a, amaute thu ngai a, amaute kiangah thu dongin a om a mu-te hi.
 
-**ZVS:** A ciahzawh uh a ni thum ni ciangin biakinn sungah amah mu uh a, siate lakah tu-in a thugen uh ngai-in, thu zong dong zelin a om a mu uh hi.
+**ZVS:** A ciahzawh-te a ni thum ni ciangin biakinn sungah amah mu-te a, siate lakah tu-in a thugen-te ngai-in, thu zong dong zelin a om a mu-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v47
 **EN:** And all that heard him were astonished at his understanding and answers.
 
-**TDB77:** Ama thu a za khempeuhte in a pilna leh a dawn’ kiknate lamdang a sa uh hi.
+**TDB77:** Ama thu a za khempeuhte in a pilna leh a dawn’ kiknate lamdang a sa-te hi.
 
-**ZVS:** Amah in pilna tawh thu genin a dawn'na a za mite khempeuh in lamdangsa mahmah uh hi.
+**ZVS:** Amah in pilna tawh thu genin a dawn'na a za mite khempeuh in lamdangsa mahmah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v48
 **EN:** And when they saw him, they were amazed: and his mother said unto him, Son, why hast thou thus dealt with us? behold, thy father and I have sought thee sorrowing.
 
-**TDB77:** A nu leh pate in amah a muh uh ciangin lungmang uh a, a nu in, “Ka ta aw, bang hangin kote tungah hih bangin hong bawl na hi hiam? Na pa leh keimah in dahna lungsim tawh kong zong uh hi,” a ci hi.
+**TDB77:** A nu leh pate in amah a muh-te ciangin lungmang-te a, a nu in, “Ka ta aw, bang hangin kote tungah hih bangin hong bawl na hi hiam? Na pa leh keimah in dahna lungsim tawh kong zong-te hi,” a ci hi.
 
-**ZVS:** A nu leh a pa in a muh uh ciangin lamdangsa uh a, a nu in, “Ka ta aw, bang hangin hong hici bawl na hi hiam? Na pa tawh lungkham mahmahin nang ka hong zong uh hi,” a ci hi.
+**ZVS:** A nu leh a pa in a muh-te ciangin lamdangsa-te a, a nu in, “Ka ta aw, bang hangin hong hici bawl na hi hiam? Na pa tawh lungkham mahmahin nang ka hong zong-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v49
 **EN:** And he said unto them,
 
-**TDB77:** Naupang in, “Bang hangin kei hong zong na hi uh hiam? Ka Pa innah om ka hih lam thei lo na hi uh hiam?” a ci hi.
+**TDB77:** Naupang in, “Bang hangin kei hong zong na hi-te hiam? Ka Pa innah om ka hih lam thei lo na hi-te hiam?” a ci hi.
 
-**ZVS:** Jesuh in a nu leh a pa kiangah, “Bang hangin kei hong zong na hi uh hiam? Ka Pa' inn sungah ka om ding lamtak theilo na hi uh hiam?” ci-in a dawng hi.
+**ZVS:** Jesuh in a nu leh a pa kiangah, “Bang hangin kei hong zong na hi-te hiam? Ka Pa' inn sungah ka om ding lamtak theilo na hi-te hiam?” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying
 
 ### v50
 **EN:** And they understood not the saying which he spake unto them.
 
-**TDB77:** Amau kiangah a genna thu amaute in a thei kei uh hi.
+**TDB77:** Amau kiangah a genna thu amaute in a thei kei-te hi.
 
-**ZVS:** Ahi zongin bang a cihnopna ahi hiam, ci-in a nu leh a pa in theilo uh hi.
+**ZVS:** Ahi zongin bang a cihnopna ahi hiam, ci-in a nu leh a pa in theilo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 

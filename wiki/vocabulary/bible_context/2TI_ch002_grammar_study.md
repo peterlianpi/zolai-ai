@@ -165,18 +165,18 @@
 ### v17
 **EN:** And their word will eat as doth a canker: of whom is Hymenaeus and Philetus;
 
-**TDB77:** Bang hang hiam cih leh, tuate in Pasian biak lohna lamah khangto-in, a dam ngei lo meima bangin a ne ding hi. Tua mite lakah Himenaius leh Filetas a om uh hi.
+**TDB77:** Bang hang hiam cih leh, tuate in Pasian biak lohna lamah khangto-in, a dam ngei lo meima bangin a ne ding hi. Tua mite lakah Himenaius leh Filetas a om-te hi.
 
-**ZVS:** Tua bangin amau' thugennate in mite siasak a, tua banga thugente lakah Hymenaias leh Filetas a kihel uh hi.
+**ZVS:** Tua bangin amau' thugennate in mite siasak a, tua banga thugente lakah Hymenaias leh Filetas a kihel-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v18
 **EN:** Who concerning the truth have erred, saying that the resurrection is past already; and overthrow the faith of some.
 
-**TDB77:** Amaute in, “Misite’ thawhkikna a kheng zo hi,” ci-in thu-upna lam pan pialin mi kimkhatte’ upna a siasak uh hi.
+**TDB77:** Amaute in, “Misite’ thawhkikna a kheng zo hi,” ci-in thu-upna lam pan pialin mi kimkhatte’ upna a siasak-te hi.
 
-**ZVS:** Thuman lampi panin amaute pialkhin uh a, thawhkikna thu pen a beisa thu hi ta hi, ci-in thu um mi pawlkhat lungmangsak uh hi.
+**ZVS:** Thuman lampi panin amaute pialkhin-te a, thawhkikna thu pen a beisa thu hi ta hi, ci-in thu um mi pawlkhat lungmangsak-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -244,7 +244,7 @@
 ### v26
 **EN:** And that they may recover themselves out of the snare of the devil, who are taken captive by him at his will.
 
-**TDB77:** Dawimangpa in ama deihna bangin a gamta dingin a mat khit hangin ama thang panin amaute suakta khathei ding uh hi.
+**TDB77:** Dawimangpa in ama deihna bangin a gamta dingin a mat khit hangin ama thang panin amaute suakta khathei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 

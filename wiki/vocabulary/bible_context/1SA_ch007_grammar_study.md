@@ -24,36 +24,36 @@
 ### v1
 **EN:** And the men of Kirjath–jearim came, and fetched up the ark of the
 
-**TDB77:** Tua ciangin Kiriath-jearim mite hong pai-in Topa’ thuciamna singkuang puato uh a, mual tungah a om Abinadab’ inn-ah paipih uh hi; Topa’ thuciamna singkuang a en dingin amaute in ama tapa Eleazar ap uh hi.
+**TDB77:** Tua ciangin Kiriath-jearim mite hong pai-in Topa’ thuciamna singkuang puato-te a, mual tungah a om Abinadab’ inn-ah paipih-te hi; Topa’ thuciamna singkuang a en dingin amaute in ama tapa Eleazar ap-te hi.
 
-**ZVS:** Tua ciangin Kiriathjearim mite hong pai-in { Topa' } Thuciamna Singkuang puato uh a, mualtungah a om Abinadab' inn-ah paipih uh hi. { Topa' } Thuciamna Singkuang a en dingin amaute in ama tapa Eleazar a ap uh hi.
+**ZVS:** Tua ciangin Kiriathjearim mite hong pai-in { Topa' } Thuciamna Singkuang puato-te a, mualtungah a om Abinadab' inn-ah paipih-te hi. { Topa' } Thuciamna Singkuang a en dingin amaute in ama tapa Eleazar a ap-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And it came to pass, while the ark abode in Kirjath–jearim, that the time was long; for it was twenty years: and all the house of Israel lamented after the
 
-**TDB77:** Kiriath-jearim-ah thuciamna singkuang a om a kipan, hun saupi, kum sawmnih bang pha a, Israel mite khempeuh in Topa ngai-in thuum uh hi.
+**TDB77:** Kiriath-jearim-ah thuciamna singkuang a om a kipan, hun saupi, kum sawmnih bang pha a, Israel mite khempeuh in Topa ngai-in thuum-te hi.
 
-**ZVS:** Kiriathjearim-ah Thuciamna Singkuang a om-a kipan, hun saupi, kum sawmnih bang pha a, Israel mite khempeuh in { Topa } ngai-in thuum uh hi.
+**ZVS:** Kiriathjearim-ah Thuciamna Singkuang a om-a kipan, hun saupi, kum sawmnih bang pha a, Israel mite khempeuh in { Topa } ngai-in thuum-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And Samuel spake unto all the house of Israel, saying, If ye do return unto the
 
-**TDB77:** Tua ciangin Samuel in Israel mite khempeuh kiangah, “Na lungsim khempeuh uh tawh Topa lamah a kihei kik na hih uh leh note lak panin gamdang pasiante leh Ashtaroth milim koih khia-in Topa lamah na lungsim uh ngat un la, ama’ na bek sem un; tua ciangin amah in Filistiate khut sung panin note hong honkhia ding hi,” a ci hi.
+**TDB77:** Tua ciangin Samuel in Israel mite khempeuh kiangah, “Na lungsim khempeuh-te tawh Topa lamah a kihei kik na hih-te leh note lak panin gamdang pasiante leh Ashtaroth milim koih khia-in Topa lamah na lungsim-te ngat un la, ama’ na bek sem un; tua ciangin amah in Filistiate khut sung panin note hong honkhia ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin Samuel in Israel mite khempeuh kiangah, “Na lungsim khempeuh uh tawh { Topa' } lamah a kiheikik na hih uh leh note' lak panin gamdang pasian-te leh Ashtaroth nusian milim koihkhia-in { Topa' } lamah na lungsim uh ngat un la, amah bek bia un. Tua hi leh amah in Filistia-te' khutsung panin note hong honkhia ding hi,” a ci hi.
+**ZVS:** Tua ciangin Samuel in Israel mite khempeuh kiangah, “Na lungsim khempeuh-te tawh { Topa' } lamah a kiheikik na hih-te leh note' lak panin gamdang pasian-te leh Ashtaroth nusian milim koihkhia-in { Topa' } lamah na lungsim-te ngat un la, amah bek bia un. Tua hi leh amah in Filistia-te' khutsung panin note hong honkhia ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v4
 **EN:** Then the children of Israel did put away Baalim and Ashtoreth, and served the
 
-**TDB77:** Tua ahih ciangin Israelte in Baalte leh Ashtaroth koih khia-in Topa’ na bek sem uh hi.
+**TDB77:** Tua ahih ciangin Israelte in Baalte leh Ashtaroth koih khia-in Topa’ na bek sem-te hi.
 
-**ZVS:** Tua ahih ciangin Israel-te in Baal-te leh Ashtaroth koihkhia-in { Topa } bek a bia uh hi.
+**ZVS:** Tua ahih ciangin Israel-te in Baal-te leh Ashtaroth koihkhia-in { Topa } bek a bia-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -69,27 +69,27 @@
 ### v6
 **EN:** And they gathered together to Mizpah, and drew water, and poured it out before the
 
-**TDB77:** Tua ahih ciangin amaute Mizpah-ah kikhawm uh a, tui tawi-in Topa mai-ah sungkhia uh a, tua ni-in an tangin tua lai munah, “Topa tungah i khial khin zo hi,” a ci uh hi. Samuel in Israel mite Mizpah-ah thukhen hi.
+**TDB77:** Tua ahih ciangin amaute Mizpah-ah kikhawm-te a, tui tawi-in Topa mai-ah sungkhia-te a, tua ni-in an tangin tua lai munah, “Topa tungah i khial khin zo hi,” a ci-te hi. Samuel in Israel mite Mizpah-ah thukhen hi.
 
-**ZVS:** Tua ahih ciangin amaute Mizpah-ah kikhawm uh a, tui tawi-in { Topa' } mai-ah sungkhia uh a, tua ni-in an tangin tua lai munah, “{ Topa' } tungah i khial khinzo hi,” a ci uh hi. Samuel in Israel mite Mizpah-ah thu khen hi.
+**ZVS:** Tua ahih ciangin amaute Mizpah-ah kikhawm-te a, tui tawi-in { Topa' } mai-ah sungkhia-te a, tua ni-in an tangin tua lai munah, “{ Topa' } tungah i khial khinzo hi,” a ci-te hi. Samuel in Israel mite Mizpah-ah thu khen hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And when the Philistines heard that the children of Israel were gathered together to Mizpah, the lords of the Philistines went up against Israel. And when the children of Israel heard it, they were afraid of the Philistines.
 
-**TDB77:** Israel mite Mizpah-ah a kikhopna thu Filistiate in a zak uh ciangin Israelte a do dingin Filistia uliante paito uh hi. Israel mite in tua thu a zak uh ciangin amaute in Filistiate kihta uh hi.
+**TDB77:** Israel mite Mizpah-ah a kikhopna thu Filistiate in a zak-te ciangin Israelte a do dingin Filistia uliante paito-te hi. Israel mite in tua thu a zak-te ciangin amaute in Filistiate kihta-te hi.
 
-**ZVS:** Israel mite Mizpah-ah a kikhopna thu Filistia-te in a zak uh ciangin Israel-te a sim dingin Filistia uliante kuanto uh hi. Israel mite in tua thu a zak uh ciangin amaute in Filistia-te kihta uh hi.
+**ZVS:** Israel mite Mizpah-ah a kikhopna thu Filistia-te in a zak-te ciangin Israel-te a sim dingin Filistia uliante kuanto-te hi. Israel mite in tua thu a zak-te ciangin amaute in Filistia-te kihta-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And the children of Israel said to Samuel, Cease not to cry unto the
 
-**TDB77:** Tua ciangin Israel mite in Samuel kiangah, “Filistiate khut sung panin amah in eite hong hotkhiat theih nadingin Topa i Pasian tungah eite adingin thunget na khawl kei in,” a ci uh hi.
+**TDB77:** Tua ciangin Israel mite in Samuel kiangah, “Filistiate khut sung panin amah in eite hong hotkhiat theih nadingin Topa i Pasian tungah eite adingin thunget na khawl kei in,” a ci-te hi.
 
-**ZVS:** Tua ciangin Israel mite in Samuel kiangah, “Filistia-te' khutsung panin amah in eite hong hotkhiat theihna dingin { Topa } i Pasian' tungah eite-a' dingin thunget na khawl kei in,” a ci uh hi.
+**ZVS:** Tua ciangin Israel mite in Samuel kiangah, “Filistia-te' khutsung panin amah in eite hong hotkhiat theihna dingin { Topa } i Pasian' tungah eite-a' dingin thunget na khawl kei in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -105,18 +105,18 @@
 ### v10
 **EN:** And as Samuel was offering up the burnt offering, the Philistines drew near to battle against Israel: but the
 
-**TDB77:** Samuel in meihal biakna a piak lai takin Filistiate in Israelte a do dingin hong naih uh hi; ahih hangin Topa in aw lianpi tawh tua ni-in Filistiate thawn gawpin amaute buaigawp sak hi; Israelte mai-ah amaute kinotkhia hi.
+**TDB77:** Samuel in meihal biakna a piak lai takin Filistiate in Israelte a do dingin hong naih-te hi; ahih hangin Topa in aw lianpi tawh tua ni-in Filistiate thawn gawpin amaute buaigawp sak hi; Israelte mai-ah amaute kinotkhia hi.
 
-**ZVS:** Samuel in meihal biakna a piak laitakin Filistia-te in Israel-te a sim dingin hong nai uh hi. Ahih hangin { Topa } in aw lianpi tawh tua ni-in Filistia-te thawn gawpin amaute buaisakgawp a, Israel-te' mai-ah amaute kinotkhia hi.
+**ZVS:** Samuel in meihal biakna a piak laitakin Filistia-te in Israel-te a sim dingin hong nai-te hi. Ahih hangin { Topa } in aw lianpi tawh tua ni-in Filistia-te thawn gawpin amaute buaisakgawp a, Israel-te' mai-ah amaute kinotkhia hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And the men of Israel went out of Mizpah, and pursued the Philistines, and smote them, until they came under Beth–car.
 
-**TDB77:** Tua ciangin Mizpah panin Israel mite paikhia-in Filsitiate delh uh a, Bethkar nuai ciang dong amaute vatgawp uh hi.
+**TDB77:** Tua ciangin Mizpah panin Israel mite paikhia-in Filsitiate delh-te a, Bethkar nuai ciang dong amaute vatgawp-te hi.
 
-**ZVS:** Tua ciangin Mizpah panin Israel-te paikhia-in Filistia-te delh uh a, Bethkar nuai ciangdong amaute a vatgawp uh hi.
+**ZVS:** Tua ciangin Mizpah panin Israel-te paikhia-in Filistia-te delh-te a, Bethkar nuai ciangdong amaute a vatgawp-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -132,18 +132,18 @@
 ### v13
 **EN:** So the Philistines were subdued, and they came no more into the coast of Israel: and the hand of the
 
-**TDB77:** Tua ahih ciangin Filistiate kizo a, Israelte’ gam sungah tumkik nawn lo uh hi. Samuel’ hun sung khempeuh Topa in Filsitiate lang pang hi.
+**TDB77:** Tua ahih ciangin Filistiate kizo a, Israelte’ gam sungah tumkik nawn lo-te hi. Samuel’ hun sung khempeuh Topa in Filsitiate lang pang hi.
 
-**ZVS:** Tua ahih ciangin Filistia-te kizo a, Israel-te' gam sungah tumkik nawnlo uh hi. Samuel' hunsung khempeuh { Topa } in Filistia-te langpang hi.
+**ZVS:** Tua ahih ciangin Filistia-te kizo a, Israel-te' gam sungah tumkik nawnlo-te hi. Samuel' hunsung khempeuh { Topa } in Filistia-te langpang hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And the cities which the Philistines had taken from Israel were restored to Israel, from Ekron even unto Gath; and the coasts thereof did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites.
 
-**TDB77:** Israelte tung panin Filistiate in a laksa khuapite, Ekron panin Gath ciang kikal sung teng, Israelte tungah kipia kik hi; Israelte in Filistiate khut sung panin a gam uh la kik uh hi. Israelte leh Amor mite kikalah zong kilemna om hi.
+**TDB77:** Israelte tung panin Filistiate in a laksa khuapite, Ekron panin Gath ciang kikal sung teng, Israelte tungah kipia kik hi; Israelte in Filistiate khut sung panin a gam-te la kik-te hi. Israelte leh Amor mite kikalah zong kilemna om hi.
 
-**ZVS:** Israel-te' tung panin Filistia-te in a laksa khuapite, Ekron panin Gath ciang kikal sungteng, Israel-te tungah kipia kik a, Israel-te in Filistia-te' khutsung panin a gam uh lakik uh hi. Israel-te leh Amor mite kikalah zong kilemna om hi.
+**ZVS:** Israel-te' tung panin Filistia-te in a laksa khuapite, Ekron panin Gath ciang kikal sungteng, Israel-te tungah kipia kik a, Israel-te in Filistia-te' khutsung panin a gam-te lakik-te hi. Israel-te leh Amor mite kikalah zong kilemna om hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

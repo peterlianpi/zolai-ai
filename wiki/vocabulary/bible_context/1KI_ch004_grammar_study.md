@@ -37,18 +37,18 @@
 ### v3
 **EN:** Elihoreph and Ahiah, the sons of Shisha, scribes; Jehoshaphat the son of Ahilud, the recorder.
 
-**TDB77:** Shisha’ tapa Elihoref leh Ahijah in lai-atte ahi uh hi; Ahilud’ tapa Jehoshafat in thuciamtehpa ahi hi;
+**TDB77:** Shisha’ tapa Elihoref leh Ahijah in lai-atte ahi-te hi; Ahilud’ tapa Jehoshafat in thuciamtehpa ahi hi;
 
-**ZVS:** Lai-at nasep: Shisha' tapa Elihoref leh Ahijah ahi uh hi. Thu ciamteh nasep: Ahilud' tapa Jehoshafat ahi hi.
+**ZVS:** Lai-at nasep: Shisha' tapa Elihoref leh Ahijah ahi-te hi. Thu ciamteh nasep: Ahilud' tapa Jehoshafat ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** And Benaiah the son of Jehoiada was over the host: and Zadok and Abiathar were the priests:
 
-**TDB77:** Jehoiada’ tapa Benaiah in galkapte a uk ahi hi; Zadok leh Abiathar in siampite ahi uh hi;
+**TDB77:** Jehoiada’ tapa Benaiah in galkapte a uk ahi hi; Zadok leh Abiathar in siampite ahi-te hi;
 
-**ZVS:** Galkapte a uk nasep: Jehoiada' tapa Benaiah ahi hi. Siampite nasep: Zadok leh Abiathar ahi uh hi.
+**ZVS:** Galkapte a uk nasep: Jehoiada' tapa Benaiah ahi hi. Siampite nasep: Zadok leh Abiathar ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -69,9 +69,9 @@
 ### v7
 **EN:** And Solomon had twelve officers over all Israel, which provided victuals for the king and his household: each man his month in a year made provision.
 
-**TDB77:** Solomon in Israel khempeuh tungah ulian sawm-le-nih nei-in tuate in kumpipa leh a innkuan adingin annek tuidawn pia hi; mi khat in kum khatin kha khat sung annek tuidawn pia uh hi.
+**TDB77:** Solomon in Israel khempeuh tungah ulian sawm-le-nih nei-in tuate in kumpipa leh a innkuan adingin annek tuidawn pia hi; mi khat in kum khatin kha khat sung annek tuidawn pia-te hi.
 
-**ZVS:** Solomon in Israel khempeuh tungah ulian sawmlenih nei-in tuate in kumpipa leh a innkuan-a' dingin annek tuidawn vaihawmsak uh hi. Mi khat in kum khatin kha khat sung annek tuidawn vaihawmsak ciat uh hi.
+**ZVS:** Solomon in Israel khempeuh tungah ulian sawmlenih nei-in tuate in kumpipa leh a innkuan-a' dingin annek tuidawn vaihawmsak-te hi. Mi khat in kum khatin kha khat sung annek tuidawn vaihawmsak ciat-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -168,18 +168,18 @@
 ### v20
 **EN:** Judah and Israel were many, as the sand which is by the sea in multitude, eating and drinking, and making merry.
 
-**TDB77:** Judah leh Israelte tuipi gei-a sehnel bangin tam uh hi; amaute in ne-in dawnin lungdam uh hi.
+**TDB77:** Judah leh Israelte tuipi gei-a sehnel bangin tam-te hi; amaute in ne-in dawnin lungdam-te hi.
 
-**ZVS:** Judah mi leh Israel mi tuipi gei-a sehnel bangin tam uh a, amaute in anne tuidawnin lungdam uh hi.
+**ZVS:** Judah mi leh Israel mi tuipi gei-a sehnel bangin tam-te a, amaute in anne tuidawnin lungdam-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v21
 **EN:** And Solomon reigned over all kingdoms from the river unto the land of the Philistines, and unto the border of Egypt: they brought presents, and served Solomon all the days of his life.
 
-**TDB77:** Solomon in Eufrates panin Filistiate’ gam leh Izipt gamgi ciang dong kumpi gam khempeuh uk hi; amaute in siah hong puak uh a, a nuntak sung tawntung Solomon’ na sem uh hi.
+**TDB77:** Solomon in Eufrates panin Filistiate’ gam leh Izipt gamgi ciang dong kumpi gam khempeuh uk hi; amaute in siah hong puak-te a, a nuntak sung tawntung Solomon’ na sem-te hi.
 
-**ZVS:** Solomon in Eufratis panin Filistia gam leh Egypt gamgi ciangdong kumpi gam khempeuh uk hi. Amaute in siah hong puak uh a, a nuntak sung tawntung uh Solomon' na sem uh hi.
+**ZVS:** Solomon in Eufratis panin Filistia gam leh Egypt gamgi ciangdong kumpi gam khempeuh uk hi. Amaute in siah hong puak-te a, a nuntak sung tawntung-te Solomon' na sem-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -211,9 +211,9 @@
 ### v25
 **EN:** And Judah and Israel dwelt safely, every man under his vine and under his fig tree, from Dan even to Beer–sheba, all the days of Solomon.
 
-**TDB77:** Solomon’ hun sung khempeuh Judah leh Israel lungmuang takin omin, Dan panin Be-ersheba ciang dong nangawn mi khempeuh a leenggui leh a theikung nuai uhah om uh hi.
+**TDB77:** Solomon’ hun sung khempeuh Judah leh Israel lungmuang takin omin, Dan panin Be-ersheba ciang dong nangawn mi khempeuh a leenggui leh a theikung nuai uhah om-te hi.
 
-**ZVS:** Solomon' hun sung khempeuh Judah leh Israel lungmuang takin omin, Dan panin Beersheba ciangdong nangawn mi khempeuh a leenggui leh a theikung nuai uhah lungnuamin om uh hi.
+**ZVS:** Solomon' hun sung khempeuh Judah leh Israel lungmuang takin omin, Dan panin Beersheba ciangdong nangawn mi khempeuh a leenggui leh a theikung nuai uhah lungnuamin om-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -229,18 +229,18 @@
 ### v27
 **EN:** And those officers provided victual for king Solomon, and for all that came unto king Solomon's table, every man in his month: they lacked nothing.
 
-**TDB77:** Tua uliante in Kumpi Solomon leh Kumpi Solomon’ sabuai-ah hong pai mite khempeuh adingin amau ciat sikh kha sung adingin annek tuidawn pia uh hi; amaute in bangmah kisamsak lo uh hi.
+**TDB77:** Tua uliante in Kumpi Solomon leh Kumpi Solomon’ sabuai-ah hong pai mite khempeuh adingin amau ciat sikh kha sung adingin annek tuidawn pia-te hi; amaute in bangmah kisamsak lo-te hi.
 
-**ZVS:** Tua uliante in Kumpi Solomon leh Kumpi Solomon' sabuai-ah a hong pai mite khempeuh-a' dingin amau ciat sik kha sunga dingin annek tuidawn vaihawm uh a, amaute in bangmah kisamsaklo uh hi.
+**ZVS:** Tua uliante in Kumpi Solomon leh Kumpi Solomon' sabuai-ah a hong pai mite khempeuh-a' dingin amau ciat sik kha sunga dingin annek tuidawn vaihawm-te a, amaute in bangmah kisamsaklo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** Barley also and straw for the horses and dromedaries brought they unto the place where the officers were, every man according to his charge.
 
-**TDB77:** Amau’ nasep ciat tawh kizui-in a kisapna munah sakolte leh sakol zaptelte’ adingin mangbuhham leh buhtu zong paipih uh hi.
+**TDB77:** Amau’ nasep ciat tawh kizui-in a kisapna munah sakolte leh sakol zaptelte’ adingin mangbuhham leh buhtu zong paipih-te hi.
 
-**ZVS:** Amau' nasep ciat tawh kizui-in a kisapna munah sakolte leh sakol zaptelte-a' dingin mangbuhham leh buhtu zong paipih uh hi.
+**ZVS:** Amau' nasep ciat tawh kizui-in a kisapna munah sakolte leh sakol zaptelte-a' dingin mangbuhham leh buhtu zong paipih-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -288,9 +288,9 @@
 ### v34
 **EN:** And there came of all people to hear the wisdom of Solomon, from all kings of the earth, which had heard of his wisdom.
 
-**TDB77:** Mi khempeuh sungpan, leh leitung kumpi khempeuh sung panin Solomon’ pilna a za dingin ama pilna a zasate hong pai uh hi.
+**TDB77:** Mi khempeuh sungpan, leh leitung kumpi khempeuh sung panin Solomon’ pilna a za dingin ama pilna a zasate hong pai-te hi.
 
-**ZVS:** Mi khempeuh leh leitung kumpi khempeuh sung panin Solomon' pilna thu a ngai dingin ama pilna thu a zasate hong pai uh hi.
+**ZVS:** Mi khempeuh leh leitung kumpi khempeuh sung panin Solomon' pilna thu a ngai dingin ama pilna thu a zasate hong pai-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

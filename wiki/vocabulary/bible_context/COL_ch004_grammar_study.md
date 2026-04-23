@@ -23,9 +23,9 @@
 ### v1
 **EN:** Masters, give unto your servants that which is just and equal; knowing that ye also have a Master in heaven.
 
-**TDB77:** Tote aw, note in zong vantungah om Topa khat na neih uh na thei un la, thuman thutak leh a kilawm a kituakin na silate uh na bawl un.
+**TDB77:** Tote aw, note in zong vantungah om Topa khat na neih-te na thei un la, thuman thutak leh a kilawm a kituakin na silate-te na bawl un.
 
-**ZVS:** Tote aw, note in zong vantungah To khat na neihna uh phawk un la, na silate uh a kilawm a kituakin bawl un.
+**ZVS:** Tote aw, note in zong vantungah To khat na neihna-te phawk un la, na silate-te a kilawm a kituakin bawl un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -55,14 +55,14 @@
 
 **TDB77:** Pua lamah a om mite mai-ah pilna tawh gamta un la, a hun na teel un.
 
-**ZVS:** A pualam mite tungah a kilawm a kituakin gamta un la, hunhoih na ngah khempeuh uh na valkhongsak ngei kei un.
+**ZVS:** A pualam mite tungah a kilawm a kituakin gamta un la, hunhoih na ngah khempeuh-te na valkhongsak ngei kei un.
 
 ### v6
 **EN:** Let your speech be alway with grace, seasoned with salt, that ye may know how ye ought to answer every man.
 
 **TDB77:** Mi khempeuh tungah bang ci dawn’ kik ding cih na theih nadingun, note kam in ci al bangin a al limna tawh dimin kilawm tawntung ta hen.
 
-**ZVS:** Kam na pau uh ciangin mi' zaknop, mi' ngaihnop dingin na pau un. Tua hi leh na kihopih uh mite khempeuh-a' dingin phattuamna a nei kam a pau na hi ding uh hi.
+**ZVS:** Kam na pau-te ciangin mi' zaknop, mi' ngaihnop dingin na pau un. Tua hi leh na kihopih-te mite khempeuh-a' dingin phattuamna a nei kam a pau na hi ding-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -71,7 +71,7 @@
 
 **TDB77:** Topa sungah dikna nei-in nasem khawm sila ka hihpih, a it huai mi ahi sanggampa Tikhikas in keima thu a om khempeuh note kiangah a hong gen ding hi.
 
-**ZVS:** Topa' nasepna-ah citakin a manpha mahmah ka naseppih uh ka sanggam uh Tikhikas in kei' thu a kicing takin note kiangah hong gen ding hi.
+**ZVS:** Topa' nasepna-ah citakin a manpha mahmah ka naseppih-te ka sanggam-te Tikhikas in kei' thu a kicing takin note kiangah hong gen ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -85,14 +85,14 @@
 ### v9
 **EN:** With Onesimus, a faithful and beloved brother, who is one of you. They shall make known unto you all things which are done here.
 
-**TDB77:** Note' khuapih mi, a citak i sanggam itpa Onesimas zong ka hong zuisak hi. Amaute gel in hih lai-a thupiang khempeuh note kiangah hong gen ding uh hi.
+**TDB77:** Note' khuapih mi, a citak i sanggam itpa Onesimas zong ka hong zuisak hi. Amaute gel in hih lai-a thupiang khempeuh note kiangah hong gen ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Aristarchus my fellowprisoner saluteth you, and Mark, sister's son to Barnabas, (touching whom ye received commandments: if he come unto you, receive him;)
 
-**TDB77:** Kei tawh thong a kia khawm mi Aristarkhas akipan Barnabas’ nau Marka leh Justas a kici Zeisu te in note a hong hopih uh hi. Marka thu tawh kipawl note kiangah ka hong khak zo hi. Amah note kiangah a hong tun’ ciangin dawnin na tungsak un.
+**TDB77:** Kei tawh thong a kia khawm mi Aristarkhas akipan Barnabas’ nau Marka leh Justas a kici Zeisu te in note a hong hopih-te hi. Marka thu tawh kipawl note kiangah ka hong khak zo hi. Amah note kiangah a hong tun’ ciangin dawnin na tungsak un.
 
 **ZVS:** Kei tawh thong a kiakhawm Aristarkhas in note hong hopih hi. Barnabas' sanggamnu' tapa Marka in zong hong hopih hi (amah hong pai ciangin hoihtakin na pawlbawl un, ci-a hong kigenpa ahi hi).
 
@@ -101,9 +101,9 @@
 ### v11
 **EN:** And Jesus, which is called Justus, who are of the circumcision. These only are my fellowworkers unto the kingdom of God, which have been a comfort unto me.
 
-**TDB77:** Vunatna a thuak mite lakah hih mite bek Pasian’ Gam ading ka naseppihte ahi uh a, kei hong hehnem uh hi.
+**TDB77:** Vunatna a thuak mite lakah hih mite bek Pasian’ Gam ading ka naseppihte ahi-te a, kei hong hehnem-te hi.
 
-**ZVS:** Justas zong a kici zel Jesuh in zong note hong hopih hi. Vun-atna a zang Jew mi Khristian a hong suakte lak panin hih mi thumte bek, Pasian thu-ah ka naseppih lakah a hong kihel ahi hi. Ka nasepna-ah amaute in nakpi takin hong huh uh hi.
+**ZVS:** Justas zong a kici zel Jesuh in zong note hong hopih hi. Vun-atna a zang Jew mi Khristian a hong suakte lak panin hih mi thumte bek, Pasian thu-ah ka naseppih lakah a hong kihel ahi hi. Ka nasepna-ah amaute in nakpi takin hong huh-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -128,9 +128,9 @@
 ### v14
 **EN:** Luke, the beloved physician, and Demas, greet you.
 
-**TDB77:** Itna a ngah zato mangpa Luka leh Demas in note hong hopih uh hi.
+**TDB77:** Itna a ngah zato mangpa Luka leh Demas in note hong hopih-te hi.
 
-**ZVS:** I it siavuanpa Luka leh Demas in zong hong hopih uh hi.
+**ZVS:** I it siavuanpa Luka leh Demas in zong hong hopih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -144,9 +144,9 @@
 ### v16
 **EN:** And when this epistle is read among you, cause that it be read also in the church of the Laodiceans; and that ye likewise read the epistle from Laodicea.
 
-**TDB77:** Hih lai na sim khit uh ciangin Laodikia khua-ah a om pawlpite zong na simsak un. Laodikia khua pan a kingah ding lai zong na sim un.
+**TDB77:** Hih lai na sim khit-te ciangin Laodikia khua-ah a om pawlpite zong na simsak un. Laodikia khua pan a kingah ding lai zong na sim un.
 
-**ZVS:** Hih ka hong laikhak na sim khit uh ciangin Laodisia khua-a om pawlpite zong na simsak un la, Laodisia khua pawlpite kiang pan hong pai ding lai zong note in na sim hamtang un.
+**ZVS:** Hih ka hong laikhak na sim khit-te ciangin Laodisia khua-a om pawlpite zong na simsak un la, Laodisia khua pawlpite kiang pan hong pai ding lai zong note in na sim hamtang un.
 
 **Grammar:** reciprocal: ki- prefix
 

@@ -22,7 +22,7 @@ This document contains a linguistic analysis of the first five books of the Bibl
 **Proficiency Level:** B1 (Action Narrative) to B2 (Legalism)
 
 ### Core Patterns
-- **Prohibitive Commands (B1):** `Na hih kei ding uh hi` (You shall not do).
+- **Prohibitive Commands (B1):** `Na hih kei ding-te hi` (You shall not do).
 - **Standard Interrogatives (B1):** `Bang ci-a ... ding i hi hiam?` (How shall we ...?).
 - **Passive-Voice Prefixes (B2):** `Ki-` (e.g., `Kideiduhna` - favoritism, `Kithahna` - murder).
 
@@ -56,7 +56,7 @@ This document contains a linguistic analysis of the first five books of the Bibl
 - **Organizational Hierarchies:** `Lutang` (Head/Leader), `Makaite` (Princes), `Hon` (Company/Host).
 
 ### Verse Evidence
-- **Num 1:3:** `... galdo dingin a kuan thei ding mi khempeuh a hon a honin na sim ding uh hi.` (... all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.)
+- **Num 1:3:** `... galdo dingin a kuan thei ding mi khempeuh a hon a honin na sim ding-te hi.` (... all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.)
 
 ---
 
@@ -66,7 +66,7 @@ This document contains a linguistic analysis of the first five books of the Bibl
 
 ### Core Patterns
 - **Hortatory Admonition:** `Israel-te aw, za un...` (Hear, O Israel...).
-- **Conditional Blessings/Curses (B2):** `Na zuih uh leh ... na zuih kei uh leh ...` (If you follow ... if you do not follow ...).
+- **Conditional Blessings/Curses (B2):** `Na zuih-te leh ... na zuih kei-te leh ...` (If you follow ... if you do not follow ...).
 - **Logical Deductions:** `Tua ahih ciangin` (Therefore), `Bang hang hiam cih leh` (Because).
 
 ### Verse Evidence

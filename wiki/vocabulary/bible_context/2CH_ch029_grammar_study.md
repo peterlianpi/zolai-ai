@@ -57,45 +57,45 @@
 ### v5
 **EN:** And said unto them, Hear me, ye Levites, sanctify now yourselves, and sanctify the house of the
 
-**TDB77:** tua ciangin amaute kiangah, “Levi mite aw, ka thugen hong za un! Tu-in nomau kisian’suah un la, na pu na pate uh Pasian, Topa’ biakinn siangtho sakin siangtho mun panin ninte nawn khia un.
+**TDB77:** tua ciangin amaute kiangah, “Levi mite aw, ka thugen hong za un! Tu-in nomau kisian’suah un la, na pu na pate-te Pasian, Topa’ biakinn siangtho sakin siangtho mun panin ninte nawn khia un.
 
-**ZVS:** amaute kiangah, “Levi mite aw, ka thugen hong za un! Tuni-in nomau kisian'suah un la, na pu na pate uh Pasian, { Topa' } biakinn siangthosakin a ninsak thei na khempeuh siangtho mun panin nawnkhia un.
+**ZVS:** amaute kiangah, “Levi mite aw, ka thugen hong za un! Tuni-in nomau kisian'suah un la, na pu na pate-te Pasian, { Topa' } biakinn siangthosakin a ninsak thei na khempeuh siangtho mun panin nawnkhia un.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v6
 **EN:** For our fathers have trespassed, and done that which was evil in the eyes of the
 
-**TDB77:** Bang hang hiam cih leh i pu i pate citak lo a, Topa i Pasian’ muhna ah a sia gamta uh hi; amaute in amah nusia-in, Topa’ teen’na panin a mai uh heikhia uh a, a nung uh ngat uh hi.
+**TDB77:** Bang hang hiam cih leh i pu i pate citak lo a, Topa i Pasian’ muhna ah a sia gamta-te hi; amaute in amah nusia-in, Topa’ teen’na panin a mai-te heikhia-te a, a nung-te ngat-te hi.
 
-**ZVS:** Bang hang hiam cih leh i pute i pate citaklo a, { Topa } i Pasian' muhna-ah a sia gamta uh hi. Amaute in amah nusia-in, { Topa } i Pasian' muhna-ah a sia gamta uh hi. Amaute in amah nusia-in, { Topa' } ten'na panin a mai uh heikhia uh a, a nung uh ngat uh hi.
+**ZVS:** Bang hang hiam cih leh i pute i pate citaklo a, { Topa } i Pasian' muhna-ah a sia gamta-te hi. Amaute in amah nusia-in, { Topa } i Pasian' muhna-ah a sia gamta-te hi. Amaute in amah nusia-in, { Topa' } ten'na panin a mai-te heikhia-te a, a nung-te ngat-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v7
 **EN:** Also they have shut up the doors of the porch, and put out the lamps, and have not burned incense nor offered burnt offerings in the holy place unto the God of Israel.
 
-**TDB77:** Amaute in innlim kongkhakte zong khakin meivakte sumit uh a, siangtho munah paknamtui halna leh meihal biaknate Israel Pasian tungah bawl lo uh hi.
+**TDB77:** Amaute in innlim kongkhakte zong khakin meivakte sumit-te a, siangtho munah paknamtui halna leh meihal biaknate Israel Pasian tungah bawl lo-te hi.
 
-**ZVS:** Amaute in innliim kongkhakte zong khakin meivakte sumit uh a, siangtho munah paknamtui halna leh meihal biaknate Israel Pasian tungah bawllo uh hi.
+**ZVS:** Amaute in innliim kongkhakte zong khakin meivakte sumit-te a, siangtho munah paknamtui halna leh meihal biaknate Israel Pasian tungah bawllo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v8
 **EN:** Wherefore the wrath of the
 
-**TDB77:** Tua ahih ciangin Judah leh Jerusalem tungah Topa’ hehna hong tung a, note’ mit mahmah tawh na muh uh mah bangin amah in amaute a cikzethuai, lamdangsakna, leh a dipkuathuai-in bawl hi.
+**TDB77:** Tua ahih ciangin Judah leh Jerusalem tungah Topa’ hehna hong tung a, note’ mit mahmah tawh na muh-te mah bangin amah in amaute a cikzethuai, lamdangsakna, leh a dipkuathuai-in bawl hi.
 
-**ZVS:** Tua ahih ciangin Judah leh Jerusalem tungah { Topa' } hehna hong tung a, note' mit mahmah tawh na muh uh mah bangin amah in amaute a cikzethuai, lamdangsakna, leh a dipkuathuai-in a bawl hi.
+**ZVS:** Tua ahih ciangin Judah leh Jerusalem tungah { Topa' } hehna hong tung a, note' mit mahmah tawh na muh-te mah bangin amah in amaute a cikzethuai, lamdangsakna, leh a dipkuathuai-in a bawl hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then)
 
 ### v9
 **EN:** For, lo, our fathers have fallen by the sword, and our sons and our daughters and our wives are in captivity for this.
 
-**TDB77:** Bang hang hiam cih leh en un, hih thu hangin namsau-in i pate puk uh a, i tapate leh i tanute leh i zite galmatin om uh hi.
+**TDB77:** Bang hang hiam cih leh en un, hih thu hangin namsau-in i pate puk-te a, i tapate leh i tanute leh i zite galmatin om-te hi.
 
-**ZVS:** Bang hang hiam cih leh en un, hih thu hangin namsau-in i pu i pate puk uh a, i tapate, i tanute, leh i zite galmatin om uh hi.
+**ZVS:** Bang hang hiam cih leh en un, hih thu hangin namsau-in i pu i pate puk-te a, i tapate, i tanute, leh i zite galmatin om-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -136,54 +136,54 @@
 ### v14
 **EN:** And of the sons of Heman; Jehiel, and Shimei: and of the sons of Jeduthun; Shemaiah, and Uzziel.
 
-**TDB77:** Heman’ beh sung panin Jehuel leh Shimei; Jeduthun’ beh sung panin Shemaiah leh Uzziel kipan uh hi.
+**TDB77:** Heman’ beh sung panin Jehuel leh Shimei; Jeduthun’ beh sung panin Shemaiah leh Uzziel kipan-te hi.
 
-**ZVS:** Heman' beh sung panin Jehiel leh Shimei; Jeduthun' beh sung panin Shemaiah leh Uzziel kipan uh hi.
+**ZVS:** Heman' beh sung panin Jehiel leh Shimei; Jeduthun' beh sung panin Shemaiah leh Uzziel kipan-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And they gathered their brethren, and sanctified themselves, and came, according to the commandment of the king, by the words of the
 
-**TDB77:** Amaute in a sanggamte uh khawmin amau kisian’suah uh a, Topa’ genna tawh kumpipa’ thupiak bangin Topa’ biakinn a puahsiang dingin tum uh hi.
+**TDB77:** Amaute in a sanggamte-te khawmin amau kisian’suah-te a, Topa’ genna tawh kumpipa’ thupiak bangin Topa’ biakinn a puahsiang dingin tum-te hi.
 
-**ZVS:** Amaute in a sanggamte uh khawmin amau kisian'suah uh a, { Topa' } genna tawh kumpipa' thupiak bangin { Topa' } biakinn a puahsiang dingin a tum uh hi.
+**ZVS:** Amaute in a sanggamte-te khawmin amau kisian'suah-te a, { Topa' } genna tawh kumpipa' thupiak bangin { Topa' } biakinn a puahsiang dingin a tum-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And the priests went into the inner part of the house of the
 
-**TDB77:** A puahsiang dingin Topa’ biakinn sung tawngnung ah a siampite lut uh a, Topa’ biakinn sunga a muh uh nin khempeuh Topa’ biakinn tual-ah hong paikhiatpih uh hi; tua ciangin Levi mite in la-in Kidron lui-ah puakhia uh hi.
+**TDB77:** A puahsiang dingin Topa’ biakinn sung tawngnung ah a siampite lut-te a, Topa’ biakinn sunga a muh-te nin khempeuh Topa’ biakinn tual-ah hong paikhiatpih-te hi; tua ciangin Levi mite in la-in Kidron lui-ah puakhia-te hi.
 
-**ZVS:** A puahsiang dingin { Topa' } biakinn sung tawngnungah a siampite lut uh a, { Topa' } biakinn sunga a muh uh a nin khempeuh { Topa' } biakinn tualah hong paikhiatpih uh hi. Tua ciangin Levi mite in la-in Kidron lui-ah puakhia uh hi.
+**ZVS:** A puahsiang dingin { Topa' } biakinn sung tawngnungah a siampite lut-te a, { Topa' } biakinn sunga a muh-te a nin khempeuh { Topa' } biakinn tualah hong paikhiatpih-te hi. Tua ciangin Levi mite in la-in Kidron lui-ah puakhia-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Now they began on the first day of the first month to sanctify, and on the eighth day of the month came they to the porch of the
 
-**TDB77:** Kha masa a ni masa ni-in amaute in sian’suah ding kipan uh a, tua kha a ni giat ni-in Topa’ biakinn lim-ah amaute hong pai uh hi; tua ciangin amaute in ni giat sung Topa’ biakinn sian’suah uh a, a kha masa a ni sawm-le-guk ni-in zo uh hi.
+**TDB77:** Kha masa a ni masa ni-in amaute in sian’suah ding kipan-te a, tua kha a ni giat ni-in Topa’ biakinn lim-ah amaute hong pai-te hi; tua ciangin amaute in ni giat sung Topa’ biakinn sian’suah-te a, a kha masa a ni sawm-le-guk ni-in zo-te hi.
 
-**ZVS:** Kha masa a ni masa ni-in amaute in sian'suah ding kipan uh a, tua kha a ni giat ni-in { Topa' } innliimah amaute hong pai uh hi. Tua ciangin amaute in ni giat sung { Topa' } biakinn sian'suah uh a, a kha masa a ni sawmleguk ni-in zo uh hi.
+**ZVS:** Kha masa a ni masa ni-in amaute in sian'suah ding kipan-te a, tua kha a ni giat ni-in { Topa' } innliimah amaute hong pai-te hi. Tua ciangin amaute in ni giat sung { Topa' } biakinn sian'suah-te a, a kha masa a ni sawmleguk ni-in zo-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Then they went in to Hezekiah the king, and said, We have cleansed all the house of the
 
-**TDB77:** Tua ciangin kumpipa Hezekiah’ kiangah amaute tumin, “Topa’ inn khempeuh, meihal biakna tau leh a nazatte khempeuh, leh Ompihna Anlum sabuai leh a nazatte khempeuh ka puahsiang khin uh hi.
+**TDB77:** Tua ciangin kumpipa Hezekiah’ kiangah amaute tumin, “Topa’ inn khempeuh, meihal biakna tau leh a nazatte khempeuh, leh Ompihna Anlum sabuai leh a nazatte khempeuh ka puahsiang khin-te hi.
 
-**ZVS:** Tua ciangin kumpipa Hezekiah kiangah amaute tumin, “{ Topa' } biakinn khempeuh, meihal biakna tau leh a nazatte khempeuh, leh Ompihna Anlum sabuai leh a nazatte khempeuh ka puahsiang khin uh hi.
+**ZVS:** Tua ciangin kumpipa Hezekiah kiangah amaute tumin, “{ Topa' } biakinn khempeuh, meihal biakna tau leh a nazatte khempeuh, leh Ompihna Anlum sabuai leh a nazatte khempeuh ka puahsiang khin-te hi.
 
 **Grammar:** sequence: then/therefore | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** Moreover all the vessels, which king Ahaz in his reign did cast away in his transgression, have we prepared and sanctified, and, behold, they are before the altar of the
 
-**TDB77:** Kumpi Ahaz a cihtak loh lai takin ama uk sungin a paihkhiat nazat khempeuh a baihsa-in bawlin ka sian’suah uh hi; en in, Topa’ biakna tau mai-ah tuate om hi,” a ci hi.
+**TDB77:** Kumpi Ahaz a cihtak loh lai takin ama uk sungin a paihkhiat nazat khempeuh a baihsa-in bawlin ka sian’suah-te hi; en in, Topa’ biakna tau mai-ah tuate om hi,” a ci hi.
 
-**ZVS:** Kumpi Ahaz a cihtakloh laitakin ama uk sungin a paihkhiat nazat khempeuh a baihsa-in bawlin ka sian'suah uh hi. { Topa' } biakna tau mai-ah tu-in tuate om hi,” a ci uh hi.
+**ZVS:** Kumpi Ahaz a cihtakloh laitakin ama uk sungin a paihkhiat nazat khempeuh a baihsa-in bawlin ka sian'suah-te hi. { Topa' } biakna tau mai-ah tu-in tuate om hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -192,43 +192,43 @@
 
 **TDB77:** Tua ciangin kumpipa Hezekiah tho baihin khuapi sung ukna-za neite khawm a, tua ciangin Topa’ biakinn ah paito hi.
 
-**ZVS:** Tua ciangin kumpipa Hezekiah tho baihin khuapi sung zaneite khawmin { Topa' } biakinn-ah a paito uh hi.
+**ZVS:** Tua ciangin kumpipa Hezekiah tho baihin khuapi sung zaneite khawmin { Topa' } biakinn-ah a paito-te hi.
 
 **Grammar:** sequence: then/therefore
 
 ### v21
 **EN:** And they brought seven bullocks, and seven rams, and seven lambs, and seven he goats, for a sin offering for the kingdom, and for the sanctuary, and for Judah. And he commanded the priests the sons of Aaron to offer them on the altar of the
 
-**TDB77:** Tua ciangin amaute in kumpigam leh biakinn leh Judah’ adingin khialhna hanga biakna-in bawngtal sagih, tuutal sagih, tuuno sagih, leh keeltal sagih hong paipih uh hi. Tua ciangin amah in Topa’ biakna tau tungah tuate a pia dingin Aaron’ suan siampite sawl hi.
+**TDB77:** Tua ciangin amaute in kumpigam leh biakinn leh Judah’ adingin khialhna hanga biakna-in bawngtal sagih, tuutal sagih, tuuno sagih, leh keeltal sagih hong paipih-te hi. Tua ciangin amah in Topa’ biakna tau tungah tuate a pia dingin Aaron’ suan siampite sawl hi.
 
-**ZVS:** Tua ciangin amaute in kumpi gam leh biakinn leh Judah-a' dingin khialhna hanga biakna-in bawngtal sagih, tuutal sagih, tuuno sagih, leh keel sagih hong paipih uh hi. Tua ciangin amah in { Topa' } biakna tau tungah tuate a pia dingin Aaron' suan siampite a sawl hi.
+**ZVS:** Tua ciangin amaute in kumpi gam leh biakinn leh Judah-a' dingin khialhna hanga biakna-in bawngtal sagih, tuutal sagih, tuuno sagih, leh keel sagih hong paipih-te hi. Tua ciangin amah in { Topa' } biakna tau tungah tuate a pia dingin Aaron' suan siampite a sawl hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v22
 **EN:** So they killed the bullocks, and the priests received the blood, and sprinkled it on the altar: likewise, when they had killed the rams, they sprinkled the blood upon the altar: they killed also the lambs, and they sprinkled the blood upon the altar.
 
-**TDB77:** Tua ahih ciangin amaute in a bawngtalte go uh a, siampite in a sisan la-in biakna tau theh uh hi; tua ciangin amaute in tuutalte goin a sisan biakna tau theh uh hi; tua ciangin amaute in tuunote goin a sisan biakna tau theh uh hi.
+**TDB77:** Tua ahih ciangin amaute in a bawngtalte go-te a, siampite in a sisan la-in biakna tau theh-te hi; tua ciangin amaute in tuutalte goin a sisan biakna tau theh-te hi; tua ciangin amaute in tuunote goin a sisan biakna tau theh-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in a bawngtalte go uh a, siampite in a sisan la-in biakna tau tungah theh uh hi. Tua ciangin amaute in tuutalte go-in a sisan tawh biakna tau theh uh hi. Tua ciangin amaute in tuunote go-in a sisan tawh biakna tau theh uh hi.
+**ZVS:** Tua ahih ciangin amaute in a bawngtalte go-te a, siampite in a sisan la-in biakna tau tungah theh-te hi. Tua ciangin amaute in tuutalte go-in a sisan tawh biakna tau theh-te hi. Tua ciangin amaute in tuunote go-in a sisan tawh biakna tau theh-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v23
 **EN:** And they brought forth the he goats for the sin offering before the king and the congregation; and they laid their hands upon them:
 
-**TDB77:** Tua ciangin khialhna hanga biak nading keeltal sagihte kumpipa leh a kikhawmte kiangah hong kipaipih a, tua ciangin amaute in tuate tungah a khut uh nga a,
+**TDB77:** Tua ciangin khialhna hanga biak nading keeltal sagihte kumpipa leh a kikhawmte kiangah hong kipaipih a, tua ciangin amaute in tuate tungah a khut-te nga a,
 
-**ZVS:** Tua ciangin khialhna hanga biakna ding keeltal sagihte kumpipa leh a kikhawmte kiangah hong kipaipih a, amaute in tuate tungah a khut uh nga hi;
+**ZVS:** Tua ciangin khialhna hanga biakna ding keeltal sagihte kumpipa leh a kikhawmte kiangah hong kipaipih a, amaute in tuate tungah a khut-te nga hi;
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v24
 **EN:** And the priests killed them, and they made reconciliation with their blood upon the altar, to make an atonement for all Israel: for the king commanded that the burnt offering and the sin offering should be made for all Israel.
 
-**TDB77:** tua ciangin Israel khempeuh adingin pumkhat suahna bawl nadingin siampite in goin tuate’ sisan tawh biakna tau tungah khialhna hanga biakna bawlna bawl uh hi. Bang hang hiam cih leh Israel khempeuh adingin meihal biakna leh khialhna hanga biakna a bawl ding uh kumpipa in thu pia hi.
+**TDB77:** tua ciangin Israel khempeuh adingin pumkhat suahna bawl nadingin siampite in goin tuate’ sisan tawh biakna tau tungah khialhna hanga biakna bawlna bawl-te hi. Bang hang hiam cih leh Israel khempeuh adingin meihal biakna leh khialhna hanga biakna a bawl ding-te kumpipa in thu pia hi.
 
-**ZVS:** tua ciangin Israel khempeuh-a' dingin pumkhat suahna bawlna dingin siampite in go-in tuate' sisan tawh biakna tau tungah khialhna hanga biakna a bawl uh hi. Bang hang hiam cih leh Israel khempeuh-a' dingin meihal biakna leh khialhna hanga biakna a bawl ding uh kumpipa in thu pia hi.
+**ZVS:** tua ciangin Israel khempeuh-a' dingin pumkhat suahna bawlna dingin siampite in go-in tuate' sisan tawh biakna tau tungah khialhna hanga biakna a bawl-te hi. Bang hang hiam cih leh Israel khempeuh-a' dingin meihal biakna leh khialhna hanga biakna a bawl ding-te kumpipa in thu pia hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -244,9 +244,9 @@
 ### v26
 **EN:** And the Levites stood with the instruments of David, and the priests with the trumpets.
 
-**TDB77:** David’ lasaknate tawh Levi mite ding uh a, peengkulte tawh siampite ding uh hi.
+**TDB77:** David’ lasaknate tawh Levi mite ding-te a, peengkulte tawh siampite ding-te hi.
 
-**ZVS:** David' lasaknate tawh Levi mite ding uh a, peengkulte tawh siampite ding uh hi.
+**ZVS:** David' lasaknate tawh Levi mite ding-te a, peengkulte tawh siampite ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -262,36 +262,36 @@
 ### v28
 **EN:** And all the congregation worshipped, and the singers sang, and the trumpeters sounded: and all this continued until the burnt offering was finished.
 
-**TDB77:** A kikhawm khempeuh in bia-in, lasate in sa uh a, peengkul tumte in tum uh hi; meihal biakna a kiman mateng hihte khempeuh hih paisuak uh hi.
+**TDB77:** A kikhawm khempeuh in bia-in, lasate in sa-te a, peengkul tumte in tum-te hi; meihal biakna a kiman mateng hihte khempeuh hih paisuak-te hi.
 
-**ZVS:** A kikhawm khempeuh in Pasian bia-in, lasate in la sa uh a, peengkul tumte in peengkul tum uh hi. Meihal biakna a kiman mateng hihte khempeuh hih paisuak uh hi.
+**ZVS:** A kikhawm khempeuh in Pasian bia-in, lasate in la sa-te a, peengkul tumte in peengkul tum-te hi. Meihal biakna a kiman mateng hihte khempeuh hih paisuak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** And when they had made an end of offering, the king and all that were present with him bowed themselves, and worshipped.
 
-**TDB77:** Biak piakna a kiman ciangin kumpipa leh amah tawh a om khempeuhte in kunin bia uh hi.
+**TDB77:** Biak piakna a kiman ciangin kumpipa leh amah tawh a om khempeuhte in kunin bia-te hi.
 
-**ZVS:** Biakpiakna a kiman ciangin kumpipa leh amah tawh a om khempeuhte kunin Pasian a bia uh hi.
+**ZVS:** Biakpiakna a kiman ciangin kumpipa leh amah tawh a om khempeuhte kunin Pasian a bia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** Moreover Hezekiah the king and the princes commanded the Levites to sing praise unto the
 
-**TDB77:** Tua ciangin David’ kammalte leh thu-mupa Asaf’ kammalte zangin Topa’ tungah phatna la a sak nadingun kumpipa Hezekiah leh uliante in Levi mite thu pia uh hi. Tua ciangin amaute in lungdamna tawh phatna late sa uh a, kunin bia uh hi.
+**TDB77:** Tua ciangin David’ kammalte leh thu-mupa Asaf’ kammalte zangin Topa’ tungah phatna la a sak nadingun kumpipa Hezekiah leh uliante in Levi mite thu pia-te hi. Tua ciangin amaute in lungdamna tawh phatna late sa-te a, kunin bia-te hi.
 
-**ZVS:** Tua ciangin David' kammalte leh thumupa Asaf' kammalte zangin { Topa' } tungah phatna la a sakna dingun kumpipa Hezekiah leh uliante in Levi mite thu a pia uh hi. Tua ciangin amaute in lungdamna tawh phatna late sa uh a, tua ciangin amaute kunin Pasian a bia uh hi.
+**ZVS:** Tua ciangin David' kammalte leh thumupa Asaf' kammalte zangin { Topa' } tungah phatna la a sakna dingun kumpipa Hezekiah leh uliante in Levi mite thu a pia-te hi. Tua ciangin amaute in lungdamna tawh phatna late sa-te a, tua ciangin amaute kunin Pasian a bia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v31
 **EN:** Then Hezekiah answered and said, Now ye have consecrated yourselves unto the
 
-**TDB77:** Tua ciangin Hezekiah in, “Tu-in Topa tungah nomau mah na ki-ap khin uh hi; a nai-ah hong pai un la, Topa’ biakinn ah biak piaknate leh lungdam piaknate hong paipih un,” a ci hi. Tua ciangin a kikhawmte in biak piaknate leh lungdam piaknate hong paipih uh hi; tua ciangin a lungsim ah piak nopna lungsim a nei khempeuh in meihal biaknate hong paipih uh hi.
+**TDB77:** Tua ciangin Hezekiah in, “Tu-in Topa tungah nomau mah na ki-ap khin-te hi; a nai-ah hong pai un la, Topa’ biakinn ah biak piaknate leh lungdam piaknate hong paipih un,” a ci hi. Tua ciangin a kikhawmte in biak piaknate leh lungdam piaknate hong paipih-te hi; tua ciangin a lungsim ah piak nopna lungsim a nei khempeuh in meihal biaknate hong paipih-te hi.
 
-**ZVS:** Tua ciangin Hezekiah in, “Tu-in { Topa' } tungah nomau mah na ki-ap khin uh hi. A nai-ah hong pai un la { Topa' } biakinn-ah biakpiaknate leh lungdam piaknate hong paipih un,” a ci hi. Tua ciangin a kikhawmte in biakpiaknate leh lungdam piaknate hong paipih uh hi. Tua ciangin piaknopna lungsim a nei khempeuh in meihal biaknate hong paipih uh hi.
+**ZVS:** Tua ciangin Hezekiah in, “Tu-in { Topa' } tungah nomau mah na ki-ap khin-te hi. A nai-ah hong pai un la { Topa' } biakinn-ah biakpiaknate leh lungdam piaknate hong paipih un,” a ci hi. Tua ciangin a kikhawmte in biakpiaknate leh lungdam piaknate hong paipih-te hi. Tua ciangin piaknopna lungsim a nei khempeuh in meihal biaknate hong paipih-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -314,9 +314,9 @@
 ### v34
 **EN:** But the priests were too few, so that they could not flay all the burnt offerings: wherefore their brethren the Levites did help them, till the work was ended, and until the other priests had sanctified themselves: for the Levites were more upright in heart to sanctify themselves than the priests.
 
-**TDB77:** Ahih hangin siampite a mi tawm lua uh ahih manin meihal biaknate khempeuh a vun hawk khin zo lo uh a, siampi dangte a kisian’suah ma sung teng, a sanggam uh Levi mite in nasep a kizawh mateng amaute huh uh hi—bang hang hiam cih leh kisian’suahna thu-ah siampite sangin Levi mite ngentel zaw uh hi.
+**TDB77:** Ahih hangin siampite a mi tawm lua-te ahih manin meihal biaknate khempeuh a vun hawk khin zo lo-te a, siampi dangte a kisian’suah ma sung teng, a sanggam-te Levi mite in nasep a kizawh mateng amaute huh-te hi—bang hang hiam cih leh kisian’suahna thu-ah siampite sangin Levi mite ngentel zaw-te hi.
 
-**ZVS:** Ahih hangin siampite a mi tawmlua uh ahih manin meihal biaknate khempeuh a vun hawk khin zolo uh a, siampi dangte a kisian'suah ma sungteng, a sanggam uh Levi mite in nasep a kizawh mateng amaute huh uh hi. Bang hang hiam cih leh kisian'suahna thu-ah siampite sangin Levi mite ngentel zaw uh hi.
+**ZVS:** Ahih hangin siampite a mi tawmlua-te ahih manin meihal biaknate khempeuh a vun hawk khin zolo-te a, siampi dangte a kisian'suah ma sungteng, a sanggam-te Levi mite in nasep a kizawh mateng amaute huh-te hi. Bang hang hiam cih leh kisian'suahna thu-ah siampite sangin Levi mite ngentel zaw-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -332,9 +332,9 @@
 ### v36
 **EN:** And Hezekiah rejoiced, and all the people, that God had prepared the people: for the thing was done suddenly.
 
-**TDB77:** Pasian in mite’ adingin a bawlsak thute bangin Hezekiah leh mi khempeuh lungdam uh hi; bang hang hiam cih leh tua thu thakhatin hong piang vat hi.
+**TDB77:** Pasian in mite’ adingin a bawlsak thute bangin Hezekiah leh mi khempeuh lungdam-te hi; bang hang hiam cih leh tua thu thakhatin hong piang vat hi.
 
-**ZVS:** Pasian in mite-a' dingin a bawlsak thute hangin Hezekiah leh mi khempeuh lungdam uh hi; bang hang hiam cih leh tua thu thakhatin hong piangvat hi.
+**ZVS:** Pasian in mite-a' dingin a bawlsak thute hangin Hezekiah leh mi khempeuh lungdam-te hi; bang hang hiam cih leh tua thu thakhatin hong piangvat hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

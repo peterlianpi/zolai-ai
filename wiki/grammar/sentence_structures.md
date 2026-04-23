@@ -289,7 +289,7 @@ Zolai verbs combine with directional particles to specify movement precisely.
 
 ### Prohibition (kei ding hi)
 - `Na ne kei ding hi.` *(GEN 2:17)* — You shall not eat.
-- `Na lawng kei ding uh hi.` *(GEN 3:3)* — You shall not touch it.
+- `Na lawng kei ding-te hi.` *(GEN 3:3)* — You shall not touch it.
 - Pattern: **Verb + kei ding hi** = shall not / must not
 
 ---

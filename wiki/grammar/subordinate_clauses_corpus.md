@@ -51,7 +51,7 @@
 
 ### Just as / Even as: `mah bangin`
 - `Adam sungah mi khempeuh a sih mah bangin Khazih sungah mi khempeuh a nungtasak ding hi.` = Just as in Adam all die, even so in Christ all shall be made alive.
-- `A siangtho mah bangin na siangtho uh hen.` = Be holy as he is holy.
+- `A siangtho mah bangin na siangtho-te hen.` = Be holy as he is holy.
 - `Ka gamtat mah bangin note zong gamtat un.` = Do as I do.
 
 ### According to: `bangin`
@@ -63,7 +63,7 @@
 ## 3. Result Clauses
 
 ### So that / With the result: `ahih manin` / `manin`
-- `Amah in muan'huaina mun-ah amaute paipih ahih manin amaute lau lo uh hi.` = He led them safely so that they did not fear.
+- `Amah in muan'huaina mun-ah amaute paipih ahih manin amaute lau lo-te hi.` = He led them safely so that they did not fear.
 - `Tua ahih manin...` = With the result that... / Therefore...
 
 ---

@@ -33,9 +33,9 @@
 ### v2
 **EN:** Command the children of Israel, that they bring unto thee pure oil olive beaten for the light, to cause the lamps to burn continually.
 
-**TDB77:** “Meivak khat a tawntungin a kivak suak theih nadingin meivak adingin oliv gah a kisuzante panin sathau siangtho nang kiangah hong paipih nading uh Israel mite thu pia in.
+**TDB77:** “Meivak khat a tawntungin a kivak suak theih nadingin meivak adingin oliv gah a kisuzante panin sathau siangtho nang kiangah hong paipih nading-te Israel mite thu pia in.
 
-**ZVS:** “Meivak khat a tawntungin a kivaksuak theihna dingin meivak-a dingin oliv gah a kisuzante panin sathau siangtho nang kiangah hong paipihna ding uh Israel mite thu pia in.
+**ZVS:** “Meivak khat a tawntungin a kivaksuak theihna dingin meivak-a dingin oliv gah a kisuzante panin sathau siangtho nang kiangah hong paipihna ding-te Israel mite thu pia in.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -96,36 +96,36 @@
 ### v9
 **EN:** And it shall be Aaron's and his sons'; and they shall eat it in the holy place: for it is most holy unto him of the offerings of the
 
-**TDB77:** Tua in Topa tungah mei tawh kihal biakna sung panin amah in a tawntunga a ngah ding a siangtho pen ama kaih ahih manin, Aaron leh ama suante ading hi a, amaute in a siangtho mun khatah ne ding uh hi,” a ci hi.
+**TDB77:** Tua in Topa tungah mei tawh kihal biakna sung panin amah in a tawntunga a ngah ding a siangtho pen ama kaih ahih manin, Aaron leh ama suante ading hi a, amaute in a siangtho mun khatah ne ding-te hi,” a ci hi.
 
-**ZVS:** Tua pen { Topa' } tungah mei tawh kihal biakna sung panin amah in a tawntunga a ngah ding, a siangtho pen ama kaih ahih manin, Aaron leh a suante-a' ding hi a, amaute in a siangtho mun khatah ne ding uh hi,” a ci hi.
+**ZVS:** Tua pen { Topa' } tungah mei tawh kihal biakna sung panin amah in a tawntunga a ngah ding, a siangtho pen ama kaih ahih manin, Aaron leh a suante-a' ding hi a, amaute in a siangtho mun khatah ne ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And the son of an Israelite woman, whose father was an Egyptian, went out among the children of Israel: and this son of the Israelite woman and a man of Israel strove together in the camp;
 
-**TDB77:** Tu-in Israel mite khat’ tapa, a pa Izipt mi ahi khat, Israel mite lakah paikhia hi; Israel numei’ tapa leh Israel mi khat giahphual ah kitawng uh a,
+**TDB77:** Tu-in Israel mite khat’ tapa, a pa Izipt mi ahi khat, Israel mite lakah paikhia hi; Israel numei’ tapa leh Israel mi khat giahphual ah kitawng-te a,
 
-**ZVS:** Tu-in Israel numei khat' tapa, a pa Egypt mi ahi khat, Israel mite lakah a pai hi. Israel numei' tapa leh Israel mi khat giahphualah kitawng uh a,
+**ZVS:** Tu-in Israel numei khat' tapa, a pa Egypt mi ahi khat, Israel mite lakah a pai hi. Israel numei' tapa leh Israel mi khat giahphualah kitawng-te a,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And the Israelite woman's son blasphemed the name of the
 
-**TDB77:** Israel numei’ tapa in Min Siangtho gensia-in samsia hi. Amaute in Moses kiangah amah paipih uh hi. Ama nu’ min in Shelomith hi a, Dan minam, Dibri’ tanu ahi hi.
+**TDB77:** Israel numei’ tapa in Min Siangtho gensia-in samsia hi. Amaute in Moses kiangah amah paipih-te hi. Ama nu’ min in Shelomith hi a, Dan minam, Dibri’ tanu ahi hi.
 
-**ZVS:** Israel numei' tapa in Min Siangtho gensia-in samsia hi. Amaute in Moses kiangah amah paipih uh hi. Ama nu' min pen Shelomith hi a, Dan minam, Dibri' tanu ahi hi.
+**ZVS:** Israel numei' tapa in Min Siangtho gensia-in samsia hi. Amaute in Moses kiangah amah paipih-te hi. Ama nu' min pen Shelomith hi a, Dan minam, Dibri' tanu ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And they put him in ward, that the mind of the
 
-**TDB77:** Topa’ deihna amaute tungah a kigen mateng amaute in tua mipa khumcip uh hi.
+**TDB77:** Topa’ deihna amaute tungah a kigen mateng amaute in tua mipa khumcip-te hi.
 
-**ZVS:** { Topa' } deihna amaute tungah a kigen mateng amaute in tua mipa khumcip uh hi.
+**ZVS:** { Topa' } deihna amaute tungah a kigen mateng amaute in tua mipa khumcip-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -157,9 +157,9 @@
 ### v16
 **EN:** And he that blasphemeth the name of the
 
-**TDB77:** Topa’ min a gensia mipa kithat ding hi; mihonte khempeuh in amah deng ding uh hi; peemta hita leh tualsung mi hita leh, Min Siangtho a gensiat ciangin kithat ding hi.
+**TDB77:** Topa’ min a gensia mipa kithat ding hi; mihonte khempeuh in amah deng ding-te hi; peemta hita leh tualsung mi hita leh, Min Siangtho a gensiat ciangin kithat ding hi.
 
-**ZVS:** { Topa' } min a gensia mipa kithat ding hi. Mihonte khempeuh in amah denglum ding uh hi. Peemta hita leh tualsung mi hita leh, Min Siangtho a gensiate kithat ding hi.
+**ZVS:** { Topa' } min a gensia mipa kithat ding hi. Mihonte khempeuh in amah denglum ding-te hi. Peemta hita leh tualsung mi hita leh, Min Siangtho a gensiate kithat ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -211,18 +211,18 @@
 ### v22
 **EN:** Ye shall have one manner of law, as well for the stranger, as for one of your own country: for I am the
 
-**TDB77:** Note in peemta leh tualsung mi adingin ngeina a kibang khat na nei ding uh hi; bang hang hiam cih leh keimah in Topa na Pasian uh ka hi hi,” a ci hi.
+**TDB77:** Note in peemta leh tualsung mi adingin ngeina a kibang khat na nei ding-te hi; bang hang hiam cih leh keimah in Topa na Pasian-te ka hi hi,” a ci hi.
 
-**ZVS:** Note in peemta leh tualsung mi-a' dingin ngeina a kibang khat na nei ding uh hi; bang hang hiam cih leh kei pen { Topa } na Pasian uh ka hi hi,” a ci hi.
+**ZVS:** Note in peemta leh tualsung mi-a' dingin ngeina a kibang khat na nei ding-te hi; bang hang hiam cih leh kei pen { Topa } na Pasian-te ka hi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** And Moses spake to the children of Israel, that they should bring forth him that had cursed out of the camp, and stone him with stones. And the children of Israel did as the
 
-**TDB77:** Tua ahih ciangin Moses in Israel mite tungah thu gen hi; amaute in a samsia mipa giahphual pua lamah paipih uh a, suang tawh a deng uh hi. Topa in Moses a thupiak bangin Israel mite in hih uh hi.
+**TDB77:** Tua ahih ciangin Moses in Israel mite tungah thu gen hi; amaute in a samsia mipa giahphual pua lamah paipih-te a, suang tawh a deng-te hi. Topa in Moses a thupiak bangin Israel mite in hih-te hi.
 
-**ZVS:** Tua ahih ciangin Moses in Israel mite tungah hih thu a gen hi. Amaute in a samsia mipa giahphual pualamah paipih uh a, suang tawh a denglum uh hi. { Topa } in Moses a thupiak bangin Israel mite in a hih uh hi.
+**ZVS:** Tua ahih ciangin Moses in Israel mite tungah hih thu a gen hi. Amaute in a samsia mipa giahphual pualamah paipih-te a, suang tawh a denglum-te hi. { Topa } in Moses a thupiak bangin Israel mite in a hih-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

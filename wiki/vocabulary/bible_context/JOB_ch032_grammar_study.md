@@ -25,27 +25,27 @@
 ### v1
 **EN:** So these three men ceased to answer Job, because he was righteous in his own eyes.
 
-**TDB77:** Job amahmah dik kisa tawntung ahih manin hih mihing thumte in Job’ thugente dawn’ ding ngaihsun nawn lo uh hi.
+**TDB77:** Job amahmah dik kisa tawntung ahih manin hih mihing thumte in Job’ thugente dawn’ ding ngaihsun nawn lo-te hi.
 
-**ZVS:** Job amahmah dik kisa tawntung ahih manin hih mihing thumte in Job' thugente dawn' ding ngaihsun nawnlo uh hi.
+**ZVS:** Job amahmah dik kisa tawntung ahih manin hih mihing thumte in Job' thugente dawn' ding ngaihsun nawnlo-te hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
-**EN:** Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of Ram: against Job was his wrath kindled, because he justified himself rather than God.
+**EN:** Then was kindled the wrath of Elihu the son of Barachel the Buzite, of the kindred of gam: against Job was his wrath kindled, because he justified himself rather than God.
 
-**TDB77:** Tua ciangin Ram minam, Buz-te beh, Barakhel’ tapa Elihu a heh hong suak hi. Bang hang hiam cih leh Job amah kidiksakin Pasian mawhsak zawsop hi.
+**TDB77:** Tua ciangin gam minam, Buz-te beh, Barakhel’ tapa Elihu a heh hong suak hi. Bang hang hiam cih leh Job amah kidiksakin Pasian mawhsak zawsop hi.
 
-**ZVS:** Ahi zongin a thu a za, Ram minam, Buz-te beh, Barakhel' tapa Elihu a heh hong suak hi. Bang hang hiam cih leh Job amah kidiksakin Pasian mawhsak zawsop hi.
+**ZVS:** Ahi zongin a thu a za, gam minam, Buz-te beh, Barakhel' tapa Elihu a heh hong suak hi. Bang hang hiam cih leh Job amah kidiksakin Pasian mawhsak zawsop hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v3
 **EN:** Also against his three friends was his wrath kindled, because they had found no answer, and yet had condemned Job.
 
-**TDB77:** Job’ lawm thumte tungah zong a heh suak hi. Bang hang hiam cih leh Job a dawn’na ding uh thei lo uh ahih manin Pasian a khial tawh hong kibang hi.
+**TDB77:** Job’ lawm thumte tungah zong a heh suak hi. Bang hang hiam cih leh Job a dawn’na ding-te thei lo-te ahih manin Pasian a khial tawh hong kibang hi.
 
-**ZVS:** Job' lawm thumte tungah zong a heh suak hi. Bang hang hiam cih leh Job a dawn'na ding uh theilo uh ahih manin Pasian a khial tawh hong kibang hi.
+**ZVS:** Job' lawm thumte tungah zong a heh suak hi. Bang hang hiam cih leh Job a dawn'na ding-te theilo-te ahih manin Pasian a khial tawh hong kibang hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -104,9 +104,9 @@
 ### v10
 **EN:** Therefore I said, Hearken to me; I also will shew mine opinion.
 
-**TDB77:** Tua ahih ciangin tu-in ka thugen nong ngaih ding uh ka deih hi; keima ngaihsutna hong gensak dih un.
+**TDB77:** Tua ahih ciangin tu-in ka thugen nong ngaih ding-te ka deih hi; keima ngaihsutna hong gensak dih un.
 
-**ZVS:** Tua ahih ciangin tu-in keima thugen dingte nong ngaih ding uh ka deih hi. Keima ngaihsutna hong gensak dih un.
+**ZVS:** Tua ahih ciangin tu-in keima thugen dingte nong ngaih ding-te ka deih hi. Keima ngaihsutna hong gensak dih un.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -115,23 +115,23 @@
 
 **TDB77:** “Na thugen lai takun lungduai takin kong ngaingai a, thugen ding na zon’zon’ lai takun kong ngak hithiat hi.
 
-**ZVS:** “Thu na gengen laitakun lungduai takin kong ngaingai a, na thugen dingte uh na zon'zon' laitakun ka hong ngak hithiat hi.
+**ZVS:** “Thu na gengen laitakun lungduai takin kong ngaingai a, na thugen dingte-te na zon'zon' laitakun ka hong ngak hithiat hi.
 
 ### v12
 **EN:** Yea, I attended unto you, and, behold, there was none of you that convinced Job, or that answered his words:
 
-**TDB77:** Lim takin kong ngai a, na cihmawhna uh ka thei hi; Job’ thugente a man lohna na gentel thei kei uh hi.
+**TDB77:** Lim takin kong ngai a, na cihmawhna-te ka thei hi; Job’ thugente a man lohna na gentel thei kei-te hi.
 
-**ZVS:** Limtakin kong ngai a, na cihmawhna uh ka thei hi. Job' thugente a manlohna na gentel thei kei uh hi.
+**ZVS:** Limtakin kong ngai a, na cihmawhna-te ka thei hi. Job' thugente a manlohna na gentel thei kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v13
 **EN:** Lest ye should say, We have found out wisdom: God thrusteth him down, not man.
 
-**TDB77:** Bangci-in pilna nei-in kigen thei ding na hi uh hiam? Note in lel na hih manun Pasian in Job dawng ding hi.
+**TDB77:** Bangci-in pilna nei-in kigen thei ding na hi-te hiam? Note in lel na hih manun Pasian in Job dawng ding hi.
 
-**ZVS:** Bang hangin pilna a nei-in kigen thei ding na hi uh hiam? Note in lel na hih manun Pasian in Job dawng ding hi.
+**ZVS:** Bang hangin pilna a nei-in kigen thei ding na hi-te hiam? Note in lel na hih manun Pasian in Job dawng ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -147,18 +147,18 @@
 ### v15
 **EN:** They were amazed, they answered no more: they left off speaking.
 
-**TDB77:** “Job aw, hih mite in nang hong lel uh a, nang hong dawn’ nading thei lo uh hi.
+**TDB77:** “Job aw, hih mite in nang hong lel-te a, nang hong dawn’ nading thei lo-te hi.
 
-**ZVS:** “Job aw, hih mite in nang hong lel uh a, nang hong dawn'na ding bangmah theilo uh hi.
+**ZVS:** “Job aw, hih mite in nang hong lel-te a, nang hong dawn'na ding bangmah theilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v16
 **EN:** When I had waited, (for they spake not, but stood still, and answered no more;)
 
-**TDB77:** Amaute pau loin a om ciangun kei zong ngak lai ding ka hi hiam? Amaute in gen ding thei nawn loin ommawk uh hi.
+**TDB77:** Amaute pau loin a om ciangun kei zong ngak lai ding ka hi hiam? Amaute in gen ding thei nawn loin ommawk-te hi.
 
-**ZVS:** Amaute pauloin a om ciangun kei zong pauloin ngak lailai ding ka hi hiam? Amaute in a gen ding uh thei nawnloin ommawk uh hi.
+**ZVS:** Amaute pauloin a om ciangun kei zong pauloin ngak lailai ding ka hi hiam? Amaute in a gen ding-te thei nawnloin ommawk-te hi.
 
 **Grammar:** plural: uh marker
 

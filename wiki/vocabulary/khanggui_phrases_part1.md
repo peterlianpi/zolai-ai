@@ -28,8 +28,8 @@
 
 - `Hih laibu pen [topic] ahi hi` = This book is about [topic]
   - e.g. `Hih laibu pen Zomi Khangnote ii nasepna lianpi khat ahi hi`
-- `[Subject] in [action] nei uh hi` = [Subject] has [action]
-  - e.g. `Rev. Dr. Dam Suan Mung leh Rev. Dr. Nang Khen Khup te in Pasian tungah apna nei uh ahi hi`
+- `[Subject] in [action] nei-te hi` = [Subject] has [action]
+  - e.g. `Rev. Dr. Dam Suan Mung leh Rev. Dr. Nang Khen Khup te in Pasian tungah apna nei-te ahi hi`
 - `[Subject] tungah [action] mahmah hi` = [Subject] is very [action]
   - e.g. `Laibu a lei, a sim, a hawmsawn mimalkim khatciat tungah zongh lungdam mahmah hi`
 

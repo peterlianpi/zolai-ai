@@ -175,7 +175,7 @@
 **[]** rebekah
 **Meanings:** rebekah | isaac | grief | mind
 **CEFR:** A1
-> *amaute in Isaak leh Rebekah’ nuntakna haksasak uh hi.*
+> *amaute in Isaak leh Rebekah’ nuntakna haksasak-te hi.*
 > → Which were a grief of mind unto Isaac and to Rebekah.
 > `GEN 26:35`
 
@@ -239,7 +239,7 @@
 **Related:** paknamtui, biakna, mei, pia, hang
 **CEFR:** A1
 **Usage:** Attested 2672× across 23 Bible books.
-> *Amaute in mei tawh halin sattan gawp uh hi. Amaute*
+> *Amaute in mei tawh halin sattan gawp-te hi. Amaute*
 
 ### halkhawm
 **[n]** altar
@@ -272,7 +272,7 @@
 **Related:** mei, khuapi, innte, gam, gen
 **CEFR:** A1
 **Usage:** Attested 485× across 10 Bible books.
-> *giahphual khempeuh uh mei tawh halsak uh a,*
+> *giahphual khempeuh-te mei tawh halsak-te a,*
 
 ### haltum
 **[n]** fire
@@ -401,7 +401,7 @@
 **Related:** hezron, perez, tapate, kanaan, onan
 **CEFR:** A1
 **Usage:** Attested 242× across 6 Bible books.
-> *Perez' tapate: Hezron leh Hamul ahi uh hi.*
+> *Perez' tapate: Hezron leh Hamul ahi-te hi.*
 > → The sons of Pharez; Hezron, and Hamul.
 
 ### han
@@ -529,7 +529,7 @@
 **Meanings:** haggiah | son | asaiah | shimea
 **CEFR:** A2
 **Usage:** Attested 55× across 2 Bible books.
-> *leh a tapa Asaiah ahi uh hi.*
+> *leh a tapa Asaiah ahi-te hi.*
 
 ### haggith
 **[n]** adonijah
@@ -785,7 +785,7 @@
 **Related:** vui, pai, kivui, sung, tapa
 **CEFR:** A2
 **Usage:** Attested 2840× across 18 Bible books.
-> *Ko pawlpi numei kimkhatte zingtungin hanah pai uh a,*
+> *Ko pawlpi numei kimkhatte zingtungin hanah pai-te a,*
 > → Yea, and certain women also of our company made us astonished, which were early at the sepulchre;
 > `LUK 24:22`
 
@@ -805,7 +805,7 @@
 **Related:** kongpi, tausang, tuu, dong, pai
 **CEFR:** A2
 **Usage:** Attested 825× across 6 Bible books.
-> *tua ciangin Thong Kongpi-ah khawl uh hi.*
+> *tua ciangin Thong Kongpi-ah khawl-te hi.*
 
 ### hanani
 **[n]** hanani
@@ -813,7 +813,7 @@
 **Related:** tung, judah, hananiah, tapate, sung
 **CEFR:** A2
 **Usage:** Attested 705× across 10 Bible books.
-> *Immer-te beh sung panin Hanani leh Zebadiah ahi uh hi.*
+> *Immer-te beh sung panin Hanani leh Zebadiah ahi-te hi.*
 > → And of the sons of Immer; Hanani, and Zebadiah.
 > `EZR 10:20`
 
@@ -824,7 +824,7 @@
 **Related:** sung, hopih, tapate, tapa, siampite
 **CEFR:** A2
 **Usage:** Attested 1785× across 10 Bible books.
-> *Bebai-te beh panin Jehohanan, Hananiah, Zabbai, leh Athlai ahi uh hi.*
+> *Bebai-te beh panin Jehohanan, Hananiah, Zabbai, leh Athlai ahi-te hi.*
 > → Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai.
 > `EZR 10:28`
 
@@ -832,7 +832,7 @@
 **[]** elioenai
 **Meanings:** elioenai | miniamin | michaiah | zechariah | hananiah | trumpets
 **CEFR:** A2
-> *leh Hananiahte a peengkulte uh tawh om uh a,*
+> *leh Hananiahte a peengkulte-te tawh om-te a,*
 > `NEH 12:41`
 
 ### hangsan
@@ -917,7 +917,7 @@
 **Variants:** hanciamna
 **CEFR:** B1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *Kote in ka hanciamna uh khiamin nasep*
+> *Kote in ka hanciamna-te khiamin nasep*
 
 ### haiciam
 **[]** take
@@ -959,7 +959,7 @@
 **Related:** haipi, haipian, haipau gawp, haipih
 **CEFR:** B1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Mipilte in a theihna uh im khinkhian*
+> *Mipilte in a theihna-te im khinkhian*
 
 ### haipaute
 **[n]** prating
@@ -999,7 +999,7 @@
 **Meanings:** themselves | departed | eyes | whoring | after | idols
 **CEFR:** B1
 **Usage:** Attested 160× across 2 Bible books.
-> *om ding uh hi. Tua bangin salin*
+> *om ding-te hi. Tua bangin salin*
 
 ### hakkolte
 **[n]** pass
@@ -1037,7 +1037,7 @@
 **Meanings:** devoured | take | sword | sons | daughters | residue
 **CEFR:** B1
 **Usage:** Attested 260× across 4 Bible books.
-> *hingtangun hallum ding uh hi.*
+> *hingtangun hallum ding-te hi.*
 
 ### hallup
 **[]** son
@@ -1136,7 +1136,7 @@
 **Meanings:** thou | purged | filthiness | because | wast | shalt
 **CEFR:** B1
 **Usage:** Attested 235× across 4 Bible books.
-> *adangte in Pasian' sapna thudonlo uh hi.*
+> *adangte in Pasian' sapna thudonlo-te hi.*
 
 ### hanciamin
 **[n]** reason
@@ -1144,7 +1144,7 @@
 **Related:** hang, theihna, cih, gamtat, sepna
 **CEFR:** B1
 **Usage:** Attested 1065× across 20 Bible books.
-> *Gitlohna pelhin hoih gamtat uh hen la*
+> *Gitlohna pelhin hoih gamtat-te hen la*
 
 ### hanciampa
 **[n]** evil
@@ -1292,7 +1292,7 @@
 **Meanings:** fear | watch | keepers | did | going | behold
 **CEFR:** B2
 **Usage:** Attested 50× across 2 Bible books.
-> *Hancingte in kihtalua uh ahih manin lingin a sibup uh hi.*
+> *Hancingte in kihtalua-te ahih manin lingin a sibup-te hi.*
 > → And for fear of him the keepers did shake, and became as dead men.
 
 ### hangah
@@ -1307,7 +1307,7 @@
 **[]** offended
 **Meanings:** offended | fault | consolation | god | might | many
 **CEFR:** B2
-> *sim khit uh ciangin tua noptuamna thute hanginah*
+> *sim khit-te ciangin tua noptuamna thute hanginah*
 > `ACT 15:31`
 
 ### hansuahin
@@ -1349,7 +1349,7 @@
 **[]** called
 **Meanings:** called | jesus
 **CEFR:** B2
-> *Hausate in sangpi thuneihkhum uh hi.*
+> *Hausate in sangpi thuneihkhum-te hi.*
 
 ### hawkin
 **[n]** off
@@ -1364,7 +1364,7 @@
 **Meanings:** skin | off | evil | pluck | flesh | bones
 **CEFR:** B2
 **Usage:** Attested 165× across 4 Bible books.
-> *a guh uh na hing kheuh uh hi.*
+> *a guh-te na hing kheuh-te hi.*
 
 ### hehmel
 **[]** dark
@@ -1387,20 +1387,20 @@
 ### hehte
 **[]** missing
 **CEFR:** B2
-> *Mi hehte in mawtawte lepse-in dawr dawkate a hamsia uh hi.*
+> *Mi hehte in mawtawte lepse-in dawr dawkate a hamsia-te hi.*
 
 ### hehu
 **[]** city
 **Meanings:** city | into | jerusalem | moved | come | saying
 **CEFR:** B2
-> *A sial te uh patau in, kising pah hehu uh hi.*
+> *A sial te-te patau in, kising pah hehu-te hi.*
 
 ### hencipsa
 **[n]** counsellors
 **Meanings:** counsellors | king | astonished | rose | haste | spake
 **CEFR:** B2
 **Usage:** Attested 250× across 2 Bible books.
-> *leh Abednego-te hencipsa-in meikuangpi laizangah a kiasuk uh hi.*
+> *leh Abednego-te hencipsa-in meikuangpi laizangah a kiasuk-te hi.*
 
 ### hensuk
 **[n]** lead
@@ -1534,7 +1534,7 @@
 **Meanings:** take | therefore | perceived | would | come | force
 **CEFR:** C1
 **Usage:** Attested 120× across 2 Bible books.
-> *Note in na vun uh na atna dingun*
+> *Note in na vun-te na atna dingun*
 
 ### hahkatpa
 **[]** much
@@ -1653,7 +1653,7 @@
 **Meanings:** son | joseph | supposed | heli | matthat | levi
 **CEFR:** C1
 **Usage:** Attested 85× across 2 Bible books.
-> *ci-in a ngaihsun uh hi. Josef' pa Heli,*
+> *ci-in a ngaihsun-te hi. Josef' pa Heli,*
 
 ### hermas
 **[n]** phlegon
@@ -1676,7 +1676,7 @@
 **Meanings:** phygellus | away | whom | hermogenes | thou | knowest
 **CEFR:** C1
 **Usage:** Attested 65× across 2 Bible books.
-> *tuate lakah Figelas leh Hermogenes-te zong kihel uh hi.*
+> *tuate lakah Figelas leh Hermogenes-te zong kihel-te hi.*
 
 ### herodion
 **[n]** herodion
@@ -1926,7 +1926,7 @@ ngiat
 **Meanings:** piece | broiled | fish | gave | honeycomb
 **CEFR:** C2
 **Usage:** Attested 40× across 2 Bible books.
-> *amaute in zong ngasa haan'keu khat pia uh a,*
+> *amaute in zong ngasa haan'keu khat pia-te a,*
 > → And they gave him a piece of a broiled fish, and of an honeycomb.
 
 ### haanciam

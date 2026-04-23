@@ -32,9 +32,9 @@
 ### v2
 **EN:** And all the brethren which are with me, unto the churches of Galatia:
 
-**TDB77:** keimah tawh a omkhawm ute naute khempeuh in Galati gamah a om pawlpite kiangah ka hong zasak uh hi.
+**TDB77:** keimah tawh a omkhawm ute naute khempeuh in Galati gamah a om pawlpite kiangah ka hong zasak-te hi.
 
-**ZVS:** Kei tawh a omkhawm i Khristianpihte in zong note hong hopih uh hi.
+**ZVS:** Kei tawh a omkhawm i Khristianpihte in zong note hong hopih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -66,7 +66,7 @@
 ### v6
 **EN:** I marvel that ye are so soon removed from him that called you into the grace of Christ unto another gospel:
 
-**TDB77:** Khazih’ hehpihna thupha hangah note hong sampa tawh hih zah taka manlangin kikhenin ‘lungdamna thu’ na sang uh ahih ciangin lamdang ka sa hi!
+**TDB77:** Khazih’ hehpihna thupha hangah note hong sampa tawh hih zah taka manlangin kikhenin ‘lungdamna thu’ na sang-te ahih ciangin lamdang ka sa hi!
 
 **ZVS:** A hong hehpihna tawh Khrih hangin note a hong sam Pasian nusiakik pakin lungdamna thudang khat na sang malam na hih manun lamdang ka sa mahmah hi.
 
@@ -75,25 +75,25 @@
 ### v7
 **EN:** Which is not another; but there be some that trouble you, and would pervert the gospel of Christ.
 
-**TDB77:** Tua Lungdamna Thu in ‘lungdamna thu dang’ ahi kei hi. Note hong bawlsia-in Khazih’ Lungdamna Thu a lumlet nuam mi kimkhat a om uh hi.
+**TDB77:** Tua Lungdamna Thu in ‘lungdamna thu dang’ ahi kei hi. Note hong bawlsia-in Khazih’ Lungdamna Thu a lumlet nuam mi kimkhat a om-te hi.
 
-**ZVS:** A taktakin ci lehang lungdamna thu adang a om hilo a, mi pawlkhatte in note' lungsim hong toknawi-in, Khrih hanga lungdamna thu hei-in thudang tawh laihnuam uh ahih manin, tua amau' deih thu pen lungdamna thu a cihsak mawkmawk ka hi hi.
+**ZVS:** A taktakin ci lehang lungdamna thu adang a om hilo a, mi pawlkhatte in note' lungsim hong toknawi-in, Khrih hanga lungdamna thu hei-in thudang tawh laihnuam-te ahih manin, tua amau' deih thu pen lungdamna thu a cihsak mawkmawk ka hi hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** But though we, or an angel from heaven, preach any other gospel unto you than that which we have preached unto you, let him be accursed.
 
-**TDB77:** Ahih hangin nomau kiangah ka hong hilh uh Lungdamna Thu longal adang Lungdamna Thu kote ahi zongin, vantung pana hong pai vantungmi khat ahi zongin, hong hilh mi in hamsiatna thuak ta hen.
+**TDB77:** Ahih hangin nomau kiangah ka hong hilh-te Lungdamna Thu longal adang Lungdamna Thu kote ahi zongin, vantung pana hong pai vantungmi khat ahi zongin, hong hilh mi in hamsiatna thuak ta hen.
 
-**ZVS:** Note tungah ka hong hilhsa uh lungdamna thu tawh a kilehngatin, kote-a kipan vantung mi dongin thudang a hong hilh a om leh tua a hong hilh mipa hell khuk sungah tung ta hen!
+**ZVS:** Note tungah ka hong hilhsa-te lungdamna thu tawh a kilehngatin, kote-a kipan vantung mi dongin thudang a hong hilh a om leh tua a hong hilh mipa hell khuk sungah tung ta hen!
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v9
 **EN:** As we said before, so say I now again, If any man preach any other gospel unto you than that ye have received, let him be accursed.
 
-**TDB77:** Na san’sa uh Lungdamna Thu sim loh lungdamna thu a dang, mi khatpeuh peuh in hong hilh leh, tua mi in hamsiatna thuak ta hen, ci-in ka cihsa bangin tu-in ka ci kik hi.
+**TDB77:** Na san’sa-te Lungdamna Thu sim loh lungdamna thu a dang, mi khatpeuh peuh in hong hilh leh, tua mi in hamsiatna thuak ta hen, ci-in ka cihsa bangin tu-in ka ci kik hi.
 
 **ZVS:** Ka hong gen ngeisa mah bangin ka hong gen kikin-ah: Note' san'sa lungdamna thu tawh a kilehngatin thudang a hong hilh mi peuhpeuh hell khuksung tung ta hen!
 
@@ -104,7 +104,7 @@
 
 **TDB77:** Tu-in keimah in mi’ deihna zui ka hi hiam? Ahih kei leh, Pasian’ deihna zui ka hi hiam? Mite’ pahtak ding hanciam ka hi hiam? Mite’ pahtak nading hanciam ka hih leh, Khazih’ sila ka hi kei hi.
 
-**ZVS:** Hih bangin thu ka gen ciangin mite' hong pahtak theihna ding a zong tawh kibang na hong sa uh hiam? Mite' pahtak ding a ut ka hi kei a, Pasian' hong pahtak ding a hanciam ka hi hi. Mihingte' hong pahtak theihna dingin a gamta hi zenzen leng, Khrih' nasem ka hi kei ding hi.
+**ZVS:** Hih bangin thu ka gen ciangin mite' hong pahtak theihna ding a zong tawh kibang na hong sa-te hiam? Mite' pahtak ding a ut ka hi kei a, Pasian' hong pahtak ding a hanciam ka hi hi. Mihingte' hong pahtak theihna dingin a gamta hi zenzen leng, Khrih' nasem ka hi kei ding hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei
 
@@ -113,7 +113,7 @@
 
 **TDB77:** Ute naute aw, keimah in ka hilh Lungdamna Thu in mite’ thu ahi kei hi,
 
-**ZVS:** Sanggamte aw, keima hilh lungdamna thu pen mihingte tung panin a hong kipan ahihlohna thu na theihding uh ka deih hi.
+**ZVS:** Sanggamte aw, keima hilh lungdamna thu pen mihingte tung panin a hong kipan ahihlohna thu na theihding-te ka deih hi.
 
 **Grammar:** negation: kei
 
@@ -129,18 +129,18 @@
 ### v13
 **EN:** For ye have heard of my conversation in time past in the Jews' religion, how that beyond measure I persecuted the church of God, and wasted it:
 
-**TDB77:** Bang hang hiam na cih uh leh, nidang lai-in Judah ngeina zui-in ka om a, ka gamtat ahi Pasian’ pawlpi a kigen thei loin ka bawlsiat a, ka sukgawp thu ahi zongin,
+**TDB77:** Bang hang hiam na cih-te leh, nidang lai-in Judah ngeina zui-in ka om a, ka gamtat ahi Pasian’ pawlpi a kigen thei loin ka bawlsiat a, ka sukgawp thu ahi zongin,
 
-**ZVS:** Jew biakna sungah ka omlai hunin Pasian' pawlpi tuamtuamte bawlsiat ding kin mahmahin, a beimangna ding uh ka hanciamna,
+**ZVS:** Jew biakna sungah ka omlai hunin Pasian' pawlpi tuamtuamte bawlsiat ding kin mahmahin, a beimangna ding-te ka hanciamna,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v14
 **EN:** And profited in the Jews' religion above many my equals in mine own nation, being more exceedingly zealous of the traditions of my fathers.
 
-**TDB77:** ka pu ka pate’ khut tung pan ka ngah ngeina siamin ka zuih zawk thu ahi zongin note in na thei uh hi.
+**TDB77:** ka pu ka pate’ khut tung pan ka ngah ngeina siamin ka zuih zawk thu ahi zongin note in na thei-te hi.
 
-**ZVS:** leh ka khan'gualte lakah Jew biakna lamah a makai pen ka hihna thu, leh ka pu ka pate uh tang ngeinate a nakkin mahmah ka hihna-a kipanin ka pianzia ngeisate khempeuh na zaksa na theihsa uh ahi hi.
+**ZVS:** leh ka khan'gualte lakah Jew biakna lamah a makai pen ka hihna thu, leh ka pu ka pate-te tang ngeinate a nakkin mahmah ka hihna-a kipanin ka pianzia ngeisate khempeuh na zaksa na theihsa-te ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -206,27 +206,27 @@
 ### v22
 **EN:** And was unknown by face unto the churches of Judaea which were in Christ:
 
-**TDB77:** Judah gama Khazih sungah a om pawlpi mite in ka meel-in hong ciamteh uh hi loin,
+**TDB77:** Judah gama Khazih sungah a om pawlpi mite in ka meel-in hong ciamteh-te hi loin,
 
-**ZVS:** Tua hun ciangdong Judea gama om Khrih pawlpi tuamtuamte in ka meelin hong thei nailo uh a,
+**ZVS:** Tua hun ciangdong Judea gama om Khrih pawlpi tuamtuamte in ka meelin hong thei nailo-te a,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v23
 **EN:** But they had heard only, That he which persecuted us in times past now preacheth the faith which once he destroyed.
 
-**TDB77:** “Eite hong bawlsia ngei mi in nidang lai a, a sukgawpsa upna thu, tu-in amahmah in a hilh hi,” ci-in a zakna bek uh tawh
+**TDB77:** “Eite hong bawlsia ngei mi in nidang lai a, a sukgawpsa upna thu, tu-in amahmah in a hilh hi,” ci-in a zakna bek-te tawh
 
-**ZVS:** “Ei a hong bawlsia ngei mipa in a maiman'sak nop Khrih upna thu mah a hilhhilh hi,” ci-in a kigenna thu a zak bek uh ahi hi.
+**ZVS:** “Ei a hong bawlsia ngei mipa in a maiman'sak nop Khrih upna thu mah a hilhhilh hi,” ci-in a kigenna thu a zak bek-te ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v24
 **EN:** And they glorified God in me.
 
-**TDB77:** keimah hangin Pasian’ min a phat uh hi.
+**TDB77:** keimah hangin Pasian’ min a phat-te hi.
 
-**ZVS:** Tua hi a, keima tunga thupiang hangin amaute in Pasian' min a phat uh hi.
+**ZVS:** Tua hi a, keima tunga thupiang hangin amaute in Pasian' min a phat-te hi.
 
 **Grammar:** plural: uh marker
 

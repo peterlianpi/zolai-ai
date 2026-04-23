@@ -175,18 +175,18 @@
 ### v19
 **EN:** Also thou shalt lie down, and none shall make thee afraid; yea, many shall make suit unto thee.
 
-**TDB77:** Kuamah kihtak nei loin nuam takin na om ding a, mi tampi in nangma maipha hong zong ding uh hi.
+**TDB77:** Kuamah kihtak nei loin nuam takin na om ding a, mi tampi in nangma maipha hong zong ding-te hi.
 
-**ZVS:** Kuamah kihtak neiloin nuamtakin na om ding a, mi tampi in nangma maipha hong zong ding uh hi.
+**ZVS:** Kuamah kihtak neiloin nuamtakin na om ding a, mi tampi in nangma maipha hong zong ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** But the eyes of the wicked shall fail, and they shall not escape, and their hope shall be as the giving up of the ghost.
 
-**TDB77:** Ahih hangin migilote ahih leh cimawhin khuadak ding uh a, suahtak nading lampi mu lo ding uh hi. Amau’ ngah ding ahih leh sihna bek ahi hi,” a ci hi.
+**TDB77:** Ahih hangin migilote ahih leh cimawhin khuadak ding-te a, suahtak nading lampi mu lo ding-te hi. Amau’ ngah ding ahih leh sihna bek ahi hi,” a ci hi.
 
-**ZVS:** Ahih hangin migilote ahih leh cimawhin khuadak ding uh a, suahtakna ding lampi mulo ding uh hi. Amau' ngah ding ahih leh sihna bek ahi hi,” a ci hi.
+**ZVS:** Ahih hangin migilote ahih leh cimawhin khuadak ding-te a, suahtakna ding lampi mulo ding-te hi. Amau' ngah ding ahih leh sihna bek ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

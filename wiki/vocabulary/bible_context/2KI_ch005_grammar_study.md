@@ -36,9 +36,9 @@
 ### v2
 **EN:** And the Syrians had gone out by companies, and had brought away captive out of the land of Israel a little maid; and she waited on Naaman's wife.
 
-**TDB77:** Tu-in Siria mite in a galsimna khat uhah Israel panin numeino khat ciahpih uh a, tua nu in Na-aman’ zi na sem hi.
+**TDB77:** Tu-in Siria mite in a galsimna khat uhah Israel panin numeino khat ciahpih-te a, tua nu in Na-aman’ zi na sem hi.
 
-**ZVS:** Syria mite in a galsimna khat uhah Israel gam panin numeino khat ciahpih uh a, tuanu in Naaman' zi na' a sem hi.
+**ZVS:** Syria mite in a galsimna khat uhah Israel gam panin numeino khat ciahpih-te a, tuanu in Naaman' zi na' a sem hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -135,9 +135,9 @@
 ### v13
 **EN:** And his servants came near, and spake unto him, and said, My father, if the prophet had bid thee do some great thing, wouldest thou not have done it? how much rather then, when he saith to thee, Wash, and be clean?
 
-**TDB77:** Ahih hangin a nasemte a nai-ah hong pai-in ama kiangah, “Ka pa aw, kamsangpa in na lian khat hih dingin hong sawl leh hih ding hilo na hi hiam? Tua ahih ciangin amah in nang kiangah, ‘Kisil in la, siang in,’ hong cih ciangin na hih zawk ding bangzah ta-in kilawm hilo ahi hiam?” a ci uh hi.
+**TDB77:** Ahih hangin a nasemte a nai-ah hong pai-in ama kiangah, “Ka pa aw, kamsangpa in na lian khat hih dingin hong sawl leh hih ding hilo na hi hiam? Tua ahih ciangin amah in nang kiangah, ‘Kisil in la, siang in,’ hong cih ciangin na hih zawk ding bangzah ta-in kilawm hilo ahi hiam?” a ci-te hi.
 
-**ZVS:** Ahih hangin a nasemte a nai-ah hong pai-in ama kiangah, “Ka topa aw, kamsangpa in na lian khat a sem dingin hong sawl hi leh sem ding hilo na hi hiam? Tua ahih ciangin amah in nang kiangah, ‘Kisil in la siang in,’ hong cih ciangin na hih ding bangzah ta-in kilawmzaw hilo ahi hiam?” a ci uh hi.
+**ZVS:** Ahih hangin a nasemte a nai-ah hong pai-in ama kiangah, “Ka topa aw, kamsangpa in na lian khat a sem dingin hong sawl hi leh sem ding hilo na hi hiam? Tua ahih ciangin amah in nang kiangah, ‘Kisil in la siang in,’ hong cih ciangin na hih ding bangzah ta-in kilawmzaw hilo ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -155,7 +155,7 @@
 
 **TDB77:** Tua ciangin Pasian’ mipa kiangah amah leh a pawlte khempeuh kileh kikin amah hong pai-in ama mai-ah ding hi; tua ciangin amah in, “En in, leitung khempeuhah Pasian om loin, Israel sungah om hi, ci-in ka thei hi; tua ahih ciangin tu-in na nasempa tung panin letsong khat hong sang in,” a ci hi.
 
-**ZVS:** Tua ciangin Pasian' mipa kiangah amah leh a pawlte khempeuh kileh kikin ama mai-ah ding uh hi. Tua ciangin amah in, “En in, leitung mundang khempeuhah Pasian omloin, Israel sung bekah om hi, ci-in ka thei hi. Tua ahih ciangin tu-in na nasempa tung panin letsong khat hong sang in,” a ci hi.
+**ZVS:** Tua ciangin Pasian' mipa kiangah amah leh a pawlte khempeuh kileh kikin ama mai-ah ding-te hi. Tua ciangin amah in, “En in, leitung mundang khempeuhah Pasian omloin, Israel sung bekah om hi, ci-in ka thei hi. Tua ahih ciangin tu-in na nasempa tung panin letsong khat hong sang in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -225,18 +225,18 @@
 ### v23
 **EN:** And Naaman said, Be content, take two talents. And he urged him, and bound two talents of silver in two bags, with two changes of garments, and laid them upon two of his servants; and they bare them before him.
 
-**TDB77:** Tua ciangin Na-aman in, “Talen nih hong sang nuam hoh in,” a ci hi. Tua ciangin amah in a san’ ding kunh a, ngun talen nih ip nihin henin pawi puan nih tawh, a nasem nihte tungah guan hi; tua ciangin amaute in Gehazi’ mai-ah tuate pua uh hi.
+**TDB77:** Tua ciangin Na-aman in, “Talen nih hong sang nuam hoh in,” a ci hi. Tua ciangin amah in a san’ ding kunh a, ngun talen nih ip nihin henin pawi puan nih tawh, a nasem nihte tungah guan hi; tua ciangin amaute in Gehazi’ mai-ah tuate pua-te hi.
 
-**ZVS:** Tua ciangin Naaman in, “Talen nih hong sang nuam hoh in,” a ci hi. Tua ciangin amah in a san' ding kunh a, ngun talen nih ip nihin henin pawipuan nih tawh, a nasem nihte tungah a guan' hi. Tua ciangin amaute in Gehazi' mai-ah tuate pua uh hi.
+**ZVS:** Tua ciangin Naaman in, “Talen nih hong sang nuam hoh in,” a ci hi. Tua ciangin amah in a san' ding kunh a, ngun talen nih ip nihin henin pawipuan nih tawh, a nasem nihte tungah a guan' hi. Tua ciangin amaute in Gehazi' mai-ah tuate pua-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
 ### v24
 **EN:** And when he came to the tower, he took them from their hand, and bestowed them in the house: and he let the men go, and they departed.
 
-**TDB77:** Tua ciangin mual tungah amah a tun’ ciangin amah in amaute’ tung panin tuate la-in inn sungah koih hi; tua ciangin mite sawl khia a, amaute kihem uh hi.
+**TDB77:** Tua ciangin mual tungah amah a tun’ ciangin amah in amaute’ tung panin tuate la-in inn sungah koih hi; tua ciangin mite sawl khia a, amaute kihem-te hi.
 
-**ZVS:** Tua ciangin mualtungah amah a tun' ciangin amah in amaute tung panin tuate la-in inn sungah koih hi. Tua ciangin a mite sawlkhia a, amaute kihem uh hi.
+**ZVS:** Tua ciangin mualtungah amah a tun' ciangin amah in amaute tung panin tuate la-in inn sungah koih hi. Tua ciangin a mite sawlkhia a, amaute kihem-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

@@ -80,7 +80,7 @@
 ### v8
 **EN:** Neither will I make the feet of Israel move any more out of the land which I gave their fathers; only if they will observe to do according to all that I have commanded them, and according to all the law that my servant Moses commanded them.
 
-**TDB77:** Tua ciangin { Topa } in David leh a tapa Solomon tungah, “Israel minam khempeuh sung panin ka teelkhiat hih biakinn sung leh Jerusalem-ah ka min ka koih tawntung ding hi. Amaute ka thupiaksa khempeuh tawh kizui, leh ka nasempa Moses in amaute a piak thukham khempeuh tawh kizui-in gamtat ding a kingaihsut nak uh leh, a pu a pate uh tungah ka piak gamsungah Israel mite mi vakvai ka hisak nawn kei ding hi,” a cihna biakinn sungah amah in ama bawlsa a kiseek Asherah milim a koih hi.
+**TDB77:** Tua ciangin { Topa } in David leh a tapa Solomon tungah, “Israel minam khempeuh sung panin ka teelkhiat hih biakinn sung leh Jerusalem-ah ka min ka koih tawntung ding hi. Amaute ka thupiaksa khempeuh tawh kizui, leh ka nasempa Moses in amaute a piak thukham khempeuh tawh kizui-in gamtat ding a kingaihsut nak-te leh, a pu a pate-te tungah ka piak gamsungah Israel mite mi vakvai ka hisak nawn kei ding hi,” a cihna biakinn sungah amah in ama bawlsa a kiseek Asherah milim a koih hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 
@@ -89,7 +89,7 @@
 
 **TDB77:** Ahih hangin amaute in thu ngai lo a, Topa in Israel mite’ mai-ah a suksiat minamte’ gamtatna sangin a siazaw a gamtat nadingun Manasseh in amaute zol hi.
 
-**ZVS:** Ahih hangin amaute in thu ngailo uh a, { Topa } in Israel-te' mai-ah a suksiat minamte' gamtatna sangin a siahuaizaw a gamtatna dingun Manasseh in amaute a zol hi.
+**ZVS:** Ahih hangin amaute in thu ngailo-te a, { Topa } in Israel-te' mai-ah a suksiat minamte' gamtatna sangin a siahuaizaw a gamtatna dingun Manasseh in amaute a zol hi.
 
 ### v10
 **EN:** And the
@@ -130,18 +130,18 @@
 ### v14
 **EN:** And I will forsake the remnant of mine inheritance, and deliver them into the hand of their enemies; and they shall become a prey and a spoil to all their enemies;
 
-**TDB77:** Tua ciangin keimah in ka gamh a om laite paai khia-in amau’ galte’ tungah ka pia ding a, amaute in a galte’ adingin a mat ding mi leh vankiate suak ding uh hi;
+**TDB77:** Tua ciangin keimah in ka gamh a om laite paai khia-in amau’ galte’ tungah ka pia ding a, amaute in a galte’ adingin a mat ding mi leh vankiate suak ding-te hi;
 
-**ZVS:** Tua ciangin keimah in ka mi a omlaite paiikhia-in amau' galte tungah ka pia ding a, amaute pen a galte' mat ding mi leh vankiate suak ding uh hi;
+**ZVS:** Tua ciangin keimah in ka mi a omlaite paiikhia-in amau' galte tungah ka pia ding a, amaute pen a galte' mat ding mi leh vankiate suak ding-te hi;
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
 ### v15
 **EN:** Because they have done that which was evil in my sight, and have provoked me to anger, since the day their fathers came forth out of Egypt, even unto this day.
 
-**TDB77:** bang hang hiam cih leh amaute in a pu a pate uh Izipt panin hong paikhiat akipan tu ni dongin keima muhna ah a sia gamta-in kei hong hehsak uh hi,” a ci hi.
+**TDB77:** bang hang hiam cih leh amaute in a pu a pate-te Izipt panin hong paikhiat akipan tu ni dongin keima muhna ah a sia gamta-in kei hong hehsak-te hi,” a ci hi.
 
-**ZVS:** bang hang hiam cih leh a pu a pate uh Egypt panin hong paikhiata kipan tuni dongin keima muhna-ah a sia gamta-in kei hong hehsak uh hi,” a ci hi.
+**ZVS:** bang hang hiam cih leh a pu a pate-te Egypt panin hong paikhiata kipan tuni dongin keima muhna-ah a sia gamta-in kei hong hehsak-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -207,18 +207,18 @@
 ### v23
 **EN:** And the servants of Amon conspired against him, and slew the king in his own house.
 
-**TDB77:** Tua ciangin Amon’ nasemte in amah sawmsim uh a, ama inn sungah kumpipa that uh hi.
+**TDB77:** Tua ciangin Amon’ nasemte in amah sawmsim-te a, ama inn sungah kumpipa that-te hi.
 
-**ZVS:** Tua ciangin Amon' nasemte in amah sawmsim uh a, ama inn sungah kumpipa a that uh hi.
+**ZVS:** Tua ciangin Amon' nasemte in amah sawmsim-te a, ama inn sungah kumpipa a that-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v24
 **EN:** And the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.
 
-**TDB77:** Ahih hangin tua gam mite in kumpi Amon a sawmsimte khempeuh that uh a, tua ciangin tua gam mite in ama tangin a tapa Josiah kumpi-in koih uh hi.
+**TDB77:** Ahih hangin tua gam mite in kumpi Amon a sawmsimte khempeuh that-te a, tua ciangin tua gam mite in ama tangin a tapa Josiah kumpi-in koih-te hi.
 
-**ZVS:** Ahih hangin tua gammite in Kumpi Amon a sawmsimte khempeuh that leuleu uh a, tua ciangin tua gammite in ama tangin a tapa Josiah kumpi-in a koih uh hi.
+**ZVS:** Ahih hangin tua gammite in Kumpi Amon a sawmsimte khempeuh that leuleu-te a, tua ciangin tua gammite in ama tangin a tapa Josiah kumpi-in a koih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

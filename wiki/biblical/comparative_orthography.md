@@ -19,13 +19,13 @@ This document captures the stylistic and orthographic shifts between the Traditi
 ## 3. Stylistic Comparison (1 John 1:1)
 
 ### Traditional (TDB77)
-> "A cil panin piang a, komau in za-in, ka mittang uh tawh mu-in, a tel takpi enin, ka khut uh tawh ka lawn’ khitsa uh nuntakna Thu tawh kipawl thute..."
+> "A cil panin piang a, komau in za-in, ka mittang-te tawh mu-in, a tel takpi enin, ka khut-te tawh ka lawn’ khitsa-te nuntakna Thu tawh kipawl thute..."
 
 - **Tone:** Rhythmic, heavy use of `-in` for coordination.
 - **Archaic terms:** *A cil panin* (from the start/origin).
 
 ### Modern (ZVS 2018)
-> "Leitung pian'cil lai peka kipanin a omsa ahi nuntakna a piathei Thu tawh kisai, note kiangah ka hong gelh uh hi."
+> "Leitung pian'cil lai peka kipanin a omsa ahi nuntakna a piathei Thu tawh kisai, note kiangah ka hong gelh-te hi."
 
 - **Tone:** Descriptive, formal literary style.
 - **Modern terms:** *Pian'cil lai peka* (from the very beginning of creation).

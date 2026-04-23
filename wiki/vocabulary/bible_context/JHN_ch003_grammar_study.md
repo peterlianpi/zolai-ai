@@ -35,9 +35,9 @@
 ### v2
 **EN:** The same came to Jesus by night, and said unto him, Rabbi, we know that thou art a teacher come from God: for no man can do these miracles that thou doest, except God be with him.
 
-**TDB77:** Tua pa zan lai takin Zeisu kiangah pai a, “Rabbi aw, nangmah in Pasian kiang pan hong pai thuhilhpa na hi cih kote in ka thei uh hi. Bang hang hiam na cih leh, na bawl nalamdangte Pasian in nangmah tawh a omkhawm kei leh, kuamah in a bawl thei kei ding hi,” a ci hi.
+**TDB77:** Tua pa zan lai takin Zeisu kiangah pai a, “Rabbi aw, nangmah in Pasian kiang pan hong pai thuhilhpa na hi cih kote in ka thei-te hi. Bang hang hiam na cih leh, na bawl nalamdangte Pasian in nangmah tawh a omkhawm kei leh, kuamah in a bawl thei kei ding hi,” a ci hi.
 
-**ZVS:** Khatvei zan khuamial laitakin Jesuh kiangah va pai a, “Sia aw, mi khat peuhpeuh Pasian in ompihlo hi leh hih na lamdangte kuamah in bawl theilo ding ahih manin nang pen Pasian' hong sawl siapa na hihna ka hong thei uh hi,” a ci hi.
+**ZVS:** Khatvei zan khuamial laitakin Jesuh kiangah va pai a, “Sia aw, mi khat peuhpeuh Pasian in ompihlo hi leh hih na lamdangte kuamah in bawl theilo ding ahih manin nang pen Pasian' hong sawl siapa na hihna ka hong thei-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -91,7 +91,7 @@
 
 **TDB77:** Tua nung ciangin Zeisu a nungzuite tawh Judah gamah pai a, tuasan takah amaute tawh omkhawmin a baptaiz hi.
 
-**ZVS:** Hih thute khit ciangin Jesuh leh a nungzuite Judea gamah pai uh a, tua gamah a nungzuite tawh omin mite tui a phum hi.
+**ZVS:** Hih thute khit ciangin Jesuh leh a nungzuite Judea gamah pai-te a, tua gamah a nungzuite tawh omin mite tui a phum hi.
 
 ### v23
 **EN:** And John also was baptizing in Aenon near to Salim, because there was much water there: and they came, and were baptized.
@@ -103,27 +103,27 @@
 ### v24
 **EN:** For John was not yet cast into prison.
 
-**TDB77:** Mite hong pai uh a, a kibaptaiz uh hi. Bang hang hiam i cih leh, Johan thong sungah kikhia nai lo hi.
+**TDB77:** Mite hong pai-te a, a kibaptaiz-te hi. Bang hang hiam i cih leh, Johan thong sungah kikhia nai lo hi.
 
-**ZVS:** Tuiphumpa Johan zong thong kia nailo hi. Tua hi a, tui tampi omna Salim khua kiang Ainon kici munah Johan in mite tuiphum a, ama kiangah mite hong pai-in tui a kiphum uh hi.
+**ZVS:** Tuiphumpa Johan zong thong kia nailo hi. Tua hi a, tui tampi omna Salim khua kiang Ainon kici munah Johan in mite tuiphum a, ama kiangah mite hong pai-in tui a kiphum-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** Then there arose a question between some of John's disciples and the Jews about purifying.
 
-**TDB77:** Tua ahih ciangin Johan’ nungzuite in siangtho biakna thu Judah mi khat tawh a kiseel uh ciangin,
+**TDB77:** Tua ahih ciangin Johan’ nungzuite in siangtho biakna thu Judah mi khat tawh a kiseel-te ciangin,
 
-**ZVS:** Tua laitakin biakna vai-in kisian' suahna tawh kizomin Johan' nungzuite leh Jew mi pawlkhat thu kiseel uh hi.
+**ZVS:** Tua laitakin biakna vai-in kisian' suahna tawh kizomin Johan' nungzuite leh Jew mi pawlkhat thu kiseel-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v26
 **EN:** And they came unto John, and said unto him, Rabbi, he that was with thee beyond Jordan, to whom thou barest witness, behold, the same baptizeth, and all men come to him.
 
-**TDB77:** Johan kiangah a pai uh a, “Rabbi aw, Jordan gun gal khatah nangmah tawh a omkhawm, ama thu teci na pan’na pa in baptaiz a, mi khempeuh ama kiangah a pai uh hi,” a ci uh hi.
+**TDB77:** Johan kiangah a pai-te a, “Rabbi aw, Jordan gun gal khatah nangmah tawh a omkhawm, ama thu teci na pan’na pa in baptaiz a, mi khempeuh ama kiangah a pai-te hi,” a ci-te hi.
 
-**ZVS:** Tua ahih manin Johan nungzuite a kiangah hong pai uh a, “Sia aw, Jordan Gun galkhatah na om khawmpih ngeipa, ama thu na genna na phawk lai hiam? Tu-in amah in mi tuiphumphum a, mi khempeuh in amah zuan uh hi,” ci-in a gen uh leh
+**ZVS:** Tua ahih manin Johan nungzuite a kiangah hong pai-te a, “Sia aw, Jordan Gun galkhatah na om khawmpih ngeipa, ama thu na genna na phawk lai hiam? Tu-in amah in mi tuiphumphum a, mi khempeuh in amah zuan-te hi,” ci-in a gen-te leh
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -139,9 +139,9 @@
 ### v28
 **EN:** Ye yourselves bear me witness, that I said, I am not the Christ, but that I am sent before him.
 
-**TDB77:** Keimah in Khazih ka hi kei hi. Khazih mai-ah hong paipa ka hi hi ke’n kong ci zo a, note zong ka teci na hi uh hi.
+**TDB77:** Keimah in Khazih ka hi kei hi. Khazih mai-ah hong paipa ka hi hi ke’n kong ci zo a, note zong ka teci na hi-te hi.
 
-**ZVS:** Kei pen Khrih ka hi kei a, ama mai-ah a hong kisawlpa ka hi lel hi, ci-in ka genna thu note mahmah in na zaksa uh ahi hi.
+**ZVS:** Kei pen Khrih ka hi kei a, ama mai-ah a hong kisawlpa ka hi lel hi, ci-in ka genna thu note mahmah in na zaksa-te ahi hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -173,9 +173,9 @@
 ### v32
 **EN:** And what he hath seen and heard, that he testifieth; and no man receiveth his testimony.
 
-**TDB77:** A muhsa leh a zaksa thute teci a pang hi. Kuamah in ama teci pan’na thu a mang kei uh hi.
+**TDB77:** A muhsa leh a zaksa thute teci a pang hi. Kuamah in ama teci pan’na thu a mang kei-te hi.
 
-**ZVS:** Amah in a muhsa leh a zaksa thu a gen hinapi-in kuamah in ama thugen umlo uh hi.
+**ZVS:** Amah in a muhsa leh a zaksa thu a gen hinapi-in kuamah in ama thugen umlo-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -184,7 +184,7 @@
 
 **TDB77:** Ama teci pan’na thu a mangte in, Pasian in thuman thutak hi ci-in a ciamteh hi.
 
-**ZVS:** Ama thugen a umte pen, Pasian' thugen man hi, ci-in a um ahi uh hi.
+**ZVS:** Ama thugen a umte pen, Pasian' thugen man hi, ci-in a um ahi-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 

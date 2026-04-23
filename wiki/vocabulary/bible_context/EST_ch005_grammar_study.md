@@ -61,9 +61,9 @@
 ### v5
 **EN:** Then the king said, Cause Haman to make haste, that he may do as Esther hath said. So the king and Haman came to the banquet that Esther had prepared.
 
-**TDB77:** Tua ciangin kumpipa in, “Esther’ deih bangin i gamtat theih nadingin manlangin Haman va sam un,” a ci hi. Tua ahih manin Esther’ bawlsa nitak an ne dingin kumpipa leh Haman hong pai uh hi.
+**TDB77:** Tua ciangin kumpipa in, “Esther’ deih bangin i gamtat theih nadingin manlangin Haman va sam un,” a ci hi. Tua ahih manin Esther’ bawlsa nitak an ne dingin kumpipa leh Haman hong pai-te hi.
 
-**ZVS:** Tua ciangin kumpipa in, “Esther' deih bangin i gamtat theihna dingin manlangin Haman va sam un,” a ci hi. Tua ahih manin Esther' bawlsak nitak an a ne dingin kumpipa leh Haman hong pai uh hi.
+**ZVS:** Tua ciangin kumpipa in, “Esther' deih bangin i gamtat theihna dingin manlangin Haman va sam un,” a ci hi. Tua ahih manin Esther' bawlsak nitak an a ne dingin kumpipa leh Haman hong pai-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | causal: because | plural: uh marker
 
@@ -138,9 +138,9 @@
 ### v14
 **EN:** Then said Zeresh his wife and all his friends unto him, Let a gallows be made of fifty cubits high, and to morrow speak thou unto the king that Mordecai may be hanged thereon: then go thou in merrily with the king unto the banquet. And the thing pleased Haman; and he caused the gallows to be made.
 
-**TDB77:** Tua ciangin a zi Zeresh leh a lawmte khempeuh in ama kiangah, “Pi sawmsagih-le-nga a sang khuam phutsak in la, tua tungah Mordekai a kikhai lup nadingin zing ciangin kumpipa kiangah gen in; tua ciangin nitak an ne dingin lungnuam takin kumpipa tawh pai in,” a ci uh hi. Haman in hih ngaihsutna hoih sa a, a khuam phutsak hi.
+**TDB77:** Tua ciangin a zi Zeresh leh a lawmte khempeuh in ama kiangah, “Pi sawmsagih-le-nga a sang khuam phutsak in la, tua tungah Mordekai a kikhai lup nadingin zing ciangin kumpipa kiangah gen in; tua ciangin nitak an ne dingin lungnuam takin kumpipa tawh pai in,” a ci-te hi. Haman in hih ngaihsutna hoih sa a, a khuam phutsak hi.
 
-**ZVS:** Tua ciangin a zi Zeresh leh a lawmte khempeuh in ama kiangah, “Pi sawmsagihnga a sang khuam phutsak in la, tua tungah Mordekai a kikhailupna dingin zingciangin kumpipa kiangah gen in. Tua ciangin nitak an ne dingin lungnuam takin kumpipa tawh pai in,” a ci uh hi. Haman in hih ngaihsutna hoihsa a, a khuam a phutsak hi.
+**ZVS:** Tua ciangin a zi Zeresh leh a lawmte khempeuh in ama kiangah, “Pi sawmsagihnga a sang khuam phutsak in la, tua tungah Mordekai a kikhailupna dingin zingciangin kumpipa kiangah gen in. Tua ciangin nitak an ne dingin lungnuam takin kumpipa tawh pai in,” a ci-te hi. Haman in hih ngaihsutna hoihsa a, a khuam a phutsak hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

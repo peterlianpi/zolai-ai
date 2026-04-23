@@ -27,9 +27,9 @@
 ### v1
 **EN:** And it came to pass in the seventh year, in the fifth month, the tenth day of the month, that certain of the elders of Israel came to enquire of the
 
-**TDB77:** A kum sagih kum, a kha ngana, a ni sawm ni-in Topa’ kiang panin thu a dong dingin Israel makai pawlkhat ka kiangah hong pai uh hi.
+**TDB77:** A kum sagih kum, a kha ngana, a ni sawm ni-in Topa’ kiang panin thu a dong dingin Israel makai pawlkhat ka kiangah hong pai-te hi.
 
-**ZVS:** Sal ka suah uh a kum sagih kum, a kha ngana, a ni sawm ni-in { Topa' } kiang panin thu a dong dingin Israel makai pawlkhat ka kiangah hong pai uh hi.
+**ZVS:** Sal ka suah-te a kum sagih kum, a kha ngana, a ni sawm ni-in { Topa' } kiang panin thu a dong dingin Israel makai pawlkhat ka kiangah hong pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -45,9 +45,9 @@
 ### v3
 **EN:** Son of man, speak unto the elders of Israel, and say unto them, Thus saith the Lord
 
-**TDB77:** “Ezekiel aw, Topa Pasian ahi keimah in amaute tungah ka gen, ‘Kei tungah thu a dong dingin hong pai na hi uh hiam? Keimah in a nungta Topa Pasian ka hih mah bangin note’ thudotin ka om het kei ding hi, ci-in gen in,’ hong ci hi.
+**TDB77:** “Ezekiel aw, Topa Pasian ahi keimah in amaute tungah ka gen, ‘Kei tungah thu a dong dingin hong pai na hi-te hiam? Keimah in a nungta Topa Pasian ka hih mah bangin note’ thudotin ka om het kei ding hi, ci-in gen in,’ hong ci hi.
 
-**ZVS:** “Mihing ahi Ezekiel aw, Topa { Pasian } ahi keimah in amaute tungah ka gen, ‘Kei tungah thu a dong dingin hong pai na hi uh hiam? Kei pen a nungta Topa { Pasian } ka hih mah bangin note' thudotin ka om het kei ding hi, ci-in gen in,’ hong ci hi.
+**ZVS:** “Mihing ahi Ezekiel aw, Topa { Pasian } ahi keimah in amaute tungah ka gen, ‘Kei tungah thu a dong dingin hong pai na hi-te hiam? Kei pen a nungta Topa { Pasian } ka hih mah bangin note' thudotin ka om het kei ding hi, ci-in gen in,’ hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei
 
@@ -81,18 +81,18 @@
 ### v7
 **EN:** Then said I unto them, Cast ye away every man the abominations of his eyes, and defile not yourselves with the idols of Egypt: I am the
 
-**TDB77:** Keimah in Topa amaute’ Pasian ka hih manin a muhdahhuai a milim itte uh paikhia-in, Izipt mite’ pasian manlote tawh a kinitsak loh nading uh ka gen hi.
+**TDB77:** Keimah in Topa amaute’ Pasian ka hih manin a muhdahhuai a milim itte-te paikhia-in, Izipt mite’ pasian manlote tawh a kinitsak loh nading-te ka gen hi.
 
-**ZVS:** Kei pen Topa amaute' { Pasian } ka hih manin a muhdahhuai a milim itte uh paikhia-in, Egypt mite' pasian manlote tawh a kinitsak lohna ding uh ka gen hi.
+**ZVS:** Kei pen Topa amaute' { Pasian } ka hih manin a muhdahhuai a milim itte-te paikhia-in, Egypt mite' pasian manlote tawh a kinitsak lohna ding-te ka gen hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix
 
 ### v8
 **EN:** But they rebelled against me, and would not hearken unto me: they did not every man cast away the abominations of their eyes, neither did they forsake the idols of Egypt: then I said, I will pour out my fury upon them, to accomplish my anger against them in the midst of the land of Egypt.
 
-**TDB77:** Ahi zongin amaute in kei hong demin, ka thugen hong ngai lo uh hi. A muhdahhuai a milimte uh paikhia tuan lo uh a, Izipt pasiante zong nusia lo uh hi. Tua hi a, ka heh mahmahna teng Izipt gam sungah thuaksak gawp ning ci-in ka ngaihsun hi.–
+**TDB77:** Ahi zongin amaute in kei hong demin, ka thugen hong ngai lo-te hi. A muhdahhuai a milimte-te paikhia tuan lo-te a, Izipt pasiante zong nusia lo-te hi. Tua hi a, ka heh mahmahna teng Izipt gam sungah thuaksak gawp ning ci-in ka ngaihsun hi.–
 
-**ZVS:** Ahi zongin amaute in kei hong demin, ka thugen hong ngailo uh hi. A muhdahhuai a milimte uh paikhia tuanlo uh a, Egypt pasian-te zong nusialo uh hi. Tua hi a, ka heh mahmahna teng Egypt gamsungah thuaksakgawp ning, ci-in ka ngaihsun hi.
+**ZVS:** Ahi zongin amaute in kei hong demin, ka thugen hong ngailo-te hi. A muhdahhuai a milimte-te paikhia tuanlo-te a, Egypt pasian-te zong nusialo-te hi. Tua hi a, ka heh mahmahna teng Egypt gamsungah thuaksakgawp ning, ci-in ka ngaihsun hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -135,9 +135,9 @@
 ### v13
 **EN:** But the house of Israel rebelled against me in the wilderness: they walked not in my statutes, and they despised my judgments, which if a man do, he shall even live in them; and my sabbaths they greatly polluted: then I said, I would pour out my fury upon them in the wilderness, to consume them.
 
-**TDB77:** Ahi zongin Israel mite in gamlak nangawn-ah kei hong dem uh a, a zui peuhpeuh in nuntakna a ngah nading uh ahi keima thukhamte leh ka thupiaknate nial uh hi. Ka sabbathte zong nakpi takin siasak uh hi. Tua ahih manin amaute a maiman’ nadingin ka hehna teng gamlakah a thuaksak gawp dingin ka kithawi hi.
+**TDB77:** Ahi zongin Israel mite in gamlak nangawn-ah kei hong dem-te a, a zui peuhpeuh in nuntakna a ngah nading-te ahi keima thukhamte leh ka thupiaknate nial-te hi. Ka sabbathte zong nakpi takin siasak-te hi. Tua ahih manin amaute a maiman’ nadingin ka hehna teng gamlakah a thuaksak gawp dingin ka kithawi hi.
 
-**ZVS:** Ahi zongin Israel mite in gamlak nangawnah kei hong dem uh a, a zui peuhpeuh in nuntakna a ngahna ding uh ahi keima thukhamte leh ka thupiaknate a nial uh hi. Ka Sabbath-te zong nakpi takin siasak uh hi. Tua ahih manin amaute a maiman'na dingin ka hehnateng gamlakah a thuaksakgawp dingin ka kithawi hi.
+**ZVS:** Ahi zongin Israel mite in gamlak nangawnah kei hong dem-te a, a zui peuhpeuh in nuntakna a ngahna ding-te ahi keima thukhamte leh ka thupiaknate a nial-te hi. Ka Sabbath-te zong nakpi takin siasak-te hi. Tua ahih manin amaute a maiman'na dingin ka hehnateng gamlakah a thuaksakgawp dingin ka kithawi hi.
 
 **Grammar:** purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -162,9 +162,9 @@
 ### v16
 **EN:** Because they despised my judgments, and walked not in my statutes, but polluted my sabbaths: for their heart went after their idols.
 
-**TDB77:** Tua bangin kiciamna ka bawlna pen, amaute in ka thupiaknate nialin, ka thukhamte zui lo uh a, ka sabbathte siasak uh hi. Amaute in kei hong biak ding uh sangin milim biak ding ut zaw uh ahihna hang ahi hi.
+**TDB77:** Tua bangin kiciamna ka bawlna pen, amaute in ka thupiaknate nialin, ka thukhamte zui lo-te a, ka sabbathte siasak-te hi. Amaute in kei hong biak ding-te sangin milim biak ding ut zaw-te ahihna hang ahi hi.
 
-**ZVS:** Tua bangin kiciamna ka bawlna pen, amaute in ka thupiaknate nialin, ka thukhamte zuilo uh a, ka Sabbath-te siasak uh hi. Amaute in kei hong biak ding uh sangin milim biak ding utzaw uh ahihna hang ahi hi.
+**ZVS:** Tua bangin kiciamna ka bawlna pen, amaute in ka thupiaknate nialin, ka thukhamte zuilo-te a, ka Sabbath-te siasak-te hi. Amaute in kei hong biak ding-te sangin milim biak ding utzaw-te ahihna hang ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -180,9 +180,9 @@
 ### v18
 **EN:** But I said unto their children in the wilderness, Walk ye not in the statutes of your fathers, neither observe their judgments, nor defile yourselves with their idols:
 
-**TDB77:** A tate uh kiangah, ‘Na pu na pate uh in a bawl thukhamte zui kei un la, amaute’ tat ngeinate zui kei un. A milim biaknate uh tawh zong kininsak kei un.
+**TDB77:** A tate-te kiangah, ‘Na pu na pate-te in a bawl thukhamte zui kei un la, amaute’ tat ngeinate zui kei un. A milim biaknate-te tawh zong kininsak kei un.
 
-**ZVS:** A tate uh kiangah, ‘Na pu na pate un a bawl thukhamte zui kei un la, amaute' tat ngeinate zui kei un. A milim biakte uh tawh zong kininsak kei un.
+**ZVS:** A tate-te kiangah, ‘Na pu na pate un a bawl thukhamte zui kei un la, amaute' tat ngeinate zui kei un. A milim biakte-te tawh zong kininsak kei un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -196,18 +196,18 @@
 ### v20
 **EN:** And hallow my sabbaths; and they shall be a sign between me and you, that ye may know that I am the
 
-**TDB77:** Keimah in Topa ahi note’ Pasian ka hihna na phawk nading uh leh note tawh i bawlsa thukimna lim dingin sabbathte na siangthosak un,’ ka ci hi.
+**TDB77:** Keimah in Topa ahi note’ Pasian ka hihna na phawk nading-te leh note tawh i bawlsa thukimna lim dingin sabbathte na siangthosak un,’ ka ci hi.
 
-**ZVS:** Kei pen { Topa } ahi note' Pasian ka hihna na phawkna ding uh leh note tawh i bawlsa thukimna lim dingin Sabbath-te na siangthosak un,’ ka ci hi.
+**ZVS:** Kei pen { Topa } ahi note' Pasian ka hihna na phawkna ding-te leh note tawh i bawlsa thukimna lim dingin Sabbath-te na siangthosak un,’ ka ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to
 
 ### v21
 **EN:** Notwithstanding the children rebelled against me: they walked not in my statutes, neither kept my judgments to do them, which if a man do, he shall even live in them; they polluted my sabbaths: then I said, I would pour out my fury upon them, to accomplish my anger against them in the wilderness.
 
-**TDB77:** “Ahi zongin a tate nangawn un kei hong dem uh hi. A zuite in nuntakna a ngah nading ahi ka thukhamte palsatin, ka thupiaknate mang lo uh a, sabbathte siasak uh hi. Tua ahih manin, ka hehna teng gamlakah thuaksak gawpin, amaute a sumai dingin ka kithawi hi.
+**TDB77:** “Ahi zongin a tate nangawn un kei hong dem-te hi. A zuite in nuntakna a ngah nading ahi ka thukhamte palsatin, ka thupiaknate mang lo-te a, sabbathte siasak-te hi. Tua ahih manin, ka hehna teng gamlakah thuaksak gawpin, amaute a sumai dingin ka kithawi hi.
 
-**ZVS:** “Ahi zongin a tate nangawn un kei hong dem uh hi. A zuite in nuntakna a ngahna ding ahi ka thukhamte palsatin ka thupiaknate manglo uh a, Sabbath-te siasak uh hi. Tua ahih manin, ka hehnateng gamlakah thuaksak gawpin, amaute a sumai dingin ka kithawi hi.
+**ZVS:** “Ahi zongin a tate nangawn un kei hong dem-te hi. A zuite in nuntakna a ngahna ding ahi ka thukhamte palsatin ka thupiaknate manglo-te a, Sabbath-te siasak-te hi. Tua ahih manin, ka hehnateng gamlakah thuaksak gawpin, amaute a sumai dingin ka kithawi hi.
 
 **Grammar:** purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -232,9 +232,9 @@
 ### v24
 **EN:** Because they had not executed my judgments, but had despised my statutes, and had polluted my sabbaths, and their eyes were after their fathers' idols.
 
-**TDB77:** Hih bangin kiciamna ka bawlna pen, amaute in ka thupiaknate nialin, ka thukhamte zui lo uh a, ka sabbathte siasak uh hi. Tua banah a pu pate un a biak milimte mah a biakna hang uh ahi hi.
+**TDB77:** Hih bangin kiciamna ka bawlna pen, amaute in ka thupiaknate nialin, ka thukhamte zui lo-te a, ka sabbathte siasak-te hi. Tua banah a pu pate un a biak milimte mah a biakna hang-te ahi hi.
 
-**ZVS:** Hih bangin kiciamna ka bawlna pen, amaute in ka thupiaknate nialin, ka thukhamte zuilo uh a, ka Sabbath-te siasak uh hi. Tua banah a pu a pate un a biak milimte mah a biakna hang uh ahi hi.
+**ZVS:** Hih bangin kiciamna ka bawlna pen, amaute in ka thupiaknate nialin, ka thukhamte zuilo-te a, ka Sabbath-te siasak-te hi. Tua banah a pu a pate un a biak milimte mah a biakna hang-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -250,63 +250,63 @@
 ### v26
 **EN:** And I polluted them in their own gifts, in that they caused to pass through the fire all that openeth the womb, that I might make them desolate, to the end that they might know that I am the
 
-**TDB77:** Amaute’ biak piaknate mah tawh amau mah kinin sakin, a tapa upapente uh zong biakna-in ka pia sak hi. Hih banga ka hihna pen amaute daan piakna leh keimah in Topa ka hihna thu a theih nading uh ahi hi.
+**TDB77:** Amaute’ biak piaknate mah tawh amau mah kinin sakin, a tapa upapente-te zong biakna-in ka pia sak hi. Hih banga ka hihna pen amaute daan piakna leh keimah in Topa ka hihna thu a theih nading-te ahi hi.
 
-**ZVS:** Amaute' biakpiaknate mah tawh amau mah kininsakin, a tapa upa pente uh zong biakna-in ka piasak hi. Hih bangin ka hihna pen amaute gimpiakna leh kei pen { Topa } ka hihna thu a hong theihna ding uh ahi hi.
+**ZVS:** Amaute' biakpiaknate mah tawh amau mah kininsakin, a tapa upa pente-te zong biakna-in ka piasak hi. Hih bangin ka hihna pen amaute gimpiakna leh kei pen { Topa } ka hihna thu a hong theihna ding-te ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v27
 **EN:** Therefore, son of man, speak unto the house of Israel, and say unto them, Thus saith the Lord
 
-**TDB77:** “Tua ahih ciangin Ezekiel aw, Topa Pasian ahi keima thugen pen Israel mite tungah hih bangin gen in:” A cihtaklohna uh tawh na pu na pate un ka min hong daisakin kei hong hehsak uh hi.
+**TDB77:** “Tua ahih ciangin Ezekiel aw, Topa Pasian ahi keima thugen pen Israel mite tungah hih bangin gen in:” A cihtaklohna-te tawh na pu na pate un ka min hong daisakin kei hong hehsak-te hi.
 
-**ZVS:** “Tua ahih ciangin mihing ahi Ezekiel aw, Topa { Pasian } ahi keima thugen pen Israel mite tungah hih bangin gen in: A cihtaklohna uh tawh na pu na pate un ka min hong daisakin kei hong hehsak uh hi.
+**ZVS:** “Tua ahih ciangin mihing ahi Ezekiel aw, Topa { Pasian } ahi keima thugen pen Israel mite tungah hih bangin gen in: A cihtaklohna-te tawh na pu na pate un ka min hong daisakin kei hong hehsak-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v28
 **EN:** For when I had brought them into the land, for the which I lifted up mine hand to give it to them, then they saw every high hill, and all the thick trees, and they offered there their sacrifices, and there they presented the provocation of their offering: there also they made their sweet savour, and poured out there their drink offerings.
 
-**TDB77:** Amaute tungah piak dingin ka ciamna gamah amaute ka paipih hi. Amaute in mual sang ahi a, singniim khatpeuh peuh ahi zongin a muh uh ciangin tua bang mun khempeuh ah biakna pia uh hi. Meihal biakna a piakna uh leh tuiphih biakna a piaknate uh tawh kei hong hehsak uh hi.
+**TDB77:** Amaute tungah piak dingin ka ciamna gamah amaute ka paipih hi. Amaute in mual sang ahi a, singniim khatpeuh peuh ahi zongin a muh-te ciangin tua bang mun khempeuh ah biakna pia-te hi. Meihal biakna a piakna-te leh tuiphih biakna a piaknate-te tawh kei hong hehsak-te hi.
 
-**ZVS:** Amaute tungah piak dingin ka ciamna gamah amaute ka paipih hi. Amaute in mual sang ahi a, singnim khat peuhpeuh ahi zongin a muh uh ciangin tua bang mun khempeuhah biakna a pia uh hi. Meihal biakna a piakna uh leh tuiphih biakna a piaknate uh tawh kei hong hehsak uh hi.
+**ZVS:** Amaute tungah piak dingin ka ciamna gamah amaute ka paipih hi. Amaute in mual sang ahi a, singnim khat peuhpeuh ahi zongin a muh-te ciangin tua bang mun khempeuhah biakna a pia-te hi. Meihal biakna a piakna-te leh tuiphih biakna a piaknate-te tawh kei hong hehsak-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v29
 **EN:** Then I said unto them, What is the high place whereunto ye go? And the name thereof is called Bamah unto this day.
 
-**TDB77:** Amaute kiangah, ‘Na paina uh mun sangte bang ahi hiam?’ ci-in ka dong hi. Tua ahih manin tua hun-a kipanin tua munte pen ‘Mun Sang’ kici hi.
+**TDB77:** Amaute kiangah, ‘Na paina-te mun sangte bang ahi hiam?’ ci-in ka dong hi. Tua ahih manin tua hun-a kipanin tua munte pen ‘Mun Sang’ kici hi.
 
-**ZVS:** Amaute kiangah, ‘Na paina uh mun sangte bang ahi hiam?’ ci-in ka dong hi. Tua ahih manin tua huna kipanin tua munte pen ‘Mun Sangte,’ kici hi.
+**ZVS:** Amaute kiangah, ‘Na paina-te mun sangte bang ahi hiam?’ ci-in ka dong hi. Tua ahih manin tua huna kipanin tua munte pen ‘Mun Sangte,’ kici hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | reciprocal: ki- prefix
 
 ### v30
 **EN:** Wherefore say unto the house of Israel, Thus saith the Lord
 
-**TDB77:** Tua ahih ciangin Israel mite tungah Topa Pasian ahi keima thugen hih bangin gen in: Na pu na pate un a bawl mawhnate mah note in zong bawlin a milimte mah uh sul zuih ding na hi uh hiam?
+**TDB77:** Tua ahih ciangin Israel mite tungah Topa Pasian ahi keima thugen hih bangin gen in: Na pu na pate un a bawl mawhnate mah note in zong bawlin a milimte mah-te sul zuih ding na hi-te hiam?
 
-**ZVS:** Tua ahih ciangin Israel mite tungah Topa { Pasian } ahi keima thugen hih bangin gen in: Na pu na pate un a bawl mawhnate mah note in zong bawlin a milimte mah uh sulzuih ding na hi uh hiam?
+**ZVS:** Tua ahih ciangin Israel mite tungah Topa { Pasian } ahi keima thugen hih bangin gen in: Na pu na pate un a bawl mawhnate mah note in zong bawlin a milimte mah-te sulzuih ding na hi-te hiam?
 
 **Grammar:** sequence: then/therefore
 
 ### v31
 **EN:** For when ye offer your gifts, when ye make your sons to pass through the fire, ye pollute yourselves with all your idols, even unto this day: and shall I be enquired of by you, O house of Israel? As I live, saith the Lord
 
-**TDB77:** Tu ni ciang dongin note in a kipia ngei letsongte mah puakin tua milimte mah biakna-in na tate uh na hal uh ciangin no leh no a kininsak tawm na hi uh hi. Tua bangin na gamtat khit uh ciangin no Israel mite in kei kiangah thu a dong dingin nong pai lai uh hi. Keimah in a nungta Topa Pasian ka hih mah bangin, note’ thudotin ka om het kei taktak ding hi.
+**TDB77:** Tu ni ciang dongin note in a kipia ngei letsongte mah puakin tua milimte mah biakna-in na tate-te na hal-te ciangin no leh no a kininsak tawm na hi-te hi. Tua bangin na gamtat khit-te ciangin no Israel mite in kei kiangah thu a dong dingin nong pai lai-te hi. Keimah in a nungta Topa Pasian ka hih mah bangin, note’ thudotin ka om het kei taktak ding hi.
 
-**ZVS:** Tuni ciangdongin note in a kipia ngei letsongte mah puakin, tua milimte mah biakna-in na tate uh na hal uh ciangin no leh no a kininsaktawm na hi uh hi. Tua bangin na gamtat khit uh ciangin no Israel mite, kei kiangah thu a dong dingin nong pai lai uh hi. Kei pen a nungta Topa { Pasian } ka hih mah bangin, note' thudotin ka om het kei taktak ding hi.
+**ZVS:** Tuni ciangdongin note in a kipia ngei letsongte mah puakin, tua milimte mah biakna-in na tate-te na hal-te ciangin no leh no a kininsaktawm na hi-te hi. Tua bangin na gamtat khit-te ciangin no Israel mite, kei kiangah thu a dong dingin nong pai lai-te hi. Kei pen a nungta Topa { Pasian } ka hih mah bangin, note' thudotin ka om het kei taktak ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And that which cometh into your mind shall not be at all, that ye say, We will be as the heathen, as the families of the countries, to serve wood and stone.
 
-**TDB77:** Note in na lungsim ngaihsutna uh khentat khinin, gam danga a teeng minam dangte mah bangin sing leh suang na bia nuam uh hi. Ahi zongin note’ ut bang hi thei ngei lo ding hi.
+**TDB77:** Note in na lungsim ngaihsutna-te khentat khinin, gam danga a teeng minam dangte mah bangin sing leh suang na bia nuam-te hi. Ahi zongin note’ ut bang hi thei ngei lo ding hi.
 
-**ZVS:** Note in na lungsim ngaihsutna uh khentat khinin, gamdangah a teng minam dangte mah bangin sing leh suang na bia nuam uh hi. Ahi zongin note' utbang hithei ngeilo ding hi.
+**ZVS:** Note in na lungsim ngaihsutna-te khentat khinin, gamdangah a teng minam dangte mah bangin sing leh suang na bia nuam-te hi. Ahi zongin note' utbang hithei ngeilo ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -340,9 +340,9 @@
 ### v36
 **EN:** Like as I pleaded with your fathers in the wilderness of the land of Egypt, so will I plead with you, saith the Lord
 
-**TDB77:** Izipt gamsung Sinai gamlakah na pu na pate uh tungah thu ka khen mah bangin tu-in note tungah thu kong khen ding hi, Topa Pasian in ci hi.
+**TDB77:** Izipt gamsung Sinai gamlakah na pu na pate-te tungah thu ka khen mah bangin tu-in note tungah thu kong khen ding hi, Topa Pasian in ci hi.
 
-**ZVS:** Egypt gamsung Sinai gamlakah na pu na pate uh tungah thu ka khen mah bangin tu-in note' tungah kong khen ding hi, Topa { Pasian } in ci hi.
+**ZVS:** Egypt gamsung Sinai gamlakah na pu na pate-te tungah thu ka khen mah bangin tu-in note' tungah kong khen ding hi, Topa { Pasian } in ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 
@@ -358,63 +358,63 @@
 ### v38
 **EN:** And I will purge out from among you the rebels, and them that transgress against me: I will bring them forth out of the country where they sojourn, and they shall not enter into the land of Israel: and ye shall know that I am the
 
-**TDB77:** Note lak panin a lehdo thei mite leh kei tungah hong mawh mite ka la khia ding hi. Tu lai takin a om pakna uh gam panin ka la khia ding a, ahi zongin Israel gamah ka ciahsak kik kei ding hi. Tua ciangin Topa ka hihna thu na thei ding hi,” hong ci hi.
+**TDB77:** Note lak panin a lehdo thei mite leh kei tungah hong mawh mite ka la khia ding hi. Tu lai takin a om pakna-te gam panin ka la khia ding a, ahi zongin Israel gamah ka ciahsak kik kei ding hi. Tua ciangin Topa ka hihna thu na thei ding hi,” hong ci hi.
 
-**ZVS:** Note lak panin a lehdo thei mite leh kei tungah hong mawh mite ka lakhia ding hi. Tu laitakin a ompakna uh gam panin ka lakhia ding a, ahi zongin Israel gamah ka ciahsak kik kei ding hi. Tua ciangin { Topa } ka hihna thu na thei ding uh hi,” a hong ci hi.
+**ZVS:** Note lak panin a lehdo thei mite leh kei tungah hong mawh mite ka lakhia ding hi. Tu laitakin a ompakna-te gam panin ka lakhia ding a, ahi zongin Israel gamah ka ciahsak kik kei ding hi. Tua ciangin { Topa } ka hihna thu na thei ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix
 
 ### v39
 **EN:** As for you, O house of Israel, thus saith the Lord
 
-**TDB77:** Topa Pasian in, “Israel mite khempeuh aw, na milimte uh bia un! Ahih hangin tu-a kipanin keima thu nong man’ uh kul ding a, na milimte uh letsong piakna tawh ka min siangtho na daisak nawn kei ding uh hi,” hong ci hi.
+**TDB77:** Topa Pasian in, “Israel mite khempeuh aw, na milimte-te bia un! Ahih hangin tu-a kipanin keima thu nong man’ uh kul ding a, na milimte-te letsong piakna tawh ka min siangtho na daisak nawn kei ding-te hi,” hong ci hi.
 
-**ZVS:** Topa { Pasian } in, “Israel mite khempeuh aw, na milimte uh biabia un! Ahih hangin tu-a kipanin keima thu nong man' uh kul ding a, na milimte uh letsong piakna tawh ka min siangtho na daisak nawn kei ding uh hi,” a hong ci hi.
+**ZVS:** Topa { Pasian } in, “Israel mite khempeuh aw, na milimte-te biabia un! Ahih hangin tu-a kipanin keima thu nong man' uh kul ding a, na milimte-te letsong piakna tawh ka min siangtho na daisak nawn kei ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v40
 **EN:** For in mine holy mountain, in the mountain of the height of Israel, saith the Lord
 
-**TDB77:** Topa Pasian in, “Ka mual siangtho, Israel mual sang tungah Israel mite khempeuh in kei nong bia ding uh hi. Note tungah kong lungdam ta ding a, biak piaknate, a limcipen piaknate, leh na letsong siangthote uh kong lamen ta ding hi.
+**TDB77:** Topa Pasian in, “Ka mual siangtho, Israel mual sang tungah Israel mite khempeuh in kei nong bia ding-te hi. Note tungah kong lungdam ta ding a, biak piaknate, a limcipen piaknate, leh na letsong siangthote-te kong lamen ta ding hi.
 
-**ZVS:** Topa { Pasian } in, “Ka mual siangtho, Israel mual sang tungah Israel mite khempeuh in kei nong bia ding uh hi. Note tungah kong lungdam ta ding a, biakpiaknate, a limcipen piaknate, leh na letsong siangthote uh kong lamen ta ding hi.
+**ZVS:** Topa { Pasian } in, “Ka mual siangtho, Israel mual sang tungah Israel mite khempeuh in kei nong bia ding-te hi. Note tungah kong lungdam ta ding a, biakpiaknate, a limcipen piaknate, leh na letsong siangthote-te kong lamen ta ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v41
 **EN:** I will accept you with your sweet savour, when I bring you out from the people, and gather you out of the countries wherein ye have been scattered; and I will be sanctified in you before the heathen.
 
-**TDB77:** Na kithehthangna uh gam tuamtuam panin note kong kaihkhop khit ciangin a namtui na biak piaknate uh kong sang ding hi. Note in kei nong biak manun minam dangte in a siangtho ka hihna hong thei ding uh hi.
+**TDB77:** Na kithehthangna-te gam tuamtuam panin note kong kaihkhop khit ciangin a namtui na biak piaknate-te kong sang ding hi. Note in kei nong biak manun minam dangte in a siangtho ka hihna hong thei ding-te hi.
 
-**ZVS:** Na kithehthangna uh gam tuamtuam panin note hong paikhiatpihin mun khatah note kong kaihkhop khit ciangin a namtui na biakpiaknate uh kong sang ding hi. Note in kei nong biak manun minam dangte in a siangtho ka hihna hong thei ding uh hi.
+**ZVS:** Na kithehthangna-te gam tuamtuam panin note hong paikhiatpihin mun khatah note kong kaihkhop khit ciangin a namtui na biakpiaknate-te kong sang ding hi. Note in kei nong biak manun minam dangte in a siangtho ka hihna hong thei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v42
 **EN:** And ye shall know that I am the
 
-**TDB77:** Na pu na pate uh tungah piak dingin ka ciam Israel gam sungah note kong tun’pih ciangin Topa ka hihna thu na thei ding uh hi.
+**TDB77:** Na pu na pate-te tungah piak dingin ka ciam Israel gam sungah note kong tun’pih ciangin Topa ka hihna thu na thei ding-te hi.
 
-**ZVS:** Na pu na pate uh tungah piak dingin ka ciam Israel gamsungah note kong tun'pih ciangin { Topa } ka hihna thu na hong thei ding uh hi.
+**ZVS:** Na pu na pate-te tungah piak dingin ka ciam Israel gamsungah note kong tun'pih ciangin { Topa } ka hihna thu na hong thei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v43
 **EN:** And there shall ye remember your ways, and all your doings, wherein ye have been defiled; and ye shall lothe yourselves in your own sight for all your evils that ye have committed.
 
-**TDB77:** Tua hun ciangin a kilawm loin na gamtatnate khempeuh uh leh nomau mah na kinitsak tawmna thute uh na phawk ding uh a, na gamtat siatnasate uh hangin nomau mah na kimudah tawm ding uh hi.
+**TDB77:** Tua hun ciangin a kilawm loin na gamtatnate khempeuh-te leh nomau mah na kinitsak tawmna thute-te na phawk ding-te a, na gamtat siatnasate-te hangin nomau mah na kimudah tawm ding-te hi.
 
-**ZVS:** Tua hun ciangin, a kilawmloin na gamtatnate khempeuh uh leh nomau mah na kinitsak tawmna thute uh na phawk ding uh a, na gamtat siatnasate uh hangin nomau mah na kimudahtawm ding uh hi.
+**ZVS:** Tua hun ciangin, a kilawmloin na gamtatnate khempeuh-te leh nomau mah na kinitsak tawmna thute-te na phawk ding-te a, na gamtat siatnasate-te hangin nomau mah na kimudahtawm ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v44
 **EN:** And ye shall know that I am the
 
-**TDB77:** Na gitlohna, na gamtatsiatna uh tawh kizui-in note tungah hong bawl loin, ka min a dai khak ding khualna tawh note tungah hong gamta ka hih manin keimah in Topa ka hihna thu no Israel mite in na thei ding uh hi, Topa Pasian in ci hi,” hong ci hi.
+**TDB77:** Na gitlohna, na gamtatsiatna-te tawh kizui-in note tungah hong bawl loin, ka min a dai khak ding khualna tawh note tungah hong gamta ka hih manin keimah in Topa ka hihna thu no Israel mite in na thei ding-te hi, Topa Pasian in ci hi,” hong ci hi.
 
-**ZVS:** Na gitlohna, na gamtatsiatna uh tawh kizui-in note tungah hong bawlloin, ka min a daikhak ding khualna tawh note tungah hong gamta ka hih manin kei pen { Topa } ka hihna thu no Israel mite in na hong thei ding uh hi, Topa { Pasian } in ci hi,” a hong ci hi.
+**ZVS:** Na gitlohna, na gamtatsiatna-te tawh kizui-in note tungah hong bawlloin, ka min a daikhak ding khualna tawh note tungah hong gamta ka hih manin kei pen { Topa } ka hihna thu no Israel mite in na hong thei ding-te hi, Topa { Pasian } in ci hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -444,18 +444,18 @@
 ### v48
 **EN:** And all flesh shall see that I the
 
-**TDB77:** Hih gamsung a halpa in Topa ahi keimah ka hihna thu leh kuamah in a phelh zawh lohna thu mi khempeuh in thei ding uh hi,’ ci-in gen in,” hong ci hi.
+**TDB77:** Hih gamsung a halpa in Topa ahi keimah ka hihna thu leh kuamah in a phelh zawh lohna thu mi khempeuh in thei ding-te hi,’ ci-in gen in,” hong ci hi.
 
-**ZVS:** Hih gamsung a halpa pen { Topa } ahi keimah ka hihna thu leh kuamah in a phelh zawhlohna thu mi khempeuh in thei ding uh hi,’ ci-in gen in,” a hong ci hi.
+**ZVS:** Hih gamsung a halpa pen { Topa } ahi keimah ka hihna thu leh kuamah in a phelh zawhlohna thu mi khempeuh in thei ding-te hi,’ ci-in gen in,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v49
 **EN:** Then said I, Ah Lord
 
-**TDB77:** Tua ciangin kei zong, “Topa Pasian aw, mi khempeuh in kei pen khiatna nei-a thu gen theipa hi, ci-a hong ngaihsut uh ka hi hi,” ka ci hi.
+**TDB77:** Tua ciangin kei zong, “Topa Pasian aw, mi khempeuh in kei pen khiatna nei-a thu gen theipa hi, ci-a hong ngaihsut-te ka hi hi,” ka ci hi.
 
-**ZVS:** Tua ciangin kei zong, “Topa { Pasian } aw, kei hong sawl kei in. Mi khempeuh in kei pen khiatna nei-a thugen theipa hi, ci-in a hong ngaihsut uh ka hi hi,” ci-in ka nial hi.
+**ZVS:** Tua ciangin kei zong, “Topa { Pasian } aw, kei hong sawl kei in. Mi khempeuh in kei pen khiatna nei-a thugen theipa hi, ci-in a hong ngaihsut-te ka hi hi,” ci-in ka nial hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore
 

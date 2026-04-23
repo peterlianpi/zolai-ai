@@ -44,7 +44,7 @@
 
 **TDB77:** Israel kumpipte’ khekhap mah zui hi. Topa in Israel mite’ mai-ah a hawlkhiat minamte’ zat a kihhuai gamtate bangin biakna-in ama tapa nangawn hal hi.
 
-**ZVS:** Israel kumpi dangte' khekhap mah zui hi. { Topa } in Israel mite' mai-ah a hawlkhiat minamte' zat a kihhuai a gamtatte mah uh bangin biakna-in ama tapa nangawn a hal hi.
+**ZVS:** Israel kumpi dangte' khekhap mah zui hi. { Topa } in Israel mite' mai-ah a hawlkhiat minamte' zat a kihhuai a gamtatte mah-te bangin biakna-in ama tapa nangawn a hal hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -60,18 +60,18 @@
 ### v5
 **EN:** Then Rezin king of Syria and Pekah son of Remaliah king of Israel came up to Jerusalem to war: and they besieged Ahaz, but could not overcome him.
 
-**TDB77:** Tua ciangin Siria kumpipa Rezin leh Israel kumpipa, Remaliah, tapa Pekah, Jerusalem gal-in a do dingin hong kuanto uh a, amaute in Ahaz umcih uh a, ahih hangin amah zo zo lo uh hi.
+**TDB77:** Tua ciangin Siria kumpipa Rezin leh Israel kumpipa, Remaliah, tapa Pekah, Jerusalem gal-in a do dingin hong kuanto-te a, amaute in Ahaz umcih-te a, ahih hangin amah zo zo lo-te hi.
 
-**ZVS:** Tua ciangin Syria kumpi Rezin leh Israel kumpi, Remaliah' tapa Pekah, Jerusalem a sim dingin hong kuanto uh a, amaute in Ahaz umcih uh hi. Ahih hangin amah zo zolo uh hi.
+**ZVS:** Tua ciangin Syria kumpi Rezin leh Israel kumpi, Remaliah' tapa Pekah, Jerusalem a sim dingin hong kuanto-te a, amaute in Ahaz umcih-te hi. Ahih hangin amah zo zolo-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | negation: lo | plural: uh marker
 
 ### v6
 **EN:** At that time Rezin king of Syria recovered Elath to Syria, and drave the Jews from Elath: and the Syrians came to Elath, and dwelt there unto this day.
 
-**TDB77:** Tua hun lai takin Edom kumpipa Rezin in Edom gam dingin Elath la kikin Elath panin Judah mite hawlkhia hi; tua ciangin tu ni dongin amaute a ten’na ahi Elath-ah Edom mite hong pai uh hi.
+**TDB77:** Tua hun lai takin Edom kumpipa Rezin in Edom gam dingin Elath la kikin Elath panin Judah mite hawlkhia hi; tua ciangin tu ni dongin amaute a ten’na ahi Elath-ah Edom mite hong pai-te hi.
 
-**ZVS:** Tua hun laitakin Edom kumpipa in Edom gam dingin Elath la kikin Elath panin Judah gam mite hawlkhia hi. Tua ciangin tuni dongin amaute a ten'na ahi Elath-ah Edom mite hong pai uh hi.
+**ZVS:** Tua hun laitakin Edom kumpipa in Edom gam dingin Elath la kikin Elath panin Judah gam mite hawlkhia hi. Tua ciangin tuni dongin amaute a ten'na ahi Elath-ah Edom mite hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -148,9 +148,9 @@
 ### v15
 **EN:** And king Ahaz commanded Uriah the priest, saying, Upon the great altar burn the morning burnt offering, and the evening meat offering, and the king's burnt sacrifice, and his meat offering, with the burnt offering of all the people of the land, and their meat offering, and their drink offerings; and sprinkle upon it all the blood of the burnt offering, and all the blood of the sacrifice: and the brasen altar shall be for me to enquire by.
 
-**TDB77:** Tua ciangin kumpi Ahaz in siampi Urijah thu pia-in, “Gam sung mi khempeuh’ meihal biakna, leh an tawh a biakna leh leenggahzu tawh a biakna uh tawh biakna tau lian tungah zingsang meihal biakna, leh nitakin an tawh biakna, leh kumpipa’ meihal biakna leh an tawh a biaknate hal khawm in; tua tungah meihal biakna sisan khempeuh, leh biak piakna sisan khempeuh theh in; ahih hangin sumngo biakna tau in kei adingin thu dot nading hi ding hi,” a ci hi.
+**TDB77:** Tua ciangin kumpi Ahaz in siampi Urijah thu pia-in, “Gam sung mi khempeuh’ meihal biakna, leh an tawh a biakna leh leenggahzu tawh a biakna-te tawh biakna tau lian tungah zingsang meihal biakna, leh nitakin an tawh biakna, leh kumpipa’ meihal biakna leh an tawh a biaknate hal khawm in; tua tungah meihal biakna sisan khempeuh, leh biak piakna sisan khempeuh theh in; ahih hangin sumngo biakna tau in kei adingin thu dot nading hi ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin Kumpi Ahaz in siampi Urijah thu pia-in, “Gamsung mi khempeuh' meihal biakna, an tawh a biakna, leh leenggahzu tawh a biakna uh tawh biakna tau lian tungah zingsang meihal biakna, nitakin an tawh biakna, kumpipa' meihal biakna, leh an tawh a biaknate halkhawm in. Tua tungah meihal biakna sisan khempeuh, leh biakpiakna sisan khempeuh theh in. Ahih hangin sumngo biakna tau pen kei-a' dingin thudotna ding hi ding hi,” a ci hi.
+**ZVS:** Tua ciangin Kumpi Ahaz in siampi Urijah thu pia-in, “Gamsung mi khempeuh' meihal biakna, an tawh a biakna, leh leenggahzu tawh a biakna-te tawh biakna tau lian tungah zingsang meihal biakna, nitakin an tawh biakna, kumpipa' meihal biakna, leh an tawh a biaknate halkhawm in. Tua tungah meihal biakna sisan khempeuh, leh biakpiakna sisan khempeuh theh in. Ahih hangin sumngo biakna tau pen kei-a' dingin thudotna ding hi ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will
 

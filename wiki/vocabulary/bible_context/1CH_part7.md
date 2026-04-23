@@ -24,7 +24,7 @@
 
 ### leh = and
 **Context:** Conjunction used to connect items in a list.
-**Example:** Korah, Tappuah, Rekem, leh Shema ahi uh hi.
+**Example:** Korah, Tappuah, Rekem, leh Shema ahi-te hi.
 
 ### zineu = concubine
 **Context:** Specifically refers to Caleb's secondary wife/concubine.
@@ -40,7 +40,7 @@
 
 ### suan leh khak = descendants and posterity (offspring)
 **Context:** A compound term referring to descendants or lineage.
-**Example:** Hihte in Kaleb’ suan leh khakte ahi uh hi.
+**Example:** Hihte in Kaleb’ suan leh khakte ahi-te hi.
 
 ### zi = wife
 **Context:** Refers to Caleb's wife, Efrath.
@@ -66,9 +66,9 @@
   - A sequential chain of descent (A begat B, and B begat C). The structure uses 'pa' (father of) repeatedly.
   - Example: Attai in Nathan’ pa hi a, Nathan in Zabab’ pa ahi hi.
 
-- **X’ tapate in: Y, Z, leh W ahi uh hi.**
-  - Listing the sons of X. 'tapate' (sons) is followed by a list connected by 'leh' (and), concluding with the plural marker 'ahi uh hi' (they are).
-  - Example: Hebron’ tapate: Korah, Tappuah, Rekem, leh Shema ahi uh hi.
+- **X’ tapate in: Y, Z, leh W ahi-te hi.**
+  - Listing the sons of X. 'tapate' (sons) is followed by a list connected by 'leh' (and), concluding with the plural marker 'ahi-te hi' (they are).
+  - Example: Hebron’ tapate: Korah, Tappuah, Rekem, leh Shema ahi-te hi.
 
 - **Kaleb’ zineu X in Y leh Z nei hi.**
   - Describing the offspring of a concubine (zineu). 'nei' functions as the verb 'bore/had'.

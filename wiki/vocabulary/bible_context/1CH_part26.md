@@ -52,19 +52,19 @@
 
 ### nisuahna lam pangah = toward the east side
 **Context:** Specifies a cardinal direction related to the location of the gates.
-**Example:** Kumpipa' Kulhkongpi nisuahna lampangah a omte ahi uh hi.
+**Example:** Kumpipa' Kulhkongpi nisuahna lampangah a omte ahi-te hi.
 
-### ahi ngei uh hi = they truly were / indeed they were
+### ahi ngei-te hi = they truly were / indeed they were
 **Context:** Emphatic confirmation of their identity or role.
-**Example:** Levi mite omna kongcingte ahi ngei uh hi.
+**Example:** Levi mite omna kongcingte ahi ngei-te hi.
 
 ### phual a ukte = those who were in charge of the sanctuary/altar area
 **Context:** Refers to those who guarded the sacred area (Tabernacle/altar).
-**Example:** Topa’ phual a ukte ahih uh mah bangin
+**Example:** Topa’ phual a ukte ahih-te mah bangin
 
 ### puanbuk kong = tent door / door of the tabernacle
 **Context:** Refers specifically to the entrance of the portable sanctuary.
-**Example:** puanbuk kong a cingte ahi uh hi.
+**Example:** puanbuk kong a cingte ahi-te hi.
 
 ### a beisa hun sungah = in time past / in the former time
 **Context:** Indicates a historical period of leadership.
@@ -74,9 +74,9 @@
 **Context:** Specific location of the entrance to the meeting tent.
 **Example:** kikhopna puanbuk lutna-ah kongcingpa ahi hi.
 
-### kiciamteh uh hi = they were reckoned / they were recorded
+### kiciamteh-te hi = they were reckoned / they were recorded
 **Context:** Indicates that they were officially listed or accounted for.
-**Example:** khangsimna-ah kiciamteh uh hi.
+**Example:** khangsimna-ah kiciamteh-te hi.
 
 ### thu-mupa = seer / prophet
 **Context:** Title given to Samuel, indicating his prophetic role.
@@ -88,7 +88,7 @@
 
 ### van manpha koihnate = precious things / treasures
 **Context:** Refers to the valuable items kept within the sanctuary.
-**Example:** Pasian' biakinn van manpha koihnate a uk ahi uh hi.
+**Example:** Pasian' biakinn van manpha koihnate a uk ahi-te hi.
 
 ## Phrases & Usage
 
@@ -107,7 +107,7 @@
   - A common structure for listing lineage, where 'tapa' (son of) connects individuals sequentially.
   - Example: Hashabiah, a tapa Azrikam, a tapa Hasshub' tapa Shemaiah
 
-- **X ahi hi / X ahi uh hi**
+- **X ahi hi / X ahi-te hi**
   - The copula structure used at the end of sentences to state identity or existence, often translated as 'is/are'.
   - Example: Maasai ahi hi.
 

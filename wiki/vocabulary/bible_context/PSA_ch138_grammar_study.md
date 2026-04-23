@@ -43,18 +43,18 @@
 ### v4
 **EN:** All the kings of the earth shall praise thee, O
 
-**TDB77:** Topa aw, leitung kumpi khempeuh in na thuciamnate za khin uh ahih manin nang hong phat ding uh hi.
+**TDB77:** Topa aw, leitung kumpi khempeuh in na thuciamnate za khin-te ahih manin nang hong phat ding-te hi.
 
-**ZVS:** { Topa } aw, leitung khempeuh in na thuciamnate za khin uh ahih manin nang hong phat ding uh hi.
+**ZVS:** { Topa } aw, leitung khempeuh in na thuciamnate za khin-te ahih manin nang hong phat ding-te hi.
 
 **Grammar:** completed: already done | future: will | causal: because | plural: uh marker
 
 ### v5
 **EN:** Yea, they shall sing in the ways of the
 
-**TDB77:** Topa’ minthan’na lian ahih manin amaute in Topa’ nasepna ziate la-in sa ding uh hi.
+**TDB77:** Topa’ minthan’na lian ahih manin amaute in Topa’ nasepna ziate la-in sa ding-te hi.
 
-**ZVS:** { Topa' } minthan'na lian mahmah ahih manin amaute in { Topa' } nasepna ziate la-in sa ding uh hi.
+**ZVS:** { Topa' } minthan'na lian mahmah ahih manin amaute in { Topa' } nasepna ziate la-in sa ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | plural: uh marker
 

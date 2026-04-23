@@ -32,9 +32,9 @@
 ### v2
 **EN:** Unto the church of God which is at Corinth, to them that are sanctified in Christ Jesus, called to be saints, with all that in every place call upon the name of Jesus Christ our Lord, both theirs and ours:
 
-**TDB77:** Khazih Zeisu hangin mawhna tawh kipelh, misiangtho dinga hong koih ahi Korin khua ah a om Pasian’ pawlpite akipan, mun khempeuh ah eite Topa bek hi lo amau Topa zong ahi, Topa Zeisu Khazih kiangah thu a ngen mi khempeuhte kiangah thu kong zasak uh hi.
+**TDB77:** Khazih Zeisu hangin mawhna tawh kipelh, misiangtho dinga hong koih ahi Korin khua ah a om Pasian’ pawlpite akipan, mun khempeuh ah eite Topa bek hi lo amau Topa zong ahi, Topa Zeisu Khazih kiangah thu a ngen mi khempeuhte kiangah thu kong zasak-te hi.
 
-**ZVS:** Jesuh Khrih tawh kipawlna hangin Pasian' mi suakin, Pasian' mi siangtho cihna a ngah, Korin khua-a om Pasian' pawlpi mite leh eite' Topa bek hiloin, amaute' Topa zong ahi, i Topa Jesuh Khrih tungah thu a ngen, mun khempeuhah a om mite tungah lai ka hong khak uh hi.
+**ZVS:** Jesuh Khrih tawh kipawlna hangin Pasian' mi suakin, Pasian' mi siangtho cihna a ngah, Korin khua-a om Pasian' pawlpi mite leh eite' Topa bek hiloin, amaute' Topa zong ahi, i Topa Jesuh Khrih tungah thu a ngen, mun khempeuhah a om mite tungah lai ka hong khak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -59,9 +59,9 @@
 ### v5
 **EN:** That in every thing ye are enriched by him, in all utterance, and in all knowledge;
 
-**TDB77:** note in amah hangah thu genna leh lungpilna a kipan, na khempeuh na kicing uh a,
+**TDB77:** note in amah hangah thu genna leh lungpilna a kipan, na khempeuh na kicing-te a,
 
-**ZVS:** Bang hang hiam cih leh Khrih tawh na kipawlna hangun, thugen siamna leh thu theihtel siamna-a kipan siamna nam khempeuh na neikim uh hi.
+**ZVS:** Bang hang hiam cih leh Khrih tawh na kipawlna hangun, thugen siamna leh thu theihtel siamna-a kipan siamna nam khempeuh na neikim-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -75,9 +75,9 @@
 ### v7
 **EN:** So that ye come behind in no gift; waiting for the coming of our Lord Jesus Christ:
 
-**TDB77:** Tua ahih ciangin note in i Topa Zeisu Khazih hong kilat ding ngakin na om lai takun hong piakna thupha khat beek na sam kei uh hi.
+**TDB77:** Tua ahih ciangin note in i Topa Zeisu Khazih hong kilat ding ngakin na om lai takun hong piakna thupha khat beek na sam kei-te hi.
 
-**ZVS:** i Topa Jesuh Khrih hong kilatkik ding ngakin na om hun sungun thupha na ngahloh uh khat beek omlo hi.
+**ZVS:** i Topa Jesuh Khrih hong kilatkik ding ngakin na om hun sungun thupha na ngahloh-te khat beek omlo hi.
 
 **Grammar:** sequence: then/therefore | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -102,34 +102,34 @@
 ### v10
 **EN:** Now I beseech you, brethren, by the name of our Lord Jesus Christ, that ye all speak the same thing, and that there be no divisions among you; but that ye be perfectly joined together in the same mind and in the same judgment.
 
-**TDB77:** Ute naute aw, note khempeuh in kam kikhat na gen uh a, kikhenthang loin, lungsim kikhatin, kiciamtehna kikhatin, kicing takin na om nadingun i Topa Zeisu Khazih’ min tawh kong thuum hi.
+**TDB77:** Ute naute aw, note khempeuh in kam kikhat na gen-te a, kikhenthang loin, lungsim kikhatin, kiciamtehna kikhatin, kicing takin na om nadingun i Topa Zeisu Khazih’ min tawh kong thuum hi.
 
-**ZVS:** Sanggamte aw, note khatlekhat kithutuakin, pawl kikhenna omkha loin, na lungsim, na ngaihsutna uh leh na ngimna uh na kikhatsakna dingun i Topa Jesuh Khrih min tawh ka hong thum hi.
+**ZVS:** Sanggamte aw, note khatlekhat kithutuakin, pawl kikhenna omkha loin, na lungsim, na ngaihsutna-te leh na ngimna-te na kikhatsakna dingun i Topa Jesuh Khrih min tawh ka hong thum hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** For it hath been declared unto me of you, my brethren, by them which are of the house of Chloe, that there are contentions among you.
 
-**TDB77:** Bang hang hiam na cih uh leh, ka ute ka naute aw, note lakah a kitawng om hi ci-in Khlo-e te innkuanpih kimkhat in hong zasak uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, ka ute ka naute aw, note lakah a kitawng om hi ci-in Khlo-e te innkuanpih kimkhat in hong zasak-te hi.
 
-**ZVS:** Bang hang hiam cih leh sanggamte aw, note lakah kitot kiselna a omna thu, Khloe' innkuanpih mite in kei kiangah hong gen uh hi.
+**ZVS:** Bang hang hiam cih leh sanggamte aw, note lakah kitot kiselna a omna thu, Khloe' innkuanpih mite in kei kiangah hong gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Now this I say, that every one of you saith, I am of Paul; and I of Apollos; and I of Cephas; and I of Christ.
 
-**TDB77:** Note in, “Kei Paul’ mi ka hi, kei Apollos’ mi ka hi, kei Kefas’ mi ka hi, kei Khazih’ mi ka hi,” na ci tek uh ka cihna ahi hi.
+**TDB77:** Note in, “Kei Paul’ mi ka hi, kei Apollos’ mi ka hi, kei Kefas’ mi ka hi, kei Khazih’ mi ka hi,” na ci tek-te ka cihna ahi hi.
 
-**ZVS:** Tua bang ka cih ciangin note pawlkhat in, “Kei, Paul' pawl ka hi hi,” cihna ahi a, pawlkhat in, “Kei, Apollos' pawl ka hi hi,” cihna ahi a, pawlkhat in, “Kei, Peter' pawl ka hi hi,” cihna ahi a, pawlkhat in, “Kei, Khrih' pawl ka hi hi,” cihna ahi zongin na kampaunate uh ka cihna ahi hi.
+**ZVS:** Tua bang ka cih ciangin note pawlkhat in, “Kei, Paul' pawl ka hi hi,” cihna ahi a, pawlkhat in, “Kei, Apollos' pawl ka hi hi,” cihna ahi a, pawlkhat in, “Kei, Peter' pawl ka hi hi,” cihna ahi a, pawlkhat in, “Kei, Khrih' pawl ka hi hi,” cihna ahi zongin na kampaunate-te ka cihna ahi hi.
 
 ### v13
 **EN:** Is Christ divided? was Paul crucified for you? or were ye baptized in the name of Paul?
 
-**TDB77:** Khazih a kikhen hiam? Paul in note tang dingin singlamteh tungah a si hiam? Ahih kei leh, Paul’ min tawh kibaptaiz na hi uh hiam?
+**TDB77:** Khazih a kikhen hiam? Paul in note tang dingin singlamteh tungah a si hiam? Ahih kei leh, Paul’ min tawh kibaptaiz na hi-te hiam?
 
-**ZVS:** Note in Khrih na phelsuah zenzen uh hi. Note-a' dingin Paul in singlamteh tungah khaina thuak ahi hiam? Note, Paul' nungzui dingin tui kiphum na hi uh hiam?
+**ZVS:** Note in Khrih na phelsuah zenzen-te hi. Note-a' dingin Paul in singlamteh tungah khaina thuak ahi hiam? Note, Paul' nungzui dingin tui kiphum na hi-te hiam?
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -147,7 +147,7 @@
 
 **TDB77:** Tua ahih ciangin, “Paul’ min tawh baptaizna ka ngah hi,” ci-in kuamah in a gen thei kei ding hi.
 
-**ZVS:** Tua bang hi kei leh keima min tawh a kiphumin na kigen khading uh hi.
+**ZVS:** Tua bang hi kei leh keima min tawh a kiphumin na kigen khading-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei
 
@@ -172,14 +172,14 @@
 ### v18
 **EN:** For the preaching of the cross is to them that perish foolishness; but unto us which are saved it is the power of God.
 
-**TDB77:** Bang hang hiam na cih uh leh, siatna a thuakte’ ading singlamteh thu in haina thu ahi hi. Gupna a ngah eite ading tua thu in Pasian’ vangliatna ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, siatna a thuakte’ ading singlamteh thu in haina thu ahi hi. Gupna a ngah eite ading tua thu in Pasian’ vangliatna ahi hi.
 
 **ZVS:** Bang hang hiam cih leh sihna a thuak mite-a' dingin singlamteh tungah Khrih sihna thu pen a haihuai thu ahi hi. Ahi zongin hotkhiatna a ngah eite-a' dingin Pasian' vangliatna ahi hi.
 
 ### v19
 **EN:** For it is written, I will destroy the wisdom of the wise, and will bring to nothing the understanding of the prudent.
 
-**TDB77:** Bang hang hiam na cih uh leh, Lai Siangtho sungah: “Pilna a neite a pilna ka sugawp ding hi. Lungpil a neite a lungpilna ka sugawp ding hi, Lungpil a neite a lungpilna ka paaimang ding hi,” ci-in a kigelh hi.
+**TDB77:** Bang hang hiam na cih-te leh, Lai Siangtho sungah: “Pilna a neite a pilna ka sugawp ding hi. Lungpil a neite a lungpilna ka sugawp ding hi, Lungpil a neite a lungpilna ka paaimang ding hi,” ci-in a kigelh hi.
 
 **ZVS:** Bang hang hiam cih leh Lai Siangtho sungah, “Mipilte' pilna ka susia ding a, miteite' teina ka heikhiatsak ding hi,” ci-in kigelh hi.
 
@@ -197,16 +197,16 @@
 ### v21
 **EN:** For after that in the wisdom of God the world by wisdom knew not God, it pleased God by the foolishness of preaching to save them that believe.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian’ vaihawm bangin leitung mite in amau lungpilna hangah Pasian thei lo uh ahih ciangin, Pasian in a umte thuhilhna hai tawh a gup nading lungsim a nei hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian’ vaihawm bangin leitung mite in amau lungpilna hangah Pasian thei lo-te ahih ciangin, Pasian in a umte thuhilhna hai tawh a gup nading lungsim a nei hi.
 
-**ZVS:** Pasian in ama pilna hong zang a, mihingte in amau' pilna tawh pasian a theih zawhlohna dingun a bawl hi. Tua ahih manin mite in, “A haihuai thu,” ci-in a ngaihsut uh i thuhilhna a umte, Pasian in hotkhiatna a piazaw hi.
+**ZVS:** Pasian in ama pilna hong zang a, mihingte in amau' pilna tawh pasian a theih zawhlohna dingun a bawl hi. Tua ahih manin mite in, “A haihuai thu,” ci-in a ngaihsut-te i thuhilhna a umte, Pasian in hotkhiatna a piazaw hi.
 
 ### v22
 **EN:** For the Jews require a sign, and the Greeks seek after wisdom:
 
-**TDB77:** Judah mite in nalamdang a ngen thei uh hi. Grik mite in lungpilna a zong thei uh hi.
+**TDB77:** Judah mite in nalamdang a ngen thei-te hi. Grik mite in lungpilna a zong thei-te hi.
 
-**ZVS:** A uptheihna dingun Jew mite in na lamdang kal uh a, Grik mite in pilna a thupisak uh hi.
+**ZVS:** A uptheihna dingun Jew mite in na lamdang kal-te a, Grik mite in pilna a thupisak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -215,7 +215,7 @@
 
 **TDB77:** Eite i hih leh, singlamteh tungah a si Khazih’ thu i hilh hi. Tua thu in Judah mite ading kipukna ahi hi. Gentailte ading haina ahi hi.
 
-**ZVS:** Ahi zongin kote in singlamteh tungah a kikhai Khrih' thu ka hilh uh a, tua thu pen Jew mite-a' dingin a hehhuai thu hi a, Gentail mite-a' dingin a haihuai thu ahi hi.
+**ZVS:** Ahi zongin kote in singlamteh tungah a kikhai Khrih' thu ka hilh-te a, tua thu pen Jew mite-a' dingin a hehhuai thu hi a, Gentail mite-a' dingin a haihuai thu ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -231,16 +231,16 @@
 ### v25
 **EN:** Because the foolishness of God is wiser than men; and the weakness of God is stronger than men.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian’ haina in mite’ pilna sangin a pilzaw hi; Pasian’ thanemna in mite’ thahatna sangin a hatzaw hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian’ haina in mite’ pilna sangin a pilzaw hi; Pasian’ thanemna in mite’ thahatna sangin a hatzaw hi.
 
 **ZVS:** Bang hang hiam cih leh Pasian' haina pen mite' pilna sangin sangzaw lai a, Pasian' thaneemna pen mite' hatna sangin hatzaw lai hi.
 
 ### v26
 **EN:** For ye see your calling, brethren, how that not many wise men after the flesh, not many mighty, not many noble, are called:
 
-**TDB77:** Ute naute aw, note hong sapna thu na ngaihsun un. A hong sap mite lakah leitung pilna a nei mi tampi a om kei uh hi; minthan’na a nei tampi a om kei uh hi; a nam liante tampi a om kei uh hi.
+**TDB77:** Ute naute aw, note hong sapna thu na ngaihsun un. A hong sap mite lakah leitung pilna a nei mi tampi a om kei-te hi; minthan’na a nei tampi a om kei-te hi; a nam liante tampi a om kei-te hi.
 
-**ZVS:** Sanggamte aw, Pasian in note hong sap laitakin na omzia uh ngaihsun un. Leitung mite' hong muhna panin note a tamzaw, mipil na hi kei uh a, mi vanglian zong na hi kei uh a, mi thupi zong na hi kei uh hi.
+**ZVS:** Sanggamte aw, Pasian in note hong sap laitakin na omzia-te ngaihsun un. Leitung mite' hong muhna panin note a tamzaw, mipil na hi kei-te a, mi vanglian zong na hi kei-te a, mi thupi zong na hi kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -258,7 +258,7 @@
 
 **TDB77:** A omte a man’than sak nadingin leitungah a gina lote leh a kigina sim lote akipan, a om lote nangawn a teelkhia hi.
 
-**ZVS:** Leitung mite in thupi a sakte uh a suksiat theihna dingin Pasian in leitung mite' simmawh a niamte, bangmahin a ngaihsutloh uh mite a teel hi.
+**ZVS:** Leitung mite in thupi a sakte-te a suksiat theihna dingin Pasian in leitung mite' simmawh a niamte, bangmahin a ngaihsutloh-te mite a teel hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -274,7 +274,7 @@
 ### v30
 **EN:** But of him are ye in Christ Jesus, who of God is made unto us wisdom, and righteousness, and sanctification, and redemption:
 
-**TDB77:** Tua Pasian hangin note in Khazih Zeisu sungah na om uh hi. Tua Khazih Zeisu in eite ading Pasian kiang pan pilna, dikna, sian’thona leh tatkhiatna hong suak zo hi.
+**TDB77:** Tua Pasian hangin note in Khazih Zeisu sungah na om-te hi. Tua Khazih Zeisu in eite ading Pasian kiang pan pilna, dikna, sian’thona leh tatkhiatna hong suak zo hi.
 
 **ZVS:** Ahi zongin Pasian in Jesuh Khrih hangin note tungah nuntakna hong pia a, tua Jesuh Khrih pen eite' pilna, Pasian tawh i kipawl theihna, Pasian' mi siangtho suakin, hotkhiatna i ngah theihna ahi hi.
 

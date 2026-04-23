@@ -18,7 +18,7 @@
 **Related:** laam khat, laampawl, laamto, laam laitaka huih laka om banga laamna, laamna inn sung lianpi
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Tui tunga tuiphuan laam bangin a kumpipa uh maimang ding hi.*
+> *Tui tunga tuiphuan laam bangin a kumpipa-te maimang ding hi.*
 > → As for Samaria, her king is cut off as the foam upon the water.
 > `HOS 10:7`
 
@@ -98,7 +98,7 @@
 **Related:** zongin, pan, note, lim, moses
 **CEFR:** A1
 **Usage:** Attested 389× across 10 Bible books.
-> *gamta na hi uh hi,”*
+> *gamta na hi-te hi,”*
 
 ### lahsate
 **[n]** pattern
@@ -115,7 +115,7 @@
 **Related:** zongin, theih, gen
 **CEFR:** A1
 **Usage:** Attested 240× across 6 Bible books.
-> *Na thu uh sung un*
+> *Na thu-te sung un*
 
 ### laibu
 **[n]** book
@@ -329,7 +329,7 @@
 **Related:** tunga, tung, eite, neihsa, tate
 **CEFR:** A1
 **Usage:** Attested 108× across 2 Bible books.
-> *nang' tunga Pasian' hong cih peuhpeuh hih in,” a ci uh hi.*
+> *nang' tunga Pasian' hong cih peuhpeuh hih in,” a ci-te hi.*
 
 ### lakkum
 **[n]** jabneel
@@ -370,7 +370,7 @@
 **Related:** gam, israel, neihsa, khin, note
 **CEFR:** A1
 **Usage:** Attested 4950× across 50 Bible books.
-> *a manpha na kizepnate zong hong laksak ding uh hi.*
+> *a manpha na kizepnate zong hong laksak ding-te hi.*
 > `EZK 23:26`
 
 ### laksakin
@@ -442,7 +442,7 @@
 **Related:** lamdangsa, lamdang salua, lamdang sakluatna, lamdawt, lamdangsakna
 **CEFR:** A1
 **Usage:** Adjective — place before noun or after verb as predicate.
-> *Tuucingte’ thugenna zate khempeuh in lamdang a sa uh hi.*
+> *Tuucingte’ thugenna zate khempeuh in lamdang a sa-te hi.*
 > → And all they that heard it wondered at those things which were told them by the shepherds.
 > `LUK 2:18`
 
@@ -519,7 +519,7 @@
 **Meanings:** laadan | son | sons | chief | shimei | three
 **CEFR:** A2
 **Usage:** Attested 175× across 2 Bible books.
-> *Gershom' tapate: Ladan leh Shimei ahi uh hi.*
+> *Gershom' tapate: Ladan leh Shimei ahi-te hi.*
 > → Of the Gershonites were, Laadan, and Shimei.
 
 ### lahad
@@ -555,7 +555,7 @@
 **Related:** theihna, thute, dingun
 **CEFR:** A2
 **Usage:** Attested 245× across 10 Bible books.
-> *Tua ka laigelh na sim le uh cin Khrih tawh kisai*
+> *Tua ka laigelh na sim le-te cin Khrih tawh kisai*
 
 ### laigelhte
 **[n]** levites
@@ -699,7 +699,7 @@
 **Related:** lamdang salua, lamdang sakluatna, lamdawt, lamdangsakna, lamdang
 **CEFR:** A2
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *leitungmite in note hong muhdah uh leh*
+> *leitungmite in note hong muhdah-te leh*
 > `1JN 3:13`
 
 ### lamdangte
@@ -884,7 +884,7 @@
 **Related:** levi, kongcingte, biakinn, siampite, israel
 **CEFR:** A2
 **Usage:** Attested 3333× across 13 Bible books.
-> *Lasate sung panin: Asaf suante zakhat leh sawmnih-le-giat ahi uh hi.*
+> *Lasate sung panin: Asaf suante zakhat leh sawmnih-le-giat ahi-te hi.*
 > → The singers: the children of Asaph, an hundred twenty and eight.
 > `EZR 2:41`
 
@@ -1045,7 +1045,7 @@
 **Related:** lakkhiatna, lakkhetu
 **CEFR:** B1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Pasian in amau’ mawhna leh a kiphatsaknate uh a lakkhia ahi hi.*
+> *Pasian in amau’ mawhna leh a kiphatsaknate-te a lakkhia ahi hi.*
 > → Then he sheweth them their work, and their transgressions that they have exceeded.
 > `JOB 36:9`
 
@@ -1366,7 +1366,7 @@
 **Meanings:** many | sword | flame | captivity | spoil | days
 **CEFR:** B2
 **Usage:** Attested 95× across 2 Bible books.
-> *pilna uh midang tampite tawh*
+> *pilna-te midang tampite tawh*
 
 ### lawkite
 **[n]** saith
@@ -1426,7 +1426,7 @@
 **Meanings:** against | redeemed | yet | spoken | lies | woe
 **CEFR:** B2
 **Usage:** Attested 85× across 2 Bible books.
-> *Amaute in kei hong taisanin hong lehdo uh ahih manin*
+> *Amaute in kei hong taisanin hong lehdo-te ahih manin*
 
 ### lehmut
 **[n]** tossed
@@ -1552,7 +1552,7 @@
 **Related:** pai, dawn, gamdang, panun, phualkip
 **CEFR:** B2
 **Usage:** Attested 410× across 9 Bible books.
-> *a phualkip panun a lingsa-in hong paikhia uh hi.*
+> *a phualkip panun a lingsa-in hong paikhia-te hi.*
 
 ### loammi
 **[n]** name
@@ -1647,7 +1647,7 @@
 **Related:** thuhilh, kamsang, sawltak
 **CEFR:** C1
 **Usage:** Attested 125× across 4 Bible books.
-> *a vekpi-un na lamdang zong bawllo uh hi.*
+> *a vekpi-un na lamdang zong bawllo-te hi.*
 
 ### laihilhna
 **[n]** daily
@@ -1735,7 +1735,7 @@
 **Related:** pau, kikhopna, khuapi, hun, gal
 **CEFR:** C1
 **Usage:** Attested 376× across 7 Bible books.
-> *Moses leh Elijah ahi nihte in meel lamdangin kilang uh a,*
+> *Moses leh Elijah ahi nihte in meel lamdangin kilang-te a,*
 > → And, behold, there talked with him two men, which were Moses and Elias:
 > `LUK 9:30`
 
@@ -1812,7 +1812,7 @@
 **[]** great
 **Meanings:** great | missing | cana | called | there | jesus
 **CEFR:** C1
-> *Zeisu leh a nungzuite zong lawmvakna-ah a sam uh hi.*
+> *Zeisu leh a nungzuite zong lawmvakna-ah a sam-te hi.*
 > → And both Jesus was called, and his disciples, to the marriage.
 > `JHN 2:2`
 
@@ -1877,7 +1877,7 @@
 **[]** world
 **Meanings:** world | riches | spectacle | say | chastened | speak
 **CEFR:** C1
-> *leitungmite in note hong muhdah uh leh*
+> *leitungmite in note hong muhdah-te leh*
 > `1JN 3:13`
 
 ### leizum
@@ -1945,7 +1945,7 @@
 **Meanings:** cities | come | lycaonia | fled | lystra | derbe
 **CEFR:** C1
 **Usage:** Attested 210× across 2 Bible books.
-> *amaute in a theihkholh uh ciangin Likaonia khua*
+> *amaute in a theihkholh-te ciangin Likaonia khua*
 > `ACT 14:6`
 
 ### likkhiatsak
@@ -1953,7 +1953,7 @@
 **Meanings:** away | themselves | roll | stone | door | among
 **CEFR:** C1
 **Usage:** Attested 60× across 2 Bible books.
-> *Amaute khatlekhat kikum uh a*
+> *Amaute khatlekhat kikum-te a*
 
 ### lima
 **[]** whom
@@ -2125,7 +2125,7 @@ awsuah
 **Related:** laam khat, laam, laamto, laam laitaka huih laka om banga laamna, laamna inn sung lianpi
 **CEFR:** C2
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *ahi zongin na mu kei ding uh hi.*
+> *ahi zongin na mu kei ding-te hi.*
 
 ### laamsa
 **[n]** came
@@ -2199,7 +2199,7 @@ awsuah
 
 ### labarum
 **[noun]** labarum
-**Meanings:** labarum | R.C thuzui te kigual in a vak uh ciang atawi uh dial(alan)
+**Meanings:** labarum | R.C thuzui te kigual in a vak-te ciang atawi-te dial(alan)
 **CEFR:** C2
 
 ### label
@@ -2219,7 +2219,7 @@ awsuah
 **[adj]** labiodental
 **Meanings:** adj. nuailam muuk tawh ha tung lam mat-a geenkhia "f " leh "v" bang laimalte. | labiodental | nuailam muuk tawh ha tung lam mat-a geenkhia “f ” leh “v” bang laimalte | nuailam muuk tawh ha tung lam mat-a geenkhia "f " leh "v" bang laimalte
 **CEFR:** C2
-> *Mangpau ah F leh V pen labiodental fricatives ahi uh hi.*
+> *Mangpau ah F leh V pen labiodental fricatives ahi-te hi.*
 
 ### labionasal
 **[adj]** adj. muuktegeel cip-a geenkhia (m) laimal bangte., muuktegeel cip-a geenkhia (m) laimal bangte

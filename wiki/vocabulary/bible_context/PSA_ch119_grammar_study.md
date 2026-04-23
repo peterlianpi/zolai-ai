@@ -38,7 +38,7 @@
 ### v3
 **EN:** They also do no iniquity: they walk in his ways.
 
-**TDB77:** Ama thuhilhnate zui-in, a lungsim khempeuh uh tawh amah zongin, khialhna zong bawlloin, ama lampi a zuite, thupha ngah ahi hi.
+**TDB77:** Ama thuhilhnate zui-in, a lungsim khempeuh-te tawh amah zongin, khialhna zong bawlloin, ama lampi a zuite, thupha ngah ahi hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -206,9 +206,9 @@
 ### v23
 **EN:** Princes also did sit and speak against me: but thy servant did meditate in thy statutes.
 
-**TDB77:** Uliante tu sukin keimah lang pangin thu a vaihawm uh hangin na nasempa in na ngeina kipte ngaihsunsun ding hi.
+**TDB77:** Uliante tu sukin keimah lang pangin thu a vaihawm-te hangin na nasempa in na ngeina kipte ngaihsunsun ding hi.
 
-**ZVS:** Uliante in kei hong langpangin thu a vaihawm uh hangin na nasempa in na ngeina kipte ngaihsunsun ding hi.
+**ZVS:** Uliante in kei hong langpangin thu a vaihawm-te hangin na nasempa in na ngeina kipte ngaihsunsun ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -442,7 +442,7 @@
 
 **TDB77:** Mi kiphasakte in kei hong zahko gawp a, ahih hangin nangma thukham panin kei ka pial kei hi.
 
-**ZVS:** Mi kiphasakte in kei hong zahko gawp uh a, ahih hangin nangma thupiakna panin kei ka pial kei hi.
+**ZVS:** Mi kiphasakte in kei hong zahko gawp-te a, ahih hangin nangma thupiakna panin kei ka pial kei hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
@@ -596,9 +596,9 @@
 ### v69
 **EN:** The proud have forged a lie against me: but I will keep thy precepts with my whole heart.
 
-**TDB77:** Mi kiphasakte in kei’ langah zuauthu vive gengen uh a, ahih hangin ka lungsim khempeuh tawh na thuhilhte ka zui hi;
+**TDB77:** Mi kiphasakte in kei’ langah zuauthu vive gengen-te a, ahih hangin ka lungsim khempeuh tawh na thuhilhte ka zui hi;
 
-**ZVS:** Mi kiphasakte in kei' thu, zuau vive gengen uh a, ahih hangin keimah in ka lungsim khempeuh tawh na thuhilhte ka zui hi.
+**ZVS:** Mi kiphasakte in kei' thu, zuau vive gengen-te a, ahih hangin keimah in ka lungsim khempeuh tawh na thuhilhte ka zui hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -639,9 +639,9 @@
 ### v74
 **EN:** They that fear thee will be glad when they see me; because I have hoped in thy word.
 
-**TDB77:** Nangma thuciam muang ka hih manin nang hong zahtakte in kei hong mu-in lungdam ding uh hi.
+**TDB77:** Nangma thuciam muang ka hih manin nang hong zahtakte in kei hong mu-in lungdam ding-te hi.
 
-**ZVS:** Nangma thuciamna muang ka hih manin nang hong zahtakte in kei hong mu-in lungdam ding uh hi.
+**ZVS:** Nangma thuciamna muang ka hih manin nang hong zahtakte in kei hong mu-in lungdam ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | plural: uh marker
 
@@ -675,9 +675,9 @@
 ### v78
 **EN:** Let the proud be ashamed; for they dealt perversely with me without a cause: but I will meditate in thy precepts.
 
-**TDB77:** Mi kiphasakte zahhuaisak in, bang hang hiam cih leh amaute in khemna tawh kei hong lumlet uh hi; ke’n ahih leh, na thuhilhte ka lungngaingai ding hi.
+**TDB77:** Mi kiphasakte zahhuaisak in, bang hang hiam cih leh amaute in khemna tawh kei hong lumlet-te hi; ke’n ahih leh, na thuhilhte ka lungngaingai ding hi.
 
-**ZVS:** Mi kiphasakte zahhuaisak in. Bang hang hiam cih leh amaute in khemna tawh kei hong lumlet uh hi. Ke'n ahih leh na thuhilhte ka lungngaingai ding hi.
+**ZVS:** Mi kiphasakte zahhuaisak in. Bang hang hiam cih leh amaute in khemna tawh kei hong lumlet-te hi. Ke'n ahih leh na thuhilhte ka lungngaingai ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -736,27 +736,27 @@
 ### v85
 **EN:** The proud have digged pits for me, which are not after thy law.
 
-**TDB77:** Nangma thu a zui lo, mi kiphasakte in keimah siahna in gum to uh hi.
+**TDB77:** Nangma thu a zui lo, mi kiphasakte in keimah siahna in gum to-te hi.
 
-**ZVS:** Nangma thu a zuilo, mi kiphasakte in keimah hong siahna-in gum a to uh hi.
+**ZVS:** Nangma thu a zuilo, mi kiphasakte in keimah hong siahna-in gum a to-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v86
 **EN:** All thy commandments are faithful: they persecute me wrongfully; help thou me.
 
-**TDB77:** Nangma thupiaknate khempeuh man taktak hi; amaute in thuman lopi-in kei hong bawlsia uh hi; kei hong huh in!
+**TDB77:** Nangma thupiaknate khempeuh man taktak hi; amaute in thuman lopi-in kei hong bawlsia-te hi; kei hong huh in!
 
-**ZVS:** Nangma thupiakte khempeuh man taktak hi. Amaute in thuman lopi-in kei hong bawlsia uh hi. Kei hong huh in.
+**ZVS:** Nangma thupiakte khempeuh man taktak hi. Amaute in thuman lopi-in kei hong bawlsia-te hi. Kei hong huh in.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v87
 **EN:** They had almost consumed me upon earth; but I forsook not thy precepts.
 
-**TDB77:** Amaute in kei hong that zo dektak uh hi; ahih hangin keimah in na thuhilhnate ka mangngilh tuan’ kei hi.
+**TDB77:** Amaute in kei hong that zo dektak-te hi; ahih hangin keimah in na thuhilhnate ka mangngilh tuan’ kei hi.
 
-**ZVS:** Amaute in kei hong thatzo dektak uh hi. Ahih hangin na thuhilhnate ka mangngilh tuan kei hi.
+**ZVS:** Amaute in kei hong thatzo dektak-te hi. Ahih hangin na thuhilhnate ka mangngilh tuan kei hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -790,9 +790,9 @@
 ### v91
 **EN:** They continue this day according to thine ordinances: for all are thy servants.
 
-**TDB77:** Nangma sehna tawh tuni dongin amaute kip uh hi; bang hang hiam cih leh na khempeuh in nangma nasem ahi hi.
+**TDB77:** Nangma sehna tawh tuni dongin amaute kip-te hi; bang hang hiam cih leh na khempeuh in nangma nasem ahi hi.
 
-**ZVS:** Nangma sehna tawh tudongin amaute kip uh hi. Bang hang hiam cih leh na khempeuh nangma nasem ahi hi.
+**ZVS:** Nangma sehna tawh tudongin amaute kip-te hi. Bang hang hiam cih leh na khempeuh nangma nasem ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -824,9 +824,9 @@
 ### v95
 **EN:** The wicked have waited for me to destroy me: but I will consider thy testimonies.
 
-**TDB77:** Migilote in keimah that dingin hong buk uh hi; ahih hangin na teci pan’na ke’n ka lungngaingai ding hi.
+**TDB77:** Migilote in keimah that dingin hong buk-te hi; ahih hangin na teci pan’na ke’n ka lungngaingai ding hi.
 
-**ZVS:** Migilote in keimah a hong that dingin hong buk uh hi. Ahih hangin na teci pan'nate ke'n ka lungngaingai ding hi.
+**ZVS:** Migilote in keimah a hong that dingin hong buk-te hi. Ahih hangin na teci pan'nate ke'n ka lungngaingai ding hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
@@ -951,9 +951,9 @@
 ### v110
 **EN:** The wicked have laid a snare for me: yet I erred not from thy precepts.
 
-**TDB77:** Migilote in, kei thang hong siah uh a, ahih hangin na thuhilhte panin kei ka pial kei hi.
+**TDB77:** Migilote in, kei thang hong siah-te a, ahih hangin na thuhilhte panin kei ka pial kei hi.
 
-**ZVS:** Migilote in kei thang hong siah uh a, ahih hangin na thuhilhnate panin kei ka pial kei hi.
+**ZVS:** Migilote in kei thang hong siah-te a, ahih hangin na thuhilhnate panin kei ka pial kei hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -1173,7 +1173,7 @@
 
 **TDB77:** Mite in nangma thu zui lo ahih manin ka khitui hawk luan’in a luang hi.
 
-**ZVS:** Mite in nangma thu zuilo uh ahih manin ka khitui hawk luan'in a luang hi.
+**ZVS:** Mite in nangma thu zuilo-te ahih manin ka khitui hawk luan'in a luang hi.
 
 **Grammar:** causal: because
 
@@ -1198,9 +1198,9 @@
 ### v139
 **EN:** My zeal hath consumed me, because mine enemies have forgotten thy words.
 
-**TDB77:** Ka galte in nangma thu kin lo uh ahih manin, ka hehna mei bangin a kuang hi.
+**TDB77:** Ka galte in nangma thu kin lo-te ahih manin, ka hehna mei bangin a kuang hi.
 
-**ZVS:** Ka galte in nangma thu kin hetlo uh ahih manin keima hehna mei bangin a kuang hi.
+**ZVS:** Ka galte in nangma thu kin hetlo-te ahih manin keima hehna mei bangin a kuang hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix
 
@@ -1293,9 +1293,9 @@
 ### v150
 **EN:** They draw nigh that follow after mischief: they are far from thy law.
 
-**TDB77:** Gitloh ngimna tawh kei hong bawlsia amaute in kei hong neh ta uh hi; amaute in nangma thu ngaihsutin nei lo uh hi.
+**TDB77:** Gitloh ngimna tawh kei hong bawlsia amaute in kei hong neh ta-te hi; amaute in nangma thu ngaihsutin nei lo-te hi.
 
-**ZVS:** Gitloh ngimna tawh kei hong bawlsia mite in kei hong nehta uh a, amaute in nangma thu ngaihsutin neilo uh hi.
+**ZVS:** Gitloh ngimna tawh kei hong bawlsia mite in kei hong nehta-te a, amaute in nangma thu ngaihsutin neilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -1336,9 +1336,9 @@
 ### v155
 **EN:** Salvation is far from the wicked: for they seek not thy statutes.
 
-**TDB77:** Migilote, kihonkhia lo ding hi; bang hang hiam cih leh amaute in nangmah thukhamte zui lo uh hi.
+**TDB77:** Migilote, kihonkhia lo ding hi; bang hang hiam cih leh amaute in nangmah thukhamte zui lo-te hi.
 
-**ZVS:** Migilote, kihonkhia lo ding hi. Bang hang hiam cih leh amaute in na thukhamte zuilo uh hi.
+**ZVS:** Migilote, kihonkhia lo ding hi. Bang hang hiam cih leh amaute in na thukhamte zuilo-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -1363,9 +1363,9 @@
 ### v158
 **EN:** I beheld the transgressors, and was grieved; because they kept not thy word.
 
-**TDB77:** Thuman lo mite enin ka kih hi, bang hang hiam cih leh amaute in nangma thupiaknate zui lo uh hi.
+**TDB77:** Thuman lo mite enin ka kih hi, bang hang hiam cih leh amaute in nangma thupiaknate zui lo-te hi.
 
-**ZVS:** Thumanlo mite ka muh ciangin ka kih mahmah hi. Bang hang hiam cih leh amaute in nangma thupiakte zuilo uh hi.
+**ZVS:** Thumanlo mite ka muh ciangin ka kih mahmah hi. Bang hang hiam cih leh amaute in nangma thupiakte zuilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -1390,9 +1390,9 @@
 ### v161
 **EN:** Princes have persecuted me without a cause: but my heart standeth in awe of thy word.
 
-**TDB77:** Uliante in thu om lopi-in kei hong bawlsia uh a, ahih hangin na thute, lamdang sa-in ka thupi ngaihsut hi.
+**TDB77:** Uliante in thu om lopi-in kei hong bawlsia-te a, ahih hangin na thute, lamdang sa-in ka thupi ngaihsut hi.
 
-**ZVS:** Uliante in thu omlopi-in kei hong bawlsia uh a, ahih hangin na thute lamdang sa mahmahin ka thupi ngaihsut hi.
+**ZVS:** Uliante in thu omlopi-in kei hong bawlsia-te a, ahih hangin na thute lamdang sa mahmahin ka thupi ngaihsut hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -1426,9 +1426,9 @@
 ### v165
 **EN:** Great peace have they which love thy law: and nothing shall offend them.
 
-**TDB77:** Nangma thu a deihte in lungnopna lianpi ngah uh a, bangmah in amaute tuksak zo lo hi.
+**TDB77:** Nangma thu a deihte in lungnopna lianpi ngah-te a, bangmah in amaute tuksak zo lo hi.
 
-**ZVS:** Nangma thu a deihte in lungnopna lianpi ngah uh a, amaute a tuksakzo ding bangmah omlo hi.
+**ZVS:** Nangma thu a deihte in lungnopna lianpi ngah-te a, amaute a tuksakzo ding bangmah omlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

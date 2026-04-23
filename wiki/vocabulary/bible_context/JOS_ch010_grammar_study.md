@@ -51,27 +51,27 @@
 ### v4
 **EN:** Come up unto me, and help me, that we may smite Gibeon: for it hath made peace with Joshua and with the children of Israel.
 
-**TDB77:** “Kei kiangah hong pai un, hong huh un la, Gibeon vat gawp ni; bang hang hiam cih leh Joshua leh Israel mite tawh kilemna bawl khin uh hi,” a ci hi.
+**TDB77:** “Kei kiangah hong pai un, hong huh un la, Gibeon vat gawp ni; bang hang hiam cih leh Joshua leh Israel mite tawh kilemna bawl khin-te hi,” a ci hi.
 
-**ZVS:** “Kei kiangah hong pai un. Hong huh un la, Gibeon vatgawp ni. Bang hang hiam cih leh Joshua leh Israel mite tawh kilemna na bawl khin uh hi,” a ci hi.
+**ZVS:** “Kei kiangah hong pai un. Hong huh un la, Gibeon vatgawp ni. Bang hang hiam cih leh Joshua leh Israel mite tawh kilemna na bawl khin-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** Therefore the five kings of the Amorites, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, the king of Eglon, gathered themselves together, and went up, they and all their hosts, and encamped before Gibeon, and made war against it.
 
-**TDB77:** Tua ciangin Amor kumpi ngate, Jerusalem kumpi, Hebron kumpi, Jarmuth kumpi, Lakhish kumpi, leh Eglon kumpite in a galkapte khempeuh uh gawmin a galkapte khempeuh uh tawh paito-in Gibeon lang khatah phual satin do uh hi.
+**TDB77:** Tua ciangin Amor kumpi ngate, Jerusalem kumpi, Hebron kumpi, Jarmuth kumpi, Lakhish kumpi, leh Eglon kumpite in a galkapte khempeuh-te gawmin a galkapte khempeuh-te tawh paito-in Gibeon lang khatah phual satin do-te hi.
 
-**ZVS:** Tua ciangin Amor kumpi ngate, Jerusalem kumpi, Hebron kumpi, Jarmuth kumpi, Lakhish kumpi, leh Eglon kumpi, a galkapte khempeuh uh tawh paito-in Gibeon langkhatah phual satin a do uh hi.
+**ZVS:** Tua ciangin Amor kumpi ngate, Jerusalem kumpi, Hebron kumpi, Jarmuth kumpi, Lakhish kumpi, leh Eglon kumpi, a galkapte khempeuh-te tawh paito-in Gibeon langkhatah phual satin a do-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v6
 **EN:** And the men of Gibeon sent unto Joshua to the camp to Gilgal, saying, Slack not thy hand from thy servants; come up to us quickly, and save us, and help us: for all the kings of the Amorites that dwell in the mountains are gathered together against us.
 
-**TDB77:** Tua ciangin Gibeon mite Gilgal-a giahphual-a Joshua kiangah kamtai sawl-in, “Na nasemte hong nusia kei in; manlang takin ko kiangah hong paito-in, kote hong hon in la, hong huh in; bang hang hiam cih leh mualtung gam-a teeng Amor kumpite khempeuh kote lang pangin kikhawm uh hi,” a ci uh hi.
+**TDB77:** Tua ciangin Gibeon mite Gilgal-a giahphual-a Joshua kiangah kamtai sawl-in, “Na nasemte hong nusia kei in; manlang takin ko kiangah hong paito-in, kote hong hon in la, hong huh in; bang hang hiam cih leh mualtung gam-a teeng Amor kumpite khempeuh kote lang pangin kikhawm-te hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin Gibeon mite in Gilgal-a giahphuala Joshua kiangah kamtai sawlin, “Na nasemte hong nusia kei in. Manlang takin ko kiangah hong paito-in, kote hong hon in la, hong huh in. Bang hang hiam cih leh mualtung gama teng Amor kumpite khempeuh kote langpangin kikhawm uh hi,” a ci uh hi.
+**ZVS:** Tua ciangin Gibeon mite in Gilgal-a giahphuala Joshua kiangah kamtai sawlin, “Na nasemte hong nusia kei in. Manlang takin ko kiangah hong paito-in, kote hong hon in la, hong huh in. Bang hang hiam cih leh mualtung gama teng Amor kumpite khempeuh kote langpangin kikhawm-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** And the
 
-**TDB77:** Tua ciangin Topa in Joshua kiangah, “Amaute na khut sungah hong pia khin ka hih manin amaute kihta kei in; amaute khat beek in nang hong nang zo lo ding uh hi,” a ci hi.
+**TDB77:** Tua ciangin Topa in Joshua kiangah, “Amaute na khut sungah hong pia khin ka hih manin amaute kihta kei in; amaute khat beek in nang hong nang zo lo ding-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin { Topa } in Joshua kiangah, “Amaute na khutsungah hong pia khin ka hih manin amaute kihta kei in. Amaute khat beek in nang hong nang zolo ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin { Topa } in Joshua kiangah, “Amaute na khutsungah hong pia khin ka hih manin amaute kihta kei in. Amaute khat beek in nang hong nang zolo ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -105,18 +105,18 @@
 ### v10
 **EN:** And the
 
-**TDB77:** Topa in Israelte mai-ah amaute am gawp sakin, amaute in Gibeon-ah amaute tampi tak that uh a, Bethhoron paitohna lampi-ah amaute delhin, Azekah leh Makkedah ciang dong amaute vatgawp uh hi.
+**TDB77:** Topa in Israelte mai-ah amaute am gawp sakin, amaute in Gibeon-ah amaute tampi tak that-te a, Bethhoron paitohna lampi-ah amaute delhin, Azekah leh Makkedah ciang dong amaute vatgawp-te hi.
 
-**ZVS:** { Topa } in Israel-te' mai-ah amaute amkham sakin, amaute in Gibeon-ah amaute tampi tak that uh a, Bethhoron paitohna lampi-ah amaute delhin, Azekah leh Makkedah ciangdong amaute a vatgawp uh hi.
+**ZVS:** { Topa } in Israel-te' mai-ah amaute amkham sakin, amaute in Gibeon-ah amaute tampi tak that-te a, Bethhoron paitohna lampi-ah amaute delhin, Azekah leh Makkedah ciangdong amaute a vatgawp-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** And it came to pass, as they fled from before Israel, and were in the going down to Beth–horon, that the
 
-**TDB77:** Israelte mai-ah amaute a tai laitak, Bethhoron paitohna-ah a paisuk lai takun, Topa in vantung panin gialpi lianpite Azekah khua ciang dong, amaute tungah lawnsuk a, amaute si uh hi; Israel mite in namsau tawh a thah sangin tua gialpi hanga a si mi tam zaw hi.
+**TDB77:** Israelte mai-ah amaute a tai laitak, Bethhoron paitohna-ah a paisuk lai takun, Topa in vantung panin gialpi lianpite Azekah khua ciang dong, amaute tungah lawnsuk a, amaute si-te hi; Israel mite in namsau tawh a thah sangin tua gialpi hanga a si mi tam zaw hi.
 
-**ZVS:** Israel-te' mai-ah amaute a tai laitak, Bethhoron paitohna-ah amaute a paisuk laitakun, { Topa } in vantung panin gialpi lianpite Azekah khua ciangdong, amaute' tungah lawnsuk a, amaute a si uh hi. Israel mite in namsau tawh a thah sangin tua gialpi hangin a si mi tamzaw hi.
+**ZVS:** Israel-te' mai-ah amaute a tai laitak, Bethhoron paitohna-ah amaute a paisuk laitakun, { Topa } in vantung panin gialpi lianpite Azekah khua ciangdong, amaute' tungah lawnsuk a, amaute a si-te hi. Israel mite in namsau tawh a thah sangin tua gialpi hangin a si mi tamzaw hi.
 
 **Grammar:** plural: uh marker
 
@@ -134,7 +134,7 @@
 
 **TDB77:** Tua ciangin minamte in a galte phu a lak khit mateng ni ding cipin kha khawl hi. Hih in Ja-shar’ Laibu sungah kigelh hilo ahi hiam? Van kim lai-ah ni khawlin ni khat bup ding bang tumsuk pak lo hi.
 
-**ZVS:** Tua ciangin hih minamte in a galte uh a zawh khit mateng ni dingcipin kha a khawl hi. Hih thute, Jashar' Laibu sungah kigelh hi. Vankim lai-ah ni khawlin ni khat bup bang tumsuklo hi.
+**ZVS:** Tua ciangin hih minamte in a galte-te a zawh khit mateng ni dingcipin kha a khawl hi. Hih thute, Jashar' Laibu sungah kigelh hi. Vankim lai-ah ni khawlin ni khat bup bang tumsuklo hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix
 
@@ -159,7 +159,7 @@
 ### v16
 **EN:** But these five kings fled, and hid themselves in a cave at Makkedah.
 
-**TDB77:** Hih kumpi ngate tai-in Makkedah leihawm sungah bu uh hi.
+**TDB77:** Hih kumpi ngate tai-in Makkedah leihawm sungah bu-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -184,25 +184,25 @@
 ### v19
 **EN:** And stay ye not, but pursue after your enemies, and smite the hindmost of them; suffer them not to enter into their cities: for the
 
-**TDB77:** ahih hangin note tua lai-ah om kei un, na galte uh delhin a nungdalte bawh un la, a khuapi sung uh ah amaute lutsak kei un; bang hang hiam cih leh Topa na Pasian un note khut sungah amaute hong pia zo hi,” a ci hi.
+**TDB77:** ahih hangin note tua lai-ah om kei un, na galte-te delhin a nungdalte bawh un la, a khuapi sung-te ah amaute lutsak kei un; bang hang hiam cih leh Topa na Pasian un note khut sungah amaute hong pia zo hi,” a ci hi.
 
-**ZVS:** Ahih hangin note tua lai-ah om kei un. Na galte uh delhin a nungdalte bawh un la, a khuapi sung uhah amaute lutsak kei un. Bang hang hiam cih leh { Topa } na Pasian un note' khutsungah amaute hong piazo hi,” a ci hi.
+**ZVS:** Ahih hangin note tua lai-ah om kei un. Na galte-te delhin a nungdalte bawh un la, a khuapi sung uhah amaute lutsak kei un. Bang hang hiam cih leh { Topa } na Pasian un note' khutsungah amaute hong piazo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying
 
 ### v20
 **EN:** And it came to pass, when Joshua and the children of Israel had made an end of slaying them with a very great slaughter, till they were consumed, that the rest which remained of them entered into fenced cities.
 
-**TDB77:** Joshua leh Israel mite in amaute a bei siang dongin tampi tak a thah khit ciang, leh a suakta lai mite amau’ khuapi muanhuai sungah a tum khit uh ciangin,
+**TDB77:** Joshua leh Israel mite in amaute a bei siang dongin tampi tak a thah khit ciang, leh a suakta lai mite amau’ khuapi muanhuai sungah a tum khit-te ciangin,
 
-**ZVS:** Joshua leh Israel mite in amaute a beisiang dongin tampi tak a thah khit uh ciang, leh a suakta lai mite amau' khuapi muan'huai sungah a tum khit uh ciangin,
+**ZVS:** Joshua leh Israel mite in amaute a beisiang dongin tampi tak a thah khit-te ciang, leh a suakta lai mite amau' khuapi muan'huai sungah a tum khit-te ciangin,
 
 ### v21
 **EN:** And all the people returned to the camp to Joshua at Makkedah in peace: none moved his tongue against any of the children of Israel.
 
-**TDB77:** Makkedah giahphual Joshua kiangah mi khempeuh ci damin ciahkik uh hi; Israel mite khat peuh a paupih ngam kuamah om lo hi.
+**TDB77:** Makkedah giahphual Joshua kiangah mi khempeuh ci damin ciahkik-te hi; Israel mite khat peuh a paupih ngam kuamah om lo hi.
 
-**ZVS:** Makkedah giahphual Joshua kiangah mi khempeuh cidamin a ciahkik uh hi. Israel mite khatpeuh a paupih ngam kuamah omlo hi.
+**ZVS:** Makkedah giahphual Joshua kiangah mi khempeuh cidamin a ciahkik-te hi. Israel mite khatpeuh a paupih ngam kuamah omlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -218,45 +218,45 @@
 ### v23
 **EN:** And they did so, and brought forth those five kings unto him out of the cave, the king of Jerusalem, the king of Hebron, the king of Jarmuth, the king of Lachish, and the king of Eglon.
 
-**TDB77:** Amaute in tua mah bangin hih uh a, leihawm panin tua kumpi ngate, Jerusalem kumpi, Hebron kumpi, Jarmuth kumpi, Lakhish kumpi, leh Eglon kumpite, ama kiangah paipih uh hi.
+**TDB77:** Amaute in tua mah bangin hih-te a, leihawm panin tua kumpi ngate, Jerusalem kumpi, Hebron kumpi, Jarmuth kumpi, Lakhish kumpi, leh Eglon kumpite, ama kiangah paipih-te hi.
 
-**ZVS:** Amaute in tua bangmahin hih uh a, leihawm panin tua kumpi ngate, Jerusalem kumpi, Hebron kumpi, Jarmuth kumpi, Lakhish kumpi, leh Eglon kumpite, ama kiangah a paipih uh hi.
+**ZVS:** Amaute in tua bangmahin hih-te a, leihawm panin tua kumpi ngate, Jerusalem kumpi, Hebron kumpi, Jarmuth kumpi, Lakhish kumpi, leh Eglon kumpite, ama kiangah a paipih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And it came to pass, when they brought out those kings unto Joshua, that Joshua called for all the men of Israel, and said unto the captains of the men of war which went with him, Come near, put your feet upon the necks of these kings. And they came near, and put their feet upon the necks of them.
 
-**TDB77:** Amaute in Joshua kiangah tua kumpi ngate a pai khiatpih uh ciangin, Joshua in Israel mi khempeuh samin, amah tawh a kuan khawm galkap mangte kiangah, “A nai-ah hong pai un la, hih kumpite ngawngah na khe uh nga un,” a ci hi. Tua ciangin amaute a nai-ah hong pai-in, a khe uh amaute ngawng tungah nga uh hi.
+**TDB77:** Amaute in Joshua kiangah tua kumpi ngate a pai khiatpih-te ciangin, Joshua in Israel mi khempeuh samin, amah tawh a kuan khawm galkap mangte kiangah, “A nai-ah hong pai un la, hih kumpite ngawngah na khe-te nga un,” a ci hi. Tua ciangin amaute a nai-ah hong pai-in, a khe-te amaute ngawng tungah nga-te hi.
 
-**ZVS:** Amaute in Joshua kiangah tua kumpi ngate a paikhiatpih uh ciangin, Joshua in Israel mi khempeuh samin, amah tawh a kuankhawm galkapmangte kiangah, “A nai-ah hong pai un la, hih kumpite' ngawngah na khe uh nga un,” a ci hi. Tua ciangin amaute a nai-ah hong pai-in, a khe uh amaute' ngawng tungah a nga uh hi.
+**ZVS:** Amaute in Joshua kiangah tua kumpi ngate a paikhiatpih-te ciangin, Joshua in Israel mi khempeuh samin, amah tawh a kuankhawm galkapmangte kiangah, “A nai-ah hong pai un la, hih kumpite' ngawngah na khe-te nga un,” a ci hi. Tua ciangin amaute a nai-ah hong pai-in, a khe-te amaute' ngawng tungah a nga-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And Joshua said unto them, Fear not, nor be dismayed, be strong and of good courage: for thus shall the
 
-**TDB77:** Joshua in amaute kiangah, “Lau kei un la, lungkia kei un; thakhauh un la, hang un; bang hang hiam cih leh note' do na gal khempeuhte uh tungah Topa in hih bangin bawl ding hi,” a ci hi.
+**TDB77:** Joshua in amaute kiangah, “Lau kei un la, lungkia kei un; thakhauh un la, hang un; bang hang hiam cih leh note' do na gal khempeuhte-te tungah Topa in hih bangin bawl ding hi,” a ci hi.
 
-**ZVS:** Joshua in amaute kiangah, “Lau kei un la, lungkia kei un. Thakhauh un la, hang un. Bang hang hiam cih leh note' do na gal khempeuhte uh tungah { Topa } in hih bangin bawl ding hi,” a ci hi.
+**ZVS:** Joshua in amaute kiangah, “Lau kei un la, lungkia kei un. Thakhauh un la, hang un. Bang hang hiam cih leh note' do na gal khempeuhte-te tungah { Topa } in hih bangin bawl ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 
 ### v26
 **EN:** And afterward Joshua smote them, and slew them, and hanged them on five trees: and they were hanging upon the trees until the evening.
 
-**TDB77:** Tua khit ciangin Joshua in amaute satin si sak a, singkung nga tungah amaute khai hi. Amaute in nitak dong sing tungah khai uh hi;
+**TDB77:** Tua khit ciangin Joshua in amaute satin si sak a, singkung nga tungah amaute khai hi. Amaute in nitak dong sing tungah khai-te hi;
 
-**ZVS:** Tua khit ciangin Joshua in amaute satin sisak a, singkung nga tungah amaute a khai hi. Amaute in nitak dong sing tungah a khai uh hi.
+**ZVS:** Tua khit ciangin Joshua in amaute satin sisak a, singkung nga tungah amaute a khai hi. Amaute in nitak dong sing tungah a khai-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v27
 **EN:** And it came to pass at the time of the going down of the sun, that Joshua commanded, and they took them down off the trees, and cast them into the cave wherein they had been hid, and laid great stones in the cave's mouth, which remain until this very day.
 
-**TDB77:** ahih hangin ni a tum hun ciangin Joshua in thu pia a, amaute in sing tung panin la khia sukin, amaute a buknasa leihawm sungah lawnsuk uh a, tu ni mahmahin a om lai ahi suangtum lianpite leihawm gongah koih uh hi.
+**TDB77:** ahih hangin ni a tum hun ciangin Joshua in thu pia a, amaute in sing tung panin la khia sukin, amaute a buknasa leihawm sungah lawnsuk-te a, tu ni mahmahin a om lai ahi suangtum lianpite leihawm gongah koih-te hi.
 
-**ZVS:** Ahih hangin ni a tum hun ciangin Joshua in thu pia a, amaute in sing tung panin lakhia sukin, amaute a buknasa leihawm sungah lawnsuk uh a, suangtum lianpite leihawm gongah a koih uh hi. Tudongin tua suangtumte omlai hi.
+**ZVS:** Ahih hangin ni a tum hun ciangin Joshua in thu pia a, amaute in sing tung panin lakhia sukin, amaute a buknasa leihawm sungah lawnsuk-te a, suangtum lianpite leihawm gongah a koih-te hi. Tudongin tua suangtumte omlai hi.
 
 **Grammar:** plural: uh marker
 
@@ -272,9 +272,9 @@
 ### v29
 **EN:** Then Joshua passed from Makkedah, and all Israel with him, unto Libnah, and fought against Libnah:
 
-**TDB77:** Tua ciangin Joshua, amah tawh a om Israelte khempeuh tawh Makkedah panin Libnah-ah paisuak uh a, Libnah khua sim uh hi;
+**TDB77:** Tua ciangin Joshua, amah tawh a om Israelte khempeuh tawh Makkedah panin Libnah-ah paisuak-te a, Libnah khua sim-te hi;
 
-**ZVS:** Tua ciangin Joshua, amah tawh a om Israel-te khempeuh tawh Makkedah panin Libnah-ah paisuak uh a, Libnah khua a sim uh hi.
+**ZVS:** Tua ciangin Joshua, amah tawh a om Israel-te khempeuh tawh Makkedah panin Libnah-ah paisuak-te a, Libnah khua a sim-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -290,9 +290,9 @@
 ### v31
 **EN:** And Joshua passed from Libnah, and all Israel with him, unto Lachish, and encamped against it, and fought against it:
 
-**TDB77:** Tua ciangin Joshua, amah tawh a om Israelte khempeuh tawh Libnah panin Lakhish-ah paisuak uh a, tua khua umcihin sim uh hi;
+**TDB77:** Tua ciangin Joshua, amah tawh a om Israelte khempeuh tawh Libnah panin Lakhish-ah paisuak-te a, tua khua umcihin sim-te hi;
 
-**ZVS:** Tua ciangin Joshua, amah tawh a om Israel-te khempeuh tawh Libnah panin Lakhish-ah paisuak uh a, tua khua umcihin a sim uh hi.
+**ZVS:** Tua ciangin Joshua, amah tawh a om Israel-te khempeuh tawh Libnah panin Lakhish-ah paisuak-te a, tua khua umcihin a sim-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -317,18 +317,18 @@
 ### v34
 **EN:** And from Lachish Joshua passed unto Eglon, and all Israel with him; and they encamped against it, and fought against it:
 
-**TDB77:** Tua ciangin Lakhish panin Eglon-ah amah tawh a om Israelte khempeuh tawh Joshua paisuak uh hi;
+**TDB77:** Tua ciangin Lakhish panin Eglon-ah amah tawh a om Israelte khempeuh tawh Joshua paisuak-te hi;
 
-**ZVS:** Tua ciangin Lakhish panin Eglon-ah, amah tawh a om Israel-te khempeuh tawh Joshua paisuakin tua khua umcihin a sim uh hi.
+**ZVS:** Tua ciangin Lakhish panin Eglon-ah, amah tawh a om Israel-te khempeuh tawh Joshua paisuakin tua khua umcihin a sim-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v35
 **EN:** And they took it on that day, and smote it with the edge of the sword, and all the souls that were therein he utterly destroyed that day, according to all that he had done to Lachish.
 
-**TDB77:** tua ni mahin tua khua la uh a, namsau tawh vatgawp uh hi; Lakhish a hih mah bangin tua khua sunga om mi khempeuh tua ni-in amah in susia mang hi.
+**TDB77:** tua ni mahin tua khua la-te a, namsau tawh vatgawp-te hi; Lakhish a hih mah bangin tua khua sunga om mi khempeuh tua ni-in amah in susia mang hi.
 
-**ZVS:** Tua ni mahin tua khua la uh a, namsau tawh a vatgawp uh hi. Lakhish a hih mah bangin tua khua sunga om mi khempeuh tua ni-in amah in a susiamang hi.
+**ZVS:** Tua ni mahin tua khua la-te a, namsau tawh a vatgawp-te hi. Lakhish a hih mah bangin tua khua sunga om mi khempeuh tua ni-in amah in a susiamang hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -362,9 +362,9 @@
 ### v39
 **EN:** And he took it, and the king thereof, and all the cities thereof; and they smote them with the edge of the sword, and utterly destroyed all the souls that were therein; he left none remaining: as he had done to Hebron, so he did to Debir, and to the king thereof; as he had done also to Libnah, and to her king.
 
-**TDB77:** amah in a kumpipa leh a khuapite khempeuh tawh tua khua la hi; namsau tawh amaute in vatgawp uh a, a sunga om mi khempeuh amaute in susia mang uh hi; amah in kuamah siit lo hi; amah in Hebron leh Libnah leh a kumpipa tungah a bawlsa bangin Debir leh a kumpipa tungah bawl hi.
+**TDB77:** amah in a kumpipa leh a khuapite khempeuh tawh tua khua la hi; namsau tawh amaute in vatgawp-te a, a sunga om mi khempeuh amaute in susia mang-te hi; amah in kuamah siit lo hi; amah in Hebron leh Libnah leh a kumpipa tungah a bawlsa bangin Debir leh a kumpipa tungah bawl hi.
 
-**ZVS:** Amah in a kumpipa leh a kimnai-a khuapite khempeuh tawh tua Debir khua a la hi. Amaute in namsau tawh vatgawp uh a, a sunga om mi khempeuh a susiamang uh hi. Amah in kuamah sitlo a, Hebron leh Libnah leh a kumpipa tungah a bawlsa bangin Debir leh a kumpipa tungah a bawl hi.
+**ZVS:** Amah in a kumpipa leh a kimnai-a khuapite khempeuh tawh tua Debir khua a la hi. Amaute in namsau tawh vatgawp-te a, a sunga om mi khempeuh a susiamang-te hi. Amah in kuamah sitlo a, Hebron leh Libnah leh a kumpipa tungah a bawlsa bangin Debir leh a kumpipa tungah a bawl hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

@@ -33,27 +33,27 @@
 ### v2
 **EN:** And it shall come to pass in the last days, that the mountain of the
 
-**TDB77:** Nidang ciangin Topa’ inn omna mual pen, mual liante lakah a sang penin kikipsak ding a, mual neute tungah kisangsak ding hi; tua-ah minamte khempeuh pai muamua ding uh a,
+**TDB77:** Nidang ciangin Topa’ inn omna mual pen, mual liante lakah a sang penin kikipsak ding a, mual neute tungah kisangsak ding hi; tua-ah minamte khempeuh pai muamua ding-te a,
 
-**ZVS:** Nidang ciangin { Topa}' inn a omna mual pen mual liante lakah a sangpenin kikipsak ding a, mual neute tungah kisangsak ding hi. Tua lai-ah minam khempeuh pai muamua ding uh a,
+**ZVS:** Nidang ciangin { Topa}' inn a omna mual pen mual liante lakah a sangpenin kikipsak ding a, mual neute tungah kisangsak ding hi. Tua lai-ah minam khempeuh pai muamua ding-te a,
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And many people shall go and say, Come ye, and let us go up to the mountain of the
 
-**TDB77:** mi tampite hong pai-in: “Hong pai un, amah in ama zia-le-tongte eite hong hilh theih nading leh ama lampite i zuih theih nadingin Jakob’ Pasian’ inn, Topa’ mual-ah paito ni,” a ci ding uh hi. Bang hang hiam cih leh Topa in Zion panin thu hong gen ding a, Jerusalem khua panin Topa’ thuhilhna hong paikhia ding hi.
+**TDB77:** mi tampite hong pai-in: “Hong pai un, amah in ama zia-le-tongte eite hong hilh theih nading leh ama lampite i zuih theih nadingin Jakob’ Pasian’ inn, Topa’ mual-ah paito ni,” a ci ding-te hi. Bang hang hiam cih leh Topa in Zion panin thu hong gen ding a, Jerusalem khua panin Topa’ thuhilhna hong paikhia ding hi.
 
-**ZVS:** mi tampite hong pai-in, “Hong pai un, amah in ama zialetongte hong hilh theihna ding leh ama lampite i zuih theihna dingin Jakob' Pasian' inn, { Topa}' mualah paito ni,” a ci ding uh hi. Bang hang hiam cih leh { Topa } in Zion panin thu hong gen ding a, Jerusalem khua panin { Topa}' thuhilhna hong paikhia ding hi.
+**ZVS:** mi tampite hong pai-in, “Hong pai un, amah in ama zialetongte hong hilh theihna ding leh ama lampite i zuih theihna dingin Jakob' Pasian' inn, { Topa}' mualah paito ni,” a ci ding-te hi. Bang hang hiam cih leh { Topa } in Zion panin thu hong gen ding a, Jerusalem khua panin { Topa}' thuhilhna hong paikhia ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
 ### v4
 **EN:** And he shall judge among the nations, and shall rebuke many people: and they shall beat their swords into plowshares, and their spears into pruninghooks: nation shall not lift up sword against nation, neither shall they learn war any more.
 
-**TDB77:** Amah in minamte khat leh khat kikal ah thukhenin, mi tampite’ thu khentat sak ding hi; amaute in a namsaute uh lo khawh na tu, a teipite uh singhiang heuhna temkawi-in seek ding uh hi; Minam khat leh minam khat kido nawn lo ding a, galdo dingin kithawi nawn lo ding uh hi.
+**TDB77:** Amah in minamte khat leh khat kikal ah thukhenin, mi tampite’ thu khentat sak ding hi; amaute in a namsaute-te lo khawh na tu, a teipite-te singhiang heuhna temkawi-in seek ding-te hi; Minam khat leh minam khat kido nawn lo ding a, galdo dingin kithawi nawn lo ding-te hi.
 
-**ZVS:** Amah in minamte khatlekhat kikalah thu khenin, mi tampite' thu khensak ding hi. Amaute in a namsaute uh lokhawhna tu, a teipite uh singhiang heuhna temkawi-in a seek ding uh hi. Minam khat leh minam khat kido nawnlo ding uh a, galdo dingin kithawi nawnlo ding uh hi.
+**ZVS:** Amah in minamte khatlekhat kikalah thu khenin, mi tampite' thu khensak ding hi. Amaute in a namsaute-te lokhawhna tu, a teipite-te singhiang heuhna temkawi-in a seek ding-te hi. Minam khat leh minam khat kido nawnlo ding-te a, galdo dingin kithawi nawnlo ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -67,9 +67,9 @@
 ### v6
 **EN:** Therefore thou hast forsaken thy people the house of Jacob, because they be replenished from the east, and are soothsayers like the Philistines, and they please themselves in the children of strangers.
 
-**TDB77:** Amaute pen nisuahna lam gam khongkhaite leh Filistia mite bangin aisante tawh kidim uh a, gamdang mite’ ngeina zui uh ahih manin, Jakob suan leh khakte, na mite nang na nial hi.
+**TDB77:** Amaute pen nisuahna lam gam khongkhaite leh Filistia mite bangin aisante tawh kidim-te a, gamdang mite’ ngeina zui-te ahih manin, Jakob suan leh khakte, na mite nang na nial hi.
 
-**ZVS:** Amaute pen nisuahna lam gama om khongkhaite leh Filistia mite bangin aisante tawh kidim uh a, gamdang mite' ngeina zui uh ahih manin Jakob suanlekhak, na mite nang na nial hi.
+**ZVS:** Amaute pen nisuahna lam gama om khongkhaite leh Filistia mite bangin aisante tawh kidim-te a, gamdang mite' ngeina zui-te ahih manin Jakob suanlekhak, na mite nang na nial hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -85,9 +85,9 @@
 ### v8
 **EN:** Their land also is full of idols; they worship the work of their own hands, that which their own fingers have made:
 
-**TDB77:** Amau gam in milimte tawh kidim hi; amau’ khut tawh a bawlsate, a khutmete tawh a bawlsate amaute in bia uh hi.
+**TDB77:** Amau gam in milimte tawh kidim hi; amau’ khut tawh a bawlsate, a khutmete tawh a bawlsate amaute in bia-te hi.
 
-**ZVS:** Amau' gamsung milimte tawh kidim a, amau' khut tawh a bawlsate uh amaute in a bia uh hi.
+**ZVS:** Amau' gamsung milimte tawh kidim a, amau' khut tawh a bawlsate-te amaute in a bia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -178,16 +178,16 @@
 ### v19
 **EN:** And they shall go into the holes of the rocks, and into the caves of the earth, for fear of the
 
-**TDB77:** Leitung liingsak gawp dingin Topa a thawh ciangin, amah kihtakna leh alian ama minthan’na panin, suanghawm sung leh leihawm sungah mite bu ding uh hi.
+**TDB77:** Leitung liingsak gawp dingin Topa a thawh ciangin, amah kihtakna leh alian ama minthan’na panin, suanghawm sung leh leihawm sungah mite bu ding-te hi.
 
-**ZVS:** Leitung a lingsakgawp dingin { Topa } a kipat ciangin amah kihtakna leh a lian ama minthan'na panin suanghawm sung leh leihawm sungah mite bu ding uh hi.
+**ZVS:** Leitung a lingsakgawp dingin { Topa } a kipat ciangin amah kihtakna leh a lian ama minthan'na panin suanghawm sung leh leihawm sungah mite bu ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** To go into the clefts of the rocks, and into the tops of the ragged rocks, for fear of the
 
-**TDB77:** Amah pen leitung a lingsakgawp dingin a hong kipat hun ciangin { Topa } kihtakna leh a lian ama minthan'na vang panin suanghawmpite sung leh keenhawmte sungah a buk theihna dingun amau' bawltawm ngun leh kham milimte, buite leh bakte a paih ding uh hi.
+**TDB77:** Amah pen leitung a lingsakgawp dingin a hong kipat hun ciangin { Topa } kihtakna leh a lian ama minthan'na vang panin suanghawmpite sung leh keenhawmte sungah a buk theihna dingun amau' bawltawm ngun leh kham milimte, buite leh bakte a paih ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

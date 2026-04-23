@@ -154,9 +154,9 @@
 ### v15
 **EN:** And let them be for lights in the firmament of the heaven to give light upon the earth: and it was so.
 
-**TDB77:** leitung khua a vaksak dingin vantungah khuavak hi uh hen,” ci hi. Tua mah bangin piang pah hi.
+**TDB77:** leitung khua a vaksak dingin vantungah khuavak hi-te hen,” ci hi. Tua mah bangin piang pah hi.
 
-**ZVS:** leitung khua a vaksak dingin vantungah khuavak hi uh hen,” ci hi. Tua mah bangin a piang pah hi.
+**ZVS:** leitung khua a vaksak dingin vantungah khuavak hi-te hen,” ci hi. Tua mah bangin a piang pah hi.
 
 **Grammar:** optative: let there be / let it be | punctual: immediately/suddenly | causative: -sak suffix | quotative: said/saying | purpose: in order to
 
@@ -262,9 +262,9 @@
 ### v29
 **EN:** And God said, Behold, I have given you every herb bearing seed, which is upon the face of all the earth, and every tree, in the which is the fruit of a tree yielding seed; to you it shall be for meat.
 
-**TDB77:** Pasian in, “En un, leitung maitang khempeuh ah a om, tang a piangsak kungnote khempeuh leh a gah sungah tang a om singkung khempeuh note' tungah kong pia khin ta hi; tuate an-in na nei ding uh hi.
+**TDB77:** Pasian in, “En un, leitung maitang khempeuh ah a om, tang a piangsak kungnote khempeuh leh a gah sungah tang a om singkung khempeuh note' tungah kong pia khin ta hi; tuate an-in na nei ding-te hi.
 
-**ZVS:** Pasian in, “En un, leitung maitang khempeuhah a om, tang a piangsak kungnote khempeuh leh a gah sungah tang a om singkung khempeuh note tungah kong pia khinta hi. Tuate an-in na nei ding uh hi.
+**ZVS:** Pasian in, “En un, leitung maitang khempeuhah a om, tang a piangsak kungnote khempeuh leh a gah sungah tang a om singkung khempeuh note tungah kong pia khinta hi. Tuate an-in na nei ding-te hi.
 
 **Grammar:** causative: -sak suffix | serial verb: -in (and then) | completed: already done | future: will | plural: uh marker
 

@@ -4,7 +4,7 @@
 
 ### kumpite = kings
 **Context:** Referring to the kings who go out to battle.
-**Example:** Kumpite in khuakhal sungin galsimin kuankhia zel uh hi.
+**Example:** Kumpite in khuakhal sungin galsimin kuankhia zel-te hi.
 
 ### khuakhal = year (expired/time)
 **Context:** Used to denote the time when kings go out to battle, implying the end of a cycle or year.
@@ -12,11 +12,11 @@
 
 ### galsimin = for war/battle
 **Context:** Describing the purpose of the kings going out.
-**Example:** Kumpite in khuakhal sungin galsimin kuankhia zel uh hi.
+**Example:** Kumpite in khuakhal sungin galsimin kuankhia zel-te hi.
 
 ### kuankhia = go out/march out
 **Context:** The action of the kings departing for battle.
-**Example:** Kumpite in khuakhal sungin galsimin kuankhia zel uh hi.
+**Example:** Kumpite in khuakhal sungin galsimin kuankhia zel-te hi.
 
 ### sugawp = waste/lay waste
 **Context:** Joab's action against the land of the Ammonites.
@@ -120,7 +120,7 @@
 
 ## Phrases & Usage
 
-- **kumpite in khuakhal sungin galsimin kuankhia zel uh hi** = It was the custom for kings to go out to battle during the year (at the appointed time).
+- **kumpite in khuakhal sungin galsimin kuankhia zel-te hi** = It was the custom for kings to go out to battle during the year (at the appointed time).
   - Usage: Describes a recurring annual military practice.
 
 - **Rabbah khua vatin lumlet hi** = He smote/destroyed the city of Rabbah.
@@ -152,6 +152,6 @@
   - Standard structure for reporting direct speech or command given to a specific person/group.
   - Example: David in Joab leh galkap a ukte kiangah, '...' a ci hi.
 
-- **X in Y sung pana hong piang ahi uh hi**
+- **X in Y sung pana hong piang ahi-te hi**
   - Indicates the origin or lineage of a group of people (born of/descended from).
-  - Example: Hih mi thumte pen Gath-a mithagolte' sung pana hong piang ahi uh hi.
+  - Example: Hih mi thumte pen Gath-a mithagolte' sung pana hong piang ahi-te hi.

@@ -56,9 +56,9 @@
 ### v4
 **EN:** He shall not fail nor be discouraged, till he have set judgment in the earth: and the isles shall wait for his law.
 
-**TDB77:** Amah in leitungah thutang thu a phuh khit matengin lungsi lo, lungkia lo ding hi; tuikulh gamte in ama thukham sungah lametna nei ding uh hi.
+**TDB77:** Amah in leitungah thutang thu a phuh khit matengin lungsi lo, lungkia lo ding hi; tuikulh gamte in ama thukham sungah lametna nei ding-te hi.
 
-**ZVS:** Amah in leitungah thutang thu a phuh khit matengin lungsi lo, lungkia lo ding hi. Tuipi gei-a om gamte in ama thu ngak uh hi.
+**ZVS:** Amah in leitungah thutang thu a phuh khit matengin lungsi lo, lungkia lo ding hi. Tuipi gei-a om gamte in ama thu ngak-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -106,9 +106,9 @@
 ### v11
 **EN:** Let the wilderness and the cities thereof lift up their voice, the villages that Kedar doth inhabit: let the inhabitants of the rock sing, let them shout from the top of the mountains.
 
-**TDB77:** Sehnel gam leh a khuapite, Kedar mite’ teen’na khua neute a aw uh sangkhai sak un; Sela gam-a teeng mite lungdamna tawh lasa sak un la, mual dawn panin amaute awng sak un.
+**TDB77:** Sehnel gam leh a khuapite, Kedar mite’ teen’na khua neute a aw-te sangkhai sak un; Sela gam-a teeng mite lungdamna tawh lasa sak un la, mual dawn panin amaute awng sak un.
 
-**ZVS:** Sehnel gam leh a khuapite, Kedar mite' ten'na khuaneute a aw uh sangkhai sak un. Sela gama teng mite lungdamna tawh la sasak un la, mual dawn panin amaute awngsak un.
+**ZVS:** Sehnel gam leh a khuapite, Kedar mite' ten'na khuaneute a aw-te sangkhai sak un. Sela gama teng mite lungdamna tawh la sasak un la, mual dawn panin amaute awngsak un.
 
 ### v12
 **EN:** Let them give glory unto the
@@ -156,9 +156,9 @@
 ### v17
 **EN:** They shall be turned back, they shall be greatly ashamed, that trust in graven images, that say to the molten images, Ye are our gods.
 
-**TDB77:** A kisui milimte muangin, a kisung milimte kiangah, “Note in komau’ pasiante na hi uh hi,” a ci mite kinolh ding a, maizum mahmahin ki-om sak ding hi.
+**TDB77:** A kisui milimte muangin, a kisung milimte kiangah, “Note in komau’ pasiante na hi-te hi,” a ci mite kinolh ding a, maizum mahmahin ki-om sak ding hi.
 
-**ZVS:** A kisui milimte muangin, a kisung milimte kiangah, ‘Note, komau' pasian-te na hi uh hi,’ a ci mite kinolh ding a, maizum mahmahin ki-omsak ding hi.
+**ZVS:** A kisui milimte muangin, a kisung milimte kiangah, ‘Note, komau' pasian-te na hi-te hi,’ a ci mite kinolh ding a, maizum mahmahin ki-omsak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -197,18 +197,18 @@
 ### v22
 **EN:** But this is a people robbed and spoiled; they are all of them snared in holes, and they are hid in prison houses: they are for a prey, and none delivereth; for a spoil, and none saith, Restore.
 
-**TDB77:** Ahih hangin ama mite pen a kiluh, a kisut mite hi a, leihawm sungah amaute khempeuh kikiasak a, thonginn sungah kiseel hi; amaute pen, a hon ding om lo, nek ding-a kiman ganhing suak khin uh a, kuamah in “Hong pia kik in,” a cih loh vankisutte suak khin ta uh hi.
+**TDB77:** Ahih hangin ama mite pen a kiluh, a kisut mite hi a, leihawm sungah amaute khempeuh kikiasak a, thonginn sungah kiseel hi; amaute pen, a hon ding om lo, nek ding-a kiman ganhing suak khin-te a, kuamah in “Hong pia kik in,” a cih loh vankisutte suak khin ta-te hi.
 
-**ZVS:** Ahih hangin ama mite pen a kiluh, a kisut mite hi a, leihawm sungah amaute khempeuh kikhiasuk a, thonginn sungah kiseel hi. Amaute pen a hon ding a omlo, nek dingin a kiman ganhing suakmangkhin uh a, kuamah in, “Hong piakik in,” a cihloh vankinusiate a suak khinta uh hi.
+**ZVS:** Ahih hangin ama mite pen a kiluh, a kisut mite hi a, leihawm sungah amaute khempeuh kikhiasuk a, thonginn sungah kiseel hi. Amaute pen a hon ding a omlo, nek dingin a kiman ganhing suakmangkhin-te a, kuamah in, “Hong piakik in,” a cihloh vankinusiate a suak khinta-te hi.
 
 **Grammar:** completed: already done | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** Who among you will give ear to this? who will hearken and hear for the time to come?
 
-**TDB77:** Note’ lakah khat peuhpeuh in hih thu na ngai ding uh hiam? Tu-a kipanin lim takin na ngai ding uh hiam?
+**TDB77:** Note’ lakah khat peuhpeuh in hih thu na ngai ding-te hiam? Tu-a kipanin lim takin na ngai ding-te hiam?
 
-**ZVS:** Note lakah khat peuhpeuh in hih thu na ngai ding uh hiam? Tu-a kipanin limtakin na ngai ding uh hiam?
+**ZVS:** Note lakah khat peuhpeuh in hih thu na ngai ding-te hiam? Tu-a kipanin limtakin na ngai ding-te hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

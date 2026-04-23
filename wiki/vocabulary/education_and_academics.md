@@ -27,7 +27,7 @@ Providing a rich set of vocabulary for learning allows the AI to give accurate f
 When discussing education:
 ```zolai
 Zolai laibu sim ding a thupi mahmah hi. (Reading Zolai books is very important.)
-Sangnaupang te in laisin a theih ding uh kisam hi. (Students need to know their studies.)
+Sangnaupang te in laisin a theih ding-te kisam hi. (Students need to know their studies.)
 Kei in Zolai sangsia ka hi hi. (I am a Zolai teacher.)
 ```
 

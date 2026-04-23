@@ -32,9 +32,9 @@
 ### v2
 **EN:** Speak unto the children of Israel, and say unto them, If any man of you bring an offering unto the
 
-**TDB77:** “Israel mite tungah gen in la, amaute tungah hih bangin ci in: Note khatpeuh in Topa tungah biakna na paipih uh ciangin, ganhing tawh na biakna pen bawnghon panin hi taleh tuuhon panin hi taleh na paipih ding uh hi.
+**TDB77:** “Israel mite tungah gen in la, amaute tungah hih bangin ci in: Note khatpeuh in Topa tungah biakna na paipih-te ciangin, ganhing tawh na biakna pen bawnghon panin hi taleh tuuhon panin hi taleh na paipih ding-te hi.
 
-**ZVS:** “Israel mite tungah gen in la, amaute tungah hih bangin ci in: Note khatpeuh in { Topa' } tungah biakna na paipih uh ciangin, ganhing tawh na biakna pen bawnghon panin hita leh tuuhon panin hita leh na paipih ding uh hi.
+**ZVS:** “Israel mite tungah gen in la, amaute tungah hih bangin ci in: Note khatpeuh in { Topa' } tungah biakna na paipih-te ciangin, ganhing tawh na biakna pen bawnghon panin hita leh tuuhon panin hita leh na paipih ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

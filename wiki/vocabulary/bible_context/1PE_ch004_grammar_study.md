@@ -26,16 +26,16 @@
 
 **TDB77:** Tua bangin Khazih in ama pumpi-in gimna thuak ahih ciangin, note in zong a nung ciangin mite deihna bang zui loin,
 
-**ZVS:** Khrih in ama pumpi-in thuak ahih manin note in zong tua bang lungsim mah nei-in na kithakhauhsak ding uh ahi hi. Bang hang hiam cih leh pumpi-in a thuak mite peuhmah, mawhna tawh kisawhkha nawnlo uh hi.
+**ZVS:** Khrih in ama pumpi-in thuak ahih manin note in zong tua bang lungsim mah nei-in na kithakhauhsak ding-te ahi hi. Bang hang hiam cih leh pumpi-in a thuak mite peuhmah, mawhna tawh kisawhkha nawnlo-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v2
 **EN:** That he no longer should live the rest of his time in the flesh to the lusts of men, but to the will of God.
 
-**TDB77:** Pasian’ deihna bang zui-in, na pumpi uh a nuntakna a om lai hun a bei dongin, tua bang lungsim nei-in om un. Bang hang hiam na cih uh leh, gimna a thuak mi in mawhna tawh a kikhen hi.
+**TDB77:** Pasian’ deihna bang zui-in, na pumpi-te a nuntakna a om lai hun a bei dongin, tua bang lungsim nei-in om un. Bang hang hiam na cih-te leh, gimna a thuak mi in mawhna tawh a kikhen hi.
 
-**ZVS:** Tua ahih manin tu-a kipanin na leitung nuntak sung uh mihingte' deihna bangin gamta loin Pasian' deihna bangin na gamtat ding uh ahi hi.
+**ZVS:** Tua ahih manin tu-a kipanin na leitung nuntak sung-te mihingte' deihna bangin gamta loin Pasian' deihna bangin na gamtat ding-te ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -44,32 +44,32 @@
 
 **TDB77:** Gentailte’ deihna zui-in lunggulhna a nin deihgawhna, leenggahzu khamna, pawikhamna, tam dawn luatna, a kihhuai milim biakna-ah om theih nading hunte a kicing ta hi.
 
-**ZVS:** A beisa hunah dawibiate' gamtat bangin a hoihkhop khat na gamta khinta uh a, a kilawm loin gamtatna, hukna lanna, zunekna, uangtatna, zukham luatna leh a muhdahhuai milim biakna-in na hun uh na beisak uh hi.
+**ZVS:** A beisa hunah dawibiate' gamtat bangin a hoihkhop khat na gamta khinta-te a, a kilawm loin gamtatna, hukna lanna, zunekna, uangtatna, zukham luatna leh a muhdahhuai milim biakna-in na hun-te na beisak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v4
 **EN:** Wherein they think it strange that ye run not with them to the same excess of riot, speaking evil of you:
 
-**TDB77:** Tua hihnate-ah note in amaute tawh kipawlin noptatna-ah kihhuaina na bawl lohna uh amaute in lamdangsa-in hong ko thei uh hi.
+**TDB77:** Tua hihnate-ah note in amaute tawh kipawlin noptatna-ah kihhuaina na bawl lohna-te amaute in lamdangsa-in hong ko thei-te hi.
 
-**ZVS:** Tu-in note in dawibiate pawlpih nawnloin ut utin na phengtat loh uh ciangin lamdangsa-in note hong kosia uh hi.
+**ZVS:** Tu-in note in dawibiate pawlpih nawnloin ut utin na phengtat loh-te ciangin lamdangsa-in note hong kosia-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** Who shall give account to him that is ready to judge the quick and the dead.
 
-**TDB77:** Tua mite in a nungta mite leh a si mite tungah thukhen dingin a om kholpa mai-ah thusuahna a thuak ding uh hi.
+**TDB77:** Tua mite in a nungta mite leh a si mite tungah thukhen dingin a om kholpa mai-ah thusuahna a thuak ding-te hi.
 
-**ZVS:** Ahi zongin amaute in a site leh a hingte' thu a khen dingin a om Pasian' mai-ah thudotna thuak ding uh hi.
+**ZVS:** Ahi zongin amaute in a site leh a hingte' thu a khen dingin a om Pasian' mai-ah thudotna thuak ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v6
 **EN:** For for this cause was the gospel preached also to them that are dead, that they might be judged according to men in the flesh, but live according to God in the spirit.
 
-**TDB77:** Tua hanginah a nungta mite in a thuak uh bangin pumpi tawh thukhenna a thuak uh hangin Pasian’ deihna tawh kituak kha tawh a nuntak theih nadingun mi site kiangah Lungdamna Thu a kihilh zo hi.
+**TDB77:** Tua hanginah a nungta mite in a thuak-te bangin pumpi tawh thukhenna a thuak-te hangin Pasian’ deihna tawh kituak kha tawh a nuntak theih nadingun mi site kiangah Lungdamna Thu a kihilh zo hi.
 
 **ZVS:** Tua thu hang mahin, midang khempeuh thu a khen mah bangin a leitung nuntakna uhah Pasian in thu a khen khit tei hangin kha nuntakna-ah Pasian mah bangin a nuntak theihna dingun mi sisate kiangah Khrih in Lungdamna Thu a hilh ahi hi.
 
@@ -87,7 +87,7 @@
 ### v8
 **EN:** And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.
 
-**TDB77:** Hihna khempeuh tham loin, note in khat leh khat nakpi-in na ki-it un. Bang hang hiam na cih uh leh, ki-itna in mawhna tampi a seel hi.
+**TDB77:** Hihna khempeuh tham loin, note in khat leh khat nakpi-in na ki-it un. Bang hang hiam na cih-te leh, ki-itna in mawhna tampi a seel hi.
 
 **ZVS:** Itna in mawhna tampi khuhcip thei ahih manin lungsim takpi tawh khatlekhat ki-it ding thupi ngaihsut pha pen un.
 
@@ -105,9 +105,9 @@
 ### v10
 **EN:** As every man hath received the gift, even so minister the same one to another, as good stewards of the manifold grace of God.
 
-**TDB77:** Note in hehpihna letsong na ngah ciat uh mah bangin Pasian’ hehpihna thupha atuamtuam a keem mi phate bangin, khat leh khat na kihawm un.
+**TDB77:** Note in hehpihna letsong na ngah ciat-te mah bangin Pasian’ hehpihna thupha atuamtuam a keem mi phate bangin, khat leh khat na kihawm un.
 
-**ZVS:** Pasian' piak na a zatsiamte bangin Pasian' kiang panin na ngah uh nate, midangte' phattuamna dingin na zang un.
+**ZVS:** Pasian' piak na a zatsiamte bangin Pasian' kiang panin na ngah-te nate, midangte' phattuamna dingin na zang un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -123,7 +123,7 @@
 ### v12
 **EN:** Beloved, think it not strange concerning the fiery trial which is to try you, as though some strange thing happened unto you:
 
-**TDB77:** Ka itte aw, note hong ze-et nadingin na thuak uh mei tawh kisit, bawlsiatna in note tungah lamdangsak huaina ahi ci-in ngaihsun kei un, na lungmang kei un.
+**TDB77:** Ka itte aw, note hong ze-et nadingin na thuak-te mei tawh kisit, bawlsiatna in note tungah lamdangsak huaina ahi ci-in ngaihsun kei un, na lungmang kei un.
 
 **ZVS:** Ka itte aw, note' upna hong kize-etna-in gimna haksate na thuak manun a thu lamdangpi-in ngaihsun kei un la, na lungkham ngaihsut kei un.
 
@@ -132,18 +132,18 @@
 ### v13
 **EN:** But rejoice, inasmuch as ye are partakers of Christ's sufferings; that, when his glory shall be revealed, ye may be glad also with exceeding joy.
 
-**TDB77:** Note in Khazih’ gimna a zom na hih uh ciangin ama minthan’na hong kilat ciangin lungdam mahmahna tawh na nuam nadingun, tu-in zong nuam un.
+**TDB77:** Note in Khazih’ gimna a zom na hih-te ciangin ama minthan’na hong kilat ciangin lungdam mahmahna tawh na nuam nadingun, tu-in zong nuam un.
 
-**ZVS:** Tua bangin Khrih tawh thuakkhawm le uh cin ama minthan'na hong kilat ciangin note lungdam mahmah ding na hih manun, tua banga na thuakna uhah na lungdamzaw un.
+**ZVS:** Tua bangin Khrih tawh thuakkhawm le-te cin ama minthan'na hong kilat ciangin note lungdam mahmah ding na hih manun, tua banga na thuakna uhah na lungdamzaw un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v14
 **EN:** If ye be reproached for the name of Christ, happy are ye; for the spirit of glory and of God resteth upon you: on their part he is evil spoken of, but on your part he is glorified.
 
-**TDB77:** Khazih’ min hangin kosiatna na thuak uh leh, thupha na ngah ding uh hi. Bang hang hiam na cih uh leh, minthan’na tawh kipawl kha ahi Pasian’ Kha Siangtho in note tungah a om hi.
+**TDB77:** Khazih’ min hangin kosiatna na thuak-te leh, thupha na ngah ding-te hi. Bang hang hiam na cih-te leh, minthan’na tawh kipawl kha ahi Pasian’ Kha Siangtho in note tungah a om hi.
 
-**ZVS:** Khrih nungzui hihna hangin mite' kosiatna na thuak uh leh note sungah a minthang Kha Siangtho ahi Pasian' Kha Siangtho hong om ahihna lim ahih manin a hampha mahmah na hi uh hi.
+**ZVS:** Khrih nungzui hihna hangin mite' kosiatna na thuak-te leh note sungah a minthang Kha Siangtho ahi Pasian' Kha Siangtho hong om ahihna lim ahih manin a hampha mahmah na hi-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -161,12 +161,12 @@
 
 **TDB77:** Ahih hangin Christian ahihna hangin gimna a thuak mi khat a om leh, zum kei hen; ahih hangin tua min puakna hangin Pasian’ min phat ta hen.
 
-**ZVS:** Ahi zongin Khristian hihna hangin gimna na thuak uh leh kuamah in maizum ngaihsut kei un la, Khrih min hangin na thuak manun Pasian tungah na lungdam un.
+**ZVS:** Ahi zongin Khristian hihna hangin gimna na thuak-te leh kuamah in maizum ngaihsut kei un la, Khrih min hangin na thuak manun Pasian tungah na lungdam un.
 
 ### v17
 **EN:** For the time is come that judgment must begin at the house of God: and if it first begin at us, what shall the end be of them that obey not the gospel of God?
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian’ innkuante a masa belin thukhen nading hun a tung zo hi. Eite a masa-in thu hong khen leh, Pasian’ Lungdamna Thu a mang lo mite bang suak ding ahi hiam?
+**TDB77:** Bang hang hiam na cih-te leh, Pasian’ innkuante a masa belin thukhen nading hun a tung zo hi. Eite a masa-in thu hong khen leh, Pasian’ Lungdamna Thu a mang lo mite bang suak ding ahi hiam?
 
 **ZVS:** Tu-in thukhen kipat hunding hong tungta-in Pasian' mi eite tungah hong kipan ahih leh Pasian kiang panin hong pai Lungdamna Thu a umlo mite-a' dingin bangzahin lungkhamhuai ding ahi hiam?
 
@@ -175,7 +175,7 @@
 ### v18
 **EN:** And if the righteous scarcely be saved, where shall the ungodly and the sinner appear?
 
-**TDB77:** “Mi dikte in gupna ngah nading haksa ahih leh, Pasian a nei lo, mawhna a nei mite in bang suak ding ahi uh hiam?”
+**TDB77:** “Mi dikte in gupna ngah nading haksa ahih leh, Pasian a nei lo, mawhna a nei mite in bang suak ding ahi-te hiam?”
 
 **ZVS:** Lai Siangtho in, “Mi hoihte kihonkhia zo liailiai bek ahih leh Pasian a umlo mawhnei mite bang suak ding ahi hiam?” na ci hi.
 
@@ -184,9 +184,9 @@
 ### v19
 **EN:** Wherefore let them that suffer according to the will of God commit the keeping of their souls to him in well doing, as unto a faithful Creator.
 
-**TDB77:** Tua ahih ciangin Pasian’ deihna bangin gimna a thuak mite in, a pha a gamtatna uh zomin, thuman ahi amaute a Bawlpa’ khut sungah amau kha uh pia ta uh hen.
+**TDB77:** Tua ahih ciangin Pasian’ deihna bangin gimna a thuak mite in, a pha a gamtatna-te zomin, thuman ahi amaute a Bawlpa’ khut sungah amau kha-te pia ta-te hen.
 
-**ZVS:** Tua ahih ciangin Pasian' deihna bangin gimna a thuak mite gamtat hoihin, a kamciam a tangtungsak tawntung hong Piangsakpa muangin ama khutsungah a ki-ap ding uh ahi hi.
+**ZVS:** Tua ahih ciangin Pasian' deihna bangin gimna a thuak mite gamtat hoihin, a kamciam a tangtungsak tawntung hong Piangsakpa muangin ama khutsungah a ki-ap ding-te ahi hi.
 
 **Grammar:** sequence: then/therefore
 

@@ -51,9 +51,9 @@
 ### v4
 **EN:** And he commanded them, saying, Thus shall ye speak unto my lord Esau; Thy servant Jacob saith thus, I have sojourned with Laban, and stayed there until now:
 
-**TDB77:** amaute hilhin, “Note in ka topa Esau' kiangah hih bangin na ci ding uh hi: Na nasempa Jakob in, 'Laban' kiangah peemta-in ka om a, tu ciang dong ka om hi;
+**TDB77:** amaute hilhin, “Note in ka topa Esau' kiangah hih bangin na ci ding-te hi: Na nasempa Jakob in, 'Laban' kiangah peemta-in ka om a, tu ciang dong ka om hi;
 
-**ZVS:** amaute hilhin, “Note in ka topa Esau kiangah hih bangin na ci ding uh hi: Na nasempa Jakob in, ‘Laban' kiangah peemta-in tu ciangdong ka om hi.
+**ZVS:** amaute hilhin, “Note in ka topa Esau kiangah hih bangin na ci ding-te hi: Na nasempa Jakob in, ‘Laban' kiangah peemta-in tu ciangdong ka om hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -69,9 +69,9 @@
 ### v6
 **EN:** And the messengers returned to Jacob, saying, We came to thy brother Esau, and also he cometh to meet thee, and four hundred men with him.
 
-**TDB77:** Kamtaite Jakob kiangah hong ciahkik uh a, “Na sanggampa Esau' kiangah ka va pai uh hi, nangmah dawn dingin amah hong pai a, amah tawh mihing za li om hi,” ci-in gen uh hi.
+**TDB77:** Kamtaite Jakob kiangah hong ciahkik-te a, “Na sanggampa Esau' kiangah ka va pai-te hi, nangmah dawn dingin amah hong pai a, amah tawh mihing za li om hi,” ci-in gen-te hi.
 
-**ZVS:** Kamtaite, Jakob kiangah hong ciahkik uh a, “Na sanggampa Esau kiangah ka va pai uh hi. Nangmah a dawn dingin amah hong pai a, amah tawh mihing za li om hi,” ci-in hong gen uh hi.
+**ZVS:** Kamtaite, Jakob kiangah hong ciahkik-te a, “Na sanggampa Esau kiangah ka va pai-te hi. Nangmah a dawn dingin amah hong pai a, amah tawh mihing za li om hi,” ci-in hong gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -164,9 +164,9 @@
 ### v17
 **EN:** And he commanded the foremost, saying, When Esau my brother meeteth thee, and asketh thee, saying, Whose art thou? and whither goest thou? and whose are these before thee?
 
-**TDB77:** Amah in a masa pente' tungah thuhilh a, “Ka sanggampa Esau in note hong dawnin, ‘Kua’ aa na hi uh hiam? Koi-a pai ding na hi uh hiam? Na mai uh-a om hihte kua aa ahi hiam?’ ci-in hong dot ciangin,
+**TDB77:** Amah in a masa pente' tungah thuhilh a, “Ka sanggampa Esau in note hong dawnin, ‘Kua’ aa na hi-te hiam? Koi-a pai ding na hi-te hiam? Na mai uh-a om hihte kua aa ahi hiam?’ ci-in hong dot ciangin,
 
-**ZVS:** Amah in a masa pente tungah thu hilh a, “Ka sanggampa Esau in note hong dawnin, ‘Kua-a' na hi uh hiam? Koi pana hong pai na hi uh hiam? Na mai uha om hihte kua-a' ahi hiam?’ ci-in hong dot ciangin
+**ZVS:** Amah in a masa pente tungah thu hilh a, “Ka sanggampa Esau in note hong dawnin, ‘Kua-a' na hi-te hiam? Koi pana hong pai na hi-te hiam? Na mai uha om hihte kua-a' ahi hiam?’ ci-in hong dot ciangin
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -182,18 +182,18 @@
 ### v19
 **EN:** And so commanded he the second, and the third, and all that followed the droves, saying, On this manner shall ye speak unto Esau, when ye find him.
 
-**TDB77:** Amah in tua mah bangin a nihna, a thumna leh ganhing honte a zuite khempeuh' kiangah, “Amah tawh na kituah uh ciangin Esau' kiangah a kibangmah-in na gen ding uh hi,
+**TDB77:** Amah in tua mah bangin a nihna, a thumna leh ganhing honte a zuite khempeuh' kiangah, “Amah tawh na kituah-te ciangin Esau' kiangah a kibangmah-in na gen ding-te hi,
 
-**ZVS:** Amah in tua mah bangin a nihna, a thumna, leh ganhing honte a zuite khempeuh kiangah, “Amah tawh na kituah uh ciangin Esau' kiangah a kibangmahin na gen ding uh hi.
+**ZVS:** Amah in tua mah bangin a nihna, a thumna, leh ganhing honte a zuite khempeuh kiangah, “Amah tawh na kituah-te ciangin Esau' kiangah a kibangmahin na gen ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And say ye moreover, Behold, thy servant Jacob is behind us. For he said, I will appease him with the present that goeth before me, and afterward I will see his face; peradventure he will accept of me.
 
-**TDB77:** note in, ‘Tua tham loin na nasempa Jakob ka nung uhah om hi,’ na ci ding uh hi,” ci hi. Bang hang hiam cih leh amah in, “Ka mai-a pai letsong tawh amah ka lungdamsak zo kha ding a, tua khit ciangin ama' mai ka mu ding hi; amah in kei hong sang kha ding hi,” ci-in ngaihsun hi.
+**TDB77:** note in, ‘Tua tham loin na nasempa Jakob ka nung uhah om hi,’ na ci ding-te hi,” ci hi. Bang hang hiam cih leh amah in, “Ka mai-a pai letsong tawh amah ka lungdamsak zo kha ding a, tua khit ciangin ama' mai ka mu ding hi; amah in kei hong sang kha ding hi,” ci-in ngaihsun hi.
 
-**ZVS:** Note in, ‘Tua thamloin na nasempa Jakob ka nung uhah om hi,’ na ci ding uh hi,” a ci hi. Bang hang hiam cih leh amah in, “Ka mai-ah a pai letsong tawh amah ka lungdamsak zo khading a, tua khit ciangin ama maipha ka mu ding hi. Amah in kei hong sang khading hi,” ci-in a ngaihsun hi.
+**ZVS:** Note in, ‘Tua thamloin na nasempa Jakob ka nung uhah om hi,’ na ci ding-te hi,” a ci hi. Bang hang hiam cih leh amah in, “Ka mai-ah a pai letsong tawh amah ka lungdamsak zo khading a, tua khit ciangin ama maipha ka mu ding hi. Amah in kei hong sang khading hi,” ci-in a ngaihsun hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -297,9 +297,9 @@
 ### v32
 **EN:** Therefore the children of Israel eat not of the sinew which shrank, which is upon the hollow of the thigh, unto this day: because he touched the hollow of Jacob's thigh in the sinew that shrank.
 
-**TDB77:** Tua ahih ciangin tu ni dongin Israel mite in khelkom tunga a om khel thagui ne lo uh hi, bang hang hiam cih leh amah in Jakob’ khelkom, a khel thagui tung a sukna hang ahi hi.
+**TDB77:** Tua ahih ciangin tu ni dongin Israel mite in khelkom tunga a om khel thagui ne lo-te hi, bang hang hiam cih leh amah in Jakob’ khelkom, a khel thagui tung a sukna hang ahi hi.
 
-**ZVS:** Tua ahih ciangin tuni dongin Israel mite in khelkom tunga a om khel thagui nelo uh hi. Amah in Jakob' khelkom, a khel thagui tung a sukna hang ahi hi.
+**ZVS:** Tua ahih ciangin tuni dongin Israel mite in khelkom tunga a om khel thagui nelo-te hi. Amah in Jakob' khelkom, a khel thagui tung a sukna hang ahi hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 

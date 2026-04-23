@@ -25,9 +25,9 @@
 ### v1
 **EN:** So they brought the ark of God, and set it in the midst of the tent that David had pitched for it: and they offered burnt sacrifices and peace offerings before God.
 
-**TDB77:** Tua ciangin amaute in Pasian’ thuciamna singkuang hong tumpih uh a, David in ama adingin a lamsak puanbuk sungah koih uh hi; tua ciangin meihal biakna leh thu-nuama biaknate Pasian’ mai-ah pia uh hi.
+**TDB77:** Tua ciangin amaute in Pasian’ thuciamna singkuang hong tumpih-te a, David in ama adingin a lamsak puanbuk sungah koih-te hi; tua ciangin meihal biakna leh thu-nuama biaknate Pasian’ mai-ah pia-te hi.
 
-**ZVS:** Tua ciangin amaute in Pasian' Thuciamna Singkuang hong tumpih uh a, David in ama-a' dingin a lamsak puanbuk sungah koih uh hi. Tua ciangin amaute in meihal biaknate leh thunuama biaknate Pasian' mai-ah pia uh hi.
+**ZVS:** Tua ciangin amaute in Pasian' Thuciamna Singkuang hong tumpih-te a, David in ama-a' dingin a lamsak puanbuk sungah koih-te hi. Tua ciangin amaute in meihal biaknate leh thunuama biaknate Pasian' mai-ah pia-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -57,18 +57,18 @@
 ### v5
 **EN:** Asaph the chief, and next to him Zechariah, Jeiel, and Shemiramoth, and Jehiel, and Mattithiah, and Eliab, and Benaiah, and Obed–edom: and Jeiel with psalteries and with harps; but Asaph made a sound with cymbals;
 
-**TDB77:** Asaf in a ukpi hi a, amah zomah a nihnate in Zekhariah, Jehiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Banaiah, Obededom, leh Jeiel, harp lasaknate leh laiza lasaknate a tum dingte ahi uh hi; Asaf in daltuahte a tum ding hi a,
+**TDB77:** Asaf in a ukpi hi a, amah zomah a nihnate in Zekhariah, Jehiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Banaiah, Obededom, leh Jeiel, harp lasaknate leh laiza lasaknate a tum dingte ahi-te hi; Asaf in daltuahte a tum ding hi a,
 
-**ZVS:** Asaf a ukpi hi a, ama zomah Zekhariah ahi hi. Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obededom, leh Jeiel, harp lasaknate leh laia lasaknate a tum dingte ahi uh hi. Asaf in daltuahte a tum ding hi a,
+**ZVS:** Asaf a ukpi hi a, ama zomah Zekhariah ahi hi. Jeiel, Shemiramoth, Jehiel, Mattithiah, Eliab, Benaiah, Obededom, leh Jeiel, harp lasaknate leh laia lasaknate a tum dingte ahi-te hi. Asaf in daltuahte a tum ding hi a,
 
 **Grammar:** future: will | plural: uh marker
 
 ### v6
 **EN:** Benaiah also and Jahaziel the priests with trumpets continually before the ark of the covenant of God.
 
-**TDB77:** siampite Benaiah leh Jahaziel-te in Pasian’ thuciamna singkuang mai-ah peengkulte a tum paisuak ding uh ahi hi.
+**TDB77:** siampite Benaiah leh Jahaziel-te in Pasian’ thuciamna singkuang mai-ah peengkulte a tum paisuak ding-te ahi hi.
 
-**ZVS:** siampite Benaiah leh Jahaziel-te in Pasian' Thuciamna Singkuang mai-ah peengkulte a tum paisuak ding uh ahi hi.
+**ZVS:** siampite Benaiah leh Jahaziel-te in Pasian' Thuciamna Singkuang mai-ah peengkulte a tum paisuak ding-te ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -102,7 +102,7 @@
 
 **TDB77:** Ama min siangtho hangin nuamin diang un la, Topa a zong mite lungdam ta hen!
 
-**ZVS:** Ama min siangtho hangin nuamin diang un la, { Topa } a zong mite khempeuh lungdam ta uh hen!
+**ZVS:** Ama min siangtho hangin nuamin diang un la, { Topa } a zong mite khempeuh lungdam ta-te hen!
 
 ### v11
 **EN:** Seek the
@@ -171,9 +171,9 @@
 ### v19
 **EN:** When ye were but few, even a few, and strangers in it.
 
-**TDB77:** Amaute a mi-in tawmin, gen taak loin, peemta hi uh a,
+**TDB77:** Amaute a mi-in tawmin, gen taak loin, peemta hi-te a,
 
-**ZVS:** Amaute a mi-in tawmin, gentaak loin peemta hi uh a,
+**ZVS:** Amaute a mi-in tawmin, gentaak loin peemta hi-te a,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -269,9 +269,9 @@
 ### v31
 **EN:** Let the heavens be glad, and let the earth rejoice: and let men say among the nations, The
 
-**TDB77:** Vantung kipak hen la, leitung lungdam hen, minamte lakah, “Topa maang hi!” amaute in ci ta uh hen.
+**TDB77:** Vantung kipak hen la, leitung lungdam hen, minamte lakah, “Topa maang hi!” amaute in ci ta-te hen.
 
-**ZVS:** Vantung kipak hen la, leitung lungdam ta hen; minam khempeuhte lakah, “{ Topa } maang hi!” amaute in ci ta uh hen.
+**ZVS:** Vantung kipak hen la, leitung lungdam ta hen; minam khempeuhte lakah, “{ Topa } maang hi!” amaute in ci ta-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -280,14 +280,14 @@
 
 **TDB77:** Tuipi leh a sunga om khempeuh awng hen la, gamlak leh a sunga om khempeuh diang hen!
 
-**ZVS:** Tuipi leh a sunga om khempeuh awng uh hen la, gamlak leh a sunga om khempeuh lungdamin diang ta uh hen!
+**ZVS:** Tuipi leh a sunga om khempeuh awng-te hen la, gamlak leh a sunga om khempeuh lungdamin diang ta-te hen!
 
 ### v33
 **EN:** Then shall the trees of the wood sing out at the presence of the
 
-**TDB77:** Tua ciangin gamlak singte in lungdamin Topa mai-ah la sa ding uh hi, bang hang hiam cih leh leitung thukhen dingin amah hong pai hi.
+**TDB77:** Tua ciangin gamlak singte in lungdamin Topa mai-ah la sa ding-te hi, bang hang hiam cih leh leitung thukhen dingin amah hong pai hi.
 
-**ZVS:** Tua ciangin gamlak singte in lungdamna tawh { Topa' } mai-ah la sa ding uh hi; bang hang hiam cih leh leitung thu khen dingin amah hong pai hi.
+**ZVS:** Tua ciangin gamlak singte in lungdamna tawh { Topa' } mai-ah la sa ding-te hi; bang hang hiam cih leh leitung thu khen dingin amah hong pai hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
@@ -305,16 +305,16 @@
 
 **TDB77:** “Kote hong khahkhia in, ka kihotkhiatna Pasian aw, minamte lak panin hong kaikhawmin hong honkhia in, na min siangtho tungah lungdamna kong koh theih nading uh, leh nangmah phatna ah ka minthan’ nadingun,
 
-**ZVS:** “Kote hong khahkhia in, kote hong honkhia Pasian aw, minam dangte lak panin kote hong kaikhawm in. Na min siangtho tungah lungdam kong koh theihna ding uh leh, nangmah phatna-ah ka minthan'na dingun kote hong hon in.
+**ZVS:** “Kote hong khahkhia in, kote hong honkhia Pasian aw, minam dangte lak panin kote hong kaikhawm in. Na min siangtho tungah lungdam kong koh theihna ding-te leh, nangmah phatna-ah ka minthan'na dingun kote hong hon in.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v36
 **EN:** Blessed be the
 
-**TDB77:** Israel Pasian, Topa in thupha ngah ta hen, a tawntung pan a tawntung dongin!” zong ci lai un, a ci hi. Tua ciangin mi khempeuh in, “Amen!” ci-in Topa phat uh hi.
+**TDB77:** Israel Pasian, Topa in thupha ngah ta hen, a tawntung pan a tawntung dongin!” zong ci lai un, a ci hi. Tua ciangin mi khempeuh in, “Amen!” ci-in Topa phat-te hi.
 
-**ZVS:** Israel Pasian, { Topa } in thupha ngah ta hen, a tawntung pan a tawntung dongin!” zong ci lai un, a ci hi. Tua ciangin mi khempeuh in, “Amen!” ci-in{ Topa } a phat uh hi.
+**ZVS:** Israel Pasian, { Topa } in thupha ngah ta hen, a tawntung pan a tawntung dongin!” zong ci lai un, a ci hi. Tua ciangin mi khempeuh in, “Amen!” ci-in{ Topa } a phat-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -330,9 +330,9 @@
 ### v38
 **EN:** And Obed–edom with their brethren, threescore and eight; Obed–edom also the son of Jeduthun and Hosah to be porters:
 
-**TDB77:** Obededom leh a behte sawmguk-le-giatte zong nusia hi; Jeduthun’ tapa Obededom leh Hosah-te in kongpi cing dingte ahi uh hi.
+**TDB77:** Obededom leh a behte sawmguk-le-giatte zong nusia hi; Jeduthun’ tapa Obededom leh Hosah-te in kongpi cing dingte ahi-te hi.
 
-**ZVS:** Obededom leh a behte sawmguklegiatte zong a nusia hi. Jeduthun' tapa Obededom leh Hosah-te pen kongpi cing dingte ahi uh hi.
+**ZVS:** Obededom leh a behte sawmguklegiatte zong a nusia hi. Jeduthun' tapa Obededom leh Hosah-te pen kongpi cing dingte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -355,18 +355,18 @@
 ### v42
 **EN:** And with them Heman and Jeduthun with trumpets and cymbals for those that should make a sound, and with musical instruments of God. And the sons of Jeduthun were porters.
 
-**TDB77:** Heman leh Jeduthun in la aw dingin peengkulte leh daltuahte nei uh a, biakna la sak nadingin lasakna nate nei uh hi. Jeduthun’ tapate kulhkongpi cing dingin kiseh hi.
+**TDB77:** Heman leh Jeduthun in la aw dingin peengkulte leh daltuahte nei-te a, biakna la sak nadingin lasakna nate nei-te hi. Jeduthun’ tapate kulhkongpi cing dingin kiseh hi.
 
-**ZVS:** Heman leh Jeduthun in la aw dingin peengkulte leh daltuahte nei uh a, biakna lasakna dingin lasakna nate nei uh hi. Jeduthun' tapate kulhkongpi cing dingin kiseh hi.
+**ZVS:** Heman leh Jeduthun in la aw dingin peengkulte leh daltuahte nei-te a, biakna lasakna dingin lasakna nate nei-te hi. Jeduthun' tapate kulhkongpi cing dingin kiseh hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v43
 **EN:** And all the people departed every man to his house: and David returned to bless his house.
 
-**TDB77:** Tua ciangin mi khempeuh in a inn ciat uhah ciah uh a, David zong a innkuan thupha pia dingin a innah a ciah hi.
+**TDB77:** Tua ciangin mi khempeuh in a inn ciat uhah ciah-te a, David zong a innkuan thupha pia dingin a innah a ciah hi.
 
-**ZVS:** Tua ciangin mi khempeuh a inn ciat uhah ciah uh a, David zong a innkuante thupha a pia dingin a inn-ah a ciah hi.
+**ZVS:** Tua ciangin mi khempeuh a inn ciat uhah ciah-te a, David zong a innkuante thupha a pia dingin a inn-ah a ciah hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 

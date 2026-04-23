@@ -25,9 +25,9 @@
 ### v1
 **EN:** And the
 
-**TDB77:** Aaron’ tapa nihte in Topa mai-ah ngeina lopi-in mei tawh va nai uh a, a sih khit uh ciangin Topa in Moses kiangah thu gen hi;
+**TDB77:** Aaron’ tapa nihte in Topa mai-ah ngeina lopi-in mei tawh va nai-te a, a sih khit-te ciangin Topa in Moses kiangah thu gen hi;
 
-**ZVS:** Aaron' tapa nihte in ngeina lopi-in { Topa' } mai-ah mei tawh va pai-in a sihlawh khit uh ciangin { Topa } in Moses kiangah thu a gen hi.
+**ZVS:** Aaron' tapa nihte in ngeina lopi-in { Topa' } mai-ah mei tawh va pai-in a sihlawh khit-te ciangin { Topa } in Moses kiangah thu a gen hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -41,7 +41,7 @@
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v3
-**EN:** Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a ram for a burnt offering.
+**EN:** Thus shall Aaron come into the holy place: with a young bullock for a sin offering, and a gam for a burnt offering.
 
 **TDB77:** Ahih hangin siangtho munah hih bangin Aaron hong pai ding hi: khialhna hanga biak nadingin bawngtal no khat leh meihal biak nadingin tuutal khat hong paipih ding hi.
 
@@ -52,14 +52,14 @@
 ### v4
 **EN:** He shall put on the holy linen coat, and he shall have the linen breeches upon his flesh, and shall be girded with a linen girdle, and with the linen mitre shall he be attired: these are holy garments; therefore shall he wash his flesh in water, and so put them on.
 
-**TDB77:** Amah in a siangtho saihadial puantungsilh silhin, a pum tungah saihadial pheituam teengin, saihadial kawnggak tawh kigakin, saihadial dialpi khim ding hi; hihte in a siangtho puante ahi uh hi. Amah in tui sungah a pumpi sil ding a, tua ciangin tua puante silh ding hi.
+**TDB77:** Amah in a siangtho saihadial puantungsilh silhin, a pum tungah saihadial pheituam teengin, saihadial kawnggak tawh kigakin, saihadial dialpi khim ding hi; hihte in a siangtho puante ahi-te hi. Amah in tui sungah a pumpi sil ding a, tua ciangin tua puante silh ding hi.
 
 **ZVS:** “Amah in a siangtho saihadial puantungsilh silhin, saihadial pheituam teengin, saihadial kawnggak tawh kigakin, saihadial dialpi khim ding hi. Hihte pen a siangtho puan ahi hi. Amah in tui sungah a pumpi sil ding a, tua ciangin tua puante silh ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
-**EN:** And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one ram for a burnt offering.
+**EN:** And he shall take of the congregation of the children of Israel two kids of the goats for a sin offering, and one gam for a burnt offering.
 
 **TDB77:** Amah in Israel mihonte tung panin khialhna hanga biak nadingin keeltal nih leh meihal biak nadingin tuutal khat la ding hi.
 
@@ -273,27 +273,27 @@
 ### v29
 **EN:** And this shall be a statute for ever unto you: that in the seventh month, on the tenth day of the month, ye shall afflict your souls, and do no work at all, whether it be one of your own country, or a stranger that sojourneth among you:
 
-**TDB77:** “Hih in, a kha sagihna, tua kha a ni sawm ni-in note’ adingin a tawntungin thukham hi ding a, tual sung mi hita leh note lakah a hong peem khual mi hita leh, nomau mah kigawt tawmin, na na sem kei ding uh hi;
+**TDB77:** “Hih in, a kha sagihna, tua kha a ni sawm ni-in note’ adingin a tawntungin thukham hi ding a, tual sung mi hita leh note lakah a hong peem khual mi hita leh, nomau mah kigawt tawmin, na na sem kei ding-te hi;
 
-**ZVS:** “Hih pen, a kha sagihna, a ni sawm ni-in note-a' dingin a tawntungin thukham hi ding a, tualsung mi hita leh note lakah a hong peem khualmi hita leh in an tangin, na na sem kei ding uh hi.
+**ZVS:** “Hih pen, a kha sagihna, a ni sawm ni-in note-a' dingin a tawntungin thukham hi ding a, tualsung mi hita leh note lakah a hong peem khualmi hita leh in an tangin, na na sem kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** For on that day shall the priest make an atonement for you, to cleanse you, that ye may be clean from all your sins before the
 
-**TDB77:** bang hang hiam cih leh hih ni-in note sian’sak nadingin note’ ading kilemna kibawl ding hi; na khialhna khempeuh panun Topa’ mai-ah na siang ding uh hi.
+**TDB77:** bang hang hiam cih leh hih ni-in note sian’sak nadingin note’ ading kilemna kibawl ding hi; na khialhna khempeuh panun Topa’ mai-ah na siang ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh hih ni-in note sian'sakna dingin note-a' ding kilemna kibawl ding a, na khialhna khempeuh panun { Topa' } mai-ah na siang ding uh hi.
+**ZVS:** Bang hang hiam cih leh hih ni-in note sian'sakna dingin note-a' ding kilemna kibawl ding a, na khialhna khempeuh panun { Topa' } mai-ah na siang ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** It shall be a sabbath of rest unto you, and ye shall afflict your souls, by a statute for ever.
 
-**TDB77:** Tua in note’ adingin a thupi tawlngakna sabbath hi a, nomau mah na kigawt ding uh hi; tua in a tawntunga thukham ahi hi.
+**TDB77:** Tua in note’ adingin a thupi tawlngakna sabbath hi a, nomau mah na kigawt ding-te hi; tua in a tawntunga thukham ahi hi.
 
-**ZVS:** Tua pen note-a' dingin a thupi tawlngakna Sabbath hi a, an na tang ding uh hi. Tua pen a tawntunga thukham ahi hi.
+**ZVS:** Tua pen note-a' dingin a thupi tawlngakna Sabbath hi a, an na tang ding-te hi. Tua pen a tawntunga thukham ahi hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

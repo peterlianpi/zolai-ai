@@ -25,7 +25,7 @@
 ### v1
 **EN:** What advantage then hath the Jew? or what profit is there of circumcision?
 
-**TDB77:** Tua ahih leh, Judah mite bang a hampha uh hiam? Vun ki-at hangin hamphatna a om hiam?
+**TDB77:** Tua ahih leh, Judah mite bang a hampha-te hiam? Vun ki-at hangin hamphatna a om hiam?
 
 **ZVS:** Tua ahih leh Jew mite in Gentail mite sangin bang hamphatna neizaw a, vun ki-atna in bang phattuamna nei ahi hiam?
 
@@ -41,18 +41,18 @@
 ### v3
 **EN:** For what if some did not believe? shall their unbelief make the faith of God without effect?
 
-**TDB77:** Judah mi kimkhatte in upna nei lo ahih uh leh, a up lohna un Pasian’ dikna a siasak ding hiam?
+**TDB77:** Judah mi kimkhatte in upna nei lo ahih-te leh, a up lohna un Pasian’ dikna a siasak ding hiam?
 
-**ZVS:** Ahi zongin Jew mi pawlkhatte in Pasian' thuciamna zuilo uh hi. Hih mi pawlkhatte' thu palsatna hangin Pasian in a thuciamna maimangsak dingin ngaihsun na hi uh hiam?
+**ZVS:** Ahi zongin Jew mi pawlkhatte in Pasian' thuciamna zuilo-te hi. Hih mi pawlkhatte' thu palsatna hangin Pasian in a thuciamna maimangsak dingin ngaihsun na hi-te hiam?
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
 ### v4
 **EN:** God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.
 
-**TDB77:** Tua bang hi lo ding hi! “Na thupiakna in na thutan’na kilangsak hi, Thukhenna na thuak ciangin na gualzo ding hi,” ci-in Lai Siangtho sungah a kigelh mah bangin mi khempeuhte in thuciamna a pelh mi a kicih uh hangin, Pasian in thuman thutakpa hi ta hen.
+**TDB77:** Tua bang hi lo ding hi! “Na thupiakna in na thutan’na kilangsak hi, Thukhenna na thuak ciangin na gualzo ding hi,” ci-in Lai Siangtho sungah a kigelh mah bangin mi khempeuhte in thuciamna a pelh mi a kicih-te hangin, Pasian in thuman thutakpa hi ta hen.
 
-**ZVS:** Tua bang hi hetlo hi. Lai Siangtho sungah, “Thu na gen peuhmah ciangin a man na genna thu mite in hong thei ding uh a, mite in nang hong mawhsakna na genkik ciangin na kiphellah ding khat beek omlo ding hi,” ci-in a kigelh mah bangin mi khempeuh in zuau a gen zongin Pasian in thuman gen veve ding hi.
+**ZVS:** Tua bang hi hetlo hi. Lai Siangtho sungah, “Thu na gen peuhmah ciangin a man na genna thu mite in hong thei ding-te a, mite in nang hong mawhsakna na genkik ciangin na kiphellah ding khat beek omlo ding hi,” ci-in a kigelh mah bangin mi khempeuh in zuau a gen zongin Pasian in thuman gen veve ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -84,18 +84,18 @@
 ### v8
 **EN:** And not rather, (as we be slanderously reported, and as some affirm that we say,) Let us do evil, that good may come? whose damnation is just.
 
-**TDB77:** Phatna a pian’ nadingin phat lohna gamta ni ci-in mi kimkhatte in hong kosia uh a, komau kam hong dawn’ kik uh mah bangin ka gen kik lai ding uh hiam? Tua bang a gente in thuman daan a thuak ding uh hi.
+**TDB77:** Phatna a pian’ nadingin phat lohna gamta ni ci-in mi kimkhatte in hong kosia-te a, komau kam hong dawn’ kik-te mah bangin ka gen kik lai ding-te hiam? Tua bang a gente in thuman daan a thuak ding-te hi.
 
-**ZVS:** Thupha a pian'na dingin gamtat sia gamta ni, ci ding ihi hiam? Mi pawlkhatte in tu-a bang teek mahin gen hi, ci-in hong mawhsak uh a, ka heh theihtheihna dingin kam a pau se uh hi. Tua bang mite in amau thuak dingin a kilawm gimna a thuak ding uh hi.
+**ZVS:** Thupha a pian'na dingin gamtat sia gamta ni, ci ding ihi hiam? Mi pawlkhatte in tu-a bang teek mahin gen hi, ci-in hong mawhsak-te a, ka heh theihtheihna dingin kam a pau se-te hi. Tua bang mite in amau thuak dingin a kilawm gimna a thuak ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** What then? are we better than they? No, in no wise: for we have before proved both Jews and Gentiles, that they are all under sin;
 
-**TDB77:** Tua ahih leh, bang kici ding hiam? Ei Judah mite in tua Gentailte sangin phazaw i hi hiam? Phazaw i hi zenzen kei hi. Bang hang hiam na cih uh leh, Judah mi leh Grik mi khempeuhte in mawhna nei tuak uh hi cih thu a masa-in ka lak zo hi.
+**TDB77:** Tua ahih leh, bang kici ding hiam? Ei Judah mite in tua Gentailte sangin phazaw i hi hiam? Phazaw i hi zenzen kei hi. Bang hang hiam na cih-te leh, Judah mi leh Grik mi khempeuhte in mawhna nei tuak-te hi cih thu a masa-in ka lak zo hi.
 
-**ZVS:** Tua ahih leh Gentail mite sangin ko Jew mite hamphazaw ka hi uh hiam? Bangmah hamphatna nei tuanlo hi ung. Jew mite leh Gentail mite a kibangin mawhna khutsungah om uh hi, ci-in ka gen khinzo hi.
+**ZVS:** Tua ahih leh Gentail mite sangin ko Jew mite hamphazaw ka hi-te hiam? Bangmah hamphatna nei tuanlo hi ung. Jew mite leh Gentail mite a kibangin mawhna khutsungah om-te hi, ci-in ka gen khinzo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -120,18 +120,18 @@
 ### v12
 **EN:** They are all gone out of the way, they are together become unprofitable; there is none that doeth good, no, not one.
 
-**TDB77:** Amau khempeuh in lam a pial zo uh hi, A vekpi-un a kiman’na om lo hi. A hoih a, gamta a om kei hi, Khat nangawn a om kei hi.
+**TDB77:** Amau khempeuh in lam a pial zo-te hi, A vekpi-un a kiman’na om lo hi. A hoih a, gamta a om kei hi, Khat nangawn a om kei hi.
 
-**ZVS:** Kuamah in Pasian ngaihsutna neilo uh a, na-a kimang kuamah omlo a, a hoih gamtat kuamah omlo hi.
+**ZVS:** Kuamah in Pasian ngaihsutna neilo-te a, na-a kimang kuamah omlo a, a hoih gamtat kuamah omlo hi.
 
 **Grammar:** negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Their throat is an open sepulchre; with their tongues they have used deceit; the poison of asps is under their lips:
 
-**TDB77:** Amau gawlgui un a kihongsa hankhuk ahi uh hi. Amau leii uh tawh mi a kheem zo uh hi. Amau muk sung uh ah gul hangsante’ gu a om hi.
+**TDB77:** Amau gawlgui un a kihongsa hankhuk ahi-te hi. Amau leii-te tawh mi a kheem zo-te hi. Amau muk sung-te ah gul hangsante’ gu a om hi.
 
-**ZVS:** A kam uh tawh mi that uh a, a kam uh tawh zuauthu gen uh a, a kampaute uh gulgu tawh kibang hi.
+**ZVS:** A kam-te tawh mi that-te a, a kam-te tawh zuauthu gen-te a, a kampaute-te gulgu tawh kibang hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -140,14 +140,14 @@
 
 **TDB77:** Amaute kam un hangsan’na leh kamkhauh tawh a dim hi.
 
-**ZVS:** A kam uh tawh mi samsia uh a, gitlohna bek tawh a kidim uh hi.
+**ZVS:** A kam-te tawh mi samsia-te a, gitlohna bek tawh a kidim-te hi.
 
 ### v15
 **EN:** Their feet are swift to shed blood:
 
 **TDB77:** Amau khe un mi sisan suah dingin a manlang hi.
 
-**ZVS:** Mi that pakpak uh a,
+**ZVS:** Mi that pakpak-te a,
 
 **Grammar:** purpose: in order to
 
@@ -156,41 +156,41 @@
 
 **TDB77:** Amau paina lampi-ah kisiatna leh gimna a dim hi.
 
-**ZVS:** a paina khempeuh uhah lungkhamna a piangsak uh hi.
+**ZVS:** a paina khempeuh uhah lungkhamna a piangsak-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v17
 **EN:** And the way of peace have they not known:
 
-**TDB77:** Nopna lampi amau in a thei kei uh hi.
+**TDB77:** Nopna lampi amau in a thei kei-te hi.
 
-**ZVS:** Nopna a pian'na dingin gamta ngeilo uh a,
+**ZVS:** Nopna a pian'na dingin gamta ngeilo-te a,
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v18
 **EN:** There is no fear of God before their eyes.
 
-**TDB77:** Pasian kihtakna thu Amau mittang mai uh ah a om kei hi,” ci-in a kigelh hi.
+**TDB77:** Pasian kihtakna thu Amau mittang mai-te ah a om kei hi,” ci-in a kigelh hi.
 
-**ZVS:** Pasian zahtak ding ngaihsutin neilo uh hi,” ci-in a kigelh hi.
+**ZVS:** Pasian zahtak ding ngaihsutin neilo-te hi,” ci-in a kigelh hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix
 
 ### v19
 **EN:** Now we know that what things soever the law saith, it saith to them who are under the law: that every mouth may be stopped, and all the world may become guilty before God.
 
-**TDB77:** Thukham in a gen thu khempeuh thukham nuai-ah a om mite kiangah a gen hi cih i thei hi. Tua ahih ciangin kam a vekpi kikham uh a, leitungmi khempeuhte in Pasian mai-ah mawhsakna a thuak ding uh hi.
+**TDB77:** Thukham in a gen thu khempeuh thukham nuai-ah a om mite kiangah a gen hi cih i thei hi. Tua ahih ciangin kam a vekpi kikham-te a, leitungmi khempeuhte in Pasian mai-ah mawhsakna a thuak ding-te hi.
 
-**ZVS:** Tua ahih manin kuamah in paulap a zon' theihlohna ding leh mi khempeuh in Pasian' thukhenna a thuak theihna dingin Thukham a nei mite khempeuh in tua Thukham a zuihding uh ahihna thu i thei hi.
+**ZVS:** Tua ahih manin kuamah in paulap a zon' theihlohna ding leh mi khempeuh in Pasian' thukhenna a thuak theihna dingin Thukham a nei mite khempeuh in tua Thukham a zuihding-te ahihna thu i thei hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** Therefore by the deeds of the law there shall no flesh be justified in his sight: for by the law is the knowledge of sin.
 
-**TDB77:** Bang hang hiam na cih uh leh, thukham tawh mawhna kilang ahih ciangin thukham a zuihna tawh, Pasian mai-ah kuamah in dikkisakna a ngah kei ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, thukham tawh mawhna kilang ahih ciangin thukham a zuihna tawh, Pasian mai-ah kuamah in dikkisakna a ngah kei ding hi.
 
 **ZVS:** Thukham in mihingte a mawhna kilangsak thei bek ahih manin thukham zuihna hangin kuamah in Pasian tawh kipawl theihna ngah zolo hi.
 
@@ -201,7 +201,7 @@
 
 **TDB77:** Tu-in Thukhamna leh kamsangte in teci a pan’ uh mah bangin, thukham loin Zeisu Khazih sungah thu-um mite khempeuh tungah upna hangin hong tung Pasian’ dikna kilang hi.
 
-**ZVS:** Ahi zongin tu-in thukham zuihna hang hiloin thudang khat hangin Pasian tawh kipawl theihna ding lampi hong kilangzo a, Thukham leh kamsangte in zong hih thu-ah teci a pang uh hi.
+**ZVS:** Ahi zongin tu-in thukham zuihna hang hiloin thudang khat hangin Pasian tawh kipawl theihna ding lampi hong kilangzo a, Thukham leh kamsangte in zong hih thu-ah teci a pang-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -217,9 +217,9 @@
 ### v23
 **EN:** For all have sinned, and come short of the glory of God;
 
-**TDB77:** Bang hang hiam na cih uh leh, mi khempeuh a mawh uh a, Pasian’ maipha a ngah nading uh kisia hi.
+**TDB77:** Bang hang hiam na cih-te leh, mi khempeuh a mawh-te a, Pasian’ maipha a ngah nading-te kisia hi.
 
-**ZVS:** Mi khempeuh mawh ciat uh a, a hong honkhia Pasian tawh kigamla uh hi.
+**ZVS:** Mi khempeuh mawh ciat-te a, a hong honkhia Pasian tawh kigamla-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -235,7 +235,7 @@
 
 **TDB77:** Pasian in hong hehpihin a kihih khinsa mawhna a ngaihsut lohna in ama dikna thu kilat nangin ahi zongin,
 
-**ZVS:** Ama hong sihna hangin mawhna a kimaisak theihna dingin Pasian in Jesuh hong pia a, amah a umte in mawhmaisakna a ngah uh hi. Amah tawh i kipawl theihna ding zia hong lahna-in hih bangin Pasian a hong gamta ahi hi. Pasian a lungduaina hangin a beisa hunah i mawhnate hong en khong phot hi.
+**ZVS:** Ama hong sihna hangin mawhna a kimaisak theihna dingin Pasian in Jesuh hong pia a, amah a umte in mawhmaisakna a ngah-te hi. Amah tawh i kipawl theihna ding zia hong lahna-in hih bangin Pasian a hong gamta ahi hi. Pasian a lungduaina hangin a beisa hunah i mawhnate hong en khong phot hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -251,7 +251,7 @@
 ### v27
 **EN:** Where is boasting then? It is excluded. By what law? of works? Nay: but by the law of faith.
 
-**TDB77:** Tua ahih ciangin kisaktheih nading koi-ah a om hiam na cih uh leh, a kipaaikhia zo hi. Bang thu tawh kipaai hiam? Gamtatna tawh kipaaikhia ahi hiam? Hi lo hi! Thu-upna tawh kipaaikhia hi.
+**TDB77:** Tua ahih ciangin kisaktheih nading koi-ah a om hiam na cih-te leh, a kipaaikhia zo hi. Bang thu tawh kipaai hiam? Gamtatna tawh kipaaikhia ahi hiam? Hi lo hi! Thu-upna tawh kipaaikhia hi.
 
 **ZVS:** Tua ahih leh mihingte in i kisialhpih ding bang om ahi hiam? Bangmah omlo hi. Bang bulphuh ding ihi hiam? Thukham zuihna bulphuh ding ihi hiam? Hilo hi. I upna a bulphuh ding ihi hi.
 
@@ -278,7 +278,7 @@
 
 **TDB77:** Tua Pasian in upna bangin vun atte leh vun at lote a dik a sa ding hi.
 
-**ZVS:** Pasian khat bek hi a, a upna uh hangin Jew mite amah tawh a kipawl thei-in a bawl mah bangin Gentail mite zong a upna uh hang mah tawh amah tawh a kipawl thei-in a bawl hi.
+**ZVS:** Pasian khat bek hi a, a upna-te hangin Jew mite amah tawh a kipawl thei-in a bawl mah bangin Gentail mite zong a upna-te hang mah tawh amah tawh a kipawl thei-in a bawl hi.
 
 **Grammar:** future: will
 

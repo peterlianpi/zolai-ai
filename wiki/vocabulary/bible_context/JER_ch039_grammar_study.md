@@ -26,45 +26,45 @@
 ### v1
 **EN:** In the ninth year of Zedekiah king of Judah, in the tenth month, came Nebuchadrezzar king of Babylon and all his army against Jerusalem, and they besieged it.
 
-**TDB77:** Judah gamah Zedekiah kumpi a suah zawh kum kua leh kha sawm a phak laitakin, Babilon kumpipa Nebukhadnezzar leh a galkap khempeuh Jerusalem khua sim dingin hong pai uh hi.
+**TDB77:** Judah gamah Zedekiah kumpi a suah zawh kum kua leh kha sawm a phak laitakin, Babilon kumpipa Nebukhadnezzar leh a galkap khempeuh Jerusalem khua sim dingin hong pai-te hi.
 
-**ZVS:** Judah gamah Zedekiah kumpi a suahzawh kum kua leh kha sawm a phak laitakin, Babylon kumpipa Nebukhadnezzar leh a galkap khempeuh Jerusalem khua a sim dingin a hong kuan uh hi.
+**ZVS:** Judah gamah Zedekiah kumpi a suahzawh kum kua leh kha sawm a phak laitakin, Babylon kumpipa Nebukhadnezzar leh a galkap khempeuh Jerusalem khua a sim dingin a hong kuan-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v2
 **EN:** And in the eleventh year of Zedekiah, in the fourth month, the ninth day of the month, the city was broken up.
 
-**TDB77:** Zedekiah a maan’ zawh kum sawm leh kum khat, a kha lina, a ni kua ni-in, kumpipa’ khuapi kulh a phulet uh hi.
+**TDB77:** Zedekiah a maan’ zawh kum sawm leh kum khat, a kha lina, a ni kua ni-in, kumpipa’ khuapi kulh a phulet-te hi.
 
-**ZVS:** Zedekiah in a ukzawh kum sawm leh kum khat, a kha lina, a ni kua ni-in, kumpipa' khuapi kulh a hong phulet uh hi.
+**ZVS:** Zedekiah in a ukzawh kum sawm leh kum khat, a kha lina, a ni kua ni-in, kumpipa' khuapi kulh a hong phulet-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v3
 **EN:** And all the princes of the king of Babylon came in, and sat in the middle gate, even Nergal–sharezer, Samgar–nebo, Sarsechim, Rab–saris, Nergal–sharezer, Rab–mag, with all the residue of the princes of the king of Babylon.
 
-**TDB77:** Jerusalem khua a kilak laitakin, Nergalsharezer, Samgarnebo, galkapmang Sarsekhim leh sakol galkap mang Nergalsharezer-te akipan Babilon kumpipa’ kumpi uliante khempeuh hong pai-in kongpi laita penah hong tu uh hi.
+**TDB77:** Jerusalem khua a kilak laitakin, Nergalsharezer, Samgarnebo, galkapmang Sarsekhim leh sakol galkap mang Nergalsharezer-te akipan Babilon kumpipa’ kumpi uliante khempeuh hong pai-in kongpi laita penah hong tu-te hi.
 
-**ZVS:** Jerusalem khua a kilak laitakin Nergalsharezer, Samgarnebo, galkapbu Sarsekhim leh sakol galkapmang Nergalsharezer-te-a kipan Babylon kumpi uliante khempeuh hong pai-in kongpi laita penah hong tu uh hi.
+**ZVS:** Jerusalem khua a kilak laitakin Nergalsharezer, Samgarnebo, galkapbu Sarsekhim leh sakol galkapmang Nergalsharezer-te-a kipan Babylon kumpi uliante khempeuh hong pai-in kongpi laita penah hong tu-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And it came to pass, that when Zedekiah the king of Judah saw them, and all the men of war, then they fled, and went forth out of the city by night, by the way of the king's garden, by the gate betwixt the two walls: and he went out the way of the plain.
 
-**TDB77:** Judah kumpipa Zedekiah leh galkap khempeuh in amaute a muh uh ciangin a tai sim uh hi. Zan laitakin kumpipa’ huan sung tawnin kulh tegel kikal-a kongpi kan tan-in khuapi sung pan a paikhia uh a, Arabah leizang lam a manawh uh hi.
+**TDB77:** Judah kumpipa Zedekiah leh galkap khempeuh in amaute a muh-te ciangin a tai sim-te hi. Zan laitakin kumpipa’ huan sung tawnin kulh tegel kikal-a kongpi kan tan-in khuapi sung pan a paikhia-te a, Arabah leizang lam a manawh-te hi.
 
-**ZVS:** Judah kumpipa Zedekiah leh galkap khempeuh in amaute a muh uh ciangin a taisim uh hi. Zan laitakin kumpipa' huansung tawnin kulhte gel kikala kongpi kantanin khuapisung pan paikhia uh a, Arabah gam lam a manawh uh hi.
+**ZVS:** Judah kumpipa Zedekiah leh galkap khempeuh in amaute a muh-te ciangin a taisim-te hi. Zan laitakin kumpipa' huansung tawnin kulhte gel kikala kongpi kantanin khuapisung pan paikhia-te a, Arabah gam lam a manawh-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** But the Chaldeans' army pursued after them, and overtook Zedekiah in the plains of Jericho: and when they had taken him, they brought him up to Nebuchadrezzar king of Babylon to Riblah in the land of Hamath, where he gave judgment upon him.
 
-**TDB77:** Ahih hangin Khaldea galkapte in a nung delh uh a, Jerikho leizangah Zedekiah a pha uh hi. A mat khit uh ciangin Hamath gam Riblah khua-ah, Babilon kumpipa Nebukhadnezzar’ kiangah a paipih uh a, amah in thukhenna a pia hi.
+**TDB77:** Ahih hangin Khaldea galkapte in a nung delh-te a, Jerikho leizangah Zedekiah a pha-te hi. A mat khit-te ciangin Hamath gam Riblah khua-ah, Babilon kumpipa Nebukhadnezzar’ kiangah a paipih-te a, amah in thukhenna a pia hi.
 
-**ZVS:** Ahih hangin Babylon galkapte in nungdelh uh a, Jerikho zanglei-ah Zedekiah a pha uh hi. A mat khit uh ciangin Hamath gam Riblah khua-ah, Babylon kumpipa Nebukhadnezzar' kiangah paipih uh a, amah in thukhenna a pia hi.
+**ZVS:** Ahih hangin Babylon galkapte in nungdelh-te a, Jerikho zanglei-ah Zedekiah a pha-te hi. A mat khit-te ciangin Hamath gam Riblah khua-ah, Babylon kumpipa Nebukhadnezzar' kiangah paipih-te a, amah in thukhenna a pia hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -85,9 +85,9 @@
 ### v8
 **EN:** And the Chaldeans burned the king's house, and the houses of the people, with fire, and brake down the walls of Jerusalem.
 
-**TDB77:** Khadea mite in kumpipa’ inn leh midangte’ innte a hal uh a, Jerusalem khua kulhpi a susia uh hi.
+**TDB77:** Khadea mite in kumpipa’ inn leh midangte’ innte a hal-te a, Jerusalem khua kulhpi a susia-te hi.
 
-**ZVS:** Babylon mite in kumpipa' inn leh midangte' innte hal uh a, Jerusalem khua kulhpi a susia uh hi.
+**ZVS:** Babylon mite in kumpipa' inn leh midangte' innte hal-te a, Jerusalem khua kulhpi a susia-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -139,9 +139,9 @@
 ### v14
 **EN:** Even they sent, and took Jeremiah out of the court of the prison, and committed him unto Gedaliah the son of Ahikam the son of Shaphan, that he should carry him home: so he dwelt among the people.
 
-**TDB77:** thong huang sung panin Jeremiah a lakhia uh hi. Ahikam’ tapa ahi, Shafan’ tapa Gedeliah kiangah, inn a, a ciahpih dingin a ap uh hi. Tua ahih manin Jeremiah a mipihte’ lak mahah a teeng hi.
+**TDB77:** thong huang sung panin Jeremiah a lakhia-te hi. Ahikam’ tapa ahi, Shafan’ tapa Gedeliah kiangah, inn a, a ciahpih dingin a ap-te hi. Tua ahih manin Jeremiah a mipihte’ lak mahah a teeng hi.
 
-**ZVS:** thong huangsung panin kei a hong lakhia uh hi. Ahikam' tapa ahi, Shafan' tupa Gedaliah in hong kemin inn-ah a hong ciahpih dingin kei a hong ap uh hi. Tua ahih manin ka mipihte' lak mahah ka om hi.
+**ZVS:** thong huangsung panin kei a hong lakhia-te hi. Ahikam' tapa ahi, Shafan' tupa Gedaliah in hong kemin inn-ah a hong ciahpih dingin kei a hong ap-te hi. Tua ahih manin ka mipihte' lak mahah ka om hi.
 
 **Grammar:** purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 

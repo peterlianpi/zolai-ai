@@ -34,7 +34,7 @@
 ### v2
 **EN:** And great multitudes were gathered together unto him, so that he went into a ship, and sat; and the whole multitude stood on the shore.
 
-**TDB77:** mihonpi a kiangah kikhawm uh a, amah in gunkuang tungah tuangin a tu hi. Mihonpite khempeuh tuili geiah, lei tungah a ding uh hi.
+**TDB77:** mihonpi a kiangah kikhawm-te a, amah in gunkuang tungah tuangin a tu hi. Mihonpite khempeuh tuili geiah, lei tungah a ding-te hi.
 
 **ZVS:** Ama kiimah a hong kikhawm mi tamlua ahih manin amah gunkuang tungah pai-in tu a, mihonte ahih leh tuili gei-ah a omsak hi.
 
@@ -50,16 +50,16 @@
 ### v10
 **EN:** And the disciples came, and said unto him, Why speakest thou unto them in parables?
 
-**TDB77:** A nungzuite in va nai uh a, “Topa aw, bang hangin thu gentehna tawh hih mite hilh na hi hiam?” a cih uh ciangin
+**TDB77:** A nungzuite in va nai-te a, “Topa aw, bang hangin thu gentehna tawh hih mite hilh na hi hiam?” a cih-te ciangin
 
-**ZVS:** Tua ciangin nungzuite in Jesuh va naihin ama kiangah, “Bang hangin thugentehna zangin amaute tungah thu gen na hi hiam?” ci-in a dong uh hi.
+**ZVS:** Tua ciangin nungzuite in Jesuh va naihin ama kiangah, “Bang hangin thugentehna zangin amaute tungah thu gen na hi hiam?” ci-in a dong-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** He answered and said unto them,
 
-**TDB77:** Zeisu in, “Note in Vantung Gam thu theih hakte na theih nadingun thu hong pia hi. Amaute ahih uh leh, a theih nadingun thu kipia lo hi.
+**TDB77:** Zeisu in, “Note in Vantung Gam thu theih hakte na theih nadingun thu hong pia hi. Amaute ahih-te leh, a theih nadingun thu kipia lo hi.
 
 **ZVS:** Jesuh in, “Vantung ki-ukna tawh kisai thusim note tungah hong kihilh a, ahi zongin amaute tungah kihilhlo hi.
 
@@ -113,9 +113,9 @@
 ### v36
 **EN:** Then Jesus sent the multitude away, and went into the house: and his disciples came unto him, saying, Declare unto us the parable of the tares of the field.
 
-**TDB77:** Tua ciangin Zeisu in, mihonpi lak pan paikhia-in, inn sungah a lut khit ciangin, a nungzuite a kiangah va pai uh a, “Lo lai-ah a po tahum kung gentehna thu a khiatna ko hong hilh tel in,” ci-in a dot uh leh, Zeisu in,
+**TDB77:** Tua ciangin Zeisu in, mihonpi lak pan paikhia-in, inn sungah a lut khit ciangin, a nungzuite a kiangah va pai-te a, “Lo lai-ah a po tahum kung gentehna thu a khiatna ko hong hilh tel in,” ci-in a dot-te leh, Zeisu in,
 
-**ZVS:** Tua ciangin mihonte lak panin Jesuh paikhia-in innsungah a lut hi. A nungzuite ama kiangah hong pai uh a, “Lolai-a om Tahum Thugentehna a khiatna hong gen in,” a cih uh ciangin
+**ZVS:** Tua ciangin mihonte lak panin Jesuh paikhia-in innsungah a lut hi. A nungzuite ama kiangah hong pai-te a, “Lolai-a om Tahum Thugentehna a khiatna hong gen in,” a cih-te ciangin
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -129,18 +129,18 @@
 ### v51
 **EN:** Jesus saith unto them,
 
-**TDB77:** “Hih thu khempeuh note’n na thei uh hiam?” ci-in a dot ciangin, “Ka thei khin uh hi,” a cih uh leh,
+**TDB77:** “Hih thu khempeuh note’n na thei-te hiam?” ci-in a dot ciangin, “Ka thei khin-te hi,” a cih-te leh,
 
-**ZVS:** “Hih ka thugente khempeuh a khiatna na thei uh hiam?” ci-in Jesuh in a dot ciangin amaute in, “Ka thei uh hi,” ci-in a dawng uh hi.
+**ZVS:** “Hih ka thugente khempeuh a khiatna na thei-te hiam?” ci-in Jesuh in a dot ciangin amaute in, “Ka thei-te hi,” ci-in a dawng-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | plural: uh marker
 
 ### v52
 **EN:** Then said he unto them,
 
-**TDB77:** Zeisu in, “Tua ahih leh, Vantung Gam thuzui a suak laithei khempeuh in sumkholna pan a thak leh a lui a lakhia thei inn teekpa tawh kibang uh hi,” a ci hi.
+**TDB77:** Zeisu in, “Tua ahih leh, Vantung Gam thuzui a suak laithei khempeuh in sumkholna pan a thak leh a lui a lakhia thei inn teekpa tawh kibang-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin Jesuh in amaute kiangah, “Vantung ki-ukna sungah a hong lut Thukham hilh siate khempeuh pen, a sumkholna panin a thak leh a lui, a ut utin a lakhia thei ziau ziau sumneipa tawh kibang uh hi,” a ci hi.
+**ZVS:** Tua ciangin Jesuh in amaute kiangah, “Vantung ki-ukna sungah a hong lut Thukham hilh siate khempeuh pen, a sumkholna panin a thak leh a lui, a ut utin a lakhia thei ziau ziau sumneipa tawh kibang-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -154,41 +154,41 @@
 ### v54
 **EN:** And when he was come into his own country, he taught them in their synagogue, insomuch that they were astonished, and said, Whence hath this man this wisdom, and these mighty works?
 
-**TDB77:** Ama khua-ah a tun’ ciangin, kikhopna inn sungah thu hilh hi. Khuapihte in lamdang a sa uh hi. “Hihpa in hih bang pilna leh vangliatna koi pan a ngah hiam?
+**TDB77:** Ama khua-ah a tun’ ciangin, kikhopna inn sungah thu hilh hi. Khuapihte in lamdang a sa-te hi. “Hihpa in hih bang pilna leh vangliatna koi pan a ngah hiam?
 
-**ZVS:** ama khua-ah pai a, kikhopna innsungah thu a hilh hi. Ama thugen a za mite in lamdangsa mahmah uh a, “Hih mipa in hih bang pilna koilai panin ngah a, bang hangin hih bang na lamdangte bawlthei ahi hiam?
+**ZVS:** ama khua-ah pai a, kikhopna innsungah thu a hilh hi. Ama thugen a za mite in lamdangsa mahmah-te a, “Hih mipa in hih bang pilna koilai panin ngah a, bang hangin hih bang na lamdangte bawlthei ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v55
 **EN:** Is not this the carpenter's son? is not his mother called Mary? and his brethren, James, and Joses, and Simon, and Judas?
 
-**TDB77:** Amah in khutsiampa’ tapa hilo ahi hiam? A nu min Mari hilo ahi hiam? Ama sanggamte in Jakob, Josef, Simon, Judah te hilo ahi uh hiam?
+**TDB77:** Amah in khutsiampa’ tapa hilo ahi hiam? A nu min Mari hilo ahi hiam? Ama sanggamte in Jakob, Josef, Simon, Judah te hilo ahi-te hiam?
 
-**ZVS:** Khutsiampa' tapa hi lel a, a nu zong Mary a kicinu hilel hilo ahi hiam? Ama naute zong James, Josef, Simon leh Judas hilo ahi uh hiam?
+**ZVS:** Khutsiampa' tapa hi lel a, a nu zong Mary a kicinu hilel hilo ahi hiam? Ama naute zong James, Josef, Simon leh Judas hilo ahi-te hiam?
 
 ### v56
 **EN:** And his sisters, are they not all with us? Whence then hath this man all these things?
 
-**TDB77:** Ama sanggamnute in i kiangah om hilo ahi uh hiam? Tua ahih leh, amah in hih thute khempeuh koi pan a ngah hiam?” ci-in a kidong uh hi.
+**TDB77:** Ama sanggamnute in i kiangah om hilo ahi-te hiam? Tua ahih leh, amah in hih thute khempeuh koi pan a ngah hiam?” ci-in a kidong-te hi.
 
-**ZVS:** A nau numeite zong hih lai mah-a om hilo ahi uh hiam? Tua bang hinapi-in hih mipa in koi lai panin hih bang thuteng ngahthei ahi hiam?” a ci uh hi.
+**ZVS:** A nau numeite zong hih lai mah-a om hilo ahi-te hiam? Tua bang hinapi-in hih mipa in koi lai panin hih bang thuteng ngahthei ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v57
 **EN:** And they were offended in him. But Jesus said unto them,
 
-**TDB77:** Amaute in amah hanginah a lungkia uh hi. Tua ciangin Zeisu in, “Pasian’ kamsangpa in ama khua, ama inn longal mun dangah minthan’na ngah loin om lo hi,” ci-in amaute kiangah a ci hi.
+**TDB77:** Amaute in amah hanginah a lungkia-te hi. Tua ciangin Zeisu in, “Pasian’ kamsangpa in ama khua, ama inn longal mun dangah minthan’na ngah loin om lo hi,” ci-in amaute kiangah a ci hi.
 
-**ZVS:** Tua ahih manin amah a sangzo kei uh hi. Tua ciangin Jesuh in amaute kiangah, “Kamsang khat pen, ama khua, ama behte, leh ama innsung longal-ah kizahtakin pahtawina a ngah hi,” a ci hi.
+**ZVS:** Tua ahih manin amah a sangzo kei-te hi. Tua ciangin Jesuh in amaute kiangah, “Kamsang khat pen, ama khua, ama behte, leh ama innsung longal-ah kizahtakin pahtawina a ngah hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v58
 **EN:** And he did not many mighty works there because of their unbelief.
 
-**TDB77:** A khuapihte in a thu um lo uh ahih ciangin tua san takah nalamdang tampi a bawl zo kei hi.
+**TDB77:** A khuapihte in a thu um lo-te ahih ciangin tua san takah nalamdang tampi a bawl zo kei hi.
 
 **ZVS:** Nazareth khuamite in amah a uplohna hangin tua khua-ah na lamdang tampi a bawl kei hi.
 

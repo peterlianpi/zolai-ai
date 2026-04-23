@@ -44,9 +44,9 @@
 ### v3
 **EN:** Israel was holiness unto the
 
-**TDB77:** Israel mite Topa’ ading-a a tuam om hi a, ama’ an lakna-ah an palte ahi uh hi. Amaute a ne peuhpeuh a mawh suak uh a, gimna a thuak uh hi, Topa in hong ci hi, ci-in va gen in,” hong ci hi.
+**TDB77:** Israel mite Topa’ ading-a a tuam om hi a, ama’ an lakna-ah an palte ahi-te hi. Amaute a ne peuhpeuh a mawh suak-te a, gimna a thuak-te hi, Topa in hong ci hi, ci-in va gen in,” hong ci hi.
 
-**ZVS:** Israel mite pen { Topa}-a' dingin a tuam om hi a, ama anlakna-ah a anpalte ahi uh hi. Amaute a ne peuhpeuh a mawh suak uh a, gimna a thuak uh hi, { Topa } in hong ci hi, ci-in va gen in,” hong ci hi.
+**ZVS:** Israel mite pen { Topa}-a' dingin a tuam om hi a, ama anlakna-ah a anpalte ahi-te hi. Amaute a ne peuhpeuh a mawh suak-te a, gimna a thuak-te hi, { Topa } in hong ci hi, ci-in va gen in,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -60,36 +60,36 @@
 ### v5
 **EN:** Thus saith the
 
-**TDB77:** Topa in hih bangin ci hi: “Na pute na pate un kei kiang panin gamlapi paikhia-in, bangmah-a kimang lo milim peuh bia-in, amau mahmah zong bang mah-a kimang lo a suah khit nadingun kei’ tungah bang mawhna mu uh ahi hiam?
+**TDB77:** Topa in hih bangin ci hi: “Na pute na pate un kei kiang panin gamlapi paikhia-in, bangmah-a kimang lo milim peuh bia-in, amau mahmah zong bang mah-a kimang lo a suah khit nadingun kei’ tungah bang mawhna mu-te ahi hiam?
 
-**ZVS:** { Topa } in hih bangin ci hi: “Na pute na pate uh kei kiang panin gamlapi-ah paikhia-in, bangmahin a kimanglo milim peuh bia-in, amau mahmah zong bangmahin a kimanglo a suah khitna dingun kei tungah bang mawhna hong mu uh ahi hiam?
+**ZVS:** { Topa } in hih bangin ci hi: “Na pute na pate-te kei kiang panin gamlapi-ah paikhia-in, bangmahin a kimanglo milim peuh bia-in, amau mahmah zong bangmahin a kimanglo a suah khitna dingun kei tungah bang mawhna hong mu-te ahi hiam?
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v6
 **EN:** Neither said they, Where is the
 
-**TDB77:** Amaute in, ‘Izipt gam panin eite hong paikhiatpih-a sehnel lak leh dum lak, leikeu lak leh a lauhuai khuamial bekbak lak, kuama’ pai ngei lohna mun, kuama’ teen’ lohna gamlak-ah a hong makaih Topa koi-ah a om hiam?’ ci beek lo uh hi.
+**TDB77:** Amaute in, ‘Izipt gam panin eite hong paikhiatpih-a sehnel lak leh dum lak, leikeu lak leh a lauhuai khuamial bekbak lak, kuama’ pai ngei lohna mun, kuama’ teen’ lohna gamlak-ah a hong makaih Topa koi-ah a om hiam?’ ci beek lo-te hi.
 
-**ZVS:** Amaute in, ‘Egypt gam panin eite hong paikhiatpihin sehnel lak leh dum lak, lei keu lak leh a lauhuai khuamial bekbak lak, kuama pai ngeilohna mun, kuama ten'lohna gamlakah a hong makaih { Topa } koi-ah om ahi hiam?’ ci beeklo uh hi.
+**ZVS:** Amaute in, ‘Egypt gam panin eite hong paikhiatpihin sehnel lak leh dum lak, lei keu lak leh a lauhuai khuamial bekbak lak, kuama pai ngeilohna mun, kuama ten'lohna gamlakah a hong makaih { Topa } koi-ah om ahi hiam?’ ci beeklo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v7
 **EN:** And I brought you into a plentiful country, to eat the fruit thereof and the goodness thereof; but when ye entered, ye defiled my land, and made mine heritage an abomination.
 
-**TDB77:** Singgah leh a hoih nate na nek theih nadingun an tamna munah kong tun’pih hi. Ahih hangin no nong pai uh ciangin ka gam na nin sak uh a, ka neihsa gam a kihhuai mun na suak sak tazen uh hi.
+**TDB77:** Singgah leh a hoih nate na nek theih nadingun an tamna munah kong tun’pih hi. Ahih hangin no nong pai-te ciangin ka gam na nin sak-te a, ka neihsa gam a kihhuai mun na suak sak tazen-te hi.
 
-**ZVS:** Singgah leh a hoih nate na nek theihna dingun an tamna munah kong tun'pih hi. Ahih hangin no nong pai uh ciangin ka gam na ninsak uh a, ka neihsa leitang a kihhuai mun na suaksak tazen uh hi.
+**ZVS:** Singgah leh a hoih nate na nek theihna dingun an tamna munah kong tun'pih hi. Ahih hangin no nong pai-te ciangin ka gam na ninsak-te a, ka neihsa leitang a kihhuai mun na suaksak tazen-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** The priests said not, Where is the
 
-**TDB77:** Siampite in, ‘Topa koi-ah a om hiam?’ ci-in dong lo uh hi. Thukham theite nangawn in kei hong thei lo uh hi. Kumpi uliante kei’ tungah hong khial khin uh a, kamsangte in Baal min tawh thu genin, kiman’na nei lo nate’ nung a zui uh hi.
+**TDB77:** Siampite in, ‘Topa koi-ah a om hiam?’ ci-in dong lo-te hi. Thukham theite nangawn in kei hong thei lo-te hi. Kumpi uliante kei’ tungah hong khial khin-te a, kamsangte in Baal min tawh thu genin, kiman’na nei lo nate’ nung a zui-te hi.
 
-**ZVS:** Siampite in, ‘{ Topa } koi-ah om ahi hiam?’ ci-in donglo uh hi. Thukham a theite nangawn in kei hong theilo uh hi. Kei tungah kumpi uliante hong khial khin uh a, kamsangte in Baal min tawh thu genin kiman'na a neilo milimte a bia uh hi.
+**ZVS:** Siampite in, ‘{ Topa } koi-ah om ahi hiam?’ ci-in donglo-te hi. Thukham a theite nangawn in kei hong theilo-te hi. Kei tungah kumpi uliante hong khial khin-te a, kamsangte in Baal min tawh thu genin kiman'na a neilo milimte a bia-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -105,16 +105,16 @@
 ### v10
 **EN:** For pass over the isles of Kittim, and see; and send unto Kedar, and consider diligently, and see if there be such a thing.
 
-**TDB77:** Bang hang hiam na cih uh leh nitumna lamah Saipras tuikulh mong dong kantan un la, va en dih un. Nisuahna lam Kedar gamah mi sawl un la, limtak kan dih un; tua bang na a piang ngei peuhmah hiam, en dih un.
+**TDB77:** Bang hang hiam na cih-te leh nitumna lamah Saipras tuikulh mong dong kantan un la, va en dih un. Nisuahna lam Kedar gamah mi sawl un la, limtak kan dih un; tua bang na a piang ngei peuhmah hiam, en dih un.
 
 **ZVS:** Bang hang hiam cih leh nitumna lamah Saipras tuikulh mong dong kantan un la va en dih un. Nisuahna lamah Kedar gamah mi sawl un la limtakin kan dih un; tua bang thu a piang ngei peuhmah hiam, en dih un.
 
 ### v11
 **EN:** Hath a nation changed their gods, which are yet no gods? but my people have changed their glory for that which doth not profit.
 
-**TDB77:** Gam khat in pasian ahi taktak beek lo a pasiante uh nangawn a khek ngei peuhmah uh hiam? Ahih hangin ka mite in a minthan’na uh ahi, keimah pen bangmah-a kimang lo na peuh tawh hong khek tazen uh hi.
+**TDB77:** Gam khat in pasian ahi taktak beek lo a pasiante-te nangawn a khek ngei peuhmah-te hiam? Ahih hangin ka mite in a minthan’na-te ahi, keimah pen bangmah-a kimang lo na peuh tawh hong khek tazen-te hi.
 
-**ZVS:** Gam khat peuhpeuh in pasian ahi taktak beeklo a pasian-te uh nangawn a khek ngei peuhmah uh hiam? Ahih hangin ka mite in a minthan'na uh ahi keimah, bangmahin a kimanglo na peuh tawh hong khek tazen uh hi.
+**ZVS:** Gam khat peuhpeuh in pasian ahi taktak beeklo a pasian-te-te nangawn a khek ngei peuhmah-te hiam? Ahih hangin ka mite in a minthan'na-te ahi keimah, bangmahin a kimanglo na peuh tawh hong khek tazen-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -130,9 +130,9 @@
 ### v13
 **EN:** For my people have committed two evils; they have forsaken me the fountain of living waters, and hewed them out cisterns, broken cisterns, that can hold no water.
 
-**TDB77:** Bang hang hiam cih leh ka mite in mawhna nam nih a bawl zo uh hi: nuntakna ciktui ahi keimah a hong taisan zo uh hi; tuikhuk a to tawm uh a, tuikhuk keh-in tui a vung thei kei hi.
+**TDB77:** Bang hang hiam cih leh ka mite in mawhna nam nih a bawl zo-te hi: nuntakna ciktui ahi keimah a hong taisan zo-te hi; tuikhuk a to tawm-te a, tuikhuk keh-in tui a vung thei kei hi.
 
-**ZVS:** Bang hang hiam cih leh ka mite in mawhna nam nih a bawlzo uh hi. Nuntakna ciktui ahi keimah a hong taisanzo uh hi. Tuikhuk totawm uh a, a tuikhuk tawh uh keu-in, tui a vung thei kei hi.
+**ZVS:** Bang hang hiam cih leh ka mite in mawhna nam nih a bawlzo-te hi. Nuntakna ciktui ahi keimah a hong taisanzo-te hi. Tuikhuk totawm-te a, a tuikhuk tawh-te keu-in, tui a vung thei kei hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | plural: uh marker
 
@@ -146,9 +146,9 @@
 ### v15
 **EN:** The young lions roared upon him, and yelled, and they made his land waste: his cities are burned without inhabitant.
 
-**TDB77:** Humpite bangin a galte in amah hawk uh a, nakpi takin a hawkgawp uh hi. A gam uh gam simtham a suah uh a, a khuapite cim-in kuamah teeng lo hi.
+**TDB77:** Humpite bangin a galte in amah hawk-te a, nakpi takin a hawkgawp-te hi. A gam-te gam simtham a suah-te a, a khuapite cim-in kuamah teeng lo hi.
 
-**ZVS:** Humpinelkai bangin a galte in amah hawksan uh a, nakpi takin a hawkgawp uh hi. A gam uh gam simtham a suah uh a, a khuapite uh cimin kuamah tenglo hi.
+**ZVS:** Humpinelkai bangin a galte in amah hawksan-te a, nakpi takin a hawkgawp-te hi. A gam-te gam simtham a suah-te a, a khuapite-te cimin kuamah tenglo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -157,7 +157,7 @@
 
 **TDB77:** Tham loin, Memfis leh Tahpanhes mite in zong a luguh a suktap sak zo hi.
 
-**ZVS:** Thamloin, Memfis leh Tahpanhes mite in zong a luguh a suktapsak zo uh hi.
+**ZVS:** Thamloin, Memfis leh Tahpanhes mite in zong a luguh a suktapsak zo-te hi.
 
 ### v17
 **EN:** Hast thou not procured this unto thyself, in that thou hast forsaken the
@@ -191,7 +191,7 @@
 
 **TDB77:** “Sawt pek lai-a kipanin ka hakkol kuaitan-in ka ukna nong nial a, hong kihenna khau sutat-in, ‘Na na ka sem kei ding hi,’ nong ci hi. Hi hi, numei paktat na bang a, mualsang tung teng leh singliim nuai tengah milim na bia kawikawi hi.
 
-**ZVS:** “Sawtpek lai-a kipanin ka hakkol kuaitanin ka ukna nong nial a, hong kihenna khau sutatin, ‘Na na ka sem kei ding hi,’ na hong ci hi. Numei paktatte na bang uh a, mual sang tung teng leh sing liim nuai tengah milim na bia kawikawi uh hi.
+**ZVS:** “Sawtpek lai-a kipanin ka hakkol kuaitanin ka ukna nong nial a, hong kihenna khau sutatin, ‘Na na ka sem kei ding hi,’ na hong ci hi. Numei paktatte na bang-te a, mual sang tung teng leh sing liim nuai tengah milim na bia kawikawi-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 
@@ -225,9 +225,9 @@
 ### v24
 **EN:** A wild ass used to the wilderness, that snuffeth up the wind at her pleasure; in her occasion who can turn her away? all they that seek her will not weary themselves; in her month they shall find her.
 
-**TDB77:** Gamlak nuam a sa laano hukte na bang zen hi! A huk lai-in kua in khaam zo ding hiam? Amah a zong nuam peuhpeuh in gim kul se loin, a huk hunin a ngah lel ding uh hi.
+**TDB77:** Gamlak nuam a sa laano hukte na bang zen hi! A huk lai-in kua in khaam zo ding hiam? Amah a zong nuam peuhpeuh in gim kul se loin, a huk hunin a ngah lel ding-te hi.
 
-**ZVS:** Gamlak nuam a sa, lano hukte na bang tazen hi. A huk laitakin kua in khamzo ding ahi hiam? Amah a hih nuam peuhpeuh in haksa loin, a ut hunhunin a ngah lel ding uh hi.
+**ZVS:** Gamlak nuam a sa, lano hukte na bang tazen hi. A huk laitakin kua in khamzo ding ahi hiam? Amah a hih nuam peuhpeuh in haksa loin, a ut hunhunin a ngah lel ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -243,63 +243,63 @@
 ### v26
 **EN:** As the thief is ashamed when he is found, so is the house of Israel ashamed; they, their kings, their princes, and their priests, and their prophets,
 
-**TDB77:** “Guta khat a kimat cianga a zum bangin, Israel mite, a kumpite uh, uliante, a siampite uh leh a kamsangte uh zong a zum ding uh hi.
+**TDB77:** “Guta khat a kimat cianga a zum bangin, Israel mite, a kumpite uh, uliante, a siampite-te leh a kamsangte-te zong a zum ding-te hi.
 
-**ZVS:** “Guta khatpeuh a kimat ciangin a zum bangin, Israel mite, a kumpite, a uliante, a siampite, leh a kamsangte uh zong a maizum ding uh hi.
+**ZVS:** “Guta khatpeuh a kimat ciangin a zum bangin, Israel mite, a kumpite, a uliante, a siampite, leh a kamsangte-te zong a maizum ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** Saying to a stock, Thou art my father; and to a stone, Thou hast brought me forth: for they have turned their back unto me, and not their face: but in the time of their trouble they will say, Arise, and save us.
 
-**TDB77:** Amaute in singtawng khat kiangah, ‘Nang ka pa na hi hi,’ peuh a ci uh a, suangtum khat kiangah, ‘Ka pian’na ka nu na hi hi,’ peuh a ci uh hi. Bang hang hiam cih leh amaute in kei hong nungngat uh a, a hong maingat kei uh hi. Ahih hangin haksatna a tuah uh ciangin, ‘Tho in la, hong hon in,’ hong ci uh hi.
+**TDB77:** Amaute in singtawng khat kiangah, ‘Nang ka pa na hi hi,’ peuh a ci-te a, suangtum khat kiangah, ‘Ka pian’na ka nu na hi hi,’ peuh a ci-te hi. Bang hang hiam cih leh amaute in kei hong nungngat-te a, a hong maingat kei-te hi. Ahih hangin haksatna a tuah-te ciangin, ‘Tho in la, hong hon in,’ hong ci-te hi.
 
-**ZVS:** Amaute in singtawng khat kiangah, ‘Nang pen ka pasian na hi hi,’ ci uh a, suangtum khat kiangah, ‘Ka pian'na ka nu na hi hi,’ peuh a ci uh hi. Bang hang hiam cih leh amaute in kei hong nungngatin hong maingatlo uh hi. Ahih hangin haksatna a tuah uh ciangin, ‘Tho in la hong hon in,’ hong ci uh hi.
+**ZVS:** Amaute in singtawng khat kiangah, ‘Nang pen ka pasian na hi hi,’ ci-te a, suangtum khat kiangah, ‘Ka pian'na ka nu na hi hi,’ peuh a ci-te hi. Bang hang hiam cih leh amaute in kei hong nungngatin hong maingatlo-te hi. Ahih hangin haksatna a tuah-te ciangin, ‘Tho in la hong hon in,’ hong ci-te hi.
 
 **Grammar:** quotative: said/saying | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** But where are thy gods that thou hast made thee? let them arise, if they can save thee in the time of thy trouble: for according to the number of thy cities are thy gods, O Judah.
 
-**TDB77:** No ading-a na bawl uh na pasiante uh koiah om ahi hiam? Haksatna na tuah uh ciangin, a hong hot theih leh kihon sak ta ve un; bang hang hiam cih leh Judah gam aw, na khuapi zahzah-ah pasian na nei tazen uh hi.
+**TDB77:** No ading-a na bawl-te na pasiante-te koiah om ahi hiam? Haksatna na tuah-te ciangin, a hong hot theih leh kihon sak ta ve un; bang hang hiam cih leh Judah gam aw, na khuapi zahzah-ah pasian na nei tazen-te hi.
 
-**ZVS:** “Note-a' dinga na bawl uh na pasian-te uh koi-ah om ahi hiam? Haksatna na tuah uh ciangin a hong hon thei ahih leh kihonsak ta un; bang hang hiam cih leh Judah gam aw, na khuapi zahzah uh pasian na nei tazen uh hi.
+**ZVS:** “Note-a' dinga na bawl-te na pasian-te-te koi-ah om ahi hiam? Haksatna na tuah-te ciangin a hong hon thei ahih leh kihonsak ta un; bang hang hiam cih leh Judah gam aw, na khuapi zahzah-te pasian na nei tazen-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** Wherefore will ye plead with me? ye all have transgressed against me, saith the
 
-**TDB77:** “Bang hangin kei hong mawh sak khin na hi uh hiam? Na vekpi-un nong langpan’ khin uh hi. Topa in kong ci hi.
+**TDB77:** “Bang hangin kei hong mawh sak khin na hi-te hiam? Na vekpi-un nong langpan’ khin-te hi. Topa in kong ci hi.
 
-**ZVS:** Kei na hong mawhsakna uh bang thu teng tawh ahi hiam? Na vekpi-un kei nong langpan' khin uh hi, { Topa } in kong ci hi.
+**ZVS:** Kei na hong mawhsakna-te bang thu teng tawh ahi hiam? Na vekpi-un kei nong langpan' khin-te hi, { Topa } in kong ci hi.
 
 **Grammar:** quotative: said/saying | completed: already done | plural: uh marker
 
 ### v30
 **EN:** In vain have I smitten your children; they received no correction: your own sword hath devoured your prophets, like a destroying lion.
 
-**TDB77:** Na tate uh thu hilh-in ka sat hangin a mawkna suak zo hi, amaute kibawlpha tuan lo uh hi; na namsaute un humpi an zong bangin na kamsangte uh a that khin zo uh hi.
+**TDB77:** Na tate-te thu hilh-in ka sat hangin a mawkna suak zo hi, amaute kibawlpha tuan lo-te hi; na namsaute un humpi an zong bangin na kamsangte-te a that khin zo-te hi.
 
-**ZVS:** Na tate uh thuhilhin ka sat hangin a mawkna suakzo ta hi. Amaute kibawlpha tuanlo uh hi. Humpinelkai hawk bangin na namsaute un na kamsangte uh a that khinzo uh hi.
+**ZVS:** Na tate-te thuhilhin ka sat hangin a mawkna suakzo ta hi. Amaute kibawlpha tuanlo-te hi. Humpinelkai hawk bangin na namsaute un na kamsangte-te a that khinzo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** O generation, see ye the word of the
 
-**TDB77:** No khangthakte aw, Topa’ kammal limtak ngai dih un. Israel mite adingin keimah in gamlak bang hi ngei ka hi hiam? A mial mahmah gam bang hi ngei ka hi hiam? Tua ahih leh bang hangin ka mite in, ‘Ko ka suakta uh hi, nang kiangah kong pai nawn kei ding uh hi,’ ci uh ahi hiam?
+**TDB77:** No khangthakte aw, Topa’ kammal limtak ngai dih un. Israel mite adingin keimah in gamlak bang hi ngei ka hi hiam? A mial mahmah gam bang hi ngei ka hi hiam? Tua ahih leh bang hangin ka mite in, ‘Ko ka suakta-te hi, nang kiangah kong pai nawn kei ding-te hi,’ ci-te ahi hiam?
 
-**ZVS:** No Israel mite aw, { Topa' } kammal limtakin ngai dih un. Israel-te-a' dingin gamlak tawh kibang ngei ka hi hiam? A mial mahmah gam tawh kibang ngei ka hi hiam? Tua ahih leh bang hangin ka mite in, ‘Ko ka suakta uh hi; nang kiangah kong pai nawn kei ding uh hi,’ ci uh ahi hiam?
+**ZVS:** No Israel mite aw, { Topa' } kammal limtakin ngai dih un. Israel-te-a' dingin gamlak tawh kibang ngei ka hi hiam? A mial mahmah gam tawh kibang ngei ka hi hiam? Tua ahih leh bang hangin ka mite in, ‘Ko ka suakta-te hi; nang kiangah kong pai nawn kei ding-te hi,’ ci-te ahi hiam?
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** Can a maid forget her ornaments, or a bride her attire? yet my people have forgotten me days without number.
 
-**TDB77:** Nungak khat in a kizepnate a mangngilh thei hiam? A kipi mothak nu in a mothak puante a mangngilh thei hiam? Ahih hangin ka mite in sim zawh loh ni tampi a hong mangngilh uh hi.
+**TDB77:** Nungak khat in a kizepnate a mangngilh thei hiam? A kipi mothak nu in a mothak puante a mangngilh thei hiam? Ahih hangin ka mite in sim zawh loh ni tampi a hong mangngilh-te hi.
 
-**ZVS:** Nungak khat in a kizepnate mangngilh thei ahi hiam? A kipi mothak in a mothak puante mangngilh thei ahi hiam? Ahih hangin ka mite in simzawhloh ni tampi sung a hong mangngilh uh hi.
+**ZVS:** Nungak khat in a kizepnate mangngilh thei ahi hiam? A kipi mothak in a mothak puante mangngilh thei ahi hiam? Ahih hangin ka mite in simzawhloh ni tampi sung a hong mangngilh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -315,9 +315,9 @@
 ### v34
 **EN:** Also in thy skirts is found the blood of the souls of the poor innocents: I have not found it by secret search, but upon all these.
 
-**TDB77:** Mawhnei lo mizawngte’ sisan na puan tungah a baang hi; amaute in na inn hong luh ngei beek lo uh hi. Tua bang teng hi napi-in,
+**TDB77:** Mawhnei lo mizawngte’ sisan na puan tungah a baang hi; amaute in na inn hong luh ngei beek lo-te hi. Tua bang teng hi napi-in,
 
-**ZVS:** Mawhneilo mizawngte' sisan na puan tungah baang hi. Amaute in na inn hong luhngei beeklo uh hi. “Tua bang teng hinapi-in
+**ZVS:** Mawhneilo mizawngte' sisan na puan tungah baang hi. Amaute in na inn hong luhngei beeklo-te hi. “Tua bang teng hinapi-in
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -333,9 +333,9 @@
 ### v36
 **EN:** Why gaddest thou about so much to change thy way? thou also shalt be ashamed of Egypt, as thou wast ashamed of Assyria.
 
-**TDB77:** Bang hangin na lungsim khel ziauziau na hi hiam? Assiriate in nang hong maizumsak ngei bangin Iziptte in zong hong maizum sak ding uh hi.
+**TDB77:** Bang hangin na lungsim khel ziauziau na hi hiam? Assiriate in nang hong maizumsak ngei bangin Iziptte in zong hong maizum sak ding-te hi.
 
-**ZVS:** Bang hangin na lungsim khel ziauziau na hi hiam? Assiria in nang hong maizumsak ngei bangin Egypt-te in zong nang hong maizumsak ding uh hi.
+**ZVS:** Bang hangin na lungsim khel ziauziau na hi hiam? Assiria in nang hong maizumsak ngei bangin Egypt-te in zong nang hong maizumsak ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

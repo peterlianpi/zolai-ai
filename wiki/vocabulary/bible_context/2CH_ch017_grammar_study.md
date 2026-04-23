@@ -55,9 +55,9 @@
 ### v5
 **EN:** Therefore the
 
-**TDB77:** Tua ahih ciangin Topa in ama khut sungah kumpi gam kipsak hi; tua ciangin Judah mi khempeuh in Jehoshafat tungah siah puak uh hi; amah in a lian hauhna leh minthan’na nei hi.
+**TDB77:** Tua ahih ciangin Topa in ama khut sungah kumpi gam kipsak hi; tua ciangin Judah mi khempeuh in Jehoshafat tungah siah puak-te hi; amah in a lian hauhna leh minthan’na nei hi.
 
-**ZVS:** Tua ahih ciangin { Topa } in ama khutsungah kumpi gam kipsak a, Judah mi khempeuh in Jehoshafat tungah siah puak uh hi. Amah hau mahmah a, minthang mahmah hi.
+**ZVS:** Tua ahih ciangin { Topa } in ama khutsungah kumpi gam kipsak a, Judah mi khempeuh in Jehoshafat tungah siah puak-te hi. Amah hau mahmah a, minthang mahmah hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -91,27 +91,27 @@
 ### v9
 **EN:** And they taught in Judah, and had the book of the law of the
 
-**TDB77:** Amaute in Topa’ thukham laibu kengin Judah sungah hilh uh hi; Judah khuapi khempeuh ah amaute pai kawikawi-in mite lakah hilh uh hi.
+**TDB77:** Amaute in Topa’ thukham laibu kengin Judah sungah hilh-te hi; Judah khuapi khempeuh ah amaute pai kawikawi-in mite lakah hilh-te hi.
 
-**ZVS:** Amaute in { Topa' } thukham laibu kengin Judah gamsungah hilh uh hi. Judah khuapi khempeuhah amaute pai kawikawi-in mite lakah a hilh uh hi.
+**ZVS:** Amaute in { Topa' } thukham laibu kengin Judah gamsungah hilh-te hi. Judah khuapi khempeuhah amaute pai kawikawi-in mite lakah a hilh-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v10
 **EN:** And the fear of the
 
-**TDB77:** Tua ciangin Judah gam kimkotah a om khuapi gam khempeuh tungah Topa kihtakna om a, amaute in Jehoshafat do ngam nawn lo uh hi.
+**TDB77:** Tua ciangin Judah gam kimkotah a om khuapi gam khempeuh tungah Topa kihtakna om a, amaute in Jehoshafat do ngam nawn lo-te hi.
 
-**ZVS:** Tua ciangin Judah gam kimkotah a om kumpi gam khempeuh tungah { Topa } kihtakna om a, amaute in Jehoshafat do ngam nawnlo uh hi.
+**ZVS:** Tua ciangin Judah gam kimkotah a om kumpi gam khempeuh tungah { Topa } kihtakna om a, amaute in Jehoshafat do ngam nawnlo-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Also some of the Philistines brought Jehoshaphat presents, and tribute silver; and the Arabians brought him flocks, seven thousand and seven hundred rams, and seven thousand and seven hundred he goats.
 
-**TDB77:** Filistiate pawlkhat in Jehoshafat tungah letsongte leh siah dingin ngun puak uh hi; tua ciangin Arabte in zong ama tungah ganhon tuutal tul sagih leh za sagih, leh keeltal tul sagih leh za sagih puak uh hi.
+**TDB77:** Filistiate pawlkhat in Jehoshafat tungah letsongte leh siah dingin ngun puak-te hi; tua ciangin Arabte in zong ama tungah ganhon tuutal tul sagih leh za sagih, leh keeltal tul sagih leh za sagih puak-te hi.
 
-**ZVS:** Filistia mite pawlkhat in Jehoshafat tungah letsongte, leh siah dingin ngun a puak uh hi. Tua ciangin Arab-te in zong ama tungah tuutal tul sagih leh za sagih, leh keeltal tul sagih leh za sagih mah a puak uh hi.
+**ZVS:** Filistia mite pawlkhat in Jehoshafat tungah letsongte, leh siah dingin ngun a puak-te hi. Tua ciangin Arab-te in zong ama tungah tuutal tul sagih leh za sagih, leh keeltal tul sagih leh za sagih mah a puak-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -134,9 +134,9 @@
 ### v14
 **EN:** And these are the numbers of them according to the house of their fathers: Of Judah, the captains of thousands; Adnah the chief, and with him mighty men of valour three hundred thousand.
 
-**TDB77:** A beh ciat uh tawh kizui-in amaute a phazah in: Judah sung pan a tul-a a ukte: Adnah in a ukpa hi a, a thahat galhang mi tul zathum tawh ahi hi.
+**TDB77:** A beh ciat-te tawh kizui-in amaute a phazah in: Judah sung pan a tul-a a ukte: Adnah in a ukpa hi a, a thahat galhang mi tul zathum tawh ahi hi.
 
-**ZVS:** A beh ciat uh tawh kizui-in amaute a phazah hih bang ahi hi. Judah sung pan a tulin a ukte: Adnah a ukpa hi a, a thahat a galhang mi tul za thum tawh ahi hi.
+**ZVS:** A beh ciat-te tawh kizui-in amaute a phazah hih bang ahi hi. Judah sung pan a tulin a ukte: Adnah a ukpa hi a, a thahat a galhang mi tul za thum tawh ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 

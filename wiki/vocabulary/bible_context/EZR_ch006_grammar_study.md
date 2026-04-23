@@ -72,45 +72,45 @@
 ### v6
 **EN:** Now therefore, Tatnai, governor beyond the river, Shethar–bozenai, and your companions the Apharsachites, which are beyond the river, be ye far from thence:
 
-**TDB77:** Tua ciangin kumpi Darias in hih bangin thupia hi: “Tu-in, Eufrates Gungal gam a uk Tattenai, Shetharbozenai, leh Eufrates Gungal gam sung a vaan na lawmte, tua mun panin na kihemkhia ding uh hi;
+**TDB77:** Tua ciangin kumpi Darias in hih bangin thupia hi: “Tu-in, Eufrates Gungal gam a uk Tattenai, Shetharbozenai, leh Eufrates Gungal gam sung a vaan na lawmte, tua mun panin na kihemkhia ding-te hi;
 
-**ZVS:** Tua ciangin Kumpi Darias in hih bangin thu a pia hi: “Tu-in Eufratis Gungal gam a uk Tattenai, Shetharbozenai, leh Eufratis Gungal gamsung a vaan na lawmte, tua mun panin na kihemkhia ding uh hi.
+**ZVS:** Tua ciangin Kumpi Darias in hih bangin thu a pia hi: “Tu-in Eufratis Gungal gam a uk Tattenai, Shetharbozenai, leh Eufratis Gungal gamsung a vaan na lawmte, tua mun panin na kihemkhia ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Let the work of this house of God alone; let the governor of the Jews and the elders of the Jews build this house of God in his place.
 
-**TDB77:** Judah mi a ukpa leh a upate in hih Pasian’ inn a lamkik theih nadingun na tua ci omsak ding uh hi; ama mun ngei mah ah a inn lamsak kik un.
+**TDB77:** Judah mi a ukpa leh a upate in hih Pasian’ inn a lamkik theih nadingun na tua ci omsak ding-te hi; ama mun ngei mah ah a inn lamsak kik un.
 
-**ZVS:** Judah mi a ukpa leh a upate in hih Pasian' biakinn a lamkik theihna dingun na tuaci omsak ding uh hi. Ama mun ngei mahah a biakinn lamsak kik un.
+**ZVS:** Judah mi a ukpa leh a upate in hih Pasian' biakinn a lamkik theihna dingun na tuaci omsak ding-te hi. Ama mun ngei mahah a biakinn lamsak kik un.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Moreover I make a decree what ye shall do to the elders of these Jews for the building of this house of God: that of the king's goods, even of the tribute beyond the river, forthwith expenses be given unto these men, that they be not hindered.
 
-**TDB77:** Hih a kigen Pasian’ inn a kilam kik theih nadingin hih Judah upate’ adingin na hih dingte uh zong thu kong pia hi. Hih nasepna a mawk khawl loh nadingin, Eufrates gungal gam sung panin a kingah siahte ahi kumpi sum sung panin beina khempeuh a cingin kipia ding hi.
+**TDB77:** Hih a kigen Pasian’ inn a kilam kik theih nadingin hih Judah upate’ adingin na hih dingte-te zong thu kong pia hi. Hih nasepna a mawk khawl loh nadingin, Eufrates gungal gam sung panin a kingah siahte ahi kumpi sum sung panin beina khempeuh a cingin kipia ding hi.
 
-**ZVS:** Hih a kigen Pasian' biakinn a kilamkik theihna dingin hih Judah upate-a' dingin na hih dingte uh zong thu kong pia hi. Hih nasepna a mawk khawllohna dingin, Eufratis Gungal gamsung panin a kingah siahte ahi kumpi sum sung panin beina khempeuh a cingin kipia ding hi.
+**ZVS:** Hih a kigen Pasian' biakinn a kilamkik theihna dingin hih Judah upate-a' dingin na hih dingte-te zong thu kong pia hi. Hih nasepna a mawk khawllohna dingin, Eufratis Gungal gamsung panin a kingah siahte ahi kumpi sum sung panin beina khempeuh a cingin kipia ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v9
 **EN:** And that which they have need of, both young bullocks, and rams, and lambs, for the burnt offerings of the God of heaven, wheat, salt, wine, and oil, according to the appointment of the priests which are at Jerusalem, let it be given them day by day without fail:
 
-**TDB77:** Vantung Pasian’ tungah meihal biakna-in piak dingin a kisam khempeuh— bawngtalnote, tuutalte, ahih kei leh tuunote na pia ding uh a, Jerusalem-a siampite’ hong ngetna bangin mangbuh, ci, leenggahzu, ahih kei leh sathaute, kitasam loin ni simin amaute tungah pia sak un.
+**TDB77:** Vantung Pasian’ tungah meihal biakna-in piak dingin a kisam khempeuh— bawngtalnote, tuutalte, ahih kei leh tuunote na pia ding-te a, Jerusalem-a siampite’ hong ngetna bangin mangbuh, ci, leenggahzu, ahih kei leh sathaute, kitasam loin ni simin amaute tungah pia sak un.
 
-**ZVS:** Vantung Pasian' tungah meihal biakna-in piak dingin a kisam khempeuh — bawngtalnote, tuutalte, ahih kei leh tuunote na pia ding uh a, Jerusalem-a siampite' hong ngetna bangin mangbuh, ci, leenggahzu, ahih kei leh sathaute, kitasam loin nisimin amaute tungah piasak un.
+**ZVS:** Vantung Pasian' tungah meihal biakna-in piak dingin a kisam khempeuh — bawngtalnote, tuutalte, ahih kei leh tuunote na pia ding-te a, Jerusalem-a siampite' hong ngetna bangin mangbuh, ci, leenggahzu, ahih kei leh sathaute, kitasam loin nisimin amaute tungah piasak un.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** That they may offer sacrifices of sweet savours unto the God of heaven, and pray for the life of the king, and of his sons.
 
-**TDB77:** Tua hi leh amaute in vantung Pasian’ tungah a namtui biaknate pia-in kumpipa leh a tapate’ nuntak nading thu hong ngetsak thei ding uh hi.
+**TDB77:** Tua hi leh amaute in vantung Pasian’ tungah a namtui biaknate pia-in kumpipa leh a tapate’ nuntak nading thu hong ngetsak thei ding-te hi.
 
-**ZVS:** Tua hi leh amaute in vantung Pasian' tungah a namtui biaknate pia-in kumpipa leh a tapate' nuntakna ding thu hong ngetsak thei ding uh hi.
+**ZVS:** Tua hi leh amaute in vantung Pasian' tungah a namtui biaknate pia-in kumpipa leh a tapate' nuntakna ding thu hong ngetsak thei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -135,18 +135,18 @@
 ### v13
 **EN:** Then Tatnai, governor on this side the river, Shethar–bozenai, and their companions, according to that which Darius the king had sent, so they did speedily.
 
-**TDB77:** Tua ciangin kumpi Darias in amaute tungah a thupiak bang tektekin Eufrates gungal gam sung a uk sawn Tattenai, Shetharbozenai, leh a lawmte in sem uh hi.
+**TDB77:** Tua ciangin kumpi Darias in amaute tungah a thupiak bang tektekin Eufrates gungal gam sung a uk sawn Tattenai, Shetharbozenai, leh a lawmte in sem-te hi.
 
-**ZVS:** Tua ciangin Kumpi Darias in amaute tungah a thupiak bang teekteekin Eufratis Gungal gamsung a uksawn Tattenai, Shetharbozenai, leh a lawmte in sem uh hi.
+**ZVS:** Tua ciangin Kumpi Darias in amaute tungah a thupiak bang teekteekin Eufratis Gungal gamsung a uksawn Tattenai, Shetharbozenai, leh a lawmte in sem-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v14
 **EN:** And the elders of the Jews builded, and they prospered through the prophesying of Haggai the prophet and Zechariah the son of Iddo. And they builded, and finished it, according to the commandment of the God of Israel, and according to the commandment of Cyrus, and Darius, and Artaxerxes king of Persia.
 
-**TDB77:** Tua hi a, kamsang Haggai leh Iddo’ suan Zekhariah’ thugenkholhna hangin Judah upate in a inn lam uh zom suakin mavang uh hi. Israel Pasian’ sawlna leh Persia kumpi Sairas leh Darias leh Artakzaksis-te’ thupiakna tawh amaute in a inn lam uh a zo uh hi;
+**TDB77:** Tua hi a, kamsang Haggai leh Iddo’ suan Zekhariah’ thugenkholhna hangin Judah upate in a inn lam-te zom suakin mavang-te hi. Israel Pasian’ sawlna leh Persia kumpi Sairas leh Darias leh Artakzaksis-te’ thupiakna tawh amaute in a inn lam-te a zo-te hi;
 
-**ZVS:** Tua hi a, kamsang Haggai leh Iddo' suan Zekhariah' thugenna hangin Judah upate in a biakinn lam uh zom suakin mavang uh hi. Israel Pasian' sawlna leh Persia kumpi Sairas leh Darias leh Artakzaksis-te' thupiakna tawh amaute in a biakinn lam uh a zo uh hi.
+**ZVS:** Tua hi a, kamsang Haggai leh Iddo' suan Zekhariah' thugenna hangin Judah upate in a biakinn lam-te zom suakin mavang-te hi. Israel Pasian' sawlna leh Persia kumpi Sairas leh Darias leh Artakzaksis-te' thupiakna tawh amaute in a biakinn lam-te a zo-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -162,63 +162,63 @@
 ### v16
 **EN:** And the children of Israel, the priests, and the Levites, and the rest of the children of the captivity, kept the dedication of this house of God with joy,
 
-**TDB77:** Tua ciangin Israel mite, siampite leh Levi mite leh sal a suaksa hong ciahkik mi khempeuh in lungdamna lianpi tawh Pasian’ inn apna bawl uh hi.
+**TDB77:** Tua ciangin Israel mite, siampite leh Levi mite leh sal a suaksa hong ciahkik mi khempeuh in lungdamna lianpi tawh Pasian’ inn apna bawl-te hi.
 
-**ZVS:** Tua ciangin Israel mite, siampite, Levi mite, leh sal a suaksa a hong ciahkik mi khempeuh in lungdamna lianpi tawh Pasian' biakinn apna a bawl uh hi.
+**ZVS:** Tua ciangin Israel mite, siampite, Levi mite, leh sal a suaksa a hong ciahkik mi khempeuh in lungdamna lianpi tawh Pasian' biakinn apna a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v17
 **EN:** And offered at the dedication of this house of God an hundred bullocks, two hundred rams, four hundred lambs; and for a sin offering for all Israel, twelve he goats, according to the number of the tribes of Israel.
 
-**TDB77:** Amaute in Pasian’ inn apna-in bawngtal zakhat, tuutal zanih, leh tuuno zali go uh a, mawhna hanga biak nadingin Israelte khempeuh adingin a minam phazah tawh kizui-in keeltal sawm-le-nih pia uh hi.
+**TDB77:** Amaute in Pasian’ inn apna-in bawngtal zakhat, tuutal zanih, leh tuuno zali go-te a, mawhna hanga biak nadingin Israelte khempeuh adingin a minam phazah tawh kizui-in keeltal sawm-le-nih pia-te hi.
 
-**ZVS:** Amaute in Pasian' biakinn apna-in bawngtal za khat, tuutal za nih, leh tuuno za li go uh a, mawhna hanga biakna dingin Israel-te khempeuh-a' dingin a minam phazah tawh kizui-in keeltal sawmlenih a pia uh hi.
+**ZVS:** Amaute in Pasian' biakinn apna-in bawngtal za khat, tuutal za nih, leh tuuno za li go-te a, mawhna hanga biakna dingin Israel-te khempeuh-a' dingin a minam phazah tawh kizui-in keeltal sawmlenih a pia-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And they set the priests in their divisions, and the Levites in their courses, for the service of God, which is at Jerusalem; as it is written in the book of Moses.
 
-**TDB77:** Tua ciangin Moses laibu sungah a kigelh bangin Jerusalem a, Pasian’ nasep nadingin siampite amau’ panmun ngei-ah pangsak uh a, Levi mite amau nasepna ngei-ah sem sak kik uh hi.
+**TDB77:** Tua ciangin Moses laibu sungah a kigelh bangin Jerusalem a, Pasian’ nasep nadingin siampite amau’ panmun ngei-ah pangsak-te a, Levi mite amau nasepna ngei-ah sem sak kik-te hi.
 
-**ZVS:** Tua ciangin Moses laibu sungah a kigelh bangin Jerusalem-a Pasian' nasepna dingin siampite amau' pan'mun ngei-ah pangsak uh a, Levi mite amau' nasepna ngei-ah a semsak kik uh hi.
+**ZVS:** Tua ciangin Moses laibu sungah a kigelh bangin Jerusalem-a Pasian' nasepna dingin siampite amau' pan'mun ngei-ah pangsak-te a, Levi mite amau' nasepna ngei-ah a semsak kik-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And the children of the captivity kept the passover upon the fourteenth day of the first month.
 
-**TDB77:** A kha masa a ni sawm-le-li ni-in sal a suaksa hong ciahkik mite in Paisan Pawi bawl uh hi.
+**TDB77:** A kha masa a ni sawm-le-li ni-in sal a suaksa hong ciahkik mite in Paisan Pawi bawl-te hi.
 
-**ZVS:** A kha masa a ni sawmleli ni-in sal a suaksa a hong ciahkik mite in Paisan Pawi a bawl uh hi.
+**ZVS:** A kha masa a ni sawmleli ni-in sal a suaksa a hong ciahkik mite in Paisan Pawi a bawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v20
 **EN:** For the priests and the Levites were purified together, all of them were pure, and killed the passover for all the children of the captivity, and for their brethren the priests, and for themselves.
 
-**TDB77:** Siampite leh Levi mite a vekpi-un kisian’suah khin uh a, a vekpi-un zehsiang khin uh hi; tua hi a, amaute in sal suaksa a hong ciahkik khempeuh ading, a siampi pihte uh leh amau mahmah adingin Paisan tuuno go uh hi.
+**TDB77:** Siampite leh Levi mite a vekpi-un kisian’suah khin-te a, a vekpi-un zehsiang khin-te hi; tua hi a, amaute in sal suaksa a hong ciahkik khempeuh ading, a siampi pihte-te leh amau mahmah adingin Paisan tuuno go-te hi.
 
-**ZVS:** Siampite leh Levi mite a vekpi-un kisian'suah khin uh a, a vekpi-un zehsiang khin uh hi. Tua hi a, amaute in sal suaksa a hong ciahkik khempeuh-a' ding, a siampipihte uh leh amau mahmah-a' dingin Paisan tuuno a go uh hi.
+**ZVS:** Siampite leh Levi mite a vekpi-un kisian'suah khin-te a, a vekpi-un zehsiang khin-te hi. Tua hi a, amaute in sal suaksa a hong ciahkik khempeuh-a' ding, a siampipihte-te leh amau mahmah-a' dingin Paisan tuuno a go-te hi.
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And the children of Israel, which were come again out of captivity, and all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek the
 
-**TDB77:** Salsuahna panin a hong ciahkik Israelte leh Israel Pasian, Topa bia dingin tua gam-a midang teengte leh a nitna uh pan amau leh amau a kihemkhia tawm mite khempeuh in tua Paisan Pawi an ne uh hi.
+**TDB77:** Salsuahna panin a hong ciahkik Israelte leh Israel Pasian, Topa bia dingin tua gam-a midang teengte leh a nitna-te pan amau leh amau a kihemkhia tawm mite khempeuh in tua Paisan Pawi an ne-te hi.
 
-**ZVS:** Salsuahna panin a hong ciahkik Israel-te leh Israel Pasian, { Topa } a bia dingin tua gama midang tengte leh a nitna uh pan amau leh amau a kihemkhia tawm mite khempeuh in tua Paisan Pawi an a ne uh hi.
+**ZVS:** Salsuahna panin a hong ciahkik Israel-te leh Israel Pasian, { Topa } a bia dingin tua gama midang tengte leh a nitna-te pan amau leh amau a kihemkhia tawm mite khempeuh in tua Paisan Pawi an a ne-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And kept the feast of unleavened bread seven days with joy: for the
 
-**TDB77:** Tua hi a, amaute in lungdamna tawh ni sagih sung silngo sawhloh anlum pawi bawl uh hi; bang hang hiam cih leh amau’ lungdam nading a om theih nadingin Topa in Assiria kumpipa’ lungsim amau tungah a nuam dingin bawlsak a, tua ahih manin Israel Pasian ahi Pasian’ inn a sepna uhah kumpipa in amaute huh hi.
+**TDB77:** Tua hi a, amaute in lungdamna tawh ni sagih sung silngo sawhloh anlum pawi bawl-te hi; bang hang hiam cih leh amau’ lungdam nading a om theih nadingin Topa in Assiria kumpipa’ lungsim amau tungah a nuam dingin bawlsak a, tua ahih manin Israel Pasian ahi Pasian’ inn a sepna uhah kumpipa in amaute huh hi.
 
-**ZVS:** Tua hi a, amaute in lungdamna tawh ni sagih sung silngo sawhloh anlum pawi a bawl uh hi. Bang hang hiam cih leh amau' lungdamna ding a om theihna dingin { Topa } in Assiria kumpipa' lungsim amau' tungah a nuam dingin a bawlsak hi. Tua ahih manin Israel Pasian ahi Pasian' biakinn a sepna uhah kumpipa in amaute a huh hi.
+**ZVS:** Tua hi a, amaute in lungdamna tawh ni sagih sung silngo sawhloh anlum pawi a bawl-te hi. Bang hang hiam cih leh amau' lungdamna ding a om theihna dingin { Topa } in Assiria kumpipa' lungsim amau' tungah a nuam dingin a bawlsak hi. Tua ahih manin Israel Pasian ahi Pasian' biakinn a sepna uhah kumpipa in amaute a huh hi.
 
 **Grammar:** purpose: in order to | causal: because | plural: uh marker
 

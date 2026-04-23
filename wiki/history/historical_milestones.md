@@ -23,7 +23,7 @@
 
 ## 2018: The Zokam Standard Version (ZVS)
 *   **Zokam Standard Version (ZVS):** Led by LT Tuang and other linguists, this project codified the rules of "Standard Zolai" to reconcile regional differences and archaic forms. It is now the primary reference for this AI Second Brain.
-*   **Key ZVS rules:** Use `pasian/gam/tapa/topa/kumpipa/tua`; never `pasian/ram/fapa/bawipa/siangpahrang/cu/cun`. Word order: SOV. Conditional negation: `kei` not `lo`.
+*   **Key ZVS rules:** Use `pasian/gam/tapa/topa/kumpipa/tua`; never `pasian/gam/tapa/topa/kumpipa/tua/tua`. Word order: SOV. Conditional negation: `kei` not `lo`.
 
 ## 2026: The AI Second Brain Project
 *   **Zolai AI Second Brain** by Peter Pau Sian Lian ([@peterpausianlian](https://huggingface.co/peterpausianlian)): The current endeavor to codify these historical and linguistic layers into a production-ready translation and grammar engine.

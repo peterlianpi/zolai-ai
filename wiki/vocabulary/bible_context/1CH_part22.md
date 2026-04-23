@@ -4,15 +4,15 @@
 
 ### sanggamnu = sister
 **Context:** Used to denote a female sibling in a lineage list.
-**Example:** leh a sanggamnu uh Shua-te’ pa ahi hi.
+**Example:** leh a sanggamnu-te Shua-te’ pa ahi hi.
 
 ### tapate = sons (plural)
 **Context:** Plural form of 'tapa' (son), used to list male offspring.
-**Example:** Jaflet' tapate: Pasak, Bimhal, leh Ashvath ahi uh hi.
+**Example:** Jaflet' tapate: Pasak, Bimhal, leh Ashvath ahi-te hi.
 
 ### sanggampa = brother
 **Context:** Used to refer to a male sibling in relation to another person (Hotham's brother).
-**Example:** A sanggampa Shomer' tapate in: Rohgah, Jehubbath, leh Aram ahi uh hi.
+**Example:** A sanggampa Shomer' tapate in: Rohgah, Jehubbath, leh Aram ahi-te hi.
 
 ### suante = descendants/offspring (plural)
 **Context:** Plural form, often used for descendants beyond immediate sons, though here used for sons.
@@ -28,11 +28,11 @@
 
 ### thahat galhangte = mighty men of valour/strength
 **Context:** Describing the quality of the men listed.
-**Example:** a thahat galhangte, uliante a ukte ahi uh hi.
+**Example:** a thahat galhangte, uliante a ukte ahi-te hi.
 
 ### ulian = prince/chief/great one
 **Context:** Used in the phrase 'ulian a ukte' (rulers of the great ones/princes).
-**Example:** ulian a ukte ahi uh hi.
+**Example:** ulian a ukte ahi-te hi.
 
 ### nasem dingin = for service/for work
 **Context:** Indicates the purpose for which the men were counted (for war service).
@@ -68,7 +68,7 @@
 
 ### teeng = inhabitant/dweller
 **Context:** Used in connection with Geba to mean the inhabitants of that place.
-**Example:** amaute in Geba a, teeng leh lutangte hi uh a,
+**Example:** amaute in Geba a, teeng leh lutangte hi-te a,
 
 ### galmatin kipua = removed/carried away as captives/transferred
 **Context:** Describes the action taken regarding the people of Geba being moved to Manahath.
@@ -88,23 +88,23 @@
 - **a tacil, a nihna, a thumna, a lina, leh a ngana** = his firstborn, the second, the third, the fourth, and the fifth
   - Usage: A standard pattern for listing sons sequentially by birth order.
 
-- **a, teeng leh lutangte hi uh a** = who were inhabitants and heads
+- **a, teeng leh lutangte hi-te a** = who were inhabitants and heads
   - Usage: A descriptive clause identifying the status of Ehud's sons in relation to Geba.
 
 ## Grammar Patterns
 
-- **X' tapate in: Y, Z, leh W ahi uh hi.**
-  - Possessive marker ('-te') followed by 'tapate' (sons) indicates the lineage, followed by a list of names ending with the copula structure 'ahi uh hi' (they are).
-  - Example: Jaflet' tapate: Pasak, Bimhal, leh Ashvath ahi uh hi.
+- **X' tapate in: Y, Z, leh W ahi-te hi.**
+  - Possessive marker ('-te') followed by 'tapate' (sons) indicates the lineage, followed by a list of names ending with the copula structure 'ahi-te hi' (they are).
+  - Example: Jaflet' tapate: Pasak, Bimhal, leh Ashvath ahi-te hi.
 
 - **a [ordinal number] [Name]**
   - Used to list sons sequentially using ordinal numbers (tacil=1st, nihna=2nd, thumna=3rd, etc.).
   - Example: a tacil Bela, a nihna Ashbel, a thumna Aharah,
 
-- **Hihte khempeuh in X' Y, Z, ... ahi uh hi.**
+- **Hihte khempeuh in X' Y, Z, ... ahi-te hi.**
   - Structure used to summarize the group being discussed ('All these were X's...'). 'Khempeuh' means 'all of them'.
-  - Example: Hihte khempeuh in Asher’ suan, beh lutangte a kipakta, ... ahi uh hi.
+  - Example: Hihte khempeuh in Asher’ suan, beh lutangte a kipakta, ... ahi-te hi.
 
-- **X' suante in: Y, Z, ... ahi uh hi.**
+- **X' suante in: Y, Z, ... ahi-te hi.**
   - Similar to the 'tapate' structure, but using 'suante' (offspring/descendants) to list the progeny of a specific ancestor.
   - Example: Zofah’ suante in: Suah, Harnerfer, Shual, Beri, Imrah,

@@ -87,25 +87,25 @@
 ### v8
 **EN:** In the land shall be his possession in Israel: and my princes shall no more oppress my people; and the rest of the land shall they give to the house of Israel according to their tribes.
 
-**TDB77:** Hih mun teng pen Israel gamsung panin a uk uliante’ neih hi ding hi. Tua ahih manin amaute in Israel mite bawlsia nawn lo ding uh a, mun a om lai teng khempeuh, a minam zui-in Israel minamte tangsak ding uh hi.
+**TDB77:** Hih mun teng pen Israel gamsung panin a uk uliante’ neih hi ding hi. Tua ahih manin amaute in Israel mite bawlsia nawn lo ding-te a, mun a om lai teng khempeuh, a minam zui-in Israel minamte tangsak ding-te hi.
 
-**ZVS:** Hih munteng pen Israel gamsung panin Israel uliante' neih hi ding hi. Tua ahih manin amaute in Israel mite bawlsia nawnlo ding uh a, mun a omlaiteng khempeuh, a minam zui-in Israel minamte a tangsak ding uh hi.
+**ZVS:** Hih munteng pen Israel gamsung panin Israel uliante' neih hi ding hi. Tua ahih manin amaute in Israel mite bawlsia nawnlo ding-te a, mun a omlaiteng khempeuh, a minam zui-in Israel minamte a tangsak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | plural: uh marker
 
 ### v9
 **EN:** Thus saith the Lord
 
-**TDB77:** “Topa Pasian in hih bangin ci hi: No Israel a uk uliante aw, na mawh gamtatna uh sau vei lua zo ta hi. Na ngongtatnate uh leh mi na nenniamnate uh khawl un la, thuman thutangin na sem un. Amau leitang panun ka mite notkhia nawn kei un. Topa Pasian keimah in hih thu kong gen hi.
+**TDB77:** “Topa Pasian in hih bangin ci hi: No Israel a uk uliante aw, na mawh gamtatna-te sau vei lua zo ta hi. Na ngongtatnate-te leh mi na nenniamnate-te khawl un la, thuman thutangin na sem un. Amau leitang panun ka mite notkhia nawn kei un. Topa Pasian keimah in hih thu kong gen hi.
 
-**ZVS:** “Topa { Pasian } in hih bangin ci hi: No Israel a uk uliante aw, na mawh gamtatna uh sauveizo lua ta hi. Na ngongtatnate uh leh mi na nen'niamnate uh khawl un la, thuman thutangin na sem un. Amau' leitang panun ka mite notkhia nawn kei un. Topa { Pasian } keimah in hih thu kong gen hi.
+**ZVS:** “Topa { Pasian } in hih bangin ci hi: No Israel a uk uliante aw, na mawh gamtatna-te sauveizo lua ta hi. Na ngongtatnate-te leh mi na nen'niamnate-te khawl un la, thuman thutangin na sem un. Amau' leitang panun ka mite notkhia nawn kei un. Topa { Pasian } keimah in hih thu kong gen hi.
 
 **Grammar:** quotative: said/saying
 
 ### v10
 **EN:** Ye shall have just balances, and a just ephah, and a just bath.
 
-**TDB77:** “Mi khempeuh in tawisuang man leh tehna man zang ding uh hi.
+**TDB77:** “Mi khempeuh in tawisuang man leh tehna man zang ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -126,34 +126,34 @@
 ### v13
 **EN:** This is the oblation that ye shall offer; the sixth part of an ephah of an homer of wheat, and ye shall give the sixth part of an ephah of an homer of barley:
 
-**TDB77:** “Biakna na piak nading zia uh pen, mangbuh na neih zah uh pan seh sawmguk suah sehkhat, mangbuhham zong seh sawmguk suah sehkhat mah,
+**TDB77:** “Biakna na piak nading zia-te pen, mangbuh na neih zah-te pan seh sawmguk suah sehkhat, mangbuhham zong seh sawmguk suah sehkhat mah,
 
-**ZVS:** “Biakna na piakna ding zia uh pen, mangbuh na neihzah uh pan sawmguk-ah khat, mangbuhham zong sawmguk-ah khat mah,
+**ZVS:** “Biakna na piakna ding zia-te pen, mangbuh na neihzah-te pan sawmguk-ah khat, mangbuhham zong sawmguk-ah khat mah,
 
 ### v14
 **EN:** Concerning the ordinance of oil, the bath of oil, ye shall offer the tenth part of a bath out of the cor, which is an homer of ten baths; for ten baths are an homer:
 
-**TDB77:** sathau na neih sung uh pan seh za-ah khat (bung tawh teh-in bung sawm ciangin beem khat-a seh),
+**TDB77:** sathau na neih sung-te pan seh za-ah khat (bung tawh teh-in bung sawm ciangin beem khat-a seh),
 
-**ZVS:** sathau na neihzah uh sung pan seh za-ah khat (bung tawh tehin bung sawm ciangin beem khata seh),
+**ZVS:** sathau na neihzah-te sung pan seh za-ah khat (bung tawh tehin bung sawm ciangin beem khata seh),
 
 **Grammar:** serial verb: -in (and then)
 
 ### v15
 **EN:** And one lamb out of the flock, out of two hundred, out of the fat pastures of Israel; for a meat offering, and for a burnt offering, and for peace offerings, to make reconciliation for them, saith the Lord
 
-**TDB77:** tuu na neih sung uh pan za nih ciangin khat hi ding hi. Hihte pen an tawh biakna, meihal biakna, thunuam-a biak piaknate hi a, na mawhnate uh a mai theih nading ahi hi. Topa Pasian in hih thu kong pia hi.
+**TDB77:** tuu na neih sung-te pan za nih ciangin khat hi ding hi. Hihte pen an tawh biakna, meihal biakna, thunuam-a biak piaknate hi a, na mawhnate-te a mai theih nading ahi hi. Topa Pasian in hih thu kong pia hi.
 
-**ZVS:** tuu na neih sung uh panin za nih ciangin khat hi ding hi. Hihte pen an tawh biakna, meihal biakna, thunuama biakpiaknate hi a, na mawhnate uh a maitheihna ding ahi hi. Topa { Pasian } in hih thu kong pia hi.
+**ZVS:** tuu na neih sung-te panin za nih ciangin khat hi ding hi. Hihte pen an tawh biakna, meihal biakna, thunuama biakpiaknate hi a, na mawhnate-te a maitheihna ding ahi hi. Topa { Pasian } in hih thu kong pia hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v16
 **EN:** All the people of the land shall give this oblation for the prince in Israel.
 
-**TDB77:** Israel mi khempeuh in hihte pen biakna-a piak dingin, amau a uk ulianpa tungah puak ding uh hi.
+**TDB77:** Israel mi khempeuh in hihte pen biakna-a piak dingin, amau a uk ulianpa tungah puak ding-te hi.
 
-**ZVS:** Israel mi khempeuh in hihte pen biakna-in a piak dingin, amau a uk ulianpa tungah puak ding uh hi.
+**ZVS:** Israel mi khempeuh in hihte pen biakna-in a piak dingin, amau a uk ulianpa tungah puak ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
@@ -169,9 +169,9 @@
 ### v18
 **EN:** Thus saith the Lord
 
-**TDB77:** “Topa Pasian in hih bangin ci hi. Kha khat a, a ni masa ni-in pauban’na a om lo bawngtal khat biakna-in pia-in biakinn a siangsak ding na hi uh hi.
+**TDB77:** “Topa Pasian in hih bangin ci hi. Kha khat a, a ni masa ni-in pauban’na a om lo bawngtal khat biakna-in pia-in biakinn a siangsak ding na hi-te hi.
 
-**ZVS:** “Topa { Pasian } in hih bangin ci hi: Kha khatna a ni masa ni-in paubaan'na a omlo bawngtal khat biakna-in pia-in biakinn a siangsak ding na hi uh hi.
+**ZVS:** “Topa { Pasian } in hih bangin ci hi: Kha khatna a ni masa ni-in paubaan'na a omlo bawngtal khat biakna-in pia-in biakinn a siangsak ding na hi-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -187,18 +187,18 @@
 ### v20
 **EN:** And so thou shalt do the seventh day of the month for every one that erreth, and for him that is simple: so shall ye reconcile the house.
 
-**TDB77:** Tua mah bangin tua kha a ni sagih ni-in zong, tup lohpi leh theih lohna hangin a khial kha mite’ adingin sian’ suahna a bawl ding na hi uh hi. Tu-a bang danin biakinn na siangthosak ding uh hi.
+**TDB77:** Tua mah bangin tua kha a ni sagih ni-in zong, tup lohpi leh theih lohna hangin a khial kha mite’ adingin sian’ suahna a bawl ding na hi-te hi. Tu-a bang danin biakinn na siangthosak ding-te hi.
 
-**ZVS:** Tua bangmahin tua kha a ni sagih ni-in zong, tuplohpi leh theihlohna hangin a khialkha mite-a' dingin sian'suahna a bawl ding na hi uh hi. Tu-a bang danin biakinn a siangthosak ding na hi uh hi.
+**ZVS:** Tua bangmahin tua kha a ni sagih ni-in zong, tuplohpi leh theihlohna hangin a khialkha mite-a' dingin sian'suahna a bawl ding na hi-te hi. Tu-a bang danin biakinn a siangthosak ding na hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
 ### v21
 **EN:** In the first month, in the fourteenth day of the month, ye shall have the passover, a feast of seven days; unleavened bread shall be eaten.
 
-**TDB77:** A kha masa a ni sawm-le-li ni-in Paisan Pawi bawl na kipan ding uh a, mi khempeuh in ni sagih sung silngo sawhloh anlum na ne ding uh hi.
+**TDB77:** A kha masa a ni sawm-le-li ni-in Paisan Pawi bawl na kipan ding-te a, mi khempeuh in ni sagih sung silngo sawhloh anlum na ne ding-te hi.
 
-**ZVS:** “A kha masa a ni sawmleli ni-in Paisan Pawi na kipan ding uh a, mi khempeuh in ni sagih sung silngo sawhloh anlum na ne ding uh hi.
+**ZVS:** “A kha masa a ni sawmleli ni-in Paisan Pawi na kipan ding-te a, mi khempeuh in ni sagih sung silngo sawhloh anlum na ne ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -221,7 +221,7 @@
 **Grammar:** serial verb: -in (and then) | negation: lo
 
 ### v24
-**EN:** And he shall prepare a meat offering of an ephah for a bullock, and an ephah for a ram, and an hin of oil for an ephah.
+**EN:** And he shall prepare a meat offering of an ephah for a bullock, and an ephah for a gam, and an hin of oil for an ephah.
 
 **TDB77:** Bawngtal leh tuutal a kipia zah tawh kizui-in an tawh biak nadingin an bung khat pai leh sathau bing khat pai tawh piakhawm ding hi.
 

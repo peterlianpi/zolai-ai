@@ -74,37 +74,37 @@
 ### v7
 **EN:** Wherefore (as the Holy Ghost saith, To day if ye will hear his voice,
 
-**TDB77:** Tua ahih ciangin Lai Siangtho sungah, “Tu ni-in Pasian' aw na zak uh leh
+**TDB77:** Tua ahih ciangin Lai Siangtho sungah, “Tu ni-in Pasian' aw na zak-te leh
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then)
 
 ### v8
 **EN:** Harden not your hearts, as in the provocation, in the day of temptation in the wilderness:
 
-**TDB77:** gamlakah na om lai-un amah ze-etin, Pasian na lehdo lai hun uh bangin na lungsim uh khauhsak nawn kei un.
+**TDB77:** gamlakah na om lai-un amah ze-etin, Pasian na lehdo lai hun-te bangin na lungsim-te khauhsak nawn kei un.
 
 ### v9
 **EN:** When your fathers tempted me, proved me, and saw my works forty years.
 
-**TDB77:** Na pu na pate un kum sawmli sung ka nasepnate mu napi-in kei hong ze-et veve uh hi.
+**TDB77:** Na pu na pate un kum sawmli sung ka nasepnate mu napi-in kei hong ze-et veve-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v10
 **EN:** Wherefore I was grieved with that generation, and said, They do alway err in their heart; and they have not known my ways.
 
-**TDB77:** Tua ahih ciangin hih khangmite Ka deih kei a, ‘Amaute lungsim sung uhah a khial tawntung uh hi; Keima hih ngeinate a thei kei uh hi,’ ka ci hi.
+**TDB77:** Tua ahih ciangin hih khangmite Ka deih kei a, ‘Amaute lungsim sung uhah a khial tawntung-te hi; Keima hih ngeinate a thei kei-te hi,’ ka ci hi.
 
-**ZVS:** Tua ahih manin amaute tungah ka heh a, ‘Amaute citaklo niloh uh a, ka thukhamte zui nuamlo uh hi,’ ka ci hi.
+**ZVS:** Tua ahih manin amaute tungah ka heh a, ‘Amaute citaklo niloh-te a, ka thukhamte zui nuamlo-te hi,’ ka ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: kei | plural: uh marker
 
 ### v11
 **EN:** So I sware in my wrath, They shall not enter into my rest.)
 
-**TDB77:** Tua ahih ciangin amaute in Keima nopsakna sungah a tum thei ngei kei ding uh hi, ci-in hehin ka kiciam hi,” ci-in a gen mah bangin,
+**TDB77:** Tua ahih ciangin amaute in Keima nopsakna sungah a tum thei ngei kei ding-te hi, ci-in hehin ka kiciam hi,” ci-in a gen mah bangin,
 
-**ZVS:** Ka heh manin ka kiciam a, ‘Ka tawlngakna munah hong pai-in kei tawh hong tawlnga khawm ngeilo ding uh hi,’ ka ci hi,” na ci hi.
+**ZVS:** Ka heh manin ka kiciam a, ‘Ka tawlngakna munah hong pai-in kei tawh hong tawlnga khawm ngeilo ding-te hi,’ ka ci hi,” na ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -122,14 +122,14 @@
 
 **TDB77:** Mawh kheemna hangin note lakah a lung khauh mi a om khak loh nadingin, “Tu ni,” a kicih lai takin nisimin khat leh khat kihansuah un.
 
-**ZVS:** Lai Siangtho in, “Tu ni,” a cih pen eite tungah zong hong cihna hi lai ahih manin mawhna' khemsa-in ta-in na lungsim uh na khauhsakkhak lohna dingun khatlekhat kihanthawnin na kihuhzaw un.
+**ZVS:** Lai Siangtho in, “Tu ni,” a cih pen eite tungah zong hong cihna hi lai ahih manin mawhna' khemsa-in ta-in na lungsim-te na khauhsakkhak lohna dingun khatlekhat kihanthawnin na kihuhzaw un.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v14
 **EN:** For we are made partakers of Christ, if we hold the beginning of our confidence stedfast unto the end;
 
-**TDB77:** Bang hang hiam na cih uh leh, eite in i kipat cil upna bangin a tawp dongin i kip leh, Khazih tawh a ngah khawmte i hi ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite in i kipat cil upna bangin a tawp dongin i kip leh, Khazih tawh a ngah khawmte i hi ding hi.
 
 **ZVS:** A kipat tungin i neih lungmuan'na kiptakin i let ciat nak leh i vekpi-in Khrih tawh pawlkhat ihi hi.
 
@@ -138,43 +138,43 @@
 ### v15
 **EN:** While it is said, To day if ye will hear his voice, harden not your hearts, as in the provocation.
 
-**TDB77:** Lai Siangtho sungah a gen mah bangin: “Tuni-in note in ama aw na zak uh leh, kilemlohna bawlin hehsakna hunah na om ngei bangun, na lungsim uh na khauhsak kei un.”
+**TDB77:** Lai Siangtho sungah a gen mah bangin: “Tuni-in note in ama aw na zak-te leh, kilemlohna bawlin hehsakna hunah na om ngei bangun, na lungsim-te na khauhsak kei un.”
 
-**ZVS:** Lai Siangtho in, “Tuni-in Pasian' aw na zak uh leh Pasian na lehdo lai uh hun bangin na lungsim uh khauhsak nawn kei un,” na ci hi.
+**ZVS:** Lai Siangtho in, “Tuni-in Pasian' aw na zak-te leh Pasian na lehdo lai-te hun bangin na lungsim-te khauhsak nawn kei un,” na ci hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v16
 **EN:** For some, when they had heard, did provoke: howbeit not all that came out of Egypt by Moses.
 
-**TDB77:** Thu za napi-un kilemlohna bawlin a hehsak mite kua ahi hiam? Moses nungzui-in Izipt gam pan a paikhia uh mi khempeuhte in tua bang hilo ahi uh hiam?
+**TDB77:** Thu za napi-un kilemlohna bawlin a hehsak mite kua ahi hiam? Moses nungzui-in Izipt gam pan a paikhia-te mi khempeuhte in tua bang hilo ahi-te hiam?
 
-**ZVS:** Pasian' aw za napi-in amah a lehdo kuate ahi hiam? Moses in Egypt gam panin a paikhiatpih mi khempeuh ahi uh hi.
+**ZVS:** Pasian' aw za napi-in amah a lehdo kuate ahi hiam? Moses in Egypt gam panin a paikhiatpih mi khempeuh ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v17
 **EN:** But with whom was he grieved forty years? was it not with them that had sinned, whose carcases fell in the wilderness?
 
-**TDB77:** Kum sawmli tawntung a deih lo mite in kuate ahi uh hiam? Mawhna khialhna bawlin gam lakah pukin a si mite hilo ahi uh hiam?
+**TDB77:** Kum sawmli tawntung a deih lo mite in kuate ahi-te hiam? Mawhna khialhna bawlin gam lakah pukin a si mite hilo ahi-te hiam?
 
 **ZVS:** Kum sawmli sung kuate tungah Pasian heh ahi hiam? Mawhna bawlin, gamlakah a si mite tung ahi hi.
 
 ### v18
 **EN:** And to whom sware he that they should not enter into his rest, but to them that believed not?
 
-**TDB77:** “Note in keima nopsakna sungah na tum kei ding uh hi,” ci-in ciamsiatna a thuak mite, a thungai lote sim loh, kua mite ahi uh hiam?
+**TDB77:** “Note in keima nopsakna sungah na tum kei ding-te hi,” ci-in ciamsiatna a thuak mite, a thungai lote sim loh, kua mite ahi-te hiam?
 
-**ZVS:** Thupi takin Pasian kiciamin, “Ka tawlngakna munah hong pai-in, kei tawh tawlnga ngeilo ding uh hi,” a cih ciangin kuate a cih nopna ahi hiam? Amah a lehdote a cihna ahi hi.
+**ZVS:** Thupi takin Pasian kiciamin, “Ka tawlngakna munah hong pai-in, kei tawh tawlnga ngeilo ding-te hi,” a cih ciangin kuate a cih nopna ahi hiam? Amah a lehdote a cihna ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
 ### v19
 **EN:** So we see that they could not enter in because of unbelief.
 
-**TDB77:** Tua ahih ciangin amau in a up loh manunah a tum zawh loh uh i thei hi.
+**TDB77:** Tua ahih ciangin amau in a up loh manunah a tum zawh loh-te i thei hi.
 
-**ZVS:** Tua ahih manin a uplohna uh hangin tawlngakna munah a lutzawh lohna uh i thei hi.
+**ZVS:** Tua ahih manin a uplohna-te hangin tawlngakna munah a lutzawh lohna-te i thei hi.
 
 **Grammar:** sequence: then/therefore
 

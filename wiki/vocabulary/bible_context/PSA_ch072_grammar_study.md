@@ -88,23 +88,23 @@
 ### v9
 **EN:** They that dwell in the wilderness shall bow before him; and his enemies shall lick the dust.
 
-**TDB77:** Ama galte a mai-ah kunsuk uh hen la, amah langpangte in leivui liak ta uh hen!
+**TDB77:** Ama galte a mai-ah kunsuk-te hen la, amah langpangte in leivui liak ta-te hen!
 
-**ZVS:** Ama galte khempeuh ama mai-ah kun uh hen la, amah a langpangte leilak kiden'na uh hen.
+**ZVS:** Ama galte khempeuh ama mai-ah kun-te hen la, amah a langpangte leilak kiden'na-te hen.
 
 ### v10
 **EN:** The kings of Tarshish and of the isles shall bring presents: the kings of Sheba and Seba shall offer gifts.
 
-**TDB77:** Tarshis kumpite leh tuikulh neu-a kumpite in ama tungah siah pia uh hen la, Sheba leh Seba kumpite in letsong puak ta uh hen!
+**TDB77:** Tarshis kumpite leh tuikulh neu-a kumpite in ama tungah siah pia-te hen la, Sheba leh Seba kumpite in letsong puak ta-te hen!
 
-**ZVS:** Tarshish kumpite leh tuikulh neu-a kumpite in ama tungah siah pia uh hen la, Sheba leh Seba kumpite in letsong puak ta uh hen.
+**ZVS:** Tarshish kumpite leh tuikulh neu-a kumpite in ama tungah siah pia-te hen la, Sheba leh Seba kumpite in letsong puak ta-te hen.
 
 ### v11
 **EN:** Yea, all kings shall fall down before him: all nations shall serve him.
 
-**TDB77:** Kumpi khempeuh ama mai-ah boksuk uh hen la, minam khempeuh in ama na sem ta uh hen!
+**TDB77:** Kumpi khempeuh ama mai-ah boksuk-te hen la, minam khempeuh in ama na sem ta-te hen!
 
-**ZVS:** Kumpi khempeuh ama mai-ah bok uh hen la, minam khempeuh in ama na sem ta uh hen.
+**ZVS:** Kumpi khempeuh ama mai-ah bok-te hen la, minam khempeuh in ama na sem ta-te hen.
 
 ### v12
 **EN:** For he shall deliver the needy when he crieth; the poor also, and him that hath no helper.
@@ -143,18 +143,18 @@
 ### v16
 **EN:** There shall be an handful of corn in the earth upon the top of the mountains; the fruit thereof shall shake like Lebanon: and they of the city shall flourish like grass of the earth.
 
-**TDB77:** Gam sungah an tampi piang hen la, mualliante dawn-ah dim mema-in Lebanon gam sung bang hen la, gam lak-a lopate bangin khuapite sung panin mite pung ta uh hen!
+**TDB77:** Gam sungah an tampi piang hen la, mualliante dawn-ah dim mema-in Lebanon gam sung bang hen la, gam lak-a lopate bangin khuapite sung panin mite pung ta-te hen!
 
-**ZVS:** Gamsung khempeuhah an tampi tak piang hen la, mual liante dawnah dim mema-in Lebanon gam hoih sung bang ta hen la, gamlaka lopate bangin khuapite sunga om mite pung ta uh hen.
+**ZVS:** Gamsung khempeuhah an tampi tak piang hen la, mual liante dawnah dim mema-in Lebanon gam hoih sung bang ta hen la, gamlaka lopate bangin khuapite sunga om mite pung ta-te hen.
 
 **Grammar:** optative: let there be / let it be | serial verb: -in (and then)
 
 ### v17
 **EN:** His name shall endure for ever: his name shall be continued as long as the sun: and men shall be blessed in him: all nations shall call him blessed.
 
-**TDB77:** Ama min kip tawntung hen la, ni a om lai teng a minthan’na kip suak hen! Ama hangin mite in thupha ngah hen la, minam khempeuh in amah pen thupha ngahpa, ci ta uh hen!
+**TDB77:** Ama min kip tawntung hen la, ni a om lai teng a minthan’na kip suak hen! Ama hangin mite in thupha ngah hen la, minam khempeuh in amah pen thupha ngahpa, ci ta-te hen!
 
-**ZVS:** Ama min kip tawntung hen la, a minthan'na kip paisuak hen. Ama hangin mite in thupha ngah hen la, minam khempeuh in amah pen thupha ngahpa, ci ta uh hen.
+**ZVS:** Ama min kip tawntung hen la, a minthan'na kip paisuak hen. Ama hangin mite in thupha ngah hen la, minam khempeuh in amah pen thupha ngahpa, ci ta-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 

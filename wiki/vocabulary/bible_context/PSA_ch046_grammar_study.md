@@ -53,9 +53,9 @@
 ### v6
 **EN:** The heathen raged, the kingdoms were moved: he uttered his voice, the earth melted.
 
-**TDB77:** Minamte heh mahmah uh a, kumpi gam kiliing hi; ama aw ging khiasak a, leitung kicimgawp hi.
+**TDB77:** Minamte heh mahmah-te a, kumpi gam kiliing hi; ama aw ging khiasak a, leitung kicimgawp hi.
 
-**ZVS:** Minamte lungkham uh a, kumpi gamte kiling hi. Ama aw gingkhiasak a, leitung kicimgawp hi.
+**ZVS:** Minamte lungkham-te a, kumpi gamte kiling hi. Ama aw gingkhiasak a, leitung kicimgawp hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 

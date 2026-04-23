@@ -27,9 +27,9 @@
 ### v1
 **EN:** And it came to pass in the sixth year, in the sixth month, in the fifth day of the month, as I sat in mine house, and the elders of Judah sat before me, that the hand of the Lord
 
-**TDB77:** Sal-a ka om uh kum guk a phak kum, a kha gukna, a ni nga ni-in sal-a om Judah makaite tawh ka inn sungah thu genin ka tut lai takun, thakhatin Topa Pasian’ vangliatna ka sungah hong tum hi.
+**TDB77:** Sal-a ka om-te kum guk a phak kum, a kha gukna, a ni nga ni-in sal-a om Judah makaite tawh ka inn sungah thu genin ka tut lai takun, thakhatin Topa Pasian’ vangliatna ka sungah hong tum hi.
 
-**ZVS:** Salin ka om uh kum guk a phak kum, a kha gukna, a ni nga ni-in sala om Judah makaite tawh ka innsungah thu genin ka tut laitakun, thakhatin Topa { Pasian' } vangliatna ka sungah hong tum hi.
+**ZVS:** Salin ka om-te kum guk a phak kum, a kha gukna, a ni nga ni-in sala om Judah makaite tawh ka innsungah thu genin ka tut laitakun, thakhatin Topa { Pasian' } vangliatna ka sungah hong tum hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -68,9 +68,9 @@
 ### v6
 **EN:** He said furthermore unto me, Son of man, seest thou what they do? even the great abominations that the house of Israel committeth here, that I should go far off from my sanctuary? but turn thee yet again, and thou shalt see greater abominations.
 
-**TDB77:** Tua ciangin amah in, “Ezekiel aw, amaute’ gamtatnate na mu hiam? Israel mite in a bawl uh a muhdahhuai gamtatnate, ka mun siangtho panin a gamla semsem-ah kei hong nawhkhiatnate en in . Hihte sangin a mindaihuai zaw nangawn na mu lai ding hi,” hong ci hi.
+**TDB77:** Tua ciangin amah in, “Ezekiel aw, amaute’ gamtatnate na mu hiam? Israel mite in a bawl-te a muhdahhuai gamtatnate, ka mun siangtho panin a gamla semsem-ah kei hong nawhkhiatnate en in . Hihte sangin a mindaihuai zaw nangawn na mu lai ding hi,” hong ci hi.
 
-**ZVS:** Tua ciangin amah in, “Mihing ahi Ezekiel aw, amaute' gamtatnate na mu hiam? Israel mite in a bawl uh a muhdahhuai gamtatnate, ka mun siangtho panin a gamla semsemah kei hong nawhkhiatnate en in. Hihte sangin a mindaihuai zaw nangawn na mu lai ding hi,” a hong ci hi.
+**ZVS:** Tua ciangin amah in, “Mihing ahi Ezekiel aw, amaute' gamtatnate na mu hiam? Israel mite in a bawl-te a muhdahhuai gamtatnate, ka mun siangtho panin a gamla semsemah kei hong nawhkhiatnate en in. Hihte sangin a mindaihuai zaw nangawn na mu lai ding hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 
@@ -95,9 +95,9 @@
 ### v9
 **EN:** And he said unto me, Go in, and behold the wicked abominations that they do here.
 
-**TDB77:** Tua ciangin amah in, “A sungah tum in la, a muhdahhuai a gitloh gamtatnate uh va en in,” hong ci hi.
+**TDB77:** Tua ciangin amah in, “A sungah tum in la, a muhdahhuai a gitloh gamtatnate-te va en in,” hong ci hi.
 
-**ZVS:** Tua ciangin amah in, “A sungah tum in la, a muhdahhuai a gamtatnate uh va en in,” hong ci hi.
+**ZVS:** Tua ciangin amah in, “A sungah tum in la, a muhdahhuai a gamtatnate-te va en in,” hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore
 
@@ -113,36 +113,36 @@
 ### v11
 **EN:** And there stood before them seventy men of the ancients of the house of Israel, and in the midst of them stood Jaazaniah the son of Shaphan, with every man his censer in his hand; and a thick cloud of incense went up.
 
-**TDB77:** Tua lai-ah Israel minam makai sawmsagih na om a, tuate lakah Shafan’ tapa Jaazaniah zong na om hi. Amaute in paknamtui halna kuang khat ciat tawi uh a, paknamtui hal khute van lamah kahto biaibuai hi.
+**TDB77:** Tua lai-ah Israel minam makai sawmsagih na om a, tuate lakah Shafan’ tapa Jaazaniah zong na om hi. Amaute in paknamtui halna kuang khat ciat tawi-te a, paknamtui hal khute van lamah kahto biaibuai hi.
 
-**ZVS:** Tua lai-ah Israel minam makai sawmsagih na om a, tuate' lakah Shafan' tapa Jaazaniah zong na om hi. Amaute in paknamtui halna kuang khat ciat tawi uh a, paknamtui a kihalna khute van lamah kahto biaibuai hi.
+**ZVS:** Tua lai-ah Israel minam makai sawmsagih na om a, tuate' lakah Shafan' tapa Jaazaniah zong na om hi. Amaute in paknamtui halna kuang khat ciat tawi-te a, paknamtui a kihalna khute van lamah kahto biaibuai hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** Then said he unto me, Son of man, hast thou seen what the ancients of the house of Israel do in the dark, every man in the chambers of his imagery? for they say, The
 
-**TDB77:** Tua ciangin amah in, “Ezekiel aw, Israel mite in a kimu lo mun-a a gamtatnate uh tu-in na mu hiam? Amaute in milim a dimna inn sungah biakna bawl uh hi. Amaute in, ‘Topa in hong mu lo hi. Topa in hih gam nusia khin ta hi,’ ci-in paulap zong uh hi,” hong ci hi.
+**TDB77:** Tua ciangin amah in, “Ezekiel aw, Israel mite in a kimu lo mun-a a gamtatnate-te tu-in na mu hiam? Amaute in milim a dimna inn sungah biakna bawl-te hi. Amaute in, ‘Topa in hong mu lo hi. Topa in hih gam nusia khin ta hi,’ ci-in paulap zong-te hi,” hong ci hi.
 
-**ZVS:** Tua ciangin amah in, “Mihing ahi Ezekiel aw, Israel mite a kimulo munah a gamtatnate uh tu-in na mu hiam? Amaute in milim a dimna innsungah biakna a bawl uh hi. Amaute in, ‘{ Topa } in hong mulo hi. { Topa } in hih gam nusia khinta hi,’ ci-in paulap zong uh hi,” hong ci hi.
+**ZVS:** Tua ciangin amah in, “Mihing ahi Ezekiel aw, Israel mite a kimulo munah a gamtatnate-te tu-in na mu hiam? Amaute in milim a dimna innsungah biakna a bawl-te hi. Amaute in, ‘{ Topa } in hong mulo hi. { Topa } in hih gam nusia khinta hi,’ ci-in paulap zong-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | completed: already done | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** He said also unto me, Turn thee yet again, and thou shalt see greater abominations that they do.
 
-**TDB77:** Tua ciangin, “Hihte sangin a muhdahhuai zaw a gamtatna uh zong na mu lai ding hi,” hong ci thuah lai hi.
+**TDB77:** Tua ciangin, “Hihte sangin a muhdahhuai zaw a gamtatna-te zong na mu lai ding hi,” hong ci thuah lai hi.
 
-**ZVS:** Tua ciangin, “Hihte sangin a muhdahhuai zaw a gamtatna uh zong na mu lai ding hi,” hong cithuah lai hi.
+**ZVS:** Tua ciangin, “Hihte sangin a muhdahhuai zaw a gamtatna-te zong na mu lai ding hi,” hong cithuah lai hi.
 
 **Grammar:** sequence: then/therefore | future: will
 
 ### v14
 **EN:** Then he brought me to the door of the gate of the
 
-**TDB77:** Tua ciangin leilu lam-a om biakinn kongpi-ah hong paipih a, Tammuz a cih uh pasian a sihna hangin dahin a kapin a om numeite hong lak hi.
+**TDB77:** Tua ciangin leilu lam-a om biakinn kongpi-ah hong paipih a, Tammuz a cih-te pasian a sihna hangin dahin a kapin a om numeite hong lak hi.
 
-**ZVS:** Tua ciangin leilu lama om biakinn kongpi-ah hong paipih a, Tammuz a cih uh pasian a sihna hangin dahin a kapin a om numeite a hong lak hi.
+**ZVS:** Tua ciangin leilu lama om biakinn kongpi-ah hong paipih a, Tammuz a cih-te pasian a sihna hangin dahin a kapin a om numeite a hong lak hi.
 
 **Grammar:** sequence: then/therefore
 
@@ -158,27 +158,27 @@
 ### v16
 **EN:** And he brought me into the inner court of the
 
-**TDB77:** Tua ciangin biakinntual sungnung ah hong paipih hi. Tua lai-ah biakinn kongkhak gei, biaknatau leh innlim kikal san-ah mihing sawmnih leh nga khawng na om a, biaknatau nung ngatin nisuahna lam nga-in ni suak tuung na bia uh hi.
+**TDB77:** Tua ciangin biakinntual sungnung ah hong paipih hi. Tua lai-ah biakinn kongkhak gei, biaknatau leh innlim kikal san-ah mihing sawmnih leh nga khawng na om a, biaknatau nung ngatin nisuahna lam nga-in ni suak tuung na bia-te hi.
 
-**ZVS:** Tua ciangin biakinn tual sungnungah hong paipih hi. Tua lai-ah biakinn kongkhak gei, biakna taute leh innlim kikal sanah mihing sawmnih leh nga khawng na om a, biakna tau nungngatin nisuahna lam nga-in nisuak tung na bia uh hi.
+**ZVS:** Tua ciangin biakinn tual sungnungah hong paipih hi. Tua lai-ah biakinn kongkhak gei, biakna taute leh innlim kikal sanah mihing sawmnih leh nga khawng na om a, biakna tau nungngatin nisuahna lam nga-in nisuak tung na bia-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Then he said unto me, Hast thou seen this, O son of man? Is it a light thing to the house of Judah that they commit the abominations which they commit here? for they have filled the land with violence, and have returned to provoke me to anger: and, lo, they put the branch to their nose.
 
-**TDB77:** Tua ciangin amah in, “Ezekiel aw, huate na mu hiam? Hih Judah mite in na muhsa a muhdahhuai a gamtatte uh tawh lungkim nai lo uh a, gam sung khempeuh ah ngongtatna dimsak uh hi. Tua banah ka heh semsem nadingin hih bangin gamta uh hi. A siathei tawpin hih bangin kei hong simmawh bawlna mu in!
+**TDB77:** Tua ciangin amah in, “Ezekiel aw, huate na mu hiam? Hih Judah mite in na muhsa a muhdahhuai a gamtatte-te tawh lungkim nai lo-te a, gam sung khempeuh ah ngongtatna dimsak-te hi. Tua banah ka heh semsem nadingin hih bangin gamta-te hi. A siathei tawpin hih bangin kei hong simmawh bawlna mu in!
 
-**ZVS:** Tua ciangin amah in, “Mihing ahi Ezekiel aw, huate na mu hiam? Hih Judah gammite in na muhsa a muhdahhuai a gamtatnate uh tawh lungkim nailo lai uh a, gamsung khempeuhah ngongtatna dimsak uh hi. Tua banah ka heh semsemna dingin hih bangin gamta uh hi. A siathei tawpin hih bangin kei hong simmawh bawlna hong thei in.
+**ZVS:** Tua ciangin amah in, “Mihing ahi Ezekiel aw, huate na mu hiam? Hih Judah gammite in na muhsa a muhdahhuai a gamtatnate-te tawh lungkim nailo lai-te a, gamsung khempeuhah ngongtatna dimsak-te hi. Tua banah ka heh semsemna dingin hih bangin gamta-te hi. A siathei tawpin hih bangin kei hong simmawh bawlna hong thei in.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v18
 **EN:** Therefore will I also deal in fury: mine eye shall not spare, neither will I have pity: and though they cry in mine ears with a loud voice, yet will I not hear them.
 
-**TDB77:** Tua ahih manin amaute in ka heh mahmahna thuak ding uh a, amaute ka zah kei ding a, zong ka khasiat kei ding hi. Amaute in a tha neih tawpun kei tungah thu hong nget uh hangin amaute’ thungetna ka ngai kei ding hi,” hong ci hi.
+**TDB77:** Tua ahih manin amaute in ka heh mahmahna thuak ding-te a, amaute ka zah kei ding a, zong ka khasiat kei ding hi. Amaute in a tha neih tawpun kei tungah thu hong nget-te hangin amaute’ thungetna ka ngai kei ding hi,” hong ci hi.
 
-**ZVS:** Tua ahih manin amaute in ka heh mahmahna thuak ding uh a, amaute zahloin, zong ka khasiat kei ding hi. Amaute in a thaneih tawpun kei kiangah thu hong nget uh hangin amaute' thungetna ka ngai kei ding hi,” a hong ci hi.
+**ZVS:** Tua ahih manin amaute in ka heh mahmahna thuak ding-te a, amaute zahloin, zong ka khasiat kei ding hi. Amaute in a thaneih tawpun kei kiangah thu hong nget-te hangin amaute' thungetna ka ngai kei ding hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | causal: because | plural: uh marker
 

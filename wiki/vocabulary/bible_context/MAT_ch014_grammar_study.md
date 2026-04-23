@@ -57,9 +57,9 @@
 ### v5
 **EN:** And when he would have put him to death, he feared the multitude, because they counted him as a prophet.
 
-**TDB77:** Herod in Johan a thah nop hangin mihonpite in Johan Pasian’ kamsangpa hi sa uh ahih ciangin a lau hi.
+**TDB77:** Herod in Johan a thah nop hangin mihonpite in Johan Pasian’ kamsangpa hi sa-te ahih ciangin a lau hi.
 
-**ZVS:** Herod in Johan that nuam hi. Ahi zongin mite in kamsangin ngaihsun uh ahih manin mite a kihtakna hangin thatsak ngamlo hi.
+**ZVS:** Herod in Johan that nuam hi. Ahi zongin mite in kamsangin ngaihsun-te ahih manin mite a kihtakna hangin thatsak ngamlo hi.
 
 ### v6
 **EN:** But when Herod's birthday was kept, the daughter of Herodias danced before them, and pleased Herod.
@@ -114,18 +114,18 @@
 ### v12
 **EN:** And his disciples came, and took up the body, and buried it, and went and told Jesus.
 
-**TDB77:** Johan’ nungzuite hong pai-in a luang a la uh a, a vui khit uh ciangin Zeisu a ko uh hi.
+**TDB77:** Johan’ nungzuite hong pai-in a luang a la-te a, a vui khit-te ciangin Zeisu a ko-te hi.
 
-**ZVS:** Tua ciangin Johan' nungzuite hong pai uh a, a luang la-in a vui khit uh ciangin Jesuh kiangah hih thu a ko uh hi.
+**ZVS:** Tua ciangin Johan' nungzuite hong pai-te a, a luang la-in a vui khit-te ciangin Jesuh kiangah hih thu a ko-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v13
 **EN:** When Jesus heard of it, he departed thence by ship into a desert place apart: and when the people had heard thereof, they followed him on foot out of the cities.
 
-**TDB77:** Zeisu in a zak ciangin, gunkuang tungah tuangin gam daihna munah amah bek a pai hi. Mihonte in a theih uh ciangin khuapi, khuaneu panin paikhia uh a, lei lamah a delh uh hi.
+**TDB77:** Zeisu in a zak ciangin, gunkuang tungah tuangin gam daihna munah amah bek a pai hi. Mihonte in a theih-te ciangin khuapi, khuaneu panin paikhia-te a, lei lamah a delh-te hi.
 
-**ZVS:** Jesuh in tua thu a zak ciangin tua mun panin kihemkhia-in gamdaihna mun a zuan dingin gunkuang tawh a pai hi. Mite in ama paikhiatna thu a theih uh ciangin a khua ciat panun lei lam tawnin Jesuh nung hong zui uh hi.
+**ZVS:** Jesuh in tua thu a zak ciangin tua mun panin kihemkhia-in gamdaihna mun a zuan dingin gunkuang tawh a pai hi. Mite in ama paikhiatna thu a theih-te ciangin a khua ciat panun lei lam tawnin Jesuh nung hong zui-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -141,16 +141,16 @@
 ### v15
 **EN:** And when it was evening, his disciples came to him, saying, This is a desert place, and the time is now past; send the multitude away, that they may go into the villages, and buy themselves victuals.
 
-**TDB77:** Nitak ciangin a nungzuite in Topa kiangah va pai uh a, “Hih lai tak in gampa lak ahi hi. Ni lah a tum zo hi. Hih mihonte khua sungah an lei dingin paisak ta in,” a va ci uh hi.
+**TDB77:** Nitak ciangin a nungzuite in Topa kiangah va pai-te a, “Hih lai tak in gampa lak ahi hi. Ni lah a tum zo hi. Hih mihonte khua sungah an lei dingin paisak ta in,” a va ci-te hi.
 
-**ZVS:** Ni a tum kuan ciangin nungzuite in Jesuh kiangah, “Hih lai mun gamlak hi a, ni zong tum dektak ta hi. Hih kimnai-a om khuate-ah mite va pai-in a an ding uh a leina dingun sawlkhia in,” a ci uh hi.
+**ZVS:** Ni a tum kuan ciangin nungzuite in Jesuh kiangah, “Hih lai mun gamlak hi a, ni zong tum dektak ta hi. Hih kimnai-a om khuate-ah mite va pai-in a an ding-te a leina dingun sawlkhia in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** But Jesus said unto them,
 
-**TDB77:** Zeisu in, “Ka paisak nuam kei hi; amau nek ding an note’n na pia ding uh hi,” a ci hi.
+**TDB77:** Zeisu in, “Ka paisak nuam kei hi; amau nek ding an note’n na pia ding-te hi,” a ci hi.
 
 **ZVS:** Ahi zongin Jesuh in, “Amaute a paikhiat ding kisamlo hi. Amaute' nek ding bangkhat peuhpeuh pia un,” ci-in a dawn' ciangin
 
@@ -159,9 +159,9 @@
 ### v17
 **EN:** And they say unto him, We have here but five loaves, and two fishes.
 
-**TDB77:** A nungzuite in, “Khomun pum nga leh ngasa tawn nih longal a dang nek ding bangmah ka nei kei uh hi,” a cih uh ciangin,
+**TDB77:** A nungzuite in, “Khomun pum nga leh ngasa tawn nih longal a dang nek ding bangmah ka nei kei-te hi,” a cih-te ciangin,
 
-**ZVS:** amaute in, “Anlum nga leh ngasa tawn nih lobuang bangmah dang omlo hi,” a ci uh hi.
+**ZVS:** amaute in, “Anlum nga leh ngasa tawn nih lobuang bangmah dang omlo hi,” a ci-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -177,18 +177,18 @@
 ### v19
 **EN:** And he commanded the multitude to sit down on the grass, and took the five loaves, and the two fishes, and looking up to heaven, he blessed, and brake, and gave the loaves to his disciples, and the disciples to the multitude.
 
-**TDB77:** Tua ciangin, “Mihonte lopa tungah tusak un,” a cih khit ciangin Zeisu in khomun nga leh ngasa tawn nih la a, vantung lam ento-in hehpihna a phat khit ciangin, khomun leh ngasa balnenin a nungzuite a pia hi. A nungzuite in zong mihonte a lui uh hi.
+**TDB77:** Tua ciangin, “Mihonte lopa tungah tusak un,” a cih khit ciangin Zeisu in khomun nga leh ngasa tawn nih la a, vantung lam ento-in hehpihna a phat khit ciangin, khomun leh ngasa balnenin a nungzuite a pia hi. A nungzuite in zong mihonte a lui-te hi.
 
-**ZVS:** lopa tungah mihonte a tutna dingun a sawl hi. Tua ciangin anlum nga leh ngasa tawn nih la-in vantung lam ento a, Pasian tungah a lungdamna a ko hi. Tua ciangin anlum balnenin a nungzuite pia a, a nungzuite in mihonte mai-ah a lui uh hi.
+**ZVS:** lopa tungah mihonte a tutna dingun a sawl hi. Tua ciangin anlum nga leh ngasa tawn nih la-in vantung lam ento a, Pasian tungah a lungdamna a ko hi. Tua ciangin anlum balnenin a nungzuite pia a, a nungzuite in mihonte mai-ah a lui-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v20
 **EN:** And they did all eat, and were filled: and they took up of the fragments that remained twelve baskets full.
 
-**TDB77:** Mi khempeuhte in a ne uh a, a kham khit uh ciangin, khamval a neng a themte tawm uh a, seeng sawm leh seeng nih dim a ngah uh hi.
+**TDB77:** Mi khempeuhte in a ne-te a, a kham khit-te ciangin, khamval a neng a themte tawm-te a, seeng sawm leh seeng nih dim a ngah-te hi.
 
-**ZVS:** Mi khempeuh in ne-in a kham khit uh ciangin a khamvalte uh khawmkik uh a, paipel sawmlenih a dim hi.
+**ZVS:** Mi khempeuh in ne-in a kham khit-te ciangin a khamvalte-te khawmkik-te a, paipel sawmlenih a dim hi.
 
 **Grammar:** plural: uh marker
 
@@ -218,9 +218,9 @@
 ### v24
 **EN:** But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary.
 
-**TDB77:** Gunkuang ahih leh, tuili laizangah om a, a deih lohna uh lam panin huih in lehmut ahih ciangin, tui nakpi-in kilok a, gunkuangah a tuangte in a gim uh hi.
+**TDB77:** Gunkuang ahih leh, tuili laizangah om a, a deih lohna-te lam panin huih in lehmut ahih ciangin, tui nakpi-in kilok a, gunkuangah a tuangte in a gim-te hi.
 
-**ZVS:** ahi zongin nungzuite pen lei tawh gamlapi kihal khinta uh a, huih in amaute lehmut ahih manin gunkuang a kilokgawp hi.
+**ZVS:** ahi zongin nungzuite pen lei tawh gamlapi kihal khinta-te a, huih in amaute lehmut ahih manin gunkuang a kilokgawp hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -236,9 +236,9 @@
 ### v26
 **EN:** And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear.
 
-**TDB77:** Tui tungah a pai, a nungzuite in a muh uh ciangin, “Sikha hi,” ci-in lau-in a kiko uh hi.
+**TDB77:** Tui tungah a pai, a nungzuite in a muh-te ciangin, “Sikha hi,” ci-in lau-in a kiko-te hi.
 
-**ZVS:** Ahi zongin nungzuite in tui tungah hong pai a muh uh ciangin lau mahmah uh a, “Sikha hi,” ci-in ngaihsun uh ahih manin a lau manun a awng uh hi.
+**ZVS:** Ahi zongin nungzuite in tui tungah hong pai a muh-te ciangin lau mahmah-te a, “Sikha hi,” ci-in ngaihsun-te ahih manin a lau manun a awng-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -247,7 +247,7 @@
 
 **TDB77:** Zeisu in, “Na lungdam ta un; keimah ka hi hi, na lau kei un,” a cih pah leh,
 
-**ZVS:** Jesuh in amaute hopihpah a, “Na lungsim uh hangsak un. Keimah ka hi hi. Lau kei un,” a ci hi.
+**ZVS:** Jesuh in amaute hopihpah a, “Na lungsim-te hangsak un. Keimah ka hi hi. Lau kei un,” a ci hi.
 
 ### v28
 **EN:** And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water.
@@ -290,41 +290,41 @@
 
 **TDB77:** Gunkuang tungah a kahtoh ciangin, huih nung a dai hi.
 
-**ZVS:** Gunkuang tungah a kahtoh khit uh ciangin huihpi nung a dai hi.
+**ZVS:** Gunkuang tungah a kahtoh khit-te ciangin huihpi nung a dai hi.
 
 ### v33
 **EN:** Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God.
 
-**TDB77:** Gunkuang sungah a omte in, “Pasian’ Tapa na hi takpi hi,” ci-in bokin a bia uh hi.
+**TDB77:** Gunkuang sungah a omte in, “Pasian’ Tapa na hi takpi hi,” ci-in bokin a bia-te hi.
 
-**ZVS:** Tua ciangin gunkuang sungah a om nungzuite in Jesuh bia uh a, “Pasian' Tapa taktak na hi hi,” ci-in a gen uh hi.
+**ZVS:** Tua ciangin gunkuang sungah a om nungzuite in Jesuh bia-te a, “Pasian' Tapa taktak na hi hi,” ci-in a gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v34
 **EN:** And when they were gone over, they came into the land of Gennesaret.
 
-**TDB77:** Tua gal khatah a kah khit uh ciangin, Gennesaret gamah a tung uh hi.
+**TDB77:** Tua gal khatah a kah khit-te ciangin, Gennesaret gamah a tung-te hi.
 
-**ZVS:** Tui a kantan khit uh ciangin Gennesaret gamah a tung uh hi.
+**ZVS:** Tui a kantan khit-te ciangin Gennesaret gamah a tung-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v35
 **EN:** And when the men of that place had knowledge of him, they sent out into all that country round about, and brought unto him all that were diseased;
 
-**TDB77:** Tua munah a om mite in Topa’ meel thei uh ahih ciangin, a kimkot gam khempeuhah mi sawl uh a, cina khempeuh a samsak uh hi.
+**TDB77:** Tua munah a om mite in Topa’ meel thei-te ahih ciangin, a kimkot gam khempeuhah mi sawl-te a, cina khempeuh a samsak-te hi.
 
-**ZVS:** Tua gam mite in Jesuh ahihlam a theih uh ciangin tua gam kiim khempeuhah thu zasak uh a, cina khempeuh Jesuh kiangah a hong paipih uh hi.
+**ZVS:** Tua gam mite in Jesuh ahihlam a theih-te ciangin tua gam kiim khempeuhah thu zasak-te a, cina khempeuh Jesuh kiangah a hong paipih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v36
 **EN:** And besought him that they might only touch the hem of his garment: and as many as touched were made perfectly whole.
 
-**TDB77:** Cinate in Zeisu’ puan mongteep a lawn’ nadingun a ngen uh hi. A lawng khempeuhte in cidamna a ngah uh hi.
+**TDB77:** Cinate in Zeisu’ puan mongteep a lawn’ nadingun a ngen-te hi. A lawng khempeuhte in cidamna a ngah-te hi.
 
-**ZVS:** Ama puanmongteep beek a lawn'khak theihna dingun Jesuh kiangah ngen uh a, a puanmongteep a lawng mi khempeuh in damna a ngah uh hi.
+**ZVS:** Ama puanmongteep beek a lawn'khak theihna dingun Jesuh kiangah ngen-te a, a puanmongteep a lawng mi khempeuh in damna a ngah-te hi.
 
 **Grammar:** plural: uh marker
 

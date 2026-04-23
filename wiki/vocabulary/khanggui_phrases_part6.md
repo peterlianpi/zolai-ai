@@ -20,4 +20,4 @@
 - `Hih hunin pen, [location] khua sung aa om [subject] thu kizakna ciang ahi hi.` = In this regard, [location] has been established as [subject] in [year].
   - e.g. `Hih hunin pen, Mandalay khua sung aa om Zotomi thu kizakna ciang ahi hi.`
 - `[Year] kumin, [Organization] in [event/action] cih khat bawl ngei-in kithei hi.` = In [year], [Organization] published [event/action] as a report.
-  - e.g. `1996 kumin, ZBCM in ZBCM laitai cih thu kizakna khat lai-in hawmkhia uh ahi hi.`
+  - e.g. `1996 kumin, ZBCM in ZBCM laitai cih thu kizakna khat lai-in hawmkhia-te ahi hi.`

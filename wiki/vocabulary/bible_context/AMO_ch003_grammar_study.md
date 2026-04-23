@@ -31,9 +31,9 @@
 ### v2
 **EN:** You only have I known of all the families of the earth: therefore I will punish you for all your iniquities.
 
-**TDB77:** Leitung minam khempeuh lakah note bek hong thei-in, note bek ka hong don hi. Tua ahih manin na khialhna khempeuh uh hangin, note daan ka hong pia ding hi.
+**TDB77:** Leitung minam khempeuh lakah note bek hong thei-in, note bek ka hong don hi. Tua ahih manin na khialhna khempeuh-te hangin, note daan ka hong pia ding hi.
 
-**ZVS:** Leitung minam khempeuh lakah note bek hong thei-in, note bek ka hong don hi. Tua ahih manin na khialhna khempeuh uh hangin note gim ka hong pia ding hi.
+**ZVS:** Leitung minam khempeuh lakah note bek hong thei-in, note bek ka hong don hi. Tua ahih manin na khialhna khempeuh-te hangin note gim ka hong pia ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because
 
@@ -42,7 +42,7 @@
 
 **TDB77:** Mi nih thukimna om masa lopi-in, lampi-ah tonkhawm ahi hiam?
 
-**ZVS:** Mi nih, thukimna om masa lopi-in lampi-ah tonkhawm thei uh ahi hiam?
+**ZVS:** Mi nih, thukimna om masa lopi-in lampi-ah tonkhawm thei-te ahi hiam?
 
 **Grammar:** serial verb: -in (and then)
 
@@ -101,18 +101,18 @@
 ### v10
 **EN:** For they know not to do right, saith the
 
-**TDB77:** Topa in hih bangin ci hi: Hih mite in a manin gamtat ding thei lo uh a, giloin mi’ na a suh uh vante tawh, a inn lianpipite uh kidimsak uh hi.
+**TDB77:** Topa in hih bangin ci hi: Hih mite in a manin gamtat ding thei lo-te a, giloin mi’ na a suh-te vante tawh, a inn lianpipite-te kidimsak-te hi.
 
-**ZVS:** { Topa } in hih bangin ci hi: Hih mite in a manin gamtat ding theilo uh a, gilo mahmah uh a, mi' na a suh uh vante tawh a inn lianpipite uh kidimsak uh hi.
+**ZVS:** { Topa } in hih bangin ci hi: Hih mite in a manin gamtat ding theilo-te a, gilo mahmah-te a, mi' na a suh-te vante tawh a inn lianpipite-te kidimsak-te hi.
 
 **Grammar:** quotative: said/saying | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Therefore thus saith the Lord
 
-**TDB77:** Tua ahih ciangin galte in a gam uh umcihin, a panmun teng uh susia ding a, a inn lianpipite uh luh gawp ding uh hi. Topa in ci hi.
+**TDB77:** Tua ahih ciangin galte in a gam-te umcihin, a panmun teng-te susia ding a, a inn lianpipite-te luh gawp ding-te hi. Topa in ci hi.
 
-**ZVS:** Tua ahih ciangin galte in a gam uh umcihin, a pan'mun muan'huai teng uh susiagawp ding a, a inn lianppipite uh luhgawp ding uh hi, { Topa } in ci hi.
+**ZVS:** Tua ahih ciangin galte in a gam-te umcihin, a pan'mun muan'huai teng-te susiagawp ding a, a inn lianppipite-te luhgawp ding-te hi, { Topa } in ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 

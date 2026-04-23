@@ -77,7 +77,7 @@
 **[]** philistines
 **Meanings:** philistines | came | israel | men | war | gathered
 **CEFR:** A2
-> *Tua ciangin Filistiate in kuam sung luh kik lai uh hi.*
+> *Tua ciangin Filistiate in kuam sung luh kik lai-te hi.*
 > → And the Philistines yet again spread themselves abroad in the valley.
 > `1CH 14:13`
 
@@ -120,7 +120,7 @@
 **[]** pharisees
 **Meanings:** pharisees | missing | went | priests | scribes | sadducees
 **CEFR:** B2
-> *Tua mite in Farisaite’ paisak ahi uh hi.*
+> *Tua mite in Farisaite’ paisak ahi-te hi.*
 > → And they which were sent were of the Pharisees.
 > `JHN 1:24`
 
@@ -140,7 +140,7 @@
 **Related:** khua, jesuh, pai, masedonia, lungdamna
 **CEFR:** B2
 **Usage:** Attested 655× across 10 Bible books.
-> *leh upate khempeuh tungah lai ka hong khak uh hi.*
+> *leh upate khempeuh tungah lai ka hong khak-te hi.*
 
 ## C1 Level (14 words)
 
@@ -183,7 +183,7 @@
 **Meanings:** phygellus | turned | away | whom | hermogenes | thou
 **CEFR:** C1
 **Usage:** Attested 65× across 2 Bible books.
-> *tuate lakah Figelas leh Hermogenes-te zong kihel uh hi.*
+> *tuate lakah Figelas leh Hermogenes-te zong kihel-te hi.*
 
 ### filetas
 **[n]** philetus
@@ -243,7 +243,7 @@
 **Related:** gam, gamsungah, galatia
 **CEFR:** C1
 **Usage:** Attested 285× across 2 Bible books.
-> *Asia gamsungah thu a hilhding uh Kha Siangtho in phallo*
+> *Asia gamsungah thu a hilhding-te Kha Siangtho in phallo*
 
 ## C2 Level (1534 words)
 

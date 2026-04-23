@@ -24,7 +24,7 @@
 
 ### pu leh pate = ancestors and forefathers
 **Context:** A compound term emphasizing deep ancestry.
-**Example:** minamte pu leh pate ahi uh hi
+**Example:** minamte pu leh pate ahi-te hi
 
 ### zi = wife
 **Context:** Used to denote a man's spouse.
@@ -36,15 +36,15 @@
 
 ### suanlekhakte = descendants
 **Context:** Refers to the offspring or progeny of someone.
-**Example:** ama suanlekhakte in Bethlehem khuapi sat uh hi
+**Example:** ama suanlekhakte in Bethlehem khuapi sat-te hi
 
 ### khuapi = city/town
 **Context:** Geographical location, often used when referring to founding a settlement.
-**Example:** Bethlehem khuapi sat uh hi
+**Example:** Bethlehem khuapi sat-te hi
 
 ### tapa thumte = three sons
 **Context:** Specifying the number of sons.
-**Example:** Hur' tapa thumte: Etam, Penuel, leh Ezer ahi uh hi
+**Example:** Hur' tapa thumte: Etam, Penuel, leh Ezer ahi-te hi
 
 ### tanu khat = one daughter
 **Context:** Specifying a single daughter.
@@ -124,9 +124,9 @@
   - Possessive structure showing lineage: 'The son of X, Y, was the father of Z.' (X's son Y was Z's father).
   - Example: Shobal’ tapa Reajah in Jahath’ pa hi a
 
-- **Hihte in [Place] a teeng minamte pu leh pate ahi uh hi.**
+- **Hihte in [Place] a teeng minamte pu leh pate ahi-te hi.**
   - Identification of a group as the foundational ancestors of the clans dwelling in a specific location.
-  - Example: Hihte in Zorah khua a teeng minamte pu leh pate ahi uh hi.
+  - Example: Hihte in Zorah khua a teeng minamte pu leh pate ahi-te hi.
 
 - **Amah in [List of sons] nei hi.**
   - Simple statement of progeny: 'He/She had [list of sons/daughters].'

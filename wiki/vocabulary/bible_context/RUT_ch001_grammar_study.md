@@ -26,18 +26,18 @@
 ### v1
 **EN:** Now it came to pass in the days when the judges ruled, that there was a famine in the land. And a certain man of Beth–lehem–judah went to sojourn in the country of Moab, he, and his wife, and his two sons.
 
-**TDB77:** Thukhente in a uk hun lai-in tua gam sungah kialpi tung a, Judah gam sunga Bethlehem khuami khat, amah leh a zi leh a tapa nihte tawh Moab gamah a peem dingin pai uh hi.
+**TDB77:** Thukhente in a uk hun lai-in tua gam sungah kialpi tung a, Judah gam sunga Bethlehem khuami khat, amah leh a zi leh a tapa nihte tawh Moab gamah a peem dingin pai-te hi.
 
-**ZVS:** Thukhente in a uk hun lai-in tua gam sungah kialpi tung a, Judah gam sunga Bethlehem khuami khat, a zi leh a tapa nihte tawh Moab gamah a peem dingin a pai uh hi.
+**ZVS:** Thukhente in a uk hun lai-in tua gam sungah kialpi tung a, Judah gam sunga Bethlehem khuami khat, a zi leh a tapa nihte tawh Moab gamah a peem dingin a pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And the name of the man was Elimelech, and the name of his wife Naomi, and the name of his two sons Mahlon and Chilion, Ephrathites of Beth–lehem–judah. And they came into the country of Moab, and continued there.
 
-**TDB77:** A mipa min in Elimelek hi a, a zi’ min in Naomi hi-in, a tapa nihte’ min in Mahlon leh Khilion ahi hi; amaute in Judah gam Bethlehem-a Efrathah mite ahi uh hi. Amaute Moab gamah pai-in tua lai-ah om uh hi.
+**TDB77:** A mipa min in Elimelek hi a, a zi’ min in Naomi hi-in, a tapa nihte’ min in Mahlon leh Khilion ahi hi; amaute in Judah gam Bethlehem-a Efrathah mite ahi-te hi. Amaute Moab gamah pai-in tua lai-ah om-te hi.
 
-**ZVS:** A pa' min Elimelek hi a, a zi' min Naomi hi-in, a tapa nihte min Mahlon leh Khilion ahi hi. Amaute pen Judah gam Bethlehem-a Efrathah mite ahi uh hi. Amaute Moab gamah pai-in tua lai-ah om uh hi.
+**ZVS:** A pa' min Elimelek hi a, a zi' min Naomi hi-in, a tapa nihte min Mahlon leh Khilion ahi hi. Amaute pen Judah gam Bethlehem-a Efrathah mite ahi-te hi. Amaute Moab gamah pai-in tua lai-ah om-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -51,9 +51,9 @@
 ### v4
 **EN:** And they took them wives of the women of Moab; the name of the one was Orpah, and the name of the other Ruth: and they dwelled there about ten years.
 
-**TDB77:** Hih tapate in Moab mite zi-in la uh hi; a khat’ min in Orpah hi a, adang khat min in Ruth ahi hi. Tua lai-ah amaute kum sawm bang teeng uh hi;
+**TDB77:** Hih tapate in Moab mite zi-in la-te hi; a khat’ min in Orpah hi a, adang khat min in Ruth ahi hi. Tua lai-ah amaute kum sawm bang teeng-te hi;
 
-**ZVS:** Hih a tapa nihte in Moab mite zi-in la uh hi. A khat min Orpah hi a, adang khat min Ruth ahi hi. Tua lai-ah amaute kum sawm bang teng uh hi.
+**ZVS:** Hih a tapa nihte in Moab mite zi-in la-te hi. A khat min Orpah hi a, adang khat min Ruth ahi hi. Tua lai-ah amaute kum sawm bang teng-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -78,45 +78,45 @@
 ### v7
 **EN:** Wherefore she went forth out of the place where she was, and her two daughters in law with her; and they went on the way to return unto the land of Judah.
 
-**TDB77:** Tua ahih ciangin a omna mun panin a mo tegel tawh tua nu dingkhia a, Judah gamah ciahkik dingin lam pai uh hi.
+**TDB77:** Tua ahih ciangin a omna mun panin a mo tegel tawh tua nu dingkhia a, Judah gamah ciahkik dingin lam pai-te hi.
 
-**ZVS:** Tua ahih ciangin ama omna mun panin a mote gel tawh tuanu dingkhia a, Judah gamah a ciahkik dingin pai uh hi.
+**ZVS:** Tua ahih ciangin ama omna mun panin a mote gel tawh tuanu dingkhia a, Judah gamah a ciahkik dingin pai-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v8
 **EN:** And Naomi said unto her two daughters in law, Go, return each to her mother's house: the
 
-**TDB77:** Ahih hangin Naomi in a mo nihte kiangah, “Pai un, na inn tuak uh ah ciahkik un la, na nute uh tawh om un. A sisate hita leh kei hita leh nong limbawl uh mah bangin Topa in note hong limbawl ta hen.
+**TDB77:** Ahih hangin Naomi in a mo nihte kiangah, “Pai un, na inn tuak-te ah ciahkik un la, na nute-te tawh om un. A sisate hita leh kei hita leh nong limbawl-te mah bangin Topa in note hong limbawl ta hen.
 
-**ZVS:** Ahih hangin Naomi in a mo nihte kiangah, “Pai un, na inn tuak uhah ciahkik un la, na nute uh tawh om un. A sisate hita leh kei hita leh nong limbawl uh mah bangin { Topa } in note hong limbawl ta hen.
+**ZVS:** Ahih hangin Naomi in a mo nihte kiangah, “Pai un, na inn tuak uhah ciahkik un la, na nute-te tawh om un. A sisate hita leh kei hita leh nong limbawl-te mah bangin { Topa } in note hong limbawl ta hen.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v9
 **EN:** The
 
-**TDB77:** Topa in na pasal kik uh inn tuakah hong nuamsa sak hen!” a ci hi. Tua ciangin amah in amaute namin, amaute a kap uh hi.
+**TDB77:** Topa in na pasal kik-te inn tuakah hong nuamsa sak hen!” a ci hi. Tua ciangin amah in amaute namin, amaute a kap-te hi.
 
-**ZVS:** { Topa } in na pasal kik uh inn tuakah hong nuamsasak ta hen!” a ci hi. Tua ciangin amah in amaute namin, amaute a kap uh hi.
+**ZVS:** { Topa } in na pasal kik-te inn tuakah hong nuamsasak ta hen!” a ci hi. Tua ciangin amah in amaute namin, amaute a kap-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And they said unto her, Surely we will return with thee unto thy people.
 
-**TDB77:** Tua ciangin amaute in ama kiangah, “Hi lo hi, na mite kiangah nang tawh kong ciah ding uh hi,” a ci uh hi.
+**TDB77:** Tua ciangin amaute in ama kiangah, “Hi lo hi, na mite kiangah nang tawh kong ciah ding-te hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin amaute in ama kiangah, “Hilo hi, na mipihte kiangah nang tawh kong ciahkhawm ding uh hi,” a ci uh hi.
+**ZVS:** Tua ciangin amaute in ama kiangah, “Hilo hi, na mipihte kiangah nang tawh kong ciahkhawm ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And Naomi said, Turn again, my daughters: why will ye go with me? are there yet any more sons in my womb, that they may be your husbands?
 
-**TDB77:** Ahih hangin Naomi in, “Kilehkik un, ka tanute aw, bang hangin hong zui ding na hi uh hiam? Note’ pasal hong hi thei dingin ka gil sungah tapa nei lai ka hi hiam?
+**TDB77:** Ahih hangin Naomi in, “Kilehkik un, ka tanute aw, bang hangin hong zui ding na hi-te hiam? Note’ pasal hong hi thei dingin ka gil sungah tapa nei lai ka hi hiam?
 
-**ZVS:** Ahih hangin Naomi in, “Kilehkik un, ka tanute aw, bang hangin hong zui ding na hi uh hiam? Note' pasal hong hi thei dingin tapa nei nawn ding ka hi hiam?
+**ZVS:** Ahih hangin Naomi in, “Kilehkik un, ka tanute aw, bang hangin hong zui ding na hi-te hiam? Note' pasal hong hi thei dingin tapa nei nawn ding ka hi hiam?
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -132,18 +132,18 @@
 ### v13
 **EN:** Would ye tarry for them till they were grown? would ye stay for them from having husbands? nay, my daughters; for it grieveth me much for your sakes that the hand of the
 
-**TDB77:** amaute a khan’ khit dong ngak zo ding na hi uh hiam? Pasal neih ding khawl ding na hi uh hiam? Hilo hi, ka tanute aw, Topa in kei hong langpan’ ahih manin note sangin nakpi takin kei ka lunggim zaw hi,” a ci hi.
+**TDB77:** amaute a khan’ khit dong ngak zo ding na hi-te hiam? Pasal neih ding khawl ding na hi-te hiam? Hilo hi, ka tanute aw, Topa in kei hong langpan’ ahih manin note sangin nakpi takin kei ka lunggim zaw hi,” a ci hi.
 
-**ZVS:** amaute a khan' khit dong ngakzo ding na hi uh hiam? Hilo hi, ka tanute aw, { Topa } in kei hong bawlsia ahih manin note sangin nakpi takin kei ka lunggimzaw hi,” a ci hi.
+**ZVS:** amaute a khan' khit dong ngakzo ding na hi-te hiam? Hilo hi, ka tanute aw, { Topa } in kei hong bawlsia ahih manin note sangin nakpi takin kei ka lunggimzaw hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | causal: because
 
 ### v14
 **EN:** And they lifted up their voice, and wept again: and Orpah kissed her mother in law; but Ruth clave unto her.
 
-**TDB77:** Tua ciangin amaute nakpi-in a kap kik uh hi; Orpah in a teeknu namin ciah a, ahih hangin Ruth in a teeknu beel hi.
+**TDB77:** Tua ciangin amaute nakpi-in a kap kik-te hi; Orpah in a teeknu namin ciah a, ahih hangin Ruth in a teeknu beel hi.
 
-**ZVS:** Tua ciangin amaute a kap kik uh hi. Orpah in a teeknu namin ciah a, ahih hangin Ruth in a teeknu beel hi.
+**ZVS:** Tua ciangin amaute a kap kik-te hi. Orpah in a teeknu namin ciah a, ahih hangin Ruth in a teeknu beel hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -186,9 +186,9 @@
 ### v19
 **EN:** So they two went until they came to Beth–lehem. And it came to pass, when they were come to Beth–lehem, that all the city was moved about them, and they said, Is this Naomi?
 
-**TDB77:** Tua ahih ciangin Bethlehem a tun’ mateng a nih-un paisuak uh hi. Bethlehem a tun’ uh ciangin amaute’ hangin a khuazangpi-un luum lialua uh hi; “Hih nu Naomi ahi hiam?” a ci uh hi.
+**TDB77:** Tua ahih ciangin Bethlehem a tun’ mateng a nih-un paisuak-te hi. Bethlehem a tun’ uh ciangin amaute’ hangin a khuazangpi-un luum lialua-te hi; “Hih nu Naomi ahi hiam?” a ci-te hi.
 
-**ZVS:** Tua ahih ciangin Bethlehem a tun' mateng uh a nihun paisuak uh hi. Bethlehem a tun' uh ciangin amaute' hangin a khuazangpi-un lum lialua-in nupite in, “Hihnu Naomi mah ahi hiam?” a ci uh hi.
+**ZVS:** Tua ahih ciangin Bethlehem a tun' mateng-te a nihun paisuak-te hi. Bethlehem a tun' uh ciangin amaute' hangin a khuazangpi-un lum lialua-in nupite in, “Hihnu Naomi mah ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
@@ -204,18 +204,18 @@
 ### v21
 **EN:** I went out full, and the
 
-**TDB77:** A dim-in ka paikhia a, Topa in a hawmin hong ciahpih kik hi. Topa in kei hong gim sakin Vanglianpa in kei tungah gimna hong tungsak ahih ciangin bang hangin Naomi hong ci lai na hi uh hiam?” a ci hi.
+**TDB77:** A dim-in ka paikhia a, Topa in a hawmin hong ciahpih kik hi. Topa in kei hong gim sakin Vanglianpa in kei tungah gimna hong tungsak ahih ciangin bang hangin Naomi hong ci lai na hi-te hiam?” a ci hi.
 
-**ZVS:** A dimin ka paikhia a, { Topa } in a hawmin hong ciahpih kik hi. { Topa } in kei hong gimsakin, Vanglianpa in kei tungah gimna hong tungsak ahih ciangin bang hangin Naomi hong ci lai na hi uh hiam?” a ci hi.
+**ZVS:** A dimin ka paikhia a, { Topa } in a hawmin hong ciahpih kik hi. { Topa } in kei hong gimsakin, Vanglianpa in kei tungah gimna hong tungsak ahih ciangin bang hangin Naomi hong ci lai na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v22
 **EN:** So Naomi returned, and Ruth the Moabitess, her daughter in law, with her, which returned out of the country of Moab: and they came to Beth–lehem in the beginning of barley harvest.
 
-**TDB77:** Tua ahih ciangin tu-a bangin Moab gam panin Naomi, Moab mi a monu Ruth tawh hong ciahkik hi. Mangbuhham lak kipat lai takin Bethlehem khua hong tung uh hi.
+**TDB77:** Tua ahih ciangin tu-a bangin Moab gam panin Naomi, Moab mi a monu Ruth tawh hong ciahkik hi. Mangbuhham lak kipat lai takin Bethlehem khua hong tung-te hi.
 
-**ZVS:** Tua ahih ciangin tu-a bangin Moab gam panin Naomi, Moab mi a monu Ruth tawh hong ciahkik hi. Mangbuhham lak kipat laitakin Bethlehem khua hong tung uh hi.
+**ZVS:** Tua ahih ciangin tu-a bangin Moab gam panin Naomi, Moab mi a monu Ruth tawh hong ciahkik hi. Mangbuhham lak kipat laitakin Bethlehem khua hong tung-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

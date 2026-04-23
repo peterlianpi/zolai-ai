@@ -35,63 +35,63 @@
 ### v2
 **EN:** And they went about in Judah, and gathered the Levites out of all the cities of Judah, and the chief of the fathers of Israel, and they came to Jerusalem.
 
-**TDB77:** Tua ciangin amaute Judah gam sungah pai kawikawi-in Judah khuapite khempeuh panin Levi mite, leh Israel mi beh lutangte khawmin Jerusalem ah hong pai uh hi.
+**TDB77:** Tua ciangin amaute Judah gam sungah pai kawikawi-in Judah khuapite khempeuh panin Levi mite, leh Israel mi beh lutangte khawmin Jerusalem ah hong pai-te hi.
 
-**ZVS:** Tua ciangin Judah gam sungah amaute pai kawikawi-in Judah khuapite khempeuh panin Levi mite, leh Israel mi beh lutangte khawmin Jerusalem-ah hong pai uh hi.
+**ZVS:** Tua ciangin Judah gam sungah amaute pai kawikawi-in Judah khuapite khempeuh panin Levi mite, leh Israel mi beh lutangte khawmin Jerusalem-ah hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v3
 **EN:** And all the congregation made a covenant with the king in the house of God. And he said unto them, Behold, the king's son shall reign, as the
 
-**TDB77:** Tua ciangin a kikhawm khempeuh in Pasian’ inn sungah kumpipa tawh thuciamna khat bawl uh hi. Tua ciangin Jehoiada in amau kiangah, “En un, kumpipa’ tapa! Topa in David’ suante tawh kisai-in a gen bangin amah uk sak un.
+**TDB77:** Tua ciangin a kikhawm khempeuh in Pasian’ inn sungah kumpipa tawh thuciamna khat bawl-te hi. Tua ciangin Jehoiada in amau kiangah, “En un, kumpipa’ tapa! Topa in David’ suante tawh kisai-in a gen bangin amah uk sak un.
 
-**ZVS:** Tua ciangin a kikhawm khempeuh in Pasian' biakinn sungah kumpipa tapa Joash tawh thuciamna khat bawl uh hi. Tua ciangin Jehoiada in amaute kiangah, “En un, kumpipa' tapa! { Topa } in David suante tawh kisai-in a gen bangin amah uksak un.
+**ZVS:** Tua ciangin a kikhawm khempeuh in Pasian' biakinn sungah kumpipa tapa Joash tawh thuciamna khat bawl-te hi. Tua ciangin Jehoiada in amaute kiangah, “En un, kumpipa' tapa! { Topa } in David suante tawh kisai-in a gen bangin amah uksak un.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** This is the thing that ye shall do; A third part of you entering on the sabbath, of the priests and of the Levites, shall be porters of the doors;
 
-**TDB77:** Hih in note’ hih ding ahi hi; sabbath ni-in nasep a peng no siampite leh Levi mite sung panin seh-thum-suah-seh-khat kulhkongpi cingte na hi ding uh a,
+**TDB77:** Hih in note’ hih ding ahi hi; sabbath ni-in nasep a peng no siampite leh Levi mite sung panin seh-thum-suah-seh-khat kulhkongpi cingte na hi ding-te a,
 
-**ZVS:** Note in hih bangin na hih ding uh hi: Sabbath ni-in nasep a peng no siampite leh Levi mite sung panin seh thumah seh khat kulhkongpi cingte na hi ding uh a,
+**ZVS:** Note in hih bangin na hih ding-te hi: Sabbath ni-in nasep a peng no siampite leh Levi mite sung panin seh thumah seh khat kulhkongpi cingte na hi ding-te a,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v5
 **EN:** And a third part shall be at the king's house; and a third part at the gate of the foundation: and all the people shall be in the courts of the house of the
 
-**TDB77:** tua ciangin seh-thum-suah-seh-khat kumpipa’ innah omin seh-thum-suah-seh-khat Khuabul Kulh kongpi-ah na om ding uh hi; tua ciangin mi khempeuh Topa’ inn tualte’ sungah na om ding uh hi.
+**TDB77:** tua ciangin seh-thum-suah-seh-khat kumpipa’ innah omin seh-thum-suah-seh-khat Khuabul Kulh kongpi-ah na om ding-te hi; tua ciangin mi khempeuh Topa’ inn tualte’ sungah na om ding-te hi.
 
-**ZVS:** seh thumah seh khat kumpipa' inn-ah omin seh thumah seh khat Khuabul Kulhkongpi-ah na om ding uh hi. Tua ciangin mi khempeuh { Topa' } biakinn tual sungah na om ding uh hi.
+**ZVS:** seh thumah seh khat kumpipa' inn-ah omin seh thumah seh khat Khuabul Kulhkongpi-ah na om ding-te hi. Tua ciangin mi khempeuh { Topa' } biakinn tual sungah na om ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v6
 **EN:** But let none come into the house of the
 
-**TDB77:** Siampite leh na a sem Levi mite sim loh, Topa’ inn sungah kuamah lut sak kei un; amaute siangtho ahih manin amaute lut thei ding uh a, ahih hangin mi khempeuh in Topa’ sawlna na mang ding uh hi.
+**TDB77:** Siampite leh na a sem Levi mite sim loh, Topa’ inn sungah kuamah lut sak kei un; amaute siangtho ahih manin amaute lut thei ding-te a, ahih hangin mi khempeuh in Topa’ sawlna na mang ding-te hi.
 
-**ZVS:** Siampite leh na a sem Levi mite simloh, { Topa' } biakinn sungah kuamah lutsak kei un. Amaute a siangtho ahih manin amaute lut thei ding uh a, ahih hangin mi khempeuh in { Topa' } sawlna na mang ding uh hi.
+**ZVS:** Siampite leh na a sem Levi mite simloh, { Topa' } biakinn sungah kuamah lutsak kei un. Amaute a siangtho ahih manin amaute lut thei ding-te a, ahih hangin mi khempeuh in { Topa' } sawlna na mang ding-te hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
 ### v7
 **EN:** And the Levites shall compass the king round about, every man with his weapons in his hand; and whosoever else cometh into the house, he shall be put to death: but be ye with the king when he cometh in, and when he goeth out.
 
-**TDB77:** Levi mite in a khut sungah a galhiam ciat uh tawh kumpipa cing ding uh a, tua ciangin biakinn sungah a lut peuhpeuh kithat ding hi. Hong tum ciang hita leh a pusuah ciang hita leh a paina peuhpeuh ah kumpipa tawh om un,” a ci hi.
+**TDB77:** Levi mite in a khut sungah a galhiam ciat-te tawh kumpipa cing ding-te a, tua ciangin biakinn sungah a lut peuhpeuh kithat ding hi. Hong tum ciang hita leh a pusuah ciang hita leh a paina peuhpeuh ah kumpipa tawh om un,” a ci hi.
 
-**ZVS:** Levi mite in a khutsung uhah a galhiam ciat uh tawh kumpipa cing ding uh a, biakinn sungah a lut peuhpeuh kithat ding hi. Hong tum ciang hita leh a pusuah ciang hita lehah kumpipa tawh om un,” a ci hi.
+**ZVS:** Levi mite in a khutsung uhah a galhiam ciat-te tawh kumpipa cing ding-te a, biakinn sungah a lut peuhpeuh kithat ding hi. Hong tum ciang hita leh a pusuah ciang hita lehah kumpipa tawh om un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** So the Levites and all Judah did according to all things that Jehoiada the priest had commanded, and took every man his men that were to come in on the sabbath, with them that were to go out on the sabbath: for Jehoiada the priest dismissed not the courses.
 
-**TDB77:** Siampi Jehoiada’ thupiak khempeuh bangin Levi mite leh Judah mi khempeuh gamta uh hi. Amaute in amau’ mi ciat sabbath ni-in na a sem ding mite tawh sabbath ni-in nasep a peng ding mite hong paipih uh hi; bang hang hiam cih leh siampite Jehoiada in nasep a peng ding a khen pawlte ciahsak lo hi.
+**TDB77:** Siampi Jehoiada’ thupiak khempeuh bangin Levi mite leh Judah mi khempeuh gamta-te hi. Amaute in amau’ mi ciat sabbath ni-in na a sem ding mite tawh sabbath ni-in nasep a peng ding mite hong paipih-te hi; bang hang hiam cih leh siampite Jehoiada in nasep a peng ding a khen pawlte ciahsak lo hi.
 
-**ZVS:** Siampi Jehoiada' thupiak khempeuh bangin Levi mite leh Judah mi khempeuh gamta uh hi. Amaute in amau' mi ciat Sabbath ni-in na a sem ding mite tawh Sabbath ni-in nasep a peng ding mite hong paipih uh hi; bang hang hiam cih leh Jehoiada in nasep a peng ding siampite ciahsak lo hi.
+**ZVS:** Siampi Jehoiada' thupiak khempeuh bangin Levi mite leh Judah mi khempeuh gamta-te hi. Amaute in amau' mi ciat Sabbath ni-in na a sem ding mite tawh Sabbath ni-in nasep a peng ding mite hong paipih-te hi; bang hang hiam cih leh Jehoiada in nasep a peng ding siampite ciahsak lo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -107,36 +107,36 @@
 ### v10
 **EN:** And he set all the people, every man having his weapon in his hand, from the right side of the temple to the left side of the temple, along by the altar and the temple, by the king round about.
 
-**TDB77:** tua ciangin amah in mi khempeuh a galhiam ciat uh tawh kumpipa a cingin, inn leitaw lam pang pan inn leilu lam pang, biakna tau leh innkim ah koih hi.
+**TDB77:** tua ciangin amah in mi khempeuh a galhiam ciat-te tawh kumpipa a cingin, inn leitaw lam pang pan inn leilu lam pang, biakna tau leh innkim ah koih hi.
 
-**ZVS:** Tua ciangin amah in mi khempeuh a galhiam ciat uh tawh kumpipa a cingin, biakinn leitaw lampang pan leilu lampang, biakna tau leh inn kiimah a koih hi.
+**ZVS:** Tua ciangin amah in mi khempeuh a galhiam ciat-te tawh kumpipa a cingin, biakinn leitaw lampang pan leilu lampang, biakna tau leh inn kiimah a koih hi.
 
 **Grammar:** sequence: then/therefore
 
 ### v11
 **EN:** Then they brought out the king's son, and put upon him the crown, and gave him the testimony, and made him king. And Jehoiada and his sons anointed him, and said, God save the king.
 
-**TDB77:** Tua ciangin amah in kumpipa’ tapa paikhiat pihin ama tungah kumpi lukhu koih a, ama tungah teci pan’na pia hi; tua ciangin amaute in kumpi-in amah taangko uh a, Jehoiada leh a tapate in amah sathau nilhin, “Kumpipa khan’ sau hen!” ci uh hi.
+**TDB77:** Tua ciangin amah in kumpipa’ tapa paikhiat pihin ama tungah kumpi lukhu koih a, ama tungah teci pan’na pia hi; tua ciangin amaute in kumpi-in amah taangko-te a, Jehoiada leh a tapate in amah sathau nilhin, “Kumpipa khan’ sau hen!” ci-te hi.
 
-**ZVS:** Tua ciangin amah in kumpipa' tapa paikhiatpihin ama lu tungah kumpi lukhu khusak a, kumpi za ngahna lai zong a pia hi. Tua ciangin amaute in kumpi-in amah taangko uh a, Jehoiada leh a tapate in amah sathau nilhin, “Kumpipa khan'sau hen!” a ci uh hi.
+**ZVS:** Tua ciangin amah in kumpipa' tapa paikhiatpihin ama lu tungah kumpi lukhu khusak a, kumpi za ngahna lai zong a pia hi. Tua ciangin amaute in kumpi-in amah taangko-te a, Jehoiada leh a tapate in amah sathau nilhin, “Kumpipa khan'sau hen!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v12
 **EN:** Now when Athaliah heard the noise of the people running and praising the king, she came to the people into the house of the
 
-**TDB77:** Mite tai-in kumpipa a phatna uh gamlumna Athaliah in a zak ciangin mite’ omna Topa’ innah pai hi.
+**TDB77:** Mite tai-in kumpipa a phatna-te gamlumna Athaliah in a zak ciangin mite’ omna Topa’ innah pai hi.
 
-**ZVS:** Mite tai-in kumpipa a phatna uh gamlumna Athaliah in a zak ciangin mite' omna { Topa' } biakinn-ah a pai hi.
+**ZVS:** Mite tai-in kumpipa a phatna-te gamlumna Athaliah in a zak ciangin mite' omna { Topa' } biakinn-ah a pai hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v13
 **EN:** And she looked, and, behold, the king stood at his pillar at the entering in, and the princes and the trumpets by the king: and all the people of the land rejoiced, and sounded with trumpets, also the singers with instruments of musick, and such as taught to sing praise. Then Athaliah rent her clothes, and said, Treason, Treason.
 
-**TDB77:** Amah a khuadak ciangin, inn lutna a, om a khuampi gei-ah kumpipa ding-in, a ukte leh peengkul tumte kumpipa’ gei-ah om-in, gam sung mi khempeuh lungdamin peengkulte tum uh a, lasate a lasakna nate uh tawh tua pawi makai-in a na om uh mu hi. Tua ciangin Athaliah in a puante balkekin kiko a, “Sawmsimna, Sawmsimna!” ci hi.
+**TDB77:** Amah a khuadak ciangin, inn lutna a, om a khuampi gei-ah kumpipa ding-in, a ukte leh peengkul tumte kumpipa’ gei-ah om-in, gam sung mi khempeuh lungdamin peengkulte tum-te a, lasate a lasakna nate-te tawh tua pawi makai-in a na om-te mu hi. Tua ciangin Athaliah in a puante balkekin kiko a, “Sawmsimna, Sawmsimna!” ci hi.
 
-**ZVS:** Amah a khuadak ciangin, biakinn lutna-a om a khuampi gei-ah kumpipa a ding, leh a ukte leh peengkul tumte kumpipa gei-ah a om, leh gamsung mi khempeuh lungdamin peengkulte a tum, leh lasate a lasakna nate uh tawh tua pawi makai-in a na om uh a mu hi. Tua ciangin Athaliah in a puante balkekin kiko a, “Sawmsimna! Sawmsimna!” a ci hi.
+**ZVS:** Amah a khuadak ciangin, biakinn lutna-a om a khuampi gei-ah kumpipa a ding, leh a ukte leh peengkul tumte kumpipa gei-ah a om, leh gamsung mi khempeuh lungdamin peengkulte a tum, leh lasate a lasakna nate-te tawh tua pawi makai-in a na om-te a mu hi. Tua ciangin Athaliah in a puante balkekin kiko a, “Sawmsimna! Sawmsimna!” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -152,27 +152,27 @@
 ### v15
 **EN:** So they laid hands on her; and when she was come to the entering of the horse gate by the king's house, they slew her there.
 
-**TDB77:** Tua ahih ciangin amaute in tuanu man uh a, tua ciangin kumpipa’ inn Sakol Kongpi vang-ah paikhiat pihin tua lai-ah amah that uh hi.
+**TDB77:** Tua ahih ciangin amaute in tuanu man-te a, tua ciangin kumpipa’ inn Sakol Kongpi vang-ah paikhiat pihin tua lai-ah amah that-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in tuanu man uh a, kumpipa omna inn Sakol Kongpi vangah paikhiatpihin tua lai-ah amah a that uh hi.
+**ZVS:** Tua ahih ciangin amaute in tuanu man-te a, kumpipa omna inn Sakol Kongpi vangah paikhiatpihin tua lai-ah amah a that-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v16
 **EN:** And Jehoiada made a covenant between him, and between all the people, and between the king, that they should be the
 
-**TDB77:** Tua ciangin Topa’ mi ahih nading uh Jehoiada in amah leh mi khempeuh leh kumpipa kikal ah thuciamna khat bawl hi.
+**TDB77:** Tua ciangin Topa’ mi ahih nading-te Jehoiada in amah leh mi khempeuh leh kumpipa kikal ah thuciamna khat bawl hi.
 
-**ZVS:** Tua ciangin { Topa' } mi ahihna ding uh Jehoiada in amah leh mi khempeuh leh kumpipa kikalah thuciamna khat a bawl hi.
+**ZVS:** Tua ciangin { Topa' } mi ahihna ding-te Jehoiada in amah leh mi khempeuh leh kumpipa kikalah thuciamna khat a bawl hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v17
 **EN:** Then all the people went to the house of Baal, and brake it down, and brake his altars and his images in pieces, and slew Mattan the priest of Baal before the altars.
 
-**TDB77:** Tua ciangin mi khempeuh Baal innah pai-in a inn lai khia uh hi; amaute in a biakna taute leh a milimte sukham uh a, amaute in biakna taute mai-ah Baal siampi Mattan that uh hi.
+**TDB77:** Tua ciangin mi khempeuh Baal innah pai-in a inn lai khia-te hi; amaute in a biakna taute leh a milimte sukham-te a, amaute in biakna taute mai-ah Baal siampi Mattan that-te hi.
 
-**ZVS:** Tua ciangin mi khempeuh Baal inn-ah pai-in a inn a laikhia uh hi. Amaute in a biakna taute leh a milimte sukham uh a, biakna taute mai-ah Baal siampi Mattan a that uh hi.
+**ZVS:** Tua ciangin mi khempeuh Baal inn-ah pai-in a inn a laikhia-te hi. Amaute in a biakna taute leh a milimte sukham-te a, biakna taute mai-ah Baal siampi Mattan a that-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -197,18 +197,18 @@
 ### v20
 **EN:** And he took the captains of hundreds, and the nobles, and the governors of the people, and all the people of the land, and brought down the king from the house of the
 
-**TDB77:** Tua ciangin amah in galkap ukte, miliante, mi a ukte, leh gam sung mi khempeuh paipih hi; tua ciangin amaute in Topa’ biakinn panin kumpipa’ inn kulhkongpi tungnung tawnin kumpipa paipih suk uh hi. Tua ciangin amaute in kumpi tokhom tungah kumpipa tusak uh hi.
+**TDB77:** Tua ciangin amah in galkap ukte, miliante, mi a ukte, leh gam sung mi khempeuh paipih hi; tua ciangin amaute in Topa’ biakinn panin kumpipa’ inn kulhkongpi tungnung tawnin kumpipa paipih suk-te hi. Tua ciangin amaute in kumpi tokhom tungah kumpipa tusak-te hi.
 
-**ZVS:** Tua ciangin amah in galkap ukte, mi liante, mi a ukte, leh gamsung mi khempeuh a paipih hi. Tua ciangin amaute in { Topa' } biakinn panin kumpipa' inn kulhkongpi tungnung tawnin kumpipa paipihsuk uh hi. Tua ciangin amaute in kumpi tokhom tungah kumpipa tusak uh hi.
+**ZVS:** Tua ciangin amah in galkap ukte, mi liante, mi a ukte, leh gamsung mi khempeuh a paipih hi. Tua ciangin amaute in { Topa' } biakinn panin kumpipa' inn kulhkongpi tungnung tawnin kumpipa paipihsuk-te hi. Tua ciangin amaute in kumpi tokhom tungah kumpipa tusak-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v21
 **EN:** And all the people of the land rejoiced: and the city was quiet, after that they had slain Athaliah with the sword.
 
-**TDB77:** Tua ciangin gam sung mi khempeuh lungdam uh hi; namsau tawh Athaliah a kithah khit ciangin khuapi sung nuam pah hi.
+**TDB77:** Tua ciangin gam sung mi khempeuh lungdam-te hi; namsau tawh Athaliah a kithah khit ciangin khuapi sung nuam pah hi.
 
-**ZVS:** Tua ahih ciangin gamsung mi khempeuh lungdam uh hi. Namsau tawh Athaliah a kithah khit ciangin khuapi sung a nuam pah hi.
+**ZVS:** Tua ahih ciangin gamsung mi khempeuh lungdam-te hi. Namsau tawh Athaliah a kithah khit ciangin khuapi sung a nuam pah hi.
 
 **Grammar:** punctual: immediately/suddenly | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

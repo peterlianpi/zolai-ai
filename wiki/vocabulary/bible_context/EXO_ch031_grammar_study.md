@@ -102,18 +102,18 @@
 ### v13
 **EN:** Speak thou also unto the children of Israel, saying, Verily my sabbaths ye shall keep: for it is a sign between me and you throughout your generations; that ye may know that I am the
 
-**TDB77:** “Israel mite' tungah gen in, ‘Note in keima' sabbathte na tang ding uh hi, bang hang hiam cih leh hih in keimah, Topa in note a hong siangthosak ka hihna na theih nadingun na khang tawntungun keimah leh note' kikal-ah lim khat ahi hi.
+**TDB77:** “Israel mite' tungah gen in, ‘Note in keima' sabbathte na tang ding-te hi, bang hang hiam cih leh hih in keimah, Topa in note a hong siangthosak ka hihna na theih nadingun na khang tawntungun keimah leh note' kikal-ah lim khat ahi hi.
 
-**ZVS:** “Israel mite tungah hih bangin gen in: ‘Keima Sabbath ni-in note na tawlnga ding uh hi. Bang hang hiam cih leh hih pen { Topa } ahi keimah in note a hong siangthosak ka hihna na theihna dingun na khang tawntungun keimah leh note' kikalah lim khat hi ding hi.
+**ZVS:** “Israel mite tungah hih bangin gen in: ‘Keima Sabbath ni-in note na tawlnga ding-te hi. Bang hang hiam cih leh hih pen { Topa } ahi keimah in note a hong siangthosak ka hihna na theihna dingun na khang tawntungun keimah leh note' kikalah lim khat hi ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** Ye shall keep the sabbath therefore; for it is holy unto you: every one that defileth it shall surely be put to death: for whosoever doeth any work therein, that soul shall be cut off from among his people.
 
-**TDB77:** Note in sabbath na tang ding uh hi, bang hang hiam cih leh note adingin siangtho hi; tua ni a ninsak mi peuhmah kithat ding hi; tua ni-in na a sem mi peuhmah ama' mite' kiang panin kikhenkhia ding hi.
+**TDB77:** Note in sabbath na tang ding-te hi, bang hang hiam cih leh note adingin siangtho hi; tua ni a ninsak mi peuhmah kithat ding hi; tua ni-in na a sem mi peuhmah ama' mite' kiang panin kikhenkhia ding hi.
 
-**ZVS:** Sabbath ni-in note na tawlnga ding uh hi. Bang hang hiam cih leh note-a' dingin a siangtho ahi hi. Tua ni-in a tawlngalo mi peuhmah kithat ding a, tua ni-in na a sem mi peuhmah ama mite' kiang panin kikhenkhia ding hi.
+**ZVS:** Sabbath ni-in note na tawlnga ding-te hi. Bang hang hiam cih leh note-a' dingin a siangtho ahi hi. Tua ni-in a tawlngalo mi peuhmah kithat ding a, tua ni-in na a sem mi peuhmah ama mite' kiang panin kikhenkhia ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -129,9 +129,9 @@
 ### v16
 **EN:** Wherefore the children of Israel shall keep the sabbath, to observe the sabbath throughout their generations, for a perpetual covenant.
 
-**TDB77:** Tua ahih ciangin a tawntungin thuciamna-in amau’ khang tawntungin sabbath tangin, Israel mite in sabbath kem ding uh hi.
+**TDB77:** Tua ahih ciangin a tawntungin thuciamna-in amau’ khang tawntungin sabbath tangin, Israel mite in sabbath kem ding-te hi.
 
-**ZVS:** Tua ahih ciangin a tawntung thuciamna-in amau' khang tawntungin Sabbath tangin, Israel mite in Sabbath kem ding uh hi.
+**ZVS:** Tua ahih ciangin a tawntung thuciamna-in amau' khang tawntungin Sabbath tangin, Israel mite in Sabbath kem ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 

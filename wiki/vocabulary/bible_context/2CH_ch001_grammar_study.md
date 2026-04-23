@@ -39,9 +39,9 @@
 ### v3
 **EN:** So Solomon, and all the congregation with him, went to the high place that was at Gibeon; for there was the tabernacle of the congregation of God, which Moses the servant of the
 
-**TDB77:** Tua ciangin Solomon, leh amah tawh a om a kikhawm khempeuh, Gibeon-ah a om mual dawn-a biak piakna munah pai uh hi; bang hang hiam cih leh Topa’ nasem Moses in gamlak ah a bawlsa Pasian’ kikhopna buk tua lai-ah om hi.
+**TDB77:** Tua ciangin Solomon, leh amah tawh a om a kikhawm khempeuh, Gibeon-ah a om mual dawn-a biak piakna munah pai-te hi; bang hang hiam cih leh Topa’ nasem Moses in gamlak ah a bawlsa Pasian’ kikhopna buk tua lai-ah om hi.
 
-**ZVS:** Tua ciangin Solomon leh amah tawh a om khempeuh, Gibeon-a a om mual dawna biakpiakna munah pai uh hi; bang hang hiam cih leh { Topa' } nasem Moses in gamlakah a bawlsa Pasian' kikhopna buk tua lai-ah om hi.
+**ZVS:** Tua ciangin Solomon leh amah tawh a om khempeuh, Gibeon-a a om mual dawna biakpiakna munah pai-te hi; bang hang hiam cih leh { Topa' } nasem Moses in gamlakah a bawlsa Pasian' kikhopna buk tua lai-ah om hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -57,9 +57,9 @@
 ### v5
 **EN:** Moreover the brasen altar, that Bezaleel the son of Uri, the son of Hur, had made, he put before the tabernacle of the
 
-**TDB77:** Tua tham loin Hur’ tapa Uri, a tapa Bezalel in a bawl sumngo biaknatau pen Topa’ biakbuk mai tua lai-ah om hi. Tua ciangin Solomon leh a kikhawm mite in Topa thu dong uh hi.
+**TDB77:** Tua tham loin Hur’ tapa Uri, a tapa Bezalel in a bawl sumngo biaknatau pen Topa’ biakbuk mai tua lai-ah om hi. Tua ciangin Solomon leh a kikhawm mite in Topa thu dong-te hi.
 
-**ZVS:** Tua thamloin Hur' tapa Uri, a tapa Bezalel in a bawl sumngo biakna tau pen { Topa' } biakbuk mai tua lai-ah om hi. Tua ciangin Solomon leh a kikhawm mite in { Topa } thu dong uh hi.
+**ZVS:** Tua thamloin Hur' tapa Uri, a tapa Bezalel in a bawl sumngo biakna tau pen { Topa' } biakbuk mai tua lai-ah om hi. Tua ciangin Solomon leh a kikhawm mite in { Topa } thu dong-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -154,18 +154,18 @@
 ### v16
 **EN:** And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.
 
-**TDB77:** Solomon in gamdang panin sakol a laknate in Izipt leh Kue pan hi a, kumpipa’ sumbawlte in a man ding pia-in Kue panin tuate ngah uh hi.
+**TDB77:** Solomon in gamdang panin sakol a laknate in Izipt leh Kue pan hi a, kumpipa’ sumbawlte in a man ding pia-in Kue panin tuate ngah-te hi.
 
-**ZVS:** Solomon in gamdang panin sakol a lakna munte pen Egypt leh Kue pan hi a, kumpipa' sumbawlte in a man ding pia-in Kue panin tuate ngah uh hi.
+**ZVS:** Solomon in gamdang panin sakol a lakna munte pen Egypt leh Kue pan hi a, kumpipa' sumbawlte in a man ding pia-in Kue panin tuate ngah-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v17
 **EN:** And they fetched up, and brought forth out of Egypt a chariot for six hundred shekels of silver, and an horse for an hundred and fifty: and so brought they out horses for all the kings of the Hittites, and for the kings of Syria, by their means.
 
-**TDB77:** Amaute in Izipt panin leeng khat ciangin ngun, shekel za gukin la uh a, sakol khat ciangin za leh sawmnga-in la uh hi; tua mah bangin amaute in zuakkhiat kik dingin Hit kumpite leh Siria kumpite khempeuh tung panin zong sakol leh leeng la uh hi.
+**TDB77:** Amaute in Izipt panin leeng khat ciangin ngun, shekel za gukin la-te a, sakol khat ciangin za leh sawmnga-in la-te hi; tua mah bangin amaute in zuakkhiat kik dingin Hit kumpite leh Siria kumpite khempeuh tung panin zong sakol leh leeng la-te hi.
 
-**ZVS:** Amaute in Egypt panin leeng khat ciangin ngun shekel za guk-in la uh a, sakol khat ciangin za leh sawmnga-in la uh hi. Tua bangmahin amaute in zuakkhiat kik dingin Hit kumpite leh Syria kumpite khempeuh tung panin zong sakol leh leeng a la uh hi.
+**ZVS:** Amaute in Egypt panin leeng khat ciangin ngun shekel za guk-in la-te a, sakol khat ciangin za leh sawmnga-in la-te hi. Tua bangmahin amaute in zuakkhiat kik dingin Hit kumpite leh Syria kumpite khempeuh tung panin zong sakol leh leeng a la-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

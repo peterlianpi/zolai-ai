@@ -93,9 +93,9 @@
 ### v9
 **EN:** Thou hast sent widows away empty, and the arms of the fatherless have been broken.
 
-**TDB77:** Meigong numeite a huh nuam lo bek hi loin, mi tagahte bawlsia-in a neihsa uh na sut hi.
+**TDB77:** Meigong numeite a huh nuam lo bek hi loin, mi tagahte bawlsia-in a neihsa-te na sut hi.
 
-**ZVS:** Meigongte a huh nuamlo ciang bek hiloin, mi tagahte bawlsia-in a neihsa uh na sut hi.
+**ZVS:** Meigongte a huh nuamlo ciang bek hiloin, mi tagahte bawlsia-in a neihsa-te na sut hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -161,9 +161,9 @@
 ### v17
 **EN:** Which said unto God, Depart from us: and what can the Almighty do for them?
 
-**TDB77:** Hih mite pen Pasian a nial, Pasian in amaute bangmah a cih thei lo dinga a ki-umte ahi uh hi.
+**TDB77:** Hih mite pen Pasian a nial, Pasian in amaute bangmah a cih thei lo dinga a ki-umte ahi-te hi.
 
-**ZVS:** Hih mite pen Pasian a nial, Pasian in bangmah a cih theilo dingin a ki-um mite ahi uh hi.
+**ZVS:** Hih mite pen Pasian a nial, Pasian in bangmah a cih theilo dingin a ki-um mite ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -179,9 +179,9 @@
 ### v19
 **EN:** The righteous see it, and are glad: and the innocent laugh them to scorn.
 
-**TDB77:** Migilote a kidaantatna a muh uh ciangin mi hoihte nuamin, pauban’na nei lo mite in nuihsan uh hi.
+**TDB77:** Migilote a kidaantatna a muh-te ciangin mi hoihte nuamin, pauban’na nei lo mite in nuihsan-te hi.
 
-**ZVS:** Migilote tungah gim kipia a muh uh ciangin mihoihte nuam a, paubaan'na a neilo mite in a nuihsan uh hi.
+**ZVS:** Migilote tungah gim kipia a muh-te ciangin mihoihte nuam a, paubaan'na a neilo mite in a nuihsan-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 

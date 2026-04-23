@@ -23,14 +23,14 @@
 ### v1
 **EN:** And you hath he quickened, who were dead in trespasses and sins;
 
-**TDB77:** A beisa hunah na thuman'lohna uh leh na mawhna uh hangin kha thu tawh kisai-ah a si na hi uh hi.
+**TDB77:** A beisa hunah na thuman'lohna-te leh na mawhna-te hangin kha thu tawh kisai-ah a si na hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** Wherein in time past ye walked according to the course of this world, according to the prince of the power of the air, the spirit that now worketh in the children of disobedience:
 
-**TDB77:** Tuahun lai-in leitung gitloh gamtatnate na zui uh a, Pasian thu a umlo mite sungah tu laitakin na a sem, huihlak a ukte' thu na mang uh hi.
+**TDB77:** Tuahun lai-in leitung gitloh gamtatnate na zui-te a, Pasian thu a umlo mite sungah tu laitakin na a sem, huihlak a ukte' thu na mang-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -55,7 +55,7 @@
 ### v5
 **EN:** Even when we were dead in sins, hath quickened us together with Christ, (by grace ye are saved;)
 
-**TDB77:** mawhna khialhna sungah si-a om eite Khazih tawh hong hing khawm sak zo hi. Note in hehpihna hang bekin gupna na ngah uh hi.
+**TDB77:** mawhna khialhna sungah si-a om eite Khazih tawh hong hing khawm sak zo hi. Note in hehpihna hang bekin gupna na ngah-te hi.
 
 **ZVS:** i mawhna hangin kha thu tawh kisai-in misi ihih laitakin Khrih tawh eite hong nungtasak hi. Pasian' hehpihna hangin hotkhiatna a ngah thei ihi hi.
 
@@ -73,7 +73,7 @@
 ### v7
 **EN:** That in the ages to come he might shew the exceeding riches of his grace in his kindness toward us through Christ Jesus.
 
-**TDB77:** Bang hang hiam na cih uh leh, Khazih Zeisu hangah eite hong hehpih a, a kicing mahmah ama hehpihna thupha a nung ciangin a kilatsak nading ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, Khazih Zeisu hangah eite hong hehpih a, a kicing mahmah ama hehpihna thupha a nung ciangin a kilatsak nading ahi hi.
 
 **ZVS:** Khrih Jesuh tung tawnin a hong lah ama hehpihna leh a hong itna bangzah takin lianin lamdang ahi hiam, ci-in a hong tungding hunah a hong lah tawntung theihna dingin hih bangin a hong thokhawmsak ahi hi.
 
@@ -82,25 +82,25 @@
 ### v8
 **EN:** For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
 
-**TDB77:** Bang hang hiam na cih uh leh, note in thu-upna hangah hehpihna tawh gupna na ngah zo uh hi. Note ut thu-a ngah na hi kei uh hi: Pasian’ letsong ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, note in thu-upna hangah hehpihna tawh gupna na ngah zo-te hi. Note ut thu-a ngah na hi kei-te hi: Pasian’ letsong ahi hi.
 
-**ZVS:** Note' upna hangin Pasian' hong hehpihna tawh hotkhiatna a ngah na hi uh hi. Note' thalawhna hangin a ngah hiloin Pasian' hong piakkhong ahi hi.
+**ZVS:** Note' upna hangin Pasian' hong hehpihna tawh hotkhiatna a ngah na hi-te hi. Note' thalawhna hangin a ngah hiloin Pasian' hong piakkhong ahi hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v9
 **EN:** Not of works, lest any man should boast.
 
-**TDB77:** Kuamah in a kisaktheih loh nadingin note’ gamtat pha hangin gupna na ngah kei uh hi.
+**TDB77:** Kuamah in a kisaktheih loh nadingin note’ gamtat pha hangin gupna na ngah kei-te hi.
 
-**ZVS:** Note' hanciamna tawh a ngah hilo na hih manun na kisialhna ding uh a thu omlo hi.
+**ZVS:** Note' hanciamna tawh a ngah hilo na hih manun na kisialhna ding-te a thu omlo hi.
 
 **Grammar:** purpose: in order to | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite in gamtat hoih i gamtat nadingin Khazih Zeisu sungah a pian’sak ama bawlsa i hi hi. Tua gamtatna pha eite in i gamtat nadingin Pasian in tua gamtatna a na siam khol zo hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite in gamtat hoih i gamtat nadingin Khazih Zeisu sungah a pian’sak ama bawlsa i hi hi. Tua gamtatna pha eite in i gamtat nadingin Pasian in tua gamtatna a na siam khol zo hi.
 
 **ZVS:** Eite a hong bawlpa pen Pasian hi a, Jesuh Khrih tawh i kipawl ciangin i nuntakna-ah gamtat hoih a nei dingin a hong bawl ihi hi. Hih pen eite' omzia dingin a na ngaihsut kholhsa ahi hi.
 
@@ -111,23 +111,23 @@
 
 **TDB77:** Tua ahih ciangin khut tawh kibawl ci-le-sa sungah kibawl ‘vunat’ kici mite in vunat lo a cih uh, ci-le-sa pan Gentail mi ahi note in,
 
-**ZVS:** Amau mahmah in amau pumpi tungah a hihna uh tawh vun a ki-at mite ka hi uh a ci Jew mite in, vun a ki-atlo mite a hong cih uh, na pian' na patun Gentail mi ahi note in nidanga na omzia uh phawkkik dih un.
+**ZVS:** Amau mahmah in amau pumpi tungah a hihna-te tawh vun a ki-at mite ka hi-te a ci Jew mite in, vun a ki-atlo mite a hong cih uh, na pian' na patun Gentail mi ahi note in nidanga na omzia-te phawkkik dih un.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v12
 **EN:** That at that time ye were without Christ, being aliens from the commonwealth of Israel, and strangers from the covenants of promise, having no hope, and without God in the world:
 
-**TDB77:** tua hun lai takin Khazih tawh kikhenin, Israel mi pawl hi loin, kiciamna a om thuciamna thute tawh kikum loin, lametna om loin, leitungah Pasian nei loin na om uh na ngaihsun ta un.
+**TDB77:** tua hun lai takin Khazih tawh kikhenin, Israel mi pawl hi loin, kiciamna a om thuciamna thute tawh kikum loin, lametna om loin, leitungah Pasian nei loin na om-te na ngaihsun ta un.
 
-**ZVS:** Tuahun lai-in Khrih tawh na kikhen uh a, Pasian' teel Israel minamte hiloin a pualam mite na hi uh hi. Pasian in ama mite tungah piakdingin a ciam thute zong a ngahdingte na hi kei uh a, Pasian a neilo, lamet ding bangmah neiloin leitungah a om na hi uh hi.
+**ZVS:** Tuahun lai-in Khrih tawh na kikhen-te a, Pasian' teel Israel minamte hiloin a pualam mite na hi-te hi. Pasian in ama mite tungah piakdingin a ciam thute zong a ngahdingte na hi kei-te a, Pasian a neilo, lamet ding bangmah neiloin leitungah a om na hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v13
 **EN:** But now in Christ Jesus ye who sometimes were far off are made nigh by the blood of Christ.
 
-**TDB77:** Ahih hangin nidang lai a, gamlapi-ah a om note in tu-in Khazih’ sisan hangin Khazih Zeisu kiang nai na tung zo uh hi.
+**TDB77:** Ahih hangin nidang lai a, gamlapi-ah a om note in tu-in Khazih’ sisan hangin Khazih Zeisu kiang nai na tung zo-te hi.
 
 **ZVS:** Ahi zongin a gamlapi-ah a om ngei hinapi-in tu-in Khrih Jesuh tawh na kipawlna hangun ama sihna in Pasian kiang hong tun'pih hi.
 
@@ -136,7 +136,7 @@
 ### v14
 **EN:** For he is our peace, who hath made both one, and hath broken down the middle wall of partition between us;
 
-**TDB77:** Bang hang hiam na cih uh leh, tua Khazih in eite gal kilemna hi a,
+**TDB77:** Bang hang hiam na cih-te leh, tua Khazih in eite gal kilemna hi a,
 
 **ZVS:** Khrih mahmah in Gentail mite leh Jew mite pawlkhatin hong bawl ahih manin eite tungah nopsakna a hong piapa ahi hi. Hih minam nihte khenin gal a piangsak dalna pen Khrih in ama pumpi tawh a satkham hi.
 
@@ -145,7 +145,7 @@
 ### v15
 **EN:** Having abolished in his flesh the enmity, even the law of commandments contained in ordinances; for to make in himself of twain one new man, so making peace;
 
-**TDB77:** ngeina tawh kipawl Thukham kilemlohna thu a pumpi sungah a paihkhiat khit ciangin kikhen khia a, om kikal dalna kawm phelkhia-in, mi pawl nihte pawl khat bek a suak sak hi. Bang hang hiam na cih uh leh, gal kilem sakin ama sungah tua pawl nihte in pawl thak khat bek a suah nadingin bawl pha a, pawl khat bek suah khin a,
+**TDB77:** ngeina tawh kipawl Thukham kilemlohna thu a pumpi sungah a paihkhiat khit ciangin kikhen khia a, om kikal dalna kawm phelkhia-in, mi pawl nihte pawl khat bek a suak sak hi. Bang hang hiam na cih-te leh, gal kilem sakin ama sungah tua pawl nihte in pawl thak khat bek a suah nadingin bawl pha a, pawl khat bek suah khin a,
 
 **ZVS:** Amah tawh kipawlna hangin minam nihte pawlkhat a suahtheihna dingin minam a dei Jew Thukham leh a ngeinate khempeuh phiatin, eite pawlkhat hong suahin a hong kilemsak hi.
 
@@ -172,7 +172,7 @@
 ### v18
 **EN:** For through him we both have access by one Spirit unto the Father.
 
-**TDB77:** Bang hang hiam na cih uh leh, Khazih hangin ei pawl nihte in Kha Siangtho khat tawh Pa kiangah nai-in lut theih nading thu i ngah hi.
+**TDB77:** Bang hang hiam na cih-te leh, Khazih hangin ei pawl nihte in Kha Siangtho khat tawh Pa kiangah nai-in lut theih nading thu i ngah hi.
 
 **ZVS:** Khrih hangin Jew mi leh Gentail mi ahi eite khempeuh, Kha Siangtho huhna tawh Pa Pasian kiangah i paithei hi.
 
@@ -181,18 +181,18 @@
 ### v19
 **EN:** Now therefore ye are no more strangers and foreigners, but fellowcitizens with the saints, and of the household of God;
 
-**TDB77:** Tua ahih ciangin note in tu-a kipanin mi pawl dangte ahi zongin, khual mite ahi zongin, na hi nawn kei uh a, Pasian’ mite tawh gammi khat na hi uh hi; Pasian’ innkuanpihte zong na hi uh hi.
+**TDB77:** Tua ahih ciangin note in tu-a kipanin mi pawl dangte ahi zongin, khual mite ahi zongin, na hi nawn kei-te a, Pasian’ mite tawh gammi khat na hi-te hi; Pasian’ innkuanpihte zong na hi-te hi.
 
-**ZVS:** Tua ahih ciangin no Gentail mite pen a pualam mi, gamdang mite na hi nawn kei uh a, Pasian mite tawh minam khat hita-in, Pasian innkuan sung mite na hita uh hi.
+**ZVS:** Tua ahih ciangin no Gentail mite pen a pualam mi, gamdang mite na hi nawn kei-te a, Pasian mite tawh minam khat hita-in, Pasian innkuan sung mite na hita-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And are built upon the foundation of the apostles and prophets, Jesus Christ himself being the chief corner stone;
 
-**TDB77:** Bang hang hiam na cih uh leh, sawltakte-a kipan kamsangte ahi, khuam tungah note in zomin a kilam mi na hi uh hi. Khazih in tua innkiunuai suang ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, sawltakte-a kipan kamsangte ahi, khuam tungah note in zomin a kilam mi na hi-te hi. Khazih in tua innkiunuai suang ahi hi.
 
-**ZVS:** Note zong, sawltakte leh kamsangte in a phuhsa innkhuam tungah a kilam na hi uh a, tua inn sutpi pen Jesuh mahmah ahi hi.
+**ZVS:** Note zong, sawltakte leh kamsangte in a phuhsa innkhuam tungah a kilam na hi-te a, tua inn sutpi pen Jesuh mahmah ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -208,9 +208,9 @@
 ### v22
 **EN:** In whom ye also are builded together for an habitation of God through the Spirit.
 
-**TDB77:** Topa sungah note in zong Kha Siangtho hangin Pasian’ teenna na suah nadingun a kilam na hi uh hi.
+**TDB77:** Topa sungah note in zong Kha Siangtho hangin Pasian’ teenna na suah nadingun a kilam na hi-te hi.
 
-**ZVS:** Note zong midangte tawh kigawmin ama tungah na kilam uh a, Kha Siangtho-in Pasian a ten'na ding inn na suak uh hi.
+**ZVS:** Note zong midangte tawh kigawmin ama tungah na kilam-te a, Kha Siangtho-in Pasian a ten'na ding inn na suak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

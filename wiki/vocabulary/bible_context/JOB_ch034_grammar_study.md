@@ -40,9 +40,9 @@
 ### v3
 **EN:** For the ear trieth words, as the mouth tasteth meat.
 
-**TDB77:** An na ciap uh ciangin a lim leh a lim lo na thei uh hi; thu kigen na zak uh ciangin pil kampau leh hai kampau na thei ding uh hi.
+**TDB77:** An na ciap-te ciangin a lim leh a lim lo na thei-te hi; thu kigen na zak-te ciangin pil kampau leh hai kampau na thei ding-te hi.
 
-**ZVS:** An na ciap uh ciangin a lim a limlo na thei uh hi. Thu kigen na zak uh ciangin pil kampau leh hai kampau na khenthei uh hi.
+**ZVS:** An na ciap-te ciangin a lim a limlo na thei-te hi. Thu kigen na zak-te ciangin pil kampau leh hai kampau na khenthei-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -74,9 +74,9 @@
 ### v7
 **EN:** What man is like Job, who drinketh up scorning like water?
 
-**TDB77:** Hih Job tawh a kibang mi na mu ngei uh hiam? Amah in Pasian zahtakna lim nei thei lo hi.
+**TDB77:** Hih Job tawh a kibang mi na mu ngei-te hiam? Amah in Pasian zahtakna lim nei thei lo hi.
 
-**ZVS:** “Hih Job tawh a kibang mi na mu ngei uh hiam? Amah in Pasian zahtakna lim bangmah nei hetlo hi.
+**ZVS:** “Hih Job tawh a kibang mi na mu ngei-te hiam? Amah in Pasian zahtakna lim bangmah nei hetlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -108,7 +108,7 @@
 ### v11
 **EN:** For the work of a man shall he render unto him, and cause every man to find according to his ways.
 
-**TDB77:** Pasian in mite a gamtatna tawh kizui-in thaman pia a, a thuak ding uh a kilawm bangin daantat hi.
+**TDB77:** Pasian in mite a gamtatna tawh kizui-in thaman pia a, a thuak ding-te a kilawm bangin daantat hi.
 
 **ZVS:** Pasian in a gamtatna tawh kizui-in mite tungah thaman pia a, a thuak dingun a kilawm bangin gim a pia hi.
 
@@ -146,7 +146,7 @@
 
 **TDB77:** nuntakna nei khempeuh si pah ding a, mihingte, leivui suakkik ding hi.
 
-**ZVS:** nuntakna a nei khempeuh si pah ding uh a, mihing khempeuh leivui suakkik ding uh hi.
+**ZVS:** nuntakna a nei khempeuh si pah ding-te a, mihing khempeuh leivui suakkik ding-te hi.
 
 **Grammar:** future: will
 
@@ -171,9 +171,9 @@
 ### v18
 **EN:** Is it fit to say to a king, Thou art wicked? and to princes, Ye are ungodly?
 
-**TDB77:** Kumpite leh uliante bang mahin kimang loin a gitloh uh ciangin, amaute a mawhsak ngampa in Pasian ahi hi.
+**TDB77:** Kumpite leh uliante bang mahin kimang loin a gitloh-te ciangin, amaute a mawhsak ngampa in Pasian ahi hi.
 
-**ZVS:** Kumpite leh uliante bangmahin kimang loin a gitloh uh ciangin, amaute a mawhsak ngampa Pasian bek ahi hi.
+**ZVS:** Kumpite leh uliante bangmahin kimang loin a gitloh-te ciangin, amaute a mawhsak ngampa Pasian bek ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -248,18 +248,18 @@
 ### v27
 **EN:** Because they turned back from him, and would not consider any of his ways:
 
-**TDB77:** Bang hang hiam cih leh amaute in a thu mang nawn lo uh a, a thupiaknate khempeuh don nawn lo uh hi.
+**TDB77:** Bang hang hiam cih leh amaute in a thu mang nawn lo-te a, a thupiaknate khempeuh don nawn lo-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in ama thu mang nawnlo uh a, a thupiakte khempeuh don nawnlo uh hi.
+**ZVS:** Bang hang hiam cih leh amaute in ama thu mang nawnlo-te a, a thupiakte khempeuh don nawnlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v28
 **EN:** So that they cause the cry of the poor to come unto him, and he heareth the cry of the afflicted.
 
-**TDB77:** Amaute in mizawngte kapsak gawp uh a, mizawngte’ huhngetna awging Pasian in za hi.
+**TDB77:** Amaute in mizawngte kapsak gawp-te a, mizawngte’ huhngetna awging Pasian in za hi.
 
-**ZVS:** Amaute in mizawngte kapsak gawp uh a, mizawngte' huh ngetna awging Pasian in a za hi.
+**ZVS:** Amaute in mizawngte kapsak gawp-te a, mizawngte' huh ngetna awging Pasian in a za hi.
 
 **Grammar:** plural: uh marker
 
@@ -307,9 +307,9 @@
 ### v34
 **EN:** Let men of understanding tell me, and let a wise man hearken unto me.
 
-**TDB77:** Thu ngaihsun theih peuhmahte in man hi, hong cihpih ding uh a, ka thugenna a za mipil peuhmahte in,
+**TDB77:** Thu ngaihsun theih peuhmahte in man hi, hong cihpih ding-te a, ka thugenna a za mipil peuhmahte in,
 
-**ZVS:** “Thu a ngaihsun theite in hih thu man hi, hong cihpih ding uh a, ka thugenna a za mipil peuhmahte in,
+**ZVS:** “Thu a ngaihsun theite in hih thu man hi, hong cihpih ding-te a, ka thugenna a za mipil peuhmahte in,
 
 **Grammar:** plural: uh marker
 
@@ -325,18 +325,18 @@
 ### v36
 **EN:** My desire is that Job may be tried unto the end because of his answers for wicked men.
 
-**TDB77:** Job’ thugente ngaihsun le uh cin, migilo banga kampau ahihna na thei ding uh hi.
+**TDB77:** Job’ thugente ngaihsun le-te cin, migilo banga kampau ahihna na thei ding-te hi.
 
-**ZVS:** Job' thugente khempeuh ngaihsun le uh cin, migilo bangin a kampauna na thei ding uh hi.
+**ZVS:** Job' thugente khempeuh ngaihsun le-te cin, migilo bangin a kampauna na thei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v37
 **EN:** For he addeth rebellion unto his sin, he clappeth his hands among us, and multiplieth his words against God.
 
-**TDB77:** Amah in a khialhna khawl nuam lo a, eite khempeuh mai-ah Pasian simmawhin zahpih hi,’ ci ding uh hi,” a ci hi.
+**TDB77:** Amah in a khialhna khawl nuam lo a, eite khempeuh mai-ah Pasian simmawhin zahpih hi,’ ci ding-te hi,” a ci hi.
 
-**ZVS:** Amah a khialhna khawl nuam hetlo a, eite khempeuh' mai-ah Pasian simmawhin zahpih bawlgawp hi,’ hong ci ding uh hi,” a ci hi.
+**ZVS:** Amah a khialhna khawl nuam hetlo a, eite khempeuh' mai-ah Pasian simmawhin zahpih bawlgawp hi,’ hong ci ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

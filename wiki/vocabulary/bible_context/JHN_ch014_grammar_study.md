@@ -21,9 +21,9 @@
 ### v5
 **EN:** Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way?
 
-**TDB77:** Thomas in, “Topa aw, na pai nading thei lo ka hih uh ciangin, lampi bangci theih ding ka hi uh hiam?” a ci hi.
+**TDB77:** Thomas in, “Topa aw, na pai nading thei lo ka hih-te ciangin, lampi bangci theih ding ka hi-te hiam?” a ci hi.
 
-**ZVS:** Tua laitakin Thomas in, “Topa aw, na paina ding mun theilo ka hih manun a lampi ding bangci theih ding ka hi uh hiam?” a cih ciangin
+**ZVS:** Tua laitakin Thomas in, “Topa aw, na paina ding mun theilo ka hih manun a lampi ding bangci theih ding ka hi-te hiam?” a cih ciangin
 
 **Grammar:** quotative: said/saying
 
@@ -39,9 +39,9 @@
 ### v8
 **EN:** Philip saith unto him, Lord, shew us the Father, and it sufficeth us.
 
-**TDB77:** Filip in, “Topa aw, Pa hong lak lecin ka deihna uh a kicing ding hi,” a ci hi.
+**TDB77:** Filip in, “Topa aw, Pa hong lak lecin ka deihna-te a kicing ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin Filip in, “Topa aw, Pa hong lak lecin ka lung uh kim pah ding hi,” a cih leh
+**ZVS:** Tua ciangin Filip in, “Topa aw, Pa hong lak lecin ka lung-te kim pah ding hi,” a cih leh
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -64,9 +64,9 @@
 ### v23
 **EN:** Jesus answered and said unto him,
 
-**TDB77:** Zeisu in, “Kei hong it mi in ka thu zui ding a, ka Pa in amah a it ding a, ama kiangah hawhin, amah tawh ka omkhawm ding uh hi.
+**TDB77:** Zeisu in, “Kei hong it mi in ka thu zui ding a, ka Pa in amah a it ding a, ama kiangah hawhin, amah tawh ka omkhawm ding-te hi.
 
-**ZVS:** Jesuh in, “Kei hong itte in ka thu zui ding uh hi. Ka Pa in zong it ding a, ka nihun tua mite kiangah pai-in amaute tawh ka omkhawm ding uh hi.
+**ZVS:** Jesuh in, “Kei hong itte in ka thu zui ding-te hi. Ka Pa in zong it ding a, ka nihun tua mite kiangah pai-in amaute tawh ka omkhawm ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

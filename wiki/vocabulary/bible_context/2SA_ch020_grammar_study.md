@@ -34,18 +34,18 @@
 ### v2
 **EN:** So every man of Israel went up from after David, and followed Sheba the son of Bichri: but the men of Judah clave unto their king, from Jordan even to Jerusalem.
 
-**TDB77:** Tua ahih ciangin Israel mi khempeuh David kiang pan nungkik uh a, Bikhri’ tapa Sheba zui uh hi; ahih hangin Judah mite in Jordan panin Jerusalem ciang dong a kumpipa uh kip takin zui uh hi.
+**TDB77:** Tua ahih ciangin Israel mi khempeuh David kiang pan nungkik-te a, Bikhri’ tapa Sheba zui-te hi; ahih hangin Judah mite in Jordan panin Jerusalem ciang dong a kumpipa-te kip takin zui-te hi.
 
-**ZVS:** Tua ahih ciangin Israel mi khempeuh David' kiang pan nungkik uh a, Bikhri' tapa Sheba zui uh hi. Ahih hangin Judah mite in Jordan panin Jerusalem ciangdong a kumpipa uh kiptakin zui uh hi.
+**ZVS:** Tua ahih ciangin Israel mi khempeuh David' kiang pan nungkik-te a, Bikhri' tapa Sheba zui-te hi. Ahih hangin Judah mite in Jordan panin Jerusalem ciangdong a kumpipa-te kiptakin zui-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And David came to his house at Jerusalem; and the king took the ten women his concubines, whom he had left to keep the house, and put them in ward, and fed them, but went not in unto them. So they were shut up unto the day of their death, living in widowhood.
 
-**TDB77:** Tua ciangin Jerusalem a inn-ah David tung hi; tua ciangin kumpipa in inn kem dingin a nusiat zineu sawmte la-in a kivil inn khat sungah amaute koih a, amaute vaak hi, ahih hangin amaute luppih lo hi. Tua ahih ciangin amaute a khang laipi-in meigong numei suak uh a, a sih dong uh amaute kikhumcip hi.
+**TDB77:** Tua ciangin Jerusalem a inn-ah David tung hi; tua ciangin kumpipa in inn kem dingin a nusiat zineu sawmte la-in a kivil inn khat sungah amaute koih a, amaute vaak hi, ahih hangin amaute luppih lo hi. Tua ahih ciangin amaute a khang laipi-in meigong numei suak-te a, a sih dong-te amaute kikhumcip hi.
 
-**ZVS:** Tua ciangin Jerusalem-a a inn-ah David tung hi. Tua ciangin kumpipa in inn kem dingin a nusiat a zineu sawmte la-in a kivil inn khat sungah amaute koihin amaute a vak hi. Ahih hangin amaute luppihlo hi. Tua ahih ciangin amaute a khang laipi-in meigong numei suak uh a, a sih dong uh amaute kikhumcip hi.
+**ZVS:** Tua ciangin Jerusalem-a a inn-ah David tung hi. Tua ciangin kumpipa in inn kem dingin a nusiat a zineu sawmte la-in a kivil inn khat sungah amaute koihin amaute a vak hi. Ahih hangin amaute luppihlo hi. Tua ahih ciangin amaute a khang laipi-in meigong numei suak-te a, a sih dong-te amaute kikhumcip hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -77,9 +77,9 @@
 ### v7
 **EN:** And there went out after him Joab's men, and the Cherethites, and the Pelethites, and all the mighty men: and they went out of Jerusalem, to pursue after Sheba the son of Bichri.
 
-**TDB77:** Tua ciangin Abishai’ nungah Joab leh Khereth mite, Peleth mite leh mi thahat khempeuh pai uh hi; Bikhri’ tapa Sheba a delh dingin Jerusalem panin amaute kuankhia uh hi.
+**TDB77:** Tua ciangin Abishai’ nungah Joab leh Khereth mite, Peleth mite leh mi thahat khempeuh pai-te hi; Bikhri’ tapa Sheba a delh dingin Jerusalem panin amaute kuankhia-te hi.
 
-**ZVS:** Tua ciangin Abishai' nungah Joab leh Khereth mite leh Peleth mite, leh mi thahat khempeuh pai uh hi. Bikhri' tapa Sheba a delh dingin Jerusalem panin amaute kuankhia uh hi.
+**ZVS:** Tua ciangin Abishai' nungah Joab leh Khereth mite leh Peleth mite, leh mi thahat khempeuh pai-te hi. Bikhri' tapa Sheba a delh dingin Jerusalem panin amaute kuankhia-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -104,7 +104,7 @@
 ### v10
 **EN:** But Amasa took no heed to the sword that was in Joab's hand: so he smote him therewith in the fifth rib, and shed out his bowels to the ground, and struck him not again; and he died. So Joab and Abishai his brother pursued after Sheba the son of Bichri.
 
-**TDB77:** Ahih hangin Amasa in Joab’ khut sunga om namsau mu lo hi; tua ahih ciangin Joab in tua tawh a pumpi sat a, nihvei sat kul loin a gilpi lei lakah bua khia hi; tua ciangin amah si hi. Tua ciangin Joab leh a sanggampa Abishai in Bikhri’ tapa Sheba delh uh hi.
+**TDB77:** Ahih hangin Amasa in Joab’ khut sunga om namsau mu lo hi; tua ahih ciangin Joab in tua tawh a pumpi sat a, nihvei sat kul loin a gilpi lei lakah bua khia hi; tua ciangin amah si hi. Tua ciangin Joab leh a sanggampa Abishai in Bikhri’ tapa Sheba delh-te hi.
 
 **ZVS:** Ahih hangin Amasa in Joab' khutsunga om namsau mulo hi. Tua ahih ciangin Joab in a namsau tawh a pumpi sat a, nihvei sat kulloin a gilpi leilakah buakhia hi; tua ciangin Amasa a si hi. Tua ciangin Joab leh a sanggampa Abishai in Bikhri' tapa Sheba delhuh hi.
 
@@ -124,14 +124,14 @@
 
 **TDB77:** Tua ciangin lam lianpi-a ama sisan sungah Amasa kidiahin om hi. Tua lai-a a pai mi khempeuh in amah a muh ciangin khawl hi; mi khempeuh a khawlna tua mipa in amuh ciangin amah in lam lianpi panin gamlakah Amasa puakhia-in ama tungah puan khat paai hi.
 
-**ZVS:** Lam lianpi-a ama sisan sungah Amasa kidiahin a om hi. Tua lai-ah a pai mi peuhmah in amah a muh ciangin a khawl uh hi. Mi khempeuh a khawlna tua mipa in a muh ciangin amah in lam lianpi panin gamlakah Amasa puakhia-in ama tungah puan khat a khuh hi.
+**ZVS:** Lam lianpi-a ama sisan sungah Amasa kidiahin a om hi. Tua lai-ah a pai mi peuhmah in amah a muh ciangin a khawl-te hi. Mi khempeuh a khawlna tua mipa in a muh ciangin amah in lam lianpi panin gamlakah Amasa puakhia-in ama tungah puan khat a khuh hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v13
 **EN:** When he was removed out of the highway, all the people went on after Joab, to pursue after Sheba the son of Bichri.
 
-**TDB77:** Lam lianpi panin amah a kilakkhiat khit ciangin Bikhri’ tapa Sheba delh dingin Joab nungah mi khempeuh paisuak uh hi.
+**TDB77:** Lam lianpi panin amah a kilakkhiat khit ciangin Bikhri’ tapa Sheba delh dingin Joab nungah mi khempeuh paisuak-te hi.
 
 **ZVS:** Lam lianpi panin amah a kilakkhiat khit ciangin Bikhri' tapa Sheba a delh dingin Joab nungah mi khempeuh paisuak hi.
 
@@ -140,18 +140,18 @@
 ### v14
 **EN:** And he went through all the tribes of Israel unto Abel, and to Beth–maachah, and all the Berites: and they were gathered together, and went also after him.
 
-**TDB77:** Tua ciangin Israel minamte khempeuh nawkin Abel Bethma-akah khua ah Sheba pai hi; Bikhri mi khempeuh kikhawm uh a, amah zui-in khuapi sungah tum uh hi.
+**TDB77:** Tua ciangin Israel minamte khempeuh nawkin Abel Bethma-akah khua ah Sheba pai hi; Bikhri mi khempeuh kikhawm-te a, amah zui-in khuapi sungah tum-te hi.
 
-**ZVS:** Tua ciangin Israel minamte khempeuh nawkin Abelbethmaakah khua-ah Sheba pai hi. Bikhri mi khempeuh kikhawm uh a, amah zui-in khuapi sungah tum uh hi.
+**ZVS:** Tua ciangin Israel minamte khempeuh nawkin Abelbethmaakah khua-ah Sheba pai hi. Bikhri mi khempeuh kikhawm-te a, amah zui-in khuapi sungah tum-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And they came and besieged him in Abel of Beth–maachah, and they cast up a bank against the city, and it stood in the trench: and all the people that were with Joab battered the wall, to throw it down.
 
-**TDB77:** Tua ciangin Joab tawh a om mi khempeuh hong pai-in Bethma-akah khua-a Abel-ah amah umcih uh hi; amaute in khuapi dona-in suangcianpi khat bawl uh a, kulhpi lang khatah ding uh hi; tua ciangin kulhpi a puk theih nadingin amaute in kulhpi nuai to uh hi.
+**TDB77:** Tua ciangin Joab tawh a om mi khempeuh hong pai-in Bethma-akah khua-a Abel-ah amah umcih-te hi; amaute in khuapi dona-in suangcianpi khat bawl-te a, kulhpi lang khatah ding-te hi; tua ciangin kulhpi a puk theih nadingin amaute in kulhpi nuai to-te hi.
 
-**ZVS:** Tua ciangin Joab tawh a om mi khempeuh hong pai-in Abelbethmaakah khua-ah amah umcih uh hi. Amaute in khuapi simna-in suang cianpi khat bawl uh a, kulhpi langkhatah ding uh hi. Tua ciangin kulhpi a puk theihna dingin amaute in kulhpi nuai to uh hi.
+**ZVS:** Tua ciangin Joab tawh a om mi khempeuh hong pai-in Abelbethmaakah khua-ah amah umcih-te hi. Amaute in khuapi simna-in suang cianpi khat bawl-te a, kulhpi langkhatah ding-te hi. Tua ciangin kulhpi a puk theihna dingin amaute in kulhpi nuai to-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
@@ -176,9 +176,9 @@
 ### v18
 **EN:** Then she spake, saying, They were wont to speak in old time, saying, They shall surely ask counsel at Abel: and so they ended the matter.
 
-**TDB77:** Tua ciangin amah in “Taang lai-in amaute in, ‘Abel-ah thu dong sak un,’ ci thei uh hi; tua bangin amaute in thu siangsak uh hi.
+**TDB77:** Tua ciangin amah in “Taang lai-in amaute in, ‘Abel-ah thu dong sak un,’ ci thei-te hi; tua bangin amaute in thu siangsak-te hi.
 
-**ZVS:** Tua ciangin amah in, “Tanglai-in amaute in, ‘Abel-ah thu dong sak un,’ ci thei uh a, tua bangin amaute in thu siangsak uh hi.
+**ZVS:** Tua ciangin amah in, “Tanglai-in amaute in, ‘Abel-ah thu dong sak un,’ ci thei-te a, tua bangin amaute in thu siangsak-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -210,9 +210,9 @@
 ### v22
 **EN:** Then the woman went unto all the people in her wisdom. And they cut off the head of Sheba the son of Bichri, and cast it out to Joab. And he blew a trumpet, and they retired from the city, every man to his tent. And Joab returned to Jerusalem unto the king.
 
-**TDB77:** Tua ciangin ama pilna zangin mi khempeuh kiangah tua numei pai hi. Tua ciangin amaute in Bikhri’ tapa Sheba’ lu tan khia-in Joab kiangah lawnkhia uh hi. Tua ahih ciangin amah in peengkul tum a, khuapi panin amaute kikhenin a milipin a inn ciat uh ah ciah uh hi. Tua ciangin kumpipa kiang Jerusalem ah Joab ciah hi.
+**TDB77:** Tua ciangin ama pilna zangin mi khempeuh kiangah tua numei pai hi. Tua ciangin amaute in Bikhri’ tapa Sheba’ lu tan khia-in Joab kiangah lawnkhia-te hi. Tua ahih ciangin amah in peengkul tum a, khuapi panin amaute kikhenin a milipin a inn ciat-te ah ciah-te hi. Tua ciangin kumpipa kiang Jerusalem ah Joab ciah hi.
 
-**ZVS:** Tua ciangin ama pilna zangin mi khempeuh kiangah tua numei a pai hi. Tua ciangin amaute in Bikhri' tapa Sheba' lu tankhia-in Joab kiangah lawnkhia uh hi. Tua ahih ciangin amah in peengkul tum a, khuapi panin amaute kikhenin a milipin a inn ciat uhah a ciah uh hi. Tua ciangin kumpipa kiang Jerusalem-ah Joab a ciah hi.
+**ZVS:** Tua ciangin ama pilna zangin mi khempeuh kiangah tua numei a pai hi. Tua ciangin amaute in Bikhri' tapa Sheba' lu tankhia-in Joab kiangah lawnkhia-te hi. Tua ahih ciangin amah in peengkul tum a, khuapi panin amaute kikhenin a milipin a inn ciat uhah a ciah-te hi. Tua ciangin kumpipa kiang Jerusalem-ah Joab a ciah hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -237,9 +237,9 @@
 ### v25
 **EN:** And Sheva was scribe: and Zadok and Abiathar were the priests:
 
-**TDB77:** Sheva in lai-atpa ahi hi; Zadok leh Abiathar in siampite ahi uh hi;
+**TDB77:** Sheva in lai-atpa ahi hi; Zadok leh Abiathar in siampite ahi-te hi;
 
-**ZVS:** Sheva pen lai-atpa ahi hi. Zadok leh Abiathar siampite ahi uh hi.
+**ZVS:** Sheva pen lai-atpa ahi hi. Zadok leh Abiathar siampite ahi-te hi.
 
 **Grammar:** plural: uh marker
 

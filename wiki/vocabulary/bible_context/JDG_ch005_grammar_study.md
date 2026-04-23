@@ -27,27 +27,27 @@
 ### v1
 **EN:** Then sang Deborah and Barak the son of Abinoam on that day, saying,
 
-**TDB77:** Tua ciangin Deborah leh Abinoam’ tapa Barak in tua ni-in la sa uh hi:
+**TDB77:** Tua ciangin Deborah leh Abinoam’ tapa Barak in tua ni-in la sa-te hi:
 
-**ZVS:** Tua ciangin Deborah leh Abinoam' tapa Barak in tua ni-in la sa uh a,
+**ZVS:** Tua ciangin Deborah leh Abinoam' tapa Barak in tua ni-in la sa-te a,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v2
 **EN:** Praise ye the
 
-**TDB77:** “Makaite in Israelte sungah makai uh a, mite amau mahmah utna tawh kipia uh hi, Topa phat un!
+**TDB77:** “Makaite in Israelte sungah makai-te a, mite amau mahmah utna tawh kipia-te hi, Topa phat un!
 
-**ZVS:** “Makaite in Israel-te makai uh a, mite amau mahmah utna tawh kipia uh hi. { Topa } phat un.
+**ZVS:** “Makaite in Israel-te makai-te a, mite amau mahmah utna tawh kipia-te hi. { Topa } phat un.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Hear, O ye kings; give ear, O ye princes; I, even I, will sing unto the
 
-**TDB77:** ”Ngai un, Kumpite aw; na bil uh ngat un, Uliante aw; Topa tungah ka sa ding hi, Israelte Pasian, Topa tungah la ngaih ka sa ding hi.
+**TDB77:** ”Ngai un, Kumpite aw; na bil-te ngat un, Uliante aw; Topa tungah ka sa ding hi, Israelte Pasian, Topa tungah la ngaih ka sa ding hi.
 
-**ZVS:** Ngai un, kumpite aw, na bil uh ngat un, uliante aw. { Topa } tungah la ka sa ding a, Israel-te' Pasian, { Topa' } tungah la ngaih ka sa ding hi.
+**ZVS:** Ngai un, kumpite aw, na bil-te ngat un, uliante aw. { Topa } tungah la ka sa ding a, Israel-te' Pasian, { Topa' } tungah la ngaih ka sa ding hi.
 
 **Grammar:** future: will
 
@@ -63,9 +63,9 @@
 ### v6
 **EN:** In the days of Shamgar the son of Anath, in the days of Jael, the highways were unoccupied, and the travellers walked through byways.
 
-**TDB77:** “Anath’ tapa Shamgar’ hun lai, Jael’ hun lai-in, a honhon a, khualzinte om nawn lo a, khualzinte lam gei-ah pial uh hi.
+**TDB77:** “Anath’ tapa Shamgar’ hun lai, Jael’ hun lai-in, a honhon a, khualzinte om nawn lo a, khualzinte lam gei-ah pial-te hi.
 
-**ZVS:** “Anath' tapa Shamgar' hun lai, Jael' hun lai-in, a hon hona khualzinte om nawnlo a, khualzinte lam gei-ah pial uh hi.
+**ZVS:** “Anath' tapa Shamgar' hun lai, Jael' hun lai-in, a hon hona khualzinte om nawnlo a, khualzinte lam gei-ah pial-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -74,7 +74,7 @@
 
 **TDB77:** Israel sunga lokhote khawl hi, amaute khawl hi, nang, Deborah nong khan’ mateng, Israel sungah nu banga nong khan’ mateng,
 
-**ZVS:** Israel sunga lo khote khawlcip uh a, bangmah sem theilo uh hi. Nang, Deborah, nong khan' mateng, Israel sungah nu banga nong khan' mateng.
+**ZVS:** Israel sunga lo khote khawlcip-te a, bangmah sem theilo-te hi. Nang, Deborah, nong khan' mateng, Israel sungah nu banga nong khan' mateng.
 
 ### v8
 **EN:** They chose new gods; then was war in the gates: was there a shield or spear seen among forty thousand in Israel?
@@ -104,9 +104,9 @@
 ### v11
 **EN:** They that are delivered from the noise of archers in the places of drawing water, there shall they rehearse the righteous acts of the
 
-**TDB77:** Tui phual-a lasakna a tumte’ gin’na-ah, amaute in Topa’ gualzawhna, Israel sunga a lokhote in a gualzawhna genkik uh hi. “Tua ciangin Topa’ mite kulh kongpite-ah paisuk uh hi.
+**TDB77:** Tui phual-a lasakna a tumte’ gin’na-ah, amaute in Topa’ gualzawhna, Israel sunga a lokhote in a gualzawhna genkik-te hi. “Tua ciangin Topa’ mite kulh kongpite-ah paisuk-te hi.
 
-**ZVS:** Tui phuala lasakna a tumte' gin'na in { Topa' } gualzawhna gen a, Israel sunga lo khote in zong a gualzawhna mah genkik uh hi. Tua ciangin { Topa' } mite kulhkongpite-ah paisuk uh hi.
+**ZVS:** Tui phuala lasakna a tumte' gin'na in { Topa' } gualzawhna gen a, Israel sunga lo khote in zong a gualzawhna mah genkik-te hi. Tua ciangin { Topa' } mite kulhkongpite-ah paisuk-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -120,27 +120,27 @@
 ### v13
 **EN:** Then he made him that remaineth have dominion over the nobles among the people: the
 
-**TDB77:** Tua ciangin ulianpa’ mi a om laite paisuk uh a, ama ading a dosak dingin Topa’ mite paisuk uh hi.
+**TDB77:** Tua ciangin ulianpa’ mi a om laite paisuk-te a, ama ading a dosak dingin Topa’ mite paisuk-te hi.
 
-**ZVS:** Tua ciangin ulianpa' mi a omlaite paisuk uh a, ama-a' ding a dosak dingin { Topa' } mite paisuk uh hi.
+**ZVS:** Tua ciangin ulianpa' mi a omlaite paisuk-te a, ama-a' ding a dosak dingin { Topa' } mite paisuk-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v14
 **EN:** Out of Ephraim was there a root of them against Amalek; after thee, Benjamin, among thy people; out of Machir came down governors, and out of Zebulun they that handle the pen of the writer.
 
-**TDB77:** Amaute in Amalek ah kipan khia-in, Efraim panin ding khia uh a, tua kuam-ah pai-in amaute’ nungah Benjamin, in a behte tawh hong zui uh hi; Makhir panin a ukte hong pai sukin, Zebulun panin ulianpa’ ciangkhut a tawite hong paisuk uh hi;
+**TDB77:** Amaute in Amalek ah kipan khia-in, Efraim panin ding khia-te a, tua kuam-ah pai-in amaute’ nungah Benjamin, in a behte tawh hong zui-te hi; Makhir panin a ukte hong pai sukin, Zebulun panin ulianpa’ ciangkhut a tawite hong paisuk-te hi;
 
-**ZVS:** Efraim panin amaute dingkhia-in tua kuamah pai uh a, nang, Benjamin, na behte tawh hong zui uh hi. Makhir panin a ukte hong paisukin, Zebulun panin ulianpa' ciangkhut a tawite hong paisuk uh hi.
+**ZVS:** Efraim panin amaute dingkhia-in tua kuamah pai-te a, nang, Benjamin, na behte tawh hong zui-te hi. Makhir panin a ukte hong paisukin, Zebulun panin ulianpa' ciangkhut a tawite hong paisuk-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And the princes of Issachar were with Deborah; even Issachar, and also Barak: he was sent on foot into the valley. For the divisions of Reuben there were great thoughts of heart.
 
-**TDB77:** Issakhar uliante Deborah tawh hong pai a, Barak tungah Issakhar thuman hi; kuam sung ama khe phungah amaute kituah uh hi. Reuben behte lakah nakpi tak-a lungsim ngaihsutna om hi.
+**TDB77:** Issakhar uliante Deborah tawh hong pai a, Barak tungah Issakhar thuman hi; kuam sung ama khe phungah amaute kituah-te hi. Reuben behte lakah nakpi tak-a lungsim ngaihsutna om hi.
 
-**ZVS:** Issakhar uliante Deborah tawh hong pai a, Barak tungah Issakhar thuman hi. Kuam sung ama khe phungah amaute kituah uh hi. Reuben behte lakah nakpi taka lungsim ngaihsutna a om hi.
+**ZVS:** Issakhar uliante Deborah tawh hong pai a, Barak tungah Issakhar thuman hi. Kuam sung ama khe phungah amaute kituah-te hi. Reuben behte lakah nakpi taka lungsim ngaihsutna a om hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -158,7 +158,7 @@
 
 **TDB77:** Jordan gal khatah Gilead om hi; Dan, bang hangin teembawte tawh om ahi hiam? Asher in tuipi gei-ah tu lai a, leilak a tun’na gei-ah teeng hi.
 
-**ZVS:** Jordan galkhatah Gilead om hi. Dan minamte bang hangin teembaw tawh om ahi hiam? Asher minamte, tuipi gei-ah tu lai a, leilak a tun'na gei-ah a teng uh hi.
+**ZVS:** Jordan galkhatah Gilead om hi. Dan minamte bang hangin teembaw tawh om ahi hiam? Asher minamte, tuipi gei-ah tu lai a, leilak a tun'na gei-ah a teng-te hi.
 
 ### v18
 **EN:** Zebulun and Naphtali were a people that jeoparded their lives unto the death in the high places of the field.
@@ -172,16 +172,16 @@
 ### v19
 **EN:** The kings came and fought, then fought the kings of Canaan in Taanach by the waters of Megiddo; they took no gain of money.
 
-**TDB77:** “Kumpite hong pai-in do uh hi; tua ciangin Kanaan kumpite in Megiddo tuite gei, Ta-anak-ah do uh hi; amaute in a kinusia ngunte ngah lo uh hi.
+**TDB77:** “Kumpite hong pai-in do-te hi; tua ciangin Kanaan kumpite in Megiddo tuite gei, Ta-anak-ah do-te hi; amaute in a kinusia ngunte ngah lo-te hi.
 
-**ZVS:** “Kumpite hong pai-in do uh hi. Tua ciangin Kanaan kumpite in Megiddo tuite' gei, Taanak-ah do uh a, amaute in a kinusia ngunte ngahlo uh hi.
+**ZVS:** “Kumpite hong pai-in do-te hi. Tua ciangin Kanaan kumpite in Megiddo tuite' gei, Taanak-ah do-te a, amaute in a kinusia ngunte ngahlo-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** They fought from heaven; the stars in their courses fought against Sisera.
 
-**TDB77:** Vantung panin aksite in do uh a, amau paina ciat panin Sisera do uh hi.
+**TDB77:** Vantung panin aksite in do-te a, amau paina ciat panin Sisera do-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -206,9 +206,9 @@
 ### v23
 **EN:** Curse ye Meroz, said the angel of the
 
-**TDB77:** “Topa’ vantungmi in, ‘Meroz samsia in, a sunga teeng mite nasia takin samsia in, bang hang hiam cih leh Topa a huh dingin a thahatpa dona ah Topa a huh dingin hong pai lo uh hi,’ a ci hi
+**TDB77:** “Topa’ vantungmi in, ‘Meroz samsia in, a sunga teeng mite nasia takin samsia in, bang hang hiam cih leh Topa a huh dingin a thahatpa dona ah Topa a huh dingin hong pai lo-te hi,’ a ci hi
 
-**ZVS:** “{ Topa' } vantung mi in, ‘Meroz khua samsia in, a sunga teng mite nasia takin samsia in. Bang hang hiam cih leh { Topa } a huh dingin a thahatpa dona-ah { Topa } a huh dingin hong kuanlo uh hi,’ a ci hi.
+**ZVS:** “{ Topa' } vantung mi in, ‘Meroz khua samsia in, a sunga teng mite nasia takin samsia in. Bang hang hiam cih leh { Topa } a huh dingin a thahatpa dona-ah { Topa } a huh dingin hong kuanlo-te hi,’ a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | negation: lo | plural: uh marker
 
@@ -272,9 +272,9 @@
 ### v31
 **EN:** So let all thine enemies perish, O
 
-**TDB77:** “Tua ahih ciangin na gal khempeuh si khin uh hi. Topa! Ahih hangin na lawmte pen a vangliatna tawh a suak ni bang ta hen,” a ci hi. Tua ciangin tua gam in kum sawmli sung tawlngakna nei hi.
+**TDB77:** “Tua ahih ciangin na gal khempeuh si khin-te hi. Topa! Ahih hangin na lawmte pen a vangliatna tawh a suak ni bang ta hen,” a ci hi. Tua ciangin tua gam in kum sawmli sung tawlngakna nei hi.
 
-**ZVS:** “Tua ahih ciangin na gal khempeuh si khin uh hi, { Topa}! Ahih hangin na lawmte pen a vangliatna tawh a suak ni bang ta hen,” a ci uh hi. Tua ciangin tua gam in kum sawmli sung tawlngakna hun a nei hi.
+**ZVS:** “Tua ahih ciangin na gal khempeuh si khin-te hi, { Topa}! Ahih hangin na lawmte pen a vangliatna tawh a suak ni bang ta hen,” a ci-te hi. Tua ciangin tua gam in kum sawmli sung tawlngakna hun a nei hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | completed: already done | plural: uh marker
 

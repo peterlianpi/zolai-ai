@@ -56,7 +56,7 @@
 
 **TDB77:** Ama sungah nuntakna a om hi. Tua nuntakna in leitung mite ading khuavak ahi hi.
 
-**ZVS:** Nuntakna a nei khempeuh in tua Thu tung panin a nuntakna uh ngah a, tua nuntakna in mi khempeuh tungah khuavak hong tun'pih hi.
+**ZVS:** Nuntakna a nei khempeuh in tua Thu tung panin a nuntakna-te ngah a, tua nuntakna in mi khempeuh tungah khuavak hong tun'pih hi.
 
 ### v5
 **EN:** And the light shineth in darkness; and the darkness comprehended it not.
@@ -108,16 +108,16 @@
 
 **TDB77:** Amah in leitungah a om zo hi. Amah tawh leitung kipiangsak hi. Leitung in amah a thei kei hi.
 
-**ZVS:** Amah, leitungah om a, amah tawh leitung a kibawl hinapi-in leitung mite in amah na thei khalo uh hi.
+**ZVS:** Amah, leitungah om a, amah tawh leitung a kibawl hinapi-in leitung mite in amah na thei khalo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v11
 **EN:** He came unto his own, and his own received him not.
 
-**TDB77:** Amah in ama mite kiangah hong pai-in, ama mite in amah a sang kei uh hi.
+**TDB77:** Amah in ama mite kiangah hong pai-in, ama mite in amah a sang kei-te hi.
 
-**ZVS:** A khua leh a tui-ah va pai a, ahi zongin a khuapih a tuipihte in ama thugen na ngailo uh hi.
+**ZVS:** A khua leh a tui-ah va pai a, ahi zongin a khuapih a tuipihte in ama thugen na ngailo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -131,7 +131,7 @@
 ### v13
 **EN:** Which were born, not of blood, nor of the will of the flesh, nor of the will of man, but of God.
 
-**TDB77:** Tua tate in si leh sa tawh suak ahi kei uh hi; mihing’ deihna bangin a suak kei uh hi, Pasian’ deihna bangin a suak uh hi.
+**TDB77:** Tua tate in si leh sa tawh suak ahi kei-te hi; mihing’ deihna bangin a suak kei-te hi, Pasian’ deihna bangin a suak-te hi.
 
 **ZVS:** Tua bangin Pasian' tate suahna pen leitung ngeina nute pate sung panin suahna tawh hiloin Pasian sung panin suahna ahi hi.
 
@@ -140,9 +140,9 @@
 ### v14
 **EN:** And the Word was made flesh, and dwelt among us, (and we beheld his glory, the glory as of the only begotten of the Father,) full of grace and truth.
 
-**TDB77:** Thu in mi bangin hong suak a, hehpihna leh thuman thutak tawh kidimin eite lakah a om hi. Pa in a Ta khat bek a piaksa minthan’na bangin ama minthan’na ka mu uh hi.
+**TDB77:** Thu in mi bangin hong suak a, hehpihna leh thuman thutak tawh kidimin eite lakah a om hi. Pa in a Ta khat bek a piaksa minthan’na bangin ama minthan’na ka mu-te hi.
 
-**ZVS:** Tua Thu mihing hong suakin kote lakah hong om a, itna nei-in citak mahmah ahih manin Pasian' pianzia a neihna ka mu cian uh hi. Hih pianzia pen Pasian' Tapa khat bek hihna tawh a neih pianzia ahi hi.
+**ZVS:** Tua Thu mihing hong suakin kote lakah hong om a, itna nei-in citak mahmah ahih manin Pasian' pianzia a neihna ka mu cian-te hi. Hih pianzia pen Pasian' Tapa khat bek hihna tawh a neih pianzia ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -185,9 +185,9 @@
 ### v19
 **EN:** And this is the record of John, when the Jews sent priests and Levites from Jerusalem to ask him, Who art thou?
 
-**TDB77:** Judah mite in, “Nang kua na hi hiam?” ci-in Johan dong dingin siampite leh Levite Jerusalem khua panin a paisak uh hi.
+**TDB77:** Judah mite in, “Nang kua na hi hiam?” ci-in Johan dong dingin siampite leh Levite Jerusalem khua panin a paisak-te hi.
 
-**ZVS:** Jerusalem khua-a Jew mi uliante in Johan kiangah siampite leh Levi mite paisak uh a, “Nang kua na hi hiam?” ci-in a dongsak uh hi.
+**ZVS:** Jerusalem khua-a Jew mi uliante in Johan kiangah siampite leh Levi mite paisak-te a, “Nang kua na hi hiam?” ci-in a dongsak-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -203,18 +203,18 @@
 ### v21
 **EN:** And they asked him, What then? Art thou Elias? And he saith, I am not. Art thou that prophet? And he answered, No.
 
-**TDB77:** Tuate in zong, “Tua ahih leh, nang kua na hi hiam? Elijah na hi hiam?” ci-in a dot uh ciangin amah in, “Elijah ka hi kei hi,” a ci hi. “Pasian’ kamsangpa na hi hiam?” a cih uh ciangin, “Ka hi kei hi.” ci-in a dawngkik hi.
+**TDB77:** Tuate in zong, “Tua ahih leh, nang kua na hi hiam? Elijah na hi hiam?” ci-in a dot-te ciangin amah in, “Elijah ka hi kei hi,” a ci hi. “Pasian’ kamsangpa na hi hiam?” a cih-te ciangin, “Ka hi kei hi.” ci-in a dawngkik hi.
 
-**ZVS:** Tua ciangin amaute in, “Tua ahih leh kua na hi hiam? Elijah na hi hiam?” a cih uh ciangin, “Ka hi kei hi,” na ci hi. Kamsangpa na hi hiam, ci-in a dot uh ciangin, ka hi kei hi, a na ci leuleu hi.
+**ZVS:** Tua ciangin amaute in, “Tua ahih leh kua na hi hiam? Elijah na hi hiam?” a cih-te ciangin, “Ka hi kei hi,” na ci hi. Kamsangpa na hi hiam, ci-in a dot-te ciangin, ka hi kei hi, a na ci leuleu hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei
 
 ### v22
 **EN:** Then said they unto him, Who art thou? that we may give an answer to them that sent us. What sayest thou of thyself?
 
-**TDB77:** Tua ciangin amau in, “Nang kua na hi hiam? Ko hong sawlte kiangah ka genkik theih nadingun, nangmah mah bang kici na hi hiam?” ci-in a dongkik uh hi.
+**TDB77:** Tua ciangin amau in, “Nang kua na hi hiam? Ko hong sawlte kiangah ka genkik theih nadingun, nangmah mah bang kici na hi hiam?” ci-in a dongkik-te hi.
 
-**ZVS:** Tua ciangin amaute in, “Tua ahih leh kua na hi hiam? Kote hong sawlte kiangah ka gen ding uh thu hong gen in. Nang, kua kici na hi hiam?” ci-in a dot uh ciangin
+**ZVS:** Tua ciangin amaute in, “Tua ahih leh kua na hi hiam? Kote hong sawlte kiangah ka gen ding-te thu hong gen in. Nang, kua kici na hi hiam?” ci-in a dot-te ciangin
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -230,25 +230,25 @@
 ### v24
 **EN:** And they which were sent were of the Pharisees.
 
-**TDB77:** Tua mite in Farisaite’ paisak ahi uh hi.
+**TDB77:** Tua mite in Farisaite’ paisak ahi-te hi.
 
-**ZVS:** Hih thu a dong mite pen Farisi mite in a sawl uh ahi hi.
+**ZVS:** Hih thu a dong mite pen Farisi mite in a sawl-te ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v25
 **EN:** And they asked him, and said unto him, Why baptizest thou then, if thou be not that Christ, nor Elias, neither that prophet?
 
-**TDB77:** Amaute in, “Khazih hi lo, Elijah hi lo, kamsangpa hi lo na hih leh, bang dingin na baptaiz hiam?” ci-in a dongkik uh hi.
+**TDB77:** Amaute in, “Khazih hi lo, Elijah hi lo, kamsangpa hi lo na hih leh, bang dingin na baptaiz hiam?” ci-in a dongkik-te hi.
 
-**ZVS:** Amaute in Johan kiangah, “Nang pen Khrih lah hilo, Elijah lah hilo, kamsang lah hilo na hih leh bang hangin tuiphum mawk na hi hiam?” ci-in a dot uh ciangin
+**ZVS:** Amaute in Johan kiangah, “Nang pen Khrih lah hilo, Elijah lah hilo, kamsang lah hilo na hih leh bang hangin tuiphum mawk na hi hiam?” ci-in a dot-te ciangin
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v26
 **EN:** John answered them, saying, I baptize with water: but there standeth one among you, whom ye know not;
 
-**TDB77:** Johan in zong, “Keimah in tui sungah ka baptaiz hi. Nomau lakah ding-in a om na theih loh uh ka nungah hong pai mi khat a om hi.
+**TDB77:** Johan in zong, “Keimah in tui sungah ka baptaiz hi. Nomau lakah ding-in a om na theih loh-te ka nungah hong pai mi khat a om hi.
 
 **ZVS:** Johan in, “Keimah in tui sungah mite a phum lel ka hi hi. Ahi zongin tu mahmahin note' muh ngeiloh mipa, note' lak mahah hong om hi.
 
@@ -335,27 +335,27 @@
 ### v37
 **EN:** And the two disciples heard him speak, and they followed Jesus.
 
-**TDB77:** A nungzui nihte in ama thu a zak uh ciangin, Zeisu’ nung a zui uh hi.
+**TDB77:** A nungzui nihte in ama thu a zak-te ciangin, Zeisu’ nung a zui-te hi.
 
-**ZVS:** A nungzuite gel in hih a kampauna za uh ahih manin Jesuh a zui pah uh hi.
+**ZVS:** A nungzuite gel in hih a kampauna za-te ahih manin Jesuh a zui pah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v38
 **EN:** Then Jesus turned, and saw them following, and saith unto them,
 
-**TDB77:** Zeisu kihei a, amaute in a nung a zui uh a muh ciangin, “Bang zong na hi uh hiam?” ci-in a dong hi. Amaute in, “Rabbi aw, koi lai-ah om na hi hiam?” ci-in a dawng uh hi. Rabbi a khiatna in ‘Sia’ cihnopna ahi hi.
+**TDB77:** Zeisu kihei a, amaute in a nung a zui-te a muh ciangin, “Bang zong na hi-te hiam?” ci-in a dong hi. Amaute in, “Rabbi aw, koi lai-ah om na hi hiam?” ci-in a dawng-te hi. Rabbi a khiatna in ‘Sia’ cihnopna ahi hi.
 
-**ZVS:** Jesuh kihei a, amaute gel in a zuihlam a muh ciangin, “Bang zong na hi uh hiam?” ci-in a dong hi. Amaute in, “Sia aw, koi lai-ah om na hi hiam?” ci-in a dawng uh hi.
+**ZVS:** Jesuh kihei a, amaute gel in a zuihlam a muh ciangin, “Bang zong na hi-te hiam?” ci-in a dong hi. Amaute in, “Sia aw, koi lai-ah om na hi hiam?” ci-in a dawng-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v39
 **EN:** He saith unto them,
 
-**TDB77:** Zeisu in, “Hong pai le-uh teh na mu ding uh hi,” a ci hi. Tua ahih ciangin amaute pai-in ama omna a mu uh hi. Tua laitak in nitak nai li hi a, ama kiangah a tamkhawm uh hi.
+**TDB77:** Zeisu in, “Hong pai le-uh teh na mu ding-te hi,” a ci hi. Tua ahih ciangin amaute pai-in ama omna a mu-te hi. Tua laitak in nitak nai li hi a, ama kiangah a tamkhawm-te hi.
 
-**ZVS:** Jesuh in, “Hong pai un la, ka omna mun hong mu un,” a na ci hi. Amaute gel in zong Jesuh va zui uh a, a omna mun a va mu uh hi. Tua hun pen nitak nai li hun pawl ahih manin ama kiangah a giak uh hi.
+**ZVS:** Jesuh in, “Hong pai un la, ka omna mun hong mu un,” a na ci hi. Amaute gel in zong Jesuh va zui-te a, a omna mun a va mu-te hi. Tua hun pen nitak nai li hun pawl ahih manin ama kiangah a giak-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -369,9 +369,9 @@
 ### v41
 **EN:** He first findeth his own brother Simon, and saith unto him, We have found the Messias, which is, being interpreted, the Christ.
 
-**TDB77:** Amah in a u Simon zong masa a, “Messiah ka mu zo uh hi,” ci-in Zeisu kiangah a paipih hi. Messiah a khiatna in ‘Khazih’ cihnopna ahi hi.
+**TDB77:** Amah in a u Simon zong masa a, “Messiah ka mu zo-te hi,” ci-in Zeisu kiangah a paipih hi. Messiah a khiatna in ‘Khazih’ cihnopna ahi hi.
 
-**ZVS:** A zing ciangin a u Simon zongpahin ama kiangah, “Messiah ka mu zo uh hi,” a ci hi. Tua pen Khrih a cihnopna ahi hi.
+**ZVS:** A zing ciangin a u Simon zongpahin ama kiangah, “Messiah ka mu zo-te hi,” a ci hi. Tua pen Khrih a cihnopna ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -403,9 +403,9 @@
 ### v45
 **EN:** Philip findeth Nathanael, and saith unto him, We have found him, of whom Moses in the law, and the prophets, did write, Jesus of Nazareth, the son of Joseph.
 
-**TDB77:** Filip in Nathanael zong a, “Moses in Pasian’ Thukhamna Lai Siangtho sung leh kamsangte in lai sungah a gelhkholhsa Nazareth mi Josef’ tapa Zeisu ka mu zo uh hi,” a ci hi.
+**TDB77:** Filip in Nathanael zong a, “Moses in Pasian’ Thukhamna Lai Siangtho sung leh kamsangte in lai sungah a gelhkholhsa Nazareth mi Josef’ tapa Zeisu ka mu zo-te hi,” a ci hi.
 
-**ZVS:** Nethanel tawh a kituah ciangin Filip in, “Moses in Thukham laibu sungah a gelh mipa, leh kamsangte in zong a gelh mipa ka mu khin uh hi. Amah Jesuh hi a, Nazareth khuami Josef' tapa ahi hi,” a ci hi.
+**ZVS:** Nethanel tawh a kituah ciangin Filip in, “Moses in Thukham laibu sungah a gelh mipa, leh kamsangte in zong a gelh mipa ka mu khin-te hi. Amah Jesuh hi a, Nazareth khuami Josef' tapa ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -459,7 +459,7 @@
 
 **TDB77:** Ke’n aman takpi kong cih-inah, van kihongin Pasian’ vantungmite in Mihing Tapa tungah kahsuk kahto a, om na mu ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin Jesuh in, “Ke'n a mantak kong genin-ah, vantung a kihong na mu ding uh a, Mihing Tapa leh vantung kikalah Pasian' vantung mite a kumsuk a kahto na mu ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin Jesuh in, “Ke'n a mantak kong genin-ah, vantung a kihong na mu ding-te a, Mihing Tapa leh vantung kikalah Pasian' vantung mite a kumsuk a kahto na mu ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 

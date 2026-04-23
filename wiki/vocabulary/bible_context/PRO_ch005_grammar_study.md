@@ -41,9 +41,9 @@
 ### v3
 **EN:** For the lips of a strange woman drop as an honeycomb, and her mouth is smoother than oil:
 
-**TDB77:** Numei paktatte’ kampau, khuaizu bangin khum mahmahin, a thugente uh a neel dakdak hangin,
+**TDB77:** Numei paktatte’ kampau, khuaizu bangin khum mahmahin, a thugente-te a neel dakdak hangin,
 
-**ZVS:** Numei paktatte' kampau khuaizu bangin khum mahmahin a thugente uh a neel dakdak hangin,
+**ZVS:** Numei paktatte' kampau khuaizu bangin khum mahmahin a thugente-te a neel dakdak hangin,
 
 **Grammar:** plural: uh marker
 
@@ -93,27 +93,27 @@
 ### v9
 **EN:** Lest thou give thine honour unto others, and thy years unto the cruel:
 
-**TDB77:** Tua bang na hih kei uh leh, na min hoihna teng uh midang tungah tung ding a, hehpihna a nei lo mite’ khutlum tawh na khan’sih ding uh hi.
+**TDB77:** Tua bang na hih kei-te leh, na min hoihna teng-te midang tungah tung ding a, hehpihna a nei lo mite’ khutlum tawh na khan’sih ding-te hi.
 
-**ZVS:** Tua bang na hih kei uh leh na min hoihna teng uh midang tungah tung ding a, hehpihna a neilo mite' khutlum tawh na khan'sih ding uh hi.
+**ZVS:** Tua bang na hih kei-te leh na min hoihna teng-te midang tungah tung ding a, hehpihna a neilo mite' khutlum tawh na khan'sih ding-te hi.
 
 **Grammar:** future: will | negation: lo | plural: uh marker
 
 ### v10
 **EN:** Lest strangers be filled with thy wealth; and thy labours be in the house of a stranger;
 
-**TDB77:** Khualmite in na neih khempeuh uh la ding a, na sepsa khempeuh uh midangte in ngah ding hi.
+**TDB77:** Khualmite in na neih khempeuh-te la ding a, na sepsa khempeuh-te midangte in ngah ding hi.
 
-**ZVS:** Khualmite in na neihsa teng uh la ding a, na sepsa khempeuh uh midangte in ngah ding uh hi.
+**ZVS:** Khualmite in na neihsa teng-te la ding a, na sepsa khempeuh-te midangte in ngah ding-te hi.
 
 **Grammar:** future: will
 
 ### v11
 **EN:** And thou mourn at the last, when thy flesh and thy body are consumed,
 
-**TDB77:** Na sih kuan uh ciangin thuumin na tau ding uh a, gawng-in na guh guak bekun na om ding uh hi.
+**TDB77:** Na sih kuan-te ciangin thuumin na tau ding-te a, gawng-in na guh guak bekun na om ding-te hi.
 
-**ZVS:** Na sih kuan uh ciangin thumin na tau ding uh a, gawngin na guhguak bekun na om ding uh hi.
+**ZVS:** Na sih kuan-te ciangin thumin na tau ding-te a, gawngin na guhguak bekun na om ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -136,9 +136,9 @@
 ### v14
 **EN:** I was almost in all evil in the midst of the congregation and assembly.
 
-**TDB77:** Tua ahih manin tu-in ka cimawh vat a, mi mai-ah ka min a sia hi,” na ci ciat ding uh hi.
+**TDB77:** Tua ahih manin tu-in ka cimawh vat a, mi mai-ah ka min a sia hi,” na ci ciat ding-te hi.
 
-**ZVS:** Tua ahih manin tu-in ka cimawh vat a, mi' mai-ah ka min a sia hi,” na ci ciat ding uh hi.
+**ZVS:** Tua ahih manin tu-in ka cimawh vat a, mi' mai-ah ka min a sia hi,” na ci ciat ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | plural: uh marker
 

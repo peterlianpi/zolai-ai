@@ -46,9 +46,9 @@
 ### v4
 **EN:** And it came to pass in the ninth year of his reign, in the tenth month, in the tenth day of the month, that Nebuchadrezzar king of Babylon came, he and all his army, against Jerusalem, and pitched against it, and built forts against it round about.
 
-**TDB77:** Tua ciangin amah kumpi a suah zawh a kum kua kum, a kha sawmna, a ni sawm ni-in Babilon kumpipa Nabukhadnezzar in a galkap khempeuh tawh Jerusalem khua sim dingin hong kuan uh a, khuapi kimkotah galdalna a phut uh hi.
+**TDB77:** Tua ciangin amah kumpi a suah zawh a kum kua kum, a kha sawmna, a ni sawm ni-in Babilon kumpipa Nabukhadnezzar in a galkap khempeuh tawh Jerusalem khua sim dingin hong kuan-te a, khuapi kimkotah galdalna a phut-te hi.
 
-**ZVS:** Tua ciangin amah kumpi a suahzawh a kum kua kum, a kha sawmna, a ni sawm ni-in, Babylon kumpipa Nebukhadnezzar in a galkap khempeuh tawh Jerusalem khua a sim dingin hong kuan uh a, khuapi kimkotah galdalna a phut uh hi.
+**ZVS:** Tua ciangin amah kumpi a suahzawh a kum kua kum, a kha sawmna, a ni sawm ni-in, Babylon kumpipa Nebukhadnezzar in a galkap khempeuh tawh Jerusalem khua a sim dingin hong kuan-te a, khuapi kimkotah galdalna a phut-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -64,36 +64,36 @@
 ### v6
 **EN:** And in the fourth month, in the ninth day of the month, the famine was sore in the city, so that there was no bread for the people of the land.
 
-**TDB77:** A kha lina, a ni kua ni ciangin khuapi sungah kial nasia lua ahih manin, mite in an nek ding nei nawn lo uh hi.
+**TDB77:** A kha lina, a ni kua ni ciangin khuapi sungah kial nasia lua ahih manin, mite in an nek ding nei nawn lo-te hi.
 
-**ZVS:** Tua kum a kha lina, a ni kua ni ciangin khuapi sungah kial nasia lua ahih manin, mite in annek ding a nei nawn kei uh hi.
+**ZVS:** Tua kum a kha lina, a ni kua ni ciangin khuapi sungah kial nasia lua ahih manin, mite in annek ding a nei nawn kei-te hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Then the city was broken up, and all the men of war fled, and went forth out of the city by night by the way of the gate between the two walls, which was by the king's garden; (now the Chaldeans were by the city round about:) and they went by the way of the plain.
 
-**TDB77:** Tua ciangin khua kulhpi kiphutlet a, khuapi kimkotah Khaldea mite om napi-in, galkapte in zan laitak-in kumpipa’ huan gei-a kulh tegel kikal-a kongpi tawnin a taikhia sim uh a, Arabah leizang lam a manawh uh hi.
+**TDB77:** Tua ciangin khua kulhpi kiphutlet a, khuapi kimkotah Khaldea mite om napi-in, galkapte in zan laitak-in kumpipa’ huan gei-a kulh tegel kikal-a kongpi tawnin a taikhia sim-te a, Arabah leizang lam a manawh-te hi.
 
-**ZVS:** Tua ciangin khuakulhpi kiphulet a, khuapi kimkotah Khaldea mite om napi-in, zan laitakin kumpipa' huan gei-a kulhte gel kikala kongpi tawnin galkapte taikhiasim uh a, Arabah gam lam a manawh uh hi.
+**ZVS:** Tua ciangin khuakulhpi kiphulet a, khuapi kimkotah Khaldea mite om napi-in, zan laitakin kumpipa' huan gei-a kulhte gel kikala kongpi tawnin galkapte taikhiasim-te a, Arabah gam lam a manawh-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** But the army of the Chaldeans pursued after the king, and overtook Zedekiah in the plains of Jericho; and all his army was scattered from him.
 
-**TDB77:** Ahih hangin Khaldea galkapte in Zedekiah kumpipa a nungdelh uh a, Jerikho leizang-ah a phak uh ciangin a galkap khempeuh in kikhen thangin amah a taisan uh hi.
+**TDB77:** Ahih hangin Khaldea galkapte in Zedekiah kumpipa a nungdelh-te a, Jerikho leizang-ah a phak-te ciangin a galkap khempeuh in kikhen thangin amah a taisan-te hi.
 
-**ZVS:** Ahih hangin Khaldea galkapte in kumpi Zedekiah nungdelh uh a, Jerikho zanglei-ah a phak uh ciangin a galkap khempeuh kithehthangin amah a taisan uh hi.
+**ZVS:** Ahih hangin Khaldea galkapte in kumpi Zedekiah nungdelh-te a, Jerikho zanglei-ah a phak-te ciangin a galkap khempeuh kithehthangin amah a taisan-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** Then they took the king, and carried him up unto the king of Babylon to Riblah in the land of Hamath; where he gave judgment upon him.
 
-**TDB77:** Tua ciangin amaute in kumpipa a mat khit uh ciangin Hamath gam Riblah khua-ah Babilon kumpipa kiangah a puak uh a, amah in thukhenna a pia hi.
+**TDB77:** Tua ciangin amaute in kumpipa a mat khit-te ciangin Hamath gam Riblah khua-ah Babilon kumpipa kiangah a puak-te a, amah in thukhenna a pia hi.
 
-**ZVS:** Amaute in kumpipa a mat khit uh ciangin Hamath gam Riblah khua-a Babylon kumpipa kiangah puak uh a, amah in thukhenna a pia hi.
+**ZVS:** Amaute in kumpipa a mat khit-te ciangin Hamath gam Riblah khua-a Babylon kumpipa kiangah puak-te a, amah in thukhenna a pia hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -130,7 +130,7 @@
 ### v14
 **EN:** And all the army of the Chaldeans, that were with the captain of the guard, brake down all the walls of Jerusalem round about.
 
-**TDB77:** Amah tawh a omkhawm Khaldea galkap khempeuh in Jerusalem khua kimkot a, kulh khempeuh a susia uh hi.
+**TDB77:** Amah tawh a omkhawm Khaldea galkap khempeuh in Jerusalem khua kimkot a, kulh khempeuh a susia-te hi.
 
 **ZVS:** Amah tawh a omkhawm a galkap khempeuh in Jerusalem khua kimkota kulh khempeuh a susia hi.
 
@@ -157,27 +157,27 @@
 ### v17
 **EN:** Also the pillars of brass that were in the house of the
 
-**TDB77:** Khaldea mite in Topa’ biakinnpi sunga a om sumngo khuamte, sumngo tuikuang leh a din’nate suzangawp uh a, sumngo khempeuh Babilon-ah a la uh hi.
+**TDB77:** Khaldea mite in Topa’ biakinnpi sunga a om sumngo khuamte, sumngo tuikuang leh a din’nate suzangawp-te a, sumngo khempeuh Babilon-ah a la-te hi.
 
-**ZVS:** Babylon mite in { Topa' } biakinnpi sungah a om sumngo khuamte, sumngo tuikuang leh a ngaknate suzan gawp uh a, sumngo khempeuh Babylon-ah a la uh hi.
+**ZVS:** Babylon mite in { Topa' } biakinnpi sungah a om sumngo khuamte, sumngo tuikuang leh a ngaknate suzan gawp-te a, sumngo khempeuh Babylon-ah a la-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** The caldrons also, and the shovels, and the snuffers, and the bowls, and the spoons, and all the vessels of brass wherewith they ministered, took they away.
 
-**TDB77:** Tua banah, biak piakna-a kizang belte, vut luahnate, taitehte, kuangte, sikkeute leh biakinn kikhopna-a kizang sumngo tawh a kibawl kuangte khempeuh zong a la uh hi.
+**TDB77:** Tua banah, biak piakna-a kizang belte, vut luahnate, taitehte, kuangte, sikkeute leh biakinn kikhopna-a kizang sumngo tawh a kibawl kuangte khempeuh zong a la-te hi.
 
-**ZVS:** Tua banah, biakpiakna-a kizang beelte, vutluahnate, taitehte, kuangte, sikkeute, leh biakinn kikhopna-a kizang sumngo tawh a kibawl kuangte khempeuh zong a la uh hi.
+**ZVS:** Tua banah, biakpiakna-a kizang beelte, vutluahnate, taitehte, kuangte, sikkeute, leh biakinn kikhopna-a kizang sumngo tawh a kibawl kuangte khempeuh zong a la-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And the basins, and the firepans, and the bowls, and the caldrons, and the candlesticks, and the spoons, and the cups; that which was of gold in gold, and that which was of silver in silver, took the captain of the guard away.
 
-**TDB77:** Biak piakna-a kizang keu neute, meiam luahna kuang daite, kuangte, belte, khuaimeivak vakna khuamte, sikkeute leh tui buah nadinga kizang keute zong a la uh hi, Kham tawh a kibawl nate kham dingin ahi zongin, ngun tawh a kibawl nate ngun dingin ahi zongin kumpi cing galkap mangpa in a lakhia hi.
+**TDB77:** Biak piakna-a kizang keu neute, meiam luahna kuang daite, kuangte, belte, khuaimeivak vakna khuamte, sikkeute leh tui buah nadinga kizang keute zong a la-te hi, Kham tawh a kibawl nate kham dingin ahi zongin, ngun tawh a kibawl nate ngun dingin ahi zongin kumpi cing galkap mangpa in a lakhia hi.
 
-**ZVS:** Biakpiakna-a kizang keuneute, mei-am luahna kuangdaite, kuangte, beelte, khuai meivakkhuamte, sikkeute, leh tuibuahna dinga kizang keute zong a la uh hi. Kham tawh a kibawl nate kham dingin ahi zongin, ngun tawh a kibawl nate ngun dingin ahi zongin kumpi cing galkapmangpa in a lakhia hi.
+**ZVS:** Biakpiakna-a kizang keuneute, mei-am luahna kuangdaite, kuangte, beelte, khuai meivakkhuamte, sikkeute, leh tuibuahna dinga kizang keute zong a la-te hi. Kham tawh a kibawl nate kham dingin ahi zongin, ngun tawh a kibawl nate ngun dingin ahi zongin kumpi cing galkapmangpa in a lakhia hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

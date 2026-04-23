@@ -138,9 +138,9 @@
 ### v14
 **EN:** And this is the law of the meat offering: the sons of Aaron shall offer it before the
 
-**TDB77:** “Tua ciangin hihte in an tawh biakna ngeinate ahi hi. Aaron’ suante in biakna tau mai, Topa’ mai-ah pia ding uh hi.
+**TDB77:** “Tua ciangin hihte in an tawh biakna ngeinate ahi hi. Aaron’ suante in biakna tau mai, Topa’ mai-ah pia ding-te hi.
 
-**ZVS:** “Tua ciangin an tawh biakna ngeina hih bang ahi hi. Aaron' suante in biakna tau mai, { Topa' } mai-ah pia ding uh hi.
+**ZVS:** “Tua ciangin an tawh biakna ngeina hih bang ahi hi. Aaron' suante in biakna tau mai, { Topa' } mai-ah pia ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -156,9 +156,9 @@
 ### v16
 **EN:** And the remainder thereof shall Aaron and his sons eat: with unleavened bread shall it be eaten in the holy place; in the court of the tabernacle of the congregation they shall eat it.
 
-**TDB77:** Aaron leh a tapate in a om lai teng ne ding uh hi; a siangtho mun khatah silngo sawh loh kine ding hi; kikhopna buk tual ah ne ding uh hi.
+**TDB77:** Aaron leh a tapate in a om lai teng ne ding-te hi; a siangtho mun khatah silngo sawh loh kine ding hi; kikhopna buk tual ah ne ding-te hi.
 
-**ZVS:** Aaron leh a tapate in a omlai teng ne ding uh hi. A siangtho mun khatah silngo sawhlohin ne ding uh a, kikhopna buktual sung mun khat hi ding hi.
+**ZVS:** Aaron leh a tapate in a omlai teng ne ding-te hi. A siangtho mun khatah silngo sawhlohin ne ding-te a, kikhopna buktual sung mun khat hi ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -174,7 +174,7 @@
 ### v18
 **EN:** All the males among the children of Aaron shall eat of it. It shall be a statute for ever in your generations concerning the offerings of the
 
-**TDB77:** Na khang tawntung uh adingin thu hong kipiak mah bangin, Topa tungah meihal biakna a kipiakna panin Aaron’ suante lakah pasal peuhmah in tuate ne thei ding hi; tuate a lawng peuhmah a siangtho suak ding hi,” a ci hi.
+**TDB77:** Na khang tawntung-te adingin thu hong kipiak mah bangin, Topa tungah meihal biakna a kipiakna panin Aaron’ suante lakah pasal peuhmah in tuate ne thei ding hi; tuate a lawng peuhmah a siangtho suak ding hi,” a ci hi.
 
 **ZVS:** Na khang tawntung uha dingin thu hong kipiak mah bangin, { Topa' } tungah meihal biakna a kipiakna panin Aaron' suante lakah pasal peuhmah in tuate ne thei ding hi. Tuate a lawng peuhmah a siangtho suak ding hi,” a ci hi.
 
@@ -273,9 +273,9 @@
 ### v29
 **EN:** All the males among the priests shall eat thereof: it is most holy.
 
-**TDB77:** Siampite lak panin pasal peuhmah in ne thei ding uh hi; tua in a siangthopen ahi hi.
+**TDB77:** Siampite lak panin pasal peuhmah in ne thei ding-te hi; tua in a siangthopen ahi hi.
 
-**ZVS:** Siampite' lak panin pasal peuhmah in ne thei ding uh hi. Tua in a siangtho pen ahi hi.
+**ZVS:** Siampite' lak panin pasal peuhmah in ne thei ding-te hi. Tua in a siangtho pen ahi hi.
 
 **Grammar:** future: will | plural: uh marker
 

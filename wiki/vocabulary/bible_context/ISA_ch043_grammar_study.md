@@ -86,18 +86,18 @@
 ### v9
 **EN:** Let all the nations be gathered together, and let the people be assembled: who among them can declare this, and shew us former things? let them bring forth their witnesses, that they may be justified: or let them hear, and say, It is truth.
 
-**TDB77:** Minamte kikaikhawm sak un la, mihingte kikhawm sak un. Amaute’ lak panin kua in hih thu hong genkhol thei-in, a beisa hun-a nate kua in hong lak thei ahi hiam? Amau’ dikna a langsak dingin a tecite uh hong paipih sak un la, amaute a thu za sakin, man mah hi, ci sak un.
+**TDB77:** Minamte kikaikhawm sak un la, mihingte kikhawm sak un. Amaute’ lak panin kua in hih thu hong genkhol thei-in, a beisa hun-a nate kua in hong lak thei ahi hiam? Amau’ dikna a langsak dingin a tecite-te hong paipih sak un la, amaute a thu za sakin, man mah hi, ci sak un.
 
-**ZVS:** Minamte khempeuh kikaikhawmsak un la, mihingte kikhawmsak un. Amaute' lak panin kua in hih thu hong genkhia thei-in, a beisa huna nate kua in laktel thei ahi hiam? Amau' dikna a langsak dingin a tecite uh hong paipihsak un la, amaute a thu zasakin, man mah hi, cisak un.
+**ZVS:** Minamte khempeuh kikaikhawmsak un la, mihingte kikhawmsak un. Amaute' lak panin kua in hih thu hong genkhia thei-in, a beisa huna nate kua in laktel thei ahi hiam? Amau' dikna a langsak dingin a tecite-te hong paipihsak un la, amaute a thu zasakin, man mah hi, cisak un.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v10
 **EN:** Ye are my witnesses, saith the
 
-**TDB77:** “Note in keima tecite na hi uh hi,” Topa in ci a, “Kei pen Amah ka hihna thu, nangmah in thei-in keimah nong up nading leh na theihtel theih nadingin kong teelsa ka nasempa na hi hi. Kei’ ma-in pasian om lo a, kei’ khit ah zong kuamah om lo ding hi.
+**TDB77:** “Note in keima tecite na hi-te hi,” Topa in ci a, “Kei pen Amah ka hihna thu, nangmah in thei-in keimah nong up nading leh na theihtel theih nadingin kong teelsa ka nasempa na hi hi. Kei’ ma-in pasian om lo a, kei’ khit ah zong kuamah om lo ding hi.
 
-**ZVS:** “Note pen keima teci na hi uh hi,” { Topa } in ci a, “Kei pen Amah ka hihna thu, nangmah in thei-in keimah nong upna ding, nong theihtelna dingin kong teelsa ka nasempa na hi hi. Kei' ma-in pasian omlo a, kei' khitah zong kuamah omlo ding hi.
+**ZVS:** “Note pen keima teci na hi-te hi,” { Topa } in ci a, “Kei pen Amah ka hihna thu, nangmah in thei-in keimah nong upna ding, nong theihtelna dingin kong teelsa ka nasempa na hi hi. Kei' ma-in pasian omlo a, kei' khitah zong kuamah omlo ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: lo | plural: uh marker
 
@@ -113,9 +113,9 @@
 ### v12
 **EN:** I have declared, and have saved, and I have shewed, when there was no strange god among you: therefore ye are my witnesses, saith the
 
-**TDB77:** Note lakah pasian dang a om ma-in honkhia-in, pulak-in, ka gen khol hi; tua ahih ciangin note in keima tecite na hi uh hi,” Topa in ci hi.
+**TDB77:** Note lakah pasian dang a om ma-in honkhia-in, pulak-in, ka gen khol hi; tua ahih ciangin note in keima tecite na hi-te hi,” Topa in ci hi.
 
-**ZVS:** Note lakah pasian dang a om ma-in honkhia-in, pulakin, ka genkhol hi. Tua ahih ciangin note pen keima teci na hi uh hi,” { Topa } in ci hi.
+**ZVS:** Note lakah pasian dang a om ma-in honkhia-in, pulakin, ka genkhol hi. Tua ahih ciangin note pen keima teci na hi-te hi,” { Topa } in ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -161,16 +161,16 @@
 ### v19
 **EN:** Behold, I will do a new thing; now it shall spring forth; shall ye not know it? I will even make a way in the wilderness, and rivers in the desert.
 
-**TDB77:** En un, a thak na khat ka bawl hi; tu-in hong piang khia hi, note in thei lo na hi uh hiam? Gam lakah lam lianpi khat ka bawl ding a, sehnel gam sungah gunte ka bawl ding hi.
+**TDB77:** En un, a thak na khat ka bawl hi; tu-in hong piang khia hi, note in thei lo na hi-te hiam? Gam lakah lam lianpi khat ka bawl ding a, sehnel gam sungah gunte ka bawl ding hi.
 
-**ZVS:** Tu-in a thak na khat ka bawl a, tu-in hong piangkhia hi. Note in theilo na hi uh hiam? Gamlakah lam lianpi khat ka bawl ding a, sehnel gamsungah gunte ka luangsak ding hi.
+**ZVS:** Tu-in a thak na khat ka bawl a, tu-in hong piangkhia hi. Note in theilo na hi-te hiam? Gamlakah lam lianpi khat ka bawl ding a, sehnel gamsungah gunte ka luangsak ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
 ### v21
 **EN:** This people have I formed for myself; they shall shew forth my praise.
 
-**TDB77:** Gamsate, ngiate, leh vasa-kalaohte in kei hong pahtawi ding uh hi. Bang hang hiam cih leh keima-a' dingin ka pian'sak mite in keimah hong phatna a genkhiat theihna dingun, keima teel mite' dawn dingin gamlakah tui pia-in, sehnel gamsungah gun ka luangsak hi.
+**TDB77:** Gamsate, ngiate, leh vasa-kalaohte in kei hong pahtawi ding-te hi. Bang hang hiam cih leh keima-a' dingin ka pian'sak mite in keimah hong phatna a genkhiat theihna dingun, keima teel mite' dawn dingin gamlakah tui pia-in, sehnel gamsungah gun ka luangsak hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
@@ -222,16 +222,16 @@
 ### v27
 **EN:** Thy first father hath sinned, and thy teachers have transgressed against me.
 
-**TDB77:** Na pu na pa masate khial a, na makaite uh zong kei tungah hong khial hi.
+**TDB77:** Na pu na pa masate khial a, na makaite-te zong kei tungah hong khial hi.
 
-**ZVS:** Na pu na pa masate uh na khial uh a, na makaite uh zong kei tungah hong khial uh hi.
+**ZVS:** Na pu na pa masate-te na khial-te a, na makaite-te zong kei tungah hong khial-te hi.
 
 ### v28
 **EN:** Therefore I have profaned the princes of the sanctuary, and have given Jacob to the curse, and Israel to reproaches.
 
-**TDB77:** Na uliante un ka biakinn mindaisak uh ahih manin, Israel tungah zahhuaina ka tungsak a, Jakob ka siasak hi.
+**TDB77:** Na uliante un ka biakinn mindaisak-te ahih manin, Israel tungah zahhuaina ka tungsak a, Jakob ka siasak hi.
 
-**ZVS:** Na uliante un ka biakinn mindaisak uh ahih manin Israel tungah siatna ka tungsak a, Jakob ka mindaisak hi,” a ci hi.
+**ZVS:** Na uliante un ka biakinn mindaisak-te ahih manin Israel tungah siatna ka tungsak a, Jakob ka mindaisak hi,” a ci hi.
 
 **Grammar:** causal: because
 

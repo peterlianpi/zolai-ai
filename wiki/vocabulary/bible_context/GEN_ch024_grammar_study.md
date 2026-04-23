@@ -127,7 +127,7 @@
 ### v13
 **EN:** Behold, I stand here by the well of water; and the daughters of the men of the city come out to draw water:
 
-**TDB77:** En in, tuikhuk gei-ah kei ka ding a, khuapi nungakte tuitawi dingin hong pai uh hi.
+**TDB77:** En in, tuikhuk gei-ah kei ka ding a, khuapi nungakte tuitawi dingin hong pai-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -233,9 +233,9 @@
 ### v25
 **EN:** She said moreover unto him, We have both straw and provender enough, and room to lodge in.
 
-**TDB77:** Amah in, “Buhkung leh gan-an a kicing ka nei uh a, giah nading mun zong ka nei uh hi,” ci thuah lai hi.
+**TDB77:** Amah in, “Buhkung leh gan-an a kicing ka nei-te a, giah nading mun zong ka nei-te hi,” ci thuah lai hi.
 
-**ZVS:** Amah in, “Buhkung leh gan-an a kicing ka nei uh a, giahna ding mun zong ka nei uh hi,” ci thuah lai hi.
+**ZVS:** Amah in, “Buhkung leh gan-an a kicing ka nei-te a, giahna ding mun zong ka nei-te hi,” ci thuah lai hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -445,27 +445,27 @@
 ### v49
 **EN:** And now if ye will deal kindly and truly with my master, tell me: and if not, tell me; that I may turn to the right hand, or to the left.
 
-**TDB77:** Tua ahih ciangin tu-in, tak lamah ahi zongin vei lamah ahi zongin ka kihei theih nadingin ka topa' tungah hoih tak leh thuman takin na gamtat ding uh leh hong gen un; tua ahih kei leh zong hong gen un,” ci hi.
+**TDB77:** Tua ahih ciangin tu-in, tak lamah ahi zongin vei lamah ahi zongin ka kihei theih nadingin ka topa' tungah hoih tak leh thuman takin na gamtat ding-te leh hong gen un; tua ahih kei leh zong hong gen un,” ci hi.
 
-**ZVS:** Tua ahih ciangin tu-in, ka gamtatna ding zia ka theihna dingin ka topa' tungah hoihtak leh thuman takin na gamtat ding uh leh na gamtat loh ding uh hong gen un,” a ci hi.
+**ZVS:** Tua ahih ciangin tu-in, ka gamtatna ding zia ka theihna dingin ka topa' tungah hoihtak leh thuman takin na gamtat ding-te leh na gamtat loh ding-te hong gen un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v50
 **EN:** Then Laban and Bethuel answered and said, The thing proceedeth from the
 
-**TDB77:** Tua ciangin Laban leh Bethuel in dawng a, “Hih pen Topa’ kiang panin hong pai ahi hi; a sia ahi zongin a pha ahi zongin nang' tungah kong gen thei kei uh hi,
+**TDB77:** Tua ciangin Laban leh Bethuel in dawng a, “Hih pen Topa’ kiang panin hong pai ahi hi; a sia ahi zongin a pha ahi zongin nang' tungah kong gen thei kei-te hi,
 
-**ZVS:** Tua ciangin Laban leh Bethuel in dawng a, “Hih thu pen { Topa' } kiang panin hong pai thu ahi hi. A sia ahi zongin a pha ahi zongin nang tungah kong gen ding dang uh omlo hi.
+**ZVS:** Tua ciangin Laban leh Bethuel in dawng a, “Hih thu pen { Topa' } kiang panin hong pai thu ahi hi. A sia ahi zongin a pha ahi zongin nang tungah kong gen ding dang-te omlo hi.
 
 **Grammar:** sequence: then/therefore | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v51
 **EN:** Behold, Rebekah is before thee, take her, and go, and let her be thy master's son's wife, as the
 
-**TDB77:** En in, Rebekah na mai-ah om hi, amah la in la pai un, Topa’ gensa bangin na topa’ tapa’ zi hisak un,” ci uh hi.
+**TDB77:** En in, Rebekah na mai-ah om hi, amah la in la pai un, Topa’ gensa bangin na topa’ tapa’ zi hisak un,” ci-te hi.
 
-**ZVS:** En in, Rebekah na mai-ah om hi. Amah la in la pai un. { Topa' } gensa bangin na topa' tapa' zi hisak un,” a ci uh hi.
+**ZVS:** En in, Rebekah na mai-ah om hi. Amah la in la pai un. { Topa' } gensa bangin na topa' tapa' zi hisak un,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -488,18 +488,18 @@
 ### v54
 **EN:** And they did eat and drink, he and the men that were with him, and tarried all night; and they rose up in the morning, and he said, Send me away unto my master.
 
-**TDB77:** Amah leh amah tawh a omkhawmte in ne-in dawnin, tua lai-ah tua zan giak uh hi. Amaute zingsangin a thawh uh ciangin amah in, “Ka topa' kiangah hong ciahsak kik un,” ci hi.
+**TDB77:** Amah leh amah tawh a omkhawmte in ne-in dawnin, tua lai-ah tua zan giak-te hi. Amaute zingsangin a thawh-te ciangin amah in, “Ka topa' kiangah hong ciahsak kik un,” ci hi.
 
-**ZVS:** Tua ciangin amah leh a nungzuite in an ne tui dawnin, tua lai-ah tua zan a giak uh hi. Amaute zingsangin a thawh uh ciangin amah in, “Ka topa' kiangah hong ciahsak kik un,” a ci hi.
+**ZVS:** Tua ciangin amah leh a nungzuite in an ne tui dawnin, tua lai-ah tua zan a giak-te hi. Amaute zingsangin a thawh-te ciangin amah in, “Ka topa' kiangah hong ciahsak kik un,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v55
 **EN:** And her brother and her mother said, Let the damsel abide with us a few days, at the least ten; after that she shall go.
 
-**TDB77:** A sanggampa leh a nu in,” A tawm penin ni sawm bang, ko tawh numei hong omsak lai in; tua khit ciangin amah hong pai thei ding hi,” ci uh hi.
+**TDB77:** A sanggampa leh a nu in,” A tawm penin ni sawm bang, ko tawh numei hong omsak lai in; tua khit ciangin amah hong pai thei ding hi,” ci-te hi.
 
-**ZVS:** Ahi zongin a sanggampa leh a nu in, “A tawm penin ni sawm bang, ko tawh numei hong omsak lai in; tua khit ciangin amah hong pai thei ding hi,” a ci uh hi.
+**ZVS:** Ahi zongin a sanggampa leh a nu in, “A tawm penin ni sawm bang, ko tawh numei hong omsak lai in; tua khit ciangin amah hong pai thei ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -515,45 +515,45 @@
 ### v57
 **EN:** And they said, We will call the damsel, and enquire at her mouth.
 
-**TDB77:** Amaute in, “A numei sam-in amah i dong ding hi,” ci uh hi.
+**TDB77:** Amaute in, “A numei sam-in amah i dong ding hi,” ci-te hi.
 
-**ZVS:** Amaute in, “A numei samin amah i dong ding hi,” a ci uh hi.
+**ZVS:** Amaute in, “A numei samin amah i dong ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v58
 **EN:** And they called Rebekah, and said unto her, Wilt thou go with this man? And she said, I will go.
 
-**TDB77:** Amaute in Rebekah sam uh a, ama' kiangah, “Hih mipa tawh na pai ding hiam?” ci uh hi. Amah in, “Ka pai ding hi,” ci hi.
+**TDB77:** Amaute in Rebekah sam-te a, ama' kiangah, “Hih mipa tawh na pai ding hiam?” ci-te hi. Amah in, “Ka pai ding hi,” ci hi.
 
-**ZVS:** Amaute in Rebekah samin ama kiangah, “Hih mipa na zui pah ding hiam?” a ci uh hi. Amah in, “Ka zui ding hi,” ci pah hi.
+**ZVS:** Amaute in Rebekah samin ama kiangah, “Hih mipa na zui pah ding hiam?” a ci-te hi. Amah in, “Ka zui ding hi,” ci pah hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v59
 **EN:** And they sent away Rebekah their sister, and her nurse, and Abraham's servant, and his men.
 
-**TDB77:** Tua ahih ciangin amaute in a sanggamnu uh Rebekah leh a cingnu, Abraham’ nasempa leh a mihingte ciah khiasak uh hi.
+**TDB77:** Tua ahih ciangin amaute in a sanggamnu-te Rebekah leh a cingnu, Abraham’ nasempa leh a mihingte ciah khiasak-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in a sanggamnu uh Rebekah leh a cingnu, Abraham' nasempa leh a nungzuite tawh ciahkhiasak uh hi.
+**ZVS:** Tua ahih ciangin amaute in a sanggamnu-te Rebekah leh a cingnu, Abraham' nasempa leh a nungzuite tawh ciahkhiasak-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v60
 **EN:** And they blessed Rebekah, and said unto her, Thou art our sister, be thou the mother of thousands of millions, and let thy seed possess the gate of those which hate them.
 
-**TDB77:** Amaute in Rebekah thupha pia-in ama' kiangah, “Kote’ sanggamnu aw, a tul-tul a then-thente’ nu hi ta in; na suan-le-khakte in amau a mudahte’ khuapite luah ta uh hen!” ci uh hi.
+**TDB77:** Amaute in Rebekah thupha pia-in ama' kiangah, “Kote’ sanggamnu aw, a tul-tul a then-thente’ nu hi ta in; na suan-le-khakte in amau a mudahte’ khuapite luah ta-te hen!” ci-te hi.
 
-**ZVS:** Amaute in Rebekah thupha pia-in ama kiangah, “Kote' sanggamnu aw, a tultul a thenthente' nu hi ta in. Na suanlekhakte in amau a mudahte' khuapite luah ta uh hen!” a ci uh hi.
+**ZVS:** Amaute in Rebekah thupha pia-in ama kiangah, “Kote' sanggamnu aw, a tultul a thenthente' nu hi ta in. Na suanlekhakte in amau a mudahte' khuapite luah ta-te hen!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v61
 **EN:** And Rebekah arose, and her damsels, and they rode upon the camels, and followed the man: and the servant took Rebekah, and went his way.
 
-**TDB77:** Tua ciangin Rebekah leh a numeite dingin, kalaohte' tungah tuangin mipa zui uh hi; tua ahih manin nasempa in Rebekah la-in a pai nading lam-ah pai hi.
+**TDB77:** Tua ciangin Rebekah leh a numeite dingin, kalaohte' tungah tuangin mipa zui-te hi; tua ahih manin nasempa in Rebekah la-in a pai nading lam-ah pai hi.
 
-**ZVS:** Tua ciangin Rebekah leh a numeite dingin, kalaohte tungah tuangin mipa a zui uh hi. Tua bangin nasempa in Rebekah la-in a paina ding lamah a pai hi.
+**ZVS:** Tua ciangin Rebekah leh a numeite dingin, kalaohte tungah tuangin mipa a zui-te hi. Tua bangin nasempa in Rebekah la-in a paina ding lamah a pai hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | causal: because | plural: uh marker
 

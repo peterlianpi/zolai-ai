@@ -78,9 +78,9 @@
 ### v7
 **EN:** And I will take away his blood out of his mouth, and his abominations from between his teeth: but he that remaineth, even he, shall be for our God, and he shall be as a governor in Judah, and Ekron as a Jebusite.
 
-**TDB77:** Amaute in sa, a sisan tawh ne nawn lo ding uh a, a kikham ante zong tang ding uh hi. A suakta sun teng, keima mite suak ding uh a, Judah minam lakah beh khat bang ding uh hi. Jebus mite mah bangin Ekron khuamite zong, keima mi suak ding uh hi.
+**TDB77:** Amaute in sa, a sisan tawh ne nawn lo ding-te a, a kikham ante zong tang ding-te hi. A suakta sun teng, keima mite suak ding-te a, Judah minam lakah beh khat bang ding-te hi. Jebus mite mah bangin Ekron khuamite zong, keima mi suak ding-te hi.
 
-**ZVS:** Amaute in sa, a si tawh ne nawnlo ding uh a, a kikham ante zong tang ding uh hi. A suakta sunteng, keima mite suak ding uh a, Judah mite lakah beh khat bang ding uh hi. Jebus mite mah bangin Ekron khua mite zong keima mi suak ding uh hi.
+**ZVS:** Amaute in sa, a si tawh ne nawnlo ding-te a, a kikham ante zong tang ding-te hi. A suakta sunteng, keima mite suak ding-te a, Judah mite lakah beh khat bang ding-te hi. Jebus mite mah bangin Ekron khua mite zong keima mi suak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** Rejoice greatly, O daughter of Zion; shout, O daughter of Jerusalem: behold, thy King cometh unto thee: he is just, and having salvation; lowly, and riding upon an ass, and upon a colt the foal of an ass.
 
-**TDB77:** Zion mite aw, nakpi takin lungdam un. Jerusalem mite aw, lungdamin awng un. En un, na kumpipa uh hong pai hi. Amah, dikna leh gupkhiatna tawh hong pai a, ahi zongin kiniamkhiatna tawh hong pai-in sin nai loh lano tungah hong tuang hi.
+**TDB77:** Zion mite aw, nakpi takin lungdam un. Jerusalem mite aw, lungdamin awng un. En un, na kumpipa-te hong pai hi. Amah, dikna leh gupkhiatna tawh hong pai a, ahi zongin kiniamkhiatna tawh hong pai-in sin nai loh lano tungah hong tuang hi.
 
-**ZVS:** Zion mite aw, nakpi takin lungdam un. Jerusalem mite aw, lungdamin awng un. En un, na kumpipa uh hong pai hi. Amah, gualzawhna tawh hong pai hi. Ahi zongin kiniamkhiatna tawh hong pai a, sin nailoh lano tungah hong tuang hi.
+**ZVS:** Zion mite aw, nakpi takin lungdam un. Jerusalem mite aw, lungdamin awng un. En un, na kumpipa-te hong pai hi. Amah, gualzawhna tawh hong pai hi. Ahi zongin kiniamkhiatna tawh hong pai a, sin nailoh lano tungah hong tuang hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -114,18 +114,18 @@
 ### v11
 **EN:** As for thee also, by the blood of thy covenant I have sent forth thy prisoners out of the pit wherein is no water.
 
-**TDB77:** Sisan tawh a kikipsak, note tawh ka thuciamna hangin, na salsuahna uh keugaw gam panin, note ka hong suaktasak ding hi.
+**TDB77:** Sisan tawh a kikipsak, note tawh ka thuciamna hangin, na salsuahna-te keugaw gam panin, note ka hong suaktasak ding hi.
 
-**ZVS:** Sisan tawh a kikipsak, note tawh ka thuciamna hangin na salsuahna uh keugaw gam panin note ka hong suaktasak ding hi.
+**ZVS:** Sisan tawh a kikipsak, note tawh ka thuciamna hangin na salsuahna-te keugaw gam panin note ka hong suaktasak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v12
 **EN:** Turn you to the strong hold, ye prisoners of hope: even to day do I declare that I will render double unto thee;
 
-**TDB77:** Lametna a om ta, no salte aw, ciahkik un la, a muanhuai na mun ngei uh zuankik un. Note’ thuaknasa a zah nihin, thupha ka hong piak nading, tu ni-in note kiangah ka hong gen hi.
+**TDB77:** Lametna a om ta, no salte aw, ciahkik un la, a muanhuai na mun ngei-te zuankik un. Note’ thuaknasa a zah nihin, thupha ka hong piak nading, tu ni-in note kiangah ka hong gen hi.
 
-**ZVS:** Lametna a om no salte aw, ciahkik un la, a muan'huai mahmah na mun ngei uh zuankik un. Note' thuaknasa a zah nihin thupha ka hong piakna ding tuni-in note kiangah ka hong gen hi.
+**ZVS:** Lametna a om no salte aw, ciahkik un la, a muan'huai mahmah na mun ngei-te zuankik un. Note' thuaknasa a zah nihin thupha ka hong piakna ding tuni-in note kiangah ka hong gen hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -150,18 +150,18 @@
 ### v15
 **EN:** The
 
-**TDB77:** Vanglianpen Topa in ama mite hu ding a, ama mite in a galte uh susia ding hi. Galdona sungah, zukham bangin awng gawp ding uh a, a galte uh’ sisan luangsak gawp ding uh hi. Biakna site, biakna tau tungah, hai-a sun tawh kibangin luangsak ding uh hi.
+**TDB77:** Vanglianpen Topa in ama mite hu ding a, ama mite in a galte-te susia ding hi. Galdona sungah, zukham bangin awng gawp ding-te a, a galte uh’ sisan luangsak gawp ding-te hi. Biakna site, biakna tau tungah, hai-a sun tawh kibangin luangsak ding-te hi.
 
-**ZVS:** Vanglian { Topa } in ama mite hu ding a, ama mite in a galte uh susia ding hi. Galdona sungah zukham bangin awng gawp ding uh a, a galte uh' sisan luangsakgawp ding uh hi. Biakna site, biakna tau tungah hai-a sun tawh kibangin a luangsak ding uh hi.
+**ZVS:** Vanglian { Topa } in ama mite hu ding a, ama mite in a galte-te susia ding hi. Galdona sungah zukham bangin awng gawp ding-te a, a galte uh' sisan luangsakgawp ding-te hi. Biakna site, biakna tau tungah hai-a sun tawh kibangin a luangsak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And the
 
-**TDB77:** Tuucingpa in a tuuhonte, lauhuaina pan a hot bangin, tua ni ciangin Topa, amau’ Pasian in a mite honkhia ding hi. Kumpi lukhu tunga suangmanphate bangin, ama gam sungah a mite taang ding uh hi.
+**TDB77:** Tuucingpa in a tuuhonte, lauhuaina pan a hot bangin, tua ni ciangin Topa, amau’ Pasian in a mite honkhia ding hi. Kumpi lukhu tunga suangmanphate bangin, ama gam sungah a mite taang ding-te hi.
 
-**ZVS:** Tuucingpa in a tuuhonte lauhuaina panin a hotkhiat bangin, tua ni ciangin { Topa, } amau' Pasian in a mite a honkhia ding hi. Kumpi lukhu tungah a om suangmanphate bangin ama gamsungah a mite taang ding uh hi.
+**ZVS:** Tuucingpa in a tuuhonte lauhuaina panin a hotkhiat bangin, tua ni ciangin { Topa, } amau' Pasian in a mite a honkhia ding hi. Kumpi lukhu tungah a om suangmanphate bangin ama gamsungah a mite taang ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

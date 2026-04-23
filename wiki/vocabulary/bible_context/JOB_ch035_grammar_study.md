@@ -90,27 +90,27 @@
 ### v9
 **EN:** By reason of the multitude of oppressions they make the oppressed to cry: they cry out by reason of the arm of the mighty.
 
-**TDB77:** “Mite in gimna a thuak uh ciang tau uh a, amaute a hon dingin midang khatpeuh sam uh hi.
+**TDB77:** “Mite in gimna a thuak-te ciang tau-te a, amaute a hon dingin midang khatpeuh sam-te hi.
 
-**ZVS:** “Mite in gim a thuak ciangin tau uh a, amaute a honkhia dingin midang khatpeuh a sam uh hi.
+**ZVS:** “Mite in gim a thuak ciangin tau-te a, amaute a honkhia dingin midang khatpeuh a sam-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v10
 **EN:** But none saith, Where is God my maker, who giveth songs in the night;
 
-**TDB77:** Lungziin’ pen hun lai takin thahatna a pia, amau a Piangsakpa Pasian’ lam nga lo uh hi.
+**TDB77:** Lungziin’ pen hun lai takin thahatna a pia, amau a Piangsakpa Pasian’ lam nga lo-te hi.
 
-**ZVS:** Lungzin' hun laitakin thahatna a pia, amaute a Piangsak Pasian' lam ngalo uh hi.
+**ZVS:** Lungzin' hun laitakin thahatna a pia, amaute a Piangsak Pasian' lam ngalo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v11
 **EN:** Who teacheth us more than the beasts of the earth, and maketh us wiser than the fowls of heaven?
 
-**TDB77:** Eite mipil-in a hong bawl, ganhingte leh vasate sangin a pil zaw-in a hong bawl Pasian’ lam nga lo uh hi.
+**TDB77:** Eite mipil-in a hong bawl, ganhingte leh vasate sangin a pil zaw-in a hong bawl Pasian’ lam nga lo-te hi.
 
-**ZVS:** Eite mipilin a hong bawl, ganhingte leh vasate sangin a pilzaw-in a hong bawl Pasian' lam ngalo uh hi.
+**ZVS:** Eite mipilin a hong bawl, ganhingte leh vasate sangin a pilzaw-in a hong bawl Pasian' lam ngalo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 

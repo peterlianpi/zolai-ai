@@ -47,9 +47,9 @@
 ### v3
 **EN:** And Joab answered, The
 
-**TDB77:** Ahih hangin Joab in, “Topa in a mite a zah za khatin behlap ta hen! Ka to kumpipa aw, amaute khempeuh ka topa’ nasemte hilo ahi uh hiam? Tua ahih ciangin bang hangin ka topa in hih kisam sa na hi hiam? Bang hangin Israel tungah mawhna tun’ ding na hi hiam?” a ci hi.
+**TDB77:** Ahih hangin Joab in, “Topa in a mite a zah za khatin behlap ta hen! Ka to kumpipa aw, amaute khempeuh ka topa’ nasemte hilo ahi-te hiam? Tua ahih ciangin bang hangin ka topa in hih kisam sa na hi hiam? Bang hangin Israel tungah mawhna tun’ ding na hi hiam?” a ci hi.
 
-**ZVS:** Ahih hangin Joab in, “{ Topa } in a mite a zah za khatin behlap ta hen! Ka to kumpipa aw, amaute khempeuh ka topa' nasemte hilo ahi uh hiam? Tua ahih ciangin bang hangin ka topa in hih kisam sa na hi hiam? Bang hangin Israel tungah mawhna tun' ding na hi hiam?” a ci hi.
+**ZVS:** Ahih hangin Joab in, “{ Topa } in a mite a zah za khatin behlap ta hen! Ka to kumpipa aw, amaute khempeuh ka topa' nasemte hilo ahi-te hiam? Tua ahih ciangin bang hangin ka topa in hih kisam sa na hi hiam? Bang hangin Israel tungah mawhna tun' ding na hi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
@@ -162,18 +162,18 @@
 ### v16
 **EN:** And David lifted up his eyes, and saw the angel of the
 
-**TDB77:** Tua ciangin David khuadak to a, leitung leh vantung kikalah Topa’ vantungmi ding-in a khut sungah a kidoksa namsau khat omin Jerusalem tungah a zan mu hi. Tua ciangin David leh a upate puanhampi silhin mai puk uh hi.
+**TDB77:** Tua ciangin David khuadak to a, leitung leh vantung kikalah Topa’ vantungmi ding-in a khut sungah a kidoksa namsau khat omin Jerusalem tungah a zan mu hi. Tua ciangin David leh a upate puanhampi silhin mai puk-te hi.
 
-**ZVS:** Tua ciangin David khuadak to a, leitung leh vantung kikalah { Topa' } vantung mi dingin, a khutsungah a kidoksa namsau khat omin Jerusalem tungah a zan mu hi. Tua ciangin David leh a upate puanhampi silhin maipuk uh hi.
+**ZVS:** Tua ciangin David khuadak to a, leitung leh vantung kikalah { Topa' } vantung mi dingin, a khutsungah a kidoksa namsau khat omin Jerusalem tungah a zan mu hi. Tua ciangin David leh a upate puanhampi silhin maipuk-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And David said unto God, Is it not I that commanded the people to be numbered? even I it is that have sinned and done evil indeed; but as for these sheep, what have they done? let thine hand, I pray thee, O
 
-**TDB77:** Tua ciangin David in Pasian kiangah, “Mi phazah a sim dingin thu a piapa in keimah hilo ka hi hiam? Khialin a gitloh gamtat mahmahpa in keimah ka hi hi. Ahih hangin hih mite in bang gamta khial ahi uh hiam? Topa ka Pasian aw, kong thuum hi, keimah leh ka innkuan daan hong pia in; ahih hangin na mite tungah gimna tungsak kei in,” a ci hi.
+**TDB77:** Tua ciangin David in Pasian kiangah, “Mi phazah a sim dingin thu a piapa in keimah hilo ka hi hiam? Khialin a gitloh gamtat mahmahpa in keimah ka hi hi. Ahih hangin hih mite in bang gamta khial ahi-te hiam? Topa ka Pasian aw, kong thuum hi, keimah leh ka innkuan daan hong pia in; ahih hangin na mite tungah gimna tungsak kei in,” a ci hi.
 
-**ZVS:** Tua ciangin David in Pasian kiangah, “Mi phazah a sim dingin thu a piapa keimah hilo ka hi hiam? Khialin a gitloh gamtat mahmahpa keimah ka hi hi. Ahih hangin hih mite in bang gamtat khialhna nei ahi uh hiam? { Topa } ka Pasian aw, kong thum hi, keimah leh ka innkuan gim hong pia in. Ahih hangin na mite tungah gimna tungsak kei in,” a ci hi.
+**ZVS:** Tua ciangin David in Pasian kiangah, “Mi phazah a sim dingin thu a piapa keimah hilo ka hi hiam? Khialin a gitloh gamtat mahmahpa keimah ka hi hi. Ahih hangin hih mite in bang gamtat khialhna nei ahi-te hiam? { Topa } ka Pasian aw, kong thum hi, keimah leh ka innkuan gim hong pia in. Ahih hangin na mite tungah gimna tungsak kei in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
@@ -198,9 +198,9 @@
 ### v20
 **EN:** And Ornan turned back, and saw the angel; and his four sons with him hid themselves. Now Ornan was threshing wheat.
 
-**TDB77:** Amah tawh a om a tapa lite bu uh a, Ornan in mangbuh a cilcil lai takin a khuadak leh Topa’ vantungmi mu hi.
+**TDB77:** Amah tawh a om a tapa lite bu-te a, Ornan in mangbuh a cilcil lai takin a khuadak leh Topa’ vantungmi mu hi.
 
-**ZVS:** Ornan leh a tapa lite in mangbuh a cilcil laitakin a khuadak uh leh { Topa' } vantung mi mu uh a, a tapa lite lau-in a bu uh hi.
+**ZVS:** Ornan leh a tapa lite in mangbuh a cilcil laitakin a khuadak-te leh { Topa' } vantung mi mu-te a, a tapa lite lau-in a bu-te hi.
 
 **Grammar:** plural: uh marker
 

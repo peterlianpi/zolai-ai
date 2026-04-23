@@ -1,0 +1,246 @@
+================================================================================
+ZOLAI AI PROJECT: COMPREHENSIVE LEARNING & MEMORIZATION AUDIT
+================================================================================
+
+📋 PROJECT VISION & MISSION
+--------------------------------------------------------------------------------
+Vision: Zolai language thrives in AI era through fully capable Second Brain
+Mission: Digitize, standardize, preserve Zolai via automated pipelines & LLM fine-tuning
+
+📚 ARCHITECTURE
+--------------------------------------------------------------------------------
+  Topic: Data Pipeline
+  Learning: Modular pipeline: crawlers → data_pipeline → training → deployment
+  Source: Project structure
+  Confidence: 0.90
+  Vision Alignment: Automated data harvesting and processing
+  ⚠️  Improvement: Add real-time crawling and incremental updates
+
+  Topic: Database Design
+  Learning: SQLite with FTS5 for dictionary, separate wiki_ai_structure for concepts/rules/vocab
+  Source: Database schemas
+  Confidence: 0.90
+  Vision Alignment: Scalable knowledge storage
+  ⚠️  Improvement: Add vector embeddings for semantic search
+
+  Topic: Export Strategy
+  Learning: JSONL exports for production: 200,000 dictionary entries + 3,458 wiki entries
+  Source: Export verification
+  Confidence: 0.95
+  Vision Alignment: Production-ready AI-readable formats
+  ⚠️  Improvement: Add streaming exports for large datasets
+
+📚 DICTIONARY SYSTEM
+--------------------------------------------------------------------------------
+  Topic: Multi-Source Validation
+  Learning: Expert consensus model: 0.95 confidence (3+ dicts), 0.90 (2 dicts), 0.80 (1 dict), 0.70 (resources)
+  Source: expert_linguistic_deep_learning_v9_full.py
+  Confidence: 0.95
+  Vision Alignment: High-purity bilingual datasets through expert validation
+  ⚠️  Improvement: Add POS tags and semantic relationships from all sources
+
+  Topic: Data Source Integration
+  Learning: 4 dictionaries (ZomiDictionary, TongDot, Wordlists, Bible) + 688,550 resources = 530,400 entries
+  Source: Workspace scan
+  Confidence: 0.95
+  Vision Alignment: Comprehensive data harvesting from all available sources
+  ⚠️  Improvement: Add frequency analysis and usage patterns
+
+  Topic: Learning Cycles
+  Learning: 100+ deep learning cycles refine confidence scores incrementally, not re-extraction
+  Source: expert_linguistic_deep_learning_v9_full.py
+  Confidence: 0.90
+  Vision Alignment: True learning, not just data aggregation
+  ⚠️  Improvement: Implement active learning with user feedback
+
+  Topic: Bug Fixes (V6→V9+)
+  Learning: Fixed Bible MD (0→30,868), TongDot (0→75,744), Wordlists (0→53,646), Bible parallel (0→82,771)
+  Source: Rebuild process
+  Confidence: 0.95
+  Vision Alignment: Data quality and completeness
+  ⚠️  Improvement: Implement automated validation pipeline
+
+📚 IMPROVEMENT AREAS
+--------------------------------------------------------------------------------
+  Topic: Semantic Relationships
+  Learning: Currently missing: synonyms, antonyms, hypernyms, hyponyms, meronyms
+  Source: Gap analysis
+  Confidence: 0.90
+  Vision Alignment: Enable semantic understanding and reasoning
+  ⚠️  Improvement: Extract from dictionaries and wiki, build semantic graph
+
+  Topic: Example Sentences
+  Learning: Currently missing: usage examples from Bible and real-world contexts
+  Source: Gap analysis
+  Confidence: 0.90
+  Vision Alignment: Contextual learning and usage patterns
+  ⚠️  Improvement: Extract from Bible corpus and wiki, validate with native speakers
+
+  Topic: Frequency Analysis
+  Learning: Currently missing: word frequency, usage patterns, domain distribution
+  Source: Gap analysis
+  Confidence: 0.85
+  Vision Alignment: Prioritize common words for learning
+  ⚠️  Improvement: Analyze corpus and Bible for frequency distribution
+
+  Topic: Concept Hierarchy
+  Learning: Currently missing: taxonomy, semantic relationships, concept clustering
+  Source: Gap analysis
+  Confidence: 0.85
+  Vision Alignment: Structured knowledge representation
+  ⚠️  Improvement: Build concept hierarchy from wiki and dictionary
+
+  Topic: Active Learning
+  Learning: Currently missing: user feedback loop, confidence refinement, error correction
+  Source: Gap analysis
+  Confidence: 0.80
+  Vision Alignment: Continuous improvement through real usage
+  ⚠️  Improvement: Implement feedback collection and model refinement
+
+📚 INTEGRATION & DEPLOYMENT
+--------------------------------------------------------------------------------
+  Topic: API Layer
+  Learning: FastAPI dictionary service with search and translation endpoints
+  Source: api/
+  Confidence: 0.80
+  Vision Alignment: Enable external systems to use Zolai knowledge
+  ⚠️  Improvement: Add semantic search and concept retrieval endpoints
+
+  Topic: Web Interface
+  Learning: Next.js web app (zolai-project) with Prisma ORM for database access
+  Source: website/zolai-project/
+  Confidence: 0.80
+  Vision Alignment: User-friendly access to Zolai resources
+  ⚠️  Improvement: Add interactive learning and translation tools
+
+  Topic: CLI Tools
+  Learning: zolai CLI with standardize-jsonl, audit-jsonl, and interactive menu
+  Source: AGENTS.md
+  Confidence: 0.85
+  Vision Alignment: Developer-friendly tools for data processing
+  ⚠️  Improvement: Add more specialized commands for common tasks
+
+📚 LINGUISTIC KNOWLEDGE
+--------------------------------------------------------------------------------
+  Topic: Word Order
+  Learning: Zolai is SOV (Subject-Object-Verb) with OSV alternatives in certain contexts
+  Source: wiki/linguistics/
+  Confidence: 0.95
+  Vision Alignment: Fluent generation requires correct word order
+  ⚠️  Improvement: Document all word order variations and contexts
+
+  Topic: Verb Particles
+  Learning: Directional particles: hong (toward), va (away), khia (out), lut (in), kik (back), pih (send)
+  Source: AGENTS.md
+  Confidence: 0.90
+  Vision Alignment: Essential for accurate verb meaning
+  ⚠️  Improvement: Add particle combinations and semantic effects
+
+  Topic: Quotative Patterns
+  Learning: ci hi (said), ci-in (saying), kici (is called) for reported and direct speech
+  Source: AGENTS.md
+  Confidence: 0.85
+  Vision Alignment: Proper speech representation
+  ⚠️  Improvement: Add quotative variations and register differences
+
+  Topic: Register Awareness
+  Learning: Formal (biblical/written) vs informal (conversational): subject pronouns dropped in informal
+  Source: AGENTS.md
+  Confidence: 0.85
+  Vision Alignment: Context-appropriate language generation
+  ⚠️  Improvement: Add register markers to all vocabulary entries
+
+📚 QUALITY & VALIDATION
+--------------------------------------------------------------------------------
+  Topic: Confidence Scoring
+  Learning: Multi-source validation: 0.95 (3+ dicts), 0.90 (2 dicts), 0.80 (1 dict), 0.70 (resources only)
+  Source: expert_linguistic_deep_learning_v9_full.py
+  Confidence: 0.95
+  Vision Alignment: High-purity datasets through expert consensus
+  ⚠️  Improvement: Add user feedback loop for confidence refinement
+
+  Topic: UTF-8 Integrity
+  Learning: Strictly valid UTF-8 encoding with no truncated fragments required for all data
+  Source: AGENTS.md
+  Confidence: 0.95
+  Vision Alignment: Data quality and consistency
+  ⚠️  Improvement: Implement automated UTF-8 validation in pipeline
+
+  Topic: Grammar Rule Testing
+  Learning: test_grammar_rules.py validates phonetic restrictions, plurality logic, apostrophe usage
+  Source: AGENTS.md
+  Confidence: 0.90
+  Vision Alignment: Prevent invalid language generation
+  ⚠️  Improvement: Expand test coverage to all 22+ grammar rules
+
+📚 VISION/MISSION
+--------------------------------------------------------------------------------
+  Topic: Language Preservation
+  Learning: Zolai language thrives in AI era through automated data pipelines and LLM fine-tuning
+  Source: README.md
+  Confidence: 0.95
+  Vision Alignment: Core mission: digitize, standardize, preserve Zolai
+  ⚠️  Improvement: Expand to 1M+ entries for comprehensive coverage
+
+  Topic: Second Brain Architecture
+  Learning: Complete linguistic knowledge system combining dictionary + wiki + grammar
+  Source: Project structure
+  Confidence: 0.95
+  Vision Alignment: Enable Zomi people to work entirely in native tongue
+  ⚠️  Improvement: Add semantic relationships and concept hierarchy
+
+📚 WIKI AI SYSTEM
+--------------------------------------------------------------------------------
+  Topic: Concept Extraction
+  Learning: 3,436 linguistic concepts extracted from 100+ wiki markdown files with 0.85 confidence
+  Source: wiki_ai_learning_system.py
+  Confidence: 0.85
+  Vision Alignment: Structured linguistic knowledge for AI systems
+  ⚠️  Improvement: Add concept hierarchy and semantic relationships
+
+  Topic: Grammar Rules
+  Learning: 22 grammar rules extracted: SOV structure, negation patterns, plural logic, conditional rules
+  Source: wiki_ai_learning_system.py
+  Confidence: 0.85
+  Vision Alignment: Linguistic constraints for fluent generation
+  ⚠️  Improvement: Expand to 100+ rules covering all grammatical phenomena
+
+  Topic: Linguistic Standards (ZVS)
+  Learning: Tedim dialect: pasian/gam/tapa/topa/kumpipa/tua (never pathian/ram/fapa/bawipa/siangpahrang/cu)
+  Source: AGENTS.md
+  Confidence: 0.95
+  Vision Alignment: Standardized Tedim Zolai for consistency
+  ⚠️  Improvement: Add dialect variation handling for other Zolai dialects
+
+📊 STATISTICS
+--------------------------------------------------------------------------------
+Total Learnings: 27
+Categories: 8
+Average Confidence: 0.89
+Improvement Areas: 27
+
+🎯 IMPROVEMENT PRIORITIES (by confidence gap)
+--------------------------------------------------------------------------------
+  [0.80] API Layer: Add semantic search and concept retrieval endpoints
+  [0.80] Web Interface: Add interactive learning and translation tools
+  [0.80] Active Learning: Implement feedback collection and model refinement
+  [0.85] Concept Extraction: Add concept hierarchy and semantic relationships
+  [0.85] Grammar Rules: Expand to 100+ rules covering all grammatical phenomena
+  [0.85] Quotative Patterns: Add quotative variations and register differences
+  [0.85] Register Awareness: Add register markers to all vocabulary entries
+  [0.85] CLI Tools: Add more specialized commands for common tasks
+  [0.85] Frequency Analysis: Analyze corpus and Bible for frequency distribution
+  [0.85] Concept Hierarchy: Build concept hierarchy from wiki and dictionary
+
+🚀 NEXT STEPS
+--------------------------------------------------------------------------------
+1. Add semantic relationships (synonyms, antonyms, hypernyms)
+2. Extract example sentences from Bible and wiki
+3. Implement frequency analysis and domain distribution
+4. Build concept hierarchy and taxonomy
+5. Add user feedback loop for active learning
+6. Expand grammar rules from 22 to 100+
+7. Add POS tags and morphological analysis
+8. Implement semantic search with embeddings
+9. Add register markers to all vocabulary
+10. Create visualization dashboard for knowledge base

@@ -52,9 +52,9 @@
 ### v4
 **EN:** And Esau ran to meet him, and embraced him, and fell on his neck, and kissed him: and they wept.
 
-**TDB77:** Ahih hangin amah dawn dingin Esau hong tai-in, amah ngawng kawi a, pom cipin nam a, amaute kap uh hi.
+**TDB77:** Ahih hangin amah dawn dingin Esau hong tai-in, amah ngawng kawi a, pom cipin nam a, amaute kap-te hi.
 
-**ZVS:** Ahih hangin amah a dawn dingin Esau hong tai-in, amah ngawng kawi a, pomcipin nam a, amaute a kap uh hi.
+**ZVS:** Ahih hangin amah a dawn dingin Esau hong tai-in, amah ngawng kawi a, pomcipin nam a, amaute a kap-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -70,18 +70,18 @@
 ### v6
 **EN:** Then the handmaidens came near, they and their children, and they bowed themselves.
 
-**TDB77:** Tua ciangin numei-nasemte hong nai uh a, amau leh a tate hong kun uh hi;
+**TDB77:** Tua ciangin numei-nasemte hong nai-te a, amau leh a tate hong kun-te hi;
 
-**ZVS:** Tua ciangin nasem numeite in hong naih uh a, amau leh a tate hong kun uh hi.
+**ZVS:** Tua ciangin nasem numeite in hong naih-te a, amau leh a tate hong kun-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v7
 **EN:** And Leah also with her children came near, and bowed themselves: and after came Joseph near and Rachel, and they bowed themselves.
 
-**TDB77:** Leah leh a tate zong tua bangmahin hong nai a, kun uh hi; a nunung penin Josef leh Rachel hong nai uh a, amaute kun uh hi.
+**TDB77:** Leah leh a tate zong tua bangmahin hong nai a, kun-te hi; a nunung penin Josef leh Rachel hong nai-te a, amaute kun-te hi.
 
-**ZVS:** Leah leh a tate in zong tua bangmahin hong naihin a kun uh hi. A nunung penin Josef leh Rachel in hong naihin a kun uh hi.
+**ZVS:** Leah leh a tate in zong tua bangmahin hong naihin a kun-te hi. A nunung penin Josef leh Rachel in hong naihin a kun-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -133,9 +133,9 @@
 ### v13
 **EN:** And he said unto him, My lord knoweth that the children are tender, and the flocks and herds with young are with me: and if men should overdrive them one day, all the flock will die.
 
-**TDB77:** Ahih hangin Jakob in ama kiangah, “Naupangte a hat lohna ka topa in na thei hi, tuuhonte leh bawnghonte a no ngek neite ka lung phamawh hi; ni khat sung kinak hawl lua leh gan honte khempeuh si ding uh hi.
+**TDB77:** Ahih hangin Jakob in ama kiangah, “Naupangte a hat lohna ka topa in na thei hi, tuuhonte leh bawnghonte a no ngek neite ka lung phamawh hi; ni khat sung kinak hawl lua leh gan honte khempeuh si ding-te hi.
 
-**ZVS:** Ahih hangin Jakob in ama kiangah, “Naupangte a hatlohna ka topa in na thei hi. Tuuhonte leh bawngte, a nongek neite ka lungphamawh hi. Ni khat sung kinak hawl lua leh ganhonte khempeuh si ding uh hi.
+**ZVS:** Ahih hangin Jakob in ama kiangah, “Naupangte a hatlohna ka topa in na thei hi. Tuuhonte leh bawngte, a nongek neite ka lungphamawh hi. Ni khat sung kinak hawl lua leh ganhonte khempeuh si ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

@@ -28,7 +28,7 @@ Focuses on `-ah, -eh, -ih, -oh, -uh, -awh`.
 ### Lesson 3: Diphthongs & Moral Parables
 Focuses on `-ai, -ei, -oi, -ui, -awi`.
 - **Moral Theme:** *Bilpi le Sumkuang* (The Rabbit and the Snail).
-- **Key Proverb:** `Thanuamte in thadahte a zo tawntung uh hi.` (The diligent always overcome the lazy.)
+- **Key Proverb:** `Thanuamte in thadahte a zo tawntung-te hi.` (The diligent always overcome the lazy.)
 - **Example Sentences:**
   - **Sumkuang sangin bilpi hatzaw hi.** (The rabbit is faster than the snail.)
   - **Ken na'ng hong kihta keng.** (I don't fear you.)

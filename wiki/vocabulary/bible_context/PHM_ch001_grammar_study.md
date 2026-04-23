@@ -26,16 +26,16 @@
 ### v1
 **EN:** Paul, a prisoner of Jesus Christ, and Timothy our brother, unto Philemon our dearly beloved, and fellowlabourer,
 
-**TDB77:** Khazih Zeisu hanga thongkia kei, Paul leh i sanggampa Timoti in kote tawh nasem a, ka it uh Filemon,
+**TDB77:** Khazih Zeisu hanga thongkia kei, Paul leh i sanggampa Timoti in kote tawh nasem a, ka it-te Filemon,
 
-**ZVS:** Khrih Jesuh hangin thong a kia keimah Paul leh i sanggampa Timoti in, Ka hong it uh, ka naseppih uh ahi Filemon,
+**ZVS:** Khrih Jesuh hangin thong a kia keimah Paul leh i sanggampa Timoti in, Ka hong it uh, ka naseppih-te ahi Filemon,
 
 ### v2
 **EN:** And to our beloved Apphia, and Archippus our fellowsoldier, and to the church in thy house:
 
-**TDB77:** leh i sanggamnu Apfia leh ko tawh galkap ahi khawm Arkhippas akipan, nangma inn sungah a om pawlpite ka hong zasak uh hi.
+**TDB77:** leh i sanggamnu Apfia leh ko tawh galkap ahi khawm Arkhippas akipan, nangma inn sungah a om pawlpite ka hong zasak-te hi.
 
-**ZVS:** leh na inn-ah a hong kikhawm pawlpite leh i sanggamnu Apfia leh thu upna-ah galkap khawmpih Arkhippas-te tungah lai ka hong khak uh hi.
+**ZVS:** leh na inn-ah a hong kikhawm pawlpite leh i sanggamnu Apfia leh thu upna-ah galkap khawmpih Arkhippas-te tungah lai ka hong khak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -67,9 +67,9 @@
 ### v7
 **EN:** For we have great joy and consolation in thy love, because the bowels of the saints are refreshed by thee, brother.
 
-**TDB77:** Sanggam aw, nangma hangin misiangthote in lungsim thaksuahna a ngah uh ahih ciangin nangma itna ngaihsunin lungdam mahmahin ka nuam zo hi.
+**TDB77:** Sanggam aw, nangma hangin misiangthote in lungsim thaksuahna a ngah-te ahih ciangin nangma itna ngaihsunin lungdam mahmahin ka nuam zo hi.
 
-**ZVS:** Sanggam aw, nangma hangin Pasian' mite in lungnopna ngah uh ahih manin tua bang itna na neihna hangin ka lungdamin ka tha a nuam mahmah hi.
+**ZVS:** Sanggam aw, nangma hangin Pasian' mite in lungnopna ngah-te ahih manin tua bang itna na neihna hangin ka lungdamin ka tha a nuam mahmah hi.
 
 ### v8
 **EN:** Wherefore, though I might be much bold in Christ to enjoin thee that which is convenient,
@@ -208,7 +208,7 @@
 ### v24
 **EN:** Mark, Aristarchus, Demas, Luke, my fellowlabourers.
 
-**TDB77:** ka naseppih Marka, Aristarkhas, Demas, leh Luka-te in hong hopih uh hi.
+**TDB77:** ka naseppih Marka, Aristarkhas, Demas, leh Luka-te in hong hopih-te hi.
 
 **Grammar:** plural: uh marker
 

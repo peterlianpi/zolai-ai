@@ -49,9 +49,9 @@
 ### v4
 **EN:** And the
 
-**TDB77:** Tua ciangin Topa in ama kiangah, “Hih gam in, Abraham, Isaak, leh Jakob tungah kiciamin, ‘Na suan leh khakte uh tungah ka pia ding hi,’ ka cih leitang ahi hi. Na mit tawh nang kong musak khin a, ahih hangin tua lai-ah nang na pai kei ding hi,” a ci hi.
+**TDB77:** Tua ciangin Topa in ama kiangah, “Hih gam in, Abraham, Isaak, leh Jakob tungah kiciamin, ‘Na suan leh khakte-te tungah ka pia ding hi,’ ka cih leitang ahi hi. Na mit tawh nang kong musak khin a, ahih hangin tua lai-ah nang na pai kei ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin { Topa } in ama kiangah, “Hih gam, Abraham, Isaac, leh Jakob tungah kiciamin, ‘Na suanlekhakte uh tungah ka pia ding hi,’ ka cih leitang ahi hi. Na mit tawh nang kong musak khin a, ahih hangin tua lai-ah nang na pai kei ding hi,” a ci hi.
+**ZVS:** Tua ciangin { Topa } in ama kiangah, “Hih gam, Abraham, Isaac, leh Jakob tungah kiciamin, ‘Na suanlekhakte-te tungah ka pia ding hi,’ ka cih leitang ahi hi. Na mit tawh nang kong musak khin a, ahih hangin tua lai-ah nang na pai kei ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix
 
@@ -85,18 +85,18 @@
 ### v8
 **EN:** And the children of Israel wept for Moses in the plains of Moab thirty days: so the days of weeping and mourning for Moses were ended.
 
-**TDB77:** Israel mite Moab zanglei-ah ni sawmthum sung Moses hangin kap uh hi; tua khit ciangin Moses hangin kahna leh thuumna veng hi.
+**TDB77:** Israel mite Moab zanglei-ah ni sawmthum sung Moses hangin kap-te hi; tua khit ciangin Moses hangin kahna leh thuumna veng hi.
 
-**ZVS:** Moab zanglei-ah Israel mite ni sawmthum sung Moses hangin a kah khit uh ciangin Moses hangin kahna leh thumna a veng ta hi.
+**ZVS:** Moab zanglei-ah Israel mite ni sawmthum sung Moses hangin a kah khit-te ciangin Moses hangin kahna leh thumna a veng ta hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** And Joshua the son of Nun was full of the spirit of wisdom; for Moses had laid his hands upon him: and the children of Israel hearkened unto him, and did as the
 
-**TDB77:** Tua ciangin Moses in, ama tungah a khut nga khin ahih manin Nun’ tapa Joshua in lungsim pilna tawh kidim hi; tua ahih ciangin Israel mite in ama thu mangin, Topa in Moses a thupiakna bangin gamta uh hi.
+**TDB77:** Tua ciangin Moses in, ama tungah a khut nga khin ahih manin Nun’ tapa Joshua in lungsim pilna tawh kidim hi; tua ahih ciangin Israel mite in ama thu mangin, Topa in Moses a thupiakna bangin gamta-te hi.
 
-**ZVS:** Tua ciangin Moses in, ama tungah a khut nga khin ahih manin Nun tapa Joshua lungsim pilna tawh a kidim hi. Tua ahih ciangin Israel mite in ama thu mangin, { Topa } in Moses a thupiaksa bangin a gamta uh hi.
+**ZVS:** Tua ciangin Moses in, ama tungah a khut nga khin ahih manin Nun tapa Joshua lungsim pilna tawh a kidim hi. Tua ahih ciangin Israel mite in ama thu mangin, { Topa } in Moses a thupiaksa bangin a gamta-te hi.
 
 **Grammar:** sequence: then/therefore | causal: because | reciprocal: ki- prefix | plural: uh marker
 

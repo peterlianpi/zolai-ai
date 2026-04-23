@@ -22,7 +22,7 @@
 
 **TDB77:** Tua ciangin Zeisu in a nungzuite sawm leh nihte a sap khit ciangin, kihhuai dawite hawlkhiat theih nading ahi zongin, cinatna pawl khempeuh damsak theih nading ahi zongin thu a pia hi.
 
-**ZVS:** Jesuh in a nungzui sawmlenihte sam a, dawite a hawlkhiat theihna ding uh leh natna nam khempeuh a damsak theihna dingun amaute tungah vangliatna a pia hi.
+**ZVS:** Jesuh in a nungzui sawmlenihte sam a, dawite a hawlkhiat theihna ding-te leh natna nam khempeuh a damsak theihna dingun amaute tungah vangliatna a pia hi.
 
 **Grammar:** causative: -sak suffix | sequence: then/therefore | reciprocal: ki- prefix
 
@@ -45,9 +45,9 @@
 ### v4
 **EN:** Simon the Canaanite, and Judas Iscariot, who also betrayed him.
 
-**TDB77:** Kanaan mi Simon leh Zeisu a lehheekpa Judah Iskarot-te ahi uh hi.
+**TDB77:** Kanaan mi Simon leh Zeisu a lehheekpa Judah Iskarot-te ahi-te hi.
 
-**ZVS:** Simon (gam khualpa), leh Jesuh a lehhek Iskariot' tapa Judas ahi uh hi.
+**ZVS:** Simon (gam khualpa), leh Jesuh a lehhek Iskariot' tapa Judas ahi-te hi.
 
 **Grammar:** plural: uh marker
 

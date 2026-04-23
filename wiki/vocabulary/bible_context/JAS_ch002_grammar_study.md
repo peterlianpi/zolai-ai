@@ -39,14 +39,14 @@
 ### v3
 **EN:** And ye have respect to him that weareth the gay clothing, and say unto him, Sit thou here in a good place; and say to the poor, Stand thou there, or sit here under my footstool:
 
-**TDB77:** limtakin a kizem mipa zahtakbawl zaw-in, “Hih lai-ah tutna nuamah hong tu in,” ci le uh cin a, ahi zongin mizawngpa kiangah, “Tua lai-ah na ding phot in,” cihna ahi a, “Sual tung hih ka khe kiang khawngah hong tu in,” cihna ahi zongin kam na zat uh leh,
+**TDB77:** limtakin a kizem mipa zahtakbawl zaw-in, “Hih lai-ah tutna nuamah hong tu in,” ci le-te cin a, ahi zongin mizawngpa kiangah, “Tua lai-ah na ding phot in,” cihna ahi a, “Sual tung hih ka khe kiang khawngah hong tu in,” cihna ahi zongin kam na zat-te leh,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v4
 **EN:** Are ye not then partial in yourselves, and are become judges of evil thoughts?
 
-**TDB77:** mi a deidan na hi uh a, ngaihsutna hoihlo nei-in a gamta na hi uh hi.
+**TDB77:** mi a deidan na hi-te a, ngaihsutna hoihlo nei-in a gamta na hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -60,50 +60,50 @@
 ### v6
 **EN:** But ye have despised the poor. Do not rich men oppress you, and draw you before the judgment seats?
 
-**TDB77:** Note na hih uh leh, mizawngte na thudon kei uh hi. Sum haute in note hong bawlsia uh a, thukhenna tokhom mai-ah hong kai uh hilo ahi hiam?
+**TDB77:** Note na hih-te leh, mizawngte na thudon kei-te hi. Sum haute in note hong bawlsia-te a, thukhenna tokhom mai-ah hong kai-te hilo ahi hiam?
 
-**ZVS:** note in mizawngte na simmawhbawl uh hi. Note hong bawlsia-in thukhen zum hong tun' pahpahte, mihaute hizaw uh hi.
+**ZVS:** note in mizawngte na simmawhbawl-te hi. Note hong bawlsia-in thukhen zum hong tun' pahpahte, mihaute hizaw-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v7
 **EN:** Do not they blaspheme that worthy name by the which ye are called?
 
-**TDB77:** Note hong kiphuahna min ngaih amaute in a gensia uh hilo ahi hiam?
+**TDB77:** Note hong kiphuahna min ngaih amaute in a gensia-te hilo ahi hiam?
 
-**ZVS:** Pasian in note a hong phuah min hoih a gensiate, mihaute mah ahi uh hi.
+**ZVS:** Pasian in note a hong phuah min hoih a gensiate, mihaute mah ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v8
 **EN:** If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:
 
-**TDB77:** “Na pumpi na it bangin na lawmte na it in,” a kici Thukham na zuih uh leh, a pha in na gamta zo uh hi.
+**TDB77:** “Na pumpi na it bangin na lawmte na it in,” a kici Thukham na zuih-te leh, a pha in na gamta zo-te hi.
 
-**ZVS:** Lai Siangtho sungah, “Nangmah na ki-it bangin na vengte na it in,” ci-in a genna Topa' Thukham zui le uh cin a hoih hi pah hi.
+**ZVS:** Lai Siangtho sungah, “Nangmah na ki-it bangin na vengte na it in,” ci-in a genna Topa' Thukham zui le-te cin a hoih hi pah hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** But if ye have respect to persons, ye commit sin, and are convinced of the law as transgressors.
 
-**TDB77:** Ahih hangin mi maitang zahtak tuam na neih uh leh, gitlohna a bawl mi na hi uh hi; thungai lo mi cihna Thukham in note tungah thu hong khen ding hi.
+**TDB77:** Ahih hangin mi maitang zahtak tuam na neih-te leh, gitlohna a bawl mi na hi-te hi; thungai lo mi cihna Thukham in note tungah thu hong khen ding hi.
 
-**ZVS:** Ahi zongin mi na deidan uh leh note a khial na hi uh a, Thukham a palsat na hi veve uh hi.
+**ZVS:** Ahi zongin mi na deidan-te leh note a khial na hi-te a, Thukham a palsat na hi veve-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v10
 **EN:** For whosoever shall keep the whole law, and yet offend in one point, he is guilty of all.
 
-**TDB77:** Bang hang hiam na cih uh leh, Thukham khempeuh a zuih hangin khatpeuh peuh a khial mi in, Thukham khempeuh a khial zo hi.
+**TDB77:** Bang hang hiam na cih-te leh, Thukham khempeuh a zuih hangin khatpeuh peuh a khial mi in, Thukham khempeuh a khial zo hi.
 
 **ZVS:** Mi khatpeuh in thukham dang khempeuh a zuih hangin khat a khialh nak leh a vekpi-in a khial mah ahi hi.
 
 ### v11
 **EN:** For he that said, Do not commit adultery, said also, Do not kill. Now if thou commit no adultery, yet if thou kill, thou art become a transgressor of the law.
 
-**TDB77:** Bang hang hiam na cih uh leh, “Mi’ zi tungah na mawh kei in,” a cipa in, “Mi na that kei in,” ci-in a kham lai hi. Tua ahih ciangin nang in mi zi tungah na mawh loh hangin mi na thah leh, Thukham a khial mi na hi hi.
+**TDB77:** Bang hang hiam na cih-te leh, “Mi’ zi tungah na mawh kei in,” a cipa in, “Mi na that kei in,” ci-in a kham lai hi. Tua ahih ciangin nang in mi zi tungah na mawh loh hangin mi na thah leh, Thukham a khial mi na hi hi.
 
 **ZVS:** Bang hang hiam cih leh, “Nulepa mawhna na bawl kei in,” a cipa mah in, “Mi na that kei in,” cithuah lai veve hi. Nulepa mawhna na gamtatloh hangin mi na thah nak leh thukham palsat mah na hi veve hi.
 
@@ -121,7 +121,7 @@
 ### v13
 **EN:** For he shall have judgment without mercy, that hath shewed no mercy; and mercy rejoiceth against judgment.
 
-**TDB77:** Bang hang hiam na cih uh leh, hehpihna a nei lo mi in, hehpihna ngah loin thukhenna a thuak ding hi. Hehpihna in thukhenna zoin a kisathei thei hi.
+**TDB77:** Bang hang hiam na cih-te leh, hehpihna a nei lo mi in, hehpihna ngah loin thukhenna a thuak ding hi. Hehpihna in thukhenna zoin a kisathei thei hi.
 
 **ZVS:** Bang hang hiam cih leh hehpihna lungsim a neilote tungah Pasian in thu a khen ciangin hehpihlo ding a, hehpihna lungsim a neite tungah Pasian in thu a khen ciangin a hehpihna in zozaw ding hi.
 
@@ -139,14 +139,14 @@
 
 **TDB77:** Unau numei leh pasal khat peuhmah in puan nei loin omin ni sim an nek ding a neih loh ciangin,
 
-**ZVS:** Gentehna-in, na mipih khat peuhpeuh uh annek tuidawn, nikten' puansilh neiloin haksapi-in om hen la,
+**ZVS:** Gentehna-in, na mipih khat peuhpeuh-te annek tuidawn, nikten' puansilh neiloin haksapi-in om hen la,
 
 ### v16
 **EN:** And one of you say unto them, Depart in peace, be ye warmed and filled; notwithstanding ye give them not those things which are needful to the body; what doth it profit?
 
 **TDB77:** note lakah mi khat in, “Nuam takin pai in la, na khua lum-in, gil vah in,” a cih hangin, tua mi pumpi tawh a kituak na zat ding a piak kei leh, bang phattuamna a om hiam?
 
-**ZVS:** note khat peuhpeuh in, ama pumpi kisapna bangmah pialopi-in, “Khualum gilvah takin om in,” ci mawk lel le uh cin bang phattuamna om ding ahi hiam?
+**ZVS:** note khat peuhpeuh in, ama pumpi kisapna bangmah pialopi-in, “Khualum gilvah takin om in,” ci mawk lel le-te cin bang phattuamna om ding ahi hiam?
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -171,9 +171,9 @@
 ### v19
 **EN:** Thou believest that there is one God; thou doest well: the devils also believe, and tremble.
 
-**TDB77:** Pasian khat bek a om ci-in na um hi. A pha hi. Dawi gilote in zong umin, kihta-in a liing uh hi.
+**TDB77:** Pasian khat bek a om ci-in na um hi. A pha hi. Dawi gilote in zong umin, kihta-in a liing-te hi.
 
-**ZVS:** Pasian khat bek om hi, ci-in na um hi. Tua pen hoih mahmah hi. Dawite nangawn in zong tua bangin umin lau-in ling deldel uh hi.
+**ZVS:** Pasian khat bek om hi, ci-in na um hi. Tua pen hoih mahmah hi. Dawite nangawn in zong tua bangin umin lau-in ling deldel-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -198,7 +198,7 @@
 
 **TDB77:** Upna in ama gamtatna tawh bawlpha khawm a, gamtatna hoih hangin a upna a kicing hi ci-in na thei ta in.
 
-**ZVS:** Tua ahih manin upna leh sepna kizom khawm a, sepna in upna a kicin'sakna thu na thei uh hi.
+**ZVS:** Tua ahih manin upna leh sepna kizom khawm a, sepna in upna a kicin'sakna thu na thei-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -214,9 +214,9 @@
 ### v24
 **EN:** Ye see then how that by works a man is justified, and not by faith only.
 
-**TDB77:** Mi khat in upna bek tawh dikkisakna a ngah ahi kei hi, gamtatna tawh a ngah hi ci-in na thei uh hi.
+**TDB77:** Mi khat in upna bek tawh dikkisakna a ngah ahi kei hi, gamtatna tawh a ngah hi ci-in na thei-te hi.
 
-**ZVS:** Tua ahih manin, mi khatpeuh in a upna bek tawh hiloin, a sepna tawh a kizuih ciangin Pasian tawh kipawl theihna ngah pan ahihna thu na thei uh hi.
+**ZVS:** Tua ahih manin, mi khatpeuh in a upna bek tawh hiloin, a sepna tawh a kizuih ciangin Pasian tawh kipawl theihna ngah pan ahihna thu na thei-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | plural: uh marker
 

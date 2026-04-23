@@ -56,18 +56,18 @@
 ### v5
 **EN:** Thou carriest them away as with a flood; they are as a sleep: in the morning they are like grass which groweth up.
 
-**TDB77:** Nangmah in mite na phiatkhia hi; amaute in a ihmu tawh kibang uh a, zingsang-a a no kik lopa tawh kibang uh hi;
+**TDB77:** Nangmah in mite na phiatkhia hi; amaute in a ihmu tawh kibang-te a, zingsang-a a no kik lopa tawh kibang-te hi;
 
-**ZVS:** Nangmah in mite na phiatkhia hi. Amaute pen a ihmu tawh kibang uh a, zingsangin a nokik lopa tawh kibang uh hi.
+**ZVS:** Nangmah in mite na phiatkhia hi. Amaute pen a ihmu tawh kibang-te a, zingsangin a nokik lopa tawh kibang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
 
-**TDB77:** zingsangin palhin thaksuak kik a, nitak ciangin vulin keu uh hi.
+**TDB77:** zingsangin palhin thaksuak kik a, nitak ciangin vulin keu-te hi.
 
-**ZVS:** Zingsangin palhin thaksuak kik a, nitak ciangin vulin a keu uh hi.
+**ZVS:** Zingsangin palhin thaksuak kik a, nitak ciangin vulin a keu-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -81,25 +81,25 @@
 ### v8
 **EN:** Thou hast set our iniquities before thee, our secret sins in the light of thy countenance.
 
-**TDB77:** Nangmah in kote’ mawhnate na mai-ah na koih a, ka khialh simnate uh na maitang ah na koih hi.
+**TDB77:** Nangmah in kote’ mawhnate na mai-ah na koih a, ka khialh simnate-te na maitang ah na koih hi.
 
-**ZVS:** Nangmah in ka mawhnate uh na mai-ah na koih a, ka khialh simnate uh na maitangah na koih hi.
+**ZVS:** Nangmah in ka mawhnate-te na mai-ah na koih a, ka khialh simnate-te na maitangah na koih hi.
 
 ### v9
 **EN:** For all our days are passed away in thy wrath: we spend our years as a tale that is told.
 
-**TDB77:** Bang hang hiam cih leh ka hun khempeuh uh na hehna-in bei a, ka kumte uh husan’ khat bangin a bei hi.
+**TDB77:** Bang hang hiam cih leh ka hun khempeuh-te na hehna-in bei a, ka kumte-te husan’ khat bangin a bei hi.
 
-**ZVS:** Bang hang hiam cih leh ka hun khempeuh uh na hehna-in bei a, ka nuntak hun uh husan' khat bangin a bei hi.
+**ZVS:** Bang hang hiam cih leh ka hun khempeuh-te na hehna-in bei a, ka nuntak hun-te husan' khat bangin a bei hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v10
 **EN:** The days of our years are threescore years and ten; and if by reason of strength they be fourscore years, yet is their strength labour and sorrow; for it is soon cut off, and we fly away.
 
-**TDB77:** Kote nuntak in kum sawmsagih sung hi a, cidam le-ung sawmgiat bang hi thei hi; ahih hangin tua hun sung in gimna leh haksatna hi a, tuate bei pakin, kote ka maimang uh hi.
+**TDB77:** Kote nuntak in kum sawmsagih sung hi a, cidam le-ung sawmgiat bang hi thei hi; ahih hangin tua hun sung in gimna leh haksatna hi a, tuate bei pakin, kote ka maimang-te hi.
 
-**ZVS:** Kote' nuntak sung kum sawmsagih bang hi a, cidam le-ung kum sawmgiat bang hithei hi. Ahih hangin tua hunsung nangawn gimna leh haksatna hi a, tua hunte bei pakin kote ka maimang uh hi.
+**ZVS:** Kote' nuntak sung kum sawmsagih bang hi a, cidam le-ung kum sawmgiat bang hithei hi. Ahih hangin tua hunsung nangawn gimna leh haksatna hi a, tua hunte bei pakin kote ka maimang-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -115,9 +115,9 @@
 ### v12
 **EN:** So teach us to number our days, that we may apply our hearts unto wisdom.
 
-**TDB77:** Tua ahih ciangin pilna lungsim ka ngah theih nadingun ka nuntak uh a tom lam ka theih nadingun hong hilh in.
+**TDB77:** Tua ahih ciangin pilna lungsim ka ngah theih nadingun ka nuntak-te a tom lam ka theih nadingun hong hilh in.
 
-**ZVS:** Tua ahih ciangin pilna lungsim ka ngah theihna dingun ka nuntak hun uh a tomlam ka theihna dingun hong hilh in.
+**ZVS:** Tua ahih ciangin pilna lungsim ka ngah theihna dingun ka nuntak hun-te a tomlam ka theihna dingun hong hilh in.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -133,18 +133,18 @@
 ### v14
 **EN:** O satisfy us early with thy mercy; that we may rejoice and be glad all our days.
 
-**TDB77:** Ka nuntak tawntung uh lungdamin ka kipak theih nadingun zingsangin na itna kip tawh kote hong lungkimsak in.
+**TDB77:** Ka nuntak tawntung-te lungdamin ka kipak theih nadingun zingsangin na itna kip tawh kote hong lungkimsak in.
 
-**ZVS:** Ka nuntak tawntung uh lungdamin ka kipak theihna dingun zingsangin na itna kip tawh kote hong lungkimsak in.
+**ZVS:** Ka nuntak tawntung-te lungdamin ka kipak theihna dingun zingsangin na itna kip tawh kote hong lungkimsak in.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v15
 **EN:** Make us glad according to the days wherein thou hast afflicted us, and the years wherein we have seen evil.
 
-**TDB77:** Kote nong gimsak ni zah leh siatna ka thuak uh kum zah mah, kote hong kipaaksak in.
+**TDB77:** Kote nong gimsak ni zah leh siatna ka thuak-te kum zah mah, kote hong kipaaksak in.
 
-**ZVS:** Kote nong gimsak ni zah, siatna ka thuak uh kum phazah mah, kote hong kipaksak in.
+**ZVS:** Kote nong gimsak ni zah, siatna ka thuak-te kum phazah mah, kote hong kipaksak in.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -153,7 +153,7 @@
 
 **TDB77:** Na nasemte tungah na nasepna leh, amau tate tungah na minthan’na vang hong kilangsak in.
 
-**ZVS:** Na nasemte tungah na nasepna, a tate uh tungah na minthan'na, na vang hong kilangsak in.
+**ZVS:** Na nasemte tungah na nasepna, a tate-te tungah na minthan'na, na vang hong kilangsak in.
 
 **Grammar:** reciprocal: ki- prefix
 

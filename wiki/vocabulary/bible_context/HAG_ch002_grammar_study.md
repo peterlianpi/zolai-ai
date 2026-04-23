@@ -43,9 +43,9 @@
 ### v3
 **EN:** Who is left among you that saw this house in her first glory? and how do ye see it now? is it not in your eyes in comparison of it as nothing?
 
-**TDB77:** “Ni danga biakinn a hoihna dan a ciamteh thei lai na om uh hiam? Tu-in bangci na sa uh hiam? Note’ muhna-ah a gen taak het lo tawh kibang ding hi.
+**TDB77:** “Ni danga biakinn a hoihna dan a ciamteh thei lai na om-te hiam? Tu-in bangci na sa-te hiam? Note’ muhna-ah a gen taak het lo tawh kibang ding hi.
 
-**ZVS:** “Nidanga biakinn a hoihna dan a ciamteh theilai na om uh hiam? Tu-in bangci na sa uh hiam? Note' muhna-ah a gen taak hetlo tawh kibang ding hi.
+**ZVS:** “Nidanga biakinn a hoihna dan a ciamteh theilai na om-te hiam? Tu-in bangci na sa-te hiam? Note' muhna-ah a gen taak hetlo tawh kibang ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -79,9 +79,9 @@
 ### v7
 **EN:** And I will shake all nations, and the desire of all nations shall come: and I will fill this house with glory, saith the
 
-**TDB77:** Minam khempeuh lokgawp ding ka hih manin, a neihsa uh sum leh paiite, hih munah hong kipuak ding a, biakinn sungah a dimin van hong om ding hi.
+**TDB77:** Minam khempeuh lokgawp ding ka hih manin, a neihsa-te sum leh paiite, hih munah hong kipuak ding a, biakinn sungah a dimin van hong om ding hi.
 
-**ZVS:** Minam dang khempeuh lokgawp ding ka hih manin a neihsa uh sum leh paite, hih munah hong kipuak ding a, biakinn sungah a dimin van hong om ding hi.
+**ZVS:** Minam dang khempeuh lokgawp ding ka hih manin a neihsa-te sum leh paite, hih munah hong kipuak ding a, biakinn sungah a dimin van hong om ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix
 
@@ -122,54 +122,54 @@
 ### v12
 **EN:** If one bear holy flesh in the skirt of his garment, and with his skirt do touch bread, or pottage, or wine, or oil, or any meat, shall it be holy? And the priests answered and said, No.
 
-**TDB77:** Mi khatpeuh in biakna-a kipia sa siangtho them khat, a puantualpi thep kawm-ah pua kha hen la, tua a puantualpi tawh anlum khatpeuh peuh ahi a, a kihuan an khat peuhpeuh ahi a, leenggahzu, ahih kei leh oliv thau, ahih kei leh an nam khatpeuh peuh ahi zongin su kha leh, tua a sukkhak an pen biakna an siangtho a suak ding hiam?” ci-in dong sak hi. Tua bangin a kidot ciangin siampite in, “Tua puantualpi in a sukkhak ante, biakna an siangtho suak tuan lo hi,” ci-in dawng uh hi.
+**TDB77:** Mi khatpeuh in biakna-a kipia sa siangtho them khat, a puantualpi thep kawm-ah pua kha hen la, tua a puantualpi tawh anlum khatpeuh peuh ahi a, a kihuan an khat peuhpeuh ahi a, leenggahzu, ahih kei leh oliv thau, ahih kei leh an nam khatpeuh peuh ahi zongin su kha leh, tua a sukkhak an pen biakna an siangtho a suak ding hiam?” ci-in dong sak hi. Tua bangin a kidot ciangin siampite in, “Tua puantualpi in a sukkhak ante, biakna an siangtho suak tuan lo hi,” ci-in dawng-te hi.
 
-**ZVS:** Mi khatpeuh in biakna-a a kipia sa siangtho themkhat, a puantualpi thep kawmah puakha hen la, tua a puantualpi tawh anlum khat peuhpeuh ahi a, a kihuan an khat peuhpeuh ahi a, leenggahzu, ahih kei leh oliv thau, ahih kei leh an nam khat peuhpeuh ahi zongin sukha leh, tua a sukkhak an pen biakna an siangtho a suak ding hiam?” ci-in a dongsak hi. Tua bangin a kidot ciangin siampite in, “Tua puantualpi in a sukkhak ante, biakna an siangtho suak tuanlo ding hi,” ci-in a dawng uh hi.
+**ZVS:** Mi khatpeuh in biakna-a a kipia sa siangtho themkhat, a puantualpi thep kawmah puakha hen la, tua a puantualpi tawh anlum khat peuhpeuh ahi a, a kihuan an khat peuhpeuh ahi a, leenggahzu, ahih kei leh oliv thau, ahih kei leh an nam khat peuhpeuh ahi zongin sukha leh, tua a sukkhak an pen biakna an siangtho a suak ding hiam?” ci-in a dongsak hi. Tua bangin a kidot ciangin siampite in, “Tua puantualpi in a sukkhak ante, biakna an siangtho suak tuanlo ding hi,” ci-in a dawng-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Then said Haggai, If one that is unclean by a dead body touch any of these, shall it be unclean? And the priests answered and said, It shall be unclean.
 
-**TDB77:** Tua ciangin Haggai in, “Mi khat in misi tawh a kisukkhak manin mi nin a suah khit ciangin hih ante khatpeuh peuh lawng kha leh tua a lawn’ khak ante a nin a suak ding hiam?” ci-in dong hi. Siampite in, “A nin suak ding hi,” ci-in dawng uh hi.
+**TDB77:** Tua ciangin Haggai in, “Mi khat in misi tawh a kisukkhak manin mi nin a suah khit ciangin hih ante khatpeuh peuh lawng kha leh tua a lawn’ khak ante a nin a suak ding hiam?” ci-in dong hi. Siampite in, “A nin suak ding hi,” ci-in dawng-te hi.
 
-**ZVS:** Tua ciangin Haggai in, “Mi khat in, misi tawh a kisukkhak manin mi nin a suah khit ciangin hih ante khat peuhpeuh lawngkha leh tua a lawn'khak ante a nin a suak ding hiam?” ci-in a dong hi. Siampite in, “A nin suak ding hi,” ci-in a dawng uh hi.
+**ZVS:** Tua ciangin Haggai in, “Mi khat in, misi tawh a kisukkhak manin mi nin a suah khit ciangin hih ante khat peuhpeuh lawngkha leh tua a lawn'khak ante a nin a suak ding hiam?” ci-in a dong hi. Siampite in, “A nin suak ding hi,” ci-in a dawng-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** Then answered Haggai, and said, So is this people, and so is this nation before me, saith the
 
-**TDB77:** Tua ciangin Haggai in thu gen a, “Topa in hih bangin ci hi: Tu-a nong dawn’na uh mah bangin hih mite’ sepna khempeuh ah tua bangin piang ahih manin, biakna tau tungah a piak uh na khempeuh a nin suak hi.
+**TDB77:** Tua ciangin Haggai in thu gen a, “Topa in hih bangin ci hi: Tu-a nong dawn’na-te mah bangin hih mite’ sepna khempeuh ah tua bangin piang ahih manin, biakna tau tungah a piak-te na khempeuh a nin suak hi.
 
-**ZVS:** Tua ciangin Haggai in thu gen a, “{ Topa } in hih bangin ci hi: Tu-a nong dawn'na uh mah bangin hih minam dangte' sepna khempeuhah tua bangin piang ahih manin, biakna tau tungah a piak uh na khempeuh a nin suak hi.
+**ZVS:** Tua ciangin Haggai in thu gen a, “{ Topa } in hih bangin ci hi: Tu-a nong dawn'na-te mah bangin hih minam dangte' sepna khempeuhah tua bangin piang ahih manin, biakna tau tungah a piak-te na khempeuh a nin suak hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | causal: because
 
 ### v15
 **EN:** And now, I pray you, consider from this day and upward, from before a stone was laid upon a stone in the temple of the
 
-**TDB77:** Note tungah a piangsa thute lim takin ngaihsun un. Topa’ biakinn lam ding na kipat ma-un bangci na hi uh hiam?
+**TDB77:** Note tungah a piangsa thute lim takin ngaihsun un. Topa’ biakinn lam ding na kipat ma-un bangci na hi-te hiam?
 
-**ZVS:** “Note tungah a piangsa thute limtakin ngaihsun un. { Topa' } biakinn lam ding na kipat ma-un bangci na hi uh hiam?
+**ZVS:** “Note tungah a piangsa thute limtakin ngaihsun un. { Topa' } biakinn lam ding na kipat ma-un bangci na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v16
 **EN:** Since those days were, when one came to an heap of twenty measures, there were but ten: when one came to the pressfat for to draw out fifty vessels out of the press, there were but twenty.
 
-**TDB77:** An seu sawmnih pha ding ci-in ansal-ah na pai uh ciangin seu sawm bek na pha a, leenggahzu thawlpi sawmnga pha ding ci-in leenggahzu kholna beelpi ah na pai uh ciangin thawlpi sawmnih dim bek a na pha hi.
+**TDB77:** An seu sawmnih pha ding ci-in ansal-ah na pai-te ciangin seu sawm bek na pha a, leenggahzu thawlpi sawmnga pha ding ci-in leenggahzu kholna beelpi ah na pai-te ciangin thawlpi sawmnih dim bek a na pha hi.
 
-**ZVS:** An seu sawmnih pha ding ci-in ansal-ah na pai uh ciangin seu sawm bek na pha a, leenggahzu thawlpi sawmnga pha ding ci-in leenggahzu kholna beelpi-ah na pai uh ciangin thawlpi sawmnih dim bek a na pha hi.
+**ZVS:** An seu sawmnih pha ding ci-in ansal-ah na pai-te ciangin seu sawm bek na pha a, leenggahzu thawlpi sawmnga pha ding ci-in leenggahzu kholna beelpi-ah na pai-te ciangin thawlpi sawmnih dim bek a na pha hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v17
 **EN:** I smote you with blasting and with mildew and with hail in all the labours of your hands; yet ye turned not to me, saith the
 
-**TDB77:** Na an ciin’ khempeuh uh cingteek sakin ka kausansak a, tuate nangawn a susia dingin gialpi ka kiatsak hangin note na kisik nuam kei lai lai uh hi, Topa in ci hi.
+**TDB77:** Na an ciin’ khempeuh-te cingteek sakin ka kausansak a, tuate nangawn a susia dingin gialpi ka kiatsak hangin note na kisik nuam kei lai lai-te hi, Topa in ci hi.
 
-**ZVS:** Na an ciin' khempeuh uh cingteek sakin ka kausansak a, tuate nangawn a susia dingin gialpi ka kiatsak hangin note na kisik nuam kei lailai uh hi.
+**ZVS:** Na an ciin' khempeuh-te cingteek sakin ka kausansak a, tuate nangawn a susia dingin gialpi ka kiatsak hangin note na kisik nuam kei lailai-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -185,7 +185,7 @@
 ### v19
 **EN:** Is the seed yet in the barn? yea, as yet the vine, and the fig tree, and the pomegranate, and the olive tree, hath not brought forth: from this day will I bless you.
 
-**TDB77:** Na ansal uh ah na upmawh zah sangun an na tawm zaw lai ding ahi hiam? Leenggui leh theikung, mangkawlsing leh oliv kungte, gah nai lo lai ding ahi hiam? Tua bang hi nawn lo ding a, tu ni-a kipanin note thupha kong pia ding hi, ci hi,” a ci hi.
+**TDB77:** Na ansal-te ah na upmawh zah sangun an na tawm zaw lai ding ahi hiam? Leenggui leh theikung, mangkawlsing leh oliv kungte, gah nai lo lai ding ahi hiam? Tua bang hi nawn lo ding a, tu ni-a kipanin note thupha kong pia ding hi, ci hi,” a ci hi.
 
 **ZVS:** Na ansal uhah na upmawhzah sangun an na tawmzaw lai ding ahi hiam? Leenggui leh theikung, mang kawlsing leh oliv kungte gah nailo lai ding ahi hiam? Tua bang hi nawnlo ding a, tuni-a kipanin note thupha kong pia ding hi, ci hi,” a ci hi.
 
@@ -210,9 +210,9 @@
 ### v22
 **EN:** And I will overthrow the throne of kingdoms, and I will destroy the strength of the kingdoms of the heathen; and I will overthrow the chariots, and those that ride in them; and the horses and their riders shall come down, every one by the sword of his brother.
 
-**TDB77:** Kumpi gam khempeuh lumletin a vangliatna uh a beisak ding ka hi hi. Leengte leh leeng hawlte ka lawnthal ding a, sakol leengte leh a tung tuangte puk ding uh a, amaute khat leh khat kithat lum ding uh hi.
+**TDB77:** Kumpi gam khempeuh lumletin a vangliatna-te a beisak ding ka hi hi. Leengte leh leeng hawlte ka lawnthal ding a, sakol leengte leh a tung tuangte puk ding-te a, amaute khat leh khat kithat lum ding-te hi.
 
-**ZVS:** Kumpipa' gam khempeuh lumletin a vangliatna uh a beisak ding ka hi hi. Leengte leh leeng hawlte ka lawnthal ding a, sakol leengte leh a tung tuangte puk ding uh a, amaute khatlekhat kithatlum ding uh hi.
+**ZVS:** Kumpipa' gam khempeuh lumletin a vangliatna-te a beisak ding ka hi hi. Leengte leh leeng hawlte ka lawnthal ding a, sakol leengte leh a tung tuangte puk ding-te a, amaute khatlekhat kithatlum ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

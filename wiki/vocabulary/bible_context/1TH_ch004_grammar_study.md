@@ -26,41 +26,41 @@
 ### v1
 **EN:** Furthermore then we beseech you, brethren, and exhort you by the Lord Jesus, that as ye have received of us how ye ought to walk and to please God, so ye would abound more and more.
 
-**TDB77:** A khak bel thu in ute naute aw, note in bang ci nuntak ding ahi zongin, Pasian lungdamsak nadingin bang ci gamtat ding ahi zongin kote kiang pan na ngah khin zo uh hi. Tua ahih manin tua mah bangin na khangto semsem un ci-in Topa Zeisu paulamin, hong thuumin kong hansuah uh hi.
+**TDB77:** A khak bel thu in ute naute aw, note in bang ci nuntak ding ahi zongin, Pasian lungdamsak nadingin bang ci gamtat ding ahi zongin kote kiang pan na ngah khin zo-te hi. Tua ahih manin tua mah bangin na khangto semsem un ci-in Topa Zeisu paulamin, hong thuumin kong hansuah-te hi.
 
-**ZVS:** Tu-in sanggamte aw, Pasian' deihna leh ama lungkimna dingin bangci nuntak ding cih thu kote kiang panin na theihsa uh thute tawh kizui-in na nuntaksa uh ahih mah bangin a kicingzaw semsemin na nuntakna dingun i Topa Jesuh min tawh hong thumin ka hong hanthawn uh hi.
+**ZVS:** Tu-in sanggamte aw, Pasian' deihna leh ama lungkimna dingin bangci nuntak ding cih thu kote kiang panin na theihsa-te thute tawh kizui-in na nuntaksa-te ahih mah bangin a kicingzaw semsemin na nuntakna dingun i Topa Jesuh min tawh hong thumin ka hong hanthawn-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** For ye know what commandments we gave you by the Lord Jesus.
 
-**TDB77:** Topa Zeisu’ thuneihna tawh hih bang lamlahnate kong piak uh na thei uh hi.
+**TDB77:** Topa Zeisu’ thuneihna tawh hih bang lamlahnate kong piak-te na thei-te hi.
 
-**ZVS:** Bang hang hiam cih leh Topa Jesuh min tawh ka hong thuhilhnate uh na theihsa uh ahi hi.
+**ZVS:** Bang hang hiam cih leh Topa Jesuh min tawh ka hong thuhilhnate-te na theihsa-te ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** For this is the will of God, even your sanctification, that ye should abstain from fornication:
 
-**TDB77:** Pasian’ deihna in note in numei tawh khialhna tangin na sian’tho nading uh ahi zongin,
+**TDB77:** Pasian’ deihna in note in numei tawh khialhna tangin na sian’tho nading-te ahi zongin,
 
-**ZVS:** Note a siangtho-in nungta-in numei tunga mawhna tawh na kipelh siangthona ding uh Pasian in hong deih hi.
+**ZVS:** Note a siangtho-in nungta-in numei tunga mawhna tawh na kipelh siangthona ding-te Pasian in hong deih hi.
 
 ### v5
 **EN:** Not in the lust of concupiscence, even as the Gentiles which know not God:
 
-**TDB77:** Pasian a theilo dawibiate in kilunggulhna hang bek tawh a pumpi uh a zat bang hiloin, note in a kilawm a siangtho-in na pumpi uh bangci zatding cih thu na theih ding uh hong deih hi.
+**TDB77:** Pasian a theilo dawibiate in kilunggulhna hang bek tawh a pumpi-te a zat bang hiloin, note in a kilawm a siangtho-in na pumpi-te bangci zatding cih thu na theih ding-te hong deih hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** That no man go beyond and defraud his brother in any matter: because that the Lord is the avenger of all such, as we also have forewarned you and testified.
 
-**TDB77:** hih thu-ah kuamah in a u, a nau tungah kheemna tawh a khialh loh nading ahi zongin a hong deih hi. Kote in hilhin, thuciam ka hong piaksa uh bangin Topa in tua banga khialhna khempeuh a thuk mi ahi hi.
+**TDB77:** hih thu-ah kuamah in a u, a nau tungah kheemna tawh a khialh loh nading ahi zongin a hong deih hi. Kote in hilhin, thuciam ka hong piaksa-te bangin Topa in tua banga khialhna khempeuh a thuk mi ahi hi.
 
-**ZVS:** Hih bang thute-ah kuamah in Khrih sungah na sanggamte uh tungah na khialhlohna ding uh leh na khasiatsak lohna ding uh hong deih hi. Pasian in hih bangin a gamta mite gim pia ding hi, ci-in khauhtakin note kiangah ka hong genkhol khinzo uh hi.
+**ZVS:** Hih bang thute-ah kuamah in Khrih sungah na sanggamte-te tungah na khialhlohna ding-te leh na khasiatsak lohna ding-te hong deih hi. Pasian in hih bangin a gamta mite gim pia ding hi, ci-in khauhtakin note kiangah ka hong genkhol khinzo-te hi.
 
 ### v7
 **EN:** For God hath not called us unto uncleanness, but unto holiness.
@@ -83,41 +83,41 @@
 ### v9
 **EN:** But as touching brotherly love ye need not that I write unto you: for ye yourselves are taught of God to love one another.
 
-**TDB77:** Ute naute ki-itna thu ahih leh, note kiangah gelhin mi khatpeuh kong piak nading a om kei hi. Bang hang hiam na cih uh leh, note khat leh khat na ki-it nading uh Pasian’ hilhna a ngah mi na hi uh hi.
+**TDB77:** Ute naute ki-itna thu ahih leh, note kiangah gelhin mi khatpeuh kong piak nading a om kei hi. Bang hang hiam na cih-te leh, note khat leh khat na ki-it nading-te Pasian’ hilhna a ngah mi na hi-te hi.
 
-**ZVS:** Ahi zongin thu uppih mite it ding tawh kisai-in bangmah gelh ding na kisam nawn kei uh hi. Khatlekhat na ki-itna ding uh Pasian in note tungah hong hilh khinzo hi.
+**ZVS:** Ahi zongin thu uppih mite it ding tawh kisai-in bangmah gelh ding na kisam nawn kei-te hi. Khatlekhat na ki-itna ding-te Pasian in note tungah hong hilh khinzo hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And indeed ye do it toward all the brethren which are in all Macedonia: but we beseech you, brethren, that ye increase more and more;
 
-**TDB77:** Tua tham loin, Makedonia gam mun khempeuh ah a om ute naute khempeuh tungah tua bang na hih uh hi. Ahih hangin ute naute aw, note in khangin, na hauh semsem theih nadingun ahi zongin,
+**TDB77:** Tua tham loin, Makedonia gam mun khempeuh ah a om ute naute khempeuh tungah tua bang na hih-te hi. Ahih hangin ute naute aw, note in khangin, na hauh semsem theih nadingun ahi zongin,
 
-**ZVS:** Masedonia gamsunga om thu um mi khempeuh na it khin takpi uh hi. Tua ahih manin sanggamte aw, itna na neih semsemna dingun ka hong thum uh hi.
+**ZVS:** Masedonia gamsunga om thu um mi khempeuh na it khin takpi-te hi. Tua ahih manin sanggamte aw, itna na neih semsemna dingun ka hong thum-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** And that ye study to be quiet, and to do your own business, and to work with your own hands, as we commanded you;
 
-**TDB77:** Tu ma-a ka hong gensa uh mah bangin kamtam nuam se loin hoihtakin om hithiatna, no tawh a kisai thu bek ngaihsutna, leh note' nuntakna ding na na sepna ding uh hanciamin nei un.
+**TDB77:** Tu ma-a ka hong gensa-te mah bangin kamtam nuam se loin hoihtakin om hithiatna, no tawh a kisai thu bek ngaihsutna, leh note' nuntakna ding na na sepna ding-te hanciamin nei un.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** That ye may walk honestly toward them that are without, and that ye may have lack of nothing.
 
-**TDB77:** Tua bangin gamta le uh cin thu umlo mite in note hong zahtak ding uh a, mite' neihsa na duhgawh kei ding uh hi.
+**TDB77:** Tua bangin gamta le-te cin thu umlo mite in note hong zahtak ding-te a, mite' neihsa na duhgawh kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v13
 **EN:** But I would not have you to be ignorant, brethren, concerning them which are asleep, that ye sorrow not, even as others which have no hope.
 
-**TDB77:** Ute naute aw, muan’na a nei lo midangte a dah bangun note in na dah loh nadingun a si mite’ thu thei loin na om ding uh ka deih kei uh hi.
+**TDB77:** Ute naute aw, muan’na a nei lo midangte a dah bangun note in na dah loh nadingun a si mite’ thu thei loin na om ding-te ka deih kei-te hi.
 
-**ZVS:** Sanggamte aw, lametna a neilo mite bangin na dahluat lohna dingun a sisa mite' omzia ding thu na theih ding uh ka deih hi.
+**ZVS:** Sanggamte aw, lametna a neilo mite bangin na dahluat lohna dingun a sisa mite' omzia ding thu na theih ding-te ka deih hi.
 
 **Grammar:** negation: kei | negation: lo | plural: uh marker
 
@@ -133,16 +133,16 @@
 ### v15
 **EN:** For this we say unto you by the word of the Lord, that we which are alive and remain unto the coming of the Lord shall not prevent them which are asleep.
 
-**TDB77:** Topa’ thupiak kholhna bangin kote in note kiangah kong gen uh thu in: Topa hong kumsuk dongin nungta-in a om lai eite in a si mite mai-ah omna ngah ding i hi peuhmah kei ding hi.
+**TDB77:** Topa’ thupiak kholhna bangin kote in note kiangah kong gen-te thu in: Topa hong kumsuk dongin nungta-in a om lai eite in a si mite mai-ah omna ngah ding i hi peuhmah kei ding hi.
 
-**ZVS:** Topa' thugen note kiangah ka hong gen uh thu in: Topa hong paikik ni ciangin a nungta lai eite pen a sisa mite tawh a kimuh ma-in Topa tawh i kimu kei ding hi.
+**ZVS:** Topa' thugen note kiangah ka hong gen-te thu in: Topa hong paikik ni ciangin a nungta lai eite pen a sisa mite tawh a kimuh ma-in Topa tawh i kimu kei ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 
 ### v16
 **EN:** For the Lord himself shall descend from heaven with a shout, with the voice of the archangel, and with the trump of God: and the dead in Christ shall rise first:
 
-**TDB77:** Bang hang hiam na cih uh leh, Topa mah in kikona tawh, vantungmi mangpa’ kikona tawh, Pasian’ peengkul tumna tawh, vantung pan hong kumsukin, Khazih sungah a sisa mite in a tho masa ding uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, Topa mah in kikona tawh, vantungmi mangpa’ kikona tawh, Pasian’ peengkul tumna tawh, vantung pan hong kumsukin, Khazih sungah a sisa mite in a tho masa ding-te hi.
 
 **ZVS:** Pasian' thupiakna awging lianpi, vantung mi mangpa' thugenna, leh Pasian' peengkul hong ging ding a, vantung panin Topa mahmah hong paisuk ding hi.
 

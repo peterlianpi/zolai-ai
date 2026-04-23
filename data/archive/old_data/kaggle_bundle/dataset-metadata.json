@@ -1,0 +1,9 @@
+{
+  "title": "Zolai Training Bundle",
+  "id": "peterpausianlian/zolai-training-bundle",
+  "licenses": [{"name": "MIT"}],
+  "subtitle": "Full training data for Zolai language model (2.2M entries)",
+  "description": "Complete Zolai (Tedim) language training dataset. Format: {\"text\": \"sentence\"}\n\n- zolai_train_full.jsonl: 2,247,330 entries (444MB)\n- zolai_val.jsonl: 5,000 entries\n\nSources: Bible translations (TB77, Judson, Tedim1932, Luther), Kaggle LCEA, zolai-toolkit corpus. Use with Qwen2-1.5B + LoRA on T4 GPU.",
+  "is_private": false,
+  "keywords": ["nlp", "language-model", "zolai", "tedim", "chin"]
+}

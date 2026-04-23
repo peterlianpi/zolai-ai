@@ -40,18 +40,18 @@
 ### v3
 **EN:** And the Gentiles shall come to thy light, and kings to the brightness of thy rising.
 
-**TDB77:** Nangma khuavak sungah minam dangte hong pai ding uh a, nangma taan’khiatna sungah kumpite hong pai ding uh hi.
+**TDB77:** Nangma khuavak sungah minam dangte hong pai ding-te a, nangma taan’khiatna sungah kumpite hong pai ding-te hi.
 
-**ZVS:** Nangma khuavak sungah minam dangte hong pai ding uh a, nangma taan'khiatna sungah kumpite hong pai ding uh hi.
+**ZVS:** Nangma khuavak sungah minam dangte hong pai ding-te a, nangma taan'khiatna sungah kumpite hong pai ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v4
 **EN:** Lift up thine eyes round about, and see: all they gather themselves together, they come to thee: thy sons shall come from far, and thy daughters shall be nursed at thy side.
 
-**TDB77:** Na kimkotah khuadak in la, mu in; na mite kikaikhawmin a ciah dingin nang kiangah hong pai uh hi; na tapate gamlapi panin hong ciah ding a, naungek bangin na tanute’ ang sungah hong kipua ding hi.
+**TDB77:** Na kimkotah khuadak in la, mu in; na mite kikaikhawmin a ciah dingin nang kiangah hong pai-te hi; na tapate gamlapi panin hong ciah ding a, naungek bangin na tanute’ ang sungah hong kipua ding hi.
 
-**ZVS:** Na kimkotah khuadak in la mu in. Na mite kikaikhawmin nang kiangah a ciah dingin hong pai uh hi. Na tapate gamlapi panin hong ciah ding uh a, na tanute naungek bangin hong kipua ding hi.
+**ZVS:** Na kimkotah khuadak in la mu in. Na mite kikaikhawmin nang kiangah a ciah dingin hong pai-te hi. Na tapate gamlapi panin hong ciah ding-te a, na tanute naungek bangin hong kipua ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -67,9 +67,9 @@
 ### v6
 **EN:** The multitude of camels shall cover thee, the dromedaries of Midian and Ephah; all they from Sheba shall come: they shall bring gold and incense; and they shall shew forth the praises of the
 
-**TDB77:** Midian mite leh Ephah mite’ kalaohnote, kalaoh honpite in nang hong tuam ding uh a, Sheba gam sunga om khempeuh hong pai ding uh hi. Amaute in kham leh paknamtui hong paipih ding uh a, Topa phatna taangko ding uh hi.
+**TDB77:** Midian mite leh Ephah mite’ kalaohnote, kalaoh honpite in nang hong tuam ding-te a, Sheba gam sunga om khempeuh hong pai ding-te hi. Amaute in kham leh paknamtui hong paipih ding-te a, Topa phatna taangko ding-te hi.
 
-**ZVS:** Midian mite leh Efah mite' kalaoh note, kalaoh honpite in nang hong tuam ding uh a, Sheba gamsunga om khempeuh hong pai ding uh hi. Amaute in kham leh paknamtui hong paipih ding uh a, { Topa } phatna a taangko ding uh hi.
+**ZVS:** Midian mite leh Efah mite' kalaoh note, kalaoh honpite in nang hong tuam ding-te a, Sheba gamsunga om khempeuh hong pai ding-te hi. Amaute in kham leh paknamtui hong paipih ding-te a, { Topa } phatna a taangko ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -92,18 +92,18 @@
 ### v9
 **EN:** Surely the isles shall wait for me, and the ships of Tarshish first, to bring thy sons from far, their silver and their gold with them, unto the name of the
 
-**TDB77:** Hih teembawte pen, tuipi gei leh tuikulh-a om teembawte hi a, Tarshish teembaw lianpite in hong makaih hi. Topa in nang hong minthangsak khin ahih manin, gamlapi panin tua teembawte in nangma mite hong puak uh a, a ngun a khamte uh tawh hong puak khawm hi. Topa na Pasian, Israelte’ Siangtho Pa Pahtawina-a hong puak uh ahi hi.
+**TDB77:** Hih teembawte pen, tuipi gei leh tuikulh-a om teembawte hi a, Tarshish teembaw lianpite in hong makaih hi. Topa in nang hong minthangsak khin ahih manin, gamlapi panin tua teembawte in nangma mite hong puak-te a, a ngun a khamte-te tawh hong puak khawm hi. Topa na Pasian, Israelte’ Siangtho Pa Pahtawina-a hong puak-te ahi hi.
 
-**ZVS:** Hih teembawte pen tuipi gei leh tuikulhah a om teembawte hi a, Tarshish teembaw lianpite in hong makaih hi. { Topa } in nangmah a minthang mahmahin hong bawlkhin ahih manin gamlapi panin tua teembawte in nangma mite hong puak uh a, a ngun a khamte uh tawh hong puakkhawm uh hi. { Topa}, na Pasian, Israel-te' Siangtho Pa a pahtawina-in a hong puak uh ahi hi.
+**ZVS:** Hih teembawte pen tuipi gei leh tuikulhah a om teembawte hi a, Tarshish teembaw lianpite in hong makaih hi. { Topa } in nangmah a minthang mahmahin hong bawlkhin ahih manin gamlapi panin tua teembawte in nangma mite hong puak-te a, a ngun a khamte-te tawh hong puakkhawm-te hi. { Topa}, na Pasian, Israel-te' Siangtho Pa a pahtawina-in a hong puak-te ahi hi.
 
 **Grammar:** causal: because | plural: uh marker
 
 ### v10
 **EN:** And the sons of strangers shall build up thy walls, and their kings shall minister unto thee: for in my wrath I smote thee, but in my favour have I had mercy on thee.
 
-**TDB77:** Gamdang mite in na kulhte ciangkik ding a, amau kumpite in nangma na hong sem ding uh hi; bang hang hiam cih leh ka hehna tawh nang kong vat gawp khin a, ahih hangin tu-in keima maipha tawh nang tungah hehpihna kong nei khin hi.
+**TDB77:** Gamdang mite in na kulhte ciangkik ding a, amau kumpite in nangma na hong sem ding-te hi; bang hang hiam cih leh ka hehna tawh nang kong vat gawp khin a, ahih hangin tu-in keima maipha tawh nang tungah hehpihna kong nei khin hi.
 
-**ZVS:** Gamdang mite in na kulhte ciangkik ding uh a, amau' kumpite in nangma na hong sem ding uh hi. Bang hang hiam cih leh ka hehna tawh nang kong vatgawp khin a, ahih hangin tu-in keima maipha tawh nang tungah hehpihna kong nei khin hi.
+**ZVS:** Gamdang mite in na kulhte ciangkik ding-te a, amau' kumpite in nangma na hong sem ding-te hi. Bang hang hiam cih leh ka hehna tawh nang kong vatgawp khin a, ahih hangin tu-in keima maipha tawh nang tungah hehpihna kong nei khin hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | future: will | plural: uh marker
 
@@ -112,7 +112,7 @@
 
 **TDB77:** Kigual diudeu-a paina ah a kumpite un hong makai-in, mite in minamte’ hauhna nang kiangah hong paipih theih nadingin na kulh kongpite kihong tawntung ding hi; a sun a zanin kikhak lo ding hi.
 
-**ZVS:** Kigual deudau-in a hong paina uhah a kumpite uh hong makai-in, mite in minamte' hauhna na kiang hong tuttheihna dingin na kulhkongpite kihong tawntung ding a, a sun a zanin kikhak ngeilo ding hi.
+**ZVS:** Kigual deudau-in a hong paina uhah a kumpite-te hong makai-in, mite in minamte' hauhna na kiang hong tuttheihna dingin na kulhkongpite kihong tawntung ding a, a sun a zanin kikhak ngeilo ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -137,9 +137,9 @@
 ### v14
 **EN:** The sons also of them that afflicted thee shall come bending unto thee; and all they that despised thee shall bow themselves down at the soles of thy feet; and they shall call thee, The city of the
 
-**TDB77:** Nangmah hong nengniamte’ tate nangma mai-ah kunsa-in hong pai ding uh a, nangmah hong simmawh mi khempeuh na khe mai-ah hong bok ding uh hi; amaute in nang pen Topa’ Khuapi, Israelte’ Siangtho Pa’ Zion, hong ci ding uh hi.
+**TDB77:** Nangmah hong nengniamte’ tate nangma mai-ah kunsa-in hong pai ding-te a, nangmah hong simmawh mi khempeuh na khe mai-ah hong bok ding-te hi; amaute in nang pen Topa’ Khuapi, Israelte’ Siangtho Pa’ Zion, hong ci ding-te hi.
 
-**ZVS:** Nang hong nengniamte' tate na mai-ah a kunsa-in hong pai ding uh a, nang hong simmawh mi khempeuh na khe mai-ah hong bok ding uh hi. Amaute in nang pen { Topa}' khuapi, Israel-te' Siangtho Pa' Zion, hong ci ding uh hi.
+**ZVS:** Nang hong nengniamte' tate na mai-ah a kunsa-in hong pai ding-te a, nang hong simmawh mi khempeuh na khe mai-ah hong bok ding-te hi. Amaute in nang pen { Topa}' khuapi, Israel-te' Siangtho Pa' Zion, hong ci ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -155,18 +155,18 @@
 ### v16
 **EN:** Thou shalt also suck the milk of the Gentiles, and shalt suck the breast of kings: and thou shalt know that I the
 
-**TDB77:** Nupi khat in a ta nawi pia-in limtakin a kep bangin, ninamte leh kumpite in nang hong vakin hong kem ding uh hi. Tua ciangin kei pen Topa, nangmah Honpa, nangmah Tankhiapa, Jakob’ Vanglian Pa ka hihna na thei ding hi.
+**TDB77:** Nupi khat in a ta nawi pia-in limtakin a kep bangin, ninamte leh kumpite in nang hong vakin hong kem ding-te hi. Tua ciangin kei pen Topa, nangmah Honpa, nangmah Tankhiapa, Jakob’ Vanglian Pa ka hihna na thei ding hi.
 
-**ZVS:** Nupi khat in a ta nawi pia-in limtakin a kep bangin, minamte leh kumpite in nang hong vakin hong kem ding uh hi. Tua ciangin kei pen { Topa}, nangmah a hong Honpa, nangmah a hong Tankhiapa, Jakob' Vanglian Pa ka hihna na thei ding hi.
+**ZVS:** Nupi khat in a ta nawi pia-in limtakin a kep bangin, minamte leh kumpite in nang hong vakin hong kem ding-te hi. Tua ciangin kei pen { Topa}, nangmah a hong Honpa, nangmah a hong Tankhiapa, Jakob' Vanglian Pa ka hihna na thei ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v17
 **EN:** For brass I will bring gold, and for iron I will bring silver, and for wood brass, and for stones iron: I will also make thy officers peace, and thine exactors righteousness.
 
-**TDB77:** Sumngo tangin kham kong paipih ding a, sik tangin ngun kong paipih ding hi; sing tangin sumngo, suang tangin sik kong paipih ding hi. Nuam na sak nadingun na mangliante uh bawlin, na nasem ukte thuman thutang tawh na ka semsak ding hi.
+**TDB77:** Sumngo tangin kham kong paipih ding a, sik tangin ngun kong paipih ding hi; sing tangin sumngo, suang tangin sik kong paipih ding hi. Nuam na sak nadingun na mangliante-te bawlin, na nasem ukte thuman thutang tawh na ka semsak ding hi.
 
-**ZVS:** Sumngo tangin kham kong puak ding a, sik tangin ngun kong paipih ding hi. Sing tangin sumngo, suang tangin sik kong puak ding hi. Nuam na sakna dingin na mang liante uh bawlin na nasem ukte uh thuman thutang tawh na ka semsak ding hi.
+**ZVS:** Sumngo tangin kham kong puak ding a, sik tangin ngun kong paipih ding hi. Sing tangin sumngo, suang tangin sik kong puak ding hi. Nuam na sakna dingin na mang liante-te bawlin na nasem ukte-te thuman thutang tawh na ka semsak ding hi.
 
 **Grammar:** future: will
 
@@ -200,9 +200,9 @@
 ### v21
 **EN:** Thy people also shall be all righteous: they shall inherit the land for ever, the branch of my planting, the work of my hands, that I may be glorified.
 
-**TDB77:** Na mihingte khempeuh thuman ding hi; keima min a than’ nadingin keima suansa kung, ka khut tawh ka sepsa ahi gam pen amaute in nei pai suak ding uh hi.
+**TDB77:** Na mihingte khempeuh thuman ding hi; keima min a than’ nadingin keima suansa kung, ka khut tawh ka sepsa ahi gam pen amaute in nei pai suak ding-te hi.
 
-**ZVS:** Na mihingte khempeuh thuman ding uh hi. Keima min a than'na dingin keima suansa kung, ka khut tawh ka sepsa gam pen amaute in nei paisuak ding uh hi.
+**ZVS:** Na mihingte khempeuh thuman ding-te hi. Keima min a than'na dingin keima suansa kung, ka khut tawh ka sepsa gam pen amaute in nei paisuak ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 

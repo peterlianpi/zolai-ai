@@ -54,9 +54,9 @@
 ### v4
 **EN:** And they shall spring up as among the grass, as willows by the water courses.
 
-**TDB77:** Amaute pen lopa dumna-a a po lopa bangin, tui sung pan-a pokhia, lui tui luang gei-a a om gialheek kungte bangin po khia ding uh hi.
+**TDB77:** Amaute pen lopa dumna-a a po lopa bangin, tui sung pan-a pokhia, lui tui luang gei-a a om gialheek kungte bangin po khia ding-te hi.
 
-**ZVS:** Amaute pen tui sung panin a pokhia, luitui luang gei-ah a om, gialhek kungte bangin pokhia ding uh hi.
+**ZVS:** Amaute pen tui sung panin a pokhia, luitui luang gei-ah a om, gialhek kungte bangin pokhia ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -90,18 +90,18 @@
 ### v8
 **EN:** Fear ye not, neither be afraid: have not I told thee from that time, and have declared it? ye are even my witnesses. Is there a God beside me? yea, there is no God; I know not any.
 
-**TDB77:** Lau kei un la, kihta kei un; tanglai pek panin note kiangah hong genin pulak khin hilo ka hi hiam? Note in keima tecite na hi uh hi! Kei sim loh Pasian dang om ahi hiam? Suangpi dang om lo hi; khat beek ka thei kei hi,” ci hi.
+**TDB77:** Lau kei un la, kihta kei un; tanglai pek panin note kiangah hong genin pulak khin hilo ka hi hiam? Note in keima tecite na hi-te hi! Kei sim loh Pasian dang om ahi hiam? Suangpi dang om lo hi; khat beek ka thei kei hi,” ci hi.
 
-**ZVS:** Lau kei un la, kihta kei un. Tanglai pek panin note kiangah hong genin hong pulak khin hilo ka hi hiam? Note khempeuh keima teci na hi uh hi. Kei simloh pasian dang om ahi hiam? Suangpi dang omlo hi. Khat beek ka thei kei hi,” a ci hi.
+**ZVS:** Lau kei un la, kihta kei un. Tanglai pek panin note kiangah hong genin hong pulak khin hilo ka hi hiam? Note khempeuh keima teci na hi-te hi. Kei simloh pasian dang om ahi hiam? Suangpi dang omlo hi. Khat beek ka thei kei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** They that make a graven image are all of them vanity; and their delectable things shall not profit; and they are their own witnesses; they see not, nor know; that they may be ashamed.
 
-**TDB77:** Milim a bawl mite khempeuh a mawkna hi a, amau’ deih milimte in phattuamna piangsak lo hi; milim a biate in khuamu thei lo, thu theithei lo a, amaute in maizumna thuak uh hi.
+**TDB77:** Milim a bawl mite khempeuh a mawkna hi a, amau’ deih milimte in phattuamna piangsak lo hi; milim a biate in khuamu thei lo, thu theithei lo a, amaute in maizumna thuak-te hi.
 
-**ZVS:** Milim a bawl mite khempeuh a mawkna hi a, amau' deih milimte in phattuamna piangsak lo hi. Milim a biate in khua mu theiloin, thu thei theilo a, amaute in maizumna a thuak uh hi.
+**ZVS:** Milim a bawl mite khempeuh a mawkna hi a, amau' deih milimte in phattuamna piangsak lo hi. Milim a biate in khua mu theiloin, thu thei theilo a, amaute in maizumna a thuak-te hi.
 
 **Grammar:** causative: -sak suffix | negation: lo | plural: uh marker
 
@@ -117,9 +117,9 @@
 ### v11
 **EN:** Behold, all his fellows shall be ashamed: and the workmen, they are of men: let them all be gathered together, let them stand up; yet they shall fear, and they shall be ashamed together.
 
-**TDB77:** En un, ama kikholpih mite khempeuh in maizumna ngah ding hi, khutsiamte pen mi hi lel uh hi; amaute khempeuh kikhawm sakin ding sak un, amaute nakpi takin kilausak ding a, a vekpiun maizumin kikoih khawm ding hi.
+**TDB77:** En un, ama kikholpih mite khempeuh in maizumna ngah ding hi, khutsiamte pen mi hi lel-te hi; amaute khempeuh kikhawm sakin ding sak un, amaute nakpi takin kilausak ding a, a vekpiun maizumin kikoih khawm ding hi.
 
-**ZVS:** Milim a bia mite khempeuh in maizumna ngah ding uh hi. Milim a bawl khutsiamte pen mi hilel uh hi. Amaute khempeuh kikhawm sakin dingsak un. Amaute nakpi takin kilausak ding a, a vekpi-un maizumin kikoih khawm ding hi.
+**ZVS:** Milim a bia mite khempeuh in maizumna ngah ding-te hi. Milim a bawl khutsiamte pen mi hilel-te hi. Amaute khempeuh kikhawm sakin dingsak un. Amaute nakpi takin kilausak ding a, a vekpi-un maizumin kikoih khawm ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -178,9 +178,9 @@
 ### v18
 **EN:** They have not known nor understood: for he hath shut their eyes, that they cannot see; and their hearts, that they cannot understand.
 
-**TDB77:** Amaute in bangmah thei lo, amaute in bangmah khentel thei lo uh hi; bang hang hiam cih leh amaute in bangmah a muh loh nadingun amah in a mit uh humsakin, bangmah a theih loh nadingun a lungsim uh khaksak hi.
+**TDB77:** Amaute in bangmah thei lo, amaute in bangmah khentel thei lo-te hi; bang hang hiam cih leh amaute in bangmah a muh loh nadingun amah in a mit-te humsakin, bangmah a theih loh nadingun a lungsim-te khaksak hi.
 
-**ZVS:** Amaute in bangmah theilo a, amaute in bangmah khentel theilo uh hi. Bang hang hiam cih leh amaute in bangmah a muh theihlohna dingun amah in a mit uh humsakin, bangmah a theihlohna dingun a lungsim uh khaksak hi.
+**ZVS:** Amaute in bangmah theilo a, amaute in bangmah khentel theilo-te hi. Bang hang hiam cih leh amaute in bangmah a muh theihlohna dingun amah in a mit-te humsakin, bangmah a theihlohna dingun a lungsim-te khaksak hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

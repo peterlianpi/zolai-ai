@@ -109,18 +109,18 @@
 ### v11
 **EN:** My lovers and my friends stand aloof from my sore; and my kinsmen stand afar off.
 
-**TDB77:** Ka gim thuakna-ah ka lawmte leh ka kithuahpihte kidaang koih uh a, ka behte kei kiang pan gamla om uh hi.
+**TDB77:** Ka gim thuakna-ah ka lawmte leh ka kithuahpihte kidaang koih-te a, ka behte kei kiang pan gamla om-te hi.
 
-**ZVS:** Ka gim thuakna-ah ka lawmte leh ka kithuahpihte kidang koih uh a, keima behte nangawn kei kiang pan gamla om uh hi.
+**ZVS:** Ka gim thuakna-ah ka lawmte leh ka kithuahpihte kidang koih-te a, keima behte nangawn kei kiang pan gamla om-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** They also that seek after my life lay snares for me: and they that seek my hurt speak mischievous things, and imagine deceits all the day long.
 
-**TDB77:** Kei hong that nuamte in a thang uh zakin, kei’ nat nading a zongte in siatna thu gen uh a, sunthapai-in khemna bek ngaihsun uh hi.
+**TDB77:** Kei hong that nuamte in a thang-te zakin, kei’ nat nading a zongte in siatna thu gen-te a, sunthapai-in khemna bek ngaihsun-te hi.
 
-**ZVS:** Kei a hong that nuamte in a thang uh zak a, kei' natna ding a zongte in siatna ding thu bek gen uh a, sunthapai-in khemna bekbek ngaihsutin nei uh hi.
+**ZVS:** Kei a hong that nuamte in a thang-te zak a, kei' natna ding a zongte in siatna ding thu bek gen-te a, sunthapai-in khemna bekbek ngaihsutin nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -179,7 +179,7 @@
 
 **TDB77:** Thuman lopi-a ka gal a hite thahat a, kei hong mudah khialte tam mahmah hi.
 
-**ZVS:** A thuman lopi-in ka gal a hite thahat a, kei a hong mudah khialte tam mahmah uh hi.
+**ZVS:** A thuman lopi-in ka gal a hite thahat a, kei a hong mudah khialte tam mahmah-te hi.
 
 **Grammar:** intensifier: very/greatly
 

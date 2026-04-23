@@ -54,9 +54,9 @@
 ### v4
 **EN:** Howbeit the high places were not taken away: as yet the people did sacrifice and burnt incense on the high places.
 
-**TDB77:** Mual tunga biaknate koih khia lo hi; mite in tuate tungah biakna pia-in paknamtui hal lai uh hi.
+**TDB77:** Mual tunga biaknate koih khia lo hi; mite in tuate tungah biakna pia-in paknamtui hal lai-te hi.
 
-**ZVS:** Mualtunga biaknate koihkhia lo hi. Mite in tuate tungah biakna pia-in paknamtui hal lai uh hi.
+**ZVS:** Mualtunga biaknate koihkhia lo hi. Mite in tuate tungah biakna pia-in paknamtui hal lai-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -117,18 +117,18 @@
 ### v11
 **EN:** But Amaziah would not hear. Therefore Jehoash king of Israel went up; and he and Amaziah king of Judah looked one another in the face at Beth–shemesh, which belongeth to Judah.
 
-**TDB77:** Ahih hangin Amaziah in a thu ngai lo hi. Tua ahih ciangin Israel kumpipa Jehoash paito a, Judahte’ gam Bethshemesh ah amah leh Judah kumpipa Amaziah khat leh khat kimaituahin gal kido uh hi.
+**TDB77:** Ahih hangin Amaziah in a thu ngai lo hi. Tua ahih ciangin Israel kumpipa Jehoash paito a, Judahte’ gam Bethshemesh ah amah leh Judah kumpipa Amaziah khat leh khat kimaituahin gal kido-te hi.
 
-**ZVS:** Ahih hangin Amaziah in a thu ngailo hi. Tua ahih ciangin Israel kumpipa Jehoash paito a, Judah-te' gam Bethshemesh-ah amah leh Judah kumpipa Amaziah khatlekhat kimaituahin gal kido uh hi.
+**ZVS:** Ahih hangin Amaziah in a thu ngailo hi. Tua ahih ciangin Israel kumpipa Jehoash paito a, Judah-te' gam Bethshemesh-ah amah leh Judah kumpipa Amaziah khatlekhat kimaituahin gal kido-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And Judah was put to the worse before Israel; and they fled every man to their tents.
 
-**TDB77:** Tua ciangin Israel in Judah zo a, mi khempeuh a inn uhah tai uh hi.
+**TDB77:** Tua ciangin Israel in Judah zo a, mi khempeuh a inn uhah tai-te hi.
 
-**ZVS:** Tua ciangin Israel in Judah zo a, mi khempeuh a inn ciat uhah tai uh hi.
+**ZVS:** Tua ciangin Israel in Judah zo a, mi khempeuh a inn ciat uhah tai-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -187,27 +187,27 @@
 ### v19
 **EN:** Now they made a conspiracy against him in Jerusalem: and he fled to Lachish; but they sent after him to Lachish, and slew him there.
 
-**TDB77:** Tua ciangin amaute in Jerusalem ah amah sawmsim uh a, amah zong Lakhish ah tai hi. Ahih hangin amaute in ama nung zui-in Lakhish ah mi sawl uh a, tua lai-ah amah that uh hi.
+**TDB77:** Tua ciangin amaute in Jerusalem ah amah sawmsim-te a, amah zong Lakhish ah tai hi. Ahih hangin amaute in ama nung zui-in Lakhish ah mi sawl-te a, tua lai-ah amah that-te hi.
 
-**ZVS:** Tua ciangin amaute in Jerusalem-ah amah sawmsim uh a, amah zong Lakhish-ah tai hi. Ahih hangin amaute in ama nung zui-in Lakhish-ah mi sawl uh a, tua lai-ah amah that uh hi.
+**ZVS:** Tua ciangin amaute in Jerusalem-ah amah sawmsim-te a, amah zong Lakhish-ah tai hi. Ahih hangin amaute in ama nung zui-in Lakhish-ah mi sawl-te a, tua lai-ah amah that-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v20
 **EN:** And they brought him on horses: and he was buried at Jerusalem with his fathers in the city of David.
 
-**TDB77:** Tua ciangin amaute in sakolte tungah amah hong paipih uh hi; David’ khuapi sung Jerusalem ah a pate tawh amah kivui hi.
+**TDB77:** Tua ciangin amaute in sakolte tungah amah hong paipih-te hi; David’ khuapi sung Jerusalem ah a pate tawh amah kivui hi.
 
-**ZVS:** Tua ciangin amaute in sakolte tungah amah hong pua uh hi. David khuapisung Jerusalem-ah a pate tawh amah kivui hi.
+**ZVS:** Tua ciangin amaute in sakolte tungah amah hong pua-te hi. David khuapisung Jerusalem-ah a pate tawh amah kivui hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And all the people of Judah took Azariah, which was sixteen years old, and made him king instead of his father Amaziah.
 
-**TDB77:** Tua ciangin Judah mite khempeuh in kum sawm-le-guk a pha Uzziah la-in a pa Amaziah’ tangin kumpi-in koih uh hi.
+**TDB77:** Tua ciangin Judah mite khempeuh in kum sawm-le-guk a pha Uzziah la-in a pa Amaziah’ tangin kumpi-in koih-te hi.
 
-**ZVS:** Tua ciangin Judah mite khempeuh in kum sawmleguk a pha Uzziah la-in a pa Amaziah' tangin kumpi-in a koih uh hi.
+**ZVS:** Tua ciangin Judah mite khempeuh in kum sawmleguk a pha Uzziah la-in a pa Amaziah' tangin kumpi-in a koih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

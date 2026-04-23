@@ -3,7 +3,7 @@
 Avoid these common mistakes when generating Zolai Tedim.
 
 ## 1. Mixing Dialects
-- **Mistake:** Using "Pathian" (Hakha) for God.
+- **Mistake:** Using "pasian" (Hakha) for God.
 - **Correct:** Always use "Pasian".
 - **Also avoid:** `gam` (use `gam`), `tapa` (use `tapa`), `topa` (use `topa`), `???` (use `kumpipa`), `tua`/`tuan` (use `tua`), `nunnak` (use `nuntakna`), `zalenna` (use `suahtakna`)
 
@@ -28,7 +28,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 - **Correct:** Use "Suahtakna".
 
 ## 7. Plurality violation `i` + `uh`
-- **Mistake:** `I kiphawk mahmah uh ahihman in...`
+- **Mistake:** `I kiphawk mahmah-te ahihman in...`
 - **Correct:** `I kiphawk mahmah ahihman in...` — drop `uh` when using `i`.
 - **Rule:** NEVER combine `uh` with `i`. (Khanggui lines 474–481)
 
@@ -45,7 +45,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 
 ## 10. Sentence-final particles (learned from 2.8M corpus)
 - `maw` — soft question/confirmation: `Hoih maw?`
-- `uhi`/`uh hi` — 3rd person plural declarative: `A pai uh hi.`
+- `uhi`/`uh hi` — 3rd person plural declarative: `A pai-te hi.`
 - `ing` — 1st person exclusive future: `Ka pai ing.`
 - `ahihi` — contracted `ahi hi`
 - `diam` — soft question: `Na pai ding diam?`
@@ -90,7 +90,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 - `kikhawm` = gather/assemble (general)
 - `ki mu khawm` = meet together (people coming to meet each other specifically)
 - For diplomatic meetings: use `ki mu khawm`
-- Example: `US leh Iran te in Pakistan ah ki mu khawm uh hi.`
+- Example: `US leh Iran te in Pakistan ah ki mu khawm-te hi.`
 
 ## 14. `thu a kigen` vs `thu a kikum`
 - `thu a kigen uh` = they spoke/said words (general speech)
@@ -104,8 +104,8 @@ Avoid these common mistakes when generating Zolai Tedim.
 
 ## 16. Failed negotiations phrasing
 - `thu a kituah lo` = the matter did not happen (too vague)
-- `a thu uh a kituak kei hi` = their matter did not come together/agree
-- `thukim na a ngah kei uh hi` = they did not obtain agreement (most precise)
+- `a thu-te a kituak kei hi` = their matter did not come together/agree
+- `thukim na a ngah kei-te hi` = they did not obtain agreement (most precise)
 
 ## 17. Degrees of leaving/departing
 - `a ciah hi` = he left (neutral)
@@ -127,12 +127,12 @@ Avoid these common mistakes when generating Zolai Tedim.
 - `lauhuai` = dangerous / scary / fearful (from `lau` = fear)
 - `siahuai` = fierce / bad / wicked / evil
 - For something dangerous to release/handle: use `lauhuai`
-- Example: `A lauhuai lua ahih manin pulaakkhia nuam lo uh hi.` (Too dangerous to release.)
+- Example: `A lauhuai lua ahih manin pulaakkhia nuam lo-te hi.` (Too dangerous to release.)
 
 ## 21. `release` (product/model) = `pulaakkhia`
 - `pulaakkhia` = release/publish/put out for public
 - `suakta sak` = cause to come out (also valid)
-- Example: `Model thak pulaakkhia uh hi.` (They released a new model.)
+- Example: `Model thak pulaakkhia-te hi.` (They released a new model.)
 
 ## 22. `hong ki beh lap hi` for product launches
 - For many things being released/launched: `hong ki beh lap hi`

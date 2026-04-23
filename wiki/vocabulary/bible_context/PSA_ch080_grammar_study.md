@@ -40,9 +40,9 @@
 ### v3
 **EN:** Turn us again, O God, and cause thy face to shine; and we shall be saved.
 
-**TDB77:** Ka ngei uh hong bangsak kik in, Pasian aw, kote hong kihotkhiat theih nadingin na maitang hong taang sak in!
+**TDB77:** Ka ngei-te hong bangsak kik in, Pasian aw, kote hong kihotkhiat theih nadingin na maitang hong taang sak in!
 
-**ZVS:** Ka ngei uh hong bangsakkik in, Pasian aw. Kote khempeuh hong kihotkhiat theihna dingin na maitang hong taangsak in.
+**ZVS:** Ka ngei-te hong bangsakkik in, Pasian aw. Kote khempeuh hong kihotkhiat theihna dingin na maitang hong taangsak in.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -65,18 +65,18 @@
 ### v6
 **EN:** Thou makest us a strife unto our neighbours: and our enemies laugh among themselves.
 
-**TDB77:** Nangmah in, ka vengte uh’ thusim lohin kote nong bawl a, ka galte un hong thusimlohna tawh amau kinuihsan uh hi.
+**TDB77:** Nangmah in, ka vengte uh’ thusim lohin kote nong bawl a, ka galte un hong thusimlohna tawh amau kinuihsan-te hi.
 
-**ZVS:** Nangmah in, ka vengte uh' thusim lohin kote na hong bawl a, ka galte un hong thusim loin hong nuihsan uh hi.
+**ZVS:** Nangmah in, ka vengte uh' thusim lohin kote na hong bawl a, ka galte un hong thusim loin hong nuihsan-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Turn us again, O God of hosts, and cause thy face to shine; and we shall be saved.
 
-**TDB77:** Ka ngei uh hong bangsak kik in, mihonpite’ Pasian aw; kote a hong kihotkhiat theih nadingin na maitang hong taang sak in!
+**TDB77:** Ka ngei-te hong bangsak kik in, mihonpite’ Pasian aw; kote a hong kihotkhiat theih nadingin na maitang hong taang sak in!
 
-**ZVS:** Ka ngei uh hong bangsakkik in, Vanglian Pasian aw. Kote khempeuh hong kihotkhiat theihna dingin na maitang hong taangsak in.
+**ZVS:** Ka ngei-te hong bangsakkik in, Vanglian Pasian aw. Kote khempeuh hong kihotkhiat theihna dingin na maitang hong taangsak in.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -126,9 +126,9 @@
 ### v13
 **EN:** The boar out of the wood doth waste it, and the wild beast of the field doth devour it.
 
-**TDB77:** Gamlak-a om Ngal in susia gawpin, zang sunga om ganhing khempeuh in kivakna-in nei uh hi.
+**TDB77:** Gamlak-a om Ngal in susia gawpin, zang sunga om ganhing khempeuh in kivakna-in nei-te hi.
 
-**ZVS:** Gamlaka om ngal in susiagawp a, zangsung sa khempeuh in kivakna-in nei uh hi.
+**ZVS:** Gamlaka om ngal in susiagawp a, zangsung sa khempeuh in kivakna-in nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -142,9 +142,9 @@
 ### v16
 **EN:** It is burned with fire, it is cut down: they perish at the rebuke of thy countenance.
 
-**TDB77:** Amaute in mei tawh hal-in sattan uh hi; amaute heh-et in la, susia in.
+**TDB77:** Amaute in mei tawh hal-in sattan-te hi; amaute heh-et in la, susia in.
 
-**ZVS:** Amaute in mei tawh halin sattan gawp uh hi. Amaute heh et in la, susiagawp in.
+**ZVS:** Amaute in mei tawh halin sattan gawp-te hi. Amaute heh et in la, susiagawp in.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -158,18 +158,18 @@
 ### v18
 **EN:** So will not we go back from thee: quicken us, and we will call upon thy name.
 
-**TDB77:** Tua ciangin nang kiang panin kote ka kihei kik nawn kei ding uh hi; kote, hong nungtasak in, nangmah kong phat ding uh hi.
+**TDB77:** Tua ciangin nang kiang panin kote ka kihei kik nawn kei ding-te hi; kote, hong nungtasak in, nangmah kong phat ding-te hi.
 
-**ZVS:** Tua ciangin nang kiang panin ka kiheikik nawn kei ding uh hi. Kote hong nungtasak in, nang kong phat ding uh hi.
+**ZVS:** Tua ciangin nang kiang panin ka kiheikik nawn kei ding-te hi. Kote hong nungtasak in, nang kong phat ding-te hi.
 
 **Grammar:** causative: -sak suffix | sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** Turn us again, O
 
-**TDB77:** Ka ngei uh hong bangsak kik in, mihonpite’ Topa Pasian! Kote hong kihotkhiat theih nadingin na maitang hong taang sak in!
+**TDB77:** Ka ngei-te hong bangsak kik in, mihonpite’ Topa Pasian! Kote hong kihotkhiat theih nadingin na maitang hong taang sak in!
 
-**ZVS:** Ka ngei uh hong bangsakkik in, Vanglian { Topa } Pasian aw. Kote khempeuh hong kihotkhiat theihna dingin na maitang hong taangsak in.
+**ZVS:** Ka ngei-te hong bangsakkik in, Vanglian { Topa } Pasian aw. Kote khempeuh hong kihotkhiat theihna dingin na maitang hong taangsak in.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 

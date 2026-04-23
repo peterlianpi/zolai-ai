@@ -24,7 +24,7 @@
 ### v2
 **EN:** Saying,
 
-**TDB77:** “Farisaite leh laitheite in Moses’ tokhom tungah a tu uh hi.
+**TDB77:** “Farisaite leh laitheite in Moses’ tokhom tungah a tu-te hi.
 
 **ZVS:** “Thukham hilh siate leh Farisi mite, Moses' aana a nei-in thugente ahih manun,
 

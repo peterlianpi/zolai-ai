@@ -42,12 +42,12 @@ To maintain pure Zolai Tedim literacy, the system MUST filter out the following 
 
 | Avoid (Non-Tedim) | Prefer (Pure Tedim) | Grammatical Category |
 | :--- | :--- | :--- |
-| **cu / cun** | **tua** | That / Then (Demonstrative) |
-| **pathian** | **pasian** | God (Proper Noun) |
-| **bawipa** | **topa** | Lord / Master |
-| **fapa** | **tapa** | Son |
-| **ram** | **gam** | Country / Land |
-| **siangpahrang** | **kumpipa** | King / Ruler |
+| **tua / tua** | **tua** | That / Then (Demonstrative) |
+| **pasian** | **pasian** | God (Proper Noun) |
+| **topa** | **topa** | Lord / Master |
+| **tapa** | **tapa** | Son |
+| **gam** | **gam** | Country / Land |
+| **kumpipa** | **kumpipa** | King / Ruler |
 | **bia** | **thu** | Word / Message |
 | **ka hmu** | **ka mu** | See (Verb) |
 
@@ -62,7 +62,7 @@ English often uses "The [Noun] that [Subject] [Verb]".
 Zolai avoids the passive voice where possible.
 - **English:** "It is said that..."
 - **Direct (Avoid):** `Kici hi...`
-- **Natural (Prefer):** `Mi te'n gen uh hi...` (People say...) or `Kizakna ah...` (In what is heard...).
+- **Natural (Prefer):** `Mi te'n gen-te hi...` (People say...) or `Kizakna ah...` (In what is heard...).
 
 ### C. The "Resultative Stack" (Action Logic)
 Zolai describes the *process* and the *result* in a single stack.
@@ -154,7 +154,7 @@ Zolai uses rhythmic reduplication to indicate intensity, persistence, or descrip
 ### V. Formal Request/Exhortation: "Kong thuum hi"
 Used to translate "I beseech you" or "I entreat you" in a formal, high-register context.
 - **Pattern:** `[Subject] [Object] [Action] nadingun kong thuum hi.`
-- **Example:** "I beseech you... confirm your love" -> `ama it takpi uh na kilatsak nadingun kong thuum hi.` (2CO 2:8)
+- **Example:** "I beseech you... confirm your love" -> `ama it takpi-te na kilatsak nadingun kong thuum hi.` (2CO 2:8)
 
 ### W. The "Maleep" (Seal/Earnest/Guarantee)
 Specialized theological term for a down-payment or guarantee, specifically used for the Holy Spirit.
@@ -561,7 +561,7 @@ Translating the "Worthy" acclamation.
 - **Term:** `Gimna lianpi` (Great suffering/tribulation).
 - **Ref:** REV 7:14.
 
-### CU. The New Creation: "Van thak leh Lei thak"
+### tua. The New Creation: "Van thak leh Lei thak"
 - **Term:** `Van thak leh lei thak` (New heaven and new earth).
 - **Ref:** REV 21:1.
 
@@ -1013,7 +1013,7 @@ In Zolai, the "Heart" (`Lung`) is the seat of intellect and emotion, similar to 
 Avoid these common mistakes when generating Zolai Tedim.
 
 ## 1. Mixing Dialects
-- **Mistake:** Using "Pathian" (Hakha) for God.
+- **Mistake:** Using "pasian" (Hakha) for God.
 - **Correct:** Always use "Pasian".
 - **Also avoid:** `gam` (use `gam`), `tapa` (use `tapa`), `topa` (use `topa`), `???` (use `kumpipa`), `tua`/`tuan` (use `tua`), `nunnak` (use `nuntakna`), `zalenna` (use `suahtakna`)
 
@@ -1038,7 +1038,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 - **Correct:** Use "Suahtakna".
 
 ## 7. Plurality violation `i` + `uh`
-- **Mistake:** `I kiphawk mahmah uh ahihman in...`
+- **Mistake:** `I kiphawk mahmah-te ahihman in...`
 - **Correct:** `I kiphawk mahmah ahihman in...` — drop `uh` when using `i`.
 - **Rule:** NEVER combine `uh` with `i`. (Khanggui lines 474–481)
 
@@ -1054,7 +1054,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 
 ## 10. Sentence-final particles (learned from 2.8M corpus)
 - `maw` — soft question/confirmation: `Hoih maw?`
-- `uhi`/`uh hi` — 3rd person plural declarative: `A pai uh hi.`
+- `uhi`/`uh hi` — 3rd person plural declarative: `A pai-te hi.`
 - `ing` — 1st person exclusive future: `Ka pai ing.`
 - `ahihi` — contracted `ahi hi`
 - `diam` — soft question: `Na pai ding diam?`
@@ -1099,7 +1099,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 - `kikhawm` = gather/assemble (general)
 - `ki mu khawm` = meet together (people coming to meet each other specifically)
 - For diplomatic meetings: use `ki mu khawm`
-- Example: `US leh Iran te in Pakistan ah ki mu khawm uh hi.`
+- Example: `US leh Iran te in Pakistan ah ki mu khawm-te hi.`
 
 ## 14. `thu a kigen` vs `thu a kikum`
 - `thu a kigen uh` = they spoke/said words (general speech)
@@ -1113,8 +1113,8 @@ Avoid these common mistakes when generating Zolai Tedim.
 
 ## 16. Failed negotiations phrasing
 - `thu a kituah lo` = the matter did not happen (too vague)
-- `a thu uh a kituak kei hi` = their matter did not come together/agree
-- `thukim na a ngah kei uh hi` = they did not obtain agreement (most precise)
+- `a thu-te a kituak kei hi` = their matter did not come together/agree
+- `thukim na a ngah kei-te hi` = they did not obtain agreement (most precise)
 
 ## 17. Degrees of leaving/departing
 - `a ciah hi` = he left (neutral)
@@ -1136,12 +1136,12 @@ Avoid these common mistakes when generating Zolai Tedim.
 - `lauhuai` = dangerous / scary / fearful (from `lau` = fear)
 - `siahuai` = fierce / bad / wicked / evil
 - For something dangerous to release/handle: use `lauhuai`
-- Example: `A lauhuai lua ahih manin pulaakkhia nuam lo uh hi.` (Too dangerous to release.)
+- Example: `A lauhuai lua ahih manin pulaakkhia nuam lo-te hi.` (Too dangerous to release.)
 
 ## 19. `release` (product/model) = `pulaakkhia`
 - `pulaakkhia` = release/publish/put out for public
 - `suakta sak` = cause to come out (also valid)
-- Example: `Model thak pulaakkhia uh hi.` (They released a new model.)
+- Example: `Model thak pulaakkhia-te hi.` (They released a new model.)
 
 ## 20. `hong ki beh lap hi` for product launches
 - For many things being released/launched: `hong ki beh lap hi`

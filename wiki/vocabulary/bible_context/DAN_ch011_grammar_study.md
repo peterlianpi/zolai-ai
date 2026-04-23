@@ -53,9 +53,9 @@
 ### v4
 **EN:** And when he shall stand up, his kingdom shall be broken, and shall be divided toward the four winds of heaven; and not to his posterity, nor according to his dominion which he ruled: for his kingdom shall be plucked up, even for others beside those.
 
-**TDB77:** Ahih hangin a thahat pen lai takin a gam hong kitam dinga khen li a kisuah ding hi. A suan a khakte in ama gam uk kha loin ama vangliatna zah vaang a nei zo kei ding uh hi; bang hang hiam cih leh ama ukna kibotkhia-in midangte’ tungah kipia ding hi.
+**TDB77:** Ahih hangin a thahat pen lai takin a gam hong kitam dinga khen li a kisuah ding hi. A suan a khakte in ama gam uk kha loin ama vangliatna zah vaang a nei zo kei ding-te hi; bang hang hiam cih leh ama ukna kibotkhia-in midangte’ tungah kipia ding hi.
 
-**ZVS:** Ahih hangin a thahat pen laitakin a gam hong kitam ding a, khen li a kisuah ding hi. A suan a khakte in ama gam a ukkha kei ding uh hi. Midangte in uk ding uh a, ahi zongin amah zahin vang a neizo kei ding uh hi.
+**ZVS:** Ahih hangin a thahat pen laitakin a gam hong kitam ding a, khen li a kisuah ding hi. A suan a khakte in ama gam a ukkha kei ding-te hi. Midangte in uk ding-te a, ahi zongin amah zahin vang a neizo kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -107,9 +107,9 @@
 ### v10
 **EN:** But his sons shall be stirred up, and shall assemble a multitude of great forces: and one shall certainly come, and overflow, and pass through: then shall he return, and be stirred up, even to his fortress.
 
-**TDB77:** “Siria kumpipa’ tate in galdo dingin kithawi-in galkap ding mi tampi a kaikhawm ding uh hi. Tua galkap mangte khat thahat diakin tuikhang bang dinga galte’ kulhpi a luh zo ding hi.
+**TDB77:** “Siria kumpipa’ tate in galdo dingin kithawi-in galkap ding mi tampi a kaikhawm ding-te hi. Tua galkap mangte khat thahat diakin tuikhang bang dinga galte’ kulhpi a luh zo ding hi.
 
-**ZVS:** “Syria kumpipa' tate, galsim dingin kithawi-in galkap ding mi tampi a kaikhawm ding uh hi. Tua galkapmangte khat thahat diakin tuikhang bang ding a, galte' kulhpi a luhzo ding hi.
+**ZVS:** “Syria kumpipa' tate, galsim dingin kithawi-in galkap ding mi tampi a kaikhawm ding-te hi. Tua galkapmangte khat thahat diakin tuikhang bang ding a, galte' kulhpi a luhzo ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -143,27 +143,27 @@
 ### v14
 **EN:** And in those times there shall many stand up against the king of the south: also the robbers of thy people shall exalt themselves to establish the vision; but they shall fall.
 
-**TDB77:** “Tua hun ciangin mi tampi takin Izipt kumpipa a lehdo ding uh hi. Daniel’ mipihte ahi, mi hoih lo pawl khat in zong a muhsa uh mangmuhna hangin a lehdo ding uh a, ahih hangin a guallel ding uh hi.
+**TDB77:** “Tua hun ciangin mi tampi takin Izipt kumpipa a lehdo ding-te hi. Daniel’ mipihte ahi, mi hoih lo pawl khat in zong a muhsa-te mangmuhna hangin a lehdo ding-te a, ahih hangin a guallel ding-te hi.
 
-**ZVS:** “Tua hun ciangin mi tampi tak in Egypt kumpipa a lehdo ding uh hi. Daniel' mipihte ahi, mihoihlo pawlkhat in zong a muhsa uh maangmuhna hangin a lehdo ding uh a, ahih hangin a guallel ding uh hi.
+**ZVS:** “Tua hun ciangin mi tampi tak in Egypt kumpipa a lehdo ding-te hi. Daniel' mipihte ahi, mihoihlo pawlkhat in zong a muhsa-te maangmuhna hangin a lehdo ding-te a, ahih hangin a guallel ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v15
 **EN:** So the king of the north shall come, and cast up a mount, and take the most fenced cities: and the arms of the south shall not withstand, neither his chosen people, neither shall there be any strength to withstand.
 
-**TDB77:** Tua ahih ciangin Siria kumpipa in kulhpi tawh a kiumcih khuapite luh zo-in a la khin ding hi. Izipt galkapte in galdo suak zo nawn lo ding uh a, galkap thahatpente a thaneem ding uh hi.
+**TDB77:** Tua ahih ciangin Siria kumpipa in kulhpi tawh a kiumcih khuapite luh zo-in a la khin ding hi. Izipt galkapte in galdo suak zo nawn lo ding-te a, galkap thahatpente a thaneem ding-te hi.
 
-**ZVS:** Tua ahih ciangin Syria kumpipa in kulhpi tawh a kiumcih khuapite luhzo-in a la khin ding hi. Egypt galkapte in gal dosuakzo nawnlo ding uh a, galkap thahat pente a thanem ding uh hi.
+**ZVS:** Tua ahih ciangin Syria kumpipa in kulhpi tawh a kiumcih khuapite luhzo-in a la khin ding hi. Egypt galkapte in gal dosuakzo nawnlo ding-te a, galkap thahat pente a thanem ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** But he that cometh against him shall do according to his own will, and none shall stand before him: and he shall stand in the glorious land, which by his hand shall be consumed.
 
-**TDB77:** Galdo zo ding om nawn lo uh ahih manin a galte a ut utin a gamta ding uh hi. Thuciam Gamah zong lutin a khut sungah tua gam a suksiat nading thahatna a nei ding hi.
+**TDB77:** Galdo zo ding om nawn lo-te ahih manin a galte a ut utin a gamta ding-te hi. Thuciam Gamah zong lutin a khut sungah tua gam a suksiat nading thahatna a nei ding hi.
 
-**ZVS:** Galdozo ding om nawnlo uh ahih manin a galte uh a utut-in a gamta ding uh hi. Thuciam Gamah zong lutin a khutsungah tua gam a om ding hi.
+**ZVS:** Galdozo ding om nawnlo-te ahih manin a galte-te a utut-in a gamta ding-te hi. Thuciam Gamah zong lutin a khutsungah tua gam a om ding hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
@@ -233,36 +233,36 @@
 ### v24
 **EN:** He shall enter peaceably even upon the fattest places of the province; and he shall do that which his fathers have not done, nor his fathers' fathers; he shall scatter among them the prey, and spoil, and riches: yea, and he shall forecast his devices against the strong holds, even for a time.
 
-**TDB77:** Amah in a pu a pate’ hih ngei loh, gam hau, gam kilemte nangawn a sim ding hi. Tua ciangin gal sunga a lak vante leh nate a nungzuite tawh a hawm ding uh hi. Amah in galdalna kulhpite khempeuh luh ding hanciam ding a, ahih hangin tawm vei sung bek hun a nei ding hi.
+**TDB77:** Amah in a pu a pate’ hih ngei loh, gam hau, gam kilemte nangawn a sim ding hi. Tua ciangin gal sunga a lak vante leh nate a nungzuite tawh a hawm ding-te hi. Amah in galdalna kulhpite khempeuh luh ding hanciam ding a, ahih hangin tawm vei sung bek hun a nei ding hi.
 
-**ZVS:** Amah in a pu a pate' hih ngeiloh, gam hau, gam kilemte nangawn a sim ding hi. Tua ciangin galsunga a lak vante leh nate a nungzuite tawh a hawm ding uh hi. Amah in galdalna kulhpite khempeuh luh ding hanciam ding a, ahih hangin tawmvei sung bek hun a nei ding hi.
+**ZVS:** Amah in a pu a pate' hih ngeiloh, gam hau, gam kilemte nangawn a sim ding hi. Tua ciangin galsunga a lak vante leh nate a nungzuite tawh a hawm ding-te hi. Amah in galdalna kulhpite khempeuh luh ding hanciam ding a, ahih hangin tawmvei sung bek hun a nei ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And he shall stir up his power and his courage against the king of the south with a great army; and the king of the south shall be stirred up to battle with a very great and mighty army; but he shall not stand: for they shall forecast devices against him.
 
-**TDB77:** Izipt gam hang taka a sim theih nadingin galkap tampi a kaikhawm ding hi. Bang hang hiam cih leh Izipte in zong galkap tampi tawh nasia takin a na do ding uh hi. Izipt kumpipa in kheemna thuak kha ding ahih manin gal a zo kei ding hi.
+**TDB77:** Izipt gam hang taka a sim theih nadingin galkap tampi a kaikhawm ding hi. Bang hang hiam cih leh Izipte in zong galkap tampi tawh nasia takin a na do ding-te hi. Izipt kumpipa in kheemna thuak kha ding ahih manin gal a zo kei ding hi.
 
-**ZVS:** “Egypt gam hangtakin a sim theih-na dingin galkap tampi a kaikhawm ding hi. Egypt-te in zong galkap tampi tawh nasia takin a na do ding uh hi. Ahi zongin Egypt kumpipa in khemna thuak ding ahih manin gal a zo kei ding hi.
+**ZVS:** “Egypt gam hangtakin a sim theih-na dingin galkap tampi a kaikhawm ding hi. Egypt-te in zong galkap tampi tawh nasia takin a na do ding-te hi. Ahi zongin Egypt kumpipa in khemna thuak ding ahih manin gal a zo kei ding hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | causal: because | plural: uh marker
 
 ### v26
 **EN:** Yea, they that feed of the portion of his meat shall destroy him, and his army shall overflow: and many shall fall down slain.
 
-**TDB77:** Ama muan pen a thudot mipilte in amah lehbawlin a siasak ding uh hi. A galkapte tampi tak si ding ahih manin gal a lel ding hi.
+**TDB77:** Ama muan pen a thudot mipilte in amah lehbawlin a siasak ding-te hi. A galkapte tampi tak si ding ahih manin gal a lel ding hi.
 
-**ZVS:** Ama muan' pen a thudot mipilte in amah lehbawlin a siasak ding uh hi. A galkapte tampi tak si ding ahih manin gal a lel ding hi.
+**ZVS:** Ama muan' pen a thudot mipilte in amah lehbawlin a siasak ding-te hi. A galkapte tampi tak si ding ahih manin gal a lel ding hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
 ### v27
 **EN:** And both these kings' hearts shall be to do mischief, and they shall speak lies at one table; but it shall not prosper: for yet the end shall be at the time appointed.
 
-**TDB77:** Tua kumpi tegel in sabuai khat tungah tu in, an a ne khawm ding uh hi. Ahih hangin a ngaihsutna uh a hoih zaw sang om tuan lo ahih manin a kikhem tuak ding uh hi. A hun tung nai lo ahih manin a deih bang uh a ngah zo kei ding uh hi.
+**TDB77:** Tua kumpi tegel in sabuai khat tungah tu in, an a ne khawm ding-te hi. Ahih hangin a ngaihsutna-te a hoih zaw sang om tuan lo ahih manin a kikhem tuak ding-te hi. A hun tung nai lo ahih manin a deih bang-te a ngah zo kei ding-te hi.
 
-**ZVS:** Tua kumpite gel in sabuai khat tungah tu-in an a nekhawm ding uh hi. Ahih hangin a ngaihsutna uh a hoihzawsang om tuanlo ahih manin a kikhem tuak ding uh hi. A hun tung nailo ahih manin a deih bang uh a ngahzo kei uh hi.
+**ZVS:** Tua kumpite gel in sabuai khat tungah tu-in an a nekhawm ding-te hi. Ahih hangin a ngaihsutna-te a hoihzawsang om tuanlo ahih manin a kikhem tuak ding-te hi. A hun tung nailo ahih manin a deih bang-te a ngahzo kei-te hi.
 
 **Grammar:** future: will | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -287,54 +287,54 @@
 ### v30
 **EN:** For the ships of Kittim shall come against him: therefore he shall be grieved, and return, and have indignation against the holy covenant: so shall he do; he shall even return, and have intelligence with them that forsake the holy covenant.
 
-**TDB77:** Nitumna tuipi gei a, gamte in teembaw tawh hong pai-in amah do ding uh ahih manin a lau ding hi. Tua ciangin amah kileh kik ding a, a thangpaihna tawh Pasian’ mite biakna suksiat ding a hanciam ding hi. Amah in tua biakna a nusia mite’ zol simna a mang ding hi.
+**TDB77:** Nitumna tuipi gei a, gamte in teembaw tawh hong pai-in amah do ding-te ahih manin a lau ding hi. Tua ciangin amah kileh kik ding a, a thangpaihna tawh Pasian’ mite biakna suksiat ding a hanciam ding hi. Amah in tua biakna a nusia mite’ zol simna a mang ding hi.
 
-**ZVS:** Rom mite, teembaw tawh hong pai-in amah do ding uh ahih manin a lau ding hi. Tua ciangin amah kilehkik ding a, a thangpaihna tawh Pasian' mite' biakna suksiat ding a hanciam ding hi. Amah in tua biakna a nusia mite' zolsimna a mang ding hi.
+**ZVS:** Rom mite, teembaw tawh hong pai-in amah do ding-te ahih manin a lau ding hi. Tua ciangin amah kilehkik ding a, a thangpaihna tawh Pasian' mite' biakna suksiat ding a hanciam ding hi. Amah in tua biakna a nusia mite' zolsimna a mang ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** And arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily sacrifice, and they shall place the abomination that maketh desolate.
 
-**TDB77:** A galkapte pawl khat in biakinnpi leh biakinnpi huang a niinsak ding uh hi. Amaute in nisim biak piaknate khawlsak ding uh a, Lipkhaphuai na a suang ding uh hi.
+**TDB77:** A galkapte pawl khat in biakinnpi leh biakinnpi huang a niinsak ding-te hi. Amaute in nisim biak piaknate khawlsak ding-te a, Lipkhaphuai na a suang ding-te hi.
 
-**ZVS:** A galkapte pawlkhat in biakinnpi leh biakinnpi huang a ninsak ding uh hi. Amaute in nisim biakpiaknate khawlsak ding uh a, a Lipkhaphuai na a suang ding uh hi.
+**ZVS:** A galkapte pawlkhat in biakinnpi leh biakinnpi huang a ninsak ding-te hi. Amaute in nisim biakpiaknate khawlsak ding-te a, a Lipkhaphuai na a suang ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v32
 **EN:** And such as do wickedly against the covenant shall he corrupt by flatteries: but the people that do know their God shall be strong, and do exploits.
 
-**TDB77:** Kumpipa in tua biakna a nusia khinsa mite a thu zawh theih nadingin zuau gen siamna a zang ding hi. Ahih hangin Pasian nung a zui mite in ahih uh leh kiptakin a nial ding uh hi.
+**TDB77:** Kumpipa in tua biakna a nusia khinsa mite a thu zawh theih nadingin zuau gen siamna a zang ding hi. Ahih hangin Pasian nung a zui mite in ahih-te leh kiptakin a nial ding-te hi.
 
-**ZVS:** Kumpipa in tua biakna a nusia mite a thuzawh theihna dingin zuaugen siamna a zang ding hi. Ahih hangin Pasian' nung a zui mite ahih uh leh thahatin a gualzo ding uh hi.
+**ZVS:** Kumpipa in tua biakna a nusia mite a thuzawh theihna dingin zuaugen siamna a zang ding hi. Ahih hangin Pasian' nung a zui mite ahih-te leh thahatin a gualzo ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v33
 **EN:** And they that understand among the people shall instruct many: yet they shall fall by the sword, and by flame, by captivity, and by spoil, many days.
 
-**TDB77:** Pilna a nei mite in a pilna uh midang tampite a hilh ding uh hi. Ahih hangin tawl khat sung mi pawlkhat in gal sunga sihna leh meikuang sunga thahna a thuak ding uh hi. Mi kim khatte in lawkgawpna leh thongkiatna thuak ding uh hi.
+**TDB77:** Pilna a nei mite in a pilna-te midang tampite a hilh ding-te hi. Ahih hangin tawl khat sung mi pawlkhat in gal sunga sihna leh meikuang sunga thahna a thuak ding-te hi. Mi kim khatte in lawkgawpna leh thongkiatna thuak ding-te hi.
 
-**ZVS:** Pilna a nei mite in a pilna uh midang tampite tawh a neikhawm ding uh hi. Ahih hangin tawlkhat sung mi pawlkhat in galsunga sihna leh meikuang sunga thahna a thuak ding uh hi. Mi pawlkhatte in lawkgawpna leh thongkiatna a thuak ding uh hi.
+**ZVS:** Pilna a nei mite in a pilna-te midang tampite tawh a neikhawm ding-te hi. Ahih hangin tawlkhat sung mi pawlkhat in galsunga sihna leh meikuang sunga thahna a thuak ding-te hi. Mi pawlkhatte in lawkgawpna leh thongkiatna a thuak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v34
 **EN:** Now when they shall fall, they shall be holpen with a little help: but many shall cleave to them with flatteries.
 
-**TDB77:** Tua banga thahna a thuak lai takun, pawlkhat in huhna a ngah ding uh hi. Ahih hangin mi tampi in huhna a piak uh hangin, amau ading meetna a zong bek ahi uh hi.
+**TDB77:** Tua banga thahna a thuak lai takun, pawlkhat in huhna a ngah ding-te hi. Ahih hangin mi tampi in huhna a piak-te hangin, amau ading meetna a zong bek ahi-te hi.
 
-**ZVS:** Tua bangin thahna a thuak laitakun, pawlkhat in huhna a ngah ding uh hi. Mi tampi in huhna a piak uh hangin amau' metna ding ngaihsutna bek ahi hi.
+**ZVS:** Tua bangin thahna a thuak laitakun, pawlkhat in huhna a ngah ding-te hi. Mi tampi in huhna a piak-te hangin amau' metna ding ngaihsutna bek ahi hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v35
 **EN:** And some of them of understanding shall fall, to try them, and to purge, and to make them white, even to the time of the end: because it is yet for a time appointed.
 
-**TDB77:** Mi pawlkhat in thahna a thuak ding uh hi. Tua banga a pian’na thu in, beina a tun’ mateng sian’tho sakna leh mipha leh misia khentelna, Pasian’ sehsa hun a tun’na ahi hi.
+**TDB77:** Mi pawlkhat in thahna a thuak ding-te hi. Tua banga a pian’na thu in, beina a tun’ mateng sian’tho sakna leh mipha leh misia khentelna, Pasian’ sehsa hun a tun’na ahi hi.
 
-**ZVS:** Mi pawlkhat in thahna a thuak ding uh hi. Tua bangin a pian'na thu pen beina a tun' mateng sian'thosakna leh mipha leh misia khentelna, Pasian' sehsa hun a tun'na ahi hi.
+**ZVS:** Mi pawlkhat in thahna a thuak ding-te hi. Tua bangin a pian'na thu pen beina a tun' mateng sian'thosakna leh mipha leh misia khentelna, Pasian' sehsa hun a tun'na ahi hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -386,9 +386,9 @@
 ### v41
 **EN:** He shall enter also into the glorious land, and many countries shall be overthrown: but these shall escape out of his hand, even Edom, and Moab, and the chief of the children of Ammon.
 
-**TDB77:** Amah in Thuciam Gam zong sim ding a, tul tampi tak a that ding hi. Ahih hangin Edom gam, Moab gam leh Ammon gam sunga a om lai sun teng a suakta ding uh hi.
+**TDB77:** Amah in Thuciam Gam zong sim ding a, tul tampi tak a that ding hi. Ahih hangin Edom gam, Moab gam leh Ammon gam sunga a om lai sun teng a suakta ding-te hi.
 
-**ZVS:** Amah in Thuciamna Gam zong sim ding a, mi tul tampi tak a that ding hi. Ahih hangin Edom gam, Moab gam, leh Ammon gamsungah a omlai sunteng a suakta ding uh hi.
+**ZVS:** Amah in Thuciamna Gam zong sim ding a, mi tul tampi tak a that ding hi. Ahih hangin Edom gam, Moab gam, leh Ammon gamsungah a omlai sunteng a suakta ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -404,9 +404,9 @@
 ### v43
 **EN:** But he shall have power over the treasures of gold and of silver, and over all the precious things of Egypt: and the Libyans and the Ethiopians shall be at his steps.
 
-**TDB77:** Amah in Izipt gam sunga kisel, ngun leh kham leh a neihsa uh na manpha teng khempeuh a la ding hi. Amah in Libia leh Nubiate gam zong a zo ding hi.
+**TDB77:** Amah in Izipt gam sunga kisel, ngun leh kham leh a neihsa-te na manpha teng khempeuh a la ding hi. Amah in Libia leh Nubiate gam zong a zo ding hi.
 
-**ZVS:** Amah in Egypt gamsunga kisel ngun leh kham leh a neihsa uh na manphateng khempeuh a la ding hi. Amah in Libya leh Ethiopia gam zong a zo ding hi.
+**ZVS:** Amah in Egypt gamsunga kisel ngun leh kham leh a neihsa-te na manphateng khempeuh a la ding hi. Amah in Libya leh Ethiopia gam zong a zo ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

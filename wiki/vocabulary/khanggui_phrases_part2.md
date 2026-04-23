@@ -6,7 +6,7 @@
 |---|---|---|
 | lai neih zawh | to have/possess a book/writing | Context suggests 'having' or 'possessing' literature/writing. |
 | hunthak mualsuang khat | a new milestone/landmark | mualsuang means landmark/milestone. |
-| thupha piakna nei uh | they gave thanks/offered praise | piakna nei = to give/offer something. |
+| thupha piakna nei-te | they gave thanks/offered praise | piakna nei = to give/offer something. |
 | kizop kim zawhna ding | for the purpose of complete connection/unity | kizop = connection; kim zawhna = completeness. |
 | lawngkhatin ginkhop zawhna ding | for the purpose of achieving unity/oneness together | lawngkhatin = as one; ginkhop zawhna = achieving unity. |
 | khutkhat tawi, khekhat khai-in | holding one hand, lifting one leg (idiom for working together/helping) | A clear idiom for mutual support. |
@@ -108,7 +108,7 @@
 
 - `Hih laibu pen Zomite’ lai neih zawh, kum 100 cin lopna leh Zolai tangthu ciaptehna hunthak mualsuang khat ahi hi.` = This book is a new milestone marking the completion of 100 years of Zomi literature and the establishment of Zolai history.
   - e.g. `Hih laibu pen Zomite’ lai neih zawh, kum 100 cin lopna leh Zolai tangthu ciaptehna hunthak mualsuang khat ahi hi.`
-- `USA aa om, Zomi khanghamte sungpan, Pu X leh Pi Y te in, thupha piakna nei uh hi.` = Among the younger generation Zomis living in the USA, Pu X and Pi Y offered thanks.
+- `USA aa om, Zomi khanghamte sungpan, Pu X leh Pi Y te in, thupha piakna nei-te hi.` = Among the younger generation Zomis living in the USA, Pu X and Pi Y offered thanks.
   - e.g. `USA aa om, Zomi khanghamte sungpan, Pu Dal Za Khup leh Pi Cing Za Vai te in, thupha piakna nei uhhi.`
 - `Hih laibu pen Zomi Khangnote ii nasepna lianpi khat ahi hi.` = This book is one great work of the Zomi Youth.
   - e.g. `Hih laibu pen Zomi Khangnote ii nasepna lianpi khat ahi hi.`

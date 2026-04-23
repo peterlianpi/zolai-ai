@@ -41,9 +41,9 @@
 ### v3
 **EN:** Know ye not, that so many of us as were baptized into Jesus Christ were baptized into his death?
 
-**TDB77:** Khazih Zeisu sungah a kibaptaiz eite khempeuh in ama sihna sungah kibaptaizna i ngah hi ci-in thei lo na hi uh hiam?
+**TDB77:** Khazih Zeisu sungah a kibaptaiz eite khempeuh in ama sihna sungah kibaptaizna i ngah hi ci-in thei lo na hi-te hiam?
 
-**ZVS:** Khrih Jesuh tawh i kipawl theihna dingin ama sungah a kiphum eite pen ama sihna mahah zong a sikhawm ihihlam theilo na hi uh hiam?
+**ZVS:** Khrih Jesuh tawh i kipawl theihna dingin ama sungah a kiphum eite pen ama sihna mahah zong a sikhawm ihihlam theilo na hi-te hiam?
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -59,7 +59,7 @@
 ### v5
 **EN:** For if we have been planted together in the likeness of his death, we shall be also in the likeness of his resurrection:
 
-**TDB77:** Bang hang hiam na cih uh leh, ama sihna lim la-in amah tawh eite pumkhat sakhat i suah takpi leh, Topa thawhkikna lim zong la-in pumkhat sakhat i suak hi.
+**TDB77:** Bang hang hiam na cih-te leh, ama sihna lim la-in amah tawh eite pumkhat sakhat i suah takpi leh, Topa thawhkikna lim zong la-in pumkhat sakhat i suak hi.
 
 **ZVS:** Bang hang hiam cih leh ama sihna-ah sikhawmin pawlkhat i suah leh amah a thawhkikna-ah zong pawlkhat suakin i thokhawm ding hi.
 
@@ -77,7 +77,7 @@
 ### v7
 **EN:** For he that is dead is freed from sin.
 
-**TDB77:** Bang hang hiam na cih uh leh, a sisa mi in mawhna panin a suakta hi.
+**TDB77:** Bang hang hiam na cih-te leh, a sisa mi in mawhna panin a suakta hi.
 
 **ZVS:** Bang hang hiam cih leh mi khat a sih ciangin mawhna vangliatna panin a suakta ahi hi.
 
@@ -109,34 +109,34 @@
 ### v11
 **EN:** Likewise reckon ye also yourselves to be dead indeed unto sin, but alive unto God through Jesus Christ our Lord.
 
-**TDB77:** Tua mah bangin mawhna lam pan a si mi na hi uh a, Khazih Zeisu hangin Pasian lam pan mihing na hi uh na ciamteh un.
+**TDB77:** Tua mah bangin mawhna lam pan a si mi na hi-te a, Khazih Zeisu hangin Pasian lam pan mihing na hi-te na ciamteh un.
 
-**ZVS:** Tua mah bangin note zong Khrih Jesuh tawh kipawlin mawhna thu-ah si-in, Pasian' thu-ah a nungta-in na kingaihsut ding uh ahi hi.
+**ZVS:** Tua mah bangin note zong Khrih Jesuh tawh kipawlin mawhna thu-ah si-in, Pasian' thu-ah a nungta-in na kingaihsut ding-te ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** Let not sin therefore reign in your mortal body, that ye should obey it in the lusts thereof.
 
-**TDB77:** Tua ahih leh, note in deihgawhna na zuih nadingun, khialhna in a si thei na pumpi sung uh ah na ki-uksak kei un.
+**TDB77:** Tua ahih leh, note in deihgawhna na zuih nadingun, khialhna in a si thei na pumpi sung-te ah na ki-uksak kei un.
 
-**ZVS:** Tua ahih ciangin na pumpi uh deihna na zuihlohna dingun na pumpi uh, mawhna na uksak nawn kei ding uh hi.
+**ZVS:** Tua ahih ciangin na pumpi-te deihna na zuihlohna dingun na pumpi uh, mawhna na uksak nawn kei ding-te hi.
 
 ### v13
 **EN:** Neither yield ye your members as instruments of unrighteousness unto sin: but yield yourselves unto God, as those that are alive from the dead, and your members as instruments of righteousness unto God.
 
-**TDB77:** Tua tham loin na pum tung nate in diklohna’ hiam a suah nadingun mawhna kiangah na pia kei un. Sihna pan a thokik mi bangin, Pasian kiangah na pumpi uh na pia un. Dikna’ hiam bangin Pasian kiangah na pumpi tung nate zong na pia un.
+**TDB77:** Tua tham loin na pum tung nate in diklohna’ hiam a suah nadingun mawhna kiangah na pia kei un. Sihna pan a thokik mi bangin, Pasian kiangah na pumpi-te na pia un. Dikna’ hiam bangin Pasian kiangah na pumpi tung nate zong na pia un.
 
-**ZVS:** Mawhna gamtatna dingin na pumpi nate uh khat beek na zang nawn kei ding uh hi. Note pen misi hinapi-in a kihingkik sak mite bang na hih manun, a hoihin a hong zattheihna dingin na pumpi bup uh Pasian' tungah na piazaw ding uh hi.
+**ZVS:** Mawhna gamtatna dingin na pumpi nate-te khat beek na zang nawn kei ding-te hi. Note pen misi hinapi-in a kihingkik sak mite bang na hih manun, a hoihin a hong zattheihna dingin na pumpi bup-te Pasian' tungah na piazaw ding-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v14
 **EN:** For sin shall not have dominion over you: for ye are not under the law, but under grace.
 
-**TDB77:** Bang hang hiam na cih uh leh, thukham nuai-ah om loin, hehpihna nuai-ah na om uh ahih ciangin na mawhna un note hong uk lo ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, thukham nuai-ah om loin, hehpihna nuai-ah na om-te ahih ciangin na mawhna un note hong uk lo ding hi.
 
-**ZVS:** Note pen thukham' sawlna hangin nasem hiloin Pasian' hong lah thuhoihte' hangin nasem na hih uh manin mawhna' sawlna mangin na gamta nawn kei un.
+**ZVS:** Note pen thukham' sawlna hangin nasem hiloin Pasian' hong lah thuhoihte' hangin nasem na hih-te manin mawhna' sawlna mangin na gamta nawn kei un.
 
 **Grammar:** future: will
 
@@ -152,70 +152,70 @@
 ### v16
 **EN:** Know ye not, that to whom ye yield yourselves servants to obey, his servants ye are to whom ye obey; whether of sin unto death, or of obedience unto righteousness?
 
-**TDB77:** Mi khat kiangah sila dingin note na tum uh leh, tua mi in sihna tawh kituak mawhna thu ahi zongin, dikna tawh kituak thu ngaihna ahi zongin, note’ to ahih thei lo na hi uh hiam?
+**TDB77:** Mi khat kiangah sila dingin note na tum-te leh, tua mi in sihna tawh kituak mawhna thu ahi zongin, dikna tawh kituak thu ngaihna ahi zongin, note’ to ahih thei lo na hi-te hiam?
 
-**ZVS:** Mi khatpeuh' thu a mang dingin ama khutsungah na kipiak uh ciangin a thu na mante uh' sila na hi uh hi. Mawhna na bawl uh leh sihna a thuak ding na hi uh a, thumangin na om uh leh Pasian tawh pawlkhat a suak ding na hi uh hi.
+**ZVS:** Mi khatpeuh' thu a mang dingin ama khutsungah na kipiak-te ciangin a thu na mante uh' sila na hi-te hi. Mawhna na bawl-te leh sihna a thuak ding na hi-te a, thumangin na om-te leh Pasian tawh pawlkhat a suak ding na hi-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v17
 **EN:** But God be thanked, that ye were the servants of sin, but ye have obeyed from the heart that form of doctrine which was delivered you.
 
-**TDB77:** Note in mawhna sila na hih ngei uh hangin, tu-in na ngahsa uh thuhilhna, deihna lungtang tawh na ngai uh ahih ciangin Pasian’ hehpihna ka phat hi.
+**TDB77:** Note in mawhna sila na hih ngei-te hangin, tu-in na ngahsa-te thuhilhna, deihna lungtang tawh na ngai-te ahih ciangin Pasian’ hehpihna ka phat hi.
 
-**ZVS:** Nidangin silate bangin mawhna' thu a mang hinapi-in, tu-in note tungah a hong kipia thuhilhna kipte, na lungsim khempeuh uh tawh zui na hih manun Pasian tungah i lungdam mahmah hi.
+**ZVS:** Nidangin silate bangin mawhna' thu a mang hinapi-in, tu-in note tungah a hong kipia thuhilhna kipte, na lungsim khempeuh-te tawh zui na hih manun Pasian tungah i lungdam mahmah hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v18
 **EN:** Being then made free from sin, ye became the servants of righteousness.
 
-**TDB77:** Mawhna’ khut sung pan na suahtak khit uh ciangin, dikna’ sila na suak uh hi.
+**TDB77:** Mawhna’ khut sung pan na suahtak khit-te ciangin, dikna’ sila na suak-te hi.
 
-**ZVS:** Mawhna' vangliatna panin na suakta khinta uh a, a manin a gamta ding mite na hita uh hi.
+**ZVS:** Mawhna' vangliatna panin na suakta khinta-te a, a manin a gamta ding mite na hita-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v19
 **EN:** I speak after the manner of men because of the infirmity of your flesh: for as ye have yielded your members servants to uncleanness and to iniquity unto iniquity; even so now yield your members servants to righteousness unto holiness.
 
-**TDB77:** Na lungsim uh nem lai ahih ciangin, leitung ngeina bangin thu kong hilh hi. Note in na pum tung uh nate, kihhuaina leh kheltatna’ sila-ah na om sak uh mah bangin, tu-in na pum tung uh nate a kisian’thosak nadingun dikna’ sila-ah na omsak un.
+**TDB77:** Na lungsim-te nem lai ahih ciangin, leitung ngeina bangin thu kong hilh hi. Note in na pum tung-te nate, kihhuaina leh kheltatna’ sila-ah na om sak-te mah bangin, tu-in na pum tung-te nate a kisian’thosak nadingun dikna’ sila-ah na omsak un.
 
-**ZVS:** Note' theih theihna dingin nisim nuntakna ziate tawh a hong genteh ka hi hi. Nidang lai-in hoihlohna leh gitlohna a gamta dingin na pumpi uh na buppiak uh mah bangin, tu-in a man nate a sem dingin na pumpi uh buppiak un la, nuntakna siangtho nei ta un.
+**ZVS:** Note' theih theihna dingin nisim nuntakna ziate tawh a hong genteh ka hi hi. Nidang lai-in hoihlohna leh gitlohna a gamta dingin na pumpi-te na buppiak-te mah bangin, tu-in a man nate a sem dingin na pumpi-te buppiak un la, nuntakna siangtho nei ta un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v20
 **EN:** For when ye were the servants of sin, ye were free from righteousness.
 
-**TDB77:** Mawhna’ sila-ah na om lai takun dikna tawh na kipelh uh hi.
+**TDB77:** Mawhna’ sila-ah na om lai takun dikna tawh na kipelh-te hi.
 
-**ZVS:** Mawhna khutsungah na om laitakun Pasian' deihna bangin na gamtat ding uh kisamlo hi.
+**ZVS:** Mawhna khutsungah na om laitakun Pasian' deihna bangin na gamtat ding-te kisamlo hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** What fruit had ye then in those things whereof ye are now ashamed? for the end of those things is death.
 
-**TDB77:** Tua ahih leh, tu-in zumhuai na sak uh tua gamtatna na bawl lai takun, bang phattuamna na ngah uh hiam? Tua gamtatnate’ tawpna lampi in sihna ahi hi.
+**TDB77:** Tua ahih leh, tu-in zumhuai na sak-te tua gamtatna na bawl lai takun, bang phattuamna na ngah-te hiam? Tua gamtatnate’ tawpna lampi in sihna ahi hi.
 
-**ZVS:** Ahi zongin, tuhunin gamtat dingin zumhuai na sakte uh, tuahun lai-in na gamtat manun bang thaman ngah na hi uh hiam? Tua na gamtatna thaman uh sihna ahi hi.
+**ZVS:** Ahi zongin, tuhunin gamtat dingin zumhuai na sakte uh, tuahun lai-in na gamtat manun bang thaman ngah na hi-te hiam? Tua na gamtatna thaman-te sihna ahi hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v22
 **EN:** But now being made free from sin, and become servants to God, ye have your fruit unto holiness, and the end everlasting life.
 
-**TDB77:** Tu-in mawhna’ khut sung pan na suakta uh a, Pasian’ sila suak khin na hih ciangun siangtho nadingin phattuamna na ngah uh a, a tawpna-ah nuntak tawntungna na ngah ding uh hi.
+**TDB77:** Tu-in mawhna’ khut sung pan na suakta-te a, Pasian’ sila suak khin na hih ciangun siangtho nadingin phattuamna na ngah-te a, a tawpna-ah nuntak tawntungna na ngah ding-te hi.
 
-**ZVS:** Ahi zongin tu-in mawhna bawlnopna panin suakta-in Pasian' khutsung mi na hita uh hi. Tua thu hangin na ngah uh na pen Pasian-a' dingin a kipia khin nuntakna hi a, a tawntung nuntakna tawh a kizom ahi hi.
+**ZVS:** Ahi zongin tu-in mawhna bawlnopna panin suakta-in Pasian' khutsung mi na hita-te hi. Tua thu hangin na ngah-te na pen Pasian-a' dingin a kipia khin nuntakna hi a, a tawntung nuntakna tawh a kizom ahi hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
 ### v23
 **EN:** For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.
 
-**TDB77:** Bang hang hiam na cih uh leh, sihna in mawhna’ thaman ahi hi. Ahih hangin i Topa Khazih Zeisu hanga nuntak tawntungna in man kipia lo Pasian’ letsong ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, sihna in mawhna’ thaman ahi hi. Ahih hangin i Topa Khazih Zeisu hanga nuntak tawntungna in man kipia lo Pasian’ letsong ahi hi.
 
 **ZVS:** Bang hang hiam cih leh mawhna in thaman hong piak pen sihna hi a, ahi zongin i Topa Jesuh tawh i kipawl manin Pasian' hong piakkhong pen nuntak tawntungna ahi hi.
 

@@ -47,54 +47,54 @@
 ### v4
 **EN:** And they went out, they and all their hosts with them, much people, even as the sand that is upon the sea shore in multitude, with horses and chariots very many.
 
-**TDB77:** Tua ciangin amaute tampi a pha a galkap honpite tawh a tam mahmah sakolte leh leengte tawh, tuipi gei-a om sehnel bangin tampi tak hong kuan khia uh hi.
+**TDB77:** Tua ciangin amaute tampi a pha a galkap honpite tawh a tam mahmah sakolte leh leengte tawh, tuipi gei-a om sehnel bangin tampi tak hong kuan khia-te hi.
 
-**ZVS:** Tua ciangin amaute tampi a pha a galkap honpite tawh, a tam mahmah sakolte leh leengte tawh, tuipi gei-a om sehnel bangin tampi tak hong kuankhia uh hi.
+**ZVS:** Tua ciangin amaute tampi a pha a galkap honpite tawh, a tam mahmah sakolte leh leengte tawh, tuipi gei-a om sehnel bangin tampi tak hong kuankhia-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | plural: uh marker
 
 ### v5
 **EN:** And when all these kings were met together, they came and pitched together at the waters of Merom, to fight against Israel.
 
-**TDB77:** Hih kumpite khempeuh in amau galkapte gawmin Israel mite tawh a kido dingin hong pai-in Merom tuite-ah giahphual sat khawm uh hi.
+**TDB77:** Hih kumpite khempeuh in amau galkapte gawmin Israel mite tawh a kido dingin hong pai-in Merom tuite-ah giahphual sat khawm-te hi.
 
-**ZVS:** Hih kumpite khempeuh in amau' galkapte gawmin Israel mite tawh a kido dingin hong pai-in Merom lui-ah giahphual a sat khawm uh hi.
+**ZVS:** Hih kumpite khempeuh in amau' galkapte gawmin Israel mite tawh a kido dingin hong pai-in Merom lui-ah giahphual a sat khawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And the
 
-**TDB77:** Tua ciangin Topa in Joshua kiangah, “Zing ciang tu bang hunin amaute khempeuh a kithatsa-in Israel mite tungah pia ding ka hih manin amaute kihta kei in; a sakolte uh a zagui na sattat ding a, a leengte uh mei tawh na hal ding hi,” a ci hi.
+**TDB77:** Tua ciangin Topa in Joshua kiangah, “Zing ciang tu bang hunin amaute khempeuh a kithatsa-in Israel mite tungah pia ding ka hih manin amaute kihta kei in; a sakolte-te a zagui na sattat ding a, a leengte-te mei tawh na hal ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin { Topa } in Joshua kiangah, “Zing ciang tubang hunin amaute khempeuh a kithatsa-in Israel mite tungah pia ding ka hih manin amaute kihta kei un. A sakolte uh a zagui na sattat ding uh a, a leengte uh mei tawh na hal ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin { Topa } in Joshua kiangah, “Zing ciang tubang hunin amaute khempeuh a kithatsa-in Israel mite tungah pia ding ka hih manin amaute kihta kei un. A sakolte-te a zagui na sattat ding-te a, a leengte-te mei tawh na hal ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** So Joshua came, and all the people of war with him, against them by the waters of Merom suddenly; and they fell upon them.
 
-**TDB77:** Tua ahih ciangin Joshua in a galkapte khempeuh tawh thakhat thu-in Merom tuite gei amaute kiangah pai-in va sim uh hi.
+**TDB77:** Tua ahih ciangin Joshua in a galkapte khempeuh tawh thakhat thu-in Merom tuite gei amaute kiangah pai-in va sim-te hi.
 
-**ZVS:** Tua ahih ciangin Joshua zong a galkapte khempeuh tawh thakhat thu-in Merom lui gei amaute kiangah pai-in va sim uh hi.
+**ZVS:** Tua ahih ciangin Joshua zong a galkapte khempeuh tawh thakhat thu-in Merom lui gei amaute kiangah pai-in va sim-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And the
 
-**TDB77:** Topa in Israelte khut sungah amaute pia a, amaute in vat gawpin a Lian Sidon leh Misrefothmaim ciang dong, leh nisuahna lamah Mizpah kuam ciang dong delh uh hi; amaute kuamah a om nawn lo dongin vatgawp uh hi.
+**TDB77:** Topa in Israelte khut sungah amaute pia a, amaute in vat gawpin a Lian Sidon leh Misrefothmaim ciang dong, leh nisuahna lamah Mizpah kuam ciang dong delh-te hi; amaute kuamah a om nawn lo dongin vatgawp-te hi.
 
-**ZVS:** { Topa } in Israel-te' khutsungah amaute pia a, amaute in vatgawpin a Lian Sidon leh Misrefothmaim ciangdong, leh nisuahna lamah Mizpeh kuam ciangdong delh uh a, amaute kuamah a om nawnlo dongin a vatgawp uh hi.
+**ZVS:** { Topa } in Israel-te' khutsungah amaute pia a, amaute in vatgawpin a Lian Sidon leh Misrefothmaim ciangdong, leh nisuahna lamah Mizpeh kuam ciangdong delh-te a, amaute kuamah a om nawnlo dongin a vatgawp-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** And Joshua did unto them as the
 
-**TDB77:** Topa’ sawl bangin Joshua in amaute hih hi; amau’ sakolte uh a zagui sattat sakin mei tawh a leengte uh halsak hi.
+**TDB77:** Topa’ sawl bangin Joshua in amaute hih hi; amau’ sakolte-te a zagui sattat sakin mei tawh a leengte-te halsak hi.
 
-**ZVS:** { Topa' } sawl bangin Joshua in amaute hih a, amau' sakolte uh a zagui sattat sakin mei tawh a leengte uh a halsak hi.
+**ZVS:** { Topa' } sawl bangin Joshua in amaute hih a, amau' sakolte-te a zagui sattat sakin mei tawh a leengte-te a halsak hi.
 
 **Grammar:** plural: uh marker
 
@@ -112,7 +112,7 @@
 
 **TDB77:** Amaute in tua sunga om khempeuh namsau tawh hihin amaute susia mang hi; husang khat zong om nawn lo a, amah in mei tawh Hazor khua hal hi.
 
-**ZVS:** Amaute in tua sunga om mi khempeuh namsau tawh that khinmang uh hi. Khat zong hingkhawi lo uh a, a khuapi uh zong a haltum uh hi.
+**ZVS:** Amaute in tua sunga om mi khempeuh namsau tawh that khinmang-te hi. Khat zong hingkhawi lo-te a, a khuapi-te zong a haltum-te hi.
 
 ### v12
 **EN:** And all the cities of those kings, and all the kings of them, did Joshua take, and smote them with the edge of the sword, and he utterly destroyed them, as Moses the servant of the
@@ -126,18 +126,18 @@
 ### v13
 **EN:** But as for the cities that stood still in their strength, Israel burned none of them, save Hazor only; that did Joshua burn.
 
-**TDB77:** Ahih hangin Hazor khua longal mualtunga om khuapite khat zong Israel mite in hal lo uh hi; Joshua in tua khua hal hi.
+**TDB77:** Ahih hangin Hazor khua longal mualtunga om khuapite khat zong Israel mite in hal lo-te hi; Joshua in tua khua hal hi.
 
-**ZVS:** Ahih hangin Hazor khua longal mualtunga om khuapite khat zong Israel mite in hallo uh a, Joshua in tua khua bek a hal hi.
+**ZVS:** Ahih hangin Hazor khua longal mualtunga om khuapite khat zong Israel mite in hallo-te a, Joshua in tua khua bek a hal hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v14
 **EN:** And all the spoil of these cities, and the cattle, the children of Israel took for a prey unto themselves; but every man they smote with the edge of the sword, until they had destroyed them, neither left they any to breathe.
 
-**TDB77:** Israel mite in tua khuapite sunga van kinusiate leh ganhingte amau’ galzawh van dingin la uh hi; ahih hangin amaute a suksiat khit matengun namsau tawh vatgawp uh a, husang khat beek nusia lo uh hi.
+**TDB77:** Israel mite in tua khuapite sunga van kinusiate leh ganhingte amau’ galzawh van dingin la-te hi; ahih hangin amaute a suksiat khit matengun namsau tawh vatgawp-te a, husang khat beek nusia lo-te hi.
 
-**ZVS:** Israel mite in tua khuapite sunga van kinusiate leh ganhingte amau' galzawh van dingin a la uh hi. Ahih hangin amaute a thah khit matengun namsau tawh vatgawp uh a, khat beek hingkhawi lo uh hi.
+**ZVS:** Israel mite in tua khuapite sunga van kinusiate leh ganhingte amau' galzawh van dingin a la-te hi. Ahih hangin amaute a thah khit matengun namsau tawh vatgawp-te a, khat beek hingkhawi lo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -180,27 +180,27 @@
 ### v19
 **EN:** There was not a city that made peace with the children of Israel, save the Hivites the inhabitants of Gibeon: all other they took in battle.
 
-**TDB77:** Gibeon khua-a teeng Hiv mite longal Israel mite tawh kilemna a bawl khuapi khat zong om lo hi; amaute in tuate khempeuh simin a lak uh ahi hi.
+**TDB77:** Gibeon khua-a teeng Hiv mite longal Israel mite tawh kilemna a bawl khuapi khat zong om lo hi; amaute in tuate khempeuh simin a lak-te ahi hi.
 
-**ZVS:** Gibeon khua-a teng Hiv mite longal, Israel mite tawh kilemna a bawl khuapi khat zong omlo hi. Amaute in tua khua dangte khempeuh simin a lak uh ahi hi.
+**ZVS:** Gibeon khua-a teng Hiv mite longal, Israel mite tawh kilemna a bawl khuapi khat zong omlo hi. Amaute in tua khua dangte khempeuh simin a lak-te ahi hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
 ### v20
 **EN:** For it was of the
 
-**TDB77:** Bang hang hiam cih leh Topa in Moses a thupiakna bangin amaute a kisuksiat mang nading leh hehpihna ngah loin a kibeisak theih nadingin Israelte a do nadingin a lungsim uh khauhsak ding Topa’ bawl ahi hi.
+**TDB77:** Bang hang hiam cih leh Topa in Moses a thupiakna bangin amaute a kisuksiat mang nading leh hehpihna ngah loin a kibeisak theih nadingin Israelte a do nadingin a lungsim-te khauhsak ding Topa’ bawl ahi hi.
 
-**ZVS:** Bang hang hiam cih leh { Topa } in Moses a thupiakna bangin amaute a kisuksiat mangna ding leh hehpihna ngahloin a kibeisak theihna dingin Israel-te a dona dingin a lungsim uh a khauhsakpa pen { Topa } ahi hi.
+**ZVS:** Bang hang hiam cih leh { Topa } in Moses a thupiakna bangin amaute a kisuksiat mangna ding leh hehpihna ngahloin a kibeisak theihna dingin Israel-te a dona dingin a lungsim-te a khauhsakpa pen { Topa } ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v21
 **EN:** And at that time came Joshua, and cut off the Anakims from the mountains, from Hebron, from Debir, from Anab, and from all the mountains of Judah, and from all the mountains of Israel: Joshua destroyed them utterly with their cities.
 
-**TDB77:** Tua hun lai takin Joshua hong pai-in mualtung gam, Hebron, Debir, Anab, leh Judah mualtung gam khempeuh, leh Israel mualtung gam khempeuh panin Anak mite nawh khia siang hi; Joshua in a khuapite uh tawh amaute susia mang khawm hi.
+**TDB77:** Tua hun lai takin Joshua hong pai-in mualtung gam, Hebron, Debir, Anab, leh Judah mualtung gam khempeuh, leh Israel mualtung gam khempeuh panin Anak mite nawh khia siang hi; Joshua in a khuapite-te tawh amaute susia mang khawm hi.
 
-**ZVS:** Tua hun laitakin Joshua hong pai-in mualtung gam, Hebron, Debir, Anab, leh Judah mualtung gam khempeuh, leh Israel mualtung gam khempeuh panin Anak mite nawhkhia siang a, Joshua in a khuapite uh tawh amaute susiamang khawm hi.
+**ZVS:** Tua hun laitakin Joshua hong pai-in mualtung gam, Hebron, Debir, Anab, leh Judah mualtung gam khempeuh, leh Israel mualtung gam khempeuh panin Anak mite nawhkhia siang a, Joshua in a khuapite-te tawh amaute susiamang khawm hi.
 
 **Grammar:** serial verb: -in (and then)
 

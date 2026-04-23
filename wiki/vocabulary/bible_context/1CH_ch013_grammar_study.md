@@ -33,9 +33,9 @@
 ### v2
 **EN:** And David said unto all the congregation of Israel, If it seem good unto you, and that it be of the
 
-**TDB77:** Tua ciangin David in Israel a kikhawm khempeuhte kiangah, “Note in kilawm na sak uh a, Topa i Pasian’ deihna ahih leh, amaute eite kiangah hong pai khop theih nadingun Israel gam sungah a om lai i sanggamte leh lonona gam a nei khuapi sunga om siampite leh Levi mite kiangah mi sawl ni.
+**TDB77:** Tua ciangin David in Israel a kikhawm khempeuhte kiangah, “Note in kilawm na sak-te a, Topa i Pasian’ deihna ahih leh, amaute eite kiangah hong pai khop theih nadingun Israel gam sungah a om lai i sanggamte leh lonona gam a nei khuapi sunga om siampite leh Levi mite kiangah mi sawl ni.
 
-**ZVS:** Tua ciangin David in Israel a kikhawm khempeuhte kiangah, “Note in kilawm na sak uh a, { Topa } i Pasian' deihna ahih leh, eite' kiangah hong pai theihna dingun Israel gam sungah a omlai i sanggamte leh lonona gam a nei khuapi sunga om siampite leh Levi mite a sam dingin mi sawl ni.
+**ZVS:** Tua ciangin David in Israel a kikhawm khempeuhte kiangah, “Note in kilawm na sak-te a, { Topa } i Pasian' deihna ahih leh, eite' kiangah hong pai theihna dingun Israel gam sungah a omlai i sanggamte leh lonona gam a nei khuapi sunga om siampite leh Levi mite a sam dingin mi sawl ni.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -51,9 +51,9 @@
 ### v4
 **EN:** And all the congregation said that they would do so: for the thing was right in the eyes of all the people.
 
-**TDB77:** Tua thu mi khempeuh in hoih sa ahih manin tua bangin hih ding a kikhawm khempeuh thukim uh hi.
+**TDB77:** Tua thu mi khempeuh in hoih sa ahih manin tua bangin hih ding a kikhawm khempeuh thukim-te hi.
 
-**ZVS:** Mi khempeuh in tua thu hoihsa uh ahih manin tua bangin hih ding a kikhawm mi khempeuh a thukim uh hi.
+**ZVS:** Mi khempeuh in tua thu hoihsa-te ahih manin tua bangin hih ding a kikhawm mi khempeuh a thukim-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -69,27 +69,27 @@
 ### v6
 **EN:** And David went up, and all Israel, to Baalah, that is, to Kirjath–jearim, which belonged to Judah, to bring up thence the ark of God the
 
-**TDB77:** Tua ciangin David leh Israel khempeuh, kherubte tungah a tu Topa’ min tawh a kilo Pasian’ thuciamna singkuang a paipih to dingin, Kiriath-jearim a kici Baalah ah paito uh hi.
+**TDB77:** Tua ciangin David leh Israel khempeuh, kherubte tungah a tu Topa’ min tawh a kilo Pasian’ thuciamna singkuang a paipih to dingin, Kiriath-jearim a kici Baalah ah paito-te hi.
 
-**ZVS:** Tua ciangin David leh Israel mi khempeuh, kherub-te' tungah a tu { Topa' } min tawh a kilo Pasian' Thuciamna Singkuang a paipihto dingin Kiriathjearim a kici Baalah-ah a paito uh hi.
+**ZVS:** Tua ciangin David leh Israel mi khempeuh, kherub-te' tungah a tu { Topa' } min tawh a kilo Pasian' Thuciamna Singkuang a paipihto dingin Kiriathjearim a kici Baalah-ah a paito-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And they carried the ark of God in a new cart out of the house of Abinadab: and Uzza and Ahio drave the cart.
 
-**TDB77:** Amaute in Abinadab’ inn panin leeng thak khat tungah Pasian’ thuciamna singkuang pua uh a, Uzza leh Ahio in leeng hawl uh hi.
+**TDB77:** Amaute in Abinadab’ inn panin leeng thak khat tungah Pasian’ thuciamna singkuang pua-te a, Uzza leh Ahio in leeng hawl-te hi.
 
-**ZVS:** Amaute in Abinadab' inn panin leeng thak khat tungah Pasian' Thuciamna Singkuang pua uh a, Uzza leh Ahio in a leeng a hawl uh hi.
+**ZVS:** Amaute in Abinadab' inn panin leeng thak khat tungah Pasian' Thuciamna Singkuang pua-te a, Uzza leh Ahio in a leeng a hawl-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** And David and all Israel played before God with all their might, and with singing, and with harps, and with psalteries, and with timbrels, and with cymbals, and with trumpets.
 
-**TDB77:** Tua ciangin David leh Israel khempeuh in Pasian’ mai-ah la leh laiza lasakna leh harp lasakna leh khuangneute leh daltuahte leh peengkulte leh a tha neih zah uh tawh gualnopna bawl uh hi.
+**TDB77:** Tua ciangin David leh Israel khempeuh in Pasian’ mai-ah la leh laiza lasakna leh harp lasakna leh khuangneute leh daltuahte leh peengkulte leh a tha neih zah-te tawh gualnopna bawl-te hi.
 
-**ZVS:** Tua ciangin David leh Israel mi khempeuh in Pasian' mai-ah la leh laia lasakna, harp lasakna, khuangneute, daltuahte, leh peengkulte tawh a tha neih zahun gualnopna a bawl uh hi.
+**ZVS:** Tua ciangin David leh Israel mi khempeuh in Pasian' mai-ah la leh laia lasakna, harp lasakna, khuangneute, daltuahte, leh peengkulte tawh a tha neih zahun gualnopna a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

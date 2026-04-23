@@ -1,0 +1,138 @@
+{
+  "generated_at": "2026-04-16T14:26:15.993420",
+  "status": "READY",
+  "datasets": {
+    "training": {
+      "master": {
+        "path": "data/training/master.jsonl",
+        "size_mb": 315.5,
+        "records": 883866,
+        "description": "Single source of truth for training",
+        "deduplication": "20.9% duplicates removed",
+        "sources": 12
+      },
+      "snapshots": {
+        "path": "data/training/snapshots/",
+        "files": 3,
+        "description": "Versioned training snapshots (v11 base/cefr/tagged)"
+      }
+    },
+    "dictionary": {
+      "unified": {
+        "path": "data/dictionary/processed/dict_unified_v1.jsonl",
+        "size_mb": 30.2,
+        "entries": 152093,
+        "description": "Unified dictionary from 3 sources"
+      },
+      "sources": {
+        "zomidictionary": {
+          "path": "data/dictionary/raw/zomidictionary_export_v1.jsonl",
+          "entries": 33532,
+          "description": "ZomiDictionary export"
+        },
+        "tongdot": {
+          "path": "data/dictionary/raw/dict_tongdot_raw_v1.jsonl",
+          "size_mb": 27.6,
+          "entries": 27758,
+          "description": "TongDot web scrape"
+        },
+        "legacy": {
+          "path": "data/dictionary/db/zolai_dictionary_legacy.db",
+          "size_mb": 16.7,
+          "description": "Legacy database (53k entries)"
+        }
+      },
+      "search_db": {
+        "path": "data/dictionary/db/master_unified_dictionary.db",
+        "size_mb": 113.8,
+        "type": "SQLite FTS5",
+        "description": "Full-text search database"
+      }
+    },
+    "corpus": {
+      "full_master": {
+        "path": "data/corpus/corpus_master_v1.jsonl",
+        "size_mb": 8997.2,
+        "records": 6160493,
+        "description": "Complete corpus (8.8GB)"
+      },
+      "bible": {
+        "path": "data/corpus/bible/",
+        "files": 10,
+        "size_mb": 72.4,
+        "versions": [
+          "TB77",
+          "TBR17",
+          "Tedim1932",
+          "Tedim2010",
+          "KJV refs"
+        ],
+        "description": "Bible versions in USX format"
+      },
+      "news": {
+        "path": "data/corpus/news/",
+        "files": 5,
+        "size_mb": 69.5,
+        "sources": [
+          "ZomiDaily",
+          "Tongsan",
+          "RVAsia Catholic"
+        ],
+        "description": "Web crawls and news articles"
+      },
+      "synthetic": {
+        "path": "data/corpus/synthetic/synthetic_all_v1.jsonl",
+        "size_mb": 3.7,
+        "records": 11155,
+        "description": "Merged synthetic/generated data"
+      },
+      "hymns": {
+        "path": "data/corpus/hymns/tedim_hymns_v1.jsonl",
+        "size_mb": 0.6,
+        "records": 510,
+        "description": "Tedim hymn corpus"
+      },
+      "texts": {
+        "path": "data/corpus/texts/",
+        "files": 16,
+        "size_mb": 1.6,
+        "description": "Historical texts (Sinna, Khanggui, Gentehna, etc.)"
+      }
+    },
+    "parallel": {
+      "description": "ZO\u2194EN translation pairs",
+      "note": "Files exist in archive; ready for extraction"
+    },
+    "wiki": {
+      "path": "wiki/",
+      "files": 6,
+      "description": "Grammar, standards, AI instructions, curriculum"
+    }
+  },
+  "statistics": {
+    "total_training_records": 883866,
+    "total_dictionary_entries": 152093,
+    "total_corpus_records": 6160493,
+    "total_size_gb": 9.5,
+    "deduplication_rate": "20.9%",
+    "languages": [
+      "Zolai (Tedim)",
+      "English"
+    ],
+    "encoding": "UTF-8"
+  },
+  "quality_checks": {
+    "master_jsonl": "\u2713 Valid",
+    "dictionary_db": "\u2713 FTS5 indexed",
+    "corpus_integrity": "\u2713 Verified",
+    "code_paths": "\u2713 Updated (9 files)",
+    "archive_cleanup": "\u2713 Complete"
+  },
+  "next_steps": [
+    "1. Run: python data/training/build_master.py",
+    "2. Extract parallel pairs if needed",
+    "3. Generate training splits (train/val/test)",
+    "4. Fine-tune LLM with master.jsonl",
+    "5. Deploy to production"
+  ]
+}

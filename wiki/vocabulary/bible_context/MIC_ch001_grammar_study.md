@@ -61,7 +61,7 @@
 
 **TDB77:** Pasian tungah Israelte’ mawhna leh khialhna hangin hih thute khempeuh piang hi. Israelte’ khialhna kua ngawh ding i hi hiam? Samaria mite ngawh ding ahi hiam? Judah gam sungah milim bia-a khial kua ahi hiam? Jerusalem mite ahi hi.
 
-**ZVS:** Pasian' tungah Israel-te' mawhna leh a khialhnate uh hangin hih thute khempeuh a piang ahi hi. Israel-te' khialhna kua ngawh ding ihi hiam? Samaria mite ngawh ding ihi hiam? Judah gamsungah milim bia-in a khial kua ahi hiam? Jerusalem mite ahi hi.
+**ZVS:** Pasian' tungah Israel-te' mawhna leh a khialhnate-te hangin hih thute khempeuh a piang ahi hi. Israel-te' khialhna kua ngawh ding ihi hiam? Samaria mite ngawh ding ihi hiam? Judah gamsungah milim bia-in a khial kua ahi hiam? Jerusalem mite ahi hi.
 
 ### v6
 **EN:** Therefore I will make Samaria as an heap of the field, and as plantings of a vineyard: and I will pour down the stones thereof into the valley, and I will discover the foundations thereof.
@@ -75,9 +75,9 @@
 ### v7
 **EN:** And all the graven images thereof shall be beaten to pieces, and all the hires thereof shall be burned with the fire, and all the idols thereof will I lay desolate: for she gathered it of the hire of an harlot, and they shall return to the hire of an harlot.
 
-**TDB77:** A milim manphate khempeuh kisuzanin, mei tawh kisusia ding hi. Pasian tungah a thuman lohna hangun mihingte in hih milimte nei uh ahih manun, a paktatna uh tawh kizui-in tu-in thuak kik ding uh hi, ci hi.
+**TDB77:** A milim manphate khempeuh kisuzanin, mei tawh kisusia ding hi. Pasian tungah a thuman lohna hangun mihingte in hih milimte nei-te ahih manun, a paktatna-te tawh kizui-in tu-in thuak kik ding-te hi, ci hi.
 
-**ZVS:** A milim manphate khempeuh kisuzan gawp ding a, mei tawh kisusia ding hi. Pasian' tungah a thumanlohna hangun mihingte in hih milimte nei uh ahih manin, a thumanlohna uh tawh kizui-in tu-in thuakkik ding uh hi, ci hi.
+**ZVS:** A milim manphate khempeuh kisuzan gawp ding a, mei tawh kisusia ding hi. Pasian' tungah a thumanlohna hangun mihingte in hih milimte nei-te ahih manin, a thumanlohna-te tawh kizui-in tu-in thuakkik ding-te hi, ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -102,36 +102,36 @@
 ### v10
 **EN:** Declare ye it not at Gath, weep ye not at all: in the house of Aphrah roll thyself in the dust.
 
-**TDB77:** I guallelhna, Gath khuamite theisak kei un la, na kahna uh amaute musak kei un. Bethle-afrah khua sungah na lungkhamna uh langsakin, leivui lakah kikhuk un.
+**TDB77:** I guallelhna, Gath khuamite theisak kei un la, na kahna-te amaute musak kei un. Bethle-afrah khua sungah na lungkhamna-te langsakin, leivui lakah kikhuk un.
 
-**ZVS:** I guallelhna thu Gath khuamite theisak kei un la, na kahna uh amaute musak kei un. Bethleafrah khuasungah na lungkhamna uh langsakin, leivui lakah kikhuk un.
+**ZVS:** I guallelhna thu Gath khuamite theisak kei un la, na kahna-te amaute musak kei un. Bethleafrah khuasungah na lungkhamna-te langsakin, leivui lakah kikhuk un.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v11
 **EN:** Pass ye away, thou inhabitant of Saphir, having thy shame naked: the inhabitant of Zaanan came not forth in the mourning of Beth–ezel; he shall receive of you his standing.
 
-**TDB77:** Shafir khua-a teeng mite aw, guaktangin maizumna tawh salin pai un. Za-anan khua-a teeng mite, a hingin paikhia ngei lo ding hi. Beth-ezel khuamite kahna leh thuumna na zak uh ciangin, tua khua sungah belh ding munmuanhuai a om lohna na thei ding uh hi.
+**TDB77:** Shafir khua-a teeng mite aw, guaktangin maizumna tawh salin pai un. Za-anan khua-a teeng mite, a hingin paikhia ngei lo ding hi. Beth-ezel khuamite kahna leh thuumna na zak-te ciangin, tua khua sungah belh ding munmuanhuai a om lohna na thei ding-te hi.
 
-**ZVS:** Shafir khua-ah a teng mite aw, guaktangin maizumna tawh salin pai un. Zanaan khua-a teng mite, a hingin paikhia ngeilo ding hi. Bethezel khuamite' kahna leh thumna na zak uh ciangin, tua khuasungah belh ding munmuan'huai a omlohna na thei ding uh hi.
+**ZVS:** Shafir khua-ah a teng mite aw, guaktangin maizumna tawh salin pai un. Zanaan khua-a teng mite, a hingin paikhia ngeilo ding hi. Bethezel khuamite' kahna leh thumna na zak-te ciangin, tua khuasungah belh ding munmuan'huai a omlohna na thei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v12
 **EN:** For the inhabitant of Maroth waited carefully for good: but evil came down from the
 
-**TDB77:** Topa in Jerusalem kulh kongpi ciang dongah, gimna lianpi tungsak ta ahih manin Maroth khuamite in thuhoih lamenin gim uh hi.
+**TDB77:** Topa in Jerusalem kulh kongpi ciang dongah, gimna lianpi tungsak ta ahih manin Maroth khuamite in thuhoih lamenin gim-te hi.
 
-**ZVS:** { Topa } in Jerusalem kulhpi dongah gimna lianpi tungsak ta ahih manin Maroth khuamite nakpi takin patau uh hi.
+**ZVS:** { Topa } in Jerusalem kulhpi dongah gimna lianpi tungsak ta ahih manin Maroth khuamite nakpi takin patau-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
 ### v13
 **EN:** O thou inhabitant of Lachish, bind the chariot to the swift beast: she is the beginning of the sin to the daughter of Zion: for the transgressions of Israel were found in thee.
 
-**TDB77:** Lakhish khua-a teeng mite aw, na sakol galkapte uh a leng bulh pak un. Note in Zion tanute’ khialhna teng zui kha na hih manun, Jerusalem zong a khialsakte na hi uh hi.
+**TDB77:** Lakhish khua-a teeng mite aw, na sakol galkapte-te a leng bulh pak un. Note in Zion tanute’ khialhna teng zui kha na hih manun, Jerusalem zong a khialsakte na hi-te hi.
 
-**ZVS:** Lakhish khua-ah a teng mite aw, na sakol galkapte uh a leeng bulh pak un. Note in Israel-te' khialhnateng zuikha na hih manun, Jerusalem zong a khialsakte na hi uh hi.
+**ZVS:** Lakhish khua-ah a teng mite aw, na sakol galkapte-te a leeng bulh pak un. Note in Israel-te' khialhnateng zuikha na hih manun, Jerusalem zong a khialsakte na hi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -156,9 +156,9 @@
 ### v16
 **EN:** Make thee bald, and poll thee for thy delicate children; enlarge thy baldness as the eagle; for they are gone into captivity from thee.
 
-**TDB77:** Judah mite aw, na it mahmah uh na tate uh, sal-in hong kilaksak ding ahih manin, amaute hangin na dahna lim-un na sam uh met un la, musane bangin na lu uh tolsak un.
+**TDB77:** Judah mite aw, na it mahmah-te na tate uh, sal-in hong kilaksak ding ahih manin, amaute hangin na dahna lim-un na sam-te met un la, musane bangin na lu-te tolsak un.
 
-**ZVS:** Judah mite aw, na it mahmah na tate uh, sal a suak dingin hong kilaksak ding ahih manin, amaute' hangin na dahna limun na sam uh met un la, musane bangin na lu uh tolsak un.
+**ZVS:** Judah mite aw, na it mahmah na tate uh, sal a suak dingin hong kilaksak ding ahih manin, amaute' hangin na dahna limun na sam-te met un la, musane bangin na lu-te tolsak un.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | causal: because | reciprocal: ki- prefix
 

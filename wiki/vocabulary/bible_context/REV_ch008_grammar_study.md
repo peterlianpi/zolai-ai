@@ -66,7 +66,7 @@
 
 **TDB77:** Tua lai takin peengkul sagih a nei vantungmi sagihte in peengkul mut dingin a kisa khol hi.
 
-**ZVS:** Tu-in peengkul sagih a tawi vantung mi sagihte a peengkul uh a tum dingin hong kithawi uh hi.
+**ZVS:** Tu-in peengkul sagih a tawi vantung mi sagihte a peengkul-te a tum dingin hong kithawi-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -91,7 +91,7 @@
 ### v9
 **EN:** And the third part of the creatures which were in the sea, and had life, died; and the third part of the ships were destroyed.
 
-**TDB77:** tuipi sungah a om nuntakna a nei ganhing seh thum suah seh khat a si uh hi. Teembaw seh thum suah seh khat a kisia hi.
+**TDB77:** tuipi sungah a om nuntakna a nei ganhing seh thum suah seh khat a si-te hi. Teembaw seh thum suah seh khat a kisia hi.
 
 **ZVS:** Tuipi sehthumsuah sehkhat sisan suakin, tuipi sunga om ganhingte sehthumsuah sehkhat si a, teembaw sehthumsuah sehkhat a kisia hi.
 
@@ -109,9 +109,9 @@
 ### v11
 **EN:** And the name of the star is called Wormwood: and the third part of the waters became wormwood; and many men died of the waters, because they were made bitter.
 
-**TDB77:** Tua aksi a min in Gamsai kici hi. Tua lai takin tui seh thum suah seh khat in gamsai-tui suak a, tua tui kha ahih ciangin mi tampi a si uh hi.
+**TDB77:** Tua aksi a min in Gamsai kici hi. Tua lai takin tui seh thum suah seh khat in gamsai-tui suak a, tua tui kha ahih ciangin mi tampi a si-te hi.
 
-**ZVS:** Tua aksi a min Gamsai hi a, tui sehthumsuah sehkhat gamsai tui suak a, tua tui khasak ahih manin a dawn mi tampi tak a si uh hi.
+**ZVS:** Tua aksi a min Gamsai hi a, tui sehthumsuah sehkhat gamsai tui suak a, tua tui khasak ahih manin a dawn mi tampi tak a si-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -120,7 +120,7 @@
 
 **TDB77:** Lina vantungmi in peengkul a tum ciangah ni seh thum suah seh khat, kha seh thum suah seh khat, aksite seh thum suah seh khatte su kha a, seh thum suah seh khat a mial hi. Sun seh thum suah seh khat a tang kei hi, zan seh thum suah seh khat in khuavakna nei loin a piang hi.
 
-**ZVS:** A lina vantung mi in a peengkul hong tum a, ni sehthumsuah sehkhat kisatkhia-in, kha zong sehthumsuah sehkhat mah kisatkhia a, aksi zong sehthumsuah sehkhat mah kisatkhia ahih manin a taan'na uh sehthumsuah sehkhat ciat a bei hi. Sunin hun sehthumsuah sehkhat tang khua vaklo a, zanin zong hun sehthumsuah sehkhat tang mah kha leh aksi taanglo hi.
+**ZVS:** A lina vantung mi in a peengkul hong tum a, ni sehthumsuah sehkhat kisatkhia-in, kha zong sehthumsuah sehkhat mah kisatkhia a, aksi zong sehthumsuah sehkhat mah kisatkhia ahih manin a taan'na-te sehthumsuah sehkhat ciat a bei hi. Sunin hun sehthumsuah sehkhat tang khua vaklo a, zanin zong hun sehthumsuah sehkhat tang mah kha leh aksi taanglo hi.
 
 **Grammar:** negation: kei
 

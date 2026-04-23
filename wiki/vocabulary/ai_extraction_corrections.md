@@ -33,7 +33,7 @@
 
 ## Non-Tedim Dialect Cleanup (2026-04-15)
 Removed 0 entries containing Hakha/Falam words:
-- Forbidden: pasian, gam, tapa, topa, siangpahrang, tua, tua
+- Forbidden: pasian, gam, tapa, topa, kumpipa, tua, tua
 - Use instead: pasian, gam, tapa, topa, kumpipa, tua
 
 | ta | and/then (connector) | INCORRECT - ta = child (gender-neutral). tapa = son (ta+pa), tanu = daughter (ta+nu). In "Adam' ta Seth", ta = child. The apostrophe (') is possessive marker: Adam's child Seth. | User correction |

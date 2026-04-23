@@ -64,7 +64,7 @@
 | Pasian in lampi na theilua mahmah hi | God knows the way very well |  |
 | um ngam aa, nget ngam ding bek kisam ahi hi | we can be content and only need to ask |  |
 | thuhilhna, thugenna tampi na nei uhhi | they gave many parables and teachings |  |
-| mipilte kampau le a thugente uh | the speech of the wise and their teachings |  |
+| mipilte kampau le a thugente-te | the speech of the wise and their teachings |  |
 | a khuasung luhgawp dingin | in order to conquer that city |  |
 | a hu zo hi | he was able to save/deliver |  |
 | a gen lualua sangin | rather than the ruler speaking too much |  |
@@ -276,6 +276,6 @@
 | Cidam ciang bek nasem zo ding, nasep zawh ciang bek sum nei ding, sum neih ciang bek deihte nei zo ding kisa kha thei hi. | One might think that one can only work when healthy, only get money when work is done, and only get what one desires when one has money. |
 | Cidamlo, nasep neilo, sum neilo kawmkal pan i deih khat I neih theih nading Pasian in lampi na theilua mahmah hi. | God knows the way very well so that we can get one thing we desire even amidst sickness, unemployment, and poverty. |
 | Hi bang i cih ciang, nasem nawnlo ding cihna bel hituan samlo hi. | When we say this, it does not mean that we should stop working. |
-| Paunak 1:6 Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente uh a theih nading ahi hi. | Proverbs 1:6: The proverbs and teachings are to be understood clearly so that the wise may know the speech and teachings of the wise. |
+| Paunak 1:6 Paunakte le thugentehna hoihtakin thei aa mipilte kampau le a thugente-te a theih nading ahi hi. | Proverbs 1:6: The proverbs and teachings are to be understood clearly so that the wise may know the speech and teachings of the wise. |
 | Thahatna sangin pilna hoihzaw | Wisdom is better than strength. |
 | ahi zongin khialhna khat in a hoih tampi susia thei hi. | However, one sin can spoil much good. |

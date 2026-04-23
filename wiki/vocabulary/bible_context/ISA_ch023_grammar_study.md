@@ -26,27 +26,27 @@
 ### v1
 **EN:** The burden of Tyre. Howl, ye ships of Tarshish; for it is laid waste, so that there is no house, no entering in: from the land of Kittim it is revealed to them.
 
-**TDB77:** Tai-ar khua tawh kisai thu: Tarshish teembaw hawlte aw, Tai-ar khua kisia a, inn leh khawlmunte om nawn lo ahih manin, kap un! Saipras gam panin hih thu amaute in za uh hi.
+**TDB77:** Tai-ar khua tawh kisai thu: Tarshish teembaw hawlte aw, Tai-ar khua kisia a, inn leh khawlmunte om nawn lo ahih manin, kap un! Saipras gam panin hih thu amaute in za-te hi.
 
-**ZVS:** Taia khua tawh kisai thu hih bangin gen hi: Tarshish teembaw hawlte aw, Taia khua kisia a, inn leh khawlmunte om nawnlo ahih manin kap un! Saipras gam panin amaute in hih thu hong za uh hi.
+**ZVS:** Taia khua tawh kisai thu hih bangin gen hi: Tarshish teembaw hawlte aw, Taia khua kisia a, inn leh khawlmunte om nawnlo ahih manin kap un! Saipras gam panin amaute in hih thu hong za-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** Be still, ye inhabitants of the isle; thou whom the merchants of Zidon, that pass over the sea, have replenished.
 
-**TDB77:** Tuikulh-a teeng mite aw, thuumin tau un, Sidon sumbukte aw, na sawltakte un tuipi kantanin tui lianpite tungah om uh hi;
+**TDB77:** Tuikulh-a teeng mite aw, thuumin tau un, Sidon sumbukte aw, na sawltakte un tuipi kantanin tui lianpite tungah om-te hi;
 
-**ZVS:** Tuipi gei-a teng mite aw, thumin tau un. Sidon sumbukte aw, na sawltakte un tuipi kantanin tui lianpite tungah om uh hi.
+**ZVS:** Tuipi gei-a teng mite aw, thumin tau un. Sidon sumbukte aw, na sawltakte un tuipi kantanin tui lianpite tungah om-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** And by great waters the seed of Sihor, the harvest of the river, is her revenue; and she is a mart of nations.
 
-**TDB77:** Izipt gam a, piang ante lei-in na zuak uh a, minam khempeuh tawh sumbawlin na kizom uh hi.
+**TDB77:** Izipt gam a, piang ante lei-in na zuak-te a, minam khempeuh tawh sumbawlin na kizom-te hi.
 
-**ZVS:** Egypt gama piang ante lei-in na zuak uh a, minam khempeuh tawh sum bawlin na kizom uh hi.
+**ZVS:** Egypt gama piang ante lei-in na zuak-te a, minam khempeuh tawh sum bawlin na kizom-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -62,9 +62,9 @@
 ### v5
 **EN:** As at the report concerning Egypt, so shall they be sorely pained at the report of Tyre.
 
-**TDB77:** Izipt gamah hih thu a kizak ciangin, Tai-ar tawh kisai thu hangin amaute in na sa ding uh hi.
+**TDB77:** Izipt gamah hih thu a kizak ciangin, Tai-ar tawh kisai thu hangin amaute in na sa ding-te hi.
 
-**ZVS:** Egypt gamah hih thu a kizak ciangin, Taia tawh kisai thu hangin amaute in na sa ding uh hi.
+**ZVS:** Egypt gamah hih thu a kizak ciangin, Taia tawh kisai thu hangin amaute in na sa ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -105,9 +105,9 @@
 ### v10
 **EN:** Pass through thy land as a river, O daughter of Tarshish: there is no more strength.
 
-**TDB77:** Tarshish mite aw, tu-in kuankhia un la, lo kho un. Na sum bawlna teng uh maimang khin ta hi.
+**TDB77:** Tarshish mite aw, tu-in kuankhia un la, lo kho un. Na sum bawlna teng-te maimang khin ta hi.
 
-**ZVS:** Tarshish mite aw, tu-in kuankhia-in lo kho un. Na sumbawlna teng uh maimang khinta hi.
+**ZVS:** Tarshish mite aw, tu-in kuankhia-in lo kho un. Na sumbawlna teng-te maimang khinta hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done
 
@@ -123,25 +123,25 @@
 ### v12
 **EN:** And he said, Thou shalt no more rejoice, O thou oppressed virgin, daughter of Zidon: arise, pass over to Kittim; there also shalt thou have no rest.
 
-**TDB77:** Amah in, “Sidon Tanu Siangtho aw, na lungdamna teng bei khin ta hi. Na mite in nenniamna thuak uh a, Saipras tuikulh ah a va tai uh hangin, tua lai nangawnah lungnopna hun nei lo ding uh hi,” ci hi.
+**TDB77:** Amah in, “Sidon Tanu Siangtho aw, na lungdamna teng bei khin ta hi. Na mite in nenniamna thuak-te a, Saipras tuikulh ah a va tai-te hangin, tua lai nangawnah lungnopna hun nei lo ding-te hi,” ci hi.
 
-**ZVS:** Amah in, “Sidon khuapi aw, na lungdamna teng bei khinta hi. Na mite in nenniamna thuak uh a, Saipras tuikulhah a va tai uh hangin, tua lai nangawnah lungnopna hun neilo ding uh hi,” ci hi.
+**ZVS:** Amah in, “Sidon khuapi aw, na lungdamna teng bei khinta hi. Na mite in nenniamna thuak-te a, Saipras tuikulhah a va tai-te hangin, tua lai nangawnah lungnopna hun neilo ding-te hi,” ci hi.
 
 **Grammar:** quotative: said/saying | completed: already done | future: will | negation: lo | plural: uh marker
 
 ### v13
 **EN:** Behold the land of the Chaldeans; this people was not, till the Assyrian founded it for them that dwell in the wilderness: they set up the towers thereof, they raised up the palaces thereof; and he brought it to ruin.
 
-**TDB77:** Tai-ar khuapi, gamsate’ phualpi a suaksate in; Assiria mite hi lo a, Babilon mite ahi hi. Babilon mite in khuapi luh nading panmun bawl uh a, Tai-ar khuapi kulhte susia-in, khuapi sung khempeuh a sia suah uh hi.
+**TDB77:** Tai-ar khuapi, gamsate’ phualpi a suaksate in; Assiria mite hi lo a, Babilon mite ahi hi. Babilon mite in khuapi luh nading panmun bawl-te a, Tai-ar khuapi kulhte susia-in, khuapi sung khempeuh a sia suah-te hi.
 
-**ZVS:** Taia khuapi, gamsate' phualpi a suaksakte pen Assiria mite hilo a, Babylon mite ahi hi. Babylon mite in khuapi luhna ding pan'mun bawl uh a, Taia khuapi kulhte susia-in, khuapi sung khempeuh a sia a suaksak uh hi.
+**ZVS:** Taia khuapi, gamsate' phualpi a suaksakte pen Assiria mite hilo a, Babylon mite ahi hi. Babylon mite in khuapi luhna ding pan'mun bawl-te a, Taia khuapi kulhte susia-in, khuapi sung khempeuh a sia a suaksak-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v14
 **EN:** Howl, ye ships of Tarshish: for your strength is laid waste.
 
-**TDB77:** Tarshish teembaw hawlte aw, na muan uh khuapi kisia ahih manin thuumin kap un.
+**TDB77:** Tarshish teembaw hawlte aw, na muan-te khuapi kisia ahih manin thuumin kap un.
 
 **ZVS:** Tarshish teembaw hawlte aw, na muan' uh khuapi kisia ta ahih manin thumin kap un.
 

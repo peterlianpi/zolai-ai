@@ -32,16 +32,16 @@
 ### v2
 **EN:** And he said unto them, When ye pray, say,
 
-**TDB77:** Zeisu in, “Note in thu na nget uh ciangin hih bangin na ngen un: ‘Pa aw, Nangma min siangtho ta hen; Na Gam hong piang ta hen;
+**TDB77:** Zeisu in, “Note in thu na nget-te ciangin hih bangin na ngen un: ‘Pa aw, Nangma min siangtho ta hen; Na Gam hong piang ta hen;
 
-**ZVS:** Jesuh in amaute kiangah, “Hih bangin na ngen ding uh hi: ‘Pa aw, na min siangtho kizahtak hen la,—- na Ukna hun hong tung ta hen.
+**ZVS:** Jesuh in amaute kiangah, “Hih bangin na ngen ding-te hi: ‘Pa aw, na min siangtho kizahtak hen la,—- na Ukna hun hong tung ta hen.
 
 ### v5
 **EN:** And he said unto them,
 
 **TDB77:** Zeisu in, “Note khatpeuh in lawm nei a, zankim lai takin ama innah pai a, ‘Lawm aw, keima lawmte khat hong zin a, kei kiangah hong tung zo hi.
 
-**ZVS:** Tua ciangin Jesuh in a nungzuite kiangah, “Note khatpeuh, na lawmte uh khat inn-ah zankim laitakin pai-in, ‘Lawm aw, anlum lum thum khawng hong leitawi sak in.
+**ZVS:** Tua ciangin Jesuh in a nungzuite kiangah, “Note khatpeuh, na lawmte-te khat inn-ah zankim laitakin pai-in, ‘Lawm aw, anlum lum thum khawng hong leitawi sak in.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -50,23 +50,23 @@
 
 **TDB77:** Zeisu in a pau thei lo dawi a hawlkhia hi. Dawi a paikhiat khit ciangin, a pau thei lopa a pau thei hi.
 
-**ZVS:** Jesuh in a pau theilo mi khat sung panin dawi hawlkhia a, dawi a paikhiat khit ciangin a mipa pauthei a, mite in lamdang a sa mahmah uh hi.
+**ZVS:** Jesuh in a pau theilo mi khat sung panin dawi hawlkhia a, dawi a paikhiat khit ciangin a mipa pauthei a, mite in lamdang a sa mahmah-te hi.
 
 ### v15
 **EN:** But some of them said, He casteth out devils through Beelzebub the chief of the devils.
 
-**TDB77:** Mihonpite in lamdang a sa uh hi. Ahih hangin mi kimkhat in, “Amah in Beelzebub suangin dawite a hawlkhia hi,” a ci uh hi.
+**TDB77:** Mihonpite in lamdang a sa-te hi. Ahih hangin mi kimkhat in, “Amah in Beelzebub suangin dawite a hawlkhia hi,” a ci-te hi.
 
-**ZVS:** Ahi zongin mi pawlkhat in, “Dawimangpa Beelzebul in dawi hawlkhiat theihna ding vangliatna ama tungah a pia ahi hi,” a ci uh hi.
+**ZVS:** Ahi zongin mi pawlkhat in, “Dawimangpa Beelzebul in dawi hawlkhiat theihna ding vangliatna ama tungah a pia ahi hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And others, tempting him, sought of him a sign from heaven.
 
-**TDB77:** Kimkhat in zong ze-et nuamin vantung pan lim a ngen uh hi.
+**TDB77:** Kimkhat in zong ze-et nuamin vantung pan lim a ngen-te hi.
 
-**ZVS:** Mi pawlkhat leuleu in amah a ze-etna-in, Pasian' thukimpihna a kilatna dingin na lamdang a bawl ding a ngen uh hi.
+**ZVS:** Mi pawlkhat leuleu in amah a ze-etna-in, Pasian' thukimpihna a kilatna dingin na lamdang a bawl ding a ngen-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -75,7 +75,7 @@
 
 **TDB77:** Zeisu in amau lungsim ngaihsutna thei-in, “Gam sung mi kilem loin a kikhen gam khempeuh in kisia ding hi. Inn khat zong inn dang tawh kilem loin a kikhen leh, a puk ding hi.
 
-**ZVS:** Ahi zongin Jesuh in amaute' ngaihsutna thei ahih manin, “Gam khat peuhpeuh, a gammite kiphelkhamin pawlkhat leh pawlkhat kido le uh tua gam sauvei kiplo ding a, innkuan khat peuhpeuh a mite kiphelkhamin kido le uh kikhenthang ding uh hi.
+**ZVS:** Ahi zongin Jesuh in amaute' ngaihsutna thei ahih manin, “Gam khat peuhpeuh, a gammite kiphelkhamin pawlkhat leh pawlkhat kido le-te tua gam sauvei kiplo ding a, innkuan khat peuhpeuh a mite kiphelkhamin kido le-te kikhenthang ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -100,9 +100,9 @@
 ### v29
 **EN:** And when the people were gathered thick together, he began to say,
 
-**TDB77:** Mihonpite in Zeisu kiangah a kikhop lai takun amah in, “Hih khang mite in mi gilote ahi uh hi. Amau in lim a zon’ uh hangin Jonah lim longal, lim dang amau tungah a kilak kei ding hi.
+**TDB77:** Mihonpite in Zeisu kiangah a kikhop lai takun amah in, “Hih khang mite in mi gilote ahi-te hi. Amau in lim a zon’ uh hangin Jonah lim longal, lim dang amau tungah a kilak kei ding hi.
 
-**ZVS:** Mihonte in Jesuh hong neh semsem uh a, Jesuh in zong a thugen zomlai-in, “Tuhun mite gilo mahmah uh hi. Amaute in lim lamdang ngen uh a, ahi zongin Jonah lim simloh a dang kipialo ding hi.
+**ZVS:** Mihonte in Jesuh hong neh semsem-te a, Jesuh in zong a thugen zomlai-in, “Tuhun mite gilo mahmah-te hi. Amaute in lim lamdang ngen-te a, ahi zongin Jonah lim simloh a dang kipialo ding hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -127,9 +127,9 @@
 ### v39
 **EN:** And the Lord said unto him,
 
-**TDB77:** Topa in, “No Faraisaite in hai leh dalkuangte a pua lam na silsiang uh hangin, na sung lam uh ah ngongtatna leh gitlohna tawh na kidim uh hi.
+**TDB77:** Topa in, “No Faraisaite in hai leh dalkuangte a pua lam na silsiang-te hangin, na sung lam-te ah ngongtatna leh gitlohna tawh na kidim-te hi.
 
-**ZVS:** Tua ciangin Topa in ama kiangah, “No Farisi mite in hai leh kuangte a pualam na siangsak uh a, ahi zongin note na lungsim sung uhah huaihamin na gi kei uh hi.
+**ZVS:** Tua ciangin Topa in ama kiangah, “No Farisi mite in hai leh kuangte a pualam na siangsak-te a, ahi zongin note na lungsim sung uhah huaihamin na gi kei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -143,9 +143,9 @@
 ### v46
 **EN:** And he said,
 
-**TDB77:** Zeisu in, “No thukham siate aw, no zong gimna na thuak ding uh hi. Bang hang hiam na cih uh leh, a puak hak van midangte na suat uh hangin, na khutme khat nangawnun na lawng nuam kei uh hi.
+**TDB77:** Zeisu in, “No thukham siate aw, no zong gimna na thuak ding-te hi. Bang hang hiam na cih-te leh, a puak hak van midangte na suat-te hangin, na khutme khat nangawnun na lawng nuam kei-te hi.
 
-**ZVS:** Jesuh in, “No Thukham hilh siate in zong gimna na thuak ding uh hi. Note in a puak hak mahmah ding van, mite tungah na suan uh a, ahi zongin tua van a puakpih dingin na khutmeno khat nangawn uh na tangsak nuam kei uh hi.
+**ZVS:** Jesuh in, “No Thukham hilh siate in zong gimna na thuak ding-te hi. Note in a puak hak mahmah ding van, mite tungah na suan-te a, ahi zongin tua van a puakpih dingin na khutmeno khat nangawn-te na tangsak nuam kei-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -154,16 +154,16 @@
 
 **TDB77:** Zeisu in tua mun pan a paikhiat lai takin, laitheite leh Farisaite in nakpi-in hansuahin,
 
-**ZVS:** Tua mun panin Jesuh a paikhiat khita kipanin Thukham hilh siate leh Farisi mite in nakpi takin Jesuh mawhzon' ding kipanin thu tampi tak dong uh a,
+**ZVS:** Tua mun panin Jesuh a paikhiat khita kipanin Thukham hilh siate leh Farisi mite in nakpi takin Jesuh mawhzon' ding kipanin thu tampi tak dong-te a,
 
 **Grammar:** serial verb: -in (and then)
 
 ### v54
 **EN:** Laying wait for him, and seeking to catch something out of his mouth, that they might accuse him.
 
-**TDB77:** ama kam pan mat nading a pang uh a, kam tampi a gen nadingin thu tampi a dong kawikawi uh hi.
+**TDB77:** ama kam pan mat nading a pang-te a, kam tampi a gen nadingin thu tampi a dong kawikawi-te hi.
 
-**ZVS:** a kampau khialhnate a mattheihna dingun thangsiahin a hanciam uh hi.
+**ZVS:** a kampau khialhnate a mattheihna dingun thangsiahin a hanciam-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

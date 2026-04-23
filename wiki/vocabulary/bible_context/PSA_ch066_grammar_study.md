@@ -37,18 +37,18 @@
 ### v3
 **EN:** Say unto God, How terrible art thou in thy works! through the greatness of thy power shall thine enemies submit themselves unto thee.
 
-**TDB77:** Pasian’ tungah hih bang ci un, “Nangma bawlnate bangzah takin dipkuat huai! Na vanglian mahmah ahih manin na mai-ah na galte in nang hong mai-et uh hi.
+**TDB77:** Pasian’ tungah hih bang ci un, “Nangma bawlnate bangzah takin dipkuat huai! Na vanglian mahmah ahih manin na mai-ah na galte in nang hong mai-et-te hi.
 
-**ZVS:** Pasian' tungah thu gen un la, “Nangma bawlnate bangzahta-in dipkuathuai! Na vang lian mahmah ahih manin na mai-ah na galte in nang hong mai-et uh hi.
+**ZVS:** Pasian' tungah thu gen un la, “Nangma bawlnate bangzahta-in dipkuathuai! Na vang lian mahmah ahih manin na mai-ah na galte in nang hong mai-et-te hi.
 
 **Grammar:** intensifier: very/greatly | causal: because | plural: uh marker
 
 ### v4
 **EN:** All the earth shall worship thee, and shall sing unto thee; they shall sing to thy name. Selah.
 
-**TDB77:** Leitungmi khempeuh in nangmah hong bia uh hi; amaute in nangmah phatna hong sak uh a, nangma phatna hong sak uh hi.”
+**TDB77:** Leitungmi khempeuh in nangmah hong bia-te hi; amaute in nangmah phatna hong sak-te a, nangma phatna hong sak-te hi.”
 
-**ZVS:** Leitung mi khempeuh in nangmah hong bia uh hi. Amaute in nangmah phatna la hong sak uh a, nangma minphatna la hong sak uh hi,” ci-in gen un.
+**ZVS:** Leitung mi khempeuh in nangmah hong bia-te hi. Amaute in nangmah phatna la hong sak-te a, nangma minphatna la hong sak-te hi,” ci-in gen un.
 
 **Grammar:** plural: uh marker
 
@@ -62,18 +62,18 @@
 ### v6
 **EN:** He turned the sea into dry land: they went through the flood on foot: there did we rejoice in him.
 
-**TDB77:** Amah in tuipi pen leikeu suaksak a, i pu i pate in khe tawh tuipi kantan uh hi. Tua ama sepna hangin i lung a dam hi.
+**TDB77:** Amah in tuipi pen leikeu suaksak a, i pu i pate in khe tawh tuipi kantan-te hi. Tua ama sepna hangin i lung a dam hi.
 
-**ZVS:** Amah in tuipi tui pen leikeu suaksak a, i pu i pate in a khe uh tawh tua tuipi na kantan uh hi. Tua bangin ama nasepna hangin eite i lungdam hi.
+**ZVS:** Amah in tuipi tui pen leikeu suaksak a, i pu i pate in a khe-te tawh tua tuipi na kantan-te hi. Tua bangin ama nasepna hangin eite i lungdam hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** He ruleth by his power for ever; his eyes behold the nations: let not the rebellious exalt themselves. Selah.
 
-**TDB77:** Ama hatna tawh a uk ngitngetpa, a mit tawh minamte a encik ngitngetpa, mi lehdote in langpan’ kei uh hen.
+**TDB77:** Ama hatna tawh a uk ngitngetpa, a mit tawh minamte a encik ngitngetpa, mi lehdote in langpan’ kei-te hen.
 
-**ZVS:** Ama thahatna tawh a uk ngitngetpa, ama mit tawh minamte a encik ngitngetpa, mi lehdote in langpan' kei uh hen.
+**ZVS:** Ama thahatna tawh a uk ngitngetpa, ama mit tawh minamte a encik ngitngetpa, mi lehdote in langpan' kei-te hen.
 
 ### v9
 **EN:** Which holdeth our soul in life, and suffereth not our feet to be moved.
@@ -101,9 +101,9 @@
 ### v12
 **EN:** Thou hast caused men to ride over our heads; we went through fire and through water: but thou broughtest us out into a wealthy place.
 
-**TDB77:** Nangmah in ka galte uh nong tuancilsak a, tui leh mei lauhuainate ka thuak uh hi; ahih hangin nangmah in a tanzauna munah nong paipih hi.
+**TDB77:** Nangmah in ka galte-te nong tuancilsak a, tui leh mei lauhuainate ka thuak-te hi; ahih hangin nangmah in a tanzauna munah nong paipih hi.
 
-**ZVS:** Ka galte uh nong tuancilsak a, tui leh mei lauhuainate ka thuak uh hi. Ahih hangin nangmah in a tanzau munah kote nong paipih hi.
+**ZVS:** Ka galte-te nong tuancilsak a, tui leh mei lauhuainate ka thuak-te hi. Ahih hangin nangmah in a tanzau munah kote nong paipih hi.
 
 **Grammar:** plural: uh marker
 

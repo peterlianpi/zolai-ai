@@ -16,19 +16,19 @@
 
 ### delhin = to persecute
 **Context:** Used in the context of enemies pursuing the soul.
-**Example:** galte in kei hong delhin hong pha uh hen la
+**Example:** galte in kei hong delhin hong pha-te hen la
 
 ### pha = to chase/pursue
 **Context:** Used alongside 'delhin' (persecute).
-**Example:** hong delhin hong pha uh hen la
+**Example:** hong delhin hong pha-te hen la
 
 ### tuancilsak = to tread down/crush
 **Context:** Describing the enemy's action against the life ('kei hong tuancilsak in').
 **Example:** leilakah kei hong tuancilsak in la
 
 ### sialpai = to lay low/cast down (honor)
-**Context:** Used metaphorically for laying honor in the dust ('hong sialpai ta uh hen').
-**Example:** leilakah kei hong sialpai ta uh hen
+**Context:** Used metaphorically for laying honor in the dust ('hong sialpai ta-te hen').
+**Example:** leilakah kei hong sialpai ta-te hen
 
 ### hehsa-in = with anger/fiercely
 **Context:** Describing how God should arise ('Tho in, Topa, hehsa-in thasaan in la').

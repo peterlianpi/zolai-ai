@@ -29,27 +29,27 @@
 ### v1
 **EN:** Now king David was old and stricken in years; and they covered him with clothes, but he gat no heat.
 
-**TDB77:** Tu-in Kumpi David teekin kum tam ta hi; amaute in amah puan a silhsak uh hangin a khua lum thei lo hi.
+**TDB77:** Tu-in Kumpi David teekin kum tam ta hi; amaute in amah puan a silhsak-te hangin a khua lum thei lo hi.
 
-**ZVS:** Tu-in Kumpi David teekin kum tam ta hi. Amaute in amah puan a silhsak uh hangin a khua lum theilo hi.
+**ZVS:** Tu-in Kumpi David teekin kum tam ta hi. Amaute in amah puan a silhsak-te hangin a khua lum theilo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo
 
 ### v2
 **EN:** Wherefore his servants said unto him, Let there be sought for my lord the king a young virgin: and let her stand before the king, and let her cherish him, and let her lie in thy bosom, that my lord the king may get heat.
 
-**TDB77:** Tua ahih ciangin a nasemte in ama kiangah, “Ka to kumpipa’ adingin nungakno khat kizong hen la, amah in kumpipa enin amah a kemnu hi ta hen; ka to kumpipa a khua a lum theih nadingin na ang sungah tua nu lum hen,” a ci uh hi.
+**TDB77:** Tua ahih ciangin a nasemte in ama kiangah, “Ka to kumpipa’ adingin nungakno khat kizong hen la, amah in kumpipa enin amah a kemnu hi ta hen; ka to kumpipa a khua a lum theih nadingin na ang sungah tua nu lum hen,” a ci-te hi.
 
-**ZVS:** Tua ahih ciangin a nasemte in ama kiangah, “Ka to kumpipa-a' dingin nungakno khat kizong hen la, amah in kumpipa enin amah a kemnu hita hen. Ka to kumpipa a khua a lum theihna dingin na ang sungah tuanu lum hen,” a ci uh hi.
+**ZVS:** Tua ahih ciangin a nasemte in ama kiangah, “Ka to kumpipa-a' dingin nungakno khat kizong hen la, amah in kumpipa enin amah a kemnu hita hen. Ka to kumpipa a khua a lum theihna dingin na ang sungah tuanu lum hen,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** So they sought for a fair damsel throughout all the coasts of Israel, and found Abishag a Shunammite, and brought her to the king.
 
-**TDB77:** Tua ahih ciangin amaute in Israel gamsung khempeuh ah nungak mel hoih khat zong uh a, Shunem mi Abishag mu-in, kumpipa kiangah amah paipih uh hi.
+**TDB77:** Tua ahih ciangin amaute in Israel gamsung khempeuh ah nungak mel hoih khat zong-te a, Shunem mi Abishag mu-in, kumpipa kiangah amah paipih-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in Israel gamsung khempeuhah nungak melhoih khat zong uh a, Shunem mi Abishag mu-in, kumpipa kiangah amah paipih uh hi.
+**ZVS:** Tua ahih ciangin amaute in Israel gamsung khempeuhah nungak melhoih khat zong-te a, Shunem mi Abishag mu-in, kumpipa kiangah amah paipih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -58,7 +58,7 @@
 
 **TDB77:** Tua nungak a mel hoih mahmah hi; amah in kumpipa a kemnu suakin ama na sem hi; ahih hangin kumpipa in amah hih zo lo hi.
 
-**ZVS:** Tua nungak melhoih mahmah a, kumpipa a kemnu suakin ama na a sem hi. A lupkhawm uh hangin kumpipa in amah hih zolo hi.
+**ZVS:** Tua nungak melhoih mahmah a, kumpipa a kemnu suakin ama na a sem hi. A lupkhawm-te hangin kumpipa in amah hih zolo hi.
 
 **Grammar:** adjective: hoih (good) | intensifier: very/greatly | negation: lo
 
@@ -83,18 +83,18 @@
 ### v7
 **EN:** And he conferred with Joab the son of Zeruiah, and with Abiathar the priest: and they following Adonijah helped him.
 
-**TDB77:** Amah in Zeru-iah’ tapa Joab leh siampi Abiathar tawh vaihawm hi; amaute in Adonijah zui-in amah pan’pih uh hi.
+**TDB77:** Amah in Zeru-iah’ tapa Joab leh siampi Abiathar tawh vaihawm hi; amaute in Adonijah zui-in amah pan’pih-te hi.
 
-**ZVS:** Amah in Zeruiah' tapa Joab leh siampi Abiathar tawh vaihawm hi. Amaute in Adonijah zui-in amah pan'pih uh hi.
+**ZVS:** Amah in Zeruiah' tapa Joab leh siampi Abiathar tawh vaihawm hi. Amaute in Adonijah zui-in amah pan'pih-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v8
 **EN:** But Zadok the priest, and Benaiah the son of Jehoiada, and Nathan the prophet, and Shimei, and Rei, and the mighty men which belonged to David, were not with Adonijah.
 
-**TDB77:** Ahih hangin siampi Zadok, leh Jehoiada’ tapa Benaiah, leh kamsang Nathan, leh Shimei, leh Re-i, leh David’ mi a thahatte Adonijah tawh pang lo uh hi.
+**TDB77:** Ahih hangin siampi Zadok, leh Jehoiada’ tapa Benaiah, leh kamsang Nathan, leh Shimei, leh Re-i, leh David’ mi a thahatte Adonijah tawh pang lo-te hi.
 
-**ZVS:** Ahih hangin siampi Zadok, leh Jehoiada' tapa Benaiah, leh David' mi a thahatte in Adonijah pan'pihlo uh hi.
+**ZVS:** Ahih hangin siampi Zadok, leh Jehoiada' tapa Benaiah, leh David' mi a thahatte in Adonijah pan'pihlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -198,9 +198,9 @@
 ### v20
 **EN:** And thou, my lord, O king, the eyes of all Israel are upon thee, that thou shouldest tell them who shall sit on the throne of my lord the king after him.
 
-**TDB77:** Ka to kumpipa aw, tu-in nangma nungah ka to kumpipa’ tokhom tungah kua tu ding ci-a amaute kiangah na gen ding ngakin Israelte khempeuh in nang hong en uh hi.
+**TDB77:** Ka to kumpipa aw, tu-in nangma nungah ka to kumpipa’ tokhom tungah kua tu ding ci-a amaute kiangah na gen ding ngakin Israelte khempeuh in nang hong en-te hi.
 
-**ZVS:** Ka to kumpipa aw, tu-in nangma nungah ka to kumpipa' tokhom tungah kua tu ding, ci-a amaute kiangah na gen ding ngakin Israel-te khempeuh in nang hong en uh hi.
+**ZVS:** Ka to kumpipa aw, tu-in nangma nungah ka to kumpipa' tokhom tungah kua tu ding, ci-a amaute kiangah na gen ding ngakin Israel-te khempeuh in nang hong en-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -225,7 +225,7 @@
 ### v23
 **EN:** And they told the king, saying, Behold Nathan the prophet. And when he was come in before the king, he bowed himself before the king with his face to the ground.
 
-**TDB77:** Amaute in kumpipa kiangah, “Hih lai-ah kamsangpa Nathan om hi,” a ci uh hi. Kumpipa mai-ah amah hong pai ciangin a mai lei lam ngatin kumpipa’ mai-ah kun hi.
+**TDB77:** Amaute in kumpipa kiangah, “Hih lai-ah kamsangpa Nathan om hi,” a ci-te hi. Kumpipa mai-ah amah hong pai ciangin a mai lei lam ngatin kumpipa’ mai-ah kun hi.
 
 **ZVS:** Kumpipa kiangah, “Hih lai-ah kamsangpa Nathan om hi,” ci-in a kigen hi. Kumpipa mai-ah amah hong pai ciangin a mai leilam ngatin kumpipa' mai-ah a kun hi.
 
@@ -243,9 +243,9 @@
 ### v25
 **EN:** For he is gone down this day, and hath slain oxen and fat cattle and sheep in abundance, and hath called all the king's sons, and the captains of the host, and Abiathar the priest; and, behold, they eat and drink before him, and say, God save king Adonijah.
 
-**TDB77:** Bang hang hiam cih leh tu ni-in amah paisuk khinin, bawngtalte, ganno thaute, leh tuute, tampi tak biakna-in pia a, kumpipa’ tapate khempeuh, galkapte a ukpa Joab, leh siampi Abiathar sam hi; en in, amaute in ama mai-ah ne-in dawn uh a, ‘Kumpi Adonijah a khan’ sau hen!’ ci uh hi.
+**TDB77:** Bang hang hiam cih leh tu ni-in amah paisuk khinin, bawngtalte, ganno thaute, leh tuute, tampi tak biakna-in pia a, kumpipa’ tapate khempeuh, galkapte a ukpa Joab, leh siampi Abiathar sam hi; en in, amaute in ama mai-ah ne-in dawn-te a, ‘Kumpi Adonijah a khan’ sau hen!’ ci-te hi.
 
-**ZVS:** Bang hang hiam cih leh tuni-in amah paisuk khinin, bawngtalte, ganno thaute, leh tuute, tampi tak biakna-in pia a, kumpipa' tapate khempeuh, galkapte a ukpa Joab, leh siampi Abiathar sam hi. Amaute in ama-a' ding pawi bawl uh a, ‘Kumpi Adonijah a khan' sau hen!’ ci uh hi.
+**ZVS:** Bang hang hiam cih leh tuni-in amah paisuk khinin, bawngtalte, ganno thaute, leh tuute, tampi tak biakna-in pia a, kumpipa' tapate khempeuh, galkapte a ukpa Joab, leh siampi Abiathar sam hi. Amaute in ama-a' ding pawi bawl-te a, ‘Kumpi Adonijah a khan' sau hen!’ ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -306,9 +306,9 @@
 ### v32
 **EN:** And king David said, Call me Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada. And they came before the king.
 
-**TDB77:** Kumpipa David in, “Siampi Zadok, kamsang Nathan, leh Jehoiada’ tapa Benaiah va sam in,” a ci hi. Tua ahih ciangin kumpipa mai-ah amaute hong pai uh hi.
+**TDB77:** Kumpipa David in, “Siampi Zadok, kamsang Nathan, leh Jehoiada’ tapa Benaiah va sam in,” a ci hi. Tua ahih ciangin kumpipa mai-ah amaute hong pai-te hi.
 
-**ZVS:** Tua ciangin Kumpi David in siampi Zadok, kamsang Nathan, leh Jehoiada' tapa Benaiah samsak hi. Tua ahih ciangin kumpipa' mai-ah amaute hong pai uh hi.
+**ZVS:** Tua ciangin Kumpi David in siampi Zadok, kamsang Nathan, leh Jehoiada' tapa Benaiah samsak hi. Tua ahih ciangin kumpipa' mai-ah amaute hong pai-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
@@ -333,9 +333,9 @@
 ### v35
 **EN:** Then ye shall come up after him, that he may come and sit upon my throne; for he shall be king in my stead: and I have appointed him to be ruler over Israel and over Judah.
 
-**TDB77:** Tua ciangin ama nungah note nong pai ding uh a, amah hong pai-in ka kumpi tokhom tungah hong tu ding hi; bang hang hiam cih leh amah in keima taangin kumpi hi ding hi: Israel leh Judah tungah a ukpa dingin amah ka seh khin zo hi,” a ci hi.
+**TDB77:** Tua ciangin ama nungah note nong pai ding-te a, amah hong pai-in ka kumpi tokhom tungah hong tu ding hi; bang hang hiam cih leh amah in keima taangin kumpi hi ding hi: Israel leh Judah tungah a ukpa dingin amah ka seh khin zo hi,” a ci hi.
 
-**ZVS:** Tua ciangin ama nungah note nong pai ding uh a, amah hong pai-in ka kumpi tokhom tungah hong tu ding hi; bang hang hiam cih leh keima tangin amah kumpi hi ding hi. Israel leh Judah a ukpa dingin amah ka seh khinzo hi,” a ci hi.
+**ZVS:** Tua ciangin ama nungah note nong pai ding-te a, amah hong pai-in ka kumpi tokhom tungah hong tu ding hi; bang hang hiam cih leh keima tangin amah kumpi hi ding hi. Israel leh Judah a ukpa dingin amah ka seh khinzo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
@@ -360,36 +360,36 @@
 ### v38
 **EN:** So Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, went down, and caused Solomon to ride upon king David's mule, and brought him to Gihon.
 
-**TDB77:** Tua ahih ciangin siampi Zadok, kamsang Nathan, Jehoida’ tapa Benaiah, leh Khereth mite leh Peleth mite paisukin Kumpi David’ la-sakol tungah Solomon tuangsak uh a, Gihon ah amah paipih uh hi.
+**TDB77:** Tua ahih ciangin siampi Zadok, kamsang Nathan, Jehoida’ tapa Benaiah, leh Khereth mite leh Peleth mite paisukin Kumpi David’ la-sakol tungah Solomon tuangsak-te a, Gihon ah amah paipih-te hi.
 
-**ZVS:** Tua ahih ciangin Zadok, kamsang Nathan, Jehoiada' tapa Benaiah, leh Khereth mite leh Peleth mite paisukin Kumpi David' la-sakol tungah Solomon tuangsak uh a, Gihon-ah amah paipih uh hi.
+**ZVS:** Tua ahih ciangin Zadok, kamsang Nathan, Jehoiada' tapa Benaiah, leh Khereth mite leh Peleth mite paisukin Kumpi David' la-sakol tungah Solomon tuangsak-te a, Gihon-ah amah paipih-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v39
 **EN:** And Zadok the priest took an horn of oil out of the tabernacle, and anointed Solomon. And they blew the trumpet; and all the people said, God save king Solomon.
 
-**TDB77:** Tua lai-ah siampi Zadok in puanbuk panin sathau biing la-in Solomon nilh hi. Tua ciangin amaute in peengkul tum uh hi; tua ciangin mi khempeuh kiko in, “Kumpi Solomon khan’ sau hen!” a ci uh hi.
+**TDB77:** Tua lai-ah siampi Zadok in puanbuk panin sathau biing la-in Solomon nilh hi. Tua ciangin amaute in peengkul tum-te hi; tua ciangin mi khempeuh kiko in, “Kumpi Solomon khan’ sau hen!” a ci-te hi.
 
-**ZVS:** Tua lai-ah siampi Zadok in puanbuk panin sathau biing la-in Solomon a nilh hi. Tua ciangin amaute in peengkul tum uh hi. Tua ciangin mi khempeuh in, “Kumpi Solomon khan'sau hen!” a ci uh hi.
+**ZVS:** Tua lai-ah siampi Zadok in puanbuk panin sathau biing la-in Solomon a nilh hi. Tua ciangin amaute in peengkul tum-te hi. Tua ciangin mi khempeuh in, “Kumpi Solomon khan'sau hen!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v40
 **EN:** And all the people came up after him, and the people piped with pipes, and rejoiced with great joy, so that the earth rent with the sound of them.
 
-**TDB77:** Tua ciangin mi khempeuh ama tungah pai-in tamngaikop tum uh a, nakpi takin lungdam uh a, amau’ gamlumna in lei thawn kham hi.
+**TDB77:** Tua ciangin mi khempeuh ama tungah pai-in tamngaikop tum-te a, nakpi takin lungdam-te a, amau’ gamlumna in lei thawn kham hi.
 
-**ZVS:** Tua ciangin mi khempeuh ama nungah pai-in tamngaikop tum uh a, nakpi takin lungdam uh a, amau' gamlumna in lei a thawnkham hi.
+**ZVS:** Tua ciangin mi khempeuh ama nungah pai-in tamngaikop tum-te a, nakpi takin lungdam-te a, amau' gamlumna in lei a thawnkham hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v41
 **EN:** And Adonijah and all the guests that were with him heard it as they had made an end of eating. And when Joab heard the sound of the trumpet, he said, Wherefore is this noise of the city being in an uproar?
 
-**TDB77:** Adonijah leh amah tawh a om leenglate khempeuh in a pawi bawl a man khit uh ciangin hih thu za uh hi. Jaob in peengkul aw a zak ciangin amah in, “Khuapi sunga hih gamlumna bang a cih nopna ahi hiam?” a ci hi.
+**TDB77:** Adonijah leh amah tawh a om leenglate khempeuh in a pawi bawl a man khit-te ciangin hih thu za-te hi. Jaob in peengkul aw a zak ciangin amah in, “Khuapi sunga hih gamlumna bang a cih nopna ahi hiam?” a ci hi.
 
-**ZVS:** Adonijah leh amah tawh a om leenglate khempeuh in a pawi bawl a man khit uh ciangin hih thu za uh hi. Joab in peengkul aw a zak ciangin amah in, “Khuapi sungah hih gamlumna bang a cihnopna ahi hiam?” a ci hi.
+**ZVS:** Adonijah leh amah tawh a om leenglate khempeuh in a pawi bawl a man khit-te ciangin hih thu za-te hi. Joab in peengkul aw a zak ciangin amah in, “Khuapi sungah hih gamlumna bang a cihnopna ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -414,18 +414,18 @@
 ### v44
 **EN:** And the king hath sent with him Zadok the priest, and Nathan the prophet, and Benaiah the son of Jehoiada, and the Cherethites, and the Pelethites, and they have caused him to ride upon the king's mule:
 
-**TDB77:** kumpipa in amah tawh siampi Zadok, kamsang Nathan, leh Jehoida’ tapa Benaiah, leh Khereth mite leh Peleth mite sawl khin hi; amaute in kumpipa’ la-sakol tungah amah tuangsak khin uh hi;
+**TDB77:** kumpipa in amah tawh siampi Zadok, kamsang Nathan, leh Jehoida’ tapa Benaiah, leh Khereth mite leh Peleth mite sawl khin hi; amaute in kumpipa’ la-sakol tungah amah tuangsak khin-te hi;
 
-**ZVS:** Kumpipa in amah tawh siampi Zadok, kamsang Nathan, leh Jehoiada' tapa Benaiah, leh Khereth mite leh Peleth mite sawl khin hi. Amaute in kumpipa' la-sakol tungah amah tuangsak khin uh hi.
+**ZVS:** Kumpipa in amah tawh siampi Zadok, kamsang Nathan, leh Jehoiada' tapa Benaiah, leh Khereth mite leh Peleth mite sawl khin hi. Amaute in kumpipa' la-sakol tungah amah tuangsak khin-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
 ### v45
 **EN:** And Zadok the priest and Nathan the prophet have anointed him king in Gihon: and they are come up from thence rejoicing, so that the city rang again. This is the noise that ye have heard.
 
-**TDB77:** siampi Zadok leh kamsang Nathan in Gihon ah kumpi-in amah sathau nilh khin uh hi; tua lai panin amaute lungdamin ciah khin uh ahih manin khuapi sung gamlum hi. Nangma zak in hih gamlumna ahi hi.
+**TDB77:** siampi Zadok leh kamsang Nathan in Gihon ah kumpi-in amah sathau nilh khin-te hi; tua lai panin amaute lungdamin ciah khin-te ahih manin khuapi sung gamlum hi. Nangma zak in hih gamlumna ahi hi.
 
-**ZVS:** Siampi Zadok leh kamsang Nathan in Gihon-ah kumpi-in amah sathau nilh khin uh hi. Tua lai panin amaute lungdamin ciahkhin uh ahih manin khuapi sung gamlum hi. Nangma zak pen hih gamlumna ahi hi.
+**ZVS:** Siampi Zadok leh kamsang Nathan in Gihon-ah kumpi-in amah sathau nilh khin-te hi. Tua lai panin amaute lungdamin ciahkhin-te ahih manin khuapi sung gamlum hi. Nangma zak pen hih gamlumna ahi hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | causal: because | plural: uh marker
 
@@ -439,9 +439,9 @@
 ### v47
 **EN:** And moreover the king's servants came to bless our lord king David, saying, God make the name of Solomon better than thy name, and make his throne greater than thy throne. And the king bowed himself upon the bed.
 
-**TDB77:** Tua tham loin kumpipa’ nasemte i to kumpi David tungah lungdamna ko dingin pai uh a, ‘Na Pasian in nangma min sangin Solomon’ min a thangzaw-in bawl hen la, nangma tokhom sangin ama tokhom a lianzaw-in bawl hen,’ ci uh hi. A lupna tung panin kumpipa mahmah zong kun hi.
+**TDB77:** Tua tham loin kumpipa’ nasemte i to kumpi David tungah lungdamna ko dingin pai-te a, ‘Na Pasian in nangma min sangin Solomon’ min a thangzaw-in bawl hen la, nangma tokhom sangin ama tokhom a lianzaw-in bawl hen,’ ci-te hi. A lupna tung panin kumpipa mahmah zong kun hi.
 
-**ZVS:** Tua thamloin kumpipa' nasemte i to Kumpi David tungah lungdamna a ko dingin pai uh a, ‘Na Pasian in nangma min sangin Solomon' min a thangzaw-in bawl hen la, nangma tokhom sangin ama tokhom a lianzaw-in bawl ta hen,’ ci uh hi. A lupna tung panin kumpipa mahmah zong kun hi.
+**ZVS:** Tua thamloin kumpipa' nasemte i to Kumpi David tungah lungdamna a ko dingin pai-te a, ‘Na Pasian in nangma min sangin Solomon' min a thangzaw-in bawl hen la, nangma tokhom sangin ama tokhom a lianzaw-in bawl ta hen,’ ci-te hi. A lupna tung panin kumpipa mahmah zong kun hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -457,9 +457,9 @@
 ### v49
 **EN:** And all the guests that were with Adonijah were afraid, and rose up, and went every man his way.
 
-**TDB77:** Tua ciangin Adonijah’ leenglate khempeuh liing uh a, dingin amau’ mun ciatah pai uh hi.
+**TDB77:** Tua ciangin Adonijah’ leenglate khempeuh liing-te a, dingin amau’ mun ciatah pai-te hi.
 
-**ZVS:** Tua ciangin Adonijah' leenglate khempeuh ling uh a, dingin amau' mun ciatah a ciah uh hi.
+**ZVS:** Tua ciangin Adonijah' leenglate khempeuh ling-te a, dingin amau' mun ciatah a ciah-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -493,9 +493,9 @@
 ### v53
 **EN:** So king Solomon sent, and they brought him down from the altar. And he came and bowed himself to king Solomon: and Solomon said unto him, Go to thine house.
 
-**TDB77:** Tua ahih ciangin Kumpi Solomon in sawl a, amaute in biaknatau panin amah paikhiatpih uh hi. Amah hong pai-in Kumpi Solomon in ama kiangah, “Na innah ciah in,” a ci hi.
+**TDB77:** Tua ahih ciangin Kumpi Solomon in sawl a, amaute in biaknatau panin amah paikhiatpih-te hi. Amah hong pai-in Kumpi Solomon in ama kiangah, “Na innah ciah in,” a ci hi.
 
-**ZVS:** Tua ahih ciangin Kumpi Solomon in mi sawl a, amaute in zong biakna tau panin amah paikhiatpih uh hi. Amah hong pai-in Kumpi Solomon' tungah zahtakna bawl hi. Tua ciangin Solomon in ama kiangah, “Na inn-ah ciah in,” a ci hi.
+**ZVS:** Tua ahih ciangin Kumpi Solomon in mi sawl a, amaute in zong biakna tau panin amah paikhiatpih-te hi. Amah hong pai-in Kumpi Solomon' tungah zahtakna bawl hi. Tua ciangin Solomon in ama kiangah, “Na inn-ah ciah in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

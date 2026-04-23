@@ -58,9 +58,9 @@
 ### v5
 **EN:** Fifty loops shalt thou make in the one curtain, and fifty loops shalt thou make in the edge of the curtain that is in the coupling of the second; that the loops may take hold one of another.
 
-**TDB77:** Dalna puan khat tungah bilvang sawmnga bawlin, a kikhuituah a nihna dalna puan nawl-ah bilvang sawmnga mah na bawl ding hi; a bilvangte khat leh khat kitang ding uh hi.
+**TDB77:** Dalna puan khat tungah bilvang sawmnga bawlin, a kikhuituah a nihna dalna puan nawl-ah bilvang sawmnga mah na bawl ding hi; a bilvangte khat leh khat kitang ding-te hi.
 
-**ZVS:** Dalna puan khat tungah bilvang sawmnga bawlin, a kikhuituah a nihna dalna puan nawlah bilvang sawmnga mah na bawl ding a, a bilvangte khatlekhat kitang ding uh hi.
+**ZVS:** Dalna puan khat tungah bilvang sawmnga bawlin, a kikhuituah a nihna dalna puan nawlah bilvang sawmnga mah na bawl ding a, a bilvangte khatlekhat kitang ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -225,9 +225,9 @@
 ### v24
 **EN:** And they shall be coupled together beneath, and they shall be coupled together above the head of it unto one ring: thus shall it be for them both; they shall be for the two corners.
 
-**TDB77:** tuate a bul lamah kikak ding a, ahih hangin a kual masa-ah a dawn kimat ding hi; a nih-in tua bang hi ding hi; tuate in a kiu nihte piangsak ding uh hi.
+**TDB77:** tuate a bul lamah kikak ding a, ahih hangin a kual masa-ah a dawn kimat ding hi; a nih-in tua bang hi ding hi; tuate in a kiu nihte piangsak ding-te hi.
 
-**ZVS:** Tuate a bul lamah kikak ding a, ahih hangin a kual masa-ah a dawn kimat ding hi. A nihin tua bang hi ding a, tuate in a kiu nihte piangsak ding uh hi.
+**ZVS:** Tuate a bul lamah kikak ding a, ahih hangin a kual masa-ah a dawn kimat ding hi. A nihin tua bang hi ding a, tuate in a kiu nihte piangsak ding-te hi.
 
 **Grammar:** causative: -sak suffix | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

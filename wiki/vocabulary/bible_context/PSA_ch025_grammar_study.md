@@ -125,7 +125,7 @@
 ### v13
 **EN:** His soul shall dwell at ease; and his seed shall inherit the earth.
 
-**TDB77:** Amah nuamsa tawntung ding a, a tate in leitang nei ding uh hi.
+**TDB77:** Amah nuamsa tawntung ding a, a tate in leitang nei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

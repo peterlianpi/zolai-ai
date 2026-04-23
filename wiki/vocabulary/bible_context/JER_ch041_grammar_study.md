@@ -24,18 +24,18 @@
 ### v1
 **EN:** Now it came to pass in the seventh month, that Ishmael the son of Nethaniah the son of Elishama, of the seed royal, and the princes of the king, even ten men with him, came unto Gedaliah the son of Ahikam to Mizpah; and there they did eat bread together in Mizpah.
 
-**TDB77:** Kha sagih kha hong tun’ ciangin Nethaniah’ tapa, Elishama’ tupa, kumpi nam leh kumpipa’ ulian pente khat ahi Ishmael, mi sawm tawh Mizpah khua Ahikam’ tapa Gedaliah’ kiangah hong pai uh hi. Mizpah khua-ah amaute in an a nek khawm laitak-un,
+**TDB77:** Kha sagih kha hong tun’ ciangin Nethaniah’ tapa, Elishama’ tupa, kumpi nam leh kumpipa’ ulian pente khat ahi Ishmael, mi sawm tawh Mizpah khua Ahikam’ tapa Gedaliah’ kiangah hong pai-te hi. Mizpah khua-ah amaute in an a nek khawm laitak-un,
 
-**ZVS:** Kha sagih kha hong tun' ciangin Nethaniah' tapa, Elishama' tupa, kumpi nam leh kumpipa' ulian pente khat ahi Ishmael, mi sawm tawh Mizpah khua Ahikam' tapa Gedaliah' kiangah hong hawh uh hi. Mizpah khua-ah amaute in an a nekkhawm laitakun,
+**ZVS:** Kha sagih kha hong tun' ciangin Nethaniah' tapa, Elishama' tupa, kumpi nam leh kumpipa' ulian pente khat ahi Ishmael, mi sawm tawh Mizpah khua Ahikam' tapa Gedaliah' kiangah hong hawh-te hi. Mizpah khua-ah amaute in an a nekkhawm laitakun,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** Then arose Ishmael the son of Nethaniah, and the ten men that were with him, and smote Gedaliah the son of Ahikam the son of Shaphan with the sword, and slew him, whom the king of Babylon had made governor over the land.
 
-**TDB77:** Nethaniah’ tapa Ishmael leh tua mi sawmte in, Babilon kumpipa in gam uk ding a, a koih Ahikam’ tapa, Shafan’ tupa Gedaliah pen namsau tawh a sat uh a, a thatlum uh hi.
+**TDB77:** Nethaniah’ tapa Ishmael leh tua mi sawmte in, Babilon kumpipa in gam uk ding a, a koih Ahikam’ tapa, Shafan’ tupa Gedaliah pen namsau tawh a sat-te a, a thatlum-te hi.
 
-**ZVS:** Nethaniah' tapa Ishmael leh tua mi sawmte in, Babylon kumpipa in gam uk dingin a koih Ahikam' tapa, Shafan' tupa Gedaliah pen namsau tawh satin a thatlum uh hi.
+**ZVS:** Nethaniah' tapa Ishmael leh tua mi sawmte in, Babylon kumpipa in gam uk dingin a koih Ahikam' tapa, Shafan' tupa Gedaliah pen namsau tawh satin a thatlum-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -58,9 +58,9 @@
 ### v5
 **EN:** That there came certain from Shechem, from Shiloh, and from Samaria, even fourscore men, having their beards shaven, and their clothes rent, and having cut themselves, with offerings and incense in their hand, to bring them to the house of the
 
-**TDB77:** Shekhem, Shiloh leh Samaria khuate panin mi sawmgiat hong pai uh hi. Amaute in a khamul uh metin a puan uh bal kek-in, a pumpi uh a kikui gawp sa-in Topa’ biakinn ah an tawh biakna leh paknamtui tawh biakna a piak ding uh hong tawi khawm uh hi.
+**TDB77:** Shekhem, Shiloh leh Samaria khuate panin mi sawmgiat hong pai-te hi. Amaute in a khamul-te metin a puan-te bal kek-in, a pumpi-te a kikui gawp sa-in Topa’ biakinn ah an tawh biakna leh paknamtui tawh biakna a piak ding-te hong tawi khawm-te hi.
 
-**ZVS:** Shekhem, Shiloh, leh Samaria khuate panin mi sawmgiat hong pai uh hi. Amaute in a khamul uh metin a puan uh balkekin, a pumpi uh a kikui gawpsa-in { Topa' } biakinn-ah an tawh biakna leh paknamtui tawh biakna a piak ding uh hong tawi khawm uh hi.
+**ZVS:** Shekhem, Shiloh, leh Samaria khuate panin mi sawmgiat hong pai-te hi. Amaute in a khamul-te metin a puan-te balkekin, a pumpi-te a kikui gawpsa-in { Topa' } biakinn-ah an tawh biakna leh paknamtui tawh biakna a piak ding-te hong tawi khawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -76,18 +76,18 @@
 ### v7
 **EN:** And it was so, when they came into the midst of the city, that Ishmael the son of Nethaniah slew them, and cast them into the midst of the pit, he, and the men that were with him.
 
-**TDB77:** Khuapi sung a tun’ uh ciangin Nethaniah’ tapa Ishmael leh a mi sawmte in amaute a that uh a, a luang uh tuikhuk sung khatah a paai uh hi.
+**TDB77:** Khuapi sung a tun’ uh ciangin Nethaniah’ tapa Ishmael leh a mi sawmte in amaute a that-te a, a luang-te tuikhuk sung khatah a paai-te hi.
 
-**ZVS:** Khuapisung a tun' uh ciangin Nethaniah' tapa Ishmael leh a mi sawmte in amaute thatin a luang uh tuikhuksung khatah a paai uh hi.
+**ZVS:** Khuapisung a tun' uh ciangin Nethaniah' tapa Ishmael leh a mi sawmte in amaute thatin a luang-te tuikhuksung khatah a paai-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** But ten men were found among them that said unto Ishmael, Slay us not: for we have treasures in the field, of wheat, and of barley, and of oil, and of honey. So he forbare, and slew them not among their brethren.
 
-**TDB77:** Ahih hangin amaute’ lakah mi sawm in Ishmael’ kiangah, “Ko hong that kei in! Mangbuh, mangbuhham, sathau leh khuaizu ka seelsim uh lo lai-ah tampi a om hi,” a ci uh hi. Tua ahih manin amaute leh a lawmte a that kei uh hi.
+**TDB77:** Ahih hangin amaute’ lakah mi sawm in Ishmael’ kiangah, “Ko hong that kei in! Mangbuh, mangbuhham, sathau leh khuaizu ka seelsim-te lo lai-ah tampi a om hi,” a ci-te hi. Tua ahih manin amaute leh a lawmte a that kei-te hi.
 
-**ZVS:** Ahih hangin amaute' lakah mi sawm in Ishmael' kiangah, “Ko hong that kei in. Mangbuh, mangbuhham, sathau leh khuaizu ka selsim uh lolai-ah tampi a om hi,” a ci uh hi. Tua ahih manin amah leh a lawmte in amaute a that kei uh hi.
+**ZVS:** Ahih hangin amaute' lakah mi sawm in Ishmael' kiangah, “Ko hong that kei in. Mangbuh, mangbuhham, sathau leh khuaizu ka selsim-te lolai-ah tampi a om hi,” a ci-te hi. Tua ahih manin amah leh a lawmte in amaute a that kei-te hi.
 
 **Grammar:** quotative: said/saying | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -110,70 +110,70 @@
 ### v11
 **EN:** But when Johanan the son of Kareah, and all the captains of the forces that were with him, heard of all the evil that Ishmael the son of Nethaniah had done,
 
-**TDB77:** Ahih hangin Kareah’ tapa Johanan leh amah tawh a omkhawm galkapmang khempeuh in Nethaniah’ tapa Ishmael’ tatsiatna khempeuh a zak uh ciangin
+**TDB77:** Ahih hangin Kareah’ tapa Johanan leh amah tawh a omkhawm galkapmang khempeuh in Nethaniah’ tapa Ishmael’ tatsiatna khempeuh a zak-te ciangin
 
-**ZVS:** Ahih hangin Kareah' tapa Johanan leh amah tawh a omkhawm galkapmang khempeuh in Nethaniah' tapa Ishmael' tatsiatnate a zak uh ciangin
+**ZVS:** Ahih hangin Kareah' tapa Johanan leh amah tawh a omkhawm galkapmang khempeuh in Nethaniah' tapa Ishmael' tatsiatnate a zak-te ciangin
 
 ### v12
 **EN:** Then they took all the men, and went to fight with Ishmael the son of Nethaniah, and found him by the great waters that are in Gibeon.
 
-**TDB77:** a galkap khempeuh uh tawh Nethaniah’ tapa Ishmael sim dingin a kuankhia uh hi. Gibeon tuikhuk pi a tun’ uh ciangin a pha uh hi.
+**TDB77:** a galkap khempeuh-te tawh Nethaniah’ tapa Ishmael sim dingin a kuankhia-te hi. Gibeon tuikhuk pi a tun’ uh ciangin a pha-te hi.
 
-**ZVS:** a galkap khempeuh uh tawh Nethaniah' tapa Ishmael a sim dingin a kuankhia uh hi. Gibeon tuikhukpi a tun' uh ciangin a pha uh hi.
+**ZVS:** a galkap khempeuh-te tawh Nethaniah' tapa Ishmael a sim dingin a kuankhia-te hi. Gibeon tuikhukpi a tun' uh ciangin a pha-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v13
 **EN:** Now it came to pass, that when all the people which were with Ishmael saw Johanan the son of Kareah, and all the captains of the forces that were with him, then they were glad.
 
-**TDB77:** Ishmael’ mat mi khempeuh in Kareah’ tapa Johanan leh a hong tonpih galkap mangte khempeuh a muh uh ciangin a nuam uh hi.
+**TDB77:** Ishmael’ mat mi khempeuh in Kareah’ tapa Johanan leh a hong tonpih galkap mangte khempeuh a muh-te ciangin a nuam-te hi.
 
-**ZVS:** Ishmael' mat mi khempeuh in Kareah' tapa Johanan leh a hong tonpih galkapmangte a muh uh ciangin a nuam uh hi.
+**ZVS:** Ishmael' mat mi khempeuh in Kareah' tapa Johanan leh a hong tonpih galkapmangte a muh-te ciangin a nuam-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v14
 **EN:** So all the people that Ishmael had carried away captive from Mizpah cast about and returned, and went unto Johanan the son of Kareah.
 
-**TDB77:** Tua ahih manin Mizpah khua pan-a Ishmael in manin a pai khiatpihte khempeuh hong kileh hei kikin Kareah’ tapa Johanan a bel uh hi.
+**TDB77:** Tua ahih manin Mizpah khua pan-a Ishmael in manin a pai khiatpihte khempeuh hong kileh hei kikin Kareah’ tapa Johanan a bel-te hi.
 
-**ZVS:** Tua ahih manin Mizpah khua panin Ishmael in manin a paikhiatpihte khempeuh hong kilehhei kikin Kareah' tapa Johanan a beel uh hi.
+**ZVS:** Tua ahih manin Mizpah khua panin Ishmael in manin a paikhiatpihte khempeuh hong kilehhei kikin Kareah' tapa Johanan a beel-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** But Ishmael the son of Nethaniah escaped from Johanan with eight men, and went to the Ammonites.
 
-**TDB77:** Ahih hangin Nethaniah’ tapa Ishmael leh mihing giat Johanan’ khut sung panin a suakta uh a, Ammon gamah a tai uh hi.
+**TDB77:** Ahih hangin Nethaniah’ tapa Ishmael leh mihing giat Johanan’ khut sung panin a suakta-te a, Ammon gamah a tai-te hi.
 
-**ZVS:** Ahih hangin Nethaniah' tapa Ishmael leh mihing giat Johanan' khutsung panin suakta uh a, Ammon gamah a tai uh hi.
+**ZVS:** Ahih hangin Nethaniah' tapa Ishmael leh mihing giat Johanan' khutsung panin suakta-te a, Ammon gamah a tai-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v16
 **EN:** Then took Johanan the son of Kareah, and all the captains of the forces that were with him, all the remnant of the people whom he had recovered from Ishmael the son of Nethaniah, from Mizpah, after that he had slain Gedaliah the son of Ahikam, even mighty men of war, and the women, and the children, and the eunuchs, whom he had brought again from Gibeon:
 
-**TDB77:** Tua ciangin Kareah’ tapa Johanan leh a paipih galkap mangte khempeuh in, Nethaniah’ tapa Ishmael in Mizpah khua-ah Ahikam’ tapa Gedaliah a thah khit ciang manin a paikhiatpih galkapte, nupite, naupangte leh kumpi inn sung mangte akipan a om lai mite khempeuh Gibeon khua panin a ciahpih kik uh hi.
+**TDB77:** Tua ciangin Kareah’ tapa Johanan leh a paipih galkap mangte khempeuh in, Nethaniah’ tapa Ishmael in Mizpah khua-ah Ahikam’ tapa Gedaliah a thah khit ciang manin a paikhiatpih galkapte, nupite, naupangte leh kumpi inn sung mangte akipan a om lai mite khempeuh Gibeon khua panin a ciahpih kik-te hi.
 
-**ZVS:** Tua ciangin Kareah' tapa Johanan leh a paipih galkapmangte khempeuh in, Nethaniah' tapa Ishmael in Mizpah khua-ah Ahikam' tapa Gedaliah a thah khit ciangin manin a paikhiatpih galkapte, nupite, naupangte, leh kumpi innsungmangte-a kipan a omlai mi khempeuh Gibeon khua panin a ciahpih kik uh hi.
+**ZVS:** Tua ciangin Kareah' tapa Johanan leh a paipih galkapmangte khempeuh in, Nethaniah' tapa Ishmael in Mizpah khua-ah Ahikam' tapa Gedaliah a thah khit ciangin manin a paikhiatpih galkapte, nupite, naupangte, leh kumpi innsungmangte-a kipan a omlai mi khempeuh Gibeon khua panin a ciahpih kik-te hi.
 
 **Grammar:** sequence: then/therefore | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And they departed, and dwelt in the habitation of Chimham, which is by Beth–lehem, to go to enter into Egypt,
 
-**TDB77:** Amaute Izipt gam zuan dingin a pai uh a, Bethlehem khua gei Khimham Khawlmun-ah a khawl uh hi.
+**TDB77:** Amaute Izipt gam zuan dingin a pai-te a, Bethlehem khua gei Khimham Khawlmun-ah a khawl-te hi.
 
-**ZVS:** Egypt gam a zuan dingin amaute pai uh a, Bethlehem khua gei Khimham Khawlmun-ah a khawl uh hi.
+**ZVS:** Egypt gam a zuan dingin amaute pai-te a, Bethlehem khua gei Khimham Khawlmun-ah a khawl-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v18
 **EN:** Because of the Chaldeans: for they were afraid of them, because Ishmael the son of Nethaniah had slain Gedaliah the son of Ahikam, whom the king of Babylon made governor in the land.
 
-**TDB77:** Bang hang hiam cih leh Khaldea mite a kihta uh hi. Babilon kumpipa in gam uk dinga a koih Ahikam’ tapa Gedaliah, Nethaniah’ tapa Ishmael in suamlum ahih manin a kihta uh ahi hi.
+**TDB77:** Bang hang hiam cih leh Khaldea mite a kihta-te hi. Babilon kumpipa in gam uk dinga a koih Ahikam’ tapa Gedaliah, Nethaniah’ tapa Ishmael in suamlum ahih manin a kihta-te ahi hi.
 
-**ZVS:** Bang hang hiam cih leh Babylon mite a kihta uh hi. Babylon kumpipa in gam uk dingin a koih Ahikam' tapa Gedaliah pen Nethaniah' tapa Ishmael in suamlum ahih manin a kihta uh ahi hi.
+**ZVS:** Bang hang hiam cih leh Babylon mite a kihta-te hi. Babylon kumpipa in gam uk dingin a koih Ahikam' tapa Gedaliah pen Nethaniah' tapa Ishmael in suamlum ahih manin a kihta-te ahi hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 

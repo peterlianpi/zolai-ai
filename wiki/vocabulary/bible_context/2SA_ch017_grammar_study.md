@@ -34,18 +34,18 @@
 ### v2
 **EN:** And I will come upon him while he is weary and weak handed, and will make him afraid: and all the people that are with him shall flee; and I will smite the king only:
 
-**TDB77:** Amah gimin lungkia-in a om lai takin amah ka hih ding a, amah ka amkhamsak ding hi; tua ciangin amah tawh a om mi khempeuh tai ding uh hi. Keimah in kumpipa bek ka satpuk ding a,
+**TDB77:** Amah gimin lungkia-in a om lai takin amah ka hih ding a, amah ka amkhamsak ding hi; tua ciangin amah tawh a om mi khempeuh tai ding-te hi. Keimah in kumpipa bek ka satpuk ding a,
 
-**ZVS:** Amah gimin lungkia-in a om laitakin amah ka hih ding a, amah ka amkhamsak ding hi. Tua hi leh amah tawh a om mi khempeuh tai ding uh hi. Keimah in kumpipa bek ka satpuk ding a,
+**ZVS:** Amah gimin lungkia-in a om laitakin amah ka hih ding a, amah ka amkhamsak ding hi. Tua hi leh amah tawh a om mi khempeuh tai ding-te hi. Keimah in kumpipa bek ka satpuk ding a,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v3
 **EN:** And I will bring back all the people unto thee: the man whom thou seekest is as if all returned: so all the people shall be in peace.
 
-**TDB77:** mothak in a pasal kiang inn-ah hong ciah bangin mi khempeuh nang kiangah kong ciahpih kik ding hi. Nangmah in mi khat bek’ nuntakna na zong hi, midang khempeuh nuam takin om ding uh hi,” a ci hi.
+**TDB77:** mothak in a pasal kiang inn-ah hong ciah bangin mi khempeuh nang kiangah kong ciahpih kik ding hi. Nangmah in mi khat bek’ nuntakna na zong hi, midang khempeuh nuam takin om ding-te hi,” a ci hi.
 
-**ZVS:** mothak in a pasal kiang a zuatkik mah bangin mi khempeuh nang kiangah kong ciahpih kik ding hi. Nangmah in mi khat bek' nuntakna na zong hi; midang khempeuh nuamtakin om ding uh hi,” a ci hi.
+**ZVS:** mothak in a pasal kiang a zuatkik mah bangin mi khempeuh nang kiangah kong ciahpih kik ding hi. Nangmah in mi khat bek' nuntakna na zong hi; midang khempeuh nuamtakin om ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -102,9 +102,9 @@
 ### v10
 **EN:** And he also that is valiant, whose heart is as the heart of a lion, shall utterly melt: for all Israel knoweth that thy father is a mighty man, and they which be with him are valiant men.
 
-**TDB77:** Tua ciangin a lungtang humpinelkai lungtang a bang galhang mipa nangawn launa tawh lungkia gawp ding hi; bang hang hiam cih leh Israelte khempeuh in na pa mi thahat ahihna leh amah tawh a om mite mi hangsan ahihna thei uh hi.
+**TDB77:** Tua ciangin a lungtang humpinelkai lungtang a bang galhang mipa nangawn launa tawh lungkia gawp ding hi; bang hang hiam cih leh Israelte khempeuh in na pa mi thahat ahihna leh amah tawh a om mite mi hangsan ahihna thei-te hi.
 
-**ZVS:** Tua ciangin a lungtang humpinelkai lungtang a bang galhang mipa nangawn launa tawh lungkia gawp ding hi; bang hang hiam cih leh Israel-te khempeuh in na pa mi thahat ahihna leh amah tawh a om mite mi hang ahihna thei uh hi.
+**ZVS:** Tua ciangin a lungtang humpinelkai lungtang a bang galhang mipa nangawn launa tawh lungkia gawp ding hi; bang hang hiam cih leh Israel-te khempeuh in na pa mi thahat ahihna leh amah tawh a om mite mi hang ahihna thei-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -138,9 +138,9 @@
 ### v14
 **EN:** And Absalom and all the men of Israel said, The counsel of Hushai the Archite is better than the counsel of Ahithophel. For the
 
-**TDB77:** Tua ciangin Absalom leh Israel mite khempeuh in, “Arkhi mi Hushai’ thugen in Ahithofel’ thugen sangin hoihzaw hi,” a ci uh hi. Bang hang hiam cih leh Topa in Absalom tungah siatna a tun’sak theih nadingin Ahithofel’ thugen hoih tawh a zawh ding Topa in a sehsa ahi hi.
+**TDB77:** Tua ciangin Absalom leh Israel mite khempeuh in, “Arkhi mi Hushai’ thugen in Ahithofel’ thugen sangin hoihzaw hi,” a ci-te hi. Bang hang hiam cih leh Topa in Absalom tungah siatna a tun’sak theih nadingin Ahithofel’ thugen hoih tawh a zawh ding Topa in a sehsa ahi hi.
 
-**ZVS:** Tua ciangin Absalom leh Israel mite khempeuh in, “Arkhi mi Hushai' thugen pen Ahithofel' thugen sangin hoihzaw hi,” a ci uh hi. Bang hang hiam cih leh { Topa } in Absalom' tungah siatna a tun'sak theihna dingin Ahithofel' thugen hoih a zawh ding { Topa } in a sehsa ahi hi.
+**ZVS:** Tua ciangin Absalom leh Israel mite khempeuh in, “Arkhi mi Hushai' thugen pen Ahithofel' thugen sangin hoihzaw hi,” a ci-te hi. Bang hang hiam cih leh { Topa } in Absalom' tungah siatna a tun'sak theihna dingin Ahithofel' thugen hoih a zawh ding { Topa } in a sehsa ahi hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -165,18 +165,18 @@
 ### v17
 **EN:** Now Jonathan and Ahimaaz stayed by En–rogel; for they might not be seen to come into the city: and a wench went and told them; and they went and told king David.
 
-**TDB77:** Tu-in Jonathan leh Ahima-az in Enrogel-ah ngak uh hi; nasem numei khat pai-in amaute kiangah genin, amaute pai-in Kumpi David kiangah gen zel uh hi; bang hiam cih leh amaute khuapi sungah a lut uh a kimu lo ding ahi hi.
+**TDB77:** Tu-in Jonathan leh Ahima-az in Enrogel-ah ngak-te hi; nasem numei khat pai-in amaute kiangah genin, amaute pai-in Kumpi David kiangah gen zel-te hi; bang hiam cih leh amaute khuapi sungah a lut-te a kimu lo ding ahi hi.
 
-**ZVS:** Tu-in Jonathan leh Ahimaaz in Enrogel-ah ngak uh hi. Nasem numei khat pai-in amaute kiangah gen a, amaute pai-in Kumpi David kiangah gen zel uh hi; bang hang hiam cih leh amaute khuapi sungah a lutlam uh a kimulo ding ahi hi.
+**ZVS:** Tu-in Jonathan leh Ahimaaz in Enrogel-ah ngak-te hi. Nasem numei khat pai-in amaute kiangah gen a, amaute pai-in Kumpi David kiangah gen zel-te hi; bang hang hiam cih leh amaute khuapi sungah a lutlam-te a kimulo ding ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Nevertheless a lad saw them, and told Absalom: but they went both of them away quickly, and came to a man's house in Bahurim, which had a well in his court; whither they went down.
 
-**TDB77:** Ahih hangin tangval khat in amaute mu-in Absalom kiangah gen hi; tua ahih ciangin amaute gel manlang takin paikhia uh a, a huang sungah tuikhuk a nei Bahurim-a mi khat’ inn-ah tung uh hi; amaute tuikhuk sungah paisuk uh hi.
+**TDB77:** Ahih hangin tangval khat in amaute mu-in Absalom kiangah gen hi; tua ahih ciangin amaute gel manlang takin paikhia-te a, a huang sungah tuikhuk a nei Bahurim-a mi khat’ inn-ah tung-te hi; amaute tuikhuk sungah paisuk-te hi.
 
-**ZVS:** Ahih hangin tangval khat in amaute mu-in Absalom kiangah gen hi. Tua ahih ciangin amaute gel manlang takin paikhia uh a, a huang sungah tuikhuk a nei Bahurim-a mi khat' inn-ah tung uh a, tuikhuk sungah amaute tuaksuk uh hi.
+**ZVS:** Ahih hangin tangval khat in amaute mu-in Absalom kiangah gen hi. Tua ahih ciangin amaute gel manlang takin paikhia-te a, a huang sungah tuikhuk a nei Bahurim-a mi khat' inn-ah tung-te a, tuikhuk sungah amaute tuaksuk-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -192,27 +192,27 @@
 ### v20
 **EN:** And when Absalom's servants came to the woman to the house, they said, Where is Ahimaaz and Jonathan? And the woman said unto them, They be gone over the brook of water. And when they had sought and could not find them, they returned to Jerusalem.
 
-**TDB77:** Absalom’ nasemte tua nu’ inn-ah hong tun’ ciangin amaute in, “Ahima-az leh Jonathan koi lai-ah om ahi uh hiam?” a ci uh hi. A numei in amaute kiangah, “amaute lui gal khatah paikhin zo uh hi,” a ci hi. Amaute in zongin a muh zawh loh uh ciangin Jerusalem ah ciahkik uh hi.
+**TDB77:** Absalom’ nasemte tua nu’ inn-ah hong tun’ ciangin amaute in, “Ahima-az leh Jonathan koi lai-ah om ahi-te hiam?” a ci-te hi. A numei in amaute kiangah, “amaute lui gal khatah paikhin zo-te hi,” a ci hi. Amaute in zongin a muh zawh loh-te ciangin Jerusalem ah ciahkik-te hi.
 
-**ZVS:** Absalom' nasemte tuanu' inn-ah hong tun' ciangin amaute in, “Ahimaaz leh Jonathan koi lai-ah om ahi uh hiam?” a ci uh hi. A numei in amaute kiangah, “Amaute lui galkhatah pai khinzo uh hi,” a ci hi. Amaute in zong a muh zawhloh uh ciangin Jerusalem-ah a ciahkik uh hi.
+**ZVS:** Absalom' nasemte tuanu' inn-ah hong tun' ciangin amaute in, “Ahimaaz leh Jonathan koi lai-ah om ahi-te hiam?” a ci-te hi. A numei in amaute kiangah, “Amaute lui galkhatah pai khinzo-te hi,” a ci hi. Amaute in zong a muh zawhloh-te ciangin Jerusalem-ah a ciahkik-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And it came to pass, after they were departed, that they came up out of the well, and went and told king David, and said unto David, Arise, and pass quickly over the water: for thus hath Ahithophel counselled against you.
 
-**TDB77:** Amaute a paikhiat khit ciangin tuikhuk panin mite hong paikhia uh a, pai-in Kumpi David kiangah gen uh hi. Amaute in David kiangah, “Ding in, tui gal khatah manlang takin pai in; bang hang hiam cih leh tua bang tua bangin nangma lang khatah Ahithofel in thu gen hi,” a ci uh hi.
+**TDB77:** Amaute a paikhiat khit ciangin tuikhuk panin mite hong paikhia-te a, pai-in Kumpi David kiangah gen-te hi. Amaute in David kiangah, “Ding in, tui gal khatah manlang takin pai in; bang hang hiam cih leh tua bang tua bangin nangma lang khatah Ahithofel in thu gen hi,” a ci-te hi.
 
-**ZVS:** Amaute a paikhiat khit ciangin tuikhuk panin mite hong paikhia uh a, pai-in Kumpi David kiangah a thu gen uh hi. Amaute in David kiangah, “Ding in; tui galkhatah manlang takin pai in; bang hang hiam cih leh tua bang tua bangin nangma langkhatah Ahithofel in thu gen hi,” a ci uh hi.
+**ZVS:** Amaute a paikhiat khit ciangin tuikhuk panin mite hong paikhia-te a, pai-in Kumpi David kiangah a thu gen-te hi. Amaute in David kiangah, “Ding in; tui galkhatah manlang takin pai in; bang hang hiam cih leh tua bang tua bangin nangma langkhatah Ahithofel in thu gen hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** Then David arose, and all the people that were with him, and they passed over Jordan: by the morning light there lacked not one of them that was not gone over Jordan.
 
-**TDB77:** Tua ciangin David leh amah tawh a om mi khempeuh ding uh a, amaute in Jordan kantan uh hi; khuavak ciangin Jordan a kantan nai lo khat beek om nawn lo uh hi.
+**TDB77:** Tua ciangin David leh amah tawh a om mi khempeuh ding-te a, amaute in Jordan kantan-te hi; khuavak ciangin Jordan a kantan nai lo khat beek om nawn lo-te hi.
 
-**ZVS:** Tua ciangin David leh amah tawh a om mi khempeuh ding uh hi. Amaute in Jordan kantan uh a, khuavak ciangin Jordan a kantan nailo khat beek om nawnlo uh hi.
+**ZVS:** Tua ciangin David leh amah tawh a om mi khempeuh ding-te hi. Amaute in Jordan kantan-te a, khuavak ciangin Jordan a kantan nailo khat beek om nawnlo-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
@@ -244,9 +244,9 @@
 ### v26
 **EN:** So Israel and Absalom pitched in the land of Gilead.
 
-**TDB77:** Israelte leh Absalom in Gilead gamah giahphual sat uh hi.
+**TDB77:** Israelte leh Absalom in Gilead gamah giahphual sat-te hi.
 
-**ZVS:** Israel-te leh Absalom in Gilead gamah giahphual sat uh hi.
+**ZVS:** Israel-te leh Absalom in Gilead gamah giahphual sat-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -267,9 +267,9 @@
 ### v29
 **EN:** And honey, and butter, and sheep, and cheese of kine, for David, and for the people that were with him, to eat: for they said, The people is hungry, and weary, and thirsty, in the wilderness.
 
-**TDB77:** khuaizu leh bawngnawi-thaukhal leh tuu leh sathaukhalte, David leh amah tawh a om mite’ nek dingin hong puak uh hi; bang hang hiam cih leh amaute in, “Mite gam lakah gilkialin, gimin dangtak uh hi,” a ci uh hi.
+**TDB77:** khuaizu leh bawngnawi-thaukhal leh tuu leh sathaukhalte, David leh amah tawh a om mite’ nek dingin hong puak-te hi; bang hang hiam cih leh amaute in, “Mite gam lakah gilkialin, gimin dangtak-te hi,” a ci-te hi.
 
-**ZVS:** khuaizu leh bawngnawithaukhal, leh tuu leh sathaukhalte, David leh amah tawh a om mite' nek dingin hong puak uh hi. Bang hang hiam cih leh amaute in, “Mite gamlakah gilkialin, gimin dangtak uh hi,” a ci uh hi.
+**ZVS:** khuaizu leh bawngnawithaukhal, leh tuu leh sathaukhalte, David leh amah tawh a om mite' nek dingin hong puak-te hi. Bang hang hiam cih leh amaute in, “Mite gamlakah gilkialin, gimin dangtak-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | plural: uh marker
 

@@ -40,11 +40,11 @@
 
 ### gentaak loin = without being spoken of/without being mentioned (or perhaps 'without being provoked' in some contexts, but here likely 'without being mentioned/reproved')
 **Context:** Used to describe how they were treated when few in number.
-**Example:** gentaak loin peemta hi uh a
+**Example:** gentaak loin peemta hi-te a
 
 ### peemta = to wander/migrate/move about
 **Context:** Describes the movement of the people from place to place.
-**Example:** gentaak loin peemta hi uh a
+**Example:** gentaak loin peemta hi-te a
 
 ### kawikawi = to wander/roam/move around
 **Context:** Describes the movement between nations.

@@ -112,9 +112,9 @@
 ### v11
 **EN:** Therefore, as I live, saith the Lord
 
-**TDB77:** Tua ahih manin keimah in a nungta Topa Pasian ka hih takpi mah bangin, hih ka minam nihte tungah na heh gamtatna, na muhdah bawlna, leh na hazat bawlna tawh kizui-in nangma tungah kong thukkik ding hi. Amaute tungah na gamtatnasa hangin daan hong pia ka hihna thu amaute in thei ding uh hi.
+**TDB77:** Tua ahih manin keimah in a nungta Topa Pasian ka hih takpi mah bangin, hih ka minam nihte tungah na heh gamtatna, na muhdah bawlna, leh na hazat bawlna tawh kizui-in nangma tungah kong thukkik ding hi. Amaute tungah na gamtatnasa hangin daan hong pia ka hihna thu amaute in thei ding-te hi.
 
-**ZVS:** Tua ahih manin kei pen a nungta Topa { Pasian } ka hih takpi mah bangin, hih ka minam nihte tungah na heh gamtatna, na muhdah bawlna, leh na hazat bawlna tawh kizui-in nangma tungah kong thukkik ding hi. Amaute tungah na gamtatnasa hangin gim hong pia ka hihna thu amaute in thei ding uh hi.
+**ZVS:** Tua ahih manin kei pen a nungta Topa { Pasian } ka hih takpi mah bangin, hih ka minam nihte tungah na heh gamtatna, na muhdah bawlna, leh na hazat bawlna tawh kizui-in nangma tungah kong thukkik ding hi. Amaute tungah na gamtatnasa hangin gim hong pia ka hihna thu amaute in thei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -146,9 +146,9 @@
 ### v15
 **EN:** As thou didst rejoice at the inheritance of the house of Israel, because it was desolate, so will I do unto thee: thou shalt be desolate, O mount Seir, and all Edom, even all of it: and they shall know that I am the
 
-**TDB77:** keima mi Israelte a siat gawp manin na lungdamna zah tawh kizui-in nangma tungah kong bawl ding hi. Seir Mualtung gam, Edom, leitang khempeuh, gamkhing suak ding hi. Tua ciangin Topa ka hihna thu mi khempeuh in thei ding uh hi,” hong ci hi.
+**TDB77:** keima mi Israelte a siat gawp manin na lungdamna zah tawh kizui-in nangma tungah kong bawl ding hi. Seir Mualtung gam, Edom, leitang khempeuh, gamkhing suak ding hi. Tua ciangin Topa ka hihna thu mi khempeuh in thei ding-te hi,” hong ci hi.
 
-**ZVS:** keima mi Israel-te a siatgawp manin na lungdamna zah tawh kizui-in nangma tungah kong bawl ding hi. Seir Mualtung gam ahi Edom leitang khempeuh, gamkhing suak ding hi. Tua ciangin { Topa } ka hihna thu mi khempeuh in hong thei ding uh hi,” hong ci hi.
+**ZVS:** keima mi Israel-te a siatgawp manin na lungdamna zah tawh kizui-in nangma tungah kong bawl ding hi. Seir Mualtung gam ahi Edom leitang khempeuh, gamkhing suak ding hi. Tua ciangin { Topa } ka hihna thu mi khempeuh in hong thei ding-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 

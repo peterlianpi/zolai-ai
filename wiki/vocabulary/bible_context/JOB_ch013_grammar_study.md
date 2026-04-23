@@ -25,9 +25,9 @@
 ### v1
 **EN:** Lo, mine eye hath seen all this, mine ear hath heard and understood it.
 
-**TDB77:** “Na gen thu khempeuh uh ka muhsa hi a, ka bil-in ka zaksa, ka theihsa thu ahi hi.
+**TDB77:** “Na gen thu khempeuh-te ka muhsa hi a, ka bil-in ka zaksa, ka theihsa thu ahi hi.
 
-**ZVS:** “Na gen uh thu khempeuh ka muhsa vive hi a, ka bilin ka zakzaksa, ka theihtheihsa thu ahi hi.
+**ZVS:** “Na gen-te thu khempeuh ka muhsa vive hi a, ka bilin ka zakzaksa, ka theihtheihsa thu ahi hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -52,9 +52,9 @@
 ### v4
 **EN:** But ye are forgers of lies, ye are all physicians of no value.
 
-**TDB77:** Note in na haina uh zuauthu tawh na melh uh a, kuamah a damsak zolo zato siam-a kineite tawh na kibang uh hi.
+**TDB77:** Note in na haina-te zuauthu tawh na melh-te a, kuamah a damsak zolo zato siam-a kineite tawh na kibang-te hi.
 
-**ZVS:** Note in na haina uh zuauthu tawh na melh uh a, kuamah a damsak zolo zato siam-a kinei mite tawh na kibang uh hi.
+**ZVS:** Note in na haina-te zuauthu tawh na melh-te a, kuamah a damsak zolo zato siam-a kinei mite tawh na kibang-te hi.
 
 **Grammar:** causative: -sak suffix | reciprocal: ki- prefix | plural: uh marker
 
@@ -63,7 +63,7 @@
 
 **TDB77:** Pau het loin om hi le-uhcin, mipilpi mah hong kisa zaw ding hi ve’n.
 
-**ZVS:** Pau hetloin om hi le uh cin, mipil mah hong kisazaw ding hi.
+**ZVS:** Pau hetloin om hi le-te cin, mipil mah hong kisazaw ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -79,34 +79,34 @@
 ### v7
 **EN:** Will ye speak wickedly for God? and talk deceitfully for him?
 
-**TDB77:** Pasian’ min dingin a man lo genin, ama adingin zuauthu gensak ding na hi uh hiam?
+**TDB77:** Pasian’ min dingin a man lo genin, ama adingin zuauthu gensak ding na hi-te hiam?
 
-**ZVS:** Pasian' min dingin thumanlo genin, ama-a' dingin zuauthu gensak ding na hi uh hiam?
+**ZVS:** Pasian' min dingin thumanlo genin, ama-a' dingin zuauthu gensak ding na hi-te hiam?
 
 **Grammar:** purpose: in order to
 
 ### v8
 **EN:** Will ye accept his person? will ye contend for God?
 
-**TDB77:** Pasian angvan ding a, ama ading gensak ding na hi uh hiam?
+**TDB77:** Pasian angvan ding a, ama ading gensak ding na hi-te hiam?
 
-**ZVS:** Pasian angvan ding a, ama-a' ding gensak ding na hi uh hiam?
+**ZVS:** Pasian angvan ding a, ama-a' ding gensak ding na hi-te hiam?
 
 ### v9
 **EN:** Is it good that he should search you out? or as one man mocketh another, do ye so mock him?
 
-**TDB77:** Pasian in lim takin note hong entel leh note sungah hoihna mu ding ahi hiam? Mihingte na khem bangun Pasian khem thei dingin kingaihsun na hi uh hiam?
+**TDB77:** Pasian in lim takin note hong entel leh note sungah hoihna mu ding ahi hiam? Mihingte na khem bangun Pasian khem thei dingin kingaihsun na hi-te hiam?
 
-**ZVS:** Pasian in limtakin note hong entel leh note' sungah hoihna mu ding ahi hiam? Mihingte na khem bangun Pasian a khem thei dingin kingaihsun na hi uh hiam?
+**ZVS:** Pasian in limtakin note hong entel leh note' sungah hoihna mu ding ahi hiam? Mihingte na khem bangun Pasian a khem thei dingin kingaihsun na hi-te hiam?
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v10
 **EN:** He will surely reprove you, if ye do secretly accept persons.
 
-**TDB77:** A simthamin angvanna na zat uh leh amah in note hong taai taktak ding hi.
+**TDB77:** A simthamin angvanna na zat-te leh amah in note hong taai taktak ding hi.
 
-**ZVS:** A simthamin angvanna na zat uh leh amah in note hong taii taktak ding hi.
+**ZVS:** A simthamin angvanna na zat-te leh amah in note hong taii taktak ding hi.
 
 **Grammar:** future: will
 
@@ -120,9 +120,9 @@
 ### v12
 **EN:** Your remembrances are like unto ashes, your bodies to bodies of clay.
 
-**TDB77:** Na thugennate uh vut khu bang hi lel a, na siksante uh leikhal bang hi lel hi.
+**TDB77:** Na thugennate-te vut khu bang hi lel a, na siksante-te leikhal bang hi lel hi.
 
-**ZVS:** Na thugente uh vutkhu bang hi lel a, na siksante uh leivui bang hi lel hi.
+**ZVS:** Na thugente-te vutkhu bang hi lel a, na siksante-te leivui bang hi lel hi.
 
 ### v13
 **EN:** Hold your peace, let me alone, that I may speak, and let come on me what will.
@@ -152,7 +152,7 @@
 
 **TDB77:** Pasian’ mai-ah migilote’ pai ngam lo ahih manin, ka han’na in ka gualzawhna hi ding hi.
 
-**ZVS:** Pasian' mai-ah migilote pai ngamlo uh ahih manin, ka han'na pen ka gualzawhna hi ding hi.
+**ZVS:** Pasian' mai-ah migilote pai ngamlo-te ahih manin, ka han'na pen ka gualzawhna hi ding hi.
 
 **Grammar:** future: will | causal: because
 

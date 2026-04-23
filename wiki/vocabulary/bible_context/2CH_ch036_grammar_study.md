@@ -25,9 +25,9 @@
 ### v1
 **EN:** Then the people of the land took Jehoahaz the son of Josiah, and made him king in his father's stead in Jerusalem.
 
-**TDB77:** Tua gam mite in Josiah’ tapa Jehoahaz la-in Jerusalem ah a pa’ tangin kumpi-in koih uh hi.
+**TDB77:** Tua gam mite in Josiah’ tapa Jehoahaz la-in Jerusalem ah a pa’ tangin kumpi-in koih-te hi.
 
-**ZVS:** Tua gam mite in Josiah' tapa Jehoahaz la-in Jerusalem-ah a pa' tangin kumpi-in a koih uh hi.
+**ZVS:** Tua gam mite in Josiah' tapa Jehoahaz la-in Jerusalem-ah a pa' tangin kumpi-in a koih-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -142,9 +142,9 @@
 ### v14
 **EN:** Moreover all the chief of the priests, and the people, transgressed very much after all the abominations of the heathen; and polluted the house of the
 
-**TDB77:** A makai siampite leh mi khempeuh zong tua mah bangin citak lo mahmah uh a, minamte’ kihhuainate zui uh hi; amah in Jerusalem ah a siangtho-in a koih Topa’ inn amaute in ninsak uh hi.
+**TDB77:** A makai siampite leh mi khempeuh zong tua mah bangin citak lo mahmah-te a, minamte’ kihhuainate zui-te hi; amah in Jerusalem ah a siangtho-in a koih Topa’ inn amaute in ninsak-te hi.
 
-**ZVS:** A makai siampite leh mi khempeuh zong tua bangmahin citaklo mahmah uh a, minam dangte' kihhuainate zui uh hi. Amah in Jerusalem-ah a siangtho-in a koih { Topa' } biakinn amaute in ninsak uh hi.
+**ZVS:** A makai siampite leh mi khempeuh zong tua bangmahin citaklo mahmah-te a, minam dangte' kihhuainate zui-te hi. Amah in Jerusalem-ah a siangtho-in a koih { Topa' } biakinn amaute in ninsak-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -160,18 +160,18 @@
 ### v16
 **EN:** But they mocked the messengers of God, and despised his words, and misused his prophets, until the wrath of the
 
-**TDB77:** ahih hangin a mite tungah Topa’ hehna a suah ciang dong, a hehna a kidamsak zawh nawn loh ciang dongin amaute in Pasian’ kamtaite zahpihin, a thute simmawhin, a kamsangte thusim lo niloh uh hi.
+**TDB77:** ahih hangin a mite tungah Topa’ hehna a suah ciang dong, a hehna a kidamsak zawh nawn loh ciang dongin amaute in Pasian’ kamtaite zahpihin, a thute simmawhin, a kamsangte thusim lo niloh-te hi.
 
-**ZVS:** Ahih hangin a mite tungah { Topa } a heh ciangdong, a hehna a kidamsak zawh nawnloh ciangdongin amaute in Pasian' kamtaite zahpihin, a thute simmawhin, a kamsangte thusimlo niloh uh hi.
+**ZVS:** Ahih hangin a mite tungah { Topa } a heh ciangdong, a hehna a kidamsak zawh nawnloh ciangdongin amaute in Pasian' kamtaite zahpihin, a thute simmawhin, a kamsangte thusimlo niloh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Therefore he brought upon them the king of the Chaldeans, who slew their young men with the sword in the house of their sanctuary, and had no compassion upon young man or maiden, old man, or him that stooped for age: he gave them all into his hand.
 
-**TDB77:** Tua ahih ciangin amah in Khaldea mite’ kumpipa amaute’ lang khatah paipih a, amah in amau’ biakna inn sungah namsau tawh a tangvalte uh that a, tangval ahi a, nungak ahi a, a teek ahi a, a ham ahi zongin khasiat lo hi; amah in a vekpi-in ama khut sungah pia hi.
+**TDB77:** Tua ahih ciangin amah in Khaldea mite’ kumpipa amaute’ lang khatah paipih a, amah in amau’ biakna inn sungah namsau tawh a tangvalte-te that a, tangval ahi a, nungak ahi a, a teek ahi a, a ham ahi zongin khasiat lo hi; amah in a vekpi-in ama khut sungah pia hi.
 
-**ZVS:** Tua ahih ciangin { Topa } in Khaldea mite' kumpipa amaute' langkhatah paipih a, tua kumpipa in amau' Pasian' biakinn sung nangawnah namsau tawh a tangvalte uh that a, numei pasal, a moi a ham, a dam a na, kuamah khasiat lo hi. Pasian in a vekpi-in ama khutsungah a pia hi.
+**ZVS:** Tua ahih ciangin { Topa } in Khaldea mite' kumpipa amaute' langkhatah paipih a, tua kumpipa in amau' Pasian' biakinn sung nangawnah namsau tawh a tangvalte-te that a, numei pasal, a moi a ham, a dam a na, kuamah khasiat lo hi. Pasian in a vekpi-in ama khutsungah a pia hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo
 
@@ -187,18 +187,18 @@
 ### v19
 **EN:** And they burnt the house of God, and brake down the wall of Jerusalem, and burnt all the palaces thereof with fire, and destroyed all the goodly vessels thereof.
 
-**TDB77:** Tua ciangin amaute in Pasian’ inn halin Jerusalem kulh nusia uh a, a kumpi inn khempeuh mei tawh halin a um-le-beel manpha khempeuh susia uh hi.
+**TDB77:** Tua ciangin amaute in Pasian’ inn halin Jerusalem kulh nusia-te a, a kumpi inn khempeuh mei tawh halin a um-le-beel manpha khempeuh susia-te hi.
 
-**ZVS:** Tua ciangin amaute in Pasian' biakinn halin Jerusalem khua susia uh a, a kumpi inn khempeuh mei tawh halin umlebeel a manpha khempeuh a susia uh hi.
+**ZVS:** Tua ciangin amaute in Pasian' biakinn halin Jerusalem khua susia-te a, a kumpi inn khempeuh mei tawh halin umlebeel a manpha khempeuh a susia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v20
 **EN:** And them that had escaped from the sword carried he away to Babylon; where they were servants to him and his sons until the reign of the kingdom of Persia:
 
-**TDB77:** Amah in namsau panin a suakta mite Babilon ah salin la a, Persia kumpi in a uk hun mateng amah leh a suan leh khakte’ nasem a suak uh hi.
+**TDB77:** Amah in namsau panin a suakta mite Babilon ah salin la a, Persia kumpi in a uk hun mateng amah leh a suan leh khakte’ nasem a suak-te hi.
 
-**ZVS:** Amah in namsau panin a suakta mite Babylon-ah salin la a, Persia kumpi in a uk hun mateng amah leh a suanlekhakte' nasem a suak uh hi.
+**ZVS:** Amah in namsau panin a suakta mite Babylon-ah salin la a, Persia kumpi in a uk hun mateng amah leh a suanlekhakte' nasem a suak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -223,9 +223,9 @@
 ### v23
 **EN:** Thus saith Cyrus king of Persia, All the kingdoms of the earth hath the
 
-**TDB77:** “Persia kumpipa Sairas in hih bangin ci hi, ‘Vantung Pasian, Topa in leitung kumpi gam khempeuh kei hong pia khin a, Judah gam sung Jerusalem khua ah ama adingin inn khat ka lamsak ding hong sawl hi. Note lakah ama mi ahi khempeuh, Topa a Pasian uh in ompih ta hen. Inn lam dingin Jerusalem ah amaute paito sak un,’ ci hi,” a ci hi.
+**TDB77:** “Persia kumpipa Sairas in hih bangin ci hi, ‘Vantung Pasian, Topa in leitung kumpi gam khempeuh kei hong pia khin a, Judah gam sung Jerusalem khua ah ama adingin inn khat ka lamsak ding hong sawl hi. Note lakah ama mi ahi khempeuh, Topa a Pasian-te in ompih ta hen. Inn lam dingin Jerusalem ah amaute paito sak un,’ ci hi,” a ci hi.
 
-**ZVS:** “Persia kumpipa Sairas in hih bangin ci hi: ‘Vantung Pasian, { Topa } in leitung kumpi gam khempeuh kei hong pia khin a, Judah gamsung Jerusalem khua-ah ama-a' dingin biakinn khat ka lamsak ding hong sawl hi. Note lakah ama mi ahi khempeuh, { Topa } a Pasian uh in ompih ta hen. Biakinn lam dingin Jerusalem-ah amaute paito sak un,’ ci hi,” a ci hi.
+**ZVS:** “Persia kumpipa Sairas in hih bangin ci hi: ‘Vantung Pasian, { Topa } in leitung kumpi gam khempeuh kei hong pia khin a, Judah gamsung Jerusalem khua-ah ama-a' dingin biakinn khat ka lamsak ding hong sawl hi. Note lakah ama mi ahi khempeuh, { Topa } a Pasian-te in ompih ta hen. Biakinn lam dingin Jerusalem-ah amaute paito sak un,’ ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to
 

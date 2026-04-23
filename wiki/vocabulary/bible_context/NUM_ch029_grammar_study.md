@@ -24,23 +24,23 @@
 ### v1
 **EN:** And in the seventh month, on the first day of the month, ye shall have an holy convocation; ye shall do no servile work: it is a day of blowing the trumpets unto you.
 
-**TDB77:** “A kha sagihna a ni masa ni-in kikhopna siangtho khat na nei ding uh hi; leitung nasep na sem kei ding uh hi. Tua pen note in peengkul na tum ni ding uh hi a,
+**TDB77:** “A kha sagihna a ni masa ni-in kikhopna siangtho khat na nei ding-te hi; leitung nasep na sem kei ding-te hi. Tua pen note in peengkul na tum ni ding-te hi a,
 
-**ZVS:** “A kha sagihna a ni masa ni-in kikhopna siangtho khat na nei ding uh a, tua ni-in leitung nasep na sem kei ding uh hi. Tua ni pen note in peengkul na tum ni ding uh hi a,
+**ZVS:** “A kha sagihna a ni masa ni-in kikhopna siangtho khat na nei ding-te a, tua ni-in leitung nasep na sem kei ding-te hi. Tua ni pen note in peengkul na tum ni ding-te hi a,
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And ye shall offer a burnt offering for a sweet savour unto the
 
-**TDB77:** meihal biakna, Topa tungah a gim namtui na pia ding uh hi: bawngtalno khat, tuutal khat, a sit bang lo kum khat a pha tuuno a pa sagih hi ding hi;
+**TDB77:** meihal biakna, Topa tungah a gim namtui na pia ding-te hi: bawngtalno khat, tuutal khat, a sit bang lo kum khat a pha tuuno a pa sagih hi ding hi;
 
 **ZVS:** meihal biakna, { Topa' } tungah a gim namtui na piak dingte un: Bawngtalno khat, tuutal khat, leh kum khat a pha tuuno a pa sagih, a vekpi-in a sitbaanglo hi ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v3
-**EN:** And their meat offering shall be of flour mingled with oil, three tenth deals for a bullock, and two tenth deals for a ram,
+**EN:** And their meat offering shall be of flour mingled with oil, three tenth deals for a bullock, and two tenth deals for a gam,
 
 **TDB77:** bawngtal tawh piak dingin sathau tawh a kibawl annel ahi an tawh a biaknate seu khat sehsawm suah sehthum, tuutal tawh sehsawm suah sehnih,
 
@@ -78,23 +78,23 @@
 ### v7
 **EN:** And ye shall have on the tenth day of this seventh month an holy convocation; and ye shall afflict your souls: ye shall not do any work therein:
 
-**TDB77:** “Hih kha sagihna a ni sawm ni-in a siangtho kikhopna khat na nei ding uh a, nomau na kigawt tawm ding uh hi; na na sem kei ding uh a,
+**TDB77:** “Hih kha sagihna a ni sawm ni-in a siangtho kikhopna khat na nei ding-te a, nomau na kigawt tawm ding-te hi; na na sem kei ding-te a,
 
-**ZVS:** “Hih kha sagihna a ni sawm ni-in a siangtho kikhopna khat na nei ding uh a, an tangin tua ni-in na na sem kei ding uh hi.
+**ZVS:** “Hih kha sagihna a ni sawm ni-in a siangtho kikhopna khat na nei ding-te a, an tangin tua ni-in na na sem kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** But ye shall offer a burnt offering unto the
 
-**TDB77:** Topa tungah a gim namtui meihal biakna na pia ding uh hi: bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa sagih hi ding hi; tuate in note’ muhna ah a sit bang lo hi ding hi;
+**TDB77:** Topa tungah a gim namtui meihal biakna na pia ding-te hi: bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa sagih hi ding hi; tuate in note’ muhna ah a sit bang lo hi ding hi;
 
 **ZVS:** { Topa' } tungah a gim namtui meihal biakna na piak dingte un: Bawngtalno khat, tuutal khat, leh kum khat a pha tuuno a pa sagih hi ding a, tuate pen note' muhna-ah a sitbaanglo hi ding hi.
 
 **Grammar:** future: will | negation: lo | plural: uh marker
 
 ### v9
-**EN:** And their meat offering shall be of flour mingled with oil, three tenth deals to a bullock, and two tenth deals to one ram,
+**EN:** And their meat offering shall be of flour mingled with oil, three tenth deals to a bullock, and two tenth deals to one gam,
 
 **TDB77:** sathau tawh a kibawl annel tawh a biaknate in, bawngtal tawh piak dingin seu khat sehsawm suah sehthum, a tuutal tawh sehsawm suah sehnih,
 
@@ -123,23 +123,23 @@
 ### v12
 **EN:** And on the fifteenth day of the seventh month ye shall have an holy convocation; ye shall do no servile work, and ye shall keep a feast unto the
 
-**TDB77:** “A kha sagihna ni sawm leh ni nga ni-in a siangtho kikhopna khat na nei ding uh hi; leitung nasep na sem kei ding uh a, Topa adingin ni sagih sung pawi na kham ding uh hi;
+**TDB77:** “A kha sagihna ni sawm leh ni nga ni-in a siangtho kikhopna khat na nei ding-te hi; leitung nasep na sem kei ding-te a, Topa adingin ni sagih sung pawi na kham ding-te hi;
 
-**ZVS:** “A kha sagihna ni sawm leh ni nga ni-in a siangtho kikhopna khat nei-in tua ni-in leitung nasep na sem kei ding uh a, { Topa}-a' dingin ni sagih sung pawi na kham ding uh hi.
+**ZVS:** “A kha sagihna ni sawm leh ni nga ni-in a siangtho kikhopna khat nei-in tua ni-in leitung nasep na sem kei ding-te a, { Topa}-a' dingin ni sagih sung pawi na kham ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the
 
-**TDB77:** meihal biakna, Topa tungah a gim namtui, mei tawh kihal biakna, bawngtalno sawm-le-thum, tuutal nih, kum khat a pha tuuno a pa sawm-le-li na pia ding uh hi; tuate a sit bang lo hi ding hi:
+**TDB77:** meihal biakna, Topa tungah a gim namtui, mei tawh kihal biakna, bawngtalno sawm-le-thum, tuutal nih, kum khat a pha tuuno a pa sawm-le-li na pia ding-te hi; tuate a sit bang lo hi ding hi:
 
-**ZVS:** A ni masa ni-in meihal biakna, { Topa' } tungah a gim namtui, mei tawh kihal biakna dingin bawngtalno sawmlethum, tuutal nih, kum khat a pha tuuno a pa sawmleli na pia ding uh a, tuate a sitbaanglo hi ding hi.
+**ZVS:** A ni masa ni-in meihal biakna, { Topa' } tungah a gim namtui, mei tawh kihal biakna dingin bawngtalno sawmlethum, tuutal nih, kum khat a pha tuuno a pa sawmleli na pia ding-te a, tuate a sitbaanglo hi ding hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
-**EN:** And their meat offering shall be of flour mingled with oil, three tenth deals unto every bullock of the thirteen bullocks, two tenth deals to each ram of the two rams,
+**EN:** And their meat offering shall be of flour mingled with oil, three tenth deals unto every bullock of the thirteen bullocks, two tenth deals to each gam of the two rams,
 
 **TDB77:** sathau tawh a kibawl annel ahi an tawh a biaknate in, bawngtal sawm-le-thumte khat ciangin seu khat sehsawm suah sehthum, tuutal nihte khat ciangin sehsawm suah sehnih,
 
@@ -330,23 +330,23 @@
 ### v35
 **EN:** On the eighth day ye shall have a solemn assembly: ye shall do no servile work therein:
 
-**TDB77:** “A ni giat ni-in a zahtakhuai kikhopna na nei ding uh hi; leitung nasep na sem kei ding uh hi,
+**TDB77:** “A ni giat ni-in a zahtakhuai kikhopna na nei ding-te hi; leitung nasep na sem kei ding-te hi,
 
-**ZVS:** “A ni giat ni-in a thupi kikhopna khat na nei ding uh a, tua ni-in leitung nasep na sem kei ding uh hi.
+**ZVS:** “A ni giat ni-in a thupi kikhopna khat na nei ding-te a, tua ni-in leitung nasep na sem kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v36
 **EN:** But ye shall offer a burnt offering, a sacrifice made by fire, of a sweet savour unto the
 
-**TDB77:** meihal biakna, mei tawh kihal biakna, Topa tungah a gim namtui na pia ding uh hi: bawngtal khat, tuutal khat, a sit bang lo kum khat a pha tuuno a pa sagih,
+**TDB77:** meihal biakna, mei tawh kihal biakna, Topa tungah a gim namtui na pia ding-te hi: bawngtal khat, tuutal khat, a sit bang lo kum khat a pha tuuno a pa sagih,
 
 **ZVS:** Meihal biakna, mei tawh kihal biakna, { Topa' } tungah a gim namtui na piak dingte un: Bawngtal khat, tuutal khat, kum khat a pha tuuno a pa sagih, a vekpi-in a sitbaanglo,
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v37
-**EN:** Their meat offering and their drink offerings for the bullock, for the ram, and for the lambs, shall be according to their number, after the manner:
+**EN:** Their meat offering and their drink offerings for the bullock, for the gam, and for the lambs, shall be according to their number, after the manner:
 
 **TDB77:** leh ngeina kip om bangin bawngtal, tuutal, leh tuunote a phazah tawh kizui-in piak khawm dingin an tawh a biakna leh leenggahzu tawh a biaknate hi ding hi;
 
@@ -366,9 +366,9 @@
 ### v39
 **EN:** These things ye shall do unto the
 
-**TDB77:** “Na thuciam biak piakna uh leh ut thu-a na biak piaknate uh banah na meihal biaknate, leh an tawh na biaknate, leh leenggahzu tawh na biaknate, leh thunuam-a na biak nadingun a kiseh na pawi hunte uhah hihte Topa’ tungah na pia ding uh hi,” a ci hi.
+**TDB77:** “Na thuciam biak piakna-te leh ut thu-a na biak piaknate-te banah na meihal biaknate, leh an tawh na biaknate, leh leenggahzu tawh na biaknate, leh thunuam-a na biak nadingun a kiseh na pawi hunte uhah hihte Topa’ tungah na pia ding-te hi,” a ci hi.
 
-**ZVS:** “Na thuciam biakpiakna uh leh utthu-a na biakpiaknate uh banah na meihal biaknate, leh an tawh na biaknate, leh leenggahzu tawh na biaknate, leh thunuama na biakna dingun a kiseh na pawi hunte uhah hihte, { Topa' } tungah na pia ding uh hi,” a ci hi.
+**ZVS:** “Na thuciam biakpiakna-te leh utthu-a na biakpiaknate-te banah na meihal biaknate, leh an tawh na biaknate, leh leenggahzu tawh na biaknate, leh thunuama na biakna dingun a kiseh na pawi hunte uhah hihte, { Topa' } tungah na pia ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

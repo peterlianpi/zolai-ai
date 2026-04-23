@@ -79,9 +79,9 @@
 ### v7
 **EN:** When the morning stars sang together, and all the sons of God shouted for joy?
 
-**TDB77:** Tua ni-in zingsang aksite in la sakhawm uh a, Pasian’ tapate lungdamin kiko uh hi.
+**TDB77:** Tua ni-in zingsang aksite in la sakhawm-te a, Pasian’ tapate lungdamin kiko-te hi.
 
-**ZVS:** Tua ni-in zingsang aksite in la sa khawm uh a, Pasian' tapate lungdamin a kiko uh hi.
+**ZVS:** Tua ni-in zingsang aksite in la sa khawm-te a, Pasian' tapate lungdamin a kiko-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -145,9 +145,9 @@
 ### v15
 **EN:** And from the wicked their light is withholden, and the high arm shall be broken.
 
-**TDB77:** Migilote’ adingin sun khuavak taang lua a, siatna a gamtat nading uh a kham hi.
+**TDB77:** Migilote’ adingin sun khuavak taang lua a, siatna a gamtat nading-te a kham hi.
 
-**ZVS:** Migilote-a' dingin sun khuavak taanglua a, siatna a gamtatna ding uh a khamcip hi.
+**ZVS:** Migilote-a' dingin sun khuavak taanglua a, siatna a gamtatna ding-te a khamcip hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -326,7 +326,7 @@
 ### v40
 **EN:** When they couch in their dens, and abide in the covert to lie in wait?
 
-**TDB77:** “Humpinelkai leh a note leihawm sungah bu-in, a kua sung uhah lumin ngakin a om laitakun, a an ding uh zon'sak thei a, a note' gilkialna vahsak thei na hi hiam?
+**TDB77:** “Humpinelkai leh a note leihawm sungah bu-in, a kua sung uhah lumin ngakin a om laitakun, a an ding-te zon'sak thei a, a note' gilkialna vahsak thei na hi hiam?
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

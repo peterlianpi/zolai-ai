@@ -150,7 +150,7 @@
 ### v15
 **EN:** And a basket of unleavened bread, cakes of fine flour mingled with oil, and wafers of unleavened bread anointed with oil, and their meat offering, and their drink offerings.
 
-**TDB77:** leh silngo sawhloh anlum lawh khat, sathau tawh a kibawl annel mohte, leh silngo sawhloh sathau tawh a kizut mohphengte, leh an tawh a biaknate leh leenggahzu tawh a biaknate uh paipih ding hi.
+**TDB77:** leh silngo sawhloh anlum lawh khat, sathau tawh a kibawl annel mohte, leh silngo sawhloh sathau tawh a kizut mohphengte, leh an tawh a biaknate leh leenggahzu tawh a biaknate-te paipih ding hi.
 
 **ZVS:** leh silngo sawhloh anlum lawh khat, sathau tawh a kibawl annel mohte, leh silngo sawhloh, sathau tawh a kizut mohphengte, leh an tawh a biaknate leh leenggahzu tawh a biaknate paipih ding hi.
 
@@ -164,7 +164,7 @@
 **ZVS:** “Siampipa in { Topa' } mai-ah tuate paipihin a khialhna hanga biakna leh a meihal biakna pia ding a,
 
 ### v17
-**EN:** And he shall offer the ram for a sacrifice of peace offerings unto the
+**EN:** And he shall offer the gam for a sacrifice of peace offerings unto the
 
 **TDB77:** a tuutal pen Topa tungah thunuam-a biakna-in silngo sawhloh anlum lawh tawh pia khawm ding hi; an tawh biakna leh leenggahzu tawh a biakna zong siampipa in pia ding hi.
 
@@ -182,7 +182,7 @@
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v19
-**EN:** And the priest shall take the sodden shoulder of the ram, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them upon the hands of the Nazarite, after the hair of his separation is shaven:
+**EN:** And the priest shall take the sodden shoulder of the gam, and one unleavened cake out of the basket, and one unleavened wafer, and shall put them upon the hands of the Nazarite, after the hair of his separation is shaven:
 
 **TDB77:** Siampipa in a kihuansa tuutal liang, leh lawh sung panin silngo sawhloh moh khat, leh silngo sawhloh mohpheng khat la-in, a ki-ap hun sunga a sam a met khit ciangin tua Nazir mipa’ khutah tuate koih ding a,
 
@@ -220,9 +220,9 @@
 ### v23
 **EN:** Speak unto Aaron and unto his sons, saying, On this wise ye shall bless the children of Israel, saying unto them,
 
-**TDB77:** “Aaron leh a tapate tungah hih bangin gen in: Note in hih bangin Israel mite thupha na pia ding uh hi. Amaute tungah hih bangin na ci ding uh hi,
+**TDB77:** “Aaron leh a tapate tungah hih bangin gen in: Note in hih bangin Israel mite thupha na pia ding-te hi. Amaute tungah hih bangin na ci ding-te hi,
 
-**ZVS:** “Aaron leh a tapate tungah hih bangin gen in: Note in hih bangin Israel mite thupha na pia ding uh hi. Amaute tungah hih bangin na ci ding uh hi:
+**ZVS:** “Aaron leh a tapate tungah hih bangin gen in: Note in hih bangin Israel mite thupha na pia ding-te hi. Amaute tungah hih bangin na ci ding-te hi:
 
 **Grammar:** future: will | plural: uh marker
 
@@ -245,16 +245,16 @@
 ### v26
 **EN:** The
 
-**TDB77:** Topa in note tungah ama maipha hong pia hen la, note nopsakna hong pia ta hen, ci-in thupha pia uh hen.
+**TDB77:** Topa in note tungah ama maipha hong pia hen la, note nopsakna hong pia ta hen, ci-in thupha pia-te hen.
 
-**ZVS:** { Topa } in note tungah a maipha hong pia hen la, note tungah nopsakna hong pia ta hen,’ ci-in thupha pia uh hen.
+**ZVS:** { Topa } in note tungah a maipha hong pia hen la, note tungah nopsakna hong pia ta hen,’ ci-in thupha pia-te hen.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v27
 **EN:** And they shall put my name upon the children of Israel; and I will bless them.
 
-**TDB77:** “Amaute in tua bangin Israel mite tungah keima min lo ding uh a, keimah in amaute thupha ka pia ding hi,” a ci hi.
+**TDB77:** “Amaute in tua bangin Israel mite tungah keima min lo ding-te a, keimah in amaute thupha ka pia ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

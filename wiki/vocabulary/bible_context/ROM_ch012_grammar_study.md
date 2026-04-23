@@ -22,7 +22,7 @@
 ### v1
 **EN:** I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
 
-**TDB77:** Tua ahih ciangin ute naute aw, a hing biakna, a siangtho leh Pasian’ deihna tawh kituakin, na pumpi uh Pasian kiangah na piak nadingun Pasian’ hehpihna tawh kong thuum hi. Bang hang hiam na cih uh leh, tua bang hihna in a kilawm biakna nasepna ahi hi.
+**TDB77:** Tua ahih ciangin ute naute aw, a hing biakna, a siangtho leh Pasian’ deihna tawh kituakin, na pumpi-te Pasian kiangah na piak nadingun Pasian’ hehpihna tawh kong thuum hi. Bang hang hiam na cih-te leh, tua bang hihna in a kilawm biakna nasepna ahi hi.
 
 **ZVS:** Tua ahih ciangin sanggamte aw, Pasian in eite tam veipi tak hong hehpih ahih manin ama lungkimna ding leh ama nasepna dingin nomau mahmah a hingtangin Pasian tungah na kipiakna dingun ka hong thum hi. Tua banga kipiakna pen Pasian biakna man taktak ahi hi.
 
@@ -31,9 +31,9 @@
 ### v2
 **EN:** And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
 
-**TDB77:** Hih leitung mite bangin na om kei un. A hoih, a deihhuai, a kicing ahi Pasian’ deihna in bang ahi hiam ci-in na khen theih nadingun na lungsim uh bawl thakin, na lim uh na kilamdangsak un.
+**TDB77:** Hih leitung mite bangin na om kei un. A hoih, a deihhuai, a kicing ahi Pasian’ deihna in bang ahi hiam ci-in na khen theih nadingun na lungsim-te bawl thakin, na lim-te na kilamdangsak un.
 
-**ZVS:** Leitung mihingte' gamtat bangin gamta kei un la, na lungsim uh kikheelin Pasian kipuahpha sak un. Tua hi leh a hoih nate bang hi a, bangte in amah lungkim sakin, bangte a kicing hiam ci-in thei-in Pasian' deihna na phawk thei ding uh hi.
+**ZVS:** Leitung mihingte' gamtat bangin gamta kei un la, na lungsim-te kikheelin Pasian kipuahpha sak un. Tua hi leh a hoih nate bang hi a, bangte in amah lungkim sakin, bangte a kicing hiam ci-in thei-in Pasian' deihna na phawk thei ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -49,7 +49,7 @@
 ### v4
 **EN:** For as we have many members in one body, and all members have not the same office:
 
-**TDB77:** Bang hang hiam na cih uh leh, pumpi khat sungah na tampi i nei a, tua nate in nasepna-za khat guak a neih loh uh mah bangin,
+**TDB77:** Bang hang hiam na cih-te leh, pumpi khat sungah na tampi i nei a, tua nate in nasepna-za khat guak a neih loh-te mah bangin,
 
 **ZVS:** I pumpi tungah zong na tampi i nei a, tua nate' nasep a tuamtuam ahi hi.
 
@@ -88,14 +88,14 @@
 
 **TDB77:** Simtat loin itna lungsim om ta hen. Gitlohna mudahin gamtat hoih beel un.
 
-**ZVS:** Na ki-itnate uh lungsim takpi tawh hi sak un la, a siate mudahin a hoihte lenkip un.
+**ZVS:** Na ki-itnate-te lungsim takpi tawh hi sak un la, a siate mudahin a hoihte lenkip un.
 
 **Grammar:** optative: let there be / let it be
 
 ### v10
 **EN:** Be kindly affectioned one to another with brotherly love; in honour preferring one another;
 
-**TDB77:** Ute naute itna panin, khat leh khat dawmin na ki-it ta un. Minphatna panin midangte na pumpi uh sangin na phat zaw un.
+**TDB77:** Ute naute itna panin, khat leh khat dawmin na ki-it ta un. Minphatna panin midangte na pumpi-te sangin na phat zaw un.
 
 **ZVS:** Unau ki-itna lungsim nei un la, khatlekhat kizahtak bawl ding lamsang kidem un.
 
@@ -111,14 +111,14 @@
 
 **TDB77:** Lawpin lungdam un. Gimna hong tun’ ciangin thuak un. Thungen tawntung un.
 
-**ZVS:** Lamet na neihna hangun lungdamin om tawntung un la, lungkhamna na thuak uh ciangin lungduai-in thu na ngen tawntung un.
+**ZVS:** Lamet na neihna hangun lungdamin om tawntung un la, lungkhamna na thuak-te ciangin lungduai-in thu na ngen tawntung un.
 
 ### v13
 **EN:** Distributing to the necessity of saints; given to hospitality.
 
 **TDB77:** Misiangthote a sapna bangun na hawm un. Zindo na hahkat un.
 
-**ZVS:** Na Khristianpihte uh a kisapna bangin na neihsate uh na hawm un la, zin leh leengla do a siam mite na hita un.
+**ZVS:** Na Khristianpihte-te a kisapna bangin na neihsate-te na hawm un la, zin leh leengla do a siam mite na hita un.
 
 ### v14
 **EN:** Bless them which persecute you: bless, and curse not.
@@ -139,7 +139,7 @@
 ### v16
 **EN:** Be of the same mind one toward another. Mind not high things, but condescend to men of low estate. Be not wise in your own conceits.
 
-**TDB77:** Khat leh khat na lungsim uh na kituaksak un. Min san’na na lunggulh kei un. Lung kiniamsakna deih un. Kei mipil mi ka hi ci-in kingaihsun kei un.
+**TDB77:** Khat leh khat na lungsim-te na kituaksak un. Min san’na na lunggulh kei un. Lung kiniamsakna deih un. Kei mipil mi ka hi ci-in kingaihsun kei un.
 
 **ZVS:** Mi deidan loin a kibangin en un. Kiphasak loin mineute tawh kikhawlthei un la, kipilsak se kei un.
 
@@ -166,9 +166,9 @@
 ### v19
 **EN:** Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.
 
-**TDB77:** Ka itte aw, midangte in note tungah hong khialh leh, a mawhna na thuk kei un. Pasian’ hehpihna na pia un. Bang hang hiam na cih uh leh, “Thukkikna in keima aa ahi hi. A mawhna tawh kituakin ka thuk ding hi, Topa in a ci hi,” ci-in Lai Siangtho in a gen hi.
+**TDB77:** Ka itte aw, midangte in note tungah hong khialh leh, a mawhna na thuk kei un. Pasian’ hehpihna na pia un. Bang hang hiam na cih-te leh, “Thukkikna in keima aa ahi hi. A mawhna tawh kituakin ka thuk ding hi, Topa in a ci hi,” ci-in Lai Siangtho in a gen hi.
 
-**ZVS:** Lawmte aw, na hehna uh kuama tungah thukkik kei un la, Pasian' thukkik dingin koih lel un. Bang hang hiam cih leh Lai Siangtho sungah, “Keimah in amaute tungah ka thuk ding a, midangte a gimsak bangun ka gimsak ding hi, Topa in ci hi,” ci-in kigelh hi.
+**ZVS:** Lawmte aw, na hehna-te kuama tungah thukkik kei un la, Pasian' thukkik dingin koih lel un. Bang hang hiam cih leh Lai Siangtho sungah, “Keimah in amaute tungah ka thuk ding a, midangte a gimsak bangun ka gimsak ding hi, Topa in ci hi,” ci-in kigelh hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -177,7 +177,7 @@
 
 **TDB77:** Tua tham loin, “Na gal a gil a kial leh, an na vaak in. Tui a duh leh, a dawn ding na pia in. Tua bangin na bawl leh, ama lu tungah mei-amte a koih na hi ding hi.
 
-**ZVS:** Tua ahih ciangin Lai Siangtho sungah, “Na galte uh a gil a kial leh an na pia un. A dang a taak leh tui na pia un. Tua bangin na gamtat uh leh amaute' maizumna dingin a bawl na hi uh hi,” ci-in a kigelh bangin gamtazaw un.
+**ZVS:** Tua ahih ciangin Lai Siangtho sungah, “Na galte-te a gil a kial leh an na pia un. A dang a taak leh tui na pia un. Tua bangin na gamtat-te leh amaute' maizumna dingin a bawl na hi-te hi,” ci-in a kigelh bangin gamtazaw un.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

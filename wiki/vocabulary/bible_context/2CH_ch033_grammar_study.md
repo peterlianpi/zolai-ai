@@ -80,34 +80,34 @@
 ### v8
 **EN:** Neither will I any more remove the foot of Israel from out of the land which I have appointed for your fathers; so that they will take heed to do all that I have commanded them, according to the whole law and the statutes and the ordinances by the hand of Moses.
 
-**TDB77:** Tua ciangin Pasian in David leh a tapa Solomon tungah, “Amaute ka thupiak khempeuh, thukham khempeuh, ngeinate, leh Moses tung tawnin a kipia biakna ngeina kipte zuih ding a kidop nak uh leh, Israel minam khempeuh sung panin ka teelkhiat hih biakinn sung leh Jerusalem sungah ka min ka koih tawntung ding hi. Tua ciangin na pu na pate uh-a' dingin ka sehsa gam panin Israel-te ka khinkhia nawn kei ding hi,” a cih Pasian' biakinn sungah amah in ama bawlsa milim koih hi.
+**TDB77:** Tua ciangin Pasian in David leh a tapa Solomon tungah, “Amaute ka thupiak khempeuh, thukham khempeuh, ngeinate, leh Moses tung tawnin a kipia biakna ngeina kipte zuih ding a kidop nak-te leh, Israel minam khempeuh sung panin ka teelkhiat hih biakinn sung leh Jerusalem sungah ka min ka koih tawntung ding hi. Tua ciangin na pu na pate uh-a' dingin ka sehsa gam panin Israel-te ka khinkhia nawn kei ding hi,” a cih Pasian' biakinn sungah amah in ama bawlsa milim koih hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix
 
 ### v9
 **EN:** So Manasseh made Judah and the inhabitants of Jerusalem to err, and to do worse than the heathen, whom the
 
-**TDB77:** Manasseh in Judah leh Jerusalem a, tengte zol ahih manin, Israel mite’ mai-ah Topa in a suksiat minamte sangin amaute in a sia tamzaw gamta uh hi.
+**TDB77:** Manasseh in Judah leh Jerusalem a, tengte zol ahih manin, Israel mite’ mai-ah Topa in a suksiat minamte sangin amaute in a sia tamzaw gamta-te hi.
 
-**ZVS:** Manasseh in Judah leh Jerusalem-a tengte zol ahih manin, Israel mite' mai-ah { Topa } in a suksiat minamte sangin amaute a sia tamzaw gamta uh hi.
+**ZVS:** Manasseh in Judah leh Jerusalem-a tengte zol ahih manin, Israel mite' mai-ah { Topa } in a suksiat minamte sangin amaute a sia tamzaw gamta-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
 ### v10
 **EN:** And the
 
-**TDB77:** Topa in Manasseh tung leh ama mite tungah thu gen a, ahih hangin amaute in don lo uh hi.
+**TDB77:** Topa in Manasseh tung leh ama mite tungah thu gen a, ahih hangin amaute in don lo-te hi.
 
-**ZVS:** { Topa } in Manasseh tung leh ama mite tungah thu gen a, ahih hangin amaute in donlo uh hi.
+**ZVS:** { Topa } in Manasseh tung leh ama mite tungah thu gen a, ahih hangin amaute in donlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v11
 **EN:** Wherefore the
 
-**TDB77:** Tua ciangin Topa in Assiria kumpipa’ galkap ukte amau kiangah paipih a, amaute in sikkawite tawh Manasseh manin sumngo khau tawh khihin Babilon ah paipih uh hi.
+**TDB77:** Tua ciangin Topa in Assiria kumpipa’ galkap ukte amau kiangah paipih a, amaute in sikkawite tawh Manasseh manin sumngo khau tawh khihin Babilon ah paipih-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa } in Assiria kumpipa' galkap ukte amau' kiangah paipih a, amaute in sikkawite tawh Manasseh manin sumngo khau tawh khihin Babylon-ah a paipih uh hi.
+**ZVS:** Tua ahih ciangin { Topa } in Assiria kumpipa' galkap ukte amau' kiangah paipih a, amaute in sikkawite tawh Manasseh manin sumngo khau tawh khihin Babylon-ah a paipih-te hi.
 
 **Grammar:** sequence: then/therefore | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -159,9 +159,9 @@
 ### v17
 **EN:** Nevertheless the people did sacrifice still in the high places, yet unto the
 
-**TDB77:** Ahi zongin mite in mual dawn-a biak piaknate ah biakna pia lai uh a, ahih hangin Topa amaute’ Pasian tung bekah biakna pia uh hi.
+**TDB77:** Ahi zongin mite in mual dawn-a biak piaknate ah biakna pia lai-te a, ahih hangin Topa amaute’ Pasian tung bekah biakna pia-te hi.
 
-**ZVS:** Ahi zongin mite in mual dawna biakpiaknate-ah biakna pia lai uh a, ahih hangin { Topa } amaute' Pasian' tung bek mahah a piak uh ahi hi.
+**ZVS:** Ahi zongin mite in mual dawna biakpiaknate-ah biakna pia lai-te a, ahih hangin { Topa } amaute' Pasian' tung bek mahah a piak-te ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -186,9 +186,9 @@
 ### v20
 **EN:** So Manasseh slept with his fathers, and they buried him in his own house: and Amon his son reigned in his stead.
 
-**TDB77:** Tua ahih ciangin Manasseh a pate tawh ihmu a, amaute in a inn sungah amah vui uh hi; tua ciangin a tapa Amon in ama tangin uk hi.
+**TDB77:** Tua ahih ciangin Manasseh a pate tawh ihmu a, amaute in a inn sungah amah vui-te hi; tua ciangin a tapa Amon in ama tangin uk hi.
 
-**ZVS:** Tua ciangin Manasseh si a, amaute in a inn sungah vui uh hi. Tua ciangin a tapa Amon in ama tangin a uk hi.
+**ZVS:** Tua ciangin Manasseh si a, amaute in a inn sungah vui-te hi. Tua ciangin a tapa Amon in ama tangin a uk hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -220,16 +220,16 @@
 ### v24
 **EN:** And his servants conspired against him, and slew him in his own house.
 
-**TDB77:** Tua ciangin ama nasemte in amah sawmsimin ama inn sungah amah that uh hi.
+**TDB77:** Tua ciangin ama nasemte in amah sawmsimin ama inn sungah amah that-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v25
 **EN:** But the people of the land slew all them that had conspired against king Amon; and the people of the land made Josiah his son king in his stead.
 
-**TDB77:** Ahih hangin tua gam mite in Kumpi Amon a sawmsim khempeuh that uh hi; tua ciangin tua gam mite in ama tangin a tapa Josiah kumpi-in koih uh hi.
+**TDB77:** Ahih hangin tua gam mite in Kumpi Amon a sawmsim khempeuh that-te hi; tua ciangin tua gam mite in ama tangin a tapa Josiah kumpi-in koih-te hi.
 
-**ZVS:** Ahih hangin tua gam mite in Kumpi Amon a sawmsim khempeuh that leuleu uh hi. Tua ciangin tua gam mite in ama tangin a tapa Josiah kumpi-in a koih uh hi.
+**ZVS:** Ahih hangin tua gam mite in Kumpi Amon a sawmsim khempeuh that leuleu-te hi. Tua ciangin tua gam mite in ama tangin a tapa Josiah kumpi-in a koih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

@@ -27,9 +27,9 @@
 ### v1
 **EN:** Paul, and Silvanus, and Timothy, unto the church of the Thessalonians in God our Father and the Lord Jesus Christ:
 
-**TDB77:** Paul, Silvanas leh Timoti te in i Pa Pasian leh Topa Zeisu Khazih sungah kip-a a om Thesalonika pawlpi kong zasak uh hi.
+**TDB77:** Paul, Silvanas leh Timoti te in i Pa Pasian leh Topa Zeisu Khazih sungah kip-a a om Thesalonika pawlpi kong zasak-te hi.
 
-**ZVS:** Keimah Paul, leh Silas, leh Timoti-te in—- Pasian leh Topa Jesuh Khrih sungah a om, Thesalonika khua-a om pawlpimite tungah lai ka hong khak uh hi.
+**ZVS:** Keimah Paul, leh Silas, leh Timoti-te in—- Pasian leh Topa Jesuh Khrih sungah a om, Thesalonika khua-a om pawlpimite tungah lai ka hong khak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -45,18 +45,18 @@
 ### v3
 **EN:** We are bound to thank God always for you, brethren, as it is meet, because that your faith groweth exceedingly, and the charity of every one of you all toward each other aboundeth;
 
-**TDB77:** Ute naute aw, na upna uh khang mahmahin, note khempeuh khat leh khat na ki-itna uh zong khang ahih ciangin, kote in hih ding a kilawm bangin note hangin Pasian’ hehpihna ka phat tawntung uh hi.
+**TDB77:** Ute naute aw, na upna-te khang mahmahin, note khempeuh khat leh khat na ki-itna-te zong khang ahih ciangin, kote in hih ding a kilawm bangin note hangin Pasian’ hehpihna ka phat tawntung-te hi.
 
-**ZVS:** Sanggamte aw, note' upna nakpi takin khang a, note khatlekhat na ki-itna uh lian semsem ahih manin Pasian tungah lungdamna kohding a kilawm ahih mah bangin, note hangin ama tungah lungdamna ka ko tawntung uh hi.
+**ZVS:** Sanggamte aw, note' upna nakpi takin khang a, note khatlekhat na ki-itna-te lian semsem ahih manin Pasian tungah lungdamna kohding a kilawm ahih mah bangin, note hangin ama tungah lungdamna ka ko tawntung-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** So that we ourselves glory in you in the churches of God for your patience and faith in all your persecutions and tribulations that ye endure:
 
-**TDB77:** Tua ahih ciangin note in bawlsiatna khempeuh ahi zongin, na thuak uh gimna ahi zongin, thuakzawhna leh upna na neih uh kote in ngaihsunin, Pasian’ pawlpi lakah note hangin ka kisathei uh hi.
+**TDB77:** Tua ahih ciangin note in bawlsiatna khempeuh ahi zongin, na thuak-te gimna ahi zongin, thuakzawhna leh upna na neih-te kote in ngaihsunin, Pasian’ pawlpi lakah note hangin ka kisathei-te hi.
 
-**ZVS:** Bawlsiatna leh gimna na thuakna khempeuh uhah na upna uh khahsuah loin thuakzo paisuak na hih manun midangte kiangah Pasian' pawlpi ka na kisialhpih uh hi.
+**ZVS:** Bawlsiatna leh gimna na thuakna khempeuh uhah na upna-te khahsuah loin thuakzo paisuak na hih manun midangte kiangah Pasian' pawlpi ka na kisialhpih-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -65,7 +65,7 @@
 
 **TDB77:** Note in Pasian’ Gam hangin gimna thuakin, tua Gam tawh a kilawm mi-in hong simna thu na ngah nadingun, thuman tawh Pasian’ thukhenna tua bangin a kilang hi.
 
-**ZVS:** Tu-a na thuaknate uh hangin Pasian' Ukna sungah a om dingin a kilawm mi suak na hih manun Pasian' thukhenna a man ahihna hong kilangsak hi.
+**ZVS:** Tu-a na thuaknate-te hangin Pasian' Ukna sungah a om dingin a kilawm mi suak na hih manun Pasian' thukhenna a man ahihna hong kilangsak hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -93,25 +93,25 @@
 ### v10
 **EN:** When he shall come to be glorified in his saints, and to be admired in all them that believe (because our testimony among you was believed) in that day.
 
-**TDB77:** Ama mite khempeuh leh thu um mite khempeuh hangin minthan'na leh pahtawina a ngah dingin Topa hong pai Ni ciangin a noptuak mahmah Topa' minthan'na huamsung panin amaute kihawlkhia ding a, tawntung suksiatna dan a thuak ding uh hi. Ahi zongin note in ka hong gen uh thute um na hih manun tua nopna sungah na om ding uh hi.
+**TDB77:** Ama mite khempeuh leh thu um mite khempeuh hangin minthan'na leh pahtawina a ngah dingin Topa hong pai Ni ciangin a noptuak mahmah Topa' minthan'na huamsung panin amaute kihawlkhia ding a, tawntung suksiatna dan a thuak ding-te hi. Ahi zongin note in ka hong gen-te thute um na hih manun tua nopna sungah na om ding-te hi.
 
 **Grammar:** intensifier: very/greatly | hortative: let us | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Wherefore also we pray always for you, that our God would count you worthy of this calling, and fulfil all the good pleasure of his goodness, and the work of faith with power:
 
-**TDB77:** Tua ahih ciangin i Pasian leh Topa Zeisu Khazih’ hehpihna thupha tawh kizui-in tua i Topa Zeisu’ min in note hangin vangliatna a ngah nading ahi zongin, note in zong tua Topa hangin vangliatna na ngah nading uh ahi zongin note in hong sapna thupha a ngah ding a kilawm mi ci-in eite Pasian in hong ciamtehin,
+**TDB77:** Tua ahih ciangin i Pasian leh Topa Zeisu Khazih’ hehpihna thupha tawh kizui-in tua i Topa Zeisu’ min in note hangin vangliatna a ngah nading ahi zongin, note in zong tua Topa hangin vangliatna na ngah nading-te ahi zongin note in hong sapna thupha a ngah ding a kilawm mi ci-in eite Pasian in hong ciamtehin,
 
-**ZVS:** Tua ahih manin ama hong sapna tawh a kilawm a kituak nuntakna na nuntak theihna ding uh leh ama vangliatna tawh a hoih na hihnop khempeuh uh hihzo-in, na upna uh hangin na khempeuh na zawhtheihna dingun Pasian kiangah thu ka hong ngetsak tawntung uh hi.
+**ZVS:** Tua ahih manin ama hong sapna tawh a kilawm a kituak nuntakna na nuntak theihna ding-te leh ama vangliatna tawh a hoih na hihnop khempeuh-te hihzo-in, na upna-te hangin na khempeuh na zawhtheihna dingun Pasian kiangah thu ka hong ngetsak tawntung-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v12
 **EN:** That the name of our Lord Jesus Christ may be glorified in you, and ye in him, according to the grace of our God and the Lord Jesus Christ.
 
-**TDB77:** hoihna tawh kipawl deihna khempeuh leh upna tawh kipawl gamtatna khempeuh a vangliatna tawh a kicin’ nadingin kote in note ading thu ka hong ngetsak tawntung uh hi.
+**TDB77:** hoihna tawh kipawl deihna khempeuh leh upna tawh kipawl gamtatna khempeuh a vangliatna tawh a kicin’ nadingin kote in note ading thu ka hong ngetsak tawntung-te hi.
 
-**ZVS:** Tua hi leh, eite' Pa Pasian leh Topa Jesuh Khrih hong hehpihna hangin note in ama tung panin minthan'na ngahin, ama min zong a thangsak na hi ding uh hi.
+**ZVS:** Tua hi leh, eite' Pa Pasian leh Topa Jesuh Khrih hong hehpihna hangin note in ama tung panin minthan'na ngahin, ama min zong a thangsak na hi ding-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

@@ -60,18 +60,18 @@
 ### v6
 **EN:** We have sinned with our fathers, we have committed iniquity, we have done wickedly.
 
-**TDB77:** Ka pate uh leh kote ka khial khin uh hi; mawhna ka bawl khin uh a, ka gitloh gamtat khin uh hi.
+**TDB77:** Ka pate-te leh kote ka khial khin-te hi; mawhna ka bawl khin-te a, ka gitloh gamtat khin-te hi.
 
-**ZVS:** Ka pu ka pate uha kipan kote ka khial khin uh hi. Mawhna ka bawl khin uh a, ka gilo gamtat khin uh hi.
+**ZVS:** Ka pu ka pate uha kipan kote ka khial khin-te hi. Mawhna ka bawl khin-te a, ka gilo gamtat khin-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
 ### v7
 **EN:** Our fathers understood not thy wonders in Egypt; they remembered not the multitude of thy mercies; but provoked him at the sea, even at the Red sea.
 
-**TDB77:** Ka pate un Izipt gamah a om lai-un nangma nasepna lamdangte ngaihsun lo uh hi; nangma itna kip a tampite phawk lo uh a, San Tuipi-ah Sang Penpa hong lehdo uh hi.
+**TDB77:** Ka pate un Izipt gamah a om lai-un nangma nasepna lamdangte ngaihsun lo-te hi; nangma itna kip a tampite phawk lo-te a, San Tuipi-ah Sang Penpa hong lehdo-te hi.
 
-**ZVS:** Ka pu ka pate un Egypt gamah a om lai-un nangma nasepna a lamdangte ngaihsunlo uh hi. Na itna kip a tampite phawklo uh a, San Tuipi-ah Sangpenpa hong lehdo uh hi.
+**ZVS:** Ka pu ka pate un Egypt gamah a om lai-un nangma nasepna a lamdangte ngaihsunlo-te hi. Na itna kip a tampite phawklo-te a, San Tuipi-ah Sangpenpa hong lehdo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -103,36 +103,36 @@
 ### v11
 **EN:** And the waters covered their enemies: there was not one of them left.
 
-**TDB77:** Tui in amau’ langte tummang a, amaute a suakta khat zong om lo uh hi.
+**TDB77:** Tui in amau’ langte tummang a, amaute a suakta khat zong om lo-te hi.
 
-**ZVS:** Tui in amau' langte tuummang khin a, amaute a suakta khat zong omlo uh hi.
+**ZVS:** Tui in amau' langte tuummang khin a, amaute a suakta khat zong omlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v12
 **EN:** Then believed they his words; they sang his praise.
 
-**TDB77:** Tua ciangin amaute in ama thu um uh a, amah phatna sa uh hi.
+**TDB77:** Tua ciangin amaute in ama thu um-te a, amah phatna sa-te hi.
 
-**ZVS:** Tua ciangin amaute in ama thu um uh a, amah phatna la a sa uh hi.
+**ZVS:** Tua ciangin amaute in ama thu um-te a, amah phatna la a sa-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v13
 **EN:** They soon forgat his works; they waited not for his counsel:
 
-**TDB77:** Ahih hangin amaute in ama nasepte mangngilh pah uh a, ama thugen ding ngak loin gamta pah uh hi.
+**TDB77:** Ahih hangin amaute in ama nasepte mangngilh pah-te a, ama thugen ding ngak loin gamta pah-te hi.
 
-**ZVS:** Ahih hangin amaute in ama nasepte mangngilh pah uh a, ama thugen ding ngakloin a gamta pah uh hi.
+**ZVS:** Ahih hangin amaute in ama nasepte mangngilh pah-te a, ama thugen ding ngakloin a gamta pah-te hi.
 
 **Grammar:** punctual: immediately/suddenly | plural: uh marker
 
 ### v14
 **EN:** But lusted exceedingly in the wilderness, and tempted God in the desert.
 
-**TDB77:** Ahih hangin amaute in gamlak ah deihluat mahmah na nei uh a, sehnel gam sungah Pasian ze-et uh hi;
+**TDB77:** Ahih hangin amaute in gamlak ah deihluat mahmah na nei-te a, sehnel gam sungah Pasian ze-et-te hi;
 
-**ZVS:** Ahih hangin amaute in gamlakah duhluat mahmahna nei uh a, sehnel gamsungah Pasian a ze-et uh hi.
+**ZVS:** Ahih hangin amaute in gamlakah duhluat mahmahna nei-te a, sehnel gamsungah Pasian a ze-et-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
@@ -146,9 +146,9 @@
 ### v16
 **EN:** They envied Moses also in the camp, and Aaron the saint of the
 
-**TDB77:** Giahphual-ah, mite in Moses leh Topa’ mi siangtho Aaron a hazat uh ciangin,
+**TDB77:** Giahphual-ah, mite in Moses leh Topa’ mi siangtho Aaron a hazat-te ciangin,
 
-**ZVS:** Gamlakah Moses leh { Topa' } mi siangtho Aaron a hazat uh ciangin,
+**ZVS:** Gamlakah Moses leh { Topa' } mi siangtho Aaron a hazat-te ciangin,
 
 ### v17
 **EN:** The earth opened and swallowed up Dathan, and covered the company of Abiram.
@@ -169,25 +169,25 @@
 ### v19
 **EN:** They made a calf in Horeb, and worshipped the molten image.
 
-**TDB77:** Amaute in Horeb gam sungah bawngno khat bawl uh a, a kisung tua milim bia uh hi.
+**TDB77:** Amaute in Horeb gam sungah bawngno khat bawl-te a, a kisung tua milim bia-te hi.
 
-**ZVS:** Amaute in Horeb gamsungah bawngno khat bawl uh a, a kisung tua milim a bia uh hi.
+**ZVS:** Amaute in Horeb gamsungah bawngno khat bawl-te a, a kisung tua milim a bia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** Thus they changed their glory into the similitude of an ox that eateth grass.
 
-**TDB77:** Amaute in Pasian’ minthan’na pen, lopa a ne bawngtal lim tawh kheekna uh hi.
+**TDB77:** Amaute in Pasian’ minthan’na pen, lopa a ne bawngtal lim tawh kheekna-te hi.
 
-**ZVS:** Amaute in Pasian' minthan'na pen lopa a ne bawngtal lim tawh a khek uh hi.
+**ZVS:** Amaute in Pasian' minthan'na pen lopa a ne bawngtal lim tawh a khek-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** Wondrous works in the land of Ham, and terrible things by the Red sea.
 
-**TDB77:** Amaute in Egypt gamsungah na lianpite a bawl, Ham' gamsungah na lamdangte leh San Tuipi-ah a kihtakhuai nate a bawl, amau' Honpa, Pasian mangngilh uh hi.
+**TDB77:** Amaute in Egypt gamsungah na lianpite a bawl, Ham' gamsungah na lamdangte leh San Tuipi-ah a kihtakhuai nate a bawl, amau' Honpa, Pasian mangngilh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -203,18 +203,18 @@
 ### v24
 **EN:** Yea, they despised the pleasant land, they believed not his word:
 
-**TDB77:** Amaute in gamnuam simmawh uh a, ama thuciamna um lo uh hi.
+**TDB77:** Amaute in gamnuam simmawh-te a, ama thuciamna um lo-te hi.
 
-**ZVS:** Amaute in gam nuam simmawh uh a, ama thuciamna umlo uh hi.
+**ZVS:** Amaute in gam nuam simmawh-te a, ama thuciamna umlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v25
 **EN:** But murmured in their tents, and hearkened not unto the voice of the
 
-**TDB77:** Amaute a puanbuk sung uh-ah phun uh a, Topa’ thu ngai lo uh hi.
+**TDB77:** Amaute a puanbuk sung uh-ah phun-te a, Topa’ thu ngai lo-te hi.
 
-**ZVS:** Amaute a puanbuk sung uhah phun niloh uh a, { Topa' } thu ngailo uh hi.
+**ZVS:** Amaute a puanbuk sung uhah phun niloh-te a, { Topa' } thu ngailo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -228,18 +228,18 @@
 ### v28
 **EN:** They joined themselves also unto Baal–peor, and ate the sacrifices of the dead.
 
-**TDB77:** Tua ciangin amaute in Peor mun-a Baal pasian beel uh a, nuntakna a nei lote tunga biakna kipiate a ne uh hi;
+**TDB77:** Tua ciangin amaute in Peor mun-a Baal pasian beel-te a, nuntakna a nei lote tunga biakna kipiate a ne-te hi;
 
-**ZVS:** Tua ciangin amaute in Peor-a Baal pasian bel uh a, nuntakna a neilote tungah biakna-in a kipia sate a ne uh hi.
+**ZVS:** Tua ciangin amaute in Peor-a Baal pasian bel-te a, nuntakna a neilote tungah biakna-in a kipia sate a ne-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** Thus they provoked him to anger with their inventions: and the plague brake in upon them.
 
-**TDB77:** amau’ gamtatna tawh Topa’ heh nading piangsak uh a, amaute lakah pulnatna hong tung hi.
+**TDB77:** amau’ gamtatna tawh Topa’ heh nading piangsak-te a, amaute lakah pulnatna hong tung hi.
 
-**ZVS:** Amau' gamtatna tawh { Topa' } hehna ding piangsak uh a, amaute' lakah pulnatna hong tung hi.
+**ZVS:** Amau' gamtatna tawh { Topa' } hehna ding piangsak-te a, amaute' lakah pulnatna hong tung hi.
 
 **Grammar:** causative: -sak suffix | plural: uh marker
 
@@ -264,61 +264,61 @@
 ### v33
 **EN:** Because they provoked his spirit, so that he spake unadvisedly with his lips.
 
-**TDB77:** Amaute in Meribah tuiphualah amah sinso sakin, amah a langpang uh hi. Thakhatin kamguh a paukha Moses in amaute' huhau-in siatna a ngahlawh hi.
+**TDB77:** Amaute in Meribah tuiphualah amah sinso sakin, amah a langpang-te hi. Thakhatin kamguh a paukha Moses in amaute' huhau-in siatna a ngahlawh hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v34
 **EN:** They did not destroy the nations, concerning whom the
 
-**TDB77:** Topa in amaute a thupiak bangin, amaute in tua mite that lo uh hi.
+**TDB77:** Topa in amaute a thupiak bangin, amaute in tua mite that lo-te hi.
 
-**ZVS:** { Topa } in amaute a thupiak bangin amaute in tua mite thatlo uh hi.
+**ZVS:** { Topa } in amaute a thupiak bangin amaute in tua mite thatlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v35
 **EN:** But were mingled among the heathen, and learned their works.
 
-**TDB77:** Minam dangte tawh kihelin amau gamtat bangbang a gamta dingin kisin uh hi.
+**TDB77:** Minam dangte tawh kihelin amau gamtat bangbang a gamta dingin kisin-te hi.
 
-**ZVS:** Minam dangte tawh kihelin amau' gamtat bangbang a gamta dingin a kisin uh hi.
+**ZVS:** Minam dangte tawh kihelin amau' gamtat bangbang a gamta dingin a kisin-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v36
 **EN:** And they served their idols: which were a snare unto them.
 
-**TDB77:** Amau adingin thangzak ahi, amau milimte’ na seppih uh hi.
+**TDB77:** Amau adingin thangzak ahi, amau milimte’ na seppih-te hi.
 
-**ZVS:** Amau-a' dingin thangzak ahi amau' milimte a biakpih uh hi.
+**ZVS:** Amau-a' dingin thangzak ahi amau' milimte a biakpih-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v37
 **EN:** Yea, they sacrificed their sons and their daughters unto devils,
 
-**TDB77:** Amaute in, a tapate uh leh a tanute uh dawi biakna-in nei uh hi;
+**TDB77:** Amaute in, a tapate-te leh a tanute-te dawi biakna-in nei-te hi;
 
-**ZVS:** Amaute in a tapate uh leh a tanute uh dawi biakna-in a nei uh hi.
+**ZVS:** Amaute in a tapate-te leh a tanute-te dawi biakna-in a nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v38
 **EN:** And shed innocent blood, even the blood of their sons and of their daughters, whom they sacrificed unto the idols of Canaan: and the land was polluted with blood.
 
-**TDB77:** amaute in, Kanaan gam milimte a biakna-un, mawhna nei lo a tanute uh leh a tapate uh that uh a, hih mi thahna hangin gamsung a nin a suak hi.
+**TDB77:** amaute in, Kanaan gam milimte a biakna-un, mawhna nei lo a tanute-te leh a tapate-te that-te a, hih mi thahna hangin gamsung a nin a suak hi.
 
-**ZVS:** Amaute in Kanaan gam milimte a biakna-un mawhna neilo a tanute uh leh a tapate uh that uh a, hih mi thahna hangin gamsung a nin a suak hi.
+**ZVS:** Amaute in Kanaan gam milimte a biakna-un mawhna neilo a tanute-te leh a tapate-te that-te a, hih mi thahna hangin gamsung a nin a suak hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v39
 **EN:** Thus were they defiled with their own works, and went a whoring with their own inventions.
 
-**TDB77:** Tua ahih ciangin amau sepna tawh amaute a nin suak uh a, amau gamtatnate tawh palhngulhna a bawl uh hi.
+**TDB77:** Tua ahih ciangin amau sepna tawh amaute a nin suak-te a, amau gamtatnate tawh palhngulhna a bawl-te hi.
 
-**ZVS:** Tua ahih ciangin amau' sepna tawh amaute a nin suak uh a, amau' gamtatnate tawh palhngulhna a bawl uh hi.
+**ZVS:** Tua ahih ciangin amau' sepna tawh amaute a nin suak-te a, amau' gamtatnate tawh palhngulhna a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -343,18 +343,18 @@
 ### v42
 **EN:** Their enemies also oppressed them, and they were brought into subjection under their hand.
 
-**TDB77:** A galte un amaute nengniam uh a, amau’ khut nuai-ah koih uh hi.
+**TDB77:** A galte un amaute nengniam-te a, amau’ khut nuai-ah koih-te hi.
 
-**ZVS:** A galte un amaute nengniam uh a, amau' khutnuai-ah amaute a koih uh hi.
+**ZVS:** A galte un amaute nengniam-te a, amau' khutnuai-ah amaute a koih-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v43
 **EN:** Many times did he deliver them; but they provoked him with their counsel, and were brought low for their iniquity.
 
-**TDB77:** Amah in amaute tam veipi honkhia hi; ahih hangin amaute in lehdona lungsim vom uh a, amau mawhna hangin amaute kiniam koih hi.
+**TDB77:** Amah in amaute tam veipi honkhia hi; ahih hangin amaute in lehdona lungsim vom-te a, amau mawhna hangin amaute kiniam koih hi.
 
-**ZVS:** Amah in amaute tam veipi honkhia hi. Ahih hangin amaute in lehdona lungsim vom uh a, amau' mawhna hangin amaute a kiniamkoih hi.
+**ZVS:** Amah in amaute tam veipi honkhia hi. Ahih hangin amaute in lehdona lungsim vom-te a, amau' mawhna hangin amaute a kiniamkoih hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -388,18 +388,18 @@
 ### v47
 **EN:** Save us, O
 
-**TDB77:** Topa, kote’ Pasian aw, kote hong hon in la, nangma min siangtho kong phat theih nading uh leh nangma tungah lungdamna kong koh theih nadingun, minamte lak panin kote hong kaikhawm kik in.
+**TDB77:** Topa, kote’ Pasian aw, kote hong hon in la, nangma min siangtho kong phat theih nading-te leh nangma tungah lungdamna kong koh theih nadingun, minamte lak panin kote hong kaikhawm kik in.
 
-**ZVS:** { Topa, } kote' Pasian aw, kote hong hon in la, nangma min siangtho kong phat theihna ding uh leh nangma tungah lungdamna kong koh theihna dingun minam dangte' lak panin kote hong kaikhawmkik in.
+**ZVS:** { Topa, } kote' Pasian aw, kote hong hon in la, nangma min siangtho kong phat theihna ding-te leh nangma tungah lungdamna kong koh theihna dingun minam dangte' lak panin kote hong kaikhawmkik in.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v48
 **EN:** Blessed be the
 
-**TDB77:** Topa, Israel Pasian in, a tawntung a kipan a tawntung dongin thupha ngah ta hen! Mi khempeuh in, “Amen” ci ta uh hen! Topa phat un!
+**TDB77:** Topa, Israel Pasian in, a tawntung a kipan a tawntung dongin thupha ngah ta hen! Mi khempeuh in, “Amen” ci ta-te hen! Topa phat un!
 
-**ZVS:** { Topa, } Israel Pasian in a tawntung-a kipan a tawntung dongin thupha ngah ta hen. Mi khempeuh in, “Amen,” ci ta uh hen. { Topa } phat un.
+**ZVS:** { Topa, } Israel Pasian in a tawntung-a kipan a tawntung dongin thupha ngah ta hen. Mi khempeuh in, “Amen,” ci ta-te hen. { Topa } phat un.
 
 **Grammar:** reciprocal: ki- prefix
 

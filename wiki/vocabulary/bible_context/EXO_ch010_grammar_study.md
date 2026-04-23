@@ -46,42 +46,42 @@
 ### v5
 **EN:** And they shall cover the face of the earth, that one cannot be able to see the earth: and they shall eat the residue of that which is escaped, which remaineth unto you from the hail, and shall eat every tree which groweth for you out of the field:
 
-**TDB77:** kuamah in leitang a muh theihlohna dingin tuate in lei maitang khempeuh tuam ding uh hi. Gialpi khit cianga nang-a' dinga a omlai sunte amaute in ne ding uh hi. Tuate in gamlaka a po nangma singkung khempeuh ne ding uh a,
+**TDB77:** kuamah in leitang a muh theihlohna dingin tuate in lei maitang khempeuh tuam ding-te hi. Gialpi khit cianga nang-a' dinga a omlai sunte amaute in ne ding-te hi. Tuate in gamlaka a po nangma singkung khempeuh ne ding-te a,
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v6
 **EN:** And they shall fill thy houses, and the houses of all thy servants, and the houses of all the Egyptians; which neither thy fathers, nor thy fathers' fathers have seen, since the day that they were upon the earth unto this day. And he turned himself, and went out from Pharaoh.
 
-**TDB77:** nangma innte leh na nasemte khempeuh leh Egypt mite' inn khempeuhah dim ding uh hi. Na pu na pate uh leitang tungah a pian' uha kipan tuni donga tua bang a muh ngeilohte uh hi ding hi,’ ci hi,” ci-in a gen hi. Tua ciangin amah kihei-in Faro' kiang panin a paikhia hi.
+**TDB77:** nangma innte leh na nasemte khempeuh leh Egypt mite' inn khempeuhah dim ding-te hi. Na pu na pate-te leitang tungah a pian' uha kipan tuni donga tua bang a muh ngeilohte-te hi ding hi,’ ci hi,” ci-in a gen hi. Tua ciangin amah kihei-in Faro' kiang panin a paikhia hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And Pharaoh's servants said unto him, How long shall this man be a snare unto us? let the men go, that they may serve the
 
-**TDB77:** Faro' nasemte in ama kiangah, “Eite tungah hih mipa bang tanvei thangzak hong hi niloh ding ahi hiam? Amaute in amau' Pasian, { Topa } a biak theihna dingun mite paisak in. Egypt a siatna theitel nailo na hi hiam?” a ci uh hi.
+**TDB77:** Faro' nasemte in ama kiangah, “Eite tungah hih mipa bang tanvei thangzak hong hi niloh ding ahi hiam? Amaute in amau' Pasian, { Topa } a biak theihna dingun mite paisak in. Egypt a siatna theitel nailo na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And Moses and Aaron were brought again unto Pharaoh: and he said unto them, Go, serve the
 
-**TDB77:** Tua ahih ciangin Faro kiangah Moses leh Aaron kipaipih kik hi. Faro in amaute kiangah, “Pai un; { Topa}, na Pasian uh va bia un. Ahi zongin kua teng pai ding na hi uh hiam?” a ci hi.
+**TDB77:** Tua ahih ciangin Faro kiangah Moses leh Aaron kipaipih kik hi. Faro in amaute kiangah, “Pai un; { Topa}, na Pasian-te va bia un. Ahi zongin kua teng pai ding na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
 ### v9
 **EN:** And Moses said, We will go with our young and with our old, with our sons and with our daughters, with our flocks and with our herds will we go; for we must hold a feast unto the
 
-**TDB77:** Moses in, “Ka khangnote uh leh ka khanghamte uh tawh ka paikhawm ding uh hi. Ka tapate uh, ka tanute uh, ka tuuhonte uh, leh ka bawnghonte uh tawh ka pai ding uh hi. Bang hang hiam cih leh { Topa}-a' dingin pawi khat ka kham ding uh hi,” a ci hi.
+**TDB77:** Moses in, “Ka khangnote-te leh ka khanghamte-te tawh ka paikhawm ding-te hi. Ka tapate uh, ka tanute uh, ka tuuhonte uh, leh ka bawnghonte-te tawh ka pai ding-te hi. Bang hang hiam cih leh { Topa}-a' dingin pawi khat ka kham ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | plural: uh marker
 
 ### v10
 **EN:** And he said unto them, Let the
 
-**TDB77:** Faro in amaute kiangah, “Note tawh na naupangte uh kong paisak taak leh note tawh { Topa } hong om ta ve! En un, note in ngimna hoihlo na nei uh hi.
+**TDB77:** Faro in amaute kiangah, “Note tawh na naupangte-te kong paisak taak leh note tawh { Topa } hong om ta ve! En un, note in ngimna hoihlo na nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -109,14 +109,14 @@
 ### v14
 **EN:** And the locusts went up over all the land of Egypt, and rested in all the coasts of Egypt: very grievous were they; before them there were no such locusts as they, neither after them shall be such.
 
-**TDB77:** Tua masiah kauphe hon tua banga a tam a om ngeilo, cikmah ciangin zong a omkik ngeilo ding, Egypt leitang tung khempeuhah kauphe hong om a, Egypt gam buppi-ah a dim uh hi.
+**TDB77:** Tua masiah kauphe hon tua banga a tam a om ngeilo, cikmah ciangin zong a omkik ngeilo ding, Egypt leitang tung khempeuhah kauphe hong om a, Egypt gam buppi-ah a dim-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** For they covered the face of the whole earth, so that the land was darkened; and they did eat every herb of the land, and all the fruit of the trees which the hail had left: and there remained not any green thing in the trees, or in the herbs of the field, through all the land of Egypt.
 
-**TDB77:** Bang hang hiam cih leh tuate in lei maitang khempeuh tuam uh a, leitang mial hi. Tuate in leitang tunga kung khempeuh leh gialpi' deen' baang singkung gah khempeuh ne uh hi. Egypt leitang tung khempeuhah gamlak singkung hita leh kungno hita leh a hing khat beek om nawnlo hi.
+**TDB77:** Bang hang hiam cih leh tuate in lei maitang khempeuh tuam-te a, leitang mial hi. Tuate in leitang tunga kung khempeuh leh gialpi' deen' baang singkung gah khempeuh ne-te hi. Egypt leitang tung khempeuhah gamlak singkung hita leh kungno hita leh a hing khat beek om nawnlo hi.
 
 **Grammar:** plural: uh marker
 
@@ -170,26 +170,26 @@
 ### v23
 **EN:** They saw not one another, neither rose any from his place for three days: but all the children of Israel had light in their dwellings.
 
-**TDB77:** Ni thum sung amau khatlekhat kimu theilo uh a, ama omna panin kuamah paikhia theilo hi. Ahih hangin Israel mite in amau' ten'na-ah khuavak nei uh hi.
+**TDB77:** Ni thum sung amau khatlekhat kimu theilo-te a, ama omna panin kuamah paikhia theilo hi. Ahih hangin Israel mite in amau' ten'na-ah khuavak nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And Pharaoh called unto Moses, and said, Go ye, serve the
 
-**TDB77:** Tua ciangin Faro in Moses samin, “Pai un, { Topa } va bia un; na tate uh zong note tawh hong pai thei ding hi. Na tuuhonte uh leh na bawnghonte uh omsak lai un,” a ci hi.
+**TDB77:** Tua ciangin Faro in Moses samin, “Pai un, { Topa } va bia un; na tate-te zong note tawh hong pai thei ding hi. Na tuuhonte-te leh na bawnghonte-te omsak lai un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will
 
 ### v25
 **EN:** And Moses said, Thou must give us also sacrifices and burnt offerings, that we may sacrifice unto the
 
-**TDB77:** Ahih hangin Moses in, “{ Topa } ka Pasian uh tungah ka piak theihna dingun biakpiakna leh meihal biakna kote nong neihsak kul hi.
+**TDB77:** Ahih hangin Moses in, “{ Topa } ka Pasian-te tungah ka piak theihna dingun biakpiakna leh meihal biakna kote nong neihsak kul hi.
 
 ### v26
 **EN:** Our cattle also shall go with us; there shall not an hoof be left behind; for thereof must we take to serve the
 
-**TDB77:** Ka ganhingte uh zong kote tawh a pai kul hi. Ganno khat zong kinusialo ding hi. Bang hang hiam cih leh { Topa } ka Pasian uh ka biakna dingun tuate ka paipih ding uh hi. A mun ka tun' matengun bang pen tawh { Topa } bia ding cih ka thei kei uh hi,” a ci hi.
+**TDB77:** Ka ganhingte-te zong kote tawh a pai kul hi. Ganno khat zong kinusialo ding hi. Bang hang hiam cih leh { Topa } ka Pasian-te ka biakna dingun tuate ka paipih ding-te hi. A mun ka tun' matengun bang pen tawh { Topa } bia ding cih ka thei kei-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

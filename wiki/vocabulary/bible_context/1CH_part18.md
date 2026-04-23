@@ -44,15 +44,15 @@
 
 ### tanh = lot/share/portion
 **Context:** Refers to the portion assigned by lot.
-**Example:** amau’ adingin a tanh uh om a
+**Example:** amau’ adingin a tanh-te om a
 
 ### kiim lononate = surrounding areas/suburbs
 **Context:** Areas adjacent to the main city.
 **Example:** Hebron leh a kiim lononate
 
-### pia uh a = they gave (and)
+### pia-te a = they gave (and)
 **Context:** Action of giving, connected to the next clause.
-**Example:** amaute tungah pia uh a
+**Example:** amaute tungah pia-te a
 
 ### ahih hangin = however/but
 **Context:** Contrastive conjunction.

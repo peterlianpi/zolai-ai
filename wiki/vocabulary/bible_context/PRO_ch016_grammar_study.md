@@ -62,7 +62,7 @@
 
 **TDB77:** Topa in akihisak mite mudah a, daan a thuak hamtang nading uh, thei in.
 
-**ZVS:** { Topa } in a kihisak mite mudah a, amaute in gimna thuak hamtang uh hi.
+**ZVS:** { Topa } in a kihisak mite mudah a, amaute in gimna thuak hamtang-te hi.
 
 ### v6
 **EN:** By mercy and truth iniquity is purged: and by the fear of the
@@ -115,16 +115,16 @@
 ### v12
 **EN:** It is an abomination to kings to commit wickedness: for the throne is established by righteousness.
 
-**TDB77:** Thuman-a gamtatna bek in kumpi kipsak ahih manin, asia-a gamtat ding kumpite ut lo uh hi.
+**TDB77:** Thuman-a gamtatna bek in kumpi kipsak ahih manin, asia-a gamtat ding kumpite ut lo-te hi.
 
-**ZVS:** Thumanin gamtatna bek in kumpi kipsak ahih manin a sia-a gamtat ding kumpite utlo uh hi.
+**ZVS:** Thumanin gamtatna bek in kumpi kipsak ahih manin a sia-a gamtat ding kumpite utlo-te hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Righteous lips are the delight of kings; and they love him that speaketh right.
 
-**TDB77:** Kumpite in thuman genna deih uh a, thuman a gen mite it uh hi.
+**TDB77:** Kumpite in thuman genna deih-te a, thuman a gen mite it-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -154,7 +154,7 @@
 
 **TDB77:** Mihoihte in siatna tawh a kipelh ding lampi tawn a, a lampi tot limtak-a a ngaihsun mi in a nuntakna a hu ahi hi.
 
-**ZVS:** Mihoihte in siatna tawh a kipelh ding lampi tawn uh a, a lampi tot ding limtakin a ngaihsun mi in a nuntakna a hu ahi hi.
+**ZVS:** Mihoihte in siatna tawh a kipelh ding lampi tawn-te a, a lampi tot ding limtakin a ngaihsun mi in a nuntakna a hu ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -186,9 +186,9 @@
 ### v21
 **EN:** The wise in heart shall be called prudent: and the sweetness of the lips increaseth learning.
 
-**TDB77:** Lungsim pilte in thu muhna tawh kam pau uh a, amau’ kam khumna, zaknophuai kisa semsem hi.
+**TDB77:** Lungsim pilte in thu muhna tawh kam pau-te a, amau’ kam khumna, zaknophuai kisa semsem hi.
 
-**ZVS:** Lungsim pilte thumuhna tawh kampau uh a, amau' kam khumna zaknophuai kisa semsem hi.
+**ZVS:** Lungsim pilte thumuhna tawh kampau-te a, amau' kam khumna zaknophuai kisa semsem hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -204,9 +204,9 @@
 ### v23
 **EN:** The heart of the wise teacheth his mouth, and addeth learning to his lips.
 
-**TDB77:** Mipilte in thu ngaihsun kawmin kam pau uh a, amau’ pauna zaknophuai semsem hi.
+**TDB77:** Mipilte in thu ngaihsun kawmin kam pau-te a, amau’ pauna zaknophuai semsem hi.
 
-**ZVS:** Mipilte in thu ngaihsun kawmin kam pau uh a, amau' pauna zaknophuai semsem hi.
+**ZVS:** Mipilte in thu ngaihsun kawmin kam pau-te a, amau' pauna zaknophuai semsem hi.
 
 **Grammar:** plural: uh marker
 
@@ -236,9 +236,9 @@
 ### v27
 **EN:** An ungodly man diggeth up evil: and in his lips there is as a burning fire.
 
-**TDB77:** Migilote in siat nading bek zongzong a, a kampaunate uh na a kangtum thei meikuang tawh kibang hi.
+**TDB77:** Migilote in siat nading bek zongzong a, a kampaunate-te na a kangtum thei meikuang tawh kibang hi.
 
-**ZVS:** Migilote in siatna ding bek zongzong uh a, a kampaunate uh na a kangtumthei meikuang tawh kibang hi.
+**ZVS:** Migilote in siatna ding bek zongzong-te a, a kampaunate-te na a kangtumthei meikuang tawh kibang hi.
 
 **Grammar:** reciprocal: ki- prefix
 

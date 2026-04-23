@@ -111,9 +111,9 @@
 ### v11
 **EN:** And now, my daughter, fear not; I will do to thee all that thou requirest: for all the city of my people doth know that thou art a virtuous woman.
 
-**TDB77:** Tu-in ka tanu aw, lau kei in, na nget khempeuh nang adingin kong hih sak ding hi; bang hang hiam cih leh ka khuapih mite khempeuh in numei gina na hih lam thei uh hi.
+**TDB77:** Tu-in ka tanu aw, lau kei in, na nget khempeuh nang adingin kong hih sak ding hi; bang hang hiam cih leh ka khuapih mite khempeuh in numei gina na hih lam thei-te hi.
 
-**ZVS:** Tu-in ka tanu aw, lau kei in; na nget khempeuh nang-a' dingin kong hihsak ding hi. Bang hang hiam cih leh ka khuapih mite khempeuh in numei gina na hihlam hong thei uh hi.
+**ZVS:** Tu-in ka tanu aw, lau kei in; na nget khempeuh nang-a' dingin kong hihsak ding hi. Bang hang hiam cih leh ka khuapih mite khempeuh in numei gina na hihlam hong thei-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 

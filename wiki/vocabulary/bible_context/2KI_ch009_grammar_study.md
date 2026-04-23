@@ -63,9 +63,9 @@
 ### v5
 **EN:** And when he came, behold, the captains of the host were sitting; and he said, I have an errand to thee, O captain. And Jehu said, Unto which of all us? And he said, To thee, O captain.
 
-**TDB77:** Amah a tun’ ciangin, en in, galkap a ukte in thu kikupna nei uh hi; tua ciangin amah in, “Ukpa aw, nang tungah thugen ding khat ka nei hi,” a ci hi. Tua ciangin Jehu in, “Kote lakah kua tungah nei na hi hiam?” a ci hi. Tua ciangin amah in, “Nangma tung hi, ukpa aw,” a ci hi.
+**TDB77:** Amah a tun’ ciangin, en in, galkap a ukte in thu kikupna nei-te hi; tua ciangin amah in, “Ukpa aw, nang tungah thugen ding khat ka nei hi,” a ci hi. Tua ciangin Jehu in, “Kote lakah kua tungah nei na hi hiam?” a ci hi. Tua ciangin amah in, “Nangma tung hi, ukpa aw,” a ci hi.
 
-**ZVS:** Amah a tun' ciangin, galkap a ukte in thu kikupna na nei uh hi. Tua ciangin amah in, “A ukpa aw, nang tungah thugen ding khat ka nei hi,” a ci hi. Tua ciangin Jehu in, “Kote lakah kua' tungah nei na hi hiam?” a ci hi. Tua ciangin amah in, “Nangma tung hi, a ukpa aw,” a ci hi.
+**ZVS:** Amah a tun' ciangin, galkap a ukte in thu kikupna na nei-te hi. Tua ciangin amah in, “A ukpa aw, nang tungah thugen ding khat ka nei hi,” a ci hi. Tua ciangin Jehu in, “Kote lakah kua' tungah nei na hi hiam?” a ci hi. Tua ciangin amah in, “Nangma tung hi, a ukpa aw,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -74,7 +74,7 @@
 
 **TDB77:** Tua ahih ciangin amah ding-in inn sungah pai hi; tua ciangin tangvalpa in ama lu tungah a sathau sungin, ama kiangah, “Israel Pasian, Topa in hih bangin ci hi, Israel mite’ tung, Topa’ mite tungah kumpi-in nang sathau kong nilh hi.
 
-**ZVS:** Tua ahih ciangin amah dingin inn khat sungah a paikhawm uh hi. Tua ciangin tangvalpa in ama lu tungah a sathau sungin ama kiangah, “Israel Pasian, { Topa } in hih bangin ci hi: ‘Israel mite tung, { Topa' } mite tungah kumpi-in nang sathau kong nilh hi.
+**ZVS:** Tua ahih ciangin amah dingin inn khat sungah a paikhawm-te hi. Tua ciangin tangvalpa in ama lu tungah a sathau sungin ama kiangah, “Israel Pasian, { Topa } in hih bangin ci hi: ‘Israel mite tung, { Topa' } mite tungah kumpi-in nang sathau kong nilh hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -117,27 +117,27 @@
 ### v11
 **EN:** Then Jehu came forth to the servants of his lord: and one said unto him, Is all well? wherefore came this mad fellow to thee? And he said unto them, Ye know the man, and his communication.
 
-**TDB77:** A topa’ nasemte kiangah Jehu hong pusuah ciangin amaute in ama kiangah, “Thu khempeuh a hoih hiam? Bang hangin hih mi haipa nang kiangah hong pai ahi hiam?” a ci uh hi. Tua ciangin amah in amaute kiangah, “A mipa leh a thugen na thei uh hi,” a ci hi.
+**TDB77:** A topa’ nasemte kiangah Jehu hong pusuah ciangin amaute in ama kiangah, “Thu khempeuh a hoih hiam? Bang hangin hih mi haipa nang kiangah hong pai ahi hiam?” a ci-te hi. Tua ciangin amah in amaute kiangah, “A mipa leh a thugen na thei-te hi,” a ci hi.
 
-**ZVS:** A topa' nasemte kiangah Jehu hong pusuah ciangin amaute in ama kiangah, “Thu khempeuh a hoih hiam? Bang hangin hih mihaipa nang kiangah hong pai ahi hiam?” a ci uh hi. Tua ciangin amah in amaute kiangah, “A mipa leh a thugen na thei uh hi,” a ci hi.
+**ZVS:** A topa' nasemte kiangah Jehu hong pusuah ciangin amaute in ama kiangah, “Thu khempeuh a hoih hiam? Bang hangin hih mihaipa nang kiangah hong pai ahi hiam?” a ci-te hi. Tua ciangin amah in amaute kiangah, “A mipa leh a thugen na thei-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And they said, It is false; tell us now. And he said, Thus and thus spake he to me, saying, Thus saith the
 
-**TDB77:** Tua ciangin amaute in, “Tua thu ka thei kei uh hi; tu-in ko kiangah hong gen in,” a ci uh hi. Tua ciangin amah in, “Tua bang tua bangin amah in kei kiangah thu hong genin, ‘Topa in hih bangin ci hi, Israel tungah kumpi-in nang sathau kong nilh hi,’ hong ci hi,” a ci hi.
+**TDB77:** Tua ciangin amaute in, “Tua thu ka thei kei-te hi; tu-in ko kiangah hong gen in,” a ci-te hi. Tua ciangin amah in, “Tua bang tua bangin amah in kei kiangah thu hong genin, ‘Topa in hih bangin ci hi, Israel tungah kumpi-in nang sathau kong nilh hi,’ hong ci hi,” a ci hi.
 
-**ZVS:** Tua ciangin amaute in, “Tua thu ka thei kei uh hi. Tu-in ko kiangah hong gen in,” a ci uh hi. Tua ciangin amah in, “Tua bang tua bangin amah in kei kiangah thu hong genin, ‘{ Topa } in hih bangin ci hi: “Israel tungah kumpi-in nang sathau kong nilh hi,” ci hi,’ hong ci hi,” a ci hi.
+**ZVS:** Tua ciangin amaute in, “Tua thu ka thei kei-te hi. Tu-in ko kiangah hong gen in,” a ci-te hi. Tua ciangin amah in, “Tua bang tua bangin amah in kei kiangah thu hong genin, ‘{ Topa } in hih bangin ci hi: “Israel tungah kumpi-in nang sathau kong nilh hi,” ci hi,’ hong ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Then they hasted, and took every man his garment, and put it under him on the top of the stairs, and blew with trumpets, saying, Jehu is king.
 
-**TDB77:** Tua ciangin nawhsa-in mi khempeuh in a puan uh la-in ama din’ nadingin kahlei tungah koih uh a, tua ciangin amaute in peengkul tumin, “Jehu in kumpi hi,” ci-in tangko uh hi.
+**TDB77:** Tua ciangin nawhsa-in mi khempeuh in a puan-te la-in ama din’ nadingin kahlei tungah koih-te a, tua ciangin amaute in peengkul tumin, “Jehu in kumpi hi,” ci-in tangko-te hi.
 
-**ZVS:** Tua ciangin nawhsa-in mi khempeuh in a puan uh la-in ama din'na dingin kahlei tungah phah uh a, tua ciangin amaute in peengkul tumin, “Jehu, kumpi hi,” ci-in a taangko uh hi.
+**ZVS:** Tua ciangin nawhsa-in mi khempeuh in a puan-te la-in ama din'na dingin kahlei tungah phah-te a, tua ciangin amaute in peengkul tumin, “Jehu, kumpi hi,” ci-in a taangko-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -153,7 +153,7 @@
 ### v15
 **EN:** But king Joram was returned to be healed in Jezreel of the wounds which the Syrians had given him, when he fought with Hazael king of Syria.) And Jehu said, If it be your minds, then let none go forth nor escape out of the city to go to tell it in Jezreel.
 
-**TDB77:** ahih hangin Siria kumpi Hazael tawh a kido lai-in Siriate in amah a liamsakna mate Jezre-el ah a kidamsak dingin kumpi Joram ciahkik khin hi.) Tua ahih ciangin Jehu in, “Hih in na ngaihsutna uh tawh a kituah leh Jezre-el ah pai-in thu a va ko dingin khuapi panin kuamah paikhia sak kei un,” a ci hi.
+**TDB77:** ahih hangin Siria kumpi Hazael tawh a kido lai-in Siriate in amah a liamsakna mate Jezre-el ah a kidamsak dingin kumpi Joram ciahkik khin hi.) Tua ahih ciangin Jehu in, “Hih in na ngaihsutna-te tawh a kituah leh Jezre-el ah pai-in thu a va ko dingin khuapi panin kuamah paikhia sak kei un,” a ci hi.
 
 **ZVS:** Ahih hangin Syria kumpi Hazael tawh a kido lai-in Syria-te in amah a liamsakna mate Jezreel khua-ah a kidamsak dingin Kumpi Joram ciahkik khinta hi.) Tua ahih ciangin Jehu in a ulianpihte kiangah, “Kei hong pawlpih nuam peuhmah in, mi khatpeuh Jezreel-ah pai-in thu a va ko dingin hih khuapi panin kuamah a paikhiatkhak lohna ding thei un,” a ci hi.
 
@@ -207,9 +207,9 @@
 ### v21
 **EN:** And Joram said, Make ready. And his chariot was made ready. And Joram king of Israel and Ahaziah king of Judah went out, each in his chariot, and they went out against Jehu, and met him in the portion of Naboth the Jezreelite.
 
-**TDB77:** Joram in, “Kithawi un,” a ci hi. Tua ciangin amaute in a leeng kithawisak uh hi. Tua ciangin Israel kumpipa Joram leh Judah kumpipa Ahaziah, a sakol leeng tuak uhah tuangin dingkhia-in, Jehu dawntuah dingin pai uh a, Jezre-el mi Naboth’ leitangah amah tawh kituak uh hi.
+**TDB77:** Joram in, “Kithawi un,” a ci hi. Tua ciangin amaute in a leeng kithawisak-te hi. Tua ciangin Israel kumpipa Joram leh Judah kumpipa Ahaziah, a sakol leeng tuak uhah tuangin dingkhia-in, Jehu dawntuah dingin pai-te a, Jezre-el mi Naboth’ leitangah amah tawh kituak-te hi.
 
-**ZVS:** Tua ciangin Joram in, “Kithawi un,” a ci hi. Tua ciangin amaute in a leeng kithawisak uh hi. Tua ciangin Israel kumpipa Joram leh Judah kumpipa Ahaziah, a sakol leeng tuak uhah tuangin dingkhia uh a, Jehu a dawntuah dingin pai uh a, Jezreel mi Naboth' lo-ah amah tawh kituak uh hi.
+**ZVS:** Tua ciangin Joram in, “Kithawi un,” a ci hi. Tua ciangin amaute in a leeng kithawisak-te hi. Tua ciangin Israel kumpipa Joram leh Judah kumpipa Ahaziah, a sakol leeng tuak uhah tuangin dingkhia-te a, Jehu a dawntuah dingin pai-te a, Jezreel mi Naboth' lo-ah amah tawh kituak-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -261,18 +261,18 @@
 ### v27
 **EN:** But when Ahaziah the king of Judah saw this, he fled by the way of the garden house. And Jehu followed after him, and said, Smite him also in the chariot. And they did so at the going up to Gur, which is by Ibleam. And he fled to Megiddo, and died there.
 
-**TDB77:** Judah kumpipa Ahaziah in hih thu a muh ciangin Bethhaggan lamah tai hi. Tua ciangin Jehu in amah delhin, “Amah zong kap un,” a ci hi; tua ciangin amaute in Ibleam gei, Gur kahtohna san a leeng sungah amah kap uh hi. Ahi zongin amah Megiddo khuapi ciang dong tai zo lai a, tua khua panin amah si hi.
+**TDB77:** Judah kumpipa Ahaziah in hih thu a muh ciangin Bethhaggan lamah tai hi. Tua ciangin Jehu in amah delhin, “Amah zong kap un,” a ci hi; tua ciangin amaute in Ibleam gei, Gur kahtohna san a leeng sungah amah kap-te hi. Ahi zongin amah Megiddo khuapi ciang dong tai zo lai a, tua khua panin amah si hi.
 
-**ZVS:** Judah kumpipa Ahaziah in hih thu a muh ciangin Bethhaggan lamah a tai hi. Tua ciangin Jehu in amah delhin, “Amah zong kap un,” a ci hi. Tua ciangin amaute in Ibleam gei, Gur kahtohna san a leeng sungah amah kap uh hi. Ahih hangin amah Megiddo khuapi ciangdong taizo lai a, tua khua-ah a si hi.
+**ZVS:** Judah kumpipa Ahaziah in hih thu a muh ciangin Bethhaggan lamah a tai hi. Tua ciangin Jehu in amah delhin, “Amah zong kap un,” a ci hi. Tua ciangin amaute in Ibleam gei, Gur kahtohna san a leeng sungah amah kap-te hi. Ahih hangin amah Megiddo khuapi ciangdong taizo lai a, tua khua-ah a si hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
 ### v28
 **EN:** And his servants carried him in a chariot to Jerusalem, and buried him in his sepulchre with his fathers in the city of David.
 
-**TDB77:** A nasemte in leeng khat tawh Jerusalem ah pua uh a, David khuapi sungah a pate tawh ama hanah vui uh hi.
+**TDB77:** A nasemte in leeng khat tawh Jerusalem ah pua-te a, David khuapi sungah a pate tawh ama hanah vui-te hi.
 
-**ZVS:** A nasemte in leeng khat tawh Jerusalem-ah amah pua uh a, David khuapi sung ama hanah a vui uh hi.
+**ZVS:** A nasemte in leeng khat tawh Jerusalem-ah amah pua-te a, David khuapi sung ama hanah a vui-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -304,18 +304,18 @@
 ### v32
 **EN:** And he lifted up his face to the window, and said, Who is on my side? who? And there looked out to him two or three eunuchs.
 
-**TDB77:** Tua ciangin kongvangneu lamah amah khuadak to-in, “Kei lamah kua om na hi uh hiam?” a ci hi. Inn sung maangte nih khawng thum khawng in amah hong en suk hi.
+**TDB77:** Tua ciangin kongvangneu lamah amah khuadak to-in, “Kei lamah kua om na hi-te hiam?” a ci hi. Inn sung maangte nih khawng thum khawng in amah hong en suk hi.
 
-**ZVS:** Tua ciangin tawlet lamah Jehu khuadak to-in, “Kei' lamah kua om na hi uh hiam?” a ci hi. Innsung maangte nih khawng thum khawng in amah hong ensuk hi.
+**ZVS:** Tua ciangin tawlet lamah Jehu khuadak to-in, “Kei' lamah kua om na hi-te hiam?” a ci hi. Innsung maangte nih khawng thum khawng in amah hong ensuk hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then)
 
 ### v33
 **EN:** And he said, Throw her down. So they threw her down: and some of her blood was sprinkled on the wall, and on the horses: and he trode her under foot.
 
-**TDB77:** Jehu in, “Amah hong lawnsuk un,” a ci hi. Tua ahih ciangin amaute in Jezebel lawnsuk uh hi; a sisan pawlkhat kulh tung leh sakolte tungah kitheh a, tua ciangin amaute in amah tuancil uh hi.
+**TDB77:** Jehu in, “Amah hong lawnsuk un,” a ci hi. Tua ahih ciangin amaute in Jezebel lawnsuk-te hi; a sisan pawlkhat kulh tung leh sakolte tungah kitheh a, tua ciangin amaute in amah tuancil-te hi.
 
-**ZVS:** Jehu in, “Amah hong lawnsuk un,” a ci hi. Tua ahih ciangin amaute in Jezebel lawnsuk uh hi. A sisan pawlkhat kulh tung leh sakolte tungah kitheh a, tua ciangin amaute in amah tuancil uh hi.
+**ZVS:** Jehu in, “Amah hong lawnsuk un,” a ci hi. Tua ahih ciangin amaute in Jezebel lawnsuk-te hi. A sisan pawlkhat kulh tung leh sakolte tungah kitheh a, tua ciangin amaute in amah tuancil-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -324,25 +324,25 @@
 
 **TDB77:** Tua ciangin amah sungtumin ne-in dawn hi; tua ciangin amah in, “Tu-in a kisamsia hih numei mu un la, amah phum un; bangbang ahi zongin amah in kumpipa’ tanu hi buang hi,” a ci hi.
 
-**ZVS:** Tua ciangin amaute sungtumin an ne-in tui a dawn uh hi. Tua ciangin amah in, “Tu-in a kisamsia hih numei tawm un la, phum un. Bangbang ahi ta zongin amah kumpipa' tanu hibuang hi,” a ci hi.
+**ZVS:** Tua ciangin amaute sungtumin an ne-in tui a dawn-te hi. Tua ciangin amah in, “Tu-in a kisamsia hih numei tawm un la, phum un. Bangbang ahi ta zongin amah kumpipa' tanu hibuang hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v35
 **EN:** And they went to bury her: but they found no more of her than the skull, and the feet, and the palms of her hands.
 
-**TDB77:** Ahih hangin amah a phum dingin amaute a pai uh ciangin a luguh leh a khete leh a khut peekte sim loh amah mu nawn lo uh hi.
+**TDB77:** Ahih hangin amah a phum dingin amaute a pai-te ciangin a luguh leh a khete leh a khut peekte sim loh amah mu nawn lo-te hi.
 
-**ZVS:** Ahih hangin amah a phum dingin amaute a pai uh ciangin a lu guh leh a khete leh a khutpeek simloh bangmah dang mu nawnlo uh hi.
+**ZVS:** Ahih hangin amah a phum dingin amaute a pai-te ciangin a lu guh leh a khete leh a khutpeek simloh bangmah dang mu nawnlo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | plural: uh marker
 
 ### v36
 **EN:** Wherefore they came again, and told him. And he said, This is the word of the
 
-**TDB77:** Amaute hong paikikin ama kiangah a gen uh ciangin, amah in, “Hih in ama nasempa, Tishbe mi Elijah’ tung tawnin Topa’ gensa ahi hi, ‘Jezre-el gam sungah uite in Jezebel’ sa ne ding uh hi;
+**TDB77:** Amaute hong paikikin ama kiangah a gen-te ciangin, amah in, “Hih in ama nasempa, Tishbe mi Elijah’ tung tawnin Topa’ gensa ahi hi, ‘Jezre-el gam sungah uite in Jezebel’ sa ne ding-te hi;
 
-**ZVS:** Amaute hong paikikin Jehu kiangah a gen uh ciangin amah in, “Hih pen a nasempa, Tishbe mi Elijah tung tawnin { Topa' } gensa ahi hi: ‘Jezreel khua sungah uite in Jezebel' sa ne ding uh hi.
+**ZVS:** Amaute hong paikikin Jehu kiangah a gen-te ciangin amah in, “Hih pen a nasempa, Tishbe mi Elijah tung tawnin { Topa' } gensa ahi hi: ‘Jezreel khua sungah uite in Jezebel' sa ne ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

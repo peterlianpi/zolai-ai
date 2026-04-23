@@ -72,25 +72,25 @@
 ### v6
 **EN:** And all the inhabitants of Egypt shall know that I am the
 
-**TDB77:** Tua ciangin Topa ka hihna thu Izipt mi khempeuh in thei ding uh hi. Bang hang hiam cih leh nangmah in Israel mite’ muan’ leh suan’ khat na hi ngei a, ahi zongin nangmah in a khauh lo pumpeng kung khat bang na hi lel hi.
+**TDB77:** Tua ciangin Topa ka hihna thu Izipt mi khempeuh in thei ding-te hi. Bang hang hiam cih leh nangmah in Israel mite’ muan’ leh suan’ khat na hi ngei a, ahi zongin nangmah in a khauh lo pumpeng kung khat bang na hi lel hi.
 
-**ZVS:** “Tua ciangin { Topa } ka hihna thu Egypt mi khempeuh in hong thei ding uh hi. Bang hang hiam cih leh nang pen Israel mite' muan' leh suan' khat na hi ngei a, ahi zongin nang pen a khauhlo pumpeeng kung khat bang na hi lel hi.
+**ZVS:** “Tua ciangin { Topa } ka hihna thu Egypt mi khempeuh in hong thei ding-te hi. Bang hang hiam cih leh nang pen Israel mite' muan' leh suan' khat na hi ngei a, ahi zongin nang pen a khauhlo pumpeeng kung khat bang na hi lel hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v7
 **EN:** When they took hold of thee by thy hand, thou didst break, and rend all their shoulder: and when they leaned upon thee, thou brakest, and madest all their loins to be at a stand.
 
-**TDB77:** Nangma tungah amaute hong kingap uh ciangin nang na kitan a, amaute sunin na puksak hi.
+**TDB77:** Nangma tungah amaute hong kingap-te ciangin nang na kitan a, amaute sunin na puksak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v8
 **EN:** Therefore thus saith the Lord
 
-**TDB77:** Tu-in Topa Pasian in nang kiangah kong genin ah: Namsau tawh mi kong simsak ding a, na mite leh na ganhingte thatlum mang ding uh hi.
+**TDB77:** Tu-in Topa Pasian in nang kiangah kong genin ah: Namsau tawh mi kong simsak ding a, na mite leh na ganhingte thatlum mang ding-te hi.
 
-**ZVS:** Tu-in Topa { Pasian } in nang kiangah kong genin-ah: Namsau tawh mi kong simsak ding a, na mite leh na ganhingte thatlummang ding uh hi.
+**ZVS:** Tu-in Topa { Pasian } in nang kiangah kong genin-ah: Namsau tawh mi kong simsak ding a, na mite leh na ganhingte thatlummang ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -142,27 +142,27 @@
 ### v14
 **EN:** And I will bring again the captivity of Egypt, and will cause them to return into the land of Pathros, into the land of their habitation; and they shall be there a base kingdom.
 
-**TDB77:** amaute’ piancilna mun Izipt khanglam Pathros gamah ka teengsak ding hi. Tua lai-ah kumpi gam gina loin om ding uh a,
+**TDB77:** amaute’ piancilna mun Izipt khanglam Pathros gamah ka teengsak ding hi. Tua lai-ah kumpi gam gina loin om ding-te a,
 
-**ZVS:** amaute' pian'-cilna mun Egypt gam khanglam Pathros gamah ka tengsak ding hi. Tua lai-ah kumpi gam ginaloin om ding uh a,
+**ZVS:** amaute' pian'-cilna mun Egypt gam khanglam Pathros gamah ka tengsak ding hi. Tua lai-ah kumpi gam ginaloin om ding-te a,
 
 **Grammar:** future: will | plural: uh marker
 
 ### v15
 **EN:** It shall be the basest of the kingdoms; neither shall it exalt itself any more above the nations: for I will diminish them, that they shall no more rule over the nations.
 
-**TDB77:** kumpi gam khempeuh lakah a gina lopen suak ding uh a, minam dang kuamah uk zo nawn lo ding uh hi. A gina lo mahmah-in bawl ding ka hih manin amau’ deih bangin minam dang khat beek tasak zo lo ding uh hi.
+**TDB77:** kumpi gam khempeuh lakah a gina lopen suak ding-te a, minam dang kuamah uk zo nawn lo ding-te hi. A gina lo mahmah-in bawl ding ka hih manin amau’ deih bangin minam dang khat beek tasak zo lo ding-te hi.
 
-**ZVS:** kumpi gam khempeuh lakah a ginalo pen suak ding uh a, minam dang kuamah ukzo nawnlo ding uh hi. A ginalo mahmahin bawl ding ka hih manin amau' deih bangin minam dang khat beek tasak zolo ding uh hi.
+**ZVS:** kumpi gam khempeuh lakah a ginalo pen suak ding-te a, minam dang kuamah ukzo nawnlo ding-te hi. A ginalo mahmahin bawl ding ka hih manin amau' deih bangin minam dang khat beek tasak zolo ding-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | future: will | causal: because | plural: uh marker
 
 ### v16
 **EN:** And it shall be no more the confidence of the house of Israel, which bringeth their iniquity to remembrance, when they shall look after them: but they shall know that I am the Lord
 
-**TDB77:** Israel mite in muan’ leh suan’ in amaute nei kik ngei nawn lo ding uh hi. Iziptte a tuahsiat ciangin a suang khial kha ahih lamtak uh Israel mite in a phawk ding uh hi. Tua ciangin Topa Pasian ka hihna thu Israel mite in thei ding uh hi,” hong ci hi.
+**TDB77:** Israel mite in muan’ leh suan’ in amaute nei kik ngei nawn lo ding-te hi. Iziptte a tuahsiat ciangin a suang khial kha ahih lamtak-te Israel mite in a phawk ding-te hi. Tua ciangin Topa Pasian ka hihna thu Israel mite in thei ding-te hi,” hong ci hi.
 
-**ZVS:** Israel mite in muan' leh suan'in amaute neikik ngei nawnlo ding uh hi. Egypt-te a tuahsiat ciangin a suang khialkha ahih lamtak uh Israel mite in a phawk ding uh hi. Tua ciangin Topa { Pasian } ka hihna thu Israel mite in hong thei ding uh hi,” hong ci hi.
+**ZVS:** Israel mite in muan' leh suan'in amaute neikik ngei nawnlo ding-te hi. Egypt-te a tuahsiat ciangin a suang khialkha ahih lamtak-te Israel mite in a phawk ding-te hi. Tua ciangin Topa { Pasian } ka hihna thu Israel mite in hong thei ding-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -178,36 +178,36 @@
 ### v18
 **EN:** Son of man, Nebuchadrezzar king of Babylon caused his army to serve a great service against Tyre: every head was made bald, and every shoulder was peeled: yet had he no wages, nor his army, for Tyre, for the service that he had served against it:
 
-**TDB77:** “Ezekiel aw, Babilon kumpipa Nebukhadnezzar in, Tai-ar khuapi sim hi. A galkapte, nakpi takin hanciam sak lua ahih manin a sam nangawn uh pulhmangin a liangkote uh a sa nangawn lengkhia gawp a, ahi zongin tua bangin amau’ gim thamanin kumpipa leh a galkapte in bangmah phattuamna ngah lo uh hi.
+**TDB77:** “Ezekiel aw, Babilon kumpipa Nebukhadnezzar in, Tai-ar khuapi sim hi. A galkapte, nakpi takin hanciam sak lua ahih manin a sam nangawn-te pulhmangin a liangkote-te a sa nangawn lengkhia gawp a, ahi zongin tua bangin amau’ gim thamanin kumpipa leh a galkapte in bangmah phattuamna ngah lo-te hi.
 
-**ZVS:** “Mihing ahi Ezekiel aw, Babylon kumpipa Nebukhadnezzar in Taia khuapi sim hi. A galkapte, nakpi takin hanciamsak lua ahih manin a sam nangawn uh pulhmangin, a liangkote uh a sa nangawn lengkhiamang a, ahi zongin tua bangin amau' gim thamanin kumpipa leh a galkapte in bangmah phattuamna ngahlo uh hi.
+**ZVS:** “Mihing ahi Ezekiel aw, Babylon kumpipa Nebukhadnezzar in Taia khuapi sim hi. A galkapte, nakpi takin hanciamsak lua ahih manin a sam nangawn-te pulhmangin, a liangkote-te a sa nangawn lengkhiamang a, ahi zongin tua bangin amau' gim thamanin kumpipa leh a galkapte in bangmah phattuamna ngahlo-te hi.
 
 **Grammar:** negation: lo | causal: because | plural: uh marker
 
 ### v19
 **EN:** Therefore thus saith the Lord
 
-**TDB77:** Tua ahih ciangin Topa Pasian ahi keimah in hih bangin thu kong gen hi: Tu-in Tai-ar khuapi a simna hangin Babilon kumpipa Nebukhadnezzar tungah Izipt gam ka pia ding hi. Amah in Izipt gam luhin a nate uh sut ding a, a galkapte’ thaman dingin Iziptte’ neihsa khempeuh pua khia mang ding hi.
+**TDB77:** Tua ahih ciangin Topa Pasian ahi keimah in hih bangin thu kong gen hi: Tu-in Tai-ar khuapi a simna hangin Babilon kumpipa Nebukhadnezzar tungah Izipt gam ka pia ding hi. Amah in Izipt gam luhin a nate-te sut ding a, a galkapte’ thaman dingin Iziptte’ neihsa khempeuh pua khia mang ding hi.
 
-**ZVS:** Tua ahih ciangin Topa { Pasian } ahi keimah in hih bangin thu kong gen hi: Tu-in Taia khuapi a simna hangin Babylon kumpipa Nebukhadnezzar tungah Egypt gam ka pia ding hi. Amah in Egypt gam luhin a nate uh sut ding a, galkapte' thaman dingin Egypt-te' neihsa khempeuh puakhiamang ding hi.
+**ZVS:** Tua ahih ciangin Topa { Pasian } ahi keimah in hih bangin thu kong gen hi: Tu-in Taia khuapi a simna hangin Babylon kumpipa Nebukhadnezzar tungah Egypt gam ka pia ding hi. Amah in Egypt gam luhin a nate-te sut ding a, galkapte' thaman dingin Egypt-te' neihsa khempeuh puakhiamang ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will
 
 ### v20
 **EN:** I have given him the land of Egypt for his labour wherewith he served against it, because they wrought for me, saith the Lord
 
-**TDB77:** A galkapte in keima adingin na hong sepsak uh ahih manin, ama hong nasep sak ka thukkikna-in ama tungah Izipt gam a pia ka hi hi. Topa Pasian ahi keimah in hih thu ka gen khin hi.
+**TDB77:** A galkapte in keima adingin na hong sepsak-te ahih manin, ama hong nasep sak ka thukkikna-in ama tungah Izipt gam a pia ka hi hi. Topa Pasian ahi keimah in hih thu ka gen khin hi.
 
-**ZVS:** A galkapte in keima-a' dingin na hong sepsak uh ahih manin, ama hong nasepsak ka thuhna-in ama tungah Egypt gam a pia ka hi hi. Topa { Pasian } ahi keimah in hih thu ka gen khin hi.
+**ZVS:** A galkapte in keima-a' dingin na hong sepsak-te ahih manin, ama hong nasepsak ka thuhna-in ama tungah Egypt gam a pia ka hi hi. Topa { Pasian } ahi keimah in hih thu ka gen khin hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | completed: already done | causal: because
 
 ### v21
 **EN:** In that day will I cause the horn of the house of Israel to bud forth, and I will give thee the opening of the mouth in the midst of them; and they shall know that I am the
 
-**TDB77:** “Hih thu hong tun’ ciangin Israel mite a thahat minamin ka bawl kik ding a, mi khempeuh’ zak nading munah nang thu kong gensak ding hi. Tua ciangin Topa ka hihna thu amaute in hong thei ding uh hi,” hong ci hi.
+**TDB77:** “Hih thu hong tun’ ciangin Israel mite a thahat minamin ka bawl kik ding a, mi khempeuh’ zak nading munah nang thu kong gensak ding hi. Tua ciangin Topa ka hihna thu amaute in hong thei ding-te hi,” hong ci hi.
 
-**ZVS:** “Hih thu hong tun' ciangin Israel mite a thahat minamin ka bawlkik ding a, mi khempeuh' zakna ding munah nang thu kong gensak ding hi. Tua ciangin { Topa } ka hihna thu amaute in hong thei ding uh hi,” hong ci hi.
+**ZVS:** “Hih thu hong tun' ciangin Israel mite a thahat minamin ka bawlkik ding a, mi khempeuh' zakna ding munah nang thu kong gensak ding hi. Tua ciangin { Topa } ka hihna thu amaute in hong thei ding-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 

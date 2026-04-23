@@ -45,18 +45,18 @@
 ### v3
 **EN:** And he came to the sheepcotes by the way, where was a cave; and Saul went in to cover his feet: and David and his men remained in the sides of the cave.
 
-**TDB77:** Lam gei-a tuu-khawk a omna ah pai hi; tua gei-ah leihawm khat om a, awng hawh dingin tua sungah Saul pai hi. Tu-in David leh a mite leihawm tawngnung sungah na tu uh hi.
+**TDB77:** Lam gei-a tuu-khawk a omna ah pai hi; tua gei-ah leihawm khat om a, awng hawh dingin tua sungah Saul pai hi. Tu-in David leh a mite leihawm tawngnung sungah na tu-te hi.
 
-**ZVS:** Lam gei-a tuukhawk omna-ah a pai hi. Tua gei-ah leihawm khat om a, awng hawh dingin tua sungah Saul a pai hi. Tu-in David leh a mite tua leihawm tawngnung sungah na tu uh hi.
+**ZVS:** Lam gei-a tuukhawk omna-ah a pai hi. Tua gei-ah leihawm khat om a, awng hawh dingin tua sungah Saul a pai hi. Tu-in David leh a mite tua leihawm tawngnung sungah na tu-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v4
 **EN:** And the men of David said unto him, Behold the day of which the
 
-**TDB77:** Tua ciangin David mite in ama kiangah, “Topa in nang kiangah, ‘En in, na khut sungah na galpa kong pia ding a, hoih na sak bangin ama tungah na hih ding hi,’ hong cih ni tu ni hita hi,” a ci uh hi. Tua ciangin David ding-in Saul’ puantualpi mong at khiat simsak hi.
+**TDB77:** Tua ciangin David mite in ama kiangah, “Topa in nang kiangah, ‘En in, na khut sungah na galpa kong pia ding a, hoih na sak bangin ama tungah na hih ding hi,’ hong cih ni tu ni hita hi,” a ci-te hi. Tua ciangin David ding-in Saul’ puantualpi mong at khiat simsak hi.
 
-**ZVS:** Tua ciangin David' mite in ama kiangah, “{ Topa } in nang kiangah, ‘En in, na khutsungah na galpa kong pia ding a, hoih na sak bangin ama tungah na hih ding hi,’ hong cih pen tuni hita hi,” a ci uh hi. Tua ciangin David dingin Saul' puantualpi mong atkhiatsak sim hi.
+**ZVS:** Tua ciangin David' mite in ama kiangah, “{ Topa } in nang kiangah, ‘En in, na khutsungah na galpa kong pia ding a, hoih na sak bangin ama tungah na hih ding hi,’ hong cih pen tuni hita hi,” a ci-te hi. Tua ciangin David dingin Saul' puantualpi mong atkhiatsak sim hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -214,9 +214,9 @@
 ### v22
 **EN:** And David sware unto Saul. And Saul went home; but David and his men gat them up unto the hold.
 
-**TDB77:** Tua ciangin Saul tungah David kiciam hi. Tua ciangin Saul inn-ah ciah hi; ahih hangin David leh a mite munmuanhuai-ah paito uh hi.
+**TDB77:** Tua ciangin Saul tungah David kiciam hi. Tua ciangin Saul inn-ah ciah hi; ahih hangin David leh a mite munmuanhuai-ah paito-te hi.
 
-**ZVS:** Tua ciangin Saul' deih bangin David a kiciam hi. Tua ciangin Saul a inn-ah a ciah hi. Ahih hangin David leh a mite munmuan'huai-ah paito uh hi.
+**ZVS:** Tua ciangin Saul' deih bangin David a kiciam hi. Tua ciangin Saul a inn-ah a ciah hi. Ahih hangin David leh a mite munmuan'huai-ah paito-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

@@ -60,9 +60,9 @@
 ### v5
 **EN:** And the priest shall command that one of the birds be killed in an earthen vessel over running water:
 
-**TDB77:** amaute in tuiluang tungah leibeel khat sungah a vasa khat a gawh nading uh siampipa in thu pia ding hi.
+**TDB77:** amaute in tuiluang tungah leibeel khat sungah a vasa khat a gawh nading-te siampipa in thu pia ding hi.
 
-**ZVS:** Amaute in lei beel khat sunga kikoih tuiluang tungah a vasa khat a gawh ding uh siampipa in thu pia ding hi.
+**ZVS:** Amaute in lei beel khat sunga kikoih tuiluang tungah a vasa khat a gawh ding-te siampipa in thu pia ding hi.
 
 **Grammar:** future: will
 
@@ -335,9 +335,9 @@
 ### v36
 **EN:** Then the priest shall command that they empty the house, before the priest go into it to see the plague, that all that is in the house be not made unclean: and afterward the priest shall go in to see the house:
 
-**TDB77:** Tua ciangin, inn sunga om na khempeuh a nin hi, a kicih khak loh nadingin a natna vel dingin siampipa a pai ma-in amaute in tua inn a na hawmsak nading uh thu pia ding hi; tua khit ciangin inn vel dingin siampipa pai ding hi.
+**TDB77:** Tua ciangin, inn sunga om na khempeuh a nin hi, a kicih khak loh nadingin a natna vel dingin siampipa a pai ma-in amaute in tua inn a na hawmsak nading-te thu pia ding hi; tua khit ciangin inn vel dingin siampipa pai ding hi.
 
-**ZVS:** Tua ciangin, inn sunga om na khempeuh a nin hi, a kicih khaklohna dingin a natna a vel dingin siampipa a pai ma-in amaute in tua inn a na hawmsakna ding uh thu pia ding a, tua khit ciangin inn vel dingin siampipa pai ding hi.
+**ZVS:** Tua ciangin, inn sunga om na khempeuh a nin hi, a kicih khaklohna dingin a natna a vel dingin siampipa a pai ma-in amaute in tua inn a na hawmsakna ding-te thu pia ding a, tua khit ciangin inn vel dingin siampipa pai ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -380,9 +380,9 @@
 ### v41
 **EN:** And he shall cause the house to be scraped within round about, and they shall pour out the dust that they scrape off without the city into an unclean place:
 
-**TDB77:** amah in a inn sung kimkot kiat sakin, amaute in a kiat khiat a kizutna themte khuapi pua lam a nin mun khatah bua ding uh hi;
+**TDB77:** amah in a inn sung kimkot kiat sakin, amaute in a kiat khiat a kizutna themte khuapi pua lam a nin mun khatah bua ding-te hi;
 
-**ZVS:** Amah in a innsung kimkot kiatsakin, amaute in a kiatkhiat, a kizutna themte, khuapi pualam a nin mun khatah bua ding uh hi.
+**ZVS:** Amah in a innsung kimkot kiatsakin, amaute in a kiatkhiat, a kizutna themte, khuapi pualam a nin mun khatah bua ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

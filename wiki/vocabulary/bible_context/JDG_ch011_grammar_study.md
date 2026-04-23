@@ -36,90 +36,90 @@
 ### v2
 **EN:** And Gilead's wife bare him sons; and his wife's sons grew up, and they thrust out Jephthah, and said unto him, Thou shalt not inherit in our father's house; for thou art the son of a strange woman.
 
-**TDB77:** Gilead’ zi in zong amah tawh tapate nei hi; a tapate a khan’ ciangun amaute in Jefthah notkhia-in ama kiangah, “Ka pa uh inn sungah gamh na luah kei ding hi; bang hang hiam cih leh nang in numei dang’ tapa na hi hi,” a ci uh hi.
+**TDB77:** Gilead’ zi in zong amah tawh tapate nei hi; a tapate a khan’ ciangun amaute in Jefthah notkhia-in ama kiangah, “Ka pa-te inn sungah gamh na luah kei ding hi; bang hang hiam cih leh nang in numei dang’ tapa na hi hi,” a ci-te hi.
 
-**ZVS:** Gilead' zi in zong amah tawh tapa dang nei hi. A tapate a khan' ciangun amaute in Jefthah notkhia-in ama kiangah, “Ka pa uh inn sungah gamh na luah kei ding hi; bang hang hiam cih leh nang pen numei dang tawh zawlta na hi lel hi,” a ci uh hi.
+**ZVS:** Gilead' zi in zong amah tawh tapa dang nei hi. A tapate a khan' ciangun amaute in Jefthah notkhia-in ama kiangah, “Ka pa-te inn sungah gamh na luah kei ding hi; bang hang hiam cih leh nang pen numei dang tawh zawlta na hi lel hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Then Jephthah fled from his brethren, and dwelt in the land of Tob: and there were gathered vain men to Jephthah, and went out with him.
 
-**TDB77:** Tua ciangin a sanggamte kiang panin Jefthah tai-in Tob gam sungah teeng hi; bangmah manlo mite in Jefthah pawmin amah tawh mite sugawpin pai uh hi.
+**TDB77:** Tua ciangin a sanggamte kiang panin Jefthah tai-in Tob gam sungah teeng hi; bangmah manlo mite in Jefthah pawmin amah tawh mite sugawpin pai-te hi.
 
-**ZVS:** Tua ciangin a sanggamte kiang panin Jefthah tai-in Tob gamsungah teng a, bangmah a manlo mite in Jefthah pawmin amah tawh mite sugawpin pai kawikawi uh hi.
+**ZVS:** Tua ciangin a sanggamte kiang panin Jefthah tai-in Tob gamsungah teng a, bangmah a manlo mite in Jefthah pawmin amah tawh mite sugawpin pai kawikawi-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And it came to pass in process of time, that the children of Ammon made war against Israel.
 
-**TDB77:** Tawlkhat khit ciangin Ammon mite in Israelte do uh hi.
+**TDB77:** Tawlkhat khit ciangin Ammon mite in Israelte do-te hi.
 
-**ZVS:** Tawlkhat khit ciangin Ammon mite in Israel-te sim uh hi.
+**ZVS:** Tawlkhat khit ciangin Ammon mite in Israel-te sim-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** And it was so, that when the children of Ammon made war against Israel, the elders of Gilead went to fetch Jephthah out of the land of Tob:
 
-**TDB77:** Ammon mite in Israelte a do ciangin, Tob gam panin Jefthah a la dingin Gilead upate va pai uh hi;
+**TDB77:** Ammon mite in Israelte a do ciangin, Tob gam panin Jefthah a la dingin Gilead upate va pai-te hi;
 
-**ZVS:** Ammon mite in Israel-te a sim ciangin Tob gam panin Jefthah a la dingin Gilead upate va pai uh hi.
+**ZVS:** Ammon mite in Israel-te a sim ciangin Tob gam panin Jefthah a la dingin Gilead upate va pai-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v6
 **EN:** And they said unto Jephthah, Come, and be our captain, that we may fight with the children of Ammon.
 
-**TDB77:** amaute in Jefthah kiangah, “Ammon mite i do theih nadingin hong pai in la kote’ makai hong hi in,” va ci uh hi.
+**TDB77:** amaute in Jefthah kiangah, “Ammon mite i do theih nadingin hong pai in la kote’ makai hong hi in,” va ci-te hi.
 
-**ZVS:** Amaute in Jefthah kiangah, “Ammon mite i do theihna dingin hong pai in la kote' makai hong hi in,” va ci uh hi.
+**ZVS:** Amaute in Jefthah kiangah, “Ammon mite i do theihna dingin hong pai in la kote' makai hong hi in,” va ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And Jephthah said unto the elders of Gilead, Did not ye hate me, and expel me out of my father's house? and why are ye come unto me now when ye are in distress?
 
-**TDB77:** Ahih hangin Jefthah in Gilead upate kiangah, “Note in kei hong mudahin ka pa’ inn pan hong hawlkhia hilo na hi uh hiam? Bang hangin thu haksa na tuah uh ciangin kei kiangah hong pai na hi uh hiam?” a na ci hi.
+**TDB77:** Ahih hangin Jefthah in Gilead upate kiangah, “Note in kei hong mudahin ka pa’ inn pan hong hawlkhia hilo na hi-te hiam? Bang hangin thu haksa na tuah-te ciangin kei kiangah hong pai na hi-te hiam?” a na ci hi.
 
-**ZVS:** Ahih hangin Jefthah in Gilead upate kiangah, “Note in kei hong mudahin ka pa' inn pan hong hawlkhia hilo na hi uh hiam? Bang hangin thuhaksa na tuah uh ciangin kei kiangah hong pai na hi uh hiam?” na ci hi.
+**ZVS:** Ahih hangin Jefthah in Gilead upate kiangah, “Note in kei hong mudahin ka pa' inn pan hong hawlkhia hilo na hi-te hiam? Bang hangin thuhaksa na tuah-te ciangin kei kiangah hong pai na hi-te hiam?” na ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
 ### v8
 **EN:** And the elders of Gilead said unto Jephthah, Therefore we turn again to thee now, that thou mayest go with us, and fight against the children of Ammon, and be our head over all the inhabitants of Gilead.
 
-**TDB77:** Tua ciangin Gilead upate in Jefthah kiangah, “Kote tawh nang hong pai-in Ammon mite do-in Gilead gam sunga teeng mi khempeuh tungah lutang nong hih theih nadingin tua thu hang mahin nang lamah hong kihei ka hi uh hi,” a ci uh hi.
+**TDB77:** Tua ciangin Gilead upate in Jefthah kiangah, “Kote tawh nang hong pai-in Ammon mite do-in Gilead gam sunga teeng mi khempeuh tungah lutang nong hih theih nadingin tua thu hang mahin nang lamah hong kihei ka hi-te hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin Gilead upate in Jefthah kiangah, “Kote tawh nang hong pai-in Ammon mite do-in Gilead gamsunga teng mi khempeuh tungah lutang nong hih theihna dingin nang' lamah hong kihei ka hi uh hi,” a ci uh hi.
+**ZVS:** Tua ciangin Gilead upate in Jefthah kiangah, “Kote tawh nang hong pai-in Ammon mite do-in Gilead gamsunga teng mi khempeuh tungah lutang nong hih theihna dingin nang' lamah hong kihei ka hi-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And Jephthah said unto the elders of Gilead, If ye bring me home again to fight against the children of Ammon, and the
 
-**TDB77:** Jefthah in Gilead upate kiangah, “Note in Ammon mite do dingin inn-ah nong ciahpih uh a, kei tungah Topa in amaute hong piak leh keimah in note’ lutang ka hi ding hi,” a ci hi.
+**TDB77:** Jefthah in Gilead upate kiangah, “Note in Ammon mite do dingin inn-ah nong ciahpih-te a, kei tungah Topa in amaute hong piak leh keimah in note’ lutang ka hi ding hi,” a ci hi.
 
-**ZVS:** Jefthah in Gilead upate kiangah, “Note in Ammon mite a do dingin inn-ah kei nong ciahpih uh a, kei tungah { Topa } in amaute hong piak leh kei pen note' lutang ka hi ding hi,” a ci hi.
+**ZVS:** Jefthah in Gilead upate kiangah, “Note in Ammon mite a do dingin inn-ah kei nong ciahpih-te a, kei tungah { Topa } in amaute hong piak leh kei pen note' lutang ka hi ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And the elders of Gilead said unto Jephthah, The
 
-**TDB77:** Gilead upate in Jefthah kiangah, “Topa in eite kikalah teci hi ding hi; na cih bangin ka hi taktak ding uh hi,” a ci uh hi.
+**TDB77:** Gilead upate in Jefthah kiangah, “Topa in eite kikalah teci hi ding hi; na cih bangin ka hi taktak ding-te hi,” a ci-te hi.
 
-**ZVS:** Gilead upate in Jefthah kiangah, “{ Topa } pen eite' kikalah teci hi ding hi. Na cih bangin ka gamta ding uh hi,” a ci uh hi.
+**ZVS:** Gilead upate in Jefthah kiangah, “{ Topa } pen eite' kikalah teci hi ding hi. Na cih bangin ka gamta ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Then Jephthah went with the elders of Gilead, and the people made him head and captain over them: and Jephthah uttered all his words before the
 
-**TDB77:** Tua ahih ciangin Gilead upate tawh Jefthah pai a, mite in amau’ tunga lutang leh makai-in amah koih uh hi; Jefthah in hih thute khempeuh Mizpah khua sung Topa mai-ah gen hi.
+**TDB77:** Tua ahih ciangin Gilead upate tawh Jefthah pai a, mite in amau’ tunga lutang leh makai-in amah koih-te hi; Jefthah in hih thute khempeuh Mizpah khua sung Topa mai-ah gen hi.
 
-**ZVS:** Tua ahih ciangin Gilead upate tawh Jefthah pai a, mite in amau' tungah lutang leh makai-in amah koih uh hi. Jefthah hih hih thute khempeuh Mizpah khuasung { Topa' } mai-ah a gen ahi hi.
+**ZVS:** Tua ahih ciangin Gilead upate tawh Jefthah pai a, mite in amau' tungah lutang leh makai-in amah koih-te hi. Jefthah hih hih thute khempeuh Mizpah khuasung { Topa' } mai-ah a gen ahi hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -162,36 +162,36 @@
 ### v16
 **EN:** But when Israel came up from Egypt, and walked through the wilderness unto the Red sea, and came to Kadesh;
 
-**TDB77:** Izipt panin Israelte hong paitoh lai-in gamlak tawnin San Tuipi-ah hong pai-in Kadesh hong tung uh hi.
+**TDB77:** Izipt panin Israelte hong paitoh lai-in gamlak tawnin San Tuipi-ah hong pai-in Kadesh hong tung-te hi.
 
-**ZVS:** Egypt panin Israel-te hong paitoh lai-in gamlak tawnin San Tuipi-ah hong pai-in Kadesh hong tung uh hi.
+**ZVS:** Egypt panin Israel-te hong paitoh lai-in gamlak tawnin San Tuipi-ah hong pai-in Kadesh hong tung-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v17
 **EN:** Then Israel sent messengers unto the king of Edom, saying, Let me, I pray thee, pass through thy land: but the king of Edom would not hearken thereto. And in like manner they sent unto the king of Moab: but he would not consent: and Israel abode in Kadesh.
 
-**TDB77:** Israelte in Edom kumpipa kiangah kamtaite sawl a, ‘Kong thuum hi, na gam sung hong nawksak in,’ ci sak uh hi; ahih hangin Edom kumpipa in a thu ngai lo hi. Tua ciangin Moab kumpipa kiangah zong sawl uh a, ahih hangin amah thukim lo hi. Tua ahih ciangin Kadesh-ah Israelte om phot uh hi.
+**TDB77:** Israelte in Edom kumpipa kiangah kamtaite sawl a, ‘Kong thuum hi, na gam sung hong nawksak in,’ ci sak-te hi; ahih hangin Edom kumpipa in a thu ngai lo hi. Tua ciangin Moab kumpipa kiangah zong sawl-te a, ahih hangin amah thukim lo hi. Tua ahih ciangin Kadesh-ah Israelte om phot-te hi.
 
-**ZVS:** Israel-te in Edom kumpipa kiangah kamtaite sawl a, ‘Kong thum uh hi; na gamsung hong nawksak in,’ cisak uh hi. Ahih hangin Edom kumpipa in a thu ngailo hi. Tua ciangin Moab kumpipa kiangah zong sawl uh a, ahih hangin amah thukimlo hi. Tua ahih ciangin Kadesh-ah Israel-te om phot uh hi.
+**ZVS:** Israel-te in Edom kumpipa kiangah kamtaite sawl a, ‘Kong thum-te hi; na gamsung hong nawksak in,’ cisak-te hi. Ahih hangin Edom kumpipa in a thu ngailo hi. Tua ciangin Moab kumpipa kiangah zong sawl-te a, ahih hangin amah thukimlo hi. Tua ahih ciangin Kadesh-ah Israel-te om phot-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Then they went along through the wilderness, and compassed the land of Edom, and the land of Moab, and came by the east side of the land of Moab, and pitched on the other side of Arnon, but came not within the border of Moab: for Arnon was the border of Moab.
 
-**TDB77:** Tua ciangin gamlak tawnin amaute khualzin uh a, Edom gam leh Moab gam kimkotin pai-in Moab gam nisuahna lam pangah tung uh a, Arnon gal khatah phual sat uh hi; ahih hangin Moab gam sungah amaute lut lo uh hi, bang hang hiam cih leh Arnon in Moab gamgi ahi hi.
+**TDB77:** Tua ciangin gamlak tawnin amaute khualzin-te a, Edom gam leh Moab gam kimkotin pai-in Moab gam nisuahna lam pangah tung-te a, Arnon gal khatah phual sat-te hi; ahih hangin Moab gam sungah amaute lut lo-te hi, bang hang hiam cih leh Arnon in Moab gamgi ahi hi.
 
-**ZVS:** Tua ciangin sehnel gam tawnin amaute khualzin uh a, Edom gam leh Moab gam kimkotin pai-in Moab gam nisuahna lampangah tung uh a, Arnon gun galkhatah phual sat uh hi. Ahih hangin Moab gam sungah amaute lutlo uh hi. Bang hang hiam cih leh Arnon gun pen Moab gamgi ahi hi.
+**ZVS:** Tua ciangin sehnel gam tawnin amaute khualzin-te a, Edom gam leh Moab gam kimkotin pai-in Moab gam nisuahna lampangah tung-te a, Arnon gun galkhatah phual sat-te hi. Ahih hangin Moab gam sungah amaute lutlo-te hi. Bang hang hiam cih leh Arnon gun pen Moab gamgi ahi hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And Israel sent messengers unto Sihon king of the Amorites, the king of Heshbon; and Israel said unto him, Let us pass, we pray thee, through thy land into my place.
 
-**TDB77:** Tua ciangin Israelte in Heshbon kumpi ahi Amor mite kumpi Sihon kiangah kamtaite sawl uh hi; Israelte in ama kiangah, ‘Kong thuum uh hi, ka gam uh a zuan dingin na gam hong nawk sak in,’ ci uh hi.
+**TDB77:** Tua ciangin Israelte in Heshbon kumpi ahi Amor mite kumpi Sihon kiangah kamtaite sawl-te hi; Israelte in ama kiangah, ‘Kong thuum-te hi, ka gam-te a zuan dingin na gam hong nawk sak in,’ ci-te hi.
 
-**ZVS:** Tua ciangin Israel-te in Heshbon khua-ah a om Amor mite' kumpi Sihon kiangah kamtaite sawl uh hi. Israel-te in ama kiangah, ‘Kong thum uh hi; ka gam uh a zuan dingin na gam hong nawksak in,’ ci uh hi.
+**ZVS:** Tua ciangin Israel-te in Heshbon khua-ah a om Amor mite' kumpi Sihon kiangah kamtaite sawl-te hi. Israel-te in ama kiangah, ‘Kong thum-te hi; ka gam-te a zuan dingin na gam hong nawksak in,’ ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -207,18 +207,18 @@
 ### v21
 **EN:** And the
 
-**TDB77:** Topa, Israelte Pasian in Sihon leh a mite khempeuh Israelte’ khut sungah pia a, amaute in zo uh hi; tua ahih ciangin tua gam sunga teeng Amor mite’ leitang khempeuh Israelte in luah uh hi.
+**TDB77:** Topa, Israelte Pasian in Sihon leh a mite khempeuh Israelte’ khut sungah pia a, amaute in zo-te hi; tua ahih ciangin tua gam sunga teeng Amor mite’ leitang khempeuh Israelte in luah-te hi.
 
-**ZVS:** { Topa, } Israel-te' Pasian in Sihon leh a mite khempeuh Israel-te' khutsungah pia a, amaute in zo uh hi. Tua ahih ciangin tua gamsunga teng Amor mite' leitang khempeuh Israel-te in luah uh hi.
+**ZVS:** { Topa, } Israel-te' Pasian in Sihon leh a mite khempeuh Israel-te' khutsungah pia a, amaute in zo-te hi. Tua ahih ciangin tua gamsunga teng Amor mite' leitang khempeuh Israel-te in luah-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v22
 **EN:** And they possessed all the coasts of the Amorites, from Arnon even unto Jabbok, and from the wilderness even unto Jordan.
 
-**TDB77:** Amaute in Arnon panin Jabbok ciang leh sehnel gam panin Jordan ciang, Amor mite gam khempeuh luah uh hi.
+**TDB77:** Amaute in Arnon panin Jabbok ciang leh sehnel gam panin Jordan ciang, Amor mite gam khempeuh luah-te hi.
 
-**ZVS:** Amaute in Arnon gun panin Jabbok lui ciang leh sehnel gam panin Jordan gun ciang, Amor mite' gam khempeuh a luah uh hi.
+**ZVS:** Amaute in Arnon gun panin Jabbok lui ciang leh sehnel gam panin Jordan gun ciang, Amor mite' gam khempeuh a luah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -234,9 +234,9 @@
 ### v24
 **EN:** Wilt not thou possess that which Chemosh thy god giveth thee to possess? So whomsoever the
 
-**TDB77:** Na Pasian Khemosh in na neih dinga hong piakte tang lo ding na hi hiam? Topa ka Pasian un kote mai-ah a suankhiatte kote in ka tang ding uh hi.
+**TDB77:** Na Pasian Khemosh in na neih dinga hong piakte tang lo ding na hi hiam? Topa ka Pasian un kote mai-ah a suankhiatte kote in ka tang ding-te hi.
 
-**ZVS:** Na pasian Khemosh in na neih dinga hong piakte kem peuh in. Kote ahih leh { Topa } ka Pasian un kote' mai-ah a suankhiatte ka tang ding uh hi.
+**ZVS:** Na pasian Khemosh in na neih dinga hong piakte kem peuh in. Kote ahih leh { Topa } ka Pasian un kote' mai-ah a suankhiatte ka tang ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -315,7 +315,7 @@
 
 **TDB77:** Amah in Aroer panin Minnith kiimnai ciang dong khuapi sawmnih, leh Abelkeramim ciang dong mi tampi tak thatin vatgawp hi. Tua ahih ciangin Israel mite mai-ah Ammon mite guallel hi.
 
-**ZVS:** Amah in Aroer panin Minnith kiimnai ciangdong khuapi sawmnih, leh Abelkeramim ciangdong mi tampi tak thatin a vatgawp hi. Tua ahih ciangin Israel mite mai-ah Ammon mite guallel uh hi.
+**ZVS:** Amah in Aroer panin Minnith kiimnai ciangdong khuapi sawmnih, leh Abelkeramim ciangdong mi tampi tak thatin a vatgawp hi. Tua ahih ciangin Israel mite mai-ah Ammon mite guallel-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -358,9 +358,9 @@
 ### v38
 **EN:** And he said, Go. And he sent her away for two months: and she went with her companions, and bewailed her virginity upon the mountains.
 
-**TDB77:** Amah in, “Pai ta in,” a ci hi. Amah in kha nih sung amah pai khiasak in; tua ciangin amah leh a lawmte pai khia-in nungak-a a sih nading hangin mualte tungah thuum uh hi.
+**TDB77:** Amah in, “Pai ta in,” a ci hi. Amah in kha nih sung amah pai khiasak in; tua ciangin amah leh a lawmte pai khia-in nungak-a a sih nading hangin mualte tungah thuum-te hi.
 
-**ZVS:** Amah in, “Pai ta in,” a ci hi. Amah in kha nih sung a tanu paikhia sak hi. Tua ciangin amah leh a lawmte paikhia-in nungakin a sihna ding hangin mualte tungah kapin a thum uh hi.
+**ZVS:** Amah in, “Pai ta in,” a ci hi. Amah in kha nih sung a tanu paikhia sak hi. Tua ciangin amah leh a lawmte paikhia-in nungakin a sihna ding hangin mualte tungah kapin a thum-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -376,9 +376,9 @@
 ### v40
 **EN:** That the daughters of Israel went yearly to lament the daughter of Jephthah the Gileadite four days in a year.
 
-**TDB77:** Israel tanute kum khatin ni li sung kum simin Gilead mi Jefthah’ tanu hangin a thuum dingin pai uh hi.
+**TDB77:** Israel tanute kum khatin ni li sung kum simin Gilead mi Jefthah’ tanu hangin a thuum dingin pai-te hi.
 
-**ZVS:** Israel numeite kum khatin ni li sung kum simin Gilead mi Jefthah' tanu hangin a thum dingin paikhia uh hi.
+**ZVS:** Israel numeite kum khatin ni li sung kum simin Gilead mi Jefthah' tanu hangin a thum dingin paikhia-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

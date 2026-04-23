@@ -44,9 +44,9 @@
 ### v3
 **EN:** Thus saith the
 
-**TDB77:** Topa in hih bangin ci hi: Damaskas khuamite a khialh kikkik nilohna hangun, pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, angawina suang tawh gawizan bangin, Gilead gam mite gawi gawp uh hi.
+**TDB77:** Topa in hih bangin ci hi: Damaskas khuamite a khialh kikkik nilohna hangun, pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, angawina suang tawh gawizan bangin, Gilead gam mite gawi gawp-te hi.
 
-**ZVS:** { Topa } in hih bangin ci hi: Damaskas khuamite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in an gawina suang tawh gawizan bangin, Gilead gammite gawigawp uh hi.
+**ZVS:** { Topa } in hih bangin ci hi: Damaskas khuamite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in an gawina suang tawh gawizan bangin, Gilead gammite gawigawp-te hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -71,9 +71,9 @@
 ### v6
 **EN:** Thus saith the
 
-**TDB77:** Topa in hih bangin ci hi: Gaza khuamite a khialh kikkik nilohna hangun, pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, minam bup khat sal dingin, manin, Edom mite tungah ap uh hi.
+**TDB77:** Topa in hih bangin ci hi: Gaza khuamite a khialh kikkik nilohna hangun, pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, minam bup khat sal dingin, manin, Edom mite tungah ap-te hi.
 
-**ZVS:** { Topa } in hih bangin ci hi: Gaza khuamite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in minambup khat sal dingin manin, Edom mite tungah ap uh hi.
+**ZVS:** { Topa } in hih bangin ci hi: Gaza khuamite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in minambup khat sal dingin manin, Edom mite tungah ap-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -89,18 +89,18 @@
 ### v8
 **EN:** And I will cut off the inhabitant from Ashdod, and him that holdeth the sceptre from Ashkelon, and I will turn mine hand against Ekron: and the remnant of the Philistines shall perish, saith the Lord
 
-**TDB77:** Ashdod khuapi-a teeng mite ka lakhia ding a, Ashkelon khuapi ukte ka beisak ding hi. Ekron khuapi ka sugawp ding a, Filistia mi a om laite si ding uh hi.
+**TDB77:** Ashdod khuapi-a teeng mite ka lakhia ding a, Ashkelon khuapi ukte ka beisak ding hi. Ekron khuapi ka sugawp ding a, Filistia mi a om laite si ding-te hi.
 
-**ZVS:** Ashdod khuapi-ah a teng mite ka lakhia ding a, Ashkelon khuapi ukte ka beisak ding hi. Ekron khuapi ka sugawp ding a, Filistia mi a omlaite si ding uh hi.
+**ZVS:** Ashdod khuapi-ah a teng mite ka lakhia ding a, Ashkelon khuapi ukte ka beisak ding hi. Ekron khuapi ka sugawp ding a, Filistia mi a omlaite si ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v9
 **EN:** Thus saith the
 
-**TDB77:** Topa in hih bangin ci hi: Tai-ar khuamite a khialh kikkik nilohna hangun pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, minam bup khat Edom mite tungah ap uh a, lawmta dinga a thuciamna uh zui lo uh hi.
+**TDB77:** Topa in hih bangin ci hi: Tai-ar khuamite a khialh kikkik nilohna hangun pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, minam bup khat Edom mite tungah ap-te a, lawmta dinga a thuciamna-te zui lo-te hi.
 
-**ZVS:** { Topa } in hih bangin ci hi: Taia khuamite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in minambup khat Edom mite tungah ap uh a, lawmta dinga a thuciamna uh zuilo uh hi.
+**ZVS:** { Topa } in hih bangin ci hi: Taia khuamite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in minambup khat Edom mite tungah ap-te a, lawmta dinga a thuciamna-te zuilo-te hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -116,9 +116,9 @@
 ### v11
 **EN:** Thus saith the
 
-**TDB77:** Topa in hih bangin ci hi: Edom mite a khialh kikkik nilohna hangun, pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, a sanggam uh Israelte namsau tawh delh uh a, hehpihna lungsim nei lo uh hi. A hehna uh damsak ngei lo uh a, a tawntungin heh niloh uh hi.
+**TDB77:** Topa in hih bangin ci hi: Edom mite a khialh kikkik nilohna hangun, pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, a sanggam-te Israelte namsau tawh delh-te a, hehpihna lungsim nei lo-te hi. A hehna-te damsak ngei lo-te a, a tawntungin heh niloh-te hi.
 
-**ZVS:** { Topa } in hih bangin ci hi: Edom mite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in a sanggam uh Israel-te namsau tawh delh uh a, hehpihna lungsim neilo uh hi. A hehna uh damsak ngeilo uh a, a tawntungin heh niloh uh hi.
+**ZVS:** { Topa } in hih bangin ci hi: Edom mite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in a sanggam-te Israel-te namsau tawh delh-te a, hehpihna lungsim neilo-te hi. A hehna-te damsak ngeilo-te a, a tawntungin heh niloh-te hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -134,9 +134,9 @@
 ### v13
 **EN:** Thus saith the
 
-**TDB77:** Topa in hih bangin ci hi: Ammon mite a khialh kikkik nilohna hangun, pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, huaihamin gam a deih thuah manun, Gileah gamsung simgawp uh hi.
+**TDB77:** Topa in hih bangin ci hi: Ammon mite a khialh kikkik nilohna hangun, pel loin amaute daan ka tat ding hi. Bang hang hiam cih leh amaute in, huaihamin gam a deih thuah manun, Gileah gamsung simgawp-te hi.
 
-**ZVS:** { Topa } in hih bangin ci hi: Ammon mite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in huaihamin gam a deihthuah manun Gilead gam simgawp uh hi.
+**ZVS:** { Topa } in hih bangin ci hi: Ammon mite thumvei a khialh khit, a liveina hangin pelloin amaute gim ka pia ding hi. Bang hang hiam cih leh amaute in huaihamin gam a deihthuah manun Gilead gam simgawp-te hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -152,9 +152,9 @@
 ### v15
 **EN:** And their king shall go into captivity, he and his princes together, saith the
 
-**TDB77:** A kumpipa uh leh a uliante salin kiman ding hi.
+**TDB77:** A kumpipa-te leh a uliante salin kiman ding hi.
 
-**ZVS:** A kumpipa uh leh a uliante uh salin kiman ding hi.
+**ZVS:** A kumpipa-te leh a uliante-te salin kiman ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

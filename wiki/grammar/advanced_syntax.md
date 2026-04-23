@@ -46,7 +46,7 @@ When the relative clause is more descriptive, the verb often stays in its primar
 **Biblical Evidence:**
 The ZVS and TDB77 Bibles consistently follow this subject-dependent negation:
 - `Thupha nong piak kei leh...` (If you don't give me a blessing) — *Gen 32:26*
-- `Nong pia ding uh hi; tua hi kei leh...` (You shall give it; otherwise...) — *1 Sam 2:16*
+- `Nong pia ding-te hi; tua hi kei leh...` (You shall give it; otherwise...) — *1 Sam 2:16*
 - *See [Biblical Sentence Patterns](biblical_sentence_patterns.md) for more.*
 
 ### The "Provided that / As long as" (Ciang)
@@ -110,7 +110,7 @@ To ensure "Correct Zolai" over "Beautiful Zolai" (as emphasized in *Zolai Gelhma
 
 | Category | Incorrect (Wrong) | Correct (ZVS Standard) | Reason |
 | :--- | :--- | :--- | :--- |
-| **First Person Plural** | `I pai uh hi` | `I pai hi` | `I` (we) already implies the group; `uh` is redundant. |
+| **First Person Plural** | `I pai-te hi` | `I pai hi` | `I` (we) already implies the group; `uh` is redundant. |
 | **Word Ordering** | `A u a huh buh tuh` | `A u buh tuh a huh hi` | Object `buh tuh` (planting) must precede the verb `huh` (help). |
 | **Negation Stems** | `Pai lo` | `Paih lo` (secondary) | In formal subordinates or specific markers, Stem II is required. |
 | **Space Usage** | `Nathapa` | `Na tapa` | Consistent spacing between possessive particle and noun is critical. |

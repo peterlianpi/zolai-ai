@@ -31,7 +31,7 @@
 ### v2
 **EN:** If ye have heard of the dispensation of the grace of God which is given me to you-ward:
 
-**TDB77:** Note' phattuamna dingin Pasian in hong hehpihna tawh hih nasep a sem dingin a hong sawlna thu na theihsa uh ahi hi.
+**TDB77:** Note' phattuamna dingin Pasian in hong hehpihna tawh hih nasep a sem dingin a hong sawlna thu na theihsa-te ahi hi.
 
 **Grammar:** purpose: in order to
 
@@ -47,9 +47,9 @@
 ### v4
 **EN:** Whereby, when ye read, ye may understand my knowledge in the mystery of Christ)
 
-**TDB77:** Tua thute na sim le-uh teh, Khazih’ thuthukte ka theih note in na thei ding uh hi.
+**TDB77:** Tua thute na sim le-uh teh, Khazih’ thuthukte ka theih note in na thei ding-te hi.
 
-**ZVS:** Tua ka laigelh na sim le uh cin Khrih tawh kisai a thusim ka theihna thu na phawk ding uh hi.
+**ZVS:** Tua ka laigelh na sim le-te cin Khrih tawh kisai a thusim ka theihna thu na phawk ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -65,9 +65,9 @@
 ### v6
 **EN:** That the Gentiles should be fellowheirs, and of the same body, and partakers of his promise in Christ by the gospel:
 
-**TDB77:** Tua thuthuk in: Gentailte in Lungdamna Thu hangin Judah mite tawh a luah khawm mi, pumpi khat’nate suak khawmin Khazih Zeisu tawh kipawl thuciamna a zomkhawm mi a suak uh hi.
+**TDB77:** Tua thuthuk in: Gentailte in Lungdamna Thu hangin Judah mite tawh a luah khawm mi, pumpi khat’nate suak khawmin Khazih Zeisu tawh kipawl thuciamna a zomkhawm mi a suak-te hi.
 
-**ZVS:** Tua thusim pen: Lungdamna thu a kihilhna hangin Gentail mite in Jew mite tawh Pasian' thupha ngahkhawm thei a, amaute tawh pawlkhat suakin, Pasian in piakdingin a ciam thute, Khrih hangin a ngahkhop theihna uh ahi hi.
+**ZVS:** Tua thusim pen: Lungdamna thu a kihilhna hangin Gentail mite in Jew mite tawh Pasian' thupha ngahkhawm thei a, amaute tawh pawlkhat suakin, Pasian in piakdingin a ciam thute, Khrih hangin a ngahkhop theihna-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -148,14 +148,14 @@
 ### v18
 **EN:** May be able to comprehend with all saints what is the breadth, and length, and depth, and height;
 
-**TDB77:** misiangthote tawh a dung, a vai, a sang, a niamte khenin na theih khawm nading uh ahi zongin,
+**TDB77:** misiangthote tawh a dung, a vai, a sang, a niamte khenin na theih khawm nading-te ahi zongin,
 
-**ZVS:** Tua hi leh note in Pasian mi ahi midangte khempeuh tawh Khrih hong itna bangzah takin sau-in zai a, bangzah takin thukin sang ahi hiam, cih na theikhawm ding uh hi.
+**ZVS:** Tua hi leh note in Pasian mi ahi midangte khempeuh tawh Khrih hong itna bangzah takin sau-in zai a, bangzah takin thukin sang ahi hiam, cih na theikhawm ding-te hi.
 
 ### v19
 **EN:** And to know the love of Christ, which passeth knowledge, that ye might be filled with all the fulness of God.
 
-**TDB77:** nomau pilna tawh na theih zawh loh uh Khazih’ itna na theih tel nading uh ahi zongin, note in hih thei-in Pasian’ kicin’na a om khempeuh tawh na kidim nading uh thu ka ngen hi.
+**TDB77:** nomau pilna tawh na theih zawh loh-te Khazih’ itna na theih tel nading-te ahi zongin, note in hih thei-in Pasian’ kicin’na a om khempeuh tawh na kidim nading-te thu ka ngen hi.
 
 **ZVS:** Khrih hong itna a kicing takin theihkhit zawhloh ding ahi ta zongin note in thei-in, Pasian thu a cingin na theihna dingun thu ka hong ngetsak hi.
 
@@ -171,7 +171,7 @@
 ### v21
 **EN:** Unto him be glory in the church by Christ Jesus throughout all ages, world without end. Amen.
 
-**TDB77:** eite' Pasian pen, pawlpi mite khempeuh leh Khrih Jesuh tawh a kipawl mi khempeuh in a khang khangin a tawntungin phat ciat ta uh hen. Amen.
+**TDB77:** eite' Pasian pen, pawlpi mite khempeuh leh Khrih Jesuh tawh a kipawl mi khempeuh in a khang khangin a tawntungin phat ciat ta-te hen. Amen.
 
 **Grammar:** reciprocal: ki- prefix
 

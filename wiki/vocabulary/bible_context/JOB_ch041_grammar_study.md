@@ -88,9 +88,9 @@
 ### v9
 **EN:** Behold, the hope of him is in vain: shall not one be cast down even at the sight of him?
 
-**TDB77:** Awle a mu mi peuhmah lau-in, lei-ah puk uh hi.
+**TDB77:** Awle a mu mi peuhmah lau-in, lei-ah puk-te hi.
 
-**ZVS:** “Awle a mu mi peuhmah lau-in lei-ah a puk uh hi.
+**ZVS:** “Awle a mu mi peuhmah lau-in lei-ah a puk-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -222,9 +222,9 @@
 ### v25
 **EN:** When he raiseth up himself, the mighty are afraid: by reason of breakings they purify themselves.
 
-**TDB77:** Amah hong kithawi ciangin mi thahat pente nangawn lau a, kihta in cih nading thei loin om uh hi.
+**TDB77:** Amah hong kithawi ciangin mi thahat pente nangawn lau a, kihta in cih nading thei loin om-te hi.
 
-**ZVS:** Amah hong kithawi ciangin mi thahat pente nangawn lau a, kihta mahmah uh ahih manin cihna ding theiloin a om uh hi.
+**ZVS:** Amah hong kithawi ciangin mi thahat pente nangawn lau a, kihta mahmah-te ahih manin cihna ding theiloin a om-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

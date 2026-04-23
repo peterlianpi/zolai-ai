@@ -87,9 +87,9 @@
 ### v8
 **EN:** And when he had taken the book, the four beasts and four and twenty elders fell down before the Lamb, having every one of them harps, and golden vials full of odours, which are the prayers of saints.
 
-**TDB77:** Tua lai takin gawsemte tawi tham loin, misiangthote’ thungetna ahi, paknamtui tawh a dim kham haite a tawi tek uh a, ganhing li tawh upa sawmnih leh lite in Tuuno mai-ah bokin:
+**TDB77:** Tua lai takin gawsemte tawi tham loin, misiangthote’ thungetna ahi, paknamtui tawh a dim kham haite a tawi tek-te a, ganhing li tawh upa sawmnih leh lite in Tuuno mai-ah bokin:
 
-**ZVS:** Tua laizial a lak khit ciangin ganhing lite leh upa sawmnihlelite, Topa' mai-ah a kun uh hi. Amaute in harp lasakna khat ciat leh Pasian' mi siangthote in thungetna-in a zat uh paknamtui a dimin a om paknamtui beel khat ciat a tawi uh hi.
+**ZVS:** Tua laizial a lak khit ciangin ganhing lite leh upa sawmnihlelite, Topa' mai-ah a kun-te hi. Amaute in harp lasakna khat ciat leh Pasian' mi siangthote in thungetna-in a zat-te paknamtui a dimin a om paknamtui beel khat ciat a tawi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -98,23 +98,23 @@
 
 **TDB77:** “Nangmah in laibu la-in, ciamtehnate hong dingin na kilawm hi. Bang hang hiam na cih leh, thahna na thuak khit ciangin mi nam khempeuh, kam khempeuh, pawl khempeuh, gam khempeuhte sung panin, Pasian ading na sisan tawh lei-in,
 
-**ZVS:** Amaute in la thak khat sa uh a, “Nang Tuuno, tua laizial a lakhia ding leh a ciamtehnate a lakhia dingin na kilawm hi. Nang hong kigo khin ahih manin mi namkim leh pau namkim a pau mite sung panin na sisan tawh Pasian-a' dingin mite na lei khin a,
+**ZVS:** Amaute in la thak khat sa-te a, “Nang Tuuno, tua laizial a lakhia ding leh a ciamtehnate a lakhia dingin na kilawm hi. Nang hong kigo khin ahih manin mi namkim leh pau namkim a pau mite sung panin na sisan tawh Pasian-a' dingin mite na lei khin a,
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v10
 **EN:** And hast made us unto our God kings and priests: and we shall reign on the earth.
 
-**TDB77:** Ko’ Pasian mai-ah kumpi za-ah ahi zongin, siampi za-ah ahi zongin na koih hi; tuate in leitung ukin a om ding uh hi,” ci-in la thak a sa uh hi.
+**TDB77:** Ko’ Pasian mai-ah kumpi za-ah ahi zongin, siampi za-ah ahi zongin na koih hi; tuate in leitung ukin a om ding-te hi,” ci-in la thak a sa-te hi.
 
-**ZVS:** Pasian' na a sem dingin siampi za leh kumpi za na pia a, amaute in leitung ukin a om ding uh hi,” a ci uh hi.
+**ZVS:** Pasian' na a sem dingin siampi za leh kumpi za na pia a, amaute in leitung ukin a om ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v11
 **EN:** And I beheld, and I heard the voice of many angels round about the throne and the beasts and the elders: and the number of them was ten thousand times ten thousand, and thousands of thousands;
 
-**TDB77:** Tua lai takin tokhom-a kipan ganhingte leh upate kimkotah vantungmi tampi ka mu a, amau aw zong ka za hi. Amau a kisim ciangin tultul, thenthen ahi uh hi.
+**TDB77:** Tua lai takin tokhom-a kipan ganhingte leh upate kimkotah vantungmi tampi ka mu a, amau aw zong ka za hi. Amau a kisim ciangin tultul, thenthen ahi-te hi.
 
 **ZVS:** Tua ciangin ka khuadak leh tokhom leh ganhing lite leh upate' kimkotah a tul a makin a ding miaimuai vantung mite' awging ka za hi.
 
@@ -123,27 +123,27 @@
 ### v12
 **EN:** Saying with a loud voice, Worthy is the Lamb that was slain to receive power, and riches, and wisdom, and strength, and honour, and glory, and blessing.
 
-**TDB77:** Tua vantungmite in: “Thahna a thuak Tuuno in, vangliatna, hauhna, pilna, hatna, pahtawina leh phatna thuphate ngah dingin a kilawm hi,” ci-in nakpi-in kiko-in a phat uh hi.
+**TDB77:** Tua vantungmite in: “Thahna a thuak Tuuno in, vangliatna, hauhna, pilna, hatna, pahtawina leh phatna thuphate ngah dingin a kilawm hi,” ci-in nakpi-in kiko-in a phat-te hi.
 
-**ZVS:** Amaute in nakpi takin la sa uh a, “A kigo Tuuno in vangliatna leh hauhna, pilna leh thahatna, pahtawina, minthan'na, leh phatna, a ngah dingin kilawm hi,” a ci uh hi.
+**ZVS:** Amaute in nakpi takin la sa-te a, “A kigo Tuuno in vangliatna leh hauhna, pilna leh thahatna, pahtawina, minthan'na, leh phatna, a ngah dingin kilawm hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And every creature which is in heaven, and on the earth, and under the earth, and such as are in the sea, and all that are in them, heard I saying, Blessing, and honour, and glory, and power, be unto him that sitteth upon the throne, and unto the Lamb for ever and ever.
 
-**TDB77:** Vantung, leitung, leinuai leh tui tungah a om a bawlsa ganhing khempeuhte akipan, tua vantung, leitung, lei nuai leh tui tungah a om na khempeuh in zong: “Tokhom tungah a tu mi leh Tuuno tungah, phatna, pahtawina, minthan’na leh vangliatnate a tawntung pan a tawntung dongin om ta hen,” ci-in a phat uh hi.
+**TDB77:** Vantung, leitung, leinuai leh tui tungah a om a bawlsa ganhing khempeuhte akipan, tua vantung, leitung, lei nuai leh tui tungah a om na khempeuh in zong: “Tokhom tungah a tu mi leh Tuuno tungah, phatna, pahtawina, minthan’na leh vangliatnate a tawntung pan a tawntung dongin om ta hen,” ci-in a phat-te hi.
 
-**ZVS:** Tua ciangin vantung, leitung, leinuai, tuipi sung leh mun khempeuhah a om nuntakna a nei khempeuh in la a sakna uh ka za a, amaute in, “Tokhom tungah a tupa leh Tuuno in phatna, pahtawina, minthan'na leh vangliatna, ngah tawntung ta hen,” a ci uh hi.
+**ZVS:** Tua ciangin vantung, leitung, leinuai, tuipi sung leh mun khempeuhah a om nuntakna a nei khempeuh in la a sakna-te ka za a, amaute in, “Tokhom tungah a tupa leh Tuuno in phatna, pahtawina, minthan'na leh vangliatna, ngah tawntung ta hen,” a ci-te hi.
 
 **Grammar:** optative: let there be / let it be | quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v14
 **EN:** And the four beasts said, Amen. And the four and twenty elders fell down and worshipped him that liveth for ever and ever.
 
-**TDB77:** Ganhing lite in zong, ‘Amen,” a ci uh hi. Tua lai takin upate in bokin a bia uh hi.
+**TDB77:** Ganhing lite in zong, ‘Amen,” a ci-te hi. Tua lai takin upate in bokin a bia-te hi.
 
-**ZVS:** Tua ciangin ganhing lite in zong, “Amen,” na ci uh a, upate in zong khukdin'in Pasian a bia uh hi.
+**ZVS:** Tua ciangin ganhing lite in zong, “Amen,” na ci-te a, upate in zong khukdin'in Pasian a bia-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 

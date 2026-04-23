@@ -34,9 +34,9 @@
 ### v2
 **EN:** And saying, Repent ye: for the kingdom of heaven is at hand.
 
-**TDB77:** Tua ahih ciangin na mawhna uh kisik kik ta un,” ci-in Judah gam, gampa lakah a hilh hi.
+**TDB77:** Tua ahih ciangin na mawhna-te kisik kik ta un,” ci-in Judah gam, gampa lakah a hilh hi.
 
-**ZVS:** “Vantung ki-ukna hun hong naita ahih manin na mawhnate uh kisik kik un,” a ci hi.
+**ZVS:** “Vantung ki-ukna hun hong naita ahih manin na mawhnate-te kisik kik un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -61,18 +61,18 @@
 ### v5
 **EN:** Then went out to him Jerusalem, and all Judaea, and all the region round about Jordan,
 
-**TDB77:** Tua lai takin Jerusalem khuapi, Judah gam, Jordan gun gei-ah a om mi khempeuhte Johan kiangah va pai uh a,
+**TDB77:** Tua lai takin Jerusalem khuapi, Judah gam, Jordan gun gei-ah a om mi khempeuhte Johan kiangah va pai-te a,
 
-**ZVS:** Jerusalem khua, Judea gamsung, leh Jordan Gun kiim gam panin mite hong pai uh hi.
+**ZVS:** Jerusalem khua, Judea gamsung, leh Jordan Gun kiim gam panin mite hong pai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And were baptized of him in Jordan, confessing their sins.
 
-**TDB77:** amau mawhna khialhna pulakin Jordan gun sungah ama khut tungah kibaptaiz uh hi.
+**TDB77:** amau mawhna khialhna pulakin Jordan gun sungah ama khut tungah kibaptaiz-te hi.
 
-**ZVS:** Amaute in a mawhnate uh hong pulak uh a, Johan in Jordan Gun sungah amaute a tuiphum hi.
+**ZVS:** Amaute in a mawhnate-te hong pulak-te a, Johan in Jordan Gun sungah amaute a tuiphum hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -81,7 +81,7 @@
 
 **TDB77:** Farisai-te leh Saddusi-te a kibaptaiz dinga hong pai Johan in a muh ciangin, “No mualtan’ suante aw, a hong tung ding hehna pan na taikhiat nadingun kua in hong hilhkhol hiam?
 
-**ZVS:** Ahi zongin Farisi mite leh Saddusi mite tampi tak tui a kiphum dingin a hong pai a muh ciangin Johan in amaute kiangah, “Gul bangin ngian a zang note aw, a hong tung ding Pasian' hehna panin na suahtak theihna ding uh kua in hong hilhkhol ahi hiam?
+**ZVS:** Ahi zongin Farisi mite leh Saddusi mite tampi tak tui a kiphum dingin a hong pai a muh ciangin Johan in amaute kiangah, “Gul bangin ngian a zang note aw, a hong tung ding Pasian' hehna panin na suahtak theihna ding-te kua in hong hilhkhol ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -90,7 +90,7 @@
 
 **TDB77:** Mawhna kisik kikna tawh kilawm gah na gah un.
 
-**ZVS:** Na kisik kikna uh a kilangsak ding gamtatna gamta un la,
+**ZVS:** Na kisik kikna-te a kilangsak ding gamtatna gamta un la,
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -115,9 +115,9 @@
 ### v11
 **EN:** I indeed baptize you with water unto repentance: but he that cometh after me is mightier than I, whose shoes I am not worthy to bear: he shall baptize you with the Holy Ghost, and with fire:
 
-**TDB77:** Keimah in na mawhna na kisikkikna uh hangin tui sungah ka hong baptaiz hi. Ahih hangin ka nungah hong paipa in kei sangin a lianzaw hi. Ama khedap tawi ding nangawn ka kilawm kei hi. Amah in Kha Siangtho leh mei sungah note hong baptaiz ding hi.
+**TDB77:** Keimah in na mawhna na kisikkikna-te hangin tui sungah ka hong baptaiz hi. Ahih hangin ka nungah hong paipa in kei sangin a lianzaw hi. Ama khedap tawi ding nangawn ka kilawm kei hi. Amah in Kha Siangtho leh mei sungah note hong baptaiz ding hi.
 
-**ZVS:** Na kisikkik khitna uh a kilatna dingin tui sungah note ka hong phum a, ahi zongin kei nungah a hong paipa in Kha Siangtho leh mei sungah note hong phum ding hi. Tua a hong pai dingpa pen kei sangin nakpi takin lianzaw a, ama khedap a tawisak ding nangawnin ka kilawmzo nai kei hi.
+**ZVS:** Na kisikkik khitna-te a kilatna dingin tui sungah note ka hong phum a, ahi zongin kei nungah a hong paipa in Kha Siangtho leh mei sungah note hong phum ding hi. Tua a hong pai dingpa pen kei sangin nakpi takin lianzaw a, ama khedap a tawisak ding nangawnin ka kilawmzo nai kei hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 

@@ -53,14 +53,14 @@
 ### v5
 **EN:** And the Egyptians shall know that I am the
 
-**TDB77:** Keimah in Egypt tungah gimna tung sakin amaute' lak panin Israel mite ka paikhiatpih ciangin Egypt mite in { Topa } ka hihna hong thei ding uh hi,” a ci hi.
+**TDB77:** Keimah in Egypt tungah gimna tung sakin amaute' lak panin Israel mite ka paikhiatpih ciangin Egypt mite in { Topa } ka hihna hong thei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v6
 **EN:** And Moses and Aaron did as the
 
-**TDB77:** Moses leh Aaron zong { Topa' } sawl bangmahin gamta uh a, { Topa } in amaute a thupiak bangin amaute in sem uh hi.
+**TDB77:** Moses leh Aaron zong { Topa' } sawl bangmahin gamta-te a, { Topa } in amaute a thupiak bangin amaute in sem-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -81,28 +81,28 @@
 ### v9
 **EN:** When Pharaoh shall speak unto you, saying, Shew a miracle for you: then thou shalt say unto Aaron, Take thy rod, and cast it before Pharaoh, and it shall become a serpent.
 
-**TDB77:** “Faro in note kiangah, ‘Note a thutak na hihna uh na lamdang khat tawh hong lak un,’ hong cih ciangin nangmah in Aaron kiangah, ‘Gulpi khat a suah theihna dingin na ciangkhut la in la, Faro' mai-ah khia suk in,’ ci in,” a ci hi.
+**TDB77:** “Faro in note kiangah, ‘Note a thutak na hihna-te na lamdang khat tawh hong lak un,’ hong cih ciangin nangmah in Aaron kiangah, ‘Gulpi khat a suah theihna dingin na ciangkhut la in la, Faro' mai-ah khia suk in,’ ci in,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix
 
 ### v10
 **EN:** And Moses and Aaron went in unto Pharaoh, and they did so as the
 
-**TDB77:** Tua ahih ciangin Faro' kiangah Moses leh Aaron pai-in { Topa' } thupiak bangin gamta uh hi. Aaron in Faro leh a uliante' mai-ah a ciangkhut lawn suk a, gulpi khat a suak hi.
+**TDB77:** Tua ahih ciangin Faro' kiangah Moses leh Aaron pai-in { Topa' } thupiak bangin gamta-te hi. Aaron in Faro leh a uliante' mai-ah a ciangkhut lawn suk a, gulpi khat a suak hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Then Pharaoh also called the wise men and the sorcerers: now the magicians of Egypt, they also did in like manner with their enchantments.
 
-**TDB77:** Tua ciangin Faro in a mipilte leh a aisan siamte a sam hi. Egypt mitphial siamte in zong amau' siamna tawh tua bang teek mahin a bawl thei uh hi.
+**TDB77:** Tua ciangin Faro in a mipilte leh a aisan siamte a sam hi. Egypt mitphial siamte in zong amau' siamna tawh tua bang teek mahin a bawl thei-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v12
 **EN:** For they cast down every man his rod, and they became serpents: but Aaron's rod swallowed up their rods.
 
-**TDB77:** Bang hang hiam cih leh a milip in a ciangkhut uh khia suk ciat uh a, tuate gulpi vive a suak hi. Ahih hangin Aaron' ciangkhut in amau' ciangkhutte a valhtum hi.
+**TDB77:** Bang hang hiam cih leh a milip in a ciangkhut-te khia suk ciat-te a, tuate gulpi vive a suak hi. Ahih hangin Aaron' ciangkhut in amau' ciangkhutte a valhtum hi.
 
 **Grammar:** plural: uh marker
 
@@ -142,7 +142,7 @@
 ### v18
 **EN:** And the fish that is in the river shall die, and the river shall stink; and the Egyptians shall lothe to drink of the water of the river.
 
-**TDB77:** Ngasate si ding a, gun tui uihgawp ding ahih manin Egypt mite in dawn theilo ding uh hi,’ ci in,” a ci hi.
+**TDB77:** Ngasate si ding a, gun tui uihgawp ding ahih manin Egypt mite in dawn theilo ding-te hi,’ ci in,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | plural: uh marker
 
@@ -156,21 +156,21 @@
 ### v20
 **EN:** And Moses and Aaron did so, as the
 
-**TDB77:** Moses leh Aaron in { Topa' } thupiak bangin hih uh hi. Faro leh ama uliante' muhin amah in ciangkhut vik to-in Nail gun sunga om tui sat a, Nail gun sunga om tui khempeuh sisan a suak hi.
+**TDB77:** Moses leh Aaron in { Topa' } thupiak bangin hih-te hi. Faro leh ama uliante' muhin amah in ciangkhut vik to-in Nail gun sunga om tui sat a, Nail gun sunga om tui khempeuh sisan a suak hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v21
 **EN:** And the fish that was in the river died; and the river stank, and the Egyptians could not drink of the water of the river; and there was blood throughout all the land of Egypt.
 
-**TDB77:** Nail gun sunga ngasate si hi. Nail gun uih a, Egypt mite in Nail gun pan-a tui dawn theilo uh hi. Egypt gamsung khempeuhah sisan om hi.
+**TDB77:** Nail gun sunga ngasate si hi. Nail gun uih a, Egypt mite in Nail gun pan-a tui dawn theilo-te hi. Egypt gamsung khempeuhah sisan om hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** And the magicians of Egypt did so with their enchantments: and Pharaoh's heart was hardened, neither did he hearken unto them; as the
 
-**TDB77:** Ahih hangin Egypt mitphial siamte in amau' siamna tawh tua bangmah bawl thei uh hi. Tua ahih ciangin Faro' lungsim a khauh ngei mahin khauh a, { Topa' } gensa bangin amah in amaute' thu ngailo hi.
+**TDB77:** Ahih hangin Egypt mitphial siamte in amau' siamna tawh tua bangmah bawl thei-te hi. Tua ahih ciangin Faro' lungsim a khauh ngei mahin khauh a, { Topa' } gensa bangin amah in amaute' thu ngailo hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -184,7 +184,7 @@
 ### v24
 **EN:** And all the Egyptians digged round about the river for water to drink; for they could not drink of the water of the river.
 
-**TDB77:** Amaute in Nail gun tui dawn theilo uh ahih manin Egypt mite khempeuh in Nail gun kiim tengah tui dawn ding a to uh hi.
+**TDB77:** Amaute in Nail gun tui dawn theilo-te ahih manin Egypt mite khempeuh in Nail gun kiim tengah tui dawn ding a to-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 

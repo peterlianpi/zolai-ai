@@ -40,9 +40,9 @@
 ### v3
 **EN:** The fortress also shall cease from Ephraim, and the kingdom from Damascus, and the remnant of Syria: they shall be as the glory of the children of Israel, saith the
 
-**TDB77:** Efraim gam panin kulhpi bei-in, Damaskas khua panin kumpi gam mangthang ding hi; Siria mi a suakta laite pen Israel mite vangliatna mah bang ding uh hi, Vanglianpen Topa in ci hi.
+**TDB77:** Efraim gam panin kulhpi bei-in, Damaskas khua panin kumpi gam mangthang ding hi; Siria mi a suakta laite pen Israel mite vangliatna mah bang ding-te hi, Vanglianpen Topa in ci hi.
 
-**ZVS:** Efraim gam panin kulhpi bei-in, Damaskas khua panin kumpi gam mangthang ding hi. Syria mi a suakta laite pen Israel mite mah bangin mindai ding uh hi, Vanglian { Topa } in ci hi.
+**ZVS:** Efraim gam panin kulhpi bei-in, Damaskas khua panin kumpi gam mangthang ding hi. Syria mi a suakta laite pen Israel mite mah bangin mindai ding-te hi, Vanglian { Topa } in ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -76,27 +76,27 @@
 ### v7
 **EN:** At that day shall a man look to his Maker, and his eyes shall have respect to the Holy One of Israel.
 
-**TDB77:** Tua ni ciangin mite in amaute a Bawlpa pi ngaihsut ding uh a, amaute’ mit in Israelte’ Siangtho Pa en ding uh hi;
+**TDB77:** Tua ni ciangin mite in amaute a Bawlpa pi ngaihsut ding-te a, amaute’ mit in Israelte’ Siangtho Pa en ding-te hi;
 
-**ZVS:** Tua ni ciangin mite in amaute a Bawlpa pi ngaihsut ding uh a, amaute' mit in Israel-te' Siangtho Pa en ding uh hi.
+**ZVS:** Tua ni ciangin mite in amaute a Bawlpa pi ngaihsut ding-te a, amaute' mit in Israel-te' Siangtho Pa en ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v8
 **EN:** And he shall not look to the altars, the work of his hands, neither shall respect that which his fingers have made, either the groves, or the images.
 
-**TDB77:** amaute in ama’ khut tawh a bawlsa uh biakna taute don lo ding uh a, amau’ khutme tawh a bawlsa uh Asherah milimte hita leh paknamtui halna biakna taute hita leh suang ding uh hi.
+**TDB77:** amaute in ama’ khut tawh a bawlsa-te biakna taute don lo ding-te a, amau’ khutme tawh a bawlsa-te Asherah milimte hita leh paknamtui halna biakna taute hita leh suang ding-te hi.
 
-**ZVS:** Amaute in amau khut tawh a bawlsa uh biakna taute donlo ding uh a, amau' bawlsa Asherah milimte hita leh paknamtui halna biakna taute hita leh muan'in nei nawnlo ding uh hi.
+**ZVS:** Amaute in amau khut tawh a bawlsa-te biakna taute donlo ding-te a, amau' bawlsa Asherah milimte hita leh paknamtui halna biakna taute hita leh muan'in nei nawnlo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v9
 **EN:** In that day shall his strong cities be as a forsaken bough, and an uppermost branch, which they left because of the children of Israel: and there shall be desolation.
 
-**TDB77:** Tua ni ciangin amau’ khuapi muanhuaite pen, Hiv mite leh Amor mite in Israel mite’ hanga a nusiat uh lingkung pona mun tawh kibang ding a, gamkhing suak ding hi.
+**TDB77:** Tua ni ciangin amau’ khuapi muanhuaite pen, Hiv mite leh Amor mite in Israel mite’ hanga a nusiat-te lingkung pona mun tawh kibang ding a, gamkhing suak ding hi.
 
-**ZVS:** Tua ni ciangin amau' khuapi muan'huaite pen Hiv mite leh Amor mite in Israel mite' hangin a nusiat uh munte tawh kibang ding a, gamkhing a suak ding hi.
+**ZVS:** Tua ni ciangin amau' khuapi muan'huaite pen Hiv mite leh Amor mite in Israel mite' hangin a nusiat-te munte tawh kibang ding a, gamkhing a suak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -112,9 +112,9 @@
 ### v11
 **EN:** In the day shalt thou make thy plant to grow, and in the morning shalt thou make thy seed to flourish: but the harvest shall be a heap in the day of grief and of desperate sorrow.
 
-**TDB77:** tuate na suan ni mah-un khang a, na tuh ni uh a zingsang mahin a pak hangin a gah om lo ding, cinatna leh a dam theilo natna hong tun’ ni hi ding hi.
+**TDB77:** tuate na suan ni mah-un khang a, na tuh ni-te a zingsang mahin a pak hangin a gah om lo ding, cinatna leh a dam theilo natna hong tun’ ni hi ding hi.
 
-**ZVS:** tuate na suan' ni mahun thakhatin khang a, na tuh ni uh a zing ciang mahin a hong pak hangin note in a gah na lokha kei ding uh hi. Gimna leh lungkhamna hong tun' ni-in tuate maimang ding hi.
+**ZVS:** tuate na suan' ni mahun thakhatin khang a, na tuh ni-te a zing ciang mahin a hong pak hangin note in a gah na lokha kei ding-te hi. Gimna leh lungkhamna hong tun' ni-in tuate maimang ding hi.
 
 **Grammar:** future: will | negation: lo | plural: uh marker
 
@@ -130,9 +130,9 @@
 ### v13
 **EN:** The nations shall rush like the rushing of many waters: but God shall rebuke them, and they shall flee far off, and shall be chased as the chaff of the mountains before the wind, and like a rolling thing before the whirlwind.
 
-**TDB77:** Tui lianpi a ging bangin minamte awng uh hi, ahih hangin amah in amaute tai ding a, gamlapi-ah amaute taikhia ding uh hi; mual tunga huih mai-ah ansi leeng bang leh huihpi mai-a pingpei bangin amaute lengkhia mang ding uh hi.
+**TDB77:** Tui lianpi a ging bangin minamte awng-te hi, ahih hangin amah in amaute tai ding a, gamlapi-ah amaute taikhia ding-te hi; mual tunga huih mai-ah ansi leeng bang leh huihpi mai-a pingpei bangin amaute lengkhia mang ding-te hi.
 
-**ZVS:** Tui lianpi a ging bangin minamte awng uh hi. Ahih hangin amah in amaute tai ding a, gamlapi pekah amaute taikhia ding uh hi. Mualtunga huih mai-ah ansi leeng bang leh huihpi mai-a pingpei bangin leengkhia mang ding uh hi.
+**ZVS:** Tui lianpi a ging bangin minamte awng-te hi. Ahih hangin amah in amaute tai ding a, gamlapi pekah amaute taikhia ding-te hi. Mualtunga huih mai-ah ansi leeng bang leh huihpi mai-a pingpei bangin leengkhia mang ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -141,7 +141,7 @@
 
 **TDB77:** En un, nitakin hong lausak vat a, zingsang ma-in amaute bei ta! Hih bang thute pen, eite hong susia-in eite hong luh gawpte’ thuak ding ahi hi.
 
-**ZVS:** En un, nitakin hong lausak a, zingsang ma-in amaute beita! Hih bang thute pen eite hong susia-in eite a hong luhgawpte in a thuak ding uh ahi hi.
+**ZVS:** En un, nitakin hong lausak a, zingsang ma-in amaute beita! Hih bang thute pen eite hong susia-in eite a hong luhgawpte in a thuak ding-te ahi hi.
 
 **Grammar:** serial verb: -in (and then)
 

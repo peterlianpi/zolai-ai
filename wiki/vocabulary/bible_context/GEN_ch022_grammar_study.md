@@ -60,18 +60,18 @@
 ### v5
 **EN:** And Abraham said unto his young men, Abide ye here with the ass; and I and the lad will go yonder and worship, and come again to you.
 
-**TDB77:** Tua ciangin Abraham in a tangvalte' kiangah, “Hi lai-ah la tawh na om un; kei leh tangvalpa hua lamah pai-in ka va bia ding uh a, note kiangah ka hong paikik ding uh hi,” ci hi.
+**TDB77:** Tua ciangin Abraham in a tangvalte' kiangah, “Hi lai-ah la tawh na om un; kei leh tangvalpa hua lamah pai-in ka va bia ding-te a, note kiangah ka hong paikik ding-te hi,” ci hi.
 
-**ZVS:** Tua ciangin Abraham in a nasemte kiangah, “Hih lai-ah la tawh na om un. Kei leh tangvalpa hua lamah pai-in Pasian ka va bia ding uh a, note kiangah ka hong paikik ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin Abraham in a nasemte kiangah, “Hih lai-ah la tawh na om un. Kei leh tangvalpa hua lamah pai-in Pasian ka va bia ding-te a, note kiangah ka hong paikik ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And Abraham took the wood of the burnt offering, and laid it upon Isaac his son; and he took the fire in his hand, and a knife; and they went both of them together.
 
-**TDB77:** Abraham in meihal biakna sing la-in a tapa Isaak’ tungah suan hi; amah in a khut sungah mei leh temta tawi hi. Tua ahih ciangin amaute gel paikhawm uh hi.
+**TDB77:** Abraham in meihal biakna sing la-in a tapa Isaak’ tungah suan hi; amah in a khut sungah mei leh temta tawi hi. Tua ahih ciangin amaute gel paikhawm-te hi.
 
-**ZVS:** Abraham in meihal biakna ding sing la-in a tapa Isaac' tungah suan a, amah in a khutsungah mei leh temta a tawi hi. Tua bangin amaute gel paikhawm uh hi.
+**ZVS:** Abraham in meihal biakna ding sing la-in a tapa Isaac' tungah suan a, amah in a khutsungah mei leh temta a tawi hi. Tua bangin amaute gel paikhawm-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** And Abraham said, My son, God will provide himself a lamb for a burnt offering: so they went both of them together.
 
-**TDB77:** Abraham in, “Pasian in meihal biakpiak nadingin ama ading tuuno hong pia ding hi, ka ta aw,” ci hi. Tua ahih ciangin amaute gel paikhawm uh hi.
+**TDB77:** Abraham in, “Pasian in meihal biakpiak nadingin ama ading tuuno hong pia ding hi, ka ta aw,” ci hi. Tua ahih ciangin amaute gel paikhawm-te hi.
 
-**ZVS:** Abraham in, “Pasian in meihal biakpiakna dingin ama-a' ding tuuno hong pia ding hi, ka ta aw,” a ci hi. Tua bangin amaute gel paikhawm uh hi.
+**ZVS:** Abraham in, “Pasian in meihal biakpiakna dingin ama-a' ding tuuno hong pia ding hi, ka ta aw,” a ci hi. Tua bangin amaute gel paikhawm-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
@@ -130,7 +130,7 @@
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to
 
 ### v13
-**EN:** And Abraham lifted up his eyes, and looked, and behold behind him a ram caught in a thicket by his horns: and Abraham went and took the ram, and offered him up for a burnt offering in the stead of his son.
+**EN:** And Abraham lifted up his eyes, and looked, and behold behind him a gam caught in a thicket by his horns: and Abraham went and took the gam, and offered him up for a burnt offering in the stead of his son.
 
 **TDB77:** Abraham in a lu phongto-in khuadak hi, en in, khaumang lakah a ki-a a awk tuutal khat a nungah om hi; Abraham pai-in tuutal kai a, ama tapa, tangin meihal biak piakna-in pia hi.
 
@@ -166,27 +166,27 @@
 ### v17
 **EN:** That in blessing I will bless thee, and in multiplying I will multiply thy seed as the stars of the heaven, and as the sand which is upon the sea shore; and thy seed shall possess the gate of his enemies;
 
-**TDB77:** nang thupha kong pia taktak ding hi, na suan-le-khakte van-a aksite leh tuipi gei-a sehnel bangin tampi ka phasak ding hi. Na suan-le-khakte in amau’ galte’ khuapite luah ding uh a,
+**TDB77:** nang thupha kong pia taktak ding hi, na suan-le-khakte van-a aksite leh tuipi gei-a sehnel bangin tampi ka phasak ding hi. Na suan-le-khakte in amau’ galte’ khuapite luah ding-te a,
 
-**ZVS:** Nang thupha kong pia taktak ding a, na suanlekhakte vana aksite leh tuipi gei-a sehnel bangin tampi ka phasak ding hi. Na suanlekhakte in amau' galte' khuapite luah ding uh a,
+**ZVS:** Nang thupha kong pia taktak ding a, na suanlekhakte vana aksite leh tuipi gei-a sehnel bangin tampi ka phasak ding hi. Na suanlekhakte in amau' galte' khuapite luah ding-te a,
 
 **Grammar:** future: will | plural: uh marker
 
 ### v18
 **EN:** And in thy seed shall all the nations of the earth be blessed; because thou hast obeyed my voice.
 
-**TDB77:** na suan-le-khakte thupha ka piak bangin, leitung minam khempeuh in thupha a ngah nadingun hong ngen ding uh hi, bang hang hiam cih leh nang in ka thu na mang hi,” ci hi.
+**TDB77:** na suan-le-khakte thupha ka piak bangin, leitung minam khempeuh in thupha a ngah nadingun hong ngen ding-te hi, bang hang hiam cih leh nang in ka thu na mang hi,” ci hi.
 
-**ZVS:** na suanlekhakte thupha ka piak bangin, leitung minam khempeuh in thupha a ngahna dingun hong ngen ding uh hi. Bang hang hiam cih leh nang in ka thu na mang hi,” a ci hi.
+**ZVS:** na suanlekhakte thupha ka piak bangin, leitung minam khempeuh in thupha a ngahna dingun hong ngen ding-te hi. Bang hang hiam cih leh nang in ka thu na mang hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v19
 **EN:** So Abraham returned unto his young men, and they rose up and went together to Beer–sheba; and Abraham dwelt at Beer–sheba.
 
-**TDB77:** Tua ahih ciangin tangvalte’ kiangah Abraham ciahkik a, Be-ersheba-ah paikhawm uh hi; Abraham Be-ersheba-ah teng hi.
+**TDB77:** Tua ahih ciangin tangvalte’ kiangah Abraham ciahkik a, Be-ersheba-ah paikhawm-te hi; Abraham Be-ersheba-ah teng hi.
 
-**ZVS:** Tua ciangin a nasemte' kiangah Abraham ciahkik a, Beersheba-ah paikhawm uh hi. Abraham Beersheba-ah a teng hi.
+**ZVS:** Tua ciangin a nasemte' kiangah Abraham ciahkik a, Beersheba-ah paikhawm-te hi. Abraham Beersheba-ah a teng hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

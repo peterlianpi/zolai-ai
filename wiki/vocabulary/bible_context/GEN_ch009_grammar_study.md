@@ -36,7 +36,7 @@
 
 **TDB77:** Note hong kizahtakna leh note hong kikihtakna pen leitung ganhing khempeuh huih lak vasa khempeuh, lei lak-a a bokvak khempeuh leh tuipi ngasa khempeuh tungah om ding hi; na khut sungah amaute hong kipia hi.
 
-**ZVS:** Note pen leitung ganhing khempeuh, huih lak vasa khempeuh, leilakah a bokvak khempeuh leh tuipi ngasa khempeuh in hong kihta-in hong zahtak ding uh hi. Note' khutsungah tuate hong kipia hi.
+**ZVS:** Note pen leitung ganhing khempeuh, huih lak vasa khempeuh, leilakah a bokvak khempeuh leh tuipi ngasa khempeuh in hong kihta-in hong zahtak ding-te hi. Note' khutsungah tuate hong kipia hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -54,7 +54,7 @@
 
 **TDB77:** A nuntakna, a sisan pen, a sa tawh na ne khawm kei bek ding hi.
 
-**ZVS:** A nuntakna ahi a sisan pen a sa tawh na ne khawm kei bek ding uh hi.
+**ZVS:** A nuntakna ahi a sisan pen a sa tawh na ne khawm kei bek ding-te hi.
 
 **Grammar:** future: will
 
@@ -97,9 +97,9 @@
 ### v9
 **EN:** And I, behold, I establish my covenant with you, and with your seed after you;
 
-**TDB77:** “En un, note leh note’ khit-a na suan-le-khakte uh leh,
+**TDB77:** “En un, note leh note’ khit-a na suan-le-khakte-te leh,
 
-**ZVS:** “En un, note leh note' khita na suanlekhakte uh leh,
+**ZVS:** “En un, note leh note' khita na suanlekhakte-te leh,
 
 ### v10
 **EN:** And with every living creature that is with you, of the fowl, of the cattle, and of every beast of the earth with you; from all that go out of the ark, to every beast of the earth.
@@ -183,7 +183,7 @@
 ### v19
 **EN:** These are the three sons of Noah: and of them was the whole earth overspread.
 
-**TDB77:** Hih thumte in Noah’ tapate ahi uh hi; hihte panin leitung buppi ah a kithehthang mite hong piang hi.
+**TDB77:** Hih thumte in Noah’ tapate ahi-te hi; hihte panin leitung buppi ah a kithehthang mite hong piang hi.
 
 **ZVS:** Hih Noah' tapa thumte panin leitung buppi mi tawh hong kidim hi.
 
@@ -217,9 +217,9 @@
 ### v23
 **EN:** And Shem and Japheth took a garment, and laid it upon both their shoulders, and went backward, and covered the nakedness of their father; and their faces were backward, and they saw not their father's nakedness.
 
-**TDB77:** Tua ciangin Shem leh Jafeth in puan khat la-in amaute gel’ liangko tuak-ah baang uh a, a nung leh lam-un pai-in a pa uh’ guaktang omna khuh uh hi; amaute in maingat lo uh ahih manin a pa uh’ guaktang omna mu lo uh hi.
+**TDB77:** Tua ciangin Shem leh Jafeth in puan khat la-in amaute gel’ liangko tuak-ah baang-te a, a nung leh lam-un pai-in a pa uh’ guaktang omna khuh-te hi; amaute in maingat lo-te ahih manin a pa uh’ guaktang omna mu lo-te hi.
 
-**ZVS:** Tua ciangin Shem leh Jafeth in puan khat la-in amaute gel' liangko tuakah baang uh a, a nung leh lamun pai-in a pa uh' guaktang omna a khuh uh hi. Amaute in maingat lo uh ahih manin a pa uh guaktang omna mulo uh hi.
+**ZVS:** Tua ciangin Shem leh Jafeth in puan khat la-in amaute gel' liangko tuakah baang-te a, a nung leh lamun pai-in a pa uh' guaktang omna a khuh-te hi. Amaute in maingat lo-te ahih manin a pa-te guaktang omna mulo-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | causal: because | plural: uh marker
 

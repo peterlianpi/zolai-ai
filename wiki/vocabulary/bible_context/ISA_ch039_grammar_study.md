@@ -44,18 +44,18 @@
 ### v3
 **EN:** Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country unto me, even from Babylon.
 
-**TDB77:** Tua ciangin Kumpipa Hezekiah kiangah kamsangpa Isaiah hong pai-in, “Hih mite in bang gen ahi hiam? Koi lai panin nang kiangah hong pai ahi hiam?” a ci hi. Hezekiah in, “Amaute, a gamlapi, Babilon gam panin kei kiangah hong pai uh ahi hi,” a ci hi.
+**TDB77:** Tua ciangin Kumpipa Hezekiah kiangah kamsangpa Isaiah hong pai-in, “Hih mite in bang gen ahi hiam? Koi lai panin nang kiangah hong pai ahi hiam?” a ci hi. Hezekiah in, “Amaute, a gamlapi, Babilon gam panin kei kiangah hong pai-te ahi hi,” a ci hi.
 
-**ZVS:** Tua ciangin Kumpi Hezekiah kiang-ah kamsang Isaiah hong pai-in, “Hih mite in bang hong gen ahi uh hiam? Koi lai panin nang kiangah hong pai ahi uh hiam?” a ci hi. Hezekiah in, “Amaute, a gamlapi, Babylon gam panin kei kiangah a hong pai uh ahi hi,” a ci hi.
+**ZVS:** Tua ciangin Kumpi Hezekiah kiang-ah kamsang Isaiah hong pai-in, “Hih mite in bang hong gen ahi-te hiam? Koi lai panin nang kiangah hong pai ahi-te hiam?” a ci hi. Hezekiah in, “Amaute, a gamlapi, Babylon gam panin kei kiangah a hong pai-te ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v4
 **EN:** Then said he, What have they seen in thine house? And Hezekiah answered, All that is in mine house have they seen: there is nothing among my treasures that I have not shewed them.
 
-**TDB77:** Amah in, “Amaute in na inn sungah bang mu uh hiam?” a ci hi. Hezekiah in, “Amaute in ka inn sunga om khempeuh mu khin uh hi; ka van koihna innte sunga nate amau ka lah loh om lo hi,” ci-in a dawng hi.
+**TDB77:** Amah in, “Amaute in na inn sungah bang mu-te hiam?” a ci hi. Hezekiah in, “Amaute in ka inn sunga om khempeuh mu khin-te hi; ka van koihna innte sunga nate amau ka lah loh om lo hi,” ci-in a dawng hi.
 
-**ZVS:** Amah in, “Amaute in na innsungah bang teng mu ahi uh hiam?” a ci hi. Hezekiah in, “Amaute in ka innsunga a om khempeuh a vekin mu khin uh hi. Ka vankoihna innte sunga nate amau ka lahloh omlo hi,” ci-in a dawng hi.
+**ZVS:** Amah in, “Amaute in na innsungah bang teng mu ahi-te hiam?” a ci hi. Hezekiah in, “Amaute in ka innsunga a om khempeuh a vekin mu khin-te hi. Ka vankoihna innte sunga nate amau ka lahloh omlo hi,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | negation: lo | plural: uh marker
 

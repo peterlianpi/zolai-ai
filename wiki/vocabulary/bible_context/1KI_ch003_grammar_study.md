@@ -35,9 +35,9 @@
 ### v2
 **EN:** Only the people sacrificed in high places, because there was no house built unto the name of the
 
-**TDB77:** Ahi zongin Topa min adingin inn kilam nai lo ahih manin mite in mual tunga biaknate ah biakna pia uh hi.
+**TDB77:** Ahi zongin Topa min adingin inn kilam nai lo ahih manin mite in mual tunga biaknate ah biakna pia-te hi.
 
-**ZVS:** Ahi zongin { Topa}-a' dingin biakinn kilam nailo ahih manin mite in mualtunga biaknate-ah biakna pia uh hi.
+**ZVS:** Ahi zongin { Topa}-a' dingin biakinn kilam nailo ahih manin mite in mualtunga biaknate-ah biakna pia-te hi.
 
 **Grammar:** purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -159,27 +159,27 @@
 ### v16
 **EN:** Then came there two women, that were harlots, unto the king, and stood before him.
 
-**TDB77:** Tua ciangin numei paktat nih kumpipa kiangah hong pai uh a, ama mai-ah ding uh hi.
+**TDB77:** Tua ciangin numei paktat nih kumpipa kiangah hong pai-te a, ama mai-ah ding-te hi.
 
-**ZVS:** Tua ciangin kumpipa kiangah numei paktat nih hong pai-in a mai-ah ding uh hi.
+**ZVS:** Tua ciangin kumpipa kiangah numei paktat nih hong pai-in a mai-ah ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And the one woman said, O my lord, I and this woman dwell in one house; and I was delivered of a child with her in the house.
 
-**TDB77:** A numei khat in, “Aw, ka topa aw, hih numei leh kei, inn khat sungah ka omkhawm uh hi; amah a om sungin keimah in ta khat ka nei hi.
+**TDB77:** A numei khat in, “Aw, ka topa aw, hih numei leh kei, inn khat sungah ka omkhawm-te hi; amah a om sungin keimah in ta khat ka nei hi.
 
-**ZVS:** A numei khat in, “Aw, ka topa aw, hih numei leh kei, inn khat sungah ka omkhawm uh hi; amah zong inn-ah a om sungin keimah in ta khat ka nei hi.
+**ZVS:** A numei khat in, “Aw, ka topa aw, hih numei leh kei, inn khat sungah ka omkhawm-te hi; amah zong inn-ah a om sungin keimah in ta khat ka nei hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** And it came to pass the third day after that I was delivered, that this woman was delivered also: and we were together; there was no stranger with us in the house, save we two in the house.
 
-**TDB77:** Ka ta neih khit ni thum ni ciangin hih numei in zong ta nei hi; ko bek a om ka hi uh hi; kote tawh inn sungah kuamah dang om lo a, kotegel bek inn sungah ka om uh hi.
+**TDB77:** Ka ta neih khit ni thum ni ciangin hih numei in zong ta nei hi; ko bek a om ka hi-te hi; kote tawh inn sungah kuamah dang om lo a, kotegel bek inn sungah ka om-te hi.
 
-**ZVS:** Ka ta neih khit ni thum ni ciangin hih numei in zong ta hong nei hi. Ko gel bek a om ka hi uh a, kote tawh inn sungah kuamah dang omlo hi.
+**ZVS:** Ka ta neih khit ni thum ni ciangin hih numei in zong ta hong nei hi. Ko gel bek a om ka hi-te a, kote tawh inn sungah kuamah dang omlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -213,9 +213,9 @@
 ### v22
 **EN:** And the other woman said, Nay; but the living is my son, and the dead is thy son. And this said, No; but the dead is thy son, and the living is my son. Thus they spake before the king.
 
-**TDB77:** Ahih hangin a numei dang khat in, “Hilo hi, a hing naupang in keima’ aa hi a, a si naupangin nangma’ aa ahi hi,” a ci hi. Tua ciangin a masa nu in, “Hilo hi, a si naupang in nangma’ aa hi a, a hing naupang in keima’ aa ahi hi,” a ci hi. Tua bangin kumpipa mai-ah amaute in thugen uh hi.
+**TDB77:** Ahih hangin a numei dang khat in, “Hilo hi, a hing naupang in keima’ aa hi a, a si naupangin nangma’ aa ahi hi,” a ci hi. Tua ciangin a masa nu in, “Hilo hi, a si naupang in nangma’ aa hi a, a hing naupang in keima’ aa ahi hi,” a ci hi. Tua bangin kumpipa mai-ah amaute in thugen-te hi.
 
-**ZVS:** Ahih hangin a numei dang khat in, “Hilo hi; a hing naupang keima-a' hi a, a si naupang nangma-a' ahi hi,” a ci hi. Tua ciangin a masanu in, “Hilo hi; a si naupang nangma-a' hi a, a hing naupang keima-a' ahi hi,” a ci hi. Tua bangin kumpipa' mai-ah amaute gel in thu gen tuak uh hi.
+**ZVS:** Ahih hangin a numei dang khat in, “Hilo hi; a hing naupang keima-a' hi a, a si naupang nangma-a' ahi hi,” a ci hi. Tua ciangin a masanu in, “Hilo hi; a si naupang nangma-a' hi a, a hing naupang keima-a' ahi hi,” a ci hi. Tua bangin kumpipa' mai-ah amaute gel in thu gen tuak-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
@@ -267,9 +267,9 @@
 ### v28
 **EN:** And all Israel heard of the judgment which the king had judged; and they feared the king: for they saw that the wisdom of God was in him, to do judgment.
 
-**TDB77:** Tua ciangin Israel khempeuh in kumpipa’ piak thukhenna za uh hi; thutang a sem dingin ama tungah Pasian in pilna pia hi, ci-in phawk uh ahih manin amaute in kumpipa lamdangsa-in om uh hi.
+**TDB77:** Tua ciangin Israel khempeuh in kumpipa’ piak thukhenna za-te hi; thutang a sem dingin ama tungah Pasian in pilna pia hi, ci-in phawk-te ahih manin amaute in kumpipa lamdangsa-in om-te hi.
 
-**ZVS:** Tua ciangin Israel mi khempeuh in kumpipa' piak thukhenna za uh hi. Thutang a sem dingin ama tungah Pasian in pilna pia hi, ci-in phawk uh ahih manin amaute in kumpipa lamdangsa-in a om uh hi.
+**ZVS:** Tua ciangin Israel mi khempeuh in kumpipa' piak thukhenna za-te hi. Thutang a sem dingin ama tungah Pasian in pilna pia hi, ci-in phawk-te ahih manin amaute in kumpipa lamdangsa-in a om-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | causal: because | plural: uh marker
 

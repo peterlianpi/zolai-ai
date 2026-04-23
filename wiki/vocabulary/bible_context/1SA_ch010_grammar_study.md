@@ -33,27 +33,27 @@
 ### v2
 **EN:** When thou art departed from me to day, then thou shalt find two men by Rachel's sepulchre in the border of Benjamin at Zelzah; and they will say unto thee, The asses which thou wentest to seek are found: and, lo, thy father hath left the care of the asses, and sorroweth for you, saying, What shall I do for my son?
 
-**TDB77:** Tu ni-in kei kiang panin na paikhiat ciangin Benjaminte’ gam Rachel’ han kiang Zelzah-ah mihing nih na tuak ding a, amaute in nang kiangah, ‘Pai-a na zon’ late kimu khin a, tu-in na pa in late ngaihsun nawn loin nangmah hong lunghimawh a, “Ka tapa bang cih ding ka hi hiam?” ci hi,’ hong ci ding uh hi.
+**TDB77:** Tu ni-in kei kiang panin na paikhiat ciangin Benjaminte’ gam Rachel’ han kiang Zelzah-ah mihing nih na tuak ding a, amaute in nang kiangah, ‘Pai-a na zon’ late kimu khin a, tu-in na pa in late ngaihsun nawn loin nangmah hong lunghimawh a, “Ka tapa bang cih ding ka hi hiam?” ci hi,’ hong ci ding-te hi.
 
-**ZVS:** Tuni-in kei kiang panin na paikhiat ciangin Benjamin-te' gam Rachel' han kiang Zelzah-ah mihing nih na tuak ding a, amaute in nang kiangah, ‘Pai-a na zon' late kimu khin a, tu-in na pa in late ngaihsun nawnloin nangmah hong lunghimawh a, “Ka tapa bang cih ding ka hi hiam?” ci hi,’ hong ci ding uh hi.
+**ZVS:** Tuni-in kei kiang panin na paikhiat ciangin Benjamin-te' gam Rachel' han kiang Zelzah-ah mihing nih na tuak ding a, amaute in nang kiangah, ‘Pai-a na zon' late kimu khin a, tu-in na pa in late ngaihsun nawnloin nangmah hong lunghimawh a, “Ka tapa bang cih ding ka hi hiam?” ci hi,’ hong ci ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Then shalt thou go on forward from thence, and thou shalt come to the plain of Tabor, and there shall meet thee three men going up to God to Beth–el, one carrying three kids, and another carrying three loaves of bread, and another carrying a bottle of wine:
 
-**TDB77:** Tua ciangin tua lai panin pai lai-in Tabor tawsaw lak na tung ding hi; tua lai panin Bethel-a Pasian kiangah a paito, keelno thum a pua mi khat, anlum thum a pua adang khat, leh leenggahzu savun thawl khat a pua, mi thum in nang hong dawn ding uh hi.
+**TDB77:** Tua ciangin tua lai panin pai lai-in Tabor tawsaw lak na tung ding hi; tua lai panin Bethel-a Pasian kiangah a paito, keelno thum a pua mi khat, anlum thum a pua adang khat, leh leenggahzu savun thawl khat a pua, mi thum in nang hong dawn ding-te hi.
 
-**ZVS:** Tua ciangin tua lai panin pai lai-in Tabor tawsaw lak na tung ding hi. Tua lai panin Bethel-a Pasian kiangah a paito, keelno thum a pua mi khat, anlum thum a pua adang khat, leh leenggahzu savun thawl khat a pua mi khat, mi thum in nang hong dawn ding uh hi.
+**ZVS:** Tua ciangin tua lai panin pai lai-in Tabor tawsaw lak na tung ding hi. Tua lai panin Bethel-a Pasian kiangah a paito, keelno thum a pua mi khat, anlum thum a pua adang khat, leh leenggahzu savun thawl khat a pua mi khat, mi thum in nang hong dawn ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And they will salute thee, and give thee two loaves of bread; which thou shalt receive of their hands.
 
-**TDB77:** Amaute in nang hong hopihin nangmah in amau tung panin na san’ ding anlum nih nang tungah hong pia ding uh hi.
+**TDB77:** Amaute in nang hong hopihin nangmah in amau tung panin na san’ ding anlum nih nang tungah hong pia ding-te hi.
 
-**ZVS:** Amaute in nang hong hopihin nangmah in amau' tung panin na san' ding anlum nih nang tungah hong pia ding uh hi.
+**ZVS:** Amaute in nang hong hopihin nangmah in amau' tung panin na san' ding anlum nih nang tungah hong pia ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -114,18 +114,18 @@
 ### v11
 **EN:** And it came to pass, when all that knew him beforetime saw that, behold, he prophesied among the prophets, then the people said one to another, What is this that is come unto the son of Kish? Is Saul also among the prophets?
 
-**TDB77:** Amah in kamsangte tawh mailam thu a genkholhna amah a theisa mi khempeuhte in a muh uh ciangin, mite khat leh khat in “Kish’ tapa tungah bang tung ahi hiam? Saul zong kamsang suak ahi hiam?” kici uh hi.
+**TDB77:** Amah in kamsangte tawh mailam thu a genkholhna amah a theisa mi khempeuhte in a muh-te ciangin, mite khat leh khat in “Kish’ tapa tungah bang tung ahi hiam? Saul zong kamsang suak ahi hiam?” kici-te hi.
 
-**ZVS:** Tua ciangin kamsangte tawh a gamtat khawmna, amah a theisa mi khempeuhte in a muh uh ciangin khatlekhat in, “Kish' tapa' tungah bang tung ahi hiam? Saul zong kamsang suak ahi hiam?” kici uh hi.
+**ZVS:** Tua ciangin kamsangte tawh a gamtat khawmna, amah a theisa mi khempeuhte in a muh-te ciangin khatlekhat in, “Kish' tapa' tungah bang tung ahi hiam? Saul zong kamsang suak ahi hiam?” kici-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And one of the same place answered and said, But who is their father? Therefore it became a proverb, Is Saul also among the prophets?
 
-**TDB77:** Tua ciangin tua lai-a mite khat in dongin, “Kua’ tate ahi uh hiam?” a ci hi. Tua ahih ciangin, “Saul zong kamsang suak ahi hiam?” cihna paunak khat a kipatna hong suak hi.
+**TDB77:** Tua ciangin tua lai-a mite khat in dongin, “Kua’ tate ahi-te hiam?” a ci hi. Tua ahih ciangin, “Saul zong kamsang suak ahi hiam?” cihna paunak khat a kipatna hong suak hi.
 
-**ZVS:** Tua ciangin tua lai-a mite khat in dongin, “Hih kamsang dangte kua' tate ahi uh hiam?” a ci hi. Tua ahih ciangin, “Saul nangawn kamsang suak hi,” cihna paunak a kipatna hong suak hi.
+**ZVS:** Tua ciangin tua lai-a mite khat in dongin, “Hih kamsang dangte kua' tate ahi-te hiam?” a ci hi. Tua ahih ciangin, “Saul nangawn kamsang suak hi,” cihna paunak a kipatna hong suak hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
@@ -139,9 +139,9 @@
 ### v14
 **EN:** And Saul's uncle said unto him and to his servant, Whither went ye? And he said, To seek the asses: and when we saw that they were no where, we came to Samuel.
 
-**TDB77:** Saul’ pano in amah leh a nasempa kiangah, “Koi-ah pai na hi uh hiam?” a ci hi. Amah in, “Late a zong dingin ka pai uh hi; late kimu zo lo ding ci-in ka theih uh ciangin Samuel kiangah ka pai uh hi,” a ci hi.
+**TDB77:** Saul’ pano in amah leh a nasempa kiangah, “Koi-ah pai na hi-te hiam?” a ci hi. Amah in, “Late a zong dingin ka pai-te hi; late kimu zo lo ding ci-in ka theih-te ciangin Samuel kiangah ka pai-te hi,” a ci hi.
 
-**ZVS:** Saul' pano in amah leh a nasempa a muh ciangin, “Koi-ah pai na hi uh hiam?” a ci hi. Amah in, “Late a zong dingin ka pai uh hi. Late kimu zolo ding ci-in ka theih uh ciangin Samuel kiangah ka pai uh hi,” a ci hi.
+**ZVS:** Saul' pano in amah leh a nasempa a muh ciangin, “Koi-ah pai na hi-te hiam?” a ci hi. Amah in, “Late a zong dingin ka pai-te hi. Late kimu zolo ding ci-in ka theih-te ciangin Samuel kiangah ka pai-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -184,9 +184,9 @@
 ### v19
 **EN:** And ye have this day rejected your God, who himself saved you out of all your adversities and your tribulations; and ye have said unto him, Nay, but set a king over us. Now therefore present yourselves before the
 
-**TDB77:** Ahih hangin note in na tuahsiatnate uh leh na lungkhamnate uh khempeuh panin note a hong honkhia na Pasian uh tu ni-in na nial uh hi; note in, ‘Hi lo! kote tungah kumpi khat koih in,’ na ci uh hi. Tua ahih ciangin tu-in na minam nam uh leh a tul tulin Topa’ mai-ah kilak un,” a ci hi.
+**TDB77:** Ahih hangin note in na tuahsiatnate-te leh na lungkhamnate-te khempeuh panin note a hong honkhia na Pasian-te tu ni-in na nial-te hi; note in, ‘Hi lo! kote tungah kumpi khat koih in,’ na ci-te hi. Tua ahih ciangin tu-in na minam nam-te leh a tul tulin Topa’ mai-ah kilak un,” a ci hi.
 
-**ZVS:** Ahih hangin note in na tuahsiatnate uh leh na lungkhamnate uh panin note a hong honkhia na Pasian uh tuni-in na nial uh a, note in, ‘Kote' tungah kumpi khat koih in,’ na ci uh hi. Tua ahih ciangin tu-in na minam nam uh leh a tul tulin { Topa' } mai-ah kilak un,” a ci hi.
+**ZVS:** Ahih hangin note in na tuahsiatnate-te leh na lungkhamnate-te panin note a hong honkhia na Pasian-te tuni-in na nial-te a, note in, ‘Kote' tungah kumpi khat koih in,’ na ci-te hi. Tua ahih ciangin tu-in na minam nam-te leh a tul tulin { Topa' } mai-ah kilak un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -209,27 +209,27 @@
 ### v22
 **EN:** Therefore they enquired of the
 
-**TDB77:** Tua ahih ciangin amaute in Topa kiangah dong kik uh a, “Tua mipa hih lai-ah hong pai hiam?” ci uh a, Topa in, “En un, amahmah van kawmlakah bu hi,” a ci hi.
+**TDB77:** Tua ahih ciangin amaute in Topa kiangah dong kik-te a, “Tua mipa hih lai-ah hong pai hiam?” ci-te a, Topa in, “En un, amahmah van kawmlakah bu hi,” a ci hi.
 
-**ZVS:** Tua ahih ciangin amaute in { Topa } kiangah dongkik uh a, “Tua mipa hih lai-ah hong pai hiam?” ci uh a, { Topa } in, “En un, amahmah van kawm lakah bu hi,” a ci hi.
+**ZVS:** Tua ahih ciangin amaute in { Topa } kiangah dongkik-te a, “Tua mipa hih lai-ah hong pai hiam?” ci-te a, { Topa } in, “En un, amahmah van kawm lakah bu hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** And they ran and fetched him thence: and when he stood among the people, he was higher than any of the people from his shoulders and upward.
 
-**TDB77:** Tua ciangin amaute tai-in tua lai mun panin amah hong paipih uh hi; mite lakah amah a din’ ciangin mi khat peuhpeuh sangin a liangko tung siah-in amah sangzaw hi.
+**TDB77:** Tua ciangin amaute tai-in tua lai mun panin amah hong paipih-te hi; mite lakah amah a din’ ciangin mi khat peuhpeuh sangin a liangko tung siah-in amah sangzaw hi.
 
-**ZVS:** Tua ciangin amaute tai-in tua lai mun panin amah hong paipih uh hi. Mite' lakah amah a din' ciangin mi khempeuh ama liangko ciang bek pha uh hi.
+**ZVS:** Tua ciangin amaute tai-in tua lai mun panin amah hong paipih-te hi. Mite' lakah amah a din' ciangin mi khempeuh ama liangko ciang bek pha-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v24
 **EN:** And Samuel said to all the people, See ye him whom the
 
-**TDB77:** Tua ciangin Samuel in mi khempeuh tungah, “Topa in a teelsa mipa na mu uh hiam? Mi khempeuh lakah amah tawh a kibang khat zong om lo hi,” a ci hi. Tua ciangin mi khempeuh awngin, “Kumpipa khan’ sau hen!” a ci uh hi.
+**TDB77:** Tua ciangin Samuel in mi khempeuh tungah, “Topa in a teelsa mipa na mu-te hiam? Mi khempeuh lakah amah tawh a kibang khat zong om lo hi,” a ci hi. Tua ciangin mi khempeuh awngin, “Kumpipa khan’ sau hen!” a ci-te hi.
 
-**ZVS:** Tua ciangin Samuel in mi khempeuh tungah, “{ Topa } in a teelsa mipa na mu uh hiam? Mi khempeuh lakah amah tawh a kibang khat zong omlo hi,” a ci hi. Tua ciangin mi khempeuh awngin, “Kumpipa khan'sau hen!” a ci uh hi.
+**ZVS:** Tua ciangin Samuel in mi khempeuh tungah, “{ Topa } in a teelsa mipa na mu-te hiam? Mi khempeuh lakah amah tawh a kibang khat zong omlo hi,” a ci hi. Tua ciangin mi khempeuh awngin, “Kumpipa khan'sau hen!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -247,14 +247,14 @@
 
 **TDB77:** Saul zong Gibeah-a ama inn-ah ciah a, Pasian in amau’ lungsim a lawn’sak mi thahatte zong amah tawh pai hi.
 
-**ZVS:** Saul zong Gibeah-a ama inn-ah ciah a, Pasian in amau' lungsim a lawn'sak mi thahatte zong amah tawh a pai uh hi.
+**ZVS:** Saul zong Gibeah-a ama inn-ah ciah a, Pasian in amau' lungsim a lawn'sak mi thahatte zong amah tawh a pai-te hi.
 
 ### v27
 **EN:** But the children of Belial said, How shall this man save us? And they despised him, and brought him no presents. But he held his peace.
 
-**TDB77:** Ahih hangin bangmah man lo mi pawlkhat in, “Hih mipa in eite bang hong ci hotkhiat zawh ding ahi hiam?” a ci uh hi. Amaute in amah simmawhin ama kiangah letsong puak lo uh hi. Ahih hangin amah in tua mite bangmah cih lo hi.
+**TDB77:** Ahih hangin bangmah man lo mi pawlkhat in, “Hih mipa in eite bang hong ci hotkhiat zawh ding ahi hiam?” a ci-te hi. Amaute in amah simmawhin ama kiangah letsong puak lo-te hi. Ahih hangin amah in tua mite bangmah cih lo hi.
 
-**ZVS:** Ahih hangin bangmah a manlo mi pawlkhat in, “Hih mipa in eite hong bangci hotkhiat zawh ding ahi hiam?” a ci uh hi. Amaute in amah simmawhin ama kiangah letsong puaklo uh hi. Ahih hangin amah in tua mite bangmah cihlo hi.
+**ZVS:** Ahih hangin bangmah a manlo mi pawlkhat in, “Hih mipa in eite hong bangci hotkhiat zawh ding ahi hiam?” a ci-te hi. Amaute in amah simmawhin ama kiangah letsong puaklo-te hi. Ahih hangin amah in tua mite bangmah cihlo hi.
 
 **Grammar:** quotative: said/saying | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

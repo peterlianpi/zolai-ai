@@ -54,9 +54,9 @@
 ### v4
 **EN:** For the day of vengeance is in mine heart, and the year of my redeemed is come.
 
-**TDB77:** Ka mite ka hotkhiat nading hun ta ka sa a, a galte uh phulak ding hun hi ta hi, ci-in ka ngaihsun hi.
+**TDB77:** Ka mite ka hotkhiat nading hun ta ka sa a, a galte-te phulak ding hun hi ta hi, ci-in ka ngaihsun hi.
 
-**ZVS:** Ka mite ka hotkhiat ding hunta ka sa a, a galte uh gimpiak ding a hun hita hi, ci-in ka ngaihsun hi.
+**ZVS:** Ka mite ka hotkhiat ding hunta ka sa a, a galte-te gimpiak ding a hun hita hi, ci-in ka ngaihsun hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -108,36 +108,36 @@
 ### v10
 **EN:** But they rebelled, and vexed his holy Spirit: therefore he was turned to be their enemy, and he fought against them.
 
-**TDB77:** Ahih hangin amaute in amah lehdo uh a, a Kha Siangtho dahsak uh hi; tua ahih ciangin amah pen amaute’ gal suak a, amahmah in amaute a do hi.
+**TDB77:** Ahih hangin amaute in amah lehdo-te a, a Kha Siangtho dahsak-te hi; tua ahih ciangin amah pen amaute’ gal suak a, amahmah in amaute a do hi.
 
-**ZVS:** Ahih hangin amaute in lehdo uh a, ama kha siangtho a dahsak uh hi. Tua ahih ciangin amah pen amaute' gal suak a, amahmah in amaute a do hi.
+**ZVS:** Ahih hangin amaute in lehdo-te a, ama kha siangtho a dahsak-te hi. Tua ahih ciangin amah pen amaute' gal suak a, amahmah in amaute a do hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v11
 **EN:** Then he remembered the days of old, Moses, and his people, saying, Where is he that brought them up out of the sea with the shepherd of his flock? where is he that put his holy Spirit within him?
 
-**TDB77:** Tua ciangin amaute in hun lui lai, ama nasem Moses’ hun phawk uh hi. Ama tuuhonte a cing tuucingpa, tuipi sung pan a, a paikhiatpih Topa koi-ah om ta ahi hiam? Amaute’ tungah a Kha Siangtho a piapa,
+**TDB77:** Tua ciangin amaute in hun lui lai, ama nasem Moses’ hun phawk-te hi. Ama tuuhonte a cing tuucingpa, tuipi sung pan a, a paikhiatpih Topa koi-ah om ta ahi hiam? Amaute’ tungah a Kha Siangtho a piapa,
 
-**ZVS:** Tua ciangin amaute in hun lui lai, ama nasem Moses' hun a phawk uh hi. Ama mi a makaite honkhia-in, tuipi sung panin a paikhiatpih { Topa} koi-ah omta ahi hiam? Amaute' tungah ama kha a piapa,
+**ZVS:** Tua ciangin amaute in hun lui lai, ama nasem Moses' hun a phawk-te hi. Ama mi a makaite honkhia-in, tuipi sung panin a paikhiatpih { Topa} koi-ah omta ahi hiam? Amaute' tungah ama kha a piapa,
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v12
 **EN:** That led them by the right hand of Moses with his glorious arm, dividing the water before them, to make himself an everlasting name?
 
-**TDB77:** Moses, tung tawnin a vangliatna khut zangin na lianpipi a sempa, ama mite’ mai-ah tuite khenkhamin, amah a minthan’ tawntung nadingin hih bang nate a sempa, tu-in koi-ah om ta ahi hiam, ci uh hi.
+**TDB77:** Moses, tung tawnin a vangliatna khut zangin na lianpipi a sempa, ama mite’ mai-ah tuite khenkhamin, amah a minthan’ tawntung nadingin hih bang nate a sempa, tu-in koi-ah om ta ahi hiam, ci-te hi.
 
-**ZVS:** Moses tung tawnin a vangliatna zangin na lianpipi a sempa, ama mite' mai-ah tuite khenkhamin, a minthan' tawntungna dingin hih bang nate a sempa, tu-in koi-ah omta ahi hiam, ci uh hi.
+**ZVS:** Moses tung tawnin a vangliatna zangin na lianpipi a sempa, ama mite' mai-ah tuite khenkhamin, a minthan' tawntungna dingin hih bang nate a sempa, tu-in koi-ah omta ahi hiam, ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v13
 **EN:** That led them through the deep, as an horse in the wilderness, that they should not stumble?
 
-**TDB77:** Topa in tui thuk kantanin amaute a paipih ciangin leilak a, sakol pai bangin kip mahmah uh a, amaute puk lo uh hi.
+**TDB77:** Topa in tui thuk kantanin amaute a paipih ciangin leilak a, sakol pai bangin kip mahmah-te a, amaute puk lo-te hi.
 
-**ZVS:** { Topa } in tuithuk kantanin amaute a paipih ciangin leilaka sakol pai bangin kip mahmah uh a, amaute puklo uh hi.
+**ZVS:** { Topa } in tuithuk kantanin amaute a paipih ciangin leilaka sakol pai bangin kip mahmah-te a, amaute puklo-te hi.
 
 **Grammar:** intensifier: very/greatly | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -169,16 +169,16 @@
 ### v17
 **EN:** O
 
-**TDB77:** Topa aw, kote in nang kong kihtak loh nadingun bang hangin na lampite panin hong khialsakin ka lungsim uh khauhsak na hi hiam? Nangma nasemte, nangma luah minamte na ngaihsutna-in hong kihei kik in.
+**TDB77:** Topa aw, kote in nang kong kihtak loh nadingun bang hangin na lampite panin hong khialsakin ka lungsim-te khauhsak na hi hiam? Nangma nasemte, nangma luah minamte na ngaihsutna-in hong kihei kik in.
 
-**ZVS:** { Topa } aw, kote in nang kong kihtakloh theihna dingun bang hangin na lampi panin kote hong pialsakin ka lungsim uh khauhsak na hi hiam? Nangma nasemte, nangma luah minamte na ngaihsutna-in hong kihei kik in.
+**ZVS:** { Topa } aw, kote in nang kong kihtakloh theihna dingun bang hangin na lampi panin kote hong pialsakin ka lungsim-te khauhsak na hi hiam? Nangma nasemte, nangma luah minamte na ngaihsutna-in hong kihei kik in.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v18
 **EN:** The people of thy holiness have possessed it but a little while: our adversaries have trodden down thy sanctuary.
 
-**TDB77:** Nangma misiangthote in na biakinn tawl khat sung bek nei uh hi; ko hong langpangte in tua pen tuancil gawp khin hi.
+**TDB77:** Nangma misiangthote in na biakinn tawl khat sung bek nei-te hi; ko hong langpangte in tua pen tuancil gawp khin hi.
 
 **ZVS:** Nangma mi siangthote in tawlkhat sung bek na biakinn nei a, ko hong langpangte in tua na biakinn pen tuancilgawp khinta hi.
 
@@ -187,9 +187,9 @@
 ### v19
 **EN:** We are thine: thou never barest rule over them; they were not called by thy name.
 
-**TDB77:** Kote pen, nangmah in cik mah a, na uk ngei loh mite, nangma mi ahi ngei lo mite tawh a kibang ka suakkhin uh hi.
+**TDB77:** Kote pen, nangmah in cik mah a, na uk ngei loh mite, nangma mi ahi ngei lo mite tawh a kibang ka suakkhin-te hi.
 
-**ZVS:** Kote pen nangmah in cikmahin na uk ngeiloh mite, nangma mi ahi ngeilo mite tawh a kibang ka suakkhin uh hi.
+**ZVS:** Kote pen nangmah in cikmahin na uk ngeiloh mite, nangma mi ahi ngeilo mite tawh a kibang ka suakkhin-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

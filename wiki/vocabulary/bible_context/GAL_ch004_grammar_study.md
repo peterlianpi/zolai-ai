@@ -55,14 +55,14 @@
 ### v6
 **EN:** And because ye are sons, God hath sent forth the Spirit of his Son into your hearts, crying, Abba, Father.
 
-**TDB77:** Tua bangin note in tate na suak uh ahih ciangin,“Abba, Pa,” cisakin a Tapa’ Kha Siangtho eite lungsim sungah Pasian in hong sawl hi.
+**TDB77:** Tua bangin note in tate na suak-te ahih ciangin,“Abba, Pa,” cisakin a Tapa’ Kha Siangtho eite lungsim sungah Pasian in hong sawl hi.
 
-**ZVS:** Note pen ama tate na hihna uh a hong lahna dingin Pasian in ama Tapa' Kha Siangtho, eite sungah hong tumsak a, tua Kha Siangtho in Pasian pen, “Pa aw, pa aw,” hong cisak hi.
+**ZVS:** Note pen ama tate na hihna-te a hong lahna dingin Pasian in ama Tapa' Kha Siangtho, eite sungah hong tumsak a, tua Kha Siangtho in Pasian pen, “Pa aw, pa aw,” hong cisak hi.
 
 ### v7
 **EN:** Wherefore thou art no more a servant, but a son; and if a son, then an heir of God through Christ.
 
-**TDB77:** Tua ahih ciangin sila hi nawn loin tapa na hi uh hi. Tapa na hih uh leh, Pasian hangin innluahpa zong na hi uh hi.
+**TDB77:** Tua ahih ciangin sila hi nawn loin tapa na hi-te hi. Tapa na hih-te leh, Pasian hangin innluahpa zong na hi-te hi.
 
 **ZVS:** Tua ahih manin note pen sila hi nawnloin Pasian' tate na hih manun Pasian in ama tate-a' dingin a koih khempeuh, note tungah hong pia ding hi.
 
@@ -71,27 +71,27 @@
 ### v8
 **EN:** Howbeit then, when ye knew not God, ye did service unto them which by nature are no gods.
 
-**TDB77:** Ahih hangin note in tua hun lai takin Pasian na theih loh lai takun a pian’ lim in Pasian ahi lo mite’ sila-in na om uh hi.
+**TDB77:** Ahih hangin note in tua hun lai takin Pasian na theih loh lai takun a pian’ lim in Pasian ahi lo mite’ sila-in na om-te hi.
 
-**ZVS:** A beisa hunah Pasian theilo na hih manun Pasian a hilo vangliatna a neite' sila-in na om uh hi.
+**ZVS:** A beisa hunah Pasian theilo na hih manun Pasian a hilo vangliatna a neite' sila-in na om-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v9
 **EN:** But now, after that ye have known God, or rather are known of God, how turn ye again to the weak and beggarly elements, whereunto ye desire again to be in bondage?
 
-**TDB77:** Tu-in ahih leh, note in Pasian na thei khin uh tham loin, Pasian in note hong theih khit ciangin, thahat lo, nopna hong pia thei lo thungeek lamah, a bang hangin kihei kikin sila kaikik nuam na hi uh hiam?
+**TDB77:** Tu-in ahih leh, note in Pasian na thei khin-te tham loin, Pasian in note hong theih khit ciangin, thahat lo, nopna hong pia thei lo thungeek lamah, a bang hangin kihei kikin sila kaikik nuam na hi-te hiam?
 
-**ZVS:** Ahi zongin note in tu-in Pasian meltheih khinin, tua ahih kei leh Pasian in note hong meltheih khinta ahih manin, a bang hangin bangmah a hih zolo, a ginalo tua bangte lamah kiheikik nuam a, sila va suakkik nuam na hi uh hiam?
+**ZVS:** Ahi zongin note in tu-in Pasian meltheih khinin, tua ahih kei leh Pasian in note hong meltheih khinta ahih manin, a bang hangin bangmah a hih zolo, a ginalo tua bangte lamah kiheikik nuam a, sila va suakkik nuam na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix
 
 ### v10
 **EN:** Ye observe days, and months, and times, and years.
 
-**TDB77:** Note in nite, khate, hunte, kumte na tang ta uh hi!
+**TDB77:** Note in nite, khate, hunte, kumte na tang ta-te hi!
 
-**ZVS:** Note in nite, khate, hunte, kumte-a kipan pawi tuamtuamte limtakin tan'ding na hah ngaihsut mahmah uh hi.
+**ZVS:** Note in nite, khate, hunte, kumte-a kipan pawi tuamtuamte limtakin tan'ding na hah ngaihsut mahmah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -107,36 +107,36 @@
 ### v12
 **EN:** Brethren, I beseech you, be as I am; for I am as ye are: ye have not injured me at all.
 
-**TDB77:** Ute naute aw, keimah in note bang ka hih maninah keimah bangin na hi un ci-in ka hong thuum hi. Keima tungah note in a neukha beek na khial kei uh hi.
+**TDB77:** Ute naute aw, keimah in note bang ka hih maninah keimah bangin na hi un ci-in ka hong thuum hi. Keima tungah note in a neukha beek na khial kei-te hi.
 
-**ZVS:** Sanggamte aw, Thukham thu tawh kisai-in note' gamtat bangin ka hong gamtat mah bangin kei' gamtat mah bangin na hong gamtat ding uh ka hong thum hi. A beisa hunah kei tungah na hong gamta khial nai kei uh hi.
+**ZVS:** Sanggamte aw, Thukham thu tawh kisai-in note' gamtat bangin ka hong gamtat mah bangin kei' gamtat mah bangin na hong gamtat ding-te ka hong thum hi. A beisa hunah kei tungah na hong gamta khial nai kei-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | plural: uh marker
 
 ### v13
 **EN:** Ye know how through infirmity of the flesh I preached the gospel unto you at the first.
 
-**TDB77:** Ahih hangin keimah in a masa-in pumpi dam lohna hangin note kiangah Lungdamna Thu ka hong hilh na thei uh hi.
+**TDB77:** Ahih hangin keimah in a masa-in pumpi dam lohna hangin note kiangah Lungdamna Thu ka hong hilh na thei-te hi.
 
-**ZVS:** Note kiangah lungdamna thu hilh ding ka hong kipatna pen ka pumpi cidam lohna hang ahihna thu na theihsa uh ahi hi.
+**ZVS:** Note kiangah lungdamna thu hilh ding ka hong kipatna pen ka pumpi cidam lohna hang ahihna thu na theihsa-te ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And my temptation which was in my flesh ye despised not, nor rejected; but received me as an angel of God, even as Christ Jesus.
 
-**TDB77:** Keima sungah a om note thuak ze-etna note in ngaihsun loin, nial loin Pasian’ vantungmi bang ka hi zongin, Khazih Zeisu bang ka hi zongin, na hong sang uh hi.
+**TDB77:** Keima sungah a om note thuak ze-etna note in ngaihsun loin, nial loin Pasian’ vantungmi bang ka hi zongin, Khazih Zeisu bang ka hi zongin, na hong sang-te hi.
 
-**ZVS:** Ka pumpi cidam lohna pen note-a' dingin thu haksapi hinapi-in kei na hong simmawhbawl tuan kei uh a, zong na hong nolh tuan kei uh hi. Vantung panin a hong pai vantung mi zin do bang, leh Khrih Jesuh mahmah zin a do bangin na hong limbawl uh hi.
+**ZVS:** Ka pumpi cidam lohna pen note-a' dingin thu haksapi hinapi-in kei na hong simmawhbawl tuan kei-te a, zong na hong nolh tuan kei-te hi. Vantung panin a hong pai vantung mi zin do bang, leh Khrih Jesuh mahmah zin a do bangin na hong limbawl-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** Where is then the blessedness ye spake of? for I bear you record, that, if it had been possible, ye would have plucked out your own eyes, and have given them to me.
 
-**TDB77:** Tua ahih leh, note lungdamna thupha koi lam tungsak ta na hi uh hiam? Na mittang uh lakhia-in, kei hong pia thei hi le-uh cin nong pia zo ding uh hi ci-in note ading teci ka pang hi.
+**TDB77:** Tua ahih leh, note lungdamna thupha koi lam tungsak ta na hi-te hiam? Na mittang-te lakhia-in, kei hong pia thei hi le-uh cin nong pia zo ding-te hi ci-in note ading teci ka pang hi.
 
-**ZVS:** Tua hun laitakin lungdam mahmah napi-in tu-in a bangci ta na hi uh hiam? A hithei khat hi leh, tua hunin na mittang nangawn uh khelkhia-in kei a hong pianuamte na hihna uh teltakin ka thei hi.
+**ZVS:** Tua hun laitakin lungdam mahmah napi-in tu-in a bangci ta na hi-te hiam? A hithei khat hi leh, tua hunin na mittang nangawn-te khelkhia-in kei a hong pianuamte na hihna-te teltakin ka thei hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -145,16 +145,16 @@
 
 **TDB77:** Tua ahih leh, keimah in thuman thutak note kiangah ka hong gen ciangin note’ gal suak ka hi hiam?
 
-**ZVS:** Note kiangah thuman ka hong genna hangin kei a hong galbawl na hi uh hiam?
+**ZVS:** Note kiangah thuman ka hong genna hangin kei a hong galbawl na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v17
 **EN:** They zealously affect you, but not well; yea, they would exclude you, that ye might affect them.
 
-**TDB77:** Tua mite in note a kilawmin hahkatin hong zo lo tham loin, note in amaute na zon’ nadingun a pua lamah note hong koih nuam ahi uh hi.
+**TDB77:** Tua mite in note a kilawmin hahkatin hong zo lo tham loin, note in amaute na zon’ nadingun a pua lamah note hong koih nuam ahi-te hi.
 
-**ZVS:** Tua mi pawlkhatte in note hong engin hong kin mahmah uh hi; ahi zongin amaute' ngimna a hoih hi khollo hi. Amaute' hong kin bangin note in zong amaute kinin na kipawl theihna dingun kei kiang panin note a hong khenkhia nuam ahi lel uh hi.
+**ZVS:** Tua mi pawlkhatte in note hong engin hong kin mahmah-te hi; ahi zongin amaute' ngimna a hoih hi khollo hi. Amaute' hong kin bangin note in zong amaute kinin na kipawl theihna dingun kei kiang panin note a hong khenkhia nuam ahi lel-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -163,7 +163,7 @@
 
 **TDB77:** Ahih hangin a hoihna zon’na ngahna in nomau tawh ka omkhawm laitak bek hi loin, a tawntung hoihna ahi hi.
 
-**ZVS:** Ngimna hoih nei ahih nak uh leh note' phattuamna ding kinna pen note tawh ka hong omkhawm sung bek hiloin, a tawntungin kin ding a hoih ahi hi.
+**ZVS:** Ngimna hoih nei ahih nak-te leh note' phattuamna ding kinna pen note tawh ka hong omkhawm sung bek hiloin, a tawntungin kin ding a hoih ahi hi.
 
 ### v19
 **EN:** My little children, of whom I travail in birth again until Christ be formed in you,
@@ -177,7 +177,7 @@
 ### v20
 **EN:** I desire to be present with you now, and to change my voice; for I stand in doubt of you.
 
-**TDB77:** tu-in note tawh omkhawmin ka kam pauna ka kheel nuam hi. Bang hang hiam na cih uh leh, nomau hangah ka lungmang hi.
+**TDB77:** tu-in note tawh omkhawmin ka kam pauna ka kheel nuam hi. Bang hang hiam na cih-te leh, nomau hangah ka lungmang hi.
 
 **ZVS:** Note in ka maisuah na muhtheihna dingun hithei hi leh note tawh ka omkhawm nuam mahmah hi. Tu-in note ka hong lunghimawh mahmah hi.
 
@@ -186,9 +186,9 @@
 ### v21
 **EN:** Tell me, ye that desire to be under the law, do ye not hear the law?
 
-**TDB77:** Thukham nuai-ah a om nuamte aw, note in Thukham za lo na hi uh hiam, kei kiangah hong gen un.
+**TDB77:** Thukham nuai-ah a om nuamte aw, note in Thukham za lo na hi-te hiam, kei kiangah hong gen un.
 
-**ZVS:** Thukham nuai-ah a omnuam mite aw, Thukham in a gen thu a tel taktak mah na hi uh hiam?
+**ZVS:** Thukham nuai-ah a omnuam mite aw, Thukham in a gen thu a tel taktak mah na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -211,7 +211,7 @@
 ### v24
 **EN:** Which things are an allegory: for these are the two covenants; the one from the mount Sinai, which gendereth to bondage, which is Agar.
 
-**TDB77:** Tua thute-ah genteh nadingin a om hi. Tua numeite in thuciamna nih ahi uh hi. Hagar ahi numei khat in Sinai Mual tung pan hong piang, sila suahsak nading thu ahi hi.
+**TDB77:** Tua thute-ah genteh nadingin a om hi. Tua numeite in thuciamna nih ahi-te hi. Hagar ahi numei khat in Sinai Mual tung pan hong piang, sila suahsak nading thu ahi hi.
 
 **ZVS:** Hihte pen gentehna lim ahi hi. Hih nupi nihte pen thuciamna nam nih a lahna ahi hi. Sila a suak tate a hingkhia nu Hagar hi a, Sinai Mual tunga kipia thuciamna a lahnopna ahi hi.
 
@@ -220,7 +220,7 @@
 ### v25
 **EN:** For this Agar is mount Sinai in Arabia, and answereth to Jerusalem which now is, and is in bondage with her children.
 
-**TDB77:** Tua Hagar in Arabia gam Sinai Mual hi a, tu-in a om Jerusalem khua tawh kibang hi. Bang hang hiam na cih uh leh, amah in a tate tawh sila-in a om hi.
+**TDB77:** Tua Hagar in Arabia gam Sinai Mual hi a, tu-in a om Jerusalem khua tawh kibang hi. Bang hang hiam na cih-te leh, amah in a tate tawh sila-in a om hi.
 
 **ZVS:** Arabia gama om Sinai Mual lim ahi Hagar pen tu laitakin a mite tawh salin a om Jerusalem khuapi a cihnopna ahi hi.
 
@@ -236,7 +236,7 @@
 ### v27
 **EN:** For it is written, Rejoice, thou barren that bearest not; break forth and cry, thou that travailest not: for the desolate hath many more children than she which hath an husband.
 
-**TDB77:** Lai Siangtho sungah: “Ta suak ngei lo a ciing numei aw, na lungdam in! Nausuak gimna a thuak ngei lo numei aw, kiko in! Bang hang hiam na cih uh leh, pasal a nei numei’ tate sangin, A kipaaikhia numei in ta tamzaw a nei hi,” ci-in a kigelh hi.
+**TDB77:** Lai Siangtho sungah: “Ta suak ngei lo a ciing numei aw, na lungdam in! Nausuak gimna a thuak ngei lo numei aw, kiko in! Bang hang hiam na cih-te leh, pasal a nei numei’ tate sangin, A kipaaikhia numei in ta tamzaw a nei hi,” ci-in a kigelh hi.
 
 **ZVS:** Bang hang hiam cih leh Lai Siangtho sungah, “A ciing nupi aw, lungdam in. Nausuah natna a thei ngeilo nupi aw, nuamin kiko in. Bang hang hiam cih leh a pasal in a nusiat nupi in a pasal tawh a om tawntung nupi sangin ta hauzaw ding hi,” ci-in na kigelh hi.
 

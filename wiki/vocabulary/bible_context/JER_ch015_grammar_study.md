@@ -27,25 +27,25 @@
 
 **TDB77:** Tua ciangin Topa in kei hong hopih a, “Moses leh Samuel nangawn ka mai-ah a hong ding zawzen zongun ka lungsim hih mite lam a nga tuan kei ding hi. Ka muhna panin hawlkhia un la, paikhia sak un!
 
-**ZVS:** Tua ciangin { Topa } in kei hong hopih a, “Moses leh Samuel nangawn ka mai-ah hong dingin hong thum uh zongin hih mite ka hehpih tuan kei ding hi. Ka muhna panin hawlkhia un la, paikhia sak un.
+**ZVS:** Tua ciangin { Topa } in kei hong hopih a, “Moses leh Samuel nangawn ka mai-ah hong dingin hong thum-te zongin hih mite ka hehpih tuan kei ding hi. Ka muhna panin hawlkhia un la, paikhia sak un.
 
 **Grammar:** sequence: then/therefore | future: will | negation: kei
 
 ### v2
 **EN:** And it shall come to pass, if they say unto thee, Whither shall we go forth? then thou shalt tell them, Thus saith the
 
-**TDB77:** Amaute in, “Koi-ah ding ka hi uh hiam?” ci-a hong dot uh leh hih bangin gen kik in: ‘Topa in, “Pulnatna tawh a si dingte a si ding uh a, namsau tawh a si dingte a si ding uh hi; kial tawh a puksi dingte a puk si ding uh a, sal-a kikai dingte zong a kikai ding uh hi,” a ci hi,’ va ci in.
+**TDB77:** Amaute in, “Koi-ah ding ka hi-te hiam?” ci-a hong dot-te leh hih bangin gen kik in: ‘Topa in, “Pulnatna tawh a si dingte a si ding-te a, namsau tawh a si dingte a si ding-te hi; kial tawh a puksi dingte a puk si ding-te a, sal-a kikai dingte zong a kikai ding-te hi,” a ci hi,’ va ci in.
 
-**ZVS:** Amaute in, ‘Koi-ah pai ding ka hi uh hiam?’ ci-in hong dot uh leh hih bangin genkik in: ‘{ Topa } in, “Pulnatna tawh a si dingte pul-in si ding uh a, namsau tawh a si dingte namsau-in si ding uh hi. Kial tawh a puksi dingte kial-in si ding uh a, sala kikai dingte zong sal-in kikai ding uh hi,” a ci hi,’ va ci in.
+**ZVS:** Amaute in, ‘Koi-ah pai ding ka hi-te hiam?’ ci-in hong dot-te leh hih bangin genkik in: ‘{ Topa } in, “Pulnatna tawh a si dingte pul-in si ding-te a, namsau tawh a si dingte namsau-in si ding-te hi. Kial tawh a puksi dingte kial-in si ding-te a, sala kikai dingte zong sal-in kikai ding-te hi,” a ci hi,’ va ci in.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And I will appoint over them four kinds, saith the
 
-**TDB77:** “Amaute’ sih nadingin gimna nam li ka tungsak ding hi. A kithah nading uh namsau, a keizan gawp dingin ui, a valhtum ding leh a susia gawp dingin huih lak-a vasate leh lei lak-a ganhingte ka koih ding hi.
+**TDB77:** “Amaute’ sih nadingin gimna nam li ka tungsak ding hi. A kithah nading-te namsau, a keizan gawp dingin ui, a valhtum ding leh a susia gawp dingin huih lak-a vasate leh lei lak-a ganhingte ka koih ding hi.
 
-**ZVS:** “Amaute' sihna dingin gimna nam li ka tungsak ding hi. A kithahna ding uh namsau, a keizan gawp dingin ui, a valhtum ding leh a susiagawp dingin huih laka vasate leh leilaka ganhingte ka koih ding hi.
+**ZVS:** “Amaute' sihna dingin gimna nam li ka tungsak ding hi. A kithahna ding-te namsau, a keizan gawp dingin ui, a valhtum ding leh a susiagawp dingin huih laka vasate leh leilaka ganhingte ka koih ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -54,7 +54,7 @@
 
 **TDB77:** Judah kumpipa Hezekiah’ tapa Manasseh in Jerusalem khua-a a bawl thu hangin leitung gam khempeuhte’ lau nadingin ka koih ding hi.
 
-**ZVS:** Judah kumpi Hezekiah' tapa Manasseh in Jerusalem khua-ah hih bangin a bawl thu leitung gam khempeuhte in mu-in a lau ding uh hi.
+**ZVS:** Judah kumpi Hezekiah' tapa Manasseh in Jerusalem khua-ah hih bangin a bawl thu leitung gam khempeuhte in mu-in a lau ding-te hi.
 
 **Grammar:** purpose: in order to | future: will
 
@@ -79,18 +79,18 @@
 ### v7
 **EN:** And I will fan them with a fan in the gates of the land; I will bereave them of children, I will destroy my people, since they return not from their ways.
 
-**TDB77:** Na gamsung khua kongpite-ah huihpi’ mut bangin note kong mutmang ding hi. Na tate uh ka beisak ding-a, ka mite ka susia ding hi; bang hang hiam cih leh na gitlohna uh leh na om dan hoihlo panun na kiheikik kei uh hi.
+**TDB77:** Na gamsung khua kongpite-ah huihpi’ mut bangin note kong mutmang ding hi. Na tate-te ka beisak ding-a, ka mite ka susia ding hi; bang hang hiam cih leh na gitlohna-te leh na om dan hoihlo panun na kiheikik kei-te hi.
 
-**ZVS:** Na gamsung khua kongpite-ah huihpi' mut bangin note kong mutmang ding hi. Na tate uh ka beisak ding a, ka mite ka susia ding hi. Bang hang hiam cih leh na gitlohna uh leh na omdan hoihlo panun na kiheikik kei uh hi.
+**ZVS:** Na gamsung khua kongpite-ah huihpi' mut bangin note kong mutmang ding hi. Na tate-te ka beisak ding a, ka mite ka susia ding hi. Bang hang hiam cih leh na gitlohna-te leh na omdan hoihlo panun na kiheikik kei-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Their widows are increased to me above the sand of the seas: I have brought upon them against the mother of the young men a spoiler at noonday: I have caused him to fall upon it suddenly, and terrors upon the city.
 
-**TDB77:** Tuipi-a sehnel om zah sangin nupi meigong ka tamsak zaw ding hi; na tangvalte uh a khan’ cin laitakin ka that ding a, a nute uh ka thuaksak ding hi. No’ tungah thakhat thu-in lungkhamna leh launa kong tungsak ding hi.
+**TDB77:** Tuipi-a sehnel om zah sangin nupi meigong ka tamsak zaw ding hi; na tangvalte-te a khan’ cin laitakin ka that ding a, a nute-te ka thuaksak ding hi. No’ tungah thakhat thu-in lungkhamna leh launa kong tungsak ding hi.
 
-**ZVS:** Tuipi-a sehnel omzah sangin nupi meigong ka tamsakzaw ding hi. Na tangvalte uh a khan' laitakin ka that ding a, a nute uh ka lunggimsak ding hi. Note' tungah thakhat thu-in lungkhamna leh launa ka hong tungsak ding hi.
+**ZVS:** Tuipi-a sehnel omzah sangin nupi meigong ka tamsakzaw ding hi. Na tangvalte-te a khan' laitakin ka that ding a, a nute-te ka lunggimsak ding hi. Note' tungah thakhat thu-in lungkhamna leh launa ka hong tungsak ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -106,9 +106,9 @@
 ### v10
 **EN:** Woe is me, my mother, that thou hast borne me a man of strife and a man of contention to the whole earth! I have neither lent on usury, nor men have lent to me on usury; yet every one of them doth curse me.
 
-**TDB77:** Gimna ka thuak hi, ka nu aw, gamsung khempeuh-a mite tawh kitawng kisel ding a, kei nong suahsak se se! Ka sumte kuamah lah leitawi sak loin kuama’ aa lah leitawi lo napi a vekpi-un kei hong haamsiat teitei uh hi.
+**TDB77:** Gimna ka thuak hi, ka nu aw, gamsung khempeuh-a mite tawh kitawng kisel ding a, kei nong suahsak se se! Ka sumte kuamah lah leitawi sak loin kuama’ aa lah leitawi lo napi a vekpi-un kei hong haamsiat teitei-te hi.
 
-**ZVS:** Gimna ka thuak hi; ka nu aw, gamsung khempeuh-a mite tawh a kitawng a kisel dingin kei nong suaksak hi. Ka sumte kuamah lah leitawisak loin kuama-a' lah leitawi lalo napi, a vekpi-un kei hong hamsiat teitei uh hi.
+**ZVS:** Gimna ka thuak hi; ka nu aw, gamsung khempeuh-a mite tawh a kitawng a kisel dingin kei nong suaksak hi. Ka sumte kuamah lah leitawisak loin kuama-a' lah leitawi lalo napi, a vekpi-un kei hong hamsiat teitei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -133,18 +133,18 @@
 ### v13
 **EN:** Thy substance and thy treasures will I give to the spoil without price, and that for all thy sins, even in all thy borders.
 
-**TDB77:** Topa in, “Na gam sung teng-a na bawl uh mawhna khempeuhte hangin na neih na lam uh leh na sum na paiite uh man ngah loin na galte uh ka tuahsak mang ding hi.
+**TDB77:** Topa in, “Na gam sung teng-a na bawl-te mawhna khempeuhte hangin na neih na lam-te leh na sum na paiite-te man ngah loin na galte-te ka tuahsak mang ding hi.
 
-**ZVS:** { Topa } in, “Na gamsung tenga na bawl uh mawhna khempeuhte' hangin na neih na lam uh leh na sum na paite uh man ngahloin na galte uh ka tuahsakmang ding hi.
+**ZVS:** { Topa } in, “Na gamsung tenga na bawl-te mawhna khempeuhte' hangin na neih na lam-te leh na sum na paite-te man ngahloin na galte-te ka tuahsakmang ding hi.
 
 **Grammar:** future: will
 
 ### v14
 **EN:** And I will make thee to pass with thine enemies into a land which thou knowest not: for a fire is kindled in mine anger, which shall burn upon you.
 
-**TDB77:** Na theih ngei loh uh gam khatah na galte’ na ka hong semsak ding hi; bang hang hiam cih leh ka hehna kitawh kuang a, a mit nawn kei ding hi,” hong ci hi.
+**TDB77:** Na theih ngei loh-te gam khatah na galte’ na ka hong semsak ding hi; bang hang hiam cih leh ka hehna kitawh kuang a, a mit nawn kei ding hi,” hong ci hi.
 
-**ZVS:** Na theih ngeiloh uh gam khatah na galte uh' na ka hong semsak ding hi. Bang hang hiam cih leh ka hehna mei bangin kitawhkuang a, a mit nawn kei ding hi,” a hong ci hi.
+**ZVS:** Na theih ngeiloh-te gam khatah na galte uh' na ka hong semsak ding hi. Bang hang hiam cih leh ka hehna mei bangin kitawhkuang a, a mit nawn kei ding hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | reciprocal: ki- prefix
 
@@ -185,18 +185,18 @@
 ### v19
 **EN:** Therefore thus saith the
 
-**TDB77:** Tua ahih manin Topa in, “Nong kilehkik leh kong koihna ngei ah kong koih ding a, ka na na semkik ding hi. Thu manpha lo gen loin thu manpha na gen leh, ka kamsang-in kong zang ding hi. Amaute nang kiangah hong pai ding uh a, nang na hih leh amau’ kiangah na pai kei ding hi.
+**TDB77:** Tua ahih manin Topa in, “Nong kilehkik leh kong koihna ngei ah kong koih ding a, ka na na semkik ding hi. Thu manpha lo gen loin thu manpha na gen leh, ka kamsang-in kong zang ding hi. Amaute nang kiangah hong pai ding-te a, nang na hih leh amau’ kiangah na pai kei ding hi.
 
-**ZVS:** Tua ahih manin { Topa } in, “Na hong kilehkik leh kong koihna ngei-ah kong koihkik ding a, ka na na sem kik ding hi. Thu manphalo genloin thu manpha bek na gen leh, ka kamsang dingin ka hong zang ding hi. Nang kiangah amaute hong pai ding uh a, nang na hih leh amau' kiangah na pai kei ding hi.
+**ZVS:** Tua ahih manin { Topa } in, “Na hong kilehkik leh kong koihna ngei-ah kong koihkik ding a, ka na na sem kik ding hi. Thu manphalo genloin thu manpha bek na gen leh, ka kamsang dingin ka hong zang ding hi. Nang kiangah amaute hong pai ding-te a, nang na hih leh amau' kiangah na pai kei ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And I will make thee unto this people a fenced brasen wall: and they shall fight against thee, but they shall not prevail against thee: for I am with thee to save thee and to deliver thee, saith the
 
-**TDB77:** Hih mite tungah sumngo tawh a kibawl khua kulhpi kong bang sak ding a, amaute in a hong sim uh hangin a hong zo kei ding uh hi. Bang hang hiam cih leh a hong honkhia ding leh a hong suahtak dingin nang kong om pih hi, Topa in kong ci hi.
+**TDB77:** Hih mite tungah sumngo tawh a kibawl khua kulhpi kong bang sak ding a, amaute in a hong sim-te hangin a hong zo kei ding-te hi. Bang hang hiam cih leh a hong honkhia ding leh a hong suahtak dingin nang kong om pih hi, Topa in kong ci hi.
 
-**ZVS:** Hih mite tungah sumngo a kibawl khuakulhpi kong bangsak ding a, amaute in a hong sim uh hangin a hong zo kei ding uh hi. Bang hang hiam cih leh a hong honkhia ding leh a hong suaktasak dingin nang ka hong ompih hi, { Topa } in ka hong ci hi.
+**ZVS:** Hih mite tungah sumngo a kibawl khuakulhpi kong bangsak ding a, amaute in a hong sim-te hangin a hong zo kei ding-te hi. Bang hang hiam cih leh a hong honkhia ding leh a hong suaktasak dingin nang ka hong ompih hi, { Topa } in ka hong ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

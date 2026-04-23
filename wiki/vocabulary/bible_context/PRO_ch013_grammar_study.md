@@ -31,9 +31,9 @@
 ### v2
 **EN:** A man shall eat good by the fruit of his mouth: but the soul of the transgressors shall eat violence.
 
-**TDB77:** Mihoihte in a kamsiamna bangun thaman sang a, mizuaute in siattat ding bek ut uh hi.
+**TDB77:** Mihoihte in a kamsiamna bangun thaman sang a, mizuaute in siattat ding bek ut-te hi.
 
-**ZVS:** Mihoihte in a kam siamna bangun thaman sang a, mizuaute pen siattat ding bek ut uh hi.
+**ZVS:** Mihoihte in a kam siamna bangun thaman sang a, mizuaute pen siattat ding bek ut-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -70,9 +70,9 @@
 ### v7
 **EN:** There is that maketh himself rich, yet hath nothing: there is that maketh himself poor, yet hath great riches.
 
-**TDB77:** Mi pawlkhatte, zawng napi-in kihau sak uh a, mi pawlkhatte, hau napi-in kizawngsak uh hi.
+**TDB77:** Mi pawlkhatte, zawng napi-in kihau sak-te a, mi pawlkhatte, hau napi-in kizawngsak-te hi.
 
-**ZVS:** Mi pawlkhatte, zawng napi-in kihausak uh a, mi pawlkhatte, hau napi-in kizawngsak uh hi.
+**ZVS:** Mi pawlkhatte, zawng napi-in kihausak-te a, mi pawlkhatte, hau napi-in kizawngsak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -195,7 +195,7 @@
 
 **TDB77:** Midikte in a tu a tate’ luah ding gamh nei a, mawhneite neihsate ahih leh midikte’ ading hi lel hi.
 
-**ZVS:** Midikte in a tu a tate' luah ding gamh nei uh a, mawhneite' neihsate ahih leh midikte-a' ding hi lel hi.
+**ZVS:** Midikte in a tu a tate' luah ding gamh nei-te a, mawhneite' neihsate ahih leh midikte-a' ding hi lel hi.
 
 ### v23
 **EN:** Much food is in the tillage of the poor: but there is that is destroyed for want of judgment.

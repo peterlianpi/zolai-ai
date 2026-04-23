@@ -26,7 +26,7 @@
 
 **TDB77:** Kha Siangtho in a tel taka a genkholh inah, a tawpna hun ciangin,
 
-**ZVS:** Nidang ciangin a upna panun mi pawlkhat pialin, zuauthu gente leh dawi thu a kigente a zuihna ding uh Kha Siangtho in teltakin a gen hi.
+**ZVS:** Nidang ciangin a upna panun mi pawlkhat pialin, zuauthu gente leh dawi thu a kigente a zuihna ding-te Kha Siangtho in teltakin a gen hi.
 
 ### v2
 **EN:** Speaking lies in hypocrisy; having their conscience seared with a hot iron;
@@ -38,7 +38,7 @@
 ### v3
 **EN:** Forbidding to marry, and commanding to abstain from meats, which God hath created to be received with thanksgiving of them which believe and know the truth.
 
-**TDB77:** Tua bang mite in zi neih leh pasal neih ding, leh an pawlkhat nek ding hoihlo hi, ci uh hi. Ahi zongin thu umin, thuman thutak a thei mite in lungdamna ko-in a nek dingin Pasian in tua ante a bawl ahi hi.
+**TDB77:** Tua bang mite in zi neih leh pasal neih ding, leh an pawlkhat nek ding hoihlo hi, ci-te hi. Ahi zongin thu umin, thuman thutak a thei mite in lungdamna ko-in a nek dingin Pasian in tua ante a bawl ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -72,7 +72,7 @@
 ### v7
 **EN:** But refuse profane and old wives' fables, and exercise thyself rather unto godliness.
 
-**TDB77:** Numei teekte in a gen theih uh ahi mawkna tangthute paaikhia in. Pasian biakna lamah nuamsa a, na om nadingin na kiseksak in.
+**TDB77:** Numei teekte in a gen theih-te ahi mawkna tangthute paaikhia in. Pasian biakna lamah nuamsa a, na om nadingin na kiseksak in.
 
 **ZVS:** Pasian' thu tawh a kituaklo, a haihuai tangthu phuahtawmte ngaihsutin na nei vet kei in. Pasian' deihna tawh a kituakin na nuntak zawhna dingin na kisin in.
 
@@ -133,7 +133,7 @@
 
 **TDB77:** Genkholhna tawh, pawlpi upate’ khutngakna tawh nang hong kipia thupha letsong zang loin om kei in.
 
-**ZVS:** Kamsangte' thugennate leh upate in na tungah a khut uh nga-in thu hong ngetsakna ahi nangma hihtheih siamnate na valkhongsak kei in.
+**ZVS:** Kamsangte' thugennate leh upate in na tungah a khut-te nga-in thu hong ngetsakna ahi nangma hihtheih siamnate na valkhongsak kei in.
 
 **Grammar:** reciprocal: ki- prefix
 

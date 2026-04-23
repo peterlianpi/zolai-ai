@@ -106,9 +106,9 @@
 ### v10
 **EN:** Therefore the fathers shall eat the sons in the midst of thee, and the sons shall eat their fathers; and I will execute judgments in thee, and the whole remnant of thee will I scatter into all the winds.
 
-**TDB77:** Tua kong daantahna hangin nang Jerusalem khuapi sungah pate in a tapate’ sa ne-in, tapate in a pate uh’ sa ne ding uh hi. No a mite kong daantat ding a, a suakta kha sunsunte nangawn mun khempeuh ah kong thehthang gawp ding hi.
+**TDB77:** Tua kong daantahna hangin nang Jerusalem khuapi sungah pate in a tapate’ sa ne-in, tapate in a pate uh’ sa ne ding-te hi. No a mite kong daantat ding a, a suakta kha sunsunte nangawn mun khempeuh ah kong thehthang gawp ding hi.
 
-**ZVS:** Tua kong gimpiakna hangin nang Jerusalem khuapi sungah papite in a tapate' sa ne-in, tapate in a pate uh' sa ne ding uh hi. No a mite gim kong pia ding a, a suaktakha sunsunte nangawn mun khempeuhah kong thehthang gawp ding hi.
+**ZVS:** Tua kong gimpiakna hangin nang Jerusalem khuapi sungah papite in a tapate' sa ne-in, tapate in a pate uh' sa ne ding-te hi. No a mite gim kong pia ding a, a suaktakha sunsunte nangawn mun khempeuhah kong thehthang gawp ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -124,54 +124,54 @@
 ### v12
 **EN:** A third part of thee shall die with the pestilence, and with famine shall they be consumed in the midst of thee: and a third part shall fall by the sword round about thee; and I will scatter a third part into all the winds, and I will draw out a sword after them.
 
-**TDB77:** Note seh thum suah seh khat pen cina leh gilkialin khuapi sungah na si ding uh hi. Seh thum suah seh khat, khuapi kiim-ah namsau-in na si ding uh hi. A om lai seh thum suah seh khat ahih leh mun khempeuh ah hong thehthangin namsau tawh kong delh ding hi.
+**TDB77:** Note seh thum suah seh khat pen cina leh gilkialin khuapi sungah na si ding-te hi. Seh thum suah seh khat, khuapi kiim-ah namsau-in na si ding-te hi. A om lai seh thum suah seh khat ahih leh mun khempeuh ah hong thehthangin namsau tawh kong delh ding hi.
 
-**ZVS:** Note seh thum suah seh khat pen cina leh gilkialin khuapi sungah na si ding uh hi. Seh thum suah seh khat, khuapi kiimah namsau-in na si ding uh hi. A omlai seh thum suah seh khat ahih leh mun khempeuhah hong thehthangin namsau tawh kong delh ding hi.
+**ZVS:** Note seh thum suah seh khat pen cina leh gilkialin khuapi sungah na si ding-te hi. Seh thum suah seh khat, khuapi kiimah namsau-in na si ding-te hi. A omlai seh thum suah seh khat ahih leh mun khempeuhah hong thehthangin namsau tawh kong delh ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Thus shall mine anger be accomplished, and I will cause my fury to rest upon them, and I will be comforted: and they shall know that I the
 
-**TDB77:** “Ka lung a kim dongin kong hih ding a, ka hehna leh ka sinsona teng na thuak ding uh hi. Note tungah hih thute hong tun’ ciangin, note cihtaklohna hangin deihsakluatna tawh a hong heh pau ka hihna na phawk ding uh hi.
+**TDB77:** “Ka lung a kim dongin kong hih ding a, ka hehna leh ka sinsona teng na thuak ding-te hi. Note tungah hih thute hong tun’ ciangin, note cihtaklohna hangin deihsakluatna tawh a hong heh pau ka hihna na phawk ding-te hi.
 
-**ZVS:** “Ka lung a kim dongin kong hih ding a, ka hehna leh ka sinsona teng na thuak ding uh hi. Note tungah hih thute hong tun' ciangin, note' cihtaklohna hangin deihsak luatna tawh a hong heh pau ka hihna na phawk ding uh hi.
+**ZVS:** “Ka lung a kim dongin kong hih ding a, ka hehna leh ka sinsona teng na thuak ding-te hi. Note tungah hih thute hong tun' ciangin, note' cihtaklohna hangin deihsak luatna tawh a hong heh pau ka hihna na phawk ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** Moreover I will make thee waste, and a reproach among the nations that are round about thee, in the sight of all that pass by.
 
-**TDB77:** Na kiim uh a, om minamte in note hong muh khak uh ciangin hong phitsanin hong pelh ding uh hi.
+**TDB77:** Na kiim-te a, om minamte in note hong muh khak-te ciangin hong phitsanin hong pelh ding-te hi.
 
-**ZVS:** Na kiim uhah a om minamte in note hong muhkhak uh ciangin hong phitsanin hong pelh ding uh hi.
+**ZVS:** Na kiim uhah a om minamte in note hong muhkhak-te ciangin hong phitsanin hong pelh ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** So it shall be a reproach and a taunt, an instruction and an astonishment unto the nations that are round about thee, when I shall execute judgments in thee in anger and in fury and in furious rebukes. I the
 
-**TDB77:** Note tungah hehin sinsona tawh daan kong piak ciangin na kiim uh a, om minam dangte khempeuh lau ding uh hi. Amaute in note hong muhdah etin hong simmawh bawl ding uh hi.
+**TDB77:** Note tungah hehin sinsona tawh daan kong piak ciangin na kiim-te a, om minam dangte khempeuh lau ding-te hi. Amaute in note hong muhdah etin hong simmawh bawl ding-te hi.
 
-**ZVS:** Note tungah hehin sinsona tawh gim kong piak ciangin na kim uh-a a om minam dangte khempeuh lau ding uh hi. Amaute in note hong muhdah etin hong simmawhbawl ding uh hi.
+**ZVS:** Note tungah hehin sinsona tawh gim kong piak ciangin na kim uh-a a om minam dangte khempeuh lau ding-te hi. Amaute in note hong muhdah etin hong simmawhbawl ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** When I shall send upon them the evil arrows of famine, which shall be for their destruction, and which I will send to destroy you: and I will increase the famine upon you, and will break your staff of bread:
 
-**TDB77:** Na annek ding uh hong khaktan sakin note kong puksi sak ding hi. Note susia ding thaltang’ kap khak bangin gilkialna pen na na sa velval ding uh hi.
+**TDB77:** Na annek ding-te hong khaktan sakin note kong puksi sak ding hi. Note susia ding thaltang’ kap khak bangin gilkialna pen na na sa velval ding-te hi.
 
-**ZVS:** Na annek ding uh hong khaktan sakin note kong puksisak ding hi. Note a hong susia ding gilkialna pen thaltang' kapkhak bangin na na sa velval ding uh hi.
+**ZVS:** Na annek ding-te hong khaktan sakin note kong puksisak ding hi. Note a hong susia ding gilkialna pen thaltang' kapkhak bangin na na sa velval ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v17
 **EN:** So will I send upon you famine and evil beasts, and they shall bereave thee; and pestilence and blood shall pass through thee; and I will bring the sword upon thee. I the
 
-**TDB77:** Na tate uh a sisak dingin kialpi hong tungsakin, a that dingin gamsate kong paisak ding a, natna, gal kidona leh gal kikapnate in note hong sisak ding hi. Topa ahi keimah in hih thu kong gen khin hi,” hong ci hi.
+**TDB77:** Na tate-te a sisak dingin kialpi hong tungsakin, a that dingin gamsate kong paisak ding a, natna, gal kidona leh gal kikapnate in note hong sisak ding hi. Topa ahi keimah in hih thu kong gen khin hi,” hong ci hi.
 
-**ZVS:** Na tate uh a sisak dingin kialpi hong tungsakin, a that dingin gamsate kong paisak ding hi. Natna, gal kidona, leh gal kikapnate in note hong sisak ding hi. { Topa } ahi keimah in hih thu kong gen khin hi,” a hong ci hi.
+**ZVS:** Na tate-te a sisak dingin kialpi hong tungsakin, a that dingin gamsate kong paisak ding hi. Natna, gal kidona, leh gal kikapnate in note hong sisak ding hi. { Topa } ahi keimah in hih thu kong gen khin hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 

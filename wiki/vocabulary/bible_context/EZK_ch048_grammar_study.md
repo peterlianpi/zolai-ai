@@ -24,9 +24,9 @@
 ### v1
 **EN:** Now these are the names of the tribes. From the north end to the coast of the way of Hethlon, as one goeth to Hamath, Hazar–enan, the border of Damascus northward, to the coast of Hamath; for these are his sides east and west; a portion for Dan.
 
-**TDB77:** “Leilu lam gamgi pen, Mediterranean Tuipi panin kipanin Hethlon khuapi-ah, Hamath khua lutna-ah, tua panin Damaskas leh Hamath gamgi kituahna san a, om Hazarenan khuapi ciang sun ding hi. Minam khat in leitang khen khat ciat ngah ding uh a, a kikal uh gamgite pen gambup nisuahna gamgi panin gambup nitumna gamgi ciang hi ding a, leilu lam panin a hawm uh kipan suk ding uh hi. Leilu lam a khungnungpen ah Dan minamte,
+**TDB77:** “Leilu lam gamgi pen, Mediterranean Tuipi panin kipanin Hethlon khuapi-ah, Hamath khua lutna-ah, tua panin Damaskas leh Hamath gamgi kituahna san a, om Hazarenan khuapi ciang sun ding hi. Minam khat in leitang khen khat ciat ngah ding-te a, a kikal-te gamgite pen gambup nisuahna gamgi panin gambup nitumna gamgi ciang hi ding a, leilu lam panin a hawm-te kipan suk ding-te hi. Leilu lam a khungnungpen ah Dan minamte,
 
-**ZVS:** “Leilu lam gamgi pen, Mediterranean Tuipi panin kipanin Hethlon khuapi-ah, Hamath khua lutna-ah, tua panin Damaskas leh Hamath gamgi kituahna sana om Hazarenan khuapi ciang sun ding hi. Minam khat in leitang khen khat ciat ngah ding uh a, a kikal uh gamgite pen gambup nisuahna gamgi panin gambup nitumna gamgi ciang hi ding a, leilu lam panin a hawm uh kipan suk ding uh hi. Leilu lam a khungnung penah Dan minamte,
+**ZVS:** “Leilu lam gamgi pen, Mediterranean Tuipi panin kipanin Hethlon khuapi-ah, Hamath khua lutna-ah, tua panin Damaskas leh Hamath gamgi kituahna sana om Hazarenan khuapi ciang sun ding hi. Minam khat in leitang khen khat ciat ngah ding-te a, a kikal-te gamgite pen gambup nisuahna gamgi panin gambup nitumna gamgi ciang hi ding a, leilu lam panin a hawm-te kipan suk ding-te hi. Leilu lam a khungnung penah Dan minamte,
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -54,7 +54,7 @@
 ### v5
 **EN:** And by the border of Manasseh, from the east side unto the west side, a portion for Ephraim.
 
-**TDB77:** a zomah Efraim minamte in nisuahna pan nitumna dongah Manasseh tawh kigamgi ding uh hi,
+**TDB77:** a zomah Efraim minamte in nisuahna pan nitumna dongah Manasseh tawh kigamgi ding-te hi,
 
 **ZVS:** a zomah Efraim Minamte,
 
@@ -97,36 +97,36 @@
 ### v10
 **EN:** And for them, even for the priests, shall be this holy oblation; toward the north five and twenty thousand in length, and toward the west ten thousand in breadth, and toward the east ten thousand in breadth, and toward the south five and twenty thousand in length: and the sanctuary of the
 
-**TDB77:** Siampite in hih a siangtho leitang sung panin tanh ngah ding uh a, leilu lam pang leh leitaw lam pang tong tul sawmnih leh tul nga tuak hi-in, nisuahna lam leh nitumna lam pang tong tul sawm tuak hi ding hi. Siampite’ ngahna sung hih leitang laizangah Topa’ biakinn om ding hi.
+**TDB77:** Siampite in hih a siangtho leitang sung panin tanh ngah ding-te a, leilu lam pang leh leitaw lam pang tong tul sawmnih leh tul nga tuak hi-in, nisuahna lam leh nitumna lam pang tong tul sawm tuak hi ding hi. Siampite’ ngahna sung hih leitang laizangah Topa’ biakinn om ding hi.
 
-**ZVS:** Siampite in hih a siangtho leitang sung panin tanh ngah ding uh a, leilu lampang leh leitaw lampang tai sawm tuak hi-in, nisuahna lam leh nitumna lampang tai li tuak hi ding hi. Siampite' ngahna sung hih leitang laizangah { Topa' } biakinn om ding hi.
+**ZVS:** Siampite in hih a siangtho leitang sung panin tanh ngah ding-te a, leilu lampang leh leitaw lampang tai sawm tuak hi-in, nisuahna lam leh nitumna lampang tai li tuak hi ding hi. Siampite' ngahna sung hih leitang laizangah { Topa' } biakinn om ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v11
 **EN:** It shall be for the priests that are sanctified of the sons of Zadok; which have kept my charge, which went not astray when the children of Israel went astray, as the Levites went astray.
 
-**TDB77:** Hih mun teng pen Zadok’ suan leh khak siampite ading ahi hi. Bang hang hiam cih leh hih mite in Israel midangte a gamtat khialh uh ciangin Levi midangte bangin va zui lo uh a, citakin keima na hong sem uh hi.
+**TDB77:** Hih mun teng pen Zadok’ suan leh khak siampite ading ahi hi. Bang hang hiam cih leh hih mite in Israel midangte a gamtat khialh-te ciangin Levi midangte bangin va zui lo-te a, citakin keima na hong sem-te hi.
 
-**ZVS:** Hih munteng pen Zadok' suanlekhak siampite-a' ding ahi hi. Bang hang hiam cih leh Israel midangte a gamtat khialh uh ciangin Levi midangte bangin va zuilo uh a, hih mite in citakin keima na hong sem uh hi.
+**ZVS:** Hih munteng pen Zadok' suanlekhak siampite-a' ding ahi hi. Bang hang hiam cih leh Israel midangte a gamtat khialh-te ciangin Levi midangte bangin va zuilo-te a, hih mite in citakin keima na hong sem-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** And this oblation of the land that is offered shall be unto them a thing most holy by the border of the Levites.
 
-**TDB77:** Tua ahih manin Levi midangte’ zomah hih bangin a mun tuam diak khat nei ding uh a, tua mun in a siangthopen mun khat hi ding hi.
+**TDB77:** Tua ahih manin Levi midangte’ zomah hih bangin a mun tuam diak khat nei ding-te a, tua mun in a siangthopen mun khat hi ding hi.
 
-**ZVS:** Tua ahih manin Levi midangte zomah hih bangin a mun tuam diak khat nei ding uh a, tua mun a siangtho pen mun khat hi ding hi.
+**ZVS:** Tua ahih manin Levi midangte zomah hih bangin a mun tuam diak khat nei ding-te a, tua mun a siangtho pen mun khat hi ding hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
 ### v13
 **EN:** And over against the border of the priests the Levites shall have five and twenty thousand in length, and ten thousand in breadth: all the length shall be five and twenty thousand, and the breadth ten thousand.
 
-**TDB77:** Hih siampite’ zomah Levi mite in leitang ngah ding uh a, a sauna tong tul sawmnih leh tul nga hi-in, a zaina tong tul sawm hi ding hi.
+**TDB77:** Hih siampite’ zomah Levi mite in leitang ngah ding-te a, a sauna tong tul sawmnih leh tul nga hi-in, a zaina tong tul sawm hi ding hi.
 
-**ZVS:** Hih siampite' zomah Levi mite in leitang ngah ding uh a, a sauna tai sawm hi-in, a zaina tai li hi ding hi.
+**ZVS:** Hih siampite' zomah Levi mite in leitang ngah ding-te a, a sauna tai sawm hi-in, a zaina tai li hi ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -178,9 +178,9 @@
 ### v19
 **EN:** And they that serve the city shall serve it out of all the tribes of Israel.
 
-**TDB77:** Khuapi sunga nasem-a om mi peuhmah in Israel minam sung panin kuamah deidanna om loin hih leitang kho thei ding uh hi.
+**TDB77:** Khuapi sunga nasem-a om mi peuhmah in Israel minam sung panin kuamah deidanna om loin hih leitang kho thei ding-te hi.
 
-**ZVS:** Khuapi sungah nasemin a om mi peuhmah in Israel minam sung panin kuamah kideidanna omloin hih leitang kho thei ding uh hi.
+**ZVS:** Khuapi sungah nasemin a om mi peuhmah in Israel minam sung panin kuamah kideidanna omloin hih leitang kho thei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -203,9 +203,9 @@
 ### v23
 **EN:** As for the rest of the tribes, from the east side unto the west side, Benjamin shall have a portion.
 
-**TDB77:** “Hih leitang panin leitaw lam pangah, Israel minam a om laite in leitang ngah ding uh a, a kikal uh gamgite pen gambup nisuahna gamgi panin gambup nitumna gamgi ciang hi ding a, leilu lam panin a hawm uh kipan suk ding uh hi. Leilu lam a khungnung penah a ngah ding Benjamin minamte,
+**TDB77:** “Hih leitang panin leitaw lam pangah, Israel minam a om laite in leitang ngah ding-te a, a kikal-te gamgite pen gambup nisuahna gamgi panin gambup nitumna gamgi ciang hi ding a, leilu lam panin a hawm-te kipan suk ding-te hi. Leilu lam a khungnung penah a ngah ding Benjamin minamte,
 
-**ZVS:** “Hih leitang panin leitaw lampang-ah, Israel minam a omlaite in leitang ngah ding uh a, a kikal uh gamgite pen gambup nisuahna gamgi panin gambup nitumna gamgi ciang hi ding a, leilu lam panin a hawm uh kipan suk ding uh hi. Leilu lam a khungnung penah a ngah ding Benjamin Minamte,
+**ZVS:** “Hih leitang panin leitaw lampang-ah, Israel minam a omlaite in leitang ngah ding-te a, a kikal-te gamgite pen gambup nisuahna gamgi panin gambup nitumna gamgi ciang hi ding a, leilu lam panin a hawm-te kipan suk ding-te hi. Leilu lam a khungnung penah a ngah ding Benjamin Minamte,
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -251,16 +251,16 @@
 ### v29
 **EN:** This is the land which ye shall divide by lot unto the tribes of Israel for inheritance, and these are their portions, saith the Lord
 
-**TDB77:** Tu-a ka gen bangin Israel minamte in a khang khangin a luah suksuk ding uh leitang dingin amaute tungah a kipia ding leitang ahi hi. Topa Pasian in hih thu kong gen khin hi.
+**TDB77:** Tu-a ka gen bangin Israel minamte in a khang khangin a luah suksuk ding-te leitang dingin amaute tungah a kipia ding leitang ahi hi. Topa Pasian in hih thu kong gen khin hi.
 
-**ZVS:** Tu-a ka gen bangin Israel minamte in a khang a khangin a luah suksuk ding uh leitang dingin amaute tungah a kipia ding leitang ahi hi. Topa { Pasian } in hih thu kong gen khin hi.
+**ZVS:** Tu-a ka gen bangin Israel minamte in a khang a khangin a luah suksuk ding-te leitang dingin amaute tungah a kipia ding leitang ahi hi. Topa { Pasian } in hih thu kong gen khin hi.
 
 **Grammar:** purpose: in order to | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v34
 **EN:** At the west side four thousand and five hundred, with their three gates; one gate of Gad, one gate of Asher, one gate of Naphtali.
 
-**TDB77:** “A khuapi sungah lutna ding kulhkongpite om hi. A khuapikulh pang lite, pang khat ciangin pi tul sagih zanga sawmguk sau hi. A pang khatah kulhkongpi thum ciat om a, Israel minamte khat ciat tam hi. Leilu lampanga om kulhkongpi thumte in Reuben, Judah, leh Levi tam hi. Nisuahna lampanga omte in Josef, Benjamin, leh Dan tam hi. Leitaw lampanga omte in Simeon, Issakhar, leh Zebulun tam hi. Nitumna lampanga omte in Gad, Asher, leh Naftali tam uh hi.
+**TDB77:** “A khuapi sungah lutna ding kulhkongpite om hi. A khuapikulh pang lite, pang khat ciangin pi tul sagih zanga sawmguk sau hi. A pang khatah kulhkongpi thum ciat om a, Israel minamte khat ciat tam hi. Leilu lampanga om kulhkongpi thumte in Reuben, Judah, leh Levi tam hi. Nisuahna lampanga omte in Josef, Benjamin, leh Dan tam hi. Leitaw lampanga omte in Simeon, Issakhar, leh Zebulun tam hi. Nitumna lampanga omte in Gad, Asher, leh Naftali tam-te hi.
 
 **Grammar:** plural: uh marker
 

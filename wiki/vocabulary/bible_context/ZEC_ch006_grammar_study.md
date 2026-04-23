@@ -54,9 +54,9 @@
 ### v5
 **EN:** And the angel answered and said unto me, These are the four spirits of the heavens, which go forth from standing before the Lord of all the earth.
 
-**TDB77:** Tua ciangin amah in hong dawng a, “Hihte in vantunga om kha lite a cih nopna hi a, leitung khempeuhte’ Topa kiang panin a hong paikhia ahi uh hi,” hong ci hi.
+**TDB77:** Tua ciangin amah in hong dawng a, “Hihte in vantunga om kha lite a cih nopna hi a, leitung khempeuhte’ Topa kiang panin a hong paikhia ahi-te hi,” hong ci hi.
 
-**ZVS:** Tua ciangin amah in hong dawng a, “Hihte pen huihleeng li a cihnopna hi a, leitung khempeuhte' { Topa' } kiang panin a hong paikhia ahi uh hi,” hong ci hi.
+**ZVS:** Tua ciangin amah in hong dawng a, “Hihte pen huihleeng li a cihnopna hi a, leitung khempeuhte' { Topa' } kiang panin a hong paikhia ahi-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -72,9 +72,9 @@
 ### v7
 **EN:** And the bay went forth, and sought to go that they might walk to and fro through the earth: and he said, Get you hence, walk to and fro through the earth. So they walked to and fro through the earth.
 
-**TDB77:** Tua sakolte, pai khia-in leitung teng a et ding uh ngaklah mahmah uh hi. Tua ahih manin vantungmi in, “Pai un la, leitung teng va en un,” ci-in thu pia hi. Amaute zong pai-in va en uh hi.
+**TDB77:** Tua sakolte, pai khia-in leitung teng a et ding-te ngaklah mahmah-te hi. Tua ahih manin vantungmi in, “Pai un la, leitung teng va en un,” ci-in thu pia hi. Amaute zong pai-in va en-te hi.
 
-**ZVS:** Tua sakolte, paikhia-in leitung teng a et ding uh ngaklah mahmah uh hi. Tua ahih manin vantung mi in, “Pai un la, leitungteng va en un,” ci-in thu a pia hi. Amaute zong pai-in va en uh hi.
+**ZVS:** Tua sakolte, paikhia-in leitung teng a et ding-te ngaklah mahmah-te hi. Tua ahih manin vantung mi in, “Pai un la, leitungteng va en un,” ci-in thu a pia hi. Amaute zong pai-in va en-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | causal: because | plural: uh marker
 
@@ -120,9 +120,9 @@
 ### v13
 **EN:** Even he shall build the temple of the
 
-**TDB77:** Amah in Topa’ biakinn a lam dingpa hi a, kumpite’ ngah theih minliatna ngahin, ama mite uk ding hi. Ama kumpi tokhom gei-ah siampi khat om ding a, kithutuakin kilemin na semkhawm ding uh hi,” ci hi,’ va ci in.
+**TDB77:** Amah in Topa’ biakinn a lam dingpa hi a, kumpite’ ngah theih minliatna ngahin, ama mite uk ding hi. Ama kumpi tokhom gei-ah siampi khat om ding a, kithutuakin kilemin na semkhawm ding-te hi,” ci hi,’ va ci in.
 
-**ZVS:** Amah pen { Topa' } biakinn a lam dingpa hi a, kumpite' ngah theih minliatna ngahin, ama mite uk ding hi. Ama kumpi tokhom gei-ah siampi khat om ding a, kithutuakin, kilemin na semkhawm ding uh hi,” ci hi,’ va ci in.
+**ZVS:** Amah pen { Topa' } biakinn a lam dingpa hi a, kumpite' ngah theih minliatna ngahin, ama mite uk ding hi. Ama kumpi tokhom gei-ah siampi khat om ding a, kithutuakin, kilemin na semkhawm ding-te hi,” ci hi,’ va ci in.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -138,9 +138,9 @@
 ### v15
 **EN:** And they that are far off shall come and build in the temple of the
 
-**TDB77:** Gamlapi-a teeng mite hong pai-in Topa’ inn lam nasep hong huh ding uh hi. Tua biakinn a kilam kik ciangin Vanglianpen Topa in note kiangah kei a hong sawlna thu na thei ding uh hi. Topa na Pasian uh’ thupiaknate cing takin na zuih nak uh leh tu-a ka gen bangin hong piang ding hi.
+**TDB77:** Gamlapi-a teeng mite hong pai-in Topa’ inn lam nasep hong huh ding-te hi. Tua biakinn a kilam kik ciangin Vanglianpen Topa in note kiangah kei a hong sawlna thu na thei ding-te hi. Topa na Pasian uh’ thupiaknate cing takin na zuih nak-te leh tu-a ka gen bangin hong piang ding hi.
 
-**ZVS:** Gamlapi-a a teng mite hong pai-in { Topa' } innlam nasep hong huh ding uh hi. Tua biakinn a kilamkik ciangin Vanglian { Topa } in note kiangah kei a hong sawl ahihna thu na thei ding uh hi. { Topa } na Pasian uh' thupiaknate cingtakin na zuih nak uh leh tu-a ka gen bangin a hong piang ding ahi hi.
+**ZVS:** Gamlapi-a a teng mite hong pai-in { Topa' } innlam nasep hong huh ding-te hi. Tua biakinn a kilamkik ciangin Vanglian { Topa } in note kiangah kei a hong sawl ahihna thu na thei ding-te hi. { Topa } na Pasian uh' thupiaknate cingtakin na zuih nak-te leh tu-a ka gen bangin a hong piang ding ahi hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

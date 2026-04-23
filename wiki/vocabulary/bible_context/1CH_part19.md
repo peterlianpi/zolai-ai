@@ -64,7 +64,7 @@
 
 ### li pha = four in number
 **Context:** A concise way of stating the quantity of the preceding list (four sons).
-**Example:** li pha uh hi.
+**Example:** li pha-te hi.
 
 ### nisuahna lam = east side/direction
 **Context:** Specifies a geographical direction relative to the Jordan River (Jordan nisuahna lam = east side of the Jordan).
@@ -110,6 +110,6 @@
   - Defines the recipient group: 'It is for the remaining ones of the family of [Noun].' Uses the possessive/genitive marker '-te' and the purpose marker '-ading'.
   - Example: hihte pen Kohath-te beh a omlaite-a' ding ahi hi.
 
-- **[Noun]’ tapate in: [Name 1], [Name 2], [Name 3], leh [Name 4], li pha uh hi.**
+- **[Noun]’ tapate in: [Name 1], [Name 2], [Name 3], leh [Name 4], li pha-te hi.**
   - A structure used to list descendants (sons) and conclude with a numerical summary: 'The sons of [Noun] were: [List], four in number.'
-  - Example: Issakhar' tapate: Tola, Puah, Jashub, leh Shimron, li pha uh hi.
+  - Example: Issakhar' tapate: Tola, Puah, Jashub, leh Shimron, li pha-te hi.

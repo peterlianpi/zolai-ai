@@ -64,7 +64,7 @@
 
 **TDB77:** Midangte in a neihsate liah tumsak a, amah sangin a hatzawpa in a um a beel sunga omte nangawn laksak a, a neih a lam duhgawh deihgawh hi.
 
-**ZVS:** Midangte in a neihsate liahtumsak uh a, amah sangin a hatzawpa in a um a beel sunga a omte nangawn laksak a, a neih a lam duhgawhin a deihgawh hi.
+**ZVS:** Midangte in a neihsate liahtumsak-te a, amah sangin a hatzawpa in a um a beel sunga a omte nangawn laksak a, a neih a lam duhgawhin a deihgawh hi.
 
 ### v6
 **EN:** Although affliction cometh not forth of the dust, neither doth trouble spring out of the ground;
@@ -80,7 +80,7 @@
 
 **TDB77:** mei-ek a tolen’ ngei mah bangin mihing in ama lungkham nading mah piangsak hi.
 
-**ZVS:** Mei-ek a to leen' mah bangin mihingte in amau' lungkhamna ding mah a piangsak uh hi.
+**ZVS:** Mei-ek a to leen' mah bangin mihingte in amau' lungkhamna ding mah a piangsak-te hi.
 
 **Grammar:** causative: -sak suffix
 
@@ -117,9 +117,9 @@
 ### v12
 **EN:** He disappointeth the devices of the crafty, so that their hands cannot perform their enterprise.
 
-**TDB77:** Amah in migilote’ geelna suksiatsak ahih manin amaute in a ngimna uh tangtun thei lo uh hi.
+**TDB77:** Amah in migilote’ geelna suksiatsak ahih manin amaute in a ngimna-te tangtun thei lo-te hi.
 
-**ZVS:** Amah in migilote' geelna suksiatsak ahih manin amaute in a ngimna uh tangtun' theilo uh hi.
+**ZVS:** Amah in migilote' geelna suksiatsak ahih manin amaute in a ngimna-te tangtun' theilo-te hi.
 
 **Grammar:** negation: lo | causal: because | plural: uh marker
 
@@ -133,9 +133,9 @@
 ### v14
 **EN:** They meet with darkness in the daytime, and grope in the noonday as in the night.
 
-**TDB77:** Suntangpi-in amaute khuamial sung kiden’na a, suntangpi-in zan bangin mialzawt uh hi.
+**TDB77:** Suntangpi-in amaute khuamial sung kiden’na a, suntangpi-in zan bangin mialzawt-te hi.
 
-**ZVS:** Sunthapai-in khuamial sung kiden'na a, suntangpi mahin zan bangin mial a zawt uh hi.
+**ZVS:** Sunthapai-in khuamial sung kiden'na a, suntangpi mahin zan bangin mial a zawt-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -151,9 +151,9 @@
 ### v16
 **EN:** So the poor hath hope, and iniquity stoppeth her mouth.
 
-**TDB77:** Tua ahih manin mizawngte in lametna nei kik uh a, thuman lote ahih leh kihencip hi.
+**TDB77:** Tua ahih manin mizawngte in lametna nei kik-te a, thuman lote ahih leh kihencip hi.
 
-**ZVS:** Tua ahih manin mizawngte in lametna neikik uh a, thumanlo mite ahih leh kihencip hi.
+**ZVS:** Tua ahih manin mizawngte in lametna neikik-te a, thumanlo mite ahih leh kihencip hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -248,9 +248,9 @@
 ### v27
 **EN:** Lo this, we have searched it, so it is; hear it, and know thou it for thy good.
 
-**TDB77:** Hih thu khempeuh ka kantel uh a, a thuman a na hi hi, za in la, nang adingin zang in.
+**TDB77:** Hih thu khempeuh ka kantel-te a, a thuman a na hi hi, za in la, nang adingin zang in.
 
-**ZVS:** Hih thute khempeuh ka kantel uh a, a thuman a na hi hi. Hih thute ka zaksa uh hi a, a manna na thei ding hi,” a ci hi.
+**ZVS:** Hih thute khempeuh ka kantel-te a, a thuman a na hi hi. Hih thute ka zaksa-te hi a, a manna na thei ding hi,” a ci hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

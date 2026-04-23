@@ -192,9 +192,9 @@
 ### v20
 **EN:** And all Israel from Dan even to Beer–sheba knew that Samuel was established to be a prophet of the
 
-**TDB77:** Tua ciangin Dan panin Be-ersheba kikal a, om Israelte khempeuh in Topa’ kamsangin Samuel a kikipsakna thei uh hi.
+**TDB77:** Tua ciangin Dan panin Be-ersheba kikal a, om Israelte khempeuh in Topa’ kamsangin Samuel a kikipsakna thei-te hi.
 
-**ZVS:** Tua ciangin Dan leh Beersheba kikala om Israel-te khempeuh in { Topa' } kamsangin Samuel a kikipsakna thei uh hi.
+**ZVS:** Tua ciangin Dan leh Beersheba kikala om Israel-te khempeuh in { Topa' } kamsangin Samuel a kikipsakna thei-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -203,7 +203,7 @@
 
 **TDB77:** Tua ciangin Shiloh-ah Topa kilang kik zelzel hi; bang hang hiam cih leh Topa’ thu tawh Shiloh ah Topa mahmah Samuel tungah kilang hi.
 
-**ZVS:** Tua ciangin Shiloh-ah { Topa } kilang kik zelzel hi. Shiloh-ah { Topa } mahmah Samuel tungah kilangin thu gen a, Samuel in mite tungah gensawn hi. Tua ciangin Israel-te khempeuh in Samuel' thu a zui uh hi.
+**ZVS:** Tua ciangin Shiloh-ah { Topa } kilang kik zelzel hi. Shiloh-ah { Topa } mahmah Samuel tungah kilangin thu gen a, Samuel in mite tungah gensawn hi. Tua ciangin Israel-te khempeuh in Samuel' thu a zui-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | reciprocal: ki- prefix
 

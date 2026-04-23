@@ -96,9 +96,7 @@
 
 ### vaihawmkhol = prepared/made ready (provisions)
 **Context:** The brethren prepared food and drink for those gathered.
-**Example:** amaute’ dingin na vaihawmkhol uh
-
-### lungdamna = joy/gladness
+**Example:** amaute’ dingin na vaihawmkhol-te ### lungdamna = joy/gladness
 **Context:** The reason for the abundant provisions being brought.
 **Example:** Israel sungah lungdamna om ahih manin
 
@@ -135,7 +133,7 @@
 - **ngaihsutna takpi tawh** = with a perfect intention/sincerely
   - Usage: Emphasizes the sincerity and lack of hidden agenda in an action.
 
-- **an ne tui dawnin omkhawm uh hi** = they remained eating and drinking
+- **an ne tui dawnin omkhawm-te hi** = they remained eating and drinking
   - Usage: Describes a period of feasting and fellowship.
 
 ## Grammar Patterns
@@ -154,4 +152,4 @@
 
 - **Tua mah bangin X khempeuh zong Y ahi hi.**
   - Used to show that the sentiment or state of one group is mirrored by another group ('In the same way, all of X were also Y').
-  - Example: Tua mah bangin Israel a omlaite khempeuh zong David kumpi-in a bawl ding uh a ngaihsutna uh kikhat hi.
+  - Example: Tua mah bangin Israel a omlaite khempeuh zong David kumpi-in a bawl ding-te a ngaihsutna-te kikhat hi.

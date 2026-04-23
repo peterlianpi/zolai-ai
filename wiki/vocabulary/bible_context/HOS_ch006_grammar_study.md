@@ -42,9 +42,9 @@
 ### v3
 **EN:** Then shall we know, if we follow on to know the
 
-**TDB77:** Topa i theih zawh nadingin hanciam ni. Zingsang sialin pel loin khua a vak mah bangin pel loin eite kiangah amah hong pai ding a, lei a kawtsak khuapi guah a pelh loin hong zuk bangin eite kiangah amah hong pai hamtang ding hi,” a ci ding uh hi.
+**TDB77:** Topa i theih zawh nadingin hanciam ni. Zingsang sialin pel loin khua a vak mah bangin pel loin eite kiangah amah hong pai ding a, lei a kawtsak khuapi guah a pelh loin hong zuk bangin eite kiangah amah hong pai hamtang ding hi,” a ci ding-te hi.
 
-**ZVS:** { Topa } i theihzawhna dingin hanciam ni. Zingsang sialin pelloin khua a vak mah bangin pelloin eite kiangah amah hong pai ding a, lei a kawtsak khuapi guah pelloin hong zuk bangin eite kiangah amah hong pai hamtang ding hi,” a ci ding uh hi.
+**ZVS:** { Topa } i theihzawhna dingin hanciam ni. Zingsang sialin pelloin khua a vak mah bangin pelloin eite kiangah amah hong pai ding a, lei a kawtsak khuapi guah pelloin hong zuk bangin eite kiangah amah hong pai hamtang ding hi,” a ci ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -69,18 +69,18 @@
 ### v6
 **EN:** For I desired mercy, and not sacrifice; and the knowledge of God more than burnt offerings.
 
-**TDB77:** Gan tawh nong biakna uh sangin a kip a kho nong itna uh ka deih zaw hi. Meihal biakna sangin kei nong theih ding uh ka deih zaw hi.
+**TDB77:** Gan tawh nong biakna-te sangin a kip a kho nong itna-te ka deih zaw hi. Meihal biakna sangin kei nong theih ding-te ka deih zaw hi.
 
-**ZVS:** Keima deih pen nong it tawntung ding uh hizaw a, gan tawh nong biakna uh ka deih pen hilo zaw hi. Gan tawh nong biakna uh sangin kei nong theih ding uh ka deihzaw hi.
+**ZVS:** Keima deih pen nong it tawntung ding-te hizaw a, gan tawh nong biakna-te ka deih pen hilo zaw hi. Gan tawh nong biakna-te sangin kei nong theih ding-te ka deihzaw hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** But they like men have transgressed the covenant: there have they dealt treacherously against me.
 
-**TDB77:** Ahi zongin ka ciamna gam a tun’ uh ciangin amaute in Adam khua-ah ka thuciamna palsat uh a, kei tungah hong thuman lo uh hi.
+**TDB77:** Ahi zongin ka ciamna gam a tun’ uh ciangin amaute in Adam khua-ah ka thuciamna palsat-te a, kei tungah hong thuman lo-te hi.
 
-**ZVS:** Ahi zongin ka ciamna gam a tun' uh ciangin amaute in Adam khua-ah ka thuciamna palsat uh a, kei tungah hong thumanlo uh hi.
+**ZVS:** Ahi zongin ka ciamna gam a tun' uh ciangin amaute in Adam khua-ah ka thuciamna palsat-te a, kei tungah hong thumanlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -96,18 +96,18 @@
 ### v9
 **EN:** And as troops of robbers wait for a man, so the company of priests murder in the way by consent: for they commit lewdness.
 
-**TDB77:** Zawhthawh thu-in mi’ na sut dingin a pangsim mite bangin siampite gamta uh a, biakna pia dingin Shekhem khua-ah a pai mite nangawn, lam kal-ah that uh hi. Amaute’ gamtatna sia-huai mahmah hi.
+**TDB77:** Zawhthawh thu-in mi’ na sut dingin a pangsim mite bangin siampite gamta-te a, biakna pia dingin Shekhem khua-ah a pai mite nangawn, lam kal-ah that-te hi. Amaute’ gamtatna sia-huai mahmah hi.
 
-**ZVS:** Zawhthawh thu-in mi' na a sut dingin a pangsim mite bangin siampite gamta uh a, biakna a pia dingin Shekhem khua-ah a pai mite nangawn, lamkalah a that uh hi. Amau gamtatna siahuai mahmah hi.
+**ZVS:** Zawhthawh thu-in mi' na a sut dingin a pangsim mite bangin siampite gamta-te a, biakna a pia dingin Shekhem khua-ah a pai mite nangawn, lamkalah a that-te hi. Amau gamtatna siahuai mahmah hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v10
 **EN:** I have seen an horrible thing in the house of Israel: there is the whoredom of Ephraim, Israel is defiled.
 
-**TDB77:** Israel mite’ lakah siatna lianpi khat ka mu hi. Milim biakna tawh amaute kininsak uh hi.
+**TDB77:** Israel mite’ lakah siatna lianpi khat ka mu hi. Milim biakna tawh amaute kininsak-te hi.
 
-**ZVS:** Israel mite lakah siatna lianpi khat ka mu hi. Milim biakna tawh amaute kininsak uh hi.
+**ZVS:** Israel mite lakah siatna lianpi khat ka mu hi. Milim biakna tawh amaute kininsak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -116,7 +116,7 @@
 
 **TDB77:** No Judah mite zong daan kong piak ding hun kiseh khin zo hi.
 
-**ZVS:** No Judah mite zong gim kong piak ding hun kiseh khinzo hi. Israel-te' Mawhna leh A Lehpan'na Ka mihingte a ngei uh bangsak kik ning,
+**ZVS:** No Judah mite zong gim kong piak ding hun kiseh khinzo hi. Israel-te' Mawhna leh A Lehpan'na Ka mihingte a ngei-te bangsak kik ning,
 
 **Grammar:** reciprocal: ki- prefix
 

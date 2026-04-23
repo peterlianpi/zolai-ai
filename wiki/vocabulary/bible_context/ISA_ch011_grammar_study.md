@@ -48,9 +48,9 @@
 ### v4
 **EN:** But with righteousness shall he judge the poor, and reprove with equity for the meek of the earth: and he shall smite the earth with the rod of his mouth, and with the breath of his lips shall he slay the wicked.
 
-**TDB77:** a kitangsam mite thumanna tawh thukhensak ding a,, mizawngte’ thu a tangin khensak ding hi; ama kam pan a, molhtum tawh leitung mite daan kitat ding a, a muk pan a, a husan’na tawh mi gilote si ding uh hi.
+**TDB77:** a kitangsam mite thumanna tawh thukhensak ding a,, mizawngte’ thu a tangin khensak ding hi; ama kam pan a, molhtum tawh leitung mite daan kitat ding a, a muk pan a, a husan’na tawh mi gilote si ding-te hi.
 
-**ZVS:** Thumanna tawh mizawngte' thu khenin, lungsim neem mite' thu ahi bangin khensak ding hi. Ama kam panin a thupiakna tawh leitung mite gim kipia ding a, a muk panin a thugenna tawh migilote si ding uh hi.
+**ZVS:** Thumanna tawh mizawngte' thu khenin, lungsim neem mite' thu ahi bangin khensak ding hi. Ama kam panin a thupiakna tawh leitung mite gim kipia ding a, a muk panin a thugenna tawh migilote si ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -66,18 +66,18 @@
 ### v6
 **EN:** The wolf also shall dwell with the lamb, and the leopard shall lie down with the kid; and the calf and the young lion and the fatling together; and a little child shall lead them.
 
-**TDB77:** Keivom pen tuuno tawh omkhawm ding a, kamkei gialbem pen keelno tawh lum khawm ding hi, bawngno leh humpinelkai leh ganhing thaute omkhawm ding uh a, naupangno khat nangawn in tuate hawl ding hi.
+**TDB77:** Keivom pen tuuno tawh omkhawm ding a, kamkei gialbem pen keelno tawh lum khawm ding hi, bawngno leh humpinelkai leh ganhing thaute omkhawm ding-te a, naupangno khat nangawn in tuate hawl ding hi.
 
-**ZVS:** Keivom pen tuuno tawh omkhawm ding a, kamkei gialbem pen keelno tawh lumkhawm ding hi. Bawngno leh humpinelkai leh ganhing thaute omkhawm ding uh a, naupangno khat nangawn in tuate hawlzo ding hi.
+**ZVS:** Keivom pen tuuno tawh omkhawm ding a, kamkei gialbem pen keelno tawh lumkhawm ding hi. Bawngno leh humpinelkai leh ganhing thaute omkhawm ding-te a, naupangno khat nangawn in tuate hawlzo ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v7
 **EN:** And the cow and the bear shall feed; their young ones shall lie down together: and the lion shall eat straw like the ox.
 
-**TDB77:** Bawngpi leh vompi in an nekhawm ding uh a, amau’ note lum khawm ding uh hi; humpinelkai in bawngtal mah bangin buhkung ne ding hi.
+**TDB77:** Bawngpi leh vompi in an nekhawm ding-te a, amau’ note lum khawm ding-te hi; humpinelkai in bawngtal mah bangin buhkung ne ding hi.
 
-**ZVS:** Bawngpi leh vompi in an nekhawm ding uh a, amau' note lumkhawm ding uh hi. Humpinelkai in bawngtal mah bangin buhkung ne ding hi.
+**ZVS:** Bawngpi leh vompi in an nekhawm ding-te a, amau' note lumkhawm ding-te hi. Humpinelkai in bawngtal mah bangin buhkung ne ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -93,18 +93,18 @@
 ### v9
 **EN:** They shall not hurt nor destroy in all my holy mountain: for the earth shall be full of the knowledge of the
 
-**TDB77:** Ka mual siangtho buppi tungah amaute khat leh khat kiliamsak lo ding uh a, kisusia lo ding uh hi; bang hang hiam cih leh tuite in tuipi omna a tuamcip mah bangin leitungah Topa’ thu theihna kidim ding hi.
+**TDB77:** Ka mual siangtho buppi tungah amaute khat leh khat kiliamsak lo ding-te a, kisusia lo ding-te hi; bang hang hiam cih leh tuite in tuipi omna a tuamcip mah bangin leitungah Topa’ thu theihna kidim ding hi.
 
-**ZVS:** Ka mual siangtho buppi tungah amaute khatlekhat kiliamsak lo ding uh a, kisusia lo ding uh hi. Bang hang hiam cih leh tuite in tuipi omna a tuamcip mah bangin leitungah { Topa}' thu theihna kidim ding hi.
+**ZVS:** Ka mual siangtho buppi tungah amaute khatlekhat kiliamsak lo ding-te a, kisusia lo ding-te hi. Bang hang hiam cih leh tuite in tuipi omna a tuamcip mah bangin leitungah { Topa}' thu theihna kidim ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And in that day there shall be a root of Jesse, which shall stand for an ensign of the people; to it shall the Gentiles seek: and his rest shall be glorious.
 
-**TDB77:** Tua ni ciangin Jessi’ zung pen mihingte’ tungah lim khat hi ding hi; minamte in ama kiangah kikhawm ding uh a, ama tawlngakna mun pen minthang mahmah ding hi.
+**TDB77:** Tua ni ciangin Jessi’ zung pen mihingte’ tungah lim khat hi ding hi; minamte in ama kiangah kikhawm ding-te a, ama tawlngakna mun pen minthang mahmah ding hi.
 
-**ZVS:** Tua ni ciangin Jessi' zung pen mihingte' tungah lim khat hi ding hi. Minamte in amah zong ding uh a, ama omna mun minthang mahmah ding hi.
+**ZVS:** Tua ni ciangin Jessi' zung pen mihingte' tungah lim khat hi ding hi. Minamte in amah zong ding-te a, ama omna mun minthang mahmah ding hi.
 
 **Grammar:** intensifier: very/greatly | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -138,9 +138,9 @@
 ### v14
 **EN:** But they shall fly upon the shoulders of the Philistines toward the west; they shall spoil them of the east together: they shall lay their hand upon Edom and Moab; and the children of Ammon shall obey them.
 
-**TDB77:** Ahih hangin amaute in, nitumna lam-a om Filistia mite sim khawm ding uh a, nisuahna lam-a om mite luh khawm ding uh hi. Amaute in Edom mite leh Moab mite zogawp ding uh a, Ammon mite in amau’ thu mang ding uh hi.
+**TDB77:** Ahih hangin amaute in, nitumna lam-a om Filistia mite sim khawm ding-te a, nisuahna lam-a om mite luh khawm ding-te hi. Amaute in Edom mite leh Moab mite zogawp ding-te a, Ammon mite in amau’ thu mang ding-te hi.
 
-**ZVS:** Ahih hangin amaute in nitumna lama om Filistia mite simkhawm ding uh a, nisuahna lama om mite luhkhawm ding uh hi. Amaute in Edom mite leh Moab mite zogawp ding uh a, Ammon mite in amau' thu mang ding uh hi.
+**ZVS:** Ahih hangin amaute in nitumna lama om Filistia mite simkhawm ding-te a, nisuahna lama om mite luhkhawm ding-te hi. Amaute in Edom mite leh Moab mite zogawp ding-te a, Ammon mite in amau' thu mang ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

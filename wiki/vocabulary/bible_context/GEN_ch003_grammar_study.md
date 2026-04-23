@@ -34,36 +34,36 @@
 ### v2
 **EN:** And the woman said unto the serpent, We may eat of the fruit of the trees of the garden:
 
-**TDB77:** Numei in gulpi' kiangah, “Huan sung singgahte ka ne thei ding uh hi;
+**TDB77:** Numei in gulpi' kiangah, “Huan sung singgahte ka ne thei ding-te hi;
 
-**ZVS:** Numei in gulpi kiangah, “Huan sung singgahte ka ne thei ding uh hi.
+**ZVS:** Numei in gulpi kiangah, “Huan sung singgahte ka ne thei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** But of the fruit of the tree which is in the midst of the garden, God hath said, Ye shall not eat of it, neither shall ye touch it, lest ye die.
 
-**TDB77:** ahih hangin Pasian in, ‘Huan laizang-a om singgah na ne kei ding uh hi, zong na lawng kei ding uh hi, tua bang hih le uhcin na si ding uh hi’ hong ci hi,” ci hi.
+**TDB77:** ahih hangin Pasian in, ‘Huan laizang-a om singgah na ne kei ding-te hi, zong na lawng kei ding-te hi, tua bang hih le uhcin na si ding-te hi’ hong ci hi,” ci hi.
 
-**ZVS:** Ahih hangin Pasian in, ‘Huan laizanga om singgah na ne kei ding uh hi, zong na lawng kei ding uh hi. Tua bang hih le-uhcin na si ding uh hi,’ hong ci hi,” a ci hi.
+**ZVS:** Ahih hangin Pasian in, ‘Huan laizanga om singgah na ne kei ding-te hi, zong na lawng kei ding-te hi. Tua bang hih le-uhcin na si ding-te hi,’ hong ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | plural: uh marker
 
 ### v4
 **EN:** And the serpent said unto the woman, Ye shall not surely die:
 
-**TDB77:** Ahih hangin gulpi in numei kiangah, “Na si taktak kei ding uh hi.
+**TDB77:** Ahih hangin gulpi in numei kiangah, “Na si taktak kei ding-te hi.
 
-**ZVS:** Ahih hangin gulpi in numei kiangah, “Na si kei ding uh hi.
+**ZVS:** Ahih hangin gulpi in numei kiangah, “Na si kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** For God doth know that in the day ye eat thereof, then your eyes shall be opened, and ye shall be as gods, knowing good and evil.
 
-**TDB77:** Bang hang hiam na cih leh tua singgah na nek ciangun na mitte uh kihong ding a, a pha leh a sia thei-in Pasian tawh na kibat ding lamtak uh Pasian in thei hi,” ci hi.
+**TDB77:** Bang hang hiam na cih leh tua singgah na nek ciangun na mitte-te kihong ding a, a pha leh a sia thei-in Pasian tawh na kibat ding lamtak-te Pasian in thei hi,” ci hi.
 
-**ZVS:** Bang hang hiam cih leh tua singgah na nek ciangun na mitte uh hong vak ding a, a pha leh a sia thei-in, Pasian tawh na kibat ding lamtak uh Pasian in thei hi,” a ci hi.
+**ZVS:** Bang hang hiam cih leh tua singgah na nek ciangun na mitte-te hong vak ding a, a pha leh a sia thei-in, Pasian tawh na kibat ding lamtak-te Pasian in thei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -79,18 +79,18 @@
 ### v7
 **EN:** And the eyes of them both were opened, and they knew that they were naked; and they sewed fig leaves together, and made themselves aprons.
 
-**TDB77:** A nek khit phetun amaute gel in khua phawk uh a, a guaktangun a om lam uh kithei uh hi; amaute in thei tehte khuituah-in puansilh dingin bawl uh hi.
+**TDB77:** A nek khit phetun amaute gel in khua phawk-te a, a guaktangun a om lam-te kithei-te hi; amaute in thei tehte khuituah-in puansilh dingin bawl-te hi.
 
-**ZVS:** A nek khit phetun amaute gel in khua phawk uh a, a guaktangin a omlam uh kithei uh hi. Amaute in theitehte khui tuahin puansilh dingin a bawl uh hi.
+**ZVS:** A nek khit phetun amaute gel in khua phawk-te a, a guaktangin a omlam-te kithei-te hi. Amaute in theitehte khui tuahin puansilh dingin a bawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And they heard the voice of the
 
-**TDB77:** Khuavot hunin huan sungah Topa Pasian a paina ging amaute in za uh a, Topa Pasian’ muhna panin mipa leh a zi, huan sung singte' lakah bu uh hi.
+**TDB77:** Khuavot hunin huan sungah Topa Pasian a paina ging amaute in za-te a, Topa Pasian’ muhna panin mipa leh a zi, huan sung singte' lakah bu-te hi.
 
-**ZVS:** A nitak ciangin huan sungah { Topa } Pasian a hong paina ging amaute in za uh a, { Topa } Pasian' muh loh dingin mipa leh a zi, huan sung singte lakah a bu uh hi.
+**ZVS:** A nitak ciangin huan sungah { Topa } Pasian a hong paina ging amaute in za-te a, { Topa } Pasian' muh loh dingin mipa leh a zi, huan sung singte lakah a bu-te hi.
 
 **Grammar:** plural: uh marker
 

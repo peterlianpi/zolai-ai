@@ -32,34 +32,34 @@
 ### v2
 **EN:** For the mouth of the wicked and the mouth of the deceitful are opened against me: they have spoken against me with a lying tongue.
 
-**TDB77:** Bang hang hiam cih leh migilote leh zuauthu gente keima langah hong pang uh a, keimah hong gensia-in, zuauthu bekbek genin nei uh hi.
+**TDB77:** Bang hang hiam cih leh migilote leh zuauthu gente keima langah hong pang-te a, keimah hong gensia-in, zuauthu bekbek genin nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v3
 **EN:** They compassed me about also with words of hatred; and fought against me without a cause.
 
-**TDB77:** Amaute in muhdahna kamte pau-in kei hong gensia uh a, thu om lopi-in kei hong langpan’ uh hi.
+**TDB77:** Amaute in muhdahna kamte pau-in kei hong gensia-te a, thu om lopi-in kei hong langpan’ uh hi.
 
-**ZVS:** Amaute in muhdah kamte pau-in kei hong gensia uh a, thu omlopi-in kei hong langpang uh hi.
+**ZVS:** Amaute in muhdah kamte pau-in kei hong gensia-te a, thu omlopi-in kei hong langpang-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v4
 **EN:** For my love they are my adversaries: but I give myself unto prayer.
 
-**TDB77:** Amaute ka itna, amau adinga thu ka ngetsakna nangawn, amaute in hong thukna-in kei hong mawhsak uh hi.
+**TDB77:** Amaute ka itna, amau adinga thu ka ngetsakna nangawn, amaute in hong thukna-in kei hong mawhsak-te hi.
 
-**ZVS:** Amaute ka itna, amaute-a' dingin thu ka ngetsakna nangawn amaute in hong thukna-in kei hong mawhsak uh hi.
+**ZVS:** Amaute ka itna, amaute-a' dingin thu ka ngetsakna nangawn amaute in hong thukna-in kei hong mawhsak-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v5
 **EN:** And they have rewarded me evil for good, and hatred for my love.
 
-**TDB77:** Tua ahih ciangin amaute in hoihna’ adingin siatna, itna’ adingin muhdahna tawh kei hong thuk uh hi.
+**TDB77:** Tua ahih ciangin amaute in hoihna’ adingin siatna, itna’ adingin muhdahna tawh kei hong thuk-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in hoihna-a' dingin siatna itna-a' dingin muhdahna tawh kei hong thuk uh hi.
+**ZVS:** Tua ahih ciangin amaute in hoihna-a' dingin siatna itna-a' dingin muhdahna tawh kei hong thuk-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -102,7 +102,7 @@
 
 **TDB77:** Ama tate vak kawikawi-in khut dawhin ngen hen la, a kisiasa amau’ teen’na mun panin kihawlkhia ta hen!
 
-**ZVS:** Ama tate vak kawikawi-in khut dawhin ngen hen la, a kisiasa a ten'na mun panun kihawlkhia ta uh hen.
+**ZVS:** Ama tate vak kawikawi-in khut dawhin ngen hen la, a kisiasa a ten'na mun panun kihawlkhia ta-te hen.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -231,9 +231,9 @@
 ### v25
 **EN:** I became also a reproach unto them: when they looked upon me they shaked their heads.
 
-**TDB77:** Kei, amaute’ nuihsatin ka om a, amaute in kei hong muh ciangun hong lupeisan uh hi.
+**TDB77:** Kei, amaute’ nuihsatin ka om a, amaute in kei hong muh ciangun hong lupeisan-te hi.
 
-**ZVS:** Amaute' nuihsatin kei ka om a, amaute in kei hong muh ciangun lusu ngeungeu uh hi.
+**ZVS:** Amaute' nuihsatin kei ka om a, amaute in kei hong muh ciangun lusu ngeungeu-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -265,9 +265,9 @@
 ### v29
 **EN:** Let mine adversaries be clothed with shame, and let them cover themselves with their own confusion, as with a mantle.
 
-**TDB77:** Kei hong mawhsakte in mindaina silh uh hen la, puanza silh bangin amau’ maizumna tawh kituamcip ta uh hen!
+**TDB77:** Kei hong mawhsakte in mindaina silh-te hen la, puanza silh bangin amau’ maizumna tawh kituamcip ta-te hen!
 
-**ZVS:** Kei hong mawhsakte in mindaina silh uh hen la, puanza silh bangin amau' maizumna tawh kituamcip ta uh hen.
+**ZVS:** Kei hong mawhsakte in mindaina silh-te hen la, puanza silh bangin amau' maizumna tawh kituamcip ta-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 

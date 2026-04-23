@@ -4,15 +4,15 @@
 
 ### tapa = son
 **Context:** Used to denote male offspring, often in genealogies.
-**Example:** Ezrah' tapa lite: Jether, Mered, Efer, leh Jalon ahi uh hi.
+**Example:** Ezrah' tapa lite: Jether, Mered, Efer, leh Jalon ahi-te hi.
 
 ### lite = sons (plural)
 **Context:** Plural form of 'tapa' (son).
-**Example:** Ezrah' tapa lite: Jether, Mered, Efer, leh Jalon ahi uh hi.
+**Example:** Ezrah' tapa lite: Jether, Mered, Efer, leh Jalon ahi-te hi.
 
-### ahi uh hi = they were
+### ahi-te hi = they were
 **Context:** A common concluding phrase in lists or statements of identity/being.
-**Example:** Jether, Mered, Efer, leh Jalon ahi uh hi.
+**Example:** Jether, Mered, Efer, leh Jalon ahi-te hi.
 
 ### tanu = daughter
 **Context:** Used to denote female offspring.
@@ -60,7 +60,7 @@
 
 ### kumpipa = king
 **Context:** Ruler or monarch.
-**Example:** ama na a sem dingin kumpipa tawh tua khuate ah teeng khawm uh hi.
+**Example:** ama na a sem dingin kumpipa tawh tua khuate ah teeng khawm-te hi.
 
 ### sem = work/do
 **Context:** Used here in the context of performing a duty or service.
@@ -70,9 +70,9 @@
 **Context:** Specifies a time period ending with a ruler's time in power.
 **Example:** Hihte in David’ uk hun mateng amaute' khuapite ahi hi.
 
-### pung lo uh hi = did not multiply/increase
+### pung lo-te hi = did not multiply/increase
 **Context:** Used in comparison to show a lack of population growth.
-**Example:** Judah minamte a pun' bangin Simeon minamte punglo uh hi.
+**Example:** Judah minamte a pun' bangin Simeon minamte punglo-te hi.
 
 ## Phrases & Usage
 
@@ -93,18 +93,18 @@
 
 ## Grammar Patterns
 
-- **X' tapa/suante: Y, Z, leh A ahi uh hi.**
-  - Standard structure for listing the sons/descendants of an individual (X). 'ahi uh hi' concludes the list.
-  - Example: Shimon' tapate: Amnon, Rinnah, Benhanan, leh Tilon ahi uh hi.
+- **X' tapa/suante: Y, Z, leh A ahi-te hi.**
+  - Standard structure for listing the sons/descendants of an individual (X). 'ahi-te hi' concludes the list.
+  - Example: Shimon' tapate: Amnon, Rinnah, Benhanan, leh Tilon ahi-te hi.
 
-- **A tapa B, a tapa C ahi uh hi.**
+- **A tapa B, a tapa C ahi-te hi.**
   - Chain of descent showing direct lineage: A's son is B, B's son is C.
-  - Example: Shaul' tapa Shallum, a tapa Mibsam, a tapa Mishma ahi uh hi.
+  - Example: Shaul' tapa Shallum, a tapa Mibsam, a tapa Mishma ahi-te hi.
 
 - **X in Y ten'pih a, Z nei hi.**
   - Structure showing marriage (X took Y) resulting in offspring (Z).
   - Example: Mered in Faro' tanu Bithiah ten'pih a, tanu Miriam leh tapa Shammai leh Ishbah nei hi.
 
-- **Hihte pen X hi a, Y khua-ah a tengte ahi uh hi.**
+- **Hihte pen X hi a, Y khua-ah a tengte ahi-te hi.**
   - Identification followed by location: 'These are X, and they are the dwellers in place Y.'
-  - Example: Hihte pen beelsekte hi a, Netaim khua leh Gederah khua-ah a tengte ahi uh hi.
+  - Example: Hihte pen beelsekte hi a, Netaim khua leh Gederah khua-ah a tengte ahi-te hi.

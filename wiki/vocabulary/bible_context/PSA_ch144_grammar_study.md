@@ -67,9 +67,9 @@
 ### v8
 **EN:** Whose mouth speaketh vanity, and their right hand is a right hand of falsehood.
 
-**TDB77:** A kam uh tawh zuauthu a gente leh kiciamna a bawl khit ciang nangawnin a zuau vevete’ kiang panin kei hong phelin hong honkhia in.
+**TDB77:** A kam-te tawh zuauthu a gente leh kiciamna a bawl khit ciang nangawnin a zuau vevete’ kiang panin kei hong phelin hong honkhia in.
 
-**ZVS:** A kam uh tawh zuauthu a gente leh limtakin kiciamna a bawl khit ciang nangawnin zuauthu mah a gen lai vevete' kiang pan kei hong phel in la, hong honkhia ta in.
+**ZVS:** A kam-te tawh zuauthu a gente leh limtakin kiciamna a bawl khit ciang nangawnin zuauthu mah a gen lai vevete' kiang pan kei hong phel in la, hong honkhia ta in.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -92,34 +92,34 @@
 ### v11
 **EN:** Rid me, and deliver me from the hand of strange children, whose mouth speaketh vanity, and their right hand is a right hand of falsehood:
 
-**TDB77:** A gilo galte kiang panin kei hong hon in la, a kam uh tawh zuauthu a gen, kiciamna a bawl khit ciang nangawn-in a zuau veve gamdang mite’ khut sung panin kei hong honkhia in.
+**TDB77:** A gilo galte kiang panin kei hong hon in la, a kam-te tawh zuauthu a gen, kiciamna a bawl khit ciang nangawn-in a zuau veve gamdang mite’ khut sung panin kei hong honkhia in.
 
-**ZVS:** A gilo galte kiang panin kei hong hon in la, a kam uh tawh zuauthu a gen limtakin kiciamna a bawl khit ciang nangawnin zuau a gen lai veve gamdang mite' khutsung pan kei hong honkhia in.
+**ZVS:** A gilo galte kiang panin kei hong hon in la, a kam-te tawh zuauthu a gen limtakin kiciamna a bawl khit ciang nangawnin zuau a gen lai veve gamdang mite' khutsung pan kei hong honkhia in.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v12
 **EN:** That our sons may be as plants grown up in their youth; that our daughters may be as corner stones, polished after the similitude of a palace:
 
-**TDB77:** Ka tapate uh a tangval lai-in a khangcing kungte bang ta hen la, ka tanute uh kumpi inn lam nadinga kisui innkiu khuampite bang ta hen;
+**TDB77:** Ka tapate-te a tangval lai-in a khangcing kungte bang ta hen la, ka tanute-te kumpi inn lam nadinga kisui innkiu khuampite bang ta hen;
 
-**ZVS:** Ka tapate uh a tangval lai-in khang cingin a khauh mahmah singkungte bang ta hen la, ka tanute uh a nungak lai-in kumpi inn lamna dinga a kisui innkiu khuampite bang ta hen.
+**ZVS:** Ka tapate-te a tangval lai-in khang cingin a khauh mahmah singkungte bang ta hen la, ka tanute-te a nungak lai-in kumpi inn lamna dinga a kisui innkiu khuampite bang ta hen.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** That our garners may be full, affording all manner of store: that our sheep may bring forth thousands and ten thousands in our streets:
 
-**TDB77:** ka saalte uh dimin an nam khempeuh om ta hen la, ka tuute uh a tultul a thenthenin gamlakah suak ta hen;
+**TDB77:** ka saalte-te dimin an nam khempeuh om ta hen la, ka tuute-te a tultul a thenthenin gamlakah suak ta hen;
 
-**ZVS:** Ka saalte uh a dimin an nam khempeuh om ta hen la, ka tuute uh a tultul a thenthen-in gamlakah suak ta hen.
+**ZVS:** Ka saalte-te a dimin an nam khempeuh om ta hen la, ka tuute-te a tultul a thenthen-in gamlakah suak ta hen.
 
 **Grammar:** optative: let there be / let it be | plural: uh marker
 
 ### v14
 **EN:** That our oxen may be strong to labour; that there be no breaking in, nor going out; that there be no complaining in our streets.
 
-**TDB77:** ka bawngte uh pung hen la a tolh om kei ta hen; ka kongzingte uh ah cimawh-a kikona om kei ta hen!
+**TDB77:** ka bawngte-te pung hen la a tolh om kei ta hen; ka kongzingte-te ah cimawh-a kikona om kei ta hen!
 
 **ZVS:** Ka kongzingte uhah cimawhin kikona om kei ta hen.
 

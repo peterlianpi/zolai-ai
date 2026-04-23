@@ -56,9 +56,9 @@
 ### v5
 **EN:** Thine arrows are sharp in the heart of the king's enemies; whereby the people fall under thee.
 
-**TDB77:** Kumpipa’ galte’ lungtang sungah na thaltang hiamte lut a, mite na nuai-ah puk uh hi.
+**TDB77:** Kumpipa’ galte’ lungtang sungah na thaltang hiamte lut a, mite na nuai-ah puk-te hi.
 
-**ZVS:** Kumpipa' galte' lungtangah na thaltang hiamte lut a, mite na nuai-ah puk uh hi.
+**ZVS:** Kumpipa' galte' lungtangah na thaltang hiamte lut a, mite na nuai-ah puk-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -117,7 +117,7 @@
 ### v12
 **EN:** And the daughter of Tyre shall be there with a gift; even the rich among the people shall entreat thy favour.
 
-**TDB77:** Mi haupen ahi Taia mite in na manpha namkim letsong tawh nang hong maivil ding uh hi.
+**TDB77:** Mi haupen ahi Taia mite in na manpha namkim letsong tawh nang hong maivil ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -151,9 +151,9 @@
 ### v17
 **EN:** I will make thy name to be remembered in all generations: therefore shall the people praise thee for ever and ever.
 
-**TDB77:** Keimah in khang tawntungin nangma min ka kiphawksak ding hi; tua ahih ciangin mite in nang hong phat ngitnget ding uh hi.
+**TDB77:** Keimah in khang tawntungin nangma min ka kiphawksak ding hi; tua ahih ciangin mite in nang hong phat ngitnget ding-te hi.
 
-**ZVS:** Keimah in khang tawntungin na min ka kiphawksak ding hi. Tua ahih ciangin mite in nang hong phat den ding uh hi.
+**ZVS:** Keimah in khang tawntungin na min ka kiphawksak ding hi. Tua ahih ciangin mite in nang hong phat den ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 

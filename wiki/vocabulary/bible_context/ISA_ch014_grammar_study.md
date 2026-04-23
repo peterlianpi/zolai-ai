@@ -26,18 +26,18 @@
 ### v1
 **EN:** For the
 
-**TDB77:** Topa in Jakob hehpihin Israel teel kik ding a, amaute pen a gam uhah koih kik ding hi, khual mite in amaute pawlin Jakob innkuan beel ding uh hi.
+**TDB77:** Topa in Jakob hehpihin Israel teel kik ding a, amaute pen a gam uhah koih kik ding hi, khual mite in amaute pawlin Jakob innkuan beel ding-te hi.
 
-**ZVS:** { Topa } in Jakob hehpihin Israel teelkik ding a, amaute pen a gam uhah koihkik ding hi. Khual mite in amaute pawlin Jakob innkuan bel ding uh hi.
+**ZVS:** { Topa } in Jakob hehpihin Israel teelkik ding a, amaute pen a gam uhah koihkik ding hi. Khual mite in amaute pawlin Jakob innkuan bel ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And the people shall take them, and bring them to their place: and the house of Israel shall possess them in the land of the
 
-**TDB77:** Minamte in amaute la-in amau omna munah paipih ding uh hi. Israel mite in minamte nei ding uh a, Topa’ gam sungah amaute pen sila numei sila pasal dingin nei ding uh hi; amaute a man ngei mite pen tu-in amaute in leh mat ding a, amaute a nengniam ngei mite tungah tu-in ukna nei ding uh hi.
+**TDB77:** Minamte in amaute la-in amau omna munah paipih ding-te hi. Israel mite in minamte nei ding-te a, Topa’ gam sungah amaute pen sila numei sila pasal dingin nei ding-te hi; amaute a man ngei mite pen tu-in amaute in leh mat ding a, amaute a nengniam ngei mite tungah tu-in ukna nei ding-te hi.
 
-**ZVS:** Israel mite in amaute manin amau' gamah ciahpih ding uh a, { Topa' } gamsungah amaute pen sila numei sila pasal dingin nei ding uh hi. Amaute a man ngei mite pen tu-in amaute in lehmat ding uh a, amaute a nengniam ngei mite tungah tu-in ukna nei ding uh hi.
+**ZVS:** Israel mite in amaute manin amau' gamah ciahpih ding-te a, { Topa' } gamsungah amaute pen sila numei sila pasal dingin nei ding-te hi. Amaute a man ngei mite pen tu-in amaute in lehmat ding-te a, amaute a nengniam ngei mite tungah tu-in ukna nei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
@@ -53,9 +53,9 @@
 ### v4
 **EN:** That thou shalt take up this proverb against the king of Babylon, and say, How hath the oppressor ceased! the golden city ceased!
 
-**TDB77:** Babilon kumpipa’ tungah hih zahkona kam na zang ding uh hi; “A nengniampa koi ci bei! a hehna koi ci khawl!
+**TDB77:** Babilon kumpipa’ tungah hih zahkona kam na zang ding-te hi; “A nengniampa koi ci bei! a hehna koi ci khawl!
 
-**ZVS:** Babylon kumpipa tungah hih zahkona kam na zang ding uh a, “Kumpi gilopa pukta a, amah in kuamah nengniamzo nawnlo ding!
+**ZVS:** Babylon kumpipa tungah hih zahkona kam na zang ding-te a, “Kumpi gilopa pukta a, amah in kuamah nengniamzo nawnlo ding!
 
 **Grammar:** future: will | plural: uh marker
 
@@ -69,36 +69,36 @@
 ### v7
 **EN:** The whole earth is at rest, and is quiet: they break forth into singing.
 
-**TDB77:** Leitung khempeuh tawlnga-in gamdai takin om ta uh a, amaute la sa-in kiko uh hi.
+**TDB77:** Leitung khempeuh tawlnga-in gamdai takin om ta-te a, amaute la sa-in kiko-te hi.
 
-**ZVS:** Leitung khempeuh tawlnga-in gamdai takin omta uh a, amaute in la sa-in kiko uh hi.
+**ZVS:** Leitung khempeuh tawlnga-in gamdai takin omta-te a, amaute in la sa-in kiko-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Yea, the fir trees rejoice at thee, and the cedars of Lebanon, saying, Since thou art laid down, no feller is come up against us.
 
-**TDB77:** Taksing kungte nang tungah lungdamin, Lebanon mual taamtaak singkungte in, “Nang hong kiniam koih khit nungsang kote phuk dingin kuamah hong pai nawn kei,’ ci uh hi.
+**TDB77:** Taksing kungte nang tungah lungdamin, Lebanon mual taamtaak singkungte in, “Nang hong kiniam koih khit nungsang kote phuk dingin kuamah hong pai nawn kei,’ ci-te hi.
 
-**ZVS:** Taksing kungte na tungah lungdamin, Lebanon mual taamtak singkungte in, ‘Nang hong kiniam koih khita kipanin kote a phuk dingin kuamah hong pai nawn kei,’ ci uh hi.
+**ZVS:** Taksing kungte na tungah lungdamin, Lebanon mual taamtak singkungte in, ‘Nang hong kiniam koih khita kipanin kote a phuk dingin kuamah hong pai nawn kei,’ ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** Hell from beneath is moved for thee to meet thee at thy coming: it stirreth up the dead for thee, even all the chief ones of the earth; it hath raised up from their thrones all the kings of the nations.
 
-**TDB77:** Nang na paisuk ciangin hong dawntuah dingin Hansunga misite’ khate kihanthawn a, nangmah hopih dingin leitungah a lian ngei misi uliante kipusuaksak hi; a minamte’ kumpite khempeuh amau kumpi tokhom panin hong tho uh hi.
+**TDB77:** Nang na paisuk ciangin hong dawntuah dingin Hansunga misite’ khate kihanthawn a, nangmah hopih dingin leitungah a lian ngei misi uliante kipusuaksak hi; a minamte’ kumpite khempeuh amau kumpi tokhom panin hong tho-te hi.
 
-**ZVS:** “Nang na paisuk ciangin a hong dawntuah dingin Leinuai-a misite kihanthawn a, nangmah a hong hopih dingin leitungah a lian ngei misi uliante kipusuak sak hi. A minamte' kumpite khempeuh amau' kumpi tokhom panin hong ding uh hi.
+**ZVS:** “Nang na paisuk ciangin a hong dawntuah dingin Leinuai-a misite kihanthawn a, nangmah a hong hopih dingin leitungah a lian ngei misi uliante kipusuak sak hi. A minamte' kumpite khempeuh amau' kumpi tokhom panin hong ding-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** All they shall speak and say unto thee, Art thou also become weak as we? art thou become like unto us?
 
-**TDB77:** Amaute in nang hong hopih-in, ‘Nang zong kote mah bangin na thahat kei hi! Kote mah na bang ta hi!’ hong ci ding uh hi.
+**TDB77:** Amaute in nang hong hopih-in, ‘Nang zong kote mah bangin na thahat kei hi! Kote mah na bang ta hi!’ hong ci ding-te hi.
 
-**ZVS:** Amaute in nang hong hopihin, ‘Nang zong kote mah bangin na thahat kei hi. Kote mah na bangta hi,’ hong ci ding uh hi.
+**ZVS:** Amaute in nang hong hopihin, ‘Nang zong kote mah bangin na thahat kei hi. Kote mah na bangta hi,’ hong ci ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
@@ -150,27 +150,27 @@
 ### v16
 **EN:** They that see thee shall narrowly look upon thee, and consider thee, saying, Is this the man that made the earth to tremble, that did shake kingdoms;
 
-**TDB77:** Nangmah hong mu mite in nang hong en gega-in, nangma thu lungngai dedu ding uh a, ‘Hih mipa pen, leitung a liingsakpa, kumpi gamte a lok gawppa,
+**TDB77:** Nangmah hong mu mite in nang hong en gega-in, nangma thu lungngai dedu ding-te a, ‘Hih mipa pen, leitung a liingsakpa, kumpi gamte a lok gawppa,
 
-**ZVS:** “Nangmah hong mu mite in nang hong en gega-in, nangma thu lungngai dedu ding uh a, ‘Hih mipa pen leitung a lingsakpa, kumpi gamte a lokgawppa,
+**ZVS:** “Nangmah hong mu mite in nang hong en gega-in, nangma thu lungngai dedu ding-te a, ‘Hih mipa pen leitung a lingsakpa, kumpi gamte a lokgawppa,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v17
 **EN:** That made the world as a wilderness, and destroyed the cities thereof; that opened not the house of his prisoners?
 
-**TDB77:** Leitung pen sehnel gam suaksakin, khuapite a susia-pa, thong sungah a khum mite pen innah a ciahsak lopa pen hihpa hilo ahi hiam? hong ci ding uh hi.
+**TDB77:** Leitung pen sehnel gam suaksakin, khuapite a susia-pa, thong sungah a khum mite pen innah a ciahsak lopa pen hihpa hilo ahi hiam? hong ci ding-te hi.
 
-**ZVS:** leitung pen sehnel gam suaksakin, khuapite a susiapa, thong sungah a kikhum mite innah a ciahsak lopa hihpa hilo ahi hiam?’ hong ci ding uh hi.
+**ZVS:** leitung pen sehnel gam suaksakin, khuapite a susiapa, thong sungah a kikhum mite innah a ciahsak lopa hihpa hilo ahi hiam?’ hong ci ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v18
 **EN:** All the kings of the nations, even all of them, lie in glory, every one in his own house.
 
-**TDB77:** Minamte’ kumpite khempeuh pen amau’ hankhuk sung ciat uhah minthangin lum uh hi;
+**TDB77:** Minamte’ kumpite khempeuh pen amau’ hankhuk sung ciat uhah minthangin lum-te hi;
 
-**ZVS:** “Minam dangte' kumpite khempeuh amau hankhuk sung ciat uhah a minthangin lum uh hi.
+**ZVS:** “Minam dangte' kumpite khempeuh amau hankhuk sung ciat uhah a minthangin lum-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -197,7 +197,7 @@
 
 **TDB77:** Amaute khangto-in leitung a neih loh nading leh leitung maitang teng khuapi tawh a kidimsak loh nadingin amau’ pate’ mawhna hangin ama tate’ kithah nading vaihawm in.”
 
-**ZVS:** Amaute khangto loin leitung a neihlohna ding leh leitung maitang teng khuapite tawh a kidimsak lohna dingin amau' pate' mawhna hangin a tate' kithahna ding piang ta hen,” na ci ding uh hi.
+**ZVS:** Amaute khangto loin leitung a neihlohna ding leh leitung maitang teng khuapite tawh a kidimsak lohna dingin amau' pate' mawhna hangin a tate' kithahna ding piang ta hen,” na ci ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -265,9 +265,9 @@
 ### v29
 **EN:** Rejoice not thou, whole Philistia, because the rod of him that smote thee is broken: for out of the serpent's root shall come forth a cockatrice, and his fruit shall be a fiery flying serpent.
 
-**TDB77:** “Filistia mite khempeuh aw, note hong kisatna ciangkhut a kitan manin lungdam kei un, bang hang hiam cih leh singbul panin a sel a om mah bangin gulpi a sih khit ciangin, a siahuai-zaw gul gunei hong om ding a, tuate pen a leng thei gulpi hong hi ding uh hi.
+**TDB77:** “Filistia mite khempeuh aw, note hong kisatna ciangkhut a kitan manin lungdam kei un, bang hang hiam cih leh singbul panin a sel a om mah bangin gulpi a sih khit ciangin, a siahuai-zaw gul gunei hong om ding a, tuate pen a leng thei gulpi hong hi ding-te hi.
 
-**ZVS:** “Filistia mi khempeuh aw, note hong kisatna ciangkhut a kitan manin lungdam kei un. Bang hang hiam cih leh singbul panin a sel a om bangin, gulpi a sih khit ciangin a siahuaizaw gul gunei hong om ding a, tuate pen a leng thei gulpi hong hi ding uh hi.
+**ZVS:** “Filistia mi khempeuh aw, note hong kisatna ciangkhut a kitan manin lungdam kei un. Bang hang hiam cih leh singbul panin a sel a om bangin, gulpi a sih khit ciangin a siahuaizaw gul gunei hong om ding a, tuate pen a leng thei gulpi hong hi ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -276,7 +276,7 @@
 
 **TDB77:** Mizawngte in keima gan khahna sungah an ne ding a, a cimawhte lungmuang takin lum hit-hiat ding hi; ahih hangin no Filistia mite, kialpi tawh kong that ding a, a suakta kha a omte laite keimah in ka that ding hi.
 
-**ZVS:** Mizawngte in keima gankhahna sungah an ne ding uh a, a cimawhte lungnuam takin lum hithiat ding uh hi. Ahih hangin no Filistia mite, kialpi tawh kong that ding a, a suaktakha a omlaite keimah in ka that ding hi.
+**ZVS:** Mizawngte in keima gankhahna sungah an ne ding-te a, a cimawhte lungnuam takin lum hithiat ding-te hi. Ahih hangin no Filistia mite, kialpi tawh kong that ding a, a suaktakha a omlaite keimah in ka that ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -292,9 +292,9 @@
 ### v32
 **EN:** What shall one then answer the messengers of the nation? That the
 
-**TDB77:** Filistia mite’ hong sawl kamtaite, mi khatpeuh in bangci dawn’ ding hiam? “Topa in Zion kipsak khin a, gimna a thuak ama mite in tua sungah buk nading mu uh hi,” ci in dawng ding hi.
+**TDB77:** Filistia mite’ hong sawl kamtaite, mi khatpeuh in bangci dawn’ ding hiam? “Topa in Zion kipsak khin a, gimna a thuak ama mite in tua sungah buk nading mu-te hi,” ci in dawng ding hi.
 
-**ZVS:** Filistia mite in a hong sawl kamtaite mi khatpeuh in bangci dawn' ding ahi hiam? “{ Topa } in Zion kipsak khin a, gimna a thuak ama mite in tua sungah bukna mu uh hi,” ci-in a dawng ding uh hi.
+**ZVS:** Filistia mite in a hong sawl kamtaite mi khatpeuh in bangci dawn' ding ahi hiam? “{ Topa } in Zion kipsak khin a, gimna a thuak ama mite in tua sungah bukna mu-te hi,” ci-in a dawng ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

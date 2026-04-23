@@ -32,18 +32,18 @@
 ### v2
 **EN:** Which imagine mischiefs in their heart; continually are they gathered together for war.
 
-**TDB77:** Amaute in a lung sung uh ah thusia geelgeel uh a, gal vive phuang ngitnget uh hi.
+**TDB77:** Amaute in a lung sung-te ah thusia geelgeel-te a, gal vive phuang ngitnget-te hi.
 
-**ZVS:** Amaute in a lung sung uhah thusia geelgeel uh a, gal phuang ngitnget uh hi.
+**ZVS:** Amaute in a lung sung uhah thusia geelgeel-te a, gal phuang ngitnget-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** They have sharpened their tongues like a serpent; adders' poison is under their lips. Selah.
 
-**TDB77:** Amaute’ leii in gulpi leii bang a, a thugente uh gulgu bang hi.
+**TDB77:** Amaute’ leii in gulpi leii bang a, a thugente-te gulgu bang hi.
 
-**ZVS:** A leii uh gulpi leii bang a, a thugente uh gulgu bang hi.
+**ZVS:** A leii-te gulpi leii bang a, a thugente-te gulgu bang hi.
 
 ### v4
 **EN:** Keep me, O
@@ -57,9 +57,9 @@
 ### v5
 **EN:** The proud have hid a snare for me, and cords; they have spread a net by the wayside; they have set gins for me. Selah.
 
-**TDB77:** Mi kiphasakte in kei hong siahna-in tehlop koihsim uh a, amaute in khau tawh ngenthang zak uh a, lam gei-ah thangzak tawh kei hong siah uh hi.
+**TDB77:** Mi kiphasakte in kei hong siahna-in tehlop koihsim-te a, amaute in khau tawh ngenthang zak-te a, lam gei-ah thangzak tawh kei hong siah-te hi.
 
-**ZVS:** Mi kiphasakte in keimah hong siahna-in tehlop tung sim uh a, amaute in ngenthang zakin lam gei-ah thangzak tawh kei hong siah uh hi.
+**ZVS:** Mi kiphasakte in keimah hong siahna-in tehlop tung sim-te a, amaute in ngenthang zakin lam gei-ah thangzak tawh kei hong siah-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -91,9 +91,9 @@
 ### v9
 **EN:** As for the head of those that compass me about, let the mischief of their own lips cover them.
 
-**TDB77:** Kei hong umcih mite, gualzosak kei in la, kei hong sawmnate uh amau’ lu tung mah tusak in!
+**TDB77:** Kei hong umcih mite, gualzosak kei in la, kei hong sawmnate-te amau’ lu tung mah tusak in!
 
-**ZVS:** Kei hong umcih mite gualzosak kei in la, kei hong sawmnate uh amau' lu tung mah tusak in!
+**ZVS:** Kei hong umcih mite gualzosak kei in la, kei hong sawmnate-te amau' lu tung mah tusak in!
 
 ### v10
 **EN:** Let burning coals fall upon them: let them be cast into the fire; into deep pits, that they rise not up again.
@@ -125,9 +125,9 @@
 ### v13
 **EN:** Surely the righteous shall give thanks unto thy name: the upright shall dwell in thy presence.
 
-**TDB77:** Thuman mite in nangma min hong phat pelmawh ding uh a, lungsim thutangte pen nangma omna-ah teeng ding uh hi.
+**TDB77:** Thuman mite in nangma min hong phat pelmawh ding-te a, lungsim thutangte pen nangma omna-ah teeng ding-te hi.
 
-**ZVS:** Thuman mite in nangma min hong phat pelmawh ding uh a, lungsim thutangte pen nangma omna-ah teng ding uh hi.
+**ZVS:** Thuman mite in nangma min hong phat pelmawh ding-te a, lungsim thutangte pen nangma omna-ah teng ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

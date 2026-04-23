@@ -81,16 +81,16 @@
 
 **TDB77:** Tua ahih ciangin khut khempeuh zaw-in, mi khempeuh’ lungsim tui suak ding a,
 
-**ZVS:** Tua ahih ciangin khut khempeuh zaw-in, mi khempeuh' lungsim tuisuak ding a, amaute lungkia ding uh hi.
+**ZVS:** Tua ahih ciangin khut khempeuh zaw-in, mi khempeuh' lungsim tuisuak ding a, amaute lungkia ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then)
 
 ### v8
 **EN:** And they shall be afraid: pangs and sorrows shall take hold of them; they shall be in pain as a woman that travaileth: they shall be amazed one at another; their faces shall be as flames.
 
-**TDB77:** amaute lau ding uh hi. Amaute in gim mahmahna leh nat velvalna thuak ding uh a, numei nausuak ding bangin na sa ding uh hi. Amaute khat leh khat lamdang sakna tawh ki-en ding uh a, a maitangte uh meikuang bang ding hi.
+**TDB77:** amaute lau ding-te hi. Amaute in gim mahmahna leh nat velvalna thuak ding-te a, numei nausuak ding bangin na sa ding-te hi. Amaute khat leh khat lamdang sakna tawh ki-en ding-te a, a maitangte-te meikuang bang ding hi.
 
-**ZVS:** Amaute in gim mahmahna leh nat velvalna thuak ding uh a, numei nausuak ding bangin na sa ding uh hi. Amaute khatlekhat lamdang sakna tawh ki-en ding uh a, a maitangte un gimna mel pua ding hi.
+**ZVS:** Amaute in gim mahmahna leh nat velvalna thuak ding-te a, numei nausuak ding bangin na sa ding-te hi. Amaute khatlekhat lamdang sakna tawh ki-en ding-te a, a maitangte un gimna mel pua ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -144,7 +144,7 @@
 
 **TDB77:** A kidelh sanang leh a cing om lo tuu bangin mi khempeuh pen amau mite lam ciatah kihei-in, mi khempeuh amau gam ciatah tai ding hi.
 
-**ZVS:** A kidelh sanang leh a cing omlo tuu bangin mi khempeuh amau' mite' lam ciatah kihei-in, amau' gam ciatah tai ding uh hi.
+**ZVS:** A kidelh sanang leh a cing omlo tuu bangin mi khempeuh amau' mite' lam ciatah kihei-in, amau' gam ciatah tai ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix
 
@@ -158,9 +158,9 @@
 ### v16
 **EN:** Their children also shall be dashed to pieces before their eyes; their houses shall be spoiled, and their wives ravished.
 
-**TDB77:** Amau’ muhna mah ah a naungeekte uh leilak kiden’ gawp nading hi; amaute’ inn kiluhin, a zite uh kibuansak ding hi.
+**TDB77:** Amau’ muhna mah ah a naungeekte-te leilak kiden’ gawp nading hi; amaute’ inn kiluhin, a zite-te kibuansak ding hi.
 
-**ZVS:** Amau' muhna mahah a naungekte uh leilak kiden'gawpna ding hi. Amaute' inn kiluhin, a zite uh kibuansak ding hi.
+**ZVS:** Amau' muhna mahah a naungekte-te leilak kiden'gawpna ding hi. Amaute' inn kiluhin, a zite-te kibuansak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -176,9 +176,9 @@
 ### v18
 **EN:** Their bows also shall dash the young men to pieces; and they shall have no pity on the fruit of the womb; their eye shall not spare children.
 
-**TDB77:** Amau’ thalte in tangvalte that ding hi; amaute in gil sung pan a, piang naungeekte hehpih lo ding uh hi; amaute’ mit in naupangte khasiat lo ding hi.
+**TDB77:** Amau’ thalte in tangvalte that ding hi; amaute in gil sung pan a, piang naungeekte hehpih lo ding-te hi; amaute’ mit in naupangte khasiat lo ding hi.
 
-**ZVS:** Amau' thalte in tangvalte that ding hi. Amaute in gilsung pana piang naungekte hehpihlo ding uh hi. Amaute' mit in naupangte khasiatlo ding hi.
+**ZVS:** Amau' thalte in tangvalte that ding hi. Amaute in gilsung pana piang naungekte hehpihlo ding-te hi. Amaute' mit in naupangte khasiatlo ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -203,18 +203,18 @@
 ### v21
 **EN:** But wild beasts of the desert shall lie there; and their houses shall be full of doleful creatures; and owls shall dwell there, and satyrs shall dance there.
 
-**TDB77:** Ahih hangin tua munah gamsate lum ding uh a, tua mun a, innte pen se-alte tawh kidim ding hi; tua munah kalaoh-vasa golpite teengin, tua munah gamkeelte laam ding uh hi.
+**TDB77:** Ahih hangin tua munah gamsate lum ding-te a, tua mun a, innte pen se-alte tawh kidim ding hi; tua munah kalaoh-vasa golpite teengin, tua munah gamkeelte laam ding-te hi.
 
-**ZVS:** Tua munah gamsate lum ding uh a, tua muna innte pen a hawk ganhingte tawh kidim ding hi. Tua munah vasa-kalaoh golpite tengin, tua munah keeldawite laam ding uh hi.
+**ZVS:** Tua munah gamsate lum ding-te a, tua muna innte pen a hawk ganhingte tawh kidim ding hi. Tua munah vasa-kalaoh golpite tengin, tua munah keeldawite laam ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And the wild beasts of the islands shall cry in their desolate houses, and dragons in their pleasant palaces: and her time is near to come, and her days shall not be prolonged.
 
-**TDB77:** Munmuanhuai sungah ngiate, kumpi inn nuam sungah se-alte ham ding uh hi; Babilon khuapi siat ding hun hong nai ta a, a ni sawt nawn lo ding hi.
+**TDB77:** Munmuanhuai sungah ngiate, kumpi inn nuam sungah se-alte ham ding-te hi; Babilon khuapi siat ding hun hong nai ta a, a ni sawt nawn lo ding hi.
 
-**ZVS:** Mihaute' innsungah ngiate, kumpi inn nuam sungah se-alte a ham ding uh hi. Babylon khuapi a siat ding hun hong naita a, a ni sawt nawnlo ding hi.
+**ZVS:** Mihaute' innsungah ngiate, kumpi inn nuam sungah se-alte a ham ding-te hi. Babylon khuapi a siat ding hun hong naita a, a ni sawt nawnlo ding hi.
 
 **Grammar:** future: will | plural: uh marker
 

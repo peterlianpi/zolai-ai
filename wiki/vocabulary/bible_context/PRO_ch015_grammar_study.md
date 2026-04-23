@@ -98,7 +98,7 @@
 
 **TDB77:** A gamta khial mite, nakpi takin kithuhilh a, kithuhilhna a mang nuam lote in sihna thuak ding hi.
 
-**ZVS:** A gamta khial mite nakpi takin kithuhilh a, thukihilhna a mang nuamlote in sihna thuak ding uh hi.
+**ZVS:** A gamta khial mite nakpi takin kithuhilh a, thukihilhna a mang nuamlote in sihna thuak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -112,9 +112,9 @@
 ### v12
 **EN:** A scorner loveth not one that reproveth him: neither will he go unto the wise.
 
-**TDB77:** A kihisak mite in kithuhilhna ngai nuam lo uh a, mipilte kiangah thu dong ngei lo uh hi.
+**TDB77:** A kihisak mite in kithuhilhna ngai nuam lo-te a, mipilte kiangah thu dong ngei lo-te hi.
 
-**ZVS:** A kihisak mite in kithuhilhna ngai nuamlo uh a, mipilte kiangah thu dong ngeilo uh hi.
+**ZVS:** A kihisak mite in kithuhilhna ngai nuamlo-te a, mipilte kiangah thu dong ngeilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -130,14 +130,14 @@
 
 **TDB77:** Thungaihsun theite in pilna zong a, mihaite ahih leh theihlohna tawh lungkim hi.
 
-**ZVS:** Thungaihsun theite in pilna zong uh a, mihaite ahih leh a theihlohna uh tawh lungkim uh hi.
+**ZVS:** Thungaihsun theite in pilna zong-te a, mihaite ahih leh a theihlohna-te tawh lungkim-te hi.
 
 ### v15
 **EN:** All the days of the afflicted are evil: but he that is of a merry heart hath a continual feast.
 
-**TDB77:** Mizawngte, a lungkham hi tawntung a, a lungdam mite in nuntakna nuamsa mahmah uh hi.
+**TDB77:** Mizawngte, a lungkham hi tawntung a, a lungdam mite in nuntakna nuamsa mahmah-te hi.
 
-**ZVS:** Mizawngte lungkham tawntung uh a, a lungdam mite in nuntak nuamsa mahmah uh hi.
+**ZVS:** Mizawngte lungkham tawntung-te a, a lungdam mite in nuntak nuamsa mahmah-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
@@ -185,7 +185,7 @@
 ### v21
 **EN:** Folly is joy to him that is destitute of wisdom: but a man of understanding walketh uprightly.
 
-**TDB77:** Mihaite in a hai mah uh lungdampih a, mipilte ahih leh a manin gamta uh hi.
+**TDB77:** Mihaite in a hai mah-te lungdampih a, mipilte ahih leh a manin gamta-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
@@ -210,7 +210,7 @@
 ### v24
 **EN:** The way of life is above to the wise, that he may depart from hell beneath.
 
-**TDB77:** Mipilte in nuntakna lampi zuito uh a, sihna lampi zuisuk lo uh hi.
+**TDB77:** Mipilte in nuntakna lampi zuito-te a, sihna lampi zuisuk lo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

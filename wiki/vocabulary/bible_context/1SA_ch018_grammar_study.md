@@ -64,34 +64,34 @@
 
 **TDB77:** David kuankhia a, Saul in a sawlna mun peuhpeuhah a maa tun’ hi; tua ahih ciangin Saul in galkapte a uk dingin amah koih hi. Hih in mite khempeuh’ muhna leh Saul’ nasemte’ muhna-ah zong hoih kisa hi.
 
-**ZVS:** Saul in a sawlna mun khempeuhah David in a ma tun' hi. Tua ahih ciangin Saul in galkapte a uk dingin amah a koih hi. Mi khempeuh leh Saul' nasemte in zong hih thu hoih a sa uh hi.
+**ZVS:** Saul in a sawlna mun khempeuhah David in a ma tun' hi. Tua ahih ciangin Saul in galkapte a uk dingin amah a koih hi. Mi khempeuh leh Saul' nasemte in zong hih thu hoih a sa-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
 ### v6
 **EN:** And it came to pass as they came, when David was returned from the slaughter of the Philistine, that the women came out of all cities of Israel, singing and dancing, to meet king Saul, with tabrets, with joy, and with instruments of musick.
 
-**TDB77:** Filistiapa a thahna panin David ciahin, amaute in inn lam a zuat uh ciangin, Israel khuapite khempeuh sung panin Kumpi Saul dawn dingin khuangtum leh lungdamna lasakna leh lasaknate tawh lasa leh lam kawmin numeite hong kuankhia uh hi.
+**TDB77:** Filistiapa a thahna panin David ciahin, amaute in inn lam a zuat-te ciangin, Israel khuapite khempeuh sung panin Kumpi Saul dawn dingin khuangtum leh lungdamna lasakna leh lasaknate tawh lasa leh lam kawmin numeite hong kuankhia-te hi.
 
-**ZVS:** Filistia-pa a thahna panin David ciahin, amaute in inn lam a zuat uh ciangin Israel khuapi khempeuh sung panin kumpi Saul a dawn dingin khuangtung leh lasaknate tawi-in numeite a laam kawmin hong kuankhia uh hi.
+**ZVS:** Filistia-pa a thahna panin David ciahin, amaute in inn lam a zuat-te ciangin Israel khuapi khempeuh sung panin kumpi Saul a dawn dingin khuangtung leh lasaknate tawi-in numeite a laam kawmin hong kuankhia-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v7
 **EN:** And the women answered one another as they played, and said, Saul hath slain his thousands, and David his ten thousands.
 
-**TDB77:** Amaute in lungdamna bawlin omin numeite khat leh khat in, “Saul in a tulin that, David in a tulsawmin that,” kici uh hi.
+**TDB77:** Amaute in lungdamna bawlin omin numeite khat leh khat in, “Saul in a tulin that, David in a tulsawmin that,” kici-te hi.
 
-**ZVS:** Amaute gualnuamin numeite khatlekhat in, “Saul in a tulin that, David in a tul sawmin that,” kici uh hi.
+**ZVS:** Amaute gualnuamin numeite khatlekhat in, “Saul in a tulin that, David in a tul sawmin that,” kici-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And Saul was very wroth, and the saying displeased him; and he said, They have ascribed unto David ten thousands, and to me they have ascribed but thousands: and what can he have more but the kingdom?
 
-**TDB77:** Saul heh mahmah a, hih thugenna in amah lungkim losak hi; amah in, “Amaute in David tungah a tulsawmin pia-in, kei tungah a tulin hong lo uh hi; kumpi min puak cih sim loh bang nei nawn ka hi hiam?” a ci hi.
+**TDB77:** Saul heh mahmah a, hih thugenna in amah lungkim losak hi; amah in, “Amaute in David tungah a tulsawmin pia-in, kei tungah a tulin hong lo-te hi; kumpi min puak cih sim loh bang nei nawn ka hi hiam?” a ci hi.
 
-**ZVS:** Saul heh mahmah a, hih thugenna in amah lungkimlo sak hi. Amah in, “Amaute in David tungah a tul sawmin pia-in, kei tungah a tulin hong pia bek uh hi. Kumpi min puak cih simloh bang dang nei nawn ka hi hiam?” a ci hi.
+**ZVS:** Saul heh mahmah a, hih thugenna in amah lungkimlo sak hi. Amah in, “Amaute in David tungah a tul sawmin pia-in, kei tungah a tulin hong pia bek-te hi. Kumpi min puak cih simloh bang dang nei nawn ka hi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -159,9 +159,9 @@
 ### v16
 **EN:** But all Israel and Judah loved David, because he went out and came in before them.
 
-**TDB77:** Ahih hangin Israelte khempeuh leh Judahte khempeuh in David it uh hi; bang hang hiam cih leh amaute makaihin amah kuankhia-in hong ciah hi.
+**TDB77:** Ahih hangin Israelte khempeuh leh Judahte khempeuh in David it-te hi; bang hang hiam cih leh amaute makaihin amah kuankhia-in hong ciah hi.
 
-**ZVS:** Ahih hangin Israel-te khempeuh leh Judah-te khempeuh in David it uh hi; bang hang hiam cih leh amaute makaihin amah kuankhia-in hong ciah hi.
+**ZVS:** Ahih hangin Israel-te khempeuh leh Judah-te khempeuh in David it-te hi; bang hang hiam cih leh amaute makaihin amah kuankhia-in hong ciah hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -195,7 +195,7 @@
 ### v20
 **EN:** And Michal Saul's daughter loved David: and they told Saul, and the thing pleased him.
 
-**TDB77:** Tu-in Saul’ tanu Mikhal in David ngai hi; amaute in Saul kiangah gen uh a, tua thu in Saul lungdam sak hi.
+**TDB77:** Tu-in Saul’ tanu Mikhal in David ngai hi; amaute in Saul kiangah gen-te a, tua thu in Saul lungdam sak hi.
 
 **ZVS:** Tu-in Saul' tanu Mikhal in David ngai hi. Saul kiangah hih thu a kigen ciangin Saul a lungdam hi.
 
@@ -222,27 +222,27 @@
 ### v23
 **EN:** And Saul's servants spake those words in the ears of David. And David said, Seemeth it to you a light thing to be a king's son in law, seeing that I am a poor man, and lightly esteemed?
 
-**TDB77:** Saul’ nasemte in David’ kiangah hih thute gen uh hi. David in, “Keimah in mizawng hi-in a zahtakhuai lo ka hihna mu napi-in kumpipa’ makpa suah ding a thuneu sa na hi uh hiam?” a ci hi.
+**TDB77:** Saul’ nasemte in David’ kiangah hih thute gen-te hi. David in, “Keimah in mizawng hi-in a zahtakhuai lo ka hihna mu napi-in kumpipa’ makpa suah ding a thuneu sa na hi-te hiam?” a ci hi.
 
-**ZVS:** Saul' nasemte in David kiangah hih thute gen uh hi. David in, “Kei pen mizawng hi-in a zahtakhuailo ka hihna mu napi-in kumpipa' makpa suah ding a thuneu sa na hi uh hiam?” a ci hi.
+**ZVS:** Saul' nasemte in David kiangah hih thute gen-te hi. David in, “Kei pen mizawng hi-in a zahtakhuailo ka hihna mu napi-in kumpipa' makpa suah ding a thuneu sa na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And the servants of Saul told him, saying, On this manner spake David.
 
-**TDB77:** Tua ciangin Saul’ nasemte in ama kiangah, “Tua bang tua bangin David in gen hi,” a ci uh hi.
+**TDB77:** Tua ciangin Saul’ nasemte in ama kiangah, “Tua bang tua bangin David in gen hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin Saul' nasemte in ama kiangah, “Tua bang tua bangin David in gen hi,” a ci uh hi.
+**ZVS:** Tua ciangin Saul' nasemte in ama kiangah, “Tua bang tua bangin David in gen hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And Saul said, Thus shall ye say to David, The king desireth not any dowry, but an hundred foreskins of the Philistines, to be avenged of the king's enemies. But Saul thought to make David fall by the hand of the Philistines.
 
-**TDB77:** Tua ciangin Saul in, “David kiangah hih bangin na gen ding uh hi, ‘Kumpipa in a galte a thukkik theih nadingin Filistiate’ vundawn zakhat cih simloh kumpipa in moman deih lo hi,’ ci un,” a ci hi. Tu-in Saul in Filistiate’ khut tawh David sih sak ding ngaihsun hi.
+**TDB77:** Tua ciangin Saul in, “David kiangah hih bangin na gen ding-te hi, ‘Kumpipa in a galte a thukkik theih nadingin Filistiate’ vundawn zakhat cih simloh kumpipa in moman deih lo hi,’ ci un,” a ci hi. Tu-in Saul in Filistiate’ khut tawh David sih sak ding ngaihsun hi.
 
-**ZVS:** Tua ciangin Saul in, “David kiangah hih bangin na gen ding uh hi: ‘Kumpipa in a galte a thukkik theihna dingin Filistia-te' zangteep za khat cih simloh kumpipa in moman deihlo hi,’ ci un,” a ci hi. Tu-in Saul in Filistia-te' khut tawh David sihsak ding ngaihsun hi.
+**ZVS:** Tua ciangin Saul in, “David kiangah hih bangin na gen ding-te hi: ‘Kumpipa in a galte a thukkik theihna dingin Filistia-te' zangteep za khat cih simloh kumpipa in moman deihlo hi,’ ci un,” a ci hi. Tu-in Saul in Filistia-te' khut tawh David sihsak ding ngaihsun hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -251,7 +251,7 @@
 
 **TDB77:** Ama nasemte in David kiangah hih thute a gen ciangin kumpipa’ makpa ahih ding David lungkim sak hi. A hun a bei ma-in,
 
-**ZVS:** Saul' nasemte in David kiangah hih thute a gen uh ciangin kumpipa' makpa ahih ding David a lungkim hi. A hun a bei ma-in,
+**ZVS:** Saul' nasemte in David kiangah hih thute a gen-te ciangin kumpipa' makpa ahih ding David a lungkim hi. A hun a bei ma-in,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -283,9 +283,9 @@
 ### v30
 **EN:** Then the princes of the Philistines went forth: and it came to pass, after they went forth, that David behaved himself more wisely than all the servants of Saul; so that his name was much set by.
 
-**TDB77:** Tua ciangin Filistia mi uliante galdo dingin hong kuankhia uh a, amaute hong kuankhiat simin Saul’ nasem dangte khempeuh sangin David in a maa tunzaw hi; tua ahih ciangin nakpi takin ama min kisang ngaihsut semsem hi.
+**TDB77:** Tua ciangin Filistia mi uliante galdo dingin hong kuankhia-te a, amaute hong kuankhiat simin Saul’ nasem dangte khempeuh sangin David in a maa tunzaw hi; tua ahih ciangin nakpi takin ama min kisang ngaihsut semsem hi.
 
-**ZVS:** Tua ciangin Filistia mi uliante galsim dingin hong kuankhia uh a, amaute hong kuankhiat simin Saul' nasem dangte khempeuh sangin David in a ma tun'zaw hi. Tua ahih manin mite in David thupi muh semsem hi.
+**ZVS:** Tua ciangin Filistia mi uliante galsim dingin hong kuankhia-te a, amaute hong kuankhiat simin Saul' nasem dangte khempeuh sangin David in a ma tun'zaw hi. Tua ahih manin mite in David thupi muh semsem hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

@@ -27,18 +27,18 @@
 ### v1
 **EN:** And when the people complained, it displeased the
 
-**TDB77:** Mi honte in amau’ tuahsiatna thu hangin Topa’ zakin phun uh hi; Topa in tua thu a zak ciangin ama hehna so a, amaute lakah Topa’ mei kuangin, giahphual nawl kimkhat kangtum hi.
+**TDB77:** Mi honte in amau’ tuahsiatna thu hangin Topa’ zakin phun-te hi; Topa in tua thu a zak ciangin ama hehna so a, amaute lakah Topa’ mei kuangin, giahphual nawl kimkhat kangtum hi.
 
-**ZVS:** Mihonte in amau' tuahsiatna hangin { Topa' } zakin a phun uh hi. { Topa } in tua thu a zak ciangin heh mahmah a, amaute' lakah { Topa' } mei kuangin, giahphual nawl kimkhat kangtum hi.
+**ZVS:** Mihonte in amau' tuahsiatna hangin { Topa' } zakin a phun-te hi. { Topa } in tua thu a zak ciangin heh mahmah a, amaute' lakah { Topa' } mei kuangin, giahphual nawl kimkhat kangtum hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And the people cried unto Moses; and when Moses prayed unto the
 
-**TDB77:** Tua ciangin Moses’ zak dingin mite kiko uh hi; Moses in Topa tungah thu ngen a, mei a mit hi.
+**TDB77:** Tua ciangin Moses’ zak dingin mite kiko-te hi; Moses in Topa tungah thu ngen a, mei a mit hi.
 
-**ZVS:** Tua ciangin Moses' zak dingin mite kiko uh hi. Moses in { Topa' } tungah thu ngen a, mei a mit hi.
+**ZVS:** Tua ciangin Moses' zak dingin mite kiko-te hi. Moses in { Topa' } tungah thu ngen a, mei a mit hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -54,9 +54,9 @@
 ### v4
 **EN:** And the mixt multitude that was among them fell a lusting: and the children of Israel also wept again, and said, Who shall give us flesh to eat?
 
-**TDB77:** Tu-in amaute’ lakah a om gamdang mite in anlim a lunggulh mahmah uh hi; Israel mite zong kap kik uh a, “Sa nek ding nei hi leeng maw!
+**TDB77:** Tu-in amaute’ lakah a om gamdang mite in anlim a lunggulh mahmah-te hi; Israel mite zong kap kik-te a, “Sa nek ding nei hi leeng maw!
 
-**ZVS:** Tu-in amaute' lakah a om gamdang mite in anlim a lunggulh mahmah uh hi. Israel mite zong kap kik uh a, “Sa nek ding nei hi leeng maw!
+**ZVS:** Tu-in amaute' lakah a om gamdang mite in anlim a lunggulh mahmah-te hi. Israel mite zong kap kik-te a, “Sa nek ding nei hi leeng maw!
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** But now our soul is dried away: there is nothing at all, beside this manna, before our eyes.
 
-**TDB77:** ahih hangin tu-in i tha bei ta a, hih manna sim loh bangmah om peuhmah lo hi,” ci uh hi.
+**TDB77:** ahih hangin tu-in i tha bei ta a, hih manna sim loh bangmah om peuhmah lo hi,” ci-te hi.
 
-**ZVS:** Ahih hangin tu-in i tha bei ta a, hih manna simloh bangmah dang om peuhmahlo hi,” a ci uh hi.
+**ZVS:** Ahih hangin tu-in i tha bei ta a, hih manna simloh bangmah dang om peuhmahlo hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -88,9 +88,9 @@
 ### v8
 **EN:** And the people went about, and gathered it, and ground it in mills, or beat it in a mortar, and baked it in pans, and made cakes of it: and the taste of it was as the taste of fresh oil.
 
-**TDB77:** Mite pai kawikawi-in khawm uh a, an gawina tawh gawi-in, tua ahih kei leh sum sungah su-in, beel-in huan uh a, moh-in bawl uh hi; a limna pen sathau tawh a kibawl moh ki-em tawh kibang hi.
+**TDB77:** Mite pai kawikawi-in khawm-te a, an gawina tawh gawi-in, tua ahih kei leh sum sungah su-in, beel-in huan-te a, moh-in bawl-te hi; a limna pen sathau tawh a kibawl moh ki-em tawh kibang hi.
 
-**ZVS:** Mite pai kawikawi-in khawm uh a, an gawina tawh gawi-in, tua ahih kei leh sum sungah su-in, beelin huan uh a, mohin a bawl uh hi. A limna pen sathau tawh a kibawl moh ki-em tawh kibang hi.
+**ZVS:** Mite pai kawikawi-in khawm-te a, an gawina tawh gawi-in, tua ahih kei leh sum sungah su-in, beelin huan-te a, mohin a bawl-te hi. A limna pen sathau tawh a kibawl moh ki-em tawh kibang hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -106,9 +106,9 @@
 ### v10
 **EN:** Then Moses heard the people weep throughout their families, every man in the door of his tent: and the anger of the
 
-**TDB77:** Mite a innkuankuan-un, a milip-in a puanbuk kongah a kahna uh Moses in za hi; Topa’ hehna sa mahmahin so a, Moses lungkim lo hi.
+**TDB77:** Mite a innkuankuan-un, a milip-in a puanbuk kongah a kahna-te Moses in za hi; Topa’ hehna sa mahmahin so a, Moses lungkim lo hi.
 
-**ZVS:** Mite a innkuankuanun a milipin a puanbuk kongah a kahna uh Moses in a za hi. { Topa } nak hehlua mahmah ahih manin Moses lungkimlo hi.
+**ZVS:** Mite a innkuankuanun a milipin a puanbuk kongah a kahna-te Moses in a za hi. { Topa } nak hehlua mahmah ahih manin Moses lungkimlo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo
 
@@ -124,18 +124,18 @@
 ### v12
 **EN:** Have I conceived all this people? have I begotten them, that thou shouldest say unto me, Carry them in thy bosom, as a nursing father beareth the sucking child, unto the land which thou swarest unto their fathers?
 
-**TDB77:** Keimah in hih mite khempeuh paii ka hi hiam? Nangmah in kei kiangah, ‘Naucingnu in nawi ne naungek a puak bangin, nangmah in amau’ pate piak dingin ka ciam leitangah amaute ang puakin paipih in,’ nong cih theih nadingin kei sunga piang ahi uh hiam?
+**TDB77:** Keimah in hih mite khempeuh paii ka hi hiam? Nangmah in kei kiangah, ‘Naucingnu in nawi ne naungek a puak bangin, nangmah in amau’ pate piak dingin ka ciam leitangah amaute ang puakin paipih in,’ nong cih theih nadingin kei sunga piang ahi-te hiam?
 
-**ZVS:** Keimah in hih mite khempeuh paii ka hi hiam? Nangmah in kei' kiangah, ‘Nau cingnu in nawine naungek a puak bangin, nangmah in amau' pate piak dingin ka ciam leitangah amaute ang puakin paipih in,’ nong cih theihna dingin kei' sunga piang ahi uh hiam?
+**ZVS:** Keimah in hih mite khempeuh paii ka hi hiam? Nangmah in kei' kiangah, ‘Nau cingnu in nawine naungek a puak bangin, nangmah in amau' pate piak dingin ka ciam leitangah amaute ang puakin paipih in,’ nong cih theihna dingin kei' sunga piang ahi-te hiam?
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v13
 **EN:** Whence should I have flesh to give unto all this people? for they weep unto me, saying, Give us flesh, that we may eat.
 
-**TDB77:** Hih mite khempeuh piak ding koi lai-ah sa ngah ding ka hi hiam? Bang hang hiam cih leh ka mai-ah amaute kap-in, ‘Ka nek ding uh sa hong pia in,’ hong ci uh hi.
+**TDB77:** Hih mite khempeuh piak ding koi lai-ah sa ngah ding ka hi hiam? Bang hang hiam cih leh ka mai-ah amaute kap-in, ‘Ka nek ding-te sa hong pia in,’ hong ci-te hi.
 
-**ZVS:** Hih mite khempeuh piak ding koi-ah sa ngah ding ka hi hiam? Bang hang hiam cih leh ka mai-ah amaute kapin, ‘Ka nek ding uh sa hong pia in,’ hong ci uh hi.
+**ZVS:** Hih mite khempeuh piak ding koi-ah sa ngah ding ka hi hiam? Bang hang hiam cih leh ka mai-ah amaute kapin, ‘Ka nek ding-te sa hong pia in,’ hong ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -169,18 +169,18 @@
 ### v17
 **EN:** And I will come down and talk with thee there: and I will take of the spirit which is upon thee, and will put it upon them; and they shall bear the burden of the people with thee, that thou bear it not thyself alone.
 
-**TDB77:** Keimah hong pai sukin tua munah nang tawh i kiho ding hi; keimah in nang sunga om lungsim pawl khat la-in amaute sungah ka guang ding hi; nang guak in na puak loh nadingin amaute in mite’ vangik hong puakpih ding uh hi.
+**TDB77:** Keimah hong pai sukin tua munah nang tawh i kiho ding hi; keimah in nang sunga om lungsim pawl khat la-in amaute sungah ka guang ding hi; nang guak in na puak loh nadingin amaute in mite’ vangik hong puakpih ding-te hi.
 
-**ZVS:** Keimah hong paisukin tua munah nang tawh i kiho ding a, keimah in nang' sunga om kha pawlkhat la-in amaute' sungah ka guang ding hi. Nang guak in na puaklohna dingin amaute in mite' tavuan hong puakpih ding uh hi.
+**ZVS:** Keimah hong paisukin tua munah nang tawh i kiho ding a, keimah in nang' sunga om kha pawlkhat la-in amaute' sungah ka guang ding hi. Nang guak in na puaklohna dingin amaute in mite' tavuan hong puakpih ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And say thou unto the people, Sanctify yourselves against to morrow, and ye shall eat flesh: for ye have wept in the ears of the
 
-**TDB77:** Mite tungah, ‘Zing cianga dingin note ki-ap pha un, sa na ne ding uh hi; bang hang hiam cih leh Topa’ zakin na kap uh a, “Sa nek ding kua in hong pia ding ahi hiam? Bang hang hiam cih leh Izipt gamah nuam i sa hi,” na ci uh hi. Tua ahih ciangin note tungah Topa in sa hong pia ding a, note in na ne ding uh hi.
+**TDB77:** Mite tungah, ‘Zing cianga dingin note ki-ap pha un, sa na ne ding-te hi; bang hang hiam cih leh Topa’ zakin na kap-te a, “Sa nek ding kua in hong pia ding ahi hiam? Bang hang hiam cih leh Izipt gamah nuam i sa hi,” na ci-te hi. Tua ahih ciangin note tungah Topa in sa hong pia ding a, note in na ne ding-te hi.
 
-**ZVS:** Mite tungah, ‘Zing cianga dingin note ki-ap pha un, sa na ne ding uh hi; bang hang hiam cih leh { Topa' } zakin na kap uh a, “Sa nek ding kua in hong pia ding ahi hiam? Bang hang hiam cih leh Egypt gamah nuam i sa hi,” na ci uh hi. Tua ahih ciangin note' tungah { Topa } in sa hong pia ding a, note in sa na ne ding uh hi.
+**ZVS:** Mite tungah, ‘Zing cianga dingin note ki-ap pha un, sa na ne ding-te hi; bang hang hiam cih leh { Topa' } zakin na kap-te a, “Sa nek ding kua in hong pia ding ahi hiam? Bang hang hiam cih leh Egypt gamah nuam i sa hi,” na ci-te hi. Tua ahih ciangin note' tungah { Topa } in sa hong pia ding a, note in sa na ne ding-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
@@ -194,9 +194,9 @@
 ### v20
 **EN:** But even a whole month, until it come out at your nostrils, and it be loathsome unto you: because that ye have despised the
 
-**TDB77:** na ikkhiat dong uh leh na kih dong matengun kha khat tawntung na ne ding uh hi, bang hang hiam cih leh note lakah a om Topa nialin a mai-ah na kap uh a, “Bang hangin Izipt panin paikhia i hi hiam?” na ci uh hi,’ ci in,” a ci hi.
+**TDB77:** na ikkhiat dong-te leh na kih dong matengun kha khat tawntung na ne ding-te hi, bang hang hiam cih leh note lakah a om Topa nialin a mai-ah na kap-te a, “Bang hangin Izipt panin paikhia i hi hiam?” na ci-te hi,’ ci in,” a ci hi.
 
-**ZVS:** na ikkhiat dong uh leh na kih dong matengun kha khat sung tawntung sa na ne ding uh hi. Bang hang hiam cih leh note' lakah a om { Topa } nialin a mai-ah na kap uh a, “Bang hangin Egypt panin paikhia ihi hiam?” na ci uh hi,’ ci in,” a ci hi.
+**ZVS:** na ikkhiat dong-te leh na kih dong matengun kha khat sung tawntung sa na ne ding-te hi. Bang hang hiam cih leh note' lakah a om { Topa } nialin a mai-ah na kap-te a, “Bang hangin Egypt panin paikhia ihi hiam?” na ci-te hi,’ ci in,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -239,27 +239,27 @@
 ### v25
 **EN:** And the
 
-**TDB77:** Tua ciangin meii sungah Topa hong pai sukin amah hopih a, ama sunga om lungsim pawl khat la-in upa sawmsagihte sungah a guang hi; amaute sungah tua lungsim a om ciangin, amaute in thu a genkhol uh hi. Ahih hangin amaute in tua khit zawh hih nawn lo uh hi.
+**TDB77:** Tua ciangin meii sungah Topa hong pai sukin amah hopih a, ama sunga om lungsim pawl khat la-in upa sawmsagihte sungah a guang hi; amaute sungah tua lungsim a om ciangin, amaute in thu a genkhol-te hi. Ahih hangin amaute in tua khit zawh hih nawn lo-te hi.
 
-**ZVS:** Tua ciangin meii sungah { Topa } hong paisukin amah hopih a, ama sunga om kha pawlkhat la-in upa sawmsagihte' sungah a guang hi. Amaute' sungah tua kha a om ciangin, amaute in kamsangte bangin thu genin a kiko uh hi. Ahih hangin amaute in tua khit zawh hih nawnlo uh hi.
+**ZVS:** Tua ciangin meii sungah { Topa } hong paisukin amah hopih a, ama sunga om kha pawlkhat la-in upa sawmsagihte' sungah a guang hi. Amaute' sungah tua kha a om ciangin, amaute in kamsangte bangin thu genin a kiko-te hi. Ahih hangin amaute in tua khit zawh hih nawnlo-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v26
 **EN:** But there remained two of the men in the camp, the name of the one was Eldad, and the name of the other Medad: and the spirit rested upon them; and they were of them that were written, but went not out unto the tabernacle: and they prophesied in the camp.
 
-**TDB77:** Giahphual ah mi nih om uh a, khat Eldad kici-in, a khat Medad kici a, amaute sungah tua lungsim a lut hi; amaute in a kiciamtehte lakah a kihelte hi uh a, ahih hangin puanbukah pai loin, giahphual ah thu a genkhol uh hi.
+**TDB77:** Giahphual ah mi nih om-te a, khat Eldad kici-in, a khat Medad kici a, amaute sungah tua lungsim a lut hi; amaute in a kiciamtehte lakah a kihelte hi-te a, ahih hangin puanbukah pai loin, giahphual ah thu a genkhol-te hi.
 
-**ZVS:** Giahphualah mi nih om uh a, khat Eldad kici-in, a khat Medad kici a, amaute' sungah tua kha a lut hi. Amaute pen a kiciamtehte lakah a kihelte hi uh a, ahih hangin Puanbukah pailoin, giahphualah kamsangte bangin thu genin a kiko uh hi.
+**ZVS:** Giahphualah mi nih om-te a, khat Eldad kici-in, a khat Medad kici a, amaute' sungah tua kha a lut hi. Amaute pen a kiciamtehte lakah a kihelte hi-te a, ahih hangin Puanbukah pailoin, giahphualah kamsangte bangin thu genin a kiko-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp.
 
-**TDB77:** Tangval khat va tai-in Moses kiangah, “Eldad leh Medad-te in giahphual ah thu a genkhol uh hi,” va ci hi.
+**TDB77:** Tangval khat va tai-in Moses kiangah, “Eldad leh Medad-te in giahphual ah thu a genkhol-te hi,” va ci hi.
 
-**ZVS:** Tangval khat va tai-in Moses kiangah, “Eldad leh Medad-te in giahphualah thu a gen uh hi,” va ci hi.
+**ZVS:** Tangval khat va tai-in Moses kiangah, “Eldad leh Medad-te in giahphualah thu a gen-te hi,” va ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -275,7 +275,7 @@
 ### v29
 **EN:** And Moses said unto him, Enviest thou for my sake? would God that all the
 
-**TDB77:** Ahih hangin Moses in ama kiangah, “Keima tangin hong hazatsak na hi uh hiam? Topa’ mi khempeuh kamsang hi hen la, Topa in amau sungah ama lungsim guan leh ka cih lai tak hi!” a ci hi.
+**TDB77:** Ahih hangin Moses in ama kiangah, “Keima tangin hong hazatsak na hi-te hiam? Topa’ mi khempeuh kamsang hi hen la, Topa in amau sungah ama lungsim guan leh ka cih lai tak hi!” a ci hi.
 
 **ZVS:** Ahih hangin Moses in ama kiangah, “Keima tangin hong hazatsak na hi hiam? { Topa' } mi khempeuh kamsang hi hen la, { Topa } in amau' sungah ama Kha guan' leh ka cih laitak hi,” a ci hi.
 
@@ -284,9 +284,9 @@
 ### v30
 **EN:** And Moses gat him into the camp, he and the elders of Israel.
 
-**TDB77:** Moses leh Israel upate giahphual ah a ciahkik uh hi.
+**TDB77:** Moses leh Israel upate giahphual ah a ciahkik-te hi.
 
-**ZVS:** Tua ciangin Moses leh Israel upate giahphualah a ciahkik uh hi.
+**ZVS:** Tua ciangin Moses leh Israel upate giahphualah a ciahkik-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -302,9 +302,9 @@
 ### v32
 **EN:** And the people stood up all that day, and all that night, and all the next day, and they gathered the quails: he that gathered least gathered ten homers: and they spread them all abroad for themselves round about the camp.
 
-**TDB77:** Tua sun tawntung leh a zan tawntung leh a zing ciang tawntung mite ding-in vamimte khawm uh hi; tawm a khawm pen mipa in beem sawm dim khawm hi; amaute in amau adingin giahphual kimkotah tuate pho uh hi.
+**TDB77:** Tua sun tawntung leh a zan tawntung leh a zing ciang tawntung mite ding-in vamimte khawm-te hi; tawm a khawm pen mipa in beem sawm dim khawm hi; amaute in amau adingin giahphual kimkotah tuate pho-te hi.
 
-**ZVS:** Tua sun tawntung leh a zan tawntung leh a zing ciang tawntung mite dingin vamimte a khawm uh hi. Tawm a khawm pen mipa in beem sawm dim khawm a, amaute in amau-a' dingin giahphual kimkotah tuate a pho uh hi.
+**ZVS:** Tua sun tawntung leh a zan tawntung leh a zing ciang tawntung mite dingin vamimte a khawm-te hi. Tawm a khawm pen mipa in beem sawm dim khawm a, amaute in amau-a' dingin giahphual kimkotah tuate a pho-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -320,18 +320,18 @@
 ### v34
 **EN:** And he called the name of that place Kibroth–hattaavah: because there they buried the people that lusted.
 
-**TDB77:** Tua ahih ciangin tua mun pen Kibrothhattavah kici hi, bang hang hiam cih leh amaute in sa a lunggulh mite tua lai munah a vui uh hi.
+**TDB77:** Tua ahih ciangin tua mun pen Kibrothhattavah kici hi, bang hang hiam cih leh amaute in sa a lunggulh mite tua lai munah a vui-te hi.
 
-**ZVS:** Tua ahih ciangin tua mun pen Kibrothhattaavah kici hi. Bang hang hiam cih leh amaute in sa a lunggulh mite tua lai munah a vui uh hi.
+**ZVS:** Tua ahih ciangin tua mun pen Kibrothhattaavah kici hi. Bang hang hiam cih leh amaute in sa a lunggulh mite tua lai munah a vui-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v35
 **EN:** And the people journeyed from Kibroth–hattaavah unto Hazeroth; and abode at Hazeroth.
 
-**TDB77:** Kibrothhattavah panin Hazeroth munah mite zin uh hi; Hazeroth ah amaute taam uh hi.
+**TDB77:** Kibrothhattavah panin Hazeroth munah mite zin-te hi; Hazeroth ah amaute taam-te hi.
 
-**ZVS:** Kibrothhattaavah panin Hazeroth munah mite pai uh a, Hazeroth-ah amaute a taam uh hi.
+**ZVS:** Kibrothhattaavah panin Hazeroth munah mite pai-te a, Hazeroth-ah amaute a taam-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

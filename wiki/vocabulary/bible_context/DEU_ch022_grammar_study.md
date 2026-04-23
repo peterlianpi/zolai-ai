@@ -28,7 +28,7 @@
 
 **TDB77:** “Na mipihte’ bawngtal ahi a, a tuu ahi zongin a gammang na muh leh huh loin na om kei ding hi; a neipa kiangah na ciahpih kik ding hi.
 
-**ZVS:** “Na mipihte' bawngtal ahi a, a tuu ahi zongin a gammang na muh uh leh huhloin na om kei ding uh hi. A neipa kiangah na ciahpih kik ding uh hi.
+**ZVS:** “Na mipihte' bawngtal ahi a, a tuu ahi zongin a gammang na muh-te leh huhloin na om kei ding-te hi. A neipa kiangah na ciahpih kik ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
@@ -37,7 +37,7 @@
 
 **TDB77:** Amah in na veng nai hi lo a, a nei na theih kei leh, na innah a gan na ciahpih ding a, a neipa in hong zon’ mateng na kem ding hi; hong zon’ ciangin na piakik ding hi.
 
-**ZVS:** Amah na veng nai uh hilo a, a nei na theih kei uh leh, na inn uhah a gan ciahpihin a neipa in hong zon' mateng na kem ding uh a, hong zon' ciangin na piakik ding uh hi.
+**ZVS:** Amah na veng nai-te hilo a, a nei na theih kei-te leh, na inn uhah a gan ciahpihin a neipa in hong zon' mateng na kem ding-te a, hong zon' ciangin na piakik ding-te hi.
 
 **Grammar:** future: will
 
@@ -46,7 +46,7 @@
 
 **TDB77:** Tua bangin a la zong na hih ding hi; tua bangin a puan na hih ding hi; tua bangin a mangsa na muh, na mipihte’ na a mang khatpeuh peuh na hih ding hi; huh loin na om kha kei ding hi.
 
-**ZVS:** Tua bangin a la, a puan, a mangsa na muh, na mipihte' na a mang khat peuhpeuh na hih ding uh a, huhloin na om kei ding uh hi.
+**ZVS:** Tua bangin a la, a puan, a mangsa na muh, na mipihte' na a mang khat peuhpeuh na hih ding-te a, huhloin na om kei ding-te hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -55,16 +55,16 @@
 
 **TDB77:** Na mipihte’ la ahi a, a bawngtal ahi zongin lam gei-ah a kia na muh leh, tuate huh loin na om kei ding hi; tuate phottohsak kikna tawh amah na huh ding hi.
 
-**ZVS:** “Na mipihte' la ahi a, a bawngtal ahi zongin lam gei-ah a kia na muh uh leh, tuate huhloin na om kei ding uh a, tuate phottohsak kikna tawh na huh ding uh hi.
+**ZVS:** “Na mipihte' la ahi a, a bawngtal ahi zongin lam gei-ah a kia na muh-te leh, tuate huhloin na om kei ding-te a, tuate phottohsak kikna tawh na huh ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
 ### v5
 **EN:** The woman shall not wear that which pertaineth unto a man, neither shall a man put on a woman's garment: for all that do so are abomination unto the
 
-**TDB77:** “Numei in pasal’ puan khatpeuh peuh zang lo ding a, pasal in zong numei’ puan silh lo ding hi; bang hang hiam cih leh hih bang a hihte peuhmah Topa na Pasian uh tungah a kihhuai ahi hi.
+**TDB77:** “Numei in pasal’ puan khatpeuh peuh zang lo ding a, pasal in zong numei’ puan silh lo ding hi; bang hang hiam cih leh hih bang a hihte peuhmah Topa na Pasian-te tungah a kihhuai ahi hi.
 
-**ZVS:** “Numei in pasal puan khat peuhpeuh silhlo ding a, pasal in zong numei puan silhlo ding hi. Bang hang hiam cih leh hih bangin a gamta peuhmah { Topa } na Pasian uh tungah a kihhuai ahi hi.
+**ZVS:** “Numei in pasal puan khat peuhpeuh silhlo ding a, pasal in zong numei puan silhlo ding hi. Bang hang hiam cih leh hih bangin a gamta peuhmah { Topa } na Pasian-te tungah a kihhuai ahi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -73,16 +73,16 @@
 
 **TDB77:** “Vasa bu khat, sing tung ahi a, lei lak ahi zongin, a no ahi a, a tui ahi zongin omin, a pi in a no tawh a om ahi a, a op ahi zongin na muh khak zenzen leh, a pi pen a no tawh na la khawm kei ding hi;
 
-**ZVS:** “Vasabu khat, sing tung ahi a, leilakah ahi zongin, a no ahi a, a tui ahi zongin omin, a pi in a no a ompih ahi a, a op ahi zongin na muh khak zenzen uh leh, a pi pen a no tawh na la khawm kei ding uh hi.
+**ZVS:** “Vasabu khat, sing tung ahi a, leilakah ahi zongin, a no ahi a, a tui ahi zongin omin, a pi in a no a ompih ahi a, a op ahi zongin na muh khak zenzen-te leh, a pi pen a no tawh na la khawm kei ding-te hi.
 
 **Grammar:** future: will | negation: kei
 
 ### v7
 **EN:** But thou shalt in any wise let the dam go, and take the young to thee; that it may be well with thee, and that thou mayest prolong thy days.
 
-**TDB77:** a pi na khah ding a, nang adingin a no na la thei ding hi; hih in na nopsak nading, sau veipi na nuntak theih nading uh ahi hi.
+**TDB77:** a pi na khah ding a, nang adingin a no na la thei ding hi; hih in na nopsak nading, sau veipi na nuntak theih nading-te ahi hi.
 
-**ZVS:** A pi na khah ding uh a, a no na la thei ding uh hi. Hih bang gamtatna pen na nopsakna ding uh, sauveipi na nuntak theihna ding uh ahi hi.
+**ZVS:** A pi na khah ding-te a, a no na la thei ding-te hi. Hih bang gamtatna pen na nopsakna ding uh, sauveipi na nuntak theihna ding-te ahi hi.
 
 **Grammar:** purpose: in order to | future: will
 
@@ -91,7 +91,7 @@
 
 **TDB77:** “Na inn tung panin mi kia-in mi sihna hanga mawhna na inn sungah na tun’sak khak loh nadingin inn thak na lam ciangin na innkhum zangah tangban na khung ding hi.
 
-**ZVS:** “Na inn tung panun mi khat kia-in mi sihna hanga mawhna na innsung uhah na tun'sak khaklohna dingun inn thak na lam uh ciangin na innkhumzang uhah tangban na khung ding uh hi.
+**ZVS:** “Na inn tung panun mi khat kia-in mi sihna hanga mawhna na innsung uhah na tun'sak khaklohna dingun inn thak na lam-te ciangin na innkhumzang uhah tangban na khung ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -100,7 +100,7 @@
 
 **TDB77:** “Na leenggui lo-ah khaici namnih na vawh kei ding hi, vawh lecin na vawhsa an leh na leenggui lo-ah a piang, a piang khempeuh biakna a, ding suak ding hi.
 
-**ZVS:** “Na leenggui lo uhah khaici nam nih na vawh kei ding uh hi. Vawh le-uh cin na vawh uh an leh na leenggui lo uhah a piang khempeuh a nin suak ding hi.
+**ZVS:** “Na leenggui lo uhah khaici nam nih na vawh kei ding-te hi. Vawh le-uh cin na vawh-te an leh na leenggui lo uhah a piang khempeuh a nin suak ding hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -109,7 +109,7 @@
 
 **TDB77:** Bawngtal khat leh la khat tawh lo na kho khawm kei ding hi.
 
-**ZVS:** “Bawngtal khat leh la khat tawh lo na khokhawm kei ding uh hi.
+**ZVS:** “Bawngtal khat leh la khat tawh lo na khokhawm kei ding-te hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -118,7 +118,7 @@
 
 **TDB77:** Samul leh khau, a kigan khawm puan na silh kei ding hi.
 
-**ZVS:** “Samul leh khau a kigankhawm puan na silh kei ding uh hi.
+**ZVS:** “Samul leh khau a kigankhawm puan na silh kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
@@ -127,7 +127,7 @@
 
 **TDB77:** “Nangmah na kituamna na puanza kiu lite tungah puanmongteep na bawl ding hi.
 
-**ZVS:** “Na puanza uh kiu lite tungah puanmongteep na bawl ding uh hi.
+**ZVS:** “Na puanza-te kiu lite tungah puanmongteep na bawl ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -150,9 +150,9 @@
 ### v15
 **EN:** Then shall the father of the damsel, and her mother, take and bring forth the tokens of the damsel's virginity unto the elders of the city in the gate:
 
-**TDB77:** tua numei’ nu leh pa in a tanu uh’ nungakna lim a kilatna puan la khia-in upate kiang kongpi-ah paipih ding uh hi;
+**TDB77:** tua numei’ nu leh pa in a tanu uh’ nungakna lim a kilatna puan la khia-in upate kiang kongpi-ah paipih ding-te hi;
 
-**ZVS:** tua numei' nu leh a pa in a tanu uh' nungakna lim a kilatna puan lakhia-in upate kiang kongpi-ah paipih ding uh hi.
+**ZVS:** tua numei' nu leh a pa in a tanu uh' nungakna lim a kilatna puan lakhia-in upate kiang kongpi-ah paipih ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -168,27 +168,27 @@
 ### v17
 **EN:** And, lo, he hath given occasions of speech against her, saying, I found not thy daughter a maid; and yet these are the tokens of my daughter's virginity. And they shall spread the cloth before the elders of the city.
 
-**TDB77:** en un, “Na tanu sungah nungakna lim ka mu kei hi,’’ a cihna tawh a zumhuai-in amah mawhsak hi. Ahi zongin hihte in ka tanu’ nungakna a kilatna limte ahi hi,’ ci ding hi. Amaute in khua upate mai-ah a puan phah ding uh hi.
+**TDB77:** en un, “Na tanu sungah nungakna lim ka mu kei hi,’’ a cihna tawh a zumhuai-in amah mawhsak hi. Ahi zongin hihte in ka tanu’ nungakna a kilatna limte ahi hi,’ ci ding hi. Amaute in khua upate mai-ah a puan phah ding-te hi.
 
-**ZVS:** “Na tanu' sungah nungakna lim ka mu kei hi,” cihna tawh a zumhuai-in amah mawhsak hi. Ahi zongin hihte pen ka tanu' nungakna a kilatna limte ahi hi,’ ci-in a puan lak ding hi. Amaute in khua upate mai-ah a puan phah ding uh hi.
+**ZVS:** “Na tanu' sungah nungakna lim ka mu kei hi,” cihna tawh a zumhuai-in amah mawhsak hi. Ahi zongin hihte pen ka tanu' nungakna a kilatna limte ahi hi,’ ci-in a puan lak ding hi. Amaute in khua upate mai-ah a puan phah ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And the elders of that city shall take that man and chastise him;
 
-**TDB77:** Tua ciangin tua khua upate in tua mipa la-in sat ding uh hi;
+**TDB77:** Tua ciangin tua khua upate in tua mipa la-in sat ding-te hi;
 
-**ZVS:** Tua ciangin tua khua upate in tua mipa la-in sat ding uh hi.
+**ZVS:** Tua ciangin tua khua upate in tua mipa la-in sat ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v19
 **EN:** And they shall amerce him in an hundred shekels of silver, and give them unto the father of the damsel, because he hath brought up an evil name upon a virgin of Israel: and she shall be his wife; he may not put her away all his days.
 
-**TDB77:** amaute in ngun shekel za khat daan pia ding uh a, numei’ pa tungah tuate pia ding uh hi; bang hang hiam cih leh amah in Israel nungak tungah minsia tun’ hi; tua ciangin a numei in ama zi mah hi ding hi; a nuntak lai teng tua nu ma thei lo ding hi.
+**TDB77:** amaute in ngun shekel za khat daan pia ding-te a, numei’ pa tungah tuate pia ding-te hi; bang hang hiam cih leh amah in Israel nungak tungah minsia tun’ hi; tua ciangin a numei in ama zi mah hi ding hi; a nuntak lai teng tua nu ma thei lo ding hi.
 
-**ZVS:** Amaute in ngun shekel za khat liausak ding uh a, a numei' pa' tungah tuate pia ding uh hi. Bang hang hiam cih leh amah in Israel nungak tungah minsia tun' hi. Tua ciangin a numei pen ama zi mah hi ding a, a nuntak laiteng tuanu ma theilo ding hi.
+**ZVS:** Amaute in ngun shekel za khat liausak ding-te a, a numei' pa' tungah tuate pia ding-te hi. Bang hang hiam cih leh amah in Israel nungak tungah minsia tun' hi. Tua ciangin a numei pen ama zi mah hi ding a, a nuntak laiteng tuanu ma theilo ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -204,18 +204,18 @@
 ### v21
 **EN:** Then they shall bring out the damsel to the door of her father's house, and the men of her city shall stone her with stones that she die: because she hath wrought folly in Israel, to play the whore in her father's house: so shalt thou put evil away from among you.
 
-**TDB77:** amaute in a pa’ inn kongah numei nu paipih ding uh a, ama khuapi pasalte in suang tawh amah denglum ding uh hi; bang hang hiam cih leh amah in a pa’ inn sungah paktat gamtatna tawh Israel sungah haina tun’ hi; tua bangin note lak panin siatna na siangsak ding uh hi.
+**TDB77:** amaute in a pa’ inn kongah numei nu paipih ding-te a, ama khuapi pasalte in suang tawh amah denglum ding-te hi; bang hang hiam cih leh amah in a pa’ inn sungah paktat gamtatna tawh Israel sungah haina tun’ hi; tua bangin note lak panin siatna na siangsak ding-te hi.
 
-**ZVS:** amaute in a pa' inn kongah a numei paipih ding uh a, ama khuapi pasalte in suang tawh amah denglum ding uh hi. Bang hang hiam cih leh amah in a pa' inn sungah paktat gamtatna tawh Israel sungah haina tun' hi. Tua bangin note' lak panin siatna na siangsak ding uh hi.
+**ZVS:** amaute in a pa' inn kongah a numei paipih ding-te a, ama khuapi pasalte in suang tawh amah denglum ding-te hi. Bang hang hiam cih leh amah in a pa' inn sungah paktat gamtatna tawh Israel sungah haina tun' hi. Tua bangin note' lak panin siatna na siangsak ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v22
 **EN:** If a man be found lying with a woman married to an husband, then they shall both of them die, both the man that lay with the woman, and the woman: so shalt thou put away evil from Israel.
 
-**TDB77:** “Mi khat, midang khat’ zi tawh a lumkhawm a kimuh leh, numei tawh a lumpa leh a numei, a nih tuakun kithat ding hi; tua bangin Israel sung panin siatna na siangsak ding uh hi.
+**TDB77:** “Mi khat, midang khat’ zi tawh a lumkhawm a kimuh leh, numei tawh a lumpa leh a numei, a nih tuakun kithat ding hi; tua bangin Israel sung panin siatna na siangsak ding-te hi.
 
-**ZVS:** “Mi khat, midang khat' zi tawh a lumkhawm a kimuh leh, numei tawh a lumpa leh a numei, a nih tuakun kithat ding hi. Tua bangin Israel sung panin siatna na siangsak ding uh hi.
+**ZVS:** “Mi khat, midang khat' zi tawh a lumkhawm a kimuh leh, numei tawh a lumpa leh a numei, a nih tuakun kithat ding hi. Tua bangin Israel sung panin siatna na siangsak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -231,9 +231,9 @@
 ### v24
 **EN:** Then ye shall bring them both out unto the gate of that city, and ye shall stone them with stones that they die; the damsel, because she cried not, being in the city; and the man, because he hath humbled his neighbour's wife: so thou shalt put away evil from among you.
 
-**TDB77:** tua khuapi kongpi ah amau tegel na paipih ding uh a, a numei khuapi sungah om napi-in mi’ huhna ngen dingin a kiko lohna hang leh, a pasal in a vengpa’ zi a va suksakna hangin, suang tawh a nih-un na denglum ding uh hi; tua bangin note lak panin siatna na siangsak ding uh hi.
+**TDB77:** tua khuapi kongpi ah amau tegel na paipih ding-te a, a numei khuapi sungah om napi-in mi’ huhna ngen dingin a kiko lohna hang leh, a pasal in a vengpa’ zi a va suksakna hangin, suang tawh a nih-un na denglum ding-te hi; tua bangin note lak panin siatna na siangsak ding-te hi.
 
-**ZVS:** tua khuapi kongpi-ah amaute gel na paipih ding uh a, a numei khuapi sungah a om hinapi-in mi' huhna ngen dingin a kiko lohna hang leh, tua pasal in a vengpa' zi a va suksakna hangin, suang tawh a nihun na denglum ding uh hi. Tua bangin note' lak panin siatna na siangsak ding uh hi.
+**ZVS:** tua khuapi kongpi-ah amaute gel na paipih ding-te a, a numei khuapi sungah a om hinapi-in mi' huhna ngen dingin a kiko lohna hang leh, tua pasal in a vengpa' zi a va suksakna hangin, suang tawh a nihun na denglum ding-te hi. Tua bangin note' lak panin siatna na siangsak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -249,9 +249,9 @@
 ### v26
 **EN:** But unto the damsel thou shalt do nothing; there is in the damsel no sin worthy of death: for as when a man riseth against his neighbour, and slayeth him, even so is this matter:
 
-**TDB77:** A numei’ tungah bangmah na hih kei ding uh hi; numei’ tungah sihna tawh daantah nading mawhna om lo hi; bang hang hiam cih leh hih thu in mi khat in a vengpa do-in a thah tawh kibang hi;
+**TDB77:** A numei’ tungah bangmah na hih kei ding-te hi; numei’ tungah sihna tawh daantah nading mawhna om lo hi; bang hang hiam cih leh hih thu in mi khat in a vengpa do-in a thah tawh kibang hi;
 
-**ZVS:** A numei' tungah bangmah na hih kei ding uh hi. Numei' tungah sihna ding mawhna omlo hi. Bang hang hiam cih leh hih thu pen mi khat in a vengpa do-in a thah tawh kibang hi.
+**ZVS:** A numei' tungah bangmah na hih kei ding-te hi. Numei' tungah sihna ding mawhna omlo hi. Bang hang hiam cih leh hih thu pen mi khat in a vengpa do-in a thah tawh kibang hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

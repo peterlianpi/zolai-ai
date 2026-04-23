@@ -56,21 +56,21 @@
 ### v5
 **EN:** And have tasted the good word of God, and the powers of the world to come,
 
-**TDB77:** Pasian' thu a hoihna phawk khinin, a hong tungding vangliatna thu zong thei khin uh ahih manin,
+**TDB77:** Pasian' thu a hoihna phawk khinin, a hong tungding vangliatna thu zong thei khin-te ahih manin,
 
 **Grammar:** completed: already done | causal: because
 
 ### v6
 **EN:** If they shall fall away, to renew them again unto repentance; seeing they crucify to themselves the Son of God afresh, and put him to an open shame.
 
-**TDB77:** amaute a tawpkik leh, amau utthu tawh singlamteh tungah Pasian' Tapa thatkikin a zumhuai dingin a pholak kikkik suak uh ahih manin a kisik theihna ding uh lampi om nawnlo hi.
+**TDB77:** amaute a tawpkik leh, amau utthu tawh singlamteh tungah Pasian' Tapa thatkikin a zumhuai dingin a pholak kikkik suak-te ahih manin a kisik theihna ding-te lampi om nawnlo hi.
 
 **Grammar:** purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** For the earth which drinketh in the rain that cometh oft upon it, and bringeth forth herbs meet for them by whom it is dressed, receiveth blessing from God:
 
-**TDB77:** Bang hang hiam na cih uh leh, a tungah a kia ngitnget guahtui dawnin, a sem mite ading anteh an-gah a piangsak thei leitang in Pasian kiang pan thupha a ngah hi.
+**TDB77:** Bang hang hiam na cih-te leh, a tungah a kia ngitnget guahtui dawnin, a sem mite ading anteh an-gah a piangsak thei leitang in Pasian kiang pan thupha a ngah hi.
 
 **ZVS:** A tungah a kia guahtuite hupin, a kikhawhsak mite-a' dingin a kimang thei kungte a khangsak leitang pen Pasian in thupha a pia hi.
 
@@ -88,32 +88,32 @@
 ### v9
 **EN:** But, beloved, we are persuaded better things of you, and things that accompany salvation, though we thus speak.
 
-**TDB77:** Ka itte aw, tua bang ka cih hangin note in gupna tawh kipawl na leh a hoihzaw nate tawh na kizom uh ci-in kote in ka lungkim uh hi.
+**TDB77:** Ka itte aw, tua bang ka cih hangin note in gupna tawh kipawl na leh a hoihzaw nate tawh na kizom-te ci-in kote in ka lungkim-te hi.
 
-**ZVS:** Lawm itte aw, hih bangin thu i gen hangin note ka hong muang mahmah uh a, hotkhiatna tawh kizomin thupha a hoihzaw ngah taktak uh hi, ci-in ka hong ngaihsun uh hi.
+**ZVS:** Lawm itte aw, hih bangin thu i gen hangin note ka hong muang mahmah-te a, hotkhiatna tawh kizomin thupha a hoihzaw ngah taktak-te hi, ci-in ka hong ngaihsun-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** For God is not unrighteous to forget your work and labour of love, which ye have shewed toward his name, in that ye have ministered to the saints, and do minister.
 
-**TDB77:** Bang hang hiam na cih uh leh, nomau nasepna uh akipan nidang lai-in misiangthote na vaak uh tham loin, tu nangawnin na vaak uh ahi zongin, tua bang hihin ama min hangin na lah uh ki-itna ahi zongin Pasian in a mangngilh dingin thumanlo-pa ahi kei hi.
+**TDB77:** Bang hang hiam na cih-te leh, nomau nasepna-te akipan nidang lai-in misiangthote na vaak-te tham loin, tu nangawnin na vaak-te ahi zongin, tua bang hihin ama min hangin na lah-te ki-itna ahi zongin Pasian in a mangngilh dingin thumanlo-pa ahi kei hi.
 
-**ZVS:** Pasian, a manloin gamta ngeilo ahih manin na Khristianpihte uh a beisa hunah na huhna uh leh tudongin na huh laina uh tawh ama-a' dingin na nasepna uh leh amah na itna uh na lahnate uh hong mangngilh hetlo ding hi.
+**ZVS:** Pasian, a manloin gamta ngeilo ahih manin na Khristianpihte-te a beisa hunah na huhna-te leh tudongin na huh laina-te tawh ama-a' dingin na nasepna-te leh amah na itna-te na lahnate-te hong mangngilh hetlo ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | negation: kei
 
 ### v11
 **EN:** And we desire that every one of you do shew the same diligence to the full assurance of hope unto the end:
 
-**TDB77:** Note khat ciat' lametna thu hong tun' taktak theihna dingin a tawp dongin lawpin na thanop paisuakna ding uh ka hong deihsak pha uh hi.
+**TDB77:** Note khat ciat' lametna thu hong tun' taktak theihna dingin a tawp dongin lawpin na thanop paisuakna ding-te ka hong deihsak pha-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v12
 **EN:** That ye be not slothful, but followers of them who through faith and patience inherit the promises.
 
-**TDB77:** Note thadah loin upna leh lungduaina a nei mite bangin, Pasian' hong ciamsa thu na ngahna dingun ka hong deihsak uh hi.
+**TDB77:** Note thadah loin upna leh lungduaina a nei mite bangin, Pasian' hong ciamsa thu na ngahna dingun ka hong deihsak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -145,7 +145,7 @@
 ### v16
 **EN:** For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.
 
-**TDB77:** Mite in amau sang a lianzawte tawh a kiciam thei uh hi. Kinialna khempeuh kiciamna in a beisak hi.
+**TDB77:** Mite in amau sang a lianzawte tawh a kiciam thei-te hi. Kinialna khempeuh kiciamna in a beisak hi.
 
 **ZVS:** Mi khat peuhpeuh in thu a ciam ciangin amah sangin a lianzaw khat' min tawh kiciam ahih manin, thu kituhnate-ah tua thuciamna pen a tawpna hita hi.
 
@@ -163,7 +163,7 @@
 ### v18
 **EN:** That by two immutable things, in which it was impossible for God to lie, we might have a strong consolation, who have fled for refuge to lay hold upon the hope set before us:
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian in zuauthu a zang zo lo thu nih hangin eite mai-ah hong kikoih lametna len a, a beel dinga tai eite in hansuahna khauh i ngah nading ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian in zuauthu a zang zo lo thu nih hangin eite mai-ah hong kikoih lametna len a, a beel dinga tai eite in hansuahna khauh i ngah nading ahi hi.
 
 **ZVS:** Tua hi a, a kikheel theilo thu nih kithuap ahih manin Pasian in zuau gen theilo ding hi. Tua hi a, amah a beel eite in eite mai-ah hong kikoih lametna thu kiptakin i letcipna dingin i tha hong nuamsak hi.
 

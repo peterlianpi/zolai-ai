@@ -74,9 +74,9 @@
 ### v7
 **EN:** And Noah went in, and his sons, and his wife, and his sons' wives with him, into the ark, because of the waters of the flood.
 
-**TDB77:** Tuiciin pelh dingin Noah, a tapate, a zi leh a tapate’ zite teembaw sungah pai uh hi.
+**TDB77:** Tuiciin pelh dingin Noah, a tapate, a zi leh a tapate’ zite teembaw sungah pai-te hi.
 
-**ZVS:** Tuiciin a pelh dingin Noah, a tapate, a zi leh a tapate' zite teembaw sungah pai uh hi.
+**ZVS:** Tuiciin a pelh dingin Noah, a tapate, a zi leh a tapate' zite teembaw sungah pai-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -90,9 +90,9 @@
 ### v9
 **EN:** There went in two and two unto Noah into the ark, the male and the female, as God had commanded Noah.
 
-**TDB77:** nih nih-in, a nu leh a pa, Pasian in Noah a thu piaksa bangin teembaw sungah Noah tawh pai uh hi.
+**TDB77:** nih nih-in, a nu leh a pa, Pasian in Noah a thu piaksa bangin teembaw sungah Noah tawh pai-te hi.
 
-**ZVS:** a nupa kopin Pasian in Noah a thupiaksa bangin teembaw sungah Noah tawh pai uh hi.
+**ZVS:** a nupa kopin Pasian in Noah a thupiaksa bangin teembaw sungah Noah tawh pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -120,27 +120,27 @@
 ### v13
 **EN:** In the selfsame day entered Noah, and Shem, and Ham, and Japheth, the sons of Noah, and Noah's wife, and the three wives of his sons with them, into the ark;
 
-**TDB77:** Tua ni teekteekin Noah leh a tapate, Shem, Ham, Jafeth leh Noah’ zi leh a tapate’ zi thumte, amaute tawh teembaw sungah tum uh hi.
+**TDB77:** Tua ni teekteekin Noah leh a tapate, Shem, Ham, Jafeth leh Noah’ zi leh a tapate’ zi thumte, amaute tawh teembaw sungah tum-te hi.
 
-**ZVS:** Tua ni teekteekin Noah leh a tapate Shem, Ham, Jafeth, leh Noah' zi leh a tapate' zi thumte, amau tawh teembaw sungah a tum uh hi.
+**ZVS:** Tua ni teekteekin Noah leh a tapate Shem, Ham, Jafeth, leh Noah' zi leh a tapate' zi thumte, amau tawh teembaw sungah a tum-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v14
 **EN:** They, and every beast after his kind, and all the cattle after their kind, and every creeping thing that creepeth upon the earth after his kind, and every fowl after his kind, every bird of every sort.
 
-**TDB77:** Amaute leh gamsa peuhmah ama' nam ciat, leitungah a bokvak peuhmah ama' nam ciat, leh vasa peuhmah, ama' nam ciat, vasa namkim ama' nam ciatin tum uh hi.
+**TDB77:** Amaute leh gamsa peuhmah ama' nam ciat, leitungah a bokvak peuhmah ama' nam ciat, leh vasa peuhmah, ama' nam ciat, vasa namkim ama' nam ciatin tum-te hi.
 
-**ZVS:** Amaute leh gamsa peuhmah amau' nam ciat, innsa khempeuh amau' nam ciat, leitungah a bokvak peuhmah amau' nam ciat, leh vasa peuhmah amau' nam ciat, vasa namkim amau' nam ciatin a tum uh hi.
+**ZVS:** Amaute leh gamsa peuhmah amau' nam ciat, innsa khempeuh amau' nam ciat, leitungah a bokvak peuhmah amau' nam ciat, leh vasa peuhmah amau' nam ciat, vasa namkim amau' nam ciatin a tum-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** And they went in unto Noah into the ark, two and two of all flesh, wherein is the breath of life.
 
-**TDB77:** Nuntak husan’na a nei khempeuh nih nihin Noah tawh teembaw sungah pai uh hi.
+**TDB77:** Nuntak husan’na a nei khempeuh nih nihin Noah tawh teembaw sungah pai-te hi.
 
-**ZVS:** Nuntak husan'na a nei khempeuh a nupa kop ciatin Noah tawh teembaw sungah a pai uh hi.
+**ZVS:** Nuntak husan'na a nei khempeuh a nupa kop ciatin Noah tawh teembaw sungah a pai-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -188,9 +188,9 @@
 ### v21
 **EN:** And all flesh died that moved upon the earth, both of fowl, and of cattle, and of beast, and of every creeping thing that creepeth upon the earth, and every man:
 
-**TDB77:** Leitunga a nungta khempeuh, vasate, innsate, gamsate, a hon honin leitungah a hon om ganhingte khempeuh leh mi khempeuh si uh hi;
+**TDB77:** Leitunga a nungta khempeuh, vasate, innsate, gamsate, a hon honin leitungah a hon om ganhingte khempeuh leh mi khempeuh si-te hi;
 
-**ZVS:** Leitungah a nungta khempeuh, vasate, innsate, gamsate, a hon honin leitungah a hon om ganhingte khempeuh leh mi khempeuh a si uh hi.
+**ZVS:** Leitungah a nungta khempeuh, vasate, innsate, gamsate, a hon honin leitungah a hon om ganhingte khempeuh leh mi khempeuh a si-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -199,14 +199,14 @@
 
 **TDB77:** leikeu tunga a om, a nak sungah nuntakna hu a om peuhmah si hi.
 
-**ZVS:** Leitungah a om, nuntakna hu a nei peuhmah a si uh hi.
+**ZVS:** Leitungah a om, nuntakna hu a nei peuhmah a si-te hi.
 
 ### v23
 **EN:** And every living substance was destroyed which was upon the face of the ground, both man, and cattle, and the creeping things, and the fowl of the heaven; and they were destroyed from the earth: and Noah only remained alive, and they that were with him in the ark.
 
 **TDB77:** Mihing, ganhing, a bokvakte leh huih lak vasate, lei maitang tunga om nuntakna a nei peuhmah amah in phiatkhia hi; leitung panin amaute kiphiatkhia hi. Noah leh amah tawh teembaw sunga a om teng bek suakta hi.
 
-**ZVS:** Mihing, ganhing, a bokvakte leh huih lak vasate, leitunga om nuntakna a nei peuhmah amah in phiatkhia hi. Leitung panin amaute kiphiatkhia hi. Noah leh amah tawh teembaw sunga a omteng bek a suakta uh hi.
+**ZVS:** Mihing, ganhing, a bokvakte leh huih lak vasate, leitunga om nuntakna a nei peuhmah amah in phiatkhia hi. Leitung panin amaute kiphiatkhia hi. Noah leh amah tawh teembaw sunga a omteng bek a suakta-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 

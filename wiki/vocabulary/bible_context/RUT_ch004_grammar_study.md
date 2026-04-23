@@ -36,9 +36,9 @@
 ### v2
 **EN:** And he took ten men of the elders of the city, and said, Sit ye down here. And they sat down.
 
-**TDB77:** Tua ciangin amah in khua upate mihing sawm sam-in, “Hih lai-ah tu dih un,” a ci hi; tua ahih ciangin amaute tusuk uh hi.
+**TDB77:** Tua ciangin amah in khua upate mihing sawm sam-in, “Hih lai-ah tu dih un,” a ci hi; tua ahih ciangin amaute tusuk-te hi.
 
-**ZVS:** Tua ciangin amah in khua upate mihing sawm samin, “Hih lai-ah tu dih un,” a ci hi. Tua ahih ciangin amaute tusuk uh hi.
+**ZVS:** Tua ciangin amah in khua upate mihing sawm samin, “Hih lai-ah tu dih un,” a ci hi. Tua ahih ciangin amaute tusuk-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -99,36 +99,36 @@
 ### v9
 **EN:** And Boaz said unto the elders, and unto all the people, Ye are witnesses this day, that I have bought all that was Elimelech's, and all that was Chilion's and Mahlon's, of the hand of Naomi.
 
-**TDB77:** Tua ciangin Boaz in upate leh mi khempeuh kiangah, “Tu ni-in note in Naomi’ tung panin Elimelek leh Khilion leh Mahlon’ neihsa khempeuh ka lei khitna thu teci na hi uh hi.
+**TDB77:** Tua ciangin Boaz in upate leh mi khempeuh kiangah, “Tu ni-in note in Naomi’ tung panin Elimelek leh Khilion leh Mahlon’ neihsa khempeuh ka lei khitna thu teci na hi-te hi.
 
-**ZVS:** Tua ciangin Boaz in upate leh mi khempeuh kiangah, “Tuni-in note pen Naomi' tung panin Elimelek leh Khilion leh Mahlon' neihsa khempeuh ka lei khitna thu teci na hi uh hi.
+**ZVS:** Tua ciangin Boaz in upate leh mi khempeuh kiangah, “Tuni-in note pen Naomi' tung panin Elimelek leh Khilion leh Mahlon' neihsa khempeuh ka lei khitna thu teci na hi-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Moreover Ruth the Moabitess, the wife of Mahlon, have I purchased to be my wife, to raise up the name of the dead upon his inheritance, that the name of the dead be not cut off from among his brethren, and from the gate of his place: ye are witnesses this day.
 
-**TDB77:** A site’ min ama sanggamte leh a pian’na a khua sung panin a maiman’ loh nadingin ama gamhluahna-ah a site min a kizop theih nadingin a si khin Mahlon’ zi, Moab numei Ruth zong ka zi dingin ka lei khin hi; note in tu ni-in teci na hi uh hi,” a ci hi.
+**TDB77:** A site’ min ama sanggamte leh a pian’na a khua sung panin a maiman’ loh nadingin ama gamhluahna-ah a site min a kizop theih nadingin a si khin Mahlon’ zi, Moab numei Ruth zong ka zi dingin ka lei khin hi; note in tu ni-in teci na hi-te hi,” a ci hi.
 
-**ZVS:** A site' min ama sanggamte leh a pian'na a khuasung panin a maiman'lohna dingin ama gamhluahna-ah a site' min a kizop theihna dingin a si khin Mahlon' zi, Moab numei Ruth zong ka zi dingin ka lei khin hi; note pen tuni-in teci na hi uh hi,” a ci hi.
+**ZVS:** A site' min ama sanggamte leh a pian'na a khuasung panin a maiman'lohna dingin ama gamhluahna-ah a site' min a kizop theihna dingin a si khin Mahlon' zi, Moab numei Ruth zong ka zi dingin ka lei khin hi; note pen tuni-in teci na hi-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And all the people that were in the gate, and the elders, said, We are witnesses. The
 
-**TDB77:** Tua ciangin kulh kongpi-a om mite khempeuh leh upate in, “Kote in teci ka hi uh hi. Topa in, Israelte’ innkuan a lamto khawm Rachel leh Leah bangin na innkuan sunga hong pai numei bawl ta hen. Efrathah-ah na dau pai hen la, Bethlehem ah na minthang ta hen;
+**TDB77:** Tua ciangin kulh kongpi-a om mite khempeuh leh upate in, “Kote in teci ka hi-te hi. Topa in, Israelte’ innkuan a lamto khawm Rachel leh Leah bangin na innkuan sunga hong pai numei bawl ta hen. Efrathah-ah na dau pai hen la, Bethlehem ah na minthang ta hen;
 
-**ZVS:** Tua ciangin kulhkongpi-a om mite khempeuh leh upate in, “Kote, teci ka hi uh hi. { Topa } in Israel-te' pian'na Rachel leh Leah bangin na innkuan sunga hong pai numei bawl ta hen. Efrathah-ah na dau pai hen la, Bethlehem-ah na min thang ta hen.
+**ZVS:** Tua ciangin kulhkongpi-a om mite khempeuh leh upate in, “Kote, teci ka hi-te hi. { Topa } in Israel-te' pian'na Rachel leh Leah bangin na innkuan sunga hong pai numei bawl ta hen. Efrathah-ah na dau pai hen la, Bethlehem-ah na min thang ta hen.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v12
 **EN:** And let thy house be like the house of Pharez, whom Tamar bare unto Judah, of the seed which the
 
-**TDB77:** Topa in hih a khangno lai numei tawh nang hong piak na tate hangin Judah in Tamar tawh a neih tapa Perez’ innkuan tawh kibangin na innkuan piang ta hen,” a ci uh hi.
+**TDB77:** Topa in hih a khangno lai numei tawh nang hong piak na tate hangin Judah in Tamar tawh a neih tapa Perez’ innkuan tawh kibangin na innkuan piang ta hen,” a ci-te hi.
 
-**ZVS:** { Topa } in hih a khangno lai numei tawh nang hong piak na tate' hangin Judah in Tamar tawh a neih a tapa Perez innkuan tawh kibangin na innkuan piang ta hen,” a ci uh hi.
+**ZVS:** { Topa } in hih a khangno lai numei tawh nang hong piak na tate' hangin Judah in Tamar tawh a neih a tapa Perez innkuan tawh kibangin na innkuan piang ta hen,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -153,9 +153,9 @@
 ### v15
 **EN:** And he shall be unto thee a restorer of thy life, and a nourisher of thine old age: for thy daughter in law, which loveth thee, which is better to thee than seven sons, hath born him.
 
-**TDB77:** Amah in nang adingin na nuntakna hong pia kik, leh na khanghamna-ah hong vakpa hi ding hi; bang hang hiam cih leh, tapa sagih sangin a thupizaw, nangmah hong it na monu’ neih ahi hi,” a ci uh hi.
+**TDB77:** Amah in nang adingin na nuntakna hong pia kik, leh na khanghamna-ah hong vakpa hi ding hi; bang hang hiam cih leh, tapa sagih sangin a thupizaw, nangmah hong it na monu’ neih ahi hi,” a ci-te hi.
 
-**ZVS:** Amah pen nang-a' dingin na nuntakna a hong piakik, leh na khanghamna-ah hong vakpa hi ding hi; bang hang hiam cih leh, tapa sagih sangin a thupizaw, nangmah hong it na monu' neih tapa ahi hi,” a ci uh hi.
+**ZVS:** Amah pen nang-a' dingin na nuntakna a hong piakik, leh na khanghamna-ah hong vakpa hi ding hi; bang hang hiam cih leh, tapa sagih sangin a thupizaw, nangmah hong it na monu' neih tapa ahi hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -171,9 +171,9 @@
 ### v17
 **EN:** And the women her neighbours gave it a name, saying, There is a son born to Naomi; and they called his name Obed: he is the father of Jesse, the father of David.
 
-**TDB77:** A veng nupite in a min phuak uh a, “Naomi sung pan tapa khat suak,” a ci uh hi. Amaute in a min Obed phuak uh hi; amah in Jessi’ pa hi a, Jessi in David’ pa ahi hi.
+**TDB77:** A veng nupite in a min phuak-te a, “Naomi sung pan tapa khat suak,” a ci-te hi. Amaute in a min Obed phuak-te hi; amah in Jessi’ pa hi a, Jessi in David’ pa ahi hi.
 
-**ZVS:** A veng nupite in a min phuak uh a, “Naomi' sung pan tapa khat suak,” a ci uh hi. Amaute in a min Obed phuak uh hi. Amah pen Jessi' pa hi a, Jessi pen David' pa ahi hi.
+**ZVS:** A veng nupite in a min phuak-te a, “Naomi' sung pan tapa khat suak,” a ci-te hi. Amaute in a min Obed phuak-te hi. Amah pen Jessi' pa hi a, Jessi pen David' pa ahi hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -187,11 +187,11 @@
 **Grammar:** serial verb: -in (and then)
 
 ### v19
-**EN:** And Hezron begat Ram, and Ram begat Amminadab,
+**EN:** And Hezron begat gam, and gam begat Amminadab,
 
-**TDB77:** Hezron in Ram’ pa Ram in Amminadab’ pa,
+**TDB77:** Hezron in gam’ pa gam in Amminadab’ pa,
 
-**ZVS:** Hezron pen Ram' pa, Ram pen Amminadab' pa,
+**ZVS:** Hezron pen gam' pa, gam pen Amminadab' pa,
 
 ### v20
 **EN:** And Amminadab begat Nahshon, and Nahshon begat Salmon,

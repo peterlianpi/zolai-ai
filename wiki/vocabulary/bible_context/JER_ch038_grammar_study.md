@@ -26,18 +26,18 @@
 ### v1
 **EN:** Then Shephatiah the son of Mattan, and Gedaliah the son of Pashur, and Jucal the son of Shelemiah, and Pashur the son of Malchijah, heard the words that Jeremiah had spoken unto all the people, saying,
 
-**TDB77:** Mattan’ tapa Shefatiah, Pashhur’ tapa Gedaliah, Shelemiah’ tapa Jehukal, leh Malkhiah’ tapa Pashhur-te in mi khempeuh’ tunga Jeremiah’ thugenna a za uh hi.
+**TDB77:** Mattan’ tapa Shefatiah, Pashhur’ tapa Gedaliah, Shelemiah’ tapa Jehukal, leh Malkhiah’ tapa Pashhur-te in mi khempeuh’ tunga Jeremiah’ thugenna a za-te hi.
 
-**ZVS:** Mattan' tapa Shefatiah, Pashhur' tapa Gedaliah, Shelemiah' tapa Jehukal, leh Malkhiah' tapa Pashhur-te in mi khempeuh tungah keima thugenna a za uh hi.
+**ZVS:** Mattan' tapa Shefatiah, Pashhur' tapa Gedaliah, Shelemiah' tapa Jehukal, leh Malkhiah' tapa Pashhur-te in mi khempeuh tungah keima thugenna a za-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v2
 **EN:** Thus saith the
 
-**TDB77:** Jeremiah in mite’ kiangah, “Topa in hong cih-inah, Hih khuapi sunga a om mi peuhmah namsau tawh ahi zongin, kial tawh ahi zongin, pulnatna tawh ahi zongin a si ding uh hi. Ahih hangin pusuak khia-in Khaldea mite a beel peuhmah a nungta ding a, a suakta liailiai ding uh hi.
+**TDB77:** Jeremiah in mite’ kiangah, “Topa in hong cih-inah, Hih khuapi sunga a om mi peuhmah namsau tawh ahi zongin, kial tawh ahi zongin, pulnatna tawh ahi zongin a si ding-te hi. Ahih hangin pusuak khia-in Khaldea mite a beel peuhmah a nungta ding a, a suakta liailiai ding-te hi.
 
-**ZVS:** Keimah in mite kiangah, “{ Topa } in hong cihin-ah: Hih khuapi sungah a om mi peuhmah namsau tawh ahi a, kial tawh ahi a, pulnatna tawh ahi zongin a si ding uh hi. Ahih hangin pusuak khia-in Babylon mite a beel peuhmah nungta ding a, suakta liailiai ding uh hi.
+**ZVS:** Keimah in mite kiangah, “{ Topa } in hong cihin-ah: Hih khuapi sungah a om mi peuhmah namsau tawh ahi a, kial tawh ahi a, pulnatna tawh ahi zongin a si ding-te hi. Ahih hangin pusuak khia-in Babylon mite a beel peuhmah nungta ding a, suakta liailiai ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -53,9 +53,9 @@
 ### v4
 **EN:** Therefore the princes said unto the king, We beseech thee, let this man be put to death: for thus he weakeneth the hands of the men of war that remain in this city, and the hands of all the people, in speaking such words unto them: for this man seeketh not the welfare of this people, but the hurt.
 
-**TDB77:** Tua ciangin kumpipa’ uliante in kumpipa’ kiangah, “Hih mipa i thatlum ding hi. Bang hang hiam cih leh hih thute a gen manin hih khuapi sunga a om lai galkapte leh mi khempeuhte lungkia sakin thazaw sak hi. Hih mipa in i gam mite’ phattuam nading zong loin a gim ngah nading uh a zong zaw hi,” a ci uh hi.
+**TDB77:** Tua ciangin kumpipa’ uliante in kumpipa’ kiangah, “Hih mipa i thatlum ding hi. Bang hang hiam cih leh hih thute a gen manin hih khuapi sunga a om lai galkapte leh mi khempeuhte lungkia sakin thazaw sak hi. Hih mipa in i gam mite’ phattuam nading zong loin a gim ngah nading-te a zong zaw hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin kumpipa' uliante in kumpipa kiangah, “Hih mipa i thatlum ding hi. Bang hang hiam cih leh hih thute a gen manin hih khuapi sungah a omlai galkapte leh mi khempeuhte lungkia sakin thazawsak hi. Hih mipa in i gam mite' phattuamna ding zong loin a gimngahna ding uh a zongzaw ahi hi,” a ci uh hi.
+**ZVS:** Tua ciangin kumpipa' uliante in kumpipa kiangah, “Hih mipa i thatlum ding hi. Bang hang hiam cih leh hih thute a gen manin hih khuapi sungah a omlai galkapte leh mi khempeuhte lungkia sakin thazawsak hi. Hih mipa in i gam mite' phattuamna ding zong loin a gimngahna ding-te a zongzaw ahi hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -71,9 +71,9 @@
 ### v6
 **EN:** Then took they Jeremiah, and cast him into the dungeon of Malchiah the son of Hammelech, that was in the court of the prison: and they let down Jeremiah with cords. And in the dungeon there was no water, but mire: so Jeremiah sunk in the mire.
 
-**TDB77:** Tua ciangin amaute in Jeremiah a man uh a, thong huang sunga om kumpipa’ tapa Malkhiah’ tuikhuk sungah khau tawh a khiasuk uh hi. Tuikhuk sungah tui om loin buan bek om a, Jeremiah buan sungah a tum hi.
+**TDB77:** Tua ciangin amaute in Jeremiah a man-te a, thong huang sunga om kumpipa’ tapa Malkhiah’ tuikhuk sungah khau tawh a khiasuk-te hi. Tuikhuk sungah tui om loin buan bek om a, Jeremiah buan sungah a tum hi.
 
-**ZVS:** Tua ciangin amaute in kei hong man uh a, thong huangsunga om kumpipa' tapa Malkhiah' tuikhuk sungah khau tawh hong khiasuk uh hi. Tuikhuk sungah tui omloin buan bek om a, buan sungah ka tumsuk hi.
+**ZVS:** Tua ciangin amaute in kei hong man-te a, thong huangsunga om kumpipa' tapa Malkhiah' tuikhuk sungah khau tawh hong khiasuk-te hi. Tuikhuk sungah tui omloin buan bek om a, buan sungah ka tumsuk hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -98,9 +98,9 @@
 ### v9
 **EN:** My lord the king, these men have done evil in all that they have done to Jeremiah the prophet, whom they have cast into the dungeon; and he is like to die for hunger in the place where he is: for there is no more bread in the city.
 
-**TDB77:** “Ka Topa kumpipa aw, hih mite in kamsangpa Jeremiah, tuikhuk sungah a khiatsuk uh a khial uh hi. Bang hang hiam cih leh khua sungah anlum om nawn lo ahih manin anngawlin a puk si ding hi,” a ci hi.
+**TDB77:** “Ka Topa kumpipa aw, hih mite in kamsangpa Jeremiah, tuikhuk sungah a khiatsuk-te a khial-te hi. Bang hang hiam cih leh khua sungah anlum om nawn lo ahih manin anngawlin a puk si ding hi,” a ci hi.
 
-**ZVS:** “Ka to kumpipa aw, hih mite in kamsangpa Jeremiah, tuikhuk sungah a khiatsuk uh a khial uh hi. Bang hang hiam cih leh khuasungah anlum om nawnlo ahih manin an ngawlin a puksi veve ding ahi hi,” a ci hi.
+**ZVS:** “Ka to kumpipa aw, hih mite in kamsangpa Jeremiah, tuikhuk sungah a khiatsuk-te a khial-te hi. Bang hang hiam cih leh khuasungah anlum om nawnlo ahih manin an ngawlin a puksi veve ding ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | plural: uh marker
 
@@ -114,9 +114,9 @@
 ### v11
 **EN:** So Ebed–melech took the men with him, and went into the house of the king under the treasury, and took thence old cast clouts and old rotten rags, and let them down by cords into the dungeon to Jeremiah.
 
-**TDB77:** Tua ciangin Ebedmelek in zong a mite tonpih a, kumpipa’ innah pai-in van koihna sungah a lut khit uh ciangin tuikhuk sung pan Jeremiah khau tawh a kaihkhiat nading uh puansia sa leh puanlui pawlkhat a la uh hi.
+**TDB77:** Tua ciangin Ebedmelek in zong a mite tonpih a, kumpipa’ innah pai-in van koihna sungah a lut khit-te ciangin tuikhuk sung pan Jeremiah khau tawh a kaihkhiat nading-te puansia sa leh puanlui pawlkhat a la-te hi.
 
-**ZVS:** Tua ciangin Ebedmelek in zong a mite tonpih a, kumpipa' inn-ah pai-in vankoihna sungah a lut khit uh ciangin tuikhuk sung pan khau tawh kei hong kaihkhiatna ding uh puansiasa leh puan lui pawlkhat a la uh hi.
+**ZVS:** Tua ciangin Ebedmelek in zong a mite tonpih a, kumpipa' inn-ah pai-in vankoihna sungah a lut khit-te ciangin tuikhuk sung pan khau tawh kei hong kaihkhiatna ding-te puansiasa leh puan lui pawlkhat a la-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -132,9 +132,9 @@
 ### v13
 **EN:** So they drew up Jeremiah with cords, and took him up out of the dungeon: and Jeremiah remained in the court of the prison.
 
-**TDB77:** Tua ciangin amaute in tuikhuk sung panin khau tawh Jeremiah a kai khiato uh hi. Jeremiah zong thong huang sung mahah a om lai hi.
+**TDB77:** Tua ciangin amaute in tuikhuk sung panin khau tawh Jeremiah a kai khiato-te hi. Jeremiah zong thong huang sung mahah a om lai hi.
 
-**ZVS:** Tua ciangin amaute in tuikhuk sung panin khau tawh kei a hong kaikhiato uh hi. Ahi zongin thong huangsung mahah ka omlai hi.
+**ZVS:** Tua ciangin amaute in tuikhuk sung panin khau tawh kei a hong kaikhiato-te hi. Ahi zongin thong huangsung mahah ka omlai hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -168,9 +168,9 @@
 ### v17
 **EN:** Then said Jeremiah unto Zedekiah, Thus saith the
 
-**TDB77:** Tua ciangin Jeremiah in Zedekiah kiangah, “Topa, a vanglian Pasian, Israel mite’ Pasian in hong gen-inah, Babilon kumpipa’ uliante na belh leh na nuntakna hong kihu ding a, hih khuapi in zong mei tawh hal tumna thuak loin nang leh na innkuanpihte na suakta ding uh hi.
+**TDB77:** Tua ciangin Jeremiah in Zedekiah kiangah, “Topa, a vanglian Pasian, Israel mite’ Pasian in hong gen-inah, Babilon kumpipa’ uliante na belh leh na nuntakna hong kihu ding a, hih khuapi in zong mei tawh hal tumna thuak loin nang leh na innkuanpihte na suakta ding-te hi.
 
-**ZVS:** Tua ciangin keimah in Zedekiah kiangah, “{ Topa, } Vanglian Pasian, Israel mite' Pasian in hong genin-ah, Babylon kumpipa' uliante na belh leh na nuntakna hong kimap ding a, hih khuapi in zong mei tawh haltumna thuakloin nang leh na innkuanpihte na nungta ding uh hi.
+**ZVS:** Tua ciangin keimah in Zedekiah kiangah, “{ Topa, } Vanglian Pasian, Israel mite' Pasian in hong genin-ah, Babylon kumpipa' uliante na belh leh na nuntakna hong kimap ding a, hih khuapi in zong mei tawh haltumna thuakloin nang leh na innkuanpihte na nungta ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -186,9 +186,9 @@
 ### v19
 **EN:** And Zedekiah the king said unto Jeremiah, I am afraid of the Jews that are fallen to the Chaldeans, lest they deliver me into their hand, and they mock me.
 
-**TDB77:** Kumpipa Zedekiah in Jeremiah kiangah, “Khaldea mite’ kianga a tai Judah mite ka kihta hi. Amaute’ khut sungah kei hong kipia leh amaute in kei hong bawlsia ding uh hi,” a ci hi.
+**TDB77:** Kumpipa Zedekiah in Jeremiah kiangah, “Khaldea mite’ kianga a tai Judah mite ka kihta hi. Amaute’ khut sungah kei hong kipia leh amaute in kei hong bawlsia ding-te hi,” a ci hi.
 
-**ZVS:** Kumpipa Zedekiah in kei kiangah, “Babylon mite' kiangah a tai Judah mite ka kihta hi. Amaute' khutsungah kei hong kipia leh amaute in kei hong bawlsia ding uh hi,” a hong ci hi.
+**ZVS:** Kumpipa Zedekiah in kei kiangah, “Babylon mite' kiangah a tai Judah mite ka kihta hi. Amaute' khutsungah kei hong kipia leh amaute in kei hong bawlsia ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -211,9 +211,9 @@
 ### v22
 **EN:** And, behold, all the women that are left in the king of Judah's house shall be brought forth to the king of Babylon's princes, and those women shall say, Thy friends have set thee on, and have prevailed against thee: thy feet are sunk in the mire, and they are turned away back.
 
-**TDB77:** En in, Judah kumpipa’ inn sunga a kinusia numei khempeuh Babilon kumpipa’ uliante kiangah kipaipih uh a, tua numeite in Zedekiah’ kiangah, ‘Na lawm muan’te in hong khem uh a, nang hong zo ta uh hi; na khe buan sungah tum ahih manin, hong nungngat ta uh hi,’ ci-in a gen uh hi.
+**TDB77:** En in, Judah kumpipa’ inn sunga a kinusia numei khempeuh Babilon kumpipa’ uliante kiangah kipaipih-te a, tua numeite in Zedekiah’ kiangah, ‘Na lawm muan’te in hong khem-te a, nang hong zo ta-te hi; na khe buan sungah tum ahih manin, hong nungngat ta-te hi,’ ci-in a gen-te hi.
 
-**ZVS:** En in, Judah kumpipa' innsungah a kinusia numei khempeuh Babylon kumpipa' uliante kiangah kipaipih a, tua numeite in Zedekiah kiangah, ‘Na lawm muan'te in nang hong khem uh a, nang hong zo ta uh hi. Buan sungah na khe tum ahih manin nang hong nungngat ta uh hi,’ ci-in a gen uh hi.
+**ZVS:** En in, Judah kumpipa' innsungah a kinusia numei khempeuh Babylon kumpipa' uliante kiangah kipaipih a, tua numeite in Zedekiah kiangah, ‘Na lawm muan'te in nang hong khem-te a, nang hong zo ta-te hi. Buan sungah na khe tum ahih manin nang hong nungngat ta-te hi,’ ci-in a gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -238,9 +238,9 @@
 ### v25
 **EN:** But if the princes hear that I have talked with thee, and they come unto thee, and say unto thee, Declare unto us now what thou hast said unto the king, hide it not from us, and we will not put thee to death; also what the king said unto thee:
 
-**TDB77:** Ahih hangin kumpi uliante in nang kong hopih lam a zak khak uh a, nang’ kiangah hong pai-in hong hopih-in ‘kumpipa’ kianga na gen thute leh kumpipa in nang kianga hong gen thute hong gen in. Bangmah hong im kei lecin kong that kei ding uh hi,’ ci-a hong gen khak uh leh,
+**TDB77:** Ahih hangin kumpi uliante in nang kong hopih lam a zak khak-te a, nang’ kiangah hong pai-in hong hopih-in ‘kumpipa’ kianga na gen thute leh kumpipa in nang kianga hong gen thute hong gen in. Bangmah hong im kei lecin kong that kei ding-te hi,’ ci-a hong gen khak-te leh,
 
-**ZVS:** Ahih hangin kumpi uliante in nang kong hopihlam a zakkhak uh a, nang kiangah hong pai-in hong hopihin, ‘Kumpipa kiangah na gen thute leh kumpipa in nang kiangah hong gen thute hong gen in. Bangmah hong im kei lecin kong that kei ding uh hi,’ ci-in a hong genkhak uh leh
+**ZVS:** Ahih hangin kumpi uliante in nang kong hopihlam a zakkhak-te a, nang kiangah hong pai-in hong hopihin, ‘Kumpipa kiangah na gen thute leh kumpipa in nang kiangah hong gen thute hong gen in. Bangmah hong im kei lecin kong that kei ding-te hi,’ ci-in a hong genkhak-te leh
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -256,9 +256,9 @@
 ### v27
 **EN:** Then came all the princes unto Jeremiah, and asked him: and he told them according to all these words that the king had commanded. So they left off speaking with him; for the matter was not perceived.
 
-**TDB77:** Kumpi ulian khempeuh Jeremiah’ kiangah hong pai takpi uh a, thu a dong uh hi. Amah’n zong kumpipa’ vaikhakna bangin a dawng kik hi. Tua ciangin amau a gen ding uh om nawn lo hi. Bang hang hiam cih leh kumpipa tawh a kihona a za sim kuamah a om kei uh hi.
+**TDB77:** Kumpi ulian khempeuh Jeremiah’ kiangah hong pai takpi-te a, thu a dong-te hi. Amah’n zong kumpipa’ vaikhakna bangin a dawng kik hi. Tua ciangin amau a gen ding-te om nawn lo hi. Bang hang hiam cih leh kumpipa tawh a kihona a za sim kuamah a om kei-te hi.
 
-**ZVS:** Kumpi ulian khempeuh ka kiangah hong pai takpi uh a, thu a hong dong uh hi. Kei zong kumpipa' hong vaikhakna bangin ka dawngkik hi. Tua ciangin amaute in a gen ding uh om nawnlo hi. Bang hang hiam cih leh kumpipa tawh ka kihona uh a hong zasim kuamah a om kei uh hi.
+**ZVS:** Kumpi ulian khempeuh ka kiangah hong pai takpi-te a, thu a hong dong-te hi. Kei zong kumpipa' hong vaikhakna bangin ka dawngkik hi. Tua ciangin amaute in a gen ding-te om nawnlo hi. Bang hang hiam cih leh kumpipa tawh ka kihona-te a hong zasim kuamah a om kei-te hi.
 
 **Grammar:** sequence: then/therefore | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

@@ -44,9 +44,9 @@
 ### v3
 **EN:** And I will bless them that bless thee, and curse him that curseth thee: and in thee shall all families of the earth be blessed.
 
-**TDB77:** Nang thupha hong piate thupha ka pia ding a, nang hong samsia mi ka samsia ding hi; nang’ tung tawnin leitung innkuan khempeuh in thupha ngah ding uh hi,” ci hi.
+**TDB77:** Nang thupha hong piate thupha ka pia ding a, nang hong samsia mi ka samsia ding hi; nang’ tung tawnin leitung innkuan khempeuh in thupha ngah ding-te hi,” ci hi.
 
-**ZVS:** Nang thupha hong piate thupha ka pia ding a, nang hong samsiate ka samsia ding hi. Nang' thupha ngah bangin thupha a ngahna dingun leitung midang khempeuh in hong ngen ding uh hi,” a ci hi.
+**ZVS:** Nang thupha hong piate thupha ka pia ding a, nang hong samsiate ka samsia ding hi. Nang' thupha ngah bangin thupha a ngahna dingun leitung midang khempeuh in hong ngen ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -62,9 +62,9 @@
 ### v5
 **EN:** And Abram took Sarai his wife, and Lot his brother's son, and all their substance that they had gathered, and the souls that they had gotten in Haran; and they went forth to go into the land of Canaan; and into the land of Canaan they came.
 
-**TDB77:** Abram in ama’ zi Sarai, a sanggampa’ tapa Lot, amau’ kaihkhopsa neihsa khempeuh leh Haran-a amau’ neih mi khempeuh sam a, Kanaan gamah pai dingin amaute dingkhia uh hi. Amaute Kanaan gam a tun’ uh ciangin,
+**TDB77:** Abram in ama’ zi Sarai, a sanggampa’ tapa Lot, amau’ kaihkhopsa neihsa khempeuh leh Haran-a amau’ neih mi khempeuh sam a, Kanaan gamah pai dingin amaute dingkhia-te hi. Amaute Kanaan gam a tun’ uh ciangin,
 
-**ZVS:** Abram in ama zi Sarai, a sanggampa' tapa Lot, amau' kaihkhopsa neihsa khempeuh, leh Haran-a amau' neih sila khempeuh samin, Kanaan gamah a pai dingin amaute dingkhia uh a, tua gam a tung uh hi.
+**ZVS:** Abram in ama zi Sarai, a sanggampa' tapa Lot, amau' kaihkhopsa neihsa khempeuh, leh Haran-a amau' neih sila khempeuh samin, Kanaan gamah a pai dingin amaute dingkhia-te a, tua gam a tung-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -121,9 +121,9 @@
 ### v12
 **EN:** Therefore it shall come to pass, when the Egyptians shall see thee, that they shall say, This is his wife: and they will kill me, but they will save thee alive.
 
-**TDB77:** Izipt mite in nang hong muh ciangin amaute in, ‘Hih nu in ama zi ahi hi,’ ci ding uh hi; tua ciangin amaute in kei hong that ding uh a, ahi zongin amaute in nang hong nungtasak ding uh hi.
+**TDB77:** Izipt mite in nang hong muh ciangin amaute in, ‘Hih nu in ama zi ahi hi,’ ci ding-te hi; tua ciangin amaute in kei hong that ding-te a, ahi zongin amaute in nang hong nungtasak ding-te hi.
 
-**ZVS:** Egypt mite in nang hong muh ciangin amaute in, ‘Hih nu ama zi hi,’ ci ding uh hi. Tua ciangin amaute in kei hong that ding uh a, ahi zongin amaute in nang hong nungtasak ding uh hi.
+**ZVS:** Egypt mite in nang hong muh ciangin amaute in, ‘Hih nu ama zi hi,’ ci ding-te hi. Tua ciangin amaute in kei hong that ding-te a, ahi zongin amaute in nang hong nungtasak ding-te hi.
 
 **Grammar:** causative: -sak suffix | sequence: then/therefore | future: will | plural: uh marker
 
@@ -139,18 +139,18 @@
 ### v14
 **EN:** And it came to pass, that, when Abram was come into Egypt, the Egyptians beheld the woman that she was very fair.
 
-**TDB77:** Izipt gamsungah Abram a tun ciangin Izipt mite in tua nu pen melhoih mahmah hi ci-in mu uh hi.
+**TDB77:** Izipt gamsungah Abram a tun ciangin Izipt mite in tua nu pen melhoih mahmah hi ci-in mu-te hi.
 
-**ZVS:** Egypt gam sungah Abram a tun' ciangin Egypt mite in tua nupi a mel hoihsa mahmah uh hi.
+**ZVS:** Egypt gam sungah Abram a tun' ciangin Egypt mite in tua nupi a mel hoihsa mahmah-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 
 ### v15
 **EN:** The princes also of Pharaoh saw her, and commended her before Pharaoh: and the woman was taken into Pharaoh's house.
 
-**TDB77:** Faro’ uliante in amah a muh uh ciangin Faro’ kiangah amah phat uh hi. Faro’ inn sungah tua nu kila hi.
+**TDB77:** Faro’ uliante in amah a muh-te ciangin Faro’ kiangah amah phat-te hi. Faro’ inn sungah tua nu kila hi.
 
-**ZVS:** Faro' uliante in amah a muh uh ciangin Faro' kiangah amah phat uh hi. Faro' inn sungah tua nupi kila hi.
+**ZVS:** Faro' uliante in amah a muh-te ciangin Faro' kiangah amah phat-te hi. Faro' inn sungah tua nupi kila hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -193,9 +193,9 @@
 ### v20
 **EN:** And Pharaoh commanded his men concerning him: and they sent him away, and his wife, and all that he had.
 
-**TDB77:** Faro in amah tawh kisai-in a mite' tungah thupia hi; amaute in a zi leh ama' neih khempeuh tawh lampi-ah amah kha uh hi.
+**TDB77:** Faro in amah tawh kisai-in a mite' tungah thupia hi; amaute in a zi leh ama' neih khempeuh tawh lampi-ah amah kha-te hi.
 
-**ZVS:** Faro in amah tawh kisai-in a mite tungah thu a pia hi. Amaute in a zi leh ama neih khempeuh tawh lampi-ah a khakhia uh hi.
+**ZVS:** Faro in amah tawh kisai-in a mite tungah thu a pia hi. Amaute in a zi leh ama neih khempeuh tawh lampi-ah a khakhia-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

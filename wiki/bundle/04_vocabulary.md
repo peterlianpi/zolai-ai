@@ -1710,7 +1710,7 @@ kimawlna ii panlakna thupi ahihlam ciamteh hi
 
 ### `a...uh` (3rd person plural)
 ```
-sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna uh tawh pilsin uh hi
+sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna-te tawh pilsin-te hi
 = students learn through engaging their curiosity in their own environment
 ```
 
@@ -1737,7 +1737,7 @@ Kimawl-bulphuh laisinna pen Tan Lang sangnaupang leh phungpi sangnaupang tan a t
 = Play-based learning is one of the most effective teaching approaches for kindergarten and lower primary school students.
 
 ```zolai
-Naupangte a kimawl uh ciangin amaute pen khantoh nading a panpih amau' sunmang lungngaihna sungah omkha-in a lauhuaite zong nawkkha-in vaibuai phelzia zong sinkha uh hi.
+Naupangte a kimawl-te ciangin amaute pen khantoh nading a panpih amau' sunmang lungngaihna sungah omkha-in a lauhuaite zong nawkkha-in vaibuai phelzia zong sinkha-te hi.
 ```
 = When children play, they are supported in their development within their own imagination, overcoming fears and learning to solve problems.
 
@@ -1778,7 +1778,7 @@ Providing a rich set of vocabulary for learning allows the AI to give accurate f
 When discussing education:
 ```zolai
 Zolai laibu sim ding a thupi mahmah hi. (Reading Zolai books is very important.)
-Sangnaupang te in laisin a theih ding uh kisam hi. (Students need to know their studies.)
+Sangnaupang te in laisin a theih ding-te kisam hi. (Students need to know their studies.)
 Kei in Zolai sangsia ka hi hi. (I am a Zolai teacher.)
 ```
 
@@ -1891,8 +1891,8 @@ Providing a robust legal and administrative vocabulary bridges the gap between c
 When creating sentences about government or laws:
 ```zolai
 Kumpi thukhun i zuih ding a kisam hi.
-Mi khempeuh in suahtakna a deih uh hi.
-Thukhente in thuman thutak zang in vaihawm uh hi.
+Mi khempeuh in suahtakna a deih-te hi.
+Thukhente in thuman thutak zang in vaihawm-te hi.
 ```
 
 ## Mistake / Anti-pattern
@@ -2542,7 +2542,7 @@ This document ensures the AI uses pure Tedim (Zolai) and avoids common mistakes 
 ## Pure Tedim Terms
 | English | Pure Tedim (Zolai) | DO NOT USE (Hakha/Falam) | Notes |
 |---------|--------------------|---------------------------|-------|
-| **God** | Pasian | Pathian | Tedim uses 's', not 'th'. |
+| **God** | Pasian | pasian | Tedim uses 's', not 'th'. |
 | **Spirit** | Kha | Thlarau | Tedim uses 'Kha'. |
 | **Life** | Nuntakna | Nunnak | Tedim uses 't' suffix. |
 | **Freedom** | Suahtakna | Zalenna | Tedim uses 'Suahtakna'. |
@@ -2554,10 +2554,10 @@ This document ensures the AI uses pure Tedim (Zolai) and avoids common mistakes 
 - **Man / Dik:** Both are used for "correct" or "true" in Tedim.
 - **Kha:** Always use *Kha* for spirit/soul in Tedim.
 - **Nuntakna:** Always ensure the 't' is present. *Nunnak* is incorrect in Tedim.
-- **Pasian:** Never use *Pathian*.
+- **Pasian:** Never use *pasian*.
 - **Suahtakna:** Use for "freedom" or "liberty".
 - **I vs Ko:** *I* is inclusive we (you and me), *Ko* is exclusive we (me and them, not you).
-- **Uh:** In Tedim, do not use *uh* with *i* (e.g., *I pai hi* is correct, *I pai uh hi* is wrong).
+- **Uh:** In Tedim, do not use *uh* with *i* (e.g., *I pai hi* is correct, *I pai-te hi* is wrong).
 - **In:** The ergative particle *in* is crucial for identifying the subject who acts (e.g., *Mipa in an ne hi* - The man eats rice).
 
 ---
@@ -2707,7 +2707,7 @@ These patterns suggest the translators were conscious of preserving the "flavor"
 
 ## Non-Tedim Dialect Cleanup (2026-04-15)
 Removed 0 entries containing Hakha/Falam words:
-- Forbidden: pathian, ram, fapa, bawipa, siangpahrang, cu, cun
+- Forbidden: pasian, gam, tapa, topa, kumpipa, tua, tua
 - Use instead: pasian, gam, tapa, topa, kumpipa, tua
 
 | ta | and/then (connector) | INCORRECT - ta = child (gender-neutral). tapa = son (ta+pa), tanu = daughter (ta+nu). In "Adam' ta Seth", ta = child. The apostrophe (') is possessive marker: Adam's child Seth. | User correction |

@@ -53,18 +53,18 @@
 ### v4
 **EN:** And the priest answered David, and said, There is no common bread under mine hand, but there is hallowed bread; if the young men have kept themselves at least from women.
 
-**TDB77:** Siampipa in David dawngin, “Tu takin anlum mawkmawk ka nei kei hi; ahih hangin anlum siangtho om hi; tangvalte numei panin a kikep nak uh leh,” a ci hi.
+**TDB77:** Siampipa in David dawngin, “Tu takin anlum mawkmawk ka nei kei hi; ahih hangin anlum siangtho om hi; tangvalte numei panin a kikep nak-te leh,” a ci hi.
 
-**ZVS:** Siampipa in David dawngin, “Tutakin anlum mawkmawk ka nei kei hi; ahih hangin anlum siangtho om hi; tangvalte numei panin a kikep nak uh leh la in,” a ci hi.
+**ZVS:** Siampipa in David dawngin, “Tutakin anlum mawkmawk ka nei kei hi; ahih hangin anlum siangtho om hi; tangvalte numei panin a kikep nak-te leh la in,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: kei | reciprocal: ki- prefix
 
 ### v5
 **EN:** And David answered the priest, and said unto him, Of a truth women have been kept from us about these three days, since I came out, and the vessels of the young men are holy, and the bread is in a manner common, yea, though it were sanctified this day in the vessel.
 
-**TDB77:** Tua ciangin David in siampipa dawngin, “A taktakin ci lehang, hih bangin ka paikhiat uh ciangin numeite kiang panin kote ka kikem tawntung uh hi; khualzin mawkmawk ciang nangawnin zong tangvalte siangtho hi; tu ni-in amaute bangzahin siangtho zawkan ding ahi hiam?” a ci hi.
+**TDB77:** Tua ciangin David in siampipa dawngin, “A taktakin ci lehang, hih bangin ka paikhiat-te ciangin numeite kiang panin kote ka kikem tawntung-te hi; khualzin mawkmawk ciang nangawnin zong tangvalte siangtho hi; tu ni-in amaute bangzahin siangtho zawkan ding ahi hiam?” a ci hi.
 
-**ZVS:** Tua ciangin David in siampipa dawngin, “A taktakin ci lehang, hih bangin ka paikhiat uh ciangin numeite kiang panin kote ka kikem tawntung uh hi. Khualzin mawkmawk ciang nangawnin zong tangvalte siangtho hi. Tuni-in amaute bangzahin siangthozaw kan ding ahi hiam?” a ci hi.
+**ZVS:** Tua ciangin David in siampipa dawngin, “A taktakin ci lehang, hih bangin ka paikhiat-te ciangin numeite kiang panin kote ka kikem tawntung-te hi. Khualzin mawkmawk ciang nangawnin zong tangvalte siangtho hi. Tuni-in amaute bangzahin siangthozaw kan ding ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -116,9 +116,9 @@
 ### v11
 **EN:** And the servants of Achish said unto him, Is not this David the king of the land? did they not sing one to another of him in dances, saying, Saul hath slain his thousands, and David his ten thousands?
 
-**TDB77:** Akhish nasemte in ama kiangah, “Hih David in a gam kumpipa hilo ahi hiam? Amaute khat leh khat in ama thu la-in sa-in lam uh a, ‘Saul in a tulin that, David in a tul sawmin that,’ ci hilo ahi uh hiam?” a ci uh hi.
+**TDB77:** Akhish nasemte in ama kiangah, “Hih David in a gam kumpipa hilo ahi hiam? Amaute khat leh khat in ama thu la-in sa-in lam-te a, ‘Saul in a tulin that, David in a tul sawmin that,’ ci hilo ahi-te hiam?” a ci-te hi.
 
-**ZVS:** Akhish' nasemte in ama kiangah, “Hih David, a gam kumpipa hilo ahi hiam? Amaute khatlekhat in ama thu la-in sa-in laam uh a, ‘Saul in a tulin that, David in a tul sawmin that,’ ci hilo ahi uh hiam?” a ci uh hi.
+**ZVS:** Akhish' nasemte in ama kiangah, “Hih David, a gam kumpipa hilo ahi hiam? Amaute khatlekhat in ama thu la-in sa-in laam-te a, ‘Saul in a tulin that, David in a tul sawmin that,’ ci hilo ahi-te hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -141,9 +141,9 @@
 ### v14
 **EN:** Then said Achish unto his servants, Lo, ye see the man is mad: wherefore then have ye brought him to me?
 
-**TDB77:** Tua ciangin Akhish in a nasemte kiangah, “En un, hih mipa a hai lam na mu uh hi; tua ahih ciangin bang hangin kei kiangah amah hong paipih na hi uh hiam?
+**TDB77:** Tua ciangin Akhish in a nasemte kiangah, “En un, hih mipa a hai lam na mu-te hi; tua ahih ciangin bang hangin kei kiangah amah hong paipih na hi-te hiam?
 
-**ZVS:** Tua ciangin Akhish in a nasemte kiangah, “En un, hih mipa a hai ahihlam na mu uh hi. Tua ahih ciangin bang hangin kei kiangah amah hong paipih na hi uh hiam?
+**ZVS:** Tua ciangin Akhish in a nasemte kiangah, “En un, hih mipa a hai ahihlam na mu-te hi. Tua ahih ciangin bang hangin kei kiangah amah hong paipih na hi-te hiam?
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

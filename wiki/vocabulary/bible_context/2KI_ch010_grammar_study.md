@@ -28,77 +28,77 @@
 
 **TDB77:** Tu-in Ahab’ suan-le-khak mihing sawmsagih Samaria ah teeng hi. Tua ahih ciangin Jehu in laikhakte gelh a, khuapi a ukte, upate, leh Ahab’ suan-le-khak a kemte tung Samaria a, Jezreel uliante’ tungah tua laite khakin,
 
-**ZVS:** Tu-in Ahab' suanlekhak mihing sawmsagih Samaria-ah teng uh hi. Tua ahih ciangin Jehu in laikhakte gelh a, khuapi ukte, upate, leh Ahab' suanlekhak a kemte tung Samaria-ah tua laite khakin,
+**ZVS:** Tu-in Ahab' suanlekhak mihing sawmsagih Samaria-ah teng-te hi. Tua ahih ciangin Jehu in laikhakte gelh a, khuapi ukte, upate, leh Ahab' suanlekhak a kemte tung Samaria-ah tua laite khakin,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then)
 
 ### v2
 **EN:** Now as soon as this letter cometh to you, seeing your master's sons are with you, and there are with you chariots and horses, a fenced city also, and armour;
 
-**TDB77:** “Tu-in hih lai na ngah phetun, na topa uh suante note tawh omin, leengte leh sakolte, kulh a nei khuapite zong, leh hiamte na neihna uh thei un.
+**TDB77:** “Tu-in hih lai na ngah phetun, na topa-te suante note tawh omin, leengte leh sakolte, kulh a nei khuapite zong, leh hiamte na neihna-te thei un.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v3
 **EN:** Look even out the best and meetest of your master's sons, and set him on his father's throne, and fight for your master's house.
 
-**TDB77:** Na topa uh suante a hoihpen leh a kilawmpen teelin a pa’ kumpi tokhom tungah tusak un la, na topa uh innkuan’ adingin do un,” a ci hi.
+**TDB77:** Na topa-te suante a hoihpen leh a kilawmpen teelin a pa’ kumpi tokhom tungah tusak un la, na topa-te innkuan’ adingin do un,” a ci hi.
 
-**ZVS:** Na topa uh suante sung pan a hoihpen leh a kilawm pen teelin a pa' kumpi tokhom tungah tusak un la, na topa uh innkuan-a' dingin do un,” a ci hi.
+**ZVS:** Na topa-te suante sung pan a hoihpen leh a kilawm pen teelin a pa' kumpi tokhom tungah tusak un la, na topa-te innkuan-a' dingin do un,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix
 
 ### v4
 **EN:** But they were exceedingly afraid, and said, Behold, two kings stood not before him: how then shall we stand?
 
-**TDB77:** Ahih hangin amaute nakpi takin lau uh a, “En un, kumpi nihte in amah nang zo lo uh hi; tua ahih ciangin eite in bangci nan’ zawh ding ihi hiam?” a ci uh hi.
+**TDB77:** Ahih hangin amaute nakpi takin lau-te a, “En un, kumpi nihte in amah nang zo lo-te hi; tua ahih ciangin eite in bangci nan’ zawh ding ihi hiam?” a ci-te hi.
 
-**ZVS:** Ahih hangin amaute nakpi takin lau uh a, “En un, kumpi nihte in amah nang zolo uh ahih ciangin eite in bangci nan'zawh ding ihi hiam?” a ci uh hi.
+**ZVS:** Ahih hangin amaute nakpi takin lau-te a, “En un, kumpi nihte in amah nang zolo-te ahih ciangin eite in bangci nan'zawh ding ihi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | plural: uh marker
 
 ### v5
 **EN:** And he that was over the house, and he that was over the city, the elders also, and the bringers up of the children, sent to Jehu, saying, We are thy servants, and will do all that thou shalt bid us; we will not make any king: do thou that which is good in thine eyes.
 
-**TDB77:** Tua ahih ciangin kumpi inn a ukte leh khuapi a ukte in upate leh a kemte tawh kigawmin Jehu kiangah mi sawl uh a, “Kote in nangma nasemte ka hi uh a, nong sawl khempeuh ka hih ding uh hi. Khat zong kumpi-in ka bawl kei ding uh hi; hoih na sak bang bangin hong hih in,” a ci uh hi.
+**TDB77:** Tua ahih ciangin kumpi inn a ukte leh khuapi a ukte in upate leh a kemte tawh kigawmin Jehu kiangah mi sawl-te a, “Kote in nangma nasemte ka hi-te a, nong sawl khempeuh ka hih ding-te hi. Khat zong kumpi-in ka bawl kei ding-te hi; hoih na sak bang bangin hong hih in,” a ci-te hi.
 
-**ZVS:** Tua ahih ciangin kumpi inn a ukte leh khuapi a ukte in upate leh a kemte tawh kigawmin Jehu kiangah mi sawl uh a, “Kote nangma nasemte ka hi uh a, nong sawl khempeuh ka hih ding uh hi. Khat zong kumpi-in ka bawl kei ding uh hi; hoih na sak bangbangin hong hih in,” a ci uh hi.
+**ZVS:** Tua ahih ciangin kumpi inn a ukte leh khuapi a ukte in upate leh a kemte tawh kigawmin Jehu kiangah mi sawl-te a, “Kote nangma nasemte ka hi-te a, nong sawl khempeuh ka hih ding-te hi. Khat zong kumpi-in ka bawl kei ding-te hi; hoih na sak bangbangin hong hih in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Then he wrote a letter the second time to them, saying, If ye be mine, and if ye will hearken unto my voice, take ye the heads of the men your master's sons, and come to me to Jezreel by to morrow this time. Now the king's sons, being seventy persons, were with the great men of the city, which brought them up.
 
-**TDB77:** Tua ciangin amah in amaute kiangah a laikhak nihna gelhin, “Note in keima lamah omin, keima thu mang dingin a kiging na hih uh leh, na topa uh Ahab’ suan-le-khakte lutangte hong la un la, zing ciang tu bang hunin kei kiang Jezre-el ah hong puak un,” a ci hi. Tu-in kumpipa’ suan-le-khak mihing sawmsagihte, amaute a khoi khuapi sung makaite tawh omkhawm uh hi.
+**TDB77:** Tua ciangin amah in amaute kiangah a laikhak nihna gelhin, “Note in keima lamah omin, keima thu mang dingin a kiging na hih-te leh, na topa-te Ahab’ suan-le-khakte lutangte hong la un la, zing ciang tu bang hunin kei kiang Jezre-el ah hong puak un,” a ci hi. Tu-in kumpipa’ suan-le-khak mihing sawmsagihte, amaute a khoi khuapi sung makaite tawh omkhawm-te hi.
 
-**ZVS:** Tua ciangin Jehu in amaute kiangah laikhak nihna gelhin, “Note kei lamah omin, keima thu a mang dingin a kiging na hih uh leh, na topa uh Ahab' suanlekhakte' lutangte hong la un la, zing ciang tubang hunin kei kiang Jezreel-ah hong puak un,” a ci hi. Tu-in kumpipa' suanlekhak mihing sawmsagihte pen amaute a khoi khuapi makaite tawh omkhawm uh hi.
+**ZVS:** Tua ciangin Jehu in amaute kiangah laikhak nihna gelhin, “Note kei lamah omin, keima thu a mang dingin a kiging na hih-te leh, na topa-te Ahab' suanlekhakte' lutangte hong la un la, zing ciang tubang hunin kei kiang Jezreel-ah hong puak un,” a ci hi. Tu-in kumpipa' suanlekhak mihing sawmsagihte pen amaute a khoi khuapi makaite tawh omkhawm-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And it came to pass, when the letter came to them, that they took the king's sons, and slew seventy persons, and put their heads in baskets, and sent him them to Jezreel.
 
-**TDB77:** Amaute kiangah a laikhak a tun’ ciangin amaute in kumpipa’ suan-le-khakte la-in amau mihing sawmsagihte that uh a, tua ciangin a lutang uh seeng sungah guangin ama kiang Jezre-el ah puak uh hi.
+**TDB77:** Amaute kiangah a laikhak a tun’ ciangin amaute in kumpipa’ suan-le-khakte la-in amau mihing sawmsagihte that-te a, tua ciangin a lutang-te seeng sungah guangin ama kiang Jezre-el ah puak-te hi.
 
-**ZVS:** Amaute kiangah a laikhak a tun' ciangin amaute in kumpipa' suanlekhak tua mihing sawmsagihte that uh a, a lutangte seeng sungah guangin Jehu kiang Jezreel-ah a puak uh hi.
+**ZVS:** Amaute kiangah a laikhak a tun' ciangin amaute in kumpipa' suanlekhak tua mihing sawmsagihte that-te a, a lutangte seeng sungah guangin Jehu kiang Jezreel-ah a puak-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And there came a messenger, and told him, saying, They have brought the heads of the king's sons. And he said, Lay ye them in two heaps at the entering in of the gate until the morning.
 
-**TDB77:** Kamtaipa hong pai-in ama kiangah, “Amaute in kumpipa’ suan-le-khakte’ lutangte hong paipih uh hi,” ci-in a gen ciangin amah in, “Zingsang mateng kulh kongpi lutna ah khawl nihin koih un,” a ci hi.
+**TDB77:** Kamtaipa hong pai-in ama kiangah, “Amaute in kumpipa’ suan-le-khakte’ lutangte hong paipih-te hi,” ci-in a gen ciangin amah in, “Zingsang mateng kulh kongpi lutna ah khawl nihin koih un,” a ci hi.
 
-**ZVS:** Kamtaipa hong pai-in ama kiangah, “Amaute in kumpipa' suanlekhakte' lutangte hong paipih uh hi,” ci-in a gen ciangin amah in, “Zingsang mateng kulhkongpi lutna-ah khawl nihin koih un,” a ci hi.
+**ZVS:** Kamtaipa hong pai-in ama kiangah, “Amaute in kumpipa' suanlekhakte' lutangte hong paipih-te hi,” ci-in a gen ciangin amah in, “Zingsang mateng kulhkongpi lutna-ah khawl nihin koih un,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And it came to pass in the morning, that he went out, and stood, and said to all the people, Ye be righteous: behold, I conspired against my master, and slew him: but who slew all these?
 
-**TDB77:** Zingsangin amah a paikhiat ciangin amah ding a, mi khempeuh kiangah, “Note na paubang kei uh hi. Ka topa Joram sawmsimin amah a thatpa in keimah ka hi hi; ahih hangin kua in hihte khempeuh sattuk ahi hiam?
+**TDB77:** Zingsangin amah a paikhiat ciangin amah ding a, mi khempeuh kiangah, “Note na paubang kei-te hi. Ka topa Joram sawmsimin amah a thatpa in keimah ka hi hi; ahih hangin kua in hihte khempeuh sattuk ahi hiam?
 
-**ZVS:** Zingsangin amah a paikhiat ciangin tua mite khempeuh kiangah, “Note na paubaang kei uh hi. Kumpi Joram sawmsimin a thatpa keimah ka hi hi. Ahih hangin hihte khempeuh a sattuk kua ahi hiam?
+**ZVS:** Zingsangin amah a paikhiat ciangin tua mite khempeuh kiangah, “Note na paubaang kei-te hi. Kumpi Joram sawmsimin a thatpa keimah ka hi hi. Ahih hangin hihte khempeuh a sattuk kua ahi hiam?
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -132,18 +132,18 @@
 ### v13
 **EN:** Jehu met with the brethren of Ahaziah king of Judah, and said, Who are ye? And they answered, We are the brethren of Ahaziah; and we go down to salute the children of the king and the children of the queen.
 
-**TDB77:** Jehu in Judah kumpi Ahaziah’ behte tawh kituak a, amah in, “Kuate na hi uh hiam?” a ci hi. Tua ciangin amaute in dawngin, “Kote in Ahaziah’ behte ka hi uh a, kumpinu’ tapate leh kumpi ta dangte kiangah a hawh dingin hong paisuk ka hi uh hi,” a ci hi.
+**TDB77:** Jehu in Judah kumpi Ahaziah’ behte tawh kituak a, amah in, “Kuate na hi-te hiam?” a ci hi. Tua ciangin amaute in dawngin, “Kote in Ahaziah’ behte ka hi-te a, kumpinu’ tapate leh kumpi ta dangte kiangah a hawh dingin hong paisuk ka hi-te hi,” a ci hi.
 
-**ZVS:** Jehu in Judah kumpi Ahaziah' behte tuak a, amah in, “Kuate na hi uh hiam?” a ci hi. Tua ciangin amaute in dawngin, “Ahaziah' behte ka hi uh a, Jezreel khua-a om kumpinu' tapate leh kumpi ta dangte kiangah a hawh dingin hong paisuk ka hi uh hi,” a ci uh hi.
+**ZVS:** Jehu in Judah kumpi Ahaziah' behte tuak a, amah in, “Kuate na hi-te hiam?” a ci hi. Tua ciangin amaute in dawngin, “Ahaziah' behte ka hi-te a, Jezreel khua-a om kumpinu' tapate leh kumpi ta dangte kiangah a hawh dingin hong paisuk ka hi-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And he said, Take them alive. And they took them alive, and slew them at the pit of the shearing house, even two and forty men; neither left he any of them.
 
-**TDB77:** Amah in, “Hing mat un,” a ci hi. Tua ciangin amaute in tuate hing mat uh hi; tua ciangin amaute thatin tua lai-a om dum-ah amaute mihing sawmli-le-nih a sisa-in lawnsuk uh a, amah in amaute khat zong hing khawi lo hi.
+**TDB77:** Amah in, “Hing mat un,” a ci hi. Tua ciangin amaute in tuate hing mat-te hi; tua ciangin amaute thatin tua lai-a om dum-ah amaute mihing sawmli-le-nih a sisa-in lawnsuk-te a, amah in amaute khat zong hing khawi lo hi.
 
-**ZVS:** Amah in a mite kiangah, “Hingmat un,” a ci hi. Tua ciangin amaute in tua mite hingmat uh hi. Tua ciangin amaute thatin tua lai-a om dum sungah amaute mi sawmlilenih a sisa-in lawnsuk uh a, amah in amaute khat zong hingkhawilo hi.
+**ZVS:** Amah in a mite kiangah, “Hingmat un,” a ci hi. Tua ciangin amaute in tua mite hingmat-te hi. Tua ciangin amaute thatin tua lai-a om dum sungah amaute mi sawmlilenih a sisa-in lawnsuk-te a, amah in amaute khat zong hingkhawilo hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -195,18 +195,18 @@
 ### v20
 **EN:** And Jehu said, Proclaim a solemn assembly for Baal. And they proclaimed it.
 
-**TDB77:** Tua ciangin Jehu in thu pia-in, “Baal adingin a thupi kikhopna khat bawl un,” a ci hi. Tua ahih ciangin amaute in tua thu zasak uh hi.
+**TDB77:** Tua ciangin Jehu in thu pia-in, “Baal adingin a thupi kikhopna khat bawl un,” a ci hi. Tua ahih ciangin amaute in tua thu zasak-te hi.
 
-**ZVS:** Tua ciangin Jehu in thu pia-in, “Baal-a' dingin a thupi kikhopna khat bawl un,” a ci hi. Tua ahih ciangin amaute in tua thu zasak uh hi.
+**ZVS:** Tua ciangin Jehu in thu pia-in, “Baal-a' dingin a thupi kikhopna khat bawl un,” a ci hi. Tua ahih ciangin amaute in tua thu zasak-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And Jehu sent through all Israel: and all the worshippers of Baal came, so that there was not a man left that came not. And they came into the house of Baal; and the house of Baal was full from one end to another.
 
-**TDB77:** Tua ciangin Jehu in Israel sung khempeuhah thu zasak hi; Baal a bia khempeuh hong pai uh a, hong pai lo mi khat zong om lo hi. Tua ciangin Baal inn sungah amaute lut uh a, Baal inn mong khat pan mong khat dong dim uh hi.
+**TDB77:** Tua ciangin Jehu in Israel sung khempeuhah thu zasak hi; Baal a bia khempeuh hong pai-te a, hong pai lo mi khat zong om lo hi. Tua ciangin Baal inn sungah amaute lut-te a, Baal inn mong khat pan mong khat dong dim-te hi.
 
-**ZVS:** Tua ciangin Jehu in Israel sung khempeuhah thu zasak hi. Baal a bia khempeuh hong pai uh a, hong pailo mi khat zong omlo hi. Tua ciangin Baal biakinn sungah amaute lut uh a, Baal biakinn mong khat pan mong khat dong a dim uh hi.
+**ZVS:** Tua ciangin Jehu in Israel sung khempeuhah thu zasak hi. Baal a bia khempeuh hong pai-te a, hong pailo mi khat zong omlo hi. Tua ciangin Baal biakinn sungah amaute lut-te a, Baal biakinn mong khat pan mong khat dong a dim-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
@@ -240,27 +240,27 @@
 ### v25
 **EN:** And it came to pass, as soon as he had made an end of offering the burnt offering, that Jehu said to the guard and to the captains, Go in, and slay them; let none come forth. And they smote them with the edge of the sword; and the guard and the captains cast them out, and went to the city of the house of Baal.
 
-**TDB77:** Tua ahih ciangin meihal biakna a bawl a man khit phetin Jehu in a cingte leh uliante kiangah, “Sung tum un la, amaute that un; mi khat zong suaktasak kei un,” a ci hi. Amaute in namsau tawh a thah khit uh ciangin a cingte leh uliante in amaute lawnkhia uh a, tua ciangin Baal inn a sungnung dei-ah tumin,
+**TDB77:** Tua ahih ciangin meihal biakna a bawl a man khit phetin Jehu in a cingte leh uliante kiangah, “Sung tum un la, amaute that un; mi khat zong suaktasak kei un,” a ci hi. Amaute in namsau tawh a thah khit-te ciangin a cingte leh uliante in amaute lawnkhia-te a, tua ciangin Baal inn a sungnung dei-ah tumin,
 
-**ZVS:** Tua ahih ciangin meihal biakna a bawl a man khit phetin Jehu in a cingte leh uliante kiangah, “Sungtum un la, amaute that un; mi khat zong suaktasak kei un,” a ci hi. Amaute in namsau tawh a thah khit uh ciangin a cingte leh uliante in amaute lawnkhia uh a, tua ciangin Baal biakinn sungnung dei-ah tumin,
+**ZVS:** Tua ahih ciangin meihal biakna a bawl a man khit phetin Jehu in a cingte leh uliante kiangah, “Sungtum un la, amaute that un; mi khat zong suaktasak kei un,” a ci hi. Amaute in namsau tawh a thah khit-te ciangin a cingte leh uliante in amaute lawnkhia-te a, tua ciangin Baal biakinn sungnung dei-ah tumin,
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** And they brought forth the images out of the house of Baal, and burned them.
 
-**TDB77:** Baal inn sunga a om khuampi paikhiatpihin hal uh hi.
+**TDB77:** Baal inn sunga a om khuampi paikhiatpihin hal-te hi.
 
-**ZVS:** Baal biakinn sunga om biakna song paikhiatpihin a hal uh hi.
+**ZVS:** Baal biakinn sunga om biakna song paikhiatpihin a hal-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v27
 **EN:** And they brake down the image of Baal, and brake down the house of Baal, and made it a draught house unto this day.
 
-**TDB77:** Tua ciangin amaute in Baal khuampi susia-in, Baal inn susia uh a, tu ni dongin ekbuk suaksak uh hi.
+**TDB77:** Tua ciangin amaute in Baal khuampi susia-in, Baal inn susia-te a, tu ni dongin ekbuk suaksak-te hi.
 
-**ZVS:** Tua ciangin amaute in Baal biakna song susia-in, Baal biakinn susia uh a, tuni dongin ekbuk a suaksak uh hi.
+**ZVS:** Tua ciangin amaute in Baal biakna song susia-in, Baal biakinn susia-te a, tuni dongin ekbuk a suaksak-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -324,9 +324,9 @@
 ### v35
 **EN:** And Jehu slept with his fathers: and they buried him in Samaria. And Jehoahaz his son reigned in his stead.
 
-**TDB77:** Tua ahih ciangin Jehu a pate tawh ihmu a, amaute in Samaria ah amah vui uh hi. Tua ciangin ama tapa Jehoahaz in ama tangin uk hi.
+**TDB77:** Tua ahih ciangin Jehu a pate tawh ihmu a, amaute in Samaria ah amah vui-te hi. Tua ciangin ama tapa Jehoahaz in ama tangin uk hi.
 
-**ZVS:** Tua ciangin Jehu si a, amaute in Samaria-ah amah a vui uh hi. Tua ciangin ama tapa Jehoahaz in ama tangin a uk hi.
+**ZVS:** Tua ciangin Jehu si a, amaute in Samaria-ah amah a vui-te hi. Tua ciangin ama tapa Jehoahaz in ama tangin a uk hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

@@ -27,9 +27,9 @@
 ### v1
 **EN:** Paul, an apostle of Jesus Christ by the will of God, and Timothy our brother, unto the church of God which is at Corinth, with all the saints which are in all Achaia:
 
-**TDB77:** Pasian’ deihna hangin Khazih Zeisu’ sawltak keimah Paul leh i sanggampa Timoti in Korin khua-ah a om Pasian’ pawlpi akipan Akhaia gam tengah a om misiangthote khempeuh thu kong zasak uh hi.
+**TDB77:** Pasian’ deihna hangin Khazih Zeisu’ sawltak keimah Paul leh i sanggampa Timoti in Korin khua-ah a om Pasian’ pawlpi akipan Akhaia gam tengah a om misiangthote khempeuh thu kong zasak-te hi.
 
-**ZVS:** Jesuh Khrih' sawltak ahi dingin Pasian in a hong seh keimah Paul leh thu upna sungah i sanggam Timoti in, Korin khua-ah a om Pasian' pawlpi mite leh Akhaia gamsungah a om Pasian' mite khempeuh tungah lai ka hong khak uh hi.
+**ZVS:** Jesuh Khrih' sawltak ahi dingin Pasian in a hong seh keimah Paul leh thu upna sungah i sanggam Timoti in, Korin khua-ah a om Pasian' pawlpi mite leh Akhaia gamsungah a om Pasian' mite khempeuh tungah lai ka hong khak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -54,50 +54,50 @@
 
 **TDB77:** Kote in Pasian’ hehpihna thupha hangah komau hehnepna hong piak mah bangin, gimna pawl khempeuh a thuakte a hehnem thei dingin gimna khempeuh sungah Pasian in kote hong hehnem hi.
 
-**ZVS:** Amah in kote' haksatna khempeuhah hong huh ahih manin, kote in zong Pasian' tung panin ka ngah uh tua huhna mah zangin haksatna a nam tuamtuam a thuakte ka huhsawn thei leuleu uh hi.
+**ZVS:** Amah in kote' haksatna khempeuhah hong huh ahih manin, kote in zong Pasian' tung panin ka ngah-te tua huhna mah zangin haksatna a nam tuamtuam a thuakte ka huhsawn thei leuleu-te hi.
 
 **Grammar:** purpose: in order to
 
 ### v5
 **EN:** For as the sufferings of Christ abound in us, so our consolation also aboundeth by Christ.
 
-**TDB77:** Bang hang hiam na cih uh leh, Khazih hanga gimna tampi ka thuak uh mah bangin Khazih hanga kote ngah hehnepna tampi a om hi.
+**TDB77:** Bang hang hiam na cih-te leh, Khazih hanga gimna tampi ka thuak-te mah bangin Khazih hanga kote ngah hehnepna tampi a om hi.
 
-**ZVS:** Khrih hangin gimna tampi ka thuak uh mah bangin amah in zong kote tungah huhna tampi mah a hong pia hi.
+**ZVS:** Khrih hangin gimna tampi ka thuak-te mah bangin amah in zong kote tungah huhna tampi mah a hong pia hi.
 
 ### v6
 **EN:** And whether we be afflicted, it is for your consolation and salvation, which is effectual in the enduring of the same sufferings which we also suffer: or whether we be comforted, it is for your consolation and salvation.
 
-**TDB77:** Tua ahih ciangin kote in gimna ka thuak uh zongin note in hehnepna leh gupna na ngah nading uh ahi hi. Kote in hehnepna ka ngah uh zongin kote in gimna ka thuak uh zongin note in na thuak zawh nadingun hong bawlpha thei hehnepna na ngah nading uh ahi hi.
+**TDB77:** Tua ahih ciangin kote in gimna ka thuak-te zongin note in hehnepna leh gupna na ngah nading-te ahi hi. Kote in hehnepna ka ngah-te zongin kote in gimna ka thuak-te zongin note in na thuak zawh nadingun hong bawlpha thei hehnepna na ngah nading-te ahi hi.
 
-**ZVS:** Kote in gimna ka thuak uh leh note' phattuamna ding leh hotkhiatna na ngahna ding uh ahi hi. Kote in huhna ka ngah uh leh zong, note zong a hong kihuh hi a, kote' thuak bang gimnate na thuak uh ciangin lungduai takin na thuakzawhna ding uh thahatna a hong kipia ahi hi.
+**ZVS:** Kote in gimna ka thuak-te leh note' phattuamna ding leh hotkhiatna na ngahna ding-te ahi hi. Kote in huhna ka ngah-te leh zong, note zong a hong kihuh hi a, kote' thuak bang gimnate na thuak-te ciangin lungduai takin na thuakzawhna ding-te thahatna a hong kipia ahi hi.
 
 **Grammar:** sequence: then/therefore
 
 ### v7
 **EN:** And our hope of you is stedfast, knowing, that as ye are partakers of the sufferings, so shall ye be also of the consolation.
 
-**TDB77:** Note ading ka lametna uh a kip hi. Bang hang hiam na cih uh leh, note in gimna na hong thuak khawmpih uh mah bangin hehnepna zong nong ngah khawmpih ding uh hi ci-in ka thei uh hi.
+**TDB77:** Note ading ka lametna-te a kip hi. Bang hang hiam na cih-te leh, note in gimna na hong thuak khawmpih-te mah bangin hehnepna zong nong ngah khawmpih ding-te hi ci-in ka thei-te hi.
 
-**ZVS:** Note ka hong muan'na uh kiam tuanlo hi. Kote' thuak bangin na thuak uh leh Pasian in kote hong huh mah bangin note zong hong huh ding hi.
+**ZVS:** Note ka hong muan'na-te kiam tuanlo hi. Kote' thuak bangin na thuak-te leh Pasian in kote hong huh mah bangin note zong hong huh ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** For we would not, brethren, have you ignorant of our trouble which came to us in Asia, that we were pressed out of measure, above strength, insomuch that we despaired even of life:
 
-**TDB77:** Ute naute aw, Asia gamah kote in ka thuak uh gimna ahi nuntakna nangawn ka suakta zo kei ding uh hi ci-in um a, thuak zawh loh ding dongin a gik mahmah gimna ka thuak thu uh thei loin na om ding uh ka deih kei uh hi.
+**TDB77:** Ute naute aw, Asia gamah kote in ka thuak-te gimna ahi nuntakna nangawn ka suakta zo kei ding-te hi ci-in um a, thuak zawh loh ding dongin a gik mahmah gimna ka thuak thu-te thei loin na om ding-te ka deih kei-te hi.
 
-**ZVS:** Sanggamte aw, Asia gamsunga ka thuaknate uh na hong phawkpih ding uh ka deih uh hi. Ka thuakna uh lianlua mahmah ahih manin nuntak zawhna ding lametna omlo hi.
+**ZVS:** Sanggamte aw, Asia gamsunga ka thuaknate-te na hong phawkpih ding-te ka deih-te hi. Ka thuakna-te lianlua mahmah ahih manin nuntak zawhna ding lametna omlo hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
 ### v9
 **EN:** But we had the sentence of death in ourselves, that we should not trust in ourselves, but in God which raiseth the dead:
 
-**TDB77:** Kote in ka pumpi uh muang loin, misite a thosak Pasian muan nadingin sihna thukhenna a thuak mi bang ka hi uh hi.
+**TDB77:** Kote in ka pumpi-te muang loin, misite a thosak Pasian muan nadingin sihna thukhenna a thuak mi bang ka hi-te hi.
 
-**ZVS:** A si ding taktak hi ta hang, ci-in ka kingaihsun uh hi. Ahi zongin tua zahin ka thuakna uh pen kote' thatang kimuang loin sihna panin misite a hingkiksak Pasian ka muan'theihna dingun a piang ahi hi.
+**ZVS:** A si ding taktak hi ta hang, ci-in ka kingaihsun-te hi. Ahi zongin tua zahin ka thuakna-te pen kote' thatang kimuang loin sihna panin misite a hingkiksak Pasian ka muan'theihna dingun a piang ahi hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -106,43 +106,43 @@
 
 **TDB77:** Tua Pasian in tua zah-a lian sihna sung pan hong gumkhia a, hong gumkhia lai ding hi.
 
-**ZVS:** Tua zahin a lauhuai sihna ding panin hong honkhia khinzo a, zong hong honkhia lai ding hi. Mailam hunah zong hong honkhia kikkik ding hi, ci-in amah ka muang uh hi.
+**ZVS:** Tua zahin a lauhuai sihna ding panin hong honkhia khinzo a, zong hong honkhia lai ding hi. Mailam hunah zong hong honkhia kikkik ding hi, ci-in amah ka muang-te hi.
 
 **Grammar:** future: will
 
 ### v11
 **EN:** Ye also helping together by prayer for us, that for the gift bestowed upon us by the means of many persons thanks may be given by many on our behalf.
 
-**TDB77:** Note in hong huhin, kote ading thu hong ngetsak le-uh teh, tunung ciangin zong hong gum ding hi ci-in kote in umin ka muang uh hi. Tua ciangin kote tunga hong hehpihna hangin mi tampite’ lungdamkohna in kote hangin Pasian kiang a tung ding hi.
+**TDB77:** Note in hong huhin, kote ading thu hong ngetsak le-uh teh, tunung ciangin zong hong gum ding hi ci-in kote in umin ka muang-te hi. Tua ciangin kote tunga hong hehpihna hangin mi tampite’ lungdamkohna in kote hangin Pasian kiang a tung ding hi.
 
-**ZVS:** Kote-a' dingin thu hong ngetsak un. Tua hi leh mi tampi in kote-a' dingin thu a hong ngetsaknate uh Pasian in a hong piakna hangin mi tampi mah in kote' tangdingin Pasian tungah lungdamna ko thei ding uh hi.
+**ZVS:** Kote-a' dingin thu hong ngetsak un. Tua hi leh mi tampi in kote-a' dingin thu a hong ngetsaknate-te Pasian in a hong piakna hangin mi tampi mah in kote' tangdingin Pasian tungah lungdamna ko thei ding-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** For our rejoicing is this, the testimony of our conscience, that in simplicity and godly sincerity, not with fleshly wisdom, but by the grace of God, we have had our conversation in the world, and more abundantly to you-ward.
 
-**TDB77:** Kote kisaktheihna in leitung pilna suang loin, Pasian’ hehpihna thupha suangin Pasian hong piak lungsim siangthona leh dikna tawh, a lian belin gen lehang, kote in note lakah ahi zongin, leitungah ahi zongin gamta-in ka bawl uh hi ci-in ka theihna lungsim un teci hong pang hi.
+**TDB77:** Kote kisaktheihna in leitung pilna suang loin, Pasian’ hehpihna thupha suangin Pasian hong piak lungsim siangthona leh dikna tawh, a lian belin gen lehang, kote in note lakah ahi zongin, leitungah ahi zongin gamta-in ka bawl-te hi ci-in ka theihna lungsim un teci hong pang hi.
 
-**ZVS:** Kote' kisialhpih thu in: Hih leitunga ka gamtatnate uh leh a diakdiakin note tungah kong gamtatnate uhah, mihingte' pilna a zang hiloin Pasian hehpihna vang tawh, Pasian' deihna bangin lungsim takpi tawh a gamta hi ung, ci-in ka kitheihna lungsim uh ahi hi.
+**ZVS:** Kote' kisialhpih thu in: Hih leitunga ka gamtatnate-te leh a diakdiakin note tungah kong gamtatnate uhah, mihingte' pilna a zang hiloin Pasian hehpihna vang tawh, Pasian' deihna bangin lungsim takpi tawh a gamta hi ung, ci-in ka kitheihna lungsim-te ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** For we write none other things unto you, than what ye read or acknowledge; and I trust ye shall acknowledge even to the end;
 
-**TDB77:** Note in simin, na man’sate uh longal adang nate gelh-a hong pia ka hi kei uh hi.
+**TDB77:** Note in simin, na man’sate-te longal adang nate gelh-a hong pia ka hi kei-te hi.
 
-**ZVS:** Bang hang hiam cih leh note in simthei-in a thu na theihtheih dingte bek uh a hong gelh ka hi uh hi. Tuhunin a cingin na theihlohte uh zong,
+**ZVS:** Bang hang hiam cih leh note in simthei-in a thu na theihtheih dingte bek-te a hong gelh ka hi-te hi. Tuhunin a cingin na theihlohte-te zong,
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v14
 **EN:** As also ye have acknowledged us in part, that we are your rejoicing, even as ye also are ours in the day of the Lord Jesus.
 
-**TDB77:** Note in Topa Zeisu’ Ni ciangin kote kisaktheihna lungdamna na hih uh bangin kote in note kisaktheihna ka hi ding uh hi ci-in note in kote’ thu a cingin thei lo a, nong man’ uh mah bangin, a tawp dongin na mang ding uh hi, ci-in kote in lawpin ka om uh hi.
+**TDB77:** Note in Topa Zeisu’ Ni ciangin kote kisaktheihna lungdamna na hih-te bangin kote in note kisaktheihna ka hi ding-te hi ci-in note in kote’ thu a cingin thei lo a, nong man’ uh mah bangin, a tawp dongin na mang ding-te hi, ci-in kote in lawpin ka om-te hi.
 
-**ZVS:** Topa Jesuh hong paikik Ni ciangin a cingtakin thei ding na hih manun note hangin ka kisialh uh mah bangin note zong kote hangin na kisial ding uh hi.
+**ZVS:** Topa Jesuh hong paikik Ni ciangin a cingtakin thei ding na hih manun note hangin ka kisialh-te mah bangin note zong kote hangin na kisial ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -169,7 +169,7 @@
 
 **TDB77:** Tua bang ka hanciam ciangin lungkheel mi ka hi hiam? Ahih kei leh, keima kamin, “Ahi hi, ahi hi,” ci ding ahi zongin, “Ahi kei hi, ahi kei hi,” ci ding ka hi zongin a suah nadingin ka hanciamnate in ci leh sa lungsim ahi hiam?
 
-**ZVS:** Hih bangin ka ngaihsutna pen a mawkkheel themthum hong sa na hi uh hiam? Leitung mihingte bangin angsung phattuamna ding a om kei leh a gensa thu a kheel themthumte bang hong sa na hi uh hiam?
+**ZVS:** Hih bangin ka ngaihsutna pen a mawkkheel themthum hong sa na hi-te hiam? Leitung mihingte bangin angsung phattuamna ding a om kei leh a gensa thu a kheel themthumte bang hong sa na hi-te hiam?
 
 **Grammar:** purpose: in order to | negation: kei
 
@@ -178,16 +178,16 @@
 
 **TDB77:** Pasian in dikna tawh a dim bangin note kiangah ka kam in, “Ahi hi,” ci ding ahi zongin, “Ahi kei hi,” ci ding ahi zongin ahi kei hi.
 
-**ZVS:** Pasian a thuman a citak ahih mah bangin note tungah ka hong gente uh zong a kheel themthum ka hi kei uh hi.
+**ZVS:** Pasian a thuman a citak ahih mah bangin note tungah ka hong gente-te zong a kheel themthum ka hi kei-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v19
 **EN:** For the Son of God, Jesus Christ, who was preached among you by us, even by me and Silvanus and Timothy, was not yea and nay, but in him was yea.
 
-**TDB77:** Bang hang hiam na cih uh leh, keimah-a kipan Silvanas leh Timoti-te in note kiangah kong hilh uh Pasian’ Tapa Zeisu Khazih in, “Ahi hi,” ci ding ahi zongin, “Ahi kei hi,” ci ding ahi zongin ahi kei hi; “Ahi hi,” a cihna bek ahi den hi.
+**TDB77:** Bang hang hiam na cih-te leh, keimah-a kipan Silvanas leh Timoti-te in note kiangah kong hilh-te Pasian’ Tapa Zeisu Khazih in, “Ahi hi,” ci ding ahi zongin, “Ahi kei hi,” ci ding ahi zongin ahi kei hi; “Ahi hi,” a cihna bek ahi den hi.
 
-**ZVS:** Bang hang hiam cih leh Silvanas, Timoti, leh keimah in note lakah a thu ka hong hilhhilh uh Pasian' Tapa Jesuh Khrih pen hih ding a cihte hihlo ding ci-in a thu a kheel themthumpa hilo a, hih ding a cihte hih ding mah hi pah hi.
+**ZVS:** Bang hang hiam cih leh Silvanas, Timoti, leh keimah in note lakah a thu ka hong hilhhilh-te Pasian' Tapa Jesuh Khrih pen hih ding a cihte hihlo ding ci-in a thu a kheel themthumpa hilo a, hih ding a cihte hih ding mah hi pah hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
@@ -230,9 +230,9 @@
 ### v24
 **EN:** Not for that we have dominion over your faith, but are helpers of your joy: for by faith ye stand.
 
-**TDB77:** Tua bang ka cih ciangin kote in note’ upna uk ka hi kei uh hi. Note lungdam nading huhin nasemte bek ka hi uh hi. Bang hang hiam na cih uh leh, upna hangah note kipin na om uh hi.
+**TDB77:** Tua bang ka cih ciangin kote in note’ upna uk ka hi kei-te hi. Note lungdam nading huhin nasemte bek ka hi-te hi. Bang hang hiam na cih-te leh, upna hangah note kipin na om-te hi.
 
-**ZVS:** Hih bangin um un, ci-in thatanghat thu tawh a hong gen ding ka hi kei uh hi. Note na upna uhah kipkhin na hih manun note' lungdamna dingin note tawh na a semkhawm ka hi uh hi.
+**ZVS:** Hih bangin um un, ci-in thatanghat thu tawh a hong gen ding ka hi kei-te hi. Note na upna uhah kipkhin na hih manun note' lungdamna dingin note tawh na a semkhawm ka hi-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 

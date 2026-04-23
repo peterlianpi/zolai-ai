@@ -145,18 +145,18 @@
 ### v14
 **EN:** Then came Isaiah the prophet unto king Hezekiah, and said unto him, What said these men? and from whence came they unto thee? And Hezekiah said, They are come from a far country, even from Babylon.
 
-**TDB77:** Tua ciangin Kumpi Hezekiah kiangah kamsangpa Isaiah hong pai a, ama kiangah, “Hih mite in bang gen ahi hiam? Koi lai panin nang kiangah hong pai ahi hiam?” a ci hi. Tua ciangin Hezekiah in, “Amaute Babilon gam, a gamlapi panin hong pai uh hi,” a ci hi.
+**TDB77:** Tua ciangin Kumpi Hezekiah kiangah kamsangpa Isaiah hong pai a, ama kiangah, “Hih mite in bang gen ahi hiam? Koi lai panin nang kiangah hong pai ahi hiam?” a ci hi. Tua ciangin Hezekiah in, “Amaute Babilon gam, a gamlapi panin hong pai-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin Kumpi Hezekiah kiangah kamsang Isaiah hong pai-in ama kiangah, “Hih mite in bang gen ahi hiam? Koi lai panin nang kiangah hong pai ahi hiam?” a ci hi. Tua ciangin Hezekiah in, “Amaute, Babylon gam, a gamlapi panin hong pai uh hi,” a ci hi.
+**ZVS:** Tua ciangin Kumpi Hezekiah kiangah kamsang Isaiah hong pai-in ama kiangah, “Hih mite in bang gen ahi hiam? Koi lai panin nang kiangah hong pai ahi hiam?” a ci hi. Tua ciangin Hezekiah in, “Amaute, Babylon gam, a gamlapi panin hong pai-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And he said, What have they seen in thine house? And Hezekiah answered, All the things that are in mine house have they seen: there is nothing among my treasures that I have not shewed them.
 
-**TDB77:** Amah in, “Amaute in na inn sungah bang mu ahi uh hiam?” a ci hi. Tua ciangin Hezekiah in dawngin, “Amaute in ka inn sunga om khempeuh mu uh hi; ka vankoihna inn sungte panin amaute ka lah loh bangmah om lo hi,” a ci hi.
+**TDB77:** Amah in, “Amaute in na inn sungah bang mu ahi-te hiam?” a ci hi. Tua ciangin Hezekiah in dawngin, “Amaute in ka inn sunga om khempeuh mu-te hi; ka vankoihna inn sungte panin amaute ka lah loh bangmah om lo hi,” a ci hi.
 
-**ZVS:** Amah in, “Amaute in na inn sungah bang mu ahi uh hiam?” a ci hi. Tua ciangin Hezekiah in dawngin, “Amaute in ka innsunga om khempeuh mu uh hi; ka vankoihna innsungte panin amaute ka lahloh bangmah omlo hi,” a ci hi.
+**ZVS:** Amah in, “Amaute in na inn sungah bang mu ahi-te hiam?” a ci hi. Tua ciangin Hezekiah in dawngin, “Amaute in ka innsunga om khempeuh mu-te hi; ka vankoihna innsungte panin amaute ka lahloh bangmah omlo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | plural: uh marker
 
@@ -181,9 +181,9 @@
 ### v18
 **EN:** And of thy sons that shall issue from thee, which thou shalt beget, shall they take away; and they shall be eunuchs in the palace of the king of Babylon.
 
-**TDB77:** Nangma sung pan a suak na tapate pawlkhat kilakhia ding hi; amaute in Babilon kumpipa’ inn sungah innsung maangte hi ding uh hi,” a ci hi.
+**TDB77:** Nangma sung pan a suak na tapate pawlkhat kilakhia ding hi; amaute in Babilon kumpipa’ inn sungah innsung maangte hi ding-te hi,” a ci hi.
 
-**ZVS:** Nangma sung pan a suak na tapate pawlkhat kilakhia ding a, amaute pen Babylon kumpipa inn sungah innsung maangte hi ding uh hi,” a ci hi.
+**ZVS:** Nangma sung pan a suak na tapate pawlkhat kilakhia ding a, amaute pen Babylon kumpipa inn sungah innsung maangte hi ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

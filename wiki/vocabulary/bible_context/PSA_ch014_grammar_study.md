@@ -24,27 +24,27 @@
 ### v1
 **EN:** The fool hath said in his heart, There is no God. They are corrupt, they have done abominable works, there is none that doeth good.
 
-**TDB77:** Mihai mi in a lungsim sungah, “Pasian om lo hi,” ci-in ngaihsun hi. Amaute sia uh a, kihhuai gamtatin, ahoih-a gamta kuamah om lo hi.
+**TDB77:** Mihai mi in a lungsim sungah, “Pasian om lo hi,” ci-in ngaihsun hi. Amaute sia-te a, kihhuai gamtatin, ahoih-a gamta kuamah om lo hi.
 
-**ZVS:** Mihaite in a lungsim sung uhah, “Pasian omlo hi,” ci-in ngaihsun uh hi. Amaute sia uh a, kihhuai gamtat uh a, a hoihin a gamta kuamah omlo hi.
+**ZVS:** Mihaite in a lungsim sung uhah, “Pasian omlo hi,” ci-in ngaihsun-te hi. Amaute sia-te a, kihhuai gamtat-te a, a hoihin a gamta kuamah omlo hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** The
 
-**TDB77:** A pil gamtat, Pasian a zong a om uh hiam cih a theih nadingin Topa in vantung panin mihing’ tate ensuk hi.
+**TDB77:** A pil gamtat, Pasian a zong a om-te hiam cih a theih nadingin Topa in vantung panin mihing’ tate ensuk hi.
 
-**ZVS:** A pil gamtat, Pasian a zong a om uh hiam, cih a theihna dingin { Topa } in vantung panin mihingte hong ensuk hi.
+**ZVS:** A pil gamtat, Pasian a zong a om-te hiam, cih a theihna dingin { Topa } in vantung panin mihingte hong ensuk hi.
 
 **Grammar:** purpose: in order to
 
 ### v3
 **EN:** They are all gone aside, they are all together become filthy: there is none that doeth good, no, not one.
 
-**TDB77:** Amaute a vekpi-in puk khin uh a, a kibangin kisia kim uh hi; a hoih gamtat khat beek om lo hi.
+**TDB77:** Amaute a vekpi-in puk khin-te a, a kibangin kisia kim-te hi; a hoih gamtat khat beek om lo hi.
 
-**ZVS:** Amaute khempeuh a vekpi-un pukkhin uh hi. A kibangin sia kim uh a, a hoihin a gamta khat zong omlo hi.
+**ZVS:** Amaute khempeuh a vekpi-un pukkhin-te hi. A kibangin sia kim-te a, a hoihin a gamta khat zong omlo hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -60,9 +60,9 @@
 ### v5
 **EN:** There were they in great fear: for God is in the generation of the righteous.
 
-**TDB77:** Amaute pen launa lianpi sungah om ding uh hi, bang hang hiam cih leh midikte tawh Pasian omkhawm hi.
+**TDB77:** Amaute pen launa lianpi sungah om ding-te hi, bang hang hiam cih leh midikte tawh Pasian omkhawm hi.
 
-**ZVS:** Launa lianpi sungah amaute om ding uh hi; bang hang hiam cih leh Pasian in midikte ompih hi.
+**ZVS:** Launa lianpi sungah amaute om ding-te hi; bang hang hiam cih leh Pasian in midikte ompih hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -71,14 +71,14 @@
 
 **TDB77:** Mizawng mi’ geelna na siasak nuam a, ahih hangin Topa in ama belh ahi hi.
 
-**ZVS:** Mizawngte' geelna susia nuam uh a, ahih hangin { Topa } pen mizawngte' belh ahi hi.
+**ZVS:** Mizawngte' geelna susia nuam-te a, ahih hangin { Topa } pen mizawngte' belh ahi hi.
 
 ### v7
 **EN:** Oh that the salvation of Israel were come out of Zion! when the
 
 **TDB77:** Zion panin Israelte’ ading hotkhiatna hong tung taleh maw! Topa in ama mite’ nopsakna a piak kik ciangin, Jakob nuamin Israel kipak ding hi.
 
-**ZVS:** Israel-te-a' ding hotkhiatna Zion panin hong tun'na ding thu ka ngenngen hi. { Topa } in ama mite tungah nopsakna a piakkik ciangin, ama mi Israel-te kipak mahmah ding uh hi.
+**ZVS:** Israel-te-a' ding hotkhiatna Zion panin hong tun'na ding thu ka ngenngen hi. { Topa } in ama mite tungah nopsakna a piakkik ciangin, ama mi Israel-te kipak mahmah ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

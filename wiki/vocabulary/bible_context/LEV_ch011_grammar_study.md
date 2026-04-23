@@ -33,23 +33,23 @@
 ### v2
 **EN:** Speak unto the children of Israel, saying, These are the beasts which ye shall eat among all the beasts that are on the earth.
 
-**TDB77:** “Israel mite kiangah hih bangin gen un: Hihte in leitunga om ganhing khempeuh lak panin na nek theih ding uh a nungta ganhing ahi hi.
+**TDB77:** “Israel mite kiangah hih bangin gen un: Hihte in leitunga om ganhing khempeuh lak panin na nek theih ding-te a nungta ganhing ahi hi.
 
-**ZVS:** “Israel mite kiangah hih bangin gen un: Hihte pen leitunga om ganhing khempeuh lak panin na nek theih ding uh a nungta ganhing ahi hi.
+**ZVS:** “Israel mite kiangah hih bangin gen un: Hihte pen leitunga om ganhing khempeuh lak panin na nek theih ding-te a nungta ganhing ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Whatsoever parteth the hoof, and is clovenfooted, and cheweth the cud, among the beasts, that shall ye eat.
 
-**TDB77:** Ganhingte lak panin a khecin a ka, eknel a hai peuhmah na ne thei ding uh hi.
+**TDB77:** Ganhingte lak panin a khecin a ka, eknel a hai peuhmah na ne thei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v4
 **EN:** Nevertheless these shall ye not eat of them that chew the cud, or of them that divide the hoof: as the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you.
 
-**TDB77:** Ahi zongin eknel haite lak pan hita leh khecin kate lak pan hita leh, note in hihte na ne kei ding uh hi; Kalaoh in eknel a hai hangin a khecin ka lo ahih ciangin note’ adingin a nin ahi hi.
+**TDB77:** Ahi zongin eknel haite lak pan hita leh khecin kate lak pan hita leh, note in hihte na ne kei ding-te hi; Kalaoh in eknel a hai hangin a khecin ka lo ahih ciangin note’ adingin a nin ahi hi.
 
 **ZVS:** Ahi zongin eknel haite lak pan hita leh khecin kate lak pan hita leh, note in na nek theihloh dingte uh: Kalaoh in eknel a hai hangin a khecin ka lo ahih ciangin note-a' dingin a nin ahi hi.
 
@@ -85,18 +85,18 @@
 ### v8
 **EN:** Of their flesh shall ye not eat, and their carcase shall ye not touch; they are unclean to you.
 
-**TDB77:** Note in tuate’ sa na ne kei ding uh a, a site zong na lawng kei ding uh hi; tuate in note’ adingin a nin ahi hi.
+**TDB77:** Note in tuate’ sa na ne kei ding-te a, a site zong na lawng kei ding-te hi; tuate in note’ adingin a nin ahi hi.
 
-**ZVS:** Note in tuate' sa na ne kei ding uh a, a sisate zong na lawng kei ding uh hi. Tuate pen note-a' dingin a nin ahi hi.
+**ZVS:** Note in tuate' sa na ne kei ding-te a, a sisate zong na lawng kei ding-te hi. Tuate pen note-a' dingin a nin ahi hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | plural: uh marker
 
 ### v9
 **EN:** These shall ye eat of all that are in the waters: whatsoever hath fins and scales in the waters, in the seas, and in the rivers, them shall ye eat.
 
-**TDB77:** “Tua sunga omte sung panin hihte khempeuh na ne thei ding uh hi. Tuipi sung hita leh gun sung hita leh tui sungah a om phe leh lip a neite peuhmah na ne thei ding uh hi.
+**TDB77:** “Tua sunga omte sung panin hihte khempeuh na ne thei ding-te hi. Tuipi sung hita leh gun sung hita leh tui sungah a om phe leh lip a neite peuhmah na ne thei ding-te hi.
 
-**ZVS:** “Tui sunga omte sung panin nek theih dingte: Tuipi sung hita leh gun sung hita leh tui sungah a om phe leh lip a neite peuhmah na ne thei ding uh hi.
+**ZVS:** “Tui sunga omte sung panin nek theih dingte: Tuipi sung hita leh gun sung hita leh tui sungah a om phe leh lip a neite peuhmah na ne thei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -112,9 +112,9 @@
 ### v11
 **EN:** They shall be even an abomination unto you; ye shall not eat of their flesh, but ye shall have their carcases in abomination.
 
-**TDB77:** Tuate pen note adingin a kihhuai hi ding hi; note in tuate’ sa na ne kei ding uh a, a sisate zong na kih ding uh ahi hi.
+**TDB77:** Tuate pen note adingin a kihhuai hi ding hi; note in tuate’ sa na ne kei ding-te a, a sisate zong na kih ding-te ahi hi.
 
-**ZVS:** Tuate pen note-a' dingin a kihhuai hi ding hi. Note in tuate' sa na ne kei ding uh a, a sisate zong na kih ding uh hi.
+**ZVS:** Tuate pen note-a' dingin a kihhuai hi ding hi. Note in tuate' sa na ne kei ding-te a, a sisate zong na kih ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -186,9 +186,9 @@
 ### v21
 **EN:** Yet these may ye eat of every flying creeping thing that goeth upon all four, which have legs above their feet, to leap withal upon the earth;
 
-**TDB77:** Ahi zongin khe li tawh a pai kha a nei ganhingte khempeuh lak panin leitungah a tuan nadingun a khepek uh tawh kizom ngaltak tawn a neite na ne thei ding uh hi.
+**TDB77:** Ahi zongin khe li tawh a pai kha a nei ganhingte khempeuh lak panin leitungah a tuan nadingun a khepek-te tawh kizom ngaltak tawn a neite na ne thei ding-te hi.
 
-**ZVS:** Ahi zongin khe li tawh a pai, kha a nei ganhingte khempeuh lak panin leitungah a tuanna dingun a khepek uh tawh kizom ngaltak tawn a neite na ne thei ding uh hi.
+**ZVS:** Ahi zongin khe li tawh a pai, kha a nei ganhingte khempeuh lak panin leitungah a tuanna dingun a khepek-te tawh kizom ngaltak tawn a neite na ne thei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -213,9 +213,9 @@
 ### v24
 **EN:** And for these ye shall be unclean: whosoever toucheth the carcase of them shall be unclean until the even.
 
-**TDB77:** “Hite tawh note a nin na suak ding uh hi; a sisa a lawng peuhmahte nitak mateng a nin hi ding a,
+**TDB77:** “Hite tawh note a nin na suak ding-te hi; a sisa a lawng peuhmahte nitak mateng a nin hi ding a,
 
-**ZVS:** “Hihte tawh note a nin na suak ding uh hi. A sisa a lawng peuhmahte a nitak mateng a nin hi ding a,
+**ZVS:** “Hihte tawh note a nin na suak ding-te hi. A sisa a lawng peuhmahte a nitak mateng a nin hi ding a,
 
 **Grammar:** future: will | plural: uh marker
 
@@ -292,9 +292,9 @@
 ### v33
 **EN:** And every earthen vessel, whereinto any of them falleth, whatsoever is in it shall be unclean; and ye shall break it.
 
-**TDB77:** Tuate khatpeuh peuh leibeel khatpeuh peuh sungah a kiat leh, tua sunga om khempeuh a nin hi ding a, note in tua beel na sukham ding uh hi.
+**TDB77:** Tuate khatpeuh peuh leibeel khatpeuh peuh sungah a kiat leh, tua sunga om khempeuh a nin hi ding a, note in tua beel na sukham ding-te hi.
 
-**ZVS:** Tuate khat peuhpeuh lei beel khat peuhpeuh sungah a kiat leh, tua sunga om khempeuh a nin hi ding a, note in tua beel na sukham ding uh hi.
+**ZVS:** Tuate khat peuhpeuh lei beel khat peuhpeuh sungah a kiat leh, tua sunga om khempeuh a nin hi ding a, note in tua beel na sukham ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -371,36 +371,36 @@
 ### v42
 **EN:** Whatsoever goeth upon the belly, and whatsoever goeth upon all four, or whatsoever hath more feet among all creeping things that creep upon the earth, them ye shall not eat; for they are an abomination.
 
-**TDB77:** A awmtal peuhmah leh khe li-a a pai peuhmah, ahih kei leh khe tampi a nei, leitungah a pai a hontat ganhing khempeuh, note in na ne kei ding uh hi; bang hang hiam cih leh tuate in a kihhuai ahi hi.
+**TDB77:** A awmtal peuhmah leh khe li-a a pai peuhmah, ahih kei leh khe tampi a nei, leitungah a pai a hontat ganhing khempeuh, note in na ne kei ding-te hi; bang hang hiam cih leh tuate in a kihhuai ahi hi.
 
-**ZVS:** A awmtal peuhmah leh khe li-a a pai peuhmah, ahih kei leh khe tampi a nei, leitungah a pai a hontat ganhing khempeuh, note in na ne kei ding uh hi. Bang hang hiam cih leh tuate pen a kihhuai ahi hi.
+**ZVS:** A awmtal peuhmah leh khe li-a a pai peuhmah, ahih kei leh khe tampi a nei, leitungah a pai a hontat ganhing khempeuh, note in na ne kei ding-te hi. Bang hang hiam cih leh tuate pen a kihhuai ahi hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v43
 **EN:** Ye shall not make yourselves abominable with any creeping thing that creepeth, neither shall ye make yourselves unclean with them, that ye should be defiled thereby.
 
-**TDB77:** A hontat ganhing khatpeuh peuh tawh nomau mah a kihhuai-in na kibawl tawm kei ding uh hi; tuate tawh nomau na kinin tawmsak kei ding uh hi; na kinit tawmsak uh leh a nin na suak ding uh hi.
+**TDB77:** A hontat ganhing khatpeuh peuh tawh nomau mah a kihhuai-in na kibawl tawm kei ding-te hi; tuate tawh nomau na kinin tawmsak kei ding-te hi; na kinit tawmsak-te leh a nin na suak ding-te hi.
 
-**ZVS:** A hontat ganhing khat peuhpeuh tawh nomau mah a kihhuai-in na kibawltawm kei ding uh a, tuate tawh nomau na kininsak tawm kei ding uh hi. Na kinitsak tawm uh leh a nin na suak ding uh hi.
+**ZVS:** A hontat ganhing khat peuhpeuh tawh nomau mah a kihhuai-in na kibawltawm kei ding-te a, tuate tawh nomau na kininsak tawm kei ding-te hi. Na kinitsak tawm-te leh a nin na suak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v44
 **EN:** For I am the
 
-**TDB77:** Bang hang hiam cih leh keimah in Topa na Pasian uh ka hi hi; tua ahih ciangin note ki-ap un la, kei siangtho ka hih manin note zong siangtho un. Leitunga bokvak a, a hontat ganhing khatpeuh peuh tawh note na kinin tawmsak kei ding uh hi.
+**TDB77:** Bang hang hiam cih leh keimah in Topa na Pasian-te ka hi hi; tua ahih ciangin note ki-ap un la, kei siangtho ka hih manin note zong siangtho un. Leitunga bokvak a, a hontat ganhing khatpeuh peuh tawh note na kinin tawmsak kei ding-te hi.
 
-**ZVS:** Kei pen { Topa } na Pasian uh ka hi hi. Tua ahih ciangin note ki-ap un la, kei siangtho ka hih manin note zong siangtho un. Leitungah a bokvak a hontat ganhing khat peuhpeuh tawh note na kininsak tawm kei ding uh hi.
+**ZVS:** Kei pen { Topa } na Pasian-te ka hi hi. Tua ahih ciangin note ki-ap un la, kei siangtho ka hih manin note zong siangtho un. Leitungah a bokvak a hontat ganhing khat peuhpeuh tawh note na kininsak tawm kei ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v45
 **EN:** For I am the
 
-**TDB77:** Bang hang hiam cih leh note’ Pasian a hi dingin Izipt gam panin note hong paikhiatpihpa in keimah Topa ka hi hi; tua ahih ciangin kei siangtho ka hih manin note na siangtho ding uh hi,” a ci hi.
+**TDB77:** Bang hang hiam cih leh note’ Pasian a hi dingin Izipt gam panin note hong paikhiatpihpa in keimah Topa ka hi hi; tua ahih ciangin kei siangtho ka hih manin note na siangtho ding-te hi,” a ci hi.
 
-**ZVS:** Bang hang hiam cih leh note' Pasian ahi dingin Egypt gam panin note a hong pai khiatpihpa pen keimah { Topa } ka hi hi. Tua ahih ciangin kei siangtho ka hih manin note na siangtho ding uh hi,” a ci hi.
+**ZVS:** Bang hang hiam cih leh note' Pasian ahi dingin Egypt gam panin note a hong pai khiatpihpa pen keimah { Topa } ka hi hi. Tua ahih ciangin kei siangtho ka hih manin note na siangtho ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | causal: because | plural: uh marker
 

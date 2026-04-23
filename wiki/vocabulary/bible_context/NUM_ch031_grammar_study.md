@@ -53,9 +53,9 @@
 ### v4
 **EN:** Of every tribe a thousand, throughout all the tribes of Israel, shall ye send to the war.
 
-**TDB77:** Israel minamte nam khat panin tul khat ciat gal sungah na kuansak ding uh hi,” a ci hi.
+**TDB77:** Israel minamte nam khat panin tul khat ciat gal sungah na kuansak ding-te hi,” a ci hi.
 
-**ZVS:** Israel minamte nam khat panin mi tul khat ciat gal sungah na kuansak ding uh hi,” a ci hi.
+**ZVS:** Israel minamte nam khat panin mi tul khat ciat gal sungah na kuansak ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -80,61 +80,61 @@
 ### v7
 **EN:** And they warred against the Midianites, as the
 
-**TDB77:** Topa in Moses a thupiak bangin Midiante do uh a, pasal khempeuh that uh hi.
+**TDB77:** Topa in Moses a thupiak bangin Midiante do-te a, pasal khempeuh that-te hi.
 
-**ZVS:** { Topa } in Moses a thupiak bangin Midian-te do uh a, pasal khempeuh that uh hi.
+**ZVS:** { Topa } in Moses a thupiak bangin Midian-te do-te a, pasal khempeuh that-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** And they slew the kings of Midian, beside the rest of them that were slain; namely, Evi, and Rekem, and Zur, and Hur, and Reba, five kings of Midian: Balaam also the son of Beor they slew with the sword.
 
-**TDB77:** Amaute in midangte leh Midian kumpite a thatna uhah Midian kumpi ngate Evi, Rekem, Zur, Hur leh Reba that uh hi; amaute in Beor’ tapa Balaam zong namsau tawh that uh hi.
+**TDB77:** Amaute in midangte leh Midian kumpite a thatna uhah Midian kumpi ngate Evi, Rekem, Zur, Hur leh Reba that-te hi; amaute in Beor’ tapa Balaam zong namsau tawh that-te hi.
 
-**ZVS:** Amaute in midangte leh Midian kumpi ngate Evi, Rekem, Zur, Hur, leh Reba a thahna uhah, Beor' tapa Balaam zong namsau tawh that khawm uh hi.
+**ZVS:** Amaute in midangte leh Midian kumpi ngate Evi, Rekem, Zur, Hur, leh Reba a thahna uhah, Beor' tapa Balaam zong namsau tawh that khawm-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** And the children of Israel took all the women of Midian captives, and their little ones, and took the spoil of all their cattle, and all their flocks, and all their goods.
 
-**TDB77:** Israel mite in Midian nupite leh a tate uh man uh hi; amaute in a bawngte, a tuuhonte khempeuh leh a na khempeuh uh laksak uh hi.
+**TDB77:** Israel mite in Midian nupite leh a tate-te man-te hi; amaute in a bawngte, a tuuhonte khempeuh leh a na khempeuh-te laksak-te hi.
 
-**ZVS:** Israel-te in Midian nupite leh a tate uh manin, a bawngte, a tuuhonte khempeuh leh a na khempeuh uh laksak uh hi.
+**ZVS:** Israel-te in Midian nupite leh a tate-te manin, a bawngte, a tuuhonte khempeuh leh a na khempeuh-te laksak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v10
 **EN:** And they burnt all their cities wherein they dwelt, and all their goodly castles, with fire.
 
-**TDB77:** Amau’ ten’na a khuapite khempeuh uh leh a giahphual khempeuhte uh mei tawh halsak uh a,
+**TDB77:** Amau’ ten’na a khuapite khempeuh-te leh a giahphual khempeuhte-te mei tawh halsak-te a,
 
-**ZVS:** Amau' ten'na a khuapi khempeuh uh leh a giahphual khempeuh uh mei tawh halsak uh a,
+**ZVS:** Amau' ten'na a khuapi khempeuh-te leh a giahphual khempeuh-te mei tawh halsak-te a,
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** And they took all the spoil, and all the prey, both of men and of beasts.
 
-**TDB77:** a matsa khempeuh uh, mihing ganhing ciahpih khin uh hi.
+**TDB77:** a matsa khempeuh uh, mihing ganhing ciahpih khin-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
 ### v12
 **EN:** And they brought the captives, and the prey, and the spoil, unto Moses, and Eleazar the priest, and unto the congregation of the children of Israel, unto the camp at the plains of Moab, which are by Jordan near Jericho.
 
-**TDB77:** Tua ciangin amaute in Jerikho nai, Jordan kiang, Moab leizang a, a giahphual uh Moses leh siampi Eleazar leh Israel mihonte kiangah a galmatte uh leh a na matte uh tun’pih uh hi.
+**TDB77:** Tua ciangin amaute in Jerikho nai, Jordan kiang, Moab leizang a, a giahphual-te Moses leh siampi Eleazar leh Israel mihonte kiangah a galmatte-te leh a na matte-te tun’pih-te hi.
 
-**ZVS:** Tua ciangin amaute in Jerikho nai, Jordan kiang, Moab zanglei-a a giahphual uha Moses leh siampi Eleazar leh Israel mihonte kiangah a galmatte uh leh a na lakte uh tun'pih uh hi.
+**ZVS:** Tua ciangin amaute in Jerikho nai, Jordan kiang, Moab zanglei-a a giahphual uha Moses leh siampi Eleazar leh Israel mihonte kiangah a galmatte-te leh a na lakte-te tun'pih-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And Moses, and Eleazar the priest, and all the princes of the congregation, went forth to meet them without the camp.
 
-**TDB77:** Moses leh siampi Eleazar leh mihon makaite khempeuh giahphual pua-ah a dawn dingin paikhia uh hi.
+**TDB77:** Moses leh siampi Eleazar leh mihon makaite khempeuh giahphual pua-ah a dawn dingin paikhia-te hi.
 
-**ZVS:** Moses, siampi Eleazar, leh mihon makaite khempeuh zong giahphual pua-ah vai dawn dingin pai uh hi.
+**ZVS:** Moses, siampi Eleazar, leh mihon makaite khempeuh zong giahphual pua-ah vai dawn dingin pai-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -148,9 +148,9 @@
 ### v15
 **EN:** And Moses said unto them, Have ye saved all the women alive?
 
-**TDB77:** Moses in amaute tungah, “Numei khempeuh hing khawi na hi uh hiam?
+**TDB77:** Moses in amaute tungah, “Numei khempeuh hing khawi na hi-te hiam?
 
-**ZVS:** Moses in amaute tungah, “Numei khempeuh hingkhawi na hi uh hiam?
+**ZVS:** Moses in amaute tungah, “Numei khempeuh hingkhawi na hi-te hiam?
 
 ### v16
 **EN:** Behold, these caused the children of Israel, through the counsel of Balaam, to commit trespass against the
@@ -182,18 +182,18 @@
 ### v19
 **EN:** And do ye abide without the camp seven days: whosoever hath killed any person, and whosoever hath touched any slain, purify both yourselves and your captives on the third day, and on the seventh day.
 
-**TDB77:** Giahphual pua-ah ni sagih sung om un; note lakah mi khatpeuh peuh a thatte leh a kithatsa a lawng peuhmahte in, ni thum ni leh ni sagih ni-in note leh na galmatte uh na kisian’ suah ding uh hi.
+**TDB77:** Giahphual pua-ah ni sagih sung om un; note lakah mi khatpeuh peuh a thatte leh a kithatsa a lawng peuhmahte in, ni thum ni leh ni sagih ni-in note leh na galmatte-te na kisian’ suah ding-te hi.
 
-**ZVS:** Tu-in note lakah mi khat peuhpeuh a thatte leh a kithatsa a lawng mi peuhmahte, giahphual pua-ah ni sagih sung om un. A ni thum ni leh a ni sagih ni-in note leh na galmatte uh na kisian'suah ding uh hi.
+**ZVS:** Tu-in note lakah mi khat peuhpeuh a thatte leh a kithatsa a lawng mi peuhmahte, giahphual pua-ah ni sagih sung om un. A ni thum ni leh a ni sagih ni-in note leh na galmatte-te na kisian'suah ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And purify all your raiment, and all that is made of skins, and all work of goats' hair, and all things made of wood.
 
-**TDB77:** Puan khempeuh, savun tawh a kibawl na khempeuh, keel mul tawh a kibawl na khempeuh, leh sing tawh a kibawl na khempeuh na sian’suah ding uh hi,” a ci hi.
+**TDB77:** Puan khempeuh, savun tawh a kibawl na khempeuh, keel mul tawh a kibawl na khempeuh, leh sing tawh a kibawl na khempeuh na sian’suah ding-te hi,” a ci hi.
 
-**ZVS:** Puan khempeuh, savun tawh a kibawl na khempeuh, keel mul tawh a kibawl na khempeuh, leh sing tawh a kibawl na khempeuh na sian'suah ding uh hi,” a ci hi.
+**ZVS:** Puan khempeuh, savun tawh a kibawl na khempeuh, keel mul tawh a kibawl na khempeuh, leh sing tawh a kibawl na khempeuh na sian'suah ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -214,18 +214,18 @@
 ### v23
 **EN:** Every thing that may abide the fire, ye shall make it go through the fire, and it shall be clean: nevertheless it shall be purified with the water of separation: and all that abideth not the fire ye shall make go through the water.
 
-**TDB77:** mei a do zo peuhmahte bek mei-ah na hal ding uh a, a siang hi ding hi. Ahi zongin nitna sian’suahna tui tawh kisian’suah lai ding hi; mei a do zo lo peuhmahte, tui-ah na sawp ding uh hi.
+**TDB77:** mei a do zo peuhmahte bek mei-ah na hal ding-te a, a siang hi ding hi. Ahi zongin nitna sian’suahna tui tawh kisian’suah lai ding hi; mei a do zo lo peuhmahte, tui-ah na sawp ding-te hi.
 
-**ZVS:** mei a dozo peuhmahte bek mei-ah na hal ding uh a, a siang hi ding hi. Ahi zongin mei a do zolo peuhmahte, nitna sian'suahna tui tawh kisian'suah ding a, tui-ah na sawp ding uh hi.
+**ZVS:** mei a dozo peuhmahte bek mei-ah na hal ding-te a, a siang hi ding hi. Ahi zongin mei a do zolo peuhmahte, nitna sian'suahna tui tawh kisian'suah ding a, tui-ah na sawp ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And ye shall wash your clothes on the seventh day, and ye shall be clean, and afterward ye shall come into the camp.
 
-**TDB77:** A ni sagih ni-in na puante uh na sawp ding uh a, note na siangtho ding uh hi; tua khit ciangin giahphual ah nong ciah ding uh hi,” a ci hi.
+**TDB77:** A ni sagih ni-in na puante-te na sawp ding-te a, note na siangtho ding-te hi; tua khit ciangin giahphual ah nong ciah ding-te hi,” a ci hi.
 
-**ZVS:** A ni sagih ni-in na puante uh na sawp ding uh a, note a siangtho na hi ding uh hi. Tua khit ciangin giahphualah nong ciahkik thei pan ding uh hi,” a ci hi.
+**ZVS:** A ni sagih ni-in na puante-te na sawp ding-te a, note a siangtho na hi ding-te hi. Tua khit ciangin giahphualah nong ciahkik thei pan ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -270,7 +270,7 @@
 
 **TDB77:** a lang a ngah sung panun la in la, Topa tungah biakna-in siampi Eleazar tungah pia in.
 
-**ZVS:** Alang a ngah uh sung panin la in la, { Topa' } tungah biakna-in siampi Eleazar tungah pia in.
+**ZVS:** Alang a ngah-te sung panin la in la, { Topa' } tungah biakna-in siampi Eleazar tungah pia in.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -279,25 +279,25 @@
 
 **TDB77:** A lang Israel mite in a ngah sung panin mite, bawngtalte, late, tuuhonte, ganhing khempeuh, sawmnga ciangin khat ciat la in la, Topa biakbuk a kem Levi mite tungah pia in,” a ci hi.
 
-**ZVS:** Israel mihonte in alang a ngah uh sung panin mite, bawngtalte, late, tuuhonte, ganhing khempeuh, sawmnga ciangin khat ciat la in la, { Topa' } biakbuk a kem Levi mite tungah pia in,” a ci hi.
+**ZVS:** Israel mihonte in alang a ngah-te sung panin mite, bawngtalte, late, tuuhonte, ganhing khempeuh, sawmnga ciangin khat ciat la in la, { Topa' } biakbuk a kem Levi mite tungah pia in,” a ci hi.
 
 **Grammar:** quotative: said/saying
 
 ### v31
 **EN:** And Moses and Eleazar the priest did as the
 
-**TDB77:** Topa in Moses a thupiak bangin Moses leh siampi Eleazar in hih uh hi.
+**TDB77:** Topa in Moses a thupiak bangin Moses leh siampi Eleazar in hih-te hi.
 
-**ZVS:** { Topa } in Moses a thupiak bangin Moses leh siampi Eleazar in a sem uh hi.
+**ZVS:** { Topa } in Moses a thupiak bangin Moses leh siampi Eleazar in a sem-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v32
 **EN:** And the booty, being the rest of the prey which the men of war had caught, was six hundred thousand and seventy thousand and five thousand sheep,
 
-**TDB77:** Tu-in galkapte in a lak gal sunga a mat uh a om lai a kihawm dingte in: tuu tul zaguk leh tul sawmsagih leh tulnga,
+**TDB77:** Tu-in galkapte in a lak gal sunga a mat-te a om lai a kihawm dingte in: tuu tul zaguk leh tul sawmsagih leh tulnga,
 
-**ZVS:** Tu-in galkapte in a lak gal sunga a mat uh a omlai a kihawm dingte: Tuu tul zaguk leh tul sawmsagih leh tul nga,
+**ZVS:** Tu-in galkapte in a lak gal sunga a mat-te a omlai a kihawm dingte: Tuu tul zaguk leh tul sawmsagih leh tul nga,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -369,7 +369,7 @@
 
 **TDB77:** Galdo dingin a kuankhia mite tung panin Moses in a khenkhiat, Israelte in a lang a ngah—
 
-**ZVS:** Galdo dingin a kuankhia mite-a' dingin Moses in a khenkhiat zah mah Israel mihonte in ngah uh a,
+**ZVS:** Galdo dingin a kuankhia mite-a' dingin Moses in a khenkhiat zah mah Israel mihonte in ngah-te a,
 
 **Grammar:** purpose: in order to
 
@@ -413,52 +413,52 @@
 ### v48
 **EN:** And the officers which were over thousands of the host, the captains of thousands, and captains of hundreds, came near unto Moses:
 
-**TDB77:** Tua ciangin galkap tul tampite tunga uliante ahi, tul tampi a ukte leh za tampi a ukte, Moses kiangah hong pai uh a,
+**TDB77:** Tua ciangin galkap tul tampite tunga uliante ahi, tul tampi a ukte leh za tampi a ukte, Moses kiangah hong pai-te a,
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v49
 **EN:** And they said unto Moses, Thy servants have taken the sum of the men of war which are under our charge, and there lacketh not one man of us.
 
-**TDB77:** Moses kiangah, “Kote’ ukna nuai-a a om galkapte, na nasem kote in ka sim khin uh a, kote kiang panin mi khat zong a peelhem om lo hi.
+**TDB77:** Moses kiangah, “Kote’ ukna nuai-a a om galkapte, na nasem kote in ka sim khin-te a, kote kiang panin mi khat zong a peelhem om lo hi.
 
-**ZVS:** “Kote' ukna nuai-a a om galkapte, na nasem kote in ka sim khin uh a, kote' kiang panin mi khat zong a pelhem omlo hi.
+**ZVS:** “Kote' ukna nuai-a a om galkapte, na nasem kote in ka sim khin-te a, kote' kiang panin mi khat zong a pelhem omlo hi.
 
 **Grammar:** completed: already done | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v50
 **EN:** We have therefore brought an oblation for the
 
-**TDB77:** Kote in Topa mai-ah ko adingin kilemna bawl nadingin Topa biakna kham tawh a kibawl nate, banbuhte leh taute, min gelhna zungbuhte, bilbahte, leh khite ka muh ciat uh kong tun’ pih zo uh hi,” a ci hi.
+**TDB77:** Kote in Topa mai-ah ko adingin kilemna bawl nadingin Topa biakna kham tawh a kibawl nate, banbuhte leh taute, min gelhna zungbuhte, bilbahte, leh khite ka muh ciat-te kong tun’ pih zo-te hi,” a ci hi.
 
-**ZVS:** Kote in { Topa' } mai-ah ko-a' dingin kilemna bawlna ding, { Topa } biakna dingin kham tawh a kibawl nate, banbuhte leh taute, min gelhna zungbuhte, bilbahte, leh khite ka muh ciat uh kong puak uh hi,” hong ci uh hi.
+**ZVS:** Kote in { Topa' } mai-ah ko-a' dingin kilemna bawlna ding, { Topa } biakna dingin kham tawh a kibawl nate, banbuhte leh taute, min gelhna zungbuhte, bilbahte, leh khite ka muh ciat-te kong puak-te hi,” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v51
 **EN:** And Moses and Eleazar the priest took the gold of them, even all wrought jewels.
 
-**TDB77:** Moses leh siampi Eleazar in amaute tung panin na-a a kibawl khamte sang uh hi.
+**TDB77:** Moses leh siampi Eleazar in amaute tung panin na-a a kibawl khamte sang-te hi.
 
-**ZVS:** Moses leh siampi Eleazar in amaute' tung panin na-a a kibawl khamte a sang uh hi.
+**ZVS:** Moses leh siampi Eleazar in amaute' tung panin na-a a kibawl khamte a sang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v52
 **EN:** And all the gold of the offering that they offered up to the
 
-**TDB77:** Tul tampi a ukte leh za tampi a ukte’ tung panin a kingah, Topa tungah biakna-in a piak uh khamte khempeuh in shekel tul sawm leh guk leh za sagih leh sawmnga pha hi.
+**TDB77:** Tul tampi a ukte leh za tampi a ukte’ tung panin a kingah, Topa tungah biakna-in a piak-te khamte khempeuh in shekel tul sawm leh guk leh za sagih leh sawmnga pha hi.
 
-**ZVS:** Tul tampi a ukte leh za tampi a ukte' tung panin a kingah, { Topa' } tungah biakna-in a piak uh khamte khempeuh shekel tul sawm leh tul guk leh za sagih leh sawmnga a gik hi.
+**ZVS:** Tul tampi a ukte leh za tampi a ukte' tung panin a kingah, { Topa' } tungah biakna-in a piak-te khamte khempeuh shekel tul sawm leh tul guk leh za sagih leh sawmnga a gik hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v53
 **EN:** (For the men of war had taken spoil, every man for himself.)
 
-**TDB77:** (Gal sunga a kuan mite in amau ading ciat la uh hi).
+**TDB77:** (Gal sunga a kuan mite in amau ading ciat la-te hi).
 
-**ZVS:** (Gal sunga a kuan mite in amau-a' ding ciat a la uh hi.)
+**ZVS:** (Gal sunga a kuan mite in amau-a' ding ciat a la-te hi.)
 
 **Grammar:** plural: uh marker
 
@@ -467,7 +467,7 @@
 
 **TDB77:** Moses leh siampi Eleazar in tul tampi leh za tampite a uk mite tung panin khamte sang a, Israel mite adingin Topa mai-ah phawk tawntungna-in kikhopna buk sungah paipih hi.
 
-**ZVS:** Moses leh siampi Eleazar in tul tampi leh za tampi a uk mite' tung panin khamte sang uh a, Israel mite-a' dingin { Topa' } mai-ah phawk tawntungna-in kikhopna buk sungah a koih uh hi.
+**ZVS:** Moses leh siampi Eleazar in tul tampi leh za tampi a uk mite' tung panin khamte sang-te a, Israel mite-a' dingin { Topa' } mai-ah phawk tawntungna-in kikhopna buk sungah a koih-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 

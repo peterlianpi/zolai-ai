@@ -131,9 +131,9 @@
 ### v14
 **EN:** And he brought the bullock for the sin offering: and Aaron and his sons laid their hands upon the head of the bullock for the sin offering.
 
-**TDB77:** Tua ciangin amah in khialhna hanga biakna bawngtal paipih hi; Aaron leh a tapate in khialhna hanga biakna bawngtal’ lu tungah amau’ khut nga uh hi.
+**TDB77:** Tua ciangin amah in khialhna hanga biakna bawngtal paipih hi; Aaron leh a tapate in khialhna hanga biakna bawngtal’ lu tungah amau’ khut nga-te hi.
 
-**ZVS:** Tua ciangin amah in khialhna hanga biakna bawngtal paipih a, Aaron leh a tapate in tua bawngtal lu tungah amau' khut nga uh hi.
+**ZVS:** Tua ciangin amah in khialhna hanga biakna bawngtal paipih a, Aaron leh a tapate in tua bawngtal lu tungah amau' khut nga-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -163,11 +163,11 @@
 **ZVS:** Ahih hangin, { Topa } in Moses a thupiak bangin a omlai a vun, a sa leh a ek, amah in giahphual pualamah mei tawh a hal hi.
 
 ### v18
-**EN:** And he brought the ram for the burnt offering: and Aaron and his sons laid their hands upon the head of the ram.
+**EN:** And he brought the gam for the burnt offering: and Aaron and his sons laid their hands upon the head of the gam.
 
-**TDB77:** Tua ciangin amah in meihal biakna tuutal pia hi; Aaron leh a tapate in tuutal lu tungah amau’ khut nga uh hi.
+**TDB77:** Tua ciangin amah in meihal biakna tuutal pia hi; Aaron leh a tapate in tuutal lu tungah amau’ khut nga-te hi.
 
-**ZVS:** Tua ciangin Moses in meihal biakna tuutal pia a, Aaron leh a tapate in tuutal lu tungah amau' khut nga uh hi.
+**ZVS:** Tua ciangin Moses in meihal biakna tuutal pia a, Aaron leh a tapate in tuutal lu tungah amau' khut nga-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -181,7 +181,7 @@
 **Grammar:** reciprocal: ki- prefix
 
 ### v20
-**EN:** And he cut the ram into pieces; and Moses burnt the head, and the pieces, and the fat.
+**EN:** And he cut the gam into pieces; and Moses burnt the head, and the pieces, and the fat.
 
 **TDB77:** Tuutal a kisem nen ciangin, Moses in a lu leh a ki-at nente leh a thau hal hi.
 
@@ -190,7 +190,7 @@
 **Grammar:** reciprocal: ki- prefix
 
 ### v21
-**EN:** And he washed the inwards and the legs in water; and Moses burnt the whole ram upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire unto the
+**EN:** And he washed the inwards and the legs in water; and Moses burnt the whole gam upon the altar: it was a burnt sacrifice for a sweet savour, and an offering made by fire unto the
 
 **TDB77:** Topa in Moses a thupiak bangin, a sungkuate leh a khete tui tawh a kisawp khit ciangin, Topa tungah mei tawh kihal biakna a gim namtui, meihal biakna-in Moses in biakna tau tungah tuutal buppi hal hi.
 
@@ -199,11 +199,11 @@
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v22
-**EN:** And he brought the other ram, the ram of consecration: and Aaron and his sons laid their hands upon the head of the ram.
+**EN:** And he brought the other gam, the gam of consecration: and Aaron and his sons laid their hands upon the head of the gam.
 
-**TDB77:** Tua ciangin amah in a tuutal dang, kipsakna tuutal pia hi; Aaron leh a tapate in tuutal lu tungah amau khut nga uh hi.
+**TDB77:** Tua ciangin amah in a tuutal dang, kipsakna tuutal pia hi; Aaron leh a tapate in tuutal lu tungah amau khut nga-te hi.
 
-**ZVS:** Tua ciangin Moses in a tuutal dang, kipsakna tuutal pia a, Aaron leh a tapate in tuutal lu tungah amau' khut nga uh hi.
+**ZVS:** Tua ciangin Moses in a tuutal dang, kipsakna tuutal pia a, Aaron leh a tapate in tuutal lu tungah amau' khut nga-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -248,7 +248,7 @@
 
 **TDB77:** Amah in hihte khempeuh Aaron’ khut sung leh ama tapate’ khut sungah koihin, veii-a biakna-in Topa mai-ah tuate veii hi.
 
-**ZVS:** Amah in hihte khempeuh, Aaron leh a tapate' khutsungah koih a, amaute in vei-a biakna-in { Topa' } mai-ah tuate a vei uh hi.
+**ZVS:** Amah in hihte khempeuh, Aaron leh a tapate' khutsungah koih a, amaute in vei-a biakna-in { Topa' } mai-ah tuate a vei-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -275,34 +275,34 @@
 
 **TDB77:** Tua ciangin Moses in nilh sathau kimkhat leh biakna tau tunga om a si la-in, Aaron leh ama puante tung, leh ama tapate tung leh ama tapate puante tungah zong theh hi; tua ahih ciangin amah in Aaron leh ama puante leh ama tapate leh ama tapate’ puante amah tawh ap khawm hi.
 
-**ZVS:** Tua ciangin Moses in nilh sathau kimkhat leh biakna tau tunga om a si la-in, Aaron leh ama tapate leh amau' puante tungah a theh hi. Tua ahih ciangin Moses in Aaron leh ama tapate, a puante uh tawh a apkhawm hi.
+**ZVS:** Tua ciangin Moses in nilh sathau kimkhat leh biakna tau tunga om a si la-in, Aaron leh ama tapate leh amau' puante tungah a theh hi. Tua ahih ciangin Moses in Aaron leh ama tapate, a puante-te tawh a apkhawm hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v31
 **EN:** And Moses said unto Aaron and to his sons, Boil the flesh at the door of the tabernacle of the congregation: and there eat it with the bread that is in the basket of consecrations, as I commanded, saying, Aaron and his sons shall eat it.
 
-**TDB77:** Moses in Aaron leh a tapate’ kiangah, “Keimah in thu pia-in, ‘Aaron leh a tapate in ne ding uh hi,’ ka cih mah bangin, kikhopna buk kongah a sa huan un la, tua lai munah tua sa leh kipsakna biakna lawh sungah a om anlum ne un;
+**TDB77:** Moses in Aaron leh a tapate’ kiangah, “Keimah in thu pia-in, ‘Aaron leh a tapate in ne ding-te hi,’ ka cih mah bangin, kikhopna buk kongah a sa huan un la, tua lai munah tua sa leh kipsakna biakna lawh sungah a om anlum ne un;
 
-**ZVS:** Moses in Aaron leh a tapate kiangah, “Keimah in thu hong pia-in, ‘Aaron leh a tapate in ne ding uh hi,’ ka cih mah bangin, kikhopna buk kongah a sa huan un la, tua lai munah tua sa leh kipsakna biakna lawh sungah a om anlum ne un la,
+**ZVS:** Moses in Aaron leh a tapate kiangah, “Keimah in thu hong pia-in, ‘Aaron leh a tapate in ne ding-te hi,’ ka cih mah bangin, kikhopna buk kongah a sa huan un la, tua lai munah tua sa leh kipsakna biakna lawh sungah a om anlum ne un la,
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And that which remaineth of the flesh and of the bread shall ye burn with fire.
 
-**TDB77:** a sa leh anlum a om laite mei tawh na hal ding uh hi.
+**TDB77:** a sa leh anlum a om laite mei tawh na hal ding-te hi.
 
-**ZVS:** a sa leh anlum na khamvalte uh mei tawh na hal ding uh hi.
+**ZVS:** a sa leh anlum na khamvalte-te mei tawh na hal ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v33
 **EN:** And ye shall not go out of the door of the tabernacle of the congregation in seven days, until the days of your consecration be at an end: for seven days shall he consecrate you.
 
-**TDB77:** Note hong kikipsak nading ni sagih bei ding ahih manin, note hong kikipsakna ni a cin’ mateng, kikhopna buk kong pua-ah ni sagih sung na paikhia kei ding uh hi.
+**TDB77:** Note hong kikipsak nading ni sagih bei ding ahih manin, note hong kikipsakna ni a cin’ mateng, kikhopna buk kong pua-ah ni sagih sung na paikhia kei ding-te hi.
 
-**ZVS:** Note hong kikipsakna ding hun ni sagih sung hi ding ahih manin, note hong kikipsakna hun a cin' mateng, kikhopna bukkong pua-ah ni sagih sung na paikhia kei ding uh hi.
+**ZVS:** Note hong kikipsakna ding hun ni sagih sung hi ding ahih manin, note hong kikipsakna hun a cin' mateng, kikhopna bukkong pua-ah ni sagih sung na paikhia kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -318,18 +318,18 @@
 ### v35
 **EN:** Therefore shall ye abide at the door of the tabernacle of the congregation day and night seven days, and keep the charge of the
 
-**TDB77:** Kikhopna buk kongah ni sagih sung sun leh zan na om ding uh a, Topa’ hong sawlte na hih ding uh hi; tua hi kei leh note na si ding uh hi; bang hang hiam cih leh tua bang dingin keima tungah thu hong kipia hi,” a ci hi.
+**TDB77:** Kikhopna buk kongah ni sagih sung sun leh zan na om ding-te a, Topa’ hong sawlte na hih ding-te hi; tua hi kei leh note na si ding-te hi; bang hang hiam cih leh tua bang dingin keima tungah thu hong kipia hi,” a ci hi.
 
-**ZVS:** Kikhopna bukkongah ni sagih sung sun leh zan na om ding uh a, { Topa' } hong sawlte na hih ding uh hi. Tua hi kei leh note na si ding uh hi. Bang hang hiam cih leh tua bang dingin keima tungah thu hong kipia hi,” a ci hi.
+**ZVS:** Kikhopna bukkongah ni sagih sung sun leh zan na om ding-te a, { Topa' } hong sawlte na hih ding-te hi. Tua hi kei leh note na si ding-te hi. Bang hang hiam cih leh tua bang dingin keima tungah thu hong kipia hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v36
 **EN:** So Aaron and his sons did all things which the
 
-**TDB77:** Aaron leh a tapate in Topa in Moses tung tawnin a thupiaknate khempeuh hih uh hi.
+**TDB77:** Aaron leh a tapate in Topa in Moses tung tawnin a thupiaknate khempeuh hih-te hi.
 
-**ZVS:** Tua ahih ciangin Aaron leh a tapate in zong, { Topa } in Moses' tung tawnin a thupiakte khempeuh a hih uh hi.
+**ZVS:** Tua ahih ciangin Aaron leh a tapate in zong, { Topa } in Moses' tung tawnin a thupiakte khempeuh a hih-te hi.
 
 **Grammar:** plural: uh marker
 

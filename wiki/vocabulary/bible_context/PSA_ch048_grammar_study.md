@@ -47,27 +47,27 @@
 ### v4
 **EN:** For, lo, the kings were assembled, they passed by together.
 
-**TDB77:** Ahi zongin, en un, kumpite kikaikhawm in, hong paikhawm uh hi.
+**TDB77:** Ahi zongin, en un, kumpite kikaikhawm in, hong paikhawm-te hi.
 
-**ZVS:** Ahi zongin, kumpite kikaikhawmin, a sim dingin hong kuankhawm uh hi.
+**ZVS:** Ahi zongin, kumpite kikaikhawmin, a sim dingin hong kuankhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** They saw it, and so they marvelled; they were troubled, and hasted away.
 
-**TDB77:** Amaute in tua a muh phetun lamdang sa a, amaute dipkua vatin tai uh hi;
+**TDB77:** Amaute in tua a muh phetun lamdang sa a, amaute dipkua vatin tai-te hi;
 
-**ZVS:** Amaute in Zion a muh phetun lamdangsa mahmah uh a, dipkua vatin tai uh hi.
+**ZVS:** Amaute in Zion a muh phetun lamdangsa mahmah-te a, dipkua vatin tai-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** Fear took hold upon them there, and pain, as of a woman in travail.
 
-**TDB77:** numei nausuak na a sa bangin amaute liinggawp uh hi.
+**TDB77:** numei nausuak na a sa bangin amaute liinggawp-te hi.
 
-**ZVS:** Numei nausuak na a sa bangin amaute linggawp uh hi.
+**ZVS:** Numei nausuak na a sa bangin amaute linggawp-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -83,16 +83,16 @@
 ### v8
 **EN:** As we have heard, so have we seen in the city of the
 
-**TDB77:** Ka zaksa bangun, mi honte’ Topa’ khuapi sung, i Pasian’ khuapi sungah, Pasian in a phuh kip ngitngetsa ka mu uh hi.
+**TDB77:** Ka zaksa bangun, mi honte’ Topa’ khuapi sung, i Pasian’ khuapi sungah, Pasian in a phuh kip ngitngetsa ka mu-te hi.
 
-**ZVS:** Ka zaksa bangun Vanglian { Topa' } khuapi, i Pasian' khuapi, Pasian in a phuhkip ngitngetna ka mu khin uh hi.
+**ZVS:** Ka zaksa bangun Vanglian { Topa' } khuapi, i Pasian' khuapi, Pasian in a phuhkip ngitngetna ka mu khin-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** We have thought of thy lovingkindness, O God, in the midst of thy temple.
 
-**TDB77:** Pasian aw, na biakinn sungah nangma itna kip ka ngaihsun uh hi.
+**TDB77:** Pasian aw, na biakinn sungah nangma itna kip ka ngaihsun-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

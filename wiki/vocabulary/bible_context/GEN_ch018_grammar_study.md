@@ -60,7 +60,7 @@
 ### v5
 **EN:** And I will fetch a morsel of bread, and comfort ye your hearts; after that ye shall pass on: for therefore are ye come to your servant. And they said, So do, as thou hast said.
 
-**TDB77:** Na nasempa' kiang hong tung khin na hih buangun—na thahat kik nadingun an tawm khat ka va lak kikal sungin tui tawmkhat la sakin na khe uh sil un la, sing nuai-ah khawl un, tua khit ciangin paisuak un,” ci hi. Tua ahih ciangin amaute in, “Na cihbangin hong hih in,” ci uh hi.
+**TDB77:** Na nasempa' kiang hong tung khin na hih buangun—na thahat kik nadingun an tawm khat ka va lak kikal sungin tui tawmkhat la sakin na khe-te sil un la, sing nuai-ah khawl un, tua khit ciangin paisuak un,” ci hi. Tua ahih ciangin amaute in, “Na cihbangin hong hih in,” ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -94,9 +94,9 @@
 ### v9
 **EN:** And they said unto him, Where is Sarah thy wife? And he said, Behold, in the tent.
 
-**TDB77:** Amaute in ama' kiangah, “Na zi Sarah koi-ah om ahi hiam?” ci uh hi. Amah in, “Puanbuk sungah om hi,” ci hi.
+**TDB77:** Amaute in ama' kiangah, “Na zi Sarah koi-ah om ahi hiam?” ci-te hi. Amah in, “Puanbuk sungah om hi,” ci hi.
 
-**ZVS:** Amaute in ama kiangah, “Na zi Sarah koi-ah om ahi hiam?” a ci uh hi. Amah in, “Puanbuk sungah om hi,” a ci hi.
+**ZVS:** Amaute in ama kiangah, “Na zi Sarah koi-ah om ahi hiam?” a ci-te hi. Amah in, “Puanbuk sungah om hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -112,9 +112,9 @@
 ### v11
 **EN:** Now Abraham and Sarah were old and well stricken in age; and it ceased to be with Sarah after the manner of women.
 
-**TDB77:** Tu-in Abraham leh Sarah teek uh a, a kum uh ham hi; Sarah a numei ngeina teng tawpta hi.
+**TDB77:** Tu-in Abraham leh Sarah teek-te a, a kum-te ham hi; Sarah a numei ngeina teng tawpta hi.
 
-**ZVS:** Tu-in Abraham leh Sarah teek ta uh a, a kum uh ham hi. Sarah a numei ngeina teng tawpta hi.
+**ZVS:** Tu-in Abraham leh Sarah teek ta-te a, a kum-te ham hi. Sarah a numei ngeina teng tawpta hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -157,9 +157,9 @@
 ### v16
 **EN:** And the men rose up from thence, and looked toward Sodom: and Abraham went with them to bring them on the way.
 
-**TDB77:** Tua ciangin tua mun panin mite paikhia a, amaute in Sodom lam en uh hi; amau’ pai nading lampi-ah a kha dingin Abraham in amaute va zui hi.
+**TDB77:** Tua ciangin tua mun panin mite paikhia a, amaute in Sodom lam en-te hi; amau’ pai nading lampi-ah a kha dingin Abraham in amaute va zui hi.
 
-**ZVS:** Tua ciangin tua mun panin mite paikhia a, amaute in Sodom lam en uh hi. Amau' paina ding lampi-ah a kha dingin Abraham in amaute va zui hi.
+**ZVS:** Tua ciangin tua mun panin mite paikhia a, amaute in Sodom lam en-te hi. Amau' paina ding lampi-ah a kha dingin Abraham in amaute va zui hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -196,18 +196,18 @@
 ### v21
 **EN:** I will go down now, and see whether they have done altogether according to the cry of it, which is come unto me; and if not, I will know.
 
-**TDB77:** kei' tunga hong kigen bangin amaute gamta takpi uh hiam ci-in a thei dingin ka paisuk ding hi; tua bang ahih kei leh, ke’n ka thei ding hi,” ci hi.
+**TDB77:** kei' tunga hong kigen bangin amaute gamta takpi-te hiam ci-in a thei dingin ka paisuk ding hi; tua bang ahih kei leh, ke’n ka thei ding hi,” ci hi.
 
-**ZVS:** kei tunga hong kigen bangin amaute gamta takpi uh hiam, ci-in a thei dingin ka paisuk ding hi. Tua bang ahih kei leh zong ke'n ka va thei ding hi,” a ci hi.
+**ZVS:** kei tunga hong kigen bangin amaute gamta takpi-te hiam, ci-in a thei dingin ka paisuk ding hi. Tua bang ahih kei leh zong ke'n ka va thei ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v22
 **EN:** And the men turned their faces from thence, and went toward Sodom: but Abraham stood yet before the
 
-**TDB77:** Tua ahih ciangin tua panin mite kihei-in Sodom lamah pai uh hi; ahih hangin Topa’ mai-ah Abraham ding lai hi.
+**TDB77:** Tua ahih ciangin tua panin mite kihei-in Sodom lamah pai-te hi; ahih hangin Topa’ mai-ah Abraham ding lai hi.
 
-**ZVS:** Tua ahih ciangin tua panin mite kihei-in Sodom lamah pai uh a, ahi zongin { Topa' } mai-ah Abraham ding lai hi.
+**ZVS:** Tua ahih ciangin tua panin mite kihei-in Sodom lamah pai-te a, ahi zongin { Topa' } mai-ah Abraham ding lai hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

@@ -88,7 +88,7 @@
 ### v8
 **EN:** Let them curse it that curse the day, who are ready to raise up their mourning.
 
-**TDB77:** Phuisamna tawh gulpi a khiim thei, a mitphiat uh tawh tuipi ganhing a hencip thei mite in tua zan samsia ta hen.
+**TDB77:** Phuisamna tawh gulpi a khiim thei, a mitphiat-te tawh tuipi ganhing a hencip thei mite in tua zan samsia ta hen.
 
 **ZVS:** Phuisamna tawh awle a khiim thei, a mitphial tawh tuipi ganhing a hencip thei mite in tua zan samsia ta hen.
 
@@ -147,7 +147,7 @@
 ### v15
 **EN:** Or with princes that had gold, who filled their houses with silver:
 
-**TDB77:** a inn uh ngun leh kham tawh a kidim a hau uliante tawh han-ah ka tawlnga khin ta ding hi.
+**TDB77:** a inn-te ngun leh kham tawh a kidim a hau uliante tawh han-ah ka tawlnga khin ta ding hi.
 
 **ZVS:** ngun leh kham tawh a kidim a hau a liante tawh nuamtakin hanah ka tawlnga khinta ding hi.
 
@@ -174,9 +174,9 @@
 ### v18
 **EN:** There the prisoners rest together; they hear not the voice of the oppressor.
 
-**TDB77:** Tua lai-ah galmat salte in nopna ngah ding a, nasem ukpa’ aw za nawn lo ding uh hi.
+**TDB77:** Tua lai-ah galmat salte in nopna ngah ding a, nasem ukpa’ aw za nawn lo ding-te hi.
 
-**ZVS:** Tua lai-ah galmat salte in nopna ngah ding a, nasem ukpa' awging za nawnlo ding uh hi.
+**ZVS:** Tua lai-ah galmat salte in nopna ngah ding a, nasem ukpa' awging za nawnlo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

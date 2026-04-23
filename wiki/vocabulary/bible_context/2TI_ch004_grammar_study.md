@@ -40,7 +40,7 @@
 ### v3
 **EN:** For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;
 
-**TDB77:** Bang hang hiam cih leh, mite in thu hilhna pha mang loin, a bil uh thakin, amau deihgawhna bang thuhilh a tampi, amau ading a koih ding uh a,
+**TDB77:** Bang hang hiam cih leh, mite in thu hilhna pha mang loin, a bil-te thakin, amau deihgawhna bang thuhilh a tampi, amau ading a koih ding-te a,
 
 **ZVS:** Mite in thuman a ngaih noploh hun, amaute' deihna bek a zuihnop hun, amaute' zaknop thute bek a gen ding sia a cial thuahthuah hun hong tung ding hi.
 
@@ -49,9 +49,9 @@
 ### v4
 **EN:** And they shall turn away their ears from the truth, and shall be turned unto fables.
 
-**TDB77:** thuman thutak ngai loin, tangthu ngai-in a paikhiat hun uh a tung ding hi.
+**TDB77:** thuman thutak ngai loin, tangthu ngai-in a paikhiat hun-te a tung ding hi.
 
-**ZVS:** Amaute in thuman thutak ngainuam nawnloin tangthu phuahtawm peuh ngaihsutpi-in nei ding uh hi.
+**ZVS:** Amaute in thuman thutak ngainuam nawnloin tangthu phuahtawm peuh ngaihsutpi-in nei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -151,9 +151,9 @@
 ### v16
 **EN:** At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge.
 
-**TDB77:** Amasa-a ka kihutna thu ka gen lai takin keima lamah kuamah a om kei hi, mi khempeuh in kei hong taisan uh hi. Tua thu hangin amaute tungah mawhsakna om kei hen.
+**TDB77:** Amasa-a ka kihutna thu ka gen lai takin keima lamah kuamah a om kei hi, mi khempeuh in kei hong taisan-te hi. Tua thu hangin amaute tungah mawhsakna om kei hen.
 
-**ZVS:** Keimah kihutna ding thu ka gen masak ni-in kuamah in hong koppih loin hong taisanmang uh hi. Tua thu hangin mawhsakna thuak kei beek uh hen!
+**ZVS:** Keimah kihutna ding thu ka gen masak ni-in kuamah in hong koppih loin hong taisanmang-te hi. Tua thu hangin mawhsakna thuak kei beek-te hen!
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -192,9 +192,9 @@
 ### v21
 **EN:** Do thy diligence to come before winter. Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren.
 
-**TDB77:** Phalbi ma-in hong pai dingin na hahkat in. Eubulus, Pudens, Linas leh Klandia akipan ute naute khempeuh in nang hong hopih uh hi.
+**TDB77:** Phalbi ma-in hong pai dingin na hahkat in. Eubulus, Pudens, Linas leh Klandia akipan ute naute khempeuh in nang hong hopih-te hi.
 
-**ZVS:** Phalbi tun'ma-in nong pai theihna dingin hong hanciam in. Eubulas, Pudens, Linas, Klaudias, leh i sanggam dangte khempeuh in zong hong hopih uh hi.
+**ZVS:** Phalbi tun'ma-in nong pai theihna dingin hong hanciam in. Eubulas, Pudens, Linas, Klaudias, leh i sanggam dangte khempeuh in zong hong hopih-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 

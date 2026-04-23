@@ -95,18 +95,18 @@
 ### v10
 **EN:** The roaring of the lion, and the voice of the fierce lion, and the teeth of the young lions, are broken.
 
-**TDB77:** Humpinelkai bangin migilote hawkna dai ta a, Pasian in amau hate suktan sakin gamdai ta uh hi.
+**TDB77:** Humpinelkai bangin migilote hawkna dai ta a, Pasian in amau hate suktan sakin gamdai ta-te hi.
 
-**ZVS:** Humpinelkai hawk bangin migilote' hawkna dai ta a, Pasian in amaute' ha suktansak khin ahih manin gamdai ta uh hi.
+**ZVS:** Humpinelkai hawk bangin migilote' hawkna dai ta a, Pasian in amaute' ha suktansak khin ahih manin gamdai ta-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** The old lion perisheth for lack of prey, and the stout lion's whelps are scattered abroad.
 
-**TDB77:** An nek ding mu loin a thahat humpinelkai bangin si uh a, a tate uh kithehthang hi.
+**TDB77:** An nek ding mu loin a thahat humpinelkai bangin si-te a, a tate-te kithehthang hi.
 
-**ZVS:** Annek ding a mulo a thahat humpinelkai bangin amaute simang khin uh a, a tate uh kithehthang hi.
+**ZVS:** Annek ding a mulo a thahat humpinelkai bangin amaute simang khin-te a, a tate-te kithehthang hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

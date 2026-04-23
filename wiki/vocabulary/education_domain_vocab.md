@@ -127,7 +127,7 @@ kimawlna ii panlakna thupi ahihlam ciamteh hi
 
 ### `a...uh` (3rd person plural)
 ```
-sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna uh tawh pilsin uh hi
+sangnaupangte in amau' kimlepam ah kihelin khiatna a sehna-te tawh pilsin-te hi
 = students learn through engaging their curiosity in their own environment
 ```
 
@@ -154,7 +154,7 @@ Kimawl-bulphuh laisinna pen Tan Lang sangnaupang leh phungpi sangnaupang tan a t
 = Play-based learning is one of the most effective teaching approaches for kindergarten and lower primary school students.
 
 ```zolai
-Naupangte a kimawl uh ciangin amaute pen khantoh nading a panpih amau' sunmang lungngaihna sungah omkha-in a lauhuaite zong nawkkha-in vaibuai phelzia zong sinkha uh hi.
+Naupangte a kimawl-te ciangin amaute pen khantoh nading a panpih amau' sunmang lungngaihna sungah omkha-in a lauhuaite zong nawkkha-in vaibuai phelzia zong sinkha-te hi.
 ```
 = When children play, they are supported in their development within their own imagination, overcoming fears and learning to solve problems.
 

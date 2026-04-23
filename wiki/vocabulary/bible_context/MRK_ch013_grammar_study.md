@@ -24,7 +24,7 @@
 ### v1
 **EN:** And as he went out of the temple, one of his disciples saith unto him, Master, see what manner of stones and what buildings are here!
 
-**TDB77:** Zeisu in biakna innpi pan a paikhiat lai takin a nungzuite in, “Topa aw en in, bangzah lamdang suangte leh bangzah lamdang innte ahi uh hiam?” ci-in a gen uh ciangin,
+**TDB77:** Zeisu in biakna innpi pan a paikhiat lai takin a nungzuite in, “Topa aw en in, bangzah lamdang suangte leh bangzah lamdang innte ahi-te hiam?” ci-in a gen-te ciangin,
 
 **ZVS:** Biakinn panin Jesuh a pusuah laitakin a nungzuite khat in, “Sia aw, hih biakinnte bangzah takin lian a, a suangte bangzah takin gol ahi hiam?” a ci hi.
 
@@ -33,7 +33,7 @@
 ### v2
 **EN:** And Jesus answering said unto him,
 
-**TDB77:** Zeisu in, “Hih a lian mahmah innte na mu uh hiam? A kiphelkhia loin suang khat tungah suang kiciang khat beek a om kei ding hi,” a ci hi.
+**TDB77:** Zeisu in, “Hih a lian mahmah innte na mu-te hiam? A kiphelkhia loin suang khat tungah suang kiciang khat beek a om kei ding hi,” a ci hi.
 
 **ZVS:** Jesuh in, “Hih innte liansa-in thupi na sa mahmah hi. Ahi zongin hih innte lamna-a a kiciang suangte nih bek nangawn a kithuapna a omlo zah dongin a kiphelkek gawp hun hong tung ding hi,” ci-in a dawng hi.
 
@@ -49,9 +49,9 @@
 ### v4
 **EN:** Tell us, when shall these things be? and what shall be the sign when all these things shall be fulfilled?
 
-**TDB77:** “Tua thute in cik cianga hong piang ding hiam? A pian’ nading a naih ciangin bang lim hong piang ding ci-in hong hilh in,” ci-in a sim dot uh hi.
+**TDB77:** “Tua thute in cik cianga hong piang ding hiam? A pian’ nading a naih ciangin bang lim hong piang ding ci-in hong hilh in,” ci-in a sim dot-te hi.
 
-**ZVS:** “Hih na thugen cik ciangin hong tung ding a, hih na thugente khempeuh hong tun'ding ciangin bang lim hong om ding ahi hiam?” ci-in a dong uh hi.
+**ZVS:** “Hih na thugen cik ciangin hong tung ding a, hih na thugente khempeuh hong tun'ding ciangin bang lim hong om ding ahi hiam?” ci-in a dong-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 

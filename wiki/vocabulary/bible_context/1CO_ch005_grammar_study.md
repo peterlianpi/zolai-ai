@@ -27,16 +27,16 @@
 
 **TDB77:** Numei tawh mawhna tham lo a pa’ zi, zi-a a nei Gentailte lak nangawn ah a kiza ngei lo mawhna, note lakah a om thu a kithang zo hi.
 
-**ZVS:** Note lakah numei tawh paktatna nasia mahmahin, lawkite nangawn a gamtatlohte na gamtatna uh hong kigen a, mi khat in ama nukik nangawn a luppihna thu ka za hi.
+**ZVS:** Note lakah numei tawh paktatna nasia mahmahin, lawkite nangawn a gamtatlohte na gamtatna-te hong kigen a, mi khat in ama nukik nangawn a luppihna thu ka za hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v2
 **EN:** And ye are puffed up, and have not rather mourned, that he that hath done this deed might be taken away from among you.
 
-**TDB77:** Tua banga gamtate note lakah na hawlkhiat nadingun, lungsim dahna na neih loh uh tham loin, na kisathei uh hi.
+**TDB77:** Tua banga gamtate note lakah na hawlkhiat nadingun, lungsim dahna na neih loh-te tham loin, na kisathei-te hi.
 
-**ZVS:** Tua bang kimlai bangci kisaktheih ding na hi uh hiam? Note na dah mahmah ding uh hizaw a, tua bang mite pen note lak panin na hepkhiat ding uh ahi hi.
+**ZVS:** Tua bang kimlai bangci kisaktheih ding na hi-te hiam? Note na dah mahmah ding-te hizaw a, tua bang mite pen note lak panin na hepkhiat ding-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -52,9 +52,9 @@
 ### v4
 **EN:** In the name of our Lord Jesus Christ, when ye are gathered together, and my spirit, with the power of our Lord Jesus Christ,
 
-**TDB77:** Ka thukhenna in i Topa Zeisu’ min tawh note in keima kha tawh na kikhop uh ciangin, i Topa Zeisu’ vangliatna suangin,
+**TDB77:** Ka thukhenna in i Topa Zeisu’ min tawh note in keima kha tawh na kikhop-te ciangin, i Topa Zeisu’ vangliatna suangin,
 
-**ZVS:** Note na kikhop khawm uh ciangin i Topa Jesuh Khrih vangliatna in eite hong ompih ahih manin, note tawh ka lungsimin ka hong omkhawm hi.
+**ZVS:** Note na kikhop khawm-te ciangin i Topa Jesuh Khrih vangliatna in eite hong ompih ahih manin, note tawh ka lungsimin ka hong omkhawm hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -70,18 +70,18 @@
 ### v6
 **EN:** Your glorying is not good. Know ye not that a little leaven leaveneth the whole lump?
 
-**TDB77:** Na kisaktheihna uh a hoih kei hi. Silngo tawmkha in annel sial lom khat a tawksak ding thei lo na hi uh hiam?
+**TDB77:** Na kisaktheihna-te a hoih kei hi. Silngo tawmkha in annel sial lom khat a tawksak ding thei lo na hi-te hiam?
 
-**ZVS:** Note lakah hih bang gamtatna om napi-in na kisaktheih uh dahhuai mahmah hi. Silngo themkhat in annel lompi a pawmsak theih lamtak theilo na hi uh hiam?
+**ZVS:** Note lakah hih bang gamtatna om napi-in na kisaktheih-te dahhuai mahmah hi. Silngo themkhat in annel lompi a pawmsak theih lamtak theilo na hi-te hiam?
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Purge out therefore the old leaven, that ye may be a new lump, as ye are unleavened. For even Christ our passover is sacrificed for us:
 
-**TDB77:** Note in silngo tawh na kipelh mah bangun annel sial thak na suah theih nadingun silngo lui na mangsak khin un. Bang hang hiam na cih uh leh, Khazih ahi eite Paisan’ Tuuno a kigo zo hi.
+**TDB77:** Note in silngo tawh na kipelh mah bangun annel sial thak na suah theih nadingun silngo lui na mangsak khin un. Bang hang hiam na cih-te leh, Khazih ahi eite Paisan’ Tuuno a kigo zo hi.
 
-**ZVS:** Note na siangtho theihna dingun mawhna silngo luite na paikhia un. Tua hi leh silngo sawhloh annel lom thak na hi ding uh a, zong ahi takpi mah na hi uh hi. Bang hang hiam ci leh i Paisan Pawi hun hong tungta a, eite' Paisan Tuuno ahi Khrih kigo khinzo ta hi.
+**ZVS:** Note na siangtho theihna dingun mawhna silngo luite na paikhia un. Tua hi leh silngo sawhloh annel lom thak na hi ding-te a, zong ahi takpi mah na hi-te hi. Bang hang hiam ci leh i Paisan Pawi hun hong tungta a, eite' Paisan Tuuno ahi Khrih kigo khinzo ta hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -99,14 +99,14 @@
 
 **TDB77:** Numei tawh a mawhte tawh na kikholh loh nadingun tu ma-in lai sungah ka gelh zo hi.
 
-**ZVS:** Lai ka hong gelhna sungah, numei tawh a paktat mite tawh na kikholhlohna ding uh ka hong gen hi.
+**ZVS:** Lai ka hong gelhna sungah, numei tawh a paktat mite tawh na kikholhlohna ding-te ka hong gen hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v10
 **EN:** Yet not altogether with the fornicators of this world, or with the covetous, or extortioners, or with idolaters; for then must ye needs go out of the world.
 
-**TDB77:** Tua bang ka gelhna in hih leitung numei tawh mawhte, huaiham-a duhhopte, zawhthawh bawla a sutte leh milim a biate tawh kikhawl peuhmah kei un ka cihnopna ahi kei hi. Tua bang ci leng leitung pan na paikhia ding uh hi!
+**TDB77:** Tua bang ka gelhna in hih leitung numei tawh mawhte, huaiham-a duhhopte, zawhthawh bawla a sutte leh milim a biate tawh kikhawl peuhmah kei un ka cihnopna ahi kei hi. Tua bang ci leng leitung pan na paikhia ding-te hi!
 
 **ZVS:** Tua bang ka hong cih ciangin numei tawh a paktat, a huaiham, a guta, milim a bia lawkite tawh na kikhawl kei un, ka cihnopna hilo hi. Tuate tawh kikhawllo ding ci lehang, leitung panin paikhia un, cihna suak ding hi.
 
@@ -124,7 +124,7 @@
 ### v12
 **EN:** For what have I to do to judge them also that are without? do not ye judge them that are within?
 
-**TDB77:** Bang hang hiam na cih uh leh, a pualam mite thukhenna tawh bang kikum ka hi hiam? A sung lamah a om note in thukhen hilo na hi uh hiam?
+**TDB77:** Bang hang hiam na cih-te leh, a pualam mite thukhenna tawh bang kikum ka hi hiam? A sung lamah a om note in thukhen hilo na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -133,7 +133,7 @@
 
 **TDB77:** A pua lamah a omte Pasian in thu a khen ding hi. Tua a gilopa note lak pan na hawlkhia un.
 
-**ZVS:** Tua bang a pualam mite mawhsakin thu ka khen ding kei' nasep hilo hi. Pasian in amaute' thu khen ngawn ding hi. Ahi zongin note in na pawlpih uh mite tungah thu na khen ding uh ahi hi. Lai Siangtho in, “Note lak panin migilopa na lakhia un,” na ci hi.
+**ZVS:** Tua bang a pualam mite mawhsakin thu ka khen ding kei' nasep hilo hi. Pasian in amaute' thu khen ngawn ding hi. Ahi zongin note in na pawlpih-te mite tungah thu na khen ding-te ahi hi. Lai Siangtho in, “Note lak panin migilopa na lakhia un,” na ci hi.
 
 **Grammar:** future: will
 

@@ -27,18 +27,18 @@
 ### v1
 **EN:** Now therefore hearken, O Israel, unto the statutes and unto the judgments, which I teach you, for to do them, that ye may live, and go in and possess the land which the
 
-**TDB77:** “Tu-in, Israelte aw, note nungta-in Topa, na pate uh Pasian in note hong piak leitangah va pai-in na luah theih nadingun note kong hilh thukhamte leh ngeina kipte don un la, zui un.
+**TDB77:** “Tu-in, Israelte aw, note nungta-in Topa, na pate-te Pasian in note hong piak leitangah va pai-in na luah theih nadingun note kong hilh thukhamte leh ngeina kipte don un la, zui un.
 
-**ZVS:** “Tu-in Israel-te aw, note nungta-in, { Topa, } na pate uh Pasian in note hong piak leitangah va pai-in na luah theihna dingun note kong hilh thukhamte leh ngeina kipte don un la zui un.
+**ZVS:** “Tu-in Israel-te aw, note nungta-in, { Topa, } na pate-te Pasian in note hong piak leitangah va pai-in na luah theihna dingun note kong hilh thukhamte leh ngeina kipte don un la zui un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v2
 **EN:** Ye shall not add unto the word which I command you, neither shall ye diminish ought from it, that ye may keep the commandments of the
 
-**TDB77:** Topa na Pasian un hong piak ahi keima hong thugente na zuih theih nadingun no kong thupiakte behlap loin, zong na khiam kei ding uh hi.
+**TDB77:** Topa na Pasian un hong piak ahi keima hong thugente na zuih theih nadingun no kong thupiakte behlap loin, zong na khiam kei ding-te hi.
 
-**ZVS:** { Topa } na Pasian un hong piak ahi keima hong thugente na zuih theihna dingun no kong thupiakte behlap loin, zong na khiam kei ding uh hi.
+**ZVS:** { Topa } na Pasian un hong piak ahi keima hong thugente na zuih theihna dingun no kong thupiakte behlap loin, zong na khiam kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -54,9 +54,9 @@
 ### v4
 **EN:** But ye that did cleave unto the
 
-**TDB77:** ahih hangin Topa na Pasian uh a lenkipte khempeuh tu ni-in na hing lai uh hi.
+**TDB77:** ahih hangin Topa na Pasian-te a lenkipte khempeuh tu ni-in na hing lai-te hi.
 
-**ZVS:** ahih hangin { Topa } na Pasian uh a lenkipte khempeuh tuni-in na hinglai uh hi.
+**ZVS:** ahih hangin { Topa } na Pasian-te a lenkipte khempeuh tuni-in na hinglai-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -65,16 +65,16 @@
 
 **TDB77:** En un, note in luah dingin na lutna gam sungah na zuih dingun Topa ka Pasian in kei hong thupiak bangin thukhamte leh ngeina kipte kong hilh khin zo hi.
 
-**ZVS:** “En un, note in a luah dingin na lutna uh gam sungah na zuih dingun { Topa } ka Pasian in kei hong thupiak bangin thukhamte leh ngeina kipte kong hilh khinzo hi.
+**ZVS:** “En un, note in a luah dingin na lutna-te gam sungah na zuih dingun { Topa } ka Pasian in kei hong thupiak bangin thukhamte leh ngeina kipte kong hilh khinzo hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v6
 **EN:** Keep therefore and do them; for this is your wisdom and your understanding in the sight of the nations, which shall hear all these statutes, and say, Surely this great nation is a wise and understanding people.
 
-**TDB77:** Tuate zui un la, sem un; bang hang hiam cih leh hih thukhamte khempeuh a zak uh ciangin, ‘Hih minam liante in a pil thu thei mi taktak hi,’ a ci ding uh mite’ muhna ah hih thu nomau pilna leh nomau thu theihna hi ding hi.
+**TDB77:** Tuate zui un la, sem un; bang hang hiam cih leh hih thukhamte khempeuh a zak-te ciangin, ‘Hih minam liante in a pil thu thei mi taktak hi,’ a ci ding-te mite’ muhna ah hih thu nomau pilna leh nomau thu theihna hi ding hi.
 
-**ZVS:** Tuate zui un la, sem un; bang hang hiam cih leh hih thukhamte khempeuh a zak uh ciangin, ‘Hih minam liante pen a pil thuthei taktak hi,’ a ci ding uh mite' muhna-ah hih thu pen nomau' pilna leh nomau' theihna hi ding hi.
+**ZVS:** Tuate zui un la, sem un; bang hang hiam cih leh hih thukhamte khempeuh a zak-te ciangin, ‘Hih minam liante pen a pil thuthei taktak hi,’ a ci ding-te mite' muhna-ah hih thu pen nomau' pilna leh nomau' theihna hi ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -104,27 +104,27 @@
 ### v10
 **EN:** Specially the day that thou stoodest before the
 
-**TDB77:** “Na mit un a muhsa nate na nuntak sungun mangngilh kha-in, na lungsim panun paikhia kha ding ahih manin lim takin ngaihsunin hoih takin kikem un; Horeb a, Topa na Pasian uh mai-ah na din’ ni-un Topa in kei kiangah, ‘Leitungah a nuntak lai teng uh amaute in kei hong kihtak nading leh amaute in a tate uh a hilh sawn theih nadingun keimah in amaute tungah ka thute ka zaksak theih nadingin ka kiangah mite hong khawm in,’ hong cihna thu, na tate uh leh na tate’ tate uh tungah kithei sak un.
+**TDB77:** “Na mit un a muhsa nate na nuntak sungun mangngilh kha-in, na lungsim panun paikhia kha ding ahih manin lim takin ngaihsunin hoih takin kikem un; Horeb a, Topa na Pasian-te mai-ah na din’ ni-un Topa in kei kiangah, ‘Leitungah a nuntak lai teng-te amaute in kei hong kihtak nading leh amaute in a tate-te a hilh sawn theih nadingun keimah in amaute tungah ka thute ka zaksak theih nadingin ka kiangah mite hong khawm in,’ hong cihna thu, na tate-te leh na tate’ tate-te tungah kithei sak un.
 
-**ZVS:** “Na mit un a muhsa nate na nuntak sungun mangngilh kha-in, na lungsim panun paikhia khading ahih manin limtakin ngaihsunin hoihtakin kikem un. Horeb-a { Topa } na Pasian uh mai-ah na din' ni-un { Topa } in kei kiangah, ‘Leitungah a nuntak laiteng uh amaute in kei hong kihtakna ding leh amaute in a tate uh a hilhsawn theihna dingun keimah in amaute tungah ka thute ka zaksak theihna dingin ka kiangah mite hong khawm in,’ hong cihna thu, na tate uh leh na tate uh tate' tungah kitheisak un.
+**ZVS:** “Na mit un a muhsa nate na nuntak sungun mangngilh kha-in, na lungsim panun paikhia khading ahih manin limtakin ngaihsunin hoihtakin kikem un. Horeb-a { Topa } na Pasian-te mai-ah na din' ni-un { Topa } in kei kiangah, ‘Leitungah a nuntak laiteng-te amaute in kei hong kihtakna ding leh amaute in a tate-te a hilhsawn theihna dingun keimah in amaute tungah ka thute ka zaksak theihna dingin ka kiangah mite hong khawm in,’ hong cihna thu, na tate-te leh na tate-te tate' tungah kitheisak un.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And ye came near and stood under the mountain; and the mountain burned with fire unto the midst of heaven, with darkness, clouds, and thick darkness.
 
-**TDB77:** Mei in mual kang-in van laizang dong banto-in, khuamial leh meii leh khuaziing in a tuamcip lai takin note a nai-ah hong pai-in mual bul-ah na ding uh hi.
+**TDB77:** Mei in mual kang-in van laizang dong banto-in, khuamial leh meii leh khuaziing in a tuamcip lai takin note a nai-ah hong pai-in mual bul-ah na ding-te hi.
 
-**ZVS:** “Mei in mual kangin van laizang dong banto-in, khuamial leh meii leh khuazing in a tuamcip laitakin note a nai-ah hong pai-in mual bulah na ding uh hi.
+**ZVS:** “Mei in mual kangin van laizang dong banto-in, khuamial leh meii leh khuazing in a tuamcip laitakin note a nai-ah hong pai-in mual bulah na ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v12
 **EN:** And the
 
-**TDB77:** Tua ciangin mei sung panin Topa in note kiangah thu hong gen hi; note in awging na za uh a, ahih hangin bangmah na mu kei uh hi; awging bek om hi.
+**TDB77:** Tua ciangin mei sung panin Topa in note kiangah thu hong gen hi; note in awging na za-te a, ahih hangin bangmah na mu kei-te hi; awging bek om hi.
 
-**ZVS:** Tua ciangin mei sung panin { Topa } in note' kiangah thu hong gen hi. Note in awging na za uh a, ahih hangin bangmah muloin, awging bek a om hi.
+**ZVS:** Tua ciangin mei sung panin { Topa } in note' kiangah thu hong gen hi. Note in awging na za-te a, ahih hangin bangmah muloin, awging bek a om hi.
 
 **Grammar:** sequence: then/therefore | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -138,16 +138,16 @@
 ### v14
 **EN:** And the
 
-**TDB77:** Note in na luah ding uh gam sungah na zuih theih nadingun, thukhamte leh ngeina kipte note kong hilh nading tua hun lai takin Topa in kei thu hong pia hi.
+**TDB77:** Note in na luah ding-te gam sungah na zuih theih nadingun, thukhamte leh ngeina kipte note kong hilh nading tua hun lai takin Topa in kei thu hong pia hi.
 
-**ZVS:** Note in na luah ding uh gam sungah na zuih theihna dingun, thukhamte leh ngeina kipte note kong hilhna ding tua hun laitakin { Topa } in kei thu hong pia hi.
+**ZVS:** Note in na luah ding-te gam sungah na zuih theihna dingun, thukhamte leh ngeina kipte note kong hilhna ding tua hun laitakin { Topa } in kei thu hong pia hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Take ye therefore good heed unto yourselves; for ye saw no manner of similitude on the day that the
 
-**TDB77:** “Tua ahih ciangin note hoih takin kidawm un. Horeb ah mei sung panin Topa in note tungah thu hong gen ni-in bangmah mu lo na hih uh manin,
+**TDB77:** “Tua ahih ciangin note hoih takin kidawm un. Horeb ah mei sung panin Topa in note tungah thu hong gen ni-in bangmah mu lo na hih-te manin,
 
 **ZVS:** “Tua ahih ciangin note hoihtakin kidawm un. Horeb-ah mei sung panin { Topa } in note' tungah thu hong gen ni-in bangmah mulo na hih manun,
 
@@ -183,9 +183,9 @@
 ### v19
 **EN:** And lest thou lift up thine eyes unto heaven, and when thou seest the sun, and the moon, and the stars, even all the host of heaven, shouldest be driven to worship them, and serve them, which the
 
-**TDB77:** Note in na mit uh tawh vantung lam en to-in, ni leh kha leh aksite, vantung na khempeuh na muh uh ciangin, vantung nuai khempeuh a, mite tungah Topa na Pasian un a piak nate lamah kihei-in tuate bia-in a na na sep khak ding uh kidawm un.
+**TDB77:** Note in na mit-te tawh vantung lam en to-in, ni leh kha leh aksite, vantung na khempeuh na muh-te ciangin, vantung nuai khempeuh a, mite tungah Topa na Pasian un a piak nate lamah kihei-in tuate bia-in a na na sep khak ding-te kidawm un.
 
-**ZVS:** Note in na mit uh tawh vantung lam ento-in, ni leh kha leh aksite, vantung na khempeuh na muh uh ciangin, mun khempeuha mite' tungah { Topa } na Pasian un a piak nate' lamah kihei-in tuate bia-in a na na sep khaklohna ding uh kidawm un.
+**ZVS:** Note in na mit-te tawh vantung lam ento-in, ni leh kha leh aksite, vantung na khempeuh na muh-te ciangin, mun khempeuha mite' tungah { Topa } na Pasian un a piak nate' lamah kihei-in tuate bia-in a na na sep khaklohna ding-te kidawm un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -210,9 +210,9 @@
 ### v22
 **EN:** But I must die in this land, I must not go over Jordan: but ye shall go over, and possess that good land.
 
-**TDB77:** Hih gamah kei ka si ding a, Jordan khengin ka pai thei kei ding hi: ahih hangin note in kantanin, tua gam hoih na luah ding uh hi.
+**TDB77:** Hih gamah kei ka si ding a, Jordan khengin ka pai thei kei ding hi: ahih hangin note in kantanin, tua gam hoih na luah ding-te hi.
 
-**ZVS:** Hih gamah kei ka si ding a, Jordan khengin ka pai thei kei ding hi. Ahih hangin note in kantanin tua gam hoih na luah ding uh hi.
+**ZVS:** Hih gamah kei ka si ding a, Jordan khengin ka pai thei kei ding hi. Ahih hangin note in kantanin tua gam hoih na luah ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -230,70 +230,70 @@
 
 **TDB77:** Bang hang hiam cih leh Topa na Pasian un hong kangtum thei mei tawh kibang a, a haza Pasian ahi hi.
 
-**ZVS:** Bang hang hiam cih leh { Topa } na Pasian uh hong kangtum thei mei tawh kibang a, a haza Pasian ahi hi.
+**ZVS:** Bang hang hiam cih leh { Topa } na Pasian-te hong kangtum thei mei tawh kibang a, a haza Pasian ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v25
 **EN:** When thou shalt beget children, and children's children, and ye shall have remained long in the land, and shall corrupt yourselves, and make a graven image, or the likeness of any thing, and shall do evil in the sight of the
 
-**TDB77:** “Note in tu leh ta nei-in gam sungah mi khangham na suah uh ciangin, na khatpeuh peuh tawh a kibang lim-in a kiseek milim bawlna leh Topa na Pasian uh muhna ah a sia bawlna tawh amah a hehsak dingin na siat gamtat uh leh,
+**TDB77:** “Note in tu leh ta nei-in gam sungah mi khangham na suah-te ciangin, na khatpeuh peuh tawh a kibang lim-in a kiseek milim bawlna leh Topa na Pasian-te muhna ah a sia bawlna tawh amah a hehsak dingin na siat gamtat-te leh,
 
-**ZVS:** “Note in tuleta nei-in gamsungah mi khangham na suah uh ciangin, na khat peuhpeuh tawh a kibang limin a kiseek milim bawlna leh { Topa } na Pasian uh' muhna-ah a sia bawlna tawh amah a hehna dingin na siat gamtat uh leh,
+**ZVS:** “Note in tuleta nei-in gamsungah mi khangham na suah-te ciangin, na khat peuhpeuh tawh a kibang limin a kiseek milim bawlna leh { Topa } na Pasian uh' muhna-ah a sia bawlna tawh amah a hehna dingin na siat gamtat-te leh,
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v26
 **EN:** I call heaven and earth to witness against you this day, that ye shall soon utterly perish from off the land whereunto ye go over Jordan to possess it; ye shall not prolong your days upon it, but shall utterly be destroyed.
 
-**TDB77:** Jordan gal khat luah dingin na paina leitang uhah na siat maimang baih nadingun note langkhatah teci pang dingin tu ni-in van leh lei ka sam hi; tua leitang tungah note sauvei na hing kei ding uh a, na sia maimang ding uh hi.
+**TDB77:** Jordan gal khat luah dingin na paina leitang uhah na siat maimang baih nadingun note langkhatah teci pang dingin tu ni-in van leh lei ka sam hi; tua leitang tungah note sauvei na hing kei ding-te a, na sia maimang ding-te hi.
 
-**ZVS:** Jordan galkhat luah dingin na paina leitang uhah na siat maimang baihna dingun note' langkhatah teci pang dingin tuni-in van leh lei ka sam hi. Tua leitang tungah note sauvei na hing kei ding uh a, na siamaimang ding uh hi.
+**ZVS:** Jordan galkhat luah dingin na paina leitang uhah na siat maimang baihna dingun note' langkhatah teci pang dingin tuni-in van leh lei ka sam hi. Tua leitang tungah note sauvei na hing kei ding-te a, na siamaimang ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | plural: uh marker
 
 ### v27
 **EN:** And the
 
-**TDB77:** Topa in mite lakah note hong thehthang ding a, Topa in note hong hawlna minamte lakah mi tawmcik bek na om lai ding uh hi.
+**TDB77:** Topa in mite lakah note hong thehthang ding a, Topa in note hong hawlna minamte lakah mi tawmcik bek na om lai ding-te hi.
 
-**ZVS:** { Topa } in mite lakah note hong thehthang ding a, { Topa } in note hong hawlna minamte lakah mi tawmcik bek na omlai ding uh hi.
+**ZVS:** { Topa } in mite lakah note hong thehthang ding a, { Topa } in note hong hawlna minamte lakah mi tawmcik bek na omlai ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v28
 **EN:** And there ye shall serve gods, the work of men's hands, wood and stone, which neither see, nor hear, nor eat, nor smell.
 
-**TDB77:** Note in tua lai munah mite’ khut in a bawl, khua mu thei lo, khua za thei lo, a ne thei lo, a nam thei lo sing leh suang pasiante’ na na sem ding uh hi.
+**TDB77:** Note in tua lai munah mite’ khut in a bawl, khua mu thei lo, khua za thei lo, a ne thei lo, a nam thei lo sing leh suang pasiante’ na na sem ding-te hi.
 
-**ZVS:** Note in tua lai munah mite' khut in a bawl, khua mu theilo, khua za theilo, a ne theilo, a nam theilo sing leh suang pasian-te' na na sem ding uh hi.
+**ZVS:** Note in tua lai munah mite' khut in a bawl, khua mu theilo, khua za theilo, a ne theilo, a nam theilo sing leh suang pasian-te' na na sem ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v29
 **EN:** But if from thence thou shalt seek the
 
-**TDB77:** Ahih hangin tua lai panin Topa na Pasian uh na zong ding uh a, na lungsim khempeuh uh leh, na nuntakna khempeuh uh tawh na zon’ uh leh amah na mu ding uh hi.
+**TDB77:** Ahih hangin tua lai panin Topa na Pasian-te na zong ding-te a, na lungsim khempeuh-te leh, na nuntakna khempeuh-te tawh na zon’ uh leh amah na mu ding-te hi.
 
-**ZVS:** Ahih hangin tua lai panin { Topa } na Pasian uh na zong ding uh a, na lungsim khempeuh uh leh na nuntakna khempeuh uh tawh na zon' uh leh amah na mu ding uh hi.
+**ZVS:** Ahih hangin tua lai panin { Topa } na Pasian-te na zong ding-te a, na lungsim khempeuh-te leh na nuntakna khempeuh-te tawh na zon' uh leh amah na mu ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v30
 **EN:** When thou art in tribulation, and all these things are come upon thee, even in the latter days, if thou turn to the
 
-**TDB77:** Note in gimna thuakin, mai lam hunah hih nate khempeuh no tungah hong tun’ ciangin, Topa na Pasian uh lamah kihei-in ama thu na mang ding uh hi,
+**TDB77:** Note in gimna thuakin, mai lam hunah hih nate khempeuh no tungah hong tun’ ciangin, Topa na Pasian-te lamah kihei-in ama thu na mang ding-te hi,
 
-**ZVS:** Note in gimna thuakin, mailam hunah hih nate khempeuh note' tungah hong tun' ciangin, { Topa } na Pasian uh lamah kihei-in ama thu na mang ding uh hi.
+**ZVS:** Note in gimna thuakin, mailam hunah hih nate khempeuh note' tungah hong tun' ciangin, { Topa } na Pasian-te lamah kihei-in ama thu na mang ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** (For the
 
-**TDB77:** bang hang hiam cih leh Topa na Pasian un hehpihna a nei Pasian ahi hi; amah in note hong tamasak lo ding hi, hong susia lo ding hi, na pate uh tawh a thuciamna mangngilh lo ding hi.
+**TDB77:** bang hang hiam cih leh Topa na Pasian un hehpihna a nei Pasian ahi hi; amah in note hong tamasak lo ding hi, hong susia lo ding hi, na pate-te tawh a thuciamna mangngilh lo ding hi.
 
-**ZVS:** Bang hang hiam cih leh { Topa } na Pasian uh hehpihna a nei Pasian ahi hi. Amah in note hong tamasak loin, hong nusialo ding a, na pate uh tawh a thuciamna mangngilhlo ding hi.
+**ZVS:** Bang hang hiam cih leh { Topa } na Pasian-te hehpihna a nei Pasian ahi hi. Amah in note hong tamasak loin, hong nusialo ding a, na pate-te tawh a thuciamna mangngilhlo ding hi.
 
 **Grammar:** future: will
 
@@ -309,9 +309,9 @@
 ### v33
 **EN:** Did ever people hear the voice of God speaking out of the midst of the fire, as thou hast heard, and live?
 
-**TDB77:** Note in Pasian’ aw za khin napi-in na hin’ lai uh bangin meikuang sung panin pasian’ pauna aw mi khatpeuh peuh in za ngei ahi hiam?
+**TDB77:** Note in Pasian’ aw za khin napi-in na hin’ lai-te bangin meikuang sung panin pasian’ pauna aw mi khatpeuh peuh in za ngei ahi hiam?
 
-**ZVS:** Note in Pasian' aw za khin napi-in na hin' lai uh bangin meikuang sung panin pasian dang khat peuhpeuh' pauna aw mi khat peuhpeuh in za ngei ahi hiam?
+**ZVS:** Note in Pasian' aw za khin napi-in na hin' lai-te bangin meikuang sung panin pasian dang khat peuhpeuh' pauna aw mi khat peuhpeuh in za ngei ahi hiam?
 
 **Grammar:** serial verb: -in (and then)
 
@@ -336,25 +336,25 @@
 ### v36
 **EN:** Out of heaven he made thee to hear his voice, that he might instruct thee: and upon earth he shewed thee his great fire; and thou heardest his words out of the midst of the fire.
 
-**TDB77:** Amah in note hong khal theih nadingin vantung panin ama aw note hong za sak hi; a mei lianpi note leitungah hong mu sak a, mei sung panin ama kam na za uh hi.
+**TDB77:** Amah in note hong khal theih nadingin vantung panin ama aw note hong za sak hi; a mei lianpi note leitungah hong mu sak a, mei sung panin ama kam na za-te hi.
 
-**ZVS:** Amah in note hong khal theihna dingin vantung panin ama aw note hong zasak hi. A mei lianpi leitungah note hong musak a, mei sung panin ama aw na za uh hi.
+**ZVS:** Amah in note hong khal theihna dingin vantung panin ama aw note hong zasak hi. A mei lianpi leitungah note hong musak a, mei sung panin ama aw na za-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v37
 **EN:** And because he loved thy fathers, therefore he chose their seed after them, and brought thee out in his sight with his mighty power out of Egypt;
 
-**TDB77:** Amah in na pate uh itin, amau suan leh khakte hong tel a, amahmah in ama vanglian tawh Izipt panin note hong paikhiatpih a,
+**TDB77:** Amah in na pate-te itin, amau suan leh khakte hong tel a, amahmah in ama vanglian tawh Izipt panin note hong paikhiatpih a,
 
-**ZVS:** Amah in na pate uh itin, amau' suanlekhakte hong teel a, amahmah in ama vanglian tawh Egypt panin note hong paikhiatpih a,
+**ZVS:** Amah in na pate-te itin, amau' suanlekhakte hong teel a, amahmah in ama vanglian tawh Egypt panin note hong paikhiatpih a,
 
 ### v38
 **EN:** To drive out nations from before thee greater and mightier than thou art, to bring thee in, to give thee their land for an inheritance, as it is this day.
 
-**TDB77:** note sangin a tamzaw leh a vanglian zawte’ gamah hong paipihin, note’ luah dingin amau’ leitang hong piak nadingin note mai-ah amaute hong hawlkhiat sak ahih manin tu ni-in hih bangin na om thei uh hi;
+**TDB77:** note sangin a tamzaw leh a vanglian zawte’ gamah hong paipihin, note’ luah dingin amau’ leitang hong piak nadingin note mai-ah amaute hong hawlkhiat sak ahih manin tu ni-in hih bangin na om thei-te hi;
 
-**ZVS:** note sangin a tamzaw leh a vanglian zawte' gamah hong paipihin, note' luah dingin amau' leitang hong piakna dingin note' mai-ah amaute hong hawlkhiatsak ahih manin tuni-in hih bangin na om thei uh hi.
+**ZVS:** note sangin a tamzaw leh a vanglian zawte' gamah hong paipihin, note' luah dingin amau' leitang hong piakna dingin note' mai-ah amaute hong hawlkhiatsak ahih manin tuni-in hih bangin na om thei-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | causal: because | plural: uh marker
 
@@ -370,9 +370,9 @@
 ### v40
 **EN:** Thou shalt keep therefore his statutes, and his commandments, which I command thee this day, that it may go well with thee, and with thy children after thee, and that thou mayest prolong thy days upon the earth, which the
 
-**TDB77:** Tua ahih ciangin note leh note khit-a na tate uh tungah thu hong nuamin, Topa na Pasian un a tawntung a, hong piak gam sungah na khan’ uh na sausak theih nadingun tu ni-a note kiangah kong gen ahi ama thukhamte leh a thupiaknate na zui ding uh hi,” a ci hi.
+**TDB77:** Tua ahih ciangin note leh note khit-a na tate-te tungah thu hong nuamin, Topa na Pasian un a tawntung a, hong piak gam sungah na khan’ uh na sausak theih nadingun tu ni-a note kiangah kong gen ahi ama thukhamte leh a thupiaknate na zui ding-te hi,” a ci hi.
 
-**ZVS:** Tua ahih ciangin note leh note' khita na tate uh tungah thu hong nuamin, { Topa } na Pasian un a tawntunga hong piak gam sungah na khan' uh na sausak theihna dingun tuni-a no kiangah kong gen ahi ama thukhamte leh a thupiakte na zui ding uh hi,” a ci hi.
+**ZVS:** Tua ahih ciangin note leh note' khita na tate-te tungah thu hong nuamin, { Topa } na Pasian un a tawntunga hong piak gam sungah na khan' uh na sausak theihna dingun tuni-a no kiangah kong gen ahi ama thukhamte leh a thupiakte na zui ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -423,7 +423,7 @@
 ### v49
 **EN:** And all the plain on this side Jordan eastward, even unto the sea of the plain, under the springs of Pisgah.
 
-**TDB77:** Amaute in, Arnon kuam monga a om Aroer panin Sirion Mual (Hermon a cihna) dong, Jordan nisuahna lama om Arabah gam khempeuh, Pisgah mualpang nuai Arabah tuipi dong tawh, kumpi Sihon' leitang leh Bashan kumpi Og' leitang, Jordan galkhat nisuahna lamah a teng Amor kumpi nihte' leitang a luah uh hi.
+**TDB77:** Amaute in, Arnon kuam monga a om Aroer panin Sirion Mual (Hermon a cihna) dong, Jordan nisuahna lama om Arabah gam khempeuh, Pisgah mualpang nuai Arabah tuipi dong tawh, kumpi Sihon' leitang leh Bashan kumpi Og' leitang, Jordan galkhat nisuahna lamah a teng Amor kumpi nihte' leitang a luah-te hi.
 
 **Grammar:** plural: uh marker
 

@@ -82,7 +82,7 @@ These connectors drive narrative flow throughout Genesis and Exodus.
 | :--- | :--- | :--- |
 | `[Verb] leh` | If [action] | `Lim takin hih lecin, na'ng hong kisang lo ding ahi hiam?` *(GEN 4:7)* |
 | `[Verb] kei leh` | If [action] not | `Amaute in hih lim nihte nangawn um loin na thu hong thudon kei leh...` *(EXO 4:9)* |
-| `[Verb] ciangun` | When [action] happens | `A nek khit phetun amaute gel in khua phawk uh a...` *(GEN 3:7)* |
+| `[Verb] ciangun` | When [action] happens | `A nek khit phetun amaute gel in khua phawk-te a...` *(GEN 3:7)* |
 | `[Verb] khit ciangin` | After [action] is done | `Moses a khan' khit ciangin, ama' mipihte' kiangah pai-in...` *(EXO 2:11)* |
 
 ---
@@ -166,7 +166,7 @@ These connectors drive narrative flow throughout Genesis and Exodus.
 | Pattern | Example | Translation |
 | :--- | :--- | :--- |
 | `hoih mahmah` | `Pasian in a bawlsate khempeuh mu hi, en un, hoih mahmah hi.` | God saw everything, behold, it was very good. *(GEN 1:31)* |
-| `nakpi takin` | `...nakpi takin khang uh hi` | They multiplied exceedingly. *(EXO 1:7)* |
+| `nakpi takin` | `...nakpi takin khang-te hi` | They multiplied exceedingly. *(EXO 1:7)* |
 | `tampi pha` | `Ci pha-in tampi pha un.` | Be fruitful and multiply. *(GEN 1:22)* |
 | `tawntung` | `...tawntung a, tua ahih manin keimah in khang tawntunga phawk ding ka hi hi.` | ...forever, this is my memorial to all generations. *(EXO 3:15)* |
 | `takin` | `Lim takin hih lecin...` | If you do well... *(GEN 4:7)* |

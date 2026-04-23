@@ -88,9 +88,9 @@
 ### v8
 **EN:** And all these thy servants shall come down unto me, and bow down themselves unto me, saying, Get thee out, and all the people that follow thee: and after that I will go out. And he went out from Pharaoh in a great anger.
 
-**TDB77:** Hih nangma'nasemte khempeuh keima' kiangah hong paisukin, keima' kiangah hong kunsuk ding uh a, ‘Nang leh nangmah hong zui mi khempeuh paikhia un,’ hong ci ding uh hi. Tua khit ciangin kei ka paikhia ding hi,” a ci hi. Faro' kiang panin amah heh mahmahin paikhia hi.
+**TDB77:** Hih nangma'nasemte khempeuh keima' kiangah hong paisukin, keima' kiangah hong kunsuk ding-te a, ‘Nang leh nangmah hong zui mi khempeuh paikhia un,’ hong ci ding-te hi. Tua khit ciangin kei ka paikhia ding hi,” a ci hi. Faro' kiang panin amah heh mahmahin paikhia hi.
 
-**ZVS:** Tua ciangin Moses in Faro' kiangah, “Na uliante khempeuh keima kiangah hong paisukin, keima kiangah hong kun ding uh a, ‘Nang leh nangmah hong zui khempeuh paikhia un,’ hong ci ding uh hi. Tua khit ciangin kei ka paikhia ding hi,” ci thuah lai hi. Tua ciangin Faro' kiang panin amah a heh mahmahsa-in a paikhia hi.
+**ZVS:** Tua ciangin Moses in Faro' kiangah, “Na uliante khempeuh keima kiangah hong paisukin, keima kiangah hong kun ding-te a, ‘Nang leh nangmah hong zui khempeuh paikhia un,’ hong ci ding-te hi. Tua khit ciangin kei ka paikhia ding hi,” ci thuah lai hi. Tua ciangin Faro' kiang panin amah a heh mahmahsa-in a paikhia hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -106,9 +106,9 @@
 ### v10
 **EN:** And Moses and Aaron did all these wonders before Pharaoh: and the
 
-**TDB77:** Moses leh Aaron in hih nalamdangte khempeuh Faro’ mai-ah bawl uh hi; Topa in Faro’ lungsim khauhsak a, amah in Israel mite a leitang panin paikhiasak lo hi.
+**TDB77:** Moses leh Aaron in hih nalamdangte khempeuh Faro’ mai-ah bawl-te hi; Topa in Faro’ lungsim khauhsak a, amah in Israel mite a leitang panin paikhiasak lo hi.
 
-**ZVS:** Moses leh Aaron in hih na lamdangte khempeuh Faro' mai-ah a bawl uh hi. { Topa } in Faro' lungsim khauhsak a, amah in Israel mite a leitang panin paikhiasak lo hi.
+**ZVS:** Moses leh Aaron in hih na lamdangte khempeuh Faro' mai-ah a bawl-te hi. { Topa } in Faro' lungsim khauhsak a, amah in Israel mite a leitang panin paikhiasak lo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

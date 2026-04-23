@@ -62,16 +62,16 @@
 ### v6
 **EN:** He stood, and measured the earth: he beheld, and drove asunder the nations; and the everlasting mountains were scattered, the perpetual hills did bow: his ways are everlasting.
 
-**TDB77:** Amah a khawl ciangin leitung liing a, a et ciangin minam khempeuh liing uh hi. Taangtawng lai-a a totsa, taanglai mualliante kitamkham a, a om tawntung mualneute kimetcip hi.
+**TDB77:** Amah a khawl ciangin leitung liing a, a et ciangin minam khempeuh liing-te hi. Taangtawng lai-a a totsa, taanglai mualliante kitamkham a, a om tawntung mualneute kimetcip hi.
 
-**ZVS:** Amah a khawl ciangin leitung ling a, amah in a et ciangin minam khempeuh ling uh hi. Tangtawng lai-in a totsa, tanglai mual liante kitam kham a, a om tawntung mual neute kimetcip hi.
+**ZVS:** Amah a khawl ciangin leitung ling a, amah in a et ciangin minam khempeuh ling-te hi. Tangtawng lai-in a totsa, tanglai mual liante kitam kham a, a om tawntung mual neute kimetcip hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** I saw the tents of Cushan in affliction: and the curtains of the land of Midian did tremble.
 
-**TDB77:** Kush gam mite a lau mahmahna, leh Midian gam mite a liin’na uh ka mu hi.
+**TDB77:** Kush gam mite a lau mahmahna, leh Midian gam mite a liin’na-te ka mu hi.
 
 **ZVS:** Kush gammite a lau mahmahna, Midian gammite a lin'na ka mu hi.
 
@@ -96,18 +96,18 @@
 ### v10
 **EN:** The mountains saw thee, and they trembled: the overflowing of the water passed by: the deep uttered his voice, and lifted up his hands on high.
 
-**TDB77:** Mualliante in nang hong muh ciangin liing uh a, van panin guah tampi hong zu hi. Lei nuai-a om tuite ging zuazua a, a tuihualte in sangpipi banto hi.
+**TDB77:** Mualliante in nang hong muh ciangin liing-te a, van panin guah tampi hong zu hi. Lei nuai-a om tuite ging zuazua a, a tuihualte in sangpipi banto hi.
 
-**ZVS:** Mual liante in nang hong muh ciangin ling uh a, van panin guah tampi hong zu hi. Leinuai-a om tuite ging zuazua a, tuihualte in a sangpipi banto hi.
+**ZVS:** Mual liante in nang hong muh ciangin ling-te a, van panin guah tampi hong zu hi. Leinuai-a om tuite ging zuazua a, tuihualte in a sangpipi banto hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** The sun and moon stood still in their habitation: at the light of thine arrows they went, and at the shining of thy glittering spear.
 
-**TDB77:** Na thaltang leeng a muh ciang, na teipi tee zalzal a muh ciangin, ni leh kha a omna san-ah khawlcip uh hi.
+**TDB77:** Na thaltang leeng a muh ciang, na teipi tee zalzal a muh ciangin, ni leh kha a omna san-ah khawlcip-te hi.
 
-**ZVS:** Na thaltang leeng a muh ciang, na teipi te zalzal a muh ciangin, ni leh kha a omna sanah a khawlcip uh hi.
+**ZVS:** Na thaltang leeng a muh ciang, na teipi te zalzal a muh ciangin, ni leh kha a omna sanah a khawlcip-te hi.
 
 **Grammar:** plural: uh marker
 

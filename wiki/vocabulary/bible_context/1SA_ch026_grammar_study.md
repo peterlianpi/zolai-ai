@@ -29,9 +29,9 @@
 ### v1
 **EN:** And the Ziphites came unto Saul to Gibeah, saying, Doth not David hide himself in the hill of Hachilah, which is before Jeshimon?
 
-**TDB77:** Tua ciangin Saul kiang Gibeah ah Zif mite hong pai uh a, “Jeshimon nisuahna lam Hakhilah mual tungah David bu hilo ahi hiam?” a ci uh hi.
+**TDB77:** Tua ciangin Saul kiang Gibeah ah Zif mite hong pai-te a, “Jeshimon nisuahna lam Hakhilah mual tungah David bu hilo ahi hiam?” a ci-te hi.
 
-**ZVS:** Tua ciangin Saul kiang Gibeah-ah Zif mite hong pai uh a, “Jeshimon nisuahna lam Hakhilah mualtungah David bu hilo ahi hiam?” va ci uh hi.
+**ZVS:** Tua ciangin Saul kiang Gibeah-ah Zif mite hong pai-te a, “Jeshimon nisuahna lam Hakhilah mualtungah David bu hilo ahi hiam?” va ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -63,27 +63,27 @@
 ### v5
 **EN:** And David arose, and came to the place where Saul had pitched: and David beheld the place where Saul lay, and Abner the son of Ner, the captain of his host: and Saul lay in the trench, and the people pitched round about him.
 
-**TDB77:** Tua ciangin David ding-in Saul in giahphual a satna mun-ah pai hi; David in Saul a galkap mangpa, Ner’ tapa Abner tawh a lupna mun mu hi; Saul giahphual laizangah lum a, ama kimkotah galkapte in phual sat uh hi.
+**TDB77:** Tua ciangin David ding-in Saul in giahphual a satna mun-ah pai hi; David in Saul a galkap mangpa, Ner’ tapa Abner tawh a lupna mun mu hi; Saul giahphual laizangah lum a, ama kimkotah galkapte in phual sat-te hi.
 
-**ZVS:** Tua ciangin David dingin Saul in giahphual a satna munah a pai hi. David in Saul' galkapmangpa, Ner' tapa Abner tawh a lupna mun mu hi. Giahphual laizangah Saul lum a, ama kimkotah a galkapte in phual sat uh hi.
+**ZVS:** Tua ciangin David dingin Saul in giahphual a satna munah a pai hi. David in Saul' galkapmangpa, Ner' tapa Abner tawh a lupna mun mu hi. Giahphual laizangah Saul lum a, ama kimkotah a galkapte in phual sat-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Then answered David and said to Ahimelech the Hittite, and to Abishai the son of Zeruiah, brother to Joab, saying, Who will go down with me to Saul to the camp? And Abishai said, I will go down with thee.
 
-**TDB77:** Tua ciangin David in Hit mi Ahimelek leh Zeru-iah’ tapa, Joab’ sanggampa Abishai kiangah, “Saul’ giahphual ah kei tawh kua hong paisuk ding na hi uh hiam?” a ci hi. Abishai in, “Kei nang tawh kong paisuk ding hi,” a ci hi.
+**TDB77:** Tua ciangin David in Hit mi Ahimelek leh Zeru-iah’ tapa, Joab’ sanggampa Abishai kiangah, “Saul’ giahphual ah kei tawh kua hong paisuk ding na hi-te hiam?” a ci hi. Abishai in, “Kei nang tawh kong paisuk ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin David in Hit mi Ahimelek leh a nu uh Zeruiah ahi Joab' sanggampa Abishai kiangah, “Saul' giahphualah kei tawh kua hong paisuk ding na hi uh hiam” a ci hi. Abishai in, “Kei nang tawh kong paisuk ding hi,” a ci hi.
+**ZVS:** Tua ciangin David in Hit mi Ahimelek leh a nu-te Zeruiah ahi Joab' sanggampa Abishai kiangah, “Saul' giahphualah kei tawh kua hong paisuk ding na hi-te hiam” a ci hi. Abishai in, “Kei nang tawh kong paisuk ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix
 
 ### v7
 **EN:** So David and Abishai came to the people by night: and, behold, Saul lay sleeping within the trench, and his spear stuck in the ground at his bolster: but Abner and the people lay round about him.
 
-**TDB77:** Tua ahih ciangin David leh Abishai zanin galkapte kiangah pai uh hi; giahphual sungah Saul na ihmu a, a lukhung lei lakah a teipi na kiphut hi; Abner leh galkapte ama kimkotah na lum uh hi.
+**TDB77:** Tua ahih ciangin David leh Abishai zanin galkapte kiangah pai-te hi; giahphual sungah Saul na ihmu a, a lukhung lei lakah a teipi na kiphut hi; Abner leh galkapte ama kimkotah na lum-te hi.
 
-**ZVS:** Tua ahih ciangin David leh Abishai zanin galkapte kiangah pai uh hi. Giahphual sungah Saul na ihmu a, a lukhung leilakah a teipi na kiphut a, Abner leh galkapte ama kimkotah na lum uh hi.
+**ZVS:** Tua ahih ciangin David leh Abishai zanin galkapte kiangah pai-te hi. Giahphual sungah Saul na ihmu a, a lukhung leilakah a teipi na kiphut a, Abner leh galkapte ama kimkotah na lum-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -126,9 +126,9 @@
 ### v12
 **EN:** So David took the spear and the cruse of water from Saul's bolster; and they gat them away, and no man saw it, nor knew it, neither awaked: for they were all asleep; because a deep sleep from the
 
-**TDB77:** Tua ahih ciangin David in Saul lukhung-a om teipi leh tuithawl la hi; tua ciangin amaute paikhia uh hi. Kuamah in mu lo hi, zong thei lo hi; kuamah khanglo lo hi, amaute khempeuh ihmu uh hi; bang hang hiam cih leh Topa in amaute ihmut suak mahmah sak hi.
+**TDB77:** Tua ahih ciangin David in Saul lukhung-a om teipi leh tuithawl la hi; tua ciangin amaute paikhia-te hi. Kuamah in mu lo hi, zong thei lo hi; kuamah khanglo lo hi, amaute khempeuh ihmu-te hi; bang hang hiam cih leh Topa in amaute ihmut suak mahmah sak hi.
 
-**ZVS:** Tua ahih ciangin David in Saul' lukhunga a om a teipi leh a tuithawl a la hi. Tua ciangin amaute paikhia uh hi. Kuamah in mulo hi; zong theilo hi; kuamah khanglo lo hi. Amaute khempeuh ihmu uh hi; bang hang hiam cih leh { Topa } in amaute ihmut suak mahmah sak hi.
+**ZVS:** Tua ahih ciangin David in Saul' lukhunga a om a teipi leh a tuithawl a la hi. Tua ciangin amaute paikhia-te hi. Kuamah in mulo hi; zong theilo hi; kuamah khanglo lo hi. Amaute khempeuh ihmu-te hi; bang hang hiam cih leh { Topa } in amaute ihmut suak mahmah sak hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | negation: lo | plural: uh marker
 
@@ -187,9 +187,9 @@
 ### v19
 **EN:** Now therefore, I pray thee, let my lord the king hear the words of his servant. If the
 
-**TDB77:** Tua ahih ciangin tu-in ka to kumpipa in a nasempa’ thu za in. Keimah do dingin nang hong toksuahpa in Topa ahih leh amah in biakna hong sang ta hen; ahih hangin mihing ahih leh amaute in Topa mai-ah samsiatna ngah ta hen. Bang hang hiam cih leh amaute in, ‘Pai in, pasian dangte’ na sem in,’ ci-in Topa’ gamh ka ngah loh nadingin tuni-in kei hong hawlkhia uh hi.
+**TDB77:** Tua ahih ciangin tu-in ka to kumpipa in a nasempa’ thu za in. Keimah do dingin nang hong toksuahpa in Topa ahih leh amah in biakna hong sang ta hen; ahih hangin mihing ahih leh amaute in Topa mai-ah samsiatna ngah ta hen. Bang hang hiam cih leh amaute in, ‘Pai in, pasian dangte’ na sem in,’ ci-in Topa’ gamh ka ngah loh nadingin tuni-in kei hong hawlkhia-te hi.
 
-**ZVS:** Tua ahih ciangin tu-in ka to kumpipa in a nasempa' thu za in. Keimah a do dingin nang hong toksuahpa pen { Topa } ahih leh amah in biakna hong sang ta hen; ahih hangin mihing ahih leh amaute in { Topa' } mai-ah samsiatna ngah ta hen. Bang hang hiam cih leh amaute in, ‘Pai in; pasian dangte' na sem in,’ ci-in { Topa' } gamh ka ngahlohna dingin tuni-in kei hong hawlkhia uh hi.
+**ZVS:** Tua ahih ciangin tu-in ka to kumpipa in a nasempa' thu za in. Keimah a do dingin nang hong toksuahpa pen { Topa } ahih leh amah in biakna hong sang ta hen; ahih hangin mihing ahih leh amaute in { Topa' } mai-ah samsiatna ngah ta hen. Bang hang hiam cih leh amaute in, ‘Pai in; pasian dangte' na sem in,’ ci-in { Topa' } gamh ka ngahlohna dingin tuni-in kei hong hawlkhia-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 

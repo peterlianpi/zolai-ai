@@ -154,27 +154,27 @@
 ### v21
 **EN:** So they went up, and searched the land from the wilderness of Zin unto Rehob, as men come to Hamath.
 
-**TDB77:** Tua ahih ciangin amaute pai to-in Zin gamlak panin Hamath khua lutna gei, Rehob mun dong gam vaan uh hi.
+**TDB77:** Tua ahih ciangin amaute pai to-in Zin gamlak panin Hamath khua lutna gei, Rehob mun dong gam vaan-te hi.
 
-**ZVS:** Tua ahih ciangin amaute paito-in Zin gamlak panin Hamath khua lutna gei, Rehob mun dong gam a vaan uh hi.
+**ZVS:** Tua ahih ciangin amaute paito-in Zin gamlak panin Hamath khua lutna gei, Rehob mun dong gam a vaan-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v22
 **EN:** And they ascended by the south, and came unto Hebron; where Ahiman, Sheshai, and Talmai, the children of Anak, were. (Now Hebron was built seven years before Zoan in Egypt.)
 
-**TDB77:** Amaute Negeb lamah paito uh a, Hebron tung uh hi; Anak’ suan leh khakte ahi Ahiman mite, Sheshai mite leh Talmai mite, tua lai-ah na om uh hi. (Hebron pen Izipt gamah Zoan a kisat ma kum sagih lai-in kisat hi).
+**TDB77:** Amaute Negeb lamah paito-te a, Hebron tung-te hi; Anak’ suan leh khakte ahi Ahiman mite, Sheshai mite leh Talmai mite, tua lai-ah na om-te hi. (Hebron pen Izipt gamah Zoan a kisat ma kum sagih lai-in kisat hi).
 
-**ZVS:** Amaute Negeb lamah paito uh a, Hebron tung uh hi. Anak' suanlekhakte ahi Ahiman mite, Sheshai mite, leh Talmai mite, tua lai-ah na om uh hi. (Hebron pen Egypt gama Zoan a kisat ma kum sagih lai-in kisat hi.)
+**ZVS:** Amaute Negeb lamah paito-te a, Hebron tung-te hi. Anak' suanlekhakte ahi Ahiman mite, Sheshai mite, leh Talmai mite, tua lai-ah na om-te hi. (Hebron pen Egypt gama Zoan a kisat ma kum sagih lai-in kisat hi.)
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** And they came unto the brook of Eshcol, and cut down from thence a branch with one cluster of grapes, and they bare it between two upon a staff; and they brought of the pomegranates, and of the figs.
 
-**TDB77:** Amaute Eshkol Kuam tung uh a, tua lai panin leenggah bawk khat bek a hiang tawh lo-in, mi nih in zawl khat-in zawng uh hi; amaute in mang kawlsing leh thei zong tawm khat pua uh hi.
+**TDB77:** Amaute Eshkol Kuam tung-te a, tua lai panin leenggah bawk khat bek a hiang tawh lo-in, mi nih in zawl khat-in zawng-te hi; amaute in mang kawlsing leh thei zong tawm khat pua-te hi.
 
-**ZVS:** Amaute Eshkol kuam tung uh a, tua lai panin leenggah bawk khat bek a hiang tawh lo-in, mi nih in zawl khatin a zawng uh hi. Amaute in mang kawlsing leh thei zong tawmkhat a pua uh hi.
+**ZVS:** Amaute Eshkol kuam tung-te a, tua lai panin leenggah bawk khat bek a hiang tawh lo-in, mi nih in zawl khatin a zawng-te hi. Amaute in mang kawlsing leh thei zong tawmkhat a pua-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -188,45 +188,45 @@
 ### v25
 **EN:** And they returned from searching of the land after forty days.
 
-**TDB77:** Ni sawmli a cin’ ciangin gam vaanna panin amaute hong ciahkik uh hi.
+**TDB77:** Ni sawmli a cin’ ciangin gam vaanna panin amaute hong ciahkik-te hi.
 
-**ZVS:** Ni sawmli a cin' ciangin gam vaanna panin amaute hong ciahkik uh hi.
+**ZVS:** Ni sawmli a cin' ciangin gam vaanna panin amaute hong ciahkik-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v26
 **EN:** And they went and came to Moses, and to Aaron, and to all the congregation of the children of Israel, unto the wilderness of Paran, to Kadesh; and brought back word unto them, and unto all the congregation, and shewed them the fruit of the land.
 
-**TDB77:** Paran gamlak Kadesh muna Moses leh Aaron leh Israel mi honte khempeuh kiangah amaute hong tung uh hi; amaute leh mihon khempeuh tungah thu puak kik uh a, tua leitanga gahte amaute lak uh hi.
+**TDB77:** Paran gamlak Kadesh muna Moses leh Aaron leh Israel mi honte khempeuh kiangah amaute hong tung-te hi; amaute leh mihon khempeuh tungah thu puak kik-te a, tua leitanga gahte amaute lak-te hi.
 
-**ZVS:** Paran gamlak Kadesh muna Moses leh Aaron leh Israel mihonte khempeuh kiangah amaute hong tung uh hi. Amaute leh mihon khempeuh tungah thu puakkik uh a, tua leitanga gahte amaute a lak uh hi.
+**ZVS:** Paran gamlak Kadesh muna Moses leh Aaron leh Israel mihonte khempeuh kiangah amaute hong tung-te hi. Amaute leh mihon khempeuh tungah thu puakkik-te a, tua leitanga gahte amaute a lak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** And they told him, and said, We came unto the land whither thou sentest us, and surely it floweth with milk and honey; and this is the fruit of it.
 
-**TDB77:** Amaute in ama kiangah, “Kote nong sawlna leitangah ka va tung uh hi; tua lai-ah bawngnawi leh khuaizu luang a, hih in tua gama gah ahi hi.
+**TDB77:** Amaute in ama kiangah, “Kote nong sawlna leitangah ka va tung-te hi; tua lai-ah bawngnawi leh khuaizu luang a, hih in tua gama gah ahi hi.
 
-**ZVS:** Amaute in Moses kiangah, “Kote nong sawlna leitangah ka va tung uh hi. Tua lai-ah bawngnawi leh khuaizu tui bangin luang a, hih pen tua gama gah ahi hi.
+**ZVS:** Amaute in Moses kiangah, “Kote nong sawlna leitangah ka va tung-te hi. Tua lai-ah bawngnawi leh khuaizu tui bangin luang a, hih pen tua gama gah ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** Nevertheless the people be strong that dwell in the land, and the cities are walled, and very great: and moreover we saw the children of Anak there.
 
-**TDB77:** Ahi zongin tua gama teeng mite thahat uh a, a khuapite uh kulh tawh ki-uumin lian mahmah hi; tua banah Anak’ suan leh khakte tua lai-ah ka mu uh hi;
+**TDB77:** Ahi zongin tua gama teeng mite thahat-te a, a khuapite-te kulh tawh ki-uumin lian mahmah hi; tua banah Anak’ suan leh khakte tua lai-ah ka mu-te hi;
 
-**ZVS:** Ahi zongin tua gama teng mite thahat uh a, a khuapite uh kulh tawh ki-umin lian mahmah hi. Tua banah Anak' suanlekhakte tua lai-ah ka mu uh hi.
+**ZVS:** Ahi zongin tua gama teng mite thahat-te a, a khuapite-te kulh tawh ki-umin lian mahmah hi. Tua banah Anak' suanlekhakte tua lai-ah ka mu-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v29
 **EN:** The Amalekites dwell in the land of the south: and the Hittites, and the Jebusites, and the Amorites, dwell in the mountains: and the Canaanites dwell by the sea, and by the coast of Jordan.
 
-**TDB77:** Amalek mite Negeb gamah teeng uh hi; Hih mite, Jebus mite, leh Amor mite mual tung gamah teeng uh hi; Kanaan mite tuipi gei leh Jordan dungah teeng uh hi,” ci-in gen uh hi.
+**TDB77:** Amalek mite Negeb gamah teeng-te hi; Hih mite, Jebus mite, leh Amor mite mual tung gamah teeng-te hi; Kanaan mite tuipi gei leh Jordan dungah teeng-te hi,” ci-in gen-te hi.
 
-**ZVS:** Amalek mite Negeb gamah teng uh hi. Hit mite, Jebus mite, leh Amor mite, mualtung gamah teng uh hi. Kanaan mite tuipi gei leh Jordan dungah teng uh hi,” ci-in a gen uh hi.
+**ZVS:** Amalek mite Negeb gamah teng-te hi. Hit mite, Jebus mite, leh Amor mite, mualtung gamah teng-te hi. Kanaan mite tuipi gei leh Jordan dungah teng-te hi,” ci-in a gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -242,27 +242,27 @@
 ### v31
 **EN:** But the men that went up with him said, We be not able to go up against the people; for they are stronger than we.
 
-**TDB77:** Tua ciangin amah tawh a paito mite in, “Mite do dingin i pai ngam kei ding hi; bang hang hiam cih leh eite sangin amaute hatzaw uh hi,” a ci uh hi.
+**TDB77:** Tua ciangin amah tawh a paito mite in, “Mite do dingin i pai ngam kei ding hi; bang hang hiam cih leh eite sangin amaute hatzaw-te hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin amah tawh a paito mite in, “Tua mite a sim dingin i pai ngam kei ding hi; bang hang hiam cih leh eite sangin amaute hatzaw uh hi,” a ci uh hi.
+**ZVS:** Tua ciangin amah tawh a paito mite in, “Tua mite a sim dingin i pai ngam kei ding hi; bang hang hiam cih leh eite sangin amaute hatzaw-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | negation: kei | plural: uh marker
 
 ### v32
 **EN:** And they brought up an evil report of the land which they had searched unto the children of Israel, saying, The land, through which we have gone to search it, is a land that eateth up the inhabitants thereof; and all the people that we saw in it are men of a great stature.
 
-**TDB77:** Tua ahih ciangin amaute in amau’ vaansa gam thu Israel mite tungah a sia lamin hong puak uh a, “Kote in a vaan dingin ka va paina uh gam in a tunga teeng mite a valhtum thei ding gam ahi hi; tua lai-a ka muh uh mite khempeuh mi tha liante ahi hi.
+**TDB77:** Tua ahih ciangin amaute in amau’ vaansa gam thu Israel mite tungah a sia lamin hong puak-te a, “Kote in a vaan dingin ka va paina-te gam in a tunga teeng mite a valhtum thei ding gam ahi hi; tua lai-a ka muh-te mite khempeuh mi tha liante ahi hi.
 
-**ZVS:** Tua ahih ciangin amaute a tamzaw in amau' vaansa gam thu Israel mite tungah a sia lamin hong puak uh a, “Kote, a vaan dingin ka va paina uh gam pen a tunga teng mite a puksisak thei ding gam hoihlo ahi hi.
+**ZVS:** Tua ahih ciangin amaute a tamzaw in amau' vaansa gam thu Israel mite tungah a sia lamin hong puak-te a, “Kote, a vaan dingin ka va paina-te gam pen a tunga teng mite a puksisak thei ding gam hoihlo ahi hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v33
 **EN:** And there we saw the giants, the sons of Anak, which come of the giants: and we were in our own sight as grasshoppers, and so we were in their sight.
 
-**TDB77:** Tua lai-ah Nefilim mite (Nefilim pana hong piang Anak mite) ka mu uh hi; kote pen kauphe bang lelin ka kingaihsun uh a, amau’ muhna ah zong tua bangmah ka hi uh hi,” a ci uh hi.
+**TDB77:** Tua lai-ah Nefilim mite (Nefilim pana hong piang Anak mite) ka mu-te hi; kote pen kauphe bang lelin ka kingaihsun-te a, amau’ muhna ah zong tua bangmah ka hi-te hi,” a ci-te hi.
 
-**ZVS:** Tua lai-ah Nefilim mite (Nefilim pana hong piang Anak mite) ka mu uh hi. Kote pen kauphe bang lelin ka kingaihsun uh a, amau' muhna-ah zong tua bangmah ka hi takpi uh hi,” a ci uh hi.
+**ZVS:** Tua lai-ah Nefilim mite (Nefilim pana hong piang Anak mite) ka mu-te hi. Kote pen kauphe bang lelin ka kingaihsun-te a, amau' muhna-ah zong tua bangmah ka hi takpi-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 

@@ -64,9 +64,9 @@
 ### v5
 **EN:** So she went from him, and shut the door upon her and upon her sons, who brought the vessels to her; and she poured out.
 
-**TDB77:** Tua ahih ciangin ama kiang panin tua numei paikhia-in amah leh a tapate kong kikhaknelh hi; amah in a sun’ lai takin amaute in ama kiangah a beelte paipih uh hi.
+**TDB77:** Tua ahih ciangin ama kiang panin tua numei paikhia-in amah leh a tapate kong kikhaknelh hi; amah in a sun’ lai takin amaute in ama kiangah a beelte paipih-te hi.
 
-**ZVS:** Tua ahih ciangin ama kiang panin tua numei paikhia-in amah leh a tapate kong kikhaknelh uh hi. Amah in a sun' laitakin a tapate in ama kiangah a beelte paipih uh hi.
+**ZVS:** Tua ahih ciangin ama kiang panin tua numei paikhia-in amah leh a tapate kong kikhaknelh-te hi. Amah in a sun' laitakin a tapate in ama kiangah a beelte paipih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -82,9 +82,9 @@
 ### v7
 **EN:** Then she came and told the man of God. And he said, Go, sell the oil, and pay thy debt, and live thou and thy children of the rest.
 
-**TDB77:** Tua nu hong pai-in Pasian’ mipa kiangah gen a, tua ciangin amah in, “Pai in, a sathau zuakin na leibate loh in, nang leh na tapate in a om laite tawh na nungta ding uh hi,” a ci hi.
+**TDB77:** Tua nu hong pai-in Pasian’ mipa kiangah gen a, tua ciangin amah in, “Pai in, a sathau zuakin na leibate loh in, nang leh na tapate in a om laite tawh na nungta ding-te hi,” a ci hi.
 
-**ZVS:** Tuanu hong pai-in Pasian' mipa kiangah a thu teng gen a, tua ciangin amah in, “Pai in; a sathau zuakin na leibate loh in. Nang leh na tapate, a omlaite tawh na nungta ding uh hi,” a ci hi.
+**ZVS:** Tuanu hong pai-in Pasian' mipa kiangah a thu teng gen a, tua ciangin amah in, “Pai in; a sathau zuakin na leibate loh in. Nang leh na tapate, a omlaite tawh na nungta ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -379,9 +379,9 @@
 ### v40
 **EN:** So they poured out for the men to eat. And it came to pass, as they were eating of the pottage, that they cried out, and said, O thou man of God, there is death in the pot. And they could not eat thereof.
 
-**TDB77:** Tua ciangin amaute in mite’ nek dingin hong thukkhia uh hi. Ahih hangin amaute in meh a nek lai takun, amaute kiko-in, “Pasian’ mipa aw, an sungah gu om!” a ci uh hi. Amaute in ne thei lo uh hi.
+**TDB77:** Tua ciangin amaute in mite’ nek dingin hong thukkhia-te hi. Ahih hangin amaute in meh a nek lai takun, amaute kiko-in, “Pasian’ mipa aw, an sungah gu om!” a ci-te hi. Amaute in ne thei lo-te hi.
 
-**ZVS:** Tua ciangin amaute in mite' nek dingin hong thukkhia uh hi. Ahih hangin amaute in meh a nek laitakun amaute kiko-in, “Pasian' mipa aw, an sungah gu om!” a ci uh hi. Amaute in ne theilo uh hi.
+**ZVS:** Tua ciangin amaute in mite' nek dingin hong thukkhia-te hi. Ahih hangin amaute in meh a nek laitakun amaute kiko-in, “Pasian' mipa aw, an sungah gu om!” a ci-te hi. Amaute in ne theilo-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -406,18 +406,18 @@
 ### v43
 **EN:** And his servitor said, What, should I set this before an hundred men? He said again, Give the people, that they may eat: for thus saith the
 
-**TDB77:** Ahih hangin a nasempa in, “Mihing zakhatte’ mai-ah keimah in hih bangci lui theih ding ka hi hiam?” a ci hi. Tua ahih ciangin amah in, “Amaute in a nek theih nadingun mite tungah tuate pia in, bang hang hiam cih leh Topa in, ‘Amaute in ne-in khamval ding uh hi,’ ci hi,” a ci kik hi.
+**TDB77:** Ahih hangin a nasempa in, “Mihing zakhatte’ mai-ah keimah in hih bangci lui theih ding ka hi hiam?” a ci hi. Tua ahih ciangin amah in, “Amaute in a nek theih nadingun mite tungah tuate pia in, bang hang hiam cih leh Topa in, ‘Amaute in ne-in khamval ding-te hi,’ ci hi,” a ci kik hi.
 
-**ZVS:** Ahih hangin a nasempa in, “Mihing za khatte' mai-ah keimah in hih bangci lui theih ding ka hi hiam?” a ci hi. Ahi zongin amah in, “Amaute in a nek theihna dingun mite tungah tuate pia in. Bang hang hiam cih leh { Topa } in, ‘Amaute in ne-in khamval ding uh hi,’ ci hi,” a ci kik hi.
+**ZVS:** Ahih hangin a nasempa in, “Mihing za khatte' mai-ah keimah in hih bangci lui theih ding ka hi hiam?” a ci hi. Ahi zongin amah in, “Amaute in a nek theihna dingun mite tungah tuate pia in. Bang hang hiam cih leh { Topa } in, ‘Amaute in ne-in khamval ding-te hi,’ ci hi,” a ci kik hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v44
 **EN:** So he set it before them, and they did eat, and left thereof, according to the word of the
 
-**TDB77:** Tua ahih ciangin amah in amaute mai-ah tua an lui hi. Tua ciangin amaute in ne uh a, Topa’ kamgen bangin pawlkhat val lai hi.
+**TDB77:** Tua ahih ciangin amah in amaute mai-ah tua an lui hi. Tua ciangin amaute in ne-te a, Topa’ kamgen bangin pawlkhat val lai hi.
 
-**ZVS:** Tua ciangin amah in amaute mai-ah tua an a lui hi. Tua ciangin amaute in ne uh a, { Topa' } gensa bangin pawlkhat a vallai hi.
+**ZVS:** Tua ciangin amah in amaute mai-ah tua an a lui hi. Tua ciangin amaute in ne-te a, { Topa' } gensa bangin pawlkhat a vallai hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

@@ -61,27 +61,27 @@
 ### v5
 **EN:** And Jacob rose up from Beer–sheba: and the sons of Israel carried Jacob their father, and their little ones, and their wives, in the wagons which Pharaoh had sent to carry him.
 
-**TDB77:** Tua ciangin Be-ersheba panin Jakob ding khia hi; Israel’ tapate in a pa uh Jakob, a tate uh, a zite uh, amah puak nadinga Faro in a khak leeng sungah pua uh hi.
+**TDB77:** Tua ciangin Be-ersheba panin Jakob ding khia hi; Israel’ tapate in a pa-te Jakob, a tate uh, a zite uh, amah puak nadinga Faro in a khak leeng sungah pua-te hi.
 
-**ZVS:** Tua ciangin Beersheba panin Jakob dingkhia hi. Israel' tapate in a pa uh Jakob, a tate uh, leh a zite uh, amah puakna dinga Faro in a khak leeng sungah a pua uh hi.
+**ZVS:** Tua ciangin Beersheba panin Jakob dingkhia hi. Israel' tapate in a pa-te Jakob, a tate uh, leh a zite uh, amah puakna dinga Faro in a khak leeng sungah a pua-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v6
 **EN:** And they took their cattle, and their goods, which they had gotten in the land of Canaan, and came into Egypt, Jacob, and all his seed with him:
 
-**TDB77:** Amaute in zong Kanaan gamsunga a lam uh a ganhingte uh leh a nate uh la-in, Jakob leh ama' suan-le-khakte ahi,
+**TDB77:** Amaute in zong Kanaan gamsunga a lam-te a ganhingte-te leh a nate-te la-in, Jakob leh ama' suan-le-khakte ahi,
 
-**ZVS:** Amaute in zong Kanaan gam sunga a lam uh a ganhingte uh leh a nate uh la-in, Jakob leh ama suanlekhakte ahi,
+**ZVS:** Amaute in zong Kanaan gam sunga a lam-te a ganhingte-te leh a nate-te la-in, Jakob leh ama suanlekhakte ahi,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v7
 **EN:** His sons, and his sons' sons with him, his daughters, and his sons' daughters, and all his seed brought he with him into Egypt.
 
-**TDB77:** a tapate, ama tapate’ tapate, a tanute, a tapate’ tanute tawh Izipt-ah pai uh hi; amah in a suan-le-khakte khempeuh Izipt-ah paipih hi.
+**TDB77:** a tapate, ama tapate’ tapate, a tanute, a tapate’ tanute tawh Izipt-ah pai-te hi; amah in a suan-le-khakte khempeuh Izipt-ah paipih hi.
 
-**ZVS:** a tapate, ama tapate' tapate, a tanute, a tapate' tanute tawh Egypt-ah a pai uh hi. Amah in a suanlekhakte khempeuh Egypt-ah a paipih hi.
+**ZVS:** a tapate, ama tapate' tapate, a tanute, a tapate' tanute tawh Egypt-ah a pai-te hi. Amah in a suanlekhakte khempeuh Egypt-ah a paipih hi.
 
 **Grammar:** plural: uh marker
 
@@ -153,9 +153,9 @@
 ### v17
 **EN:** And the sons of Asher; Imnah, and Ishuah, and Ishvi, and Beriah, and Serah their sister: and the sons of Beriah; Heber, and Malchiel.
 
-**TDB77:** Asher’ tapate: Imnah, Ishvah, Ishvi, Beriah leh a sanggamnu uh Serah ahi hi. Beriah’ tapate: Heber leh Malkhiel
+**TDB77:** Asher’ tapate: Imnah, Ishvah, Ishvi, Beriah leh a sanggamnu-te Serah ahi hi. Beriah’ tapate: Heber leh Malkhiel
 
-**ZVS:** Asher' tapate: Imnah, Ishvah, Ishvi, Beriah, leh a sanggamnu uh Serah ahi hi. Beriah' tapate: Heber leh Malkhiel ahi hi.
+**ZVS:** Asher' tapate: Imnah, Ishvah, Ishvi, Beriah, leh a sanggamnu-te Serah ahi hi. Beriah' tapate: Heber leh Malkhiel ahi hi.
 
 ### v18
 **EN:** These are the sons of Zilpah, whom Laban gave to Leah his daughter, and these she bare unto Jacob, even sixteen souls.
@@ -234,9 +234,9 @@
 ### v28
 **EN:** And he sent Judah before him unto Joseph, to direct his face unto Goshen; and they came into the land of Goshen.
 
-**TDB77:** Amah in ama' mai Goshen-ah amah lam a lak dingin Josef' kiangah Judah ma sawl hi; amaute Goshen gamah hong pai uh hi.
+**TDB77:** Amah in ama' mai Goshen-ah amah lam a lak dingin Josef' kiangah Judah ma sawl hi; amaute Goshen gamah hong pai-te hi.
 
-**ZVS:** Jakob in ama mai Goshen-ah amah lam a lak dingin Josef kiangah Judah ma sawl hi. Amaute Goshen gamah hong pai uh hi.
+**ZVS:** Jakob in ama mai Goshen-ah amah lam a lak dingin Josef kiangah Judah ma sawl hi. Amaute Goshen gamah hong pai-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -270,27 +270,27 @@
 ### v32
 **EN:** And the men are shepherds, for their trade hath been to feed cattle; and they have brought their flocks, and their herds, and all that they have.
 
-**TDB77:** amaute in gankemte ahih manin tuucing ahi uh hi; amaute in a tuuhonte uh leh a bawnghonte uh leh a neih khempeuh uh hong paipih uh hi,’ ka va ci ding hi.
+**TDB77:** amaute in gankemte ahih manin tuucing ahi-te hi; amaute in a tuuhonte-te leh a bawnghonte-te leh a neih khempeuh-te hong paipih-te hi,’ ka va ci ding hi.
 
-**ZVS:** Amaute pen tuucing ahih manin gan kemte ahi uh hi. Amaute in a tuuhonte uh leh a bawnghonte uh leh a neih khempeuh uh hong paipih uh hi,’ ka va ci ding hi.
+**ZVS:** Amaute pen tuucing ahih manin gan kemte ahi-te hi. Amaute in a tuuhonte-te leh a bawnghonte-te leh a neih khempeuh-te hong paipih-te hi,’ ka va ci ding hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
 ### v33
 **EN:** And it shall come to pass, when Pharaoh shall call you, and shall say, What is your occupation?
 
-**TDB77:** Faro in note hong samin note' kiangah, ‘Na nasep uh bang ahi hiam?’ hong cih ciangin,
+**TDB77:** Faro in note hong samin note' kiangah, ‘Na nasep-te bang ahi hiam?’ hong cih ciangin,
 
-**ZVS:** Faro in note hong samin note kiangah, ‘Na nasep uh bang ahi hiam?’ hong cih ciangin,
+**ZVS:** Faro in note hong samin note kiangah, ‘Na nasep-te bang ahi hiam?’ hong cih ciangin,
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v34
 **EN:** That ye shall say, Thy servants' trade hath been about cattle from our youth even until now, both we, and also our fathers: that ye may dwell in the land of Goshen; for every shepherd is an abomination unto the Egyptians.
 
-**TDB77:** Goshen leitangah na ten’ theih nadingun note in, ‘Kote hita leh ka pate uh hita leh ko, na nasemte in ka neu uh a, kipan tu hun dongin gankemte ka hi uh hi,’ na ci ding uh hi; bang hang hiam cih leh Izipt mite’ adingin tuucing peuhmah a kihhuai ahi hi,” ci hi.
+**TDB77:** Goshen leitangah na ten’ theih nadingun note in, ‘Kote hita leh ka pate-te hita leh ko, na nasemte in ka neu-te a, kipan tu hun dongin gankemte ka hi-te hi,’ na ci ding-te hi; bang hang hiam cih leh Izipt mite’ adingin tuucing peuhmah a kihhuai ahi hi,” ci hi.
 
-**ZVS:** Goshen leitangah na ten' theihna dingun note in, ‘Kote hita leh ka pate uh hita leh ko na nasemte pen ka neu lai uha kipan tuhun dongin gankemte ka hi uh hi,’ na ci ding uh hi. Bang hang hiam cih leh Egypt mite-a' dingin tuucing peuhmah a kihhuai ahi hi,” a ci hi.
+**ZVS:** Goshen leitangah na ten' theihna dingun note in, ‘Kote hita leh ka pate-te hita leh ko na nasemte pen ka neu lai uha kipan tuhun dongin gankemte ka hi-te hi,’ na ci ding-te hi. Bang hang hiam cih leh Egypt mite-a' dingin tuucing peuhmah a kihhuai ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

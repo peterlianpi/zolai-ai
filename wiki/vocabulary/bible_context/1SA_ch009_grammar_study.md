@@ -38,7 +38,7 @@
 
 **TDB77:** amah in tangval a mel hoih, a min Saul ahi tapa khat nei hi. Israel mite lakah amah sangin a mel hoihzaw khat zong om lo hi; mite khat peuhpeuh sangin a liangko tung siah-in amah sangzaw hi.
 
-**ZVS:** Amah in tangval a melhoih, a min Saul ahi tapa khat nei hi. Israel mite lakah amah sangin a melhoihzaw, a thacingzaw khat zong omlo a, midang khempeuh ama liangko ciang bek pha uh hi.
+**ZVS:** Amah in tangval a melhoih, a min Saul ahi tapa khat nei hi. Israel mite lakah amah sangin a melhoihzaw, a thacingzaw khat zong omlo a, midang khempeuh ama liangko ciang bek pha-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo
 
@@ -54,9 +54,9 @@
 ### v4
 **EN:** And he passed through mount Ephraim, and passed through the land of Shalisha, but they found them not: then they passed through the land of Shalim, and there they were not: and he passed through the land of the Benjamites, but they found them not.
 
-**TDB77:** Tua ciangin amaute in Efraim mual, mualtung gam leh Shalisha gam teng nawkin zong uh a, ahih hangin amaute in mu lo uh hi. Tua ciangin amaute in Sha-alim gam teng zong uh a, ahih hangin tua gamah na om lo hi. Tua ciangin amaute in Benjamin gam teng zong uh a, ahih hangin mu lo uh hi.
+**TDB77:** Tua ciangin amaute in Efraim mual, mualtung gam leh Shalisha gam teng nawkin zong-te a, ahih hangin amaute in mu lo-te hi. Tua ciangin amaute in Sha-alim gam teng zong-te a, ahih hangin tua gamah na om lo hi. Tua ciangin amaute in Benjamin gam teng zong-te a, ahih hangin mu lo-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in Efraim mualtung gamteng leh Shalisha gam teng nawkin zong uh a, ahih hangin mulo uh hi. Tua ciangin amaute in Shaalim gamteng zong uh a, ahih hangin tua gamah na om tuanlo hi. Tua ciangin amaute in Benjamin gamteng zong uh a, ahih hangin mu samlo uh hi.
+**ZVS:** Tua ahih ciangin amaute in Efraim mualtung gamteng leh Shalisha gam teng nawkin zong-te a, ahih hangin mulo-te hi. Tua ciangin amaute in Shaalim gamteng zong-te a, ahih hangin tua gamah na om tuanlo hi. Tua ciangin amaute in Benjamin gamteng zong-te a, ahih hangin mu samlo-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
@@ -108,45 +108,45 @@
 ### v10
 **EN:** Then said Saul to his servant, Well said; come, let us go. So they went unto the city where the man of God was.
 
-**TDB77:** Tua ciangin Saul in a nasempa kiangah, “Pha hi; hong pai in, pai ni,” a ci hi. Tua ahih ciangin Pasian’ mipa a omna khuapi-ah amaute pai uh hi.
+**TDB77:** Tua ciangin Saul in a nasempa kiangah, “Pha hi; hong pai in, pai ni,” a ci hi. Tua ahih ciangin Pasian’ mipa a omna khuapi-ah amaute pai-te hi.
 
-**ZVS:** Tua ciangin Saul in a nasempa kiangah, “Tua ahih leh hoih hi, va pai ni,” a ci hi. Tua ahih ciangin Pasian' mipa a omna khuapi-ah amaute a pai uh hi.
+**ZVS:** Tua ciangin Saul in a nasempa kiangah, “Tua ahih leh hoih hi, va pai ni,” a ci hi. Tua ahih ciangin Pasian' mipa a omna khuapi-ah amaute a pai-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | hortative: let us | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And as they went up the hill to the city, they found young maidens going out to draw water, and said unto them, Is the seer here?
 
-**TDB77:** Amaute khuapi omna mual tungah a paitoh laitakun amaute in khuapi panin tuitawi dingin hong paikhia nungaknote tuak uh a, amaute kiangah, “Thu-mu-pa hih lai-ah a om hiam?” a ci uh hi.
+**TDB77:** Amaute khuapi omna mual tungah a paitoh laitakun amaute in khuapi panin tuitawi dingin hong paikhia nungaknote tuak-te a, amaute kiangah, “Thu-mu-pa hih lai-ah a om hiam?” a ci-te hi.
 
-**ZVS:** Amaute khuapi omna muatungah a paitoh laitakun khuapi panin tui tawi dingin hong paikhia nungaknote tawh kituak uh ahih manin amaute kiangah, “Thumupa hih lai-ah a om hiam?” a ci uh hi.
+**ZVS:** Amaute khuapi omna muatungah a paitoh laitakun khuapi panin tui tawi dingin hong paikhia nungaknote tawh kituak-te ahih manin amaute kiangah, “Thumupa hih lai-ah a om hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And they answered them, and said, He is; behold, he is before you: make haste now, for he came to day to the city; for there is a sacrifice of the people to day in the high place:
 
-**TDB77:** Amaute in dawngin, “Amah om hi; en un, note mai diakah om hi. Kinawh un; khuapi sungah tu mahmahin hong pai hi; bang hang hiam cih leh mite in tuni-in mual tunga biakna-ah biakna pia uh hi.
+**TDB77:** Amaute in dawngin, “Amah om hi; en un, note mai diakah om hi. Kinawh un; khuapi sungah tu mahmahin hong pai hi; bang hang hiam cih leh mite in tuni-in mual tunga biakna-ah biakna pia-te hi.
 
-**ZVS:** Amaute in, “Amah om hi; note' mai diakah pai hi. Kinawh un; khuapi sungah tu mahmahin hong pai hi. Bang hang hiam cih leh mite in tuni-in mualtunga biakna-ah biakna pia uh hi.
+**ZVS:** Amaute in, “Amah om hi; note' mai diakah pai hi. Kinawh un; khuapi sungah tu mahmahin hong pai hi. Bang hang hiam cih leh mite in tuni-in mualtunga biakna-ah biakna pia-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** As soon as ye be come into the city, ye shall straightway find him, before he go up to the high place to eat: for the people will not eat until he come, because he doth bless the sacrifice; and afterwards they eat that be bidden. Now therefore get you up; for about this time ye shall find him.
 
-**TDB77:** Khuapi sung na lut phetun mual tunga biakna-ah an ne dingin a pai ma-in amah na mu ding uh hi; amah in biakpiakna thupha pia ding ahih manin ama pai mateng mite in an ne lo ding uh hi; tua khit ciangin a kisam mite in ne uh hi. Tu-in paito un; bang hang hiam cih leh amah na tuak pah ding uh hi,” a ci uh hi.
+**TDB77:** Khuapi sung na lut phetun mual tunga biakna-ah an ne dingin a pai ma-in amah na mu ding-te hi; amah in biakpiakna thupha pia ding ahih manin ama pai mateng mite in an ne lo ding-te hi; tua khit ciangin a kisam mite in ne-te hi. Tu-in paito un; bang hang hiam cih leh amah na tuak pah ding-te hi,” a ci-te hi.
 
-**ZVS:** Khuapi sung na lut phetun mualtunga biakna-ah anne dingin a pai ma-in amah na mu ding uh hi. Amah in biakpiakna thupha pia ding ahih manin ama pai mateng mite in an nelo ding uh hi. Thupha a piak khit ciangin a kisam mite in ne thei pan uh hi. Tu-in paito un; bang hang hiam cih leh amah na tuakpah ding uh hi,” a ci uh hi.
+**ZVS:** Khuapi sung na lut phetun mualtunga biakna-ah anne dingin a pai ma-in amah na mu ding-te hi. Amah in biakpiakna thupha pia ding ahih manin ama pai mateng mite in an nelo ding-te hi. Thupha a piak khit ciangin a kisam mite in ne thei pan-te hi. Tu-in paito un; bang hang hiam cih leh amah na tuakpah ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And they went up into the city: and when they were come into the city, behold, Samuel came out against them, for to go up to the high place.
 
-**TDB77:** Tua ahih ciangin amaute khuapi-ah paito uh hi. Amaute khuapi sungah a lut lai takin Samuel mual tunga biakna lamah a pai dingin amau’ lamah a hong paikhia mu uh hi.
+**TDB77:** Tua ahih ciangin amaute khuapi-ah paito-te hi. Amaute khuapi sungah a lut lai takin Samuel mual tunga biakna lamah a pai dingin amau’ lamah a hong paikhia mu-te hi.
 
-**ZVS:** Tua ahih ciangin khuapi-ah amaute paito uh hi. Khuapi sungah amaute a lut laitakun mualtunga biakna lamah Samuel a pai dingin amau' lamah hong paikhia a mu uh hi.
+**ZVS:** Tua ahih ciangin khuapi-ah amaute paito-te hi. Khuapi sungah amaute a lut laitakun mualtunga biakna lamah Samuel a pai dingin amau' lamah hong paikhia a mu-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -241,18 +241,18 @@
 ### v25
 **EN:** And when they were come down from the high place into the city, Samuel communed with Saul upon the top of the house.
 
-**TDB77:** Amaute mual tunga biakna panin khuapi sungah a paisuk uh ciangin innkhumzang-ah Saul adingin lupna khat na kiphah a, a ihmu dingin amah lumsuk hi.
+**TDB77:** Amaute mual tunga biakna panin khuapi sungah a paisuk-te ciangin innkhumzang-ah Saul adingin lupna khat na kiphah a, a ihmu dingin amah lumsuk hi.
 
-**ZVS:** Amaute mualtunga biakna panin khuapi sungah a paisuk uh ciangin innkhumzangah Saul-a' dingin lupna khat na kiphah a, a ihmu dingin amah lumsuk hi.
+**ZVS:** Amaute mualtunga biakna panin khuapi sungah a paisuk-te ciangin innkhumzangah Saul-a' dingin lupna khat na kiphah a, a ihmu dingin amah lumsuk hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v26
 **EN:** And they arose early: and it came to pass about the spring of the day, that Samuel called Saul to the top of the house, saying, Up, that I may send thee away. And Saul arose, and they went out both of them, he and Samuel, abroad.
 
-**TDB77:** Khua a vak ciangin Samuel in innkhumzang-a Saul samin, “Na pai nading ah kong sawl theih nadingin tho in,” a ci hi. Tua ahih ciangin Saul tho-in, amah leh Samuel, khuapi kongzing ah pai uh hi.
+**TDB77:** Khua a vak ciangin Samuel in innkhumzang-a Saul samin, “Na pai nading ah kong sawl theih nadingin tho in,” a ci hi. Tua ahih ciangin Saul tho-in, amah leh Samuel, khuapi kongzing ah pai-te hi.
 
-**ZVS:** Khua a vak ciangin Samuel in innkhumzanga Saul samin, “Na paina dingah kong sawl theihna dingin tho in,” a ci hi. Tua ahih ciangin Saul tho-in, amah leh Samuel, khuapi kongzingah a pai uh hi.
+**ZVS:** Khua a vak ciangin Samuel in innkhumzanga Saul samin, “Na paina dingah kong sawl theihna dingin tho in,” a ci hi. Tua ahih ciangin Saul tho-in, amah leh Samuel, khuapi kongzingah a pai-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 

@@ -22,9 +22,9 @@
 ### v1
 **EN:** And in that day seven women shall take hold of one man, saying, We will eat our own bread, and wear our own apparel: only let us be called by thy name, to take away our reproach.
 
-**TDB77:** Tua ni ciangin, nupi sagih in papi khat nei khawm ding uh a, “Kote in komau’ an ciat mah ne-in, komau’ puanciat mah ka silh ding uh hi, kote pen, nangma zi cih min bek hong pua sak in; ka minsiatna teng uh hong hum in,” ci ding uh hi.
+**TDB77:** Tua ni ciangin, nupi sagih in papi khat nei khawm ding-te a, “Kote in komau’ an ciat mah ne-in, komau’ puanciat mah ka silh ding-te hi, kote pen, nangma zi cih min bek hong pua sak in; ka minsiatna teng-te hong hum in,” ci ding-te hi.
 
-**ZVS:** Tua ni ciangin nupi sagih in papi khat neikhawm ding uh a, “Kote in komau' an ciat ne-in, komau' puan ciat mah ka silh ding uh hi. Kote pen, nangma zi cih min bek hong puasak in; ka minsiatna teng uh hong hum in,” ci ding uh hi.
+**ZVS:** Tua ni ciangin nupi sagih in papi khat neikhawm ding-te a, “Kote in komau' an ciat ne-in, komau' puan ciat mah ka silh ding-te hi. Kote pen, nangma zi cih min bek hong puasak in; ka minsiatna teng-te hong hum in,” ci ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 

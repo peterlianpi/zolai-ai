@@ -86,9 +86,9 @@
 ### v8
 **EN:** And the drinking was according to the law; none did compel: for so the king had appointed to all the officers of his house, that they should do according to every man's pleasure.
 
-**TDB77:** Tua lai-ah zu nekna zia pen kihah piak cih om lo hi; bang hang hiam cih leh mi khempeuh in amau’ duh zahzah bek a neksak nading uh kumpipa in ama nuai-a uliante thupia hi.
+**TDB77:** Tua lai-ah zu nekna zia pen kihah piak cih om lo hi; bang hang hiam cih leh mi khempeuh in amau’ duh zahzah bek a neksak nading-te kumpipa in ama nuai-a uliante thupia hi.
 
-**ZVS:** Tua lai-ah zu nekna zia pen kihah piak cih omlo hi; bang hang hiam cih leh mi khempeuh in amau' duh zahzah bek a neksakna ding uh kumpipa in a nuai-a a uliante thu pia hi.
+**ZVS:** Tua lai-ah zu nekna zia pen kihah piak cih omlo hi; bang hang hiam cih leh mi khempeuh in amau' duh zahzah bek a neksakna ding-te kumpipa in a nuai-a a uliante thu pia hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -129,9 +129,9 @@
 ### v14
 **EN:** And the next unto him was Carshena, Shethar, Admatha, Tarshish, Meres, Marsena, and Memucan, the seven princes of Persia and Media, which saw the king's face, and which sat the first in the kingdom;)
 
-**TDB77:** ama gei nai pen ah a tu, hun omzia a thei, Persia leh Media gam ulian sagihte ahi Karshena, Shethar, Admatha, Tarshish, Meres, Marsena, leh Memukante hi uh a, kumpipa kiangah a hawh thei, kumpi gam sungah ulian pente ahi uh hi.
+**TDB77:** ama gei nai pen ah a tu, hun omzia a thei, Persia leh Media gam ulian sagihte ahi Karshena, Shethar, Admatha, Tarshish, Meres, Marsena, leh Memukante hi-te a, kumpipa kiangah a hawh thei, kumpi gam sungah ulian pente ahi-te hi.
 
-**ZVS:** Ama gei nai penah a tu mite pen Persia leh Media gam ulian sagihte ahi Karshena, Shethar, Admatha, Tarshish, Meres, Marsena, leh Memukan-te hi uh a, kumpipa kiangah a hawh thei, kumpi gamsungah ulian pente ahi uh hi.
+**ZVS:** Ama gei nai penah a tu mite pen Persia leh Media gam ulian sagihte ahi Karshena, Shethar, Admatha, Tarshish, Meres, Marsena, leh Memukan-te hi-te a, kumpipa kiangah a hawh thei, kumpi gamsungah ulian pente ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -156,18 +156,18 @@
 ### v17
 **EN:** For this deed of the queen shall come abroad unto all women, so that they shall despise their husbands in their eyes, when it shall be reported, The king Ahasuerus commanded Vashti the queen to be brought in before him, but she came not.
 
-**TDB77:** Kumpinu’ gamtatna thu numei khempeuh in thei ding uh a, hih thu hangin numeite in a pasalte uh simmawh ding uh hi; amaute in, ‘Kumpipa Ahasu-eras in ama kiangah a pai dingin Kumpinu Vashti thu pia napi-in pai lo hi,’ ci ding uh hi.
+**TDB77:** Kumpinu’ gamtatna thu numei khempeuh in thei ding-te a, hih thu hangin numeite in a pasalte-te simmawh ding-te hi; amaute in, ‘Kumpipa Ahasu-eras in ama kiangah a pai dingin Kumpinu Vashti thu pia napi-in pai lo hi,’ ci ding-te hi.
 
-**ZVS:** Kumpinu' gamtatna thu numei dangte khempeuh in thei ding uh a, hih thu hangin numeite in a pasalte uh simmawh ding uh a, amaute in, ‘Kumpipa Ahasueras in ama kiangah a pai dingin Kumpinu Vashti thu pia napi-in pailo hi,’ ci ding uh hi.
+**ZVS:** Kumpinu' gamtatna thu numei dangte khempeuh in thei ding-te a, hih thu hangin numeite in a pasalte-te simmawh ding-te a, amaute in, ‘Kumpipa Ahasueras in ama kiangah a pai dingin Kumpinu Vashti thu pia napi-in pailo hi,’ ci ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Likewise shall the ladies of Persia and Media say this day unto all the king's princes, which have heard of the deed of the queen. Thus shall there arise too much contempt and wrath.
 
-**TDB77:** Hih banga kumpinu’ gamtatna thu a za Persia leh Media gam numei liante in kumpipa nuai-a uliante tungah tu ni mahmah-in hih thu gen ding uh a, kisimmawhna leh kizahtak lohna tampi piangsak ding hi.
+**TDB77:** Hih banga kumpinu’ gamtatna thu a za Persia leh Media gam numei liante in kumpipa nuai-a uliante tungah tu ni mahmah-in hih thu gen ding-te a, kisimmawhna leh kizahtak lohna tampi piangsak ding hi.
 
-**ZVS:** Hih banga kumpinu' gamtatna thu a za Persia leh Media gam numei liante in kumpipa nuai-a uliante tungah tuni mahmahin hih thu gen ding uh a, kisimmawhna leh kizahtak lohna tampi piangsak ding hi.
+**ZVS:** Hih banga kumpinu' gamtatna thu a za Persia leh Media gam numei liante in kumpipa nuai-a uliante tungah tuni mahmahin hih thu gen ding-te a, kisimmawhna leh kizahtak lohna tampi piangsak ding hi.
 
 **Grammar:** causative: -sak suffix | intensifier: very/greatly | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -183,18 +183,18 @@
 ### v20
 **EN:** And when the king's decree which he shall make shall be published throughout all his empire, (for it is great,) all the wives shall give to their husbands honour, both to great and small.
 
-**TDB77:** Tua banga kumpipa’ thupiakna thu kumpigam sung khempeuh ah a kizak ciangin numei khempeuh in a neu a lian amau’ pasal ciat zahtak ding uh hi,” a ci hi.
+**TDB77:** Tua banga kumpipa’ thupiakna thu kumpigam sung khempeuh ah a kizak ciangin numei khempeuh in a neu a lian amau’ pasal ciat zahtak ding-te hi,” a ci hi.
 
-**ZVS:** Tua banga kumpipa' thupiakna thu kumpi gamsung khempeuhah a kizak ciangin numei khempeuh in a neu a lian amau' pasal ciat zahtak ding uh hi,” a ci hi.
+**ZVS:** Tua banga kumpipa' thupiakna thu kumpi gamsung khempeuhah a kizak ciangin numei khempeuh in a neu a lian amau' pasal ciat zahtak ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And the saying pleased the king and the princes; and the king did according to the word of Memucan:
 
-**TDB77:** Kumpipa leh uliante in hih ngaihsutna hoih sa uh a, Memukan’ gen bangin kumpipa gamta hi.
+**TDB77:** Kumpipa leh uliante in hih ngaihsutna hoih sa-te a, Memukan’ gen bangin kumpipa gamta hi.
 
-**ZVS:** Kumpipa leh uliante in hih ngaihsutna hoihsa uh a, Memukan' gen bangin kumpipa a gamta hi.
+**ZVS:** Kumpipa leh uliante in hih ngaihsutna hoihsa-te a, Memukan' gen bangin kumpipa a gamta hi.
 
 **Grammar:** plural: uh marker
 

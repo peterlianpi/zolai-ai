@@ -28,8 +28,8 @@ Providing a robust legal and administrative vocabulary bridges the gap between c
 When creating sentences about government or laws:
 ```zolai
 Kumpi thukhun i zuih ding a kisam hi.
-Mi khempeuh in suahtakna a deih uh hi.
-Thukhente in thuman thutak zang in vaihawm uh hi.
+Mi khempeuh in suahtakna a deih-te hi.
+Thukhente in thuman thutak zang in vaihawm-te hi.
 ```
 
 ## Mistake / Anti-pattern

@@ -4,7 +4,7 @@
 
 ### gelhkholhsa = foretold/prophesied
 **Context:** Refers to what the prophets wrote about Jesus in the scriptures.
-**Example:** Moses in Pasian’ Thukhamna Lai Siangtho sung leh kamsangte in lai sungah a gelhkholhsa Nazareth mi Josef’ tapa Zeisu ka mu zo uh hi
+**Example:** Moses in Pasian’ Thukhamna Lai Siangtho sung leh kamsangte in lai sungah a gelhkholhsa Nazareth mi Josef’ tapa Zeisu ka mu zo-te hi
 
 ### kamsangte = prophets
 **Context:** Used alongside 'Moses in Pasian’ Thukhamna Lai Siangtho' (Moses in the Law of God) to refer to the Old Testament writers.
@@ -36,7 +36,7 @@
 
 ### Leenggahtui = wine (specifically grape juice/wine)
 **Context:** The substance that ran out at the wedding feast.
-**Example:** Leenggahtui a bei ciangin Zeisu’ nu in Zeisu kiangah, “Leenggahtui a nei kei uh hi,” ci-in a ko hi.
+**Example:** Leenggahtui a bei ciangin Zeisu’ nu in Zeisu kiangah, “Leenggahtui a nei kei-te hi,” ci-in a ko hi.
 
 ### lunghihmawhna = worry/concern/trouble (lit. heart-trouble)
 **Context:** Jesus' response to his mother about the lack of wine, questioning why she is bringing this concern to him.
@@ -87,7 +87,7 @@
 
 - **X in Y kiangah, 'Z' ci-in a ko hi/a gen hi.**
   - Reporting speech directed to a specific person: X said to Y, 'Z'.
-  - Example: Leenggahtui a bei ciangin Zeisu’ nu in Zeisu kiangah, “Leenggahtui a nei kei uh hi,” ci-in a ko hi.
+  - Example: Leenggahtui a bei ciangin Zeisu’ nu in Zeisu kiangah, “Leenggahtui a nei kei-te hi,” ci-in a ko hi.
 
 - **X in Y na hih un, ci-in a gen hi.**
   - Reporting a command or instruction: X said, 'Do Y to X'.

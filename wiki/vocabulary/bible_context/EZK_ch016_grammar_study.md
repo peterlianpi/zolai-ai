@@ -358,27 +358,27 @@
 ### v39
 **EN:** And I will also give thee into their hand, and they shall throw down thine eminent place, and shall break down thy high places: they shall strip thee also of thy clothes, and shall take thy fair jewels, and leave thee naked and bare.
 
-**TDB77:** Na lunggulh mite’ khut sungah kong pia ding a, na paktat gamtatna munte leh na milim biakna munte, amaute in susia gawp ding uh hi. Na puante leh a manpha na kizepnate hong lakkhiatsakin, na guaktangin hong koih ding uh hi.
+**TDB77:** Na lunggulh mite’ khut sungah kong pia ding a, na paktat gamtatna munte leh na milim biakna munte, amaute in susia gawp ding-te hi. Na puante leh a manpha na kizepnate hong lakkhiatsakin, na guaktangin hong koih ding-te hi.
 
-**ZVS:** Na lunggulh mite' khutsungah kong pia ding a, na paktat gamtatna munte leh na milim biakna munte, amaute in susiagawp ding uh hi. Na puante leh a manpha na kizepnate hong lakkhiat sakin, na guaktangin hong koih ding uh hi.
+**ZVS:** Na lunggulh mite' khutsungah kong pia ding a, na paktat gamtatna munte leh na milim biakna munte, amaute in susiagawp ding-te hi. Na puante leh a manpha na kizepnate hong lakkhiat sakin, na guaktangin hong koih ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v40
 **EN:** They shall also bring up a company against thee, and they shall stone thee with stones, and thrust thee through with their swords.
 
-**TDB77:** Amaute in mihonte hanthawnin, tua mihonte in suang tawh nang hong deengin, a namsau uh tawh hong satzan ding uh hi.
+**TDB77:** Amaute in mihonte hanthawnin, tua mihonte in suang tawh nang hong deengin, a namsau-te tawh hong satzan ding-te hi.
 
-**ZVS:** “Amaute in mihonte hanthawnin, tua mihonte in suang tawh nang hong dengin, a namsau uh tawh hong satzan ding uh hi.
+**ZVS:** “Amaute in mihonte hanthawnin, tua mihonte in suang tawh nang hong dengin, a namsau-te tawh hong satzan ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v41
 **EN:** And they shall burn thine houses with fire, and execute judgments upon thee in the sight of many women: and I will cause thee to cease from playing the harlot, and thou also shalt give no hire any more.
 
-**TDB77:** Amaute in na innte hong haltum sakin, na daantuahna, numei honpi en sak ding uh hi. Numei paktat na hihna kong khawlsak ding a, na mawhpih ding pasalte sum tawh na guaihna kong khawlsak ding hi.
+**TDB77:** Amaute in na innte hong haltum sakin, na daantuahna, numei honpi en sak ding-te hi. Numei paktat na hihna kong khawlsak ding a, na mawhpih ding pasalte sum tawh na guaihna kong khawlsak ding hi.
 
-**ZVS:** Amaute in na innte hong haltum sakin, na gimthuakna, numei honpi ensak ding uh hi. Numei paktat na hihna kong khawlsak ding a, na mawhpih ding pasalte sum tawh na guaihna kong khawlsak ding hi.
+**ZVS:** Amaute in na innte hong haltum sakin, na gimthuakna, numei honpi ensak ding-te hi. Numei paktat na hihna kong khawlsak ding a, na mawhpih ding pasalte sum tawh na guaihna kong khawlsak ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -403,18 +403,18 @@
 ### v44
 **EN:** Behold, every one that useth proverbs shall use this proverb against thee, saying, As is the mother, so is her daughter.
 
-**TDB77:** Topa in, “Jerusalem aw, ‘Tanu in a nu sun,’ cih paunak pen mite in nang tungah hong zang ding uh hi.
+**TDB77:** Topa in, “Jerusalem aw, ‘Tanu in a nu sun,’ cih paunak pen mite in nang tungah hong zang ding-te hi.
 
-**ZVS:** { Topa } in, “Jerusalem aw, ‘Tanu in a nu sun,’ cih paunak pen mite in nang tungah hong zang ding uh hi.
+**ZVS:** { Topa } in, “Jerusalem aw, ‘Tanu in a nu sun,’ cih paunak pen mite in nang tungah hong zang ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v45
 **EN:** Thou art thy mother's daughter, that lotheth her husband and her children; and thou art the sister of thy sisters, which lothed their husbands and their children: your mother was an Hittite, and your father an Amorite.
 
-**TDB77:** Nang pen na nu’ ta taktak na hi hi. Na nu in a pasal leh a tate mudah hi. A pasalte uh leh a tate uh a mudah na sanggam numeite mah tawh na kibang hi. Nang leh na sanggam numei khuapi dangte in nu-in Hit mi nei-in, pa-in Amor mi na nei uh hi.
+**TDB77:** Nang pen na nu’ ta taktak na hi hi. Na nu in a pasal leh a tate mudah hi. A pasalte-te leh a tate-te a mudah na sanggam numeite mah tawh na kibang hi. Nang leh na sanggam numei khuapi dangte in nu-in Hit mi nei-in, pa-in Amor mi na nei-te hi.
 
-**ZVS:** Nang pen na nu' ta taktak na hi hi. Na nu in a pasal leh a tate mudah hi. A pasalte uh leh a tate uh a mudah na sanggam numeite mah tawh na kibang hi. Nang leh na sanggam numei ahi khuapi dangte in nu-in Hit mi nei-in, pa-in Amor mi na nei uh hi.
+**ZVS:** Nang pen na nu' ta taktak na hi hi. Na nu in a pasal leh a tate mudah hi. A pasalte-te leh a tate-te a mudah na sanggam numeite mah tawh na kibang hi. Nang leh na sanggam numei ahi khuapi dangte in nu-in Hit mi nei-in, pa-in Amor mi na nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -446,18 +446,18 @@
 ### v49
 **EN:** Behold, this was the iniquity of thy sister Sodom, pride, fulness of bread, and abundance of idleness was in her and in her daughters, neither did she strengthen the hand of the poor and needy.
 
-**TDB77:** Na sanggamnu’ mawhna in: Amah leh a tanute in nek ding tampi nei-in nuamsa mahmahin dai takin om uh ahih manin amaute kiphasak uh a, a zawng a cimawhte don lo uh hi.
+**TDB77:** Na sanggamnu’ mawhna in: Amah leh a tanute in nek ding tampi nei-in nuamsa mahmahin dai takin om-te ahih manin amaute kiphasak-te a, a zawng a cimawhte don lo-te hi.
 
-**ZVS:** Na sanggamnu' mawhna pen: Amah leh a tanute in nek ding tampi nei-in nuamsa mahmahin, daitakin om uh ahih manin amaute kiphasak uh a, a zawng a cimawhte donlo uh hi.
+**ZVS:** Na sanggamnu' mawhna pen: Amah leh a tanute in nek ding tampi nei-in nuamsa mahmahin, daitakin om-te ahih manin amaute kiphasak-te a, a zawng a cimawhte donlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v50
 **EN:** And they were haughty, and committed abomination before me: therefore I took them away as I saw good.
 
-**TDB77:** Amaute kihisakin ka deih loh nate gamta uh ahih manin, na theih mah bangin amaute ka susia hi.
+**TDB77:** Amaute kihisakin ka deih loh nate gamta-te ahih manin, na theih mah bangin amaute ka susia hi.
 
-**ZVS:** Amaute kihisakin ka deihloh nate gamta uh ahih manin, na theih mah bangin amaute ka nusia hi.
+**ZVS:** Amaute kihisakin ka deihloh nate gamta-te ahih manin, na theih mah bangin amaute ka nusia hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix
 
@@ -498,9 +498,9 @@
 ### v55
 **EN:** When thy sisters, Sodom and her daughters, shall return to their former estate, and Samaria and her daughters shall return to their former estate, then thou and thy daughters shall return to your former estate.
 
-**TDB77:** Na sanggam numei Sodom leh a khuaneute, leh Samaria leh a khuaneute cithei kikin a ngei uh bangkik ding uh a, nang leh na khuaneute zong na cithei kik ding uh hi.
+**TDB77:** Na sanggam numei Sodom leh a khuaneute, leh Samaria leh a khuaneute cithei kikin a ngei-te bangkik ding-te a, nang leh na khuaneute zong na cithei kik ding-te hi.
 
-**ZVS:** Na sanggam numei Sodom leh a khuaneute, leh Samaria leh a khuaneute cithei kikin a ngei uh bangkik ding a, nang leh na khuaneute zong na cithei kik ding uh hi.
+**ZVS:** Na sanggam numei Sodom leh a khuaneute, leh Samaria leh a khuaneute cithei kikin a ngei-te bangkik ding a, nang leh na khuaneute zong na cithei kik ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -539,9 +539,9 @@
 ### v61
 **EN:** Then thou shalt remember thy ways, and be ashamed, when thou shalt receive thy sisters, thine elder and thy younger: and I will give them unto thee for daughters, but not by thy covenant.
 
-**TDB77:** Na u nu leh na nau nu na ngahkik ciangin na gamtatnasa teng phawk kikin na mai a zum ding hi. Nang tawh i thuciamna sungah a kihel loh hangin amaute pen nangma tanu bangin hong om ding uh hi.
+**TDB77:** Na u nu leh na nau nu na ngahkik ciangin na gamtatnasa teng phawk kikin na mai a zum ding hi. Nang tawh i thuciamna sungah a kihel loh hangin amaute pen nangma tanu bangin hong om ding-te hi.
 
-**ZVS:** Na unu leh na naunu na ngahkik ciangin na gamtatnasa teng phawkkikin na mai a zum ding hi. Nang tawh i thuciamna sungah a kihelloh hangin amaute pen nangma tanu bangin hong om ding uh hi.
+**ZVS:** Na unu leh na naunu na ngahkik ciangin na gamtatnasa teng phawkkikin na mai a zum ding hi. Nang tawh i thuciamna sungah a kihelloh hangin amaute pen nangma tanu bangin hong om ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

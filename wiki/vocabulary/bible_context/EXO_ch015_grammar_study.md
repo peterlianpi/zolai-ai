@@ -28,9 +28,9 @@
 ### v1
 **EN:** Then sang Moses and the children of Israel this song unto the
 
-**TDB77:** Tua ciangin Moses leh Israel mite in Topa' tungah hih la sa uh a, “Topa tungah la ka sa ding hi, amah in minthangin zo khin a, amah in sakol leh a tuangpa tuipi sungah lawn hi.
+**TDB77:** Tua ciangin Moses leh Israel mite in Topa' tungah hih la sa-te a, “Topa tungah la ka sa ding hi, amah in minthangin zo khin a, amah in sakol leh a tuangpa tuipi sungah lawn hi.
 
-**ZVS:** Tua ciangin Moses leh Israel mite in { Topa' } tungah hih la sa uh a, “{ Topa } phatna la ka sa ding hi. Amah in minthangin zo khin a, amah in sakol leh a tuangpa tuipi sungah a lawn hi.
+**ZVS:** Tua ciangin Moses leh Israel mite in { Topa' } tungah hih la sa-te a, “{ Topa } phatna la ka sa ding hi. Amah in minthangin zo khin a, amah in sakol leh a tuangpa tuipi sungah a lawn hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -62,9 +62,9 @@
 ### v5
 **EN:** The depths have covered them: they sank into the bottom as a stone.
 
-**TDB77:** Tui in amaute tuum a, suangtum bangin a thukna sungah amaute kiasuk uh hi.
+**TDB77:** Tui in amaute tuum a, suangtum bangin a thukna sungah amaute kiasuk-te hi.
 
-**ZVS:** Tui in amaute tuum a, suangtum bangin a thukna sungah amaute kia suk uh hi.
+**ZVS:** Tui in amaute tuum a, suangtum bangin a thukna sungah amaute kia suk-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -94,18 +94,18 @@
 ### v9
 **EN:** The enemy said, I will pursue, I will overtake, I will divide the spoil; my lust shall be satisfied upon them; I will draw my sword, my hand shall destroy them.
 
-**TDB77:** Galte in, ‘ka delh dinga, ka pha ding hi. A nate uh ka hawm ding a, ka deih zahzah-in tuate ka tang ding hi. Ka namsau ka dok ding a, ka khut in amaute susia ding hi,’ ci hi.
+**TDB77:** Galte in, ‘ka delh dinga, ka pha ding hi. A nate-te ka hawm ding a, ka deih zahzah-in tuate ka tang ding hi. Ka namsau ka dok ding a, ka khut in amaute susia ding hi,’ ci hi.
 
-**ZVS:** Galte in, ‘Ka delh ding a, ka pha ding hi. A nate uh ka hawm ding a, ka deih zahzahin, tuate ka tang ding hi. Ka namsau ka dok ding a, ka khut in amaute susia ding hi,’ ci hi.
+**ZVS:** Galte in, ‘Ka delh ding a, ka pha ding hi. A nate-te ka hawm ding a, ka deih zahzahin, tuate ka tang ding hi. Ka namsau ka dok ding a, ka khut in amaute susia ding hi,’ ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 
 ### v10
 **EN:** Thou didst blow with thy wind, the sea covered them: they sank as lead in the mighty waters.
 
-**TDB77:** Nang in na huih tawh na mut a, tuipi in amaute tuum hi; a kihtakhuai tui sungah haknaw bangin amaute tum uh hi.
+**TDB77:** Nang in na huih tawh na mut a, tuipi in amaute tuum hi; a kihtakhuai tui sungah haknaw bangin amaute tum-te hi.
 
-**ZVS:** Nang in na huih tawh na mut a, tuipi in amaute tuum hi. A kihtakhuai tui sungah haknaw bangin amaute tum uh hi.
+**ZVS:** Nang in na huih tawh na mut a, tuipi in amaute tuum hi. A kihtakhuai tui sungah haknaw bangin amaute tum-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -137,27 +137,27 @@
 ### v14
 **EN:** The people shall hear, and be afraid: sorrow shall take hold on the inhabitants of Philistia.
 
-**TDB77:** Mite in za khin uh a, amaute liing uh hi; Filistia-ah a teng mite gimna in mancip hi.
+**TDB77:** Mite in za khin-te a, amaute liing-te hi; Filistia-ah a teng mite gimna in mancip hi.
 
-**ZVS:** Midangte in hih thu za khin uh a, amaute ling uh hi. Filistia-ah a teng mite lau-in lingcip uh hi.
+**ZVS:** Midangte in hih thu za khin-te a, amaute ling-te hi. Filistia-ah a teng mite lau-in lingcip-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
 ### v15
 **EN:** Then the dukes of Edom shall be amazed; the mighty men of Moab, trembling shall take hold upon them; all the inhabitants of Canaan shall melt away.
 
-**TDB77:** Tu-in Edom ukpite lungkia uh a, Moab makaite, liin’na in mancip hi; Kanaan-ah a teeng mite khempeuh tuisuak khin uh hi.
+**TDB77:** Tu-in Edom ukpite lungkia-te a, Moab makaite, liin’na in mancip hi; Kanaan-ah a teeng mite khempeuh tuisuak khin-te hi.
 
-**ZVS:** Tu-in Edom ukpite lungkia uh a, Moab makaite, lingcip uh hi. Kanaan-ah a teng mi khempeuh a han'na uh beita hi.
+**ZVS:** Tu-in Edom ukpite lungkia-te a, Moab makaite, lingcip-te hi. Kanaan-ah a teng mi khempeuh a han'na-te beita hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | plural: uh marker
 
 ### v16
 **EN:** Fear and dread shall fall upon them; by the greatness of thine arm they shall be as still as a stone; till thy people pass over, O
 
-**TDB77:** Launa leh kihtakna amau' tungah tung a, nangmah' thahat vangliatna hangin amaute suangtum bangin taang loin om uh a, Topa aw, nangma' mite in a khen’ mateng, nangma' leisa mite in a khen’ mateng, amaute khikcip uh hi.
+**TDB77:** Launa leh kihtakna amau' tungah tung a, nangmah' thahat vangliatna hangin amaute suangtum bangin taang loin om-te a, Topa aw, nangma' mite in a khen’ mateng, nangma' leisa mite in a khen’ mateng, amaute khikcip-te hi.
 
-**ZVS:** Launa leh kihtakna amaute' tungah tung a, a thahat na vangliatna hangin amaute suangtum bangin taang loin om uh hi. { Topa } aw, nangma mite in a khen' mateng, na leisa mite in a khen' mateng amaute khikcip uh hi.
+**ZVS:** Launa leh kihtakna amaute' tungah tung a, a thahat na vangliatna hangin amaute suangtum bangin taang loin om-te hi. { Topa } aw, nangma mite in a khen' mateng, na leisa mite in a khen' mateng amaute khikcip-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -173,27 +173,27 @@
 ### v18
 **EN:** The
 
-**TDB77:** Topa in uk tawntung ding hi,” a ci uh hi.
+**TDB77:** Topa in uk tawntung ding hi,” a ci-te hi.
 
-**ZVS:** { Topa } in uk tawntung ding hi,” a ci uh hi.
+**ZVS:** { Topa } in uk tawntung ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v19
 **EN:** For the horse of Pharaoh went in with his chariots and with his horsemen into the sea, and the
 
-**TDB77:** Bang hang hiam cih leh Faro’ sakolte ama' leengte tawh, a sakol tuangte tuipi sungah a pai ciangin, Topa in tuipi tuite amaute tuumsak kik hi; ahih hangin Israel mite tuipi laizang leikeu tungah pai uh hi.
+**TDB77:** Bang hang hiam cih leh Faro’ sakolte ama' leengte tawh, a sakol tuangte tuipi sungah a pai ciangin, Topa in tuipi tuite amaute tuumsak kik hi; ahih hangin Israel mite tuipi laizang leikeu tungah pai-te hi.
 
-**ZVS:** Faro' sakolte ama leengte tawh, a sakol tung tuangte tuipi sungah a pai ciangin, { Topa } in tuipi tuite amaute tuumsak kik a, ahi zongin Israel mite tuipi laizang lei keu tungah a pai uh hi.
+**ZVS:** Faro' sakolte ama leengte tawh, a sakol tung tuangte tuipi sungah a pai ciangin, { Topa } in tuipi tuite amaute tuumsak kik a, ahi zongin Israel mite tuipi laizang lei keu tungah a pai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And Miriam the prophetess, the sister of Aaron, took a timbrel in her hand; and all the women went out after her with timbrels and with dances.
 
-**TDB77:** Tua ciangin Aaron’ sanggamnu, numei kamsang, Miriam in a khut-ah khuang khat tawi hi; ama' nungah numeite khempeuh lamin khuang tawh zui uh hi.
+**TDB77:** Tua ciangin Aaron’ sanggamnu, numei kamsang, Miriam in a khut-ah khuang khat tawi hi; ama' nungah numeite khempeuh lamin khuang tawh zui-te hi.
 
-**ZVS:** Tua ahih manin Aaron' sanggamnu Miriam in a khutah khuang khat tawi hi. Ama nungah numeite khempeuh laamin khuang tawh a zui uh hi.
+**ZVS:** Tua ahih manin Aaron' sanggamnu Miriam in a khutah khuang khat tawi hi. Ama nungah numeite khempeuh laamin khuang tawh a zui-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -209,27 +209,27 @@
 ### v22
 **EN:** So Moses brought Israel from the Red sea, and they went out into the wilderness of Shur; and they went three days in the wilderness, and found no water.
 
-**TDB77:** Tua ciangin Moses in San Tuipi panin Israel mite paipih suak a, amaute Shur gamlakah pai uh hi; gamlak-ah amaute ni thum pai uh a, tui mu lo uh hi.
+**TDB77:** Tua ciangin Moses in San Tuipi panin Israel mite paipih suak a, amaute Shur gamlakah pai-te hi; gamlak-ah amaute ni thum pai-te a, tui mu lo-te hi.
 
-**ZVS:** Tua ciangin Moses in San Tuipi panin Israel mite paipih suak a, Shur sehnel gamah a pai uh hi. Sehnel gamah ni thum sung pai uh a, tui mulo uh hi.
+**ZVS:** Tua ciangin Moses in San Tuipi panin Israel mite paipih suak a, Shur sehnel gamah a pai-te hi. Sehnel gamah ni thum sung pai-te a, tui mulo-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
 ### v23
 **EN:** And when they came to Marah, they could not drink of the waters of Marah, for they were bitter: therefore the name of it was called Marah.
 
-**TDB77:** Amaute Marah a tun’ uh ciangin a tui kha ahih manin Marah tui dawn thei lo uh hi; tua ahih manin Marah ci-in min kiphuak hi.
+**TDB77:** Amaute Marah a tun’ uh ciangin a tui kha ahih manin Marah tui dawn thei lo-te hi; tua ahih manin Marah ci-in min kiphuak hi.
 
-**ZVS:** Marah a tun' uh ciangin a tui kha ahih manin Marah tui dawn theilo uh hi. Tua ahih manin Marah ci-in min kiphuak hi.
+**ZVS:** Marah a tun' uh ciangin a tui kha ahih manin Marah tui dawn theilo-te hi. Tua ahih manin Marah ci-in min kiphuak hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And the people murmured against Moses, saying, What shall we drink?
 
-**TDB77:** Moses' tungah mite phun uh a, “Bang dawn ding i hi hiam?” ci uh hi.
+**TDB77:** Moses' tungah mite phun-te a, “Bang dawn ding i hi hiam?” ci-te hi.
 
-**ZVS:** Moses tungah mite phun uh a, “Bang dawn ding ihi hiam?” ci uh hi.
+**ZVS:** Moses tungah mite phun-te a, “Bang dawn ding ihi hiam?” ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -245,18 +245,18 @@
 ### v26
 **EN:** And said, If thou wilt diligently hearken to the voice of the
 
-**TDB77:** “Note in Topa na Pasian’ thu lim takin na ngaih uh a, ama' maiah a man nate hih-in, ama' thupiakte don a, ama' ngeina kipte khempeuh na zuih uh leh, Izipt mite' tungah ka tun’sak natnate khat beek note' tungah kong tungsak kei ding hi; bang hang hiam cih leh keimah in Topa, note hong damsakpa ka hi hi,” a ci hi.
+**TDB77:** “Note in Topa na Pasian’ thu lim takin na ngaih-te a, ama' maiah a man nate hih-in, ama' thupiakte don a, ama' ngeina kipte khempeuh na zuih-te leh, Izipt mite' tungah ka tun’sak natnate khat beek note' tungah kong tungsak kei ding hi; bang hang hiam cih leh keimah in Topa, note hong damsakpa ka hi hi,” a ci hi.
 
-**ZVS:** “Note in { Topa } na Pasian uh thu limtakin na ngaih uh a, ama mai-ah a man nate hihin, ama thupiakte don a, ama ngeina kipte khempeuh na zuih uh leh, Egypt mite' tungah ka tun'sak natnate khat beek note' tungah kong tungsak kei ding hi. Bang hang hiam cih leh kei pen { Topa}, note hong damsakpa ka hi hi,” a ci hi.
+**ZVS:** “Note in { Topa } na Pasian-te thu limtakin na ngaih-te a, ama mai-ah a man nate hihin, ama thupiakte don a, ama ngeina kipte khempeuh na zuih-te leh, Egypt mite' tungah ka tun'sak natnate khat beek note' tungah kong tungsak kei ding hi. Bang hang hiam cih leh kei pen { Topa}, note hong damsakpa ka hi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** And they came to Elim, where were twelve wells of water, and threescore and ten palm trees: and they encamped there by the waters.
 
-**TDB77:** Tua ciangin amaute ciktui sawm-le-nih leh nisuh kung sawmsagih a omna mun Elim tung uh hi; tui gei tua mun-ah amaute in giahphual sat uh hi.
+**TDB77:** Tua ciangin amaute ciktui sawm-le-nih leh nisuh kung sawmsagih a omna mun Elim tung-te hi; tui gei tua mun-ah amaute in giahphual sat-te hi.
 
-**ZVS:** Tua ciangin amaute ciktui sawmlenih leh nisuh kung sawmsagih a omna mun Elim tung uh a, tui gei tua munah amaute in giahphual a sat uh hi.
+**ZVS:** Tua ciangin amaute ciktui sawmlenih leh nisuh kung sawmsagih a omna mun Elim tung-te a, tui gei tua munah amaute in giahphual a sat-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

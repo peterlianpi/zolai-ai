@@ -59,9 +59,9 @@
 ### v5
 **EN:** O ye simple, understand wisdom: and, ye fools, be ye of an understanding heart.
 
-**TDB77:** Ngaihsut kicing nai lote aw, na lungsim uh picing sak un. Mihaite aw, thu ngaihsun un.
+**TDB77:** Ngaihsut kicing nai lote aw, na lungsim-te picing sak un. Mihaite aw, thu ngaihsun un.
 
-**ZVS:** Ngaihsut kicing nailote aw, na lungsim uh khanghamsak un. Mihaite aw, thu ngaihsun un.
+**ZVS:** Ngaihsut kicing nailote aw, na lungsim-te khanghamsak un. Mihaite aw, thu ngaihsun un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -107,9 +107,9 @@
 ### v11
 **EN:** For wisdom is better than rubies; and all the things that may be desired are not to be compared to it.
 
-**TDB77:** Suangmanpha sangin pilna ahi keimah ka manphazaw a, kei tawh nong tehpih theih ding uh a manpha dang om lo hi.
+**TDB77:** Suangmanpha sangin pilna ahi keimah ka manphazaw a, kei tawh nong tehpih theih ding-te a manpha dang om lo hi.
 
-**ZVS:** “Suangmanpha sangin pilna ahi keimah ka hoihzaw a, kei tawh na hong tehpih theih ding uh a manpha dang omlo hi.
+**ZVS:** “Suangmanpha sangin pilna ahi keimah ka hoihzaw a, kei tawh na hong tehpih theih ding-te a manpha dang omlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -152,16 +152,16 @@
 ### v16
 **EN:** By me princes rule, and nobles, even all the judges of the earth.
 
-**TDB77:** Leitunga om mi ukte khempeuh in keima huhna bek tawh uk zo uh a, milian mithupite in keima huhna bek tawh vaihawm zo uh hi.
+**TDB77:** Leitunga om mi ukte khempeuh in keima huhna bek tawh uk zo-te a, milian mithupite in keima huhna bek tawh vaihawm zo-te hi.
 
-**ZVS:** Leitunga om mi ukte khempeuh in keima huhna bek tawh ukzo uh a, milian mi thupite in keima huhna bek tawh vaihawmzo uh hi.
+**ZVS:** Leitunga om mi ukte khempeuh in keima huhna bek tawh ukzo-te a, milian mi thupite in keima huhna bek tawh vaihawmzo-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** I love them that love me; and those that seek me early shall find me.
 
-**TDB77:** Kei hong itte ka it a, kei hong zong peuhmahte in hong mu uh hi.
+**TDB77:** Kei hong itte ka it a, kei hong zong peuhmahte in hong mu-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -177,7 +177,7 @@
 
 **TDB77:** Keima kiang panin na ngahte uh, ngun hoihpen sangin hoihzaw a, kham hoihpen sangin zong hoihzaw lai hi.
 
-**ZVS:** Keima kiang panin na ngahte uh ngun hoihpen sangin hoihzaw a, kham hoihpen sangin zong hoihzaw lai hi.
+**ZVS:** Keima kiang panin na ngahte-te ngun hoihpen sangin hoihzaw a, kham hoihpen sangin zong hoihzaw lai hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -282,9 +282,9 @@
 ### v32
 **EN:** Now therefore hearken unto me, O ye children: for blessed are they that keep my ways.
 
-**TDB77:** “Tate aw, tu-in ka thugen hong ngai un la, kong gente zui le-uh cin thupha na ngah ding uh hi.
+**TDB77:** “Tate aw, tu-in ka thugen hong ngai un la, kong gente zui le-uh cin thupha na ngah ding-te hi.
 
-**ZVS:** “Tate aw, tu-in ka thugen hong ngai un la, kong gente zui le uh cin lungdamna na ngah ding uh hi.
+**ZVS:** “Tate aw, tu-in ka thugen hong ngai un la, kong gente zui le-te cin lungdamna na ngah ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 

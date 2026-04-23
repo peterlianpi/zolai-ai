@@ -173,13 +173,13 @@ Never commit:
 
 ### Specs (AWS ap-southeast-1)
 - 2 vCPU (Intel Xeon Platinum 8259CL @ 2.50GHz)
-- 1.9 GB RAM (325 MB used by Next.js, ~60 MB Postgres, ~900 MB free)
+- 1.9 GB gam (325 MB used by Next.js, ~60 MB Postgres, ~900 MB free)
 - 58 GB SSD (29 GB used, 50%)
 - 4 GB swap
 - Cloudflare tunnel (no exposed ports)
 
 ### Process Memory
-| Process | RAM |
+| Process | gam |
 |---|---|
 | next-server | 325 MB (18.4%) |
 | systemd-journald | 118 MB |
@@ -192,7 +192,7 @@ Never commit:
 - Static pages: 10,000+ req/min (Cloudflare edge cache)
 - Dynamic API: ~50–100 req/min comfortable, ~300 req/min max
 - Practical: 500–5,000 DAU without issues
-- Bottleneck at scale: RAM (OOM risk at high concurrent SSR) and build time (2.3 min blocks during deploy)
+- Bottleneck at scale: gam (OOM risk at high concurrent SSR) and build time (2.3 min blocks during deploy)
 
 ### Systemd Service
 ```ini

@@ -47,7 +47,7 @@ THUPATNA
 
 Zolai pen Latin phonetic siksanin kibawl ahi hi. Tuhun ciang khangthakte in
 English phonetic siksanin lai sinzaw uhhi. Tua ahih manin Latin phonetic siksanin
-a kigelh Zolai a sim uh ciang Zopau awsuahin suak nawnlo hi. Tua panin Zopau
+a kigelh Zolai a sim-te ciang Zopau awsuahin suak nawnlo hi. Tua panin Zopau
 awsuah ngah nading English phonetic siksan aa hong kigelh leh Zolai gelhzia pen
 khat le khat hong kibanglo semsem kha ding hi.
 Tua ahih manin Zolai Standard Format khat kician takin a om zawh ding kisampha
@@ -61,7 +61,7 @@ phonetic zongh a zanglo gam tuamtuam aa tung Zomi khangthakte ii Zolai gelhzia
 zongh a tuampi khat hong suak kha thei lai ding hi. Tua ahih manin minambup in
 lai gelhziate a luanzia khat a kibatkim theih nadingin Zolai ah zongh Standard
 Format kician khat a om ding thupi mahmah hi.
-Tua bek thamlo, Zomi khangthakte aa kipan namdangte in Zolai a sin nop uh leh
+Tua bek thamlo, Zomi khangthakte aa kipan namdangte in Zolai a sin nop-te leh
 sinzia olin, sinna a nuam ding, kiciantak aa lak theih, hilh theih dingin Standard
 Format khat Zolai in a neih zawh ding kisam mahmah hi.
 
@@ -190,7 +190,7 @@ Plural Noun
 Te/Teng (Adj/v) pen tang khat bekin i gelh leh khiatna tuam neih hi.
 Te/Teng (Plural noun) pen a mai aa Noun tawh i mat leh tua Te/Teng in a mai aa Noun pen Plural
 noun (khat sangin a tamzaw) suaksak hi.
-Gtn. Tua a te ziahziah kham manphate nei le uh cin, khuapi sung ah noteng na teng zo ding uhhi.
+Gtn. Tua a te ziahziah kham manphate nei le-te cin, khuapi sung ah noteng na teng zo ding uhhi.
 *Plural Noun a suak sak, “te/teng” pen a mai aa Noun tawh mat hamtang ding.
 Adverb
 Lua (v) pen tang khat bekin i gelh leh khiatna tuam neih hi.
@@ -267,7 +267,7 @@ Keh/Kei = Kei ka paikeh, nang zongh na paikei oo.
 
 Zawk/Zaw = Nang kong teelzawk manin mi dangte in zongh nang mah hong teelzaw pah uhhi.
 
-Khop/Khawm = Noteng na paikhop uh ciang kei zongh no tawh paikhawm nuam ing.
+Khop/Khawm = Noteng na paikhop-te ciang kei zongh no tawh paikhawm nuam ing.
 
 Lamdan/Lamdang = Lamdang na cihcih uhhang’ a kilamdanna thei zokei ing.
 
@@ -399,7 +399,7 @@ Uh
 
 Eiteng i mawtaw tawh i paikhawm dia?
 
-Ka mawtaw tawh a paikhawm nuam uh dia? Kong
+Ka mawtaw tawh a paikhawm nuam-te dia? Kong
 zawn uhhi. i kizawn hi.
 
 I/Ei = Ei le ei i kigenna ah khat sangin i tamzawk
@@ -892,7 +892,7 @@ zasakkik oo.
 Gam
 aw.
 
-= Ka gam uh hong cidam sak in, Topa
+= Ka gam-te hong cidam sak in, Topa
 
 Ngam
 uhhi.
@@ -1057,7 +1057,7 @@ Ngup
 Hihte pen Zopau Tedim awsuah siksanin lakna bek hi aa “Ng” aw a zangte aa zongh
 Zopau/Zolai mah bel hiveve hi.
 Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw
-vive suaksak uh ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi.
+vive suaksak-te ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi.
 “G” aw a suak naak leh Tedim awsuah dikpen cihna hi pahlo aa, “Ng” aw a suak khempeuh
 zongh Tedim awsuah diklo cih bang hituanlo hi. Tedim awsuah ah “G” awsuah, “Ng” awsuah
 a nihin kihelh hi.
@@ -1084,7 +1084,7 @@ Sepna lakna ah zongh “in” cih mun tangin ( ’ ) kizangh thei hi. Kote in (K
 Phonetic tuamtuam zat ding pen hoih khinlozaw hi. Banghang hiam cih leh Zolai pen theih
 baih, sin baih, ciapteh baih ahih ding kisam hi. Tualoin Zolai a lunglut le a sin nuam kitawm
 semsem kha ding hi. Phonetic tuamtuam a zangh minamdang tampi a om sam hang’ zangh
-hetlo aa a khangto veve, a lai uh a tangzai veve minam tampi mah na om kawikawi hi.
+hetlo aa a khangto veve, a lai-te a tangzai veve minam tampi mah na om kawikawi hi.
 
 (17) AH, UHHI, AHI HI.
 
@@ -1173,7 +1173,7 @@ ahi dia?
 
 ahi uhdia?
 
-ahikei uh dia
+ahikei-te dia
 
 ahih hang,
 ahihloh hang
@@ -1748,14 +1748,14 @@ cbd.
 (Plural Noun) Minnate
 
 Laibuteng le a simte koi lam
-tung uh ahia?
+tung-te ahia?
 
 te, teng
 
 ( - ) Tamna lak
 
 Laibuteng le a simte koi lam
-tung uh ahia?
+tung-te ahia?
 
 Ei, en, un, uh, i, ung, cbd.
 
@@ -1849,9 +1849,7 @@ sangnaupang = Minna
 
 kician = Hihna tellak
 
-ngaihsun = Sepna lak
-
-uh = Tamna lak
+ngaihsun = Sepna lak-te = Tamna lak
 
 Ahih hang = Kammal
 zom
@@ -2010,7 +2008,7 @@ minambup ii supna lianpi khat suak kha thei hi. Minambup in a zatkhop theih nadi
 mahmah hi. Laimal gawmzia hong kibat nading hih panmunteng mah a thupipen ahi hi.
 
 Zolai in minam picing khat i hihna hong kipsak aa
-namdangte in hong deep nading uh pan hong hu hi.
+namdangte in hong deep nading-te pan hong hu hi.
 
 LUNGDAM MAHMAH HI
 Pa Lian Than Tuang (LT Tuang)

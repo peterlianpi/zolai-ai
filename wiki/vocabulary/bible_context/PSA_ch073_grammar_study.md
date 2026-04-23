@@ -52,81 +52,81 @@
 ### v4
 **EN:** For there are no bands in their death: but their strength is firm.
 
-**TDB77:** Bang hang hiam cih leh amaute in nat velvalna thuak lo uh a, a pumpi uh cidamin zol hilhial hi.
+**TDB77:** Bang hang hiam cih leh amaute in nat velvalna thuak lo-te a, a pumpi-te cidamin zol hilhial hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in nat velvalna bangmah thuaklo uh a, a pumpi uh cidamin zol hilhial hi.
+**ZVS:** Bang hang hiam cih leh amaute in nat velvalna bangmah thuaklo-te a, a pumpi-te cidamin zol hilhial hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** They are not in trouble as other men; neither are they plagued like other men.
 
-**TDB77:** Amaute in midangte bangin haksatna thuak lo uh a, amaute in midangte bangin gimna ngah lo uh hi.
+**TDB77:** Amaute in midangte bangin haksatna thuak lo-te a, amaute in midangte bangin gimna ngah lo-te hi.
 
-**ZVS:** Amaute in midangte bangin haksatna thuaklo uh a, amaute in midangte bangin gimna ngahlo uh hi.
+**ZVS:** Amaute in midangte bangin haksatna thuaklo-te a, amaute in midangte bangin gimna ngahlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v6
 **EN:** Therefore pride compasseth them about as a chain; violence covereth them as a garment.
 
-**TDB77:** Tua ahih ciangin amaute in kiphatsakna khainiang bangin ok uh a, ngongtatna puan bangin silh uh hi.
+**TDB77:** Tua ahih ciangin amaute in kiphatsakna khainiang bangin ok-te a, ngongtatna puan bangin silh-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in khainiang bangin kiphatsakna ok uh a, puan bangin ngongtatna silh uh hi.
+**ZVS:** Tua ahih ciangin amaute in khainiang bangin kiphatsakna ok-te a, puan bangin ngongtatna silh-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Their eyes stand out with fatness: they have more than heart could wish.
 
-**TDB77:** A lungsim panun gitlohna pusuak sak uh a, a ngaihsutna uh gitlohna tawh dimlet hi.
+**TDB77:** A lungsim panun gitlohna pusuak sak-te a, a ngaihsutna-te gitlohna tawh dimlet hi.
 
-**ZVS:** A lungsim panun gitlohna pusuaksak uh a, a ngaihsutna uh gitlohna tawh a dimlet hi.
+**ZVS:** A lungsim panun gitlohna pusuaksak-te a, a ngaihsutna-te gitlohna tawh a dimlet hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** They are corrupt, and speak wickedly concerning oppression: they speak loftily.
 
-**TDB77:** Amaute in mi thusim loin elpau uh a, kiliatsakna tawh sucip dingin mi tawng uh hi.
+**TDB77:** Amaute in mi thusim loin elpau-te a, kiliatsakna tawh sucip dingin mi tawng-te hi.
 
-**ZVS:** Amaute in mi thusim loin el pau uh a, kiliatsakna tawh a sucip dingin mi a tawng uh hi.
+**ZVS:** Amaute in mi thusim loin el pau-te a, kiliatsakna tawh a sucip dingin mi a tawng-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** They set their mouth against the heavens, and their tongue walketh through the earth.
 
-**TDB77:** Amaute’ gensiatna in vantung ban a, kiliatsakna tawh leitungah thu gen kawikawi uh hi.
+**TDB77:** Amaute’ gensiatna in vantung ban a, kiliatsakna tawh leitungah thu gen kawikawi-te hi.
 
-**ZVS:** Amaute' gensiatna in vantung dong banto a, kiliatsakna tawh leitungah thu gen kawikawi uh hi.
+**ZVS:** Amaute' gensiatna in vantung dong banto a, kiliatsakna tawh leitungah thu gen kawikawi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Therefore his people return hither: and waters of a full cup are wrung out to them.
 
-**TDB77:** Tua ahih ciangin mite kihei-in amaute phat uh a, amau’ mawhna zong lo uh hi.
+**TDB77:** Tua ahih ciangin mite kihei-in amaute phat-te a, amau’ mawhna zong lo-te hi.
 
-**ZVS:** Tua ahih ciangin mite in amaute phat uh a, amau' mawhna zonglo uh hi.
+**ZVS:** Tua ahih ciangin mite in amaute phat-te a, amau' mawhna zonglo-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And they say, How doth God know? and is there knowledge in the most High?
 
-**TDB77:** Amaute in, “Pasian in bangci theih ding ahi hiam? Sang Penpa in phawk ding ahi hiam?” ci uh hi.
+**TDB77:** Amaute in, “Pasian in bangci theih ding ahi hiam? Sang Penpa in phawk ding ahi hiam?” ci-te hi.
 
-**ZVS:** Amaute in, “Pasian in bangci theih ding ahi hiam? Sangpenpa in phawk ding ahi hiam?” ci uh hi.
+**ZVS:** Amaute in, “Pasian in bangci theih ding ahi hiam? Sangpenpa in phawk ding ahi hiam?” ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v12
 **EN:** Behold, these are the ungodly, who prosper in the world; they increase in riches.
 
-**TDB77:** En un, hihte migilo ahi hi; a tawntungin nuam takin om hithiat uh a, amaute a hauhna uh khang semsem hi.
+**TDB77:** En un, hihte migilo ahi hi; a tawntungin nuam takin om hithiat-te a, amaute a hauhna-te khang semsem hi.
 
-**ZVS:** Amaute migilo ahi uh hi. A tawntungin nuamtakin om hithiat uh a, amaute a hauhna uh khang semsem zaw lai hi.
+**ZVS:** Amaute migilo ahi-te hi. A tawntungin nuamtakin om hithiat-te a, amaute a hauhna-te khang semsem zaw lai hi.
 
 **Grammar:** plural: uh marker
 
@@ -251,7 +251,7 @@
 
 **TDB77:** Bang hang hiam cih leh, en in, nangmah tawh a kigamlate kisia ding a, nangma tunga hong khialte na beisak hi.
 
-**ZVS:** Bang hang hiam cih leh nang tawh a kigamlate kisia ding uh a, nangma tungah a hong khialte na beisak ding hi.
+**ZVS:** Bang hang hiam cih leh nang tawh a kigamlate kisia ding-te a, nangma tungah a hong khialte na beisak ding hi.
 
 **Grammar:** reciprocal: ki- prefix
 

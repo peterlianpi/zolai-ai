@@ -12,7 +12,7 @@ While A1 uses noun equivalency for identity (I am a man), C1 uses it to map abst
 *   **Examples:**
     *   *Zolai:* Kei pen nuntakna an ka hi hi. (John 6:35)
     *   *English:* I am the bread of life.
-    *   *Zolai:* Note pen leitung mite-a' dingin khuavak tawh na kibang uh hi. (Matthew 5:14)
+    *   *Zolai:* Note pen leitung mite-a' dingin khuavak tawh na kibang-te hi. (Matthew 5:14)
     *   *English:* You are the light of the world.
 
 ### The "I AM" Absolute Declaration (EXO 3:14)
@@ -33,7 +33,7 @@ Used to challenge a position or status in philosophical debate.
 *   *English:* Where is the wise man?
 *   *Zolai:* Lungpil mi **koi-ah a om hiam**? (1 Corinthians 1:20 Pattern)
 *   *English:* Where is your faith?
-*   *Zolai:* Na upna uh **koi-ah om hiam**?
+*   *Zolai:* Na upna-te **koi-ah om hiam**?
 
 ### 2.2 Direct Causality / Basis (`Bang hang hiam cih leh`)
 Used as a bridge between a declaration and its foundational reason.
@@ -64,7 +64,7 @@ Mapping the "None except [X]" pattern.
 ### 4.2 Prohibitive Jussive (`kei hen`)
 "Let not" commands.
 *   *English:* Let not your heart be troubled.
-*   *Zolai:* Na lungtang uh patau **kei hen**. (John 14:1)
+*   *Zolai:* Na lungtang-te patau **kei hen**. (John 14:1)
 
 ---
 
@@ -109,7 +109,7 @@ Rule: ALL subordinate clauses before main verb. Main verb always last.
 - `Kha Siangtho longal kuamah in a thei kei hi.` = No one knows except the Holy Spirit.
 
 ### Prohibitive `kei hen` (verified)
-- `Na lungtang uh patau kei hen.` = Let not your heart be troubled. (John 14:1)
+- `Na lungtang-te patau kei hen.` = Let not your heart be troubled. (John 14:1)
 
 ### Rhetorical questions (verified)
 - `Lungpil mi koi-ah a om hiam?` = Where is the wise man? (1 Cor 1:20)

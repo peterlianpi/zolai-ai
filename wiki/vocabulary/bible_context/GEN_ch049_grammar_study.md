@@ -61,36 +61,36 @@
 ### v5
 **EN:** Simeon and Levi are brethren; instruments of cruelty are in their habitations.
 
-**TDB77:** Simeon leh Levi-te in unau hi a, a hiam uh ngongtat nadingin zang uh hi.
+**TDB77:** Simeon leh Levi-te in unau hi a, a hiam-te ngongtat nadingin zang-te hi.
 
-**ZVS:** “Simeon leh Levi, unau hi a, a hiam uh ngongtatna dingin a zang uh hi.
+**ZVS:** “Simeon leh Levi, unau hi a, a hiam-te ngongtatna dingin a zang-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v6
 **EN:** O my soul, come not thou into their secret; unto their assembly, mine honour, be not thou united: for in their anger they slew a man, and in their selfwill they digged down a wall.
 
-**TDB77:** Amau’ kikhopna-ah ka pai kei ding a, amau’ pawl tawh ka kizom kei ding hi; bang hang hiam cih leh a hehna uhah amaute in mi that uh a, amau' kiphatsakna tawh amaute in bawngtalte zagui sattat uh hi.
+**TDB77:** Amau’ kikhopna-ah ka pai kei ding a, amau’ pawl tawh ka kizom kei ding hi; bang hang hiam cih leh a hehna uhah amaute in mi that-te a, amau' kiphatsakna tawh amaute in bawngtalte zagui sattat-te hi.
 
-**ZVS:** Amau' kikhopna-ah ka kihel kei ding a, amau' pawl tawh ka kizom kei ding hi. Bang hang hiam cih leh a heh manun mi that uh a, kiphatsakna lungsim tawh amaute in mawlpih dingin bawngtalte' zagui a sattat uh hi.
+**ZVS:** Amau' kikhopna-ah ka kihel kei ding a, amau' pawl tawh ka kizom kei ding hi. Bang hang hiam cih leh a heh manun mi that-te a, kiphatsakna lungsim tawh amaute in mawlpih dingin bawngtalte' zagui a sattat-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Cursed be their anger, for it was fierce; and their wrath, for it was cruel: I will divide them in Jacob, and scatter them in Israel.
 
-**TDB77:** Amau’ sinsona in lauhuai a, amau’ hehna kihtak huai hi, ciamsiatna ngah ta uh hen! Jakob sungah amaute ka khenthang ding a, Israel sungah amaute ka thehthang ding hi.
+**TDB77:** Amau’ sinsona in lauhuai a, amau’ hehna kihtak huai hi, ciamsiatna ngah ta-te hen! Jakob sungah amaute ka khenthang ding a, Israel sungah amaute ka thehthang ding hi.
 
-**ZVS:** Amau' sinsona lauhuai a, amau' hehna kihtakhuai hi. Ciamsiatna ngah ta uh hen! Jakob suante sungah amaute ka khenthang ding a, Israel sungah amaute ka thehthang ding hi.
+**ZVS:** Amau' sinsona lauhuai a, amau' hehna kihtakhuai hi. Ciamsiatna ngah ta-te hen! Jakob suante sungah amaute ka khenthang ding a, Israel sungah amaute ka thehthang ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v8
 **EN:** Judah, thou art he whom thy brethren shall praise: thy hand shall be in the neck of thine enemies; thy father's children shall bow down before thee.
 
-**TDB77:** Judah, na sanggamte in nang hong phat ding a, na galte’ ngawng na heek ding a, na sanggamte na mai-ah hong kun ding uh hi.
+**TDB77:** Judah, na sanggamte in nang hong phat ding a, na galte’ ngawng na heek ding a, na sanggamte na mai-ah hong kun ding-te hi.
 
-**ZVS:** “Judah aw, na sanggamte in nang hong phat ding hi. Na galte' gawl na mek ding a, na sanggamte na mai-ah hong kun ding uh hi.
+**ZVS:** “Judah aw, na sanggamte in nang hong phat ding hi. Na galte' gawl na mek ding a, na sanggamte na mai-ah hong kun ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -108,7 +108,7 @@
 
 **TDB77:** Judah kiang pan kumpi ciangkhut paikhia lo ding, ukpa’ ciangkhut zong a khe kikal pan paikhia lo ding, a neipa' kiangah a tun’ mateng, mite’ thuman’na ama' tungah om ding hi.
 
-**ZVS:** Judah in kumpi ciangkhut len tawntung ding a, a suan a khakte in zong ukna aana nei tawntung ding hi. Minam dangte in ama tungah siah puak ding a, zahtakna tawh ama mai-ah kun ding uh hi.
+**ZVS:** Judah in kumpi ciangkhut len tawntung ding a, a suan a khakte in zong ukna aana nei tawntung ding hi. Minam dangte in ama tungah siah puak ding a, zahtakna tawh ama mai-ah kun ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -219,7 +219,7 @@
 
 **TDB77:** Thal tawite in nakpi takin amah sim-in, amah thal tawh kap a, nasia takin gimsak hi;
 
-**ZVS:** Thal tawite in nakpi takin amah simin, amah thal tawh kap uh a, nasia takin gimsak uh hi.
+**ZVS:** Thal tawite in nakpi takin amah simin, amah thal tawh kap-te a, nasia takin gimsak-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -281,9 +281,9 @@
 ### v31
 **EN:** There they buried Abraham and Sarah his wife; there they buried Isaac and Rebekah his wife; and there I buried Leah.
 
-**TDB77:** Tua lai munah amaute in Abraham leh a zi Sarah vui uh hi; tua lai munah amaute in Isaak leh a zi Rebekah vui uh hi; tua lai munah keimah in Leah ka vui hi –
+**TDB77:** Tua lai munah amaute in Abraham leh a zi Sarah vui-te hi; tua lai munah amaute in Isaak leh a zi Rebekah vui-te hi; tua lai munah keimah in Leah ka vui hi –
 
-**ZVS:** Tua lai munah amaute in Abraham leh a zi Sarah vui uh hi. Tua lai munah amaute in Isaac leh a zi Rebekah vui uh hi. Tua lai munah keimah in Leah ka vui hi.
+**ZVS:** Tua lai munah amaute in Abraham leh a zi Sarah vui-te hi. Tua lai munah amaute in Isaac leh a zi Rebekah vui-te hi. Tua lai munah keimah in Leah ka vui hi.
 
 **Grammar:** plural: uh marker
 

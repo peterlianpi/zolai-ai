@@ -14,7 +14,7 @@ aaron — aaron (sons | aaron's | speak)
 aate — inheritance (tribe | jubilee | children)
     → Chindwin aate leh Mongam aate kibanglo hi. / 
 abarim — abarim (departed | moab | bashan)
-    → Nebo tun' ma Abarim mualte-ah giahphual sat uh hi. / 
+    → Nebo tun' ma Abarim mualte-ah giahphual sat-te hi. / 
 abdon — abdon (pirathonite | zur | son)
     → Ama tapa upa pen in: Abdon, tua ciangin Zur, Kish, Baal, Nadab, / And his firstborn son Abdon, and Zur, and Kish, and Baal, and Nadab,
 abel — missing (keeper | fat | abel)
@@ -24,7 +24,7 @@ abelmizraim — abel (mourning | egyptians | wherefore)
 abelshittim — abel (beth | jeshimoth | even)
     → Jordan kiang Bethjeshimoth panin Moab zanglei sunga om Abelshittim dongah / 
 abib — day (thou | abib | keep)
-    → Abib kha, tuni-in note a paikhia na hi uh hi. / This day came ye out in the month Abib.
+    → Abib kha, tuni-in note a paikhia na hi-te hi. / This day came ye out in the month Abib.
 abida — epher (sons | midian | ephah)
     → leh Eldaah ahi hi. Hihte khempeuh / 
 abidan — son (benjamin | gideoni | abidan)
@@ -46,9 +46,9 @@ abiramte — dathan (about | abiram | sons)
 abraham — abraham (missing | god | land)
     → Hit mite in Abraham dawngin, / And the children of Heth answered Abraham, saying unto him,
 abram — abram (name | lot | abram's)
-    → tua ciangin Abraham a kici Abram ahi suk uh hi. / Abram; the same is Abraham.
+    → tua ciangin Abraham a kici Abram ahi suk-te hi. / Abram; the same is Abraham.
 abronah — encamped (departed | ebronah | jotbathah)
-    → Jotbathah panin amaute ding khia uh / 
+    → Jotbathah panin amaute ding khia-te / 
 adadah — adadah (dimonah | kinah)
 adah — adah (aholibamah | son | esau's)
     → Adah in Esau tawh Efifaz nei hi; Basemath in Re-u-el nei hi; / And Adah bare to Esau Eliphaz; and Bashemath bare Reuel;
@@ -61,7 +61,7 @@ adaminekeb — adami (heleph | allon | zaanannim)
 adang — other (missing | another | came)
     → Elam adang khat suante tulkhat zanih leh sawmnga-le-li ahi hi. / The children of the other Elam, a thousand two hundred fifty and four.
 adangte — numbered (sons | nor | rise)
-    → Siampite’ ta adangte in a namtui nate hel dingin bawl uh a, / And some of the sons of the priests made the ointment of the spices.
+    → Siampite’ ta adangte in a namtui nate hel dingin bawl-te a, / And some of the sons of the priests made the ointment of the spices.
 adbe — adbeel (mibsam | ishmael | nebaioth)
     → Hihte in amau’ khangsimna ahi hi: Ishmael’ tacil in Nebaioth / 
 addar — addar (along | nether | side)
@@ -77,7 +77,7 @@ adingun — daughter (shalt | thou | son)
 adithaim — adithaim (shaaraim | gederah | gederothaim)
     → Sha-araim, Adithaim, Gederah, Gederothaim: khuapi sawm-le-li, a khua neute tawh ahi hi. / And Shaaraim, and Adithaim, and Gederah, and Gederothaim; fourteen cities with their villages:
 admah — gomorrah (birsha | grass | make)
-    → leh Bela (Zoar) kumpipa kuankhia uh a / 
+    → leh Bela (Zoar) kumpipa kuankhia-te a / 
 adullam — adullam (brethren | comforted | friend)
     → Libnah kumpi, khat; Adullam kumpi, khat; / The king of Libnah, one; the king of Adullam, one;
 adummim — going (geliloth | toward | went)
@@ -90,7 +90,7 @@ agag — hammedatha (higher | amalekites | agag)
 agate — ligure (row | agate | third)
     → A gual thumna-ah jakinth suang, agate suang, leh amethyst suang ahi hi. / And the third row, a ligure, an agate, and an amethyst.
 agik — judgment (unrighteousness | meteyard | weight)
-    → atam tehnate ah a man loin na gamta kei ding uh hi. / 
+    → atam tehnate ah a man loin na gamta kei ding-te hi. / 
 ahem — broken (blind | maimed | having)
     → khat in meel ahem sak Ama’ minthanna / 
 ahhong — face (into | ark | sole)
@@ -111,7 +111,7 @@ ahiman — sheshai (talmon | ahiman | hebron)
 ahira — son (naphtali | enan | ahira)
     → Naftali minam honte Enan’ tapa Ahira in uk hi. / And over the host of the tribe of the children of Naphtali was Ahira the son of Enan.
 ahiram — ahiram (family | ashbel | ashbelites)
-    → Amau' behbehin Benjamin minamte: Bela pan Bela behte ahi uh / 
+    → Amau' behbehin Benjamin minamte: Bela pan Bela behte ahi-te / 
 ahisamak — aholiab (son | scarlet | ahisamach)
     → hilh dingin amah leh Dan minam Ahisamak’ tapa Oholiab hilh khin hi. / 
 ahoih — every (good | none | judgment)
@@ -137,7 +137,7 @@ aisaanna — tribe (divination | divided | according)
 aisanna — augury (inheritance | half | tribe | saul)
     → Gershon mite in Issakhar minam / 
 aisannu — shalt (thou | suffer | witch)
-    → “Numei aisannu na hingkhawi kei ding uh hi. / Thou shalt not suffer a witch to live.
+    → “Numei aisannu na hingkhawi kei ding-te hi. / Thou shalt not suffer a witch to live.
 aisanpa — son (prophet | balaam | beor)
     → mivanglianpa leh galkappa, thukhenpa leh kamsangpa, aisanpa leh upa-pa, / The mighty man, and the man of war, the judge, and the prophet, and the prudent, and the ancient,
 aituam — private (horses | dwelt | mine | multiply)
@@ -159,7 +159,7 @@ akhor — valley (day | went | herds)
 akibawl — brass (thou | shalt | put)
     → 5 Release akibawl ciangin Version 1. / 
 akipan — missing (things | about | month)
-    → amah akipan a innkuanpihte Topa’ thu a hilh uh hi. / And they spake unto him the word of the Lord, and to all that were in his house.
+    → amah akipan a innkuanpihte Topa’ thu a hilh-te hi. / And they spake unto him the word of the Lord, and to all that were in his house.
 akisim — passeth (every | one | among)
     → kum sawmnih panin a tungsiah peuhmah in Topa biakna pia ding hi. / 
 akkad — erech (kingdom | babel | accad)
@@ -172,7 +172,7 @@ aksah — daughter (achsah | give | wife)
 akshaf — king (meron | achshaph | shimron)
     → A gam in Helkath, Hali, Beten, Akshaf, / And their border was Helkath, and Hali, and Beten, and Achshaph,
 aksi — star (stars | missing | multiply)
-    → Mipilte in tua aksi a muh uh ciangin nuam mahmah uh a, / When they saw the star, they rejoiced with exceeding great joy.
+    → Mipilte in tua aksi a muh-te ciangin nuam mahmah-te a, / When they saw the star, they rejoiced with exceeding great joy.
 aksite — stars (heaven | missing | made)
     → Ni leh kha mial a, aksite zong taang nawn lo hi. / The sun and the moon shall be darkened, and the stars shall withdraw their shining.
 akzib — achzib (keilah | coast | mareshah)
@@ -195,13 +195,13 @@ almon — almon (suburbs | four | anathoth)
 almond — almonds (green | nuts | knop)
     → a ciangkhutte a kang mun a om dingin kheh / 
 almondiblathaim — encamped (removed | almon | diblathaim)
-    → Dibongad panin dingkhia uh a, Almondiblathaim-ah giahphual sat uh hi. / And they removed from Dibon–gad, and encamped in Almon–diblathaim.
+    → Dibongad panin dingkhia-te a, Almondiblathaim-ah giahphual sat-te hi. / And they removed from Dibon–gad, and encamped in Almon–diblathaim.
 aloes — side (about | aloes | came)
     → na puantualpite myrrh paknamtui, aloes paknamtui, leh thalsing namtuite / 
 alui — because (old | passed | new)
     → Alui pen (Space) UN Group No / 
 alush — encamped (removed | alush | dophkah)
-    → Dofkah panin dingkhia uh a, Alush-ah giahphual sat uh hi. / And they departed from Dophkah, and encamped in Alush.
+    → Dofkah panin dingkhia-te a, Alush-ah giahphual sat-te hi. / And they departed from Dophkah, and encamped in Alush.
 alvah — duke (names | timnah | alvah)
     → Amau' innkuan leh a ten'na / 
 alvan — these (children | shobal | alvan)
@@ -254,7 +254,7 @@ amrafel — days (king | amraphel | shinar)
 amram — amram (amramites | families | begat)
     → Bani-te beh panin Ma-adai, Amram, Uel / Of the sons of Bani; Maadai, Amram, and Uel,
 anab — anakims (anab | mountains | joshua)
-    → Joshua in a khuapite uh tawh amaute susiamang khawm hi. / 
+    → Joshua in a khuapite-te tawh amaute susiamang khawm hi. / 
 anah — son (zibeon | anah | daughter)
     → Hori mite’ ukpite in: ukpite Lotan, Shobal, Zibeon, Anah, / These are the dukes that came of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah,
 anaharath — anaharath (shion | hapharaim)
@@ -275,9 +275,9 @@ aner — aner (mamre | suburbs | brother)
 ang — bosom (lord | arms | blessings)
     → Simeon in Zeisu a ang-ah pomin Pasian a phat-inah” / Then took he him up in his arms, and blessed God, and said,
 angvan — persons (accept | time | judgment)
-    → Pasian angvan ding a, ama ading gensak ding na hi uh hiam? / Will ye accept his person? will ye contend for God?
+    → Pasian angvan ding a, ama ading gensak ding na hi-te hiam? / Will ye accept his person? will ye contend for God?
 angvanna — thou (reprove | persons | horn)
-    → A simthamin angvanna na zat uh leh amah in note / 
+    → A simthamin angvanna na zat-te leh amah in note / 
 anhai — glutton (evil | our | rebellious)
     → “Krete mite in a zuau thei mi / 
 anim — anim (eshtemoh | anab)
@@ -294,7 +294,7 @@ ankungte — before (earth | away | mouth)
 anlak — harvest (hast | thou | water)
     → lo pawi hun leh anlak hun / 
 anlakna — thou (fruits | shalt | tears)
-    → “Na anlakna pan uh leh sathau leh leenggah na suknate uh panin / 
+    → “Na anlakna pan-te leh sathau leh leenggah na suknate-te panin / 
 anlim — savoury (lusting | should | mountain | beauty)
     → Gensiatna pen anlim mahmah tawh kibang a, thakhatin i sungah kihupsuk hi. / The words of a talebearer are as wounds, and they go down into the innermost parts of the belly. talebearer: or, whisperer as wounds: or, like as when men are wounded innermost…: Heb. chambers
 anlimte — royal (work | dainties | fat)
@@ -302,7 +302,7 @@ anlimte — royal (work | dainties | fat)
 anlom — day (before | thine | fall)
     → “Note in Sabbath khit a zing ciang / 
 anlui — fruit (year | until | eat)
-    → A kum giatna-ah lo na pawi ding uh ciangin / 
+    → A kum giatna-ah lo na pawi ding-te ciangin / 
 anlum — bread (eat | unleavened | shalt)
     → sabuai leh a nazat khempeuhte leh Ompihna Anlum; / The table, and all the vessels thereof, and the shewbread,
 anlumbek — unleavened (bread | one | oiled)
@@ -319,7 +319,7 @@ anpalte — firstfruits (children | ground | fields)
 anpiak — butler (restored | chief | butlership)
     → Amah in an piapipa anpiak nasep-ah koih kik / 
 antang — fast (much | buy | commanded | departed)
-    → Tua ciangin amaute in a late uh antang suan-in paikhia uh hi. / And they laded their asses with the corn, and departed thence.
+    → Tua ciangin amaute in a late-te antang suan-in paikhia-te hi. / And they laded their asses with the corn, and departed thence.
 antangte — keep (let | food | corn)
     → Hong tung ding kum hoih sunga an khempeuh amaute khawmsak in la / 
 ante — bread (increase | field | food)
@@ -327,15 +327,15 @@ ante — bread (increase | field | food)
 anteh — give (came | hatred | drink)
     → Mi pawlkhat in na khempeuh ka nektheih ding hi / 
 anthak — year (eat | until | old)
-    → A kum giatna-ah lo na pawi ding uh ciangin / 
+    → A kum giatna-ah lo na pawi ding-te ciangin / 
 anthul — Roselle (order | against | moreover | roof)
-    → na a semte leh patpuan a gante lungkham ding uh hi. / 
+    → na a semte leh patpuan a gante lungkham ding-te hi. / 
 anu — peace (blemish | offering | without)
     → Yanni in anu hilh hi. / 
 anuai — families (inheritance | simeon | artaxerxes)
     → Judah minam leh Simeon minam sung panin amaute in anuai-a / 
 apa — maseuline (take | peace | blemish | tenth)
-    → a sitbang lo apa khat na pia ding uh hi. / 
+    → a sitbang lo apa khat na pia ding-te hi. / 
 apha — missing (children | god | answered)
     → bangci a al kik ding hiam? / 
 apna — altar (crown | israel | after)
@@ -347,7 +347,7 @@ apsa — goeth (thing | redeemed | voice)
 arab — arab (children | men | philistines)
     → leh Ashdod mite in Jerusalem kulh cian' nasep kizom suakin / 
 arabah — plain (arabah | went | jordan)
-    → sun ma sungteng pai-in Mahanaim tung uh hi. / 
+    → sun ma sungteng pai-in Mahanaim tung-te hi. / 
 arad — dwelt (land | king | arad)
     → Hormah kumpi, khat; Arad kumpi, khat; / The king of Hormah, one; the king of Arad, one;
 arah — children (naarath | naarah | sons)
@@ -380,7 +380,7 @@ arki — arkite (hivite | sinite)
 arnon — moab (aroer | arnon | wars)
     → Tua ahih manin Topa’ Gal Laibu sungah / 
 arod — family (arod | arodites | areli)
-    → Arod pan Arod behte ahi uh hi; Areli pan Areli / 
+    → Arod pan Arod behte ahi-te hi; Areli pan Areli / 
 arodi — ezbon (haggi | shuni | eri)
     → Gad’ tapate: Zifion, Haggi, Shuni, Ezbon, Eri, Arodi, leh Areli ahi hi. / And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
 aroer — aroer (river | gilead | city)
@@ -390,7 +390,7 @@ arpakshad — arphaxad (asshur | years | shem)
 arvad — arvadite (zidon | men | zemarite)
     → Arvad mite, Zemari mite, leh Hamath mite’ pian’napa ahi hi. / And the Arvadite, and the Zemarite, and the Hamathite.
 asau — judgment (unrighteousness | meteyard | weight)
-    → atam tehnate ah a man loin na gamta kei ding uh hi. / 
+    → atam tehnate ah a man loin na gamta kei ding-te hi. / 
 asenath — poti (daughter | asenath | phera)
     → Josef in Egypt gamah On khua siampipa Potifera' tanu Asenath / 
 ash — inheritance (hiddai | brooks | gaash)
@@ -421,7 +421,7 @@ ashur — tekoa (wasted | kittim | over)
 asia — asia (pronouncing | your | spoil)
     → a sia-in gamtat ding nuam a sa, asia-a gamtatna-ah a lungkim mahmah, / Who rejoice to do evil, and delight in the frowardness of the wicked;
 asriel — family (children | concubine | asriel)
-    → Asriel pan Asriel behte ahi uh hi; Shekhem pan Shekhem / 
+    → Asriel pan Asriel behte ahi-te hi; Shekhem pan Shekhem / 
 asshur — elam (canneh | asshur | shem)
     → Shem’ tapate: Elam, Asshur, Arpakshad, Lud, leh Aram ahi hi. / The children of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram.
 asshurim — asshurim (dedan | sons | letushim)
@@ -439,7 +439,7 @@ atam — plentiful (meteyard | judgment | weight | unrighteousness)
 ataroth — ataroth (archi | addar | janohah)
     → Gad minamte in khuapi muanhuai Dibon, Ataroth, Aroer, / And the children of Gad built Dibon, and Ataroth, and Aroer,
 ate — manner (themselves | people | saith)
-    → Hih a nuai-ate zong Kaleb' suanlekhakte ahi uh hi. Kaleb' / 
+    → Hih a nuai-ate zong Kaleb' suanlekhakte ahi-te hi. Kaleb' / 
 ath — mephaath (passed | suburbs | come)
     → “Pasian’ thukhenna mualtung gam teng leh Holon khua, Jahzah khua, Mefa-ath khua, / And judgment is come upon the plain country; upon Holon, and upon Jahzah, and upon Mephaath,
 atharim — tell (israel | king | arad)
@@ -454,12 +454,12 @@ atoroth — atroth (shophan | jaazer | jogbehah)
 atsak — god (greek | gentiles | uncircumcision)
     → ama inn sunga om mite' lak panin pasal khempeuh samin / 
 attan — offering (there | great | thumbs)
-    → tua kuam sungah a bawngla ngawng attan ding uh hi. / 
+    → tua kuam sungah a bawngla ngawng attan ding-te hi. / 
 ausan — blue (scarlet | purple | gold)
     → a ausan khaute leh a kop-a kikhuk puan hoihte / 
 autok — covereth (fat | thou | shalt)
 avan — bilhan (ezer | zaavan | sons)
-    → Ezer’ tapate in: Bilhan, Za-avan leh Akan ahi uh hi. / The children of Ezer are these; Bilhan, and Zaavan, and Akan.
+    → Ezer’ tapate in: Bilhan, Za-avan leh Akan ahi-te hi. / The children of Ezer are these; Bilhan, and Zaavan, and Akan.
 aven — beside (wilderness | pitched | gilgal)
     → Damaskas khuakulhpi zawlte ka sutan ding / 
 avith — city (moab | reigned | stead)
@@ -473,7 +473,7 @@ awk — eclipse (taken | net | caught | thicket)
 awmdal — breastplate (thou | stones | shalt)
     → siampipuan leh awmdal-a bulh dingin onik suangte ahi hi. / Onyx stones, and stones to be set in the ephod, and in the breastplate.
 awmtal — whatsoever (serpent | goeth | like)
-    → a bukna uh munmuan'huaite panin lau-in a lingsa-in hong pusuak ding uh / 
+    → a bukna-te munmuan'huaite panin lau-in a lingsa-in hong pusuak ding-te / 
 awng — saith (fulness | shout | glad)
     → Van panin Topa hong awng suk / 
 awngthawlpi — void (face | earth | without)
@@ -481,7 +481,7 @@ awngthawlpi — void (face | earth | without)
 azazel — lot (scapegoat | goat | fell)
     → Aaron in tua keel nihte tungah ai saanin / 
 azekah — azekah (israel | soco | fields)
-    → Sokoh leh Azekah kikal Efesdammim-ah giahphual sat uh hi. / 
+    → Sokoh leh Azekah kikal Efesdammim-ah giahphual sat-te hi. / 
 azmon — addar (fetch | thence | azmon)
     → Azmon panin Egypt Lui lamah kawi-in Tuipi-ah tawp ding hi. / And the border shall fetch a compass from Azmon unto the river of Egypt, and the goings out of it shall be at the sea.
 aznothtabor — aznoth (reacheth | coast | turneth)
@@ -489,7 +489,7 @@ aznothtabor — aznoth (reacheth | coast | turneth)
 azzan — paltiel (children | issachar | son)
     → Issakhar minam sung panin makai khat, Azzan’ tapa Paltiel ahi hi. / And the prince of the tribe of the children of Issachar, Paltiel the son of Azzan.
 baa — your (corners | round | heads)
-    → Note in na baa samte uh metloin na khamul mongte / 
+    → Note in na baa samte-te metloin na khamul mongte / 
 baal — eddo (baal | served | prophets | incense)
     → a tapa Mikah, a tapa Reaiah, a tapa Baal, / Micah his son, Reaia his son, Baal his son,
 baalah — border (compassed | passed | baalah)
@@ -502,11 +502,11 @@ baalgad — lebanon (hermon | mount | gad)
 baalhanan — baal (son | hanan | achbor)
     → Shaul si a, Akbor’ tapa Baalhanan in ama' tangin uk hi. / And Saul died, and Baal–hanan the son of Achbor reigned in his stead.
 baalmeon — baal (aroer | beth | meon)
-    → Nebo, leh Baalmeon (a minte khel ding), leh Sibmah khuapite sat uh / 
+    → Nebo, leh Baalmeon (a minte khel ding), leh Sibmah khuapite sat-te / 
 baalpeor — your (baal | firstripe | fig)
     → zui mi khempeuh susia a, / 
 baalzefon — hahiroth (before | again | baal)
-    → Baalzefon nisuahna lama om Pihahiroth lamah kihei kik uh / 
+    → Baalzefon nisuahna lama om Pihahiroth lamah kihei kik-te / 
 baan — strong (crown | shouted | bracelet)
     → Ngaihno aw, na ngaih baang mahmah / 
 baang — thou (saith | both | servant)
@@ -534,7 +534,7 @@ bak — lapwing (bread | pieces | mouth)
 bakbak — wolf (benjamin | ravin | morning)
     → “Benjamin, a ne bakbak keivom hi / 
 bakte — legs (pieces | wash | inwards)
-    → buite leh bakte a paih ding uh hi. / 
+    → buite leh bakte a paih ding-te hi. / 
 bakuth — bachuth (oak | name | called)
 bal — shalt (spirit | beards | ravening)
     → nang in bal nenin a tungah sathau na sung ding / 
@@ -593,7 +593,7 @@ bangmahin — days (near | wherein | fields)
 bangte — heard (these | because | guided)
     → Ka khang tawnin tua bangte ka en tawntung hi. / (For from my youth he was brought up with me, as with a father, and I have guided her from my mother's womb;)
 bangtungzawl — houses (side | blood | door)
-    → nekna uh inn kongkhak khuam nihte leh / 
+    → nekna-te inn kongkhak khuam nihte leh / 
 bangun — your (according | good | after)
     → Misiangthote a sapna bangun na hawm un. Zindo na hahkat un. / Distributing to the necessity of saints; given to hospitality.
 bangzah — missing (saith | mine | god)
@@ -625,7 +625,7 @@ bawh — lunge (eagle | your | rise | liers)
 bawk — swell (rising | clusters | quick | there)
     → a bawk hita leh meima hita leh a tuampian mun tawh kisai-in, / And for a rising, and for a scab, and for a bright spot:
 bawkte — bitter (oxen | gather | grapes)
-    → lungdam lahna-in hong puak uh hi. / 
+    → lungdam lahna-in hong puak-te hi. / 
 bawl — make (made | thou | covenant)
     → Mipawl khempeuhte mai-ah na bawl gupna, / Which thou hast prepared before the face of all people;
 bawla — time (thus | missing | called)
@@ -672,12 +672,12 @@ bawngpite — favoured (yoke | took | offered)
     → thau bawngpi sagihte netum hi, / 
 bawngtal — bull (bullock | offerings | before | oxen)
     → A ki-ap biaknate in bawngtal zaguk leh tuu tulthum ahi hi. / And the consecrated things were six hundred oxen and three thousand sheep.
-bawngtalno — bullock (ram | offering | rams | sinned)
+bawngtalno — bullock (gam | offering | rams | sinned)
     → meihal biak nadingin bawngtalno khat / 
 bawngtalte — oxen (offerings | sheep | bullocks)
     → Tua ahih ciangin Moses in leengte leh bawngtalte sangin Levi / 
 bawngte — cattle (land | flocks | beasts)
-    → A bawngte uh pung a, ta tolh cih zong om lo hi. / Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
+    → A bawngte-te pung a, ta tolh cih zong om lo hi. / Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
 bealoth — bealoth (hushai | baanah | son)
     → Hushai' tapa Baana: Asher gam leh Bealoth khuasungah; / Baanah the son of Hushai was in Asher and in Aloth:
 bedad — midian (hadad | son | bedad)
@@ -686,7 +686,7 @@ bedolak — bdellium (colour | good | there)
 beek — saith (missing | nor | none)
     → Kilamdan’na neukha beek a om kei hi. / Even the righteousness of God which is by faith of Jesus Christ unto all and upon all them that believe: for there is no difference:
 beel — pot (saith | broken | say | water)
-    → Elishama, Beel-i-ada, leh Elifelet ahi uh hi. / And Elishama, and Beeliada, and Eliphelet.
+    → Elishama, Beel-i-ada, leh Elifelet ahi-te hi. / And Elishama, and Beeliada, and Eliphelet.
 beelin — fear (commandments | clefts | men)
     → Mualtung gam panin a hong zu guahtui in amaute kawtciimsak / 
 beelte — house (vessels | made | trumpets)
@@ -698,7 +698,7 @@ beh — clan (families | old | children | fathers)
 behbeh — great (levi | numbered | fathers)
     → tua mipa a hau suakin / 
 behbehin — sons (gad | joseph | children)
-    → Amau’ behbehin Josef minamte in: Manasseh leh Efraim ahi uh hi. / The sons of Joseph after their families were Manasseh and Ephraim.
+    → Amau’ behbehin Josef minamte in: Manasseh leh Efraim ahi-te hi. / The sons of Joseph after their families were Manasseh and Ephraim.
 behin — part (asher | according | among)
     → a behin ulian sawmlenihte ahi Ishmael' tate leh amaute' min ahi hi. / 
 behlap — add (part | estimation | fifth | thereof)
@@ -731,7 +731,7 @@ bekbak — chariot (where | took | off)
 bekbek — mouth (zealous | man | truth)
     → Mihoihte in thupha ngah a, migilote in thusia bekbek gen hi. / Blessings are upon the head of the just: but violence covereth the mouth of the wicked.
 bekher — becher (bela | sons | after)
-    → Benjamin' tapate: Bela, Bekher, leh Jediael, thum pha uh hi. / The sons of Benjamin; Bela, and Becher, and Jediael, three.
+    → Benjamin' tapate: Bela, Bekher, leh Jediael, thum pha-te hi. / The sons of Benjamin; Bela, and Becher, and Jediael, three.
 bekin — father (only | alone | birthright)
     → Topa deihna bang bekin na khempeuh a piang hi. / Who is he that saith, and it cometh to pass, when the Lord commandeth it not?
 bela — son (bela | sons | admah)
@@ -745,7 +745,7 @@ bem — granary (round | goats | rams | cattle)
 bemeh — bread (esau | jacob | gave)
     → Tua ciangin Jakob in an leh bemeh Esau / 
 ben — ben (died | pitched | removed)
-    → Moseroth panin amaute ding khia uh / 
+    → Moseroth panin amaute ding khia-te / 
 beneberak — berak (jehud | bene | gath)
 beng — opium (venison | went | themselves | fishers)
     → Hehna panin kikham in la / 
@@ -762,13 +762,13 @@ bera — bera (berea | king | asia)
 bered — between (tahath | son | bered)
     → Tua ahih ciangin tua tuikhuk pen Beerlahairoi kici / 
 beriah — sons (beriah | family | evil)
-    → Makhael, Ishpah, leh Joha in Beriah’ tapate ahi uh hi. / And Michael, and Ispah, and Joha, the sons of Beriah;
+    → Makhael, Ishpah, leh Joha in Beriah’ tapate ahi-te hi. / And Michael, and Ispah, and Joha, the sons of Beriah;
 beril — beryl (sardius | eighth | topaz)
     → a gual lina in, beril suang, onik suang leh jasper / 
 beten — achshaph (hali | beten | border)
     → A gam in Helkath, Hali, Beten, Akshaf, / And their border was Helkath, and Hali, and Beten, and Achshaph,
 beth — beth (came | jericho | house)
-    → Beth Markaboth, Hazarsusim, Bethbiri, leh Shaaraim-ah teng uh hi. Hihte / 
+    → Beth Markaboth, Hazarsusim, Bethbiri, leh Shaaraim-ah teng-te hi. Hihte / 
 bethba — meon (baal | beth | heshbon)
     → leh mualzang tunga om a khuapite khempeuh; Dibon / 
 bethdagon — gederoth (dagon | beth | toward)
@@ -776,7 +776,7 @@ bethdagon — gederoth (dagon | beth | toward)
 bethharam — beth (valley | haram | nimrah)
     → leh Bethharam kuam sungah Bethnimrah / 
 bethharan — nimrah (beth | haran | fenced)
-    → Bethnimrah, Bethharan-te satin tuute adingin tuu-khawkte bawl uh hi. / And Beth–nimrah, and Beth–haran, fenced cities: and folds for sheep.
+    → Bethnimrah, Bethharan-te satin tuute adingin tuu-khawkte bawl-te hi. / And Beth–nimrah, and Beth–haran, fenced cities: and folds for sheep.
 bethhogal — valley (jericho | beth | hoglah)
     → Tu-in amau’ beh tawh kizui-in Benjamin minamte’ khuapite in Jerikho, Bethhogal, Emekkeziz, / Now the cities of the tribe of the children of Benjamin according to their families were Jericho, and Beth–hoglah, and the valley of Keziz,
 bethhoglah — beth (passed | border | hoglah)
@@ -791,7 +791,7 @@ bethlehem — beth (lehem | ephrath | way)
     → Amah in Bethlehem, Etam, Tekoa, / He built even Beth–lehem, and Etam, and Tekoa,
 bethmarka — beth (ziklag | marcaboth | hazar)
 bethnimrah — beth (haram | nimrah | valley)
-    → Bethnimrah, Bethharan-te satin tuute adingin tuu-khawkte bawl uh hi. / And Beth–nimrah, and Beth–haran, fenced cities: and folds for sheep.
+    → Bethnimrah, Bethharan-te satin tuute adingin tuu-khawkte bawl-te hi. / And Beth–nimrah, and Beth–haran, fenced cities: and folds for sheep.
 bethpazzez — beth (haddah | pazez | remeth)
     → Remeth, En-gannim, Enhaddah, Bethpazzez huam hi; / And Remeth, and En–gannim, and En–haddah, and Beth–pazez;
 bethpelet — beth (pelet | heshmon | jeshua)
@@ -814,7 +814,7 @@ betonim — betonim (ramath | mizpeh | mahanaim)
 bezalel — bezaleel (uri | see | wrought)
     → Hur in Uri’ pa hi a, Uri in Bezalel’ pa ahi hi. / And Hur begat Uri, and Uri begat Bezaleel.
 bezer — wilderness (bezer | tribe | out)
-    → Bezer, Hod, Shamma, Shilshah, Ithran, leh Be-era ahi uh hi. / Bezer, and Hod, and Shamma, and Shilshah, and Ithran, and Beera.
+    → Bezer, Hod, Shamma, Shilshah, Ithran, leh Be-era ahi-te hi. / Bezer, and Hod, and Shamma, and Shilshah, and Ithran, and Beera.
 bia — adore (worshipped | worship | god | saying)
     → Mipa in a lu kunin Topa bia a, / And the man bowed down his head, and worshipped the
 biak — offering (goats | bullock | fine)
@@ -856,7 +856,7 @@ bilteep — ear (right | blood | put)
 bilvang — thou (edge | coupling | curtain)
     → A kikhuituah puan khat nawlah a bilvang sawmnga bawlin / 
 bilvangte — coupling (second | taches | held)
-    → a bilvangte khatlekhat kitang ding uh hi. / 
+    → a bilvangte khatlekhat kitang ding-te hi. / 
 birsha — sodom (king | these | made)
     → hih kumpite in Sodom kumpipa Bera / 
 bit — sate (end | complete | within | space)
@@ -879,7 +879,7 @@ bomte — brought (forth | shot | clusters)
     → tua leenggui tungah hiang thum om hi. A sel phetin pakkhia pah / 
 both — marcaboth (beth | hazar | susah)
 botkhia — cast (removeth | given | young)
-    → amau' kam sunga a om a hate uh sutan in la / 
+    → amau' kam sunga a om a hate-te sutan in la / 
 bozkath — bozkath (daughter | years | one)
     → Josiah in uk ding a kipatin kum giat pha / 
 bozrah — jobab (son | edom | bozrah)
@@ -893,7 +893,7 @@ buahna — wateredst (thou | land | came)
 buak — there (dishes | lay | took)
     → Amah in leitungah guah zusak a, lo khempeuh tui a buak hi. / Who giveth rain upon the earth, and sendeth waters upon the fields:
 buakhia — water (earth | ground | round)
-    → Sisan na ne kei ding uh hi; tui bangin leitungah / 
+    → Sisan na ne kei ding-te hi; tui bangin leitungah / 
 bual — lagoon (pool | waters | full | other)
     → David khuapi mun tampi tak a siatna mu-in / 
 buan — earthen (shalt | slime | force | lay)
@@ -901,7 +901,7 @@ buan — earthen (shalt | slime | force | lay)
 buang — put (portion | joseph | any)
     → “A kiphuk khinsa singkung nangawn in lametna nei buang / 
 buangin — given (could | give | springs)
-    → A nungzuite in lamdangsa uh / 
+    → A nungzuite in lamdangsa-te / 
 buangun — bread (your | fetch | morsel)
     → Galkap mangpa in tuate enen / 
 buasak — brother (seed | should | ground)
@@ -925,11 +925,11 @@ bukin — laying (villages | favour | places)
 bukki — son (bukki | begat | uzzi)
     → a tapa Bukki, a tapa Uzzi, / And Abishua begat Bukki, and Bukki begat Uzzi,
 bukna — refuge (city | give | come)
-    → Tua ciangin amah in, ‘Amau’ pasiante, a bukna uh suangpi, / And he shall say, Where are their gods, their rock in whom they trusted,
+    → Tua ciangin amah in, ‘Amau’ pasiante, a bukna-te suangpi, / And he shall say, Where are their gods, their rock in whom they trusted,
 buknasa — wherein (cave | down | joshua)
     → Ahih hangin ni a tum hun ciangin Joshua in thu pia / 
 buksim — ambush (against | went | side)
-    → Gutate bangin nang hong buksim a, mi tampi tak siasak uh hi. / She also lieth in wait as for a prey, and increaseth the transgressors among men.
+    → Gutate bangin nang hong buksim a, mi tampi tak siasak-te hi. / She also lieth in wait as for a prey, and increaseth the transgressors among men.
 buksimte — joshua (israel | saw | ambush)
     → lak khitna leh khuapi meikhu / 
 bukte — quickly (came | ben | tents)
@@ -964,12 +964,12 @@ bung — hin (ran | just | offering)
 bup — shalt (perfect | fruit | saith)
     → A innkuan bup-un puanlum guan’ zo ahih manin / 
 buppi — whole (moses | against | come)
-    → Gamlakah Moses leh Aaron' tungah Israel mihon buppi phun uh a, / And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:
+    → Gamlakah Moses leh Aaron' tungah Israel mihon buppi phun-te a, / And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:
 butawm — myself (naked | hid | heard)
 butsak — hands (put | bracelets | daughter)
     → Ahi zongin a pa in a nasemte sam / 
 buz — son (father | children | tema)
-    → Dedan, Tema, Buz leh a sam uh a tom met khempeuhte; / Dedan, and Tema, and Buz, and all that are in the utmost corners,
+    → Dedan, Tema, Buz leh a sam-te a tom met khempeuhte; / Dedan, and Tema, and Buz, and all that are in the utmost corners,
 ci — salt (saith | lord | god | thou)
     → Moses in, “Na cih bang hita hen! Na maitang kong / 
 cia — border (brim | weaver's | staff)
@@ -979,26 +979,26 @@ ciah — missing (house | place | returned)
 ciahin — returned (field | down | david)
     → Hathak zong ciahin Mordekai’ thugen teng Esther kiangah va gen hi. / And Hatach came and told Esther the words of Mordecai.
 ciahkik — jerusalem (return | again | thou)
-    → Moses leh Israel upate giahphual ah a ciahkik uh hi. / And Moses gat him into the camp, he and the elders of Israel.
+    → Moses leh Israel upate giahphual ah a ciahkik-te hi. / And Moses gat him into the camp, he and the elders of Israel.
 ciahkikin — returned (subdued | commandments | thus)
     → a sanggamte kiangah ciahkikin, “Tangvalpa om nawnlo hi. Kei bangci / 
 ciahkiksak — brethren (cried | let | lad)
     → na kiphatsakna thu keima tungah a thu hong tung ahih manin / 
 ciahpih — brought (home | jerusalem | babylon)
-    → a matsa khempeuh uh, mihing ganhing ciahpih khin uh hi. / And they took all the spoil, and all the prey, both of men and of beasts.
+    → a matsa khempeuh uh, mihing ganhing ciahpih khin-te hi. / And they took all the spoil, and all the prey, both of men and of beasts.
 ciahpihte — day (come | pass | sixth)
 ciahsak — away (tent | master | mercy)
     → Keima pumpi bang ahi, amahmah na kiangah ka hong ciahsak kik hi. / Whom I have sent again: thou therefore receive him, that is, mine own bowels:
 cial — hired (twelve | steps | going)
-    → galkap tawh cial uh a, amaute hong pai-in Medeba khua kiangah phual / 
+    → galkap tawh cial-te a, amaute hong pai-in Medeba khua kiangah phual / 
 ciam — assure (place | vow | land | thou)
     → Nangmah sila ahi tawntung dingin / 
 ciamin — soul (bound | bond | oath)
     → Israel tungah tawntung thuciamna-in a kipsak, / 
 ciamna — promissory (shalt | saying | mercies | mine)
-    → kei tungah hong thumanlo uh hi. / 
+    → kei tungah hong thumanlo-te hi. / 
 ciamnasa — mountain (gat | into | top)
-    → Amaute zingsangin tho baih uh / 
+    → Amaute zingsangin tho baih-te / 
 ciamnui — place (out | daughters | get)
     → Tua ahih ciangin Lot paikhia-in a tanute a ten'pih dingte kiangah / 
 ciamnuihna — jest (among | byword | arrows | song)
@@ -1008,7 +1008,7 @@ ciampel — vow (fear | contemned | honoureth)
 ciamsa — thou (sign | according | children)
     → Thahatna thak kei hong guan' hi. A hong ciamsa mah / 
 ciamsiatna — canaan (wrath | against | your)
-    → Sun nilohin ka galte in kei hong zahko uh / 
+    → Sun nilohin ka galte in kei hong zahko-te / 
 ciamsiatsa — saying (our | called | name)
     → ama min Noah phuakin, “{ Topa } in / 
 ciamteh — print (heart | things | way | land)
@@ -1036,9 +1036,9 @@ ciangkhutte — white (before | well | rods)
 ciangun — sons (speak | liest | shalt)
     → Kumpipa innah a tun’ ciangun lungdamna leh nuamna tawh amaute kitumpih hi. / With gladness and rejoicing shall they be brought: they shall enter into the king's palace.
 ciat — every (man | own | another)
-    → maitang li leh kha li nei ciat uh hi. / And every one had four faces, and every one had four wings.
+    → maitang li leh kha li nei ciat-te hi. / And every one had four faces, and every one had four wings.
 ciatah — man (israel | every | stood)
-    → Mi khempeuhte in kisim dingin amau khua ciatah a pai uh hi. / And all went to be taxed, every one into his own city.
+    → Mi khempeuhte in kisim dingin amau khua ciatah a pai-te hi. / And all went to be taxed, every one into his own city.
 ciatciat — seed (heritage | after | kind)
     → Ahih hangin amaute ka lakkhiat khit ciangin ka hehpihkik ding / 
 ciatin — after (yielding | fowl | thing)
@@ -1050,11 +1050,11 @@ cih — missing (thus | god | because)
 cihbangin — thou (your | therefore | come)
     → cihbangin i neih kisam ding hi. / 
 cihin — saith (lay | heart | thus)
-    → Ke'n kong cihin-ah, “Note khempeuh, Sangpenpa' tate, pasian-te na hi uh hi. / I have said, Ye are gods; and all of you are children of the most High.
+    → Ke'n kong cihin-ah, “Note khempeuh, Sangpenpa' tate, pasian-te na hi-te hi. / I have said, Ye are gods; and all of you are children of the most High.
 cihna — missing (saying | spoken | house)
     → Hazorhadattah, Kerioth-hezron (Hazor a cihna), / And Hazor Hadattah, and Kerioth, and Hezron, which is Hazor,
 cihnopna — saying (hath | saith | christ)
-    → ‘Lutangguh Mun’ a cihnopna, ‘Golgotha’ kici munah paipih uh a, / And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.
+    → ‘Lutangguh Mun’ a cihnopna, ‘Golgotha’ kici munah paipih-te a, / And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.
 cihsa — might (carried | behold | fall)
     → Laban in, “Hoih hi! Na cihsa bangin hisak in,” ci hi. / And Laban said, Behold, I would it might be according to thy word.
 cihsak — again (father | bury | therefore)
@@ -1070,7 +1070,7 @@ ciin — came (woman | eat | build)
 ciing — cane (barren | entreated | nor | your)
     → Tu-in Sarai ciing hi; amah in ta nei lo hi. / But Sarai was barren; she had no child.
 cik — fen (increased | bough | egypt | been)
-    → A sih nading uh deihna tawh cik mahin ka samsia / 
+    → A sih nading-te deihna tawh cik mahin ka samsia / 
 cikhuam — pillar (became | salt | wife)
     → Ahih hangin a nunga om Lot’ zi nunghei / 
 ciktui — living (springs | asses | elim)
@@ -1086,13 +1086,13 @@ ciltang — bollocks (scabbed | wounded | hath | stones)
 ciltangte — cojones (offer)
     → ahih kei leh a ki-atkhia ganhing khat peuhpeuh / 
 cilte — sons (firstborn | thou | shalt)
-    → “Na anlakna pan uh leh sathau leh leenggah na suknate uh panin / 
+    → “Na anlakna pan-te leh sathau leh leenggah na suknate-te panin / 
 cim — fallen (city | wall | ben)
     → “Mittang pen pumpi-a' dingin meivak tawh kibang hi. Na mit / 
 cimtak — jacob (weary | thus | behold)
     → ka lungkham manin ka paupau ding hi. / 
 cin — claw (days | pass | end | years)
-    → Nithum a cin’ni ciangin giahphualah uliante pai uh a, / And it came to pass after three days, that the officers went through the host;
+    → Nithum a cin’ni ciangin giahphualah uliante pai-te a, / And it came to pass after three days, that the officers went through the host;
 cinapa — plague (life | saith | sick)
     → Cinapa in an ne zolo / 
 cinatnate — land (come | far | say)
@@ -1120,7 +1120,7 @@ cip — gadfly (owner | open | walls | none)
 cipin — neck (avenged | being | regarding)
     → amah in Dawimangpa Satan ahi / 
 cisa — sorrow (black | your | our)
-    → Gilkial luat manin cisa-in ka nattun uh / 
+    → Gilkial luat manin cisa-in ka nattun-te / 
 cisak — son (time | mine | children)
     → Amau leh amau tungah, “Ha, i tuptup tung ei!” kicisak / 
 citak — truthful (pure | gold | shalt | faithful)
@@ -1151,7 +1151,7 @@ dai — calm (offering | rest | peace)
 daih — brother's (time | calm | should)
     → Na sanggampa' sinsona a daih mateng / 
 daihna — calmness (ship | land | israel | found)
-    → gunkuang tungah tuangin gamlak gam daihna-ah a pai uh hi. / 
+    → gunkuang tungah tuangin gamlak gam daihna-ah a pai-te hi. / 
 daihual — without (revenger | blood | find)
     → a phulapa in ama bukna khuapi daihual pualamah amah mu-in / 
 daisak — allay (profane | lord | head | thou)
@@ -1169,7 +1169,7 @@ dalna — barricade (blood | set | curtains | covering)
 dam — well (healthy | healed | recover)
     → Ka dahna dam thei lo a, ka lungsim na mahmah hi. / When I would comfort myself against sorrow, my heart is faint in me.
 damaskas — damascus (lord | treasures | came)
-    → Damaskas leilu lam Hobah ciangdong a delh uh hi. / 
+    → Damaskas leilu lam Hobah ciangdong a delh-te hi. / 
 damin — sligth (come | makkedah | servant | christ)
     → Nangmah in mite-a' dingin dalna khat a kimkotah na koih ding / 
 damsa — boil (skin | thereof | healed)
@@ -1193,9 +1193,9 @@ dangka — cash (missing | thousand | tables | pieces)
 dangtak — athirst (thirsty | missing | water | sore)
     → Tui zong duh zahzah hiloin / 
 dangtakin — thirst (hast | called | die)
-    → gilkial dangtakin amaute sibup uh hi. / Hungry and thirsty, their soul fainted in them.
+    → gilkial dangtakin amaute sibup-te hi. / Hungry and thirsty, their soul fainted in them.
 dangtakna — thirsty (thou | water | gavest | gave)
-    → Amaute in an dingin gu hong pia uh / 
+    → Amaute in an dingin gu hong pia-te / 
 dangte — other (saith | nations | know)
     → Mipilte’ thugen dangte in: Mi langmuh-a thukhenna hoih lo hi. / These things also belong to the wise. It is not good to have respect of persons in judgment.
 danin — these (die | down | after)
@@ -1206,7 +1206,7 @@ dantah — day (israel | graven | assembled)
 dap — wit (boards | clouts | understood)
     → Tua ciangin Ethiopia mipa Ebedmelek in keima kiangah / 
 dapphah — take (thou | shalt | awl)
-    → Mualmite mah Hong dapphah uh kulden hi. / 
+    → Mualmite mah Hong dapphah-te kulden hi. / 
 dathan — sons (call | get | went)
     → lei kihongin Dathan valhtum a, Abiram’ pawlte vukcip hi. / The earth opened and swallowed up Dathan, and covered the company of Abiram.
 dau — seek (micah | witnesses | throne)
@@ -1218,7 +1218,7 @@ daupaisak — because (life | under | hand)
 dawh — drew (measured | hair | slaughter)
     → langkhat zong na dawh lai zaw in. / 
 dawite — devils (missing | unclean | power)
-    → “Dawi mangpa suangin dawite a hawlkhia hi,” a ci uh hi. / 
+    → “Dawi mangpa suangin dawite a hawlkhia hi,” a ci-te hi. / 
 dawk — part (bay | gibeah | hand)
     → Suangdawk khat pen Mikmash mai leilu lamah dawkin / 
 dawksak — hand (untempered | thereof | down)
@@ -1236,7 +1236,7 @@ dawngin — answered (king | there | son)
 dawnin — missing (should | tarried | meeteth)
     → Tua ciangin kumpipa in amaute ngawh dawnin khangham mite’ ngaihsut / 
 dawnna — answer (these | solomon's | vessels | wine)
-    → om Pasian' mai-ah thudotna thuak ding uh hi. / 
+    → om Pasian' mai-ah thudotna thuak ding-te hi. / 
 dawnpawlte — freely (fish | did | eat)
     → Egypt-ah man pialoin i nek ngasate / 
 dawnsak — drink (give | saith | water)
@@ -1250,15 +1250,15 @@ debir — debir (king | done | anakims)
 deborah — deborah (nurse | judged | honour)
     → Tua hun lai takin Lappidoth’ zi / 
 dedan — dedan (sheba | sons | jokshan)
-    → Dedan, Tema, Buz leh a sam uh a tom met khempeuhte; / Dedan, and Tema, and Buz, and all that are in the utmost corners,
+    → Dedan, Tema, Buz leh a sam-te a tom met khempeuhte; / Dedan, and Tema, and Buz, and all that are in the utmost corners,
 deeng — missing (cried | cut | pillars)
     → Tua ahih ciangin Judah mite in suang tawh deeng dingin suang / 
 deenglum — stone (commanded | israel | moses)
-    → Tua danin Ukeeng/Uiphuk deenglum in nuamsa mahmah uh / 
+    → Tua danin Ukeeng/Uiphuk deenglum in nuamsa mahmah-te / 
 dei — brought (missing | entered | bed)
     → Inn dei tungnung kote kikhopna-ah meivak tampi a om hi. / And there were many lights in the upper chamber, where they were gathered together.
 deih — desire (thou | god | hath | missing)
-    → “Topa in a deih hi,” a ci uh hi. / And they said, The Lord hath need of him.
+    → “Topa in a deih hi,” a ci-te hi. / And they said, The Lord hath need of him.
 deihhuai — desirable (ground | favoured | choice | fine)
     → Kha Siangtho in hong sian’ thosak deihhuai biakna ahi Gentailte pia dingin, / Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,
 deihhuaina — charm (eyes | see | tree | woman)
@@ -1278,17 +1278,17 @@ delh — chase (after | pursue | vexation | israel)
 delhin — after (mine | pursued | seir)
     → ka galte delhin ka susia / 
 delhna — pursuit (returned | israel | following | pursuing)
-    → Topa’ vantungmi’ delhna-ah a taina lampi uh mial-in nal sak in. / Let their way be dark and slippery: and let the angel of the
+    → Topa’ vantungmi’ delhna-ah a taina lampi-te mial-in nal sak in. / Let their way be dark and slippery: and let the angel of the
 delhte — pursued (yourselves | sought | turned)
-    → Tua ahih ciangin mite in Jordan lamah ngahmun dong delh uh / 
+    → Tua ahih ciangin mite in Jordan lamah ngahmun dong delh-te / 
 den — earth (burning | cloud | your)
     → Topa leh ama hatna zong un la, ama ompihna zong den un! / Seek the
 deng — stone (died | name | camp)
     → Amah in Kumpi David leh / 
 denglum — die (house | till | thou)
-    → A ganhingte uh gial tawh denglum / 
+    → A ganhingte-te gial tawh denglum / 
 diah — infuse (dip | vinegar | blood | water)
-    → Tua ciangin amaute in Josef' puan la-in, keel khat go uh / 
+    → Tua ciangin amaute in Josef' puan la-in, keel khat go-te / 
 diahin — basin (blood | some | horns)
     → a si sungah a khutme diahin dalna puan mai { / 
 diakdiakin — view (out | shittim | two)
@@ -1304,13 +1304,13 @@ dialpi — mitre (make | goodly | fasten)
 diamond — sapphire (flint | emerald | diamond)
     → A gual nihna-ah emerald suang, sapfaia suang, leh diamond suang ahi hi. / And the second row, an emerald, a sapphire, and a diamond.
 diang — name (joyful | saw | rams)
-    → Mualliante tuutal bangin diang uh / 
+    → Mualliante tuutal bangin diang-te / 
 diangkhia — whelp (dan | lion | leap)
     → Dan minamte' thu genin, “Dan pen Bashan panin / 
 dibon — dibon (ataroth | plain | baal)
     → Dibon khua, Nobo khua, Bethdiblathaim khua, / And upon Dibon, and upon Nebo, and upon Beth–diblathaim,
 dibongad — dibon (removed | gad | pitched)
-    → Iyim panin dingkhia uh a, Dibongad-ah giahphual sat uh hi. / And they departed from Iim, and pitched in Dibon–gad.
+    → Iyim panin dingkhia-te a, Dibongad-ah giahphual sat-te hi. / And they departed from Iim, and pitched in Dibon–gad.
 dibri — name (blasphemed | israelite | woman)
 dih — word (hear | read | lord)
     → Vantung en to dih in, Meiite bangzah takin sang ahi hiam? / Look unto the heavens, and see; and behold the clouds which are higher than thou.
@@ -1348,13 +1348,13 @@ dinga — saith (missing | whom | come)
 dingin — against (saith | house | missing)
     → khialhna hanga biakna dingin keel a pa khat; / One kid of the goats for a sin offering:
 dingkhia — land (nevertheless | went | return)
-    → Tua ciangin Bethel panin amaute dingkhia uh / 
+    → Tua ciangin Bethel panin amaute dingkhia-te / 
 dingpa — build (enemies | thou | missing)
     → Ahih hangin { Topa } aw / 
 dingte — tabernacle (tribe | missing | things)
     → Ama ngah gamh dingte in Be-ersheba, Sheba, Moladah, / And they had in their inheritance Beer–sheba, or Sheba, and Moladah,
 dingun — land (your | battle | inhabitants)
-    → Sawltakte leh upate in tua thu vaihawm dingun a kikhawm uh hi. / And the apostles and elders came together for to consider of this matter.
+    → Sawltakte leh upate in tua thu vaihawm dingun a kikhawm-te hi. / And the apostles and elders came together for to consider of this matter.
 dinhabah — city (name | dinhabah | reigned)
     → Beor' tapa Bela in Edom gamsung uk / 
 dinnasa — morning (abraham | gat | early)
@@ -1364,7 +1364,7 @@ dipkuatna — consume (your | appoint | over)
 dipsakin — fill (joseph | commanded | sacks)
     → Amau' ipte antang tawh dipsakin / 
 dishan — ezer (children | duke | dishon)
-    → Dishan’ tapate in: Uz leh Aran ahi uh hi. / The children of Dishan are these; Uz, and Aran.
+    → Dishan’ tapate in: Uz leh Aran ahi-te hi. / The children of Dishan are these; Uz, and Aran.
 dishon — these (sons | dishon | duke)
     → Anah' tate: Dishon leh Anah' tanu Oholibamah ahi hi. / And the children of Anah were these; Dishon, and Aholibamah the daughter of Anah.
 ditkikna — reimbursement (make | good | thereof | recompensed)
@@ -1372,7 +1372,7 @@ ditkikna — reimbursement (make | good | thereof | recompensed)
 dizahab — red (jordan | wilderness | plain)
     → Hihte pen Jordan galkhat gamlak / 
 dofkah — sin (departed | dophkah | encamped)
-    → Dofkah panin dingkhia uh a, Alush-ah giahphual sat uh hi. / And they departed from Dophkah, and encamped in Alush.
+    → Dofkah panin dingkhia-te a, Alush-ah giahphual sat-te hi. / And they departed from Dophkah, and encamped in Alush.
 doin — israel (come | fought | fight)
     → I gal dawimangpa, a nawmvalh ding zongin humpinelkai bangin humhamin / 
 dok — sword (lay | dagger | draw)
@@ -1382,7 +1382,7 @@ dokin — after (slay | thus | servant)
 dokkik — inhabitants (opened | cut | withdraw)
     → Bang hangin na khut dokkik / 
 domkhia — sold (joseph | merchantmen | drew)
-    → Ishmael mite tungah ngun shekel sawmnihin amah zuak uh / 
+    → Ishmael mite tungah ngun shekel sawmnihin amah zuak-te / 
 don — any (cry | prayer | saith)
     → Topa in midikte’ thungetna ngai a, migilote’ thungetna don lo hi. / The
 dona — onset (king | saith | hear | nor)
@@ -1404,7 +1404,7 @@ dosak — how (after | land | among)
 dosakpa — chase (one | man | seen)
     → Amaute na kihta kei ding hi; bang hang hiam cih / 
 dot — thou (saith | what | there)
-    → Ke’n kong dot leh, nong dawng kik kei ding uh hi. / [Missing]
+    → Ke’n kong dot leh, nong dawng kik kei ding-te hi. / [Missing]
 dothan — found (behold | dothan | joseph)
     → Dothan-ah amaute a mu hi. / 
 dotnate — these (your | brother | our)
@@ -1420,9 +1420,9 @@ dum — pit (blue | make | gold)
 dumah — dumah (mishma | massa | arab)
     → Mishma, Dumah, Massa, Hadad, Tema, / Mishma, and Dumah, Massa, Hadad, and Tema,
 dung — cubits (length | curtain | wood)
-    → a puang leh a gial ta nei uh hi. / 
+    → a puang leh a gial ta nei-te hi. / 
 dungah — dwell (wells | shemesh | valley)
-    → Amalek mite Negeb gamah teng uh hi. Hit mite / 
+    → Amalek mite Negeb gamah teng-te hi. Hit mite / 
 dupsan — blue (purple | linen | shalt)
     → a ausan khaute leh a kop-a kikhuk puan hoihte / 
 ebal — alvan (pass | jordan | these)
@@ -1435,7 +1435,7 @@ ebron — hebron (rehob | hammon | kanah)
 eden — eden (rezeph | turned | presence)
     → Topa Pasian in mipa la-in Eden huan kho-a / 
 eder — mahli (tent | ader | sons)
-    → Mushi’ tapate in: Mahli, Eder, leh Jeremoth, thum pha uh hi. / The sons of Mushi; Mahli, and Eder, and Jeremoth, three.
+    → Mushi’ tapate in: Mahli, Eder, leh Jeremoth, thum pha-te hi. / The sons of Mushi; Mahli, and Eder, and Jeremoth, three.
 edom — edom (saith | king | thou)
     → Edom, Moab leh Ammon mite; / Edom, and Moab, and the children of Ammon,
 edomte — seir (possession | edom | enemies)
@@ -1443,7 +1443,7 @@ edomte — seir (possession | edom | enemies)
 edrei — against (edrei | sihon | salecah)
     → “Tua ciangin eite kihei-in Bashan lamah i paito / 
 efah — midian (caleb's | geshan | ephah)
-    → leh Sha-af ahi uh hi. / 
+    → leh Sha-af ahi-te hi. / 
 efer — ephah (fathers | epher | sons)
     → leh Eldaah ahi hi. Hihte khempeuh / 
 efifaz — esau (bare | adah | eliphaz)
@@ -1470,7 +1470,7 @@ eimah — after (waiteth | knoweth | neither)
 eite — god (hath | jesus | christ)
     → Eite in Topa’ pum tung nate i hi hi. / For we are members of his body, of his flesh, and of his bones.
 ejaakan — bene (removed | took | jaakan)
-    → Moseroth panin amaute ding khia uh / 
+    → Moseroth panin amaute ding khia-te / 
 eknel — cheweth (because | hoof | divideth)
     → Ganhingte lak panin a khecin a ka / 
 ekron — ekron (ashdothites | border | came)
@@ -1503,13 +1503,13 @@ eliasaf — son (deuel | reuel | gad)
 elidad — son (elidad | chislon | tribe)
     → Benjamin minam panin Khislon’ tapa Elidad ahi hi. / Of the tribe of Benjamin, Elidad the son of Chislon.
 eliezer — eliezer (zechariah | gershom | none)
-    → Moses’ tapate in: Gershom leh Eliezer ahi uh hi. / The sons of Moses were, Gershom, and Eliezer.
+    → Moses’ tapate in: Gershom leh Eliezer ahi-te hi. / The sons of Moses were, Gershom, and Eliezer.
 elifaz — sons (temanite | wife | eliphaz)
     → Tua ciangin Teman khuami Elifaz in thu gen a, / Then Eliphaz the Temanite answered and said,
 elim — threescore (fifteenth | elim | removed)
-    → Elim panin amaute ding khia uh / 
+    → Elim panin amaute ding khia-te / 
 elishama — son (elishama | ammihud | ephraim)
-    → Elishama, Eliada, leh Elifelet, kua pha uh hi. / And Elishama, and Eliada, and Eliphelet, nine.
+    → Elishama, Eliada, leh Elifelet, kua pha-te hi. / And Elishama, and Eliada, and Eliphelet, nine.
 elizafan — son (sons | elizaphan | shemaiah)
     → Zebulun minam sung panin makai khat, Parnak’ tapa Elizafan ahi hi. / And the prince of the tribe of the children of Zebulun, Elizaphan the son of Parnach.
 elizur — son (shedeur | reuben | elizur)
@@ -1553,7 +1553,7 @@ enam — enam (tappuah | zanoah | gannim)
 enan — son (children | ahira | naphtali)
     → Naftali minam honte Enan’ tapa Ahira in uk hi. / And over the host of the tribe of the children of Naphtali was Ahira the son of Enan.
 endor — dor (towns | inhabitants | beth)
-    → leilakah a luang uh a muatgawp / 
+    → leilakah a luang-te a muatgawp / 
 eng — philistines (envied | yellow | there)
     → Migilote eng kei in la, amaute tawh kikhawl kei in. / Be not thou envious against evil men, neither desire to be with them.
 engannim — gannim (suburbs | zanoah | tappuah)
@@ -1564,7 +1564,7 @@ enhazor — hazor (edrei | kedesh)
 enin — behold (jesus | look | brass | took)
     → Mi kiphasakte enin niamkhiat in la / 
 enmishpat — mishpat (returned | came | kadesh)
-    → Tua ciangin amaute kihei kikin Enmishpat (Kadesh) -ah hong pai uh / 
+    → Tua ciangin amaute kihei kikin Enmishpat (Kadesh) -ah hong pai-te / 
 enok — enoch (son | god | begat)
     → Jared’ ta Enok, Enok’ ta Methuselah, Methuselah’ ta Lamek; / Enoch, Methuselah, Lamech,
 enosh — enos (called | begat | seth)
@@ -1582,7 +1582,7 @@ entappuah — right (shechem | border | went)
 entel — examine (your | should | feet | prepared)
     → Topa aw, nangmah in kei nong entel-a nong thei khin hi. / O
 eran — family (eran | shuthelah | eranites)
-    → Suthelah minamte: Eran pan Eran behte ahi uh hi. / And these are the sons of Shuthelah: of Eran, the family of the Eranites.
+    → Suthelah minamte: Eran pan Eran behte ahi-te hi. / And these are the sons of Shuthelah: of Eran, the family of the Eranites.
 erek — erech (tarpelites | beginning | kingdom)
     → Ama kumpi gam kipatna Babel, Erek, leh Akkad hi / 
 eri — judith (shuni | family | eri)
@@ -1594,9 +1594,9 @@ eroth — beeroth (son | israel | beerothites)
 ersheba — beer (sheba | wilderness | place)
     → Hazarshual, Be-ersheba leh a khuaneute, / And at Hazar–shual, and at Beer–sheba, and in the villages thereof,
 esau — esau (sons | loved | hands)
-    → Esau’ tapate in: Elifaz, Re-u-el, Jeush, Jalam, leh Korah ahi uh hi. / The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
+    → Esau’ tapate in: Elifaz, Re-u-el, Jeush, Jalam, leh Korah ahi-te hi. / The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
 esek — called (herdmen | isaac | saying)
-    → Gerar gancingte leh Isaac' gancingte kitawng uh / 
+    → Gerar gancingte leh Isaac' gancingte kitawng-te / 
 eshan — eshean (dumah | arab)
 eshban — hemdan (amram | dishon | eshban)
     → Dishon' tapate: Hemdan, Eshban, Ithran, leh Kheran ahi hi. / And these are the children of Dishon; Hemdan, and Eshban, and Ithran, and Cheran.
@@ -1609,14 +1609,14 @@ eshtemoa — eshtemoa (keilah | jattir | suburbs)
 eshtemoh — eshtemoh (anab | anim)
 eshterah — beesh (suburbs | golan | bashan)
 etham — etham (edge | removed | wilderness)
-    → Sukkoth panin amaute pai lai uh / 
+    → Sukkoth panin amaute pai lai-te / 
 ethar — ether (libnah | ashan)
 ether — rimmon (ain | ether | ashan)
     → Tua ciangin Libnah, Ether, Ashan, / Libnah, and Ether, and Ashan,
 ethkazin — kazin (gath | hepher | eth)
     → Tua panin Daberath-ah pai-in Jafia ciang ban / 
 etin — massah (times | hand | people)
-    → Ahi zongin amaute in Sangpen Pasian ze-etin lehdo uh / 
+    → Ahi zongin amaute in Sangpen Pasian ze-etin lehdo-te / 
 etna — observatory (servants | any | temptations | dreams)
     → Ama thugente a tun' matengin { Topa } in amah ze-et hi. / Until the time that his word came: the word of the Lord tried him.
 etnate — thine (faith | your | worketh)
@@ -1633,7 +1633,7 @@ ezem — ezem (bilhah | tolad | iim)
 ezer — dishon (children | anah | sons)
     → A ukpi Ezer, a nihna Obadiah, a thumna Eliab, / Ezer the first, Obadiah the second, Eliab the third,
 ezion — encamped (removed | through | shore)
-    → Abronah panin amaute ding khia uh / 
+    → Abronah panin amaute ding khia-te / 
 faro — pharaoh (came | daughter | king)
     → Jakob in Faro thupha pia a, Faro’ omna panin paikhia hi. / And Jacob blessed Pharaoh, and went out from before Pharaoh.
 fikol — captain (host | phichol | chief)
@@ -1656,7 +1656,7 @@ gah — fruit (missing | brought | fruits)
 gaham — gaham (reumah | bare | tebah)
     → Tua thamloin Reumah min nei a zineu in ta Tebah / 
 gahin — yield (field | missing | heard)
-    → tua mite’ lungsim uh a gahin na thei ding uh hi.” / 
+    → tua mite’ lungsim-te a gahin na thei ding-te hi.” / 
 gahte — fruit (locust | fig | fruits)
     → Nasep hahkat lokho mi in / 
 gai — conceived (bare | again | conceive)
@@ -1672,19 +1672,19 @@ gakna — filleted (gird | silver | pillars)
 gaknate — fillets (pillars | silver | hooks)
     → bullen sawmnih pen sumngo tawh / 
 gal — enemy (over | battle | war)
-    → Tuili gal khat Gerasa gamah a tung uh a, / And they came over unto the other side of the sea, into the country of the Gadarenes.
+    → Tuili gal khat Gerasa gamah a tung-te a, / And they came over unto the other side of the sea, into the country of the Gadarenes.
 galah — right (stones | meet | sea)
-    → Galile gam galah Geresa gam a tung uh a, / And they arrived at the country of the Gadarenes, which is over against Galilee.
+    → Galile gam galah Geresa gam a tung-te a, / And they arrived at the country of the Gadarenes, which is over against Galilee.
 galbawlna — hand (enmity | smite | die)
     → a phulapa in a tuah ciangin tua mipa that ding hi. / 
 galdo — campaign (upward | children | forth | able)
-    → a topa uh mopawi simna panin hong tungin kongkhak / 
+    → a topa-te mopawi simna panin hong tungin kongkhak / 
 galdona — expedition (missing | battle | moses | priest)
     → Tua ciangin amah a dawntuah dingin Asa kuankhia / 
 galeed — called (galeed | laban | sahadutha)
     → Laban in Jegarsahadutha ci hi; ahih hangin Jakob in Galeed ci hi. / And Laban called it Jegar–sahadutha: but Jacob called it Galeed.
 galhang — man (valiant | men | mighty)
-    → Benjamin-te sung pan galhang mihing tulsawm leh tulgiat tuk uh hi. / And there fell of Benjamin eighteen thousand men; all these were men of valour.
+    → Benjamin-te sung pan galhang mihing tulsawm leh tulgiat tuk-te hi. / And there fell of Benjamin eighteen thousand men; all these were men of valour.
 galhangte — parts (twelve | men | might)
     → Amau' beh lutangte: Efer, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, leh Jahdiel hi / 
 galhiam — armourbearer (against | men | put)
@@ -1694,7 +1694,7 @@ galhiamte — shalt (weapons | ordaineth | battle)
 galile — jesus (throughout | kedesh | came)
     → Judah gam pan Galile gamah a paikik hi. / (Though Jesus himself baptized not, but his disciples,)
 galkah — jordan (over | against | pass)
-    → Minam khempeuh Jordan a galkah khit uh ciangin Topa in Joshua kiangah, / And it came to pass, when all the people were clean passed over Jordan, that the
+    → Minam khempeuh Jordan a galkah khit-te ciangin Topa in Joshua kiangah, / And it came to pass, when all the people were clean passed over Jordan, that the
 galkahin — over (thou | hand | left)
     → hua mite kiangah galkahin amaute kiangah i va kilak ding hi. / 
 galkahsak — over (sent | took | brook)
@@ -1702,7 +1702,7 @@ galkahsak — over (sent | took | brook)
 galkap — army (captain | captains | chief | thousand)
     → A thahat galkap mang a vekpi in tulnih leh zaguk ahi hi. / The whole number of the chief of the fathers of the mighty men of valour were two thousand and six hundred.
 galkapte — men (soldiers | host | horsemen)
-    → Galkapte zong pai uh a, tuithuk pia-in, / And the soldiers also mocked him, coming to him, and offering him vinegar,
+    → Galkapte zong pai-te a, tuithuk pia-in, / And the soldiers also mocked him, coming to him, and offering him vinegar,
 galkhat — children (sea | against | rakkon)
     → leh Joppa galkhat-a om Mejarkon leh Rakkon a gamte tawh huam hi. / And Me–jarkon, and Rakkon, with the border before Japho.
 galkhatah — yond (side | thus | land | jordan)
@@ -1710,17 +1710,17 @@ galkhatah — yond (side | thus | land | jordan)
 galmat — captive (captivity | prisoners | shalt | there)
     → { Topa } in a puk mite khempeuh huh / 
 galmatin — until (those | naphtali | captive)
-    → Ehud' tapate (amaute pen Geba-a teng beh lutangte hi uh / 
+    → Ehud' tapate (amaute pen Geba-a teng beh lutangte hi-te / 
 galmatte — plains (third | taken | whereas)
     → Tua ciangin amah in Lot leh ama na khempeuh / 
 galneihna — hated (because | smote | neighbour)
     → Tua ciangin phulapa in amah a delh leh / 
 galsim — strong (barnea | war | whithersoever)
-    → “Na lumte uh la un la, galsim dingin kuankhia un! / Order ye the buckler and shield, and draw near to battle.
+    → “Na lumte-te la un la, galsim dingin kuankhia un! / Order ye the buckler and shield, and draw near to battle.
 galtai — vagabond (fugitive | fugitives | bewray)
     → leitunga a vakvai na hi ding hi,” a ci hi. / 
 galte — enemies (mine | missing | enemy)
-    → Ka galte khempeuh in hong simmawhin a hong zahpih uh hi. / All our enemies have opened their mouths against us.
+    → Ka galte khempeuh in hong simmawhin a hong zahpih-te hi. / All our enemies have opened their mouths against us.
 gam — land (saith | missing | come)
     → gam vatawt, tui vatawt, musane, / And the swan, and the pelican, and the gier eagle,
 gama — people (hear | honey | tell)
@@ -1732,7 +1732,7 @@ gamaliel — pedahzur (children | son | manasseh)
 gambup — where (kingdom | whole | day)
     → A masa pen gun a min Pishon hi / 
 gamdai — desolate (people | hold | take | house)
-    → Zingsang dong a khing na omsak kei ding uh / 
+    → Zingsang dong a khing na omsak kei ding-te / 
 gamdang — foreign (strangers | strange | israel | away)
     → Topa’ la, gamdang ah bangci sak thei ding i hi hiam? / How shall we sing the
 gamgei — seir (mount | paran | wilderness)
@@ -1740,7 +1740,7 @@ gamgei — seir (mount | paran | wilderness)
 gamgi — border (river | land | coast)
     → Edom gamgi Hor Mual ah Topa in Moses leh Aaron tungah, / And the
 gamgite — desert (borders | command | treasures)
-    → note in na mai uh panin amaute na hawlkhia ding uh hi. / 
+    → note in na mai-te panin amaute na hawlkhia ding-te hi. / 
 gamh — heirloom (inheritance | israel | shalt | land)
     → Ama ngah gamh dingte in Be-ersheba, Sheba, Moladah, / And they had in their inheritance Beer–sheba, or Sheba, and Moladah,
 gamhluah — son (villages | land | house)
@@ -1766,7 +1766,7 @@ gamlakah — wilderness (field | way | forty)
 gamlapi — far (scatter | off | come)
     → sumbukte’ van pua teembaw bangin / 
 gamlatna — death (about | because | way)
-    → na upate uh leh na thukhente uh hong paikhia-in / 
+    → na upate-te leh na thukhente-te hong paikhia-in / 
 gamluah — inheritance (voice | portions | sons)
     → Kei-a’ pen mun nuam sung hong tu ahih manin gamluah / 
 gamluahna — whom (field | return | bought)
@@ -1798,7 +1798,7 @@ gamta — behave (sight | evil | god | man)
 gamtaang — over (know | earth | every)
     → Amah in mihingte’ nasep khawlsak a, amah a gamtaang ahihna lak hi. / He sealeth up the hand of every man; that all men may know his work.
 gamtang — waters (forth | whatsoever | moving)
-    → tuipi leh a sunga gamtang khempeuhte in amah phat ta uh hen. / 
+    → tuipi leh a sunga gamtang khempeuhte in amah phat ta-te hen. / 
 gamtat — thou (done | hath | saith)
     → thusia bawl ding ngaihsutna, gamtat siat ding a manlangte, / An heart that deviseth wicked imaginations, feet that be swift in running to mischief,
 gamtate — abomination (unrighteously | fire | strange)
@@ -1822,7 +1822,7 @@ gancingte — between (pray | gerar | servants)
 ganhing — animal (beasts | man | any | offering)
     → “Ganhing tawh a mawh peuhmah kithat ding hi. / Whosoever lieth with a beast shall surely be put to death.
 ganhingnote — fruit (things | until | destroyed)
-    → Ganhingnote bangin hong pantah ding-a hong kuankhia uh ahi hi. / 
+    → Ganhingnote bangin hong pantah ding-a hong kuankhia-te ahi hi. / 
 ganhingte — lights (beasts | things | cattle | land)
     → Ganhing siangthote, a siangtho lo ganhingte, vasate, leitunga a bokvak peuhmah, / Of clean beasts, and of beasts that are not clean, and of fowls, and of every thing that creepeth upon the earth,
 ganhon — herd (herds | saith | flocks | much)
@@ -1838,7 +1838,7 @@ ganno — your (fat | receive | sent)
 gannote — day (fatlings | wicked | beast)
     → Midikte in a gannote hoihtak don / 
 gat — purple (clothing | work | cunning)
-    → Tarshish khua panin ngun seksa va la uh / 
+    → Tarshish khua panin ngun seksa va la-te / 
 gatam — zepho (korah | zephi | gatam)
     → Elifaz' tapate: Teman, Omar, Zefo, Gatam, leh Kenaz ahi hi. / And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.
 gath — gath (carried | ark | born)
@@ -1864,7 +1864,7 @@ gawng — scraggy (ill | kine | flesh | seven)
 gawp — lord (your | saith | down)
     → Amaute delh kek in la, leitung panin nuaimang gawp in. / Persecute and destroy them in anger from under the heavens of the
 gawpgawpna — over (shalt | rule | rigour)
-    → Note in hih gawpgawpna tawh amah na uk kei ding uh / 
+    → Note in hih gawpgawpna tawh amah na uk kei ding-te / 
 gawpin — hath (pestilence | kirjath | forced)
     → Amaute a tai lai takun huih in nawk gawpin / 
 gawt — penalise (fled | house | hand | dagon)
@@ -1874,9 +1874,9 @@ gaza — gaza (gerar | avims | barnea)
 geba — geba (ramah | ammoni | israel)
     → Tua ciangin Geba, Mikmash, Aija, Beth-el leh a khuaneute, / The children also of Benjamin from Geba dwelt at Michmash, and Aija, and Beth–el, and in their villages,
 gebal — giblites (prepared | men | builders)
-    → Filistia leh Taia khua mite tawh thuciam a bawl uh hi. / 
+    → Filistia leh Taia khua mite tawh thuciam a bawl-te hi. / 
 geber — ezion (removed | way | gilead)
-    → Abronah panin amaute ding khia uh / 
+    → Abronah panin amaute ding khia-te / 
 geder — king (one | debir | geder)
     → Debir kumpi, khat; Geder kumpi, khat; / The king of Debir, one; the king of Geder, one;
 gederah — adithaim (dwelt | thirty | plains)
@@ -1936,13 +1936,13 @@ genpih — speak (commune | wilt | persuade)
 gensa — missing (thou | people | children)
     → gensa bangin tua lai takin / 
 gensak — plead (speak | peradventure | lord's | ears)
-    → Pasian angvan ding a, ama ading gensak ding na hi uh hiam? / Will ye accept his person? will ye contend for God?
+    → Pasian angvan ding a, ama ading gensak ding na hi-te hiam? / Will ye accept his person? will ye contend for God?
 gensia — animadvert (against | talebearer | woman's | blasphemeth)
     → Zeisu in, “Khat leh khat in hong gensia kei un. / Jesus therefore answered and said unto them,
 gensiat — name (speeches | eat | walk)
-    → Tua ahih ciangin na hih theihna uh ah gensiat nading / 
+    → Tua ahih ciangin na hih theihna-te ah gensiat nading / 
 gentaak — those (anger | jealousy | vanities)
-    → Amaute a mi-in tawmin, gentaak loin peemta hi uh a, / When ye were but few, even a few, and strangers in it.
+    → Amaute a mi-in tawmin, gentaak loin peemta hi-te a, / When ye were but few, even a few, and strangers in it.
 gente — blessed (saith | thing | brother)
     → Topa in thuman mite kem a, ahi zongin thuzuau gente lawnkhia hi. / The eyes of the
 gentehna — parable (peradventure | among | there | became)
@@ -1956,7 +1956,7 @@ genthangna — day (report | proclaim | selfsame)
 gentheihna — pray (served | moment | mine)
     → Amah in lunggimna leh gentheihna thonginn sungah a hong kalhkhum hi. / He hath builded against me, and compassed me with gall and travail.
 genthuah — words (spake | after | again)
-    → ka thugente khempeuh hoihtakin na sang pah uh hi. / 
+    → ka thugente khempeuh hoihtakin na sang pah-te hi. / 
 gera — gera (bahurim | israel | family)
     → Bela’ tapate in: Addar, Gera, Abihud, / And the sons of Bela were, Addar, and Gera, and Abihud,
 gerah — twenty (shekel | shekels | thine)
@@ -1964,9 +1964,9 @@ gerah — twenty (shekel | shekels | thine)
 gerar — king (comest | kadesh | dwelt)
     → Tua ahih ciangin Gerar-ah Isaak teng hi. / And Isaac dwelt in Gerar:
 gerizim — pass (come | levites | top)
-    → “Jordan na galkah khit uh ciangin mite thupha / 
+    → “Jordan na galkah khit-te ciangin mite thupha / 
 gershom — sons (son | levi | gershom)
-    → Moses’ tapate in: Gershom leh Eliezer ahi uh hi. / The sons of Moses were, Gershom, and Eliezer.
+    → Moses’ tapate in: Gershom leh Eliezer ahi-te hi. / The sons of Moses were, Gershom, and Eliezer.
 gershon — gershon (gershonites | levi | names)
     → Levi’ tapate: Gershon, Kohath leh Marari ahi hi. / And the sons of Levi; Gershon, Kohath, and Merari.
 gershonte — families (charge | serve | moses)
@@ -1980,11 +1980,11 @@ gezer — gezer (came | king | canaanites)
 giah — room (enough | wall | round)
     → tum laitakin Gibeon gamlak paina lampi-a om Giah mai-ah / 
 giahna — lodging (give | came | leave | midst)
-    → Tua ciangin Jesuh manin paikhiatpih uh / 
+    → Tua ciangin Jesuh manin paikhiatpih-te / 
 giahphual — camp (pitched | before | forth)
     → Gershonte beh in nitumna lam biakbuk nungah giahphual satin, / The families of the Gershonites shall pitch behind the tabernacle westward.
 giahphualah — officers (once | people | into)
-    → Nithum a cin’ni ciangin giahphualah uliante pai uh a, / And it came to pass after three days, that the officers went through the host;
+    → Nithum a cin’ni ciangin giahphualah uliante pai-te a, / And it came to pass after three days, that the officers went through the host;
 giahphualate — east (camps | lie | parts)
     → Theihsakna na tum ciangin nisuahna lam panga giahphualate ding khia / 
 giahphualte — set (camp | moses | commandment)
@@ -2029,7 +2029,7 @@ gilead — gilead (went | son | there)
 gilgal — camp (gilgal | king | dwell)
     → { Topa } in pingpei-in vantungah Elijah / 
 gilkial — hungry (missing | more | know)
-    → gilkial dangtakin amaute sibup uh hi. / Hungry and thirsty, their soul fainted in them.
+    → gilkial dangtakin amaute sibup-te hi. / Hungry and thirsty, their soul fainted in them.
 gilkialna — hunger (died | thou | burnt | gavest)
     → An duhna in mi na semsak / 
 gilkialte — hungry (your | famine | ceased)
@@ -2045,7 +2045,7 @@ gilote — missing (thou | slay | more)
 gilpi — abdoment (offering | belly | thou | fat)
     → Tua ciangin a thau khempeuh a mei thau / 
 gilvah — satisfied (desire | full | labour)
-    → Amau' duh pen pia ahih manin, amaute in ne-in gilvah uh hi. / So they did eat, and were well filled: for he gave them their own desire;
+    → Amau' duh pen pia ahih manin, amaute in ne-in gilvah-te hi. / So they did eat, and were well filled: for he gave them their own desire;
 gilvahin — year (fat | tithing | eat)
     → “Sawmah khat piak kum ahi / 
 gim — toil (altar | faint | offering | sacrifice)
@@ -2087,7 +2087,7 @@ gingte — voice (psaltery | before | seas)
 girgash — girgashite (canaanites | perizzites | amorites)
     → leh Jubus mite, Amor mite, Girgash mite, / The Jebusite also, and the Amorite, and the Girgashite,
 gitloh — brethren (pray | carried | sinned)
-    → tua banga na gitloh gamtat loh nading uh kong thum hi. / 
+    → tua banga na gitloh gamtat loh nading-te kong thum hi. / 
 gitlohna — atrocious (wickedness | evil | thine | turn)
     → Diktatna in midikte hu a, gitlohna in mawhneite’ pukna hi. / Righteousness keepeth him that is upright in the way: but wickedness overthroweth the sinner.
 goi — chedorlaomer (elam | king | nations)
@@ -2103,7 +2103,7 @@ golan — bashan (tribe | suburbs | golan)
 golpi — great (through | behemoth | slain)
     → Ama thahatna tawh tuipi zo / 
 golpite — whales (fir | there | god)
-    → Tua munah gamsate lum ding uh / 
+    → Tua munah gamsate lum ding-te / 
 gomer — japheth (sons | bands | daughter)
     → Gomer’ tapate: Ashkenaz, Rifath, leh Togarmah ahi hi. / And the sons of Gomer; Ashkenaz, and Riphath, and Togarmah.
 gommorahte — sodom (goods | gomorrah | victuals)
@@ -2137,7 +2137,7 @@ guaktang — bare (father's | spoil | mother's | sinned)
 guaktanga — wast (thou | told | naked)
     → Khuapi kongpi tau-in thum ding hi. Khuapi, gamkhing suak ding / 
 guaktangin — man (naked | canaan | day)
-    → Mipa leh a zi guaktangin om uh a, maizum lo uh hi. / And they were both naked, the man and his wife, and were not ashamed.
+    → Mipa leh a zi guaktangin om-te a, maizum lo-te hi. / And they were both naked, the man and his wife, and were not ashamed.
 guaktangun — sewed (shalt | naked | both)
     → Edom leh Uz mite aw / 
 gual — arrange (second | third | fourth | cover)
@@ -2159,7 +2159,7 @@ guat — hearted (wise | god | man)
 guatsa — garments (may | spirit | wisdom)
     → hih theihna lungsim ka guatsa / 
 gudgodah — gudgodah (journeyed | thence | jotbathah)
-    → Tua lai panin Gudgodah-ah pai uh / 
+    → Tua lai panin Gudgodah-ah pai-te / 
 guh — bone (bones | break | behold | body)
     → “Lutang guh’cih nopna Golgotha kici mun a tun’ uh ciangin, / And when they were come unto a place called Golgotha, that is to say, a place of a skull,
 guhte — bones (saith | flesh | visit)
@@ -2171,7 +2171,7 @@ guk — six (days | years | sixteen | fifty)
 gukna — pilgerage (sixth | king | month | jacob)
     → a gukna Attai, a sagihna Eliel, / Attai the sixth, Eliel the seventh,
 gukte — candlestick (themselves | sixteen | other)
-    → Na piak uh khuapite in note’ bukna khuapi gukte hi ding hi. / And of these cities which ye shall give six cities shall ye have for refuge.
+    → Na piak-te khuapite in note’ bukna khuapi gukte hi ding hi. / And of these cities which ye shall give six cities shall ye have for refuge.
 gul — snake (serpent | missing | serpents | terrible)
     → note lakah kua a om hiam? / 
 gulgu — biteth (venom | gall | viper's)
@@ -2181,11 +2181,11 @@ gulhgawng — river (leanfleshed | after | favoured)
 gulpi — dragon (serpent | woman | lion | way)
     → Ahih hangin gulpi in numei kiangah / 
 gulte — sinned (serpents | missing | came)
-    → Gilkialin amaute si ding uh / 
+    → Gilkialin amaute si ding-te / 
 gun — silver (river | forth | euphrates | lifted)
     → gun vapi, gun vazonei nam khempeuh, huihtun leh bak ahi hi. / And the stork, the heron after her kind, and the lapwing, and the bat.
 gunei — poisonous (wilderness | put | cockatrice | dieth)
-    → “Mihingte in leitang zaipi a ngah theihna dingun gisuangte khinsim uh / 
+    → “Mihingte in leitang zaipi a ngah theihna dingun gisuangte khinsim-te / 
 gungal — jordan (your | fear | seem)
     → Amaute' zomah Gibeon leh Mizpah khuami ahi / 
 guni — guni (family | jahziel | sons)
@@ -2236,7 +2236,7 @@ haksa — austere (hard | men | missing | saith)
 haksak — saw (water | god | opened)
     → Thusuakte pen theihsiam haksak hi. / 
 haksasak — rebekah (isaac | grief | mind)
-    → amaute in Isaak leh Rebekah’ nuntakna haksasak uh hi. / Which were a grief of mind unto Isaac and to Rebekah.
+    → amaute in Isaak leh Rebekah’ nuntakna haksasak-te hi. / Which were a grief of mind unto Isaac and to Rebekah.
 haksatna — brunt (trouble | made | israel | perizzites)
     → Pasian aw, ama haksatna khempeuh panin Israelte honkhia ta in. / Redeem Israel, O God, out of all his troubles.
 haksatnate — pass (midst | hid | troubles)
@@ -2249,15 +2249,15 @@ halhul — halhul (beth | zur | gedor)
 hali — beten (hali | achshaph | border)
     → A gam in Helkath, Hali, Beten, Akshaf, / And their border was Helkath, and Hali, and Beten, and Achshaph,
 halin — fire (men | wives | offering)
-    → Amaute in mei tawh halin sattan gawp uh hi. Amaute / 
+    → Amaute in mei tawh halin sattan gawp-te hi. Amaute / 
 halkhawm — altar (burnt | offering | did)
     → Tua ciangin amah in a sungkuate leh a khete sawp / 
 halna — spacing (offered | any | forth | beer)
-    → Amaute nasem dingin kipanin Jerusalem-a biakna taute hemkhia uh / 
+    → Amaute nasem dingin kipanin Jerusalem-a biakna taute hemkhia-te / 
 halpa — wash (flesh | burneth | clothes)
     → tua khit ciangin giahphualah hong ciah thei ding hi. / 
 halsak — fire (field | saith | houses)
-    → giahphual khempeuh uh mei tawh halsak uh a, / 
+    → giahphual khempeuh-te mei tawh halsak-te a, / 
 haltum — fire (burn | saith | off)
     → Mei in gamlak a haltum bang, mualliante a kuan'sak bangin / As the fire burneth a wood, and as the flame setteth the mountains on fire;
 ham — sons (shem | dumb | begat)
@@ -2286,13 +2286,13 @@ hamsiatna — invective (among | lying | years | wherein)
 hamtang — commandment (city | only | lodge)
     → Topa in akihisak mite mudah / 
 hamul — hezron (hamul | family | pharez)
-    → Perez' tapate: Hezron leh Hamul ahi uh hi. / The sons of Pharez; Hezron, and Hamul.
+    → Perez' tapate: Hezron leh Hamul ahi-te hi. / The sons of Pharez; Hezron, and Hamul.
 han — sepulture (graves | sepulchres | grave | day)
     → Migilopa han-ah a kivui ciangin, a hankhuk kicing a, / Yet shall he be brought to the grave, and shall remain in the tomb.
 hanciam — gospel (men | terrors | days)
     → Pilna thute limtakin ngai in la, na theihtel zawh nadingin hanciam in. / So that thou incline thine ear unto wisdom, and apply thine heart to understanding;
 hanciamna — wrestled (afraid | envy | saith)
-    → ngah hilo na hih manun na kisialhna ding uh / 
+    → ngah hilo na hih manun na kisialhna ding-te / 
 hang — missing (because | thou | god)
     → Bang hang hiam cih leh Topa in Moses kiangah, / For the
 hanga — offering (kid | sin | meat)
@@ -2300,13 +2300,13 @@ hanga — offering (kid | sin | meat)
 hangin — by virtue of (missing | thou | why | god)
     → Ahih hangin Noah in Topa’ maipha mu hi. / But Noah found grace in the eyes of the
 hangun — saith (shalt | thus | your)
-    → Mite in a hauhna uh muangin / 
+    → Mite in a hauhna-te muangin / 
 hankuang — coffin (bier | kinds | david)
     → Egypt-ah hankuang sung khatah amah kikoih hi. / 
 hannathon — side (border | compasseth | north)
     → tua ciangin leilu lam pan, Hannathon lamah gamgi kihei / 
 hanniel — son (arah | ulla | haniel)
-    → Ulla' suante: Arah, Hanniel, leh Rizia ahi uh hi. / And the sons of Ulla; Arah, and Haniel, and Rezia.
+    → Ulla' suante: Arah, Hanniel, leh Rizia ahi-te hi. / And the sons of Ulla; Arah, and Haniel, and Rezia.
 hanok — ephah (hanoch | firstborn | sons)
     → leh Reuben’ tapate: Hanok, Pallu, Hezron leh Karmi ahi hi. / And the sons of Reuben; Hanoch, and Pallu, and Hezron, and Carmi.
 hanthawn — before (slew | god | encourage)
@@ -2314,7 +2314,7 @@ hanthawn — before (slew | god | encourage)
 hanthawnin — encourage (anger | judah | encouraged)
     → a thadah mite hilh un la / 
 haradah — encamped (removed | haradah | shapher)
-    → Haradah panin dingkhia uh a, Makheloth-ah giahphual sat uh hi. / And they removed from Haradah, and pitched in Makheloth.
+    → Haradah panin dingkhia-te a, Makheloth-ah giahphual sat-te hi. / And they removed from Haradah, and pitched in Makheloth.
 haran — haran (destroyed | nahor | chaldeans)
     → Jakob in Be-ersheba khua nusia-in, Haran lamah pai hi. / And Jacob went out from Beer–sheba, and went toward Haran.
 hat — hardy (strong | israel | strength | arm)
@@ -2347,7 +2347,7 @@ hawk — roar (lion | like | cut | glean)
 hawkkhiatsak — many (round | nakedness | saith)
     → Kua in ama puan tungnung hawkkhiatsak zo / 
 hawl — land (day | chariot | bring)
-    → Uzza leh Ahio in a leeng a hawl uh hi. / 
+    → Uzza leh Ahio in a leeng a hawl-te hi. / 
 hawlkhia — oust (missing | cast | before | drive)
     → Amaute phuisam in la, a cimawh dingin hawlkhia in. / Give them sorrow of heart, thy curse unto them.
 hawlkhiat — missing (sight | removed | jordan)
@@ -2365,11 +2365,11 @@ hawmte — fall (ears | cast | children)
 hawng — husk (kernels | made | vine | tree)
     → Amaute in i leengguiteng susiamang khin / 
 haza — jealous (envied | envy | sold | those)
-    → Tua pawlte’ pate in Josef a haza uh / 
+    → Tua pawlte’ pate in Josef a haza-te / 
 hazaraddar — kadesh (south | pass | zin)
-    → Na gamgi uh Akrabbim mual leitaw lamah kawi-in Zin dong banin / 
+    → Na gamgi-te Akrabbim mual leitaw lamah kawi-in Zin dong banin / 
 hazarenan — hazar (border | hamath | goeth)
-    → “Nisuahna lam na gamgi uh Hazarenan panin Shefam dong na / 
+    → “Nisuahna lam na gamgi-te Hazarenan panin Shefam dong na / 
 hazargaddah — hazar (gaddah | heshmon | beth)
 hazarmaveth — hazarmaveth (almodad | sheleph | jerah)
     → Joktan in Almodad, Shelef, Hazarmaveth, Jerah, / And Joktan begat Almodad, and Sheleph, and Hazarmaveth, and Jerah,
@@ -2377,13 +2377,13 @@ hazarshual — hazar (shual | beer | sheba)
     → Hazarshual, Be-ersheba leh a khuaneute, / And at Hazar–shual, and at Beer–sheba, and in the villages thereof,
 hazarsusah — susah (hazar | ziklag | beth)
 hazat — strange (people | sight | images)
-    → mite in Moses leh Topa’ mi siangtho Aaron a hazat uh ciangin, / 
+    → mite in Moses leh Topa’ mi siangtho Aaron a hazat-te ciangin, / 
 hazatsak — enviest (moses | thou | sake)
     → Ahih hangin Moses in ama kiangah / 
 hazazontamar — amorites (sea | hazazon | tamar)
-    → Tua ciangin amaute kihei kikin Enmishpat (Kadesh) -ah hong pai uh / 
+    → Tua ciangin amaute kihei kikin Enmishpat (Kadesh) -ah hong pai-te / 
 hazeroth — hazeroth (people | encamped | departed)
-    → Kibrothhattaavah panin amaute ding khia uh / 
+    → Kibrothhattaavah panin amaute ding khia-te / 
 hazo — chesed (hazo | pildash | jidlaph)
     → Khesed, Hazo, Pildash, Jidlaf leh Bethuel ahi hi,” kici hi. / And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.
 hazor — hazor (came | stood | king)
@@ -2395,7 +2395,7 @@ heber — heber (severed | house | heber's)
 hebron — hebron (david | izhar | sons)
     → Jerusalem kumpi, khat; Hebron kumpi, khat; / The king of Jerusalem, one; the king of Hebron, one;
 hebru — hebrew (thou | place | abram)
-    → Hebru kamin Armageddon a kici munah a kikhawmsak uh hi. / 
+    → Hebru kamin Armageddon a kici munah a kikhawmsak-te hi. / 
 heek — sue (neck | without | speaketh | enemies)
     → Tua ahih ciangin sanggamte aw / 
 heeksat — asunder (off | head | neck)
@@ -2424,7 +2424,7 @@ hehsak — provoke (anger | sight | drink)
 hehsakin — commanded (jehu | day | evil)
     → Hih khuapi in, a kisat cila kipan tuni ciangdong hong / 
 hehsakna — provocation (forget | wherewith | sin | house)
-    → San Tuipi panin dingkhia uh / 
+    → San Tuipi panin dingkhia-te / 
 hei — axe (hand | righteous | pervert | trees)
     → Tua ciangin biakinn na kizeemte khempeuh sek-hei leh sekpite tawh / 
 heikhia — divert (away | shalt | serve | blind)
@@ -2436,7 +2436,7 @@ heisak — nor (david | blessing | righteousness)
 heitang — fetcheth (head | axe | into)
     → Tua ciangin amah in, “La to in,” / 
 hel — missing (god | sin | thereto)
-    → Siampite’ ta adangte in a namtui nate hel dingin bawl uh a, / And some of the sons of the priests made the ointment of the spices.
+    → Siampite’ ta adangte in a namtui nate hel dingin bawl-te a, / And some of the sons of the priests made the ointment of the spices.
 helef — heleph (coast | allon | zaanannim)
     → leh Jabneel panin Lakkum ciangdong pai-in Jordan-ah a tawp hi. / 
 helek — family (children | helek | jeezerites)
@@ -2460,7 +2460,7 @@ heshbon — heshbon (sihon | cities | come)
     → Reuben minamte in Heshbon, Elealeh, Kiriathaim, / And the children of Reuben built Heshbon, and Elealeh, and Kiriathaim,
 heshmon — heshmon (hazar | gaddah | beth)
 heshmonah — pitched (departed | hashmonah | mithcah)
-    → Mithkah panin amaute ding khia uh / 
+    → Mithkah panin amaute ding khia-te / 
 het — saith (lord | done | against)
     → Ama' tapa’ hangin Abraham’ tungah thu nuam het lo hi. / And the thing was very grievous in Abraham's sight because of his son.
 heth — heth (firstborn | canaan | begat)
@@ -2499,7 +2499,7 @@ hihsa — right (rested | offering | men)
 hihsak — what (children | rise | shalt)
     → Eite-a' dingin na a hong sepsak / 
 hihsakna — saying (son | day | done)
-    → Tua ni-in na tate uh kiangah / 
+    → Tua ni-in na tate-te kiangah / 
 hihte — these (things | sons | king)
     → Hihte in Esau' (Edom) tangthu ahi hi. / Now these are the generations of Esau, who is Edom.
 hilh — advise (missing | christ | thou | god)
@@ -2507,7 +2507,7 @@ hilh — advise (missing | christ | thou | god)
 hilhin — many (commanded | israel | levites)
     → Tua lai takin Zeisu in Galile gam kikhopna innte ah thu hilhin / 
 hilhkhol — forecast (come | solemnly | warned | return)
-    → na sia taktak ding uh hi / 
+    → na sia taktak ding-te hi / 
 hilhkholhna — became (sealeth | liars | set)
     → hilhkholhna thu a theisak dingin ka hong pai zo hi. / 
 hilo — nay (israel | judah | saith | god)
@@ -2519,13 +2519,13 @@ himawk — israel (people | against | why)
 hin — lord (thou | soul | death)
     → Ka hin’ gim mahmah hi. Topa— bang tanvei hong sawt / 
 hing — alive (living | dead | there)
-    → “Numei aisannu na hing khawi kei ding uh hi. / Thou shalt not suffer a witch to live.
+    → “Numei aisannu na hing khawi kei ding-te hi. / Thou shalt not suffer a witch to live.
 hingkhawi — household (took | saying | sworn)
-    → “Numei aisannu na hingkhawi kei ding uh hi. / Thou shalt not suffer a witch to live.
+    → “Numei aisannu na hingkhawi kei ding-te hi. / Thou shalt not suffer a witch to live.
 hingsak — corn (send | preserve | saved)
     → Topa in thatin hingsak kik hi; amah in Leinuai-ah paipih / 
 hinnom — built (valley | side | through)
-    → amaute pen Beersheba panin Hinnom Kuam dongah teng uh hi. / 
+    → amaute pen Beersheba panin Hinnom Kuam dongah teng-te hi. / 
 hipa — god (other | thou | shalt)
     → ama min Aam a hipa pen a aam Pasian ahi hi.) / 
 hirah — certain (sheepshearers | judah | went)
@@ -2543,7 +2543,7 @@ hiv — perizzites (hittites | hivite | shechem)
 hobab — son (moses | hobab | reuel)
     → Moses in ama zi' sanggampa ahi / 
 hobah — left (smote | pursued | hobah)
-    → Damaskas leilu lam Hobah ciangdong a delh uh hi. / 
+    → Damaskas leilu lam Hobah ciangdong a delh-te hi. / 
 hoglah — hoglah (noah | daughters | son)
     → Bang hang hiam cih leh Zelofehad' tanu Mahlah / 
 hoh — damsel (theirs | wilderness | lord)
@@ -2571,7 +2571,7 @@ hoihzaw — better (house | hath | die)
 holon — goshen (holon | country | suburbs)
     → Holon a lonona gamte tawh, Debir a lonona gamte tawh, / And Holon with her suburbs, and Debir with her suburbs,
 homan — hori (lotan | timna | sons)
-    → Lotan’ tapate in Hori leh Homan ahi uh hi; Lotan’ / 
+    → Lotan’ tapate in Hori leh Homan ahi-te hi; Lotan’ / 
 hon — save (missing | open | god)
     → Lungsim kitamzante kiangah Topa om a, lungsim zan-gawpte hon hi. / The
 honak — reuben (family | eldest | son)
@@ -2582,13 +2582,13 @@ hongin — sold (way | fled | doors)
 honin — cattle (number | egypt | soul)
     → Amaute in { Topa } beel ahih manin amah in / 
 honkhat — troop (prophets | nations | honey)
-    → Tua mite tawh kigamla-ah vok honkhat gamta-in a om uh hi. / And there was a good way off from them an herd of many swine feeding.
+    → Tua mite tawh kigamla-ah vok honkhat gamta-in a om-te hi. / And there was a good way off from them an herd of many swine feeding.
 honkhia — redeem (deliver | hand | saith | israel)
     → sih nading panin honkhia kikin, nuntakna nuam pia kik hi. / To bring back his soul from the pit, to be enlightened with the light of the living.
 honkhiapa — esteemed (thou | should | cried)
     → Amah in, “Topa in ka suangpi leh ka kulhpi, leh keimah honkhiapa, / And he said, The
 honpi — passel (great | hath | multitude | lord)
-    → Tua ciangin Israel mi honpi khempeuh Moses’ omna panin paikhia uh hi. / And all the congregation of the children of Israel departed from the presence of Moses.
+    → Tua ciangin Israel mi honpi khempeuh Moses’ omna panin paikhia-te hi. / And all the congregation of the children of Israel departed from the presence of Moses.
 honpite — tribe (among | people | moving)
     → Simeon minam honpite Zurishaddai’ tapa Shelumiel in uk hi. / And over the host of the tribe of the children of Simeon was Shelumiel the son of Zurishaddai.
 honsa — open (day | man | pit)
@@ -2610,7 +2610,7 @@ horeb — horeb (moses | stand | themselves)
 horem — migdal (beth | iron | horem)
     → leh Bethshemesh — khuapi sawmlekua / 
 horhaggidgad — encamped (went | hor | haggiggad)
-    → Benejaakan panin dingkhia uh a, Horhaggidgad-ah giahphual sat uh hi. / And they removed from Bene–jaakan, and encamped at Hor–haggiggad.
+    → Benejaakan panin dingkhia-te a, Horhaggidgad-ah giahphual sat-te hi. / And they removed from Bene–jaakan, and encamped at Hor–haggiggad.
 hori — lotan (seir | horite | children)
     → Simeon minam panin Hori’ tapa Shafat; / Of the tribe of Simeon, Shaphat the son of Hori.
 hormah — hormah (smote | chased | king)
@@ -2632,7 +2632,7 @@ huam — comprehensive (less | pazez | mishal | japho)
 huamkha — embody (children | forgiven | congregation | israel)
     → Noah in tapa thum, Shem, Ham, leh Jafeth a nei hi. / And Noah begat three sons, Shem, Ham, and Japheth.
 huan — braise (garden | voice | house | people)
-    → “Huan sung singgahte ka ne thei ding uh hi; / 
+    → “Huan sung singgahte ka ne thei ding-te hi; / 
 huang — house (sabbath | where | servants)
     → biakbuk khetphimte leh huang khetphimte, leh amau’ khaute; / The pins of the tabernacle, and the pins of the court, and their cords,
 huanin — water (oxen | eat | boiled)
@@ -2648,7 +2648,7 @@ huante — gardens (garments | bread | vineyards)
 hucipin — filled (father | philistines | stopped)
     → (Ama pa Abraham' hun lai-a / 
 hufam — family (hupham | shuphamites | huphamites)
-    → Shefufam pan Shefufam behte ahi uh hi; Hufam pan Hufam / 
+    → Shefufam pan Shefufam behte ahi-te hi; Hufam pan Hufam / 
 huh — aid (help | none | king | cause)
     → Topa, ka kihotkhiatna aw, keimah huh dingin hong manlang in! / Make haste to help me, O Lord my salvation.
 huhau — famine (concerning | shemaiah | mortgaged)
@@ -2674,7 +2674,7 @@ hul — hul (arphaxad | abed | aram)
 hum — embosom (pass | thine | mouth | away)
     → Kigin'kholhna hun cing a, Kumpipa Ahasueras' kiangah numeite / 
 humcip — curb (thine | saith | thou | tender)
-    → miliante, sila bangin a khe-un pai uh hi. / 
+    → miliante, sila bangin a khe-un pai-te hi. / 
 humin — lip (ears | unclean | bare)
     → amah in a muk humin, ‘Nin, nin!,’ ci-in kiko ding hi. / 
 humpinelkai — lion (young | there | david)
@@ -2720,7 +2720,7 @@ ibleam — towns (dor | after | against)
 idalah — idalah (kattath | nahalal | shimron)
     → Tua ciangin Kattath, Nahalal, Shimron, Idalah, leh Bethlehem khuate zong huam / 
 iezer — family (jeezer | sons | gilead)
-    → Gilead' suante: Iezer pan Iezer behte ahi uh hi; / These are the sons of Gilead: of Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:
+    → Gilead' suante: Iezer pan Iezer behte ahi-te hi; / These are the sons of Gilead: of Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:
 iftah — jiphtah (ashnah | nezib)
 iftahel — thereof (emek | side | iphtah)
     → tua ciangin leilu lam pan, Hannathon lamah gamgi kihei / 
@@ -2740,10 +2740,10 @@ iim — brother (shalt | glory | iim)
 ikkhiat — whole (even | month | until)
     → om { Topa } nialin / 
 imnah — imnah (asher | family | ishvi)
-    → leh a sanggamnu uh Serah ahi hi. / 
+    → leh a sanggamnu-te Serah ahi hi. / 
 ing — here (behold | thou | name)
     → Pasian in na thugente hong dawngkik leh ut mahmah ing! / But oh that God would speak, and open his lips against thee;
-inkipsakna — ram (fat | liver | two)
+inkipsakna — gam (fat | liver | two)
 inling — thorns (thistles | bring | forth)
     → Leitang inling leh kiakte nang’ adingin hong pokhiasak ding / 
 inn — cottage (house | missing | went | every)
@@ -2767,7 +2767,7 @@ innkuanin — tribes (according | your | tribe)
 innkuankuan — twenty (years | gershon | families)
     → Gershon mite a innkuankuan leh a beh beh-in, / And those that were numbered of the sons of Gershon, throughout their families, and by the house of their fathers,
 innkuanpihte — house (father's | atonement | before)
-    → amah akipan a innkuanpihte Topa’ thu a hilh uh hi. / And they spake unto him the word of the Lord, and to all that were in his house.
+    → amah akipan a innkuanpihte Topa’ thu a hilh-te hi. / And they spake unto him the word of the Lord, and to all that were in his house.
 innkuanpite — household (father's | swallowed | there)
     → Lamkaa buaina hanga site innkuanpite ading. / 
 innkuante — house (israel | sacrifice | joseph)
@@ -2785,7 +2785,7 @@ innsung — chamberlains (house | what | shalt)
 innte — houses (house | saith | storehouses)
     → Tua lai takin Zeisu in Galile gam kikhopna innte ah thu hilhin / 
 insek — creeping (fowls | every | thing)
-    → siangte khempeuh na ne thei ding uh hi. / 
+    → siangte khempeuh na ne thei ding-te hi. / 
 intopa — moses (brought | cause | before)
     → Moses inTopa mai-ah amau’ thu gen hi. / And Moses brought their cause before the
 iob — phuvah (issachar | tola | job)
@@ -2801,7 +2801,7 @@ ipte — joseph (pins | commanded | fill)
 irad — irad (begat | mehujael | enoch)
     → Enok sung panin Irad suak / 
 iram — magdiel (duke | iram | these)
-    → leh Iram ahi uh hi; hihte in Edom ukpite ahi uh hi. / 
+    → leh Iram ahi-te hi; hihte in Edom ukpite ahi-te hi. / 
 iron — iron (beth | migdal | horem)
     → leh Bethshemesh — khuapi sawmlekua / 
 irpe — irpeel (rekem | taralah)
@@ -2814,7 +2814,7 @@ isaakhar — sons (issachar | tola | phuvah)
 isahmael — abraham's (ishmael | mahalath | daughter)
     → Abraham’ tapa Isahmael’ tanu Mahalath zi-in la hi. / 
 isarel — moses (war | israel | three)
-    → Kum thum sung Siria leh Isarel galkido loin om uh hi. / And they continued three years without war between Syria and Israel.
+    → Kum thum sung Siria leh Isarel galkido loin om-te hi. / And they continued three years without war between Syria and Israel.
 ishbak — ishbak (zimran | jokshan | medan)
     → Amah in tuanu tawh ta Zimran / 
 ishmael — ishmael (son | old | ishmaelites)
@@ -2822,9 +2822,9 @@ ishmael — ishmael (son | old | ishmaelites)
 ishmaelte — circumcised (day | abraham | ishmael)
     → Tua ni mahmahin Abraham leh / 
 ishvah — imnah (sons | asher | ishuah)
-    → leh a sanggamnu uh Serah ahi hi. / 
+    → leh a sanggamnu-te Serah ahi hi. / 
 ishvi — ishuah (ishvi | ishui | family)
-    → leh a sanggamnu uh Serah ahi hi. / 
+    → leh a sanggamnu-te Serah ahi hi. / 
 iskah — milcah (father | wife | abram)
 israel — israel (children | thus | speak)
     → David’ tapa, Israel kumpi Solomon’ paunakte: / The proverbs of Solomon the son of David, king of Israel;
@@ -2843,9 +2843,9 @@ itin — therefore (thou | damsel | bless)
 itna — endureth (love | mercy | god)
     → Ute naute ki-itna kip ta hen. / Let brotherly love continue.
 iyeabarim — moab (border | abarim | iye)
-    → Oboth panin dingkhia uh a, Moab gamsung Iyeabarim-ah giahphual sat uh hi. / And they departed from Oboth, and pitched in Iye–abarim, in the border of Moab.
+    → Oboth panin dingkhia-te a, Moab gamsung Iyeabarim-ah giahphual sat-te hi. / And they departed from Oboth, and pitched in Iye–abarim, in the border of Moab.
 iyim — departed (iim | pitched | dibon)
-    → Iyim panin dingkhia uh a, Dibongad-ah giahphual sat uh hi. / And they departed from Iim, and pitched in Dibon–gad.
+    → Iyim panin dingkhia-te a, Dibongad-ah giahphual sat-te hi. / And they departed from Iim, and pitched in Dibon–gad.
 izhar — amram (izharites | izhar | family)
     → Izhar’ suante sung panin Shelomoth’ suante Jahath ahi hi. / Of the Izharites; Shelomoth: of the sons of Shelomoth; Jahath.
 izipt — egypt (land | saith | came)
@@ -2857,7 +2857,7 @@ jabal — bare (such | adah | jabal)
 jabbok — ford (land | children | jabbok)
     → Tua zan mahin amah tho-in a zi nihte / 
 jabin — jabin (river | children | until)
-    → leilakah a luang uh a muatgawp / 
+    → leilakah a luang-te a muatgawp / 
 jabne — mount (nekeb | border | out)
 jafeth — ham (japheth | shem | enlarge)
     → Noah in tapa thum, Shem, Ham, leh Jafeth nei hi. / And Noah begat three sons, Shem, Ham, and Japheth.
@@ -2865,7 +2865,7 @@ jafethte — noah (sons | these | generations)
 jafia — japhia (east | king | nepheg)
     → Ibhar, Elishua, Nefeg, Jafia, / Ibhar also, and Elishua, and Nepheg, and Japhia,
 jaflet — westward (begat | children | japhlet)
-    → leh a sanggamnu uh Shua-te’ pa ahi hi. / 
+    → leh a sanggamnu-te Shua-te’ pa ahi hi. / 
 jagur — jagur (southward | kabzeel | eder)
     → Edom gamgi lamah Judah minamte' neih khuapite: Kabzeel / 
 jahaz — jahzah (came | fight | heard)
@@ -2883,9 +2883,9 @@ jakinth — row (ligure | eleventh | third)
 jakob — jacob (house | saith | god)
     → Bilhah gai-in Jakob tawh tapa khat nei hi. / And Bilhah conceived, and bare Jacob a son.
 jalam — jeush (esau | duke | jaalam)
-    → Esau’ tapate in: Elifaz, Re-u-el, Jeush, Jalam, leh Korah ahi uh hi. / The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
+    → Esau’ tapate in: Elifaz, Re-u-el, Jeush, Jalam, leh Korah ahi-te hi. / The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
 jamin — jemuel (jamin | maaz | nemuel)
-    → Simeon’ tapate in: Nemuel, Jamin, Jarib, Zerah, leh Shawl ahi uh hi; / The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
+    → Simeon’ tapate in: Nemuel, Jamin, Jarib, Zerah, leh Shawl ahi-te hi; / The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
 janim — janum (beth | tappuah | aphekah)
 janoah — janohah (down | abel | went)
     → Janoah panin Ataroth leh Naarah-ah paisuk a, Jerikho banin Jordan-ah tawp hi. / And it went down from Janohah to Ataroth, and to Naarath, and came to Jericho, and went out at Jordan.
@@ -2894,7 +2894,7 @@ jared — jared (begat | mahalaleel | after)
 jarmuth — jarmuth (hebron | king | lachish)
     → Jarmuth kumpi, khat; Lakhish kumpi, khat; / The king of Jarmuth, one; the king of Lachish, one;
 jashub — family (puah | adaiah | jashub)
-    → Issakhar' tapate: Tola, Puah, Jashub, leh Shimron, li pha uh hi. / Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, four.
+    → Issakhar' tapate: Tola, Puah, Jashub, leh Shimron, li pha-te hi. / Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, four.
 jasper — jasper (onyx | covering | like)
     → A gual lina-ah beryl suang, onik suang, leh jasper suang hi ding / 
 jattir — jattir (socoh | suburbs | eshtemoa)
@@ -2925,7 +2925,7 @@ jerusalem — jerusalem (reigned | came | judah)
 jethheth — jetheth (duke | names | timnah)
     → Amau' innkuan leh a ten'na / 
 jethro — midian (name | mount | wife)
-    → a pa uh' tuuhonte tui pia dingin kuangzawn dim uh hi. / 
+    → a pa uh' tuuhonte tui pia dingin kuangzawn dim-te hi. / 
 jetur — tema (jetur | hagarites | naphish)
     → Haddad, Tema, Jetur, Nafith leh Kademah ahi hi. / Hadar, and Tema, Jetur, Naphish, and Kedemah:
 jeush — jeush (bare | esau | wife)
@@ -2937,7 +2937,7 @@ jezre — jezreel (pass | jezebel | both)
 jidlaf — hazo (chesed | pildash | jidlaph)
     → Khesed, Hazo, Pildash, Jidlaf leh Bethuel ahi hi,” kici hi. / And Chesed, and Hazo, and Pildash, and Jidlaph, and Bethuel.
 jobab — jobab (havilah | zerah | king)
-    → Ishmerai, Izliah, leh Jobab in Elpa-al’ suante ahi uh hi. / Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;
+    → Ishmerai, Izliah, leh Jobab in Elpa-al’ suante ahi-te hi. / Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;
 jogbehah — jogbehah (way | jaazer | gideon)
     → galte va bingphawn' hi. Bang hang hiam cih leh / 
 jogli — bukki (children | dan | son)
@@ -2962,7 +2962,7 @@ josef — joseph (house | children | made)
 joshua — joshua (came | son | israel)
     → Tua ciangin Topa in Joshua kiangah, / And the
 jotbathah — pitched (removed | rivers | jotbathah)
-    → Horhaggidgad panin dingkhia uh a, Jotbathah-ah giahphual sat uh hi. / And they went from Hor–haggiggad, and pitched in Jotbathah.
+    → Horhaggidgad panin dingkhia-te a, Jotbathah-ah giahphual sat-te hi. / And they went from Hor–haggiggad, and pitched in Jotbathah.
 jubal — jubal (brother | name | father)
     → A sanggampa' min Jubal hi / 
 jubili — year (jubilee | field | reckon)
@@ -3012,7 +3012,7 @@ kahtoh — mine (should | lifted | ship)
 kahtohna — ascensior (going | side | adummim | over)
     → Amor mite’ gamgi in Akrabbim kahtohna / 
 kai — drag (draw | horses | man | caiaphas)
-    → Amaute in Zeisu a mat khit uh ciangin a kai uh hi. / And they laid their hands on him, and took him.
+    → Amaute in Zeisu a mat khit-te ciangin a kai-te hi. / And they laid their hands on him, and took him.
 kaih — children (because | offering | place)
     → Topa’ deih bang-a gamtatna in, galte nangawn lawm-a kaih zawhna hi. / When a man's ways please the
 kaihkhiat — shoe (priest | rotten | should)
@@ -3022,9 +3022,9 @@ kaihkhop — cattle (thou | feast | day)
 kaihkhopna — compilation (gathered | better | labours | thou)
     → Tuhun dongin amaute in Moses Thukham laibu / 
 kaihkhopsa — brother's (abram | took | sarai)
-    → tua gam a tung uh hi. / 
+    → tua gam a tung-te hi. / 
 kaikhawm — lord (gather | together | saith)
-    → khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol uh hi. / Provideth her meat in the summer, and gathereth her food in the harvest.
+    → khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol-te hi. / Provideth her meat in the summer, and gathereth her food in the harvest.
 kaikhawmin — together (gather | nations | saith)
     → Tua ahih ciangin Laban in tua mun-a mi khempeuh kaikhawmin / 
 kaikhawmpa — lack (gathered | much | nothing)
@@ -3036,7 +3036,7 @@ kaisak — cloud (street | harrow | lord)
 kaisuk — backside (cover | down | side)
     → puan a lang a val pen / 
 kal — claim (flanks | inwards | weeks | require)
-    → Amaute a kisian’suah khit uh nipi kal khat khit ciang bekin, / And after he is cleansed, they shall reckon unto him seven days.
+    → Amaute a kisian’suah khit-te nipi kal khat khit ciang bekin, / And after he is cleansed, they shall reckon unto him seven days.
 kalah — calah (between | discouraged | wilderness)
     → Tua gam panin Assiria gamsungah amah pai a, Nineveh, Rehoboth-Ir, Kalah leh / Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,
 kalaoh — owl (camels | gave | lighted)
@@ -3049,7 +3049,7 @@ kalneh — accad (pass | calneh | babel)
     → amaute' gam pen note' gam sangin lianzaw tuan ahi hiam? / 
 kalohte — draw (drink | camels | made)
 kalte — above (shalt | liver | sin)
-    → sintuamte pia ding uh hi. / 
+    → sintuamte pia ding-te hi. / 
 kalun — burnt (see | come | missing)
     → Ahi zongin zan khat, mite / 
 kam — mouth (missing | opened | saith)
@@ -3102,7 +3102,7 @@ kangte — hairs (shalt | onions | forth)
 kangtum — fire (saith | burned | palaces)
     → Amaute sungah mei hong piangkhia a, meikuang in migilote kangtum hi. / And a fire was kindled in their company; the flame burned up the wicked.
 kansim — sent (spy | spied | men)
-    → Amaute in thu kansim dingin Bethel-ah mi sawl uh hi. / 
+    → Amaute in thu kansim dingin Bethel-ah mi sawl-te hi. / 
 kantan — jordan (through | pass | over)
     → Hoi dangdang ka hih manin suang kulhpite ka kantan zo kei hi. / He hath inclosed my ways with hewn stone, he hath made my paths crooked.
 kantanin — over (jordan | through | walked)
@@ -3118,7 +3118,7 @@ kapin — wept (down | saith | came)
 kapkhia — wept (passed | like | people)
     → Tua ciangin Jakob in Rachel nam a, a gingin kapkhia hi. / And Jacob kissed Rachel, and lifted up his voice, and wept.
 kapsa — grave (luhith | cry | comfort)
-    → A tapate leh a tanute khempeuh in amah hehnem uh / 
+    → A tapate leh a tanute khempeuh in amah hehnem-te / 
 karbankel — row (beryl | sardius | topaz)
     → Pasian' Eden huansungah nang na teng / 
 karka — fetched (went | passed | along)
@@ -3128,7 +3128,7 @@ karmel — carmel (king | abigail | mount)
 karmi — hezron (family | son | tribe)
     → leh Reuben’ tapate: Hanok, Pallu, Hezron leh Karmi ahi hi. / And the sons of Reuben; Hanoch, and Pallu, and Hezron, and Carmi.
 karnaim — ham (horns | smote | rephaims)
-    → Lodebar khua bang lel na lakzawhna uhah na lungdam uh / 
+    → Lodebar khua bang lel na lakzawhna uhah na lungdam-te / 
 kartah — kartah (suburbs | tribe | zebulun)
 kartan — suburbs (refuge | slayer | hammoth)
     → Tua ciangin Levi mi a omlai Merari behte tungah / 
@@ -3139,7 +3139,7 @@ kat — therewith (divide | swallowed | heard)
 kate — chew (cud | hoof | nevertheless)
     → khecin ka lo ahih ciangin note-a' dingin / 
 katna — israel (head | loss | lament)
-    → a khuapi katna khu a muh uh ciangin / 
+    → a khuapi katna khu a muh-te ciangin / 
 kattath — nahalal (kattath | shimron | idalah)
     → Tua ciangin Kattath, Nahalal, Shimron, Idalah, leh Bethlehem khuate zong huam / 
 kattum — burnt (flame | consumed | devoureth)
@@ -3147,7 +3147,7 @@ kattum — burnt (flame | consumed | devoureth)
 kauphe — locust (there | grasshopper | come)
     → mite’ kihtak dingin phitsak thei na hi hiam? / 
 kauphete — locusts (locust | came | hath)
-    → Amah kampau a, kauphete leh tangngolte, simzawh lohin hong pai uh a, / He spake, and the locusts came, and caterpillers, and that without number,
+    → Amah kampau a, kauphete leh tangngolte, simzawh lohin hong pai-te a, / He spake, and the locusts came, and caterpillers, and that without number,
 kawbia — shovel (fleshhooks | ground | vessels | put)
     → kho bawngtalte leh late in kawbia leh tuka tawh / 
 kawbiate — pots (receive | lavers | shovels)
@@ -3169,17 +3169,17 @@ kawm — wall (house | thereof | right)
 kawmah — between (while | flesh | yet)
     → Khuaneute sungah mi a buksimin tu / 
 kawmin — blessed (eating | highway | joy)
-    → Mipilte in thu ngaihsun kawmin kam pau uh / 
+    → Mipilte in thu ngaihsun kawmin kam pau-te / 
 kawng — loin (kidneys | loins | girdle | thicker)
     → a puanza suahin dial tawh a kawng a gak hi. / 
 kawnga — kidneys (two | fat | flanks)
-    → sintuamte pia ding uh hi. / 
+    → sintuamte pia ding-te hi. / 
 kawnggak — girdle (loins | missing | make)
-    → Kham, ngun, sumngote, na kawnggak sung uh ah na vom kei un. / [Missing]
+    → Kham, ngun, sumngote, na kawnggak sung-te ah na vom kei un. / [Missing]
 kawnggakte — shalt (thou | girded | selleth)
     → Amah in puan khui-in, kawnggakte zong bawl / 
 kawtsak — drench (went | showers | night | elealeh)
-    → miliante, sila bangin a khe-un pai uh hi. / 
+    → miliante, sila bangin a khe-un pai-te hi. / 
 kedar — adbeel (tents | glory | residue)
     → Note lakah ka omkhak pen Meshek gamsungah ten'khak sangin haksazaw / 
 kedemoth — kedemoth (wilderness | suburbs | mephaath)
@@ -3216,13 +3216,13 @@ keelte — rams (wheat | steps | drink)
 keelvunte — skins (covering | red | badgers)
     → a kisansak tuutal vunte, keelvunte, singkha sing, / And rams' skins dyed red, and badgers' skins, and shittim wood,
 kehelathah — pitched (went | kehelathah | rissah)
-    → Rissah panin dingkhia uh a, Kehelathah-ah giahphual sat uh hi. / And they journeyed from Rissah, and pitched in Kehelathah.
+    → Rissah panin dingkhia-te a, Kehelathah-ah giahphual sat-te hi. / And they journeyed from Rissah, and pitched in Kehelathah.
 kei — not (no | negative particle | none)
     → Dawimangpa hun na pia kei un. / Neither give place to the devil.
 keilah — enquired (told | men | keilah)
     → Keilah, Akzib, leh Mareshah: khuapi kua, a khua neute tawh ahi hi. / And Keilah, and Achzib, and Mareshah; nine cities with their villages:
 keimah — me (missing | thus | saith | lord)
-    → keimah hangin Pasian’ min a phat uh hi. / And they glorified God in me.
+    → keimah hangin Pasian’ min a phat-te hi. / And they glorified God in me.
 keimahmah — myself (hid | hand | punish)
     → Keimahmah in na nik kong hawksak ding / 
 keimatungah — abram (sarai | wrong | given)
@@ -3265,7 +3265,7 @@ kerioth — hadattah (kerioth | devour | moab)
 keturah — these (abraham | keturah | sons)
     → Abraham in Keturah min nei zi dang khat la hi. / Then again Abraham took a wife, and her name was Keturah.
 keu — arid (dry | dried | waters | green)
-    → zingsangin palhin thaksuak kik a, nitak ciangin vulin keu uh hi. / In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
+    → zingsangin palhin thaksuak kik a, nitak ciangin vulin keu-te hi. / In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
 keugawgam — way (terrible | wilderness | saw)
     → Singkung omloh na Keugawgam ah guah zong a zukei pah hi. / 
 keusak — dehydrate (besieged | blasted | herbs | rivers)
@@ -3279,11 +3279,11 @@ khadet — new (egypt | burnt | house)
 khah — thou (forth | feed | therefore)
     → Amah in ni sagih sung ngakin, teembaw panin vakhu khah leuleu hi; / And he stayed yet other seven days; and again he sent forth the dove out of the ark;
 khahin — among (righteous | loosed | wrath)
-    → na ganhingte uh susia-in, note mi tawmno khat hong suah ding / 
+    → na ganhingte-te susia-in, note mi tawmno khat hong suah ding / 
 khahkhia — consign (lord | because | brother | blessed)
-    → Tua ciangin galkapte in gunkuang khau sat tat uh / 
+    → Tua ciangin galkapte in gunkuang khau sat tat-te / 
 khahkhiatna — abdication (rejoiced | rebuke | bring | there)
-    → Amah mihoih mi siangtho hinapi-in, amah na nial zawsop uh / 
+    → Amah mihoih mi siangtho hinapi-in, amah na nial zawsop-te / 
 khahkhong — shalt (profit | things | deceitful)
     → Tawi khaina man lo leh tawisuang man lo a zangte / 
 khai — suspend (veil | court | hanged | jesus)
@@ -3309,7 +3309,7 @@ khakcip — days (closed | stop | felled)
 khakna — blockade (daughters | too | against | thou)
     → leh puante en' dingin ka ngaihsun ngei kei hi. / 
 khaknelh — commanded (god | reason | hid)
-    → nin a khaknelh vuk leh tuikhal bangin na zuautat uh hi. / Which are blackish by reason of the ice, and wherein the snow is hid:
+    → nin a khaknelh vuk leh tuikhal bangin na zuautat-te hi. / Which are blackish by reason of the ice, and wherein the snow is hid:
 khaktan — intercept (way | abram | bury | honour)
     → Topa in minamte’ thu ngaihsutna a mawkna suah / 
 khakte — seed (after | house | saith)
@@ -3331,7 +3331,7 @@ khamsak — night (father | make | under)
 khamte — gold (silver | land | offering)
     → na kham neihte leivui bang lelin ngaihsunin / 
 khamul — head (shalt | off | beard)
-    → Note in na baa samte uh metloin na khamul mongte / 
+    → Note in na baa samte-te metloin na khamul mongte / 
 khan — missing (days | save | hath)
     → Tua khit ciangin khan’ khinin teek sih ta hi. / So Job died, being old and full of days.
 khang — accrue (chronicles | missing | generation | book)
@@ -3360,7 +3360,7 @@ khangto — develop (grew | rose | man | floods)
     → Ahih hangin Pasian’ thu in khangto a, a kizel semsem hi. / But the word of God grew and multiplied.
 khangun — morning (aaron | order | evening)
 khano — moonlet (holy | see | things | covered)
-    → tum leh si ding uh hi,” a ci hi. / 
+    → tum leh si ding-te hi,” a ci hi. / 
 khap — height (breadth | cubit | being)
     → Amah mizawng ahih leh ama hong khap puan na zantaamsak / 
 khapna — till (pledge | kid | thou)
@@ -3382,7 +3382,7 @@ khate — wings (children | mercy | familiar)
 khatin — make (land | day | great)
     → Nipi ni khatin Zeisu in kikhopna inn sungah thu a hilh hi. / And he was teaching in one of the synagogues on the sabbath.
 khatna — first (year | month | heshbon)
-    → a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi uh hi. / Jeremiah the tenth, Machbanai the eleventh.
+    → a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi-te hi. / Jeremiah the tenth, Machbanai the eleventh.
 khatpa — hand (slew | name | help)
     → Na nasemnu in tapa nih nei / 
 khatpeuh — any (missing | man | eat)
@@ -3405,7 +3405,7 @@ khauhsakin — pharaoh's (pharaoh | harden | heart)
     → lungsim khauhsakin, amah paupengsak hi. / 
 khauhual — rope (ropes | staff | these | window)
     → “Ngasa siahna sikkawi tawh Awle manzo ding / 
-khaumang — behind (abraham | ram | lifted)
+khaumang — behind (abraham | gam | lifted)
     → Tua ciangin Abraham khuadak kawikawi / 
 khausan — took (scarlet | hand | out)
     → Tua khit ciangin a khut tunga khausan tawh a sanggampa hong suakkhia / 
@@ -3414,9 +3414,9 @@ khaute — blue (purple | scarlet | fine)
 khawh — missing (wait | food | tillest)
     → Amah in muhdahna tawh sunin, ahih kei leh bukin a khawh / 
 khawi — life (sacrifice | man | suffer)
-    → “Numei aisannu na hing khawi kei ding uh hi. / Thou shalt not suffer a witch to live.
+    → “Numei aisannu na hing khawi kei ding-te hi. / Thou shalt not suffer a witch to live.
 khawkte — borders (cattle | sheep | cities)
-    → Bethnimrah, Bethharan-te satin tuute adingin tuu-khawkte bawl uh hi. / And Beth–nimrah, and Beth–haran, fenced cities: and folds for sheep.
+    → Bethnimrah, Bethharan-te satin tuute adingin tuu-khawkte bawl-te hi. / And Beth–nimrah, and Beth–haran, fenced cities: and folds for sheep.
 khawl — rest (day | lord | ceased | stood)
     → Tawmkhat ihmutna, tawmkhat lusukna, tawmkhat sung na seplohna, khutzepin ommawkna hangin / Yet a little sleep, a little slumber, a little folding of the hands to sleep:
 khawlin — wickedness (rose | hasted | building)
@@ -3445,7 +3445,7 @@ khecin — toe-nail (cud | hoof | though | carcases)
 khedap — shoe (latchet | bind | missing)
     → Khedap bulh un la, puanak na silh thuah kei un. / But be shod with sandals; and not put on two coats.
 khedapte — your (old | captain | feet)
-    → na khe panun zong na khedapte uh sia nailo hi. / 
+    → na khe panun zong na khedapte-te sia nailo hi. / 
 khedorla — king (served | chedorlaomer | sodom)
     → Goi-im kumpipa Tidalte’ hun lai-in, / 
 kheek — mutate (garments | beast | thou | spindle)
@@ -3465,7 +3465,7 @@ khehsa — rods (flocks | set | pilled)
 khek — raiment (change | washed | about)
     → “Note lakah a om gamdang pasian-te koihkhia un la / 
 khekna — cattle (asses | both | bread)
-    → Josef in dawngin, “Na ganhingte uh hong pia un. Na / 
+    → Josef in dawngin, “Na ganhingte-te hong pia un. Na / 
 khel — thou (changed | thigh | beguiled)
     → ka muk pan-a paikhia thute ka khel kei ding hi. / 
 khelbai — lame (man | hath | blemish)
@@ -3494,7 +3494,7 @@ khempeuh'tung — every (earth | beast | fowl)
 khempeuhah — throughout (there | egypt | ground)
     → Topa, kote’ Topa aw, leitung khempeuhah na min bangzahin lian! / O
 khempeuhin — israel (kings | nor | days)
-    → Israel mihon khempeuhin hih ding uh hi. / All the congregation of Israel shall keep it.
+    → Israel mihon khempeuhin hih ding-te hi. / All the congregation of Israel shall keep it.
 khempeuhleh — amalekites (kadesh | smote | country)
 khempeuhte — people (missing | every | saith)
     → Mipawl khempeuhte mai-ah na bawl gupna, / Which thou hast prepared before the face of all people;
@@ -3574,7 +3574,7 @@ khetul — bruise (esau's | rider | last)
 khezib — chezib (bare | called | name)
     → Tuanu in tapa khat nei leuleu-in / 
 khia — translate (pitched | saith | went | forth)
-    → Tuuno bangin a naupangte uh tai khia-in kimawl uh a, / They send forth their little ones like a flock, and their children dance.
+    → Tuuno bangin a naupangte-te tai khia-in kimawl-te a, / They send forth their little ones like a flock, and their children dance.
 khial — amiss (man | against | saying | sinned)
     → A um khial kimkhat na hehpih un. / And of some have compassion, making a difference:
 khialh — thus (missing | sin | hast)
@@ -3593,13 +3593,13 @@ khialnu — adulteress (committeth | adultery | wife)
 khialpa — priest (wife | trespass | spake)
     → “Pasal khatpeuh a vengpa' zi tawh a mawh leh / 
 khialsak — falsify (sin | err | saith | land)
-    → Note hong khialsak mite in amaute mah kiget ta uh / 
+    → Note hong khialsak mite in amaute mah kiget ta-te / 
 khialte — before (wrongfully | whoring | without)
     → Tua laitakin Sodom mite migilo hi / 
 khiam — diminish (keep | nor | still)
     → Ahih hangin amah ka itna ka khiam kei ding / 
 khiasak — men (among | depart | went)
-    → “Na liangko uh-a om na vangikte uh ka hong lakkhiatsak / 
+    → “Na liangko uh-a om na vangikte-te ka hong lakkhiatsak / 
 khiat — chief (israel | day | away)
     → ahih hangin Josef khiat mah bangin an huanpipa khailum hi. / But he hanged the chief baker: as Joseph had interpreted to them.
 khiatna — interpretation (saith | thou | words)
@@ -3609,7 +3609,7 @@ khiatnate — belong (interpreter | joseph | interpretations)
 khiatpih — brought (kings | sore | should)
     → Tua ahih manin tuukong cingpa in a kong hon' / 
 khiatsa — jordan (thus | persians | king)
-    → amaute ka sap hangin hong dawngkiklo uh hi / 
+    → amaute ka sap hangin hong dawngkiklo-te hi / 
 khiatsak — hath (each | why | righteous)
     → A leiba lohsak zo kei lecin / 
 khiatsuk — earth (dew | done | anchors)
@@ -3617,7 +3617,7 @@ khiatsuk — earth (dew | done | anchors)
 khih — thread (therewith | bonnets | ribband)
     → om kual nihte pen kham khau nihte tawh / 
 khihin — choice (vine | foal | ass)
-    → Sikkhau tawh khihin paipih uh / 
+    → Sikkhau tawh khihin paipih-te / 
 khikcip — over (till | people | pass)
     → Amaute' lungsim in thu thei theiloin khikcip / 
 khim — girdle (break | over | linen)
@@ -3627,7 +3627,7 @@ khimsakin — mitre (linen | clothed | head)
 khin — saith (lord | thou | against)
     → Milimte mangthang khin ding hi. / And the idols he shall utterly abolish.
 khing — until (presence | thou | country)
-    → Zingsang dong a khing na omsak kei ding uh / 
+    → Zingsang dong a khing na omsak kei ding-te / 
 khinin — there (plain | came | washed)
     → Tua khit ciangin khan’ khinin teek sih ta hi. / So Job died, being old and full of days.
 khinnereth — side (thereof | kingdom | chinnereth)
@@ -3654,7 +3654,7 @@ khitsate — ended (seventh | day | work)
 kho — ever (thanks | man | land)
     → Na lu khuhna puan sung panin, na kho hong san lihleh hi. / As a piece of a pomegranate are thy temples within thy locks.
 khol — advanced (missing | god | days | against)
-    → khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol uh hi. / Provideth her meat in the summer, and gathereth her food in the harvest.
+    → khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol-te hi. / Provideth her meat in the summer, and gathereth her food in the harvest.
 kholh — sword (your | brought | portions)
     → Pasian in a theih kholh ama mite a paaikhia kei hi. / God hath not cast away his people which he foreknew. Wot ye not what the scripture saith of Elias? how he maketh intercession to God against Israel, saying,
 kholin — food (solemnly | through | prepared)
@@ -3664,7 +3664,7 @@ kholnapi — desolation (ever | even | day)
 khong — useth (shalt | off | long)
     → { Topa } aw, bang hangin gamla din' na hi / 
 khop — kidneys (gathered | israel | brawling)
-    → ‘Hih mual kiimah sauvei khop na pai khin ta uh / 
+    → ‘Hih mual kiimah sauvei khop na pai khin ta-te / 
 khopa — ground (plenty | plowman | doth)
     → khopa in anlak hun ciangin / 
 khopna — marriage (gilead | left | thou)
@@ -3683,13 +3683,13 @@ khuadum — selvedge (made | curtain | coupling)
 khuai — bee (destroyed | honey | sit | bees)
     → Tua ciangin tua mualtung gamah a teng Amor mite hong kuanin / 
 khuaizu — honey (land | carcase | good)
-    → Mi khempeuh tulak tung uh hi; lei lakah khuaizu om hi. / And all they of the land came to a wood; and there was honey upon the ground.
+    → Mi khempeuh tulak tung-te hi; lei lakah khuaizu om hi. / And all they of the land came to a wood; and there was honey upon the ground.
 khuakhal — summer (ehud | saddled | fruit)
-    → khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol uh hi. / Provideth her meat in the summer, and gathereth her food in the harvest.
+    → khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol-te hi. / Provideth her meat in the summer, and gathereth her food in the harvest.
 khual — land (stranger | cause | sojourner)
     → thukham liansakin vanglian sak nuam hi. / 
 khualmi — stranger (among | sojourn | israel)
-    → Amaute tawm mahmah-in, bangmah gentham lo uh a, khualmi hi-in, / When they were but a few men in number; yea, very few, and strangers in it.
+    → Amaute tawm mahmah-in, bangmah gentham lo-te a, khualmi hi-in, / When they were but a few men in number; yea, very few, and strangers in it.
 khualmipa — stock (stranger | sojourner | wax)
     → Theihlohna hangin na khat peuhpeuh a hih kha / 
 khualpa — every (your | between | brethren)
@@ -3697,7 +3697,7 @@ khualpa — every (your | between | brethren)
 khualte — sojourn (among | strangers | eateth)
     → Mi genthei a khualte thupha ngah ahi hi. { Topa / 
 khualzin — peregrinate (journeyed | cloud | your | there)
-    → Moses tung tawnin Topa’ thupiakna tawh khualzin cilna kipan uh hi. / And they first took their journey according to the commandment of the
+    → Moses tung tawnin Topa’ thupiakna tawh khualzin cilna kipan-te hi. / And they first took their journey according to the commandment of the
 khualzinin — first (journeyed | body | find)
     → a masa-a biakna tau khat / 
 khualzinna — journey (before | wondering | came | way)
@@ -3713,14 +3713,14 @@ khuamialna — spirit (silent | chased | there)
 khuamin — luz (pillar | called | name)
     → Tua ahih ciangin Jakob in suang khat la-in khuamin phut hi. / And Jacob took a stone, and set it up for a pillar.
 khuamite — thus (ekron | compassed | hand)
-    → Gebim khua-a teeng mite suakta dingin tai uh hi. / 
+    → Gebim khua-a teeng mite suakta dingin tai-te hi. / 
 khuamlu — overlaying (chapiters | pillars | silver)
 khuampeek — sockets (tabernacle | tenons | under)
     → Nitumna lam biakbuk nunglam adingin amah in khuampeek guk bawl hi. / And for the sides of the tabernacle westward he made six boards.
 khuampeekte — tabernacle (boards | shalt | sides)
     → Amah in singkha sing zawl, biakbuk pang khat-a khuampeekte’ adingin nga, / And he made bars of shittim wood; five for the boards of the one side of the tabernacle,
 khuampi — pillars (brass | cubits | side)
-    → Baal inn sunga a om khuampi paikhiatpihin hal uh hi. / And they brought forth the images out of the house of Baal, and burned them.
+    → Baal inn sunga a om khuampi paikhiatpihin hal-te hi. / And they brought forth the images out of the house of Baal, and burned them.
 khuampite — pillars (sockets | images | cubits)
     → Amah in leitung lokgawp a, a khuampite kiliing hi. / Which shaketh the earth out of her place, and the pillars thereof tremble.
 khuamte — pillars (pillar | twenty | cubits)
@@ -3744,7 +3744,7 @@ khuapih — men (thou | city | gate)
 khuapite — cities (judah | saith | land)
     → Karmel, Jerahmeel khuapite, Ken khuapite, / And to them which were in Rachal, and to them which were in the cities of the Jerahmeelites, and to them which were in the cities of the Kenites,
 khuate — came (tel | forsake | poor)
-    → Lod, Ono, leh Geharashim khuate-ah Benjamin mite teeng uh hi. / Lod, and Ono, the valley of craftsmen.
+    → Lod, Ono, leh Geharashim khuate-ah Benjamin mite teeng-te hi. / Lod, and Ono, the valley of craftsmen.
 khuatsa — digged (father | bury | made)
     → Ka pa in kei hong kiciamsak / 
 khuavak — twilight (light | missing | darkness | day)
@@ -3760,7 +3760,7 @@ khuh — stiff (face | missing | nakedness | hang)
 khuhcip — enshroud (hath | land | death | man)
     → i tungah zawn’na hong tung a, cihmawhna in hong khuhcip hi. / So shall thy poverty come as one that travelleth; and thy want as an armed man.
 khuhin — blue (man | gather | shadowing)
-    → Tua ciangin amaute in savun tawh tuam ding uh / 
+    → Tua ciangin amaute in savun tawh tuam ding-te / 
 khuhkik — speak (face | moses | veil)
     → Amah in tuanu kiangah, “Hong thum ing, dawn ding tui / 
 khuhna — covering (badgers' | red | hanging)
@@ -3772,26 +3772,26 @@ khuituah — made (shalt | another | themselves)
 khuituahin — curtains (other | themselves | five)
     → Amaute in puan dal ngate khatlekhat khuituahin / 
 khuk — knee (knees | den | saith | draw)
-    → Mi khempeuh’ khut zaw dakdakin, a khuk uh liing kelkel ding hi. / All hands shall be feeble, and all knees shall be weak as water.
+    → Mi khempeuh’ khut zaw dakdakin, a khuk-te liing kelkel ding hi. / All hands shall be feeble, and all knees shall be weak as water.
 khukkhia — watered (well's | stone | well)
     → Tua lai munah tuuhonte khempeuh a kikaihkhop khit ciangin / 
 khuksate — spun (hearted | did | spin)
 khukte — feeble (fell | face | through)
     → A zaw khutte khauhsak un la, a no khukte kipsak un. / Strengthen ye the weak hands, and confirm the feeble knees.
 khul — fire (missing | burning | lay)
-    → khul ding uh hi. Kahna leh ha gawina / 
+    → khul ding-te hi. Kahna leh ha gawina / 
 khum — incorporate (sweet | missing | ark | saith)
     → singkuang puak nadingin singkuang pang-a kualte' sungah zawlte khum hi. / And he put the staves into the rings by the sides of the ark, to bear the ark.
 khumcip — days (hath | unclean | shut)
-    → kigen mateng amaute in tua mipa khumcip uh hi. / 
+    → kigen mateng amaute in tua mipa khumcip-te hi. / 
 khumin — thereof (made | prisons | man)
     → a zawlte khumin, a khuampite a phut hi. / 
 khung — fall (saith | word | gate)
     → Tua ciangin Solomon in kham citak tawh innsung zut / 
 khup — closed (madness | wings | words)
-    → sawm ding zahin hici hai lawmlawm na hi uh hiam? / 
+    → sawm ding zahin hici hai lawmlawm na hi-te hiam? / 
 khusak — put (crown | head | heads)
-    → Zeisu puansan khat silhsak uh / 
+    → Zeisu puansan khat silhsak-te / 
 khut — fore-arm (hand | hands | saith | missing)
     → khut hoih lo, khe hoih lo, / Or a man that is brokenfooted, or brokenhanded,
 khutah — brought (separation | mocked | took)
@@ -3803,13 +3803,13 @@ khutme — finger (blood | missing | bullock)
 khutpi — thumb (hand | sons | right | ear)
     → Moses in tuutal go a / 
 khutpite — thumbs (off | threescore | right)
-    → Adonibezek tai hi. Ahih hangin amaute in delhin man uh / 
+    → Adonibezek tai hi. Ahih hangin amaute in delhin man-te / 
 khutsiampa — man (carpenter | son | mary)
     → laikung tawh a kualin a ciamteh hi. Amah in / 
 khutte — hands (discerned | seen | strong)
     → A zaw khutte khauhsak un la, a no khukte kipsak un. / Strengthen ye the weak hands, and confirm the feeble knees.
 khuttum — dukes (stone | time | hand | zion)
-    → Tuni mahmahin Nob khua-ah galte tungin khawl uh / 
+    → Tuni mahmahin Nob khua-ah galte tungin khawl-te / 
 kia — missing (fell | dew | fall)
     → Kimkhatte lei tam lohna suang lakah kia a, / [Missing]
 kiakte — thistles (thorns | bring | forth)
@@ -3869,13 +3869,13 @@ kibawlte — grave (carvings | cubits | keepers)
 kibeh — brethren (fear | being | between)
     → Laisim mimal kibeh lap ngei lo / 
 kibiakna — offering (sacrifices | pass | place)
-    → Amaute in mei tawh na biakinn hal uh / 
+    → Amaute in mei tawh na biakinn hal-te / 
 kibrothhattaavah — pitched (departed | massah | kibroth)
-    → Kibrothhattaavah panin amaute ding khia uh / 
+    → Kibrothhattaavah panin amaute ding khia-te / 
 kibrothhattavah — place (people | kibroth | hattaavah)
-    → Kibrothhattavah panin Hazeroth munah mite zin uh hi; Hazeroth ah / 
+    → Kibrothhattavah panin Hazeroth munah mite zin-te hi; Hazeroth ah / 
 kibuak — himself (hath | earth | went)
-    → puanhampi silhin a lu tung uhah lei kibuak uh hi. / 
+    → puanhampi silhin a lu tung uhah lei kibuak-te hi. / 
 kibuakhia — blood (sign | word | altar)
     → Tui buakkhiat bangin kei hong kibuakhia / 
 kibuakna — ashes (roofs | valley | poured)
@@ -3901,15 +3901,15 @@ kiciamna — oath (saying | father | king)
 kiciamnasa — hath (about | sworn | falsely)
     → Kumpipa dah mahmah hi. Ahi zongin / 
 kiciamsa — observe (love | went | thou)
-    → A gilkialna uh a vahsak dingin vantung panin an na pia / 
+    → A gilkialna-te a vahsak dingin vantung panin an na pia / 
 kiciamsak — swear (oath | isaac | saying)
     → nang hong kiciamsak bangin na pa va vui in,” a ci hi. / 
 kiciamteh — characterize (righteousness | winepress | genealogy | written)
     → Tua ahih ciangin upna in ama tangding dikna-in a kiciamteh hi. / And therefore it was imputed to him for righteousness.
 kiciamtehte — spirit (name | camp | one)
-    → Giahphualah mi nih om uh / 
+    → Giahphualah mi nih om-te / 
 kiciangtan — restrict (assigned | thou | continuance | priests)
-    → hihding zia uh ka gen bangin note in zong na hih un. / 
+    → hihding zia-te ka gen bangin note in zong na hih un. / 
 kiciangto — gathered (blast | nostrils | waters)
     → Na nak ging tawh tuite kiciangto-in, tuite a lomin dingto / 
 kicih — ashes (jireh | before | ward)
@@ -3940,7 +3940,7 @@ kidawksak — rods (white | strakes | made)
 kidawm — careful (good | forget | whosoever | midst)
     → An ngaklah thei mi na hih leh zong lim takin kidawm in. / And put a knife to thy throat, if thou be a man given to appetite.
 kideng — stoned (naboth | man | owner)
-    → amah sita hi,” a ci uh hi. / 
+    → amah sita hi,” a ci-te hi. / 
 kidenglum — put (spirit | wizard | surely)
     → a sa kinelo ding hi. Ahih hangin bawngtal neipa siang ding hi. / 
 kidiah — work (put | brim | saying)
@@ -3952,7 +3952,7 @@ kidimsak — work (piece | judah | bitterness)
 kidin — tabernacle (day | reared | cloud)
     → Eite school pen 1951 kumin a hong kidin hi. / 
 kidingsak — came (set | did | tabernacle)
-    → Tua ciangin a siangtho nate pua-in Kohath mite dingkhia uh / 
+    → Tua ciangin a siangtho nate pua-in Kohath mite dingkhia-te / 
 kido — combative (fought | against | battle | brought)
     → Phun loin khat leh khat zin na kido un. / Use hospitality one to another without grudging.
 kidona — fight (hast | battle | philistines | jeroboam)
@@ -3968,7 +3968,7 @@ kigak — tight (filleted | silver | sword | pillars)
 kigakin — girded (linen | holy | flesh)
     → tua ciangin tua puante silh ding hi. / 
 kigal — helve (while | against | neighbour)
-    → sanggamte uh Bakbukiah leh Unno in amaute tawh kigal sai-in omin / 
+    → sanggamte-te Bakbukiah leh Unno in amaute tawh kigal sai-in omin / 
 kigalsai — corners (side | heshbon | arose)
     → { Topa } in Moses a thupiaksa bangin / 
 kigam — lay (woman | follow | surely)
@@ -3976,7 +3976,7 @@ kigam — lay (woman | follow | surely)
 kigamta — done (gored | according | judgment)
     → Na ukna hun hong tung hen la / 
 kigamtatna — abomination (true | thing | certain)
-    → no kiangah hong kigenin tua thu na zak uh leh / 
+    → no kiangah hong kigenin tua thu na zak-te leh / 
 kigan — twined (scarlet | fine | breastplate)
     → Samul leh khau, a kigan khawm puan na silh kei ding hi. / Thou shalt not wear a garment of divers sorts, as of woollen and linen together.
 kigawivui — offering (part | thereof | grain)
@@ -3996,13 +3996,13 @@ kigelh — kings (israel | written | judah)
 kigelhin — written (according | jews | sealed)
     → Israel tapate a phazah tawh kizui-in, onik suangte kitat / 
 kigelhte — writing (mouth | therein | god)
-    → thu kigelhte hangin amaute thanuamin lungdam mahmah uh hi. / 
+    → thu kigelhte hangin amaute thanuamin lungdam mahmah-te hi. / 
 kigen — told (fled | behold | another)
     → Pasian’ khuapi aw, nangma minthan’na teng hong kigen hi. / Glorious things are spoken of thee, O city of God. Selah.
 kigenin — thou (told | hast | heard)
-    → no kiangah hong kigenin tua thu na zak uh leh / 
+    → no kiangah hong kigenin tua thu na zak-te leh / 
 kigenna — dream (bashan | telling | himself)
-    → kigenna thu na zaksa uh ahi hi. / 
+    → kigenna thu na zaksa-te ahi hi. / 
 kiging — ready (any | brought | people | king)
     → Nong dawn’ theih leh hong dawng in. Nong sel nading kiging in. / If thou canst answer me, set thy words in order before me, stand up.
 kigingsa — city (heart | chosen | meekness)
@@ -4014,13 +4014,13 @@ kigu — day (land | restitution | silver)
 kiguaihna — bring (thou | shalt | hire)
     → A paktatnu a kiguaihna sum ahi / 
 kiguan — war (present | pertained | given)
-    → leh zingsang simin kong a hon' ding uh nasep kiguan hi. / 
+    → leh zingsang simin kong a hon' ding-te nasep kiguan hi. / 
 kiguk — house (man | stuff | keep)
     → “Mi khat in a vengte kiangah sum ahi / 
 kih — execrate (abhor | abomination | fowls | abhorred)
     → Zuaunate zadahin ka kih a, ahih hangin nangma thu ka deih hi. / I hate and abhor lying: but thy law do I love.
 kihah — gather (none | according | reap)
-    → neksakna ding uh kumpipa in / 
+    → neksakna ding-te kumpipa in / 
 kihal — offering (burnt | fire | sweet)
     → A sawt kihal loin Eurakuilo kici huihpi in lei lam / 
 kihallum — among (wickedness | both | there)
@@ -4052,7 +4052,7 @@ kihehtawm — sold (grieved | nor | angry)
 kihei — swerve (turned | turn | return | went)
     → I gamtatna sate ki-en pha kikin Topa lamah kihei kik ni. / Let us search and try our ways, and turn again to the
 kiheikhia — quickly (against | turn | beth)
-    → pate uh mah bangin kiheikhia-in / 
+    → pate-te mah bangin kiheikhia-in / 
 kiheina — deflection (before | kings | cause | god)
     → Judah mite in amau' tungah tun'sak dingin ka ngaihsut siatna khempeuh za-in / 
 kihel — indulge (congregation | tempered | fourth | oil)
@@ -4066,13 +4066,13 @@ kihemkhia — dislodge (departed | service | people | amalekites)
 kihente — saw (money | sack | both)
     → Amau' vante a suah ciangun / 
 kihhuai — nasty (abomination | unclean | soul | man)
-    → “A kihhuai na khatpeuh peuh na ne kei ding uh hi. / Thou shalt not eat any abominable thing.
+    → “A kihhuai na khatpeuh peuh na ne kei ding-te hi. / Thou shalt not eat any abominable thing.
 kihhuaina — profanity (missing | committed | after | lewdness)
     → amau' sihna amau mah ngawh ding ahi hi. / 
 kihhuainate — done (these | priest | abominations)
-    → na tai kawikawi kei uh a, / 
+    → na tai kawikawi kei-te a, / 
 kihhuaite — ossifrage (land | sight | canaanites)
-    → “Vasate lak panin note in na kih ding uh / 
+    → “Vasate lak panin note in na kih ding-te / 
 kihih — king (hath | man | abraham)
     → Mikhem theite aw, note' tungah bang hong kipia ding / 
 kihihsak — thus (answered | array | name)
@@ -4102,7 +4102,7 @@ kihtak — turn (afraid | behold | terror)
 kihtakhuai — fierce (great | sank | work)
     → A heh ciangin kihtakhuai mahmah / 
 kihtakna — awe (dread | because | before | fled)
-    → Siatna bekbek tawh kidimin, kihtakna leh launa tawh ka nungta uh hi. / Fear and a snare is come upon us, desolation and destruction.
+    → Siatna bekbek tawh kidimin, kihtakna leh launa tawh ka nungta-te hi. / Fear and a snare is come upon us, desolation and destruction.
 kihual — thou (ends | wreathen | knit)
     → Itna kip leh thutakna kigawm ding / 
 kihuan — baken (brasen | city | skirt)
@@ -4112,17 +4112,17 @@ kihuanna — vessel (sodden | earthen | wherein)
 kihuansa — take (one | unleavened | priest)
     → Damaskas khuapi in zong na vante tampi tak hong lei / 
 kihuh — rise (abroad | driven | divination)
-    → Tua ahih manin tu laitakin na omzia uh mah bangin / 
+    → Tua ahih manin tu laitakin na omzia-te mah bangin / 
 kihuhna — art (name | happy | thou)
     → bawl Topa’ tung panin eite hong kihuhna hong pai hi. / 
 kihut — fenced (built | together | cities)
     → kihut nadingin Judah gam sungah khuapite lam hi. / 
 kiim — about (round | land | cities)
-    → Ama zomah Jerusalem kiim nai-a om siampite in puah uh hi. / And after him repaired the priests, the men of the plain.
+    → Ama zomah Jerusalem kiim nai-a om siampite in puah-te hi. / And after him repaired the priests, the men of the plain.
 kiima — thereof (souls | therein | took)
     → Jakob leh a tapate khualzinin a pai laitakun amau' kiima / 
 kiimah — about (mountain | back | night)
-    → ‘Hih mual kiimah sauvei khop na pai khin ta uh / 
+    → ‘Hih mual kiimah sauvei khop na pai khin ta-te / 
 kiin — thence (peace | removed | depart)
     → na kiin phei dih ve keizong a maigual ah tunuam ing!” 2. / 
 kik — again (back | return | once more)
@@ -4135,9 +4135,9 @@ kikaihkhop — rolled (people | dammim | banner)
 kikaihkhopna — thou (goldsmith's | after | repaired)
     → kikaihkhopna dingun nang hong zahtakte-a' dingin dial khat na koih khin hi. / 
 kikaikhawm — gathering (together | gathered | flocks)
-    → Ahi zongin, en un, kumpite kikaikhawm in, hong paikhawm uh hi. / For, lo, the kings were assembled, they passed by together.
+    → Ahi zongin, en un, kumpite kikaikhawm in, hong paikhawm-te hi. / For, lo, the kings were assembled, they passed by together.
 kikaikhawmin — themselves (near | about | together)
-    → Ahi zongin, kumpite kikaikhawmin, a sim dingin hong kuankhawm uh hi. / For, lo, the kings were assembled, they passed by together.
+    → Ahi zongin, kumpite kikaikhawmin, a sim dingin hong kuankhawm-te hi. / For, lo, the kings were assembled, they passed by together.
 kikak — diverge (together | coupled | beneath | head)
     → Mihing sawmthumte sung pan amah a minthang pen hi / 
 kikal — betwixt (between | god | missing | living)
@@ -4157,7 +4157,7 @@ kikem — iniquity (missing | therein | matter)
 kikemsak — gotten (thing | hath | violently)
     → khialin a mawh ciangin amah in a suhte hita leh / 
 kikep — name (forbear | kept | saith)
-    → Ahih hangin thuciamna bawl ding pan na kikep uh leh / 
+    → Ahih hangin thuciamna bawl ding pan na kikep-te leh / 
 kikhah — loose (hasteneth | grow | tongue)
     → Naftali in a kikhah sakhipi hi a, sakhino suakkhiasak hi. / Naphtali is a hind let loose: he giveth goodly words.
 kikhahkhia — children (delivered | men | because)
@@ -4179,13 +4179,13 @@ kikham — bet (hand | father | years | anger)
 kikhat — daughter (expert | king | after)
     → amah ka ten'pih ahi hi. / 
 kikhatin — came (accord | people | joshua)
-    → Joshua leh Israel a do dingin lungsim kikhatin kikhawm uh hi. / That they gathered themselves together, to fight with Joshua and with Israel, with one accord.
+    → Joshua leh Israel a do dingin lungsim kikhatin kikhawm-te hi. / That they gathered themselves together, to fight with Joshua and with Israel, with one accord.
 kikhawlsak — restrained (servants | princes | works)
     → uliante tawh kikhawlsak a, ama mite ulian-in a bawl hi. / That he may set him with princes, even with the princes of his people.
 kikhawm — congregate (together | gathered | congregation | jerusalem)
-    → Sapul omna peuhah musanete hong kikhawm ding uh hi.” / [Missing]
+    → Sapul omna peuhah musanete hong kikhawm ding-te hi.” / [Missing]
 kikhawmin — jeshurun (themselves | fight | battle)
-    → Tua ciangin Israel upate kikhawmin Ramah-a Samuel kiangah pai uh a, / Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,
+    → Tua ciangin Israel upate kikhawmin Ramah-a Samuel kiangah pai-te a, / Then all the elders of Israel gathered themselves together, and came to Samuel unto Ramah,
 kikhawmte — congregation (faces | israel | stood)
     → Tua thu a gen khit ciangin mi kikhawmte a paikhia sak hi. / And when he had thus spoken, he dismissed the assembly.
 kikhel — saith (pharaoh | again | plague)
@@ -4205,7 +4205,7 @@ kikhensak — dissolve (waters | children | took | sword)
 kikhentan — cut (jordan | waters | off)
     → ‘{ Topa' } Thuciamna Singkuang mai-ah Jordan tuite kikhentan a / 
 kikhep — natty (thereof | folding | two | span)
-    → Bang hang hiam na cih uh leh / 
+    → Bang hang hiam na cih-te leh / 
 kikhial — hand (ignorance | your | congregation)
     → a kikhial hi khading hi. / 
 kikhiam — estimation (jubilee | remain | even)
@@ -4262,7 +4262,7 @@ kikiat — shave (scall | shaven | priest)
 kikiatin — both (sodden | brasen | pot)
     → kihuanna leibeel kisukham ding hi. Ahih hangin taubeelin / 
 kikihtakna — every (fear | whole | know)
-    → na galte khempeuh uh lehhei-in note' kiang panin ka taisak ding hi. / 
+    → na galte khempeuh-te lehhei-in note' kiang panin ka taisak ding hi. / 
 kikim — equal (measures | size | long | measure)
     → Biakinn deipi kongkhak khuamte pen a siik kikim vive ahi hi. / The posts of the temple were squared, and the face of the sanctuary; the appearance of the one as the appearance of the other.
 kikimin — between (cometh | house | twenty)
@@ -4275,15 +4275,15 @@ kikipsakna — take (until | established | days)
     → amaute sathau kinilhin a kikipsakna ding ahi hi. / 
 kikkhui — blue (twined | linen | purple)
 kikkik — thus (saith | thou | forth)
-    → Amaute in amah ze-et kikkik uh / 
+    → Amaute in amah ze-et kikkik-te / 
 kikna — resurrection (help | hear | written)
     → Khatvei Isaiah in a gen kikna thu in: / Therefore they could not believe, because that Esaias said again,
 kiko — yell (cried | cry | voice | god)
-    → Midiante hangin Israel mite Topa tungah a kiko uh ciangin, / And it came to pass, when the children of Israel cried unto the
+    → Midiante hangin Israel mite Topa tungah a kiko-te ciangin, / And it came to pass, when the children of Israel cried unto the
 kikoih — brought (against | down | table)
     → Amah in a din’nate, leh din’nate tungah a kikoih tuikuangte, / He made also bases, and lavers made he upon the bases;
 kikoihcing — perish (portion | land | famine)
-    → Kikhopna inn sungah, uliante-a' dingin a kikoihcing tutphah nuamte tungah tunuam uh / 
+    → Kikhopna inn sungah, uliante-a' dingin a kikoihcing tutphah nuamte tungah tunuam-te / 
 kikoihin — graven (desolate | extolled | endless)
     → “En un; ka nasempa a dau pai-in / 
 kikoihna — blood (host | wherein | bring)
@@ -4317,7 +4317,7 @@ kilak — saith (priest | before | missing)
 kilakhia — because (tabernacle | against | inheritance)
     → Ahi zongin mualtunga biaknate kilakhia lo hi. Mite in tuate / 
 kilakkhiat — children (till | thereof | behold)
-    → kilakkhiat ni mateng amaute paikhialo uh hi. / 
+    → kilakkhiat ni mateng amaute paikhialo-te hi. / 
 kilakna — offering (usury | known | dead)
     → Kei leh ka behte leh ka nasemte in zong an / 
 kilaksa — mount (make | shewed | hollow)
@@ -4327,7 +4327,7 @@ kilam — your (king | reared | down)
 kilamdangin — israel (give | against | how)
     → ci-in na theihna dingun Israel mite / 
 kilang — popular (glory | missing | manifest | saith)
-    → Moses leh Elijah ahi nihte in meel lamdangin kilang uh a, / And, behold, there talked with him two men, which were Moses and Elias:
+    → Moses leh Elijah ahi nihte in meel lamdangin kilang-te a, / And, behold, there talked with him two men, which were Moses and Elias:
 kilangin — angel (land | more | boldly)
     → Jakob in Josef kiangah, “Kanaan gam Luz-ah Vanglian Pasian kei / 
 kilangneihna — seed (flee | between | bruise)
@@ -4345,7 +4345,7 @@ kilawm — handsome (missing | god | ought | house)
 kilawnthal — therein (nor | beareth | any)
     → ‘A gambup pen kaat leh ci / 
 kileh — again (saul | people | before)
-    → Mualte ka et leh kiliing damdam uh / 
+    → Mualte ka et leh kiliing damdam-te / 
 kilehngatin — contrary (walk | enemies | seven)
     → Topa Jesuh Khrih thu tawh a kituaklo / 
 kilei — god (money | children | servant)
@@ -4355,7 +4355,7 @@ kileina — return (hanameel | purchase | son)
 kileipa — must (covenant | born | house)
     → na inn sunga suak hita leh / 
 kilelsak — before (fled | way | wilderness)
-    → Tua ciangin amau' mai-ah Joshua leh Israel-te khempeuh kilelsak khem uh / 
+    → Tua ciangin amau' mai-ah Joshua leh Israel-te khempeuh kilelsak khem-te / 
 kilem — compromise (missing | christ | against | thoughts)
     → Note in na hih zawh zahun mi khempeuh tawh na kilem un. / If it be possible, as much as lieth in you, live peaceably with all men.
 kilemna — conciliation (make | peace | atonement | before)
@@ -4385,11 +4385,11 @@ kimah — altar (men | according | great)
 kimai — brown (look | between | see)
     → Kimai-etna-ah na lel ding hi. / 
 kimaingat — another (mercy | faces | cherubims)
-    → Kherub-te in a khate uh tua tokhom tungah zalin / 
+    → Kherub-te in a khate-te tua tokhom tungah zalin / 
 kimaisak — forgiven (missing | before | sins)
     → Numei kiangah, “Na mawhna kimaisak zo hi,” a ci hi. / And he said unto her,
 kiman — saith (captivity | work | together)
-    → A kumpipa uh leh a uliante salin kiman ding hi. / And their king shall go into captivity, he and his princes together, saith the
+    → A kumpipa-te leh a uliante salin kiman ding hi. / And their king shall go into captivity, he and his princes together, saith the
 kimang — useful (saith | vain | any | profit)
     → Thuman genna kip tawntung a, thuzuau genna tomno sung bek kimang hi. / The lip of truth shall be established for ever: but a lying tongue is but for a moment.
 kimangngilh — egypt (complaint | expectation | name)
@@ -4427,10 +4427,10 @@ kimuhdahna — bare (bitterness | let | wrath)
 kimuhna — found (words | both | hand)
     → Na nasemte' sung pan tua hai / 
 kin — festinate (east | right | forsake | being)
-    → Tua ganhingte zong khuaphia mah bangin kin zalzal kawikawi uh hi. / And the living creatures ran and returned as the appearance of a flash of lightning.
+    → Tua ganhingte zong khuaphia mah bangin kin zalzal kawikawi-te hi. / And the living creatures ran and returned as the appearance of a flash of lightning.
 kinah — kinah (dimonah | adadah)
 kinai — near (any | nigh | hast)
-    → Amaute in an peuhmah kih uh / 
+    → Amaute in an peuhmah kih-te / 
 kinaipen — elders (next | every | midnight)
     → Kinaipen ding a ka upmawh hi ei. / 
 kinaipih — kin (approach | revenger | none | any)
@@ -4494,7 +4494,7 @@ kinuh — beslubber (anointed | dedicating | altar | therefore)
 kinuihsan — take (themselves | would | love)
     → nang in tuanu na muhlohna na thei hi,” a ci hi. / 
 kinung — face (make | come | before)
-    → Mi pawlkhatte' khialhnate kimu pahpahin mawhsakna thuakpah uh / 
+    → Mi pawlkhatte' khialhnate kimu pahpahin mawhsakna thuakpah-te / 
 kinusia — desolate (man | city | thus)
     → Tua khuapi minthang’ lungdamna khuapi, tu-in kinusia ta hi! / How is the city of praise not left, the city of my joy!
 kinusiate — spoil (prey | thereof | themselves)
@@ -4514,9 +4514,9 @@ kipaikhiatpih — forth (beget | judgment | hills)
 kipaipih — brought (priest | before | house)
     → “Mi khat in meima a neih ciangin siampipa kiangah kipaipih ding hi; / When the plague of leprosy is in a man, then he shall be brought unto the priest;
 kipaipihin — sons (camp | right | moses)
-    → Siampi Eleazar kiangah na pia ding uh / 
+    → Siampi Eleazar kiangah na pia ding-te / 
 kipan — begin (judah | over | reign | began)
-    → Zingsang a kipan nitak dong a hong zahpih uh hi. / Behold their sitting down, and their rising up; I am their musick.
+    → Zingsang a kipan nitak dong a hong zahpih-te hi. / Behold their sitting down, and their rising up; I am their musick.
 kipanin — missing (day | time | pass)
     → Tua ni a kipanin Saul in David encik hi. / And Saul eyed David from that day and forward.
 kipat — missing (beginning | before | reign)
@@ -4538,7 +4538,7 @@ kiphasakin — despised (thou | moreover | therefore)
 kiphatsakna — arrogance (pride | tumult | humbled | lord)
     → kiphatsakna tawh kam pau kei un,” ka ci hi. / 
 kiphatsakpih — pride (kingdoms | ornament | saith)
-    → keimah in na kiphatsakpih uh note' vangliatna susia-in / 
+    → keimah in na kiphatsakpih-te note' vangliatna susia-in / 
 kiphawk — oxen (blow | empty | down)
     → Amah kilinglo taktak ding a, kiphawk tawntung ding hi. / Surely he shall not be moved for ever: the righteous shall be in everlasting remembrance.
 kiphawkna — remembrance (perish | would | therefore)
@@ -4548,21 +4548,21 @@ kiphel — hath (taken | clave | baal)
 kiphiat — pray (succeed | your | disannulled)
     → A hong tun'kik ciangin hoihtakin kiphiat siangin / 
 kiphiatkhia — heaven (things | destroyed | both)
-    → Ahih hangin note na gamtat siat lai uh leh / 
+    → Ahih hangin note na gamtat siat lai-te leh / 
 kiphop — feet (old | shoes | clouted)
     → a khe uhah a paatsa / 
 kiphopte — bound (old | asses | wine)
-    → amaute in khembawl ding vaihawm uh / 
+    → amaute in khembawl ding vaihawm-te / 
 kiphuak — called (isaac | pharez | zerah)
     → Tua khit ciangin a khut tunga khausan tawh a sanggampa hong suakkhia / 
 kiphuhna — abode (israel | cloud | children)
-    → meii a kiphuhna munah Israel mite in giahphual a sat uh hi. / 
+    → meii a kiphuhna munah Israel mite in giahphual a sat-te hi. / 
 kiphum — over (wilderness | kings | gathered)
     → Khrih Jesuh tawh i kipawl theihna dingin ama sungah / 
 kiphumna — man (belonging | know | against)
     → Bethpeor galkhat, Moab gam kuamah amah kiphum hi. Ahih hangin tuhun dongin / 
 kiphupai — pursueth (before | another | sword)
-    → na galte uh nan'zawhna ding vangliatna na nei kei ding uh hi. / 
+    → na galte-te nan'zawhna ding vangliatna na nei kei ding-te hi. / 
 kiphut — ouches (write | bolster | greatly)
     → Kham tawh kibawl a kiphut kizepna leh / And thou shalt make ouches of gold;
 kiphutin — earth (behold | dreamed | ladder)
@@ -4607,7 +4607,7 @@ kiptak — shalt (among | these | nations)
 kipte — statutes (judgments | teach | keep)
     → Nangma koihsa ngeina kipte in thuman in thutak hi. / Thy testimonies that thou hast commanded are righteous and very faithful.
 kipua — table (manahath | off | gathered)
-    → Ehud' tapate (amaute pen Geba-a teng beh lutangte hi uh / 
+    → Ehud' tapate (amaute pen Geba-a teng beh lutangte hi-te / 
 kipuah — shalt (purifying | nor | send)
     → kipuah siangin hoihtakin a om a mu hi. / 
 kipuahphat — iniquity (humbled | accept | punishment)
@@ -4658,7 +4658,7 @@ kisau — grasshopper (after | kind | locust)
 kisawl — proved (any | made | babylon)
     → Note' sungah thuman om hiam / 
 kisawlkhia — asses (sent | away | soon)
-    → Zingsang khuavak phetin a late uh tawh mite kisawlkhia hi. / As soon as the morning was light, the men were sent away, they and their asses.
+    → Zingsang khuavak phetin a late-te tawh mite kisawlkhia hi. / As soon as the morning was light, the men were sent away, they and their asses.
 kisawnkhia — tarry (egypt | out | leavened)
 kisawp — rinsed (whole | after | behold)
     → kihuanna leibeel kisukham ding hi. Ahih hangin taubeelin / 
@@ -4684,7 +4684,7 @@ kisehte — feasts (merari | god | work)
     → Tua bangin Moses in Israel mite tungah Topa’ pawi / 
 kisel — give (tribes | thou | parteth)
     → keima belhpa na hih manin kei hong kisiahna ngenthang kisel / 
-kisem — whatsoever (save | ram | dominion)
+kisem — whatsoever (save | gam | dominion)
     → Jakob tawh ukna na kisem ding / 
 kisepsak — evil (seem | serve)
     → “Pasian in a kiphasak mite nial a / 
@@ -4719,7 +4719,7 @@ kisik — recant (saul | god | repented | repentance)
 kisikh — jehovah (name | place | jireh)
     → Tom in Mary piak galkhih a zangin a kisikh hi. / 
 kisikin — repent (hast | god | early)
-    → lungsim taktak tawh Pasian a zong uh hi. / 
+    → lungsim taktak tawh Pasian a zong-te hi. / 
 kisil — lave (thou | bathe | wash | fire)
     → a puan zong leng a / 
 kisilin — himself (wash | water | bathe)
@@ -4727,7 +4727,7 @@ kisilin — himself (wash | water | bathe)
 kisilna — bathing (assembled | laver | between | shalt)
     → Nangmah in kisilna kuang leh / 
 kisim — numbered (seed | upward | house)
-    → Na sam uh zong a kisim khin hi. / [Missing]
+    → Na sam-te zong a kisim khin hi. / [Missing]
 kisimna — old (trumpet | long | against)
     → Kurinias in Siria gam menzi ahih lai takin hih kisimna / 
 kisimte — names (month | king | attentive)
@@ -4737,7 +4737,7 @@ kisin — open (land | heifer | tried)
 kisincip — among (missing | sealed | treasures)
     → “Hihte kei kiangah kikholin, ka vankoihna sungah kisincip hilo ahi hiam? / Is not this laid up in store with me, and sealed up among my treasures?
 kisuaksak — cursed (thou | shalt | thing)
-    → Note' inn sungah a kihhuai nate na tumpih kei ding uh / 
+    → Note' inn sungah a kihhuai nate na tumpih kei ding-te / 
 kisuan — myself (planted | thou | setteth)
     → Ama mai-ah kawkbang loin, kisuan’ nadingte panin ka kikem hi. / I was also upright before him, and I kept myself from mine iniquity.
 kisuang — could (innocency | pictures | ephraim)
@@ -4761,7 +4761,7 @@ kisun — resemble (head | cast | gushed | oxen)
 kisunen — coals (full | burning | fire)
     → Amah in { Topa' } biakna tau panin mei-am / 
 kisung — molten (made | images | sea)
-    → “A kisung pasiante note’ adingin na bawl kei ding uh hi. / Thou shalt make thee no molten gods.
+    → “A kisung pasiante note’ adingin na bawl kei ding-te hi. / Thou shalt make thee no molten gods.
 kisunin — god (created | man | likeness)
     → Hih pen Adam' suanlekhakte' laibu ahi hi. Pasian in mi a pian'sakin / 
 kisusia — destroyed (destroy | together | own)
@@ -4785,7 +4785,7 @@ kitang — ranks (against | hold | another)
 kitangsapna — serve (thine | want | thou)
     → zahtak mite in kitangsapna neilo hi. / 
 kitanh — grant (country | redeemed | himself)
-    → Note in na neih uh leitang khempeuh na kitanh kik / 
+    → Note in na neih-te leitang khempeuh na kitanh kik / 
 kitanhsak — sell (hath | redeemed | master)
     → Kaapteel Khua pan-in mi 5 guukmat uh-a / 
 kitankhia — woman (can | waters | saith)
@@ -4799,7 +4799,7 @@ kitatkhiatna — man (redeemed | aaron | money)
 kitatkik — full (redeemed | within | space)
     → jubilee kum ciangin zong kipiakhia kik tuan nawnlo ding hi. / 
 kitatna — money (redeemed | thou | shalt)
-    → kitatna uh sumte Aaron leh / 
+    → kitatna-te sumte Aaron leh / 
 kitatsat — disjunct (goat | kid | offering | sacrifice)
     → A kitatsat lo-a meihal biakna / 
 kitawng — bicker (strove | strife | herdmen | digged)
@@ -4807,9 +4807,9 @@ kitawng — bicker (strove | strife | herdmen | digged)
 kitawngin — men (woman | strive | hurt)
     → “Mite kitawngin numei naupaii khat liamsak / 
 kiteel — israel (princes | fifty | gods)
-    → A kiteel na naunu’ tate in nang hong hopih uh hi. / The children of thy elect sister greet thee. Amen.
+    → A kiteel na naunu’ tate in nang hong hopih-te hi. / The children of thy elect sister greet thee. Amen.
 kiteeng — wed (wife | shalt | without | father)
-    → Keima kiangah nong khak uh lai sung thu in / 
+    → Keima kiangah nong khak-te lai sung thu in / 
 kiteengsak — phera (marry | marriage | chaste)
     → Pahtawina a kawngah kiteengsak hi. / 
 kiteh — without (both | pure | herself)
@@ -4865,7 +4865,7 @@ kithuk — interact (done | hath | man | cause)
 kithukkik — seventy (hands | sevenfold | lamech)
     → “Mi khat in a vengte khat a poisak leh / 
 kitokgawpsak — thou (before | destroy | people)
-    → na galte khempeuh uh lehhei-in note' kiang panin ka taisak ding hi. / 
+    → na galte khempeuh-te lehhei-in note' kiang panin ka taisak ding hi. / 
 kitom — bald (hand | tremble | after)
     → Sabengpa' kiang panin a suahtakna dingin sakhi a tai bangin / 
 kitosa — digged (abraham | father | after)
@@ -4889,7 +4889,7 @@ kituahpih — meanest (what | thou | drove)
 kituak — apposite (son | among | good | cause)
     → Ahih hangin amau teci pan’na a kituak kei hi. / But neither so did their witness agree together.
 kituakin — according (number | walk | until)
-    → tamngai leh harp lasakna aw tawh kituakin lam uh hi. / They take the timbrel and harp, and rejoice at the sound of the organ.
+    → tamngai leh harp lasakna aw tawh kituakin lam-te hi. / They take the timbrel and harp, and rejoice at the sound of the organ.
 kituam — covered (themselves | separation | gate)
     → Puanza bangin, khuavak tawh nang na kituam / 
 kituamna — off (only | make | covereth)
@@ -4999,9 +4999,9 @@ konga — year (offering | fulfilled | son)
 kongah — door (tabernacle | altar | sin)
     → kikhopna buk kongah Israel mihonte khempeuh khawm in,” a ci hi. / And gather thou all the congregation together unto the door of the tabernacle of the congregation.
 kongkhak — door (tabernacle | house | thou)
-    → khua zangpi-in kongkhak kiangah a kikhawm uh hi. / And all the city was gathered together at the door.
+    → khua zangpi-in kongkhak kiangah a kikhawm-te hi. / And all the city was gathered together at the door.
 kongkhakah — brass (made | laver | foot)
-    → Tua ahih ciangin Josef' innsung nasempa' kiangah amaute paito uh / 
+    → Tua ahih ciangin Josef' innsung nasempa' kiangah amaute paito-te / 
 kongkhakte — doors (locks | cut | door)
     → Tua kongkhakte pen a laizang-a kituah / 
 kongpi — gate (court | city | came)
@@ -5017,7 +5017,7 @@ kongvangneu — ark (window | through | like)
 kongvangneute — windows (heaven | lights | light)
     → tui thukte leh vantung kongvangneute kikhak a, vantung pan-a guahte kikhawlsak hi. / The fountains also of the deep and the windows of heaven were stopped, and the rain from heaven was restrained;
 kongzing — avenue (street | streets | cities | house)
-    → Kongzing khempeuh ah numei naupang kimawlin phezaizai ding uh hi. / And the streets of the city shall be full of boys and girls playing in the streets thereof.
+    → Kongzing khempeuh ah numei naupang kimawlin phezaizai ding-te hi. / And the streets of the city shall be full of boys and girls playing in the streets thereof.
 kop — pair (fine | scarlet | blue | linen)
     → a ausan khaute leh a kop-a kikhuk puan hoihte / 
 kopa — scarlet (made | veil | blue)
@@ -5025,15 +5025,15 @@ kopa — scarlet (made | veil | blue)
 kopte — knop (under | branches | two)
     → kopte’ bul-ah tua tawh sakhat ahi nun khat om hi / 
 korah — korah (jaalam | children | duke)
-    → Ahi zongin Korah’ tapate si lo uh hi. / Notwithstanding the children of Korah died not.
+    → Ahi zongin Korah’ tapate si lo-te hi. / Notwithstanding the children of Korah died not.
 kot — wilderness (beth | walls | kill)
-    → Amaute sun leh zanin kulhpi tungah kot paipai uh / 
+    → Amaute sun leh zanin kulhpi tungah kot paipai-te / 
 kote — thou (god | saying | lord)
     → Ute naute aw, kote ading thu hong ngetsak un. / Brethren, pray for us.
 kozbi — house (day | midian | slain)
     → kithatnu' min pen Midian innkuan sungah / 
 kua — nine (thou | can | jesus | missing)
-    → Elishama, Eliada, leh Elifelet, kua pha uh hi. / And Elishama, and Eliada, and Eliphelet, nine.
+    → Elishama, Eliada, leh Elifelet, kua pha-te hi. / And Elishama, and Eliada, and Eliphelet, nine.
 kuaitan — break (neck | evil | selah)
     → Amah in tua lai-ah thaltangte, lum, namsau leh galhiamte kuaitan hi. / There brake he the arrows of the bow, the shield, and the sword, and the battle. Selah.
 kuaitanin — cut (cutteth | saith | day)
@@ -5049,13 +5049,13 @@ kualin — shicron (about | round | border)
 kualte — bear (altar | gold | places)
     → Tua leengpei kualte tungah mittang vive a dimin om hi. / As for their rings, they were so high that they were dreadful; and their rings were full of eyes round about them four.
 kuam — valley (went | vale | king's)
-    → Tua ciangin Filistiate in kuam sung luh kik lai uh hi. / And the Philistines yet again spread themselves abroad in the valley.
+    → Tua ciangin Filistiate in kuam sung luh kik lai-te hi. / And the Philistines yet again spread themselves abroad in the valley.
 kuamah — man (none | missing | neither)
     → Ganhing lak pan a hatpen, kuamah a kihta lo humpinelkai, / A lion which is strongest among beasts, and turneth not away for any;
 kuamte — cities (gomorrah | wars | spread)
     → Tua ahih manin Topa’ Gal Laibu sungah / 
 kuan — forth (against | battle | went)
-    → (Gal sunga a kuan mite in amau ading ciat la uh hi). / (For the men of war had taken spoil, every man for himself.)
+    → (Gal sunga a kuan mite in amau ading ciat la-te hi). / (For the men of war had taken spoil, every man for himself.)
 kuang — glare (sanctuary | fire | shalt | make)
     → leh meihal biakna tau a nazatte khempeuh tawh, kuang leh a ngakna, / And the altar of burnt offering with all his furniture, and the laver and his foot,
 kuangdai — seventy (silver | charger | own)
@@ -5071,7 +5071,7 @@ kuangte — shovels (pure | vessels | store)
 kuanin — house (missing | after | against)
     → bokvak khempeuh, vasa khempeuh, leitunga / 
 kuankhia — came (against | forth | missing)
-    → “Na lumte uh la un la, galsim dingin kuankhia un! / Order ye the buckler and shield, and draw near to battle.
+    → “Na lumte-te la un la, galsim dingin kuankhia un! / Order ye the buckler and shield, and draw near to battle.
 kuankhiat — first (pray | went | after)
     → nangma mite’ mai-ah na kuankhiat ciang / 
 kuansak — house (israel | blow | field)
@@ -5081,7 +5081,7 @@ kuanto — went (seek | enquired | thus)
 kuantoh — ark (nevertheless | covenant | presumed)
     → Ahih hangin { Topa' } thuciamna singkuang hita leh Moses / 
 kuanun — moses (gather | numbered | god)
-    → leh a thal uh tawh / 
+    → leh a thal-te tawh / 
 kuate — children (whence | thou | ahaziah)
     → Zeisu in, “Ka nu leh ka sanggamte kuate ahi hiam?” ci-in / And he answered them, saying,
 kul — must (altar | money | unclean)
@@ -5120,7 +5120,7 @@ kumsuk — climb-down (missing | down | come | mountain)
 kumsukin — cloudy (down | went | god)
     → amaute tungah a man thukhenna / 
 kumte — years (seasons | age | thereof)
-    → Note in nite, khate, hunte, kumte na tang ta uh hi! / Ye observe days, and months, and times, and years.
+    → Note in nite, khate, hunte, kumte na tang ta-te hi! / Ye observe days, and months, and times, and years.
 kumthum — years (mount | jerusalem | king)
     → sihin kum za leh kum sawmnih leh kumthum / 
 kun — exhort (face | earth | down | ground)
@@ -5142,13 +5142,13 @@ kuumpi — divide (under | called | firmament)
 laa — man (rode | whom | stood)
     → Kamkaih tawh uk loh-a phamawh / 
 laam — float (before | waters | hand | shiloh)
-    → Tui tunga tuiphuan laam bangin a kumpipa uh maimang ding hi. / As for Samaria, her king is cut off as the foam upon the water.
+    → Tui tunga tuiphuan laam bangin a kumpipa-te maimang ding hi. / As for Samaria, her king is cut off as the foam upon the water.
 laamto — uplife (ark | children | heaven | blessed)
     → Topa aw, nangma tungah ka lungsim kong laamto hi. / Unto thee, O
 laban — laban (jacob | daughters | answered)
     → Laban in, “Hoih hi! Na cihsa bangin hisak in,” ci hi. / And Laban said, Behold, I would it might be according to thy word.
 labanon — jordan (see | good | land)
-    → A sing zat dingun Senir Mual-a om taksingte zang uh / 
+    → A sing zat dingun Senir Mual-a om taksingte zang-te / 
 lael — son (gershonites | eliasaph | lael)
     → tua Gershon mite sung pan / 
 lah — gathered (lord | far | house)
@@ -5160,11 +5160,11 @@ lahman — lahmam (cabbon | kithlish)
 lahna — indication (god | thou | written | solomon)
     → Pasian in na khialhnate a hong lahna ding ngenin / 
 lahsa — hast (work | moses | thereof)
-    → gamta na hi uh hi,” / 
+    → gamta na hi-te hi,” / 
 lahsate — pattern (wonders | works | shewed)
     → Ama bawlsa leh amau tunga nalamdang / 
 lahtel — bring (worthy | men | cause)
-    → Na thu uh sung un / 
+    → Na thu-te sung un / 
 laibu — book (kings | chronicles | written)
     → bei dongin hih thukham kammalte laibu sunga gelh / 
 laih — alter (sons | bad | came | abiathar)
@@ -5208,7 +5208,7 @@ lakin — saying (voice | forth | jabesh)
 lakkhiat — liver (forth | saith | brought)
     → mipa kiangah tuanu a paipih hi. / 
 lakkhiatsa — hath (god | our | riches)
-    → nang' tunga Pasian' hong cih peuhpeuh hih in,” a ci uh hi. / 
+    → nang' tunga Pasian' hong cih peuhpeuh hih in,” a ci-te hi. / 
 lakkum — jabneel (zaanannim | adami | nekeb)
     → leh Jabneel panin Lakkum ciangdong pai-in Jordan-ah a tawp hi. / 
 lakna — adoni (land | carcase | eyes)
@@ -5218,13 +5218,13 @@ lakpa — commandments (counsellor | archite | king's)
 laksa — thou (only | free | israel)
     → David in Amalekte’ laksa khempeuh ngah kik hi; David in / 
 laksak — poor (damsel | field | levites)
-    → a manpha na kizepnate zong hong laksak ding uh hi. / 
+    → a manpha na kizepnate zong hong laksak ding-te hi. / 
 laksakin — arnon (taketh | leave | people)
     → Na taneute hong laksakin suangtumpi den’na-a hong neihsakpa in lungdamna / 
 lakte — sheaf (david's | elders | horses)
     → Na thuhilhnate ka deih hi; tuate in keimah thu hong / 
 lal — pass (heaven | caves | sprinkling)
-    → Amaute, nisuahna lamah lal uh / 
+    → Amaute, nisuahna lamah lal-te / 
 lam — construct (missing | way | side | house)
     → Gershonte beh in nitumna lam biakbuk nungah giahphual satin, / The families of the Gershonites shall pitch behind the tabernacle westward.
 lama — looketh (third | hahiroth | wherefore)
@@ -5232,7 +5232,7 @@ lama — looketh (third | hahiroth | wherefore)
 lamah — toward (hand | without | way)
     → Tua ciangin lei niamna lamah Eshtaol, Zorah, Ashnah, / And in the valley, Eshtaol, and Zorah, and Ashnah,
 lamdang — fanciful (astonished | marvelled | wonderful | would)
-    → Tuucingte’ thugenna zate khempeuh in lamdang a sa uh hi. / And all they that heard it wondered at those things which were told them by the shepherds.
+    → Tuucingte’ thugenna zate khempeuh in lamdang a sa-te hi. / And all they that heard it wondered at those things which were told them by the shepherds.
 lamdangsakna — excitement (men | wrath | wonder | according)
     → Moses in, “Na cih bang hita hen! Na maitang kong / 
 lamek — lamech (begat | wives | truly)
@@ -5254,7 +5254,7 @@ lamna — construction (nigh | bezaleel | holy | place)
 lamnasa — hamor (spread | tent | hand)
     → Amah in Shekhem' pa Hamor' innkuante' tung panin / 
 lampi — macadam (way | missing | came | went)
-    → Nopna lampi amau in a thei kei uh hi. / And the way of peace have they not known:
+    → Nopna lampi amau in a thei kei-te hi. / And the way of peace have they not known:
 lampial — astray (crooked | children | generation | spot)
     → Ka lungsim ngaihsutna a tam mahmah ciangin kei na hong hehnem / 
 lampite — ways (high | what | land)
@@ -5266,15 +5266,15 @@ lamto — hands (people | elders | dust)
 lamzan — left (thou | mayest | law)
     → I lamzan nadingin Politic huihnun dan khua hun luanzia en / 
 lang — against (saith | half | side)
-    → Kam dang tampi tawh Zeisu lang pangin a zahko uh hi. / And many other things blasphemously spake they against him.
+    → Kam dang tampi tawh Zeisu lang pangin a zahko-te hi. / And many other things blasphemously spake they against him.
 langah — against (themselves | neither | moses)
     → Vantungte in hih mipa’ mawhna pholak / 
 langgen — nor (shalt | person | thou)
-    → thumanna tawh na vengte uh thu na khen ding uh hi. / 
+    → thumanna tawh na vengte-te thu na khen ding-te hi. / 
 langkhat — missing (saith | man | dwell)
-    → pum langkhat si akipan cina tampite a lum uh hi. / 
+    → pum langkhat si akipan cina tampite a lum-te hi. / 
 langkhatah — utterly (young | words | neighbour)
-    → manloin teci na pang kei ding uh hi. / 
+    → manloin teci na pang kei ding-te hi. / 
 langpan — uprising (against | thus | thou | dominion)
     → Hong en in, Topa aw, ka galte hong langpan’nate hong ngai in. / Give heed to me, O
 langpang — opponent (hand | thou | kindled | ways)
@@ -5292,7 +5292,7 @@ lapi — bulls (father | sion | ten)
 lasak — fetch (mother | over | singing)
     → Khitui tawh khai a tuhte, lungdam-a kikona tawh an lasak ta in! / They that sow in tears shall reap in joy.
 lasakna — harp (psaltery | noise | singing)
-    → tamngai leh harp lasakna aw tawh kituakin lam uh hi. / They take the timbrel and harp, and rejoice at the sound of the organ.
+    → tamngai leh harp lasakna aw tawh kituakin lam-te hi. / They take the timbrel and harp, and rejoice at the sound of the organ.
 lasha — admah (thou | goest | sodom)
     → Sodom lam panin Gomorrah, Admah, leh Lasha gei-a Zeboiim ciangdong ban hi. / 
 lasharon — king (one | aphek | lasharon)
@@ -5300,7 +5300,7 @@ lasharon — king (one | aphek | lasharon)
 latal — asses (ten | bulls | twenty)
     → kalaoh nawisuk sawmthum leh a note / 
 late — asses (oxen | found | horses)
-    → Zingsang khua a vak phetin a late uh tawh mite kisawlkhia hi. / As soon as the morning was light, the men were sent away, they and their asses.
+    → Zingsang khua a vak phetin a late-te tawh mite kisawlkhia hi. / As soon as the morning was light, the men were sent away, they and their asses.
 latsak — face (come | among | answer)
     → Thu-laknate in bang latsak hiam? / 
 lau — afraid (fear | thou | saith)
@@ -5338,7 +5338,7 @@ lawnin — before (smote | spring | wind)
 lawnkhia — throw (cast | saith | son | disinherit)
     → Topa in thuman mite kem a, ahi zongin thuzuau gente lawnkhia hi. / The eyes of the
 lawnsuk — down (going | been | blood)
-    → tua ciangin amaute in amah tuancil uh hi. / 
+    → tua ciangin amaute in amah tuancil-te hi. / 
 lawnthal — hast (shalt | servants | against)
     → Amah in siampite mihai suaksak a, mi vangliante lawnthal hi. / He leadeth princes away spoiled, and overthroweth the mighty.
 leah — leah (zilpah | leah's | name)
@@ -5368,7 +5368,7 @@ leengguite — vine (grapes | vineyards | vines)
 leengte — chariots (chariot | horses | after)
     → Tua ahih ciangin Moses in leengte leh bawngtalte sangin Levi / 
 leetkhiate — first (thou | shalt | delay)
-    → “Na anlakna pan uh leh sathau leh leenggah na suknate uh panin / 
+    → “Na anlakna pan-te leh sathau leh leenggah na suknate-te panin / 
 lehab — lehabim (ludim | anamim | naphtuhim)
     → Izipt in Lud mite, Anam mite, Lehab mite, Naftuh mite, / And Mizraim begat Ludim, and Anamim, and Lehabim, and Naphtuhim,
 lehang — surely (thou | conceal | year)
@@ -5377,11 +5377,11 @@ lehbuk — hanging (court | hangings | pillars)
 lehdo — counteract (against | rebellious | thou | king)
     → Ahab a sih khit ciangin Moab gam in Israel lehdo hi. / Then Moab rebelled against Israel after the death of Ahab.
 lehdona — saith (sin | hand | rebellion)
-    → Pawlkhatte, amaute’ khialhna hangin, gimna thuak uh / 
+    → Pawlkhatte, amaute’ khialhna hangin, gimna thuak-te / 
 lehkhak — after (door | shut | lot)
     → Kongkhak pualam-a mite' kiangah Lot pai-in kong lehkhak a, / And Lot went out at the door unto them, and shut the door after him,
 lehpan — water (rebel | wilderness | against)
-    → Ahi zongin ama tungah amaute khial lailai uh / 
+    → Ahi zongin ama tungah amaute khial lailai-te / 
 lei — bridge (missing | earth | ground | saith)
     → Kimkhatte lei tam lohna suang lakah kia a, / [Missing]
 leiba — insolvent (missing | surety | because | every)
@@ -5391,7 +5391,7 @@ leibeel — earthen (like | wherein | birds)
 leihawm — cave (therein | trees | mamre)
     → Topa aw, leihawm thukpi taw panin ka hong kiko to hi. / I called upon thy name, O
 leihawmte — therein (mountains | rocks | made)
-    → Israel-te tungah Midian-te gualzo uh hi. Midian-te' kiang panin / 
+    → Israel-te tungah Midian-te gualzo-te hi. Midian-te' kiang panin / 
 leikeu — sea (dry | whose | rod)
     → a nak sungah nuntakna hu a om peuhmah si hi. / 
 leilak — down (ground | blood | sea)
@@ -5441,7 +5441,7 @@ lelhna — licking (voice | before | destroyed | set)
 lelin — giants (eyes | years | beasts)
     → Mihingte bang lelin gamta na hi hiam? / Hast thou eyes of flesh? or seest thou as man seeth?
 lelsak — wicked (judge | justify | righteous)
-    → thutang kimlai na lelsak kei ding uh hi. / 
+    → thutang kimlai na lelsak kei ding-te hi. / 
 len — hold (hand | because | rings | held)
     → Na khempeuh sinin ahoih nate na len tawntung un; / Prove all things; hold fast that which is good.
 leng — soar (missing | would | god | give)
@@ -5459,7 +5459,7 @@ letsong — present (man | sent | before)
 letsongin — door (priest's | divide | priest)
     → note in, ‘Na nasempa Jakob-a' ahi hi. Hihte pen ka / 
 letsongte — brought (house | hand | sabbaths)
-    → ama mai leilakah kun uh hi. / 
+    → ama mai leilakah kun-te hi. / 
 letushim — asshurim (dedan | sons | letushim)
     → Jokshan in Sheba leh Dedan’ pa ahi hi. Dedan’ tate in Asshurim / 
 leuleu — missing (again | word | elhanan)
@@ -5471,7 +5471,7 @@ levi — levites (priests | levi | children)
 liah — lick (down | came | joab)
     → Amah in kha a liah ding bawl / 
 liak — lick (grass | people | lapped | saith)
-    → Tua ciangin amaute in Samaria bual gei-ah a leeng sil uh / 
+    → Tua ciangin amaute in Samaria bual gei-ah a leeng sil-te / 
 liam — hurt (wounded | hath | away | owner)
     → Amah in a liam a bai guh kitan sa-in a / 
 liamna — injurious (wound | ran | wise | moon)
@@ -5491,7 +5491,7 @@ liangkaihna — joined (two | thereof | edges)
 liangko — shoulder (north | laid | hagar)
     → tua ciangin Beth-arabah gam liangko leilu lamah paisuakin Arabah-ah paisuk hi; / And passed along toward the side over against Arabah northward, and went down unto Arabah:
 lianin — small (walled | many | heart)
-    → na lungsim uh lianin, salsuahna Izipt gam panin no hong paikhiatpih, / Then thine heart be lifted up, and thou forget the
+    → na lungsim-te lianin, salsuahna Izipt gam panin no hong paikhiatpih, / Then thine heart be lifted up, and thou forget the
 lianpa — king (high | house | take)
     → Bang hang hiam cih leh { Topa, } a lian Pasian hi / 
 lianpen — given (least | missing | over)
@@ -5515,9 +5515,9 @@ liau — confiscate (missing | determine | talent | your)
 libnah — king (daughter | pitched | against)
     → Libnah kumpi, khat; Adullam kumpi, khat; / The king of Libnah, one; the king of Adullam, one;
 libnath — removed (libnah | pitched | rissah)
-    → Libnath panin amaute ding khia uh / 
+    → Libnath panin amaute ding khia-te / 
 libni — gershon (family | libnites | gershom)
-    → Gershom' tapate: Libni leh Shimei ahi uh hi. / And these be the names of the sons of Gershom; Libni, and Shimei.
+    → Gershom' tapate: Libni leh Shimei ahi-te hi. / And these be the names of the sons of Gershom; Libni, and Shimei.
 lii — became (thence | parted | into)
     → Pasalte lii in Ziri matkhia. / 
 liik — land (altar | face | new)
@@ -5527,13 +5527,13 @@ liim — shadow (under | wings | mercy | your)
 liin — moab (sole | came | bones)
     → Launa leh liin’na ka tung hong tung / 
 liing — quake (trembled | tremble | those | troubled)
-    → Mi khempeuh’ khut zaw dakdakin, a khuk uh liing kelkel ding hi. / All hands shall be feeble, and all knees shall be weak as water.
+    → Mi khempeuh’ khut zaw dakdakin, a khuk-te liing kelkel ding hi. / All hands shall be feeble, and all knees shall be weak as water.
 liingin — very (saying | moved | heaven)
     → Note tawh ka omkhawm lai takin thanemin, lau-in, liingin ka om hi. / And I was with you in weakness, and in fear, and in much trembling.
 lik — stones (great | hewn | out)
     → Amau' galte khempeuh ka zawhsak pak ding / 
 lim — diagram (saith | sign | signs | day)
-    → Tu laitak-a na omzia uh lim takin ngaihsun un. / Now therefore thus saith the
+    → Tu laitak-a na omzia-te lim takin ngaihsun un. / Now therefore thus saith the
 limbawl — sake (place | goodness | house)
     → Topa aw, na thuciamna bangin na nasempa na limbawl hi. / Thou hast dealt well with thy servant, O
 limci — ambrosial (wine | carry | offer | say)
@@ -5549,7 +5549,7 @@ limtak — diligently (holy | lips | hast)
 limtakin — possess (shalt | protest | run)
     → Pilna thute limtakin ngai in la, na theihtel zawh nadingin hanciam in. / So that thou incline thine ear unto wisdom, and apply thine heart to understanding;
 limte — days (miracles | eyes | egypt)
-    → Ham’ gam sungah bawl uh hi. / 
+    → Ham’ gam sungah bawl-te hi. / 
 lina — fourth (day | year | serve)
     → a lina Nethanel, a ngana Raddai, / Nethaneel the fourth, Raddai the fifth,
 lingsi — balm (bearing | little | down)
@@ -5567,7 +5567,7 @@ lo — not (no | negative | or else)
 loh — missing (any | should | thou)
     → “Note na kipuk loh nadingun hih thu kong genkhol hi. / These things have I spoken unto you, that ye should not be offended.
 lohin — without (themselves | sword | man)
-    → kauphete leh tangngolte, sim zawh lohin hong pai uh a, / 
+    → kauphete leh tangngolte, sim zawh lohin hong pai-te a, / 
 lohkikna — recovery (done | make | amends | harm)
     → Amah in a siangtho na a hih khialhna-ah lohkikna zong bawl ding / 
 lohna — compensate (missing | saith | hast | israel)
@@ -5627,7 +5627,7 @@ luahnate — divided (bowls | heads | fathers)
 luahsak — inherit (give | portion | better)
     → Israel mite tungah hih bangin na gen ding hi: ‘Pasal khat si-in / 
 luahte — family (therefore | stretched | because)
-    → Topa aw, amaute in nangma mite sugawp uh / 
+    → Topa aw, amaute in nangma mite sugawp-te / 
 luak — vomitus (altar | returneth | filthiness | himself)
     → haitat ngei bangin ta kik zel hi. / 
 luakhia — inhabitants (before | riches | hast)
@@ -5639,7 +5639,7 @@ luan — doze (land | because | waters | over)
 luang — body (dead | down | blood)
     → Ka khitui kang thei loin luitui bangin luang tawntung a, / Mine eye trickleth down, and ceaseth not, without any intermission,
 luanghawmte — carcases (beasts | body | come)
-    → Amaute in, na nasemte' luanghawmte huihlak vasate pia uh / 
+    → Amaute in, na nasemte' luanghawmte huihlak vasate pia-te / 
 luangkik — returned (sea | hand | over)
     → Tua ahih ciangin Moses in tuipi tungah a khut zan / 
 luangkikin — returned (waters | covered | chariots)
@@ -5649,7 +5649,7 @@ luangsak — offer (thou | overflow | rivers)
 luangsuk — dust (bear | above | return)
     → Lebanon Mual tung panin tui hong luangsuk / 
 luanna — flux (flowing | warning | trumpet | took)
-    → na theih uh omnai ahi hiam? / 
+    → na theih-te omnai ahi hiam? / 
 luat — come (lamb | place | folly)
     → It luat aw, na ngaih baang / 
 luate — superfluous (shalt | bones | because)
@@ -5669,7 +5669,7 @@ luisa — skin (waxeth | old | made)
 luite — waters (store | covered | dried)
     → Ciktuite leh luite na phulsak a, guntui luangte na kangsak hi. / Thou didst cleave the fountain and the flood: thou driedst up mighty rivers.
 luk — night (came | bring | out)
-    → Amaute in Lot sam uh / 
+    → Amaute in Lot sam-te / 
 lukham — pillow (stone | goats' | image | ship)
     → Mikhal in milim khat la-in lupna tungah koih / 
 lukhamin — pillows (place | sun | set)
@@ -5685,7 +5685,7 @@ lumin — lie (deliver | door | smote)
 lumkhawm — lie (look | children | son's)
     → Hong pai in; i pa leenggahzu khamsak ni; i pa / 
 lumkhawmin — uncover (hath | fountain | man)
-    → nin a nei numei khat tawh lumkhawmin a mawh uh leh / 
+    → nin a nei numei khat tawh lumkhawmin a mawh-te leh / 
 lumlet — convert (overthrow | upside | comforters | destroyed)
     → tawlnga sak lo hi; a hehna tawh mualte lumlet hi. / 
 lumpa — both (lay | woman | man)
@@ -5721,7 +5721,7 @@ lungkhamsak — afflict (what | eat | because | enemy)
 lungkhauh — jesus (consume | pray | stubborn)
     → { Topa } in Moses kiangah / 
 lungkhauhin — son (mind | our | say)
-    → amah in ka thu uh hong manglo / 
+    → amah in ka thu-te hong manglo / 
 lungkia — despair (dismayed | offended | troubled | fade)
     → Amaute maizumin lungkia densak in la, amaute mindai-in siasak in. / Let them be confounded and troubled for ever; yea, let them be put to shame, and perish:
 lungkiasak — over (heart | israel | going)
@@ -5811,7 +5811,7 @@ madmannah — madmannah (father | bare | shaaph)
 madon — jobab (king | madon | hazor)
     → Madon kumpi, khat; Hazor kumpi, khat; / The king of Madon, one; the king of Hazor, one;
 magdiel — duke (magdiel | iram | these)
-    → leh Iram ahi uh hi; hihte in Edom ukpite ahi uh hi. / 
+    → leh Iram ahi-te hi; hihte in Edom ukpite ahi-te hi. / 
 magog — gomer (man | magog | earth)
     → Jafeth' tapate: Gomer, Magog, Madai, Javan, leh Tiras ahi hi. / The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 mahah — among (there | joseph's | done)
@@ -5850,15 +5850,15 @@ mailam — anterior (vision | last | coming | among)
 maim — hill (inhabitants | country | lebanon)
     → No trouble will be spared to counter or maim him / 
 maimang — away (yea | beauty | saith)
-    → Tui tunga tuiphuan laam bangin a kumpipa uh maimang ding hi. / As for Samaria, her king is cut off as the foam upon the water.
+    → Tui tunga tuiphuan laam bangin a kumpipa-te maimang ding hi. / As for Samaria, her king is cut off as the foam upon the water.
 maimangsak — end (names | thereof | troubleth)
     → Vanglian Pasian in ka lungsim hanna hong maimangsak hi. / For God maketh my heart soft, and the Almighty troubleth me:
 maimawk — eyes (our | land | die)
-    → Faro' sila ka hi ding uh a / 
+    → Faro' sila ka hi ding-te a / 
 maingat — faces (whether | face | day)
     → { Topa } ka maingat tawntung / 
 maingatin — before (fell | how | down)
-    → lei maingatin a kunsuk uh hi. / 
+    → lei maingatin a kunsuk-te hi. / 
 maipha — sight (found | favour | grace)
     → Ahih hangin Noah in Topa’ maipha mu hi. / But Noah found grace in the eyes of the
 maipuakzia — glory (looks | afraid | words)
@@ -5868,17 +5868,17 @@ maisak — absolve (missing | sin | forgive | against)
 maisakin — transgression (transgressed | people | place)
     → a topa in hehpih a, a leiba khempeuh maisakin a khah hi. / [Missing]
 maisakna — absolution (blood | thou | exact | saying)
-    → “Kum sagih a cin’ simin maisakna na pia ding uh hi. / At the end of every seven years thou shalt make a release.
+    → “Kum sagih a cin’ simin maisakna na pia ding-te hi. / At the end of every seven years thou shalt make a release.
 maisiat — face (soul | man | set)
     → ama mite lak panin amah ka hawlkhia ding hi. / 
 maisiatin — against (set | face | man)
     → keimah in tua mipa leh ama innkuanpihte maisiatin / 
 maitang — face (thou | shine | god)
-    → maitang li leh kha li nei ciat uh hi. / And every one had four faces, and every one had four wings.
+    → maitang li leh kha li nei ciat-te hi. / And every one had four faces, and every one had four wings.
 maizum — ashame (ashamed | shame | men | shalt)
     → A maizum thei lo minam aw, hoih takin thu ngaihsun in. / Gather yourselves together, yea, gather together, O nation not desired;
 maizumna — shame (ashamed | thou | own)
-    → “Ha, ha!” a cite, a maizumna uh tawh maikhingsak in! / Let them be turned back for a reward of their shame that say, Aha, aha.
+    → “Ha, ha!” a cite, a maizumna-te tawh maikhingsak in! / Let them be turned back for a reward of their shame that say, Aha, aha.
 mak — put (place | sent | those)
     → mak khit ciangin Moab gam sungah tapate nei hi. / 
 makai — captain (prince | children | princes | naphtali)
@@ -5896,7 +5896,7 @@ makaite — princes (rulers | israel | congregation)
 makeng — grove (servants | under | tree)
     → Abraham in Beersheba-ah makeng kung khat suan / 
 makheloth — pitched (removed | makheloth | haradah)
-    → Haradah panin dingkhia uh a, Makheloth-ah giahphual sat uh hi. / And they removed from Haradah, and pitched in Makheloth.
+    → Haradah panin dingkhia-te a, Makheloth-ah giahphual sat-te hi. / And they removed from Haradah, and pitched in Makheloth.
 makhi — geuel (tribe | gad | son)
     → Gad minam panin Makhi’ tapa Ge-uel ahi hi. / Of the tribe of Gad, Geuel the son of Machi.
 makhir — machir (son | gilead | gave)
@@ -5927,7 +5927,7 @@ manahath — alvan (alian | half | sons)
 manasseh — manasseh (children | half | tribe)
     → Josef minam (Manasseh minam) panin Susi’ tapa Gaddi; / Of the tribe of Joseph, namely, of the tribe of Manasseh, Gaddi the son of Susi.
 manassehte — coast (themselves | ephraim | out)
-    → amaute in Midiante delh uh hi. / 
+    → amaute in Midiante delh-te hi. / 
 mancip — glom (philistia | trembling | darkness | hast)
     → kha khat sunga nidangte lakah kiseh khawm kei hen. / 
 mang — dream (lord | saith | obey)
@@ -5949,7 +5949,7 @@ mangngilhin — father's (yourselves | thou | remember)
 mangpa — captain (chief | guard | host)
     → Topa in, “Aman lo thukhen mangpa’ thugenna na ngaihsun un. / And the Lord said,
 mangpha — adieu (leave | sons | moresheth | farewell)
-    → Tua ciangin khatlekhat mangpha kikhakin teembaw tungah ka tuang uh / 
+    → Tua ciangin khatlekhat mangpha kikhakin teembaw tungah ka tuang-te / 
 mangsa — hath (thou | shalt | lost)
     → Inn a tun' ciangin a lawmte leh a vengte samin / 
 mangte — captains (chamberlains | forces | chief)
@@ -6007,7 +6007,7 @@ massah — israel (tempt | massah | whom)
 mat — missing (thou | hath | saith)
     → Amah in amaute' kiangah, “Keima' mat hih mang ngai un: / And he said unto them, Hear, I pray you, this dream which I have dreamed:
 mateng — until (unclean | water | till)
-    → Mi pen, nasem dingin kuankhia uh / 
+    → Mi pen, nasem dingin kuankhia-te / 
 matengin — until (missing | come | till)
     → vantung panin Topa in hong en sukin a hong muh matengin; / Till the
 matengun — until (camels | borders | month)
@@ -6017,13 +6017,13 @@ matin — captivity (give | saith | into)
 matred — matred (daughter | name | wife)
     → Hadar in ama tangin uk / 
 matsa — venison (meat | soul | eat)
-    → a matsa khempeuh uh, mihing ganhing ciahpih khin uh hi. / And they took all the spoil, and all the prey, both of men and of beasts.
+    → a matsa khempeuh uh, mihing ganhing ciahpih khin-te hi. / And they took all the spoil, and all the prey, both of men and of beasts.
 matsak — captive (pledge | anointed | given)
-    → Amaute in galte' khutsung panin a hong huhzo dingin ka up uh / 
+    → Amaute in galte' khutsung panin a hong huhzo dingin ka up-te / 
 mattanah — went (mattanah | nahaliel | digged)
     → Mattanah panin Nahaliel, Nahaliel panin Bamoth, / And from Mattanah to Nahaliel: and from Nahaliel to Bamoth:
 matte — until (jordan | captive | vessels)
-    → Jesuh in amaute kiangah, “Tu-a na ngasa matte uh pawlkhat / 
+    → Jesuh in amaute kiangah, “Tu-a na ngasa matte-te pawlkhat / 
 mavang — shalt (prosperous | sought | jerusalem)
     → Na khut tawh na sep thaman na ne ding / 
 maw — eat (take | flea | sawest)
@@ -6053,9 +6053,9 @@ medeba — medeba (waste | plain | over)
 meek — snap (knead | cakes | bring | offering)
     → Moses in, “Na cih bang hita hen! Na maitang kong / 
 meekna — basket (store | blessed | cursed)
-    → Na seengte uh leh na annel meekna kuangte uhah thupha / 
+    → Na seengte-te leh na annel meekna kuangte uhah thupha / 
 meel — transmute (countenance | face | fair | beauty)
-    → Moses leh Elijah ahi nihte in meel lamdangin kilang uh a, / And, behold, there talked with him two men, which were Moses and Elias:
+    → Moses leh Elijah ahi nihte in meel lamdangin kilang-te a, / And, behold, there talked with him two men, which were Moses and Elias:
 meengkhia — burgeon (candlestick | side | thereof | branches)
     → A pang panin hiang guk meengkhia ding / 
 meet — shear (usury | lay | nor | sanctify)
@@ -6071,7 +6071,7 @@ meh — pottage (pot | feed | day)
 mehetabel — daughter (mehetabel | afterward | name)
     → ama zi' min Mehetabel hi / 
 mehteh — bitter (eat | fire | unleavened)
-    → Amaute in tua zanin a sa hangkeu-in ne ding uh / 
+    → Amaute in tua zanin a sa hangkeu-in ne ding-te / 
 mehujael — mehujael (begat | irad | methusael)
     → Enok sung panin Irad suak / 
 mei — fire (burnt | offering | saith)
@@ -6112,7 +6112,7 @@ meiphualpi — went (wood | furnace | smoke)
     → Sodom leh Gomorrah leh kuamte khempeuh lam nga sukin khuadak / 
 meiphualpikhu — smoke (altogether | because | mount)
 meisuang — igneous (water | rock | time | sharp)
-    → a an neihteng khempeuh uh laksak na hih manun / 
+    → a an neihteng khempeuh-te laksak na hih manun / 
 meivak — torce (missing | oil | light | lamps)
     → Topa’ mai-ah meivak koih hi. / And he lighted the lamps before the
 meivakkhuam — candlestick (bowl | pure | there)
@@ -6124,7 +6124,7 @@ mejarkon — border (rakkon | before | jarkon)
 mekkedah — kings (five | told | joshua)
     → Tua ciangin Joshua kiangah, “Kumpi ngate Mekkedah leihawm sungah / 
 mekna — being (before | leavened | kneadingtroughs)
-    → “Na seengte uh leh na annel mekna kuangte uhah thupha / 
+    → “Na seengte-te leh na annel mekna kuangte uhah thupha / 
 mel — day (fair | very | men)
     → A mel hoih, a ngek dikdek, Zion’ tanu ka susia ding hi. / I have likened the daughter of Zion to a comely and delicate woman.
 meladah — moladah (shema | amam)
@@ -6146,7 +6146,7 @@ meshek — magog (javan | lud | sojourn)
 mesopotamia — mesopotamia (son | anger | sent)
     → Tua ciangin a nasempa in a topa' kalaohte sawm la-in paikhia / 
 met — heads (hair | shear | behold)
-    → Dedan, Tema, Buz leh a sam uh a tom met khempeuhte; / Dedan, and Tema, and Buz, and all that are in the utmost corners,
+    → Dedan, Tema, Buz leh a sam-te a tom met khempeuhte; / Dedan, and Tema, and Buz, and all that are in the utmost corners,
 methuselah — methuselah (begat | enoch | after)
     → Jared’ ta Enok, Enok’ ta Methuselah, Methuselah’ ta Lamek; / Enoch, Methuselah, Lamech,
 methushael — methusael (begat | mehujael | irad)
@@ -6156,12 +6156,12 @@ metna — conceal (nabal | blood | thou)
 mette — hirah (heard | water | beside)
     → Absalom in kumpipa' tapate khempeuh sam hi. / 
 mettol — neither (head | thine | bald)
-    → “Amaute in a lu uh mettol loin / 
+    → “Amaute in a lu-te mettol loin / 
 mezahab — daughter (name | pau | wife)
 mial — dark (missing | hour | darkness | darkened)
     → Ni leh kha mial a, aksite zong taang nawn lo hi. / The sun and the moon shall be darkened, and the stars shall withdraw their shining.
 mibsam — mibsam (son | kedar | adbeel)
-    → Shawl tapa Shallum, a tapa Mibsam, a tapa Mishma ahi uh hi. / Shallum his son, Mibsam his son, Mishma his son.
+    → Shawl tapa Shallum, a tapa Mibsam, a tapa Mishma ahi-te hi. / Shallum his son, Mibsam his son, Mishma his son.
 mibzar — duke (teman | mibzar | kenaz)
 midang — another (missing | stranger | man)
     → amah pai-in midang khat’ zi va suak a, / And when she is departed out of his house, she may go and be another man's wife.
@@ -6172,13 +6172,13 @@ middin — middin (arabah | secacah | wilderness)
 midian — midian (sons | slain | israel)
     → ”Midian mite gimsak gawp in la, amaute vat gawp in; / Vex the Midianites, and smite them:
 midiante — against (children | yourselves | evil)
-    → Midiante hangin Israel mite Topa tungah a kiko uh ciangin, / And it came to pass, when the children of Israel cried unto the
+    → Midiante hangin Israel mite Topa tungah a kiko-te ciangin, / And it came to pass, when the children of Israel cried unto the
 migdalel — migdal (beth | iron | horem)
     → leh Bethshemesh — khuapi sawmlekua / 
 migdalgad — gad (migdal | zenan | hadashah)
     → Tua banah Zenan, Hadashah, Migdalgad, / Zenan, and Hadashah, and Migdal–gad,
 migdol — egypt (israel | pitched | thus)
-    → Baalzefon nisuahna lama om Pihahiroth lamah kihei kik uh / 
+    → Baalzefon nisuahna lama om Pihahiroth lamah kihei kik-te / 
 migilote — wicked (earth | thou | god)
     → migilote’ sawm simna, thusia bawlte’ vaihawmna, / Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 migitna — courtesy (magnified | thou | voice | goodness)
@@ -6190,7 +6190,7 @@ mihingte — mankind (people | man | thou | there)
 mihoih — man (drunkenness | just | preserve)
     → Naupangte nangawn mi citak mihoih ahihna, a gamtatna panun kimukhia thei hi. / Even a child is known by his doings, whether his work be pure, and whether it be right.
 mihon — mob (congregation | against | children | israel)
-    → Israel mihon khempeuhin hih ding uh hi. / All the congregation of Israel shall keep it.
+    → Israel mihon khempeuhin hih ding-te hi. / All the congregation of Israel shall keep it.
 mihonpi — crowd (multitude | people | could | great)
     → Tua khit ciangin Zeisu in mihonpi leh a nungzuite thu a hilhinah, / Then spake Jesus to the multitude, and to his disciples,
 mihonpite — people (multitude | saw | disciples)
@@ -6212,13 +6212,13 @@ milimte — images (made | idols | down)
 milip — every (man | people | behold)
     → Tua ahih ciangin Joshua in a milip-in amau’ gam ciatah / 
 milipin — number (according | every | things)
-    → Tua ciangin a milipin a van uh leilakah ngasuk uh / 
+    → Tua ciangin a milipin a van-te leilakah ngasuk-te / 
 milkah — milcah (hoglah | father | saying)
     → Bethuel pen Rebekah' pa ahi hi. Milkah in Abraham' sanggam / 
 milmial — darkish (skin | bright | spots)
     → amah a siang hi ding hi. / 
 mimat — your (moreover | little | ones)
-    → Mimat mite nungta lai uh hi. / 
+    → Mimat mite nungta lai-te hi. / 
 mimkhau — thing (arms | thread | take)
     → nangma-a' ahi na khat peuhpeuh ahi zongin ka la kei ding hi. / 
 min — noun (name | missing | called | thou)
@@ -6278,7 +6278,7 @@ mishrefoth — hill (inhabitants | country | lebanon)
 misi — dead (man | before | bury)
     → A kilawm gamtatna panin a pialkhiate, misi honte’ lakah tung hi. / The man that wandereth out of the way of understanding shall remain in the congregation of the dead.
 misia — drunkenness (yea | backslider | cleanseth)
-    → Misia gam nawlah pai-in Troas khua-ah a tung uh hi. / And they passing by Mysia came down to Troas.
+    → Misia gam nawlah pai-in Troas khua-ah a tung-te hi. / And they passing by Mysia came down to Troas.
 misiamte — truth (israel | answered | rejoiced)
     → “Vantung leh leitung Topa ahi ka Pa aw / 
 misimna — takest (give | every | one)
@@ -6295,15 +6295,15 @@ mite'tung — silver (jewels | moses | borrowed)
 mithatte — suburbs (hebron | mount | bashan)
     → Efraim mualtung gam-a om mithatte’ ading khuapi Shekhem a lonona gamte tawh / 
 mithkah — pitched (went | mithcah | tarah)
-    → Terah panin dingkhia uh a, Mithkah-ah giahphual sat uh hi. / And they removed from Tarah, and pitched in Mithcah.
+    → Terah panin dingkhia-te a, Mithkah-ah giahphual sat-te hi. / And they removed from Tarah, and pitched in Mithcah.
 mitkhu — brae (eyebrows | down | shave | hair)
     → i khitui a luan’ theih nading / 
 mitphial — magic (called | ears | times | shew)
-    → Na mitphial siamnate uh susia-in / 
+    → Na mitphial siamnate-te susia-in / 
 mittang — eye-ball (missing | eyes | tooth | remember)
     → Na mittang in hong puksak leh, na khelkhia in. / [Missing]
 mittaw — blind (missing | jesus | called)
-    → pum langkhat si akipan cina tampite a lum uh hi. / 
+    → pum langkhat si akipan cina tampite a lum-te hi. / 
 mittawte — missing (lame | blind | curse)
     → mittawte lam hilh mi, khuamial sungah a omte khuavaksak mi, / And art confident that thou thyself art a guide of the blind, a light of them which are in darkness,
 mitte — eyes (frontlets | see | mine)
@@ -6317,7 +6317,7 @@ mizpah — came (mizpah | heard | together)
 mizpeh — mizpeh (thence | moab | david)
     → { Topa } in Israel-te' khutsungah amaute pia / 
 mizzah — shammah (zerah | these | duke)
-    → Re-u-el’ tapate in: Nahath, Zerah, Shammah, leh Mizzah ahi uh hi. / The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.
+    → Re-u-el’ tapate in: Nahath, Zerah, Shammah, leh Mizzah ahi-te hi. / The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.
 moab — moab (israel | king | again)
     → Edom, Moab leh Ammon mite; / Edom, and Moab, and the children of Ammon,
 moabte — consumed (moab | corruption | high)
@@ -6346,7 +6346,7 @@ moman — surely (money | king's | dowry)
 mong — end (thou | shalt | ends)
     → puantualpi mong kimkotah a gah bangin na bawl ding hi. / A golden bell and a pomegranate, a golden bell and a pomegranate, upon the hem of the robe round about.
 monga — etham (end | valley | hinnom)
-    → a gam monga om Etham-ah giahphual sat uh hi. / 
+    → a gam monga om Etham-ah giahphual sat-te hi. / 
 mongah — shalt (toward | before | saith)
     → Awmdal-a dingin kham kual nih na bawl ding / 
 mongdong — push (horns | like | thousands)
@@ -6363,7 +6363,7 @@ moriah — whom (began | son | take)
 moserah — journey (children | there | israel)
     → tapa Eleazar in siampi na sem hi. / 
 moseroth — encamped (departed | moseroth | hashmonah)
-    → Hashmonah panin dingkhia uh a, Moseroth-ah giahphual sat uh hi. / And they departed from Hashmonah, and encamped at Moseroth.
+    → Hashmonah panin dingkhia-te a, Moseroth-ah giahphual sat-te hi. / And they departed from Hashmonah, and encamped at Moseroth.
 moses — moses (israel | congregation | missing)
     → Topa in Moses leh Aaron’ tungah, / And the
 moses'tung — moses (brought | received | offering)
@@ -6412,9 +6412,9 @@ muh — saw (missing | jesus | israel)
 muhah — where (wilderness | thou | hast)
     → Moses in Israel-te khempeuh samin amaute kiangah / 
 muhdah — missing (hated | hate | these)
-    → muhdah khuampi na phut kei ding uh hi. / 
+    → muhdah khuampi na phut kei ding-te hi. / 
 muhdahhuai — detestable (saith | pity | abominations | thou)
-    → amaute' lakah a om a milimte uh na mu khin uh hi. / 
+    → amaute' lakah a om a milimte-te na mu khin-te hi. / 
 muhdahna — a-nimosity (hatred | envy | wherewith | until)
     → Mihaipa in ama hehna sih lawh a, muhdahna in sihna piangsak hi. / For wrath killeth the foolish man, and envy slayeth the silly one.
 muhin — fault (joshua | joab | king)
@@ -6430,7 +6430,7 @@ muk — lip (lips | mouth | upper | offering)
 mukhia — contrive (behold | company | people | search)
     → leh nopna in bangmah-a a kiman’ lohna ka mukhia hi. / 
 mukik — salvation (see | missing | answering)
-    → Tua ciangin amaute in khua mukik uh / 
+    → Tua ciangin amaute in khua mukik-te / 
 mul — hair (there | like | shave)
     → Moses in, “Na cih bang hita hen! Na maitang kong / 
 mulkiatna — razor (shave | vow | sharp)
@@ -6511,7 +6511,7 @@ nahor — nahor (son | begat | serug)
 nahshon — nahshon (children | son | amminadab)
     → Judah sung panin Amminadab’ tapa Nahshon; / Of Judah; Nahshon the son of Amminadab.
 nahthel — enemies (taken | lands | leaf)
-    → Kote khempeuh mawhnei mi ka hi khin uh / 
+    → Kote khempeuh mawhnei mi ka hi khin-te / 
 nai — oclock (near | missing | hand | come)
     → Ka haina hangin ka liamnate nai-in uih a, / My wounds stink and are corrupt because of my foolishness.
 naih — close (against | kin | thou | apart)
@@ -6531,7 +6531,7 @@ nakpi — drastic (great | voice | greatly | there)
 nalamdang — phenomenon (wonders | many | sign | signs)
     → Pasian in Paul’ khut tungah nalamdang liante lak a, / And God wrought special miracles by the hands of Paul:
 nalamdangte — works (wonders | those | aaron)
-    → Ham’ gam sungah bawl uh hi. / 
+    → Ham’ gam sungah bawl-te hi. / 
 nalamgdang — signs (nation | take | midst)
 nam — kiss (after | kissed | every | tribe)
     → mu-meika, musan nam khempeuh, / And the vulture, and the kite after his kind;
@@ -6593,7 +6593,7 @@ nasemnu — handmaid (thou | thine | lord)
 nasempa — wright (servant | missing | thou | lord)
     → Nasempa in Isaak' kiangah a gamtatnasa khempeuh gen hi. / And the servant told Isaac all things that he had done.
 nasempate — sabbath (day | seventh)
-    → peemtate in ahi zongin na bangmah na sem kei ding uh hi. / 
+    → peemtate in ahi zongin na bangmah na sem kei ding-te hi. / 
 nasemte — servants (missing | king | came)
     → Kumpi Hezekiah’ nasemte Isaiah kiangah hong tun’ ciangin, / So the servants of king Hezekiah came to Isaiah.
 nasep — duty (work | thou | service | levites)
@@ -6632,15 +6632,15 @@ naupaii — strive (draweth | child | woman)
 naupaina — multiply (sorrow | woman | greatly)
     → Tua ciangin numei kiangah, “Naupaina-ah na gimna nakpi takin ka khangsak ding / 
 naupang — child (missing | house | little)
-    → Kongzing khempeuh ah numei naupang kimawlin phezaizai ding uh hi. / And the streets of the city shall be full of boys and girls playing in the streets thereof.
+    → Kongzing khempeuh ah numei naupang kimawlin phezaizai ding-te hi. / And the streets of the city shall be full of boys and girls playing in the streets thereof.
 naupangte — children (missing | little | saw)
     → Nungak leh tangvalte, teeksiate leh naupangte! / Both young men, and maidens; old men, and children:
 nausia — nothing (there | cast | young)
     → Note' leitangah kuamah nausia omlo ding / 
 nausuah — travailed (come | ephrath | rachel)
-    → Tua ciangin Bethel panin amaute dingkhia uh / 
+    → Tua ciangin Bethel panin amaute dingkhia-te / 
 nausuak — came (pain | took | untimely)
-    → numei nausuak na a sa bangin amaute liinggawp uh hi. / Fear took hold upon them there, and pain, as of a woman in travail.
+    → numei nausuak na a sa bangin amaute liinggawp-te hi. / Fear took hold upon them there, and pain, as of a woman in travail.
 nauta — kept (saith | led | about)
     → Hih bangin maang ka muh khit ciangin / 
 naute — brethren (men | would | beseech)
@@ -6664,9 +6664,9 @@ nawksak — land (feet | pass | because)
 nawl — shalt (curtain | field | etham)
     → Nitak simin Zeisu in khua nawl ah a paikhia hi. / And when even was come, he went out of the city.
 nawlah — curtain (edge | newly | these)
-    → Misia gam nawlah pai-in Troas khua-ah a tung uh hi. / And they passing by Mysia came down to Troas.
+    → Misia gam nawlah pai-in Troas khua-ah a tung-te hi. / And they passing by Mysia came down to Troas.
 nawlhui — off (make | baldness | head)
-    → “Amaute in a lu uh mettol loin / 
+    → “Amaute in a lu-te mettol loin / 
 nawlnung — uttermost (coupling | another | edge)
     → Kulhkong pua panin inndei nawlnung kawm pua dong lampi sauna / 
 nawmvalh — swallowed (time | say | deep)
@@ -6678,13 +6678,13 @@ nawn — saith (more | any | thou)
 nawt — drive (thus | horns | down | grow)
     → Moses in, “Na cih bang hita hen! Na maitang kong / 
 nawtin — onward (compass | trumpets | side)
-    → A khualzin sung tawntung uh biakbuk tung panin meii / 
+    → A khualzin sung tawntung-te biakbuk tung panin meii / 
 nazat — vessels (altar | tabernacle | thereof)
     → sabuai leh a nazat khempeuhte leh Ompihna Anlum; / The table, and all the vessels thereof, and the shewbread,
 nazatte — vessels (altar | make | furniture)
     → sabuai a zawlte leh a nazatte khempeuh tawh, Ompihna Anlum; / The table, and his staves, and all his vessels, and the shewbread,
 nazir — womb (vow | fulfilled | nazarite)
-    → Ahi zongin note in Nazir mite leenggahzu na dawnsak uh / 
+    → Ahi zongin note in Nazir mite leenggahzu na dawnsak-te / 
 neah — neah (goeth | out | rimmon)
     → Tua panin Daberath-ah pai-in Jafia ciang ban / 
 nebaioth — ishmael (daughter | ishmael's | nebaioth)
@@ -6735,17 +6735,17 @@ nek — eat (missing | meat | hath)
 nekna — neither (thou | upper | bear)
     → An nekna phual-ah hong paipih in la / 
 neksak — children (thou | according | hath)
-    → na ganhingte uh susia-in, note mi tawmno khat hong suah ding / 
+    → na ganhingte-te susia-in, note mi tawmno khat hong suah ding / 
 neksakte — save (men | portion | only)
 nel — moist (shalt | deal | fine | oil)
     → Pawlkhatte, suang kitawphahna leilak tu / 
 nelh — perished (mouth | thine | god)
-    → Cu nu cu a nelh tuk! / 
+    → tua nu tua a nelh tuk! / 
 nemang — eat (consume | shalt | your)
-    → “Khaici tampi lo-ah na tuh ding uh / 
+    → “Khaici tampi lo-ah na tuh ding-te / 
 nemuel — eliab (families | nemuel | sons)
-    → Simeon' tapate: Nemuel, Jamin, Jarib, Zerah, leh Shaul ahi uh hi. / The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
-nen — ram (offering | knew | besought)
+    → Simeon' tapate: Nemuel, Jamin, Jarib, Zerah, leh Shaul ahi-te hi. / The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
+nen — gam (offering | knew | besought)
     → Amaute pen, nen’niamna, haksatna leh dahna tawh kikhiamin a kiniamkoih ciangin, / Again, they are minished and brought low through oppression, affliction, and sorrow.
 nengcip — impress (angel | transgression | sheaves | pressed)
     → Siklukhu khuk bangin hotkhiatna nei un la / 
@@ -6755,7 +6755,7 @@ nengnengte — service (instruments | about | sockets)
     → amaute' puak dingin a kiseh nate a minin na lo ding hi. / 
 nengniam — shalt (land | stranger | defraud)
     → Tu-in Siria kumpipa Hazael in Jehoahaz’ hun sung khempeuh Israel nengniam hi. / But Hazael king of Syria oppressed Israel all the days of Jehoahaz.
-nenin — pieces (ram | shalt | wood)
+nenin — pieces (gam | shalt | wood)
     → amah in biakna tau tungah tuate a hal hi. / 
 nenniamin — against (soul | sin | commit)
     → Lemon kisuai bangin nenniamin i om hi. / 
@@ -6833,7 +6833,7 @@ ngaltak — shin (feet | creeping | thing | goeth)
 ngam — dare (any | lion | thou | therefore)
     → Keimah in ka nuntakna pia ngamin, ka nuntakna ka ap ngam hi. / Wherefore do I take my flesh in my teeth, and put my life in mine hand?
 ngamna — ashes (fool | spirit | speak)
-    → lau hetloin Pasian' thu gen ngamna-in neizaw uh hi. / 
+    → lau hetloin Pasian' thu gen ngamna-in neizaw-te hi. / 
 ngana — fifth (year | month | went)
     → a lina Nethanel, a ngana Raddai, / Nethaneel the fourth, Raddai the fifth,
 ngasa — fish (saith | fishes | missing | likeness)
@@ -6841,11 +6841,11 @@ ngasa — fish (saith | fishes | missing | likeness)
 ngasate — sea (taken | egypt | things)
     → Amah in amau’ tuite sisan suak sak / 
 ngasuk — down (let | drink | say)
-    → Tua ciangin a milipin a van uh leilakah ngasuk uh / 
+    → Tua ciangin a milipin a van-te leilakah ngasuk-te / 
 ngat — ear (give | another | pleased)
     → na bil na ngat ding hi. / 
 ngate — curtains (king | those | joined)
-    → Hih kumpi ngate tai-in Makkedah leihawm sungah bu uh hi. / But these five kings fled, and hid themselves in a cave at Makkedah.
+    → Hih kumpi ngate tai-in Makkedah leihawm sungah bu-te hi. / But these five kings fled, and hid themselves in a cave at Makkedah.
 ngatin — before (king | face | ground)
     → mai kawm lam ngatin Topa tungah thungen a, / 
 ngatsak — flock (flocks | laban | put)
@@ -6878,7 +6878,7 @@ ngen — appeal (missing | prayed | jesus | lord)
 ngenin — prayed (cried | morning | famished)
     → Topa’ hong huh ding ngenin ka kiko / 
 nget — missing (petition | name | father)
-    → Kei min suangin na nget peuhmah uh kong hih ding hi.” / [Missing]
+    → Kei min suangin na nget peuhmah-te kong hih ding hi.” / [Missing]
 ngetna — imprecation (according | hear | heard | thou)
     → Solomon in hih thu a ngetna in Topa lungkimsak hi. / And the speech pleased the Lord, that Solomon had asked this thing.
 ngetsak — god (thou | solomon | shunammite)
@@ -6923,17 +6923,17 @@ nidang — thou (missing | past | beheld)
 nidangin — seir (harp | enmity | know)
     → Zuauna lungsim in a suksiat khitsa / 
 niguk — thus (camp | city | six)
-    → Khuapi kimkotah galkap mi khempeuh khatvei na pai ding uh / 
+    → Khuapi kimkotah galkap mi khempeuh khatvei na pai ding-te / 
 nih — bipartite (twelve | missing | hundred | years)
     → Bethazmaveth khuami sawmli-le-nih ahi hi. / The men of Beth–azmaveth, forty and two.
 nihin — flesh (israel | sea | divided)
-    → nei khempeuh nih nihin Noah tawh teembaw sungah pai uh hi. / 
+    → nei khempeuh nih nihin Noah tawh teembaw sungah pai-te hi. / 
 nihna — second (month | day | third)
     → A ukpi Ezer, a nihna Obadiah, a thumna Eliab, / Ezer the first, Obadiah the second, Eliab the third,
 nihta — day (first | year | continually)
     → pha tuuno nihta hi ding hi. / 
 nihte — twelve (both | sons | flanks)
-    → Moses leh Elijah ahi nihte in meel lamdangin kilang uh a, / And, behold, there talked with him two men, which were Moses and Elias:
+    → Moses leh Elijah ahi nihte in meel lamdangin kilang-te a, / And, behold, there talked with him two men, which were Moses and Elias:
 niin — crummy (seventh | day | sabbath)
     → Amah in a nasep sem hi. / He is doing his work.
 nilh — anoint (oil | anointing | anointed | head)
@@ -6949,13 +6949,13 @@ nilkhia — off (away | consumed | transgressions)
 niloh — day (oppressed | any | taken)
     → Hong hehpih loin a khut tawh a hong tum niloh hi. / Surely against me is he turned; he turneth his hand against me all the day.
 nilohin — look (mine | defiled | god)
-    → Sun nilohin ka galte in kei hong zahko uh / 
+    → Sun nilohin ka galte in kei hong zahko-te / 
 nimrah — nimrah (ataroth | dibon | jazer)
     → “Ataroth, Dibon, Jazer, Nimrah, Heshbon, Elealeh, Sebam, Nebo, leh Beon, / Ataroth, and Dibon, and Jazer, and Nimrah, and Heshbon, and Elealeh, and Shebam, and Nebo, and Beon,
 nimrod — nimrod (before | begat | land)
     → Kush in Nimrod’ pa hi / 
 nin — catamenia (unclean | until | defiled | priest)
-    → nin a khaknelh vuk leh tuikhal bangin na zuautat uh hi. / Which are blackish by reason of the ice, and wherein the snow is hid:
+    → nin a khaknelh vuk leh tuikhal bangin na zuautat-te hi. / Which are blackish by reason of the ice, and wherein the snow is hid:
 nineveh — nineveh (missing | great | city)
     → Tua gam panin Assiria gamsungah amah pai a, Nineveh, Rehoboth-Ir, Kalah leh / Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,
 ning — missing (thou | early | know)
@@ -6985,13 +6985,13 @@ nisuh — jujube (palm | posts | jericho | like)
 nit — days (thing | uncleanness | uncover)
     → Amah a nit hun sungin a lupna leh a tutna / 
 nitak — evening (water | unclean | come)
-    → Nitak ciangin a nungzuite tuili-ah paisuk uh a, / And when even was now come, his disciples went down unto the sea,
+    → Nitak ciangin a nungzuite tuili-ah paisuk-te a, / And when even was now come, his disciples went down unto the sea,
 nitakin — day (drink | bread | angels)
     → Ni sawmli sung zing leh nitakin Filistiapa hong pai-in hong ding hi. / And the Philistine drew near morning and evening, and presented himself forty days.
 nite — days (new | missing | whole)
-    → Note in nite, khate, hunte, kumte na tang ta uh hi! / Ye observe days, and months, and times, and years.
+    → Note in nite, khate, hunte, kumte na tang ta-te hi! / Ye observe days, and months, and times, and years.
 nithum — after (flesh | touch | there)
-    → Nithum a cin’ni ciangin giahphualah uliante pai uh a, / And it came to pass after three days, that the officers went through the host;
+    → Nithum a cin’ni ciangin giahphualah uliante pai-te a, / And it came to pass after three days, that the officers went through the host;
 nitna — impurity (whatsoever | tabernacle | eateth | any)
     → lamen mi khempeuh in Topa / 
 nitsak — nations (put | head | strong)
@@ -7015,13 +7015,13 @@ noh — sporting (looked | out | window)
 nomau — your (god | missing | jesus)
     → Khazih’ thu tecipan’na nomau lakah a kip ahih ciangin / I thank my God always on your behalf, for the grace of God which is given you by Jesus Christ;
 nong — thou (missing | hast | saith)
-    → Zeisu in zong, “Tu-in nong um uh hiam? / Jesus answered them,
+    → Zeisu in zong, “Tu-in nong um-te hiam? / Jesus answered them,
 nono — flirt (hand | earth | full | holiness)
     → amau’ adingin inn hoih nono a lam leitung kumpite leh a uliante, / With kings and counsellors of the earth, which built desolate places for themselves;
 nop — missing (thou | done | thing)
     → “Nang tung panin kong nget nop kong thum nop thu in: / 
 nopna — pleasure (peace | jesus | god | what)
-    → Nopna lampi amau in a thei kei uh hi. / And the way of peace have they not known:
+    → Nopna lampi amau in a thei kei-te hi. / And the way of peace have they not known:
 nopsak — thou (peace | father | would)
     → Pawlkhatte ahih leh nopsak cih thei kha ngei loin / 
 nopsakna — peace (covenant | sware | enter)
@@ -7049,9 +7049,9 @@ nuamin — rejoice (doest | hear | statutes)
 nuampa — slay (thing | there | man)
     → lokho lopi-in an la nuampa na hi hi,’ a hong ci hi. / 
 nuamsa — enjoy (walk | therefore | pass | happy)
-    → Gitlohna, annek bangin nuamsa uh a, ngongtatna, tuidawn bangin ngaihsun uh hi. / For they eat the bread of wickedness, and drink the wine of violence.
+    → Gitlohna, annek bangin nuamsa-te a, ngongtatna, tuidawn bangin ngaihsun-te hi. / For they eat the bread of wickedness, and drink the wine of violence.
 nuamtakin — gaily (fathers | speak | ease | days)
-    → gamlakah nuamtakin gamta-in a lum thei ding uh hi. / 
+    → gamlakah nuamtakin gamta-in a lum thei ding-te hi. / 
 nuh — lubricate (right | horns | offering | altar)
     → Nangmah in kisilna kuang leh / 
 nuhin — thou (toe | horns | therein)
@@ -7087,7 +7087,7 @@ nungaknu — ran (damsel | told | mother)
 nungakte — missing (daughters | men | virgins)
     → Papite leh nupite, khanghamte leh khangmoite, tangvalte leh nungakte, / With thee also will I break in pieces man and woman; and with thee will I break in pieces old and young; and with thee will I break in pieces the young man and the maid;
 nungdalte — blowing (ark | west | your)
-    → Tua ciangin peengkul a tum siampite' mai-ah hiam tawi mite pai uh / 
+    → Tua ciangin peengkul a tum siampite' mai-ah hiam tawi mite pai-te / 
 nungdelh — after (horsemen | away | vexation)
     → “Kote nong nungdelh a, na hong that khinzo hi. Heh / 
 nungguh — offering (sacrifice | peace | made)
@@ -7101,11 +7101,11 @@ nungkiat — backward (heels | rider | fall)
 nungkik — return (back | sword | turneth)
     → Tuipi aw, na taikhiat nading, Jordan gun aw, na nungkik nading, / What ailed thee, O thou sea, that thou fleddest? thou Jordan, that thou wast driven back?
 nungkikin — because (wise | own | fled)
-    → a muh loh uh ciangin Jerusalem khua-ah nungkikin a zong uh hi. / And when they found him not, they turned back again to Jerusalem, seeking him.
+    → a muh loh-te ciangin Jerusalem khua-ah nungkikin a zong-te hi. / And when they found him not, they turned back again to Jerusalem, seeking him.
 nunglam — backward (tabernacle | jeroboam | words | raised)
     → Nitumna lam biakbuk nunglam adingin amah in khuampeek guk bawl hi. / And for the sides of the tabernacle westward he made six boards.
 nungngatin — against (trespassed | sat | over)
-    → biakna tau nungngatin nisuahna lam nga-in nisuak tung na bia uh hi. / 
+    → biakna tau nungngatin nisuahna lam nga-in nisuak tung na bia-te hi. / 
 nungsak — blow (earth | thereof | saith)
     → Amah in vantungah nisuahna huih nungsak-in / 
 nungsang — seeing (come | thou | king)
@@ -7119,7 +7119,7 @@ nungtate — missing (every | driven | blotted)
 nungzui — disciples (heard | called | after)
     → Simon Piter’ nau Andru a kici ama nungzui khat in, / One of his disciples, Andrew, Simon Peter's brother, saith unto him,
 nungzuite — disciples (missing | went | came)
-    → Nungzuite tawh sawtpi a omkhawm uh hi. / And there they abode long time with the disciples.
+    → Nungzuite tawh sawtpi a omkhawm-te hi. / And there they abode long time with the disciples.
 nuntak — missing (thirty | life | years)
     → Ciangduai tawh sat lecin, nuntak lawhzaw ding hi. / Thou shalt beat him with the rod, and shalt deliver his soul from hell.
 nuntakna — life (missing | jesus | live)
@@ -7141,10 +7141,10 @@ nusiatte — beasts (left | gathering | like)
 nutate — wickedness (fire | both | there)
     → Pasal khat in zi nei-in / 
 nute — missing (come | sabbath | return)
-    → a nute kiangpan paikhia-in ciahkik nawn lo uh hi. / 
+    → a nute kiangpan paikhia-in ciahkik nawn lo-te hi. / 
 obal — obal (abimael | sheba)
 oboth — forward (oboth | pitched | departed)
-    → Israel mite dingkhia uh a, Oboth munah giahphual sat uh hi. / And the children of Israel set forward, and pitched in Oboth.
+    → Israel mite dingkhia-te a, Oboth munah giahphual sat-te hi. / And the children of Israel set forward, and pitched in Oboth.
 ofir — ophir (gold | great | ships)
     → na kham neihte leivui bang lelin ngaihsunin / 
 ofni — ammoni (chephar | ophni | geba)
@@ -7176,7 +7176,7 @@ omer — ellasar (served | chedorlaomer | king)
 omin — place (house | there | land)
     → Tua kherubte gei-ah leengpei khat ciat omin / 
 omkhawm — bid (missing | amen | thou | god)
-    → Nungzuite tawh sawtpi a omkhawm uh hi. / And there they abode long time with the disciples.
+    → Nungzuite tawh sawtpi a omkhawm-te hi. / And there they abode long time with the disciples.
 omkhawmte — drink (earthquake | asked | heavy)
     → omkhawmte khempeuh bek hing ding hi. / 
 omkhop — day (faithful | missing | season)
@@ -7186,7 +7186,7 @@ omkik — saith (there | again | therefore)
 ommawk — shalt (why | more | mourneth)
     → dai dide-in om kei in. Lungnuamin / 
 omna — apartment (missing | before | man | went)
-    → Sapul omna peuhah musanete hong kikhawm ding uh hi.” / [Missing]
+    → Sapul omna peuhah musanete hong kikhawm ding-te hi.” / [Missing]
 ompih — saith (people | deliver | lad)
     → Pasian in tua naupang ompih / 
 ompihna — shewbread (table | master | saw)
@@ -7198,7 +7198,7 @@ omsak — impose (lord | until | shalt | your)
 omte — missing (hundred | house | come)
     → Judah gamah a omte in mual tungah tai ta hen. / [Missing]
 omzia — attitude (sitting | welfare | each | micah)
-    → Tu laitak-a na omzia uh lim takin ngaihsun un. / Now therefore thus saith the
+    → Tu laitak-a na omzia-te lim takin ngaihsun un. / Now therefore thus saith the
 omziate — describe (written | jotham | wars)
     → Tu-in Jotham' gamtatna a omlaite / 
 onam — ebal (onam | sons | manahath)
@@ -7208,9 +7208,9 @@ onan — land (onan | knew | judah)
 onik — onyx (ephod | shalt | beryl)
     → siampipuan leh awmdal-a bulh dingin onik suangte ahi hi. / Onyx stones, and stones to be set in the ephod, and in the breastplate.
 othniel — brother (caleb's | cried | died)
-    → Kenaz' tapate: Othniel leh Seraiah ahi uh hi. Othniel' tapate: / 
+    → Kenaz' tapate: Othniel leh Seraiah ahi-te hi. Othniel' tapate: / 
 ozni — family (ozni | oznites | eri)
-    → Ozni pan Ozni behte ahi uh hi; Eri pan Eri / 
+    → Ozni pan Ozni behte ahi-te hi; Eri pan Eri / 
 pa — father (dad | male parent | missing)
     → Naupangte nangawn mi citak mihoih ahihna a gamtatna panun kimukhia thei hi. / Even a child is known by his doings, whether his work be pure, and whether it be right.
 paai — cast (missing | sword | house | god)
@@ -7252,7 +7252,7 @@ paii — missing (your | begotten | waters)
 paikhak — service (children | israel | among)
     → Kikhopna bukah Israel mite-a' dingin na a sem ding leh / 
 paikhawm — accompany (together | went | hundred | walked)
-    → Tua lai takin mihonpite in Zeisu tawh a paikhawm uh hi. / And there went great multitudes with him: and he turned, and said unto them,
+    → Tua lai takin mihonpite in Zeisu tawh a paikhawm-te hi. / And there went great multitudes with him: and he turned, and said unto them,
 paikhia — outgo (went | forth | departed | came)
     → Topa’ hehna amau tungah so a, amah paikhia hi; / And the anger of the
 paikhiapih — know (your | generations | may)
@@ -7263,17 +7263,17 @@ paikhiat — gone (departed | missing | son)
 paikhiatna — egress (missing | son | plague | issue)
     → Na khat peuhpeuh khuavakah pusuah lehang / 
 paikhiatpih — because (hand | egypt | place)
-    → na lungsim uh lianin, salsuahna Izipt gam panin no hong paikhiatpih, / Then thine heart be lifted up, and thou forget the
+    → na lungsim-te lianin, salsuahna Izipt gam panin no hong paikhiatpih, / Then thine heart be lifted up, and thou forget the
 paikhiatpihin — lead (same | fathers | therein)
-    → Baal inn sunga a om khuampi paikhiatpihin hal uh hi. / And they brought forth the images out of the house of Baal, and burned them.
+    → Baal inn sunga a om khuampi paikhiatpihin hal-te hi. / And they brought forth the images out of the house of Baal, and burned them.
 paikhiatpihna — thou (israel | make | servant)
-    → gente pen hih Moses leh Aaron ahi uh hi. / 
+    → gente pen hih Moses leh Aaron ahi-te hi. / 
 paikhiatpihpa — israel (egypt | among | arm)
     → Amau' gamsung pan Israel-te a paikhiatpihpa tungah / 
 paikhiatsak — disciples (caused | away | multitude)
     → Pasian in ka pa' inn panin hong paikhiatsak ciangin ama kiangah / 
 paikhit — moses (rock | compass | way)
-    → A sanggamte pawikhamna-ah a paikhit uh ciangin / 
+    → A sanggamte pawikhamna-ah a paikhit-te ciangin / 
 paikhopna — face (people | goest | separated)
     → Bang hang hiam cih leh keimah leh nangma mite in / 
 paikik — again (come | returned | own)
@@ -7287,9 +7287,9 @@ painasa — through (walked | israel | path)
 paipa — missing (cometh | therefore | fear)
     → { Topa' } min tawh hong paipa in thupha ngah / 
 paipai — flesh (cast | walls | sacrifices)
-    → Amaute sun leh zanin kulhpi tungah kot paipai uh / 
+    → Amaute sun leh zanin kulhpi tungah kot paipai-te / 
 paipih — brought (house | offering | bring)
-    → Amaute in tua mittawpa Farisaite kiangah a paipih uh hi. / They brought to the Pharisees him that aforetime was blind.
+    → Amaute in tua mittawpa Farisaite kiangah a paipih-te hi. / They brought to the Pharisees him that aforetime was blind.
 paipihin — sons (tabernacle | before | congregation)
     → Amah in meihal biakna paipihin ngeina kip omsa bangin pia hi. / And he brought the burnt offering, and offered it according to the manner.
 paipihna — brought (doings | hearts | whither)
@@ -7315,11 +7315,11 @@ paisuakin — trumpets (side | outgoings | northward)
 paisuaksak — pervious (other | boards | one | end)
     → Ama hauhna in mi hing paisuaksak theilo / 
 paisuk — down (came | egypt | day)
-    → Nitak ciangin a nungzuite tuili-ah paisuk uh a, / And when even was now come, his disciples went down unto the sea,
+    → Nitak ciangin a nungzuite tuili-ah paisuk-te a, / And when even was now come, his disciples went down unto the sea,
 paisukin — down (understand | well | brethren)
     → Tua ahih ciangin mite' kiangah Moses paisukin amaute' kiangah gen hi. / So Moses went down unto the people, and spake unto them.
 paisukna — time (house | olives | against)
-    → Ama nasemte kipanin sawmsimna khat vaihawm uh / 
+    → Ama nasemte kipanin sawmsimna khat vaihawm-te / 
 paitawm — heart (every | one | came)
     → Ka Pa' thu tawh kei hong pai napi-in na hong / 
 paite — come (missing | great | beasts)
@@ -7385,7 +7385,7 @@ panga — there (north | tabernacle | lie)
 pangah — side (put | standard | chambers)
     → Kohathte beh in biakbuk leitaw lam pangah giahphual satin, / The families of the sons of Kohath shall pitch on the side of the tabernacle southward.
 pangin — against (flee | come | balaam)
-    → Kam dang tampi tawh Zeisu lang pangin a zahko uh hi. / And many other things blasphemously spake they against him.
+    → Kam dang tampi tawh Zeisu lang pangin a zahko-te hi. / And many other things blasphemously spake they against him.
 pangkhat — southward (court | side | shalt)
     → Biakbuk pangkhat-a khuampeek-a' ding zawl nga / 
 pangsuk — springs (country | hills | south)
@@ -7415,7 +7415,7 @@ pasalte — husbands (men | both | brethren)
 pasian — God (Lord | deity | the Almighty)
     → Thawhkikna thu panin Pasian in, / [Missing]
 pasiante — gods (make | shalt | brought)
-    → Tua ciangin amah in, ‘Amau’ pasiante, a bukna uh suangpi, / And he shall say, Where are their gods, their rock in whom they trusted,
+    → Tua ciangin amah in, ‘Amau’ pasiante, a bukna-te suangpi, / And he shall say, Where are their gods, their rock in whom they trusted,
 pataukoh — eleazar (war | thousand | every)
     → Moses in amaute' minam khat panin tul khat ciat leh / 
 pataukohna — alarm (aven | blown | trumpet)
@@ -7439,7 +7439,7 @@ paunak — adage (byword | among | proverb | thousand)
 paunate — against (soul | bound | ear)
     → kong paunate hong ngai in la / 
 paupeng — obstacle (pass | knew | stiffhearted | contentious)
-    → Na makaite uh huih in hong mut mangsak ding / 
+    → Na makaite-te huih in hong mut mangsak ding / 
 paupih — against (very | none | seven)
     → Mi khatpeuh in hong paupih leh / 
 paute — spake (words | meddle | word)
@@ -7499,7 +7499,7 @@ pel — avoid (saith | thus | unless | drive)
 peleg — peleg (begat | eber | son)
     → phak khit ciangin amah in Peleg kici tapa khat nei hi. / 
 peleth — took (both | hundred | men)
-    → Jonathan' tapate: Peleth leh Zaza ahi uh hi. Hihte pen / 
+    → Jonathan' tapate: Peleth leh Zaza ahi-te hi. Hihte pen / 
 pelh — hideth (god | went | blessed)
     → Nangma thu ka zuih theih nadingin gamtat sia khempeuh ka pelh hi. / I have refrained my feet from every evil way, that I might keep thy word.
 penah — dwell (there | inner | residue)
@@ -7527,13 +7527,13 @@ perez — pharez (amorites | canaanite | perizzites)
 pet — champ (bones | send | sinews | sorts)
     → Kei hong laihpa pil ta leh hai ta leh / 
 pethor — balaam (beor | son | pethor)
-    → keima galkhatah amaute om uh hi. / 
+    → keima galkhatah amaute om-te hi. / 
 petin — bones (fall | flesh | adam)
     → Dan pen lampi-ah gulpi hi ding / 
 peuh — any (through | man | eat)
     → Abraham in Pasian’ kiangah, “Ishmael hong nungtasak peuh lecin,” ci hi. / And Abraham said unto God, O that Ishmael might live before thee!
 peuhah — whither (missing | before | guilty)
-    → Sapul omna peuhah musanete hong kikhawm ding uh hi.” / [Missing]
+    → Sapul omna peuhah musanete hong kikhawm ding-te hi.” / [Missing]
 peuhmah — missing (man | war | every)
     → “Ganhing tawh a mawh peuhmah kithat ding hi. / Whosoever lieth with a beast shall surely be put to death.
 peuhmahpa — among (eight | days | old)
@@ -7541,15 +7541,15 @@ peuhmahpa — among (eight | days | old)
 peuhmahte — carcase (sheddeth | thereof | touched)
     → Kei hong itte ka it / 
 peuhpeuh — any (went | whatsoever | what)
-    → a utna lam peuhpeuh ah pai thei uh hi. / When they went, they went upon their four sides: and they turned not when they went.
+    → a utna lam peuhpeuh ah pai thei-te hi. / When they went, they went upon their four sides: and they turned not when they went.
 peuhpeuhah — thou (raw | flee | sent)
     → “Hihte khat peuhpeuhah mi khat a mawh ciangin / 
 peuhte — before (host | atonement | either)
     → Na Khempeuh Bawlphatkikna Na khem peuhte bawlphat kikna om ding / 
 pha — overtake (hundred | year | began | first)
-    → Elishama, Eliada, leh Elifelet, kua pha uh hi. / And Elishama, and Eliada, and Eliphelet, nine.
+    → Elishama, Eliada, leh Elifelet, kua pha-te hi. / And Elishama, and Eliada, and Eliphelet, nine.
 phah — pave (strawed | blue | thereon | elders)
-    → Amah a pai lai takin lampi-ah puante a phah uh hi. / And as he went, they spread their clothes in the way.
+    → Amah a pai lai takin lampi-ah puante a phah-te hi. / And as he went, they spread their clothes in the way.
 phai — Tarlac grass (fed | favoured | flags | well)
     → A thau a zol bawngpi sagih Nail gun panin hong paikhia / 
 phak — king (leprosy | plague | years)
@@ -7571,7 +7571,7 @@ phasakin — multiply (establish | make | fruitful)
 phasakna — approval (come | pass)
     → Tua ciangin kumpipa kiangah Daniel pai / 
 phat — approbation (praise | bless | god | give)
-    → keimah hangin Pasian’ min a phat uh hi. / And they glorified God in me.
+    → keimah hangin Pasian’ min a phat-te hi. / And they glorified God in me.
 phate — old (wait | woe | forest)
     → numei ahih leh shekel sawm hi ding hi. / 
 phatna — hosanna (sing | praise | thanks | glory)
@@ -7611,11 +7611,11 @@ phelin — break (set | night | made)
 phelkhaite — pour (water | out | buckets)
     → A phelkhaite panin tui luang ding / 
 phelsakin — images (thou | shalt | down)
-    → a biakna songte uh dengzanin / 
+    → a biakna songte-te dengzanin / 
 pheng — bread (israel | hasty | among)
     → Thu ngaihsun lo-a pheng paupau mipa sangin / 
 phetin — end (voice | gone | hand)
-    → Zingsang khua a vak phetin a late uh tawh mite kisawlkhia hi. / As soon as the morning was light, the men were sent away, they and their asses.
+    → Zingsang khua a vak phetin a late-te tawh mite kisawlkhia hi. / As soon as the morning was light, the men were sent away, they and their asses.
 phetun — sound (hear | both | heard)
     → Amaute in tua a muh phetun lamdang sa / 
 phiahsak — heads (bare | head | clothes)
@@ -7637,17 +7637,17 @@ phiatsak — soul (husband | void | concerning)
 phiaukawi — sickle (weeks | shalt | man)
     → Israel-te pen a lokhawhna tu / 
 phih — flit (spit | foot | face | buffeted)
-    → Zeisu cil tawh phih uh / 
+    → Zeisu cil tawh phih-te / 
 phim — missing (fine | scarlet | linen)
     → “Puanbuk kongkhak dingin a dum / 
 phimpi — bodkin (ear | thou | door | awl)
     → “Babilon khua bang zah takin lian ahi hiam! Kumpi ding leh / 
 phin — anger (forget | provoked | hattaavah)
-    → Amaute in amah ze-et kikkik uh / 
+    → Amaute in amah ze-et kikkik-te / 
 phinin — before (down | fell | forsook)
-    → leh Kibrothhattaavah munte-ah zong { Topa } phinin na hehsak uh hi. / 
+    → leh Kibrothhattaavah munte-ah zong { Topa } phinin na hehsak-te hi. / 
 pho — raised (camp | midst | rock | nets)
-    → amaute in amau-a' dingin giahphual kimkotah tuate a pho uh hi. / 
+    → amaute in amau-a' dingin giahphual kimkotah tuate a pho-te hi. / 
 phong — early (lion | great | dunghill)
     → Harp lasakna leh laiza lasakna aw / 
 phongto — eyes (exalted | none | there)
@@ -7655,7 +7655,7 @@ phongto — eyes (exalted | none | there)
 phot — tell (missing | give | gave)
     → Mihoihte in a kampau ding ngaihsun phot / 
 phottohsak — surely (thou | shalt | way)
-    → tuate phottohsak kikna tawh na huh ding uh hi. / 
+    → tuate phottohsak kikna tawh na huh ding-te hi. / 
 phu — insist (avenge | pass | lord | saw)
     → Ka thu hong mang lo minamte tungah hehna tawh phu / 
 phuahsa — names (after | called | abraham)
@@ -7669,7 +7669,7 @@ phual — wire-worm (pitch | encamp | house | round)
 phualpi — capital (burning | worship | city | strong)
     → Ngai in! Kongzing lampi leh van kizuakna phualpi-ah pilna hong kiko hi. / Wisdom crieth without; she uttereth her voice in the streets:
 phualsat — pitched (people | drew | nigh)
-    → Tua banah Meiphelh zumah phualsat uh hi. / 
+    → Tua banah Meiphelh zumah phualsat-te hi. / 
 phuhsa — set (pillar | inheritance | thou)
     → Mual siangtho tungah ama phuhsa khuapi om hi. / His foundation is in the holy mountains.
 phuisam — accurse (shalt | whom | nations | give)
@@ -7689,7 +7689,7 @@ phukin — images (brook | good | groves)
 phukpai — groves (images | down | destroy)
     → Nangmah in amau' biakna taute phelin / 
 phul — water (well | people | violence)
-    → Tua ciangin Israel mite in hih la sa uh hi: “Tuikhuk aw / 
+    → Tua ciangin Israel mite in hih la sa-te hi: “Tuikhuk aw / 
 phulakna — avenge (arm | belongeth | lord)
     → “Amaute' Pasian koi-ah om ahi hiam?” minam dangte in / 
 phulapa — blood (before | between | congregation)
@@ -7715,7 +7715,7 @@ phunsan — against (congregation | land | gathered)
 phunsanna — murmurings (make | murmur | against)
     → “Hih a gilo mihonte in bang tanvei kei hong phunsan / 
 phunsante — against (your | years | old)
-    → Na luanghawmte uh hih gamlakah lum ding hi. Note khempeuh / 
+    → Na luanghawmte-te hih gamlakah lum ding hi. Note khempeuh / 
 phut — pillar (saith | pillars | any)
     → Tua ahih ciangin Jakob in suang khat la-in khuamin phut hi. / And Jacob took a stone, and set it up for a pillar.
 pia — allot (give | missing | saith | god)
@@ -7733,7 +7733,7 @@ piaknasa — blessing (altar | burnt | offerings)
 piaknate — sacrifices (offerings | sacrifice | over)
     → A maan biakna piaknate lui un la, Topa muang un. / Offer the sacrifices of righteousness, and put your trust in the
 piaknopna — every (one | came | whose)
-    → Piaknopna lungsim na neih nak uh leh na neihlohnate uh / 
+    → Piaknopna lungsim na neih nak-te leh na neihlohnate-te / 
 piakpa — thou (answered | blessed | come)
     → kalaohte-a' ding mun zong om hi,” a ci hi. / 
 piaksa — saith (missing | father | off)
@@ -7771,7 +7771,7 @@ piapa — people (butler | man | pharaoh's)
 piapipa — butler (wroth | told | chief)
     → Ahi zongin an piapipa in Josef phawk nawn loin, amah mangngilh hi. / Yet did not the chief butler remember Joseph, but forgat him.
 piasak — amongst (lord | doers | city)
-    → “Note na thadah uh hi / 
+    → “Note na thadah-te hi / 
 piate — bless (stir | ministers | pity)
     → leitawi a late in a piate’ sila suak hi. / 
 piathuah — make (camp | saying | let)
@@ -7781,7 +7781,7 @@ piau — over (banks | covenant | jordan)
 pih — these (thou | wife | own)
     → A ngongtat mite in a lawmte zol a, lungkhamna sung tun’pih hi. / A violent man enticeth his neighbour, and leadeth him into the way that is not good.
 pihahiroth — before (hahiroth | baal | zephon)
-    → Baalzefon nisuahna lama om Pihahiroth lamah kihei kik uh / 
+    → Baalzefon nisuahna lama om Pihahiroth lamah kihei kik-te / 
 pihin — took (hath | remain | lehem)
     → Azubah a sih ciangin Kaleb in Efrath ten’pihin / 
 pihsak — bring (flower | let | man)
@@ -7807,7 +7807,7 @@ pisgah — top (plain | get | mountain)
 pishon — compasseth (name | first | pison)
     → A masa pen gun a min Pishon hi / 
 pistakhio — myrrh (little | man | present)
-    → Tua ciangin a pa uh Israel in amaute kiangah / 
+    → Tua ciangin a pa-te Israel in amaute kiangah / 
 poina — deformation (hath | approach | come | veil)
     → “Bawng ahi a, tuu ahi zongin, poina / 
 poisak — neighbour (man | blemish | hath)
@@ -7817,13 +7817,13 @@ pokhiasak — thou (thistles | bring | forth)
 pom — embrace (neck | israel | forsook | testimonies)
     → Topa aw, nangma thuhilhnate ka pom hi; kei hong zahhuaisak kei in! / I have stuck unto thy testimonies: O
 ponun — departed (punon | pitched | oboth)
-    → Ponun panin amaute ding khia uh / 
+    → Ponun panin amaute ding khia-te / 
 poplar — rods (because | your | commit)
     → a ciangkhutte a kang mun a om dingin kheh / 
 posak — thou (mountains | tree | causeth)
     → Amah in vanpite meiipi tawh tuamin, leitung-a' dingin gun bawl / 
 pote — own (itself | year | third)
-    → A li pote note in na kaikhawm kei ding uh / 
+    → A li pote note in na kaikhawm kei ding-te / 
 potifar — brought (down | egyptian | bought)
     → Tu-in Egypt-ah Josef kipaipih suk / 
 potifera — asenath (daughter | ephraim | poti)
@@ -7831,7 +7831,7 @@ potifera — asenath (daughter | ephraim | poti)
 pua — carry (without | missing | forth | before)
     → sumbawlte omna gamah pua-in sumbuk bawlte khuapi sungah koih hi. / He cropped off the top of his young twigs, and carried it into a land of traffick; he set it in a city of merchants.
 puah — amend (altar | oversight | house | repaired)
-    → Issakhar’ tapate in: Tola, Puah, Jashub, leh Shimron, li pha uh hi. / Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, four.
+    → Issakhar’ tapate in: Tola, Puah, Jashub, leh Shimron, li pha-te hi. / Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, four.
 puak — bloat (house | israel | bare | brought)
     → Nasep leh van puak ciangin Gershonte beh nasep ding; / This is the service of the families of the Gershonites, to serve, and for burdens:
 puakhia — before (carried | host | shalt)
@@ -7845,9 +7845,9 @@ puakkhamin — windows (day | month | same)
 puakkik — land (whither | philistines | answer)
     → Keima pumpi zahin ngaihsutna tawh nang kiangah amah ka hong puakkik hi. / Whom I have sent again: thou therefore receive him, that is, mine own bowels:
 puakpih — burden (alone | bear | thyself)
-    → Amaute in midangte tungah vangik mahmah suanin khihcip uh / 
+    → Amaute in midangte tungah vangik mahmah suanin khihcip-te / 
 puaksuk — almonds (sea | destruction | little)
-    → leh myrrh paknamtui pua-in Egypt-ah puaksuk dingin a pai mu uh hi. / 
+    → leh myrrh paknamtui pua-in Egypt-ah puaksuk dingin a pai mu-te hi. / 
 pualam — outer (missing | there | went | sanctify)
     → Kongkhak pualam-a mite' kiangah Lot pai-in kong lehkhak a, / And Lot went out at the door unto them, and shut the door after him,
 puan — cloth (put | missing | linen | raiment)
@@ -7895,9 +7895,9 @@ puapa — carcase (armourbearer | saw | thine)
 puate — come (bare | over | midst)
     → { Topa' } Thuciamna Singkuang / 
 puk — fell (missing | fall | ground)
-    → Tua ni ciangin nungakte leh tangvalte, dangtakin puk ding uh hi. / In that day shall the fair virgins and young men faint for thirst.
+    → Tua ni ciangin nungakte leh tangvalte, dangtakin puk ding-te hi. / In that day shall the fair virgins and young men faint for thirst.
 pukin — face (feet | fell | lord)
-    → Ka galte a nungkik ciangin, nangma mai-ah amaute pukin kisia uh hi. / When mine enemies are turned back, they shall fall and perish at thy presence.
+    → Ka galte a nungkik ciangin, nangma mai-ah amaute pukin kisia-te hi. / When mine enemies are turned back, they shall fall and perish at thy presence.
 puknah — cedar (take | hyssop | scarlet)
     → Puknah tawh hong nul in; kei ka siang ding hi. / 
 puksak — missing (sword | hand | counsels)
@@ -7919,7 +7919,7 @@ pumpi — body (flesh | missing | himself)
 pun — increase (like | before | left)
     → Tom' khut veilam a pun hi. / 
 pung — fruitful (rehoboth | multiply | children)
-    → A bawngte uh pung a, ta tolh cih zong om lo hi. / Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
+    → A bawngte-te pung a, ta tolh cih zong om lo hi. / Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
 pungin — thing (fruitful | grew | kine)
     → tampi pha-in khang un,” a ci hi. / 
 pungsak — fruitful (greatly | merry | servant)
@@ -7927,7 +7927,7 @@ pungsak — fruitful (greatly | merry | servant)
 pungsakin — multitude (fruitful | land | make)
     → Nang, mihonpi khat na suah theihna dingin Vanglian Pasian in / 
 punon — pitched (zalmonah | punon | departed)
-    → Zalmonah panin dingkhia uh a, Punon-ah giahphual sat uh hi. / And they departed from Zalmonah, and pitched in Punon.
+    → Zalmonah panin dingkhia-te a, Punon-ah giahphual sat-te hi. / And they departed from Zalmonah, and pitched in Punon.
 pupi — caphtorim (day | son | cattle)
     → Koz in Anub leh Zobehah pa hi / 
 pusuah — house (bread | place | went)
@@ -7935,13 +7935,13 @@ pusuah — house (bread | place | went)
 pusuak — forth (mouth | went | sword)
     → Amah pusuak a, nakpi-in a kap hi. / And Peter went out, and wept bitterly.
 pusuakin — wives (house | priests | egypt)
-    → Jakob innkuanpihte paudang a zang mite kiang pan a paikhiat uh ciangin / 
+    → Jakob innkuanpihte paudang a zang mite kiang pan a paikhiat-te ciangin / 
 put — put (mizraim | cush | pul)
     → Ham’ tapate: Kush, Izipt, Put, leh Kanaan ahi hi. / And the sons of Ham; Cush, and Mizraim, and Put, and Canaan.
 pute — fathers (missing | your | thou)
     → “Khangluite thu kantel in la, pute pate’ tuahsa thute ngaihsun in. / For enquire, I pray thee, of the former age, and prepare thyself to the search of their fathers:
 puteek — old (man | well | there)
-    → piang puteek samkangte' tung panin kote in ka pilnate uh / 
+    → piang puteek samkangte' tung panin kote in ka pilnate-te / 
 puteekpa — hoary (street | man | house)
     → Tua ciangin puteekpa in, “Lunghimawh kei in. Na kisapna khempeuh / 
 puvah — tola (puah | family | sons)
@@ -7974,7 +7974,7 @@ ramoth — ramoth (gilead | refuge | jattir)
 reba — hur (midian | evi | rekem)
     → Amaute in midangte leh Midian kumpi ngate Evi / 
 rebekah — rebekah (isaac | took | begat)
-    → amaute in Isaak leh Rebekah’ nuntakna haksasak uh hi. / Which were a grief of mind unto Isaac and to Rebekah.
+    → amaute in Isaak leh Rebekah’ nuntakna haksasak-te hi. / Which were a grief of mind unto Isaac and to Rebekah.
 refaim — themselves (remained | emims | rephaims)
     → Hit mite, Perez mite, Refaim mite, / And the Hittites, and the Perizzites, and the Rephaims,
 refidim — sin (israel | rephidim | people)
@@ -7985,9 +7985,9 @@ rehob — rehob (men | hebron | aphek)
 rehoboth — city (rehoboth | reigned | river)
     → Tua gam panin Assiria gamsungah amah pai a, Nineveh, Rehoboth-Ir, Kalah leh / Out of that land went forth Asshur, and builded Nineveh, and the city Rehoboth, and Calah,
 rekem — rekem (whom | tappuah | midian)
-    → Hebron' tapate: Korah, Tappuah, Rekem, leh Shema ahi uh hi. / And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
+    → Hebron' tapate: Korah, Tappuah, Rekem, leh Shema ahi-te hi. / And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
 remeses — first (israel | rameses | month)
-    → Tua ahih ciangin Remeses panin Israel mite ding khia uh / 
+    → Tua ahih ciangin Remeses panin Israel mite ding khia-te / 
 remeth — remeth (gannim | haddah | beth)
     → Remeth, En-gannim, Enhaddah, Bethpazzez huam hi; / And Remeth, and En–gannim, and En–haddah, and Beth–pazez;
 resen — calah (between | nineveh | same)
@@ -8005,11 +8005,11 @@ rifath — ashkenaz (gomer | riphath | sons)
 rimmon — ain (rimmon | rock | abode)
     → Tua ciangin amau' khuate Etam, Ain, Rimmon, Tokhen, leh Ashan, khuapi nga, / And their villages were, Etam, and Ain, Rimmon, and Tochen, and Ashan, five cities:
 rimmonperez — rimmon (departed | pitched | perez)
-    → Rithmah panin dingkhia uh a, Rimmonperez-ah giahphual sat uh hi. / And they departed from Rithmah, and pitched at Rimmon–perez.
+    → Rithmah panin dingkhia-te a, Rimmonperez-ah giahphual sat-te hi. / And they departed from Rithmah, and pitched at Rimmon–perez.
 rissah — pitched (journeyed | rissah | libnah)
-    → Ribnah panin dingkhia uh a, Rissah-ah giahphual sat uh hi. / And they removed from Libnah, and pitched at Rissah.
+    → Ribnah panin dingkhia-te a, Rissah-ah giahphual sat-te hi. / And they removed from Libnah, and pitched at Rissah.
 rithmah — pitched (departed | rithmah | hazeroth)
-    → Hazeroth panin dingkhia uh a, Rithmah-ah giahphual sat uh hi. / And they departed from Hazeroth, and pitched in Rithmah.
+    → Hazeroth panin dingkhia-te a, Rithmah-ah giahphual sat-te hi. / And they departed from Hazeroth, and pitched in Rithmah.
 rodanim — kittim (elishah | tarshish | dodanim)
     → Javan’ tapate: Eilishah, Tarshish, Kittim, leh Rodanim ahi hi. / And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
 rosh — ehi (ashbel | gera | naaman)
@@ -8030,7 +8030,7 @@ sabbathte — sabbaths (polluted | children | fulfil)
     → Tua sungin Israel leitang in / 
 sabbatth — keep (land | give | sabbath)
 sabeel — children (israel | would | god)
-    → puksisak dingin note in sehnel gamah nong paikhiatpih uh hi,” / 
+    → puksisak dingin note in sehnel gamah nong paikhiatpih-te hi,” / 
 sabengpa — before (deliver | hunter | mighty)
     → Amah pen { Topa' } mai-ah / 
 sabet — hunter (learned | lion | became)
@@ -8104,13 +8104,13 @@ salekah — salecah (bashan | gad | cities)
 salem — king (salem | peace | first)
     → Salem khua sungah ama omna kibawlin / 
 salsuahna — people (say | beware | because)
-    → na lungsim uh lianin, salsuahna Izipt gam panin no hong paikhiatpih, / Then thine heart be lifted up, and thou forget the
+    → na lungsim-te lianin, salsuahna Izipt gam panin no hong paikhiatpih, / Then thine heart be lifted up, and thou forget the
 salte — king (seest | bring | should)
     → mite tungah letsong a pia hi,” ci-in na kigelh hi. / 
 salu — house (slain | zimri | son)
     → Salu suanni leh naumin-phuahni gamlum kikhaam hi. / 
 sam — beakon (called | missing | call | saith)
-    → Na sam uh zong a kisim khin hi. / [Missing]
+    → Na sam-te zong a kisim khin hi. / [Missing]
 samin — called (took | house | john)
     → Zeisu in naupang khat samin, amaute laizang ah a koih khit ciangin, / And Jesus called a little child unto him, and set him in the midst of them,
 samkangte — hairs (aged | father | servants)
@@ -8120,23 +8120,23 @@ samlah — samlah (masrekah | reigned | stead)
 samsak — sent (king | peter | sarah)
     → Tua ciangin Kumpi Solomon in mi sawlin Tai-ar panin Hiram samsak hi. / And king Solomon sent and fetched Hiram out of Tyre.
 samsia — curse (bring | balaam | cursed)
-    → A sih nading uh deihna tawh cik mahin ka samsia / 
+    → A sih nading-te deihna tawh cik mahin ka samsia / 
 samsiat — without (blessed | therefore | curse)
     → Nang zong midang na samsiat zelzelna, tel takin na kithei hi. / For oftentimes also thine own heart knoweth that thou thyself likewise hast cursed others.
 samsiate — cursed (lion | stir | blessed)
     → Nang thupha hong piate thupha ka pia ding / 
 samsiatna — malediction (curse | cursed | cursing | hear)
-    → Na lawhte uh leh na annel meekna kuangte un zong / 
+    → Na lawhte-te leh na annel meekna kuangte un zong / 
 samsiatnate — because (book | jotham | saith)
     → Tua samsiatnate pen ama kituamna puan tawh kibang hen la / 
 samte — your (uncover | separation | again)
-    → Note in na baa samte uh metloin na khamul mongte / 
+    → Note in na baa samte-te metloin na khamul mongte / 
 samuat — carrion (gier | eagle | pelican | cormorant)
     → leh tui vatawt, samuat ne musane leh tuimu, / And the pelican, and the gier eagle, and the cormorant,
 samul — fleece (woof | wool | garment | plague)
     → Amah in samul leh khau zongin, thanuam takin nasem hi. / She seeketh wool, and flax, and worketh willingly with her hands.
 san — carmine (cubits | missing | there | red)
-    → tua san takah tu-in a en uh hi. / And sitting down they watched him there;
+    → tua san takah tu-in a en-te hi. / And sitting down they watched him there;
 sanah — above (between | strengthen | according)
     → Amah in keelnote' vun ama khut tung leh / 
 sanang — roebuck (nor | roe | roes)
@@ -8164,9 +8164,9 @@ sangna — high (setteth | hast | hand)
 sangpente — heaven (tall | heavens | trees)
     → Van sangpente leh vantunga om tuite aw, amah phat un. / Praise him, ye heavens of heavens, and ye waters that be above the heavens.
 sangpi — missing (bars | dwelleth | greatly)
-    → Suang sangpi dawn-ah bu bawl uh / 
+    → Suang sangpi dawn-ah bu bawl-te / 
 sangsak — heighten (lifted | doors | crown | putteth)
-    → { Topa } aw, gunte hong khangin, a aw uh hong sangsak / 
+    → { Topa } aw, gunte hong khangin, a aw-te hong sangsak / 
 sangsakin — pass (wept | saw | eyes)
     → Rebekah in a lu sangsakin Isaak a muh ciangin / 
 sangte — whole (field | afraid | mountains)
@@ -8212,7 +8212,7 @@ sathaute — fat (flour | given | corn)
 satin — smote (gerar | tree | encamping)
     → Gershonte beh in nitumna lam biakbuk nungah giahphual satin, / The families of the Gershonites shall pitch behind the tabernacle westward.
 satloh — labour (back | given | land)
-    → Note in na seploh uh leitang / 
+    → Note in na seploh-te leitang / 
 satna — rod (stripes | law | stripe)
     → Naupangte sat ding lunghiang kei in; satna hangin si lo ding hi. / Withhold not correction from the child: for if thou beatest him with the rod, he shall not die.
 satnen — break (some | serpent | made)
@@ -8220,9 +8220,9 @@ satnen — break (some | serpent | made)
 satpa — wife (father | joab | dwelt)
     → Amaute a satpa’ lamah mite kihei lo / 
 satsa — other (names | being | changed)
-    → Nebo, leh Baalmeon (a minte khel ding), leh Sibmah khuapite sat uh / 
+    → Nebo, leh Baalmeon (a minte khel ding), leh Sibmah khuapite sat-te / 
 sattansak — cut (thou | shalt | off)
-    → tuanu' khut na sattansak ding uh / 
+    → tuanu' khut na sattansak ding-te / 
 sattat — wall (thou | slew | man)
     → Amau' kikhopna-ah ka kihel kei ding / 
 sau — long (cubits | king | many)
@@ -8260,9 +8260,9 @@ sawlkhiat — good (these | sent | thou)
 sawlna — abetment (kept | shalt | saith | land)
     → Topa’ hong sawlna bangin Eufrates gun geiah ka seel hi. / 
 sawlsa — children (set | seeing | city)
-    → leh Manasseh minam alangte na ma pai uh a, / 
+    → leh Manasseh minam alangte na ma pai-te a, / 
 sawlte — tabernacle (come | make | snow)
-    → kua kici na hi hiam?” ci-in a dot uh ciangin / 
+    → kua kici na hi hiam?” ci-in a dot-te ciangin / 
 sawm — attempt (brethren | twelve | day | golden)
     → migilote’ sawm simna, thusia bawlte’ vaihawmna, / Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 sawmgiat — hundred (fourscore | years | thousand)
@@ -8314,7 +8314,7 @@ sawp — clothes (grapes | holy | burnt)
 sawpin — clothes (wash | wine | shave)
     → a sisa themkhat a pua peuhmah in a puan sawpin / 
 sawtpi — time (missing | there | ways)
-    → Nungzuite tawh sawtpi a omkhawm uh hi. / And there they abode long time with the disciples.
+    → Nungzuite tawh sawtpi a omkhawm-te hi. / And there they abode long time with the disciples.
 saza — ibex (wild | roebuck | fallow | deer)
     → sakhital, sanang, sim-sakhi, sathak, saza, zo-sakhi, leh gamtuu ahi hi. / The hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois.
 seba — cush (fell | seba | thus)
@@ -8328,15 +8328,15 @@ seek — lift (thou | souls | altar)
 seekin — brick (tongs | small | make)
     → “Tua hun laitakin { Topa } in kei kiangah / 
 seel — hide (face | hid | hidest)
-    → Innhikte: Khutsunga tawizawh ganhing hilel napi-in kumpi innsungah tengzo uh hi. / The spider taketh hold with her hands, and is in kings' palaces.
+    → Innhikte: Khutsunga tawizawh ganhing hilel napi-in kumpi innsungah tengzo-te hi. / The spider taketh hold with her hands, and is in kings' palaces.
 seelte — strove (against | dathan | abiram)
-    → leh Abiram ahi uh hi. Hih Dathan leh Abiram pen / 
+    → leh Abiram ahi-te hi. Hih Dathan leh Abiram pen / 
 seengte — blessed (basket | store)
-    → Na seengte uh leh na annel meekna kuangte uhah thupha / 
+    → Na seengte-te leh na annel meekna kuangte uhah thupha / 
 sefar — goest (mesha | thou | sephar)
     → Amau' ten'na gam pen Mesha panin kipanin Sefar lamah nisuahna / 
 sefer — kirjath (sepher | smiteth | debir)
-    → Tua lai panin Debir mite do dingin amaute pai uh / 
+    → Tua lai panin Debir mite do dingin amaute pai-te / 
 seh — appoint (your | third | over | part)
     → (Lawhta khat in seu khat seh-sawm-suah-seh-khat ahi hi.) / Now an omer is the tenth part of an ephah.
 sehin — holy (through | ignorance | things)
@@ -8350,13 +8350,13 @@ sehna — male (estimation | years | thirty)
 sehnel — wilderness (sand | sea | desert)
     → Sehnel gamah, Beth-arabah, Middin, Sekakah, / In the wilderness, Beth–arabah, Middin, and Secacah,
 sehnga — fifth (add | thereof | redeem)
-sehnih — ram (oil | tenth | deals)
+sehnih — gam (oil | tenth | deals)
     → Leitung khempeuhah, sehthum suah sehnih si ding / 
 sehsa — hast (woman | thing | hath)
     → A hun ka sehsa ni ciangin thu / 
 sehsak — whom (fear | appointed | another)
     → A lungsim sung uhah, ‘A huna guah hong zusak / 
-sehsawm — ram (offer | tenth | offering)
+sehsawm — gam (offer | tenth | offering)
     → tuuno sagihte khat ciangin sehsawm suah sehkhat hi ding hi: / A several tenth deal for one lamb, throughout the seven lambs:
 sehthum — tenth (deals | mingled | flour)
     → Leitung khempeuhah, sehthum suah sehnih si ding / 
@@ -8385,7 +8385,7 @@ semsak — land (saying | stand | put)
 semsem — more (multiplied | increase | waxed)
     → Tu-in gamsungah kialpi nasia semsem hi. / And the famine was sore in the land.
 semte — linen (over | charge | waited)
-    → na a semte leh patpuan a gante lungkham ding uh hi. / 
+    → na a semte leh patpuan a gante lungkham ding-te hi. / 
 senir — call (bashan | dens | senir)
     → (Sidon mite in Hermon pen Sirion ci / 
 sep — written (thou | aaron | saith)
@@ -8401,7 +8401,7 @@ sepsak — serve (father | whom | shalt)
 sepsaksa — service (let | thou | knowest)
     → Nang' tunga kong thalawhsa ka zite leh ka tate hong / 
 septe — works (any | generation | might)
-    → a lamdang ama septe mu uh hi. / 
+    → a lamdang ama septe mu-te hi. / 
 serah — sister (asher | serah | beriah)
     → Asher’ tanu’ min in Serah ahi hi. / And the name of the daughter of Asher was Serah.
 sered — zebulun (families | family | sons)
@@ -8444,17 +8444,17 @@ shawl — shaul (canaanitish | family | reigned)
 sheba — sheba (raamah | bichri | queen)
     → Ebal mite, Abimael mite, Sheba mite, / And Ebal, and Abimael, and Sheba,
 shebarim — before (smote | men | about)
-    → Ai mite in amau' kulhkongpi mai panin Shebarim ciangdong delh uh / 
+    → Ai mite in amau' kulhkongpi mai panin Shebarim ciangdong delh-te / 
 shedeur — son (elizur | children | host)
     → A ni li ni-in Reuben mite a makai / 
 shefam — hazar (down | east | border)
-    → “Nisuahna lam na gamgi uh Hazarenan panin Shefam dong na / 
+    → “Nisuahna lam na gamgi-te Hazarenan panin Shefam dong na / 
 shefer — pitched (removed | mount | shapher)
-    → Kehelathah panin dingkhia uh a, Shefer Mual-ah giahphual sat uh hi. / And they went from Kehelathah, and pitched in mount Shapher.
+    → Kehelathah panin dingkhia-te a, Shefer Mual-ah giahphual sat-te hi. / And they went from Kehelathah, and pitched in mount Shapher.
 shefo — manahath (these | alvan | ebal)
     → Shobal' tapate: Alvan, Manahath, Ebal, Shefo, leh Onam ahi hi. / And the children of Shobal were these; Alvan, and Manahath, and Ebal, Shepho, and Onam.
 shefufam — family (shupham | shuphamites | hupham)
-    → Shefufam pan Shefufam behte ahi uh hi; Hufam pan Hufam / 
+    → Shefufam pan Shefufam behte ahi-te hi; Hufam pan Hufam / 
 sheir — israel (possession | enemies | valiantly)
     → Israel hang takin a om sungin / 
 shekel — shekels (golden | hundred | shekel)
@@ -8474,11 +8474,11 @@ shelumiel — zurishaddai (simeon | son | shelumiel)
 shem — sons (begat | shem | japheth)
     → Noah in tapa thum, Shem, Ham, leh Jafeth nei hi. / And Noah begat three sons, Shem, Ham, and Japheth.
 shema — shema (rekem | son | heads)
-    → Hebron' tapate: Korah, Tappuah, Rekem, leh Shema ahi uh hi. / And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
+    → Hebron' tapate: Korah, Tappuah, Rekem, leh Shema ahi-te hi. / And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
 shemeber — king (sodom | birsha | gomorrah)
     → hih kumpite in Sodom kumpipa Bera / 
 shemida — family (helek | sons | children)
-    → Shemida’ tapate in: Ahian, Shekhem, Likhi, leh Aniam ahi uh hi. / And the sons of Shemida were, Ahian, and Shechem, and Likhi, and Aniam.
+    → Shemida’ tapate in: Ahian, Shekhem, Likhi, leh Aniam ahi-te hi. / And the sons of Shemida were, Ahian, and Shechem, and Likhi, and Aniam.
 shemuel — son (jahmai | tola | shemuel)
     → Simeon minam panin Ammihud’ tapa Shemuel ahi hi. / And of the tribe of the children of Simeon, Shemuel the son of Ammihud.
 sheshai — sheshai (anak | slew | hebron)
@@ -8512,12 +8512,12 @@ shinar — land (east | came | king)
     → leh Goiim kumpipa Tidal-te' hun lai-in, / 
 shion — shion (hapharaim | anaharath)
 shittim — israel (sent | removed | make)
-    → om laitakin Moab gam numeite tawh paktat ding kipan uh hi. / 
+    → om laitakin Moab gam numeite tawh paktat ding kipan-te hi. / 
 shobal — zibeon (children | duke | shobal)
     → Hori mite' beh lutangte: Lotan, Shobal, Zibeon, Anah, / These are the dukes that came of the Horites; duke Lotan, duke Shobal, duke Zibeon, duke Anah,
 shofan — shophan (atroth | jaazer | jogbehah)
 shua — certain (daughter | shua | judah)
-    → leh a sanggamnu uh Shua-te’ pa ahi hi. / 
+    → leh a sanggamnu-te Shua-te’ pa ahi hi. / 
 shuah — bildad (shuah | medan | evil)
     → Tua ciangin Shuah gammi Bildad in dawng a, / Then answered Bildad the Shuhite, and said,
 shuham — shuham (those | families | these)
@@ -8529,7 +8529,7 @@ shuni — haggi (shuni | family | gad)
 shur — angel (dwelled | egypt | went)
     → Mamre panin Negeb gamah Abraham paisuk / 
 shuthelah — shuthelah (sons | family | these)
-    → Hih in Shuthelah minamte ahi uh hi: Eran pan Eran / 
+    → Hih in Shuthelah minamte ahi-te hi: Eran pan Eran / 
 sia — sir (sight | evil | thou | perish)
     → Keros’ suante, Sia’ suante, Padon’ suante, / The children of Keros, the children of Sia, the children of Padon,
 siah — income tax (tribute | thousand | brought | presents)
@@ -8558,7 +8558,7 @@ siamte'sep — embroiderer (work | cunning | heart)
 sian — cleanse (sanctify | saith | office)
     → Kha Siangtho in hong sian’ thosak deihhuai biakna ahi Gentailte pia dingin, / Nevertheless, brethren, I have written the more boldly unto you in some sort, as putting you in mind, because of the grace that is given to me of God,
 siang — couth (clean | pronounce | unclean | quit)
-    → “Vasa a siang khempeuh na ne thei ding uh hi. / Of all clean birds ye shall eat.
+    → “Vasa a siang khempeuh na ne thei ding-te hi. / Of all clean birds ye shall eat.
 siangin — cut (always | thine | thou)
     → Na puante siangin paaksak tawntung in la / 
 siangkhiasak — away (spoken | turn | prophet)
@@ -8568,7 +8568,7 @@ siangsak — cleanse (away | evil | healed)
 siangsakin — hallow (after | wash | father)
     → Israel mite' nitsakna panin biakna tau siangthosak ding hi. / 
 siangte — according (clean | fowls | alike)
-    → siangte khempeuh na ne thei ding uh hi. / 
+    → siangte khempeuh na ne thei ding-te hi. / 
 siangtho — clean (holy | missing | spirit | saith)
     → Kha Siangtho’ huhna na mitsak kei un. / Quench not the Spirit.
 siangthoin — aaron (sincerity | god | corrupt)
@@ -8578,7 +8578,7 @@ siangthona — clarity (lord | paved | prepareth | hath)
 siangthopen — holy (most | offering | altar)
     → “Hih in mawhna hanga biakna ngeina ahi hi. A siangthopen ahi hi; / Likewise this is the law of the trespass offering: it is most holy.
 siangthosak — hallow (office | sanctified | atonement | sons)
-    → siangtho mah bangin na hihna khempeuh uh na siangthosak un. / 
+    → siangtho mah bangin na hihna khempeuh-te na siangthosak un. / 
 siangthosakpa — among (profane | therefore | seed)
     → Jesuh in mite, “Sanggam,” a cih ding zum ngaihsutlo ahih manin, / 
 siangthote — garments (holy | god | missing)
@@ -8658,7 +8658,7 @@ silh — wear (put | sackcloth | missing | before)
 silhin — raiment (put | sackcloth | stood)
     → Tangval khat in saihadial puan khat bek silhin Zeisu nung zui a, / And there followed him a certain young man, having a linen cloth cast about his naked body; and the young men laid hold on him:
 silhsak — own (wife | son | neck)
-    → Zeisu puan suahkhia uh a, puansan khat a silhsak uh hi. / And they stripped him, and put on him a scarlet robe.
+    → Zeisu puan suahkhia-te a, puansan khat a silhsak-te hi. / And they stripped him, and put on him a scarlet robe.
 silin — flesh (inwards | water | put)
     → a sungkua leh a khete silin / 
 silngo — leaven (unleavened | bread | flour | feast)
@@ -8667,7 +8667,7 @@ siluang — bleeding (cast | angel | filled | know)
     → Mawhneilo mizawngte' sisan na puan tungah baang hi. Amaute in / 
 sim — count (against | saith | men | king)
     → “Gershon mite zong, amau’ innkuankuan leh a beh beh-in sim in, / Take also the sum of the sons of Gershon, throughout the houses of their fathers, by their families;
-simah — every (off | bullock | ram)
+simah — every (off | bullock | gam)
     → hawm dingin minam simah makai khat na la ding hi. / 
 simbu — owl (great | possess | cormorant)
     → keising leh simbu, gam vatawt / The little owl, and the great owl, and the swan,
@@ -8676,7 +8676,7 @@ simeon — simeon (children | tribe | levi)
 simeonte — mine (children | out | tribe)
     → Zohar leh Kanaan numei' tapa Shawl; hihte in Simeonte beh ahi hi. / 
 simin — every (day | thou | days)
-    → Ni simin ka khamkhop ding uh an hong pia in; / [Missing]
+    → Ni simin ka khamkhop ding-te an hong pia in; / [Missing]
 simloh — save (gilead | over | neither)
     → “Topa longal, Pasian kua hiam? I Pasian simloh, suangpi kua hiam? / For who is God, save the
 simna — enumeration (feeble | rise | returned | lying)
@@ -8700,9 +8700,9 @@ sing — timber (wood | shittim | stones | shalt)
 singgah — nut (fruit | yielding | midst | know)
     → Topa in hih bangin hong musak hi: Seeng sunga kikoih / 
 singgahte — fruit (shouting | lord | eat)
-    → “Huan sung singgahte ka ne thei ding uh hi; / 
+    → “Huan sung singgahte ka ne thei ding-te hi; / 
 singhiang — branch (nation | branches | time | sprigs)
-    → Amaute pen Pasian' nasem dingin a khualzin khia uh hi / 
+    → Amaute pen Pasian' nasem dingin a khualzin khia-te hi / 
 singkha — shalt (staves | shittim | ark)
     → a kisansak tuutal vunte, keelvunte, singkha sing, / And rams' skins dyed red, and badgers' skins, and shittim wood,
 singkuang — trunk (ark | god | testimony | before)
@@ -8723,13 +8723,13 @@ singte — trees (david | thou | down)
 sinsona — brother's (cursed | sodom | forsake)
     → Hehna leh sinsona siahuai a, ahi zongin hazatna siahuai zaw lai hi. / Wrath is cruel, and anger is outrageous; but who is able to stand before envy?
 sintuamte — take (liver | away | above)
-    → sintuamte pia ding uh hi. / 
+    → sintuamte pia ding-te hi. / 
 sipa — withered (wife | moabitess | seeing)
     → Zeisu in, “A lai zangah ding in,” ci-in khut sipa kiangah / 
 sirion — call (like | sirion | hermon)
     → Lebanon mual leh Sirion mualte bawngno leh gamsialno bangin amah / 
 sisa — whosoever (toucheth | beareth | many)
-    → a sisa misiangthote’ luang tampi hong tho kik uh a, / 
+    → a sisa misiangthote’ luang tampi hong tho kik-te a, / 
 sisak — smother (surely | midst | selah | pestilence)
     → a puanza kang nusia-in a guaktangin a tai hi. / And he left the linen cloth, and fled from them naked.
 sisan — blood (earth | life | side)
@@ -8748,7 +8748,7 @@ site — fall (slain | missing | sanctified)
 sitna — test (own | covering | away | face)
     → Tua ahih ciangin siampi Eleazar in mei tawh / 
 sitnah — sitnah (called | name | digged)
-    → Tua ciangin amaute in tuikhuk dang khat to uh / 
+    → Tua ciangin amaute in tuikhuk dang khat to-te / 
 sitset — water (sore | lord | cause)
     → kihuanna leibeel kisukham ding hi. Ahih hangin taubeelin / 
 sodom — sodom (king | lot | goest)
@@ -8762,17 +8762,17 @@ suah — lived (thou | god | pass)
 suahin — laid (pieces | twenty | your)
     → a puanza suahin dial tawh a kawng a gak hi. / 
 suahkhia — unload (off | garments | jewels | veil)
-    → Zeisu puan suahkhia uh a, puansan khat a silhsak uh hi. / And they stripped him, and put on him a scarlet robe.
+    → Zeisu puan suahkhia-te a, puansan khat a silhsak-te hi. / And they stripped him, and put on him a scarlet robe.
 suahkhiat — flesh (thou | nitre | wherein)
     → “Lei sung panin tuipi hong suahkhiat laitakin / 
 suahkhiatsak — aaron (moses | eleazar | stripped)
-    → Tua lai panin Jesuh' puan suahkhiatsak uh / 
+    → Tua lai panin Jesuh' puan suahkhiatsak-te / 
 suahna — birth (made | father | sons | land)
     → Arvad mite, Zemari mite le Hamath miteʼ pianna pa ahi hi. / And the Arvadite, and the Zemarite, and the Hamathite.
 suahtak — thou (there | save | live)
     → Kei ka suahtak ciangin amau’ ngenthang sung mah-ah migilote awk sak in. / Let the wicked fall into their own nets, whilst that I withal escape.
 suahtakna — emancipation (saith | betrothed | land | athirst)
-    → Judah mite in suahtakna, lungdamna, leh pahtawina ngah uh hi. / 
+    → Judah mite in suahtakna, lungdamna, leh pahtawina ngah-te hi. / 
 suak — born (saith | children | hath | thou)
     → amah pai-in midang khat’ zi va suak a, / And when she is departed out of his house, she may go and be another man's wife.
 suakin — pass (being | thing | become)
@@ -8814,9 +8814,9 @@ suangpeekte — tables (sides | cast | words)
 suangphahpek — heaven (work | sapphire | stone)
     → Pilat in hih bangin mite' kikona a zak ciangin Jesuh paikhiatpih / 
 suangpi — rock (stone | thou | smote)
-    → Tua ciangin amah in, ‘Amau’ pasiante, a bukna uh suangpi, / And he shall say, Where are their gods, their rock in whom they trusted,
+    → Tua ciangin amah in, ‘Amau’ pasiante, a bukna-te suangpi, / And he shall say, Where are their gods, their rock in whom they trusted,
 suangte — stones (breastplate | ephod | ouches)
-    → Suangte a tawhvang uh ciangin, suangmanphate mu uh hi. / He cutteth out rivers among the rocks; and his eye seeth every precious thing.
+    → Suangte a tawhvang-te ciangin, suangmanphate mu-te hi. / He cutteth out rivers among the rocks; and his eye seeth every precious thing.
 suangtum — great (stone | sank | thine)
     → Ahi zongin suangtum lakah a zung a kivial / 
 suangtumpite — jordan (over | land | day)
@@ -8824,7 +8824,7 @@ suangtumpite — jordan (over | land | day)
 suangtumte — shalt (ask | before | lay)
     → Mualsangte in sathak’ ading hi / 
 suanin — eat (shoulder | lading | asses)
-    → Tua ciangin amaute in a late uh antang suanin a / 
+    → Tua ciangin amaute in a late-te antang suanin a / 
 suankhia — shift (these | amorite | israel | anakims)
     → Mihing sawmthumte sung pan amah a minthang pen hi / 
 suankhiat — heshbon (nations | destroy | thou)
@@ -8866,11 +8866,11 @@ sukkoth — succoth (men | foot | took)
 sukna — sinew (though | threshingfloor | peor)
     → Kei a hong langpang dingin teci na nei tawntung / 
 suknate — delay (thou | shalt | offer)
-    → “Na anlakna pan uh leh sathau leh leenggah na suknate uh panin / 
+    → “Na anlakna pan-te leh sathau leh leenggah na suknate-te panin / 
 suksak — hollow (laid | prey | hand)
     → A thatang hat thu tawh mi tuahsia mi / 
 suksakna — hath (because | city | die)
-    → tua khuapi kongpi-ah amaute gel na paipih ding uh / 
+    → tua khuapi kongpi-ah amaute gel na paipih ding-te / 
 suksiat — destroy (before | your | whom)
     → hong piakhia lo Topa in thupha ngah ta hen! / 
 suksiatna — havoc (how | day | city | overthrow)
@@ -8898,7 +8898,7 @@ sumkoihna — iron (treasury | brass | vessels)
 sumngo — brass (iron | brasen | made)
     → kham, ngun, sumngo, sik, dal, leh haknaw, / Only the gold, and the silver, the brass, the iron, the tin, and the lead,
 sumngote — offering (brass | made | missing)
-    → Kham, ngun, sumngote, na kawnggak sung uh ah na vom kei un. / [Missing]
+    → Kham, ngun, sumngote, na kawnggak sung-te ah na vom kei un. / [Missing]
 sumsan — whose (fine | molten | brightness)
     → Mihingte in lei sung panin sik tokhia / 
 sumte — house (money | missing | every)
@@ -8917,7 +8917,7 @@ sungin — awhile (days | month | time | earth)
     → Tomno sungin amaute kisusia-in, launa in nilkhia mang! / How are they brought into desolation, as in a moment! they are utterly consumed with terrors.
 sungkhia — effuse (before | thereon | mizpah | poured)
     → Meiipite in tui sungkhia-in, vante ging damdam / 
-sungkua — innards (pieces | shalt | cut | ram)
+sungkua — innards (pieces | shalt | cut | gam)
     → Tua ciangin nangmah in tuutal sem nenin / 
 sungkuate — inwards (legs | fire | fat)
     → A sate mun khat peuhpeuh a sial ahi / 
@@ -8932,7 +8932,7 @@ sungtang — cried (mock | brought | came)
 sungtum — before (blessed | cursed | came)
     → hong pai peuhpeuh kithat ding hi. Kumpipa / 
 sungun — wilderness (land | specially | gilgal)
-    → kithausak phitphet na hi uh hi. / 
+    → kithausak phitphet na hi-te hi. / 
 sunin — wings (mercy | hurl | cast)
     → Amah in muhdahna tawh sunin, ahih kei leh bukin a khawh / 
 supna — disadvantage (hand | yourselves | art | counted)
@@ -8944,7 +8944,7 @@ susia — ravage (destroy | saith | land | cut)
 sut — pre-empt (missing | hand | hath | lord)
     → Amaute in na kumpi a minthan’na genin / 
 sutan — yoke (images | mouth | damascus)
-    → amau' kam sunga a om a hate uh sutan in la / 
+    → amau' kam sunga a om a hate-te sutan in la / 
 sutin — against (away | give | spoil)
     → Bang hang hiam cih leh amah in mizawngte bawlsia-in donlo / 
 sutkhia — your (ears | toward | say)
@@ -8953,15 +8953,15 @@ sutkhiasak — any (gold | whosoever | hath)
 suunin — likeness (over | let | our)
     → Amalim suunin bawl hi. / 
 suzan — break (strength | unicorn | eat)
-    → sumngo khempeuh Babylon-ah a la uh hi. / 
+    → sumngo khempeuh Babylon-ah a la-te hi. / 
 taak — hard (there | call | life | bottom)
-    → Amaute a mi-in tawmin, gen taak loin, peemta hi uh a, / When ye were but few, even a few, and strangers in it.
+    → Amaute a mi-in tawmin, gen taak loin, peemta hi-te a, / When ye were but few, even a few, and strangers in it.
 taakkhia — exude (side | altar | blood | thereof)
     → Kuamte sung panin ciktui na phulkhiasak / 
 taaksing — pine (gopher | stork | fir | trees)
-    → Tua singte tungah vasate in bu bawl uh / 
+    → Tua singte tungah vasate in bu bawl-te / 
 taam — stay (there | abode | beth | father)
-    → Sirakhas khua tungin ni thum ka taam uh hi. / And landing at Syracuse, we tarried there three days.
+    → Sirakhas khua tungin ni thum ka taam-te hi. / And landing at Syracuse, we tarried there three days.
 taamtaak — cedar (lebanon | trees | take)
     → Mualliante leh mualneute khempeuh, gah a nei singkungte leh taamtaak singkung khempeuh! / Mountains, and all hills; fruitful trees, and all cedars:
 taan — glory (earth | face | give)
@@ -8977,15 +8977,15 @@ taanglai — ancient (king | chief | god)
 taatin — sword (mine | whet | glittering)
     → kei hong mudahte ka thukkik ding hi. / 
 taberah — place (taberah | called | name)
-    → leh Kibrothhattaavah munte-ah zong { Topa } phinin na hehsak uh hi. / 
+    → leh Kibrothhattaavah munte-ah zong { Topa } phinin na hehsak-te hi. / 
 tabor — tabor (goeth | abinoam | barak)
     → Tabor Mual-ah paito khin ci-in Sisera kiangah a kigen ciangin, / 
-tacil — firstborn (children | ram | both)
+tacil — firstborn (children | gam | both)
     → Kanaan in a tacil Sidon, leh Heth, / And Canaan begat Zidon his firstborn, and Heth,
 tacilte — brought (whether | ass | beasts)
     → Abel in a tuuhon tacilte leh a sa limcite paipih / 
 tagah — orphan (widow | saw | leave | nor)
-    → tagah ahi zongin na gimsak kei ding uh hi. / 
+    → tagah ahi zongin na gimsak kei ding-te hi. / 
 tah — such (whoredoms | thou | number)
     → Nulepa mawhna bawlin a paat ngingeisa numei khat / 
 tahan — family (son | tahan | shuthalhites)
@@ -9009,7 +9009,7 @@ taisak — escape (backs | manslayer | elders)
 taitehte — spoons (thereof | snuffdishes | candlestick)
     → A taitehte leh a kuangte kham citak hi ding hi. / And the tongs thereof, and the snuffdishes thereof, shall be of pure gold.
 tak — missing (great | very | lord)
-    → Gutate bangin nang hong buksim a, mi tampi tak siasak uh hi. / She also lieth in wait as for a prey, and increaseth the transgressors among men.
+    → Gutate bangin nang hong buksim a, mi tampi tak siasak-te hi. / She also lieth in wait as for a prey, and increaseth the transgressors among men.
 taka — cunning (against | whom | king)
     → Kha Siangtho in a tel taka a genkholh inah / 
 takah — there (missing | where | behold)
@@ -9028,9 +9028,9 @@ taktak — surely (saith | thou | come)
 taktakin — name (sister | saith | women)
     → nangmahmah a bucip Pasian na hi hi. / 
 takun — heard (your | city | sat)
-    → Lampi a pai lai takun tui omna-ah a tung uh a, / And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized?
+    → Lampi a pai lai takun tui omna-ah a tung-te a, / And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized?
 tal — forehead (asses | head | skins | toward)
-    → puakna ding tal tungah koih ding uh hi. / 
+    → puakna ding tal tungah koih ding-te hi. / 
 taleh — whether (offering | nor | there)
     → Pasian in kei hong that mah taleh zong / 
 talen — missing (hundred | talents | gold)
@@ -9038,23 +9038,23 @@ talen — missing (hundred | talents | gold)
 talmai — ahiman (talmai | daughter | ammihud)
     → Ahih hangin Absalom tai-in Geshur kumpipa Ammihud' tapa Talmai kiangah / 
 talsuan — your (hand | may | frontlets)
-    → a puanmongteep uh a sau theithei-in a bawl uh hi. / 
+    → a puanmongteep-te a sau theithei-in a bawl-te hi. / 
 talsuante — between (thine | hand | frontlets)
-    → Na khut tung uhah lim dingin tuate na hen ding uh / 
+    → Na khut tung uhah lim dingin tuate na hen ding-te / 
 taltang — brow (forehead | fallen | destroy | stone)
-    → puakna ding tal tungah koih ding uh hi. / 
+    → puakna ding tal tungah koih ding-te hi. / 
 tam — frequent (missing | days | many | more)
     → Kimkhatte lei tam lohna suang lakah kia a, / [Missing]
 tamar — absalom (come | daughter | tamar)
     → leh Baalath leh Judah gamsung, gamlakah Tamar, / And Baalath, and Tamar in the wilderness, in the land,
 tamasak — fail (saith | word | dismayed)
-    → na pate uh tawh a thuciamna mangngilhlo ding hi. / 
+    → na pate-te tawh a thuciamna mangngilhlo ding hi. / 
 tamin — after (dan | multitude | valley)
     → Israel mite vantung aksi zahin / 
 tamna — amplitude (progenitors | man | seas | number)
     → Na mawhna a tamna hang, na gitlohna a liatna hang hizaw hi. / Is not thy wickedness great? and thine iniquities infinite?
 tamngai — flute (missing | handle | sheepfolds | meet)
-    → tamngai leh harp lasakna aw tawh kituakin lam uh hi. / They take the timbrel and harp, and rejoice at the sound of the organ.
+    → tamngai leh harp lasakna aw tawh kituakin lam-te hi. / They take the timbrel and harp, and rejoice at the sound of the organ.
 tampi — abundance (many | missing | great | there)
     → Zeisu in thugentehna tawh thu tampi a hilhinah, / And he spake many things unto them in parables, saying,
 tampite — many (people | company | among)
@@ -9080,7 +9080,7 @@ tang — abnegate (missing | days | saith | lord)
 tanga — anoint (judah | saith | against)
     → a siangtho saihadial puante silh ding hi. / 
 tangah — plague (poured | put | twelve)
-    → Galkapte in ling tawh lukhu ganin ama lu tangah a khusak uh / 
+    → Galkapte in ling tawh lukhu ganin ama lu tangah a khusak-te / 
 tangban — man (thou | house | bring)
     → “Na inn tung panun mi khat kia-in mi sihna hanga / 
 tangciak — land (narrow | children | israel)
@@ -9096,7 +9096,7 @@ tangkhai — crop (pluck | away | feathers)
 tangmaite — egypt (fish | did | eat)
     → Egypt-ah man pialoin i nek ngasate / 
 tangpi — slain (fire | noon | thine)
-    → Na gam uh khing a / 
+    → Na gam-te khing a / 
 tangteuh — lizard (chameleon | ferret | snail)
     → tawlbawkpi, tang, tangteuh, leh sehnel gam thankik ahi hi. / And the ferret, and the chameleon, and the lizard, and the snail, and the mole.
 tangthu — drama (chronicles | kings | book | earth)
@@ -9124,7 +9124,7 @@ tankhia — atone (redeem | off | sent | evil)
 tanu — daughter (girl | female child | begat)
     → Asher’ tanu’ min in Serah ahi hi. / And the name of the daughter of Asher was Serah.
 tanute — daughters (sons | your | give)
-    → Topa in Moses a thupiak bangin Zelofehad’ tanute gamta uh hi; / Even as the
+    → Topa in Moses a thupiak bangin Zelofehad’ tanute gamta-te hi; / Even as the
 tanvei — long (how | missing | evil)
     → Thadahpa aw, bang tanvei lumlum ding / 
 tapa — son (boy | male child | child)
@@ -9179,7 +9179,7 @@ tawi — hand (poured | balances | priests)
 tawisak — done (drink | before | young)
     → Amah in tua mipa tui a dawnsak khit ciangin / 
 tawisuang — divers (balances | bag | thou)
-    → “Mi khempeuh in tawisuang man leh tehna man zang ding uh hi. / Ye shall have just balances, and a just ephah, and a just bath.
+    → “Mi khempeuh in tawisuang man leh tehna man zang ding-te hi. / Ye shall have just balances, and a just ephah, and a just bath.
 tawite — against (archers | pen | sore)
     → Gal kidona in Saul neh mahmah / 
 tawksak — arrows (leaveneth | lump | whole)
@@ -9189,17 +9189,17 @@ tawl — after (stranger | shur | done)
 tawlbawkpi — ferret (chameleon | lizard | snail)
     → tawlbawkpi, tang, tangteuh, leh sehnel gam thankik ahi hi. / And the ferret, and the chameleon, and the lizard, and the snail, and the mole.
 tawlkhat — missing (after | there | came)
-    → Tawlkhat khit ciangin Ammon mite in Israelte do uh hi. / And it came to pass in process of time, that the children of Ammon made war against Israel.
+    → Tawlkhat khit ciangin Ammon mite in Israelte do-te hi. / And it came to pass in process of time, that the children of Ammon made war against Israel.
 tawlnga — made (day | rest | dwelt)
     → Jerusalem ka tun’ ciangin ni thum sung ka tawlnga hi. / So I came to Jerusalem, and was there three days.
 tawlngak — fathers (mount | day | bosheth)
-    → { Topa } pahtawina-in leitang tawlngak hun na omsak ding uh hi. / 
+    → { Topa } pahtawina-in leitang tawlngak hun na omsak ding-te hi. / 
 tawlngakna — paradise (rest | day | until | saith)
     → nopsakna lampi-ah hong kha ding hi,” a ci hi. / 
 tawm — meagre (little | few | themselves | men)
     → Amah in khau kheek-in, a puan ding gan tawm hi. / She layeth her hands to the spindle, and her hands hold the distaff.
 tawmin — set (increased | gathered | stranger)
-    → Amaute a mi-in tawmin, gen taak loin, peemta hi uh a, / When ye were but few, even a few, and strangers in it.
+    → Amaute a mi-in tawmin, gen taak loin, peemta hi-te a, / When ye were but few, even a few, and strangers in it.
 tawmkhat — blood (offering | slumber | hearts)
     → Tawmkhat ihmutna, tawmkhat lusukna, tawmkhat sung na sem loin khut zepna hangin, / Yet a little sleep, a little slumber, a little folding of the hands to sleep:
 tawmna — paucity (bound | bonds | ought | soul)
@@ -9209,7 +9209,7 @@ tawmno — few (people | days | say)
 tawmsak — near (unclean | prayer | can)
     → Hehna panin kikham in la / 
 tawmte — land (thou | thereof | give)
-    → note in lo panin a piang tawmte na ne ding uh hi. / 
+    → note in lo panin a piang tawmte na ne ding-te hi. / 
 tawmzaw — less (give | gold | golden | nothing)
     → Haina in a kamtam, zumna meel thei lo numei tawh kibang a, / A foolish woman is clamorous: she is simple, and knoweth nothing.
 tawn — ways (wedge | father | saith)
@@ -9229,13 +9229,13 @@ tawntungna — permanency (missing | hath | eternal | life)
 tawntungun — your (ever | feast | day)
     → “Hih pen note-a' dingin phawkna ni hi ding / 
 tawnun — prosperity (peace | nor | days)
-    → Migilote a khan' tawnun khial uh hi. A suah tung / 
+    → Migilote a khan' tawnun khial-te hi. A suah tung / 
 tawp — desist (sea | left | jordan | end)
     → gamgi in Azmon panin Izipt Lui lamah kawi-in Tuipi ah / 
 tawpna — destiny (end | what | behold | written)
     → Amah in muh tawpna-ah git dinden-in, khuavak leh khuamial khen hi. / He hath compassed the waters with bounds, until the day and night come to an end.
 tawpta — women (sarah | after | manner)
-    → Tu-in Abraham leh Sarah teek ta uh / 
+    → Tu-in Abraham leh Sarah teek ta-te / 
 tawsak — small (perverteth | against | shine)
     → thuman mite' thu heikhiatsak hi. / 
 tawsakin — gift (eyes | blinded | heart)
@@ -9259,7 +9259,7 @@ teek — old (age | child | should)
 teekin — old (sinned | shalt | stricken)
     → Tu-in Abraham teekin a kum tam mahmah ta hi. { / 
 teekpa — missing (father | tamar | ark)
-    → Amaute in a ngah khit uh ciangin / 
+    → Amaute in a ngah khit-te ciangin / 
 teekteek — house (vow | say | chebar)
     → nasem lim a hong puazaw hi. Mihing bangin amah hong kibawl / 
 teekteekin — day (your | selfsame | pass)
@@ -9291,7 +9291,7 @@ teengpa — good (head | things | earth)
 teengsak — dwell (tents | land | commanded)
     → Amau phualpi a kilawi mun suak hen la / 
 teengte — inhabitants (saith | waters | dwelt)
-    → Misite’ gam kiling a, a sunga teengte launa tawh ling uh hi. / Dead things are formed from under the waters, and the inhabitants thereof.
+    → Misite’ gam kiling a, a sunga teengte launa tawh ling-te hi. / Dead things are formed from under the waters, and the inhabitants thereof.
 teep — thumb (right | put | time)
     → Mai taii-na in ci damsak / 
 teepte — tip (right | moses | blood)
@@ -9305,9 +9305,9 @@ tehin — seed (deliver | ground | saws)
 tehlop — certainty (become | snare | laid)
     → Amau' mai-a kilui ante thangzak suaksak in la / 
 tehna — kilo (hand | ephah | meteyard | thine)
-    → “Mi khempeuh in tawisuang man leh tehna man zang ding uh hi. / Ye shall have just balances, and a just ephah, and a just bath.
+    → “Mi khempeuh in tawisuang man leh tehna man zang ding-te hi. / Ye shall have just balances, and a just ephah, and a just bath.
 tehnate — meteyard (judgment | weight | unrighteousness)
-    → a tam tehnate-ah a manloin na gamta kei ding uh hi. / 
+    → a tam tehnate-ah a manloin na gamta kei ding-te hi. / 
 tehpa — unclean (man | seed | holy)
     → “‘Aaron' gui sung panin meima nei leh / 
 tehte — leaves (made | gold | off)
@@ -9321,7 +9321,7 @@ tel — god (understanding | things | know)
 telem — telem (ziph | bealoth | porters)
     → Lasate sung panin Eliashib ahi hi. Kongcingte sung panin Shallum / 
 telna — shalt (blessed | eyes | knoweth)
-    → Amaute in Pasian' thukham laibu sung panin a kitel takin sim uh / 
+    → Amaute in Pasian' thukham laibu sung panin a kitel takin sim-te / 
 tem — slay (time | knives | knife)
     → Tua ciangin Abraham in a tapa that dingin tem la hi. / And Abraham stretched forth his hand, and took the knife to slay his son.
 tema — tema (troops | inhabitants | dedan)
@@ -9335,7 +9335,7 @@ ten — wife (dwell | dwelling | thou)
 teng — select (missing | saith | thou | hundred)
     → Tua ahih ciangin Gerar-ah Isaak teng hi. / And Isaac dwelt in Gerar:
 tenga — whereon (commissions | days | bed)
-    → Amaute in, “A vekpi-in zo mang khin ni,” kici uh / 
+    → Amaute in, “A vekpi-in zo mang khin ni,” kici-te / 
 tengah — deep (there | seen | hand)
     → Lamdung mualtung tengah, lamka citeng mun khempeuh ah ding a, / She standeth in the top of high places, by the way in the places of the paths.
 tengin — dwell (remaineth | canaan | become)
@@ -9343,9 +9343,9 @@ tengin — dwell (remaineth | canaan | become)
 tengkhia — cull (wise | broughtest | fathers | wicked)
     → A pil kumpipa in migilote tengkhia a, khasiat loin daantat gawp hi. / A wise king scattereth the wicked, and bringeth the wheel over them.
 tengsakin — dwell (let | land | these)
-    → “Hih mite, eite' tungah hong nop mahmah uh hi. I / 
+    → “Hih mite, eite' tungah hong nop mahmah-te hi. I / 
 tengte — chafer (inhabitants | judah | cities | plain)
-    → Rehob-a tengte ahi zongin hawlkhia lo uh hi. / 
+    → Rehob-a tengte ahi zongin hawlkhia lo-te hi. / 
 tengun — until (known | knowing | sojourning)
     → hih mun na tun’ ma sung tengun gamlakah amah in / 
 tenpih — wife (rejoiceth | over | daughter)
@@ -9353,7 +9353,7 @@ tenpih — wife (rejoiceth | over | daughter)
 tentan — imagination (pass | thou | throne)
     → hong maizumsak lo ding hi, ci-in ka thei hi. / 
 terah — terah (begat | nahor | abram)
-    → Tahath panin amaute ding khia uh / 
+    → Tahath panin amaute ding khia-te / 
 tha — strength (israel | like | feeble)
     → Vantung panin vantungmi khat hong pai a, Zeisu’ tha a hatsak hi. / And there appeared an angel unto him from heaven, strengthening him.
 thacial — given (days | year | hireling)
@@ -9374,7 +9374,7 @@ thahatzawte — whensoever (cattle | conceive | came)
 thahna — thus (land | blood | word)
     → kihihsakna, zuauthu genna, mawhnei lo mi thahna, / A proud look, a lying tongue, and hands that shed innocent blood,
 thahte — slay (soothsayer | did | children)
-    → Israel mite in adang a thahte lakah namsau tawh thatkhawm uh hi. / 
+    → Israel mite in adang a thahte lakah namsau tawh thatkhawm-te hi. / 
 thak — irritate (new | missing | flesh | earth)
     → Leenggahtui thak savun um thak sungah a kithun ding hi. / [Missing]
 thakhat — come (make | peradventure | ague)
@@ -9412,7 +9412,7 @@ thanemna — weakness (nakedness | please | god)
 thangsak — son (host | glorify | evermore)
     → Topa ka Pasian aw, ka lungsim khempeuh tawh na tungah ka lungdam / 
 thangzak — surely (whither | consume | certainty)
-    → Amau adingin thangzak ahi, amau milimte’ na seppih uh hi. / And they served their idols: which were a snare unto them.
+    → Amau adingin thangzak ahi, amau milimte’ na seppih-te hi. / And they served their idols: which were a snare unto them.
 thankik — snail (lizard | mole | ferret)
     → tawlbawkpi, tang, tangteuh, leh sehnel gam thankik ahi hi. / And the ferret, and the chameleon, and the lizard, and the snail, and the mole.
 thante — worm (thou | remembered | under)
@@ -9422,7 +9422,7 @@ that — assasinate (slew | missing | slay | men)
 thatang — work (fire | statute | servile)
     → A thatang muan’huai-in a pumpi a liat hangin, / Because he covereth his face with his fatness, and maketh collops of fat on his flanks.
 thathak — rest (thine | may | shalt)
-    → ni sagih ni-in na tawlnga ding uh hi. / 
+    → ni sagih ni-in na tawlnga ding-te hi. / 
 thatin — possessed (men | inhabitants | neighbour)
     → Topa in thatin hingsak kik hi; amah in Leinuai-ah paipih / 
 thatna — rest (innocent | slew | kings)
@@ -9430,7 +9430,7 @@ thatna — rest (innocent | slew | kings)
 thatpa — death (murderer | man | beast)
     → Mi a thatpa kithat ding hi. / And he that killeth any man shall surely be put to death.
 thatsim — smiteth (cursed | neighbour | secretly)
-    → ‘Amen,’ ci ding uh hi. / 
+    → ‘Amen,’ ci ding-te hi. / 
 thatte — person (refuge | slayer | die)
     → Kumpipa zong heh mahmah a / 
 thau — fat (fire | caul | olive)
@@ -9622,9 +9622,9 @@ thumte — these (sons | first | name)
 thun — missing (wine | together | tears)
     → Amah in tuipi tuite thawl khat sunga thun bangin mun khatah gawm / 
 thuneihna — authority (congregation | near | told | jacob)
-    → Topa Zeisu’ thuneihna tawh hih bang lamlahnate kong piak uh / 
+    → Topa Zeisu’ thuneihna tawh hih bang lamlahnate kong piak-te / 
 thuneu — petty (hast | life | poor | thing)
-    → Uliante in thu omlopi-in kei hong bawlsia uh / 
+    → Uliante in thu omlopi-in kei hong bawlsia-te / 
 thungen — prayed (name | god | pray)
     → Thungen tawntung un la, hong hehpihna phatin ngak un. / Continue in prayer, and watch in the same with thanksgiving;
 thunget — before (cry | forbid | made)
@@ -9646,7 +9646,7 @@ thupia — order (son | decree | men | give)
 thupiak — prescript (according | thing | saying | moses)
     → Noah in Topa’ thupiak khempeuh hih hi. / And Noah did according unto all that the
 thupiakna — behest (missing | commandment | according | israel)
-    → Moses tung tawnin Topa’ thupiakna tawh khualzin cilna kipan uh hi. / And they first took their journey according to the commandment of the
+    → Moses tung tawnin Topa’ thupiakna tawh khualzin cilna kipan-te hi. / And they first took their journey according to the commandment of the
 thupiaknate — commandments (thou | keep | judgments)
     → kei kinawhin, nangma thupiaknate zuih ding ka zekai kei hi. / I made haste, and delayed not to keep thy commandments.
 thupiaksa — tent (according | went | moses)
@@ -9654,11 +9654,11 @@ thupiaksa — tent (according | went | moses)
 thupiakte — commandments (thousands | thou | sin)
     → Nangma thupiakte um ka hih manin thu khentel theihna leh / 
 thupiang — man (told | bring | sun)
-    → Kanaan gamah a pa uh Jakob kiang a tun' uh ciangin / 
+    → Kanaan gamah a pa-te Jakob kiang a tun' uh ciangin / 
 thupisim — acknowledge (daughter | sending | saith)
     → Bang hang hiam cih leh / 
 thusiate — these (people | heard | evil)
-    → Mite in hih thusiate a zak uh ciangin amaute thuum uh / 
+    → Mite in hih thusiate a zak-te ciangin amaute thuum-te / 
 thusim — clandestine (god | nor | man | missing)
     → Mite in Pasian thusim lo-a, i hamphatnate hong paihkhiatsakin, / To turn aside the right of a man before the face of the most High,
 thutak — candid (missing | truth | lie | saith)
@@ -9713,7 +9713,7 @@ tola — tola (issachar | son | wit)
     → Isaakhar’ tapate: Tola, Puvah, Iob leh Shimron ahi hi. / And the sons of Issachar; Tola, and Phuvah, and Job, and Shimron.
 tolef — over (spake | israel | side)
 tolh — young (woman | years | calveth)
-    → A bawngte uh pung a, ta tolh cih zong om lo hi. / Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
+    → A bawngte-te pung a, ta tolh cih zong om lo hi. / Their bull gendereth, and faileth not; their cow calveth, and casteth not her calf.
 tom — brief (gathering | few | people | superfluous)
     → “Mihingte a nuntak hun tom a, lungkhamna tawh kidim hi. / Man that is born of a woman is of few days, and full of trouble.
 tomin — days (make | suffer | testifying)
@@ -9725,7 +9725,7 @@ ton — contract (see | face | lad | stand)
 tong — cubits (breadth | gate | twenty)
     → Inndei neute a kawm sahna tong nga pha a, / The thickness of the wall, which was for the side chamber without, was five cubits: and that which was left was the place of the side chambers that were within.
 tongkua — after (cubits | bedstead | ammon)
-    → DialpakSaiha dialleh tongkua dial ci-in nam nih nei uh hi. / 
+    → DialpakSaiha dialleh tongkua dial ci-in nam nih nei-te hi. / 
 tongli — man (cubits | bedstead | length)
     → Ka pi leh pute' inn pen Tongli, Jiangsu ah ahi hi. / 
 tonpih — certainly (mine | asses | came)
@@ -9753,14 +9753,14 @@ tuaci — best (thrust | asses | samaria)
 tuah — tramp (thou | people | uttermost | after)
     → Lungkhamna a tuah loh nadingun midikte kihu / 
 tuahin — between (there | hatch | gather)
-    → A nek khit phetun amaute gel in khua phawk uh / 
+    → A nek khit phetun amaute gel in khua phawk-te / 
 tuahna — heed (come | troubles | thou)
-    → Na tuahna mun peuh uhah na meihal biaknate uh na / 
+    → Na tuahna mun peuh uhah na meihal biaknate-te na / 
 tuahphasak — son (hast | found | quickly)
 tuahsiatna — accident (people | evil | maker | fall)
     → Tuahsiatna in mawhneite sulzuih kawikawi a, midikte tuahpha kawikawi hi. / Evil pursueth sinners: but to the righteous good shall be repayed.
 tuahsukna — smote (men | shebarim | six)
-    → Ai mite in amau' kulhkongpi mai panin Shebarim ciangdong delh uh / 
+    → Ai mite in amau' kulhkongpi mai panin Shebarim ciangdong delh-te / 
 tuak — offering (other | side | before)
     → Mipilte in thuhilhna mang a, a haipaute in lungkhamna tuak hi. / The wise in heart will receive commandments: but a prating fool shall fall.
 tuakah — side (thereof | angel | great)
@@ -9768,13 +9768,13 @@ tuakah — side (thereof | angel | great)
 tuakin — dream (offering | first | between)
     → Migilote in sihna tuakin ci-mang a, thuman mite nungta-in khang kizom hi. / The wicked are overthrown, and are not: but the house of the righteous shall stand.
 tuakun — woman (both | man | husband)
-    → A nih tuakun taikhawm uh / 
+    → A nih tuakun taikhawm-te / 
 tual — toward (court | gate | tabernacle)
     → Zeisu biakna innpi tual Solomon’ innliim ah a kawi pai hi. / And Jesus walked in the temple in Solomon's porch.
 tualpi — abide (robe | themselves | before)
     → Kumpi inn kongpi mai-a om khuapi kongzing tualpi-a om Mordekai / 
 tualsuak — side (ark | elders | officers)
-    → a upate leh a uliante leh a thukhente uh tawh / 
+    → a upate leh a uliante leh a thukhente-te tawh / 
 tualsung — born (name | law | dwell)
     → a ni sawm ni-in note-a' dingin a tawntungin thukham hi ding a / 
 tuam — covered (themselves | shalt | tent)
@@ -9801,7 +9801,7 @@ tuang — aboard (thousand | sat | ass | twelve)
 tuangin — came (camels | ass | fly)
     → Amah Kherub khat tungah tuangin leng / 
 tuangpa — backward (song | sing | name)
-    → nangma thuhilhna hangin sakol leh a tung tuangpa khawlcip uh hi. / 
+    → nangma thuhilhna hangin sakol leh a tung tuangpa khawlcip-te hi. / 
 tuangsak — camels (cried | king | king's)
     → Tua ahih ciangin Jakob ding-in / 
 tuangte — horsemen (chariots | get | egyptians)
@@ -9816,13 +9816,13 @@ tuate — missing (thou | house | before)
     → Tuate’ nungah Hoshaiah leh Judah uliante kimkhat, / And after them went Hoshaiah, and half of the princes of Judah,
 tuatekoihin — shalt (basket | thou | put)
 tuatna — calculation (jubilee | years | few | year)
-    → a topa uh mopawi simna panin hong tungin kongkhak / 
+    → a topa-te mopawi simna panin hong tungin kongkhak / 
 tubal — meshech (sister | madai | magog)
     → Jefeth’ tapate: Gomer, Magog, Madai, Javan, Tubal, Meshek, leh Tiras ahi hi. / The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 tuh — arrogate (seed | land | firstfruits | carry)
-    → Na makaite uh huih in hong mut mangsak ding / 
+    → Na makaite-te huih in hong mut mangsak ding / 
 tuhin — shalt (vineyards | plant | scatter)
-    → Amaute in lo-ah an tuhin leenggui suan uh / 
+    → Amaute in lo-ah an tuhin leenggui suan-te / 
 tuhun — beth (prophet | seer | called)
     → Ahih hangin, kumkik tuhun ciangin Sarah' sung panin nang-a' dinga / 
 tui — lake (water | waters | missing | drink)
@@ -9836,7 +9836,7 @@ tuibem — digged (depth | thou | full)
 tuibuah — savour (offer | wine | burnt)
     → masa tawh annel lawh khat leh / 
 tuibuahna — bowls (thereon | blue | put)
-    → “Ompihna Anlum sabuai tungah amaute in puan a dum phah ding uh / 
+    → “Ompihna Anlum sabuai tungah amaute in puan a dum phah ding-te / 
 tuiciin — noah (waters | missing | under)
     → Ni sagih khit cianginleitungah tuiciin tung hi. / And it came to pass after seven days, that the waters of the flood were upon the earth.
 tuidawk — looketh (sea | bay | southward)
@@ -9878,7 +9878,7 @@ tuite — waters (sea | until | hand)
 tuithawl — bread (gave | water | done)
     → Tua ciangin Pasian in ama mit hak sak / 
 tuithuk — vinegar (drink | deep | through)
-    → Galkapte zong pai uh a, tuithuk pia-in, / And the soldiers also mocked him, coming to him, and offering him vinegar,
+    → Galkapte zong pai-te a, tuithuk pia-in, / And the soldiers also mocked him, coming to him, and offering him vinegar,
 tuithukna — heaven (blessings | father | help)
     → nang hong huh ding na pa' Pasian in tunga om vantung thuphate / 
 tuitung — moved (saw | face | earth)
@@ -9888,17 +9888,17 @@ tuk — fall (men | before | mount)
 tukkhiat — leaf (off | came | evening)
     → Nitak ciangin ama kiangah a vakhu hong ciahkik / 
 tukkilhte — brought (gold | both | men)
-    → Tua ahih ciangin numei, pasal hong pai uh hi. Piak nopna lungsim / 
+    → Tua ahih ciangin numei, pasal hong pai-te hi. Piak nopna lungsim / 
 tukna — doth (whereupon | skin | fell)
-    → Ahih hangin kei ka tukna-ah amaute nuamin kikhawm uh / 
+    → Ahih hangin kei ka tukna-ah amaute nuamin kikhawm-te / 
 tuksuk — carcases (stone | sleep | face)
     → Sasialne vasate tua sate' tungah hong tuksuk ciangin Abram in / 
 tul — thousand (numbered | twenty | hundred)
     → bawng tul sawmsagih leh tulnih, / And threescore and twelve thousand beeves,
 tulak — house (forest | day | down)
-    → Mi khempeuh tulak tung uh hi; lei lakah khuaizu om hi. / And all they of the land came to a wood; and there was honey upon the ground.
+    → Mi khempeuh tulak tung-te hi; lei lakah khuaizu om hi. / And all they of the land came to a wood; and there was honey upon the ground.
 tulakah — perizzites (forests | out | cut)
-    → Tua ahih ciangin Israel-te a do dingin gamlakah galkapte kuankhia uh / 
+    → Tua ahih ciangin Israel-te a do dingin gamlakah galkapte kuankhia-te / 
 tulgiat — thousand (hundred | keeping | israel)
     → a kisim tapa khempeuh tulgiat leh zanga leh sawmgiat pha hi. / Even those that were numbered of them, were eight thousand and five hundred and fourscore.
 tulguk — hundred (forty | sixteen | thirty)
@@ -9914,23 +9914,23 @@ tulnga — thousand (men | thirty | gad)
 tulnih — thousand (men | thirty | horsemen)
     → bawng tul sawmsagih leh tulnih, / And threescore and twelve thousand beeves,
 tulsawm — thousand (twelve | men | died)
-    → Benjamin-te sung pan galhang mihing tulsawm leh tulgiat tuk uh hi. / And there fell of Benjamin eighteen thousand men; all these were men of valour.
+    → Benjamin-te sung pan galhang mihing tulsawm leh tulgiat tuk-te hi. / And there fell of Benjamin eighteen thousand men; all these were men of valour.
 tulthum — thousand (fifty | upward | men)
     → Naftali minam tul sawmnga leh tulthum leh zali pha hi. / Those that were numbered of them, even of the tribe of Naphtali, were fifty and three thousand and four hundred.
 tulza — thousand (men | hundred | angel)
-    → Mipi tulza val bang pha uh hi. / 
+    → Mipi tulza val bang pha-te hi. / 
 tulzum — paddle (thou | shalt | weapon)
-    → Na galhiamte uh banah tulzum khat na nei ding uh / 
+    → Na galhiamte-te banah tulzum khat na nei ding-te / 
 tum — buffet (come | missing | trumpet | sounded)
     → Hong hehpih loin a khut tawh a hong tum niloh hi. / Surely against me is he turned; he turneth his hand against me all the day.
 tumin — trumpets (come | smote | king)
-    → A namsau uh amau' lungtang mahah tumin / 
+    → A namsau-te amau' lungtang mahah tumin / 
 tumna — clavier (sabbath | point | thou | utmost)
     → Judah gam khempeuh Ni-tumna Tuipi dong, / 
 tumpa — quit (put | sounded | smote)
     → Kulh ciangte in na a sep kawmun a kawng ciat / 
 tumpih — bring (brought | prey | set)
-    → Tua ciangin amaute in Pasian' Thuciamna Singkuang hong tumpih uh / 
+    → Tua ciangin amaute in Pasian' Thuciamna Singkuang hong tumpih-te / 
 tumpihin — set (jacob | pharaoh | brought)
     → Tua ciangin Josef in a pa Jakob tumpihin Faro' mai-ah koih / 
 tumsak — off (against | come | hungry)
@@ -9946,11 +9946,11 @@ tun — missing (come | came | land)
 tung — reach (saith | come | missing | twelve)
     → Ni sagih khit cianginleitungah tuiciin tung hi. / And it came to pass after seven days, that the waters of the flood were upon the earth.
 tunga — thou (high | children | land)
-    → Tui tunga tuiphuan laam bangin a kumpipa uh maimang ding hi. / As for Samaria, her king is cut off as the foam upon the water.
+    → Tui tunga tuiphuan laam bangin a kumpipa-te maimang ding hi. / As for Samaria, her king is cut off as the foam upon the water.
 tungah — above (saith | missing | thou | children)
     → Hezekiah in Topa’ tungah thungenin: / And Hezekiah prayed unto the
 tungin — early (came | went | where)
-    → Sirakhas khua tungin ni thum ka taam uh hi. / And landing at Syracuse, we tarried there three days.
+    → Sirakhas khua tungin ni thum ka taam-te hi. / And landing at Syracuse, we tarried there three days.
 tungnun — people (sight | thou | goest)
     → Pengpelek bang aa tungnun kituh / 
 tungnung — upper (gate | chamber | chambers)
@@ -9966,7 +9966,7 @@ tungsiah — fathers (house | old | years)
 tungtang — well (against | another | strove)
     → Tungtang kimawlna kikhopna kikhinsuan hi. / 
 tungtangah — digged (plague | before | died)
-    → Tua ciangin amaute in tuikhuk dang khat to uh / 
+    → Tua ciangin amaute in tuikhuk dang khat to-te / 
 tungtuan — excellency (strength | dignity | power)
     → Naupangte tungtuan ah ihmu uhi. / 
 tungtuang — thou (unstable | water | shalt)
@@ -9980,7 +9980,7 @@ tunpi — hittite (before | out | hivite)
 tunpih — noah (filled | off | mouth)
     → Nong inn ka tunpih ding. / 
 tunpite — before (sent | hornet | drave)
-    → note' thal tawh ahi zongin na dona hang uh hilo hi. / 
+    → note' thal tawh ahi zongin na dona hang-te hilo hi. / 
 tup — tooth (man | spreading | day)
     → Thadahte, a tup tung ngei lo / 
 tupa — grandson (son | threescore | pertained | master's)
@@ -10006,14 +10006,14 @@ tuucing — pastoral (missing | shepherd | trade | whoredoms)
 tuucingpa — shepherd (israel | joseph | beside)
     → Tuuhon bangin Josef a paipih / 
 tuucingte — shepherds (hath | saith | away)
-    → Tuucingte’ thugenna zate khempeuh in lamdang a sa uh hi. / And all they that heard it wondered at those things which were told them by the shepherds.
+    → Tuucingte’ thugenna zate khempeuh in lamdang a sa-te hi. / And all they that heard it wondered at those things which were told them by the shepherds.
 tuuhon — flocks (cattle | bring | sheep)
     → A haupa in tuuhon leh bawnghon tampi nei hi; / The rich man had exceeding many flocks and herds:
 tuuhonnote — kine (sheep | fruit | increase)
 tuuhonte — flocks (feed | flock | sheep)
     → Na tuuhonte hoih takin thei in la / 
 tuum — covered (after | together | covenant)
-    → suangtum bangin a thukna sungah amaute kiasuk uh hi. / 
+    → suangtum bangin a thukna sungah amaute kiasuk-te hi. / 
 tuumcip — whelm (scourge | covered | cover | mountains)
     → Mual liante tungah tui omto lai / 
 tuumsak — horsemen (chariots | into | sea)
@@ -10030,7 +10030,7 @@ tuunote — rams (lambs | bullocks | offerings)
     → Tua ciangin Moses in Israel upate khempeuh samin amaute kiangah / 
 tuupi — goats (hundred | twenty | ewes)
     → keelpi zanih leh keeltal sawmnih, tuupi zanih leh tuutal sawmnih, / Two hundred she goats, and twenty he goats, two hundred ewes, and twenty rams,
-tuutal — oxen (ram | lamb | rams)
+tuutal — oxen (gam | lamb | rams)
     → a kisansak tuutal vunte, keel vunte, singkha sing, / And rams' skins dyed red, and badgers' skins, and shittim wood,
 tuutalte — bullocks (flock | take | breed)
     → “Tua ciangin nangmah in tuutalte khat la-in / 
@@ -10067,9 +10067,9 @@ ulianpa — prince (shakeh | cried | told)
 uliante — princes (nobles | philistines | rulers)
     → Tuate’ nungah Hoshaiah leh Judah uliante kimkhat, / And after them went Hoshaiah, and half of the princes of Judah,
 umcih — beleaguer (besieged | compassed | round | every)
-    → Galte’ umcih a thuak mite aw, na puanlom uh zial un! / Gather up thy wares out of the land, O inhabitant of the fortress.
+    → Galte’ umcih a thuak mite aw, na puanlom-te zial un! / Gather up thy wares out of the land, O inhabitant of the fortress.
 umcihin — off (fought | hither | plague)
-    → Amaute in kei hong sulzuih uh / 
+    → Amaute in kei hong sulzuih-te / 
 umcihna — thou (trees | children | wherewith)
     → “Assiria kumpipa Sennakherib in hih bangin ci hi: ‘Note in / 
 ummah — ummah (aphek | rehob | twenty)
@@ -10091,8 +10091,8 @@ uri — uri (son | see | sihon)
 urim — shalt (urim | priest | massah)
     → Amah in ama tungah a awmdal bulhin / 
 utna — wayward (willing | whither | governors | know)
-    → a utna lam peuhpeuh ah pai thei uh hi. / When they went, they went upon their four sides: and they turned not when they went.
-utok — inwards (fat | ram | take)
+    → a utna lam peuhpeuh ah pai thei-te hi. / When they went, they went upon their four sides: and they turned not when they went.
+utok — inwards (fat | gam | take)
     → biakna tau tungah tuate na hal ding hi. / 
 utsak — giveth (offering | every | man)
     → Hauna zonna in ka utsak kei. / 
@@ -10110,17 +10110,17 @@ vaan — firmament (sent | hand | congregation | charge)
 vaanin — hand (men | wood | neighbour)
     → note' nasepte midang kuamah in hong seppih theilo ding hi. / 
 vaanna — after (searching | land | forty)
-    → cin’ ciangin gam vaanna panin amaute hong ciahkik uh hi. / 
+    → cin’ ciangin gam vaanna panin amaute hong ciahkik-te hi. / 
 vaansa — report (land | brought | evil)
     → tamzaw in amau' vaansa gam thu Israel mite tungah / 
 vaante — son (money | together | found)
     → { Topa' } biakinn sungah / 
 vah — eaten (full | should | goodness)
-    → gilkial note nidang ciangin na gil uh / 
+    → gilkial note nidang ciangin na gil-te / 
 vai — cubits (breadth | length | maintain)
     → Sun tawntung kei bawlsiat nading bekbek kamkumin vai / 
 vaihawm — administrate (against | before | counsel | together)
-    → Sawltakte leh upate in tua thu vaihawm dingun a kikhawm uh hi. / And the apostles and elders came together for to consider of this matter.
+    → Sawltakte leh upate in tua thu vaihawm dingun a kikhawm-te hi. / And the apostles and elders came together for to consider of this matter.
 vaihawmna — administration (himself | testimony | woman | what)
     → migilote’ sawm simna, thusia bawlte’ vaihawmna, / Hide me from the secret counsel of the wicked; from the insurrection of the workers of iniquity:
 vaikhak — come (jesus | law | send)
@@ -10136,7 +10136,7 @@ vakhu — dove (pigeons | spirit | seats)
 vakhuno — offering (door | burnt | sacrifice)
     → amah in vakhu tawh ahi zongin / 
 vakna — brightness (thing | cloth | candlesticks | missing)
-    → amau in vaakna a ngah ding uh hi.” / 
+    → amau in vaakna a ngah ding-te hi.” / 
 vaksak — firmament (light | fire | shew)
     → Zeisu in buan bawlin mit / 
 vaksuk — among (send | land | describe)
@@ -10159,7 +10159,7 @@ van — baggage (missing | under | thou | god)
     → Nasep leh van puak ciangin Gershonte beh nasep ding; / This is the service of the families of the Gershonites, to serve, and for burdens:
 vandaituite — heaven (fatness | earth | dew)
 vang — puncture (thereof | god | come | broken)
-    → Han vang pan suang kilikkhia a, om mu uh a, / And they found the stone rolled away from the sepulchre.
+    → Han vang pan suang kilikkhia a, om mu-te a, / And they found the stone rolled away from the sepulchre.
 vangik — onus (burden | down | bear | heavy)
     → Issakhar in a hat la hi a, vangik nih kikal-ah lum hi; / Issachar is a strong ass couching down between two burdens:
 vanging — thunder (spake | harvest | called)
@@ -10188,7 +10188,7 @@ vankhainate — hooks (pillars | gold | taches)
     → tuate-a' dingin sumngo bullen nga na bawl ding hi. / 
 vankila — among (shekels | saw | spoils)
 vanmong — thine (forth | heaven | any)
-    → A kihawlkhia na mite uh vanmong pekah a om leh zong, / 
+    → A kihawlkhia na mite-te vanmong pekah a om leh zong, / 
 vanpi — heavens (heaven | rideth | lieth)
     → Amah bek in vanpi zal a, tuipi tuihualte tuancil hi. / Which alone spreadeth out the heavens, and treadeth upon the waves of the sea.
 vante — goods (gave | came | opened | land)
@@ -10229,7 +10229,7 @@ vazonei — after (stork | heron | kind)
     → gun vapi, gun vazonei nam khempeuh, huihtun leh bak ahi hi. / And the stork, the heron after her kind, and the lapwing, and the bat.
 vei — times (before | left | again)
     → Tuipuak natna vei khat in ama mai-ah a om hi. / And, behold, there was a certain man before him which had the dropsy.
-veii — before (wave | offering | ram)
+veii — before (wave | offering | gam)
     → taklam pheite Topa’ mai-ah veii-a biakna in veii hi. / 
 veilam — hand (right | wall | word)
     → Tuute a ziatlam, keelte a veilam a koih ding hi. / [Missing]
@@ -10244,7 +10244,7 @@ veivei — cloud (morning | abode | even)
 vekin — venison (again | neariah | sword)
     → Kei hong gensia-in na kiphatsak paunate khempeuh / 
 vekpi — all (every | thousand | known | children)
-    → a vekpi-un kha an a nekhawm uh ahi zongin, / And did all eat the same spiritual meat;
+    → a vekpi-un kha an a nekhawm-te ahi zongin, / And did all eat the same spiritual meat;
 vel — look (see | plague | day)
     → Moses in nasep khempeuh vel / 
 velin — behold (raw | see | plague)
@@ -10274,9 +10274,9 @@ vive — board (turned | charashim | fallen)
 vofsi — nahbi (naphtali | son | vophsi)
     → Naftali minam panin Vofsi’ tapa Nahbi; / Of the tribe of Naphtali, Nahbi the son of Vophsi.
 vok — pig (swine | missing | offered | off)
-    → Tua mite tawh kigamla-ah vok honkhat gamta-in a om uh hi. / And there was a good way off from them an herd of many swine feeding.
+    → Tua mite tawh kigamla-ah vok honkhat gamta-in a om-te hi. / And there was a good way off from them an herd of many swine feeding.
 vom — murk (black | cattle | goats | sheep)
-    → Kham, ngun, sumngote, na kawnggak sung uh ah na vom kei un. / [Missing]
+    → Kham, ngun, sumngote, na kawnggak sung-te ah na vom kei un. / [Missing]
 vot — cold (day | sleep | surely)
     → ahi zongin ka nekkhit ciangin ka gil sung thuk velvalsak hi. / 
 vuahep — wars (book | wherefore)
@@ -10294,7 +10294,7 @@ vuisak — therefore (days | bury | dead)
 vuite — descended (pluck | men | house)
     → Tua ciangin amah in { Topa' } biakinn panin Jerusalem pualam / 
 vuk — down (earth | dust | leprous)
-    → nin a khaknelh vuk leh tuikhal bangin na zuautat uh hi. / Which are blackish by reason of the ice, and wherein the snow is hid:
+    → nin a khaknelh vuk leh tuikhal bangin na zuautat-te hi. / Which are blackish by reason of the ice, and wherein the snow is hid:
 vukcip — called (young | overwhelmed | selah)
     → lei kihongin Dathan valhtum a, Abiram’ pawlte vukcip hi. / The earth opened and swallowed up Dathan, and covered the company of Abiram.
 vukkhal — avalanche (thing | trees | like | frost)
@@ -10370,13 +10370,13 @@ zali — thousand (hundred | begat | throughout)
 zalin — covered (fly | put | another)
     → leen'theihna ding nangma kiang panin hong sin ahi hiam? / 
 zalmonah — pitched (departed | zalmonah | hor)
-    → Zalmonah panin dingkhia uh a, Punon-ah giahphual sat uh hi. / And they departed from Zalmonah, and pitched in Punon.
+    → Zalmonah panin dingkhia-te a, Punon-ah giahphual sat-te hi. / And they departed from Zalmonah, and pitched in Punon.
 zam — wall (smote | took | sea)
     → tuipi lamah a hiangte zam-in, a dawnngekte in Gunpi lam zuan hi. / She sent out her boughs unto the sea, and her branches unto the river.
 zamari — zemarite (arvadite | hamathite | afterward)
     → Arvad mite, Zamari mite leh Hamath mite’ pian’na pupi ahi / 
 zamzummim — tall (many | anakims | people)
-    → amau' munah teng uh hi. / 
+    → amau' munah teng-te hi. / 
 zan — night (hand | came | thou)
     → Tua zan mahmah in Babilon kumpipa Belshazzar kithat a, / In that night was Belshazzar the king of the Chaldeans slain.
 zang — spend (lord | people | before | thou)
@@ -10400,9 +10400,9 @@ zankim — midnight (missing | thus | outside)
 zanna — utterly (stretched | out | spear)
     → Bang hang hiam cih leh Ai khuami khempeuh / 
 zanoah — zanoah (gate | thereof | valley)
-    → amaute pen Beersheba panin Hinnom Kuam dongah teng uh hi. / 
+    → amaute pen Beersheba panin Hinnom Kuam dongah teng-te hi. / 
 zap — over (none | send | became)
-    → “Vasa-kalaohte in a kha uh bangzah takin nawh zap thei / 
+    → “Vasa-kalaohte in a kha-te bangzah takin nawh zap thei / 
 zarah — pharez (onan | sons | judah)
 zasa — speak (nations | heard | fame)
     → Tu-in hih mite mihing khat thah bangin that lecin / 
@@ -10449,7 +10449,7 @@ zawngkhal — away (asa | how | faileth)
 zawngkhalna — eyes (mildew | blasting | many)
     → “Gam sungah kialpi tungin, pulnatna ahi / 
 zawngpa — countenance (wrest | gates | man)
-    → ama' thu neihna-ah mi zawngpa na lang neih kei ding uh hi. / Neither shalt thou countenance a poor man in his cause.
+    → ama' thu neihna-ah mi zawngpa na lang neih kei ding-te hi. / Neither shalt thou countenance a poor man in his cause.
 zawngte — rest (shekel | grape | portions)
     → zawngte huhna dingin sum piakding amau thu-in / 
 zawnin — pursued (took | brethren | after)
@@ -10457,11 +10457,11 @@ zawnin — pursued (took | brethren | after)
 zawsop — evil (against | blessing | blessed)
     → Pasian hehin daan a piak ciangin, migilote peng tawntung zawsop hi. / That the wicked is reserved to the day of destruction? they shall be brought forth to the day of wrath.
 zawt — like (themselves | searched | hast)
-    → suntangpi mahin zan bangin mial a zawt uh hi. / 
+    → suntangpi mahin zan bangin mial a zawt-te hi. / 
 zawte — jacob's (before | served | dogs)
     → a thahat zawte Jakob-a' ahi hi. / 
 zeadad — forth (border | entrance | hamath)
-    → Hor Mual panin Hamath tumna ciang dong na ciamteh ding uh / 
+    → Hor Mual panin Hamath tumna ciang dong na ciamteh ding-te / 
 zeboi — gomorrah (king | grass | set)
 zebulun — zebulun (tribe | those | son)
     → Zebulun, sung panin Helon’ tapa Eliab; / Of Zebulun; Eliab the son of Helon.
@@ -10470,7 +10470,7 @@ zefenath — name (joseph | pharaoh | called)
 zefo — omar (duke | teman | zepho)
     → Elifaz' tapate: Teman, Omar, Zefo, Gatam, leh Kenaz ahi hi. / And the sons of Eliphaz were Teman, Omar, Zepho, and Gatam, and Kenaz.
 zefon — zephon (family | children | gad)
-    → Amau' behbehin Gad minamte: Zefon pan Zefon behte ahi uh / 
+    → Amau' behbehin Gad minamte: Zefon pan Zefon behte ahi-te / 
 zekai — belated (tarry | deferred | lingered | fruits)
     → kei kinawhin, nangma thupiaknate zuih ding ka zekai kei hi. / I made haste, and delayed not to keep thy commandments.
 zekaisak — seeing (hinder)
@@ -10480,7 +10480,7 @@ zel — house (went | peacocks | year)
 zela — zelah (jonathan | benjamin | bones)
     → leh Kiriathjearim — khuapi sawmleli / 
 zelofehad — zelophehad (families | daughters | thing)
-    → Topa in Moses a thupiak bangin Zelofehad’ tanute gamta uh hi; / Even as the
+    → Topa in Moses a thupiak bangin Zelofehad’ tanute gamta-te hi; / Even as the
 zem — blue (arise | fasten | men)
     → Ahisamak' tapa Oholiab in zong amah a huh hi. / 
 zemaraim — zemaraim (mount | abijah | stood)
@@ -10490,7 +10490,7 @@ zemin — put (gold | shod | thou)
 zenan — zenan (hadashah | migdal | gad)
     → Tua banah Zenan, Hadashah, Migdalgad, / Zenan, and Hadashah, and Migdal–gad,
 zenzen — forbid (sheep | eggs | means)
-    → Sanggam numeino khat ka nei uh / 
+    → Sanggam numeino khat ka nei-te / 
 zepna — decoration (gold | wreathen | make | sleep)
     → Tawmkhat ihmutna, tawmkhat lusukna, tawmkhat sung na sem loin khut zepna hangin, / Yet a little sleep, a little slumber, a little folding of the hands to sleep:
 zepnate — overlaying (chapiters | overlaid | pillars)
@@ -10501,7 +10501,7 @@ zerah — zerah (son | nahath | family)
     → a pa Ethni, a pa Zerah, a pa Adaiah, / The son of Ethni, the son of Zerah, the son of Adaiah,
 zerahte — family (zarhites | brought | man)
 zered — valley (brook | generation | zered)
-    → Tua lai panin dingkhia uh a, Zered Kuam-ah giahphual sat uh hi. / From thence they removed, and pitched in the valley of Zered.
+    → Tua lai panin dingkhia-te a, Zered Kuam-ah giahphual sat-te hi. / From thence they removed, and pitched in the valley of Zered.
 zereth — valley (shahar | mount | kiriathaim)
     → Kiriathaim, Sibmah, leh tua kuam mualtunga om Zereth-shahar, / And Kiriathaim, and Sibmah, and Zereth–shahar in the mount of the valley,
 zerethan — far (came | down | sea)
@@ -10514,7 +10514,7 @@ zibeon — anah (zibeon | sons | shobal)
 ziddim — hammath (ziddim | zer | rakkath)
     → Kulh a nei khuapite in Ziddim, Zer, Hamnath, Rakkath, Khinnereth, / And the fenced cities are Ziddim, Zer, and Hammath, Rakkath, and Chinnereth,
 zif — ziph (david | gibeah | went)
-    → Jehallelel' tapate: Zif, Zifah, Tiria, leh Asarel ahi uh hi. / And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.
+    → Jehallelel' tapate: Zif, Zifah, Tiria, leh Asarel ahi-te hi. / And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.
 zifion — gad (sons | ziphion | haggi)
     → Gad’ tapate: Zifion, Haggi, Shuni, Ezbon, Eri, Arodi, leh Areli ahi hi. / And the sons of Gad; Ziphion, and Haggi, Shuni, and Ezbon, Eri, and Arodi, and Areli.
 zifron — ziphron (border | goings | out)
@@ -10539,11 +10539,11 @@ zing — morrow (came | pass | day)
 zingciang — morrow (corn | behold | jonathan | rose)
     → a mangthangpak daitui tawh kibang lel hi. / 
 zingsang — morning (next | came | day)
-    → Zingsang a kipan nitak dong a hong zahpih uh hi. / Behold their sitting down, and their rising up; I am their musick.
+    → Zingsang a kipan nitak dong a hong zahpih-te hi. / Behold their sitting down, and their rising up; I am their musick.
 zingsanga — sittest (beside | cloud | morning)
     → A zing ciangin mite' thu a khen dingin Moses tu / 
 zingsangin — rose (early | morning | day)
-    → zingsangin palhin thaksuak kik a, nitak ciangin vulin keu uh hi. / In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
+    → zingsangin palhin thaksuak kik a, nitak ciangin vulin keu-te hi. / In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
 zinna — reason (our | these | garments)
     → Note kiang panin mundang ka zinna ding peuhpeuhah kei na / 
 zinte — sabbath (house | ministered | bought)
@@ -10581,7 +10581,7 @@ zon — seek (missing | shalt | could)
 zong — also (missing | saith | house | thou)
     → tuu leh bawng khempeuh, gamsa khempeuh zong, / All sheep and oxen, yea, and the beasts of the field;
 zongin — missing (nevertheless | nor | thou)
-    → Ahi zongin Korah’ tapate si lo uh hi. / Notwithstanding the children of Korah died not.
+    → Ahi zongin Korah’ tapate si lo-te hi. / Notwithstanding the children of Korah died not.
 zongun — stiffnecked (lord | our | sight)
     → Na nuih hong mu kei zongun nui in! / 
 zop — raise (partakers | brother | husband)
@@ -10593,7 +10593,7 @@ zuak — sell (sold | nor | selleth)
 zuakin — should (oil | jesus | been)
     → Tua paknamtui man tampi-in zuakin mizawngte / 
 zuakna — sale (restore | eat | testified | saith)
-    → Tua mah bangin Israel mite gamta uh hi. Amaute in kaikhawm uh / 
+    → Tua mah bangin Israel mite gamta-te hi. Amaute in kaikhawm-te / 
 zuakpa — joseph's (land | joseph | over)
     → “Vantung Gam in suang manpha a zong, sum zuakpa tawh kibang hi. / [Missing]
 zuaksa — brother (vision | sold | redeem)
@@ -10615,7 +10615,7 @@ zuau — against (god | false | people)
 zuauna — lies (presumptuously | speak | remove)
     → Hoihna sangin siatna na deihzaw / 
 zuautat — counsel (thing | children | falsehood)
-    → nin a khaknelh vuk leh tuikhal bangin na zuautat uh hi. / Which are blackish by reason of the ice, and wherein the snow is hid:
+    → nin a khaknelh vuk leh tuikhal bangin na zuautat-te hi. / Which are blackish by reason of the ice, and wherein the snow is hid:
 zuauthu — untruth (lie | lies | thou | tongue)
     → kihihsakna, zuauthu genna, mawhnei lo mi thahna, / A proud look, a lying tongue, and hands that shed innocent blood,
 zuhai — ropy (glutton | our | rebellious | obey)
@@ -10645,7 +10645,7 @@ zungbuhte — earrings (oblation | beryl | nose)
 zur — baal (son | people | rekem)
     → Issakhar’ sung panin Zur’ tapa Nethanel; / Of Issachar; Nethaneel the son of Zuar.
 zuriel — son (father | families | merari)
-    → amaute pen biakbuk leilu lampangah giahphual a sat dingte ahi uh hi. / 
+    → amaute pen biakbuk leilu lampangah giahphual a sat dingte ahi-te hi. / 
 zurishaddai — son (children | shelumiel | zurishaddai)
     → Simeon sung panin Zurishaddai’ tapa Shelumiel; / Of Simeon; Shelumiel the son of Zurishaddai.
 zusa — rat (tortoise | flesh | mouse | earth)

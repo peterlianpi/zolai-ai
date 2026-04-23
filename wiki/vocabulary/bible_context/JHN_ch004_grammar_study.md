@@ -28,7 +28,7 @@
 
 **TDB77:** Zeisu in Johan sangin nungzui tamzaw a suahsakna leh a baptaiz thu, Farisaite in thei cih Topa in a theih ciangin,
 
-**ZVS:** Jesuh in Johan sangin mi tam ngahzaw-in a tuiphumna thu Farisi mite in a za uh hi.
+**ZVS:** Jesuh in Johan sangin mi tam ngahzaw-in a tuiphumna thu Farisi mite in a za-te hi.
 
 ### v2
 **EN:** (Though Jesus himself baptized not, but his disciples,)
@@ -40,7 +40,7 @@
 ### v3
 **EN:** He left Judaea, and departed again into Galilee.
 
-**TDB77:** Ahih hangin Zeisu in a baptaiz kei hi; a nungzuite in a baptaiz uh hi.
+**TDB77:** Ahih hangin Zeisu in a baptaiz kei hi; a nungzuite in a baptaiz-te hi.
 
 **ZVS:** Jesuh in tua thu a phawk ciangin Judea gam panin paikhia-in Galilee gamah a paikik hi.
 
@@ -83,18 +83,18 @@
 ### v8
 **EN:** (For his disciples were gone away unto the city to buy meat.)
 
-**TDB77:** Bang hang hih bangin ngen hiam i cih leh, a nungzuite an lei dingin khua sungah a pai khin zo uh hi.
+**TDB77:** Bang hang hih bangin ngen hiam i cih leh, a nungzuite an lei dingin khua sungah a pai khin zo-te hi.
 
-**ZVS:** Tua laitakin khuasungah an lei dingin Jesuh nungzuite paikhia khin uh hi.
+**ZVS:** Tua laitakin khuasungah an lei dingin Jesuh nungzuite paikhia khin-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v9
 **EN:** Then saith the woman of Samaria unto him, How is it that thou, being a Jew, askest drink of me, which am a woman of Samaria? for the Jews have no dealings with the Samaritans.
 
-**TDB77:** Samaria numei in, “Nang Judah mi na hi napi-in kei Samaria numei kiangah bang hangin tui dawn ding hong ngen na hi hiam?” a ci hi. Bang hang hiam i cih leh, Judah mite in Samaria mite tawh a kihopih thei kei uh hi.
+**TDB77:** Samaria numei in, “Nang Judah mi na hi napi-in kei Samaria numei kiangah bang hangin tui dawn ding hong ngen na hi hiam?” a ci hi. Bang hang hiam i cih leh, Judah mite in Samaria mite tawh a kihopih thei kei-te hi.
 
-**ZVS:** Jew mite in buah tang uh a, Samaria mite' na zatte zanglo uh ahih manin, Samaria numei in Jesuh kiangah, “Bang hangin nang Jew mi in kei Samaria numei kiangah tui hong ngen na hi hiam?” a ci hi.
+**ZVS:** Jew mite in buah tang-te a, Samaria mite' na zatte zanglo-te ahih manin, Samaria numei in Jesuh kiangah, “Bang hangin nang Jew mi in kei Samaria numei kiangah tui hong ngen na hi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -119,7 +119,7 @@
 ### v12
 **EN:** Art thou greater than our father Jacob, which gave us the well, and drank thereof himself, and his children, and his cattle?
 
-**TDB77:** Hih tuikhuk hong piapa leh, amah akipan a tate leh a ganhingte in a dawn uh i pu Jakob sangin na lianzaw hiam?” ci-in a dawng hi.
+**TDB77:** Hih tuikhuk hong piapa leh, amah akipan a tate leh a ganhingte in a dawn-te i pu Jakob sangin na lianzaw hiam?” ci-in a dawng hi.
 
 **ZVS:** Tua thamloin, i pupi Jakob sangin lianzaw ding na hi hiam? Amah-a kipan a tate leh a ganhingte in a nek hih tui sangin a limcizaw koi-ah ngah ding na hi hiam?” a cih ciangin
 
@@ -128,9 +128,9 @@
 ### v13
 **EN:** Jesus answered and said unto her,
 
-**TDB77:** Zeisu in, “Hih tui a dawn mi khempeuh in a nung ciangin tui a duh kik ding uh hi.
+**TDB77:** Zeisu in, “Hih tui a dawn mi khempeuh in a nung ciangin tui a duh kik ding-te hi.
 
-**ZVS:** Jesuh in, “Hih tui a dawn khempeuh dangtak kik ding uh a,
+**ZVS:** Jesuh in, “Hih tui a dawn khempeuh dangtak kik ding-te a,
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -171,16 +171,16 @@
 ### v20
 **EN:** Our fathers worshipped in this mountain; and ye say, that in Jerusalem is the place where men ought to worship.
 
-**TDB77:** Ka pute ka pate un hih mual tungah Pasian a bia ngei uh hi. Note in ahih leh, ‘Jerusalem khua bekah mite in Pasian a bia ding uh hi,’ na ci uh hi,” a ci hi.
+**TDB77:** Ka pute ka pate un hih mual tungah Pasian a bia ngei-te hi. Note in ahih leh, ‘Jerusalem khua bekah mite in Pasian a bia ding-te hi,’ na ci-te hi,” a ci hi.
 
-**ZVS:** Ko Samaria mite' pupite in hih lai mualtungah Pasian bia uh a, ahi zongin no Jew mite in Pasian biakna mun pen Jerusalem khua ahi hi, na ci uh hi,” a cih ciangin
+**ZVS:** Ko Samaria mite' pupite in hih lai mualtungah Pasian bia-te a, ahi zongin no Jew mite in Pasian biakna mun pen Jerusalem khua ahi hi, na ci-te hi,” a cih ciangin
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v21
 **EN:** Jesus saith unto her,
 
-**TDB77:** Zeisu in, “Numei aw, ka thu hong um in. Hih mual tungah ahi zongin, Jerusalem khua sungah ahi zongin Pa Pasian na biak loh nading uh hun hong tung ding hi.
+**TDB77:** Zeisu in, “Numei aw, ka thu hong um in. Hih mual tungah ahi zongin, Jerusalem khua sungah ahi zongin Pa Pasian na biak loh nading-te hun hong tung ding hi.
 
 **ZVS:** Jesuh in, “Lawm aw, hih ka thugen ding hong um in: Mite in hih mualtung hita leh Jerusalem hita lehah Pa Pasian a biak nawnloh hun hong tung ding hi.
 
@@ -207,9 +207,9 @@
 ### v27
 **EN:** And upon this came his disciples, and marvelled that he talked with the woman: yet no man said, What seekest thou? or, Why talkest thou with her?
 
-**TDB77:** Tua ciangin ama nungzuite hong pai uh a, numei tawh a kihopihna lamdang a sa uh hi. Ahih hangin, “Bang deih na hi hiam? Tua numei tawh bang hangin thugen na hi hiam?” ci-in kuamah in a dong ngam kei uh hi.
+**TDB77:** Tua ciangin ama nungzuite hong pai-te a, numei tawh a kihopihna lamdang a sa-te hi. Ahih hangin, “Bang deih na hi hiam? Tua numei tawh bang hangin thugen na hi hiam?” ci-in kuamah in a dong ngam kei-te hi.
 
-**ZVS:** Tua laitakin Jesuh nungzuite hong tung uh a, ahi zongin kuamah in, “Numei aw, bang deih na hi hiam?” cihna ahi a, “Bang hangin tua numei tawh kiho na hi hiam?” cihna ahi zongin dong ngamlo uh hi.
+**ZVS:** Tua laitakin Jesuh nungzuite hong tung-te a, ahi zongin kuamah in, “Numei aw, bang deih na hi hiam?” cihna ahi a, “Bang hangin tua numei tawh kiho na hi hiam?” cihna ahi zongin dong ngamlo-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -234,18 +234,18 @@
 ### v30
 **EN:** Then they went out of the city, and came unto him.
 
-**TDB77:** Amaute khua sung pan paikhia uh a, a kiangah a pai uh hi.
+**TDB77:** Amaute khua sung pan paikhia-te a, a kiangah a pai-te hi.
 
-**ZVS:** Tua ahih manin a khuapihte zong Jesuh kiangah a va pai uh hi.
+**ZVS:** Tua ahih manin a khuapihte zong Jesuh kiangah a va pai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** In the mean while his disciples prayed him, saying, Master, eat.
 
-**TDB77:** Amaute a tun’ ma-in a nungzuite in, “Rabbi aw, an ne in,” a ci uh hi.
+**TDB77:** Amaute a tun’ ma-in a nungzuite in, “Rabbi aw, an ne in,” a ci-te hi.
 
-**ZVS:** Mite a hong tun'ma hunsung tengin a nungzuite in, “Sia aw, an ne in,” ci-in a kun uh hi.
+**ZVS:** Mite a hong tun'ma hunsung tengin a nungzuite in, “Sia aw, an ne in,” ci-in a kun-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -254,16 +254,16 @@
 
 **TDB77:** Zeisu in, “Note theih loh an nek ding ka nei hi,” a ci hi.
 
-**ZVS:** Ahi zongin Jesuh in, “Note in na theihloh uh nek ding an ka nei hi,” a na ci hi.
+**ZVS:** Ahi zongin Jesuh in, “Note in na theihloh-te nek ding an ka nei hi,” a na ci hi.
 
 **Grammar:** quotative: said/saying
 
 ### v33
 **EN:** Therefore said the disciples one to another, Hath any man brought him ought to eat?
 
-**TDB77:** Tua ahih ciangin a nungzuite in, “Mi khatpeuh in an nek ding hong puak zo hiam?” ci-in khat leh khat a kikum uh hi.
+**TDB77:** Tua ahih ciangin a nungzuite in, “Mi khatpeuh in an nek ding hong puak zo hiam?” ci-in khat leh khat a kikum-te hi.
 
-**ZVS:** Tua ahih manin a nungzuite khatlekhat kiho-in, “Mi khatpeuh in an na puak khin hi ding ahi hiam?” a kici uh hi.
+**ZVS:** Tua ahih manin a nungzuite khatlekhat kiho-in, “Mi khatpeuh in an na puak khin hi ding ahi hiam?” a kici-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -277,25 +277,25 @@
 ### v39
 **EN:** And many of the Samaritans of that city believed on him for the saying of the woman, which testified, He told me all that ever I did.
 
-**TDB77:** Numei in, “Ka gamtatna khempeuh hong lak hi,” ci-a teci a pan’na thu hangin tua Samaria khuami tampite in Zeisu thu a um uh hi.
+**TDB77:** Numei in, “Ka gamtatna khempeuh hong lak hi,” ci-a teci a pan’na thu hangin tua Samaria khuami tampite in Zeisu thu a um-te hi.
 
-**ZVS:** Tua numei in, “Ka gamtatnasate khempeuh hong thei hi,” ci-in a thugenna hangin tua khuasunga om Samaria mi tampi tak in Jesuh a um uh hi.
+**ZVS:** Tua numei in, “Ka gamtatnasate khempeuh hong thei hi,” ci-in a thugenna hangin tua khuasunga om Samaria mi tampi tak in Jesuh a um-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v40
 **EN:** So when the Samaritans were come unto him, they besought him that he would tarry with them: and he abode there two days.
 
-**TDB77:** Tua hi a, Samaria mite a kiangah a tun’ uh ciangin, amau khua-ah a tam nadingin a thuum uh ciangin ni nih a tam hi.
+**TDB77:** Tua hi a, Samaria mite a kiangah a tun’ uh ciangin, amau khua-ah a tam nadingin a thuum-te ciangin ni nih a tam hi.
 
-**ZVS:** Tua ahih manin Jesuh kiangah Samaria mite a va tun' uh ciangin amaute' khua-ah a taamna dingin kun uh a, Jesuh zong tua khua-ah ni nih a taam hi.
+**ZVS:** Tua ahih manin Jesuh kiangah Samaria mite a va tun' uh ciangin amaute' khua-ah a taamna dingin kun-te a, Jesuh zong tua khua-ah ni nih a taam hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v41
 **EN:** And many more believed because of his own word;
 
-**TDB77:** Ama thu hangin mi tampi in a up beh uh hi.
+**TDB77:** Ama thu hangin mi tampi in a up beh-te hi.
 
 **ZVS:** Tua ahih manin tua numei' thugenna hangin Jesuh a um mi tampi tak kibehlap hi.
 
@@ -304,9 +304,9 @@
 ### v42
 **EN:** And said unto the woman, Now we believe, not because of thy saying: for we have heard him ourselves, and know that this is indeed the Christ, the Saviour of the world.
 
-**TDB77:** Amaute in numei kiangah, “Tu-in ahih leh, kote in na genna hangin um ka hi kei uh hi. Kote in zong ka za teekteek uh a, hih pa in leitung mite’ Gumpa ahi takpi hi ci-in ka thei uh hi,” a ci uh hi.
+**TDB77:** Amaute in numei kiangah, “Tu-in ahih leh, kote in na genna hangin um ka hi kei-te hi. Kote in zong ka za teekteek-te a, hih pa in leitung mite’ Gumpa ahi takpi hi ci-in ka thei-te hi,” a ci-te hi.
 
-**ZVS:** Tua thu um mite in tua numei kiangah, “Nangma thugenna hangin a um ka hi nawn kei uh a, komau mahmah in a thugen za-in, leitung mite a Honkhia dingpa taktak hi, ci-in thei ka hih manun a um ka hi uh hi,” a ci uh hi.
+**ZVS:** Tua thu um mite in tua numei kiangah, “Nangma thugenna hangin a um ka hi nawn kei-te a, komau mahmah in a thugen za-in, leitung mite a Honkhia dingpa taktak hi, ci-in thei ka hih manun a um ka hi-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -329,9 +329,9 @@
 ### v45
 **EN:** Then when he was come into Galilee, the Galilaeans received him, having seen all the things that he did at Jerusalem at the feast: for they also went unto the feast.
 
-**TDB77:** Tua ahih ciangin, Galile gam a tun’ ciangin Galile mite in amah a ngai uh hi. Bang hang hiam i cih leh, Jerusalem khua pawikhamna-ah a bawl nate khempeuh a mu uh hi. Bang hang hiam i cih leh, tuate zong pawikhamna-ah a pai uh hi.
+**TDB77:** Tua ahih ciangin, Galile gam a tun’ ciangin Galile mite in amah a ngai-te hi. Bang hang hiam i cih leh, Jerusalem khua pawikhamna-ah a bawl nate khempeuh a mu-te hi. Bang hang hiam i cih leh, tuate zong pawikhamna-ah a pai-te hi.
 
-**ZVS:** Paisan Pawi hun laitakin Jerusalem-ah Galilee mite va pai-in, tua pawi sungah Jesuh' septe khempeuh mu khin uh ahih manin, Jesuh a tun' ciangin Galilee mite in na limbawl mahmah uh hi.
+**ZVS:** Paisan Pawi hun laitakin Jerusalem-ah Galilee mite va pai-in, tua pawi sungah Jesuh' septe khempeuh mu khin-te ahih manin, Jesuh a tun' ciangin Galilee mite in na limbawl mahmah-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -356,9 +356,9 @@
 ### v48
 **EN:** Then said Jesus unto him,
 
-**TDB77:** Zeisu in, “Note in nalamdang leh lim na muh kei uh leh, na um kei ding uh hi.” a cih ciangin,
+**TDB77:** Zeisu in, “Note in nalamdang leh lim na muh kei-te leh, na um kei ding-te hi.” a cih ciangin,
 
-**ZVS:** Jesuh in ama kiangah, “Note in lim leh na lamdang lian ka bawl na muh kei uh leh Topa ka hihna thu na hong um kei ding uh hi,” a cih ciangin
+**ZVS:** Jesuh in ama kiangah, “Note in lim leh na lamdang lian ka bawl na muh kei-te leh Topa ka hihna thu na hong um kei ding-te hi,” a cih ciangin
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -383,27 +383,27 @@
 ### v51
 **EN:** And as he was now going down, his servants met him, and told him, saying, Thy son liveth.
 
-**TDB77:** Amah lampi-ah a paisuk lai takin a silate in hong dawn uh a, “Na tapa a dam zo hi topa aw,” ci-in a ko uh hi.
+**TDB77:** Amah lampi-ah a paisuk lai takin a silate in hong dawn-te a, “Na tapa a dam zo hi topa aw,” ci-in a ko-te hi.
 
-**ZVS:** Lampi-ah a nasemte in na dawntuah uh a, “Na tapa nungta ding hi,” ci-in na ko uh hi.
+**ZVS:** Lampi-ah a nasemte in na dawntuah-te a, “Na tapa nungta ding hi,” ci-in na ko-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v52
 **EN:** Then enquired he of them the hour when he began to amend. And they said unto him, Yesterday at the seventh hour the fever left him.
 
-**TDB77:** Tua ahih ciangin, “Bang hunin a noptuam a kipan hiam?” ci-in a dot ciangin amau in, “Zanni-in nai sawm leh nai khat lai takin a natna a dam hi,” a ci uh hi.
+**TDB77:** Tua ahih ciangin, “Bang hunin a noptuam a kipan hiam?” ci-in a dot ciangin amau in, “Zanni-in nai sawm leh nai khat lai takin a natna a dam hi,” a ci-te hi.
 
-**ZVS:** Amah in, “Bang hunin a noptuam hong kipan ahi hiam?” ci-in a dot ciangin amaute in, “Zan sun nai khat pawlin a cisa hong kiamvat hi,” ci-in a dawng uh hi.
+**ZVS:** Amah in, “Bang hunin a noptuam hong kipan ahi hiam?” ci-in a dot ciangin amaute in, “Zan sun nai khat pawlin a cisa hong kiamvat hi,” ci-in a dawng-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v53
 **EN:** So the father knew that it was at the same hour, in the which Jesus said unto him,
 
-**TDB77:** Tua hun in, “Na tapa a nungta ding hi,” ci-in Zeisu in a cih hun ahi hi ci-in a theih ciangin, amah akipan a innkuanpihte khempeuh tawh Zeisu thu a um uh hi.
+**TDB77:** Tua hun in, “Na tapa a nungta ding hi,” ci-in Zeisu in a cih hun ahi hi ci-in a theih ciangin, amah akipan a innkuanpihte khempeuh tawh Zeisu thu a um-te hi.
 
-**ZVS:** Jesuh in, “Na tapa nungta ding hi,” a cih hun tawh a kituak lian ahihna thu a pa in thei a, amah-a kipan a innkuanpihte khempeuh in Jesuh a um uh hi.
+**ZVS:** Jesuh in, “Na tapa nungta ding hi,” a cih hun tawh a kituak lian ahihna thu a pa in thei a, amah-a kipan a innkuanpihte khempeuh in Jesuh a um-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 

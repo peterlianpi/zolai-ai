@@ -10,7 +10,7 @@
 **Synonyms:** kiu, metloin, tualnote
 **CEFR:** A1
 **Usage:** Attested 75× across 2 Bible books.
-> *Note in na baa samte uh metloin na khamul mongte*
+> *Note in na baa samte-te metloin na khamul mongte*
 
 ### baal
 **[n]** eddo
@@ -212,7 +212,7 @@
 **Synonyms:** lingsakgawp, keenhawmte, suanghawmpite
 **CEFR:** A1
 **Usage:** Attested 45× across 2 Bible books.
-> *buite leh bakte a paih ding uh hi.*
+> *buite leh bakte a paih ding-te hi.*
 
 ### bakuth
 **[]** bachuth
@@ -512,7 +512,7 @@
 **Related:** baan sagaap tunga kiheem puan, baan dim, baan sagaap, baan (liangko leh kiu kikaal), baan tuam kidaalna galvan nam khat
 **CEFR:** A2
 **Usage:** Adverb — place before verb or at sentence start.
-> *Malluk, Harim, Baanah-te ahi uh hi.*
+> *Malluk, Harim, Baanah-te ahi-te hi.*
 > → Malluch, Harim, Baanah.
 > `NEH 10:27`
 
@@ -588,7 +588,7 @@
 **Related:** sanggamte, mattaniah
 **CEFR:** A2
 **Usage:** Attested 325× across 2 Bible books.
-> *leh Akkub-te pen vankoihna kongpite a cing kongcingte ahi uh hi.*
+> *leh Akkub-te pen vankoihna kongpite a cing kongcingte ahi-te hi.*
 
 ### baladan
 **[n]** baladan
@@ -651,7 +651,7 @@
 **[]** benaiah
 **Meanings:** benaiah | eliab | jeiel | shemiramoth | jehiel | mattithiah
 **CEFR:** A2
-> *tua ciangin amaute tawh pawl nihna-in a behte uh Zekhariah Ja-aziel*
+> *tua ciangin amaute tawh pawl nihna-in a behte-te Zekhariah Ja-aziel*
 
 ### banbanin
 **[n]** house
@@ -659,7 +659,7 @@
 **Related:** khit, gen, kamsangte, zongin, tung
 **CEFR:** A2
 **Usage:** Attested 1560× across 26 Bible books.
-> *amaute dah mahmah uh a*
+> *amaute dah mahmah-te a*
 
 ### banbulh
 **[n]** arm
@@ -675,7 +675,7 @@
 **Related:** ngei, kote, theihna, maitang, kihotkhiat
 **CEFR:** A2
 **Usage:** Attested 579× across 5 Bible books.
-> *Ka ngei uh hong bangsakkik in*
+> *Ka ngei-te hong bangsakkik in*
 
 ### bangtung
 **[n]** side
@@ -698,7 +698,7 @@
 **Related:** levi, tapa, hodiah, sherebiah, jeshua
 **CEFR:** A2
 **Usage:** Attested 915× across 8 Bible books.
-> *Hodiah, Bani, Beninu ahi uh hi.*
+> *Hodiah, Bani, Beninu ahi-te hi.*
 > → Hodijah, Bani, Beninu.
 > `NEH 10:13`
 
@@ -780,7 +780,7 @@
 **Meanings:** daughter | judah | born | onan | shelah | three
 **CEFR:** A2
 **Usage:** Attested 105× across 2 Bible books.
-> *Judah' tapate: Er, Onan, leh Shelah ahi uh hi. Hih*
+> *Judah' tapate: Er, Onan, leh Shelah ahi-te hi. Hih*
 
 ### batsakkik
 **[]** house
@@ -1016,7 +1016,7 @@
 **Meanings:** deceitful | david | wrong | came | called | persecuting
 **CEFR:** B1
 **Usage:** Attested 185× across 6 Bible books.
-> *kibatna uh khat om hi. { Topa } in*
+> *kibatna-te khat om hi. { Topa } in*
 
 ### bawlsiasak
 **[v]** prey
@@ -1052,7 +1052,7 @@
 **Meanings:** call | know | god | after | suffered | before
 **CEFR:** B1
 **Usage:** Attested 25× across 2 Bible books.
-> *Tua ciangin nong thungetna uh ka hong pia ding*
+> *Tua ciangin nong thungetna-te ka hong pia ding*
 
 ### bawlsiatpa
 **[n]** thus
@@ -1136,7 +1136,7 @@
 **Related:** khut, lungdamna, phat, nakpi
 **CEFR:** B1
 **Usage:** Attested 161× across 5 Bible books.
-> *na khut uh beeng un! Lungdamna la nakpi-in sa-in Pasian phat un.*
+> *na khut-te beeng un! Lungdamna la nakpi-in sa-in Pasian phat un.*
 
 ### beibei
 **[n]** proverb
@@ -1164,7 +1164,7 @@
 **Meanings:** thus | therefore | saith | tell | lord
 **CEFR:** B1
 **Usage:** Attested 40× across 2 Bible books.
-> *nei nawn kei ding uh hi. Tu-in*
+> *nei nawn kei ding-te hi. Tu-in*
 
 ### beita
 **[v]** elapse
@@ -1320,7 +1320,7 @@
 **[]** missing
 **Meanings:** missing | cast | hath | beelzebub | devils | out
 **CEFR:** B2
-> *Farisaite in a zak uh ciangin*
+> *Farisaite in a zak-te ciangin*
 > `MAT 12:24`
 
 ### beitumsak
@@ -1512,7 +1512,7 @@
 **[]** christ
 **Meanings:** christ | been | baptized | into | put | many
 **CEFR:** C1
-> *Bang hang hiam na cih uh leh*
+> *Bang hang hiam na cih-te leh*
 > `GAL 3:27`
 
 ### bawkbak
@@ -1525,7 +1525,7 @@
 **Meanings:** holy | saved | washing | regeneration | renewing | ghost
 **CEFR:** C1
 **Usage:** Attested 90× across 4 Bible books.
-> *mang nuamlote bawlphat zawh nawnloh dongin kisia ding uh hi.*
+> *mang nuamlote bawlphat zawh nawnloh dongin kisia ding-te hi.*
 
 ### bawlphatna
 **[n]** what
@@ -1588,7 +1588,7 @@
 **Related:** bello, hauhnate, muang, hauhna
 **CEFR:** C1
 **Usage:** Attested 96× across 3 Bible books.
-> *ama hauhna a belpa en un,” hong ci ding uh hi.*
+> *ama hauhna a belpa en un,” hong ci ding-te hi.*
 
 ### bengngongte
 **[]** maketh
@@ -1661,7 +1661,7 @@
 **Synonyms:** bual, tuilakna
 **CEFR:** C1
 **Usage:** Attested 165× across 2 Bible books.
-> *adang khatte a bual langkhatah tu uh hi.*
+> *adang khatte a bual langkhatah tu-te hi.*
 
 ### buhcil
 **[]** thresheth
@@ -1680,7 +1680,7 @@
 **[]** ship
 **Meanings:** ship | enough | lightened | cast | out | wheat
 **CEFR:** C1
-> *nek khit uh ciangin buhhumte tuipi sungah khia-in teembaw*
+> *nek khit-te ciangin buhhumte tuipi sungah khia-in teembaw*
 > `ACT 27:38`
 
 ### buhlei
@@ -1735,7 +1735,7 @@
 **Variants:** leiba, baa
 **CEFR:** C2
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Note in na baa samte uh metloin na khamul mongte*
+> *Note in na baa samte-te metloin na khamul mongte*
 
 ### baaberith
 **[n]** ten
@@ -1833,8 +1833,7 @@ behlapna-in
 > *Lengtonghoih inle huchi tel lawmlawm ahihleh chi’n*
 
 ### baas
-**[n, noun]** pu aw cihna, mi vomte'n mangkaangte a sapna uh (kawlte'n mangkaangte buu a cih daan uh
-**Meanings:** pu aw cihna, mi vomte'n mangkaangte a sapna uh (kawlte'n mangkaangte buu a cih daan uh | (Afrik) sia aw; pu aw cihna mi vomte’n mangkaangte a sapna uh (kawlte’n mangkaangte buu a cih daan uh | n. (Afrik) sia aw; pu aw cihna, mi vomte'n mangkaangte a sapna uh (kawlte'n mangkaangte buu a cih daan uh. | (Afrik) sia aw | baa | mi hau
+**[n, noun]** pu aw cihna, mi vomte'n mangkaangte a sapna-te (kawlte'n mangkaangte buu a cih daan-te **Meanings:** pu aw cihna, mi vomte'n mangkaangte a sapna-te (kawlte'n mangkaangte buu a cih daan-te | (Afrik) sia aw; pu aw cihna mi vomte’n mangkaangte a sapna-te (kawlte’n mangkaangte buu a cih daan-te | n. (Afrik) sia aw; pu aw cihna, mi vomte'n mangkaangte a sapna-te (kawlte'n mangkaangte buu a cih daan uh. | (Afrik) sia aw | baa | mi hau
 **CEFR:** C2
 
 ### baat
@@ -1970,7 +1969,7 @@ infant
 ### bacteria
 **[n]** (n) natna hik, mittawh kimuzolo lungno
 **CEFR:** C2
-> *Bacteria-te pen microbes-te ahi uh hi.*
+> *Bacteria-te pen microbes-te ahi-te hi.*
 
 ### bacterial
 **[adjective]** (adj.): ဗက်တီးရီးယားပိုး ကြောင့်ဖြစ်သော။ ဗက်တီးရီးယားပိုးနှင့် ဆိုင်သော။

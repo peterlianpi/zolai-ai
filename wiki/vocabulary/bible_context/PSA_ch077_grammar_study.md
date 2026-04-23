@@ -156,18 +156,18 @@
 ### v16
 **EN:** The waters saw thee, O God, the waters saw thee; they were afraid: the depths also were troubled.
 
-**TDB77:** Tuite in nang hong muh ciang, Pasian aw, tuite in nang hong muh ciangin, amaute lau uh hi, hi taktak hi, tuithukpi zong a liing hi.
+**TDB77:** Tuite in nang hong muh ciang, Pasian aw, tuite in nang hong muh ciangin, amaute lau-te hi, hi taktak hi, tuithukpi zong a liing hi.
 
-**ZVS:** Tui in nang hong muh ciangin Pasian aw, tuite in nang hong muh ciangin a lau uh hi. Tui thukpi zong a ling hi.
+**ZVS:** Tui in nang hong muh ciangin Pasian aw, tuite in nang hong muh ciangin a lau-te hi. Tui thukpi zong a ling hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** The clouds poured out water: the skies sent out a sound: thine arrows also went abroad.
 
-**TDB77:** Meiipite in tui sungkhia-in, vante ging damdam a, nangma thaltangte mun citeng-ah leeng uh hi.
+**TDB77:** Meiipite in tui sungkhia-in, vante ging damdam a, nangma thaltangte mun citeng-ah leeng-te hi.
 
-**ZVS:** Meiipite in tui sungkhia-in, vante ging damdam a, nangma thaltangte mun citengah a leeng uh hi.
+**ZVS:** Meiipite in tui sungkhia-in, vante ging damdam a, nangma thaltangte mun citengah a leeng-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

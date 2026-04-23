@@ -25,18 +25,18 @@
 ### v1
 **EN:** Now the Philistines fought against Israel: and the men of Israel fled from before the Philistines, and fell down slain in mount Gilboa.
 
-**TDB77:** Tu-in Filistiate in Israelte do uh hi; Filistiate mai-ah Israel mite tai uh a, Gilboa Mual tungah thah-in tuk uh hi.
+**TDB77:** Tu-in Filistiate in Israelte do-te hi; Filistiate mai-ah Israel mite tai-te a, Gilboa Mual tungah thah-in tuk-te hi.
 
-**ZVS:** Filistia-te in Israel-te sim uh hi. Filistia-te' mai-ah Israel-te tai uh a, Gilboa Mual tungah thahin tuk uh hi.
+**ZVS:** Filistia-te in Israel-te sim-te hi. Filistia-te' mai-ah Israel-te tai-te a, Gilboa Mual tungah thahin tuk-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v2
 **EN:** And the Philistines followed hard upon Saul and upon his sons; and the Philistines slew Jonathan, and Abinadab, and Malchi–shua, Saul's sons.
 
-**TDB77:** Filistiate in Saul leh a tapate pha uh hi; Filistiate in Saul’ tapate Jonathan leh Abinadab leh Malkhishua that uh hi.
+**TDB77:** Filistiate in Saul leh a tapate pha-te hi; Filistiate in Saul’ tapate Jonathan leh Abinadab leh Malkhishua that-te hi.
 
-**ZVS:** Filistia-te in Saul leh a tapate pha uh hi. Filistia-te in Saul' tapate Jonathan, Abinadab, leh Malkhishua a that uh hi.
+**ZVS:** Filistia-te in Saul leh a tapate pha-te hi. Filistia-te in Saul' tapate Jonathan, Abinadab, leh Malkhishua a that-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -52,7 +52,7 @@
 
 **TDB77:** Tua ciangin Saul in a galhiam puapa kiangah, “Hih dawibia mite hong pai-in kei hong dawt letin hong mawlpih kha ding ahih manin na namsau dok in la, tua tawh hong dawt let in,” a ci hi. Ahih hangin a galhiam puapa in hih nuam lo hi; bang hang hiam cih leh amah lau mahmah hi. Tua ahih ciangin Saul in ama namsau la-in tua tungah puk hi.
 
-**ZVS:** Tua ciangin Saul in a galhiam puapa kiangah, “Hih dawibia mite hong pai-in kei hong dawtletin hong mawlpih khading uh ahih manin na namsau dok in la, tua tawh hong dawtlet in,” a ci hi. Ahih hangin a galhiam puapa in hih ngamlo hi; bang hang hiam cih leh amah lau mahmah hi. Tua ahih ciangin Saul in ama namsau la-in tua tungah puk hi.
+**ZVS:** Tua ciangin Saul in a galhiam puapa kiangah, “Hih dawibia mite hong pai-in kei hong dawtletin hong mawlpih khading-te ahih manin na namsau dok in la, tua tawh hong dawtlet in,” a ci hi. Ahih hangin a galhiam puapa in hih ngamlo hi; bang hang hiam cih leh amah lau mahmah hi. Tua ahih ciangin Saul in ama namsau la-in tua tungah puk hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | negation: lo | causal: because | reciprocal: ki- prefix
 
@@ -66,70 +66,70 @@
 ### v6
 **EN:** So Saul died, and his three sons, and his armourbearer, and all his men, that same day together.
 
-**TDB77:** Tua bangin Saul’ leh a tapa thumte leh a galhiam puapa, leh a mi khempeuh, a ni kikhatin si khawm uh hi.
+**TDB77:** Tua bangin Saul’ leh a tapa thumte leh a galhiam puapa, leh a mi khempeuh, a ni kikhatin si khawm-te hi.
 
-**ZVS:** Tua bangin Saul, a tapa thumte, a galhiam puapa, leh a mi khempeuh, a ni kikhatin a sikhawm uh hi.
+**ZVS:** Tua bangin Saul, a tapa thumte, a galhiam puapa, leh a mi khempeuh, a ni kikhatin a sikhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And when the men of Israel that were on the other side of the valley, and they that were on the other side Jordan, saw that the men of Israel fled, and that Saul and his sons were dead, they forsook the cities, and fled; and the Philistines came and dwelt in them.
 
-**TDB77:** Tua ciangin kuam gal khat leh Jordan gal khat-a om Israel mite in Israel mite tai-in Saul leh a tapate a sih khitna thu a zak uh ciangin amaute in a khuapite uh nusia-in tai uh hi; tua ciangin Filistiate hong pai-in tuate sungah teeng uh hi.
+**TDB77:** Tua ciangin kuam gal khat leh Jordan gal khat-a om Israel mite in Israel mite tai-in Saul leh a tapate a sih khitna thu a zak-te ciangin amaute in a khuapite-te nusia-in tai-te hi; tua ciangin Filistiate hong pai-in tuate sungah teeng-te hi.
 
-**ZVS:** Tua ciangin Jezreel kuam galkhat leh Jordan galkhata om Israel mite in Israel mite tai-in Saul leh a tapate a sih khitna thu a zak uh ciangin amaute in a khuapite uh nusia-in tai uh ahih ciangin Filistia-te hong pai-in tuate sungah a teng uh hi.
+**ZVS:** Tua ciangin Jezreel kuam galkhat leh Jordan galkhata om Israel mite in Israel mite tai-in Saul leh a tapate a sih khitna thu a zak-te ciangin amaute in a khuapite-te nusia-in tai-te ahih ciangin Filistia-te hong pai-in tuate sungah a teng-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v8
 **EN:** And it came to pass on the morrow, when the Philistines came to strip the slain, that they found Saul and his three sons fallen in mount Gilboa.
 
-**TDB77:** A zing ciangin a kithat mite’ na la dingin Filistiate hong pai ciangin Saul leh a tapa thumte Gilboa Mual tungah a si mu uh hi.
+**TDB77:** A zing ciangin a kithat mite’ na la dingin Filistiate hong pai ciangin Saul leh a tapa thumte Gilboa Mual tungah a si mu-te hi.
 
-**ZVS:** A zing ciangin a kithat mite' na a la dingin Filistia-te hong pai ciangin Saul leh a tapa thumte Gilboa Mual tungah a si mu uh hi.
+**ZVS:** A zing ciangin a kithat mite' na a la dingin Filistia-te hong pai ciangin Saul leh a tapa thumte Gilboa Mual tungah a si mu-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And they cut off his head, and stripped off his armour, and sent into the land of the Philistines round about, to publish it in the house of their idols, and among the people.
 
-**TDB77:** Amaute in a lu tan khia-in, a galhiam hawkkhia uh a, a milimte uh leh mite kiangah hih thuhoih a puak dingin Filistia gam sung khempeuh kamtaite sawl uh hi.
+**TDB77:** Amaute in a lu tan khia-in, a galhiam hawkkhia-te a, a milimte-te leh mite kiangah hih thuhoih a puak dingin Filistia gam sung khempeuh kamtaite sawl-te hi.
 
-**ZVS:** Amaute in Saul' lu tankhia-in a galhiam hawkkhia uh a, a milimte uh leh mite kiangah hih thuhoih a puak dingin Filistia gamsung khempeuhah kamtaite a sawl uh hi.
+**ZVS:** Amaute in Saul' lu tankhia-in a galhiam hawkkhia-te a, a milimte-te leh mite kiangah hih thuhoih a puak dingin Filistia gamsung khempeuhah kamtaite a sawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And they put his armour in the house of Ashtoreth: and they fastened his body to the wall of Beth–shan.
 
-**TDB77:** Amaute in ama galhiam Ashtaroth biakinn sungah koih uh hi; amaute in ama luang Bethshan kulh-ah suang uh hi.
+**TDB77:** Amaute in ama galhiam Ashtaroth biakinn sungah koih-te hi; amaute in ama luang Bethshan kulh-ah suang-te hi.
 
-**ZVS:** Amaute in Ashtaroth biakinn sungah ama galhiam koih uh a, Bethshan khuakulhah ama luang a suang uh hi.
+**ZVS:** Amaute in Ashtaroth biakinn sungah ama galhiam koih-te a, Bethshan khuakulhah ama luang a suang-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** And when the inhabitants of Jabesh–gilead heard of that which the Philistines had done to Saul;
 
-**TDB77:** Ahih hangin Jabeshgilead ah a teng mite in Saul tungah Filistiate hihna a zak uh ciangin,
+**TDB77:** Ahih hangin Jabeshgilead ah a teng mite in Saul tungah Filistiate hihna a zak-te ciangin,
 
-**ZVS:** Ahih hangin Jabeshgilead-ah a teng mite in Saul' tungah Filistia-te' hihna a zak uh ciangin,
+**ZVS:** Ahih hangin Jabeshgilead-ah a teng mite in Saul' tungah Filistia-te' hihna a zak-te ciangin,
 
 ### v12
 **EN:** All the valiant men arose, and went all night, and took the body of Saul and the bodies of his sons from the wall of Beth–shan, and came to Jabesh, and burnt them there.
 
-**TDB77:** a hang mi khempeuh ding-in zan tawntung pai uh a, Bethshan kulh tung panin Saul’ luang leh a tapate’ luangte va la uh hi; tua ciangin amaute Jabesh ah hong tungin tua lai-ah hal uh hi.
+**TDB77:** a hang mi khempeuh ding-in zan tawntung pai-te a, Bethshan kulh tung panin Saul’ luang leh a tapate’ luangte va la-te hi; tua ciangin amaute Jabesh ah hong tungin tua lai-ah hal-te hi.
 
-**ZVS:** a hang mi khempeuh dingin zan tawntung pai uh a, Bethshan kulh tung panin Saul' luang leh a tapate' luangte va la uh hi. Amaute in Jabesh-ah tun'pihin tua lai-ah a hal uh hi.
+**ZVS:** a hang mi khempeuh dingin zan tawntung pai-te a, Bethshan kulh tung panin Saul' luang leh a tapate' luangte va la-te hi. Amaute in Jabesh-ah tun'pihin tua lai-ah a hal-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v13
 **EN:** And they took their bones, and buried them under a tree at Jabesh, and fasted seven days.
 
-**TDB77:** Amaute in a guhte la-in Jabesh khua sunga makeng kung nuai-ah vui uh a, ni sagih sung an tang uh hi.
+**TDB77:** Amaute in a guhte la-in Jabesh khua sunga makeng kung nuai-ah vui-te a, ni sagih sung an tang-te hi.
 
-**ZVS:** Amaute in a guhte la-in Jabesh khuasung makeng kung nuai-ah vui uh a, ni sagih sung an a tang uh hi.
+**ZVS:** Amaute in a guhte la-in Jabesh khuasung makeng kung nuai-ah vui-te a, ni sagih sung an a tang-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

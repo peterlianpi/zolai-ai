@@ -58,81 +58,81 @@
 ### v5
 **EN:** Moreover four thousand were porters; and four thousand praised the
 
-**TDB77:** tulli in kongcingte, leh tulli in phatna ding a, ka bawlsa lasaknate tawh Topa’ tungah phatna pia ding uh hi,” a ci hi.
+**TDB77:** tulli in kongcingte, leh tulli in phatna ding a, ka bawlsa lasaknate tawh Topa’ tungah phatna pia ding-te hi,” a ci hi.
 
-**ZVS:** tul li kongcingte, leh tul li in phatna dinga ka bawlsa lasaknate tawh { Topa } tungah phatna pia ding uh hi,” a ci hi.
+**ZVS:** tul li kongcingte, leh tul li in phatna dinga ka bawlsa lasaknate tawh { Topa } tungah phatna pia ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v6
 **EN:** And David divided them into courses among the sons of Levi, namely, Gershon, Kohath, and Merari.
 
-**TDB77:** Tua ciangin David in Levi mite a beh behin pawl thum suah a, tuate in: Gershon pawl, Kohath pawl, leh Merari pawl ahi uh hi.
+**TDB77:** Tua ciangin David in Levi mite a beh behin pawl thum suah a, tuate in: Gershon pawl, Kohath pawl, leh Merari pawl ahi-te hi.
 
-**ZVS:** Tua ciangin David in Levi mite a behbehin pawl thum suah a, tuate pen: Gershom pawl, Kohath pawl, leh Merari pawl ahi uh hi.
+**ZVS:** Tua ciangin David in Levi mite a behbehin pawl thum suah a, tuate pen: Gershom pawl, Kohath pawl, leh Merari pawl ahi-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v7
 **EN:** Of the Gershonites were, Laadan, and Shimei.
 
-**TDB77:** Gershon’ tapate in Ladan leh Shimei ahi uh hi.
+**TDB77:** Gershon’ tapate in Ladan leh Shimei ahi-te hi.
 
-**ZVS:** Gershom' tapate: Ladan leh Shimei ahi uh hi.
+**ZVS:** Gershom' tapate: Ladan leh Shimei ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** The sons of Laadan; the chief was Jehiel, and Zetham, and Joel, three.
 
-**TDB77:** Ladan’ tapate in: A ukpi Jehiel, leh Zetham, leh Joel, thum pha uh hi.
+**TDB77:** Ladan’ tapate in: A ukpi Jehiel, leh Zetham, leh Joel, thum pha-te hi.
 
-**ZVS:** Ladan' tapate: A ukpi Jehiel, leh Zetham, leh Joel, thum pha uh hi.
+**ZVS:** Ladan' tapate: A ukpi Jehiel, leh Zetham, leh Joel, thum pha-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** The sons of Shimei; Shelomith, and Haziel, and Haran, three. These were the chief of the fathers of Laadan.
 
-**TDB77:** Shimei’ tapate in: Shelomoth, Haziel, leh Haran, thum pha uh hi. Hihte in Ladan’ beh lutangte ahi uh hi.
+**TDB77:** Shimei’ tapate in: Shelomoth, Haziel, leh Haran, thum pha-te hi. Hihte in Ladan’ beh lutangte ahi-te hi.
 
-**ZVS:** Shimei' tapate: Shelomoth, Haziel, leh Haran, thum pha uh hi. Hihte pen Ladan' beh lutangte ahi uh hi.
+**ZVS:** Shimei' tapate: Shelomoth, Haziel, leh Haran, thum pha-te hi. Hihte pen Ladan' beh lutangte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v10
 **EN:** And the sons of Shimei were, Jahath, Zina, and Jeush, and Beriah. These four were the sons of Shimei.
 
-**TDB77:** Tua ciangin Shimei’ tapate in: Jahath, Zina, Jeush, leh Beriah ahi uh hi. Hih lite in Shimei’ tapate ahi uh hi.
+**TDB77:** Tua ciangin Shimei’ tapate in: Jahath, Zina, Jeush, leh Beriah ahi-te hi. Hih lite in Shimei’ tapate ahi-te hi.
 
-**ZVS:** Tua ciangin Shimei' tapate: Jahath, Zina, Jeush, leh Beriah ahi uh hi. Hih lite pen Shimei' tapate ahi uh hi.
+**ZVS:** Tua ciangin Shimei' tapate: Jahath, Zina, Jeush, leh Beriah ahi-te hi. Hih lite pen Shimei' tapate ahi-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v11
 **EN:** And Jahath was the chief, and Zizah the second: but Jeush and Beriah had not many sons; therefore they were in one reckoning, according to their father's house.
 
-**TDB77:** Jahath a ukpi hi-in, Zina a nihna ahi hi; ahih hangin Jeush leh Beriah-te in tapa tampi nei lo uh ahih manin innkuan khat kisuak sakin sim khatin kisim khawm hi.
+**TDB77:** Jahath a ukpi hi-in, Zina a nihna ahi hi; ahih hangin Jeush leh Beriah-te in tapa tampi nei lo-te ahih manin innkuan khat kisuak sakin sim khatin kisim khawm hi.
 
-**ZVS:** Jahath a ukpi hi-in, Zina a nihna ahi hi. Ahih hangin Jeush leh Beriah-te in tapa tampi neilo uh ahih manin innkuan khat kisuak sakin sim khatin kisim khawm uh hi.
+**ZVS:** Jahath a ukpi hi-in, Zina a nihna ahi hi. Ahih hangin Jeush leh Beriah-te in tapa tampi neilo-te ahih manin innkuan khat kisuak sakin sim khatin kisim khawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | causal: because | reciprocal: ki- prefix
 
 ### v12
 **EN:** The sons of Kohath; Amram, Izhar, Hebron, and Uzziel, four.
 
-**TDB77:** Kohath’ tapate in: Amram, Izhar, Hebron, leh Uzziel, li pha uh hi.
+**TDB77:** Kohath’ tapate in: Amram, Izhar, Hebron, leh Uzziel, li pha-te hi.
 
-**ZVS:** Kohath' tapate: Amram, Izhar, Hebron, leh Uzziel, li pha uh hi.
+**ZVS:** Kohath' tapate: Amram, Izhar, Hebron, leh Uzziel, li pha-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** The sons of Amram; Aaron and Moses: and Aaron was separated, that he should sanctify the most holy things, he and his sons for ever, to burn incense before the
 
-**TDB77:** Amram’ tapate in: Aaron leh Moses ahi uh hi. Amah leh a tapate in Topa’ mai-ah paknamtui a hal tawntung ding leh ama na semin ama min tawh thupha a piak tawntung theih nadingin a siangtho pen nate a ap dingin Aaron kituam koih hi.
+**TDB77:** Amram’ tapate in: Aaron leh Moses ahi-te hi. Amah leh a tapate in Topa’ mai-ah paknamtui a hal tawntung ding leh ama na semin ama min tawh thupha a piak tawntung theih nadingin a siangtho pen nate a ap dingin Aaron kituam koih hi.
 
-**ZVS:** Amram' tapate: Aaron leh Moses ahi uh hi. Amah leh a tapate in { Topa' } mai-ah paknamtui a hal tawntung ding leh ama na semin ama min tawh thupha a piak tawntung theihna dingin a siangtho pen nate a ap dingin Aaron kituam koih hi.
+**ZVS:** Amram' tapate: Aaron leh Moses ahi-te hi. Amah leh a tapate in { Topa' } mai-ah paknamtui a hal tawntung ding leh ama na semin ama min tawh thupha a piak tawntung theihna dingin a siangtho pen nate a ap dingin Aaron kituam koih hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -148,9 +148,9 @@
 ### v15
 **EN:** The sons of Moses were, Gershom, and Eliezer.
 
-**TDB77:** Moses’ tapate in: Gershom leh Eliezer ahi uh hi.
+**TDB77:** Moses’ tapate in: Gershom leh Eliezer ahi-te hi.
 
-**ZVS:** Moses' tapate: Gershom leh Eliezer ahi uh hi.
+**ZVS:** Moses' tapate: Gershom leh Eliezer ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -203,18 +203,18 @@
 ### v22
 **EN:** And Eleazar died, and had no sons, but daughters: and their brethren the sons of Kish took them.
 
-**TDB77:** Eleazar in tapa nei loin si a, tanu bek nei hi; amau’ tanau, Kish’ tapate in amaute ten’pih uh hi.
+**TDB77:** Eleazar in tapa nei loin si a, tanu bek nei hi; amau’ tanau, Kish’ tapate in amaute ten’pih-te hi.
 
-**ZVS:** Eleazar in tapa neiloin si a, tanu bek nei hi. Amau' tanau, Kish tapate in amaute ten'pih uh hi.
+**ZVS:** Eleazar in tapa neiloin si a, tanu bek nei hi. Amau' tanau, Kish tapate in amaute ten'pih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** The sons of Mushi; Mahli, and Eder, and Jeremoth, three.
 
-**TDB77:** Mushi’ tapate in: Mahli, Eder, leh Jeremoth, thum pha uh hi.
+**TDB77:** Mushi’ tapate in: Mahli, Eder, leh Jeremoth, thum pha-te hi.
 
-**ZVS:** Mushi' tapate: Mahli, Eder, leh Jeremoth, thum pha uh hi.
+**ZVS:** Mushi' tapate: Mahli, Eder, leh Jeremoth, thum pha-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -239,9 +239,9 @@
 ### v26
 **EN:** And also unto the Levites; they shall no more carry the tabernacle, nor any vessels of it for the service thereof.
 
-**TDB77:** Tua ahih ciangin Levi mite in puanbuk hita leh tua tawh kisai nasep nading nate khat peuhpeuh hita leh a puak ding uh kisam nawn lo hi,” a ci hi.
+**TDB77:** Tua ahih ciangin Levi mite in puanbuk hita leh tua tawh kisai nasep nading nate khat peuhpeuh hita leh a puak ding-te kisam nawn lo hi,” a ci hi.
 
-**ZVS:** Tua ahih ciangin Levi mite in puanbuk hita leh tua tawh kisai nasepna ding nate khat peuhpeuh hita leh a puak ding uh kisam nawnlo hi,” a ci hi.
+**ZVS:** Tua ahih ciangin Levi mite in puanbuk hita leh tua tawh kisai nasepna ding nate khat peuhpeuh hita leh a puak ding-te kisam nawnlo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -257,45 +257,45 @@
 ### v28
 **EN:** Because their office was to wait on the sons of Aaron for the service of the house of the
 
-**TDB77:** “ahih hangin amaute’ nasep in Topa’ inn nasepna ah Aaron’ suante huhin, inntualte leh inndeite kemin, biakna na khempeuh a siangtho sak ding, leh Pasian’ inn nasepna ah hih ding khat peuhpeuh a sem ding ahi uh hi;
+**TDB77:** “ahih hangin amaute’ nasep in Topa’ inn nasepna ah Aaron’ suante huhin, inntualte leh inndeite kemin, biakna na khempeuh a siangtho sak ding, leh Pasian’ inn nasepna ah hih ding khat peuhpeuh a sem ding ahi-te hi;
 
-**ZVS:** “Ahih hangin amaute' nasep ding pen { Topa' } biakinn nasepna-ah Aaron' suante huhin, biakinn tualte leh biakinn deite kemin, biakna na khempeuh a siangtho sak ding, leh Pasian' biakinn nasepna-ah hih ding khat peuhpeuh a sem ding uh ahi hi.
+**ZVS:** “Ahih hangin amaute' nasep ding pen { Topa' } biakinn nasepna-ah Aaron' suante huhin, biakinn tualte leh biakinn deite kemin, biakna na khempeuh a siangtho sak ding, leh Pasian' biakinn nasepna-ah hih ding khat peuhpeuh a sem ding-te ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v29
 **EN:** Both for the shewbread, and for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried, and for all manner of measure and size;
 
-**TDB77:** Ompihna Anlum, an tawh biak nadingin annel, silngo sawh loh anlum moh, a ki-em piakna, sathau tawh a kihel piakna, leh a tam tehna, ahih kei leh a lian tehna nasep khempeuh zong a huh ding ahi uh hi.
+**TDB77:** Ompihna Anlum, an tawh biak nadingin annel, silngo sawh loh anlum moh, a ki-em piakna, sathau tawh a kihel piakna, leh a tam tehna, ahih kei leh a lian tehna nasep khempeuh zong a huh ding ahi-te hi.
 
-**ZVS:** Ompihna Anlum, an tawh biakna dingin annel, silngo sawhloh anlum moh, a ki-em piakna, sathau tawh a kihel piakna, leh a tam tehna ahih kei leh a lian tehna nasep khempeuh zong a huh ding uh ahi hi.
+**ZVS:** Ompihna Anlum, an tawh biakna dingin annel, silngo sawhloh anlum moh, a ki-em piakna, sathau tawh a kihel piakna, leh a tam tehna ahih kei leh a lian tehna nasep khempeuh zong a huh ding-te ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** And to stand every morning to thank and praise the
 
-**TDB77:** Tua ciangin amaute zingsang simin ding ding uh a, lungdamna koin Topa phatin, nitakin zong tua mah bangin hih ding uh a,
+**TDB77:** Tua ciangin amaute zingsang simin ding ding-te a, lungdamna koin Topa phatin, nitakin zong tua mah bangin hih ding-te a,
 
-**ZVS:** Tua ciangin amaute zingsang simin ding ding uh a, lungdamna ko-in { Topa } phatin, nitakin zong tua bangmahin hih ding uh a,
+**ZVS:** Tua ciangin amaute zingsang simin ding ding-te a, lungdamna ko-in { Topa } phatin, nitakin zong tua bangmahin hih ding-te a,
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v31
 **EN:** And to offer all burnt sacrifices unto the
 
-**TDB77:** a mal zah a kisam bangin sabbath nite, khadet nite, leh pawi nite-in Topa tungah meihal biakna a kipiak peuhpeuh ciangin a tawntungin Topa mai-ah om ding uh hi.
+**TDB77:** a mal zah a kisam bangin sabbath nite, khadet nite, leh pawi nite-in Topa tungah meihal biakna a kipiak peuhpeuh ciangin a tawntungin Topa mai-ah om ding-te hi.
 
-**ZVS:** a mal zah a kisam bangin Sabbath nite, Khadet nite, leh pawi nite-in { Topa } tungah meihal biakna a kipiak peuhpeuh ciangin a tawntungin { Topa' } mai-ah om ding uh hi.
+**ZVS:** a mal zah a kisam bangin Sabbath nite, Khadet nite, leh pawi nite-in { Topa } tungah meihal biakna a kipiak peuhpeuh ciangin a tawntungin { Topa' } mai-ah om ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And that they should keep the charge of the tabernacle of the congregation, and the charge of the holy place, and the charge of the sons of Aaron their brethren, in the service of the house of the
 
-**TDB77:** Tua bangin Levi mite in kikhopna puanbuk leh biakinn kemin, Topa’ inn nasepna ah amau’ behte ahi Aaron’ suante huh ding uh hi,” a ci hi.
+**TDB77:** Tua bangin Levi mite in kikhopna puanbuk leh biakinn kemin, Topa’ inn nasepna ah amau’ behte ahi Aaron’ suante huh ding-te hi,” a ci hi.
 
-**ZVS:** Tua bangin amaute in kikhopna puanbuk leh biakinn kemin, { Topa' } biakinn nasepna-ah amau' behte ahi Aaron' suante huh ding uh hi,” a ci hi.
+**ZVS:** Tua bangin amaute in kikhopna puanbuk leh biakinn kemin, { Topa' } biakinn nasepna-ah amau' behte ahi Aaron' suante huh ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

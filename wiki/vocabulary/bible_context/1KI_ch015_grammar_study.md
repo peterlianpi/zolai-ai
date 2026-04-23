@@ -85,9 +85,9 @@
 ### v8
 **EN:** And Abijam slept with his fathers; and they buried him in the city of David: and Asa his son reigned in his stead.
 
-**TDB77:** Tua ciangin Abijam a pate tawh ihmu hi; amaute in David khuapi sungah amah vui uh hi. Ama tangin a tapa Asa in uk hi.
+**TDB77:** Tua ciangin Abijam a pate tawh ihmu hi; amaute in David khuapi sungah amah vui-te hi. Ama tangin a tapa Asa in uk hi.
 
-**ZVS:** Tua ciangin Abijam si a, amaute in David khuapi sungah amah vui uh hi. Ama tangin a tapa Asa in uk hi.
+**ZVS:** Tua ciangin Abijam si a, amaute in David khuapi sungah amah vui-te hi. Ama tangin a tapa Asa in uk hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -207,7 +207,7 @@
 ### v22
 **EN:** Then king Asa made a proclamation throughout all Judah; none was exempted: and they took away the stones of Ramah, and the timber thereof, wherewith Baasha had builded; and king Asa built with them Geba of Benjamin, and Mizpah.
 
-**TDB77:** Tua ciangin Kumpi Asa in Judah khempeuh tungah thu genzakna khat bawl a, kuamah peng loin amaute in Baasha inn lamna a, zat Ramah suangte leh a singte puakhia uh hi; tua ciangin Kumpi Asa in tuate tawh Benjamin mite’ khua Geba leh Mizpah khua lam hi.
+**TDB77:** Tua ciangin Kumpi Asa in Judah khempeuh tungah thu genzakna khat bawl a, kuamah peng loin amaute in Baasha inn lamna a, zat Ramah suangte leh a singte puakhia-te hi; tua ciangin Kumpi Asa in tuate tawh Benjamin mite’ khua Geba leh Mizpah khua lam hi.
 
 **ZVS:** Tua ciangin kumpi Asa in Judah gam khempeuhah thu genzakna khat bawl a, kuamah pengloin a milipin Baasha in khua lamna-a a zat Ramah suangte leh a singte a puakhia dingin a sawl hi. Tua ciangin kumpi Asa in tuate tawh Benjamin mite' khua Geba leh Mizpah khua a lam hi.
 
@@ -250,7 +250,7 @@
 ### v27
 **EN:** And Baasha the son of Ahijah, of the house of Issachar, conspired against him; and Baasha smote him at Gibbethon, which belonged to the Philistines; for Nadab and all Israel laid siege to Gibbethon.
 
-**TDB77:** Issakhar minam Ahijah’ tapa Baasha in amah sawmsim hi; Baasha in Filistiate’ khua Gibbethon ah amah sattuk hi; bang hang hiam cih leh Nadab leh Israel khempeuh in Gibbethom umcihin om uh hi.
+**TDB77:** Issakhar minam Ahijah’ tapa Baasha in amah sawmsim hi; Baasha in Filistiate’ khua Gibbethon ah amah sattuk hi; bang hang hiam cih leh Nadab leh Israel khempeuh in Gibbethom umcihin om-te hi.
 
 **ZVS:** Issakhar minam Ahijah' tapa Baasha in Nadab sawmsim hi. Baasha in Filistia-te' khua Gibbethon-ah amah sattuk hi. Nadab leh Israel khempeuh in Gibbethon umcihin a om laitakun a thah ahi hi.
 

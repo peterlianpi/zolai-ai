@@ -26,9 +26,9 @@
 ### v1
 **EN:** Then all the people of Judah took Uzziah, who was sixteen years old, and made him king in the room of his father Amaziah.
 
-**TDB77:** Tua ciangin Judah mi khempeuh in kum sawm-le-guk a pha Uzziah la-in a pa Amaziah tangin kumpi-in koih uh hi.
+**TDB77:** Tua ciangin Judah mi khempeuh in kum sawm-le-guk a pha Uzziah la-in a pa Amaziah tangin kumpi-in koih-te hi.
 
-**ZVS:** Tua ciangin Judah mi khempeuh in kum sawmleguk a pha Uzziah la-in a pa Amaziah' tangin kumpi-in a koih uh hi.
+**ZVS:** Tua ciangin Judah mi khempeuh in kum sawmleguk a pha Uzziah la-in a pa Amaziah' tangin kumpi-in a koih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -83,9 +83,9 @@
 ### v8
 **EN:** And the Ammonites gave gifts to Uzziah: and his name spread abroad even to the entering in of Egypt; for he strengthened himself exceedingly.
 
-**TDB77:** Ammon mite in Uzziah tungah siah puak uh a, amah a thahat mahmah suak ahih manin a minthan’na in Izipt gamgi ciang dong nangawn zel hi.
+**TDB77:** Ammon mite in Uzziah tungah siah puak-te a, amah a thahat mahmah suak ahih manin a minthan’na in Izipt gamgi ciang dong nangawn zel hi.
 
-**ZVS:** Ammon mite in Uzziah tungah siah puak uh a, amah a thahat mahmah suak ahih manin a minthan'na in Egypt gam ciangdong nangawn zel hi.
+**ZVS:** Ammon mite in Uzziah tungah siah puak-te a, amah a thahat mahmah suak ahih manin a minthan'na in Egypt gam ciangdong nangawn zel hi.
 
 **Grammar:** intensifier: very/greatly | causal: because | plural: uh marker
 
@@ -169,9 +169,9 @@
 ### v18
 **EN:** And they withstood Uzziah the king, and said unto him, It appertaineth not unto thee, Uzziah, to burn incense unto the
 
-**TDB77:** tua ciangin amaute in kumpi Uzziah nialin ama kiangah, “Uzziah aw, Topa tungah paknamtui hal ding pen nangma hih ding hi lo hi; paknamtui hal dingin a ki-ap, Aaron’ suan siampite hih ding ahi hi. Biakinn sung panin paikhia in; bang hang hiam cih leh na gamta khial a, hih bang hihna in Topa Pasian tung panin nang tungah pahtawina hong tun’ lo ding hi,” a ci uh hi.
+**TDB77:** tua ciangin amaute in kumpi Uzziah nialin ama kiangah, “Uzziah aw, Topa tungah paknamtui hal ding pen nangma hih ding hi lo hi; paknamtui hal dingin a ki-ap, Aaron’ suan siampite hih ding ahi hi. Biakinn sung panin paikhia in; bang hang hiam cih leh na gamta khial a, hih bang hihna in Topa Pasian tung panin nang tungah pahtawina hong tun’ lo ding hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin amaute in Kumpi Uzziah nialin ama kiangah, “Uzziah aw, { Topa' } tungah paknamtui hal ding nangma hih ding hilo hi. Paknamtui hal dingin a ki-ap, Aaron' suan siampite' hih ding ahi hi. Biakinn sung panin paikhia in; bang hang hiam cih leh na gamta khial a, hih bang hihna in { Topa } Pasian tung panin nang' tungah pahtawina hong tun'lo ding hi,” a ci uh hi.
+**ZVS:** Tua ciangin amaute in Kumpi Uzziah nialin ama kiangah, “Uzziah aw, { Topa' } tungah paknamtui hal ding nangma hih ding hilo hi. Paknamtui hal dingin a ki-ap, Aaron' suan siampite' hih ding ahi hi. Biakinn sung panin paikhia in; bang hang hiam cih leh na gamta khial a, hih bang hihna in { Topa } Pasian tung panin nang' tungah pahtawina hong tun'lo ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -187,9 +187,9 @@
 ### v20
 **EN:** And Azariah the chief priest, and all the priests, looked upon him, and, behold, he was leprous in his forehead, and they thrust him out from thence; yea, himself hasted also to go out, because the
 
-**TDB77:** Tua ciangin siampi lian Azariah leh siampi khempeuh in amah a et uh ciangin a taltangah phak natna na nei hi. Tua ciangin amaute in manlang takin amah sawnkhia uh a, Topa in amah vat khin ahih manin amahmah zong a paikhia dingin nawhtat hi.
+**TDB77:** Tua ciangin siampi lian Azariah leh siampi khempeuh in amah a et-te ciangin a taltangah phak natna na nei hi. Tua ciangin amaute in manlang takin amah sawnkhia-te a, Topa in amah vat khin ahih manin amahmah zong a paikhia dingin nawhtat hi.
 
-**ZVS:** Tua ciangin siampi lian Azariah leh siampi khempeuh in amah a et uh ciangin a taltangah phaknatna na nei hi. Tua ciangin amaute in manlang takin amah sawnkhia uh a, { Topa } in amah vat khin ahih manin amahmah zong a paikhia dingin nawhtat hi.
+**ZVS:** Tua ciangin siampi lian Azariah leh siampi khempeuh in amah a et-te ciangin a taltangah phaknatna na nei hi. Tua ciangin amaute in manlang takin amah sawnkhia-te a, { Topa } in amah vat khin ahih manin amahmah zong a paikhia dingin nawhtat hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | causal: because | plural: uh marker
 
@@ -214,9 +214,9 @@
 ### v23
 **EN:** So Uzziah slept with his fathers, and they buried him with his fathers in the field of the burial which belonged to the kings; for they said, He is a leper: and Jotham his son reigned in his stead.
 
-**TDB77:** Tua ciangin Uzziah a pate tawh ihmu a, amaute in kumpite’ neihsa kivuina munah a pate tawh vui uh hi; bang hang hiam cih leh amaute in, “Amah in a phak ahi hi,” a ci uh hi. Tua ciangin a tapa Jotham in ama tangin uk hi.
+**TDB77:** Tua ciangin Uzziah a pate tawh ihmu a, amaute in kumpite’ neihsa kivuina munah a pate tawh vui-te hi; bang hang hiam cih leh amaute in, “Amah in a phak ahi hi,” a ci-te hi. Tua ciangin a tapa Jotham in ama tangin uk hi.
 
-**ZVS:** Uzziah si a, amaute in kumpite' neihsa hanah vui loin a huang sungah a vui uh hi; bang hang hiam cih leh amaute in, “Amah a phak ahi hi,” a ci uh hi. Tua ciangin a tapa Jotham in ama tangin a uk hi.
+**ZVS:** Uzziah si a, amaute in kumpite' neihsa hanah vui loin a huang sungah a vui-te hi; bang hang hiam cih leh amaute in, “Amah a phak ahi hi,” a ci-te hi. Tua ciangin a tapa Jotham in ama tangin a uk hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

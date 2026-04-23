@@ -106,7 +106,7 @@
 ### v12
 **EN:** The north and the south thou hast created them: Tabor and Hermon shall rejoice in thy name.
 
-**TDB77:** Saklam leh khanglamte nangma bawlsa hi a, Tabor mual leh Hermon mual in lungdamna tawh na min hong phat uh hi.
+**TDB77:** Saklam leh khanglamte nangma bawlsa hi a, Tabor mual leh Hermon mual in lungdamna tawh na min hong phat-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -131,7 +131,7 @@
 ### v16
 **EN:** In thy name shall they rejoice all the day: and in thy righteousness shall they be exalted.
 
-**TDB77:** { Topa } aw, lungdamin lasakna tawh nang hong bia a, na migitna khuavak sungah nuamtakin a nungta, nangma hangin sunthapai-in lungdam a, nangma hoihna hong phat mite mi nuamsa ahi uh hi.
+**TDB77:** { Topa } aw, lungdamin lasakna tawh nang hong bia a, na migitna khuavak sungah nuamtakin a nungta, nangma hangin sunthapai-in lungdam a, nangma hoihna hong phat mite mi nuamsa ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -145,9 +145,9 @@
 ### v18
 **EN:** For the
 
-**TDB77:** Kote kihutna in Topa kiang pan hi a, Israelte’ Siangtho Pa, nangmah in ka kumpipa uh nong pia hi.
+**TDB77:** Kote kihutna in Topa kiang pan hi a, Israelte’ Siangtho Pa, nangmah in ka kumpipa-te nong pia hi.
 
-**ZVS:** Kote a hong hu { Topa } hi a, Israel-te' Siangtho Pasian nangmah in ka kumpipa uh nong pia hi.
+**ZVS:** Kote a hong hu { Topa } hi a, Israel-te' Siangtho Pasian nangmah in ka kumpipa-te nong pia hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -170,9 +170,9 @@
 ### v22
 **EN:** The enemy shall not exact upon him; nor the son of wickedness afflict him.
 
-**TDB77:** Galte in amah khem zo ngei lo ding a, migilote in amah zo ngei lo ding uh hi.
+**TDB77:** Galte in amah khem zo ngei lo ding a, migilote in amah zo ngei lo ding-te hi.
 
-**ZVS:** Galte in amah khemzo ngeilo ding a, migilote in zong amah zo ngeilo ding uh hi.
+**ZVS:** Galte in amah khemzo ngeilo ding a, migilote in zong amah zo ngeilo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -240,7 +240,7 @@
 ### v32
 **EN:** Then will I visit their transgression with the rod, and their iniquity with stripes.
 
-**TDB77:** “Ama tate in ka thukhamte nusia-in, ka biakna ngeina kip om bangin a gamtat kei uh a, amaute in ka ngeina siasakin ka thupiak a zuih kei uh leh, amaute' thupalsatna hangin ciang tawh gim ka pia ding a, amau' mawhnate hangin satna tawh gim ka pia ding hi.
+**TDB77:** “Ama tate in ka thukhamte nusia-in, ka biakna ngeina kip om bangin a gamtat kei-te a, amaute in ka ngeina siasakin ka thupiak a zuih kei-te leh, amaute' thupalsatna hangin ciang tawh gim ka pia ding a, amau' mawhnate hangin satna tawh gim ka pia ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -317,9 +317,9 @@
 ### v41
 **EN:** All that pass by the way spoil him: he is a reproach to his neighbours.
 
-**TDB77:** A pai khempeuh in ama nate sutgawp uh a, amah pen a vengte’ nuihsat a suak hi.
+**TDB77:** A pai khempeuh in ama nate sutgawp-te a, amah pen a vengte’ nuihsat a suak hi.
 
-**ZVS:** A pai khempeuh in ama nate sutgawp uh a, amah pen a vengte' nuihsat a suak hi.
+**ZVS:** A pai khempeuh in ama nate sutgawp-te a, amah pen a vengte' nuihsat a suak hi.
 
 **Grammar:** plural: uh marker
 
@@ -392,7 +392,7 @@
 ### v51
 **EN:** Wherewith thine enemies have reproached, O
 
-**TDB77:** Topa aw, na nasempa bangzah takin hong kithusim lohna, galte in phinna-in a hong neihna, { Topa } aw, amaute in na sathau nilhpa a paina khempeuhah a hong nuihsatna uh hong phawk ta in.
+**TDB77:** Topa aw, na nasempa bangzah takin hong kithusim lohna, galte in phinna-in a hong neihna, { Topa } aw, amaute in na sathau nilhpa a paina khempeuhah a hong nuihsatna-te hong phawk ta in.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 

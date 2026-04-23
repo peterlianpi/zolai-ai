@@ -30,16 +30,16 @@
 ### v2
 **EN:** Hear this, ye old men, and give ear, all ye inhabitants of the land. Hath this been in your days, or even in the days of your fathers?
 
-**TDB77:** Ngai un, no a khangham zawdiakte aw, na bil uh ngat un, Judah gam mi khempeuh aw, Note’ khan’ sung ahi a, na pu na pate uh khan’ sung ahi zongin, hih bang thu piang ngei peuhmah ahi hiam?
+**TDB77:** Ngai un, no a khangham zawdiakte aw, na bil-te ngat un, Judah gam mi khempeuh aw, Note’ khan’ sung ahi a, na pu na pate-te khan’ sung ahi zongin, hih bang thu piang ngei peuhmah ahi hiam?
 
-**ZVS:** No khangham zawdiakte aw, ngai un; Judah gammi khempeuh aw, na bil uh ngat un. Note' khan'sung ahi a, na pu na pate uh khan'sung ahi zongin, hih bang thu piang ngei peuhmah ahi hiam?
+**ZVS:** No khangham zawdiakte aw, ngai un; Judah gammi khempeuh aw, na bil-te ngat un. Note' khan'sung ahi a, na pu na pate-te khan'sung ahi zongin, hih bang thu piang ngei peuhmah ahi hiam?
 
 ### v3
 **EN:** Tell ye your children of it, and let your children tell their children, and their children another generation.
 
-**TDB77:** Hih thu na tate uh kiangah gen un la, na tate un amau’ tate tungah na gensawn uh hen la, amaute in a khangsawnte tungah na gen uh hen.
+**TDB77:** Hih thu na tate-te kiangah gen un la, na tate un amau’ tate tungah na gensawn-te hen la, amaute in a khangsawnte tungah na gen-te hen.
 
-**ZVS:** Hih thute khempeuh na tate uh kiangah gen un la, na tate un amau' tate' tungah na gensawn uh hen la, amaute in a khangsawnte tungah na gensawn leuleu uh hen.
+**ZVS:** Hih thute khempeuh na tate-te kiangah gen un la, na tate un amau' tate' tungah na gensawn-te hen la, amaute in a khangsawnte tungah na gensawn leuleu-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -48,32 +48,32 @@
 
 **TDB77:** A pettan kauphete’ nek bang teng, kauphe honte in ne tum a, kauphe honte’ nek bang teng, a tuan kuaphete in ne tum a, a tuan kauphete’ nek bang teng, a susia kauphete in ne mang khin hi.
 
-**ZVS:** A pettan kauphete' nek bangteng, kauphe honte in netum a, kauphe honte' nek bangteng, a tuan kauphete in netum a, a tuan kauphete' nek bangteng, a susia kauphete in nemang khin uh hi.
+**ZVS:** A pettan kauphete' nek bangteng, kauphe honte in netum a, kauphe honte' nek bangteng, a tuan kauphete in netum a, a tuan kauphete' nek bangteng, a susia kauphete in nemang khin-te hi.
 
 **Grammar:** completed: already done
 
 ### v5
 **EN:** Awake, ye drunkards, and weep; and howl, all ye drinkers of wine, because of the new wine; for it is cut off from your mouth.
 
-**TDB77:** No zukhamte aw, tho un la kap un. No leenggahzu dawnte aw, thuumin tau un. Na zu dawn ding teng uh beimang ta hi.
+**TDB77:** No zukhamte aw, tho un la kap un. No leenggahzu dawnte aw, thuumin tau un. Na zu dawn ding teng-te beimang ta hi.
 
-**ZVS:** No zukhamte aw, tho un la kap un. No leenggahzu nete aw, thumin tau un. Na zunek ding teng uh beimang khinta hi.
+**ZVS:** No zukhamte aw, tho un la kap un. No leenggahzu nete aw, thumin tau un. Na zunek ding teng-te beimang khinta hi.
 
 ### v6
 **EN:** For a nation is come up upon my land, strong, and without number, whose teeth are the teeth of a lion, and he hath the cheek teeth of a great lion.
 
-**TDB77:** Kauphe honpi in i gam hong simin, amaute tam mahmah a, hat mahmah uh hi. A ha uh humpinelkai ha bangin hiam a, humpinelkai pi ha bangin gupha hi.
+**TDB77:** Kauphe honpi in i gam hong simin, amaute tam mahmah a, hat mahmah-te hi. A ha-te humpinelkai ha bangin hiam a, humpinelkai pi ha bangin gupha hi.
 
-**ZVS:** Kauphe honpi in i gam hong sim a, amaute tam mahmah uh a, hat mahmah uh hi. A ha uh humpinelkai ha bangin hiam a, humpinelkaipi ha bangin gupha mahmah hi.
+**ZVS:** Kauphe honpi in i gam hong sim a, amaute tam mahmah-te a, hat mahmah-te hi. A ha-te humpinelkai ha bangin hiam a, humpinelkaipi ha bangin gupha mahmah hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v7
 **EN:** He hath laid my vine waste, and barked my fig tree: he hath made it clean bare, and cast it away; the branches thereof are made white.
 
-**TDB77:** Amaute in i leenggui teng susia a, i theikung teng ne tum uh a, a hiangte kang sengsang hi.
+**TDB77:** Amaute in i leenggui teng susia a, i theikung teng ne tum-te a, a hiangte kang sengsang hi.
 
-**ZVS:** Amaute in i leengguiteng susiamang khin a, i theikungteng khempeuh netummang khin uh hi. A hawng khempeuh netum uh a, a hiangte kang sengsang hi.
+**ZVS:** Amaute in i leengguiteng susiamang khin a, i theikungteng khempeuh netummang khin-te hi. A hawng khempeuh netum-te a, a hiangte kang sengsang hi.
 
 **Grammar:** plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v9
 **EN:** The meat offering and the drink offering is cut off from the house of the
 
-**TDB77:** Topa’ inn-ah biakna-a piak ding an leh leenggahzu om nawn lo a, Topa’ na a sem siampite thuumin tau uh hi.
+**TDB77:** Topa’ inn-ah biakna-a piak ding an leh leenggahzu om nawn lo a, Topa’ na a sem siampite thuumin tau-te hi.
 
-**ZVS:** { Topa' } biakinn-ah biakna-in piak ding an leh leenggahzu om nawnlo a, { Topa' } na a sem siampite thumin a tau uh hi.
+**ZVS:** { Topa' } biakinn-ah biakna-in piak ding an leh leenggahzu om nawnlo a, { Topa' } na a sem siampite thumin a tau-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -164,9 +164,9 @@
 ### v18
 **EN:** How do the beasts groan! the herds of cattle are perplexed, because they have no pasture; yea, the flocks of sheep are made desolate.
 
-**TDB77:** A gilkial tuu leh bawngte cimawhin ham uh a, lonona mun om nawn lo ahih manin ganhing honte cimawh uh a, tuuhonte in zong haksatna thuak uh hi.
+**TDB77:** A gilkial tuu leh bawngte cimawhin ham-te a, lonona mun om nawn lo ahih manin ganhing honte cimawh-te a, tuuhonte in zong haksatna thuak-te hi.
 
-**ZVS:** A gilkial tuu leh bawngte cimawhin tau uh a, lonona mun om nawn hetlo ahih manin ganhing honte cimawh uh a, tuuhonte in zong haksatna thuak uh hi.
+**ZVS:** A gilkial tuu leh bawngte cimawhin tau-te a, lonona mun om nawn hetlo ahih manin ganhing honte cimawh-te a, tuuhonte in zong haksatna thuak-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
@@ -182,9 +182,9 @@
 ### v20
 **EN:** The beasts of the field cry also unto thee: for the rivers of waters are dried up, and the fire hath devoured the pastures of the wilderness.
 
-**TDB77:** Lui tui khempeuh kangcip khin a, mei kattum bangin lonona khempeuh keucip ahih manin, nangma tungah gamsate nangawn hong kiko uh hi.
+**TDB77:** Lui tui khempeuh kangcip khin a, mei kattum bangin lonona khempeuh keucip ahih manin, nangma tungah gamsate nangawn hong kiko-te hi.
 
-**ZVS:** Luitui luang khempeuh kangcip khinta a, mei' kattum bangin lonona khempeuh keucip khin ahih manin nangma tungah gamsate nangawn hong kiko uh hi.
+**ZVS:** Luitui luang khempeuh kangcip khinta a, mei' kattum bangin lonona khempeuh keucip khin ahih manin nangma tungah gamsate nangawn hong kiko-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 

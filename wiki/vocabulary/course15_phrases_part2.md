@@ -10,11 +10,11 @@
 | pawlkhop kimawlna | group game/activity |  |
 | nasep sehcian | division of work/task |  |
 | nambat a sapkhiat | calling out a number |  |
-| pawl zawnin a dinkhop ding uh kimawl | playing to form a group according to the number |  |
+| pawl zawnin a dinkhop ding-te kimawl | playing to form a group according to the number |  |
 | nasimna/puanakkilhnate kopkhatta pia | giving the exercise/instruction together | 'kopkhatta' suggests 'together' or 'as one set'. |
 | tu, syanu/pa in nasimna/puanakkilhnate kopkhatta pia | when the children, the mother/father gives the exercise/instruction together | 'tu' here likely refers to the children in context. |
 | a kigawm bangzah cih amau lawmte kiang genkhia | telling their friends how much they got when combined |  |
-| phe dal neitek uh | they have the cards/slips | 'phe dal' seems to refer to cards or slips used in the game. |
+| phe dal neitek-te | they have the cards/slips | 'phe dal' seems to refer to cards or slips used in the game. |
 | nambatte gawmkhawm | adding the numbers together |  |
 | a gawm a dik leh | if the addition is correct |  |
 | amau a phedalte kemkha | they keep their cards/slips |  |
@@ -28,13 +28,13 @@
 | gualnop kidemnate guanna | encouragement for enjoyable competition |  |
 | kam kihonate thapiakna | encouragement for conversation |  |
 | kampau kitoptohna khangsak hi | it promotes language development |  |
-| lunglawnnate uh a kep zawh nadingun | so that they can maintain their interest |  |
+| lunglawnnate-te a kep zawh nadingun | so that they can maintain their interest |  |
 | khangualpihte tawh muibuntak a kiho theih nadingun | so that they can communicate effectively with elders |  |
 | lungphawnnalam khantoh ding thapia | it promotes the aspect of expression |  |
 | ngakna/lakna leh thubuai phelsiangna cihdan nam ahi siamna | skills like waiting/taking turns and problem-solving |  |
-| kipawlkhop ding, kikupkhop ding sinkha uh | they get the chance to cooperate and work together |  |
+| kipawlkhop ding, kikupkhop ding sinkha-te | they get the chance to cooperate and work together |  |
 | haksaknate sungkhawmin | sharing their difficulties |  |
-| amau' gualtat siamna a thupite thahatsak uh hi | it strengthens the importance of their diligence |  |
+| amau' gualtat siamna a thupite thahatsak-te hi | it strengthens the importance of their diligence |  |
 | laisinna leh kihotuahna thapia hi | it promotes learning and coordination |  |
 | nasep zawhsiang nading | for completing the assigned task |  |
 | vaibuaite phelsiang nading | for solving problems |  |
@@ -72,14 +72,14 @@
 | a muibun laihilhna sunga kihelpih a mungpi khat hi | it is a main component integrated into effective teaching |  |
 | etzia muhcia kibanglote kihopsawnna | sharing different perspectives/views |  |
 | laisin nading a cihoih kiimlepam hong pian nading zong huh hi | it also helps in developing a good learning attitude for study |  |
-| amau' kimlepam ah kihelin khiatna a sehna uh tawh pilsin uh hi | they learn through the process of self-discovery in their development |  |
+| amau' kimlepam ah kihelin khiatna a sehna-te tawh pilsin-te hi | they learn through the process of self-discovery in their development |  |
 | mahlemah teeltawm | self-directed |  |
 | vai-maban a mitsuan ahi hi | it is a guide for the future |  |
 | hamphatnate pen naupangte bulphuhna leh syate' panpihna tawh tuahkhak dingte ahi hi | these benefits are to be met through the children's development and the parents' support |  |
-| a lamkhop uh ciangin | when they walk together/accompany |  |
+| a lamkhop-te ciangin | when they walk together/accompany |  |
 | a nuntakna uhah zangkhia thei-in | being able to apply it in their lives |  |
 | laisinna lungtup kung lam a neh tohtoh kawmin | while gradually reaching the goal of learning |  |
-| aituamin zong muhkhat thak tuamtuam nei uh hi | they also gain various new insights |  |
+| aituamin zong muhkhat thak tuamtuam nei-te hi | they also gain various new insights |  |
 | thulela a tamzaw hiteng ah kanpha in | we can refer to these main references |  |
 | Gual kikholhzia leh sepkhopzia lapsang nading sepzia zawipite na theihnop thuah leh | if you want to know more about the major procedures for continuing competition and cooperation |  |
 | thusinna nehtheina dingin | for reviewing the lesson |  |
@@ -153,8 +153,8 @@
 
 ## Sentence Patterns
 
-- `Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuaikei a leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi.` = When the group stops, if they need to stand on a picture, they should tell the teacher whether that picture is pleasing or not pleasing, and why.
-  - e.g. `Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuaikei a leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi.`
+- `Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuaikei a leh bang hang cih sanginndei pihte kiangah genkhia ding-te hi.` = When the group stops, if they need to stand on a picture, they should tell the teacher whether that picture is pleasing or not pleasing, and why.
+  - e.g. `Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuaikei a leh bang hang cih sanginndei pihte kiangah genkhia ding-te hi.`
 - `Syanu/pa in [number] a cihteh, sangnaupangte in mi [number] ciang belpawl khat in ding` = If the mother/father says [number], the students play to form a group of [number] people.
   - e.g. `syanu/pa in 4 a cihteh, sangnaupangte in mi 4 ciang belpawl khat in ding`
 - `syanu/pa in nasimna/puanakkilhnate kopkhatta pia leh tua khitteh sepding hilna nei` = When the mother/father gives the exercise/instruction together, those things have instructions on what to do.
@@ -165,10 +165,10 @@
   - e.g. `A kimawl khatta in phe dal 2 ta kai, tua dalnihte nambatte gawmkhawm leh a kigawm bangzah ngah cih amau pawlpihte kiang gen.`
 - `Kimawl-bulphuh laisinna in kammal thakte theihsakna, gualnop kidemnate guanna leh kam kihonate thapiakna cihte tungtawnin kampau kitoptohna khangsak hi.` = Play-based learning promotes language development through making new words known, encouragement for enjoyable competition, and encouragement for conversation.
   - e.g. `Kimawl-bulphuh laisinna in kammal thakte theihsakna, gualnop kidemnate guanna leh kam kihonate thapiakna cihte tungtawnin kampau kitoptohna khangsak hi.`
-- `Tua banah naupangte a lunglawnnate uh a kep zawh nadingun leh khangualpihte tawh muibuntak a kiho theih nadingun hilhna tawh lungphawnnalam khantoh ding thapia a, ei' hih hun ding ngakna/lakna leh thubuai phelsiangna cihdan nam ahi siamna a thupite thakhauhsak hi.` = Furthermore, it promotes the aspect of expression through guidance so that they can maintain their interests and communicate effectively with elders, and it strengthens the importance of skills like waiting/taking turns and problem-solving.
-  - e.g. `Tua banah naupangte a lunglawnnate uh a kep zawh nadingun leh khangualpihte tawh muibuntak a kiho theih nadingun hilhna tawh lungphawnnalam khantoh ding thapia a, ei' hih hun ding ngakna/lakna leh thubuai phelsiangna cihdan nam ahi siamna a thupite thakhauhsak hi.`
-- `Kimawl kawmin naupangte in kipawlkhop ding, kikupkhop ding sinkha uh a, haksaknate sungkhawmin, amau' gualtat siamna a thupite thahatsak uh hi.` = While playing, children get the chance to cooperate and work together, share their difficulties, and it strengthens the importance of their diligence.
-  - e.g. `Kimawl kawmin naupangte in kipawlkhop ding, kikupkhop ding sinkha uh a, haksaknate sungkhawmin, amau' gualtat siamna a thupite thahatsak uh hi.`
+- `Tua banah naupangte a lunglawnnate-te a kep zawh nadingun leh khangualpihte tawh muibuntak a kiho theih nadingun hilhna tawh lungphawnnalam khantoh ding thapia a, ei' hih hun ding ngakna/lakna leh thubuai phelsiangna cihdan nam ahi siamna a thupite thakhauhsak hi.` = Furthermore, it promotes the aspect of expression through guidance so that they can maintain their interests and communicate effectively with elders, and it strengthens the importance of skills like waiting/taking turns and problem-solving.
+  - e.g. `Tua banah naupangte a lunglawnnate-te a kep zawh nadingun leh khangualpihte tawh muibuntak a kiho theih nadingun hilhna tawh lungphawnnalam khantoh ding thapia a, ei' hih hun ding ngakna/lakna leh thubuai phelsiangna cihdan nam ahi siamna a thupite thakhauhsak hi.`
+- `Kimawl kawmin naupangte in kipawlkhop ding, kikupkhop ding sinkha-te a, haksaknate sungkhawmin, amau' gualtat siamna a thupite thahatsak-te hi.` = While playing, children get the chance to cooperate and work together, share their difficulties, and it strengthens the importance of their diligence.
+  - e.g. `Kimawl kawmin naupangte in kipawlkhop ding, kikupkhop ding sinkha-te a, haksaknate sungkhawmin, amau' gualtat siamna a thupite thahatsak-te hi.`
 - `Hih laihilh leh laisin zialedan sungah sangnaupang beelpawl tuamtuamte in a kiseh nasep zawhsiang nading, vaibuaite phelsiang nading leh vanlena bawlkhiat nadingin semkhawm, cihte kihel hi.` = It is included that various student groups work together to complete the assigned task, solve problems, and create tools/materials within this teaching and learning procedure.
   - e.g. `Hih laihilh leh laisin zialedan sungah sangnaupang beelpawl tuamtuamte in a kiseh nasep zawhsiang nading, vaibuaite phelsiang nading leh vanlena bawlkhiat nadingin semkhawm, cihte kihel hi.`
 - `Sangnaupangte kikal ah kiho kithuahna leh sepkhopna thapiak ding pen a muibun laihilhna sunga kihelpih a mungpi khat hi a, tua in lawptak kihelna, kiho kizopna, kikholhsiam khansakna, etzia muhcia kibanglote kihopsawnna, cihte khangsak banah laisin nading a cihoih kiimlepam hong pian nading zong huh hi.` = Promoting communication and cooperation among students is a main component integrated into effective teaching, and it promotes active participation, communication, developing good interaction, sharing different perspectives, and also helps in developing a good learning attitude for study.
@@ -177,5 +177,5 @@
   - e.g. `Kimawl-bulphuh laisinna in mahlemah teeltawm, a lungnop-huai leh vai-maban a mitsuan ahi hi.`
 - `Hih hamphatnate pen naupangte bulphuhna leh syate' panpihna tawh tuahkhak dingte ahi hi.` = These benefits are to be met through the children's development and the parents' support.
   - e.g. `Hih hamphatnate pen naupangte bulphuhna leh syate' panpihna tawh tuahkhak dingte ahi hi.`
-- `Naupangte in a laisinna uh ah syate leh khanpihte tawh a lamkhop uh ciangin, a nuntakna uhah zangkhia thei-in laisinna lungtup kung lam a neh tohtoh kawmin aituamin zong muhkhat thak tuamtuam nei uh hi.` = When children accompany/walk with parents and teachers in their learning, they are able to apply it in their lives, gradually reaching the goal of learning, and they also gain various new insights.
-  - e.g. `Naupangte in a laisinna uh ah syate leh khanpihte tawh a lamkhop uh ciangin, a nuntakna uhah zangkhia thei-in laisinna lungtup kung lam a neh tohtoh kawmin aituamin zong muhkhat thak tuamtuam nei uh hi.`
+- `Naupangte in a laisinna-te ah syate leh khanpihte tawh a lamkhop-te ciangin, a nuntakna uhah zangkhia thei-in laisinna lungtup kung lam a neh tohtoh kawmin aituamin zong muhkhat thak tuamtuam nei-te hi.` = When children accompany/walk with parents and teachers in their learning, they are able to apply it in their lives, gradually reaching the goal of learning, and they also gain various new insights.
+  - e.g. `Naupangte in a laisinna-te ah syate leh khanpihte tawh a lamkhop-te ciangin, a nuntakna uhah zangkhia thei-in laisinna lungtup kung lam a neh tohtoh kawmin aituamin zong muhkhat thak tuamtuam nei-te hi.`

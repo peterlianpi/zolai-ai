@@ -25,7 +25,7 @@
 ### v1
 **EN:** So Abijah slept with his fathers, and they buried him in the city of David: and Asa his son reigned in his stead. In his days the land was quiet ten years.
 
-**TDB77:** Tua ciangin Abijah a pate tawh ihmu a, amaute in David khuapi sungah amah vui uh hi; tua ciangin ama tangin a tapa Asa in uk hi. Ama hun sungin tua gamah kum sawm sung gal dai hi.
+**TDB77:** Tua ciangin Abijah a pate tawh ihmu a, amaute in David khuapi sungah amah vui-te hi; tua ciangin ama tangin a tapa Asa in uk hi. Ama hun sungin tua gamah kum sawm sung gal dai hi.
 
 **ZVS:** Tua ciangin Abijah si a, David khuapi sungah kivui hi. Tua ciangin ama tangin a tapa Asa in uk hi. Asa hun sungin tua gamah kum sawm sung gal dai hi.
 
@@ -77,18 +77,18 @@
 ### v7
 **EN:** Therefore he said unto Judah, Let us build these cities, and make about them walls, and towers, gates, and bars, while the land is yet before us; because we have sought the
 
-**TDB77:** Tua ciangin amah in Judah mite kiangah, “Hih khuapite lamin kulhpite leh tausangte, kulhkongpite leh zawlte tawh um ni; eite in Topa i Pasian zong i hih manin leitang in eima’ aa hi lai hi; eite in amah i zong a, amah in i kiim khempeuh panin kilemna hong pia hi,” a ci hi. Tua ahih ciangin amaute in khuapi lam uh a, mavang uh hi.
+**TDB77:** Tua ciangin amah in Judah mite kiangah, “Hih khuapite lamin kulhpite leh tausangte, kulhkongpite leh zawlte tawh um ni; eite in Topa i Pasian zong i hih manin leitang in eima’ aa hi lai hi; eite in amah i zong a, amah in i kiim khempeuh panin kilemna hong pia hi,” a ci hi. Tua ahih ciangin amaute in khuapi lam-te a, mavang-te hi.
 
-**ZVS:** Tua ciangin amah in Judah mite kiangah, “Hih khuapite lamin kulhpite leh tausangte, kulhkongpite leh zawlte tawh um ni. Eite in { Topa } i Pasian zong ihih manin leitang pen eima-a' hi lai hi. Eite in amah i zong a, amah in i kiim khempeuh panin galdaihna hong pia hi,” a ci hi. Tua ahih ciangin amaute in khuapite lamin kulh tawh um uh a, mavang uh hi.
+**ZVS:** Tua ciangin amah in Judah mite kiangah, “Hih khuapite lamin kulhpite leh tausangte, kulhkongpite leh zawlte tawh um ni. Eite in { Topa } i Pasian zong ihih manin leitang pen eima-a' hi lai hi. Eite in amah i zong a, amah in i kiim khempeuh panin galdaihna hong pia hi,” a ci hi. Tua ahih ciangin amaute in khuapite lamin kulh tawh um-te a, mavang-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And Asa had an army of men that bare targets and spears, out of Judah three hundred thousand; and out of Benjamin, that bare shields and drew bows, two hundred and fourscore thousand: all these were mighty men of valour.
 
-**TDB77:** Asa in Judah mite sung panin lumgol leh teipi a tawi galkap tul zathum, leh Benjamin mite lumneu pua-in thal a keek tul zanih leh tul sawmgiat nei hi; hih mite khempeuh in a thahat galhang mite ahi uh hi.
+**TDB77:** Asa in Judah mite sung panin lumgol leh teipi a tawi galkap tul zathum, leh Benjamin mite lumneu pua-in thal a keek tul zanih leh tul sawmgiat nei hi; hih mite khempeuh in a thahat galhang mite ahi-te hi.
 
-**ZVS:** Asa in Judah mite sung panin lumneu leh teipi a tawi galkap tul za thum, leh Benjamin mite lum pua-in thal a keek tul za nih leh tul sawmgiat nei hi. Hih mite khempeuh pen a thahat a galhang mite vive ahi uh hi.
+**ZVS:** Asa in Judah mite sung panin lumneu leh teipi a tawi galkap tul za thum, leh Benjamin mite lum pua-in thal a keek tul za nih leh tul sawmgiat nei hi. Hih mite khempeuh pen a thahat a galhang mite vive ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -104,54 +104,54 @@
 ### v10
 **EN:** Then Asa went out against him, and they set the battle in array in the valley of Zephathah at Mareshah.
 
-**TDB77:** Tua ciangin amah a dawntuah dingin Asa kuankhia a, Zefathah leh Mareshah kuamah galdo nading pan’na bawl uh hi.
+**TDB77:** Tua ciangin amah a dawntuah dingin Asa kuankhia a, Zefathah leh Mareshah kuamah galdo nading pan’na bawl-te hi.
 
-**ZVS:** Tua ciangin amah a dawntuah dingin Asa kuankhia a, Zefathah leh Mareshah kuamah galdona ding pan'na a bawl uh hi.
+**ZVS:** Tua ciangin amah a dawntuah dingin Asa kuankhia a, Zefathah leh Mareshah kuamah galdona ding pan'na a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v11
 **EN:** And Asa cried unto the
 
-**TDB77:** Tua ciangin Topa’ Pasian tungah Asa kiko a, “Topa aw, a thahat leh a zawngkhal kikalah a huh dingin nang tawh a kibang kuamah om lo hi. Kote hong huh in, Topa kote’ Pasian aw, bang hang hiam cih leh nang kong suang uh a, nangma minin hih mihonpi do dingin kong pai uh hi. Topa aw, nangmah in kote’ Pasian na hi hi; mite kizosak kei in,” a ci hi.
+**TDB77:** Tua ciangin Topa’ Pasian tungah Asa kiko a, “Topa aw, a thahat leh a zawngkhal kikalah a huh dingin nang tawh a kibang kuamah om lo hi. Kote hong huh in, Topa kote’ Pasian aw, bang hang hiam cih leh nang kong suang-te a, nangma minin hih mihonpi do dingin kong pai-te hi. Topa aw, nangmah in kote’ Pasian na hi hi; mite kizosak kei in,” a ci hi.
 
-**ZVS:** Tua ciangin { Topa } Pasian' tungah Asa kiko a, “{ Topa } aw, a thahat leh a zawngkhal a kidona-ah a huh dingin nang tawh a kibang kuamah dang omlo hi. Kote hong huh in, { Topa } kote' Pasian aw; bang hang hiam cih leh nang kong suang uh a, nangma minin hih mihonpi a do dingin kong pai uh hi. { Topa } aw, nang, kote' Pasian na hi hi; mite kizosak kei in,” a ci hi.
+**ZVS:** Tua ciangin { Topa } Pasian' tungah Asa kiko a, “{ Topa } aw, a thahat leh a zawngkhal a kidona-ah a huh dingin nang tawh a kibang kuamah dang omlo hi. Kote hong huh in, { Topa } kote' Pasian aw; bang hang hiam cih leh nang kong suang-te a, nangma minin hih mihonpi a do dingin kong pai-te hi. { Topa } aw, nang, kote' Pasian na hi hi; mite kizosak kei in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** So the
 
-**TDB77:** Tua ahih ciangin Topa in Asa leh Judah mite mai-ah Ethiopia mite zo a, tua ciangin Ethiopia mite tai uh hi.
+**TDB77:** Tua ahih ciangin Topa in Asa leh Judah mite mai-ah Ethiopia mite zo a, tua ciangin Ethiopia mite tai-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa } in Asa leh Judah mite' mai-ah Ethiopia mite zo a, Ethiopia mite tai uh hi.
+**ZVS:** Tua ahih ciangin { Topa } in Asa leh Judah mite' mai-ah Ethiopia mite zo a, Ethiopia mite tai-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v13
 **EN:** And Asa and the people that were with him pursued them unto Gerar: and the Ethiopians were overthrown, that they could not recover themselves; for they were destroyed before the
 
-**TDB77:** Asa, leh amah tawh a om mite in Gerar ciang dong amaute delh uh a, a hing kuamah a om nawn loh dongin Ethiopia mite puk uh hi; bang hang hiam cih leh Topa leh ama galkapte mai-ah amaute kisusia hi. Judah mite in van kinusia tampi tak puakhia uh hi.
+**TDB77:** Asa, leh amah tawh a om mite in Gerar ciang dong amaute delh-te a, a hing kuamah a om nawn loh dongin Ethiopia mite puk-te hi; bang hang hiam cih leh Topa leh ama galkapte mai-ah amaute kisusia hi. Judah mite in van kinusia tampi tak puakhia-te hi.
 
-**ZVS:** Asa leh amah tawh a om mite in Gerar ciangdong amaute delh uh a, a hing kuamah a om nawnloh dongin Ethiopia mite puk uh hi; bang hang hiam cih leh { Topa } leh ama galkapte' mai-ah amaute kisusia hi. Judah mite in vankinusia tampi tak pua uh hi.
+**ZVS:** Asa leh amah tawh a om mite in Gerar ciangdong amaute delh-te a, a hing kuamah a om nawnloh dongin Ethiopia mite puk-te hi; bang hang hiam cih leh { Topa } leh ama galkapte' mai-ah amaute kisusia hi. Judah mite in vankinusia tampi tak pua-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And they smote all the cities round about Gerar; for the fear of the
 
-**TDB77:** Topa kikihtakna amaute tungah om ahih manin amaute in Gerar kiim a, khuapi khempeuh vat uh hi. Amaute in khuapi khempeuh luh uh a, tuate sungah van kisutte tam mahmah hi.
+**TDB77:** Topa kikihtakna amaute tungah om ahih manin amaute in Gerar kiim a, khuapi khempeuh vat-te hi. Amaute in khuapi khempeuh luh-te a, tuate sungah van kisutte tam mahmah hi.
 
-**ZVS:** { Topa } a kikihtakna amaute tungah om ahih manin amaute in Gerar kiima khuapi khempeuh vat uh hi. Amaute in khuapite luh uh a, tuate sungah vankinusiate tam mahmah hi.
+**ZVS:** { Topa } a kikihtakna amaute tungah om ahih manin amaute in Gerar kiima khuapi khempeuh vat-te hi. Amaute in khuapite luh-te a, tuate sungah vankinusiate tam mahmah hi.
 
 **Grammar:** intensifier: very/greatly | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** They smote also the tents of cattle, and carried away sheep and camels in abundance, and returned to Jerusalem.
 
-**TDB77:** Tua ciangin amaute in gan omna puanbukte vat uh a, tuu leh keel tampi leh kalaohte puakhia uh hi. Tua ciangin Jerusalem ah ciahkik uh hi.
+**TDB77:** Tua ciangin amaute in gan omna puanbukte vat-te a, tuu leh keel tampi leh kalaohte puakhia-te hi. Tua ciangin Jerusalem ah ciahkik-te hi.
 
-**ZVS:** Tua ciangin amaute in gan omna puanbukte vat uh a, tuu tampi leh kalaohte paikhiatpih uh hi. Tua ciangin Jerusalem-ah a ciahkik uh hi.
+**ZVS:** Tua ciangin amaute in gan omna puanbukte vat-te a, tuu tampi leh kalaohte paikhiatpih-te hi. Tua ciangin Jerusalem-ah a ciahkik-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

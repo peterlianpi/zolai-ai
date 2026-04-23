@@ -40,9 +40,9 @@
 ### v3
 **EN:** The integrity of the upright shall guide them: but the perverseness of transgressors shall destroy them.
 
-**TDB77:** Midikte thuman in gamta uh a, amau’ hoihlohna tawh migilote kisusia hi.
+**TDB77:** Midikte thuman in gamta-te a, amau’ hoihlohna tawh migilote kisusia hi.
 
-**ZVS:** Midikte thumanin gamta uh a, migilote amau' hoihlohna in susia hi.
+**ZVS:** Midikte thumanin gamta-te a, migilote amau' hoihlohna in susia hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -56,18 +56,18 @@
 ### v5
 **EN:** The righteousness of the perfect shall direct his way: but the wicked shall fall by his own wickedness.
 
-**TDB77:** Thumanna in midikte’ nuntakna a nuam zaw-in piangsak a, migilote in amau’ gitloh mah puklawh uh hi.
+**TDB77:** Thumanna in midikte’ nuntakna a nuam zaw-in piangsak a, migilote in amau’ gitloh mah puklawh-te hi.
 
-**ZVS:** Thumanna in midikte' nuntakna a nuamzaw-in piangsak a, migilote in amau' gitlohna mah puklawh uh hi.
+**ZVS:** Thumanna in midikte' nuntakna a nuamzaw-in piangsak a, migilote in amau' gitlohna mah puklawh-te hi.
 
 **Grammar:** causative: -sak suffix | serial verb: -in (and then) | plural: uh marker
 
 ### v6
 **EN:** The righteousness of the upright shall deliver them: but transgressors shall be taken in their own naughtiness.
 
-**TDB77:** Thumanna in midikte honkhia a, thuman lo mite in amau’ huaihamna mah awkpih uh hi.
+**TDB77:** Thumanna in midikte honkhia a, thuman lo mite in amau’ huaihamna mah awkpih-te hi.
 
-**ZVS:** Thumanna in midikte honkhia a, thumanlo mite in amau' huaihamna mah awkpih uh hi.
+**ZVS:** Thumanna in midikte honkhia a, thumanlo mite in amau' huaihamna mah awkpih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -76,7 +76,7 @@
 
 **TDB77:** Migilote a sih ciangin a lametna teng tawh beikhawm a, hauhna suan’na in a mawkna suak hi.
 
-**ZVS:** Migilote a sih ciangin a lametna teng uh tawh bei khawm a, hauhna suan'na a mawkna a suak hi.
+**ZVS:** Migilote a sih ciangin a lametna teng-te tawh bei khawm a, hauhna suan'na a mawkna a suak hi.
 
 ### v8
 **EN:** The righteous is delivered out of trouble, and the wicked cometh in his stead.
@@ -90,9 +90,9 @@
 ### v9
 **EN:** An hypocrite with his mouth destroyeth his neighbour: but through knowledge shall the just be delivered.
 
-**TDB77:** Pasian a ngaihsun lo mite’ thugenna hangin mite in siatna thuak a, midikte’ pilna hangin mite in gupna ngah uh hi.
+**TDB77:** Pasian a ngaihsun lo mite’ thugenna hangin mite in siatna thuak a, midikte’ pilna hangin mite in gupna ngah-te hi.
 
-**ZVS:** Pasian a ngaihsunlo mite' thugenna hangin mite in siatna thuak a, midikte' pilna hangin mite in hotkhiatna ngah uh hi.
+**ZVS:** Pasian a ngaihsunlo mite' thugenna hangin mite in siatna thuak a, midikte' pilna hangin mite in hotkhiatna ngah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -133,9 +133,9 @@
 ### v14
 **EN:** Where no counsel is, the people fall: but in the multitude of counsellors there is safety.
 
-**TDB77:** Thu lamlak ding a nei lo mihingte kipuk uh a, thu lamlak tampi neihna in lungmuan’ na hi.
+**TDB77:** Thu lamlak ding a nei lo mihingte kipuk-te a, thu lamlak tampi neihna in lungmuan’ na hi.
 
-**ZVS:** Thulamlak ding a neilo mihingte kipuk uh a, thulamlak tampi neihna pen lungmuan'na ahi hi.
+**ZVS:** Thulamlak ding a neilo mihingte kipuk-te a, thulamlak tampi neihna pen lungmuan'na ahi hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -178,7 +178,7 @@
 
 **TDB77:** Thu man-a gamtat ding a hanciamte nungta ding a, asia-a gamta teiteite si ding hi.
 
-**ZVS:** Thumanin gamtat ding a hanciamte nungta ding a, a sia-in a gamta teiteite si ding uh hi.
+**ZVS:** Thumanin gamtat ding a hanciamte nungta ding a, a sia-in a gamta teiteite si ding-te hi.
 
 **Grammar:** future: will
 
@@ -221,7 +221,7 @@
 
 **TDB77:** Mi pawlkhat in sum zang ziahziah napi-in hau semsem a, mi pawlkhat in cil mahmah napi, zawng semsem hi.
 
-**ZVS:** Mi pawlkhat in sum zang ziahziah napi-in hau semsem uh a, mi pawlkhat cil mahmah napi, zawng semsem hi.
+**ZVS:** Mi pawlkhat in sum zang ziahziah napi-in hau semsem-te a, mi pawlkhat cil mahmah napi, zawng semsem hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then)
 
@@ -253,7 +253,7 @@
 
 **TDB77:** Tuk lai-a singteh tam bangin midikte’ hauhna khang ding a, phabi lai-a singteh pulh bangin hauhna suangte kiam ding hi.
 
-**ZVS:** Tuk lai-a singteh tam bangin midikte' hauhna khang ding a, phalbi lai-a singteh pulh bangin hauhna a suangte kiam ding uh hi.
+**ZVS:** Tuk lai-a singteh tam bangin midikte' hauhna khang ding a, phalbi lai-a singteh pulh bangin hauhna a suangte kiam ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

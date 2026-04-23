@@ -26,7 +26,7 @@
 ### v1
 **EN:** And Miriam and Aaron spake against Moses because of the Ethiopian woman whom he had married: for he had married an Ethiopian woman.
 
-**TDB77:** Moses in Kush numei khat ten’pih ahih manin, ama ten’pih Kush numei’ hangin Miriam leh Aaron in amah gensia uh hi;
+**TDB77:** Moses in Kush numei khat ten’pih ahih manin, ama ten’pih Kush numei’ hangin Miriam leh Aaron in amah gensia-te hi;
 
 **ZVS:** Moses in Kush numei khat ten'pih ahih manin, ama ten'pih Kush numei' hangin Miriam leh Aaron in amah gensia-in,
 
@@ -35,9 +35,9 @@
 ### v2
 **EN:** And they said, Hath the
 
-**TDB77:** amaute in, “Topa in Moses’ tung bek tawnin thu gen takpi ahi hiam? Eite’ tung tawnin zong hong gen lo ahi hiam?” a ci uh hi. Topa in tua thu za hi.
+**TDB77:** amaute in, “Topa in Moses’ tung bek tawnin thu gen takpi ahi hiam? Eite’ tung tawnin zong hong gen lo ahi hiam?” a ci-te hi. Topa in tua thu za hi.
 
-**ZVS:** “{ Topa } in Moses' tung bek tawnin thu gen ahi hiam? Eite' tung zong tawnin hong gen hilo ahi hiam?” a ci uh hi. { Topa } in tua thu a za hi.
+**ZVS:** “{ Topa } in Moses' tung bek tawnin thu gen ahi hiam? Eite' tung zong tawnin hong gen hilo ahi hiam?” a ci-te hi. { Topa } in tua thu a za hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -53,18 +53,18 @@
 ### v4
 **EN:** And the
 
-**TDB77:** Topa in thakhat thu-in Moses leh Aaron leh Miriam kiangah, “Kikhopna bukah no mihing thumte hong pai un,” a ci hi. Amau thumte pai uh hi.
+**TDB77:** Topa in thakhat thu-in Moses leh Aaron leh Miriam kiangah, “Kikhopna bukah no mihing thumte hong pai un,” a ci hi. Amau thumte pai-te hi.
 
-**ZVS:** { Topa } in thakhatthu-in Moses leh Aaron leh Miriam kiangah, “Kikhopna bukah no mihing thumte hong pai un,” a ci hi. Amau thumte a pai uh hi.
+**ZVS:** { Topa } in thakhatthu-in Moses leh Aaron leh Miriam kiangah, “Kikhopna bukah no mihing thumte hong pai un,” a ci hi. Amau thumte a pai-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And the
 
-**TDB77:** Meii khuam sungah Topa hong kum sukin, kikhopna buk kongah ding a, Aaron leh Miriam sam hi; amaute gel mai lam nehin hong pai uh hi.
+**TDB77:** Meii khuam sungah Topa hong kum sukin, kikhopna buk kongah ding a, Aaron leh Miriam sam hi; amaute gel mai lam nehin hong pai-te hi.
 
-**ZVS:** Meii khuam sungah { Topa } hong kumsukin, kikhopna bukkongah ding a, Aaron leh Miriam a sam hi. Amaute gel mailam nehin hong pai uh hi.
+**ZVS:** Meii khuam sungah { Topa } hong kumsukin, kikhopna bukkongah ding a, Aaron leh Miriam a sam hi. Amaute gel mailam nehin hong pai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -89,9 +89,9 @@
 ### v8
 **EN:** With him will I speak mouth to mouth, even apparently, and not in dark speeches; and the similitude of the
 
-**TDB77:** Amah tawh kam leh kam kiho-in a kitel lo kampaute tawh hi loin, a kitel takin thu ka gen uh hi; amah in Topa’ mel mu hi. Tua bang ahih ciangin bang hangin ka nasem Moses gensiat ding lau lo na hi uh hiam?” a ci hi.
+**TDB77:** Amah tawh kam leh kam kiho-in a kitel lo kampaute tawh hi loin, a kitel takin thu ka gen-te hi; amah in Topa’ mel mu hi. Tua bang ahih ciangin bang hangin ka nasem Moses gensiat ding lau lo na hi-te hiam?” a ci hi.
 
-**ZVS:** Amah tawh kam leh kam kiho-in, a kitello kampaute tawh hiloin, a kitel takin thu ka gen uh a, amah in { Topa' } meel a mu hi. Tua bang ahih ciangin bang hangin ka nasem Moses gensiat ding laulo na hi uh hiam?” a ci hi.
+**ZVS:** Amah tawh kam leh kam kiho-in, a kitello kampaute tawh hiloin, a kitel takin thu ka gen-te a, amah in { Topa' } meel a mu hi. Tua bang ahih ciangin bang hangin ka nasem Moses gensiat ding laulo na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -150,18 +150,18 @@
 ### v15
 **EN:** And Miriam was shut out from the camp seven days: and the people journeyed not till Miriam was brought in again.
 
-**TDB77:** Tua ahih ciangin giahphual pua lamah ni sagih sung Miriam kikhumcip hi; Miriam a kipaipih kik mateng khualzin a zom dingin mite ding khia lo uh hi.
+**TDB77:** Tua ahih ciangin giahphual pua lamah ni sagih sung Miriam kikhumcip hi; Miriam a kipaipih kik mateng khualzin a zom dingin mite ding khia lo-te hi.
 
-**ZVS:** Tua ahih ciangin giahphual pualamah ni sagih sung Miriam kikhumcip hi. Miriam a kipaipih kik mateng khualzin a zom dingin mite dingkhialo uh hi.
+**ZVS:** Tua ahih ciangin giahphual pualamah ni sagih sung Miriam kikhumcip hi. Miriam a kipaipih kik mateng khualzin a zom dingin mite dingkhialo-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And afterward the people removed from Hazeroth, and pitched in the wilderness of Paran.
 
-**TDB77:** Tua khit ciangin Hazeroth panin mite ding khia uh a, Paran gamlakah giahphual a sat uh hi.
+**TDB77:** Tua khit ciangin Hazeroth panin mite ding khia-te a, Paran gamlakah giahphual a sat-te hi.
 
-**ZVS:** Tua khit ciangin Hazeroth panin mite dingkhia uh a, Paran gamlakah giahphual a sat uh hi.
+**ZVS:** Tua khit ciangin Hazeroth panin mite dingkhia-te a, Paran gamlakah giahphual a sat-te hi.
 
 **Grammar:** plural: uh marker
 

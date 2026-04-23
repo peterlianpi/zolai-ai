@@ -52,9 +52,9 @@
 ### v4
 **EN:** Thus saith the
 
-**TDB77:** ‘Topa, Israel mite’ Pasian in a gen-inah, En un, khua kulhpi pua lam-a a hong umcih Babilon kumpipa leh Khaldea mite na dona uh ahi, na khut sung-ua na kep na galhiamte uh bangmah a, kimang lo ka suaksak ding a, amaute khempeuh hih khuapi laizangah kong paipih ding hi.
+**TDB77:** ‘Topa, Israel mite’ Pasian in a gen-inah, En un, khua kulhpi pua lam-a a hong umcih Babilon kumpipa leh Khaldea mite na dona-te ahi, na khut sung-ua na kep na galhiamte-te bangmah a, kimang lo ka suaksak ding a, amaute khempeuh hih khuapi laizangah kong paipih ding hi.
 
-**ZVS:** “Zedekiah kiangah hih bangin na genkik un, ‘{ Topa, } Israel mite' Pasian in a genin-ah: En un, khuakulhpi pualamah a hong umcih Babylon kumpipa leh Khaldea mite na dona uh ahi, na khutsung uha na kep na galhiamte uh bangmahin a kimanglo ka suaksak ding a, amaute khempeuh hih khuapi laizangah kong paipih ding hi.
+**ZVS:** “Zedekiah kiangah hih bangin na genkik un, ‘{ Topa, } Israel mite' Pasian in a genin-ah: En un, khuakulhpi pualamah a hong umcih Babylon kumpipa leh Khaldea mite na dona-te ahi, na khutsung uha na kep na galhiamte-te bangmahin a kimanglo ka suaksak ding a, amaute khempeuh hih khuapi laizangah kong paipih ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** And I will smite the inhabitants of this city, both man and beast: they shall die of a great pestilence.
 
-**TDB77:** Hih khuapi sunga teengte a mi a sa ci loin ka thatlum ding a, pulnatna tawh a gam khin ding uh hi.
+**TDB77:** Hih khuapi sunga teengte a mi a sa ci loin ka thatlum ding a, pulnatna tawh a gam khin ding-te hi.
 
-**ZVS:** Hih khuapi sungah a tengte a mi a sa ciloin ka thatlum ding a, pulnatna tawh a bei khin ding uh hi.
+**ZVS:** Hih khuapi sungah a tengte a mi a sa ciloin ka thatlum ding a, pulnatna tawh a bei khin ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -97,9 +97,9 @@
 ### v9
 **EN:** He that abideth in this city shall die by the sword, and by the famine, and by the pestilence: but he that goeth out, and falleth to the Chaldeans that besiege you, he shall live, and his life shall be unto him for a prey.
 
-**TDB77:** Hih khuapi sunga a om mi peuhmah namsau tawh ahi zongin, kial tawh a hi zongin, pulnatna tawh a hi zongin a si ding uh hi. Ahih hangin pusuak khia-a, note a hong do Khalde mite kianga a lut peuhmah a nungta ding uh a, a suakta liailiai ding uh hi.
+**TDB77:** Hih khuapi sunga a om mi peuhmah namsau tawh ahi zongin, kial tawh a hi zongin, pulnatna tawh a hi zongin a si ding-te hi. Ahih hangin pusuak khia-a, note a hong do Khalde mite kianga a lut peuhmah a nungta ding-te a, a suakta liailiai ding-te hi.
 
-**ZVS:** Hih khuapi sunga om mi peuhmah namsau tawh ahi a, kial tawh ahi a, pulnatna tawh ahi zongin a si ding uh hi. Ahi zongin pusuak khia-in note a hong sim Khaldea mite kiangah a lut peuhmah suakta liailiai ding uh hi.
+**ZVS:** Hih khuapi sunga om mi peuhmah namsau tawh ahi a, kial tawh ahi a, pulnatna tawh ahi zongin a si ding-te hi. Ahi zongin pusuak khia-in note a hong sim Khaldea mite kiangah a lut peuhmah suakta liailiai ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -120,9 +120,9 @@
 ### v12
 **EN:** O house of David, thus saith the
 
-**TDB77:** David’ suante aw! Topa in a cih-inah: Zingsang simin man takin thu khen un la, mi bawlsiapa’ khut sung pan a bawlsiatpa hon khia un. Tua bang na hih kei uh leh na siatna bawlnate hangun ka hehna mei bangin a kuang ding a, kuamah in a phelh zo kei ding hi.
+**TDB77:** David’ suante aw! Topa in a cih-inah: Zingsang simin man takin thu khen un la, mi bawlsiapa’ khut sung pan a bawlsiatpa hon khia un. Tua bang na hih kei-te leh na siatna bawlnate hangun ka hehna mei bangin a kuang ding a, kuamah in a phelh zo kei ding hi.
 
-**ZVS:** “Judah kumpite' innkuan tung-ah hih bangin va gen in: David' suante aw, { Topa' } kammal ngai dih un. { Topa } in a cihin-ah: Zingsang simin mantakin thu khen un la, mi bawlsiapa' khutsung pan a bawlsiatpa honkhia un. Tua bang na hih kei uh leh siatna na bawlnate hangun mei bangin ka hehna hong kuang ding a, kuamah in a phelhzo kei ding hi.
+**ZVS:** “Judah kumpite' innkuan tung-ah hih bangin va gen in: David' suante aw, { Topa' } kammal ngai dih un. { Topa } in a cihin-ah: Zingsang simin mantakin thu khen un la, mi bawlsiapa' khutsung pan a bawlsiatpa honkhia un. Tua bang na hih kei-te leh siatna na bawlnate hangun mei bangin ka hehna hong kuang ding a, kuamah in a phelhzo kei ding hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -138,9 +138,9 @@
 ### v14
 **EN:** But I will punish you according to the fruit of your doings, saith the
 
-**TDB77:** Na nasepna gahte tawh kituakin nang kong daantat ding hi, Topa in kong ci hi. Tuulak-a sing hoihte tawh a kilam na kumpi innte uh mei tawh kihal ding a, a kimkot khempeuh ka kangtum sak ding hi,” a ci hi.
+**TDB77:** Na nasepna gahte tawh kituakin nang kong daantat ding hi, Topa in kong ci hi. Tuulak-a sing hoihte tawh a kilam na kumpi innte-te mei tawh kihal ding a, a kimkot khempeuh ka kangtum sak ding hi,” a ci hi.
 
-**ZVS:** Na gamtatna tawh kizui-in gimna ka hong pia ding hi, { Topa } in kong ci hi. Tulaka sing hoihte tawh a kilam na kumpi innte uh mei tawh kihal ding a, a kimkot khempeuh ka kangtumsak ding hi,” a ci hi.
+**ZVS:** Na gamtatna tawh kizui-in gimna ka hong pia ding hi, { Topa } in kong ci hi. Tulaka sing hoihte tawh a kilam na kumpi innte-te mei tawh kihal ding a, a kimkot khempeuh ka kangtumsak ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 

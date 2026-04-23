@@ -25,9 +25,9 @@
 ### v1
 **EN:** And Rehoboam went to Shechem: for all Israel were come to Shechem to make him king.
 
-**TDB77:** Shekhem ah Rehoboam pai hi; bang hang hiam cih leh amah kumpi a suaksak dingin Israel khempeuh Shekhem ah hong pai uh hi.
+**TDB77:** Shekhem ah Rehoboam pai hi; bang hang hiam cih leh amah kumpi a suaksak dingin Israel khempeuh Shekhem ah hong pai-te hi.
 
-**ZVS:** Shekhem-ah Rehoboam pai hi. Bang hang hiam cih leh amah kumpi a suaksak Israel mi khempeuh Shekhem-ah hong pai uh hi.
+**ZVS:** Shekhem-ah Rehoboam pai hi. Bang hang hiam cih leh amah kumpi a suaksak Israel mi khempeuh Shekhem-ah hong pai-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -43,45 +43,45 @@
 ### v3
 **EN:** That they sent and called him. And Jeroboam and all the congregation of Israel came, and spake unto Rehoboam, saying,
 
-**TDB77:** Tua ciangin amaute in mi sawlin amah sam uh hi; tua ciangin Jeroboam leh Israel mi a kikhawm khempeuhte hong pai-in Rehoboam kiangah,
+**TDB77:** Tua ciangin amaute in mi sawlin amah sam-te hi; tua ciangin Jeroboam leh Israel mi a kikhawm khempeuhte hong pai-in Rehoboam kiangah,
 
-**ZVS:** Tua ciangin amaute in mi sawlin amah sam uh hi. Tua ciangin Jeroboam leh a kikhawm khempeuhte hong pai-in Rehoboam kiangah,
+**ZVS:** Tua ciangin amaute in mi sawlin amah sam-te hi. Tua ciangin Jeroboam leh a kikhawm khempeuhte hong pai-in Rehoboam kiangah,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** Thy father made our yoke grievous: now therefore make thou the grievous service of thy father, and his heavy yoke which he put upon us, lighter, and we will serve thee.
 
-**TDB77:** “Na pa in ka hakkol uh a gikin bawl hi. Tua ahih ciangin tu-in na pa’ nasep haksate leh kote tungah a gik hakkol zangsak in, tua ciangin kote in nangma na kong sem ding uh hi,” a ci uh hi.
+**TDB77:** “Na pa in ka hakkol-te a gikin bawl hi. Tua ahih ciangin tu-in na pa’ nasep haksate leh kote tungah a gik hakkol zangsak in, tua ciangin kote in nangma na kong sem ding-te hi,” a ci-te hi.
 
-**ZVS:** “Na pa in kote hong gimbawlin vangikpi hong suan hi. Tua ahih ciangin tu-in na pa' nasep haksate leh kote tungah a giklua thuhaksate zangsak in. Tua hi leh kote in nangma na kong sem ding uh hi,” a ci uh hi.
+**ZVS:** “Na pa in kote hong gimbawlin vangikpi hong suan hi. Tua ahih ciangin tu-in na pa' nasep haksate leh kote tungah a giklua thuhaksate zangsak in. Tua hi leh kote in nangma na kong sem ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v5
 **EN:** And he said unto them, Depart yet for three days, then come again to me. And the people departed.
 
-**TDB77:** Amah in amaute kiangah, “Ni thum sung va kihem un la, tua ciangin kei kiangah hong pai kik un,” a ci hi. Tua ahih ciangin mite paikhia uh hi.
+**TDB77:** Amah in amaute kiangah, “Ni thum sung va kihem un la, tua ciangin kei kiangah hong pai kik un,” a ci hi. Tua ahih ciangin mite paikhia-te hi.
 
-**ZVS:** Amah in amaute kiangah, “Ni thum sung va kihem un la, tua ciangin kei kiangah hong paikik un,” a ci hi. Tua ahih ciangin mite paikhia uh hi.
+**ZVS:** Amah in amaute kiangah, “Ni thum sung va kihem un la, tua ciangin kei kiangah hong paikik un,” a ci hi. Tua ahih ciangin mite paikhia-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And king Rehoboam consulted with the old men, that stood before Solomon his father while he yet lived, and said, How do ye advise that I may answer this people?
 
-**TDB77:** Tua ciangin Kumpi Rehoboam in a pa Solomon a nuntak lai-in ama mai-ah a ding ngei khangham mite thu dongin, “Hih mite ka dawn’na ding ngaihsutna hong bangci piak ding na hi uh hiam?” a ci hi.
+**TDB77:** Tua ciangin Kumpi Rehoboam in a pa Solomon a nuntak lai-in ama mai-ah a ding ngei khangham mite thu dongin, “Hih mite ka dawn’na ding ngaihsutna hong bangci piak ding na hi-te hiam?” a ci hi.
 
-**ZVS:** Tua ciangin Kumpi Rehoboam in a pa Solomon a nuntak lai-in ama mai-ah a ding ngei khangham mite thu dongin, “Hih mite ka dawn'na ding ngaihsutna hong bangci piak ding na hi uh hiam?” a ci hi.
+**ZVS:** Tua ciangin Kumpi Rehoboam in a pa Solomon a nuntak lai-in ama mai-ah a ding ngei khangham mite thu dongin, “Hih mite ka dawn'na ding ngaihsutna hong bangci piak ding na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then)
 
 ### v7
 **EN:** And they spake unto him, saying, If thou wilt be a servant unto this people this day, and wilt serve them, and answer them, and speak good words to them, then they will be thy servants for ever.
 
-**TDB77:** Tua ciangin amaute in ama kiangah, “Nangmah in tu ni-in hih mite’ nasem ahi dingin amau’ na semin, amaute na dawn’ ciangin kam hoih pau lecin, amaute in a tawntungin nangma nasemte hi ding uh hi,” a ci uh hi.
+**TDB77:** Tua ciangin amaute in ama kiangah, “Nangmah in tu ni-in hih mite’ nasem ahi dingin amau’ na semin, amaute na dawn’ ciangin kam hoih pau lecin, amaute in a tawntungin nangma nasemte hi ding-te hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin amaute in ama kiangah, “Nangmah in tuni-in hih mite' deihna bang zui in la, amaute na dawn' ciangin kamhoih pau lecin, amaute pen a tawntungin nangma nasemte hi ding uh hi,” a ci uh hi.
+**ZVS:** Tua ciangin amaute in ama kiangah, “Nangmah in tuni-in hih mite' deihna bang zui in la, amaute na dawn' ciangin kamhoih pau lecin, amaute pen a tawntungin nangma nasemte hi ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -97,16 +97,16 @@
 ### v9
 **EN:** And he said unto them, What counsel give ye that we may answer this people, who have spoken to me, saying, Make the yoke which thy father did put upon us lighter?
 
-**TDB77:** Amah in amaute kiangah, “‘Na pa in kote tungah hong koih hakkol zangsak in,’ kei tungah hong ci hih mite i dawn’ nading ngaihsutna hong bangci piak ding na hi uh hiam?” a ci hi.
+**TDB77:** Amah in amaute kiangah, “‘Na pa in kote tungah hong koih hakkol zangsak in,’ kei tungah hong ci hih mite i dawn’ nading ngaihsutna hong bangci piak ding na hi-te hiam?” a ci hi.
 
-**ZVS:** Amah in amaute kiangah, “‘Na pa in kote tungah hong suat vangik zangsak in,’ kei tungah hong ci hih mite i dawn'na ding ngaihsutna hong bangci piak ding na hi uh hiam?” a ci hi.
+**ZVS:** Amah in amaute kiangah, “‘Na pa in kote tungah hong suat vangik zangsak in,’ kei tungah hong ci hih mite i dawn'na ding ngaihsutna hong bangci piak ding na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
 ### v10
 **EN:** And the young men that were grown up with him spake unto him, saying, Thus shalt thou speak unto this people that spake unto thee, saying, Thy father made our yoke heavy, but make thou it lighter unto us; thus shalt thou say unto them, My little finger shall be thicker than my father's loins.
 
-**TDB77:** Tua ciangin amah tawh a khang khawm khangnote in ama kiangah, “Nangma kiangah, ‘Na pa in ka hakkol uh a gikin bawl hi, ahih hangin kote adingin hong zangsak in,’ hong ci hih mite kiangah hih bangin na gen ding hi; amaute kiangah, ‘Ka khutmeno in ka pa’ kawng sangin gol zaw hi.
+**TDB77:** Tua ciangin amah tawh a khang khawm khangnote in ama kiangah, “Nangma kiangah, ‘Na pa in ka hakkol-te a gikin bawl hi, ahih hangin kote adingin hong zangsak in,’ hong ci hih mite kiangah hih bangin na gen ding hi; amaute kiangah, ‘Ka khutmeno in ka pa’ kawng sangin gol zaw hi.
 
 **ZVS:** Tua ciangin amah tawh a khangkhawm khangnote in ama kiangah, “Nang kiangah, ‘Na pa in vangikpi hong puasak ahih manin kote-a' dingin hong zangsak in,’ hong ci hih mite kiangah hih bangin na gen ding hi. Amaute kiangah, ‘Ka khutmeno pen ka pa' kawng sangin golzaw hi.
 
@@ -115,16 +115,16 @@
 ### v11
 **EN:** And now whereas my father did lade you with a heavy yoke, I will add to your yoke: my father hath chastised you with whips, but I will chastise you with scorpions.
 
-**TDB77:** Tu-in, ka pa in hakkol gik note tungah hong koihna munah na hakkol uh kong behlap ding hi. Ka pa in ciang tawh note hong thuhilh hi; ahih hangin keimah in ciang lingnei tawh note kong thuhilh ding hi,’ na ci ding hi,” a ci uh hi.
+**TDB77:** Tu-in, ka pa in hakkol gik note tungah hong koihna munah na hakkol-te kong behlap ding hi. Ka pa in ciang tawh note hong thuhilh hi; ahih hangin keimah in ciang lingnei tawh note kong thuhilh ding hi,’ na ci ding hi,” a ci-te hi.
 
-**ZVS:** Tu-in ka pa in note tungah vangik hong suat banah kong behlap lai ding hi. Ka pa in ciang tawh note hong thuhilh hi. Ahih hangin keimah in ciang lingnei tawh note kong thuhilh ding hi,’ na ci ding hi,” a ci uh hi.
+**ZVS:** Tu-in ka pa in note tungah vangik hong suat banah kong behlap lai ding hi. Ka pa in ciang tawh note hong thuhilh hi. Ahih hangin keimah in ciang lingnei tawh note kong thuhilh ding hi,’ na ci ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v12
 **EN:** So Jeroboam and all the people came to Rehoboam the third day, as the king had appointed, saying, Come to me again the third day.
 
-**TDB77:** Tua ahih ciangin kumpipa in, “Ni thum ni-in ka kiangah hong paikik un,” a cih mah bangin Jeroboam leh mi khempeuh a ni thum ni-in Rehoboam kiangah hong pai uh hi.
+**TDB77:** Tua ahih ciangin kumpipa in, “Ni thum ni-in ka kiangah hong paikik un,” a cih mah bangin Jeroboam leh mi khempeuh a ni thum ni-in Rehoboam kiangah hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -140,7 +140,7 @@
 ### v14
 **EN:** And spake to them after the counsel of the young men, saying, My father made your yoke heavy, and I will add to your yoke: my father also chastised you with whips, but I will chastise you with scorpions.
 
-**TDB77:** khangnote’ ngaihsut piakna tawh kizui-in amaute kiangah thugen a, “Ka pa in note’ hakkol giksak hi; ahih hangin keimah in na hakkol uh ka behlap ding hi; ka pa in ciang tawh note hong thuhilh hi; ahih hangin keimah in ciang lingnei tawh note kong thuhilh ding hi,” a ci hi.
+**TDB77:** khangnote’ ngaihsut piakna tawh kizui-in amaute kiangah thugen a, “Ka pa in note’ hakkol giksak hi; ahih hangin keimah in na hakkol-te ka behlap ding hi; ka pa in ciang tawh note hong thuhilh hi; ahih hangin keimah in ciang lingnei tawh note kong thuhilh ding hi,” a ci hi.
 
 **ZVS:** khangnote' ngaihsut piakna tawh kizui-in amaute kiangah thu gen a, “Ka pa in note' tungah vangik hong suat banah keimah in ka hong behlap lai ding hi. Ka pa in ciang bek tawh note hong thuhilh hi. Ahih hangin keimah in ciang lingnei tawh note kong thuhilh ding hi,” a ci hi.
 
@@ -158,9 +158,9 @@
 ### v16
 **EN:** So when all Israel saw that the king hearkened not unto them, the people answered the king, saying, What portion have we in David? neither have we inheritance in the son of Jesse: to your tents, O Israel: now see to thine own house, David. So Israel departed unto their tents.
 
-**TDB77:** Kumpipa in amau’ thu a ngaih lohna Israelte khempeuh in a muh uh ciangin mite in kumpipa dawng uh a, “David sungah kote in bang ngah nei ka hi uh hiam? Jessi tapa sungah gamhluah ka nei kei uh hi. Israelte aw, na inn ciat uhah ciah un. Rehoboam in ama ading vaihawm tawm hen,” a ci uh hi. Tua ahih ciangin Israelte a inn ciat uhah kihem uh hi.
+**TDB77:** Kumpipa in amau’ thu a ngaih lohna Israelte khempeuh in a muh-te ciangin mite in kumpipa dawng-te a, “David sungah kote in bang ngah nei ka hi-te hiam? Jessi tapa sungah gamhluah ka nei kei-te hi. Israelte aw, na inn ciat uhah ciah un. Rehoboam in ama ading vaihawm tawm hen,” a ci-te hi. Tua ahih ciangin Israelte a inn ciat uhah kihem-te hi.
 
-**ZVS:** Kumpipa in amau' thu a ngaihlohna Israel-te khempeuh in a muh uh ciangin mite in kumpipa dawng uh a, “David sungah kote in bang ngah nei ka hi uh hiam? Jessi tapa sungah gamhluah ka nei kei uh hi. Israel-te aw, na inn ciat uhah ciah un. Rehoboam in ama-a' ding vaihawmtawm ta hen,” a ci uh hi. Tua ahih ciangin Israel-te a inn ciat uhah kihem uh hi.
+**ZVS:** Kumpipa in amau' thu a ngaihlohna Israel-te khempeuh in a muh-te ciangin mite in kumpipa dawng-te a, “David sungah kote in bang ngah nei ka hi-te hiam? Jessi tapa sungah gamhluah ka nei kei-te hi. Israel-te aw, na inn ciat uhah ciah un. Rehoboam in ama-a' ding vaihawmtawm ta hen,” a ci-te hi. Tua ahih ciangin Israel-te a inn ciat uhah kihem-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -174,9 +174,9 @@
 ### v18
 **EN:** Then king Rehoboam sent Adoram, who was over the tribute; and all Israel stoned him with stones, that he died. Therefore king Rehoboam made speed to get him up to his chariot, to flee to Jerusalem.
 
-**TDB77:** Tua ciangin Kumpi Rehoboam in aana tawh nasemte a uk Adoram sawl a, Israelte khempeuh in suang tawh amah na deng lum uh hi. Tua ciangin Jerusalem ah a tai dingin Kumpi Rehoboam a sakol leengah a tuang dingin nawh tai hi.
+**TDB77:** Tua ciangin Kumpi Rehoboam in aana tawh nasemte a uk Adoram sawl a, Israelte khempeuh in suang tawh amah na deng lum-te hi. Tua ciangin Jerusalem ah a tai dingin Kumpi Rehoboam a sakol leengah a tuang dingin nawh tai hi.
 
-**ZVS:** Tua ciangin Kumpi Rehoboam in aana tawh nasemte a uk Adoram, Israel-te tawh a kimu dingin sawl a, ahi zongin amaute in amah suang tawh na denglum uh hi. Tua ciangin Jerusalem-ah a tai dingin Kumpi Rehoboam a sakol leeng-ah a tuang dingin nawhtai hi.
+**ZVS:** Tua ciangin Kumpi Rehoboam in aana tawh nasemte a uk Adoram, Israel-te tawh a kimu dingin sawl a, ahi zongin amaute in amah suang tawh na denglum-te hi. Tua ciangin Jerusalem-ah a tai dingin Kumpi Rehoboam a sakol leeng-ah a tuang dingin nawhtai hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -185,16 +185,16 @@
 
 **TDB77:** Tua ahih ciangin tu ni dongin saklam Israelte in David innkuan lehdo hi.
 
-**ZVS:** Tua ahih ciangin tuni dongin leilulam Israel-te in David' suante' ukna lehdo uh hi.
+**ZVS:** Tua ahih ciangin tuni dongin leilulam Israel-te in David' suante' ukna lehdo-te hi.
 
 **Grammar:** sequence: then/therefore
 
 ### v20
 **EN:** And it came to pass, when all Israel heard that Jeroboam was come again, that they sent and called him unto the congregation, and made him king over all Israel: there was none that followed the house of David, but the tribe of Judah only.
 
-**TDB77:** Jeroboam hong ciahkik khitna thu Israelte khempeuh in a zak uh ciangin amaute in mi sawlin kikhopna ah amah samsak uh a, Israelte khempeuh tungah kumpi-in amah bawl uh hi. David innkuan a zui kuamah dang om lo a, Judah minam bek in zui hi.
+**TDB77:** Jeroboam hong ciahkik khitna thu Israelte khempeuh in a zak-te ciangin amaute in mi sawlin kikhopna ah amah samsak-te a, Israelte khempeuh tungah kumpi-in amah bawl-te hi. David innkuan a zui kuamah dang om lo a, Judah minam bek in zui hi.
 
-**ZVS:** Jeroboam hong ciahkik khitna thu Israel-te khempeuh in a zak uh ciangin amaute in mi sawlin kikhopna-ah amah samsak uh a, Israel-te khempeuh tungah kumpi-in amah a bawl uh hi. David' suante a zui kuamah dang omlo a, Judah minam bek in a zui uh hi.
+**ZVS:** Jeroboam hong ciahkik khitna thu Israel-te khempeuh in a zak-te ciangin amaute in mi sawlin kikhopna-ah amah samsak-te a, Israel-te khempeuh tungah kumpi-in amah a bawl-te hi. David' suante a zui kuamah dang omlo a, Judah minam bek in a zui-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -224,9 +224,9 @@
 ### v24
 **EN:** Thus saith the
 
-**TDB77:** “Topa in hih bangin ci hi: Note na kuanto kei ding uh a, na behte uh Israelte na do kei ding uh hi. Mi khempeuh a inn ciat uhah ciah hen; bang hang hiam cih leh hih thu in keima kiang pan ahi hi,’ ci hi,” a ci hi. Tua ahih ciangin amaute in Topa’ thu ngai uh a, Topa’ thugen bangin innah ciahkik uh hi.
+**TDB77:** “Topa in hih bangin ci hi: Note na kuanto kei ding-te a, na behte-te Israelte na do kei ding-te hi. Mi khempeuh a inn ciat uhah ciah hen; bang hang hiam cih leh hih thu in keima kiang pan ahi hi,’ ci hi,” a ci hi. Tua ahih ciangin amaute in Topa’ thu ngai-te a, Topa’ thugen bangin innah ciahkik-te hi.
 
-**ZVS:** ‘{ Topa } in hih bangin ci hi: Note na kuanto kei ding uh a, na beh uh ahi Israel-te na do kei ding uh hi. Mi khempeuh a inn ciat uhah ciah hen. Hih thu pen keima vaihawm ahi hi,’ ci hi,” a ci hi. Tua ahih ciangin amaute in { Topa' } thu ngai uh a, { Topa' } thugen bangin inn-ah a ciahkik uh hi.
+**ZVS:** ‘{ Topa } in hih bangin ci hi: Note na kuanto kei ding-te a, na beh-te ahi Israel-te na do kei ding-te hi. Mi khempeuh a inn ciat uhah ciah hen. Hih thu pen keima vaihawm ahi hi,’ ci hi,” a ci hi. Tua ahih ciangin amaute in { Topa' } thu ngai-te a, { Topa' } thugen bangin inn-ah a ciahkik-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -251,18 +251,18 @@
 ### v27
 **EN:** If this people go up to do sacrifice in the house of the
 
-**TDB77:** Jerusalem a, Topa’ innah biakna pia dingin hih mite paito leh, hih mite’ lungsim Judah kumpi Rehoboam, a topa uh lamah kiheikik ding a, amaute in kei hong thatin Judah kumpi Rehoboam kiangah ciahkik ding uh hi,” a ci hi.
+**TDB77:** Jerusalem a, Topa’ innah biakna pia dingin hih mite paito leh, hih mite’ lungsim Judah kumpi Rehoboam, a topa-te lamah kiheikik ding a, amaute in kei hong thatin Judah kumpi Rehoboam kiangah ciahkik ding-te hi,” a ci hi.
 
-**ZVS:** Jerusalem-a { Topa' } biakinn-ah biakna pia dingin hih mite paito leh, hih mite' lungsim Judah kumpi Rehoboam, a topa uh lamah kiheikik khading a, amaute in kei hong thatin Judah kumpi Rehoboam kiangah ciahkik ding uh hi,” ci hi.
+**ZVS:** Jerusalem-a { Topa' } biakinn-ah biakna pia dingin hih mite paito leh, hih mite' lungsim Judah kumpi Rehoboam, a topa-te lamah kiheikik khading a, amaute in kei hong thatin Judah kumpi Rehoboam kiangah ciahkik ding-te hi,” ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** Whereupon the king took counsel, and made two calves of gold, and said unto them, It is too much for you to go up to Jerusalem: behold thy gods, O Israel, which brought thee up out of the land of Egypt.
 
-**TDB77:** Tua ciangin kumpipa in thu kikupna khat bawl a, tua ciangin kham bawngno nih bawl hi. Tua ciangin amah in mite kiangah, “Jerusalem ah sau vei khop na paikhin ta uh hi. Israel mite aw, Izipt leitang panin note hong paikhiatpih na pasiante uh en un,” a ci hi.
+**TDB77:** Tua ciangin kumpipa in thu kikupna khat bawl a, tua ciangin kham bawngno nih bawl hi. Tua ciangin amah in mite kiangah, “Jerusalem ah sau vei khop na paikhin ta-te hi. Israel mite aw, Izipt leitang panin note hong paikhiatpih na pasiante-te en un,” a ci hi.
 
-**ZVS:** Tua ahih ciangin kumpipa in thu kikupna khat bawl a, tua ciangin kham bawngno nih bawl hi. Tua ciangin amah in mite kiangah, “Jerusalem-ah sauvei khop na pai khinta uh hi. Israel mite aw, Egypt leitang panin note hong paikhiatpih na pasian-te uh en un,” a ci hi.
+**ZVS:** Tua ahih ciangin kumpipa in thu kikupna khat bawl a, tua ciangin kham bawngno nih bawl hi. Tua ciangin amah in mite kiangah, “Jerusalem-ah sauvei khop na pai khinta-te hi. Israel mite aw, Egypt leitang panin note hong paikhiatpih na pasian-te-te en un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -276,9 +276,9 @@
 ### v30
 **EN:** And this thing became a sin: for the people went to worship before the one, even unto Dan.
 
-**TDB77:** Hih na in khialhna khat suak hi; bang hang hiam cih leh mite Beth-el a, bia ding leh Dan a, bia dingin a gamla pekah va pai uh hi.
+**TDB77:** Hih na in khialhna khat suak hi; bang hang hiam cih leh mite Beth-el a, bia ding leh Dan a, bia dingin a gamla pekah va pai-te hi.
 
-**ZVS:** Hih na pen khialhna khat a suak hi. Bang hang hiam cih leh mite Bethel-a bia ding leh Dan-a bia dingin a gamla pekah va pai uh hi.
+**ZVS:** Hih na pen khialhna khat a suak hi. Bang hang hiam cih leh mite Bethel-a bia ding leh Dan-a bia dingin a gamla pekah va pai-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

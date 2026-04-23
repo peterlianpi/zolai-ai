@@ -125,9 +125,9 @@
 ### v14
 **EN:** And said, O
 
-**TDB77:** tua ciangin, “Israel Pasian, Topa aw, vantungah ahi a, leitungah ahi zongin thuciamna lenin a lungsim khempeuh uh tawh nangma thu hong mang na nasemte tungah itna kip a lak, nang tawh a kibang Pasian om lo hi;
+**TDB77:** tua ciangin, “Israel Pasian, Topa aw, vantungah ahi a, leitungah ahi zongin thuciamna lenin a lungsim khempeuh-te tawh nangma thu hong mang na nasemte tungah itna kip a lak, nang tawh a kibang Pasian om lo hi;
 
-**ZVS:** Tua ciangin Solomon in thu ngen a, “Israel Pasian, { Topa } aw, vantungah ahi a, leitungah ahi zongin thuciamna lenin a lungsim khempeuh uh tawh nangma thu hong mang na nasemte tungah itna kip a lak, nang tawh a kibang Pasian dang omlo hi.
+**ZVS:** Tua ciangin Solomon in thu ngen a, “Israel Pasian, { Topa } aw, vantungah ahi a, leitungah ahi zongin thuciamna lenin a lungsim khempeuh-te tawh nangma thu hong mang na nasemte tungah itna kip a lak, nang tawh a kibang Pasian dang omlo hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix
 
@@ -143,9 +143,9 @@
 ### v16
 **EN:** Now therefore, O
 
-**TDB77:** Tua ahih ciangin tu-in Israel Pasian, Topa aw, ama tungah thuciamin, ‘Keima thu nang na man’ bangin na suan na khakte in ka thukham zui-in a gamtatna uhah a kidop nak uh leh Israel kumpi tokhom tungah a tu dingin keima mai-ah mi khat beek na kitasam kei ding hi,’ na cihsa bangin na nasem ka pa David tawh na thuciamsa kipsak in.
+**TDB77:** Tua ahih ciangin tu-in Israel Pasian, Topa aw, ama tungah thuciamin, ‘Keima thu nang na man’ bangin na suan na khakte in ka thukham zui-in a gamtatna uhah a kidop nak-te leh Israel kumpi tokhom tungah a tu dingin keima mai-ah mi khat beek na kitasam kei ding hi,’ na cihsa bangin na nasem ka pa David tawh na thuciamsa kipsak in.
 
-**ZVS:** Tua ahih ciangin tu-in Israel Pasian, { Topa } aw, ama tungah thu ciamin, ‘Keima thu na hong man' bangin na suan na khakte in ka thukham zui-in a gamtatna uhah a kidop nak uh leh Israel kumpi tokhom tungah a tu dingin keima mai-ah mi khat beek na kitasam kei ding hi,’ na cihsa bangin na nasem ka pa David tawh na thuciamsa kipsak in.
+**ZVS:** Tua ahih ciangin tu-in Israel Pasian, { Topa } aw, ama tungah thu ciamin, ‘Keima thu na hong man' bangin na suan na khakte in ka thukham zui-in a gamtatna uhah a kidop nak-te leh Israel kumpi tokhom tungah a tu dingin keima mai-ah mi khat beek na kitasam kei ding hi,’ na cihsa bangin na nasem ka pa David tawh na thuciamsa kipsak in.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix
 
@@ -188,9 +188,9 @@
 ### v21
 **EN:** Hearken therefore unto the supplications of thy servant, and of thy people Israel, which they shall make toward this place: hear thou from thy dwelling place, even from heaven; and when thou hearest, forgive.
 
-**TDB77:** Amaute in hih mun lam nga-in thu hong nget uh ciangin na nasempa leh na mi Israelte’ hong thuumnate nangmah in ngai in; hi hi, na teen’na mun vantung panin za in; na zak ciangin maisak in.
+**TDB77:** Amaute in hih mun lam nga-in thu hong nget-te ciangin na nasempa leh na mi Israelte’ hong thuumnate nangmah in ngai in; hi hi, na teen’na mun vantung panin za in; na zak ciangin maisak in.
 
-**ZVS:** Amaute in hih mun lam nga-in thu hong nget uh ciangin na nasempa leh na mi Israel-te' hong thumnate nangmah in ngai in. Na ten'na mun vantung panin hong za takpi in la, na zak ciangin hong maisak in.
+**ZVS:** Amaute in hih mun lam nga-in thu hong nget-te ciangin na nasempa leh na mi Israel-te' hong thumnate nangmah in ngai in. Na ten'na mun vantung panin hong za takpi in la, na zak ciangin hong maisak in.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -215,27 +215,27 @@
 ### v24
 **EN:** And if thy people Israel be put to the worse before the enemy, because they have sinned against thee; and shall return and confess thy name, and pray and make supplication before thee in this house;
 
-**TDB77:** “Na mi Israelte nang tungah hong khialhna hangin a galte uh mai-ah guallelin, amaute hong kihei kikin na min hong phawkin hih inn sung nangma kiangah thungenin thuumna hong bawl ciangin,
+**TDB77:** “Na mi Israelte nang tungah hong khialhna hangin a galte-te mai-ah guallelin, amaute hong kihei kikin na min hong phawkin hih inn sung nangma kiangah thungenin thuumna hong bawl ciangin,
 
-**ZVS:** “Na mi Israel-te nang tungah hong khialhna hangin a galte uh mai-ah guallelin, amaute hong kihei kikin na min hong phawkin hih biakinn sung nangma kiangah thu ngenin thumna hong bawl uh ciangin,
+**ZVS:** “Na mi Israel-te nang tungah hong khialhna hangin a galte-te mai-ah guallelin, amaute hong kihei kikin na min hong phawkin hih biakinn sung nangma kiangah thu ngenin thumna hong bawl-te ciangin,
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v25
 **EN:** Then hear thou from the heavens, and forgive the sin of thy people Israel, and bring them again unto the land which thou gavest to them and to their fathers.
 
-**TDB77:** vantung panin nangmah in za in la, na mi Israelte’ khialhna maisakin amaute leh a pu a pate uh tungah na piak leitungah amaute paipih kik in.
+**TDB77:** vantung panin nangmah in za in la, na mi Israelte’ khialhna maisakin amaute leh a pu a pate-te tungah na piak leitungah amaute paipih kik in.
 
-**ZVS:** vantung panin nangmah in za in la, na mi Israel-te' khialhna maisakin amaute leh a pu a pate uh tungah na piak leitangah amaute paipih kik in.
+**ZVS:** vantung panin nangmah in za in la, na mi Israel-te' khialhna maisakin amaute leh a pu a pate-te tungah na piak leitangah amaute paipih kik in.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v26
 **EN:** When the heaven is shut up, and there is no rain, because they have sinned against thee; yet if they pray toward this place, and confess thy name, and turn from their sin, when thou dost afflict them;
 
-**TDB77:** “Amaute nangma tungah hong khialhna hangin vantung kikhakcipin guah a zuk loh hun, amaute na gimsak hun ciangin, amaute in hih mun lam nga-in thu ngen a, na min hong phawkin amau’ khialhna panin a kihei uh leh,
+**TDB77:** “Amaute nangma tungah hong khialhna hangin vantung kikhakcipin guah a zuk loh hun, amaute na gimsak hun ciangin, amaute in hih mun lam nga-in thu ngen a, na min hong phawkin amau’ khialhna panin a kihei-te leh,
 
-**ZVS:** “Amaute nangma tungah hong khialhna hangin vantung kikhak cipin guah a zukloh hun, amaute na gimsak hun ciangin, amaute in hih mun lam nga-in thu ngen a, na min hong phawkin amau' khialhna panin a kihei uh leh,
+**ZVS:** “Amaute nangma tungah hong khialhna hangin vantung kikhak cipin guah a zukloh hun, amaute na gimsak hun ciangin, amaute in hih mun lam nga-in thu ngen a, na min hong phawkin amau' khialhna panin a kihei-te leh,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -260,27 +260,27 @@
 ### v29
 **EN:** Then what prayer or what supplication soever shall be made of any man, or of all thy people Israel, when every one shall know his own sore and his own grief, and shall spread forth his hands in this house:
 
-**TDB77:** mi khatpeuh ahi a, na mi Israelte khempeuh in ahi zongin amau’ natna leh a dahna ciat uh thei-in hih inn lamah a khut uh hong zanin bangbang thungetna hi taleh bangbang thuumna hi taleh hong bawl leh;
+**TDB77:** mi khatpeuh ahi a, na mi Israelte khempeuh in ahi zongin amau’ natna leh a dahna ciat-te thei-in hih inn lamah a khut-te hong zanin bangbang thungetna hi taleh bangbang thuumna hi taleh hong bawl leh;
 
-**ZVS:** mi khatpeuh ahi a, na mi Israel-te khempeuh in ahi zongin amau' natna leh a dahna ciat uh thei-in hih biakinn lamah a khut uh hong zanin bangbang thungetna hita leh bangbang thumna hita leh hong bawl uh leh,
+**ZVS:** mi khatpeuh ahi a, na mi Israel-te khempeuh in ahi zongin amau' natna leh a dahna ciat-te thei-in hih biakinn lamah a khut-te hong zanin bangbang thungetna hita leh bangbang thumna hita leh hong bawl-te leh,
 
 **Grammar:** serial verb: -in (and then)
 
 ### v30
 **EN:** Then hear thou from heaven thy dwelling place, and forgive, and render unto every man according unto all his ways, whose heart thou knowest; (for thou only knowest the hearts of the children of men:)
 
-**TDB77:** na teenna mun vantung panin za in la, maisakin,amau’ gamtatna khempeuh tawh kizui-in a lungsim uh na theih bangin amaute tungah pia ciat in (bang hang hiam cih leh nang, nang bek in mihing’ lungsim na thei hi);
+**TDB77:** na teenna mun vantung panin za in la, maisakin,amau’ gamtatna khempeuh tawh kizui-in a lungsim-te na theih bangin amaute tungah pia ciat in (bang hang hiam cih leh nang, nang bek in mihing’ lungsim na thei hi);
 
-**ZVS:** na ten'na mun vantung panin za in la, maisakin, amau' gamtatna khempeuh tawh kizui-in a lungsim uh na theih bangin amaute tungah pia ciat in (bang hang hiam cih leh nang, nang bek in mihing' lungsim na thei hi).
+**ZVS:** na ten'na mun vantung panin za in la, maisakin, amau' gamtatna khempeuh tawh kizui-in a lungsim-te na theih bangin amaute tungah pia ciat in (bang hang hiam cih leh nang, nang bek in mihing' lungsim na thei hi).
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v31
 **EN:** That they may fear thee, to walk in thy ways, so long as they live in the land which thou gavest unto our fathers.
 
-**TDB77:** tua hi leh ka pu ka pate uh tungah na piak leitang tungah a nuntak hun sung khempeuh uh amaute in nang hong zahtakin nangma thu hong zui ding uh hi.
+**TDB77:** tua hi leh ka pu ka pate-te tungah na piak leitang tungah a nuntak hun sung khempeuh-te amaute in nang hong zahtakin nangma thu hong zui ding-te hi.
 
-**ZVS:** Tua hi leh ka pu ka pate uh tungah na piak leitang tungah a nuntak hun sung khempeuh uh amaute in nang hong zahtakin nangma thu hong zui ding uh hi.
+**ZVS:** Tua hi leh ka pu ka pate-te tungah na piak leitang tungah a nuntak hun sung khempeuh-te amaute in nang hong zahtakin nangma thu hong zui ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -296,18 +296,18 @@
 ### v33
 **EN:** Then hear thou from the heavens, even from thy dwelling place, and do according to all that the stranger calleth to thee for; that all people of the earth may know thy name, and fear thee, as doth thy people Israel, and may know that this house which I have built is called by thy name.
 
-**TDB77:** na teenna mun vantung panin za in la, gamdang mipa in na tungah hong ngetna khempeuh tawh kizui-in hih in; tua hi leh nangma mi Israelte mah bangin leitung mi khempeuh in na min thei-in nang hong zahtak ding uh a, keima lamsa hih inn in nangma min tawh a kilo ahihna thei ding uh hi.
+**TDB77:** na teenna mun vantung panin za in la, gamdang mipa in na tungah hong ngetna khempeuh tawh kizui-in hih in; tua hi leh nangma mi Israelte mah bangin leitung mi khempeuh in na min thei-in nang hong zahtak ding-te a, keima lamsa hih inn in nangma min tawh a kilo ahihna thei ding-te hi.
 
-**ZVS:** na ten'na mun vantung panin za in la, gamdang mipa in na tungah hong ngetna khempeuh tawh kizui-in hih in. Tua hi leh nangma mi Israel-te mah bangin leitung mi khempeuh in na min thei-in nang hong zahtak ding uh a, keima lamsa hih biakinn pen nangma min tawh a kilo ahihna thei ding uh hi.
+**ZVS:** na ten'na mun vantung panin za in la, gamdang mipa in na tungah hong ngetna khempeuh tawh kizui-in hih in. Tua hi leh nangma mi Israel-te mah bangin leitung mi khempeuh in na min thei-in nang hong zahtak ding-te a, keima lamsa hih biakinn pen nangma min tawh a kilo ahihna thei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v34
 **EN:** If thy people go out to war against their enemies by the way that thou shalt send them, and they pray unto thee toward this city which thou hast chosen, and the house which I have built for thy name;
 
-**TDB77:** “A galte uh do dingin na mite kuan khia-in, bangbang lamah amaute sawl hita lecin, nangmah in na teelsa hih khuapi lam nangma tung leh nangma min dingin ka lamsa inn lam nga-in amaute in thu hong nget uh leh,
+**TDB77:** “A galte-te do dingin na mite kuan khia-in, bangbang lamah amaute sawl hita lecin, nangmah in na teelsa hih khuapi lam nangma tung leh nangma min dingin ka lamsa inn lam nga-in amaute in thu hong nget-te leh,
 
-**ZVS:** “A galte uh a do dingin na mite kuankhia-in, bangbang lamah amaute sawl hita lecin, nangmah in na teelsa hih khuapi, nangma tung leh nangma min dingin ka lamsa hih biakinn lam nga-in amaute in thu hong nget uh leh,
+**ZVS:** “A galte-te a do dingin na mite kuankhia-in, bangbang lamah amaute sawl hita lecin, nangmah in na teelsa hih khuapi, nangma tung leh nangma min dingin ka lamsa hih biakinn lam nga-in amaute in thu hong nget-te leh,
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
@@ -332,18 +332,18 @@
 ### v37
 **EN:** Yet if they bethink themselves in the land whither they are carried captive, and turn and pray unto thee in the land of their captivity, saying, We have sinned, we have done amiss, and have dealt wickedly;
 
-**TDB77:** ahi zongin galmatin a kipuakna gamah amaute in a lungsim sung uhah tua thu ngaihsunin kisik kik a, ‘Kote khialin lam pialin ka gitloh tat uh hi,’ ci-in amaute galmatin a omna gam panin nang tungah hong thuum a;
+**TDB77:** ahi zongin galmatin a kipuakna gamah amaute in a lungsim sung uhah tua thu ngaihsunin kisik kik a, ‘Kote khialin lam pialin ka gitloh tat-te hi,’ ci-in amaute galmatin a omna gam panin nang tungah hong thuum a;
 
-**ZVS:** ahi zongin galmatin a kipuakna gamah amaute in a lungsim sung uhah tua thu ngaihsunin kisikkik a, ‘Kote khialin lampialin ka gitloh tat uh hi,’ ci-in amaute galmatin a omna uh gam panin nang tungah hong thum a,
+**ZVS:** ahi zongin galmatin a kipuakna gamah amaute in a lungsim sung uhah tua thu ngaihsunin kisikkik a, ‘Kote khialin lampialin ka gitloh tat-te hi,’ ci-in amaute galmatin a omna-te gam panin nang tungah hong thum a,
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v38
 **EN:** If they return to thee with all their heart and with all their soul in the land of their captivity, whither they have carried them captives, and pray toward their land, which thou gavest unto their fathers, and toward the city which thou hast chosen, and toward the house which I have built for thy name:
 
-**TDB77:** amaute galmatin a kitutna, galmatin a omna leitangah a ngaihsutna khempeuh uh leh a lungsim khempeuh uh tawh amaute kisik kikin, na teelsa khuapi leh nangma min dingin ka lamsa inn, nangmah in amau’ pute pate tungah na piak amau’ leitang lam nga-in thu hong nget uh leh,
+**TDB77:** amaute galmatin a kitutna, galmatin a omna leitangah a ngaihsutna khempeuh-te leh a lungsim khempeuh-te tawh amaute kisik kikin, na teelsa khuapi leh nangma min dingin ka lamsa inn, nangmah in amau’ pute pate tungah na piak amau’ leitang lam nga-in thu hong nget-te leh,
 
-**ZVS:** amaute galmatin a kitutna, galmatin a omna uh leitangah a ngaihsutna khempeuh uh leh a lungsim khempeuh uh tawh amaute kisikkikin, na teelsa khuapi leh nangma min dingin ka lamsa biakinn, nangmah in amau' pute pate tungah na piak amau' leitang lam nga-in thu hong nget uh leh,
+**ZVS:** amaute galmatin a kitutna, galmatin a omna-te leitangah a ngaihsutna khempeuh-te leh a lungsim khempeuh-te tawh amaute kisikkikin, na teelsa khuapi leh nangma min dingin ka lamsa biakinn, nangmah in amau' pute pate tungah na piak amau' leitang lam nga-in thu hong nget-te leh,
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 

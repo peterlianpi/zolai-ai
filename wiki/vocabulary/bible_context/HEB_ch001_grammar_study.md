@@ -46,14 +46,14 @@
 ### v4
 **EN:** Being made so much better than the angels, as he hath by inheritance obtained a more excellent name than they.
 
-**TDB77:** Vantungmite a ngah uh min sangin a phazaw min a ngah mah bangin vantungmite sangin a lianzaw mi ahi hi.
+**TDB77:** Vantungmite a ngah-te min sangin a phazaw min a ngah mah bangin vantungmite sangin a lianzaw mi ahi hi.
 
 **ZVS:** Vantung mite' ngah minthan'na sangin Tapa tungah Pasian in a piak min a liatzawk mah bangin vantung mite sangin Tapa lianzaw thampek hi.
 
 ### v5
 **EN:** For unto which of the angels said he at any time, Thou art my Son, this day have I begotten thee? And again, I will be to him a Father, and he shall be to me a Son?
 
-**TDB77:** Bang hang hiam na cih uh leh: “Nang in ka Tapa na hi hi, Tuni-in na Pa ka suak zo hi,” ci-in ahi zongin, “Keimah in ama Pa ka hi ding hi, Amah in zong ka Tapa ahi ding hi,” ci-in ahi zongin a kua vantungmi kiangah khatvei beek thupia ngei ahi hiam?
+**TDB77:** Bang hang hiam na cih-te leh: “Nang in ka Tapa na hi hi, Tuni-in na Pa ka suak zo hi,” ci-in ahi zongin, “Keimah in ama Pa ka hi ding hi, Amah in zong ka Tapa ahi ding hi,” ci-in ahi zongin a kua vantungmi kiangah khatvei beek thupia ngei ahi hiam?
 
 **ZVS:** Bang hang hiam cih leh Pasian in vantung mi khat peuhpeuh tungah, “Ka Tapa na hi hi. Tu ni-in na Pa ka suak hi,” ci ngeilo hi. Tua mah bangin, “Kei, ama Pa ka hi ding a, amah, ka Tapa ahi ding hi,” ci-in zong kam pau ngeilo hi.
 
@@ -62,9 +62,9 @@
 ### v6
 **EN:** And again, when he bringeth in the firstbegotten into the world, he saith, And let all the angels of God worship him.
 
-**TDB77:** Lam khat panin a Tapa upa leitungah a hong sawl ciangin: “Pasian’ vantungmi khempeuh in bokin Amah a bia uh hi,” ci-in a gen hi.
+**TDB77:** Lam khat panin a Tapa upa leitungah a hong sawl ciangin: “Pasian’ vantungmi khempeuh in bokin Amah a bia-te hi,” ci-in a gen hi.
 
-**ZVS:** Tua banah, Pasian in leitungah a Tapa neihsun hong paisak ding ciangin, “Pasian' vantung mi khempeuh in amah bia ding uh hi,” na ci hi.
+**ZVS:** Tua banah, Pasian in leitungah a Tapa neihsun hong paisak ding ciangin, “Pasian' vantung mi khempeuh in amah bia ding-te hi,” na ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -105,7 +105,7 @@
 ### v11
 **EN:** They shall perish; but thou remainest; and they all shall wax old as doth a garment;
 
-**TDB77:** Tuate a kisiat ding uh hangin, Nang na om tawntung ding hi; Tuate puan bangin a tul ding hi.
+**TDB77:** Tuate a kisiat ding-te hangin, Nang na om tawntung ding hi; Tuate puan bangin a tul ding hi.
 
 **ZVS:** Tua nate khempeuh mangthang ding a, nang na hih leh na om paisuak ding hi. Tua nate puan bangin luisuak thei ding a,
 
@@ -114,9 +114,9 @@
 ### v12
 **EN:** And as a vesture shalt thou fold them up, and they shall be changed: but thou art the same, and thy years shall not fail.
 
-**TDB77:** Amaute puan bangin na zial ding hi, Amaute puan bangin a kikheel ding uh hi. Nang na hih leh, na kikheel ngei kei ding hi, Na nuntakna a bei ngei kei ding hi,” a ci hi.
+**TDB77:** Amaute puan bangin na zial ding hi, Amaute puan bangin a kikheel ding-te hi. Nang na hih leh, na kikheel ngei kei ding hi, Na nuntakna a bei ngei kei ding hi,” a ci hi.
 
-**ZVS:** puan khep bangin na khep ding a, tua nate khempeuh kikheelkheel ding uh hi. Ahi zongin nang na kibang tawntung ding a, teek hun cih na nei ngei kei ding hi,” na ci lai hi.
+**ZVS:** puan khep bangin na khep ding a, tua nate khempeuh kikheelkheel ding-te hi. Ahi zongin nang na kibang tawntung ding a, teek hun cih na nei ngei kei ding hi,” na ci lai hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -130,9 +130,9 @@
 ### v14
 **EN:** Are they not all ministering spirits, sent forth to minister for them who shall be heirs of salvation?
 
-**TDB77:** Vantungmite khempeuh in gupkhiatna luah ding mite kem dingun, sawltak nasem khate hilo ahi uh hiam?
+**TDB77:** Vantungmite khempeuh in gupkhiatna luah ding mite kem dingun, sawltak nasem khate hilo ahi-te hiam?
 
-**ZVS:** Vantung mite pen Pasian' na a sem, a kimu theilo khate hi uh a, hotkhiatna a ngahding mite a huh dingin Pasian in a hong sawl ahi hi.
+**ZVS:** Vantung mite pen Pasian' na a sem, a kimu theilo khate hi-te a, hotkhiatna a ngahding mite a huh dingin Pasian in a hong sawl ahi hi.
 
 ---
 

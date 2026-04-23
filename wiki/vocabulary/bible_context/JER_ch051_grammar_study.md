@@ -38,34 +38,34 @@
 ### v2
 **EN:** And will send unto Babylon fanners, that shall fan her, and shall empty her land: for in the day of trouble they shall be against her round about.
 
-**TDB77:** A zap siang ding mi Babilon-ah ka sawl ding a, amaute in tua gam a zapsiang ding uh hi. Gimna ni hong tun’ ciangin amah a sim dingin mun khempeuh panin hong pai ding uh a, gam sungah bangmah a omsak nawn kei ding uh hi.
+**TDB77:** A zap siang ding mi Babilon-ah ka sawl ding a, amaute in tua gam a zapsiang ding-te hi. Gimna ni hong tun’ ciangin amah a sim dingin mun khempeuh panin hong pai ding-te a, gam sungah bangmah a omsak nawn kei ding-te hi.
 
-**ZVS:** A zapsiang ding mi Babylon-ah ka sawl ding a, amaute in tua gam a zapsiang ding uh hi. Gimna ni hong tun' ciangin amah a sim dingin mun khempeuh panin hong pai ding uh a, gamsungah bangmah a omsak nawn kei ding uh hi.
+**ZVS:** A zapsiang ding mi Babylon-ah ka sawl ding a, amaute in tua gam a zapsiang ding-te hi. Gimna ni hong tun' ciangin amah a sim dingin mun khempeuh panin hong pai ding-te a, gamsungah bangmah a omsak nawn kei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | plural: uh marker
 
 ### v3
 **EN:** Against him that bendeth let the archer bend his bow, and against him that lifteth himself up in his brigandine: and spare ye not her young men; destroy ye utterly all her host.
 
-**TDB77:** Thal tawite a thal uh lawnsak man kei un la, sikpuan silhte dingsak man kei un. A tangvalte uh hawi kei un la, a galkap honpi khempeuh uh nuaimang khin un.
+**TDB77:** Thal tawite a thal-te lawnsak man kei un la, sikpuan silhte dingsak man kei un. A tangvalte-te hawi kei un la, a galkap honpi khempeuh-te nuaimang khin un.
 
-**ZVS:** Thaltawite a thal uh lawnsak man kei un la, sik puan silhte dingsak man kei un. A tangvalte uh map kei un la, a galkap honpi khempeuh uh nuaimang khin un.
+**ZVS:** Thaltawite a thal-te lawnsak man kei un la, sik puan silhte dingsak man kei un. A tangvalte-te map kei un la, a galkap honpi khempeuh-te nuaimang khin un.
 
 ### v4
 **EN:** Thus the slain shall fall in the land of the Chaldeans, and they that are thrust through in her streets.
 
-**TDB77:** Khaldea gamah kongzing lakah a liamgawp ding uh a, a si ding uh hi.
+**TDB77:** Khaldea gamah kongzing lakah a liamgawp ding-te a, a si ding-te hi.
 
-**ZVS:** Khaldea gam kongzing lakah liamgawp ding uh a, a si ding uh hi.
+**ZVS:** Khaldea gam kongzing lakah liamgawp ding-te a, a si ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v5
 **EN:** For Israel hath not been forsaken, nor Judah of his God, of the
 
-**TDB77:** Bang hang hiam cih leh Israel leh Judah mite Israel mite’ Siangtho Pa tungah a mawh uh hangin, amaute’ Pasian, a vanglian Topa in taisan nai lo hi.
+**TDB77:** Bang hang hiam cih leh Israel leh Judah mite Israel mite’ Siangtho Pa tungah a mawh-te hangin, amaute’ Pasian, a vanglian Topa in taisan nai lo hi.
 
-**ZVS:** Bang hang hiam cih leh Israel leh Judah mite Israel mite' Siangtho Pa tungah a khialh uh hangin, amaute' Pasian, Vanglian { Topa } in amaute taisan nailo hi.
+**ZVS:** Bang hang hiam cih leh Israel leh Judah mite Israel mite' Siangtho Pa tungah a khialh-te hangin, amaute' Pasian, Vanglian { Topa } in amaute taisan nailo hi.
 
 **Grammar:** negation: lo
 
@@ -81,9 +81,9 @@
 ### v7
 **EN:** Babylon hath been a golden cup in the
 
-**TDB77:** Babilon khuapi in Topa’ khut sunga khamhai tawh kibang a, leitung buppi zu a khamsak hi. Gamdangte in a zu a dawn manun, a hai khin uh hi.
+**TDB77:** Babilon khuapi in Topa’ khut sunga khamhai tawh kibang a, leitung buppi zu a khamsak hi. Gamdangte in a zu a dawn manun, a hai khin-te hi.
 
-**ZVS:** Babylon khuapi, { Topa' } khutsungah a om kham hai tawh kibang a, leitung buppi zu a khamsak hi. Gamdangte in a zu a dawn manun a hai khin uh hi.
+**ZVS:** Babylon khuapi, { Topa' } khutsungah a om kham hai tawh kibang a, leitung buppi zu a khamsak hi. Gamdangte in a zu a dawn manun a hai khin-te hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -101,7 +101,7 @@
 
 **TDB77:** Babilon khua i damsak nop hangin, a dam thei kei hi. Nusia ta un la, i gam ciat zuanin ciah ni. Ama’ tunga thukhenna in vantung dong ban a, van dawn dong a phato hi.
 
-**ZVS:** Ahi zongin midangte in, ‘Babylon khua i damsak nop hangin a damzo ding hi nawnlo hi. Nusia ta un la, i gam ciat zuanin ciah ni. Ama tunga thukhenna in vantung dong ban khinta a, van dawn dong a paito hi,’ a ci uh hi.
+**ZVS:** Ahi zongin midangte in, ‘Babylon khua i damsak nop hangin a damzo ding hi nawnlo hi. Nusia ta un la, i gam ciat zuanin ciah ni. Ama tunga thukhenna in vantung dong ban khinta a, van dawn dong a paito hi,’ a ci-te hi.
 
 **Grammar:** causative: -sak suffix | negation: kei
 
@@ -110,7 +110,7 @@
 
 **TDB77:** Topa in thuman i hihna hong kilangkhia sak zo hi. Hong pai un, Topa i Pasian’ nasepna Zion khua-ah va tangko ni.
 
-**ZVS:** “Keima mite in, ‘{ Topa } in thuman ihihna hong kilang khiasakzo hi. Hong pai un, { Topa } Pasian' nasepna Zion khua-ah va taangko ni,’ a ci uh hi.
+**ZVS:** “Keima mite in, ‘{ Topa } in thuman ihihna hong kilang khiasakzo hi. Hong pai un, { Topa } Pasian' nasepna Zion khua-ah va taangko ni,’ a ci-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -135,18 +135,18 @@
 ### v13
 **EN:** O thou that dwellest upon many waters, abundant in treasures, thine end is come, and the measure of thy covetousness.
 
-**TDB77:** Aw, no tui tamna gei-a teengte, no sum a haute aw, na hun uh bei ta a, na nuntakna khau uh kitat ta hi.
+**TDB77:** Aw, no tui tamna gei-a teengte, no sum a haute aw, na hun-te bei ta a, na nuntakna khau-te kitat ta hi.
 
-**ZVS:** Aw, tui tamna gei-ah a teng mite, sum a hau note aw, na hun uh beita a, na nuntakna khau uh kitat ta hi.
+**ZVS:** Aw, tui tamna gei-ah a teng mite, sum a hau note aw, na hun-te beita a, na nuntakna khau-te kitat ta hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v14
 **EN:** The
 
-**TDB77:** A vanglian Topa in; ‘Kauphe zah a, tam mite kong simsak ding a, Amaute in note hong zo-in a kiko ding uh hi,’ ci-in keima’ min tawh ka kiciam khin zo hi.
+**TDB77:** A vanglian Topa in; ‘Kauphe zah a, tam mite kong simsak ding a, Amaute in note hong zo-in a kiko ding-te hi,’ ci-in keima’ min tawh ka kiciam khin zo hi.
 
-**ZVS:** Vanglian { Topa } in, ‘Kauphe zahin a tam mite kong simsak ding a, amaute in note hong zo-in a kiko ding uh hi,’ ci-in keima min tawh ka kiciam khinzo hi.
+**ZVS:** Vanglian { Topa } in, ‘Kauphe zahin a tam mite kong simsak ding a, amaute in note hong zo-in a kiko ding-te hi,’ ci-in keima min tawh ka kiciam khinzo hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -169,18 +169,18 @@
 ### v17
 **EN:** Every man is brutish by his knowledge; every founder is confounded by the graven image: for his molten image is falsehood, and there is no breath in them.
 
-**TDB77:** Mi khempeuh hai-in pilna nei lo hi khin uh a, kham sekte khempeuh in a milim uh a maizum lawh uh hi. Bang hang hiam cih leh a milim uh zuau hi lel a, nak thei lo hi.
+**TDB77:** Mi khempeuh hai-in pilna nei lo hi khin-te a, kham sekte khempeuh in a milim-te a maizum lawh-te hi. Bang hang hiam cih leh a milim-te zuau hi lel a, nak thei lo hi.
 
-**ZVS:** Mi khempeuh hai-in pilna neilo hi khin uh a, kham seekte khempeuh in a milim uh a maizumlawh uh hi. Bang hang hiam cih leh a milim uh zuau hi lel a, nak theilo hi.
+**ZVS:** Mi khempeuh hai-in pilna neilo hi khin-te a, kham seekte khempeuh in a milim-te a maizumlawh-te hi. Bang hang hiam cih leh a milim-te zuau hi lel a, nak theilo hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | negation: lo | plural: uh marker
 
 ### v18
 **EN:** They are vanity, the work of errors: in the time of their visitation they shall perish.
 
-**TDB77:** Kiman’na nei lo, a haihuaipi hi a, a kidaantah ni ciangin a kisia ding uh hi.
+**TDB77:** Kiman’na nei lo, a haihuaipi hi a, a kidaantah ni ciangin a kisia ding-te hi.
 
-**ZVS:** Kiman'na a neilo, a haihuaipi hi a, gim a kipiak ni ciangin a kisia ding uh hi.
+**ZVS:** Kiman'na a neilo, a haihuaipi hi a, gim a kipiak ni ciangin a kisia ding-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -276,27 +276,27 @@
 ### v30
 **EN:** The mighty men of Babylon have forborn to fight, they have remained in their holds: their might hath failed; they became as women: they have burned her dwellingplaces; her bars are broken.
 
-**TDB77:** Babilon galkapte in a do nawn kei uh a, a phualpi uhah a khawl uh hi. A tha uh om nawn lo a, numei tawh a kibang uh hi. A innte uh kihal sak a, a khua kongpi kalhna siktawnte uh a kitan hi.
+**TDB77:** Babilon galkapte in a do nawn kei-te a, a phualpi uhah a khawl-te hi. A tha-te om nawn lo a, numei tawh a kibang-te hi. A innte-te kihal sak a, a khua kongpi kalhna siktawnte-te a kitan hi.
 
-**ZVS:** Babylon galkapte in do nawnlo uh a, a phualpi uhah a khawl uh hi. A tha uh om nawnlo a, numei tawh a kibang uh hi. A innte uh kihalsak a, a khuakongpi a kikalhna siktawnte a kitan hi.
+**ZVS:** Babylon galkapte in do nawnlo-te a, a phualpi uhah a khawl-te hi. A tha-te om nawnlo a, numei tawh a kibang-te hi. A innte-te kihalsak a, a khuakongpi a kikalhna siktawnte a kitan hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** One post shall run to meet another, and one messenger to meet another, to shew the king of Babylon that his city is taken at one end,
 
-**TDB77:** Babilon kumpipa kiangah, thu ko ding a, hong pai kamtaite, a ciah leh a kuan kiphamat uh a, mun khempeuh panin galte in Babilon khua hong sim-in,
+**TDB77:** Babilon kumpipa kiangah, thu ko ding a, hong pai kamtaite, a ciah leh a kuan kiphamat-te a, mun khempeuh panin galte in Babilon khua hong sim-in,
 
-**ZVS:** Babylon kumpipa kiangah thu a ko dingin a hong pai kamtaite a ciah leh a kuan kiphamat uh a, ‘Mun khempeuh panin galte in Babylon khua hong simin,
+**ZVS:** Babylon kumpipa kiangah thu a ko dingin a hong pai kamtaite a ciah leh a kuan kiphamat-te a, ‘Mun khempeuh panin galte in Babylon khua hong simin,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And that the passages are stopped, and the reeds they have burned with fire, and the men of war are affrighted.
 
-**TDB77:** gun-a ngah mun teng la khin uh a, gal pan’na teng mei tawh kihalin, galkapte a lau mahmah uh hi, a ci uh hi.
+**TDB77:** gun-a ngah mun teng la khin-te a, gal pan’na teng mei tawh kihalin, galkapte a lau mahmah-te hi, a ci-te hi.
 
-**ZVS:** guna ngahmun teng la khinmang uh a, galpan'na teng mei tawh kihalin, galkapte lau mahmah uh hi,’ a ci uh hi.
+**ZVS:** guna ngahmun teng la khinmang-te a, galpan'na teng mei tawh kihalin, galkapte lau mahmah-te hi,’ a ci-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -321,18 +321,18 @@
 ### v35
 **EN:** The violence done to me and to my flesh be upon Babylon, shall the inhabitant of Zion say; and my blood upon the inhabitants of Chaldea, shall Jerusalem say.
 
-**TDB77:** Kei’ tung leh ka mipihte’ tunga hong kibawl ngongtatna Babilon mite tungah tung ta hen, ci-in Zion khua-a teengte ci sak un. Khaldea mite in ka sisan man thuak ta uh hen, ci-in Jerusalem khua cisak un.”
+**TDB77:** Kei’ tung leh ka mipihte’ tunga hong kibawl ngongtatna Babilon mite tungah tung ta hen, ci-in Zion khua-a teengte ci sak un. Khaldea mite in ka sisan man thuak ta-te hen, ci-in Jerusalem khua cisak un.”
 
-**ZVS:** Kei' tung leh ka mipihte tungah hong kibawl ngongtatna Babylon mite tungah tung ta hen, ci-in Zion khua-ah a tengte in gen ta uh hen. Khaldea mite in ka thuakna teng thei ta hen, ci-in Jerusalem khua in gen ta hen.
+**ZVS:** Kei' tung leh ka mipihte tungah hong kibawl ngongtatna Babylon mite tungah tung ta hen, ci-in Zion khua-ah a tengte in gen ta-te hen. Khaldea mite in ka thuakna teng thei ta hen, ci-in Jerusalem khua in gen ta hen.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v36
 **EN:** Therefore thus saith the
 
-**TDB77:** “Tua ahih manin Topa in kong cih-inah: En un, na thu uh kong sepsak ding a, no adingin kong thuk sak ding hi. A bual ka keusak ding a, a ciktui ka kangsak ding hi.
+**TDB77:** “Tua ahih manin Topa in kong cih-inah: En un, na thu-te kong sepsak ding a, no adingin kong thuk sak ding hi. A bual ka keusak ding a, a ciktui ka kangsak ding hi.
 
-**ZVS:** “Tua ahih manin { Topa } in kong cihin-ah: En un, na thu uh ka hong sepsak ding a, note-a' dingin ka hong thuksak ding hi. A bual ka keusak ding a, a ciktui ka kangsak ding hi.
+**ZVS:** “Tua ahih manin { Topa } in kong cihin-ah: En un, na thu-te ka hong sepsak ding a, note-a' dingin ka hong thuksak ding hi. A bual ka keusak ding a, a ciktui ka kangsak ding hi.
 
 **Grammar:** purpose: in order to | future: will | causal: because
 
@@ -348,18 +348,18 @@
 ### v38
 **EN:** They shall roar together like lions: they shall yell as lions' whelps.
 
-**TDB77:** “Babilon mite in humpi bangin a hawk khawm ding uh a, humpino bangin a ciak lualua ding uh hi.
+**TDB77:** “Babilon mite in humpi bangin a hawk khawm ding-te a, humpino bangin a ciak lualua ding-te hi.
 
-**ZVS:** Babylon mite humpinelkai bangin a hawk khawm ding uh a, humpinelkai no bangin a ciak lualua ding uh hi.
+**ZVS:** Babylon mite humpinelkai bangin a hawk khawm ding-te a, humpinelkai no bangin a ciak lualua ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v39
 **EN:** In their heat I will make their feasts, and I will make them drunken, that they may rejoice, and sleep a perpetual sleep, and not wake, saith the
 
-**TDB77:** Ka hehna tawh amaute an ka vak ding a, khua a phawk nawn loh dong uh zu ka khamsak ding hi. A tawntungin a thuum paisuak ding uh a, a khanglo nawn kei ding uh hi, Topa in kong ci hi.
+**TDB77:** Ka hehna tawh amaute an ka vak ding a, khua a phawk nawn loh dong-te zu ka khamsak ding hi. A tawntungin a thuum paisuak ding-te a, a khanglo nawn kei ding-te hi, Topa in kong ci hi.
 
-**ZVS:** A duh mahmah laitakun amaute ka vak ding a, khua a phawk nawnloh dong uh zu ka khamsak ding hi. A tawntungin ihmu paisuak ding uh a, a khanglo nawn kei ding uh hi, { Topa } in kong ci hi.
+**ZVS:** A duh mahmah laitakun amaute ka vak ding a, khua a phawk nawnloh dong-te zu ka khamsak ding hi. A tawntungin ihmu paisuak ding-te a, a khanglo nawn kei ding-te hi, { Topa } in kong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | plural: uh marker
 
@@ -400,9 +400,9 @@
 ### v44
 **EN:** And I will punish Bel in Babylon, and I will bring forth out of his mouth that which he hath swallowed up: and the nations shall not flow together any more unto him: yea, the wall of Babylon shall fall.
 
-**TDB77:** Babilon khuate’ pasian Bel zong ka daantat ding a, a na guksa teng ka lak khiatsak kik ding hi. Gamdangte in amah a bia nuam kei ding uh hi; Babilon khua kulhpi a cim ta hi.
+**TDB77:** Babilon khuate’ pasian Bel zong ka daantat ding a, a na guksa teng ka lak khiatsak kik ding hi. Gamdangte in amah a bia nuam kei ding-te hi; Babilon khua kulhpi a cim ta hi.
 
-**ZVS:** Babylon khuate' pasian Bel zong gim ka pia ding a, a na guksa teng ka lakkhiatsak kik ding hi. Gamdangte in amah bia nuam nawnlo ding uh hi. Babylon khuakulhpi kicim khinta hi.
+**ZVS:** Babylon khuate' pasian Bel zong gim ka pia ding a, a na guksa teng ka lakkhiatsak kik ding hi. Gamdangte in amah bia nuam nawnlo ding-te hi. Babylon khuakulhpi kicim khinta hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -427,18 +427,18 @@
 ### v47
 **EN:** Therefore, behold, the days come, that I will do judgment upon the graven images of Babylon: and her whole land shall be confounded, and all her slain shall fall in the midst of her.
 
-**TDB77:** “Tua ahih manin, en un, Babilon khua-a milimte ka dantah hun hong tung ding hi. A gam buppi ka zumhuaisak ding a, khua sungah kithatin a tuk ding uh hi.
+**TDB77:** “Tua ahih manin, en un, Babilon khua-a milimte ka dantah hun hong tung ding hi. A gam buppi ka zumhuaisak ding a, khua sungah kithatin a tuk ding-te hi.
 
-**ZVS:** Tua ahih manin en un, Babylon khua-a milimte gim ka piak hun hong tung ding hi. A gam buppi ka zumhuaisak ding a, khuasungah kithatin a tuk ding uh hi.
+**ZVS:** Tua ahih manin en un, Babylon khua-a milimte gim ka piak hun hong tung ding hi. A gam buppi ka zumhuaisak ding a, khuasungah kithatin a tuk ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v48
 **EN:** Then the heaven and the earth, and all that is therein, shall sing for Babylon: for the spoilers shall come unto her from the north, saith the
 
-**TDB77:** Tua ciangin vantung teng leh leitung leh, a sunga om nate khempeuh in Babilon’ hangin lungdamin la a sa ding uh hi. Bang hang hiam cih leh leilu lam panin amau a susia ding mi hong pai ding uh hi, Topa in kong ci hi.
+**TDB77:** Tua ciangin vantung teng leh leitung leh, a sunga om nate khempeuh in Babilon’ hangin lungdamin la a sa ding-te hi. Bang hang hiam cih leh leilu lam panin amau a susia ding mi hong pai ding-te hi, Topa in kong ci hi.
 
-**ZVS:** Tua ciangin vantung, leitung, leh a sunga om nate khempeuh in Babylon' hangin lungdamin la a sa ding uh hi. Bang hang hiam cih leh leilu lam panin amaute a susia ding mi hong pai ding uh hi, { Topa } in kong ci hi.
+**ZVS:** Tua ciangin vantung, leitung, leh a sunga om nate khempeuh in Babylon' hangin lungdamin la a sa ding-te hi. Bang hang hiam cih leh leilu lam panin amaute a susia ding mi hong pai ding-te hi, { Topa } in kong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 
@@ -461,18 +461,18 @@
 ### v51
 **EN:** We are confounded, because we have heard reproach: shame hath covered our faces: for strangers are come into the sanctuaries of the
 
-**TDB77:** Note in, ‘Kote in maizumna ka thuak uh a, simmawhna kam ka za khin uh hi. Minsiatna in ka maitang uh hong tuam khin hi; bang hang hiam cih leh Topa’ biakinn siangtho, gamdang mite in a hong lak sak uh hi,’ na ci uh hi.
+**TDB77:** Note in, ‘Kote in maizumna ka thuak-te a, simmawhna kam ka za khin-te hi. Minsiatna in ka maitang-te hong tuam khin hi; bang hang hiam cih leh Topa’ biakinn siangtho, gamdang mite in a hong lak sak-te hi,’ na ci-te hi.
 
-**ZVS:** Note in, ‘Kote in maizumna ka thuak uh a, simmawhna kam ka za khin uh hi. Minsiatna in ka maitang uh hong tuam khin hi. Bang hang hiam cih leh { Topa' } biakinn siangtho gamdang mite in a hong laksak uh hi,’ na ci uh hi.
+**ZVS:** Note in, ‘Kote in maizumna ka thuak-te a, simmawhna kam ka za khin-te hi. Minsiatna in ka maitang-te hong tuam khin hi. Bang hang hiam cih leh { Topa' } biakinn siangtho gamdang mite in a hong laksak-te hi,’ na ci-te hi.
 
 **Grammar:** quotative: said/saying | completed: already done | plural: uh marker
 
 ### v52
 **EN:** Wherefore, behold, the days come, saith the
 
-**TDB77:** “Tua ahih manin, en un, Topa in kong cih-inah, Babilon khua-a a milimte uh’ tungah thu ka khen ni hun hong tung ding a, gam sung khempeuh ah a liamte in a tau ding uh hi.
+**TDB77:** “Tua ahih manin, en un, Topa in kong cih-inah, Babilon khua-a a milimte uh’ tungah thu ka khen ni hun hong tung ding a, gam sung khempeuh ah a liamte in a tau ding-te hi.
 
-**ZVS:** Tua ahih manin en un, { Topa } in kong cihin-ah, Babylon khua-ah a om a milimte uh tungah thu ka khen ni hun hong tung ding a, gamsung khempeuhah a liamte a tau ding uh hi.
+**ZVS:** Tua ahih manin en un, { Topa } in kong cihin-ah, Babylon khua-ah a om a milimte-te tungah thu ka khen ni hun hong tung ding a, gamsung khempeuhah a liamte a tau ding-te hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
@@ -497,27 +497,27 @@
 ### v55
 **EN:** Because the
 
-**TDB77:** Bang hang hiam cih leh Topa in Babilon khua a maimangsak a, a gamlumna zong a daisak hi. Galte in tuihual lum henhan bangin hong lut uh a, awng-in a gamlum henhan uh hi.
+**TDB77:** Bang hang hiam cih leh Topa in Babilon khua a maimangsak a, a gamlumna zong a daisak hi. Galte in tuihual lum henhan bangin hong lut-te a, awng-in a gamlum henhan-te hi.
 
-**ZVS:** Bang hang hiam cih leh { Topa } in Babylon khua maimangsak a, a gamlumna zong a daisak hi. Galte, tuihual lum henhan bangin hong lut uh a, awng gawpin, a gamlum henhan uh hi.
+**ZVS:** Bang hang hiam cih leh { Topa } in Babylon khua maimangsak a, a gamlumna zong a daisak hi. Galte, tuihual lum henhan bangin hong lut-te a, awng gawpin, a gamlum henhan-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v56
 **EN:** Because the spoiler is come upon her, even upon Babylon, and her mighty men are taken, every one of their bows is broken: for the
 
-**TDB77:** Babilon khua a susia ding mi khat hong pai khin zo hi, A galkapte uh kiman khin a, a thalte uh a tum a tel suak khin hi. Bang hang hiam cih leh Topa in a thukkik thei Pasian hi a, a thukkik taktak ding hi.
+**TDB77:** Babilon khua a susia ding mi khat hong pai khin zo hi, A galkapte-te kiman khin a, a thalte-te a tum a tel suak khin hi. Bang hang hiam cih leh Topa in a thukkik thei Pasian hi a, a thukkik taktak ding hi.
 
-**ZVS:** Babylon khua a susia ding mi khat hong pai khinzo hi. A galkapte uh kiman khin a, a thalte uh a tum a tel suak khin hi. Bang hang hiam cih leh { Topa, } a thukkik thei Pasian hi a, a thukkik taktak ding hi.
+**ZVS:** Babylon khua a susia ding mi khat hong pai khinzo hi. A galkapte-te kiman khin a, a thalte-te a tum a tel suak khin hi. Bang hang hiam cih leh { Topa, } a thukkik thei Pasian hi a, a thukkik taktak ding hi.
 
 **Grammar:** completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v57
 **EN:** And I will make drunk her princes, and her wise men, her captains, and her rulers, and her mighty men: and they shall sleep a perpetual sleep, and not wake, saith the King, whose name is the
 
-**TDB77:** A kumpi uliante leh a mipilte uh akipan ukpite, uliante leh galkapte zu ka khamsak ding a, a tawntungin ihmu-in a khanglo nawn kei ding uh hi, ci-in a vanglian Topa a kici Kumpipa in kong gen hi.
+**TDB77:** A kumpi uliante leh a mipilte-te akipan ukpite, uliante leh galkapte zu ka khamsak ding a, a tawntungin ihmu-in a khanglo nawn kei ding-te hi, ci-in a vanglian Topa a kici Kumpipa in kong gen hi.
 
-**ZVS:** A kumpi uliante leh a mipilte uha kipan ukpite, uliante, leh galkapte, zu ka khamsak ding a, a tawntungin ihmu-in a khanglo nawn kei ding uh hi, ci-in Vanglian { Topa } a kici kumpipa in kong gen hi.
+**ZVS:** A kumpi uliante leh a mipilte uha kipan ukpite, uliante, leh galkapte, zu ka khamsak ding a, a tawntungin ihmu-in a khanglo nawn kei ding-te hi, ci-in Vanglian { Topa } a kici kumpipa in kong gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -533,9 +533,9 @@
 ### v59
 **EN:** The word which Jeremiah the prophet commanded Seraiah the son of Neriah, the son of Maaseiah, when he went with Zedekiah the king of Judah into Babylon in the fourth year of his reign. And this Seraiah was a quiet prince.
 
-**TDB77:** Neriah’ tapa, Mahseiah’ tupa, Seraiah in Zedekiah kumpipa’ thuvanpa ahi hi, Kumpipa Zedekiah Judah gamah a maan’ zawh kum li ciangin Seraiah leh kumpipa Babilon-ah a pai uh hi. Tua hun laitakin kamsangpa Jeremiah in Seraiah thu a vaikhak hi,
+**TDB77:** Neriah’ tapa, Mahseiah’ tupa, Seraiah in Zedekiah kumpipa’ thuvanpa ahi hi, Kumpipa Zedekiah Judah gamah a maan’ zawh kum li ciangin Seraiah leh kumpipa Babilon-ah a pai-te hi. Tua hun laitakin kamsangpa Jeremiah in Seraiah thu a vaikhak hi,
 
-**ZVS:** Neriah' tapa, Mahseiah' tupa Seraiah pen Zedekiah kumpipa' thuvanpa ahi hi. Kumpi Zedekiah in Judah gamah a ukzawh kum li ciangin Seraiah leh kumpipa Babylon-ah a pai uh hi. Tua hun laitakin keimah in Seraiah thu ka vaikhak hi.
+**ZVS:** Neriah' tapa, Mahseiah' tupa Seraiah pen Zedekiah kumpipa' thuvanpa ahi hi. Kumpi Zedekiah in Judah gamah a ukzawh kum li ciangin Seraiah leh kumpipa Babylon-ah a pai-te hi. Tua hun laitakin keimah in Seraiah thu ka vaikhak hi.
 
 **Grammar:** plural: uh marker
 

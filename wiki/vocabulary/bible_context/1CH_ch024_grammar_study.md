@@ -23,18 +23,18 @@
 ### v1
 **EN:** Now these are the divisions of the sons of Aaron. The sons of Aaron; Nadab, and Abihu, Eleazar, and Ithamar.
 
-**TDB77:** Aaron’ suante a kisehkhennate in hihte ahi hi. Aaron’ tapate in: Nadab, Abihu, Eleazar, leh Ithamar ahi uh hi.
+**TDB77:** Aaron’ suante a kisehkhennate in hihte ahi hi. Aaron’ tapate in: Nadab, Abihu, Eleazar, leh Ithamar ahi-te hi.
 
-**ZVS:** Aaron' suante a kisehkhennate hih bang ahi hi. Aaron' tapate: Nadab, Abihu, Eleazar, leh Ithamar ahi uh hi.
+**ZVS:** Aaron' suante a kisehkhennate hih bang ahi hi. Aaron' tapate: Nadab, Abihu, Eleazar, leh Ithamar ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** But Nadab and Abihu died before their father, and had no children: therefore Eleazar and Ithamar executed the priest's office.
 
-**TDB77:** Ahih hangin a pa uh sih ma-in Nadab leh Abihu si-in ta nei lo uh ahih manin Eleazar leh Ithamar-te siampi suak uh hi.
+**TDB77:** Ahih hangin a pa-te sih ma-in Nadab leh Abihu si-in ta nei lo-te ahih manin Eleazar leh Ithamar-te siampi suak-te hi.
 
-**ZVS:** Ahih hangin a pa uh a sih ma-in Nadab leh Abihu si-in ta neilo uh ahih manin Eleazar leh Ithamar-te siampi suak uh hi.
+**ZVS:** Ahih hangin a pa-te a sih ma-in Nadab leh Abihu si-in ta neilo-te ahih manin Eleazar leh Ithamar-te siampi suak-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | causal: because | plural: uh marker
 
@@ -52,25 +52,25 @@
 
 **TDB77:** Ithamar’ suante lak sangin Eleazar’ suante lakah ukpi tam om zaw ahih manin, amaute in Eleazar’ suante pawl sawm-le-guk suahin, Ithamar’ suante pawl giat suah hi.
 
-**ZVS:** Ithamar' suante lak sangin Eleazar' suante lakah ukpi tam omzaw ahih manin, amaute in Eleazar' suante pawl sawmleguk suahin, Ithamar' suante pawl giat suah uh hi.
+**ZVS:** Ithamar' suante lak sangin Eleazar' suante lakah ukpi tam omzaw ahih manin, amaute in Eleazar' suante pawl sawmleguk suahin, Ithamar' suante pawl giat suah-te hi.
 
 **Grammar:** causal: because
 
 ### v5
 **EN:** Thus were they divided by lot, one sort with another; for the governors of the sanctuary, and governors of the house of God, were of the sons of Eleazar, and of the sons of Ithamar.
 
-**TDB77:** Eleazar’ suante leh Ithamar’ suante lakah biakinn uliante leh Pasian’ uliante om tuak uh ahih manin amaute in a kibangin aisaanna tawh amaute koih uh hi.
+**TDB77:** Eleazar’ suante leh Ithamar’ suante lakah biakinn uliante leh Pasian’ uliante om tuak-te ahih manin amaute in a kibangin aisaanna tawh amaute koih-te hi.
 
-**ZVS:** Eleazar' suante leh Ithamar' suante lakah biakinn uliante leh Pasian' uliante om tuak uh ahih manin amaute in a kibangin aisanna tawh amaute koih uh hi.
+**ZVS:** Eleazar' suante leh Ithamar' suante lakah biakinn uliante leh Pasian' uliante om tuak-te ahih manin amaute in a kibangin aisanna tawh amaute koih-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And Shemaiah the son of Nethaneel the scribe, one of the Levites, wrote them before the king, and the princes, and Zadok the priest, and Ahimelech the son of Abiathar, and before the chief of the fathers of the priests and Levites: one principal household being taken for Eleazar, and one taken for Ithamar.
 
-**TDB77:** Tua ciangin Levi mi Nethanel’ tapa ahi lai-atpa Shemaiah in Kumpipa, leh uliante, leh siampi Zadok, leh Abiathar’ tapa Ahimelek, leh siampite leh Levi mi beh lutangte’ omna ah amaute ciamteh hi; Eleazar’ suante’ adingin khat kiteelin, tua ciangin Ithamar’ suante adingin khat kiteel a, kilaih sak niloh uh hi.
+**TDB77:** Tua ciangin Levi mi Nethanel’ tapa ahi lai-atpa Shemaiah in Kumpipa, leh uliante, leh siampi Zadok, leh Abiathar’ tapa Ahimelek, leh siampite leh Levi mi beh lutangte’ omna ah amaute ciamteh hi; Eleazar’ suante’ adingin khat kiteelin, tua ciangin Ithamar’ suante adingin khat kiteel a, kilaih sak niloh-te hi.
 
-**ZVS:** Tua ciangin Levi mi Nethanel' tapa ahi lai-atpa Shemaiah in kumpipa, uliante, siampi Zadok, Abiathar' tapa Ahimelek, siampite, leh Levi mi beh lutangte' omna-ah amaute ciamteh hi. Eleazar' suante-a' dingin khat kiteelin, tua ciangin Ithamar' suante-a' dingin khat kiteel a, kilaihsak niloh uh hi.
+**ZVS:** Tua ciangin Levi mi Nethanel' tapa ahi lai-atpa Shemaiah in kumpipa, uliante, siampi Zadok, Abiathar' tapa Ahimelek, siampite, leh Levi mi beh lutangte' omna-ah amaute ciamteh hi. Eleazar' suante-a' dingin khat kiteelin, tua ciangin Ithamar' suante-a' dingin khat kiteel a, kilaihsak niloh-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -155,9 +155,9 @@
 ### v19
 **EN:** These were the orderings of them in their service to come into the house of the
 
-**TDB77:** Hihte in Israel’ Topa Pasian in amah a thupiak bangin a pupi uh Aaron in amaute’ adingin a kipsakna ngeina bangin Topa’ inn sungah pai dingin amau’ nasep uh ahi a kiseh nasep nei uh hi.
+**TDB77:** Hihte in Israel’ Topa Pasian in amah a thupiak bangin a pupi-te Aaron in amaute’ adingin a kipsakna ngeina bangin Topa’ inn sungah pai dingin amau’ nasep-te ahi a kiseh nasep nei-te hi.
 
-**ZVS:** Hihte in Israel { Topa } Pasian in amah a thupiak bangin a pupi uh Aaron in amaute-a' dingin a kipsaksa ngeina bangin { Topa' } biakinn sungah a pai dingin amau' nasep uh ahi a kiseh nasep nei uh hi.
+**ZVS:** Hihte in Israel { Topa } Pasian in amah a thupiak bangin a pupi-te Aaron in amaute-a' dingin a kipsaksa ngeina bangin { Topa' } biakinn sungah a pai dingin amau' nasep-te ahi a kiseh nasep nei-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -229,18 +229,18 @@
 ### v30
 **EN:** The sons also of Mushi; Mahli, and Eder, and Jerimoth. These were the sons of the Levites after the house of their fathers.
 
-**TDB77:** Mushi’ tapate in: Mahli, Eder, leh Jerimoth ahi uh hi. Hihte in a beh tawh kizui-in Levi’ suante ahi uh hi.
+**TDB77:** Mushi’ tapate in: Mahli, Eder, leh Jerimoth ahi-te hi. Hihte in a beh tawh kizui-in Levi’ suante ahi-te hi.
 
-**ZVS:** Mushi' tapate: Mahli, Eder, leh Jerimoth ahi uh hi. Hihte pen a beh tawh kizui-in Levi' suante ahi uh hi.
+**ZVS:** Mushi' tapate: Mahli, Eder, leh Jerimoth ahi-te hi. Hihte pen a beh tawh kizui-in Levi' suante ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** These likewise cast lots over against their brethren the sons of Aaron in the presence of David the king, and Zadok, and Ahimelech, and the chief of the fathers of the priests and Levites, even the principal fathers over against their younger brethren.
 
-**TDB77:** Hihte in zong a behte uh ahi Aaron’ suante mah bangin kumpi David, Zadok, Ahimelek, leh siampite leh Levi mi beh lutangte’ muhna ah beh lutangte leh a nau pasalte ciat in a kibangin ai saanna tawh nasepna tavuan la uh hi.
+**TDB77:** Hihte in zong a behte-te ahi Aaron’ suante mah bangin kumpi David, Zadok, Ahimelek, leh siampite leh Levi mi beh lutangte’ muhna ah beh lutangte leh a nau pasalte ciat in a kibangin ai saanna tawh nasepna tavuan la-te hi.
 
-**ZVS:** Hihte in zong a behte uh ahi Aaron' suante mah bangin Kumpi David, Zadok, Ahimelek, siampite, leh Levi mi beh lutangte' muhna-ah beh lutangte leh a nau pasalte khat ciat in a kibangin aisanna tawh nasep tavuan a la uh hi.
+**ZVS:** Hihte in zong a behte-te ahi Aaron' suante mah bangin Kumpi David, Zadok, Ahimelek, siampite, leh Levi mi beh lutangte' muhna-ah beh lutangte leh a nau pasalte khat ciat in a kibangin aisanna tawh nasep tavuan a la-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

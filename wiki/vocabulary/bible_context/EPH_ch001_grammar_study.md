@@ -111,9 +111,9 @@
 ### v13
 **EN:** In whom ye also trusted, after that ye heard the word of truth, the gospel of your salvation: in whom also after that ye believed, ye were sealed with that holy Spirit of promise,
 
-**TDB77:** Note in zong note hong gupna thu tawh kipawl Lungdamna Thu ahi thuman thutak ngai-in, tua Khazih na up khit uh ciangin thuciamna tawh kipawl Kha Siangtho-a ciamtehna na ngah zo uh hi.
+**TDB77:** Note in zong note hong gupna thu tawh kipawl Lungdamna Thu ahi thuman thutak ngai-in, tua Khazih na up khit-te ciangin thuciamna tawh kipawl Kha Siangtho-a ciamtehna na ngah zo-te hi.
 
-**ZVS:** Note in zong hotkhiatna a hong ngahsakthei Lungdamna Thu a man za-in Khrih na up uh ciangin, Pasian in a hong ciamsa bangin ama mi na hihna uh a kilatna dingin note tungah Kha Siangtho hong piakna tawh a hong ciamteh hi.
+**ZVS:** Note in zong hotkhiatna a hong ngahsakthei Lungdamna Thu a man za-in Khrih na up-te ciangin, Pasian in a hong ciamsa bangin ama mi na hihna-te a kilatna dingin note tungah Kha Siangtho hong piakna tawh a hong ciamteh hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -129,9 +129,9 @@
 ### v15
 **EN:** Wherefore I also, after I heard of your faith in the Lord Jesus, and love unto all the saints,
 
-**TDB77:** Tua ahih ciangin note in Topa Zeisu upna leh misiangtho khempeuhte na itna uh thu ka theih khit ciangin,
+**TDB77:** Tua ahih ciangin note in Topa Zeisu upna leh misiangtho khempeuhte na itna-te thu ka theih khit ciangin,
 
-**ZVS:** Note in Topa Jesuh na muan'na thu uh leh thu umte khempeuh na itna thu uh ka zak huna kipanin,
+**ZVS:** Note in Topa Jesuh na muan'na thu-te leh thu umte khempeuh na itna thu-te ka zak huna kipanin,
 
 **Grammar:** sequence: then/therefore
 
@@ -161,7 +161,7 @@
 ### v19
 **EN:** And what is the exceeding greatness of his power to us-ward who believe, according to the working of his mighty power,
 
-**TDB77:** eite tungah hong bawlpha a lian mahmah vangliatna bangzaha lian ahi zongin note in na theih nadingun, na pilna mittang uh a vak nadingin thu ka ngen hi.
+**TDB77:** eite tungah hong bawlpha a lian mahmah vangliatna bangzaha lian ahi zongin note in na theih nadingun, na pilna mittang-te a vak nadingin thu ka ngen hi.
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | plural: uh marker
 

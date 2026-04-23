@@ -24,31 +24,31 @@
 
 ### uh hi = they are
 **Context:** Plural copula/marker indicating the preceding list constitutes the subject.
-**Example:** Hanan ahi uh hi
+**Example:** Hanan ahi-te hi
 
 ### Tu-in = Now/At this time
 **Context:** Transitional phrase introducing a new section or time frame (Chapter 10).
-**Example:** Tu-in Filistiate in Israel mite sim uh hi
+**Example:** Tu-in Filistiate in Israel mite sim-te hi
 
 ### sim = fight/war against
 **Context:** Used transitively to describe military action against a group.
-**Example:** Filistiate in Israel mite sim uh hi
+**Example:** Filistiate in Israel mite sim-te hi
 
 ### tai = flee/run away
 **Context:** Used to describe retreat from battle.
-**Example:** Israel mite tai uh a
+**Example:** Israel mite tai-te a
 
 ### tuk = fall (down)
 **Context:** Used specifically for falling down slain in battle.
-**Example:** Gilboa Mual tungah tuk zeizai uh hi
+**Example:** Gilboa Mual tungah tuk zeizai-te hi
 
 ### pha = reach/overtake/pursue hard
 **Context:** Used to describe the intensity of the pursuit by the Philistines.
-**Example:** Filistia mite in Saul leh a tapate pha uh hi
+**Example:** Filistia mite in Saul leh a tapate pha-te hi
 
 ### that = kill
 **Context:** Direct verb for slaying the individuals.
-**Example:** Jonathan leh Abinadab leh Malkhishua that uh hi
+**Example:** Jonathan leh Abinadab leh Malkhishua that-te hi
 
 ### gal kidona = battle/warfare
 **Context:** Refers to the state or progress of the fighting.
@@ -84,7 +84,7 @@
 
 ### khel bawl = abuse/treat shamefully
 **Context:** The fate Saul feared if captured.
-**Example:** kei hong khel bawl kha ding uh hi
+**Example:** kei hong khel bawl kha ding-te hi
 
 ### lau = fear/be afraid
 **Context:** Describing the armourbearer's reaction.
@@ -96,7 +96,7 @@
 
 ### sikhawm = die together
 **Context:** Indicates simultaneous death.
-**Example:** si khawm uh hi
+**Example:** si khawm-te hi
 
 ### kuam sung = valley (literally 'hollow place')
 **Context:** Geographical location where the Israelite army was situated.
@@ -104,7 +104,7 @@
 
 ### khuapi = fortified place/city/stronghold
 **Context:** The towns/cities held by the Israelites.
-**Example:** a khuapite uh nusia-in tai uh hi
+**Example:** a khuapite-te nusia-in tai-te hi
 
 ### kithatte = slain ones/dead bodies
 **Context:** Refers to the corpses of the fallen soldiers.
@@ -116,11 +116,11 @@
 
 ### galhiam = weapon/armor
 **Context:** Refers to Saul's military equipment.
-**Example:** a galhiam la uh a
+**Example:** a galhiam la-te a
 
 ### kamtai = messenger/herald
 **Context:** Those sent out to spread the news.
-**Example:** kamtaite sawl uh hi
+**Example:** kamtaite sawl-te hi
 
 ### biakinn = temple/house of worship
 **Context:** The structure dedicated to an idol.
@@ -128,7 +128,7 @@
 
 ### suang = fasten/fix/nail up
 **Context:** Used for affixing Saul's head to the idol's temple.
-**Example:** Dagon biakinn sungah ama lutang suang uh hi
+**Example:** Dagon biakinn sungah ama lutang suang-te hi
 
 ### hizsa = deed done/what was done
 **Context:** Referring to the actions the Philistines took against Saul.
@@ -148,7 +148,7 @@
 
 ### tang = fast/abstain from food
 **Context:** The act of mourning by fasting.
-**Example:** ni sagih sung an tang uh hi
+**Example:** ni sagih sung an tang-te hi
 
 ## Phrases & Usage
 
@@ -173,13 +173,13 @@
   - Standard Zolai structure for establishing paternity/lineage: X is Y's father. The possessive marker ('s) is often represented by the apostrophe in transliteration (' pa).
   - Example: Jarah in Alemeth... Zimri’ pa ahi hi
 
-- **Azel in tapa guk nei a, ... ahi uh hi**
+- **Azel in tapa guk nei a, ... ahi-te hi**
   - Structure for listing descendants: Subject (Azel) + verb 'nei' (has) + object (six sons), followed by a concluding statement identifying them as the sons of the subject ('these were the sons of Azel').
-  - Example: Azel in tapa guk nei a, ... ahi uh hi
+  - Example: Azel in tapa guk nei a, ... ahi-te hi
 
-- **X leh Y that uh hi**
+- **X leh Y that-te hi**
   - Simple past tense structure for killing multiple people: X and Y they killed. 'uh' marks the plural subject/action.
-  - Example: Jonathan leh Abinadab leh Malkhishua that uh hi
+  - Example: Jonathan leh Abinadab leh Malkhishua that-te hi
 
 - **Tua ciangin X in Y a Z ci hi**
   - Narrative sequence marker: 'Then/After that, X did Z to Y.' Used frequently for sequential actions in narrative.

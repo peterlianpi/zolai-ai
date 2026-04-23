@@ -41,9 +41,9 @@
 ### v3
 **EN:** Thy wife shall be as a fruitful vine by the sides of thine house: thy children like olive plants round about thy table.
 
-**TDB77:** Nangma inn sungah na zi in a gah pha mahmah leenggui tawh kibang ding a, na sabuai kim-ah na tate in oliv-no dawng hilhhelh tawh kibang ding uh hi.
+**TDB77:** Nangma inn sungah na zi in a gah pha mahmah leenggui tawh kibang ding a, na sabuai kim-ah na tate in oliv-no dawng hilhhelh tawh kibang ding-te hi.
 
-**ZVS:** Nangma inn sungah na zi, a gah pha mahmah leenggui tawh kibang ding a, na sabuai kiimah a tu na tate, oliv no dawng hilhhelh tawh kibang ding uh hi.
+**ZVS:** Nangma inn sungah na zi, a gah pha mahmah leenggui tawh kibang ding a, na sabuai kiimah a tu na tate, oliv no dawng hilhhelh tawh kibang ding-te hi.
 
 **Grammar:** intensifier: very/greatly | future: will | reciprocal: ki- prefix | plural: uh marker
 

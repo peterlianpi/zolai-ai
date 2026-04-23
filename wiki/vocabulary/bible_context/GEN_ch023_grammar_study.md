@@ -63,9 +63,9 @@
 ### v6
 **EN:** Hear us, my lord: thou art a mighty prince among us: in the choice of our sepulchres bury thy dead; none of us shall withhold from thee his sepulchre, but that thou mayest bury thy dead.
 
-**TDB77:** “Topa aw, kote’ thu hong ngai in; nang in kote’ lakah a vanglian ulian khat na hi hi. Kote’ han na deih pen munah na zi vui in; kote kuamah in nang’ adingin a han it lo ding a, na zi vui ding hong khaktan lo ding hi,” ci uh hi.
+**TDB77:** “Topa aw, kote’ thu hong ngai in; nang in kote’ lakah a vanglian ulian khat na hi hi. Kote’ han na deih pen munah na zi vui in; kote kuamah in nang’ adingin a han it lo ding a, na zi vui ding hong khaktan lo ding hi,” ci-te hi.
 
-**ZVS:** “Topa aw, kote' thu hong ngai in. Nang pen kote' lakah a vanglian ulian khat na hi hi. Kote' han na deih pen munah na zi vui in. Kote kuamah in nang-a' dingin a han itlo ding a, na zi vui ding hong khaktanlo ding hi,” a ci uh hi.
+**ZVS:** “Topa aw, kote' thu hong ngai in. Nang pen kote' lakah a vanglian ulian khat na hi hi. Kote' han na deih pen munah na zi vui in. Kote kuamah in nang-a' dingin a han itlo ding a, na zi vui ding hong khaktanlo ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | plural: uh marker
 
@@ -81,9 +81,9 @@
 ### v8
 **EN:** And he communed with them, saying, If it be your mind that I should bury my dead out of my sight; hear me, and entreat for me to Ephron the son of Zohar,
 
-**TDB77:** Amah in amaute' kiangah, “Hih gamah ka zi ka vui ding nong deih uh leh, ka thu hong ngai un, Zohar, tapa Efron in
+**TDB77:** Amah in amaute' kiangah, “Hih gamah ka zi ka vui ding nong deih-te leh, ka thu hong ngai un, Zohar, tapa Efron in
 
-**ZVS:** Amah in amaute' kiangah, “Hih gamah ka zi ka vui ding nong deih uh leh, ka thu hong ngai un. Zohar' tapa Efron in
+**ZVS:** Amah in amaute' kiangah, “Hih gamah ka zi ka vui ding nong deih-te leh, ka thu hong ngai un. Zohar' tapa Efron in
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -185,9 +185,9 @@
 ### v20
 **EN:** And the field, and the cave that is therein, were made sure unto Abraham for a possession of a buryingplace by the sons of Heth.
 
-**TDB77:** Lo leh a sunga om leihawmte si vui nading munin neih dingin Abraham tungah Hit mite in pia uh hi.
+**TDB77:** Lo leh a sunga om leihawmte si vui nading munin neih dingin Abraham tungah Hit mite in pia-te hi.
 
-**ZVS:** Lo leh a sunga om leihawmte si vuina ding munin a neih dingin Abraham' tungah Hit mite in a pia uh hi.
+**ZVS:** Lo leh a sunga om leihawmte si vuina ding munin a neih dingin Abraham' tungah Hit mite in a pia-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

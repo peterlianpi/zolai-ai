@@ -49,9 +49,9 @@
 ### v4
 **EN:** Thus saith the
 
-**TDB77:** ‘Topa in hih bangin ci hi: ‘Note na kuanto kei ding uh a, na mipihte uh na do kei ding uh hi. Mi khempeuh na inn uhah ciahkik un; bang hang hiam cih leh hih thu in keima kiang pan ahi hi,’ ci-in gen in,” a ci hi. Tua ahih ciangin amaute in Topa’ thu ngai-in ciahkik uh a, Jeroboam a do dingin kuan lo uh hi.
+**TDB77:** ‘Topa in hih bangin ci hi: ‘Note na kuanto kei ding-te a, na mipihte-te na do kei ding-te hi. Mi khempeuh na inn uhah ciahkik un; bang hang hiam cih leh hih thu in keima kiang pan ahi hi,’ ci-in gen in,” a ci hi. Tua ahih ciangin amaute in Topa’ thu ngai-in ciahkik-te a, Jeroboam a do dingin kuan lo-te hi.
 
-**ZVS:** ‘{ Topa } in hih bangin ci hi: “Note na kuanto kei ding uh a, na mipihte uh na sim kei ding uh hi. Mi khempeuh na inn uhah ciahkik un; bang hang hiam cih leh hih thu pen keima kiang pan hong pai ahi hi,” ci-in gen in,’” a ci hi. Tua ahih ciangin amaute in { Topa' } thu ngai-in ciahkik uh a, Jeroboam a sim dingin kuanlo uh hi.
+**ZVS:** ‘{ Topa } in hih bangin ci hi: “Note na kuanto kei ding-te a, na mipihte-te na sim kei ding-te hi. Mi khempeuh na inn uhah ciahkik un; bang hang hiam cih leh hih thu pen keima kiang pan hong pai ahi hi,” ci-in gen in,’” a ci hi. Tua ahih ciangin amaute in { Topa' } thu ngai-in ciahkik-te a, Jeroboam a sim dingin kuanlo-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -114,34 +114,34 @@
 ### v13
 **EN:** And the priests and the Levites that were in all Israel resorted to him out of all their coasts.
 
-**TDB77:** Tua ciangin Israel tungah a om siampite leh Levi mite khempeuh in amau’ teenna mun khempeuh panin amah beel uh hi.
+**TDB77:** Tua ciangin Israel tungah a om siampite leh Levi mite khempeuh in amau’ teenna mun khempeuh panin amah beel-te hi.
 
-**ZVS:** Tua ciangin Israel sungah a om siampite leh Levi mite khempeuh in amau' ten'na mun khempeuh panin amah hong beel uh hi.
+**ZVS:** Tua ciangin Israel sungah a om siampite leh Levi mite khempeuh in amau' ten'na mun khempeuh panin amah hong beel-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v15
 **EN:** And he ordained him priests for the high places, and for the devils, and for the calves which he had made.
 
-**TDB77:** Bang hang hiam cih leh Jeroboam leh a tapate in { Topa' } siampi a sepna panun amaute hawlkhia-in, mual dawna biakpiakna munte, dawi gilote, leh ama bawlsa bawngno milimte-a' dingin ama siampi tuam teel ahih manin Levi mite in amau' taang gam leh amau' neihsate nusia-in Judah leh Jerusalem-ah hong pai uh hi.
+**TDB77:** Bang hang hiam cih leh Jeroboam leh a tapate in { Topa' } siampi a sepna panun amaute hawlkhia-in, mual dawna biakpiakna munte, dawi gilote, leh ama bawlsa bawngno milimte-a' dingin ama siampi tuam teel ahih manin Levi mite in amau' taang gam leh amau' neihsate nusia-in Judah leh Jerusalem-ah hong pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | causal: because | plural: uh marker
 
 ### v16
 **EN:** And after them out of all the tribes of Israel such as set their hearts to seek the
 
-**TDB77:** Tua ciangin Israel’ Topa Pasian zon’ ding a lungsim uhah a khentat khin mite in amau’ pute pate Pasian, Topa tungah biakna pia dingin Israel minam khempeuh sung panin amau’ nung zui-in Jerusalem ah hong pai uh hi.
+**TDB77:** Tua ciangin Israel’ Topa Pasian zon’ ding a lungsim uhah a khentat khin mite in amau’ pute pate Pasian, Topa tungah biakna pia dingin Israel minam khempeuh sung panin amau’ nung zui-in Jerusalem ah hong pai-te hi.
 
-**ZVS:** Tua ciangin Israel { Topa } Pasian zon' ding a lungsim uhah a khentat khin mite in amau' pute pate' Pasian, { Topa } tungah biakna a pia dingin Israel minam khempeuh sung panin amau' nung zui-in Jerusalem-ah hong pai uh hi.
+**ZVS:** Tua ciangin Israel { Topa } Pasian zon' ding a lungsim uhah a khentat khin mite in amau' pute pate' Pasian, { Topa } tungah biakna a pia dingin Israel minam khempeuh sung panin amau' nung zui-in Jerusalem-ah hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v17
 **EN:** So they strengthened the kingdom of Judah, and made Rehoboam the son of Solomon strong, three years: for three years they walked in the way of David and Solomon.
 
-**TDB77:** Amaute in Judah kumpi gam thakhauh sak uh a, amaute in Solomon’ tapa Rehoboam lungmuangin kum thum sung koih uh hi; bang hang hiam cih leh kum thum sung David leh Solomon’ thu zui-in amaute gamta uh hi.
+**TDB77:** Amaute in Judah kumpi gam thakhauh sak-te a, amaute in Solomon’ tapa Rehoboam lungmuangin kum thum sung koih-te hi; bang hang hiam cih leh kum thum sung David leh Solomon’ thu zui-in amaute gamta-te hi.
 
-**ZVS:** Amaute in Judah kumpi gam thakhauhsak uh a, amaute in Solomon' tapa Rehoboam lungmuangin kum thum sung koih uh hi; bang hang hiam cih leh David leh Solomon' thu a zuih bangun kum thum sung ama thu a mang uh hi.
+**ZVS:** Amaute in Judah kumpi gam thakhauhsak-te a, amaute in Solomon' tapa Rehoboam lungmuangin kum thum sung koih-te hi; bang hang hiam cih leh David leh Solomon' thu a zuih bangun kum thum sung ama thu a mang-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

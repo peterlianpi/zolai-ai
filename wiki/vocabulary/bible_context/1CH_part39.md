@@ -48,7 +48,7 @@
 
 ### harp lasaknate = playing of harps
 **Context:** One of the musical activities assigned to the Levites.
-**Example:** harp lasaknate leh laiza lasaknate a tum dingte ahi uh hi;
+**Example:** harp lasaknate leh laiza lasaknate a tum dingte ahi-te hi;
 
 ### daltuahte = cymbals
 **Context:** The instrument Asaf was specifically designated to play.
@@ -56,7 +56,7 @@
 
 ### peengkulte = trumpets
 **Context:** The instrument the priests Benaiah and Jahaziel were to play before the Ark.
-**Example:** Pasian’ Thuciamna Singkuang mai-ah peengkulte a tum paisuak ding uh ahi hi.
+**Example:** Pasian’ Thuciamna Singkuang mai-ah peengkulte a tum paisuak ding-te ahi hi.
 
 ### lungdamkohna la = song of thanksgiving
 **Context:** The type of song David instructed Asaf and the Levites to sing first.

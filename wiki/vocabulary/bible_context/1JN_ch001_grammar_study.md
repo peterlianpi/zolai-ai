@@ -22,45 +22,45 @@
 ### v1
 **EN:** That which was from the beginning, which we have heard, which we have seen with our eyes, which we have looked upon, and our hands have handled, of the Word of life;
 
-**TDB77:** A cil panin piang a, komau in za-in, ka mittang uh tawh mu-in, a tel takpi enin, ka khut uh tawh ka lawn’ khitsa uh nuntakna Thu tawh kipawl thute, note kiangah kong zasak uh hi.
+**TDB77:** A cil panin piang a, komau in za-in, ka mittang-te tawh mu-in, a tel takpi enin, ka khut-te tawh ka lawn’ khitsa-te nuntakna Thu tawh kipawl thute, note kiangah kong zasak-te hi.
 
-**ZVS:** Leitung pian'cil lai peka kipanin a omsa ahi nuntakna a piathei Thu tawh kisai, note kiangah ka hong gelh uh hi. Kote mahmah in ama thugen ka za uh a, ka mit mahmah uh tawh amah mu-in, limtakin ka ettel uh hi a, ka khut mahmah uh tawh ka lawn' uh ahi hi.
+**ZVS:** Leitung pian'cil lai peka kipanin a omsa ahi nuntakna a piathei Thu tawh kisai, note kiangah ka hong gelh-te hi. Kote mahmah in ama thugen ka za-te a, ka mit mahmah-te tawh amah mu-in, limtakin ka ettel-te hi a, ka khut mahmah-te tawh ka lawn' uh ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** (For the life was manifested, and we have seen it, and bear witness, and shew unto you that eternal life, which was with the Father, and was manifested unto us;)
 
-**TDB77:** Tua nuntakna hong kilang zo a, kote in zong ka mu zo uh a, Pa tawh omkhawm ngei-in, kote kiangah hong kilangsa tua nuntak tawntungna thu, note kiangah teci pangin kong hilh uh hi.
+**TDB77:** Tua nuntakna hong kilang zo a, kote in zong ka mu zo-te a, Pa tawh omkhawm ngei-in, kote kiangah hong kilangsa tua nuntak tawntungna thu, note kiangah teci pangin kong hilh-te hi.
 
-**ZVS:** Hih nuntakna pen a kimuthei a hong suah ciangin kote mahmah in ka mu uh hi. Tua ahih manin kote tungah a hong kilak, Pa Pasian tawh a omkhawm tua nuntak tawntungna pen genbelin nei-in, note tungah zong a hong gen ka hi uh hi.
+**ZVS:** Hih nuntakna pen a kimuthei a hong suah ciangin kote mahmah in ka mu-te hi. Tua ahih manin kote tungah a hong kilak, Pa Pasian tawh a omkhawm tua nuntak tawntungna pen genbelin nei-in, note tungah zong a hong gen ka hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** That which we have seen and heard declare we unto you, that ye also may have fellowship with us: and truly our fellowship is with the Father, and with his Son Jesus Christ.
 
-**TDB77:** Ahi hi. Pa tawh, ama Tapa Zeisu Khazih tawh ka kihopih uh ahih ciangin, note in kote tawh na hong kihopih theih nadingun ko ka muh uh nate, ka zak uh nate, note kiangah ka hong lak uh hi.
+**TDB77:** Ahi hi. Pa tawh, ama Tapa Zeisu Khazih tawh ka kihopih-te ahih ciangin, note in kote tawh na hong kihopih theih nadingun ko ka muh-te nate, ka zak-te nate, note kiangah ka hong lak-te hi.
 
-**ZVS:** Pa Pasian leh a Tapa Jesuh Khrih tawh kote pawlkhatin ka om uh mah bangin note zong kote tawh pawlkhat nong suahtheihna ding uh deihna-in ka muhsa uh leh ka zaksa uh thute a hong gen ka hi uh hi.
+**ZVS:** Pa Pasian leh a Tapa Jesuh Khrih tawh kote pawlkhatin ka om-te mah bangin note zong kote tawh pawlkhat nong suahtheihna ding-te deihna-in ka muhsa-te leh ka zaksa-te thute a hong gen ka hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And these things write we unto you, that your joy may be full.
 
-**TDB77:** Note lungdamna a kicin’ nadingin hih thute ka hong gelh uh hi.
+**TDB77:** Note lungdamna a kicin’ nadingin hih thute ka hong gelh-te hi.
 
-**ZVS:** Kote' lungdamna a cingtaak theihna dingin hih lai a hong gelh ka hi uh hi.
+**ZVS:** Kote' lungdamna a cingtaak theihna dingin hih lai a hong gelh ka hi-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
 
-**TDB77:** Ama kiangah ko ka zak uh a, note kiangah kong hilh uh thu in: Pasian in khuavak hi a, ama sungah khuamial a om peuhmah kei hi.
+**TDB77:** Ama kiangah ko ka zak-te a, note kiangah kong hilh-te thu in: Pasian in khuavak hi a, ama sungah khuamial a om peuhmah kei hi.
 
-**ZVS:** Ama kiang panin za-in note tungah ka hong gen uh thu in: Pasian, khuavak hi a, khuamial tawh kizopna themkhat zong nei hetlo hi.
+**ZVS:** Ama kiang panin za-in note tungah ka hong gen-te thu in: Pasian, khuavak hi a, khuamial tawh kizopna themkhat zong nei hetlo hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 

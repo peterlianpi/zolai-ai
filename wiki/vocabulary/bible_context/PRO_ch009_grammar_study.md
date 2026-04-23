@@ -82,7 +82,7 @@
 
 **TDB77:** Mihaite thuhilh kei in, hong mudah ding hi. Mipilte thuhilh in, hong it ding hi.
 
-**ZVS:** Mihaite thuhilh kei in; hong mudah ding uh hi. Mipilte thuhilh in; hong it ding uh hi.
+**ZVS:** Mihaite thuhilh kei in; hong mudah ding-te hi. Mipilte thuhilh in; hong it ding-te hi.
 
 **Grammar:** future: will
 
@@ -91,7 +91,7 @@
 
 **TDB77:** Mipilte thuhilh lecin pil semsemna-in nei ding a, thuman mite thuhilh lecin a thu theihna khang semsem ding hi.
 
-**ZVS:** Mipilte thuhilh lecin pil semsemna-in nei ding a, thuman mite thuhilh lecin a thutheihna uh khang semsem ding hi.
+**ZVS:** Mipilte thuhilh lecin pil semsemna-in nei ding a, thuman mite thuhilh lecin a thutheihna-te khang semsem ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
@@ -164,9 +164,9 @@
 ### v18
 **EN:** But he knoweth not that the dead are there; and that her guests are in the depths of hell.
 
-**TDB77:** Tua lai-a a paite a sihna thu, tua lai-a lutsate sihna gamthuk sungah a om khitna thu, a khem zawh mite in phawk kha lo uh hi.
+**TDB77:** Tua lai-a a paite a sihna thu, tua lai-a lutsate sihna gamthuk sungah a om khitna thu, a khem zawh mite in phawk kha lo-te hi.
 
-**ZVS:** Tua lai-ah a paite a sihna thu tua lai-ah a lutsate sihna gam thuk sungah a om khitna thu, a khemzawh mite in phawkkhalo uh hi.
+**ZVS:** Tua lai-ah a paite a sihna thu tua lai-ah a lutsate sihna gam thuk sungah a om khitna thu, a khemzawh mite in phawkkhalo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

@@ -36,9 +36,9 @@
 ### v3
 **EN:** Yea also, when he that is a fool walketh by the way, his wisdom faileth him, and he saith to every one that he is a fool.
 
-**TDB77:** Mihaite, lampi-ah a pai kawm nangawnin haitat uh a, a haina uh mi khempeuh theisak uh hi.
+**TDB77:** Mihaite, lampi-ah a pai kawm nangawnin haitat-te a, a haina-te mi khempeuh theisak-te hi.
 
-**ZVS:** Mihaite lampi-ah a paikawm nangawnin hai tat uh a, a haina uh mi khempeuh theisak uh hi.
+**ZVS:** Mihaite lampi-ah a paikawm nangawnin hai tat-te a, a haina-te mi khempeuh theisak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -68,9 +68,9 @@
 ### v7
 **EN:** I have seen servants upon horses, and princes walking as servants upon the earth.
 
-**TDB77:** Sakol tungah silate tuang a, miliante sila bangin a khe-un pai uh hi.
+**TDB77:** Sakol tungah silate tuang a, miliante sila bangin a khe-un pai-te hi.
 
-**ZVS:** Sakol tungah silate tuang a, miliante, sila bangin a khe-un pai uh hi.
+**ZVS:** Sakol tungah silate tuang a, miliante, sila bangin a khe-un pai-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -120,27 +120,27 @@
 ### v13
 **EN:** The beginning of the words of his mouth is foolishness: and the end of his talk is mischievous madness.
 
-**TDB77:** Thugen a kipatun bang tum lo tawh kipan pah malam uh a, gitloh hai vai teng tawh thugen khup lel uh hi.
+**TDB77:** Thugen a kipatun bang tum lo tawh kipan pah malam-te a, gitloh hai vai teng tawh thugen khup lel-te hi.
 
-**ZVS:** Thugen a kipat ciangun bangtumlo teng tawh kipan pah ma-lam uh a, gitloh vai teng tawh a thugen a khum lel uh hi.
+**ZVS:** Thugen a kipat ciangun bangtumlo teng tawh kipan pah ma-lam-te a, gitloh vai teng tawh a thugen a khum lel-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** A fool also is full of words: a man cannot tell what shall be; and what shall be after him, who can tell him?
 
-**TDB77:** Mihaite in thu gengenin ciakciak uh hi. Mai lam-a thupiang ding kuamah in thei lo a, i sih khit-a thupiang ding hong gen thei om lo hi.
+**TDB77:** Mihaite in thu gengenin ciakciak-te hi. Mai lam-a thupiang ding kuamah in thei lo a, i sih khit-a thupiang ding hong gen thei om lo hi.
 
-**ZVS:** Mihaite in thu gengenin ciakciak uh hi. Mailam-a thupiang ding kuamah in theilo a, a sih khit-a thupiang ding a hong gen thei omlo hi.
+**ZVS:** Mihaite in thu gengenin ciakciak-te hi. Mailam-a thupiang ding kuamah in theilo a, a sih khit-a thupiang ding a hong gen thei omlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v15
 **EN:** The labour of the foolish wearieth every one of them, because he knoweth not how to go to the city.
 
-**TDB77:** A inn zuat nading lampi a thei lo mihai luate bek, a innlam zon’na in gim ding uh hi.
+**TDB77:** A inn zuat nading lampi a thei lo mihai luate bek, a innlam zon’na in gim ding-te hi.
 
-**ZVS:** A inn zuatna ding lampi a theilo mihai luate bek, a inn lam zon'na-in gim ding uh hi.
+**ZVS:** A inn zuatna ding lampi a theilo mihai luate bek, a inn lam zon'na-in gim ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

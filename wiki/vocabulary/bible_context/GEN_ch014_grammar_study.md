@@ -34,27 +34,27 @@
 ### v2
 **EN:** That these made war with Bera king of Sodom, and with Birsha king of Gomorrah, Shinab king of Admah, and Shemeber king of Zeboiim, and the king of Bela, which is Zoar.
 
-**TDB77:** hih kumpite in Sodom kumpipa Bera, Gomorrah kumpipa Birsha, Admah kumpipa Shinab, Zeboi-im kumpipa Shemeber leh Bela (Zoar) kumpipa ahi kumpi ngate va sim uh hi.
+**TDB77:** hih kumpite in Sodom kumpipa Bera, Gomorrah kumpipa Birsha, Admah kumpipa Shinab, Zeboi-im kumpipa Shemeber leh Bela (Zoar) kumpipa ahi kumpi ngate va sim-te hi.
 
-**ZVS:** hih kumpite in Sodom kumpipa Bera, Gomorrah kumpipa Birsha, Admah kumpipa Shinab, Zeboiim kumpipa Shemeber, leh Bela (Zoar) kumpipa, kumpi ngate va sim uh hi.
+**ZVS:** hih kumpite in Sodom kumpipa Bera, Gomorrah kumpipa Birsha, Admah kumpipa Shinab, Zeboiim kumpipa Shemeber, leh Bela (Zoar) kumpipa, kumpi ngate va sim-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** All these were joined together in the vale of Siddim, which is the salt sea.
 
-**TDB77:** Hih kumpi ngate in kipawlna bawlin Siddim Kuam (Ci Tuipi)—ah a thahatna uh gawm hi.
+**TDB77:** Hih kumpi ngate in kipawlna bawlin Siddim Kuam (Ci Tuipi)—ah a thahatna-te gawm hi.
 
-**ZVS:** Hih kumpi ngate in kipawlna bawlin Siddim Kuam (Ci Tuipi)-ah a galkapte uh gawm uh hi.
+**ZVS:** Hih kumpi ngate in kipawlna bawlin Siddim Kuam (Ci Tuipi)-ah a galkapte-te gawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v4
 **EN:** Twelve years they served Chedorlaomer, and in the thirteenth year they rebelled.
 
-**TDB77:** Amaute in kum sawm-le-nih sung Khedorla-omer’ khut nuai-ah om uh a, ahih hangin a kum sawm-le-thumna ciangin amaute in lehdo uh hi.
+**TDB77:** Amaute in kum sawm-le-nih sung Khedorla-omer’ khut nuai-ah om-te a, ahih hangin a kum sawm-le-thumna ciangin amaute in lehdo-te hi.
 
-**ZVS:** Amaute, kum sawmlenih sung Khedorlaomer' khutnuai--ah om uh a, ahih hangin a kum sawmlethumna ciangin amaute in lehdo uh hi.
+**ZVS:** Amaute, kum sawmlenih sung Khedorlaomer' khutnuai--ah om-te a, ahih hangin a kum sawmlethumna ciangin amaute in lehdo-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -70,63 +70,63 @@
 ### v6
 **EN:** And the Horites in their mount Seir, unto El–paran, which is by the wilderness.
 
-**TDB77:** leh amau’ gam Seir Mual tunga Hori mite sehnel gamgei a, om El-paran dong hong zo uh hi;
+**TDB77:** leh amau’ gam Seir Mual tunga Hori mite sehnel gamgei a, om El-paran dong hong zo-te hi;
 
-**ZVS:** leh amau' gam Seir Mual tunga Hori mite hong zo uh hi.
+**ZVS:** leh amau' gam Seir Mual tunga Hori mite hong zo-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** And they returned, and came to En–mishpat, which is Kadesh, and smote all the country of the Amalekites, and also the Amorites, that dwelt in Hazazon–tamar.
 
-**TDB77:** tua ciangin amaute kihei kikin Enmishpat (Kadesh) ah hong pai uh a, Amalek mite’ gam khempeuhleh Hazazontamar gam-a a teng Amor mite zong zo uh hi.
+**TDB77:** tua ciangin amaute kihei kikin Enmishpat (Kadesh) ah hong pai-te a, Amalek mite’ gam khempeuhleh Hazazontamar gam-a a teng Amor mite zong zo-te hi.
 
-**ZVS:** Tua ciangin amaute kihei kikin Enmishpat (Kadesh) -ah hong pai uh a, Amalek mite' gam khempeuh leh Hazazontamar gama teng Amor mite zong zo uh hi.
+**ZVS:** Tua ciangin amaute kihei kikin Enmishpat (Kadesh) -ah hong pai-te a, Amalek mite' gam khempeuh leh Hazazontamar gama teng Amor mite zong zo-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And there went out the king of Sodom, and the king of Gomorrah, and the king of Admah, and the king of Zeboiim, and the king of Bela (the same is Zoar;) and they joined battle with them in the vale of Siddim;
 
-**TDB77:** Tua ciangin Sodom kumpipa, Gomorrah kumpipa, Admah kumpipa, Zeboi-im kumpipa leh Bela (Zoar) kumpipa kuankhia uh a, amaute kipawlin Siddim Kuam-ah
+**TDB77:** Tua ciangin Sodom kumpipa, Gomorrah kumpipa, Admah kumpipa, Zeboi-im kumpipa leh Bela (Zoar) kumpipa kuankhia-te a, amaute kipawlin Siddim Kuam-ah
 
-**ZVS:** Tua ciangin Sodom kumpipa, Gomorrah kumpipa, Admah kumpipa, Zeboiim kumpipa, leh Bela (Zoar) kumpipa kuankhia uh a, amaute kipawlin Siddim Kuam-ah
+**ZVS:** Tua ciangin Sodom kumpipa, Gomorrah kumpipa, Admah kumpipa, Zeboiim kumpipa, leh Bela (Zoar) kumpipa kuankhia-te a, amaute kipawlin Siddim Kuam-ah
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** With Chedorlaomer the king of Elam, and with Tidal king of nations, and Amraphel king of Shinar, and Arioch king of Ellasar; four kings with five.
 
-**TDB77:** Elam kumpipa Khedorla-omer, Goi-im kumpipa Tidal, Shinar kumpipa Amrafel leh Ellaser kumpipa Ariok tawh kido uh hi, kumpi li kigawm leh kumpi nga kigawm kido uh hi.
+**TDB77:** Elam kumpipa Khedorla-omer, Goi-im kumpipa Tidal, Shinar kumpipa Amrafel leh Ellaser kumpipa Ariok tawh kido-te hi, kumpi li kigawm leh kumpi nga kigawm kido-te hi.
 
-**ZVS:** Ela kumpipa Khedorlaomer, Goiim kumpipa Tidal, Shinar kumpipa Amrafel, leh Ellasar kumpipa Ariok tawh kido uh a, kumpi li kigawm leh kumpi nga kigawm kido uh hi.
+**ZVS:** Ela kumpipa Khedorlaomer, Goiim kumpipa Tidal, Shinar kumpipa Amrafel, leh Ellasar kumpipa Ariok tawh kido-te a, kumpi li kigawm leh kumpi nga kigawm kido-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And the vale of Siddim was full of slimepits; and the kings of Sodom and Gomorrah fled, and fell there; and they that remained fled to the mountain.
 
-**TDB77:** Tu-in Siddim Kuam in kultal khukte tawh kidim hi; Sodom leh Gomorrah kumpite a tai uh ciangin pawl khat tua khukte sungah kia uh a, a om lai teng mual tungah tai uh hi.
+**TDB77:** Tu-in Siddim Kuam in kultal khukte tawh kidim hi; Sodom leh Gomorrah kumpite a tai-te ciangin pawl khat tua khukte sungah kia-te a, a om lai teng mual tungah tai-te hi.
 
-**ZVS:** Siddim Kuam pen kultal khukte tawh kidim a, Sodom leh Gomorrah kumpite a tai uh ciangin pawlkhat tua khukte sungah kia uh a, a omlai teng mualtungah tai uh hi.
+**ZVS:** Siddim Kuam pen kultal khukte tawh kidim a, Sodom leh Gomorrah kumpite a tai-te ciangin pawlkhat tua khukte sungah kia-te a, a omlai teng mualtungah tai-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And they took all the goods of Sodom and Gomorrah, and all their victuals, and went their way.
 
-**TDB77:** Tua ahih ciangin galte in Sodom leh Gommorahte’ na khempeuh leh a an khempeuh uh la-in ciah uh hi;
+**TDB77:** Tua ahih ciangin galte in Sodom leh Gommorahte’ na khempeuh leh a an khempeuh-te la-in ciah-te hi;
 
-**ZVS:** Tua ahih ciangin galte in Sodom leh Gomorrah-te' na khempeuh leh a an khempeuh uh la-in a ciah uh hi.
+**ZVS:** Tua ahih ciangin galte in Sodom leh Gomorrah-te' na khempeuh leh a an khempeuh-te la-in a ciah-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v12
 **EN:** And they took Lot, Abram's brother's son, who dwelt in Sodom, and his goods, and departed.
 
-**TDB77:** amaute in Sodom-a a teng Abram’ sanggampa’ tapa Lot leh ama na khempeuh zong la uh a, pai khia uh hi.
+**TDB77:** amaute in Sodom-a a teng Abram’ sanggampa’ tapa Lot leh ama na khempeuh zong la-te a, pai khia-te hi.
 
-**ZVS:** Amaute in Sodom-a a teng Lot (Abram' sanggampa' tapa) leh a na khempeuh zong la-in a paikhia uh hi.
+**ZVS:** Amaute in Sodom-a a teng Lot (Abram' sanggampa' tapa) leh a na khempeuh zong la-in a paikhia-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -142,18 +142,18 @@
 ### v14
 **EN:** And when Abram heard that his brother was taken captive, he armed his trained servants, born in his own house, three hundred and eighteen, and pursued them unto Dan.
 
-**TDB77:** Ama’ behpa sal-in a kimatna Abram in a zak ciangin, ama inn sunga a suak, a kihilhsa ama' mi zathum leh sawm-le-giatte makaihin Dan ciang dong a delhin pai uh hi.
+**TDB77:** Ama’ behpa sal-in a kimatna Abram in a zak ciangin, ama inn sunga a suak, a kihilhsa ama' mi zathum leh sawm-le-giatte makaihin Dan ciang dong a delhin pai-te hi.
 
-**ZVS:** Ama behpa salin a kimatna Abram in a zak ciangin, ama inn sunga a suak, a kihilhsa ama mi zathum leh sawmlegiatte makaihin Dan ciangdong a delhin a pai uh hi.
+**ZVS:** Ama behpa salin a kimatna Abram in a zak ciangin, ama inn sunga a suak, a kihilhsa ama mi zathum leh sawmlegiatte makaihin Dan ciangdong a delhin a pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And he divided himself against them, he and his servants, by night, and smote them, and pursued them unto Hobah, which is on the left hand of Damascus.
 
-**TDB77:** Amah in amaute do dingin zan hunin ama' pawlte, amah leh a nasemte khenin amaute zo a, Damaskas leilu lam Hobah ciang dong delh uh hi.
+**TDB77:** Amah in amaute do dingin zan hunin ama' pawlte, amah leh a nasemte khenin amaute zo a, Damaskas leilu lam Hobah ciang dong delh-te hi.
 
-**ZVS:** Amah in zan hunin ama pawlte, amah leh a nasemte, amaute a do dingin khenin amaute zo a, Damaskas leilu lam Hobah ciangdong a delh uh hi.
+**ZVS:** Amah in zan hunin ama pawlte, amah leh a nasemte, amaute a do dingin khenin amaute zo a, Damaskas leilu lam Hobah ciangdong a delh-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

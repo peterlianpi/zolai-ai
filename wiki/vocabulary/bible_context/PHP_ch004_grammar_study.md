@@ -26,7 +26,7 @@
 
 **TDB77:** Tua ahih ciangin ka lungnopna leh ka kisaktheihna lukhu, ka it ka ngaih ahi ute naute aw, tua bangin Topa sungah kipin om un, ka itte aw!
 
-**ZVS:** Tua ahih manin sanggamte aw, note ka hong it mahmah a, nakpi takin ka hong goih hi. Note in nakpi takin kei na hong lungnuamsak uh a, note ka hong angtan'pih mahmah hi. Tua hi a, sanggamte aw, Topa sungah kiptakin nungta un.
+**ZVS:** Tua ahih manin sanggamte aw, note ka hong it mahmah a, nakpi takin ka hong goih hi. Note in nakpi takin kei na hong lungnuamsak-te a, note ka hong angtan'pih mahmah hi. Tua hi a, sanggamte aw, Topa sungah kiptakin nungta un.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -35,16 +35,16 @@
 
 **TDB77:** Eu-odia leh Sintikhe in Topa sungah a lung kituak nadingun ka thuum hi.
 
-**ZVS:** Euodia leh Sintikhe, Topa' hangin a kilemkik ding uh ka thum nuam hi.
+**ZVS:** Euodia leh Sintikhe, Topa' hangin a kilemkik ding-te ka thum nuam hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v3
 **EN:** And I entreat thee also, true yokefellow, help those women which laboured with me in the gospel, with Clement also, and with other my fellowlabourers, whose names are in the book of life.
 
-**TDB77:** Lawm naseppih taktak aw, tua numeite huh dingin ka hong thuum hi. Bang hang hiam na cih uh leh, amaute in kei leh Klement-a kipan nuntakna laibu sungah min kikhum adang ka naseppihte tawh Lungdamna Thu ka hilh khawmna-ah hong huhin, a hahkat mi ahi uh hi.
+**TDB77:** Lawm naseppih taktak aw, tua numeite huh dingin ka hong thuum hi. Bang hang hiam na cih-te leh, amaute in kei leh Klement-a kipan nuntakna laibu sungah min kikhum adang ka naseppihte tawh Lungdamna Thu ka hilh khawmna-ah hong huhin, a hahkat mi ahi-te hi.
 
-**ZVS:** Hih numei nihte in Klement leh a nungta mite a kikhumna Pasian' laibu sungah a kikhum, ka naseppih dangte khempeuh tawh, lungdamna thu a kizelhna dingin nakpi takin kei tawh na hong semkhawm uh ahih manin, citakin kei tawh na a semkhawm note in zong amaute gel na huhna dingun ka hong thum hi.
+**ZVS:** Hih numei nihte in Klement leh a nungta mite a kikhumna Pasian' laibu sungah a kikhum, ka naseppih dangte khempeuh tawh, lungdamna thu a kizelhna dingin nakpi takin kei tawh na hong semkhawm-te ahih manin, citakin kei tawh na a semkhawm note in zong amaute gel na huhna dingun ka hong thum hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -60,14 +60,14 @@
 ### v5
 **EN:** Let your moderation be known unto all men. The Lord is at hand.
 
-**TDB77:** Mi khempeuh mai-ah na lungsim nemna uh na lak un. Topa hong tun’na a nai zo hi.
+**TDB77:** Mi khempeuh mai-ah na lungsim nemna-te na lak un. Topa hong tun’na a nai zo hi.
 
 **ZVS:** Mi khempeuh tungah na dik un. Topa hong pai baih ta ding hi.
 
 ### v6
 **EN:** Be careful for nothing; but in every thing by prayer and supplication with thanksgiving let your requests be made known unto God.
 
-**TDB77:** Bangmah thu-ah lungmang loin, na khempeuh ah hehpihna phatin na nget nopnate uh Pasian kiangah na ko un.
+**TDB77:** Bangmah thu-ah lungmang loin, na khempeuh ah hehpihna phatin na nget nopnate-te Pasian kiangah na ko un.
 
 **ZVS:** Thu khat peuhpeuhah lunghimawh lua kei un la, na kisap bangbang uh, lungdamna tawh Pasian kiangah na ngen un.
 
@@ -76,9 +76,9 @@
 ### v7
 **EN:** And the peace of God, which passeth all understanding, shall keep your hearts and minds through Christ Jesus.
 
-**TDB77:** Tua bang na hih uh leh, kuamah in a tel zawh loh Pasian’ nopna in Khazih Zeisu sungah note lungsim uh leh na ngaihsutnate uh hong keem ding hi.
+**TDB77:** Tua bang na hih-te leh, kuamah in a tel zawh loh Pasian’ nopna in Khazih Zeisu sungah note lungsim-te leh na ngaihsutnate-te hong keem ding hi.
 
-**ZVS:** Mihingte in a theihtel zawhloh Pasian' hong piak lungsim nopna in, Khrih Jesuh tawh na kipawlna uh hangin note hong lungnuamsak ding hi.
+**ZVS:** Mihingte in a theihtel zawhloh Pasian' hong piak lungsim nopna in, Khrih Jesuh tawh na kipawlna-te hangin note hong lungnuamsak ding hi.
 
 **Grammar:** future: will
 
@@ -87,14 +87,14 @@
 
 **TDB77:** A khak bel thu in: ute naute aw, thuman thu tawh kipawl nate, zahtakhuai nate, adik nate, a siangtho nate, deihhuai nate, phathuai nate khempeuh ahi zongin, tatna pha khatpeuh peuh, thu phatna khatpeuh peuh tawh a kipawl nate ahi zongin na lungsim sung uhah na ngaihsun un.
 
-**ZVS:** Sanggamte aw, a tawpna-ah ka hong gennop thu in, a hoih leh a phattaak thute tawh na lungsim uh na kidimsak un. Tuate in: A man, a dik, a tang, a siangtho, a deihhuai, leh a pahtakhuai thute ahi hi.
+**ZVS:** Sanggamte aw, a tawpna-ah ka hong gennop thu in, a hoih leh a phattaak thute tawh na lungsim-te na kidimsak un. Tuate in: A man, a dik, a tang, a siangtho, a deihhuai, leh a pahtakhuai thute ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v9
 **EN:** Those things, which ye have both learned, and received, and heard, and seen in me, do: and the God of peace shall be with you.
 
-**TDB77:** Note in nidang lai-in keima kiangah sinin na zaksa, na muhsa, na ngahsa uh nate na zui un, Tua bangin na zuih uh leh, nopna’ Pasian in note tawh hong omkhawm ding hi.
+**TDB77:** Note in nidang lai-in keima kiangah sinin na zaksa, na muhsa, na ngahsa-te nate na zui un, Tua bangin na zuih-te leh, nopna’ Pasian in note tawh hong omkhawm ding hi.
 
 **ZVS:** Keima genna leh ka gamtatna panin thei-in na san' uh thute, nomau pumpi mahmah tawh na zui un. Tua hi leh nopsakna a hong piathei Pasian in note hong ompih ding hi.
 
@@ -103,16 +103,16 @@
 ### v10
 **EN:** But I rejoiced in the Lord greatly, that now at the last your care of me hath flourished again; wherein ye were also careful, but ye lacked opportunity.
 
-**TDB77:** Tu-in zong keimah adingin na phawkkik uh ahih maninah, keimah in Pasian sungah ka lungdam mahmah hi. Ni dangin na hong phawk uh hangin hih theihna thu na ngah kei uh hi.
+**TDB77:** Tu-in zong keimah adingin na phawkkik-te ahih maninah, keimah in Pasian sungah ka lungdam mahmah hi. Ni dangin na hong phawk-te hangin hih theihna thu na ngah kei-te hi.
 
-**ZVS:** Topa' hangin ka lungdamna lian mahmah hi. Hun sauveipi khit ciangin kei na hong phawkna uh na hong langsakkik thei uh hi. Kei hong kinloin omngei uh teh, a ci ka hi kei a, na hong kinna uh na hong lahna ding uh hun om theilo, ka cihna ahi hi.
+**ZVS:** Topa' hangin ka lungdamna lian mahmah hi. Hun sauveipi khit ciangin kei na hong phawkna-te na hong langsakkik thei-te hi. Kei hong kinloin omngei-te teh, a ci ka hi kei a, na hong kinna-te na hong lahna ding-te hun om theilo, ka cihna ahi hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | negation: kei | plural: uh marker
 
 ### v11
 **EN:** Not that I speak in respect of want: for I have learned, in whatsoever state I am, therewith to be content.
 
-**TDB77:** Tua bang ka cih ciangin keimah tunga kitangsapna ngaihsunin ci ka hi kei hi. Bang hang hiam na cih uh leh, kei in ka thuakna khempeuh ah ka lungkim nadingin ka kisin zo hi.
+**TDB77:** Tua bang ka cih ciangin keimah tunga kitangsapna ngaihsunin ci ka hi kei hi. Bang hang hiam na cih-te leh, kei in ka thuakna khempeuh ah ka lungkim nadingin ka kisin zo hi.
 
 **ZVS:** Bangbangin om ta leng a lungkim thei dingin a kisinsa ka hih manin hihbang ka hong gen ciangin ka kitangsapna a hong pulak nuam ka hi kei hi.
 
@@ -137,7 +137,7 @@
 ### v14
 **EN:** Notwithstanding ye have well done, that ye did communicate with my affliction.
 
-**TDB77:** Ahih hangin gimna ka thuak lai takin note in kei tawh kizopna hangin a pha-in na bawl zo uh hi.
+**TDB77:** Ahih hangin gimna ka thuak lai takin note in kei tawh kizopna hangin a pha-in na bawl zo-te hi.
 
 **ZVS:** Ahi zongin ka lungkham laitakin na hong huh manun hoih mahmah hi.
 
@@ -146,18 +146,18 @@
 ### v15
 **EN:** Now ye Philippians know also, that in the beginning of the gospel, when I departed from Macedonia, no church communicated with me as concerning giving and receiving, but ye only.
 
-**TDB77:** Lawm Filippi mite aw, Lungdamna Thu hilh ding kipanin Makedonia gam pan ka paikhiat lai takin, piakna leh ngahna in note sim loh kuamah pawlpi in kei tawh a kizom kei uh hi.
+**TDB77:** Lawm Filippi mite aw, Lungdamna Thu hilh ding kipanin Makedonia gam pan ka paikhiat lai takin, piakna leh ngahna in note sim loh kuamah pawlpi in kei tawh a kizom kei-te hi.
 
-**ZVS:** Na theihsa uh mah bangin Lungdamna Thu ka hilh cil lai-in note' gam Masedonia panin ka paikhiat hunin no Filippi pawlpite bek mah in kei na hong huh uh a, ka ngahna leh ka piakkhiatnate, note bek mah in a hong theihpih na hi uh hi.
+**ZVS:** Na theihsa-te mah bangin Lungdamna Thu ka hilh cil lai-in note' gam Masedonia panin ka paikhiat hunin no Filippi pawlpite bek mah in kei na hong huh-te a, ka ngahna leh ka piakkhiatnate, note bek mah in a hong theihpih na hi-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** For even in Thessalonica ye sent once and again unto my necessity.
 
-**TDB77:** Bang hang hiam na cih uh leh, Thesalonika khua-ah ka om lai takin ka sapnate note in khatvei nong piak khit uh ciangin, nong piakik lai uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, Thesalonika khua-ah ka om lai takin ka sapnate note in khatvei nong piak khit-te ciangin, nong piakik lai-te hi.
 
-**ZVS:** Thesalonika khua-ah cimawhin ka om lai-in huhna nong puak uh khatvei bek hilo hi.
+**ZVS:** Thesalonika khua-ah cimawhin ka om lai-in huhna nong puak-te khatvei bek hilo hi.
 
 **Grammar:** plural: uh marker
 
@@ -196,18 +196,18 @@
 ### v21
 **EN:** Salute every saint in Christ Jesus. The brethren which are with me greet you.
 
-**TDB77:** Khazih Zeisu sungah a om misiangthote khempeuh na hopihsak un. Kei tawh a omkhawm ute naute-a kipan misiangthote in note hong hopih uh hi.
+**TDB77:** Khazih Zeisu sungah a om misiangthote khempeuh na hopihsak un. Kei tawh a omkhawm ute naute-a kipan misiangthote in note hong hopih-te hi.
 
-**ZVS:** Khrih Jesuh sungah a om mi siangthote khempeuh na na hopihsak un. Kei tawh a omkhawm kamsangte khempeuh in zong note hong hopih uh hi.
+**ZVS:** Khrih Jesuh sungah a om mi siangthote khempeuh na na hopihsak un. Kei tawh a omkhawm kamsangte khempeuh in zong note hong hopih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** All the saints salute you, chiefly they that are of Caesar's household.
 
-**TDB77:** Kaisar kumpipa’ inn sungah a om misiangthote in hong hopih pha diak uh hi.
+**TDB77:** Kaisar kumpipa’ inn sungah a om misiangthote in hong hopih pha diak-te hi.
 
-**ZVS:** Hih lai-a om Khristian khempeuh, a diakdiakin kumpi nasem i lawmte in note hong hopih uh hi.
+**ZVS:** Hih lai-a om Khristian khempeuh, a diakdiakin kumpi nasem i lawmte in note hong hopih-te hi.
 
 **Grammar:** plural: uh marker
 

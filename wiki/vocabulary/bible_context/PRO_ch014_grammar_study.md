@@ -30,14 +30,14 @@
 
 **TDB77:** Thuman-a gamta mite in Topa zahtak a, a sia-a gamta mite in simmawh hi.
 
-**ZVS:** Thumanin a gamta mite in { Topa } zahtak uh a, a sia-in a gamta mite in { Topa } simmawh uh hi.
+**ZVS:** Thumanin a gamta mite in { Topa } zahtak-te a, a sia-in a gamta mite in { Topa } simmawh-te hi.
 
 ### v3
 **EN:** In the mouth of the foolish is a rod of pride: but the lips of the wise shall preserve them.
 
-**TDB77:** Mihaite a pau ciangin satna thuaklawh uh a, mipilte’ pauna in sat nading pan pengsak hi.
+**TDB77:** Mihaite a pau ciangin satna thuaklawh-te a, mipilte’ pauna in sat nading pan pengsak hi.
 
-**ZVS:** Mihaite a pau ciangin siatna thuaklawh uh a, mipilte' pauna in siatna ding pan pengsak hi.
+**ZVS:** Mihaite a pau ciangin siatna thuaklawh-te a, mipilte' pauna in siatna ding pan pengsak hi.
 
 **Grammar:** plural: uh marker
 
@@ -60,9 +60,9 @@
 ### v6
 **EN:** A scorner seeketh wisdom, and findeth it not: but knowledge is easy unto him that understandeth.
 
-**TDB77:** Mi a simmawh theite in pilna a zon’zon hangin ngah zo lo a, thu ngaihsun theite in olno takin ngah thei uh hi.
+**TDB77:** Mi a simmawh theite in pilna a zon’zon hangin ngah zo lo a, thu ngaihsun theite in olno takin ngah thei-te hi.
 
-**ZVS:** Mi a simmawh theite in pilna a zon' uh hangin ngah zolo uh a, thungaihsun theite in olno takin ngah thei uh hi.
+**ZVS:** Mi a simmawh theite in pilna a zon' uh hangin ngah zolo-te a, thungaihsun theite in olno takin ngah thei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -85,9 +85,9 @@
 ### v9
 **EN:** Fools make a mock at sin: but among the righteous there is favour.
 
-**TDB77:** Mihaite in a khialh hangun phamawh sa lo uh a, mipilte a khialh ciangun mawh maisak ding deih uh hi.
+**TDB77:** Mihaite in a khialh hangun phamawh sa lo-te a, mipilte a khialh ciangun mawh maisak ding deih-te hi.
 
-**ZVS:** Mihaite in a khialh hangun phamawh salo uh a, mipilte a khialh ciangun mawhmaisak ding deih uh hi.
+**ZVS:** Mihaite in a khialh hangun phamawh salo-te a, mipilte a khialh ciangun mawhmaisak ding deih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -163,9 +163,9 @@
 ### v19
 **EN:** The evil bow before the good; and the wicked at the gates of the righteous.
 
-**TDB77:** Migilote in mihoihte mai-et uh a, maipha a piak nading uh thuum uh hi.
+**TDB77:** Migilote in mihoihte mai-et-te a, maipha a piak nading-te thuum-te hi.
 
-**ZVS:** Migilote in mihoihte mai-et uh a, maipha a piak ding uh a thum uh hi.
+**ZVS:** Migilote in mihoihte mai-et-te a, maipha a piak ding-te a thum-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -273,9 +273,9 @@
 ### v33
 **EN:** Wisdom resteth in the heart of him that hath understanding: but that which is in the midst of fools is made known.
 
-**TDB77:** Thungaihsun theite’ lungsim sungah pilna teeng a, mihaite in pilna thei kha lo uh hi.
+**TDB77:** Thungaihsun theite’ lungsim sungah pilna teeng a, mihaite in pilna thei kha lo-te hi.
 
-**ZVS:** Thungaihsun theite' sungah pilna teng a, mihaite in pilna thei khalo uh hi.
+**ZVS:** Thungaihsun theite' sungah pilna teng a, mihaite in pilna thei khalo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

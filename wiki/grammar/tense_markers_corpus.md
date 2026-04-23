@@ -7,12 +7,12 @@
 - `[TDB77]` *And David was afraid of God that day, saying, How shall I bring the ar* → **Tua ni-in David in Pasian kihta hi; amah in, “Pasian’ thuciamna singku**
 - `[TDB77]` *Saying, Unto thee will I give the land of Canaan, the lot of your inhe* → **“Nangma tungah Kanaan gam hong pia-in, gamhluah dingin na tanh dingin **
 - `[TDB77]` *Fear before him, all the earth: the world also shall be stable, that i* → **leitung mi khempeuh aw, ama mai-ah ling un; hi hi, leitung kip a, kilo**
-- `[TDB77]` *Then shall the trees of the wood sing out at the presence of the* → **Tua ciangin gamlak singte in lungdamin Topa mai-ah la sa ding uh hi, b**
+- `[TDB77]` *Then shall the trees of the wood sing out at the presence of the* → **Tua ciangin gamlak singte in lungdamin Topa mai-ah la sa ding-te hi, b**
 
 ## past (did/was/were)
 
 - `[TDB77]` *And Ophir, and Havilah, and Jobab. All these were the sons of Joktan.* → **Ofir mite, Havilah mite, leh Jobab mite’ pian’napa ahi hi; hihte khemp**
-- `[TDB77]` *And the sons of Lotan; Hori, and Homam: and Timna was Lotan's sister.* → **Lotan’ tapate in Hori leh Homan ahi uh hi; tua ciangin Lotan’ sanggamn**
+- `[TDB77]` *And the sons of Lotan; Hori, and Homam: and Timna was Lotan's sister.* → **Lotan’ tapate in Hori leh Homan ahi-te hi; tua ciangin Lotan’ sanggamn**
 - `[TDB77]` *And when Bela was dead, Jobab the son of Zerah of Bozrah reigned in hi* → **Bela a sih ciangin ama tangin Bozrah khuami Zerah’ tapa Jobab in uk hi**
 - `[TDB77]` *And when Jobab was dead, Husham of the land of the Temanites reigned i* → **Jobab a sih ciangin ama tangin Teman mite’ gam mi Husham in uk hi.**
 

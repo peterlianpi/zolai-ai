@@ -40,18 +40,18 @@
 ### v3
 **EN:** For, lo, they lie in wait for my soul: the mighty are gathered against me; not for my transgression, nor for my sin, O
 
-**TDB77:** Bang hang hiam cih leh, en in, amaute in kei hong pangsim uh hi; mi kihtak-huaite in keimah hong langpangin kikaikhawm uh hi. Topa aw, kei’ thu palsatna, kei’ mawhna hang hi lo,
+**TDB77:** Bang hang hiam cih leh, en in, amaute in kei hong pangsim-te hi; mi kihtak-huaite in keimah hong langpangin kikaikhawm-te hi. Topa aw, kei’ thu palsatna, kei’ mawhna hang hi lo,
 
-**ZVS:** Bang hang hiam cih leh amaute in kei hong pangsim uh a, a kihtakhuai mite keimah hong langpangin kikaikhawm uh hi. { Topa } aw, keima thupalsatna hang hilo,
+**ZVS:** Bang hang hiam cih leh amaute in kei hong pangsim-te a, a kihtakhuai mite keimah hong langpangin kikaikhawm-te hi. { Topa } aw, keima thupalsatna hang hilo,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** They run and prepare themselves without my fault: awake to help me, and behold.
 
-**TDB77:** kei’ khialhna hang hi lopi-in, amaute tai-in va kithawi uh hi. Nangmah in hong phawk tawm in, keimah huh dingin hong pai in la, en in!
+**TDB77:** kei’ khialhna hang hi lopi-in, amaute tai-in va kithawi-te hi. Nangmah in hong phawk tawm in, keimah huh dingin hong pai in la, en in!
 
-**ZVS:** kei' khialhna hang hilopi-in, amaute va kithawi uh hi. Nangmah in hong phawk in. Keimah a hong huh dingin hong pai in la, kei hong en in.
+**ZVS:** kei' khialhna hang hilopi-in, amaute va kithawi-te hi. Nangmah in hong phawk in. Keimah a hong huh dingin hong pai in la, kei hong en in.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -67,18 +67,18 @@
 ### v6
 **EN:** They return at evening: they make a noise like a dog, and go round about the city.
 
-**TDB77:** Nitak simin amaute hong pai kikin, ui bangin ku uh a, khua sungah vak khuankhuan uh hi.
+**TDB77:** Nitak simin amaute hong pai kikin, ui bangin ku-te a, khua sungah vak khuankhuan-te hi.
 
-**ZVS:** Nitak simin amaute hong paikik zelzelin ui bangin ku uh a, khuasung tengah vak khuankhuan uh hi.
+**ZVS:** Nitak simin amaute hong paikik zelzelin ui bangin ku-te a, khuasung tengah vak khuankhuan-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Behold, they belch out with their mouth: swords are in their lips: for who, say they, doth hear?
 
-**TDB77:** Amaute tua lai-ah a kam uh tawh hawk a, a muk uh tawh zuau gen uh hi—bang hang hiam cih leh, “Kua’n hong za laizang ding ahi hiam?” ci-in amaute in ngaihsun uh hi.
+**TDB77:** Amaute tua lai-ah a kam-te tawh hawk a, a muk-te tawh zuau gen-te hi—bang hang hiam cih leh, “Kua’n hong za laizang ding ahi hiam?” ci-in amaute in ngaihsun-te hi.
 
-**ZVS:** Amaute a kam uh tawh nakpipi-in hawk uh a, a muk uh tawh zuauthu gengen uh hi. Bang hang hiam cih leh, “Kua'n hong za ding hiam?” ci-in amaute in ngaihsun uh hi.
+**ZVS:** Amaute a kam-te tawh nakpipi-in hawk-te a, a muk-te tawh zuauthu gengen-te hi. Bang hang hiam cih leh, “Kua'n hong za ding hiam?” ci-in amaute in ngaihsun-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -121,7 +121,7 @@
 
 **TDB77:** Amau kam-a mawhna, amau muk tawh a pauna thu hangin, amau’ kiphatsakna-ah amau mah awksak in. Hamsiatna zangin zuauthu a genna hangun,
 
-**ZVS:** Amau' kama a mawhna a muk uh tawh a pauna hangin, amau' kiphatsakna-ah amau mah awksak in. Amaute in hamsiatna zangin zuauthu a genna hangun,
+**ZVS:** Amau' kama a mawhna a muk-te tawh a pauna hangin, amau' kiphatsakna-ah amau mah awksak in. Amaute in hamsiatna zangin zuauthu a genna hangun,
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -130,25 +130,25 @@
 
 **TDB77:** lei mong dongin Jakob’ tungah Pasian maang hi, ci-in mite in a theih nadingin hehna tawh amaute beisak in la, amaute a bei khit mateng sisak in.
 
-**ZVS:** hehna tawh amaute beisak in. Amaute khempeuh a beisiang dongin sumai in. Tua hi leh Pasian in Israel-te tungah leimong dongin a uk khitna thu mi khempeuh in thei ding uh hi.
+**ZVS:** hehna tawh amaute beisak in. Amaute khempeuh a beisiang dongin sumai in. Tua hi leh Pasian in Israel-te tungah leimong dongin a uk khitna thu mi khempeuh in thei ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to
 
 ### v14
 **EN:** And at evening let them return; and let them make a noise like a dog, and go round about the city.
 
-**TDB77:** Nitak simin amaute hong pai kikin, ui bangin ku uh a, khua sungah vak khuankhuan uh hi.
+**TDB77:** Nitak simin amaute hong pai kikin, ui bangin ku-te a, khua sungah vak khuankhuan-te hi.
 
-**ZVS:** Nitak simin amaute hong paikik zelzelin ui bangin ku uh a, khuasung tengah vak khuankhuan uh hi.
+**ZVS:** Nitak simin amaute hong paikik zelzelin ui bangin ku-te a, khuasung tengah vak khuankhuan-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Let them wander up and down for meat, and grudge if they be not satisfied.
 
-**TDB77:** Amaute an zongin vak kawikawi uh a, an a kham uh ngah kei leh humham uh hi.
+**TDB77:** Amaute an zongin vak kawikawi-te a, an a kham-te ngah kei leh humham-te hi.
 
-**ZVS:** An zong dingin vak kawikawi uh a, a kham uh ngah kei leh humham uh hi.
+**ZVS:** An zong dingin vak kawikawi-te a, a kham-te ngah kei leh humham-te hi.
 
 **Grammar:** plural: uh marker
 

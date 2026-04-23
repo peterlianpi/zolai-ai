@@ -33,7 +33,7 @@
 
 **TDB77:** Pawi simna sangin si galna hoihzaw hi; sih ding bek a ngak ahihna mihing khempeuh in a phawk ding kilawm hi.
 
-**ZVS:** Pawisimna sangin sigalna hoihzaw hi. Sih ding bek a ngak ahihna mihing khempeuh in a phawk ding uh kilawm hi.
+**ZVS:** Pawisimna sangin sigalna hoihzaw hi. Sih ding bek a ngak ahihna mihing khempeuh in a phawk ding-te kilawm hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -229,9 +229,9 @@
 ### v26
 **EN:** And I find more bitter than death the woman, whose heart is snares and nets, and her hands as bands: whoso pleaseth God shall escape from her; but the sinner shall be taken by her.
 
-**TDB77:** Sihna sangin numei a siahuai zawkna ka theikhia hi. Ama hong piak itna in thang bangin hong tepcip a, ama hong kawina khut in sikkhau bangin hong hencip hi. Pasian’ deihna banga gamtate in tua bang numei pel thei a, ahi zongin a mawh nuamte a thang ah awk uh hi.
+**TDB77:** Sihna sangin numei a siahuai zawkna ka theikhia hi. Ama hong piak itna in thang bangin hong tepcip a, ama hong kawina khut in sikkhau bangin hong hencip hi. Pasian’ deihna banga gamtate in tua bang numei pel thei a, ahi zongin a mawh nuamte a thang ah awk-te hi.
 
-**ZVS:** Sihna sangin numei a siahuai zawkna ka theikhia hi. Ama hong piak itna in thang bangin hong tepcip a, ama hong kawina khut in sikkhau bangin hong hencip hi. Pasian' deihna bangin a gamtate in tua bang numei pelhthei a, ahi zongin a mawh nuamte a thang-ah a awk uh hi.
+**ZVS:** Sihna sangin numei a siahuai zawkna ka theikhia hi. Ama hong piak itna in thang bangin hong tepcip a, ama hong kawina khut in sikkhau bangin hong hencip hi. Pasian' deihna bangin a gamtate in tua bang numei pelhthei a, ahi zongin a mawh nuamte a thang-ah a awk-te hi.
 
 **Grammar:** plural: uh marker
 

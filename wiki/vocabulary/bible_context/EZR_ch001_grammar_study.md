@@ -49,27 +49,27 @@
 ### v4
 **EN:** And whosoever remaineth in any place where he sojourneth, let the men of his place help him with silver, and with gold, and with goods, and with beasts, beside the freewill offering for the house of God that is in Jerusalem.
 
-**TDB77:** tua ciangin koi lai koi lai muna om hi taleh Judah mi a om lai khempeuh, a omna mun mite in Jerusalem-a om Pasian’ inn adingin ut thu-a piakna a piakte uh banah, ngun leh kham, nate leh ganhingte tawh zong huh uh hen,” a ci hi.
+**TDB77:** tua ciangin koi lai koi lai muna om hi taleh Judah mi a om lai khempeuh, a omna mun mite in Jerusalem-a om Pasian’ inn adingin ut thu-a piakna a piakte-te banah, ngun leh kham, nate leh ganhingte tawh zong huh-te hen,” a ci hi.
 
-**ZVS:** Tua ciangin koilai mun koilai gama om hita leh Judah mi a omlai khempeuh, ama omna mun mite in Jerusalem-a om Pasian' biakinn-a dingin utthu-a a piakte uh banah, ngun leh kham, nate leh ganhingte tawh zong huh ciat uh hen,” a ci hi.
+**ZVS:** Tua ciangin koilai mun koilai gama om hita leh Judah mi a omlai khempeuh, ama omna mun mite in Jerusalem-a om Pasian' biakinn-a dingin utthu-a a piakte-te banah, ngun leh kham, nate leh ganhingte tawh zong huh ciat-te hen,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to
 
 ### v5
 **EN:** Then rose up the chief of the fathers of Judah and Benjamin, and the priests, and the Levites, with all them whose spirit God had raised, to go up to build the house of the
 
-**TDB77:** Tua ciangin Judah leh Benjamin sunga innkuan lutangte, leh siampite leh Levi mite, Jerusalem khua-a a om Topa’ inn lamkik dingin a lungsim sung uhah Pasian in a suahsak mite khempeuh kithawi uh hi;
+**TDB77:** Tua ciangin Judah leh Benjamin sunga innkuan lutangte, leh siampite leh Levi mite, Jerusalem khua-a a om Topa’ inn lamkik dingin a lungsim sung uhah Pasian in a suahsak mite khempeuh kithawi-te hi;
 
-**ZVS:** Tua ciangin Judah leh Benjamin sunga innkuan lutangte, leh siampite leh Levi mite, Jerusalem khua-a om { Topa' } biakinn a lamkik dingin a lungsim sung uhah Pasian in a suahsak mite khempeuh kithawi uh hi.
+**ZVS:** Tua ciangin Judah leh Benjamin sunga innkuan lutangte, leh siampite leh Levi mite, Jerusalem khua-a om { Topa' } biakinn a lamkik dingin a lungsim sung uhah Pasian in a suahsak mite khempeuh kithawi-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And all they that were about them strengthened their hands with vessels of silver, with gold, with goods, and with beasts, and with precious things, beside all that was willingly offered.
 
-**TDB77:** tua ciangin a veng a pamte un thatang tawh a huh uh banah ngun tawh kibawl um-le-beel, kham, van tuamtuamte, ganhingte leh letsong manphate tawh huh thuah uh hi.
+**TDB77:** tua ciangin a veng a pamte un thatang tawh a huh-te banah ngun tawh kibawl um-le-beel, kham, van tuamtuamte, ganhingte leh letsong manphate tawh huh thuah-te hi.
 
-**ZVS:** Tua ciangin a veng a pamte in thatang tawh a huh uh banah ngun tawh kibawl umlebeel, kham, van tuamtuamte, ganhingte, leh letsong manphate tawh huh thuah lai uh hi.
+**ZVS:** Tua ciangin a veng a pamte in thatang tawh a huh-te banah ngun tawh kibawl umlebeel, kham, van tuamtuamte, ganhingte, leh letsong manphate tawh huh thuah lai-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

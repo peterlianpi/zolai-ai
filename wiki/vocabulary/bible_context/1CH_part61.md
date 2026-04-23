@@ -148,7 +148,7 @@
 
 ### uliante = princes/chiefs
 **Context:** The leaders who will follow Solomon's command.
-**Example:** Uliante leh mi khempeuh zong nangma thupiakna bangbangin gamta ding uh hi
+**Example:** Uliante leh mi khempeuh zong nangma thupiakna bangbangin gamta ding-te hi
 
 ### kikawm khempeuhte = all the assembly/congregation
 **Context:** The group David addressed before presenting Solomon.

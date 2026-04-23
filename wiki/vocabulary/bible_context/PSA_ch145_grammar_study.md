@@ -68,16 +68,16 @@
 
 **TDB77:** Mite in a vanglian nangma bawlnate taangko ding a, keimah in nangma liatna ka pulak ding hi.
 
-**ZVS:** A vanglian nangma bawlnate mite in taangko ding uh a, nangma vangliatna mah kei zong ka pulak ding hi.
+**ZVS:** A vanglian nangma bawlnate mite in taangko ding-te a, nangma vangliatna mah kei zong ka pulak ding hi.
 
 **Grammar:** future: will
 
 ### v7
 **EN:** They shall abundantly utter the memory of thy great goodness, and shall sing of thy righteousness.
 
-**TDB77:** Amaute in nangma liatna na minthan’na genkhia-in, nangma thumanna nakpi-in sa ding uh hi.
+**TDB77:** Amaute in nangma liatna na minthan’na genkhia-in, nangma thumanna nakpi-in sa ding-te hi.
 
-**ZVS:** Amaute in nangma liatna, na minthan'na genkhia-in nangma thumanna nakpi takin sa ding uh hi.
+**ZVS:** Amaute in nangma liatna, na minthan'na genkhia-in nangma thumanna nakpi takin sa ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -100,27 +100,27 @@
 ### v10
 **EN:** All thy works shall praise thee, O
 
-**TDB77:** Topa aw, nangma sepsate khempeuh in nang tungah lungdamna hong ko ding uh a, nangma misiangthote khempeuh in nangmah hong phat ding uh hi!
+**TDB77:** Topa aw, nangma sepsate khempeuh in nang tungah lungdamna hong ko ding-te a, nangma misiangthote khempeuh in nangmah hong phat ding-te hi!
 
-**ZVS:** { Topa } aw, nangma bawlsa khempeuh in nangma tungah lungdamna hong ko ding uh a, na mi siangtho khempeuh in nang hong phat ding uh hi.
+**ZVS:** { Topa } aw, nangma bawlsa khempeuh in nangma tungah lungdamna hong ko ding-te a, na mi siangtho khempeuh in nang hong phat ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v11
 **EN:** They shall speak of the glory of thy kingdom, and talk of thy power;
 
-**TDB77:** Amaute in na kumpi a minthan’na genin, na vangliatna thu sut ding uh a,
+**TDB77:** Amaute in na kumpi a minthan’na genin, na vangliatna thu sut ding-te a,
 
-**ZVS:** Amaute in na kumpi gam a minthan'na thu gengenin na vangliatna thu sutsut ding uh a,
+**ZVS:** Amaute in na kumpi gam a minthan'na thu gengenin na vangliatna thu sutsut ding-te a,
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** To make known to the sons of men his mighty acts, and the glorious majesty of his kingdom.
 
-**TDB77:** a vanglian nangma sepnate leh na Kumpi gam hoihna a minthan’nate mihing tate’ tungah kitheisak ding uh hi.
+**TDB77:** a vanglian nangma sepnate leh na Kumpi gam hoihna a minthan’nate mihing tate’ tungah kitheisak ding-te hi.
 
-**ZVS:** a vanglian nangma sepnate leh na kumpi gam a hoihna, a minthan'nate mi khempeuh tungah kitheisak ding uh hi.
+**ZVS:** a vanglian nangma sepnate leh na kumpi gam a hoihna, a minthan'nate mi khempeuh tungah kitheisak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -143,9 +143,9 @@
 ### v15
 **EN:** The eyes of all wait upon thee; and thou givest them their meat in due season.
 
-**TDB77:** Nuntakna a nei khempeuhte’ mit in nang hong en uh a, nangmah in a hun a tun’ ciangin amaute an na vaak hi.
+**TDB77:** Nuntakna a nei khempeuhte’ mit in nang hong en-te a, nangmah in a hun a tun’ ciangin amaute an na vaak hi.
 
-**ZVS:** Nuntak husan'na a nei khempeuhte' mit in nang hong en uh a, a hun a tun' ciangin amaute an na vak hi.
+**ZVS:** Nuntak husan'na a nei khempeuhte' mit in nang hong en-te a, a hun a tun' ciangin amaute an na vak hi.
 
 **Grammar:** plural: uh marker
 
@@ -193,9 +193,9 @@
 ### v21
 **EN:** My mouth shall speak the praise of the
 
-**TDB77:** Topa ka phat tawntung ding hi; mi khempeuh in a tawntungin ama min siangtho phat ta uh hen.
+**TDB77:** Topa ka phat tawntung ding hi; mi khempeuh in a tawntungin ama min siangtho phat ta-te hen.
 
-**ZVS:** { Topa } ka phat tawntung ding hi. Mi khempeuh in a tawntungin ama min siangtho phat ta uh hen.
+**ZVS:** { Topa } ka phat tawntung ding hi. Mi khempeuh in a tawntungin ama min siangtho phat ta-te hen.
 
 **Grammar:** future: will
 

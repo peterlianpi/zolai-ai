@@ -40,9 +40,9 @@
 ### v3
 **EN:** And four great beasts came up from the sea, diverse one from another.
 
-**TDB77:** Tua ciangin tuipi sung panin a kibang lo sapi gol li a hong pusuak to uh hi.
+**TDB77:** Tua ciangin tuipi sung panin a kibang lo sapi gol li a hong pusuak to-te hi.
 
-**ZVS:** Tua ciangin tuipi sung panin a kibanglo sa golpi li hong pusuakto uh hi.
+**ZVS:** Tua ciangin tuipi sung panin a kibanglo sa golpi li hong pusuakto-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -103,9 +103,9 @@
 ### v10
 **EN:** A fiery stream issued and came forth from before him: thousand thousands ministered unto him, and ten thousand times ten thousand stood before him: the judgment was set, and the books were opened.
 
-**TDB77:** tua sung panin meikuang gunpi a hong luangkhia hi. Ama nasem ding mihing tulza om a, a mai-ah mihing tul zasawm a ding uh hi. Thukhen nading hun kipana laibute a kiphen hi.
+**TDB77:** tua sung panin meikuang gunpi a hong luangkhia hi. Ama nasem ding mihing tulza om a, a mai-ah mihing tul zasawm a ding-te hi. Thukhen nading hun kipana laibute a kiphen hi.
 
-**ZVS:** tua sung panin meikuang a hong lengkhia niloh hi. Ama nasem ding mihing tul za tampi om a, a mai-ah mihing tul za sawm tampi a ding uh hi. Thukhenna ding hun kipan a, laibute a kiphen hi.
+**ZVS:** tua sung panin meikuang a hong lengkhia niloh hi. Ama nasem ding mihing tul za tampi om a, a mai-ah mihing tul za sawm tampi a ding-te hi. Thukhenna ding hun kipan a, laibute a kiphen hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -121,9 +121,9 @@
 ### v12
 **EN:** As concerning the rest of the beasts, they had their dominion taken away: yet their lives were prolonged for a season and time.
 
-**TDB77:** Sapi dangte ahih leh a vangliatna uh kilakkhiat sak a, ahih hangin a nuntak lai nading uh hun ciangtan’ khat a kipia hi.
+**TDB77:** Sapi dangte ahih leh a vangliatna-te kilakkhiat sak a, ahih hangin a nuntak lai nading-te hun ciangtan’ khat a kipia hi.
 
-**ZVS:** Sapi dangte ahih leh a vangliatna uh kilak khiatsak a, ahih hangin a nuntak laina ding uh hun ciangtan khat a kipia hi.
+**ZVS:** Sapi dangte ahih leh a vangliatna-te kilak khiatsak a, ahih hangin a nuntak laina ding-te hun ciangtan khat a kipia hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -139,9 +139,9 @@
 ### v14
 **EN:** And there was given him dominion, and glory, and a kingdom, that all people, nations, and languages, should serve him: his dominion is an everlasting dominion, which shall not pass away, and his kingdom that which shall not be destroyed.
 
-**TDB77:** Amah in vangliatna, minthan’na leh kumpi za ngah ahih manin, minam kimte, minam tuamtuamte, paunam tuamtuamte khempeuh in ama na a sem ding uh hi. Amah in a tawntungin uk ding a, a kumpi gam a bei ngeikei ding hi.
+**TDB77:** Amah in vangliatna, minthan’na leh kumpi za ngah ahih manin, minam kimte, minam tuamtuamte, paunam tuamtuamte khempeuh in ama na a sem ding-te hi. Amah in a tawntungin uk ding a, a kumpi gam a bei ngeikei ding hi.
 
-**ZVS:** Amah in vangliatna, minthan'na, leh kumpi za ngah ahih manin minam kimte, minam tuamtuamte, paunam tuamtuamte khempeuh in ama na a sem ding uh ahi hi. Amah in a tawntungin uk ding a, a kumpi gam a bei ngei kei ding hi.
+**ZVS:** Amah in vangliatna, minthan'na, leh kumpi za ngah ahih manin minam kimte, minam tuamtuamte, paunam tuamtuamte khempeuh in ama na a sem ding-te ahi hi. Amah in a tawntungin uk ding a, a kumpi gam a bei ngei kei ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -173,9 +173,9 @@
 ### v18
 **EN:** But the saints of the most High shall take the kingdom, and possess the kingdom for ever, even for ever and ever.
 
-**TDB77:** Ahih hangin Sangpen Pasian’ mite in kumpi za a ngah ding uh a, a tawntungin a nei tawntung ding uh hi,” a ci hi.
+**TDB77:** Ahih hangin Sangpen Pasian’ mite in kumpi za a ngah ding-te a, a tawntungin a nei tawntung ding-te hi,” a ci hi.
 
-**ZVS:** Ahih hangin a Lianpen Pasian' mite in kumpi za ngah ding uh a, a tawntungin a nei paisuak ding uh hi,” hong ci hi.
+**ZVS:** Ahih hangin a Lianpen Pasian' mite in kumpi za ngah ding-te a, a tawntungin a nei paisuak ding-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -209,9 +209,9 @@
 ### v22
 **EN:** Until the Ancient of days came, and judgment was given to the saints of the most High; and the time came that the saints possessed the kingdom.
 
-**TDB77:** Tua ciangin a nungta tawntung mipa hong pai a, Sang pen Pasian’ mite ading a hoih thukhenna a hong gen hi. Pasian mite in kumpi za a ngah nading uh hun a hong tung hi.
+**TDB77:** Tua ciangin a nungta tawntung mipa hong pai a, Sang pen Pasian’ mite ading a hoih thukhenna a hong gen hi. Pasian mite in kumpi za a ngah nading-te hun a hong tung hi.
 
-**ZVS:** Tua ciangin a nungta tawntung mipa hong pai a, a Lianpen Pasian' mite-a' ding a hoih thukhenna a hong gen hi. Pasian' mite in kumpi za a ngahna ding uh hun a hong tung hi.
+**ZVS:** Tua ciangin a nungta tawntung mipa hong pai a, a Lianpen Pasian' mite-a' ding a hoih thukhenna a hong gen hi. Pasian' mite in kumpi za a ngahna ding-te hun a hong tung hi.
 
 **Grammar:** sequence: then/therefore
 
@@ -227,18 +227,18 @@
 ### v24
 **EN:** And the ten horns out of this kingdom are ten kings that shall arise: and another shall rise after them; and he shall be diverse from the first, and he shall subdue three kings.
 
-**TDB77:** Ki sawmte in tua kumpigam sung pana hong piang ding kumpi sawmte ahi uh hi. Tua ciangin kumpi dang khat hong piang leuleu ding a, amah in a om sate tawh kilamdang mahmahin kumpi thum a nuaisiah ding hi.
+**TDB77:** Ki sawmte in tua kumpigam sung pana hong piang ding kumpi sawmte ahi-te hi. Tua ciangin kumpi dang khat hong piang leuleu ding a, amah in a om sate tawh kilamdang mahmahin kumpi thum a nuaisiah ding hi.
 
-**ZVS:** “Ki sawmte pen tua kumpi gamsung panin a hong piang ding kumpi sawmte ahi uh hi. Tua ciangin kumpi dang khat hong piang leuleu ding a, amah in a omsate tawh a kilamdang mahmahin kumpi thum a nuaisiah ding hi.
+**ZVS:** “Ki sawmte pen tua kumpi gamsung panin a hong piang ding kumpi sawmte ahi-te hi. Tua ciangin kumpi dang khat hong piang leuleu ding a, amah in a omsate tawh a kilamdang mahmahin kumpi thum a nuaisiah ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And he shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws: and they shall be given into his hand until a time and times and the dividing of time.
 
-**TDB77:** Amah in Sangpen Pasian langpan’ in thu gen ding a, Pasian’ mite a bawlsia ding hi. Amah in amaute’ biakna tawh kipawl thukham leh pawi bawlna hunte kheel sak ding hanciam ding a, Pasian’ mite in ama khut sungah kumthum leh a lang a om ding uh hi.
+**TDB77:** Amah in Sangpen Pasian langpan’ in thu gen ding a, Pasian’ mite a bawlsia ding hi. Amah in amaute’ biakna tawh kipawl thukham leh pawi bawlna hunte kheel sak ding hanciam ding a, Pasian’ mite in ama khut sungah kumthum leh a lang a om ding-te hi.
 
-**ZVS:** “Amah in a Lianpen Pasian langpangin thu gen ding a, Pasian' mite a bawlsia ding hi. Amah in amaute' biakna tawh kipawl thukhamte leh pawi bawlna hunte kheelsak ding hanciam ding a, ama khutsungah kum thum leh alang sung Pasian' mite a om ding uh hi.
+**ZVS:** “Amah in a Lianpen Pasian langpangin thu gen ding a, Pasian' mite a bawlsia ding hi. Amah in amaute' biakna tawh kipawl thukhamte leh pawi bawlna hunte kheelsak ding hanciam ding a, ama khutsungah kum thum leh alang sung Pasian' mite a om ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -254,9 +254,9 @@
 ### v27
 **EN:** And the kingdom and dominion, and the greatness of the kingdom under the whole heaven, shall be given to the people of the saints of the most High, whose kingdom is an everlasting kingdom, and all dominions shall serve and obey him.
 
-**TDB77:** Hih leitung kumpigam leh, vangliatna leh liatna khempeuh Sangpen Pasian mite tungah a kipia ding hi. Amau’ kumpi za in cikmah hunin bei ngeilo ding a, leitung ukna za a nei khempeuhte in a thu uh mangin amau’ na a sem ding uh hi.
+**TDB77:** Hih leitung kumpigam leh, vangliatna leh liatna khempeuh Sangpen Pasian mite tungah a kipia ding hi. Amau’ kumpi za in cikmah hunin bei ngeilo ding a, leitung ukna za a nei khempeuhte in a thu-te mangin amau’ na a sem ding-te hi.
 
-**ZVS:** “Hih leitung kumpi gam, vangliat-na, leh liatna khempeuh a Lianpen Pasian' mite tungah a kipia ding hi. Amau' kumpi za cikmah hunin bei ngeilo ding a, leitung ukna za a nei khempeuhte in a thu uh mangin amaute' na a sem ding uh hi,” hong ci hi.
+**ZVS:** “Hih leitung kumpi gam, vangliat-na, leh liatna khempeuh a Lianpen Pasian' mite tungah a kipia ding hi. Amau' kumpi za cikmah hunin bei ngeilo ding a, leitung ukna za a nei khempeuhte in a thu-te mangin amaute' na a sem ding-te hi,” hong ci hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

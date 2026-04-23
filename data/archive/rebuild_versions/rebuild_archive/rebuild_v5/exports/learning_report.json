@@ -1,0 +1,13 @@
+{
+  "timestamp": "2026-04-16T09:51:31.759032",
+  "total_entries": 34776,
+  "paired_entries": 34776,
+  "unpaired_entries": 0,
+  "avg_confidence": 0.850864101679319,
+  "high_confidence_entries": 1055,
+  "zolai_patterns": 11022,
+  "sources": {
+    "zomidictionary": 33386,
+    "bible": 1390
+  }
+}

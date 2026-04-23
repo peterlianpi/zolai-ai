@@ -28,16 +28,16 @@
 ### v2
 **EN:** Dan, Joseph, and Benjamin, Naphtali, Gad, and Asher.
 
-**TDB77:** Dan, Josef, Benjamin, Naftali, Gad, leh Asher ahi uh hi.
+**TDB77:** Dan, Josef, Benjamin, Naftali, Gad, leh Asher ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** The sons of Judah; Er, and Onan, and Shelah: which three were born unto him of the daughter of Shua the Canaanitess. And Er, the firstborn of Judah, was evil in the sight of the
 
-**TDB77:** Judah’ tapate in: Er, Onan, leh Shelah ahi uh hi; hih thumte in Kanaan mi Bathshua tawh a neih ahi hi. Tu-in Judah’ tacil Er in Topa’ muhna ah gilo a, tua ciangin Topa in amah that hi.
+**TDB77:** Judah’ tapate in: Er, Onan, leh Shelah ahi-te hi; hih thumte in Kanaan mi Bathshua tawh a neih ahi hi. Tu-in Judah’ tacil Er in Topa’ muhna ah gilo a, tua ciangin Topa in amah that hi.
 
-**ZVS:** Judah' tapate: Er, Onan, leh Shelah ahi uh hi. Hih thumte pen Kanaan mi Bathshua tawh a neih ahi hi. Judah' tacil Er pen { Topa' } muhna-ah gamtat hoihlo ahih manin { Topa } in amah that hi.
+**ZVS:** Judah' tapate: Er, Onan, leh Shelah ahi-te hi. Hih thumte pen Kanaan mi Bathshua tawh a neih ahi hi. Judah' tacil Er pen { Topa' } muhna-ah gamtat hoihlo ahih manin { Topa } in amah that hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -53,18 +53,18 @@
 ### v5
 **EN:** The sons of Pharez; Hezron, and Hamul.
 
-**TDB77:** Perez tapate in: Hezron, leh Hamul ahi uh hi.
+**TDB77:** Perez tapate in: Hezron, leh Hamul ahi-te hi.
 
-**ZVS:** Perez' tapate: Hezron leh Hamul ahi uh hi.
+**ZVS:** Perez' tapate: Hezron leh Hamul ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all.
 
-**TDB77:** Zeran’ tapate in: Zimri, Ethan, Heman, Kalkol, leh Dara, a vekpi-in nga pha uh hi.
+**TDB77:** Zeran’ tapate in: Zimri, Ethan, Heman, Kalkol, leh Dara, a vekpi-in nga pha-te hi.
 
-**ZVS:** Zerah' tapate: Zimri, Ethan, Heman, Kalkol, leh Dara, a vekpi-in nga pha uh hi.
+**ZVS:** Zerah' tapate: Zimri, Ethan, Heman, Kalkol, leh Dara, a vekpi-in nga pha-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -85,20 +85,20 @@
 **Grammar:** sequence: then/therefore
 
 ### v9
-**EN:** The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, and Chelubai.
+**EN:** The sons also of Hezron, that were born unto him; Jerahmeel, and gam, and Chelubai.
 
-**TDB77:** Ama sung panin a suak Hezron’ tapate in: Jerahme-el, Ram, leh Khelubai ahi uh hi.
+**TDB77:** Ama sung panin a suak Hezron’ tapate in: Jerahme-el, gam, leh Khelubai ahi-te hi.
 
-**ZVS:** Ama sung panin a suak Hezron' tapate: Jerahmeel, Ram, leh Khelubai ahi uh hi.
+**ZVS:** Ama sung panin a suak Hezron' tapate: Jerahmeel, gam, leh Khelubai ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v10
-**EN:** And Ram begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;
+**EN:** And gam begat Amminadab; and Amminadab begat Nahshon, prince of the children of Judah;
 
-**TDB77:** Ram in Amminadab’ pa hi a, Amminadab in Judah tapate sung pan ulian Nahshon’ pa ahi hi.
+**TDB77:** gam in Amminadab’ pa hi a, Amminadab in Judah tapate sung pan ulian Nahshon’ pa ahi hi.
 
-**ZVS:** Ram pen Amminadab' pa hi a, Amminadab pen Judah' tapate' sung pan ulian Nahshon' pa ahi hi.
+**ZVS:** gam pen Amminadab' pa hi a, Amminadab pen Judah' tapate' sung pan ulian Nahshon' pa ahi hi.
 
 ### v11
 **EN:** And Nahshon begat Salma, and Salma begat Boaz,
@@ -136,9 +136,9 @@
 ### v16
 **EN:** Whose sisters were Zeruiah, and Abigail. And the sons of Zeruiah; Abishai, and Joab, and Asahel, three.
 
-**TDB77:** amau’ sanggamnumeite in Zeru-iah leh Abigail ahi uh hi. Zeru-iah’ tapate in: Abishai, Joab leh Asahel, thum pha uh hi.
+**TDB77:** amau’ sanggamnumeite in Zeru-iah leh Abigail ahi-te hi. Zeru-iah’ tapate in: Abishai, Joab leh Asahel, thum pha-te hi.
 
-**ZVS:** Amau' sanggam numeite Zeruiah leh Abigail ahi uh hi. Zeruiah' tapate: Abishai, Joab, leh Asahel, thum pha uh hi.
+**ZVS:** Amau' sanggam numeite Zeruiah leh Abigail ahi-te hi. Zeruiah' tapate: Abishai, Joab, leh Asahel, thum pha-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -152,9 +152,9 @@
 ### v18
 **EN:** And Caleb the son of Hezron begat children of Azubah his wife, and of Jerioth: her sons are these; Jesher, and Shobab, and Ardon.
 
-**TDB77:** Hezron’ tapa Kaleb in a zi Azubah leh Jerioth-te tawh ta nei hi; ama tapa in: Jesher, Shobab, leh Ardon ahi uh hi.
+**TDB77:** Hezron’ tapa Kaleb in a zi Azubah leh Jerioth-te tawh ta nei hi; ama tapa in: Jesher, Shobab, leh Ardon ahi-te hi.
 
-**ZVS:** Hezron' tapa Kaleb in a zi Azubah leh Jerioth tawh ta nei hi. Ama tate: Jesher, Shobab, leh Ardon ahi uh hi.
+**ZVS:** Hezron' tapa Kaleb in a zi Azubah leh Jerioth tawh ta nei hi. Ama tate: Jesher, Shobab, leh Ardon ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -189,9 +189,9 @@
 ### v23
 **EN:** And he took Geshur, and Aram, with the towns of Jair, from them, with Kenath, and the towns thereof, even threescore cities. All these belonged to the sons of Machir the father of Gilead.
 
-**TDB77:** Ahih hangin Geshur leh Aram in amaute tung panin Havvothjair khua Kenath leh a khuaneute, khua sawmguk la hi. Hihte khempeuh in Gilead’ pa Makhir’ suan leh khakte ahi uh hi.
+**TDB77:** Ahih hangin Geshur leh Aram in amaute tung panin Havvothjair khua Kenath leh a khuaneute, khua sawmguk la hi. Hihte khempeuh in Gilead’ pa Makhir’ suan leh khakte ahi-te hi.
 
-**ZVS:** Ahih hangin Geshur leh Aram in amaute tung panin Havvothjair khua leh Kenath leh a khuaneute, khua sawmguk la hi. Hihte khempeuh pen Gilead' pa Makhir' suanlekhakte ahi uh hi.
+**ZVS:** Ahih hangin Geshur leh Aram in amaute tung panin Havvothjair khua leh Kenath leh a khuaneute, khua sawmguk la hi. Hihte khempeuh pen Gilead' pa Makhir' suanlekhakte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -203,11 +203,11 @@
 **ZVS:** Hezron a sih khit ciangin Kaleb in a pa Hezron' zi Efrath luppih a, tuanu in amah tawh Tekoa khuapi a sat Ashhur a nei hi.
 
 ### v25
-**EN:** And the sons of Jerahmeel the firstborn of Hezron were, Ram the firstborn, and Bunah, and Oren, and Ozem, and Ahijah.
+**EN:** And the sons of Jerahmeel the firstborn of Hezron were, gam the firstborn, and Bunah, and Oren, and Ozem, and Ahijah.
 
-**TDB77:** Hezron’ tacil Jerahme-el’ tapate in: A tacil Ram, Bunah, Oren, Ozem, leh Ahijah ahi uh hi.
+**TDB77:** Hezron’ tacil Jerahme-el’ tapate in: A tacil gam, Bunah, Oren, Ozem, leh Ahijah ahi-te hi.
 
-**ZVS:** Hezron' tacil Jerahmeel' tapate: A tacil Ram, Bunah, Oren, leh Ahijah ahi uh hi.
+**ZVS:** Hezron' tacil Jerahmeel' tapate: A tacil gam, Bunah, Oren, leh Ahijah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -219,20 +219,20 @@
 **ZVS:** Jerahmeel in zi dang khat zong nei a, a min Atarah ahi hi. Amah pen Onam' nu ahi hi.
 
 ### v27
-**EN:** And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.
+**EN:** And the sons of gam the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.
 
-**TDB77:** Jerahme-el’ tacil Ram’ tapate in: Maaz, Jamin, leh Eker ahi uh hi.
+**TDB77:** Jerahme-el’ tacil gam’ tapate in: Maaz, Jamin, leh Eker ahi-te hi.
 
-**ZVS:** Jerahmeel' tacil Ram' tapate: Maaz, Jamin, leh Eker ahi uh hi.
+**ZVS:** Jerahmeel' tacil gam' tapate: Maaz, Jamin, leh Eker ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v28
 **EN:** And the sons of Onam were, Shammai, and Jada. And the sons of Shammai; Nadab, and Abishur.
 
-**TDB77:** Onam’ tapate in: Shammai leh Jada ahi uh hi. Shammai’ tapate in: Nadab leh Abishur ahi uh hi.
+**TDB77:** Onam’ tapate in: Shammai leh Jada ahi-te hi. Shammai’ tapate in: Nadab leh Abishur ahi-te hi.
 
-**ZVS:** Onam' tapate: Shammai leh Jada ahi uh hi. Shammai' tapate: Nadab leh Abishur ahi uh hi.
+**ZVS:** Onam' tapate: Shammai leh Jada ahi-te hi. Shammai' tapate: Nadab leh Abishur ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -246,9 +246,9 @@
 ### v30
 **EN:** And the sons of Nadab; Seled, and Appaim: but Seled died without children.
 
-**TDB77:** Nadab’ tapate in: Seled leh Appaim ahi uh hi; Seled in ta nei loin si hi.
+**TDB77:** Nadab’ tapate in: Seled leh Appaim ahi-te hi; Seled in ta nei loin si hi.
 
-**ZVS:** Nadab' tapate: Seled leh Appaim ahi uh hi. Seled in ta neiloin si hi.
+**ZVS:** Nadab' tapate: Seled leh Appaim ahi-te hi. Seled in ta neiloin si hi.
 
 **Grammar:** plural: uh marker
 
@@ -262,18 +262,18 @@
 ### v32
 **EN:** And the sons of Jada the brother of Shammai; Jether, and Jonathan: and Jether died without children.
 
-**TDB77:** Tua ciangin Shammai’ sanggampa Jada’ tapate in: Jether leh Jonathan ahi uh hi; Jether in ta nei loin si hi.
+**TDB77:** Tua ciangin Shammai’ sanggampa Jada’ tapate in: Jether leh Jonathan ahi-te hi; Jether in ta nei loin si hi.
 
-**ZVS:** Tua ciangin Shammai' sanggampa Jada' tapate: Jether leh Jonathan ahi uh hi. Jether in ta neiloin si hi.
+**ZVS:** Tua ciangin Shammai' sanggampa Jada' tapate: Jether leh Jonathan ahi-te hi. Jether in ta neiloin si hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v33
 **EN:** And the sons of Jonathan; Peleth, and Zaza. These were the sons of Jerahmeel.
 
-**TDB77:** Jonathan’ tapate in: Peleth leh Zaza ahi uh hi. Hihte in Jerahme-el’ suan leh khakte ahi uh hi.
+**TDB77:** Jonathan’ tapate in: Peleth leh Zaza ahi-te hi. Hihte in Jerahme-el’ suan leh khakte ahi-te hi.
 
-**ZVS:** Jonathan' tapate: Peleth leh Zaza ahi uh hi. Hihte pen Jerahmeel' suanlekhakte ahi uh hi.
+**ZVS:** Jonathan' tapate: Peleth leh Zaza ahi-te hi. Hihte pen Jerahmeel' suanlekhakte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -347,9 +347,9 @@
 ### v43
 **EN:** And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
 
-**TDB77:** Hebron’ tapate in: Korah, Tappuah, Rekem, leh Shema ahi uh hi.
+**TDB77:** Hebron’ tapate in: Korah, Tappuah, Rekem, leh Shema ahi-te hi.
 
-**ZVS:** Hebron' tapate: Korah, Tappuah, Rekem, leh Shema ahi uh hi.
+**ZVS:** Hebron' tapate: Korah, Tappuah, Rekem, leh Shema ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -377,9 +377,9 @@
 ### v47
 **EN:** And the sons of Jahdai; Regem, and Jotham, and Geshan, and Pelet, and Ephah, and Shaaph.
 
-**TDB77:** Jahdai’ tapate in: Regem, Jotham, Geshan, Pelet, Efah, leh Sha-af ahi uh hi.
+**TDB77:** Jahdai’ tapate in: Regem, Jotham, Geshan, Pelet, Efah, leh Sha-af ahi-te hi.
 
-**ZVS:** Jahdai' tapate: Regem, Jotham, Geshan, Pelet, Efah, leh Shaaf ahi uh hi.
+**ZVS:** Jahdai' tapate: Regem, Jotham, Geshan, Pelet, Efah, leh Shaaf ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -393,27 +393,27 @@
 ### v49
 **EN:** She bare also Shaaph the father of Madmannah, Sheva the father of Machbenah, and the father of Gibea: and the daughter of Caleb was Achsah.
 
-**TDB77:** Tua ciangin tapa nih nei leuleu a, Madmannah khuapi a sat Sha-af, leh Makbenah khuapi leh Gibea khuapi a sat Sheva ahi uh hi. Kaleb in tanu khat zong nei a, a min Aksah ahi hi.
+**TDB77:** Tua ciangin tapa nih nei leuleu a, Madmannah khuapi a sat Sha-af, leh Makbenah khuapi leh Gibea khuapi a sat Sheva ahi-te hi. Kaleb in tanu khat zong nei a, a min Aksah ahi hi.
 
-**ZVS:** Tua ciangin tapa nih nei leuleu a, Madmannah khuapi a sat Shaaf, leh Makbenah khuapi leh Gibea khuapi a sat Sheva ahi uh hi. Kaleb in tanu khat zong nei a, a min Aksah ahi hi.
+**ZVS:** Tua ciangin tapa nih nei leuleu a, Madmannah khuapi a sat Shaaf, leh Makbenah khuapi leh Gibea khuapi a sat Sheva ahi-te hi. Kaleb in tanu khat zong nei a, a min Aksah ahi hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v50
 **EN:** These were the sons of Caleb the son of Hur, the firstborn of Ephratah; Shobal the father of Kirjath–jearim,
 
-**TDB77:** Hihte in Kaleb’ suan leh khakte ahi uh hi. Kaleb’ zi Efrath’ tacil Hur’ tapate in: Kiriath-jearim khuapi a sat Shobal,
+**TDB77:** Hihte in Kaleb’ suan leh khakte ahi-te hi. Kaleb’ zi Efrath’ tacil Hur’ tapate in: Kiriath-jearim khuapi a sat Shobal,
 
-**ZVS:** Hih a nuai-ate zong Kaleb' suanlekhakte ahi uh hi. Kaleb' zi Efrath' tacil Hur' tapate: Kiriathjearim khuapi a sat Shobal,
+**ZVS:** Hih a nuai-ate zong Kaleb' suanlekhakte ahi-te hi. Kaleb' zi Efrath' tacil Hur' tapate: Kiriathjearim khuapi a sat Shobal,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v51
 **EN:** Salma the father of Beth–lehem, Hareph the father of Beth–gader.
 
-**TDB77:** Bethlehem khuapi a sat Salma, leh Bethgader khuapi a sat Haref ahi uh hi.
+**TDB77:** Bethlehem khuapi a sat Salma, leh Bethgader khuapi a sat Haref ahi-te hi.
 
-**ZVS:** Bethlehem khuapi a sat Shalma, leh Bethgader khuapi a sat Haref ahi uh hi.
+**ZVS:** Bethlehem khuapi a sat Shalma, leh Bethgader khuapi a sat Haref ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -429,9 +429,9 @@
 ### v53
 **EN:** And the families of Kirjath–jearim; the Ithrites, and the Puhites, and the Shumathites, and the Mishraites; of them came the Zorathites, and the Eshtaulites.
 
-**TDB77:** Tua ciang Kiriath-jearim khua sungah a teengte in: Ithri mite, Puth mite, Shumath mite, leh Mishrai mite ahi uh hi; hihte sung panin Zorah mite leh Estaol mite hong piang hi.
+**TDB77:** Tua ciang Kiriath-jearim khua sungah a teengte in: Ithri mite, Puth mite, Shumath mite, leh Mishrai mite ahi-te hi; hihte sung panin Zorah mite leh Estaol mite hong piang hi.
 
-**ZVS:** Tua ciangin Kiriathjearim khuasungah a tengte: Ithri mite, Puth mite, Shumath mite, leh Mishrai mite ahi uh hi. Hihte sung panin Zorah mite leh Eshtaol mite hong piang hi.
+**ZVS:** Tua ciangin Kiriathjearim khuasungah a tengte: Ithri mite, Puth mite, Shumath mite, leh Mishrai mite ahi-te hi. Hihte sung panin Zorah mite leh Eshtaol mite hong piang hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -445,9 +445,9 @@
 ### v55
 **EN:** And the families of the scribes which dwelt at Jabez; the Tirathites, the Shimeathites, and Suchathites. These are the Kenites that came of Hemath, the father of the house of Rechab.
 
-**TDB77:** Jabez-ah a teeng laithei minamte in: Tirath mite, Shimeath mite, leh Sukath mite ahi uh hi. Hihte in Rekhab minamte tawh a kiteeng Ken mite ahi uh hi.
+**TDB77:** Jabez-ah a teeng laithei minamte in: Tirath mite, Shimeath mite, leh Sukath mite ahi-te hi. Hihte in Rekhab minamte tawh a kiteeng Ken mite ahi-te hi.
 
-**ZVS:** Jabez-ah a teng laithei minamte: Tirath mite, Shimeath mite, leh Sukath mite ahi uh hi. Hihte pen Rekhab minamte tawh a kiteng Ken mite ahi uh hi.
+**ZVS:** Jabez-ah a teng laithei minamte: Tirath mite, Shimeath mite, leh Sukath mite ahi-te hi. Hihte pen Rekhab minamte tawh a kiteng Ken mite ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

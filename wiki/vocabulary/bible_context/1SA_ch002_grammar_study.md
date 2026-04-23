@@ -54,16 +54,16 @@
 
 **TDB77:** A thahatte’ thalte kitan a, ahih hangin a thanemte in thahatna ngah hi.
 
-**ZVS:** A thahatte' thalte kitan a, ahih hangin a thanemte in thahatna ngah uh hi.
+**ZVS:** A thahatte' thalte kitan a, ahih hangin a thanemte in thahatna ngah-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v5
 **EN:** They that were full have hired out themselves for bread; and they that were hungry ceased: so that the barren hath born seven; and she that hath many children is waxed feeble.
 
-**TDB77:** A gilvahte in an thalawh uh a, ahih hangin a gilkialte kial nawn lo hi. Tasel mi in ta sagih nei a, ahih hangin ta tampi a nei nu lungzuang hi.
+**TDB77:** A gilvahte in an thalawh-te a, ahih hangin a gilkialte kial nawn lo hi. Tasel mi in ta sagih nei a, ahih hangin ta tampi a nei nu lungzuang hi.
 
-**ZVS:** A gilvahte in an thalawh uh a, ahih hangin a gilkialte kial nawnlo uh hi. Tasel mi in ta sagih nei a, ahih hangin ta tampi a neinu a lungzuang hi.
+**ZVS:** A gilvahte in an thalawh-te a, ahih hangin a gilkialte kial nawnlo-te hi. Tasel mi in ta sagih nei a, ahih hangin ta tampi a neinu a lungzuang hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -120,27 +120,27 @@
 ### v12
 **EN:** Now the sons of Eli were sons of Belial; they knew not the
 
-**TDB77:** Tu-in Eli’ tapate in bangmah man lo mite ahi uh hi; amaute in Topa zahtakna nei lo uh hi.
+**TDB77:** Tu-in Eli’ tapate in bangmah man lo mite ahi-te hi; amaute in Topa zahtakna nei lo-te hi.
 
-**ZVS:** Eli' tapate pen bangmah a manlo mite ahi uh hi. Amaute in { Topa } zahtakna neilo uh hi.
+**ZVS:** Eli' tapate pen bangmah a manlo mite ahi-te hi. Amaute in { Topa } zahtakna neilo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v13
 **EN:** And the priests' custom with the people was, that, when any man offered sacrifice, the priest's servant came, while the flesh was in seething, with a fleshhook of three teeth in his hand;
 
-**TDB77:** Mite tungah siampite gamtatzia ding ngeinate don lo uh hi. Mi khatpeuh in biakna a piak ciangin a sa a huan lai takin siampipa’ nasempa sikkeu-ka-thum nei khat in a khut-ah tawi-in hong pai a,
+**TDB77:** Mite tungah siampite gamtatzia ding ngeinate don lo-te hi. Mi khatpeuh in biakna a piak ciangin a sa a huan lai takin siampipa’ nasempa sikkeu-ka-thum nei khat in a khut-ah tawi-in hong pai a,
 
-**ZVS:** Mite' tungah siampite' gamtat zia ding ngeinate donlo uh hi. Mi khatpeuh in biakna a piak ciangin a sa a huan laitakin siampipa' nasempa sikkeu-ka-thum nei khat a khutah tawi-in hong pai a,
+**ZVS:** Mite' tungah siampite' gamtat zia ding ngeinate donlo-te hi. Mi khatpeuh in biakna a piak ciangin a sa a huan laitakin siampipa' nasempa sikkeu-ka-thum nei khat a khutah tawi-in hong pai a,
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v14
 **EN:** And he struck it into the pan, or kettle, or caldron, or pot; all that the fleshhook brought up the priest took for himself. So they did in Shiloh unto all the Israelites that came thither.
 
-**TDB77:** amah in a sikkeu tawh sikbeel dai ahi a, beel-uk ahi a, beelpi ahi a, beel sungah ahi zongin sun suk hi; sikkeuka in a kaihkhiat toh khempeuh siampipa in tang hi. Tua ahih ciangin Shiloh-ah a pai Israelte khempeuh tungah amaute in tua bangin hih uh hi.
+**TDB77:** amah in a sikkeu tawh sikbeel dai ahi a, beel-uk ahi a, beelpi ahi a, beel sungah ahi zongin sun suk hi; sikkeuka in a kaihkhiat toh khempeuh siampipa in tang hi. Tua ahih ciangin Shiloh-ah a pai Israelte khempeuh tungah amaute in tua bangin hih-te hi.
 
-**ZVS:** amah in a sikkeu tawh sikbeel dai ahi a, beel-uk ahi a, beelpi ahi a, beel sungah ahi zongin sunsuk hi. Sikkeuka in a kaihkhiattoh khempeuh siampipa in tang ding hi. Tua ahih ciangin Shiloh-ah a pai Israel-te khempeuh tungah amaute in tua bangin hih uh hi.
+**ZVS:** amah in a sikkeu tawh sikbeel dai ahi a, beel-uk ahi a, beelpi ahi a, beel sungah ahi zongin sunsuk hi. Sikkeuka in a kaihkhiattoh khempeuh siampipa in tang ding hi. Tua ahih ciangin Shiloh-ah a pai Israel-te khempeuh tungah amaute in tua bangin hih-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -156,18 +156,18 @@
 ### v16
 **EN:** And if any man said unto him, Let them not fail to burn the fat presently, and then take as much as thy soul desireth; then he would answer him, Nay; but thou shalt give it me now: and if not, I will take it by force.
 
-**TDB77:** Tua ciangin mipa in ama kiangah, “A thau hal masasak in la, tua khit ciangin na deih zahzah la in,” a cih leh, amah in, “Hi lo hi, tu mahmah in nong pia ding uh hi; tua hi kei leh thatang hat thu-in kong laksak ding hi,” a ci ding hi.
+**TDB77:** Tua ciangin mipa in ama kiangah, “A thau hal masasak in la, tua khit ciangin na deih zahzah la in,” a cih leh, amah in, “Hi lo hi, tu mahmah in nong pia ding-te hi; tua hi kei leh thatang hat thu-in kong laksak ding hi,” a ci ding hi.
 
-**ZVS:** Tua ciangin mipa in ama kiangah, “A thau hong hal masa sak in la, tua khit ciangin na deih zahzah la in,” ci leh, amah in, “Hilo hi; tu mahmahin nong pia ding uh hi. Tua hi kei leh thatanghat thu-in kong laksak ding hi,” a ci hi.
+**ZVS:** Tua ciangin mipa in ama kiangah, “A thau hong hal masa sak in la, tua khit ciangin na deih zahzah la in,” ci leh, amah in, “Hilo hi; tu mahmahin nong pia ding-te hi. Tua hi kei leh thatanghat thu-in kong laksak ding hi,” a ci hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Wherefore the sin of the young men was very great before the
 
-**TDB77:** Tua ahih ciangin Topa muhna-ah tangvalte’ khialhna lian mahmah hi; bang hang hiam cih leh mite in thusim lohna tawh Topa tungah biakpiaknate hih uh hi.
+**TDB77:** Tua ahih ciangin Topa muhna-ah tangvalte’ khialhna lian mahmah hi; bang hang hiam cih leh mite in thusim lohna tawh Topa tungah biakpiaknate hih-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa' } muhna-ah tangvalte' khialhna lian mahmah hi; bang hang hiam cih leh amaute in { Topa' } tungah biakpiaknate thupi sehlo uh hi.
+**ZVS:** Tua ahih ciangin { Topa' } muhna-ah tangvalte' khialhna lian mahmah hi; bang hang hiam cih leh amaute in { Topa' } tungah biakpiaknate thupi sehlo-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | plural: uh marker
 
@@ -190,9 +190,9 @@
 ### v20
 **EN:** And Eli blessed Elkanah and his wife, and said, The
 
-**TDB77:** Tua ciangin Eli in Elkanah leh a zi thupha pia-in, “Amah in Topa tungah a piak taang dingin Topa in hih numei tawh nang ta hong neisak hi,” a ci hi; tua ciangin a inn uhah amaute ciah uh hi.
+**TDB77:** Tua ciangin Eli in Elkanah leh a zi thupha pia-in, “Amah in Topa tungah a piak taang dingin Topa in hih numei tawh nang ta hong neisak hi,” a ci hi; tua ciangin a inn uhah amaute ciah-te hi.
 
-**ZVS:** Tua ciangin Eli in Elkanah leh a zi thupha pia-in, “Amah in { Topa' } tungah a apkik a ta' tangdingin { Topa } in hih numei tawh nang ta dang hong neisak ding hi,” a ci hi. Tua ciangin a inn uhah amaute a ciah uh hi.
+**ZVS:** Tua ciangin Eli in Elkanah leh a zi thupha pia-in, “Amah in { Topa' } tungah a apkik a ta' tangdingin { Topa } in hih numei tawh nang ta dang hong neisak ding hi,” a ci hi. Tua ciangin a inn uhah amaute a ciah-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -217,9 +217,9 @@
 ### v23
 **EN:** And he said unto them, Why do ye such things? for I hear of your evil dealings by all this people.
 
-**TDB77:** Amah in amaute kiangah, “Bang hangin tua bangin gamta na hi uh hiam? Bang hang hiam cih leh mi khempeuh tung panin na gamtat siatnate uh ka za hi.
+**TDB77:** Amah in amaute kiangah, “Bang hangin tua bangin gamta na hi-te hiam? Bang hang hiam cih leh mi khempeuh tung panin na gamtat siatnate-te ka za hi.
 
-**ZVS:** Amah in amaute kiangah, “Bang hangin tua bangin gamta na hi uh hiam? Mi khempeuh tung panin na gamtat siatnate uh ka za hi.
+**ZVS:** Amah in amaute kiangah, “Bang hangin tua bangin gamta na hi-te hiam? Mi khempeuh tung panin na gamtat siatnate-te ka za hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -235,9 +235,9 @@
 ### v25
 **EN:** If one man sin against another, the judge shall judge him: but if a man sin against the
 
-**TDB77:** Mi khat in mi dang khat tungah a khialh leh ama adingin Pasian in pa-lai sem ding hi; ahih hangin mi khat Topa tungah khial leh ama adingin kua in va thuumsak ding ahi hiam?” a ci hi. Ahih hangin amaute in a pa’ thu ngai lo uh hi; bang hang hiam cih leh tua in amaute a thah nadingin Topa deihna ahi hi.
+**TDB77:** Mi khat in mi dang khat tungah a khialh leh ama adingin Pasian in pa-lai sem ding hi; ahih hangin mi khat Topa tungah khial leh ama adingin kua in va thuumsak ding ahi hiam?” a ci hi. Ahih hangin amaute in a pa’ thu ngai lo-te hi; bang hang hiam cih leh tua in amaute a thah nadingin Topa deihna ahi hi.
 
-**ZVS:** Mi khat midang khat tungah a khialh leh ama-a' dingin thukhente in palai sem ding hi. Ahih hangin mi khat { Topa' } tungah khial leh ama-a' dingin kua in va thumsak ding ahi hiam?” a ci hi. Ahih hangin amaute in a pa' thu ngailo uh hi. Bang hang hiam cih leh tua pen amaute a thahna dingin { Topa' } deihna ahi hi.
+**ZVS:** Mi khat midang khat tungah a khialh leh ama-a' dingin thukhente in palai sem ding hi. Ahih hangin mi khat { Topa' } tungah khial leh ama-a' dingin kua in va thumsak ding ahi hiam?” a ci hi. Ahih hangin amaute in a pa' thu ngailo-te hi. Bang hang hiam cih leh tua pen amaute a thahna dingin { Topa' } deihna ahi hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | negation: lo | plural: uh marker
 
@@ -309,16 +309,16 @@
 
 **TDB77:** Ka biakna tau panin ka suksiat loh na mipa pen mit lawt dongin a kap ding leh a lunggim dingin kikoih ding hi; tua ciangin na inn sung panin a khang khempeuh mite’ namsau tawh si ding hi.
 
-**ZVS:** Ka biakna tau panin ka suksiatloh na suante khat pen mitlawt dongin a kap ding leh a lunggim dingin kikoih ding hi. Tua ciangin na innsung panin a khang khempeuh, mite' namsau tawh si ding uh hi.
+**ZVS:** Ka biakna tau panin ka suksiatloh na suante khat pen mitlawt dongin a kap ding leh a lunggim dingin kikoih ding hi. Tua ciangin na innsung panin a khang khempeuh, mite' namsau tawh si ding-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v34
 **EN:** And this shall be a sign unto thee, that shall come upon thy two sons, on Hophni and Phinehas; in one day they shall die both of them.
 
-**TDB77:** Na tapa nihte, Hofni leh Finehas tungah hong tung ding hih thu in nang adingin lim hi ding hi: amaute gel a ni kikhatin si ding uh hi.
+**TDB77:** Na tapa nihte, Hofni leh Finehas tungah hong tung ding hih thu in nang adingin lim hi ding hi: amaute gel a ni kikhatin si ding-te hi.
 
-**ZVS:** Na tapa nihte, Hofni leh Finehas tungah hong tung ding hih thu pen nang-a' dingin lim hi ding hi. Amaute gel a ni kikhatin si ding uh hi.
+**ZVS:** Na tapa nihte, Hofni leh Finehas tungah hong tung ding hih thu pen nang-a' dingin lim hi ding hi. Amaute gel a ni kikhatin si ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -334,9 +334,9 @@
 ### v36
 **EN:** And it shall come to pass, that every one that is left in thine house shall come and crouch to him for a piece of silver and a morsel of bread, and shall say, Put me, I pray thee, into one of the priests' offices, that I may eat a piece of bread.
 
-**TDB77:** Na inn sung panin a suakta mite khempeuh ngun peek khat ahi a, anlum lum khat ngen ding ahi zongin ama kiangah pai-in, “An tawm ka nek theih nadingin siampipa omna mun khat peuhpeuh ah kei hong koih in, ci-in kong thum hi,” ci ding uh hi,’ a ci hi,” ci-in a gen hi.
+**TDB77:** Na inn sung panin a suakta mite khempeuh ngun peek khat ahi a, anlum lum khat ngen ding ahi zongin ama kiangah pai-in, “An tawm ka nek theih nadingin siampipa omna mun khat peuhpeuh ah kei hong koih in, ci-in kong thum hi,” ci ding-te hi,’ a ci hi,” ci-in a gen hi.
 
-**ZVS:** Na suanlekhak a suakta mite khempeuh ngun peek khat ahi a, anlum lum khat ngen ding ahi zongin ama kiangah pai-in, “An tawm ka neih theihna dingin siampipa' omna mun khat peuhpeuhah kei hong koih in, ci-in kong thum hi,” ci ding uh hi,’ ci hi,” ci-in a gen hi.
+**ZVS:** Na suanlekhak a suakta mite khempeuh ngun peek khat ahi a, anlum lum khat ngen ding ahi zongin ama kiangah pai-in, “An tawm ka neih theihna dingin siampipa' omna mun khat peuhpeuhah kei hong koih in, ci-in kong thum hi,” ci ding-te hi,’ ci hi,” ci-in a gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

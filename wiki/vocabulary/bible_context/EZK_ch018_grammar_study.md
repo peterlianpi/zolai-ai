@@ -44,9 +44,9 @@
 ### v3
 **EN:** As I live, saith the Lord
 
-**TDB77:** Keimah in a nungta Topa Pasian ka hih mah bangin kong genin ah: Israel gam sungah hih paunak na zang nawn kei ding uh hi.
+**TDB77:** Keimah in a nungta Topa Pasian ka hih mah bangin kong genin ah: Israel gam sungah hih paunak na zang nawn kei ding-te hi.
 
-**ZVS:** Kei pen a nungta Topa { Pasian } ka hih mah bangin kong genin-ah: Israel gamsungah hih paunak na zang nawn kei ding uh hi.
+**ZVS:** Kei pen a nungta Topa { Pasian } ka hih mah bangin kong genin-ah: Israel gamsungah hih paunak na zang nawn kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -188,7 +188,7 @@
 
 **TDB77:** “Ahi zongin, ‘Bang hangin a pa’ mawhna a tapa in thuak lo ding ahi hiam?’ nong ci kha ding hi. A tapa a hoih, a manin a gamtatna hang ahi hi. Amah in ka thukhamte kemin hoih takin zui hi. Tua ahih manin pel loin amah nungta ding hi.
 
-**ZVS:** “Ahi zongin, ‘Bang hangin a pa' mawhna a tapa in thuaklo ding ahi hiam?’ nong ci khading uh hi. A tapa a hoih a manin a gamtatna hang ahi hi. Amah in ka thukhamte kemin hoihtakin zui hi. Tua ahih manin pelloin amah nungta ding hi.
+**ZVS:** “Ahi zongin, ‘Bang hangin a pa' mawhna a tapa in thuaklo ding ahi hiam?’ nong ci khading-te hi. A tapa a hoih a manin a gamtatna hang ahi hi. Amah in ka thukhamte kemin hoihtakin zui hi. Tua ahih manin pelloin amah nungta ding hi.
 
 **Grammar:** future: will | causal: because
 
@@ -222,7 +222,7 @@
 
 **TDB77:** Mi gilo khat a si ka muh ciangin a lungdam dingin hong ngaihsun na hi hiam? Ka lung dam het lo hi. Amah hong kisikin a nuntak ding pen keima deih ahi zaw hi.
 
-**ZVS:** Migilo khat a si ka muh ciangin a lungdam dingin hong ngaihsun na hi uh hiam? Ka lung dam hetlo hi. Amah hong kisikin a nuntak ding pen keima deih ahi zaw hi.
+**ZVS:** Migilo khat a si ka muh ciangin a lungdam dingin hong ngaihsun na hi-te hiam? Ka lung dam hetlo hi. Amah hong kisikin a nuntak ding pen keima deih ahi zaw hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix
 
@@ -238,9 +238,9 @@
 ### v25
 **EN:** Yet ye say, The way of the Lord is not equal. Hear now, O house of Israel; Is not my way equal? are not your ways unequal?
 
-**TDB77:** “Ahi zongin note in, ‘Topa’ hihna zia man lo hi,’ na ci uh hi. Israel mite aw, ka thugen hong ngai un. Keima hihna zia a man loin ngaihsun na hi uh hiam? A man lo pen nomau’ ngaihsutna zia hi zaw hi.
+**TDB77:** “Ahi zongin note in, ‘Topa’ hihna zia man lo hi,’ na ci-te hi. Israel mite aw, ka thugen hong ngai un. Keima hihna zia a man loin ngaihsun na hi-te hiam? A man lo pen nomau’ ngaihsutna zia hi zaw hi.
 
-**ZVS:** “Ahi zongin note in, ‘{ Topa' } hihna zia manlo hi,’ na ci uh hi. Israel mite aw, ka thugen hong ngai un. Keima hihna zia a manloin ngaihsun na hi uh hiam? A manlo pen nomau' ngaihsutna zia hizaw hi.
+**ZVS:** “Ahi zongin note in, ‘{ Topa' } hihna zia manlo hi,’ na ci-te hi. Israel mite aw, ka thugen hong ngai un. Keima hihna zia a manloin ngaihsun na hi-te hiam? A manlo pen nomau' ngaihsutna zia hizaw hi.
 
 **Grammar:** quotative: said/saying | negation: lo | plural: uh marker
 
@@ -274,9 +274,9 @@
 ### v29
 **EN:** Yet saith the house of Israel, The way of the Lord is not equal. O house of Israel, are not my ways equal? are not your ways unequal?
 
-**TDB77:** Ahi zongin no Israel mite in, ‘Topa’ hihna zia man lo hi,’ na ci uh hi. Israel mite aw, keima’ hihna zia man lo ahi zenzen hiam? A man lo pen nomau’ ngaihsutna zia hi zaw hi.
+**TDB77:** Ahi zongin no Israel mite in, ‘Topa’ hihna zia man lo hi,’ na ci-te hi. Israel mite aw, keima’ hihna zia man lo ahi zenzen hiam? A man lo pen nomau’ ngaihsutna zia hi zaw hi.
 
-**ZVS:** Ahi zongin no Israel mite in, ‘{ Topa' } hihna zia manlo hi,’ na ci uh hi. Israel mite aw, keima hihna zia manlo ahi zenzen hiam? A manlo pen nomau' ngaihsutna zia hizaw hi.
+**ZVS:** Ahi zongin no Israel mite in, ‘{ Topa' } hihna zia manlo hi,’ na ci-te hi. Israel mite aw, keima hihna zia manlo ahi zenzen hiam? A manlo pen nomau' ngaihsutna zia hizaw hi.
 
 **Grammar:** quotative: said/saying | negation: lo | plural: uh marker
 
@@ -292,16 +292,16 @@
 ### v31
 **EN:** Cast away from you all your transgressions, whereby ye have transgressed; and make you a new heart and a new spirit: for why will ye die, O house of Israel?
 
-**TDB77:** Na gamtatnasa uh mawhna khempeuh nusia un la, na lungsim leh na ngaihsutna uh thaksuahsak un. Bang hangin no Israel mite si nuam na hi uh hiam?
+**TDB77:** Na gamtatnasa-te mawhna khempeuh nusia un la, na lungsim leh na ngaihsutna-te thaksuahsak un. Bang hangin no Israel mite si nuam na hi-te hiam?
 
-**ZVS:** Na gamtatnasa uh mawhna khempeuh nusia un la, na lungsim uh leh na ngaihsutna uh thaksuaksak un. Bang hangin no Israel mite si nuam na hi uh hiam?
+**ZVS:** Na gamtatnasa-te mawhna khempeuh nusia un la, na lungsim-te leh na ngaihsutna-te thaksuaksak un. Bang hangin no Israel mite si nuam na hi-te hiam?
 
 ### v32
 **EN:** For I have no pleasure in the death of him that dieth, saith the Lord
 
-**TDB77:** Kuama’ sih ding ka deih kei hi. Tua ahih manin na mawh gamtatna uh khawl un la, nungta un. Topa Pasian in ci hi,” hong ci hi.
+**TDB77:** Kuama’ sih ding ka deih kei hi. Tua ahih manin na mawh gamtatna-te khawl un la, nungta un. Topa Pasian in ci hi,” hong ci hi.
 
-**ZVS:** Kuama sih ding ka deih kei hi. Tua ahih manin na mawh gamtatna uh khawlin nungta un, Topa { Pasian } in ci hi,” a hong ci hi.
+**ZVS:** Kuama sih ding ka deih kei hi. Tua ahih manin na mawh gamtatna-te khawlin nungta un, Topa { Pasian } in ci hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | negation: kei | causal: because
 

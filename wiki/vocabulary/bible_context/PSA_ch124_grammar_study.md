@@ -23,7 +23,7 @@
 ### v1
 **EN:** If it had not been the
 
-**TDB77:** Ei lam-ah Topa, hong pang lo hi leh, Israelte in tu-in ci ta uh hen—
+**TDB77:** Ei lam-ah Topa, hong pang lo hi leh, Israelte in tu-in ci ta-te hen—
 
 **ZVS:** Israel mite aw, { Topa } in hong pan'pihlo hi leh i tuah ding thu thei un.
 
@@ -41,9 +41,9 @@
 ### v3
 **EN:** Then they had swallowed us up quick, when their wrath was kindled against us:
 
-**TDB77:** ei tunga amau hehna a kisosuah ciangin amaute in eite a hingin hong nawmvalh khin ding uh hi;
+**TDB77:** ei tunga amau hehna a kisosuah ciangin amaute in eite a hingin hong nawmvalh khin ding-te hi;
 
-**ZVS:** eite' tungah a hehna uh a kisosuah ciangin amaute in eite a hingin hong nawmvalh khin ding uh hi.
+**ZVS:** eite' tungah a hehna-te a kisosuah ciangin amaute in eite a hingin hong nawmvalh khin ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

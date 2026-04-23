@@ -90,7 +90,7 @@
 **Related:** edom, iram, hihte, min, vawh
 **CEFR:** A1
 **Usage:** Attested 186× across 4 Bible books.
-> *leh Iram ahi uh hi; hihte in Edom ukpite ahi uh hi.*
+> *leh Iram ahi-te hi; hihte in Edom ukpite ahi-te hi.*
 > `1CH 1:54`
 
 ### magog
@@ -273,7 +273,7 @@
 **Related:** zongin, hang, cih, nawnlo, teng
 **CEFR:** A1
 **Usage:** Attested 4760× across 49 Bible books.
-> *Tui tunga tuiphuan laam bangin a kumpipa uh maimang ding hi.*
+> *Tui tunga tuiphuan laam bangin a kumpipa-te maimang ding hi.*
 > → As for Samaria, her king is cut off as the foam upon the water.
 > `HOS 10:7`
 
@@ -294,7 +294,7 @@
 **Related:** sila, nangma, muhna, pia, kote
 **CEFR:** A1
 **Usage:** Attested 192× across 2 Bible books.
-> *Faro' sila ka hi ding uh a*
+> *Faro' sila ka hi ding-te a*
 
 ### maingat
 **[n]** faces
@@ -310,7 +310,7 @@
 **Related:** kumpipa, leilam, tawntung, israel, dong
 **CEFR:** A1
 **Usage:** Attested 660× across 12 Bible books.
-> *lei maingatin a kunsuk uh hi.*
+> *lei maingatin a kunsuk-te hi.*
 
 ### maipha
 **[n]** sight
@@ -359,7 +359,7 @@
 **Related:** maisak, maisakna hunpiakna, maisak theihzia, maisan bembam, maisak nadinga kithoih
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *“Kum sagih a cin’ simin maisakna na pia ding uh hi.*
+> *“Kum sagih a cin’ simin maisakna na pia ding-te hi.*
 > → At the end of every seven years thou shalt make a release.
 > `DEU 15:1`
 
@@ -386,7 +386,7 @@
 **Related:** cih, mu, hang, lei, note
 **CEFR:** A1
 **Usage:** Attested 11547× across 69 Bible books.
-> *maitang li leh kha li nei ciat uh hi.*
+> *maitang li leh kha li nei ciat-te hi.*
 > → And every one had four faces, and every one had four wings.
 > `EZK 1:6`
 
@@ -410,7 +410,7 @@
 **Related:** thuak, mindaina, hang, cih, ngah
 **CEFR:** A1
 **Usage:** Attested 6025× across 59 Bible books.
-> *“Ha, ha!” a cite, a maizumna uh tawh maikhingsak in!*
+> *“Ha, ha!” a cite, a maizumna-te tawh maikhingsak in!*
 > → Let them be turned back for a reward of their shame that say, Aha, aha.
 > `PSA 70:3`
 
@@ -519,11 +519,11 @@
 
 ### maaz
 **[n]** jerahmeel
-**Meanings:** jerahmeel | ram | firstborn | maaz | jamin | sons
+**Meanings:** jerahmeel | gam | firstborn | maaz | jamin | sons
 **CEFR:** A2
 **Usage:** Attested 55× across 2 Bible books.
-> *Jerahmeel' tacil Ram' tapate: Maaz, Jamin, leh Eker ahi uh hi.*
-> → And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.
+> *Jerahmeel' tacil gam' tapate: Maaz, Jamin, leh Eker ahi-te hi.*
+> → And the sons of gam the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.
 
 ### madawkah
 **[]** set
@@ -684,7 +684,7 @@
 **Related:** david, leilakah, thuciamna, mai, singkuang
 **CEFR:** A2
 **Usage:** Attested 520× across 4 Bible books.
-> *Ashdod mite a zing ciang zingsang tungin a thawh uh ciangin*
+> *Ashdod mite a zing ciang zingsang tungin a thawh-te ciangin*
 
 ### maisuah
 **[n]** more
@@ -744,7 +744,7 @@
 **Meanings:** eleventh | machbanai | jeremiah | tenth
 **CEFR:** A2
 **Usage:** Attested 35× across 2 Bible books.
-> *a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi uh hi.*
+> *a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi-te hi.*
 > → Jeremiah the tenth, Machbanai the eleventh.
 > `1CH 12:13`
 
@@ -759,7 +759,7 @@
 **[]** michael
 **Meanings:** michael | ispah | joha | sons | beriah
 **CEFR:** A2
-> *Makhael, Ishpah, leh Joha in Beriah’ tapate ahi uh hi.*
+> *Makhael, Ishpah, leh Joha in Beriah’ tapate ahi-te hi.*
 > → And Michael, and Ispah, and Joha, the sons of Beriah;
 > `1CH 8:16`
 
@@ -806,7 +806,7 @@
 **[]** malchiram
 **Meanings:** malchiram | pedaiah | shenazar | jecamiah | hoshama | nedabiah
 **CEFR:** A2
-> *Malkhiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, leh Nedabia ahi uh hi;*
+> *Malkhiram, Pedaiah, Shenazzar, Jekamiah, Hoshama, leh Nedabia ahi-te hi;*
 > → Malchiram also, and Pedaiah, and Shenazar, Jecamiah, Hoshama, and Nedabiah.
 > `1CH 3:18`
 
@@ -833,7 +833,7 @@
 **Meanings:** malluch | benjamin | son | hattush | sons | abdi
 **CEFR:** A2
 **Usage:** Attested 90× across 2 Bible books.
-> *Malluk, Harim, Baanah-te ahi uh hi.*
+> *Malluk, Harim, Baanah-te ahi-te hi.*
 > → Malluch, Harim, Baanah.
 > `NEH 10:27`
 
@@ -931,7 +931,7 @@
 **Meanings:** madmenah | removed | inhabitants | gebim | gather | themselves
 **CEFR:** B1
 **Usage:** Attested 55× across 2 Bible books.
-> *Gebim khua-a teeng mite suakta dingin tai uh hi.*
+> *Gebim khua-a teeng mite suakta dingin tai-te hi.*
 > `ISA 10:31`
 
 ### mahershalalhasbaz
@@ -959,7 +959,7 @@
 **Related:** gimna, thuak, jesuh, note, hang
 **CEFR:** B1
 **Usage:** Attested 759× across 15 Bible books.
-> *Migilote a khan' tawnun khial uh hi. A suah tung*
+> *Migilote a khan' tawnun khial-te hi. A suah tung*
 
 ### maikhingsak
 **[v]** aha
@@ -968,7 +968,7 @@
 **Related:** zahhuaina, vialte, cite, maizumna
 **CEFR:** B1
 **Usage:** Attested 114× across 3 Bible books.
-> *“Ha, ha!” a cite, a maizumna uh tawh maikhingsak in!*
+> *“Ha, ha!” a cite, a maizumna-te tawh maikhingsak in!*
 > → Let them be turned back for a reward of their shame that say, Aha, aha.
 > `PSA 70:3`
 
@@ -1008,7 +1008,7 @@
 **Synonyms:** donlohna, gumsak
 **CEFR:** B1
 **Usage:** Attested 160× across 4 Bible books.
-> *a maiput uh laumai ding uh hi.*
+> *a maiput-te laumai ding-te hi.*
 
 ### maisa
 **[]** desolations
@@ -1129,7 +1129,7 @@
 **Variants:** siangsinsen; (v) piipsak, mitsiipsak, pil tuak
 **CEFR:** B1
 **Usage:** Adjective — place before noun or after verb as predicate.
-> *A khete uh mam zeza*
+> *A khete-te mam zeza*
 
 ### mamsak
 **[v]** made
@@ -1166,7 +1166,7 @@
 **Related:** teng, israel, sungah, minam, sung
 **CEFR:** B1
 **Usage:** Attested 1224× across 27 Bible books.
-> *Ka neihsa teng uh gamdang mite' khutsungah tung mangkhin*
+> *Ka neihsa teng-te gamdang mite' khutsungah tung mangkhin*
 
 ### manglian
 **[]** hezekiah
@@ -1302,7 +1302,7 @@
 **Related:** sunga, tuni, nuai, mangte, dong
 **CEFR:** B2
 **Usage:** Attested 102× across 2 Bible books.
-> *“Bang hangin tuni-in maimial na hi uh hiam?” a ci hi.*
+> *“Bang hangin tuni-in maimial na hi-te hiam?” a ci hi.*
 
 ### maitangah
 **[n]** pained
@@ -1310,7 +1310,7 @@
 **Related:** koih, mawhnate, mai, simnate, khialh
 **CEFR:** B2
 **Usage:** Attested 213× across 7 Bible books.
-> *Nangmah in ka mawhnate uh na mai-ah na koih*
+> *Nangmah in ka mawhnate-te na mai-ah na koih*
 
 ### maksim
 **[n]** minded
@@ -1469,7 +1469,7 @@
 **Meanings:** hedges | locusts | captains | great | grasshoppers | camp
 **CEFR:** B2
 **Usage:** Attested 130× across 2 Bible books.
-> *Na uliante uh ahih leh*
+> *Na uliante-te ahih leh*
 
 ### micing
 **[n]** watch
@@ -1542,7 +1542,7 @@
 **Meanings:** offer | evil | blind | sacrifice | lame | sick
 **CEFR:** B2
 **Usage:** Attested 110× across 2 Bible books.
-> *Ganhing a mittawpite tawh kei nong biak uh ciangin*
+> *Ganhing a mittawpite tawh kei nong biak-te ciangin*
 
 ### molakna
 **[]** missing
@@ -1563,7 +1563,7 @@
 **[n]** missing
 **CEFR:** B2
 **Usage:** Attested 10× across 2 Bible books.
-> *tua hun ciangin amaute in an a tang ding uh hi.*
+> *tua hun ciangin amaute in an a tang ding-te hi.*
 
 ### moreseth
 **[]** give
@@ -1616,7 +1616,7 @@
 **Meanings:** wherewith | plague
 **CEFR:** B2
 **Usage:** Attested 15× across 2 Bible books.
-> *a mitkua sung uhah a mittangte uh muatin*
+> *a mitkua sung uhah a mittangte-te muatin*
 
 ### munuam
 **[n]** brother
@@ -1730,7 +1730,7 @@
 **Meanings:** island | knew | called | escaped | melita
 **CEFR:** C1
 **Usage:** Attested 45× across 2 Bible books.
-> *Ka suahtak khit uh ciangin Malta tuikulh gam hi cih*
+> *Ka suahtak khit-te ciangin Malta tuikulh gam hi cih*
 > `ACT 28:1`
 
 ### manason
@@ -1898,7 +1898,7 @@
 **[n]** kinsfolk
 **Meanings:** kinsfolk | journey | sought | among | acquaintance | supposing
 **CEFR:** C1
-> *Meeltheihte in ka nu mawhsak uh hi.*
+> *Meeltheihte in ka nu mawhsak-te hi.*
 
 ### meengmeenga
 **[]** hastily

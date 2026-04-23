@@ -18,9 +18,9 @@
 **Context:** A compound ordinal number (sawm 'ten' + le 'and' + khat 'one').
 **Example:** a sawm-le-khatna Makbannai
 
-### ahi uh hi = they were
+### ahi-te hi = they were
 **Context:** A common copula structure indicating past tense plural identity.
-**Example:** ahi uh hi.
+**Example:** ahi-te hi.
 
 ### Hih = These
 **Context:** Demonstrative pronoun referring to the preceding group.
@@ -42,9 +42,9 @@
 **Context:** Used after a number to mean 'over' or 'more than' that quantity.
 **Example:** zakhat val
 
-### uk uh hi = they ruled/commanded
+### uk-te hi = they ruled/commanded
 **Context:** Verb indicating command or rule over the specified number.
-**Example:** tulkhat val uk uh hi.
+**Example:** tulkhat val uk-te hi.
 
 ### piau khempeuh = all the banks/edges (of the river)
 **Context:** Describing the extent of the overflowing river.
@@ -64,7 +64,7 @@
 
 ### taisak mite = those who put to flight
 **Context:** Causative verb form indicating they caused others to flee.
-**Example:** a taisak mite ahi uh hi.
+**Example:** a taisak mite ahi-te hi.
 
 ### pawlkhat = some (of)
 **Context:** Indicates a portion of a larger group.
@@ -140,11 +140,11 @@
 
 ### thu kikupna = counsel/agreement/consultation
 **Context:** The decision-making process of the Philistine lords.
-**Example:** thu kikupna khat nei uh a
+**Example:** thu kikupna khat nei-te a
 
 ### siat nadingin = for the destruction/harm of
 **Context:** The perceived negative outcome if David were allowed to join them.
-**Example:** a topa Saul kiangah David tai ding hi,” ci-in amah sawl khia uh hi.
+**Example:** a topa Saul kiangah David tai ding hi,” ci-in amah sawl khia-te hi.
 
 ### a beelte = those who defected to him
 **Context:** Referring to the soldiers who joined David.
@@ -152,11 +152,11 @@
 
 ### mi a tul-in a ukte = captains of the thousands
 **Context:** A specific military rank designation (tul = thousand).
-**Example:** Manasseh sungah mi a tul-in a ukte ahi uh hi.
+**Example:** Manasseh sungah mi a tul-in a ukte ahi-te hi.
 
 ### mi’ na a sut thei mite = mighty men of valour (literally: those who could cut/strike men)
 **Context:** Describing soldiers skilled in combat.
-**Example:** Amaute in mi’ na a sut thei mite panin David huh uh hi
+**Example:** Amaute in mi’ na a sut thei mite panin David huh-te hi
 
 ### thahat a vanglian mi = mighty men of strength/valor
 **Context:** Another description emphasizing their military prowess.
@@ -176,7 +176,7 @@
 
 ### khen phazah = the number of bands/divisions
 **Context:** Referring to the count of military units.
-**Example:** a pai galkap a khen phazah ahi uh hi:
+**Example:** a pai galkap a khen phazah ahi-te hi:
 
 ### lum leh tei a pua = that bare shield and spear
 **Context:** Describing the equipment of the Judah warriors.
@@ -223,7 +223,7 @@
 
 - **Noun + in + Number + val**
   - This structure is used to quantify the command structure: 'The [group] commanded over [number]'. 'val' functions as 'over' or 'exceeding'.
-  - Example: a neuzawte in zakhat val uk uh hi.
+  - Example: a neuzawte in zakhat val uk-te hi.
 
 - **X lam leh Y lamah**
   - Used for directional specification: 'toward X direction and toward Y direction'.
@@ -231,7 +231,7 @@
 
 - **X tawh Y pai/hong pai**
   - Indicates movement towards a person or place, often with a purpose implied or stated separately. 'tawh' means 'with' or 'towards' in this context.
-  - Example: David kiang mun muanhuai ah hong pai uh hi.
+  - Example: David kiang mun muanhuai ah hong pai-te hi.
 
 - **X in Y a dawntuah dingin Z pai khia-in**
   - Complex structure showing action (Z went out) for the purpose (dingin) of meeting (dawntuah) X (the object).

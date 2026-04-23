@@ -25,7 +25,7 @@
 ### v1
 **EN:** Be ye therefore followers of God, as dear children;
 
-**TDB77:** Tua ahih ciangin note in Pasian’ it tate na hih uh mah bangin Pasian a suun mite na suak un.
+**TDB77:** Tua ahih ciangin note in Pasian’ it tate na hih-te mah bangin Pasian a suun mite na suak un.
 
 **ZVS:** Note pen Pasian in a hong it a tate na hih manun amah tawh na kibatna dingun hanciam un.
 
@@ -61,18 +61,18 @@
 ### v5
 **EN:** For this ye know, that no whoremonger, nor unclean person, nor covetous man, who is an idolater, hath any inheritance in the kingdom of Christ and of God.
 
-**TDB77:** Bang hang hiam na cih uh leh, numei tawh a khial mi ahi zongin, mi kihhuai mi ahi zongin, milim bia mi ahi huaiham mi khat beek in Khazih leh Pasian’ Gam sungah luahna a ngah kei ding hi ci-in na thei uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, numei tawh a khial mi ahi zongin, mi kihhuai mi ahi zongin, milim bia mi ahi huaiham mi khat beek in Khazih leh Pasian’ Gam sungah luahna a ngah kei ding hi ci-in na thei-te hi.
 
-**ZVS:** Nulepa khialhna a gamta mi, a kilawmlo-a a gamta mi, leh a huaiham (huaihamna zong milim biakna zahin sia hi) mite in Khrih Ukna leh Pasian Ukna sungah bangmah ngah nei hetlo ding ahihna uh teltakin thei ta un.
+**ZVS:** Nulepa khialhna a gamta mi, a kilawmlo-a a gamta mi, leh a huaiham (huaihamna zong milim biakna zahin sia hi) mite in Khrih Ukna leh Pasian Ukna sungah bangmah ngah nei hetlo ding ahihna-te teltakin thei ta un.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Let no man deceive you with vain words: for because of these things cometh the wrath of God upon the children of disobedience.
 
-**TDB77:** A mawkna kam tawh note kuamah kikheem sak kei un. Bang hang hiam na cih uh leh, tuate hangin Pasian’ hehna in a nial thei mite tungah a tung hi.
+**TDB77:** A mawkna kam tawh note kuamah kikheem sak kei un. Bang hang hiam na cih-te leh, tuate hangin Pasian’ hehna in a nial thei mite tungah a tung hi.
 
-**ZVS:** Hih bang mawhnate i bawl hangin phamawh kei, ci-in a mawk gen mite' khemsa-in ta kei un. Pasian thu mangloin hih bangin a gamta mite in Pasian' hehna a thuak ding uh ahi hi.
+**ZVS:** Hih bang mawhnate i bawl hangin phamawh kei, ci-in a mawk gen mite' khemsa-in ta kei un. Pasian thu mangloin hih bangin a gamta mite in Pasian' hehna a thuak ding-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -88,16 +88,16 @@
 ### v8
 **EN:** For ye were sometimes darkness, but now are ye light in the Lord: walk as children of light:
 
-**TDB77:** Bang hang hiam na cih uh leh, nidang lai-inah note in khuamial na hi uh hi; tu-in na hih uh leh, Topa sungah khuavak na hi uh hi. Tua ahih ciangin khuavak’ tate bangin na gamta un.
+**TDB77:** Bang hang hiam na cih-te leh, nidang lai-inah note in khuamial na hi-te hi; tu-in na hih-te leh, Topa sungah khuavak na hi-te hi. Tua ahih ciangin khuavak’ tate bangin na gamta un.
 
-**ZVS:** Note pen khuamial sungah a omngei hinapi-in, Topa' mi na suahkhit uh ciangin khuavak sungah a om hita na hih uh manin khuavak sungah a om mite bangin na gamta un.
+**ZVS:** Note pen khuamial sungah a omngei hinapi-in, Topa' mi na suahkhit-te ciangin khuavak sungah a om hita na hih-te manin khuavak sungah a om mite bangin na gamta un.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v9
 **EN:** (For the fruit of the Spirit is in all goodness and righteousness and truth;)
 
-**TDB77:** Bang hang hiam na cih uh leh, khuavak’ gah in a hoihna khempeuh, dikna khempeuh, thuman thutak ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, khuavak’ gah in a hoihna khempeuh, dikna khempeuh, thuman thutak ahi hi.
 
 **ZVS:** Bang hang hiam cih leh khuavak sunga omna in a hoih, a man, a thutakte hong piangsak hi.
 
@@ -122,9 +122,9 @@
 ### v12
 **EN:** For it is a shame even to speak of those things which are done of them in secret.
 
-**TDB77:** Bang hang hiam na cih uh leh, amaute in munbu-na sungah a gamtatnate uh gen ding nangawn a zumhuai ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, amaute in munbu-na sungah a gamtatnate-te gen ding nangawn a zumhuai ahi hi.
 
-**ZVS:** Kuama theihlohin a simthamin a hihte uh gen ding nangawnin zong zumhuai lua hi.
+**ZVS:** Kuama theihlohin a simthamin a hihte-te gen ding nangawnin zong zumhuai lua hi.
 
 ### v13
 **EN:** But all things that are reproved are made manifest by the light: for whatsoever doth make manifest is light.
@@ -147,7 +147,7 @@
 ### v15
 **EN:** See then that ye walk circumspectly, not as fools, but as wise,
 
-**TDB77:** Tua ahih ciangin note in bang na ci gamtat uh hiam na kikem un. Pilna nei lo bang hi loin, pilna nei bangin na hi un la,
+**TDB77:** Tua ahih ciangin note in bang na ci gamtat-te hiam na kikem un. Pilna nei lo bang hi loin, pilna nei bangin na hi un la,
 
 **ZVS:** Tua ahih ciangin hoihtakin kingaihsunin gamta un la, mihaite bang hiloin mipilte bangin gamta un.
 
@@ -158,7 +158,7 @@
 
 **TDB77:** tuni hunte in a gilo ahih maninah, ahun na teel un.
 
-**ZVS:** Tuhun pen hun hoihlo hun ahih manin na hun neih khempeuh uh a hoih lamin zang un.
+**ZVS:** Tuhun pen hun hoihlo hun ahih manin na hun neih khempeuh-te a hoih lamin zang un.
 
 ### v17
 **EN:** Wherefore be ye not unwise, but understanding what the will of the Lord is.
@@ -181,9 +181,9 @@
 ### v19
 **EN:** Speaking to yourselves in psalms and hymns and spiritual songs, singing and making melody in your heart to the Lord;
 
-**TDB77:** Late-a kipan kha la leh phatna la apawlpawlte tawh khat leh khat na kikum un la, na lungsim tak uh tawh Topa mai-ah la sa un.
+**TDB77:** Late-a kipan kha la leh phatna la apawlpawlte tawh khat leh khat na kikum un la, na lungsim tak-te tawh Topa mai-ah la sa un.
 
-**ZVS:** La a tuamtuamte genin sakna tawh Topa' thu gen belin nei un la, na lungsim khempeuh uh tawh Topa phatna la sa un.
+**ZVS:** La a tuamtuamte genin sakna tawh Topa' thu gen belin nei un la, na lungsim khempeuh-te tawh Topa phatna la sa un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -199,39 +199,39 @@
 ### v21
 **EN:** Submitting yourselves one to another in the fear of God.
 
-**TDB77:** Khazih zahtakna hangin khat leh khat nuai-ah na pumpi uh na kiniamsak un.
+**TDB77:** Khazih zahtakna hangin khat leh khat nuai-ah na pumpi-te na kiniamsak un.
 
-**ZVS:** Khrih na zahtakna uh hangin na thu uh na kimang tuak un.
+**ZVS:** Khrih na zahtakna-te hangin na thu-te na kimang tuak un.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v22
 **EN:** Wives, submit yourselves unto your own husbands, as unto the Lord.
 
-**TDB77:** Zite aw, Topa’ ukna na man’ uh mah bangin na pasalte uh ukna na mang un.
+**TDB77:** Zite aw, Topa’ ukna na man’ uh mah bangin na pasalte-te ukna na mang un.
 
-**ZVS:** Zite aw, Topa' thu na man' uh mah bangin na pasalte uh thu na mang un.
+**ZVS:** Zite aw, Topa' thu na man' uh mah bangin na pasalte-te thu na mang un.
 
 ### v23
 **EN:** For the husband is the head of the wife, even as Christ is the head of the church: and he is the saviour of the body.
 
-**TDB77:** Bang hang hiam na cih uh leh, Khazih in pawlpi’ lutang ahih mah bangin pasal in a zi’ lutang ahi hi. Khazih in ama pumpi’ Honpa ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, Khazih in pawlpi’ lutang ahih mah bangin pasal in a zi’ lutang ahi hi. Khazih in ama pumpi’ Honpa ahi hi.
 
 **ZVS:** Bang hang hiam cih leh Khrih pen ama pumpi ahi pawlpi a honkhiapa hi-in, pawlpi tungah ukna thu a neih mah bangin pasal in a zi tungah ukna thu a nei ahi hi.
 
 ### v24
 **EN:** Therefore as the church is subject unto Christ, so let the wives be to their own husbands in every thing.
 
-**TDB77:** Ahih hangin pawlpi in Khazih’ ukna a man’ mah bangin zite in zong a pasalte uh ukna khempeuh mang ta uh hen.
+**TDB77:** Ahih hangin pawlpi in Khazih’ ukna a man’ mah bangin zite in zong a pasalte-te ukna khempeuh mang ta-te hen.
 
-**ZVS:** Pawlpi pen Khrih' khutnuai ahih mah bangin zite zong thu khempeuhah a pasalte uh khutnuai hi ding uh hi.
+**ZVS:** Pawlpi pen Khrih' khutnuai ahih mah bangin zite zong thu khempeuhah a pasalte-te khutnuai hi ding-te hi.
 
 ### v25
 **EN:** Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
 
-**TDB77:** Pasalte aw, Khazih in pawlpi a it mah bangin na zite uh na it un.
+**TDB77:** Pasalte aw, Khazih in pawlpi a it mah bangin na zite-te na it un.
 
-**ZVS:** Pasalte aw, Khrih in pawlpi itin a pumpi a piak mah bangin na zite uh na it un.
+**ZVS:** Pasalte aw, Khrih in pawlpi itin a pumpi a piak mah bangin na zite-te na it un.
 
 ### v26
 **EN:** That he might sanctify and cleanse it with the washing of water by the word,
@@ -252,16 +252,16 @@
 ### v28
 **EN:** So ought men to love their wives as their own bodies. He that loveth his wife loveth himself.
 
-**TDB77:** Tua mah bangin pasalte in zong amau pumpi uh a it uh mah bangin a zite uh a it ding uh kilawm hi. A zi a it mi in ama pumpi a it mi ahi hi.
+**TDB77:** Tua mah bangin pasalte in zong amau pumpi-te a it-te mah bangin a zite-te a it ding-te kilawm hi. A zi a it mi in ama pumpi a it mi ahi hi.
 
-**ZVS:** Tua mah bangin pasalte in zong amau pumpi zah mah bangin a zite uh a it ding uh ahi hi. A zi a it mi pen amah a ki-it mi ahi hi.
+**ZVS:** Tua mah bangin pasalte in zong amau pumpi zah mah bangin a zite-te a it ding-te ahi hi. A zi a it mi pen amah a ki-it mi ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** For no man ever yet hated his own flesh; but nourisheth and cherisheth it, even as the Lord the church:
 
-**TDB77:** Bang hang hiam na cih uh leh, ama ci-le-sa a mudah mi khat beek a om kei hi. Khazih in pawlpi a vaak a kep mah bangin mi in zong ama sa a vaak a kem hi.
+**TDB77:** Bang hang hiam na cih-te leh, ama ci-le-sa a mudah mi khat beek a om kei hi. Khazih in pawlpi a vaak a kep mah bangin mi in zong ama sa a vaak a kem hi.
 
 **Grammar:** negation: kei
 
@@ -275,9 +275,9 @@
 ### v31
 **EN:** For this cause shall a man leave his father and mother, and shall be joined unto his wife, and they two shall be one flesh.
 
-**TDB77:** Tua ahih ciangin pasal in a nu a pa nusia-in a zi a beel ding a, tua mi nih in pumkhat sakhat a suak ding uh hi.
+**TDB77:** Tua ahih ciangin pasal in a nu a pa nusia-in a zi a beel ding a, tua mi nih in pumkhat sakhat a suak ding-te hi.
 
-**ZVS:** Tua ahih manin Lai Siangtho in, “Hih thu hangin pasal in a nu leh a pa nusia-in a zi tawh kigawm ding a, amaute gel khat a suak ding uh hi,” na ci hi.
+**ZVS:** Tua ahih manin Lai Siangtho in, “Hih thu hangin pasal in a nu leh a pa nusia-in a zi tawh kigawm ding a, amaute gel khat a suak ding-te hi,” na ci hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -289,9 +289,9 @@
 ### v33
 **EN:** Nevertheless let every one of you in particular so love his wife even as himself; and the wife see that she reverence her husband.
 
-**TDB77:** Ahih hangin note in zong na pumpi ciat uh na it uh mah bangin na zite uh na it un. Numeite in zong a pasalte uh zahtak uh hen.
+**TDB77:** Ahih hangin note in zong na pumpi ciat-te na it-te mah bangin na zite-te na it un. Numeite in zong a pasalte-te zahtak-te hen.
 
-**ZVS:** Pasalte in amau pumpi zahin a zite uh itin, zite in zong amau pumpi zah mahin a pasalte uh a it ding uh ahih mah bangin, Lai Siangtho in hih bangin a gen ciangin a thukzaw khat, Khrih leh pawlpi a ki-itna a gennopna ahi hi, ci-in ka ngaihsun hi.
+**ZVS:** Pasalte in amau pumpi zahin a zite-te itin, zite in zong amau pumpi zah mahin a pasalte-te a it ding-te ahih mah bangin, Lai Siangtho in hih bangin a gen ciangin a thukzaw khat, Khrih leh pawlpi a ki-itna a gennopna ahi hi, ci-in ka ngaihsun hi.
 
 ---
 

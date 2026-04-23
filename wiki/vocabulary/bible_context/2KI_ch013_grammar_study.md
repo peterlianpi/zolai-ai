@@ -61,18 +61,18 @@
 ### v5
 **EN:** (And the
 
-**TDB77:** (Tua ahih ciangin Topa in Israel tungah honpa khat pia a, tua ahih manin Siriate khut sung panin amaute suakta uh hi. tua ciangin a ni danga bangin Israelte a inn uhah teeng uh hi.
+**TDB77:** (Tua ahih ciangin Topa in Israel tungah honpa khat pia a, tua ahih manin Siriate khut sung panin amaute suakta-te hi. tua ciangin a ni danga bangin Israelte a inn uhah teeng-te hi.
 
-**ZVS:** (Tua ahih ciangin { Topa } in Israel tungah honpa khat pia hi. Tua ahih manin Syria-te' khutsung panin amaute suakta uh hi. Tua ciangin a nidanga bangin Israel-te a inn uhah teng uh hi.
+**ZVS:** (Tua ahih ciangin { Topa } in Israel tungah honpa khat pia hi. Tua ahih manin Syria-te' khutsung panin amaute suakta-te hi. Tua ciangin a nidanga bangin Israel-te a inn uhah teng-te hi.
 
 **Grammar:** sequence: then/therefore | causal: because | plural: uh marker
 
 ### v6
 **EN:** Nevertheless they departed not from the sins of the house of Jeroboam, who made Israel sin, but walked therein: and there remained the grove also in Samaria.)
 
-**TDB77:** Ahi zongin Israel a khialhsakna, Jeroboam’ innkuante’ khialhnate panin amaute kihem khia lo uh a, amaute in tuate zui uh hi; Ahserah milim zong Samaria mah-ah om lai hi.)
+**TDB77:** Ahi zongin Israel a khialhsakna, Jeroboam’ innkuante’ khialhnate panin amaute kihem khia lo-te a, amaute in tuate zui-te hi; Ahserah milim zong Samaria mah-ah om lai hi.)
 
-**ZVS:** Ahi zongin Israel a khialhsakna, Jeroboam' khialhnate panin amaute kihemkhia lo uh a, amaute in tuate zui uh hi. Asherah milim zong Samaria mahah omlai hi.)
+**ZVS:** Ahi zongin Israel a khialhsakna, Jeroboam' khialhnate panin amaute kihemkhia lo-te a, amaute in tuate zui-te hi. Asherah milim zong Samaria mahah omlai hi.)
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -97,9 +97,9 @@
 ### v9
 **EN:** And Jehoahaz slept with his fathers; and they buried him in Samaria: and Joash his son reigned in his stead.
 
-**TDB77:** Tua ahih ciangin Jehoahaz a pate tawh ihmu a, amaute in Samaria ah amah vui uh hi; tua ciangin ama tangin a tapa Jehoash in uk hi.
+**TDB77:** Tua ahih ciangin Jehoahaz a pate tawh ihmu a, amaute in Samaria ah amah vui-te hi; tua ciangin ama tangin a tapa Jehoash in uk hi.
 
-**ZVS:** Tua ciangin Jehoahaz si a, amaute in Samaria-ah amah vui uh hi. Tua ciangin ama tangin a tapa Jehoash in a uk hi.
+**ZVS:** Tua ciangin Jehoahaz si a, amaute in Samaria-ah amah vui-te hi. Tua ciangin ama tangin a tapa Jehoash in a uk hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -196,18 +196,18 @@
 ### v20
 **EN:** And Elisha died, and they buried him. And the bands of the Moabites invaded the land at the coming in of the year.
 
-**TDB77:** Tua ahih ciangin Elisha si a, amaute in amah vui uh hi. Tu-in Moab mihonte in sikhiau sungin tua gam sim zel uh hi.
+**TDB77:** Tua ahih ciangin Elisha si a, amaute in amah vui-te hi. Tu-in Moab mihonte in sikhiau sungin tua gam sim zel-te hi.
 
-**ZVS:** Tua ciangin Elisha si a, amaute in amah a vui uh hi. Tu-in Moab mihonte in sik-hiau sungin tua gam simzel uh hi.
+**ZVS:** Tua ciangin Elisha si a, amaute in amah a vui-te hi. Tu-in Moab mihonte in sik-hiau sungin tua gam simzel-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v21
 **EN:** And it came to pass, as they were burying a man, that, behold, they spied a band of men; and they cast the man into the sepulchre of Elisha: and when the man was let down, and touched the bones of Elisha, he revived, and stood up on his feet.
 
-**TDB77:** Tua ciangin amaute in mi khat a vui lai takun, en in, a sim dingin a hong pai mihon khat mu uh a, amau zong a misi uh Elisha’ han sungah lawn uh hi; a misi in Elisha’ guhte a sukkhak phetin hingkik a, tua ciangin ama khe-in ding hi.
+**TDB77:** Tua ciangin amaute in mi khat a vui lai takun, en in, a sim dingin a hong pai mihon khat mu-te a, amau zong a misi-te Elisha’ han sungah lawn-te hi; a misi in Elisha’ guhte a sukkhak phetin hingkik a, tua ciangin ama khe-in ding hi.
 
-**ZVS:** Tua ciangin amaute in misi khat a vui laitakun, amaute a sim dingin a hong pai mihon khat mu uh a, amau zong a misi uh Elisha' han sungah lawn uh hi. A misi in Elisha' guhte a sukkhak phetin hingkik a, tua ciangin ama khe-in a ding hi.
+**ZVS:** Tua ciangin amaute in misi khat a vui laitakun, amaute a sim dingin a hong pai mihon khat mu-te a, amau zong a misi-te Elisha' han sungah lawn-te hi. A misi in Elisha' guhte a sukkhak phetin hingkik a, tua ciangin ama khe-in a ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 

@@ -101,7 +101,7 @@
 **Related:** daih na lungnopna, daihdide na, daih didena, daih sakna, daih sakna zatui
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *gunkuang tungah tuangin gamlak gam daihna-ah a pai uh hi.*
+> *gunkuang tungah tuangin gamlak gam daihna-ah a pai-te hi.*
 > `MRK 6:32`
 
 ### daihual
@@ -191,7 +191,7 @@
 **Related:** khua, pai, syria, khuapi, kumpipa
 **CEFR:** A1
 **Usage:** Attested 5586× across 30 Bible books.
-> *Damaskas leilu lam Hobah ciangdong a delh uh hi.*
+> *Damaskas leilu lam Hobah ciangdong a delh-te hi.*
 
 ### damin
 **[a]** sligth
@@ -305,7 +305,7 @@
 **Related:** gilkial, khut, dangtak, tui, nu
 **CEFR:** A1
 **Usage:** Attested 1297× across 23 Bible books.
-> *gilkial dangtakin amaute sibup uh hi.*
+> *gilkial dangtakin amaute sibup-te hi.*
 > → Hungry and thirsty, their soul fainted in them.
 > `PSA 107:5`
 
@@ -362,7 +362,7 @@
 **[]** take
 **Meanings:** take | thou | shalt | awl | thrust | through
 **CEFR:** A1
-> *Mualmite mah Hong dapphah uh kulden hi.*
+> *Mualmite mah Hong dapphah-te kulden hi.*
 
 ### dathan
 **[n]** sons
@@ -417,7 +417,7 @@
 **Related:** hawlkhia, jesuh, pia, tampi, vokte
 **CEFR:** A1
 **Usage:** Attested 2140× across 12 Bible books.
-> *“Dawi mangpa suangin dawite a hawlkhia hi,” a ci uh hi.*
+> *“Dawi mangpa suangin dawite a hawlkhia hi,” a ci-te hi.*
 > `MAT 9:34`
 
 ### dawk
@@ -511,7 +511,7 @@
 **Meanings:** hard | saith | shaved | cut | off | garments
 **CEFR:** A2
 **Usage:** Attested 185× across 4 Bible books.
-> *Tua ahih ciangin Hanun in David' nasemte manin a khamul uh metsak*
+> *Tua ahih ciangin Hanun in David' nasemte manin a khamul-te metsak*
 
 ### daite
 **[n]** caldrons
@@ -600,7 +600,7 @@
 **Meanings:** heman | zimri | ethan | calcol | dara | sons
 **CEFR:** A2
 **Usage:** Attested 60× across 2 Bible books.
-> *a vekpi-in nga pha uh hi.*
+> *a vekpi-in nga pha-te hi.*
 
 ### darda
 **[n]** sons
@@ -671,7 +671,7 @@
 **Related:** dawi; kau, dawi nam khat, dawi thu siam, dawinumei, dawi bia mi
 **CEFR:** A2
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *“Dawi mangpa suangin dawite a hawlkhia hi,” a ci uh hi.*
+> *“Dawi mangpa suangin dawite a hawlkhia hi,” a ci-te hi.*
 > `MAT 9:34`
 
 ### dawibia
@@ -937,7 +937,7 @@
 **[]** prophet
 **Meanings:** prophet | execute | punishment | iniquity | even | seeketh
 **CEFR:** B1
-> *Kamsangpa leh kamsang thu a dongpa a daantuahna uh kibang ding hi.*
+> *Kamsangpa leh kamsang thu a dongpa a daantuahna-te kibang ding hi.*
 > → And they shall bear the punishment of their iniquity: the punishment of the prophet shall be even as the punishment of him that seeketh unto him;
 > `EZK 14:10`
 
@@ -1051,7 +1051,7 @@
 **Meanings:** oil | mouth | smoother | than | lips | strange
 **CEFR:** B1
 **Usage:** Attested 110× across 4 Bible books.
-> *a thugente uh a neel dakdak hangin,*
+> *a thugente-te a neel dakdak hangin,*
 > `PRO 5:3`
 
 ### dakdakin
@@ -1059,7 +1059,7 @@
 **Meanings:** knees | hands | feeble | weak | water
 **CEFR:** B1
 **Usage:** Attested 45× across 2 Bible books.
-> *Mi khempeuh’ khut zaw dakdakin, a khuk uh liing kelkel ding hi.*
+> *Mi khempeuh’ khut zaw dakdakin, a khuk-te liing kelkel ding hi.*
 > → All hands shall be feeble, and all knees shall be weak as water.
 > `EZK 7:17`
 
@@ -1203,7 +1203,7 @@
 **Meanings:** while | die | youth | suffer | terrors | afflicted
 **CEFR:** B1
 **Usage:** Attested 50× across 2 Bible books.
-> *Tua ahih manin tu-in na nuntak dante uh leh na*
+> *Tua ahih manin tu-in na nuntak dante-te leh na*
 
 ### dapphahte
 **[n]** clothes
@@ -1381,7 +1381,7 @@
 **Meanings:** your | trees | smitten | blasting | mildew | gardens
 **CEFR:** B2
 **Usage:** Attested 115× across 2 Bible books.
-> *Na ankungte uh lung nesakin ka vulsak*
+> *Na ankungte-te lung nesakin ka vulsak*
 
 ### dikzaw
 **[n]** wicked
@@ -1423,7 +1423,7 @@
 **Related:** pai, siampite, kumpipa
 **CEFR:** B2
 **Usage:** Attested 275× across 8 Bible books.
-> *“Nang kua na hi hiam?” ci-in a dongsak uh hi.*
+> *“Nang kua na hi hiam?” ci-in a dongsak-te hi.*
 
 ### dotin
 **[]** stocks
@@ -1480,7 +1480,7 @@
 **Meanings:** parts | into | disciples | came | dalmanutha | straightway
 **CEFR:** C1
 **Usage:** Attested 55× across 2 Bible books.
-> *a nungzuite tawh gunkuang tungah tuangpahin Dalmanutha gamah a pai uh hi.*
+> *a nungzuite tawh gunkuang tungah tuangpahin Dalmanutha gamah a pai-te hi.*
 
 ### dalmatia
 **[n]** titus
@@ -1523,7 +1523,7 @@
 **Related:** dawi, dawi; kau, dawi nam khat, dawi thu siam, dawinumei
 **CEFR:** C1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *Hebru kamin Armageddon a kici munah a kikhawmsak uh hi.*
+> *Hebru kamin Armageddon a kici munah a kikhawmsak-te hi.*
 > `REV 16:16`
 
 ### dawigilote
@@ -1572,7 +1572,7 @@
 **Related:** luka, hopih
 **CEFR:** C1
 **Usage:** Attested 180× across 6 Bible books.
-> *ka naseppih Marka, Aristarkhas, Demas, leh Luka-te in hong hopih uh hi.*
+> *ka naseppih Marka, Aristarkhas, Demas, leh Luka-te in hong hopih-te hi.*
 > → Mark, Aristarchus, Demas, Luke, my fellowlabourers.
 
 ### demetrias
@@ -1596,7 +1596,7 @@
 **Related:** khua, lystra, pai, barnabas, paul
 **CEFR:** C1
 **Usage:** Attested 510× across 2 Bible books.
-> *amaute in a theihkholh uh ciangin Likaonia khua*
+> *amaute in a theihkholh-te ciangin Likaonia khua*
 > `ACT 14:6`
 
 ### diana
@@ -1678,7 +1678,7 @@
 **Meanings:** brother | whether | why | dost | thou | judge
 **CEFR:** C1
 **Usage:** Attested 5× across 2 Bible books.
-> *na gimna uh leh lungduai takin na thuakna uh*
+> *na gimna-te leh lungduai takin na thuakna uh*
 
 ### dop
 **[n]** god

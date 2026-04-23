@@ -126,17 +126,17 @@
 **Context:** Used in the context of marriage union.
 **Example:** a zi beel a,
 
-### sakhat suak uh = become one flesh
+### sakhat suak-te = become one flesh
 **Context:** Describing the unity of husband and wife.
-**Example:** amaute in sakhat suak uh hi.
+**Example:** amaute in sakhat suak-te hi.
 
 ### guaktangin = nakedly/without shame
 **Context:** Describing their state before the fall.
-**Example:** Mipa leh a zi guaktangin om uh a,
+**Example:** Mipa leh a zi guaktangin om-te a,
 
 ### maizum lo = not ashamed
 **Context:** Their state of innocence.
-**Example:** maizum lo uh hi.
+**Example:** maizum lo-te hi.
 
 ### gulpi = serpent
 **Context:** The creature that spoke to the woman.
@@ -152,11 +152,11 @@
 
 ### laizang-a om = located in the middle/center
 **Context:** Describing the location of the forbidden fruit tree.
-**Example:** Huan laizang-a om singgah na ne kei ding uh hi,
+**Example:** Huan laizang-a om singgah na ne kei ding-te hi,
 
 ### lawng kei ding = shall not touch
 **Context:** Part of the command regarding the forbidden fruit.
-**Example:** zong na lawng kei ding uh hi,
+**Example:** zong na lawng kei ding-te hi,
 
 ## Phrases & Usage
 

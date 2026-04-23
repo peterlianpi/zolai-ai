@@ -1,0 +1,62 @@
+[
+  {
+    "letter": "A",
+    "sound": "ah",
+    "english_example": "father",
+    "zolai_word": "Ann (food)"
+  },
+  {
+    "letter": "E",
+    "sound": "eh",
+    "english_example": "bed",
+    "zolai_word": "Mei (fire)"
+  },
+  {
+    "letter": "I",
+    "sound": "ee",
+    "english_example": "see",
+    "zolai_word": "Ni (sun)"
+  },
+  {
+    "letter": "O",
+    "sound": "oh",
+    "english_example": "go",
+    "zolai_word": "Hoi (good)"
+  },
+  {
+    "letter": "U",
+    "sound": "oo",
+    "english_example": "moon",
+    "zolai_word": "Tui (water)"
+  },
+  {
+    "letter": "Ng",
+    "sound": "ng",
+    "english_example": "sing",
+    "zolai_word": "Nga (five)"
+  },
+  {
+    "letter": "Kh",
+    "sound": "k+h",
+    "english_example": "blockhead",
+    "zolai_word": "Khat (one)"
+  },
+  {
+    "letter": "Th",
+    "sound": "th",
+    "english_example": "think",
+    "zolai_word": "Thum (three)"
+  },
+  {
+    "letter": "Z",
+    "sound": "z",
+    "english_example": "zoo",
+    "zolai_word": "Zuang (go)"
+  },
+  {
+    "letter": "P",
+    "sound": "p",
+    "english_example": "pen",
+    "zolai_word": "Pa (father)"
+  }
+]

@@ -61,9 +61,9 @@
 ### v5
 **EN:** Then the mariners were afraid, and cried every man unto his god, and cast forth the wares that were in the ship into the sea, to lighten it of them. But Jonah was gone down into the sides of the ship; and he lay, and was fast asleep.
 
-**TDB77:** Tua ciangin teembaw hawlte lau uh a, a pasian ciat uh kiangah a kiko ciat uh hi. Teembaw a zan’ tuam nadingin a sung-a vante tuipi sungah a paai uh hi. Tua bang hi napi-in Jonah in teembaw sung a tawng lamah na lutsuk a, a na ihmu hithiat hi.
+**TDB77:** Tua ciangin teembaw hawlte lau-te a, a pasian ciat-te kiangah a kiko ciat-te hi. Teembaw a zan’ tuam nadingin a sung-a vante tuipi sungah a paai-te hi. Tua bang hi napi-in Jonah in teembaw sung a tawng lamah na lutsuk a, a na ihmu hithiat hi.
 
-**ZVS:** Tua ciangin teembaw hawlte lau uh a, a pasian ciat uh' kiangah a kiko ciat uh hi. Teembaw a zan'tuamna dingin a sunga vante tuipi sungah a paai uh hi. Tua bang hinapi-in teembaw sungtawng lamah Jonah na lutsukin a na ihmu hithiat hi.
+**ZVS:** Tua ciangin teembaw hawlte lau-te a, a pasian ciat uh' kiangah a kiko ciat-te hi. Teembaw a zan'tuamna dingin a sunga vante tuipi sungah a paai-te hi. Tua bang hinapi-in teembaw sungtawng lamah Jonah na lutsukin a na ihmu hithiat hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -79,18 +79,18 @@
 ### v7
 **EN:** And they said every one to his fellow, Come, and let us cast lots, that we may know for whose cause this evil is upon us. So they cast lots, and the lot fell upon Jonah.
 
-**TDB77:** Tua khit ciangin teembaw hawlte in, “Hong pai dih un. Kua’ hangin hih gimna ei tungah hong tung hiam, cih i theih nadingin ai san dih ni,” ci-in khat-le-khat a kikum uh hi. Ai a san uh leh Jonah tung a tu hi.
+**TDB77:** Tua khit ciangin teembaw hawlte in, “Hong pai dih un. Kua’ hangin hih gimna ei tungah hong tung hiam, cih i theih nadingin ai san dih ni,” ci-in khat-le-khat a kikum-te hi. Ai a san-te leh Jonah tung a tu hi.
 
-**ZVS:** Tua khit ciangin teembaw hawlte in, “Hong pai dih un. Kua' hangin hih bang gimna ei' tungah hong tung ahi hiam, cih i theihna dingin ai san dih ni,” ci-in khatlekhat a kikum uh hi. Ai a san uh leh Jonah tung a tu hi.
+**ZVS:** Tua khit ciangin teembaw hawlte in, “Hong pai dih un. Kua' hangin hih bang gimna ei' tungah hong tung ahi hiam, cih i theihna dingin ai san dih ni,” ci-in khatlekhat a kikum-te hi. Ai a san-te leh Jonah tung a tu hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Then said they unto him, Tell us, we pray thee, for whose cause this evil is upon us; What is thine occupation? and whence comest thou? what is thy country? and of what people art thou?
 
-**TDB77:** Tua ciangin amaute in, “Kua hangin hih gimna ei tungah hong tung hiam, hong gen in. Na nasep bang hiam? Koi lai pan-a hong pai na hi hiam? Na gam bang hiam? Kua minam na hi hiam?” ci-in a dong uh hi.
+**TDB77:** Tua ciangin amaute in, “Kua hangin hih gimna ei tungah hong tung hiam, hong gen in. Na nasep bang hiam? Koi lai pan-a hong pai na hi hiam? Na gam bang hiam? Kua minam na hi hiam?” ci-in a dong-te hi.
 
-**ZVS:** Tua ciangin amaute in, “Bang hangin hih gimna ei' tungah hong tung ahi hiam, hong gen in. Na nasep bang ahi hiam? Koi lai pana hong pai na hi hiam? Na gam bang ahi hiam? Kua minam na hi hiam?” ci-in a dong uh hi.
+**ZVS:** Tua ciangin amaute in, “Bang hangin hih gimna ei' tungah hong tung ahi hiam, hong gen in. Na nasep bang ahi hiam? Koi lai pana hong pai na hi hiam? Na gam bang ahi hiam? Kua minam na hi hiam?” ci-in a dong-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -106,63 +106,63 @@
 ### v10
 **EN:** Then were the men exceedingly afraid, and said unto him, Why hast thou done this? For the men knew that he fled from the presence of the
 
-**TDB77:** Tua ciangin tua mite a lau mahmah uh a, “Bang hangin hih bangin hih mawk na hi hiam?” a ci uh hi. Bang hang hiam cih leh Topa kiangpan amah a taikhia sim ahih lam a gen khit sa ahih manin a thei khin zo uh hi.
+**TDB77:** Tua ciangin tua mite a lau mahmah-te a, “Bang hangin hih bangin hih mawk na hi hiam?” a ci-te hi. Bang hang hiam cih leh Topa kiangpan amah a taikhia sim ahih lam a gen khit sa ahih manin a thei khin zo-te hi.
 
-**ZVS:** Tua ciangin tua mite lau mahmah uh a, “Bang hangin hih bangin gamta mawk na hi hiam?” a ci uh hi. Bang hang hiam cih leh { Topa' } kiang pan amah a taikhiasim ahihlam a gen khitsa ahih manin a thei khinzo uh hi.
+**ZVS:** Tua ciangin tua mite lau mahmah-te a, “Bang hangin hih bangin gamta mawk na hi hiam?” a ci-te hi. Bang hang hiam cih leh { Topa' } kiang pan amah a taikhiasim ahihlam a gen khitsa ahih manin a thei khinzo-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Then said they unto him, What shall we do unto thee, that the sea may be calm unto us? for the sea wrought, and was tempestuous.
 
-**TDB77:** Tua ciangin amaute in, “Ei adingin tuipi a hong daih theih nadingin nang bang kong cih ding uh hiam?” ci-in a dong uh hi. Bang hang hiam cih leh huihpi a lauhuai semsem hi.
+**TDB77:** Tua ciangin amaute in, “Ei adingin tuipi a hong daih theih nadingin nang bang kong cih ding-te hiam?” ci-in a dong-te hi. Bang hang hiam cih leh huihpi a lauhuai semsem hi.
 
-**ZVS:** Tua ciangin amaute in, “Ei-a' dingin tuipi a hong daihtheihna dingin nang bang kong cih ding uh hiam?” ci-in a dong uh hi. Bang hang hiam cih leh huihpi lauhuai semsem hi.
+**ZVS:** Tua ciangin amaute in, “Ei-a' dingin tuipi a hong daihtheihna dingin nang bang kong cih ding-te hiam?” ci-in a dong-te hi. Bang hang hiam cih leh huihpi lauhuai semsem hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v12
 **EN:** And he said unto them, Take me up, and cast me forth into the sea; so shall the sea be calm unto you: for I know that for my sake this great tempest is upon you.
 
-**TDB77:** Amah in, “Hong domto un la tuipi sungah hong khia un; tua hi leh no adingin tuipi a hong daai ding hi; bang hang hiam cih leh hih huihpi na thuakna uh keima’ hang ahi hi, cih ka thei hi,” ci-in a dawng kik hi.
+**TDB77:** Amah in, “Hong domto un la tuipi sungah hong khia un; tua hi leh no adingin tuipi a hong daai ding hi; bang hang hiam cih leh hih huihpi na thuakna-te keima’ hang ahi hi, cih ka thei hi,” ci-in a dawng kik hi.
 
-**ZVS:** Amah in, “Hong domto un la, tuipi sungah hong khia un; tua hi leh no-a' dingin tuipi a hong daai ding hi; bang hang hiam cih leh hih huihpi na thuakna uh keima hang ahi hi, cih ka thei hi,” ci-in a dawngkik hi.
+**ZVS:** Amah in, “Hong domto un la, tuipi sungah hong khia un; tua hi leh no-a' dingin tuipi a hong daai ding hi; bang hang hiam cih leh hih huihpi na thuakna-te keima hang ahi hi, cih ka thei hi,” ci-in a dawngkik hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v13
 **EN:** Nevertheless the men rowed hard to bring it to the land; but they could not: for the sea wrought, and was tempestuous against them.
 
-**TDB77:** Tua bang a cih hangin amaute in teembaw khawl sak dingin hahkatin lei lamah a hot teeiteei uh hi. Ahih hangin a hih zo kei uh hi, bang hang hiam cih leh huihpi a hat semsem hi.
+**TDB77:** Tua bang a cih hangin amaute in teembaw khawl sak dingin hahkatin lei lamah a hot teeiteei-te hi. Ahih hangin a hih zo kei-te hi, bang hang hiam cih leh huihpi a hat semsem hi.
 
-**ZVS:** Tua bang a cih hangin amaute in teembaw a khawlsak dingin hahkatin lei lamah a hot teeiteei uh hi. Ahih hangin a hihzo kei uh hi; bang hang hiam cih leh huihpi a hat semsem hi.
+**ZVS:** Tua bang a cih hangin amaute in teembaw a khawlsak dingin hahkatin lei lamah a hot teeiteei-te hi. Ahih hangin a hihzo kei-te hi; bang hang hiam cih leh huihpi a hat semsem hi.
 
 **Grammar:** purpose: in order to | negation: kei | plural: uh marker
 
 ### v14
 **EN:** Wherefore they cried unto the
 
-**TDB77:** Tua ahih ciangin amaute in Topa’ kiangah kiko-in, “Topa aw, hih mipa ka sihsak manun kote hong sisak kei in la, mi that hi, ci-in hong ngawh kei ta in, ci-in kong thuum uh hi; bang hang hiam cih leh Topa aw, nangmah in pha na sak banga na bawl ahi hi,” ci-in thu a ngen uh hi.
+**TDB77:** Tua ahih ciangin amaute in Topa’ kiangah kiko-in, “Topa aw, hih mipa ka sihsak manun kote hong sisak kei in la, mi that hi, ci-in hong ngawh kei ta in, ci-in kong thuum-te hi; bang hang hiam cih leh Topa aw, nangmah in pha na sak banga na bawl ahi hi,” ci-in thu a ngen-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa' } kiangah amaute kiko-in, “{ Topa } aw, hih mipa ka sihsak manun kote hong sisak kei in la, mi that hi, ci-in hong ngawh kei ta in, ci-in kong thum uh hi; bang hang hiam cih leh { Topa } aw, nangmah in pha na sak banga na bawl ahi hi,” ci-in thu a ngen uh hi.
+**ZVS:** Tua ahih ciangin { Topa' } kiangah amaute kiko-in, “{ Topa } aw, hih mipa ka sihsak manun kote hong sisak kei in la, mi that hi, ci-in hong ngawh kei ta in, ci-in kong thum-te hi; bang hang hiam cih leh { Topa } aw, nangmah in pha na sak banga na bawl ahi hi,” ci-in thu a ngen-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** So they took up Jonah, and cast him forth into the sea: and the sea ceased from her raging.
 
-**TDB77:** Tua ciangin Jonah dom to-in tuipi sungah a khiat uh leh tuipi a daai pah hi.
+**TDB77:** Tua ciangin Jonah dom to-in tuipi sungah a khiat-te leh tuipi a daai pah hi.
 
-**ZVS:** Tua ciangin Jonah domto-in tuipi sungah a khiat uh leh tuipi a daai pah hi.
+**ZVS:** Tua ciangin Jonah domto-in tuipi sungah a khiat-te leh tuipi a daai pah hi.
 
 **Grammar:** punctual: immediately/suddenly | sequence: then/therefore | serial verb: -in (and then)
 
 ### v16
 **EN:** Then the men feared the
 
-**TDB77:** Tua ciangin tua mite in Topa a kihta mahmah uh a, Topa’ tungah biakna pia-in thuciamna a bawl uh hi.
+**TDB77:** Tua ciangin tua mite in Topa a kihta mahmah-te a, Topa’ tungah biakna pia-in thuciamna a bawl-te hi.
 
-**ZVS:** Tua ciangin tua mite in { Topa } kihta mahmah uh a, { Topa' } tungah biakna pia-in thuciamna a bawl uh hi.
+**ZVS:** Tua ciangin tua mite in { Topa } kihta mahmah-te a, { Topa' } tungah biakna pia-in thuciamna a bawl-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

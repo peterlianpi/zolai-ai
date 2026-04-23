@@ -25,9 +25,9 @@
 ### v1
 **EN:** But now they that are younger than I have me in derision, whose fathers I would have disdained to have set with the dogs of my flock.
 
-**TDB77:** “Ahi zongin tu in, a pate uh mah bangin a kimang ngei lo, tuute a cing dingin ka uite tawh a kuan khawm dinga zong ka deih loh, kei sanga khangno zawte in kei hong ciamnuih bawl ta uh hi.
+**TDB77:** “Ahi zongin tu in, a pate-te mah bangin a kimang ngei lo, tuute a cing dingin ka uite tawh a kuan khawm dinga zong ka deih loh, kei sanga khangno zawte in kei hong ciamnuih bawl ta-te hi.
 
-**ZVS:** “Ahi zongin tu-in, a pate uh kiman'na a neilo ka uite tawh tuu cing dingin a kuan dingin zong ka deihloh, kei sanga a khangnozawte in hong ciamnuih bawlta uh hi.
+**ZVS:** “Ahi zongin tu-in, a pate-te kiman'na a neilo ka uite tawh tuu cing dingin a kuan dingin zong ka deihloh, kei sanga a khangnozawte in hong ciamnuih bawlta-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -43,16 +43,16 @@
 ### v3
 **EN:** For want and famine they were solitary; fleeing into the wilderness in former time desolate and waste.
 
-**TDB77:** Amaute zawng mahmahin gilkial uh ahih manin gamlak singzung keu peuh teep lel ding uh hi.
+**TDB77:** Amaute zawng mahmahin gilkial-te ahih manin gamlak singzung keu peuh teep lel ding-te hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
 ### v4
 **EN:** Who cut up mallows by the bushes, and juniper roots for their meat.
 
-**TDB77:** Amaute in singkungnote botin ne uh a, limna alna a nei lo poding zung nangawn ne uh hi.
+**TDB77:** Amaute in singkungnote botin ne-te a, limna alna a nei lo poding zung nangawn ne-te hi.
 
-**ZVS:** Amaute in singkungnote botin ne uh a, limna alna a neilo poding zung nangawn a ne uh hi.
+**ZVS:** Amaute in singkungnote botin ne-te a, limna alna a neilo poding zung nangawn a ne-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -75,9 +75,9 @@
 ### v7
 **EN:** Among the bushes they brayed; under the nettles they were gathered together.
 
-**TDB77:** Amaute ganhing bangin gamlakah ham uh a, sawlkawm nuai-ah kilomin omkhawm uh hi.
+**TDB77:** Amaute ganhing bangin gamlakah ham-te a, sawlkawm nuai-ah kilomin omkhawm-te hi.
 
-**ZVS:** Ganhing bangin gamlakah amaute ham uh a, sawlkawm nuai-ah kilomin a omkhawm uh hi.
+**ZVS:** Ganhing bangin gamlakah amaute ham-te a, sawlkawm nuai-ah kilomin a omkhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -93,54 +93,54 @@
 ### v9
 **EN:** And now am I their song, yea, I am their byword.
 
-**TDB77:** “Tu-in amaute in kei simmawhin hong nuihsan uh a, amau’ ciamnuihna bek ka suak ta hi.
+**TDB77:** “Tu-in amaute in kei simmawhin hong nuihsan-te a, amau’ ciamnuihna bek ka suak ta hi.
 
-**ZVS:** Tu-in amaute in kei hong simmawh bawlin hong nuihsan uh a, amaute' ciamnuihna bek ka suak khinta hi.
+**ZVS:** Tu-in amaute in kei hong simmawh bawlin hong nuihsan-te a, amaute' ciamnuihna bek ka suak khinta hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v10
 **EN:** They abhor me, they flee far from me, and spare not to spit in my face.
 
-**TDB77:** Amaute in kei hong kih uh a, kei tawh tehna-in amaute hoih lua kisa uh a, amaute in ka maitang nangawn cil hong phih uh hi.
+**TDB77:** Amaute in kei hong kih-te a, kei tawh tehna-in amaute hoih lua kisa-te a, amaute in ka maitang nangawn cil hong phih-te hi.
 
-**ZVS:** Amaute in kei hong kih uh a, kei tawh tehna-in amaute hoihlua kisa uh a, amaute in ka maitang nangawn cil hong phih vial uh hi.
+**ZVS:** Amaute in kei hong kih-te a, kei tawh tehna-in amaute hoihlua kisa-te a, amaute in ka maitang nangawn cil hong phih vial-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Because he hath loosed my cord, and afflicted me, they have also let loose the bridle before me.
 
-**TDB77:** Pasian in kei hong zawngkhalsak hong cimawhsak ahih manin amaute in a ut utin kei hong bawlsia uh hi.
+**TDB77:** Pasian in kei hong zawngkhalsak hong cimawhsak ahih manin amaute in a ut utin kei hong bawlsia-te hi.
 
-**ZVS:** Pasian in hong zawngkhalsak, hong cimawhsak ahih manin amaute in a ut utun kei hong bawlsia uh hi.
+**ZVS:** Pasian in hong zawngkhalsak, hong cimawhsak ahih manin amaute in a ut utun kei hong bawlsia-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
 ### v12
 **EN:** Upon my right hand rise the youth; they push away my feet, and they raise up against me the ways of their destruction.
 
-**TDB77:** Hih mihonte in kei hong simgawpin, kei hong taikhia sak uh a, ka sih nadingin ka mai-ah na pang uh hi.
+**TDB77:** Hih mihonte in kei hong simgawpin, kei hong taikhia sak-te a, ka sih nadingin ka mai-ah na pang-te hi.
 
-**ZVS:** Amaute in hong simgawpin, kei hong taikhiasak uh a, ka sih theihna dingin ka mai-ah na pang uh hi.
+**ZVS:** Amaute in hong simgawpin, kei hong taikhiasak-te a, ka sih theihna dingin ka mai-ah na pang-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v13
 **EN:** They mar my path, they set forward my calamity, they have no helper.
 
-**TDB77:** Ka suahtak theih nading lampi khaktan uh a, keimah suksiat ding hanciam uh hi; amaute a kho ding kuamah om lo hi.
+**TDB77:** Ka suahtak theih nading lampi khaktan-te a, keimah suksiat ding hanciam-te hi; amaute a kho ding kuamah om lo hi.
 
-**ZVS:** Ka suahtak theihna ding lampi na khaktan uh a, kei suksiat ding hanciam uh a, amaute a kho ding kuamah omlo hi.
+**ZVS:** Ka suahtak theihna ding lampi na khaktan-te a, kei suksiat ding hanciam-te a, amaute a kho ding kuamah omlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v14
 **EN:** They came upon me as a wide breaking in of waters: in the desolation they rolled themselves upon me.
 
-**TDB77:** Kei ka bukna leihawm-ah hong tuaksuk uh a, kei hong sucip suk uh hi.
+**TDB77:** Kei ka bukna leihawm-ah hong tuaksuk-te a, kei hong sucip suk-te hi.
 
-**ZVS:** Kei ka bukna leihawmah amaute hong tuaksuk uh a, kei hong sucipsuk uh hi.
+**ZVS:** Kei ka bukna leihawmah amaute hong tuaksuk-te a, kei hong sucipsuk-te hi.
 
 **Grammar:** plural: uh marker
 

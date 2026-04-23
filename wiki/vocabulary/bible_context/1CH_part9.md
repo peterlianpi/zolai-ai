@@ -6,9 +6,9 @@
 **Context:** Used repeatedly to denote direct male descent in a genealogy.
 **Example:** a tapa Joram
 
-### ahi uh hi = they were / they are
+### ahi-te hi = they were / they are
 **Context:** A concluding phrase indicating a list of individuals are the sons/descendants.
-**Example:** Zedekiah, a lina Shallum ahi uh hi.
+**Example:** Zedekiah, a lina Shallum ahi-te hi.
 
 ### tapate = sons (plural)
 **Context:** The plural form of 'tapa' used when listing multiple sons.
@@ -70,24 +70,24 @@
 **Context:** Used alongside 'tapa' (son) to indicate the total number of children.
 **Example:** tapa khat leh tupa nga nei a
 
-### vekin guk pha uh hi = totaling six
+### vekin guk pha-te hi = totaling six
 **Context:** Indicates the total count of Shemaiah's sons.
-**Example:** a vekin guk pha uh hi.
+**Example:** a vekin guk pha-te hi.
 
-### thum pha uh hi = totaling three
+### thum pha-te hi = totaling three
 **Context:** Indicates the total count of Neariah's sons.
-**Example:** thum pha uh hi.
+**Example:** thum pha-te hi.
 
-### sagih pha uh hi = totaling seven
+### sagih pha-te hi = totaling seven
 **Context:** Indicates the total count of Elio-enai's sons.
-**Example:** sagih pha uh hi.
+**Example:** sagih pha-te hi.
 
 ## Phrases & Usage
 
 - **a tapa** = his son
   - Usage: Standard possessive/relational marker in genealogies, linking the father to the son.
 
-- **ahi uh hi** = they were
+- **ahi-te hi** = they were
   - Usage: Used at the end of a list of names to confirm that those listed constitute the group being discussed (e.g., the sons).
 
 - **kici tanu khat zong nei hi** = also had one daughter named
@@ -98,7 +98,7 @@
 
 ## Grammar Patterns
 
-- **X’ tapate in: Y, Z, ahi uh hi.**
+- **X’ tapate in: Y, Z, ahi-te hi.**
   - Possessive structure showing the sons of X are Y and Z. The apostrophe (') indicates the genitive/possessive case for the father's name.
   - Example: Josiah’ tapate in: A tacil Johanan...
 
@@ -106,6 +106,6 @@
   - Used for ordered lists of sons, specifying birth order (first, second, third, etc.).
   - Example: A tacil Johanan, a nihna Jehoiakim...
 
-- **[Name]’ tapate in: [List of sons], [count] pha uh hi.**
+- **[Name]’ tapate in: [List of sons], [count] pha-te hi.**
   - Structure used to conclude a list of descendants by stating the total count of individuals in that generation.
-  - Example: Neariah’ tapate in: Elio-enai, Hizkiah, leh Azrikam, thum pha uh hi.
+  - Example: Neariah’ tapate in: Elio-enai, Hizkiah, leh Azrikam, thum pha-te hi.

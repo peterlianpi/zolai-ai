@@ -62,27 +62,27 @@
 ### v5
 **EN:** Behold, I am against thee, saith the
 
-**TDB77:** Tua ahih manin Vanglianpen Topa in hih bangin ci hi: “Nineveh khuapi aw, daan kong pia ding hi. Na nik kong hawkkhiatsak ding a, minamte in guak tanga na omna hong mu ding a, na zumhuaina teng mu ding uh hi.
+**TDB77:** Tua ahih manin Vanglianpen Topa in hih bangin ci hi: “Nineveh khuapi aw, daan kong pia ding hi. Na nik kong hawkkhiatsak ding a, minamte in guak tanga na omna hong mu ding a, na zumhuaina teng mu ding-te hi.
 
-**ZVS:** Tua ahih manin Vanglian { Topa } in hih bangin ci hi: “Nineveh khuapi aw, gim kong pia ding hi. Na nik kong hawkkhiatsak ding a, minamte in na guak omna hong mu ding uh a, na zumhuaina teng hong mu ding uh hi.
+**ZVS:** Tua ahih manin Vanglian { Topa } in hih bangin ci hi: “Nineveh khuapi aw, gim kong pia ding hi. Na nik kong hawkkhiatsak ding a, minamte in na guak omna hong mu ding-te a, na zumhuaina teng hong mu ding-te hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | plural: uh marker
 
 ### v6
 **EN:** And I will cast abominable filth upon thee, and make thee vile, and will set thee as a gazingstock.
 
-**TDB77:** Nang hong huat bawlin, ninbulom tawh kong dimsak ding a, mite in lamdang sakna tawh hong en ding uh hi.
+**TDB77:** Nang hong huat bawlin, ninbulom tawh kong dimsak ding a, mite in lamdang sakna tawh hong en ding-te hi.
 
-**ZVS:** Nang hong huatbawlin ninbulom tawh kong kidimsak ding a, mite in lamdangsakna tawh nang hong en ding uh hi.
+**ZVS:** Nang hong huatbawlin ninbulom tawh kong kidimsak ding a, mite in lamdangsakna tawh nang hong en ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v7
 **EN:** And it shall come to pass, that all they that look upon thee shall flee from thee, and say, Nineveh is laid waste: who will bemoan her? whence shall I seek comforters for thee?
 
-**TDB77:** Nang hong mu khempeuh nungkik gaih-in, ‘Nineveh khuapi siacip ta hi; kua in khasiat ding hiam?’ ci ding uh hi. Ahi zongin nang hong hehnem nuam kuamah om lo ding hi,” ci hi.
+**TDB77:** Nang hong mu khempeuh nungkik gaih-in, ‘Nineveh khuapi siacip ta hi; kua in khasiat ding hiam?’ ci ding-te hi. Ahi zongin nang hong hehnem nuam kuamah om lo ding hi,” ci hi.
 
-**ZVS:** Nang hong mu khempeuh nungkik gaihin, ‘Nineveh khuapi siacip ta hi; kua in khasiat ding ahi hiam?’ ci ding uh hi. Ahi zongin nang a hong hehnem nuam kuamah omlo ding hi,” ci hi.
+**ZVS:** Nang hong mu khempeuh nungkik gaihin, ‘Nineveh khuapi siacip ta hi; kua in khasiat ding ahi hiam?’ ci ding-te hi. Ahi zongin nang a hong hehnem nuam kuamah omlo ding hi,” ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: lo | plural: uh marker
 
@@ -107,9 +107,9 @@
 ### v10
 **EN:** Yet was she carried away, she went into captivity: her young children also were dashed in pieces at the top of all the streets: and they cast lots for her honourable men, and all her great men were bound in chains.
 
-**TDB77:** Tua bang hi napi-in, Thebes khuamite kipua khia-in sal suak uh hi. Konglak mun citengah a tate uh kisatlum hi. A miliante, sikkol kibulhin kipua khia a, amau a man galte in hawm uh hi.
+**TDB77:** Tua bang hi napi-in, Thebes khuamite kipua khia-in sal suak-te hi. Konglak mun citengah a tate-te kisatlum hi. A miliante, sikkol kibulhin kipua khia a, amau a man galte in hawm-te hi.
 
-**ZVS:** Tua bang hinapi-in, Thebes khuamite kipuakhia-in sal a suak uh hi. Konglak mun citengah a tate uh kisatlum hi. A miliante, sikkol kibulhin kipuakhia a, amau a man a galte un amaute a hawm uh hi.
+**ZVS:** Tua bang hinapi-in, Thebes khuamite kipuakhia-in sal a suak-te hi. Konglak mun citengah a tate-te kisatlum hi. A miliante, sikkol kibulhin kipuakhia a, amau a man a galte un amaute a hawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -150,45 +150,45 @@
 ### v15
 **EN:** There shall the fire devour thee; the sword shall cut thee off, it shall eat thee up like the cankerworm: make thyself many as the cankerworm, make thyself many as the locusts.
 
-**TDB77:** tua bang na hih laitakin mei in hong kangtumin, galte in hong vatlum ding hi. Kauphe honpite in an a nek tum bangin, nang na beimang ding hi. Kauphe bangin tampitak na pha khin uh hi.
+**TDB77:** tua bang na hih laitakin mei in hong kangtumin, galte in hong vatlum ding hi. Kauphe honpite in an a nek tum bangin, nang na beimang ding hi. Kauphe bangin tampitak na pha khin-te hi.
 
-**ZVS:** tua bang na hih laitakin mei in hong kangtumin galte in hong vatlum ding hi. Kauphe honpite in an a nektum bangin nang na beimang ding hi. Kauphe bangin tampi tak na pha khin uh hi.
+**ZVS:** tua bang na hih laitakin mei in hong kangtumin galte in hong vatlum ding hi. Kauphe honpite in an a nektum bangin nang na beimang ding hi. Kauphe bangin tampi tak na pha khin-te hi.
 
 **Grammar:** completed: already done | future: will | plural: uh marker
 
 ### v16
 **EN:** Thou hast multiplied thy merchants above the stars of heaven: the cankerworm spoileth, and flieth away.
 
-**TDB77:** Van-a aksi sangin a tam zaw-in, sum bawl mi na om khin ta uh hi. A kha zalin a leengmang kauphe hon bangin, tu-in amaute om nawn lo uh hi.
+**TDB77:** Van-a aksi sangin a tam zaw-in, sum bawl mi na om khin ta-te hi. A kha zalin a leengmang kauphe hon bangin, tu-in amaute om nawn lo-te hi.
 
-**ZVS:** Vana aksi sangin a tamzaw sumbawl mi na om khinta uh hi. A kha zalin a leengmang kauphe honpi bangin tu-in amaute om nawnlo uh hi.
+**ZVS:** Vana aksi sangin a tamzaw sumbawl mi na om khinta-te hi. A kha zalin a leengmang kauphe honpi bangin tu-in amaute om nawnlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | negation: lo | plural: uh marker
 
 ### v17
 **EN:** Thy crowned are as the locusts, and thy captains as the great grasshoppers, which camp in the hedges in the cold day, but when the sun ariseth they flee away, and their place is not known where they are.
 
-**TDB77:** Na uliante uh ahih leh, phalbi lai-in kulh tungah a bawm miamua, ni a suah ciangin leeng khia mangin, a omna mel a kithei lo kauphe hon tawh kibang hi.
+**TDB77:** Na uliante-te ahih leh, phalbi lai-in kulh tungah a bawm miamua, ni a suah ciangin leeng khia mangin, a omna mel a kithei lo kauphe hon tawh kibang hi.
 
-**ZVS:** Na uliante uh ahih leh, phalbi hun lai-in kulh tungah a bawm miamua, ni a suah ciangin leengkhia mangin, a omna mel a kithei nawnlo kauphe hon tawh kibang uh hi.
+**ZVS:** Na uliante-te ahih leh, phalbi hun lai-in kulh tungah a bawm miamua, ni a suah ciangin leengkhia mangin, a omna mel a kithei nawnlo kauphe hon tawh kibang-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v18
 **EN:** Thy shepherds slumber, O king of Assyria: thy nobles shall dwell in the dust: thy people is scattered upon the mountains, and no man gathereth them.
 
-**TDB77:** Assiria kumpipa aw, na gamsung a ukte si ta a, na uliante ihmu paisuak uh hi. Na mite, mualtung tengah kithehthang a, inn-ah a kaikhawm ding kuamah om lo hi.
+**TDB77:** Assiria kumpipa aw, na gamsung a ukte si ta a, na uliante ihmu paisuak-te hi. Na mite, mualtung tengah kithehthang a, inn-ah a kaikhawm ding kuamah om lo hi.
 
-**ZVS:** Assiria kumpipa aw, na gamsung a ukte si ta a, na uliante ihmu paisuak uh hi. Na mite, mualtung tengah kithehthang a, inn-ah a kaikhawm ding kuamah om nawnlo hi.
+**ZVS:** Assiria kumpipa aw, na gamsung a ukte si ta a, na uliante ihmu paisuak-te hi. Na mite, mualtung tengah kithehthang a, inn-ah a kaikhawm ding kuamah om nawnlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** There is no healing of thy bruise; thy wound is grievous: all that hear the bruit of thee shall clap the hands over thee: for upon whom hath not thy wickedness passed continually?
 
-**TDB77:** Na liammate a dam theihna ding om lo a, na meimate a dam thei lo pawl ahi hi. Na thuakna thu a za mi khempeuh in lungdamin a khut uh beng ding hi. Bang hang hiam cih leh na gitlohna a thuak kha lo kuamah om lo hi.
+**TDB77:** Na liammate a dam theihna ding om lo a, na meimate a dam thei lo pawl ahi hi. Na thuakna thu a za mi khempeuh in lungdamin a khut-te beng ding hi. Bang hang hiam cih leh na gitlohna a thuak kha lo kuamah om lo hi.
 
-**ZVS:** Na liammate, a dam theihna ding omlo a, na meimate a dam theilo pawl ahi hi. Na thuakna thu a za mi khempeuh in lungdamin a khut uh beng ding uh hi. Bang hang hiam cih leh na gitlohna a thuak khalo kuamah omlo hi.
+**ZVS:** Na liammate, a dam theihna ding omlo a, na meimate a dam theilo pawl ahi hi. Na thuakna thu a za mi khempeuh in lungdamin a khut-te beng ding-te hi. Bang hang hiam cih leh na gitlohna a thuak khalo kuamah omlo hi.
 
 **Grammar:** future: will | negation: lo
 

@@ -24,36 +24,36 @@
 ### v1
 **EN:** Then came the daughters of Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, of the families of Manasseh the son of Joseph: and these are the names of his daughters; Mahlah, Noah, and Hoglah, and Milcah, and Tirzah.
 
-**TDB77:** Tua ciangin Josef tapa sung panin Manasseh’ tapa Makhir, Makhir’ tapa Gilead, Gilead’ tapa Hefer, Hefer’ tapa Zelofehad, Zelofehad’ tanute a nai-ah hong pai uh hi. Ama tanute’ minte in: Mahlah, Noah, Hoglah, Milkah, leh Tirzah ahi hi.
+**TDB77:** Tua ciangin Josef tapa sung panin Manasseh’ tapa Makhir, Makhir’ tapa Gilead, Gilead’ tapa Hefer, Hefer’ tapa Zelofehad, Zelofehad’ tanute a nai-ah hong pai-te hi. Ama tanute’ minte in: Mahlah, Noah, Hoglah, Milkah, leh Tirzah ahi hi.
 
-**ZVS:** Tua ciangin Josef' tapate sung panin Manasseh' tapa Makhir, Makhir' tapa Gilead, Gilead' tapa Hefer, Hefer' tapa Zelofehad' tanute a nai-ah hong pai uh hi. Ama tanute' minte in: Mahlah, Noah, Hoglah, Milkah, leh Tirzah ahi hi.
+**ZVS:** Tua ciangin Josef' tapate sung panin Manasseh' tapa Makhir, Makhir' tapa Gilead, Gilead' tapa Hefer, Hefer' tapa Zelofehad' tanute a nai-ah hong pai-te hi. Ama tanute' minte in: Mahlah, Noah, Hoglah, Milkah, leh Tirzah ahi hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v2
 **EN:** And they stood before Moses, and before Eleazar the priest, and before the princes and all the congregation, by the door of the tabernacle of the congregation, saying,
 
-**TDB77:** Amaute, Moses mai leh siampi Eleazer mai leh makaite mai leh mihonte khempeuh mai, kikhopna buk kongah ding uh a,
+**TDB77:** Amaute, Moses mai leh siampi Eleazer mai leh makaite mai leh mihonte khempeuh mai, kikhopna buk kongah ding-te a,
 
-**ZVS:** Amaute, Moses' mai leh siampi Eleazar' mai leh makaite' mai leh mihonte khempeuh' mai, kikhopna bukkongah ding uh a,
+**ZVS:** Amaute, Moses' mai leh siampi Eleazar' mai leh makaite' mai leh mihonte khempeuh' mai, kikhopna bukkongah ding-te a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Our father died in the wilderness, and he was not in the company of them that gathered themselves together against the
 
-**TDB77:** “Ka pa uh gam lakah a si hi; Korah tawh kipawlin Topa’ langah a kikaikhawm tawm mihonte lakah amah kihel lo hi; ahih hangin ama khialhna hangin si hi; amah in tapa nei lo hi.
+**TDB77:** “Ka pa-te gam lakah a si hi; Korah tawh kipawlin Topa’ langah a kikaikhawm tawm mihonte lakah amah kihel lo hi; ahih hangin ama khialhna hangin si hi; amah in tapa nei lo hi.
 
-**ZVS:** “Ka pa uh gamlakah a si hi. Korah tawh kipawlin { Topa } langpangin a kikaikhawm mihonte lakah amah kihello hi. Ahih hangin ama khialhna hangin si a, amah in tapa neilo hi.
+**ZVS:** “Ka pa-te gamlakah a si hi. Korah tawh kipawlin { Topa } langpangin a kikaikhawm mihonte lakah amah kihello hi. Ahih hangin ama khialhna hangin si a, amah in tapa neilo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
 ### v4
 **EN:** Why should the name of our father be done away from among his family, because he hath no son? Give unto us therefore a possession among the brethren of our father.
 
-**TDB77:** Amah in tapa a neih loh man bekin bang hangin a beh sung panin ka pa uh min mangthang ding ahi hiam? Ka pa uh’ sanggamte lakah kote neihsa hong pia un,” a ci uh hi.
+**TDB77:** Amah in tapa a neih loh man bekin bang hangin a beh sung panin ka pa-te min mangthang ding ahi hiam? Ka pa uh’ sanggamte lakah kote neihsa hong pia un,” a ci-te hi.
 
-**ZVS:** Amah in tapa a neihloh man bekin bang hangin a beh sung panin ka pa uh' min mangthang ding ahi hiam? Ka pa uh sanggamte' lakah kote zong neihsa hong pia un,” a ci uh hi.
+**ZVS:** Amah in tapa a neihloh man bekin bang hangin a beh sung panin ka pa uh' min mangthang ding ahi hiam? Ka pa-te sanggamte' lakah kote zong neihsa hong pia un,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -85,27 +85,27 @@
 ### v8
 **EN:** And thou shalt speak unto the children of Israel, saying, If a man die, and have no son, then ye shall cause his inheritance to pass unto his daughter.
 
-**TDB77:** Israel mite tungah hih bangin na gen ding hi: ‘Pasal khat si-in, tapa a neih kei leh, a tanu ama gamh na luah sak ding uh hi.
+**TDB77:** Israel mite tungah hih bangin na gen ding hi: ‘Pasal khat si-in, tapa a neih kei leh, a tanu ama gamh na luah sak ding-te hi.
 
-**ZVS:** Israel mite tungah hih bangin na gen ding hi: ‘Pasal khat si-in, tapa a neih kei leh, ama gamh a tanu na luahsak ding uh hi.
+**ZVS:** Israel mite tungah hih bangin na gen ding hi: ‘Pasal khat si-in, tapa a neih kei leh, ama gamh a tanu na luahsak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v9
 **EN:** And if he have no daughter, then ye shall give his inheritance unto his brethren.
 
-**TDB77:** Amah in tanu a neih kei leh, ama gamh a sanggam pasalte tungah na tung sak ding uh hi.
+**TDB77:** Amah in tanu a neih kei leh, ama gamh a sanggam pasalte tungah na tung sak ding-te hi.
 
-**ZVS:** Amah in tanu a neih kei leh, ama gamh a sanggam pasalte tungah na tungsak ding uh hi.
+**ZVS:** Amah in tanu a neih kei leh, ama gamh a sanggam pasalte tungah na tungsak ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v10
 **EN:** And if he have no brethren, then ye shall give his inheritance unto his father's brethren.
 
-**TDB77:** Amah in sanggam pasal a neih kei leh, ama gamh ama pa’ sanggam pasalte tungah na pia ding uh hi.
+**TDB77:** Amah in sanggam pasal a neih kei leh, ama gamh ama pa’ sanggam pasalte tungah na pia ding-te hi.
 
-**ZVS:** Amah in sanggam pasal a neih kei leh, ama gamh ama pa' sanggam pasalte tungah na pia ding uh hi.
+**ZVS:** Amah in sanggam pasal a neih kei leh, ama gamh ama pa' sanggam pasalte tungah na pia ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -114,7 +114,7 @@
 
 **TDB77:** Ama pa in sanggam pasal a neih kei leh, ama gamh ama innkuan tawh a kinai ama behpa’ tungah na pia ding a, amah in tang ding hi. Topa in Moses a thupiak bangin hih in Israel mite tungah thukham leh ngeina kip hi ding hi,’ ci in,” a ci hi.
 
-**ZVS:** Ama pa in sanggam pasal a neih kei leh, ama gamh ama innkuan tawh a kinai ama behpa' tungah na pia ding uh a, amah in tang ding hi. { Topa } in Moses a thupiak bangin hih pen Israel mite tungah thukham leh ngeina kip hi ding hi,’ ci in,” a ci hi.
+**ZVS:** Ama pa in sanggam pasal a neih kei leh, ama gamh ama innkuan tawh a kinai ama behpa' tungah na pia ding-te a, amah in tang ding hi. { Topa } in Moses a thupiak bangin hih pen Israel mite tungah thukham leh ngeina kip hi ding hi,’ ci in,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 
@@ -196,9 +196,9 @@
 ### v21
 **EN:** And he shall stand before Eleazar the priest, who shall ask counsel for him after the judgment of Urim before the
 
-**TDB77:** Siampi Eleazar’ mai-ah amah ding ding a, amah in Topa mai-ah Urim thukhenna tawh thu dotsak ding hi; amah leh amah tawh a om Israel mi khempeuh, mihon buppi, ama thu tawh pusuak ding uh a, ama thu mah tawh sungtum ding uh hi,” a ci hi.
+**TDB77:** Siampi Eleazar’ mai-ah amah ding ding a, amah in Topa mai-ah Urim thukhenna tawh thu dotsak ding hi; amah leh amah tawh a om Israel mi khempeuh, mihon buppi, ama thu tawh pusuak ding-te a, ama thu mah tawh sungtum ding-te hi,” a ci hi.
 
-**ZVS:** Siampi Eleazar' mai-ah amah ding ding a, amah in { Topa' } mai-ah Urim thukhenna tawh thu dotsak ding hi. Amah leh amah tawh a om Israel mi khempeuh, mihon buppi, ama thu tawh pusuak ding uh a, ama thu mah tawh sungtum ding uh hi,” a ci hi.
+**ZVS:** Siampi Eleazar' mai-ah amah ding ding a, amah in { Topa' } mai-ah Urim thukhenna tawh thu dotsak ding hi. Amah leh amah tawh a om Israel mi khempeuh, mihon buppi, ama thu tawh pusuak ding-te a, ama thu mah tawh sungtum ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

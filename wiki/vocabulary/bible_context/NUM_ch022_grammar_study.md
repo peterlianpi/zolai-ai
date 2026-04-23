@@ -28,9 +28,9 @@
 ### v1
 **EN:** And the children of Israel set forward, and pitched in the plains of Moab on this side Jordan by Jericho.
 
-**TDB77:** Tua ciangin Israel mite ding khia uh a, Jerikho gei Jordan gal khat Moab gam leizangah giahphual sat uh hi.
+**TDB77:** Tua ciangin Israel mite ding khia-te a, Jerikho gei Jordan gal khat Moab gam leizangah giahphual sat-te hi.
 
-**ZVS:** Tua ciangin Israel mite dingkhia uh a, Jerikho gei Jordan galkhat Moab gam zanglei-ah giahphual a sat uh hi.
+**ZVS:** Tua ciangin Israel mite dingkhia-te a, Jerikho gei Jordan galkhat Moab gam zanglei-ah giahphual a sat-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -44,9 +44,9 @@
 ### v3
 **EN:** And Moab was sore afraid of the people, because they were many: and Moab was distressed because of the children of Israel.
 
-**TDB77:** Amaute tam mahmah uh ahih manin Moab mite in tua mite kihta uh hi; Israel mite kihtakna tawh Moab mite a kidim hi.
+**TDB77:** Amaute tam mahmah-te ahih manin Moab mite in tua mite kihta-te hi; Israel mite kihtakna tawh Moab mite a kidim hi.
 
-**ZVS:** Amaute tam mahmah uh ahih manin Moab mite in tua mite kihta uh a, Israel mite kihtakna hangin Moab mite linggawp uh hi.
+**ZVS:** Amaute tam mahmah-te ahih manin Moab mite in tua mite kihta-te a, Israel mite kihtakna hangin Moab mite linggawp-te hi.
 
 **Grammar:** intensifier: very/greatly | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -62,27 +62,27 @@
 ### v5
 **EN:** He sent messengers therefore unto Balaam the son of Beor to Pethor, which is by the river of the land of the children of his people, to call him, saying, Behold, there is a people come out from Egypt: behold, they cover the face of the earth, and they abide over against me:
 
-**TDB77:** Amau mite’ gam, Gun gei Pethor ah a om Beor tapa Balaam kiangah kamtaite sawlin, “En in, Izipt panin mihon khat hong paikhia hi; amaute in lei maitang teng dim khin uh a, keima gal khatah amaute om uh hi.
+**TDB77:** Amau mite’ gam, Gun gei Pethor ah a om Beor tapa Balaam kiangah kamtaite sawlin, “En in, Izipt panin mihon khat hong paikhia hi; amaute in lei maitang teng dim khin-te a, keima gal khatah amaute om-te hi.
 
-**ZVS:** Amaw mite' gam Gun gei Pethor-ah a om Beor' tapa Balaam kiangah kamtaite sawlin, “En in, Egypt panin mihon khat hong paikhia hi. Amaute, lei maitang teng dim khin uh a, keima galkhatah amaute om uh hi.
+**ZVS:** Amaw mite' gam Gun gei Pethor-ah a om Beor' tapa Balaam kiangah kamtaite sawlin, “En in, Egypt panin mihon khat hong paikhia hi. Amaute, lei maitang teng dim khin-te a, keima galkhatah amaute om-te hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Come now therefore, I pray thee, curse me this people; for they are too mighty for me: peradventure I shall prevail, that we may smite them, and that I may drive them out of the land: for I wot that he whom thou blessest is blessed, and he whom thou cursest is cursed.
 
-**TDB77:** Tu-in hong pai in la, amaute hat lua uh ahih manin hih mite hong samsiat sak in; tua hi leh amaute zoin hih gam panin ka hawl khia zo kha ding hi; bang hang hiam cih leh thupha na piak mi in thupha ngahin na samsiat mi in siatna a ngah ka thei hi,” a ci sak hi.
+**TDB77:** Tu-in hong pai in la, amaute hat lua-te ahih manin hih mite hong samsiat sak in; tua hi leh amaute zoin hih gam panin ka hawl khia zo kha ding hi; bang hang hiam cih leh thupha na piak mi in thupha ngahin na samsiat mi in siatna a ngah ka thei hi,” a ci sak hi.
 
-**ZVS:** Tu-in hong pai in la, amaute hat lua uh ahih manin hih mite hong samsiatsak in. Tua hi leh amaute zo-in hih gam panin ka hawlkhiazo khading hi. Bang hang hiam cih leh thupha na piak mi in thupha ngahin, na samsiat mi in siatna a ngahna ka thei hi,” cisak hi.
+**ZVS:** Tu-in hong pai in la, amaute hat lua-te ahih manin hih mite hong samsiatsak in. Tua hi leh amaute zo-in hih gam panin ka hawlkhiazo khading hi. Bang hang hiam cih leh thupha na piak mi in thupha ngahin, na samsiat mi in siatna a ngahna ka thei hi,” cisak hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because
 
 ### v7
 **EN:** And the elders of Moab and the elders of Midian departed with the rewards of divination in their hand; and they came unto Balaam, and spake unto him the words of Balak.
 
-**TDB77:** Tua ahih ciangin Moab upate leh Midian upate aisaan man ding tawh kuan khia uh hi; Balaam kiangah amaute pai uh a, Balak’ thu ama kiangah sung uh hi.
+**TDB77:** Tua ahih ciangin Moab upate leh Midian upate aisaan man ding tawh kuan khia-te hi; Balaam kiangah amaute pai-te a, Balak’ thu ama kiangah sung-te hi.
 
-**ZVS:** Tua ahih ciangin Moab upate leh Midian upate aisaanna man ding tawh kuankhia-in Balaam kiangah pai uh a, Balak' thu ama kiangah sung uh hi.
+**ZVS:** Tua ahih ciangin Moab upate leh Midian upate aisaanna man ding tawh kuankhia-in Balaam kiangah pai-te a, Balak' thu ama kiangah sung-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -91,7 +91,7 @@
 
 **TDB77:** Amah in amaute kiangah, “Tu zan hih lai-ah giak un, Topa in kei tungah hong gen bangin note tungah thu kong puak kik ding hi,” a ci hi; tua ahih ciangin Moab uliante Balaam tawh om hi.
 
-**ZVS:** Balaam in amaute kiangah, “Tuzan hih lai-ah giak phot un. { Topa } in kei tungah hong gen bangin note tungah kong genkik ding hi,” a ci hi. Tua ahih ciangin Moab uliante Balaam tawh a om uh hi.
+**ZVS:** Balaam in amaute kiangah, “Tuzan hih lai-ah giak phot un. { Topa } in kei tungah hong gen bangin note tungah kong genkik ding hi,” a ci hi. Tua ahih ciangin Moab uliante Balaam tawh a om-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix
 
@@ -114,9 +114,9 @@
 ### v11
 **EN:** Behold, there is a people come out of Egypt, which covereth the face of the earth: come now, curse me them; peradventure I shall be able to overcome them, and drive them out.
 
-**TDB77:** ‘En in, Izipt panin mihon khat hong paikhia a, lei maitang teng dim uh hi; tu-in hong pai in la amaute doin ka hawl khia zo kha ding hi,’ hong ci hi,” ci-in a gen hi.
+**TDB77:** ‘En in, Izipt panin mihon khat hong paikhia a, lei maitang teng dim-te hi; tu-in hong pai in la amaute doin ka hawl khia zo kha ding hi,’ hong ci hi,” ci-in a gen hi.
 
-**ZVS:** ‘En in, Egypt panin mihon khat hong paikhia a, lei maitang teng dim uh hi. Tu-in hong pai in la, amaute hong samsiatsak in. Tua hi leh amaute do-in ka hawlkhiazo khading hi,’ hong ci hi,” ci-in a gen hi.
+**ZVS:** ‘En in, Egypt panin mihon khat hong paikhia a, lei maitang teng dim-te hi. Tu-in hong pai in la, amaute hong samsiatsak in. Tua hi leh amaute do-in ka hawlkhiazo khading hi,’ hong ci hi,” ci-in a gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -141,9 +141,9 @@
 ### v14
 **EN:** And the princes of Moab rose up, and they went unto Balak, and said, Balaam refuseth to come with us.
 
-**TDB77:** Tua ahih ciangin Moab uliante ding-in Balak kiangah pai uh a, “Balaam in kote hong zui nuam lo hi,” ci uh hi.
+**TDB77:** Tua ahih ciangin Moab uliante ding-in Balak kiangah pai-te a, “Balaam in kote hong zui nuam lo hi,” ci-te hi.
 
-**ZVS:** Tua ahih ciangin Moab uliante dingin Balak kiangah ciah uh a, “Balaam in kote hong zui nuamlo hi,” a ci uh hi.
+**ZVS:** Tua ahih ciangin Moab uliante dingin Balak kiangah ciah-te a, “Balaam in kote hong zui nuamlo hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -159,7 +159,7 @@
 ### v16
 **EN:** And they came to Balaam, and said to him, Thus saith Balak the son of Zippor, Let nothing, I pray thee, hinder thee from coming unto me:
 
-**TDB77:** Amaute Balaam kiangah pai uh a, ama kiangah, “Zippor’ tapa Balak in hih bangin ci hi: ‘Kei kiangah nong pai nading bangmah kikol-awk sak kei in;
+**TDB77:** Amaute Balaam kiangah pai-te a, ama kiangah, “Zippor’ tapa Balak in hih bangin ci hi: ‘Kei kiangah nong pai nading bangmah kikol-awk sak kei in;
 
 **ZVS:** Amaute zong Balaam kiangah pai-in ama kiangah, “Zippor' tapa Balak in hih bangin ci hi: ‘Kei kiangah nong paina ding bangmah kikol-awksak kei in;
 
@@ -168,9 +168,9 @@
 ### v17
 **EN:** For I will promote thee unto very great honour, and I will do whatsoever thou sayest unto me: come therefore, I pray thee, curse me this people.
 
-**TDB77:** bang hang hiam cih leh min phatna lianpi nang kong pia ding a, kei tunga nong gen peuhpeuh ka hih ding hi; hong pai in la, hih mite hong samsiat sak in,’ a ci hi,” ci-in a gen uh hi.
+**TDB77:** bang hang hiam cih leh min phatna lianpi nang kong pia ding a, kei tunga nong gen peuhpeuh ka hih ding hi; hong pai in la, hih mite hong samsiat sak in,’ a ci hi,” ci-in a gen-te hi.
 
-**ZVS:** bang hang hiam cih leh minphatna lianpi nang kong pia ding a, kei' tunga nong gen peuhpeuh ka hih ding hi. Hong pai in la, hih mite hong samsiatsak in,’ ci hi,” ci-in a gen uh hi.
+**ZVS:** bang hang hiam cih leh minphatna lianpi nang kong pia ding a, kei' tunga nong gen peuhpeuh ka hih ding hi. Hong pai in la, hih mite hong samsiatsak in,’ ci hi,” ci-in a gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -213,9 +213,9 @@
 ### v22
 **EN:** And God's anger was kindled because he went: and the angel of the
 
-**TDB77:** Ahih hangin amah pai ahih manin Pasian’ hehna so hi; amah langpang dingin Topa’ vantungmi in lampi ah na pang hi. Tu-in a la tungah amah tuang a, a nasemte nih in zong a zui uh hi.
+**TDB77:** Ahih hangin amah pai ahih manin Pasian’ hehna so hi; amah langpang dingin Topa’ vantungmi in lampi ah na pang hi. Tu-in a la tungah amah tuang a, a nasemte nih in zong a zui-te hi.
 
-**ZVS:** Ahih hangin amah pai ahih manin Pasian heh a, amah a khaktan dingin { Topa' } vantung mi in lampi-ah na pang hi. Tu-in a la tungah amah tuang a, a nasemte nih in zong a zui uh hi.
+**ZVS:** Ahih hangin amah pai ahih manin Pasian heh a, amah a khaktan dingin { Topa' } vantung mi in lampi-ah na pang hi. Tu-in a la tungah amah tuang a, a nasemte nih in zong a zui-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | causal: because | plural: uh marker
 
@@ -366,9 +366,9 @@
 ### v39
 **EN:** And Balaam went with Balak, and they came unto Kirjath–huzoth.
 
-**TDB77:** Tua ciangin Balaam in Balak zui a, Kiriath-huzoth khua ah tung uh hi.
+**TDB77:** Tua ciangin Balaam in Balak zui a, Kiriath-huzoth khua ah tung-te hi.
 
-**ZVS:** Tua ciangin Balaam in Balak zui a, Kiriathhuzoth khua-ah a tung uh hi.
+**ZVS:** Tua ciangin Balaam in Balak zui a, Kiriathhuzoth khua-ah a tung-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

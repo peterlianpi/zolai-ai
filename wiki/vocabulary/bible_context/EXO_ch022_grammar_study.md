@@ -148,9 +148,9 @@
 ### v18
 **EN:** Thou shalt not suffer a witch to live.
 
-**TDB77:** “Numei aisannu na hing khawi kei ding uh hi.
+**TDB77:** “Numei aisannu na hing khawi kei ding-te hi.
 
-**ZVS:** “Numei aisannu na hingkhawi kei ding uh hi.
+**ZVS:** “Numei aisannu na hingkhawi kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -173,43 +173,43 @@
 ### v21
 **EN:** Thou shalt neither vex a stranger, nor oppress him: for ye were strangers in the land of Egypt.
 
-**TDB77:** “Khual mi khat' tungah khialhna na bawl kei ding uh a, amah na nengniam kei ding uh hi, bang hang hiam cih leh note in Izipt leitangah khual mite na hi ngei uh hi.
+**TDB77:** “Khual mi khat' tungah khialhna na bawl kei ding-te a, amah na nengniam kei ding-te hi, bang hang hiam cih leh note in Izipt leitangah khual mite na hi ngei-te hi.
 
-**ZVS:** “Khualmi khatpeuh na bawlsia kei ding uh a, na nengniam kei ding uh hi. Bang hang hiam cih leh note zong Egypt leitangah khual mite na hi ngei uh hi.
+**ZVS:** “Khualmi khatpeuh na bawlsia kei ding-te a, na nengniam kei ding-te hi. Bang hang hiam cih leh note zong Egypt leitangah khual mite na hi ngei-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v22
 **EN:** Ye shall not afflict any widow, or fatherless child.
 
-**TDB77:** Meigong numei ahi a, tagah ahi zongin na gimsak kei ding uh hi.
+**TDB77:** Meigong numei ahi a, tagah ahi zongin na gimsak kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v23
 **EN:** If thou afflict them in any wise, and they cry at all unto me, I will surely hear their cry;
 
-**TDB77:** Note in amaute na gimsak uh a, amaute keima' tungah hong kiko leh, keimah in amau’ kikona ka za taktak ding hi;
+**TDB77:** Note in amaute na gimsak-te a, amaute keima' tungah hong kiko leh, keimah in amau’ kikona ka za taktak ding hi;
 
-**ZVS:** Note in amaute na gimsak uh a, amaute keima tungah hong kiko leh, keimah in amau' kikona ka za taktak ding hi.
+**ZVS:** Note in amaute na gimsak-te a, amaute keima tungah hong kiko leh, keimah in amau' kikona ka za taktak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And my wrath shall wax hot, and I will kill you with the sword; and your wives shall be widows, and your children fatherless.
 
-**TDB77:** ka hehna so-in namsau tawh note kong that ding a, na zite uh meigong numei leh na tate uh pa nei lo suak ding uh hi.
+**TDB77:** ka hehna so-in namsau tawh note kong that ding a, na zite-te meigong numei leh na tate-te pa nei lo suak ding-te hi.
 
-**ZVS:** Ka hehna so-in namsau tawh note kong that ding a, na zite uh meigong suakin, na tate uh tagah suak ding hi.
+**ZVS:** Ka hehna so-in namsau tawh note kong that ding a, na zite-te meigong suakin, na tate-te tagah suak ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: lo | plural: uh marker
 
 ### v25
 **EN:** If thou lend money to any of my people that is poor by thee, thou shalt not be to him as an usurer, neither shalt thou lay upon him usury.
 
-**TDB77:** “Note tawh a om, a zawng keima' mite khat peuhpeuh' tungah sum leitawi na piak uh leh, ama' tungah sum leitawi a piapa bangin na om kei ding uh a, ama' tung panin a meet na dok kei ding uh hi.
+**TDB77:** “Note tawh a om, a zawng keima' mite khat peuhpeuh' tungah sum leitawi na piak-te leh, ama' tungah sum leitawi a piapa bangin na om kei ding-te a, ama' tung panin a meet na dok kei ding-te hi.
 
-**ZVS:** “Note tawh a om, a zawng keima mite khat peuhpeuh tungah sum leitawi na piak uh leh, ama tungah sum leitawi a piapa bangin na om kei ding uh a, ama tung panin a meet na dok kei ding uh hi.
+**ZVS:** “Note tawh a om, a zawng keima mite khat peuhpeuh tungah sum leitawi na piak-te leh, ama tungah sum leitawi a piapa bangin na om kei ding-te a, ama tung panin a meet na dok kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -234,36 +234,36 @@
 ### v28
 **EN:** Thou shalt not revile the gods, nor curse the ruler of thy people.
 
-**TDB77:** “Pasian na simmawh kei ding uh a, na mite uh a ukpa zong na samsia kei ding uh hi.
+**TDB77:** “Pasian na simmawh kei ding-te a, na mite-te a ukpa zong na samsia kei ding-te hi.
 
-**ZVS:** “Thukhente na simmawh kei ding uh a, na mite uh a ukpa zong na samsia kei ding uh hi.
+**ZVS:** “Thukhente na simmawh kei ding-te a, na mite-te a ukpa zong na samsia kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v29
 **EN:** Thou shalt not delay to offer the first of thy ripe fruits, and of thy liquors: the firstborn of thy sons shalt thou give unto me.
 
-**TDB77:** “Na anlakna pan leh na suknate panun a leetkhiate piak ding na zekai kei ding uh hi. “Na tapa cilte uh keima' tungah nong pia ding uh hi.
+**TDB77:** “Na anlakna pan leh na suknate panun a leetkhiate piak ding na zekai kei ding-te hi. “Na tapa cilte-te keima' tungah nong pia ding-te hi.
 
-**ZVS:** “Na anlakna pan uh leh sathau leh leenggah na suknate uh panin a leetkhiate piak khiat ding na zekai kei ding uh hi. “Na tapa cilte uh keima tungah nong pia ding uh hi.
+**ZVS:** “Na anlakna pan-te leh sathau leh leenggah na suknate-te panin a leetkhiate piak khiat ding na zekai kei ding-te hi. “Na tapa cilte-te keima tungah nong pia ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v30
 **EN:** Likewise shalt thou do with thine oxen, and with thy sheep: seven days it shall be with his dam; on the eighth day thou shalt give it me.
 
-**TDB77:** Na bawngtalte leh na tuute uh tawh tua mah bangin na hih ding uh hi; ni sagih sung a pi tawh om ding hi; a ni giat ni-in kei' tungah nong pia ding uh hi.
+**TDB77:** Na bawngtalte leh na tuute-te tawh tua mah bangin na hih ding-te hi; ni sagih sung a pi tawh om ding hi; a ni giat ni-in kei' tungah nong pia ding-te hi.
 
-**ZVS:** Na bawngtalte uh leh na tuute uh panin zong tua bangmahin nong pia ding uh hi. Ni sagih sung a pi tawh om ding a, a ni giat ni-in kei tungah nong pia ding uh hi.
+**ZVS:** Na bawngtalte-te leh na tuute-te panin zong tua bangmahin nong pia ding-te hi. Ni sagih sung a pi tawh om ding a, a ni giat ni-in kei tungah nong pia ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v31
 **EN:** And ye shall be holy men unto me: neither shall ye eat any flesh that is torn of beasts in the field; ye shall cast it to the dogs.
 
-**TDB77:** “Note in kei' tungah hong ki-ap mite na hi ding uh hi; tua ahih ciangin gamlakah gamsate in a balzan sa peuhmah note in na ne kei ding uh hi; note in tua sa uite na lot ding uh hi.
+**TDB77:** “Note in kei' tungah hong ki-ap mite na hi ding-te hi; tua ahih ciangin gamlakah gamsate in a balzan sa peuhmah note in na ne kei ding-te hi; note in tua sa uite na lot ding-te hi.
 
-**ZVS:** “Note pen kei' tungah hong ki-ap mite na hi ding uh hi. Tua ahih ciangin gamlakah gamsate in a balzan sa peuhmah note in na ne kei ding uh a, tua bang sate uite na lot ding uh hi.
+**ZVS:** “Note pen kei' tungah hong ki-ap mite na hi ding-te hi. Tua ahih ciangin gamlakah gamsate in a balzan sa peuhmah note in na ne kei ding-te a, tua bang sate uite na lot ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | negation: kei | plural: uh marker
 

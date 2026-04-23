@@ -37,18 +37,18 @@
 ### v2
 **EN:** Thus saith the
 
-**TDB77:** “A vanglian Topa, Israel mite’ Pasian in kong gen-inah: Note in Jerusalem khua leh Judah gam khuapi khempeuh tungah ka tun’sak gimna na mu zo uh hi. En un, tu ni-in tua khuate a siasa mahin om lai-a kuamah teeng lo hi.
+**TDB77:** “A vanglian Topa, Israel mite’ Pasian in kong gen-inah: Note in Jerusalem khua leh Judah gam khuapi khempeuh tungah ka tun’sak gimna na mu zo-te hi. En un, tu ni-in tua khuate a siasa mahin om lai-a kuamah teeng lo hi.
 
-**ZVS:** “Vanglian { Topa, } Israel mite' Pasian in kong genin-ah: Note in Jerusalem khua leh Judah gam khuapi khempeuh tungah ka tun'sak gimna na muzo uh hi. En un, tuni-in tua khuate a siasa mahin omlai a, kuamah tenglo hi.
+**ZVS:** “Vanglian { Topa, } Israel mite' Pasian in kong genin-ah: Note in Jerusalem khua leh Judah gam khuapi khempeuh tungah ka tun'sak gimna na muzo-te hi. En un, tuni-in tua khuate a siasa mahin omlai a, kuamah tenglo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v3
 **EN:** Because of their wickedness which they have committed to provoke me to anger, in that they went to burn incense, and to serve other gods, whom they knew not, neither they, ye, nor your fathers.
 
-**TDB77:** Bang hang hiam cih leh amaute in ka heh nadingin gitlohna bawl uh a, amaute-a kipan note leh na pute na pate un a theih ngei loh uh pasiante’ na semin paknamtui hal-in a bia uh hi.
+**TDB77:** Bang hang hiam cih leh amaute in ka heh nadingin gitlohna bawl-te a, amaute-a kipan note leh na pute na pate un a theih ngei loh-te pasiante’ na semin paknamtui hal-in a bia-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in ka hehna dingin gitlohna bawl uh a, amaute-a kipan note leh na pu na pate un a theih ngeiloh uh pasian-te' na semin paknamtui halin a bia uh hi.
+**ZVS:** Bang hang hiam cih leh amaute in ka hehna dingin gitlohna bawl-te a, amaute-a kipan note leh na pu na pate un a theih ngeiloh-te pasian-te' na semin paknamtui halin a bia-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -64,54 +64,54 @@
 ### v5
 **EN:** But they hearkened not, nor inclined their ear to turn from their wickedness, to burn no incense unto other gods.
 
-**TDB77:** Ahih hangin amaute in ka thu hong ngai loin a bil uh hong dawh lo uh a, a gitlohna uh panin kihei loin, pasian dangte’ kiangah paknamtui hal veve uh hi.
+**TDB77:** Ahih hangin amaute in ka thu hong ngai loin a bil-te hong dawh lo-te a, a gitlohna-te panin kihei loin, pasian dangte’ kiangah paknamtui hal veve-te hi.
 
-**ZVS:** Ahih hangin amaute in ka thu hong ngailoin a bil uh hong ngatlo uh a, a gitlohna uh panin kihei loin, pasian dangte kiangah paknamtui hal veve uh hi.
+**ZVS:** Ahih hangin amaute in ka thu hong ngailoin a bil-te hong ngatlo-te a, a gitlohna-te panin kihei loin, pasian dangte kiangah paknamtui hal veve-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Wherefore my fury and mine anger was poured forth, and was kindled in the cities of Judah and in the streets of Jerusalem; and they are wasted and desolate, as at this day.
 
-**TDB77:** Tua ahih manin Judah gam khuapite’ sung leh Jerusalem khua kongzing lakah ka hehna leh ka thangpaihna ka bua-a ka kuangsak hi. Tu ni-a na muh uh bangin tuate kisia-in gamlak suak khin ta hi.
+**TDB77:** Tua ahih manin Judah gam khuapite’ sung leh Jerusalem khua kongzing lakah ka hehna leh ka thangpaihna ka bua-a ka kuangsak hi. Tu ni-a na muh-te bangin tuate kisia-in gamlak suak khin ta hi.
 
-**ZVS:** Tua ahih manin Judah gam khuapite sung leh Jerusalem khua kongzing lakah ka hehna leh ka thangpaihna ka bua a, ka kuangsak hi. Tuni-a na muh uh bangin tuate kisia-in gamlak suak khinta hi.
+**ZVS:** Tua ahih manin Judah gam khuapite sung leh Jerusalem khua kongzing lakah ka hehna leh ka thangpaihna ka bua a, ka kuangsak hi. Tuni-a na muh-te bangin tuate kisia-in gamlak suak khinta hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | causal: because | reciprocal: ki- prefix
 
 ### v7
 **EN:** Therefore now thus saith the
 
-**TDB77:** Tu-in a vanglian Topa Pasian, Israel mite’ Pasian in kong gen-inah: Bang hangin’ note in hih bangin note’ siat nadingin mawhna lianpi bawl na hi uh hiam? Judah gam sungah papi, nupi, naupang leh naungek-a kipan a nungta lai kuamah om nawn kei hen, cih na deihna uh ahi hiam?
+**TDB77:** Tu-in a vanglian Topa Pasian, Israel mite’ Pasian in kong gen-inah: Bang hangin’ note in hih bangin note’ siat nadingin mawhna lianpi bawl na hi-te hiam? Judah gam sungah papi, nupi, naupang leh naungek-a kipan a nungta lai kuamah om nawn kei hen, cih na deihna-te ahi hiam?
 
-**ZVS:** “Tu-in Vanglian { Topa } Pasian, Israel mite' Pasian in kong genin-ah: Bang hangin note in hih bangin note' siatna dingin mawhna lianpi bawl na hi uh hiam? Judah gamsungah papi, nupi, naupang, leh naungek-a kipan a nungtalai kuamah om nawn kei hen, cih na deihna uh ahi hiam?
+**ZVS:** “Tu-in Vanglian { Topa } Pasian, Israel mite' Pasian in kong genin-ah: Bang hangin note in hih bangin note' siatna dingin mawhna lianpi bawl na hi-te hiam? Judah gamsungah papi, nupi, naupang, leh naungek-a kipan a nungtalai kuamah om nawn kei hen, cih na deihna-te ahi hiam?
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v8
 **EN:** In that ye provoke me unto wrath with the works of your hands, burning incense unto other gods in the land of Egypt, whither ye be gone to dwell, that ye might cut yourselves off, and that ye might be a curse and a reproach among all the nations of the earth?
 
-**TDB77:** Note in si-in, leitunga minam dang khempeuhte in kihaamsiatna-a hong zat ding uh leh a hong simmawh nadingun bang hangin na khut uh tawh milim bawl-in na teen’ nadingun na zuat uh Izipt gamah pasian dangte’ kiangah paknamtui hal-in kei hong hehsak na hi uh hiam?
+**TDB77:** Note in si-in, leitunga minam dang khempeuhte in kihaamsiatna-a hong zat ding-te leh a hong simmawh nadingun bang hangin na khut-te tawh milim bawl-in na teen’ nadingun na zuat-te Izipt gamah pasian dangte’ kiangah paknamtui hal-in kei hong hehsak na hi-te hiam?
 
-**ZVS:** Note si-in, leitunga minam dang khempeuhte in hamsiatna-in a hong zat ding uh leh hong simmawhna dingun bang hangin na khut uh tawh milim bawlin, na ten'na dingun na zuat uh Egypt gamah pasian dangte' kiangah paknamtui halin kei hong hehsak na hi uh hiam?
+**ZVS:** Note si-in, leitunga minam dang khempeuhte in hamsiatna-in a hong zat ding-te leh hong simmawhna dingun bang hangin na khut-te tawh milim bawlin, na ten'na dingun na zuat-te Egypt gamah pasian dangte' kiangah paknamtui halin kei hong hehsak na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** Have ye forgotten the wickedness of your fathers, and the wickedness of the kings of Judah, and the wickedness of their wives, and your own wickedness, and the wickedness of your wives, which they have committed in the land of Judah, and in the streets of Jerusalem?
 
-**TDB77:** Judah gam leh Jerusalem khua kongzing laka na pute na pate uh’ gitlohna, Judah kumpite’ gitlohna, a zite uh’ gitlohna, note mahmah’ gitlohna leh na zite uh’ gitlohnate mangngilh khin na hi uh hiam?
+**TDB77:** Judah gam leh Jerusalem khua kongzing laka na pute na pate uh’ gitlohna, Judah kumpite’ gitlohna, a zite uh’ gitlohna, note mahmah’ gitlohna leh na zite uh’ gitlohnate mangngilh khin na hi-te hiam?
 
-**ZVS:** Judah gam leh Jerusalem khua kongzing lakah na pute na pate uh' gitlohna, Judah kumpite' gitlohna, a zite uh' gitlohna, note mahmah' gitlohna, leh na zite uh' gitlohnate mangngilh khin na hi uh hiam?
+**ZVS:** Judah gam leh Jerusalem khua kongzing lakah na pute na pate uh' gitlohna, Judah kumpite' gitlohna, a zite uh' gitlohna, note mahmah' gitlohna, leh na zite uh' gitlohnate mangngilh khin na hi-te hiam?
 
 **Grammar:** intensifier: very/greatly
 
 ### v10
 **EN:** They are not humbled even unto this day, neither have they feared, nor walked in my law, nor in my statutes, that I set before you and before your fathers.
 
-**TDB77:** Amaute in tuni ciang dong kiniamkhiat lo uh a, hong zaktak loin, note leh na pute na pate kianga kong piak ka thukhamte leh ka ngeinate na zui kei uh hi.
+**TDB77:** Amaute in tuni ciang dong kiniamkhiat lo-te a, hong zaktak loin, note leh na pute na pate kianga kong piak ka thukhamte leh ka ngeinate na zui kei-te hi.
 
-**ZVS:** Tuni ciangdong note na kiniamkhiat kei uh a, kei hong zahtak loin, note leh na pute na pate uh tungah kong piak ka thukhamte leh ka ngeinate na zui kei uh hi.
+**ZVS:** Tuni ciangdong note na kiniamkhiat kei-te a, kei hong zahtak loin, note leh na pute na pate-te tungah kong piak ka thukhamte leh ka ngeinate na zui kei-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -127,9 +127,9 @@
 ### v12
 **EN:** And I will take the remnant of Judah, that have set their faces to go into the land of Egypt to sojourn there, and they shall all be consumed, and fall in the land of Egypt; they shall even be consumed by the sword and by the famine: they shall die, from the least even unto the greatest, by the sword and by the famine: and they shall be an execration, and an astonishment, and a curse, and a reproach.
 
-**TDB77:** Izipt gama teeng ding a, lungsim a khensat khin Judah mi a om laite, a vekpi-un ka si sak khin ding hi. Izipt gamah namsau tawh kithat sakin kial tawh ka puksisak ding hi. A neu penpen-a kipan a golpen dongin namsau leh kialpi tawh a si ding uh a, mite’ lipkhap, mite in kihaamsiatna-in a zat leh, mite’ simmawh ka suaksak ding hi.
+**TDB77:** Izipt gama teeng ding a, lungsim a khensat khin Judah mi a om laite, a vekpi-un ka si sak khin ding hi. Izipt gamah namsau tawh kithat sakin kial tawh ka puksisak ding hi. A neu penpen-a kipan a golpen dongin namsau leh kialpi tawh a si ding-te a, mite’ lipkhap, mite in kihaamsiatna-in a zat leh, mite’ simmawh ka suaksak ding hi.
 
-**ZVS:** Egypt gamah a teng dingin a lungsim a khensat khin Judah mi a omlaite, a vekpi-un ka sisak khin ding hi. Egypt gamah namsau tawh kithat sakin kial tawh ka puksisak ding hi. A neupen-a kipan a golpen dongin namsau leh kialpi tawh a si ding uh a, mite' lipkhap, mite in kihamsiatna-in a zat leh mite' simmawh ka suaksak ding hi.
+**ZVS:** Egypt gamah a teng dingin a lungsim a khensat khin Judah mi a omlaite, a vekpi-un ka sisak khin ding hi. Egypt gamah namsau tawh kithat sakin kial tawh ka puksisak ding hi. A neupen-a kipan a golpen dongin namsau leh kialpi tawh a si ding-te a, mite' lipkhap, mite in kihamsiatna-in a zat leh mite' simmawh ka suaksak ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -145,9 +145,9 @@
 ### v14
 **EN:** So that none of the remnant of Judah, which are gone into the land of Egypt to sojourn there, shall escape or remain, that they should return into the land of Judah, to the which they have a desire to return to dwell there: for none shall return but such as shall escape.
 
-**TDB77:** Izipt gamah pai-a a teeng Judah mi a om laite in a zuatkik nop uh ahi Judah gamah ciahkik thei nawn loin khat beek suakta loin, zong a nungta suak kei ding uh hi. Galtai pawl khat longal khat beek a suakta kei ding uh hi,” a ci hi.
+**TDB77:** Izipt gamah pai-a a teeng Judah mi a om laite in a zuatkik nop-te ahi Judah gamah ciahkik thei nawn loin khat beek suakta loin, zong a nungta suak kei ding-te hi. Galtai pawl khat longal khat beek a suakta kei ding-te hi,” a ci hi.
 
-**ZVS:** Egypt gamah pai-in a teng Judah mi a omlaite in a zuatkik nop uh ahi Judah gamah ciahkik thei nawnloin, khat beek suakta loin, zong a nungta suak kei ding uh hi. Galtai pawlkhat longal khat beek a suakta kei ding uh hi,” a hong ci hi.
+**ZVS:** Egypt gamah pai-in a teng Judah mi a omlaite in a zuatkik nop-te ahi Judah gamah ciahkik thei nawnloin, khat beek suakta loin, zong a nungta suak kei ding-te hi. Galtai pawlkhat longal khat beek a suakta kei ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | plural: uh marker
 
@@ -163,36 +163,36 @@
 ### v16
 **EN:** As for the word that thou hast spoken unto us in the name of the
 
-**TDB77:** “Topa’ min a, nong gen thute kong mang kei ding uh hi.
+**TDB77:** “Topa’ min a, nong gen thute kong mang kei ding-te hi.
 
-**ZVS:** “{ Topa' } mina nong gen thute kong mang kei ding uh hi.
+**ZVS:** “{ Topa' } mina nong gen thute kong mang kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v17
 **EN:** But we will certainly do whatsoever thing goeth forth out of our own mouth, to burn incense unto the queen of heaven, and to pour out drink offerings unto her, as we have done, we, and our fathers, our kings, and our princes, in the cities of Judah, and in the streets of Jerusalem: for then had we plenty of victuals, and were well, and saw no evil.
 
-**TDB77:** Ahih hangin ka ciamsa uh bangin kote, ka pute ka pate, ka kumpite uh leh kumpi uliante in Judah gam khuapite leh Jerusalem khua kongzing lakah ka hih ngei uh bangin vantung kumpinu kiangah paknamtui hal-in tuidawn biakna ka hih zaw ding uh hi. Bang hang hiam cih leh ka tuacih uh ciangin an tampi ka nei uh a, hau-in gimna zong ka thuak kei uh hi.
+**TDB77:** Ahih hangin ka ciamsa-te bangin kote, ka pute ka pate, ka kumpite-te leh kumpi uliante in Judah gam khuapite leh Jerusalem khua kongzing lakah ka hih ngei-te bangin vantung kumpinu kiangah paknamtui hal-in tuidawn biakna ka hih zaw ding-te hi. Bang hang hiam cih leh ka tuacih-te ciangin an tampi ka nei-te a, hau-in gimna zong ka thuak kei-te hi.
 
-**ZVS:** Ahih hangin ka ciamsa uh bangin kote, ka pute ka pate, ka kumpite uh leh kumpi uliante in Judah gam khuapite leh Jerusalem khua kongzing lakah ka hih ngei uh bangin vantung kumpinu kiangah paknamtui halin tuidawn biakna ka hihzaw ding uh hi. Bang hang hiam cih leh ka tuacih uh ciangin an tampi ka nei uh a, hau-in gimna zong ka thuak kei uh hi.
+**ZVS:** Ahih hangin ka ciamsa-te bangin kote, ka pute ka pate, ka kumpite-te leh kumpi uliante in Judah gam khuapite leh Jerusalem khua kongzing lakah ka hih ngei-te bangin vantung kumpinu kiangah paknamtui halin tuidawn biakna ka hihzaw ding-te hi. Bang hang hiam cih leh ka tuacih-te ciangin an tampi ka nei-te a, hau-in gimna zong ka thuak kei-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** But since we left off to burn incense to the queen of heaven, and to pour out drink offerings unto her, we have wanted all things, and have been consumed by the sword and by the famine.
 
-**TDB77:** Ahih hangin vantung kumpinu kiangah paknamtui halna leh tuidawn biakna ka hih nawn loh uh-a kipan bangmah ka nei nawn kei uh a, namsau leh kial in hong thatlum zawsop hi,” a ci uh hi.
+**TDB77:** Ahih hangin vantung kumpinu kiangah paknamtui halna leh tuidawn biakna ka hih nawn loh uh-a kipan bangmah ka nei nawn kei-te a, namsau leh kial in hong thatlum zawsop hi,” a ci-te hi.
 
-**ZVS:** Ahih hangin vantung kumpinu kiangah paknamtui halna leh tuidawn biakna ka hih nawnloh uha kipan bangmah ka nei nawn kei uh a, namsau leh kial in hong thatlum zawsop hi,” a hong ci uh hi.
+**ZVS:** Ahih hangin vantung kumpinu kiangah paknamtui halna leh tuidawn biakna ka hih nawnloh uha kipan bangmah ka nei nawn kei-te a, namsau leh kial in hong thatlum zawsop hi,” a hong ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And when we burned incense to the queen of heaven, and poured out drink offerings unto her, did we make her cakes to worship her, and pour out drink offerings unto her, without our men?
 
-**TDB77:** Nupite in zong, “Vantung kumpinu’ tungah ama’ lim a suun dingin moh bawl-in paknamtui halna leh tui dawn biakna ka bawl uh ciangin ka pasalte uh’ thukim loh pi-a bawl ka hi zenzen uh hiam?” a ci uh hi.
+**TDB77:** Nupite in zong, “Vantung kumpinu’ tungah ama’ lim a suun dingin moh bawl-in paknamtui halna leh tui dawn biakna ka bawl-te ciangin ka pasalte uh’ thukim loh pi-a bawl ka hi zenzen-te hiam?” a ci-te hi.
 
-**ZVS:** Nupite in zong, “Vantung kumpinu' lim a sun dingin moh bawlin paknamtui halna leh tuidawn biakna ka bawl uh ciangin ka pasalte uh' thukim lohpi-in a bawl ka hi zenzen uh hiam?” a hong ci uh hi.
+**ZVS:** Nupite in zong, “Vantung kumpinu' lim a sun dingin moh bawlin paknamtui halna leh tuidawn biakna ka bawl-te ciangin ka pasalte uh' thukim lohpi-in a bawl ka hi zenzen-te hiam?” a hong ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -208,16 +208,16 @@
 ### v21
 **EN:** The incense that ye burned in the cities of Judah, and in the streets of Jerusalem, ye, and your fathers, your kings, and your princes, and the people of the land, did not the
 
-**TDB77:** “Judah gam khuapite leh Jerusalem khua kongzing lakah note, na pute na pate uh, na kumpite uh leh kumpi uliante akipan gamsung mi khempeuh in paknamtui halna na bawl uh ciangin Topa in tua pen a phawk lo sa na hi uh hiam? A ngaihsun lo sa na hi uh hiam?
+**TDB77:** “Judah gam khuapite leh Jerusalem khua kongzing lakah note, na pute na pate uh, na kumpite-te leh kumpi uliante akipan gamsung mi khempeuh in paknamtui halna na bawl-te ciangin Topa in tua pen a phawk lo sa na hi-te hiam? A ngaihsun lo sa na hi-te hiam?
 
-**ZVS:** “Judah gam khuapite leh Jerusalem khua kongzing lakah note, na pute na pate uh, na kumpite uh, leh na kumpi uliante uha kipan gamsung mi khempeuh in paknamtui halna na bawl uh ciangin { Topa } in tua pen a phawklo sa na hi uh hiam? A ngaihsunlo sa na hi uh hiam?
+**ZVS:** “Judah gam khuapite leh Jerusalem khua kongzing lakah note, na pute na pate uh, na kumpite uh, leh na kumpi uliante uha kipan gamsung mi khempeuh in paknamtui halna na bawl-te ciangin { Topa } in tua pen a phawklo sa na hi-te hiam? A ngaihsunlo sa na hi-te hiam?
 
 ### v22
 **EN:** So that the
 
-**TDB77:** Topa in na hoihlohnate uh leh na bawl uh kihhuainate hangin no hong thuak zo nawn lo hi. Tua ahih manin tuni mahmah-in zong na gam uh gamlak suak khin a, mite’ kihaamsiatna suakin kuamah teeng nawn lo hi.
+**TDB77:** Topa in na hoihlohnate-te leh na bawl-te kihhuainate hangin no hong thuak zo nawn lo hi. Tua ahih manin tuni mahmah-in zong na gam-te gamlak suak khin a, mite’ kihaamsiatna suakin kuamah teeng nawn lo hi.
 
-**ZVS:** { Topa } in na hoihlohnate uh leh na bawl uh kihhuainate hangin note hong thuakzo nawnlo hi. Tua ahih manin tuni mahmahin zong na gam uh gamlak suakkhin a, mite' kihamsiatna suakin kuamah teng nawnlo hi.
+**ZVS:** { Topa } in na hoihlohnate-te leh na bawl-te kihhuainate hangin note hong thuakzo nawnlo hi. Tua ahih manin tuni mahmahin zong na gam-te gamlak suakkhin a, mite' kihamsiatna suakin kuamah teng nawnlo hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | negation: lo | causal: because | reciprocal: ki- prefix
 
@@ -242,9 +242,9 @@
 ### v25
 **EN:** Thus saith the
 
-**TDB77:** a vanglian Topa, Israel mite’ Pasian in hong gen-inah: note leh na zite un na khut bek uh tawh na sep uh hi loin na kam mahmah uh tawh, ‘Vantung kumpinu tungah paknamtui hal ding leh tui dawn biakna piak dinga ka kiciamna sa uh bangin ka sem taktak ding uh hi,’ ci-in na gen khin zo uh hi. Tua ahih leh na kiciamna uh kip sak ta un la, na kiciamna uh bangin sem dih ve un!
+**TDB77:** a vanglian Topa, Israel mite’ Pasian in hong gen-inah: note leh na zite un na khut bek-te tawh na sep-te hi loin na kam mahmah-te tawh, ‘Vantung kumpinu tungah paknamtui hal ding leh tui dawn biakna piak dinga ka kiciamna sa-te bangin ka sem taktak ding-te hi,’ ci-in na gen khin zo-te hi. Tua ahih leh na kiciamna-te kip sak ta un la, na kiciamna-te bangin sem dih ve un!
 
-**ZVS:** Vanglian { Topa, } Israel mite' Pasian in hong genin-ah: Note leh na zite un na khut bek uh tawh na sep uh hiloin na kam mahmah uh tawh, ‘Vantung kumpinu' tungah paknamtui hal ding leh tuidawn biakna piak dingin ka kiciamnasa uh bangin ka sem taktak ding uh hi,’ ci-in na gen khinzo uh hi. Tua ahih leh na kiciamna uh kipsak ta un la, na kiciamna uh bangin sem dih un!
+**ZVS:** Vanglian { Topa, } Israel mite' Pasian in hong genin-ah: Note leh na zite un na khut bek-te tawh na sep-te hiloin na kam mahmah-te tawh, ‘Vantung kumpinu' tungah paknamtui hal ding leh tuidawn biakna piak dingin ka kiciamnasa-te bangin ka sem taktak ding-te hi,’ ci-in na gen khinzo-te hi. Tua ahih leh na kiciamna-te kipsak ta un la, na kiciamna-te bangin sem dih un!
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -260,18 +260,18 @@
 ### v27
 **EN:** Behold, I will watch over them for evil, and not for good: and all the men of Judah that are in the land of Egypt shall be consumed by the sword and by the famine, until there be an end of them.
 
-**TDB77:** En un, keimah in amaute tungah hoihna tung loin siatna a tun’ nadingin ka bawl ding hi. Izipt gam-a om Judah mite khempeuh namsau leh kialpi tawh a si ding uh a, khat beek a suakta kei ding uh hi.
+**TDB77:** En un, keimah in amaute tungah hoihna tung loin siatna a tun’ nadingin ka bawl ding hi. Izipt gam-a om Judah mite khempeuh namsau leh kialpi tawh a si ding-te a, khat beek a suakta kei ding-te hi.
 
-**ZVS:** En un, amaute tungah hoihna tungloin siatna a tun'na dingin keimah in ka bawl ding hi. Egypt gamah a om Judah mi khempeuh namsau leh kialpi tawh si ding uh a, khat beek a suakta kei ding uh hi.
+**ZVS:** En un, amaute tungah hoihna tungloin siatna a tun'na dingin keimah in ka bawl ding hi. Egypt gamah a om Judah mi khempeuh namsau leh kialpi tawh si ding-te a, khat beek a suakta kei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** Yet a small number that escape the sword shall return out of the land of Egypt into the land of Judah, and all the remnant of Judah, that are gone into the land of Egypt to sojourn there, shall know whose words shall stand, mine, or theirs.
 
-**TDB77:** Namsau tawh thahna a thuak kha lo, mi tawmkhate in Izipt gam panin Judah gama teeng dingin a pai a nungta lai sunte in kei’ kammal leh amau’ kammal koi zaw, a manin tung cih a thei ding uh hi.
+**TDB77:** Namsau tawh thahna a thuak kha lo, mi tawmkhate in Izipt gam panin Judah gama teeng dingin a pai a nungta lai sunte in kei’ kammal leh amau’ kammal koi zaw, a manin tung cih a thei ding-te hi.
 
-**ZVS:** Namsau tawh thahna a thuak khalo mi tawmkhate, Egypt gam panin Judah gamah hong ciahkik ding uh a, Egypt gamah a teng dingin a pai a nungtalai sunte in kei' kammal leh amau' kammal koizaw a manin tung, cih a thei ding uh hi.
+**ZVS:** Namsau tawh thahna a thuak khalo mi tawmkhate, Egypt gam panin Judah gamah hong ciahkik ding-te a, Egypt gamah a teng dingin a pai a nungtalai sunte in kei' kammal leh amau' kammal koizaw a manin tung, cih a thei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | causal: because | plural: uh marker
 

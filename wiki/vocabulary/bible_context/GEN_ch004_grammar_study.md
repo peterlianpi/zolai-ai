@@ -236,9 +236,9 @@
 ### v26
 **EN:** And to Seth, to him also there was born a son; and he called his name Enos: then began men to call upon the name of the
 
-**TDB77:** Seth in zong tapa khat nei a, ama min Enosh ci hi. Tua hun-a kipanin mite in Topa bia-in a min lawh ding kipan uh hi.
+**TDB77:** Seth in zong tapa khat nei a, ama min Enosh ci hi. Tua hun-a kipanin mite in Topa bia-in a min lawh ding kipan-te hi.
 
-**ZVS:** Seth in zong tapa khat nei a, ama min Enosh ci hi. Tua huna kipanin mite in { Topa } bia-in a min lawh ding kipan ta uh hi.
+**ZVS:** Seth in zong tapa khat nei a, ama min Enosh ci hi. Tua huna kipanin mite in { Topa } bia-in a min lawh ding kipan ta-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

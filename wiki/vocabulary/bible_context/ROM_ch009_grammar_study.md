@@ -43,7 +43,7 @@
 ### v3
 **EN:** For I could wish that myself were accursed from Christ for my brethren, my kinsmen according to the flesh:
 
-**TDB77:** Bang hang hiam na cih uh leh, ci leh sa lamsang ah ka pawl ahi ka u ka naute tang ding Khazih tawh kikhenin hamsiatna thuak dingin lungsim ka nei hi.
+**TDB77:** Bang hang hiam na cih-te leh, ci leh sa lamsang ah ka pawl ahi ka u ka naute tang ding Khazih tawh kikhenin hamsiatna thuak dingin lungsim ka nei hi.
 
 **ZVS:** Hi thei ding hi leh amaute' hoihna dingin keimah in Pasian' samsiatna thuakin Khrih tawh kikhenna ding ciangdong nangawnin amaute ka huhnuam hi.
 
@@ -52,7 +52,7 @@
 ### v4
 **EN:** Who are Israelites; to whom pertaineth the adoption, and the glory, and the covenants, and the giving of the law, and the service of God, and the promises;
 
-**TDB77:** Tua mite in Israel mite ahih uh ciangin a ta za-a kikoih nading ahi zongin, vangliatna ahi zongin, thu kiciamnate ahi zongin, Thukham koihna ahi zongin, Pasian biakna ahi zongin, thuciamnate ahi zongin,
+**TDB77:** Tua mite in Israel mite ahih-te ciangin a ta za-a kikoih nading ahi zongin, vangliatna ahi zongin, thu kiciamnate ahi zongin, Thukham koihna ahi zongin, Pasian biakna ahi zongin, thuciamnate ahi zongin,
 
 **ZVS:** Amaute pen Pasian' teel Israel mite hi a, Pasian in ama ta-in bawlin a minthan'na a hopte, amaute tungah thuciamna bawlin Thukham a piakte, a man taktakin biaktheihna nei-in thuciamna a ngahte,
 
@@ -61,16 +61,16 @@
 ### v5
 **EN:** Whose are the fathers, and of whom as concerning the flesh Christ came, who is over all, God blessed for ever. Amen.
 
-**TDB77:** amau ading a pute a pate tawh kizoma piang mi zong ahi uh hi. Khazih in zong ci leh sa lamsang ah tua mite pawl ahi hi. Tua Khazih in zong na khempeuh uk a, thupha a ngah tawntung Pasian ahi hi. Amen.
+**TDB77:** amau ading a pute a pate tawh kizoma piang mi zong ahi-te hi. Khazih in zong ci leh sa lamsang ah tua mite pawl ahi hi. Tua Khazih in zong na khempeuh uk a, thupha a ngah tawntung Pasian ahi hi. Amen.
 
-**ZVS:** leh a thupi pupite' suanlekhakte hi uh a, leitung silesa tawh kisai-in Khrih zong amau minam sung panin a piang ahi hi. Hih thute hangin mi khempeuh in na khempeuh a uk Pasian phat tawntung ta uh hen! Amen.
+**ZVS:** leh a thupi pupite' suanlekhakte hi-te a, leitung silesa tawh kisai-in Khrih zong amau minam sung panin a piang ahi hi. Hih thute hangin mi khempeuh in na khempeuh a uk Pasian phat tawntung ta-te hen! Amen.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Not as though the word of God hath taken none effect. For they are not all Israel, which are of Israel:
 
-**TDB77:** Tua bang ka cih hangin Pasian’ thu a kip kei hi, ka cihnopna ahi kei hi. Bang hang hiam na cih uh leh, Israel’ suante khempeuh in Israel mi taktak ahi kei uh hi.
+**TDB77:** Tua bang ka cih hangin Pasian’ thu a kip kei hi, ka cihnopna ahi kei hi. Bang hang hiam na cih-te leh, Israel’ suante khempeuh in Israel mi taktak ahi kei-te hi.
 
 **ZVS:** Ahi zongin Pasian' thuciamnate a mawkna a suak hi samlo hi. Bang hang hiam cih leh Israel mi khempeuh Pasian' teel mi hi khinlo hi.
 
@@ -88,7 +88,7 @@
 ### v8
 **EN:** That is, They which are the children of the flesh, these are not the children of God: but the children of the promise are counted for the seed.
 
-**TDB77:** Tua ahih ciangin ci leh sa tate in Pasian’ tate taktak ahi kei uh hi, thuciamna tawh kipawl tate in a suan taktak a kici hi.
+**TDB77:** Tua ahih ciangin ci leh sa tate in Pasian’ tate taktak ahi kei-te hi, thuciamna tawh kipawl tate in a suan taktak a kici hi.
 
 **ZVS:** Tua ahih manin leitung ngeina tawh a suak tate pen Pasian' ta hilo a, Pasian' thuciamna tawh kizui-a a suakte bek suanlekhak taktakin a kisim pan hizaw hi.
 
@@ -97,7 +97,7 @@
 ### v9
 **EN:** For this is the word of promise, At this time will I come, and Sara shall have a son.
 
-**TDB77:** Bang hang hiam na cih uh leh, thuciamna in, “Tu hun hong tung kik ciangin ka hong pai kik ding a, Sarah in ta a nei ding hi,” a ci hi.
+**TDB77:** Bang hang hiam na cih-te leh, thuciamna in, “Tu hun hong tung kik ciangin ka hong pai kik ding a, Sarah in ta a nei ding hi,” a ci hi.
 
 **ZVS:** Bang hang hiam cih leh Pasian in hih bangin thuciamna bawl a, “A hun a tun' ciangin kong paikik ding a, Sarah in tapa khat a nei ding hi,” ci hi.
 
@@ -183,9 +183,9 @@
 ### v19
 **EN:** Thou wilt say then unto me, Why doth he yet find fault? For who hath resisted his will?
 
-**TDB77:** “Tua bang ahih ciangin, ‘Pasian in bang hangin ko hong mawhsak lai hiam? Kua in a deihna a khamsak hiam’” ci-in keimah hong dong ding na hi uh hi.
+**TDB77:** “Tua bang ahih ciangin, ‘Pasian in bang hangin ko hong mawhsak lai hiam? Kua in a deihna a khamsak hiam’” ci-in keimah hong dong ding na hi-te hi.
 
-**ZVS:** Note in, “Tua bang ahih leh bang hangin Pasian in mi mawhsak thei ahi hiam? Pasian' cihsa kua in kheelzo ding ahi hiam?” na cinuam khading uh hi.
+**ZVS:** Note in, “Tua bang ahih leh bang hangin Pasian in mi mawhsak thei ahi hiam? Pasian' cihsa kua in kheelzo ding ahi hiam?” na cinuam khading-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -194,7 +194,7 @@
 
 **TDB77:** Pasian a nial mi aw, nang kua mi na hi hiam? A kibawl mi in, “Bang hangin kei hong hi ci bawl hiam?” ci-in a bawlpa kiangah a gen ding hiam?
 
-**ZVS:** Lawmte aw, ahi zongin kua in Pasian' thu nialngam ding na hi uh hiam? Beel in amah a sekpa kiangah, “Bang hangin tua bangin hong sek na hi hiam?” ci ngeilo hi.
+**ZVS:** Lawmte aw, ahi zongin kua in Pasian' thu nialngam ding na hi-te hiam? Beel in amah a sekpa kiangah, “Bang hangin tua bangin hong sek na hi hiam?” ci ngeilo hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -242,25 +242,25 @@
 ### v26
 **EN:** And it shall come to pass, that in the place where it was said unto them, Ye are not my people; there shall they be called the children of the living God.
 
-**TDB77:** Note in, ‘Keima mite na hi kei uh hi,’ a cihna munah, ‘A nungta Pasian’ tapate kicihna a ngah ding uh hi,” ci-in a gen bang ahi hi.
+**TDB77:** Note in, ‘Keima mite na hi kei-te hi,’ a cihna munah, ‘A nungta Pasian’ tapate kicihna a ngah ding-te hi,” ci-in a gen bang ahi hi.
 
-**ZVS:** ‘Ka mite hi kei uh teh,’ a kicihna leitang teekteek mahah, ‘A nungta Pasian' tate na hi uh hi,’ kici ding hi,” ci-in kigelh hi.
+**ZVS:** ‘Ka mite hi kei-te teh,’ a kicihna leitang teekteek mahah, ‘A nungta Pasian' tate na hi-te hi,’ kici ding hi,” ci-in kigelh hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** Esaias also crieth concerning Israel, Though the number of the children of Israel be as the sand of the sea, a remnant shall be saved:
 
-**TDB77:** Isaiah in Israel thu panin, “Israel mipawlte in tuipi sehnel zahin a tam hangin a kimkhat bek in gupna a ngah ding uh hi.
+**TDB77:** Isaiah in Israel thu panin, “Israel mipawlte in tuipi sehnel zahin a tam hangin a kimkhat bek in gupna a ngah ding-te hi.
 
-**ZVS:** Isaiah in Israel mite' thu a genna-ah, “Israel mite, tuipi gei-a sehnel zahin a tam hangin mi tawmno khat bek suakta ding uh hi.
+**ZVS:** Isaiah in Israel mite' thu a genna-ah, “Israel mite, tuipi gei-a sehnel zahin a tam hangin mi tawmno khat bek suakta ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** For he will finish the work, and cut it short in righteousness: because a short work will the Lord make upon the earth.
 
-**TDB77:** Bang hang hiam na cih uh leh, Topa in leitung ah ama thukhenna kipsak a, manlangin a zo ding hi,” ci-in a kiko hi.
+**TDB77:** Bang hang hiam na cih-te leh, Topa in leitung ah ama thukhenna kipsak a, manlangin a zo ding hi,” ci-in a kiko hi.
 
 **ZVS:** Bang hang hiam cih leh Topa in leitung mite thu hong khen baih ding hi,” ci hi.
 
@@ -278,7 +278,7 @@
 ### v30
 **EN:** What shall we say then? That the Gentiles, which followed not after righteousness, have attained to righteousness, even the righteousness which is of faith.
 
-**TDB77:** Tua bang ahih leh, bang i ci gen ding hiam? Dikna a delh lo Gentailte in tua-upna tawh kipawl dikna a cihnopna ahi dikna a tung uh hi.
+**TDB77:** Tua bang ahih leh, bang i ci gen ding hiam? Dikna a delh lo Gentailte in tua-upna tawh kipawl dikna a cihnopna ahi dikna a tung-te hi.
 
 **ZVS:** Tua ahih leh Pasian tawh kipawl theihna ding hanciamna a neilo Gentail mite pen upna hangin Pasian tawh kipawlthei a,
 
@@ -287,7 +287,7 @@
 ### v31
 **EN:** But Israel, which followed after the law of righteousness, hath not attained to the law of righteousness.
 
-**TDB77:** Ahih hangin dikna thukhamna a delh uh Israelte in tua dikna thukham ah a tung zo kei uh hi.
+**TDB77:** Ahih hangin dikna thukhamna a delh-te Israelte in tua dikna thukham ah a tung zo kei-te hi.
 
 **ZVS:** Pasian tawh a kipawl theihna dingin thukham zuihna tawh hanciam napi-in a zuih zawhlohna hangun Israel mite kipawl theilo ahih leh a bangci thu ahi hiam?
 
@@ -296,9 +296,9 @@
 ### v32
 **EN:** Wherefore? Because they sought it not by faith, but as it were by the works of the law. For they stumbled at that stumblingstone;
 
-**TDB77:** Bang hangin tung zo lo ahi uh hiam na cih uh leh, thu-upna tawh a delh kei uh hi, thukham gamtatna tawh a delh uh hi. Lai Siangtho sungah a kigelh mah bangin, amaute in sui-a kipuk na’ng suang a sui kha uh hi.
+**TDB77:** Bang hangin tung zo lo ahi-te hiam na cih-te leh, thu-upna tawh a delh kei-te hi, thukham gamtatna tawh a delh-te hi. Lai Siangtho sungah a kigelh mah bangin, amaute in sui-a kipuk na’ng suang a sui kha-te hi.
 
-**ZVS:** Amaute in upna suangloin nasepna a suan' hang uh ahi hi. Amaute pen Lai Siangtho in a gen mah bangin, “Pukna ding suang,” a kici tungah a pukkha uh ahi hi.
+**ZVS:** Amaute in upna suangloin nasepna a suan' hang-te ahi hi. Amaute pen Lai Siangtho in a gen mah bangin, “Pukna ding suang,” a kici tungah a pukkha-te ahi hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 

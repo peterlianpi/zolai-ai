@@ -76,9 +76,9 @@
 ### v7
 **EN:** Saying, Blessed are they whose iniquities are forgiven, and whose sins are covered.
 
-**TDB77:** “A khialhna uh maisakna leh a mawhna uh seelna a ngah mite in Thupha a ngah uh hi.
+**TDB77:** “A khialhna-te maisakna leh a mawhna-te seelna a ngah mite in Thupha a ngah-te hi.
 
-**ZVS:** “Pasian in a mawhnate maisakin a khialhnate a selcipsak mite thupha ngah ahi uh hi.
+**ZVS:** “Pasian in a mawhnate maisakin a khialhnate a selcipsak mite thupha ngah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -94,9 +94,9 @@
 ### v9
 **EN:** Cometh this blessedness then upon the circumcision only, or upon the uncircumcision also? for we say that faith was reckoned to Abraham for righteousness.
 
-**TDB77:** Tua ahih ciangin hih thupha vun atte bek a pia hiam? Ahih kei leh, vun at lote a pia hiam? Bang hang hiam na cih uh leh, “Abraham tang ding ama thu-upna in dikna-in kiciamteh hi,” i ci hi.
+**TDB77:** Tua ahih ciangin hih thupha vun atte bek a pia hiam? Ahih kei leh, vun at lote a pia hiam? Bang hang hiam na cih-te leh, “Abraham tang ding ama thu-upna in dikna-in kiciamteh hi,” i ci hi.
 
-**ZVS:** David in a gen hih thupha pen vun ki-atte bek in ngahthei ahi hiam? Hilo hi; vun ki-atlote in zong ngahthei uh hi. Lai Siangtho in, “Abraham in Pasian um a, tua a upna hangin Pasian in mihoihin a sang hi,” ci hi, ci-in i gen khinzo hi.
+**ZVS:** David in a gen hih thupha pen vun ki-atte bek in ngahthei ahi hiam? Hilo hi; vun ki-atlote in zong ngahthei-te hi. Lai Siangtho in, “Abraham in Pasian um a, tua a upna hangin Pasian in mihoihin a sang hi,” ci hi, ci-in i gen khinzo hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -114,14 +114,14 @@
 
 **TDB77:** Vun atna a thuak nai loh hangin upna dikna bangin kiciamteh nading i pa Abraham in tua mite’ pa a suah na’ng ahi zongin,
 
-**ZVS:** Abraham a vun a ki-at ma-in a upna hangin Pasian in mihoihin a san'na lahtelna dingin a vun a kinung-at ahi hi. Tua ahih manin vun a ki-atloh hangin a upna uh hangin mihoihin a kisang mite khempeuh-a' dingin Abraham pen kha thu lamah pupi ahi hi.
+**ZVS:** Abraham a vun a ki-at ma-in a upna hangin Pasian in mihoihin a san'na lahtelna dingin a vun a kinung-at ahi hi. Tua ahih manin vun a ki-atloh hangin a upna-te hangin mihoihin a kisang mite khempeuh-a' dingin Abraham pen kha thu lamah pupi ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v12
 **EN:** And the father of circumcision to them who are not of the circumcision only, but who also walk in the steps of that faith of our father Abraham, which he had being yet uncircumcised.
 
-**TDB77:** vun atna a thuak tham loin i pa Abraham in vun atna a thuak nai loh lai takin upna lam a zuite khempeuh’pa uh a suah nading ahi zongin, Abraham in vun atna a thuak nai loh lai takin upna a neih dikna-a ciamtehna ahi vun atna lim a ngah hi.
+**TDB77:** vun atna a thuak tham loin i pa Abraham in vun atna a thuak nai loh lai takin upna lam a zuite khempeuh’pa-te a suah nading ahi zongin, Abraham in vun atna a thuak nai loh lai takin upna a neih dikna-a ciamtehna ahi vun atna lim a ngah hi.
 
 **ZVS:** A vun a ki-at ma-in i pupi Abraham a upna hangin a gamtat mah bangin a gamta, a vun a ki-at mite-a' dingin zong Abraham pen pupi mah ahi hi. Tua pen vun ki-at lelna hang hiloin upna hang ahi hi.
 
@@ -130,7 +130,7 @@
 ### v13
 **EN:** For the promise, that he should be the heir of the world, was not to Abraham, or to his seed, through the law, but through the righteousness of faith.
 
-**TDB77:** Bang hang hiam na cih uh leh, leitung a luahsak nading Abraham ahi zongin, a suante ahi zongin, a thuciamna a ngahna in thukham tawh a ngah kei uh hi; upna tawh kipawl dikna hangin a ngah uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, leitung a luahsak nading Abraham ahi zongin, a suante ahi zongin, a thuciamna a ngahna in thukham tawh a ngah kei-te hi; upna tawh kipawl dikna hangin a ngah-te hi.
 
 **ZVS:** Abraham leh a suan a khakte in leitung luah ding hi, ci-in Pasian in thu a ciamna pen Abraham in Thukham a zuihna hang hiloin, a upna hangin Pasian in mihoihin a san'na hang ahi hi.
 
@@ -139,7 +139,7 @@
 ### v14
 **EN:** For if they which are of the law be heirs, faith is made void, and the promise made of none effect:
 
-**TDB77:** Thukham tawh kipawlte bek in gamh a luah uh leh, upna thu a siasak a, kiciamna zong a mawkna ahi hi.
+**TDB77:** Thukham tawh kipawlte bek in gamh a luah-te leh, upna thu a siasak a, kiciamna zong a mawkna ahi hi.
 
 **ZVS:** Thukham zuihna hangin Pasian' thuciamnate a kingah ding hi leh mite' upna pen a kiman'na omloin, Pasian' thuciamnate zong a mawkna suak ding hi.
 
@@ -157,7 +157,7 @@
 ### v16
 **EN:** Therefore it is of faith, that it might be by grace; to the end the promise might be sure to all the seed; not to that only which is of the law, but to that also which is of the faith of Abraham; who is the father of us all,
 
-**TDB77:** Tua ahih ciangin kiciamna in Thukham tawh kipawlte tham loin, Abraham’ upna tawh kipawlte zong Abraham’ suan-le-khakte khempeuh tungah a kip nadingin hehpihna tawh kibangin a pian’ nadingin upna hangin kiciamna a ngah uh hi.
+**TDB77:** Tua ahih ciangin kiciamna in Thukham tawh kipawlte tham loin, Abraham’ upna tawh kipawlte zong Abraham’ suan-le-khakte khempeuh tungah a kip nadingin hehpihna tawh kibangin a pian’ nadingin upna hangin kiciamna a ngah-te hi.
 
 **ZVS:** Tua ahih manin Abraham' suanlekhakte khempeuh tungah Pasian' hehpihna piakkhong a suahtheihna dingin Thukham a zuite bek in ngah loin, Abraham' up bangin a umte in zong a ngahtheihna dingun upna bulphuhin thuciamna kipia hi. Bang hang hiam cih leh Abraham pen kha thu lamah eite khempeuh' pupi ahi hi.
 

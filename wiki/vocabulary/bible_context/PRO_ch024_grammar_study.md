@@ -33,7 +33,7 @@
 ### v2
 **EN:** For their heart studieth destruction, and their lips talk of mischief.
 
-**TDB77:** Amaute in tatsiat ding bek ngaihsun uh a, thusia bekbek genin nei uh hi.
+**TDB77:** Amaute in tatsiat ding bek ngaihsun-te a, thusia bekbek genin nei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -68,9 +68,9 @@
 ### v7
 **EN:** Wisdom is too high for a fool: he openeth not his mouth in the gate.
 
-**TDB77:** Pil kampauna in mihaite’ theih zawh dingin thuk lua a, mihon lakah mihaite in thu gen ngam lo uh hi.
+**TDB77:** Pil kampauna in mihaite’ theih zawh dingin thuk lua a, mihon lakah mihaite in thu gen ngam lo-te hi.
 
-**ZVS:** Pil kampauna pen mihaite' theihzawh dingin thuk lua mahmah a, mihaite in mihon lakah thu gen ngamlo uh hi.
+**ZVS:** Pil kampauna pen mihaite' theihzawh dingin thuk lua mahmah a, mihaite in mihon lakah thu gen ngamlo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | plural: uh marker
 
@@ -86,9 +86,9 @@
 ### v9
 **EN:** The thought of foolishness is sin: and the scorner is an abomination to men.
 
-**TDB77:** Mihaite’ vaihawmna in khialhna bek piangsak lel a, mi a simmawh theite, midangte in mudah uh hi.
+**TDB77:** Mihaite’ vaihawmna in khialhna bek piangsak lel a, mi a simmawh theite, midangte in mudah-te hi.
 
-**ZVS:** Mihaite' vaihawmna in khialhna bek piangsak lel a, mi a simmawh theite midangte in mudah uh hi.
+**ZVS:** Mihaite' vaihawmna in khialhna bek piangsak lel a, mi a simmawh theite midangte in mudah-te hi.
 
 **Grammar:** causative: -sak suffix | plural: uh marker
 
@@ -156,7 +156,7 @@
 ### v17
 **EN:** Rejoice not when thine enemy falleth, and let not thine heart be glad when he stumbleth:
 
-**TDB77:** Na galte in gimna a ngah ciangin lungdam kei in la, a puk uh ciangin kipak kei in.
+**TDB77:** Na galte in gimna a ngah ciangin lungdam kei in la, a puk-te ciangin kipak kei in.
 
 **ZVS:** Na galte in gimna a ngah ciangin lungdam kei in la, a puk ciangin kipak kei in.
 
@@ -210,7 +210,7 @@
 
 **TDB77:** Mipilte’ thugen dangte in: Mi langmuh-a thukhenna hoih lo hi.
 
-**ZVS:** Mipil dangte in zong hih bangin thu gen uh hi: Mi lang muhin thukhenna hoihlo hi.
+**ZVS:** Mipil dangte in zong hih bangin thu gen-te hi: Mi lang muhin thukhenna hoihlo hi.
 
 **Grammar:** negation: lo
 

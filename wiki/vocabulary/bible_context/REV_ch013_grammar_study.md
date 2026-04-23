@@ -45,16 +45,16 @@
 
 **TDB77:** Tua sahang lutang khat in si dektaka sukkhakna liamma a nei hi. Tua liamma in a dam khin zo hi. Leitung mi khempeuh in tua sahang zui-in, lamdangsa-in,
 
-**ZVS:** A lutang khat in sihna ding zahin liamma lianpi nei ngei napi-in damkik a, leitung mi khempeuh in lamdang sa-in tua ganhing a zui ngeingai uh hi.
+**ZVS:** A lutang khat in sihna ding zahin liamma lianpi nei ngei napi-in damkik a, leitung mi khempeuh in lamdang sa-in tua ganhing a zui ngeingai-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v4
 **EN:** And they worshipped the dragon which gave power unto the beast: and they worshipped the beast, saying, Who is like unto the beast? who is able to make war with him?
 
-**TDB77:** amah aana a pia gulpi a bia uh hi. Sahang zong, “Kua in hih sahang tawh kibang hiam? Kua in amah tawh kido zo ding hiam?” ci-in a bia uh hi.
+**TDB77:** amah aana a pia gulpi a bia-te hi. Sahang zong, “Kua in hih sahang tawh kibang hiam? Kua in amah tawh kido zo ding hiam?” ci-in a bia-te hi.
 
-**ZVS:** Gulpi in tua ganhing tungah ama aana pia ahih manin mite in tua gulpi a bia uh hi. A ganhing zong bia uh a, “Hih ganhing tawh a kibang kua om a, kua in amah suzo ding ahi hiam?” ci uh hi.
+**ZVS:** Gulpi in tua ganhing tungah ama aana pia ahih manin mite in tua gulpi a bia-te hi. A ganhing zong bia-te a, “Hih ganhing tawh a kibang kua om a, kua in amah suzo ding ahi hiam?” ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -88,9 +88,9 @@
 ### v8
 **EN:** And all that dwell upon the earth shall worship him, whose names are not written in the book of life of the Lamb slain from the foundation of the world.
 
-**TDB77:** Leitung a cil panin thahna a thuak khin Tuuno’ nuntakna laibu sungah a min uh a kigelh lo leitung mi khempeuh in sahang a bia ding uh hi.
+**TDB77:** Leitung a cil panin thahna a thuak khin Tuuno’ nuntakna laibu sungah a min-te a kigelh lo leitung mi khempeuh in sahang a bia ding-te hi.
 
-**ZVS:** Tua ahih manin a kigo Tuuno laibu sungah a nungta ding mite' min, leitung pian'ma pekin a kikhumna-ah a kihello leitung mi khempeuh in tua ganhing bia ding uh hi.
+**ZVS:** Tua ahih manin a kigo Tuuno laibu sungah a nungta ding mite' min, leitung pian'ma pekin a kikhumna-ah a kihello leitung mi khempeuh in tua ganhing bia ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -104,7 +104,7 @@
 
 **TDB77:** A kiman dingte a kiman ding hi. Mi khatpeuh in namsau tawh midang a thah leh, tua in zong namsau tawh thahna a thuak ding hi. Hih thu-ah misiangthote’ thuakna leh upna a om hi.
 
-**ZVS:** “Salin a pai dingin a kisehsa mite sal mahin pai ding a, namsau-in thah dingin a kisehsate namsau mah tawh kithat ding hi. Tua ahih manin Pasian' mite in upna leh thuakzawhna kisam hi,” a kicihna thu, zakna ding bil a neite in za ta uh hen.
+**ZVS:** “Salin a pai dingin a kisehsa mite sal mahin pai ding a, namsau-in thah dingin a kisehsate namsau mah tawh kithat ding hi. Tua ahih manin Pasian' mite in upna leh thuakzawhna kisam hi,” a kicihna thu, zakna ding bil a neite in za ta-te hen.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -154,12 +154,12 @@
 ### v16
 **EN:** And he causeth all, both small and great, rich and poor, free and bond, to receive a mark in their right hand, or in their foreheads:
 
-**TDB77:** Tua ganhing in a lian a neu, a hau a zawng, sila leh sila a hilo, mi khempeuh in a taklam khut tung uh ahih kei leh a taltang uhah ciamtehna a neihna dingun thu a pia hi.
+**TDB77:** Tua ganhing in a lian a neu, a hau a zawng, sila leh sila a hilo, mi khempeuh in a taklam khut tung-te ahih kei leh a taltang uhah ciamtehna a neihna dingun thu a pia hi.
 
 ### v17
 **EN:** And that no man might buy or sell, save he that had the mark, or the name of the beast, or the number of his name.
 
-**TDB77:** Tua ahih manin tua ganhing min ahih kei leh a min tangin a nambat ciamtehna a tungah a neilo mi peuhmah, vanlei vanzuakin paikhia theilo uh hi.
+**TDB77:** Tua ahih manin tua ganhing min ahih kei leh a min tangin a nambat ciamtehna a tungah a neilo mi peuhmah, vanlei vanzuakin paikhia theilo-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
@@ -168,7 +168,7 @@
 
 **TDB77:** Hih thu-ah pilna a om hi. Pilna a nei mi in sahang’ nambat sim ta hen. Bang hang hiam i cih leh, mi khatpeuh’ nambat ahi hi. Tua nambat in zaguk sawmguk-guk ahi hi.
 
-**ZVS:** Hih thu-ah pilna kisam hi. Hih nambat pen 666 hi a, mihing khat min tangin a ding hi a, mipil mitei peuhpeuhte in hih ganhing nambat a cihnopna thei ding uh hi.
+**ZVS:** Hih thu-ah pilna kisam hi. Hih nambat pen 666 hi a, mihing khat min tangin a ding hi a, mipil mitei peuhpeuhte in hih ganhing nambat a cihnopna thei ding-te hi.
 
 ---
 

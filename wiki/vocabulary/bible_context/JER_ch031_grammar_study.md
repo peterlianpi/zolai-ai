@@ -28,18 +28,18 @@
 ### v1
 **EN:** At the same time, saith the
 
-**TDB77:** “Topa in kong cih-inah, tua hun ciangin keimah in Israel mi khempeuhte’ Pasian ka hi ding a, amaute in ka mite ahi ding uh hi.”
+**TDB77:** “Topa in kong cih-inah, tua hun ciangin keimah in Israel mi khempeuhte’ Pasian ka hi ding a, amaute in ka mite ahi ding-te hi.”
 
-**ZVS:** “{ Topa } in kong cihin-ah, tua hun ciangin kei pen Israel mi khempeuhte' Pasian ka hi ding a, amaute pen keima mite ahi ding uh hi,” a ci hi.
+**ZVS:** “{ Topa } in kong cihin-ah, tua hun ciangin kei pen Israel mi khempeuhte' Pasian ka hi ding a, amaute pen keima mite ahi ding-te hi,” a ci hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v2
 **EN:** Thus saith the
 
-**TDB77:** Topa in hong gen-inah: “Namsau tawh thahna a thuak kha lote in, gamlakah hehpihna a mu ding uh hi. Israel mite in tawldam nading a zon’ laitakun,
+**TDB77:** Topa in hong gen-inah: “Namsau tawh thahna a thuak kha lote in, gamlakah hehpihna a mu ding-te hi. Israel mite in tawldam nading a zon’ laitakun,
 
-**ZVS:** { Topa } in hong genin-ah: “Namsau tawh thahna a thuaklote in gamlakah hehpihna a mu ding uh hi. Israel mite in tawldamna ding a zon' laitakun,
+**ZVS:** { Topa } in hong genin-ah: “Namsau tawh thahna a thuaklote in gamlakah hehpihna a mu ding-te hi. Israel mite in tawldamna ding a zon' laitakun,
 
 **Grammar:** future: will | plural: uh marker
 
@@ -64,18 +64,18 @@
 ### v5
 **EN:** Thou shalt yet plant vines upon the mountains of Samaria: the planters shall plant, and shall eat them as common things.
 
-**TDB77:** Samaria gam mualtung tengah leenggah na suan kik ding a, huan bawlte in suan-in a gah ne-in nuam a sa ding uh hi.
+**TDB77:** Samaria gam mualtung tengah leenggah na suan kik ding a, huan bawlte in suan-in a gah ne-in nuam a sa ding-te hi.
 
-**ZVS:** Samaria gam mualtung tengah leenggah na suankik ding a, huan bawlte in suanin a gah ne-in nuam a sa ding uh hi.
+**ZVS:** Samaria gam mualtung tengah leenggah na suankik ding a, huan bawlte in suanin a gah ne-in nuam a sa ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** For there shall be a day, that the watchmen upon the mount Ephraim shall cry, Arise ye, and let us go up to Zion unto the
 
-**TDB77:** Bang hang hiam cih leh Efraim mualtung panin gal vilte in, ‘Tho un! Zion khua-ah, Topa, i Pasian kiangah va pai ni,’ ci-a hong kiko hun uh hong tung ding hi,” a ci hi.
+**TDB77:** Bang hang hiam cih leh Efraim mualtung panin gal vilte in, ‘Tho un! Zion khua-ah, Topa, i Pasian kiangah va pai ni,’ ci-a hong kiko hun-te hong tung ding hi,” a ci hi.
 
-**ZVS:** Bang hang hiam cih leh Efraim mualtung panin galvilte in, ‘Tho un! { Topa } i Pasian kiang Zion khua-ah va pai ni,’ ci-in a hong kiko hun uh hong tung ding hi,” hong ci hi.
+**ZVS:** Bang hang hiam cih leh Efraim mualtung panin galvilte in, ‘Tho un! { Topa } i Pasian kiang Zion khua-ah va pai ni,’ ci-in a hong kiko hun-te hong tung ding hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | hortative: let us | future: will | reciprocal: ki- prefix
 
@@ -91,18 +91,18 @@
 ### v8
 **EN:** Behold, I will bring them from the north country, and gather them from the coasts of the earth, and with them the blind and the lame, the woman with child and her that travaileth with child together: a great company shall return thither.
 
-**TDB77:** En un, keimah in leilu lam gam panin amaute ka la ding a, leitung a gamla pen mun panin ka kaikhawm ding hi. Mittawte leh khelbaite zong hong kihel ding uh a, nupi gaite leh nau suak ding numeite-a kipan mi honpi hih lai munah hong ciahkik ding uh hi.
+**TDB77:** En un, keimah in leilu lam gam panin amaute ka la ding a, leitung a gamla pen mun panin ka kaikhawm ding hi. Mittawte leh khelbaite zong hong kihel ding-te a, nupi gaite leh nau suak ding numeite-a kipan mi honpi hih lai munah hong ciahkik ding-te hi.
 
-**ZVS:** En un, keimah in leilu lam gam panin amaute ka la ding a, leitung a gamla pen mun panin ka kaikhawm ding hi. Mittawte leh khebaite zong hong kihel ding uh a, nupi gaite leh nausuak ding numeite-a kipan hih lai munah mihonpi hong ciahkik ding uh hi.
+**ZVS:** En un, keimah in leilu lam gam panin amaute ka la ding a, leitung a gamla pen mun panin ka kaikhawm ding hi. Mittawte leh khebaite zong hong kihel ding-te a, nupi gaite leh nausuak ding numeite-a kipan hih lai munah mihonpi hong ciahkik ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** They shall come with weeping, and with supplications will I lead them: I will cause them to walk by the rivers of waters in a straight way, wherein they shall not stumble: for I am a father to Israel, and Ephraim is my firstborn.
 
-**TDB77:** Amaute kap kawmin hong pai ding uh a, keimah in hehnemin ka pikik ding hi. Tui omna lui geiah ka paipih ding a, lam nuamah paipih-in a tuk kei ding uh hi. Bang hang hiam cih leh Israel mite’ pa ka hi a, Efraim in ka tapa upapen ahi hi.
+**TDB77:** Amaute kap kawmin hong pai ding-te a, keimah in hehnemin ka pikik ding hi. Tui omna lui geiah ka paipih ding a, lam nuamah paipih-in a tuk kei ding-te hi. Bang hang hiam cih leh Israel mite’ pa ka hi a, Efraim in ka tapa upapen ahi hi.
 
-**ZVS:** Amaute a kap kawmin hong pai ding uh a, keimah in hehnemin amaute ka pii kik ding hi. Tui omna lui gei-ah amaute ka paipihkik ding a, lam nuamah paipihin a tuk kei ding uh hi. Bang hang hiam cih leh Israel mite' pa ka hi a, Efraim, ka ta upa pen ahi hi.
+**ZVS:** Amaute a kap kawmin hong pai ding-te a, keimah in hehnemin amaute ka pii kik ding hi. Tui omna lui gei-ah amaute ka paipihkik ding a, lam nuamah paipihin a tuk kei ding-te hi. Bang hang hiam cih leh Israel mite' pa ka hi a, Efraim, ka ta upa pen ahi hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
@@ -125,27 +125,27 @@
 ### v12
 **EN:** Therefore they shall come and sing in the height of Zion, and shall flow together to the goodness of the
 
-**TDB77:** Amaute hong pai-in Zion mual tungah ngaihtakin la a sa ding uh a, Topa’ hehpihna ahi, buh, leenggah tui, sathau leh tuuno, bawngnote’ hangin amaute a lungdam mahmah ding uh hi. A nuntakna uh, tui kibuak huan bang ahi ding a, a lungkham ngei nawn kei ding uh hi.
+**TDB77:** Amaute hong pai-in Zion mual tungah ngaihtakin la a sa ding-te a, Topa’ hehpihna ahi, buh, leenggah tui, sathau leh tuuno, bawngnote’ hangin amaute a lungdam mahmah ding-te hi. A nuntakna uh, tui kibuak huan bang ahi ding a, a lungkham ngei nawn kei ding-te hi.
 
-**ZVS:** Amaute hong pai-in Zion mual tungah ngaihtakin la sa ding uh a, { Topa' } hehpihna ahi, buh, leenggahzu, sathau leh tuuno, bawngnote' hangin amaute a lungdam mahmah ding uh hi. A nuntakna uh, tui a kibuak huan bang ding a, lungkham nawnlo ding uh hi.
+**ZVS:** Amaute hong pai-in Zion mual tungah ngaihtakin la sa ding-te a, { Topa' } hehpihna ahi, buh, leenggahzu, sathau leh tuuno, bawngnote' hangin amaute a lungdam mahmah ding-te hi. A nuntakna uh, tui a kibuak huan bang ding a, lungkham nawnlo ding-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Then shall the virgin rejoice in the dance, both young men and old together: for I will turn their mourning into joy, and will comfort them, and make them rejoice from their sorrow.
 
-**TDB77:** Tua ciangin nungakte laam-in a lungdam ding uh a, tangvalte leh papite zong a nuam ding uh hi. Amaute’ kahnate lungdamna ka suaksak ding a, hehpihin a dahnate uh kipahna ka suaksak ding hi.
+**TDB77:** Tua ciangin nungakte laam-in a lungdam ding-te a, tangvalte leh papite zong a nuam ding-te hi. Amaute’ kahnate lungdamna ka suaksak ding a, hehpihin a dahnate-te kipahna ka suaksak ding hi.
 
-**ZVS:** Tua ciangin nungakte lamin lungdam ding uh a, tangvalte leh papite zong nuam ding uh hi. Amau' kahnate lungdamna ka suaksak ding a, amaute hehpihin a dahnate uh kipahna ka suaksak ding hi.
+**ZVS:** Tua ciangin nungakte lamin lungdam ding-te a, tangvalte leh papite zong nuam ding-te hi. Amau' kahnate lungdamna ka suaksak ding a, amaute hehpihin a dahnate-te kipahna ka suaksak ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And I will satiate the soul of the priests with fatness, and my people shall be satisfied with my goodness, saith the
 
-**TDB77:** Siampite an limpen tawh ka vaak ding a, ka mite khempeuh in ka hoihna hangin a lungkim ding uh hi, Topa in ka ci hi.”
+**TDB77:** Siampite an limpen tawh ka vaak ding a, ka mite khempeuh in ka hoihna hangin a lungkim ding-te hi, Topa in ka ci hi.”
 
-**ZVS:** An lim pen tawh siampite ka vak ding a, keima hoihna hangin ka mite a lungkim ding uh hi, { Topa } in ka ci hi,” a ci hi.
+**ZVS:** An lim pen tawh siampite ka vak ding a, keima hoihna hangin ka mite a lungkim ding-te hi, { Topa } in ka ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -161,18 +161,18 @@
 ### v16
 **EN:** Thus saith the
 
-**TDB77:** Topa in hong cih-inah: “Kap nawn kei un la, na khitui uh nul un. Bang hang hiam cih leh Topa in kong cih-inah, na nasepna uh thaman na ngah ding uh hi. Amaute galte’ gam panin hong ciahkik ding uh hi.
+**TDB77:** Topa in hong cih-inah: “Kap nawn kei un la, na khitui-te nul un. Bang hang hiam cih leh Topa in kong cih-inah, na nasepna-te thaman na ngah ding-te hi. Amaute galte’ gam panin hong ciahkik ding-te hi.
 
-**ZVS:** { Topa } in kong cihin-ah: “Kap nawn kei un la, na khitui uh nul un. Bang hang hiam cih leh { Topa } in kong cihin-ah, na nasep thaman uh na ngah uh hi. Amaute galte' gam panin hong ciahkik ding uh hi.
+**ZVS:** { Topa } in kong cihin-ah: “Kap nawn kei un la, na khitui-te nul un. Bang hang hiam cih leh { Topa } in kong cihin-ah, na nasep thaman-te na ngah-te hi. Amaute galte' gam panin hong ciahkik ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v17
 **EN:** And there is hope in thine end, saith the
 
-**TDB77:** Na mailam uh adingin lametna a om hi, Topa in kong ci hi, na tate uh zong na gam mah uhah hong ciahkik ding uh hi.
+**TDB77:** Na mailam-te adingin lametna a om hi, Topa in kong ci hi, na tate-te zong na gam mah uhah hong ciahkik ding-te hi.
 
-**ZVS:** Na mailam uh-a' dingin lametna a om hi, { Topa } in kong ci hi. Na tate uh zong na gam mah uhah hong ciahkik ding uh hi.
+**ZVS:** Na mailam uh-a' dingin lametna a om hi, { Topa } in kong ci hi. Na tate-te zong na gam mah uhah hong ciahkik ding-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | plural: uh marker
 
@@ -206,9 +206,9 @@
 ### v21
 **EN:** Set thee up waymarks, make thee high heaps: set thine heart toward the highway, even the way which thou wentest: turn again, O virgin of Israel, turn again to these thy cities.
 
-**TDB77:** “Lampi-ah ciamtehna bawl un la, lam lahnate phut un. Na paikhiatna uh lampi mah limtakin hong zong kik un. Hong kilehkik un, nungak siangtho tawh a kibang Israel mite aw, na khuapi uh hong zuankik un.
+**TDB77:** “Lampi-ah ciamtehna bawl un la, lam lahnate phut un. Na paikhiatna-te lampi mah limtakin hong zong kik un. Hong kilehkik un, nungak siangtho tawh a kibang Israel mite aw, na khuapi-te hong zuankik un.
 
-**ZVS:** Lampi-ah ciamtehnate bawl un la, lamlahnate phut un. Na paikhiatna uh lampi mah limtakin zongkik un. Nungak siangtho tawh a kibang Israel mite aw, hong kilehkik un la, na khuapite uh hong zuankik un.
+**ZVS:** Lampi-ah ciamtehnate bawl un la, lamlahnate phut un. Na paikhiatna-te lampi mah limtakin zongkik un. Nungak siangtho tawh a kibang Israel mite aw, hong kilehkik un la, na khuapite-te hong zuankik un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -222,18 +222,18 @@
 ### v23
 **EN:** Thus saith the
 
-**TDB77:** A vanglian Topa, Israel mite’ Pasian in hong gen-inah: “Keimah in amaute a gam uhah ka omkik sak ciangin, Judah gam leh a khuapite uhah amaute in, ‘Thuman thutak teen’na mual siangtho aw, Topa in thupha hong pia ta hen,’ ci-in a genkik leuleu ding uh hi.
+**TDB77:** A vanglian Topa, Israel mite’ Pasian in hong gen-inah: “Keimah in amaute a gam uhah ka omkik sak ciangin, Judah gam leh a khuapite uhah amaute in, ‘Thuman thutak teen’na mual siangtho aw, Topa in thupha hong pia ta hen,’ ci-in a genkik leuleu ding-te hi.
 
-**ZVS:** Vanglian { Topa, } Israel mite' Pasian in hong genin-ah: “Keimah in amaute a gam uhah ka omsak kik ciangin, Judah gam leh a khuapite uhah amaute in, ‘Thuman thutak a ten'na mual siangtho aw, { Topa } in thupha hong pia ta hen,’ ci-in a genkik leuleu ding uh hi.
+**ZVS:** Vanglian { Topa, } Israel mite' Pasian in hong genin-ah: “Keimah in amaute a gam uhah ka omsak kik ciangin, Judah gam leh a khuapite uhah amaute in, ‘Thuman thutak a ten'na mual siangtho aw, { Topa } in thupha hong pia ta hen,’ ci-in a genkik leuleu ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v24
 **EN:** And there shall dwell in Judah itself, and in all the cities thereof together, husbandmen, and they that go forth with flocks.
 
-**TDB77:** Judah gam leh khuapite sungah lokhote leh tuucing a, vak kawikawi mite a teeng khawm ding uh hi.
+**TDB77:** Judah gam leh khuapite sungah lokhote leh tuucing a, vak kawikawi mite a teeng khawm ding-te hi.
 
-**ZVS:** Judah gam leh a khuapite sungah lokhote leh tuu cinga a vak kawikawi mite a tengkhawm ding uh hi.
+**ZVS:** Judah gam leh a khuapite sungah lokhote leh tuu cinga a vak kawikawi mite a tengkhawm ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -276,18 +276,18 @@
 ### v29
 **EN:** In those days they shall say no more, The fathers have eaten a sour grape, and the children's teeth are set on edge.
 
-**TDB77:** Tua ni ciangin amaute in: ‘Pate in leenggah thuk a ne uh a, a tate uh’ ha a kim hi,” cih paunak a zang nawn kei ding uh hi.
+**TDB77:** Tua ni ciangin amaute in: ‘Pate in leenggah thuk a ne-te a, a tate uh’ ha a kim hi,” cih paunak a zang nawn kei ding-te hi.
 
-**ZVS:** Tua ni ciangin amaute in: “‘Pate in leenggah thuk ne uh a, a tate uh' ha a kim hi,’ a kici paunak a zang nawn kei ding uh hi.
+**ZVS:** Tua ni ciangin amaute in: “‘Pate in leenggah thuk ne-te a, a tate uh' ha a kim hi,’ a kici paunak a zang nawn kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** But every one shall die for his own iniquity: every man that eateth the sour grape, his teeth shall be set on edge.
 
-**TDB77:** Mi khempeuh in amau’ mawhna ciat uh hang bekin a si ding uh hi. Leenggah thuk a nete’ ha bek a kim ding hi.
+**TDB77:** Mi khempeuh in amau’ mawhna ciat-te hang bekin a si ding-te hi. Leenggah thuk a nete’ ha bek a kim ding hi.
 
-**ZVS:** Mi khempeuh amau' mawhna ciat uh hang bekin a si ding uh hi. Leenggah thuk a nete' ha bek a kim ding hi.
+**ZVS:** Mi khempeuh amau' mawhna ciat-te hang bekin a si ding-te hi. Leenggah thuk a nete' ha bek a kim ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -303,27 +303,27 @@
 ### v32
 **EN:** Not according to the covenant that I made with their fathers in the day that I took them by the hand to bring them out of the land of Egypt; which my covenant they brake, although I was an husband unto them, saith the
 
-**TDB77:** Tua pen, a pu a pate uh, Izipt gam pana ka lakkhiat nadingin a khut uh tawh ka kaih khiat huna ka bawl uh thu thuciamna tawh kibang lo ding hi. Tua lai-in amaute’ pasal ka hih hangin ka thuciamna a hong palsat uh hi, Topa in kong ci hi.
+**TDB77:** Tua pen, a pu a pate uh, Izipt gam pana ka lakkhiat nadingin a khut-te tawh ka kaih khiat huna ka bawl-te thu thuciamna tawh kibang lo ding hi. Tua lai-in amaute’ pasal ka hih hangin ka thuciamna a hong palsat-te hi, Topa in kong ci hi.
 
-**ZVS:** Tua pen, a pu a pate uh, Egypt gam panin ka lakkhiatna dingin a khut uh tawh ka kaihkhiat huna ka bawl uh thuciamna tawh kibanglo ding hi. Tua hun lai-in kei amaute' pasal hinapi-in ka thuciamna a hong palsat uh hi, { Topa } in kong ci hi.
+**ZVS:** Tua pen, a pu a pate uh, Egypt gam panin ka lakkhiatna dingin a khut-te tawh ka kaihkhiat huna ka bawl-te thuciamna tawh kibanglo ding hi. Tua hun lai-in kei amaute' pasal hinapi-in ka thuciamna a hong palsat-te hi, { Topa } in kong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v33
 **EN:** But this shall be the covenant that I will make with the house of Israel; After those days, saith the
 
-**TDB77:** Ahih hangin Topa in kong cih-inah, tua hun hong tun’ ciangin Israel minamte tawh hih bangin thuciamna ka bawl ding hi: amaute sungah ka thukham ka koih ding a, amaute’ lungtang tungah ka gelh ding hi. Keimah in amaute’ Pasian ka hi ding a, amaute in keima’ mite ahi ding uh hi.
+**TDB77:** Ahih hangin Topa in kong cih-inah, tua hun hong tun’ ciangin Israel minamte tawh hih bangin thuciamna ka bawl ding hi: amaute sungah ka thukham ka koih ding a, amaute’ lungtang tungah ka gelh ding hi. Keimah in amaute’ Pasian ka hi ding a, amaute in keima’ mite ahi ding-te hi.
 
-**ZVS:** Ahih hangin { Topa } in kong cihin-ah, tua hun hong tun' ciangin Israel minamte tawh hih bangin thuciamna ka bawl ding hi: Amaute' sungah ka thukham ka koih ding a, amaute' lungtang tungah ka gelh ding hi. Kei pen amaute' Pasian ka hi ding a, amaute pen keima mite ahi ding uh hi.
+**ZVS:** Ahih hangin { Topa } in kong cihin-ah, tua hun hong tun' ciangin Israel minamte tawh hih bangin thuciamna ka bawl ding hi: Amaute' sungah ka thukham ka koih ding a, amaute' lungtang tungah ka gelh ding hi. Kei pen amaute' Pasian ka hi ding a, amaute pen keima mite ahi ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v34
 **EN:** And they shall teach no more every man his neighbour, and every man his brother, saying, Know the
 
-**TDB77:** Kuamah in midangte leh a sanggamte uh’ kiangah, ‘Topa thei in,’ ci-in a kihilh nawn kei ding uh hi: bang hang hiam cih leh Topa in kong cih-inah, amaute a neupen panin a lianpen dongin, a vekpi-un kei a hong thei ding uh hi. Bang hang hiam cih leh amaute’ khialhnate ka maisak ding a, amaute’ mawhnate zong phawkin ka nei nawn kei ding hi,” a ci hi.
+**TDB77:** Kuamah in midangte leh a sanggamte uh’ kiangah, ‘Topa thei in,’ ci-in a kihilh nawn kei ding-te hi: bang hang hiam cih leh Topa in kong cih-inah, amaute a neupen panin a lianpen dongin, a vekpi-un kei a hong thei ding-te hi. Bang hang hiam cih leh amaute’ khialhnate ka maisak ding a, amaute’ mawhnate zong phawkin ka nei nawn kei ding hi,” a ci hi.
 
-**ZVS:** Kuamah in midangte leh a sanggamte uh kiangah, ‘{ Topa } thei in,’ ci-in a kihilh nawn kei ding uh hi; bang hang hiam cih leh { Topa } in kong cihin-ah, amaute in a neupen panin a lianpen dongin, a vekpi-un kei a hong thei ding uh hi. Bang hang hiam cih leh amau' khialhnate ka maisak ding a, amaute' mawhnate zong phawkin ka nei nawn kei ding hi,” a ci hi.
+**ZVS:** Kuamah in midangte leh a sanggamte-te kiangah, ‘{ Topa } thei in,’ ci-in a kihilh nawn kei ding-te hi; bang hang hiam cih leh { Topa } in kong cihin-ah, amaute in a neupen panin a lianpen dongin, a vekpi-un kei a hong thei ding-te hi. Bang hang hiam cih leh amau' khialhnate ka maisak ding a, amaute' mawhnate zong phawkin ka nei nawn kei ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -339,18 +339,18 @@
 ### v36
 **EN:** If those ordinances depart from before me, saith the
 
-**TDB77:** Amah in, “Topa in kong cih-inah, hih a kip mahmah leitung, vantung ngeinate a kikhel hun ciang bekin, Israel mite’ suan leh khakte in gam a nei ngei nawn kei pan ding uh hi,” a ci hi.
+**TDB77:** Amah in, “Topa in kong cih-inah, hih a kip mahmah leitung, vantung ngeinate a kikhel hun ciang bekin, Israel mite’ suan leh khakte in gam a nei ngei nawn kei pan ding-te hi,” a ci hi.
 
-**ZVS:** Amah in, “{ Topa } in kong cihin-ah, hih a kip mahmah leitung leh vantung ngeinate a kikhel hun ciang bekin, Israel mite' suanlekhakte in gam neiloin a om pan bek ding uh hi,” a ci hi.
+**ZVS:** Amah in, “{ Topa } in kong cihin-ah, hih a kip mahmah leitung leh vantung ngeinate a kikhel hun ciang bekin, Israel mite' suanlekhakte in gam neiloin a om pan bek ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v37
 **EN:** Thus saith the
 
-**TDB77:** Topa in hong gen-inah, “Vantung a kiteh theih ciang leh leinuai-a leitung bulte a kivel theih ciang bek-in Israelmite’ suan leh khakte khempeuh a mawhna uh hangin ka lawnkhia mang pan ding hi, Topa in kong ci hi,”
+**TDB77:** Topa in hong gen-inah, “Vantung a kiteh theih ciang leh leinuai-a leitung bulte a kivel theih ciang bek-in Israelmite’ suan leh khakte khempeuh a mawhna-te hangin ka lawnkhia mang pan ding hi, Topa in kong ci hi,”
 
-**ZVS:** { Topa } in hong genin-ah, “Vantung a kiteh theih ciang leh leinuai-a leitung bulpite a kivel theih ciang bekin Israel-te' suanlekhakte khempeuh a mawhna uh hangin ka lawnkhiamang pan ding hi, { Topa } in kong ci hi,” a ci hi.
+**ZVS:** { Topa } in hong genin-ah, “Vantung a kiteh theih ciang leh leinuai-a leitung bulpite a kivel theih ciang bekin Israel-te' suanlekhakte khempeuh a mawhna-te hangin ka lawnkhiamang pan ding hi, { Topa } in kong ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 

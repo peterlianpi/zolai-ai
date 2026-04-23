@@ -68,9 +68,9 @@
 ### v6
 **EN:** And said to the judges, Take heed what ye do: for ye judge not for man, but for the
 
-**TDB77:** thukhente tungah, “Note in mi ading hi loin Topa’ adingin a khen na hih manun na hih dingte uh ngaihsun un; thukhenna na piaknate uhah amah in note tawh hong om hi.
+**TDB77:** thukhente tungah, “Note in mi ading hi loin Topa’ adingin a khen na hih manun na hih dingte-te ngaihsun un; thukhenna na piaknate uhah amah in note tawh hong om hi.
 
-**ZVS:** thukhente tungah, “Note in mi-a' ding hiloin { Topa}-a' dingin a khen na hih manun na hih dingte uh limtakin ngaihsun un; thukhenna na piak laitakun note kiangah amah hong om hi.
+**ZVS:** thukhente tungah, “Note in mi-a' ding hiloin { Topa}-a' dingin a khen na hih manun na hih dingte-te limtakin ngaihsun un; thukhenna na piak laitakun note kiangah amah hong om hi.
 
 **Grammar:** purpose: in order to
 
@@ -86,36 +86,36 @@
 ### v8
 **EN:** Moreover in Jerusalem did Jehoshaphat set of the Levites, and of the priests, and of the chief of the fathers of Israel, for the judgment of the
 
-**TDB77:** Tua tham loin, Topa adingin thukhenna a pia ding leh thu neite a khensak dingin Levi mite leh siampite leh Israel mi beh lutangte pawlkhat, Jehoshafat in Jerusalem ah seh hi. Amaute in Jerusalem ah a phual ding uh nei uh hi.
+**TDB77:** Tua tham loin, Topa adingin thukhenna a pia ding leh thu neite a khensak dingin Levi mite leh siampite leh Israel mi beh lutangte pawlkhat, Jehoshafat in Jerusalem ah seh hi. Amaute in Jerusalem ah a phual ding-te nei-te hi.
 
-**ZVS:** Tua thamloin, { Topa}-a' dingin thukhenna a pia ding leh thuneite a khensak dingin Levi mite leh siampite leh Israel mi beh lutangte pawlkhat, Jehoshafat in Jerusalem-ah a seh hi. Amaute in Jerusalem-ah a phual ding uh nei uh hi.
+**ZVS:** Tua thamloin, { Topa}-a' dingin thukhenna a pia ding leh thuneite a khensak dingin Levi mite leh siampite leh Israel mi beh lutangte pawlkhat, Jehoshafat in Jerusalem-ah a seh hi. Amaute in Jerusalem-ah a phual ding-te nei-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v9
 **EN:** And he charged them, saying, Thus shall ye do in the fear of the
 
-**TDB77:** Tua ciangin amah in amaute thuhilh a: “Hih bangin Topa zahtakna, cihtakna, leh na lungsim khempeuh uh tawh na hih ding uh hi:
+**TDB77:** Tua ciangin amah in amaute thuhilh a: “Hih bangin Topa zahtakna, cihtakna, leh na lungsim khempeuh-te tawh na hih ding-te hi:
 
-**ZVS:** Tua ciangin amah in amaute thuhilh a, “{ Topa } zahtakna, cihtakna, leh na lungsim khempeuh uh tawh hih bangin na hih ding uh hi:
+**ZVS:** Tua ciangin amah in amaute thuhilh a, “{ Topa } zahtakna, cihtakna, leh na lungsim khempeuh-te tawh hih bangin na hih ding-te hi:
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v10
 **EN:** And what cause soever shall come to you of your brethren that dwell in their cities, between blood and blood, between law and commandment, statutes and judgments, ye shall even warn them that they trespass not against the
 
-**TDB77:** a khuapi uhah a teeng na sanggamte uh tung panin mi kithahna thu, thukham ahih kei leh thupiakna, upadi ahih kei leh biakna ngeina kipte tawh kisai-in thu khatpeuh peuh no tungah hong tun’ ciangin, amaute in Topa’ mai-ah mawhna a pian’sak loh nading leh note leh na sanggamte uh tungah hehna hong tun’ loh nadingin amaute na hilh ding uh hi. Tua bangin na gamta ding uh a, mawhna na piangsak kei ding uh hi.
+**TDB77:** a khuapi uhah a teeng na sanggamte-te tung panin mi kithahna thu, thukham ahih kei leh thupiakna, upadi ahih kei leh biakna ngeina kipte tawh kisai-in thu khatpeuh peuh no tungah hong tun’ ciangin, amaute in Topa’ mai-ah mawhna a pian’sak loh nading leh note leh na sanggamte-te tungah hehna hong tun’ loh nadingin amaute na hilh ding-te hi. Tua bangin na gamta ding-te a, mawhna na piangsak kei ding-te hi.
 
-**ZVS:** A khuapi uhah a teng na sanggamte uh tung panin mi kithahna thu, thukham ahih kei leh thupiakna, upadi ahih kei leh biakna ngeina kipte tawh kisai-in thu khat peuhpeuh note tungah hong tun' ciangin, amaute in { Topa' } mai-ah mawhna a pian'saklohna ding leh note leh na sanggamte uh tungah hehna hong tun'lohna dingin amaute na hilh ding uh hi. Tua bangin na gamta ding uh a, mawhna na piangsak kei ding uh hi.
+**ZVS:** A khuapi uhah a teng na sanggamte-te tung panin mi kithahna thu, thukham ahih kei leh thupiakna, upadi ahih kei leh biakna ngeina kipte tawh kisai-in thu khat peuhpeuh note tungah hong tun' ciangin, amaute in { Topa' } mai-ah mawhna a pian'saklohna ding leh note leh na sanggamte-te tungah hehna hong tun'lohna dingin amaute na hilh ding-te hi. Tua bangin na gamta ding-te a, mawhna na piangsak kei ding-te hi.
 
 **Grammar:** causative: -sak suffix | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And, behold, Amariah the chief priest is over you in all matters of the
 
-**TDB77:** En un, Topa’ thu tawh kisai thute khempeuh ah siampi lian Amariah in no tungah om hi, tua ciangin kumpipa tawh kisai thute khempeuh ah Judah mite a ukpa Ishmael’ tapa Zebadiah om hi; tua ciang Levi mite in note tungah ulian na hong sem ding uh hi. Hang takin gamta un, thumante tawh Topa hong om ta hen!” a ci hi.
+**TDB77:** En un, Topa’ thu tawh kisai thute khempeuh ah siampi lian Amariah in no tungah om hi, tua ciangin kumpipa tawh kisai thute khempeuh ah Judah mite a ukpa Ishmael’ tapa Zebadiah om hi; tua ciang Levi mite in note tungah ulian na hong sem ding-te hi. Hang takin gamta un, thumante tawh Topa hong om ta hen!” a ci hi.
 
-**ZVS:** En un, { Topa' } thu tawh kisai thute khempeuhah siampi lian Amariah note tungah om hi. Tua ciangin kumpipa tawh kisai khempeuhah Judah mite a ukpa Ishmael' tapa Zebadiah om hi. Tua ciangin Levi mite in note tungah ulian na hong sem ding uh hi. Hang takin gamta un; thuman mite tawh { Topa } hong om ta hen!” a ci hi.
+**ZVS:** En un, { Topa' } thu tawh kisai thute khempeuhah siampi lian Amariah note tungah om hi. Tua ciangin kumpipa tawh kisai khempeuhah Judah mite a ukpa Ishmael' tapa Zebadiah om hi. Tua ciangin Levi mite in note tungah ulian na hong sem ding-te hi. Hang takin gamta un; thuman mite tawh { Topa } hong om ta hen!” a ci hi.
 
 **Grammar:** optative: let there be / let it be | quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 

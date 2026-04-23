@@ -48,27 +48,27 @@
 ### v5
 **EN:** And Gera, and Shephuphan, and Huram.
 
-**TDB77:** Gera, Shefufan, leh Huram, ahi uh hi.
+**TDB77:** Gera, Shefufan, leh Huram, ahi-te hi.
 
-**ZVS:** Gera, Shefufan, leh Huram ahi uh hi.
+**ZVS:** Gera, Shefufan, leh Huram ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** And these are the sons of Ehud: these are the heads of the fathers of the inhabitants of Geba, and they removed them to Manahath:
 
-**TDB77:** Ehud’ tapate in (amaute in Geba a, teeng leh lutangte hi uh a, amaute Mnanhath-ah galmatin kipua hi):
+**TDB77:** Ehud’ tapate in (amaute in Geba a, teeng leh lutangte hi-te a, amaute Mnanhath-ah galmatin kipua hi):
 
-**ZVS:** Ehud' tapate (amaute pen Geba-a teng beh lutangte hi uh a, amaute Manahath-ah galmatin kipua hi):
+**ZVS:** Ehud' tapate (amaute pen Geba-a teng beh lutangte hi-te a, amaute Manahath-ah galmatin kipua hi):
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And Naaman, and Ahiah, and Gera, he removed them, and begat Uzza, and Ahihud.
 
-**TDB77:** Na-aman, Ahijah, leh Uzza leh Ahihub’ pa Heglam a kici Gera ahi uh hi.
+**TDB77:** Na-aman, Ahijah, leh Uzza leh Ahihub’ pa Heglam a kici Gera ahi-te hi.
 
-**ZVS:** Naaman, Ahijah, leh Uzza leh Ahihud' pa Heglam a kici Gera ahi uh hi.
+**ZVS:** Naaman, Ahijah, leh Uzza leh Ahihud' pa Heglam a kici Gera ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -89,18 +89,18 @@
 ### v10
 **EN:** And Jeuz, and Shachia, and Mirma. These were his sons, heads of the fathers.
 
-**TDB77:** Jeuz, Sakhia, leh Mirmah ahi uh hi. Hihte in amau’ beh sungah innkuan lutangte ahi uh hi.
+**TDB77:** Jeuz, Sakhia, leh Mirmah ahi-te hi. Hihte in amau’ beh sungah innkuan lutangte ahi-te hi.
 
-**ZVS:** Jeuz, Sakhia, leh Mirmah ahi uh hi. Hihte pen amau beh sungah innkuan lutangte ahi uh hi.
+**ZVS:** Jeuz, Sakhia, leh Mirmah ahi-te hi. Hihte pen amau beh sungah innkuan lutangte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** And of Hushim he begat Abitub, and Elpaal.
 
-**TDB77:** Amah in Hushim tawh zong a neih a tapate in: Ahitub leh Elpa-al ahi uh hi.
+**TDB77:** Amah in Hushim tawh zong a neih a tapate in: Ahitub leh Elpa-al ahi-te hi.
 
-**ZVS:** Amah in Hushim tawh zong a neih a tapate: Ahitub leh Elpaal ahi uh hi.
+**ZVS:** Amah in Hushim tawh zong a neih a tapate: Ahitub leh Elpaal ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -121,7 +121,7 @@
 ### v14
 **EN:** And Ahio, Shashak, and Jeremoth,
 
-**TDB77:** leh Ahio, Shashak, leh Jeremoth ahi uh hi.
+**TDB77:** leh Ahio, Shashak, leh Jeremoth ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -133,9 +133,9 @@
 ### v16
 **EN:** And Michael, and Ispah, and Joha, the sons of Beriah;
 
-**TDB77:** Makhael, Ishpah, leh Joha in Beriah’ tapate ahi uh hi.
+**TDB77:** Makhael, Ishpah, leh Joha in Beriah’ tapate ahi-te hi.
 
-**ZVS:** Mikhael, Ishpah, leh Joha-te pen Beriah' tapate ahi uh hi.
+**ZVS:** Mikhael, Ishpah, leh Joha-te pen Beriah' tapate ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -149,9 +149,9 @@
 ### v18
 **EN:** Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;
 
-**TDB77:** Ishmerai, Izliah, leh Jobab in Elpa-al’ suante ahi uh hi.
+**TDB77:** Ishmerai, Izliah, leh Jobab in Elpa-al’ suante ahi-te hi.
 
-**ZVS:** Ishmerai, Izliah, leh Jobab-te pen Elpaal' suante ahi uh hi.
+**ZVS:** Ishmerai, Izliah, leh Jobab-te pen Elpaal' suante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -168,9 +168,9 @@
 ### v21
 **EN:** And Adaiah, and Beraiah, and Shimrath, the sons of Shimhi;
 
-**TDB77:** Adaiah, Beraiah, leh Shimrath in Shimei’ suante ahi uh hi.
+**TDB77:** Adaiah, Beraiah, leh Shimrath in Shimei’ suante ahi-te hi.
 
-**ZVS:** Adaiah, Beraiah, leh Shimrath-te pen Shimei' suante ahi uh hi.
+**ZVS:** Adaiah, Beraiah, leh Shimrath-te pen Shimei' suante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -192,9 +192,9 @@
 ### v25
 **EN:** And Iphedeiah, and Penuel, the sons of Shashak;
 
-**TDB77:** Ifdeiah, leh Penuel in Shashak’ suante ahi uh hi,
+**TDB77:** Ifdeiah, leh Penuel in Shashak’ suante ahi-te hi,
 
-**ZVS:** Ifdeiah, leh Penuel-te pen Shashak' suante ahi uh hi.
+**ZVS:** Ifdeiah, leh Penuel-te pen Shashak' suante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -206,18 +206,18 @@
 ### v27
 **EN:** And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.
 
-**TDB77:** Ja-areshiah, Elijah, leh Zikri in Jehoham’ suante ahi uh hi.
+**TDB77:** Ja-areshiah, Elijah, leh Zikri in Jehoham’ suante ahi-te hi.
 
-**ZVS:** Jaareshiah, Elijah, leh Zikri-te pen Jehoram' suante ahi uh hi.
+**ZVS:** Jaareshiah, Elijah, leh Zikri-te pen Jehoram' suante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v28
 **EN:** These were heads of the fathers, by their generations, chief men. These dwelt in Jerusalem.
 
-**TDB77:** Hihte in amau’ khang tawh kizui-in beh lutangte, a ukpite ahi uh hi. Hihte Jerusalem ah teeng uh hi.
+**TDB77:** Hihte in amau’ khang tawh kizui-in beh lutangte, a ukpite ahi-te hi. Hihte Jerusalem ah teeng-te hi.
 
-**ZVS:** Hihte pen amau khang tawh kizui-in beh lutangte, a ukpite ahi uh hi. Hihte khempeuh Jerusalem-ah a teng uh hi.
+**ZVS:** Hihte pen amau khang tawh kizui-in beh lutangte, a ukpite ahi-te hi. Hihte khempeuh Jerusalem-ah a teng-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -245,9 +245,9 @@
 ### v32
 **EN:** And Mikloth begat Shimeah. And these also dwelt with their brethren in Jerusalem, over against them.
 
-**TDB77:** leh Mikloth (amah in Shimeah’ pa) ahi hi. Tu-in amau’ suan leh khakte zong Jerusalem a, amau’ behte’ gal khatah amau’ behte mah tawh teeng uh hi.
+**TDB77:** leh Mikloth (amah in Shimeah’ pa) ahi hi. Tu-in amau’ suan leh khakte zong Jerusalem a, amau’ behte’ gal khatah amau’ behte mah tawh teeng-te hi.
 
-**ZVS:** leh Mikloth (amah pen Shimeah' pa) ahi hi. Tu-in amau' suanlekhakte zong Jerusalem-a amau' behte' galkhatah amau' behte mah tawh teng uh hi.
+**ZVS:** leh Mikloth (amah pen Shimeah' pa) ahi hi. Tu-in amau' suanlekhakte zong Jerusalem-a amau' behte' galkhatah amau' behte mah tawh teng-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -272,9 +272,9 @@
 ### v35
 **EN:** And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.
 
-**TDB77:** Mikah’ tapate in: Pithon, Melek, Tarea, leh Ahaz ahi uh hi.
+**TDB77:** Mikah’ tapate in: Pithon, Melek, Tarea, leh Ahaz ahi-te hi.
 
-**ZVS:** Mikah' tapate: Pithon, Melek, Tarea, leh Ahaz ahi uh hi.
+**ZVS:** Mikah' tapate: Pithon, Melek, Tarea, leh Ahaz ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -295,9 +295,9 @@
 ### v38
 **EN:** And Azel had six sons, whose names are these, Azrikam, Bocheru, and Ishmael, and Sheariah, and Obadiah, and Hanan. All these were the sons of Azel.
 
-**TDB77:** Azel in tapa guk nei a, hihte in amau’ min ahi hi. Azrikam, Bokheru, Ishmeal, Sheariah, Obadiah, leh Hanan ahi uh hi. Hihte khempeuh in Azel’ tapate ahi uh hi.
+**TDB77:** Azel in tapa guk nei a, hihte in amau’ min ahi hi. Azrikam, Bokheru, Ishmeal, Sheariah, Obadiah, leh Hanan ahi-te hi. Hihte khempeuh in Azel’ tapate ahi-te hi.
 
-**ZVS:** Azel in tapa guk nei a, tuate' minte: Azrikam, Bokheru, Ishmael, Sheariah, Obadiah, leh Hanan ahi uh hi. Hihte khempeuh Azel' tapate ahi uh hi.
+**ZVS:** Azel in tapa guk nei a, tuate' minte: Azrikam, Bokheru, Ishmael, Sheariah, Obadiah, leh Hanan ahi-te hi. Hihte khempeuh Azel' tapate ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -311,9 +311,9 @@
 ### v40
 **EN:** And the sons of Ulam were mighty men of valour, archers, and had many sons, and sons' sons, an hundred and fifty. All these are of the sons of Benjamin.
 
-**TDB77:** Ulam’ tapate in a thahat galhangte, thaltawite, tapa tampi leh tupa tampi a neite hi a, mi za leh sawmnga pha uh hi. Hihte khempeuh in Benjamin minamte ahi hi.
+**TDB77:** Ulam’ tapate in a thahat galhangte, thaltawite, tapa tampi leh tupa tampi a neite hi a, mi za leh sawmnga pha-te hi. Hihte khempeuh in Benjamin minamte ahi hi.
 
-**ZVS:** Ulam' tapate a thahat galhangte, thal tawite, tapa tampi leh tupa tampi a neite hi a, mi za leh sawmnga pha uh hi. Hihte khempeuh Benjamin minamte ahi uh hi.
+**ZVS:** Ulam' tapate a thahat galhangte, thal tawite, tapa tampi leh tupa tampi a neite hi a, mi za leh sawmnga pha-te hi. Hihte khempeuh Benjamin minamte ahi-te hi.
 
 **Grammar:** plural: uh marker
 

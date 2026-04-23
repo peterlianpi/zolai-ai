@@ -53,45 +53,45 @@
 ### v4
 **EN:** Notwithstanding the king's word prevailed against Joab, and against the captains of the host. And Joab and the captains of the host went out from the presence of the king, to number the people of Israel.
 
-**TDB77:** Ahih hangin kumpipa’ kamgente in Joab leh galkap ukte zo hi. Tua ahih ciangin Israel mite galdo mi a phazah a sim dingin kumpipa’ omna panin Joab leh galkap ukte paikhia uh hi.
+**TDB77:** Ahih hangin kumpipa’ kamgente in Joab leh galkap ukte zo hi. Tua ahih ciangin Israel mite galdo mi a phazah a sim dingin kumpipa’ omna panin Joab leh galkap ukte paikhia-te hi.
 
-**ZVS:** Ahih hangin kumpipa' kamgente in Joab leh galkap ukte zozaw hi. Tua ahih ciangin Israel mite a phazah a sim dingin kumpipa' omna panin Joab leh galkap ukte a paikhia uh hi.
+**ZVS:** Ahih hangin kumpipa' kamgente in Joab leh galkap ukte zozaw hi. Tua ahih ciangin Israel mite a phazah a sim dingin kumpipa' omna panin Joab leh galkap ukte a paikhia-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v5
 **EN:** And they passed over Jordan, and pitched in Aroer, on the right side of the city that lieth in the midst of the river of Gad, and toward Jazer:
 
-**TDB77:** Amaute in Jordan kantanin kuam laizang-a om khuapi Aroer panin kipanin Gad lam manawh uh a, Jazer-ah paisuak uh hi.
+**TDB77:** Amaute in Jordan kantanin kuam laizang-a om khuapi Aroer panin kipanin Gad lam manawh-te a, Jazer-ah paisuak-te hi.
 
-**ZVS:** Amaute in Jordan kantanin kuam laizanga om khuapi Aroer panin kipanin Gad lam manawh uh a, Jazer-ah paisuak uh hi.
+**ZVS:** Amaute in Jordan kantanin kuam laizanga om khuapi Aroer panin kipanin Gad lam manawh-te a, Jazer-ah paisuak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Then they came to Gilead, and to the land of Tahtim–hodshi; and they came to Dan–jaan, and about to Zidon,
 
-**TDB77:** Tua ciangin amaute Gilead tung uh a, tua panin Hit mite gam Kadesh tung uh hi; tua ciangin amaute Dan tung uh a, Dan panin kual pai-in Sidon tung uh a,
+**TDB77:** Tua ciangin amaute Gilead tung-te a, tua panin Hit mite gam Kadesh tung-te hi; tua ciangin amaute Dan tung-te a, Dan panin kual pai-in Sidon tung-te a,
 
-**ZVS:** Tua ciangin amaute Gilead tung uh a, tua panin Hit mite' gam Kadesh tung uh hi. Tua lai panin Dan tungin, Dan panin kual pai-in Sidon tung uh hi.
+**ZVS:** Tua ciangin amaute Gilead tung-te a, tua panin Hit mite' gam Kadesh tung-te hi. Tua lai panin Dan tungin, Dan panin kual pai-in Sidon tung-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v7
 **EN:** And came to the strong hold of Tyre, and to all the cities of the Hivites, and of the Canaanites: and they went out to the south of Judah, even to Beer–sheba.
 
-**TDB77:** tua ciangin Tai-ar munmuanhuai leh Hiv mite leh Kanaan mite’ khuapite khempeuhah tung uh hi; tua panin amaute Judahte’ Negeb lam Be-ersheba-ah pai uh hi.
+**TDB77:** tua ciangin Tai-ar munmuanhuai leh Hiv mite leh Kanaan mite’ khuapite khempeuhah tung-te hi; tua panin amaute Judahte’ Negeb lam Be-ersheba-ah pai-te hi.
 
-**ZVS:** Tua ciangin Taia munmuan'huai leh Hiv mite leh Kanaan mite' khuapite khempeuh tung uh hi. Tua panin Judah-te' Negeb lam Beersheba-ah pai uh hi.
+**ZVS:** Tua ciangin Taia munmuan'huai leh Hiv mite leh Kanaan mite' khuapite khempeuh tung-te hi. Tua panin Judah-te' Negeb lam Beersheba-ah pai-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v8
 **EN:** So when they had gone through all the land, they came to Jerusalem at the end of nine months and twenty days.
 
-**TDB77:** Tua ahih ciangin gam khempeuh ah amaute a pai khit uh, kha kua leh ni sawmnih a cin’ ciangin Jerusalem ah hong tung uh hi.
+**TDB77:** Tua ahih ciangin gam khempeuh ah amaute a pai khit uh, kha kua leh ni sawmnih a cin’ ciangin Jerusalem ah hong tung-te hi.
 
-**ZVS:** Tua ahih ciangin gam khempeuhah amaute a pai khit uh, kha kua leh ni sawmnih a cin' khit ciangin Jerusalem-ah hong tungkik uh hi.
+**ZVS:** Tua ahih ciangin gam khempeuhah amaute a pai khit uh, kha kua leh ni sawmnih a cin' khit ciangin Jerusalem-ah hong tungkik-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -170,9 +170,9 @@
 ### v17
 **EN:** And David spake unto the
 
-**TDB77:** Tua ciangin mite a vat vantungmi a muh ciangin David in Topa tungah thu gen a, “En in, ka mawh hi, a khialpa in kei ka hi hi; ahih hangin hih tuute in bang hih uh hiam? Kong thum hi, kei leh ka innkuante bek daan hong pia in,” a ci hi.
+**TDB77:** Tua ciangin mite a vat vantungmi a muh ciangin David in Topa tungah thu gen a, “En in, ka mawh hi, a khialpa in kei ka hi hi; ahih hangin hih tuute in bang hih-te hiam? Kong thum hi, kei leh ka innkuante bek daan hong pia in,” a ci hi.
 
-**ZVS:** Tua ciangin mite a vat vantung mi a muh ciangin David in { Topa' } tungah thu gen a, “En in, ka mawh hi; a khialpa pen kei ka hi hi. Hih mite in bang khialhna nei ahi uh hiam? Kong thum hi; kei leh ka innkuante bek gim hong pia in,” a ci hi.
+**ZVS:** Tua ciangin mite a vat vantung mi a muh ciangin David in { Topa' } tungah thu gen a, “En in, ka mawh hi; a khialpa pen kei ka hi hi. Hih mite in bang khialhna nei ahi-te hiam? Kong thum hi; kei leh ka innkuante bek gim hong pia in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore
 

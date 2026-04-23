@@ -53,18 +53,18 @@
 ### v4
 **EN:** Because they have forsaken me, and have estranged this place, and have burned incense in it unto other gods, whom neither they nor their fathers have known, nor the kings of Judah, and have filled this place with the blood of innocents;
 
-**TDB77:** Bang hang hiam cih leh hih mite in kei hong taisan khin zo uh a, amaute-a kipanin a pu a pate uh leh Judah kumpite’ theih ngei loh pasian dangte’ kiangah paknamtui a hal uh a, hih mun a ninsak uh hi. Hih mun mawhna nei lo mite thahna sisan tawh a dimsak uh a,
+**TDB77:** Bang hang hiam cih leh hih mite in kei hong taisan khin zo-te a, amaute-a kipanin a pu a pate-te leh Judah kumpite’ theih ngei loh pasian dangte’ kiangah paknamtui a hal-te a, hih mun a ninsak-te hi. Hih mun mawhna nei lo mite thahna sisan tawh a dimsak-te a,
 
-**ZVS:** Bang hang hiam cih leh hih mite in kei hong taisan khinzo uh a, amaute-a kipanin a pu a pate uh leh Judah kumpite' theih ngeiloh pasian dangte' kiangah paknamtui halin, hih mun a ninsak uh hi. Hih mun pen mawhna neilo mite thahna sisan tawh dimsak uh a,
+**ZVS:** Bang hang hiam cih leh hih mite in kei hong taisan khinzo-te a, amaute-a kipanin a pu a pate-te leh Judah kumpite' theih ngeiloh pasian dangte' kiangah paknamtui halin, hih mun a ninsak-te hi. Hih mun pen mawhna neilo mite thahna sisan tawh dimsak-te a,
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** They have built also the high places of Baal, to burn their sons with fire for burnt offerings unto Baal, which I commanded not, nor spake it, neither came it into my mind:
 
-**TDB77:** ka thupiak, ka sawl lah a hi lo, ka ngaihsut khak beek zong a hi lo, a tate uh meihal biakna tawh Baal biak nadingin Baal biakna tausangte a lam khin zo uh hi.
+**TDB77:** ka thupiak, ka sawl lah a hi lo, ka ngaihsut khak beek zong a hi lo, a tate-te meihal biakna tawh Baal biak nadingin Baal biakna tausangte a lam khin zo-te hi.
 
-**ZVS:** ka thupiak a hilo, ka ngaihsutkhak beek zong a hilo, a tate uh meihal biakna tawh Baal biakna dingin Baal biakna tau sangte a lam khinzo uh hi.
+**ZVS:** ka thupiak a hilo, ka ngaihsutkhak beek zong a hilo, a tate-te meihal biakna tawh Baal biakna dingin Baal biakna tau sangte a lam khinzo-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -89,18 +89,18 @@
 ### v8
 **EN:** And I will make this city desolate, and an hissing; every one that passeth thereby shall be astonished and hiss because of all the plagues thereof.
 
-**TDB77:** Hih khuapi a mulkimhuai leh a simmawh huai ka suak sak ding a, a kantan mi khempeuh in khuapi kisiatna hangin lamdang sa-in zahpih-in a phitsan ding uh hi.
+**TDB77:** Hih khuapi a mulkimhuai leh a simmawh huai ka suak sak ding a, a kantan mi khempeuh in khuapi kisiatna hangin lamdang sa-in zahpih-in a phitsan ding-te hi.
 
-**ZVS:** Hih khuapi a mulkimhuai leh a simmawhhuai ka suaksak ding a, a kantan mi khempeuh in khuapi siatna hangin lamdangsa-in zahpihin a phitsan ding uh hi.
+**ZVS:** Hih khuapi a mulkimhuai leh a simmawhhuai ka suaksak ding a, a kantan mi khempeuh in khuapi siatna hangin lamdangsa-in zahpihin a phitsan ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And I will cause them to eat the flesh of their sons and the flesh of their daughters, and they shall eat every one the flesh of his friend in the siege and straitness, wherewith their enemies, and they that seek their lives, shall straiten them.
 
-**TDB77:** A galte uh leh a that nuam mite in hong sim uh a, nek ding om lo lua ahih manin a tapate leh a tanute-uh’ sa ka nesak ding a, mi khempeuh in a innvengte’ sa a ne ding uh hi,’ va ci in.
+**TDB77:** A galte-te leh a that nuam mite in hong sim-te a, nek ding om lo lua ahih manin a tapate leh a tanute-uh’ sa ka nesak ding a, mi khempeuh in a innvengte’ sa a ne ding-te hi,’ va ci in.
 
-**ZVS:** A galte uh leh a that nuam mite in, amaute sim ding uh a, nek ding omlo lua ahih manin a tapate leh a tanute uh' sa ka nesak ding a, mi khempeuh in a vengte' sa a ne ding uh hi,’ va ci in.
+**ZVS:** A galte-te leh a that nuam mite in, amaute sim ding-te a, nek ding omlo lua ahih manin a tapate leh a tanute uh' sa ka nesak ding a, mi khempeuh in a vengte' sa a ne ding-te hi,’ va ci in.
 
 **Grammar:** future: will | negation: lo | causal: because | plural: uh marker
 
@@ -116,9 +116,9 @@
 ### v11
 **EN:** And shalt say unto them, Thus saith the
 
-**TDB77:** amaute kiangah, a vanglian Topa in a cih-inah, hih beelsekpa’ beel kisukham a, a kibawl phatkik theih nawn loh mah bangin hih mite leh hih khuapi ka sukham ding hi. Mun dangah si vui nading mun om nawn lo ding ahih manin Tofeth nangawn-ah a kivui ding uh hi.
+**TDB77:** amaute kiangah, a vanglian Topa in a cih-inah, hih beelsekpa’ beel kisukham a, a kibawl phatkik theih nawn loh mah bangin hih mite leh hih khuapi ka sukham ding hi. Mun dangah si vui nading mun om nawn lo ding ahih manin Tofeth nangawn-ah a kivui ding-te hi.
 
-**ZVS:** amaute kiangah, Vanglian { Topa } in a cihin-ah, hih beelsekpa' beel kisukham a, a kibawlphat kik theih nawnloh bangmahin hih mite leh hih khuapi ka sukham ding hi. Mun dangah si vuina ding mun om nawnlo ding ahih manin Tofeth nangawnah a kivui ding uh hi.
+**ZVS:** amaute kiangah, Vanglian { Topa } in a cihin-ah, hih beelsekpa' beel kisukham a, a kibawlphat kik theih nawnloh bangmahin hih mite leh hih khuapi ka sukham ding hi. Mun dangah si vuina ding mun om nawnlo ding ahih manin Tofeth nangawnah a kivui ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -152,9 +152,9 @@
 ### v15
 **EN:** Thus saith the
 
-**TDB77:** “A vanglian Topa, Israel mite’ Pasian in a cih-inah, En un, hih khuapi leh a kim-a khuaneute’ tungah ka gensa siatna khempeuh ka tung sak ding hi. Bang hang hiam cih leh amaute in a lung uh a khauhsak uh a, ka thute a ngai nuam kei uh hi, a ci hi,” ka ci hi.
+**TDB77:** “A vanglian Topa, Israel mite’ Pasian in a cih-inah, En un, hih khuapi leh a kim-a khuaneute’ tungah ka gensa siatna khempeuh ka tung sak ding hi. Bang hang hiam cih leh amaute in a lung-te a khauhsak-te a, ka thute a ngai nuam kei-te hi, a ci hi,” ka ci hi.
 
-**ZVS:** “Vanglian { Topa, } Israel mite' Pasian in a cihin-ah: En un, hih khuapi leh a kiima khuaneute tungah ka gensa siatna khempeuh ka tungsak ding hi. Bang hang hiam cih leh amaute in a lungsim uh khauhsak uh a, ka thute a ngai nuam kei uh hi, ci hi,” ka ci hi.
+**ZVS:** “Vanglian { Topa, } Israel mite' Pasian in a cihin-ah: En un, hih khuapi leh a kiima khuaneute tungah ka gensa siatna khempeuh ka tungsak ding hi. Bang hang hiam cih leh amaute in a lungsim-te khauhsak-te a, ka thute a ngai nuam kei-te hi, ci hi,” ka ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

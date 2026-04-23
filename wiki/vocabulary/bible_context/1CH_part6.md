@@ -20,7 +20,7 @@
 
 ### suan leh khakte = descendants and relatives (sons and families)
 **Context:** All these belonged to the descendants and families of Machir.
-**Example:** Hihte khempeuh in Gilead’ pa Makhir’ suan leh khakte ahi uh hi.
+**Example:** Hihte khempeuh in Gilead’ pa Makhir’ suan leh khakte ahi-te hi.
 
 ### sih khit ciangin = after (he) died
 **Context:** After Hezron died...
@@ -28,11 +28,11 @@
 
 ### tacil = firstborn/chief son
 **Context:** The sons of Hezron's firstborn Jerahmeel were...
-**Example:** Hezron’ tacil Jerahme-el’ tapate in: A tacil Ram, Bunah, Oren, Ozem, leh Ahijah ahi uh hi.
+**Example:** Hezron’ tacil Jerahme-el’ tapate in: A tacil gam, Bunah, Oren, Ozem, leh Ahijah ahi-te hi.
 
 ### sanggampa = brother (often used for a close male relative or peer in this context, though literally 'older brother')
 **Context:** The sons of Jada, Shammai's brother...
-**Example:** Tua ciangin Shammai’ sanggampa Jada’ tapate in: Jether leh Jonathan ahi uh hi
+**Example:** Tua ciangin Shammai’ sanggampa Jada’ tapate in: Jether leh Jonathan ahi-te hi
 
 ### ta nei loin si = died without children
 **Context:** Seled died without having children.
@@ -66,9 +66,9 @@
   - Structure indicating 'X married Y' or 'X took Y as wife'. 'luppih' functions as the main verb for marriage.
   - Example: Hezron in a ten’pih Gilead’ pa Makhir’ tanu luppih hi
 
-- **X’ tapate in: A, B, C ahi uh hi.**
+- **X’ tapate in: A, B, C ahi-te hi.**
   - A common genealogical structure listing the sons (tapate) of a person (X).
-  - Example: Hezron’ tacil Jerahme-el’ tapate in: A tacil Ram, Bunah, Oren, Ozem, leh Ahijah ahi uh hi.
+  - Example: Hezron’ tacil Jerahme-el’ tapate in: A tacil gam, Bunah, Oren, Ozem, leh Ahijah ahi-te hi.
 
 - **X in Y tawh Z nei hi.**
   - Structure showing 'X had Z with Y' (i.e., Y is the mother of Z, or Y is the co-parent/spouse).

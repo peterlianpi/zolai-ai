@@ -101,9 +101,9 @@
 ### v10
 **EN:** And the servants also of Huram, and the servants of Solomon, which brought gold from Ophir, brought algum trees and precious stones.
 
-**TDB77:** Tua tham loin Ofir panin kham hong pua kumpi Huram’ nasemte leh Solomon’ nasemte in cingsing leh suangmanphate hong pua uh hi.
+**TDB77:** Tua tham loin Ofir panin kham hong pua kumpi Huram’ nasemte leh Solomon’ nasemte in cingsing leh suangmanphate hong pua-te hi.
 
-**ZVS:** Tua thamloin Ofir panin kham hong pua Kumpi Hiram' nasemte leh Solomon' nasemte in cingsing leh suangmanphate hong pua uh hi.
+**ZVS:** Tua thamloin Ofir panin kham hong pua Kumpi Hiram' nasemte leh Solomon' nasemte in cingsing leh suangmanphate hong pua-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -137,9 +137,9 @@
 ### v14
 **EN:** Beside that which chapmen and merchants brought. And all the kings of Arabia and governors of the country brought gold and silver to Solomon.
 
-**TDB77:** sumbawlte leh sumbukte’ tutte a kisim lo ahi hi; Abrabia kumpite khempeuh leh gamsung a ukte in Solomon kiangah kham leh ngun puak uh hi.
+**TDB77:** sumbawlte leh sumbukte’ tutte a kisim lo ahi hi; Abrabia kumpite khempeuh leh gamsung a ukte in Solomon kiangah kham leh ngun puak-te hi.
 
-**ZVS:** sumbawlte leh sumbukte' tutte a kisimlo ahi hi. Arabia kumpite khempeuh leh gamsung a ukte in Solomon kiangah kham leh ngun puak uh hi.
+**ZVS:** sumbawlte leh sumbukte' tutte a kisimlo ahi hi. Arabia kumpite khempeuh leh gamsung a ukte in Solomon kiangah kham leh ngun puak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -212,18 +212,18 @@
 ### v23
 **EN:** And all the kings of the earth sought the presence of Solomon, to hear his wisdom, that God had put in his heart.
 
-**TDB77:** Tua ciangin Pasian in ama lungsim sungah a koihsak pilna a za dingin leitung kumpi khempeuh in Solomon’ omna hong zong uh hi.
+**TDB77:** Tua ciangin Pasian in ama lungsim sungah a koihsak pilna a za dingin leitung kumpi khempeuh in Solomon’ omna hong zong-te hi.
 
-**ZVS:** Tua ciangin Pasian in ama lungsim sungah a koihsak pilna a za dingin leitung kumpi khempeuh in Solomon' omna hong zong uh hi.
+**ZVS:** Tua ciangin Pasian in ama lungsim sungah a koihsak pilna a za dingin leitung kumpi khempeuh in Solomon' omna hong zong-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v24
 **EN:** And they brought every man his present, vessels of silver, and vessels of gold, and raiment, harness, and spices, horses, and mules, a rate year by year.
 
-**TDB77:** Amaute khempeuh in a letsong ciat uh, ngun leh kham tawh kibawl nate, puante, mirrah paknamtuite, a namtui nate, sakolte, le la-sakolte, a kum kumin tampi tak hong puak uh hi.
+**TDB77:** Amaute khempeuh in a letsong ciat uh, ngun leh kham tawh kibawl nate, puante, mirrah paknamtuite, a namtui nate, sakolte, le la-sakolte, a kum kumin tampi tak hong puak-te hi.
 
-**ZVS:** Amaute khempeuh in a letsong ciat uh, ngun leh kham tawh a kibawl nate, puante, myrrh paknamtuite, a namtui nate, sakolte, leh la-sakolte, a kum kumin tampi tak hong puak uh hi.
+**ZVS:** Amaute khempeuh in a letsong ciat uh, ngun leh kham tawh a kibawl nate, puante, myrrh paknamtuite, a namtui nate, sakolte, leh la-sakolte, a kum kumin tampi tak hong puak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

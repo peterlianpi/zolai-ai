@@ -176,9 +176,9 @@
 ### v20
 **EN:** He hath not dealt so with any nation: and as for his judgments, they have not known them. Praise ye the
 
-**TDB77:** Amah in tua bangin minam dang khatpeuh peuh tungah bawl lo hi; amaute in amau biakna ngeina kipte thei lo uh hi. Topa phat un!
+**TDB77:** Amah in tua bangin minam dang khatpeuh peuh tungah bawl lo hi; amaute in amau biakna ngeina kipte thei lo-te hi. Topa phat un!
 
-**ZVS:** Amah in tua bangin minam dang khat peuhpeuh tungah bawl ngeilo hi. Amaute in amah biakna ngeina kipte theilo uh hi. { Topa } phat un.
+**ZVS:** Amah in tua bangin minam dang khat peuhpeuh tungah bawl ngeilo hi. Amaute in amah biakna ngeina kipte theilo-te hi. { Topa } phat un.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 

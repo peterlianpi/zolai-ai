@@ -42,9 +42,9 @@
 ### v3
 **EN:** Now the cherubims stood on the right side of the house, when the man went in; and the cloud filled the inner court.
 
-**TDB77:** Tua mipa a pai lai takin kherubte pen biakinn leitaw lamah na ding uh a, biakinntual sungnung teng dimin meiipi kai hi.
+**TDB77:** Tua mipa a pai lai takin kherubte pen biakinn leitaw lamah na ding-te a, biakinntual sungnung teng dimin meiipi kai hi.
 
-**ZVS:** Tua ciangin mipa a pai laitakin kherub-te pen biakinn leitaw lamah na ding uh a, biakinn tual sungnungteng dimin meiipi a kai hi.
+**ZVS:** Tua ciangin mipa a pai laitakin kherub-te pen biakinn leitaw lamah na ding-te a, biakinn tual sungnungteng dimin meiipi a kai hi.
 
 **Grammar:** plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** And there appeared in the cherubims the form of a man's hand under their wings.
 
-**TDB77:** Tua kherubte in a kha nuai ciat uhah mihing khut tawh a kibang nei ciat uh hi.
+**TDB77:** Tua kherubte in a kha nuai ciat uhah mihing khut tawh a kibang nei ciat-te hi.
 
-**ZVS:** Tua kherub-te in a kha nuai ciat uhah mihing khut tawh a kibang nei ciat uh hi.
+**ZVS:** Tua kherub-te in a kha nuai ciat uhah mihing khut tawh a kibang nei ciat-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -103,18 +103,18 @@
 ### v10
 **EN:** And as for their appearances, they four had one likeness, as if a wheel had been in the midst of a wheel.
 
-**TDB77:** Tua leengpeite a pianzia kibang kim a, leengpei khat in a kikantanin peei dang khat ciat nei thuah uh hi.
+**TDB77:** Tua leengpeite a pianzia kibang kim a, leengpei khat in a kikantanin peei dang khat ciat nei thuah-te hi.
 
-**ZVS:** Tua leengpeite a pianzia kibang kim a, leengpei khat in a kikantanin pei dang khat ciat nei thuah uh hi.
+**ZVS:** Tua leengpeite a pianzia kibang kim a, leengpei khat in a kikantanin pei dang khat ciat nei thuah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** When they went, they went upon their four sides; they turned not as they went, but to the place whither the head looked they followed it; they turned not as they went.
 
-**TDB77:** Tua kherubte a pai ciangin kihei kul loin a utna lam peuhpeuh ah pai thei uh hi. A pai nading lam a nga a pei’ paipaina-ah adangte in zui-in kihei tuan lo uh hi.
+**TDB77:** Tua kherubte a pai ciangin kihei kul loin a utna lam peuhpeuh ah pai thei-te hi. A pai nading lam a nga a pei’ paipaina-ah adangte in zui-in kihei tuan lo-te hi.
 
-**ZVS:** Tua kherub-te a pai ciangin kihei kulloin a utna lam peuhpeuh uhah pai thei uh hi. A paina ding lam a nga a pei paina-ah adangte in zui-in kihei tuanlo uh hi.
+**ZVS:** Tua kherub-te a pai ciangin kihei kulloin a utna lam peuhpeuh uhah pai thei-te hi. A paina ding lam a nga a pei paina-ah adangte in zui-in kihei tuanlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -137,36 +137,36 @@
 ### v14
 **EN:** And every one had four faces: the first face was the face of a cherub, and the second face was the face of a man, and the third the face of a lion, and the fourth the face of an eagle.
 
-**TDB77:** Tua kherubte in maitang li ciat nei uh hi. A maitang khatna bawngtal maitang, a nihna mihing maitang, a thumna humpinelkai maitang, a lina muvanlai maitang tawh kibang hi.
+**TDB77:** Tua kherubte in maitang li ciat nei-te hi. A maitang khatna bawngtal maitang, a nihna mihing maitang, a thumna humpinelkai maitang, a lina muvanlai maitang tawh kibang hi.
 
-**ZVS:** Tua kherub-te in maitang li ciat nei uh hi. A maitang khatna bawngtal maitang, a nihna mihing maitang, a thumna humpinelkai maitang, a lina muvanlai maitang tawh kibang hi.
+**ZVS:** Tua kherub-te in maitang li ciat nei-te hi. A maitang khatna bawngtal maitang, a nihna mihing maitang, a thumna humpinelkai maitang, a lina muvanlai maitang tawh kibang hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And the cherubims were lifted up. This is the living creature that I saw by the river of Chebar.
 
-**TDB77:** Hih Kherubte pen Khebar Gun gei-a ka muh ganhingte mah ahi hi. Tua ciangin hih kherubte leeng to uh a,
+**TDB77:** Hih Kherubte pen Khebar Gun gei-a ka muh ganhingte mah ahi hi. Tua ciangin hih kherubte leeng to-te a,
 
-**ZVS:** Hih kherub-te pen Khebar Gun gei-a ka muh ganhingte mah ahi hi. Tua ciangin hih kherub-te leengto uh a,
+**ZVS:** Hih kherub-te pen Khebar Gun gei-a ka muh ganhingte mah ahi hi. Tua ciangin hih kherub-te leengto-te a,
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v16
 **EN:** And when the cherubims went, the wheels went by them: and when the cherubims lifted up their wings to mount up from the earth, the same wheels also turned not from beside them.
 
-**TDB77:** amau a kin uh ciangin a leengpeite in zong zui uh hi. A leeng dingin a kha a zal uh ciangin zong leengpeite in zui lai uh hi.
+**TDB77:** amau a kin-te ciangin a leengpeite in zong zui-te hi. A leeng dingin a kha a zal-te ciangin zong leengpeite in zui lai-te hi.
 
-**ZVS:** amau a kin uh ciangin a leengpeite in zong a zui uh hi. A leeng dingin a kha a zal uh ciangin zong leengpeite in zui lai uh hi.
+**ZVS:** amau a kin-te ciangin a leengpeite in zong a zui-te hi. A leeng dingin a kha a zal-te ciangin zong leengpeite in zui lai-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** When they stood, these stood; and when they were lifted up, these lifted up themselves also: for the spirit of the living creature was in them.
 
-**TDB77:** Kherubte a khawl ciangin leengpeite khawl a, kherubte a leen’ ciangin leengpeite in zong zui uh hi. Bang hang hiam cih leh tua leengpeite pen kherubte’ khut nuai-a om ahi uh hi.
+**TDB77:** Kherubte a khawl ciangin leengpeite khawl a, kherubte a leen’ ciangin leengpeite in zong zui-te hi. Bang hang hiam cih leh tua leengpeite pen kherubte’ khut nuai-a om ahi-te hi.
 
-**ZVS:** Kherub-te a khawl ciangin leengpeite khawl a, kherub-te a leen' ciangin leengpeite in zong a zui uh hi. Bang hang hiam cih leh tua leengpeite pen kherub-te' khutnuai-ah a om ahi uh hi.
+**ZVS:** Kherub-te a khawl ciangin leengpeite khawl a, kherub-te a leen' ciangin leengpeite in zong a zui-te hi. Bang hang hiam cih leh tua leengpeite pen kherub-te' khutnuai-ah a om ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -182,9 +182,9 @@
 ### v19
 **EN:** And the cherubims lifted up their wings, and mounted up from the earth in my sight: when they went out, the wheels also were beside them, and every one stood at the door of the east gate of the
 
-**TDB77:** Tua banga ka et lai takin kherubte in zong a kha uh zalin lei lak panin leeng to uh a, leengpeite in zong zui uh hi. Biakinn nisuahna lam kongpi-ah khawl uh a, amaute tung sanah Israel Pasian’ minthan’na zong hong khawl hi.
+**TDB77:** Tua banga ka et lai takin kherubte in zong a kha-te zalin lei lak panin leeng to-te a, leengpeite in zong zui-te hi. Biakinn nisuahna lam kongpi-ah khawl-te a, amaute tung sanah Israel Pasian’ minthan’na zong hong khawl hi.
 
-**ZVS:** Tua bangin ka et laitakin kherub-te in zong a kha uh zalin leilak panin leengto uh a, leengpeite in zong a zui uh hi. Biakinn nisuahna lam kongpi-ah khawl uh a, amaute' tung sanah Israel Pasian' minthan'na vang zong a khawl hi.
+**ZVS:** Tua bangin ka et laitakin kherub-te in zong a kha-te zalin leilak panin leengto-te a, leengpeite in zong a zui-te hi. Biakinn nisuahna lam kongpi-ah khawl-te a, amaute' tung sanah Israel Pasian' minthan'na vang zong a khawl hi.
 
 **Grammar:** plural: uh marker
 
@@ -200,16 +200,16 @@
 ### v21
 **EN:** Every one had four faces apiece, and every one four wings; and the likeness of the hands of a man was under their wings.
 
-**TDB77:** Amaute in maitang li, kha li, leh a kha nuai ciat uhah mihing khut tawh a kibang khut nei ciat uh hi.
+**TDB77:** Amaute in maitang li, kha li, leh a kha nuai ciat uhah mihing khut tawh a kibang khut nei ciat-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And the likeness of their faces was the same faces which I saw by the river of Chebar, their appearances and themselves: they went every one straight forward.
 
-**TDB77:** Amaute’ maitang pen Khebar Gun gei-a ka muhsa maitangte mah tawh kibang teekteek a, a pai uh ciangin a mailam ciat mah-ah tang takin pai thei uh hi.
+**TDB77:** Amaute’ maitang pen Khebar Gun gei-a ka muhsa maitangte mah tawh kibang teekteek a, a pai-te ciangin a mailam ciat mah-ah tang takin pai thei-te hi.
 
-**ZVS:** Amaute' maitang pen Khebar Gun gei-a ka muhsa maitangte mah tawh kibang teekteek a, a pai uh ciangin a mailam ciat mahah tang takin a pai thei uh hi.
+**ZVS:** Amaute' maitang pen Khebar Gun gei-a ka muhsa maitangte mah tawh kibang teekteek a, a pai-te ciangin a mailam ciat mahah tang takin a pai thei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

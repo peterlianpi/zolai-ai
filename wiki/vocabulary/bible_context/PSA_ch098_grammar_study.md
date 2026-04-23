@@ -40,9 +40,9 @@
 ### v3
 **EN:** He hath remembered his mercy and his truth toward the house of Israel: all the ends of the earth have seen the salvation of our God.
 
-**TDB77:** Amah thutakin, it tawntungna nei ahih manin Israelte' tunga a thuciamna tung sak hi. Leitung mi khempeuh in i Pasian’ gupkhiatna mu khin uh hi.
+**TDB77:** Amah thutakin, it tawntungna nei ahih manin Israelte' tunga a thuciamna tung sak hi. Leitung mi khempeuh in i Pasian’ gupkhiatna mu khin-te hi.
 
-**ZVS:** Amah thutakin, it tawntungna nei ahih manin Israel-te tungah a thuciamna a tungsak hi. Leitung mi khempeuh in eite' Pasian' gualzawhna mu khinta uh hi.
+**ZVS:** Amah thutakin, it tawntungna nei ahih manin Israel-te tungah a thuciamna a tungsak hi. Leitung mi khempeuh in eite' Pasian' gualzawhna mu khinta-te hi.
 
 **Grammar:** completed: already done | causal: because | plural: uh marker
 
@@ -77,7 +77,7 @@
 ### v9
 **EN:** Before the
 
-**TDB77:** Gunte aw, na khut uh beng un. Mualte aw, { Topa' } mai-ah lungdamin la sa un. Bang hang hiam cih leh leitung a uk dingin amah hong pai ta a, thumanna tawh leitung mite' thu ahi ding bangin hong khen ding hi.
+**TDB77:** Gunte aw, na khut-te beng un. Mualte aw, { Topa' } mai-ah lungdamin la sa un. Bang hang hiam cih leh leitung a uk dingin amah hong pai ta a, thumanna tawh leitung mite' thu ahi ding bangin hong khen ding hi.
 
 **Grammar:** purpose: in order to | future: will
 

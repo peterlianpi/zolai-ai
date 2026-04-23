@@ -48,8 +48,8 @@ Directional particles often imply an completed or resultative aspect:
 In Zolai (Tedim), the plural suffix `uh` is omitted when the **first-person plural inclusive** prefix `i` is used. This is a strict ZVS standard.
 
 - ✅ **Correct:** `I pai hi.` (We [all] go.)
-- ❌ **Incorrect:** `I pai uh hi.`
-- **Exception:** For the plural exclusive `ko`, the `uh` is required: `Ko pai uh hi.` (We [but not you] go.)
+- ❌ **Incorrect:** `I pai-te hi.`
+- **Exception:** For the plural exclusive `ko`, the `uh` is required: `Ko pai-te hi.` (We [but not you] go.)
 
 ---
 

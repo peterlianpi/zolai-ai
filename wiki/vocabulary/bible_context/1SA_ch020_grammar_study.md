@@ -119,9 +119,9 @@
 ### v11
 **EN:** And Jonathan said unto David, Come, and let us go out into the field. And they went out both of them into the field.
 
-**TDB77:** Jonathan in David kiangah, “Hong pai in, lo sungah pai ni,” a ci hi. Tua ahih ciangin amaute gel lo sungah pai uh hi.
+**TDB77:** Jonathan in David kiangah, “Hong pai in, lo sungah pai ni,” a ci hi. Tua ahih ciangin amaute gel lo sungah pai-te hi.
 
-**ZVS:** Jonathan in David kiangah, “Hong pai in, losungah pai ni,” a ci hi. Tua ahih ciangin amaute gel losungah a pai uh hi.
+**ZVS:** Jonathan in David kiangah, “Hong pai in, losungah pai ni,” a ci hi. Tua ahih ciangin amaute gel losungah a pai-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | hortative: let us | reciprocal: ki- prefix | plural: uh marker
 
@@ -279,9 +279,9 @@
 ### v29
 **EN:** And he said, Let me go, I pray thee; for our family hath a sacrifice in the city; and my brother, he hath commanded me to be there: and now, if I have found favour in thine eyes, let me get away, I pray thee, and see my brethren. Therefore he cometh not unto the king's table.
 
-**TDB77:** amah in, ‘Kei hong ciahsak in; ka innkuante un khuapi sungah biakpiakna bawl uh a, ka sanggampa in tua lai-ah ka om ding thu hong pia hi. Tua ahih ciangin tu-in nong hehpihna-in hong paisakin ka sanggamte hong musak in,’ hong ci hi. Hih thu hangin kumpipa sabuai-ah amah hong pai lo hi,” a ci hi.
+**TDB77:** amah in, ‘Kei hong ciahsak in; ka innkuante un khuapi sungah biakpiakna bawl-te a, ka sanggampa in tua lai-ah ka om ding thu hong pia hi. Tua ahih ciangin tu-in nong hehpihna-in hong paisakin ka sanggamte hong musak in,’ hong ci hi. Hih thu hangin kumpipa sabuai-ah amah hong pai lo hi,” a ci hi.
 
-**ZVS:** Amah in, ‘Kei hong ciahsak in; ka innkuante un khua sungah biakpiakna bawl uh a, ka sanggampa in tua lai-ah ka om ding thu hong pia hi. Tua ahih ciangin tu-in nong hehpihna-in hong paisakin ka sanggamte hong musak in,’ hong ci hi. Hih thu hangin kumpipa' sabuai-ah amah hong pailo hi,” a ci hi.
+**ZVS:** Amah in, ‘Kei hong ciahsak in; ka innkuante un khua sungah biakpiakna bawl-te a, ka sanggampa in tua lai-ah ka om ding thu hong pia hi. Tua ahih ciangin tu-in nong hehpihna-in hong paisakin ka sanggamte hong musak in,’ hong ci hi. Hih thu hangin kumpipa' sabuai-ah amah hong pailo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -367,9 +367,9 @@
 ### v39
 **EN:** But the lad knew not any thing: only Jonathan and David knew the matter.
 
-**TDB77:** Ahih hangin naupang in bangmah thei lo hi; Jonathan leh David bek in a thu thei uh hi.
+**TDB77:** Ahih hangin naupang in bangmah thei lo hi; Jonathan leh David bek in a thu thei-te hi.
 
-**ZVS:** Ahih hangin naupang in bangmah theilo a, Jonathan leh David bek in a thu thei uh hi.
+**ZVS:** Ahih hangin naupang in bangmah theilo a, Jonathan leh David bek in a thu thei-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -385,9 +385,9 @@
 ### v41
 **EN:** And as soon as the lad was gone, David arose out of a place toward the south, and fell on his face to the ground, and bowed himself three times: and they kissed one another, and wept one with another, until David exceeded.
 
-**TDB77:** Naupang a paikhiat khit phetin suangcian pang panin David ding-in lei-ah maipuk a, thumvei kun hi; Jonathan sangin David nakpi takin dahzaw a, amau khat leh khat kinamin, khitui luangin khat leh khat kikah uh hi.
+**TDB77:** Naupang a paikhiat khit phetin suangcian pang panin David ding-in lei-ah maipuk a, thumvei kun hi; Jonathan sangin David nakpi takin dahzaw a, amau khat leh khat kinamin, khitui luangin khat leh khat kikah-te hi.
 
-**ZVS:** Naupang a paikhiat khit phetin suangcian pang panin David dingin lei-ah maipuk a, thumvei kun hi. Jonathan sangin David nakpi takin dahzaw a, amau khatlekhat kinamin, khitui luangin khatlekhat kikah uh hi.
+**ZVS:** Naupang a paikhiat khit phetin suangcian pang panin David dingin lei-ah maipuk a, thumvei kun hi. Jonathan sangin David nakpi takin dahzaw a, amau khatlekhat kinamin, khitui luangin khatlekhat kikah-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

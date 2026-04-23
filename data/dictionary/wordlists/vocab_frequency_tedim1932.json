@@ -1,0 +1,4009 @@
+{
+  "metadata": {
+    "source_file": "raw/zolai_all_sources.jsonl",
+    "total_tokens": 588609,
+    "unique_words": 16625
+  },
+  "top_1000_vocabulary": [
+    {
+      "word": "a",
+      "frequency": 54733
+    },
+    {
+      "word": "hi",
+      "frequency": 33608
+    },
+    {
+      "word": "in",
+      "frequency": 26637
+    },
+    {
+      "word": "uh",
+      "frequency": 15014
+    },
+    {
+      "word": "ding",
+      "frequency": 12800
+    },
+    {
+      "word": "na",
+      "frequency": 11471
+    },
+    {
+      "word": "hong",
+      "frequency": 10475
+    },
+    {
+      "word": "ka",
+      "frequency": 9464
+    },
+    {
+      "word": "tua",
+      "frequency": 8620
+    },
+    {
+      "word": "le",
+      "frequency": 7768
+    },
+    {
+      "word": "ciangin",
+      "frequency": 6828
+    },
+    {
+      "word": "ahi",
+      "frequency": 6015
+    },
+    {
+      "word": "tawh",
+      "frequency": 5366
+    },
+    {
+      "word": "ci",
+      "frequency": 5006
+    },
+    {
+      "word": "kei",
+      "frequency": 4740
+    },
+    {
+      "word": "lo",
+      "frequency": 4457
+    },
+    {
+      "word": "amah",
+      "frequency": 4438
+    },
+    {
+      "word": "mite",
+      "frequency": 4150
+    },
+    {
+      "word": "thu",
+      "frequency": 4094
+    },
+    {
+      "word": "ah",
+      "frequency": 4046
+    },
+    {
+      "word": "tungah",
+      "frequency": 3927
+    },
+    {
+      "word": "ahih",
+      "frequency": 3883
+    },
+    {
+      "word": "topa",
+      "frequency": 3831
+    },
+    {
+      "word": "amaute",
+      "frequency": 3666
+    },
+    {
+      "word": "om",
+      "frequency": 3625
+    },
+    {
+      "word": "khempeuh",
+      "frequency": 3511
+    },
+    {
+      "word": "hih",
+      "frequency": 3446
+    },
+    {
+      "word": "mi",
+      "frequency": 3415
+    },
+    {
+      "word": "pen",
+      "frequency": 3348
+    },
+    {
+      "word": "hiam",
+      "frequency": 3309
+    },
+    {
+      "word": "dingin",
+      "frequency": 3191
+    },
+    {
+      "word": "khat",
+      "frequency": 3120
+    },
+    {
+      "word": "ama",
+      "frequency": 3049
+    },
+    {
+      "word": "panin",
+      "frequency": 2954
+    },
+    {
+      "word": "pasian",
+      "frequency": 2859
+    },
+    {
+      "word": "bangin",
+      "frequency": 2755
+    },
+    {
+      "word": "bang",
+      "frequency": 2635
+    },
+    {
+      "word": "kiangah",
+      "frequency": 2588
+    },
+    {
+      "word": "zong",
+      "frequency": 2423
+    },
+    {
+      "word": "un",
+      "frequency": 2422
+    },
+    {
+      "word": "hangin",
+      "frequency": 2358
+    },
+    {
+      "word": "manin",
+      "frequency": 2205
+    },
+    {
+      "word": "sungah",
+      "frequency": 2191
+    },
+    {
+      "word": "pai",
+      "frequency": 2104
+    },
+    {
+      "word": "leh",
+      "frequency": 2093
+    },
+    {
+      "word": "note",
+      "frequency": 2048
+    },
+    {
+      "word": "gam",
+      "frequency": 1882
+    },
+    {
+      "word": "thei",
+      "frequency": 1854
+    },
+    {
+      "word": "aw",
+      "frequency": 1772
+    },
+    {
+      "word": "israel",
+      "frequency": 1738
+    },
+    {
+      "word": "cih",
+      "frequency": 1717
+    },
+    {
+      "word": "pa",
+      "frequency": 1716
+    },
+    {
+      "word": "sung",
+      "frequency": 1617
+    },
+    {
+      "word": "gen",
+      "frequency": 1581
+    },
+    {
+      "word": "pia",
+      "frequency": 1571
+    },
+    {
+      "word": "tapa",
+      "frequency": 1531
+    },
+    {
+      "word": "lai",
+      "frequency": 1491
+    },
+    {
+      "word": "ni",
+      "frequency": 1459
+    },
+    {
+      "word": "zongin",
+      "frequency": 1458
+    },
+    {
+      "word": "jesuh",
+      "frequency": 1411
+    },
+    {
+      "word": "topa'",
+      "frequency": 1409
+    },
+    {
+      "word": "nei",
+      "frequency": 1383
+    },
+    {
+      "word": "hang",
+      "frequency": 1339
+    },
+    {
+      "word": "nang",
+      "frequency": 1320
+    },
+    {
+      "word": "kong",
+      "frequency": 1238
+    },
+    {
+      "word": "pasian'",
+      "frequency": 1177
+    },
+    {
+      "word": "bawl",
+      "frequency": 1104
+    },
+    {
+      "word": "i",
+      "frequency": 1088
+    },
+    {
+      "word": "nadingin",
+      "frequency": 1062
+    },
+    {
+      "word": "tu",
+      "frequency": 1060
+    },
+    {
+      "word": "mahmah",
+      "frequency": 1041
+    },
+    {
+      "word": "mah",
+      "frequency": 1035
+    },
+    {
+      "word": "tung",
+      "frequency": 1033
+    },
+    {
+      "word": "khua",
+      "frequency": 1011
+    },
+    {
+      "word": "la",
+      "frequency": 993
+    },
+    {
+      "word": "amau'",
+      "frequency": 983
+    },
+    {
+      "word": "biakna",
+      "frequency": 955
+    },
+    {
+      "word": "mai",
+      "frequency": 914
+    },
+    {
+      "word": "hun",
+      "frequency": 906
+    },
+    {
+      "word": "loin",
+      "frequency": 879
+    },
+    {
+      "word": "kumpipa",
+      "frequency": 878
+    },
+    {
+      "word": "theih",
+      "frequency": 875
+    },
+    {
+      "word": "ta",
+      "frequency": 870
+    },
+    {
+      "word": "kumpi",
+      "frequency": 852
+    },
+    {
+      "word": "inn",
+      "frequency": 804
+    },
+    {
+      "word": "'",
+      "frequency": 796
+    },
+    {
+      "word": "khuapi",
+      "frequency": 792
+    },
+    {
+      "word": "inla",
+      "frequency": 757
+    },
+    {
+      "word": "mu",
+      "frequency": 755
+    },
+    {
+      "word": "kha",
+      "frequency": 753
+    },
+    {
+      "word": "nading",
+      "frequency": 728
+    },
+    {
+      "word": "kum",
+      "frequency": 727
+    },
+    {
+      "word": "khit",
+      "frequency": 725
+    },
+    {
+      "word": "te",
+      "frequency": 725
+    },
+    {
+      "word": "keima",
+      "frequency": 712
+    },
+    {
+      "word": "mite'",
+      "frequency": 701
+    },
+    {
+      "word": "leitung",
+      "frequency": 696
+    },
+    {
+      "word": "min",
+      "frequency": 693
+    },
+    {
+      "word": "nangma",
+      "frequency": 690
+    },
+    {
+      "word": "nawn",
+      "frequency": 690
+    },
+    {
+      "word": "an",
+      "frequency": 681
+    },
+    {
+      "word": "siangtho",
+      "frequency": 677
+    },
+    {
+      "word": "lungsim",
+      "frequency": 666
+    },
+    {
+      "word": "mun",
+      "frequency": 634
+    },
+    {
+      "word": "si",
+      "frequency": 628
+    },
+    {
+      "word": "khin",
+      "frequency": 604
+    },
+    {
+      "word": "jerusalem",
+      "frequency": 601
+    },
+    {
+      "word": "lam",
+      "frequency": 598
+    },
+    {
+      "word": "teng",
+      "frequency": 598
+    },
+    {
+      "word": "khut",
+      "frequency": 598
+    },
+    {
+      "word": "loh",
+      "frequency": 591
+    },
+    {
+      "word": "keimah",
+      "frequency": 583
+    },
+    {
+      "word": "va",
+      "frequency": 581
+    },
+    {
+      "word": "unla",
+      "frequency": 577
+    },
+    {
+      "word": "ngah",
+      "frequency": 574
+    },
+    {
+      "word": "biakinn",
+      "frequency": 574
+    },
+    {
+      "word": "sawm",
+      "frequency": 564
+    },
+    {
+      "word": "moses",
+      "frequency": 559
+    },
+    {
+      "word": "tampi",
+      "frequency": 557
+    },
+    {
+      "word": "bek",
+      "frequency": 548
+    },
+    {
+      "word": "david",
+      "frequency": 546
+    },
+    {
+      "word": "egypt",
+      "frequency": 545
+    },
+    {
+      "word": "za",
+      "frequency": 540
+    },
+    {
+      "word": "judah",
+      "frequency": 537
+    },
+    {
+      "word": "nih",
+      "frequency": 535
+    },
+    {
+      "word": "lakah",
+      "frequency": 535
+    },
+    {
+      "word": "uk",
+      "frequency": 533
+    },
+    {
+      "word": "ngei",
+      "frequency": 515
+    },
+    {
+      "word": "tui",
+      "frequency": 514
+    },
+    {
+      "word": "numei",
+      "frequency": 508
+    },
+    {
+      "word": "dong",
+      "frequency": 502
+    },
+    {
+      "word": "nong",
+      "frequency": 500
+    },
+    {
+      "word": "hen",
+      "frequency": 495
+    },
+    {
+      "word": "piak",
+      "frequency": 495
+    },
+    {
+      "word": "sa",
+      "frequency": 491
+    },
+    {
+      "word": "tawntung",
+      "frequency": 488
+    },
+    {
+      "word": "note'",
+      "frequency": 487
+    },
+    {
+      "word": "gamta",
+      "frequency": 486
+    },
+    {
+      "word": "kuamah",
+      "frequency": 484
+    },
+    {
+      "word": "nangmah",
+      "frequency": 480
+    },
+    {
+      "word": "mawhna",
+      "frequency": 474
+    },
+    {
+      "word": "mipa",
+      "frequency": 473
+    },
+    {
+      "word": "laitakin",
+      "frequency": 467
+    },
+    {
+      "word": "kibang",
+      "frequency": 465
+    },
+    {
+      "word": "hoih",
+      "frequency": 462
+    },
+    {
+      "word": "zui",
+      "frequency": 461
+    },
+    {
+      "word": "ne",
+      "frequency": 458
+    },
+    {
+      "word": "suak",
+      "frequency": 454
+    },
+    {
+      "word": "en",
+      "frequency": 447
+    },
+    {
+      "word": "thum",
+      "frequency": 441
+    },
+    {
+      "word": "tapate",
+      "frequency": 436
+    },
+    {
+      "word": "minam",
+      "frequency": 434
+    },
+    {
+      "word": "khrih",
+      "frequency": 433
+    },
+    {
+      "word": "man",
+      "frequency": 429
+    },
+    {
+      "word": "amaute'",
+      "frequency": 417
+    },
+    {
+      "word": "nadingun",
+      "frequency": 413
+    },
+    {
+      "word": "eite",
+      "frequency": 412
+    },
+    {
+      "word": "sunga",
+      "frequency": 410
+    },
+    {
+      "word": "mihing",
+      "frequency": 406
+    },
+    {
+      "word": "sem",
+      "frequency": 405
+    },
+    {
+      "word": "koih",
+      "frequency": 403
+    },
+    {
+      "word": "pan",
+      "frequency": 401
+    },
+    {
+      "word": "kiang",
+      "frequency": 399
+    },
+    {
+      "word": "vantung",
+      "frequency": 398
+    },
+    {
+      "word": "paipih",
+      "frequency": 397
+    },
+    {
+      "word": "kote",
+      "frequency": 397
+    },
+    {
+      "word": "thuman",
+      "frequency": 395
+    },
+    {
+      "word": "tuate",
+      "frequency": 381
+    },
+    {
+      "word": "kham",
+      "frequency": 380
+    },
+    {
+      "word": "lak",
+      "frequency": 379
+    },
+    {
+      "word": "kua",
+      "frequency": 376
+    },
+    {
+      "word": "nu",
+      "frequency": 375
+    },
+    {
+      "word": "sangin",
+      "frequency": 370
+    },
+    {
+      "word": "tun",
+      "frequency": 370
+    },
+    {
+      "word": "a'",
+      "frequency": 369
+    },
+    {
+      "word": "puan",
+      "frequency": 369
+    },
+    {
+      "word": "thute",
+      "frequency": 360
+    },
+    {
+      "word": "bangmah",
+      "frequency": 357
+    },
+    {
+      "word": "thupha",
+      "frequency": 356
+    },
+    {
+      "word": "zi",
+      "frequency": 355
+    },
+    {
+      "word": "ngai",
+      "frequency": 354
+    },
+    {
+      "word": "thuciamna",
+      "frequency": 353
+    },
+    {
+      "word": "hilh",
+      "frequency": 352
+    },
+    {
+      "word": "thuak",
+      "frequency": 351
+    },
+    {
+      "word": "nai",
+      "frequency": 350
+    },
+    {
+      "word": "pha",
+      "frequency": 347
+    },
+    {
+      "word": "sawl",
+      "frequency": 347
+    },
+    {
+      "word": "muh",
+      "frequency": 344
+    },
+    {
+      "word": "omna",
+      "frequency": 335
+    },
+    {
+      "word": "uhah",
+      "frequency": 335
+    },
+    {
+      "word": "mual",
+      "frequency": 332
+    },
+    {
+      "word": "nuam",
+      "frequency": 332
+    },
+    {
+      "word": "um",
+      "frequency": 331
+    },
+    {
+      "word": "paikhia",
+      "frequency": 325
+    },
+    {
+      "word": "ahihleh",
+      "frequency": 324
+    },
+    {
+      "word": "amau",
+      "frequency": 317
+    },
+    {
+      "word": "zo",
+      "frequency": 317
+    },
+    {
+      "word": "that",
+      "frequency": 317
+    },
+    {
+      "word": "lamah",
+      "frequency": 311
+    },
+    {
+      "word": "nga",
+      "frequency": 310
+    },
+    {
+      "word": "gamah",
+      "frequency": 309
+    },
+    {
+      "word": "nuntakna",
+      "frequency": 308
+    },
+    {
+      "word": "siampi",
+      "frequency": 308
+    },
+    {
+      "word": "tau",
+      "frequency": 305
+    },
+    {
+      "word": "ciang",
+      "frequency": 303
+    },
+    {
+      "word": "ki",
+      "frequency": 303
+    },
+    {
+      "word": "tuipi",
+      "frequency": 302
+    },
+    {
+      "word": "pasal",
+      "frequency": 302
+    },
+    {
+      "word": "ngaihsun",
+      "frequency": 302
+    },
+    {
+      "word": "leitang",
+      "frequency": 299
+    },
+    {
+      "word": "neih",
+      "frequency": 291
+    },
+    {
+      "word": "dawng",
+      "frequency": 290
+    },
+    {
+      "word": "sagih",
+      "frequency": 289
+    },
+    {
+      "word": "lampi",
+      "frequency": 283
+    },
+    {
+      "word": "peuhpeuh",
+      "frequency": 282
+    },
+    {
+      "word": "gimna",
+      "frequency": 279
+    },
+    {
+      "word": "itna",
+      "frequency": 278
+    },
+    {
+      "word": "thugen",
+      "frequency": 277
+    },
+    {
+      "word": "pawlkhat",
+      "frequency": 273
+    },
+    {
+      "word": "kipan",
+      "frequency": 272
+    },
+    {
+      "word": "munah",
+      "frequency": 270
+    },
+    {
+      "word": "thukham",
+      "frequency": 270
+    },
+    {
+      "word": "honkhia",
+      "frequency": 267
+    },
+    {
+      "word": "lungdamna",
+      "frequency": 266
+    },
+    {
+      "word": "siatna",
+      "frequency": 266
+    },
+    {
+      "word": "kici",
+      "frequency": 265
+    },
+    {
+      "word": "gamtat",
+      "frequency": 265
+    },
+    {
+      "word": "masa",
+      "frequency": 264
+    },
+    {
+      "word": "mei",
+      "frequency": 264
+    },
+    {
+      "word": "kip",
+      "frequency": 264
+    },
+    {
+      "word": "pumpi",
+      "frequency": 264
+    },
+    {
+      "word": "pa'",
+      "frequency": 263
+    },
+    {
+      "word": "dang",
+      "frequency": 260
+    },
+    {
+      "word": "khempeuhah",
+      "frequency": 259
+    },
+    {
+      "word": "ciat",
+      "frequency": 259
+    },
+    {
+      "word": "gim",
+      "frequency": 253
+    },
+    {
+      "word": "zak",
+      "frequency": 253
+    },
+    {
+      "word": "phawk",
+      "frequency": 252
+    },
+    {
+      "word": "lian",
+      "frequency": 251
+    },
+    {
+      "word": "peuhmah",
+      "frequency": 251
+    },
+    {
+      "word": "galte",
+      "frequency": 249
+    },
+    {
+      "word": "nasem",
+      "frequency": 247
+    },
+    {
+      "word": "gei",
+      "frequency": 246
+    },
+    {
+      "word": "tate",
+      "frequency": 246
+    },
+    {
+      "word": "ngeina",
+      "frequency": 246
+    },
+    {
+      "word": "takin",
+      "frequency": 245
+    },
+    {
+      "word": "nasemte",
+      "frequency": 243
+    },
+    {
+      "word": "nangawn",
+      "frequency": 243
+    },
+    {
+      "word": "gamtatna",
+      "frequency": 241
+    },
+    {
+      "word": "vanglian",
+      "frequency": 241
+    },
+    {
+      "word": "suante",
+      "frequency": 241
+    },
+    {
+      "word": "mang",
+      "frequency": 240
+    },
+    {
+      "word": "lei",
+      "frequency": 239
+    },
+    {
+      "word": "hihte",
+      "frequency": 238
+    },
+    {
+      "word": "phat",
+      "frequency": 238
+    },
+    {
+      "word": "lungdam",
+      "frequency": 238
+    },
+    {
+      "word": "piang",
+      "frequency": 237
+    },
+    {
+      "word": "sam",
+      "frequency": 237
+    },
+    {
+      "word": "kibawl",
+      "frequency": 237
+    },
+    {
+      "word": "nakpitakin",
+      "frequency": 236
+    },
+    {
+      "word": "sanggamte",
+      "frequency": 236
+    },
+    {
+      "word": "ngen",
+      "frequency": 235
+    },
+    {
+      "word": "tai",
+      "frequency": 235
+    },
+    {
+      "word": "tul",
+      "frequency": 234
+    },
+    {
+      "word": "sihna",
+      "frequency": 233
+    },
+    {
+      "word": "kikhopna",
+      "frequency": 232
+    },
+    {
+      "word": "sim",
+      "frequency": 231
+    },
+    {
+      "word": "levi",
+      "frequency": 230
+    },
+    {
+      "word": "ganhing",
+      "frequency": 229
+    },
+    {
+      "word": "sia",
+      "frequency": 229
+    },
+    {
+      "word": "deih",
+      "frequency": 229
+    },
+    {
+      "word": "babylon",
+      "frequency": 229
+    },
+    {
+      "word": "nasep",
+      "frequency": 228
+    },
+    {
+      "word": "namsau",
+      "frequency": 227
+    },
+    {
+      "word": "kam",
+      "frequency": 227
+    },
+    {
+      "word": "nate",
+      "frequency": 225
+    },
+    {
+      "word": "suang",
+      "frequency": 224
+    },
+    {
+      "word": "nungta",
+      "frequency": 223
+    },
+    {
+      "word": "jew",
+      "frequency": 223
+    },
+    {
+      "word": "sawmnih",
+      "frequency": 222
+    },
+    {
+      "word": "te'",
+      "frequency": 222
+    },
+    {
+      "word": "hitaleh",
+      "frequency": 222
+    },
+    {
+      "word": "beh",
+      "frequency": 221
+    },
+    {
+      "word": "nungzuite",
+      "frequency": 221
+    },
+    {
+      "word": "upna",
+      "frequency": 221
+    },
+    {
+      "word": "saul",
+      "frequency": 221
+    },
+    {
+      "word": "huh",
+      "frequency": 220
+    },
+    {
+      "word": "kumpipa'",
+      "frequency": 218
+    },
+    {
+      "word": "vangliatna",
+      "frequency": 218
+    },
+    {
+      "word": "it",
+      "frequency": 217
+    },
+    {
+      "word": "jakob",
+      "frequency": 217
+    },
+    {
+      "word": "pi",
+      "frequency": 216
+    },
+    {
+      "word": "minamte",
+      "frequency": 216
+    },
+    {
+      "word": "dawn",
+      "frequency": 214
+    },
+    {
+      "word": "khialhna",
+      "frequency": 212
+    },
+    {
+      "word": "tanu",
+      "frequency": 211
+    },
+    {
+      "word": "pilna",
+      "frequency": 210
+    },
+    {
+      "word": "kipia",
+      "frequency": 207
+    },
+    {
+      "word": "khang",
+      "frequency": 206
+    },
+    {
+      "word": "tuni",
+      "frequency": 206
+    },
+    {
+      "word": "susia",
+      "frequency": 203
+    },
+    {
+      "word": "lohna",
+      "frequency": 203
+    },
+    {
+      "word": "taktak",
+      "frequency": 202
+    },
+    {
+      "word": "nuntak",
+      "frequency": 202
+    },
+    {
+      "word": "uhleh",
+      "frequency": 202
+    },
+    {
+      "word": "pate",
+      "frequency": 201
+    },
+    {
+      "word": "lim",
+      "frequency": 200
+    },
+    {
+      "word": "tak",
+      "frequency": 200
+    },
+    {
+      "word": "dongin",
+      "frequency": 200
+    },
+    {
+      "word": "pau",
+      "frequency": 199
+    },
+    {
+      "word": "sih",
+      "frequency": 199
+    },
+    {
+      "word": "hehna",
+      "frequency": 199
+    },
+    {
+      "word": "khuapite",
+      "frequency": 198
+    },
+    {
+      "word": "minthanna",
+      "frequency": 198
+    },
+    {
+      "word": "napi",
+      "frequency": 196
+    },
+    {
+      "word": "sathau",
+      "frequency": 195
+    },
+    {
+      "word": "dangte",
+      "frequency": 194
+    },
+    {
+      "word": "lau",
+      "frequency": 194
+    },
+    {
+      "word": "pawi",
+      "frequency": 193
+    },
+    {
+      "word": "ngun",
+      "frequency": 193
+    },
+    {
+      "word": "nasempa",
+      "frequency": 193
+    },
+    {
+      "word": "kizui",
+      "frequency": 192
+    },
+    {
+      "word": "sum",
+      "frequency": 191
+    },
+    {
+      "word": "hihna",
+      "frequency": 190
+    },
+    {
+      "word": "filistia",
+      "frequency": 189
+    },
+    {
+      "word": "ma",
+      "frequency": 188
+    },
+    {
+      "word": "nihte",
+      "frequency": 188
+    },
+    {
+      "word": "no",
+      "frequency": 188
+    },
+    {
+      "word": "mihonte",
+      "frequency": 188
+    },
+    {
+      "word": "van",
+      "frequency": 187
+    },
+    {
+      "word": "khen",
+      "frequency": 186
+    },
+    {
+      "word": "li",
+      "frequency": 186
+    },
+    {
+      "word": "kik",
+      "frequency": 186
+    },
+    {
+      "word": "tahen",
+      "frequency": 186
+    },
+    {
+      "word": "uliante",
+      "frequency": 186
+    },
+    {
+      "word": "giahphual",
+      "frequency": 186
+    },
+    {
+      "word": "leitungah",
+      "frequency": 185
+    },
+    {
+      "word": "ukna",
+      "frequency": 184
+    },
+    {
+      "word": "heh",
+      "frequency": 184
+    },
+    {
+      "word": "gal",
+      "frequency": 184
+    },
+    {
+      "word": "ciahkik",
+      "frequency": 182
+    },
+    {
+      "word": "deihna",
+      "frequency": 181
+    },
+    {
+      "word": "sat",
+      "frequency": 179
+    },
+    {
+      "word": "khawm",
+      "frequency": 178
+    },
+    {
+      "word": "nusia",
+      "frequency": 177
+    },
+    {
+      "word": "limtakin",
+      "frequency": 177
+    },
+    {
+      "word": "bia",
+      "frequency": 176
+    },
+    {
+      "word": "kisai",
+      "frequency": 176
+    },
+    {
+      "word": "galkap",
+      "frequency": 176
+    },
+    {
+      "word": "aaron",
+      "frequency": 175
+    },
+    {
+      "word": "tunga",
+      "frequency": 172
+    },
+    {
+      "word": "zan",
+      "frequency": 171
+    },
+    {
+      "word": "vantungmi",
+      "frequency": 171
+    },
+    {
+      "word": "khuavak",
+      "frequency": 170
+    },
+    {
+      "word": "khatlekhat",
+      "frequency": 170
+    },
+    {
+      "word": "lel",
+      "frequency": 170
+    },
+    {
+      "word": "nasepna",
+      "frequency": 169
+    },
+    {
+      "word": "hehpihna",
+      "frequency": 169
+    },
+    {
+      "word": "khe",
+      "frequency": 169
+    },
+    {
+      "word": "genin",
+      "frequency": 169
+    },
+    {
+      "word": "piangsak",
+      "frequency": 168
+    },
+    {
+      "word": "peter",
+      "frequency": 168
+    },
+    {
+      "word": "kiko",
+      "frequency": 167
+    },
+    {
+      "word": "khatpeuh",
+      "frequency": 166
+    },
+    {
+      "word": "josef",
+      "frequency": 166
+    },
+    {
+      "word": "kilawm",
+      "frequency": 165
+    },
+    {
+      "word": "manun",
+      "frequency": 165
+    },
+    {
+      "word": "khinta",
+      "frequency": 164
+    },
+    {
+      "word": "bangci",
+      "frequency": 164
+    },
+    {
+      "word": "paul",
+      "frequency": 164
+    },
+    {
+      "word": "muhna",
+      "frequency": 163
+    },
+    {
+      "word": "meihal",
+      "frequency": 162
+    },
+    {
+      "word": "omlai",
+      "frequency": 161
+    },
+    {
+      "word": "lote",
+      "frequency": 160
+    },
+    {
+      "word": "david'",
+      "frequency": 159
+    },
+    {
+      "word": "solomon",
+      "frequency": 159
+    },
+    {
+      "word": "sungin",
+      "frequency": 158
+    },
+    {
+      "word": "galkapte",
+      "frequency": 158
+    },
+    {
+      "word": "ko",
+      "frequency": 157
+    },
+    {
+      "word": "siampipa",
+      "frequency": 157
+    },
+    {
+      "word": "khuami",
+      "frequency": 157
+    },
+    {
+      "word": "sak",
+      "frequency": 153
+    },
+    {
+      "word": "pua",
+      "frequency": 153
+    },
+    {
+      "word": "siampite",
+      "frequency": 153
+    },
+    {
+      "word": "mit",
+      "frequency": 152
+    },
+    {
+      "word": "leenggahzu",
+      "frequency": 151
+    },
+    {
+      "word": "bawngtal",
+      "frequency": 151
+    },
+    {
+      "word": "ahihna",
+      "frequency": 151
+    },
+    {
+      "word": "bei",
+      "frequency": 150
+    },
+    {
+      "word": "tawntungin",
+      "frequency": 150
+    },
+    {
+      "word": "migilote",
+      "frequency": 150
+    },
+    {
+      "word": "puak",
+      "frequency": 150
+    },
+    {
+      "word": "hileh",
+      "frequency": 149
+    },
+    {
+      "word": "nuai",
+      "frequency": 147
+    },
+    {
+      "word": "sang",
+      "frequency": 147
+    },
+    {
+      "word": "pu",
+      "frequency": 147
+    },
+    {
+      "word": "kigelh",
+      "frequency": 147
+    },
+    {
+      "word": "mualtung",
+      "frequency": 146
+    },
+    {
+      "word": "tangin",
+      "frequency": 146
+    },
+    {
+      "word": "joshua",
+      "frequency": 146
+    },
+    {
+      "word": "nin",
+      "frequency": 145
+    },
+    {
+      "word": "ngaihsutna",
+      "frequency": 144
+    },
+    {
+      "word": "lu",
+      "frequency": 144
+    },
+    {
+      "word": "vekpi",
+      "frequency": 144
+    },
+    {
+      "word": "gun",
+      "frequency": 143
+    },
+    {
+      "word": "sing",
+      "frequency": 141
+    },
+    {
+      "word": "zang",
+      "frequency": 141
+    },
+    {
+      "word": "thugente",
+      "frequency": 141
+    },
+    {
+      "word": "sep",
+      "frequency": 141
+    },
+    {
+      "word": "moab",
+      "frequency": 140
+    },
+    {
+      "word": "tokhom",
+      "frequency": 140
+    },
+    {
+      "word": "pang",
+      "frequency": 139
+    },
+    {
+      "word": "nisuahna",
+      "frequency": 138
+    },
+    {
+      "word": "tum",
+      "frequency": 138
+    },
+    {
+      "word": "paito",
+      "frequency": 138
+    },
+    {
+      "word": "leuleu",
+      "frequency": 137
+    },
+    {
+      "word": "innkuan",
+      "frequency": 137
+    },
+    {
+      "word": "milim",
+      "frequency": 137
+    },
+    {
+      "word": "lut",
+      "frequency": 136
+    },
+    {
+      "word": "paisuak",
+      "frequency": 136
+    },
+    {
+      "word": "nam",
+      "frequency": 135
+    },
+    {
+      "word": "kipanin",
+      "frequency": 135
+    },
+    {
+      "word": "lianpi",
+      "frequency": 135
+    },
+    {
+      "word": "ihi",
+      "frequency": 135
+    },
+    {
+      "word": "khinzo",
+      "frequency": 135
+    },
+    {
+      "word": "abraham",
+      "frequency": 135
+    },
+    {
+      "word": "kap",
+      "frequency": 135
+    },
+    {
+      "word": "hai",
+      "frequency": 135
+    },
+    {
+      "word": "kamsang",
+      "frequency": 135
+    },
+    {
+      "word": "nek",
+      "frequency": 134
+    },
+    {
+      "word": "singkuang",
+      "frequency": 134
+    },
+    {
+      "word": "sun",
+      "frequency": 133
+    },
+    {
+      "word": "sawmthum",
+      "frequency": 133
+    },
+    {
+      "word": "sawmli",
+      "frequency": 133
+    },
+    {
+      "word": "suah",
+      "frequency": 132
+    },
+    {
+      "word": "do",
+      "frequency": 132
+    },
+    {
+      "word": "mahin",
+      "frequency": 131
+    },
+    {
+      "word": "paknamtui",
+      "frequency": 131
+    },
+    {
+      "word": "zah",
+      "frequency": 130
+    },
+    {
+      "word": "jordan",
+      "frequency": 130
+    },
+    {
+      "word": "sila",
+      "frequency": 129
+    },
+    {
+      "word": "khia",
+      "frequency": 129
+    },
+    {
+      "word": "khuamial",
+      "frequency": 128
+    },
+    {
+      "word": "semsem",
+      "frequency": 128
+    },
+    {
+      "word": "numeite",
+      "frequency": 128
+    },
+    {
+      "word": "hon",
+      "frequency": 126
+    },
+    {
+      "word": "anlum",
+      "frequency": 126
+    },
+    {
+      "word": "het",
+      "frequency": 126
+    },
+    {
+      "word": "zawh",
+      "frequency": 125
+    },
+    {
+      "word": "et",
+      "frequency": 125
+    },
+    {
+      "word": "eite'",
+      "frequency": 125
+    },
+    {
+      "word": "gamte",
+      "frequency": 125
+    },
+    {
+      "word": "laibu",
+      "frequency": 124
+    },
+    {
+      "word": "mateng",
+      "frequency": 124
+    },
+    {
+      "word": "khatah",
+      "frequency": 123
+    },
+    {
+      "word": "gah",
+      "frequency": 123
+    },
+    {
+      "word": "sanggampa",
+      "frequency": 123
+    },
+    {
+      "word": "pah",
+      "frequency": 122
+    },
+    {
+      "word": "bawlin",
+      "frequency": 122
+    },
+    {
+      "word": "luah",
+      "frequency": 122
+    },
+    {
+      "word": "ap",
+      "frequency": 122
+    },
+    {
+      "word": "behte",
+      "frequency": 122
+    },
+    {
+      "word": "takpi",
+      "frequency": 122
+    },
+    {
+      "word": "suan",
+      "frequency": 122
+    },
+    {
+      "word": "tawi",
+      "frequency": 122
+    },
+    {
+      "word": "thahat",
+      "frequency": 122
+    },
+    {
+      "word": "suanlekhakte",
+      "frequency": 121
+    },
+    {
+      "word": "sakol",
+      "frequency": 121
+    },
+    {
+      "word": "nitak",
+      "frequency": 120
+    },
+    {
+      "word": "tungsak",
+      "frequency": 120
+    },
+    {
+      "word": "paikhiatpih",
+      "frequency": 120
+    },
+    {
+      "word": "tuan",
+      "frequency": 120
+    },
+    {
+      "word": "buk",
+      "frequency": 120
+    },
+    {
+      "word": "zingsang",
+      "frequency": 119
+    },
+    {
+      "word": "zanin",
+      "frequency": 119
+    },
+    {
+      "word": "kei'",
+      "frequency": 119
+    },
+    {
+      "word": "zuih",
+      "frequency": 119
+    },
+    {
+      "word": "biakbuk",
+      "frequency": 119
+    },
+    {
+      "word": "jesuh'",
+      "frequency": 119
+    },
+    {
+      "word": "suakta",
+      "frequency": 118
+    },
+    {
+      "word": "lum",
+      "frequency": 118
+    },
+    {
+      "word": "kihei",
+      "frequency": 118
+    },
+    {
+      "word": "benjamin",
+      "frequency": 118
+    },
+    {
+      "word": "leeng",
+      "frequency": 117
+    },
+    {
+      "word": "zaw",
+      "frequency": 117
+    },
+    {
+      "word": "neihsa",
+      "frequency": 117
+    },
+    {
+      "word": "kumpite",
+      "frequency": 117
+    },
+    {
+      "word": "tho",
+      "frequency": 117
+    },
+    {
+      "word": "kote'",
+      "frequency": 117
+    },
+    {
+      "word": "tam",
+      "frequency": 116
+    },
+    {
+      "word": "thupiakna",
+      "frequency": 116
+    },
+    {
+      "word": "ciah",
+      "frequency": 116
+    },
+    {
+      "word": "cihin",
+      "frequency": 116
+    },
+    {
+      "word": "tang",
+      "frequency": 115
+    },
+    {
+      "word": "guk",
+      "frequency": 115
+    },
+    {
+      "word": "koi",
+      "frequency": 115
+    },
+    {
+      "word": "thupiak",
+      "frequency": 115
+    },
+    {
+      "word": "thah",
+      "frequency": 115
+    },
+    {
+      "word": "vun",
+      "frequency": 115
+    },
+    {
+      "word": "kongpi",
+      "frequency": 115
+    },
+    {
+      "word": "zing",
+      "frequency": 115
+    },
+    {
+      "word": "kanaan",
+      "frequency": 114
+    },
+    {
+      "word": "puante",
+      "frequency": 114
+    },
+    {
+      "word": "gelh",
+      "frequency": 114
+    },
+    {
+      "word": "sumngo",
+      "frequency": 113
+    },
+    {
+      "word": "sehnel",
+      "frequency": 113
+    },
+    {
+      "word": "cihna",
+      "frequency": 113
+    },
+    {
+      "word": "san",
+      "frequency": 113
+    },
+    {
+      "word": "upate",
+      "frequency": 113
+    },
+    {
+      "word": "gamlakah",
+      "frequency": 112
+    },
+    {
+      "word": "midangte",
+      "frequency": 111
+    },
+    {
+      "word": "hopih",
+      "frequency": 111
+    },
+    {
+      "word": "theihna",
+      "frequency": 110
+    },
+    {
+      "word": "khial",
+      "frequency": 110
+    },
+    {
+      "word": "teembaw",
+      "frequency": 110
+    },
+    {
+      "word": "paisak",
+      "frequency": 110
+    },
+    {
+      "word": "ngaihsut",
+      "frequency": 110
+    },
+    {
+      "word": "lamdang",
+      "frequency": 110
+    },
+    {
+      "word": "lianpen",
+      "frequency": 110
+    },
+    {
+      "word": "johan",
+      "frequency": 110
+    },
+    {
+      "word": "kem",
+      "frequency": 109
+    },
+    {
+      "word": "gamlak",
+      "frequency": 109
+    },
+    {
+      "word": "paisuk",
+      "frequency": 109
+    },
+    {
+      "word": "tuuno",
+      "frequency": 109
+    },
+    {
+      "word": "mihon",
+      "frequency": 108
+    },
+    {
+      "word": "hunin",
+      "frequency": 107
+    },
+    {
+      "word": "liante",
+      "frequency": 107
+    },
+    {
+      "word": "biak",
+      "frequency": 107
+    },
+    {
+      "word": "vak",
+      "frequency": 106
+    },
+    {
+      "word": "hal",
+      "frequency": 106
+    },
+    {
+      "word": "faro'",
+      "frequency": 106
+    },
+    {
+      "word": "hoihtakin",
+      "frequency": 106
+    },
+    {
+      "word": "veve",
+      "frequency": 106
+    },
+    {
+      "word": "kawikawi",
+      "frequency": 105
+    },
+    {
+      "word": "mihingte",
+      "frequency": 105
+    },
+    {
+      "word": "assiria",
+      "frequency": 104
+    },
+    {
+      "word": "thumna",
+      "frequency": 104
+    },
+    {
+      "word": "tuutal",
+      "frequency": 104
+    },
+    {
+      "word": "teci",
+      "frequency": 104
+    },
+    {
+      "word": "kulh",
+      "frequency": 104
+    },
+    {
+      "word": "sabbath",
+      "frequency": 104
+    },
+    {
+      "word": "maitang",
+      "frequency": 103
+    },
+    {
+      "word": "tegel",
+      "frequency": 103
+    },
+    {
+      "word": "faro",
+      "frequency": 103
+    },
+    {
+      "word": "kithat",
+      "frequency": 103
+    },
+    {
+      "word": "ganhingte",
+      "frequency": 102
+    },
+    {
+      "word": "hu",
+      "frequency": 102
+    },
+    {
+      "word": "zahtak",
+      "frequency": 102
+    },
+    {
+      "word": "kamsangte",
+      "frequency": 102
+    },
+    {
+      "word": "ut",
+      "frequency": 101
+    },
+    {
+      "word": "thak",
+      "frequency": 101
+    },
+    {
+      "word": "khutsung",
+      "frequency": 101
+    },
+    {
+      "word": "kisam",
+      "frequency": 101
+    },
+    {
+      "word": "natna",
+      "frequency": 101
+    },
+    {
+      "word": "hinapi",
+      "frequency": 101
+    },
+    {
+      "word": "omkhawm",
+      "frequency": 100
+    },
+    {
+      "word": "nung",
+      "frequency": 100
+    },
+    {
+      "word": "thutang",
+      "frequency": 100
+    },
+    {
+      "word": "sisan",
+      "frequency": 99
+    },
+    {
+      "word": "midang",
+      "frequency": 99
+    },
+    {
+      "word": "hehpih",
+      "frequency": 99
+    },
+    {
+      "word": "tuu",
+      "frequency": 98
+    },
+    {
+      "word": "lopi",
+      "frequency": 98
+    },
+    {
+      "word": "dot",
+      "frequency": 98
+    },
+    {
+      "word": "hanga",
+      "frequency": 98
+    },
+    {
+      "word": "lawmte",
+      "frequency": 98
+    },
+    {
+      "word": "mawh",
+      "frequency": 97
+    },
+    {
+      "word": "samaria",
+      "frequency": 97
+    },
+    {
+      "word": "lutang",
+      "frequency": 96
+    },
+    {
+      "word": "leilu",
+      "frequency": 96
+    },
+    {
+      "word": "kiciam",
+      "frequency": 96
+    },
+    {
+      "word": "beek",
+      "frequency": 96
+    },
+    {
+      "word": "simin",
+      "frequency": 96
+    },
+    {
+      "word": "hotkhiatna",
+      "frequency": 96
+    },
+    {
+      "word": "lonona",
+      "frequency": 96
+    },
+    {
+      "word": "sawmnga",
+      "frequency": 95
+    },
+    {
+      "word": "suaksak",
+      "frequency": 95
+    },
+    {
+      "word": "ukpa",
+      "frequency": 95
+    },
+    {
+      "word": "awging",
+      "frequency": 95
+    },
+    {
+      "word": "cing",
+      "frequency": 94
+    },
+    {
+      "word": "laitakun",
+      "frequency": 94
+    },
+    {
+      "word": "naupang",
+      "frequency": 94
+    },
+    {
+      "word": "makai",
+      "frequency": 94
+    },
+    {
+      "word": "nihna",
+      "frequency": 93
+    },
+    {
+      "word": "huhna",
+      "frequency": 93
+    },
+    {
+      "word": "ngam",
+      "frequency": 93
+    },
+    {
+      "word": "nget",
+      "frequency": 93
+    },
+    {
+      "word": "samuel",
+      "frequency": 93
+    },
+    {
+      "word": "kuam",
+      "frequency": 92
+    },
+    {
+      "word": "lui",
+      "frequency": 92
+    },
+    {
+      "word": "lua",
+      "frequency": 92
+    },
+    {
+      "word": "citak",
+      "frequency": 92
+    },
+    {
+      "word": "lakhia",
+      "frequency": 91
+    },
+    {
+      "word": "ammon",
+      "frequency": 91
+    },
+    {
+      "word": "efraim",
+      "frequency": 91
+    },
+    {
+      "word": "ukte",
+      "frequency": 91
+    },
+    {
+      "word": "syria",
+      "frequency": 91
+    },
+    {
+      "word": "gentail",
+      "frequency": 91
+    },
+    {
+      "word": "kikhawm",
+      "frequency": 90
+    },
+    {
+      "word": "kimkotah",
+      "frequency": 90
+    },
+    {
+      "word": "omsak",
+      "frequency": 90
+    },
+    {
+      "word": "khak",
+      "frequency": 90
+    },
+    {
+      "word": "thuk",
+      "frequency": 90
+    },
+    {
+      "word": "puanbuk",
+      "frequency": 90
+    },
+    {
+      "word": "to",
+      "frequency": 90
+    },
+    {
+      "word": "gamgi",
+      "frequency": 90
+    },
+    {
+      "word": "vang",
+      "frequency": 90
+    },
+    {
+      "word": "taklam",
+      "frequency": 90
+    },
+    {
+      "word": "kung",
+      "frequency": 89
+    },
+    {
+      "word": "vantungah",
+      "frequency": 89
+    },
+    {
+      "word": "kidim",
+      "frequency": 89
+    },
+    {
+      "word": "leenggui",
+      "frequency": 89
+    },
+    {
+      "word": "mahmahin",
+      "frequency": 89
+    },
+    {
+      "word": "tuam",
+      "frequency": 89
+    },
+    {
+      "word": "banah",
+      "frequency": 89
+    },
+    {
+      "word": "zion",
+      "frequency": 89
+    },
+    {
+      "word": "kihta",
+      "frequency": 88
+    },
+    {
+      "word": "nu'",
+      "frequency": 88
+    },
+    {
+      "word": "maisak",
+      "frequency": 88
+    },
+    {
+      "word": "edom",
+      "frequency": 88
+    },
+    {
+      "word": "hoihna",
+      "frequency": 87
+    },
+    {
+      "word": "khempeuh'",
+      "frequency": 87
+    },
+    {
+      "word": "damsak",
+      "frequency": 87
+    },
+    {
+      "word": "sepna",
+      "frequency": 87
+    },
+    {
+      "word": "thungetna",
+      "frequency": 87
+    },
+    {
+      "word": "lungkhamna",
+      "frequency": 87
+    },
+    {
+      "word": "paina",
+      "frequency": 86
+    },
+    {
+      "word": "adang",
+      "frequency": 86
+    },
+    {
+      "word": "kimu",
+      "frequency": 86
+    },
+    {
+      "word": "kilang",
+      "frequency": 86
+    },
+    {
+      "word": "paikhiat",
+      "frequency": 86
+    },
+    {
+      "word": "kipawl",
+      "frequency": 86
+    },
+    {
+      "word": "innsung",
+      "frequency": 86
+    },
+    {
+      "word": "biakpiakna",
+      "frequency": 86
+    },
+    {
+      "word": "nial",
+      "frequency": 86
+    },
+    {
+      "word": "pawlkhatte",
+      "frequency": 86
+    },
+    {
+      "word": "hawlkhia",
+      "frequency": 85
+    },
+    {
+      "word": "gitlohna",
+      "frequency": 85
+    },
+    {
+      "word": "mahah",
+      "frequency": 85
+    },
+    {
+      "word": "genna",
+      "frequency": 85
+    },
+    {
+      "word": "lungkim",
+      "frequency": 85
+    },
+    {
+      "word": "kuankhia",
+      "frequency": 85
+    },
+    {
+      "word": "hoihzaw",
+      "frequency": 84
+    },
+    {
+      "word": "teel",
+      "frequency": 84
+    },
+    {
+      "word": "thaman",
+      "frequency": 84
+    },
+    {
+      "word": "giat",
+      "frequency": 84
+    },
+    {
+      "word": "thahatna",
+      "frequency": 84
+    },
+    {
+      "word": "bil",
+      "frequency": 84
+    },
+    {
+      "word": "huihpi",
+      "frequency": 84
+    },
+    {
+      "word": "bangmahin",
+      "frequency": 83
+    },
+    {
+      "word": "tenna",
+      "frequency": 83
+    },
+    {
+      "word": "muang",
+      "frequency": 83
+    },
+    {
+      "word": "lecin",
+      "frequency": 83
+    },
+    {
+      "word": "thumanna",
+      "frequency": 83
+    },
+    {
+      "word": "manasseh",
+      "frequency": 83
+    },
+    {
+      "word": "teh",
+      "frequency": 82
+    },
+    {
+      "word": "gensa",
+      "frequency": 82
+    },
+    {
+      "word": "at",
+      "frequency": 82
+    },
+    {
+      "word": "kigen",
+      "frequency": 82
+    },
+    {
+      "word": "kithawi",
+      "frequency": 82
+    },
+    {
+      "word": "mangngilh",
+      "frequency": 82
+    },
+    {
+      "word": "khempeuhte",
+      "frequency": 82
+    },
+    {
+      "word": "siamna",
+      "frequency": 82
+    },
+    {
+      "word": "saul'",
+      "frequency": 82
+    },
+    {
+      "word": "mihingte'",
+      "frequency": 81
+    },
+    {
+      "word": "zakhat",
+      "frequency": 81
+    },
+    {
+      "word": "neu",
+      "frequency": 81
+    },
+    {
+      "word": "seh",
+      "frequency": 81
+    },
+    {
+      "word": "humpinelkai",
+      "frequency": 81
+    },
+    {
+      "word": "aaron'",
+      "frequency": 81
+    },
+    {
+      "word": "kipte",
+      "frequency": 81
+    },
+    {
+      "word": "ling",
+      "frequency": 80
+    },
+    {
+      "word": "kherub",
+      "frequency": 80
+    },
+    {
+      "word": "phuak",
+      "frequency": 80
+    },
+    {
+      "word": "siang",
+      "frequency": 80
+    },
+    {
+      "word": "leitaw",
+      "frequency": 80
+    },
+    {
+      "word": "ke'n",
+      "frequency": 80
+    },
+    {
+      "word": "ompih",
+      "frequency": 80
+    },
+    {
+      "word": "kikalah",
+      "frequency": 79
+    },
+    {
+      "word": "tanute",
+      "frequency": 79
+    },
+    {
+      "word": "ngak",
+      "frequency": 79
+    },
+    {
+      "word": "zahin",
+      "frequency": 79
+    },
+    {
+      "word": "hangun",
+      "frequency": 79
+    },
+    {
+      "word": "sakin",
+      "frequency": 79
+    },
+    {
+      "word": "kilemna",
+      "frequency": 79
+    },
+    {
+      "word": "joab",
+      "frequency": 79
+    },
+    {
+      "word": "silh",
+      "frequency": 78
+    },
+    {
+      "word": "gamdang",
+      "frequency": 78
+    },
+    {
+      "word": "inndei",
+      "frequency": 78
+    },
+    {
+      "word": "thukhamte",
+      "frequency": 78
+    },
+    {
+      "word": "tuite",
+      "frequency": 77
+    },
+    {
+      "word": "meii",
+      "frequency": 77
+    },
+    {
+      "word": "zat",
+      "frequency": 77
+    },
+    {
+      "word": "gawp",
+      "frequency": 77
+    },
+    {
+      "word": "milimte",
+      "frequency": 77
+    },
+    {
+      "word": "mawkna",
+      "frequency": 77
+    },
+    {
+      "word": "samin",
+      "frequency": 76
+    },
+    {
+      "word": "thupi",
+      "frequency": 76
+    },
+    {
+      "word": "meikuang",
+      "frequency": 75
+    },
+    {
+      "word": "lawh",
+      "frequency": 75
+    },
+    {
+      "word": "thukhenna",
+      "frequency": 75
+    },
+    {
+      "word": "isaac",
+      "frequency": 75
+    },
+    {
+      "word": "dih",
+      "frequency": 75
+    },
+    {
+      "word": "hanciam",
+      "frequency": 75
+    },
+    {
+      "word": "galilee",
+      "frequency": 75
+    },
+    {
+      "word": "zu",
+      "frequency": 74
+    },
+    {
+      "word": "khatvei",
+      "frequency": 74
+    },
+    {
+      "word": "tawm",
+      "frequency": 74
+    },
+    {
+      "word": "kumin",
+      "frequency": 74
+    },
+    {
+      "word": "mudah",
+      "frequency": 74
+    },
+    {
+      "word": "guah",
+      "frequency": 73
+    },
+    {
+      "word": "beisak",
+      "frequency": 73
+    },
+    {
+      "word": "kipsak",
+      "frequency": 73
+    },
+    {
+      "word": "vui",
+      "frequency": 73
+    },
+    {
+      "word": "gilead",
+      "frequency": 73
+    },
+    {
+      "word": "thong",
+      "frequency": 73
+    },
+    {
+      "word": "farisi",
+      "frequency": 73
+    },
+    {
+      "word": "luang",
+      "frequency": 72
+    },
+    {
+      "word": "sik",
+      "frequency": 72
+    },
+    {
+      "word": "sungteng",
+      "frequency": 72
+    },
+    {
+      "word": "khawl",
+      "frequency": 72
+    },
+    {
+      "word": "lah",
+      "frequency": 72
+    },
+    {
+      "word": "dawngin",
+      "frequency": 72
+    },
+    {
+      "word": "biaknate",
+      "frequency": 72
+    },
+    {
+      "word": "zuauthu",
+      "frequency": 72
+    },
+    {
+      "word": "abraham'",
+      "frequency": 71
+    },
+    {
+      "word": "pil",
+      "frequency": 71
+    },
+    {
+      "word": "guan",
+      "frequency": 71
+    },
+    {
+      "word": "khuaneute",
+      "frequency": 71
+    },
+    {
+      "word": "dim",
+      "frequency": 70
+    },
+    {
+      "word": "piakna",
+      "frequency": 70
+    },
+    {
+      "word": "paikik",
+      "frequency": 70
+    },
+    {
+      "word": "beel",
+      "frequency": 70
+    },
+    {
+      "word": "tuute",
+      "frequency": 70
+    },
+    {
+      "word": "don",
+      "frequency": 70
+    },
+    {
+      "word": "bu",
+      "frequency": 69
+    },
+    {
+      "word": "kuan",
+      "frequency": 69
+    },
+    {
+      "word": "lupna",
+      "frequency": 69
+    },
+    {
+      "word": "pawl",
+      "frequency": 69
+    },
+    {
+      "word": "hauhna",
+      "frequency": 69
+    },
+    {
+      "word": "thau",
+      "frequency": 69
+    },
+    {
+      "word": "aana",
+      "frequency": 69
+    },
+    {
+      "word": "phatna",
+      "frequency": 69
+    },
+    {
+      "word": "tulkhat",
+      "frequency": 69
+    },
+    {
+      "word": "huih",
+      "frequency": 68
+    },
+    {
+      "word": "kikin",
+      "frequency": 68
+    },
+    {
+      "word": "panun",
+      "frequency": 68
+    },
+    {
+      "word": "paisan",
+      "frequency": 68
+    },
+    {
+      "word": "peengkul",
+      "frequency": 68
+    },
+    {
+      "word": "mihaite",
+      "frequency": 68
+    },
+    {
+      "word": "ezekiel",
+      "frequency": 68
+    },
+    {
+      "word": "pawlpi",
+      "frequency": 68
+    },
+    {
+      "word": "dan",
+      "frequency": 67
+    },
+    {
+      "word": "thuhilh",
+      "frequency": 67
+    },
+    {
+      "word": "mizawngte",
+      "frequency": 67
+    },
+    {
+      "word": "thuhilhna",
+      "frequency": 67
+    },
+    {
+      "word": "leng",
+      "frequency": 67
+    },
+    {
+      "word": "sawmsagih",
+      "frequency": 66
+    },
+    {
+      "word": "tuak",
+      "frequency": 66
+    },
+    {
+      "word": "khau",
+      "frequency": 66
+    },
+    {
+      "word": "cihnopna",
+      "frequency": 66
+    },
+    {
+      "word": "zia",
+      "frequency": 66
+    },
+    {
+      "word": "tungtawnin",
+      "frequency": 66
+    },
+    {
+      "word": "leenggah",
+      "frequency": 66
+    },
+    {
+      "word": "lungdamin",
+      "frequency": 66
+    },
+    {
+      "word": "omlaite",
+      "frequency": 66
+    },
+    {
+      "word": "jonathan",
+      "frequency": 66
+    },
+    {
+      "word": "lianzaw",
+      "frequency": 65
+    },
+    {
+      "word": "lamtak",
+      "frequency": 65
+    },
+    {
+      "word": "sanggam",
+      "frequency": 65
+    },
+    {
+      "word": "vasa",
+      "frequency": 65
+    },
+    {
+      "word": "nitumna",
+      "frequency": 65
+    },
+    {
+      "word": "thuakna",
+      "frequency": 65
+    },
+    {
+      "word": "awng",
+      "frequency": 65
+    },
+    {
+      "word": "hita",
+      "frequency": 65
+    },
+    {
+      "word": "ciangkhut",
+      "frequency": 65
+    },
+    {
+      "word": "lungkham",
+      "frequency": 65
+    },
+    {
+      "word": "lung",
+      "frequency": 65
+    },
+    {
+      "word": "namtui",
+      "frequency": 65
+    },
+    {
+      "word": "mong",
+      "frequency": 65
+    },
+    {
+      "word": "khan",
+      "frequency": 64
+    },
+    {
+      "word": "khuadak",
+      "frequency": 64
+    },
+    {
+      "word": "zanih",
+      "frequency": 64
+    },
+    {
+      "word": "silngo",
+      "frequency": 64
+    },
+    {
+      "word": "ze",
+      "frequency": 64
+    },
+    {
+      "word": "tha",
+      "frequency": 64
+    },
+    {
+      "word": "sabuai",
+      "frequency": 64
+    },
+    {
+      "word": "kingaihsun",
+      "frequency": 64
+    },
+    {
+      "word": "simloh",
+      "frequency": 64
+    },
+    {
+      "word": "lamdangsa",
+      "frequency": 64
+    },
+    {
+      "word": "kumpite'",
+      "frequency": 64
+    },
+    {
+      "word": "leivui",
+      "frequency": 63
+    },
+    {
+      "word": "ban",
+      "frequency": 63
+    },
+    {
+      "word": "nang'",
+      "frequency": 63
+    },
+    {
+      "word": "lehang",
+      "frequency": 63
+    },
+    {
+      "word": "dingte",
+      "frequency": 63
+    },
+    {
+      "word": "kuang",
+      "frequency": 63
+    },
+    {
+      "word": "bawlna",
+      "frequency": 63
+    },
+    {
+      "word": "laitak",
+      "frequency": 63
+    },
+    {
+      "word": "lawm",
+      "frequency": 63
+    },
+    {
+      "word": "khiatna",
+      "frequency": 63
+    },
+    {
+      "word": "khaici",
+      "frequency": 63
+    },
+    {
+      "word": "nalamdang",
+      "frequency": 63
+    },
+    {
+      "word": "makaite",
+      "frequency": 63
+    },
+    {
+      "word": "vai",
+      "frequency": 63
+    },
+    {
+      "word": "nungzui",
+      "frequency": 63
+    },
+    {
+      "word": "singkung",
+      "frequency": 62
+    },
+    {
+      "word": "mipihte",
+      "frequency": 62
+    },
+    {
+      "word": "tawlkhat",
+      "frequency": 62
+    },
+    {
+      "word": "tungin",
+      "frequency": 62
+    },
+    {
+      "word": "nungah",
+      "frequency": 62
+    },
+    {
+      "word": "siam",
+      "frequency": 62
+    },
+    {
+      "word": "gamlapi",
+      "frequency": 62
+    },
+    {
+      "word": "migilote'",
+      "frequency": 62
+    },
+    {
+      "word": "sawmguk",
+      "frequency": 61
+    },
+    {
+      "word": "leilakah",
+      "frequency": 61
+    },
+    {
+      "word": "oliv",
+      "frequency": 61
+    },
+    {
+      "word": "mel",
+      "frequency": 61
+    },
+    {
+      "word": "minamte'",
+      "frequency": 61
+    },
+    {
+      "word": "vei",
+      "frequency": 61
+    },
+    {
+      "word": "gad",
+      "frequency": 61
+    },
+    {
+      "word": "thukhen",
+      "frequency": 61
+    },
+    {
+      "word": "kuama",
+      "frequency": 61
+    },
+    {
+      "word": "mawhsak",
+      "frequency": 61
+    },
+    {
+      "word": "nopsakna",
+      "frequency": 61
+    },
+    {
+      "word": "hezekiah",
+      "frequency": 61
+    },
+    {
+      "word": "mipa'",
+      "frequency": 60
+    },
+    {
+      "word": "khatin",
+      "frequency": 60
+    },
+    {
+      "word": "amahmah",
+      "frequency": 60
+    },
+    {
+      "word": "peuh",
+      "frequency": 60
+    },
+    {
+      "word": "pak",
+      "frequency": 60
+    },
+    {
+      "word": "reuben",
+      "frequency": 60
+    },
+    {
+      "word": "tampite",
+      "frequency": 60
+    },
+    {
+      "word": "migilo",
+      "frequency": 60
+    },
+    {
+      "word": "lametna",
+      "frequency": 60
+    },
+    {
+      "word": "kongkhak",
+      "frequency": 59
+    },
+    {
+      "word": "gamh",
+      "frequency": 59
+    },
+    {
+      "word": "zahtakna",
+      "frequency": 59
+    },
+    {
+      "word": "shekel",
+      "frequency": 59
+    },
+    {
+      "word": "matengin",
+      "frequency": 59
+    },
+    {
+      "word": "'na",
+      "frequency": 59
+    },
+    {
+      "word": "puk",
+      "frequency": 59
+    },
+    {
+      "word": "thugenna",
+      "frequency": 59
+    },
+    {
+      "word": "thupiaknate",
+      "frequency": 59
+    },
+    {
+      "word": "elijah",
+      "frequency": 59
+    },
+    {
+      "word": "tangthu",
+      "frequency": 58
+    },
+    {
+      "word": "ging",
+      "frequency": 58
+    },
+    {
+      "word": "ai",
+      "frequency": 58
+    },
+    {
+      "word": "ulian",
+      "frequency": 58
+    },
+    {
+      "word": "dam",
+      "frequency": 58
+    },
+    {
+      "word": "ihmu",
+      "frequency": 58
+    },
+    {
+      "word": "ciam",
+      "frequency": 58
+    },
+    {
+      "word": "omin",
+      "frequency": 58
+    },
+    {
+      "word": "singlamteh",
+      "frequency": 58
+    },
+    {
+      "word": "kipat",
+      "frequency": 57
+    },
+    {
+      "word": "alang",
+      "frequency": 57
+    },
+    {
+      "word": "thumte",
+      "frequency": 57
+    },
+    {
+      "word": "kun",
+      "frequency": 57
+    },
+    {
+      "word": "nungak",
+      "frequency": 57
+    },
+    {
+      "word": "manpha",
+      "frequency": 57
+    },
+    {
+      "word": "phetin",
+      "frequency": 57
+    },
+    {
+      "word": "hawm",
+      "frequency": 57
+    },
+    {
+      "word": "taamtak",
+      "frequency": 57
+    },
+    {
+      "word": "dawi",
+      "frequency": 57
+    },
+    {
+      "word": "siate",
+      "frequency": 57
+    },
+    {
+      "word": "pana",
+      "frequency": 56
+    },
+    {
+      "word": "hing",
+      "frequency": 56
+    },
+    {
+      "word": "hau",
+      "frequency": 56
+    },
+    {
+      "word": "kia",
+      "frequency": 56
+    },
+    {
+      "word": "simmawh",
+      "frequency": 56
+    },
+    {
+      "word": "suksiat",
+      "frequency": 56
+    },
+    {
+      "word": "tham",
+      "frequency": 56
+    },
+    {
+      "word": "galte'",
+      "frequency": 56
+    },
+    {
+      "word": "tawpna",
+      "frequency": 56
+    },
+    {
+      "word": "neite",
+      "frequency": 56
+    },
+    {
+      "word": "mawk",
+      "frequency": 56
+    },
+    {
+      "word": "zuau",
+      "frequency": 56
+    },
+    {
+      "word": "gamtatnate",
+      "frequency": 56
+    },
+    {
+      "word": "huan",
+      "frequency": 55
+    },
+    {
+      "word": "zite",
+      "frequency": 55
+    },
+    {
+      "word": "dingun",
+      "frequency": 55
+    },
+    {
+      "word": "nomau",
+      "frequency": 55
+    },
+    {
+      "word": "dahna",
+      "frequency": 55
+    },
+    {
+      "word": "zin",
+      "frequency": 55
+    },
+    {
+      "word": "kihel",
+      "frequency": 55
+    },
+    {
+      "word": "tawnin",
+      "frequency": 55
+    },
+    {
+      "word": "khuasung",
+      "frequency": 55
+    },
+    {
+      "word": "solomon'",
+      "frequency": 55
+    },
+    {
+      "word": "phattuamna",
+      "frequency": 55
+    },
+    {
+      "word": "vasate",
+      "frequency": 54
+    },
+    {
+      "word": "bawlsa",
+      "frequency": 54
+    },
+    {
+      "word": "uhcin",
+      "frequency": 54
+    },
+    {
+      "word": "khem",
+      "frequency": 54
+    },
+    {
+      "word": "lasakna",
+      "frequency": 54
+    },
+    {
+      "word": "sanggamnu",
+      "frequency": 54
+    },
+    {
+      "word": "buppi",
+      "frequency": 54
+    },
+    {
+      "word": "leitangah",
+      "frequency": 54
+    },
+    {
+      "word": "kampau",
+      "frequency": 54
+    },
+    {
+      "word": "salin",
+      "frequency": 54
+    },
+    {
+      "word": "sawlin",
+      "frequency": 54
+    },
+    {
+      "word": "ing",
+      "frequency": 54
+    },
+    {
+      "word": "bekin",
+      "frequency": 54
+    },
+    {
+      "word": "lauhuai",
+      "frequency": 54
+    },
+    {
+      "word": "kaikhawm",
+      "frequency": 54
+    },
+    {
+      "word": "tanvei",
+      "frequency": 54
+    },
+    {
+      "word": "taang",
+      "frequency": 54
+    },
+    {
+      "word": "lopa",
+      "frequency": 54
+    },
+    {
+      "word": "thakhatin",
+      "frequency": 54
+    },
+    {
+      "word": "absalom",
+      "frequency": 54
+    },
+    {
+      "word": "mary",
+      "frequency": 54
+    },
+    {
+      "word": "bawlsak",
+      "frequency": 53
+    },
+    {
+      "word": "phak",
+      "frequency": 53
+    },
+    {
+      "word": "hoihte",
+      "frequency": 53
+    },
+    {
+      "word": "paipihin",
+      "frequency": 53
+    },
+    {
+      "word": "kang",
+      "frequency": 53
+    },
+    {
+      "word": "paktat",
+      "frequency": 53
+    },
+    {
+      "word": "keel",
+      "frequency": 53
+    },
+    {
+      "word": "kilangsak",
+      "frequency": 53
+    },
+    {
+      "word": "innte",
+      "frequency": 53
+    },
+    {
+      "word": "thupiang",
+      "frequency": 53
+    },
+    {
+      "word": "puah",
+      "frequency": 53
+    },
+    {
+      "word": "kawm",
+      "frequency": 53
+    },
+    {
+      "word": "sakolte",
+      "frequency": 53
+    },
+    {
+      "word": "sawltakte",
+      "frequency": 53
+    },
+    {
+      "word": "niloh",
+      "frequency": 53
+    },
+    {
+      "word": "pilat",
+      "frequency": 53
+    },
+    {
+      "word": "cil",
+      "frequency": 52
+    },
+    {
+      "word": "tuamtuamte",
+      "frequency": 52
+    },
+    {
+      "word": "zut",
+      "frequency": 52
+    },
+    {
+      "word": "amor",
+      "frequency": 52
+    },
+    {
+      "word": "lehdo",
+      "frequency": 52
+    },
+    {
+      "word": "delh",
+      "frequency": 52
+    },
+    {
+      "word": "kulhkongpi",
+      "frequency": 52
+    },
+    {
+      "word": "khuam",
+      "frequency": 52
+    },
+    {
+      "word": "esau",
+      "frequency": 52
+    },
+    {
+      "word": "jakob'",
+      "frequency": 52
+    },
+    {
+      "word": "uh'",
+      "frequency": 52
+    },
+    {
+      "word": "josef'",
+      "frequency": 52
+    },
+    {
+      "word": "haksatna",
+      "frequency": 52
+    },
+    {
+      "word": "job",
+      "frequency": 52
+    },
+    {
+      "word": "nopna",
+      "frequency": 52
+    },
+    {
+      "word": "kisia",
+      "frequency": 52
+    },
+    {
+      "word": "sap",
+      "frequency": 52
+    },
+    {
+      "word": "gilo",
+      "frequency": 52
+    },
+    {
+      "word": "keu",
+      "frequency": 51
+    },
+    {
+      "word": "kungte",
+      "frequency": 51
+    },
+    {
+      "word": "bulh",
+      "frequency": 51
+    },
+    {
+      "word": "khah",
+      "frequency": 51
+    },
+    {
+      "word": "nuamtakin",
+      "frequency": 51
+    },
+    {
+      "word": "banga",
+      "frequency": 51
+    },
+    {
+      "word": "kiciamna",
+      "frequency": 51
+    },
+    {
+      "word": "tuuhonte",
+      "frequency": 51
+    },
+    {
+      "word": "kikona",
+      "frequency": 51
+    },
+    {
+      "word": "lohin",
+      "frequency": 51
+    },
+    {
+      "word": "tacil",
+      "frequency": 51
+    },
+    {
+      "word": "moses'",
+      "frequency": 51
+    },
+    {
+      "word": "sau",
+      "frequency": 51
+    },
+    {
+      "word": "langkhatah",
+      "frequency": 51
+    },
+    {
+      "word": "nilh",
+      "frequency": 51
+    },
+    {
+      "word": "baal",
+      "frequency": 51
+    },
+    {
+      "word": "gunkuang",
+      "frequency": 51
+    },
+    {
+      "word": "bangun",
+      "frequency": 50
+    },
+    {
+      "word": "mualtungah",
+      "frequency": 50
+    },
+    {
+      "word": "khai",
+      "frequency": 50
+    },
+    {
+      "word": "lutna",
+      "frequency": 50
+    },
+    {
+      "word": "kituakin",
+      "frequency": 50
+    },
+    {
+      "word": "khum",
+      "frequency": 50
+    },
+    {
+      "word": "bangzah",
+      "frequency": 50
+    },
+    {
+      "word": "nisimin",
+      "frequency": 50
+    },
+    {
+      "word": "vengte",
+      "frequency": 50
+    },
+    {
+      "word": "kan",
+      "frequency": 50
+    },
+    {
+      "word": "annek",
+      "frequency": 50
+    },
+    {
+      "word": "sagihna",
+      "frequency": 49
+    },
+    {
+      "word": "kivui",
+      "frequency": 49
+    },
+    {
+      "word": "annel",
+      "frequency": 49
+    },
+    {
+      "word": "umcih",
+      "frequency": 49
+    },
+    {
+      "word": "gamla",
+      "frequency": 49
+    },
+    {
+      "word": "late",
+      "frequency": 49
+    },
+    {
+      "word": "kidawm",
+      "frequency": 49
+    },
+    {
+      "word": "dum",
+      "frequency": 49
+    },
+    {
+      "word": "leengte",
+      "frequency": 49
+    },
+    {
+      "word": "lite",
+      "frequency": 49
+    },
+    {
+      "word": "mawhnate",
+      "frequency": 49
+    },
+    {
+      "word": "muanhuai",
+      "frequency": 49
+    },
+    {
+      "word": "leilak",
+      "frequency": 48
+    },
+    {
+      "word": "nak",
+      "frequency": 48
+    },
+    {
+      "word": "zaguk",
+      "frequency": 48
+    },
+    {
+      "word": "ngasa",
+      "frequency": 48
+    },
+    {
+      "word": "sawh",
+      "frequency": 48
+    },
+    {
+      "word": "kangtum",
+      "frequency": 48
+    },
+    {
+      "word": "midian",
+      "frequency": 48
+    },
+    {
+      "word": "thahna",
+      "frequency": 48
+    },
+    {
+      "word": "tuang",
+      "frequency": 48
+    },
+    {
+      "word": "eleazar",
+      "frequency": 48
+    },
+    {
+      "word": "mipilte",
+      "frequency": 48
+    },
+    {
+      "word": "suangpi",
+      "frequency": 48
+    },
+    {
+      "word": "sal",
+      "frequency": 48
+    },
+    {
+      "word": "ngitnget",
+      "frequency": 48
+    },
+    {
+      "word": "kim",
+      "frequency": 48
+    },
+    {
+      "word": "jehoshafat",
+      "frequency": 48
+    }
+  ]
+}

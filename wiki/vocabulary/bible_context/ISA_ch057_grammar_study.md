@@ -27,18 +27,18 @@
 ### v1
 **EN:** The righteous perisheth, and no man layeth it to heart: and merciful men are taken away, none considering that the righteous is taken away from the evil to come.
 
-**TDB77:** Thuman mipa si a, kuamah in a lungsim sungah tua thu ngaihsutin nei lo hi, kuamah in a theih loh kalin thuman mite si uh hi. Bang hang hiam cih leh tuahsiatna panin thuman mipa kilakhia a;
+**TDB77:** Thuman mipa si a, kuamah in a lungsim sungah tua thu ngaihsutin nei lo hi, kuamah in a theih loh kalin thuman mite si-te hi. Bang hang hiam cih leh tuahsiatna panin thuman mipa kilakhia a;
 
-**ZVS:** Thuman mipa si a, kuamah in tua thu ngaihsutin nei nawnlo hi. Kuamah in a theihloh kalin thutak mite si uh hi. Bang hang hiam cih leh tuahsiatna panin thuman mipa kilakhia a, nopsakna sungah amah tum hi.
+**ZVS:** Thuman mipa si a, kuamah in tua thu ngaihsutin nei nawnlo hi. Kuamah in a theihloh kalin thutak mite si-te hi. Bang hang hiam cih leh tuahsiatna panin thuman mipa kilakhia a, nopsakna sungah amah tum hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** He shall enter into peace: they shall rest in their beds, each one walking in his uprightness.
 
-**TDB77:** nopsakna sungah amah tum hi, thutang-a gamta mite in a sihna uhah nopna ngahin tawlnga uh hi.
+**TDB77:** nopsakna sungah amah tum hi, thutang-a gamta mite in a sihna uhah nopna ngahin tawlnga-te hi.
 
-**ZVS:** Thutangin a gamta mite in a sihna uhah nopna ngahin tawlnga uh hi.
+**ZVS:** Thutangin a gamta mite in a sihna uhah nopna ngahin tawlnga-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -52,32 +52,32 @@
 ### v5
 **EN:** Enflaming yourselves with idols under every green tree, slaying the children in the valleys under the clifts of the rocks?
 
-**TDB77:** Note in kua mawlpih gawpgawp na hi uh hiam? Kua' tungah na kam uh ka beba-in na leii uh phen na hi uh hiam? Tawsaw kung lak singkung hing khempeuh nuai-ah pasian biakna-in nulepa mawhna a bawl, kuamsung, suanghawm sungah na tate uh a that note pen khialhna tate, zuauna' tuletate hilo na hi uh hiam?
+**TDB77:** Note in kua mawlpih gawpgawp na hi-te hiam? Kua' tungah na kam-te ka beba-in na leii-te phen na hi-te hiam? Tawsaw kung lak singkung hing khempeuh nuai-ah pasian biakna-in nulepa mawhna a bawl, kuamsung, suanghawm sungah na tate-te a that note pen khialhna tate, zuauna' tuletate hilo na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v6
 **EN:** Among the smooth stones of the stream is thy portion; they, they are thy lot: even to them hast thou poured a drink offering, thou hast offered a meat offering. Should I receive comfort in these?
 
-**TDB77:** Kuam sunga suangmaite lakah milimte na la uh a, tua suangmaite na bia uh hi. Tuate tungah tui tawh biak piakna sungin, an tawh biak piakna na paipih uh hi. Hih thute’ hangin kei lungdam ding ka hi hiam?
+**TDB77:** Kuam sunga suangmaite lakah milimte na la-te a, tua suangmaite na bia-te hi. Tuate tungah tui tawh biak piakna sungin, an tawh biak piakna na paipih-te hi. Hih thute’ hangin kei lungdam ding ka hi hiam?
 
-**ZVS:** Kuamsunga om suangmaite na la uh a, tua suangmaite na bia uh hi. Tuate tungah tui tawh biakpiakna sungin, an tawh biakpiakna na paipih uh hi. Hih thute' hangin kei lungdam ding ka hi hiam?
+**ZVS:** Kuamsunga om suangmaite na la-te a, tua suangmaite na bia-te hi. Tuate tungah tui tawh biakpiakna sungin, an tawh biakpiakna na paipih-te hi. Hih thute' hangin kei lungdam ding ka hi hiam?
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** Upon a lofty and high mountain hast thou set thy bed: even thither wentest thou up to offer sacrifice.
 
-**TDB77:** A lian a sang mual tungah nu-le-pa mawhna na bawl uh a, tua munah biakna pia dingin na paito uh hi.
+**TDB77:** A lian a sang mual tungah nu-le-pa mawhna na bawl-te a, tua munah biakna pia dingin na paito-te hi.
 
-**ZVS:** A lian a sang mual tungah nulepa mawhna na bawl uh a, tua munah biakna pia dingin na paito uh hi.
+**ZVS:** A lian a sang mual tungah nulepa mawhna na bawl-te a, tua munah biakna pia dingin na paito-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v8
 **EN:** Behind the doors also and the posts hast thou set up thy remembrance: for thou hast discovered thyself to another than me, and art gone up; thou hast enlarged thy bed, and made thee a covenant with them; thou lovedst their bed where thou sawest it.
 
-**TDB77:** Kongkhak leh kongkhakmung nungah nangmah in na milimte na suang hi; nang in keimah hong nusia-in, na puante na suah a, nang hong luppih dingin na cialte tawh na lupna zai deda tungah na kahto uh a, tua lai-ah na hukna teng na kamsak hi.
+**TDB77:** Kongkhak leh kongkhakmung nungah nangmah in na milimte na suang hi; nang in keimah hong nusia-in, na puante na suah a, nang hong luppih dingin na cialte tawh na lupna zai deda tungah na kahto-te a, tua lai-ah na hukna teng na kamsak hi.
 
 **ZVS:** Kongkhak leh kongkhakmung nungah nangmah in na milimte na suang hi. Nangmah in kei hong nusia-in na puante na suah a, nang hong luppih dingin na cial mite tawh na lupna zai deda tungah kahto-in, tua lai-ah na hukna teng na kamsak hi.
 
@@ -158,9 +158,9 @@
 ### v17
 **EN:** For the iniquity of his covetousness was I wroth, and smote him: I hid me, and was wroth, and he went on frowardly in the way of his heart.
 
-**TDB77:** Amau’ huaiham-mawhna hangin ka heh a, ka heh lungsim tawh amaute daan pia-in ka mai ka sel hi. Ahih hangin amaute a lungsim khauhin, a gamtat ngei bangun gamta veve uh hi.
+**TDB77:** Amau’ huaiham-mawhna hangin ka heh a, ka heh lungsim tawh amaute daan pia-in ka mai ka sel hi. Ahih hangin amaute a lungsim khauhin, a gamtat ngei bangun gamta veve-te hi.
 
-**ZVS:** Amau' huaiham-mawhna hangin ka heh mahmah a, ka hehna lungsim tawh amaute gim pia-in ka nusia hi. Ahih hangin amaute a lungsim uh khauhin, a gamtat ngei bangun gamta lai veve uh hi.
+**ZVS:** Amau' huaiham-mawhna hangin ka heh mahmah a, ka hehna lungsim tawh amaute gim pia-in ka nusia hi. Ahih hangin amaute a lungsim-te khauhin, a gamtat ngei bangun gamta lai veve-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -185,9 +185,9 @@
 ### v20
 **EN:** But the wicked are like the troubled sea, when it cannot rest, whose waters cast up mire and dirt.
 
-**TDB77:** Ahih hangin mi gilote pen a kilok tuipi tawh kibang uh hi; bang hang hiam cih leh tuipi khawlcip thei lo a, a tuite in buan leh ninte laamto uh hi.
+**TDB77:** Ahih hangin mi gilote pen a kilok tuipi tawh kibang-te hi; bang hang hiam cih leh tuipi khawlcip thei lo a, a tuite in buan leh ninte laamto-te hi.
 
-**ZVS:** Ahih hangin migilote pen a kilok tui tawh kibang uh hi. Bang hang hiam cih leh tuipi khawlcip theilo a, a tuite in buan leh ninte laamto uh hi.
+**ZVS:** Ahih hangin migilote pen a kilok tui tawh kibang-te hi. Bang hang hiam cih leh tuipi khawlcip theilo a, a tuite in buan leh ninte laamto-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

@@ -43,9 +43,9 @@
 ### v3
 **EN:** Yea, he loved the people; all his saints are in thy hand: and they sat down at thy feet; every one shall receive of thy words.
 
-**TDB77:** Hi taktak hi, amah in a mite it a, ama tungah a ki-ap mite khempeuh a khut sungah om hi; tua ahih ciangin amaute in na khephung ah hong kun uh a, nang tung panin lamlahna ngah uh hi.
+**TDB77:** Hi taktak hi, amah in a mite it a, ama tungah a ki-ap mite khempeuh a khut sungah om hi; tua ahih ciangin amaute in na khephung ah hong kun-te a, nang tung panin lamlahna ngah-te hi.
 
-**ZVS:** Hi taktak hi; amah in a mite it a, ama tungah a ki-ap mi khempeuh a khutsungah om hi. Tua ahih ciangin amaute in na kalsuanna hong zui uh a, nang tung panin lamlahna ngah uh hi.
+**ZVS:** Hi taktak hi; amah in a mite it a, ama tungah a ki-ap mi khempeuh a khutsungah om hi. Tua ahih ciangin amaute in na kalsuanna hong zui-te a, nang tung panin lamlahna ngah-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -97,18 +97,18 @@
 ### v9
 **EN:** Who said unto his father and to his mother, I have not seen him; neither did he acknowledge his brethren, nor knew his own children: for they have observed thy word, and kept thy covenant.
 
-**TDB77:** a nu leh a pa sangin nang hong thupi ngaihsut zaw a, ‘Amaute ka thupisim kei hi,’ a ci pa ahi hi; amah in a sanggamte paai khia-in, a tate don lo hi. Bang hang hiam cih leh amaute in na thu mangin, na thuciamna zui uh hi.
+**TDB77:** a nu leh a pa sangin nang hong thupi ngaihsut zaw a, ‘Amaute ka thupisim kei hi,’ a ci pa ahi hi; amah in a sanggamte paai khia-in, a tate don lo hi. Bang hang hiam cih leh amaute in na thu mangin, na thuciamna zui-te hi.
 
-**ZVS:** A nu leh a pa sangin nangmah hong thupi ngaihsutzaw uh a, ‘Amaute ka thupi sim kei hi,’ a cipa ahi hi. Amah in a sanggamte paaikhia-in, a tate donlo hi. Bang hang hiam cih leh Levi minamte in na thu hong mangin, na thuciamna zui uh hi.
+**ZVS:** A nu leh a pa sangin nangmah hong thupi ngaihsutzaw-te a, ‘Amaute ka thupi sim kei hi,’ a cipa ahi hi. Amah in a sanggamte paaikhia-in, a tate donlo hi. Bang hang hiam cih leh Levi minamte in na thu hong mangin, na thuciamna zui-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | negation: lo | plural: uh marker
 
 ### v10
 **EN:** They shall teach Jacob thy judgments, and Israel thy law: they shall put incense before thee, and whole burnt sacrifice upon thine altar.
 
-**TDB77:** Amaute in na ngeina kipte Jakob suante hilhin, na thukhamte Israel hilh ding uh hi; amaute in na mai-ah paknamtui hong koihin, na biakna tau tungah meihal biakna bup hong koih ding uh hi.
+**TDB77:** Amaute in na ngeina kipte Jakob suante hilhin, na thukhamte Israel hilh ding-te hi; amaute in na mai-ah paknamtui hong koihin, na biakna tau tungah meihal biakna bup hong koih ding-te hi.
 
-**ZVS:** Amaute in na ngeina kipte Jakob suante hilhin, na thukhamte Israel-te hilh ding uh hi. Amaute in na mai-ah paknamtui hong koihin, na biakna tau tungah meihal biakna bup hong koih ding uh hi.
+**ZVS:** Amaute in na ngeina kipte Jakob suante hilhin, na thukhamte Israel-te hilh ding-te hi. Amaute in na mai-ah paknamtui hong koihin, na biakna tau tungah meihal biakna bup hong koih ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -175,9 +175,9 @@
 ### v19
 **EN:** They shall call the people unto the mountain; there they shall offer sacrifices of righteousness: for they shall suck of the abundance of the seas, and of treasures hid in the sand.
 
-**TDB77:** Amaute in a mual uhah mite sam ding uh a, amaute in tua lai-ah biak piakna mante pia ding uh hi; bang hang hiam cih leh amaute in tuipi tamna, leh sehnel sunga na manpha kiseelte ngah uh hi,” a ci hi.
+**TDB77:** Amaute in a mual uhah mite sam ding-te a, amaute in tua lai-ah biak piakna mante pia ding-te hi; bang hang hiam cih leh amaute in tuipi tamna, leh sehnel sunga na manpha kiseelte ngah-te hi,” a ci hi.
 
-**ZVS:** Amaute in a mual uhah mite sam ding uh a, amaute in tua lai-ah biakpiakna mante pia ding uh hi. Bang hang hiam cih leh amaute in tuipi tung leh sehnel sungah na manpha kiseelte ngah uh hi,” a ci hi.
+**ZVS:** Amaute in a mual uhah mite sam ding-te a, amaute in tua lai-ah biakpiakna mante pia ding-te hi. Bang hang hiam cih leh amaute in tuipi tung leh sehnel sungah na manpha kiseelte ngah-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -258,16 +258,16 @@
 
 **TDB77:** Tua ahih ciangin lungmuanna sungah Israel bek teeng hi, Jakob’ suante bek, an leh leenggahzu gamah om hi; hi taktak hi, a vantungte in daitui hong khiatsuk hi.
 
-**ZVS:** Tua ahih ciangin Israel mite lungmuangin om ding uh hi. Jakob suante bek an leh leenggahzu gamah om hi. Hi taktak hi, a vantungte in daitui hong khiatsuk hi. Israel aw, mi nuamsa na hi hi. Nang hong kihuhna lum leh na gualzawhna lum leh na gualzawhna namsau ahi { Topa } in nang banga a hotkhiat mi kua om ahi hiam?
+**ZVS:** Tua ahih ciangin Israel mite lungmuangin om ding-te hi. Jakob suante bek an leh leenggahzu gamah om hi. Hi taktak hi, a vantungte in daitui hong khiatsuk hi. Israel aw, mi nuamsa na hi hi. Nang hong kihuhna lum leh na gualzawhna lum leh na gualzawhna namsau ahi { Topa } in nang banga a hotkhiat mi kua om ahi hiam?
 
 **Grammar:** sequence: then/therefore
 
 ### v29
 **EN:** Happy art thou, O Israel: who is like unto thee, O people saved by the
 
-**TDB77:** Israel aw, mi nuamsa na hi hi. Nang hong kihuhna lum, leh na gualzawhna namsau ahi Topa in nang banga, a hotkhiat mi kua om ahi hiam? Na galte in hong mai-etin na kiangah hong pai ding uh a, amau’ pumpi na tuancil ding hi,” a ci hi.
+**TDB77:** Israel aw, mi nuamsa na hi hi. Nang hong kihuhna lum, leh na gualzawhna namsau ahi Topa in nang banga, a hotkhiat mi kua om ahi hiam? Na galte in hong mai-etin na kiangah hong pai ding-te a, amau’ pumpi na tuancil ding hi,” a ci hi.
 
-**ZVS:** Na galte in hong mai-etin, na kiangah hong pai ding uh a, amaute na tuancil ding hi,” a ci hi.
+**ZVS:** Na galte in hong mai-etin, na kiangah hong pai ding-te a, amaute na tuancil ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

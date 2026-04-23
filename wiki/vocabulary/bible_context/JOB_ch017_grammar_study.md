@@ -36,7 +36,7 @@
 
 **TDB77:** Ka heina khempeuh ah mite in hong zahko a, amau’ hong phinna in hong lungzingsak hi.
 
-**ZVS:** Ka heina khempeuhah mite in hong zahko uh a, amau' hong phinna in hong lungzingsak hi.
+**ZVS:** Ka heina khempeuhah mite in hong zahko-te a, amau' hong phinna in hong lungzingsak hi.
 
 ### v3
 **EN:** Lay down now, put me in a surety with thee; who is he that will strike hands with me?
@@ -68,9 +68,9 @@
 ### v6
 **EN:** He hath made me also a byword of the people; and aforetime I was as a tabret.
 
-**TDB77:** “Tu-in amaute in kei tungah hih paunak hong bulh uh a, mite in hih thu za-in kei hong cilpih uh hi.
+**TDB77:** “Tu-in amaute in kei tungah hih paunak hong bulh-te a, mite in hih thu za-in kei hong cilpih-te hi.
 
-**ZVS:** Tu-in amaute in kei tungah hih paunak hong bulh uh a, mite in hih thu za-in kei hong cilphih uh hi.
+**ZVS:** Tu-in amaute in kei tungah hih paunak hong bulh-te a, mite in hih thu za-in kei hong cilphih-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -84,18 +84,18 @@
 ### v8
 **EN:** Upright men shall be astonished at this, and the innocent shall stir up himself against the hypocrite.
 
-**TDB77:** Mi hoih-a kineite in lamdang hong sa uh a, migilo-in kei hong seh uh hi.
+**TDB77:** Mi hoih-a kineite in lamdang hong sa-te a, migilo-in kei hong seh-te hi.
 
-**ZVS:** Mihoihin a kineite in lamdang hong sa uh a, migilo-in kei hong seh uh hi.
+**ZVS:** Mihoihin a kineite in lamdang hong sa-te a, migilo-in kei hong seh-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** The righteous also shall hold on his way, and he that hath clean hands shall be stronger and stronger.
 
-**TDB77:** Mite’ zahtak-a kinei mite in, amau’ ngaihsutna man sa semsem uh hi. Thuman sem mite in thahat semsem ding hi.
+**TDB77:** Mite’ zahtak-a kinei mite in, amau’ ngaihsutna man sa semsem-te hi. Thuman sem mite in thahat semsem ding hi.
 
-**ZVS:** Mite' zahtaka a kinei mite in amau' ngaihsutna uh man mahmah sa semsem uh hi.
+**ZVS:** Mite' zahtaka a kinei mite in amau' ngaihsutna-te man mahmah sa semsem-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -104,7 +104,7 @@
 
 **TDB77:** Ahi zongin amaute khempeuh hong pai-in ka mai-ah hong ding le uh, amaute lakah mipil khat zong ka mu kei ding hi.
 
-**ZVS:** Ahi zongin amaute khempeuh hong pai-in ka mai-ah hong ding le uh amaute' lakah mipil khat zong ka mu kei ding hi.
+**ZVS:** Ahi zongin amaute khempeuh hong pai-in ka mai-ah hong ding le-te amaute' lakah mipil khat zong ka mu kei ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei
 
@@ -118,9 +118,9 @@
 ### v12
 **EN:** They change the night into day: the light is short because of darkness.
 
-**TDB77:** Ka lawmte in, zan khuamial pen sun khuavak, ci uh hi; khuavak hong nai ta hi, ci uh a, ahi zongin khuamial sung mah ah kei ka om lai veve hi.
+**TDB77:** Ka lawmte in, zan khuamial pen sun khuavak, ci-te hi; khuavak hong nai ta hi, ci-te a, ahi zongin khuamial sung mah ah kei ka om lai veve hi.
 
-**ZVS:** Ka lawmte in, khuamial kimlai, sun khuavak, ci uh hi. Khuavak hong nai ta hi, ci-in gen uh a, ahi zongin khuamial sung mahah kei ka omlai veve hi.
+**ZVS:** Ka lawmte in, khuamial kimlai, sun khuavak, ci-te hi. Khuavak hong nai ta hi, ci-in gen-te a, ahi zongin khuamial sung mahah kei ka omlai veve hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -145,9 +145,9 @@
 ### v15
 **EN:** And where is now my hope? as for my hope, who shall see it?
 
-**TDB77:** Kei’ lamet ding tua lai-ah bang om ahi hiam? Ka lamet ding tua lai-ah kua in nong muhsak uh hiam?
+**TDB77:** Kei’ lamet ding tua lai-ah bang om ahi hiam? Ka lamet ding tua lai-ah kua in nong muhsak-te hiam?
 
-**ZVS:** Kei' lamet ding tua lai-ah bang om ahi hiam? Tua lai-ah ka lamet ding bang nong muhsak uh hiam?
+**ZVS:** Kei' lamet ding tua lai-ah bang om ahi hiam? Tua lai-ah ka lamet ding bang nong muhsak-te hiam?
 
 ### v16
 **EN:** They shall go down to the bars of the pit, when our rest together is in the dust.

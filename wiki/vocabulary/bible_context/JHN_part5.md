@@ -12,7 +12,7 @@
 
 ### ngahna = source/origin
 **Context:** Used to describe knowing where the wine came from.
-**Example:** tua leenggahtui ngahna a theih uh hangin...
+**Example:** tua leenggahtui ngahna a theih-te hangin...
 
 ### zinei tangvalpa = bridegroom
 **Context:** The person who is getting married, called by the governor of the feast.
@@ -20,11 +20,11 @@
 
 ### khumte = best/finest (things)
 **Context:** Used to describe the good wine that is usually served first.
-**Example:** leenggahzu khumte hawm masakin nei uh a,
+**Example:** leenggahzu khumte hawm masakin nei-te a,
 
 ### khamgawp = drunk well/satisfied (with drinking)
 **Context:** When people have drunk enough of the initial wine.
-**Example:** mite in a khamgawp khit uh ciangin...
+**Example:** mite in a khamgawp khit-te ciangin...
 
 ### sitlai = kept/reserved
 **Context:** Used to describe keeping the best wine until the end.
@@ -36,7 +36,7 @@
 
 ### tawmkhat = a short time/a few days
 **Context:** Describing the duration of their stay in Capernaum.
-**Example:** tua lai-ah ni tawmkhat a taam uh hi.
+**Example:** tua lai-ah ni tawmkhat a taam-te hi.
 
 ### Paisan Pawi = Passover Feast
 **Context:** The Jewish festival mentioned in the text.
@@ -60,7 +60,7 @@
 
 ### paimangpih = take away/remove
 **Context:** Jesus telling those selling doves to take them away.
-**Example:** Na kawl vakhute uh hih lai panin paikhiatpih un.
+**Example:** Na kawl vakhute-te hih lai panin paikhiatpih un.
 
 ### phualpi = place of business/market
 **Context:** Jesus telling them not to make his Father's house a marketplace.
@@ -72,7 +72,7 @@
 
 ### kigelhna thu = that which is written (Scripture)
 **Context:** The disciples remembering the written prophecy.
-**Example:** Lai Siangtho sungah a kigelhna thu, a nungzuite in a phawk uh hi.
+**Example:** Lai Siangtho sungah a kigelhna thu, a nungzuite in a phawk-te hi.
 
 ### lim = sign/proof/authority
 **Context:** The Jews asking Jesus for a sign to prove his authority.
@@ -80,7 +80,7 @@
 
 ### susia = destroy/tear down
 **Context:** Jesus referring to the destruction of the temple.
-**Example:** Hih biakinn susia le uh cin ni thum sungin ka dingsak kik ding hi,”
+**Example:** Hih biakinn susia le-te cin ni thum sungin ka dingsak kik ding hi,”
 
 ### tawntung kilam = has been built/constructed over a long time
 **Context:** The Jews stating how long the temple took to build.
@@ -103,7 +103,7 @@
 - **leenggahtui hoihte hawm masa-in** = serve the good wine first
   - Usage: Used to describe the custom of serving the best wine at the beginning of a feast.
 
-- **a kham khit uh ciangin** = after they have drunk well/become satisfied
+- **a kham khit-te ciangin** = after they have drunk well/become satisfied
   - Usage: Indicates the point when guests are no longer sober or discerning.
 
 - **a hoih leenggahtui tudongin na koihcing hi** = you have kept the good wine until now
@@ -133,12 +133,12 @@
 
 - **X in Y a muh ciangin; Z a bawl hi.**
   - Structure showing action taken immediately upon observation: 'When X saw Y, he did Z.'
-  - Example: bawngte, tuute, vakhute a zuakte leh sumkheekte tu-a om uh a muh ciangin; a sat nading khautep a bawl khit ciangin...
+  - Example: bawngte, tuute, vakhute a zuakte leh sumkheekte tu-a om-te a muh ciangin; a sat nading khautep a bawl khit ciangin...
 
 - **Hih nate na paimangpih un. Ka Pa’ inn sumzuakna inn na suaksak kei un.**
   - Imperative commands using the suffix '-un' (let/do it) and negative imperative '-kei un' (do not do it).
   - Example: Hih nate na paimangpih un. Ka Pa’ inn sumzuakna inn na suaksak kei un,”
 
-- **Tua ahih ciangin, [Subject] in [Question] a ci uh hi.**
+- **Tua ahih ciangin, [Subject] in [Question] a ci-te hi.**
   - Structure indicating a reaction or response following a preceding event: 'Because of that, [Subject] asked [Question].'
-  - Example: Tua ahih ciangin Judah mite in, “Nang in hih bang na hihna tawh bang nalamdang hong lak na hi hiam?” a ci uh hi.
+  - Example: Tua ahih ciangin Judah mite in, “Nang in hih bang na hihna tawh bang nalamdang hong lak na hi hiam?” a ci-te hi.

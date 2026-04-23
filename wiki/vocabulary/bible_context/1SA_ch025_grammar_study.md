@@ -29,9 +29,9 @@
 ### v1
 **EN:** And Samuel died; and all the Israelites were gathered together, and lamented him, and buried him in his house at Ramah. And David arose, and went down to the wilderness of Paran.
 
-**TDB77:** Tu-in Samuel si hi; Israelte kikhawmin ama hangin kap uh a, amaute in Ramah-a om ama innah amah vui uh hi. Tua ciangin David ding-in Paran gamlakah paisuk hi.
+**TDB77:** Tu-in Samuel si hi; Israelte kikhawmin ama hangin kap-te a, amaute in Ramah-a om ama innah amah vui-te hi. Tua ciangin David ding-in Paran gamlakah paisuk hi.
 
-**ZVS:** Tu-in Samuel si a, Israel--te khempeuh kikhawmin ama hangin kap uh a, amaute in Ramah-a a inn-ah amah a vui uh hi. Tua ciangin Paran gamlakah David paisuk hi.
+**ZVS:** Tu-in Samuel si a, Israel--te khempeuh kikhawmin ama hangin kap-te a, amaute in Ramah-a a inn-ah amah a vui-te hi. Tua ciangin Paran gamlakah David paisuk hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -72,36 +72,36 @@
 ### v6
 **EN:** And thus shall ye say to him that liveth in prosperity, Peace be both to thee, and peace be to thine house, and peace be unto all that thou hast.
 
-**TDB77:** Hih bangin amah na hopih ding uh hi: ‘Nang tungah nopna om ta hen, na innkuan tungah nopna om ta hen, na neih khempeuh tungah nopna om ta hen,
+**TDB77:** Hih bangin amah na hopih ding-te hi: ‘Nang tungah nopna om ta hen, na innkuan tungah nopna om ta hen, na neih khempeuh tungah nopna om ta hen,
 
-**ZVS:** Hih bangin amah na hopih ding uh hi: ‘Nang tungah nopna om ta hen, na innkuan tungah nopna om ta hen, na neih khempeuh tungah zong nopna om ta hen.
+**ZVS:** Hih bangin amah na hopih ding-te hi: ‘Nang tungah nopna om ta hen, na innkuan tungah nopna om ta hen, na neih khempeuh tungah zong nopna om ta hen.
 
 **Grammar:** optative: let there be / let it be | future: will | plural: uh marker
 
 ### v7
 **EN:** And now I have heard that thou hast shearers: now thy shepherds which were with us, we hurt them not, neither was there ought missing unto them, all the while they were in Carmel.
 
-**TDB77:** Ganmul mette na neihna ka za hi; tu-in na tuucingte kote tawh omin amaute tungah siatna ka bawl kei uh a, Karmel ah a om sung teng uh amaute in bangmah man’suah lo uh hi.
+**TDB77:** Ganmul mette na neihna ka za hi; tu-in na tuucingte kote tawh omin amaute tungah siatna ka bawl kei-te a, Karmel ah a om sung teng-te amaute in bangmah man’suah lo-te hi.
 
-**ZVS:** Gan mul meette na neihna ka za hi. Na tuucingte kote tawh omin amaute tungah siatna ka bawl kei uh a, Karmel-ah a om sungteng uh amaute in bangmah man'suahlo uh hi.
+**ZVS:** Gan mul meette na neihna ka za hi. Na tuucingte kote tawh omin amaute tungah siatna ka bawl kei-te a, Karmel-ah a om sungteng-te amaute in bangmah man'suahlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v8
 **EN:** Ask thy young men, and they will shew thee. Wherefore let the young men find favour in thine eyes: for we come in a good day: give, I pray thee, whatsoever cometh to thine hand unto thy servants, and to thy son David.
 
-**TDB77:** Na tangvalte uh dong in, amaute in nang kiangah hong gen ding uh hi. Tua ahih ciangin na mai-ah ka tangvalte maipha musak in; bang hang hiam cih leh pawi ni-in kong pai uh hi. Na khut sungah na neih peuhpeuh na nasemte leh na tapa David tungah pia in,’ ci un,” a ci hi.
+**TDB77:** Na tangvalte-te dong in, amaute in nang kiangah hong gen ding-te hi. Tua ahih ciangin na mai-ah ka tangvalte maipha musak in; bang hang hiam cih leh pawi ni-in kong pai-te hi. Na khut sungah na neih peuhpeuh na nasemte leh na tapa David tungah pia in,’ ci un,” a ci hi.
 
-**ZVS:** Na tangvalte uh dong lecin amaute in nang kiangah hong genthei ding uh hi. Tua ahih ciangin ka tangvalte maipha na musak in; bang hang hiam cih leh pawi ni-in kong pai uh hi. Na neih sung pan nong piak theih peuhpeuh na nasemte leh na tapa David tungah pia in,’ ci un,” a ci hi.
+**ZVS:** Na tangvalte-te dong lecin amaute in nang kiangah hong genthei ding-te hi. Tua ahih ciangin ka tangvalte maipha na musak in; bang hang hiam cih leh pawi ni-in kong pai-te hi. Na neih sung pan nong piak theih peuhpeuh na nasemte leh na tapa David tungah pia in,’ ci un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And when David's young men came, they spake to Nabal according to all those words in the name of David, and ceased.
 
-**TDB77:** David tangvalte hong tun’ ciangin amaute in hih thu khempeuh David minin Nabal kiangah gen uh hi; tua ciangin amaute in ngak uh hi.
+**TDB77:** David tangvalte hong tun’ ciangin amaute in hih thu khempeuh David minin Nabal kiangah gen-te hi; tua ciangin amaute in ngak-te hi.
 
-**ZVS:** Tangvalte hong tun' ciangin amaute in hih thu khempeuh David' minin Nabal kiangah gen uh a, tua ciangin amaute in ngak uh hi.
+**ZVS:** Tangvalte hong tun' ciangin amaute in hih thu khempeuh David' minin Nabal kiangah gen-te a, tua ciangin amaute in ngak-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -126,45 +126,45 @@
 ### v12
 **EN:** So David's young men turned their way, and went again, and came and told him all those sayings.
 
-**TDB77:** Tua ahih ciangin David’ tangvalte kihei a, ciah kikin hih thu khempeuh ama kiangah gen uh hi.
+**TDB77:** Tua ahih ciangin David’ tangvalte kihei a, ciah kikin hih thu khempeuh ama kiangah gen-te hi.
 
-**ZVS:** Tua ahih ciangin David' tangvalte ciahkikin hih thu khempeuh ama kiangah a gen uh hi.
+**ZVS:** Tua ahih ciangin David' tangvalte ciahkikin hih thu khempeuh ama kiangah a gen-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And David said unto his men, Gird ye on every man his sword. And they girded on every man his sword; and David also girded on his sword: and there went up after David about four hundred men; and two hundred abode by the stuff.
 
-**TDB77:** Tua ciangin David in ama mite kiangah, “Mi khempeuh in na namsau uh kuah ciat un!” a ci hi. Amaute khempeuh in a namsau uh kuah uh hi; David in zong a namsau kuah hi; mihing zali bang David nungah paito uh a, mihing zanihte van tawh om uh hi.
+**TDB77:** Tua ciangin David in ama mite kiangah, “Mi khempeuh in na namsau-te kuah ciat un!” a ci hi. Amaute khempeuh in a namsau-te kuah-te hi; David in zong a namsau kuah hi; mihing zali bang David nungah paito-te a, mihing zanihte van tawh om-te hi.
 
-**ZVS:** David in a mite kiangah, “Mi khempeuh in na namsau uh kuah ciat un!” a ci hi. Amaute khempeuh in a namsau uh kuah uh a, David in zong a namsau a kuah hi. Mihing za li bang David' nungah paito uh a, mihing za nihte van ngakin om uh hi.
+**ZVS:** David in a mite kiangah, “Mi khempeuh in na namsau-te kuah ciat un!” a ci hi. Amaute khempeuh in a namsau-te kuah-te a, David in zong a namsau a kuah hi. Mihing za li bang David' nungah paito-te a, mihing za nihte van ngakin om-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** But one of the young men told Abigail, Nabal's wife, saying, Behold, David sent messengers out of the wilderness to salute our master; and he railed on them.
 
-**TDB77:** Ahih hangin Nabal nasem tangvalte khat in Nabal’ zi Abigail kiangah genin, “En in, ka topa uh a hopih dingin gamlak panin David in a kamtaite hong sawlkhia hi; amah in amaute na tai hi.
+**TDB77:** Ahih hangin Nabal nasem tangvalte khat in Nabal’ zi Abigail kiangah genin, “En in, ka topa-te a hopih dingin gamlak panin David in a kamtaite hong sawlkhia hi; amah in amaute na tai hi.
 
-**ZVS:** Ahih hangin Nabal' nasem tangvalte khat in Nabal' zi Abigail kiangah thu genin, “En in, ka topa uh a hopih dingin gamlak panin David in kamtaite hong paisak a, amah in amaute na tai hi.
+**ZVS:** Ahih hangin Nabal' nasem tangvalte khat in Nabal' zi Abigail kiangah thu genin, “En in, ka topa-te a hopih dingin gamlak panin David in kamtaite hong paisak a, amah in amaute na tai hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** But the men were very good unto us, and we were not hurt, neither missed we any thing, as long as we were conversant with them, when we were in the fields:
 
-**TDB77:** Ahi zongin kote tungah tua mite hoih mahmahin kote in siatna ka thuak kei uh a, amaute tawh ka pai lai teng uh gamlakah ka om sungun bangmah ka man’suah kei uh hi;
+**TDB77:** Ahi zongin kote tungah tua mite hoih mahmahin kote in siatna ka thuak kei-te a, amaute tawh ka pai lai teng-te gamlakah ka om sungun bangmah ka man’suah kei-te hi;
 
-**ZVS:** Ahi zongin kote tungah tua mite hoih mahmahin kote in siatna ka thuak kei uh a, amaute tawh ka pai laiteng uh gamlakah ka om sungun bangmah ka man'suah kei uh hi.
+**ZVS:** Ahi zongin kote tungah tua mite hoih mahmahin kote in siatna ka thuak kei-te a, amaute tawh ka pai laiteng-te gamlakah ka om sungun bangmah ka man'suah kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v16
 **EN:** They were a wall unto us both by night and day, all the while we were with them keeping the sheep.
 
-**TDB77:** tuute kemin amaute tawh ka om sung khempeuh uh kote adingin sun leh zanin amaute in kulhpi ahi hi.
+**TDB77:** tuute kemin amaute tawh ka om sung khempeuh-te kote adingin sun leh zanin amaute in kulhpi ahi hi.
 
-**ZVS:** Tuute kemin amaute tawh ka omsung khempeuh uh sun leh zanin amaute in kote hong hu uh hi.
+**ZVS:** Tuute kemin amaute tawh ka omsung khempeuh-te sun leh zanin amaute in kote hong hu-te hi.
 
 **Grammar:** purpose: in order to
 
@@ -198,9 +198,9 @@
 ### v20
 **EN:** And it was so, as she rode on the ass, that she came down by the covert of the hill, and, behold, David and his men came down against her; and she met them.
 
-**TDB77:** Amah la tungah tuangin mual liah-ah a paisuk lai takin, en in, David leh a mite ama lamah hong paisuk uh hi; amah in amaute dawn hi.
+**TDB77:** Amah la tungah tuangin mual liah-ah a paisuk lai takin, en in, David leh a mite ama lamah hong paisuk-te hi; amah in amaute dawn hi.
 
-**ZVS:** Amah la tungah tuangin mual liahah a paisuk laitakin, en in, David leh a mite ama lamah hong paisuk uh hi; amah in amaute na dawn hi.
+**ZVS:** Amah la tungah tuangin mual liahah a paisuk laitakin, en in, David leh a mite ama lamah hong paisuk-te hi; amah in amaute na dawn hi.
 
 **Grammar:** plural: uh marker
 
@@ -376,9 +376,9 @@
 ### v40
 **EN:** And when the servants of David were come to Abigail to Carmel, they spake unto her, saying, David sent us unto thee, to take thee to him to wife.
 
-**TDB77:** David’ nasemte Karmel-a Abigail kiang a tun’ uh ciangin amaute in tua nu kiangah, “David in amah zi dingin a la dingin kote nang kiangah hong sawl hi,” a ci uh hi.
+**TDB77:** David’ nasemte Karmel-a Abigail kiang a tun’ uh ciangin amaute in tua nu kiangah, “David in amah zi dingin a la dingin kote nang kiangah hong sawl hi,” a ci-te hi.
 
-**ZVS:** David' nasemte Karmel-a Abigail' kiang a tun' ciangin amaute in tuanu kiangah, “David in ama zi dingin a la dingin kote nang kiangah hong sawl hi,” a ci uh hi.
+**ZVS:** David' nasemte Karmel-a Abigail' kiang a tun' ciangin amaute in tuanu kiangah, “David in ama zi dingin a la dingin kote nang kiangah hong sawl hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -387,7 +387,7 @@
 
 **TDB77:** Tua ciangin amah ding-in lei-ah a mai kun a, “En un, na nasemnu in ka topa’ nasemte’ khe a silsak ding nasem ahi hi,” a ci hi.
 
-**ZVS:** Tua ciangin amah dingin lei-ah maikun a, “En un, na nasemnu uh ka topa' nasemte' khe a silsak ding nasem ahi hi,” a ci hi.
+**ZVS:** Tua ciangin amah dingin lei-ah maikun a, “En un, na nasemnu-te ka topa' nasemte' khe a silsak ding nasem ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then)
 
@@ -403,9 +403,9 @@
 ### v43
 **EN:** David also took Ahinoam of Jezreel; and they were also both of them his wives.
 
-**TDB77:** David in Jezre-el khuami Ahinoam zong la hi; amau tegel ama zi suak uh hi.
+**TDB77:** David in Jezre-el khuami Ahinoam zong la hi; amau tegel ama zi suak-te hi.
 
-**ZVS:** David in Jezreel khuami Ahinoam zong la a, amaute gel ama zi a suak uh hi.
+**ZVS:** David in Jezreel khuami Ahinoam zong la a, amaute gel ama zi a suak-te hi.
 
 **Grammar:** plural: uh marker
 

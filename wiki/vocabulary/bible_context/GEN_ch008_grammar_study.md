@@ -180,9 +180,9 @@
 ### v19
 **EN:** Every beast, every creeping thing, and every fowl, and whatsoever creepeth upon the earth, after their kinds, went forth out of the ark.
 
-**TDB77:** Ganhing khempeuh, a bokvak khempeuh, vasa khempeuh, leitunga a gamtang khempeuh a innkuan kuanin teembaw panin paikhia uh hi.
+**TDB77:** Ganhing khempeuh, a bokvak khempeuh, vasa khempeuh, leitunga a gamtang khempeuh a innkuan kuanin teembaw panin paikhia-te hi.
 
-**ZVS:** Ganhing khempeuh, a bokvak khempeuh, vasa khempeuh, leitunga a gamtang khempeuh a innkuan kuanin teembaw panin a paikhia uh hi.
+**ZVS:** Ganhing khempeuh, a bokvak khempeuh, vasa khempeuh, leitunga a gamtang khempeuh a innkuan kuanin teembaw panin a paikhia-te hi.
 
 **Grammar:** plural: uh marker
 

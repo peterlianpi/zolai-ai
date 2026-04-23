@@ -31,9 +31,9 @@
 ### v2
 **EN:** In the place where they kill the burnt offering shall they kill the trespass offering: and the blood thereof shall he sprinkle round about upon the altar.
 
-**TDB77:** amaute in meihal biakna a gawhna mun uhah mawhna hanga biakna go ding uh a, biakna tau tung kimkotah a si kitheh ding hi.
+**TDB77:** amaute in meihal biakna a gawhna mun uhah mawhna hanga biakna go ding-te a, biakna tau tung kimkotah a si kitheh ding hi.
 
-**ZVS:** Amaute in meihal biakna a gawhna mun uhah mawhna hanga biakna go ding uh a, biakna tau kimkotah a si kitheh ding hi.
+**ZVS:** Amaute in meihal biakna a gawhna mun uhah mawhna hanga biakna go ding-te a, biakna tau kimkotah a si kitheh ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -69,7 +69,7 @@
 
 **TDB77:** Siampite lakah pasal peuhmah in ne thei ding hi; a siangtho mun khatah kine ding hi; tua in a siangthopen ahi hi.
 
-**ZVS:** Siampite lakah pasal peuhmah in a siangtho mun khatah ne thei ding uh hi; tua in a siangtho pen ahi hi.
+**ZVS:** Siampite lakah pasal peuhmah in a siangtho mun khatah ne thei ding-te hi; tua in a siangtho pen ahi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -103,9 +103,9 @@
 ### v10
 **EN:** And every meat offering, mingled with oil, and dry, shall all the sons of Aaron have, one as much as another.
 
-**TDB77:** An tawh biakna khempeuh, sathau a kihel hita leh a kihel lo hita leh, Aaron’ suan khempeuh in a kikim-in hawm ding uh hi.
+**TDB77:** An tawh biakna khempeuh, sathau a kihel hita leh a kihel lo hita leh, Aaron’ suan khempeuh in a kikim-in hawm ding-te hi.
 
-**ZVS:** An tawh biakna khempeuh, sathau a kihel hita leh a kihello hita leh, Aaron' suan khempeuh in a kikimin hawm ding uh hi.
+**ZVS:** An tawh biakna khempeuh, sathau a kihel hita leh a kihello hita leh, Aaron' suan khempeuh in a kikimin hawm ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -182,9 +182,9 @@
 ### v19
 **EN:** And the flesh that toucheth any unclean thing shall not be eaten; it shall be burnt with fire: and as for the flesh, all that be clean shall eat thereof.
 
-**TDB77:** “A nin na khatpeuh peuh tawh a kisawh kha sa kine lo ding hi; mei tawh kihal ding hi; a siang mi khempeuh in a sa ne thei ding uh a,
+**TDB77:** “A nin na khatpeuh peuh tawh a kisawh kha sa kine lo ding hi; mei tawh kihal ding hi; a siang mi khempeuh in a sa ne thei ding-te a,
 
-**ZVS:** “A nin na khat peuhpeuh tawh a kisawhkha sa kinelo ding a, mei tawh kihal ding hi. Ahi zongin a siang mi khempeuh in a sa ne thei ding uh hi.
+**ZVS:** “A nin na khat peuhpeuh tawh a kisawhkha sa kinelo ding a, mei tawh kihal ding hi. Ahi zongin a siang mi khempeuh in a sa ne thei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -218,16 +218,16 @@
 ### v23
 **EN:** Speak unto the children of Israel, saying, Ye shall eat no manner of fat, of ox, or of sheep, or of goat.
 
-**TDB77:** “Israel mite tungah hih bangin gen in: Note in bawngtal ahi a, tuu ahi a, keel ahi zongin a thau na ne kei ding uh hi.
+**TDB77:** “Israel mite tungah hih bangin gen in: Note in bawngtal ahi a, tuu ahi a, keel ahi zongin a thau na ne kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v24
 **EN:** And the fat of the beast that dieth of itself, and the fat of that which is torn with beasts, may be used in any other use: but ye shall in no wise eat of it.
 
-**TDB77:** A mawk sih ganhing thau leh gamsate in a balgawp ganhing thaute na dangin kizang thei ding a, ahih hangin bangbang hita leh na ne kei ding uh hi.
+**TDB77:** A mawk sih ganhing thau leh gamsate in a balgawp ganhing thaute na dangin kizang thei ding a, ahih hangin bangbang hita leh na ne kei ding-te hi.
 
-**ZVS:** A mawk sih ganhing thau leh gamsate in a balgawp ganhing thaute, nadangin kizang thei ding a, ahih hangin bangbang hi leh na ne kei ding uh hi.
+**ZVS:** A mawk sih ganhing thau leh gamsate in a balgawp ganhing thaute, nadangin kizang thei ding a, ahih hangin bangbang hi leh na ne kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -243,9 +243,9 @@
 ### v26
 **EN:** Moreover ye shall eat no manner of blood, whether it be of fowl or of beast, in any of your dwellings.
 
-**TDB77:** Tua tham loin note in na ten’na uh mun khatpeuh peuh ah vasa namte’ aa hita leh ganhingte’ aa hita leh a sisan peuhmah na ne kei ding uh hi.
+**TDB77:** Tua tham loin note in na ten’na-te mun khatpeuh peuh ah vasa namte’ aa hita leh ganhingte’ aa hita leh a sisan peuhmah na ne kei ding-te hi.
 
-**ZVS:** Tua thamloin note in na ten'na uh mun khat peuhpeuhah vasa sisan hita leh ganhing sisan hita leh si peuhmah na ne kei ding uh hi.
+**ZVS:** Tua thamloin note in na ten'na-te mun khat peuhpeuhah vasa sisan hita leh ganhing sisan hita leh si peuhmah na ne kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -297,9 +297,9 @@
 ### v32
 **EN:** And the right shoulder shall ye give unto the priest for an heave offering of the sacrifices of your peace offerings.
 
-**TDB77:** Thunuam-a biakpiakna panin biakna-in siampipa tungah a taklam phei na pia ding uh hi;
+**TDB77:** Thunuam-a biakpiakna panin biakna-in siampipa tungah a taklam phei na pia ding-te hi;
 
-**ZVS:** Thunuama na biakpiakna panin biakna-in siampipa tungah a taklam phei na pia ding uh hi.
+**ZVS:** Thunuama na biakpiakna panin biakna-in siampipa tungah a taklam phei na pia ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 

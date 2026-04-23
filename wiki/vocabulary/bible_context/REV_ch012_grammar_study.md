@@ -79,16 +79,16 @@
 ### v7
 **EN:** And there was war in heaven: Michael and his angels fought against the dragon; and the dragon fought and his angels,
 
-**TDB77:** Tua ciangin vantungah galkido-in, Mikhael leh ama vantungmite in gulpi tawh a kido uh hi. Gulpi leh a nungzuite in a do uh a,
+**TDB77:** Tua ciangin vantungah galkido-in, Mikhael leh ama vantungmite in gulpi tawh a kido-te hi. Gulpi leh a nungzuite in a do-te a,
 
-**ZVS:** Tu-in vantungah galkidona hong om a, Mikhael leh a vantung mite in gulpi leh a vantung mite a do uh hi.
+**ZVS:** Tu-in vantungah galkidona hong om a, Mikhael leh a vantung mite in gulpi leh a vantung mite a do-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And prevailed not; neither was their place found any more in heaven.
 
-**TDB77:** A guallelh uh ciangin amaute in vantungah a om thei nawn kei uh hi.
+**TDB77:** A guallelh-te ciangin amaute in vantungah a om thei nawn kei-te hi.
 
 **ZVS:** Ahi zongin tua gulpi guallel ahih manin tua gulpi leh a vantung mite, vantungah kiom sak nawnlo hi.
 
@@ -115,16 +115,16 @@
 ### v11
 **EN:** And they overcame him by the blood of the Lamb, and by the word of their testimony; and they loved not their lives unto the death.
 
-**TDB77:** Amaute in Tuuno’ sisan hangin ahi zongin, amaute teci pan’ na hangin ahi zongin zoin, sihna thuak dongin a nuntakna uh haza lo uh hi.
+**TDB77:** Amaute in Tuuno’ sisan hangin ahi zongin, amaute teci pan’ na hangin ahi zongin zoin, sihna thuak dongin a nuntakna-te haza lo-te hi.
 
-**ZVS:** I sanggamte in Tuuno sisan leh thuman a genna uh tawh amah na zo uh a, a nuntakna nangawn uh na pia ngam uh hi.
+**ZVS:** I sanggamte in Tuuno sisan leh thuman a genna-te tawh amah na zo-te a, a nuntakna nangawn-te na pia ngam-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v12
 **EN:** Therefore rejoice, ye heavens, and ye that dwell in them. Woe to the inhabiters of the earth and of the sea! for the devil is come down unto you, having great wrath, because he knoweth that he hath but a short time.
 
-**TDB77:** Tua ahih ciangin vantungte leh vantungah a omte aw, nuam un! Leitung leh tuipi ahih uh leh, lunggimna a om hi. Bang hang hiam na cih uh leh, Dawimangpa in hun tomkha bek ngah lai ahih thei-in, thangpaai mahmahin note omna-ah a paisuk zo hi!” ci-in a gen aw ka za hi.
+**TDB77:** Tua ahih ciangin vantungte leh vantungah a omte aw, nuam un! Leitung leh tuipi ahih-te leh, lunggimna a om hi. Bang hang hiam na cih-te leh, Dawimangpa in hun tomkha bek ngah lai ahih thei-in, thangpaai mahmahin note omna-ah a paisuk zo hi!” ci-in a gen aw ka za hi.
 
 **ZVS:** Tua ahih manin vantungte leh tuate sungah a teng mi khempeuh aw, lungdam un! Ahi zongin vantung panin Dawimangpa hong kilawnkhia suk a, hun tomno bek a neilai ahihlam thei ahih manin leitung leh tui tungah a omte-a' dingin lauhuai mahmah ding hi,” hong ci hi.
 

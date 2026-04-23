@@ -43,9 +43,9 @@
 ### v3
 **EN:** The pride of thine heart hath deceived thee, thou that dwellest in the clefts of the rock, whose habitation is high; that saith in his heart, Who shall bring me down to the ground?
 
-**TDB77:** Na lungsim kiphatsakna un note a hong khem zo hi. Note in suang kulhpi beelin, mual dawnah na teen manun, “kua in a hong kiasak zo ding hiam?” ci-in na ngaihsun uh hi.
+**TDB77:** Na lungsim kiphatsakna un note a hong khem zo hi. Note in suang kulhpi beelin, mual dawnah na teen manun, “kua in a hong kiasak zo ding hiam?” ci-in na ngaihsun-te hi.
 
-**ZVS:** Na lungsim kiphatsakna un note a hong khemzo hi. Note in suang kulhpi beelin mual dawnah na ten' manun, “Kua in eite hong puksakzo ding ahi hiam?” ci-in na ngaihsun uh hi.
+**ZVS:** Na lungsim kiphatsakna un note a hong khemzo hi. Note in suang kulhpi beelin mual dawnah na ten' manun, “Kua in eite hong puksakzo ding ahi hiam?” ci-in na ngaihsun-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -61,9 +61,9 @@
 ### v5
 **EN:** If thieves came to thee, if robbers by night, (how art thou cut off!) would they not have stolen till they had enough? if the grapegatherers came to thee, would they not leave some grapes?
 
-**TDB77:** Zan-in na kiangah gutate leh misuamte a hong pai a, supna tampi na thuak hangin; a deih teng bek hong guksak ding hilo ahi hiam? Lenggah late na kiangah a hong pai leh a sanghte nusia lai teei uh hilo ahi hiam?
+**TDB77:** Zan-in na kiangah gutate leh misuamte a hong pai a, supna tampi na thuak hangin; a deih teng bek hong guksak ding hilo ahi hiam? Lenggah late na kiangah a hong pai leh a sanghte nusia lai teei-te hilo ahi hiam?
 
-**ZVS:** Zanin na kiangah gutate leh misuamte hong pai-in supna tampi na thuak hangin a deihteng bek uh hong guksak ding hilo ahi hiam? Leenggah late in lolai-ah a sangte nusia laitei hilo ahi uh hiam?
+**ZVS:** Zanin na kiangah gutate leh misuamte hong pai-in supna tampi na thuak hangin a deihteng bek-te hong guksak ding hilo ahi hiam? Leenggah late in lolai-ah a sangte nusia laitei hilo ahi-te hiam?
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -79,9 +79,9 @@
 ### v7
 **EN:** All the men of thy confederacy have brought thee even to the border: the men that were at peace with thee have deceived thee, and prevailed against thee; they that eat thy bread have laid a wound under thee: there is none understanding in him.
 
-**TDB77:** Na pawl teng in hong khem zo uh a, gamgi ciang dong a hong hawlkhia zo uh hi; na pawlte teng in a hong zo khin ta hi. Na ankuang umpihte in na nuai-ah thang siah khin uh a, “A pilna koi-ah a om hiam?” a hong ci uh hi.
+**TDB77:** Na pawl teng in hong khem zo-te a, gamgi ciang dong a hong hawlkhia zo-te hi; na pawlte teng in a hong zo khin ta hi. Na ankuang umpihte in na nuai-ah thang siah khin-te a, “A pilna koi-ah a om hiam?” a hong ci-te hi.
 
-**ZVS:** Na pawl teng in nang hong khemzo uh a, gamgi ciangdong hong hawlkhiazo uh a, na pawl teng in a hong zo khinta uh hi. Na ankuang umpihte in na nuai-ah thang hong siah khin uh a, “A pilna koi-ah om ahi hiam?” a hong ci uh hi.
+**ZVS:** Na pawl teng in nang hong khemzo-te a, gamgi ciangdong hong hawlkhiazo-te a, na pawl teng in a hong zo khinta-te hi. Na ankuang umpihte in na nuai-ah thang hong siah khin-te a, “A pilna koi-ah om ahi hiam?” a hong ci-te hi.
 
 **Grammar:** quotative: said/saying | completed: already done | plural: uh marker
 
@@ -97,9 +97,9 @@
 ### v9
 **EN:** And thy mighty men, O Teman, shall be dismayed, to the end that every one of the mount of Esau may be cut off by slaughter.
 
-**TDB77:** Teman khua aw, Esau mual ah mi khempeuh a kithahlup khit nadingin, na galhangte a thanem ding uh hi.
+**TDB77:** Teman khua aw, Esau mual ah mi khempeuh a kithahlup khit nadingin, na galhangte a thanem ding-te hi.
 
-**ZVS:** Teman khua aw, Esau' gamah mi khempeuh a kithahlup khitna dingin na galhangte a meidawi ding uh hi.
+**ZVS:** Teman khua aw, Esau' gamah mi khempeuh a kithahlup khitna dingin na galhangte a meidawi ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -126,23 +126,23 @@
 
 **TDB77:** Na sanggamte a tuahsiat ni-un munuam dah hoh un. Judah mite a kisiat ni-un nuam kei un. A kisiat ni-un lungdam kei un. A cihmawh ni-un nuihsan kei un.
 
-**ZVS:** Na sanggamte uh a tuahsiat ni-in mu nuam dah hoh un. Judah mite a kisiat ni-in lungdamin nuam kei un. A kisiat ni-in lungdam kei un. A cihmawh ni-in nuihsan kei un.
+**ZVS:** Na sanggamte-te a tuahsiat ni-in mu nuam dah hoh un. Judah mite a kisiat ni-in lungdamin nuam kei un. A kisiat ni-in lungdam kei un. A cihmawh ni-in nuihsan kei un.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v13
 **EN:** Thou shouldest not have entered into the gate of my people in the day of their calamity; yea, thou shouldest not have looked on their affliction in the day of their calamity, nor have laid hands on their substance in the day of their calamity;
 
-**TDB77:** Ka mite in haksatna a tuah ni-un a kongpi sungah tum kei un. A tuahsiat ni-un a thuaknate uh munuam kei un. A tuahsiat ni-un a sum a paite laksak kei un.
+**TDB77:** Ka mite in haksatna a tuah ni-un a kongpi sungah tum kei un. A tuahsiat ni-un a thuaknate-te munuam kei un. A tuahsiat ni-un a sum a paite laksak kei un.
 
-**ZVS:** Ka mite in haksatna a tuah ni-in a kongpi sungah tum kei un. A tuahsiat ni-in a thuaknate uh mu nuam kei un. A tuahsiat ni-in a sum a paite uh laksak kei un.
+**ZVS:** Ka mite in haksatna a tuah ni-in a kongpi sungah tum kei un. A tuahsiat ni-in a thuaknate-te mu nuam kei un. A tuahsiat ni-in a sum a paite-te laksak kei un.
 
 ### v14
 **EN:** Neither shouldest thou have stood in the crossway, to cut off those of his that did escape; neither shouldest thou have delivered up those of his that did remain in the day of distress.
 
 **TDB77:** A suakta sunte khaktan dingin lamka lai-ah na ding kei ding hi. A cihmawh ni-a a hing lai sun teng, a galte khut sungah na pia kei ding hi.
 
-**ZVS:** A suakta sunte a khaktan dingin na ding kei ding uh hi. A cihmawh ni-in a hinglai sunteng, a galte' khutsungah na pia kei ding uh hi.
+**ZVS:** A suakta sunte a khaktan dingin na ding kei ding-te hi. A cihmawh ni-in a hinglai sunteng, a galte' khutsungah na pia kei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei
 
@@ -158,54 +158,54 @@
 ### v16
 **EN:** For as ye have drunk upon my holy mountain, so shall all the heathen drink continually, yea, they shall drink, and they shall swallow down, and they shall be as though they had not been.
 
-**TDB77:** Bang hang hiam cih leh, ka mual siangtho tunga na thuak mah bangun; na kim na pama mi namte khempeuh in zong ka daan piakna a thuak ding uh hi. Thuak tawntung ding uh a, a piang ngei lo mah a bang ding uh hi.
+**TDB77:** Bang hang hiam cih leh, ka mual siangtho tunga na thuak mah bangun; na kim na pama mi namte khempeuh in zong ka daan piakna a thuak ding-te hi. Thuak tawntung ding-te a, a piang ngei lo mah a bang ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh ka mual siangtho tungah na thuak mah bangun, na kiim na pama om minamte khempeuh in zong ka gimpiakna a thuak ding uh hi. Thuak tawntung ding uh a, maimang ding uh hi.
+**ZVS:** Bang hang hiam cih leh ka mual siangtho tungah na thuak mah bangun, na kiim na pama om minamte khempeuh in zong ka gimpiakna a thuak ding-te hi. Thuak tawntung ding-te a, maimang ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** But upon mount Zion shall be deliverance, and there shall be holiness; and the house of Jacob shall possess their possessions.
 
-**TDB77:** Ahih hangin Zion mualah pawlkhat a suakta ding uh a, mun siangtho a suak ding hi. Jakob innkuante in amau gam mah a luah kik ding uh hi.
+**TDB77:** Ahih hangin Zion mualah pawlkhat a suakta ding-te a, mun siangtho a suak ding hi. Jakob innkuante in amau gam mah a luah kik ding-te hi.
 
-**ZVS:** Ahih hangin Zion mualah pawlkhat va tai ding uh a, tua mun pen a siangtho suak ding hi. Jakob innkuante in amau' gam mah luahkik ding uh hi.
+**ZVS:** Ahih hangin Zion mualah pawlkhat va tai ding-te a, tua mun pen a siangtho suak ding hi. Jakob innkuante in amau' gam mah luahkik ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And the house of Jacob shall be a fire, and the house of Joseph a flame, and the house of Esau for stubble, and they shall kindle in them, and devour them; and there shall not be any remaining of the house of Esau; for the
 
-**TDB77:** Tua ciangin Jakob innkuante mei ahi ding uh a, Josef innkuante meikuang ahi ding uh hi. Esau innkuante niinpa ahi ding uh a, amaute in a hal ding uh hi. A kangtum khin ding uh a, Esau innkuante khat beek a suakta kei ding uh hi. Bang hang hiam cih leh Topa in a gen zo hi.
+**TDB77:** Tua ciangin Jakob innkuante mei ahi ding-te a, Josef innkuante meikuang ahi ding-te hi. Esau innkuante niinpa ahi ding-te a, amaute in a hal ding-te hi. A kangtum khin ding-te a, Esau innkuante khat beek a suakta kei ding-te hi. Bang hang hiam cih leh Topa in a gen zo hi.
 
-**ZVS:** Tua ciangin Jakob innkuante mei bang ding uh a, Josef innkuante meikuang bang ding uh hi. Esau innkuante ninpa bang hi ding uh a, amaute in a hal ding uh hi. Amaute kangtum khin ding uh a, Esau innkuante khat zong a suakta kei ding hi. Bang hang hiam cih leh { Topa } in a genzo hi.
+**ZVS:** Tua ciangin Jakob innkuante mei bang ding-te a, Josef innkuante meikuang bang ding-te hi. Esau innkuante ninpa bang hi ding-te a, amaute in a hal ding-te hi. Amaute kangtum khin ding-te a, Esau innkuante khat zong a suakta kei ding hi. Bang hang hiam cih leh { Topa } in a genzo hi.
 
 **Grammar:** sequence: then/therefore | future: will | negation: kei | plural: uh marker
 
 ### v19
 **EN:** And they of the south shall possess the mount of Esau; and they of the plain the Philistines: and they shall possess the fields of Ephraim, and the fields of Samaria: and Benjamin shall possess Gilead.
 
-**TDB77:** Negeb gam mite in Esau mual a luah ding uh a, Shefelah mite in Filistia gam a luah ding uh hi. Amaute in Efraim gam leh Samaria gam a luah ding uh a, Benjamin in Gilead gam a luah ding hi.
+**TDB77:** Negeb gam mite in Esau mual a luah ding-te a, Shefelah mite in Filistia gam a luah ding-te hi. Amaute in Efraim gam leh Samaria gam a luah ding-te a, Benjamin in Gilead gam a luah ding hi.
 
-**ZVS:** Negeb gammite in Esau' gam luah ding uh a, Shefelah mite in Filistia gam luah ding uh hi. Amaute in Efraim gam leh Samaria gam luah ding uh a, Benjamin in Gilead gam luah ding hi.
+**ZVS:** Negeb gammite in Esau' gam luah ding-te a, Shefelah mite in Filistia gam luah ding-te hi. Amaute in Efraim gam leh Samaria gam luah ding-te a, Benjamin in Gilead gam luah ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v20
 **EN:** And the captivity of this host of the children of Israel shall possess that of the Canaanites, even unto Zarephath; and the captivity of Jerusalem, which is in Sepharad, shall possess the cities of the south.
 
-**TDB77:** Israel mi sal-a omte in Kanaan gam Zarefat ciang dong a luah ding uh a, Jerusalem mi Sardis khua-a sal-a omte in, Negeb gam khuapite a la ding uh hi.
+**TDB77:** Israel mi sal-a omte in Kanaan gam Zarefat ciang dong a luah ding-te a, Jerusalem mi Sardis khua-a sal-a omte in, Negeb gam khuapite a la ding-te hi.
 
-**ZVS:** Israel mi salin a omte in Kanaan gam Zarefat ciangdong luah ding uh a, Jerusalem mi, Sardis khua-ah salin a omte in Negeb gam khuapite a la ding uh hi.
+**ZVS:** Israel mi salin a omte in Kanaan gam Zarefat ciangdong luah ding-te a, Jerusalem mi, Sardis khua-ah salin a omte in Negeb gam khuapite a la ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v21
 **EN:** And saviours shall come up on mount Zion to judge the mount of Esau; and the kingdom shall be the
 
-**TDB77:** Esau mual-a thukhen ding, a honkhia ding mite Zion mualah hong paito ding uh a, tua gam in Topa’ gam ahi ding hi.
+**TDB77:** Esau mual-a thukhen ding, a honkhia ding mite Zion mualah hong paito ding-te a, tua gam in Topa’ gam ahi ding hi.
 
-**ZVS:** A gualzo Jerusalem khuamite in Esau' gam simin uk ding uh a, tua gam pen { Topa' } gam ahi ding hi.
+**ZVS:** A gualzo Jerusalem khuamite in Esau' gam simin uk ding-te a, tua gam pen { Topa' } gam ahi ding hi.
 
 **Grammar:** future: will | plural: uh marker
 

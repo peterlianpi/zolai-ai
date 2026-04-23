@@ -22,25 +22,25 @@
 ### v1
 **EN:** Do we begin again to commend ourselves? or need we, as some others, epistles of commendation to you, or letters of commendation from you?
 
-**TDB77:** Kote in ko-le-ko kiphattawm ka hi uh hiam? Ahih kei leh, kiphatna lai note kiangah midangte piak nading ahi zongin, note in midangte kiangah piak nading ahi zongin, kote in mi kimkhat bangin deih ka hi uh hiam?
+**TDB77:** Kote in ko-le-ko kiphattawm ka hi-te hiam? Ahih kei leh, kiphatna lai note kiangah midangte piak nading ahi zongin, note in midangte kiangah piak nading ahi zongin, kote in mi kimkhat bangin deih ka hi-te hiam?
 
-**ZVS:** Hih bangin thu ka gen uh ciangin koleko a kiphattawm ka bang zel uh hiam? Midang pawlkhatte bangin note kiangah lahding mihoih hihna lai ka kisam kei uh a, note in zong kote nong lahding uh mihoih hihna lai a kisam na hi kei uh hi.
+**ZVS:** Hih bangin thu ka gen-te ciangin koleko a kiphattawm ka bang zel-te hiam? Midang pawlkhatte bangin note kiangah lahding mihoih hihna lai ka kisam kei-te a, note in zong kote nong lahding-te mihoih hihna lai a kisam na hi kei-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v2
 **EN:** Ye are our epistle written in our hearts, known and read of all men:
 
-**TDB77:** Note in kei lungtang tungah a kigelh, mi khempeuh in a sim theih kote’ lai na hi uh hi.
+**TDB77:** Note in kei lungtang tungah a kigelh, mi khempeuh in a sim theih kote’ lai na hi-te hi.
 
-**ZVS:** Note mahmah pen mihoih ka hihna uh lahna dingin kote' lai na hi uh a, mi khempeuh in simin a theihna dingun kote' lungtang tungah a kigelh lai na hi uh hi.
+**ZVS:** Note mahmah pen mihoih ka hihna-te lahna dingin kote' lai na hi-te a, mi khempeuh in simin a theihna dingun kote' lungtang tungah a kigelh lai na hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.
 
-**TDB77:** Koici bang hiam na cih uh leh, note in laitui tawh kigelh hi lo a, a nungta Pasian’ Kha Siangtho tawh kigelh na hi uh ahi zongin, suangpeek tungah kigelh ahi lo, lungtang satak peek tungah kigelh na hi uh ahi zongin, kote’ nasepna ah Khazih laikhak na hihna uh kitel takin na lak zo uh hi.
+**TDB77:** Koici bang hiam na cih-te leh, note in laitui tawh kigelh hi lo a, a nungta Pasian’ Kha Siangtho tawh kigelh na hi-te ahi zongin, suangpeek tungah kigelh ahi lo, lungtang satak peek tungah kigelh na hi-te ahi zongin, kote’ nasepna ah Khazih laikhak na hihna-te kitel takin na lak zo-te hi.
 
 **ZVS:** Hih lai pen Khrih mahmah in gelhin kote a hong puasak ahihna thu kitel mahmah hi. Laidal leh suangpek tungah laitui leh laikung tawh a kigelh hilo a, mihing lungtang tungah a nungta Pasian Kha Siangtho tawh a kigelh ahi hi.
 
@@ -49,16 +49,16 @@
 ### v4
 **EN:** And such trust have we through Christ to God-ward:
 
-**TDB77:** Kote in Khazih hangin Pasian mai-ah tua bangin ka lungkim uh hi.
+**TDB77:** Kote in Khazih hangin Pasian mai-ah tua bangin ka lungkim-te hi.
 
-**ZVS:** Khrih hangin Pasian muang ka hih manun hih bangin a hong gen ka hi uh hi.
+**ZVS:** Khrih hangin Pasian muang ka hih manun hih bangin a hong gen ka hi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** Not that we are sufficient of ourselves to think any thing as of ourselves; but our sufficiency is of God;
 
-**TDB77:** Ahih hangin kote in ko’ siamna suangin komau ut thuin na khat peuhpeuh na hanciam nadingun a hih thei ka hi kei uh hi.
+**TDB77:** Ahih hangin kote in ko’ siamna suangin komau ut thuin na khat peuhpeuh na hanciam nadingun a hih thei ka hi kei-te hi.
 
 **ZVS:** Hih bang sepzawhna dingin kote in siamna nei ung a ci hiloin, sepzawhna ding siamna pen Pasian hong piak ahi hi.
 
@@ -67,7 +67,7 @@
 ### v6
 **EN:** Who also hath made us able ministers of the new testament; not of the letter, but of the spirit: for the letter killeth, but the spirit giveth life.
 
-**TDB77:** Pasian sungah kihih khinzo bek ahih mah bangin kiciamna thak’ nasemte suah zawh nading siamna Pasian in kote hong pia hi. Tua bang ka cih ciangin Thuciam lui thu cihnopna hi lo, Kha Siangtho thu cihnopna hi. Bang hang hiam na cih uh leh, Thuciam lui thu in hin’na a that thei hi, Kha Siangtho thu in a hingsak thei hi.
+**TDB77:** Pasian sungah kihih khinzo bek ahih mah bangin kiciamna thak’ nasemte suah zawh nading siamna Pasian in kote hong pia hi. Tua bang ka cih ciangin Thuciam lui thu cihnopna hi lo, Kha Siangtho thu cihnopna hi. Bang hang hiam na cih-te leh, Thuciam lui thu in hin’na a that thei hi, Kha Siangtho thu in a hingsak thei hi.
 
 **ZVS:** Thuciamna thak nasem thei dingin kote tungah siamna a hong pia hi. Tua hong piakna pen lai-a kigelh thukham tawh hiloin Kha Siangtho tawh ahi hi. Bang hang hiam cih leh lai-a kigelh thukham in sihna piangsak a, ahi zongin Kha Siangtho in nuntakna hong pia hi.
 
@@ -78,7 +78,7 @@
 
 **TDB77:** Tua tham loin, a mang thei vangliatna ahi Moses’ maitangah a kilang vangliatna hangin Israel mite in a maitang a tel et ngam loh dongin, suangpeek tungah laimalin kigelh sihna tawh kipawl nasepna in vangliatna tawh a dim leh,
 
-**ZVS:** Thukham pen suangpek tungah a kigelh laimal hi a, a kipiak hunin Pasian' minthan'na tawh hong tonkhawm hi. Moses' maitang a taang mahmah pen mualkhin tei napi-in, nak taan'lua mahmah ahih manin Israel mite in Moses' maitang en zolo lai uh hi. Sihna a piangsak thei bek Thukham hong kipiak ciangin tuazah minthan' na vangtaang tawh hong kizui ahih leh,
+**ZVS:** Thukham pen suangpek tungah a kigelh laimal hi a, a kipiak hunin Pasian' minthan'na tawh hong tonkhawm hi. Moses' maitang a taang mahmah pen mualkhin tei napi-in, nak taan'lua mahmah ahih manin Israel mite in Moses' maitang en zolo lai-te hi. Sihna a piangsak thei bek Thukham hong kipiak ciangin tuazah minthan' na vangtaang tawh hong kizui ahih leh,
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -94,7 +94,7 @@
 ### v9
 **EN:** For if the ministration of condemnation be glory, much more doth the ministration of righteousness exceed in glory.
 
-**TDB77:** Bang hang hiam na cih uh leh, mawhna thutanna nasepna in vangliatna a neih leh, tua tham loin dikna nasepna in vangliatna a neizaw ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, mawhna thutanna nasepna in vangliatna a neih leh, tua tham loin dikna nasepna in vangliatna a neizaw ding hi.
 
 **ZVS:** Mite mawhsakin thukhen nasepna-ah tuazahin minthan'na vangtaang om ahih leh mite dik hi, ci-in genkhiat nasepna-ah a minthan'na vangtaang lianzaw kan lai ding hi.
 
@@ -121,43 +121,43 @@
 ### v12
 **EN:** Seeing then that we have such hope, we use great plainness of speech:
 
-**TDB77:** Tua bang muan’na ka nei uh ahih ciangin kote in im loin a tel takin ka hilh uh hi.
+**TDB77:** Tua bang muan’na ka nei-te ahih ciangin kote in im loin a tel takin ka hilh-te hi.
 
-**ZVS:** Hih bang lametna nei ka hih manun hangtakin a om ka hi uh hi.
+**ZVS:** Hih bang lametna nei ka hih manun hangtakin a om ka hi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** And not as Moses, which put a veil over his face, that the children of Israel could not stedfastly look to the end of that which is abolished:
 
-**TDB77:** A mangthang na a beina Israel mite in a tel et loh nadingun Moses in a mai a sit bangin ka hih kei uh hi.
+**TDB77:** A mangthang na a beina Israel mite in a tel et loh nadingun Moses in a mai a sit bangin ka hih kei-te hi.
 
-**ZVS:** A maitang panin a vangtaang a beilam Israel mite in a muhkhak ding uh a deih lohna-in Moses in a maitang puan tawh a liah bangin a gamtate ka hi kei uh hi.
+**ZVS:** A maitang panin a vangtaang a beilam Israel mite in a muhkhak ding-te a deih lohna-in Moses in a maitang puan tawh a liah bangin a gamtate ka hi kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v14
 **EN:** But their minds were blinded: for until this day remaineth the same veil untaken away in the reading of the old testament; which veil is done away in Christ.
 
-**TDB77:** Tuate lungsim in theih hakin, tu-ni dongin thuciamna lui a sim uh ciangin, tua mai sitna in a sin hi; Khazih hangin kipaaikhia zo hi cih a thei kei uh hi.
+**TDB77:** Tuate lungsim in theih hakin, tu-ni dongin thuciamna lui a sim-te ciangin, tua mai sitna in a sin hi; Khazih hangin kipaaikhia zo hi cih a thei kei-te hi.
 
-**ZVS:** Amaute' lungsim khauh ahih manin tudongin bangmah thei tuanloin om uh a, thuciamna lui laibu a sim uh ciangin puan tawh liah bangmahin bangmah mu theilo, thei theilo uh hi. Bang hang hiam cih leh mi khatpeuh Khrih tawh a kipawl ciang bekin a muhtheihna dingin a kiliahna puan a kilakhia pan ahi hi.
+**ZVS:** Amaute' lungsim khauh ahih manin tudongin bangmah thei tuanloin om-te a, thuciamna lui laibu a sim-te ciangin puan tawh liah bangmahin bangmah mu theilo, thei theilo-te hi. Bang hang hiam cih leh mi khatpeuh Khrih tawh a kipawl ciang bekin a muhtheihna dingin a kiliahna puan a kilakhia pan ahi hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** But even unto this day, when Moses is read, the veil is upon their heart.
 
-**TDB77:** Tu nangawnin Moses’ lai a sim uh ciangin amau lungsim uh a kisin lai hi.
+**TDB77:** Tu nangawnin Moses’ lai a sim-te ciangin amau lungsim-te a kisin lai hi.
 
-**ZVS:** Tuhun dongin amaute in Moses Thukham laibu a sim uh ciangin liahna puan in a lungsim uh a liah lai hi.
+**ZVS:** Tuhun dongin amaute in Moses Thukham laibu a sim-te ciangin liahna puan in a lungsim-te a liah lai hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** Nevertheless when it shall turn to the Lord, the veil shall be taken away.
 
-**TDB77:** Ahih hangin Topa kiangah a kihei uh ciangin tua a kisitna a kipaaikhia hi.
+**TDB77:** Ahih hangin Topa kiangah a kihei-te ciangin tua a kisitna a kipaaikhia hi.
 
 **ZVS:** Ahi zongin Lai Siangtho in, “Topa' mai-ah Moses a pai ciangin a kiliahna puan a lakhia hi,” a cih mah bangin Topa lamah mi khatpeuh a kihei ciangin a liah puan kilakhia hi.
 

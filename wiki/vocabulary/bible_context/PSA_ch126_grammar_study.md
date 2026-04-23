@@ -32,9 +32,9 @@
 ### v2
 **EN:** Then was our mouth filled with laughter, and our tongue with singing: then said they among the heathen, The
 
-**TDB77:** Lungdamin i nui a, lungdam lua-in la i sa hi. Tua ciangin minam dangte kiho-in, “Topa in amau adingin na lianpite bawl khin ta hi,” kici uh hi.
+**TDB77:** Lungdamin i nui a, lungdam lua-in la i sa hi. Tua ciangin minam dangte kiho-in, “Topa in amau adingin na lianpite bawl khin ta hi,” kici-te hi.
 
-**ZVS:** Lungdamin i nui a, lungdam lua-in la i sa hi. Tua ciangin minam dangte kiho-in, “{ Topa } in amau-a' dingin na lianpite bawl khinta hi,” kici uh hi.
+**ZVS:** Lungdamin i nui a, lungdam lua-in la i sa hi. Tua ciangin minam dangte kiho-in, “{ Topa } in amau-a' dingin na lianpite bawl khinta hi,” kici-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | completed: already done | reciprocal: ki- prefix | plural: uh marker
 

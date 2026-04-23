@@ -187,9 +187,9 @@
 ### v20
 **EN:** For they speak against thee wickedly, and thine enemies take thy name in vain.
 
-**TDB77:** Bang hang hiam cih leh amaute in nang hong dem uh a, siatna ngimna tawh nang hong pang uh hi.
+**TDB77:** Bang hang hiam cih leh amaute in nang hong dem-te a, siatna ngimna tawh nang hong pang-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in nang hong dem uh a, ngimna hoihlo tawh nang hong pang uh hi.
+**ZVS:** Bang hang hiam cih leh amaute in nang hong dem-te a, ngimna hoihlo tawh nang hong pang-te hi.
 
 **Grammar:** plural: uh marker
 

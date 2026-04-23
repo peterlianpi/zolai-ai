@@ -40,14 +40,14 @@
 ### v3
 **EN:** Neither as being lords over God's heritage, but being ensamples to the flock.
 
-**TDB77:** atuam atuam na uk uh pawlpite, aana tawh hi loin, tuu honte maiah na pumpi uh limpha suakin, Pasian’ deihna bangin na cing un.
+**TDB77:** atuam atuam na uk-te pawlpite, aana tawh hi loin, tuu honte maiah na pumpi-te limpha suakin, Pasian’ deihna bangin na cing un.
 
 **ZVS:** Note' kepdingin a hong kipia tuute, aana neihna tawh a cing hiloin tuute' etteh dingin a gamtate na hi un.
 
 ### v4
 **EN:** And when the chief Shepherd shall appear, ye shall receive a crown of glory that fadeth not away.
 
-**TDB77:** Tua bang ahih leh, Tuucing Ukpa hong kilat ciangin note in, a vul thei lo vangliatna lukhu na ngah ding uh hi.
+**TDB77:** Tua bang ahih leh, Tuucing Ukpa hong kilat ciangin note in, a vul thei lo vangliatna lukhu na ngah ding-te hi.
 
 **ZVS:** Tuucingpipa hong pai ciangin a mual ngeilo minthan'na lukhu a hong pia ding hi.
 
@@ -56,7 +56,7 @@
 ### v5
 **EN:** Likewise, ye younger, submit yourselves unto the elder. Yea, all of you be subject one to another, and be clothed with humility: for God resisteth the proud, and giveth grace to the humble.
 
-**TDB77:** Tua mah bangin khangnote aw, a khan’ sawt upate ukna na mang un. Ahi hi. Note khempeuh in khat leh khat na kizep nadingun kiniamsakna na silh un. Bang hang hiam na cih uh leh, “Pasian in a kisatheite a kham hi; a lungniamsakte kiangah hehpihna thupha a pia hi.”
+**TDB77:** Tua mah bangin khangnote aw, a khan’ sawt upate ukna na mang un. Ahi hi. Note khempeuh in khat leh khat na kizep nadingun kiniamsakna na silh un. Bang hang hiam na cih-te leh, “Pasian in a kisatheite a kham hi; a lungniamsakte kiangah hehpihna thupha a pia hi.”
 
 **ZVS:** Tua mah bangin no khangnozaw deuhte in zong a khanghamte' thu na mang un. Lai Siangtho in, “Pasian in a kiphasak mite nial a, a kiniamkhiat mite a hehpih hi,” a cih mah bangin na vekpi-un kiniamkhiatna puan bangin silhin, khatlekhat na na kisepsak un.
 
@@ -74,23 +74,23 @@
 ### v7
 **EN:** Casting all your care upon him; for he careth for you.
 
-**TDB77:** Pasian in note hong keem ahih ciangin, na lunghihmawhna khempeuh uh ama tungah na koih un.
+**TDB77:** Pasian in note hong keem ahih ciangin, na lunghihmawhna khempeuh-te ama tungah na koih un.
 
-**ZVS:** Pasian in note hong kem ding ahih manin na lungkhamnate khempeuh uh ama kiang tun'pih un.
+**ZVS:** Pasian in note hong kem ding ahih manin na lungkhamnate khempeuh-te ama kiang tun'pih un.
 
 ### v8
 **EN:** Be sober, be vigilant; because your adversary the devil, as a roaring lion, walketh about, seeking whom he may devour:
 
-**TDB77:** Kipin kikeem un. Kikepna tawh na ngak un. Bang hang hiam na cih uh leh, na gal uh ahi Dawimangpa in a hawk thei humpinelkai bangin kua mi ka ne ding hiam ci-in zong kawikawi-in a om hi.
+**TDB77:** Kipin kikeem un. Kikepna tawh na ngak un. Bang hang hiam na cih-te leh, na gal-te ahi Dawimangpa in a hawk thei humpinelkai bangin kua mi ka ne ding hiam ci-in zong kawikawi-in a om hi.
 
-**ZVS:** Note pilvangin khua phawk un. Na gal uh ahi Dawimangpa, humpinelkai bangin a nektheih ding zongin vak kawikawi hi.
+**ZVS:** Note pilvangin khua phawk un. Na gal-te ahi Dawimangpa, humpinelkai bangin a nektheih ding zongin vak kawikawi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v9
 **EN:** Whom resist stedfast in the faith, knowing that the same afflictions are accomplished in your brethren that are in the world.
 
-**TDB77:** Leitung mun khempeuhah a om na u na naute un tua bang gimna thuakin a om uh hi ci-in thei un la, upna tawh kipin Dawimangpa na nial un.
+**TDB77:** Leitung mun khempeuhah a om na u na naute un tua bang gimna thuakin a om-te hi ci-in thei un la, upna tawh kipin Dawimangpa na nial un.
 
 **ZVS:** Leitungah thu um dang khempeuh in zong note' thuak mah bangin a thuak ahihna thu thei un la, na upna uhah kipin Dawimangpa na nial un.
 
@@ -99,9 +99,9 @@
 ### v10
 **EN:** But the God of all grace, who hath called us unto his eternal glory by Christ Jesus, after that ye have suffered a while, make you perfect, stablish, strengthen, settle you.
 
-**TDB77:** Khazih hangin note, ama vangliat tawntung minthan’na ah hong sam, hehpihna thupha khempeuh’ Pasian in tawlkhat gimna na thuak khit uh ciangin, hong cingsak, hong kipsak, hong khauhsak ding hi.
+**TDB77:** Khazih hangin note, ama vangliat tawntung minthan’na ah hong sam, hehpihna thupha khempeuh’ Pasian in tawlkhat gimna na thuak khit-te ciangin, hong cingsak, hong kipsak, hong khauhsak ding hi.
 
-**ZVS:** Tawlkhat na thuak khit uh ciangin, Khrih tawh na kipawlna hangun tawntung minthan'na a ngah dingin note a hong sam, hehpihna kicingin a nei Pasian in note a cingtaakin hong bawl ding a, kipna, thahatna, bulkip kician hong pia ding hi.
+**ZVS:** Tawlkhat na thuak khit-te ciangin, Khrih tawh na kipawlna hangun tawntung minthan'na a ngah dingin note a hong sam, hehpihna kicingin a nei Pasian in note a cingtaakin hong bawl ding a, kipna, thahatna, bulkip kician hong pia ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -124,9 +124,9 @@
 ### v13
 **EN:** The church that is at Babylon, elected together with you, saluteth you; and so doth Mark my son.
 
-**TDB77:** Ka tapa Marka akipan Babilon khuapi sungah a om note tawh a kiteel khawm pawlpite in note hong hopih uh hi.
+**TDB77:** Ka tapa Marka akipan Babilon khuapi sungah a om note tawh a kiteel khawm pawlpite in note hong hopih-te hi.
 
-**ZVS:** Note mah bangin Pasian in a teel, Babylon khua-a om pawlpi mite in hopihna kam hong khak uh a, ka tapa Marka in zong note hopihna kam mah hong khak hi.
+**ZVS:** Note mah bangin Pasian in a teel, Babylon khua-a om pawlpi mite in hopihna kam hong khak-te a, ka tapa Marka in zong note hopihna kam mah hong khak hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

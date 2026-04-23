@@ -83,18 +83,18 @@
 ### v7
 **EN:** Now therefore restore the man his wife; for he is a prophet, and he shall pray for thee, and thou shalt live: and if thou restore her not, know thou that thou shalt surely die, thou, and all that are thine.
 
-**TDB77:** Tua ahih ciangin tu-in mipa’ zi pia kik in; bang hang hiam cih leh amah in kamsangpa khat hi a, amah in nang’ adingin thu hong ngetsak ding a, nang na nungta ding hi. Ahih hangin nang in tua numei na piak kik kei leh nang leh na neih khempeuh na sih taktak ding uh thei in,” ci hi.
+**TDB77:** Tua ahih ciangin tu-in mipa’ zi pia kik in; bang hang hiam cih leh amah in kamsangpa khat hi a, amah in nang’ adingin thu hong ngetsak ding a, nang na nungta ding hi. Ahih hangin nang in tua numei na piak kik kei leh nang leh na neih khempeuh na sih taktak ding-te thei in,” ci hi.
 
-**ZVS:** Tua ahih ciangin tu-in mipa' zi piakik in. Bang hang hiam cih leh amah, kamsang khat hi a, amah in nang-a' dingin thu hong ngetsak ding a, nang na nungta ding hi. Ahih hangin nang in tua numei na piakkik kei leh nang leh na mi khempeuh na sih taktak ding uh thei in,” a ci hi.
+**ZVS:** Tua ahih ciangin tu-in mipa' zi piakik in. Bang hang hiam cih leh amah, kamsang khat hi a, amah in nang-a' dingin thu hong ngetsak ding a, nang na nungta ding hi. Ahih hangin nang in tua numei na piakkik kei leh nang leh na mi khempeuh na sih taktak ding-te thei in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid.
 
-**TDB77:** Tua ahih ciangin zingsangin Abimelek tho baih a, a nasemte samin hih thute khempeuh amaute' kiangah gen hi; amaute nak lau mahmah uh hi.
+**TDB77:** Tua ahih ciangin zingsangin Abimelek tho baih a, a nasemte samin hih thute khempeuh amaute' kiangah gen hi; amaute nak lau mahmah-te hi.
 
-**ZVS:** Tua ahih ciangin zingsangin Abimelek tho baih a, a nasemte samin hih thute khempeuh amaute kiangah a gen hi. Amaute nak lau mahmah uh hi.
+**ZVS:** Tua ahih ciangin zingsangin Abimelek tho baih a, a nasemte samin hih thute khempeuh amaute kiangah a gen hi. Amaute nak lau mahmah-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
@@ -103,7 +103,7 @@
 
 **TDB77:** Tua ciangin Abimelek in Abraham samin ama' kiangah, “Kote tungah bang hong bawl na hi hiam? Kei leh ka kumpigamsungah khialhna lianpi khat nong tut nadingin nang' tungah bang hong ci khialh ka hi hiam? Hih dinga kilawm lo nate kei’ tungah nong hih hi,” ci hi.
 
-**ZVS:** Tua ciangin Abimelek in Abraham samin ama kiangah, “Bang hangin ko tungah hong hici gamtat na hi hiam? Kei leh ka kumpi gam sungah khialhna lianpi khat nong tutna dingin nang' tungah bang khialhna nei ka hi uh hiam? Hih dinga kilawmlo nate kei' tungah nong hih hi,” a ci hi.
+**ZVS:** Tua ciangin Abimelek in Abraham samin ama kiangah, “Bang hangin ko tungah hong hici gamtat na hi hiam? Kei leh ka kumpi gam sungah khialhna lianpi khat nong tutna dingin nang' tungah bang khialhna nei ka hi-te hiam? Hih dinga kilawmlo nate kei' tungah nong hih hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
@@ -128,9 +128,9 @@
 ### v12
 **EN:** And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife.
 
-**TDB77:** Tua tham loin a taktakin amah in ka sanggamnu mah ahi hi, pa kikhat, nu tuam ka hi uh hi; amah ka tenpih hi.
+**TDB77:** Tua tham loin a taktakin amah in ka sanggamnu mah ahi hi, pa kikhat, nu tuam ka hi-te hi; amah ka tenpih hi.
 
-**ZVS:** Tua thamloin a taktakin amah ka sanggamnu mah ahi hi. Pa kikhat, nu tuam ka hi uh a, amah ka ten'pih ahi hi.
+**ZVS:** Tua thamloin a taktakin amah ka sanggamnu mah ahi hi. Pa kikhat, nu tuam ka hi-te a, amah ka ten'pih ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

@@ -55,7 +55,7 @@
 
 **TDB77:** Tua hunin a khuapite khempeuh i la hi—amau kiang pan i lak loh khuapi khat zong om lo hi—Bashan gama Og kumpi gam sung, Argob gambup, khuapi sawmgukte ahi hi.
 
-**ZVS:** Tua hunin a khuapite khempeuh uh i la a, amau' kiang pan i lakloh khuapi khat zong omlo hi. Tua banga i lakte pen Bashan gama Og kumpi gamsung, Argob gambup, khuapi sawmgukte ahi hi.
+**ZVS:** Tua hunin a khuapite khempeuh-te i la a, amau' kiang pan i lakloh khuapi khat zong omlo hi. Tua banga i lakte pen Bashan gama Og kumpi gamsung, Argob gambup, khuapi sawmgukte ahi hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -94,7 +94,7 @@
 ### v9
 **EN:** (Which Hermon the Sidonians call Sirion; and the Amorites call it Senir;)
 
-**TDB77:** (Sidon mite in Hermon pen Sirion ci a, Amor mite in Senir ci uh hi),
+**TDB77:** (Sidon mite in Hermon pen Sirion ci a, Amor mite in Senir ci-te hi),
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -169,27 +169,27 @@
 ### v18
 **EN:** And I commanded you at that time, saying, The
 
-**TDB77:** “Tua hunin note thu kong pia a, ‘Topa na Pasian un na neih dingun hih leitang hong pia zo hi; na galhang mite khempeuh uh galhiam tawh kithawi-in Israel mi na sanggamte uh mai-ah va kuan ding hi.
+**TDB77:** “Tua hunin note thu kong pia a, ‘Topa na Pasian un na neih dingun hih leitang hong pia zo hi; na galhang mite khempeuh-te galhiam tawh kithawi-in Israel mi na sanggamte-te mai-ah va kuan ding hi.
 
-**ZVS:** “Tua hunin note thu kong pia a, ‘{ Topa } na Pasian un na neih dingun hih leitang hong piazo hi. Na galhang mite khempeuh uh galhiam tawh kithawi-in Israel mi na sanggamte uh mai-ah va kuan ding hi.
+**ZVS:** “Tua hunin note thu kong pia a, ‘{ Topa } na Pasian un na neih dingun hih leitang hong piazo hi. Na galhang mite khempeuh-te galhiam tawh kithawi-in Israel mi na sanggamte-te mai-ah va kuan ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v19
 **EN:** But your wives, and your little ones, and your cattle, (for I know that ye have much cattle,) shall abide in your cities which I have given you;
 
-**TDB77:** Ahih hangin na zite, na ta neute leh na ganhingte uh (ganhing tampi na neih uh ka thei hi) note kong piaksa khuapite ah om ding uh a,
+**TDB77:** Ahih hangin na zite, na ta neute leh na ganhingte-te (ganhing tampi na neih-te ka thei hi) note kong piaksa khuapite ah om ding-te a,
 
-**ZVS:** Ahih hangin na zite, na taneute, leh na ganhingte uh (ganhing tampi na neih uh ka thei hi) note kong piaksa khuapite-ah om ding uh a,
+**ZVS:** Ahih hangin na zite, na taneute, leh na ganhingte-te (ganhing tampi na neih-te ka thei hi) note kong piaksa khuapite-ah om ding-te a,
 
 **Grammar:** plural: uh marker
 
 ### v20
 **EN:** Until the
 
-**TDB77:** Topa in note hong piak bangin na sanggamte uh tungah lungsim tawlngakna pia-in, Topa na Pasian uh Jordan gal khatah amaute a piak leitang amaute in zong a luah matengun na om ding uh hi; tua ciangin note kong piaksa ahi na neihsa ciat uhah note khempeuh na ciah ding uh hi,’ kong ci hi.
+**TDB77:** Topa in note hong piak bangin na sanggamte-te tungah lungsim tawlngakna pia-in, Topa na Pasian-te Jordan gal khatah amaute a piak leitang amaute in zong a luah matengun na om ding-te hi; tua ciangin note kong piaksa ahi na neihsa ciat uhah note khempeuh na ciah ding-te hi,’ kong ci hi.
 
-**ZVS:** { Topa } in note hong piak bangin na sanggamte uh tungah lungsim tawlngakna pia-in, { Topa } na Pasian un Jordan galkhatah amaute a piak leitang amaute in zong a luah matengun na huh ding uh hi. Tua ciangin note kong piaksa ahi na neihsa ciat uhah note khempeuh na ciah ding uh hi,’ kong ci hi.
+**ZVS:** { Topa } in note hong piak bangin na sanggamte-te tungah lungsim tawlngakna pia-in, { Topa } na Pasian un Jordan galkhatah amaute a piak leitang amaute in zong a luah matengun na huh ding-te hi. Tua ciangin note kong piaksa ahi na neihsa ciat uhah note khempeuh na ciah ding-te hi,’ kong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 

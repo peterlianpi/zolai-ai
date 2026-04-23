@@ -112,52 +112,52 @@
 ### v12
 **EN:** Upon one day in all the provinces of king Ahasuerus, namely, upon the thirteenth day of the twelfth month, which is the month Adar.
 
-**TDB77:** Kha sawmlenihna ahi Adar kha a ni sawmlethumna ni khat sungin Kumpi Ahasueras' ukna gamsung khempeuhah Jew mite in amau a sim ding mi ahih kei leh a gamte' hihna ding panin khua khempeuhah amau na kipawlin na kihu-in, tua banga amaute a hih dingte pen a numei a naupangin susia-in, thatin a beisakna ding uh leh a neihsate uh a laksak theihna dingun hih banga lai piakna tawh kumpipa in Jew mite tungah hih theihna ding thu a pia hi.
+**TDB77:** Kha sawmlenihna ahi Adar kha a ni sawmlethumna ni khat sungin Kumpi Ahasueras' ukna gamsung khempeuhah Jew mite in amau a sim ding mi ahih kei leh a gamte' hihna ding panin khua khempeuhah amau na kipawlin na kihu-in, tua banga amaute a hih dingte pen a numei a naupangin susia-in, thatin a beisakna ding-te leh a neihsate-te a laksak theihna dingun hih banga lai piakna tawh kumpipa in Jew mite tungah hih theihna ding thu a pia hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** The copy of the writing for a commandment to be given in every province was published unto all people, and that the Jews should be ready against that day to avenge themselves on their enemies.
 
-**TDB77:** Tua thupiakna lai pen gam khempeuh ah kihawmin mi khempeuh kitheisakin, amau’ galte a thukkik nading ahi tua ni tawh kisai-in Judah mite a kigin’ kholh ding uh ahi hi.
+**TDB77:** Tua thupiakna lai pen gam khempeuh ah kihawmin mi khempeuh kitheisakin, amau’ galte a thukkik nading ahi tua ni tawh kisai-in Judah mite a kigin’ kholh ding-te ahi hi.
 
-**ZVS:** Tua thupiakna lai pen gam khempeuhah kihawmin mi khempeuh kitheisakin, amau' galte a thukkikna ding ahi tua ni tawh kisai-in Jew mite a kigin'kholh ding uh ahi hi.
+**ZVS:** Tua thupiakna lai pen gam khempeuhah kihawmin mi khempeuh kitheisakin, amau' galte a thukkikna ding ahi tua ni tawh kisai-in Jew mite a kigin'kholh ding-te ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** So the posts that rode upon mules and camels went out, being hastened and pressed on by the king's commandment. And the decree was given at Shushan the palace.
 
-**TDB77:** Tua ahih ciangin kumpipa’ sakolte’ tungah laitaite tuangin kumpipa’ thu-kin sawl mah bangin nawh tai uh hi; tua ciangin Susa khuapi sungah zong tua thupiakna lai kihawm hi.
+**TDB77:** Tua ahih ciangin kumpipa’ sakolte’ tungah laitaite tuangin kumpipa’ thu-kin sawl mah bangin nawh tai-te hi; tua ciangin Susa khuapi sungah zong tua thupiakna lai kihawm hi.
 
-**ZVS:** Tua ahih ciangin kumpipa' sakolte tungah laitaite tuangin kumpipa' thu-kin sawl mah bangin nawhtai uh hi. Tua ciangin kumpi khua Susa khuapi sungah zong tua thupiakna lai a kihawm hi.
+**ZVS:** Tua ahih ciangin kumpipa' sakolte tungah laitaite tuangin kumpipa' thu-kin sawl mah bangin nawhtai-te hi. Tua ciangin kumpi khua Susa khuapi sungah zong tua thupiakna lai a kihawm hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And Mordecai went out from the presence of the king in royal apparel of blue and white, and with a great crown of gold, and with a garment of fine linen and purple: and the city of Shushan rejoiced and was glad.
 
-**TDB77:** Tua ciangin kumpi puansan leh a kang silhin, kham tawh kibawl kumpi lukhu lianpi khu-in, saihadial puan neel leh puansan silhsa-in kumpipa’ omna panin Mordekai paikhia hi; tua ciangin Susa khuapi sunga mi khempeuh lungdamin awng uh hi.
+**TDB77:** Tua ciangin kumpi puansan leh a kang silhin, kham tawh kibawl kumpi lukhu lianpi khu-in, saihadial puan neel leh puansan silhsa-in kumpipa’ omna panin Mordekai paikhia hi; tua ciangin Susa khuapi sunga mi khempeuh lungdamin awng-te hi.
 
-**ZVS:** Tua ciangin kumpi puan a san leh a kang silhin, kham tawh kibawl kumpi lukhu lianpi khu-in, saihadial puanneel leh puansan silhsa-in kumpipa' omna panin Mordekai paikhia hi. Tua ciangin Susa khuapi sung mi khempeuh lungdamin awng uh hi.
+**ZVS:** Tua ciangin kumpi puan a san leh a kang silhin, kham tawh kibawl kumpi lukhu lianpi khu-in, saihadial puanneel leh puansan silhsa-in kumpipa' omna panin Mordekai paikhia hi. Tua ciangin Susa khuapi sung mi khempeuh lungdamin awng-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** The Jews had light, and gladness, and joy, and honour.
 
-**TDB77:** Tua hi a, Judah mite in suahtakna, lungdamna, leh pahtawina ngah uh hi.
+**TDB77:** Tua hi a, Judah mite in suahtakna, lungdamna, leh pahtawina ngah-te hi.
 
-**ZVS:** Tua hi a, Jew mite in suahtakna, lungdamna, leh pahtawina ngah uh hi.
+**ZVS:** Tua hi a, Jew mite in suahtakna, lungdamna, leh pahtawina ngah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** And in every province, and in every city, whithersoever the king's commandment and his decree came, the Jews had joy and gladness, a feast and a good day. And many of the people of the land became Jews; for the fear of the Jews fell upon them.
 
-**TDB77:** Kumpipa’ thupiakna a tun’na gam leh khua khempeuh ah Judah mite adingin lungdamna leh kipahna, pawi bawlna leh nasep khawlin zumkhakna om hi. Tua hi a, mite in Judah mite kihta uh ahih manin tua gam-a om mi tampi tak in Judah mi ka hi uh hi, ci uh hi.
+**TDB77:** Kumpipa’ thupiakna a tun’na gam leh khua khempeuh ah Judah mite adingin lungdamna leh kipahna, pawi bawlna leh nasep khawlin zumkhakna om hi. Tua hi a, mite in Judah mite kihta-te ahih manin tua gam-a om mi tampi tak in Judah mi ka hi-te hi, ci-te hi.
 
-**ZVS:** Kumpipa' thupiakna a tun'na gam leh khua khempeuhah Jew mite-a' dingin lungdamna leh kipahna, pawi bawlna leh nasep khawlin zum khakna a om hi. Tua hi a, midangte in Jew mite kihta uh ahih manin tua gama om mi tampi tak in Jew mi ka hi uh hi, a ci uh hi.
+**ZVS:** Kumpipa' thupiakna a tun'na gam leh khua khempeuhah Jew mite-a' dingin lungdamna leh kipahna, pawi bawlna leh nasep khawlin zum khakna a om hi. Tua hi a, midangte in Jew mite kihta-te ahih manin tua gama om mi tampi tak in Jew mi ka hi-te hi, a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 

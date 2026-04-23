@@ -42,13 +42,13 @@
 **Context:** A directional phrase indicating location relative to a central point (Gezer was to the west).
 **Example:** leh nitumna lamah Gezer leh a khuapite...
 
-### uk uh hi = they ruled/they possessed
+### uk-te hi = they ruled/they possessed
 **Context:** Used to describe the extent of the territory controlled by Manasseh's sons.
-**Example:** Dor leh a khuapite uk uh hi.
+**Example:** Dor leh a khuapite uk-te hi.
 
-### teeng uh hi = they dwelt/they resided
+### teeng-te hi = they dwelt/they resided
 **Context:** Used to state where the descendants of Joseph lived within the conquered territories.
-**Example:** Hihte sungah Israel’ tapa Josef’ suante a teng uh hi.
+**Example:** Hihte sungah Israel’ tapa Josef’ suante a teng-te hi.
 
 ### satpa = founder/establisher (male)
 **Context:** Used to describe Malkhiel as the one who established or founded the town of Birzavith.
@@ -82,6 +82,6 @@
   - Simple statement of possession or procreation: X had Y and Z (often used for daughters or multiple children).
   - Example: Hammolekheth in Ishhod, Abiezer, leh Mahlah nei hi.
 
-- **X ahi uh hi.**
+- **X ahi-te hi.**
   - Plural copula structure used at the end of a list of sons/descendants, meaning 'they are/they were'.
-  - Example: Ahian, Shekhem, Likhi, leh Aniam ahi uh hi.
+  - Example: Ahian, Shekhem, Likhi, leh Aniam ahi-te hi.

@@ -36,9 +36,9 @@
 ### v2
 **EN:** Thus saith the
 
-**TDB77:** Mi honte’ Topa in hih bangin ci hi, ‘Amaute Izipt panin hong paikhiat lai-in amaute in lampi-ah Israelte a nialna uh hangin Amalek mite daan ka tat ding hi.
+**TDB77:** Mi honte’ Topa in hih bangin ci hi, ‘Amaute Izipt panin hong paikhiat lai-in amaute in lampi-ah Israelte a nialna-te hangin Amalek mite daan ka tat ding hi.
 
-**ZVS:** Vanglian { Topa } in hih bangin ci hi: ‘Amaute Egypt panin hong paikhiat lai-in amaute in lampi-ah Israel-te a nialna uh hangin Amalek mite gim ka pia ding hi.
+**ZVS:** Vanglian { Topa } in hih bangin ci hi: ‘Amaute Egypt panin hong paikhiat lai-in amaute in lampi-ah Israel-te a nialna-te hangin Amalek mite gim ka pia ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 
@@ -72,9 +72,9 @@
 ### v6
 **EN:** And Saul said unto the Kenites, Go, depart, get you down from among the Amalekites, lest I destroy you with them: for ye shewed kindness to all the children of Israel, when they came up out of Egypt. So the Kenites departed from among the Amalekites.
 
-**TDB77:** Tua ciangin Saul in Ken mite kiangah, “Pai un, kihemkhia un, Amalekte lak panin paikhia suk un, tua hi kei leh note amaute tawh kong susia khawm kha ding hi; bang hang hiam cih leh Izipt panin amaute hong paikhiat lai-in Israel mite khempeuh tungah migitna na lak uh hi,” a ci hi. Tua ahih ciangin Amalekte lak panin Kente kihemkhia uh hi.
+**TDB77:** Tua ciangin Saul in Ken mite kiangah, “Pai un, kihemkhia un, Amalekte lak panin paikhia suk un, tua hi kei leh note amaute tawh kong susia khawm kha ding hi; bang hang hiam cih leh Izipt panin amaute hong paikhiat lai-in Israel mite khempeuh tungah migitna na lak-te hi,” a ci hi. Tua ahih ciangin Amalekte lak panin Kente kihemkhia-te hi.
 
-**ZVS:** Tua ciangin Saul in Ken mite kiangah, “Pai un; kihemkhia un. Amalek mite lak panin paikhiasuk un. Tua hi kei leh amaute tawh note kong susiakhawm khading hi. Bang hang hiam cih leh Egypt panin Israel-te hong paikhiat lai-in amaute khempeuh tungah migitna na lak uh hi,” a ci hi. Tua ahih ciangin Amalek mite lak panin Ken mite kihemkhia uh hi.
+**ZVS:** Tua ciangin Saul in Ken mite kiangah, “Pai un; kihemkhia un. Amalek mite lak panin paikhiasuk un. Tua hi kei leh amaute tawh note kong susiakhawm khading hi. Bang hang hiam cih leh Egypt panin Israel-te hong paikhiat lai-in amaute khempeuh tungah migitna na lak-te hi,” a ci hi. Tua ahih ciangin Amalek mite lak panin Ken mite kihemkhia-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -97,9 +97,9 @@
 ### v9
 **EN:** But Saul and the people spared Agag, and the best of the sheep, and of the oxen, and of the fatlings, and the lambs, and all that was good, and would not utterly destroy them: but every thing that was vile and refuse, that they destroyed utterly.
 
-**TDB77:** Ahih hangin Saul leh mite in Agag, leh a hoih pen tuute leh bawngtalte leh gannote, leh tuunote leh a hoih khempeuh khawi uh a, tuate thatmang lo uh hi; a kisimmawh bangmah a man lo khempeuh amaute in thatmang uh hi.
+**TDB77:** Ahih hangin Saul leh mite in Agag, leh a hoih pen tuute leh bawngtalte leh gannote, leh tuunote leh a hoih khempeuh khawi-te a, tuate thatmang lo-te hi; a kisimmawh bangmah a man lo khempeuh amaute in thatmang-te hi.
 
-**ZVS:** Ahih hangin Saul leh mite in Agag, leh a hoihpen tuute, bawngtalte, gannote, tuunote leh a hoih khempeuh khawi uh a, tuate thatmang khinlo uh hi. A kisimmawh bangmah a manlo khempeuh amaute in thatmang uh hi.
+**ZVS:** Ahih hangin Saul leh mite in Agag, leh a hoihpen tuute, bawngtalte, gannote, tuunote leh a hoih khempeuh khawi-te a, tuate thatmang khinlo-te hi. A kisimmawh bangmah a manlo khempeuh amaute in thatmang-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -149,9 +149,9 @@
 ### v15
 **EN:** And Saul said, They have brought them from the Amalekites: for the people spared the best of the sheep and of the oxen, to sacrifice unto the
 
-**TDB77:** Saul in, “Amaute in Amalekte kiang panin tuate hong paipih uh hi; bang hang hiam cih leh Topa na Pasian tungah biakna piak nadingin a limcipen tuute leh bawngtalte mite in siit uh hi; a dangte ka thatmang khin uh hi,” a ci hi.
+**TDB77:** Saul in, “Amaute in Amalekte kiang panin tuate hong paipih-te hi; bang hang hiam cih leh Topa na Pasian tungah biakna piak nadingin a limcipen tuute leh bawngtalte mite in siit-te hi; a dangte ka thatmang khin-te hi,” a ci hi.
 
-**ZVS:** Saul in, “Amaute in Amalek-te kiang panin tuate hong paipih uh hi; bang hang hiam cih leh { Topa } na Pasian tungah biakna piakna dingin a limci pen tuute leh bawngtalte mite in sit uh a, a dangte ka thatmang khin uh hi,” a ci hi.
+**ZVS:** Saul in, “Amaute in Amalek-te kiang panin tuate hong paipih-te hi; bang hang hiam cih leh { Topa } na Pasian tungah biakna piakna dingin a limci pen tuute leh bawngtalte mite in sit-te a, a dangte ka thatmang khin-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -203,9 +203,9 @@
 ### v21
 **EN:** But the people took of the spoil, sheep and oxen, the chief of the things which should have been utterly destroyed, to sacrifice unto the
 
-**TDB77:** Ahih hangin mite in a kinusiate, tuute leh bawngtalte, suksiat dinga a ki-ap na hoih pente Gilgal-ah Topa na Pasian piak dingin la uh hi,” a ci hi.
+**TDB77:** Ahih hangin mite in a kinusiate, tuute leh bawngtalte, suksiat dinga a ki-ap na hoih pente Gilgal-ah Topa na Pasian piak dingin la-te hi,” a ci hi.
 
-**ZVS:** Ahih hangin mite in a kinusiate, tuute leh bawngtalte, suksiat dinga a ki-ap na hoihpente Gilgal-ah { Topa } na Pasian piak dingin la uh hi,” a ci hi.
+**ZVS:** Ahih hangin mite in a kinusiate, tuute leh bawngtalte, suksiat dinga a ki-ap na hoihpente Gilgal-ah { Topa } na Pasian piak dingin la-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

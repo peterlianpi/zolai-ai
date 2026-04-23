@@ -24,7 +24,7 @@
 **Meanings:** family | jeezer | sons | gilead | jeezerites | helek
 **CEFR:** A1
 **Usage:** Attested 100× across 2 Bible books.
-> *Gilead' suante: Iezer pan Iezer behte ahi uh hi;*
+> *Gilead' suante: Iezer pan Iezer behte ahi-te hi;*
 > → These are the sons of Gilead: of Jeezer, the family of the Jeezerites: of Helek, the family of the Helekites:
 
 ### iftah
@@ -125,7 +125,7 @@
 **Related:** ishvi, beriah, tapate, sanggamnu, ishvah
 **CEFR:** A1
 **Usage:** Attested 400× across 8 Bible books.
-> *leh a sanggamnu uh Serah ahi hi.*
+> *leh a sanggamnu-te Serah ahi hi.*
 
 ### ing
 **[n]** here
@@ -138,8 +138,8 @@
 > `JOB 11:5`
 
 ### inkipsakna
-**[]** ram
-**Meanings:** ram | fat | liver | two | kidneys | right
+**[]** gam
+**Meanings:** gam | fat | liver | two | kidneys | right
 **CEFR:** A1
 
 ### inling
@@ -256,7 +256,7 @@
 **Related:** note, cih, israel, pia, hang
 **CEFR:** A1
 **Usage:** Attested 4336× across 35 Bible books.
-> *amah akipan a innkuanpihte Topa’ thu a hilh uh hi.*
+> *amah akipan a innkuanpihte Topa’ thu a hilh-te hi.*
 > → And they spake unto him the word of the Lord, and to all that were in his house.
 > `ACT 16:32`
 
@@ -336,7 +336,7 @@
 **Related:** ganhing
 **CEFR:** A1
 **Usage:** Attested 75× across 2 Bible books.
-> *siangte khempeuh na ne thei ding uh hi.*
+> *siangte khempeuh na ne thei ding-te hi.*
 > `DEU 14:20`
 
 ### intopa
@@ -404,7 +404,7 @@
 **Related:** magdiel, edom, hihte, min, vawh
 **CEFR:** A1
 **Usage:** Attested 175× across 4 Bible books.
-> *leh Iram ahi uh hi; hihte in Edom ukpite ahi uh hi.*
+> *leh Iram ahi-te hi; hihte in Edom ukpite ahi-te hi.*
 > `1CH 1:54`
 
 ### iron
@@ -521,7 +521,7 @@
 **Meanings:** iphedeiah | penuel | sons | shashak
 **CEFR:** A2
 **Usage:** Attested 35× across 2 Bible books.
-> *Ifdeiah, leh Penuel in Shashak’ suante ahi uh hi,*
+> *Ifdeiah, leh Penuel in Shashak’ suante ahi-te hi,*
 > → And Iphedeiah, and Penuel, the sons of Shashak;
 > `1CH 8:25`
 
@@ -556,7 +556,7 @@
 **Related:** suak, kisutkhia, neihsa
 **CEFR:** A2
 **Usage:** Attested 90× across 3 Bible books.
-> *A thahatte' neihsa nate kisutkhia a, amaute ihmucip suak uh hi.*
+> *A thahatte' neihsa nate kisutkhia a, amaute ihmucip suak-te hi.*
 > → The stouthearted are spoiled, they have slept their sleep: and none of the men of might have found their hands.
 
 ### ijon
@@ -565,7 +565,7 @@
 **Related:** kumpi, naftali, israel, abelbethmaakah, gam
 **CEFR:** A2
 **Usage:** Attested 525× across 6 Bible books.
-> *leh Naftali vankoihna khuapite a zo uh hi.*
+> *leh Naftali vankoihna khuapite a zo-te hi.*
 
 ### ikabod
 **[]** chabod's
@@ -618,7 +618,7 @@
 **Meanings:** zophah | brother | helem | imna | shelesh | sons
 **CEFR:** A2
 **Usage:** Attested 60× across 2 Bible books.
-> *A sanggampa Hotham' tapate: Zofah, Imna, Shelesh, leh Amal ahi uh hi.*
+> *A sanggampa Hotham' tapate: Zofah, Imna, Shelesh, leh Amal ahi-te hi.*
 > → And the sons of his brother Helem; Zophah, and Imna, and Shelesh, and Amal.
 
 ### imrah
@@ -717,7 +717,7 @@
 **Related:** ciat, david, thei, hang, thuman
 **CEFR:** A2
 **Usage:** Attested 1015× across 22 Bible books.
-> *Hebron khua-ah amaute a teng uh hi.*
+> *Hebron khua-ah amaute a teng-te hi.*
 
 ### innlam
 **[v]** build
@@ -935,7 +935,7 @@
 **Meanings:** spider | taketh | hold | hands | kings | palaces
 **CEFR:** B1
 **Usage:** Attested 50× across 2 Bible books.
-> *Innhikte: Khutsunga tawizawh ganhing hilel napi-in kumpi innsungah tengzo uh hi.*
+> *Innhikte: Khutsunga tawizawh ganhing hilel napi-in kumpi innsungah tengzo-te hi.*
 > → The spider taketh hold with her hands, and is in kings' palaces.
 
 ### innkhuam
@@ -974,13 +974,13 @@
 **Meanings:** become | babylon | heaps | dwellingplace | dragons | astonishment
 **CEFR:** B1
 **Usage:** Attested 115× across 4 Bible books.
-> *Israel mite aw, na kamsangte uh ahih leh innsia lakah*
+> *Israel mite aw, na kamsangte-te ahih leh innsia lakah*
 
 ### innvengte
 **[]** every
 **Meanings:** every | neighbour | peaceably | enemies | neighbour's | committed
 **CEFR:** B1
-> *Sakol gilvah a lante bangin a innvengte’ zite uh neh-in*
+> *Sakol gilvah a lante bangin a innvengte’ zite-te neh-in*
 > `JER 5:8`
 
 ### ipip
@@ -1058,7 +1058,7 @@
 **[]** iscariot
 **Meanings:** iscariot | judas | betrayed | simon | canaanite
 **CEFR:** B2
-> *Kanaan mi Simon leh Zeisu a lehheekpa Judah Iskarot-te ahi uh hi.*
+> *Kanaan mi Simon leh Zeisu a lehheekpa Judah Iskarot-te ahi-te hi.*
 > → Simon the Canaanite, and Judas Iscariot, who also betrayed him.
 > `MAT 10:4`
 
@@ -1114,14 +1114,14 @@
 **Related:** gam, rom, khua, kici, pai
 **CEFR:** C1
 **Usage:** Attested 480× across 4 Bible books.
-> *hong pai mite in note hong hopih uh hi.*
+> *hong pai mite in note hong hopih-te hi.*
 
 ### itnate
 **[n]** leadeth
 **Meanings:** leadeth | goodness | longsuffering | knowing | god | repentance
 **CEFR:** C1
 **Usage:** Attested 55× across 2 Bible books.
-> *Na ki-itnate uh lungsim takpi tawh hi sak un la*
+> *Na ki-itnate-te lungsim takpi tawh hi sak un la*
 
 ### iturea
 **[n]** brother

@@ -35,7 +35,7 @@
 | kua | nine |
 | sawm | ten |
 
-**Pattern:** `[number] pha uh hi` = there are [number] of them
+**Pattern:** `[number] pha-te hi` = there are [number] of them
 
 ### Unit 3: Family
 | Zolai | English |

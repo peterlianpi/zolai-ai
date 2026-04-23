@@ -45,7 +45,7 @@
 
 **TDB77:** Mite thu a manin khenin, minamte leitungah lamlak na hih manin, minamte nuam-in lungdamna sa sak in.
 
-**ZVS:** Mite' thu a manin khenin, leitung minamte khempeuh lamlakin makai na hih manin, minamte nuamin lungdamna la hong sak ta uh hen.
+**ZVS:** Mite' thu a manin khenin, leitung minamte khempeuh lamlakin makai na hih manin, minamte nuamin lungdamna la hong sak ta-te hen.
 
 **Grammar:** serial verb: -in (and then) | causal: because
 
@@ -68,9 +68,9 @@
 ### v7
 **EN:** God shall bless us; and all the ends of the earth shall fear him.
 
-**TDB77:** Pasian in eite thupha hong pia khin hi; leimong dong khempeuhte in amah zahtak uh hen.
+**TDB77:** Pasian in eite thupha hong pia khin hi; leimong dong khempeuhte in amah zahtak-te hen.
 
-**ZVS:** Pasian in eite thupha hong pia khin hi. Leimong dong mi khempeuhte in amah zahtak uh hen.
+**ZVS:** Pasian in eite thupha hong pia khin hi. Leimong dong mi khempeuhte in amah zahtak-te hen.
 
 **Grammar:** completed: already done
 

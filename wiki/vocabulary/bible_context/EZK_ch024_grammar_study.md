@@ -76,9 +76,9 @@
 ### v7
 **EN:** For her blood is in the midst of her; she set it upon the top of a rock; she poured it not upon the ground, to cover it with dust;
 
-**TDB77:** Khuapi sungah mi kithahna om a, a sisante, leivui in a vuh theih nading lei lakah taaksak loin, suang tungah taaksak uh hi.
+**TDB77:** Khuapi sungah mi kithahna om a, a sisante, leivui in a vuh theih nading lei lakah taaksak loin, suang tungah taaksak-te hi.
 
-**ZVS:** Khuapi sungah mi kithahna om a, a sisante, leivui in a vuh theihna ding leilakah taaksak loin, suang tungah taaksak uh hi.
+**ZVS:** Khuapi sungah mi kithahna om a, a sisante, leivui in a vuh theihna ding leilakah taaksak loin, suang tungah taaksak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -182,7 +182,7 @@
 ### v19
 **EN:** And the people said unto me, Wilt thou not tell us what these things are to us, that thou doest so?
 
-**TDB77:** Tua ciangin mite in, “Bang hangin hici gamtat na hi hiam?” ci-in hong dong uh hi.
+**TDB77:** Tua ciangin mite in, “Bang hangin hici gamtat na hi hiam?” ci-in hong dong-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -198,45 +198,45 @@
 ### v21
 **EN:** Speak unto the house of Israel, Thus saith the Lord
 
-**TDB77:** Israel mite kiangah hih bangin thu gen in hong ci hi. Ama cihna in: Note in na kisaktheihpih uh, a sungah paipai-in na etet nop uh ka biakinn pen a ninsak ding ka hi hi. Tua ciangin note’ nung-a a om lai na tate uh, namsau-in si ding uh hi, ci hi.
+**TDB77:** Israel mite kiangah hih bangin thu gen in hong ci hi. Ama cihna in: Note in na kisaktheihpih uh, a sungah paipai-in na etet nop-te ka biakinn pen a ninsak ding ka hi hi. Tua ciangin note’ nung-a a om lai na tate uh, namsau-in si ding-te hi, ci hi.
 
-**ZVS:** Israel mite kiangah hih bangin thu gen in hong ci hi. Ama cihna-ah: Note in na kisaktheihpih uh, a sungah paipai-in na etet nop uh ka biakinn pen a ninsak ding ka hi hi. Tua ciangin note' nungah a omlai na tate uh, namsau-in si ding uh hi, ci hi.
+**ZVS:** Israel mite kiangah hih bangin thu gen in hong ci hi. Ama cihna-ah: Note in na kisaktheihpih uh, a sungah paipai-in na etet nop-te ka biakinn pen a ninsak ding ka hi hi. Tua ciangin note' nungah a omlai na tate uh, namsau-in si ding-te hi, ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And ye shall do as I have done: ye shall not cover your lips, nor eat the bread of men.
 
-**TDB77:** Tua ciangin keima gamtat bangin note gamta-in, na mai uh na khuh kei ding uh a, a dahte’ annekte pawl zong na ne kei ding uh hi.
+**TDB77:** Tua ciangin keima gamtat bangin note gamta-in, na mai-te na khuh kei ding-te a, a dahte’ annekte pawl zong na ne kei ding-te hi.
 
-**ZVS:** Tua ciangin keima gamtat bangin note gamta-in, na mai uh na khuh kei ding uh a, a dahte' annekte pawl zong na ne kei ding uh hi.
+**ZVS:** Tua ciangin keima gamtat bangin note gamta-in, na mai-te na khuh kei ding-te a, a dahte' annekte pawl zong na ne kei ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
 ### v23
 **EN:** And your tires shall be upon your heads, and your shoes upon your feet: ye shall not mourn nor weep; but ye shall pine away for your iniquities, and mourn one toward another.
 
-**TDB77:** Lukhu khu-in khedap na bulh ding uh a, thuum lo, tau loin na om ding uh hi. Note’ gitlohna hangin note maimangin, a tau khawm litlit ding na hi uh hi.
+**TDB77:** Lukhu khu-in khedap na bulh ding-te a, thuum lo, tau loin na om ding-te hi. Note’ gitlohna hangin note maimangin, a tau khawm litlit ding na hi-te hi.
 
-**ZVS:** Lukhu khu-in khedap na bulh ding uh a, thumlo, tauloin na om ding uh hi. Note' gitlohna hangin note maimangin, a taukhawm litlit ding na hi uh hi.
+**ZVS:** Lukhu khu-in khedap na bulh ding-te a, thumlo, tauloin na om ding-te hi. Note' gitlohna hangin note maimangin, a taukhawm litlit ding na hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v24
 **EN:** Thus Ezekiel is unto you a sign: according to all that he hath done shall ye do: and when this cometh, ye shall know that I am the Lord
 
-**TDB77:** Tua ciangin kei pen note’ adingin lim ka hi ding hi. Keima gamtat bangbangin a gamta ding na hi uh hi. Hih bangin thu hong pian’ ciangin, kei pen Topa Pasian ka hihna hong thei ding uh hi, hong ci hi,” ci-in ka dawng hi.
+**TDB77:** Tua ciangin kei pen note’ adingin lim ka hi ding hi. Keima gamtat bangbangin a gamta ding na hi-te hi. Hih bangin thu hong pian’ ciangin, kei pen Topa Pasian ka hihna hong thei ding-te hi, hong ci hi,” ci-in ka dawng hi.
 
-**ZVS:** Tua ciangin kei pen note-a' dingin lim ka hi ding hi. Keima gamtat bangbangin a gamta ding na hihna uh hong gen hi. Hih bangin thu hong pian' ciangin, kei pen Topa { Pasian } ka hihna hong thei ding uh hi, hong ci hi,” ci-in ka dawng hi.
+**ZVS:** Tua ciangin kei pen note-a' dingin lim ka hi ding hi. Keima gamtat bangbangin a gamta ding na hihna-te hong gen hi. Hih bangin thu hong pian' ciangin, kei pen Topa { Pasian } ka hihna hong thei ding-te hi, hong ci hi,” ci-in ka dawng hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
 ### v25
 **EN:** Also, thou son of man, shall it not be in the day when I take from them their strength, the joy of their glory, the desire of their eyes, and that whereupon they set their minds, their sons and their daughters,
 
-**TDB77:** Tua ciangin Topa in kei kiangah, “Ezekiel aw, amaute in a kisaktheihpih, a lungdampih, paipai-in a etet nop uh biakinnpi ka la khia ding a, a tanu a tapate uh zong ka laksak ding hi.
+**TDB77:** Tua ciangin Topa in kei kiangah, “Ezekiel aw, amaute in a kisaktheihpih, a lungdampih, paipai-in a etet nop-te biakinnpi ka la khia ding a, a tanu a tapate-te zong ka laksak ding hi.
 
-**ZVS:** Tua ciangin { Topa } in kei kiangah, “Mihing ahi Ezekiel aw, amaute in a kisaktheihpih, a lungdampih, paipai-in a etet nop uh biakinnpi ka lakhia ding a, a tanu a tapate uh zong ka laksak ding hi.
+**ZVS:** Tua ciangin { Topa } in kei kiangah, “Mihing ahi Ezekiel aw, amaute in a kisaktheihpih, a lungdampih, paipai-in a etet nop-te biakinnpi ka lakhia ding a, a tanu a tapate-te zong ka laksak ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -250,9 +250,9 @@
 ### v27
 **EN:** In that day shall thy mouth be opened to him which is escaped, and thou shalt speak, and be no more dumb: and thou shalt be a sign unto them; and they shall know that I am the
 
-**TDB77:** Tua ni ciangin nang na pau thei kik ding a, amah tawh na kiho khawm thei ding hi. Tu-a bangin nangmah in mite’ adingin lim khat na hi ding a, tua ciangin Topa ka hihna amaute in hong thei ding uh hi,” hong ci hi.
+**TDB77:** Tua ni ciangin nang na pau thei kik ding a, amah tawh na kiho khawm thei ding hi. Tu-a bangin nangmah in mite’ adingin lim khat na hi ding a, tua ciangin Topa ka hihna amaute in hong thei ding-te hi,” hong ci hi.
 
-**ZVS:** Tua ni ciangin nang na pauthei kik ding a, amah tawh na kihokhawm thei ding hi. Tu-a bangin nang pen mite-a' dingin lim khat na hi ding a, tua ciangin { Topa } ka hihna amaute in hong thei ding uh hi,” a hong ci hi.
+**ZVS:** Tua ni ciangin nang na pauthei kik ding a, amah tawh na kihokhawm thei ding hi. Tu-a bangin nang pen mite-a' dingin lim khat na hi ding a, tua ciangin { Topa } ka hihna amaute in hong thei ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

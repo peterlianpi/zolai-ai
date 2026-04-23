@@ -133,7 +133,7 @@
 **Related:** isaac, jakob, sanggampa, khit, tapa
 **CEFR:** A1
 **Usage:** Attested 2644× across 4 Bible books.
-> *amaute in Isaak leh Rebekah’ nuntakna haksasak uh hi.*
+> *amaute in Isaak leh Rebekah’ nuntakna haksasak-te hi.*
 > → Which were a grief of mind unto Isaac and to Rebekah.
 > `GEN 26:35`
 
@@ -186,7 +186,7 @@
 **Related:** shema
 **CEFR:** A1
 **Usage:** Attested 325× across 6 Bible books.
-> *Hebron' tapate: Korah, Tappuah, Rekem, leh Shema ahi uh hi.*
+> *Hebron' tapate: Korah, Tappuah, Rekem, leh Shema ahi-te hi.*
 > → And the sons of Hebron; Korah, and Tappuah, and Rekem, and Shema.
 
 ### remeses
@@ -276,7 +276,7 @@
 **Related:** sat, giahphual, dingkhia
 **CEFR:** A1
 **Usage:** Attested 80× across 2 Bible books.
-> *Rithmah panin dingkhia uh a, Rimmonperez-ah giahphual sat uh hi.*
+> *Rithmah panin dingkhia-te a, Rimmonperez-ah giahphual sat-te hi.*
 > → And they departed from Rithmah, and pitched at Rimmon–perez.
 
 ### rissah
@@ -285,7 +285,7 @@
 **Related:** sat, giahphual, dingkhia
 **CEFR:** A1
 **Usage:** Attested 70× across 2 Bible books.
-> *Ribnah panin dingkhia uh a, Rissah-ah giahphual sat uh hi.*
+> *Ribnah panin dingkhia-te a, Rissah-ah giahphual sat-te hi.*
 > → And they removed from Libnah, and pitched at Rissah.
 
 ### rithmah
@@ -295,7 +295,7 @@
 **Related:** sat, giahphual, dingkhia
 **CEFR:** A1
 **Usage:** Attested 75× across 2 Bible books.
-> *Hazeroth panin dingkhia uh a, Rithmah-ah giahphual sat uh hi.*
+> *Hazeroth panin dingkhia-te a, Rithmah-ah giahphual sat-te hi.*
 > → And they departed from Hazeroth, and pitched in Rithmah.
 
 ### rodanim
@@ -357,15 +357,15 @@
 **Usage:** Attested 105× across 2 Bible books.
 > *Tua ciangin Makhir' zi Maakah in tapa nih nei*
 
-### ram
-**[n]** ram
-**Meanings:** ram | firstborn | wrath | begat | amminadab | hezron
+### gam
+**[n]** gam
+**Meanings:** gam | firstborn | wrath | begat | amminadab | hezron
 **Synonyms:** suah, zagiat, salmon
 **Related:** suak, tapate, sung, pa, amminadab
 **CEFR:** A2
 **Usage:** Attested 580× across 8 Bible books. ⚠ Non-ZVS: use 'gam' instead.
-> *Hezron in Ram’ pa Ram in Amminadab’ pa,*
-> → And Hezron begat Ram, and Ram begat Amminadab,
+> *Hezron in gam’ pa gam in Amminadab’ pa,*
+> → And Hezron begat gam, and gam begat Amminadab,
 > `RUT 4:19`
 
 ### ramathaimzofim
@@ -451,7 +451,7 @@
 **Meanings:** regem | sons | jahdai | jotham | geshan | pelet
 **CEFR:** A2
 **Usage:** Attested 65× across 2 Bible books.
-> *Jahdai' tapate: Regem, Jotham, Geshan, Pelet, Efah, leh Shaaf ahi uh hi.*
+> *Jahdai' tapate: Regem, Jotham, Geshan, Pelet, Efah, leh Shaaf ahi-te hi.*
 > → And the sons of Jahdai; Regem, and Jotham, and Geshan, and Pelet, and Ephah, and Shaaph.
 
 ### rehabiah
@@ -519,7 +519,7 @@
 **Related:** elifaz, tapate, tapa, basemath, nei
 **CEFR:** A2
 **Usage:** Attested 405× across 4 Bible books.
-> *Esau' tapate: Elifaz, Reuel, Jeush, Jalam, leh Korah ahi uh hi.*
+> *Esau' tapate: Elifaz, Reuel, Jeush, Jalam, leh Korah ahi-te hi.*
 > → The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
 
 ### rezef
@@ -580,7 +580,7 @@
 **Meanings:** haniel | arah | rezia | sons | ulla
 **CEFR:** A2
 **Usage:** Attested 40× across 2 Bible books.
-> *Ulla' suante: Arah, Hanniel, leh Rizia ahi uh hi.*
+> *Ulla' suante: Arah, Hanniel, leh Rizia ahi-te hi.*
 > → And the sons of Ulla; Arah, and Haniel, and Rezia.
 
 ### rizpah
@@ -608,7 +608,7 @@
 **Meanings:** rohgah | shamer | ahi | jehubbah | sons | aram
 **CEFR:** A2
 **Usage:** Attested 50× across 2 Bible books.
-> *A sanggampa Shomer' tapate: Rohgah, Jehubbah, leh Aram ahi uh hi.*
+> *A sanggampa Shomer' tapate: Rohgah, Jehubbah, leh Aram ahi-te hi.*
 > → And the sons of Shamer; Ahi, and Rohgah, Jehubbah, and Aram.
 
 ### romamtiezer
@@ -709,7 +709,7 @@
 **Meanings:** rhegium | came | day | thence | fetched | compass
 **CEFR:** C1
 **Usage:** Attested 115× across 2 Bible books.
-> *ni nih sungin Puteoli khua ka tung uh hi.*
+> *ni nih sungin Puteoli khua ka tung-te hi.*
 
 ### resa
 **[n]** zorobabel

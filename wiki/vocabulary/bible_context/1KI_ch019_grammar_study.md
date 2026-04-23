@@ -107,9 +107,9 @@
 ### v10
 **EN:** And he said, I have been very zealous for the
 
-**TDB77:** Amah in, “Vanglianpen Pasian, Topa adingin ka huaiham mahmah hi; bang hang hiam cih leh Israel mite in na thuciamna nusia-in, na biakna taute lawn khia a, namsau tawh na kamsangte that hi; kei, kei bekbek ka om lai hi; amaute in kei thah dingin hong zong uh hi,” a ci hi.
+**TDB77:** Amah in, “Vanglianpen Pasian, Topa adingin ka huaiham mahmah hi; bang hang hiam cih leh Israel mite in na thuciamna nusia-in, na biakna taute lawn khia a, namsau tawh na kamsangte that hi; kei, kei bekbek ka om lai hi; amaute in kei thah dingin hong zong-te hi,” a ci hi.
 
-**ZVS:** Amah in, “Vanglian Pasian, { Topa}-a' dingin ka huaiham mahmah hi; bang hang hiam cih leh Israel mite in na thuciamna nusia-in, na biakna taute lawnkhia uh a, namsau tawh na kamsangte that hi; kei, kei bekbek ka omlai hi. Amaute in kei nangawn thah dingin hong zong lai uh hi,” a ci hi.
+**ZVS:** Amah in, “Vanglian Pasian, { Topa}-a' dingin ka huaiham mahmah hi; bang hang hiam cih leh Israel mite in na thuciamna nusia-in, na biakna taute lawnkhia-te a, namsau tawh na kamsangte that hi; kei, kei bekbek ka omlai hi. Amaute in kei nangawn thah dingin hong zong lai-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -143,9 +143,9 @@
 ### v14
 **EN:** And he said, I have been very zealous for the
 
-**TDB77:** Amah in, “Vanglianpen Pasian, Topa adingin ka huaiham mahmah hi; bang hang hiam cih leh Israel mite in na thuciamna nusia-in, na biakna taute lawnkhia a, namsau tawh na kamsangte that hi; kei, kei bekbek ka om lai hi; amaute in kei thah dingin hong zong uh hi,” a ci hi.
+**TDB77:** Amah in, “Vanglianpen Pasian, Topa adingin ka huaiham mahmah hi; bang hang hiam cih leh Israel mite in na thuciamna nusia-in, na biakna taute lawnkhia a, namsau tawh na kamsangte that hi; kei, kei bekbek ka om lai hi; amaute in kei thah dingin hong zong-te hi,” a ci hi.
 
-**ZVS:** Amah in, “Vanglian Pasian, { Topa}-a' dingin ka huaiham mahmah hi; bang hang hiam cih leh Israel mite in na thuciamna nusia-in, na biakna taute lawnkhia uh a, namsau tawh na kamsangte that uh hi; kei, kei bekbek ka omlai hi. Amaute in kei nangawn thah dingin hong zong lai uh hi,” a ci hi.
+**ZVS:** Amah in, “Vanglian Pasian, { Topa}-a' dingin ka huaiham mahmah hi; bang hang hiam cih leh Israel mite in na thuciamna nusia-in, na biakna taute lawnkhia-te a, namsau tawh na kamsangte that-te hi; kei, kei bekbek ka omlai hi. Amaute in kei nangawn thah dingin hong zong lai-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -206,9 +206,9 @@
 ### v21
 **EN:** And he returned back from him, and took a yoke of oxen, and slew them, and boiled their flesh with the instruments of the oxen, and gave unto the people, and they did eat. Then he arose, and went after Elijah, and ministered unto him.
 
-**TDB77:** Tua ciangin amah zuihna panin ciahkik a, a bawngtal kolte la-in a bawngtalte go a, a sate bawngtal kolte tawh huanin mite tungah pia a, amaute in ne uh hi. Tua ciangin amah ding-in Elijah’ nung zui a, ama na sem hi.
+**TDB77:** Tua ciangin amah zuihna panin ciahkik a, a bawngtal kolte la-in a bawngtalte go a, a sate bawngtal kolte tawh huanin mite tungah pia a, amaute in ne-te hi. Tua ciangin amah ding-in Elijah’ nung zui a, ama na sem hi.
 
-**ZVS:** Tua ciangin amah a zuihna panin ciahkik a, a bawngtal kolte la-in a bawngtalte go a, a sate bawngtal kolte tawh huanin mite tungah pia a, amaute in a ne uh hi. Tua ciangin amah kithawi-in Elijah' nung zui a, ama na a sem hi.
+**ZVS:** Tua ciangin amah a zuihna panin ciahkik a, a bawngtal kolte la-in a bawngtalte go a, a sate bawngtal kolte tawh huanin mite tungah pia a, amaute in a ne-te hi. Tua ciangin amah kithawi-in Elijah' nung zui a, ama na a sem hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

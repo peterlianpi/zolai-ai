@@ -108,9 +108,9 @@
 ### v11
 **EN:** I was a reproach among all mine enemies, but especially among my neighbours, and a fear to mine acquaintance: they that did see me without fled from me.
 
-**TDB77:** Ka langte khempeuh’ nuihsat hi-in, ka vengte tungah cikzet-huai ka hi a, ka meltheihte’ gimneih ka hi hi; konglak-a hong mute in kei hong pelin hong taisan uh hi.
+**TDB77:** Ka langte khempeuh’ nuihsat hi-in, ka vengte tungah cikzet-huai ka hi a, ka meltheihte’ gimneih ka hi hi; konglak-a hong mute in kei hong pelin hong taisan-te hi.
 
-**ZVS:** Ka vengte khempeuh' nuihsat ka suak a, ka vengte tungah a cikzethuai ka hi a, ka meltheih khempeuhte' gimneih mi ka suak hi. Konglakah hong mute in kei hong peelin hong taisan uh hi.
+**ZVS:** Ka vengte khempeuh' nuihsat ka suak a, ka vengte tungah a cikzethuai ka hi a, ka meltheih khempeuhte' gimneih mi ka suak hi. Konglakah hong mute in kei hong peelin hong taisan-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -126,9 +126,9 @@
 ### v13
 **EN:** For I have heard the slander of many: fear was on every side: while they took counsel together against me, they devised to take away my life.
 
-**TDB77:** Hi hi, mi tampi’ kihuauna ka za hi—mun citeng-ah launa om! kei langpangin amaute vaihawm khawmin, thah dingin kei hong sawm uh hi.
+**TDB77:** Hi hi, mi tampi’ kihuauna ka za hi—mun citeng-ah launa om! kei langpangin amaute vaihawm khawmin, thah dingin kei hong sawm-te hi.
 
-**ZVS:** Ka galte' kihuauna ka za a, ka kiim ka pamah launa om hi. Kei hong langpangin amaute in vai hawmkhawm a, thah dingin kei hong sawm uh hi.
+**ZVS:** Ka galte' kihuauna ka za a, ka kiim ka pamah launa om hi. Kei hong langpangin amaute in vai hawmkhawm a, thah dingin kei hong sawm-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -180,7 +180,7 @@
 
 **TDB77:** Nang hong zahtakte’ adinga na koihsa, nang hong belte’ adinga mite’ muhna-ah na bawl, na hoihna bangzah takin kicing!
 
-**ZVS:** Nang hong zahtakte-a' dingin na koihsa na hoihte, nang hong beelte-a' dingin mite' muhna-ah na bawl, nangma hoihna kicing a, mi khempeuh in thei uh hi.
+**ZVS:** Nang hong zahtakte-a' dingin na koihsa na hoihte, nang hong beelte-a' dingin mite' muhna-ah na bawl, nangma hoihna kicing a, mi khempeuh in thei-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -223,9 +223,9 @@
 ### v24
 **EN:** Be of good courage, and he shall strengthen your heart, all ye that hope in the
 
-**TDB77:** Topa a ngak mi khempeuh aw, na tha uh khauhsak-in, na lungsim uh hangsak ta un!
+**TDB77:** Topa a ngak mi khempeuh aw, na tha-te khauhsak-in, na lungsim-te hangsak ta un!
 
-**ZVS:** { Topa } a ngak mi khempeuh aw, na tha uh khauhsak un la, na lungsim uh hangsak ta un!
+**ZVS:** { Topa } a ngak mi khempeuh aw, na tha-te khauhsak un la, na lungsim-te hangsak ta un!
 
 **Grammar:** serial verb: -in (and then)
 

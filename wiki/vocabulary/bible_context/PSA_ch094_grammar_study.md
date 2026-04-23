@@ -39,45 +39,45 @@
 ### v4
 **EN:** How long shall they utter and speak hard things? and all the workers of iniquity boast themselves?
 
-**TDB77:** Gamtatsiate, bang tanvei kihisak lai ding uh a, a siat gamtatna uh bang tanvei kisialhpih lai ding ahi uh hiam?
+**TDB77:** Gamtatsiate, bang tanvei kihisak lai ding-te a, a siat gamtatna-te bang tanvei kisialhpih lai ding ahi-te hiam?
 
-**ZVS:** Gamtatsiate bang tanvei kihisak lai ding uh a, a siat gamtatna uh bang tanvei kisialhpih lai ding ahi uh hiam?
+**ZVS:** Gamtatsiate bang tanvei kihisak lai ding-te a, a siat gamtatna-te bang tanvei kisialhpih lai ding ahi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** They break in pieces thy people, O
 
-**TDB77:** Topa aw, amaute in nangma mite sugawp uh a, nangma luahte gimsak uh hi.
+**TDB77:** Topa aw, amaute in nangma mite sugawp-te a, nangma luahte gimsak-te hi.
 
-**ZVS:** { Topa } aw, amaute in nangma mite sugawp uh a, nangma luahte gimsak uh hi.
+**ZVS:** { Topa } aw, amaute in nangma mite sugawp-te a, nangma luahte gimsak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** They slay the widow and the stranger, and murder the fatherless.
 
-**TDB77:** Amaute in meigong numei leh khualmi thatlum uh a, pa nei lote suamlum uh hi;
+**TDB77:** Amaute in meigong numei leh khualmi thatlum-te a, pa nei lote suamlum-te hi;
 
-**ZVS:** Amaute in meigong numeite leh khualmite thatlumin pa neilote suamlum uh hi.
+**ZVS:** Amaute in meigong numeite leh khualmite thatlumin pa neilote suamlum-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** Yet they say, The
 
-**TDB77:** amaute in, “Topa in mu lo hi; Jakob Pasian in thei lo hi,” hong ci uh hi.
+**TDB77:** amaute in, “Topa in mu lo hi; Jakob Pasian in thei lo hi,” hong ci-te hi.
 
-**ZVS:** Amaute in, “{ Topa } in mulo hi; Jakob Pasian in theilo hi,” hong ci uh hi.
+**ZVS:** Amaute in, “{ Topa } in mulo hi; Jakob Pasian in theilo hi,” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | negation: lo | plural: uh marker
 
 ### v8
 **EN:** Understand, ye brutish among the people: and ye fools, when will ye be wise?
 
-**TDB77:** Thei tel un, mi lungsim mawl pente aw! Lung pillote aw, cik ciangin pil ding na hi uh hiam?
+**TDB77:** Thei tel un, mi lungsim mawl pente aw! Lung pillote aw, cik ciangin pil ding na hi-te hiam?
 
-**ZVS:** Theitel un, mi lungsimmawl pente aw! Lung pillote aw, cik ciangin pil ding na hi uh hiam?
+**ZVS:** Theitel un, mi lungsimmawl pente aw! Lung pillote aw, cik ciangin pil ding na hi-te hiam?
 
 ### v9
 **EN:** He that planted the ear, shall he not hear? he that formed the eye, shall he not see?
@@ -110,9 +110,9 @@
 ### v15
 **EN:** But judgment shall return unto righteousness: and all the upright in heart shall follow it.
 
-**TDB77:** bang hang hiam cih leh thutang pen thumante tungah hong tungkik ding a, lungsim thutang khempeuh in amah zui ding uh hi.
+**TDB77:** bang hang hiam cih leh thutang pen thumante tungah hong tungkik ding a, lungsim thutang khempeuh in amah zui ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh thutang pen thuman mite tungah hong tungkik ding a, lungsim thutang khempeuh in amah zui ding uh hi.
+**ZVS:** Bang hang hiam cih leh thutang pen thuman mite tungah hong tungkik ding a, lungsim thutang khempeuh in amah zui ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -162,9 +162,9 @@
 ### v21
 **EN:** They gather themselves together against the soul of the righteous, and condemn the innocent blood.
 
-**TDB77:** Amaute in thuman mihoihte thah sawm uh a, a mawh baang lo mite, sihna daan thuak sak uh hi.
+**TDB77:** Amaute in thuman mihoihte thah sawm-te a, a mawh baang lo mite, sihna daan thuak sak-te hi.
 
-**ZVS:** Amaute in thuman mihoihte thah sawm uh a, a mawhbaanglo mite sihna thuaksak uh hi.
+**ZVS:** Amaute in thuman mihoihte thah sawm-te a, a mawhbaanglo mite sihna thuaksak-te hi.
 
 **Grammar:** plural: uh marker
 

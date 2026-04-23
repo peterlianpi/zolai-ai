@@ -34,36 +34,36 @@
 ### v2
 **EN:** And it shall come to pass in that day, saith the
 
-**TDB77:** Tua ni ciangin gam sung panin milim khempeuh ka phiatsiang ding a, kuamah in a milim min nangawn phawk kha nawn lo ding uh hi. Kamsang zuautheite zong phiatin, milim biak nopna lungsim ka beisak ding hi.
+**TDB77:** Tua ni ciangin gam sung panin milim khempeuh ka phiatsiang ding a, kuamah in a milim min nangawn phawk kha nawn lo ding-te hi. Kamsang zuautheite zong phiatin, milim biak nopna lungsim ka beisak ding hi.
 
-**ZVS:** Tua ni ciangin gamsung panin milim khempeuh ka phiatsiang ding a, kuamah in a milim min nangawn uh phawkkha nawnlo ding uh hi. Kamsang zuautheite zong phiatin, milim biaknopna lungsim ka beisak ding hi.
+**ZVS:** Tua ni ciangin gamsung panin milim khempeuh ka phiatsiang ding a, kuamah in a milim min nangawn-te phawkkha nawnlo ding-te hi. Kamsang zuautheite zong phiatin, milim biaknopna lungsim ka beisak ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v3
 **EN:** And it shall come to pass, that when any shall yet prophesy, then his father and his mother that begat him shall say unto him, Thou shalt not live; for thou speakest lies in the name of the
 
-**TDB77:** Mi khatpeuh kamsang a kineih lai teitei leh, a pian’na a nu leh a pa mahmah in kho ding uh a, ‘Topa’ min paulamin zuauthu gen na hih manin na si ding hi,’ ci ding uh hi. Tua bangin thu a gen teitei leh, a nu leh a pa mahmah in tem tawh sun lum ding uh hi.
+**TDB77:** Mi khatpeuh kamsang a kineih lai teitei leh, a pian’na a nu leh a pa mahmah in kho ding-te a, ‘Topa’ min paulamin zuauthu gen na hih manin na si ding hi,’ ci ding-te hi. Tua bangin thu a gen teitei leh, a nu leh a pa mahmah in tem tawh sun lum ding-te hi.
 
-**ZVS:** Mi khatpeuh kamsang a kineihlai teitei leh, a pian'na a nu leh a pa mahmah in kho ding uh a, ‘{ Topa' } min paulamin zuauthu gen na hih manin na si ding hi,’ ci ding uh hi. Tua bangin thu a gen teitei leh, a nu leh a pa mahmah in tem tawh sunlum ding uh hi.
+**ZVS:** Mi khatpeuh kamsang a kineihlai teitei leh, a pian'na a nu leh a pa mahmah in kho ding-te a, ‘{ Topa' } min paulamin zuauthu gen na hih manin na si ding hi,’ ci ding-te hi. Tua bangin thu a gen teitei leh, a nu leh a pa mahmah in tem tawh sunlum ding-te hi.
 
 **Grammar:** intensifier: very/greatly | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And it shall come to pass in that day, that the prophets shall be ashamed every one of his vision, when he hath prophesied; neither shall they wear a rough garment to deceive:
 
-**TDB77:** Tua ni hong tun’ ciangin, kamsangte in a mangmuh theihna uh kisialhpih ngam loin, kamsangte bangin zong puansilh ngam loin, kamsang zong kineih ngam lo ding uh hi.
+**TDB77:** Tua ni hong tun’ ciangin, kamsangte in a mangmuh theihna-te kisialhpih ngam loin, kamsangte bangin zong puansilh ngam loin, kamsang zong kineih ngam lo ding-te hi.
 
-**ZVS:** Tua ni hong tun' ciangin kamsangte in a maangmuh theihna uh kisialhpih ngam nawnloin, kamsangte bangin zong puan silh ngam nawnloin, kamsang zong kineih ngam nawnlo ding uh hi.
+**ZVS:** Tua ni hong tun' ciangin kamsangte in a maangmuh theihna-te kisialhpih ngam nawnloin, kamsangte bangin zong puan silh ngam nawnloin, kamsang zong kineih ngam nawnlo ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** But he shall say, I am no prophet, I am an husbandman; for man taught me to keep cattle from my youth.
 
-**TDB77:** Kamsang ka hi kei hi; lo kho mi ka hi a, ka khan’ tawnin lo kho-in a om ka hi hi, ci zawsop ding uh hi.
+**TDB77:** Kamsang ka hi kei hi; lo kho mi ka hi a, ka khan’ tawnin lo kho-in a om ka hi hi, ci zawsop ding-te hi.
 
-**ZVS:** Kamsang ka hi kei hi; lokho mi ka hi a, ka khan' tawnin lokho-in a om ka hi hi, ci zawsop ding uh hi.
+**ZVS:** Kamsang ka hi kei hi; lokho mi ka hi a, ka khan' tawnin lokho-in a om ka hi hi, ci zawsop ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
@@ -97,9 +97,9 @@
 ### v9
 **EN:** And I will bring the third part through the fire, and will refine them as silver is refined, and will try them as gold is tried: they shall call on my name, and I will hear them: I will say, It is my people: and they shall say, The
 
-**TDB77:** Tua a suakta seh khatte pen, meikhukah ngun a kisian’sak bangin, meikhukah kham a kize-et bangin, meikhukah ze-etin ka siangsak ding hi. Amaute in kei tungah thu hong ngenin, kei zong amau’ hong ngetna ka pia ding hi. Keima mi ahihna uh, amaute tungah ka gen ding a, amaute in, kei pen, amau’ Pasian ka hihna thu, a kam uh tawh pulak ding uh hi,” a ci hi.
+**TDB77:** Tua a suakta seh khatte pen, meikhukah ngun a kisian’sak bangin, meikhukah kham a kize-et bangin, meikhukah ze-etin ka siangsak ding hi. Amaute in kei tungah thu hong ngenin, kei zong amau’ hong ngetna ka pia ding hi. Keima mi ahihna uh, amaute tungah ka gen ding a, amaute in, kei pen, amau’ Pasian ka hihna thu, a kam-te tawh pulak ding-te hi,” a ci hi.
 
-**ZVS:** Tua a suakta sehkhatte pen meikhukah ngun a kisian'sak bangin, meikhukah kham a kize-et bangin, meikhukah ze-etin ka siangsak ding hi. Amaute in kei tungah thu hong ngenin, kei zong amau' thungetna ka pia ding hi. Keima mi ahihna uh amaute tungah ka gen ding a, amaute in kei pen amau' Pasian ka hihna thu a kam uh tawh pulak ding uh hi,” a ci hi.
+**ZVS:** Tua a suakta sehkhatte pen meikhukah ngun a kisian'sak bangin, meikhukah kham a kize-et bangin, meikhukah ze-etin ka siangsak ding hi. Amaute in kei tungah thu hong ngenin, kei zong amau' thungetna ka pia ding hi. Keima mi ahihna-te amaute tungah ka gen ding a, amaute in kei pen amau' Pasian ka hihna thu a kam-te tawh pulak ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

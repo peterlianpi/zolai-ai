@@ -21,7 +21,7 @@
 ### v2
 **EN:** That sendeth ambassadors by the sea, even in vessels of bulrushes upon the waters, saying, Go, ye swift messengers, to a nation scattered and peeled, to a people terrible from their beginning hitherto; a nation meted out and trodden down, whose land the rivers have spoiled!
 
-**TDB77:** Ah, Ethiopia gunte' galkhat, puankhai gunkuangpi a omna gamte in Nail gun tawnin tui tungah laisah tawh a kibawl gunkuangpite tungah tuangin tangmi hong sawl uh hi. No a zaptel makaite aw, amau' gam gunpi in a phelkhap, a vanglian a gualzo minam, a nai a gamla-ah a kikihta mi, a tun sang mi, a cinel minamte kiangah va pai un.
+**TDB77:** Ah, Ethiopia gunte' galkhat, puankhai gunkuangpi a omna gamte in Nail gun tawnin tui tungah laisah tawh a kibawl gunkuangpite tungah tuangin tangmi hong sawl-te hi. No a zaptel makaite aw, amau' gam gunpi in a phelkhap, a vanglian a gualzo minam, a nai a gamla-ah a kikihta mi, a tun sang mi, a cinel minamte kiangah va pai un.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -55,9 +55,9 @@
 ### v6
 **EN:** They shall be left together unto the fowls of the mountains, and to the beasts of the earth: and the fowls shall summer upon them, and all the beasts of the earth shall winter upon them.
 
-**TDB77:** Tuate khempeuh pen mual tunga vasate’ nek ding leh leitunga ganhingte’ nek dingin kinusia ding hi. Khuakhal hun ciangin vasate in ne ding a, phalbi hun ciangin leitunga ganhingte in ne ding uh hi.
+**TDB77:** Tuate khempeuh pen mual tunga vasate’ nek ding leh leitunga ganhingte’ nek dingin kinusia ding hi. Khuakhal hun ciangin vasate in ne ding a, phalbi hun ciangin leitunga ganhingte in ne ding-te hi.
 
-**ZVS:** Tuate khempeuh mualtunga om vasate' nek ding leh leitunga ganhingte' nek dingin kinusia ding hi. Khuakhal ciangin vasate in ne ding a, phalbi ciangin leitunga ganhingte in ne ding uh hi.
+**ZVS:** Tuate khempeuh mualtunga om vasate' nek ding leh leitunga ganhingte' nek dingin kinusia ding hi. Khuakhal ciangin vasate in ne ding a, phalbi ciangin leitunga ganhingte in ne ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

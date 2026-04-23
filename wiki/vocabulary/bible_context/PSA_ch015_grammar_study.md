@@ -44,7 +44,7 @@
 
 **TDB77:** a meet-in ama sum kha lo a, thutangte’ lang ah golhguk a la lo mi ahi hi. Hihte khempeuh a hih mi pen liing ngei lo ding hi.
 
-**ZVS:** ama sum a meetin a khalo, thutang mite a langpan'lo, golhguk a lalo mite teng ding uh hi. Hih bangin a gamtate pen ling ngeilo ding hi.
+**ZVS:** ama sum a meetin a khalo, thutang mite a langpan'lo, golhguk a lalo mite teng ding-te hi. Hih bangin a gamtate pen ling ngeilo ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 

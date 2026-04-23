@@ -258,25 +258,25 @@
 
 **TDB77:** Ka galte in gimna a thuak ciangin ka kipak ngei kei a, haksatna a tuah ciangun ka lungdam ngei kei hi.
 
-**ZVS:** “Ka galte'n gim a thuak teh ka kipak ngei kei a, haksatna a tuah uh teh ka lungdam ngei kei hi.
+**ZVS:** “Ka galte'n gim a thuak teh ka kipak ngei kei a, haksatna a tuah-te teh ka lungdam ngei kei hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v30
 **EN:** Neither have I suffered my mouth to sin by wishing a curse to his soul.
 
-**TDB77:** A sih nading uh deihna tawh cik mahin ka samsia ngei kei hi.
+**TDB77:** A sih nading-te deihna tawh cik mahin ka samsia ngei kei hi.
 
-**ZVS:** A sih ding uh deihna tawh ka samsia ngei kei hi.
+**ZVS:** A sih ding-te deihna tawh ka samsia ngei kei hi.
 
 **Grammar:** negation: kei
 
 ### v31
 **EN:** If the men of my tabernacle said not, Oh that we had of his flesh! we cannot be satisfied.
 
-**TDB77:** Zin leh leeng lim takin ka do tawntungna thu, ka na hong sepsak mi khempeuh in thei uh hi.
+**TDB77:** Zin leh leeng lim takin ka do tawntungna thu, ka na hong sepsak mi khempeuh in thei-te hi.
 
-**ZVS:** Zin leh leengte limtakin ka do tawntungna thu ka na a hong sepsak mi khempeuh in a thei uh hi.
+**ZVS:** Zin leh leengte limtakin ka do tawntungna thu ka na a hong sepsak mi khempeuh in a thei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -292,9 +292,9 @@
 ### v33
 **EN:** If I covered my transgressions as Adam, by hiding mine iniquity in my bosom:
 
-**TDB77:** Midangte in a mawhna uh iim a, ahih hangin kei aa ka iim ngei kei hi.
+**TDB77:** Midangte in a mawhna-te iim a, ahih hangin kei aa ka iim ngei kei hi.
 
-**ZVS:** Midangte in a mawhnate uh pulak loin imcip uh a, ahih hangin keima mawhna cikmahin ka im ngei kei hi.
+**ZVS:** Midangte in a mawhnate-te pulak loin imcip-te a, ahih hangin keima mawhna cikmahin ka im ngei kei hi.
 
 **Grammar:** negation: kei
 

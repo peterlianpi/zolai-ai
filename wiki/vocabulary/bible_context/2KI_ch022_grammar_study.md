@@ -51,9 +51,9 @@
 ### v4
 **EN:** Go up to Hilkiah the high priest, that he may sum the silver which is brought into the house of the
 
-**TDB77:** “Kong cingte in mite tung panin a khop uh ahi Topa’ inn sungah hong kipaipih sum phazah a theih nadingin siampi lianpa Hilkiah kiangah paito in;
+**TDB77:** “Kong cingte in mite tung panin a khop-te ahi Topa’ inn sungah hong kipaipih sum phazah a theih nadingin siampi lianpa Hilkiah kiangah paito in;
 
-**ZVS:** “Kongcingte in mite tung panin a khop uh ahi { Topa' } biakinn sungah hong kipaipih sum phazah a theihna dingin siampi lianpenpa Hilkiah kiangah paito in.
+**ZVS:** “Kongcingte in mite tung panin a khop-te ahi { Topa' } biakinn sungah hong kipaipih sum phazah a theihna dingin siampi lianpenpa Hilkiah kiangah paito in.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -78,9 +78,9 @@
 ### v7
 **EN:** Howbeit there was no reckoning made with them of the money that was delivered into their hand, because they dealt faithfully.
 
-**TDB77:** Ahih hangin thuman takin amaute gamta uh ahih manin amaute khut sungah a kipia sumte hangin amaute tung panin sazian kingen lo ding hi,” a ci hi.
+**TDB77:** Ahih hangin thuman takin amaute gamta-te ahih manin amaute khut sungah a kipia sumte hangin amaute tung panin sazian kingen lo ding hi,” a ci hi.
 
-**ZVS:** Ahih hangin thuman takin amaute gamta uh ahih manin amaute' khutsungah a kipia sumte hangin amaute tung panin sazian kingenlo ding hi,” a ci hi.
+**ZVS:** Ahih hangin thuman takin amaute gamta-te ahih manin amaute' khutsungah a kipia sumte hangin amaute tung panin sazian kingenlo ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | reciprocal: ki- prefix
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** And Shaphan the scribe came to the king, and brought the king word again, and said, Thy servants have gathered the money that was found in the house, and have delivered it into the hand of them that do the work, that have the oversight of the house of the
 
-**TDB77:** Tua ciangin kumpipa kiangah lai-atpa Shafan hong pai-in, kumpipa kiangah thu zasak a, “Na nasemte in inn sungah a om sumte la khia-in Topa inn a en nasemte’ tungah pia khin zo uh hi,” a ci hi.
+**TDB77:** Tua ciangin kumpipa kiangah lai-atpa Shafan hong pai-in, kumpipa kiangah thu zasak a, “Na nasemte in inn sungah a om sumte la khia-in Topa inn a en nasemte’ tungah pia khin zo-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin kumpipa kiangah lai-atpa Shafan hong pai-in thu zasak a, “Nasemte in biakinn sungah a om sumte lakhia-in { Topa' } biakinn nasemte tungah pia khinzo uh hi,” a ci hi.
+**ZVS:** Tua ciangin kumpipa kiangah lai-atpa Shafan hong pai-in thu zasak a, “Nasemte in biakinn sungah a om sumte lakhia-in { Topa' } biakinn nasemte tungah pia khinzo-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -130,18 +130,18 @@
 ### v13
 **EN:** Go ye, enquire of the
 
-**TDB77:** “Pai un la, a kimu hih laibu sunga thute tawh kisai-in keima ading, mite ading, leh Judah mi khempeuh adingin Topa tungah thu va dong un; bang hang hiam cih leh hih laibu sunga thu, eite tawh kisai-in a kigelh khempeuh bangin gamtat ding i pu i pate in na mang lo uh ahih manin eite tungah Topa’ hehna in lian hi,” a ci hi.
+**TDB77:** “Pai un la, a kimu hih laibu sunga thute tawh kisai-in keima ading, mite ading, leh Judah mi khempeuh adingin Topa tungah thu va dong un; bang hang hiam cih leh hih laibu sunga thu, eite tawh kisai-in a kigelh khempeuh bangin gamtat ding i pu i pate in na mang lo-te ahih manin eite tungah Topa’ hehna in lian hi,” a ci hi.
 
-**ZVS:** “Pai un la, a kimu hih laibu sunga thute tawh kisai-in keima-a' ding, mite-a' ding, leh Judah mi khempeuh-a' dingin { Topa' } tungah thu va dong un; bang hang hiam cih leh hih laibu sunga thu, eite tawh kisai-in a kigelh khempeuh bangin gamtat ding i pu i pate in na manglo uh ahih manin eite tungah { Topa' } hehna lian hi,” a ci hi.
+**ZVS:** “Pai un la, a kimu hih laibu sunga thute tawh kisai-in keima-a' ding, mite-a' ding, leh Judah mi khempeuh-a' dingin { Topa' } tungah thu va dong un; bang hang hiam cih leh hih laibu sunga thu, eite tawh kisai-in a kigelh khempeuh bangin gamtat ding i pu i pate in na manglo-te ahih manin eite tungah { Topa' } hehna lian hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix
 
 ### v14
 **EN:** So Hilkiah the priest, and Ahikam, and Achbor, and Shaphan, and Asaiah, went unto Huldah the prophetess, the wife of Shallum the son of Tikvah, the son of Harhas, keeper of the wardrobe; (now she dwelt in Jerusalem in the college;) and they communed with her.
 
-**TDB77:** Tua ahih ciangin siampi Hilkiah, Ahikam, Akbor, Shafan, leh Asa-iahte, puan a kem, Harhas tapa Tikvah, a tapa Shallum’ zi kamsangnu Huldah kiangah pai uh hi (tu-in tua nu in Jerusalem khua sung a Veng Nihna ah teng hi); tua ciangin tua nu tawh amaute kiho uh hi.
+**TDB77:** Tua ahih ciangin siampi Hilkiah, Ahikam, Akbor, Shafan, leh Asa-iahte, puan a kem, Harhas tapa Tikvah, a tapa Shallum’ zi kamsangnu Huldah kiangah pai-te hi (tu-in tua nu in Jerusalem khua sung a Veng Nihna ah teng hi); tua ciangin tua nu tawh amaute kiho-te hi.
 
-**ZVS:** Tua ahih ciangin siampi Hilkiah, Ahikam, Akbor, Shafan, leh Asaiah-te zong Harhas tapa Tikvah, a tapa Shallum, biakinn puan a kempa' zi kamsangnu Huldah kiangah a pai uh hi (tua laitakin Jerusalem khuasung a Veng Nihna-ah tuanu teng hi); tua ciangin tuanu tawh amaute kiho uh hi.
+**ZVS:** Tua ahih ciangin siampi Hilkiah, Ahikam, Akbor, Shafan, leh Asaiah-te zong Harhas tapa Tikvah, a tapa Shallum, biakinn puan a kempa' zi kamsangnu Huldah kiangah a pai-te hi (tua laitakin Jerusalem khuasung a Veng Nihna-ah tuanu teng hi); tua ciangin tuanu tawh amaute kiho-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -166,18 +166,18 @@
 ### v17
 **EN:** Because they have forsaken me, and have burned incense unto other gods, that they might provoke me to anger with all the works of their hands; therefore my wrath shall be kindled against this place, and shall not be quenched.
 
-**TDB77:** Bang hang hiam cih leh amaute in kei hong nusia-in pasian dangte tungah paknamtui hal uh a, amau’ khut tawh a bawl milimte tawh kei hong hehsak uh ahih manin hih mun tungah ka hehna kitawhkuang ding a, kimitsak lo ding hi.
+**TDB77:** Bang hang hiam cih leh amaute in kei hong nusia-in pasian dangte tungah paknamtui hal-te a, amau’ khut tawh a bawl milimte tawh kei hong hehsak-te ahih manin hih mun tungah ka hehna kitawhkuang ding a, kimitsak lo ding hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in kei hong nusia-in pasian dangte tungah paknamtui hal uh a, amau khut tawh a bawl milimte tawh kei hong hehsak uh ahih manin hih mun tungah ka hehna so ding a, ka hehna dailo ding hi.
+**ZVS:** Bang hang hiam cih leh amaute in kei hong nusia-in pasian dangte tungah paknamtui hal-te a, amau khut tawh a bawl milimte tawh kei hong hehsak-te ahih manin hih mun tungah ka hehna so ding a, ka hehna dailo ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** But to the king of Judah which sent you to enquire of the
 
-**TDB77:** Ahih hangin Topa tungah thu a dong dingin note a hong sawl Judah kumpipa tungah ahih leh note in hih bangin na gen ding uh hi. Israel Pasian, Topa in hih bangin ci hi: Nangmah in na zaksa thute tawh kisai-in,
+**TDB77:** Ahih hangin Topa tungah thu a dong dingin note a hong sawl Judah kumpipa tungah ahih leh note in hih bangin na gen ding-te hi. Israel Pasian, Topa in hih bangin ci hi: Nangmah in na zaksa thute tawh kisai-in,
 
-**ZVS:** Ahih hangin { Topa' } tungah thu a dong dingin note a hong sawl Judah kumpipa tungah ahih leh note in hih bangin na gen ding uh hi. Israel Pasian, { Topa } in hih bangin ci hi: Nangmah in na zaksa thute tawh kisai-in,
+**ZVS:** Ahih hangin { Topa' } tungah thu a dong dingin note a hong sawl Judah kumpipa tungah ahih leh note in hih bangin na gen ding-te hi. Israel Pasian, { Topa } in hih bangin ci hi: Nangmah in na zaksa thute tawh kisai-in,
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -193,9 +193,9 @@
 ### v20
 **EN:** Behold therefore, I will gather thee unto thy fathers, and thou shalt be gathered into thy grave in peace; and thine eyes shall not see all the evil which I will bring upon this place. And they brought the king word again.
 
-**TDB77:** Tua ahih ciangin, en in, na pate kiang nang kong zuansak ding a, nangmah in nuam takin na han na zuan ding a, hih mun tungah ka tun’sak ding siatna khempeuh na mit in mu lo ding hi,’ ci hi,” a ci hi. Tua ciangin amaute in kumpipa kiangah thu puakkik uh hi.
+**TDB77:** Tua ahih ciangin, en in, na pate kiang nang kong zuansak ding a, nangmah in nuam takin na han na zuan ding a, hih mun tungah ka tun’sak ding siatna khempeuh na mit in mu lo ding hi,’ ci hi,” a ci hi. Tua ciangin amaute in kumpipa kiangah thu puakkik-te hi.
 
-**ZVS:** Tua ahih ciangin, nangmah in nuamtakin na han na zuan ding a, hih mun tungah ka tun'sak ding siatna khempeuh na mit in mulo ding hi,’ ci hi,” a ci hi. Tua ciangin amaute in kumpipa kiangah tua thu a puakkik uh hi.
+**ZVS:** Tua ahih ciangin, nangmah in nuamtakin na han na zuan ding a, hih mun tungah ka tun'sak ding siatna khempeuh na mit in mulo ding hi,’ ci hi,” a ci hi. Tua ciangin amaute in kumpipa kiangah tua thu a puakkik-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 

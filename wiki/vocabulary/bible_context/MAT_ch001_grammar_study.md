@@ -31,21 +31,21 @@
 
 **TDB77:** Abraham’ tapa Isaak, Isaak’ tapa Jakob, Jakob’ tapa Judah, leh a unaute teng hi.
 
-**ZVS:** Abraham ta Isaac, Isaac ta Jakob, Jakob ta Judah, leh a sanggamte ahi uh hi.
+**ZVS:** Abraham ta Isaac, Isaac ta Jakob, Jakob ta Judah, leh a sanggamte ahi-te hi.
 
 ### v3
 **EN:** And Judah begat Phares and Zara of Thamar; and Phares begat Esrom; and Esrom begat Aram;
 
 **TDB77:** Judah in a zi Tamar tawh a neih a tapa Perez leh Zerah, Perez’ tapa Hezron, Hezron’ tapa Aram,
 
-**ZVS:** Judah ta Perez leh Zerah hi a, Tamar tawh a neih a ta ahi uh hi. Perez ta Hezron, Hezron ta Ram,
+**ZVS:** Judah ta Perez leh Zerah hi a, Tamar tawh a neih a ta ahi-te hi. Perez ta Hezron, Hezron ta gam,
 
 ### v4
 **EN:** And Aram begat Aminadab; and Aminadab begat Naasson; and Naasson begat Salmon;
 
 **TDB77:** Aram’ tapa Amminadab, Amminadab’ tapa Nashon, Nashon’ tapa Salmon,
 
-**ZVS:** Ram ta Amminadab, Amminadab ta Nahshon, Nahshon ta Salmon,
+**ZVS:** gam ta Amminadab, Amminadab ta Nahshon, Nahshon ta Salmon,
 
 ### v5
 **EN:** And Salmon begat Booz of Rahab; and Booz begat Obed of Ruth; and Obed begat Jesse;
@@ -94,7 +94,7 @@
 
 **TDB77:** Josiah in Babilon khuapi-ah a paipih lai takin a neih a tapa Jekhoniah leh a unau teng hi.
 
-**ZVS:** Josiah ta Jekhoniah leh a sanggamte hi a, Babylon gamah Israel mite salin a kipaipih hun pawlin a suak ahi uh hi.
+**ZVS:** Josiah ta Jekhoniah leh a sanggamte hi a, Babylon gamah Israel mite salin a kipaipih hun pawlin a suak ahi-te hi.
 
 ### v12
 **EN:** And after they were brought to Babylon, Jechonias begat Salathiel; and Salathiel begat Zorobabel;
@@ -172,7 +172,7 @@
 
 **TDB77:** Amah in tapa a nei ding hi. Tua tapa in ama mipawlte’ mawhnate sung pan a gumkhia ding ahih ciangin a min Zeisu na phuak ding hi,” ci-in a hilh hi.
 
-**ZVS:** Amah in tapa khat hong nei ding a, tua tapa in ama mite a mawhna uh panin honkhia ding ahih manin ama min dingin Jesuh na phuak ding hi,” ci-in thu a gen hi.
+**ZVS:** Amah in tapa khat hong nei ding a, tua tapa in ama mite a mawhna-te panin honkhia ding ahih manin ama min dingin Jesuh na phuak ding hi,” ci-in thu a gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 

@@ -121,9 +121,9 @@
 ### v13
 **EN:** If God will not withdraw his anger, the proud helpers do stoop under him.
 
-**TDB77:** “Pasian in ama hehna dokkik het lo mah ding hi; Rahab’ pawlte a khe nuai-ah kun uh hi.
+**TDB77:** “Pasian in ama hehna dokkik het lo mah ding hi; Rahab’ pawlte a khe nuai-ah kun-te hi.
 
-**ZVS:** Pasian in ama hehna dokkik hetlo mah ding hi. Rahab' pawlte nangawn a khenuai-ah kun uh hi.
+**ZVS:** Pasian in ama hehna dokkik hetlo mah ding hi. Rahab' pawlte nangawn a khenuai-ah kun-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

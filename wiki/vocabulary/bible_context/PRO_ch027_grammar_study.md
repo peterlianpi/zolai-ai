@@ -113,9 +113,9 @@
 ### v12
 **EN:** A prudent man foreseeth the evil, and hideth himself; but the simple pass on, and are punished.
 
-**TDB77:** Mipilte in a lauhuai thu mu thei-in pelh uh a, mi mawkmawkte in phu suakin thuak uh hi.
+**TDB77:** Mipilte in a lauhuai thu mu thei-in pelh-te a, mi mawkmawkte in phu suakin thuak-te hi.
 
-**ZVS:** Mipilte in a lauhuai thu muthei-in pelh uh a, mi mawkmawkte in phusuakin thuak uh hi.
+**ZVS:** Mipilte in a lauhuai thu muthei-in pelh-te a, mi mawkmawkte in phusuakin thuak-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

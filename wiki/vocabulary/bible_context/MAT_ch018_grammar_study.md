@@ -22,9 +22,9 @@
 ### v1
 **EN:** At the same time came the disciples unto Jesus, saying, Who is the greatest in the kingdom of heaven?
 
-**TDB77:** Tua lai takin a nungzuite in Zeisu kiangah va nai uh a, “Vantung Gam sungah kua a lian bel ding hiam?” ci-in a dong uh hi.
+**TDB77:** Tua lai takin a nungzuite in Zeisu kiangah va nai-te a, “Vantung Gam sungah kua a lian bel ding hiam?” ci-in a dong-te hi.
 
-**ZVS:** Tua laitakin Jesuh kiangah nungzuite hong pai uh a, “Vantung ki-ukna sungah kua lianpen ding ahi hiam?” ci-in a dot uh ciangin,
+**ZVS:** Tua laitakin Jesuh kiangah nungzuite hong pai-te a, “Vantung ki-ukna sungah kua lianpen ding ahi hiam?” ci-in a dot-te ciangin,
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -38,9 +38,9 @@
 ### v3
 **EN:** And said,
 
-**TDB77:** “Ke’n aman takpi kong cih-inah na kikheel uh a, hih naupangno bang na suah kei uh leh, Vantung Gam sungah na tum zo kei ding uh hi.
+**TDB77:** “Ke’n aman takpi kong cih-inah na kikheel-te a, hih naupangno bang na suah kei-te leh, Vantung Gam sungah na tum zo kei ding-te hi.
 
-**ZVS:** “A man mahmahin note kiangah kong genin-ah: Note kikheelin naupang na bat kei uh leh vantung ki-ukna sungah na lut ngei kei ding uh hi.
+**ZVS:** “A man mahmahin note kiangah kong genin-ah: Note kikheelin naupang na bat kei-te leh vantung ki-ukna sungah na lut ngei kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

@@ -26,34 +26,34 @@
 ### v1
 **EN:** Now these are they that came to David to Ziklag, while he yet kept himself close because of Saul the son of Kish: and they were among the mighty men, helpers of the war.
 
-**TDB77:** Tu-in Kish’ tapa Saul’ hangin a ut utin a tat theih loh lai takin Ziklag a, David kiangah hong paite in hih mite ahi hi; gal sungah amah a huh a thahatte lakah amaute a kihelte ahi uh hi.
+**TDB77:** Tu-in Kish’ tapa Saul’ hangin a ut utin a tat theih loh lai takin Ziklag a, David kiangah hong paite in hih mite ahi hi; gal sungah amah a huh a thahatte lakah amaute a kihelte ahi-te hi.
 
-**ZVS:** Tu-in Kish' tapa Saul' hangin a ut utin David a tat theihloh laitakin Ziklag-a ama kiangah mite hong pai-in amah pawlpih uh hi. Galsungah amah a huh a thahatte lakah amaute a kihelte ahi uh hi.
+**ZVS:** Tu-in Kish' tapa Saul' hangin a ut utin David a tat theihloh laitakin Ziklag-a ama kiangah mite hong pai-in amah pawlpih-te hi. Galsungah amah a huh a thahatte lakah amaute a kihelte ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** They were armed with bows, and could use both the right hand and the left in hurling stones and shooting arrows out of a bow, even of Saul's brethren of Benjamin.
 
-**TDB77:** Amaute in thaltawite hi uh a, tak lam khut ahi a, vei lam khut tawh ahi zongin thaltang leh suangte lawn thei uh hi: amaute in Saul’ behte Benjamin mi ahi uh hi.
+**TDB77:** Amaute in thaltawite hi-te a, tak lam khut ahi a, vei lam khut tawh ahi zongin thaltang leh suangte lawn thei-te hi: amaute in Saul’ behte Benjamin mi ahi-te hi.
 
-**ZVS:** Amaute pen thal tawite hi uh a, taklam khut tawh ahi a, veilam khut tawh ahi zongin thaltang leh suangte lawn thei uh hi. Amaute pen Saul' behte Benjamin mi ahi uh hi.
+**ZVS:** Amaute pen thal tawite hi-te a, taklam khut tawh ahi a, veilam khut tawh ahi zongin thaltang leh suangte lawn thei-te hi. Amaute pen Saul' behte Benjamin mi ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** The chief was Ahiezer, then Joash, the sons of Shemaah the Gibeathite; and Jeziel, and Pelet, the sons of Azmaveth; and Berachah, and Jehu the Anathothite,
 
-**TDB77:** A ukpi in Ahiezer hi a, tua ciangin Joash ahi hi, amaute gel in Gibeah khuami Shema-ah’ tapate ahi uh hi; Azamveth’ tapate Jeziel leh Pelet zong ahi hi; Anathoth khuami Berakah leh Jehu zong ahi hi.
+**TDB77:** A ukpi in Ahiezer hi a, tua ciangin Joash ahi hi, amaute gel in Gibeah khuami Shema-ah’ tapate ahi-te hi; Azamveth’ tapate Jeziel leh Pelet zong ahi hi; Anathoth khuami Berakah leh Jehu zong ahi hi.
 
-**ZVS:** Ahiezer a ukpi hi a, tua ciangin Joash ahi hi. Amaute gel pen Gibeah khuami Shemaah' tapate ahi uh hi. Amau gel nuai-ah galkapte: Azmaveth' tapate Jeziel leh Pelet; Anathoth khuami Berakah leh Jehu;
+**ZVS:** Ahiezer a ukpi hi a, tua ciangin Joash ahi hi. Amaute gel pen Gibeah khuami Shemaah' tapate ahi-te hi. Amau gel nuai-ah galkapte: Azmaveth' tapate Jeziel leh Pelet; Anathoth khuami Berakah leh Jehu;
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v4
 **EN:** And Ismaiah the Gibeonite, a mighty man among the thirty, and over the thirty; and Jeremiah, and Jahaziel, and Johanan, and Josabad the Gederathite,
 
-**TDB77:** Gibeon khuami Ishmaiah in mihing sawmthumte lakah a thahatpa leh sawmthumte a makaipa ahi hi; Gederah khuami Jeremiah, Jahaziel, Johanan, leh Jozabad zong ahi uh hi;
+**TDB77:** Gibeon khuami Ishmaiah in mihing sawmthumte lakah a thahatpa leh sawmthumte a makaipa ahi hi; Gederah khuami Jeremiah, Jahaziel, Johanan, leh Jozabad zong ahi-te hi;
 
 **ZVS:** Gibeon khuami Ishmaiah, mihing sawmthumte lakah a thahatpa leh sawmthumte a makaipa; Gederah khuami Jeremiah, Jahaziel, Johanan, leh Jozabad;
 
@@ -62,7 +62,7 @@
 ### v5
 **EN:** Eluzai, and Jerimoth, and Bealiah, and Shemariah, and Shephatiah the Haruphite,
 
-**TDB77:** Harif mi Eluzai, Jerimoth, Bealiah, Shemariah, leh Shefatiah zong ahi uh hi;
+**TDB77:** Harif mi Eluzai, Jerimoth, Bealiah, Shemariah, leh Shefatiah zong ahi-te hi;
 
 **ZVS:** Harif mi Eluzai, Jerimoth, Bealiah, Shemariah, leh Shefatiah;
 
@@ -71,7 +71,7 @@
 ### v6
 **EN:** Elkanah, and Jesiah, and Azareel, and Joezer, and Jashobeam, the Korhites,
 
-**TDB77:** Korah mi Elkanah, Issaiah, Azarel, Joezer, leh Jashobeam zong ahi uh hi.
+**TDB77:** Korah mi Elkanah, Issaiah, Azarel, Joezer, leh Jashobeam zong ahi-te hi.
 
 **ZVS:** Korah mi Elkanah, Isshiah, Azarel, Joezer, leh Jashobeam;
 
@@ -80,18 +80,18 @@
 ### v7
 **EN:** And Joelah, and Zebadiah, the sons of Jeroham of Gedor.
 
-**TDB77:** Tua ciangin Gedor khuami Jeroham tapate Joelah leh Zebadiah ahi uh hi.
+**TDB77:** Tua ciangin Gedor khuami Jeroham tapate Joelah leh Zebadiah ahi-te hi.
 
-**ZVS:** Gedor khuami Jeroham' tapate Joelah leh Zebadiah ahi uh hi.
+**ZVS:** Gedor khuami Jeroham' tapate Joelah leh Zebadiah ahi-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v8
 **EN:** And of the Gadites there separated themselves unto David into the hold to the wilderness men of might, and men of war fit for the battle, that could handle shield and buckler, whose faces were like the faces of lions, and were as swift as the roes upon the mountains;
 
-**TDB77:** Gad minam sung panin gamlak a, mun muanhuai a, David kiangah a thahat a siam galhangte, lum leh teipi zat a siam, a maitang uh humpinelkai maitang bangin, mual tunga om sakhi bangin a manlang mi hong paite in:
+**TDB77:** Gad minam sung panin gamlak a, mun muanhuai a, David kiangah a thahat a siam galhangte, lum leh teipi zat a siam, a maitang-te humpinelkai maitang bangin, mual tunga om sakhi bangin a manlang mi hong paite in:
 
-**ZVS:** Gad minam sung panin gamlaka munmuan'huai-a David kiangah a thahat a siam galhangte, lum leh tei zat a siam, a maitang uh humpinelkai maitang bangin, mualtunga om sakhi bangin a manlang mi hong paite:
+**ZVS:** Gad minam sung panin gamlaka munmuan'huai-a David kiangah a thahat a siam galhangte, lum leh tei zat a siam, a maitang-te humpinelkai maitang bangin, mualtunga om sakhi bangin a manlang mi hong paite:
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -120,45 +120,45 @@
 ### v13
 **EN:** Jeremiah the tenth, Machbanai the eleventh.
 
-**TDB77:** a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi uh hi.
+**TDB77:** a sawmna Jeremiah, a sawm-le-khatna Makbannai ahi-te hi.
 
-**ZVS:** a sawmna Jeremiah, a sawmlekhatna Makbannai ahi uh hi.
+**ZVS:** a sawmna Jeremiah, a sawmlekhatna Makbannai ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v14
 **EN:** These were of the sons of Gad, captains of the host: one of the least was over an hundred, and the greatest over a thousand.
 
-**TDB77:** Hih Gad mite in galkap uliante hi a, a neuzawte in zakhat val, a golzawte in tulkhat val uk uh hi.
+**TDB77:** Hih Gad mite in galkap uliante hi a, a neuzawte in zakhat val, a golzawte in tulkhat val uk-te hi.
 
-**ZVS:** Hih Gad mite pen galkap uliante hi a, a neuzawte in za khat val, a golzawte in tul khat val uk uh hi.
+**ZVS:** Hih Gad mite pen galkap uliante hi a, a neuzawte in za khat val, a golzawte in tul khat val uk-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** These are they that went over Jordan in the first month, when it had overflown all his banks; and they put to flight all them of the valleys, both toward the east, and toward the west.
 
-**TDB77:** Hihte in Jordan a piau khempeuh a dimlet laitak kha masa sungin Jordan kantanin kuam sunga om mite nisuahna lam leh nitumna lamah a taisak mite ahi uh hi.
+**TDB77:** Hihte in Jordan a piau khempeuh a dimlet laitak kha masa sungin Jordan kantanin kuam sunga om mite nisuahna lam leh nitumna lamah a taisak mite ahi-te hi.
 
-**ZVS:** Hihte pen Jordan a piau khempeuh a dimlet laitak kha masa sungin Jordan kantanin kuam sunga om mite nisuahna lam leh nitumna lamah a taisak mite ahi uh hi.
+**ZVS:** Hihte pen Jordan a piau khempeuh a dimlet laitak kha masa sungin Jordan kantanin kuam sunga om mite nisuahna lam leh nitumna lamah a taisak mite ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v16
 **EN:** And there came of the children of Benjamin and Judah to the hold unto David.
 
-**TDB77:** Tua ciangin Benjamin mi leh Judah mi pawlkhat David kiang mun muanhuai ah hong pai uh hi.
+**TDB77:** Tua ciangin Benjamin mi leh Judah mi pawlkhat David kiang mun muanhuai ah hong pai-te hi.
 
-**ZVS:** Tua ciangin Benjamin mi leh Judah mi pawlkhat David kiang munmuan'huai-ah hong pai uh hi.
+**ZVS:** Tua ciangin Benjamin mi leh Judah mi pawlkhat David kiang munmuan'huai-ah hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And David went out to meet them, and answered and said unto them, If ye be come peaceably unto me to help me, mine heart shall be knit unto you: but if ye be come to betray me to mine enemies, seeing there is no wrong in mine hands, the God of our fathers look thereon, and rebuke it.
 
-**TDB77:** Amaute dawntuah dingin David pai khia-in amaute kiangah, “Kei kiangah kilawmtatna tawh keimah huh dingin hong pai na hih uh leh note tawh ka lungsim kihual khawm ding hi; ahih hangin keimah in bangmah khialhna nei lo napi-in ka langte tungah kei a lehhek dingin hong pai na hih uh leh, i pu i pate’ Pasian in thei hen la, note hong tai hen,” a ci hi.
+**TDB77:** Amaute dawntuah dingin David pai khia-in amaute kiangah, “Kei kiangah kilawmtatna tawh keimah huh dingin hong pai na hih-te leh note tawh ka lungsim kihual khawm ding hi; ahih hangin keimah in bangmah khialhna nei lo napi-in ka langte tungah kei a lehhek dingin hong pai na hih-te leh, i pu i pate’ Pasian in thei hen la, note hong tai hen,” a ci hi.
 
-**ZVS:** Amaute a dawntuah dingin David paikhia-in amaute kiangah, “Kei kiangah kilawmtatna tawh keimah a huh dingin hong pai na hih uh leh note tawh ka lungsim kihual khawm ding hi. Ahih hangin keimah in bangmah khialhna neilo napi-in ka langte tungah kei a hong lehhek dingin a hong pai na hih uh leh, i pu i pate' Pasian in thei hen la, note hong tai ta hen,” a ci hi.
+**ZVS:** Amaute a dawntuah dingin David paikhia-in amaute kiangah, “Kei kiangah kilawmtatna tawh keimah a huh dingin hong pai na hih-te leh note tawh ka lungsim kihual khawm ding hi. Ahih hangin keimah in bangmah khialhna neilo napi-in ka langte tungah kei a hong lehhek dingin a hong pai na hih-te leh, i pu i pate' Pasian in thei hen la, note hong tai ta hen,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix
 
@@ -174,27 +174,27 @@
 ### v19
 **EN:** And there fell some of Manasseh to David, when he came with the Philistines against Saul to battle: but they helped them not: for the lords of the Philistines upon advisement sent him away, saying, He will fall to his master Saul to the jeopardy of our heads.
 
-**TDB77:** Saul a do dingin Filistiate tawh David a kuan lai takin Manasseh mi pawlkhat tai-in David beel hi. (Ahi zongin David in Filistiate huh thei lo hi; bang hang hiam cih leh Filistiate a ukte in thu kikupna khat nei uh a, “Eite’ makaite’ siat nadingin a topa Saul kiangah David tai ding hi,” ci-in amah sawl khia uh hi.)
+**TDB77:** Saul a do dingin Filistiate tawh David a kuan lai takin Manasseh mi pawlkhat tai-in David beel hi. (Ahi zongin David in Filistiate huh thei lo hi; bang hang hiam cih leh Filistiate a ukte in thu kikupna khat nei-te a, “Eite’ makaite’ siat nadingin a topa Saul kiangah David tai ding hi,” ci-in amah sawl khia-te hi.)
 
-**ZVS:** Saul a do dingin Filistia mite tawh David a kuan laitakin Manasseh mi pawlkhat tai-in David a beel hi. (Ahi zongin David in Filistia mite huh theilo hi; bang hang hiam cih leh Filistia mi a ukte in thu kikupna khat nei uh a, “Eite' makaite' siatna dingin a topa Saul kiangah David tai ding hi,” ci-in amah sawlkhia uh hi.)
+**ZVS:** Saul a do dingin Filistia mite tawh David a kuan laitakin Manasseh mi pawlkhat tai-in David a beel hi. (Ahi zongin David in Filistia mite huh theilo hi; bang hang hiam cih leh Filistia mi a ukte in thu kikupna khat nei-te a, “Eite' makaite' siatna dingin a topa Saul kiangah David tai ding hi,” ci-in amah sawlkhia-te hi.)
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** As he went to Ziklag, there fell to him of Manasseh, Adnah, and Jozabad, and Jediael, and Michael, and Jozabad, and Elihu, and Zilthai, captains of the thousands that were of Manasseh.
 
-**TDB77:** David Ziklag ah a pai lai takin Manasseh sung panin tai-in amah a beelte in: Adnah, Jozabad, Jediael, Mikhael, Jozabad, Elihu, leh Zillethai, Manasseh sungah mi a tul-in a ukte ahi uh hi.
+**TDB77:** David Ziklag ah a pai lai takin Manasseh sung panin tai-in amah a beelte in: Adnah, Jozabad, Jediael, Mikhael, Jozabad, Elihu, leh Zillethai, Manasseh sungah mi a tul-in a ukte ahi-te hi.
 
-**ZVS:** Ziklag-ah amah a pai laitakin Manasseh sung panin tai-in amah a beelte: Adnah, Jozabad, Jediael, Mikhael, Jozabad, Elihu, leh Zillethai hi a, Manasseh sungah mi a tulin a ukte ahi uh hi.
+**ZVS:** Ziklag-ah amah a pai laitakin Manasseh sung panin tai-in amah a beelte: Adnah, Jozabad, Jediael, Mikhael, Jozabad, Elihu, leh Zillethai hi a, Manasseh sungah mi a tulin a ukte ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v21
 **EN:** And they helped David against the band of the rovers: for they were all mighty men of valour, and were captains in the host.
 
-**TDB77:** Amaute in mi’ na a sut thei mite panin David huh uh hi; bang hang hiam cih leh amaute in a thahat a vanglian mi hi uh a, galkap sungah a ukte ahi uh hi.
+**TDB77:** Amaute in mi’ na a sut thei mite panin David huh-te hi; bang hang hiam cih leh amaute in a thahat a vanglian mi hi-te a, galkap sungah a ukte ahi-te hi.
 
-**ZVS:** Amaute in mi' na a sut thei mite panin David huh uh hi; bang hang hiam cih leh amaute a thahat a vanglian mi hi a, galkap sungah a ukte ahi uh hi.
+**ZVS:** Amaute in mi' na a sut thei mite panin David huh-te hi; bang hang hiam cih leh amaute a thahat a vanglian mi hi a, galkap sungah a ukte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -210,9 +210,9 @@
 ### v23
 **EN:** And these are the numbers of the bands that were ready armed to the war, and came to David to Hebron, to turn the kingdom of Saul to him, according to the word of the
 
-**TDB77:** Hihte in Topa’ thugen bangin Saul’ kumpi gam ama tungah a hei dingin Hebron a, David kiangah a pai galkap a khen phazah ahi uh hi.
+**TDB77:** Hihte in Topa’ thugen bangin Saul’ kumpi gam ama tungah a hei dingin Hebron a, David kiangah a pai galkap a khen phazah ahi-te hi.
 
-**ZVS:** Hihte pen { Topa' } thugen bangin Saul kumpipa' gam David tungah a hei dingin Hebron-a ama kiangah a pai galkap a khen phazah ahi uh hi:
+**ZVS:** Hihte pen { Topa' } thugen bangin Saul kumpipa' gam David tungah a hei dingin Hebron-a ama kiangah a pai galkap a khen phazah ahi-te hi:
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -283,7 +283,7 @@
 
 **TDB77:** Issakhar sung panin Israel in bang a sep dingin kilawm cih a thei, hun pai zia a thei ukpi zanih leh amau’ ukna nuai-ah a om amau’ behte khempeuh ahi hi.
 
-**ZVS:** Issakhar mi: Amaute sung panin Israel in bang a sep dingin kilawm cih a thei, hun paizia a thei ukpi za nih leh amau' ukna nuai-ah a om amau' behte khempeuh ahi uh hi.
+**ZVS:** Issakhar mi: Amaute sung panin Israel in bang a sep dingin kilawm cih a thei, hun paizia a thei ukpi za nih leh amau' ukna nuai-ah a om amau' behte khempeuh ahi-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -333,27 +333,27 @@
 ### v38
 **EN:** All these men of war, that could keep rank, came with a perfect heart to Hebron, to make David king over all Israel: and all the rest also of Israel were of one heart to make David king.
 
-**TDB77:** Galkap mi ahi; galsim ding a kithawi hih mite khempeuh, Israel tungah David kumpi-in koih ding ngaihsutna takpi tawh Hebron ah hong pai uh hi; tua mah bangin Israel a om laite khempeuh in zong David kumpi-in a bawl ding uh ngaihsutna kikhat uh hi.
+**TDB77:** Galkap mi ahi; galsim ding a kithawi hih mite khempeuh, Israel tungah David kumpi-in koih ding ngaihsutna takpi tawh Hebron ah hong pai-te hi; tua mah bangin Israel a om laite khempeuh in zong David kumpi-in a bawl ding-te ngaihsutna kikhat-te hi.
 
-**ZVS:** Galkap mi ahi, galsim dingin a kithawi hih mite khempeuh, Israel tungah David kumpi-in koih ding ngaihsutna takpi tawh Hebron-ah hong pai uh hi. Tua mah bangin Israel a omlaite khempeuh zong David kumpi-in a bawl ding uh a ngaihsutna uh kikhat hi.
+**ZVS:** Galkap mi ahi, galsim dingin a kithawi hih mite khempeuh, Israel tungah David kumpi-in koih ding ngaihsutna takpi tawh Hebron-ah hong pai-te hi. Tua mah bangin Israel a omlaite khempeuh zong David kumpi-in a bawl ding-te a ngaihsutna-te kikhat hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v39
 **EN:** And there they were with David three days, eating and drinking: for their brethren had prepared for them.
 
-**TDB77:** A sanggamte un amaute’ adingin na vaihawm khol uh ahih manin amaute tua lai-ah David tawh nithum sung an ne tui dawnin omkhawm uh hi.
+**TDB77:** A sanggamte un amaute’ adingin na vaihawm khol-te ahih manin amaute tua lai-ah David tawh nithum sung an ne tui dawnin omkhawm-te hi.
 
-**ZVS:** A sanggamte un amaute-a' dingin na vaihawmkhol uh ahih manin amaute tua lai-ah David tawh ni thum sung an ne tui dawnin omkhawm uh hi.
+**ZVS:** A sanggamte un amaute-a' dingin na vaihawmkhol-te ahih manin amaute tua lai-ah David tawh ni thum sung an ne tui dawnin omkhawm-te hi.
 
 **Grammar:** purpose: in order to | causal: because | plural: uh marker
 
 ### v40
 **EN:** Moreover they that were nigh them, even unto Issachar and Zebulun and Naphtali, brought bread on asses, and on camels, and on mules, and on oxen, and meat, meal, cakes of figs, and bunches of raisins, and wine, and oil, and oxen, and sheep abundantly: for there was joy in Israel.
 
-**TDB77:** Israel sungah lungdamna om ahih manin a vengte uh Issakhar leh Zebulun leh Naftali ciang dong panin zong hong pai-in late leh kalaote leh la-sakolte leh bawngtalte tawh an hong pua-in, an tampi tak, thei mohte, leenggahkeu bawkte, leh leenggahzu leh sathau, bawngtalte leh tuute hong puak uh hi.
+**TDB77:** Israel sungah lungdamna om ahih manin a vengte-te Issakhar leh Zebulun leh Naftali ciang dong panin zong hong pai-in late leh kalaote leh la-sakolte leh bawngtalte tawh an hong pua-in, an tampi tak, thei mohte, leenggahkeu bawkte, leh leenggahzu leh sathau, bawngtalte leh tuute hong puak-te hi.
 
-**ZVS:** Israel gamsungah lungdamna om ahih manin a vengte uh Issakhar leh Zebulun leh Naftali ciangdong panin zong hong pai-in late leh kalaohte leh la-sakolte leh bawngtalte tawh an hong pua-in, an tampi tak, theimohte, leenggahkeu bawkte, leh leenggahzu leh sathau, bawngtalte leh tuute, lungdam lahna-in hong puak uh hi.
+**ZVS:** Israel gamsungah lungdamna om ahih manin a vengte-te Issakhar leh Zebulun leh Naftali ciangdong panin zong hong pai-in late leh kalaohte leh la-sakolte leh bawngtalte tawh an hong pua-in, an tampi tak, theimohte, leenggahkeu bawkte, leh leenggahzu leh sathau, bawngtalte leh tuute, lungdam lahna-in hong puak-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | plural: uh marker
 

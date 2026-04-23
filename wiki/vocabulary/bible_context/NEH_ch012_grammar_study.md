@@ -61,9 +61,9 @@
 ### v7
 **EN:** Sallu, Amok, Hilkiah, Jedaiah. These were the chief of the priests and of their brethren in the days of Jeshua.
 
-**TDB77:** Sallu, Amok, Hilkiah, leh Jedaiah-te ahi uh hi. Hihte in Jeshua’ hun lai-in siampite leh a sanggamte uh lakah a ukpite ahi uh hi.
+**TDB77:** Sallu, Amok, Hilkiah, leh Jedaiah-te ahi-te hi. Hihte in Jeshua’ hun lai-in siampite leh a sanggamte-te lakah a ukpite ahi-te hi.
 
-**ZVS:** Sallu, Amok, Hikiah, leh Jedaiah-te ahi uh hi. Hihte pen Jeshua hun lai-in siampite leh a sanggamte uh lakah a ukpite ahi uh hi.
+**ZVS:** Sallu, Amok, Hikiah, leh Jedaiah-te ahi-te hi. Hihte pen Jeshua hun lai-in siampite leh a sanggamte-te lakah a ukpite ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -77,9 +77,9 @@
 ### v9
 **EN:** Also Bakbukiah and Unni, their brethren, were over against them in the watches.
 
-**TDB77:** Tua ciangin a sanggamte uh Bakbukiah leh Unni in amaute tawh kigal sai-in nasem uh hi.
+**TDB77:** Tua ciangin a sanggamte-te Bakbukiah leh Unni in amaute tawh kigal sai-in nasem-te hi.
 
-**ZVS:** Tua ciangin a sanggamte uh Bakbukiah leh Unno in amaute tawh kigal sai-in omin a dawng uh hi.
+**ZVS:** Tua ciangin a sanggamte-te Bakbukiah leh Unno in amaute tawh kigal sai-in omin a dawng-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -165,9 +165,9 @@
 ### v21
 **EN:** Of Hilkiah, Hashabiah; of Jedaiah, Nethaneel.
 
-**TDB77:** Hilkiah’ suante sung panin Hashabiah; Jedaiah’ suante sung panin Nethanel ahi uh hi.
+**TDB77:** Hilkiah’ suante sung panin Hashabiah; Jedaiah’ suante sung panin Nethanel ahi-te hi.
 
-**ZVS:** Hilkiah suante sung panin Hashabiah, Jedaiah suante sung panin Nethanel ahi uh hi.
+**ZVS:** Hilkiah suante sung panin Hashabiah, Jedaiah suante sung panin Nethanel ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -192,18 +192,18 @@
 ### v24
 **EN:** And the chief of the Levites: Hashabiah, Sherebiah, and Jeshua the son of Kadmiel, with their brethren over against them, to praise and to give thanks, according to the commandment of David the man of God, ward over against ward.
 
-**TDB77:** Tua ciangin Levi mi ukpite in: Hashabiah; Sherebiah, Jeshua, Binnui, leh Kadmiel hi uh a, Pasian’ mi David’ thupiakna bangin a ban banin phatna lasa ding leh lungdam ko dingin a sanggamte uh tawh na a sem ding uh ahi hi.
+**TDB77:** Tua ciangin Levi mi ukpite in: Hashabiah; Sherebiah, Jeshua, Binnui, leh Kadmiel hi-te a, Pasian’ mi David’ thupiakna bangin a ban banin phatna lasa ding leh lungdam ko dingin a sanggamte-te tawh na a sem ding-te ahi hi.
 
-**ZVS:** Tua ciangin Levi mi ukpite: Hashabiah, Sherebiah, Jeshua, Binnui, leh Kadmiel hi uh a, Pasian' mi David' thupiakna bangin a banbanin phatna la a sa ding leh lungdamna a ko dingin a sanggamte uh tawh na a sem ding uh ahi hi.
+**ZVS:** Tua ciangin Levi mi ukpite: Hashabiah, Sherebiah, Jeshua, Binnui, leh Kadmiel hi-te a, Pasian' mi David' thupiakna bangin a banbanin phatna la a sa ding leh lungdamna a ko dingin a sanggamte-te tawh na a sem ding-te ahi hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v25
 **EN:** Mattaniah, and Bakbukiah, Obadiah, Meshullam, Talmon, Akkub, were porters keeping the ward at the thresholds of the gates.
 
-**TDB77:** Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, leh Akkubte in vankoihna kongpite a cing kongcingte ahi uh hi.
+**TDB77:** Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, leh Akkubte in vankoihna kongpite a cing kongcingte ahi-te hi.
 
-**ZVS:** Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, leh Akkub-te pen vankoihna kongpite a cing kongcingte ahi uh hi.
+**ZVS:** Mattaniah, Bakbukiah, Obadiah, Meshullam, Talmon, leh Akkub-te pen vankoihna kongpite a cing kongcingte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -219,45 +219,45 @@
 ### v27
 **EN:** And at the dedication of the wall of Jerusalem they sought the Levites out of all their places, to bring them to Jerusalem, to keep the dedication with gladness, both with thanksgivings, and with singing, with cymbals, psalteries, and with harps.
 
-**TDB77:** Tua ciangin amaute in daltuahte, harp lasaknate, laiza lasaknate tawh lungdam ko-in lasa-in lungdamna tawh kulhpi apna a bawl dingin Jerusalem ah hong pai theih nadingun Levi mite a omna khempeuh uhah zong uh hi.
+**TDB77:** Tua ciangin amaute in daltuahte, harp lasaknate, laiza lasaknate tawh lungdam ko-in lasa-in lungdamna tawh kulhpi apna a bawl dingin Jerusalem ah hong pai theih nadingun Levi mite a omna khempeuh uhah zong-te hi.
 
-**ZVS:** Tua ciangin amaute in daltuahte, harp lasaknate, leh laia lasaknate tawh lungdam ko-in la sa-in lungdamna tawh kulhpi apna a bawl dingin Jerusalem-ah hong pai theihna dingun Levi mite a omna khempeuh uhah a zong uh hi.
+**ZVS:** Tua ciangin amaute in daltuahte, harp lasaknate, leh laia lasaknate tawh lungdam ko-in la sa-in lungdamna tawh kulhpi apna a bawl dingin Jerusalem-ah hong pai theihna dingun Levi mite a omna khempeuh uhah a zong-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v28
 **EN:** And the sons of the singers gathered themselves together, both out of the plain country round about Jerusalem, and from the villages of Netophathi;
 
-**TDB77:** Tua hi a, Jerusalem kiim leh Netofah mite’ khuaneute panin Levi mi lasate hong kikaikhawm uh hi.
+**TDB77:** Tua hi a, Jerusalem kiim leh Netofah mite’ khuaneute panin Levi mi lasate hong kikaikhawm-te hi.
 
-**ZVS:** Tua hi a, Jerusalem kiim leh Netofah mite' khuaneute panin Levi mi lasate hong kikaikhawm uh hi.
+**ZVS:** Tua hi a, Jerusalem kiim leh Netofah mite' khuaneute panin Levi mi lasate hong kikaikhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** Also from the house of Gilgal, and out of the fields of Geba and Azmaveth: for the singers had builded them villages round about Jerusalem.
 
-**TDB77:** Bethgilgal khua leh Geba kiimnai leh Beth-azmaveth khua panin zong hong pai uh hi; bang hang hiam cih leh lasate pawl in Jerusalem kiimah amau’ adingin khuaneute sat uh hi.
+**TDB77:** Bethgilgal khua leh Geba kiimnai leh Beth-azmaveth khua panin zong hong pai-te hi; bang hang hiam cih leh lasate pawl in Jerusalem kiimah amau’ adingin khuaneute sat-te hi.
 
-**ZVS:** Bethgilgal khua leh Geba kiimnai leh Bethazmaveth khua panin zong hong pai uh hi. Bang hang hiam cih leh lasate pawl in Jerusalem kiimah amau-a' dingin khuaneute sat uh hi.
+**ZVS:** Bethgilgal khua leh Geba kiimnai leh Bethazmaveth khua panin zong hong pai-te hi. Bang hang hiam cih leh lasate pawl in Jerusalem kiimah amau-a' dingin khuaneute sat-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** And the priests and the Levites purified themselves, and purified the people, and the gates, and the wall.
 
-**TDB77:** Tua ciangin siampite leh Levi mite amau mah kisian’suah tawm uh a, tua khit ciangin mite leh kongpite leh kulhpi sian’suah uh hi.
+**TDB77:** Tua ciangin siampite leh Levi mite amau mah kisian’suah tawm-te a, tua khit ciangin mite leh kongpite leh kulhpi sian’suah-te hi.
 
-**ZVS:** Tua ciangin siampite leh Levi mite amau mah kisian'suah tawm uh a, tua khit ciangin mite leh kongpite leh kulhpi a sian'suah uh hi.
+**ZVS:** Tua ciangin siampite leh Levi mite amau mah kisian'suah tawm-te a, tua khit ciangin mite leh kongpite leh kulhpi a sian'suah-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** Then I brought up the princes of Judah upon the wall, and appointed two great companies of them that gave thanks, whereof one went on the right hand upon the wall toward the dung gate:
 
-**TDB77:** Tua ciangin khuapi kulhzang ah Judah mi uliante ka paipih a, lam pai kawmin lungdamna ko dingin pawl lian nih ka seh hi. Kulhzang panin pawlkhatte taklam manawhin Nin Kongpi lamah pai uh hi.
+**TDB77:** Tua ciangin khuapi kulhzang ah Judah mi uliante ka paipih a, lam pai kawmin lungdamna ko dingin pawl lian nih ka seh hi. Kulhzang panin pawlkhatte taklam manawhin Nin Kongpi lamah pai-te hi.
 
-**ZVS:** Tua ciangin khuapi kulhzangah Judah mi uliante ka paipih a, lampai kawmin lungdamna a ko dingin pawl lian nih ka seh hi. Kulhzang panin pawlkhatte taklam manawhin Nin Kongpi lamah a pai uh hi.
+**ZVS:** Tua ciangin khuapi kulhzangah Judah mi uliante ka paipih a, lampai kawmin lungdamna a ko dingin pawl lian nih ka seh hi. Kulhzang panin pawlkhatte taklam manawhin Nin Kongpi lamah a pai-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -290,90 +290,90 @@
 ### v36
 **EN:** And his brethren, Shemaiah, and Azarael, Milalai, Gilalai, Maai, Nethaneel, and Judah, Hanani, with the musical instruments of David the man of God, and Ezra the scribe before them.
 
-**TDB77:** leh ama behte Shemaiah, Azarel, Milalai, Gilalai, Ma-ai, Nethanel, Judah, Hanani-te, Pasian’ mi David’ lasakna nate tawh pai uh a, tuate lakah lai theipa Ezra masa hi.
+**TDB77:** leh ama behte Shemaiah, Azarel, Milalai, Gilalai, Ma-ai, Nethanel, Judah, Hanani-te, Pasian’ mi David’ lasakna nate tawh pai-te a, tuate lakah lai theipa Ezra masa hi.
 
-**ZVS:** leh ama behte Shemaiah, Azarel, Gilalai, Maai, Nethanel, Judah, leh Hanani-te, Pasian' mi David' lasakna nate tawh pai uh a, tuate lakah laitheipa Ezra masa hi.
+**ZVS:** leh ama behte Shemaiah, Azarel, Gilalai, Maai, Nethanel, Judah, leh Hanani-te, Pasian' mi David' lasakna nate tawh pai-te a, tuate lakah laitheipa Ezra masa hi.
 
 **Grammar:** plural: uh marker
 
 ### v37
 **EN:** And at the fountain gate, which was over against them, they went up by the stairs of the city of David, at the going up of the wall, above the house of David, even unto the water gate eastward.
 
-**TDB77:** Tuinak Kongpi panin kulh kahtohna David khuapi kahlei ah paito-in, David’ inn khengin nisuahna lam manawhin Tui Kongpi dongah pai uh hi.
+**TDB77:** Tuinak Kongpi panin kulh kahtohna David khuapi kahlei ah paito-in, David’ inn khengin nisuahna lam manawhin Tui Kongpi dongah pai-te hi.
 
-**ZVS:** Tuinak Kongpi panin kulh kahtohna David khuapi kahlei-ah paito-in, David' inn khengin nisuahna lam manawhin Tui Kongpi dongah pai uh hi.
+**ZVS:** Tuinak Kongpi panin kulh kahtohna David khuapi kahlei-ah paito-in, David' inn khengin nisuahna lam manawhin Tui Kongpi dongah pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v38
 **EN:** And the other company of them that gave thanks went over against them, and I after them, and the half of the people upon the wall, from beyond the tower of the furnaces even unto the broad wall;
 
-**TDB77:** Lungdamna a ko a pawl dang khat pen veilam manawhin pai uh a, mi a kimkhat tawh amaute ka zui hi. Kulh tungah pai-in Meikhuk Tausang pan Kulh Zai-ah,
+**TDB77:** Lungdamna a ko a pawl dang khat pen veilam manawhin pai-te a, mi a kimkhat tawh amaute ka zui hi. Kulh tungah pai-in Meikhuk Tausang pan Kulh Zai-ah,
 
-**ZVS:** Lungdamna a ko a pawldang khat pen veilam manawhin pai uh a, mi a kimkhat tawh amaute ka zui hi. Kulh tungah pai-in Meikhuk Tausang pan Kulh Zai-ah
+**ZVS:** Lungdamna a ko a pawldang khat pen veilam manawhin pai-te a, mi a kimkhat tawh amaute ka zui hi. Kulh tungah pai-in Meikhuk Tausang pan Kulh Zai-ah
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v39
 **EN:** And from above the gate of Ephraim, and above the old gate, and above the fish gate, and the tower of Hananeel, and the tower of Meah, even unto the sheep gate: and they stood still in the prison gate.
 
-**TDB77:** tua panin Efraim Kongpi, tua ciangin Jeshanah Kongpi, tua ciangin Ngasa Kongpi, tua ciangin Hananel’ Tausang, tua ciangin Mi Za Khat Tausang, tua ciangin Tuu Kongpi-ah pai uh a, tua ciangin Thong Kongpi-ah khawl uh hi.
+**TDB77:** tua panin Efraim Kongpi, tua ciangin Jeshanah Kongpi, tua ciangin Ngasa Kongpi, tua ciangin Hananel’ Tausang, tua ciangin Mi Za Khat Tausang, tua ciangin Tuu Kongpi-ah pai-te a, tua ciangin Thong Kongpi-ah khawl-te hi.
 
-**ZVS:** tua panin Efraim Kongpi, tua ciangin Jeshanah Kongpi, tua ciangin Ngasa Kongpi, tua ciangin Hananel Tausang, tua ciangin Za Khat Tausang, tua ciangin Tuu Kongpi-ah pai uh a, tua ciangin Thong Kongpi-ah khawl uh hi.
+**ZVS:** tua panin Efraim Kongpi, tua ciangin Jeshanah Kongpi, tua ciangin Ngasa Kongpi, tua ciangin Hananel Tausang, tua ciangin Za Khat Tausang, tua ciangin Tuu Kongpi-ah pai-te a, tua ciangin Thong Kongpi-ah khawl-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v40
 **EN:** So stood the two companies of them that gave thanks in the house of God, and I, and the half of the rulers with me:
 
-**TDB77:** Tua hi a, lungdamna a ko hih pawl nihte, Pasian’ innah ding uh a, uliante kimkhat leh kei ka omkhawm uh hi.
+**TDB77:** Tua hi a, lungdamna a ko hih pawl nihte, Pasian’ innah ding-te a, uliante kimkhat leh kei ka omkhawm-te hi.
 
-**ZVS:** Tua hi a, lungdamna a ko hih pawl nihte, Pasian' biakinn hong tung uh a, uliante pawlkhat leh kei ka omkhawm uh hi.
+**ZVS:** Tua hi a, lungdamna a ko hih pawl nihte, Pasian' biakinn hong tung-te a, uliante pawlkhat leh kei ka omkhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v41
 **EN:** And the priests; Eliakim, Maaseiah, Miniamin, Michaiah, Elioenai, Zechariah, and Hananiah, with trumpets;
 
-**TDB77:** Tua ciangin siampi Eliakim, Ma-aseiah, Miniamin, Mikaiah, Elio-enai, Zekhariah, leh Hananiahte a peengkulte uh tawh om uh a,
+**TDB77:** Tua ciangin siampi Eliakim, Ma-aseiah, Miniamin, Mikaiah, Elio-enai, Zekhariah, leh Hananiahte a peengkulte-te tawh om-te a,
 
-**ZVS:** Tua ciangin siampi Eliakim, Maaseiah, Miniamin, Mikaiah, Elioenai, Zekhariah, leh Hananiah-te a peengkulte uh tawh om uh a,
+**ZVS:** Tua ciangin siampi Eliakim, Maaseiah, Miniamin, Mikaiah, Elioenai, Zekhariah, leh Hananiah-te a peengkulte-te tawh om-te a,
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v42
 **EN:** And Maaseiah, and Shemaiah, and Eleazar, and Uzzi, and Jehohanan, and Malchijah, and Elam, and Ezer. And the singers sang loud, with Jezrahiah their overseer.
 
-**TDB77:** Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkhijah, Elam, leh Ezer zong om uh hi. Tua hi a, Jezrahiah makai-in lasate in lasa uh hi.
+**TDB77:** Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkhijah, Elam, leh Ezer zong om-te hi. Tua hi a, Jezrahiah makai-in lasate in lasa-te hi.
 
-**ZVS:** Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkhijah, Elam, leh Ezer zong a om uh hi. Tua hi a, Jezrahiah makai-in lasate in la sa uh hi.
+**ZVS:** Maaseiah, Shemaiah, Eleazar, Uzzi, Jehohanan, Malkhijah, Elam, leh Ezer zong a om-te hi. Tua hi a, Jezrahiah makai-in lasate in la sa-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v43
 **EN:** Also that day they offered great sacrifices, and rejoiced: for God had made them rejoice with great joy: the wives also and the children rejoiced: so that the joy of Jerusalem was heard even afar off.
 
-**TDB77:** Pasian in nakpi takin amaute lungdamsak ahih manin amaute in tua ni-in biak piakna lian tampi pia-in lungdam uh hi; numei naupangte zong lungdam uh hi. Tua hi a, Jerusalem khua sungah lungdamna awging gamlapi pek pan nangawnin kiza hi.
+**TDB77:** Pasian in nakpi takin amaute lungdamsak ahih manin amaute in tua ni-in biak piakna lian tampi pia-in lungdam-te hi; numei naupangte zong lungdam-te hi. Tua hi a, Jerusalem khua sungah lungdamna awging gamlapi pek pan nangawnin kiza hi.
 
-**ZVS:** Pasian in nakpi takin amaute lungdamsak ahih manin amaute in tua ni-in biakpiakna lian tampi pia-in lungdam uh a, numei naupangte zong lungdam uh hi. Tua hi a, Jerusalem khuasunga lungdamna awging gamlapi pek pan nangawnin kiza hi.
+**ZVS:** Pasian in nakpi takin amaute lungdamsak ahih manin amaute in tua ni-in biakpiakna lian tampi pia-in lungdam-te a, numei naupangte zong lungdam-te hi. Tua hi a, Jerusalem khuasunga lungdamna awging gamlapi pek pan nangawnin kiza hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v44
 **EN:** And at that time were some appointed over the chambers for the treasures, for the offerings, for the firstfruits, and for the tithes, to gather into them out of the fields of the cities the portions of the law for the priests and Levites: for Judah rejoiced for the priests and for the Levites that waited.
 
-**TDB77:** Tua ciangin khuapite kiimah lo omte a golna leh a neuna tawh kizui-in siampite leh Levi mite’ adingin thukham sunga om bangin a kaihkhop ding uh a kipia nate, anpalte, leh sehsawm suah sehkhatte a koih nading uh vankoihna innte a uk dingin mi kiseh hi; bang hang hiam cih leh siampite leh Levi mite’ nasepna hangin Judah mi khempeuh lungdam mahmah uh hi.
+**TDB77:** Tua ciangin khuapite kiimah lo omte a golna leh a neuna tawh kizui-in siampite leh Levi mite’ adingin thukham sunga om bangin a kaihkhop ding-te a kipia nate, anpalte, leh sehsawm suah sehkhatte a koih nading-te vankoihna innte a uk dingin mi kiseh hi; bang hang hiam cih leh siampite leh Levi mite’ nasepna hangin Judah mi khempeuh lungdam mahmah-te hi.
 
-**ZVS:** Tua ciangin khuapite' kiimah lo omte panin a golna leh a neuna tawh kizui-in siampite leh Levi mite-a' dingin thukham sunga om bangin a kaihkhop ding uh a kipia nate, anpalte, leh sawmah khatte a koihna ding uh vankoihna innte a uk dingin mi kiseh hi; bang hang hiam cih leh siampite leh Levi mite' nasepna hangin Judah mi khempeuh lungdam mahmah uh hi.
+**ZVS:** Tua ciangin khuapite' kiimah lo omte panin a golna leh a neuna tawh kizui-in siampite leh Levi mite-a' dingin thukham sunga om bangin a kaihkhop ding-te a kipia nate, anpalte, leh sawmah khatte a koihna ding-te vankoihna innte a uk dingin mi kiseh hi; bang hang hiam cih leh siampite leh Levi mite' nasepna hangin Judah mi khempeuh lungdam mahmah-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v45
 **EN:** And both the singers and the porters kept the ward of their God, and the ward of the purification, according to the commandment of David, and of Solomon his son.
 
-**TDB77:** Tua hi a, David leh a tapa Solomon’ thupiakna tawh kizui-in lasate leh kongcingte mah bangin amaute in amau’ Pasian’ nasepte leh sian’suah nasep sem uh hi.
+**TDB77:** Tua hi a, David leh a tapa Solomon’ thupiakna tawh kizui-in lasate leh kongcingte mah bangin amaute in amau’ Pasian’ nasepte leh sian’suah nasep sem-te hi.
 
-**ZVS:** Tua hi a, David leh a tapa Solomon' thupiakna tawh kizui-in lasate leh kongcingte mah bangin amaute in amau' Pasian' nasepte leh sian'suah nasep a sem uh hi.
+**ZVS:** Tua hi a, David leh a tapa Solomon' thupiakna tawh kizui-in lasate leh kongcingte mah bangin amaute in amau' Pasian' nasepte leh sian'suah nasep a sem-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -389,9 +389,9 @@
 ### v47
 **EN:** And all Israel in the days of Zerubbabel, and in the days of Nehemiah, gave the portions of the singers and the porters, every day his portion: and they sanctified holy things unto the Levites; and the Levites sanctified them unto the children of Aaron.
 
-**TDB77:** Zerubbabel leh Nehemiah’ hun lai-in Israel mite khempeuh in lasate leh kongcingte’ adingin a nisim tanh uh pia uh hi; tua ciangin amaute in Levi mite’ ading tuam koih uh hi; tua ciangin Levi mite in Aaron’ suante ading tuam koih sawn leuleu uh hi.
+**TDB77:** Zerubbabel leh Nehemiah’ hun lai-in Israel mite khempeuh in lasate leh kongcingte’ adingin a nisim tanh-te pia-te hi; tua ciangin amaute in Levi mite’ ading tuam koih-te hi; tua ciangin Levi mite in Aaron’ suante ading tuam koih sawn leuleu-te hi.
 
-**ZVS:** Zerubbabel leh Nehemiah' hun lai-in Israel mite khempeuh in lasate leh kongcingte-a' dingin a nisim tanh uh pia uh a, amaute in Levi mite-a' ding tuamkoih uh hi. Tua ciangin Levi mite in Aaron suante-a' dingin tuamkoihsawn leuleu uh hi.
+**ZVS:** Zerubbabel leh Nehemiah' hun lai-in Israel mite khempeuh in lasate leh kongcingte-a' dingin a nisim tanh-te pia-te a, amaute in Levi mite-a' ding tuamkoih-te hi. Tua ciangin Levi mite in Aaron suante-a' dingin tuamkoihsawn leuleu-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 

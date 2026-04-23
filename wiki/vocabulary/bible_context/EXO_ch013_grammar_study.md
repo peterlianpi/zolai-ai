@@ -43,36 +43,36 @@
 ### v3
 **EN:** And Moses said unto the people, Remember this day, in which ye came out from Egypt, out of the house of bondage; for by strength of hand the
 
-**TDB77:** Moses in mite' tungah, “Salsuahna gam, Izipt panin na paikhiat uh hih ni phawk un, bang hang hiam cih leh Topa in vangliatna khut tawh hih mun panin note hong paikhiatpih hi; silngo sawh anlum kine lo ding hi.
+**TDB77:** Moses in mite' tungah, “Salsuahna gam, Izipt panin na paikhiat-te hih ni phawk un, bang hang hiam cih leh Topa in vangliatna khut tawh hih mun panin note hong paikhiatpih hi; silngo sawh anlum kine lo ding hi.
 
-**ZVS:** Moses in mite tungah, “Salsuahna Egypt gam panin na paikhiat uh hih ni phawk un. Bang hang hiam cih leh { Topa } in vangliatna tawh hih mun panin note hong paikhiatpih hi. Silngo sawh anlum kinelo ding hi.
+**ZVS:** Moses in mite tungah, “Salsuahna Egypt gam panin na paikhiat-te hih ni phawk un. Bang hang hiam cih leh { Topa } in vangliatna tawh hih mun panin note hong paikhiatpih hi. Silngo sawh anlum kinelo ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v4
 **EN:** This day came ye out in the month Abib.
 
-**TDB77:** Abib kha, tu ni-in note a paikhia ding na hi uh hi.
+**TDB77:** Abib kha, tu ni-in note a paikhia ding na hi-te hi.
 
-**ZVS:** Abib kha, tuni-in note a paikhia na hi uh hi.
+**ZVS:** Abib kha, tuni-in note a paikhia na hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v5
 **EN:** And it shall be when the
 
-**TDB77:** Amah in note' tungah piak dinga na pate’ tungah a ciam, bawngnawi leh khuaizu a luan’na leitang, Kanaan mite, Hit mite, Amor mite, Hiv mite leh Jebus mite’ leitangah Topa in note hong paipih ciangin hih kha sungin hih bangin pawina hih ding uh hi.
+**TDB77:** Amah in note' tungah piak dinga na pate’ tungah a ciam, bawngnawi leh khuaizu a luan’na leitang, Kanaan mite, Hit mite, Amor mite, Hiv mite leh Jebus mite’ leitangah Topa in note hong paipih ciangin hih kha sungin hih bangin pawina hih ding-te hi.
 
-**ZVS:** Amah in note tungah piak dinga na pate' tungah a ciam, bawngnawi leh khuaizu a luan'na leitang, Kanaan mite, Hit mite, Amor mite, Hiv mite, leh Jebus mite' leitangah { Topa } in note hong paipih ciangin hih kha sungin hih bangin na hih ding uh hi.
+**ZVS:** Amah in note tungah piak dinga na pate' tungah a ciam, bawngnawi leh khuaizu a luan'na leitang, Kanaan mite, Hit mite, Amor mite, Hiv mite, leh Jebus mite' leitangah { Topa } in note hong paipih ciangin hih kha sungin hih bangin na hih ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v6
 **EN:** Seven days thou shalt eat unleavened bread, and in the seventh day shall be a feast to the
 
-**TDB77:** Note in silngo sawhloh anlum ni sagih sung na ne ding uh a, a ni sagih ni-in Topa adingin pawi khat om ding hi.
+**TDB77:** Note in silngo sawhloh anlum ni sagih sung na ne ding-te a, a ni sagih ni-in Topa adingin pawi khat om ding hi.
 
-**ZVS:** Note in silngo sawhloh anlum ni sagih sung na ne ding uh a, a ni sagih ni-in { Topa } pahtawina pawi khat om ding hi.
+**ZVS:** Note in silngo sawhloh anlum ni sagih sung na ne ding-te a, a ni sagih ni-in { Topa } pahtawina pawi khat om ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
@@ -90,7 +90,7 @@
 
 **TDB77:** Tua ni-in na tapa kiangah, ‘Izipt panin ka paikhiat lai-in Topa in kei adinga hong hihsakna hang hi,’ ci-in na gen ding hi.
 
-**ZVS:** Tua ni-in na tate uh kiangah, ‘Egypt panin ka paikhiat lai-un { Topa } in ko-a' dinga hong hihsakna hang hi,’ ci-in na gen ding uh hi.
+**ZVS:** Tua ni-in na tate-te kiangah, ‘Egypt panin ka paikhiat lai-un { Topa } in ko-a' dinga hong hihsakna hang hi,’ ci-in na gen ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -106,32 +106,32 @@
 ### v10
 **EN:** Thou shalt therefore keep this ordinance in his season from year to year.
 
-**TDB77:** Tua ahih ciangin note in a kiseh hunin kum khat pan kum khat, hih biakna ngeina kip na zui ding uh hi.
+**TDB77:** Tua ahih ciangin note in a kiseh hunin kum khat pan kum khat, hih biakna ngeina kip na zui ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And it shall be when the
 
-**TDB77:** “Amah in note leh na pate uh tungah a ciam bangin, Topa in Kanaan leitangah note hong paipih hun ciang leh note' tungah tua gam hong piak ciangin,
+**TDB77:** “Amah in note leh na pate-te tungah a ciam bangin, Topa in Kanaan leitangah note hong paipih hun ciang leh note' tungah tua gam hong piak ciangin,
 
-**ZVS:** “Amah in note leh na pate uh tungah a ciam bangin, { Topa } in Kanaan leitangah note hong paipih hun ciang leh note tungah tua gam hong piak ciangin,
+**ZVS:** “Amah in note leh na pate-te tungah a ciam bangin, { Topa } in Kanaan leitangah note hong paipih hun ciang leh note tungah tua gam hong piak ciangin,
 
 ### v12
 **EN:** That thou shalt set apart unto the
 
-**TDB77:** note in naubu a hong masa khempeuh Topa’ adingin na tuam koih ding uh hi. Na ganhing uh a tacil a pa khempeuh in Topaaa hi ding hi.
+**TDB77:** note in naubu a hong masa khempeuh Topa’ adingin na tuam koih ding-te hi. Na ganhing-te a tacil a pa khempeuh in Topaaa hi ding hi.
 
-**ZVS:** note in naubu a hong masa khempeuh { Topa}-a' dingin na tuam koih ding uh hi. Na ganhing uh a tacil a pa khempeuh zong { Topa}-a' hi ding hi.
+**ZVS:** note in naubu a hong masa khempeuh { Topa}-a' dingin na tuam koih ding-te hi. Na ganhing-te a tacil a pa khempeuh zong { Topa}-a' hi ding hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v13
 **EN:** And every firstling of an ass thou shalt redeem with a lamb; and if thou wilt not redeem it, then thou shalt break his neck: and all the firstborn of man among thy children shalt thou redeem.
 
-**TDB77:** La a tacil peuhmah tuuno khat tawh na tanh ding uh hi, tua bang hi loin na tat kei ding uh leh a ngawg na kuaitan ding uh hi. Note’ tapate lak panin tacil peuhmah na tanh ding uh hi.
+**TDB77:** La a tacil peuhmah tuuno khat tawh na tanh ding-te hi, tua bang hi loin na tat kei ding-te leh a ngawg na kuaitan ding-te hi. Note’ tapate lak panin tacil peuhmah na tanh ding-te hi.
 
-**ZVS:** La a tacil peuhmah tuuno khat tawh na tanh ding uh hi. Na tat kei ding uh leh a ngawng na kuaitan ding uh hi. Note' tapate' lak panin tacil peuhmah na tanh ding uh hi.
+**ZVS:** La a tacil peuhmah tuuno khat tawh na tanh ding-te hi. Na tat kei ding-te leh a ngawng na kuaitan ding-te hi. Note' tapate' lak panin tacil peuhmah na tanh ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -147,9 +147,9 @@
 ### v15
 **EN:** And it came to pass, when Pharaoh would hardly let us go, that the
 
-**TDB77:** Bang hang hiam cih leh Faro in eite paisak ding a nial tentan ciangin Izipt gamsunga tacil khempeuh, mihing tacil leh ganhing tacil khempeuh Topa in that hi. Tua ahih ciangin naubu a hong masa a pa khempeuh Topa' tungah biakna-in ka pia uh hi; ahih hangin ka tapate uh sung pan tacil khempeuh ka tanh uh hi,’ na ci ding hi,
+**TDB77:** Bang hang hiam cih leh Faro in eite paisak ding a nial tentan ciangin Izipt gamsunga tacil khempeuh, mihing tacil leh ganhing tacil khempeuh Topa in that hi. Tua ahih ciangin naubu a hong masa a pa khempeuh Topa' tungah biakna-in ka pia-te hi; ahih hangin ka tapate-te sung pan tacil khempeuh ka tanh-te hi,’ na ci ding hi,
 
-**ZVS:** Bang hang hiam cih leh Faro in kote paisak ding a nial tentan ciangin Egypt gam sunga tacil khempeuh, mihing tacil leh ganhing tacil khempeuh { Topa } in that hi. Tua ahih ciangin naubu a hong masa a pa khempeuh { Topa' } tungah biakna-in ka pia uh hi. Ahih hangin ka tapate uh sung pan tacil khempeuh ka tanh uh hi,’ na ci ding hi.
+**ZVS:** Bang hang hiam cih leh Faro in kote paisak ding a nial tentan ciangin Egypt gam sunga tacil khempeuh, mihing tacil leh ganhing tacil khempeuh { Topa } in that hi. Tua ahih ciangin naubu a hong masa a pa khempeuh { Topa' } tungah biakna-in ka pia-te hi. Ahih hangin ka tapate-te sung pan tacil khempeuh ka tanh-te hi,’ na ci ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -174,27 +174,27 @@
 ### v18
 **EN:** But God led the people about, through the way of the wilderness of the Red sea: and the children of Israel went up harnessed out of the land of Egypt.
 
-**TDB77:** Ahih hangin Pasian in San Tuipi lam manawhin gamlak lamah mite kot paipih hi. Israel mite galdo dingin kithawisa-in Izipt leitang panin pai to uh hi.
+**TDB77:** Ahih hangin Pasian in San Tuipi lam manawhin gamlak lamah mite kot paipih hi. Israel mite galdo dingin kithawisa-in Izipt leitang panin pai to-te hi.
 
-**ZVS:** Ahih hangin Pasian in San Tuipi lam manawhin sehnel gam lamah mite kot paipih hi. Israel mite gal a do dingin a kithawisa-in Egypt leitang panin a paito uh ahi hi.
+**ZVS:** Ahih hangin Pasian in San Tuipi lam manawhin sehnel gam lamah mite kot paipih hi. Israel mite gal a do dingin a kithawisa-in Egypt leitang panin a paito-te ahi hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And Moses took the bones of Joseph with him: for he had straitly sworn the children of Israel, saying, God will surely visit you; and ye shall carry up my bones away hence with you.
 
-**TDB77:** Moses in Josef' guhte paipih hi; bang hang hiam cih leh Josef in Israel mite' tungah thupi takin ciam a, “Note' kiangah Pasian hong hawh ding hi; tua ciangin note in hih lai panin keima' guhte na pua ding uh hi,” a ci hi.
+**TDB77:** Moses in Josef' guhte paipih hi; bang hang hiam cih leh Josef in Israel mite' tungah thupi takin ciam a, “Note' kiangah Pasian hong hawh ding hi; tua ciangin note in hih lai panin keima' guhte na pua ding-te hi,” a ci hi.
 
-**ZVS:** Moses in Josef' guhte paipih hi. Bang hang hiam cih leh ama guhte a puak ding uh Josef in Israel mite thupi takin kiciamna bawlsak khin hi. “Pasian in note hong hotkhiat ciangin note in hih lai panin keima guhte na pua ding uh hi,” na ci khin hi.
+**ZVS:** Moses in Josef' guhte paipih hi. Bang hang hiam cih leh ama guhte a puak ding-te Josef in Israel mite thupi takin kiciamna bawlsak khin hi. “Pasian in note hong hotkhiat ciangin note in hih lai panin keima guhte na pua ding-te hi,” na ci khin hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And they took their journey from Succoth, and encamped in Etham, in the edge of the wilderness.
 
-**TDB77:** Sukkoth panin amaute pai lai uh a, gamlak nawl, Etham-ah giahphual sat uh hi.
+**TDB77:** Sukkoth panin amaute pai lai-te a, gamlak nawl, Etham-ah giahphual sat-te hi.
 
-**ZVS:** Sukkoth panin amaute pai lai uh a, sehnel gam nawl, Etham-ah giahphual sat uh hi.
+**ZVS:** Sukkoth panin amaute pai lai-te a, sehnel gam nawl, Etham-ah giahphual sat-te hi.
 
 **Grammar:** plural: uh marker
 

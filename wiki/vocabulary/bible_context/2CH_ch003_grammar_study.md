@@ -120,9 +120,9 @@
 ### v13
 **EN:** The wings of these cherubims spread themselves forth twenty cubits: and they stood on their feet, and their faces were inward.
 
-**TDB77:** Hih kherubte’ khate in tong sawmnih huam hi; kherubte amau’ khe-in ding-in innpi sung lam nga uh hi.
+**TDB77:** Hih kherubte’ khate in tong sawmnih huam hi; kherubte amau’ khe-in ding-in innpi sung lam nga-te hi.
 
-**ZVS:** Hih kherub-te' khate in pi sawmthum huam hi. Kherub-te amau' khe-in dingin innpi sunglam nga uh hi.
+**ZVS:** Hih kherub-te' khate in pi sawmthum huam hi. Kherub-te amau' khe-in dingin innpi sunglam nga-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

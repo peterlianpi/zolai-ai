@@ -28,9 +28,9 @@
 ### v1
 **EN:** Then Joseph came and told Pharaoh, and said, My father and my brethren, and their flocks, and their herds, and all that they have, are come out of the land of Canaan; and, behold, they are in the land of Goshen.
 
-**TDB77:** Tua ahih ciangin Josef pai-in Faro kiangah, “Ka pa leh ka sanggamte a tuuhon uh leh a bawnghon uh leh a neih khempeuh uh tawh Kanaan gam panin hong pai uh hi; amaute tu-in Goshen gamah om uh hi,” ci-in gen hi.
+**TDB77:** Tua ahih ciangin Josef pai-in Faro kiangah, “Ka pa leh ka sanggamte a tuuhon-te leh a bawnghon-te leh a neih khempeuh-te tawh Kanaan gam panin hong pai-te hi; amaute tu-in Goshen gamah om-te hi,” ci-in gen hi.
 
-**ZVS:** Tua ahih ciangin Josef pai-in Faro' kiangah, “Ka pa leh ka sanggamte a tuuhon uh leh a bawnghon uh leh a neih khempeuh uh tawh Kanaan gam panin hong pai uh a, amaute tu-in Goshen gamah om uh hi,” ci-in a gen hi.
+**ZVS:** Tua ahih ciangin Josef pai-in Faro' kiangah, “Ka pa leh ka sanggamte a tuuhon-te leh a bawnghon-te leh a neih khempeuh-te tawh Kanaan gam panin hong pai-te a, amaute tu-in Goshen gamah om-te hi,” ci-in a gen hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -46,18 +46,18 @@
 ### v3
 **EN:** And Pharaoh said unto his brethren, What is your occupation? And they said unto Pharaoh, Thy servants are shepherds, both we, and also our fathers.
 
-**TDB77:** Faro in a sanggamte' kiangah, “Na nasep uh bang ahi hiam?” ci hi. Amaute in Faro’ kiangah, “Ka pate uh mah bangin na nasem kote in tuucingte ka hi uh hi,” ci uh hi.
+**TDB77:** Faro in a sanggamte' kiangah, “Na nasep-te bang ahi hiam?” ci hi. Amaute in Faro’ kiangah, “Ka pate-te mah bangin na nasem kote in tuucingte ka hi-te hi,” ci-te hi.
 
-**ZVS:** Faro in a sanggamte kiangah, “Na nasep uh bang ahi hiam?” na ci hi. Amaute in Faro' kiangah, “Ka pate uh mah bangin na nasem kote pen gankemte ka hi uh hi,” a ci uh hi.
+**ZVS:** Faro in a sanggamte kiangah, “Na nasep-te bang ahi hiam?” na ci hi. Amaute in Faro' kiangah, “Ka pate-te mah bangin na nasem kote pen gankemte ka hi-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** They said moreover unto Pharaoh, For to sojourn in the land are we come; for thy servants have no pasture for their flocks; for the famine is sore in the land of Canaan: now therefore, we pray thee, let thy servants dwell in the land of Goshen.
 
-**TDB77:** Amaute in Faro’ kiangah, “Hih gamah tawl khat a om dingin kong pai uh hi; bang hang hiam cih leh Kanaan gamah kialpi nasia lua ahih manin tua lai-ah na nasemte’ tuuhonte ading lonona om nawn lo hi; tu-in kong thum uh hi, na nasemte Goshen gamah hong teengsak in,” ci uh hi.
+**TDB77:** Amaute in Faro’ kiangah, “Hih gamah tawl khat a om dingin kong pai-te hi; bang hang hiam cih leh Kanaan gamah kialpi nasia lua ahih manin tua lai-ah na nasemte’ tuuhonte ading lonona om nawn lo hi; tu-in kong thum-te hi, na nasemte Goshen gamah hong teengsak in,” ci-te hi.
 
-**ZVS:** Amaute in Faro kiangah, “Hih gamah tawlkhat a om dingin kong pai uh hi. Bang hang hiam cih leh Kanaan gamah kialpi nasia lua ahih manin tua lai-ah na nasemte' tuuhonte-a' ding lonona om nawnlo hi. Tu-in kong thum uh hi. Goshen gamah na nasemte hong tengsak in,” a ci uh hi.
+**ZVS:** Amaute in Faro kiangah, “Hih gamah tawlkhat a om dingin kong pai-te hi. Bang hang hiam cih leh Kanaan gamah kialpi nasia lua ahih manin tua lai-ah na nasemte' tuuhonte-a' ding lonona om nawnlo hi. Tu-in kong thum-te hi. Goshen gamah na nasemte hong tengsak in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -100,9 +100,9 @@
 ### v9
 **EN:** And Jacob said unto Pharaoh, The days of the years of my pilgrimage are an hundred and thirty years: few and evil have the days of the years of my life been, and have not attained unto the days of the years of the life of my fathers in the days of their pilgrimage.
 
-**TDB77:** Jakob in Faro' kiangah, “Tawl khat ka khualzin hun in kum za leh kum sawmthum ahi hi; ka nuntak hun tomin siatna bek om a, ka pate tawl khat a om sung uh a nuntakna hunte ban nai lo hi,” ci hi.
+**TDB77:** Jakob in Faro' kiangah, “Tawl khat ka khualzin hun in kum za leh kum sawmthum ahi hi; ka nuntak hun tomin siatna bek om a, ka pate tawl khat a om sung-te a nuntakna hunte ban nai lo hi,” ci hi.
 
-**ZVS:** Jakob in Faro kiangah, “Tawlkhat sung ka nuntak hun pen kum za leh kum sawmthum ahi hi. Ka nuntak hun tom sungah siatna bekbek om a, ka pate tawlkhat a omsung uh a nuntak hunte ban nailo hi,” a ci hi.
+**ZVS:** Jakob in Faro kiangah, “Tawlkhat sung ka nuntak hun pen kum za leh kum sawmthum ahi hi. Ka nuntak hun tom sungah siatna bekbek om a, ka pate tawlkhat a omsung-te a nuntak hunte ban nailo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -134,9 +134,9 @@
 ### v13
 **EN:** And there was no bread in all the land; for the famine was very sore, so that the land of Egypt and all the land of Canaan fainted by reason of the famine.
 
-**TDB77:** Tu-in gam khempeuhah an om lo hi; bang hang hiam cih leh kialpi nasia mahmah a, kialpi hangin Izipt mite leh Kanaan mite vul gawp uh hi.
+**TDB77:** Tu-in gam khempeuhah an om lo hi; bang hang hiam cih leh kialpi nasia mahmah a, kialpi hangin Izipt mite leh Kanaan mite vul gawp-te hi.
 
-**ZVS:** Tu-in kialpi nasia mahmah ahih manin gam khempeuhah an om nawnlo a, kialpi hangin Egypt mite leh Kanaan mite vulgawp uh hi.
+**ZVS:** Tu-in kialpi nasia mahmah ahih manin gam khempeuhah an om nawnlo a, kialpi hangin Egypt mite leh Kanaan mite vulgawp-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -152,54 +152,54 @@
 ### v15
 **EN:** And when money failed in the land of Egypt, and in the land of Canaan, all the Egyptians came unto Joseph, and said, Give us bread: for why should we die in thy presence? for the money faileth.
 
-**TDB77:** Izipt gamsung leh Kanaan gamsunga sum a bei khit ciangin Izipt mite khempeuh Josef' kiangah hong pai-in, “Kote an hong pia in; bang hangin na muhna-ah si ding ka hi uh hiam? Bang hang hiam cih leh ka sum uh bei ta hi,” ci uh hi.
+**TDB77:** Izipt gamsung leh Kanaan gamsunga sum a bei khit ciangin Izipt mite khempeuh Josef' kiangah hong pai-in, “Kote an hong pia in; bang hangin na muhna-ah si ding ka hi-te hiam? Bang hang hiam cih leh ka sum-te bei ta hi,” ci-te hi.
 
-**ZVS:** Egypt gamsung leh Kanaan gamsunga sum a bei khit ciangin Egypt mite khempeuh Josef kiangah hong pai-in, “Kote an hong pia in. Bang hangin na muhna-ah si ding ka hi uh hiam? Bang hang hiam cih leh ka sum uh beita hi,” a ci uh hi.
+**ZVS:** Egypt gamsung leh Kanaan gamsunga sum a bei khit ciangin Egypt mite khempeuh Josef kiangah hong pai-in, “Kote an hong pia in. Bang hangin na muhna-ah si ding ka hi-te hiam? Bang hang hiam cih leh ka sum-te beita hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And Joseph said, Give your cattle; and I will give you for your cattle, if money fail.
 
-**TDB77:** Josef in dawngin, “Na ganhingte uh hong pia un, na sum uh bei ahih leh na ganhing khekna-in an kong pia ding hi,” ci hi.
+**TDB77:** Josef in dawngin, “Na ganhingte-te hong pia un, na sum-te bei ahih leh na ganhing khekna-in an kong pia ding hi,” ci hi.
 
-**ZVS:** Josef in dawngin, “Na ganhingte uh hong pia un. Na sum uh bei ahih leh na ganhingte uh khekna-in an kong pia ding hi,” na ci hi.
+**ZVS:** Josef in dawngin, “Na ganhingte-te hong pia un. Na sum-te bei ahih leh na ganhingte-te khekna-in an kong pia ding hi,” na ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 
 ### v17
 **EN:** And they brought their cattle unto Joseph: and Joseph gave them bread in exchange for horses, and for the flocks, and for the cattle of the herds, and for the asses: and he fed them with bread for all their cattle for that year.
 
-**TDB77:** Tua ahih ciangin amaute in Josef' kiangah a ganhingte uh paipih uh hi; Josef in sakolte, tuuhonte, bawnghonte, late khekna-in amaute an pia hi; a ganhingte uh khekna-in Josef in tua kum sung amaute an pia hi.
+**TDB77:** Tua ahih ciangin amaute in Josef' kiangah a ganhingte-te paipih-te hi; Josef in sakolte, tuuhonte, bawnghonte, late khekna-in amaute an pia hi; a ganhingte-te khekna-in Josef in tua kum sung amaute an pia hi.
 
-**ZVS:** Tua ahih ciangin amaute in Josef kiangah a ganhingte uh paipih uh hi. Josef in sakolte, tuuhonte, bawnghonte, leh late a khekna-in amaute an a pia hi. A ganhingte uh khekna-in Josef in tua kum sung amaute an a pia hi.
+**ZVS:** Tua ahih ciangin amaute in Josef kiangah a ganhingte-te paipih-te hi. Josef in sakolte, tuuhonte, bawnghonte, leh late a khekna-in amaute an a pia hi. A ganhingte-te khekna-in Josef in tua kum sung amaute an a pia hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** When that year was ended, they came unto him the second year, and said unto him, We will not hide it from my lord, how that our money is spent; my lord also hath our herds of cattle; there is not ought left in the sight of my lord, but our bodies, and our lands:
 
-**TDB77:** Tua kum a bei ciangin, a kum kik ciangin amaute ama' kiangah pai-in, ama' kiangah, “Ka sum uh a beikhitna ka topa uh tungah kong im kei ding uh hi; ganhing honte ka topa’ aa ahi hi; ka pumpi uh leh ka leitang uh cih sim loh ka topa’ muhna-ah bangmah om lo hi.
+**TDB77:** Tua kum a bei ciangin, a kum kik ciangin amaute ama' kiangah pai-in, ama' kiangah, “Ka sum-te a beikhitna ka topa-te tungah kong im kei ding-te hi; ganhing honte ka topa’ aa ahi hi; ka pumpi-te leh ka leitang-te cih sim loh ka topa’ muhna-ah bangmah om lo hi.
 
-**ZVS:** Tua kum a bei, a kum kik ciangin amaute Josef kiangah hong pai-in, “Ka sum uh a bei khitna ka topa uh tungah kong im kei ding uh hi. Ganhing honte ka topa-a' ahi hi. Ka pumpi uh leh ka leitang uh cih simloh ka topa' muhna-ah bangmah dang om nawnlo hi.
+**ZVS:** Tua kum a bei, a kum kik ciangin amaute Josef kiangah hong pai-in, “Ka sum-te a bei khitna ka topa-te tungah kong im kei ding-te hi. Ganhing honte ka topa-a' ahi hi. Ka pumpi-te leh ka leitang-te cih simloh ka topa' muhna-ah bangmah dang om nawnlo hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** Wherefore shall we die before thine eyes, both we and our land? buy us and our land for bread, and we and our land will be servants unto Pharaoh: and give us seed, that we may live, and not die, that the land be not desolate.
 
-**TDB77:** Bang hangin kote si-in ka leitang uh nangma' muhna-ah maimawk ding ahi hiam? Kote leh ka leitang uh an tawh hong lei in la, kote leh ka leitang uh Faro’ sila ka hi ding uh hi; leitang mawk val loin, kote si loin ka hin’ theih nadingun khaici hong pia in,” ci uh hi.
+**TDB77:** Bang hangin kote si-in ka leitang-te nangma' muhna-ah maimawk ding ahi hiam? Kote leh ka leitang-te an tawh hong lei in la, kote leh ka leitang-te Faro’ sila ka hi ding-te hi; leitang mawk val loin, kote si loin ka hin’ theih nadingun khaici hong pia in,” ci-te hi.
 
-**ZVS:** Bang hangin kote si-in ka leitang uh nangma muhna-ah maimawk ding ahi hiam? Kote leh ka leitang uh an tawh hong lei in. Kote, Faro' sila ka hi ding uh a, ka leitang uh zong ama-a' hi ding hi. Leitang mawkval loin, kote si loin ka hin' theihna dingun khaici hong pia in,” a ci uh hi.
+**ZVS:** Bang hangin kote si-in ka leitang-te nangma muhna-ah maimawk ding ahi hiam? Kote leh ka leitang-te an tawh hong lei in. Kote, Faro' sila ka hi ding-te a, ka leitang-te zong ama-a' hi ding hi. Leitang mawkval loin, kote si loin ka hin' theihna dingun khaici hong pia in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v20
 **EN:** And Joseph bought all the land of Egypt for Pharaoh; for the Egyptians sold every man his field, because the famine prevailed over them: so the land became Pharaoh's.
 
-**TDB77:** Tua ahih ciangin Josef in Izipt gam khempeuh Faro’ adingin lei hi; bang hang hiam cih leh kialpi nasia lua ahih manin Izipt mi khempeuh in a lote uh zuak uh hi. Leitang in Faro’ aa suak hi;
+**TDB77:** Tua ahih ciangin Josef in Izipt gam khempeuh Faro’ adingin lei hi; bang hang hiam cih leh kialpi nasia lua ahih manin Izipt mi khempeuh in a lote-te zuak-te hi. Leitang in Faro’ aa suak hi;
 
-**ZVS:** Tua ahih ciangin Josef in Egypt gam khempeuh Faro-a' dingin a lei hi. Kialpi nasia lua ahih manin Egypt mi khempeuh in a lote uh a zuak uh hi. Leitang khempeuh Faro-a' suak khin hi.
+**ZVS:** Tua ahih ciangin Josef in Egypt gam khempeuh Faro-a' dingin a lei hi. Kialpi nasia lua ahih manin Egypt mi khempeuh in a lote-te a zuak-te hi. Leitang khempeuh Faro-a' suak khin hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -215,36 +215,36 @@
 ### v22
 **EN:** Only the land of the priests bought he not; for the priests had a portion assigned them of Pharaoh, and did eat their portion which Pharaoh gave them: wherefore they sold not their lands.
 
-**TDB77:** Siampite’ leitang bek amah in lei lo hi; bang hang hiam cih leh siampite in Faro’ tung panin a kiciangtan zah an ngah uh a, amaute' tungah Faro in a piak tawh amaute nungta uh hi; tua ahih ciangin amaute in a leitang uh zuak lo uh hi.
+**TDB77:** Siampite’ leitang bek amah in lei lo hi; bang hang hiam cih leh siampite in Faro’ tung panin a kiciangtan zah an ngah-te a, amaute' tungah Faro in a piak tawh amaute nungta-te hi; tua ahih ciangin amaute in a leitang-te zuak lo-te hi.
 
-**ZVS:** Siampite' leitang bek amah in lei lo hi. Bang hang hiam cih leh siampite in Faro' tung panin a kiciangtan zah an ngah uh a, amaute tungah Faro in a piak tawh amaute nungtazo uh ahih ciangin amaute in a leitang uh zuak lo uh hi.
+**ZVS:** Siampite' leitang bek amah in lei lo hi. Bang hang hiam cih leh siampite in Faro' tung panin a kiciangtan zah an ngah-te a, amaute tungah Faro in a piak tawh amaute nungtazo-te ahih ciangin amaute in a leitang-te zuak lo-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** Then Joseph said unto the people, Behold, I have bought you this day and your land for Pharaoh: lo, here is seed for you, and ye shall sow the land.
 
-**TDB77:** Tua ciangin Josef in mite' kiangah, “En un, tu ni-in note leh na leitang uh Faro’ adingin kong lei hi. Tu-in hih lai-ah no adingin khaici om a, note in leitang tungah na vawh ding uh hi.
+**TDB77:** Tua ciangin Josef in mite' kiangah, “En un, tu ni-in note leh na leitang-te Faro’ adingin kong lei hi. Tu-in hih lai-ah no adingin khaici om a, note in leitang tungah na vawh ding-te hi.
 
-**ZVS:** Tua ciangin Josef in mite kiangah, “En un, tuni-in note leh na leitang uh Faro-a' dingin kong lei hi. Tu-in hih lai-ah no-a' dingin khaici om a, note in leitang tungah na vawh ding uh hi.
+**ZVS:** Tua ciangin Josef in mite kiangah, “En un, tuni-in note leh na leitang-te Faro-a' dingin kong lei hi. Tu-in hih lai-ah no-a' dingin khaici om a, note in leitang tungah na vawh ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And it shall come to pass in the increase, that ye shall give the fifth part unto Pharaoh, and four parts shall be your own, for seed of the field, and for your food, and for them of your households, and for food for your little ones.
 
-**TDB77:** An lak ciangin Faro' tungah seh-nga-suah-seh-khat na pia ding uh a, seh-nga-suah-seh-li pen lo-ah khaici ding, note leh na innkuanpihte uh leh na tate uh’ an dingin na tang ding uh hi,” ci hi.
+**TDB77:** An lak ciangin Faro' tungah seh-nga-suah-seh-khat na pia ding-te a, seh-nga-suah-seh-li pen lo-ah khaici ding, note leh na innkuanpihte-te leh na tate uh’ an dingin na tang ding-te hi,” ci hi.
 
-**ZVS:** Anlak ciangin Faro' tungah nga-ah khat na pia ding uh a, nga-ah li pen lo-ah khaici ding, note leh na innkuanpihte uh leh na tate uh' an dingin na tang ding uh hi,” a ci hi.
+**ZVS:** Anlak ciangin Faro' tungah nga-ah khat na pia ding-te a, nga-ah li pen lo-ah khaici ding, note leh na innkuanpihte-te leh na tate uh' an dingin na tang ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | plural: uh marker
 
 ### v25
 **EN:** And they said, Thou hast saved our lives: let us find grace in the sight of my lord, and we will be Pharaoh's servants.
 
-**TDB77:** Amaute in, “Nang in ka nuntakna uh nong honkhia khin zo hi: ka topa uh lungdam hen la, kote in Faro’ sila ka hi ding uh hi,” ci uh hi.
+**TDB77:** Amaute in, “Nang in ka nuntakna-te nong honkhia khin zo hi: ka topa-te lungdam hen la, kote in Faro’ sila ka hi ding-te hi,” ci-te hi.
 
-**ZVS:** Amaute in, “Nang in ka nuntakna uh nong honkhia khinzo hi. Ka topa uh lungdam hen; kote pen Faro' sila ka hi ding uh hi,” a ci uh hi.
+**ZVS:** Amaute in, “Nang in ka nuntakna-te nong honkhia khinzo hi. Ka topa-te lungdam hen; kote pen Faro' sila ka hi ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -260,9 +260,9 @@
 ### v27
 **EN:** And Israel dwelt in the land of Egypt, in the country of Goshen; and they had possessions therein, and grew, and multiplied exceedingly.
 
-**TDB77:** Tua ahih ciangin Goshen gam, Izipt leitangah Israel teeng hi; tua sungah amaute in neihsa ngah uh a, pungin tampi tak pha uh hi.
+**TDB77:** Tua ahih ciangin Goshen gam, Izipt leitangah Israel teeng hi; tua sungah amaute in neihsa ngah-te a, pungin tampi tak pha-te hi.
 
-**ZVS:** Tua ahih ciangin Egypt gamsung Goshen leitangah Israel-te teng uh hi. Tua lai-ah amaute in neihsa ngah uh a, pungin tampi tak pha uh hi.
+**ZVS:** Tua ahih ciangin Egypt gamsung Goshen leitangah Israel-te teng-te hi. Tua lai-ah amaute in neihsa ngah-te a, pungin tampi tak pha-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

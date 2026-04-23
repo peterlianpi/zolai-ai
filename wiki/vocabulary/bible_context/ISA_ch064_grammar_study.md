@@ -41,25 +41,25 @@
 
 **TDB77:** Amah in a ngakte’ ading na a sempa’ thu tanglai pek panin kuamah in thei ngei lo, kuama bil in za ngei lo, kuama mit in nang sim loh Pasian dang mu ngei lo hi.
 
-**ZVS:** Amah a ngakte-a' dingin na a sempa' thu tanglai pek panin kuamah in thei ngeilo, kuama bil in za ngeilo a, kuama mit in nang simloh Pasian dang mu ngeilo uh hi.
+**ZVS:** Amah a ngakte-a' dingin na a sempa' thu tanglai pek panin kuamah in thei ngeilo, kuama bil in za ngeilo a, kuama mit in nang simloh Pasian dang mu ngeilo-te hi.
 
 **Grammar:** negation: lo
 
 ### v5
 **EN:** Thou meetest him that rejoiceth and worketh righteousness, those that remember thee in thy ways: behold, thou art wroth; for we have sinned: in those is continuance, and we shall be saved.
 
-**TDB77:** Thuman nasep lungdam takin a semte, nangma deih bangin a nungtate, nangmah in na limbawl hi. En in, kote tungah nang na heh a, ahih zongin kote ka khial lai veve uh hi; tanglai pek-a kipanin ka mawh ngitnget uh hi. Tua bangpi-in kote hong kihon ding ahi hiam?
+**TDB77:** Thuman nasep lungdam takin a semte, nangma deih bangin a nungtate, nangmah in na limbawl hi. En in, kote tungah nang na heh a, ahih zongin kote ka khial lai veve-te hi; tanglai pek-a kipanin ka mawh ngitnget-te hi. Tua bangpi-in kote hong kihon ding ahi hiam?
 
-**ZVS:** Thuman nasep lungdam takin a semte, nangma deih bangin a nungtate, nangmah in na limbawl hi. Kote tungah nang na heh a, ahi zongin kote ka khial lai veve uh hi. Tanglai peka kipanin ka mawh ngitnget uh hi. A tua bangpi mahin kote hong kihon ding ahi hiam?
+**ZVS:** Thuman nasep lungdam takin a semte, nangma deih bangin a nungtate, nangmah in na limbawl hi. Kote tungah nang na heh a, ahi zongin kote ka khial lai veve-te hi. Tanglai peka kipanin ka mawh ngitnget-te hi. A tua bangpi mahin kote hong kihon ding ahi hiam?
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** But we are all as an unclean thing, and all our righteousnesses are as filthy rags; and we all do fade as a leaf; and our iniquities, like the wind, have taken us away.
 
-**TDB77:** Kote khempeuh mawhnei mi ka hi khin uh a, ka gamtat hoih khempeuh uh zong puansianin tawh kibang veve hi. Kote khempeuh singteh bangin ka vul uh a, ka mawhna hangun, huih letkhiat nahthel keu ka bang uh hi.
+**TDB77:** Kote khempeuh mawhnei mi ka hi khin-te a, ka gamtat hoih khempeuh-te zong puansianin tawh kibang veve hi. Kote khempeuh singteh bangin ka vul-te a, ka mawhna hangun, huih letkhiat nahthel keu ka bang-te hi.
 
-**ZVS:** Kote khempeuh mawhnei mi ka hi khin uh a, ka gamtat hoih khempeuh uh zong puannin tawh kibanglai veve hi. Kote khempeuh singteh bangin ka vul uh a, ka mawhna hangun huih letkhiat nahthel keu ka bang uh hi.
+**ZVS:** Kote khempeuh mawhnei mi ka hi khin-te a, ka gamtat hoih khempeuh-te zong puannin tawh kibanglai veve hi. Kote khempeuh singteh bangin ka vul-te a, ka mawhna hangun huih letkhiat nahthel keu ka bang-te hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -75,18 +75,18 @@
 ### v8
 **EN:** But now, O
 
-**TDB77:** Ahi zongin, Topa aw, nangmah in kote’ Pa na hi hi; kote tungman bang hi-in, nang in beel seekpa bang na hi hi; kote khempeuh nangma bawl mite ka hi uh hi.
+**TDB77:** Ahi zongin, Topa aw, nangmah in kote’ Pa na hi hi; kote tungman bang hi-in, nang in beel seekpa bang na hi hi; kote khempeuh nangma bawl mite ka hi-te hi.
 
-**ZVS:** Ahi zongin { Topa } aw, nang pen kote' Pa na hi hi. Kote pen tungman bang hi-in, nang pen beelsekpa bang na hi a, kote khempeuh nangma bawl mite ka hi uh hi.
+**ZVS:** Ahi zongin { Topa } aw, nang pen kote' Pa na hi hi. Kote pen tungman bang hi-in, nang pen beelsekpa bang na hi a, kote khempeuh nangma bawl mite ka hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v9
 **EN:** Be not wroth very sore, O
 
-**TDB77:** Topa aw, nakpi takin sinso kei in la, mawhna ciamtehteh kei in. En in, kote khempeuh nangma mi ka hihna uh hong ngaihsun in.
+**TDB77:** Topa aw, nakpi takin sinso kei in la, mawhna ciamtehteh kei in. En in, kote khempeuh nangma mi ka hihna-te hong ngaihsun in.
 
-**ZVS:** { Topa } aw, nakpi takin sinso kei in la, mawhna ciamtehteh kei in. Kote khempeuh nangma mi ka hihna uh hong ngaihsun in.
+**ZVS:** { Topa } aw, nakpi takin sinso kei in la, mawhna ciamtehteh kei in. Kote khempeuh nangma mi ka hihna-te hong ngaihsun in.
 
 ### v10
 **EN:** Thy holy cities are a wilderness, Zion is a wilderness, Jerusalem a desolation.
@@ -98,7 +98,7 @@
 ### v11
 **EN:** Our holy and our beautiful house, where our fathers praised thee, is burned up with fire: and all our pleasant things are laid waste.
 
-**TDB77:** Kote’ biakinn a siangtho leh a hoihte, ka pate un nangmah hong phatna munte uh mei in kangtum khin a, kote’ neihsa na manpha khempeuh a sia suak khinta hi.
+**TDB77:** Kote’ biakinn a siangtho leh a hoihte, ka pate un nangmah hong phatna munte-te mei in kangtum khin a, kote’ neihsa na manpha khempeuh a sia suak khinta hi.
 
 **ZVS:** Kote' inn a siangtho leh a hoihte, ka pate un nangmah hong phatna munte mei in kang khin a, kote' mun nuam khempeuh a sia suak khinta hi.
 

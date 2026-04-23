@@ -26,7 +26,7 @@
 ### v1
 **EN:** I therefore, the prisoner of the Lord, beseech you that ye walk worthy of the vocation wherewith ye are called,
 
-**TDB77:** Tua ahih ciangin a hong sapna thupha note in na ngah uh tawh kituakin na zuih nadingun, Topa hanga thongkia keimah in hansuahin kong zol hi.
+**TDB77:** Tua ahih ciangin a hong sapna thupha note in na ngah-te tawh kituakin na zuih nadingun, Topa hanga thongkia keimah in hansuahin kong zol hi.
 
 **ZVS:** Tua ahih ciangin Topa' na ka sepna hangin thong a kia keimah in note' nuntakzia dingin a hong deihna tawh a kilawm a kituakin na nuntakna dingun ka hong hanthawn hi.
 
@@ -37,16 +37,16 @@
 
 **TDB77:** Na khempeuh panin kiniamsakna tawh, lungnemna tawh, lungduaina tawh dimin, itna lungsim tawh khat leh khat kithuakin,
 
-**ZVS:** Kiniamkhiatin, thunemin, lungduai-in om tawntung un. Khatlekhat kihuhna tawh na ki-itna uh kilangsak un.
+**ZVS:** Kiniamkhiatin, thunemin, lungduai-in om tawntung un. Khatlekhat kihuhna tawh na ki-itna-te kilangsak un.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v3
 **EN:** Endeavouring to keep the unity of the Spirit in the bond of peace.
 
-**TDB77:** kilem a, kipawlin, kikhopna hangin note in Kha Siangtho hanga na ngah uh pum khat bek ahihna na zuih nadingun na hahkat un.
+**TDB77:** kilem a, kipawlin, kikhopna hangin note in Kha Siangtho hanga na ngah-te pum khat bek ahihna na zuih nadingun na hahkat un.
 
-**ZVS:** Kha Siangtho kimakai sakin, khatlekhat kilemin pawlkhat na hihna uh na kipsak tawntung un.
+**ZVS:** Kha Siangtho kimakai sakin, khatlekhat kilemin pawlkhat na hihna-te na kipsak tawntung un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -118,7 +118,7 @@
 ### v13
 **EN:** Till we all come in the unity of the faith, and of the knowledge of the Son of God, unto a perfect man, unto the measure of the stature of the fulness of Christ:
 
-**TDB77:** Bang hang hiam na cih uh leh, eite khempeuh in thu-upna lamah ahi zongin, Pasian’ Tapa theihna ah ahi zongin, kipum khatin Khazih’ kicin’na lim mun ahi, a khangham mi suahna i tun’ dongin i piang hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite khempeuh in thu-upna lamah ahi zongin, Pasian’ Tapa theihna ah ahi zongin, kipum khatin Khazih’ kicin’na lim mun ahi, a khangham mi suahna i tun’ dongin i piang hi.
 
 **ZVS:** Tua hi leh Pasian' Tapa i theihna leh i thu upna-ah kithukhatin, eite a khangcing suakin, Khrih' cingtaakna ciang i banto ding hi.
 
@@ -127,7 +127,7 @@
 ### v14
 **EN:** That we henceforth be no more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men, and cunning craftiness, whereby they lie in wait to deceive;
 
-**TDB77:** Bang hang hiam na cih uh leh, mi dangte in mi kheemna mawhna lamah zol dingin, kheemna thu gen ahih ciangun, eite in a nung ciangin thuhilhna khempeuh ah huih in a let kawikawi naupang suak loin,
+**TDB77:** Bang hang hiam na cih-te leh, mi dangte in mi kheemna mawhna lamah zol dingin, kheemna thu gen ahih ciangun, eite in a nung ciangin thuhilhna khempeuh ah huih in a let kawikawi naupang suak loin,
 
 **ZVS:** Tuahun ciangin thu upna lamah naupang ihi nawn kei ding a, mite khemin a khialsak theite' mutna hangin i suk hoi i to hoi nawn kei ding a,
 
@@ -145,14 +145,14 @@
 
 **TDB77:** Tua lutang pan guh-le-tangte in thahatna ngahin, a pumpi khempeuh kizom kimatin, na khempeuh in amau nasep tek a sep mah bangin, itna tawh ama pumpi lam dingin a khang sak hi.
 
-**ZVS:** Ama ukna mangin pumpi na a tuamtuamte a kituak takin kizom a, amaute limtakin a kizop dimdiamna hangin pumpi pen pumkhat a suak thei hi. Pumpi na a tuamtuamte in amau' sepding ciat hoihtakin a sep uh ciangin itna hangin pumpi khangin a cingtaak a suak thei hi.
+**ZVS:** Ama ukna mangin pumpi na a tuamtuamte a kituak takin kizom a, amaute limtakin a kizop dimdiamna hangin pumpi pen pumkhat a suak thei hi. Pumpi na a tuamtuamte in amau' sepding ciat hoihtakin a sep-te ciangin itna hangin pumpi khangin a cingtaak a suak thei hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v17
 **EN:** This I say therefore, and testify in the Lord, that ye henceforth walk not as other Gentiles walk, in the vanity of their mind,
 
-**TDB77:** Tua ahih ciangin Gentailte in a lungsim kiphatsakna uh tawh a gamtat bangun note in na gamtat nawn loh nadingun Topa’ deihna bangin thuumin kong hanthawn hi.
+**TDB77:** Tua ahih ciangin Gentailte in a lungsim kiphatsakna-te tawh a gamtat bangun note in na gamtat nawn loh nadingun Topa’ deihna bangin thuumin kong hanthawn hi.
 
 **ZVS:** Tu-in Topa' min tawh limtakin note kiangah ka hong gennop thu in: Thu umlo dawibiate bangin gamta nawn kei un. Amaute' thu ngaihsutte a kimang bangmah omlo a,
 
@@ -161,58 +161,58 @@
 ### v18
 **EN:** Having the understanding darkened, being alienated from the life of God through the ignorance that is in them, because of the blindness of their heart:
 
-**TDB77:** Tua mite in a lungsim uh khauh a, neu kha beek thei lo ahih ciangun pilna khuavak kiliahin Pasian’ nuntakna tawh a kikhen uh hi.
+**TDB77:** Tua mite in a lungsim-te khauh a, neu kha beek thei lo ahih ciangun pilna khuavak kiliahin Pasian’ nuntakna tawh a kikhen-te hi.
 
-**ZVS:** a ngaihsutnate uh khuamial tawh kibang hi. Amaute' lungsim khauhin bangmah thei hetlo uh ahih manin Pasian' hong piak nuntakna neikha hetlo uh hi.
+**ZVS:** a ngaihsutnate-te khuamial tawh kibang hi. Amaute' lungsim khauhin bangmah thei hetlo-te ahih manin Pasian' hong piak nuntakna neikha hetlo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** Who being past feeling have given themselves over unto lasciviousness, to work all uncleanness with greediness.
 
-**TDB77:** Amaute in maizumna nei lo uh a, a deihgawhna uh a lian mahmah kihhuai gamtatna nam khempeuh a gamtat nadingun, amau pumpi in a lunggulhna uh khut sungah a kipia uh hi.
+**TDB77:** Amaute in maizumna nei lo-te a, a deihgawhna-te a lian mahmah kihhuai gamtatna nam khempeuh a gamtat nadingun, amau pumpi in a lunggulhna-te khut sungah a kipia-te hi.
 
-**ZVS:** Amaute in maizumna mel thei nawnlo uh a, siatna sung tungin, a ututun a kilawm lopipi-in gamta uh hi.
+**ZVS:** Amaute in maizumna mel thei nawnlo-te a, siatna sung tungin, a ututun a kilawm lopipi-in gamta-te hi.
 
 **Grammar:** intensifier: very/greatly | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** But ye have not so learned Christ;
 
-**TDB77:** Ahih hangin tua bang suah nading note in Khazih thu na sin kei uh hi.
+**TDB77:** Ahih hangin tua bang suah nading note in Khazih thu na sin kei-te hi.
 
-**ZVS:** Tua bang gamtatnate pen Khrih thu panin na theihkhak uh hilo hi.
+**ZVS:** Tua bang gamtatnate pen Khrih thu panin na theihkhak-te hilo hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v21
 **EN:** If so be that ye have heard him, and have been taught by him, as the truth is in Jesus:
 
-**TDB77:** Note in Khrih thu na zaksa uh hi a, ama nungzui na hih manun Jesuh' thutakna na theihsa uh ahi hi.
+**TDB77:** Note in Khrih thu na zaksa-te hi a, ama nungzui na hih manun Jesuh' thutakna na theihsa-te ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** That ye put off concerning the former conversation the old man, which is corrupt according to the deceitful lusts;
 
-**TDB77:** Zuauna lungsim in a suksiat khitsa, nidangin na nuntakna ngei uh ahi na pian'lui uh paikhia un la,
+**TDB77:** Zuauna lungsim in a suksiat khitsa, nidangin na nuntakna ngei-te ahi na pian'lui-te paikhia un la,
 
 ### v23
 **EN:** And be renewed in the spirit of your mind;
 
-**TDB77:** na lungsim uh leh na ngaihsutna uh thaksuak sak un.
+**TDB77:** na lungsim-te leh na ngaihsutna-te thaksuak sak un.
 
 ### v24
 **EN:** And that ye put on the new man, which after God is created in righteousness and true holiness.
 
-**TDB77:** A thutang a siangtho ahihna thu, nuntakna mahmah panin a kilangsak, Pasian' pian'zia tawh kibangin a kibawl na ngeina thak uh bangin na nungta un.
+**TDB77:** A thutang a siangtho ahihna thu, nuntakna mahmah panin a kilangsak, Pasian' pian'zia tawh kibangin a kibawl na ngeina thak-te bangin na nungta un.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix
 
 ### v25
 **EN:** Wherefore putting away lying, speak every man truth with his neighbour: for we are members one of another.
 
-**TDB77:** Tua ahih ciangin zuau thu paaikhia un la, thuman thutak tawh khat leh khat na kigen un. Bang hang hiam na cih uh leh, eite in pumpi khat’ nate ciat i hi hi.
+**TDB77:** Tua ahih ciangin zuau thu paaikhia un la, thuman thutak tawh khat leh khat na kigen un. Bang hang hiam na cih-te leh, eite in pumpi khat’ nate ciat i hi hi.
 
 **ZVS:** Tua ahih manin zuau gen nawn kei un la, Khrih pumpi nate ihihna hangin pawlkhat ihih manin khatlekhat tungah thuman kigen ni.
 
@@ -221,9 +221,9 @@
 ### v26
 **EN:** Be ye angry, and sin not: let not the sun go down upon your wrath:
 
-**TDB77:** Hehna tawh khialhna om sak kei un. Na hehna uh dam loin ni na tum sak kei un.
+**TDB77:** Hehna tawh khialhna om sak kei un. Na hehna-te dam loin ni na tum sak kei un.
 
-**ZVS:** Na heh uh ciangin, tua hehna hangin khialkha kei un la, a tawntungin heh paisuak kei un.
+**ZVS:** Na heh-te ciangin, tua hehna hangin khialkha kei un la, a tawntungin heh paisuak kei un.
 
 ### v27
 **EN:** Neither give place to the devil.
@@ -237,7 +237,7 @@
 
 **TDB77:** Nidang lai-a guta mi in gu nawn loin, sapna neite a hop zawh, a piak zawh nadingin ama khut tawh nasepna a hoih hahkatin sem ta hen.
 
-**ZVS:** Guta ngeite in gu nawnloin, ama nuntakna ding thuman takin thalawhin, mizawngte zong a huhtheih laina dingin thatang tawh nasep ding kipan ta uh hen.
+**ZVS:** Guta ngeite in gu nawnloin, ama nuntakna ding thuman takin thalawhin, mizawngte zong a huhtheih laina dingin thatang tawh nasep ding kipan ta-te hen.
 
 **Grammar:** purpose: in order to
 
@@ -246,7 +246,7 @@
 
 **TDB77:** Nomau kam sungpan kam hoih lo khat beek pusuak kei hen. A za mite phattuamna a piang sak dingin, a sapna bangin a kipsak nadingin kam hoih na zang un.
 
-**ZVS:** Na kiho uh ciangin kamguh zang kei un la, na pauna uh a za mite in phattuamna a ngahtheihna dingin na-in a kimang kam hoihte bek na pau un.
+**ZVS:** Na kiho-te ciangin kamguh zang kei un la, na pauna-te a za mite in phattuamna a ngahtheihna dingin na-in a kimang kam hoihte bek na pau un.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -255,7 +255,7 @@
 
 **TDB77:** Tatna’ Ni a tun’ dongin note hong ciamtehna ahi Pasian’ Kha Siangtho na dah sak kei un.
 
-**ZVS:** Ni khat ni ciangin Pasian in note hong tatkhiat taktakna ding thu a ciantakin hong lahna leh Pasian' neihsa na hihna uh hong ciamtehna-in Kha Siangtho hong pia ahih manin, tua Pasian' Kha Siangtho na dahsak kei un.
+**ZVS:** Ni khat ni ciangin Pasian in note hong tatkhiat taktakna ding thu a ciantakin hong lahna leh Pasian' neihsa na hihna-te hong ciamtehna-in Kha Siangtho hong pia ahih manin, tua Pasian' Kha Siangtho na dahsak kei un.
 
 ### v31
 **EN:** Let all bitterness, and wrath, and anger, and clamour, and evil speaking, be put away from you, with all malice:
@@ -269,9 +269,9 @@
 ### v32
 **EN:** And be ye kind one to another, tenderhearted, forgiving one another, even as God for Christ's sake hath forgiven you.
 
-**TDB77:** Khat leh khat na kihehpih un, thupha na kibawl un la, Khazih’ hangah Pasian in na mawhna uh hong maisak mah bangin note khat leh khat mawhna kimaisak un.
+**TDB77:** Khat leh khat na kihehpih un, thupha na kibawl un la, Khazih’ hangah Pasian in na mawhna-te hong maisak mah bangin note khat leh khat mawhna kimaisak un.
 
-**ZVS:** khatlekhat kihehpihin, lungsim neem tawh na kihozaw un la, Khrih' hangin Pasian in note' mawhna hong maisak mah bangin khatlekhat na mawhna uh na kimaisak ta un.
+**ZVS:** khatlekhat kihehpihin, lungsim neem tawh na kihozaw un la, Khrih' hangin Pasian in note' mawhna hong maisak mah bangin khatlekhat na mawhna-te na kimaisak ta un.
 
 **Grammar:** reciprocal: ki- prefix
 

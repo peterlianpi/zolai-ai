@@ -145,7 +145,7 @@
 ### v18
 **EN:** And they shall hearken to thy voice: and thou shalt come, thou and the elders of Israel, unto the king of Egypt, and ye shall say unto him, The
 
-**TDB77:** “Amaute in nangma thu hong ngai ding uh hi. Nang leh Israel upate, Egypt kumpipa kiangah pai-in ama tungah, ‘{ Topa } ahi Hebru mite' Pasian, kote' kiangah hong kilangzo hi. Tu-in kong thum uh hi, { Topa } ka Pasian uh' tungah biakna ka piak theihna dingun ni thum paina gamlakah kote hong paisak in,’ va ci un.
+**TDB77:** “Amaute in nangma thu hong ngai ding-te hi. Nang leh Israel upate, Egypt kumpipa kiangah pai-in ama tungah, ‘{ Topa } ahi Hebru mite' Pasian, kote' kiangah hong kilangzo hi. Tu-in kong thum-te hi, { Topa } ka Pasian uh' tungah biakna ka piak theihna dingun ni thum paina gamlakah kote hong paisak in,’ va ci un.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -166,14 +166,14 @@
 ### v21
 **EN:** And I will give this people favour in the sight of the Egyptians: and it shall come to pass, that, when ye go, ye shall not go empty:
 
-**TDB77:** “Keimah in Egypt mite' muhna-ah hih mihingte maipha ka pia ding hi. Note na paikhiat uh ciangin, a hawm guakin na pai kei ding uh hi.
+**TDB77:** “Keimah in Egypt mite' muhna-ah hih mihingte maipha ka pia ding hi. Note na paikhiat-te ciangin, a hawm guakin na pai kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v22
 **EN:** But every woman shall borrow of her neighbour, and of her that sojourneth in her house, jewels of silver, and jewels of gold, and raiment: and ye shall put them upon your sons, and upon your daughters; and ye shall spoil the Egyptians.
 
-**TDB77:** Numei peuhmah in a vengte leh ama inn sunga ompak mite' kiang panin ngun leh kham tawh kibawl kizepnate leh puante ngen ding uh a, na tapate uh leh na tanute uh tungah tuate na koih ding uh hi. Tua bangin note in Egypt mite' na na sut ding uh hi,” a ci hi.
+**TDB77:** Numei peuhmah in a vengte leh ama inn sunga ompak mite' kiang panin ngun leh kham tawh kibawl kizepnate leh puante ngen ding-te a, na tapate-te leh na tanute-te tungah tuate na koih ding-te hi. Tua bangin note in Egypt mite' na na sut ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

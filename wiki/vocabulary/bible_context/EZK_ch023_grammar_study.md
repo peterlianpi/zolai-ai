@@ -47,18 +47,18 @@
 ### v3
 **EN:** And they committed whoredoms in Egypt; they committed whoredoms in their youth: there were their breasts pressed, and there they bruised the teats of their virginity.
 
-**TDB77:** Amaute Izipt-ah a om lai, a khangno lai takun, a nungakna lim uh bei-in numei paktat suak uh hi.
+**TDB77:** Amaute Izipt-ah a om lai, a khangno lai takun, a nungakna lim-te bei-in numei paktat suak-te hi.
 
-**ZVS:** Amaute Egypt-ah a omlai, a khangno laitakun, a nungakna lim uh bei-in numei paktat a suak uh hi.
+**ZVS:** Amaute Egypt-ah a omlai, a khangno laitakun, a nungakna lim-te bei-in numei paktat a suak-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v4
 **EN:** And the names of them were Aholah the elder, and Aholibah her sister: and they were mine, and they bare sons and daughters. Thus were their names; Samaria is Aholah, and Jerusalem Aholibah.
 
-**TDB77:** A u nu’ min in Oholah hi a, Samaria khuapi tawh kibang a cih nopna hi. A nau nu’ min in Oholibah hi a, Jerusalem khuapi tawh kibang a cih nopna ahi hi. Hih numei nihte ka ten’pih a, a nih-un kei tawh ta nei uh hi.
+**TDB77:** A u nu’ min in Oholah hi a, Samaria khuapi tawh kibang a cih nopna hi. A nau nu’ min in Oholibah hi a, Jerusalem khuapi tawh kibang a cih nopna ahi hi. Hih numei nihte ka ten’pih a, a nih-un kei tawh ta nei-te hi.
 
-**ZVS:** A unu' min Oholah hi a, Samaria khuapi tawh kibang a cihnopna ahi hi. A naunu' min Oholibah hi a, Jerusalem khuapi tawh kibang a cihnopna ahi hi. Hih numei nihte ka ten'pih a, a nihun kei tawh ta nei uh hi.
+**ZVS:** A unu' min Oholah hi a, Samaria khuapi tawh kibang a cihnopna ahi hi. A naunu' min Oholibah hi a, Jerusalem khuapi tawh kibang a cihnopna ahi hi. Hih numei nihte ka ten'pih a, a nihun kei tawh ta nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -74,9 +74,9 @@
 ### v6
 **EN:** Which were clothed with blue, captains and rulers, all of them desirable young men, horsemen riding upon horses.
 
-**TDB77:** puansan a silh galkap hangte, gam uk mangte leh galkap mang liante hi a, a vekpi-un a ngaihhuai, sakol tung tuang galkap mang liante ahi uh hi.
+**TDB77:** puansan a silh galkap hangte, gam uk mangte leh galkap mang liante hi a, a vekpi-un a ngaihhuai, sakol tung tuang galkap mang liante ahi-te hi.
 
-**ZVS:** puansan a silh galkap hangte, gam uk mangte, leh galkapmang liante hi a, a vekpi-un a ngaihhuai, sakol tung tuang galkapmang liante ahi uh hi.
+**ZVS:** puansan a silh galkap hangte, gam uk mangte, leh galkapmang liante hi a, a vekpi-un a ngaihhuai, sakol tung tuang galkapmang liante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -90,9 +90,9 @@
 ### v8
 **EN:** Neither left she her whoredoms brought from Egypt: for in her youth they lay with her, and they bruised the breasts of her virginity, and poured their whoredom upon her.
 
-**TDB77:** A nungakna beisakin, Izipt gam-a a paktatna mah zom lailai hi. A nungak tunga kipanin mite in luppihin numei paktatte bangin bawlin a ut ut-un hih uh hi.
+**TDB77:** A nungakna beisakin, Izipt gam-a a paktatna mah zom lailai hi. A nungak tunga kipanin mite in luppihin numei paktatte bangin bawlin a ut ut-un hih-te hi.
 
-**ZVS:** A nungakna beisakin, Egypt gama a paktat mah zom lailai hi. A nungak tunga kipanin mite in luppihin numei paktatte bangin bawlin a ut utun hih uh hi.
+**ZVS:** A nungakna beisakin, Egypt gama a paktat mah zom lailai hi. A nungak tunga kipanin mite in luppihin numei paktatte bangin bawlin a ut utun hih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -108,9 +108,9 @@
 ### v10
 **EN:** These discovered her nakedness: they took her sons and her daughters, and slew her with the sword: and she became famous among women; for they had executed judgment upon her.
 
-**TDB77:** Assiria mite in a puan hawkkhiatsak uh a, a tanu leh a tapate matsakin, tua ciangin namsau tawh amah that uh hi. Mun khempeuh-a numeite in amah gentehna khatin nei uh a, ama tungah thu kikhen hi.
+**TDB77:** Assiria mite in a puan hawkkhiatsak-te a, a tanu leh a tapate matsakin, tua ciangin namsau tawh amah that-te hi. Mun khempeuh-a numeite in amah gentehna khatin nei-te a, ama tungah thu kikhen hi.
 
-**ZVS:** Assiria mite in a puan hawkkhiatsak uh a, a tanu leh a tapate matsakin, tua ciangin namsau tawh amah that uh hi. Mun khempeuha numeite in amah gentehna khatin nei uh a, ama tungah thu kikhen hi.
+**ZVS:** Assiria mite in a puan hawkkhiatsak-te a, a tanu leh a tapate matsakin, tua ciangin namsau tawh amah that-te hi. Mun khempeuha numeite in amah gentehna khatin nei-te a, ama tungah thu kikhen hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -160,9 +160,9 @@
 ### v17
 **EN:** And the Babylonians came to her into the bed of love, and they defiled her with their whoredom, and she was polluted with them, and her mind was alienated from them.
 
-**TDB77:** Babilon mite zong amah tawh a mawh dingin hong pai uh hi. Amaute in a lungkim dongun tua nu hih nilohin ninsak uh a, a tawpna-ah amaute a ngaih gen loh a kih zah ciang dongin a bawl uh hi.
+**TDB77:** Babilon mite zong amah tawh a mawh dingin hong pai-te hi. Amaute in a lungkim dongun tua nu hih nilohin ninsak-te a, a tawpna-ah amaute a ngaih gen loh a kih zah ciang dongin a bawl-te hi.
 
-**ZVS:** Babylon mite zong amah tawh a mawh dingin hong pai uh hi. Amaute in a lungkim dongun tuanu hih nilohin ninsak uh a, a tawpna-ah amaute a ngaih genloh a kihzah ciangdongin a bawl uh hi.
+**ZVS:** Babylon mite zong amah tawh a mawh dingin hong pai-te hi. Amaute in a lungkim dongun tuanu hih nilohin ninsak-te a, a tawpna-ah amaute a ngaih genloh a kihzah ciangdongin a bawl-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -212,34 +212,34 @@
 ### v23
 **EN:** The Babylonians, and all the Chaldeans, Pekod, and Shoa, and Koa, and all the Assyrians with them: all of them desirable young men, captains and rulers, great lords and renowned, all of them riding upon horses.
 
-**TDB77:** Babilon mite, Khaldea mite, Pekod mite, Shoa mite, Koa mite, leh Assiria mite khempeuh kong paipih ding hi. Amaute a vekpi-in tangval mel hoih ngaihbaang gam ukte leh galkapmangte hi a, a vekpi-un ulianpipi, sakol tung tuang galkap mang liante vive ahi uh hi.
+**TDB77:** Babilon mite, Khaldea mite, Pekod mite, Shoa mite, Koa mite, leh Assiria mite khempeuh kong paipih ding hi. Amaute a vekpi-in tangval mel hoih ngaihbaang gam ukte leh galkapmangte hi a, a vekpi-un ulianpipi, sakol tung tuang galkap mang liante vive ahi-te hi.
 
-**ZVS:** Babylon khuamite, Khaldea gammite, Pekod mite, Shoa mite, Koa mite, leh Assiria mite khempeuh kong paipih ding hi. Amaute a vekpi-in tangval melhoih, a ngaihbaang gam ukte leh galkapmangte hi a, a vekpi-un ulianpipi, sakol tung tuang galkapmang liante vive ahi uh hi.
+**ZVS:** Babylon khuamite, Khaldea gammite, Pekod mite, Shoa mite, Koa mite, leh Assiria mite khempeuh kong paipih ding hi. Amaute a vekpi-in tangval melhoih, a ngaihbaang gam ukte leh galkapmangte hi a, a vekpi-un ulianpipi, sakol tung tuang galkapmang liante vive ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v24
 **EN:** And they shall come against thee with chariots, wagons, and wheels, and with an assembly of people, which shall set against thee buckler and shield and helmet round about: and I will set judgment before them, and they shall judge thee according to their judgments.
 
-**TDB77:** Amaute in leilu lam panin nang hong sim ding a, leeng galkap leh vanpua leeng tampi hong kengin galkap tampi tak tawh hong kuan ding uh hi. Lumte leh siklukhute tawh kidalin amaute in nang hong umcih ding uh hi. Amaute’ khut sungah nang kong ap ding a, amaute’ ngeina om bangin nangma tungah thu hong khen ding uh hi.
+**TDB77:** Amaute in leilu lam panin nang hong sim ding a, leeng galkap leh vanpua leeng tampi hong kengin galkap tampi tak tawh hong kuan ding-te hi. Lumte leh siklukhute tawh kidalin amaute in nang hong umcih ding-te hi. Amaute’ khut sungah nang kong ap ding a, amaute’ ngeina om bangin nangma tungah thu hong khen ding-te hi.
 
-**ZVS:** Amaute in leilu lam panin nang hong sim ding uh a, leeng galkap leh vanpua leeng tampi hong kengin galkap tampi tak tawh hong kuan ding uh hi. Lumte leh siklukhute tawh kidalin amaute in nang hong umcih ding uh hi. Amaute' khutsungah nang kong ap ding a, amaute' ngeina om bangin nang' tungah thu hong khen ding uh hi.
+**ZVS:** Amaute in leilu lam panin nang hong sim ding-te a, leeng galkap leh vanpua leeng tampi hong kengin galkap tampi tak tawh hong kuan ding-te hi. Lumte leh siklukhute tawh kidalin amaute in nang hong umcih ding-te hi. Amaute' khutsungah nang kong ap ding a, amaute' ngeina om bangin nang' tungah thu hong khen ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And I will set my jealousy against thee, and they shall deal furiously with thee: they shall take away thy nose and thine ears; and thy remnant shall fall by the sword: they shall take thy sons and thy daughters; and thy residue shall be devoured by the fire.
 
-**TDB77:** Nangma tungah kei heh ka hih manin, nangma tungah amaute hong heh gamtat ding uh hi. Na nak leh na bilte hong atkhiatsakin na tate hong thahsak ding uh hi. Na tanu leh na tapate na kiang panin hong sutin a hing tangun hallum ding uh hi.
+**TDB77:** Nangma tungah kei heh ka hih manin, nangma tungah amaute hong heh gamtat ding-te hi. Na nak leh na bilte hong atkhiatsakin na tate hong thahsak ding-te hi. Na tanu leh na tapate na kiang panin hong sutin a hing tangun hallum ding-te hi.
 
-**ZVS:** Nangma tungah kei heh ka hih manin nangma tungah amaute hong heh gamtat ding uh hi. Na nak leh na bilte hong atkhiatsakin na tate hong thahsak ding uh hi. Na tanu leh na tapate na kiang panin hong sutin a hingtangun hallum ding uh hi.
+**ZVS:** Nangma tungah kei heh ka hih manin nangma tungah amaute hong heh gamtat ding-te hi. Na nak leh na bilte hong atkhiatsakin na tate hong thahsak ding-te hi. Na tanu leh na tapate na kiang panin hong sutin a hingtangun hallum ding-te hi.
 
 **Grammar:** causative: -sak suffix | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** They shall also strip thee out of thy clothes, and take away thy fair jewels.
 
-**TDB77:** Na puante hong hawkkhiatsakin, a manpha na kizepnate zong hong laksak ding uh hi.
+**TDB77:** Na puante hong hawkkhiatsakin, a manpha na kizepnate zong hong laksak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -264,18 +264,18 @@
 ### v29
 **EN:** And they shall deal with thee hatefully, and shall take away all thy labour, and shall leave thee naked and bare: and the nakedness of thy whoredoms shall be discovered, both thy lewdness and thy whoredoms.
 
-**TDB77:** Amaute zong nangma tungah hong muhdah gamtat ding uh a, na thalawhsa na khempeuh hong laksakin na hawm guakin hong nusia ding uh hi. Na paktat gamtatna teng hong kipholak ding hi. Na hukna leh na paktat gamtatna in
+**TDB77:** Amaute zong nangma tungah hong muhdah gamtat ding-te a, na thalawhsa na khempeuh hong laksakin na hawm guakin hong nusia ding-te hi. Na paktat gamtatna teng hong kipholak ding hi. Na hukna leh na paktat gamtatna in
 
-**ZVS:** Amaute zong nangma tungah hong muhdah gamtat ding uh a, na thalawhsa na khempeuh hong laksakin na hawmguakin hong nusia ding uh hi. Na paktat gamtatnateng hong kipholak ding hi. Na hukna leh na paktat gamtatna in
+**ZVS:** Amaute zong nangma tungah hong muhdah gamtat ding-te a, na thalawhsa na khempeuh hong laksakin na hawmguakin hong nusia ding-te hi. Na paktat gamtatnateng hong kipholak ding hi. Na hukna leh na paktat gamtatna in
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** I will do these things unto thee, because thou hast gone a whoring after the heathen, and because thou art polluted with their idols.
 
-**TDB77:** nangma tungah hih bang teng hong tungsak hi. Minam dangte tawh na paktat a, a milimte uh tawh na kininsak hi.
+**TDB77:** nangma tungah hih bang teng hong tungsak hi. Minam dangte tawh na paktat a, a milimte-te tawh na kininsak hi.
 
-**ZVS:** nangma tungah hih bangteng hong tungsak hi. Minam dangte tawh na paktat a, a milimte uh tawh na kininsak hi.
+**ZVS:** nangma tungah hih bangteng hong tungsak hi. Minam dangte tawh na paktat a, a milimte-te tawh na kininsak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -291,9 +291,9 @@
 ### v32
 **EN:** Thus saith the Lord
 
-**TDB77:** Topa Pasian in hih bangin ci hi: Na u nu’ hai mah na dawn ding hi; tua hai golin thuk mahmah hi. A hai dim sitset ahih manin, mi khempeuh in hong simmawhin hong nuihsan ding uh hi.
+**TDB77:** Topa Pasian in hih bangin ci hi: Na u nu’ hai mah na dawn ding hi; tua hai golin thuk mahmah hi. A hai dim sitset ahih manin, mi khempeuh in hong simmawhin hong nuihsan ding-te hi.
 
-**ZVS:** Topa { Pasian } in hih bangin ci hi: Na unu' hai mah na dawn ding a, tua hai golin thuk mahmah hi. A hai dim sitset ahih manin mi khempeuh in hong simmawhin hong nuihsan ding uh hi.
+**ZVS:** Topa { Pasian } in hih bangin ci hi: Na unu' hai mah na dawn ding a, tua hai golin thuk mahmah hi. A hai dim sitset ahih manin mi khempeuh in hong simmawhin hong nuihsan ding-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | future: will | causal: because | plural: uh marker
 
@@ -327,61 +327,61 @@
 ### v36
 **EN:** The
 
-**TDB77:** Topa in kei kiangah thu hong gen a, “Ezekiel aw, Oholah leh Oholibah tungah thukhen dingin na kithawi nai hiam? A gamtat hoih lohna teng uh amaute tungah gen in.
+**TDB77:** Topa in kei kiangah thu hong gen a, “Ezekiel aw, Oholah leh Oholibah tungah thukhen dingin na kithawi nai hiam? A gamtat hoih lohna teng-te amaute tungah gen in.
 
-**ZVS:** { Topa } in kei kiangah thu hong gen a, “Mihing ahi Ezekiel aw, Oholah leh Oholibah tungah thukhen dingin na kithawi nai hiam? A gamtat hoihlohna teng uh amaute tungah gen in.
+**ZVS:** { Topa } in kei kiangah thu hong gen a, “Mihing ahi Ezekiel aw, Oholah leh Oholibah tungah thukhen dingin na kithawi nai hiam? A gamtat hoihlohna teng-te amaute tungah gen in.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v37
 **EN:** That they have committed adultery, and blood is in their hands, and with their idols have they committed adultery, and have also caused their sons, whom they bare unto me, to pass for them through the fire, to devour them.
 
-**TDB77:** Amaute in milim biakna tawh nu-le-pa mawhna bawlin mi that uh hi. Milimte tawh mawhna gamta-in, kei tawh a neih a tapate uh that uh hi. A tapate uh milim biakna-in go uh hi.
+**TDB77:** Amaute in milim biakna tawh nu-le-pa mawhna bawlin mi that-te hi. Milimte tawh mawhna gamta-in, kei tawh a neih a tapate-te that-te hi. A tapate-te milim biakna-in go-te hi.
 
-**ZVS:** Amaute in milim biakna tawh nulepa mawhna bawlin mi zong that lai uh hi. Milimte tawh mawhna gamta-in, kei tawh a neih a tapate uh that uh hi. A tapate uh milim biakna-in go uh hi.
+**ZVS:** Amaute in milim biakna tawh nulepa mawhna bawlin mi zong that lai-te hi. Milimte tawh mawhna gamta-in, kei tawh a neih a tapate-te that-te hi. A tapate-te milim biakna-in go-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v38
 **EN:** Moreover this they have done unto me: they have defiled my sanctuary in the same day, and have profaned my sabbaths.
 
-**TDB77:** Amaute’ gamtatna tu-a bang teng bek hilo lai hi. Ka biakinn ninsak uh a, ka sabbathte zong palsat lai uh hi.
+**TDB77:** Amaute’ gamtatna tu-a bang teng bek hilo lai hi. Ka biakinn ninsak-te a, ka sabbathte zong palsat lai-te hi.
 
-**ZVS:** Amaute' gamtatna tu-a bangteng bek hilo lai hi. Ka biakinn ninsak uh a, ka Sabbath-te zong palsat lai uh hi.
+**ZVS:** Amaute' gamtatna tu-a bangteng bek hilo lai hi. Ka biakinn ninsak-te a, ka Sabbath-te zong palsat lai-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v39
 **EN:** For when they had slain their children to their idols, then they came the same day into my sanctuary to profane it; and, lo, thus have they done in the midst of mine house.
 
-**TDB77:** Milim biakna-in ka tate a gawh khit uh ciangin tua ni mah-in ka biakinn-ah pai-in ninsak uh hi. Ka biakinn sungah hih bangin gamta tazen uh hi.
+**TDB77:** Milim biakna-in ka tate a gawh khit-te ciangin tua ni mah-in ka biakinn-ah pai-in ninsak-te hi. Ka biakinn sungah hih bangin gamta tazen-te hi.
 
-**ZVS:** Milim biakna-in ka tate a gawh khit uh ciangin tua ni mahin ka biakinn-ah pai-in ninsak uh hi. Ka biakinn sungah hih bangin gamta tazen uh hi.
+**ZVS:** Milim biakna-in ka tate a gawh khit-te ciangin tua ni mahin ka biakinn-ah pai-in ninsak-te hi. Ka biakinn sungah hih bangin gamta tazen-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v40
 **EN:** And furthermore, that ye have sent for men to come from far, unto whom a messenger was sent; and, lo, they came: for whom thou didst wash thyself, paintedst thy eyes, and deckedst thyself with ornaments,
 
-**TDB77:** Amaute in gamlapi-a om mite a sam dingin kamtai sawl uh a, a sap mite hong pai uh hi. Hih numeite kisilin, a mit uh zeemin, kizepna a manpha a tuamtuamte tawh kizemin kipuah uh hi.
+**TDB77:** Amaute in gamlapi-a om mite a sam dingin kamtai sawl-te a, a sap mite hong pai-te hi. Hih numeite kisilin, a mit-te zeemin, kizepna a manpha a tuamtuamte tawh kizemin kipuah-te hi.
 
-**ZVS:** “Amaute in gamlapi-a a om mite a sam dingin kamtai sawl uh a, a sap mite hong pai uh hi. Hih numeite kisilin, a mit uh zemin, kizepna a manpha a tuamtuamte tawh kizemin kipuah uh hi.
+**ZVS:** “Amaute in gamlapi-a a om mite a sam dingin kamtai sawl-te a, a sap mite hong pai-te hi. Hih numeite kisilin, a mit-te zemin, kizepna a manpha a tuamtuamte tawh kizemin kipuah-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v41
 **EN:** And satest upon a stately bed, and a table prepared before it, whereupon thou hast set mine incense and mine oil.
 
-**TDB77:** Lupna hoih mahmah tungah tu-in a mai uhah sabuai limtakin koih uh hi. Tua sabuai tungah keima piaksa paknamtui leh oliv thaute koih uh hi.
+**TDB77:** Lupna hoih mahmah tungah tu-in a mai uhah sabuai limtakin koih-te hi. Tua sabuai tungah keima piaksa paknamtui leh oliv thaute koih-te hi.
 
 **Grammar:** adjective: hoih (good) | intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 
 ### v42
 **EN:** And a voice of a multitude being at ease was with her: and with the men of the common sort were brought Sabeans from the wilderness, which put bracelets upon their hands, and beautiful crowns upon their heads.
 
-**TDB77:** Lungnuam-a om mihonte’ gamlumna kiza a, gamlak panin mihon mawkmawk pawlkhat zong hong kitun’pih hi. Amaute in tua numeite’ khutah tau butsak uh a, a lu tung uhah kumpi lukhu hoihte khusak uh hi.
+**TDB77:** Lungnuam-a om mihonte’ gamlumna kiza a, gamlak panin mihon mawkmawk pawlkhat zong hong kitun’pih hi. Amaute in tua numeite’ khutah tau butsak-te a, a lu tung uhah kumpi lukhu hoihte khusak-te hi.
 
-**ZVS:** Lungnuamin a om mihonte' gamlumna kiza a, gamlak panin mihon mawkmawk pawlkhat zong hong kitun'pih hi. Amaute in tua numeite' khutah tau butsak uh a, a lu tung uhah kumpi lukhu hoihte khusak uh hi.
+**ZVS:** Lungnuamin a om mihonte' gamlumna kiza a, gamlak panin mihon mawkmawk pawlkhat zong hong kitun'pih hi. Amaute in tua numeite' khutah tau butsak-te a, a lu tung uhah kumpi lukhu hoihte khusak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -390,43 +390,43 @@
 
 **TDB77:** Nu-le-pa mawhna bawlin a paat ngingeisa khat, numei paktatte khat mah bangin a zang lailai hi tah a, ci-in ka ngaihsun hi.
 
-**ZVS:** Nulepa mawhna bawlin a paat ngingeisa numei khat, numei paktatte khat mah bangin a hih lailai uh hi tah a, ci-in ka ngaihsun hi.
+**ZVS:** Nulepa mawhna bawlin a paat ngingeisa numei khat, numei paktatte khat mah bangin a hih lailai-te hi tah a, ci-in ka ngaihsun hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v44
 **EN:** Yet they went in unto her, as they go in unto a woman that playeth the harlot: so went they in unto Aholah and unto Aholibah, the lewd women.
 
-**TDB77:** Numei paktatte kianga hawh bangin amaute pai niloh uh hi. Tu-a bangin a gamtat hoih lo Oholah leh Oholibahte kiangah a paktat dingin amaute pai uh hi.
+**TDB77:** Numei paktatte kianga hawh bangin amaute pai niloh-te hi. Tu-a bangin a gamtat hoih lo Oholah leh Oholibahte kiangah a paktat dingin amaute pai-te hi.
 
-**ZVS:** Numei paktatte kianga a hawh bangin amaute pai niloh uh hi. Tu-a bangin a gamtat hoihlo Oholah leh Oholibah-te kiangah a paktat dingin amaute a pai uh hi.
+**ZVS:** Numei paktatte kianga a hawh bangin amaute pai niloh-te hi. Tu-a bangin a gamtat hoihlo Oholah leh Oholibah-te kiangah a paktat dingin amaute a pai-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v45
 **EN:** And the righteous men, they shall judge them after the manner of adulteresses, and after the manner of women that shed blood; because they are adulteresses, and blood is in their hands.
 
-**TDB77:** Amaute in nu-le-pa mawhna bawlin mi thahna tawh kipelh lo uh ahih manin mi dikte in nu-le-pa mawhna bawlna hang leh mi thahna hangin mawhsak ding uh hi.
+**TDB77:** Amaute in nu-le-pa mawhna bawlin mi thahna tawh kipelh lo-te ahih manin mi dikte in nu-le-pa mawhna bawlna hang leh mi thahna hangin mawhsak ding-te hi.
 
-**ZVS:** Amaute in nulepa mawhna bawlin mi thahna tawh zong kipelhlo uh ahih manin midikte in nulepa mawhna bawlna hang leh mi thahna hangin a mawhsak ding uh hi.
+**ZVS:** Amaute in nulepa mawhna bawlin mi thahna tawh zong kipelhlo-te ahih manin midikte in nulepa mawhna bawlna hang leh mi thahna hangin a mawhsak ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v46
 **EN:** For thus saith the Lord
 
-**TDB77:** “Topa Pasian in hih bangin ci hi: Amaute lausak gawpin a nate uh a sut gawp dingin mihon khat pai sak in.
+**TDB77:** “Topa Pasian in hih bangin ci hi: Amaute lausak gawpin a nate-te a sut gawp dingin mihon khat pai sak in.
 
-**ZVS:** “Topa { Pasian } in hih bangin ci hi: Amaute lausak gawpin a nate uh a sutgawp dingin mihon khat paisak in.
+**ZVS:** “Topa { Pasian } in hih bangin ci hi: Amaute lausak gawpin a nate-te a sutgawp dingin mihon khat paisak in.
 
 **Grammar:** quotative: said/saying | purpose: in order to | plural: uh marker
 
 ### v47
 **EN:** And the company shall stone them with stones, and dispatch them with their swords; they shall slay their sons and their daughters, and burn up their houses with fire.
 
-**TDB77:** Tua mihonte in suang tawh amaute dengin namsau tawh amaute sugawp hen la, a tate uh thatin, a innte uh halsak hen.
+**TDB77:** Tua mihonte in suang tawh amaute dengin namsau tawh amaute sugawp hen la, a tate-te thatin, a innte-te halsak hen.
 
-**ZVS:** Tua mihonte in amaute suang tawh dengin, namsau tawh amaute sugawp hen la, a tate uh thatin, a innte uh halsak hen.
+**ZVS:** Tua mihonte in amaute suang tawh dengin, namsau tawh amaute sugawp hen la, a tate-te thatin, a innte-te halsak hen.
 
 ### v48
 **EN:** Thus will I cause lewdness to cease out of the land, that all women may be taught not to do after your lewdness.
@@ -440,9 +440,9 @@
 ### v49
 **EN:** And they shall recompense your lewdness upon you, and ye shall bear the sins of your idols: and ye shall know that I am the Lord
 
-**TDB77:** No u nau numei nihte ahih leh, na paktatna uh leh na milim biakna hangun daan kong pia ding hi. Tua ciangin Topa Pasian ka hihna thu na thei ding uh hi,” hong ci hi.
+**TDB77:** No u nau numei nihte ahih leh, na paktatna-te leh na milim biakna hangun daan kong pia ding hi. Tua ciangin Topa Pasian ka hihna thu na thei ding-te hi,” hong ci hi.
 
-**ZVS:** No unau numei nihte ahih leh, na paktatna uh leh na milim biakna hangun gim kong pia ding hi. Tua ciangin Topa { Pasian } ka hihna thu na hong thei ding uh hi,” a hong ci hi.
+**ZVS:** No unau numei nihte ahih leh, na paktatna-te leh na milim biakna hangun gim kong pia ding hi. Tua ciangin Topa { Pasian } ka hihna thu na hong thei ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 

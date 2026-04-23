@@ -41,25 +41,25 @@
 
 **TDB77:** Hamsiatna cikmah hunin omkik lo ding hi. Pasian leh Tuuno’ silate in Topa bia-in,
 
-**ZVS:** Pasian' samsiatna a ngah peuhpeuh tua khuasungah omlo hi. Tua khuapi sungah Pasian leh Tuuno' tokhom om ding a, ama nasemte in amah a bia ding uh hi.
+**ZVS:** Pasian' samsiatna a ngah peuhpeuh tua khuasungah omlo hi. Tua khuapi sungah Pasian leh Tuuno' tokhom om ding a, ama nasemte in amah a bia ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
 ### v4
 **EN:** And they shall see his face; and his name shall be in their foreheads.
 
-**TDB77:** a maitang a mu ding uh hi. A min zong amaute taltang tung uhah a om ding hi.
+**TDB77:** a maitang a mu ding-te hi. A min zong amaute taltang tung uhah a om ding hi.
 
-**ZVS:** Amaute in ama maitang mu ding uh a, a taltang tung uhah ama min kigelh ding hi.
+**ZVS:** Amaute in ama maitang mu ding-te a, a taltang tung uhah ama min kigelh ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v5
 **EN:** And there shall be no night there; and they need no candle, neither light of the sun; for the Lord God giveth them light: and they shall reign for ever and ever.
 
-**TDB77:** A nung ciangin zan om nawn lo ding hi. Amaute in meivakna ahi zongin, ni tan’na ahi zongin a kisam kei ding uh hi. Bang hang hiam na cih uh leh, Topa Pasian in amau khuavakna a pia ding hi. Amaute in zong a tawntungin a mang ding uh hi.
+**TDB77:** A nung ciangin zan om nawn lo ding hi. Amaute in meivakna ahi zongin, ni tan’na ahi zongin a kisam kei ding-te hi. Bang hang hiam na cih-te leh, Topa Pasian in amau khuavakna a pia ding hi. Amaute in zong a tawntungin a mang ding-te hi.
 
-**ZVS:** Topa Pasian pen amaute' khuavak hi-in, a tawntungin amaute in uk paisuak ding uh ahih manin khuamial hun cih om nawnlo ding a, khua a vaksak ding meivak leh nitaang cihte kisamlo ding uh hi.
+**ZVS:** Topa Pasian pen amaute' khuavak hi-in, a tawntungin amaute in uk paisuak ding-te ahih manin khuamial hun cih om nawnlo ding a, khua a vaksak ding meivak leh nitaang cihte kisamlo ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -109,27 +109,27 @@
 ### v14
 **EN:** Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city.
 
-**TDB77:** “Nuntakna kung kiangah pai ding kilawm a, khuapi sungah khuapi kongpi pan tum theih nading thu ngah nadingin, amau puan uh a sawpsiang mite in thupha ngah mite ahi uh hi.
+**TDB77:** “Nuntakna kung kiangah pai ding kilawm a, khuapi sungah khuapi kongpi pan tum theih nading thu ngah nadingin, amau puan-te a sawpsiang mite in thupha ngah mite ahi-te hi.
 
-**ZVS:** Khuapi kulhkongpi sungah a luttheihna ding leh nuntakna singgah a nektheihna dingun a puan uh a siangin a sawp mite, mi hampha ahi uh hi.
+**ZVS:** Khuapi kulhkongpi sungah a luttheihna ding leh nuntakna singgah a nektheihna dingun a puan-te a siangin a sawp mite, mi hampha ahi-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** For without are dogs, and sorcerers, and whoremongers, and murderers, and idolaters, and whosoever loveth and maketh a lie.
 
-**TDB77:** Pua lamah ahih leh, uite, mi bum theite, nu leh pa mawhna a bawl theite, mi that theite, milim biate leh a man lo nate deihin a gamta thei mite a om uh hi.
+**TDB77:** Pua lamah ahih leh, uite, mi bum theite, nu leh pa mawhna a bawl theite, mi that theite, milim biate leh a man lo nate deihin a gamta thei mite a om-te hi.
 
-**ZVS:** Ahi zongin a lampial mite, aisan mite, a paktat mite, mi thatte, milim biate, leh zuaugen nuamsa-in zuau a gengen mite, khuapi pualamah a om uh hi.
+**ZVS:** Ahi zongin a lampial mite, aisan mite, a paktat mite, mi thatte, milim biate, leh zuaugen nuamsa-in zuau a gengen mite, khuapi pualamah a om-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** And the Spirit and the bride say, Come. And let him that heareth say, Come. And let him that is athirst come. And whosoever will, let him take the water of life freely.
 
-**TDB77:** Kha Siangtho leh a kipi Mo in, “Hong pai in!,” ci-in a gen uh hi. A za mi in zong, “Hong pai in,” ci ta hen. A dangtak mi hong pai ta hen. A dawn nuam mi in nuntakna tui man pia loin dawn ta hen.
+**TDB77:** Kha Siangtho leh a kipi Mo in, “Hong pai in!,” ci-in a gen-te hi. A za mi in zong, “Hong pai in,” ci ta hen. A dangtak mi hong pai ta hen. A dawn nuam mi in nuntakna tui man pia loin dawn ta hen.
 
-**ZVS:** Kha Siangtho leh Mothak in Jesuh kiangah, “Hong pai in,” a ci uh hi. Hih thu a za mi khempeuh in zong Jesuh aw, “Hong pai in,” ci ta uh hen. A dangtak mi khempeuh hong pai uh hen la, a deih khempeuh in nuntakna tui a khongin hong la ta uh hen.
+**ZVS:** Kha Siangtho leh Mothak in Jesuh kiangah, “Hong pai in,” a ci-te hi. Hih thu a za mi khempeuh in zong Jesuh aw, “Hong pai in,” ci ta-te hen. A dangtak mi khempeuh hong pai-te hen la, a deih khempeuh in nuntakna tui a khongin hong la ta-te hen.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -138,7 +138,7 @@
 
 **TDB77:** Hih laibu-ah a om thu genkholhna thute a za mi khempeuh kiangah teci ka pan’na in, kua mi kua mi hi taleh, hih laite belapin a guan’ beh leh, hih laibu sungah a kigelh gimnate tua mi’ tungah Pasian in a koih thuah ding hi.
 
-**ZVS:** Keimah Johan in hih laibu sungah a kigelh thu a za mi khempeuh ka hong hilhkholh nopna panin: A thu a behlap na om uh leh Pasian in zong hih laibu sungah a kigelh gimnate note tungah hong behlap ding a,
+**ZVS:** Keimah Johan in hih laibu sungah a kigelh thu a za mi khempeuh ka hong hilhkholh nopna panin: A thu a behlap na om-te leh Pasian in zong hih laibu sungah a kigelh gimnate note tungah hong behlap ding a,
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -147,7 +147,7 @@
 
 **TDB77:** Tua genkholhna thu tawh kipawl hih laibu sungah a om thute kua mi hi taleh, a paihkhiat leh zong laibu sungah a kigelh nuntakna kung leh Khuapi Siangtho pan tua mi’ ngah ding khempeuh Pasian in a lakkhiatsak ding hi.
 
-**ZVS:** hih laibu sungah a kigelh thute a hemkhia na om uh leh Pasian in zong hih laibu sungah a kigelh nuntakna singgah leh Khuapi Siangtho sungah na ngahding uh hamphatnate note kiang panin hong hepkhiatsak ding hi.
+**ZVS:** hih laibu sungah a kigelh thute a hemkhia na om-te leh Pasian in zong hih laibu sungah a kigelh nuntakna singgah leh Khuapi Siangtho sungah na ngahding-te hamphatnate note kiang panin hong hepkhiatsak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

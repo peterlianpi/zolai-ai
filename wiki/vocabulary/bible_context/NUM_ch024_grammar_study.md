@@ -58,9 +58,9 @@
 ### v5
 **EN:** How goodly are thy tents, O Jacob, and thy tabernacles, O Israel!
 
-**TDB77:** Jakob mite aw, na puanbukte uh bangzahin hoih ahi hiam, Israel mite aw, na giahphual uh bangzahin hoih ahi hiah?
+**TDB77:** Jakob mite aw, na puanbukte-te bangzahin hoih ahi hiam, Israel mite aw, na giahphual-te bangzahin hoih ahi hiah?
 
-**ZVS:** Jakob mite aw, na puanbukte uh bangzahin hoih ahi hiam? Israel mite aw, na giahphual uh bangzahin hoih ahi hiam?
+**ZVS:** Jakob mite aw, na puanbukte-te bangzahin hoih ahi hiam? Israel mite aw, na giahphual-te bangzahin hoih ahi hiam?
 
 ### v6
 **EN:** As the valleys are they spread forth, as gardens by the river's side, as the trees of lign aloes which the
@@ -83,18 +83,18 @@
 ### v8
 **EN:** God brought him forth out of Egypt; he hath as it were the strength of an unicorn: he shall eat up the nations his enemies, and shall break their bones, and pierce them through with his arrows.
 
-**TDB77:** Pasian in Izipt panin amaute paikhiatpih a, amaute in gamsial tha bang hatna nei uh hi. Amaute in a gal uh ahi minamte ne tum ding uh a, amaute’ guh suzan gawp ding uh a, a thaltang uh tawh amaute kap let ding uh hi.
+**TDB77:** Pasian in Izipt panin amaute paikhiatpih a, amaute in gamsial tha bang hatna nei-te hi. Amaute in a gal-te ahi minamte ne tum ding-te a, amaute’ guh suzan gawp ding-te a, a thaltang-te tawh amaute kap let ding-te hi.
 
-**ZVS:** Pasian in Egypt gam panin amaute paikhiatpih a, gamsial bangin amaute thahat uh hi. Amaute in a gal uh ahi minam dangte sugawp ding uh a, amau' guhte suzan gawp ding uh a, a thaltang uh tawh amaute kaplet ding uh hi.
+**ZVS:** Pasian in Egypt gam panin amaute paikhiatpih a, gamsial bangin amaute thahat-te hi. Amaute in a gal-te ahi minam dangte sugawp ding-te a, amau' guhte suzan gawp ding-te a, a thaltang-te tawh amaute kaplet ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v9
 **EN:** He couched, he lay down as a lion, and as a great lion: who shall stir him up? Blessed is he that blesseth thee, and cursed is he that curseth thee.
 
-**TDB77:** Amaute bok hi, humpinelkaipa bangin lumsuk uh hi, humpinelkaipi bangin lumsuk uh hi; kua in amaute phong ngam ding ahi hiam? Note thupha hong piate in thupha ngah hen la, note hong samsiate in samsiatna ngah ta hen,” a ci hi.
+**TDB77:** Amaute bok hi, humpinelkaipa bangin lumsuk-te hi, humpinelkaipi bangin lumsuk-te hi; kua in amaute phong ngam ding ahi hiam? Note thupha hong piate in thupha ngah hen la, note hong samsiate in samsiatna ngah ta hen,” a ci hi.
 
-**ZVS:** Amaute bok a, humpinelkai pa bangin lumsuk uh hi. Humpinelkaipi bangin lumsuk uh hi. Kua in amaute phong ngam ding ahi hiam? Note thupha hong piate in thupha ngah hen la, note hong samsiate in samsiatna ngah ta hen,” a ci hi.
+**ZVS:** Amaute bok a, humpinelkai pa bangin lumsuk-te hi. Humpinelkaipi bangin lumsuk-te hi. Kua in amaute phong ngam ding ahi hiam? Note thupha hong piate in thupha ngah hen la, note hong samsiate in samsiatna ngah ta hen,” a ci hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 

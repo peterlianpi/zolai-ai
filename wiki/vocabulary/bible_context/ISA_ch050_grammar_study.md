@@ -28,16 +28,16 @@
 ### v1
 **EN:** Thus saith the
 
-**TDB77:** Topa in: “Amah ka ciahsakna, na nu a kimakna lai koi-ah om ahi hiam? Tua ahih kei leh, nang kong zuakna ka lei batnate koi pen ahi hiam? En un, nomau’ mawhna hangin note hong kizuak a, nomau’ khialhna hangin na nu uh kipaikhiasak hi.
+**TDB77:** Topa in: “Amah ka ciahsakna, na nu a kimakna lai koi-ah om ahi hiam? Tua ahih kei leh, nang kong zuakna ka lei batnate koi pen ahi hiam? En un, nomau’ mawhna hangin note hong kizuak a, nomau’ khialhna hangin na nu-te kipaikhiasak hi.
 
-**ZVS:** { Topa } in, “Amah ka ciahsakna, na nu a kimakna lai koi-ah om ahi hiam? Tua ahih kei leh nang kong zuakna ka leibatnate koi pan ahi hiam? Nomau mawhna hangin note hong kizuak a, nomau khialhna hangin na nu uh kipaikhiasak hi.
+**ZVS:** { Topa } in, “Amah ka ciahsakna, na nu a kimakna lai koi-ah om ahi hiam? Tua ahih kei leh nang kong zuakna ka leibatnate koi pan ahi hiam? Nomau mawhna hangin note hong kizuak a, nomau khialhna hangin na nu-te kipaikhiasak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v2
 **EN:** Wherefore, when I came, was there no man? when I called, was there none to answer? Is my hand shortened at all, that it cannot redeem? or have I no power to deliver? behold, at my rebuke I dry up the sea, I make the rivers a wilderness: their fish stinketh, because there is no water, and dieth for thirst.
 
-**TDB77:** Bang hangin, kong pai ciangin mi khat zong om lo ahi hiam? Kong sap ciangin hong dawng ding khat zong om lo ahi hiam? Hong hon zo lo zah dingin ka khut tom lua ahi hiam? Tua ahih kei leh note khahkhiatna ding thahatna nei lo ka hi hiam? En un, keima taiina tawh tuipi ka keusak a, gunte pen sehnel gam ka suaksak hi; tui om loh manin a ngasate uih a, dangtakin si uh hi.
+**TDB77:** Bang hangin, kong pai ciangin mi khat zong om lo ahi hiam? Kong sap ciangin hong dawng ding khat zong om lo ahi hiam? Hong hon zo lo zah dingin ka khut tom lua ahi hiam? Tua ahih kei leh note khahkhiatna ding thahatna nei lo ka hi hiam? En un, keima taiina tawh tuipi ka keusak a, gunte pen sehnel gam ka suaksak hi; tui om loh manin a ngasate uih a, dangtakin si-te hi.
 
 **ZVS:** “Kong pai ciangin bang hangin mi khat zong omlo ahi hiam? Kong sap ciangin bang hangin hong dawng ding khat zong omlo ahi hiam? Hong hon zolo zah dingin ka khut hatlo lua ahi hiam? Tua ahih kei leh zong note khahkhiatna ding vangliatna neilo ka hi hiam? Keima taina tawh tuipi ka keusak a, gunte pen sehnel gam ka suaksak hi. Tui omloh manin a ngasate dangtakin si-in a uih gawp hi.
 
@@ -100,9 +100,9 @@
 ### v9
 **EN:** Behold, the Lord
 
-**TDB77:** En un, Topa Pasian in kei hong huh hi; kua in kei mawh hi ci-in gen thei ding ahi hiam? En un, amaute khempeuh puan bangin paatkhia ding uh hi; nget in amaute netum ding hi.
+**TDB77:** En un, Topa Pasian in kei hong huh hi; kua in kei mawh hi ci-in gen thei ding ahi hiam? En un, amaute khempeuh puan bangin paatkhia ding-te hi; nget in amaute netum ding hi.
 
-**ZVS:** Topa { Pasian } in kei hong huh hi. Kua in kei mawh hi, ci-in gen thei ding ahi hiam? Amaute khempeuh puan bangin paatkhia ding uh a, nget in amaute netum ding hi.
+**ZVS:** Topa { Pasian } in kei hong huh hi. Kua in kei mawh hi, ci-in gen thei ding ahi hiam? Amaute khempeuh puan bangin paatkhia ding-te a, nget in amaute netum ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -118,9 +118,9 @@
 ### v11
 **EN:** Behold, all ye that kindle a fire, that compass yourselves about with sparks: walk in the light of your fire, and in the sparks that ye have kindled. This shall ye have of mine hand; ye shall lie down in sorrow.
 
-**TDB77:** Ahih hangin mei vaksak a, meilah kuang a kiguan note khempeuh aw, tu-in na meivakna leh na meilah kuang pana khuavak sungah pai-in, kalsuan un; hih in ka khut pana na ngah ding uh ahi hi. Lungkhamin na lumsuk ding uh hi.
+**TDB77:** Ahih hangin mei vaksak a, meilah kuang a kiguan note khempeuh aw, tu-in na meivakna leh na meilah kuang pana khuavak sungah pai-in, kalsuan un; hih in ka khut pana na ngah ding-te ahi hi. Lungkhamin na lumsuk ding-te hi.
 
-**ZVS:** Midang suksiat ding a sawm mite aw, note' vaihawm siatna mah in note hong susia ding hi. { Topa}' khut tung panin gimna thuakin na lumsuk ding uh hi.
+**ZVS:** Midang suksiat ding a sawm mite aw, note' vaihawm siatna mah in note hong susia ding hi. { Topa}' khut tung panin gimna thuakin na lumsuk ding-te hi.
 
 **Grammar:** causative: -sak suffix | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

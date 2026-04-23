@@ -52,12 +52,12 @@
 
 **TDB77:** I pu Abraham in a sum ngah ahoih bel seh sawm suah seh khat pia-a a sang tua pa in bang zah a lian na lunggai un.
 
-**ZVS:** Tua ahih manin bangzah takin milian ahihna thu na thei uh hi. I pupi Abraham nangawn in zong gal sungah a ngah nate sung panin ama tungah sawmah khat na pia hi.
+**ZVS:** Tua ahih manin bangzah takin milian ahihna thu na thei-te hi. I pupi Abraham nangawn in zong gal sungah a ngah nate sung panin ama tungah sawmah khat na pia hi.
 
 ### v5
 **EN:** And verily they that are of the sons of Levi, who receive the office of the priesthood, have a commandment to take tithes of the people according to the law, that is, of their brethren, though they come out of the loins of Abraham:
 
-**TDB77:** Levi’ tate lakah siampi za a ngahte in Abraham’ suante ahi uh a, amau unaute’ khut tung uh panin Thukham mah bangin seh sawm suah seh khat a san’ nadingun thu a ngah uh hi.
+**TDB77:** Levi’ tate lakah siampi za a ngahte in Abraham’ suante ahi-te a, amau unaute’ khut tung-te panin Thukham mah bangin seh sawm suah seh khat a san’ nadingun thu a ngah-te hi.
 
 **ZVS:** Levi suanlekhak sung panin siampi a sem mite pen Abraham' suanlekhak mah hinapi-in, amau mipih Israel-te tung panin sawmah khat a lakna dingun Thukham a na kibawl hi.
 
@@ -82,9 +82,9 @@
 ### v8
 **EN:** And here men that die receive tithes; but there he receiveth them, of whom it is witnessed that he liveth.
 
-**TDB77:** Tua tham loin, a si thei mite in tu lai takin seh sawm suah seh khat a sang uh hi. Tua lai takin ahih leh, a nungta hi ci-in teci pan’na a ngah mi in seh sawm suah seh khat a ngah hi.
+**TDB77:** Tua tham loin, a si thei mite in tu lai takin seh sawm suah seh khat a sang-te hi. Tua lai takin ahih leh, a nungta hi ci-in teci pan’na a ngah mi in seh sawm suah seh khat a ngah hi.
 
-**ZVS:** Siampite' lakna tawh kisai-in ahih leh a sithei mi mah ahi siampite in mite tung panin sawmah khat a la uh hi. Ahi zongin Melkhizedek' lakna tawh kisai-in ahih leh Lai Siangtho in a gen mah bangin a nungta tawntung mipa in sawmah khat a la ahi hi.
+**ZVS:** Siampite' lakna tawh kisai-in ahih leh a sithei mi mah ahi siampite in mite tung panin sawmah khat a la-te hi. Ahi zongin Melkhizedek' lakna tawh kisai-in ahih leh Lai Siangtho in a gen mah bangin a nungta tawntung mipa in sawmah khat a la ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -100,16 +100,16 @@
 ### v10
 **EN:** For he was yet in the loins of his father, when Melchisedec met him.
 
-**TDB77:** Bang hang hiam na cih uh leh, Melkhizedek in Abraham a dawn lai takin Levi in ama pupi’ pumpi sungah a om lai hi.
+**TDB77:** Bang hang hiam na cih-te leh, Melkhizedek in Abraham a dawn lai takin Levi in ama pupi’ pumpi sungah a om lai hi.
 
 **ZVS:** Bang hang hiam cih leh Melkhizedek in Abraham a na dawn laitakin Levi suak nailo ahih manin a pupi Abraham' sung mahah a omlai ahi hi.
 
 ### v11
 **EN:** If therefore perfection were by the Levitical priesthood, (for under it the people received the law,) what further need was there that another priest should rise after the order of Melchisedec, and not be called after the order of Aaron?
 
-**TDB77:** Lam khat panin, Levi’ suan siampi pawlte tawh kizomin mite in Thukham a ngah uh ciangin tua mi pawlte hangin kicin’na a om leh, adang siampi in Aaron’ pawl bangin kisam loin Melkhizedek’ pawl hong pian’ nading thu bang hangin om lai ding ahi hiam?
+**TDB77:** Lam khat panin, Levi’ suan siampi pawlte tawh kizomin mite in Thukham a ngah-te ciangin tua mi pawlte hangin kicin’na a om leh, adang siampi in Aaron’ pawl bangin kisam loin Melkhizedek’ pawl hong pian’ nading thu bang hangin om lai ding ahi hiam?
 
-**ZVS:** Israel mite in Levi' suanlekhak siampite tung tawnin Thukham ngah uh hi. Levi' suanlekhak siampite' nasepna kicingtaak hi leh Melkhizedek siampi nam zui-in siampi namdang a pian'ding kisam nawnlo ding a, Aaron gui zui-in siampi omsa a kimangpah ding ahi hi.
+**ZVS:** Israel mite in Levi' suanlekhak siampite tung tawnin Thukham ngah-te hi. Levi' suanlekhak siampite' nasepna kicingtaak hi leh Melkhizedek siampi nam zui-in siampi namdang a pian'ding kisam nawnlo ding a, Aaron gui zui-in siampi omsa a kimangpah ding ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -134,7 +134,7 @@
 ### v14
 **EN:** For it is evident that our Lord sprang out of Judah; of which tribe Moses spake nothing concerning priesthood.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite Topa in Judah pawl sung pan hong piang hi ci-in a kilang hi. Tua pawl thu-ah siampite thu Moses in kam khat beek a gen kei hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite Topa in Judah pawl sung pan hong piang hi ci-in a kilang hi. Tua pawl thu-ah siampite thu Moses in kam khat beek a gen kei hi.
 
 **ZVS:** I Topa pen Judah suan sung panin a piang ahih manin Moses in siampi thu a na gen ciangin hih Judah minam genin na neilo hi.
 
@@ -161,7 +161,7 @@
 ### v17
 **EN:** For he testifieth, Thou art a priest for ever after the order of Melchisedec.
 
-**TDB77:** Bang hang hiam na cih uh leh: “Nang in Melkhizedek’ pawl bangin A tawntung Siampipa na hi hi,” ci-in teci a pang hi.
+**TDB77:** Bang hang hiam na cih-te leh: “Nang in Melkhizedek’ pawl bangin A tawntung Siampipa na hi hi,” ci-in teci a pang hi.
 
 **ZVS:** Bang hang hiam cih leh Lai Siangtho in, “Melkhizedek nam bangin tawntung siampi na hi hi,” na ci hi.
 
@@ -188,7 +188,7 @@
 ### v20
 **EN:** And inasmuch as not without an oath he was made priest:
 
-**TDB77:** Tua mite in kiciamna om loin siampi-za a ngah uh hi.
+**TDB77:** Tua mite in kiciamna om loin siampi-za a ngah-te hi.
 
 **ZVS:** Tua banah Pasian' kiciamna zong hong omlai hi. Midangte siampi-in a kibawl laitakin tua bang kiciamna na omlo hi.
 
@@ -211,9 +211,9 @@
 ### v23
 **EN:** And they truly were many priests, because they were not suffered to continue by reason of death:
 
-**TDB77:** Tuate in si-in a kip tawntung zawh loh man-inah a tampi siampi a suak uh hi.
+**TDB77:** Tuate in si-in a kip tawntung zawh loh man-inah a tampi siampi a suak-te hi.
 
-**ZVS:** A kilamdan'na a dang khat in: Siampi dangte pen sithei-in a nasep zom paisuak theilo ahih manin a mi malin tampi pha uh hi.
+**ZVS:** A kilamdan'na a dang khat in: Siampi dangte pen sithei-in a nasep zom paisuak theilo ahih manin a mi malin tampi pha-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -247,7 +247,7 @@
 ### v27
 **EN:** Who needeth not daily, as those high priests, to offer up sacrifice, first for his own sins, and then for the people's: for this he did once, when he offered up himself.
 
-**TDB77:** Siampi ukpa dangte in, a masa-in amau mawhna uh taang ding ahi zongin, tua nung ciangin midangte mawhna –uh taang ding ahi zongin, nisimin biakna a piak uh bangin tua Topa in biakna a piak ding a kisam kei hi. Bang hang hiam na cih uh leh, ama pumpi tawh mite ading khatvei bek a piak hang ahi hi.
+**TDB77:** Siampi ukpa dangte in, a masa-in amau mawhna-te taang ding ahi zongin, tua nung ciangin midangte mawhna –uh taang ding ahi zongin, nisimin biakna a piak-te bangin tua Topa in biakna a piak ding a kisam kei hi. Bang hang hiam na cih-te leh, ama pumpi tawh mite ading khatvei bek a piak hang ahi hi.
 
 **ZVS:** Siampi lianpen dangte in nisimin amau' mawhna hangin biakna pia masa-in, tua ciangin midangte' mawhna hangin a piak niloh bang hiloin, amah khatvei bek a kipiakna tawh a tawntunga dingin a kimang paisuak ahi hi.
 

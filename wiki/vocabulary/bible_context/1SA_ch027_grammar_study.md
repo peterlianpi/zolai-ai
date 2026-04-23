@@ -88,9 +88,9 @@
 ### v8
 **EN:** And David and his men went up, and invaded the Geshurites, and the Gezrites, and the Amalekites: for those nations were of old the inhabitants of the land, as thou goest to Shur, even unto the land of Egypt.
 
-**TDB77:** Tu-in David leh a mite paito-in, Geshur mite, Girzi mite, leh Amalek mite va sim uh hi; bang hang hiam cih leh hih mite in Izipt gam lam Shur ciang dongah tang lai-a kipanin a teeng mite ahi uh hi.
+**TDB77:** Tu-in David leh a mite paito-in, Geshur mite, Girzi mite, leh Amalek mite va sim-te hi; bang hang hiam cih leh hih mite in Izipt gam lam Shur ciang dongah tang lai-a kipanin a teeng mite ahi-te hi.
 
-**ZVS:** Tu-in David leh a mite paito-in Geshur mite, Girzi mite, leh Amalek mite va sim hi; bang hang hiam cih leh hih mite pen Egypt lam Shur ciangdongah tanglai-a kipanin a teng mite ahi uh hi.
+**ZVS:** Tu-in David leh a mite paito-in Geshur mite, Girzi mite, leh Amalek mite va sim hi; bang hang hiam cih leh hih mite pen Egypt lam Shur ciangdongah tanglai-a kipanin a teng mite ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -108,16 +108,16 @@
 
 **TDB77:** Akhish in, “Tu ni-in kua va sim na hi hiam?” ci-in a dot ciangin, David in, “Judah mite’ Negeb gam,” ahih kei leh, “Jerahme-el mite’ Negeb gam,” ahih kei leh, “Ken mite’ Negeb gam,” a ci hi.
 
-**ZVS:** Akhish in, “Tuni-in kua va sim na hi uh hiam?” ci-in a dot ciangin David in, “Judah mite' Negeb gam,” ahih kei leh, “Jerahmeel mite' Negeb gam,” ahih kei leh, “Ken mite' Negeb gam,” a ci hi.
+**ZVS:** Akhish in, “Tuni-in kua va sim na hi-te hiam?” ci-in a dot ciangin David in, “Judah mite' Negeb gam,” ahih kei leh, “Jerahmeel mite' Negeb gam,” ahih kei leh, “Ken mite' Negeb gam,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v11
 **EN:** And David saved neither man nor woman alive, to bring tidings to Gath, saying, Lest they should tell on us, saying, So did David, and so will be his manner all the while he dwelleth in the country of the Philistines.
 
-**TDB77:** David in, “Amaute in kote’ thu genin, David in tua bangin hih hi,’ ci ding uh ahih ciangin,” ci-in ngaihsun ahih manin Gath ah thu a puak ding numei ahi a, pasal ahih zongin hingkhawi lo hi. Filistiate gam sungah a ten’ sung teng tua bang gamtatna in ama ngeina ahi hi.
+**TDB77:** David in, “Amaute in kote’ thu genin, David in tua bangin hih hi,’ ci ding-te ahih ciangin,” ci-in ngaihsun ahih manin Gath ah thu a puak ding numei ahi a, pasal ahih zongin hingkhawi lo hi. Filistiate gam sungah a ten’ sung teng tua bang gamtatna in ama ngeina ahi hi.
 
-**ZVS:** David in, “Amaute in kote' thu genin, ‘David in tua bangin hih hi,’ ci ding uh ahih ciangin,” ci-in ngaihsun ahih manin Gath-ah thu a puak thei ding numei ahi a, pasal ahi zongin hingkhawilo hi. Filistia-te' gamsungah a ten' sungteng tua bang gamtatna pen ama ngeina ahi hi.
+**ZVS:** David in, “Amaute in kote' thu genin, ‘David in tua bangin hih hi,’ ci ding-te ahih ciangin,” ci-in ngaihsun ahih manin Gath-ah thu a puak thei ding numei ahi a, pasal ahi zongin hingkhawilo hi. Filistia-te' gamsungah a ten' sungteng tua bang gamtatna pen ama ngeina ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | causal: because | plural: uh marker
 

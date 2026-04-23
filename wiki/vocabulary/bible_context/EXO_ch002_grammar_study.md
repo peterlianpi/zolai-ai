@@ -108,7 +108,7 @@
 ### v13
 **EN:** And when he went out the second day, behold, two men of the Hebrews strove together: and he said to him that did the wrong, Wherefore smitest thou thy fellow?
 
-**TDB77:** A zing ciangin amah paikik a, Hebru mi nih na kilai uh hi. Amah in a gamta khial mipa kiangah, “Bang hangin na lawm sat na hi hiam?” a ci hi.
+**TDB77:** A zing ciangin amah paikik a, Hebru mi nih na kilai-te hi. Amah in a gamta khial mipa kiangah, “Bang hangin na lawm sat na hi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -129,35 +129,35 @@
 ### v16
 **EN:** Now the priest of Midian had seven daughters: and they came and drew water, and filled the troughs to water their father's flock.
 
-**TDB77:** Tua laitakin Midian siampi Jethro in tanu sagih nei hi. Amaute hong pai-in tui tawi uh a, a pa uh' tuuhonte tui pia dingin kuangzawn dim uh hi.
+**TDB77:** Tua laitakin Midian siampi Jethro in tanu sagih nei hi. Amaute hong pai-in tui tawi-te a, a pa uh' tuuhonte tui pia dingin kuangzawn dim-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v17
 **EN:** And the shepherds came and drove them away: but Moses stood up and helped them, and watered their flock.
 
-**TDB77:** Tuucing dangte hong pai-in amaute hawlkhia hi. Ahih hangin Moses dingto-in amaute huh a, a tuuhonte uh tui piaksak hi.
+**TDB77:** Tuucing dangte hong pai-in amaute hawlkhia hi. Ahih hangin Moses dingto-in amaute huh a, a tuuhonte-te tui piaksak hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v18
 **EN:** And when they came to Reuel their father, he said, How is it that ye are come so soon to day?
 
-**TDB77:** A pa uh kiangah amaute a tun' ciangun amah in, “A bangcia tuni-a hong hici ciah baih na hi uh hiam?” na ci hi.
+**TDB77:** A pa-te kiangah amaute a tun' ciangun amah in, “A bangcia tuni-a hong hici ciah baih na hi-te hiam?” na ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
 ### v19
 **EN:** And they said, An Egyptian delivered us out of the hand of the shepherds, and also drew water enough for us, and watered the flock.
 
-**TDB77:** Amaute in, “Egypt mi khat in tuucing dangte' khutsung panin kote hong honkhia a, ko-a' dingin tui nangawn hong tawisakin tuuhonte tui pia hi,” ci uh hi.
+**TDB77:** Amaute in, “Egypt mi khat in tuucing dangte' khutsung panin kote hong honkhia a, ko-a' dingin tui nangawn hong tawisakin tuuhonte tui pia hi,” ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | plural: uh marker
 
 ### v20
 **EN:** And he said unto his daughters, And where is he? why is it that ye have left the man? call him, that he may eat bread.
 
-**TDB77:** Amah in a tanute kiangah, “Amah koi lai-ah om ahi hiam? Bang hangin tua mipa nusia na hi uh hiam? Amah in an hong nek theihna dingin va sam un,” a ci hi.
+**TDB77:** Amah in a tanute kiangah, “Amah koi lai-ah om ahi hiam? Bang hangin tua mipa nusia na hi-te hiam? Amah in an hong nek theihna dingin va sam un,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix
 

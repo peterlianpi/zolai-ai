@@ -62,9 +62,9 @@
 ### v5
 **EN:** Ought ye not to know that the
 
-**TDB77:** Israel Topa Pasian in David leh a suante tungah Israel kumpi hih nading thu thuciamna kip tawh a piakna na theih ding uh kilawm hilo ahi hiam?
+**TDB77:** Israel Topa Pasian in David leh a suante tungah Israel kumpi hih nading thu thuciamna kip tawh a piakna na theih ding-te kilawm hilo ahi hiam?
 
-**ZVS:** Israel { Topa } Pasian in David leh a suante tungah Israel kumpi hih ding thuciamna kip tawh a piakna na theih ding uh kilawm hilo ahi hiam?
+**ZVS:** Israel { Topa } Pasian in David leh a suante tungah Israel kumpi hih ding thuciamna kip tawh a piakna na theih ding-te kilawm hilo ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -80,54 +80,54 @@
 ### v7
 **EN:** And there are gathered unto him vain men, the children of Belial, and have strengthened themselves against Rehoboam the son of Solomon, when Rehoboam was young and tenderhearted, and could not withstand them.
 
-**TDB77:** Rehoboam khangno lai a, thu khentat thei nai loin, amaute a nial zawh nai loh hun lai takin mi gina lo honkhat Solomon’ tapa Rehoboam’ kiimah kikhawmin amah dem uh hi.
+**TDB77:** Rehoboam khangno lai a, thu khentat thei nai loin, amaute a nial zawh nai loh hun lai takin mi gina lo honkhat Solomon’ tapa Rehoboam’ kiimah kikhawmin amah dem-te hi.
 
-**ZVS:** Rehoboam khangno lai a, thu khentat thei nailoin, amaute a nial zawh nailoh hun laitakin mi ginalo honkhat Solomon' tapa Rehoboam' kiimah kikhawmin amah dem uh hi.
+**ZVS:** Rehoboam khangno lai a, thu khentat thei nailoin, amaute a nial zawh nailoh hun laitakin mi ginalo honkhat Solomon' tapa Rehoboam' kiimah kikhawmin amah dem-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And now ye think to withstand the kingdom of the
 
-**TDB77:** “Note mi tampi na hihna uh leh note’ pasian dingin Jeroboam in hong bawlsak kham bawngnote note tawh a om manin, David’ suante’ khut sung panin Topa’ kumpi gam do ding tu-in na ngaihsun uh hi.
+**TDB77:** “Note mi tampi na hihna-te leh note’ pasian dingin Jeroboam in hong bawlsak kham bawngnote note tawh a om manin, David’ suante’ khut sung panin Topa’ kumpi gam do ding tu-in na ngaihsun-te hi.
 
-**ZVS:** Note mi tampi na hihna uh leh note' pasian dingin Jeroboam in hong bawlsak kham bawngnote note tawh a om manin, David' suante' khutsungah a om { Topa' } kumpi gam do ding tu-in na ngaihsun uh hi.
+**ZVS:** Note mi tampi na hihna-te leh note' pasian dingin Jeroboam in hong bawlsak kham bawngnote note tawh a om manin, David' suante' khutsungah a om { Topa' } kumpi gam do ding tu-in na ngaihsun-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | causal: because | plural: uh marker
 
 ### v9
 **EN:** Have ye not cast out the priests of the
 
-**TDB77:** Note in Aaron’ suan, Topa’ siampite, leh Levi mite hawlkhia-in, gamdang mite bangin note’ adingin siampite bawl khin hilo na hi uh hiam? Bawngtalno khat tawh ahi a, tuutal sagih tawh ahi zongin a ki-ap dingin a hong pai peuhpeuh, pasian a hilote’ siampi suak pahpah hi.
+**TDB77:** Note in Aaron’ suan, Topa’ siampite, leh Levi mite hawlkhia-in, gamdang mite bangin note’ adingin siampite bawl khin hilo na hi-te hiam? Bawngtalno khat tawh ahi a, tuutal sagih tawh ahi zongin a ki-ap dingin a hong pai peuhpeuh, pasian a hilote’ siampi suak pahpah hi.
 
-**ZVS:** Note in Aaron' suan, { Topa' } siampite, leh Levi mite hawlkhia-in, gamdang mite bangin note-a' dingin siampite bawl khin hilo na hi uh hiam? Bawngtalno khat tawh ahi a, tuutal sagih tawh ahi zongin a ki-ap dingin a hong pai peuhpeuh, pasian a hilote' siampi suak pahpah hi.
+**ZVS:** Note in Aaron' suan, { Topa' } siampite, leh Levi mite hawlkhia-in, gamdang mite bangin note-a' dingin siampite bawl khin hilo na hi-te hiam? Bawngtalno khat tawh ahi a, tuutal sagih tawh ahi zongin a ki-ap dingin a hong pai peuhpeuh, pasian a hilote' siampi suak pahpah hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
 ### v10
 **EN:** But as for us, the
 
-**TDB77:** Ahih hangin kote ahih leh, Topa ka Pasian uh hi a, amah ka nusia kei uh hi. Topa’ na a sem, Aaron’ suan ahi siampite leh amau’ nasepna ah a huh dingin Levi mite ka nei uh hi.
+**TDB77:** Ahih hangin kote ahih leh, Topa ka Pasian-te hi a, amah ka nusia kei-te hi. Topa’ na a sem, Aaron’ suan ahi siampite leh amau’ nasepna ah a huh dingin Levi mite ka nei-te hi.
 
-**ZVS:** “Ahih hangin kote ahih leh, { Topa } pen ka Pasian uh hi a, amah ka nusia kei uh hi. { Topa' } na a sem, Aaron' suan ahi siampite leh amau' nasepna-ah a huh dingin Levi mite ka nei uh hi.
+**ZVS:** “Ahih hangin kote ahih leh, { Topa } pen ka Pasian-te hi a, amah ka nusia kei-te hi. { Topa' } na a sem, Aaron' suan ahi siampite leh amau' nasepna-ah a huh dingin Levi mite ka nei-te hi.
 
 **Grammar:** purpose: in order to | negation: kei | plural: uh marker
 
 ### v11
 **EN:** And they burn unto the
 
-**TDB77:** Amaute in Topa’ tungah zing leh nitak simin meihal biaknate leh a namtui nate ahi paknamtui pia a, kham citak sabuai tungah Ompihna Anlum koihin, nitak simin a meivakte a kuan’ nadingin kham meivakkhuamte don uh hi; bang hang hiam cih leh kote in Topa ka Pasian uh hong sawlnate ka zui uh a, ahih hangin note in amah na nusia uh hi.
+**TDB77:** Amaute in Topa’ tungah zing leh nitak simin meihal biaknate leh a namtui nate ahi paknamtui pia a, kham citak sabuai tungah Ompihna Anlum koihin, nitak simin a meivakte a kuan’ nadingin kham meivakkhuamte don-te hi; bang hang hiam cih leh kote in Topa ka Pasian-te hong sawlnate ka zui-te a, ahih hangin note in amah na nusia-te hi.
 
-**ZVS:** Amaute in { Topa } tungah zing leh nitak simin meihal biaknate leh a namtui nate ahi paknamtuite pia uh a, kham citak sabuai tungah Ompihna Anlum koihin, a meivakte a kuan'na dingin nitak simin kham meivakkhuamte a don uh hi; bang hang hiam cih leh kote in { Topa } Pasian' hong sawlnate ka zui uh a, ahih hangin note in amah na nusia uh hi.
+**ZVS:** Amaute in { Topa } tungah zing leh nitak simin meihal biaknate leh a namtui nate ahi paknamtuite pia-te a, kham citak sabuai tungah Ompihna Anlum koihin, a meivakte a kuan'na dingin nitak simin kham meivakkhuamte a don-te hi; bang hang hiam cih leh kote in { Topa } Pasian' hong sawlnate ka zui-te a, ahih hangin note in amah na nusia-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v12
 **EN:** And, behold, God himself is with us for our captain, and his priests with sounding trumpets to cry alarm against you. O children of Israel, fight ye not against the
 
-**TDB77:** En un, kote’ lutang-in kote tawh Pasian hong omkhawm a, note a do ding sapna peengkul a tum dingin a siampite a galkap peengkulte tawh hong om uh hi. Israel’ mite aw, na pu na pate uh Pasian, Topa do kei un; bang hang hiam na cih uh leh na tangtung kei ding uh hi,” a ci hi.
+**TDB77:** En un, kote’ lutang-in kote tawh Pasian hong omkhawm a, note a do ding sapna peengkul a tum dingin a siampite a galkap peengkulte tawh hong om-te hi. Israel’ mite aw, na pu na pate-te Pasian, Topa do kei un; bang hang hiam na cih-te leh na tangtung kei ding-te hi,” a ci hi.
 
-**ZVS:** En un, kote' lutangin kote tawh Pasian hong omkhawm a, note a do ding sapna peengkul a tum dingin a siampite a galkap peengkulte uh tawh hong om uh hi. Israel mite aw, na pu na pate uh Pasian, { Topa } do kei un; bang hang hiam na cih uh leh na tangtung kei ding uh hi,” a ci hi.
+**ZVS:** En un, kote' lutangin kote tawh Pasian hong omkhawm a, note a do ding sapna peengkul a tum dingin a siampite a galkap peengkulte-te tawh hong om-te hi. Israel mite aw, na pu na pate-te Pasian, { Topa } do kei un; bang hang hiam na cih-te leh na tangtung kei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | plural: uh marker
 
@@ -143,45 +143,45 @@
 ### v14
 **EN:** And when Judah looked back, behold, the battle was before and behind: and they cried unto the
 
-**TDB77:** Judah mite a khuadak ciangin, en in, amau’ mai leh a nung uhah gal om hi; tua ciangin Topa’ tungah amaute kiko uh a, siampite in a peengkulte uh tum uh hi.
+**TDB77:** Judah mite a khuadak ciangin, en in, amau’ mai leh a nung uhah gal om hi; tua ciangin Topa’ tungah amaute kiko-te a, siampite in a peengkulte-te tum-te hi.
 
-**ZVS:** Judah mite a khuadak uh ciangin, amau' mai leh a nung uhah gal a omlam mu uh hi. Tua ciangin { Topa' } tungah amaute kiko uh a, siampite in a peengkulte uh a tum uh hi.
+**ZVS:** Judah mite a khuadak-te ciangin, amau' mai leh a nung uhah gal a omlam mu-te hi. Tua ciangin { Topa' } tungah amaute kiko-te a, siampite in a peengkulte-te a tum-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Then the men of Judah gave a shout: and as the men of Judah shouted, it came to pass, that God smote Jeroboam and all Israel before Abijah and Judah.
 
-**TDB77:** Tua ciangin Judah mite in a galdona aw kiko uh hi. Judah mite a kiko uh ciangin Abijah leh Judah mite’ mai-ah Pasian in Jeroboam leh Israel khempeuh zo hi.
+**TDB77:** Tua ciangin Judah mite in a galdona aw kiko-te hi. Judah mite a kiko-te ciangin Abijah leh Judah mite’ mai-ah Pasian in Jeroboam leh Israel khempeuh zo hi.
 
-**ZVS:** Tua ciangin Judah mite in galdona aw kiko uh hi. Judah mite a kiko uh ciangin Abijah leh Judah mite' mai-ah Pasian in Jeroboam leh Israel khempeuh zo hi.
+**ZVS:** Tua ciangin Judah mite in galdona aw kiko-te hi. Judah mite a kiko-te ciangin Abijah leh Judah mite' mai-ah Pasian in Jeroboam leh Israel khempeuh zo hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And the children of Israel fled before Judah: and God delivered them into their hand.
 
-**TDB77:** Judah mite’ mai-ah Israel mite tai uh a, Pasian in amau’ khut sungah amaute pia hi.
+**TDB77:** Judah mite’ mai-ah Israel mite tai-te a, Pasian in amau’ khut sungah amaute pia hi.
 
-**ZVS:** Judah mite' mai-ah Israel-te tai uh a, Pasian in amau' khutsungah Israel-te a pia hi.
+**ZVS:** Judah mite' mai-ah Israel-te tai-te a, Pasian in amau' khutsungah Israel-te a pia hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** And Abijah and his people slew them with a great slaughter: so there fell down slain of Israel five hundred thousand chosen men.
 
-**TDB77:** Abijah leh a mite in amaute tampi tak that uh hi; tua ahih ciangin Israel mi a kitengkhia mihing tul zanga a kithatin tuk hi.
+**TDB77:** Abijah leh a mite in amaute tampi tak that-te hi; tua ahih ciangin Israel mi a kitengkhia mihing tul zanga a kithatin tuk hi.
 
-**ZVS:** Abijah leh a mite in Israel-te tampi tak that uh hi. Tua ahih ciangin Israel mi a kitengkhia mihing tul za nga a kithatin tuk hi.
+**ZVS:** Abijah leh a mite in Israel-te tampi tak that-te hi. Tua ahih ciangin Israel mi a kitengkhia mihing tul za nga a kithatin tuk hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Thus the children of Israel were brought under at that time, and the children of Judah prevailed, because they relied upon the
 
-**TDB77:** Judah mite in a pu a pate uh Pasian, Topa suang uh ahih manin gualzo uh a, tua hunin Israel mite kizo hi.
+**TDB77:** Judah mite in a pu a pate-te Pasian, Topa suang-te ahih manin gualzo-te a, tua hunin Israel mite kizo hi.
 
-**ZVS:** Judah mite in a pu a pate uh Pasian, { Topa } suang uh ahih manin gualzo uh a, tua hunin Israel mite kizo hi.
+**ZVS:** Judah mite in a pu a pate-te Pasian, { Topa } suang-te ahih manin gualzo-te a, tua hunin Israel mite kizo hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 

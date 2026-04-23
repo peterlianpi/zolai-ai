@@ -40,7 +40,7 @@
 
 **TDB77:** Nang in thuman thutak na zuih mah bangin na neihsa thuman thutak ah na cihtakna thu ute naute in hong pai a, teci hong pan’ uh ciangin ka nuam mahmah hi.
 
-**ZVS:** Nang a mantakin a gamta na hih takpi mah bangin, i Khristian mipih hih lai-a hong pai peuhpeuh in a mantakin na nuntakna thu hong gen uh ahih manin ka nuam mahmah hi.
+**ZVS:** Nang a mantakin a gamta na hih takpi mah bangin, i Khristian mipih hih lai-a hong pai peuhpeuh in a mantakin na nuntakna thu hong gen-te ahih manin ka nuam mahmah hi.
 
 **Grammar:** intensifier: very/greatly
 
@@ -49,7 +49,7 @@
 
 **TDB77:** Ka tate in thuman thutak lam a zuih thu ka zak cianga ka nuamna sangin nuam zawkna a om kei hi.
 
-**ZVS:** Tate bangin ka hong neih mite a mantakin a gamtatna uh ka zakna hangin ka lungdamna sangin adang lungdamna lianzaw bangmah omlo hi.
+**ZVS:** Tate bangin ka hong neih mite a mantakin a gamtatna-te ka zakna hangin ka lungdamna sangin adang lungdamna lianzaw bangmah omlo hi.
 
 **Grammar:** negation: kei
 
@@ -65,18 +65,18 @@
 ### v6
 **EN:** Which have borne witness of thy charity before the church: whom if thou bring forward on their journey after a godly sort, thou shalt do well:
 
-**TDB77:** Tua mite in na itna thu pawlpi mai-ah teci a pang uh hi. Nangmah in Pasian’ deihna tawh kituakin tua mite amau lampi ah na khak leh, a pha a bawl na hi ding hi.
+**TDB77:** Tua mite in na itna thu pawlpi mai-ah teci a pang-te hi. Nangmah in Pasian’ deihna tawh kituakin tua mite amau lampi ah na khak leh, a pha a bawl na hi ding hi.
 
-**ZVS:** Amaute na limbawlna thu, hih lai-a pawlpite kiangah hong gen uh hi. I biak Pasian' deihna tawh kituakin a khualzinna uh nuamtakin a zoptheihna dingun na huh in.
+**ZVS:** Amaute na limbawlna thu, hih lai-a pawlpite kiangah hong gen-te hi. I biak Pasian' deihna tawh kituakin a khualzinna-te nuamtakin a zoptheihna dingun na huh in.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Because that for his name's sake they went forth, taking nothing of the Gentiles.
 
-**TDB77:** Bang hang hiam na cih leh, amaute in Topa’ min hangin Gentailte lakah huhna la loin a pai uh hi.
+**TDB77:** Bang hang hiam na cih leh, amaute in Topa’ min hangin Gentailte lakah huhna la loin a pai-te hi.
 
-**ZVS:** Amaute pen Pasian' nasem dingin a khualzin khia uh hi a, thu umlo mite tung panin bangmah huhna ngahlo uh hi.
+**ZVS:** Amaute pen Pasian' nasem dingin a khualzin khia-te hi a, thu umlo mite tung panin bangmah huhna ngahlo-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -112,16 +112,16 @@
 
 **TDB77:** Ka it mi aw, a sia lam zui kei in, a hoih lam zui in. A hoih a gamta mi in Pasian tawh kipawl hi. A hoih lo a a gamta mi in Pasian a mu nai kei hi.
 
-**ZVS:** Ka hong it lawm Gaias aw, mi hoihlote' gamtatna zui kei in la, mihoihte' gamtatna zui in. A gamtat hoih mite pen Pasian tawh a kipawl mi hi a, a gamtat hoihlo mite pen Pasian a thei nailo ahi uh hi.
+**ZVS:** Ka hong it lawm Gaias aw, mi hoihlote' gamtatna zui kei in la, mihoihte' gamtatna zui in. A gamtat hoih mite pen Pasian tawh a kipawl mi hi a, a gamtat hoihlo mite pen Pasian a thei nailo ahi-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v12
 **EN:** Demetrius hath good report of all men, and of the truth itself: yea, and we also bear record; and ye know that our record is true.
 
-**TDB77:** Mi khempeuh in Demetrias ading teci a hi uh hi. Thuman thutak in zong ama teci a hi hi. Ahi hi, kote in zong tua mi lamah teci ka pang uh hi. Kote teci pan’na thu in a man hi ci-in na thei hi.
+**TDB77:** Mi khempeuh in Demetrias ading teci a hi-te hi. Thuman thutak in zong ama teci a hi hi. Ahi hi, kote in zong tua mi lamah teci ka pang-te hi. Kote teci pan’na thu in a man hi ci-in na thei hi.
 
-**ZVS:** Mi khempeuh in Demetrias phatkim uh a, a manin ama gamtatna mahmah in hih thu a manna hong kilangsak hi. Kote in zong ama hoihna ka thei uh a, tua ama hoihna ka gennate uh a thuman ahi hi.
+**ZVS:** Mi khempeuh in Demetrias phatkim-te a, a manin ama gamtatna mahmah in hih thu a manna hong kilangsak hi. Kote in zong ama hoihna ka thei-te a, tua ama hoihna ka gennate-te a thuman ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -139,7 +139,7 @@
 
 **TDB77:** A sawt loin nang tawh kimu-in, khat leh khat kihopihin i kikup khop ding ka lamen hi.
 
-**ZVS:** Nang tawh kimu baih thei dingin kilamen ka hih manin, tuahun ciangin maitang kimu-in i kiho ding hi. Nangma tungah nopsakna thupha hong tung ta hen. Hih lai-a om i lawmte in hong hopih uh hi. Tua lai-a om i lawmte khempeuh a milipin na hopihsak in.
+**ZVS:** Nang tawh kimu baih thei dingin kilamen ka hih manin, tuahun ciangin maitang kimu-in i kiho ding hi. Nangma tungah nopsakna thupha hong tung ta hen. Hih lai-a om i lawmte in hong hopih-te hi. Tua lai-a om i lawmte khempeuh a milipin na hopihsak in.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 

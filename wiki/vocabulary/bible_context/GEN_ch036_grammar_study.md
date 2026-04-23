@@ -68,9 +68,9 @@
 ### v7
 **EN:** For their riches were more than that they might dwell together; and the land wherein they were strangers could not bear them because of their cattle.
 
-**TDB77:** Bang hang hiam cih leh ten’ khop theih dingin amau’ neihsate tam lua hi; a ganhingte uh hangin tawl khat a omna uh leitang in amaute vaak zo lo hi.
+**TDB77:** Bang hang hiam cih leh ten’ khop theih dingin amau’ neihsate tam lua hi; a ganhingte-te hangin tawl khat a omna-te leitang in amaute vaak zo lo hi.
 
-**ZVS:** Bang hang hiam cih leh ten' khop theih dingin amau' neihsate tam lua a, a ganhingte uh hangin tawlkhat a omna uh leitang in amaute vak zolo hi.
+**ZVS:** Bang hang hiam cih leh ten' khop theih dingin amau' neihsate tam lua a, a ganhingte-te hangin tawlkhat a omna-te leitang in amaute vak zolo hi.
 
 **Grammar:** purpose: in order to | negation: lo
 
@@ -128,7 +128,7 @@
 ### v15
 **EN:** These were dukes of the sons of Esau: the sons of Eliphaz the firstborn son of Esau; duke Teman, duke Omar, duke Zepho, duke Kenaz,
 
-**TDB77:** Hih-te in Esau’ tapate' sung pan ukpite ahi uh hi. Esau’ ta masa Elifaz’ tapate in: ukpite Teman, Omar, Zefo, Kenaz,
+**TDB77:** Hih-te in Esau’ tapate' sung pan ukpite ahi-te hi. Esau’ ta masa Elifaz’ tapate in: ukpite Teman, Omar, Zefo, Kenaz,
 
 **ZVS:** Esau' suante hih bang ahi hi. Esau' ta masa Elifaz' tate: Teman, Omar, Zefo, Kenaz,
 
@@ -137,7 +137,7 @@
 ### v16
 **EN:** Duke Korah, duke Gatam, and duke Amalek: these are the dukes that came of Eliphaz in the land of Edom; these were the sons of Adah.
 
-**TDB77:** Korah, Gatam leh Amalek ahi uh hi; hihte in Edom gamsungah Elifaz’ suan ukpite ahi uh hi; amaute in Adah’ tapate ahi uh hi.
+**TDB77:** Korah, Gatam leh Amalek ahi-te hi; hihte in Edom gamsungah Elifaz’ suan ukpite ahi-te hi; amaute in Adah’ tapate ahi-te hi.
 
 **ZVS:** Korah, Gatam, leh Amalek ahi hi. Hihte pen Edom gam sungah Elifaz' suante hi a, Esau' zi Adah' sunga piangte ahi hi.
 
@@ -146,7 +146,7 @@
 ### v17
 **EN:** And these are the sons of Reuel Esau's son; duke Nahath, duke Zerah, duke Shammah, duke Mizzah: these are the dukes that came of Reuel in the land of Edom; these are the sons of Bashemath Esau's wife.
 
-**TDB77:** Esau’ tapa ahi Re-u-el’ tapate in: ukpite Nahath, Zerah, Shamah, leh Mizzah ahi uh hi: hihte in Edom gamsungah Re-u-el’ sung pan ukpite ahi uh hi; amaute in Esau’ zi, Basemath’ tapate ahi uh hi.
+**TDB77:** Esau’ tapa ahi Re-u-el’ tapate in: ukpite Nahath, Zerah, Shamah, leh Mizzah ahi-te hi: hihte in Edom gamsungah Re-u-el’ sung pan ukpite ahi-te hi; amaute in Esau’ zi, Basemath’ tapate ahi-te hi.
 
 **ZVS:** Esau' tapa Reuel' tapate: Nahath, Zerah, Shammah, leh Mizzah hi a, Edom gam sungah a om Reuel' suante ahi hi. Amaute pen Esau' zi Basemath' sung panin a piangte ahi hi.
 
@@ -155,7 +155,7 @@
 ### v18
 **EN:** And these are the sons of Aholibamah Esau's wife; duke Jeush, duke Jaalam, duke Korah: these were the dukes that came of Aholibamah the daughter of Anah, Esau's wife.
 
-**TDB77:** Esau’ zi, Oholibamah’ tapate in: ukpite Jeush, Jalam, leh Korah ahi uh hi; hihte in Esau’ zi, Anah’ tanu Oholibamah sung panin a suak ukpite ahi uh hi.
+**TDB77:** Esau’ zi, Oholibamah’ tapate in: ukpite Jeush, Jalam, leh Korah ahi-te hi; hihte in Esau’ zi, Anah’ tanu Oholibamah sung panin a suak ukpite ahi-te hi.
 
 **ZVS:** Esau' zi Oholibamah' tapate: Jeush, Jalam, leh Korah ahi hi. Hihte pen Esau' zi, Anah' tanu Oholibamah' sung panin a piangte ahi hi.
 
@@ -164,9 +164,9 @@
 ### v19
 **EN:** These are the sons of Esau, who is Edom, and these are their dukes.
 
-**TDB77:** Hihte in Esau’ (Edom) tapate hi a, hihte in amaute’ sung pan ukpite ahi uh hi.
+**TDB77:** Hihte in Esau’ (Edom) tapate hi a, hihte in amaute’ sung pan ukpite ahi-te hi.
 
-**ZVS:** Hihte pen Esau (Edom) suante hi a, amaute' sung pan beh lutangte ahi uh hi.
+**ZVS:** Hihte pen Esau (Edom) suante hi a, amaute' sung pan beh lutangte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -180,16 +180,16 @@
 ### v21
 **EN:** And Dishon, and Ezer, and Dishan: these are the dukes of the Horites, the children of Seir in the land of Edom.
 
-**TDB77:** Dishon, Ezer leh Dishan ahi hi; hihte in Edom gamsunga Seir’ tapate ahi Hori mite’ sung pan ukpite ahi uh hi.
+**TDB77:** Dishon, Ezer leh Dishan ahi hi; hihte in Edom gamsunga Seir’ tapate ahi Hori mite’ sung pan ukpite ahi-te hi.
 
-**ZVS:** Dishon, Ezer, leh Dishan hi a, Edom gam sunga Seir' suante ahi Hori mite' sung pan beh lutang ahi uh hi.
+**ZVS:** Dishon, Ezer, leh Dishan hi a, Edom gam sunga Seir' suante ahi Hori mite' sung pan beh lutang ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** And the children of Lotan were Hori and Hemam; and Lotan's sister was Timna.
 
-**TDB77:** Lotan’ tapate in Hori leh Homan ahi uh hi; Lotan’ sanggamnu in Timna ahi hi.
+**TDB77:** Lotan’ tapate in Hori leh Homan ahi-te hi; Lotan’ sanggamnu in Timna ahi hi.
 
 **ZVS:** Lotan' tapate: Hori leh Heman ahi hi. Lotan' sanggamnu Timna ahi hi.
 
@@ -198,7 +198,7 @@
 ### v23
 **EN:** And the children of Shobal were these; Alvan, and Manahath, and Ebal, Shepho, and Onam.
 
-**TDB77:** Shobal’ tapate in: Alvan, Manahath, Ebal, Shefo, leh Onam ahi uh hi.
+**TDB77:** Shobal’ tapate in: Alvan, Manahath, Ebal, Shefo, leh Onam ahi-te hi.
 
 **ZVS:** Shobal' tapate: Alvan, Manahath, Ebal, Shefo, leh Onam ahi hi.
 
@@ -228,7 +228,7 @@
 ### v27
 **EN:** The children of Ezer are these; Bilhan, and Zaavan, and Akan.
 
-**TDB77:** Ezer’ tapate in: Bilhan, Za-avan leh Akan ahi uh hi.
+**TDB77:** Ezer’ tapate in: Bilhan, Za-avan leh Akan ahi-te hi.
 
 **ZVS:** Ezer' tapate: Bilhan, Zaavan, leh Akan ahi hi.
 
@@ -237,7 +237,7 @@
 ### v28
 **EN:** The children of Dishan are these; Uz, and Aran.
 
-**TDB77:** Dishan’ tapate in: Uz leh Aran ahi uh hi.
+**TDB77:** Dishan’ tapate in: Uz leh Aran ahi-te hi.
 
 **ZVS:** Dishan' tapate: Uz leh Aran ahi hi.
 
@@ -253,16 +253,16 @@
 ### v30
 **EN:** Duke Dishon, duke Ezer, duke Dishan: these are the dukes that came of Hori, among their dukes in the land of Seir.
 
-**TDB77:** Dishon, Ezer, leh Dishan ahi uh hi; hihte in Seir gamsungah amau’ beh ciatin Hori mite’ sung pan ukpite ahi uh hi.
+**TDB77:** Dishon, Ezer, leh Dishan ahi-te hi; hihte in Seir gamsungah amau’ beh ciatin Hori mite’ sung pan ukpite ahi-te hi.
 
-**ZVS:** Dishon, Ezer, leh Dishan ahi hi. Hihte pen Seir gam sungah amau' beh ciatin Hori mite' sung pan beh lutang ahi uh hi.
+**ZVS:** Dishon, Ezer, leh Dishan ahi hi. Hihte pen Seir gam sungah amau' beh ciatin Hori mite' sung pan beh lutang ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v31
 **EN:** And these are the kings that reigned in the land of Edom, before there reigned any king over the children of Israel.
 
-**TDB77:** Hihte in Israel mite' tungah kumpi khat beek in a uk ma-in Edom gamsunga kumpite ahi uh hi.
+**TDB77:** Hihte in Israel mite' tungah kumpi khat beek in a uk ma-in Edom gamsunga kumpite ahi-te hi.
 
 **ZVS:** Hihte pen Israel mite tungah kumpi khat beek in a uk ma-in Edom gam sunga kumpite ahi hi.
 
@@ -348,9 +348,9 @@
 ### v43
 **EN:** Duke Magdiel, duke Iram: these be the dukes of Edom, according to their habitations in the land of their possession: he is Esau the father of the Edomites.
 
-**TDB77:** Magdiel leh Iram ahi uh hi; hihte in amau’ neih leitang tungah amau’ ten’na tawh kizui-in Edom’ (Edom’ pa Esau’) sung pan ukpite ahi uh hi.
+**TDB77:** Magdiel leh Iram ahi-te hi; hihte in amau’ neih leitang tungah amau’ ten’na tawh kizui-in Edom’ (Edom’ pa Esau’) sung pan ukpite ahi-te hi.
 
-**ZVS:** Magdiel, leh Iram ahi hi. Hihte in amau' neih, amau' ten'na leitang min dingin amau' min mah vawh pah uh a, Esau' suan, Edom mi a kicite ahi uh hi.
+**ZVS:** Magdiel, leh Iram ahi hi. Hihte in amau' neih, amau' ten'na leitang min dingin amau' min mah vawh pah-te a, Esau' suan, Edom mi a kicite ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

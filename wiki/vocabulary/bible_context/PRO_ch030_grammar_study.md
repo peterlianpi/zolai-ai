@@ -141,9 +141,9 @@
 ### v14
 **EN:** There is a generation, whose teeth are as swords, and their jaw teeth as knives, to devour the poor from off the earth, and the needy from among men.
 
-**TDB77:** A ha uh namsau tawh a kibang, a ha uh temta tawh a kibang, gam sunga mizawngte a netum, mi cimawhte a liaktum mi pawlkhat om hi.
+**TDB77:** A ha-te namsau tawh a kibang, a ha-te temta tawh a kibang, gam sunga mizawngte a netum, mi cimawhte a liaktum mi pawlkhat om hi.
 
-**ZVS:** A ha uh namsau tawh a kibang gamsung mizawngte a netum, mi cimawhte a liaktum mi pawlkhat om hi.
+**ZVS:** A ha-te namsau tawh a kibang gamsung mizawngte a netum, mi cimawhte a liaktum mi pawlkhat om hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -157,7 +157,7 @@
 ### v16
 **EN:** The grave; and the barren womb; the earth that is not filled with water; and the fire that saith not, It is enough.
 
-**TDB77:** Han khuk, taciing numei, tui a deih tawntung leikeu, leh a kisumit zo lo meikuang ahi uh hi.
+**TDB77:** Han khuk, taciing numei, tui a deih tawntung leikeu, leh a kisumit zo lo meikuang ahi-te hi.
 
 **ZVS:** Han khuk, taciing numei, tui a deih tawntung lei keu, leh a kisumit zolo meikuang.
 
@@ -166,9 +166,9 @@
 ### v17
 **EN:** The eye that mocketh at his father, and despiseth to obey his mother, the ravens of the valley shall pick it out, and the young eagles shall eat it.
 
-**TDB77:** A pa a simmawh mipa, a nu’ thu a mang nuam lo mipa, va-ak in a mittang khel khiatsakin, musanete in a sa ne ding uh hi.
+**TDB77:** A pa a simmawh mipa, a nu’ thu a mang nuam lo mipa, va-ak in a mittang khel khiatsakin, musanete in a sa ne ding-te hi.
 
-**ZVS:** A pa a simmawh mipa, a nu' thu a mang nuamlo mipa, va-ak in a mittang khelkhiat sakin musanete in a sa ne ding uh hi.
+**ZVS:** A pa a simmawh mipa, a nu' thu a mang nuamlo mipa, va-ak in a mittang khelkhiat sakin musanete in a sa ne ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -223,7 +223,7 @@
 ### v24
 **EN:** There be four things which are little upon the earth, but they are exceeding wise:
 
-**TDB77:** A neu mahmah ganhing nam li leitungah om a, ahi zongin a pilpen pente ahi uh hi.
+**TDB77:** A neu mahmah ganhing nam li leitungah om a, ahi zongin a pilpen pente ahi-te hi.
 
 **ZVS:** A neu mahmah ganhing nam li leitungah om a, ahi zongin a pil penpente ahi hi.
 
@@ -232,36 +232,36 @@
 ### v25
 **EN:** The ants are a people not strong, yet they prepare their meat in the summer;
 
-**TDB77:** Miksite: a hat het lo ganhing hi napi-in, khuakhal sunga a nek ding khol zo uh hi.
+**TDB77:** Miksite: a hat het lo ganhing hi napi-in, khuakhal sunga a nek ding khol zo-te hi.
 
-**ZVS:** Miksite: A hat hetlo ganhing hinapi-in khuakhal sungin a nek ding uh kholzo uh hi.
+**ZVS:** Miksite: A hat hetlo ganhing hinapi-in khuakhal sungin a nek ding-te kholzo-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v26
 **EN:** The conies are but a feeble folk, yet make they their houses in the rocks;
 
-**TDB77:** Ngalvangte: a thahat lo ganhing hi napi-in, suang lakah a kua ding uh bawl zo uh hi.
+**TDB77:** Ngalvangte: a thahat lo ganhing hi napi-in, suang lakah a kua ding-te bawl zo-te hi.
 
-**ZVS:** Ngalvangte: A thahatlo ganhing hinapi-in suang lakah a kua ding bawl uh hi.
+**ZVS:** Ngalvangte: A thahatlo ganhing hinapi-in suang lakah a kua ding bawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v27
 **EN:** The locusts have no king, yet go they forth all of them by bands;
 
-**TDB77:** Kauphete: kumpi nei lo napi-in, a kituak diamdiamin hon tat thei uh hi.
+**TDB77:** Kauphete: kumpi nei lo napi-in, a kituak diamdiamin hon tat thei-te hi.
 
-**ZVS:** Kauphete: Kumpi neilo napi-in a kituak diamdiamin hontat thei uh hi.
+**ZVS:** Kauphete: Kumpi neilo napi-in a kituak diamdiamin hontat thei-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** The spider taketh hold with her hands, and is in kings' palaces.
 
-**TDB77:** Innhikte: khut sunga tawi zawh ganhing hi lel napi-in, kumpi inn sungah teeng zo uh hi.
+**TDB77:** Innhikte: khut sunga tawi zawh ganhing hi lel napi-in, kumpi inn sungah teeng zo-te hi.
 
-**ZVS:** Innhikte: Khutsunga tawizawh ganhing hilel napi-in kumpi innsungah tengzo uh hi.
+**ZVS:** Innhikte: Khutsunga tawizawh ganhing hilel napi-in kumpi innsungah tengzo-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

@@ -51,9 +51,9 @@
 ### v6
 **EN:** When their judges are overthrown in stony places, they shall hear my words; for they are sweet.
 
-**TDB77:** Amaute, thu kisitin mawhsakna a thuak uh ciangin, Topa’ thute man hi, ci-in a thei ding uh hi.
+**TDB77:** Amaute, thu kisitin mawhsakna a thuak-te ciangin, Topa’ thute man hi, ci-in a thei ding-te hi.
 
-**ZVS:** Amaute, thu kisitin mawhsakna a thuak uh ciangin, { Topa' } thute man hi, ci-in a thei ding uh hi.
+**ZVS:** Amaute, thu kisitin mawhsakna a thuak-te ciangin, { Topa' } thute man hi, ci-in a thei ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -76,9 +76,9 @@
 ### v9
 **EN:** Keep me from the snares which they have laid for me, and the gins of the workers of iniquity.
 
-**TDB77:** Amaute in keimah hong siahna uh tehlop leh siatna bawlte’ thangzak panin kei hong kem in!
+**TDB77:** Amaute in keimah hong siahna-te tehlop leh siatna bawlte’ thangzak panin kei hong kem in!
 
-**ZVS:** Amaute in kei hong siahna uh tehlop leh siatna bawlte' thangzak panin kei hong kem in.
+**ZVS:** Amaute in kei hong siahna-te tehlop leh siatna bawlte' thangzak panin kei hong kem in.
 
 ### v10
 **EN:** Let the wicked fall into their own nets, whilst that I withal escape.

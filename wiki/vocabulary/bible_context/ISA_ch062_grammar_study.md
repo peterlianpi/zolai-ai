@@ -33,9 +33,9 @@
 ### v2
 **EN:** And the Gentiles shall see thy righteousness, and all kings thy glory: and thou shalt be called by a new name, which the mouth of the
 
-**TDB77:** Minamte in nangma gualzawhna mu ding uh a, kumpi khempeuh in nangma minthan’na mu ding uh hi; Topa in nang hong phuah min thak tawh nang hong kisam ding hi.
+**TDB77:** Minamte in nangma gualzawhna mu ding-te a, kumpi khempeuh in nangma minthan’na mu ding-te hi; Topa in nang hong phuah min thak tawh nang hong kisam ding hi.
 
-**ZVS:** Minamte in na gualzawhna mu ding uh a, kumpi khempeuh in na minthan'na mu ding uh hi. { Topa } in nang a hong phuah min thak tawh nang hong kisam ding hi.
+**ZVS:** Minamte in na gualzawhna mu ding-te a, kumpi khempeuh in na minthan'na mu ding-te hi. { Topa } in nang a hong phuah min thak tawh nang hong kisam ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -69,7 +69,7 @@
 ### v7
 **EN:** And give him no rest, till he establish, and till he make Jerusalem a praise in the earth.
 
-**TDB77:** Jerusalem aw, na kulhte tungah galvilte ka koih khin a, sun tawntung leh zan tawntungin amaute gamdai ngeilo ding uh hi. Amaute in a thuciamna { Topa } phawksak ding uh a, amah in Jerusalem kipsakin leitung mite' phat dingin a bawlkik matengin amaute khawllo ding uh hi.
+**TDB77:** Jerusalem aw, na kulhte tungah galvilte ka koih khin a, sun tawntung leh zan tawntungin amaute gamdai ngeilo ding-te hi. Amaute in a thuciamna { Topa } phawksak ding-te a, amah in Jerusalem kipsakin leitung mite' phat dingin a bawlkik matengin amaute khawllo ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -85,9 +85,9 @@
 ### v9
 **EN:** But they that have gathered it shall eat it, and praise the
 
-**TDB77:** ahih hangin a kholte in ne-in Topa phat ding a, a kaikhawmte in keima biakinn huang sungah dawn ding uh hi,” ci hi.
+**TDB77:** ahih hangin a kholte in ne-in Topa phat ding a, a kaikhawmte in keima biakinn huang sungah dawn ding-te hi,” ci hi.
 
-**ZVS:** Ahih hangin an a kholte in ne-in { Topa } na phat ding uh a, a kaikhawmte in keima biakinn huang sungah a dawn ding uh hi,” ci hi.
+**ZVS:** Ahih hangin an a kholte in ne-in { Topa } na phat ding-te a, a kaikhawmte in keima biakinn huang sungah a dawn ding-te hi,” ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
