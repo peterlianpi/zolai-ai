@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-04-23T07:01:39.449552",
+  "agents": {
+    "security": {
+      "status": "\u2705 COMPLETE",
+      "files_scanned": 95403,
+      "api_keys_found": 46,
+      "credentials_found": 236,
+      "cookies_found": 0
+    },
+    "wiki": {
+      "status": "\u2705 COMPLETE",
+      "files_audited": 1530,
+      "total_findings": 1558,
+      "agents": [
+        "GrammarAuditAgent",
+        "ExampleAuditAgent",
+        "DocumentationAuditAgent"
+      ]
+    },
+    "grammar": {
+      "status": "\u2705 COMPLETE",
+      "patterns_validated": 124,
+      "zvs_compliance": "100%",
+      "forbidden_words_checked": 6,
+      "plural_rules_verified": true
+    },
+    "git": {
+      "status": "\u26a0\ufe0f REVIEW",
+      "secrets_in_history": true,
+      "gitignore_present": true,
+      "history_cleaned": true
+    }
+  },
+  "summary": {
+    "total_agents": 4,
+    "completed": 3,
+    "completion_rate": "75%",
+    "status": "\u26a0\ufe0f REVIEW NEEDED",
+    "recommendations_count": 3
+  },
+  "recommendations": [
+    "\u26a0\ufe0f Security: 282 sensitive data instances found - review and rotate keys",
+    "\ud83d\udcda Wiki: 1558 findings - update examples for ZVS 2018 compliance",
+    "\ud83d\udd17 Git: Secrets detected in history - run git filter-branch"
+  ]
+}
