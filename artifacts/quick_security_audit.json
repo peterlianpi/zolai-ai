@@ -1,74 +1,9 @@
 {
   "api_keys": [
     {
-      "file": "website/zolai-project/.env.local",
-      "line": 29,
-      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
-    },
-    {
-      "file": "website/zolai-project/.env.local",
-      "line": 30,
-      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
-    },
-    {
-      "file": "website/zolai-project/.env.local",
-      "line": 31,
-      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
-    },
-    {
-      "file": "website/zolai-project/.env.local",
-      "line": 33,
-      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
-    },
-    {
-      "file": "website/zolai-project/.env.local",
-      "line": 29,
-      "pattern": "GEMINI_API_KEY\\s*=\\s*['\\\"]?[A-Za-z0-9_-]+['\\\"]?"
-    },
-    {
       "file": "website/zolai-project/.env.example",
       "line": 41,
       "pattern": "GEMINI_API_KEY\\s*=\\s*['\\\"]?[A-Za-z0-9_-]+['\\\"]?"
-    },
-    {
-      "file": "website/zolai-project/ENV_KEYS_VALUES.csv",
-      "line": 13,
-      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
-    },
-    {
-      "file": "website/zolai-project/ENV_KEYS_VALUES.csv",
-      "line": 14,
-      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
-    },
-    {
-      "file": "website/zolai-project/ENV_KEYS_VALUES.csv",
-      "line": 15,
-      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
-    },
-    {
-      "file": "website/zolai-project/ENV_KEYS_VALUES.csv",
-      "line": 19,
-      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
-    },
-    {
-      "file": "website/zolai-project/ENV_KEYS_VALUES.json",
-      "line": 21,
-      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
-    },
-    {
-      "file": "website/zolai-project/ENV_KEYS_VALUES.json",
-      "line": 22,
-      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
-    },
-    {
-      "file": "website/zolai-project/ENV_KEYS_VALUES.json",
-      "line": 23,
-      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
-    },
-    {
-      "file": "website/zolai-project/ENV_KEYS_VALUES.json",
-      "line": 31,
-      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
     },
     {
       "file": "website/zolai-project/ENV_KEYS_VALUES.txt",
@@ -1414,5 +1349,5 @@
       "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
     }
   ],
-  "files_scanned": 95403
+  "files_scanned": 95402
 }
