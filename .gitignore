@@ -1,4 +1,36 @@
-# Python
+# Sensitive files
+.env
+.env.local
+.env.*.local
+cookies.json
+secrets.json
+credentials.json
+*.key
+*.pem
+
+# API Keys & Tokens
+GEMINI_API_KEY*
+OPENROUTER_API_KEY*
+GROQ_API_KEY*
+NVIDIA_API_KEY*
+
+# Private data
+/data/private/
+/data/credentials/
+/data/secrets/
+
+# User data
+/data/user_data/
+/data/personal/
+
+# Large datasets (use HuggingFace/Kaggle instead)
+*.jsonl
+*.parquet
+/data/corpus/
+/data/parallel/
+/data/training/
+
+# Build & Cache
 __pycache__/
 *.py[cod]
 *$py.class
@@ -21,10 +53,10 @@ wheels/
 *.egg
 
 # Virtual environments
-.venv/
 venv/
 ENV/
 env/
+.venv
 
 # IDE
 .vscode/
@@ -32,189 +64,32 @@ env/
 *.swp
 *.swo
 *~
-
-# OS
 .DS_Store
-Thumbs.db
 
-# Project-specific
-logs/**/*.log
-logs/**/*.pid
-tmp/**/*
-!logs/.gitkeep
-!tmp/.gitkeep
-.env
-.env.local
-.env.*.local
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
 
-# Config secrets
-config/env/.env
-config/env/.env.machine
-config/ssh/
-config/nginx/peterlianpi.site.conf
-config/nginx/portfolio.html
-*.skill
+# Logs
+*.log
+logs/
 
-# Runtime / training logs
-runs/
-training_test.log
+# Temporary files
+tmp/
+temp/
+*.tmp
 
-# Internal ops docs (not useful publicly)
-API_KEYS_ACTIVATED.md
-API_KEYS_UI_ADDED.md
-BUILD_MASTER_README.md
-COMPLETION_CHECKLIST.md
-CSRF_AND_API_KEYS_COMPLETE.md
-CSRF_DEPLOYMENT_GUIDE.md
-CSRF_IMPLEMENTATION_COMPLETE.md
-CSRF_SETTINGS_TEST.md
-CSRF_TESTING_RESULTS.md
-DATASET_COMPLETE.md
-DATASET_INDEX.txt
-DATASET_READY.md
-GEMINI_CLI_USAGE.md
-GEMINI_VALIDATION_GUIDE.md
-KAGGLE_NOTEBOOK_GUIDE.md
-KAGGLE_UPLOAD_GUIDE.md
-LLM_TRAINING_GUIDE.md
-PHASE_1_FIXES_COMPLETED.md
-PRODUCTION_AUDIT_REPORT.md
-PRODUCTION_FIXES.md
-TRAINING_READY_SUMMARY.txt
-
-# Stray root-level one-off scripts
-analyze_unknown_fields.py
-approve_unfixable.py
-build_master_dataset.py
-build_master_dataset_complete.py
-comprehensive_audit.py
-coverage_analysis.py
-create_training_splits.py
-enrich_all_splits.sh
-enrich_master_dataset.py
-final_approval.py
-fix_and_upload.sh
-fix_invalid_records.py
-fix_invalid_records_v2.py
-merge_all_resources.py
-merge_by_index.py
-merge_enriched_complete.py
-parse_training_logs.py
-prepare_for_training.py
-prepare_kaggle_dataset.sh
-process_batch.py
-quick_audit.py
-replace_pathian.py
-restore_enriched_fields.py
-run_build_master.sh
-run_gemini_validation.sh
-run_openrouter_validation.sh
-run_prepare.sh
-run_validate.sh
-show_corrections.py
-show_invalid_examples.py
-train_llm.py
-train_local_test.py
-upload_all.sh
-upload_final.sh
-upload_final_v2.sh
-upload_kaggle_api.py
-upload_to_kaggle.sh
-upload_with_cli.sh
-validate_best_model.py
-validate_full_dataset.py
-validate_gemini_cli.sh
-validate_gemini_simple.py
-validate_local_wiki.py
-validate_master_dataset.py
-validate_openrouter_fixed.py
-validate_openrouter_gemini.py
-validate_openrouter_working.py
-validate_with_gemini.py
-validate_with_gemini_cli.sh
-validate_with_gemini_cli_fixed.sh
-verify_dataset.sh
-verify_new_coverage.py
-verify_pathian_changes.py
-
-# Kaggle artifacts
-kaggle_dataset/
-kaggle_notebook_upload/
-kaggle_notebook_meta.json
-kaggle_notebook_final.ipynb
-kaggle_notebook_simple.ipynb
-
-# Data (keep structure, ignore large files)
-data/**/*.tmp
-data/**/*.cache
-*.db-journal
-
-# Data — all excluded, distributed via HuggingFace Hub
-data/
-
-# Large wiki vocabulary files
-wiki/vocabulary/master_vocab_reference.md
-wiki/vocabulary/wordlists/wordlist_bilingual.tsv
-wiki/vocabulary/wordlists/wordlist_master.md
-
-# Website secrets (but track the code)
-website/**/.env
-website/**/.env.local
-website/**/.env.production
-website/**/.env.gemini
-website/**/ENV_KEYS_VALUES*
-website/**/.next/
-website/**/node_modules/
-website/**/.mcp-servers/
-website/**/.cursor/
-website/**/.agents/
-website/**/.claude/
-website/**/.kiro/
-website/**/playwright-report/
-website/**/test-results/
-website/**/skills-lock.json
-
-# Website internal ops docs
-website/**/DEPLOYMENT_*.md
-website/**/DEPLOY_NOW.md
-website/**/PRODUCTION_*.md
-website/**/CURRICULUM_COMPLETE.md
-website/**/CURRICULUM_PHASE_COMPLETE.md
-website/**/FRONTEND_*.md
-website/**/TEMPLATE_SYSTEM_COMPLETE.md
-website/**/FINAL_*.md
-website/**/MAIN_BRANCH_STATUS.md
-website/**/AI_CHAT_TUTOR_BRANCH.md
-website/**/GEMINI_SETUP.md
-website/**/TELEGRAM_MENU_COMMANDS.md
-website/**/CLAUDE.md
-website/**/opencode.json
-website/**/.audit-manifest
-website/**/.deploy-checkpoint
-website/**/check-deployment.js
-website/**/check-deployment.sh
-website/**/deploy-now.sh
-website/**/verify-production.sh
-website/**/PERFORMANCE_FIX_LOGIN.md
-website/**/TEAM_DEPLOYMENT_GUIDE.md
-website/**/ENV_SETUP_GUIDE.md
-
-# Node
+# Node modules (for website)
 node_modules/
 .next/
 out/
 
-# Build
-dist/
-build/
-*.egg-info/
+# Database
+*.db
+*.sqlite
+*.sqlite3
 
-# Cache
-.ruff_cache/
-.mypy_cache/
-.pytest_cache/
-website/prisma/
-wiki/dictionary_rebuild_v*
-*.tar.gz
-data/logs/client_secret*.json
-train_kaggle_t4x2.py
+# OS
+.DS_Store
+Thumbs.db
