@@ -1,0 +1,1418 @@
+{
+  "api_keys": [
+    {
+      "file": "website/zolai-project/.env.local",
+      "line": 29,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.env.local",
+      "line": 30,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.env.local",
+      "line": 31,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.env.local",
+      "line": 33,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/.env.local",
+      "line": 29,
+      "pattern": "GEMINI_API_KEY\\s*=\\s*['\\\"]?[A-Za-z0-9_-]+['\\\"]?"
+    },
+    {
+      "file": "website/zolai-project/.env.example",
+      "line": 41,
+      "pattern": "GEMINI_API_KEY\\s*=\\s*['\\\"]?[A-Za-z0-9_-]+['\\\"]?"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.csv",
+      "line": 13,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.csv",
+      "line": 14,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.csv",
+      "line": 15,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.csv",
+      "line": 19,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.json",
+      "line": 21,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.json",
+      "line": 22,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.json",
+      "line": 23,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.json",
+      "line": 31,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.txt",
+      "line": 12,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.txt",
+      "line": 13,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.txt",
+      "line": 14,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.txt",
+      "line": 18,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/ENV_KEYS_VALUES.txt",
+      "line": 12,
+      "pattern": "GEMINI_API_KEY\\s*=\\s*['\\\"]?[A-Za-z0-9_-]+['\\\"]?"
+    },
+    {
+      "file": "website/zolai-project/.env",
+      "line": 35,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.env",
+      "line": 36,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.env",
+      "line": 37,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.env",
+      "line": 39,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/.env",
+      "line": 35,
+      "pattern": "GEMINI_API_KEY\\s*=\\s*['\\\"]?[A-Za-z0-9_-]+['\\\"]?"
+    },
+    {
+      "file": "website/zolai-project/.env.production",
+      "line": 29,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.env.production",
+      "line": 30,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.env.production",
+      "line": 31,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.env.production",
+      "line": 35,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/.env.production",
+      "line": 29,
+      "pattern": "GEMINI_API_KEY\\s*=\\s*['\\\"]?[A-Za-z0-9_-]+['\\\"]?"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00000982.sst",
+      "line": 1555,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00000982.sst",
+      "line": 1555,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00001012.sst",
+      "line": 1435,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00001012.sst",
+      "line": 1435,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00001060.sst",
+      "line": 964,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00001060.sst",
+      "line": 964,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00001019.sst",
+      "line": 1435,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00001019.sst",
+      "line": 1435,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00001072.sst",
+      "line": 424,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/cache/turbopack/e0739832/00001072.sst",
+      "line": 424,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "scripts/config.js",
+      "line": 2,
+      "pattern": "GEMINI_API_KEY\\s*=\\s*['\\\"]?[A-Za-z0-9_-]+['\\\"]?"
+    },
+    {
+      "file": "scripts/deploy/server.sh",
+      "line": 95,
+      "pattern": "GEMINI_API_KEY\\s*=\\s*['\\\"]?[A-Za-z0-9_-]+['\\\"]?"
+    },
+    {
+      "file": "scripts/__pycache__/learn_bible_vocab.cpython-312.pyc",
+      "line": 8,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    },
+    {
+      "file": "scripts/__pycache__/deep_learn_phrases.cpython-312.pyc",
+      "line": 17,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "scripts/__pycache__/deep_learn_phrases.cpython-312.pyc",
+      "line": 17,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "scripts/__pycache__/deep_learn_phrases.cpython-312.pyc",
+      "line": 17,
+      "pattern": "AIza[0-9A-Za-z\\-_]{35}"
+    },
+    {
+      "file": "scripts/__pycache__/deep_learn_phrases.cpython-312.pyc",
+      "line": 17,
+      "pattern": "sk-or-v1-[A-Za-z0-9_-]{40,}"
+    }
+  ],
+  "cookies": [],
+  "credentials": [
+    {
+      "file": "website/zolai-project/features/auth/index.ts",
+      "line": 394,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/features/auth/index.ts",
+      "line": 421,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/features/auth/README.md",
+      "line": 562,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/features/auth/README.md",
+      "line": 589,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/features/auth/API.md",
+      "line": 59,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/features/auth/API.md",
+      "line": 120,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/stringify-object/readme.md",
+      "line": 99,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/stringify-object/readme.md",
+      "line": 116,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/rc9/README.md",
+      "line": 98,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/hcaptcha/README.md",
+      "line": 16,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/.bin/better-auth",
+      "line": 1079,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/commander/Readme.md",
+      "line": 585,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/valibot/README.md",
+      "line": 50,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/pg-pool/README.md",
+      "line": 32,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/pg-pool/README.md",
+      "line": 77,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/esm/helpers/mssql.js",
+      "line": 24,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/esm/helpers/mssql.js",
+      "line": 101,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/esm/helpers/mssql.js",
+      "line": 174,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/esm/helpers/mssql.d.ts",
+      "line": 25,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/esm/helpers/mssql.d.ts",
+      "line": 100,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/esm/helpers/mssql.d.ts",
+      "line": 171,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/esm/dialect/mssql/mssql-dialect.js",
+      "line": 29,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/esm/dialect/mssql/mssql-dialect.d.ts",
+      "line": 31,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/cjs/helpers/mssql.js",
+      "line": 28,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/cjs/helpers/mssql.js",
+      "line": 105,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/cjs/helpers/mssql.js",
+      "line": 178,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/cjs/helpers/mssql.d.ts",
+      "line": 25,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/cjs/helpers/mssql.d.ts",
+      "line": 100,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/cjs/helpers/mssql.d.ts",
+      "line": 171,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/cjs/dialect/mssql/mssql-dialect.js",
+      "line": 31,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/kysely/dist/cjs/dialect/mssql/mssql-dialect.d.ts",
+      "line": 31,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/README.md",
+      "line": 634,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/README.md",
+      "line": 895,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/arktype/src/__tests__/Form.tsx",
+      "line": 10,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/arktype/src/__tests__/Form-native-validation.tsx",
+      "line": 10,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/arktype/src/__tests__/__fixtures__/data.ts",
+      "line": 6,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/arktype/src/__tests__/__fixtures__/data.ts",
+      "line": 23,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/typanion/src/__tests__/__fixtures__/data.ts",
+      "line": 44,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/vest/src/__tests__/__fixtures__/data.ts",
+      "line": 36,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/superstruct/src/__tests__/__fixtures__/data.ts",
+      "line": 37,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/yup/src/__tests__/__fixtures__/data.ts",
+      "line": 40,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/typebox/src/__tests__/__fixtures__/data.ts",
+      "line": 42,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/class-validator/src/__tests__/__fixtures__/data.ts",
+      "line": 50,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/io-ts/src/__tests__/__fixtures__/data.ts",
+      "line": 55,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/io-ts/src/__tests__/__fixtures__/data.ts",
+      "line": 74,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/computed-types/src/__tests__/__fixtures__/data.ts",
+      "line": 39,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/joi/src/__tests__/__fixtures__/data.ts",
+      "line": 47,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/nope/src/__tests__/__fixtures__/data.ts",
+      "line": 32,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/fluentvalidation-ts/src/__tests__/__fixtures__/data.ts",
+      "line": 81,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/ajv/src/__tests__/__fixtures__/data-errors.ts",
+      "line": 34,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/ajv/src/__tests__/__fixtures__/data-errors.ts",
+      "line": 41,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/ajv/src/__tests__/__fixtures__/data-errors.ts",
+      "line": 46,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/ajv/src/__tests__/__fixtures__/data.ts",
+      "line": 44,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/ajv/src/__tests__/__fixtures__/data.ts",
+      "line": 55,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/effect-ts/src/__tests__/__fixtures__/data.ts",
+      "line": 75,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/effect-ts/src/__tests__/__fixtures__/data.ts",
+      "line": 86,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/zod/src/__tests__/__fixtures__/data-v3.ts",
+      "line": 46,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/zod/src/__tests__/__fixtures__/data-v4.ts",
+      "line": 47,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/zod/src/__tests__/__fixtures__/data-v4-mini.ts",
+      "line": 65,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/vine/src/__tests__/__fixtures__/data.ts",
+      "line": 36,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/valibot/src/__tests__/__fixtures__/data.ts",
+      "line": 61,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/standard-schema/src/__tests__/Form.tsx",
+      "line": 10,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/standard-schema/src/__tests__/Form-native-validation.tsx",
+      "line": 10,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/standard-schema/src/__tests__/__fixtures__/data.ts",
+      "line": 47,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hookform/resolvers/typeschema/src/__tests__/__fixtures__/data.ts",
+      "line": 46,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/css-select/lib/pseudo-selectors/aliases.js",
+      "line": 23,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/css-select/lib/esm/pseudo-selectors/aliases.js",
+      "line": 24,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@electric-sql/pglite-socket/tests/query-with-node-pg.test.ts",
+      "line": 87,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@electric-sql/pglite-socket/tests/query-with-node-pg.test.ts",
+      "line": 860,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@electric-sql/pglite-socket/tests/query-with-postgres-js.test.ts",
+      "line": 89,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@electric-sql/pglite-socket/tests/query-with-postgres-js.test.ts",
+      "line": 567,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/shadcn/node_modules/zod/src/v4/classic/tests/refine.test.ts",
+      "line": 66,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/shadcn/node_modules/zod/src/v4/classic/tests/refine.test.ts",
+      "line": 93,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/shadcn/node_modules/zod/src/v4/classic/tests/refine.test.ts",
+      "line": 103,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/shadcn/node_modules/zod/src/v4/classic/tests/error.test.ts",
+      "line": 285,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/shadcn/node_modules/zod/src/v3/tests/refine.test.ts",
+      "line": 40,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/shadcn/node_modules/zod/src/v3/tests/refine.test.ts",
+      "line": 74,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/shadcn/node_modules/zod/src/v3/tests/error.test.ts",
+      "line": 220,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/node/crypto.d.ts",
+      "line": 791,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/node/crypto.d.ts",
+      "line": 835,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/node/crypto.d.ts",
+      "line": 867,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/node/crypto.d.ts",
+      "line": 1052,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/node/crypto.d.ts",
+      "line": 1095,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/node/crypto.d.ts",
+      "line": 1119,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/nodemailer/node_modules/@types/node/crypto.d.ts",
+      "line": 809,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/nodemailer/node_modules/@types/node/crypto.d.ts",
+      "line": 853,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/nodemailer/node_modules/@types/node/crypto.d.ts",
+      "line": 885,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/nodemailer/node_modules/@types/node/crypto.d.ts",
+      "line": 1070,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/nodemailer/node_modules/@types/node/crypto.d.ts",
+      "line": 1113,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/nodemailer/node_modules/@types/node/crypto.d.ts",
+      "line": 1137,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/nodemailer/node_modules/@types/node/crypto.d.ts",
+      "line": 9,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/pg/node_modules/@types/node/crypto.d.ts",
+      "line": 809,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/pg/node_modules/@types/node/crypto.d.ts",
+      "line": 853,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/pg/node_modules/@types/node/crypto.d.ts",
+      "line": 885,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/pg/node_modules/@types/node/crypto.d.ts",
+      "line": 1070,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/pg/node_modules/@types/node/crypto.d.ts",
+      "line": 1113,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/pg/node_modules/@types/node/crypto.d.ts",
+      "line": 1137,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@types/pg/node_modules/@types/node/crypto.d.ts",
+      "line": 9,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/next/dist/compiled/node-html-parser/index.js",
+      "line": 1,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/msw/src/core/utils/handleRequest.test.ts",
+      "line": 498,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/msw/src/core/utils/handleRequest.test.ts",
+      "line": 539,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/hcaptcha/test/index.js",
+      "line": 12,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/hono/dist/types/middleware/basic-auth/index.d.ts",
+      "line": 46,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/hono/dist/types/middleware/basic-auth/index.d.ts",
+      "line": 62,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/hono/dist/types/middleware/jwt/jwt.d.ts",
+      "line": 34,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@vercel/config/node_modules/zod/src/v4/classic/tests/refine.test.ts",
+      "line": 66,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@vercel/config/node_modules/zod/src/v4/classic/tests/refine.test.ts",
+      "line": 93,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@vercel/config/node_modules/zod/src/v4/classic/tests/refine.test.ts",
+      "line": 103,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@vercel/config/node_modules/zod/src/v4/classic/tests/error.test.ts",
+      "line": 285,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@vercel/config/node_modules/zod/src/v3/tests/refine.test.ts",
+      "line": 40,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@vercel/config/node_modules/zod/src/v3/tests/refine.test.ts",
+      "line": 74,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@vercel/config/node_modules/zod/src/v3/tests/error.test.ts",
+      "line": 220,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-auth/node_modules/@better-auth/utils/README.md",
+      "line": 244,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-auth/node_modules/@better-auth/utils/README.md",
+      "line": 257,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-auth/node_modules/@better-auth/utils/README.md",
+      "line": 270,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-auth/node_modules/@better-auth/utils/README.md",
+      "line": 294,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-auth/dist/test-utils/test-instance.mjs",
+      "line": 77,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-auth/dist/test-utils/test-instance.mjs",
+      "line": 56,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-auth/dist/plugins/oidc-provider/index.d.mts",
+      "line": 288,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-auth/dist/plugins/mcp/index.d.mts",
+      "line": 190,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@modelcontextprotocol/sdk/node_modules/hono/dist/types/middleware/basic-auth/index.d.ts",
+      "line": 46,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@modelcontextprotocol/sdk/node_modules/hono/dist/types/middleware/basic-auth/index.d.ts",
+      "line": 62,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@modelcontextprotocol/sdk/node_modules/hono/dist/types/middleware/jwt/jwt.d.ts",
+      "line": 34,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/mariadb/node_modules/@types/node/crypto.d.ts",
+      "line": 778,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/mariadb/node_modules/@types/node/crypto.d.ts",
+      "line": 822,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/mariadb/node_modules/@types/node/crypto.d.ts",
+      "line": 854,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/mariadb/node_modules/@types/node/crypto.d.ts",
+      "line": 1039,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/mariadb/node_modules/@types/node/crypto.d.ts",
+      "line": 1082,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/mariadb/node_modules/@types/node/crypto.d.ts",
+      "line": 1106,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/mariadb/node_modules/@types/node/crypto.d.ts",
+      "line": 9,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@dotenvx/dotenvx/node_modules/commander/Readme.md",
+      "line": 572,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@prisma/adapter-mariadb/README.md",
+      "line": 28,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@prisma/dev/dist/chunk-YL6J3L2T.js",
+      "line": 84,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@prisma/dev/dist/index.cjs",
+      "line": 96,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@prisma/dev/dist/db.cjs",
+      "line": 84,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@prisma/dev/dist/daemon.cjs",
+      "line": 96,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@prisma/dev/node_modules/hono/dist/types/middleware/basic-auth/index.d.ts",
+      "line": 46,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@prisma/dev/node_modules/hono/dist/types/middleware/basic-auth/index.d.ts",
+      "line": 62,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@prisma/dev/node_modules/hono/dist/types/middleware/jwt/jwt.d.ts",
+      "line": 34,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@prisma/config/node_modules/c12/node_modules/rc9/README.md",
+      "line": 110,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/utils/README.md",
+      "line": 244,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/utils/README.md",
+      "line": 257,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/utils/README.md",
+      "line": 270,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/utils/README.md",
+      "line": 294,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/prisma-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 244,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/prisma-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 257,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/prisma-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 270,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/prisma-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 294,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/drizzle-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 244,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/drizzle-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 257,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/drizzle-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 270,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/drizzle-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 294,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/mongo-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 244,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/mongo-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 257,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/mongo-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 270,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/mongo-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 294,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/cli/dist/index.mjs.map",
+      "line": 1,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/cli/dist/index.mjs",
+      "line": 1079,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/cli/node_modules/commander/Readme.md",
+      "line": 572,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/cli/node_modules/better-auth/dist/test-utils/test-instance.mjs",
+      "line": 82,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/cli/node_modules/better-auth/dist/test-utils/test-instance.mjs",
+      "line": 61,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/cli/node_modules/better-auth/dist/plugins/oidc-provider/index.d.mts",
+      "line": 278,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/cli/node_modules/better-auth/dist/plugins/mcp/index.d.mts",
+      "line": 183,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/memory-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 244,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/memory-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 257,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/memory-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 270,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/memory-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 294,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/kysely-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 244,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/kysely-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 257,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/kysely-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 270,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@better-auth/kysely-adapter/node_modules/@better-auth/utils/README.md",
+      "line": 294,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/zod/src/v4/classic/tests/refine.test.ts",
+      "line": 66,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/zod/src/v4/classic/tests/refine.test.ts",
+      "line": 93,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/zod/src/v4/classic/tests/refine.test.ts",
+      "line": 103,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/zod/src/v4/classic/tests/error.test.ts",
+      "line": 285,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/zod/src/v3/tests/refine.test.ts",
+      "line": 40,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/zod/src/v3/tests/refine.test.ts",
+      "line": 74,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/zod/src/v3/tests/error.test.ts",
+      "line": 220,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-call/node_modules/@better-auth/utils/README.md",
+      "line": 244,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-call/node_modules/@better-auth/utils/README.md",
+      "line": 257,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-call/node_modules/@better-auth/utils/README.md",
+      "line": 270,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/better-call/node_modules/@better-auth/utils/README.md",
+      "line": 294,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/playwright/types/test.d.ts",
+      "line": 6264,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/playwright/types/test.d.ts",
+      "line": 6286,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/playwright/types/test.d.ts",
+      "line": 6423,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/playwright/types/test.d.ts",
+      "line": 6445,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/playwright/types/test.d.ts",
+      "line": 7701,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hcaptcha/react-hcaptcha/lib/dist/esm/index.js",
+      "line": 2,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hcaptcha/react-hcaptcha/lib/dist/cjs/index.js",
+      "line": 2,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hcaptcha/react-hcaptcha/lib/dist/esm/hooks/index.js",
+      "line": 2,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/node_modules/@hcaptcha/react-hcaptcha/lib/dist/cjs/hooks/index.js",
+      "line": 2,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/tests/api/api-security.spec.ts",
+      "line": 34,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/tests/unit/notifications-webhook-delivery.test.ts",
+      "line": 205,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/tests/unit/test-utils.ts",
+      "line": 40,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/edge.js",
+      "line": 149,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/edge.js",
+      "line": 203,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/edge.js",
+      "line": 118,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/index.js",
+      "line": 150,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/index.js",
+      "line": 204,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/index.js",
+      "line": 119,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/index-browser.js",
+      "line": 177,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/index-browser.js",
+      "line": 231,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/index-browser.js",
+      "line": 146,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/internal/prismaNamespaceBrowser.ts",
+      "line": 180,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/internal/prismaNamespaceBrowser.ts",
+      "line": 243,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/internal/prismaNamespaceBrowser.ts",
+      "line": 143,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/internal/prismaNamespace.ts",
+      "line": 4253,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/internal/prismaNamespace.ts",
+      "line": 4316,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/internal/prismaNamespace.ts",
+      "line": 4216,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/client/edge.js",
+      "line": 144,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/client/edge.js",
+      "line": 198,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/client/edge.js",
+      "line": 113,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/client/index.js",
+      "line": 145,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/client/index.js",
+      "line": 199,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/client/index.js",
+      "line": 114,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/client/index-browser.js",
+      "line": 172,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/client/index-browser.js",
+      "line": 226,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/lib/generated/prisma/client/index-browser.js",
+      "line": 141,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0kx102-.js.map",
+      "line": 5,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0kx102-.js.map",
+      "line": 5,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0kx102-.js.map",
+      "line": 5,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0kx102-.js",
+      "line": 103,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0kx102-.js",
+      "line": 154,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0kx102-.js",
+      "line": 74,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0md7fcg.js",
+      "line": 103,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0md7fcg.js",
+      "line": 154,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0md7fcg.js",
+      "line": 74,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0md7fcg.js.map",
+      "line": 5,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0md7fcg.js.map",
+      "line": 5,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/lib_generated_prisma_index_0md7fcg.js.map",
+      "line": 5,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/ssr/lib_generated_prisma_index_08kqnnk.js.map",
+      "line": 5,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/ssr/lib_generated_prisma_index_08kqnnk.js.map",
+      "line": 5,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/ssr/lib_generated_prisma_index_08kqnnk.js.map",
+      "line": 5,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/ssr/lib_generated_prisma_index_08kqnnk.js",
+      "line": 103,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/ssr/lib_generated_prisma_index_08kqnnk.js",
+      "line": 154,
+      "pattern": "password\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    },
+    {
+      "file": "website/zolai-project/.next/dev/server/chunks/ssr/lib_generated_prisma_index_08kqnnk.js",
+      "line": 74,
+      "pattern": "secret\\s*[=:]\\s*['\\\"][^'\\\"]{5,}['\\\"]"
+    }
+  ],
+  "files_scanned": 95401
+}
