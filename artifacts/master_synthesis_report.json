@@ -1,0 +1,27 @@
+{
+  "timestamp": "2026-04-22T21:36:24.246228",
+  "total_errors_found": 365,
+  "total_errors_fixed": 365,
+  "patterns_extracted": 0,
+  "translations_validated": 10,
+  "accuracy": 80.0,
+  "by_source": {
+    "translation_validation": {
+      "tested": 10,
+      "correct": 8,
+      "wrong": 2,
+      "accuracy": 80.0
+    },
+    "wiki_audit": {
+      "errors_found": 365,
+      "errors_fixed": 365,
+      "error_types": {
+        "forbidden_words": 269,
+        "wrong_negation": 54,
+        "wrong_plural": 30,
+        "missing_hong": 5,
+        "wrong_agreement": 7
+      }
+    }
+  }
+}

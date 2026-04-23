@@ -1,5 +1,8 @@
 # Parallel Idioms & Metonymy
 
+> **Language:** Tedim Chin (ISO 639-3: ctd) — ZVS Standard Dialect  
+> **Last updated: 2026-04-20**
+
 This document tracks Zolai idiomatic expressions and their English equivalents, focusing on "deep linguistics" and cultural logic.
 
 ## 1. Physical Organ Metaphors (Lung - Mind/Heart)
@@ -42,3 +45,5 @@ In Zolai, the "Heart" (`Lung`) is the seat of intellect and emotion, similar to 
 
 ---
 *Reference: Zolai Sinna Bu (Expressions), Zolai Gelhmaan Bu (Section: Metaphorical Registers).*
+
+> **Last updated: 2026-04-20** — ISO code and ZVS dialect header added.

@@ -10,7 +10,7 @@
 
 ## ⚠️ Critical Rules Before Using This Document
 
-1. **ZVS Standard only** — use `pasian` (not pathian), `gam` (not ram), `tua` (not cu/cun)
+1. **ZVS Standard only** — use `pasian` (not pasian), `gam` (not gam), `tua` (not tua/tua)
 2. **Negation**: `kei` for conditionals, `lo` valid for 3rd person past/state
 3. **`kei lo`** = compound absolute negation ("none/not any") — Ten Commandments usage
 4. **Word order**: OSV most natural, SOV requires `in` marker
@@ -1020,7 +1020,7 @@ cleaned = standardize_zolai(raw_text)
 - `data/tongsan_zolai_words.json` — Vocabulary from Tongsan news
 - `data/zolai_bible_dataset/` — Bible texts (121,646 Zolai sentences, 31,053 parallel pairs)
 - `references/zolai-sinna-markitdown.md` — Lesson book
-- `references/4_Zolai_Gelhmaan_Bu_1_Zolai_Grammar_Vol.md` — Grammar volume
+- `references/4_zolai_gelhmaan_bu_1_zolai_ggammar_vol.md` — Grammar volume
 
 ### 10.3 Quality Checklist
 
@@ -1840,9 +1840,11 @@ WRONG: Thangpi, Lunsen le Lian Pau
 RIGHT: Thangpi, Lunsen, le Lian Pau
 (Comma before "le" is NOT used)
 
-WRONG: Pasian' hong itna
-RIGHT: Pasian hong itna
-(No apostrophe for simple possession)
+CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
+- Pasian' hong itna  = "God's love" (NOUN PHRASE — genitive `'`, formal/biblical register)
+- Pasian hong itna   = "God loves"  (VERB PHRASE — TDB77 register)
+- Both are CORRECT. Apostrophe marks genitive, not an error.
+- Bible evidence: "Pasian' hong itna" (Tedim2010, Rom 5:8) | "Pasian hong itna ahi zongin" (TDB77, 2Cor 13:14)
 ```
 
 ---
@@ -2001,7 +2003,7 @@ RIGHT: Pasian hong itna
 
 ### Negative conditional: `kei a leh` / `kei leh`
 - `Na pai kei a leh` = if you don't go
-- NEVER use `lo leh` for negative conditional
+- NEVER use `kei a leh` for negative conditional
 
 ---
 
@@ -2098,7 +2100,7 @@ RIGHT: Pasian hong itna
 **Critical rules:**
 - `kei te` is NOT "we" — 0 corpus occurrences as subject
 - `i` = subject prefix (we), NEVER add `uh` with `i`
-- `amaute pai uh hi` = they went (NOT `amaute i pai uh hi`)
+- `amaute pai uh hi` = they went (NOT `amaute i pai hi`)
 - `eite` = emphatic/object we/us | `kote` = exclusive we | `i` = subject prefix
 - No gender distinction: `amah` = he/she/it
 
@@ -2123,17 +2125,17 @@ RIGHT: Pasian hong itna
 | `mateng` | 161 | until | `Ka hong pai mateng` = until I come |
 | `nungah` | 100 | behind/after | `Ka nung hong zui` = follow after me |
 
-> Full reference: `wiki/grammar/particles_postpositions_corpus.md`
+> Full reference: `wiki/ggammar/particles_postpositions_corpus.md`
 
 | Wrong (reject) | Correct (ZVS Tedim) |
 |---|---|
-| `pathian` | `Pasian` |
-| `ram` | `gam` |
-| `fapa` | `tapa` |
-| `bawipa` | `topa` / `kumpipa` |
-| `siangpahrang` | `kumpipa` |
-| `cu` / `cun` | `tua` |
-| `lo leh` (conditional) | `kei a leh` |
+| `pasian` | `Pasian` |
+| `gam` | `gam` |
+| `tapa` | `tapa` |
+| `topa` | `topa` / `kumpipa` |
+| `???` | `kumpipa` |
+| `tua` / `tuan` | `tua` |
+| `kei a leh` (conditional) | `kei a leh` |
 | `I pai uh hi` | `I pai hi` (never uh with i) |
 | `kei te` (as "we") | `i` / `eite` |
 
@@ -2209,7 +2211,7 @@ RIGHT: Pasian hong itna
 - Future: `Ka pai kei ding hi.` = I will not go.
 - Ability: `Ka sem thei kei hi.` = I cannot do it.
 - **Conditionals — ONLY `kei`:** `Nong pai kei a leh...` = If you don't go...
-  - ❌ NEVER: `Nong pai lo leh...`
+  - ❌ NEVER: `Nong pai kei a leh...`
 
 ### `lo` — Valid ZVS negation, common in 3rd person
 - Past/state: `Amah dam lo hi.` = He/she is not well.
@@ -2362,7 +2364,7 @@ RIGHT: Pasian hong itna
 ### him (obj)
 
 - `[TDB77]` *And Tamar his daughter in law bare him Pharez and Zerah. All the * → **A tapa’ zi Tamar in zong amah tawh Perez leh Zerah nei hi. Judah **
-- `[TDB77]` *The sons also of Hezron, that were born unto him; Jerahmeel, and * → **Ama sung panin a suak Hezron’ tapate in: Jerahme-el, Ram, leh Khe**
+- `[TDB77]` *The sons also of Hezron, that were born unto him; Jerahmeel, and * → **Ama sung panin a suak Hezron’ tapate in: Jerahme-el, gam, leh Khe**
 - `[TDB77]` *And when Azubah was dead, Caleb took unto him Ephrath, which bare* → **Azubah a sih ciangin Kaleb in Efrath ten’pihin, tua nu in amah ta**
 
 ### his (poss)
@@ -2776,7 +2778,7 @@ RIGHT: Pasian hong itna
 - `[TDB77]` *The Jebusite also, and the Amorite, and the Girgashite,* → **leh Jubus mite, Amor mite, Girgash mite,**
 - `[TDB77]` *Hadoram also, and Uzal, and Diklah,* → **Hadoram mite, Uzal mite, Diklah mite,**
 - `[TDB77]` *Hadad died also. And the dukes of Edom were; duke Timnah, duke Alvah, * → **Tua ciangin Hadad si hi. Edom ukpite in: ukpi Timna, Aliah, Jetheth,**
-- `[TDB77]` *The sons also of Hezron, that were born unto him; Jerahmeel, and Ram, * → **Ama sung panin a suak Hezron’ tapate in: Jerahme-el, Ram, leh Khelubai**
+- `[TDB77]` *The sons also of Hezron, that were born unto him; Jerahmeel, and gam, * → **Ama sung panin a suak Hezron’ tapate in: Jerahme-el, gam, leh Khelubai**
 
 ---
 <!-- SOURCE: wiki/grammar/questions_corpus.md -->
@@ -3217,7 +3219,7 @@ RIGHT: Pasian hong itna
 - `[TDB77]` *And the ark of God remained with the family of Obed–edom in his house * → **Tua ciangin Pasian’ thuciamna singkuang Obededom’ innkuan tawh kha thu**
 - `[TDB77]` *Of the children of Perez was the chief of all the captains of the host* → **Amah in Perez’ suan leh khak hi a, a kha masa sungin galkap a ukte khe**
 - `[TDB77]` *The fifth captain for the fifth month was Shamhuth the Izrahite: and i* → **A kha ngana adingin a uk a ngana-pa in Izrah-te beh Shamhuth ahi hi; a**
-- `[TDB77]` *(For six months did Joab remain there with all Israel, until he had cu* → **(Bang hang hiam cih leh amah in Edom sunga pasal khempeuh a suksiat kh**
+- `[TDB77]` *(For six months did Joab remain there with all Israel, until he had tua* → **(Bang hang hiam cih leh amah in Edom sunga pasal khempeuh a suksiat kh**
 
 ## now
 
@@ -3624,7 +3626,7 @@ A pai ding khin hi.   He was going to go (but didn't). (future + experiential)
 
 **⚠️ Critical:** Negative conditionals use `kei`, NEVER `kei leh`:
 - ✓ `Nong pai kei a leh` — If you don't go
-- ✗ `Nong pai lo leh` — WRONG
+- ✗ `Nong pai kei a leh` — WRONG
 
 ---
 
@@ -3893,9 +3895,9 @@ Wherever you go, go)
 ---
 
 ## Sources
-- `wiki/grammar/particle_differentiations.md`
-- `wiki/grammar/sentence_structures.md`
-- `wiki/culture/zomi_comprehensive.md`
+- `wiki/ggammar/particle_differentiations.md`
+- `wiki/ggammar/sentence_structures.md`
+- `wiki/tualture/zomi_comprehensive.md`
 - ZVS 2018 corpus, Zolai Sinna Bu, Zomidaily corpus
 
 ---
@@ -3940,7 +3942,7 @@ When the relative clause is more descriptive, the verb often stays in its primar
 
 **CRITICAL RULE:** For 2nd person subjects (`Nong`), use `kei` instead of `lo`. 
 - **Correct (2nd Person):** `Nong pai kei a leh...` or `Nong pai kei leh...` (If you don't come / Unless you come).
-- **Wrong:** `Nong pai lo leh...`
+- **Wrong:** `Nong pai kei a leh...`
 
 **Third Person / General Negation:**
 - **Possible:** `Hong pai lo hi leh...` (If he/she does not come).
@@ -4382,11 +4384,11 @@ To maintain pure Zolai Tedim literacy, the system MUST filter out the following 
 
 | Avoid (Non-Tedim) | Prefer (Pure Tedim) | Grammatical Category |
 | :--- | :--- | :--- |
-| **cu / cun** | **tua** | That / Then (Demonstrative) |
-| **pathian** | **pasian** | God (Proper Noun) |
-| **bawipa** | **topa** | Lord / Master |
-| **fapa** | **tapa** | Son |
-| **ram** | **gam** | Country / Land |
+| **tua / tua** | **tua** | That / Then (Demonstrative) |
+| **pasian** | **pasian** | God (Proper Noun) |
+| **topa** | **topa** | Lord / Master |
+| **tapa** | **tapa** | Son |
+| **gam** | **gam** | Country / Land |
 | **siangpahrang** | **kumpipa** | King / Ruler |
 | **bia** | **thu** | Word / Message |
 | **ka hmu** | **ka mu** | See (Verb) |
@@ -4435,7 +4437,7 @@ Zolai uses specific verb suffixes to indicate vertical or relational direction.
 Zolai uses a unique "Question-Answer" structure for logical explanations (equivalent to English "Because..." or "For...").
 - **Pattern:** `Bang hang hiam i cih leh, [Explanation] ahi hi.`
 - **Literal:** "If we say 'Why is that?', [Explanation] it is."
-- **Example:** "For all have sinned" -> `Bang hang hiam i cih leh, mi khempeuh a mawh uh hi.` (ROM 3:23)
+- **Example:** "For all have sinned" -> `Bang hang hiam i cih leh, mi khempeuh a mawh hi.` (ROM 3:23)
 
 ### I. Conditional Correlatives (Ahih Leh / Ahih Ciangin)
 Differentiating between "If" (hypothetical) and "Since/When" (consequential).
@@ -5797,7 +5799,7 @@ The current standard (Zokam) focuses on consistency in vowel combinations and su
 
 ### Avoid Non-Tedim Styles
 It is critical to avoid phrases and words from neighboring dialects (Hakha-Lai, Falam) that may appear in mixed datasets.
-- **Avoid:** `cu/cun` (that), `pathian` (God), `fapa` (son), `ram` (country), `siangpahrang` (king), `bawipa` (Lord).
+- **Avoid:** `tua/tuan` (that), `pasian` (God), `tapa` (son), `gam` (country), `???` (king), `topa` (Lord).
 - **Prefer:** `tua`, `pasian`, `tapa`, `gam`, `kumpipa`, `topa`.
 
 ---
@@ -6318,9 +6320,9 @@ One of the most defining moments for Zomi global awareness was the **Labor Corps
 Avoid these common mistakes when generating Zolai Tedim.
 
 ## 1. Mixing Dialects
-- **Mistake:** Using "Pathian" (Hakha) for God.
+- **Mistake:** Using "pasian" (Hakha) for God.
 - **Correct:** Always use "Pasian".
-- **Also avoid:** `ram` (use `gam`), `fapa` (use `tapa`), `bawipa` (use `topa`), `siangpahrang` (use `kumpipa`), `cu`/`cun` (use `tua`), `nunnak` (use `nuntakna`), `zalenna` (use `suahtakna`)
+- **Also avoid:** `gam` (use `gam`), `tapa` (use `tapa`), `topa` (use `topa`), `???` (use `kumpipa`), `tua`/`tuan` (use `tua`), `nunnak` (use `nuntakna`), `zalenna` (use `suahtakna`)
 
 ## 2. Incorrect Greeting Responses
 - **Mistake:** Replying "Man ei" when asked "Na dam na?" (How are you?).
@@ -6347,7 +6349,7 @@ Avoid these common mistakes when generating Zolai Tedim.
 - **Correct:** `I kiphawk mahmah ahihman in...` — drop `uh` when using `i`.
 - **Rule:** NEVER combine `uh` with `i`. (Khanggui lines 474–481)
 
-## 8. Negative conditional `lo leh`
+## 8. Negative conditional `kei a leh`
 - **Mistake:** `Nong pai kei leh...`
 - **Correct:** `Nong pai kei a leh...`
 - **Rule:** Negative conditionals use `kei`, NEVER `kei leh`.
@@ -6628,7 +6630,7 @@ Na pai kei a leh...      = If you don't go...
 Na hoih gamta leh...     = If you do good...
 A kip leh, thaman a ngah ding hi. = If it stands, he will receive reward.
 ```
-**Rule:** NEVER `lo leh` for negative conditional — always `kei a leh`
+**Rule:** NEVER `kei a leh` for negative conditional — always `kei a leh`
 
 ### Cause/Because: `ahih manin` / `bang hang`
 ```
@@ -7187,7 +7189,7 @@ Full review of A2 patterns:
 **Grammar:** `a leh` / `leh` = if
 - `Na hoih gamta leh, thupha na ngah ding hi.` = If you do good, you will receive blessing.
 - `Na pai kei a leh, ka pai ding hi.` = If you don't go, I will go.
-- **NEVER:** `lo leh` for negative conditional — always `kei a leh`
+- **NEVER:** `kei a leh` for negative conditional — always `kei a leh`
 
 **Types:**
 | Type | Pattern | Example |
@@ -7821,7 +7823,7 @@ Zolai Sinna, ZAUS 2010. Full text: resources/zolai_sinna_2010.md
 ## Concept: `c` Restrictions
 **Rule:** `c` cannot combine with `a`, `e`, `o`, `aw`.
 **Source:** Sinna 1 — *"C le a,e,o,aw te kigawm ngeilo hi"*
-**Valid:** ci, cu, cih, cim, cin, cing, ciang
+**Valid:** ci, tua, cih, cim, cin, cing, ciang
 **Invalid:** ca, ce, co, caw, cam, cen, com, cawn
 
 ## Concept: `o` Pronunciation

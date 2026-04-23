@@ -165,7 +165,7 @@ def normalize_zolai(text: str) -> str:
 ```
 
 ZVS dialect enforcement (post-normalization):
-- Replace `pathian` → `pasian`, `ram` → `gam`, `fapa` → `tapa`
+- Replace `pasian` → `pasian`, `gam` → `gam`, `tapa` → `tapa`
 - Flag (don't auto-replace) ambiguous cases for human review
 
 ### The `###` Noise Problem

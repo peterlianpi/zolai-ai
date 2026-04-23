@@ -101,4 +101,4 @@ Zolai project scope:
 - `resources/Zolai_Khanggui_AD_1899_AD_2013.md`
 - `resources/Gentehna_Tuamtuam_le_A_Deihnate.md`
 - `resources/zolai_ai_instructions.md`
-- `wiki/culture/zolai_culture.md`
+- `wiki/tualture/zolai_tualture.md`

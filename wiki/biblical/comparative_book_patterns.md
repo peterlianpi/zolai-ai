@@ -59,7 +59,7 @@ This document maps authoritative Zolai sentence structures from the Bible to Eng
 ### 1. Subordinate Reasoning
 - **Pattern:** `... bang hang hiam cih leh ...`
 - **English:** ... because ... / ... for ....
-- **Example:** `... bang hang hiam cih leh Pasian in amah it hi.`
+- **Example:** `... bang hang hiam cih leh Pasian in amah hong it hi.`
 - **Nuance:** This is the standard high-register way to start an explanation in Romans.
 
 ### 2. Complex Conditionals & Contrast

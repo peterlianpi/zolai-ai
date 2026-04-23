@@ -41,15 +41,27 @@
 ### LLM Training Stack (Current)
 | Component | Choice | Reason |
 |---|---|---|
-| Base model | Qwen2.5-7B-Instruct | Best multilingual (29 langs), Apache 2.0 |
-| Fast iteration | Qwen2.5-3B-Instruct | No bugs on T4, fast |
-| Method | QLoRA 4-bit NF4 | Fits Kaggle T4 (16GB) |
-| LoRA config | r=16, alpha=32 | r=8 too small for low-resource |
-| Optimizer | paged_adamw_8bit | Memory efficient |
-| Framework | Unsloth | 2x faster, 70% less VRAM |
+| Active model | Qwen2.5-0.5B-Instruct | Fast iteration, fits T4x2 in FP16, LoRA r=16 |
+| Stable model | Qwen2.5-3B-Instruct | No bugs on T4, fast, QLoRA r=8 |
+| Future target | Qwen2.5-7B-Instruct | Best multilingual (29 langs), Apache 2.0 |
+| 0.5b method | LoRA FP16 (no quantization) | 0.5B fits in VRAM without quantization |
+| 3b method | QLoRA 4-bit NF4 | Fits Kaggle T4 (16GB) |
+| LoRA config (0.5b) | r=16, alpha=32 | Better capacity for low-resource |
+| LoRA config (3b) | r=8, alpha=16 | Fits T4 single GPU |
+| Optimizer | paged_adamw_8bit (3b) / adamw_torch (0.5b) | Memory efficient |
 | Alignment | ORPO | Combines SFT+DPO in one pass |
-| Tracking | W&B free tier | Integrates with Unsloth |
-| Storage | HuggingFace Hub | `peterpausianlian/zolai-qwen2.5-3b-lora` |
+| Tracking | W&B free tier | Integrates with training |
+| Storage | HuggingFace Hub `peterpausianlian/` | Primary storage |
+
+### Library Versions (Current)
+```
+transformers==5.5.4
+peft==0.19.1
+trl==1.2.0
+accelerate==1.13.0
+bitsandbytes==0.49.2
+torch==2.5.1+cu121
+```
 
 ### Why These Models (Rejected Alternatives)
 | Model | Rejected Reason |
@@ -124,11 +136,21 @@ Evidence: UrduLLaMA (arXiv:2502.16961) — 128M tokens CPT + 41K instructions + 
 
 ## 🔬 Training Progress
 
+### zolai-qwen-0.5b (active — LoRA FP16, r=16, alpha=32, T4x2)
+| Milestone | Chunk Range | Status |
+|-----------|-------------|--------|
+| Early sessions | 0–300k | ✅ Done |
+| Current | 300k–800k | 🔄 In progress |
+| Remaining | 800k–5.1M | ⏳ Planned |
+
+### zolai-qwen2.5-3b-lora (paused — QLoRA 4-bit NF4, r=8, alpha=16, T4 x1)
 | Session | Chunk | Val Loss | Date |
 |---|---|---|---|
 | 1 | 0–25k | 2.9856 | 2026-04-17 |
 | 2 | 25k–50k | 2.7398 | 2026-04-17 |
 | 3 | 50k–75k | ~2.535 | 2026-04-17 |
+| 4 | 75k–100k | - | 2026-04-17 |
+| 5+ | 100k+ | ⏸️ Paused | — |
 
 Target val loss: < 2.0 (CPT), < 1.5 (SFT)
 
@@ -220,7 +242,7 @@ Target val loss: < 2.0 (CPT), < 1.5 (SFT)
 
 ## 💡 Lessons Learned (Engineering)
 
-1. `CUDA_VISIBLE_DEVICES=0` required for QLoRA — prevents DataParallel issues
+1. `tuada_visible_devices=0` required for QLoRA — prevents DataParallel issues
 2. `report_to="none"` required for loss to show in Kaggle console
 3. 100k chunks fit in ~9.5h — perfect for overnight Kaggle sessions
 4. Adapter is cumulative — always load previous adapter before next chunk
@@ -240,16 +262,16 @@ Target val loss: < 2.0 (CPT), < 1.5 (SFT)
 
 ## 🔜 Next Actions (Priority Order)
 
-1. **Build 100-sentence ZVS test set** — `data/eval/zvs_compliance_test_v1.jsonl` (deadline 2026-05-15)
+1. **Continue 0.5b training** — CHUNK_START=800000, RESUME_ADAPTER=peterpausianlian/zolai-qwen-0.5b
 2. **Check FineWeb2/MADLAD-400** for any Tedim/Chin content
 3. **Create HF org account** `zolai-project` — move weights off personal account
 4. **Recruit 3 native speaker reviewers** — see `wiki/planning/contributor_guide.md`
 5. **Submit corpus to SEACrowd** — deadline 2026-05-01
 6. **Run MinHash dedup** on `corpus_master_v1.jsonl`
-7. **Add `instructions_bible_v1.jsonl`** to training pipeline
+7. **Deduplicate dict_semantic/enriched/en_zo** — 21.8% dups each
 8. **Expand synthetic instructions** 11K → 50K — deadline 2026-05-31
 9. **Build ORPO pairs** — ZVS correct (chosen) vs dialect errors (rejected)
-10. **Build curriculum instruction pairs** — 13K CEFR-tagged (see `curriculum_to_training_pipeline.md`)
+10. **Build curriculum instruction pairs** — 13K CEFR-tagged (see `tuarritualum_to_training_pipeline.md`)
 
 ## 📋 Wiki Files Index (Training)
 
@@ -261,7 +283,7 @@ Target val loss: < 2.0 (CPT), < 1.5 (SFT)
 | `data_cleaning_pipeline.md` | Runnable cleaning pipeline code |
 | `departments_and_agents.md` | Department map + agent responsibilities |
 | `evaluation_benchmarks.md` | ZVS test set, Zolai-FLORES, QA benchmark specs |
-| `curriculum_to_training_pipeline.md` | A1–C2 curriculum → instruction pairs plan |
+| `tuarritualum_to_training_pipeline.md` | A1–C2 curriculum → instruction pairs plan |
 | `data_pipeline_and_training_strategy.md` | Pipeline strategy |
 | `llm_training_roadmap.md` | Training roadmap |
 

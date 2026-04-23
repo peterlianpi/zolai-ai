@@ -135,7 +135,7 @@ At B1, learners begin using direct speech with the quotative closer `ci hi`.
 - `Bang hang hiam cih leh Pasian in leitung mite a it mahmah hi.` = For God so loved the world.
 
 ### Conditionals (verified)
-- `Na pai kei a leh...` = If you don't go... (NEVER `lo leh`)
+- `Na pai kei a leh...` = If you don't go... (NEVER `kei a leh`)
 - `A kip leh, thaman a ngah ding hi.` = If it stands, he will receive reward.
 - `Eite in i pumpi i teldot leh, thukhenna i thuak kei ding hi.` = If we judge ourselves, we will not be judged.
 

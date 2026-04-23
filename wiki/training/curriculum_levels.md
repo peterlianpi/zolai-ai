@@ -1,5 +1,8 @@
 # Zolai Proficiency Curriculum (A1-B2)
 
+> **Language:** Tedim Chin (ISO 639-3: ctd) — ZVS Standard Dialect  
+> **Last updated: 2026-04-20**
+
 This curriculum categorizes Zolai (Tedim) structures and vocabulary into proficiency levels to guide AI tutoring and dataset preparation.
 
 ---
@@ -51,7 +54,7 @@ This curriculum categorizes Zolai (Tedim) structures and vocabulary into profici
   - **Causatives:** Suffix `-sak` (to make/cause).
   - **Passives:** Prefix `ki-` (reciprocal/passive).
   - **Nominalization:** Stem II + `-na` (e.g., `Itna` from `It`).
-  - **Advanced Conditionals:** `Nong pai kei leh` (Unless you come).
+  - **Advanced Conditionals:** `Nong pai kei a leh` (Unless you come) — ZVS rule: `kei` not `lo` for conditionals.
   - **Participles:** Suffix `-sa` (Completed adjectival relative).
 - **Core Vocabulary:** Theological terms (`Tatkhiatna`, `Lungkhut`), clan logic (`Beh`), and formal administrative words.
 - **State:** High-register SOV with explicit agentive markers (`in`).
@@ -69,3 +72,5 @@ This curriculum categorizes Zolai (Tedim) structures and vocabulary into profici
 
 ---
 *Mapping maintained by Zolai AI Project.*
+
+> **Last updated: 2026-04-20** — ISO code header added; B2 conditional example corrected to `nong pai kei a leh` per ZVS rule.

@@ -250,9 +250,9 @@ From *Zolai Khanggui* (lines 622–680): Around AD 1420, the Zomi ancestors sett
 - [zogam.org — Early History & Migration](http://www.zogam.org/early-history-migration)
 - `resources/Zolai_Khanggui_AD_1899_AD_2013.md`
 - `resources/Gentehna_Tuamtuam_le_A_Deihnate.md`
-- `wiki/culture/zolai_culture.md`
-- `wiki/culture/zomi_culture_and_values.md`
-- `wiki/culture/khuado.md`
+- `wiki/tualture/zolai_tualture.md`
+- `wiki/tualture/zomi_tualture_and_values.md`
+- `wiki/tualture/khuado.md`
 
 ---
 ## [traditional_customs.md]
@@ -459,7 +459,7 @@ Food in Zomi culture is deeply social. Sharing food (`an ki ne`) is an act of co
 
 ## 7. Khuado — Harvest Festival
 
-See `wiki/culture/khuado.md` for full details.
+See `wiki/tualture/khuado.md` for full details.
 
 **Summary:** Khuado is the annual harvest thanksgiving festival. Key elements:
 - `Khuado La` — harvest songs sung communally
@@ -471,8 +471,8 @@ See `wiki/culture/khuado.md` for full details.
 ---
 
 ## Sources
-- `wiki/culture/zomi_comprehensive.md`
-- `wiki/culture/khuado.md`
+- `wiki/tualture/zomi_comprehensive.md`
+- `wiki/tualture/khuado.md`
 - `resources/Zolai_Khanggui_AD_1899_AD_2013.md`
 - `resources/Gentehna_Tuamtuam_le_A_Deihnate.md`
 - [zogam.org — Who Are the Zomi?](http://zogam.org/who-we-are/)
@@ -1073,9 +1073,9 @@ Negation follows the verb using `kei` or `lo`:
 - `Ka pai lo hi.` — I didn't go (emphatic refusal/inability)
 - `A dam kei.` — He/she is not well.
 
-**Critical rule:** Negative conditionals use `kei`, NEVER `lo leh`:
+**Critical rule:** Negative conditionals use `kei`, NEVER `kei a leh`:
 - ✓ `Nong pai kei a leh...` — If you don't go...
-- ✗ `Nong pai lo leh...` — WRONG
+- ✗ `Nong pai kei a leh...` — WRONG
 
 ### Directional Verb Particles
 These modify verbs to specify movement direction:
@@ -1254,9 +1254,9 @@ Three distinct uses:
 - [Wikipedia — Tedim language](https://en.wikipedia.org/wiki/Tedim_language)
 - Otsuka, Kosei (2014). *Tiddim Chin*. ILCAA, Tokyo University of Foreign Studies.
 - `resources/Zolai_Khanggui_AD_1899_AD_2013.md`
-- `wiki/grammar/phonology.md`
-- `wiki/grammar/sentence_structures.md`
-- `wiki/grammar/morphemics.md`
+- `wiki/ggammar/phonology.md`
+- `wiki/ggammar/sentence_structures.md`
+- `wiki/ggammar/morphemics.md`
 - ZVS 2018 Bible corpus (2.8M sentences)
 
 ---
@@ -1470,7 +1470,7 @@ This document maps authoritative Zolai sentence structures from the Bible to Eng
 ### 1. Subordinate Reasoning
 - **Pattern:** `... bang hang hiam cih leh ...`
 - **English:** ... because ... / ... for ....
-- **Example:** `... bang hang hiam cih leh Pasian in amah it hi.`
+- **Example:** `... bang hang hiam cih leh Pasian in amah hong it hi.`
 - **Nuance:** This is the standard high-register way to start an explanation in Romans.
 
 ### 2. Complex Conditionals & Contrast

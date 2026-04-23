@@ -208,7 +208,7 @@
 | `tua` | 15 |
 | `amah` | 15 |
 | `ding` | 13 |
-| `abram` | 12 |
+| `abgam` | 12 |
 | `ciangin` | 12 |
 | `nang` | 10 |
 | `hong` | 9 |

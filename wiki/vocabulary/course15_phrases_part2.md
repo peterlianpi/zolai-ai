@@ -153,8 +153,8 @@
 
 ## Sentence Patterns
 
-- `Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuailo leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi.` = When the group stops, if they need to stand on a picture, they should tell the teacher whether that picture is pleasing or not pleasing, and why.
-  - e.g. `Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuailo leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi.`
+- `Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuaikei a leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi.` = When the group stops, if they need to stand on a picture, they should tell the teacher whether that picture is pleasing or not pleasing, and why.
+  - e.g. `Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuaikei a leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi.`
 - `Syanu/pa in [number] a cihteh, sangnaupangte in mi [number] ciang belpawl khat in ding` = If the mother/father says [number], the students play to form a group of [number] people.
   - e.g. `syanu/pa in 4 a cihteh, sangnaupangte in mi 4 ciang belpawl khat in ding`
 - `syanu/pa in nasimna/puanakkilhnate kopkhatta pia leh tua khitteh sepding hilna nei` = When the mother/father gives the exercise/instruction together, those things have instructions on what to do.

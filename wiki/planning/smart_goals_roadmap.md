@@ -1,14 +1,14 @@
 # Zolai Project — SMART Goals & Roadmap
-> Last updated: 2026-04-18 | Status: Active
+> Last updated: 2026-04-20 | Status: Active
 
 ---
 
 ## Goal 1 — Train a Working Zolai LLM
-**"Fine-tune Qwen2.5-7B on Zolai corpus using CPT→SFT→ORPO by 2026-06-30."**
+**"Fine-tune Qwen2.5-0.5B (active) and Qwen2.5-3B (stable) on Zolai corpus using CPT→SFT→ORPO by 2026-06-30."**
 
 | Criterion | Definition |
 |---|---|
-| Specific | Qwen2.5-7B-Instruct, QLoRA r=16, Unsloth, Kaggle T4 |
+| Specific | Qwen2.5-0.5B (LoRA FP16, r=16, T4x2) — active training at chunks 300k–800k of 5.1M; Qwen2.5-3B (QLoRA NF4, r=8) — stable adapter, paused at 100k |
 | Measurable | CPT val loss < 2.0 → SFT val loss < 1.5 → ZVS compliance > 95% on 100-sentence test set |
 | Achievable | UrduLLaMA (arXiv:2502.16961) did it with comparable data |
 | Relevant | Core mission — Zolai AI Second Brain |

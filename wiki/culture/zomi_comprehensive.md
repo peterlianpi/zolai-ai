@@ -244,6 +244,6 @@ From *Zolai Khanggui* (lines 622–680): Around AD 1420, the Zomi ancestors sett
 - [zogam.org — Early History & Migration](http://www.zogam.org/early-history-migration)
 - `resources/Zolai_Khanggui_AD_1899_AD_2013.md`
 - `resources/Gentehna_Tuamtuam_le_A_Deihnate.md`
-- `wiki/culture/zolai_culture.md`
-- `wiki/culture/zomi_culture_and_values.md`
-- `wiki/culture/khuado.md`
+- `wiki/tualture/zolai_tualture.md`
+- `wiki/tualture/zomi_tualture_and_values.md`
+- `wiki/tualture/khuado.md`

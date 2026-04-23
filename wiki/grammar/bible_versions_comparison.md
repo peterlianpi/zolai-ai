@@ -60,10 +60,10 @@ The ZVS (Zolai Verbal Standard) is based on Tedim2010. When in doubt, use Tedim2
 ## What Stays the Same (Core Grammar)
 
 These forms are identical across all 3 versions:
-- `Pasian` = God (all versions — never `pathian`)
-- `gam` = land/country (all versions — never `ram`)
-- `topa` = Lord (all versions — never `bawipa`)
-- `tua` = that/then (all versions — never `cu/cun`)
+- `Pasian` = God (all versions — never `pasian`)
+- `gam` = land/country (all versions — never `gam`)
+- `topa` = Lord (all versions — never `topa`)
+- `tua` = that/then (all versions — never `tua/tuan`)
 - SOV word order
 - `hi` = declarative marker
 - `hiam` = question marker
@@ -80,4 +80,4 @@ These forms are identical across all 3 versions:
 When writing Zolai:
 1. Use **Tedim2010 (ZVS)** forms: `Jesuh`, `Khrih`, `dingin`, `laitakin`
 2. Both TDB77 and Tedim2010 are valid for reading/recognition
-3. Never use: `pathian`, `ram`, `fapa`, `bawipa`, `cu/cun` (these are other dialects, not version differences)
+3. Never use: `pasian`, `gam`, `tapa`, `topa`, `tua/tuan` (these are other dialects, not version differences)

@@ -109,7 +109,7 @@
 - `Hih pau pen "X" kici-in, Y cih tengah kilim zat phadiak ahi hi.` = This language is called "X", and it is mutually understood in Y.
   - e.g. `Hih pau pen "Zopau" kici-in, Tedim, Tonzang, Cikha, Kalay (+ Tahan) leh Tamu cih tengah kilim zat phadiak ahi hi.`
 - `Tuate pen, X, Y, Z cihte ahi hi.` = Those are X, Y, Z, etc.
-  - e.g. `Tuate pen, Zotung, Zophei, Lai, Senthang, Mi-e, Thor, Mara (Lakher/Miram) leh Lautu cihte ahi hi.`
+  - e.g. `tuate pen, zotung, zophei, lai, senthang, mi-e, thor, mara (lakher/migam) leh lautu cihte ahi hi.`
 - `X ci aa kithei sung pan pau tuamtuam (akl) awsuah awkaih tuamtuamte sungah, nam Y om cih theih ahi hi.` = Within the various pronunciations and tones known as X language, it is known that there are Y types.
   - e.g. `Falam/laizo pau ci aa kithei sung pan pau tuamtuam (akl) awsuah awkaih tuamtuamte sungah, nam 9 (Hlawnceu nam 2 in sim lehang nam 10) om cih theih ahi hi.`
 - `X cihte, Y cihte pen, sawt nailo aa khangtom mahmah lai, tangthu tawm mahmah lai cih theih ahi hi.` = It is known that X and Y are relatively recent and have short histories.

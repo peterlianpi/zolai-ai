@@ -256,11 +256,11 @@ B: Pasian in eite hong it a...
 **Old Tedim forms (1932 Bible):**
 | Old form | Modern ZVS | Meaning |
 |---|---|---|
-| `pathian` | `Pasian` | God (NEVER use old form) |
-| `ram` | `gam` | land/country |
-| `fapa` | `tapa` | son |
-| `bawipa` | `topa` | lord |
-| `cu/cun` | `tua` | that |
+| `pasian` | `Pasian` | God (NEVER use old form) |
+| `gam` | `gam` | land/country |
+| `tapa` | `tapa` | son |
+| `topa` | `topa` | lord |
+| `tua/tuan` | `tua` | that |
 
 **Note:** These are listed for recognition only — NEVER use in production.
 
@@ -306,8 +306,8 @@ Kua in...khen theih ding hiam?
 |---|---|---|
 | God loves us | `Pasian in kei te a lungdam hi` | `Pasian in eite hong it hi` |
 | We went | `Kei te pai hi` | `I pai hi` |
-| If you don't go | `Na pai lo leh` | `Na pai kei a leh` |
-| God is our Father | `Pathian hi eite Pa a hi` | `Pasian hi eite Pa a hi` |
+| If you don't go | `Na pai kei a leh` | `Na pai kei a leh` |
+| God is our Father | `pasian hi eite pa a hi` | `Pasian hi eite Pa a hi` |
 
 ---
 

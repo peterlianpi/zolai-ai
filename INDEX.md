@@ -6,7 +6,7 @@
 |-----------|---------|-----------|------|
 | **zolai/** | Main Python package | cli/, api/, utils/, trainer/ | - |
 | **scripts/** | All scripts (127 files) | crawlers/, training/, maintenance/ | - |
-| **data/** | Datasets (gitignored) | See [HuggingFace](https://huggingface.co/zolai) | local only |
+| **data/** | Datasets (gitignored) | See [HuggingFace](https://huggingface.co/peterpausianlian) | local only |
 | **docs/** | Documentation (50 files) | guides/, logs/, prompts/ | - |
 | **wiki/** | Knowledge base | grammar/, curriculum/, vocabulary/ | - |
 | **website/** | Next.js web app | zolai-project/, prisma/ | - |

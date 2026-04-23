@@ -118,7 +118,7 @@
 
 ### Negative conditional: `kei a leh` / `kei leh`
 - `Na pai kei a leh` = if you don't go
-- NEVER use `lo leh` for negative conditional
+- NEVER use `kei a leh` for negative conditional
 
 ---
 
@@ -215,7 +215,7 @@
 **Critical rules:**
 - `kei te` is NOT "we" — 0 corpus occurrences as subject
 - `i` = subject prefix (we), NEVER add `uh` with `i`
-- `amaute pai uh hi` = they went (NOT `amaute i pai uh hi`)
+- `amaute pai uh hi` = they went (NOT `amaute i pai hi`)
 - `eite` = emphatic/object we/us | `kote` = exclusive we | `i` = subject prefix
 - No gender distinction: `amah` = he/she/it
 
@@ -240,17 +240,17 @@
 | `mateng` | 161 | until | `Ka hong pai mateng` = until I come |
 | `nungah` | 100 | behind/after | `Ka nung hong zui` = follow after me |
 
-> Full reference: `wiki/grammar/particles_postpositions_corpus.md`
+> Full reference: `wiki/ggammar/particles_postpositions_corpus.md`
 
 | Wrong (reject) | Correct (ZVS Tedim) |
 |---|---|
-| `pathian` | `Pasian` |
-| `ram` | `gam` |
-| `fapa` | `tapa` |
-| `bawipa` | `topa` / `kumpipa` |
-| `siangpahrang` | `kumpipa` |
-| `cu` / `cun` | `tua` |
-| `lo leh` (conditional) | `kei a leh` |
+| `pasian` | `Pasian` |
+| `gam` | `gam` |
+| `tapa` | `tapa` |
+| `topa` | `topa` / `kumpipa` |
+| `???` | `kumpipa` |
+| `tua` / `tuan` | `tua` |
+| `kei a leh` (conditional) | `kei a leh` |
 | `I pai uh hi` | `I pai hi` (never uh with i) |
 | `kei te` (as "we") | `i` / `eite` |
 
@@ -432,7 +432,7 @@ A pai ding khin hi.   He was going to go (but didn't). (future + experiential)
 
 **⚠️ Critical:** Negative conditionals use `kei`, NEVER `kei leh`:
 - ✓ `Nong pai kei a leh` — If you don't go
-- ✗ `Nong pai lo leh` — WRONG
+- ✗ `Nong pai kei a leh` — WRONG
 
 ---
 
@@ -677,12 +677,12 @@ These combine with verbs to specify movement direction precisely:
 ---
 
 ## Sources
-- `wiki/grammar/particle_differentiations.md` — Khanggui lines 456–481
-- `wiki/grammar/tense_markers.md`
-- `wiki/grammar/sentence_structures.md`
-- `wiki/grammar/phonology.md`
-- `wiki/grammar/morphemics.md`
-- `wiki/grammar/verb_stems.md`
+- `wiki/ggammar/particle_differentiations.md` — Khanggui lines 456–481
+- `wiki/ggammar/tense_markers.md`
+- `wiki/ggammar/sentence_structures.md`
+- `wiki/ggammar/phonology.md`
+- `wiki/ggammar/morphemics.md`
+- `wiki/ggammar/verb_stems.md`
 - ZVS 2018 corpus (2.8M sentences)
 - [Wikipedia — Tedim language](https://en.wikipedia.org/wiki/Tedim_language)
 
@@ -1201,7 +1201,7 @@ Pattern: **[Emphatic pronoun] + [agreement marker] + hi hi**
 **They vs We — definitive:**
 - They go = `Amaute pai uh hi` (amaute + verb + uh)
 - We go = `I pai hi` (i + verb, NO uh)
-- `Amaute i pai uh hi` = ❌ WRONG (mixes 1pl prefix `i` with 3pl subject `amaute`)
+- `Amaute i pai hi` = ❌ WRONG (mixes 1pl prefix `i` with 3pl subject `amaute`)
 
 ---
 ## [verbs_corpus.md]
@@ -1514,9 +1514,9 @@ Zolai (Tedim) uses sentence-final particles and verb suffixes to indicate tense,
 - **Future/intent:** Use `kei`, NOT `lo`
   - ✅ `Ka pai kei ding hi.` — I will not go.
   - ❌ `Ka pai lo ding.` — **Unnatural in pure Tedim**
-- **Negative conditional:** Use `kei...leh`, NEVER `lo leh`
+- **Negative conditional:** Use `kei...leh`, NEVER `kei a leh`
   - ✅ `Nong pai kei a leh...` — If you don't come...
-  - ❌ `Na pai lo leh...` — **FORBIDDEN in ZVS**
+  - ❌ `Na pai kei a leh...` — **FORBIDDEN in ZVS**
 
 ---
 
@@ -2474,7 +2474,7 @@ When the relative clause is more descriptive, the verb often stays in its primar
 
 **CRITICAL RULE:** For 2nd person subjects (`Nong`), use `kei` instead of `lo`. 
 - **Correct (2nd Person):** `Nong pai kei a leh...` or `Nong pai kei leh...` (If you don't come / Unless you come).
-- **Wrong:** `Nong pai lo leh...`
+- **Wrong:** `Nong pai kei a leh...`
 
 **Third Person / General Negation:**
 - **Possible:** `Hong pai lo hi leh...` (If he/she does not come).
@@ -2947,7 +2947,7 @@ a bawl uh hi  = they do/did
 
 | English | Correct Zolai | Wrong |
 |---|---|---|
-| They go | `Amaute pai uh hi` | `Amaute i pai uh hi` ❌ |
+| They go | `Amaute pai uh hi` | `Amaute i pai hi` ❌ |
 | We go | `I pai hi` | `I pai uh hi` ❌ |
 | They said | `Amaute ci uh hi` | — |
 | We said | `Kote ci uh hi` / `I gen hi` | — |
@@ -3079,7 +3079,7 @@ a bawl uh hi  = they do/did
 - `Tangvalte' khialhna lian mahmah hi.` = The sin of the young men was very great.
 
 ### How much more: `a lian zaw`
-- `Eite in vantungmite thu i khen ding thei lo na hi uh hiam? Tua ahih ciangin leitung thu...` = Do you not know we will judge angels? How much more things of this life!
+- `Eite in vantungmite thu i khen ding thei lo na hi hiam? Tua ahih ciangin leitung thu...` = Do you not know we will judge angels? How much more things of this life!
 
 ---
 
@@ -3266,9 +3266,9 @@ Wherever you go, go)
 ---
 
 ## Sources
-- `wiki/grammar/particle_differentiations.md`
-- `wiki/grammar/sentence_structures.md`
-- `wiki/culture/zomi_comprehensive.md`
+- `wiki/ggammar/particle_differentiations.md`
+- `wiki/ggammar/sentence_structures.md`
+- `wiki/tualture/zomi_comprehensive.md`
 - ZVS 2018 corpus, Zolai Sinna Bu, Zomidaily corpus
 
 ---
@@ -4057,7 +4057,7 @@ Na pai kei a leh...      = If you don't go...
 Na hoih gamta leh...     = If you do good...
 A kip leh, thaman a ngah ding hi. = If it stands, he will receive reward.
 ```
-**Rule:** NEVER `lo leh` for negative conditional — always `kei a leh`
+**Rule:** NEVER `kei a leh` for negative conditional — always `kei a leh`
 
 ### Cause/Because: `ahih manin` / `bang hang`
 ```

@@ -375,7 +375,7 @@
 | `kiangah` | 13 |
 | `pai` | 13 |
 | `topa` | 12 |
-| `joram` | 12 |
+| `jogam` | 12 |
 | `ahih` | 11 |
 | `tawh` | 11 |
 | `thu` | 10 |

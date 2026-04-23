@@ -1,6 +1,6 @@
 # Web Development & DevOps Memory
 > Lessons learned, patterns, and decisions from building the Zolai AI web platform
-> Last updated: 2026-04-17
+> Last updated: 2026-04-20
 
 ---
 
@@ -53,7 +53,7 @@ router.get("/", handler);
 ### Client vs Server
 - `(protected)` routes require auth — never link to them from public pages
 - Public routes: `/`, `/about`, `/news`, `/posts`, `/search`, `/resources`, `/community`, `/contact`, `/getting-started`, `/help`
-- Protected routes: `/dictionary`, `/bible`, `/wiki`, `/grammar`, `/forum`, `/chat`, `/tutor`, `/learn`, `/translate`, `/audio`
+- Protected routes: `/dictionary`, `/bible`, `/wiki`, `/ggammar`, `/forum`, `/chat`, `/tutor`, `/learn`, `/translate`, `/audio`
 - Menu items must only use public routes unless the user is authenticated
 
 ---
@@ -150,7 +150,7 @@ ssh zolai "sudo systemctl restart zolai && sleep 5 && sudo systemctl is-active z
 - Always sync `.env.production` separately (excluded from rsync)
 - Export `DATABASE_URL` before `prisma migrate deploy` — Prisma config file requires it explicitly
 - Health check against `/` not `/api/cron/health` (cron endpoint requires `CRON_SECRET`)
-- Telegram notifications via `curl` to Bot API at each step
+- Telegram notifications via `tuarl` to Bot API at each step
 
 ### GitHub Actions
 - Single `deploy.yml` — lint+build in one `ci` job, deploy only on `master`/`main`
@@ -164,7 +164,7 @@ Never commit:
 - `.env`, `.env.*` (except `.env.example`)
 - `ENV_KEYS_VALUES.*` — sensitive key exports
 - `DEPLOYMENT_*.md`, `PRODUCTION_*.md` — local docs
-- `.claude`, `.cursor`, `.kiro`, `.agents`, `.mcp-servers` — tool configs
+- `.claude`, `.tuarsor`, `.kiro`, `.agents`, `.mcp-servers` — tool configs
 - `tsconfig.tsbuildinfo`, `playwright-report`, `test-results`
 
 ---
@@ -254,7 +254,7 @@ All public pages should:
 1. **Prisma type import path** — `@/lib/generated/prisma/models` doesn't re-export types; use `Prisma.*` namespace from `@/lib/generated/prisma`
 2. **Hono client dynamic indexing** — `client.api.foo[":id"]` only works if the route is registered in the Hono router with that exact param name
 3. **API response union type** — Hono returns `{ success: false, error } | { success: true, data }` — must handle both or cast through `unknown`
-4. **Missing routes** — components used `client.api.auth.*`, `client.api.chat.sessions`, `client.api.telegram["link-token"]` etc. that didn't exist in the Hono router
+4. **Missing routes** — components used `client.api.auth.*`, `client.api.chat.sessions`, `client.api.teleggam["link-token"]` etc. that didn't exist in the Hono router
 
 ### Routes Added to Fix Type Errors
 | Route | Added to |
@@ -263,17 +263,17 @@ All public pages should:
 | `GET /chat/sessions/:id` | chatRouter |
 | `DELETE /chat/sessions/:id` | chatRouter |
 | `GET /chat/models/:provider` | chatRouter |
-| `POST /telegram/link-token` | `features/telegram/api/index.ts` |
-| `POST /telegram/unlink` | telegram router |
+| `post /teleggam/link-token` | `features/teleggam/api/index.ts` |
+| `post /teleggam/unlink` | telegram router |
 | `GET/POST /admin/devops` | `features/admin/server/router.ts` (devopsRouter) |
-| `GET/POST /security/lockout/*` | `features/security/api/index.ts` (via lockoutRouter) |
+| `get/post /setuarity/lockout/*` | `features/setuarity/api/index.ts` (via lockoutRouter) |
 
 ### Hooks Fixed
 | Hook | Problem | Fix |
 |---|---|---|
-| `useDevices` | Used `client.api.auth.devices` (wrong path) | Changed to `client.api.security["device-sessions"]` |
-| `useSecurityAlerts` | Used `client.api.auth.alerts` | Changed to `client.api.security.alerts` |
-| `AccountLockoutStatus` | Used `client.api.auth.lockout` | Changed to `client.api.security.lockout` |
+| `useDevices` | Used `client.api.auth.devices` (wrong path) | Changed to `client.api.setuarity["device-sessions"]` |
+| `usesetuarityalerts` | Used `client.api.auth.alerts` | Changed to `client.api.setuarity.alerts` |
+| `AccountLockoutStatus` | Used `client.api.auth.lockout` | Changed to `client.api.setuarity.lockout` |
 | `useDictSearch` | `res.json()` returned union, didn't match generic | Added success check + explicit cast |
 | `useAchievements` | Missing `userAchievements` and `isUnlocked` | Added both to hook return |
 | `useLessonPlans` | `level` typed as `string` but API expects CEFR enum | Cast to `"A1" \| "A2" \| ...` |
@@ -289,17 +289,17 @@ All public pages should:
 | `admin-forms-page` | Used `forms.submissions.$get()` (wrong route) | Fixed to `forms.$get({ query: {} })` |
 | `inbound-email` | Used `client["inbound-email"]` (wrong) | Fixed to `client.api["inbound-email"]` |
 | `support-form` | Used `client.support` (wrong) | Fixed to `client.api.support` |
-| `telegram-settings` | `telegramEnabled` not in preferences type | Added to `updateUserPreferences` signature |
+| `teleggam-settings` | `teleggamenabled` not in preferences type | Added to `updateUserPreferences` signature |
 | `chat-interface` | `sessions` not on chatRouter | Added sessions routes to chatRouter |
-| `loss-curve` | Recharts `formatter` type mismatch | Used `typeof v === 'number'` guard |
+| `loss-tuarve` | Recharts `formatter` type mismatch | Used `typeof v === 'number'` guard |
 
 ### Scripts Fixed
 | Script | Fix |
 |---|---|
 | `audit-multi-agent.ts` | Typed `checks` array explicitly to avoid `string` inference |
-| `seed-dictionary.ts` | Used `Prisma.VocabWordCreateManyInput` instead of complex `Parameters<>` type |
+| `seed-dictionary.ts` | Used `Prisma.VocabWordCreateManyInput` instead of complex `pagameters<>` type |
 | `seed-lessons.ts` | Cast `type` to `LessonType` |
-| `seed-curriculum-content.ts` | Fixed duplicate object key (`zolai` appeared twice) |
+| `seed-tuarritualum-content.ts` | Fixed duplicate object key (`zolai` appeared twice) |
 | `quick-test.ts` | Added `!` non-null assertion for `GEMINI_API_KEY` |
 
 ### Test Files Fixed
@@ -311,7 +311,7 @@ All public pages should:
 | `admin-functionality.spec.ts` | Fixed `toHaveCount.toBeGreaterThan(0)` → `toHaveCount(1)` |
 | `authentication.spec.ts` | Fixed `page.blur(selector)` → `page.locator(selector).blur()` |
 | `performance.spec.ts` | Fixed `response.timing` → cast through `unknown` |
-| `comment-spam-score.test.ts` | Exported `calculateSpamScore` from router |
+| `comment-spam-score.test.ts` | Exported `caltualatespamscore` from router |
 
 ---
 
@@ -331,8 +331,8 @@ All public pages should:
 Seeded 7 rich posts from wiki/memory:
 - `who-are-the-zomi-people` — history, Ciimnuai, diaspora
 - `zolai-language-history` — ISO code, ZVS standard, development timeline
-- `zolai-grammar-basics` — SOV, pronouns, negation, verb endings
-- `zomi-culture-traditions` — Khuado, oral tradition, Christianity
+- `zolai-ggammar-basics` — SOV, pronouns, negation, verb endings
+- `zomi-tualture-traditions` — Khuado, oral tradition, Christianity
 - `zolai-ai-dataset-milestone` (NEWS) — 2M sentences, 8.8 GB corpus
 - `tedim-bible-now-online` (NEWS) — 5 versions, 31,102 verses
 - `zolai-dictionary-launch` (NEWS) — 24K words, sources
@@ -358,7 +358,7 @@ git rm --cached check-deployment.* deploy-now.sh verify-production.sh
 ### .gitignore Rules Added
 - `.env.*` except `.env.example`
 - All `DEPLOYMENT_*.md`, `PRODUCTION_*.md` etc.
-- Tool configs: `.claude`, `.cursor`, `.kiro`, `.agents`, `.mcp-servers`
+- Tool configs: `.claude`, `.tuarsor`, `.kiro`, `.agents`, `.mcp-servers`
 - `playwright-report`, `test-results`, `tsconfig.tsbuildinfo`
 - `ENV_KEYS_VALUES.*`, `*.csv`
 

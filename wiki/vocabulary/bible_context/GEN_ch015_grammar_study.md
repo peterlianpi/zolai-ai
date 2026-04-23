@@ -215,7 +215,7 @@
 | `topa` | 9 |
 | `hong` | 9 |
 | `khat` | 9 |
-| `abram` | 8 |
+| `abgam` | 8 |
 | `tungah` | 8 |
 | `hih` | 6 |
 | `ahih` | 6 |

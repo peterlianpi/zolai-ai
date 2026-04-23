@@ -173,7 +173,7 @@ A pai ding khin hi.   He was going to go (but didn't). (future + experiential)
 
 **⚠️ Critical:** Negative conditionals use `kei`, NEVER `kei leh`:
 - ✓ `Nong pai kei a leh` — If you don't go
-- ✗ `Nong pai lo leh` — WRONG
+- ✗ `Nong pai kei a leh` — WRONG
 
 ---
 
@@ -418,11 +418,11 @@ These combine with verbs to specify movement direction precisely:
 ---
 
 ## Sources
-- `wiki/grammar/particle_differentiations.md` — Khanggui lines 456–481
-- `wiki/grammar/tense_markers.md`
-- `wiki/grammar/sentence_structures.md`
-- `wiki/grammar/phonology.md`
-- `wiki/grammar/morphemics.md`
-- `wiki/grammar/verb_stems.md`
+- `wiki/ggammar/particle_differentiations.md` — Khanggui lines 456–481
+- `wiki/ggammar/tense_markers.md`
+- `wiki/ggammar/sentence_structures.md`
+- `wiki/ggammar/phonology.md`
+- `wiki/ggammar/morphemics.md`
+- `wiki/ggammar/verb_stems.md`
 - ZVS 2018 corpus (2.8M sentences)
 - [Wikipedia — Tedim language](https://en.wikipedia.org/wiki/Tedim_language)

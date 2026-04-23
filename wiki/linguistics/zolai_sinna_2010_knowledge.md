@@ -13,7 +13,7 @@ Zolai Sinna, ZAUS 2010. Full text: resources/zolai_sinna_2010.md
 ## Concept: `c` Restrictions
 **Rule:** `c` cannot combine with `a`, `e`, `o`, `aw`.
 **Source:** Sinna 1 — *"C le a,e,o,aw te kigawm ngeilo hi"*
-**Valid:** ci, cu, cih, cim, cin, cing, ciang
+**Valid:** ci, tua, cih, cim, cin, cing, ciang
 **Invalid:** ca, ce, co, caw, cam, cen, com, cawn
 
 ## Concept: `o` Pronunciation

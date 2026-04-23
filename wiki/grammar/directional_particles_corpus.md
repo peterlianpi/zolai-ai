@@ -2,6 +2,30 @@
 
 > Sources: Bible (TDB77+TBR17+Tedim2010) + master_source_v1.jsonl + wiki/grammar/*.md
 
+---
+
+## ⚠️ Critical Rule: `hong` with 3rd-Person Subject Acting on Speaker
+
+When a **3rd-person subject** performs an action **directed toward the speaker**, `hong` is **mandatory**.
+The verb prefix must be **3rd-person** (`a`), NOT 1st-person (`ka`).
+
+| ❌ Wrong | ✅ Correct | Meaning |
+|---|---|---|
+| `Pasian in kei hong it hi.` | `Pasian in kei hong it hi.` | God loves me |
+| `Pasian in kei hong pia hi.` | `Pasian in kei hong pia hi.` | God gives to me |
+| `Amah in ka sawl hi.` | `Amah in kei hong sawl hi.` | He sent me |
+| `Ka Pa in ka hong it hi.` | `Ka Pa in kei hong it hi.` | My Father loves me |
+
+**Rule:** `[3rd-person subject] in [object] hong [verb] hi`
+- `hong` = directional toward speaker — replaces the need for `ka` prefix
+- Bible: `Ka Pa in kei hong it hi.` (John 10:17) — My Father loves me
+- Bible: `Pasian in eite hong it hi.` (1 John 4:10) — God loves us
+
+**Contrast — I love God (speaker is agent, not patient):**
+- ✅ `Pasian ka it hi.` — I love God (ka = I am the agent, Pasian = object, no `in` on object, no `hong`)
+
+---
+
 ## come (toward)
 
 - `[TDB77]` *And Pathrusim, and Casluhim, (of whom came the Philistines,) and Capht* → **Pathrus mite, Kasluh mite (Filistia mite’ hong pian’na), leh Kaftor mi**

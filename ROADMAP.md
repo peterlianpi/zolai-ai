@@ -4,7 +4,7 @@
 
 ---
 
-## Phase 1 — Foundation (Current)
+## Phase 1 — Foundation (Complete ✅)
 
 - [x] Core Python package (`zolai/`) with CLI
 - [x] Web crawlers for ZomiDaily, Tongsan, RVAsia, TongDot
@@ -12,27 +12,28 @@
 - [x] Unified dictionary (152k entries) with FTS5 SQLite
 - [x] Parallel ZO↔EN translation pairs (105k+)
 - [x] Instruction synthesis pipeline (v6)
-- [x] Training data snapshots (v11 base/cefr/tagged)
+- [x] Training data (v3, ~5.1M deduplicated sentences)
 - [x] ZVS grammar rules and wiki knowledge base
-- [x] Agent definitions (14 specialized agents)
+- [x] Agent definitions (34 specialized agents)
 - [x] Next.js dictionary web app
 
-## Phase 2 — Open Source Release
+## Phase 2 — Open Source Release (In Progress 🔄)
 
-- [ ] Clean public repository (no secrets, no large binaries)
-- [ ] Publish datasets to Hugging Face Hub
-  - `zolai/tedim-parallel-pairs` — 105k ZO↔EN pairs
-  - `zolai/tedim-instructions` — instruction-tuning set
-  - `zolai/tedim-dictionary` — unified 152k-entry dictionary
-  - `zolai/tedim-bible-corpus` — parallel Bible corpus
-- [ ] Publish base fine-tuned model to Hugging Face
-- [ ] Contributor guide and `CONTRIBUTING.md`
+- [x] Clean public repository (no secrets, no large binaries)
+- [x] Publish datasets to Hugging Face Hub
+  - `peterpausianlian/zolai-tedim-v3` — ~5.1M Zolai sentences
+  - `peterpausianlian/zolai-llm-training-dataset` — LLM train/val/test splits
+  - `peterpausianlian/zolai-adapter-qwen25-3b` — LoRA adapter checkpoints
+- [x] Publish fine-tuned adapters to Hugging Face
+  - `peterpausianlian/zolai-qwen2.5-3b-lora` — stable QLoRA adapter
+  - `peterpausianlian/zolai-qwen-0.5b` — active LoRA FP16 training
+- [x] CI/CD pipeline (GitHub Actions: lint, test, build)
+- [ ] Contributor guide and `CONTRIBUTING.md` (in progress)
 - [ ] Docker setup for local development
-- [ ] CI/CD pipeline (GitHub Actions: lint, test, build)
 
 ## Phase 3 — Model & API
 
-- [ ] Fine-tune Qwen2.5-7B on full Tedim dataset (upgrade from current 3B)
+- [ ] Fine-tune Qwen2.5-7B on full Tedim dataset (upgrade from current 0.5B/3B)
 - [ ] Evaluate with BLEU/chrF on held-out parallel pairs
 - [ ] Public REST API for translation and dictionary lookup
 - [ ] Ollama-compatible GGUF model release
@@ -62,17 +63,18 @@
 
 ## Data Release Plan
 
-Large datasets are not stored in this repository. They will be released via:
+Large datasets are not stored in this repository. They are released via:
 
-| Dataset | Target |
-|---------|--------|
-| Parallel pairs (105k) | Hugging Face Hub |
-| Dictionary (152k entries) | Hugging Face Hub + API |
-| Training snapshots (v11) | Hugging Face Hub |
-| Bible corpus | Hugging Face Hub |
-| Fine-tuned model weights | Hugging Face Hub |
+| Dataset | Status | Location |
+|---------|--------|----------|
+| Parallel pairs (105k+) | ✅ Published | Hugging Face Hub |
+| Dictionary (152k entries) | ✅ Published | Hugging Face Hub + API |
+| Training set v3 (~5.1M) | ✅ Published | Hugging Face Hub |
+| Bible corpus | ✅ Published | Hugging Face Hub |
+| zolai-qwen2.5-3b-lora adapter | ✅ Published | Hugging Face Hub |
+| zolai-qwen-0.5b adapter | 🔄 In training | Hugging Face Hub |
 
-See [Hugging Face — zolai](https://huggingface.co/zolai) *(coming soon)*.
+See [Hugging Face — peterpausianlian](https://huggingface.co/peterpausianlian).
 
 ---
 

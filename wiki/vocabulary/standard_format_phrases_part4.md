@@ -63,8 +63,8 @@
   - e.g. `Gup hauluate kimudah hi.`
 - `X pen Zopau Tedim awsuah siksanin lakna bek hi aa “Ng” aw a zangte aa zongh Zopau/Zolai mah bel hiveve hi` = These are just examples of Tedim pronunciation using the sound 'Ng', but they are truly Zopau/Zolai speakers
   - e.g. `Hihte pen Zopau Tedim awsuah siksanin lakna bek hi aa “Ng” aw a zangte aa zongh Zopau/Zolai mah bel hiveve hi.`
-- `Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak uh ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi` = Some people, enjoying the Tedim sound too much, change all 'Ng' sounds to 'G' sounds, so we want to point out that this is a major difference in pronunciation
-  - e.g. `Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak uh ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi.`
+- `Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi` = Some people, enjoying the Tedim sound too much, change all 'Ng' sounds to 'G' sounds, so we want to point out that this is a major difference in pronunciation
+  - e.g. `Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi.`
 - `( ’ ) pen laimal tomlaakna ah kilim zat mahmah hi` = The apostrophe (') is very appropriate to use in word division
   - e.g. `( ’ ) pen laimal tomlaakna ah kilim zat mahmah hi.`
 - `Paulai tawh i gelh ciang, pau awsuah bangin i gelh ciang kilim zat diak hi` = It is very appropriate to use when writing alongside words, when writing as it sounds

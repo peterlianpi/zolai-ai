@@ -1557,7 +1557,7 @@ The current standard (Zokam) focuses on consistency in vowel combinations and su
 
 ### Avoid Non-Tedim Styles
 It is critical to avoid phrases and words from neighboring dialects (Hakha-Lai, Falam) that may appear in mixed datasets.
-- **Avoid:** `cu/cun` (that), `pathian` (God), `fapa` (son), `ram` (country), `siangpahrang` (king), `bawipa` (Lord).
+- **Avoid:** `tua/tuan` (that), `pasian` (God), `tapa` (son), `gam` (country), `???` (king), `topa` (Lord).
 - **Prefer:** `tua`, `pasian`, `tapa`, `gam`, `kumpipa`, `topa`.
 
 ---
@@ -2793,7 +2793,7 @@ _Auto-generated. Last run covered 66 books._
 ## Action Items
 - [ ] Review `data/processed/bible_vocab_still_missing.jsonl` — send to Gemini when quota available
 - [ ] Review `data/processed/bible_quality_flags.jsonl` — fix critical severity first
-- [ ] Verify crossref entries with `accuracy=0.55` in DB (auto-resolved, needs human check)
+- [ ] Verify crossref entries with `actuaracy=0.55` in DB (auto-resolved, needs human check)
 - [ ] Run `scripts/fix_bible_data.py` if any HTML entities remain
 - [ ] Update `data/master/combined/parallel.jsonl` after adding TBR17 parallel
 
@@ -2903,4 +2903,4 @@ Zolai project scope:
 - `resources/Zolai_Khanggui_AD_1899_AD_2013.md`
 - `resources/Gentehna_Tuamtuam_le_A_Deihnate.md`
 - `resources/zolai_ai_instructions.md`
-- `wiki/culture/zolai_culture.md`
+- `wiki/tualture/zolai_tualture.md`

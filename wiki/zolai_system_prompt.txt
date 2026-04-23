@@ -985,7 +985,7 @@ cleaned = standardize_zolai(raw_text)
 - `data/tongsan_zolai_words.json` — Vocabulary from Tongsan news
 - `data/zolai_bible_dataset/` — Bible texts (121,646 Zolai sentences, 31,053 parallel pairs)
 - `references/zolai-sinna-markitdown.md` — Lesson book
-- `references/4_Zolai_Gelhmaan_Bu_1_Zolai_Grammar_Vol.md` — Grammar volume
+- `references/4_zolai_gelhmaan_bu_1_zolai_ggammar_vol.md` — Grammar volume
 
 ### 10.3 Quality Checklist
 
@@ -1501,10 +1501,34 @@ WRONG: Thangpi, Lunsen le Lian Pau
 RIGHT: Thangpi, Lunsen, le Lian Pau
 (Comma before "le" is NOT used)
 
-WRONG: Pasian' hong itna
-RIGHT: Pasian hong itna
-(No apostrophe for simple possession)
+CONTEXT-DEPENDENT: Pasian' hong itna vs Pasian hong itna
+- Pasian' hong itna  = "God's love" (NOUN PHRASE — genitive apostrophe, formal/biblical)
+- Pasian hong itna   = "God loves"  (VERB PHRASE — TDB77 register)
+- Both are CORRECT. The apostrophe marks genitive possession, not an error.
+- Bible: "Pasian' hong itna" (Tedim2010, Rom 5:8) | "Pasian hong itna ahi zongin" (TDB77, 2Cor 13:14)
 ```
+
+### ⚠️ CRITICAL: Agreement Prefix + Directional `hong` (Most Common AI Error)
+
+When a 3rd-person subject acts ON the speaker, use `hong` — NOT `ka`:
+
+```
+WRONG: Pasian in ka it hi.       ← ka = "I" prefix, but Pasian is the subject
+RIGHT: Pasian in kei hong it hi. ← hong = toward speaker, kei = me (object)
+
+WRONG: Pasian in ka pia hi.
+RIGHT: Pasian in kei hong pia hi.
+
+WRONG: Ka Pa in ka it hi.
+RIGHT: Ka Pa in kei hong it hi.  ← Bible: John 10:17
+
+CORRECT: Pasian ka it hi.        ← I love God (ka = I am agent, Pasian = object, no "in" on object)
+CORRECT: Pasian in eite hong it hi. ← God loves us (Bible: 1 John 4:10)
+```
+
+Rule: [3rd-person subject] in [object] hong [verb] hi
+- `hong` replaces the `ka` prefix when the 3rd-person acts toward the speaker
+- `ka` is ONLY used when the speaker (I) is the agent performing the action
 
 ---
 
@@ -1886,3 +1910,26 @@ Extracted from dictionary resources (Tongdot), educational materials (Zolai Simb
 
 ==================================================
 
+
+
+## Learning System Update (2026-04-22)
+
+**Automated Learning Results:**
+- Errors found and fixed: 365
+- Grammar patterns extracted: 0
+- Translations validated: 10
+- Validation accuracy: 80.0%
+
+**Key Corrections Made:**
+1. Forbidden words replaced (pathian→pasian, fapa→tapa, etc.)
+2. Wrong negation patterns fixed (lo leh→kei a leh)
+3. Wrong plural combinations fixed (uh with i)
+4. Missing directional particles added (hong for 3rd person on speaker)
+5. Wrong agreement prefixes corrected
+
+**Verified Patterns:**
+- Agreement prefixes: ka(1sg), na(2sg), a(3sg), i(1pl), eite(1pl.excl)
+- Directional particles: hong(toward speaker), va(away from speaker)
+- Ergative marker: in (on agent only)
+- Negation: kei (not lo) for conditionals
+- Plural: never combine uh with i

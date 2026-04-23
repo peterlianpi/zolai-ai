@@ -120,7 +120,7 @@
 - `Tangvalte' khialhna lian mahmah hi.` = The sin of the young men was very great.
 
 ### How much more: `a lian zaw`
-- `Eite in vantungmite thu i khen ding thei lo na hi uh hiam? Tua ahih ciangin leitung thu...` = Do you not know we will judge angels? How much more things of this life!
+- `Eite in vantungmite thu i khen ding thei lo na hi hiam? Tua ahih ciangin leitung thu...` = Do you not know we will judge angels? How much more things of this life!
 
 ---
 

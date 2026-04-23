@@ -17,7 +17,7 @@
 - Future: `Ka pai kei ding hi.` = I will not go.
 - Ability: `Ka sem thei kei hi.` = I cannot do it.
 - **Conditionals — ONLY `kei`:** `Nong pai kei a leh...` = If you don't go...
-  - ❌ NEVER: `Nong pai lo leh...`
+  - ❌ NEVER: `Nong pai kei a leh...`
 
 ### `lo` — Valid ZVS negation, common in 3rd person
 - Past/state: `Amah dam lo hi.` = He/she is not well.
@@ -625,10 +625,10 @@ The ZVS (Zolai Verbal Standard) is based on Tedim2010. When in doubt, use Tedim2
 ## What Stays the Same (Core Grammar)
 
 These forms are identical across all 3 versions:
-- `Pasian` = God (all versions — never `pathian`)
-- `gam` = land/country (all versions — never `ram`)
-- `topa` = Lord (all versions — never `bawipa`)
-- `tua` = that/then (all versions — never `cu/cun`)
+- `Pasian` = God (all versions — never `pasian`)
+- `gam` = land/country (all versions — never `gam`)
+- `topa` = Lord (all versions — never `topa`)
+- `tua` = that/then (all versions — never `tua/tuan`)
 - SOV word order
 - `hi` = declarative marker
 - `hiam` = question marker
@@ -645,7 +645,7 @@ These forms are identical across all 3 versions:
 When writing Zolai:
 1. Use **Tedim2010 (ZVS)** forms: `Jesuh`, `Khrih`, `dingin`, `laitakin`
 2. Both TDB77 and Tedim2010 are valid for reading/recognition
-3. Never use: `pathian`, `ram`, `fapa`, `bawipa`, `cu/cun` (these are other dialects, not version differences)
+3. Never use: `pasian`, `gam`, `tapa`, `topa`, `tua/tuan` (these are other dialects, not version differences)
 
 ---
 ## [education_register_patterns.md]
@@ -1412,7 +1412,7 @@ When a pronoun is the subject of a transitive verb (doing an action to an object
 | love (verb) | `it` | `lungdam` ❌ | `Pasian in eite hong it` (1Jn 4:10) |
 | love (noun) | `itna` | `lungdamna` ❌ | `Pasian' itna` (love of God) |
 | glad / thankful | `lungdam` | — | NOT love |
-| God | `Pasian` | `pathian` ❌ | ZVS standard |
+| God | `Pasian` | `pasian` ❌ | ZVS standard |
 | us (object) | `eite` | `kei te` ❌ | 1Jn 4:10 TDB77 |
 | we (subject) | `i` (prefix) or `eite` (emphatic) | `kei te` ❌ | 1Jn 3:2 TDB77 |
 | go (away) | `va pai` | — | directional away from speaker |
@@ -1433,7 +1433,7 @@ When a pronoun is the subject of a transitive verb (doing an action to an object
 
 - ✅ `Na pai kei a leh` — if you don't go (away from speaker)
 - ✅ `Nong pai kei a leh` — if you don't come (toward speaker)
-- ❌ NEVER `lo leh` for negative conditional
+- ❌ NEVER `kei a leh` for negative conditional
 
 ---
 ## [number_system.md]

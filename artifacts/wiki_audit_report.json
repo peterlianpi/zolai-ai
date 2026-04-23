@@ -1,0 +1,1416 @@
+{
+  "timestamp": "2026-04-22T21:33:25.678553",
+  "total_errors_found": 365,
+  "total_errors_fixed": 365,
+  "error_types": {
+    "forbidden_words": 269,
+    "wrong_negation": 54,
+    "wrong_plural": 30,
+    "missing_hong": 5,
+    "wrong_agreement": 7
+  },
+  "errors": [
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 1023,
+      "type": "forbidden_word",
+      "code": "references/4_Zolai_Gelhmaan_Bu_1_Zolai_Grammar_Vol.md",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "references/4_zolai_gelhmaan_bu_1_zolai_ggammar_vol.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2006,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2103,
+      "type": "wrong_plural",
+      "code": "amaute i pai uh hi",
+      "issue": "Cannot combine 'uh' (plural) with 'i' (1st person plural)",
+      "fix": "amaute i pai hi"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2128,
+      "type": "forbidden_word",
+      "code": "wiki/grammar/particles_postpositions_corpus.md",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "wiki/ggammar/particles_postpositions_corpus.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2132,
+      "type": "forbidden_word",
+      "code": "pathian",
+      "issue": "Contains forbidden word 'pathian'",
+      "fix": "pasian"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2133,
+      "type": "forbidden_word",
+      "code": "ram",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "gam"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2134,
+      "type": "forbidden_word",
+      "code": "fapa",
+      "issue": "Contains forbidden word 'fapa'",
+      "fix": "tapa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2135,
+      "type": "forbidden_word",
+      "code": "bawipa",
+      "issue": "Contains forbidden word 'bawipa'",
+      "fix": "topa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2136,
+      "type": "forbidden_word",
+      "code": "siangpahrang",
+      "issue": "Contains forbidden word 'siangpahrang'",
+      "fix": "???"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2137,
+      "type": "forbidden_word",
+      "code": "cu",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tua"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2137,
+      "type": "forbidden_word",
+      "code": "cun",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tuan"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2138,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 2214,
+      "type": "wrong_negation",
+      "code": "Nong pai lo leh...",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "Nong pai kei a leh..."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 3629,
+      "type": "wrong_negation",
+      "code": "Nong pai lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "Nong pai kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 3898,
+      "type": "forbidden_word",
+      "code": "wiki/grammar/particle_differentiations.md",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "wiki/ggammar/particle_differentiations.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 3899,
+      "type": "forbidden_word",
+      "code": "wiki/grammar/sentence_structures.md",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "wiki/ggammar/sentence_structures.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 3900,
+      "type": "forbidden_word",
+      "code": "wiki/culture/zomi_comprehensive.md",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "wiki/tualture/zomi_comprehensive.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 3945,
+      "type": "wrong_negation",
+      "code": "Nong pai lo leh...",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "Nong pai kei a leh..."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 4440,
+      "type": "wrong_plural",
+      "code": "Bang hang hiam i cih leh, mi khempeuh a mawh uh hi.",
+      "issue": "Cannot combine 'uh' (plural) with 'i' (1st person plural)",
+      "fix": "Bang hang hiam i cih leh, mi khempeuh a mawh hi."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 5802,
+      "type": "forbidden_word",
+      "code": "cu/cun",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tua/tuan"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 5802,
+      "type": "forbidden_word",
+      "code": "pathian",
+      "issue": "Contains forbidden word 'pathian'",
+      "fix": "pasian"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 5802,
+      "type": "forbidden_word",
+      "code": "fapa",
+      "issue": "Contains forbidden word 'fapa'",
+      "fix": "tapa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 5802,
+      "type": "forbidden_word",
+      "code": "ram",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "gam"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 5802,
+      "type": "forbidden_word",
+      "code": "siangpahrang",
+      "issue": "Contains forbidden word 'siangpahrang'",
+      "fix": "???"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 5802,
+      "type": "forbidden_word",
+      "code": "bawipa",
+      "issue": "Contains forbidden word 'bawipa'",
+      "fix": "topa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 6325,
+      "type": "forbidden_word",
+      "code": "ram",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "gam"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 6325,
+      "type": "forbidden_word",
+      "code": "fapa",
+      "issue": "Contains forbidden word 'fapa'",
+      "fix": "tapa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 6325,
+      "type": "forbidden_word",
+      "code": "bawipa",
+      "issue": "Contains forbidden word 'bawipa'",
+      "fix": "topa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 6325,
+      "type": "forbidden_word",
+      "code": "siangpahrang",
+      "issue": "Contains forbidden word 'siangpahrang'",
+      "fix": "???"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 6325,
+      "type": "forbidden_word",
+      "code": "cu",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tua"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 6325,
+      "type": "forbidden_word",
+      "code": "cun",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tuan"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 6352,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 6633,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_notebooklm_complete.md",
+      "line": 7192,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/README.md",
+      "line": 214,
+      "type": "forbidden_word",
+      "code": "pathian",
+      "issue": "Contains forbidden word 'pathian'",
+      "fix": "pasian"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/README.md",
+      "line": 215,
+      "type": "forbidden_word",
+      "code": "ram",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "gam"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/README.md",
+      "line": 216,
+      "type": "forbidden_word",
+      "code": "fapa",
+      "issue": "Contains forbidden word 'fapa'",
+      "fix": "tapa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/README.md",
+      "line": 217,
+      "type": "forbidden_word",
+      "code": "bawipa",
+      "issue": "Contains forbidden word 'bawipa'",
+      "fix": "topa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/README.md",
+      "line": 218,
+      "type": "forbidden_word",
+      "code": "siangpahrang",
+      "issue": "Contains forbidden word 'siangpahrang'",
+      "fix": "???"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/README.md",
+      "line": 219,
+      "type": "forbidden_word",
+      "code": "cu",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tua"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/README.md",
+      "line": 219,
+      "type": "forbidden_word",
+      "code": "cun",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tuan"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/README.md",
+      "line": 222,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocab_recommendations.md",
+      "line": 78,
+      "type": "forbidden_word",
+      "code": "accuracy=0.55",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "actuaracy=0.55"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocab_recommendations.md",
+      "line": 84,
+      "type": "forbidden_word",
+      "code": "pathian",
+      "issue": "Contains forbidden word 'pathian'",
+      "fix": "pasian"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocab_recommendations.md",
+      "line": 84,
+      "type": "forbidden_word",
+      "code": "ram",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "gam"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocab_recommendations.md",
+      "line": 84,
+      "type": "forbidden_word",
+      "code": "fapa",
+      "issue": "Contains forbidden word 'fapa'",
+      "fix": "tapa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocab_recommendations.md",
+      "line": 84,
+      "type": "forbidden_word",
+      "code": "bawipa",
+      "issue": "Contains forbidden word 'bawipa'",
+      "fix": "topa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocab_recommendations.md",
+      "line": 84,
+      "type": "forbidden_word",
+      "code": "siangpahrang",
+      "issue": "Contains forbidden word 'siangpahrang'",
+      "fix": "???"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocab_recommendations.md",
+      "line": 84,
+      "type": "forbidden_word",
+      "code": "cu/cun",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tua/tuan"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/zolai_ai_instructions.md",
+      "line": 989,
+      "type": "forbidden_word",
+      "code": "references/4_Zolai_Gelhmaan_Bu_1_Zolai_Grammar_Vol.md",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "references/4_zolai_gelhmaan_bu_1_zolai_ggammar_vol.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/linguistics/tedim_pau_language_reference.md",
+      "line": 232,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/linguistics/tedim_pau_language_reference.md",
+      "line": 234,
+      "type": "wrong_negation",
+      "code": "Nong pai lo leh...",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "Nong pai kei a leh..."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/linguistics/tedim_pau_language_reference.md",
+      "line": 413,
+      "type": "forbidden_word",
+      "code": "wiki/grammar/phonology.md",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "wiki/ggammar/phonology.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/linguistics/tedim_pau_language_reference.md",
+      "line": 414,
+      "type": "forbidden_word",
+      "code": "wiki/grammar/sentence_structures.md",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "wiki/ggammar/sentence_structures.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/linguistics/tedim_pau_language_reference.md",
+      "line": 415,
+      "type": "forbidden_word",
+      "code": "wiki/grammar/morphemics.md",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "wiki/ggammar/morphemics.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/linguistics/search_and_translation_patterns.md",
+      "line": 17,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/culture/traditional_customs.md",
+      "line": 203,
+      "type": "forbidden_word",
+      "code": "wiki/culture/khuado.md",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "wiki/tualture/khuado.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/culture/traditional_customs.md",
+      "line": 215,
+      "type": "forbidden_word",
+      "code": "wiki/culture/zomi_comprehensive.md",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "wiki/tualture/zomi_comprehensive.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/culture/traditional_customs.md",
+      "line": 216,
+      "type": "forbidden_word",
+      "code": "wiki/culture/khuado.md",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "wiki/tualture/khuado.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/culture/zomi_comprehensive.md",
+      "line": 247,
+      "type": "forbidden_word",
+      "code": "wiki/culture/zolai_culture.md",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "wiki/tualture/zolai_tualture.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/culture/zomi_comprehensive.md",
+      "line": 248,
+      "type": "forbidden_word",
+      "code": "wiki/culture/zomi_culture_and_values.md",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "wiki/tualture/zomi_tualture_and_values.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/culture/zomi_comprehensive.md",
+      "line": 249,
+      "type": "forbidden_word",
+      "code": "wiki/culture/khuado.md",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "wiki/tualture/khuado.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/dialectal_nuance.md",
+      "line": 35,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "line": 31,
+      "type": "forbidden_word",
+      "code": "pathian",
+      "issue": "Contains forbidden word 'pathian'",
+      "fix": "pasian"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "line": 32,
+      "type": "forbidden_word",
+      "code": "ram",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "gam"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "line": 33,
+      "type": "forbidden_word",
+      "code": "fapa",
+      "issue": "Contains forbidden word 'fapa'",
+      "fix": "tapa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "line": 34,
+      "type": "forbidden_word",
+      "code": "bawipa",
+      "issue": "Contains forbidden word 'bawipa'",
+      "fix": "topa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "line": 35,
+      "type": "forbidden_word",
+      "code": "siangpahrang",
+      "issue": "Contains forbidden word 'siangpahrang'",
+      "fix": "???"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "line": 36,
+      "type": "forbidden_word",
+      "code": "cu",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tua"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "line": 36,
+      "type": "forbidden_word",
+      "code": "cun",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tuan"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/standard_format_phrases_part4.md",
+      "line": 66,
+      "type": "wrong_plural",
+      "code": "Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak uh ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi",
+      "issue": "Cannot combine 'uh' (plural) with 'i' (1st person plural)",
+      "fix": "Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/standard_format_phrases_part4.md",
+      "line": 67,
+      "type": "wrong_plural",
+      "code": "Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak uh ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi.",
+      "issue": "Cannot combine 'uh' (plural) with 'i' (1st person plural)",
+      "fix": "Pawlkhatte in Tedim awsuah ngah nuamlua liangin “Ng” awsuahna khempeuh ah “G” aw vive suaksak ahih manin, a khiatna tuampi khat ahihlam i phawkkhak ding deihna ahi hi."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/standard_format_phrases_part4.md",
+      "line": 114,
+      "type": "wrong_plural",
+      "code": "“i” in khat sang’ a tamzaw ahihna lakkhin ahih manin “uh” kisamthuah nawnlo hi",
+      "issue": "Cannot combine 'uh' (plural) with 'i' (1st person plural)",
+      "fix": "“i” in khat sang’ a tamzaw ahihna lakkhin ahih manin “uh” kisamthuah nawnlo hi"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/standard_format_phrases_part4.md",
+      "line": 115,
+      "type": "wrong_plural",
+      "code": "“i” in khat sang’ a tamzaw ahihna lakkhin ahih manin “uh” kisamthuah nawnlo hi.",
+      "issue": "Cannot combine 'uh' (plural) with 'i' (1st person plural)",
+      "fix": "“i” in khat sang’ a tamzaw ahihna lakkhin ahih manin “uh” kisamthuah nawnlo hi."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/standard_format_phrases_part4.md",
+      "line": 116,
+      "type": "wrong_plural",
+      "code": "“i” zatna ah, “uh” cih tawh zatkhop kullo hi",
+      "issue": "Cannot combine 'uh' (plural) with 'i' (1st person plural)",
+      "fix": "“i” zatna ah, “uh” cih tawh zatkhop kullo hi"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/standard_format_phrases_part4.md",
+      "line": 117,
+      "type": "wrong_plural",
+      "code": "“i” zatna ah, “uh” cih tawh zatkhop kullo hi.",
+      "issue": "Cannot combine 'uh' (plural) with 'i' (1st person plural)",
+      "fix": "“i” zatna ah, “uh” cih tawh zatkhop kullo hi."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "line": 24,
+      "type": "forbidden_word",
+      "code": "cu/cun",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tua/tuan"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "line": 24,
+      "type": "forbidden_word",
+      "code": "pathian",
+      "issue": "Contains forbidden word 'pathian'",
+      "fix": "pasian"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "line": 24,
+      "type": "forbidden_word",
+      "code": "fapa",
+      "issue": "Contains forbidden word 'fapa'",
+      "fix": "tapa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "line": 24,
+      "type": "forbidden_word",
+      "code": "ram",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "gam"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "line": 24,
+      "type": "forbidden_word",
+      "code": "siangpahrang",
+      "issue": "Contains forbidden word 'siangpahrang'",
+      "fix": "???"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "line": 24,
+      "type": "forbidden_word",
+      "code": "bawipa",
+      "issue": "Contains forbidden word 'bawipa'",
+      "fix": "topa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/course15_phrases_part2.md",
+      "line": 156,
+      "type": "wrong_negation",
+      "code": "Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuailo leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi.",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuaikei a leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/course15_phrases_part2.md",
+      "line": 157,
+      "type": "wrong_negation",
+      "code": "Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuailo leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi.",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "Tumping a khawl ciangin, lim khat tungah a din dinguh kisam leh tua lim pen lung muanhui ahkl muanhuaikei a leh bang hang cih sanginndei pihte kiangah genkhia ding uh hi."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "line": 8,
+      "type": "forbidden_word",
+      "code": "pathian",
+      "issue": "Contains forbidden word 'pathian'",
+      "fix": "pasian"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "line": 8,
+      "type": "forbidden_word",
+      "code": "ram",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "gam"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "line": 8,
+      "type": "forbidden_word",
+      "code": "fapa",
+      "issue": "Contains forbidden word 'fapa'",
+      "fix": "tapa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "line": 8,
+      "type": "forbidden_word",
+      "code": "bawipa",
+      "issue": "Contains forbidden word 'bawipa'",
+      "fix": "topa"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "line": 8,
+      "type": "forbidden_word",
+      "code": "siangpahrang",
+      "issue": "Contains forbidden word 'siangpahrang'",
+      "fix": "???"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "line": 8,
+      "type": "forbidden_word",
+      "code": "cu/cun",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "tua/tuan"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/khanggui_phrases_part3.md",
+      "line": 112,
+      "type": "forbidden_word",
+      "code": "Tuate pen, Zotung, Zophei, Lai, Senthang, Mi-e, Thor, Mara (Lakher/Miram) leh Lautu cihte ahi hi.",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "tuate pen, zotung, zophei, lai, senthang, mi-e, thor, mara (lakher/migam) leh lautu cihte ahi hi."
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/features/competitive_features_roadmap.md",
+      "line": 38,
+      "type": "forbidden_word",
+      "code": "scripts/test_grammar_rules.py",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "scripts/test_ggammar_rules.py"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/features/competitive_features_roadmap.md",
+      "line": 39,
+      "type": "forbidden_word",
+      "code": "POST /api/grammar/check",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "post /api/ggammar/check"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/features/competitive_features_roadmap.md",
+      "line": 40,
+      "type": "forbidden_word",
+      "code": "wiki/grammar/",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "wiki/ggammar/"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/features/competitive_features_roadmap.md",
+      "line": 65,
+      "type": "forbidden_word",
+      "code": "wiki/culture/zomi_comprehensive.md",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "wiki/tualture/zomi_comprehensive.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/features/competitive_features_roadmap.md",
+      "line": 86,
+      "type": "forbidden_word",
+      "code": "wiki/curriculum/readme.md",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "wiki/tuarritualum/readme.md"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/features/competitive_features_roadmap.md",
+      "line": 114,
+      "type": "forbidden_word",
+      "code": "zolai-grammar-checker",
+      "issue": "Contains forbidden word 'ram'",
+      "fix": "zolai-ggammar-checker"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/features/competitive_features_roadmap.md",
+      "line": 117,
+      "type": "forbidden_word",
+      "code": "zolai-cultural-content",
+      "issue": "Contains forbidden word 'cu'",
+      "fix": "zolai-tualtural-content"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/translation/nuance_mapping.md",
+      "line": 65,
+      "type": "wrong_negation",
+      "code": "lo leh",
+      "issue": "Negative conditional should use 'kei a leh', not 'lo leh'",
+      "fix": "kei a leh"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/translation/decision_patterns.md",
+      "line": 94,
+      "type": "wrong_plural",
+      "code": "Bang hang hiam i cih leh, mi khempeuh a mawh uh hi.",
+      "issue": "Cannot combine 'uh' (plural) with 'i' (1st person plural)",
+      "fix": "Bang hang hiam i cih leh, mi khempeuh a mawh hi."
+    }
+  ],
+  "fixes": [
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/memory/long_term.md",
+      "old": "CUDA_VISIBLE_DEVICES=0",
+      "new": "tuada_visible_devices=0",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/memory/long_term.md",
+      "old": "curriculum_to_training_pipeline.md",
+      "new": "tuarritualum_to_training_pipeline.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/memory/long_term.md",
+      "old": "curriculum_to_training_pipeline.md",
+      "new": "tuarritualum_to_training_pipeline.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "old": "pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "old": "ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "old": "fapa",
+      "new": "tapa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "old": "bawipa",
+      "new": "topa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "old": "siangpahrang",
+      "new": "???",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/master_vocab_reference.md",
+      "old": "cu/cun",
+      "new": "tua/tuan",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "old": "cu/cun",
+      "new": "tua/tuan",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "old": "pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "old": "fapa",
+      "new": "tapa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "old": "ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "old": "siangpahrang",
+      "new": "???",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/archaic_vs_modern.md",
+      "old": "bawipa",
+      "new": "topa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/linguistics/search_and_translation_patterns.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "fapa",
+      "new": "tapa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "bawipa",
+      "new": "topa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "cu/cun",
+      "new": "tua/tuan",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "Na pai lo leh",
+      "new": "Na pai kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "Pathian hi eite Pa a hi",
+      "new": "pasian hi eite pa a hi",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "Na pai lo leh",
+      "new": "Na pai kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "Pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "Ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "grammar",
+      "new": "ggammar",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/07_curriculum_learning.md",
+      "old": "culture",
+      "new": "tualture",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/history/historical_milestones.md",
+      "old": "pathian/ram/fapa/bawipa/siangpahrang/cu/cun",
+      "new": "pasian/ram/fapa/bawipa/siangpahrang/cu/cun",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/directional_particles_corpus.md",
+      "old": "Pasian in ka it hi.",
+      "new": "Pasian in kei hong it hi.",
+      "type": "wrong_agreement"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/directional_particles_corpus.md",
+      "old": "Pasian in ka pia hi.",
+      "new": "Pasian in kei hong pia hi.",
+      "type": "wrong_agreement"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/directional_particles_corpus.md",
+      "old": "Ka Pa in ka it hi.",
+      "new": "Ka Pa in ka hong it hi.",
+      "type": "missing_hong"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "old": "pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "old": "ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "old": "fapa",
+      "new": "tapa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "old": "bawipa",
+      "new": "topa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "old": "siangpahrang",
+      "new": "???",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "old": "cu",
+      "new": "tua",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/README.md",
+      "old": "cun",
+      "new": "tuan",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/biblical/survey/pentateuch.md",
+      "old": "Israelte aw, za un; Topa i Pasian in Topa khat bek ahi hi; Topa note’ Pasian, na lungsim khempeuh... na it ding uh hi.",
+      "new": "Israelte aw, za un; Topa i Pasian in Topa khat bek ahi hi; Topa note’ Pasian, na lungsim khempeuh... na it ding hi.",
+      "type": "wrong_plural"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/curriculum/content_b1_b2.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/README.md",
+      "old": "pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/README.md",
+      "old": "ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/README.md",
+      "old": "fapa",
+      "new": "tapa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/README.md",
+      "old": "bawipa",
+      "new": "topa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/README.md",
+      "old": "siangpahrang",
+      "new": "???",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/README.md",
+      "old": "cu/cun",
+      "new": "tua/tuan",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/curriculum/c2_mastery.md",
+      "old": "Na pai lo leh",
+      "new": "Na pai kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/curriculum/c2_mastery.md",
+      "old": "Pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/curriculum/c2_mastery.md",
+      "old": "Ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/vocabulary/bible_context/1KI_ch005_grammar_study.md",
+      "old": "hiram",
+      "new": "higam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/glossary/zo_compound_words.md",
+      "old": "wiki/culture/zolai_culture.md",
+      "new": "wiki/tualture/zolai_tualture.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "Nong pai lo leh...",
+      "new": "Nong pai kei a leh...",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "\"i\", \"ei\" I zatna mun ah, \"uh\" cih zat kul nawnlo hi.",
+      "new": "\"i\", \"ei\" I zatna mun ah, \"uh\" cih zat kul nawnlo hi.",
+      "type": "wrong_plural"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "bawipa",
+      "new": "topa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "cu/cun",
+      "new": "tua/tuan",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "fapa",
+      "new": "tapa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "bawipa",
+      "new": "topa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "cu/cun",
+      "new": "tua/tuan",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "pathian",
+      "new": "pasian",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/03_negation_particles.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/grammar/grammar_a1_to_c2.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/translation/decision_patterns.md",
+      "old": "Bang hang hiam i cih leh, mi khempeuh a mawh uh hi.",
+      "new": "Bang hang hiam i cih leh, mi khempeuh a mawh hi.",
+      "type": "wrong_plural"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/translation/decision_patterns.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "wiki/culture/zolai_culture.md",
+      "new": "wiki/tualture/zolai_tualture.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "wiki/culture/zomi_culture_and_values.md",
+      "new": "wiki/tualture/zomi_tualture_and_values.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "wiki/culture/khuado.md",
+      "new": "wiki/tualture/khuado.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "wiki/culture/khuado.md",
+      "new": "wiki/tualture/khuado.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "wiki/culture/zomi_comprehensive.md",
+      "new": "wiki/tualture/zomi_comprehensive.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "wiki/culture/khuado.md",
+      "new": "wiki/tualture/khuado.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "Nong pai lo leh...",
+      "new": "Nong pai kei a leh...",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "wiki/grammar/phonology.md",
+      "new": "wiki/ggammar/phonology.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "wiki/grammar/sentence_structures.md",
+      "new": "wiki/ggammar/sentence_structures.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "wiki/grammar/morphemics.md",
+      "new": "wiki/ggammar/morphemics.md",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/bundle/06_culture_history.md",
+      "old": "... bang hang hiam cih leh Pasian in amah it hi.",
+      "new": "... bang hang hiam cih leh Pasian in amah hong it hi.",
+      "type": "missing_hong"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "ram",
+      "new": "gam",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "fapa",
+      "new": "tapa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "bawipa",
+      "new": "topa",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "siangpahrang",
+      "new": "???",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "cu",
+      "new": "tua",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "cun",
+      "new": "tuan",
+      "type": "forbidden_word"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "Nong pai lo leh...",
+      "new": "Nong pai kei a leh...",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "Pasian in ka it hi",
+      "new": "Pasian in kei hong it hi",
+      "type": "wrong_agreement"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "Pasian in ka it hi.",
+      "new": "Pasian in kei hong it hi.",
+      "type": "wrong_agreement"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "Pasian in i it hi.",
+      "new": "Pasian in i hong it hi.",
+      "type": "missing_hong"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "Pasian in ka it hi.",
+      "new": "Pasian in kei hong it hi.",
+      "type": "wrong_agreement"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "Ka Pa in ka it hi.",
+      "new": "Ka Pa in ka hong it hi.",
+      "type": "missing_hong"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "Pasian in ka it hi.",
+      "new": "Pasian in kei hong it hi.",
+      "type": "wrong_agreement"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/mistakes/common_mistakes.md",
+      "old": "Pasian in ka piangsak hi.",
+      "new": "Pasian in kei hong piangsak hi.",
+      "type": "wrong_agreement"
+    },
+    {
+      "file": "/home/peter/Documents/Projects/zolai/wiki/translation/nuance_mapping.md",
+      "old": "lo leh",
+      "new": "kei a leh",
+      "type": "wrong_negation"
+    }
+  ]
+}

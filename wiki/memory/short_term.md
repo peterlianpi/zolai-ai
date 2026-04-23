@@ -3,6 +3,31 @@
 
 ---
 
+## Session: 2026-04-20 (Wiki Audit & Sync)
+**Status:** Complete
+
+### What Was Done
+- Audited and updated all 12 wiki files (training, planning, memory)
+- Added zolai-qwen-0.5b as active primary model across all docs
+- Updated training progress: 300k–800k chunk range (of 5.1M total)
+- Added library versions (transformers==5.5.4, peft==0.19.1, trl==1.2.0, etc.) to all relevant docs
+- Rewrote dataset_specs.md (was severely outdated — V1.0 stats)
+- Updated CHANGELOG.md with full audit log
+
+### Current Training State
+| Model | Status | Chunk Range | Next CHUNK_START |
+|-------|--------|-------------|-----------------|
+| zolai-qwen-0.5b | 🔄 Active | 300k–800k | 800,000 |
+| zolai-qwen2.5-3b-lora | ⏸️ Paused | 0–100k done | 100,000 |
+
+### Next Actions
+- Continue 0.5b training: CHUNK_START=800000, RESUME_ADAPTER=peterpausianlian/zolai-qwen-0.5b
+- Publish datasets to HuggingFace Hub (Phase 2)
+- Make 7 Kaggle datasets private (web UI only)
+- Regenerate: HF token, Kaggle token, all API keys
+
+---
+
 ## Session: 2026-04-20 (Round 2 — Agents & Skills Expansion)
 **Status:** Complete
 
@@ -76,7 +101,7 @@ Eval sets built from existing data. Project is now measurable. Ready for first t
 - `wiki/planning/CHANGELOG.md` — Wiki versioning
 - `wiki/planning/contributor_guide.md` — Onboarding guide
 - `wiki/training/evaluation_benchmarks.md` — Updated with real status
-- `wiki/training/curriculum_to_training_pipeline.md` — A1–C2 plan
+- `wiki/training/tuarritualum_to_training_pipeline.md` — A1–C2 plan
 
 ### Verified working
 ```
@@ -133,7 +158,7 @@ python3 scripts/evaluate_model.py
 - `wiki/planning/CHANGELOG.md` — Wiki versioning/changelog (fixes W8)
 - `wiki/planning/contributor_guide.md` — Native speaker + dev + researcher onboarding (fixes T1)
 - `wiki/training/evaluation_benchmarks.md` — ZVS test set, Zolai-QA, Zolai-FLORES specs (fixes W1)
-- `wiki/training/curriculum_to_training_pipeline.md` — A1–C2 → instruction pairs plan (fixes W3)
+- `wiki/training/tuarritualum_to_training_pipeline.md` — A1–C2 → instruction pairs plan (fixes W3)
 
 ### Files Updated
 - `wiki/README.md` — Added planning section, eval benchmarks, curriculum pipeline
@@ -146,7 +171,7 @@ python3 scripts/evaluate_model.py
 |---|---|
 | W1 — No eval benchmarks | `evaluation_benchmarks.md` with ZVS/QA/FLORES specs |
 | W2 — Outdated README | README updated with all new files |
-| W3 — Curriculum disconnected | `curriculum_to_training_pipeline.md` created |
+| W3 — Curriculum disconnected | `tuarritualum_to_training_pipeline.md` created |
 | W6 — Agent overlap | `zolai-data-quality` merged into Data dept |
 | W8 — No changelog | `CHANGELOG.md` created |
 | T1 — Single-person bottleneck | `contributor_guide.md` + bus factor checklist |

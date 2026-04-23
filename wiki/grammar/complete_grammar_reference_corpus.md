@@ -112,7 +112,7 @@
 
 ### Negative conditional: `kei a leh` / `kei leh`
 - `Na pai kei a leh` = if you don't go
-- NEVER use `lo leh` for negative conditional
+- NEVER use `kei a leh` for negative conditional
 
 ---
 
@@ -209,7 +209,7 @@
 **Critical rules:**
 - `kei te` is NOT "we" — 0 corpus occurrences as subject
 - `i` = subject prefix (we), NEVER add `uh` with `i`
-- `amaute pai uh hi` = they went (NOT `amaute i pai uh hi`)
+- `amaute pai uh hi` = they went (NOT `amaute i pai hi`)
 - `eite` = emphatic/object we/us | `kote` = exclusive we | `i` = subject prefix
 - No gender distinction: `amah` = he/she/it
 
@@ -234,16 +234,16 @@
 | `mateng` | 161 | until | `Ka hong pai mateng` = until I come |
 | `nungah` | 100 | behind/after | `Ka nung hong zui` = follow after me |
 
-> Full reference: `wiki/grammar/particles_postpositions_corpus.md`
+> Full reference: `wiki/ggammar/particles_postpositions_corpus.md`
 
 | Wrong (reject) | Correct (ZVS Tedim) |
 |---|---|
-| `pathian` | `Pasian` |
-| `ram` | `gam` |
-| `fapa` | `tapa` |
-| `bawipa` | `topa` / `kumpipa` |
-| `siangpahrang` | `kumpipa` |
-| `cu` / `cun` | `tua` |
-| `lo leh` (conditional) | `kei a leh` |
+| `pasian` | `Pasian` |
+| `gam` | `gam` |
+| `tapa` | `tapa` |
+| `topa` | `topa` / `kumpipa` |
+| `???` | `kumpipa` |
+| `tua` / `tuan` | `tua` |
+| `kei a leh` (conditional) | `kei a leh` |
 | `I pai uh hi` | `I pai hi` (never uh with i) |
 | `kei te` (as "we") | `i` / `eite` |

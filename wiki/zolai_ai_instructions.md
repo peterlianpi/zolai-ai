@@ -5,18 +5,18 @@
 
 ## 1. What is Zolai?
 
-Zolai (also known as Tedim Chin or Zopau) is a Tibeto-Burman language (specifically part of the South-Central Trans-Himalayan or Kuki-Chin branch) spoken by the Zo people (Zomi) primarily in:
+Zolai (also known as Tedim Chin or Zopau) is a Tibeto-Burman language (specifically part of the Kuki-Chin branch, Northeastern Chin group) spoken by the Zo people (Zomi) primarily in:
 - Northwestern Myanmar (Chin State, Sagaing Region, especially Tedim, Tonzang, and Kalay townships)
-- Northeastern India (Manipur, Mizoram, Assam)
-- Bangladesh (Chittagong Hill Tracts)
+- Northeastern India (Manipur, Mizoram)
 
 **Key characteristics:**
-- **Flexible word order**: OSV (most common), SOV (requires agentive markers), and other patterns.
+- **Word order: SOV** (Subject-Object-Verb) — ZVS standard. Object-fronting (topic prominence) is also natural in conversation, but the canonical ZVS order is SOV.
 - **Ergative-Absolutive alignment**: Subjects of transitive verbs take the marker `in` (ergative), while objects and subjects of intransitive verbs take no marker (absolutive).
 - **Verb Stem Alternation**: Like many Kuki-Chin languages, most verbs have two forms (Stem I / Form I and Stem II / Form II) used depending on the grammatical context (e.g., indicative vs subjunctive/negative).
 - Agglutinative morphology (prefixes, suffixes, particles).
-- Tonal language (3 contrastive tones with tone sandhi, though tones are rarely written in standard orthography).
+- Tonal language (14-toneme practical system per ZVS; tones are rarely written in standard orthography).
 - **Vowel Length Distinction**: Standard Zomi/Tedim orthography (promoted by ZCLS, ZOLLS, and ZOLUS) distinguishes between short and long vowels (e.g., `a` vs `aa`, `e` vs `ee`, `i` vs `ii`, `o` vs `oo`, `u` vs `uu`). This distinction can change the meaning of a word.
+- **`o` is always /oʊ/** — never pure /o/ or /ɒ/. (Sinna 1: *"o pen ou bang in awsuak hi"*)
 
 **Standardization Bodies:**
 Orthography and grammar standardization for Zolai are strictly guided by the **Zokam Standard Version (ZVS v9)**. This project adopts ZVS v9 as the normative mandate.
@@ -47,43 +47,44 @@ Zolai usage varies significantly based on the social context. The AI must be cap
 
 Before processing any Zolai text, understand these fundamentals:
 
-**Word Order: OSV is MOST Common (not SOV!)**
+**Word Order: SOV is the ZVS Standard**
 
-Zolai does NOT have a rigid word order. The most natural and common pattern is **OSV** (Object-Subject-Verb):
+Zolai follows **SOV** (Subject–Object–Verb) word order per the ZVS standard. Object-fronting (topic prominence) is also natural in conversation, but SOV is the canonical form.
 
 ```
-OSV (Object-Subject-Verb) — MOST COMMON and MOST NATURAL:
-  Laibu ka sim hi. (or Lai ka sim hi.)
-  (Book I read am.)
-  = I read a book.
-
-SOV (Subject-Object-Verb) — Correct ONLY with explicit agent marker "in":
+SOV (Subject-Object-Verb) — ZVS STANDARD:
   Ka pa in laibu sim hi.
-  (My father book read am.)
+  (My father book read is.)
   = My father reads a book.
-  
+
   Kei in laibu ka sim hi.
-  = I read a book.
-  
+  = I read a book. (explicit subject + agentive in)
+
   Ken laibu ka sim hi.
   = I read a book. (Ken = Kei in)
 
-  **INCORRECT:** Ka laibu sim hi. (This implies "My book reads")
+Object-fronted (topic prominence — natural in conversation):
+  Laibu ka sim hi.
+  (Book I read is.)
+  = I read a book. [object fronted for topic/emphasis]
 
 Subject + Verb only (no object):
   Ka sim hi.
   (I read am.)
   = I read.
 
-I = ka, kei, ken, keimah (all valid)
-book = laibu, lai
-read = sim
+**CRITICAL**: `Ka laibu sim hi` is INCORRECT — `Ka` before `laibu` acts as a possessive ("My book reads"). To say "I read a book", use `Laibu ka sim hi` (object-fronted) or `Kei in laibu ka sim hi` / `Ken laibu ka sim hi` (explicit agentive subject).
 ```
 
 **Real Bible examples (31,053 verses analyzed):**
 
 ```
-OSV pattern (most common):
+SOV with explicit subject (most formal/clear):
+  "A kipat cil-in Pasian in vantung leh leitung a piangsak hi."
+  (Beginning-at God in sky and earth a created is.)
+  = In the beginning God created the heaven and the earth.
+
+Object-fronted (topic prominence):
   "Leitung in lim leh meel nei loin a awngthawlpi ahi hi."
   (Earth form and void without was it is.)
   = The earth was without form and void.
@@ -91,11 +92,6 @@ OSV pattern (most common):
   "Khuavak Pasian in a piangsak hi."
   (Light God created is.)
   = God created light.
-
-With explicit subject marker "in":
-  "A kipat cil-in Pasian in vantung leh leitung a piangsak hi."
-  (Beginning-at God in sky and earth a created is.)
-  = In the beginning God created the heaven and the earth.
 
 Simple subject + verb:
   "Ka pai hi." = I go.
@@ -119,27 +115,27 @@ Simple subject + verb:
 
 When analyzing or correcting text:
 
-1. **Identify the core sentence structure** (flexible: OSV most common, SOV also correct)
+1. **Identify the core sentence structure** (SOV is ZVS standard; object-fronting is natural in conversation)
 2. **Check particle usage** (tense, mood, questions)
 3. **Verify possession markers** (Ka/Na/A/I/Amau)
 4. **Look for compound words** that should be joined
 5. **Check apostrophe contractions** for correctness
-6. **Don't "fix" valid word order variations** — OSV is most natural, SOV is also correct
+6. **Don't "fix" valid object-fronted sentences** — `Laibu ka sim hi` is correct (object-fronted for topic prominence)
 
-### 2.3 Word Order Flexibility — DO NOT "Correct"
+### 2.3 Word Order — SOV Standard with Object-Fronting
 
-**Common valid patterns found in Bible corpus (31,053 verses):**
+**Valid patterns:**
 
-| Pattern | Example | Frequency |
-|---------|---------|-----------|
-| OSV | `Laibu ka sim hi` (or `Lai ka sim hi`) | **MOST COMMON / NATURAL** |
-| SOV | `Ka pa in laibu sim hi` / `Ken laibu ka sim hi` | Common with agent marker `in` |
-| S+V only | `Ka sim hi` / `Ken laibu sim` | Very common |
-| Topic-comment | `Khuavak, Pasian in a piangsak hi` | Common for emphasis |
-| With "in" marker | `Pasian in khuavak a piangsak hi` | Common |
+| Pattern | Example | Notes |
+|---------|---------|-------|
+| SOV (ZVS standard) | `Ka pa in laibu sim hi` | Requires agentive `in` on subject |
+| SOV with explicit I | `Kei in laibu ka sim hi` / `Ken laibu ka sim hi` | Both correct |
+| Object-fronted | `Laibu ka sim hi` | Natural in conversation; object topicalized |
+| S+V only | `Ka sim hi` | Very common when context is clear |
+| Topic-comment | `Khuavak, Pasian in a piangsak hi` | For emphasis |
 
 **CRITICAL**: `Ka laibu sim hi` is **INCORRECT** and not acceptable. "Ka" directly before "laibu" acts as a possessive marker ("My book").
-To say "I read a book", you must use OSV (`Laibu ka sim hi`) OR use an agentive subject (`Kei in laibu ka sim hi` or `Ken laibu ka sim hi` or `Ken laibu sim`).
+To say "I read a book", use object-fronted (`Laibu ka sim hi`) OR use an agentive subject (`Kei in laibu ka sim hi` or `Ken laibu ka sim hi`).
 
 ---
 
@@ -167,7 +163,7 @@ Based on analysis of 31,053 Bible parallel verses, Tongdot Dictionary (21,847 en
 Ka = I (prefix, most common):
   "Ka pai hi." = I go.
   "Ka sim hi." = I read.
-  "Laibu ka sim hi." = I read a book. (OSV - correct)
+  "Laibu ka sim hi." = I read a book. (object-fronted — correct)
   **INCORRECT**: "Ka laibu sim hi."
 
 Kei = I/me (standalone):
@@ -720,26 +716,11 @@ Zolai relies heavily on the **agentive marker `in`** for subjects of transitive 
 - E.g., `Pasian in leitung a piangsak hi.` (God-agentive earth he-created is).
 - Pronouns contract with `in`: `Kei` + `in` = `Ken`. `Amah` + `in` = `Aman`.
 
-### 6.3 Word Order Patterns (Flexible!)
+### 6.3 Word Order Patterns (SOV Standard)
 
-Zolai supports multiple word orders. The choice depends on **emphasis, style, and context** — not rigid grammar rules.
+Zolai follows **SOV** (Subject–Object–Verb) per ZVS standard. Object-fronting (topic prominence) is also natural.
 
-**OSV (Object-Subject-Verb) — MOST COMMON and MOST NATURAL:**
-```
-Laibu ka sim hi. (or Lai ka sim hi.)
-(Book I read am.)
-= I read a book.
-
-Khuavak Pasian in a piangsak hi.
-(Light God created is.)
-= God created light.
-
-An ka ne hi.
-(Food I eat am.)
-= I eat food.
-```
-
-**SOV (Subject-Object-Verb) — Requires explicit agentive marker ("in"):**
+**SOV (ZVS standard — requires agentive `in` on transitive subject):**
 ```
 Ka pa in laibu sim hi.
 (My father book read is.)
@@ -752,9 +733,21 @@ Kei in laibu ka sim hi.
 Pasian in khuavak a piangsak hi.
 (God light created is.)
 = God created light.
+```
 
-**CRITICAL RULE:**
-"Ka laibu sim hi" is INCORRECT. "Ka" before "laibu" means "My book".
+**Object-fronted (topic prominence — natural in conversation):**
+```
+Laibu ka sim hi.
+(Book I read is.)
+= I read a book. [object fronted]
+
+Khuavak Pasian in a piangsak hi.
+(Light God created is.)
+= God created light. [light topicalized]
+
+An ka ne hi.
+(Food I eat am.)
+= I eat food. [food topicalized]
 ```
 
 **Subject + Verb only (no object):**
@@ -779,11 +772,8 @@ Khuavak, Pasian in a piangsak hi.
 = As for light, God created it.
 ```
 
-**Key insight from Bible corpus (31,053 verses):**
-- OSV patterns appear most frequently in natural speech
-- SOV patterns are common with explicit subjects using "in" marker
-- Both patterns convey the same meaning with different emphasis
-- Subject + Verb only is very common when context is clear
+**CRITICAL RULE:**
+"Ka laibu sim hi" is **INCORRECT** — it means "My book reads". Use `Laibu ka sim hi` (object-fronted) or `Kei in laibu ka sim hi` / `Ken laibu ka sim hi` (explicit agentive).
 
 ### 6.4 Tense Markers
 
@@ -900,7 +890,7 @@ Apply corrections when you find:
 
 Do NOT change:
 
-1. **Word order variations** — OSV is most natural (`Laibu ka sim hi`), SOV is only correct with an agentive marker `in` (`Kei in laibu ka sim hi` or `Ken laibu ka sim hi`).
+1. **Word order variations** — Object-fronting (`Laibu ka sim hi`) is natural in conversation; SOV with agentive `in` (`Kei in laibu ka sim hi`) is the ZVS standard. Both are correct. Do not "fix" either.
 2. **Dialectal variations** between Tedim, Haka, Laizo/Falam, Matu
 3. **Intentional stylistic choices** in literature/poetry
 4. **Proper nouns** (names, places)
@@ -983,7 +973,7 @@ cleaned = standardize_zolai(raw_text)
 ### 10.1 What Makes Good Training Data
 
 - **Correct orthography** (follow standardization rules)
-- **Natural sentence structure** (flexible word order — OSV most common, SOV also correct)
+- **Natural sentence structure** (SOV is ZVS standard; object-fronting is natural in conversation — both are valid)
 - **Appropriate particle usage** (tense, mood)
 - **Context-appropriate vocabulary**
 - **Consistent dialect** within each sample
@@ -996,7 +986,7 @@ cleaned = standardize_zolai(raw_text)
 - `data/tongsan_zolai_words.json` — Vocabulary from Tongsan news
 - `data/zolai_bible_dataset/` — Bible texts (121,646 Zolai sentences, 31,053 parallel pairs)
 - `references/zolai-sinna-markitdown.md` — Lesson book
-- `references/4_Zolai_Gelhmaan_Bu_1_Zolai_Grammar_Vol.md` — Grammar volume
+- `references/4_zolai_gelhmaan_bu_1_zolai_ggammar_vol.md` — Grammar volume
 
 ### 10.3 Quality Checklist
 
@@ -1010,7 +1000,7 @@ Before adding data to training set:
 - [ ] No blacklist content
 - [ ] Valid UTF-8 encoding
 - [ ] No truncated fragments
-- [ ] Word order preserved (don't "fix" valid OSV/SOV variations)
+- [ ] Word order preserved (don't "fix" valid object-fronted or SOV variations)
 
 ---
 
@@ -1023,10 +1013,10 @@ Before adding data to training set:
 5. **Don't over-correct** — Preserve intentional variations
 6. **Don't ignore context** — `hi` can be "this" or "is"
 7. **Don't forget tone marks** — They change meaning
-8. **Don't use "Ka laibu sim hi"** — It means "My book reads". Use `Laibu ka sim hi` or `Kei in/Ken laibu ka sim hi`.
+8. **Don't use "Ka laibu sim hi"** — It means "My book reads". Use `Laibu ka sim hi` (object-fronted) or `Kei in/Ken laibu ka sim hi` (explicit agentive).
 9. **Don't use tani for daughter** — Use `tanu`
 10. **Don't claim Haka is official** — No Chin dialect has official status
-11. **Don't assume SOV is primary without markers** — Without the `in` marker, OSV is the only correct and natural way to order object and verb (e.g., `Laibu ka sim hi`).
+11. **Don't treat object-fronting as SOV** — `Laibu ka sim hi` is object-fronted (topic prominence), not a violation of SOV. SOV requires agentive `in` on the subject.
 12. **Don't confuse pronoun forms** — `ka` (prefix) vs `kei` (standalone) vs `keimah` (emphatic)
 
 ---
@@ -1042,8 +1032,8 @@ When generating Zolai translations, you must follow a self-correction workflow t
    - Does the back-translation match the original intent?
    - Did you accidentally write `Kei + [object] + [verb] hi`? (If yes, SVO hallucination detected).
 4. **Self-Correct**: If the syntax is literal SVO, fix it by either:
-   - Converting to OSV: `[Object] ka [verb] hi`.
-   - Adding Ergativity: `Ken [Object] [verb] hi`.
+   - Object-fronting: `[Object] ka [verb] hi`.
+   - Adding Ergativity (SOV): `Ken [Object] [verb] hi`.
 
 ## 12. Quick Reference Card
 
@@ -1115,7 +1105,7 @@ ahihi → ahi hi
 - *Zomi Christian Literature Society (ZCLS) standards*
 - *Standardizer code implementation (v9)*
 
-*Last updated: 2026-04-01*
+*Last updated: 2026-04-20*
 
 
 ---

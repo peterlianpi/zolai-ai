@@ -200,4 +200,4 @@
 **They vs We — definitive:**
 - They go = `Amaute pai uh hi` (amaute + verb + uh)
 - We go = `I pai hi` (i + verb, NO uh)
-- `Amaute i pai uh hi` = ❌ WRONG (mixes 1pl prefix `i` with 3pl subject `amaute`)
+- `Amaute i pai hi` = ❌ WRONG (mixes 1pl prefix `i` with 3pl subject `amaute`)

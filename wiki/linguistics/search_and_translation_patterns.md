@@ -14,7 +14,7 @@
 ## 2. Biblical Alignment Patterns
 - **Narrative Structure:** [Time/Place] + [Subject] + [Verb] + [Aspect/Marker].
 - **Authority:** Always use `in` (Ergative) for active subjects/authoritative commands.
-- **Conditionals:** `leng` (formal/literary), `le'ng` (idiomatic "if we").
+- **Conditionals:** `leng` (formal/literary, single condition), `le'ng` (idiomatic "if we"). For **negative conditionals**, always use `kei a leh` — NEVER `kei a leh`.
 
 ## 3. Deployment Flow (VPS)
 1. **DB Path:** Always target `/data/dictionary/db/zvs_master_dictionary.db`.

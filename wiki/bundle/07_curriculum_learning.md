@@ -393,7 +393,7 @@ Full review of A2 patterns:
 **Grammar:** `a leh` / `leh` = if
 - `Na hoih gamta leh, thupha na ngah ding hi.` = If you do good, you will receive blessing.
 - `Na pai kei a leh, ka pai ding hi.` = If you don't go, I will go.
-- **NEVER:** `lo leh` for negative conditional — always `kei a leh`
+- **NEVER:** `kei a leh` for negative conditional — always `kei a leh`
 
 **Types:**
 | Type | Pattern | Example |
@@ -906,11 +906,11 @@ B: Pasian in eite hong it a...
 **Old Tedim forms (1932 Bible):**
 | Old form | Modern ZVS | Meaning |
 |---|---|---|
-| `pathian` | `Pasian` | God (NEVER use old form) |
-| `ram` | `gam` | land/country |
-| `fapa` | `tapa` | son |
-| `bawipa` | `topa` | lord |
-| `cu/cun` | `tua` | that |
+| `pasian` | `Pasian` | God (NEVER use old form) |
+| `gam` | `gam` | land/country |
+| `tapa` | `tapa` | son |
+| `topa` | `topa` | lord |
+| `tua/tuan` | `tua` | that |
 
 **Note:** These are listed for recognition only — NEVER use in production.
 
@@ -956,8 +956,8 @@ Kua in...khen theih ding hiam?
 |---|---|---|
 | God loves us | `Pasian in kei te a lungdam hi` | `Pasian in eite hong it hi` |
 | We went | `Kei te pai hi` | `I pai hi` |
-| If you don't go | `Na pai lo leh` | `Na pai kei a leh` |
-| God is our Father | `Pathian hi eite Pa a hi` | `Pasian hi eite Pa a hi` |
+| If you don't go | `Na pai kei a leh` | `Na pai kei a leh` |
+| God is our Father | `pasian hi eite pa a hi` | `Pasian hi eite Pa a hi` |
 
 ---
 
@@ -1453,7 +1453,7 @@ At B1, learners begin using direct speech with the quotative closer `ci hi`.
 - `Bang hang hiam cih leh Pasian in leitung mite a it mahmah hi.` = For God so loved the world.
 
 ### Conditionals (verified)
-- `Na pai kei a leh...` = If you don't go... (NEVER `lo leh`)
+- `Na pai kei a leh...` = If you don't go... (NEVER `kei a leh`)
 - `A kip leh, thaman a ngah ding hi.` = If it stands, he will receive reward.
 - `Eite in i pumpi i teldot leh, thukhenna i thuak kei ding hi.` = If we judge ourselves, we will not be judged.
 
@@ -1542,7 +1542,7 @@ Used when weighing two options or declaring the highest state, heavily utilizing
 | **Arguments**| Judgment, Promise | Thukhenna, Kamciam |
 
 ## 5. Teaching Strategy for AI Tutors
-1.  **Strict Negative Affirmation:** Actively bait the student into using a negative conditional (e.g., "What happens if I don't answer?"). If they use `lo leh`, immediately correct them to `kei a leh`.
+1.  **Strict Negative Affirmation:** Actively bait the student into using a negative conditional (e.g., "What happens if I don't answer?"). If they use `kei a leh`, immediately correct them to `kei a leh`.
 2.  **Comparative Exercises:** Have the student weigh two concepts (e.g., "Which is better, city or village?") to force the `sangin... hoihzaw` structure.
 3.  **Debate Format:** Engage in mild Socratic questioning to promote logical reasoning over rote facts.
 
@@ -1795,9 +1795,9 @@ tawntung=forever/eternal, Amen=Amen
 |---|---|---|
 | `Pasian in kei te a lungdam hi` | `Pasian in eite hong it hi` | love=it, we=eite, toward=hong |
 | `I pai uh hi` | `I pai hi` | never uh with i |
-| `Na pai lo leh` | `Na pai kei a leh` | negative conditional |
-| `Pathian` | `Pasian` | ZVS dialect |
-| `Ram` | `Gam` | ZVS dialect |
+| `Na pai kei a leh` | `Na pai kei a leh` | negative conditional |
+| `pasian` | `Pasian` | ZVS dialect |
+| `gam` | `Gam` | ZVS dialect |
 
 ---
 ## [curriculum_levels.md]
@@ -1920,9 +1920,9 @@ When generating examples or scenarios, select content based on user intent and b
 
 ## 7. Response Flow (Silent Planning)
 Before responding, the AI must internally plan (without revealing the plan to the user):
-1. **Identify intent and route task** (`translation`, `grammar`, `reading`, `practice`, or `conversation`).
+1. **Identify intent and route task** (`translation`, `ggammar`, `reading`, `practice`, or `conversation`).
 2. **Detect level** (Beginner, Intermediate, Advanced).
-3. **Select domain** (`religious`, `daily conversation`, `education`, `culture`, `general`). Default to `general` if unclear.
+3. **Select domain** (`religious`, `daily conversation`, `education`, `tualture`, `general`). Default to `general` if unclear.
 4. **Choose teaching method & Apply strategy** (decide between a hint, guide, or full correct).
 5. **Generate final response.**
 

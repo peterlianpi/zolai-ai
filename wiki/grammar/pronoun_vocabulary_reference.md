@@ -28,7 +28,7 @@
 | love (verb) | `it` | `lungdam` ❌ | `Pasian in eite hong it` (1Jn 4:10) |
 | love (noun) | `itna` | `lungdamna` ❌ | `Pasian' itna` (love of God) |
 | glad / thankful | `lungdam` | — | NOT love |
-| God | `Pasian` | `pathian` ❌ | ZVS standard |
+| God | `Pasian` | `pasian` ❌ | ZVS standard |
 | us (object) | `eite` | `kei te` ❌ | 1Jn 4:10 TDB77 |
 | we (subject) | `i` (prefix) or `eite` (emphatic) | `kei te` ❌ | 1Jn 3:2 TDB77 |
 | go (away) | `va pai` | — | directional away from speaker |
@@ -49,4 +49,4 @@
 
 - ✅ `Na pai kei a leh` — if you don't go (away from speaker)
 - ✅ `Nong pai kei a leh` — if you don't come (toward speaker)
-- ❌ NEVER `lo leh` for negative conditional
+- ❌ NEVER `kei a leh` for negative conditional

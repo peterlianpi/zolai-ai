@@ -83,11 +83,11 @@ Zolai is strictly **SOV** (Subject–Object–Verb). The verb always comes last.
 - `A pai ciangin, ka zui ding.` — When he goes, I will follow.
 - `Ahih ciangin...` — When it was so... *(narrative connector in Genesis)*
 
-### C. Negative Conditional (kei...leh) ⚠️
-> **CRITICAL ZVS RULE:** NEVER use `kei leh` for negative conditionals.
-- ✅ `Nong pai kei a leh...` — If you don't come...
-- ✅ `Nong pai kei leh...` — If you don't come...
-- ❌ `Na pai kei leh...` — **FORBIDDEN**
+### C. Negative Conditional (kei a leh) ⚠️
+> **CRITICAL ZVS RULE:** Negative conditionals use `kei a leh`, NEVER `kei a leh`.
+- ✅ `Nong pai kei a leh...` — If you don't come... (**correct ZVS form**)
+- ❌ `Nong pai kei a leh...` — **FORBIDDEN** (Hakha/Falam form)
+- ❌ `Na pai kei leh...` — **WRONG** (missing the `a` particle before `leh`)
 
 ### D. Concessive (hangin / napi)
 - `Hak hangin, hanciam hi.` — Although it's difficult, [he] perseveres.

@@ -1002,7 +1002,7 @@ cleaned = standardize_zolai(raw_text)
 - `data/tongsan_zolai_words.json` — Vocabulary from Tongsan news
 - `data/zolai_bible_dataset/` — Bible texts (121,646 Zolai sentences, 31,053 parallel pairs)
 - `references/zolai-sinna-markitdown.md` — Lesson book
-- `references/4_Zolai_Gelhmaan_Bu_1_Zolai_Grammar_Vol.md` — Grammar volume
+- `references/4_zolai_gelhmaan_bu_1_zolai_ggammar_vol.md` — Grammar volume
 
 ### 10.3 Quality Checklist
 
@@ -4576,7 +4576,7 @@ cleaned = standardize_zolai(raw_text)
 - `data/tongsan_zolai_words.json` — Vocabulary from Tongsan news
 - `data/zolai_bible_dataset/` — Bible texts (121,646 Zolai sentences, 31,053 parallel pairs)
 - `references/zolai-sinna-markitdown.md` — Lesson book
-- `references/4_Zolai_Gelhmaan_Bu_1_Zolai_Grammar_Vol.md` — Grammar volume
+- `references/4_zolai_gelhmaan_bu_1_zolai_ggammar_vol.md` — Grammar volume
 
 ### 10.3 Quality Checklist
 

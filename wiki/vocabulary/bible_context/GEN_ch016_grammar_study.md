@@ -169,7 +169,7 @@
 | Zolai | Count |
 |---|---|
 | `amah` | 13 |
-| `abram` | 12 |
+| `abgam` | 12 |
 | `ding` | 11 |
 | `ama` | 11 |
 | `sarai` | 9 |
