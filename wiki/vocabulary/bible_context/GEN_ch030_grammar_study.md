@@ -135,7 +135,7 @@
 
 **TDB77:** Leah in, “Kei lungdam ing! Bang hang hiam cih leh numeite in kei a lungdam hong ci ding hi,” ci hi; tua ahih ciangin ama min' Asher phuak hi.
 
-**ZVS:** Leah in, “Kei lungdam ing! Bang hang hiam cih leh numei dangte in kei a lungdam hong ci ding uh hi,” a ci hi. Tua ahih ciangin ama min Asher a phuak hi.
+**ZVS:** Leah in, “Kei lungdam ing! Bang hang hiam cih leh numei dangte in kei a lungdam hong ci ding-te hi,” a ci hi. Tua ahih ciangin ama min Asher a phuak hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will
 
@@ -356,18 +356,18 @@
 ### v38
 **EN:** And he set the rods which he had pilled before the flocks in the gutters in the watering troughs when the flocks came to drink, that they should conceive when they came to drink.
 
-**TDB77:** Amah in a khehsa ciangkangte tui luang, tui piakna tuikuang, tuuhonte tui dawn dinga hong paina mun, tuuhonte' mai-ah koih hi. Amaute nisa nuai-ah om-in tuidawn dingin hong pai uh ciangin a nu leh a pa omkhawm uh ahih manin,
+**TDB77:** Amah in a khehsa ciangkangte tui luang, tui piakna tuikuang, tuuhonte tui dawn dinga hong paina mun, tuuhonte' mai-ah koih hi. Amaute nisa nuai-ah om-in tuidawn dingin hong pai-te ciangin a nu leh a pa omkhawm-te ahih manin,
 
-**ZVS:** Amah in a khehsa ciangkangte tuiluang, tuipiakna tuikuang, tuuhonte tui dawn dingin a hong paina mun, tuuhonte' mai-ah a koih hi. Amaute tui dawn dingin hong pai uh ciangin a nu leh a pa omkhawm uh ahih manin,
+**ZVS:** Amah in a khehsa ciangkangte tuiluang, tuipiakna tuikuang, tuuhonte tui dawn dingin a hong paina mun, tuuhonte' mai-ah a koih hi. Amaute tui dawn dingin hong pai-te ciangin a nu leh a pa omkhawm-te ahih manin,
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | causal: because
 
 ### v39
 **EN:** And the flocks conceived before the rods, and brought forth cattle ringstraked, speckled, and spotted.
 
-**TDB77:** tuuhonte tua ciangkangte' mai-ah omkhawm uh a, tua ahih ciangin tuuhonte in a dung gial, a puang leh a gial tuuno ta nei uh hi.
+**TDB77:** tuuhonte tua ciangkangte' mai-ah omkhawm-te a, tua ahih ciangin tuuhonte in a dung gial, a puang leh a gial tuuno ta nei-te hi.
 
-**ZVS:** tuuhonte tua ciangkangte' mai-ah omkhawm uh hi. Tua ahih ciangin tuuhonte in a dung gial, a puang leh a gial ta nei uh hi.
+**ZVS:** tuuhonte tua ciangkangte' mai-ah omkhawm-te hi. Tua ahih ciangin tuuhonte in a dung gial, a puang leh a gial ta nei-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

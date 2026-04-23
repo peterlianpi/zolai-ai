@@ -24,9 +24,9 @@
 ### v1
 **EN:** In the mean time, when there were gathered together an innumerable multitude of people, insomuch that they trode one upon another, he began to say unto his disciples first of all,
 
-**TDB77:** Tua lai takin khat leh khat khe kisik kha dongin mi tul tampite a kikhawm uh hi. Zeisu in a nungzuite kiangah a gen masak pen-inah: “Mi simtatna ahi Farisaite’ silngo kikem un la, na tang un.
+**TDB77:** Tua lai takin khat leh khat khe kisik kha dongin mi tul tampite a kikhawm-te hi. Zeisu in a nungzuite kiangah a gen masak pen-inah: “Mi simtatna ahi Farisaite’ silngo kikem un la, na tang un.
 
-**ZVS:** Mi a tul tampite hong kikhawmin khatlekhat a kisikkha gawp dongin kinehcipin a om laitakin Jesuh in a nungzuite kiangah thu gen masa a, “Farisi mite' kineihkhemna ahi, a silngo uh limtakin kidawm un.
+**ZVS:** Mi a tul tampite hong kikhawmin khatlekhat a kisikkha gawp dongin kinehcipin a om laitakin Jesuh in a nungzuite kiangah thu gen masa a, “Farisi mite' kineihkhemna ahi, a silngo-te limtakin kidawm un.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -51,7 +51,7 @@
 ### v15
 **EN:** And he said unto them,
 
-**TDB77:** Tua zawh ciangin Zeisu in, “Note in huaihamna khempeuh kikemin na tang un. Bang hang hiam na cih uh leh, mihing nuntakna in sum hauh nading ahi kei hi,” a ci hi.
+**TDB77:** Tua zawh ciangin Zeisu in, “Note in huaihamna khempeuh kikemin na tang un. Bang hang hiam na cih-te leh, mihing nuntakna in sum hauh nading ahi kei hi,” a ci hi.
 
 **ZVS:** Tua ciangin Jesuh in amaute khempeuh kiangah, “Hoihtakin kidawm un la, na huaiham lohna dingun kikem un. Bang hang hiam cih leh bangzahta-in mi khat a hauh hangin a neihsa tawh a nuntakna taktak kicing zolo hi,” a ci hi.
 
@@ -67,7 +67,7 @@
 ### v22
 **EN:** And he said unto his disciples,
 
-**TDB77:** Khatvei Zeisu in, “Tua ahih ciangin note kiangah kong gen-inah, bang ka ne ding hiam ci-in na nuntak nading uh lunghimawh kei un. Bang ka silh ding hiam ci-in na pumpi ading uh lunghimawh kei un.
+**TDB77:** Khatvei Zeisu in, “Tua ahih ciangin note kiangah kong gen-inah, bang ka ne ding hiam ci-in na nuntak nading-te lunghimawh kei un. Bang ka silh ding hiam ci-in na pumpi ading-te lunghimawh kei un.
 
 **ZVS:** Tua ciangin Jesuh in a nungzuite kiangah, “Tua ahih ciangin note kiangah kong genin-ah: I nuntakna dingin bang ne ding a, i pumpi tungah bang silh ding ihi hiam, ci-in lunghimawh kei un.
 
@@ -92,9 +92,9 @@
 ### v54
 **EN:** And he said also to the people,
 
-**TDB77:** Zeisu in mihonpite kiangah a cihna in, “Note in ni tumna lamah meii kai khat na muh uh ciangin, ‘Guah hong zu ding hi,” thakhatin na ci uh hi. Na cih uh mah bangin ahi thei hi.
+**TDB77:** Zeisu in mihonpite kiangah a cihna in, “Note in ni tumna lamah meii kai khat na muh-te ciangin, ‘Guah hong zu ding hi,” thakhatin na ci-te hi. Na cih-te mah bangin ahi thei hi.
 
-**ZVS:** Jesuh in mihonte kiangah zong, “Nitumna lamah meiipi hong kai na muh uh ciangin, ‘Guah hong zu ding hi,’ ci-in thakhatin na genthei pah uh a, tua mah bangin guah hong zu takpi hi.
+**ZVS:** Jesuh in mihonte kiangah zong, “Nitumna lamah meiipi hong kai na muh-te ciangin, ‘Guah hong zu ding hi,’ ci-in thakhatin na genthei pah-te a, tua mah bangin guah hong zu takpi hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

@@ -44,7 +44,7 @@
 ### v3
 **EN:** But neither Titus, who was with me, being a Greek, was compelled to be circumcised:
 
-**TDB77:** Ahih hangin keimah tawh a tonkhawm Titu in Grik mi ahi napi-in a vunat dingin thu a pia kei uh hi.
+**TDB77:** Ahih hangin keimah tawh a tonkhawm Titu in Grik mi ahi napi-in a vunat dingin thu a pia kei-te hi.
 
 **ZVS:** Kei tawh a kithuah Titus nangawn Grik mi hinapi-in a vun ki-atsak tuanlo hi.
 
@@ -53,18 +53,18 @@
 ### v4
 **EN:** And that because of false brethren unawares brought in, who came in privily to spy out our liberty which we have in Christ Jesus, that they might bring us into bondage:
 
-**TDB77:** Khazih Zeisu hangah i ngahsa suahtakna thu en simin eite sila hong suahsak nadingun kheemna tawh a hong tumsim ute naute banga kibawl mite’ thu hangin tua bang hong bawl uh hi.
+**TDB77:** Khazih Zeisu hangah i ngahsa suahtakna thu en simin eite sila hong suahsak nadingun kheemna tawh a hong tumsim ute naute banga kibawl mite’ thu hangin tua bang hong bawl-te hi.
 
-**ZVS:** Ahi zongin mi pawlkhat in atsak nuam sam uh hi. Khrih Jesuh tawh ka kipawlna hangun suahtakna ka ngahna thu uh a kansim dingin amaute thu um mi kineihkhemin kote lakah hong kihel uh hi. Amaute in kote pen sila hong suaksak nuam uh ahi hi.
+**ZVS:** Ahi zongin mi pawlkhat in atsak nuam sam-te hi. Khrih Jesuh tawh ka kipawlna hangun suahtakna ka ngahna thu-te a kansim dingin amaute thu um mi kineihkhemin kote lakah hong kihel-te hi. Amaute in kote pen sila hong suaksak nuam-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** To whom we gave place by subjection, no, not for an hour; that the truth of the gospel might continue with you.
 
-**TDB77:** Thuman thu ahi Lungdamna Thu in nomau sungah kip-a, a om nadingin kote in tua mite thu mitphiat sung nangawn ka mang ka ngai kei uh hi.
+**TDB77:** Thuman thu ahi Lungdamna Thu in nomau sungah kip-a, a om nadingin kote in tua mite thu mitphiat sung nangawn ka mang ka ngai kei-te hi.
 
-**ZVS:** Lungdamna thuman taktak pelem hetloin note-a' dingin a kipsuak theihna dingin amaute' deihna themkhat zong ka zui het kei uh hi.
+**ZVS:** Lungdamna thuman taktak pelem hetloin note-a' dingin a kipsuak theihna dingin amaute' deihna themkhat zong ka zui het kei-te hi.
 
 **Grammar:** purpose: in order to | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -73,7 +73,7 @@
 
 **TDB77:** Mi lian a kicite in nidang lai-inah bang ci mi ahih thu kei tawh kisai lo hi, Pasian in mi maitang zahtak a nei kei hi. Tua mite tawh kipawlin bangmah ka ngah lo tham loin,
 
-**ZVS:** Jerusalem khua-a om makai liana kinei mite in kei' nasepna tawh kisai thu-ah bangmah genthuah ding neilo uh hi. (Pasian in maitang zahtak tuam nei tuanlo ahih manin hih bangin thu a gen ngam ka hi hi.)
+**ZVS:** Jerusalem khua-a om makai liana kinei mite in kei' nasepna tawh kisai thu-ah bangmah genthuah ding neilo-te hi. (Pasian in maitang zahtak tuam nei tuanlo ahih manin hih bangin thu a gen ngam ka hi hi.)
 
 **Grammar:** negation: kei | negation: lo | reciprocal: ki- prefix
 
@@ -82,14 +82,14 @@
 
 **TDB77:** vunatna a thuak mite lakah Piter in sawltak a suah nadingin Piter tungah a bawlpha mi in Gentailte lakah kei sawltak ka suah nadingin keimah tungah hong bawlpha a,
 
-**ZVS:** Amaute in genthuah ding a neih genloh, Jew mite tungah lungdamna thu hilh ding nasep, Pasian in Peter tungah a piak mah bangin, Gentail mite tungah lungdamna thu hilhna ding nasep, Pasian in kei tungah a hong piakna thu a muzaw uh hi.
+**ZVS:** Amaute in genthuah ding a neih genloh, Jew mite tungah lungdamna thu hilh ding nasep, Pasian in Peter tungah a piak mah bangin, Gentail mite tungah lungdamna thu hilhna ding nasep, Pasian in kei tungah a hong piakna thu a muzaw-te hi.
 
 **Grammar:** purpose: in order to
 
 ### v8
 **EN:** (For he that wrought effectually in Peter to the apostleship of the circumcision, the same was mighty in me toward the Gentiles:)
 
-**TDB77:** vunatte tawh a kipawl Lungdamna Thu Piter tungah a piak mah bangin vunat lote tawh a kipawl Lungdamna Thu kei tungah a hong piakna, amaute in a theih uh ciangin khuamte a kici Jeim, Kefas, leh Johan-te in
+**TDB77:** vunatte tawh a kipawl Lungdamna Thu Piter tungah a piak mah bangin vunat lote tawh a kipawl Lungdamna Thu kei tungah a hong piakna, amaute in a theih-te ciangin khuamte a kici Jeim, Kefas, leh Johan-te in
 
 **ZVS:** Bang hang hiam cih leh Jew mite lakah sawltak nasep a sem dingin Peter a koih mah bangin Gentail mite lakah sawltak nasep a sem dingin Pasian in kei a hong koih hi.
 
@@ -98,9 +98,9 @@
 ### v9
 **EN:** And when James, Cephas, and John, who seemed to be pillars, perceived the grace that was given unto me, they gave to me and Barnabas the right hands of fellowship; that we should go unto the heathen, and they unto the circumcision.
 
-**TDB77:** ka ngah hehpihna thupha a theih uh ciangin, amaute in vunatte kiangah pai nadingin leh kote in Gentailte kiangah pai nadingin, amaute in Barnabas leh kei tungah kilawmtatna tawh a khut taklam uh hong pia uh hi.
+**TDB77:** ka ngah hehpihna thupha a theih-te ciangin, amaute in vunatte kiangah pai nadingin leh kote in Gentailte kiangah pai nadingin, amaute in Barnabas leh kei tungah kilawmtatna tawh a khut taklam-te hong pia-te hi.
 
-**ZVS:** Makai-a kinei James, Peter, leh Johan-te in Gentail mite lakah nasem dingin Pasian in kei hong sehna thu thei uh ahih manin, Pasian sungah nasemkhawm khat ihi hi, cih hong lahna uh limin kei leh Barnabas tawh khut kiletna hong bawl uh hi. Kei leh Barnabas in Gentail mite lakah na semin amaute in Jew mite lakah na a sepna ding uh thukimna ka nei uh hi.
+**ZVS:** Makai-a kinei James, Peter, leh Johan-te in Gentail mite lakah nasem dingin Pasian in kei hong sehna thu thei-te ahih manin, Pasian sungah nasemkhawm khat ihi hi, cih hong lahna-te limin kei leh Barnabas tawh khut kiletna hong bawl-te hi. Kei leh Barnabas in Gentail mite lakah na semin amaute in Jew mite lakah na a sepna ding-te thukimna ka nei-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -109,7 +109,7 @@
 
 **TDB77:** komau in mizawngte ka ngaihsut nadingun amaute’ deihna khat bek a om hi. Tua na zong kei in sep ding hahkatna lungsim ka nei hi.
 
-**ZVS:** Kote in amaute lakah a om mizawngte ka phawkding uh hong kal bek a, tua lah kei zong ngaihsut penin ka neihsa thu mah ahi hi.
+**ZVS:** Kote in amaute lakah a om mizawngte ka phawkding-te hong kal bek a, tua lah kei zong ngaihsut penin ka neihsa thu mah ahi hi.
 
 ### v11
 **EN:** But when Peter was come to Antioch, I withstood him to the face, because he was to be blamed.
@@ -121,7 +121,7 @@
 ### v12
 **EN:** For before that certain came from James, he did eat with the Gentiles: but when they were come, he withdrew and separated himself, fearing them which were of the circumcision.
 
-**TDB77:** Bang hang hiam na cih uh leh, mi kim khat in Jeim kiang pan a hong tun’ ma-in Gentailte tawh an a ne khawm hi. Ahih hangin tuate hong tun’ khit uh ciangin amah in vunatte a kihtak maninah nungkinin a tuam om hi.
+**TDB77:** Bang hang hiam na cih-te leh, mi kim khat in Jeim kiang pan a hong tun’ ma-in Gentailte tawh an a ne khawm hi. Ahih hangin tuate hong tun’ khit-te ciangin amah in vunatte a kihtak maninah nungkinin a tuam om hi.
 
 **ZVS:** James in a hong sawl mi pawlkhatte, tua khua-ah a hong tun'ma-in Peter in thu um Gentail mite tawh an nekhawm napi-in, Gentail mite vun at ding hi, a ci mite a kihtakna hangin tua mite hong tun' ciangin Gentail mite tawh an nekhawm ngam nawnloin hong kihemkhia hi.
 
@@ -139,9 +139,9 @@
 ### v14
 **EN:** But when I saw that they walked not uprightly according to the truth of the gospel, I said unto Peter before them all, If thou, being a Jew, livest after the manner of Gentiles, and not as do the Jews, why compellest thou the Gentiles to live as do the Jews?
 
-**TDB77:** Amaute in Lungdamna Thu tawh kituak thuman thutak bangin a tang takin a zuih loh uh ka muh ciangin mite khempeuh mai-ah Kefas kiangah, “Nang, Judah mi na hi napi-in Judah ngeina bang gamta loin, Gentailte’ ngeina bang na gamtat leh, Gentailte in Judah ngeina bang a zuih nadingun bang hangin amaute zawhthawh thu tawh na bawl hiam?” ka ci hi.
+**TDB77:** Amaute in Lungdamna Thu tawh kituak thuman thutak bangin a tang takin a zuih loh-te ka muh ciangin mite khempeuh mai-ah Kefas kiangah, “Nang, Judah mi na hi napi-in Judah ngeina bang gamta loin, Gentailte’ ngeina bang na gamtat leh, Gentailte in Judah ngeina bang a zuih nadingun bang hangin amaute zawhthawh thu tawh na bawl hiam?” ka ci hi.
 
-**ZVS:** Lungdamna thu tawh kizui-in a mantakin gamtalo uh hi, ci-in ka muh ciangin amaute khempeuh' zakin Peter kiangah, “Nang pen Jew mi hinapi-in Jew mi bangin gamta loin Gentail mite bangin a gamta khinsa na hi hi. Tua bangin a gamta khinsa hinapi-in bang hangin tu-in Gentail mite, Jew mite bangin a gamtatna dingun na gamtatna tawh lakkik na hi hiam?” ka ci hi.
+**ZVS:** Lungdamna thu tawh kizui-in a mantakin gamtalo-te hi, ci-in ka muh ciangin amaute khempeuh' zakin Peter kiangah, “Nang pen Jew mi hinapi-in Jew mi bangin gamta loin Gentail mite bangin a gamta khinsa na hi hi. Tua bangin a gamta khinsa hinapi-in bang hangin tu-in Gentail mite, Jew mite bangin a gamtatna dingun na gamtatna tawh lakkik na hi hiam?” ka ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -150,16 +150,16 @@
 
 **TDB77:** Thukham zuihna hangin diktan’sakna kingah lo hi, Zeisu Khazih’ thu-upna bek hangin diktan’sakna kingah hi ci-in mawhna a nei Gentailte hi loin, a pian’na pan Judah mite ahi eite in i theih mah bangin
 
-**ZVS:** A taktakin ci lehang kote pen ka pian' ka patun Jew mi ka hi uh a, “Mawhnei Gentail mi,” ka cih pawlte uh ka hi kei uh hi.
+**ZVS:** A taktakin ci lehang kote pen ka pian' ka patun Jew mi ka hi-te a, “Mawhnei Gentail mi,” ka cih pawlte-te ka hi kei-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix
 
 ### v16
 **EN:** Knowing that a man is not justified by the works of the law, but by the faith of Jesus Christ, even we have believed in Jesus Christ, that we might be justified by the faith of Christ, and not by the works of the law: for by the works of the law shall no flesh be justified.
 
-**TDB77:** Thukham zuihna hangin diktan’sakna a ngah lo, Khazih upna hangin diktan’sakna a ngah eite in zong Zeisu Khazih’ thu i um zo hi. Bang hang hiam na cih uh leh, Thukham zuihna hangin kuamah in dikkisakna a ngah kei ding hi.
+**TDB77:** Thukham zuihna hangin diktan’sakna a ngah lo, Khazih upna hangin diktan’sakna a ngah eite in zong Zeisu Khazih’ thu i um zo hi. Bang hang hiam na cih-te leh, Thukham zuihna hangin kuamah in dikkisakna a ngah kei ding hi.
 
-**ZVS:** Ahi zongin Jesuh Khrih upna hang bek tawh Pasian tawh kipawl theihna kingahin, Thukham zuihna hang tawh kingah ngeilo hi, ci-in ka thei uh hi. Kote mahmah in zong, Khrih hangin Pasian tawh ka kipawl theihna dingun Jesuh Khrih ka um uh a, Thukham deihna ka zuihna hang uh tawh hilo hi. Bang hang hiam cih leh Thukham zuihna hang tawh kuamah in Pasian tawh kipawl theihna ngah zolo hi.
+**ZVS:** Ahi zongin Jesuh Khrih upna hang bek tawh Pasian tawh kipawl theihna kingahin, Thukham zuihna hang tawh kingah ngeilo hi, ci-in ka thei-te hi. Kote mahmah in zong, Khrih hangin Pasian tawh ka kipawl theihna dingun Jesuh Khrih ka um-te a, Thukham deihna ka zuihna hang-te tawh hilo hi. Bang hang hiam cih leh Thukham zuihna hang tawh kuamah in Pasian tawh kipawl theihna ngah zolo hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -168,16 +168,16 @@
 
 **TDB77:** Khazih sungah diktan’sakna ngah nading ka hahkat napi-in eite mahmah in zong mawhna nei mi i hih a kilat leh, Khazih in mawhna thu bawl mi ahi hiam? Tua bang hi lo hi.
 
-**ZVS:** Tua ahih leh Khrih ka upna hangun Pasian tawh kipawl theihna ding ka hanciam uh ciangin mimawh mah ka hihna uh ka thei uh hi. Tua ahih leh Khrih pen mawhna a piangsak a suakding hiam? Suak hetlo ding hi.
+**ZVS:** Tua ahih leh Khrih ka upna hangun Pasian tawh kipawl theihna ding ka hanciam-te ciangin mimawh mah ka hihna-te ka thei-te hi. Tua ahih leh Khrih pen mawhna a piangsak a suakding hiam? Suak hetlo ding hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix
 
 ### v18
 **EN:** For if I build again the things which I destroyed, I make myself a transgressor.
 
-**TDB77:** Bang hang hiam na cih uh leh, nidanga ka suksiatna ka lamkik leh, mawhnei mi ka hi ci-in kilangsak hi.
+**TDB77:** Bang hang hiam na cih-te leh, nidanga ka suksiatna ka lamkik leh, mawhnei mi ka hi ci-in kilangsak hi.
 
-**ZVS:** Thukham zuihna hang hilo hi, ci-in ka phiatsa uh thu tu-in pankik leuleu leng keimahmah Thukham khialpa ka suakkik zel ding hi.
+**ZVS:** Thukham zuihna hang hilo hi, ci-in ka phiatsa-te thu tu-in pankik leuleu leng keimahmah Thukham khialpa ka suakkik zel ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 

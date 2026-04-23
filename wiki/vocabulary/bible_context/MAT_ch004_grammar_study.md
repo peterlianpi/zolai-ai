@@ -67,9 +67,9 @@
 ### v6
 **EN:** And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone.
 
-**TDB77:** “Nang in Pasian’ Tapa na hih takpi leh, na pumpi kikiasuksak in. Bang hang hiam cih leh: “Amah in ama vantungmite, nang ading thu a pia ding hi,” leh, ‘Na khe in suang tawh a kisuk khak loh nadingin, amau in a khut un, nang hong dom ding uh hi; ci-in Lai Siangtho sungah kigelh hi,” dawimangpa in a ci hi.
+**TDB77:** “Nang in Pasian’ Tapa na hih takpi leh, na pumpi kikiasuksak in. Bang hang hiam cih leh: “Amah in ama vantungmite, nang ading thu a pia ding hi,” leh, ‘Na khe in suang tawh a kisuk khak loh nadingin, amau in a khut un, nang hong dom ding-te hi; ci-in Lai Siangtho sungah kigelh hi,” dawimangpa in a ci hi.
 
-**ZVS:** “Pasian' Tapa taktak na hih leh Lai Siangtho sungah, ‘Pasian in nang a hong kem dingin a vantung mite hong sawl ding hi. Na khete leh suang a kitahkhak lohna dingin vantung mite in a khut uh tawh nang hong dom ding hi,’ ci-in kigelh ahih manin, hih lai panin tuaksuk in,” a ci hi.
+**ZVS:** “Pasian' Tapa taktak na hih leh Lai Siangtho sungah, ‘Pasian in nang a hong kem dingin a vantung mite hong sawl ding hi. Na khete leh suang a kitahkhak lohna dingin vantung mite in a khut-te tawh nang hong dom ding hi,’ ci-in kigelh ahih manin, hih lai panin tuaksuk in,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -110,9 +110,9 @@
 ### v11
 **EN:** Then the devil leaveth him, and, behold, angels came and ministered unto him.
 
-**TDB77:** Tua khit ciangin, dawimangpa in Topa kiang pan paikhia a, vantungmite hong pai-in an a vaak uh hi.
+**TDB77:** Tua khit ciangin, dawimangpa in Topa kiang pan paikhia a, vantungmite hong pai-in an a vaak-te hi.
 
-**ZVS:** Tua ciangin Dawimangpa paikhia a, vantung mite hong pai-in Jesuh huhin an a vak uh hi.
+**ZVS:** Tua ciangin Dawimangpa paikhia a, vantung mite hong pai-in Jesuh huhin an a vak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -151,25 +151,25 @@
 ### v16
 **EN:** The people which sat in darkness saw great light; and to them which sat in the region and shadow of death light is sprung up.
 
-**TDB77:** Khuamial sungah a om mite in, Khuavakna a mu uh hi; Sihna liim gam sungah a tute tungah, Khuavak a taang zo hi,” a ci hi.
+**TDB77:** Khuamial sungah a om mite in, Khuavakna a mu-te hi; Sihna liim gam sungah a tute tungah, Khuavak a taang zo hi,” a ci hi.
 
-**ZVS:** Khuamial sunga a teng mite in khuavak lianpi mu ding uh hi. Sihna gam khuamial sungah a teng mite tungah khuavak hong taang ding hi,” ci hi.
+**ZVS:** Khuamial sunga a teng mite in khuavak lianpi mu ding-te hi. Sihna gam khuamial sungah a teng mite tungah khuavak hong taang ding hi,” ci hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v17
 **EN:** From that time Jesus began to preach, and to say,
 
-**TDB77:** Tua nung ciangin Zeisu in, “Na mawhna uh kisikkik ta un. Bang hang hiam na cih uh leh, Vantung Gam a hong nai zo hi,” ci-in thuhilh a kipan hi.
+**TDB77:** Tua nung ciangin Zeisu in, “Na mawhna-te kisikkik ta un. Bang hang hiam na cih-te leh, Vantung Gam a hong nai zo hi,” ci-in thuhilh a kipan hi.
 
-**ZVS:** Tua huna kipan Jesuh in thuhilh ding kipan a, “Vantung ki-ukna hong naita ahih manin kisikin na omzia uh kheel un,” ci-in thu a hilh hi.
+**ZVS:** Tua huna kipan Jesuh in thuhilh ding kipan a, “Vantung ki-ukna hong naita ahih manin kisikin na omzia-te kheel un,” ci-in thu a hilh hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v18
 **EN:** And Jesus, walking by the sea of Galilee, saw two brethren, Simon called Peter, and Andrew his brother, casting a net into the sea: for they were fishers.
 
-**TDB77:** Galile tuili gei lamah a pai lai-in, Piter kici Simon leh Andru te unau, ngabengte ahih uh ciangin tui sungah ngen paai-a om uh a mu hi.
+**TDB77:** Galile tuili gei lamah a pai lai-in, Piter kici Simon leh Andru te unau, ngabengte ahih-te ciangin tui sungah ngen paai-a om-te a mu hi.
 
 **ZVS:** Galilee Tuili gei-ah Jesuh a pai laitakin ngabeng Peter a kici Simon leh a nau Andru, ngen tawh nga khuhin a om a mu hi.
 
@@ -187,9 +187,9 @@
 ### v20
 **EN:** And they straightway left their nets, and followed him.
 
-**TDB77:** amaute in thakhatin a ngen uh nusia-in Zeisu nung a zui uh hi.
+**TDB77:** amaute in thakhatin a ngen-te nusia-in Zeisu nung a zui-te hi.
 
-**ZVS:** Amaute gel in zong a ngente uh nusia-in Jesuh a zui pah uh hi.
+**ZVS:** Amaute gel in zong a ngente-te nusia-in Jesuh a zui pah-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -198,14 +198,14 @@
 
 **TDB77:** Tua mun a khen ciangin, unau dang nih, Zebedi’ ta Jakob leh Johan-te, a pa tawh gunkuang sungah ngen khui-a a om a muh ciangin a sam hi.
 
-**ZVS:** Tua lai panin a paikhiat khit uh ciangin Zebedi tapa James leh Johan-te unau, a pa uh tawh gunkuang sungah ngen puahin a om mu leuleu a, amaute gel zong a sam hi.
+**ZVS:** Tua lai panin a paikhiat khit-te ciangin Zebedi tapa James leh Johan-te unau, a pa-te tawh gunkuang sungah ngen puahin a om mu leuleu a, amaute gel zong a sam hi.
 
 ### v22
 **EN:** And they immediately left the ship and their father, and followed him.
 
-**TDB77:** Amau in thakhatin a pa leh a gunkuang uh nusia-in Zeisu nung a zui pah uh hi.
+**TDB77:** Amau in thakhatin a pa leh a gunkuang-te nusia-in Zeisu nung a zui pah-te hi.
 
-**ZVS:** Amaute gel in zong gunkuang leh a pa uh nusia-in Jesuh a zui pah uh hi.
+**ZVS:** Amaute gel in zong gunkuang leh a pa-te nusia-in Jesuh a zui pah-te hi.
 
 **Grammar:** punctual: immediately/suddenly | serial verb: -in (and then) | plural: uh marker
 
@@ -221,7 +221,7 @@
 ### v24
 **EN:** And his fame went throughout all Syria: and they brought unto him all sick people that were taken with divers diseases and torments, and those which were possessed with devils, and those which were lunatic, and those that had the palsy; and he healed them.
 
-**TDB77:** A thu khempeuh in Siria gam teng zeel a, dawi lut, sibup, khut leh khe si akipan, cinatna pawl khempeuh a veite ama kiangah hong paipih uh a, cinatna khempeuh a damsak hi.
+**TDB77:** A thu khempeuh in Siria gam teng zeel a, dawi lut, sibup, khut leh khe si akipan, cinatna pawl khempeuh a veite ama kiangah hong paipih-te a, cinatna khempeuh a damsak hi.
 
 **ZVS:** Syria gamsung khempeuhah ama thu kizel ahih manin dawivei mi, sibup mi, khutzaw khezaw mi-a kipanin natna satna a tuamtuam a nei mi khempeuh ama kiangah hong kipuak a, amah in a vekpi-in a damsak hi.
 
@@ -230,9 +230,9 @@
 ### v25
 **EN:** And there followed him great multitudes of people from Galilee, and from Decapolis, and from Jerusalem, and from Judaea, and from beyond Jordan.
 
-**TDB77:** Galile gam, Dekapolis gam, Jerusalem khuapi akipan, Judah gam, Jordan gungal khat pan mi tampi hong pai uh a, a nung a zui uh hi.
+**TDB77:** Galile gam, Dekapolis gam, Jerusalem khuapi akipan, Judah gam, Jordan gungal khat pan mi tampi hong pai-te a, a nung a zui-te hi.
 
-**ZVS:** Galilee gam, Khuapi Sawmte gam, Jerusalem khua, Judea gam leh Jordan Gun galkhat gam panin mi tampi tak in Jesuh a zui uh hi.
+**ZVS:** Galilee gam, Khuapi Sawmte gam, Jerusalem khua, Judea gam leh Jordan Gun galkhat gam panin mi tampi tak in Jesuh a zui-te hi.
 
 **Grammar:** plural: uh marker
 

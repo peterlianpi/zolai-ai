@@ -11,7 +11,7 @@
 **Related:** taak mahmah napi a kitambaih, taakkhia, taaklo, taaksing, taakskap
 **CEFR:** A1
 **Usage:** Adjective — place before noun or after verb as predicate.
-> *Amaute a mi-in tawmin, gen taak loin, peemta hi uh a,*
+> *Amaute a mi-in tawmin, gen taak loin, peemta hi-te a,*
 > → When ye were but few, even a few, and strangers in it.
 > `1CH 16:19`
 
@@ -40,7 +40,7 @@
 **Related:** taamtaak sing, taamngai banga tum theih namkhat, Taam lee
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Sirakhas khua tungin ni thum ka taam uh hi.*
+> *Sirakhas khua tungin ni thum ka taam-te hi.*
 > → And landing at Syracuse, we tarried there three days.
 > `ACT 28:12`
 
@@ -118,7 +118,7 @@
 **Meanings:** place | taberah | called | name | massah | because
 **CEFR:** A1
 **Usage:** Attested 90× across 4 Bible books.
-> *leh Kibrothhattaavah munte-ah zong { Topa } phinin na hehsak uh hi.*
+> *leh Kibrothhattaavah munte-ah zong { Topa } phinin na hehsak-te hi.*
 
 ### tabor
 **[n]** tabor
@@ -131,7 +131,7 @@
 
 ### tacil
 **[n]** firstborn
-**Meanings:** firstborn | children | ram | both | midnight | apart
+**Meanings:** firstborn | children | gam | both | midnight | apart
 **Synonyms:** upa, nunga, gawina
 **Antonyms:** leh
 **Related:** tapate, ganhing, egypt, israel, sung
@@ -157,7 +157,7 @@
 **Related:** tagah kepna, tagah banga kuama don loh naupang
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *tagah ahi zongin na gimsak kei ding uh hi.*
+> *tagah ahi zongin na gimsak kei ding-te hi.*
 > `EXO 22:22`
 
 ### tah
@@ -269,7 +269,7 @@
 **Related:** tampi, jesuh, pia, pai, thei
 **CEFR:** A1
 **Usage:** Attested 22335× across 103 Bible books.
-> *Gutate bangin nang hong buksim a, mi tampi tak siasak uh hi.*
+> *Gutate bangin nang hong buksim a, mi tampi tak siasak-te hi.*
 > → She also lieth in wait as for a prey, and increaseth the transgressors among men.
 > `PRO 23:28`
 
@@ -364,7 +364,7 @@
 **Related:** kham, egypt, note
 **CEFR:** A1
 **Usage:** Attested 325× across 6 Bible books.
-> *Lampi a pai lai takun tui omna-ah a tung uh a,*
+> *Lampi a pai lai takun tui omna-ah a tung-te a,*
 > → And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized?
 > `ACT 8:36`
 
@@ -375,7 +375,7 @@
 **Related:** puakna, nazat, tunin, savun, koih
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *puakna ding tal tungah koih ding uh hi.*
+> *puakna ding tal tungah koih ding-te hi.*
 
 ### taleh
 **[n]** whether
@@ -408,7 +408,7 @@
 **Meanings:** your | hand | may | frontlets | between | eyes
 **CEFR:** A1
 **Usage:** Attested 90× across 4 Bible books.
-> *a puanmongteep uh a sau theithei-in a bawl uh hi.*
+> *a puanmongteep-te a sau theithei-in a bawl-te hi.*
 
 ### talsuante
 **[n]** between
@@ -427,7 +427,7 @@
 **Related:** taltang tung deuh-a sam lom po, taltang tawh kisai, taltang tunga kilom heen sam
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *puakna ding tal tungah koih ding uh hi.*
+> *puakna ding tal tungah koih ding-te hi.*
 
 ### tam
 **[adj]** frequent
@@ -457,7 +457,7 @@
 **Related:** nusia, note
 **CEFR:** A1
 **Usage:** Attested 170× across 6 Bible books.
-> *na pate uh tawh a thuciamna mangngilhlo ding hi.*
+> *na pate-te tawh a thuciamna mangngilhlo ding hi.*
 
 ### tamin
 **[n]** after
@@ -566,7 +566,7 @@
 **Meanings:** trumpets | blew | three | hundred
 **CEFR:** A2
 **Usage:** Attested 20× across 2 Bible books.
-> *Amaute in peengkul za thumte a tum uh ciangin*
+> *Amaute in peengkul za thumte a tum-te ciangin*
 
 ### tabeel
 **[n]** mithredath
@@ -626,7 +626,7 @@
 **Meanings:** melech | micah | pithon | tahrea | sons | ahaz
 **CEFR:** A2
 **Usage:** Attested 50× across 2 Bible books.
-> *Mikah' tapate: Pithon, Melek, Tahrea, leh Ahaz ahi uh hi.*
+> *Mikah' tapate: Pithon, Melek, Tahrea, leh Ahaz ahi-te hi.*
 > → And the sons of Micah were, Pithon, and Melech, and Tahrea, and Ahaz.
 
 ### taikhawm
@@ -658,7 +658,7 @@
 **Related:** hang, cih, nusia, khin, zongin
 **CEFR:** A2
 **Usage:** Attested 2408× across 33 Bible books.
-> *Tua ciangin, a nungzuite khempeuh in Topa a taisan uh hi.*
+> *Tua ciangin, a nungzuite khempeuh in Topa a taisan-te hi.*
 > → And they all forsook him, and fled.
 > `MRK 14:50`
 
@@ -801,7 +801,7 @@
 **Meanings:** melech | micah | pithon | tarea | sons | ahaz
 **CEFR:** A2
 **Usage:** Attested 50× across 2 Bible books.
-> *Mikah' tapate: Pithon, Melek, Tarea, leh Ahaz ahi uh hi.*
+> *Mikah' tapate: Pithon, Melek, Tarea, leh Ahaz ahi-te hi.*
 > → And the sons of Micah were, Pithon, and Melech, and Tarea, and Ahaz.
 
 ### tartak
@@ -1184,7 +1184,7 @@
 **Meanings:** much | poor | hate | how | more | friends
 **CEFR:** B1
 **Usage:** Attested 85× across 2 Bible books.
-> *sanggam zawngpa uh mudah ciat ahih manin*
+> *sanggam zawngpa-te mudah ciat ahih manin*
 
 ### taisim
 **[n]** egypt
@@ -1318,7 +1318,7 @@
 **Meanings:** hide | saw | vision | great | quaking | fell
 **CEFR:** B2
 **Usage:** Attested 95× across 2 Bible books.
-> *mu kei uh hi. Amaute lau uh ahih manin taimangin*
+> *mu kei-te hi. Amaute lau-te ahih manin taimangin*
 
 ### tamngaite
 **[n]** flute
@@ -1351,7 +1351,7 @@
 **Meanings:** increase | enough | commit | whoredom | because | left
 **CEFR:** B2
 **Usage:** Attested 80× across 2 Bible books.
-> *bia dingin kei kiang panin kiheikhia uh ahih manin biakpiakna*
+> *bia dingin kei kiang panin kiheikhia-te ahih manin biakpiakna*
 
 ### tansa
 **[]** silver
@@ -1410,7 +1410,7 @@
 **[]** ancient
 **Meanings:** ancient | came | man | clouds | heaven | days
 **CEFR:** B2
-> *Amau lungkhauh tawnung uh hi.*
+> *Amau lungkhauh tawnung-te hi.*
 
 ### teei
 **[]** saith
@@ -1522,7 +1522,7 @@
 **[]** slay
 **Meanings:** slay | spare | continually | nations | therefore | empty
 **CEFR:** B2
-> *Amaute in a namsau uh zangin*
+> *Amaute in a namsau-te zangin*
 > `HAB 1:17`
 
 ### thawlpi
@@ -1550,7 +1550,7 @@
 **Meanings:** multitudes | valley | decision | day
 **CEFR:** B2
 **Usage:** Attested 40× across 2 Bible books.
-> *Thukhenna Kuam-ah a tul a thenin om uh hi. Bang*
+> *Thukhenna Kuam-ah a tul a thenin om-te hi. Bang*
 
 ### thomas
 **[n]** thomas
@@ -1594,7 +1594,7 @@
 **[]** missing
 **Meanings:** missing | answered | moses | law | houses | called
 **CEFR:** B2
-> *thei lo hih mihonpite in kosiatna ngahte ahi uh hi,”*
+> *thei lo hih mihonpite in kosiatna ngahte ahi-te hi,”*
 > `JHN 7:49`
 
 ### thukhennasa
@@ -1616,7 +1616,7 @@
 **Meanings:** missing | judge | world | judged | unworthy | smallest
 **CEFR:** B2
 **Usage:** Attested 95× across 2 Bible books.
-> *ahi zongin thuneute amaute in khen tawm uh hi.*
+> *ahi zongin thuneute amaute in khen tawm-te hi.*
 
 ### thungip
 **[n]** missing
@@ -1726,7 +1726,7 @@
 ### taneu
 **[]** missing
 **CEFR:** C1
-> *Inn ah a nutsiat uh a taneu laite,*
+> *Inn ah a nutsiat-te a taneu laite,*
 
 ### tangdinga
 **[n]** righteous
@@ -1800,7 +1800,7 @@
 **Meanings:** children | touching | election | sakes | being | yet
 **CEFR:** C1
 **Usage:** Attested 175× across 2 Bible books.
-> *Sauveipi a kisel khit uh ciangin Peter hong ding*
+> *Sauveipi a kisel khit-te ciangin Peter hong ding*
 
 ### teelsate
 **[]** missing
@@ -2024,7 +2024,7 @@ t
 **Meanings:** now | change of state | already | just happened | (int) ka lung a awi tinak (nauhak pawlih hman mi). (colloq).
 **CEFR:** C2
 **Usage:** Aspect marker: change has occurred. 'Om ta' = now exists. 'Dam kik ta hi' = well again now.
-> *Ciamsiatna ngah ta uh hen!*
+> *Ciamsiatna ngah ta-te hen!*
 
 ### ta-ta
 **[]** (n) (good-bye) nauhak pawlih damten ti-ih mi an tinak.
@@ -2093,7 +2093,7 @@ taaimang
 **[v]** quit
 **Meanings:** decamp | to desert
 **CEFR:** C2
-> *Ahi zongin tukhang American te in Pasian taaisan ta uh hi.*
+> *Ahi zongin tukhang American te in Pasian taaisan ta-te hi.*
 
 ### taaisim
 **[]** to abscond to shirk

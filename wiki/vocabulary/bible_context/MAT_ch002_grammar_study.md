@@ -26,27 +26,27 @@
 ### v1
 **EN:** Now when Jesus was born in Bethlehem of Judaea in the days of Herod the king, behold, there came wise men from the east to Jerusalem,
 
-**TDB77:** Judah gam Herod Kumpipa a man’ lai takin, Bethlehem khua-ah Zeisu a suah khit ciangin mipilte in ni suahna gam lam panin Jerusalem khuapi-ah tung uh a, tu lai taka suak Judah kumpipa koi lai takah om hiam?
+**TDB77:** Judah gam Herod Kumpipa a man’ lai takin, Bethlehem khua-ah Zeisu a suah khit ciangin mipilte in ni suahna gam lam panin Jerusalem khuapi-ah tung-te a, tu lai taka suak Judah kumpipa koi lai takah om hiam?
 
-**ZVS:** Herod in Judea gamah kumpi a sep hun laitakin tua gamsung Bethlehem khua-ah Jesuh a suak hi. A suah khit phetin aksi thu lamsang a siam mi pawlkhat, nisuahna lam panin Jerusalem-ah hong tung uh a,
+**ZVS:** Herod in Judea gamah kumpi a sep hun laitakin tua gamsung Bethlehem khua-ah Jesuh a suak hi. A suah khit phetin aksi thu lamsang a siam mi pawlkhat, nisuahna lam panin Jerusalem-ah hong tung-te a,
 
 **Grammar:** plural: uh marker
 
 ### v2
 **EN:** Saying, Where is he that is born King of the Jews? for we have seen his star in the east, and are come to worship him.
 
-**TDB77:** Ni suahna gam lam pan ama aksi ka mu zo uh hi. A bia dinginah ka hong pai uh hi,” ci-in a dong uh hi.
+**TDB77:** Ni suahna gam lam pan ama aksi ka mu zo-te hi. A bia dinginah ka hong pai-te hi,” ci-in a dong-te hi.
 
-**ZVS:** “Jew mite' kumpi ding ahi naungek a hong suak pen koi lai-ah om ahi hiam? Nisuahna lam pan ama aksi hong suah ciangin ka mu uh a, amah a bia dingin a hong pai ka hi uh hi,” hong ci uh hi.
+**ZVS:** “Jew mite' kumpi ding ahi naungek a hong suak pen koi lai-ah om ahi hiam? Nisuahna lam pan ama aksi hong suah ciangin ka mu-te a, amah a bia dingin a hong pai ka hi-te hi,” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v3
 **EN:** When Herod the king had heard these things, he was troubled, and all Jerusalem with him.
 
-**TDB77:** Herod kumpipa in tua thu a zak ciangin Jerusalem khuami khempeuh tawh a lunghimawh uh hi.
+**TDB77:** Herod kumpipa in tua thu a zak ciangin Jerusalem khuami khempeuh tawh a lunghimawh-te hi.
 
-**ZVS:** Kumpi Herod in hih thu a zak ciangin lamdangsa mahmah a, Jerusalem khuami khempeuh in zong lamdang a sa ciat uh hi.
+**ZVS:** Kumpi Herod in hih thu a zak ciangin lamdangsa mahmah a, Jerusalem khuami khempeuh in zong lamdang a sa ciat-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -67,9 +67,9 @@
 ### v6
 **EN:** And thou Bethlehem, in the land of Juda, art not the least among the princes of Juda: for out of thee shall come a Governor, that shall rule my people Israel.
 
-**TDB77:** ‘Judah gam Bethlehem khua aw, Judah gam khuapi lakah nang, khua neu, khua gina lo na hi kei hi. Bang hang hiam na cih leh, keima mipawl Israel mite cing dingin, Nangma sungah mangpa khat a piang ding hi, ci-in Lai Siangtho sungah a kigelh mah bangin Judah gam Bethlehem khua-ah Khazih a suak ding hi,” ci-in kumpipa kiangah a gen uh hi.
+**TDB77:** ‘Judah gam Bethlehem khua aw, Judah gam khuapi lakah nang, khua neu, khua gina lo na hi kei hi. Bang hang hiam na cih leh, keima mipawl Israel mite cing dingin, Nangma sungah mangpa khat a piang ding hi, ci-in Lai Siangtho sungah a kigelh mah bangin Judah gam Bethlehem khua-ah Khazih a suak ding hi,” ci-in kumpipa kiangah a gen-te hi.
 
-**ZVS:** Amaute in, “Kamsangpa in a lai gelhna sungah, ‘Judah gamah a om Bethlehem khua aw, ka mi Israel-te a uk dingin nangma sung panin ukpa khat hong piang ding ahih manin Judah gam a uk khuate lakah a neu na hi het kei hi,’ ci ahih manin Judea gamsung Bethlehem khua-ah suak ding hi,” ci-in a dawng uh hi.
+**ZVS:** Amaute in, “Kamsangpa in a lai gelhna sungah, ‘Judah gamah a om Bethlehem khua aw, ka mi Israel-te a uk dingin nangma sung panin ukpa khat hong piang ding ahih manin Judah gam a uk khuate lakah a neu na hi het kei hi,’ ci ahih manin Judea gamsung Bethlehem khua-ah suak ding hi,” ci-in a dawng-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -85,54 +85,54 @@
 ### v8
 **EN:** And he sent them to Bethlehem, and said, Go and search diligently for the young child; and when ye have found him, bring me word again, that I may come and worship him also.
 
-**TDB77:** a theih khit ciangin, “Note pai un la, tua naupang va hah zon’ un. Na muh uh leh, kei kiangah hong gen kik in. Kei zong pai-in tua naupang ka va bia ding hi,” ci-in vaikhak a, Bethlehem khua-ah a paisak hi.
+**TDB77:** a theih khit ciangin, “Note pai un la, tua naupang va hah zon’ un. Na muh-te leh, kei kiangah hong gen kik in. Kei zong pai-in tua naupang ka va bia ding hi,” ci-in vaikhak a, Bethlehem khua-ah a paisak hi.
 
-**ZVS:** Bethlehem khua-ah a paina dingun sawl a, “Tua naungek limtakin va zong un la, kei zong hong pai-in amah ka biak theihna dingin na muh khit uh ciangin kei kiangah thu hong zasak un,” ci-in a vaikhak hi.
+**ZVS:** Bethlehem khua-ah a paina dingun sawl a, “Tua naungek limtakin va zong un la, kei zong hong pai-in amah ka biak theihna dingin na muh khit-te ciangin kei kiangah thu hong zasak un,” ci-in a vaikhak hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v9
 **EN:** When they had heard the king, they departed; and, lo, the star, which they saw in the east, went before them, till it came and stood over where the young child was.
 
-**TDB77:** Tuate in kumpipa’ thu a zak khit uh ciangin paikhia uh a, ni suahna gam lam pan a kimusa aksi in amau mai-ah pai a, naupang’ omna tung a tun’ ciangin a khawl hi.
+**TDB77:** Tuate in kumpipa’ thu a zak khit-te ciangin paikhia-te a, ni suahna gam lam pan a kimusa aksi in amau mai-ah pai a, naupang’ omna tung a tun’ ciangin a khawl hi.
 
-**ZVS:** Amaute in kumpipa' vaikhak thuteng a zak khit uh ciangin paikhia uh a, nisuahna lamah a muh uh aksi mah, lam a pai laitakun mu uh a, naungek omna tung santak a tun' matengin amaute mai-ah tua aksi na pai hi.
+**ZVS:** Amaute in kumpipa' vaikhak thuteng a zak khit-te ciangin paikhia-te a, nisuahna lamah a muh-te aksi mah, lam a pai laitakun mu-te a, naungek omna tung santak a tun' matengin amaute mai-ah tua aksi na pai hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** When they saw the star, they rejoiced with exceeding great joy.
 
-**TDB77:** Mipilte in tua aksi a muh uh ciangin nuam mahmah uh a,
+**TDB77:** Mipilte in tua aksi a muh-te ciangin nuam mahmah-te a,
 
-**ZVS:** Tua aksi a muh uh ciangin a lungdamna uh kigen theilo hi.
+**ZVS:** Tua aksi a muh-te ciangin a lungdamna-te kigen theilo hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v11
 **EN:** And when they were come into the house, they saw the young child with Mary his mother, and fell down, and worshipped him: and when they had opened their treasures, they presented unto him gifts; gold, and frankincense, and myrrh.
 
-**TDB77:** inn sungah a lut uh leh, naupang leh a nu Mari a muh uh ciangin a bia uh hi. Amau van a suah khit uh ciangin kham leh paknamtui leh mirrah a pia uh hi.
+**TDB77:** inn sungah a lut-te leh, naupang leh a nu Mari a muh-te ciangin a bia-te hi. Amau van a suah khit-te ciangin kham leh paknamtui leh mirrah a pia-te hi.
 
-**ZVS:** Inn sungah amaute lut uh a, naungek leh a nu Mary a mu uh hi. Amaute khukdin'in tua naungek a biak khit uh ciangin a vanpuakte uh suahkhia uh a, kham, saledi paknamtui, leh myrrh paknamtuite, letsongin a pia uh hi.
+**ZVS:** Inn sungah amaute lut-te a, naungek leh a nu Mary a mu-te hi. Amaute khukdin'in tua naungek a biak khit-te ciangin a vanpuakte-te suahkhia-te a, kham, saledi paknamtui, leh myrrh paknamtuite, letsongin a pia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** And being warned of God in a dream that they should not return to Herod, they departed into their own country another way.
 
-**TDB77:** Tua nung ciangin Herod kumpipa kiangah a pai nawn loh nadingun a mang sung uhah thu kipiakna bangin, amaute khua-ah ciah dingin lampi dang a tawn uh hi.
+**TDB77:** Tua nung ciangin Herod kumpipa kiangah a pai nawn loh nadingun a mang sung uhah thu kipiakna bangin, amaute khua-ah ciah dingin lampi dang a tawn-te hi.
 
-**ZVS:** Herod kiangah a kihilkik lohna dingun a mang sung uhah Pasian in hilh ahih manin, lampi dang tawnin a gam uhah a ciahkik uh hi.
+**ZVS:** Herod kiangah a kihilkik lohna dingun a mang sung uhah Pasian in hilh ahih manin, lampi dang tawnin a gam uhah a ciahkik-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And when they were departed, behold, the angel of the Lord appeareth to Joseph in a dream, saying, Arise, and take the young child and his mother, and flee into Egypt, and be thou there until I bring thee word: for Herod will seek the young child to destroy him.
 
-**TDB77:** Tua mite a pai khit uh ciangin Pasian’ vantungmi khat in Josef’ mang sungah kilang a, “Tho in, naupangno leh a nu sam in la, Izipt gamah taipih in. Ka hong hilh kik matengin tua gamah va om in. Herod kumpipa in naupang that nuamin a zong ding hi,” a ci hi.
+**TDB77:** Tua mite a pai khit-te ciangin Pasian’ vantungmi khat in Josef’ mang sungah kilang a, “Tho in, naupangno leh a nu sam in la, Izipt gamah taipih in. Ka hong hilh kik matengin tua gamah va om in. Herod kumpipa in naupang that nuamin a zong ding hi,” a ci hi.
 
-**ZVS:** Tua mipilte a ciah khit uh ciangin Josef' mang sungah Topa' vantung mi khat hong kilang a, “Kithawi-in naungek leh a nu, Egypt gamah taipih in. Pai khia un, ci-in kong genkik matengin tua gamah va om un. Herod in naungek thah dingin hong zong ding hi,” a ci hi.
+**ZVS:** Tua mipilte a ciah khit-te ciangin Josef' mang sungah Topa' vantung mi khat hong kilang a, “Kithawi-in naungek leh a nu, Egypt gamah taipih in. Pai khia un, ci-in kong genkik matengin tua gamah va om un. Herod in naungek thah dingin hong zong ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 
@@ -141,7 +141,7 @@
 
 **TDB77:** Tua ciangin Josef tho a, naupang leh a nu zankimpi-in samkhia a, Izipt gamah a taipih hi.
 
-**ZVS:** Josef zong kithawi pah a, Egypt gam a zuan dingin naungek leh a nu tawh zanpi mahin dingkhia uh a,
+**ZVS:** Josef zong kithawi pah a, Egypt gam a zuan dingin naungek leh a nu tawh zanpi mahin dingkhia-te a,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then)
 
@@ -150,7 +150,7 @@
 
 **TDB77:** Herod kumpipa a sih matengin tua gamah a va om hi. Tua bang va omna in Pasian in a kamsangpa tungah, “Ka tapa Izipt gam panin ka sam zo hi,” ci-a a genkholhsa thu a tun’ nading hi.
 
-**ZVS:** Herod a sih hun ciangdong tua gamah a va om uh hi. Kamsangpa tung tawnin Topa in, “Egypt gam panin ka Tapa ka samkhia hi,” ci-in a genna thu a tun'na dingin hih bangin a piang ahi hi.
+**ZVS:** Herod a sih hun ciangdong tua gamah a va om-te hi. Kamsangpa tung tawnin Topa in, “Egypt gam panin ka Tapa ka samkhia hi,” ci-in a genna thu a tun'na dingin hih bangin a piang ahi hi.
 
 ### v16
 **EN:** Then Herod, when he saw that he was mocked of the wise men, was exceeding wroth, and sent forth, and slew all the children that were in Bethlehem, and in all the coasts thereof, from two years old and under, according to the time which he had diligently enquired of the wise men.
@@ -189,7 +189,7 @@
 ### v20
 **EN:** Saying, Arise, and take the young child and his mother, and go into the land of Israel: for they are dead which sought the young child's life.
 
-**TDB77:** “Tho in la, naupang leh a nu sam in la, Israel gamah na ciahpih in. Naupang that nuama a zongte in a si zo uh hi,” a ci hi.
+**TDB77:** “Tho in la, naupang leh a nu sam in la, Israel gamah na ciahpih in. Naupang that nuama a zongte in a si zo-te hi,” a ci hi.
 
 **ZVS:** “Naupang a that nuam mite si khinta ahih ciangin kithawi in la, naupang leh a nu tawh Israel gamah ciah un,” a ci hi.
 
@@ -200,7 +200,7 @@
 
 **TDB77:** Tua ciangin amah tho a, naupang leh a nu sam a, Israel gamah a tung kik hi.
 
-**ZVS:** Josef zong kithawi-in, naupang leh a nu tawh Israel gamah a ciah uh hi.
+**ZVS:** Josef zong kithawi-in, naupang leh a nu tawh Israel gamah a ciah-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -218,7 +218,7 @@
 
 **TDB77:** Galile gamah pai a, “Khazih in Nazereth mi kici ding hi,” ci-a Pasian’ kamsangte’ gen bangin a tun’ nadingin Nazareth kici khua khatah tungin a teeng hi.
 
-**ZVS:** Nazareth khua-ah a teng uh hi. Kamsangte in, “Amah pen Nazareth khuami kici ding hi,” ci-in a genkholhna a tun'na dingin hih bangin a piang ahi hi.
+**ZVS:** Nazareth khua-ah a teng-te hi. Kamsangte in, “Amah pen Nazareth khuami kici ding hi,” ci-in a genkholhna a tun'na dingin hih bangin a piang ahi hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 

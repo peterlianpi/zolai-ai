@@ -32,9 +32,9 @@
 ### v3
 **EN:** For there they that carried us away captive required of us a song; and they that wasted us required of us mirth, saying, Sing us one of the songs of Zion.
 
-**TDB77:** Bang hang hiam cih leh ei hong man mite in la i sak ding hong deih a, ei hong bawlsiate in i gualnop ding hong deihin, “Zion late khat hong sak un!” hong ci uh hi.
+**TDB77:** Bang hang hiam cih leh ei hong man mite in la i sak ding hong deih a, ei hong bawlsiate in i gualnop ding hong deihin, “Zion late khat hong sak un!” hong ci-te hi.
 
-**ZVS:** bang hang hiam cih leh ei hong man mite in la i sak ding hong deih a, ei hong bawlsiate in i gualnop ding hong deihin, “Zion late khat hong sak un,” hong ci uh hi.
+**ZVS:** bang hang hiam cih leh ei hong man mite in la i sak ding hong deih a, ei hong bawlsiate in i gualnop ding hong deihin, “Zion late khat hong sak un,” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -62,9 +62,9 @@
 ### v7
 **EN:** Remember, O
 
-**TDB77:** Topa aw, Jerusalem a siat ni-a Edom mite in, “Sumai un, sumai un! A bulpi dongin sumai un!” a cih vialna uh phawk in.
+**TDB77:** Topa aw, Jerusalem a siat ni-a Edom mite in, “Sumai un, sumai un! A bulpi dongin sumai un!” a cih vialna-te phawk in.
 
-**ZVS:** { Topa } aw, Jerusalem a siat hun lai-in Edom mite in, “Sumai un, sumai un! A bulpi dongin sumai un!” a cih vialna uh phawk in.
+**ZVS:** { Topa } aw, Jerusalem a siat hun lai-in Edom mite in, “Sumai un, sumai un! A bulpi dongin sumai un!” a cih vialna-te phawk in.
 
 ### v8
 **EN:** O daughter of Babylon, who art to be destroyed; happy shall he be, that rewardeth thee as thou hast served us.

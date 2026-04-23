@@ -18,7 +18,7 @@
 **Related:** giahphual, dingkhia, sat, munah
 **CEFR:** A1
 **Usage:** Attested 215× across 2 Bible books.
-> *Israel mite dingkhia uh a, Oboth munah giahphual sat uh hi.*
+> *Israel mite dingkhia-te a, Oboth munah giahphual sat-te hi.*
 > → And the children of Israel set forward, and pitched in Oboth.
 
 ### ofir
@@ -161,7 +161,7 @@
 **Related:** omkhawm thei
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Nungzuite tawh sawtpi a omkhawm uh hi.*
+> *Nungzuite tawh sawtpi a omkhawm-te hi.*
 > → And there they abode long time with the disciples.
 > `ACT 14:28`
 
@@ -207,7 +207,7 @@
 **Related:** omna mun min leh khua leh tui omna, omna mun tawh kisai, omna leh khuahun nuamsate bana a nop behlap nadinga kibawl nate, omna dik lohna
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *Sapul omna peuhah musanete hong kikhawm ding uh hi.”*
+> *Sapul omna peuhah musanete hong kikhawm ding-te hi.”*
 > → [Missing]
 > `MAT 24:28`
 
@@ -267,7 +267,7 @@
 **Related:** cih, lungsim, sungah, note, hang
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *Tu laitak-a na omzia uh lim takin ngaihsun un.*
+> *Tu laitak-a na omzia-te lim takin ngaihsun un.*
 > → Now therefore thus saith the
 > `HAG 1:5`
 
@@ -312,14 +312,14 @@
 **Related:** tapa, tanu, aksah, naupa, pia
 **CEFR:** A1
 **Usage:** Attested 330× across 6 Bible books.
-> *Kenaz' tapate: Othniel leh Seraiah ahi uh hi. Othniel' tapate:*
+> *Kenaz' tapate: Othniel leh Seraiah ahi-te hi. Othniel' tapate:*
 
 ### ozni
 **[n]** family
 **Meanings:** family | ozni | oznites | eri | erites
 **CEFR:** A1
 **Usage:** Attested 55× across 2 Bible books.
-> *Ozni pan Ozni behte ahi uh hi; Eri pan Eri*
+> *Ozni pan Ozni behte ahi-te hi; Eri pan Eri*
 
 ## A2 Level (29 words)
 
@@ -409,7 +409,7 @@
 **Related:** tapa, inn, zongin, jesuh, khit
 **CEFR:** A2
 **Usage:** Attested 850× across 14 Bible books.
-> *Ahi zongin kuamah in dawngloin omcip uh hi. Jesuh in*
+> *Ahi zongin kuamah in dawngloin omcip-te hi. Jesuh in*
 
 ### omkhawmin
 **[n]** david
@@ -433,7 +433,7 @@
 **Meanings:** way | city | king | broken | men | war
 **CEFR:** A2
 **Usage:** Attested 190× across 2 Bible books.
-> *Tua ciangin khuapikulh sulet uh hi. Khaldea mite khuapi kiimah*
+> *Tua ciangin khuapikulh sulet-te hi. Khaldea mite khuapi kiimah*
 
 ### ompihin
 **[n]** god
@@ -449,7 +449,7 @@
 **Related:** tapa, kumpi, israel, judah, sung
 **CEFR:** A2
 **Usage:** Attested 990× across 4 Bible books.
-> *leh Alemeth ahi uh hi.*
+> *leh Alemeth ahi-te hi.*
 
 ### omsakin
 **[n]** grace
@@ -473,7 +473,7 @@
 **Related:** lod, khua, hadid, khuami, sagih
 **CEFR:** A2
 **Usage:** Attested 305× across 6 Bible books.
-> *Lod, Ono, leh Geharashim khuate-ah Benjamin mite teeng uh hi.*
+> *Lod, Ono, leh Geharashim khuate-ah Benjamin mite teeng-te hi.*
 > → Lod, and Ono, the valley of craftsmen.
 > `NEH 11:35`
 
@@ -488,10 +488,10 @@
 
 ### oren
 **[n]** bunah
-**Meanings:** bunah | firstborn | hezron | ram | oren | ozem
+**Meanings:** bunah | firstborn | hezron | gam | oren | ozem
 **CEFR:** A2
 **Usage:** Attested 90× across 2 Bible books.
-> *Hezron' tacil Jerahmeel' tapate: A tacil Ram*
+> *Hezron' tacil Jerahmeel' tapate: A tacil gam*
 
 ### ornan
 **[n]** ornan
@@ -514,7 +514,7 @@
 **[]** kenaz
 **Meanings:** kenaz | sons | othniel | seraiah | hathath
 **CEFR:** A2
-> *Kenaz’ tapate in: Othiel leh Seraiah ahi uh hi; Othniel’*
+> *Kenaz’ tapate in: Othiel leh Seraiah ahi-te hi; Othniel’*
 > `1CH 4:13`
 
 ### othni
@@ -551,7 +551,7 @@
 
 ### ozem
 **[n]** sixth
-**Meanings:** sixth | bunah | ozem | firstborn | david | ram
+**Meanings:** sixth | bunah | ozem | firstborn | david | gam
 **CEFR:** A2
 **Usage:** Attested 35× across 2 Bible books.
 > *a gukna Ozem, a sagihna David’ pa ahi hi;*
@@ -587,7 +587,7 @@
 **Related:** takin
 **CEFR:** B1
 **Usage:** Attested 190× across 4 Bible books.
-> *thungaihsun theite in olno takin ngah thei uh hi.*
+> *thungaihsun theite in olno takin ngah thei-te hi.*
 
 ### oloes
 **[]** bed
@@ -666,7 +666,7 @@
 **Related:** hun, tanvei, kibang, loin, lungnuamin
 **CEFR:** B1
 **Usage:** Attested 416× across 15 Bible books.
-> *migilote bang tanvei lungdamin omom lai ding ahi uh hiam?*
+> *migilote bang tanvei lungdamin omom lai ding ahi-te hiam?*
 > `PSA 94:3`
 
 ### omzaw
@@ -729,7 +729,7 @@
 **Related:** kuamah, bangmah, cih, zongin, sungah
 **CEFR:** C1
 **Usage:** Attested 40456× across 113 Bible books.
-> *En un, na inn uh mi omlo gam simthamin kinusia ding hi.*
+> *En un, na inn-te mi omlo gam simthamin kinusia ding hi.*
 > → [Missing]
 > `MAT 23:38`
 

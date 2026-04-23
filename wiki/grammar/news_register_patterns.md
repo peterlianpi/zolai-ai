@@ -56,7 +56,7 @@ Mawtaw khat a that hi. = A vehicle was destroyed.
 
 ### 8. Shelter/refuge idiom
 ```
-A buuk sungah a kikhum uh hi. = They took shelter inside.
+A buuk sungah a kikhum-te hi. = They took shelter inside.
 (buuk = nest/shelter, ki-khum = gather/hide together)
 ```
 

@@ -81,9 +81,9 @@
 ### v7
 **EN:** And I will give them an heart to know me, that I am the
 
-**TDB77:** Keimah Topa ka hih lam theihtheihna lungsim ka pia ding hi. Amaute in a lungsim khempeuh uh tawh kei kiangah hong kileh ding uh ahih manin amaute ka mi ahi ding uh a, keimah in amaute’ Pasian ka hi ding hi.
+**TDB77:** Keimah Topa ka hih lam theihtheihna lungsim ka pia ding hi. Amaute in a lungsim khempeuh-te tawh kei kiangah hong kileh ding-te ahih manin amaute ka mi ahi ding-te a, keimah in amaute’ Pasian ka hi ding hi.
 
-**ZVS:** Keimah { Topa } ka hihlam theihtheihna lungsim ka pia ding hi. A lungsim khempeuh uh tawh kei kiangah hong kileh ding uh ahih manin amaute ka mi ahi ding uh a, kei pen amaute' Pasian ka hi ding hi.
+**ZVS:** Keimah { Topa } ka hihlam theihtheihna lungsim ka pia ding hi. A lungsim khempeuh-te tawh kei kiangah hong kileh ding-te ahih manin amaute ka mi ahi ding-te a, kei pen amaute' Pasian ka hi ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 

@@ -41,18 +41,18 @@
 ### v3
 **EN:** He took counsel with his princes and his mighty men to stop the waters of the fountains which were without the city: and they did help him.
 
-**TDB77:** amah in a uliante leh a mi thahatte tawh khuapi pua lam-a luangkhia tuinakte khakcip ding vaihawm hi; amaute in amah huh uh hi.
+**TDB77:** amah in a uliante leh a mi thahatte tawh khuapi pua lam-a luangkhia tuinakte khakcip ding vaihawm hi; amaute in amah huh-te hi.
 
-**ZVS:** amah in a uliante leh a mi thahatte tawh khuapi pualamah a luangkhia tuinakte khakcip ding vaihawm a, amaute in amah a huh uh hi.
+**ZVS:** amah in a uliante leh a mi thahatte tawh khuapi pualamah a luangkhia tuinakte khakcip ding vaihawm a, amaute in amah a huh-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** So there was gathered much people together, who stopped all the fountains, and the brook that ran through the midst of the land, saying, Why should the kings of Assyria come, and find much water?
 
-**TDB77:** Mi tampi tak kikhawm uh a, gam sungah a luang tuinak leh lui khempeuh khakcipin “Bang hangin Assiria kumpite hong pai-in tui tampi mu ding ahi hiam?” ci uh hi.
+**TDB77:** Mi tampi tak kikhawm-te a, gam sungah a luang tuinak leh lui khempeuh khakcipin “Bang hangin Assiria kumpite hong pai-in tui tampi mu ding ahi hiam?” ci-te hi.
 
-**ZVS:** Mi tampi tak kikhawm uh a, gamsungah a luang tuinak leh lui khempeuh khakcipin, “Bang hangin Assiria kumpite hong pai-in tui tampi mu ding ahi uh hiam?” a ci uh hi.
+**ZVS:** Mi tampi tak kikhawm-te a, gamsungah a luang tuinak leh lui khempeuh khakcipin, “Bang hangin Assiria kumpite hong pai-in tui tampi mu ding ahi-te hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -84,9 +84,9 @@
 ### v8
 **EN:** With him is an arm of flesh; but with us is the
 
-**TDB77:** Amah tawh mihing thatang om hi; ahih hangin eite hong huhin i gal hong dosak dingin Topa i Pasian in eite tawh hong om hi,” a ci hi. Tua ciangin mite in Judah kumpipa Hezekiah’ kammalte muang uh hi.
+**TDB77:** Amah tawh mihing thatang om hi; ahih hangin eite hong huhin i gal hong dosak dingin Topa i Pasian in eite tawh hong om hi,” a ci hi. Tua ciangin mite in Judah kumpipa Hezekiah’ kammalte muang-te hi.
 
-**ZVS:** Amah in mihing thahatna nei a, ahih hangin eite hong huhin i gal hong dosak dingin { Topa } i Pasian in eite hong ompih hi,” a ci hi. Tua ahih ciangin mite in Judah kumpipa Hezekiah' kammalte a muang uh hi.
+**ZVS:** Amah in mihing thahatna nei a, ahih hangin eite hong huhin i gal hong dosak dingin { Topa } i Pasian in eite hong ompih hi,” a ci hi. Tua ahih ciangin mite in Judah kumpipa Hezekiah' kammalte a muang-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -102,9 +102,9 @@
 ### v10
 **EN:** Thus saith Sennacherib king of Assyria, Whereon do ye trust, that ye abide in the siege in Jerusalem?
 
-**TDB77:** “Assiria kumpipa Sennakherib in hih bangin ci hi, ‘Note in Jerusalem umcihna na nan’ nading uh bang suang na hi uh hiam?
+**TDB77:** “Assiria kumpipa Sennakherib in hih bangin ci hi, ‘Note in Jerusalem umcihna na nan’ nading-te bang suang na hi-te hiam?
 
-**ZVS:** “Assiria kumpipa Sennakherib in hih bangin ci hi: ‘Note in Jerusalem umcihna na nan'na ding uh bang suang na hi uh hiam?
+**ZVS:** “Assiria kumpipa Sennakherib in hih bangin ci hi: ‘Note in Jerusalem umcihna na nan'na ding-te bang suang na hi-te hiam?
 
 **Grammar:** quotative: said/saying
 
@@ -120,18 +120,18 @@
 ### v12
 **EN:** Hath not the same Hezekiah taken away his high places and his altars, and commanded Judah and Jerusalem, saying, Ye shall worship before one altar, and burn incense upon it?
 
-**TDB77:** Hih Hezekiah mah in mual dawn a, a biak piaknate leh ama biakna taute la khia-in Judah leh Jerusalem thu pia a, “Biakna tau khat mai-ah note in bia-in tua tungah na biak piaknate uh na hal ding uh hi,” ci hilo ahi hiam?
+**TDB77:** Hih Hezekiah mah in mual dawn a, a biak piaknate leh ama biakna taute la khia-in Judah leh Jerusalem thu pia a, “Biakna tau khat mai-ah note in bia-in tua tungah na biak piaknate-te na hal ding-te hi,” ci hilo ahi hiam?
 
-**ZVS:** Hih Hezekiah mah in mual dawna a biakpiaknate leh ama biakna taute lakhia-in Judah leh Jerusalem thu pia a, “Biakna tau khat mai-ah note in bia-in tua tungah na biakpiaknate uh na hal ding uh hi,” ci hilo ahi hiam?
+**ZVS:** Hih Hezekiah mah in mual dawna a biakpiaknate leh ama biakna taute lakhia-in Judah leh Jerusalem thu pia a, “Biakna tau khat mai-ah note in bia-in tua tungah na biakpiaknate-te na hal ding-te hi,” ci hilo ahi hiam?
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v13
 **EN:** Know ye not what I and my fathers have done unto all the people of other lands? were the gods of the nations of those lands any ways able to deliver their lands out of mine hand?
 
-**TDB77:** Keimah leh ka pu ka pate in gamdang mi khempeuh tungah ka hihnasate uh thei lo na hi uh hiam? Tua gam minamte’ pasiante in keima khut sung panin a gam uh honkhia zo ahi uh hiam?
+**TDB77:** Keimah leh ka pu ka pate in gamdang mi khempeuh tungah ka hihnasate-te thei lo na hi-te hiam? Tua gam minamte’ pasiante in keima khut sung panin a gam-te honkhia zo ahi-te hiam?
 
-**ZVS:** Keimah leh ka pu ka pate in gamdang mi khempeuh tungah ka hihnasate uh theilo na hi uh hiam? Tua gam minamte' pasian in keima khutsung panin a gam uh honkhiazo ahi uh hiam?
+**ZVS:** Keimah leh ka pu ka pate in gamdang mi khempeuh tungah ka hihnasate-te theilo na hi-te hiam? Tua gam minamte' pasian in keima khutsung panin a gam-te honkhiazo ahi-te hiam?
 
 ### v14
 **EN:** Who was there among all the gods of those nations that my fathers utterly destroyed, that could deliver his people out of mine hand, that your God should be able to deliver you out of mine hand?
@@ -154,9 +154,9 @@
 ### v16
 **EN:** And his servants spake yet more against the
 
-**TDB77:** Tua ciangin ama nasemte in Topa Pasian leh a nasempa Hezekiah langpangin thu tam gen zawlai uh hi.
+**TDB77:** Tua ciangin ama nasemte in Topa Pasian leh a nasempa Hezekiah langpangin thu tam gen zawlai-te hi.
 
-**ZVS:** Tua ciangin ama nasemte in Topa { Pasian } leh a nasempa Hezekiah langpangin thu tamzaw gen lai uh hi.
+**ZVS:** Tua ciangin ama nasemte in Topa { Pasian } leh a nasempa Hezekiah langpangin thu tamzaw gen lai-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -172,36 +172,36 @@
 ### v18
 **EN:** Then they cried with a loud voice in the Jews' speech unto the people of Jerusalem that were on the wall, to affright them, and to trouble them; that they might take the city.
 
-**TDB77:** Amaute in khuapi a lak theih nadingin khuapi mite lau-in a linglawn’sak nadingun kulh tungah a om Jerusalem mite tungah Judah pau tawh nakpi takin kiko uh hi.
+**TDB77:** Amaute in khuapi a lak theih nadingin khuapi mite lau-in a linglawn’sak nadingun kulh tungah a om Jerusalem mite tungah Judah pau tawh nakpi takin kiko-te hi.
 
-**ZVS:** Amaute in khuapi a laktheihna dingin khuapi mite lau-in a linglawn'sakna dingun kulh tungah a om Jerusalem mite tungah Judah pau tawh nakpi takin kiko uh hi.
+**ZVS:** Amaute in khuapi a laktheihna dingin khuapi mite lau-in a linglawn'sakna dingun kulh tungah a om Jerusalem mite tungah Judah pau tawh nakpi takin kiko-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And they spake against the God of Jerusalem, as against the gods of the people of the earth, which were the work of the hands of man.
 
-**TDB77:** Amaute in, mite’ khut tawh kibawl, leitung mite’ pasiante a gen bang lel-un Jerusalem Pasian gen uh hi.
+**TDB77:** Amaute in, mite’ khut tawh kibawl, leitung mite’ pasiante a gen bang lel-un Jerusalem Pasian gen-te hi.
 
-**ZVS:** Amaute in, mite' khut tawh a kibawl leitung mite' pasian-te a gen bang lelun Jerusalem Pasian a gen uh hi.
+**ZVS:** Amaute in, mite' khut tawh a kibawl leitung mite' pasian-te a gen bang lelun Jerusalem Pasian a gen-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And for this cause Hezekiah the king, and the prophet Isaiah the son of Amoz, prayed and cried to heaven.
 
-**TDB77:** Tua ciangin kumpipa Hezekiah leh Amoz’ tapa, kamsangpa Isaiah in hih thu hangin thu ngenin vantung lamah kiko uh hi.
+**TDB77:** Tua ciangin kumpipa Hezekiah leh Amoz’ tapa, kamsangpa Isaiah in hih thu hangin thu ngenin vantung lamah kiko-te hi.
 
-**ZVS:** Tua ciangin kumpipa Hezekiah leh Amoz' tapa, kamsang Isaiah in hih thu hangin thu ngenin vantung lamah kiko uh hi.
+**ZVS:** Tua ciangin kumpipa Hezekiah leh Amoz' tapa, kamsang Isaiah in hih thu hangin thu ngenin vantung lamah kiko-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And the
 
-**TDB77:** Tua ciangin Topa in Assiria kumpipa’ giahphual ah a thahat galhang khempeuh leh galkap ukte leh uliante a susia vantung mi khat sawl hi. Tua ahih ciangin ama gamah maizumna tawh ciahkik hi. Ama pasian’ inn sungah amah a tun’ ciangin ama tapate pawlkhat in namsau tawh amah satlum uh hi.
+**TDB77:** Tua ciangin Topa in Assiria kumpipa’ giahphual ah a thahat galhang khempeuh leh galkap ukte leh uliante a susia vantung mi khat sawl hi. Tua ahih ciangin ama gamah maizumna tawh ciahkik hi. Ama pasian’ inn sungah amah a tun’ ciangin ama tapate pawlkhat in namsau tawh amah satlum-te hi.
 
-**ZVS:** Tua ciangin { Topa } in Assiria kumpipa' giahphualah a thahat galhang khempeuh leh galkap a ukte leh uliante a susia vantung mi khat a sawl hi. Tua ahih ciangin ama gamah maizumna tawh a ciahkik hi. Ama pasian' inn sungah amah a tun' ciangin ama tapate pawlkhat in namsau tawh amah satlum uh hi.
+**ZVS:** Tua ciangin { Topa } in Assiria kumpipa' giahphualah a thahat galhang khempeuh leh galkap a ukte leh uliante a susia vantung mi khat a sawl hi. Tua ahih ciangin ama gamah maizumna tawh a ciahkik hi. Ama pasian' inn sungah amah a tun' ciangin ama tapate pawlkhat in namsau tawh amah satlum-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -217,9 +217,9 @@
 ### v23
 **EN:** And many brought gifts unto the
 
-**TDB77:** Tua ciangin mi tampi in Jerusalem khua Topa kiangah letsongte hong puakin, Judah kumpipa Hezekiah kiangah na manphate hong puak uh a, tua huna kipanin minam khempeuh muhna ah amah kisangtawi hi.
+**TDB77:** Tua ciangin mi tampi in Jerusalem khua Topa kiangah letsongte hong puakin, Judah kumpipa Hezekiah kiangah na manphate hong puak-te a, tua huna kipanin minam khempeuh muhna ah amah kisangtawi hi.
 
-**ZVS:** Tua ciangin mi tampi in Jerusalem khua { Topa } kiangah letsongte hong puakin, Judah kumpi Hezekiah kiangah na manphate hong puak uh a, tua huna kipanin minam khempeuh' muhna-ah amah kisangtawi hi.
+**ZVS:** Tua ciangin mi tampi in Jerusalem khua { Topa } kiangah letsongte hong puakin, Judah kumpi Hezekiah kiangah na manphate hong puak-te a, tua huna kipanin minam khempeuh' muhna-ah amah kisangtawi hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -244,9 +244,9 @@
 ### v26
 **EN:** Notwithstanding Hezekiah humbled himself for the pride of his heart, both he and the inhabitants of Jerusalem, so that the wrath of the
 
-**TDB77:** Ahih hangin Hezekiah a lungsim kiphatsakna thu-ah amah leh Jerusalem a, teeng mite kiniamkhiat uh ahih manin amaute tungah Topa’ hehna hong tung lo hi.
+**TDB77:** Ahih hangin Hezekiah a lungsim kiphatsakna thu-ah amah leh Jerusalem a, teeng mite kiniamkhiat-te ahih manin amaute tungah Topa’ hehna hong tung lo hi.
 
-**ZVS:** Ahi zongin a nung ciangin Hezekiah a lungsim kiphatsakna thu-ah amah leh Jerusalem-a teng mite tawh kiniamkhiat uh ahih manin amaute' tungah { Topa' } hehna hong tunglo hi.
+**ZVS:** Ahi zongin a nung ciangin Hezekiah a lungsim kiphatsakna thu-ah amah leh Jerusalem-a teng mite tawh kiniamkhiat-te ahih manin amaute' tungah { Topa' } hehna hong tunglo hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix
 
@@ -305,9 +305,9 @@
 ### v33
 **EN:** And Hezekiah slept with his fathers, and they buried him in the chiefest of the sepulchres of the sons of David: and all Judah and the inhabitants of Jerusalem did him honour at his death. And Manasseh his son reigned in his stead.
 
-**TDB77:** Tua ciangin Hezekiah a pate tawh ihmu a, amaute in David’ suante’ han paina mual pangah amah vui uh hi; Judah khempeuh leh Jerusalem a, teengte in a sihin amah zahtakna bawl uh hi. Tua ciangin ama tapa Manasseh in ama tangin uk hi.
+**TDB77:** Tua ciangin Hezekiah a pate tawh ihmu a, amaute in David’ suante’ han paina mual pangah amah vui-te hi; Judah khempeuh leh Jerusalem a, teengte in a sihin amah zahtakna bawl-te hi. Tua ciangin ama tapa Manasseh in ama tangin uk hi.
 
-**ZVS:** Tua ciangin Hezekiah si a, amaute in David' suante' han paina mualpangah amah vui uh hi. Judah mi khempeuh leh Jerusalem-a tengte in a sih lai-in amah zahtakna bawl uh hi. Tua ciangin ama tapa Manasseh in ama tangin a uk hi.
+**ZVS:** Tua ciangin Hezekiah si a, amaute in David' suante' han paina mualpangah amah vui-te hi. Judah mi khempeuh leh Jerusalem-a tengte in a sih lai-in amah zahtakna bawl-te hi. Tua ciangin ama tapa Manasseh in ama tangin a uk hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

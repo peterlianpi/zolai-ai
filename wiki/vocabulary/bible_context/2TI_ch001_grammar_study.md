@@ -144,9 +144,9 @@
 ### v15
 **EN:** This thou knowest, that all they which are in Asia be turned away from me; of whom are Phygellus and Hermogenes.
 
-**TDB77:** Asia gamah a om mi khempeuh in kei kiangpan a pialkhiat zawh uh na thei hi. Tuate lakah Figelas leh Hermogenes zong a om uh hi.
+**TDB77:** Asia gamah a om mi khempeuh in kei kiangpan a pialkhiat zawh-te na thei hi. Tuate lakah Figelas leh Hermogenes zong a om-te hi.
 
-**ZVS:** Na theihsa bangin Asia gamsunga om mi khempeuh in kei hong nusia uh a, tuate lakah Figelas leh Hermogenes-te zong kihel uh hi.
+**ZVS:** Na theihsa bangin Asia gamsunga om mi khempeuh in kei hong nusia-te a, tuate lakah Figelas leh Hermogenes-te zong kihel-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

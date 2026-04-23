@@ -26,7 +26,7 @@
 ### v1
 **EN:** The elder unto the elect lady and her children, whom I love in the truth; and not I only, but also all they that have known the truth;
 
-**TDB77:** A khangham bel keimah Johan in Teeltuam ahi, kong it taktak tonu leh na pawlpi mite kiangah lai ka hong gelh hi. Kei bek in a hong it hiloin thuman a thei taktakte khempeuh in zong hong it uh hi.
+**TDB77:** A khangham bel keimah Johan in Teeltuam ahi, kong it taktak tonu leh na pawlpi mite kiangah lai ka hong gelh hi. Kei bek in a hong it hiloin thuman a thei taktakte khempeuh in zong hong it-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -40,7 +40,7 @@
 ### v3
 **EN:** Grace be with you, mercy, and peace, from God the Father, and from the Lord Jesus Christ, the Son of the Father, in truth and love.
 
-**TDB77:** Pa Pasian kiang pan ahi zongin, Pa’ Tapa Zeisu Khazih kiang pan ahi zongin thuman thutak leh itna thu tawh hehpihna thupha, hehpihna leh nopna eite tungah a om ding uh hi.
+**TDB77:** Pa Pasian kiang pan ahi zongin, Pa’ Tapa Zeisu Khazih kiang pan ahi zongin thuman thutak leh itna thu tawh hehpihna thupha, hehpihna leh nopna eite tungah a om ding-te hi.
 
 **ZVS:** Pa Pasian leh a Tapa Jesuh Khrih in dikna, hehpihna, leh nopsakna, eite tungah hong pia hen la, thuman leh itna tawh tua thuphate khempeuh eite-a' hong hi ta hen.
 
@@ -49,9 +49,9 @@
 ### v4
 **EN:** I rejoiced greatly that I found of thy children walking in truth, as we have received a commandment from the Father.
 
-**TDB77:** Eite in Pa kiang pan thupiakna i ngah bangin, na tate kimkhat in thuman thutak lam zui-in a om uh ka muh ciangin ka lung a dam mahmah hi.
+**TDB77:** Eite in Pa kiang pan thupiakna i ngah bangin, na tate kimkhat in thuman thutak lam zui-in a om-te ka muh ciangin ka lung a dam mahmah hi.
 
-**ZVS:** Pa Pasian in eite hong thupiakna bangmahin na pawlpi mite pawlkhat in thu a mantakin a zuihna uh mu ka hih manin ka nuam mahmah hi.
+**ZVS:** Pa Pasian in eite hong thupiakna bangmahin na pawlpi mite pawlkhat in thu a mantakin a zuihna-te mu ka hih manin ka nuam mahmah hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -67,27 +67,27 @@
 ### v6
 **EN:** And this is love, that we walk after his commandments. This is the commandment, That, as ye have heard from the beginning, ye should walk in it.
 
-**TDB77:** Ama thupiaknate bangin i thuman’na in ki-itna ahi hi. Note in thupiakna tawh kituak a, na gamtat nadingun a cil panin no na zak uh mah bangin ama thupiakna in tua bang deihna ahi hi.
+**TDB77:** Ama thupiaknate bangin i thuman’na in ki-itna ahi hi. Note in thupiakna tawh kituak a, na gamtat nadingun a cil panin no na zak-te mah bangin ama thupiakna in tua bang deihna ahi hi.
 
-**ZVS:** Itna thu ka hong gen ciangin Pasian' thupiakte zuiding cihna ahi hi. A kipat cila kipan na zaksa uh ahi hih thupiakna pen na khan' tawntungun zui-in itna na nei ta un.
+**ZVS:** Itna thu ka hong gen ciangin Pasian' thupiakte zuiding cihna ahi hi. A kipat cila kipan na zaksa-te ahi hih thupiakna pen na khan' tawntungun zui-in itna na nei ta un.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v7
 **EN:** For many deceivers are entered into the world, who confess not that Jesus Christ is come in the flesh. This is a deceiver and an antichrist.
 
-**TDB77:** Zeisu Khazih in mi pum bangin ci-le-sa tawh hong pai hi ci-a sang lo mi kheem tampi, leitungah hong pai zo uh hi. Hih bang mi in mi kheem mi leh Anti Khazih ahi hi.
+**TDB77:** Zeisu Khazih in mi pum bangin ci-le-sa tawh hong pai hi ci-a sang lo mi kheem tampi, leitungah hong pai zo-te hi. Hih bang mi in mi kheem mi leh Anti Khazih ahi hi.
 
-**ZVS:** Bang hang hiam cih leh leitungah midangte a khem tampi hong omta a, tua mite in Jesuh Khrih, mihing banga hong paina thu a nial uh hi. Tua bang mite pen mi khemte hi a, Khrih' Gal ahi uh hi.
+**ZVS:** Bang hang hiam cih leh leitungah midangte a khem tampi hong omta a, tua mite in Jesuh Khrih, mihing banga hong paina thu a nial-te hi. Tua bang mite pen mi khemte hi a, Khrih' Gal ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** Look to yourselves, that we lose not those things which we have wrought, but that we receive a full reward.
 
-**TDB77:** Note in na bawl uh nate mangthangsak loin, a kicing thaman na ngah nadingun na kikem un.
+**TDB77:** Note in na bawl-te nate mangthangsak loin, a kicing thaman na ngah nadingun na kikem un.
 
-**ZVS:** Tua ahih ciangin na sepsa uh thuman taankha loin, a kimtakin na ngahtheihna dingun limtakin kidawm un.
+**ZVS:** Tua ahih ciangin na sepsa-te thuman taankha loin, a kimtakin na ngahtheihna dingun limtakin kidawm un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -96,7 +96,7 @@
 
 **TDB77:** Khazih’ thuhilhna-ah kip loin a zui khial mi in Pasian a nei lo mi ahi hi. Khazih’ thuhilhna-ah a kip mi in Pa leh Tapa a nihin a neikhawm hi.
 
-**ZVS:** Khrih' thuhilhna zuiloin a khengvalin a pai mite pen Pasian tawh a kipawllo ahi hi. Ahi zongin a thuhilhna a zuite pen Pa Pasian leh a Tapa tawh a kipawl ahi uh hi.
+**ZVS:** Khrih' thuhilhna zuiloin a khengvalin a pai mite pen Pasian tawh a kipawllo ahi hi. Ahi zongin a thuhilhna a zuite pen Pa Pasian leh a Tapa tawh a kipawl ahi-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -112,9 +112,9 @@
 ### v11
 **EN:** For he that biddeth him God speed is partaker of his evil deeds.
 
-**TDB77:** Bang hang hiam na cih uh leh, tua banga a hopih mi in tua mi gilo’ gamtatnate tawh a kipawl a suak hi.
+**TDB77:** Bang hang hiam na cih-te leh, tua banga a hopih mi in tua mi gilo’ gamtatnate tawh a kipawl a suak hi.
 
-**ZVS:** Bang hang hiam cih leh tua bang mite-a' ding thupha a deihsak mite pen amau' nasep hoihlohna-ah zong a kipawl ahi uh hi.
+**ZVS:** Bang hang hiam cih leh tua bang mite-a' ding thupha a deihsak mite pen amau' nasep hoihlohna-ah zong a kipawl ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -130,9 +130,9 @@
 ### v13
 **EN:** The children of thy elect sister greet thee. Amen.
 
-**TDB77:** A kiteel na naunu’ tate in nang hong hopih uh hi.
+**TDB77:** A kiteel na naunu’ tate in nang hong hopih-te hi.
 
-**ZVS:** Teeltuam ahi hih lai-a om pawlpi mite in hopihna kam hong khak uh hi.
+**ZVS:** Teeltuam ahi hih lai-a om pawlpi mite in hopihna kam hong khak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

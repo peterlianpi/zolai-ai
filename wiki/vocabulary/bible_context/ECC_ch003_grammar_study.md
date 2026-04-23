@@ -154,27 +154,27 @@
 ### v18
 **EN:** I said in mine heart concerning the estate of the sons of men, that God might manifest them, and that they might see that they themselves are beasts.
 
-**TDB77:** Mihingte pen ganhing bang lel ahihna uh a lahtel nadingin Pasian in mihingte ze-et hi, ci-in ka lungsimah ka ngaihsun hi.
+**TDB77:** Mihingte pen ganhing bang lel ahihna-te a lahtel nadingin Pasian in mihingte ze-et hi, ci-in ka lungsimah ka ngaihsun hi.
 
-**ZVS:** Mihingte pen ganhing bang lel ahihna uh a lahtelna dingin Pasian in mihingte ze-et hi, ci-in ka lungsimah ka ngaihsun hi.
+**ZVS:** Mihingte pen ganhing bang lel ahihna-te a lahtelna dingin Pasian in mihingte ze-et hi, ci-in ka lungsimah ka ngaihsun hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v19
 **EN:** For that which befalleth the sons of men befalleth beasts; even one thing befalleth them: as the one dieth, so dieth the other; yea, they have all one breath; so that a man hath no preeminence above a beast: for all is vanity.
 
-**TDB77:** A tawpna-ah ci lehang, mihingte leh ganhingte in a tuah ding uh kibang a, ganhing mah bangin mihing zong si hi. Mihing leh ganhing in a kibangin nuntakna hu nei a, mihing leh ganhing nuntakna a kiman’na bangmah om lo ahih manin, mihing in ganhing sangin a hoih zawkna bangmah om tuan lo hi.
+**TDB77:** A tawpna-ah ci lehang, mihingte leh ganhingte in a tuah ding-te kibang a, ganhing mah bangin mihing zong si hi. Mihing leh ganhing in a kibangin nuntakna hu nei a, mihing leh ganhing nuntakna a kiman’na bangmah om lo ahih manin, mihing in ganhing sangin a hoih zawkna bangmah om tuan lo hi.
 
-**ZVS:** A tawpna-ah ci lehang, mihingte leh ganhingte in a tuah ding uh kibang a, ganhing mah bangin mihing zong a si ahi hi. Mihing leh ganhing in a kibangin nuntakna hu nei a, mihing leh ganhing nuntakna a kiman'na bangmah omlo ahih manin, mihing pen ganhing sangin a hoihzawkna bangmah om tuanlo hi.
+**ZVS:** A tawpna-ah ci lehang, mihingte leh ganhingte in a tuah ding-te kibang a, ganhing mah bangin mihing zong a si ahi hi. Mihing leh ganhing in a kibangin nuntakna hu nei a, mihing leh ganhing nuntakna a kiman'na bangmah omlo ahih manin, mihing pen ganhing sangin a hoihzawkna bangmah om tuanlo hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** All go unto one place; all are of the dust, and all turn to dust again.
 
-**TDB77:** A nih tuakin mun khatah tungkhawm ding uh a, leivui pan-a piang uh ahih mah bangin leivui mah suakkik ding uh hi.
+**TDB77:** A nih tuakin mun khatah tungkhawm ding-te a, leivui pan-a piang-te ahih mah bangin leivui mah suakkik ding-te hi.
 
-**ZVS:** A nih tuakun mun khatah tung khawm ding uh a, leivui panin a piang uh ahih mah bangin leivui mah suakkik ding uh hi.
+**ZVS:** A nih tuakun mun khatah tung khawm ding-te a, leivui panin a piang-te ahih mah bangin leivui mah suakkik ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -190,9 +190,9 @@
 ### v22
 **EN:** Wherefore I perceive that there is nothing better, than that a man should rejoice in his own works; for that is his portion: for who shall bring him to see what shall be after him?
 
-**TDB77:** Tua ahih ciangin mihing in a sep thaman uh ne-in nuamsa-in a om ding uh a hoih pen ahihna ka phawk hi. Tua lo ahih theih ding uh bangmah dang om lo hi. I sih khit ciangin bang piang ding cih theih theihna om lo hi.
+**TDB77:** Tua ahih ciangin mihing in a sep thaman-te ne-in nuamsa-in a om ding-te a hoih pen ahihna ka phawk hi. Tua lo ahih theih ding-te bangmah dang om lo hi. I sih khit ciangin bang piang ding cih theih theihna om lo hi.
 
-**ZVS:** Tua ahih ciangin mihingte in a sep thaman uh ne-in nuamsa-in a om ding uh a hoihpen ahihna ka phawk hi. Tualo a hih theih ding uh bangmah dang omlo hi. I sih khit ciangin bang piang ding cih theihtheihna bangmah omlo hi.
+**ZVS:** Tua ahih ciangin mihingte in a sep thaman-te ne-in nuamsa-in a om ding-te a hoihpen ahihna ka phawk hi. Tualo a hih theih ding-te bangmah dang omlo hi. I sih khit ciangin bang piang ding cih theihtheihna bangmah omlo hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | plural: uh marker
 

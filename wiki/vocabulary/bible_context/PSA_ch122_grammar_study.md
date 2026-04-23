@@ -24,18 +24,18 @@
 ### v1
 **EN:** I was glad when they said unto me, Let us go into the house of the
 
-**TDB77:** Amaute in kei tungah, “Topa’ innah pai ni,” hong cih uh ciangin ka kipak hi.
+**TDB77:** Amaute in kei tungah, “Topa’ innah pai ni,” hong cih-te ciangin ka kipak hi.
 
-**ZVS:** Amaute in kei tungah, “{ Topa' } inn-ah pai ni,” hong cih uh ciangin kei ka kipak hi.
+**ZVS:** Amaute in kei tungah, “{ Topa' } inn-ah pai ni,” hong cih-te ciangin kei ka kipak hi.
 
 **Grammar:** hortative: let us | reciprocal: ki- prefix
 
 ### v2
 **EN:** Our feet shall stand within thy gates, O Jerusalem.
 
-**TDB77:** Jerusalem aw, na kulh kongpi sungah kote hong tungin ka ding khin ta uh hi.
+**TDB77:** Jerusalem aw, na kulh kongpi sungah kote hong tungin ka ding khin ta-te hi.
 
-**ZVS:** Jerusalem aw, na kulhkongpi sungah kote hong tungin ka ding khinta uh hi.
+**ZVS:** Jerusalem aw, na kulhkongpi sungah kote hong tungin ka ding khinta-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
@@ -58,7 +58,7 @@
 ### v6
 **EN:** Pray for the peace of Jerusalem: they shall prosper that love thee.
 
-**TDB77:** Jerusalem khuapi’ nopsak nading thu ngen un la, “Nang hong itte a dau uh pai ta hen!
+**TDB77:** Jerusalem khuapi’ nopsak nading thu ngen un la, “Nang hong itte a dau-te pai ta hen!
 
 **ZVS:** Jerusalem khuapi, a nopsakna ding thu ngen un la, “Nang hong itte a dau pai ta hen.
 

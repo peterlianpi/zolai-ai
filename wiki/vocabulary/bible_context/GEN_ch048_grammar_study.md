@@ -197,9 +197,9 @@
 ### v20
 **EN:** And he blessed them that day, saying, In thee shall Israel bless, saying, God make thee as Ephraim and as Manasseh: and he set Ephraim before Manasseh.
 
-**TDB77:** Tua ahih ciangin amah in tua ni-in amaute thupha pia a, “Note in Israel sungah thupha na kipia ding uh a, ‘Pasian in Efraim leh Manasseh bangin note hong bawl hen,’ kici ding hi,” ci hi. Tua ahih ciangin amah in Manasseh’ mai-ah Efraim koih hi.
+**TDB77:** Tua ahih ciangin amah in tua ni-in amaute thupha pia a, “Note in Israel sungah thupha na kipia ding-te a, ‘Pasian in Efraim leh Manasseh bangin note hong bawl hen,’ kici ding hi,” ci hi. Tua ahih ciangin amah in Manasseh’ mai-ah Efraim koih hi.
 
-**ZVS:** Tua ahih ciangin amah in tua ni-in amaute thupha pia a, “Note, Israel sungah thupha na hi ding uh a, ‘Pasian in Efraim leh Manasseh bangin note hong bawl hen,’ kici ding hi,” a ci hi. Tua bangin Jakob in Manasseh' mai-ah Efraim a koih hi.
+**ZVS:** Tua ahih ciangin amah in tua ni-in amaute thupha pia a, “Note, Israel sungah thupha na hi ding-te a, ‘Pasian in Efraim leh Manasseh bangin note hong bawl hen,’ kici ding hi,” a ci hi. Tua bangin Jakob in Manasseh' mai-ah Efraim a koih hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

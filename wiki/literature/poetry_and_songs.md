@@ -108,8 +108,8 @@ The *Zolai Sinna* preserves classical Zomi fables, each teaching moral lessons t
 | Title | Characters | Moral (A Deihna) |
 | :--- | :--- | :--- |
 | **Uiphuk le Naupangte** | Frog + Children | Don't judge what you don't understand (`Saipi in keel mawlpih leh keel in thuak zo lo ding hi`) |
-| **Bilpi le Sumkuang** | Hare + Tortoise | Perseverance beats speed (`Thanuamte in thadahte zo tawtung uh hi`) |
-| **Keivom le Tuuno** | Wolf + Lamb | The powerful always find excuses to oppress (`Mawhna hong zong nuamte in bangbang ihi zongin paulap tuamtuam nei nuam teitei uh hi`) |
+| **Bilpi le Sumkuang** | Hare + Tortoise | Perseverance beats speed (`Thanuamte in thadahte zo tawtung-te hi`) |
+| **Keivom le Tuuno** | Wolf + Lamb | The powerful always find excuses to oppress (`Mawhna hong zong nuamte in bangbang ihi zongin paulap tuamtuam nei nuam teitei-te hi`) |
 | **Va-ak Utong Kineihna** | Crow + Peacock | Be content with who you are (`I pianzia bangbangin lungkimlo a midangte pianzia banga I kibawl leh eima pianzia ngeina zong kitaanlawh thei hi`) |
 | **Kauphe le Miksi** | Grasshopper + Ant | Prepare for the future (`Phaibi ciangin ka nek ding an ka khol hi`) |
 | **Naupang le Uiphuk** | Children + Frog | Respect others' lives |
@@ -153,8 +153,8 @@ The ZVS Bible preserves the parallelism structure of Hebrew poetry:
 
 ### B. Proverbial Wisdom Patterns
 - `A neupen siamna nengno khat na ngawn vallo hi.` — Even the smallest skill is not worthless. *(Gentehna #2)*
-- `Thanuamte in thadahte a zo tawtung uh hi.` — The diligent always overcome the lazy. *(Gentehna #10)*
-- `Bangbang ihi zongin hong gensia veve ding uh hi.` — No matter what you do, they will always criticize. *(Gentehna #20)*
+- `Thanuamte in thadahte a zo tawtung-te hi.` — The diligent always overcome the lazy. *(Gentehna #10)*
+- `Bangbang ihi zongin hong gensia veve ding-te hi.` — No matter what you do, they will always criticize. *(Gentehna #20)*
 
 ---
 

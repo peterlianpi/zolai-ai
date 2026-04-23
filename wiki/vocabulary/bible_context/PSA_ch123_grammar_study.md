@@ -26,27 +26,27 @@
 ### v2
 **EN:** Behold, as the eyes of servants look unto the hand of their masters, and as the eyes of a maiden unto the hand of her mistress; so our eyes wait upon the
 
-**TDB77:** En in, nasem pasalte in a topa uh muang a, nasem numei in a tonu-uh a muan’ mah bangin, ko tungah hehpihna nong neih matengin Topa kote’ Pasian kong mitsuan uh hi.
+**TDB77:** En in, nasem pasalte in a topa-te muang a, nasem numei in a tonu-uh a muan’ mah bangin, ko tungah hehpihna nong neih matengin Topa kote’ Pasian kong mitsuan-te hi.
 
-**ZVS:** Nasem pasalte in a topa uh muang a, nasem numeite in a tonu uh a muan' mah bangin ko tungah hehpihna nong neih matengin { Topa } kote' Pasian kong mitsuan uh hi.
+**ZVS:** Nasem pasalte in a topa-te muang a, nasem numeite in a tonu-te a muan' mah bangin ko tungah hehpihna nong neih matengin { Topa } kote' Pasian kong mitsuan-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** Have mercy upon us, O
 
-**TDB77:** Kote hong hehpih in, Topa aw, kote hong hehpih in, bang hang hiam cih leh kote in ka thuak zawh loh uh simmawhna ka thuak uh hi.
+**TDB77:** Kote hong hehpih in, Topa aw, kote hong hehpih in, bang hang hiam cih leh kote in ka thuak zawh loh-te simmawhna ka thuak-te hi.
 
-**ZVS:** Kote hong hehpih in. { Topa } aw, kote hong hehpih in. Bang hang hiam cih leh kote in ka thuak zawhloh uh simmawhna ka thuak uh hi.
+**ZVS:** Kote hong hehpih in. { Topa } aw, kote hong hehpih in. Bang hang hiam cih leh kote in ka thuak zawhloh-te simmawhna ka thuak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** Our soul is exceedingly filled with the scorning of those that are at ease, and with the contempt of the proud.
 
-**TDB77:** A ut ut-a gamta mite’ hong zahkona, mi kiphasakte’ hong simmawhna tawh sau vei ka gim lua khin ta uh hi.
+**TDB77:** A ut ut-a gamta mite’ hong zahkona, mi kiphasakte’ hong simmawhna tawh sau vei ka gim lua khin ta-te hi.
 
-**ZVS:** A ut-utin a gamta mite in kote a hong zahkona, a kiphasak mite in hong simmawh bawlna hangin ka gimthuakna uh sauvei lua khinta hi.
+**ZVS:** A ut-utin a gamta mite in kote a hong zahkona, a kiphasak mite in hong simmawh bawlna hangin ka gimthuakna-te sauvei lua khinta hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix | plural: uh marker
 

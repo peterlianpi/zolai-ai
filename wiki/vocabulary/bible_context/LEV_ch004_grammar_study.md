@@ -123,27 +123,27 @@
 ### v13
 **EN:** And if the whole congregation of Israel sin through ignorance, and the thing be hid from the eyes of the assembly, and they have done somewhat against any of the commandments of the
 
-**TDB77:** “Israel mihonte khempeuh in theih lohna hangin khialhna khat gamta-in tua pen mihonte in a phawk kei a, hih lo ding ci-in Topa in a thupiakte khatpeuh peuh amaute in hihin a mawh uh leh;
+**TDB77:** “Israel mihonte khempeuh in theih lohna hangin khialhna khat gamta-in tua pen mihonte in a phawk kei a, hih lo ding ci-in Topa in a thupiakte khatpeuh peuh amaute in hihin a mawh-te leh;
 
-**ZVS:** “Israel mihonte khempeuh in theihlohna hangin khialhna khat gamta-in tua pen mihonte in a phawk kei a, hihlo ding, ci-in { Topa } in a thupiakte khat peuhpeuh amaute in hihin a mawh uh leh,
+**ZVS:** “Israel mihonte khempeuh in theihlohna hangin khialhna khat gamta-in tua pen mihonte in a phawk kei a, hihlo ding, ci-in { Topa } in a thupiakte khat peuhpeuh amaute in hihin a mawh-te leh,
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v14
 **EN:** When the sin, which they have sinned against it, is known, then the congregation shall offer a young bullock for the sin, and bring him before the tabernacle of the congregation.
 
-**TDB77:** amau’ gamtatnasa khialhna a kitheih ciangin, khialhna hanga biak nadingin mihonte in bawngtalno khat pia-in kikhopna buk mai-ah paipih ding uh hi;
+**TDB77:** amau’ gamtatnasa khialhna a kitheih ciangin, khialhna hanga biak nadingin mihonte in bawngtalno khat pia-in kikhopna buk mai-ah paipih ding-te hi;
 
-**ZVS:** amau' gamtatnasa khialhna a kitheih ciangin, khialhna hanga biakna dingin mihonte in bawngtalno khat pia-in kikhopna buk mai-ah paipih ding uh hi.
+**ZVS:** amau' gamtatnasa khialhna a kitheih ciangin, khialhna hanga biakna dingin mihonte in bawngtalno khat pia-in kikhopna buk mai-ah paipih ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And the elders of the congregation shall lay their hands upon the head of the bullock before the
 
-**TDB77:** tua ciangin mihonte’ upate in Topa mai, bawngtal lu tungah amau’ khut nga ding uh a, Topa mai-ah bawngtal kigo ding hi.
+**TDB77:** tua ciangin mihonte’ upate in Topa mai, bawngtal lu tungah amau’ khut nga ding-te a, Topa mai-ah bawngtal kigo ding hi.
 
-**ZVS:** Tua ciangin mihonte' upate in { Topa' } mai, bawngtal lu tungah amau' khut nga ding uh a, { Topa' } mai-ah tua bawngtal kigo ding hi.
+**ZVS:** Tua ciangin mihonte' upate in { Topa' } mai, bawngtal lu tungah amau' khut nga ding-te a, { Topa' } mai-ah tua bawngtal kigo ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 

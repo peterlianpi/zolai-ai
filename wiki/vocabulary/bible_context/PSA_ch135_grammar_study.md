@@ -141,18 +141,18 @@
 ### v16
 **EN:** They have mouths, but they speak not; eyes have they, but they see not;
 
-**TDB77:** Amaute in kam nei uh a, ahih hangin amaute pau thei lo uh hi, amaute in mit nei uh a, ahih hangin amaute in khua mu thei lo uh hi,
+**TDB77:** Amaute in kam nei-te a, ahih hangin amaute pau thei lo-te hi, amaute in mit nei-te a, ahih hangin amaute in khua mu thei lo-te hi,
 
-**ZVS:** Amaute in kam nei napi, pau theilo uh hi. Amaute in mit nei napi, khua mu theilo uh hi.
+**ZVS:** Amaute in kam nei napi, pau theilo-te hi. Amaute in mit nei napi, khua mu theilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v17
 **EN:** They have ears, but they hear not; neither is there any breath in their mouths.
 
-**TDB77:** amaute in bil nei uh a, ahih hangin amaute in khua za thei lo uh hi, amaute’ kam sungah naksuk naktohna theihna nei lo uh hi.
+**TDB77:** amaute in bil nei-te a, ahih hangin amaute in khua za thei lo-te hi, amaute’ kam sungah naksuk naktohna theihna nei lo-te hi.
 
-**ZVS:** Amaute in bil nei napi, khua za theilo uh hi. Amaute' kamsungah naksuk naktoh theihna neilo uh hi.
+**ZVS:** Amaute in bil nei napi, khua za theilo-te hi. Amaute' kamsungah naksuk naktoh theihna neilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

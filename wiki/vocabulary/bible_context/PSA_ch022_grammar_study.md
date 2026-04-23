@@ -49,18 +49,18 @@
 ### v4
 **EN:** Our fathers trusted in thee: they trusted, and thou didst deliver them.
 
-**TDB77:** Ka pate un nangmah hong muang hi; amaute in hong muang uh a, nangmah in amaute na honkhia hi.
+**TDB77:** Ka pate un nangmah hong muang hi; amaute in hong muang-te a, nangmah in amaute na honkhia hi.
 
-**ZVS:** Ka pate un nangmah hong muang uh hi. Amaute in hong muang uh a, nangmah in amaute na honkhia hi.
+**ZVS:** Ka pate un nangmah hong muang-te hi. Amaute in hong muang-te a, nangmah in amaute na honkhia hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** They cried unto thee, and were delivered: they trusted in thee, and were not confounded.
 
-**TDB77:** Nang tungah amaute in hong ko uh a, amaute kihonkhia hi; nangmah hong muang uh a, guaksuak lo uh hi.
+**TDB77:** Nang tungah amaute in hong ko-te a, amaute kihonkhia hi; nangmah hong muang-te a, guaksuak lo-te hi.
 
-**ZVS:** Nangma tungah amaute in hong ko uh a, amaute kihon hi. Nangmah hong muang uh a, guaksuaklo uh hi.
+**ZVS:** Nangma tungah amaute in hong ko-te a, amaute kihon hi. Nangmah hong muang-te a, guaksuaklo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -76,18 +76,18 @@
 ### v7
 **EN:** All they that see me laugh me to scorn: they shoot out the lip, they shake the head, saying,
 
-**TDB77:** Hong mu khempeuh in kei hong zahko-in, hong mukpik san uh a, a lu hong peisan uh hi.
+**TDB77:** Hong mu khempeuh in kei hong zahko-in, hong mukpik san-te a, a lu hong peisan-te hi.
 
-**ZVS:** Hong mu mi khempeuh in kei hong zahko-in, hong mukpiksan uh a, a lu uh hong peisan hi.
+**ZVS:** Hong mu mi khempeuh in kei hong zahko-in, hong mukpiksan-te a, a lu-te hong peisan hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v8
 **EN:** He trusted on the
 
-**TDB77:** “Topa tungah amah in ama thu ap hi; amah honkhia sak un, amah deih ahih manin hon ta hen!” hong cihsan uh hi.
+**TDB77:** “Topa tungah amah in ama thu ap hi; amah honkhia sak un, amah deih ahih manin hon ta hen!” hong cihsan-te hi.
 
-**ZVS:** “{ Topa' } tungah amah in ama thu ap hi. Amah kihonkhia sak un; amah deih ahih manin honkhia ta hen!” hong cihsan uh hi.
+**ZVS:** “{ Topa' } tungah amah in ama thu ap hi. Amah kihonkhia sak un; amah deih ahih manin honkhia ta hen!” hong cihsan-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
@@ -121,18 +121,18 @@
 ### v12
 **EN:** Many bulls have compassed me: strong bulls of Bashan have beset me round.
 
-**TDB77:** Bawngtal tampi in kei hong umcih a, Bashan gam bawngtal hatte in kei hong umcih uh hi;
+**TDB77:** Bawngtal tampi in kei hong umcih a, Bashan gam bawngtal hatte in kei hong umcih-te hi;
 
-**ZVS:** Bawngtal tampi tak in kei hong umcih uh a, Bashan gam bawngtal hatte in kei hong umcih uh hi.
+**ZVS:** Bawngtal tampi tak in kei hong umcih-te a, Bashan gam bawngtal hatte in kei hong umcih-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** They gaped upon me with their mouths, as a ravening and a roaring lion.
 
-**TDB77:** humpinelkai hawk leh sabawh nuam bangin amaute in kei hong kamkat beba uh hi.
+**TDB77:** humpinelkai hawk leh sabawh nuam bangin amaute in kei hong kamkat beba-te hi.
 
-**ZVS:** Humpinelkai hawk, a sabawh nuam bangin amaute in kei hong kamkat beba uh hi.
+**ZVS:** Humpinelkai hawk, a sabawh nuam bangin amaute in kei hong kamkat beba-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -155,27 +155,27 @@
 ### v16
 **EN:** For dogs have compassed me: the assembly of the wicked have inclosed me: they pierced my hands and my feet.
 
-**TDB77:** Hi hi, ka kim-ah uite om a, siatna bawl mihon khat in hong umcih hi; ka khut ka khete sunlet zo uh hi—
+**TDB77:** Hi hi, ka kim-ah uite om a, siatna bawl mihon khat in hong umcih hi; ka khut ka khete sunlet zo-te hi—
 
-**ZVS:** Ka kiimah uite om a, siatna bawl mi honkhat in kei hong umcih uh hi. Ka khut ka khete hong sunletzo uh hi.
+**ZVS:** Ka kiimah uite om a, siatna bawl mi honkhat in kei hong umcih-te hi. Ka khut ka khete hong sunletzo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** I may tell all my bones: they look and stare upon me.
 
-**TDB77:** Ka guh khempeuh ka sim thei hi—amaute in sal gega-in kei hong en uh hi;
+**TDB77:** Ka guh khempeuh ka sim thei hi—amaute in sal gega-in kei hong en-te hi;
 
-**ZVS:** Ka guh khempeuh kimu thei hi. Amaute in hong sal gega uh hi.
+**ZVS:** Ka guh khempeuh kimu thei hi. Amaute in hong sal gega-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v18
 **EN:** They part my garments among them, and cast lots upon my vesture.
 
-**TDB77:** amaute in amau lakah ka puante hawm uh a, ka puan hawm nadingin lai-ai saan uh hi.
+**TDB77:** amaute in amau lakah ka puante hawm-te a, ka puan hawm nadingin lai-ai saan-te hi.
 
-**ZVS:** Amaute in ka puante hawm uh a, ka puan a hawmna dingun lai ai a san uh hi.
+**ZVS:** Amaute in ka puante hawm-te a, ka puan a hawmna dingun lai ai a san-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -239,18 +239,18 @@
 ### v26
 **EN:** The meek shall eat and be satisfied: they shall praise the
 
-**TDB77:** Gimna thuakte in kham takin ne ding uh a, amah a zongte in Topa phat ding uh hi. A lungsim uh nuam tawntung ta hen!
+**TDB77:** Gimna thuakte in kham takin ne ding-te a, amah a zongte in Topa phat ding-te hi. A lungsim-te nuam tawntung ta hen!
 
-**ZVS:** Gimna a thuakte in kham takin ne ding uh a, amah a zongte in { Topa } phat ding uh hi. A lungsim uh nuam tawntung ta hen!
+**ZVS:** Gimna a thuakte in kham takin ne ding-te a, amah a zongte in { Topa } phat ding-te hi. A lungsim-te nuam tawntung ta hen!
 
 **Grammar:** future: will | plural: uh marker
 
 ### v27
 **EN:** All the ends of the world shall remember and turn unto the
 
-**TDB77:** Leimong khempeuh in phawkin Topa’ lamah kihei ding uh a, minamte’ innkuan khempeuh in ama mai-ah bia ding uh hi.
+**TDB77:** Leimong khempeuh in phawkin Topa’ lamah kihei ding-te a, minamte’ innkuan khempeuh in ama mai-ah bia ding-te hi.
 
-**ZVS:** Leitung mi khempeuh in phawkin { Topa' } lamah kihei ding uh a, minam khempeuh in ama mai-ah bia ding uh hi.
+**ZVS:** Leitung mi khempeuh in phawkin { Topa' } lamah kihei ding-te a, minam khempeuh in ama mai-ah bia ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -264,27 +264,27 @@
 ### v29
 **EN:** All they that be fat upon earth shall eat and worship: all they that go down to the dust shall bow before him: and none can keep alive his own soul.
 
-**TDB77:** Hi hi, leitung kiphatsakna khempeuh ama mai-ah kunsuk ding hi; leivui-a paisuk khempeuh leh a kikem tawm thei lote ama mai-ah kun ding uh hi.
+**TDB77:** Hi hi, leitung kiphatsakna khempeuh ama mai-ah kunsuk ding hi; leivui-a paisuk khempeuh leh a kikem tawm thei lote ama mai-ah kun ding-te hi.
 
-**ZVS:** Hi hi, a kiphasak mi khempeuh ama mai-ah kunsuk ding uh a, a sithei mihing khempeuh ama mai-ah kun ding uh hi.
+**ZVS:** Hi hi, a kiphasak mi khempeuh ama mai-ah kunsuk ding-te a, a sithei mihing khempeuh ama mai-ah kun ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** A seed shall serve him; it shall be accounted to the Lord for a generation.
 
-**TDB77:** Suan-le-khakte in ama na sem ding uh hi; mite in hong piang ding mihonte tungah Topa’ thu gen ding uh a,
+**TDB77:** Suan-le-khakte in ama na sem ding-te hi; mite in hong piang ding mihonte tungah Topa’ thu gen ding-te a,
 
-**ZVS:** A hong khangkik mite in ama na sem ding uh hi. Mite in a hong piang lai ding mite tungah { Topa' } thu gen ding uh a,
+**ZVS:** A hong khangkik mite in ama na sem ding-te hi. Mite in a hong piang lai ding mite tungah { Topa' } thu gen ding-te a,
 
 **Grammar:** future: will | plural: uh marker
 
 ### v31
 **EN:** They shall come, and shall declare his righteousness unto a people that shall be born, that he hath done this.
 
-**TDB77:** a suak nai lo mite tungah ama sepsa, hotkhiatna gen ding uh hi.
+**TDB77:** a suak nai lo mite tungah ama sepsa, hotkhiatna gen ding-te hi.
 
-**ZVS:** a suak nailo mite tungah ama sepsa, hotkhiatna thu gen ding uh hi.
+**ZVS:** a suak nailo mite tungah ama sepsa, hotkhiatna thu gen ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

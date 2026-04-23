@@ -1,0 +1,813 @@
+{
+  "total": 33532,
+  "byPos": [
+    {
+      "pos": "pakka",
+      "count": 1
+    },
+    {
+      "pos": "finger",
+      "count": 1
+    },
+    {
+      "pos": "poss, pro",
+      "count": 1
+    },
+    {
+      "pos": "n & p. par",
+      "count": 1
+    },
+    {
+      "pos": "a & v",
+      "count": 1
+    },
+    {
+      "pos": "ice-cream",
+      "count": 1
+    },
+    {
+      "pos": "interj",
+      "count": 51
+    },
+    {
+      "pos": "emp. a",
+      "count": 1
+    },
+    {
+      "pos": "alive",
+      "count": 1
+    },
+    {
+      "pos": "n.1",
+      "count": 8
+    },
+    {
+      "pos": "def ard",
+      "count": 1
+    },
+    {
+      "pos": "house-boat",
+      "count": 1
+    },
+    {
+      "pos": "conj & adv",
+      "count": 1
+    },
+    {
+      "pos": "pt.",
+      "count": 2
+    },
+    {
+      "pos": "plur",
+      "count": 1
+    },
+    {
+      "pos": "n & adv",
+      "count": 2
+    },
+    {
+      "pos": "pro. ob. case",
+      "count": 1
+    },
+    {
+      "pos": "adv & prep",
+      "count": 5
+    },
+    {
+      "pos": "forth",
+      "count": 1
+    },
+    {
+      "pos": "por",
+      "count": 2
+    },
+    {
+      "pos": "half-brother",
+      "count": 1
+    },
+    {
+      "pos": "dont",
+      "count": 1
+    },
+    {
+      "pos": "interj.n",
+      "count": 1
+    },
+    {
+      "pos": "v & prep",
+      "count": 2
+    },
+    {
+      "pos": "louse",
+      "count": 1
+    },
+    {
+      "pos": "n. plur",
+      "count": 1
+    },
+    {
+      "pos": "a & pro",
+      "count": 1
+    },
+    {
+      "pos": "pref",
+      "count": 3
+    },
+    {
+      "pos": "adv & conj",
+      "count": 2
+    },
+    {
+      "pos": "int.",
+      "count": 1
+    },
+    {
+      "pos": "ze",
+      "count": 1
+    },
+    {
+      "pos": "adv & co",
+      "count": 1
+    },
+    {
+      "pos": "highnoon",
+      "count": 1
+    },
+    {
+      "pos": "ref pro",
+      "count": 1
+    },
+    {
+      "pos": "etcetera",
+      "count": 1
+    },
+    {
+      "pos": "rep",
+      "count": 1
+    },
+    {
+      "pos": "a & adv",
+      "count": 11
+    },
+    {
+      "pos": "adv & n",
+      "count": 1
+    },
+    {
+      "pos": "pred a",
+      "count": 1
+    },
+    {
+      "pos": "hypno",
+      "count": 1
+    },
+    {
+      "pos": "n & prep",
+      "count": 1
+    },
+    {
+      "pos": "fruitwood",
+      "count": 1
+    },
+    {
+      "pos": "fire",
+      "count": 1
+    },
+    {
+      "pos": "a, adv & pro",
+      "count": 1
+    },
+    {
+      "pos": "ref. & emph. pro.",
+      "count": 1
+    },
+    {
+      "pos": "across",
+      "count": 1
+    },
+    {
+      "pos": "highpriest",
+      "count": 1
+    },
+    {
+      "pos": "prep, adv & conj",
+      "count": 1
+    },
+    {
+      "pos": "interj & n",
+      "count": 1
+    },
+    {
+      "pos": "adv & inter adv",
+      "count": 2
+    },
+    {
+      "pos": "pre & con",
+      "count": 1
+    },
+    {
+      "pos": "neuro",
+      "count": 1
+    },
+    {
+      "pos": "pt & ptpar",
+      "count": 1
+    },
+    {
+      "pos": "poss a",
+      "count": 2
+    },
+    {
+      "pos": "adv.prep",
+      "count": 1
+    },
+    {
+      "pos": "1",
+      "count": 6
+    },
+    {
+      "pos": "man",
+      "count": 1
+    },
+    {
+      "pos": "prize",
+      "count": 1
+    },
+    {
+      "pos": "pro. n",
+      "count": 4
+    },
+    {
+      "pos": "up",
+      "count": 1
+    },
+    {
+      "pos": "poss. pro",
+      "count": 2
+    },
+    {
+      "pos": "a & prop",
+      "count": 2
+    },
+    {
+      "pos": "pl",
+      "count": 1
+    },
+    {
+      "pos": "a & n",
+      "count": 11
+    },
+    {
+      "pos": "upon",
+      "count": 1
+    },
+    {
+      "pos": "pt. par",
+      "count": 1
+    },
+    {
+      "pos": "adv & int",
+      "count": 1
+    },
+    {
+      "pos": "poss pro",
+      "count": 1
+    },
+    {
+      "pos": "emp & pro",
+      "count": 1
+    },
+    {
+      "pos": "vt",
+      "count": 22
+    },
+    {
+      "pos": "afigure",
+      "count": 1
+    },
+    {
+      "pos": "adj",
+      "count": 5078
+    },
+    {
+      "pos": "ear-mark",
+      "count": 1
+    },
+    {
+      "pos": "away",
+      "count": 1
+    },
+    {
+      "pos": "v",
+      "count": 6229
+    },
+    {
+      "pos": "adv & a",
+      "count": 10
+    },
+    {
+      "pos": "alarm",
+      "count": 1
+    },
+    {
+      "pos": "inter",
+      "count": 2
+    },
+    {
+      "pos": "Noun",
+      "count": 518
+    },
+    {
+      "pos": "pat",
+      "count": 1
+    },
+    {
+      "pos": "on",
+      "count": 1
+    },
+    {
+      "pos": "pr. n",
+      "count": 1
+    },
+    {
+      "pos": "npl",
+      "count": 1
+    },
+    {
+      "pos": "v.1",
+      "count": 1
+    },
+    {
+      "pos": "Adjective",
+      "count": 8
+    },
+    {
+      "pos": "adv & interj",
+      "count": 1
+    },
+    {
+      "pos": "pt of leader",
+      "count": 1
+    },
+    {
+      "pos": "n, a & adv",
+      "count": 1
+    },
+    {
+      "pos": "a & pt",
+      "count": 1
+    },
+    {
+      "pos": "adv & pro",
+      "count": 1
+    },
+    {
+      "pos": "adv, prep, co",
+      "count": 1
+    },
+    {
+      "pos": "hardcore",
+      "count": 1
+    },
+    {
+      "pos": "pro a",
+      "count": 1
+    },
+    {
+      "pos": "past. Par of be",
+      "count": 1
+    },
+    {
+      "pos": "n, adv & v",
+      "count": 1
+    },
+    {
+      "pos": "poss. a",
+      "count": 1
+    },
+    {
+      "pos": "Verb",
+      "count": 2
+    },
+    {
+      "pos": "half-sister",
+      "count": 1
+    },
+    {
+      "pos": "n",
+      "count": 18494
+    },
+    {
+      "pos": "back",
+      "count": 1
+    },
+    {
+      "pos": "perp",
+      "count": 3
+    },
+    {
+      "pos": "adv&a",
+      "count": 1
+    },
+    {
+      "pos": "down1",
+      "count": 1
+    },
+    {
+      "pos": null,
+      "count": 21
+    },
+    {
+      "pos": "prefix word",
+      "count": 1
+    },
+    {
+      "pos": "pt. parfect",
+      "count": 1
+    },
+    {
+      "pos": "perp, adv & a",
+      "count": 1
+    },
+    {
+      "pos": "pt of make",
+      "count": 1
+    },
+    {
+      "pos": "interj & adv",
+      "count": 1
+    },
+    {
+      "pos": "prep & a",
+      "count": 1
+    },
+    {
+      "pos": "out",
+      "count": 4
+    },
+    {
+      "pos": "a, pro",
+      "count": 1
+    },
+    {
+      "pos": "pro & a",
+      "count": 2
+    },
+    {
+      "pos": "n& a",
+      "count": 1
+    },
+    {
+      "pos": "a, adv & dem pro & a",
+      "count": 1
+    },
+    {
+      "pos": "hitlist",
+      "count": 1
+    },
+    {
+      "pos": "prefix",
+      "count": 8
+    },
+    {
+      "pos": "pre par",
+      "count": 1
+    },
+    {
+      "pos": "hand",
+      "count": 2
+    },
+    {
+      "pos": "hitman",
+      "count": 1
+    },
+    {
+      "pos": "along",
+      "count": 1
+    },
+    {
+      "pos": "pasalmin",
+      "count": 1
+    },
+    {
+      "pos": "pas. part.",
+      "count": 1
+    },
+    {
+      "pos": "pt & pt pa",
+      "count": 1
+    },
+    {
+      "pos": "pro pl",
+      "count": 1
+    },
+    {
+      "pos": "adv & inter",
+      "count": 1
+    },
+    {
+      "pos": "push-button",
+      "count": 1
+    },
+    {
+      "pos": "n.v",
+      "count": 1
+    },
+    {
+      "pos": "ind. art.",
+      "count": 1
+    },
+    {
+      "pos": "pt & par",
+      "count": 2
+    },
+    {
+      "pos": "esquire",
+      "count": 1
+    },
+    {
+      "pos": "adv",
+      "count": 629
+    },
+    {
+      "pos": "noun",
+      "count": 4
+    },
+    {
+      "pos": "forward",
+      "count": 1
+    },
+    {
+      "pos": "conj",
+      "count": 23
+    },
+    {
+      "pos": "v. adv & prep",
+      "count": 1
+    },
+    {
+      "pos": "It. par",
+      "count": 1
+    },
+    {
+      "pos": "cong",
+      "count": 1
+    },
+    {
+      "pos": "ref & emp pro",
+      "count": 1
+    },
+    {
+      "pos": "mass-media",
+      "count": 1
+    },
+    {
+      "pos": "a, adv & press",
+      "count": 1
+    },
+    {
+      "pos": "down",
+      "count": 3
+    },
+    {
+      "pos": "pro",
+      "count": 11
+    },
+    {
+      "pos": "per. pro. n",
+      "count": 1
+    },
+    {
+      "pos": "n & v",
+      "count": 11
+    },
+    {
+      "pos": "v & a",
+      "count": 2
+    },
+    {
+      "pos": "dewpoint",
+      "count": 1
+    },
+    {
+      "pos": "n & a",
+      "count": 40
+    },
+    {
+      "pos": "pron",
+      "count": 47
+    },
+    {
+      "pos": "pt",
+      "count": 69
+    },
+    {
+      "pos": "refl. pro",
+      "count": 1
+    },
+    {
+      "pos": "p. par of be",
+      "count": 1
+    },
+    {
+      "pos": "Fr",
+      "count": 5
+    },
+    {
+      "pos": "pt. of lingh",
+      "count": 1
+    },
+    {
+      "pos": "v, a & n",
+      "count": 1
+    },
+    {
+      "pos": "n & v, conj",
+      "count": 1
+    },
+    {
+      "pos": "a",
+      "count": 1898
+    },
+    {
+      "pos": "a, adv & n",
+      "count": 1
+    },
+    {
+      "pos": "adv.adj",
+      "count": 7
+    },
+    {
+      "pos": "pro & adv",
+      "count": 3
+    },
+    {
+      "pos": "heavy-breathing",
+      "count": 1
+    },
+    {
+      "pos": "handgrenade",
+      "count": 1
+    },
+    {
+      "pos": "v & n",
+      "count": 1
+    },
+    {
+      "pos": "conf",
+      "count": 1
+    },
+    {
+      "pos": "anj",
+      "count": 1
+    },
+    {
+      "pos": "prep & adv",
+      "count": 3
+    },
+    {
+      "pos": "pt. of meet",
+      "count": 1
+    },
+    {
+      "pos": "number",
+      "count": 1
+    },
+    {
+      "pos": "pro, obj, case",
+      "count": 1
+    },
+    {
+      "pos": "p. par",
+      "count": 3
+    },
+    {
+      "pos": "luck",
+      "count": 1
+    },
+    {
+      "pos": "perp & adv",
+      "count": 1
+    },
+    {
+      "pos": "par",
+      "count": 1
+    },
+    {
+      "pos": "up1",
+      "count": 1
+    },
+    {
+      "pos": "inter. a & pro",
+      "count": 1
+    },
+    {
+      "pos": "a past. par",
+      "count": 1
+    },
+    {
+      "pos": "pro.",
+      "count": 1
+    },
+    {
+      "pos": "n.pl",
+      "count": 1
+    },
+    {
+      "pos": "adj.adv",
+      "count": 6
+    },
+    {
+      "pos": "pt per",
+      "count": 1
+    },
+    {
+      "pos": "a, pro & adv",
+      "count": 1
+    },
+    {
+      "pos": "neg v",
+      "count": 1
+    },
+    {
+      "pos": "limbo",
+      "count": 1
+    },
+    {
+      "pos": "off",
+      "count": 1
+    },
+    {
+      "pos": "pt par pt",
+      "count": 1
+    },
+    {
+      "pos": "quadri",
+      "count": 1
+    },
+    {
+      "pos": "con",
+      "count": 1
+    },
+    {
+      "pos": "pt. of mean",
+      "count": 1
+    },
+    {
+      "pos": "thumb",
+      "count": 1
+    },
+    {
+      "pos": "dead",
+      "count": 1
+    },
+    {
+      "pos": "a & perp",
+      "count": 1
+    },
+    {
+      "pos": "hot-line",
+      "count": 1
+    },
+    {
+      "pos": "v.t",
+      "count": 1
+    },
+    {
+      "pos": "adv & predic a",
+      "count": 1
+    },
+    {
+      "pos": "indef art",
+      "count": 1
+    },
+    {
+      "pos": "n & pro",
+      "count": 1
+    },
+    {
+      "pos": "poss",
+      "count": 1
+    },
+    {
+      "pos": "pt par",
+      "count": 18
+    },
+    {
+      "pos": "war",
+      "count": 1
+    },
+    {
+      "pos": "wave",
+      "count": 1
+    },
+    {
+      "pos": "n & interj",
+      "count": 1
+    },
+    {
+      "pos": "prep",
+      "count": 78
+    }
+  ]
+}

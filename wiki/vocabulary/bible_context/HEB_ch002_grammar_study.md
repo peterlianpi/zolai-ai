@@ -35,14 +35,14 @@
 ### v2
 **EN:** For if the word spoken by angels was stedfast, and every transgression and disobedience received a just recompence of reward;
 
-**TDB77:** Vantung mite in hong gen thute thuman hi a, tua thu a palsatte in a kilawm bangin gim thuak ding uh hi.
+**TDB77:** Vantung mite in hong gen thute thuman hi a, tua thu a palsatte in a kilawm bangin gim thuak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** How shall we escape, if we neglect so great salvation; which at the first began to be spoken by the Lord, and was confirmed unto us by them that heard him;
 
-**TDB77:** Tua ahih manin a thupi mahmah hih hotkhiatna thudon loin i om leh suahtakna om thei ngeilo ding hi. A masa-in Topa mahmah in hotkhiatna thu hong pulak a, tua thu a za mite in thuman ahihna thu eite tungah hong gen leuleu uh hi.
+**TDB77:** Tua ahih manin a thupi mahmah hih hotkhiatna thudon loin i om leh suahtakna om thei ngeilo ding hi. A masa-in Topa mahmah in hotkhiatna thu hong pulak a, tua thu a za mite in thuman ahihna thu eite tungah hong gen leuleu-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | future: will | causal: because | plural: uh marker
 
@@ -99,7 +99,7 @@
 ### v10
 **EN:** For it became him, for whom are all things, and by whom are all things, in bringing many sons unto glory, to make the captain of their salvation perfect through sufferings.
 
-**TDB77:** Bang hang hiam na cih uh leh, ta tampite vanglian nopsakna-ah a khak nadingin, tua mite’ gupna a piangsakpa in gimna a thuakna hangin kicin’na a tun’ nadingin na khempeuh bawl a, a uk Pasian in a kilawm hi.
+**TDB77:** Bang hang hiam na cih-te leh, ta tampite vanglian nopsakna-ah a khak nadingin, tua mite’ gupna a piangsakpa in gimna a thuakna hangin kicin’na a tun’ nadingin na khempeuh bawl a, a uk Pasian in a kilawm hi.
 
 **ZVS:** Na khempeuh ama-a' dingin a piangsak Pasian in tate tampi minthan'na a ngahsak theihna dingin a thuakna tawh hotkhiatna thu-ah a makai dingin Jesuh a bawl ding a kilawm mah ahi hi.
 
@@ -108,9 +108,9 @@
 ### v11
 **EN:** For both he that sanctifieth and they who are sanctified are all of one: for which cause he is not ashamed to call them brethren,
 
-**TDB77:** A siangthosak theipa leh siangthona a ngah mite in innkuan khat pan a piang uh hi. Tua ahih ciangin Zeisu in amaute, “Ute naute aw,” ci-in sap ding a maizumpih kei hi.
+**TDB77:** A siangthosak theipa leh siangthona a ngah mite in innkuan khat pan a piang-te hi. Tua ahih ciangin Zeisu in amaute, “Ute naute aw,” ci-in sap ding a maizumpih kei hi.
 
-**ZVS:** Mawhna panin mite a siangthosakpa leh sian'thosakna a ngah mite in, Pa, a kibang a neikhawm uh hi. Tua hi a, Jesuh in mite, “Sanggam,” a cih ding zum ngaihsutlo ahih manin,
+**ZVS:** Mawhna panin mite a siangthosakpa leh sian'thosakna a ngah mite in, Pa, a kibang a neikhawm-te hi. Tua hi a, Jesuh in mite, “Sanggam,” a cih ding zum ngaihsutlo ahih manin,
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: kei | plural: uh marker
 
@@ -126,7 +126,7 @@
 ### v13
 **EN:** And again, I will put my trust in him. And again, Behold I and the children which God hath given me.
 
-**TDB77:** Mun khat panin, “Pasian ka muang ding hi,” a ci hi. Khatvei leuleu: “Kei-a kipan Pasian hong piak tate a om uh hi,” ci-in a kigen hi.
+**TDB77:** Mun khat panin, “Pasian ka muang ding hi,” a ci hi. Khatvei leuleu: “Kei-a kipan Pasian hong piak tate a om-te hi,” ci-in a kigen hi.
 
 **ZVS:** tua ciangin, “Pasian muan'in ka nei ding hi,” na ci kik a, tua ciangin, “Pasian in hong piak ta dangte tawh hih lai-ah ka om hi,” na ci leuleu hi.
 
@@ -149,7 +149,7 @@
 ### v16
 **EN:** For verily he took not on him the nature of angels; but he took on him the seed of Abraham.
 
-**TDB77:** Bang hang hiam na cih uh leh, amah in a man takin vantungmite a huh kei hi; Abraham’ suante a huh hi.
+**TDB77:** Bang hang hiam na cih-te leh, amah in a man takin vantungmite a huh kei hi; Abraham’ suante a huh hi.
 
 **ZVS:** Ama lunghihmawh pen vantung mite hilo a, Abraham' suanlekhakte a lunghimawh ahihna thu hong kitel hi.
 

@@ -9,7 +9,7 @@
 
 | Pronoun | Function | Correct Use | Wrong |
 |---|---|---|---|
-| `i` | Subject prefix "we" | `I pai hi` (We went) | `I pai uh hi` ❌ |
+| `i` | Subject prefix "we" | `I pai hi` (We went) | `I pai-te hi` ❌ |
 | `eite` | Emphatic / object "us/we" | `Pasian in eite hong it` (God loves us) | `kei te hong it` ❌ |
 | `kei te` | NOT "we" — emphatic singular only | `kei teek ka hi` (it is only me) | `kei te pai hi` for "we went" ❌ |
 

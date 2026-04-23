@@ -64,7 +64,7 @@
 
 ### sang = receive/accept
 **Context:** Used for accepting or welcoming someone or their message.
-**Example:** ama mite in amah a sang kei uh hi.
+**Example:** ama mite in amah a sang kei-te hi.
 
 ### suah theihna = the ability to become/be born
 **Context:** The potential/ability ('-theih') to be born or brought forth ('suah').
@@ -72,7 +72,7 @@
 
 ### si leh sa = blood and flesh (natural descent)
 **Context:** A common idiom referring to physical, natural birth or lineage.
-**Example:** Tua tate in si leh sa tawh suak ahi kei uh hi;
+**Example:** Tua tate in si leh sa tawh suak ahi kei-te hi;
 
 ### hehpihna = grace
 **Context:** Refers to divine favor or unmerited kindness.
@@ -106,7 +106,7 @@
 - **Pasian’ tate suah theihna ding thu a pia hi** = gave the word/power to become sons of God
   - Usage: Describes the granting of authority or potential to believe and be adopted by God.
 
-- **si leh sa tawh suak ahi kei uh hi** = were not born of blood and flesh
+- **si leh sa tawh suak ahi kei-te hi** = were not born of blood and flesh
   - Usage: Used to contrast natural, physical birth with spiritual rebirth.
 
 ## Grammar Patterns

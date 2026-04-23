@@ -33,9 +33,9 @@
 ### v2
 **EN:** A fool hath no delight in understanding, but that his heart may discover itself.
 
-**TDB77:** Mihaite in thu a tel theih zawh nading uh kin lo uh a, pil si, a kicih theih nading bek deihna tawh thu gen uh hi.
+**TDB77:** Mihaite in thu a tel theih zawh nading-te kin lo-te a, pil si, a kicih theih nading bek deihna tawh thu gen-te hi.
 
-**ZVS:** Mihaite in thu a teltheih zawhna ding uh kinlo uh a, pil si, a kicih theihna ding deihna bek tawh thu gen uh hi.
+**ZVS:** Mihaite in thu a teltheih zawhna ding-te kinlo-te a, pil si, a kicih theihna ding deihna bek tawh thu gen-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -76,9 +76,9 @@
 ### v7
 **EN:** A fool's mouth is his destruction, and his lips are the snare of his soul.
 
-**TDB77:** Mihaite a pau ciangin amau’ siat nading mah kampau hi a, amau kampau mah awkpih uh hi.
+**TDB77:** Mihaite a pau ciangin amau’ siat nading mah kampau hi a, amau kampau mah awkpih-te hi.
 
-**ZVS:** Mihaite a pau ciangin amau' siatna ding mah a pau hi a, amau' kampau mah awkpih uh hi.
+**ZVS:** Mihaite a pau ciangin amau' siatna ding mah a pau hi a, amau' kampau mah awkpih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -101,9 +101,9 @@
 ### v10
 **EN:** The name of the
 
-**TDB77:** Topa’ min in tausang muanhuai tawh kibang a, thuman mite in beelin lungmuangin om thei uh hi.
+**TDB77:** Topa’ min in tausang muanhuai tawh kibang a, thuman mite in beelin lungmuangin om thei-te hi.
 
-**ZVS:** { Topa' } min pen tausang muan'huai tawh kibang a, thuman mite in belin lungmuangin om thei uh hi.
+**ZVS:** { Topa' } min pen tausang muan'huai tawh kibang a, thuman mite in belin lungmuangin om thei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -119,9 +119,9 @@
 ### v12
 **EN:** Before destruction the heart of man is haughty, and before honour is humility.
 
-**TDB77:** A kiniamkhiatte in zahtakna ngah uh a, a kihisakte in siat ding a manawh hi ta hi.
+**TDB77:** A kiniamkhiatte in zahtakna ngah-te a, a kihisakte in siat ding a manawh hi ta hi.
 
-**ZVS:** A kiniamkhiatte in zahtakna ngah uh a, a kihisakte pen siat ding a manawh hita hi.
+**ZVS:** A kiniamkhiatte in zahtakna ngah-te a, a kihisakte pen siat ding a manawh hita hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -146,9 +146,9 @@
 ### v15
 **EN:** The heart of the prudent getteth knowledge; and the ear of the wise seeketh knowledge.
 
-**TDB77:** Thungaihsun theite in a pilna uh behlap a, pilna a ngah nadingun mipilte in a bil uh tawh ngai uh hi.
+**TDB77:** Thungaihsun theite in a pilna-te behlap a, pilna a ngah nadingun mipilte in a bil-te tawh ngai-te hi.
 
-**ZVS:** Thungaihsun theite in a pilna uh behlap a, pilna a ngahna dingun mipilte in a bil uh tawh limtakin ngai uh hi.
+**ZVS:** Thungaihsun theite in a pilna-te behlap a, pilna a ngahna dingun mipilte in a bil-te tawh limtakin ngai-te hi.
 
 **Grammar:** plural: uh marker
 

@@ -21,18 +21,18 @@
 ### v1
 **EN:** Then drew near unto him all the publicans and sinners for to hear him.
 
-**TDB77:** Tua lai takin siahdongte leh migilote khempeuh in Zeisu’ thu ngai dingin a kiangah a nai uh hi.
+**TDB77:** Tua lai takin siahdongte leh migilote khempeuh in Zeisu’ thu ngai dingin a kiangah a nai-te hi.
 
-**ZVS:** Khatvei, Jesuh' thugen a ngai dingin siahdongte leh mawhneite tampi tak a hong pai uh hi.
+**ZVS:** Khatvei, Jesuh' thugen a ngai dingin siahdongte leh mawhneite tampi tak a hong pai-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And the Pharisees and scribes murmured, saying, This man receiveth sinners, and eateth with them.
 
-**TDB77:** Farisaite leh laitheite in , “Hihpa in migilote ngai a, amau tawh an a nekhawm hi,’ ci-in a ko uh hi.
+**TDB77:** Farisaite leh laitheite in , “Hihpa in migilote ngai a, amau tawh an a nekhawm hi,’ ci-in a ko-te hi.
 
-**ZVS:** Farisi mite leh Thukham hilh siate phun uh a, “Hih mipa, mawhneite tawh kikhawlin an nangawn nekhawm hi,” a ci uh hi.
+**ZVS:** Farisi mite leh Thukham hilh siate phun-te a, “Hih mipa, mawhneite tawh kikhawlin an nangawn nekhawm hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 

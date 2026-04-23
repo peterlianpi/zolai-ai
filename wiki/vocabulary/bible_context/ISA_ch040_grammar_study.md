@@ -58,9 +58,9 @@
 ### v5
 **EN:** And the glory of the
 
-**TDB77:** Topa’ kam in gen khin ahih manin, Topa’ minthan’na hong kilang ding a, mi khempeuh in mu khawm ding uh hi,” a ci hi.
+**TDB77:** Topa’ kam in gen khin ahih manin, Topa’ minthan’na hong kilang ding a, mi khempeuh in mu khawm ding-te hi,” a ci hi.
 
-**ZVS:** { Topa}' kam in gen khin ahih manin, { Topa}' minthan'na vang hong kilang ding a, mi khempeuh in mukhawm ding uh hi,” a ci hi.
+**ZVS:** { Topa}' kam in gen khin ahih manin, { Topa}' minthan'na vang hong kilang ding a, mi khempeuh in mukhawm ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -94,9 +94,9 @@
 ### v9
 **EN:** O Zion, that bringest good tidings, get thee up into the high mountain; O Jerusalem, that bringest good tidings, lift up thy voice with strength; lift it up, be not afraid; say unto the cities of Judah, Behold your God!
 
-**TDB77:** Zion ah lungdamna thu hong puakpa aw, mualsang dawnah kahto in. Jerusalem ah lungdamna thu hong puak pa aw, nakpi takin awng in la, lungdamna thu taangko in. Nakpi takin kiko in la, lau kei in. Judah gam khuapite tungah, “Na Pasian uh hong pai ta hi,” ci-in gen in.
+**TDB77:** Zion ah lungdamna thu hong puakpa aw, mualsang dawnah kahto in. Jerusalem ah lungdamna thu hong puak pa aw, nakpi takin awng in la, lungdamna thu taangko in. Nakpi takin kiko in la, lau kei in. Judah gam khuapite tungah, “Na Pasian-te hong pai ta hi,” ci-in gen in.
 
-**ZVS:** Jerusalem aw, mual sang dawnah kahto-in lungdamna thu kiko in. Zion aw, nakpi takin awng in la, lungdamna thu taangko in. Nakpi takin kiko in la, lau kei in. Judah gam khuapite tungah, “Na Pasian uh hong pai ta hi,” ci-in gen ta un.
+**ZVS:** Jerusalem aw, mual sang dawnah kahto-in lungdamna thu kiko in. Zion aw, nakpi takin awng in la, lungdamna thu taangko in. Nakpi takin kiko in la, lau kei in. Judah gam khuapite tungah, “Na Pasian-te hong pai ta hi,” ci-in gen ta un.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -173,7 +173,7 @@
 ### v18
 **EN:** To whom then will ye liken God? or what likeness will ye compare unto him?
 
-**TDB77:** Tua ahih ciangin Pasian pen kua tawh tehkak ding a, amah pen bang lim tawh kibang ci ding na hi uh hiam?
+**TDB77:** Tua ahih ciangin Pasian pen kua tawh tehkak ding a, amah pen bang lim tawh kibang ci ding na hi-te hiam?
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -198,9 +198,9 @@
 ### v21
 **EN:** Have ye not known? have ye not heard? hath it not been told you from the beginning? have ye not understood from the foundations of the earth?
 
-**TDB77:** Note in thei nai lo na hi uh hiam? Note in za nai lo na hi uh hiam? A kipat cilin note tungah hong kigen khin hilo ahi hiam? Leitung a pian’ akipan thei khinta hilo na hi uh hiam?
+**TDB77:** Note in thei nai lo na hi-te hiam? Note in za nai lo na hi-te hiam? A kipat cilin note tungah hong kigen khin hilo ahi hiam? Leitung a pian’ akipan thei khinta hilo na hi-te hiam?
 
-**ZVS:** Note in thei nailo a, za nailo na hi uh hiam? A kipat cilin note tungah hong kigen khin hilo ahi hiam? Leitung a pian'-a kipan thei khinta hilo na hi uh hiam?
+**ZVS:** Note in thei nailo a, za nailo na hi-te hiam? A kipat cilin note tungah hong kigen khin hilo ahi hiam? Leitung a pian'-a kipan thei khinta hilo na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -223,18 +223,18 @@
 ### v24
 **EN:** Yea, they shall not be planted; yea, they shall not be sown: yea, their stock shall not take root in the earth: and he shall also blow upon them, and they shall wither, and the whirlwind shall take them away as stubble.
 
-**TDB77:** Amaute pen a gina-in kisuan lo, a gina-in kivawh lo, amau’ kungte in a gina-in lei sungah zung kha lo uh a, amah in amaute a mut ciangin amaute vul a, huihpi in nahpa keu bangin amaute a len’ khiatpih hi.
+**TDB77:** Amaute pen a gina-in kisuan lo, a gina-in kivawh lo, amau’ kungte in a gina-in lei sungah zung kha lo-te a, amah in amaute a mut ciangin amaute vul a, huihpi in nahpa keu bangin amaute a len’ khiatpih hi.
 
-**ZVS:** Amaute pen a gina-in kisuanlo a, a gina-in kivawhlo a, amau' kungte in a gina-in lei sungah zung khalo uh a, amah in a mut ciangin amaute vul a, huihpi in ham bangin amaute a len'khiatpih hi.
+**ZVS:** Amaute pen a gina-in kisuanlo a, a gina-in kivawhlo a, amau' kungte in a gina-in lei sungah zung khalo-te a, amah in a mut ciangin amaute vul a, huihpi in ham bangin amaute a len'khiatpih hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** To whom then will ye liken me, or shall I be equal? saith the Holy One.
 
-**TDB77:** Tua ahih ciangin kei kua tawh hong tehkak ding na hi uh hiam? Siangtho Pa in ci hi.
+**TDB77:** Tua ahih ciangin kei kua tawh hong tehkak ding na hi-te hiam? Siangtho Pa in ci hi.
 
-**ZVS:** Tua ahih ciangin kei kua tawh hong genteh ding na hi uh hiam, Siangtho Pa in ci hi.
+**ZVS:** Tua ahih ciangin kei kua tawh hong genteh ding na hi-te hiam, Siangtho Pa in ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore
 
@@ -277,18 +277,18 @@
 ### v30
 **EN:** Even the youths shall faint and be weary, and the young men shall utterly fall:
 
-**TDB77:** Khangnote nangawn gim-in kituk ding a, khanglai mite a tha uh bei ding hi;
+**TDB77:** Khangnote nangawn gim-in kituk ding a, khanglai mite a tha-te bei ding hi;
 
-**ZVS:** Khangnote nangawn gimin tawl ding a, khanglai mite a tha uh bei ding hi.
+**ZVS:** Khangnote nangawn gimin tawl ding a, khanglai mite a tha-te bei ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v31
 **EN:** But they that wait upon the
 
-**TDB77:** Ahih hangin Topa a ngak mite a tha uh dimkik ding a, muvanlai bangin kha tawh leengto-in, amaute tai napi-un tawl lo ding uh a, amaute lam pai napi-un gim lo ding uh hi.
+**TDB77:** Ahih hangin Topa a ngak mite a tha-te dimkik ding a, muvanlai bangin kha tawh leengto-in, amaute tai napi-un tawl lo ding-te a, amaute lam pai napi-un gim lo ding-te hi.
 
-**ZVS:** Ahih hangin { Topa } a muang mite a tha uh dimkik ding a, muvanlai bangin kha tawh leengto-in, amaute tai napi-un tawllo ding uh a, amaute lam pai napi-un gimlo ding uh hi.
+**ZVS:** Ahih hangin { Topa } a muang mite a tha-te dimkik ding a, muvanlai bangin kha tawh leengto-in, amaute tai napi-un tawllo ding-te a, amaute lam pai napi-un gimlo ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 

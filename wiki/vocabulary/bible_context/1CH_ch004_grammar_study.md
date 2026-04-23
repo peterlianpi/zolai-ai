@@ -24,25 +24,25 @@
 ### v1
 **EN:** The sons of Judah; Pharez, Hezron, and Carmi, and Hur, and Shobal.
 
-**TDB77:** Judah’ tapate in: Perez, Hezron, Karmi, Hur, leh Shobal ahi uh hi.
+**TDB77:** Judah’ tapate in: Perez, Hezron, Karmi, Hur, leh Shobal ahi-te hi.
 
-**ZVS:** Judah' tapate: Perez, Hezron, Karmi, Hur, leh Shobal ahi uh hi.
+**ZVS:** Judah' tapate: Perez, Hezron, Karmi, Hur, leh Shobal ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v2
 **EN:** And Reaiah the son of Shobal begat Jahath; and Jahath begat Ahumai, and Lahad. These are the families of the Zorathites.
 
-**TDB77:** Shobal’ tapa Reajah in Jahath’ pa hi a, Jahath in Ahumai leh Lahad’ pa ahi hi. Hihte in Zorah khua a teeng minamte pu leh pate ahi uh hi.
+**TDB77:** Shobal’ tapa Reajah in Jahath’ pa hi a, Jahath in Ahumai leh Lahad’ pa ahi hi. Hihte in Zorah khua a teeng minamte pu leh pate ahi-te hi.
 
-**ZVS:** Shobal' tapa Reaiah pen Jahath' pa hi a, Jahath pen Ahumai leh Lahad' pa ahi hi. Hihte pen Zorah khua-ah a teng minamte' pu leh pate ahi uh hi.
+**ZVS:** Shobal' tapa Reaiah pen Jahath' pa hi a, Jahath pen Ahumai leh Lahad' pa ahi hi. Hihte pen Zorah khua-ah a teng minamte' pu leh pate ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** And Penuel the father of Gedor, and Ezer the father of Hushah. These are the sons of Hur, the firstborn of Ephratah, the father of Beth–lehem.
 
-**TDB77:** Hur pen a pa Kaleb' zi Efrath' ta upa pen hi a, ama suanlekhakte in Bethlehem khuapi sat uh hi. Hur' tapa thumte: Etam, Penuel, leh Ezer ahi uh hi. Etam in tapa thum nei a, tuate pen Jezreel, Ishma, leh Idbash ahi uh hi. Tanu khat zong nei a, a min Hazzeleponi ahi hi. Penuel pen Gedor khuapi a satpa hi a, Ezer pen Hushah khuapi a satpa ahi hi.
+**TDB77:** Hur pen a pa Kaleb' zi Efrath' ta upa pen hi a, ama suanlekhakte in Bethlehem khuapi sat-te hi. Hur' tapa thumte: Etam, Penuel, leh Ezer ahi-te hi. Etam in tapa thum nei a, tuate pen Jezreel, Ishma, leh Idbash ahi-te hi. Tanu khat zong nei a, a min Hazzeleponi ahi hi. Penuel pen Gedor khuapi a satpa hi a, Ezer pen Hushah khuapi a satpa ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -56,18 +56,18 @@
 ### v6
 **EN:** And Naarah bare him Ahuzam, and Hepher, and Temeni, and Haahashtari. These were the sons of Naarah.
 
-**TDB77:** Na-arah in amah tawh Ahuzzam, Hefer, Temeni, leh Ha-ahashtari nei hi. Hihte in Na-arah’ tapate ahi uh hi.
+**TDB77:** Na-arah in amah tawh Ahuzzam, Hefer, Temeni, leh Ha-ahashtari nei hi. Hihte in Na-arah’ tapate ahi-te hi.
 
-**ZVS:** Naarah in amah tawh Ahuzzam, Hefer, Temeni, leh Haahashtari nei hi. Hihte pen Naarah' tapate ahi uh hi.
+**ZVS:** Naarah in amah tawh Ahuzzam, Hefer, Temeni, leh Haahashtari nei hi. Hihte pen Naarah' tapate ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** And the sons of Helah were, Zereth, and Jezoar, and Ethnan.
 
-**TDB77:** Helah tawh a tapate in: Zerah, Izhar, leh Ethnan leh Koz ahi uh hi.
+**TDB77:** Helah tawh a tapate in: Zerah, Izhar, leh Ethnan leh Koz ahi-te hi.
 
-**ZVS:** Helah tawh a tapate: Zereth, Izhar leh Ethnan ahi uh hi.
+**ZVS:** Helah tawh a tapate: Zereth, Izhar leh Ethnan ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -106,18 +106,18 @@
 ### v12
 **EN:** And Eshton begat Beth–rapha, and Paseah, and Tehinnah the father of Ir–nahash. These are the men of Rechah.
 
-**TDB77:** Eshton in Bethrafa, Paseah, leh Tehinnah, tapa thum nei a, Tehinnah in Irnahash khuapi satpa ahi hi. Hih mite’ suan leh khakte, Rekah munah teeng uh hi.
+**TDB77:** Eshton in Bethrafa, Paseah, leh Tehinnah, tapa thum nei a, Tehinnah in Irnahash khuapi satpa ahi hi. Hih mite’ suan leh khakte, Rekah munah teeng-te hi.
 
-**ZVS:** Eshton in Bethrafa, Paseah, leh Tehinnah, tapa thum nei a, Tehinnah pen Irnahash khuapi a satpa ahi hi. Hih mite' suanlekhakte, Rekah munah teng uh hi.
+**ZVS:** Eshton in Bethrafa, Paseah, leh Tehinnah, tapa thum nei a, Tehinnah pen Irnahash khuapi a satpa ahi hi. Hih mite' suanlekhakte, Rekah munah teng-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** And the sons of Kenaz; Othniel, and Seraiah: and the sons of Othniel; Hathath.
 
-**TDB77:** Kenaz’ tapate in: Othiel leh Seraiah ahi uh hi; Othniel’ tapate in: Hathath leh Meonothai ahi uh hi.
+**TDB77:** Kenaz’ tapate in: Othiel leh Seraiah ahi-te hi; Othniel’ tapate in: Hathath leh Meonothai ahi-te hi.
 
-**ZVS:** Kenaz' tapate: Othniel leh Seraiah ahi uh hi. Othniel' tapate: Hathath leh Meonothai ahi uh hi.
+**ZVS:** Kenaz' tapate: Othniel leh Seraiah ahi-te hi. Othniel' tapate: Hathath leh Meonothai ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -133,50 +133,50 @@
 ### v15
 **EN:** And the sons of Caleb the son of Jephunneh; Iru, Elah, and Naam: and the sons of Elah, even Kenaz.
 
-**TDB77:** Jefunneh’ tapa Kaleb’ tapate in: Iru, Elah, Na-am ahi uh hi: Elah’ tapa in Kenaz ahi hi.
+**TDB77:** Jefunneh’ tapa Kaleb’ tapate in: Iru, Elah, Na-am ahi-te hi: Elah’ tapa in Kenaz ahi hi.
 
-**ZVS:** Jefunneh' tapa Kaleb' tapate: Iru, Elah, leh Naam ahi uh hi. Elah' tapa Kenaz ahi hi.
+**ZVS:** Jefunneh' tapa Kaleb' tapate: Iru, Elah, leh Naam ahi-te hi. Elah' tapa Kenaz ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v16
 **EN:** And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.
 
-**TDB77:** Jehallelel’ tapate in: Zif, Zifah, Tiria, leh Asarel ahi uh hi.
+**TDB77:** Jehallelel’ tapate in: Zif, Zifah, Tiria, leh Asarel ahi-te hi.
 
-**ZVS:** Jehallelel' tapate: Zif, Zifah, Tiria, leh Asarel ahi uh hi.
+**ZVS:** Jehallelel' tapate: Zif, Zifah, Tiria, leh Asarel ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** And his wife Jehudijah bare Jered the father of Gedor, and Heber the father of Soco, and Jekuthiel the father of Zanoah. And these are the sons of Bithiah the daughter of Pharaoh, which Mered took.
 
-**TDB77:** Ezrah' tapa lite: Jether, Mered, Efer, leh Jalon ahi uh hi. Mered in Faro' tanu Bithiah ten'pih a, tanu Miriam leh tapa Shammai leh Ishbah nei hi. Ishbah pen Eshtemoa khuapi a satpa ahi hi. Mered in Judah minam numei khat zong ten'pih a, tua tawh tapa thum nei hi. Tuate in: Gedor khuapi a satpa Jered, Soko khuapi a satpa Heber, leh Zanoah khuapi a satpa Jekuthiel ahi hi.
+**TDB77:** Ezrah' tapa lite: Jether, Mered, Efer, leh Jalon ahi-te hi. Mered in Faro' tanu Bithiah ten'pih a, tanu Miriam leh tapa Shammai leh Ishbah nei hi. Ishbah pen Eshtemoa khuapi a satpa ahi hi. Mered in Judah minam numei khat zong ten'pih a, tua tawh tapa thum nei hi. Tuate in: Gedor khuapi a satpa Jered, Soko khuapi a satpa Heber, leh Zanoah khuapi a satpa Jekuthiel ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v19
 **EN:** And the sons of his wife Hodiah the sister of Naham, the father of Keilah the Garmite, and Eshtemoa the Maachathite.
 
-**TDB77:** Hodiah in Naham’ sanggamnu ten’pih a, amau’ suante in Keilah khua-ah a teeng Garm mite leh Eshtemoa khua-ah a teeng Ma-akath minamte ahi uh hi.
+**TDB77:** Hodiah in Naham’ sanggamnu ten’pih a, amau’ suante in Keilah khua-ah a teeng Garm mite leh Eshtemoa khua-ah a teeng Ma-akath minamte ahi-te hi.
 
-**ZVS:** Hodiah in Naham' sanggamnu ten'pih a, amau' suante pen Keilah khua-ah a teng Garm mite leh Eshtemoa khua-ah a teng Maakath minamte ahi uh hi.
+**ZVS:** Hodiah in Naham' sanggamnu ten'pih a, amau' suante pen Keilah khua-ah a teng Garm mite leh Eshtemoa khua-ah a teng Maakath minamte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v20
 **EN:** And the sons of Shimon were, Amnon, and Rinnah, Ben–hanan, and Tilon. And the sons of Ishi were, Zoheth, and Ben–zoheth.
 
-**TDB77:** Shimon’ tapate in: Amnon, Rinnath, Benhanan, leh Tilon ahi uh hi. Ishi’ tapate in: Zoheth leh Benzoheth ahi uh hi.
+**TDB77:** Shimon’ tapate in: Amnon, Rinnath, Benhanan, leh Tilon ahi-te hi. Ishi’ tapate in: Zoheth leh Benzoheth ahi-te hi.
 
-**ZVS:** Shimon' tapate: Amnon, Rinnah, Benhanan, leh Tilon ahi uh hi. Ishi' tapate: Zoheth leh Benzoheth ahi uh hi.
+**ZVS:** Shimon' tapate: Amnon, Rinnah, Benhanan, leh Tilon ahi-te hi. Ishi' tapate: Zoheth leh Benzoheth ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v21
 **EN:** The sons of Shelah the son of Judah were, Er the father of Lecah, and Laadah the father of Mareshah, and the families of the house of them that wrought fine linen, of the house of Ashbea,
 
-**TDB77:** Judah’ tapa khat ahi Shelah’ tapate in: Lekah khuapi a sat Er, Mareshah khuapi a sat La-adah, leh Beth-ashbea khua-ah saihadial puan a gan minamte ahi uh hi:
+**TDB77:** Judah’ tapa khat ahi Shelah’ tapate in: Lekah khuapi a sat Er, Mareshah khuapi a sat La-adah, leh Beth-ashbea khua-ah saihadial puan a gan minamte ahi-te hi:
 
 **ZVS:** Judah' tapa khat ahi Shelah' tapate: Lekah khuapi a sat Er, leh Mareshah khuapi a sat Laadah hi a, Bethashbea khua-ah saihadial puan a gan minamte ahi hi.
 
@@ -185,54 +185,54 @@
 ### v22
 **EN:** And Jokim, and the men of Chozeba, and Joash, and Saraph, who had the dominion in Moab, and Jashubi–lehem. And these are ancient things.
 
-**TDB77:** tua ciangin Jokim, leh Kozeba khuapi sungah a teeng mite; tua ciangin Joash leh Saraf hi uh a, amaute gel in Moab numeite ten’pihin Bethlehem khua ah teeng uh hi. (Hih pen tuanthu lui pekpek ahi hi.)
+**TDB77:** tua ciangin Jokim, leh Kozeba khuapi sungah a teeng mite; tua ciangin Joash leh Saraf hi-te a, amaute gel in Moab numeite ten’pihin Bethlehem khua ah teeng-te hi. (Hih pen tuanthu lui pekpek ahi hi.)
 
-**ZVS:** Tua ciangin Jokim leh Kozeba khuapi sungah a teng mite hi a, tua ciangin Joash leh Saraf zong ahi uh hi. Amaute gel in Moab numeite ten'pihin Bethlehem khua-ah teng uh hi. (Hih pen tuanthu lui pekpek thu ahi hi.)
+**ZVS:** Tua ciangin Jokim leh Kozeba khuapi sungah a teng mite hi a, tua ciangin Joash leh Saraf zong ahi-te hi. Amaute gel in Moab numeite ten'pihin Bethlehem khua-ah teng-te hi. (Hih pen tuanthu lui pekpek thu ahi hi.)
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v23
 **EN:** These were the potters, and those that dwelt among plants and hedges: there they dwelt with the king for his work.
 
-**TDB77:** Hihte in beelseekte hi a, Netaim khua leh Gederah khua ah a teengte ahi uh hi; ama na a sem dingin kumpipa tawh tua khuate ah teeng khawm uh hi.
+**TDB77:** Hihte in beelseekte hi a, Netaim khua leh Gederah khua ah a teengte ahi-te hi; ama na a sem dingin kumpipa tawh tua khuate ah teeng khawm-te hi.
 
-**ZVS:** Hihte pen beelsekte hi a, Netaim khua leh Gederah khua-ah a tengte ahi uh hi. Ama na a sem dingin kumpipa tawh tua khuate-ah tengkhawm uh hi.
+**ZVS:** Hihte pen beelsekte hi a, Netaim khua leh Gederah khua-ah a tengte ahi-te hi. Ama na a sem dingin kumpipa tawh tua khuate-ah tengkhawm-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v24
 **EN:** The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
 
-**TDB77:** Simeon’ tapate in: Nemuel, Jamin, Jarib, Zerah, leh Shawl ahi uh hi;
+**TDB77:** Simeon’ tapate in: Nemuel, Jamin, Jarib, Zerah, leh Shawl ahi-te hi;
 
-**ZVS:** Simeon' tapate: Nemuel, Jamin, Jarib, Zerah, leh Shaul ahi uh hi.
+**ZVS:** Simeon' tapate: Nemuel, Jamin, Jarib, Zerah, leh Shaul ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v25
 **EN:** Shallum his son, Mibsam his son, Mishma his son.
 
-**TDB77:** Shawl tapa Shallum, a tapa Mibsam, a tapa Mishma ahi uh hi.
+**TDB77:** Shawl tapa Shallum, a tapa Mibsam, a tapa Mishma ahi-te hi.
 
-**ZVS:** Shaul' tapa Shallum, a tapa Mibsam, a tapa Mishma ahi uh hi.
+**ZVS:** Shaul' tapa Shallum, a tapa Mibsam, a tapa Mishma ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v26
 **EN:** And the sons of Mishma; Hamuel his son, Zacchur his son, Shimei his son.
 
-**TDB77:** Mishma’ suante in A tapa Hammuel, a tapa Zakkur, a tapa Shimei ahi uh hi.
+**TDB77:** Mishma’ suante in A tapa Hammuel, a tapa Zakkur, a tapa Shimei ahi-te hi.
 
-**ZVS:** Mishma' suante: A tapa Hammuel, a tapa Zakkur, a tapa Shimei ahi uh hi.
+**ZVS:** Mishma' suante: A tapa Hammuel, a tapa Zakkur, a tapa Shimei ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v27
 **EN:** And Shimei had sixteen sons and six daughters; but his brethren had not many children, neither did all their family multiply, like to the children of Judah.
 
-**TDB77:** Shimei in tapa sawm-le-guk leh tanu guk nei hi; ahih hangin a sanggamte in ta tampi nei lo uh a, Judah minamte a pun’ bangin Simeon minamte pung lo uh hi.
+**TDB77:** Shimei in tapa sawm-le-guk leh tanu guk nei hi; ahih hangin a sanggamte in ta tampi nei lo-te a, Judah minamte a pun’ bangin Simeon minamte pung lo-te hi.
 
-**ZVS:** Shimei in tapa sawmleguk leh tanu guk nei hi. Ahih hangin a sanggamte in ta tampi neilo uh a, Judah minamte a pun' bangin Simeon minamte punglo uh hi.
+**ZVS:** Shimei in tapa sawmleguk leh tanu guk nei hi. Ahih hangin a sanggamte in ta tampi neilo-te a, Judah minamte a pun' bangin Simeon minamte punglo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -256,9 +256,9 @@
 ### v31
 **EN:** And at Beth–marcaboth, and Hazar–susim, and at Beth–biri, and at Shaaraim. These were their cities unto the reign of David.
 
-**TDB77:** Bethmarkaboth, Hazarsusim, Bethbiri, leh Sha-ariam-ah teeng uh hi. Hihte in David’ uk hun mateng amaute’ khuapite ahi hi.
+**TDB77:** Bethmarkaboth, Hazarsusim, Bethbiri, leh Sha-ariam-ah teeng-te hi. Hihte in David’ uk hun mateng amaute’ khuapite ahi hi.
 
-**ZVS:** Beth Markaboth, Hazarsusim, Bethbiri, leh Shaaraim-ah teng uh hi. Hihte pen David' uk hun mateng amaute' khuapite ahi hi.
+**ZVS:** Beth Markaboth, Hazarsusim, Bethbiri, leh Shaaraim-ah teng-te hi. Hihte pen David' uk hun mateng amaute' khuapite ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -274,9 +274,9 @@
 ### v33
 **EN:** And all their villages that were round about the same cities, unto Baal. These were their habitations, and their genealogy.
 
-**TDB77:** Baal ciang dong hih khuapite kiim-a om a khuaneute khempeuh tawh ahi hi. Hihte in amau’ ten’na hi a, amaute in khangsimna ciamtehna nei uh hi.
+**TDB77:** Baal ciang dong hih khuapite kiim-a om a khuaneute khempeuh tawh ahi hi. Hihte in amau’ ten’na hi a, amaute in khangsimna ciamtehna nei-te hi.
 
-**ZVS:** Baal ciangdong hih khuapite kiima om a khuaneute khempeuh tawh ahi hi. Hihte pen amau' ten'na hi a, amaute in khangsimna ciamtehna nei uh hi.
+**ZVS:** Baal ciangdong hih khuapite kiima om a khuaneute khempeuh tawh ahi hi. Hihte pen amau' ten'na hi a, amaute in khangsimna ciamtehna nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -306,59 +306,59 @@
 
 **TDB77:** Shemaiah’ tapa Shimri, a tapa Jedaiah, a tapa Allon, a tapa Shifi’ tapa Ziza—
 
-**ZVS:** Shemaiah' tapa Shimri, a tapa Jedaiah, a tapa Allon, a tapa Shifi' tapa Ziza hi uh a,
+**ZVS:** Shemaiah' tapa Shimri, a tapa Jedaiah, a tapa Allon, a tapa Shifi' tapa Ziza hi-te a,
 
 ### v38
 **EN:** These mentioned by their names were princes in their families: and the house of their fathers increased greatly.
 
-**TDB77:** a min-a a kilo hih mite in amau’ beh ciatah uliante hi uh a, amau’ beh ciat nakpi takin khang hi.
+**TDB77:** a min-a a kilo hih mite in amau’ beh ciatah uliante hi-te a, amau’ beh ciat nakpi takin khang hi.
 
-**ZVS:** a minin a kilo hih mite pen amau' beh ciatah ulian hi uh a, amau' beh ciat nakpi takin a khang hi.
+**ZVS:** a minin a kilo hih mite pen amau' beh ciatah ulian hi-te a, amau' beh ciat nakpi takin a khang hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v39
 **EN:** And they went to the entrance of Gedor, even unto the east side of the valley, to seek pasture for their flocks.
 
-**TDB77:** A tuuhonte uh adingin lonona zong dingin kuam nisuahna lam pang, Gedor lutna lamah khual zin uh a,
+**TDB77:** A tuuhonte-te adingin lonona zong dingin kuam nisuahna lam pang, Gedor lutna lamah khual zin-te a,
 
-**ZVS:** A tuuhonte uh-a' dingin lonona a zong dingin kuam nisuahna lampang, Gedor lutna lamah khualzin uh a,
+**ZVS:** A tuuhonte uh-a' dingin lonona a zong dingin kuam nisuahna lampang, Gedor lutna lamah khualzin-te a,
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v40
 **EN:** And they found fat pasture and good, and the land was wide, and quiet, and peaceable; for they of Ham had dwelt there of old.
 
-**TDB77:** leihoih, lonona, leh gam zai-in, gamdai-in, a nopna mun mu uh hi; bang hang hiam cih leh tua lai-ah a teeng masate in Ham mite ahi uh hi.
+**TDB77:** leihoih, lonona, leh gam zai-in, gamdai-in, a nopna mun mu-te hi; bang hang hiam cih leh tua lai-ah a teeng masate in Ham mite ahi-te hi.
 
-**ZVS:** lei hoih, lonona, leh gam zai-in, gam dai-in, a nopna mun mu uh hi; bang hang hiam cih leh tua lai-ah a teng masate pen Ham mite ahi uh hi.
+**ZVS:** lei hoih, lonona, leh gam zai-in, gam dai-in, a nopna mun mu-te hi; bang hang hiam cih leh tua lai-ah a teng masate pen Ham mite ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v41
 **EN:** And these written by name came in the days of Hezekiah king of Judah, and smote their tents, and the habitations that were found there, and destroyed them utterly unto this day, and dwelt in their rooms: because there was pasture there for their flocks.
 
-**TDB77:** A min-in a kiciamteh hih mite, Judah kumpipa Hezekiah’ hun sungin hong pai-a, amau’ puanbukte leh tua lai-ah a om Meunim mite susia-in tu ni dongin amaute beisak uh a, amau’ tuuhonte’ adingin tua lai-ah lonona om ahih manin amau’ munah amaute teeng uh hi.
+**TDB77:** A min-in a kiciamteh hih mite, Judah kumpipa Hezekiah’ hun sungin hong pai-a, amau’ puanbukte leh tua lai-ah a om Meunim mite susia-in tu ni dongin amaute beisak-te a, amau’ tuuhonte’ adingin tua lai-ah lonona om ahih manin amau’ munah amaute teeng-te hi.
 
-**ZVS:** A minin a kiciamteh hih mite, Judah kumpi Hezekiah' hun sungin hong pai uh a, tua lai-ah a om Meunim mite leh amau' puanbukte susia-in tuni dongin amaute beisak uh a, amau' tuuhonte-a' dingin tua lai-ah lonona om ahih manin amau' munah amaute a teng uh hi.
+**ZVS:** A minin a kiciamteh hih mite, Judah kumpi Hezekiah' hun sungin hong pai-te a, tua lai-ah a om Meunim mite leh amau' puanbukte susia-in tuni dongin amaute beisak-te a, amau' tuuhonte-a' dingin tua lai-ah lonona om ahih manin amau' munah amaute a teng-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v42
 **EN:** And some of them, even of the sons of Simeon, five hundred men, went to mount Seir, having for their captains Pelatiah, and Neariah, and Rephaiah, and Uzziel, the sons of Ishi.
 
-**TDB77:** Tua ciangin amaute pawl khat, Simeon mi zanga, Seir Mual-ah pai uh a, amaute in Ishi’ tapate Pelatiah, Neariah, Refaiah, leh Uzziel makai-in nei uh hi;
+**TDB77:** Tua ciangin amaute pawl khat, Simeon mi zanga, Seir Mual-ah pai-te a, amaute in Ishi’ tapate Pelatiah, Neariah, Refaiah, leh Uzziel makai-in nei-te hi;
 
-**ZVS:** Tua ciangin amaute pawlkhat, Simeon mi za nga, Seir Mual-ah pai uh a, amaute in Ishi' tapate Pelatiah, Neariah, Refaiah, leh Uzziel makai-in a nei uh hi.
+**ZVS:** Tua ciangin amaute pawlkhat, Simeon mi za nga, Seir Mual-ah pai-te a, amaute in Ishi' tapate Pelatiah, Neariah, Refaiah, leh Uzziel makai-in a nei-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v43
 **EN:** And they smote the rest of the Amalekites that were escaped, and dwelt there unto this day.
 
-**TDB77:** amaute in Amalek mi a suakta a om laite susia uh a, tu ni dongin tua munah amaute teeng uh hi.
+**TDB77:** amaute in Amalek mi a suakta a om laite susia-te a, tu ni dongin tua munah amaute teeng-te hi.
 
-**ZVS:** Amaute in Amalek mi a suakta a omlaite susia uh a, tuni dongin tua munah amaute teng uh hi.
+**ZVS:** Amaute in Amalek mi a suakta a omlaite susia-te a, tuni dongin tua munah amaute teng-te hi.
 
 **Grammar:** plural: uh marker
 

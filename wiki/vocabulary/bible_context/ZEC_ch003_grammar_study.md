@@ -60,9 +60,9 @@
 ### v5
 **EN:** And I said, Let them set a fair mitre upon his head. So they set a fair mitre upon his head, and clothed him with garments. And the angel of the
 
-**TDB77:** Tua ciangin a sawltak vanmite thu pia a, Joshua’ lu tungah dial siangtho a khipsak ding uh sawl hi. Topa’ vantungmi tua munah a din’ sung mahin, amaute in zong Joshua, dial siangtho khimsakin, tua khit ciangin puan siangtho zong silhsak uh hi.
+**TDB77:** Tua ciangin a sawltak vanmite thu pia a, Joshua’ lu tungah dial siangtho a khipsak ding-te sawl hi. Topa’ vantungmi tua munah a din’ sung mahin, amaute in zong Joshua, dial siangtho khimsakin, tua khit ciangin puan siangtho zong silhsak-te hi.
 
-**ZVS:** Tua ciangin a sawltak van mite thu pia a, Joshua' lu tungah dial siangtho a khipsak ding uh a sawl hi. { Topa' } vantung mi tua munah a din' sung mahin, amaute in zong Joshua, dial siangtho khimsakin, tua khit ciangin puan siangtho zong a silhsak uh hi.
+**ZVS:** Tua ciangin a sawltak van mite thu pia a, Joshua' lu tungah dial siangtho a khipsak ding-te a sawl hi. { Topa' } vantung mi tua munah a din' sung mahin, amaute in zong Joshua, dial siangtho khimsakin, tua khit ciangin puan siangtho zong a silhsak-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** Hear now, O Joshua the high priest, thou, and thy fellows that sit before thee: for they are men wondered at: for, behold, I will bring forth my servant the BRANCH.
 
-**TDB77:** Tua ahih ciangin siampi lian Joshua aw, ngai in; ama siampi pih ahi no adangte in zong ngai un. Note in mai lam thu hoih nadingin lim na hi uh hi. Sing bangin A Sel ka nasempa khat kong paisak ding hi.
+**TDB77:** Tua ahih ciangin siampi lian Joshua aw, ngai in; ama siampi pih ahi no adangte in zong ngai un. Note in mai lam thu hoih nadingin lim na hi-te hi. Sing bangin A Sel ka nasempa khat kong paisak ding hi.
 
-**ZVS:** Tua ahih ciangin siampi lianpenpa Joshua aw ngai in: Ama siampipih ahi no a dangte in zong ngai un. Note pen mailam thuhoihna ding lim na hi uh hi. Sing bangin A Sel a kici min nei khat kong paisak ding hi.
+**ZVS:** Tua ahih ciangin siampi lianpenpa Joshua aw ngai in: Ama siampipih ahi no a dangte in zong ngai un. Note pen mailam thuhoihna ding lim na hi-te hi. Sing bangin A Sel a kici min nei khat kong paisak ding hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
@@ -105,9 +105,9 @@
 ### v10
 **EN:** In that day, saith the
 
-**TDB77:** Tua ni ciangin note khempeuh in leenggui leh theikungte hau-in nuam na sa ding uh a, na veengte ciat un hong nekpihin hong lungdampih nadingun na sam ding uh hi, Vanglianpen Topa in ci hi,” a ci hi.
+**TDB77:** Tua ni ciangin note khempeuh in leenggui leh theikungte hau-in nuam na sa ding-te a, na veengte ciat un hong nekpihin hong lungdampih nadingun na sam ding-te hi, Vanglianpen Topa in ci hi,” a ci hi.
 
-**ZVS:** Tua ni ciangin note khempeuh in leenggui leh theikungte hau-in nuam na sa ding uh a, na vengte ciat un hong nekpihin hong lungdampihna dingun na sam ding uh hi, Vanglian { Topa } in ci hi,” a ci hi.
+**ZVS:** Tua ni ciangin note khempeuh in leenggui leh theikungte hau-in nuam na sa ding-te a, na vengte ciat un hong nekpihin hong lungdampihna dingun na sam ding-te hi, Vanglian { Topa } in ci hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 

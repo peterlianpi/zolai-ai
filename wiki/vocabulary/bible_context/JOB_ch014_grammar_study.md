@@ -38,9 +38,9 @@
 ### v2
 **EN:** He cometh forth like a flower, and is cut down: he fleeth also as a shadow, and continueth not.
 
-**TDB77:** Amaute pakpalh bangin khangin keu pak uh a, niliim bangin pai hanhanin mangthang uh hi.
+**TDB77:** Amaute pakpalh bangin khangin keu pak-te a, niliim bangin pai hanhanin mangthang-te hi.
 
-**ZVS:** Amaute paak bangin khangin keu pak uh a, niliim bangin pai hanhanin, mangthang uh hi.
+**ZVS:** Amaute paak bangin khangin keu pak-te a, niliim bangin pai hanhanin, mangthang-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -124,9 +124,9 @@
 ### v12
 **EN:** So man lieth down, and riseth not: till the heavens be no more, they shall not awake, nor be raised out of their sleep.
 
-**TDB77:** Ahi zongin vanpi a om lai tengin, misite tho kik ngei lo ding a, a ihmutna panun khanglo ngei lo, tang ngei lo ding uh hi.
+**TDB77:** Ahi zongin vanpi a om lai tengin, misite tho kik ngei lo ding a, a ihmutna panun khanglo ngei lo, tang ngei lo ding-te hi.
 
-**ZVS:** Ahi zongin vanpi a omlaiteng, misite thokik ngeilo ding a, a ihmutna panun khanglo ngeilo, gamtang ngeilo ding uh hi.
+**ZVS:** Ahi zongin vanpi a omlaiteng, misite thokik ngeilo ding a, a ihmutna panun khanglo ngeilo, gamtang ngeilo ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

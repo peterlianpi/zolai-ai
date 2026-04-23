@@ -19,7 +19,7 @@
 ### v1
 **EN:** O clap your hands, all ye people; shout unto God with the voice of triumph.
 
-**TDB77:** Mi khempeuh aw, na khut uh beeng un! Lungdamna la nakpi-in sa-in Pasian phat un.
+**TDB77:** Mi khempeuh aw, na khut-te beeng un! Lungdamna la nakpi-in sa-in Pasian phat un.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -73,9 +73,9 @@
 ### v9
 **EN:** The princes of the people are gathered together, even the people of the God of Abraham: for the shields of the earth belong unto God: he is greatly exalted.
 
-**TDB77:** Uliante in Abraham’ Pasian’ mite tawh kikhawm uh hi. Bang hang hiam cih leh leitung’ lumte in Pasian aa ahi hi; amah sangpi-in kithangsak hi!
+**TDB77:** Uliante in Abraham’ Pasian’ mite tawh kikhawm-te hi. Bang hang hiam cih leh leitung’ lumte in Pasian aa ahi hi; amah sangpi-in kithangsak hi!
 
-**ZVS:** Uliante leh Abraham' Pasian' mite kipawl khawm uh hi. Bang hang hiam cih leh leitung mite' lumte khempeuh Pasian-a' suak khinta a, amah a sangpi-in kithangsak hi.
+**ZVS:** Uliante leh Abraham' Pasian' mite kipawl khawm-te hi. Bang hang hiam cih leh leitung mite' lumte khempeuh Pasian-a' suak khinta a, amah a sangpi-in kithangsak hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

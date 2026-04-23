@@ -76,9 +76,9 @@
 ### v7
 **EN:** Then came in the magicians, the astrologers, the Chaldeans, and the soothsayers: and I told the dream before them; but they did not make known unto me the interpretation thereof.
 
-**TDB77:** Tua ciangin aisan theite, mitphial siamte, khongkhaitheite, aksi et siamte khempeuh hong pai uh a, amaute kiangah ka mang ka gen hi. Ahih hangin a khiatna a hong gen thei kei uh hi.
+**TDB77:** Tua ciangin aisan theite, mitphial siamte, khongkhaitheite, aksi et siamte khempeuh hong pai-te a, amaute kiangah ka mang ka gen hi. Ahih hangin a khiatna a hong gen thei kei-te hi.
 
-**ZVS:** Tua ciangin aisan theite, mitphial siamte, khongkhai theite, aksi et siamte khempeuh hong pai uh a, amaute kiangah ka mang ka gen hi. Ahih hangin a khiatna a hong gen thei kei uh hi.
+**ZVS:** Tua ciangin aisan theite, mitphial siamte, khongkhai theite, aksi et siamte khempeuh hong pai-te a, amaute kiangah ka mang ka gen hi. Ahih hangin a khiatna a hong gen thei kei-te hi.
 
 **Grammar:** sequence: then/therefore | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -112,18 +112,18 @@
 ### v11
 **EN:** The tree grew, and was strong, and the height thereof reached unto heaven, and the sight thereof to the end of all the earth:
 
-**TDB77:** Tua singkung pen khangkhangin gol semsema, vantung dong banto ahih ciangin leitung mi khempeuh in a mu thei uh hi.
+**TDB77:** Tua singkung pen khangkhangin gol semsema, vantung dong banto ahih ciangin leitung mi khempeuh in a mu thei-te hi.
 
-**ZVS:** Tua singkung pen khangkhangin gol semsem a, vantung dong banto ahih ciangin leitung mi khempeuh in a mu thei uh hi.
+**ZVS:** Tua singkung pen khangkhangin gol semsem a, vantung dong banto ahih ciangin leitung mi khempeuh in a mu thei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** The leaves thereof were fair, and the fruit thereof much, and in it was meat for all: the beasts of the field had shadow under it, and the fowls of the heaven dwelt in the boughs thereof, and all flesh was fed of it.
 
-**TDB77:** A tehte hoih mahmah a, leitung bup kham khop ding zahin gah a gah hi. Gamsate in a liim bel uh a, vasate in a hiangah bu bawl uh a, a nungta thei khempeuh in a gah a ne uh hi.
+**TDB77:** A tehte hoih mahmah a, leitung bup kham khop ding zahin gah a gah hi. Gamsate in a liim bel-te a, vasate in a hiangah bu bawl-te a, a nungta thei khempeuh in a gah a ne-te hi.
 
-**ZVS:** A tehte hoih mahmah a, leitung bup khamkhop ding gah a gah hi. Gamsate in a liim beel uh a, vasate in a hiang kawmah bu bawl uh a, a nungta thei khempeuh in a gah a ne uh hi.
+**ZVS:** A tehte hoih mahmah a, leitung bup khamkhop ding gah a gah hi. Gamsate in a liim beel-te a, vasate in a hiang kawmah bu bawl-te a, a nungta thei khempeuh in a gah a ne-te hi.
 
 **Grammar:** adjective: hoih (good) | intensifier: very/greatly | plural: uh marker
 
@@ -162,18 +162,18 @@
 ### v17
 **EN:** This matter is by the decree of the watchers, and the demand by the word of the holy ones: to the intent that the living may know that the most High ruleth in the kingdom of men, and giveth it to whomsoever he will, and setteth up over it the basest of men.
 
-**TDB77:** Hih in a vil tawntung vantungmi’ thukhenna ahi hi. Tua ahih ciangin mun khempeuh ah a om mi khempeuhte in, Sangpen Pasian in mite’ kumpi gamah vai a hawm hi cih a thei ding uh hi. Amah in a teel peuhpeuh a neupente nangawn kumpi a suaksak thei hi.
+**TDB77:** Hih in a vil tawntung vantungmi’ thukhenna ahi hi. Tua ahih ciangin mun khempeuh ah a om mi khempeuhte in, Sangpen Pasian in mite’ kumpi gamah vai a hawm hi cih a thei ding-te hi. Amah in a teel peuhpeuh a neupente nangawn kumpi a suaksak thei hi.
 
-**ZVS:** Hih pen a vil, a patau vantung mi' thukhenna ahi hi. Tua ahih ciangin mun khempeuhah a om mi khempeuhte in, a Lian Pasian in mite' kumpi gamah vai a hawm hi, cih a thei ding uh hi. Amah in a teel peuhpeuh a neupente nangawn kumpi a suaksak thei ding hi,’ a ci hi.
+**ZVS:** Hih pen a vil, a patau vantung mi' thukhenna ahi hi. Tua ahih ciangin mun khempeuhah a om mi khempeuhte in, a Lian Pasian in mite' kumpi gamah vai a hawm hi, cih a thei ding-te hi. Amah in a teel peuhpeuh a neupente nangawn kumpi a suaksak thei ding hi,’ a ci hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v18
 **EN:** This dream I king Nebuchadnezzar have seen. Now thou, O Belteshazzar, declare the interpretation thereof, forasmuch as all the wise men of my kingdom are not able to make known unto me the interpretation: but thou art able; for the spirit of the holy gods is in thee.
 
-**TDB77:** Keimah Nebukhadnezzar Kumpipa in, Belteshazzar aw, ka mangmat pen hi bang ahi hi. Tu’n a khiatna hong gen in. Ka thudot mite khat beek a khiatna a hong gen thei a om kei uh hi. Ahi zongin nang sungah a siangtho pasiante’ kha om ahih manin na hong gen thei ding hi,’ ka ci hi,” a ci hi.
+**TDB77:** Keimah Nebukhadnezzar Kumpipa in, Belteshazzar aw, ka mangmat pen hi bang ahi hi. Tu’n a khiatna hong gen in. Ka thudot mite khat beek a khiatna a hong gen thei a om kei-te hi. Ahi zongin nang sungah a siangtho pasiante’ kha om ahih manin na hong gen thei ding hi,’ ka ci hi,” a ci hi.
 
-**ZVS:** “Beltashazzar aw, keimah Nebukhadnezzar Kumpipa in ka mangmat pen hih bang ahi hi. Tu-in a khiatna hong gen in. Ka thudot mite khat beek a khiatna a hong gen thei a om kei uh hi. Ahi zongin nang' sungah Pasian' kha om ahih manin na hong gen thei ding hi,” a ci hi.
+**ZVS:** “Beltashazzar aw, keimah Nebukhadnezzar Kumpipa in ka mangmat pen hih bang ahi hi. Tu-in a khiatna hong gen in. Ka thudot mite khat beek a khiatna a hong gen thei a om kei-te hi. Ahi zongin nang' sungah Pasian' kha om ahih manin na hong gen thei ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | causal: because | plural: uh marker
 
@@ -189,18 +189,18 @@
 ### v20
 **EN:** The tree that thou sawest, which grew, and was strong, whose height reached unto the heaven, and the sight thereof to all the earth;
 
-**TDB77:** Singkung sang mahmah na muh pen hong khangkhangin khauh mahmah a, vantung dong banto-a leitunga teeng mi khempeuh in a mu thei uh hi.
+**TDB77:** Singkung sang mahmah na muh pen hong khangkhangin khauh mahmah a, vantung dong banto-a leitunga teeng mi khempeuh in a mu thei-te hi.
 
-**ZVS:** Singkung sang mahmah na muh pen hong khangkhang a, khauh mahmah a, vantung dong banto a, leitungah a teng mi khempeuh in a mu thei uh hi.
+**ZVS:** Singkung sang mahmah na muh pen hong khangkhang a, khauh mahmah a, vantung dong banto a, leitungah a teng mi khempeuh in a mu thei-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v21
 **EN:** Whose leaves were fair, and the fruit thereof much, and in it was meat for all; under which the beasts of the field dwelt, and upon whose branches the fowls of the heaven had their habitation:
 
-**TDB77:** A tehte hoih mahmah a, leitung bup a vak zo ding gah a gah hi. Gamsate in anuai-ah tawlnga uh a, vasate in a hiangah bu a bawl uh hi.
+**TDB77:** A tehte hoih mahmah a, leitung bup a vak zo ding gah a gah hi. Gamsate in anuai-ah tawlnga-te a, vasate in a hiangah bu a bawl-te hi.
 
-**ZVS:** A tehte hoih mahmah a, leitung bup a vakzo ding gah a gah hi. Gamsate, a nuai-ah tawlnga uh a, vasate in a hiang kawmah bu a bawl uh hi.
+**ZVS:** A tehte hoih mahmah a, leitung bup a vakzo ding gah a gah hi. Gamsate, a nuai-ah tawlnga-te a, vasate in a hiang kawmah bu a bawl-te hi.
 
 **Grammar:** adjective: hoih (good) | intensifier: very/greatly | plural: uh marker
 
@@ -327,9 +327,9 @@
 ### v36
 **EN:** At the same time my reason returned unto me; and for the glory of my kingdom, mine honour and brightness returned unto me; and my counsellors and my lords sought unto me; and I was established in my kingdom, and excellent majesty was added unto me.
 
-**TDB77:** Ka khua theihna a hong tun’ kik ciangin ka kumpi-za ka minthan’na leh, ka gam minthan’nate a hong kipia kik hi. Ka u liante leh ka thudot mite in hong muak uh a, nidang sanga lianzaw minthan’na leh ka kumpi za a hong kipia kik hi.
+**TDB77:** Ka khua theihna a hong tun’ kik ciangin ka kumpi-za ka minthan’na leh, ka gam minthan’nate a hong kipia kik hi. Ka u liante leh ka thudot mite in hong muak-te a, nidang sanga lianzaw minthan’na leh ka kumpi za a hong kipia kik hi.
 
-**ZVS:** “Ka khuatheihna a hong tun'kik ciangin ka kumpi za, ka minthan'na, leh ka gam minthan'nate a hong kipia kik hi. Ka miliante leh ka thudot mite in hong muak uh a, nidang sangin a lianzaw minthan'na leh ka kumpi za a hong kipia kik hi.
+**ZVS:** “Ka khuatheihna a hong tun'kik ciangin ka kumpi za, ka minthan'na, leh ka gam minthan'nate a hong kipia kik hi. Ka miliante leh ka thudot mite in hong muak-te a, nidang sangin a lianzaw minthan'na leh ka kumpi za a hong kipia kik hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

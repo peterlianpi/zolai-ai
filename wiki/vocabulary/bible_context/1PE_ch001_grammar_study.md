@@ -58,62 +58,62 @@
 
 **TDB77:** Tua luahna in a nunung bel hun ciangin hong kilat nadingin a kibawlkholsa-a om gupkhiatna i ngah nadingin i upmanin Pasian’ vangliatna in hong kipsak note ading, vantungah kikhol-a a om luahna ahi hi.
 
-**ZVS:** Note' upna hangin nitawp ni ciangin na ngahding uh hotkhiatna nomau-a' ahihna a kilatsakna dingin Pasian in ama vangliatna tawh a hong kepsak ahi hi.
+**ZVS:** Note' upna hangin nitawp ni ciangin na ngahding-te hotkhiatna nomau-a' ahihna a kilatsakna dingin Pasian in ama vangliatna tawh a hong kepsak ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v6
 **EN:** Wherein ye greatly rejoice, though now for a season, if need be, ye are in heaviness through manifold temptations:
 
-**TDB77:** Tua ahih manin tu laitakin mite' bawlsiatna a tuamtuam na thuak manun tawlkhat na lungkham uh ahi zongin hihbang thuakna hangin lungdamzaw un.
+**TDB77:** Tua ahih manin tu laitakin mite' bawlsiatna a tuamtuam na thuak manun tawlkhat na lungkham-te ahi zongin hihbang thuakna hangin lungdamzaw un.
 
 **Grammar:** causal: because
 
 ### v7
 **EN:** That the trial of your faith, being much more precious than of gold that perisheth, though it be tried with fire, might be found unto praise and honour and glory at the appearing of Jesus Christ:
 
-**TDB77:** Hihbang thuaknate in a um takpi mah na hihna uh hong kilangsak hi. A siathei khamte nangawn, a hoih taktak mah ahi hiam, ci-in mite in mei tawh sin uh ahih manin, kham sangin a manphazaw note' upna zong a kiptak mah ahi hiam, ci-in Pasian in hong sin ding mah ahi hi. Tua bangin na thuakzawh uh leh Khrih hong kilat Ni ciangin phatna, minthan'na, leh pahtawina na ngah ding uh hi.
+**TDB77:** Hihbang thuaknate in a um takpi mah na hihna-te hong kilangsak hi. A siathei khamte nangawn, a hoih taktak mah ahi hiam, ci-in mite in mei tawh sin-te ahih manin, kham sangin a manphazaw note' upna zong a kiptak mah ahi hiam, ci-in Pasian in hong sin ding mah ahi hi. Tua bangin na thuakzawh-te leh Khrih hong kilat Ni ciangin phatna, minthan'na, leh pahtawina na ngah ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Whom having not seen, ye love; in whom, though now ye see him not, yet believing, ye rejoice with joy unspeakable and full of glory:
 
-**TDB77:** Amah mu ngeilo napi-in na it uh a, amah mu ngeilo napi-in a thu umin kama genzawhloh zah dongin nakpi takin na lungdam uh hi.
+**TDB77:** Amah mu ngeilo napi-in na it-te a, amah mu ngeilo napi-in a thu umin kama genzawhloh zah dongin nakpi takin na lungdam-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v9
 **EN:** Receiving the end of your faith, even the salvation of your souls.
 
-**TDB77:** Tua bangin na upna uh hangin kha thu-ah hotkhiatna a ngah na hi uh hi.
+**TDB77:** Tua bangin na upna-te hangin kha thu-ah hotkhiatna a ngah na hi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v10
 **EN:** Of which salvation the prophets have enquired and searched diligently, who prophesied of the grace that should come unto you:
 
-**TDB77:** Tua gupkhiatna thu kamsangte in a tel takin dongin, zongin, note tungah a hong piak ding thupha hehpihna a hilhkhol uh a,
+**TDB77:** Tua gupkhiatna thu kamsangte in a tel takin dongin, zongin, note tungah a hong piak ding thupha hehpihna a hilhkhol-te a,
 
-**ZVS:** Kamsangte in hih hotkhiatna thu mah kanin ngaihsut belin nei uh a, Pasian in note tungah a hong piakding thupha mah, kamsangte in gen belin a neih uh ahi hi.
+**ZVS:** Kamsangte in hih hotkhiatna thu mah kanin ngaihsut belin nei-te a, Pasian in note tungah a hong piakding thupha mah, kamsangte in gen belin a neih-te ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** Searching what, or what manner of time the Spirit of Christ which was in them did signify, when it testified beforehand the sufferings of Christ, and the glory that should follow.
 
-**TDB77:** Khazih’ thuak gimnate ahi zongin, tua gimna a thuak khit ciangin a kilang ding minthan’na ahi zongin, amaute sungah a om Khazih’ Kha Siangtho in teci a pan’ kholh ciangin a bang ci, a bang hun a cihnopna ci-in a zong uh hi.
+**TDB77:** Khazih’ thuak gimnate ahi zongin, tua gimna a thuak khit ciangin a kilang ding minthan’na ahi zongin, amaute sungah a om Khazih’ Kha Siangtho in teci a pan’ kholh ciangin a bang ci, a bang hun a cihnopna ci-in a zong-te hi.
 
-**ZVS:** Khrih in gimna thuakin, tua khit ciangin minthan'na a ngahna ding thu Kha Siangtho in a gen ciangin, amaute sungah a om tua Khrih' Kha Siangtho in kua a cihna hi a, bang hun ciang hi ding hiam, ci-in a kankan uh pen tuhun thu a gen ahi hi.
+**ZVS:** Khrih in gimna thuakin, tua khit ciangin minthan'na a ngahna ding thu Kha Siangtho in a gen ciangin, amaute sungah a om tua Khrih' Kha Siangtho in kua a cihna hi a, bang hun ciang hi ding hiam, ci-in a kankan-te pen tuhun thu a gen ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Unto whom it was revealed, that not unto themselves, but unto us they did minister the things, which are now reported unto you by them that have preached the gospel unto you with the Holy Ghost sent down from heaven; which things the angels desire to look into.
 
-**TDB77:** Amaute’ thuhilh nasepnate in amaute ading hi lo, note ading ahi ci-in amaute kiangah a kilang hi. Vantung pan hong sawl Kha Siangtho tawh note kiangah Lungdamna Thu hong hilh mite in tua nate note kiangah tu-in hong hilh uh hi. Tua nate vantungmite in zong a en nuam uh hi.
+**TDB77:** Amaute’ thuhilh nasepnate in amaute ading hi lo, note ading ahi ci-in amaute kiangah a kilang hi. Vantung pan hong sawl Kha Siangtho tawh note kiangah Lungdamna Thu hong hilh mite in tua nate note kiangah tu-in hong hilh-te hi. Tua nate vantungmite in zong a en nuam-te hi.
 
-**ZVS:** Vantung panin a hong kisawl Kha Siangtho' vangliatna tawh thu a gen thupuakte' tung panin na zak uh Thute mah kamsangte in a gen laitakun, tua a thugente uh amaute-a' ding hiloin note-a' ding ahihna thu, Pasian in tua kamsangte tungah a na genzo hi. Vantung mite nangawn in hih thute a theihtelnop khat uh ahi hi.
+**ZVS:** Vantung panin a hong kisawl Kha Siangtho' vangliatna tawh thu a gen thupuakte' tung panin na zak-te Thute mah kamsangte in a gen laitakun, tua a thugente-te amaute-a' ding hiloin note-a' ding ahihna thu, Pasian in tua kamsangte tungah a na genzo hi. Vantung mite nangawn in hih thute a theihtelnop khat-te ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -122,7 +122,7 @@
 
 **TDB77:** Tua ahih ciangin lungsim kawnggak gakin om un la, khuaval zulhtat loin Zeisu Khazih a kilat ciangin note kiangah hong tung ding hehpihna thupha lamen khin takpi-in om un.
 
-**ZVS:** Tua ahih manin na lungsim uh ki-ukin a kigingsa-in om un la, Jesuh Khrih hong kilat ni ciangin na ngahding uh hehpihna thupha ngaihsutin nei un.
+**ZVS:** Tua ahih manin na lungsim-te ki-ukin a kigingsa-in om un la, Jesuh Khrih hong kilat ni ciangin na ngahding-te hehpihna thupha ngaihsutin nei un.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -131,14 +131,14 @@
 
 **TDB77:** Note in siamna na neih loh lai takun deihgawhna thu tu-in zui loin, thu a mangthei naupangte bangin piang un la,
 
-**ZVS:** Pasian' thu na mang un la, na theih nailoh uh hun lai-in na gamtat ngei uh bangin na gamta nawn kei un.
+**ZVS:** Pasian' thu na mang un la, na theih nailoh-te hun lai-in na gamtat ngei-te bangin na gamta nawn kei un.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v15
 **EN:** But as he which hath called you is holy, so be ye holy in all manner of conversation;
 
-**TDB77:** a hong sampa a siangtho mah bangin na hihna khempeuh uh na siangthosak un.
+**TDB77:** a hong sampa a siangtho mah bangin na hihna khempeuh-te na siangthosak un.
 
 **ZVS:** Note a hong sampa a siangtho ahih mah bangin note zong na gamtatna khempeuh uhah na siangtho un.
 
@@ -154,18 +154,18 @@
 ### v17
 **EN:** And if ye call on the Father, who without respect of persons judgeth according to every man's work, pass the time of your sojourning here in fear:
 
-**TDB77:** Mi maitang zahtak loin, mi khempeuh ahihna bang thu a khenpa kiangah note in Pa bangin ngaihsunin thu na nget uh leh, leitungah lal-a na om lai tengun launa lungsim tawh na gamta un.
+**TDB77:** Mi maitang zahtak loin, mi khempeuh ahihna bang thu a khenpa kiangah note in Pa bangin ngaihsunin thu na nget-te leh, leitungah lal-a na om lai tengun launa lungsim tawh na gamta un.
 
-**ZVS:** Mi khempeuh amau gamtatna tawh kizui-in a kibang kimin thu a khen Pasian kiangah thu na nget uh ciangin, “Pa aw,” ci na hih manun hih leitungah na om laiteng uh amah zahtakin om un.
+**ZVS:** Mi khempeuh amau gamtatna tawh kizui-in a kibang kimin thu a khen Pasian kiangah thu na nget-te ciangin, “Pa aw,” ci na hih manun hih leitungah na om laiteng-te amah zahtakin om un.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v18
 **EN:** Forasmuch as ye know that ye were not redeemed with corruptible things, as silver and gold, from your vain conversation received by tradition from your fathers;
 
-**TDB77:** Na pute na pate’ ngeina uh ahi mawkna gamtatna pan kham leh ngun-a kipan a kisia thei sum tawh note hong tankhia ahi kei hi;
+**TDB77:** Na pute na pate’ ngeina-te ahi mawkna gamtatna pan kham leh ngun-a kipan a kisia thei sum tawh note hong tankhia ahi kei hi;
 
-**ZVS:** Na pu na pate uh nuntakzia, bangmahin a kimanglo nuntakna panin a hong suahtaksakna dingin Pasian in note' man dingin a piak pen a man a kiam thei ngun leh khamte bang hilo a,
+**ZVS:** Na pu na pate-te nuntakzia, bangmahin a kimanglo nuntakna panin a hong suahtaksakna dingin Pasian in note' man dingin a piak pen a man a kiam thei ngun leh khamte bang hilo a,
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
@@ -192,30 +192,30 @@
 
 **TDB77:** Note upna leh na lametna uh, Pasian paulamin a kip theih nadingin, Pasian in tua Topa sihna pan tho kiksakin minthan’na a pia hi.
 
-**ZVS:** Sihna panin amah hingkiksakin minthan'na a pia Pasian, ama hangin muang thei na hih uh manin, na up na muan' na lamet uh Pasian ahi hi.
+**ZVS:** Sihna panin amah hingkiksakin minthan'na a pia Pasian, ama hangin muang thei na hih-te manin, na up na muan' na lamet-te Pasian ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v22
 **EN:** Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:
 
-**TDB77:** Tu-in lungdamna thuman na zuihna hangun note kisian'suah khinin, na thu uppih mite uh lungsim tak tawh itthei khinta na hih manun na lungsim khempeuh uh tawh limtakin na ki-it un.
+**TDB77:** Tu-in lungdamna thuman na zuihna hangun note kisian'suah khinin, na thu uppih mite-te lungsim tak tawh itthei khinta na hih manun na lungsim khempeuh-te tawh limtakin na ki-it un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v23
 **EN:** Being born again, not of corruptible seed, but of incorruptible, by the word of God, which liveth and abideth for ever.
 
-**TDB77:** A sithei nulepate sung pan hiloin a sitheilo nulepate sung panin a nungta tawntung Pasian' thu tawh naungek bangin a suakkik na hi uh hi.
+**TDB77:** A sithei nulepate sung pan hiloin a sitheilo nulepate sung panin a nungta tawntung Pasian' thu tawh naungek bangin a suakkik na hi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v24
 **EN:** For all flesh is as grass, and all the glory of man as the flower of grass. The grass withereth, and the flower thereof falleth away:
 
-**TDB77:** Bang hang hiam na cih uh leh: “Mi pawl khempeuh in lopa kung tawh kibang uh hi, Amaute’ minthan’na khempeuh zong lopa pak tawh kibang hi. Lopa kung a keu thei a, a pak zong a pulh thei hi;
+**TDB77:** Bang hang hiam na cih-te leh: “Mi pawl khempeuh in lopa kung tawh kibang-te hi, Amaute’ minthan’na khempeuh zong lopa pak tawh kibang hi. Lopa kung a keu thei a, a pak zong a pulh thei hi;
 
-**ZVS:** Tua ahih manin Lai Siangtho sungah, “Mihingte, lopa tawh kibang a, a minthan'nate uh lopa pak tawh kibang hi. Lopate vulin pakte pulh a,
+**ZVS:** Tua ahih manin Lai Siangtho sungah, “Mihingte, lopa tawh kibang a, a minthan'nate-te lopa pak tawh kibang hi. Lopate vulin pakte pulh a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

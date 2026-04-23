@@ -18,9 +18,9 @@
 ### v28
 **EN:** And it came to pass, when Jesus had ended these sayings, the people were astonished at his doctrine:
 
-**TDB77:** Hih bangin Zeisu in thu khempeuh a hilh khit ciangin, mihonpite in Topa’ thuhilhna lamdang a sa uh hi.
+**TDB77:** Hih bangin Zeisu in thu khempeuh a hilh khit ciangin, mihonpite in Topa’ thuhilhna lamdang a sa-te hi.
 
-**ZVS:** Jesuh in hih a thugente a man khit ciangin, ama thugenna hangin mihonpite in lamdangsa mahmah uh hi.
+**ZVS:** Jesuh in hih a thugente a man khit ciangin, ama thugenna hangin mihonpite in lamdangsa mahmah-te hi.
 
 **Grammar:** plural: uh marker
 

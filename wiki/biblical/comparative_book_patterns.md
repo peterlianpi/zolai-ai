@@ -85,7 +85,7 @@ This document maps authoritative Zolai sentence structures from the Bible to Eng
 ## 🔴 Genre-Specific Highlights
 
 ### Law & Commands (Exodus/Leviticus)
-- **Strong Future Imperative:** `Na that ding uh hi.` (Thou shalt kill).
+- **Strong Future Imperative:** `Na that ding-te hi.` (Thou shalt kill).
 - **Prohibition:** `Nong hih ding hi lo hi.` (Thou shalt not).
 
 ### Apocalyptic Foreshadowing (Revelation)

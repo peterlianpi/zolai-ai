@@ -168,7 +168,7 @@ Inspired by Burmese-Coder-4B Stage 2. This is what we haven't done yet.
 {
   "prompt": "Translate: God is our Father",
   "chosen": "Pasian hi eite Pa a hi.",
-  "rejected": "Pathian hi eite Pa a hi."
+  "rejected": "pasian hi eite Pa a hi."
 }
 ```
 

@@ -51,9 +51,9 @@
 ### v4
 **EN:** And he had thirty sons that rode on thirty ass colts, and they had thirty cities, which are called Havoth–jair unto this day, which are in the land of Gilead.
 
-**TDB77:** Amah in la sawmthum tungah a tuang tapa sawmthum nei hi; amaute in Gilead gam sunga om tu dongin Havvothjair a kici khuapi sawmthum nei uh hi.
+**TDB77:** Amah in la sawmthum tungah a tuang tapa sawmthum nei hi; amaute in Gilead gam sunga om tu dongin Havvothjair a kici khuapi sawmthum nei-te hi.
 
-**ZVS:** Amah in la sawmthum tungah a tuang tapa sawmthum a nei hi. Amaute in Gilead gam sunga om tudongin Havvothjair a kici khuapi sawmthum nei uh hi.
+**ZVS:** Amah in la sawmthum tungah a tuang tapa sawmthum a nei hi. Amaute in Gilead gam sunga om tudongin Havvothjair a kici khuapi sawmthum nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -67,9 +67,9 @@
 ### v6
 **EN:** And the children of Israel did evil again in the sight of the
 
-**TDB77:** Tua ciangin Israel mite in Topa’ muhna-ah a sia gamta kik uh a, Siria mite pasiante, Sidon mite pasiante, Moab mite pasiante, Ammon mite pasiante, leh Filistia gam mite’ pasiante ahi Baalte leh Ashtaroth’ na sem uh hi; amaute in Topa nusia-in ama’ na sem lo uh hi.
+**TDB77:** Tua ciangin Israel mite in Topa’ muhna-ah a sia gamta kik-te a, Siria mite pasiante, Sidon mite pasiante, Moab mite pasiante, Ammon mite pasiante, leh Filistia gam mite’ pasiante ahi Baalte leh Ashtaroth’ na sem-te hi; amaute in Topa nusia-in ama’ na sem lo-te hi.
 
-**ZVS:** Tua ciangin { Topa' } muhna-ah Israel mite a sia gamta kik uh a, Syria mite' pasian-te, Sidon mite' pasian-te, Moab mite' pasian-te, Ammon mite' pasian-te, Filistia mite' pasian-te leh Baal-te, leh Ashtaroth bia uh a, amaute in { Topa } nusia-in ama na semlo uh hi.
+**ZVS:** Tua ciangin { Topa' } muhna-ah Israel mite a sia gamta kik-te a, Syria mite' pasian-te, Sidon mite' pasian-te, Moab mite' pasian-te, Ammon mite' pasian-te, Filistia mite' pasian-te leh Baal-te, leh Ashtaroth bia-te a, amaute in { Topa } nusia-in ama na semlo-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -85,27 +85,27 @@
 ### v8
 **EN:** And that year they vexed and oppressed the children of Israel: eighteen years, all the children of Israel that were on the other side Jordan in the land of the Amorites, which is in Gilead.
 
-**TDB77:** amaute in Israel mite tua kum sugawpin nengniam uh hi. Amaute in Jordan galkhat Gilead gam sunga om Amor mite’ leitangah a om Israel mite khempeuh kum sawm leh kum giat sung nengniam uh hi.
+**TDB77:** amaute in Israel mite tua kum sugawpin nengniam-te hi. Amaute in Jordan galkhat Gilead gam sunga om Amor mite’ leitangah a om Israel mite khempeuh kum sawm leh kum giat sung nengniam-te hi.
 
-**ZVS:** amaute in Israel mite tua kum sugawpin nengniam uh hi. Amaute in Jordan galkhat Gilead gamsunga om Amor mite' leitangah a om Israel mite khempeuh kum sawm leh kum giat sung nengniam uh hi.
+**ZVS:** amaute in Israel mite tua kum sugawpin nengniam-te hi. Amaute in Jordan galkhat Gilead gamsunga om Amor mite' leitangah a om Israel mite khempeuh kum sawm leh kum giat sung nengniam-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** Moreover the children of Ammon passed over Jordan to fight also against Judah, and against Benjamin, and against the house of Ephraim; so that Israel was sore distressed.
 
-**TDB77:** Ammon mite in Judah leh Benjamin leh Efraim minamte zong a do dingin Jordan galkah uh hi; tua ahih ciangin Israelte nakpi takin lungkham uh hi.
+**TDB77:** Ammon mite in Judah leh Benjamin leh Efraim minamte zong a do dingin Jordan galkah-te hi; tua ahih ciangin Israelte nakpi takin lungkham-te hi.
 
-**ZVS:** Judah, Benjamin, leh Efraim minamte a sim dingin Ammon mite Jordan hong galkah uh hi. Tua ahih ciangin Israel-te nakpi takin lungkham uh hi.
+**ZVS:** Judah, Benjamin, leh Efraim minamte a sim dingin Ammon mite Jordan hong galkah-te hi. Tua ahih ciangin Israel-te nakpi takin lungkham-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v10
 **EN:** And the children of Israel cried unto the
 
-**TDB77:** Tua ciangin Israel mite Topa tungah kiko uh a, “Nang tungah ka khial khin uh hi; bang hang hiam cih leh kote in ka Pasian uh nusia-in Baalte’ na ka sem uh hi,” a ci uh hi.
+**TDB77:** Tua ciangin Israel mite Topa tungah kiko-te a, “Nang tungah ka khial khin-te hi; bang hang hiam cih leh kote in ka Pasian-te nusia-in Baalte’ na ka sem-te hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin { Topa } tungah Israel-te kiko uh a, “Nang tungah kong khial khin uh hi; bang hang hiam cih leh kote in ka Pasian uh nusia-in Baal-te ka bia uh hi,” a ci uh hi.
+**ZVS:** Tua ciangin { Topa } tungah Israel-te kiko-te a, “Nang tungah kong khial khin-te hi; bang hang hiam cih leh kote in ka Pasian-te nusia-in Baal-te ka bia-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -121,18 +121,18 @@
 ### v12
 **EN:** The Zidonians also, and the Amalekites, and the Maonites, did oppress you; and ye cried to me, and I delivered you out of their hand.
 
-**TDB77:** Sidon mite, Amalek mite leh Maon mite in zong note hong nengniam uh hi; kei tungah note nong kiko uh a, keimah in amaute’ khut sung panin note kong honkhia hi.
+**TDB77:** Sidon mite, Amalek mite leh Maon mite in zong note hong nengniam-te hi; kei tungah note nong kiko-te a, keimah in amaute’ khut sung panin note kong honkhia hi.
 
-**ZVS:** Sidon mite, Amalek mite, leh Maon mite in note hong nengniam uh hi. Kei tungah note nong kiko uh a, keimah in amaute' khutsung panin note kong honkhia hi.
+**ZVS:** Sidon mite, Amalek mite, leh Maon mite in note hong nengniam-te hi. Kei tungah note nong kiko-te a, keimah in amaute' khutsung panin note kong honkhia hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Yet ye have forsaken me, and served other gods: wherefore I will deliver you no more.
 
-**TDB77:** Tua hi napi-in note in kei hong nusia-in pasian dangte’ na na sem uh hi; tua ahih ciangin note kong honkhia nawn kei ding hi.
+**TDB77:** Tua hi napi-in note in kei hong nusia-in pasian dangte’ na na sem-te hi; tua ahih ciangin note kong honkhia nawn kei ding hi.
 
-**ZVS:** Tua hinapi-in note in kei hong nusia-in pasian dangte na bia uh hi. Tua ahih ciangin note kong honkhia nawn kei ding hi.
+**ZVS:** Tua hinapi-in note in kei hong nusia-in pasian dangte na bia-te hi. Tua ahih ciangin note kong honkhia nawn kei ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
@@ -148,36 +148,36 @@
 ### v15
 **EN:** And the children of Israel said unto the
 
-**TDB77:** Israel mite in Topa tungah, “Ka khial khin uh hi; hoih na sak bangbangin ko tungah hong hih in; tu ni-in hong honkhia in, kong thuum uh hi,” a ci uh hi.
+**TDB77:** Israel mite in Topa tungah, “Ka khial khin-te hi; hoih na sak bangbangin ko tungah hong hih in; tu ni-in hong honkhia in, kong thuum-te hi,” a ci-te hi.
 
-**ZVS:** Ahi zongin Israel mite in { Topa } tungah, “Ka khial khin uh hi. Hoih na sak bangin ko tungah hong hih in. Tuni-in hong honkhia in, kong thum uh hi,” a ci uh hi.
+**ZVS:** Ahi zongin Israel mite in { Topa } tungah, “Ka khial khin-te hi. Hoih na sak bangin ko tungah hong hih in. Tuni-in hong honkhia in, kong thum-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | plural: uh marker
 
 ### v16
 **EN:** And they put away the strange gods from among them, and served the
 
-**TDB77:** Tua ahih ciangin amaute in amau’ lak panin gamdang pasiante koih khia-in Topa’ na sem uh hi; tua ciangin Israelte’ gentheihna-ah amah dah hi.
+**TDB77:** Tua ahih ciangin amaute in amau’ lak panin gamdang pasiante koih khia-in Topa’ na sem-te hi; tua ciangin Israelte’ gentheihna-ah amah dah hi.
 
-**ZVS:** Tua ahih ciangin amaute in amau' lak panin gamdang pasian-te koih khia-in { Topa } a bia uh hi. Tua ahih ciangin Israel-te' gentheihna-ah amah a dah hi.
+**ZVS:** Tua ahih ciangin amaute in amau' lak panin gamdang pasian-te koih khia-in { Topa } a bia-te hi. Tua ahih ciangin Israel-te' gentheihna-ah amah a dah hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v17
 **EN:** Then the children of Ammon were gathered together, and encamped in Gilead. And the children of Israel assembled themselves together, and encamped in Mizpah.
 
-**TDB77:** Tua ciangin Ammon mite galhiam tawi dingin kisam uh a, Gilead-ah giahphual sat uh hi; Israel mite zong kikaikhawmin Mizpah-ah giahphual sat uh hi.
+**TDB77:** Tua ciangin Ammon mite galhiam tawi dingin kisam-te a, Gilead-ah giahphual sat-te hi; Israel mite zong kikaikhawmin Mizpah-ah giahphual sat-te hi.
 
-**ZVS:** Tua ciangin Ammon mite galhiam tawi dingin kisam uh a, Gilead-ah giahphual sat uh hi. Israel mite zong kikaikhawmin Gilead gamsung Mizpah-ah giahphual sat uh hi.
+**ZVS:** Tua ciangin Ammon mite galhiam tawi dingin kisam-te a, Gilead-ah giahphual sat-te hi. Israel mite zong kikaikhawmin Gilead gamsung Mizpah-ah giahphual sat-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And the people and princes of Gilead said one to another, What man is he that will begin to fight against the children of Ammon? he shall be head over all the inhabitants of Gilead.
 
-**TDB77:** Tua ciangin mite, Gilead makaite khat leh khat in, “Ammon mite do dinga a kipan ngam kua om ahi hiam? Amah in Gilead gam-a teeng mite khempeuh tungah lutang hi ding hi,” a kici uh hi.
+**TDB77:** Tua ciangin mite, Gilead makaite khat leh khat in, “Ammon mite do dinga a kipan ngam kua om ahi hiam? Amah in Gilead gam-a teeng mite khempeuh tungah lutang hi ding hi,” a kici-te hi.
 
-**ZVS:** Tua ciangin Israel mihonte leh makaite khatlekhat in, “Ammon mite do dinga a kipan ngam kua om ihi hiam? A kipan ngam mipa, Gilead gama teng mite khempeuh tungah lutang hi ding hi,” a kici uh hi.
+**ZVS:** Tua ciangin Israel mihonte leh makaite khatlekhat in, “Ammon mite do dinga a kipan ngam kua om ihi hiam? A kipan ngam mipa, Gilead gama teng mite khempeuh tungah lutang hi ding hi,” a kici-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 

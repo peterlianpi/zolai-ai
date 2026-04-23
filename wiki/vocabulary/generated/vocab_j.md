@@ -27,7 +27,7 @@
 **Related:** kumpipa, israel, sisera, hazor, kanaan
 **CEFR:** A1
 **Usage:** Attested 533× across 7 Bible books.
-> *leilakah a luang uh a muatgawp*
+> *leilakah a luang-te a muatgawp*
 
 ### jabne
 **[]** mount
@@ -65,7 +65,7 @@
 **Synonyms:** mahalab
 **CEFR:** A1
 **Usage:** Attested 165× across 4 Bible books.
-> *leh a sanggamnu uh Shua-te’ pa ahi hi.*
+> *leh a sanggamnu-te Shua-te’ pa ahi hi.*
 > `1CH 7:32`
 
 ### jagur
@@ -148,7 +148,7 @@
 **Related:** jeush, tapate, korah, oholibamah, hihte
 **CEFR:** A1
 **Usage:** Attested 516× across 4 Bible books.
-> *Esau’ tapate in: Elifaz, Re-u-el, Jeush, Jalam, leh Korah ahi uh hi.*
+> *Esau’ tapate in: Elifaz, Re-u-el, Jeush, Jalam, leh Korah ahi-te hi.*
 > → The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
 > `1CH 1:35`
 
@@ -158,7 +158,7 @@
 **Related:** tapate, jakhin, shaul, kanaan, jemuel
 **CEFR:** A1
 **Usage:** Attested 638× across 10 Bible books.
-> *Simeon’ tapate in: Nemuel, Jamin, Jarib, Zerah, leh Shawl ahi uh hi;*
+> *Simeon’ tapate in: Nemuel, Jamin, Jarib, Zerah, leh Shawl ahi-te hi;*
 > → The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
 > `1CH 4:24`
 
@@ -203,7 +203,7 @@
 **Related:** shimron
 **CEFR:** A1
 **Usage:** Attested 175× across 6 Bible books.
-> *Issakhar' tapate: Tola, Puah, Jashub, leh Shimron, li pha uh hi.*
+> *Issakhar' tapate: Tola, Puah, Jashub, leh Shimron, li pha-te hi.*
 > → Now the sons of Issachar were, Tola, and Puah, Jashub, and Shimron, four.
 
 ### jasper
@@ -351,7 +351,7 @@
 **Related:** sungpa, moses, pai, egypt, israel
 **CEFR:** A1
 **Usage:** Attested 855× across 2 Bible books.
-> *a pa uh' tuuhonte tui pia dingin kuangzawn dim uh hi.*
+> *a pa uh' tuuhonte tui pia dingin kuangzawn dim-te hi.*
 
 ### jetur
 **[n]** tema
@@ -410,7 +410,7 @@
 **Related:** tangin, bozrah, bela, tapa, teman
 **CEFR:** A1
 **Usage:** Attested 544× across 6 Bible books.
-> *Ishmerai, Izliah, leh Jobab in Elpa-al’ suante ahi uh hi.*
+> *Ishmerai, Izliah, leh Jobab in Elpa-al’ suante ahi-te hi.*
 > → Ishmerai also, and Jezliah, and Jobab, the sons of Elpaal;
 > `1CH 8:18`
 
@@ -456,7 +456,7 @@
 **Meanings:** jasiel | obed | mesobaite | eliel
 **CEFR:** A2
 **Usage:** Attested 120× across 2 Bible books.
-> *Zobah khuami Eliel, Obed, leh Jaasiel ahi uh hi.*
+> *Zobah khuami Eliel, Obed, leh Jaasiel ahi-te hi.*
 > → Eliel, and Obed, and Jasiel the Mesobaite.
 
 ### jabesh
@@ -497,7 +497,7 @@
 **Meanings:** shammai | brother | sons | jada | jether | onam
 **CEFR:** A2
 **Usage:** Attested 80× across 2 Bible books.
-> *Onam' tapate: Shammai leh Jada ahi uh hi. Shammai' tapate:*
+> *Onam' tapate: Shammai leh Jada ahi-te hi. Shammai' tapate:*
 
 ### jadaiah
 **[]** house
@@ -511,7 +511,7 @@
 **Meanings:** zebina | jeiel | mattithiah | zabad | jadau | joel
 **CEFR:** A2
 **Usage:** Attested 75× across 2 Bible books.
-> *Joel leh Benaiah ahi uh hi.*
+> *Joel leh Benaiah ahi-te hi.*
 > `EZR 10:43`
 
 ### jaddua
@@ -561,7 +561,7 @@
 **[]** sons
 **Meanings:** sons | jahdai | regem | jotham | geshan | pelet
 **CEFR:** A2
-> *leh Sha-af ahi uh hi.*
+> *leh Sha-af ahi-te hi.*
 > `1CH 2:47`
 
 ### jahdiel
@@ -671,7 +671,7 @@
 **Related:** eliezer
 **CEFR:** A2
 **Usage:** Attested 350× across 4 Bible books.
-> *Simeon' tapate: Nemuel, Jamin, Jarib, Zerah, leh Shaul ahi uh hi.*
+> *Simeon' tapate: Nemuel, Jamin, Jarib, Zerah, leh Shaul ahi-te hi.*
 > → The sons of Simeon were, Nemuel, and Jamin, Jarib, Zerah, and Shaul:
 
 ### jashar
@@ -789,7 +789,7 @@
 **[]** sons
 **Meanings:** sons | son | azariah | joah | jehaleleel | ziph
 **CEFR:** A2
-> *Jehallelel’ tapate in: Zif, Zifah, Tiria, leh Asarel ahi uh hi.*
+> *Jehallelel’ tapate in: Zif, Zifah, Tiria, leh Asarel ahi-te hi.*
 > → And the sons of Jehaleleel; Ziph, and Ziphah, Tiria, and Asareel.
 > `1CH 4:16`
 
@@ -840,7 +840,7 @@
 **Related:** bethlehem, kiza, thuthak, thuciamna, singkuang
 **CEFR:** B1
 **Usage:** Attested 48× across 3 Bible books.
-> *Jaar gamsungah Thuciamna Singkuang ka mu uh hi*
+> *Jaar gamsungah Thuciamna Singkuang ka mu-te hi*
 
 ### jaazaniah
 **[n]** midst
@@ -911,7 +911,7 @@
 **Meanings:** netophathite | son | sons | kareah | seraiah | tanhumeth
 **CEFR:** B1
 **Usage:** Attested 165× across 2 Bible books.
-> *Mizpah khua Gedaliah kiangah a pai uh hi. Nethaniah' tapa Ishmael*
+> *Mizpah khua Gedaliah kiangah a pai-te hi. Nethaniah' tapa Ishmael*
 
 ### job
 **[n]** answered
@@ -1106,7 +1106,7 @@
 **Meanings:** kinsmen | salute | andronicus | junia | fellowprisoners | note
 **CEFR:** C1
 **Usage:** Attested 80× across 2 Bible books.
-> *sawltakte khempeuh in a theihkim uh mite ahi uh hi.*
+> *sawltakte khempeuh in a theihkim-te mite ahi-te hi.*
 
 ### justas
 **[n]** barsabas
@@ -1138,7 +1138,7 @@
 **Meanings:** sons | ezer | bilhan | zaavan | jakan | dishan
 **CEFR:** C2
 **Usage:** Attested 70× across 2 Bible books.
-> *Ezer' tapate: Bilhan, Zaavan, leh Jaakan ahi uh hi. Dishan'*
+> *Ezer' tapate: Bilhan, Zaavan, leh Jaakan ahi-te hi. Dishan'*
 
 ### jaakobah
 **[n]** jaakobah
@@ -1169,7 +1169,7 @@
 **Meanings:** jaresiah | eliah | zichri | sons | jeroham
 **CEFR:** C2
 **Usage:** Attested 40× across 2 Bible books.
-> *Jaareshiah, Elijah, leh Zikri-te pen Jehoram' suante ahi uh hi.*
+> *Jaareshiah, Elijah, leh Zikri-te pen Jehoram' suante ahi-te hi.*
 > → And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.
 
 ### jaasu
@@ -1177,7 +1177,7 @@
 **Meanings:** mattenai | jaasau | mattaniah
 **CEFR:** C2
 **Usage:** Attested 25× across 2 Bible books.
-> *Mattaniah, Mattenai, leh Jaasu ahi uh hi.*
+> *Mattaniah, Mattenai, leh Jaasu ahi-te hi.*
 > → Mattaniah, Mattenai, and Jaasau,
 
 ### jaaziah
@@ -1194,7 +1194,7 @@
 **Meanings:** degree | zechariah | ben | jaaziel | shemiramoth | jehiel
 **CEFR:** C2
 **Usage:** Attested 155× across 2 Bible books.
-> *tua ciangin amaute tawh a pawl nihna-in a behte uh Zekhariah*
+> *tua ciangin amaute tawh a pawl nihna-in a behte-te Zekhariah*
 
 ### jab
 **[transitive & intransitive verb]** (v) sun, dawt, khawh; (n) amukzum na khat tawh sutna
@@ -1348,7 +1348,7 @@ warden
 **Meanings:** father | wife | jehudijah | bare | jered | gedor
 **CEFR:** C2
 **Usage:** Attested 145× across 2 Bible books.
-> *leh Jalon ahi uh hi. Mered in Faro' tanu Bithiah ten'pih a*
+> *leh Jalon ahi-te hi. Mered in Faro' tanu Bithiah ten'pih a*
 
 ### jalop-py
 **[noun]** alui mawtaw-vanleng, jalop-py

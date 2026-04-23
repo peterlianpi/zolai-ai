@@ -31,9 +31,9 @@
 ### v2
 **EN:** O thou that hearest prayer, unto thee shall all flesh come.
 
-**TDB77:** Nangmah in thungetna a za-pa na hi hi! Mawhna thu hangin nangma kiangah mi khempeuh hong pai ding uh hi.
+**TDB77:** Nangmah in thungetna a za-pa na hi hi! Mawhna thu hangin nangma kiangah mi khempeuh hong pai ding-te hi.
 
-**ZVS:** Thungetna a zapa na hi a, mawhna hangin nangma kiangah mi khempeuh hong pai ding uh hi.
+**ZVS:** Thungetna a zapa na hi a, mawhna hangin nangma kiangah mi khempeuh hong pai ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -49,7 +49,7 @@
 
 **TDB77:** Na inn-a om dinga na tel na lakte in mi nuamsa ahi hi! Nangma biakinn siangtho ahi na inn sunga hoihna tawh lungkim nung!
 
-**ZVS:** Nangma inn-ah a om dingin na teel na lakte mi nuamsa ahi hi. Nangma biakinn siangtho, na innsunga hoihna tawh kote ka lungkim ding uh hi.
+**ZVS:** Nangma inn-ah a om dingin na teel na lakte mi nuamsa ahi hi. Nangma biakinn siangtho, na innsunga hoihna tawh kote ka lungkim ding-te hi.
 
 ### v5
 **EN:** By terrible things in righteousness wilt thou answer us, O God of our salvation; who art the confidence of all the ends of the earth, and of them that are afar off upon the sea:
@@ -122,9 +122,9 @@
 ### v13
 **EN:** The pastures are clothed with flocks; the valleys also are covered over with corn; they shout for joy, they also sing.
 
-**TDB77:** lo no-na munte tuuhon tawh kizem-in, kuampite an tawh kidim a, lungdamin awngin amaute in la sakhawm uh hi.
+**TDB77:** lo no-na munte tuuhon tawh kizem-in, kuampite an tawh kidim a, lungdamin awngin amaute in la sakhawm-te hi.
 
-**ZVS:** gamlak lonona munte tuuhon tawh kizemin, kuampite an tawh kidim a, amaute lungdamin awngin la a sa khawm uh hi.
+**ZVS:** gamlak lonona munte tuuhon tawh kizemin, kuampite an tawh kidim a, amaute lungdamin awngin la a sa khawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

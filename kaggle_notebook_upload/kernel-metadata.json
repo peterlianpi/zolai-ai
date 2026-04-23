@@ -1,0 +1,14 @@
+{
+  "id": "peterpausianlian/zolai-llm-finetuning-t4x2",
+  "title": "Zolai LLM Fine-Tuning on T4x2",
+  "code_file": "kaggle_notebook.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": false,
+  "enable_gpu": true,
+  "enable_tpu": false,
+  "dataset_sources": [
+    "peterpausianlian/zolai-llm-training-dataset"
+  ],
+  "docker_image_pinning": "python310"
+}

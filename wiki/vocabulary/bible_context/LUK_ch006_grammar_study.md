@@ -24,18 +24,18 @@
 ### v1
 **EN:** And it came to pass on the second sabbath after the first, that he went through the corn fields; and his disciples plucked the ears of corn, and did eat, rubbing them in their hands.
 
-**TDB77:** Nipi ni khatvei Zeisu in buhlei ah a vak leh, a nungzuite in buhvui zut uh a, khut tawh nuai-in a ne uh hi.
+**TDB77:** Nipi ni khatvei Zeisu in buhlei ah a vak leh, a nungzuite in buhvui zut-te a, khut tawh nuai-in a ne-te hi.
 
-**ZVS:** Sabbath ni khatin mangbuh lo nawkin Jesuh leh a nungzuite a pai uh hi. A nungzuite in mangbuhvuite zut uh a, a khutsung uhah nuai-in a ne uh hi.
+**ZVS:** Sabbath ni khatin mangbuh lo nawkin Jesuh leh a nungzuite a pai-te hi. A nungzuite in mangbuhvuite zut-te a, a khutsung uhah nuai-in a ne-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v2
 **EN:** And certain of the Pharisees said unto them, Why do ye that which is not lawful to do on the sabbath days?
 
-**TDB77:** Farisaite kimkhat in, “Nipi ni-in ahih tuak loh na bang dingin na hih uh hiam?” a ci uh hi.
+**TDB77:** Farisaite kimkhat in, “Nipi ni-in ahih tuak loh na bang dingin na hih-te hiam?” a ci-te hi.
 
-**ZVS:** Amaute lakah a om Farisi mite pawlkhat in, “Sabbath ni-in i hih dingin a kilawmlo gamtatna bang hangin gamta na hi uh hiam?” a ci uh hi.
+**ZVS:** Amaute lakah a om Farisi mite pawlkhat in, “Sabbath ni-in i hih dingin a kilawmlo gamtatna bang hangin gamta na hi-te hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -44,7 +44,7 @@
 
 **TDB77:** Zeisu in, “David in ama lawmte tawh a gilkial lai takin,
 
-**ZVS:** Tua ciangin Jesuh in amaute kiangah, “David leh a kikholhpihte a gilkial laitakun David' gamtatna thu sim ngeilo na hi uh hiam?
+**ZVS:** Tua ciangin Jesuh in amaute kiangah, “David leh a kikholhpihte a gilkial laitakun David' gamtatna thu sim ngeilo na hi-te hiam?
 
 ### v5
 **EN:** And he said unto them,
@@ -67,16 +67,16 @@
 ### v7
 **EN:** And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him.
 
-**TDB77:** Nipi ni-in cinatna damsak ding hiam damsak lo ding hiam, ci-in laitheite leh Farisaite in Zeisu a mawhsak nop manun a en uh hi.
+**TDB77:** Nipi ni-in cinatna damsak ding hiam damsak lo ding hiam, ci-in laitheite leh Farisaite in Zeisu a mawhsak nop manun a en-te hi.
 
-**ZVS:** Thukham hilh siate leh Farisi mite pawlkhat in Jesuh a mawhsak theihna ding uh thu zongnuam uh ahih manin, Sabbath ni-in hih mipa a damsak hiam, ci-in na encik gige uh hi.
+**ZVS:** Thukham hilh siate leh Farisi mite pawlkhat in Jesuh a mawhsak theihna ding-te thu zongnuam-te ahih manin, Sabbath ni-in hih mipa a damsak hiam, ci-in na encik gige-te hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v8
 **EN:** But he knew their thoughts, and said to the man which had the withered hand,
 
-**TDB77:** Ahih hangin Zeisu in amau’ sinsung ngaihsutna uh a theih ciangin, “Tho in la, a lai zangah ding in,” ci-in khut sipa kiangah a ci hi. Amah thoin a ding hi.
+**TDB77:** Ahih hangin Zeisu in amau’ sinsung ngaihsutna-te a theih ciangin, “Tho in la, a lai zangah ding in,” ci-in khut sipa kiangah a ci hi. Amah thoin a ding hi.
 
 **ZVS:** Ahi zongin Jesuh in amau' ngaihsutna thei ahih manin a khutzaw mipa kiangah, “Ding in la, mihonte mai hih lai munah hong pai in,” a ci hi. A mipa zong hong pai-in mihon mai-ah a hong ding hi.
 
@@ -103,9 +103,9 @@
 ### v11
 **EN:** And they were filled with madness; and communed one with another what they might do to Jesus.
 
-**TDB77:** Ahih hangin amaute heh mahmah uh a, Zeisu tungah, “Bangci i hih ding hiam?” ci-in khat leh khat a kikum uh hi.
+**TDB77:** Ahih hangin amaute heh mahmah-te a, Zeisu tungah, “Bangci i hih ding hiam?” ci-in khat leh khat a kikum-te hi.
 
-**ZVS:** Ahi zongin amaute heh mahmah uh a, Jesuh a suktheihna ding uh khatlekhat a kikumpah uh hi.
+**ZVS:** Ahi zongin amaute heh mahmah-te a, Jesuh a suktheihna ding-te khatlekhat a kikumpah-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -146,45 +146,45 @@
 ### v16
 **EN:** And Judas the brother of James, and Judas Iscariot, which also was the traitor.
 
-**TDB77:** Jakob’ tapa Judas leh Topa lehheekpa Judas Iskariot ahi uh hi.
+**TDB77:** Jakob’ tapa Judas leh Topa lehheekpa Judas Iskariot ahi-te hi.
 
-**ZVS:** James' tapa Judas, leh Jesuh a lehhekpa Iskariot' tapa Judas ahi uh hi.
+**ZVS:** James' tapa Judas, leh Jesuh a lehhekpa Iskariot' tapa Judas ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v17
 **EN:** And he came down with them, and stood in the plain, and the company of his disciples, and a great multitude of people out of all Judaea and Jerusalem, and from the sea coast of Tyre and Sidon, which came to hear him, and to be healed of their diseases;
 
-**TDB77:** Zeisu in amaute tawh mual tung pan kumsuk khawm a, mun zangah a ding hi. Thu ngaih nading ahi zongin, cidamna ngah nading ahi zongin, Judah gam pan akipan, Jerusalem khuapi pan, Tai-ar leh Sidon khua tuipi gei pan, mi tampite leh ama nungzuite tampite zong hong pai uh hi.
+**TDB77:** Zeisu in amaute tawh mual tung pan kumsuk khawm a, mun zangah a ding hi. Thu ngaih nading ahi zongin, cidamna ngah nading ahi zongin, Judah gam pan akipan, Jerusalem khuapi pan, Tai-ar leh Sidon khua tuipi gei pan, mi tampite leh ama nungzuite tampite zong hong pai-te hi.
 
-**ZVS:** Tua mualtung panin Jesuh leh a nungzui teelte paisuk uh a, a nung a zui midang tampite tawh mun zang khatah a ding hi. Jerusalem khua leh Judea gam khempeuh leh tuipi gei-a om Taia khua leh Sidon khuapite panin a hong pai mihon tampi zong hong om uh hi.
+**ZVS:** Tua mualtung panin Jesuh leh a nungzui teelte paisuk-te a, a nung a zui midang tampite tawh mun zang khatah a ding hi. Jerusalem khua leh Judea gam khempeuh leh tuipi gei-a om Taia khua leh Sidon khuapite panin a hong pai mihon tampi zong hong om-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v18
 **EN:** And they that were vexed with unclean spirits: and they were healed.
 
-**TDB77:** A kihhuai dawi’ bawlsiatna a thuak mite in zong cidamna a ngah uh hi.
+**TDB77:** A kihhuai dawi’ bawlsiatna a thuak mite in zong cidamna a ngah-te hi.
 
-**ZVS:** Tua mite pen ama thuhilhna a ngai ding leh a natna uh panin damna a ngahnop manun a hong pai uh ahi hi. Dawi a vei mite zong hong pai uh a, damna a ngah uh hi.
+**ZVS:** Tua mite pen ama thuhilhna a ngai ding leh a natna-te panin damna a ngahnop manun a hong pai-te ahi hi. Dawi a vei mite zong hong pai-te a, damna a ngah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And the whole multitude sought to touch him: for there went virtue out of him, and healed them all.
 
-**TDB77:** Mihonpite khempeuh in Zeisu a lawn’ nading a zong uh hi. Bang hang hiam i cih leh, ama tung pan vangliatna paikhia a, mi khempeuh a damsak hi.
+**TDB77:** Mihonpite khempeuh in Zeisu a lawn’ nading a zong-te hi. Bang hang hiam i cih leh, ama tung pan vangliatna paikhia a, mi khempeuh a damsak hi.
 
-**ZVS:** Jesuh' tung panin vangliatna paikhia-in mi khempeuh damsak ahih manin mi khempeuh in amah lawn' ding a hanciam uh hi.
+**ZVS:** Jesuh' tung panin vangliatna paikhia-in mi khempeuh damsak ahih manin mi khempeuh in amah lawn' ding a hanciam-te hi.
 
 **Grammar:** causative: -sak suffix | plural: uh marker
 
 ### v20
 **EN:** And he lifted up his eyes on his disciples, and said,
 
-**TDB77:** Zeisu in a nungzuite en a, “Mizawng note in thupha na ngah ding uh hi. Bang hang hiam na cih uh leh, Pasian’ Gam in note gam ahi ding hi.
+**TDB77:** Zeisu in a nungzuite en a, “Mizawng note in thupha na ngah ding-te hi. Bang hang hiam na cih-te leh, Pasian’ Gam in note gam ahi ding hi.
 
-**ZVS:** Tua ciangin Jesuh in a nungzuite en a, “No mizawngte Pasian' Ukna sungah om na hih manun thupha ngah mi na hi uh hi.
+**ZVS:** Tua ciangin Jesuh in a nungzuite en a, “No mizawngte Pasian' Ukna sungah om na hih manun thupha ngah mi na hi-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

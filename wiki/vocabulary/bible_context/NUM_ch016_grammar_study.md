@@ -36,18 +36,18 @@
 ### v2
 **EN:** And they rose up before Moses, with certain of the children of Israel, two hundred and fifty princes of the assembly, famous in the congregation, men of renown:
 
-**TDB77:** hih mite in pawl kai uh hi; Israel mite sung panin mi’ theihkim, mihon sung panin a kiteel, mihonte a makai mi zanih leh sawmnga tawh Moses’ mai-ah ding uh hi;
+**TDB77:** hih mite in pawl kai-te hi; Israel mite sung panin mi’ theihkim, mihon sung panin a kiteel, mihonte a makai mi zanih leh sawmnga tawh Moses’ mai-ah ding-te hi;
 
-**ZVS:** hih mite in pawl kai uh hi. Israel mite sung panin mi' theihkim, mihon sung panin a kiteel, mihonte a makai mi za nih leh sawmnga tawh Moses' mai-ah ding uh hi.
+**ZVS:** hih mite in pawl kai-te hi. Israel mite sung panin mi' theihkim, mihon sung panin a kiteel, mihonte a makai mi za nih leh sawmnga tawh Moses' mai-ah ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And they gathered themselves together against Moses and against Aaron, and said unto them, Ye take too much upon you, seeing all the congregation are holy, every one of them, and the
 
-**TDB77:** Moses leh Aaron langpangin amaute kikaikhawm uh a, amaute kiangah, “Khengval lua uh teh! Mihon khempeuhte a milip-in siangtho uh a, amaute lakah Topa om hi; bang hangin Topa’ mi honpite’ tungah nomau kiliansak tawm na hi uh hiam?” ci uh hi.
+**TDB77:** Moses leh Aaron langpangin amaute kikaikhawm-te a, amaute kiangah, “Khengval lua-te teh! Mihon khempeuhte a milip-in siangtho-te a, amaute lakah Topa om hi; bang hangin Topa’ mi honpite’ tungah nomau kiliansak tawm na hi-te hiam?” ci-te hi.
 
-**ZVS:** Moses leh Aaron langpangin amaute kikaikhawmin amaute kiangah, “Khengval lua uh teh! Mihon khempeuhte a milipin siangtho uh a, amaute' lakah { Topa } om hi. Bang hangin { Topa' } mihonpite tungah nomau kiliansak tawm na hi uh hiam” a ci uh hi.
+**ZVS:** Moses leh Aaron langpangin amaute kikaikhawmin amaute kiangah, “Khengval lua-te teh! Mihon khempeuhte a milipin siangtho-te a, amaute' lakah { Topa } om hi. Bang hangin { Topa' } mihonpite tungah nomau kiliansak tawm na hi-te hiam” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -77,9 +77,9 @@
 ### v7
 **EN:** And put fire therein, and put incense in them before the
 
-**TDB77:** zing ciangin Topa’ mai-ah tua beelte’ sungah mei koihin, mei tungah paknamtui koih un; tua ciangin Topa’ teel mi in a siangtho hong hi ding hi. Levi’ tapate aw, khengval lua uh teh!” a ci hi.
+**TDB77:** zing ciangin Topa’ mai-ah tua beelte’ sungah mei koihin, mei tungah paknamtui koih un; tua ciangin Topa’ teel mi in a siangtho hong hi ding hi. Levi’ tapate aw, khengval lua-te teh!” a ci hi.
 
-**ZVS:** Zing ciangin { Topa' } mai-ah tua beelte sungah mei koihin, mei tungah paknamtui koih un la, tua ciangin { Topa' } teel mi pen a siangtho hong hi ding hi. Levi' tapate aw, khengvallua uh teh!” a ci hi.
+**ZVS:** Zing ciangin { Topa' } mai-ah tua beelte sungah mei koihin, mei tungah paknamtui koih un la, tua ciangin { Topa' } teel mi pen a siangtho hong hi ding hi. Levi' tapate aw, khengvallua-te teh!” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will
 
@@ -113,18 +113,18 @@
 ### v11
 **EN:** For which cause both thou and all thy company are gathered together against the
 
-**TDB77:** Tua ahih ciangin nang leh na pawlte khempeuh hih lai-ah na kikaihkhopna uh in Topa langpan’na ahi hi; note in na phunsan uh Aaron pen bang mi hi mawk ahi hiam?” a ci hi.
+**TDB77:** Tua ahih ciangin nang leh na pawlte khempeuh hih lai-ah na kikaihkhopna-te in Topa langpan’na ahi hi; note in na phunsan-te Aaron pen bang mi hi mawk ahi hiam?” a ci hi.
 
-**ZVS:** Tua ahih ciangin nang leh na pawlte khempeuh hih lai-ah na kikaihkhopna uh pen { Topa } langpan'na ahi hi. Note in na phunsan uh Aaron pen bang mi hi mawk ahi hiam?” a ci hi.
+**ZVS:** Tua ahih ciangin nang leh na pawlte khempeuh hih lai-ah na kikaihkhopna-te pen { Topa } langpan'na ahi hi. Note in na phunsan-te Aaron pen bang mi hi mawk ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
 ### v12
 **EN:** And Moses sent to call Dathan and Abiram, the sons of Eliab: which said, We will not come up:
 
-**TDB77:** Moses in Eliab’ tapa Dathan leh Abiramte sam sak hi; amaute in, “Kong pai kei ding uh hi.
+**TDB77:** Moses in Eliab’ tapa Dathan leh Abiramte sam sak hi; amaute in, “Kong pai kei ding-te hi.
 
-**ZVS:** Tua ciangin Moses in mi sawlin Eliab' tapa Dathan leh Abiram samsak hi. Amaute in, “Kong pai kei ding uh hi.
+**ZVS:** Tua ciangin Moses in mi sawlin Eliab' tapa Dathan leh Abiram samsak hi. Amaute in, “Kong pai kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -140,9 +140,9 @@
 ### v14
 **EN:** Moreover thou hast not brought us into a land that floweth with milk and honey, or given us inheritance of fields and vineyards: wilt thou put out the eyes of these men? we will not come up.
 
-**TDB77:** Tua tham loin nangmah in bawngnawi leh khuaizu a luan’na gamah kote hong paipih loin, lote leh leenggui lote zong nong luah sak kei hi. Hih mite’ mit khel khia ding na hi hiam? Kong pai kei ding uh hi,” a ci hi.
+**TDB77:** Tua tham loin nangmah in bawngnawi leh khuaizu a luan’na gamah kote hong paipih loin, lote leh leenggui lote zong nong luah sak kei hi. Hih mite’ mit khel khia ding na hi hiam? Kong pai kei ding-te hi,” a ci hi.
 
-**ZVS:** Tua thamloin nangmah in bawngnawi leh khuaizu tui bangin a luan'na gamah kote hong paipih loin, lote leh leenggui lote zong nong luahsak kei hi. Hih mite' mit khelkhia ding na hi hiam? Kong pai kei ding uh hi,” a ci uh hi.
+**ZVS:** Tua thamloin nangmah in bawngnawi leh khuaizu tui bangin a luan'na gamah kote hong paipih loin, lote leh leenggui lote zong nong luahsak kei hi. Hih mite' mit khelkhia ding na hi hiam? Kong pai kei ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | plural: uh marker
 
@@ -151,7 +151,7 @@
 
 **TDB77:** Moses heh mahmah a, Topa kiangah, “Amau’ biakna thupi ngaihsut kei in. Amaute tung panin la khat zong la loin, amaute khat zong ka siasak kei hi,” a ci hi.
 
-**ZVS:** Moses heh mahmah ahih manin { Topa' } kiangah, “Amau' biakna thupi ngaihsut kei in. Amaute tungah bangmah ka gamta khial kei a, a la uh khat beek nangawn ka laksak kei hi,” a ci hi.
+**ZVS:** Moses heh mahmah ahih manin { Topa' } kiangah, “Amau' biakna thupi ngaihsut kei in. Amaute tungah bangmah ka gamta khial kei a, a la-te khat beek nangawn ka laksak kei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | negation: kei | reciprocal: ki- prefix
 
@@ -167,18 +167,18 @@
 ### v17
 **EN:** And take every man his censer, and put incense in them, and bring ye before the
 
-**TDB77:** note in na milip-un na paknamtui beel ciat uh la-in, a sungah paknamtui koih un la, Topa’ mai-ah na paknamtui beel ciat uh, paknamtui beel zanih leh sawmnga paipih un; Aaron leh nangmah in zong na paknamtui beel tuak uh paipih un,” a ci hi.
+**TDB77:** note in na milip-un na paknamtui beel ciat-te la-in, a sungah paknamtui koih un la, Topa’ mai-ah na paknamtui beel ciat uh, paknamtui beel zanih leh sawmnga paipih un; Aaron leh nangmah in zong na paknamtui beel tuak-te paipih un,” a ci hi.
 
-**ZVS:** Note in na milipun na paknamtui beel ciat uh la-in, a sungah paknamtui koih un la, { Topa' } mai-ah na paknamtui beel ciat uh, paknamtui beel za nih leh sawmnga paipih un. Aaron leh nangmah in zong na paknamtui beel tuak uh paipih un,” a ci hi.
+**ZVS:** Note in na milipun na paknamtui beel ciat-te la-in, a sungah paknamtui koih un la, { Topa' } mai-ah na paknamtui beel ciat uh, paknamtui beel za nih leh sawmnga paipih un. Aaron leh nangmah in zong na paknamtui beel tuak-te paipih un,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v18
 **EN:** And they took every man his censer, and put fire in them, and laid incense thereon, and stood in the door of the tabernacle of the congregation with Moses and Aaron.
 
-**TDB77:** Tua ahih ciangin a milip-un a paknamtui beel ciat uh la a, tuate sungah mei koihin a tungah paknamtui koih uh a, kikhopna buk kongah Moses leh Aaron tawh ding uh hi.
+**TDB77:** Tua ahih ciangin a milip-un a paknamtui beel ciat-te la a, tuate sungah mei koihin a tungah paknamtui koih-te a, kikhopna buk kongah Moses leh Aaron tawh ding-te hi.
 
-**ZVS:** Tua ahih ciangin a milipun a paknamtui beel ciat uh la uh a, tuate sungah mei koihin a tungah paknamtui koih uh a, kikhopna buk kongah Moses leh Aaron tawh ding khawm uh hi.
+**ZVS:** Tua ahih ciangin a milipun a paknamtui beel ciat-te la-te a, tuate sungah mei koihin a tungah paknamtui koih-te a, kikhopna buk kongah Moses leh Aaron tawh ding khawm-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -212,9 +212,9 @@
 ### v22
 **EN:** And they fell upon their faces, and said, O God, the God of the spirits of all flesh, shall one man sin, and wilt thou be wroth with all the congregation?
 
-**TDB77:** Amaute boksuk uh a, “Pasian, mi khempeuhte tungah nuntakna a pia Pasian aw, mi khat khial ding a, mihon khempeuhte tungah nang heh ding na hi hiam?” a ci uh hi.
+**TDB77:** Amaute boksuk-te a, “Pasian, mi khempeuhte tungah nuntakna a pia Pasian aw, mi khat khial ding a, mihon khempeuhte tungah nang heh ding na hi hiam?” a ci-te hi.
 
-**ZVS:** Amaute boksuk uh a, “Pasian, mi khempeuhte' tungah nuntakna a pia Pasian aw, mi khat' khialhna hangin mihon khempeuhte' tungah nang heh ding na hi hiam?” a ci uh hi.
+**ZVS:** Amaute boksuk-te a, “Pasian, mi khempeuhte' tungah nuntakna a pia Pasian aw, mi khat' khialhna hangin mihon khempeuhte' tungah nang heh ding na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -241,7 +241,7 @@
 
 **TDB77:** Tua ciangin Moses ding-in Dathan leh Abiram kiangah pai hi; Israel upate in amah zui hi.
 
-**ZVS:** Tua ciangin Moses dingin Dathan leh Abiram kiangah pai a, Israel upate in zong amah a zui uh hi.
+**ZVS:** Tua ciangin Moses dingin Dathan leh Abiram kiangah pai a, Israel upate in zong amah a zui-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -257,18 +257,18 @@
 ### v27
 **EN:** So they gat up from the tabernacle of Korah, Dathan, and Abiram, on every side: and Dathan and Abiram came out, and stood in the door of their tents, and their wives, and their sons, and their little children.
 
-**TDB77:** Tua ahih ciangin Korah, Dathan leh Abiramte’ omna kiim panin, amau paikhia uh hi; Dathan leh Abiramte a zite uh leh a tapate uh leh a taneute uh tawh hong pusuakin a puanbuk kong uhah ding khawm uh hi.
+**TDB77:** Tua ahih ciangin Korah, Dathan leh Abiramte’ omna kiim panin, amau paikhia-te hi; Dathan leh Abiramte a zite-te leh a tapate-te leh a taneute-te tawh hong pusuakin a puanbuk kong uhah ding khawm-te hi.
 
-**ZVS:** Tua ahih ciangin Korah, Dathan, leh Abiram-te' omna kiim panin amaute a paikhia uh hi. Dathan leh Abiram-te, a zite uh leh a tapate uh leh a taneute uh tawh hong pusuakin a puanbuk kong uhah dingkhawm uh hi.
+**ZVS:** Tua ahih ciangin Korah, Dathan, leh Abiram-te' omna kiim panin amaute a paikhia-te hi. Dathan leh Abiram-te, a zite-te leh a tapate-te leh a taneute-te tawh hong pusuakin a puanbuk kong uhah dingkhawm-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** And Moses said, Hereby ye shall know that the
 
-**TDB77:** Tua ciangin Moses in, “Hih na khempeuh a sem dingin Topa in kei hong sawlin, tua pen keima ut thu a hih lohna, hih thu tawh na thei ding uh hi.
+**TDB77:** Tua ciangin Moses in, “Hih na khempeuh a sem dingin Topa in kei hong sawlin, tua pen keima ut thu a hih lohna, hih thu tawh na thei ding-te hi.
 
-**ZVS:** Tua ciangin Moses in, “Hih na khempeuh a sem dingin { Topa } in kei hong sawl hi. Hih nasep pen keima utthu ahih lohna, hih thu tawh na thei ding uh hi.
+**ZVS:** Tua ciangin Moses in, “Hih na khempeuh a sem dingin { Topa } in kei hong sawl hi. Hih nasep pen keima utthu ahih lohna, hih thu tawh na thei ding-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
@@ -282,9 +282,9 @@
 ### v30
 **EN:** But if the
 
-**TDB77:** Ahih hangin Topa in a thak khat hong piangsakin, leitang a kam ka-in amaute’ neih khempeuh tawh hih mite valh tumin, a hing tangun Leinuai-ah a tumsuk uh leh, hih mite Topa a simmawhna thu na thei ding uh hi,” a ci hi.
+**TDB77:** Ahih hangin Topa in a thak khat hong piangsakin, leitang a kam ka-in amaute’ neih khempeuh tawh hih mite valh tumin, a hing tangun Leinuai-ah a tumsuk-te leh, hih mite Topa a simmawhna thu na thei ding-te hi,” a ci hi.
 
-**ZVS:** Ahih hangin { Topa } in a thak khat hong piangsakin, leitang in a kam ka-in amaute' neih khempeuh tawh hih mite valhtumin, a hingtangin Leinuai-ah a tumsuk uh leh, hih mite in { Topa } a simmawh ahihna thu na thei ding uh hi,” a ci hi.
+**ZVS:** Ahih hangin { Topa } in a thak khat hong piangsakin, leitang in a kam ka-in amaute' neih khempeuh tawh hih mite valhtumin, a hingtangin Leinuai-ah a tumsuk-te leh, hih mite in { Topa } a simmawh ahihna thu na thei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -300,27 +300,27 @@
 ### v32
 **EN:** And the earth opened her mouth, and swallowed them up, and their houses, and all the men that appertained unto Korah, and all their goods.
 
-**TDB77:** leitang in a kam ka-in, Korah tawh a kipawl mi khempeuh leh a innkuanpihte uh leh a neihsa khempeuh uh valh tum hi.
+**TDB77:** leitang in a kam ka-in, Korah tawh a kipawl mi khempeuh leh a innkuanpihte-te leh a neihsa khempeuh-te valh tum hi.
 
-**ZVS:** Leitang a kam ka-in, Korah tawh a kipawl mi khempeuh leh a innkuanpihte uh leh a neihsa khempeuh uh valhtum hi.
+**ZVS:** Leitang a kam ka-in, Korah tawh a kipawl mi khempeuh leh a innkuanpihte-te leh a neihsa khempeuh-te valhtum hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v33
 **EN:** They, and all that appertained to them, went down alive into the pit, and the earth closed upon them: and they perished from among the congregation.
 
-**TDB77:** Tua ahih ciangin amaute leh a neihsa khempeuh uh a hing tangun Leinuai-ah tumsuk uh hi; leitang in amaute khup nelh a, mi honpite laizang panin amaute bei uh hi.
+**TDB77:** Tua ahih ciangin amaute leh a neihsa khempeuh-te a hing tangun Leinuai-ah tumsuk-te hi; leitang in amaute khup nelh a, mi honpite laizang panin amaute bei-te hi.
 
-**ZVS:** Tua ahih ciangin amaute leh a neihsa khempeuh uh a hingtangun Leinuai-ah tumsuk uh hi. Leitang in amaute khupnelhin mihonpite' lak panin amaute bei uh hi.
+**ZVS:** Tua ahih ciangin amaute leh a neihsa khempeuh-te a hingtangun Leinuai-ah tumsuk-te hi. Leitang in amaute khupnelhin mihonpite' lak panin amaute bei-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v34
 **EN:** And all Israel that were round about them fled at the cry of them: for they said, Lest the earth swallow us up also.
 
-**TDB77:** Amaute’ kikona hangin a kiim uh a, a om Israel khempeuh tai uh hi; bang hang hiam cih leh amaute in, “Leitang in hong valh tum kha in teh!” ci uh hi.
+**TDB77:** Amaute’ kikona hangin a kiim-te a, a om Israel khempeuh tai-te hi; bang hang hiam cih leh amaute in, “Leitang in hong valh tum kha in teh!” ci-te hi.
 
-**ZVS:** Amaute' kikona hangin a kiim uha om Israel mite khempeuh tai uh hi. Bang hang hiam cih leh amaute in, “Leitang in hong valhtum kha in teh!” ci uh hi.
+**ZVS:** Amaute' kikona hangin a kiim uha om Israel mite khempeuh tai-te hi. Bang hang hiam cih leh amaute in, “Leitang in hong valhtum kha in teh!” ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -354,9 +354,9 @@
 ### v38
 **EN:** The censers of these sinners against their own souls, let them make them broad plates for a covering of the altar: for they offered them before the
 
-**TDB77:** amau’ nuntakna a beina dongin a khial hih mite’ paknamtui beelte siangtho hi; tua ahih ciangin biakna tau sitna kuangdai dingin seek un; bang hang hiam cih leh amaute in Topa mai-ah tuate pia uh hi; tua ahih ciangin tua nate siangtho hi. Israel mite tungah tua bangin hih nate in lim khat hi ding hi,” a ci hi.
+**TDB77:** amau’ nuntakna a beina dongin a khial hih mite’ paknamtui beelte siangtho hi; tua ahih ciangin biakna tau sitna kuangdai dingin seek un; bang hang hiam cih leh amaute in Topa mai-ah tuate pia-te hi; tua ahih ciangin tua nate siangtho hi. Israel mite tungah tua bangin hih nate in lim khat hi ding hi,” a ci hi.
 
-**ZVS:** amau' nuntakna a beina dongin a khial hih mite' paknamtui beelte a siangtho hi. Tua ahih ciangin biakna tau sitna kuangdai dingin seek un; bang hang hiam cih leh amaute in { Topa' } mai-ah tuate pia uh hi. Tua ahih ciangin tua nate siangtho hi. Israel mite tungah tua bangin hih nate pen lim khat hi ding hi,” a ci hi.
+**ZVS:** amau' nuntakna a beina dongin a khial hih mite' paknamtui beelte a siangtho hi. Tua ahih ciangin biakna tau sitna kuangdai dingin seek un; bang hang hiam cih leh amaute in { Topa' } mai-ah tuate pia-te hi. Tua ahih ciangin tua nate siangtho hi. Israel mite tungah tua bangin hih nate pen lim khat hi ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
@@ -381,18 +381,18 @@
 ### v41
 **EN:** But on the morrow all the congregation of the children of Israel murmured against Moses and against Aaron, saying, Ye have killed the people of the
 
-**TDB77:** Ahih hangin a zing ciangin Israel mi hon khempeuh in Moses leh Aaron phunsan uh a, “Topa mite na that uh hi,” a ci uh hi.
+**TDB77:** Ahih hangin a zing ciangin Israel mi hon khempeuh in Moses leh Aaron phunsan-te a, “Topa mite na that-te hi,” a ci-te hi.
 
-**ZVS:** Ahih hangin a zing ciangin Israel mihon khempeuh in Moses leh Aaron phunsan uh a, “{ Topa' } mite na that uh hi,” a ci uh hi.
+**ZVS:** Ahih hangin a zing ciangin Israel mihon khempeuh in Moses leh Aaron phunsan-te a, “{ Topa' } mite na that-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v42
 **EN:** And it came to pass, when the congregation was gathered against Moses and against Aaron, that they looked toward the tabernacle of the congregation: and, behold, the cloud covered it, and the glory of the
 
-**TDB77:** Moses leh Aaron langpangin mihonte a kikhop uh ciangin, kikhopna buk lamah amaute kihei uh hi, en in: meii in tuam a, Topa minthan’na kilang hi.
+**TDB77:** Moses leh Aaron langpangin mihonte a kikhop-te ciangin, kikhopna buk lamah amaute kihei-te hi, en in: meii in tuam a, Topa minthan’na kilang hi.
 
-**ZVS:** Moses leh Aaron langpangin mihonte a kikhop uh ciangin, kikhopna buk lamah amaute a khuadak uh ciangin, meii in na tuam a, { Topa' } minthan'na vang kilang hi.
+**ZVS:** Moses leh Aaron langpangin mihonte a kikhop-te ciangin, kikhopna buk lamah amaute a khuadak-te ciangin, meii in na tuam a, { Topa' } minthan'na vang kilang hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -417,9 +417,9 @@
 ### v45
 **EN:** Get you up from among this congregation, that I may consume them as in a moment. And they fell upon their faces.
 
-**TDB77:** “Tomno sungin amaute ka siatsak theih nadingin hih mihonte laizang panin paikhia un,” a ci hi. Amaute boksuk uh hi.
+**TDB77:** “Tomno sungin amaute ka siatsak theih nadingin hih mihonte laizang panin paikhia un,” a ci hi. Amaute boksuk-te hi.
 
-**ZVS:** “Tomno sungin amaute ka siatsak theihna dingin hih mihonte' lak panin paikhia un,” a ci hi. Tua ciangin amaute gel zong boksuk uh hi.
+**ZVS:** “Tomno sungin amaute ka siatsak theihna dingin hih mihonte' lak panin paikhia un,” a ci hi. Tua ciangin amaute gel zong boksuk-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | plural: uh marker
 

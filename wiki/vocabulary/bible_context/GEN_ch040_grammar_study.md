@@ -26,9 +26,9 @@
 ### v1
 **EN:** And it came to pass after these things, that the butler of the king of Egypt and his baker had offended their lord the king of Egypt.
 
-**TDB77:** Hih hun khit tawl khat ciangin, Izipt kumpipa’ an piapa leh a an huanpa in Izipt kumpipa ahi amau’ topa hehsak uh hi.
+**TDB77:** Hih hun khit tawl khat ciangin, Izipt kumpipa’ an piapa leh a an huanpa in Izipt kumpipa ahi amau’ topa hehsak-te hi.
 
-**ZVS:** Tua zawh tawlkhat khit ciangin, Egypt kumpipa' an piapa leh a an huanpa in Egypt kumpipa ahi amau' topa hehsak uh hi.
+**ZVS:** Tua zawh tawlkhat khit ciangin, Egypt kumpipa' an piapa leh a an huanpa in Egypt kumpipa ahi amau' topa hehsak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -51,45 +51,45 @@
 ### v4
 **EN:** And the captain of the guard charged Joseph with them, and he served them: and they continued a season in ward.
 
-**TDB77:** Inncing mangpa in amaute Josef kemsak a, amah in amaute’ na sem hi; kikhumna sungah amaute tawl khat om uh hi.
+**TDB77:** Inncing mangpa in amaute Josef kemsak a, amah in amaute’ na sem hi; kikhumna sungah amaute tawl khat om-te hi.
 
-**ZVS:** Inncing mangpa in amaute Josef kemsak a, amah in amaute' na sem hi. Kikhumna sungah amaute tawlkhat om uh hi.
+**ZVS:** Inncing mangpa in amaute Josef kemsak a, amah in amaute' na sem hi. Kikhumna sungah amaute tawlkhat om-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And they dreamed a dream both of them, each man his dream in one night, each man according to the interpretation of his dream, the butler and the baker of the king of Egypt, which were bound in the prison.
 
-**TDB77:** Zan khat amaute gel in mang man uh hi—thong sunga a om an piapa leh an huanpa—amau’ mang a tuam tuak, a mang khiatna a tuam tuak ahi hi.
+**TDB77:** Zan khat amaute gel in mang man-te hi—thong sunga a om an piapa leh an huanpa—amau’ mang a tuam tuak, a mang khiatna a tuam tuak ahi hi.
 
-**ZVS:** Zan khat amaute gel in mang man uh hi. Thong sunga a om an piapa leh an huanpa, amau' mang a tuam tuak, a mang khiatna zong a tuam tuak mah ahi hi.
+**ZVS:** Zan khat amaute gel in mang man-te hi. Thong sunga a om an piapa leh an huanpa, amau' mang a tuam tuak, a mang khiatna zong a tuam tuak mah ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** And Joseph came in unto them in the morning, and looked upon them, and, behold, they were sad.
 
-**TDB77:** Zingsangin amaute' kiangah Josef pai-in amaute a muh ciangin amaute lungkham uh hi.
+**TDB77:** Zingsangin amaute' kiangah Josef pai-in amaute a muh ciangin amaute lungkham-te hi.
 
-**ZVS:** Zingsang ciangin amaute kiangah Josef pai-in amaute a muh ciangin, amaute na lungkham uh hi.
+**ZVS:** Zingsang ciangin amaute kiangah Josef pai-in amaute a muh ciangin, amaute na lungkham-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And he asked Pharaoh's officers that were with him in the ward of his lord's house, saying, Wherefore look ye so sadly to day?
 
-**TDB77:** Tua ahih ciangin a topa’ inn sunga amah tawh a kikhuma om Faro’ nuai-a mangte amah in dong a, “Bang hangin tu ni-in mai mial na hi uh hiam?” ci hi.
+**TDB77:** Tua ahih ciangin a topa’ inn sunga amah tawh a kikhuma om Faro’ nuai-a mangte amah in dong a, “Bang hangin tu ni-in mai mial na hi-te hiam?” ci hi.
 
-**ZVS:** Tua ahih ciangin a topa' inn sunga amah tawh a kikhumin a om Faro' nuai-a mangte amah in dong a, “Bang hangin tuni-in maimial na hi uh hiam?” a ci hi.
+**ZVS:** Tua ahih ciangin a topa' inn sunga amah tawh a kikhumin a om Faro' nuai-a mangte amah in dong a, “Bang hangin tuni-in maimial na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v8
 **EN:** And they said unto him, We have dreamed a dream, and there is no interpreter of it. And Joseph said unto them, Do not interpretations belong to God? tell me them, I pray you.
 
-**TDB77:** Amaute in ama' kiangah, “Mang ka man uh a, tuate a khia ding om lo hi,’ ci uh hi. Josef in amaute' kiangah, “Khiatnate Pasian’ gen hilo ahi hiam? Kei' kiangah hong gen un, hong thum ing,” ci hi.
+**TDB77:** Amaute in ama' kiangah, “Mang ka man-te a, tuate a khia ding om lo hi,’ ci-te hi. Josef in amaute' kiangah, “Khiatnate Pasian’ gen hilo ahi hiam? Kei' kiangah hong gen un, hong thum ing,” ci hi.
 
-**ZVS:** Amaute in ama kiangah, “Mang ka man uh a, tuate a khiathei ding omlo hi,” na ci uh hi. Josef in amaute kiangah, “Mang khiat theihnate Pasian' hong piak hilo ahi hiam? Kei kiangah hong gen un, hong thum ing,” a ci hi.
+**ZVS:** Amaute in ama kiangah, “Mang ka man-te a, tuate a khiathei ding omlo hi,” na ci-te hi. Josef in amaute kiangah, “Mang khiat theihnate Pasian' hong piak hilo ahi hiam? Kei kiangah hong gen un, hong thum ing,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -166,9 +166,9 @@
 ### v17
 **EN:** And in the uppermost basket there was of all manner of bakemeats for Pharaoh; and the birds did eat them out of the basket upon my head.
 
-**TDB77:** a lawh tungnung pen sungah an huansa namkim Faro’ adingin om hi, ahih hangin ka lu tunga lawh sung panin vasate in ne uh hi,” ci hi.
+**TDB77:** a lawh tungnung pen sungah an huansa namkim Faro’ adingin om hi, ahih hangin ka lu tunga lawh sung panin vasate in ne-te hi,” ci hi.
 
-**ZVS:** a lawh tungnung pen sungah an huansa namkim Faro-a' dingin om hi. Ahih hangin ka lu tunga lawh sung panin vasate in ne uh hi,” a ci hi.
+**ZVS:** a lawh tungnung pen sungah an huansa namkim Faro-a' dingin om hi. Ahih hangin ka lu tunga lawh sung panin vasate in ne-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | plural: uh marker
 
@@ -182,9 +182,9 @@
 ### v19
 **EN:** Yet within three days shall Pharaoh lift up thy head from off thee, and shall hang thee on a tree; and the birds shall eat thy flesh from off thee.
 
-**TDB77:** ni thum sungin Faro in nang hong la khia-in na lu hong tan ding a, sing tung khatah nang hong khai ding hi; vasate in na sa ne ding uh hi,” ci hi.
+**TDB77:** ni thum sungin Faro in nang hong la khia-in na lu hong tan ding a, sing tung khatah nang hong khai ding hi; vasate in na sa ne ding-te hi,” ci hi.
 
-**ZVS:** Ni thum sungin Faro in nang hong lakhia-in na lu hong tan ding a, sing tung khatah nang hong khai ding hi. Vasate in na sa ne ding uh hi,” a ci hi.
+**ZVS:** Ni thum sungin Faro in nang hong lakhia-in na lu hong tan ding a, sing tung khatah nang hong khai ding hi. Vasate in na sa ne ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 

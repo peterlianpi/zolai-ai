@@ -21,9 +21,9 @@
 ### v1
 **EN:** And it came to pass, that after the year was expired, at the time that kings go out to battle, Joab led forth the power of the army, and wasted the country of the children of Ammon, and came and besieged Rabbah. But David tarried at Jerusalem. And Joab smote Rabbah, and destroyed it.
 
-**TDB77:** Kumpite in khuakhal sungin galsimin kuankhia zel uh hi. Tua hun hoih khuakhal hong tun’ ciangin Joab in galkapte pai khiatpihin Ammon mite’ gam sugawp a, hong pai-in Rabbah khua umcih hi. Ahih hangin Jerusalem ah David om hi. Tua ciangin Joab in Rabbah khua vatin lumlet hi.
+**TDB77:** Kumpite in khuakhal sungin galsimin kuankhia zel-te hi. Tua hun hoih khuakhal hong tun’ ciangin Joab in galkapte pai khiatpihin Ammon mite’ gam sugawp a, hong pai-in Rabbah khua umcih hi. Ahih hangin Jerusalem ah David om hi. Tua ciangin Joab in Rabbah khua vatin lumlet hi.
 
-**ZVS:** Khuakhal sungin galsimin kumpite kuankhia zel uh hi. Tua bang hunhoih khuakhal hong tun' ciangin Joab in galkapte kuan khiatpihin Ammon mite' gam sugawp a, hong pai-in Rabbah khua umcih hi. Ahih hangin Jerusalem-ah David om hi. Tua ciangin Joab in Rabbah khua vatin lumlet hi.
+**ZVS:** Khuakhal sungin galsimin kumpite kuankhia zel-te hi. Tua bang hunhoih khuakhal hong tun' ciangin Joab in galkapte kuan khiatpihin Ammon mite' gam sugawp a, hong pai-in Rabbah khua umcih hi. Ahih hangin Jerusalem-ah David om hi. Tua ciangin Joab in Rabbah khua vatin lumlet hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -39,9 +39,9 @@
 ### v3
 **EN:** And he brought out the people that were in it, and cut them with saws, and with harrows of iron, and with axes. Even so dealt David with all the cities of the children of Ammon. And David and all the people returned to Jerusalem.
 
-**TDB77:** Tua ciangin amah in tua sunga om mite pai khiatpihin sing-atnate leh tuzumte leh heite tawh na a sem dingin koih hi; tua bangin Ammon mite’ khuapite khempeuh ah David in hih hi. Tua ciangin David leh mi khempeuh Jerusalem ah ciah uh hi.
+**TDB77:** Tua ciangin amah in tua sunga om mite pai khiatpihin sing-atnate leh tuzumte leh heite tawh na a sem dingin koih hi; tua bangin Ammon mite’ khuapite khempeuh ah David in hih hi. Tua ciangin David leh mi khempeuh Jerusalem ah ciah-te hi.
 
-**ZVS:** Tua ciangin amah in tua sunga om mite paikhiatpihin singatnate leh tuzumte leh heite tawh na a sem dingin a koih hi. Tua bangin Ammon mite' khuapite khempeuhah David in hih hi. Tua ciangin David leh mi khempeuh Jerusalem-ah a ciah uh hi.
+**ZVS:** Tua ciangin amah in tua sunga om mite paikhiatpihin singatnate leh tuzumte leh heite tawh na a sem dingin a koih hi. Tua bangin Ammon mite' khuapite khempeuhah David in hih hi. Tua ciangin David leh mi khempeuh Jerusalem-ah a ciah-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -82,9 +82,9 @@
 ### v8
 **EN:** These were born unto the giant in Gath; and they fell by the hand of David, and by the hand of his servants.
 
-**TDB77:** Hihte in Gath a, mithagolte sung pana hong piang ahi uh hi; David leh a nasemte’ khutin amaute puk uh hi.
+**TDB77:** Hihte in Gath a, mithagolte sung pana hong piang ahi-te hi; David leh a nasemte’ khutin amaute puk-te hi.
 
-**ZVS:** Hih mi thumte pen Gath-a mithagolte sung pana hong piang ahi uh hi. David leh a nasemte' khutin amaute puk uh hi.
+**ZVS:** Hih mi thumte pen Gath-a mithagolte sung pana hong piang ahi-te hi. David leh a nasemte' khutin amaute puk-te hi.
 
 **Grammar:** plural: uh marker
 

@@ -35,9 +35,9 @@
 ### v2
 **EN:** The beginning of the word of the
 
-**TDB77:** Topa in Hosea tung tawnin Israelte tungah thu a na gen cil lai-in, amah in Hosea kiangah, “Hih gam mite kei tungah citak loin pasian dangte bia uh ahih manin, nang zong hong tulpih lo ding numei paktat khat ten’pih in la, tua nu tawh ta nei in,” a ci hi.
+**TDB77:** Topa in Hosea tung tawnin Israelte tungah thu a na gen cil lai-in, amah in Hosea kiangah, “Hih gam mite kei tungah citak loin pasian dangte bia-te ahih manin, nang zong hong tulpih lo ding numei paktat khat ten’pih in la, tua nu tawh ta nei in,” a ci hi.
 
-**ZVS:** { Topa } in Hosea tung tawnin Israel-te tungah thu a na gencil lai-in, amah in Hosea kiangah, “Hih gammite kei tungah citakloin pasian dangte bia uh ahih manin, nang zong hong tulpihlo ding numei paktat khat ten'pih in la, tuanu tawh ta nei in,” a ci hi.
+**ZVS:** { Topa } in Hosea tung tawnin Israel-te tungah thu a na gencil lai-in, amah in Hosea kiangah, “Hih gammite kei tungah citakloin pasian dangte bia-te ahih manin, nang zong hong tulpihlo ding numei paktat khat ten'pih in la, tuanu tawh ta nei in,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | reciprocal: ki- prefix
 
@@ -71,9 +71,9 @@
 ### v6
 **EN:** And she conceived again, and bare a daughter. And God said unto him, Call her name Lo–ruhamah: for I will no more have mercy upon the house of Israel; but I will utterly take them away.
 
-**TDB77:** Tua ciangin Gomer gai kikin tanu khat nei hi. Topa in zong Hosea kiangah, “Na tanu’ min dingin hehpih loh, a cih nopna Lo-ruhamah phuak in; bang hang hiam cih leh Israel mite ka hehpih nawn kei ding a, a mawhna uh ka maisak kei ding hi.
+**TDB77:** Tua ciangin Gomer gai kikin tanu khat nei hi. Topa in zong Hosea kiangah, “Na tanu’ min dingin hehpih loh, a cih nopna Lo-ruhamah phuak in; bang hang hiam cih leh Israel mite ka hehpih nawn kei ding a, a mawhna-te ka maisak kei ding hi.
 
-**ZVS:** Tua ciangin Gomer gaikikin tanu khat nei hi. { Topa } in zong Hosea kiang-ah, “Na tanu' min dingin hehpihloh, a cihnopna Loruhamah phuak in; bang hang hiam cih leh Israel mite ka hehpih nawn kei ding a, a mawhna uh ka maisak het kei ding hi.
+**ZVS:** Tua ciangin Gomer gaikikin tanu khat nei hi. { Topa } in zong Hosea kiang-ah, “Na tanu' min dingin hehpihloh, a cihnopna Loruhamah phuak in; bang hang hiam cih leh Israel mite ka hehpih nawn kei ding a, a mawhna-te ka maisak het kei ding hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix
 
@@ -98,27 +98,27 @@
 ### v9
 **EN:** Then said God, Call his name Lo–ammi: for ye are not my people, and I will not be your God.
 
-**TDB77:** Tua ciangin Topa in, “Na tapa’ min dingin ka mi hi lo, a cih nopna Loammi phuak in; bang hang hiam cih leh no Israel mite, ka mi na hi kei uh a, keimah in note’ Pasian ka hi kei hi,” a ci hi.
+**TDB77:** Tua ciangin Topa in, “Na tapa’ min dingin ka mi hi lo, a cih nopna Loammi phuak in; bang hang hiam cih leh no Israel mite, ka mi na hi kei-te a, keimah in note’ Pasian ka hi kei hi,” a ci hi.
 
-**ZVS:** Tua ciangin { Topa } in, “Na tapa' min dingin ka mi hilo a cihnopna Loammi phuak in; bang hang hiam cih leh no Israel mite, ka mi na hi nawn kei uh a, kei zong note' Pasian ka hi kei hi,” a ci hi.
+**ZVS:** Tua ciangin { Topa } in, “Na tapa' min dingin ka mi hilo a cihnopna Loammi phuak in; bang hang hiam cih leh no Israel mite, ka mi na hi nawn kei-te a, kei zong note' Pasian ka hi kei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | negation: kei | plural: uh marker
 
 ### v10
 **EN:** Yet the number of the children of Israel shall be as the sand of the sea, which cannot be measured nor numbered; and it shall come to pass, that in the place where it was said unto them, Ye are not my people, there it shall be said unto them, Ye are the sons of the living God.
 
-**TDB77:** Ahi zongin, teh zawh loh, sim zawh loh zah dongin tuipi sehnel bangin Israel mite tampi pha ding uh a, tu hunin, “Note ka mi hi lo,” a kicih hangin ni khat ni ciangin, “A nungta Pasian’ tate,” kici ding hi.
+**TDB77:** Ahi zongin, teh zawh loh, sim zawh loh zah dongin tuipi sehnel bangin Israel mite tampi pha ding-te a, tu hunin, “Note ka mi hi lo,” a kicih hangin ni khat ni ciangin, “A nungta Pasian’ tate,” kici ding hi.
 
-**ZVS:** Ahi zongin, tehzawhloh, sim-zawhloh zah dongin tuipi sehnel bangin Israel mite tampi pha ding uh a, tua hunin, “Note ka mi hilo,” a kicih hangin ni khat ni ciangin, “A nungta Pasian' tate,” kici ding hi.
+**ZVS:** Ahi zongin, tehzawhloh, sim-zawhloh zah dongin tuipi sehnel bangin Israel mite tampi pha ding-te a, tua hunin, “Note ka mi hilo,” a kicih hangin ni khat ni ciangin, “A nungta Pasian' tate,” kici ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Then shall the children of Judah and the children of Israel be gathered together, and appoint themselves one head, and they shall come up out of the land: for great shall be the day of Jezreel.
 
-**TDB77:** Judah mite leh Israel mite kigawm kik ding uh a, amaute a makai dingin mi khat seh ding uh hi; amaute khangin ci-thei kik ding uh a, tua Jezre-el hun pen a nuam mahmah hun hi ding hi.
+**TDB77:** Judah mite leh Israel mite kigawm kik ding-te a, amaute a makai dingin mi khat seh ding-te hi; amaute khangin ci-thei kik ding-te a, tua Jezre-el hun pen a nuam mahmah hun hi ding hi.
 
-**ZVS:** Judah mite leh Israel mite kigawmkik ding uh a, amaute a makai dingin mi khat a seh ding uh hi. Amaute khangin citheikik ding uh a, tua Jezreel hun pen a nuam mahmah hun hi ding hi.
+**ZVS:** Judah mite leh Israel mite kigawmkik ding-te a, amaute a makai dingin mi khat a seh ding-te hi. Amaute khangin citheikik ding-te a, tua Jezreel hun pen a nuam mahmah hun hi ding hi.
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

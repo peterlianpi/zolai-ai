@@ -35,7 +35,7 @@
 ### v3
 **EN:** And to speak unto the priests which were in the house of the
 
-**TDB77:** Bethel khuamite in, { Topa' } tung panin thupha a ngen ding, leh Vanglian { Topa' } biakinn sunga a om siampite leh kamsangte tungah, “A beisa kum tampi sung ka hihsa uh mah bangin biakinn siatna hangin kapkap lai-in, kha ngana sungin an na tangtanglai ding ka hi uh hiam?” ci-in a dong dingin Sharezer leh Regemmelek, leh a mite uh na sawl uh hi.
+**TDB77:** Bethel khuamite in, { Topa' } tung panin thupha a ngen ding, leh Vanglian { Topa' } biakinn sunga a om siampite leh kamsangte tungah, “A beisa kum tampi sung ka hihsa-te mah bangin biakinn siatna hangin kapkap lai-in, kha ngana sungin an na tangtanglai ding ka hi-te hiam?” ci-in a dong dingin Sharezer leh Regemmelek, leh a mite-te na sawl-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -51,18 +51,18 @@
 ### v5
 **EN:** Speak unto all the people of the land, and to the priests, saying, When ye fasted and mourned in the fifth and seventh month, even those seventy years, did ye at all fast unto me, even to me?
 
-**TDB77:** “Gam sung mi khempeuh leh siampite tungah hih bangin gen in: Amaute in a beisa kum sawmsagih sung kha ngana leh kha sagihna sungin an tangin a kahna uh, kei hong pahtawina uh hi lo hi.
+**TDB77:** “Gam sung mi khempeuh leh siampite tungah hih bangin gen in: Amaute in a beisa kum sawmsagih sung kha ngana leh kha sagihna sungin an tangin a kahna uh, kei hong pahtawina-te hi lo hi.
 
-**ZVS:** “Gamsung mi khempeuh leh siampite tungah hih bangin gen in: Amaute in a beisa kum sawmsagih sung kha ngana leh kha sagihna sungin an tangin a kahna uh, kei hong pahtawina uh hilo hi.
+**ZVS:** “Gamsung mi khempeuh leh siampite tungah hih bangin gen in: Amaute in a beisa kum sawmsagih sung kha ngana leh kha sagihna sungin an tangin a kahna uh, kei hong pahtawina-te hilo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v6
 **EN:** And when ye did eat, and when ye did drink, did not ye eat for yourselves, and drink for yourselves?
 
-**TDB77:** A an nek a tui dawnte uh zong amau’ duh man bek hi,” hong ci hi.
+**TDB77:** A an nek a tui dawnte-te zong amau’ duh man bek hi,” hong ci hi.
 
-**ZVS:** A annek a tuidawnte uh zong, amau' duh man bek ahi hi,” hong ci hi.
+**ZVS:** A annek a tuidawnte-te zong, amau' duh man bek ahi hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying
 
@@ -94,45 +94,45 @@
 ### v10
 **EN:** And oppress not the widow, nor the fatherless, the stranger, nor the poor; and let none of you imagine evil against his brother in your heart.
 
-**TDB77:** note lakah a om meigong, tagah, gamdang mite, ahih kei leh mi zawngte gim pia loin, khat leh khat kisiatsak nading na ngaihsut loh nading uh thu ka hong pia zo hi,” ci hi.
+**TDB77:** note lakah a om meigong, tagah, gamdang mite, ahih kei leh mi zawngte gim pia loin, khat leh khat kisiatsak nading na ngaihsut loh nading-te thu ka hong pia zo hi,” ci hi.
 
-**ZVS:** note lakah a om meigong, tagah, gamdang mite, ahih kei leh mizawngte gim pialoin, khatlekhat kiliatsakna ding na ngaihsut lohna ding uh thu ka hong piazo hi,” a ci hi.
+**ZVS:** note lakah a om meigong, tagah, gamdang mite, ahih kei leh mizawngte gim pialoin, khatlekhat kiliatsakna ding na ngaihsut lohna ding-te thu ka hong piazo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
 ### v11
 **EN:** But they refused to hearken, and pulled away the shoulder, and stopped their ears, that they should not hear.
 
-**TDB77:** Ahi zongin amaute in mang nuam het lo uh a, hih thute ngaihsutin zong nei nuam lo uh hi.
+**TDB77:** Ahi zongin amaute in mang nuam het lo-te a, hih thute ngaihsutin zong nei nuam lo-te hi.
 
-**ZVS:** Ahi zongin amaute in mang nuam hetlo uh a, hih thute ngaihsutin zong nei nuamlo uh hi.
+**ZVS:** Ahi zongin amaute in mang nuam hetlo-te a, hih thute ngaihsutin zong nei nuamlo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v12
 **EN:** Yea, they made their hearts as an adamant stone, lest they should hear the law, and the words which the
 
-**TDB77:** Amaute in a lungsim uh suangtum bangin saksak uh a, Vanglianpen Topa in taanglai kamsangte tung tawnin a Kha Siangtho tawh a gen thuhilhnate ngai nuam lo uh hi. Tua ahih manin Topa heh mahmah hi.
+**TDB77:** Amaute in a lungsim-te suangtum bangin saksak-te a, Vanglianpen Topa in taanglai kamsangte tung tawnin a Kha Siangtho tawh a gen thuhilhnate ngai nuam lo-te hi. Tua ahih manin Topa heh mahmah hi.
 
-**ZVS:** Amaute in a lungsim uh suangtum bangin sak sak uh a, Vanglian { Topa } in tanglai kamsangte' tung tawnin a gen thuhilhnate ngai nuamlo uh hi. Tua ahih manin { Topa } heh mahmah hi.
+**ZVS:** Amaute in a lungsim-te suangtum bangin sak sak-te a, Vanglian { Topa } in tanglai kamsangte' tung tawnin a gen thuhilhnate ngai nuamlo-te hi. Tua ahih manin { Topa } heh mahmah hi.
 
 **Grammar:** intensifier: very/greatly | negation: lo | causal: because | plural: uh marker
 
 ### v13
 **EN:** Therefore it is come to pass, that as he cried, and they would not hear; so they cried, and I would not hear, saith the
 
-**TDB77:** Amaute ka hopih ciangin hong ngai nuam lo uh hi; kei zong amaute’ hong thungetna ka ngai kei ding hi, Topa in ci hi.
+**TDB77:** Amaute ka hopih ciangin hong ngai nuam lo-te hi; kei zong amaute’ hong thungetna ka ngai kei ding hi, Topa in ci hi.
 
-**ZVS:** Amaute ka hopih ciangin hong ngai nuamlo uh hi; kei zong amaute' hong thungetna ka ngai kei ding hi, Vanglian { Topa } in ci hi.
+**ZVS:** Amaute ka hopih ciangin hong ngai nuamlo-te hi; kei zong amaute' hong thungetna ka ngai kei ding hi, Vanglian { Topa } in ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | negation: lo | plural: uh marker
 
 ### v14
 **EN:** But I scattered them with a whirlwind among all the nations whom they knew not. Thus the land was desolate after them, that no man passed through nor returned: for they laid the pleasant land desolate.
 
-**TDB77:** Tua ahih manin Topa in “Huihpi’ mut khiat bangin amaute thehthang gawpin, a theih ngei lohna uh gam dangah amaute teeng ding uh hi. Amau’ nusiat leitang hoih in zong gamkhing suak ding a, a sungah kuamah om nawn loin daicip ding hi,” a ci hi.
+**TDB77:** Tua ahih manin Topa in “Huihpi’ mut khiat bangin amaute thehthang gawpin, a theih ngei lohna-te gam dangah amaute teeng ding-te hi. Amau’ nusiat leitang hoih in zong gamkhing suak ding a, a sungah kuamah om nawn loin daicip ding hi,” a ci hi.
 
-**ZVS:** Tua ahih manin { Topa } in, “Huihpi' mutkhiat bangin amaute thehthang gawpin, a theihngei nailohna uh gamdangah amaute teng ding uh hi. Amau' nusiat leitang hoih zong gamkhing suak ding a, a tungah kuamah om nawnloin daicip ding hi,” a ci hi.
+**ZVS:** Tua ahih manin { Topa } in, “Huihpi' mutkhiat bangin amaute thehthang gawpin, a theihngei nailohna-te gamdangah amaute teng ding-te hi. Amau' nusiat leitang hoih zong gamkhing suak ding a, a tungah kuamah om nawnloin daicip ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | plural: uh marker
 

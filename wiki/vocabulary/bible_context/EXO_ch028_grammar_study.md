@@ -50,18 +50,18 @@
 ### v4
 **EN:** And these are the garments which they shall make; a breastplate, and an ephod, and a robe, and a broidered coat, a mitre, and a girdle: and they shall make holy garments for Aaron thy brother, and his sons, that he may minister unto me in the priest's office.
 
-**TDB77:** Hihte in amaute’ bawl ding puante ahi hi: awmdal khat, siampipuan khat, puantualpi khat, sikli nei-a a gial puantungsilh khat, dialpi khat leh kawnggak khat ahi hi; keima' tungah siampi na a sem ding na sanggampa Aaron leh ama' tapate’ adingin amaute in biakna puan siangthote bawl ding uh hi.
+**TDB77:** Hihte in amaute’ bawl ding puante ahi hi: awmdal khat, siampipuan khat, puantualpi khat, sikli nei-a a gial puantungsilh khat, dialpi khat leh kawnggak khat ahi hi; keima' tungah siampi na a sem ding na sanggampa Aaron leh ama' tapate’ adingin amaute in biakna puan siangthote bawl ding-te hi.
 
-**ZVS:** Amaute' bawl ding puante: Awmdal khat, siampipuan khat, puantualpi khat, sikli nei-a a gial puantungsilh khat, dialpi khat leh kawnggak khat ahi hi. Keima tungah siampi na a sem ding na sanggampa Aaron leh ama tapate-a' dingin amaute in biakna puan siangthote bawl ding uh hi.
+**ZVS:** Amaute' bawl ding puante: Awmdal khat, siampipuan khat, puantualpi khat, sikli nei-a a gial puantungsilh khat, dialpi khat leh kawnggak khat ahi hi. Keima tungah siampi na a sem ding na sanggampa Aaron leh ama tapate-a' dingin amaute in biakna puan siangthote bawl ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v5
 **EN:** And they shall take gold, and blue, and purple, and scarlet, and fine linen.
 
-**TDB77:** “Amaute in kham, a dum, a dupsan, a ausan khaute leh a kop-a kikhuk tawh a kigan puan hoihte zang ding uh hi.
+**TDB77:** “Amaute in kham, a dum, a dupsan, a ausan khaute leh a kop-a kikhuk tawh a kigan puan hoihte zang ding-te hi.
 
-**ZVS:** Amaute in kham, a dum, a dupsan, a ausan khaute leh a kopin a kikhuk tawh a kigan puan hoihte sang ding uh hi.
+**ZVS:** Amaute in kham, a dum, a dupsan, a ausan khaute leh a kopin a kikhuk tawh a kigan puan hoihte sang ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -70,7 +70,7 @@
 
 **TDB77:** Amaute in siampipuan pen, kham, a dum, a dupsan, a ausan khaute leh a kop-a kikhuk a kigan puan hoihte tawh bawlin hoih takin a kibawl hi ding hi.
 
-**ZVS:** “Amaute in siampipuan pen, kham, a dum, a dupsan, a ausan tuumul khaute leh a kopin a kikhuk a kigan puan hoihte tawh bawl ding uh a, hoihtakin a kibawl hi ding hi.
+**ZVS:** “Amaute in siampipuan pen, kham, a dum, a dupsan, a ausan tuumul khaute leh a kopin a kikhuk a kigan puan hoihte tawh bawl ding-te a, hoihtakin a kibawl hi ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -264,9 +264,9 @@
 ### v28
 **EN:** And they shall bind the breastplate by the rings thereof unto the rings of the ephod with a lace of blue, that it may be above the curious girdle of the ephod, and that the breastplate be not loosed from the ephod.
 
-**TDB77:** Hoih taka a kigan siampipuan’ khau tungah a om theih nading leh siampipuan tung panin awmdal a kol theih loh nadingin amaute in siampipuan’ kual-ah khau dum khat-in a kual tawh gak ding uh hi.
+**TDB77:** Hoih taka a kigan siampipuan’ khau tungah a om theih nading leh siampipuan tung panin awmdal a kol theih loh nadingin amaute in siampipuan’ kual-ah khau dum khat-in a kual tawh gak ding-te hi.
 
-**ZVS:** Hoihtakin a kigan siampipuan' khau tungah a om theihna ding leh siampipuan tung panin awmdal a kol theihlohna dingin amaute in siampipuan' kualah khaudum khatin a kual tawh gakkhawm ding uh hi.
+**ZVS:** Hoihtakin a kigan siampipuan' khau tungah a om theihna ding leh siampipuan tung panin awmdal a kol theihlohna dingin amaute in siampipuan' kualah khaudum khatin a kual tawh gakkhawm ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -354,9 +354,9 @@
 ### v38
 **EN:** And it shall be upon Aaron's forehead, that Aaron may bear the iniquity of the holy things, which the children of Israel shall hallow in all their holy gifts; and it shall be always upon his forehead, that they may be accepted before the
 
-**TDB77:** Tua pen Aaron’ taltang-ah om ding a, Israel mite in letsong siangtho a piakna uh ahi, a siangtho biak piakna-ah mawhna a om peuhmah Aaron in ama' tungah khu ding hi; Topa’ mai-ah amaute a kisan’ theih nadingin ama' taltang tungah tua a peek om tawntung ding hi.
+**TDB77:** Tua pen Aaron’ taltang-ah om ding a, Israel mite in letsong siangtho a piakna-te ahi, a siangtho biak piakna-ah mawhna a om peuhmah Aaron in ama' tungah khu ding hi; Topa’ mai-ah amaute a kisan’ theih nadingin ama' taltang tungah tua a peek om tawntung ding hi.
 
-**ZVS:** Tua pen Aaron' taltangah om ding a, Israel mite in letsong siangtho a piakna uh ahi, a siangtho biakpiakna-ah mawhna a om peuhmah Aaron in ama tungah pua ding hi. { Topa' } mai-ah amaute a kisan' theihna dingin ama taltang tungah tua a peek om tawntung ding hi.
+**ZVS:** Tua pen Aaron' taltangah om ding a, Israel mite in letsong siangtho a piakna-te ahi, a siangtho biakpiakna-ah mawhna a om peuhmah Aaron in ama tungah pua ding hi. { Topa' } mai-ah amaute a kisan' theihna dingin ama taltang tungah tua a peek om tawntung ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -390,18 +390,18 @@
 ### v42
 **EN:** And thou shalt make them linen breeches to cover their nakedness; from the loins even unto the thighs they shall reach:
 
-**TDB77:** A ci guak-a a omna uh a tuam dingin amau adingin puan hoihte tawh pheituamte na bawlsak ding hi; tuate in kawng panin phei ciang ban ding hi;
+**TDB77:** A ci guak-a a omna-te a tuam dingin amau adingin puan hoihte tawh pheituamte na bawlsak ding hi; tuate in kawng panin phei ciang ban ding hi;
 
-**ZVS:** A ci guakin a omna uh a tuam dingin amau-a' dingin puan hoihte tawh pheituamte na bawlsak ding a, tuate in kawng panin phei ciang ban ding hi.
+**ZVS:** A ci guakin a omna-te a tuam dingin amau-a' dingin puan hoihte tawh pheituamte na bawlsak ding a, tuate in kawng panin phei ciang ban ding hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v43
 **EN:** And they shall be upon Aaron, and upon his sons, when they come in unto the tabernacle of the congregation, or when they come near unto the altar to minister in the holy place; that they bear not iniquity, and die: it shall be a statute for ever unto him and his seed after him.
 
-**TDB77:** amaute kikhopna buk-ah a pai ciang uh ahi a, siangtho mun-ah nasem dingin biakna tau nai-ah a pai ciang uh ahi zongin, Aaron leh ama' tapate in tuate silh ding uh hi; tua hi kei leh amaute in amau' tung mah-ah mawhna a kisuantawm suakin si ding uh hi. Hih in amah leh ama khit cianga a suan-le-khakte adingin a om tawntung ngeina kip khat hi ding hi.
+**TDB77:** amaute kikhopna buk-ah a pai ciang-te ahi a, siangtho mun-ah nasem dingin biakna tau nai-ah a pai ciang-te ahi zongin, Aaron leh ama' tapate in tuate silh ding-te hi; tua hi kei leh amaute in amau' tung mah-ah mawhna a kisuantawm suakin si ding-te hi. Hih in amah leh ama khit cianga a suan-le-khakte adingin a om tawntung ngeina kip khat hi ding hi.
 
-**ZVS:** Kikhopna bukah amaute a pai ciang uh ahi a, siangtho munah nasem dingin biakna tau nai-ah a pai ciang uh ahi zongin, Aaron leh ama tapate in tuate a silh ding uh hi. Tua hi kei leh amaute in amau tung mahah mawhna a kisuan tawm suakin si ding uh hi. Hih pen amah leh ama khit ciangin a suanlekhakte-a' dingin a om tawntung ngeina kip khat hi ding hi.
+**ZVS:** Kikhopna bukah amaute a pai ciang-te ahi a, siangtho munah nasem dingin biakna tau nai-ah a pai ciang-te ahi zongin, Aaron leh ama tapate in tuate a silh ding-te hi. Tua hi kei leh amaute in amau tung mahah mawhna a kisuan tawm suakin si ding-te hi. Hih pen amah leh ama khit ciangin a suanlekhakte-a' dingin a om tawntung ngeina kip khat hi ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

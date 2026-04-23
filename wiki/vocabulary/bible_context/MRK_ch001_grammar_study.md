@@ -56,16 +56,16 @@
 
 **TDB77:** Johan hong kilang a, gampa lakah baptaiz a, mawh kimaisak nadingin, mawhna kisik kikna thu leh baptaizna thu a hilh hi.
 
-**ZVS:** Tua mah bangin gamsungah Johan hong vak a, mawhna kisikin tui kiphum un; tua hi leh na mawhna uh Pasian in hong maisak ding hi, ci-in thu a hilh hi.
+**ZVS:** Tua mah bangin gamsungah Johan hong vak a, mawhna kisikin tui kiphum un; tua hi leh na mawhna-te Pasian in hong maisak ding hi, ci-in thu a hilh hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v5
 **EN:** And there went out unto him all the land of Judaea, and they of Jerusalem, and were all baptized of him in the river of Jordan, confessing their sins.
 
-**TDB77:** Jerusalem khuapihte akipan Judah gamah a om mi khempeuhte in ama kiangah va pai uh a, amau mawhna pulakin ama khut tungah, Jordan gun sungah a kibaptaiz uh hi.
+**TDB77:** Jerusalem khuapihte akipan Judah gamah a om mi khempeuhte in ama kiangah va pai-te a, amau mawhna pulakin ama khut tungah, Jordan gun sungah a kibaptaiz-te hi.
 
-**ZVS:** Johan' thuhilhna a ngai dingin Jerusalem khua-a kipan Judea gamsunga om mi khempeuhte a hong pai uh hi. Amaute in a mawhnate uh va pulak uh a, Jordan Gun sungah Johan in amaute a tuiphum hi.
+**ZVS:** Johan' thuhilhna a ngai dingin Jerusalem khua-a kipan Judea gamsunga om mi khempeuhte a hong pai-te hi. Amaute in a mawhnate-te va pulak-te a, Jordan Gun sungah Johan in amaute a tuiphum hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -135,9 +135,9 @@
 ### v13
 **EN:** And he was there in the wilderness forty days, tempted of Satan; and was with the wild beasts; and the angels ministered unto him.
 
-**TDB77:** Gampa lakah ni sawmli omin, Satan’ khemna thuak a, gampa lak ganhingte tawh omkhawm a; vantungmite in a vak uh hi.
+**TDB77:** Gampa lakah ni sawmli omin, Satan’ khemna thuak a, gampa lak ganhingte tawh omkhawm a; vantungmite in a vak-te hi.
 
-**ZVS:** Gamlakah ni sawmli sung om a, Satan in tua hun sungteng a ze-et hi. Tua lai-ah gamsa gilote zong om a, ahi zongin vantung mite hong pai-in amah huhin an a vak uh hi.
+**ZVS:** Gamlakah ni sawmli sung om a, Satan in tua hun sungteng a ze-et hi. Tua lai-ah gamsa gilote zong om a, ahi zongin vantung mite hong pai-in amah huhin an a vak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -155,14 +155,14 @@
 
 **TDB77:** “A hun a kicing zo hi. Pasian Gam a hong nai zo hi. Na mawhna kisikkik un la, Lungdamna Thu na um ta un,” a ci hi.
 
-**ZVS:** “A hunhoih hong tungta a, Pasian' Uk ding hun hong kipanta hi. Na mawhna uh kisikkik un la, hih Lungdamna Thuthak um un,” ci-in a hilh hi.
+**ZVS:** “A hunhoih hong tungta a, Pasian' Uk ding hun hong kipanta hi. Na mawhna-te kisikkik un la, hih Lungdamna Thuthak um un,” ci-in a hilh hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
 ### v16
 **EN:** Now as he walked by the sea of Galilee, he saw Simon and Andrew his brother casting a net into the sea: for they were fishers.
 
-**TDB77:** Galile tuili gei lamah a pai lai takin, Simon leh Andru te unau, ngabengte ahih uh ciangin tui sungah ngen paai a om uh a mu hi.
+**TDB77:** Galile tuili gei lamah a pai lai takin, Simon leh Andru te unau, ngabengte ahih-te ciangin tui sungah ngen paai a om-te a mu hi.
 
 **ZVS:** Galilee Tuili gei tawnin Jesuh a pai laitakin, Simon leh a nau Andru, ngabengte ahih manun, ngen tawh nga khuhin a om a mu hi.
 
@@ -180,9 +180,9 @@
 ### v18
 **EN:** And straightway they forsook their nets, and followed him.
 
-**TDB77:** Amaute in thakhatin a ngen uh nusia-in Zeisu nung a zui uh hi.
+**TDB77:** Amaute in thakhatin a ngen-te nusia-in Zeisu nung a zui-te hi.
 
-**ZVS:** Amaute gel in zong a ngen uh nusia-in Jesuh a zuipah uh hi.
+**ZVS:** Amaute gel in zong a ngen-te nusia-in Jesuh a zuipah-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -191,32 +191,32 @@
 
 **TDB77:** A tomkha a pai khit ciangin, Zebedi’ tate Jakob leh a nau Johan zong gunkuang sungah ngen khui-a om a muh ciangin thakhatin a sap leh,
 
-**ZVS:** Tawmkhat a pai khit ciangin Zebedi' tapa James leh a nau Johan zong, a gunkuang tung uhah a ngen uh khui-in a om a mu leuleu hi.
+**ZVS:** Tawmkhat a pai khit ciangin Zebedi' tapa James leh a nau Johan zong, a gunkuang tung uhah a ngen-te khui-in a om a mu leuleu hi.
 
 ### v20
 **EN:** And straightway he called them: and they left their father Zebedee in the ship with the hired servants, and went after him.
 
-**TDB77:** amaute in gunkuang sungah thacialte tawh a pa Zebedi nusia-in Zeisu nung a zui uh hi.
+**TDB77:** amaute in gunkuang sungah thacialte tawh a pa Zebedi nusia-in Zeisu nung a zui-te hi.
 
-**ZVS:** Jesuh in amaute a muh phetin sampah a, amaute gel in zong a pa uh Zebedi leh a thacialte uh nusia-in Jesuh' nung a zui uh hi.
+**ZVS:** Jesuh in amaute a muh phetin sampah a, amaute gel in zong a pa-te Zebedi leh a thacialte-te nusia-in Jesuh' nung a zui-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v21
 **EN:** And they went into Capernaum; and straightway on the sabbath day he entered into the synagogue, and taught.
 
-**TDB77:** Amaute Kapernaum khua-ah lut uh a, Nipi ni-in Zeisu kikhopna inn sungah thakhatin lut a, thu a hilh hi.
+**TDB77:** Amaute Kapernaum khua-ah lut-te a, Nipi ni-in Zeisu kikhopna inn sungah thakhatin lut a, thu a hilh hi.
 
-**ZVS:** Tua ciangin Kapernaum khua tung uh a, a Sabbath ni-in kikhopna inn sungah Jesuh pai-in thu hilh ding a kipan hi.
+**ZVS:** Tua ciangin Kapernaum khua tung-te a, a Sabbath ni-in kikhopna inn sungah Jesuh pai-in thu hilh ding a kipan hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And they were astonished at his doctrine: for he taught them as one that had authority, and not as the scribes.
 
-**TDB77:** Amaute in ama thuhilhna lamdang a sa uh hi. Bang hang hiam i cih leh, amah in laitheite bangin a hilh kei hi, ukpa bangin thu a hilh hi.
+**TDB77:** Amaute in ama thuhilhna lamdang a sa-te hi. Bang hang hiam i cih leh, amah in laitheite bangin a hilh kei hi, ukpa bangin thu a hilh hi.
 
-**ZVS:** A thuhilhna a za mi khempeuh in ama thugenna zia hangin lamdang a sa uh hi. Amah in Thukham hilh siate bangin thu genloin aana nei mite bangin thu a genzaw hi.
+**ZVS:** A thuhilhna a za mi khempeuh in ama thugenna zia hangin lamdang a sa-te hi. Amah in Thukham hilh siate bangin thu genloin aana nei mite bangin thu a genzaw hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -259,9 +259,9 @@
 ### v27
 **EN:** And they were all amazed, insomuch that they questioned among themselves, saying, What thing is this? what new doctrine is this? for with authority commandeth he even the unclean spirits, and they do obey him.
 
-**TDB77:** Mi khempeuhte in lamdang a sa uh a, “Hih thu in bang thu ahi hiam? Thuhilhna thak ahi hiam? Uk neihna tawh kihhuai dawite thu a piak ciangin amau in a thu a mang uh hi,” ci-in khat leh khat a kikum uh hi.
+**TDB77:** Mi khempeuhte in lamdang a sa-te a, “Hih thu in bang thu ahi hiam? Thuhilhna thak ahi hiam? Uk neihna tawh kihhuai dawite thu a piak ciangin amau in a thu a mang-te hi,” ci-in khat leh khat a kikum-te hi.
 
-**ZVS:** Mi khempeuh in lamdangsa uh a, khatlekhat in, “A bangci thu ahi hiam? Bang thuthak hilh tuan ahi hiam? Hih mipa in dawi gilote thupiakna ding aana nei a, dawi gilote in ama thu a mang uh hi,” ci-in a kikum uh hi.
+**ZVS:** Mi khempeuh in lamdangsa-te a, khatlekhat in, “A bangci thu ahi hiam? Bang thuthak hilh tuan ahi hiam? Hih mipa in dawi gilote thupiakna ding aana nei a, dawi gilote in ama thu a mang-te hi,” ci-in a kikum-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -277,16 +277,16 @@
 ### v29
 **EN:** And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John.
 
-**TDB77:** Kikhopna inn sung pan a paikhiat khit uh ciangin Simon leh Andrute’ inn sungah Jakob leh Johan tawh thakhatin a tum uh hi.
+**TDB77:** Kikhopna inn sung pan a paikhiat khit-te ciangin Simon leh Andrute’ inn sungah Jakob leh Johan tawh thakhatin a tum-te hi.
 
-**ZVS:** Tua ciangin kikhopna inn panin amaute paikhia-in Simon leh a nau Andru' inn-ah paisuakpah uh a, James leh a nau Johan in zong a zui uh hi.
+**ZVS:** Tua ciangin kikhopna inn panin amaute paikhia-in Simon leh a nau Andru' inn-ah paisuakpah-te a, James leh a nau Johan in zong a zui-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** But Simon's wife's mother lay sick of a fever, and anon they tell him of her.
 
-**TDB77:** Simon’ sungnu nattun’a, lumin a om hi. Amau in thakhatin Zeisu a ko uh hi.
+**TDB77:** Simon’ sungnu nattun’a, lumin a om hi. Amau in thakhatin Zeisu a ko-te hi.
 
 **ZVS:** Simon' sungnu nattunin lupna ngak a, Jesuh a tun'phetin tuanu' natna thu ama kiangah kigen hi.
 
@@ -302,18 +302,18 @@
 ### v32
 **EN:** And at even, when the sun did set, they brought unto him all that were diseased, and them that were possessed with devils.
 
-**TDB77:** Ni tum a, nitak ciangin cinatna a vei khempeuh leh a sungah dawi lutte Zeisu kiangah paipih uh a;
+**TDB77:** Ni tum a, nitak ciangin cinatna a vei khempeuh leh a sungah dawi lutte Zeisu kiangah paipih-te a;
 
-**ZVS:** Tua nitak lam, ni a tum khit ciangin mite in Jesuh kiangah cina khempeuh leh dawivei khempeuh a hong paipih uh hi.
+**ZVS:** Tua nitak lam, ni a tum khit ciangin mite in Jesuh kiangah cina khempeuh leh dawivei khempeuh a hong paipih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v33
 **EN:** And all the city was gathered together at the door.
 
-**TDB77:** khua zangpi-in kongkhak kiangah a kikhawm uh hi.
+**TDB77:** khua zangpi-in kongkhak kiangah a kikhawm-te hi.
 
-**ZVS:** Tua khuami khempeuh a inntualah hong kikhawm uh hi.
+**ZVS:** Tua khuami khempeuh a inntualah hong kikhawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -322,7 +322,7 @@
 
 **TDB77:** Zeisu in cinatna nam tuamtuam a vei tampi damsak a, dawi tampi a hawlkhia hi. Dawite in Zeisu a theih manun ah kamkhat beek gen lo dingin a kham hi.
 
-**ZVS:** Jesuh in natna namkim a vei mi tampi damsak a, dawi tampi tak zong a hawlkhia hi. Dawite in Jesuh thei uh ahih manin, Jesuh in dawite thu gensaklo hi.
+**ZVS:** Jesuh in natna namkim a vei mi tampi damsak a, dawi tampi tak zong a hawlkhia hi. Dawite in Jesuh thei-te ahih manin, Jesuh in dawite thu gensaklo hi.
 
 **Grammar:** causative: -sak suffix | purpose: in order to
 
@@ -338,25 +338,25 @@
 ### v36
 **EN:** And Simon and they that were with him followed after him.
 
-**TDB77:** Simon leh amah tawh a omkhawm mite in zui uh a,
+**TDB77:** Simon leh amah tawh a omkhawm mite in zui-te a,
 
-**ZVS:** Ahi zongin Simon leh a lawmte in Jesuh a zong dingin nungzuih uh a,
+**ZVS:** Ahi zongin Simon leh a lawmte in Jesuh a zong dingin nungzuih-te a,
 
 **Grammar:** plural: uh marker
 
 ### v37
 **EN:** And when they had found him, they said unto him, All men seek for thee.
 
-**TDB77:** Zeisu a muh uh ciangin, “Mi khempeuh in nang hong zong uh hi,” a ci uh hi.
+**TDB77:** Zeisu a muh-te ciangin, “Mi khempeuh in nang hong zong-te hi,” a ci-te hi.
 
-**ZVS:** amah a muh uh ciangin, “Mi khempeuh in nang hong kan uh hi,” a ci uh hi.
+**ZVS:** amah a muh-te ciangin, “Mi khempeuh in nang hong kan-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v38
 **EN:** And he said unto them,
 
-**TDB77:** Ahih hangin Zeisu in, “Thuhilh dingin hih kiim nai khua dangte ah zong pai ni. Bang hang hiam na cih uh leh, tua bang deihna-in kei ka hong pai zo hi,” ci-in amau kiangah a gen hi.
+**TDB77:** Ahih hangin Zeisu in, “Thuhilh dingin hih kiim nai khua dangte ah zong pai ni. Bang hang hiam na cih-te leh, tua bang deihna-in kei ka hong pai zo hi,” ci-in amau kiangah a gen hi.
 
 **ZVS:** Ahih hangin Jesuh in, “Hih kimnai-a om khuadangte-ah pai ni. Keima hong paina pen thuhilh ding ahih manin tua khuate-ah thu ka hilh ding hi,” a ci hi.
 
@@ -367,7 +367,7 @@
 
 **TDB77:** Amah in Galile gam khempeuh kikhopna inn tengah pai kawikawi a, thu hilhin dawite a hawlkhia hi.
 
-**ZVS:** Tua ahih ciangin Galilee gamsung khempeuhah amah zin a, a kikhopna uh innte-ah thu hilhin dawite a hawlkhia hi.
+**ZVS:** Tua ahih ciangin Galilee gamsung khempeuhah amah zin a, a kikhopna-te innte-ah thu hilhin dawite a hawlkhia hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -417,9 +417,9 @@
 ### v45
 **EN:** But he went out, and began to publish it much, and to blaze abroad the matter, insomuch that Jesus could no more openly enter into the city, but was without in desert places: and they came to him from every quarter.
 
-**TDB77:** Ahih hangin tua pa paikhia a, a thu genthangin a kizeelsak hi. Tua ahih ciangin Zeisu in a nung ciangin a kilangin khua sungah tum thei lo a, khuanawl gampa lakah a om hi. Mun khempeuh panin a kiangah mite a pai uh hi.
+**TDB77:** Ahih hangin tua pa paikhia a, a thu genthangin a kizeelsak hi. Tua ahih ciangin Zeisu in a nung ciangin a kilangin khua sungah tum thei lo a, khuanawl gampa lakah a om hi. Mun khempeuh panin a kiangah mite a pai-te hi.
 
-**ZVS:** Ahih hangin a mipa paikhia-in a paina khempeuhah hih thupiang khempeuh gen belin a nei hi. Hih thu nakgen lua-in kitheithang gawp ahih manin, tua huna kipanin mite' theihin khuasungah Jesuh lut thei nawnlo hi. Tua ahih manin gamdaihna munah amah om a, mun khempeuh panin ama kiangah mite a hong pai uh hi.
+**ZVS:** Ahih hangin a mipa paikhia-in a paina khempeuhah hih thupiang khempeuh gen belin a nei hi. Hih thu nakgen lua-in kitheithang gawp ahih manin, tua huna kipanin mite' theihin khuasungah Jesuh lut thei nawnlo hi. Tua ahih manin gamdaihna munah amah om a, mun khempeuh panin ama kiangah mite a hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

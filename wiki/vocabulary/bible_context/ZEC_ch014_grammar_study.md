@@ -25,9 +25,9 @@
 ### v1
 **EN:** Behold, the day of the
 
-**TDB77:** Topa in na hong sep hun hong tung ding hi. Jerusalem khuapi kiluh gawpin, note’ muh mahmahin a na lakte uh hawm ding uh hi.
+**TDB77:** Topa in na hong sep hun hong tung ding hi. Jerusalem khuapi kiluh gawpin, note’ muh mahmahin a na lakte-te hawm ding-te hi.
 
-**ZVS:** { Topa } in na hong sep hun hong tung ding hi. Jerusalem khuapi kiluh gawpin, note' muh mahmahin a na lakte uh hawm ding uh hi.
+**ZVS:** { Topa } in na hong sep hun hong tung ding hi. Jerusalem khuapi kiluh gawpin, note' muh mahmahin a na lakte-te hawm ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -95,9 +95,9 @@
 ### v9
 **EN:** And the
 
-**TDB77:** Tua ciangin Topa pen leitung khempeuh’ kumpi suak ding a, mi khempeuh in amah bek thei-in bia ding uh hi.
+**TDB77:** Tua ciangin Topa pen leitung khempeuh’ kumpi suak ding a, mi khempeuh in amah bek thei-in bia ding-te hi.
 
-**ZVS:** Tua ciangin { Topa } pen leitung khempeuh' kumpi suak ding a, mi khempeuh in amah bek thei-in bia ding uh hi.
+**ZVS:** Tua ciangin { Topa } pen leitung khempeuh' kumpi suak ding a, mi khempeuh in amah bek thei-in bia ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -113,36 +113,36 @@
 ### v11
 **EN:** And men shall dwell in it, and there shall be no more utter destruction; but Jerusalem shall be safely inhabited.
 
-**TDB77:** Tua khuapi sungah lungmuang takin mi teeng ding uh a, lauhuaina tuak kha nawn lo ding uh hi.
+**TDB77:** Tua khuapi sungah lungmuang takin mi teeng ding-te a, lauhuaina tuak kha nawn lo ding-te hi.
 
-**ZVS:** Tua khuapi sungah lungmuang takin mi teng ding uh a, lauhuaina tuakkha nawnlo ding uh hi.
+**ZVS:** Tua khuapi sungah lungmuang takin mi teng ding-te a, lauhuaina tuakkha nawnlo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v12
 **EN:** And this shall be the plague wherewith the
 
-**TDB77:** Tua ciangin Jerusalem khuapi a sim minam dang khempeuhte tungah Topa in gimna lianpi tungsak ding hi. A khe-un a ding thei kimlai mahin a sa uh muat mang ding a, a mitkhuk sung uhah a mittangte uh muatin, a kam sung uhah a leiite uh muat ding hi.
+**TDB77:** Tua ciangin Jerusalem khuapi a sim minam dang khempeuhte tungah Topa in gimna lianpi tungsak ding hi. A khe-un a ding thei kimlai mahin a sa-te muat mang ding a, a mitkhuk sung uhah a mittangte-te muatin, a kam sung uhah a leiite-te muat ding hi.
 
-**ZVS:** Tua ciangin Jerusalem khuapi a sim minam dang khempeuhte tungah { Topa } in gimna lianpi tungsak ding hi. A khe-un a ding thei kimlai mahin a sa uh muatmang ding a, a mitkua sung uhah a mittangte uh muatin, a kam sung uhah a leiite uh muat ding hi.
+**ZVS:** Tua ciangin Jerusalem khuapi a sim minam dang khempeuhte tungah { Topa } in gimna lianpi tungsak ding hi. A khe-un a ding thei kimlai mahin a sa-te muatmang ding a, a mitkua sung uhah a mittangte-te muatin, a kam sung uhah a leiite-te muat ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix
 
 ### v13
 **EN:** And it shall come to pass in that day, that a great tumult from the
 
-**TDB77:** Tua ni ciangin Topa in amaute amkhamsak gawp ding a, mite in a gei-a a mat khak mite manin khat leh khat kilaithang gawp ding uh hi.
+**TDB77:** Tua ni ciangin Topa in amaute amkhamsak gawp ding a, mite in a gei-a a mat khak mite manin khat leh khat kilaithang gawp ding-te hi.
 
-**ZVS:** Tua ni ciangin { Topa } in amaute amkhamsak gawp ding a, mite in a gei-a a matkhak mite manin khatlekhat kilaithang gawp ding uh hi.
+**ZVS:** Tua ni ciangin { Topa } in amaute amkhamsak gawp ding a, mite in a gei-a a matkhak mite manin khatlekhat kilaithang gawp ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And Judah also shall fight at Jerusalem; and the wealth of all the heathen round about shall be gathered together, gold, and silver, and apparel, in great abundance.
 
-**TDB77:** Judah mite in Jerusalem khuapi hutna-in galsim ding uh a, minam dang khempeuhte’ neihsa, kham, ngun, leh puante tampi tak laksak ding uh hi.
+**TDB77:** Judah mite in Jerusalem khuapi hutna-in galsim ding-te a, minam dang khempeuhte’ neihsa, kham, ngun, leh puante tampi tak laksak ding-te hi.
 
-**ZVS:** Judah mite in Jerusalem khuapi hutna-in galte do ding uh a, minam dang khempeuhte' neihsa kham, ngun, leh puante tampi tak a laksak ding uh hi.
+**ZVS:** Judah mite in Jerusalem khuapi hutna-in galte do ding-te a, minam dang khempeuhte' neihsa kham, ngun, leh puante tampi tak a laksak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -158,9 +158,9 @@
 ### v16
 **EN:** And it shall come to pass, that every one that is left of all the nations which came against Jerusalem shall even go up from year to year to worship the King, the
 
-**TDB77:** Tua bangin galte a kizawh gawp khit ciangin, galte sung panin a nungta lai mite in Vanglianpen Topa, kumpi ahihna hangin a bia ding, leh ama gualzawhna pawi a bawl dingin kum simin Jerusalem ah pai tawntung ding uh hi.
+**TDB77:** Tua bangin galte a kizawh gawp khit ciangin, galte sung panin a nungta lai mite in Vanglianpen Topa, kumpi ahihna hangin a bia ding, leh ama gualzawhna pawi a bawl dingin kum simin Jerusalem ah pai tawntung ding-te hi.
 
-**ZVS:** Tua bangin galte a kizawhgawp khit ciangin, galte sung panin a nungtalai mite in Vanglian { Topa, } kumpi ahihna hangin a bia ding leh ama gualzawhna pawi a bawl dingin kumsimin Jerusalem-ah pai tawntung ding uh hi.
+**ZVS:** Tua bangin galte a kizawhgawp khit ciangin, galte sung panin a nungtalai mite in Vanglian { Topa, } kumpi ahihna hangin a bia ding leh ama gualzawhna pawi a bawl dingin kumsimin Jerusalem-ah pai tawntung ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -203,9 +203,9 @@
 ### v21
 **EN:** Yea, every pot in Jerusalem and in Judah shall be holiness unto the
 
-**TDB77:** Jerusalem khua sung leh Judah gam sunga om beelte khempeuh, Vanglianpen Topa biakna-in zat dingin a tuamin kisiangthosak ding hi. Biakna pia dingin a hong pai mi khempeuh in tua beelte zangin, biakna sa huanna-in nei ding uh hi. Tua ni hong tun’ ciangin, Vanglianpen Topa’ biakinn ah sumzuak van zuak cihte om nawn lo ding hi.
+**TDB77:** Jerusalem khua sung leh Judah gam sunga om beelte khempeuh, Vanglianpen Topa biakna-in zat dingin a tuamin kisiangthosak ding hi. Biakna pia dingin a hong pai mi khempeuh in tua beelte zangin, biakna sa huanna-in nei ding-te hi. Tua ni hong tun’ ciangin, Vanglianpen Topa’ biakinn ah sumzuak van zuak cihte om nawn lo ding hi.
 
-**ZVS:** Jerusalem khuasung leh Judah gamsungah a om beelte khempeuh, Vanglian { Topa } biakna-in zat dingin a tuamin kikoih ding hi. Biakna a pia dingin a hong pai mi khempeuh in tua beelte zangin, biakna sa huanna-in a nei ding uh hi. Tua ni hong tun' ciangin Vanglian { Topa' } biakinn-ah sumzuak vanzuak cihte om nawnlo ding hi.
+**ZVS:** Jerusalem khuasung leh Judah gamsungah a om beelte khempeuh, Vanglian { Topa } biakna-in zat dingin a tuamin kikoih ding hi. Biakna a pia dingin a hong pai mi khempeuh in tua beelte zangin, biakna sa huanna-in a nei ding-te hi. Tua ni hong tun' ciangin Vanglian { Topa' } biakinn-ah sumzuak vanzuak cihte om nawnlo ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

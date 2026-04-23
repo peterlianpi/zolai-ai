@@ -51,36 +51,36 @@
 ### v4
 **EN:** And they shall build the old wastes, they shall raise up the former desolations, and they shall repair the waste cities, the desolations of many generations.
 
-**TDB77:** Amaute in tang lai-a a siasate lampha ding uh a, a kisiamai-sate ding kiksak ding uh hi; amaute in khang tampi sung a kisia maisa khuapi siate puahkik ding uh hi.
+**TDB77:** Amaute in tang lai-a a siasate lampha ding-te a, a kisiamai-sate ding kiksak ding-te hi; amaute in khang tampi sung a kisia maisa khuapi siate puahkik ding-te hi.
 
-**ZVS:** Amaute in tanglai-a a siasate, lampha kik ding uh a, a kisiamaisate ding kiksak ding uh hi. Amaute in khang tampi sung a kisiamaisa khuapite puahkik ding uh hi.
+**ZVS:** Amaute in tanglai-a a siasate, lampha kik ding-te a, a kisiamaisate ding kiksak ding-te hi. Amaute in khang tampi sung a kisiamaisa khuapite puahkik ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And strangers shall stand and feed your flocks, and the sons of the alien shall be your plowmen and your vinedressers.
 
-**TDB77:** Gamdang mite in na tuu honte uh vak ding a, khual mite pen note’ lo kho leh leenggui puahte hi ding uh hi;
+**TDB77:** Gamdang mite in na tuu honte-te vak ding a, khual mite pen note’ lo kho leh leenggui puahte hi ding-te hi;
 
-**ZVS:** Gamdang mite in na tuuhonte uh hong kepsak ding a, khualmite pen note' lo kho leh leenggui puahte hi ding uh hi.
+**ZVS:** Gamdang mite in na tuuhonte-te hong kepsak ding a, khualmite pen note' lo kho leh leenggui puahte hi ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v6
 **EN:** But ye shall be named the Priests of the
 
-**TDB77:** ahih hangin note pen Topa’ siampite hong kici ding a, mihingte in note pen i Pasian’ nasemte ci-in hong gen ding uh hi; minamte’ hauhna note in na ne ding uh a, amau’ hauhna note in na kisaktheihpih ding uh hi.
+**TDB77:** ahih hangin note pen Topa’ siampite hong kici ding a, mihingte in note pen i Pasian’ nasemte ci-in hong gen ding-te hi; minamte’ hauhna note in na ne ding-te a, amau’ hauhna note in na kisaktheihpih ding-te hi.
 
-**ZVS:** Ahih hangin note pen { Topa}' siampite hong kici ding a, mihingte in note pen i Pasian' nasemte, ci-in hong gen ding uh hi. Minamte' hauhna teng note in na ne ding uh a, amau' hauhna teng note in na kisaktheihpih ding uh hi.
+**ZVS:** Ahih hangin note pen { Topa}' siampite hong kici ding a, mihingte in note pen i Pasian' nasemte, ci-in hong gen ding-te hi. Minamte' hauhna teng note in na ne ding-te a, amau' hauhna teng note in na kisaktheihpih ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** For your shame ye shall have double; and for confusion they shall rejoice in their portion: therefore in their land they shall possess the double: everlasting joy shall be unto them.
 
-**TDB77:** Note’ maizumna tangin nopna a zah nih na ngah ding uh a, note’ mindaina tangin nomau’ ngahna sungah na lungdam ding uh hi; tua ahih ciangin na gam sung uhah a zah nih na luah ding uh hi; note’ aa pen tawntung lungdamna hi ding hi,
+**TDB77:** Note’ maizumna tangin nopna a zah nih na ngah ding-te a, note’ mindaina tangin nomau’ ngahna sungah na lungdam ding-te hi; tua ahih ciangin na gam sung uhah a zah nih na luah ding-te hi; note’ aa pen tawntung lungdamna hi ding hi,
 
-**ZVS:** Note' maizumna tangin nopsakna a zah nihin na ngah ding uh a, note' mindaina tangin no' ngahna sungah na lungdam ding uh hi. Tua ahih ciangin na gamsung uhah a zah nih na luah ding uh hi. Note-a' pen tawntung lungdamna hi ding hi.
+**ZVS:** Note' maizumna tangin nopsakna a zah nihin na ngah ding-te a, note' mindaina tangin no' ngahna sungah na lungdam ding-te hi. Tua ahih ciangin na gamsung uhah a zah nih na luah ding-te hi. Note-a' pen tawntung lungdamna hi ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** And their seed shall be known among the Gentiles, and their offspring among the people: all that see them shall acknowledge them, that they are the seed which the
 
-**TDB77:** Amau suan leh khakte pen minamte lakah kithei ding a, amau tu-le-tate pen mite laizang ah kithei ding hi; amaute pen Topa in thupha a piak mite hi, ci-in a mu mi khempeuhte in thei-in sang ding uh hi.
+**TDB77:** Amau suan leh khakte pen minamte lakah kithei ding a, amau tu-le-tate pen mite laizang ah kithei ding hi; amaute pen Topa in thupha a piak mite hi, ci-in a mu mi khempeuhte in thei-in sang ding-te hi.
 
-**ZVS:** Amau' suanlekhakte pen minamte lakah kithei ding a, amau' tuletate pen mite laizangah kithei ding hi. Amaute pen { Topa } in thupha a piak mite hi, ci-in a mu mi khempeuhte in thei-in sang ding uh hi.
+**ZVS:** Amau' suanlekhakte pen minamte lakah kithei ding a, amau' tuletate pen mite laizangah kithei ding hi. Amaute pen { Topa } in thupha a piak mite hi, ci-in a mu mi khempeuhte in thei-in sang ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

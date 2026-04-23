@@ -39,7 +39,7 @@
 ### v3
 **EN:** And the river shall bring forth frogs abundantly, which shall go up and come into thine house, and into thy bedchamber, and upon thy bed, and into the house of thy servants, and upon thy people, and into thine ovens, and into thy kneadingtroughs:
 
-**TDB77:** Nail gun pen uiphukte tawh kidim ding a, tuate pen na innsung, na lupna inndei sung, na lupna tung, na nasemte leh na mipihte' innsung, na meikhukte leh na annel mekna kuang sung uhah hong pai ding uh hi.
+**TDB77:** Nail gun pen uiphukte tawh kidim ding a, tuate pen na innsung, na lupna inndei sung, na lupna tung, na nasemte leh na mipihte' innsung, na meikhukte leh na annel mekna kuang sung uhah hong pai ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -67,7 +67,7 @@
 ### v7
 **EN:** And the magicians did so with their enchantments, and brought up frogs upon the land of Egypt.
 
-**TDB77:** Ahih hangin mitphial siamte in amau' siamna tawh tua bangmah bawl thei uh a, Egypt leitang tungah uiphukte omsak uh hi.
+**TDB77:** Ahih hangin mitphial siamte in amau' siamna tawh tua bangmah bawl thei-te a, Egypt leitang tungah uiphukte omsak-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -95,14 +95,14 @@
 ### v11
 **EN:** And the frogs shall depart from thee, and from thy houses, and from thy servants, and from thy people; they shall remain in the river only.
 
-**TDB77:** Nang leh na innte leh na nasemte leh na mite' kiang panin uiphukte paikhia ding uh a, Nail gun sung bekah omlai ding hi,” a ci hi.
+**TDB77:** Nang leh na innte leh na nasemte leh na mite' kiang panin uiphukte paikhia ding-te a, Nail gun sung bekah omlai ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And Moses and Aaron went out from Pharaoh: and Moses cried unto the
 
-**TDB77:** Tua ahih ciangin Faro' kiang panin Moses leh Aaron a paikhia uh hi. Faro' tungah a tun'sak uiphukte a beisakna dingin { Topa' } tungah Moses in thu a ngen hi.
+**TDB77:** Tua ahih ciangin Faro' kiang panin Moses leh Aaron a paikhia-te hi. Faro' tungah a tun'sak uiphukte a beisakna dingin { Topa' } tungah Moses in thu a ngen hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -114,7 +114,7 @@
 ### v14
 **EN:** And they gathered them together upon heaps: and the land stank.
 
-**TDB77:** Amaute in a lomlomin tuate khawm uh a, gamsung teng uih hi.
+**TDB77:** Amaute in a lomlomin tuate khawm-te a, gamsung teng uih hi.
 
 **Grammar:** plural: uh marker
 
@@ -133,21 +133,21 @@
 ### v17
 **EN:** And they did so; for Aaron stretched out his hand with his rod, and smote the dust of the earth, and it became lice in man, and in beast; all the dust of the land became lice throughout all the land of Egypt.
 
-**TDB77:** Amaute in tua bangmahin hih uh hi. Aaron in a ciangkhut tawh leivui sat a, mihing tung leh ganhing tungah thokang hong om hi. Egypt gamsung khempeuhah leivui teng thokang suak hi.
+**TDB77:** Amaute in tua bangmahin hih-te hi. Aaron in a ciangkhut tawh leivui sat a, mihing tung leh ganhing tungah thokang hong om hi. Egypt gamsung khempeuhah leivui teng thokang suak hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** And the magicians did so with their enchantments to bring forth lice, but they could not: so there were lice upon man, and upon beast.
 
-**TDB77:** Mitphial siamte in amau' siamna tawh thokang pian'sak ding sin uh a, ahih hangin amaute in hih theilo uh hi. Tua ahih ciangin mihing leh ganhing tungah thokangte om hi.
+**TDB77:** Mitphial siamte in amau' siamna tawh thokang pian'sak ding sin-te a, ahih hangin amaute in hih theilo-te hi. Tua ahih ciangin mihing leh ganhing tungah thokangte om hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v19
 **EN:** Then the magicians said unto Pharaoh, This is the finger of God: and Pharaoh's heart was hardened, and he hearkened not unto them; as the
 
-**TDB77:** Mitphial siamte in Faro' kiangah, “Hih pen Pasian' nasepna ahi hi,” ci uh hi. Ahih hangin Faro' lungsim khauh a, { Topa' } gensa bangin amah in amaute' thu ngailo hi.
+**TDB77:** Mitphial siamte in Faro' kiangah, “Hih pen Pasian' nasepna ahi hi,” ci-te hi. Ahih hangin Faro' lungsim khauh a, { Topa' } gensa bangin amah in amaute' thu ngailo hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -196,21 +196,21 @@
 ### v26
 **EN:** And Moses said, It is not meet so to do; for we shall sacrifice the abomination of the Egyptians to the
 
-**TDB77:** Ahih hangin Moses in, “Tua bangin hih ding kituaklo hi. Bang hang hiam cih leh Egypt mite-a' dingin a deihhuailo biaknate kote in { Topa } ka Pasian uh tungah ka pia ding uh hi. Egypt mite-a' dingin a deihhuailo biaknate amau' muhna-ah pia le ung, amaute in suang tawh kote hong deng ding uh hilo ahi hiam?
+**TDB77:** Ahih hangin Moses in, “Tua bangin hih ding kituaklo hi. Bang hang hiam cih leh Egypt mite-a' dingin a deihhuailo biaknate kote in { Topa } ka Pasian-te tungah ka pia ding-te hi. Egypt mite-a' dingin a deihhuailo biaknate amau' muhna-ah pia le ung, amaute in suang tawh kote hong deng ding-te hilo ahi hiam?
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** We will go three days' journey into the wilderness, and sacrifice to the
 
-**TDB77:** Kote, ni thum paina sehnel gamah pai-in ama hong thupiak ding bangin { Topa } ka Pasian uh tungah biakna ka va pia ding uh hi,” a ci hi.
+**TDB77:** Kote, ni thum paina sehnel gamah pai-in ama hong thupiak ding bangin { Topa } ka Pasian-te tungah biakna ka va pia ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v28
 **EN:** And Pharaoh said, I will let you go, that ye may sacrifice to the
 
-**TDB77:** Tua ahih ciangin Faro in, “Sehnel gamah { Topa } na Pasian uh tungah biakna a pia dingin note kong paisak ding hi. Ahi zongin gamlapi-ah na pai kei ding uh hi. Kei-a' dingin zong hong thumsak un,” a ci hi.
+**TDB77:** Tua ahih ciangin Faro in, “Sehnel gamah { Topa } na Pasian-te tungah biakna a pia dingin note kong paisak ding hi. Ahi zongin gamlapi-ah na pai kei ding-te hi. Kei-a' dingin zong hong thumsak un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | negation: kei | plural: uh marker
 

@@ -67,9 +67,9 @@
 ### v6
 **EN:** Now therefore command thou that they hew me cedar trees out of Lebanon; and my servants shall be with thy servants: and unto thee will I give hire for thy servants according to all that thou shalt appoint: for thou knowest that there is not among us any that can skill to hew timber like unto the Sidonians.
 
-**TDB77:** Tua ahi ciangin Lebanon taamtaak singte kei adingin a kiphuk nading thu pia in; ka nasemte in nangma nasemte seppih ding uh a, nangma seh bangin na nasemte’ thaman ding nang tungah kong pia ding hi; bang hang hiam cih leh Sidon mite bangin sing suih zia a thei kote lakah khat zong a om lohna na thei hi,” a ci hi.
+**TDB77:** Tua ahi ciangin Lebanon taamtaak singte kei adingin a kiphuk nading thu pia in; ka nasemte in nangma nasemte seppih ding-te a, nangma seh bangin na nasemte’ thaman ding nang tungah kong pia ding hi; bang hang hiam cih leh Sidon mite bangin sing suih zia a thei kote lakah khat zong a om lohna na thei hi,” a ci hi.
 
-**ZVS:** Tua ahih ciangin Lebanon taamtak singte kei-a' dingin a kiphukna ding thu pia in; ka nasemte in nangma nasemte seppih ding uh a, nangma seh bangin na nasemte' thaman ding nang tungah kong pia ding hi; bang hang hiam cih leh Sidon mite bangin sing suih a siam kote lakah khat zong a omlohna na thei hi,” a ci hi.
+**ZVS:** Tua ahih ciangin Lebanon taamtak singte kei-a' dingin a kiphukna ding thu pia in; ka nasemte in nangma nasemte seppih ding-te a, nangma seh bangin na nasemte' thaman ding nang tungah kong pia ding hi; bang hang hiam cih leh Sidon mite bangin sing suih a siam kote lakah khat zong a omlohna na thei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -94,9 +94,9 @@
 ### v9
 **EN:** My servants shall bring them down from Lebanon unto the sea: and I will convey them by sea in floats unto the place that thou shalt appoint me, and will cause them to be discharged there, and thou shalt receive them: and thou shalt accomplish my desire, in giving food for my household.
 
-**TDB77:** Ka nasemte in Lebanon panin tuipi ah tuate hong puak suk ding uh hi; nangma cihna munah a pai dingin tuipi a tawn dingin keimah in tuate phongin ka bawl dinga, tua lai munah keimah in a singte phelsakin nangmah in na ngah ding hi; nangmah in ka innkuan ading an piakna tawh ka deihnate nong kicingsak ding hi,” ci sak hi.
+**TDB77:** Ka nasemte in Lebanon panin tuipi ah tuate hong puak suk ding-te hi; nangma cihna munah a pai dingin tuipi a tawn dingin keimah in tuate phongin ka bawl dinga, tua lai munah keimah in a singte phelsakin nangmah in na ngah ding hi; nangmah in ka innkuan ading an piakna tawh ka deihnate nong kicingsak ding hi,” ci sak hi.
 
-**ZVS:** Ka nasemte in Lebanon panin tuipi-ah tuate hong puaksuk ding uh hi. Nangma cihna mun-ah a pai dingin tuipi a tawn dingin keimah in tuate phong-in ka bawl ding a, tua lai mun-ah keimah in a singte phelsakin nangmah in na ngah ding hi. Nangmah in ka mite-a' ding anpiakna tawh ka deihnate nong kicingsak ding hi,” cisak hi.
+**ZVS:** Ka nasemte in Lebanon panin tuipi-ah tuate hong puaksuk ding-te hi. Nangma cihna mun-ah a pai dingin tuipi a tawn dingin keimah in tuate phong-in ka bawl ding a, tua lai mun-ah keimah in a singte phelsakin nangmah in na ngah ding hi. Nangmah in ka mite-a' ding anpiakna tawh ka deihnate nong kicingsak ding hi,” cisak hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -121,9 +121,9 @@
 ### v12
 **EN:** And the
 
-**TDB77:** Ama tungah a ciam bangin Topa in Solomon tungah pilna pia hi; Solomon leh Hiram kikalah kilemna om hi; amaute nih in thuciamna khat bawl uh hi.
+**TDB77:** Ama tungah a ciam bangin Topa in Solomon tungah pilna pia hi; Solomon leh Hiram kikalah kilemna om hi; amaute nih in thuciamna khat bawl-te hi.
 
-**ZVS:** Ama tungah a ciam bangin { Topa } in Solomon tungah pilna pia hi. Solomon leh Hiram kilem uh a, amaute gel in thuciamna khat a bawl uh hi.
+**ZVS:** Ama tungah a ciam bangin { Topa } in Solomon tungah pilna pia hi. Solomon leh Hiram kilem-te a, amaute gel in thuciamna khat a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -137,9 +137,9 @@
 ### v14
 **EN:** And he sent them to Lebanon, ten thousand a month by courses: a month they were in Lebanon, and two months at home: and Adoniram was over the levy.
 
-**TDB77:** Amah in Lebanon ah tua mite kha khatin tulsawm a kikhelin puak hi; amaute Lebanon ah kha khat omin innah kha nih om ding uh hi; Adorniram in hih a kila mite uk hi.
+**TDB77:** Amah in Lebanon ah tua mite kha khatin tulsawm a kikhelin puak hi; amaute Lebanon ah kha khat omin innah kha nih om ding-te hi; Adorniram in hih a kila mite uk hi.
 
-**ZVS:** Amah in Lebanon-ah tua mite kha khatin tul sawm a kikhelin puak hi. Amaute Lebanon-ah kha khat omin inn-ah kha nih om ding uh hi. Adoniram in hih a kila mite uk hi.
+**ZVS:** Amah in Lebanon-ah tua mite kha khatin tul sawm a kikhelin puak hi. Amaute Lebanon-ah kha khat omin inn-ah kha nih om ding-te hi. Adoniram in hih a kila mite uk hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -162,18 +162,18 @@
 ### v17
 **EN:** And the king commanded, and they brought great stones, costly stones, and hewed stones, to lay the foundation of the house.
 
-**TDB77:** Suang seeksa tawh inn bulpi a phuh theih nadingin kumpipa’ thupiakna tawh amaute in a lian, a manpha suangtumte suangkhuk panin tokhia uh hi.
+**TDB77:** Suang seeksa tawh inn bulpi a phuh theih nadingin kumpipa’ thupiakna tawh amaute in a lian, a manpha suangtumte suangkhuk panin tokhia-te hi.
 
-**ZVS:** Suangseeksa tawh biakinn bulpi a phuh theihna dingin kumpipa' thupiakna tawh amaute in a lian, a manpha suangtumte tokhia uh hi.
+**ZVS:** Suangseeksa tawh biakinn bulpi a phuh theihna dingin kumpipa' thupiakna tawh amaute in a lian, a manpha suangtumte tokhia-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v18
 **EN:** And Solomon's builders and Hiram's builders did hew them, and the stonesquarers: so they prepared timber and stones to build the house.
 
-**TDB77:** Tua ahih ciangin inn lam nadingin Solomon’ mi innlamte, Hiram’ mi innlamte leh Gebal mite in singphuk leh sing leh suang nasep sem uh hi.
+**TDB77:** Tua ahih ciangin inn lam nadingin Solomon’ mi innlamte, Hiram’ mi innlamte leh Gebal mite in singphuk leh sing leh suang nasep sem-te hi.
 
-**ZVS:** Tua ahih ciangin biakinn lamna dingin Solomon' mi innlamte leh Hiram' mi innlamte leh Gebal mite in sing phuk leh singlesuang nasep a sem uh hi.
+**ZVS:** Tua ahih ciangin biakinn lamna dingin Solomon' mi innlamte leh Hiram' mi innlamte leh Gebal mite in sing phuk leh singlesuang nasep a sem-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 

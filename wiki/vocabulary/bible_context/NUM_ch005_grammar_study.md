@@ -44,16 +44,16 @@
 
 **TDB77:** a laizangah keima omna ahi amau’ giahphual a nitsak loh nadingun hih bangin a nin numei leh pasal paikhia sakin giahphual pua-ah na omsak ding hi,” a ci hi.
 
-**ZVS:** A laizangah keima omna ahi amau' giahphual a nitsak lohna dingun hih bangin a nin numei leh pasal paikhia sakin, giahphual pua-ah na omsak ding uh hi,” a ci hi.
+**ZVS:** A laizangah keima omna ahi amau' giahphual a nitsak lohna dingun hih bangin a nin numei leh pasal paikhia sakin, giahphual pua-ah na omsak ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will
 
 ### v4
 **EN:** And the children of Israel did so, and put them out without the camp: as the
 
-**TDB77:** Tua mah bangin Israel mite in hih uh a, giahphual pua-ah amaute hawl khia uh hi; Topa in Moses kiangah a gen bang in Israel mite in hih uh hi.
+**TDB77:** Tua mah bangin Israel mite in hih-te a, giahphual pua-ah amaute hawl khia-te hi; Topa in Moses kiangah a gen bang in Israel mite in hih-te hi.
 
-**ZVS:** Tua mah bangin Israel mite in hih uh a, giahphual pua-ah amaute hawlkhia uh hi. { Topa } in Moses tungah a gen bangin Israel mite in hih uh hi.
+**ZVS:** Tua mah bangin Israel mite in hih-te a, giahphual pua-ah amaute hawlkhia-te hi. { Topa } in Moses tungah a gen bangin Israel mite in hih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** And every offering of all the holy things of the children of Israel, which they bring unto the priest, shall be his.
 
-**TDB77:** Amaute in siampipa tungah a paipih uh biakna peuhmah, Israel mite’ na siangthote khempeuh, ama’ aa hi ding hi;
+**TDB77:** Amaute in siampipa tungah a paipih-te biakna peuhmah, Israel mite’ na siangthote khempeuh, ama’ aa hi ding hi;
 
-**ZVS:** Amaute in siampipa tungah a paipih uh biakna peuhmah, Israel mite' na a siangthote khempeuh, ama-a' hi ding hi.
+**ZVS:** Amaute in siampipa tungah a paipih-te biakna peuhmah, Israel mite' na a siangthote khempeuh, ama-a' hi ding hi.
 
 **Grammar:** future: will
 

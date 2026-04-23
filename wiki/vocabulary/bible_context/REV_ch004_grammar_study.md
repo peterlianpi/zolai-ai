@@ -50,16 +50,16 @@
 ### v4
 **EN:** And round about the throne were four and twenty seats: and upon the seats I saw four and twenty elders sitting, clothed in white raiment; and they had on their heads crowns of gold.
 
-**TDB77:** Tokhom kimkotah tokhom adang sawmnih leh li, leh tua tokhomte tungah puanpaak silh, kham kumpilukhu a khu upa sawmnih leh li tu-in a om uh hi.
+**TDB77:** Tokhom kimkotah tokhom adang sawmnih leh li, leh tua tokhomte tungah puanpaak silh, kham kumpilukhu a khu upa sawmnih leh li tu-in a om-te hi.
 
-**ZVS:** Tua tokhom kimkotah tokhom sawmnihleli om a, tuate tungah puanpak silhin kham lukhu a khu upa sawmnihlelite tu uh hi.
+**ZVS:** Tua tokhom kimkotah tokhom sawmnihleli om a, tuate tungah puanpak silhin kham lukhu a khu upa sawmnihlelite tu-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And out of the throne proceeded lightnings and thunderings and voices: and there were seven lamps of fire burning before the throne, which are the seven Spirits of God.
 
-**TDB77:** Tokhom sung pan khuaphialep tawh, a aw gin’na tawh, vangin’na tawh a pusuak uh hi. Tokhom mai-ah Pasian’ Kha Siangtho sagih ahi, meivak sagih kivakin a om uh hi.
+**TDB77:** Tokhom sung pan khuaphialep tawh, a aw gin’na tawh, vangin’na tawh a pusuak-te hi. Tokhom mai-ah Pasian’ Kha Siangtho sagih ahi, meivak sagih kivakin a om-te hi.
 
 **ZVS:** Tua tokhom panin khuaphialep hong taangkhia-in, awging leh vanging hong kipankhia a, a tokhom mai-ah Pasian' kha ahi meivak sagih a kivak hi.
 
@@ -86,9 +86,9 @@
 ### v8
 **EN:** And the four beasts had each of them six wings about him; and they were full of eyes within: and they rest not day and night, saying, Holy, holy, holy, Lord God Almighty, which was, and is, and is to come.
 
-**TDB77:** Tua ganhing lite khat in kha guk ciat a nei uh a, a khate uh a sung a pua, mittang tawh dimin, sun tawh zan tawh khawl loin: “A om ngei, a om laitak, a hong om ding Vanglianpen Topa Pasian in, Siangtho hi, siangtho hi, siangtho hi,” ci-in kiko-in a om uh hi.
+**TDB77:** Tua ganhing lite khat in kha guk ciat a nei-te a, a khate-te a sung a pua, mittang tawh dimin, sun tawh zan tawh khawl loin: “A om ngei, a om laitak, a hong om ding Vanglianpen Topa Pasian in, Siangtho hi, siangtho hi, siangtho hi,” ci-in kiko-in a om-te hi.
 
-**ZVS:** Tua ganhing lite in kha guk ciat nei-in, tua a khate' sunglam leh a pualamah mittang a dimtakin om a, a sun a zan tawlnga loin la sa uh a, “A beisa, tuhun, leh a tawntungin a om Vanglian Topa Pasian, siangtho hi, siangtho hi, siangtho hi,” a ci uh hi.
+**ZVS:** Tua ganhing lite in kha guk ciat nei-in, tua a khate' sunglam leh a pualamah mittang a dimtakin om a, a sun a zan tawlnga loin la sa-te a, “A beisa, tuhun, leh a tawntungin a om Vanglian Topa Pasian, siangtho hi, siangtho hi, siangtho hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -97,25 +97,25 @@
 
 **TDB77:** Tua ganhingte in tua bangin a tawntung nungta-in tokhom tungah tu-a a om minthan’na, pahtawina leh vangliatna leh hehpih phatnate a phat lai takun,
 
-**ZVS:** Tua ganhingte in a nungta tawntung, tokhom tungah a tupa tungah a lungdamna uh ko-in pahtawi-in a phat simun
+**ZVS:** Tua ganhingte in a nungta tawntung, tokhom tungah a tupa tungah a lungdamna-te ko-in pahtawi-in a phat simun
 
 **Grammar:** serial verb: -in (and then)
 
 ### v10
 **EN:** The four and twenty elders fall down before him that sat on the throne, and worship him that liveth for ever and ever, and cast their crowns before the throne, saying,
 
-**TDB77:** tokhom tungah tu-in a om mi mai-ah upa sawmnih leh lite in bokin, a tawntungin a nungta mi bia-in, tokhom mai-ah amaute kumpilukhu a khiatsuk khit uh ciangin:
+**TDB77:** tokhom tungah tu-in a om mi mai-ah upa sawmnih leh lite in bokin, a tawntungin a nungta mi bia-in, tokhom mai-ah amaute kumpilukhu a khiatsuk khit-te ciangin:
 
-**ZVS:** nungta tawntungin tokhom tungah a tupa mai-ah tua upa sawmnihlelite zong bokin amah bia uh a, tua tokhom mai-ah a lukhute uh lawnin la sa uh a,
+**ZVS:** nungta tawntungin tokhom tungah a tupa mai-ah tua upa sawmnihlelite zong bokin amah bia-te a, tua tokhom mai-ah a lukhute-te lawnin la sa-te a,
 
 **Grammar:** serial verb: -in (and then)
 
 ### v11
 **EN:** Thou art worthy, O Lord, to receive glory and honour and power: for thou hast created all things, and for thy pleasure they are and were created.
 
-**TDB77:** “Kote’ Topa, kote’ Pasian aw, nang in na khempeuh na piangsak a, Nangma deihna hangin piangin a om uh ahih ciangin, tua minthan’na, pahtawina leh vangliatnate ngah dingin na kilawm hi.” ci-in a phat uh hi.
+**TDB77:** “Kote’ Topa, kote’ Pasian aw, nang in na khempeuh na piangsak a, Nangma deihna hangin piangin a om-te ahih ciangin, tua minthan’na, pahtawina leh vangliatnate ngah dingin na kilawm hi.” ci-in a phat-te hi.
 
-**ZVS:** “Kote' Topa Pasian aw, nangmah in na khempeuh piangsakin, nangma deihna bangin na khempeuh omin, na khempeuh kipiangsak ahih manin, minthan'na, pahtawina, leh vangliatna na ngah tawntung dingin a kilawm hi,” a ci uh hi.
+**ZVS:** “Kote' Topa Pasian aw, nangmah in na khempeuh piangsakin, nangma deihna bangin na khempeuh omin, na khempeuh kipiangsak ahih manin, minthan'na, pahtawina, leh vangliatna na ngah tawntung dingin a kilawm hi,” a ci-te hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

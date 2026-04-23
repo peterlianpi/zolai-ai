@@ -80,16 +80,16 @@
 ### v9
 **EN:** When your fathers tempted me, proved me, and saw my work.
 
-**TDB77:** Amaute in ka nasepna mu khin uh hinapi, Meribah leh Massah munah na pate un kei hong ze-etin, gamtatna tawh ka lah ding hong kalh hun lai uh bangin, note in na lungsim uh khauhsak kei un.
+**TDB77:** Amaute in ka nasepna mu khin-te hinapi, Meribah leh Massah munah na pate un kei hong ze-etin, gamtatna tawh ka lah ding hong kalh hun lai-te bangin, note in na lungsim-te khauhsak kei un.
 
 **Grammar:** completed: already done
 
 ### v10
 **EN:** Forty years long was I grieved with this generation, and said, It is a people that do err in their heart, and they have not known my ways:
 
-**TDB77:** Kum sawmli sung tua minam ka kih a, “Amaute in a lungsim sungah a khial mi hi a, amaute in ka thupiakte mang lo uh hi,” ka ci hi.
+**TDB77:** Kum sawmli sung tua minam ka kih a, “Amaute in a lungsim sungah a khial mi hi a, amaute in ka thupiakte mang lo-te hi,” ka ci hi.
 
-**ZVS:** Kum sawmli sung tua minam ka kih a, “Amaute pen a lungsim uhah a khial mi hi a, amaute in ka thupiakte manglo uh hi,” ka ci hi.
+**ZVS:** Kum sawmli sung tua minam ka kih a, “Amaute pen a lungsim uhah a khial mi hi a, amaute in ka thupiakte manglo-te hi,” ka ci hi.
 
 **Grammar:** quotative: said/saying | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

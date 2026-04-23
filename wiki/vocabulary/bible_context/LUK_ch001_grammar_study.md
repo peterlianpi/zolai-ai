@@ -29,9 +29,9 @@
 ### v1
 **EN:** Forasmuch as many have taken in hand to set forth in order a declaration of those things which are most surely believed among us,
 
-**TDB77:** A lian mahmah Theofilas aw, a cil panin mittang in a muh teci leh Pasian thuhilh na a sem mite in hong gen uh mah bangin,
+**TDB77:** A lian mahmah Theofilas aw, a cil panin mittang in a muh teci leh Pasian thuhilh na a sem mite in hong gen-te mah bangin,
 
-**ZVS:** A lian mahmah Theofilas aw:—- Eite lakah a piang ngeisa thu a kigente, mi tampi in amau siamna zahciat tawh lai-in a gelh uh hi.
+**ZVS:** A lian mahmah Theofilas aw:—- Eite lakah a piang ngeisa thu a kigente, mi tampi in amau siamna zahciat tawh lai-in a gelh-te hi.
 
 **Grammar:** intensifier: very/greatly
 
@@ -40,7 +40,7 @@
 
 **TDB77:** eite lakah a hong piangsa thu teng, eite hong zaksak a kizomin lai a gelh mi tampi a om hi.
 
-**ZVS:** A kipat cila kipanin amau' mit mahmah tawh a mu mite in hong gente uh a gelh uh ahi hi.
+**ZVS:** A kipat cila kipanin amau' mit mahmah tawh a mu mite in hong gente-te a gelh-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -72,18 +72,18 @@
 ### v6
 **EN:** And they were both righteous before God, walking in all the commandments and ordinances of the Lord blameless.
 
-**TDB77:** Tua tegel in Pasian’ thukham khempeuh leh Pasian’ ngeina khempeuh zui uh a, mawhsak na’ng om loin Pasian mai-ah mipha ahi uh hi.
+**TDB77:** Tua tegel in Pasian’ thukham khempeuh leh Pasian’ ngeina khempeuh zui-te a, mawhsak na’ng om loin Pasian mai-ah mipha ahi-te hi.
 
-**ZVS:** A nih tuakun Pasian' muhna-ah a manin gamta uh a, Topa' thukhamte leh a ngeina khempeuh a zui uh hi.
+**ZVS:** A nih tuakun Pasian' muhna-ah a manin gamta-te a, Topa' thukhamte leh a ngeina khempeuh a zui-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** And they had no child, because that Elisabeth was barren, and they both were now well stricken in years.
 
-**TDB77:** Elisabeth in tasel ahih ciangin, a khan’ teek dongin ta a nei kei uh hi.
+**TDB77:** Elisabeth in tasel ahih ciangin, a khan’ teek dongin ta a nei kei-te hi.
 
-**ZVS:** Ahi zongin Elizabeth ciing ahih manin amau nupa in ta neilo uh a, a nih tuakun zong a teekta uh ahi hi.
+**ZVS:** Ahi zongin Elizabeth ciing ahih manin amau nupa in ta neilo-te a, a nih tuakun zong a teekta-te ahi hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -102,9 +102,9 @@
 ### v10
 **EN:** And the whole multitude of the people were praying without at the time of incense.
 
-**TDB77:** Paknamtui mei tawh a hal hun lai takin mi khempeuh in inn pua lamah thu ngenin a om uh hi.
+**TDB77:** Paknamtui mei tawh a hal hun lai takin mi khempeuh in inn pua lamah thu ngenin a om-te hi.
 
-**ZVS:** amah in paknamtui halin a om laitakin mihonpi dangte a pualamah thungenin na om uh hi.
+**ZVS:** amah in paknamtui halin a om laitakin mihonpi dangte a pualamah thungenin na om-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -136,9 +136,9 @@
 ### v14
 **EN:** And thou shalt have joy and gladness; and many shall rejoice at his birth.
 
-**TDB77:** Nangmah in zong lungdamna leh nuamna na ngah ding a, ama suahna hangin mi tampite zong a lungdam ding uh hi.
+**TDB77:** Nangmah in zong lungdamna leh nuamna na ngah ding a, ama suahna hangin mi tampite zong a lungdam ding-te hi.
 
-**ZVS:** Amah hong suah ciangin nang na lungdam mahmah ding a, midang tampite in zong hong lungdampih ding uh hi.
+**ZVS:** Amah hong suah ciangin nang na lungdam mahmah ding a, midang tampite in zong hong lungdampih ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -199,18 +199,18 @@
 ### v21
 **EN:** And the people waited for Zacharias, and marvelled that he tarried so long in the temple.
 
-**TDB77:** Mite in Zekhariah ngak uh a, biakna inn sungah sawtpi a om ciangin lamdang a sa uh hi.
+**TDB77:** Mite in Zekhariah ngak-te a, biakna inn sungah sawtpi a om ciangin lamdang a sa-te hi.
 
-**ZVS:** Tua hun sungteng, mihonte in Zekhariah na ngak uh a, biakinn sungah sauveipi a om manin lamdang a sa uh hi.
+**ZVS:** Tua hun sungteng, mihonte in Zekhariah na ngak-te a, biakinn sungah sauveipi a om manin lamdang a sa-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** And when he came out, he could not speak unto them: and they perceived that he had seen a vision in the temple: for he beckoned unto them, and remained speechless.
 
-**TDB77:** Amah hong paikhiat ciangin, amaute kiangah pau thei lo ahih ciangin, biakna innpi sungah maang mu hi, ci-in a thei khin uh hi. Zekhariah in lim bek lak a, pau loin a om hi.
+**TDB77:** Amah hong paikhiat ciangin, amaute kiangah pau thei lo ahih ciangin, biakna innpi sungah maang mu hi, ci-in a thei khin-te hi. Zekhariah in lim bek lak a, pau loin a om hi.
 
-**ZVS:** Amah hong pusuah ciangin pau theilo ahih manin, biakinn sungah maang mu hi, ci-in a thei uh hi. Pau theilo ahih manin a khut tawh a lim a lak hi.
+**ZVS:** Amah hong pusuah ciangin pau theilo ahih manin, biakinn sungah maang mu hi, ci-in a thei-te hi. Pau theilo ahih manin a khut tawh a lim a lak hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -428,7 +428,7 @@
 
 **TDB77:** Bang hang hiam na cih leh, ama sila numei’ kiniamsakna hong en zo hi. Tu-a kipanin khang khempeuhte in kei thupha a ngah mi hong ci ding hi.
 
-**ZVS:** Bang hang hiam cih leh a neu mahmah a nasemnu, keimah a hong phawk hi. Tu-a kipanin a khangkhangin mi khempeuh in thupha ngahnu hong ci ding uh hi.
+**ZVS:** Bang hang hiam cih leh a neu mahmah a nasemnu, keimah a hong phawk hi. Tu-a kipanin a khangkhangin mi khempeuh in thupha ngahnu hong ci ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -451,7 +451,7 @@
 ### v51
 **EN:** He hath shewed strength with his arm; he hath scattered the proud in the imagination of their hearts.
 
-**TDB77:** Ama ban tawh vangliatna a lak zo hi. Amau ngaihsutna lungsim uh a kiphasakte kikhenthang sak zo hi.
+**TDB77:** Ama ban tawh vangliatna a lak zo hi. Amau ngaihsutna lungsim-te a kiphasakte kikhenthang sak zo hi.
 
 **ZVS:** Amah in a hat mahmah a khut zan a, kiliatsakna lungsim a nei mite a thehthang hi.
 
@@ -510,18 +510,18 @@
 ### v58
 **EN:** And her neighbours and her cousins heard how the Lord had shewed great mercy upon her; and they rejoiced with her.
 
-**TDB77:** Topa in a lian hehpihna Elisabeth tungah a bawl, a inn vengte leh a behte in a zak uh ciangin, amah tawh kibangin lungdamin a nuam uh hi.
+**TDB77:** Topa in a lian hehpihna Elisabeth tungah a bawl, a inn vengte leh a behte in a zak-te ciangin, amah tawh kibangin lungdamin a nuam-te hi.
 
-**ZVS:** Topa in amah a hehpih mahmahna thu a zak uh ciangin a vengte leh a behte khempeuh in a lungdampih uh hi.
+**ZVS:** Topa in amah a hehpih mahmahna thu a zak-te ciangin a vengte leh a behte khempeuh in a lungdampih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v59
 **EN:** And it came to pass, that on the eighth day they came to circumcise the child; and they called him Zacharias, after the name of his father.
 
-**TDB77:** Ni giat ni khit ciangin, naungeek’ vun at dingin amaute hong pai uh a, a pa min zui-in Zekhariah a phuak nuam uh hi.
+**TDB77:** Ni giat ni khit ciangin, naungeek’ vun at dingin amaute hong pai-te a, a pa min zui-in Zekhariah a phuak nuam-te hi.
 
-**ZVS:** Naungek nipikal khat a phak khit ciangin a vun a at dingin hong pai uh a, a naungek' min dingin zong a pa' min mah ahi Zekhariah phuahding a sawm uh hi.
+**ZVS:** Naungek nipikal khat a phak khit ciangin a vun a at dingin hong pai-te a, a naungek' min dingin zong a pa' min mah ahi Zekhariah phuahding a sawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -537,27 +537,27 @@
 ### v61
 **EN:** And they said unto her, There is none of thy kindred that is called by this name.
 
-**TDB77:** amaute in, “Hih min in na behte lakah khat beek kiphuak lo hi,” a ci uh hi.
+**TDB77:** amaute in, “Hih min in na behte lakah khat beek kiphuak lo hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin amaute in Elizabeth kiangah, “Na beh sung uhah hih bang min a nei om nailo hi,” a ci uh hi.
+**ZVS:** Tua ciangin amaute in Elizabeth kiangah, “Na beh sung uhah hih bang min a nei om nailo hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v62
 **EN:** And they made signs to his father, how he would have him called.
 
-**TDB77:** A pa kiangah, “Bang phuak nuam na hi hiam?” ci-in lim tawh a dong uh hi.
+**TDB77:** A pa kiangah, “Bang phuak nuam na hi hiam?” ci-in lim tawh a dong-te hi.
 
-**ZVS:** Tua ciangin hih nau min bang phuakding ihi hiam, ci-in a pa kiangah lim tawh a dong uh hi.
+**ZVS:** Tua ciangin hih nau min bang phuakding ihi hiam, ci-in a pa kiangah lim tawh a dong-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v63
 **EN:** And he asked for a writing table, and wrote, saying, His name is John. And they marvelled all.
 
-**TDB77:** Zekhariah in lai ngen a, “Ama min in Johan ahi ding hi,” ci-in a gelh ciangin amaute khempeuh in lamdang a sa uh hi.
+**TDB77:** Zekhariah in lai ngen a, “Ama min in Johan ahi ding hi,” ci-in a gelh ciangin amaute khempeuh in lamdang a sa-te hi.
 
-**ZVS:** Zekhariah in zong laidal khat ngen a, tua tungah, “Ama min Johan hi ding hi,” ci-in a gelh ciangin amaute khempeuh in lamdang a sa mahmah uh hi.
+**ZVS:** Zekhariah in zong laidal khat ngen a, tua tungah, “Ama min Johan hi ding hi,” ci-in a gelh ciangin amaute khempeuh in lamdang a sa mahmah-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -573,18 +573,18 @@
 ### v65
 **EN:** And fear came on all that dwelt round about them: and all these sayings were noised abroad throughout all the hill country of Judaea.
 
-**TDB77:** A inn vengte khempeuh lau uh a, tua thu khempeuh Judah gam khamtung khempeuh ah kizeel hi.
+**TDB77:** A inn vengte khempeuh lau-te a, tua thu khempeuh Judah gam khamtung khempeuh ah kizeel hi.
 
-**ZVS:** A vengte khempeuh in lamdangsa-in lau uh a, Judea mualtung gamsung khempeuhah hih thu a kitheithang hi.
+**ZVS:** A vengte khempeuh in lamdangsa-in lau-te a, Judea mualtung gamsung khempeuhah hih thu a kitheithang hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v66
 **EN:** And all they that heard them laid them up in their hearts, saying, What manner of child shall this be! And the hand of the Lord was with him.
 
-**TDB77:** A za khempeuhte in a lungsim sung uh ah ciamteh uh a, “Hih naungeek in bangci bang mi hi ding ahi hiam?” a ci uh hi. Bang hang hiam i cih leh, Topa’ khut in amah tawh a omkhawm hi.
+**TDB77:** A za khempeuhte in a lungsim sung-te ah ciamteh-te a, “Hih naungeek in bangci bang mi hi ding ahi hiam?” a ci-te hi. Bang hang hiam i cih leh, Topa’ khut in amah tawh a omkhawm hi.
 
-**ZVS:** Hih thu a za mi khempeuh in, “Hih naungek a bangci mi hong hi ding hiam?” ci-in a lungsim sung uhah a ngaihsun ciat uh hi. Bang hang hiam cih leh Topa in amah a huhna thu teltakin kilang hi.
+**ZVS:** Hih thu a za mi khempeuh in, “Hih naungek a bangci mi hong hi ding hiam?” ci-in a lungsim sung uhah a ngaihsun ciat-te hi. Bang hang hiam cih leh Topa in amah a huhna thu teltakin kilang hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -673,7 +673,7 @@
 
 **TDB77:** Gupna thu ama mipawlte na theihsak nading ahi zongin, ama lampi na sial nading ahi zongin, Nang in Topa mai-ah na pai ding hi. Tua hehpihna hangin
 
-**ZVS:** Na mawhna uh hong kimaisak khit ciangin, hotkhiatna na ngah ding uh hi, ci-in ama mite kiangah na gen ding hi.
+**ZVS:** Na mawhna-te hong kimaisak khit ciangin, hotkhiatna na ngah ding-te hi, ci-in ama mite kiangah na gen ding hi.
 
 **Grammar:** future: will
 

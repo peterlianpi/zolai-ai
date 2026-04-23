@@ -34,18 +34,18 @@
 ### v2
 **EN:** Above it stood the seraphims: each one had six wings; with twain he covered his face, and with twain he covered his feet, and with twain he did fly.
 
-**TDB77:** Ama tungah serafim vanmite ding uh hi; tuate in kha guk ciat nei uh hi; nih tawh ama mai liah-in nih tawh ama khe tuamin, nih tawh leeng uh hi.
+**TDB77:** Ama tungah serafim vanmite ding-te hi; tuate in kha guk ciat nei-te hi; nih tawh ama mai liah-in nih tawh ama khe tuamin, nih tawh leeng-te hi.
 
-**ZVS:** Ama kiimah serafim van mite a ding uh hi. Tuate in kha guk ciat nei uh hi; nih tawh a mai liahin, nih tawh a khe tuamin, nih tawh a leeng uh hi.
+**ZVS:** Ama kiimah serafim van mite a ding-te hi. Tuate in kha guk ciat nei-te hi; nih tawh a mai liahin, nih tawh a khe tuamin, nih tawh a leeng-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v3
 **EN:** And one cried unto another, and said, Holy, holy, holy, is the
 
-**TDB77:** Amaute khat leh khat kisamin: “Vanglianpen Topa, siangtho, siangtho, siangtho hi; leitung khempeuh ama minthan’na tawh kidim hi,” ci-in awng uh hi.
+**TDB77:** Amaute khat leh khat kisamin: “Vanglianpen Topa, siangtho, siangtho, siangtho hi; leitung khempeuh ama minthan’na tawh kidim hi,” ci-in awng-te hi.
 
-**ZVS:** Amaute khatlekhat kisamin: “Vanglian { Topa}, siangtho, siangtho, siangtho; leitung khempeuh ama minthan'na tawh kidim,” ci-in awng uh hi.
+**ZVS:** Amaute khatlekhat kisamin: “Vanglian { Topa}, siangtho, siangtho, siangtho; leitung khempeuh ama minthan'na tawh kidim,” ci-in awng-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -61,9 +61,9 @@
 ### v5
 **EN:** Then said I, Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips: for mine eyes have seen the King, the
 
-**TDB77:** Tua ciangin keimah in, “Gim ngahpa hi ta ing! Bang hang hiam cih leh a mawknapi ka hi hi; ka kam-a ka thugen khempeuh mawhna vive hi a, a thugen khempeuh uh mawhna leh nitna ahi mite’ lakah ka teeng kha hi. Vanglianpen Topa, Kumpipa ka mu kha khin ta hi,” ka ci hi.
+**TDB77:** Tua ciangin keimah in, “Gim ngahpa hi ta ing! Bang hang hiam cih leh a mawknapi ka hi hi; ka kam-a ka thugen khempeuh mawhna vive hi a, a thugen khempeuh-te mawhna leh nitna ahi mite’ lakah ka teeng kha hi. Vanglianpen Topa, Kumpipa ka mu kha khin ta hi,” ka ci hi.
 
-**ZVS:** Tua ciangin keimah in, “Gim ngahpa hi ta ing! Bang hang hiam cih leh a mawknapi ka hi hi; ka kama ka thugen khempeuh a mawkna vive hi a, a thugen khempeuh uh mawhna leh nitna ahi mite lakah ka tengkha hi. Vanglian { Topa}, Kumpipa ka mukha khinta hi,” ka ci hi.
+**ZVS:** Tua ciangin keimah in, “Gim ngahpa hi ta ing! Bang hang hiam cih leh a mawknapi ka hi hi; ka kama ka thugen khempeuh a mawkna vive hi a, a thugen khempeuh-te mawhna leh nitna ahi mite lakah ka tengkha hi. Vanglian { Topa}, Kumpipa ka mukha khinta hi,” ka ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | completed: already done
 
@@ -106,9 +106,9 @@
 ### v10
 **EN:** Make the heart of this people fat, and make their ears heavy, and shut their eyes; lest they see with their eyes, and hear with their ears, and understand with their heart, and convert, and be healed.
 
-**TDB77:** amaute in a mit uh tawh a muh loh nading, a bil uh tawh a zak loh nading, a lungsim uh tawh thu a theihtel loh nading, amaute kihei-in damna a ngah lohna dingun hih mite lungsim mawl sak in la, amau bil uh ngong sak in la, a mit uh va si sak in,” hong ci hi.
+**TDB77:** amaute in a mit-te tawh a muh loh nading, a bil-te tawh a zak loh nading, a lungsim-te tawh thu a theihtel loh nading, amaute kihei-in damna a ngah lohna dingun hih mite lungsim mawl sak in la, amau bil-te ngong sak in la, a mit-te va si sak in,” hong ci hi.
 
-**ZVS:** Amaute in a mit uh tawh a muhlohna ding, a bil uh tawh a zaklohna ding, a lungsim uh tawh thu a theihtel lohna ding, amaute kihei-in damna a ngahlohna dingun hih mite' lungsim mawlsak in la, amau' bil uh ngongsak in la, a mit uh va sisak in,” hong ci hi.
+**ZVS:** Amaute in a mit-te tawh a muhlohna ding, a bil-te tawh a zaklohna ding, a lungsim-te tawh thu a theihtel lohna ding, amaute kihei-in damna a ngahlohna dingun hih mite' lungsim mawlsak in la, amau' bil-te ngongsak in la, a mit-te va sisak in,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 

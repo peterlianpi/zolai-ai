@@ -42,7 +42,7 @@
 ### v3
 **EN:** And the second angel poured out his vial upon the sea; and it became as the blood of a dead man: and every living soul died in the sea.
 
-**TDB77:** Nihna vantungmi in ama tawi hai, tuipi tungah a buak leh, tuipi tui in misite’ sisan bang suak a, tuipi sungah a om ganhing khempeuh a si uh hi.
+**TDB77:** Nihna vantungmi in ama tawi hai, tuipi tungah a buak leh, tuipi tui in misite’ sisan bang suak a, tuipi sungah a om ganhing khempeuh a si-te hi.
 
 **ZVS:** A nihna vantung mi in tuipi tungah a hai hong bung a, tuipi tuite misite' sisan tawh kibang hong suak ahih manin tuipi sungah a om nuntakna a nei khempeuh a si hi.
 
@@ -65,16 +65,16 @@
 ### v6
 **EN:** For they have shed the blood of saints and prophets, and thou hast given them blood to drink; for they are worthy.
 
-**TDB77:** Bang hang hiam na cih leh, amaute in misiangthote’ sisan leh kamsangte’ sisan a bua uh a, amaute sisan na dawnsak zo hi. Amaute zong a dawn dingun kilawm hi,” a cihna ka za hi.
+**TDB77:** Bang hang hiam na cih leh, amaute in misiangthote’ sisan leh kamsangte’ sisan a bua-te a, amaute sisan na dawnsak zo hi. Amaute zong a dawn dingun kilawm hi,” a cihna ka za hi.
 
-**ZVS:** Amaute in mi siangthote leh kamsangte' sisan luangsak uh ahih manin tu-in amaute' dawn dingin sisan a pia na hi hi. Hih pen amaute' ngahdingin a kilawm ahi hi,” a cihna thu ka za hi.
+**ZVS:** Amaute in mi siangthote leh kamsangte' sisan luangsak-te ahih manin tu-in amaute' dawn dingin sisan a pia na hi hi. Hih pen amaute' ngahdingin a kilawm ahi hi,” a cihna thu ka za hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And I heard another out of the altar say, Even so, Lord God Almighty, true and righteous are thy judgments.
 
-**TDB77:** Biakna tau in zong, “Ahi hi. Vanglianpen Topa Pasian aw, na thukhennate a man a dik uh hi,” a cih thu ka za hi.
+**TDB77:** Biakna tau in zong, “Ahi hi. Vanglianpen Topa Pasian aw, na thukhennate a man a dik-te hi,” a cih thu ka za hi.
 
 **ZVS:** Tua ciangin biakna tau panin aw khat hong ging a, “A Vanglian Topa Pasian aw, na thukhennate thumanin thutang hi,” a cihna ka za hi.
 
@@ -90,34 +90,34 @@
 ### v9
 **EN:** And men were scorched with great heat, and blasphemed the name of God, which hath power over these plagues: and they repented not to give him glory.
 
-**TDB77:** Mei sa pha lua-in mite a kang tum uh a, gimnate a uk Pasian’ min a kosia uh hi. Topa’ vangliatna phat nading a kisik kei uh hi.
+**TDB77:** Mei sa pha lua-in mite a kang tum-te a, gimnate a uk Pasian’ min a kosia-te hi. Topa’ vangliatna phat nading a kisik kei-te hi.
 
-**ZVS:** Nisa in mite kanggawp ahih manin mite in hih gimna tawh kisai-ah thu a nei Pasian a samsia uh hi. Ahi zongin a mawhna uh panin kisikin Pasian a phatding uh utlo uh hi.
+**ZVS:** Nisa in mite kanggawp ahih manin mite in hih gimna tawh kisai-ah thu a nei Pasian a samsia-te hi. Ahi zongin a mawhna-te panin kisikin Pasian a phatding-te utlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And the fifth angel poured out his vial upon the seat of the beast; and his kingdom was full of darkness; and they gnawed their tongues for pain,
 
-**TDB77:** Ngana vantungmi in ama tawi hai sahang tokhom tungah a buak leh, sahang gam in khuamial suak a, a gamsung mite in na sa-in a leii uh a gawi uh hi.
+**TDB77:** Ngana vantungmi in ama tawi hai sahang tokhom tungah a buak leh, sahang gam in khuamial suak a, a gamsung mite in na sa-in a leii-te a gawi-te hi.
 
-**ZVS:** A ngana vantung mi in ganhing tokhom tungah a hai hong bung a, tua ganhing' ukna gamsung tengah khua hong mial hi. Mite in na a sak manun a leii pet uh a,
+**ZVS:** A ngana vantung mi in ganhing tokhom tungah a hai hong bung a, tua ganhing' ukna gamsung tengah khua hong mial hi. Mite in na a sak manun a leii pet-te a,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v11
 **EN:** And blasphemed the God of heaven because of their pains and their sores, and repented not of their deeds.
 
-**TDB77:** Amau natna meimate hangin vantung Pasian a kosia uh hi. Amaute gamtatnate zong a kisik kei uh hi.
+**TDB77:** Amau natna meimate hangin vantung Pasian a kosia-te hi. Amaute gamtatnate zong a kisik kei-te hi.
 
-**ZVS:** a meimate uh na a sak manun vantung Pasian a samsia uh hi. Ahi zongin a gamtat siatna uh panin kisik nuamlo uh hi.
+**ZVS:** a meimate-te na a sak manun vantung Pasian a samsia-te hi. Ahi zongin a gamtat siatna-te panin kisik nuamlo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And the sixth angel poured out his vial upon the great river Euphrates; and the water thereof was dried up, that the way of the kings of the east might be prepared.
 
-**TDB77:** Gukna vantungmi in ama tawi hai Eufrates gunpi tungah a buak leh, ni suahna lam pan hong pai uh kumpite ading a baihsa a pian’ nadingin guntui a kang hi.
+**TDB77:** Gukna vantungmi in ama tawi hai Eufrates gunpi tungah a buak leh, ni suahna lam pan hong pai-te kumpite ading a baihsa a pian’ nadingin guntui a kang hi.
 
 **ZVS:** A gukna vantung mi in Eufratis Gun lianpi tungah a hai hong bung a, nisuahna lam kumpite hong paina ding lam a bawlkholhna-in a tuite hong kangcip hi.
 
@@ -126,7 +126,7 @@
 ### v13
 **EN:** And I saw three unclean spirits like frogs come out of the mouth of the dragon, and out of the mouth of the beast, and out of the mouth of the false prophet.
 
-**TDB77:** Tua lai takin gulpi kam, sahang’ kam, thuzuau hilhte’ kam uh sung pan uiphuk tawh kibang a kihhuai kha gilo pawl thum a pusuakkhia ka mu hi.
+**TDB77:** Tua lai takin gulpi kam, sahang’ kam, thuzuau hilhte’ kam-te sung pan uiphuk tawh kibang a kihhuai kha gilo pawl thum a pusuakkhia ka mu hi.
 
 **ZVS:** Tua ciangin gulpi kamsung, ganhing kamsung, leh a manlo kamsangpa' kamsung panin uiphuk tawh a kibang kha gilo thum a hong pusuak ka mu hi.
 
@@ -135,18 +135,18 @@
 ### v14
 **EN:** For they are the spirits of devils, working miracles, which go forth unto the kings of the earth and of the whole world, to gather them to the battle of that great day of God Almighty.
 
-**TDB77:** Amaute in nalamdangte lakin Vanglianpen Pasian’ ni lianpi-ah galdo-in leitung khempeuh pan kumpite kikhawmsak dingun a paikhia dawigilo’ khate ahi uh hi.
+**TDB77:** Amaute in nalamdangte lakin Vanglianpen Pasian’ ni lianpi-ah galdo-in leitung khempeuh pan kumpite kikhawmsak dingun a paikhia dawigilo’ khate ahi-te hi.
 
-**ZVS:** Tuate pen dawite' kha hi a, na lamdang a bawl uh hi. A Vanglian Pasian' Ni hong tun' ciangin gal a do dingin leitung gam khempeuhah a om kumpite a kaikhawm dingin a kuankhia uh hi.
+**ZVS:** Tuate pen dawite' kha hi a, na lamdang a bawl-te hi. A Vanglian Pasian' Ni hong tun' ciangin gal a do dingin leitung gam khempeuhah a om kumpite a kaikhawm dingin a kuankhia-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And he gathered them together into a place called in the Hebrew tongue Armageddon.
 
-**TDB77:** Dawigilo khate in kumpite, Hebru kamin Armageddon a kici munah a kikhawmsak uh hi.
+**TDB77:** Dawigilo khate in kumpite, Hebru kamin Armageddon a kici munah a kikhawmsak-te hi.
 
-**ZVS:** Tua khate in Hebru pau-in a kici munah kumpite a kaikhawm uh hi.
+**ZVS:** Tua khate in Hebru pau-in a kici munah kumpite a kaikhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -162,7 +162,7 @@
 ### v18
 **EN:** And there were voices, and thunders, and lightnings; and there was a great earthquake, such as was not since men were upon the earth, so mighty an earthquake, and so great.
 
-**TDB77:** khuaphialepte, awte, vangingte a piang uh hi. Mite in leitungah a om uh-a kipan cikmah huna piang ngei lo a lian a haksa mahmah zinlin’na a piang hi.
+**TDB77:** khuaphialepte, awte, vangingte a piang-te hi. Mite in leitungah a om uh-a kipan cikmah huna piang ngei lo a lian a haksa mahmah zinlin’na a piang hi.
 
 **ZVS:** Tua ciangin khua hong phia-in, a ging lianpi hong om a, van hong gingin nakpi takin zin hong ling hi. Zinling khempeuh lakah a husia pen ahih manin mihing a pian'zawh hihbang zinling omngei nailo hi.
 
@@ -171,7 +171,7 @@
 ### v19
 **EN:** And the great city was divided into three parts, and the cities of the nations fell: and great Babylon came in remembrance before God, to give unto her the cup of the wine of the fierceness of his wrath.
 
-**TDB77:** Khuapi in seh thumin a kikhen hi. Gam sungah a om khuapite zong a cim uh hi. Babilon khuapite zong Pasian’ hehna lianpi leenggahzu hai a dawnsak dingin Pasian mai-ah tua khuapi kiciamtehin a om hi.
+**TDB77:** Khuapi in seh thumin a kikhen hi. Gam sungah a om khuapite zong a cim-te hi. Babilon khuapite zong Pasian’ hehna lianpi leenggahzu hai a dawnsak dingin Pasian mai-ah tua khuapi kiciamtehin a om hi.
 
 **ZVS:** Khuapi phelthum kisuah a, gamsunga om khuapi dang khempeuh kisia hi. Pasian in Babylon khuapi mangngilhlo a, ama hehna ahi leenggahzu a hai sung panin Babylon khuapi a dawnsak hi.
 
@@ -189,9 +189,9 @@
 ### v21
 **EN:** And there fell upon men a great hail out of heaven, every stone about the weight of a talent: and men blasphemed God because of the plague of the hail; for the plague thereof was exceeding great.
 
-**TDB77:** Tua lai takin vantung pan tawi zali bang a gik gialpi kia a, mite in tua gialpi gimna hangin Pasian a kosia uh hi, bang hang hiam na cih uh leh, tua gimna in a lian mahmah hi.
+**TDB77:** Tua lai takin vantung pan tawi zali bang a gik gialpi kia a, mite in tua gialpi gimna hangin Pasian a kosia-te hi, bang hang hiam na cih-te leh, tua gimna in a lian mahmah hi.
 
-**ZVS:** Gial golpipi, khat ciangin tawi sawmthum val a gik, van panin mite tungah hong kia hi. Tua gimna nasialua ahih manin tua gialte hangin mite in Pasian a samsia uh hi.
+**ZVS:** Gial golpipi, khat ciangin tawi sawmthum val a gik, van panin mite tungah hong kia hi. Tua gimna nasialua ahih manin tua gialte hangin mite in Pasian a samsia-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 

@@ -122,9 +122,9 @@
 ### v12
 **EN:** Say now to the rebellious house, Know ye not what these things mean? tell them, Behold, the king of Babylon is come to Jerusalem, and hath taken the king thereof, and the princes thereof, and led them with him to Babylon;
 
-**TDB77:** “Hih a lehdo thei mite in hih thugentehna a khiatna a thei uh hiam, dong in, Babilon Kumpipa Jerusalem khua-ah hong pai-in a kumpipa leh a uliante manin Babilon-ah a ciahpihna thu gen in.
+**TDB77:** “Hih a lehdo thei mite in hih thugentehna a khiatna a thei-te hiam, dong in, Babilon Kumpipa Jerusalem khua-ah hong pai-in a kumpipa leh a uliante manin Babilon-ah a ciahpihna thu gen in.
 
-**ZVS:** “Hih a lehdo thei mite in hih thugentehna a khiatna a thei uh hiam, dong in. Jerusalem khua-ah Babylon kumpipa hong pai-in a kumpipa leh a uliante manin Babylon-ah a ciahpihna thu gen in.
+**ZVS:** “Hih a lehdo thei mite in hih thugentehna a khiatna a thei-te hiam, dong in. Jerusalem khua-ah Babylon kumpipa hong pai-in a kumpipa leh a uliante manin Babylon-ah a ciahpihna thu gen in.
 
 **Grammar:** serial verb: -in (and then) | causal: because
 
@@ -140,9 +140,9 @@
 ### v14
 **EN:** That the kingdom might be base, that it might not lift itself up, but that by keeping of his covenant it might stand.
 
-**TDB77:** Bang hang hiam cih leh tua minamte in lehdo kik nawn loin, a thuciam bawlna uh a kizuih nading a deihna ahi hi.
+**TDB77:** Bang hang hiam cih leh tua minamte in lehdo kik nawn loin, a thuciam bawlna-te a kizuih nading a deihna ahi hi.
 
-**ZVS:** Bang hang hiam cih leh tua minamte in lehdokik nawnloin, a thuciam bawlna uh a kizuihna ding a deihna ahi hi.
+**ZVS:** Bang hang hiam cih leh tua minamte in lehdokik nawnloin, a thuciam bawlna-te a kizuihna ding a deihna ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -167,9 +167,9 @@
 ### v17
 **EN:** Neither shall Pharaoh with his mighty army and great company make for him in the war, by casting up mounts, and building forts, to cut off many persons:
 
-**TDB77:** Babilon mite in mi tampi a thah theihna dingun kan bawlin dum a tawh uh ciangin a thahat Faro’ galkap honpite nangawnin amah huh zo lo ding uh hi.
+**TDB77:** Babilon mite in mi tampi a thah theihna dingun kan bawlin dum a tawh-te ciangin a thahat Faro’ galkap honpite nangawnin amah huh zo lo ding-te hi.
 
-**ZVS:** Babylon mite in mi tampi a thah theihna dingun kan bawlin dum a tawh uh ciangin a thahat Faro' galkap honpite nangawn in amah huh zolo ding uh hi.
+**ZVS:** Babylon mite in mi tampi a thah theihna dingun kan bawlin dum a tawh-te ciangin a thahat Faro' galkap honpite nangawn in amah huh zolo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -221,18 +221,18 @@
 ### v23
 **EN:** In the mountain of the height of Israel will I plant it: and it shall bring forth boughs, and bear fruit, and be a goodly cedar: and under it shall dwell all fowl of every wing; in the shadow of the branches thereof shall they dwell.
 
-**TDB77:** Israel mual sang pen dawn-ah suanin, a hiang zai-in a gah luai ding a, taamtaak lianpi khat suak ding hi. Tua tungah vasa nam khempeuh tawlnga ding a, bu bawlna munin nei ding uh hi.
+**TDB77:** Israel mual sang pen dawn-ah suanin, a hiang zai-in a gah luai ding a, taamtaak lianpi khat suak ding hi. Tua tungah vasa nam khempeuh tawlnga ding a, bu bawlna munin nei ding-te hi.
 
-**ZVS:** Israel mual sangpen dawnah suanin, a hiang zai-in a gah luai ding a, taamtak lianpi khat suak ding hi. Tua tungah vasa nam khempeuh tawlnga ding a, bu bawlna munin a nei ding uh hi.
+**ZVS:** Israel mual sangpen dawnah suanin, a hiang zai-in a gah luai ding a, taamtak lianpi khat suak ding hi. Tua tungah vasa nam khempeuh tawlnga ding a, bu bawlna munin a nei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v24
 **EN:** And all the trees of the field shall know that I the
 
-**TDB77:** Tua ciangin singkung sangte phukin, singkung neute a liansakpa, singkung hingte keusakin, singkung keute a hingsak kik Topa ka hihna thu gam sunga om singkung khempeuh in thei ding uh hi. Topa ahi keimah in hih thu ka gen khin a, hih dingin ka gen bangin ka gamta ding hi,” hong ci hi.
+**TDB77:** Tua ciangin singkung sangte phukin, singkung neute a liansakpa, singkung hingte keusakin, singkung keute a hingsak kik Topa ka hihna thu gam sunga om singkung khempeuh in thei ding-te hi. Topa ahi keimah in hih thu ka gen khin a, hih dingin ka gen bangin ka gamta ding hi,” hong ci hi.
 
-**ZVS:** Tua ciangin singkung sangte phukin, singkung neute a liansakpa, singkung hingte keusakin, singkung keute a hingsakkik { Topa } ka hihna thu gamsunga om singkung khempeuh in hong thei ding uh hi. { Topa } ahi keimah in hih thu ka gen khin a, hih dingin ka gen bangin ka gamta ding hi,” a hong ci hi.
+**ZVS:** Tua ciangin singkung sangte phukin, singkung neute a liansakpa, singkung hingte keusakin, singkung keute a hingsakkik { Topa } ka hihna thu gamsunga om singkung khempeuh in hong thei ding-te hi. { Topa } ahi keimah in hih thu ka gen khin a, hih dingin ka gen bangin ka gamta ding hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

@@ -39,7 +39,7 @@
 ### v3
 **EN:** And cried with a loud voice, as when a lion roareth: and when he had cried, seven thunders uttered their voices.
 
-**TDB77:** humpinelkai a hawk bangin nakpi aw tawh kiko a, a kiko ciangin vanging sagihte in amau kam awte a gen uh hi.
+**TDB77:** humpinelkai a hawk bangin nakpi aw tawh kiko a, a kiko ciangin vanging sagihte in amau kam awte a gen-te hi.
 
 **ZVS:** nakpi takin kiko ahih manin humpinelkai hawk tawh a kibang hi. Tua bangin a kiko ciangin van sagih a gingte in a dawng hi.
 
@@ -48,7 +48,7 @@
 ### v4
 **EN:** And when the seven thunders had uttered their voices, I was about to write: and I heard a voice from heaven saying unto me, Seal up those things which the seven thunders uttered, and write them not.
 
-**TDB77:** Tua bangin vanging sagihte genna gelh dingin ka kisak leh, “Vanging sagihte in a gen uh thute ciamtehin gelh kei in,” ci-in vantung pan hong pusuak aw ka za hi.
+**TDB77:** Tua bangin vanging sagihte genna gelh dingin ka kisak leh, “Vanging sagihte in a gen-te thute ciamtehin gelh kei in,” ci-in vantung pan hong pusuak aw ka za hi.
 
 **ZVS:** Tua van sagih a gingte' thugen a mankhit phetin tua a thugente lai-ah a gelh dingin ka kithawi hi. Ahi zongin vantung panin awging khat ka za a, “Tua thute lai-ah gelh kei in la, tua van sagih a gingte' thugen imcip in,” hong ci hi.
 
@@ -107,7 +107,7 @@
 ### v11
 **EN:** And he said unto me, Thou must prophesy again before many peoples, and nations, and tongues, and kings.
 
-**TDB77:** Tua lai takin, “Nangmah in mipawlte, gamte, kamte, kumpi tampite thu tawh kizomin a nungcianga piang ding thu na genkhol ding hi,” ci-in hong gen uh hi.
+**TDB77:** Tua lai takin, “Nangmah in mipawlte, gamte, kamte, kumpi tampite thu tawh kizomin a nungcianga piang ding thu na genkhol ding hi,” ci-in hong gen-te hi.
 
 **ZVS:** Tua ciangin keima kiangah, “Minam tuamtuam, pau nam tuamtuam a zangte leh kumpite tungah a piang ding thu na gen ding kisam lai hi,” hong kici hi.
 

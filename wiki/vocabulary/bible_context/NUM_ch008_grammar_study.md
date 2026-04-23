@@ -76,9 +76,9 @@
 ### v7
 **EN:** And thus shalt thou do unto them, to cleanse them: Sprinkle water of purifying upon them, and let them shave all their flesh, and let them wash their clothes, and so make themselves clean.
 
-**TDB77:** Amaute sian’sak nadingin hih bangin na hih ding hi: sian’suahna tui amaute tungah theh in la, a pumpi khempeuh mulkiatna tawh amau mah kiat sak in la, a puante uh sawpin amau mah na kisiang tawm sak ding hi.
+**TDB77:** Amaute sian’sak nadingin hih bangin na hih ding hi: sian’suahna tui amaute tungah theh in la, a pumpi khempeuh mulkiatna tawh amau mah kiat sak in la, a puante-te sawpin amau mah na kisiang tawm sak ding hi.
 
-**ZVS:** Amaute sian'sakna dingin hih bangin na hih ding hi: Sian'suahna tui amaute tungah theh in la, a pumpi khempeuh uh mulkiatna tawh amau kiatsak in la, a puante uh sawpin amau mah na kisiangsak tawm sak ding hi.
+**ZVS:** Amaute sian'sakna dingin hih bangin na hih ding hi: Sian'suahna tui amaute tungah theh in la, a pumpi khempeuh-te mulkiatna tawh amau kiatsak in la, a puante-te sawpin amau mah na kisiangsak tawm sak ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -101,9 +101,9 @@
 ### v10
 **EN:** And thou shalt bring the Levites before the
 
-**TDB77:** Topa mai-ah Levi mite na paipih ciangin, Israel mite in Levi mite tungah a khut uh nga ding uh a,
+**TDB77:** Topa mai-ah Levi mite na paipih ciangin, Israel mite in Levi mite tungah a khut-te nga ding-te a,
 
-**ZVS:** { Topa' } mai-ah Levi mite na paipih ciangin, Israel mite in Levi mite tungah a khut uh nga ding uh a,
+**ZVS:** { Topa' } mai-ah Levi mite na paipih ciangin, Israel mite in Levi mite tungah a khut-te nga ding-te a,
 
 **Grammar:** plural: uh marker
 
@@ -119,9 +119,9 @@
 ### v12
 **EN:** And the Levites shall lay their hands upon the heads of the bullocks: and thou shalt offer the one for a sin offering, and the other for a burnt offering, unto the
 
-**TDB77:** Tua ciangin Levi mite in bawngtalte lu tungah a khut uh nga ding uh hi; Levi mite’ ading kilemna bawlsakna dingin khialhna hanga biakna-in khat, meihal biakna-in a khat, Topa tungah na pia ding hi.
+**TDB77:** Tua ciangin Levi mite in bawngtalte lu tungah a khut-te nga ding-te hi; Levi mite’ ading kilemna bawlsakna dingin khialhna hanga biakna-in khat, meihal biakna-in a khat, Topa tungah na pia ding hi.
 
-**ZVS:** Tua ciangin Levi mite in bawngtalte' lu tungah a khut uh nga ding uh hi. Levi mite-a' ding kilemna bawlsakna dingin khialhna hanga biakna-in khat, meihal biakna-in a khat, { Topa' } tungah na pia ding hi.
+**ZVS:** Tua ciangin Levi mite in bawngtalte' lu tungah a khut-te nga ding-te hi. Levi mite-a' ding kilemna bawlsakna dingin khialhna hanga biakna-in khat, meihal biakna-in a khat, { Topa' } tungah na pia ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -139,16 +139,16 @@
 
 **TDB77:** “Tua ciangin Israel mite lak panin Levi mite na khenkhia ding a Levi mite in keima’ aa hi ding hi.
 
-**ZVS:** Tua bangin Israel mite lak panin Levi mite na khenkhia ding a, Levi mite keima-a' hi ding uh hi.
+**ZVS:** Tua bangin Israel mite lak panin Levi mite na khenkhia ding a, Levi mite keima-a' hi ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will
 
 ### v15
 **EN:** And after that shall the Levites go in to do the service of the tabernacle of the congregation: and thou shalt cleanse them, and offer them for an offering.
 
-**TDB77:** Amaute siangsakin veii-a biakna-in na piak khit ciangin kikhopna bukah nasem dingin Levi mite pai ding uh hi.
+**TDB77:** Amaute siangsakin veii-a biakna-in na piak khit ciangin kikhopna bukah nasem dingin Levi mite pai ding-te hi.
 
-**ZVS:** Amaute siangtho sakin vei-a biakna-in na piak khit ciangin kikhopna bukah na a sem dingin Levi mite pai ding uh hi.
+**ZVS:** Amaute siangtho sakin vei-a biakna-in na piak khit ciangin kikhopna bukah na a sem dingin Levi mite pai ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -191,27 +191,27 @@
 ### v20
 **EN:** And Moses, and Aaron, and all the congregation of the children of Israel, did to the Levites according unto all that the
 
-**TDB77:** Tua bangin Moses leh Aaron leh Israel mi honpite khempeuh in Levi mite tungah hih uh hi; Topa in Levi mite tawh kisai-in Moses tungah a thupiak khempeuh tawh kizui-in Israel mite in amaute tungah hih uh hi.
+**TDB77:** Tua bangin Moses leh Aaron leh Israel mi honpite khempeuh in Levi mite tungah hih-te hi; Topa in Levi mite tawh kisai-in Moses tungah a thupiak khempeuh tawh kizui-in Israel mite in amaute tungah hih-te hi.
 
-**ZVS:** Tua bangin Moses leh Aaron leh Israel mihonpite khempeuh in Levi mite' tungah a hih uh hi. { Topa } in Levi mite tawh kisai-in Moses' tungah a thupiak khempeuh tawh kizui-in Israel mite in amaute tungah a hih uh hi.
+**ZVS:** Tua bangin Moses leh Aaron leh Israel mihonpite khempeuh in Levi mite' tungah a hih-te hi. { Topa } in Levi mite tawh kisai-in Moses' tungah a thupiak khempeuh tawh kizui-in Israel mite in amaute tungah a hih-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And the Levites were purified, and they washed their clothes; and Aaron offered them as an offering before the
 
-**TDB77:** Levi mite in khialhna panin amaute kisiangthosak tawm uh a, a puante uh sawp uh hi; Aaron in veii-a biakna-in Topa’ mai-ah amaute pia a, amaute sian’sak nadingin Aaron in amau’ ading kilemna bawlsak hi.
+**TDB77:** Levi mite in khialhna panin amaute kisiangthosak tawm-te a, a puante-te sawp-te hi; Aaron in veii-a biakna-in Topa’ mai-ah amaute pia a, amaute sian’sak nadingin Aaron in amau’ ading kilemna bawlsak hi.
 
-**ZVS:** Israel mite, khialhna panin amaute kisiangthosak tawm uh a, a puante uh sawp uh hi. Aaron in vei-a biakna-in { Topa' } mai-ah amaute pia a, amaute sian'sakna dingin Aaron in amau-a' ding kilemna a bawlsak hi.
+**ZVS:** Israel mite, khialhna panin amaute kisiangthosak tawm-te a, a puante-te sawp-te hi. Aaron in vei-a biakna-in { Topa' } mai-ah amaute pia a, amaute sian'sakna dingin Aaron in amau-a' ding kilemna a bawlsak hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And after that went the Levites in to do their service in the tabernacle of the congregation before Aaron, and before his sons: as the
 
-**TDB77:** Tua khit ciangin Aaron leh a tapate omna kikhopna buk sungah nasem dingin Levi mite pai uh hi; Topa in Levi mite tawh kisai-in Moses a thupiak bangin amaute in Levi mite tungah a hih uh hi.
+**TDB77:** Tua khit ciangin Aaron leh a tapate omna kikhopna buk sungah nasem dingin Levi mite pai-te hi; Topa in Levi mite tawh kisai-in Moses a thupiak bangin amaute in Levi mite tungah a hih-te hi.
 
-**ZVS:** Tua khit ciangin Aaron leh a tapate' omna kikhopna buk sungah na a sem dingin Levi mite a pai uh hi. { Topa } in Levi mite tawh kisai-in Moses a thupiak bangin amaute in Levi mite' tungah a hih uh hi.
+**ZVS:** Tua khit ciangin Aaron leh a tapate' omna kikhopna buk sungah na a sem dingin Levi mite a pai-te hi. { Topa } in Levi mite tawh kisai-in Moses a thupiak bangin amaute in Levi mite' tungah a hih-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -227,27 +227,27 @@
 ### v24
 **EN:** This is it that belongeth unto the Levites: from twenty and five years old and upward they shall go in to wait upon the service of the tabernacle of the congregation:
 
-**TDB77:** “Hih in Levi mite tawh a kisai thu ahi hi; kum sawmnih leh kumnga pan a tungsiah a phate in kikhopna buk nasepna sungah na a sem dingin pai ding uh hi;
+**TDB77:** “Hih in Levi mite tawh a kisai thu ahi hi; kum sawmnih leh kumnga pan a tungsiah a phate in kikhopna buk nasepna sungah na a sem dingin pai ding-te hi;
 
-**ZVS:** “Hih pen Levi mite tawh a kisai thu ahi hi. Kum sawmnih leh kum nga pan a tungsiah a phate, kikhopna buk nasepna sungah na a sem dingin hong pai ding uh hi.
+**ZVS:** “Hih pen Levi mite tawh a kisai thu ahi hi. Kum sawmnih leh kum nga pan a tungsiah a phate, kikhopna buk nasepna sungah na a sem dingin hong pai ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And from the age of fifty years they shall cease waiting upon the service thereof, and shall serve no more:
 
-**TDB77:** kum sawmnga a phak uh cianga kipan nasepna panin amau kihemkhia-in na sem nawn lo ding uh hi;
+**TDB77:** kum sawmnga a phak-te cianga kipan nasepna panin amau kihemkhia-in na sem nawn lo ding-te hi;
 
-**ZVS:** Kum sawmnga a phak uha kipan nasepna panin amau kihemkhia-in na sem nawnlo ding uh hi.
+**ZVS:** Kum sawmnga a phak uha kipan nasepna panin amau kihemkhia-in na sem nawnlo ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** But shall minister with their brethren in the tabernacle of the congregation, to keep the charge, and shall do no service. Thus shalt thou do unto the Levites touching their charge.
 
-**TDB77:** ahih hangin kikhopna buk sungah a sanggamte huh ding uh a, amaute in a na taktak sem lo ding uh hi. Tua bangin Levi mite’ nasep ding na seh ding hi,” a ci hi.
+**TDB77:** ahih hangin kikhopna buk sungah a sanggamte huh ding-te a, amaute in a na taktak sem lo ding-te hi. Tua bangin Levi mite’ nasep ding na seh ding hi,” a ci hi.
 
-**ZVS:** Ahih hangin kikhopna buk sungah a sanggamte uh huh ding a, amaute in a na taktak semlo ding uh hi. Tua bangin Levi mite' nasep ding na seh ding hi,” a ci hi.
+**ZVS:** Ahih hangin kikhopna buk sungah a sanggamte-te huh ding a, amaute in a na taktak semlo ding-te hi. Tua bangin Levi mite' nasep ding na seh ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 

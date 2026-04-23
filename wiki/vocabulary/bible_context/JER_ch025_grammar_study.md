@@ -43,54 +43,54 @@
 ### v3
 **EN:** From the thirteenth year of Josiah the son of Amon king of Judah, even unto this day, that is the three and twentieth year, the word of the
 
-**TDB77:** “Amon’ tapa Josiah, Judah gamah kumpi a suah zawh a kum sawm leh thum kum pan tu ciang dong kum sawmnih leh kumthum sung Topa in kei hong hopih a, ke’n zong note kiangah kong gen sawn tawntung hangin note in na ngai kei uh hi.
+**TDB77:** “Amon’ tapa Josiah, Judah gamah kumpi a suah zawh a kum sawm leh thum kum pan tu ciang dong kum sawmnih leh kumthum sung Topa in kei hong hopih a, ke’n zong note kiangah kong gen sawn tawntung hangin note in na ngai kei-te hi.
 
-**ZVS:** “Amon' tapa Josiah, Judah gamah kumpi a suahzawh a kum sawm leh thum pan tu ciangdong kum sawmnih leh kum thum sung { Topa } in kei hong hopih a, ke'n zong note kiangah kong gensawn tawntung hangin note in na ngai kei uh hi.
+**ZVS:** “Amon' tapa Josiah, Judah gamah kumpi a suahzawh a kum sawm leh thum pan tu ciangdong kum sawmnih leh kum thum sung { Topa } in kei hong hopih a, ke'n zong note kiangah kong gensawn tawntung hangin note in na ngai kei-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And the
 
-**TDB77:** Topa in ama’ nasem ahi kamsangte khempeuh hong sawl tawntung hi napi-in note in ngai loin na bil uh na dawh kei uh hi.
+**TDB77:** Topa in ama’ nasem ahi kamsangte khempeuh hong sawl tawntung hi napi-in note in ngai loin na bil-te na dawh kei-te hi.
 
-**ZVS:** { Topa } in ama nasem ahi kamsangte khempeuh hong sawl tawntung hinapi-in note in ngailoin na bil uh na ngat kei uh hi.
+**ZVS:** { Topa } in ama nasem ahi kamsangte khempeuh hong sawl tawntung hinapi-in note in ngailoin na bil-te na ngat kei-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | plural: uh marker
 
 ### v5
 **EN:** They said, Turn ye again now every one from his evil way, and from the evil of your doings, and dwell in the land that the
 
-**TDB77:** Amaute in, ‘Tu-in na vekpi-un na giltohna uh leh na gamtat khialhnate uh panin na kihei uh leh Topa in note leh tanglai-a na pute na pate uh tungah na neih tawntung ding uh a, a hong piak gam sungah na teeng thei ding uh hi.
+**TDB77:** Amaute in, ‘Tu-in na vekpi-un na giltohna-te leh na gamtat khialhnate-te panin na kihei-te leh Topa in note leh tanglai-a na pute na pate-te tungah na neih tawntung ding-te a, a hong piak gam sungah na teeng thei ding-te hi.
 
-**ZVS:** Amaute in, ‘Tu-in na vekpi-un na gitlohna uh leh na gamtat khialhnate uh panin na kihei uh leh { Topa } in note leh tanglai-a na pu na pate uh tungah na neih tawntung dingun a hong piak gamsungah na teng thei ding uh hi.
+**ZVS:** Amaute in, ‘Tu-in na vekpi-un na gitlohna-te leh na gamtat khialhnate-te panin na kihei-te leh { Topa } in note leh tanglai-a na pu na pate-te tungah na neih tawntung dingun a hong piak gamsungah na teng thei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And go not after other gods to serve them, and to worship them, and provoke me not to anger with the works of your hands; and I will do you no hurt.
 
-**TDB77:** pasian dangte’ nung delh loin, a na sem loin na biak kei uh a, na khut uh tawh na bawl uh milimte peuh bia-in nong hehsak kei uh leh, note bangmah kong cih kei ding hi,’ ci-in hong gen uh hi.
+**TDB77:** pasian dangte’ nung delh loin, a na sem loin na biak kei-te a, na khut-te tawh na bawl-te milimte peuh bia-in nong hehsak kei-te leh, note bangmah kong cih kei ding hi,’ ci-in hong gen-te hi.
 
-**ZVS:** Pasian dangte' nung delhloin, a na semloin na biak kei uh a, na khut uh tawh na bawl uh milimte peuh bia-in na hehsak kei nak uh leh, note bangmah hong cih kei ding hi,’ ci-in hong gen uh hi.
+**ZVS:** Pasian dangte' nung delhloin, a na semloin na biak kei-te a, na khut-te tawh na bawl-te milimte peuh bia-in na hehsak kei nak-te leh, note bangmah hong cih kei ding hi,’ ci-in hong gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
 ### v7
 **EN:** Yet ye have not hearkened unto me, saith the
 
-**TDB77:** Ahih hangin Topa in kong cih-inah, note in ka thu nong ngai kei uh a, note’ daan thuak nading mahin na khut uh tawh milim bawlin nong hehsak uh hi.
+**TDB77:** Ahih hangin Topa in kong cih-inah, note in ka thu nong ngai kei-te a, note’ daan thuak nading mahin na khut-te tawh milim bawlin nong hehsak-te hi.
 
-**ZVS:** Ahih hangin { Topa } in kong cihin-ah, note in ka thu nong ngai kei uh a, note' gim ngahna ding mahin na khut uh tawh milim bawlin nong hehsak uh hi.
+**ZVS:** Ahih hangin { Topa } in kong cihin-ah, note in ka thu nong ngai kei-te a, note' gim ngahna ding mahin na khut-te tawh milim bawlin nong hehsak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** Therefore thus saith the
 
-**TDB77:** “Tua ahih ciangin a vanglian Topa in kong cih-inah, ka thu note in hong mang lo na hih uh ciangin,
+**TDB77:** “Tua ahih ciangin a vanglian Topa in kong cih-inah, ka thu note in hong mang lo na hih-te ciangin,
 
-**ZVS:** “Tua ahih ciangin Vanglian { Topa } in kong cihin-ah, note in ka thu hong manglo na hih uh ciangin
+**ZVS:** “Tua ahih ciangin Vanglian { Topa } in kong cihin-ah, note in ka thu hong manglo na hih-te ciangin
 
 **Grammar:** sequence: then/therefore
 
@@ -115,9 +115,9 @@
 ### v11
 **EN:** And this whole land shall be a desolation, and an astonishment; and these nations shall serve the king of Babylon seventy years.
 
-**TDB77:** Gamsung khempeuh kisia-in gam simtham suak ding a, hih mite khempeuh kum sawmsagih sung Babilon kumpipa’ sal-in a om ding uh hi.
+**TDB77:** Gamsung khempeuh kisia-in gam simtham suak ding a, hih mite khempeuh kum sawmsagih sung Babilon kumpipa’ sal-in a om ding-te hi.
 
-**ZVS:** Gamsung khempeuh kisia-in, gam simtham suak ding a, hih mite khempeuh kum sawmsagih sung Babylon kumpipa' salin a om ding uh hi.
+**ZVS:** Gamsung khempeuh kisia-in, gam simtham suak ding a, hih mite khempeuh kum sawmsagih sung Babylon kumpipa' salin a om ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -142,9 +142,9 @@
 ### v14
 **EN:** For many nations and great kings shall serve themselves of them also: and I will recompense them according to their deeds, and according to the works of their own hands.
 
-**TDB77:** Bang hang hiam cih leh gam tampi leh kumpi liante in amaute salin a man ding uh a, amau’ gamtatna amau tungah ka thukkik ding hi.”
+**TDB77:** Bang hang hiam cih leh gam tampi leh kumpi liante in amaute salin a man ding-te a, amau’ gamtatna amau tungah ka thukkik ding hi.”
 
-**ZVS:** Bang hang hiam cih leh gam tampi leh kumpi liante in amaute salin man ding uh a, amau' gamtatna amau' tungah ka thukkik ding hi,” a ci hi.
+**ZVS:** Bang hang hiam cih leh gam tampi leh kumpi liante in amaute salin man ding-te a, amau' gamtatna amau' tungah ka thukkik ding hi,” a ci hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -160,9 +160,9 @@
 ### v16
 **EN:** And they shall drink, and be moved, and be mad, because of the sword that I will send among them.
 
-**TDB77:** Amaute in a dawn ding uh a, amaute kiang-a ka sawl namsau hangin hoi dangdangin a hailawh ding uh hi,” hong ci hi.
+**TDB77:** Amaute in a dawn ding-te a, amaute kiang-a ka sawl namsau hangin hoi dangdangin a hailawh ding-te hi,” hong ci hi.
 
-**ZVS:** Amaute in dawn ding uh a, amaute' kianga ka sawl namsau hangin hoi dangdangin a hailawh ding uh hi,” hong ci hi.
+**ZVS:** Amaute in dawn ding-te a, amaute' kianga ka sawl namsau hangin hoi dangdangin a hailawh ding-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -178,9 +178,9 @@
 ### v18
 **EN:** To wit, Jerusalem, and the cities of Judah, and the kings thereof, and the princes thereof, to make them a desolation, an astonishment, an hissing, and a curse; as it is this day;
 
-**TDB77:** Jerusalem leh Judah gama khuapite, a kumpite uh leh a gam uh uliante ka dawn sak a, tuni dongin gam simtham suakin, mite’ simmawhna thuakin, a min uh haamsiat nadingin a kizang hi.
+**TDB77:** Jerusalem leh Judah gama khuapite, a kumpite-te leh a gam-te uliante ka dawn sak a, tuni dongin gam simtham suakin, mite’ simmawhna thuakin, a min-te haamsiat nadingin a kizang hi.
 
-**ZVS:** Jerusalem leh Judah gama khuapite, a kumpite uh leh a gam uliante uh ka dawnsak a, tuni dongin gam simtham suakin, mite' simmawhna thuakin, a min uh hamsiatna dingin a kizang hi. Tua hai panin a dawn a dangte:
+**ZVS:** Jerusalem leh Judah gama khuapite, a kumpite-te leh a gam uliante-te ka dawnsak a, tuni dongin gam simtham suakin, mite' simmawhna thuakin, a min-te hamsiatna dingin a kizang hi. Tua hai panin a dawn a dangte:
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -215,9 +215,9 @@
 ### v23
 **EN:** Dedan, and Tema, and Buz, and all that are in the utmost corners,
 
-**TDB77:** Dedan, Tema, Buz leh a sam uh a tom met khempeuhte;
+**TDB77:** Dedan, Tema, Buz leh a sam-te a tom met khempeuhte;
 
-**ZVS:** Dedan, Tema, Buz khuapite; a sam uh a tommet khempeuhte;
+**ZVS:** Dedan, Tema, Buz khuapite; a sam-te a tommet khempeuhte;
 
 **Grammar:** plural: uh marker
 
@@ -256,18 +256,18 @@
 ### v28
 **EN:** And it shall be, if they refuse to take the cup at thine hand to drink, then shalt thou say unto them, Thus saith the
 
-**TDB77:** “Amaute in na khut tung panin hai la-a dawn ding a, hong nial uh leh, amaute kiangah, ‘A vanglian Topa in hong gen-inah: Na dawn uh kul ding hi!
+**TDB77:** “Amaute in na khut tung panin hai la-a dawn ding a, hong nial-te leh, amaute kiangah, ‘A vanglian Topa in hong gen-inah: Na dawn-te kul ding hi!
 
-**ZVS:** “Amaute in na khuttung panin hai la-in dawn ding uh a, hong nial uh leh amaute kiangah, ‘Vanglian { Topa } in hong genin-ah: Na dawn uh kul ding hi.
+**ZVS:** “Amaute in na khuttung panin hai la-in dawn ding-te a, hong nial-te leh amaute kiangah, ‘Vanglian { Topa } in hong genin-ah: Na dawn-te kul ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v29
 **EN:** For, lo, I begin to bring evil on the city which is called by my name, and should ye be utterly unpunished? Ye shall not be unpunished: for I will call for a sword upon all the inhabitants of the earth, saith the
 
-**TDB77:** Bang hang hiam cih leh, en un, ka min tawh a kilo khuapi sungah suksiatna ka pan ding hi. Note in bangmah a thuak lo ding kisa na hi uh hiam? Daan thuak loin na om kei ding uh hi, bang hang hiam cih leh a vanglian Topa in kong cih-inah, leitung-a teeng mi khempeuh that dingin namsau khat ka sawl hi,’ ci in.
+**TDB77:** Bang hang hiam cih leh, en un, ka min tawh a kilo khuapi sungah suksiatna ka pan ding hi. Note in bangmah a thuak lo ding kisa na hi-te hiam? Daan thuak loin na om kei ding-te hi, bang hang hiam cih leh a vanglian Topa in kong cih-inah, leitung-a teeng mi khempeuh that dingin namsau khat ka sawl hi,’ ci in.
 
-**ZVS:** Bang hang hiam cih leh en un, ka min tawh a kilo khuapi sungah suksiatna ka pan ding hi. Note in bangmah a thuaklo ding kisa na hi uh hiam? Gim thuakloin na om kei ding uh hi; bang hang hiam cih leh Vanglian { Topa } in kong cihin-ah, leitunga teng mite khempeuh a that dingin namsau khat ka sawl hi,’ ci in.
+**ZVS:** Bang hang hiam cih leh en un, ka min tawh a kilo khuapi sungah suksiatna ka pan ding hi. Note in bangmah a thuaklo ding kisa na hi-te hiam? Gim thuakloin na om kei ding-te hi; bang hang hiam cih leh Vanglian { Topa } in kong cihin-ah, leitunga teng mite khempeuh a that dingin namsau khat ka sawl hi,’ ci in.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -299,18 +299,18 @@
 ### v33
 **EN:** And the slain of the
 
-**TDB77:** “Tua ni-a Topa’ thahlup mite leitung mong khat panin mong khat dongah a kithehthang ding uh hi. Amaute kuamah in a kah kei ding a, kikaikhawm loin kiphum lo ding uh ahih manin lei lakah ek nusiat bangin a kinusia ding uh hi.
+**TDB77:** “Tua ni-a Topa’ thahlup mite leitung mong khat panin mong khat dongah a kithehthang ding-te hi. Amaute kuamah in a kah kei ding a, kikaikhawm loin kiphum lo ding-te ahih manin lei lakah ek nusiat bangin a kinusia ding-te hi.
 
-**ZVS:** “Tua ni-a { Topa' } thahlup mite' luanghawmte leimong khat panin mong khat dongah a kithehthang ding uh hi. Amaute kuamah in a kah kei ding uh a, kikaikhawm loin, kiphumlo ding uh ahih manin leilakah ek nusiatin a kinusia ding uh hi.
+**ZVS:** “Tua ni-a { Topa' } thahlup mite' luanghawmte leimong khat panin mong khat dongah a kithehthang ding-te hi. Amaute kuamah in a kah kei ding-te a, kikaikhawm loin, kiphumlo ding-te ahih manin leilakah ek nusiatin a kinusia ding-te hi.
 
 **Grammar:** future: will | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v34
 **EN:** Howl, ye shepherds, and cry; and wallow yourselves in the ashes, ye principal of the flock: for the days of your slaughter and of your dispersions are accomplished; and ye shall fall like a pleasant vessel.
 
-**TDB77:** “No makaite aw, tau un la, kap un, no uliante aw, vut lakah kikhuk un. Bang hang hiam cih leh hong kithahlup ni ding leh na kikhenthang ni ding uh hong tung zo hi; tuutal teelte bangin hong kithatlum ding hi.
+**TDB77:** “No makaite aw, tau un la, kap un, no uliante aw, vut lakah kikhuk un. Bang hang hiam cih leh hong kithahlup ni ding leh na kikhenthang ni ding-te hong tung zo hi; tuutal teelte bangin hong kithatlum ding hi.
 
-**ZVS:** “No makaite aw, tau un la, kap un; vut lakah kikhuk un, no uliante aw. Bang hang hiam cih leh hong kithahlup ni ding leh na kikhenthang ni ding uh hong tungzo hi; tuutal teelte bangin hong kithatlum ding hi.
+**ZVS:** “No makaite aw, tau un la, kap un; vut lakah kikhuk un, no uliante aw. Bang hang hiam cih leh hong kithahlup ni ding leh na kikhenthang ni ding-te hong tungzo hi; tuutal teelte bangin hong kithatlum ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -326,18 +326,18 @@
 ### v36
 **EN:** A voice of the cry of the shepherds, and an howling of the principal of the flock, shall be heard: for the
 
-**TDB77:** Ngai dih un, makaite’ kahna aw leh uliante’ tauna aw kiza hi! Bang hang hiam cih leh Topa in a gam uh suksiat sak hi.
+**TDB77:** Ngai dih un, makaite’ kahna aw leh uliante’ tauna aw kiza hi! Bang hang hiam cih leh Topa in a gam-te suksiat sak hi.
 
-**ZVS:** Ngai dih un, makaite' kahna aw leh uliante' tauna aw kiza hi. Bang hang hiam cih leh { Topa } in a gam uh suksiatsak hi.
+**ZVS:** Ngai dih un, makaite' kahna aw leh uliante' tauna aw kiza hi. Bang hang hiam cih leh { Topa } in a gam-te suksiatsak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v37
 **EN:** And the peaceable habitations are cut down because of the fierce anger of the
 
-**TDB77:** A lauhuai mahmah Topa’ hehna hangin a nop mahmah a gam uh kisiagawp hi.
+**TDB77:** A lauhuai mahmah Topa’ hehna hangin a nop mahmah a gam-te kisiagawp hi.
 
-**ZVS:** A lauhuai mahmah { Topa' } hehna hangin a nop mahmah a gam uh kisia gawp hi.
+**ZVS:** A lauhuai mahmah { Topa' } hehna hangin a nop mahmah a gam-te kisia gawp hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix
 

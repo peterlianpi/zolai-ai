@@ -14,9 +14,9 @@
 **Context:** A conjunction used to connect nouns or phrases.
 **Example:** Salma, leh Bethgader khuapi
 
-### ahi uh hi = they were
+### ahi-te hi = they were
 **Context:** A common copula structure indicating past existence or identity for a plural subject.
-**Example:** Haref ahi uh hi.
+**Example:** Haref ahi-te hi.
 
 ### tapa = son
 **Context:** Standard term for 'son'.
@@ -94,9 +94,9 @@
 **Context:** Verb indicating the act of ruling or reigning.
 **Example:** Hebron ah ama sung panin guk suak hi.
 
-### kua pha uh hi = totaling nine
+### kua pha-te hi = totaling nine
 **Context:** Used at the end of a list of sons to state the total count (kua = nine).
-**Example:** Eliada, leh Elifelet, kua pha uh hi.
+**Example:** Eliada, leh Elifelet, kua pha-te hi.
 
 ### zineute’ = concubines'
 **Context:** Possessive form referring to the concubines.
@@ -141,9 +141,9 @@
   - Describes a father having sons, and then specifying the lineage/origin of those sons, including fractional divisions.
   - Example: Shobal in tapa nei hi: Haroeh leh Menuhoth mi a langte pian’na ahi hi.
 
-- **[Group A] mite tawh a kiteeng [Group B] mite ahi uh hi.**
+- **[Group A] mite tawh a kiteeng [Group B] mite ahi-te hi.**
   - Structure indicating that one group is intermarried or allied with another group.
-  - Example: Hihte in Rekhab minamte tawh a kiteeng Ken mite ahi uh hi.
+  - Example: Hihte in Rekhab minamte tawh a kiteeng Ken mite ahi-te hi.
 
 - **David sung panin [Place]-ah a piang tapate in: [Son 1], [Son 2], ...**
   - Standard structure for listing sons born to David in a specific location (Hebron).

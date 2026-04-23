@@ -33,27 +33,27 @@
 ### v2
 **EN:** For true and righteous are his judgments: for he hath judged the great whore, which did corrupt the earth with her fornication, and hath avenged the blood of his servants at her hand.
 
-**TDB77:** A thukhenna a man a dik hi. Bang hang hiam i cih leh, a gilo nu leh pa khialhna tawh leitungmite a siasak nuam numei gilo tungah thu khenin, a sisa a silate’ sisan hangin ama tungah daan a tat zo hi,” ci-in a gen uh hi.
+**TDB77:** A thukhenna a man a dik hi. Bang hang hiam i cih leh, a gilo nu leh pa khialhna tawh leitungmite a siasak nuam numei gilo tungah thu khenin, a sisa a silate’ sisan hangin ama tungah daan a tat zo hi,” ci-in a gen-te hi.
 
-**ZVS:** A thukhennate thumanin thutang a, a paktatna tawh leitung mi khempeuh a siasak, a paktatnu tungah thu khen khinta a, ama nasemte a thahsakna hangin ama tungah a phu la khinta hi,” a ci uh hi.
+**ZVS:** A thukhennate thumanin thutang a, a paktatna tawh leitung mi khempeuh a siasak, a paktatnu tungah thu khen khinta a, ama nasemte a thahsakna hangin ama tungah a phu la khinta hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v3
 **EN:** And again they said, Alleluia. And her smoke rose up for ever and ever.
 
-**TDB77:** “Hallelujah!” ci-in nih veina a phat kik uh hi. Tua khuapi meikhu in a tawntungin a kahto hi.
+**TDB77:** “Hallelujah!” ci-in nih veina a phat kik-te hi. Tua khuapi meikhu in a tawntungin a kahto hi.
 
-**ZVS:** Tua ciangin khatvei kiko kik leuleu uh a, “Pasian phat un! Tua khuapi a katna khu tatsat loin van lamah khuto tawntung hi,” a ci uh hi.
+**ZVS:** Tua ciangin khatvei kiko kik leuleu-te a, “Pasian phat un! Tua khuapi a katna khu tatsat loin van lamah khuto tawntung hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And the four and twenty elders and the four beasts fell down and worshipped God that sat on the throne, saying, Amen; Alleluia.
 
-**TDB77:** Upa sawm nih leh lite tawh ganhing lite in, tokhom tungah tu-a a om Pasian mai-ah bokin bia-in, “Amen, Hallelujah!” a ci uh hi.
+**TDB77:** Upa sawm nih leh lite tawh ganhing lite in, tokhom tungah tu-a a om Pasian mai-ah bokin bia-in, “Amen, Hallelujah!” a ci-te hi.
 
-**ZVS:** Tua ciangin upa sawmnihlelite leh ganhing lite in tokhom tungah a tu Pasian mai-ah kunin bia uh a, “Amen! Pasian phat un!” a ci uh hi.
+**ZVS:** Tua ciangin upa sawmnihlelite leh ganhing lite in tokhom tungah a tu Pasian mai-ah kunin bia-te a, “Amen! Pasian phat un!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -87,14 +87,14 @@
 
 **TDB77:** A siangtho, a ngo mahmah saihadial puan silhna thu a ngah hi. Bang hang hiam i cih leh, tua saihadial puan in misiangthote’ dik gamtatna ahi hi,” ci-in a gen hi.
 
-**ZVS:** Puan hoih mahmah, siangin a pak mahmahte, ama silh dingin kipia hi,” a ci uh hi. Tua puan hoih pen Pasian' mi siangthote' gamtatna mante ahi hi.
+**ZVS:** Puan hoih mahmah, siangin a pak mahmahte, ama silh dingin kipia hi,” a ci-te hi. Tua puan hoih pen Pasian' mi siangthote' gamtatna mante ahi hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then)
 
 ### v9
 **EN:** And he saith unto me, Write, Blessed are they which are called unto the marriage supper of the Lamb. And he saith unto me, These are the true sayings of God.
 
-**TDB77:** Tua lai takin vantungmi in, “Tuuno’ zipina pawi-ah a kisam mite thupha ngah ahi uh hi,” ci-in na gelh in ci-in ahi zongin, “Hih kam in Pasian’ thuman thu ahi hi, ci-in ahi zongin a hong gen ciangin,
+**TDB77:** Tua lai takin vantungmi in, “Tuuno’ zipina pawi-ah a kisam mite thupha ngah ahi-te hi,” ci-in na gelh in ci-in ahi zongin, “Hih kam in Pasian’ thuman thu ahi hi, ci-in ahi zongin a hong gen ciangin,
 
 **ZVS:** Tua ciangin vantung mi in keima kiangah, “Hih thu gelh in: Tuuno' zineihna pawi-ah a kisam mite a hampha mahmah ahi hi,” hong cihkhit ciangin, “Hihte pen Pasian' gen taktak kammal ahi hi,” hong cithuah lai hi.
 
@@ -137,9 +137,9 @@
 ### v14
 **EN:** And the armies which were in heaven followed him upon white horses, clothed in fine linen, white and clean.
 
-**TDB77:** Vantunga om galkapte in zong a siangtho a paak saihadial silhin sakol kaang tungah tuangin ama nung a zui uh hi.
+**TDB77:** Vantunga om galkapte in zong a siangtho a paak saihadial silhin sakol kaang tungah tuangin ama nung a zui-te hi.
 
-**ZVS:** Vantung galkapte a siangtho puanpak hoih tawh kizem uh a, sakol kangte tungah tuangin amah a zui uh hi.
+**ZVS:** Vantung galkapte a siangtho puanpak hoih tawh kizem-te a, sakol kangte tungah tuangin amah a zui-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -173,7 +173,7 @@
 ### v18
 **EN:** That ye may eat the flesh of kings, and the flesh of captains, and the flesh of mighty men, and the flesh of horses, and of them that sit on them, and the flesh of all men, both free and bond, both small and great.
 
-**TDB77:** Kumpite’ sa, galkapte’ sa, a vanglian mite’ sa, sakol leh sakol tung tuang mite’ sa, sila leh to nei lo mi lian, mi neu a om khempeuhte’ sa uh ne dingin hong pai un,” ci-in nakpi-in a kiko hi.
+**TDB77:** Kumpite’ sa, galkapte’ sa, a vanglian mite’ sa, sakol leh sakol tung tuang mite’ sa, sila leh to nei lo mi lian, mi neu a om khempeuhte’ sa-te ne dingin hong pai un,” ci-in nakpi-in a kiko hi.
 
 **ZVS:** Hong pai un la, kumpite' sa, galkapmangte leh galkapte' sa, sakolte leh a tungah a tuangte' sa, a lian a neu, silate leh sila a hilo mi khempeuhte' sa hong ne un,” a ci hi.
 
@@ -182,16 +182,16 @@
 ### v19
 **EN:** And I saw the beast, and the kings of the earth, and their armies, gathered together to make war against him that sat on the horse, and against his army.
 
-**TDB77:** Tua lai takin sahang-a kipan leitung kumpite leh amau galkapte in sakol tungah tuang mi akipan, galkapte tawh kigaldo dingun a kikhawm uh ka muh khit ciangin,
+**TDB77:** Tua lai takin sahang-a kipan leitung kumpite leh amau galkapte in sakol tungah tuang mi akipan, galkapte tawh kigaldo dingun a kikhawm-te ka muh khit ciangin,
 
-**ZVS:** Tua ciangin sakol tungah a tuangpa leh a galkapte a sim dingin ganhing leh leitung kumpite a galkapte uh tawh a kikaikhawm ka mu hi.
+**ZVS:** Tua ciangin sakol tungah a tuangpa leh a galkapte a sim dingin ganhing leh leitung kumpite a galkapte-te tawh a kikaikhawm ka mu hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v20
 **EN:** And the beast was taken, and with him the false prophet that wrought miracles before him, with which he deceived them that had received the mark of the beast, and them that worshipped his image. These both were cast alive into a lake of fire burning with brimstone.
 
-**TDB77:** sahang tawh, sahang mai-ah nalamdangte lakin, sahang ciamtehna nei-in, sahang milim a bia uh mite a kheem, a zuau kamsangpa in kimatna a thuak khit ciangin, amau nih in kat meiphual sungah a hing tangin kikhiatna a thuak uh hi.
+**TDB77:** sahang tawh, sahang mai-ah nalamdangte lakin, sahang ciamtehna nei-in, sahang milim a bia-te mite a kheem, a zuau kamsangpa in kimatna a thuak khit ciangin, amau nih in kat meiphual sungah a hing tangin kikhiatna a thuak-te hi.
 
 **ZVS:** Tua ciangin a ganhing leh tua ganhing omna-ah na lamdang a bawl kamsang zuaupa kiman khawm hi. Ganhing ciamtehna a neite leh ganhing lim a biate pen tua na lamdangte tawh a kikhem ahi hi. Ganhing leh kamsang zuaupa, a nihun kat kikhulna meiphualpi sungah a hingtangun kilawn hi.
 
@@ -200,9 +200,9 @@
 ### v21
 **EN:** And the remnant were slain with the sword of him that sat upon the horse, which sword proceeded out of his mouth: and all the fowls were filled with their flesh.
 
-**TDB77:** A om lai mite in sakol tungah a tuang mipa’ kamsung pan a pusuak namsau tawh thahna thuakin, ka gensa vasate in amaute’ sa kham takin a ne uh hi.
+**TDB77:** A om lai mite in sakol tungah a tuang mipa’ kamsung pan a pusuak namsau tawh thahna thuakin, ka gensa vasate in amaute’ sa kham takin a ne-te hi.
 
-**ZVS:** Sakol tungah a tuangpa' kam panin a hong pusuak namsau in amaute' galkap khempeuh thatlum khin a, vasate khempeuh in a nekzawh zahzahun amaute' sa a ne uh hi.
+**ZVS:** Sakol tungah a tuangpa' kam panin a hong pusuak namsau in amaute' galkap khempeuh thatlum khin a, vasate khempeuh in a nekzawh zahzahun amaute' sa a ne-te hi.
 
 **Grammar:** plural: uh marker
 

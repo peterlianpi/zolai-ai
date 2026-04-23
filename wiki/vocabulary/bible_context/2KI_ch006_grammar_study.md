@@ -26,7 +26,7 @@
 ### v1
 **EN:** And the sons of the prophets said unto Elisha, Behold now, the place where we dwell with thee is too strait for us.
 
-**TDB77:** Tu-in kamsangte khat in Elisha kiangah, “Thei in, nangma ukna nuai-a ka ten’na mun uh kote’ adingin neu lua hi.
+**TDB77:** Tu-in kamsangte khat in Elisha kiangah, “Thei in, nangma ukna nuai-a ka ten’na mun-te kote’ adingin neu lua hi.
 
 **ZVS:** Ni khat, kamsangte khat in Elisha kiangah, “Thei in, nangma khutnuai-a om kote' ten'na mun kote-a' dingin neulua hi.
 
@@ -35,9 +35,9 @@
 ### v2
 **EN:** Let us go, we pray thee, unto Jordan, and take thence every man a beam, and let us make us a place there, where we may dwell. And he answered, Go ye.
 
-**TDB77:** Kote Jordan ah hong paisakin kote in singluang khat ciat la-in ka ten’ nading uh mun khat ko hong bawlsak in,” a ci uh hi. Tua ciangin amah in dawngin, “Pai un,” a ci hi.
+**TDB77:** Kote Jordan ah hong paisakin kote in singluang khat ciat la-in ka ten’ nading-te mun khat ko hong bawlsak in,” a ci-te hi. Tua ciangin amah in dawngin, “Pai un,” a ci hi.
 
-**ZVS:** Kote Jordan-ah hong paisakin kote in singluang khat ciat la-in ka ten'na ding uh mun khat ko hong bawl sak in,” a ci uh hi. Tua ciangin amah in dawngin, “Pai un,” a ci hi.
+**ZVS:** Kote Jordan-ah hong paisakin kote in singluang khat ciat la-in ka ten'na ding-te mun khat ko hong bawl sak in,” a ci-te hi. Tua ciangin amah in dawngin, “Pai un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -53,9 +53,9 @@
 ### v4
 **EN:** So he went with them. And when they came to Jordan, they cut down wood.
 
-**TDB77:** Tua ahih ciangin amaute tawh amah kuan hi. Amaute Jordan a tun’ uh ciangin amaute in sing phuk uh hi.
+**TDB77:** Tua ahih ciangin amaute tawh amah kuan hi. Amaute Jordan a tun’ uh ciangin amaute in sing phuk-te hi.
 
-**ZVS:** Tua ahih ciangin amaute tawh amah a kuan hi. Jordan a tun' uh ciangin amaute in sing phuk uh hi.
+**ZVS:** Tua ahih ciangin amaute tawh amah a kuan hi. Jordan a tun' uh ciangin amaute in sing phuk-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -98,9 +98,9 @@
 ### v9
 **EN:** And the man of God sent unto the king of Israel, saying, Beware that thou pass not such a place; for thither the Syrians are come down.
 
-**TDB77:** Ahih hangin Pasian’ mipa in Israel kumpipa tungah thu puak a, “Siriate in hong buksim uh ahih manin hih mun na nawk khak loh nadingin kingaihsun in,” a ci hi.
+**TDB77:** Ahih hangin Pasian’ mipa in Israel kumpipa tungah thu puak a, “Siriate in hong buksim-te ahih manin hih mun na nawk khak loh nadingin kingaihsun in,” a ci hi.
 
-**ZVS:** Ahih hangin Pasian' mipa in Israel kumpipa tungah thu puak a, “Syria-te in hong buksim uh ahih manin hih mun na nawklohna dingin kingaihsun in,” a ci hi.
+**ZVS:** Ahih hangin Pasian' mipa in Israel kumpipa tungah thu puak a, “Syria-te in hong buksim-te ahih manin hih mun na nawklohna dingin kingaihsun in,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | causal: because | reciprocal: ki- prefix
 
@@ -109,16 +109,16 @@
 
 **TDB77:** Tua ciangin Israel kumpipa in Pasian’ mipa in a genna munah sawl hi. Tua bangin amah in amah hilhkhol zel a, tua ahih manin amahmah khatvei ahih kei leh nihvei sangin a tam veizaw kihonkhia hi.
 
-**ZVS:** Tua ciangin Israel kumpipa in Pasian' mipa genna mun kiimah a om mite kiangah mi sawlin hilhkhol sak hi. Tua ahih manin tua bangin amaute suakta zelzel uh hi.
+**ZVS:** Tua ciangin Israel kumpipa in Pasian' mipa genna mun kiimah a om mite kiangah mi sawlin hilhkhol sak hi. Tua ahih manin tua bangin amaute suakta zelzel-te hi.
 
 **Grammar:** sequence: then/therefore | causal: because | reciprocal: ki- prefix
 
 ### v11
 **EN:** Therefore the heart of the king of Syria was sore troubled for this thing; and he called his servants, and said unto them, Will ye not shew me which of us is for the king of Israel?
 
-**TDB77:** Tua ciangin hih thu hangin Siria kumpipa nakpi takin patau hi; amah in a nasemte samin amaute kiangah, “Eite sung panin Israel kumpipa lamah a pangsim mipa hong gen lo ding na hi uh hiam?” a ci hi.
+**TDB77:** Tua ciangin hih thu hangin Siria kumpipa nakpi takin patau hi; amah in a nasemte samin amaute kiangah, “Eite sung panin Israel kumpipa lamah a pangsim mipa hong gen lo ding na hi-te hiam?” a ci hi.
 
-**ZVS:** Tua ciangin hih thu hangin Syria kumpipa nakpi takin patau hi. Amah in a nasemte samin amaute kiangah, “Eite sung panin Israel kumpipa lamah a pangsim mipa hong genlo ding na hi uh hiam?” a ci hi.
+**ZVS:** Tua ciangin hih thu hangin Syria kumpipa nakpi takin patau hi. Amah in a nasemte samin amaute kiangah, “Eite sung panin Israel kumpipa lamah a pangsim mipa hong genlo ding na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
@@ -143,9 +143,9 @@
 ### v14
 **EN:** Therefore sent he thither horses, and chariots, and a great host: and they came by night, and compassed the city about.
 
-**TDB77:** Tua ahih ciangin amah in sakolte leh leengte leh galkap hon lianpi khat tua lai-ah sawl hi; amaute zanin hong pai-in khuapi umcih uh hi.
+**TDB77:** Tua ahih ciangin amah in sakolte leh leengte leh galkap hon lianpi khat tua lai-ah sawl hi; amaute zanin hong pai-in khuapi umcih-te hi.
 
-**ZVS:** Tua ahih ciangin amah in sakolte leh leengte leh galkap hon lianpi khat tua lai-ah a sawl hi. Amaute zanin hong pai-in a khuapi umcih uh hi.
+**ZVS:** Tua ahih ciangin amah in sakolte leh leengte leh galkap hon lianpi khat tua lai-ah a sawl hi. Amaute zanin hong pai-in a khuapi umcih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -195,9 +195,9 @@
 ### v20
 **EN:** And it came to pass, when they were come into Samaria, that Elisha said,
 
-**TDB77:** Amaute Samaria ah a lut phetin Elisha in, “Topa aw, amaute in a muh theih nadingun hih mite’ mitte hon’sak in,” a ci hi. Tua ahih ciangin Topa in amau’ mitte hon’sak a, tua ciangin amaute in mu uh hi; en in, Samaria laizangah amaute om uh hi.
+**TDB77:** Amaute Samaria ah a lut phetin Elisha in, “Topa aw, amaute in a muh theih nadingun hih mite’ mitte hon’sak in,” a ci hi. Tua ahih ciangin Topa in amau’ mitte hon’sak a, tua ciangin amaute in mu-te hi; en in, Samaria laizangah amaute om-te hi.
 
-**ZVS:** Amaute Samaria-ah a lut phetin Elisha in, “{ Topa } aw, amaute in a muh theihna dingun hih mite' mitte hon'sak in,” a ci hi. Tua ahih ciangin { Topa } in amau' mitte hon'sak a, tua ciangin amaute in khua mu uh hi. Samaria khua sungah a om ahihna uh thei uh hi.
+**ZVS:** Amaute Samaria-ah a lut phetin Elisha in, “{ Topa } aw, amaute in a muh theihna dingun hih mite' mitte hon'sak in,” a ci hi. Tua ahih ciangin { Topa } in amau' mitte hon'sak a, tua ciangin amaute in khua mu-te hi. Samaria khua sungah a om ahihna-te thei-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
@@ -211,18 +211,18 @@
 ### v22
 **EN:** And he answered, Thou shalt not smite them: wouldest thou smite those whom thou hast taken captive with thy sword and with thy bow? set bread and water before them, that they may eat and drink, and go to their master.
 
-**TDB77:** Amah in dawngin, “Amaute na that kei ding hi. Na namsau leh na thal tawh loin galmatin na laksate that ding na hi hiam? Amaute in ne-in dawnin a topa uh kiangah a ciah theih nadingun amaute mai-ah an leh tui lui in,” a ci hi.
+**TDB77:** Amah in dawngin, “Amaute na that kei ding hi. Na namsau leh na thal tawh loin galmatin na laksate that ding na hi hiam? Amaute in ne-in dawnin a topa-te kiangah a ciah theih nadingun amaute mai-ah an leh tui lui in,” a ci hi.
 
-**ZVS:** Amah in dawngin, “Amaute na that kei ding hi. Na namsau leh na thal tawh loin galmatin na laksate that ding na hi hiam? Amaute in an ne-in tui a dawn khit ciangin a topa uh kiangah a ciahkik theihna dingun amaute' mai-ah an leh tui lui in,” a ci hi.
+**ZVS:** Amah in dawngin, “Amaute na that kei ding hi. Na namsau leh na thal tawh loin galmatin na laksate that ding na hi hiam? Amaute in an ne-in tui a dawn khit ciangin a topa-te kiangah a ciahkik theihna dingun amaute' mai-ah an leh tui lui in,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 
 ### v23
 **EN:** And he prepared great provision for them: and when they had eaten and drunk, he sent them away, and they went to their master. So the bands of Syria came no more into the land of Israel.
 
-**TDB77:** Tua ahih ciangin amah in amaute adingin pawi lianpi khat bawl hi; amaute in ne-in a dawn khit uh ciangin amah in amaute sawlkhia a, tua ciangin a topa uh kiangah amaute ciah uh hi. Tua ciangin Israel gam a sim dingin Siriate hong pai nawn lo hi.
+**TDB77:** Tua ahih ciangin amah in amaute adingin pawi lianpi khat bawl hi; amaute in ne-in a dawn khit-te ciangin amah in amaute sawlkhia a, tua ciangin a topa-te kiangah amaute ciah-te hi. Tua ciangin Israel gam a sim dingin Siriate hong pai nawn lo hi.
 
-**ZVS:** Tua ahih ciangin amah in amaute-a' dingin pawi lianpi khat bawl hi. Amaute in an ne-in tui a dawn khit uh ciangin amaute sawlkhia a, tua ciangin a topa uh kiangah amaute a ciah uh hi. Tua ciangin Israel gam a sim dingin Syria-te hong pai nawnlo uh hi.
+**ZVS:** Tua ahih ciangin amah in amaute-a' dingin pawi lianpi khat bawl hi. Amaute in an ne-in tui a dawn khit-te ciangin amaute sawlkhia a, tua ciangin a topa-te kiangah amaute a ciah-te hi. Tua ciangin Israel gam a sim dingin Syria-te hong pai nawnlo-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -272,18 +272,18 @@
 ### v29
 **EN:** So we boiled my son, and did eat him: and I said unto her on the next day, Give thy son, that we may eat him: and she hath hid her son.
 
-**TDB77:** Tua ahih ciangin kote in ka tapa huanin amah ka ne uh hi. A zing ciangin keimah in ama kiangah, ‘Amah i nek theih nadingin na tapa hong pia in,’ ka ci hi; ahih hangin tua nu in a tapa na seel hi,” a ci hi.
+**TDB77:** Tua ahih ciangin kote in ka tapa huanin amah ka ne-te hi. A zing ciangin keimah in ama kiangah, ‘Amah i nek theih nadingin na tapa hong pia in,’ ka ci hi; ahih hangin tua nu in a tapa na seel hi,” a ci hi.
 
-**ZVS:** Tua ahih ciangin kote in ka tapa' sa huanin ka ne uh hi. A zing ciangin keimah in ama kiangah, ‘Amah i nek theihna dingin na tapa hong pia in,’ ka ci hi. Ahih hangin tuanu in a tapa na seel hi,” a ci hi.
+**ZVS:** Tua ahih ciangin kote in ka tapa' sa huanin ka ne-te hi. A zing ciangin keimah in ama kiangah, ‘Amah i nek theihna dingin na tapa hong pia in,’ ka ci hi. Ahih hangin tuanu in a tapa na seel hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** And it came to pass, when the king heard the words of the woman, that he rent his clothes; and he passed by upon the wall, and the people looked, and, behold, he had sackcloth within upon his flesh.
 
-**TDB77:** Kumpipa in numeinu’ thugente a zak ciangin ama puante balkek hi—tu-in amah kulh zangah pai hi—mite khuadak uh a, en in, amah in puanhampi a sung lamah silh hi—
+**TDB77:** Kumpipa in numeinu’ thugente a zak ciangin ama puante balkek hi—tu-in amah kulh zangah pai hi—mite khuadak-te a, en in, amah in puanhampi a sung lamah silh hi—
 
-**ZVS:** Kumpipa in tua numei' thugente a zak ciangin ama puante balkek hi. Kulhzangah kumpipa pai kawikawi a, mite khuadakin amah a et uh ciangin amah in a sung lamah puanhampi a silh mu uh hi.
+**ZVS:** Kumpipa in tua numei' thugente a zak ciangin ama puante balkek hi. Kulhzangah kumpipa pai kawikawi a, mite khuadakin amah a et-te ciangin amah in a sung lamah puanhampi a silh mu-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -299,9 +299,9 @@
 ### v32
 **EN:** But Elisha sat in his house, and the elders sat with him; and the king sent a man from before him: but ere the messenger came to him, he said to the elders, See ye how this son of a murderer hath sent to take away mine head? look, when the messenger cometh, shut the door, and hold him fast at the door: is not the sound of his master's feet behind him?
 
-**TDB77:** Elisha a inn sungah tu a, upate amah tawh tukhawm uh hi. Tu-in kumpipa in ama omna panin mi khat sawlkhia hi; ahih hangin kamtaipa a tun’ ma-in Elisha in upate kiangah, “Hih mi thatpa in ka lutang a tankhia dingin hong sawlna na mu uh hiam? En un, kamtaipa hong tun’ ciangin kong khak un la, ama lang khatah khauh takin kongkhak lencip un. Ama nungah a topa’ kheging hong kiza hilo ahi hiam?” a ci hi.
+**TDB77:** Elisha a inn sungah tu a, upate amah tawh tukhawm-te hi. Tu-in kumpipa in ama omna panin mi khat sawlkhia hi; ahih hangin kamtaipa a tun’ ma-in Elisha in upate kiangah, “Hih mi thatpa in ka lutang a tankhia dingin hong sawlna na mu-te hiam? En un, kamtaipa hong tun’ ciangin kong khak un la, ama lang khatah khauh takin kongkhak lencip un. Ama nungah a topa’ kheging hong kiza hilo ahi hiam?” a ci hi.
 
-**ZVS:** Elisha a inn sungah tu a, upate amah tawh tukhawm uh hi. Tu-in kumpipa in ama omna panin mi khat sawlkhia hi. Ahih hangin kamtaipa a tun' ma-in Elisha in upate kiangah, “Hih mi thatpa in ka lutang a tankhia dingin hong sawlna na mu uh hiam? En un, kamtaipa hong tun' ciangin kong khak un la, ama langkhatah khauhtakin kongkhak lencip un. Ama nungah a topa' kheging hong kiza hilo ahi hiam?” a ci hi.
+**ZVS:** Elisha a inn sungah tu a, upate amah tawh tukhawm-te hi. Tu-in kumpipa in ama omna panin mi khat sawlkhia hi. Ahih hangin kamtaipa a tun' ma-in Elisha in upate kiangah, “Hih mi thatpa in ka lutang a tankhia dingin hong sawlna na mu-te hiam? En un, kamtaipa hong tun' ciangin kong khak un la, ama langkhatah khauhtakin kongkhak lencip un. Ama nungah a topa' kheging hong kiza hilo ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

@@ -37,9 +37,9 @@
 ### v3
 **EN:** For strangers are risen up against me, and oppressors seek after my soul: they have not set God before them. Selah.
 
-**TDB77:** Bang hang hiam cih leh mi kiphasakte in kei hong lang pang a, mi helhhawtte in thah dingin hong zong uh hi; amaute in Pasian thudon lo uh hi.
+**TDB77:** Bang hang hiam cih leh mi kiphasakte in kei hong lang pang a, mi helhhawtte in thah dingin hong zong-te hi; amaute in Pasian thudon lo-te hi.
 
-**ZVS:** Bang hang hiam cih leh mi kiphasakte in kei hong langpang uh a, mi helhhawtte in thah dingin hong zong uh hi. Amaute in Pasian thudonlo uh hi.
+**ZVS:** Bang hang hiam cih leh mi kiphasakte in kei hong langpang-te a, mi helhhawtte in thah dingin hong zong-te hi. Amaute in Pasian thudonlo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

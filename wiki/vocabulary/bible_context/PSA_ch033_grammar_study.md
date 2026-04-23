@@ -74,9 +74,9 @@
 ### v8
 **EN:** Let all the earth fear the
 
-**TDB77:** Topa pen leitung khempeuh in zahtak uh hen la, leitung a teengte khempeuh in amah lamdang sakna tawh ding hen!
+**TDB77:** Topa pen leitung khempeuh in zahtak-te hen la, leitung a teengte khempeuh in amah lamdang sakna tawh ding hen!
 
-**ZVS:** Leitung khempeuh in { Topa } zahtak uh hen la, leitunga tengte khempeuh, amah lamdangsakna tawh ding ta uh hen!
+**ZVS:** Leitung khempeuh in { Topa } zahtak-te hen la, leitunga tengte khempeuh, amah lamdangsakna tawh ding ta-te hen!
 
 ### v9
 **EN:** For he spake, and it was done; he commanded, and it stood fast.
@@ -177,9 +177,9 @@
 ### v22
 **EN:** Let thy mercy, O
 
-**TDB77:** Topa aw, nang kong lamet uh mah bangin na itna kip ko tungah hong omsak in.
+**TDB77:** Topa aw, nang kong lamet-te mah bangin na itna kip ko tungah hong omsak in.
 
-**ZVS:** { Topa } aw, nang kong lamet uh mah bangin kote' tungah na itna kip hong omsak in.
+**ZVS:** { Topa } aw, nang kong lamet-te mah bangin kote' tungah na itna kip hong omsak in.
 
 **Grammar:** reciprocal: ki- prefix
 

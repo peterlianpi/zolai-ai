@@ -191,7 +191,7 @@
 **Related:** paikhial, paikhiatna, paikhin, paikhia, paikhuamkhuam
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Tua lai takin mihonpite in Zeisu tawh a paikhawm uh hi.*
+> *Tua lai takin mihonpite in Zeisu tawh a paikhawm-te hi.*
 > → And there went great multitudes with him: and he turned, and said unto them,
 > `LUK 14:25`
 
@@ -247,7 +247,7 @@
 **Related:** egypt, gam, note, israel, cih
 **CEFR:** A1
 **Usage:** Attested 14499× across 57 Bible books.
-> *na lungsim uh lianin, salsuahna Izipt gam panin no hong paikhiatpih,*
+> *na lungsim-te lianin, salsuahna Izipt gam panin no hong paikhiatpih,*
 > → Then thine heart be lifted up, and thou forget the
 > `DEU 8:14`
 
@@ -257,7 +257,7 @@
 **Related:** gam, egypt, jerusalem, koih, nei
 **CEFR:** A1
 **Usage:** Attested 2387× across 35 Bible books.
-> *Baal inn sunga a om khuampi paikhiatpihin hal uh hi.*
+> *Baal inn sunga a om khuampi paikhiatpihin hal-te hi.*
 > → And they brought forth the images out of the house of Baal, and burned them.
 > `2KI 10:26`
 
@@ -267,7 +267,7 @@
 **Related:** egypt, gam, moses, israel, kumpipa
 **CEFR:** A1
 **Usage:** Attested 1255× across 12 Bible books.
-> *gente pen hih Moses leh Aaron ahi uh hi.*
+> *gente pen hih Moses leh Aaron ahi-te hi.*
 
 ### paikhiatpihpa
 **[n]** israel
@@ -289,7 +289,7 @@
 **[]** moses
 **Meanings:** moses | rock | compass | way | went | king
 **CEFR:** A1
-> *A sanggamte pawikhamna-ah a paikhit uh ciangin*
+> *A sanggamte pawikhamna-ah a paikhit-te ciangin*
 > `JHN 7:10`
 
 ### paikhopna
@@ -364,7 +364,7 @@
 **Related:** biakna, israel, sungah, pai, kong
 **CEFR:** A1
 **Usage:** Attested 50999× across 83 Bible books.
-> *Amaute in tua mittawpa Farisaite kiangah a paipih uh hi.*
+> *Amaute in tua mittawpa Farisaite kiangah a paipih-te hi.*
 > → They brought to the Pharisees him that aforetime was blind.
 > `JHN 9:13`
 
@@ -529,7 +529,7 @@
 **Meanings:** servants | jehoshaphat | let | ships | would | ahaziah
 **CEFR:** A2
 **Usage:** Attested 190× across 2 Bible books.
-> *Barsabbas Judas leh Silas teelkhia uh a,*
+> *Barsabbas Judas leh Silas teelkhia-te a,*
 
 ### paikhin
 **[pt par]** gone
@@ -538,7 +538,7 @@
 **Related:** paikhial, paikhiatna, paikhia, paikhuamkhuam, paikhawm
 **CEFR:** A2
 **Usage:** Use 'paikhin' for 'gone'.
-> *Amaute' honlak mahah a omomin ngaihsun uh ahih manin ni*
+> *Amaute' honlak mahah a omomin ngaihsun-te ahih manin ni*
 
 ### paikikin
 **[n]** came
@@ -553,7 +553,7 @@
 **Meanings:** own | levites | realm | minded | freewill | jerusalem
 **CEFR:** A2
 **Usage:** Attested 55× across 4 Bible books.
-> *na nuntak theihna dingun kei kiangah nong painuam kei veve uh hi.*
+> *na nuntak theihna dingun kei kiangah nong painuam kei veve-te hi.*
 > → [Missing]
 
 ### paipihto
@@ -630,7 +630,7 @@
 **Related:** numei, zongin, note, lailai, ukna
 **CEFR:** A2
 **Usage:** Attested 1555× across 20 Bible books.
-> *a thugente uh a neel dakdak hangin,*
+> *a thugente-te a neel dakdak hangin,*
 > `PRO 5:3`
 
 ### palal
@@ -676,7 +676,7 @@
 **Meanings:** hands | about | strengthened | vessels | silver | gold
 **CEFR:** A2
 **Usage:** Attested 140× across 4 Bible books.
-> *leh letsong manphate tawh huh thuah lai uh hi.*
+> *leh letsong manphate tawh huh thuah lai-te hi.*
 
 ### pan'na
 **[n]** array
@@ -763,7 +763,7 @@
 **Synonyms:** ashvath, bimhal
 **CEFR:** A2
 **Usage:** Attested 75× across 2 Bible books.
-> *leh Ashvath ahi uh hi. Hihte pen Jaflet' tapate ahi uh hi.*
+> *leh Ashvath ahi-te hi. Hihte pen Jaflet' tapate ahi-te hi.*
 
 ### pasdammin
 **[]** gathered
@@ -907,7 +907,7 @@
 **Related:** puan, kip, sia, maimang, khek
 **CEFR:** B1
 **Usage:** Attested 375× across 5 Bible books.
-> *amaute a maimang uh hi.*
+> *amaute a maimang-te hi.*
 
 ### paatsak
 **[v]** weary
@@ -1043,7 +1043,7 @@
 **[]** looked
 **Meanings:** looked | went | turned | place | whither | head
 **CEFR:** B1
-> *Mi a tam zaw paipaina peuhah pai lel uh hi.*
+> *Mi a tam zaw paipaina peuhah pai lel-te hi.*
 
 ### paiphei
 **[n]** another
@@ -1139,7 +1139,7 @@
 **Related:** keu, kik, zingsangin, nitak, vulin
 **CEFR:** B1
 **Usage:** Attested 160× across 5 Bible books.
-> *zingsangin palhin thaksuak kik a, nitak ciangin vulin keu uh hi.*
+> *zingsangin palhin thaksuak kik a, nitak ciangin vulin keu-te hi.*
 > → In the morning it flourisheth, and groweth up; in the evening it is cut down, and withereth.
 > `PSA 90:6`
 
@@ -1314,7 +1314,7 @@
 **[n]** boy
 **Meanings:** enquired | wise | men | two | years | old
 **Variants:** pasal naupang
-**Related:** pasal hatna neih lohna, pasal cii numei aa tawh helin ta neisak, pasal leh numei cii hela ta neihsakna, pasal neisa numei sapna (Mrs. banga French te in a zat uh ahi hi), pasal
+**Related:** pasal hatna neih lohna, pasal cii numei aa tawh helin ta neisak, pasal leh numei cii hela ta neihsakna, pasal neisa numei sapna (Mrs. banga French te in a zat-te ahi hi), pasal
 **CEFR:** B2
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
 > *Elifelet, Jeiel, leh Shemaiah: A hong nungpai Adonikam-te beh zong hi uh*
@@ -1447,7 +1447,7 @@
 **Related:** phal, phalvaak, phallo, phal theihlo, phallohpi mah luutgawpna
 **CEFR:** B2
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *Note in na kisap khempeuh uh na neihtheihna ding uh*
+> *Note in na kisap khempeuh-te na neihtheihna ding uh*
 
 ### phelhawm
 **[n]** land
@@ -1455,7 +1455,7 @@
 **Synonyms:** minam, gamdangte, lokgawp
 **CEFR:** B2
 **Usage:** Attested 125× across 2 Bible books.
-> *ka gamsung teng phelhawm mangkhin uh hi.*
+> *ka gamsung teng phelhawm mangkhin-te hi.*
 
 ### phezaizai
 **[n]** playing
@@ -1463,7 +1463,7 @@
 **Synonyms:** kongzing, kongzingah, pekpak
 **CEFR:** B2
 **Usage:** Attested 75× across 2 Bible books.
-> *Kongzing khempeuhah numei naupang kimawlin phezaizai ding uh hi.*
+> *Kongzing khempeuhah numei naupang kimawlin phezaizai ding-te hi.*
 > → And the streets of the city shall be full of boys and girls playing in the streets thereof.
 
 ### phiangsiah
@@ -1494,7 +1494,7 @@
 **Related:** keimah
 **CEFR:** B2
 **Usage:** Attested 250× across 4 Bible books.
-> *na galte khempeuh uh lehhei-in note' kiang panin ka taisak ding hi.*
+> *na galte khempeuh-te lehhei-in note' kiang panin ka taisak ding hi.*
 
 ### piangsa
 **[n]** consider
@@ -1573,7 +1573,7 @@
 **Related:** pukk
 **CEFR:** B2
 **Usage:** Use 'pukkhin' for 'fallen'.
-> *Amaute khempeuh a vekpi-un pukkhin uh hi. A kibangin kisia kim uh*
+> *Amaute khempeuh a vekpi-un pukkhin-te hi. A kibangin kisia kim uh*
 
 ### pukpih
 **[n]** judah
@@ -1581,7 +1581,7 @@
 **Synonyms:** puksak, mutgawp, gialpite
 **CEFR:** B2
 **Usage:** Attested 85× across 2 Bible books.
-> *Judah mite in zong pukpih ding uh hi.*
+> *Judah mite in zong pukpih ding-te hi.*
 
 ### pulaksak
 **[v]** baalim
@@ -1611,7 +1611,7 @@
 **Related:** tung, khua
 **CEFR:** C1
 **Usage:** Attested 195× across 2 Bible books.
-> *Barjesuh min nei Jew mi khat a tuak uh hi.*
+> *Barjesuh min nei Jew mi khat a tuak-te hi.*
 
 ### pahtaak
 **[]** your
@@ -1676,7 +1676,7 @@
 **[n]** police
 **Meanings:** communed | chief | sent | themselves | serjeants | priests
 **Variants:** tualsung keemmi
-**Related:** palik nautang, palikte mi khihna sik koll, palikten mi man, palikte tawi ciang; mi saatna-a a zat zeel uh ciang, palikten migilote khut a khihnate uh(kol)
+**Related:** palik nautang, palikte mi khihna sik koll, palikten mi man, palikte tawi ciang; mi saatna-a a zat zeel-te ciang, palikten migilote khut a khihnate uh(kol)
 **CEFR:** C1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
 > *semlai mipa in ama tungah*
@@ -1702,7 +1702,7 @@
 **Related:** gam, tung, marka, johan, khua
 **CEFR:** C1
 **Usage:** Attested 370× across 2 Bible books.
-> *Pisidia gamah a paisuak uh a, Pamfilia gamah a tung uh hi.*
+> *Pisidia gamah a paisuak-te a, Pamfilia gamah a tung-te hi.*
 > → And after they had passed throughout Pisidia, they came to Pamphylia.
 > `ACT 14:24`
 
@@ -1730,7 +1730,7 @@
 **Meanings:** ghost | chose | stephen | man | full | faith
 **CEFR:** C1
 **Usage:** Attested 155× across 2 Bible books.
-> *A vekpi-un sawltakte' thugente thukimpih uh ahih manin*
+> *A vekpi-un sawltakte' thugente thukimpih-te ahih manin*
 
 ### parthia
 **[n]** parthians
@@ -1750,7 +1750,7 @@
 **Meanings:** thence | came | course | coos | day | following
 **CEFR:** C1
 **Usage:** Attested 100× across 2 Bible books.
-> *tua lai panin a zing ciangin Patara khua ka tung uh hi.*
+> *tua lai panin a zing ciangin Patara khua ka tung-te hi.*
 
 ### patrobas
 **[n]** asyncritus
@@ -1809,7 +1809,7 @@
 **Related:** note, khua, khrih, sungah, mahmah
 **CEFR:** C1
 **Usage:** Attested 7030× across 32 Bible books.
-> *Ko pawlpi numei kimkhatte zingtungin hanah pai uh a,*
+> *Ko pawlpi numei kimkhatte zingtungin hanah pai-te a,*
 > → Yea, and certain women also of our company made us astonished, which were early at the sepulchre;
 > `LUK 24:22`
 

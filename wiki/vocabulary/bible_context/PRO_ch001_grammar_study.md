@@ -64,16 +64,16 @@
 
 **TDB77:** paunakte leh thugentehnate thei-in, mipilte’ kampau leh a thugente a theih nading.
 
-**ZVS:** paunakte leh thugentehnate hoihtakin thei-in, mipilte' kampau leh a thugente uh a theihna ding ahi hi.
+**ZVS:** paunakte leh thugentehnate hoihtakin thei-in, mipilte' kampau leh a thugente-te a theihna ding ahi hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v7
 **EN:** The fear of the
 
-**TDB77:** Topa zahtakna in pilna kipatna hi a, mihaite in pilna leh thuhilhna don lo uh hi.
+**TDB77:** Topa zahtakna in pilna kipatna hi a, mihaite in pilna leh thuhilhna don lo-te hi.
 
-**ZVS:** { Topa } zahtakna in pilna kipatna hi a, mihaite in pilna leh thuhilhna donlo uh hi.
+**ZVS:** { Topa } zahtakna in pilna kipatna hi a, mihaite in pilna leh thuhilhna donlo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -126,7 +126,7 @@
 ### v14
 **EN:** Cast in thy lot among us; let us all have one purse:
 
-**TDB77:** Kote tawh hong kipawl lecin, i ngah khempeuh i hawm ding hi,” hong cih uh hangin ut kei in.
+**TDB77:** Kote tawh hong kipawl lecin, i ngah khempeuh i hawm ding hi,” hong cih-te hangin ut kei in.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -140,9 +140,9 @@
 ### v16
 **EN:** For their feet run to evil, and make haste to shed blood.
 
-**TDB77:** Amaute a sia-in gamta nuam vanvan uh a, mi thah ding haksa sa lo uh hi.
+**TDB77:** Amaute a sia-in gamta nuam vanvan-te a, mi thah ding haksa sa lo-te hi.
 
-**ZVS:** Amaute a sia-in gamta nuam vanvan uh a, mi thah ding lamsang haksa sa hetlo uh hi.
+**ZVS:** Amaute a sia-in gamta nuam vanvan-te a, mi thah ding lamsang haksa sa hetlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -158,9 +158,9 @@
 ### v18
 **EN:** And they lay wait for their own blood; they lurk privily for their own lives.
 
-**TDB77:** Ahi zongin hih mite in amau’ awk nading mah thang siah uh a, kuamahdang awk loin, amau mah hai awk uh hi!
+**TDB77:** Ahi zongin hih mite in amau’ awk nading mah thang siah-te a, kuamahdang awk loin, amau mah hai awk-te hi!
 
-**ZVS:** Ahi zongin mite in amau' awkna ding mah thang siah uh a, kuamah dang awkloin, amau mah hai awk uh hi.
+**ZVS:** Ahi zongin mite in amau' awkna ding mah thang siah-te a, kuamah dang awkloin, amau mah hai awk-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -190,9 +190,9 @@
 ### v22
 **EN:** How long, ye simple ones, will ye love simplicity? and the scorners delight in their scorning, and fools hate knowledge?
 
-**TDB77:** ”Mihaite aw, bangtanvei hai omom nuam lai na hi uh hiam? Bangtanvei pilna thudon loin om ding na hi uh hiam? Pilna ngaihsutin nei ngei lo ding na hi uh hiam?
+**TDB77:** ”Mihaite aw, bangtanvei hai omom nuam lai na hi-te hiam? Bangtanvei pilna thudon loin om ding na hi-te hiam? Pilna ngaihsutin nei ngei lo ding na hi-te hiam?
 
-**ZVS:** “Mihaite aw, bang tanvei hai omom nuam na hi uh hiam? Bang tanvei pilna thudon loin om ding na hi uh hiam? Pilna ngaihsutin nei ngeilo ding na hi uh hiam?
+**ZVS:** “Mihaite aw, bang tanvei hai omom nuam na hi-te hiam? Bang tanvei pilna thudon loin om ding na hi-te hiam? Pilna ngaihsutin nei ngeilo ding na hi-te hiam?
 
 ### v23
 **EN:** Turn you at my reproof: behold, I will pour out my spirit unto you, I will make known my words unto you.
@@ -206,9 +206,9 @@
 ### v24
 **EN:** Because I have called, and ye refused; I have stretched out my hand, and no man regarded;
 
-**TDB77:** Keimah in note hong sam napi-in nong ngai nuam kei uh a, ka khut hong vaan napi-in kuamah in nong thudon kei uh a,
+**TDB77:** Keimah in note hong sam napi-in nong ngai nuam kei-te a, ka khut hong vaan napi-in kuamah in nong thudon kei-te a,
 
-**ZVS:** Keimah in note hong samsam napi-in nong ngai nuam kei uh a, ka khut hong vanvan napi-in kuamah in nong thudon kei uh hi.
+**ZVS:** Keimah in note hong samsam napi-in nong ngai nuam kei-te a, ka khut hong vanvan napi-in kuamah in nong thudon kei-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -222,36 +222,36 @@
 ### v26
 **EN:** I also will laugh at your calamity; I will mock when your fear cometh;
 
-**TDB77:** lungkhamna na tuah uh ciangin kei zong kong nuihsan lel ding a, launa na tuah uh ciangin kong thusim kei ding hi.
+**TDB77:** lungkhamna na tuah-te ciangin kei zong kong nuihsan lel ding a, launa na tuah-te ciangin kong thusim kei ding hi.
 
-**ZVS:** lungkhamna na tuah uh ciangin kong nuihsan lel ding a, launa na tuah uh ciangin kong thusim kei ding hi.
+**ZVS:** lungkhamna na tuah-te ciangin kong nuihsan lel ding a, launa na tuah-te ciangin kong thusim kei ding hi.
 
 **Grammar:** future: will | negation: kei
 
 ### v27
 **EN:** When your fear cometh as desolation, and your destruction cometh as a whirlwind; when distress and anguish cometh upon you.
 
-**TDB77:** Lungkhamna in huihpi’ nawk bangin note hong nawk gawpin, pingpei bangin note hong pei gawpin, lungkhamna leh sinkhamna na tuah uh ciangin kong don kei ding hi.
+**TDB77:** Lungkhamna in huihpi’ nawk bangin note hong nawk gawpin, pingpei bangin note hong pei gawpin, lungkhamna leh sinkhamna na tuah-te ciangin kong don kei ding hi.
 
-**ZVS:** Lungkhamna in huihpi' nawk bangin note hong nawkgawpin, pingpei' pei bangin note hong peigawpin, lungkhamna leh sinkhamna na tuah uh ciangin kong don kei ding hi.
+**ZVS:** Lungkhamna in huihpi' nawk bangin note hong nawkgawpin, pingpei' pei bangin note hong peigawpin, lungkhamna leh sinkhamna na tuah-te ciangin kong don kei ding hi.
 
 **Grammar:** future: will | negation: kei
 
 ### v28
 **EN:** Then shall they call upon me, but I will not answer; they shall seek me early, but they shall not find me:
 
-**TDB77:** Tua bang hun ciangin kei nong sam ding uh a, ahi zongin kong dawng kei ding hi. Lim takin kei nong zong ding uh a, ahi zongin koi mah-ah nong mu kei ding uh hi.
+**TDB77:** Tua bang hun ciangin kei nong sam ding-te a, ahi zongin kong dawng kei ding hi. Lim takin kei nong zong ding-te a, ahi zongin koi mah-ah nong mu kei ding-te hi.
 
-**ZVS:** Tua bang hun ciangin kei nong sam ding uh a, ahi zongin kong dawng kei ding hi. Limtakin kei nong zong ding uh a, ahi zongin koimahah nong mu kei ding uh hi.
+**ZVS:** Tua bang hun ciangin kei nong sam ding-te a, ahi zongin kong dawng kei ding hi. Limtakin kei nong zong ding-te a, ahi zongin koimahah nong mu kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v29
 **EN:** For that they hated knowledge, and did not choose the fear of the
 
-**TDB77:** Note in pilna deih loin, Topa na zahtak nuam kei uh a,
+**TDB77:** Note in pilna deih loin, Topa na zahtak nuam kei-te a,
 
-**ZVS:** Note in pilna na deih kei uh a, { Topa } na zahtak nuam kei uh hi.
+**ZVS:** Note in pilna na deih kei-te a, { Topa } na zahtak nuam kei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -260,32 +260,32 @@
 
 **TDB77:** ka thugente deih loin, kong thuhilhna ngai nuam lo na hih manun,
 
-**ZVS:** Ka thugente na deih kei uh a, kong thuhilhna ngai nuamlo na hih manun,
+**ZVS:** Ka thugente na deih kei-te a, kong thuhilhna ngai nuamlo na hih manun,
 
 ### v31
 **EN:** Therefore shall they eat of the fruit of their own way, and be filled with their own devices.
 
-**TDB77:** na gamtatna bangun na thuak ding uh a, nomau’ gamtatna mah in note hong gimsak ding hi.
+**TDB77:** na gamtatna bangun na thuak ding-te a, nomau’ gamtatna mah in note hong gimsak ding hi.
 
-**ZVS:** na gamtatna bangun na thuak ding uh a, nomau' gamtatna mah in note hong gimsak ding hi.
+**ZVS:** na gamtatna bangun na thuak ding-te a, nomau' gamtatna mah in note hong gimsak ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v32
 **EN:** For the turning away of the simple shall slay them, and the prosperity of fools shall destroy them.
 
-**TDB77:** Bang hang hiam cih leh thu thei lote in, pilna a don loh manun sihlawh uh a,
+**TDB77:** Bang hang hiam cih leh thu thei lote in, pilna a don loh manun sihlawh-te a,
 
-**ZVS:** Bang hang hiam cih leh thu theilote in pilna a donloh manun sihlawh uh a, mihaite in lunghihmawhna a neihloh manun siatlawh uh hi.
+**ZVS:** Bang hang hiam cih leh thu theilote in pilna a donloh manun sihlawh-te a, mihaite in lunghihmawhna a neihloh manun siatlawh-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v33
 **EN:** But whoso hearkeneth unto me shall dwell safely, and shall be quiet from fear of evil.
 
-**TDB77:** ahi zongin, ka thugenna a ngaite in lungmuanna ngah ding a, launa nei loin nuam takin om ding uh hi,” a ci hi.
+**TDB77:** ahi zongin, ka thugenna a ngaite in lungmuanna ngah ding a, launa nei loin nuam takin om ding-te hi,” a ci hi.
 
-**ZVS:** Ahi zongin ka thugenna a ngaite in lungnopna ngah ding uh a, launa neilo-in nuamtakin om hithiat ding uh hi,” a ci hi.
+**ZVS:** Ahi zongin ka thugenna a ngaite in lungnopna ngah ding-te a, launa neilo-in nuamtakin om hithiat ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

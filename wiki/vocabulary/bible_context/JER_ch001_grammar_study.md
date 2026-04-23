@@ -147,18 +147,18 @@
 ### v15
 **EN:** For, lo, I will call all the families of the kingdoms of the north, saith the
 
-**TDB77:** Bang hang hiam cih leh leilu-a om gam khempeuh keimah in ka sam a, amaute hong pai-in Jerusalem khua kongpite-ah ahi zongin, khua kimkot-a kulh kimte-ah ahi zongin, Judah gam khuapi khempeuh kimte-ah ahi zongin a kumpi tokhomte uh hong phut ciat ding uh hi.
+**TDB77:** Bang hang hiam cih leh leilu-a om gam khempeuh keimah in ka sam a, amaute hong pai-in Jerusalem khua kongpite-ah ahi zongin, khua kimkot-a kulh kimte-ah ahi zongin, Judah gam khuapi khempeuh kimte-ah ahi zongin a kumpi tokhomte-te hong phut ciat ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh leilu lamah a om gam khempeuh keimah in ka sam a, amaute hong pai-in Jerusalem khua kongpite-ah ahi zongin, khua kimkota kulh kiimte-ah ahi zongin, Judah gam khuapi khempeuh kiimte-ah ahi zongin a kumpi tokhomte uh hong phut ciat ding uh hi.
+**ZVS:** Bang hang hiam cih leh leilu lamah a om gam khempeuh keimah in ka sam a, amaute hong pai-in Jerusalem khua kongpite-ah ahi zongin, khua kimkota kulh kiimte-ah ahi zongin, Judah gam khuapi khempeuh kiimte-ah ahi zongin a kumpi tokhomte-te hong phut ciat ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And I will utter my judgments against them touching all their wickedness, who have forsaken me, and have burned incense unto other gods, and worshipped the works of their own hands.
 
-**TDB77:** Ka mite in kei hong taisan uh ahih manin a mawhna uh hangin amau’ tungah thu ka khen ding hi; pasian dangte meihal biakna a pia uh a, a khut uh tawh a bawlsa milimte a bia uh hi.
+**TDB77:** Ka mite in kei hong taisan-te ahih manin a mawhna-te hangin amau’ tungah thu ka khen ding hi; pasian dangte meihal biakna a pia-te a, a khut-te tawh a bawlsa milimte a bia-te hi.
 
-**ZVS:** Ka mite in kei hong taisan uh ahih manin a mawhna uh hangin amau' tungah thu ka khen ding hi; pasian dangte tungah meihal biakna pia uh a, a khut uh tawh a bawlsa uh milimte a bia uh hi.
+**ZVS:** Ka mite in kei hong taisan-te ahih manin a mawhna-te hangin amau' tungah thu ka khen ding hi; pasian dangte tungah meihal biakna pia-te a, a khut-te tawh a bawlsa-te milimte a bia-te hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
@@ -183,9 +183,9 @@
 ### v19
 **EN:** And they shall fight against thee; but they shall not prevail against thee; for I am with thee, saith the
 
-**TDB77:** Amaute in nang’ lang khatah hong do ding uh hi. Ahih hangin a hong zo kei ding uh hi; bang hang hiam cih leh, Topa in kong cih-inah, nangmah hong dal dingin kong ompih ding hi,” hong ci hi.
+**TDB77:** Amaute in nang’ lang khatah hong do ding-te hi. Ahih hangin a hong zo kei ding-te hi; bang hang hiam cih leh, Topa in kong cih-inah, nangmah hong dal dingin kong ompih ding hi,” hong ci hi.
 
-**ZVS:** Amaute in nang' langkhatah hong do ding uh hi. Ahih hangin a hong zo kei ding uh hi; bang hang hiam cih leh { Topa } in kong cihin-ah, nangmah a hong hu dingin ka hong ompih ding hi,” a hong ci hi.
+**ZVS:** Amaute in nang' langkhatah hong do ding-te hi. Ahih hangin a hong zo kei ding-te hi; bang hang hiam cih leh { Topa } in kong cihin-ah, nangmah a hong hu dingin ka hong ompih ding hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | negation: kei | plural: uh marker
 

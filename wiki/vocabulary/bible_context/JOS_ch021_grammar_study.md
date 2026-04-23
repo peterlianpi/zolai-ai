@@ -25,81 +25,81 @@
 ### v1
 **EN:** Then came near the heads of the fathers of the Levites unto Eleazar the priest, and unto Joshua the son of Nun, and unto the heads of the fathers of the tribes of the children of Israel;
 
-**TDB77:** Tua ciangin siampi Eleazar leh Nun tapa Joshua leh Israel minam beh lutangte kiangah Levi beh lutangte hong pai uh hi;
+**TDB77:** Tua ciangin siampi Eleazar leh Nun tapa Joshua leh Israel minam beh lutangte kiangah Levi beh lutangte hong pai-te hi;
 
-**ZVS:** Tua ciangin siampi Eleazar leh Nun tapa Joshua leh Israel minam beh lutangte kiangah Levi beh lutangte hong pai uh hi.
+**ZVS:** Tua ciangin siampi Eleazar leh Nun tapa Joshua leh Israel minam beh lutangte kiangah Levi beh lutangte hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And they spake unto them at Shiloh in the land of Canaan, saying, The
 
-**TDB77:** amaute in Kanaan gamsung Shiloh munah, “Teen’ nadingin khuapi leh ka ganhingte uh adingin a lononate tawh kote hong kipiak ding Moses tung tawnin Topa in thu pia zo hi,” amaute kiangah ci uh hi.
+**TDB77:** amaute in Kanaan gamsung Shiloh munah, “Teen’ nadingin khuapi leh ka ganhingte-te adingin a lononate tawh kote hong kipiak ding Moses tung tawnin Topa in thu pia zo hi,” amaute kiangah ci-te hi.
 
-**ZVS:** Amaute in Kanaan gamsung Shiloh munah, “Ten'na dingin khuapi leh ka ganhingte uh-a' dingin a lononate tawh kote hong kipiak ding Moses tung tawnin { Topa } in thu piazo hi,” ci-in amaute kiangah a gen uh hi.
+**ZVS:** Amaute in Kanaan gamsung Shiloh munah, “Ten'na dingin khuapi leh ka ganhingte uh-a' dingin a lononate tawh kote hong kipiak ding Moses tung tawnin { Topa } in thu piazo hi,” ci-in amaute kiangah a gen-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And the children of Israel gave unto the Levites out of their inheritance, at the commandment of the
 
-**TDB77:** Tua ahih ciangin Topa’ thupiakna tawh Israel mite in amau’ luah nang panin Levi mite tungah anuai-a khuapite leh lonona gamte pia uh hi.
+**TDB77:** Tua ahih ciangin Topa’ thupiakna tawh Israel mite in amau’ luah nang panin Levi mite tungah anuai-a khuapite leh lonona gamte pia-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa' } thupiakna tawh Israel mite in amau' luah sung panin Levi mite tungah a nuai-a khuapite leh lonona gamte a pia uh hi.
+**ZVS:** Tua ahih ciangin { Topa' } thupiakna tawh Israel mite in amau' luah sung panin Levi mite tungah a nuai-a khuapite leh lonona gamte a pia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v4
 **EN:** And the lot came out for the families of the Kohathites: and the children of Aaron the priest, which were of the Levites, had by lot out of the tribe of Judah, and out of the tribe of Simeon, and out of the tribe of Benjamin, thirteen cities.
 
-**TDB77:** Kohath behte adingin aisaan hong tung hi. Tua ahih ciangin siampi Aaron’ suan-le-khak ahi Levi mite in Judah, Simeon, leh Benjamin minamte tung panin aisaanna tawh khuapi sawm-le-thum ngah uh hi.
+**TDB77:** Kohath behte adingin aisaan hong tung hi. Tua ahih ciangin siampi Aaron’ suan-le-khak ahi Levi mite in Judah, Simeon, leh Benjamin minamte tung panin aisaanna tawh khuapi sawm-le-thum ngah-te hi.
 
-**ZVS:** Kohath behte-a' dingin aisan hong tung hi. Tua ahih ciangin siampi Aaron' suanlekhak ahi Levi mite in Judah, Simeon, leh Benjamin minamte tung panin aisanna tawh khuapi sawmlethum ngah uh hi.
+**ZVS:** Kohath behte-a' dingin aisan hong tung hi. Tua ahih ciangin siampi Aaron' suanlekhak ahi Levi mite in Judah, Simeon, leh Benjamin minamte tung panin aisanna tawh khuapi sawmlethum ngah-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v5
 **EN:** And the rest of the children of Kohath had by lot out of the families of the tribe of Ephraim, and out of the tribe of Dan, and out of the half tribe of Manasseh, ten cities.
 
-**TDB77:** Tua ciangin a om lai Kohath mite in Efraim minam Dan minam leh Manasseh minam a langte tung panin aisanna tawh khuapi sawm ngah uh hi.
+**TDB77:** Tua ciangin a om lai Kohath mite in Efraim minam Dan minam leh Manasseh minam a langte tung panin aisanna tawh khuapi sawm ngah-te hi.
 
-**ZVS:** Tua ciangin a omlai Kohath mite in Efraim minam, Dan minam leh Manasseh minam alangte tung panin aisanna tawh khuapi sawm ngah uh hi.
+**ZVS:** Tua ciangin a omlai Kohath mite in Efraim minam, Dan minam leh Manasseh minam alangte tung panin aisanna tawh khuapi sawm ngah-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v6
 **EN:** And the children of Gershon had by lot out of the families of the tribe of Issachar, and out of the tribe of Asher, and out of the tribe of Naphtali, and out of the half tribe of Manasseh in Bashan, thirteen cities.
 
-**TDB77:** Gershon mite in Issakhar minam, Asher minamte, Naftali minamte, leh Bashan gam sunga om Manasseh minam a langte tung panin aisaanna tawh khuapi sawm-le-thum ngah uh hi.
+**TDB77:** Gershon mite in Issakhar minam, Asher minamte, Naftali minamte, leh Bashan gam sunga om Manasseh minam a langte tung panin aisaanna tawh khuapi sawm-le-thum ngah-te hi.
 
-**ZVS:** Gershon mite in Issakhar minam, Asher minam, Naftali minam, leh Bashan gamsunga om Manasseh minam alangte tung panin aisanna tawh khuapi sawmlethum ngah uh hi.
+**ZVS:** Gershon mite in Issakhar minam, Asher minam, Naftali minam, leh Bashan gamsunga om Manasseh minam alangte tung panin aisanna tawh khuapi sawmlethum ngah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** The children of Merari by their families had out of the tribe of Reuben, and out of the tribe of Gad, and out of the tribe of Zebulun, twelve cities.
 
-**TDB77:** Merari mite in a beh uh tawh kizui-in Reuben minam, Gad minam, leh Zebulun minamte tung panin khuapi sawm-le-nih ngah uh hi.
+**TDB77:** Merari mite in a beh-te tawh kizui-in Reuben minam, Gad minam, leh Zebulun minamte tung panin khuapi sawm-le-nih ngah-te hi.
 
-**ZVS:** Merari mite in a beh uh tawh kizui-in Reuben minam, Gad minam, leh Zebulun minamte tung panin khuapi sawmlenih ngah uh hi.
+**ZVS:** Merari mite in a beh-te tawh kizui-in Reuben minam, Gad minam, leh Zebulun minamte tung panin khuapi sawmlenih ngah-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And the children of Israel gave by lot unto the Levites these cities with their suburbs, as the
 
-**TDB77:** Topa in Moses tung tawnin a thupiak bangin hih khuapite leh a lonona gamte Israel mite in aisaanna tawh Levi mite tungah pia uh hi.
+**TDB77:** Topa in Moses tung tawnin a thupiak bangin hih khuapite leh a lonona gamte Israel mite in aisaanna tawh Levi mite tungah pia-te hi.
 
-**ZVS:** { Topa } in Moses tung tawnin a thupiak bangin hih khuapite leh a lonona gamte Israel mite in aisanna tawh Levi mite tungah a pia uh hi.
+**ZVS:** { Topa } in Moses tung tawnin a thupiak bangin hih khuapite leh a lonona gamte Israel mite in aisanna tawh Levi mite tungah a pia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** And they gave out of the tribe of the children of Judah, and out of the tribe of the children of Simeon, these cities which are here mentioned by name,
 
-**TDB77:** Judah minam leh Simeon minam sung panin amaute in anuai-a min kigen khuapite pia uh a,
+**TDB77:** Judah minam leh Simeon minam sung panin amaute in anuai-a min kigen khuapite pia-te a,
 
-**ZVS:** Judah minam leh Simeon minam sung panin amaute in a nuai-a min kigen khuapite pia uh a,
+**ZVS:** Judah minam leh Simeon minam sung panin amaute in a nuai-a min kigen khuapite pia-te a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -115,9 +115,9 @@
 ### v11
 **EN:** And they gave them the city of Arba the father of Anak, which city is Hebron, in the hill country of Judah, with the suburbs thereof round about it.
 
-**TDB77:** Amaute in Judah mualtung gam Kiriath-arba, Arba pen Anak’ pa (Hebron a cihna), a kiim-a lonona gam tawh amau tungah pia uh hi.
+**TDB77:** Amaute in Judah mualtung gam Kiriath-arba, Arba pen Anak’ pa (Hebron a cihna), a kiim-a lonona gam tawh amau tungah pia-te hi.
 
-**ZVS:** Amaute in Judah mualtung gam Kiriatharba, Arba pen Anak' pa (Hebron a cihna), a kiima lonona gam tawh amau tungah pia uh hi.
+**ZVS:** Amaute in Judah mualtung gam Kiriatharba, Arba pen Anak' pa (Hebron a cihna), a kiima lonona gam tawh amau tungah pia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -150,9 +150,9 @@
 ### v16
 **EN:** And Ain with her suburbs, and Juttah with her suburbs, and Beth–shemesh with her suburbs; nine cities out of those two tribes.
 
-**TDB77:** Ain a lonona gamte tawh, Juttah a lonona gamte tawh, Bethshemesh a lonona gamte tawh hih minam nihte sung panin khuapi kua pia uh hi;
+**TDB77:** Ain a lonona gamte tawh, Juttah a lonona gamte tawh, Bethshemesh a lonona gamte tawh hih minam nihte sung panin khuapi kua pia-te hi;
 
-**ZVS:** Ain a lonona gamte tawh, Juttah a lonona gamte tawh, leh Bethshemesh a lonona gamte tawh, hih minam nihte sung panin khuapi kua a pia uh hi.
+**ZVS:** Ain a lonona gamte tawh, Juttah a lonona gamte tawh, leh Bethshemesh a lonona gamte tawh, hih minam nihte sung panin khuapi kua a pia-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -168,9 +168,9 @@
 ### v18
 **EN:** Anathoth with her suburbs, and Almon with her suburbs; four cities.
 
-**TDB77:** Anathoth a lonona gamte tawh, leh Almon a lonona gamte tawh—khuapi li pia uh hi.
+**TDB77:** Anathoth a lonona gamte tawh, leh Almon a lonona gamte tawh—khuapi li pia-te hi.
 
-**ZVS:** Anathoth a lonona gamte tawh, leh Almon a lonona gamte tawh, khuapi li a pia uh hi.
+**ZVS:** Anathoth a lonona gamte tawh, leh Almon a lonona gamte tawh, khuapi li a pia-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -391,18 +391,18 @@
 ### v43
 **EN:** And the
 
-**TDB77:** Tua bangin Topa in amau’ pate tungah piak dingin a kiciam leitang khempeuh Israel tungah pia hi; amaute in a ngah khit uh ciangin tua lai-ah teeng uh hi.
+**TDB77:** Tua bangin Topa in amau’ pate tungah piak dingin a kiciam leitang khempeuh Israel tungah pia hi; amaute in a ngah khit-te ciangin tua lai-ah teeng-te hi.
 
-**ZVS:** Tua bangin { Topa } in amau' pulepate tungah piak dingin a kiciam leitang khempeuh Israel tungah pia a, amaute in a ngah khit uh ciangin tua lai-ah a teng uh hi.
+**ZVS:** Tua bangin { Topa } in amau' pulepate tungah piak dingin a kiciam leitang khempeuh Israel tungah pia a, amaute in a ngah khit-te ciangin tua lai-ah a teng-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v44
 **EN:** And the
 
-**TDB77:** Tua ciangin a pu a pate uh tungah a ciamsa bangin Topa in amaute tungah na khempeuhah tawlngakna pia hi; Topa in a galte khempeuh uh amau khut sungah pia ahih manin a galte uh khatbeek in zong amaute nang zo lo hi.
+**TDB77:** Tua ciangin a pu a pate-te tungah a ciamsa bangin Topa in amaute tungah na khempeuhah tawlngakna pia hi; Topa in a galte khempeuh-te amau khut sungah pia ahih manin a galte-te khatbeek in zong amaute nang zo lo hi.
 
-**ZVS:** Tua ciangin a pu a pate uh tungah a ciamsa bangin { Topa } in amaute tungah na khempeuhah tawlngakna a pia hi. { Topa } in a galte khempeuh uh amau khutsungah pia ahih manin a galte uh khat beek in zong amaute nang zolo hi.
+**ZVS:** Tua ciangin a pu a pate-te tungah a ciamsa bangin { Topa } in amaute tungah na khempeuhah tawlngakna a pia hi. { Topa } in a galte khempeuh-te amau khutsungah pia ahih manin a galte-te khat beek in zong amaute nang zolo hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | causal: because
 

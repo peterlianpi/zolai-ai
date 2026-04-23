@@ -52,9 +52,9 @@
 ### v4
 **EN:** And command them to say unto their masters, Thus saith the
 
-**TDB77:** Amaute in a kumpite uh tungah, a vanglian Topa, Israel mite’ Pasian in hih bangin ci hi, ci-in gen uh hen.
+**TDB77:** Amaute in a kumpite-te tungah, a vanglian Topa, Israel mite’ Pasian in hih bangin ci hi, ci-in gen-te hen.
 
-**ZVS:** Amaute in a kumpite uh tungah, Vanglian { Topa, } Israel mite' Pasian in hih bangin ci hi, ci-in gen uh hen.
+**ZVS:** Amaute in a kumpite-te tungah, Vanglian { Topa, } Israel mite' Pasian in hih bangin ci hi, ci-in gen-te hen.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -79,9 +79,9 @@
 ### v7
 **EN:** And all nations shall serve him, and his son, and his son's son, until the very time of his land come: and then many nations and great kings shall serve themselves of him.
 
-**TDB77:** Ama’ gam kisiat hun a tun’ mateng gam khempeuh in amah-a kipan a tapa leh a tupa’ na a sepsak ding uh hi. Tua khit ciangin gam tampi leh kumpi liante in amah salin a leh neih kik ding uh hi.
+**TDB77:** Ama’ gam kisiat hun a tun’ mateng gam khempeuh in amah-a kipan a tapa leh a tupa’ na a sepsak ding-te hi. Tua khit ciangin gam tampi leh kumpi liante in amah salin a leh neih kik ding-te hi.
 
-**ZVS:** Ama gam a kisiat hun a tun' mateng gam khempeuh in amaha kipan a tapa leh a tupa' na a sepsak ding uh hi. Tua khit ciangin gam tampi leh kumpi liante in amah salin a lehneih kik ding uh hi.
+**ZVS:** Ama gam a kisiat hun a tun' mateng gam khempeuh in amaha kipan a tapa leh a tupa' na a sepsak ding-te hi. Tua khit ciangin gam tampi leh kumpi liante in amah salin a lehneih kik ding-te hi.
 
 **Grammar:** future: will | conditional: if/when | reciprocal: ki- prefix | plural: uh marker
 
@@ -97,7 +97,7 @@
 ### v9
 **EN:** Therefore hearken not ye to your prophets, nor to your diviners, nor to your dreamers, nor to your enchanters, nor to your sorcerers, which speak unto you, saying, Ye shall not serve the king of Babylon:
 
-**TDB77:** Tua ahih manin Babilon kumpipa’ na sem kei un, ci-a note’ kianga a hong gen na kamsangte uh, na aisan theite uh, na mang man’ theite uh, na khutlamen theite uh leh na mangsan theite uh’ thu gennate um kei un.
+**TDB77:** Tua ahih manin Babilon kumpipa’ na sem kei un, ci-a note’ kianga a hong gen na kamsangte uh, na aisan theite uh, na mang man’ theite uh, na khutlamen theite-te leh na mangsan theite uh’ thu gennate um kei un.
 
 **ZVS:** Tua ahih manin Babylon kumpipa' na sem kei un, ci-a note kiangah a hong gen na kamsangte uh, na aisan theite uh, na mang man theite uh, leh na mangsan theite uh' thugennate um kei un.
 
@@ -106,18 +106,18 @@
 ### v10
 **EN:** For they prophesy a lie unto you, to remove you far from your land; and that I should drive you out, and ye should perish.
 
-**TDB77:** Bang hang hiam cih leh note’ kianga hong gen uh thu in zuauthu hi a, tua hangin na gam uh panin gamla pi-ah note hong kipai khiatpih ding hi. Keimah in note kong hawlkhia ding a, note na si ding uh hi.
+**TDB77:** Bang hang hiam cih leh note’ kianga hong gen-te thu in zuauthu hi a, tua hangin na gam-te panin gamla pi-ah note hong kipai khiatpih ding hi. Keimah in note kong hawlkhia ding a, note na si ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh note' kianga hong gen uh thu pen zuauthu hi a, tua hangin na gam uh panin gamlapi-ah note hong kipai khiatpih ding hi. Keimah in note kong hawlkhia ding a, note na si ding uh hi.
+**ZVS:** Bang hang hiam cih leh note' kianga hong gen-te thu pen zuauthu hi a, tua hangin na gam-te panin gamlapi-ah note hong kipai khiatpih ding hi. Keimah in note kong hawlkhia ding a, note na si ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** But the nations that bring their neck under the yoke of the king of Babylon, and serve him, those will I let remain still in their own land, saith the
 
-**TDB77:** Ahih hangin Babilon kumpipa’ hakkol pua a, ama’ na a sem gam pen, lo kho-a a teen’ theih nadingin ama’ sung mahah ka omsak ding hi, ci-in Topa in hong gen hi,’ ci-in gen uh hen,” hong ci hi.
+**TDB77:** Ahih hangin Babilon kumpipa’ hakkol pua a, ama’ na a sem gam pen, lo kho-a a teen’ theih nadingin ama’ sung mahah ka omsak ding hi, ci-in Topa in hong gen hi,’ ci-in gen-te hen,” hong ci hi.
 
-**ZVS:** Ahih hangin Babylon kumpipa' hakkol pua a, ama na a sem gam pen, lo kho-in a ten'theihna dingin ama gamsung mahah ka omsak ding hi, ci-in { Topa } in hong gen hi,’ ci-in gen uh hen,” hong ci hi.
+**ZVS:** Ahih hangin Babylon kumpipa' hakkol pua a, ama na a sem gam pen, lo kho-in a ten'theihna dingin ama gamsung mahah ka omsak ding hi, ci-in { Topa } in hong gen hi,’ ci-in gen-te hen,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will
 
@@ -133,36 +133,36 @@
 ### v13
 **EN:** Why will ye die, thou and thy people, by the sword, by the famine, and by the pestilence, as the
 
-**TDB77:** Bang hangin nang leh na mite, namsau tawh, kialpi tawh, pulnatna tawh si ding na hi uh hiam? Babilon kumpipa’ na a sem lo gam khat peuhpeuh tua ci sih ding hi, ci-in Topa in a gen hi.
+**TDB77:** Bang hangin nang leh na mite, namsau tawh, kialpi tawh, pulnatna tawh si ding na hi-te hiam? Babilon kumpipa’ na a sem lo gam khat peuhpeuh tua ci sih ding hi, ci-in Topa in a gen hi.
 
-**ZVS:** Bang hangin namsau tawh, kialpi tawh, pulnatna tawh nang leh na mite si ding uh ahi hiam? Babylon kumpipa' na a semlo gam khat peuhpeuh tuaci sih ding, ci-in { Topa } in a gen hi.
+**ZVS:** Bang hangin namsau tawh, kialpi tawh, pulnatna tawh nang leh na mite si ding-te ahi hiam? Babylon kumpipa' na a semlo gam khat peuhpeuh tuaci sih ding, ci-in { Topa } in a gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v14
 **EN:** Therefore hearken not unto the words of the prophets that speak unto you, saying, Ye shall not serve the king of Babylon: for they prophesy a lie unto you.
 
-**TDB77:** Babilon kumpipa’ na sem kei un, ci-a note’ kiang-a hong gen kamsangte’ thu gennate um kei un. Bang hang hiam cih leh note kiang-a hong gen uh thu in zuauthu ahi hi.
+**TDB77:** Babilon kumpipa’ na sem kei un, ci-a note’ kiang-a hong gen kamsangte’ thu gennate um kei un. Bang hang hiam cih leh note kiang-a hong gen-te thu in zuauthu ahi hi.
 
-**ZVS:** Babylon kumpipa' na sem kei un, ci-in note' kianga hong gen kamsangte' thugennate um kei un. Bang hang hiam cih leh note' kianga hong gen uh thu pen zuauthu ahi hi.
+**ZVS:** Babylon kumpipa' na sem kei un, ci-in note' kianga hong gen kamsangte' thugennate um kei un. Bang hang hiam cih leh note' kianga hong gen-te thu pen zuauthu ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v15
 **EN:** For I have not sent them, saith the
 
-**TDB77:** Topa in kong cih-inah, keimah in amaute ka sawl kei hi. Ahih hangin amaute in kei’ min tawh a man lopi-in thu hilh uh a, tua hangin note leh note’ kianga thu hong hilh kamsangte kong hawlkhia khawm ding a, na si ding uh hi,” ci-in ka gen hi.
+**TDB77:** Topa in kong cih-inah, keimah in amaute ka sawl kei hi. Ahih hangin amaute in kei’ min tawh a man lopi-in thu hilh-te a, tua hangin note leh note’ kianga thu hong hilh kamsangte kong hawlkhia khawm ding a, na si ding-te hi,” ci-in ka gen hi.
 
-**ZVS:** { Topa } in kong cihin-ah, ‘Keimah in amaute ka sawl kei hi. Ahih hangin amaute in kei' min tawh a manlopi-in thu hilh uh a, tua hangin note leh note' kiangah thu hong hilh kamsangte kong sawlkhia khawm ding a, na si ding uh hi,’ ci hi,” ci-in ka gen hi.
+**ZVS:** { Topa } in kong cihin-ah, ‘Keimah in amaute ka sawl kei hi. Ahih hangin amaute in kei' min tawh a manlopi-in thu hilh-te a, tua hangin note leh note' kiangah thu hong hilh kamsangte kong sawlkhia khawm ding a, na si ding-te hi,’ ci hi,” ci-in ka gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** Also I spake to the priests and to all this people, saying, Thus saith the
 
-**TDB77:** Tua ciangin siampite leh hih mi khempeuhte kiangah, “Topa in kong gen-inah, ‘En un, Topa’ biakin beelte, Babilon khua panin kila kik baih ta ding hi,’ ci-a note kianga na kamsangte-uh’ hong thu gente um kei un. Bang hang hiam cih leh note kianga hong gen uh thu in zuauthu ahi hi.
+**TDB77:** Tua ciangin siampite leh hih mi khempeuhte kiangah, “Topa in kong gen-inah, ‘En un, Topa’ biakin beelte, Babilon khua panin kila kik baih ta ding hi,’ ci-a note kianga na kamsangte-uh’ hong thu gente um kei un. Bang hang hiam cih leh note kianga hong gen-te thu in zuauthu ahi hi.
 
-**ZVS:** Tua ciangin siampite leh hih mi khempeuhte' kiangah, “{ Topa } in hong genin-ah, ‘En un, Babylon khua panin { Topa' } biakinn beelte kila kik baih ta ding hi,’ ci-in note' kiangah na kamsangte uh' hong thugente um kei un. Bang hang hiam cih leh note kiangah hong gen uh thu pen zuauthu ahi hi.
+**ZVS:** Tua ciangin siampite leh hih mi khempeuhte' kiangah, “{ Topa } in hong genin-ah, ‘En un, Babylon khua panin { Topa' } biakinn beelte kila kik baih ta ding hi,’ ci-in note' kiangah na kamsangte uh' hong thugente um kei un. Bang hang hiam cih leh note kiangah hong gen-te thu pen zuauthu ahi hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix
 
@@ -176,9 +176,9 @@
 ### v18
 **EN:** But if they be prophets, and if the word of the
 
-**TDB77:** Amaute kamsang taktak ahih uh a, Topa in ka hopih taktak ahih uh leh, Topa’ biakinnpi sung, Judah kumpipa’ inn sung leh Jerusalem khua sunga a kinusia lai beelte Babilon khua-ah a kipuak khiat nawn loh nadingin a vanglian Topa kiangah hong thuum uh hen.
+**TDB77:** Amaute kamsang taktak ahih-te a, Topa in ka hopih taktak ahih-te leh, Topa’ biakinnpi sung, Judah kumpipa’ inn sung leh Jerusalem khua sunga a kinusia lai beelte Babilon khua-ah a kipuak khiat nawn loh nadingin a vanglian Topa kiangah hong thuum-te hen.
 
-**ZVS:** Amaute kamsang taktak ahih uh a, { Topa } in ka hopih taktak ahih uh leh, { Topa' } biakinnpi sung, Judah kumpipa' innsung, leh Jerusalem khuasungah a kinusia lai beelte Babylon khua-ah a kipuakkhiat nawnlohna dingin Vanglian { Topa } kiangah hong thum uh hen.
+**ZVS:** Amaute kamsang taktak ahih-te a, { Topa } in ka hopih taktak ahih-te leh, { Topa' } biakinnpi sung, Judah kumpipa' innsung, leh Jerusalem khuasungah a kinusia lai beelte Babylon khua-ah a kipuakkhiat nawnlohna dingin Vanglian { Topa } kiangah hong thum-te hen.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

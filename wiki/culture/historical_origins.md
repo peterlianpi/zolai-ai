@@ -85,7 +85,7 @@ The Ciimnuai settlement served as a cultural hub. From there, subgroups migrated
 From *Sinna* (lines 272–282):
 > `1980 pawl a kipanin Zomite sak leh khang sim leh malah kikhen thangin gam tuamtuamah kileng keek hi.` — From the 1980s, Zomi people scattered to many foreign countries.
 
-The core threat: `Gamdanga piang Zomi naupangte in ei pau siam nawn loin, zang thei nawn lo mawk uh hi.` — Zomi children born abroad can no longer speak or use the language.
+The core threat: `Gamdanga piang Zomi naupangte in ei pau siam nawn loin, zang thei nawn lo mawk-te hi.` — Zomi children born abroad can no longer speak or use the language.
 
 ### Preservation Efforts
 - **ZAUS** (Zomi Association of USA, 2009) — Created the online Zolai Sinna

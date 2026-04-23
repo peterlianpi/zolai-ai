@@ -84,15 +84,15 @@
 
 ### siamna a nei mite = mighty men of valour/capable people
 **Context:** Describes the quality of the descendants, implying strength and capability.
-**Example:** bang hang hiam cih leh amaute in siamna lian a nei mite ahi uh hi.
+**Example:** bang hang hiam cih leh amaute in siamna lian a nei mite ahi-te hi.
 
 ### nasepna dingin = for the service/work
 **Context:** Specifies the purpose of their capability (service in the temple/tabernacle).
-**Example:** nasepna dingin siamna a nei mikician ahi uh hi
+**Example:** nasepna dingin siamna a nei mikician ahi-te hi
 
 ### mikician = able men/qualified individuals
 **Context:** Emphasizes their fitness for the required service.
-**Example:** siamna a nei mikician ahi uh hi
+**Example:** siamna a nei mikician ahi-te hi
 
 ### ukpi = chief/head
 **Context:** Designates a person appointed as the leader, even if not the firstborn.
@@ -104,11 +104,11 @@
 
 ### Innkuan pasal lutangte = Heads of the household/Chief men
 **Context:** Refers to the leaders among the porters.
-**Example:** Innkuan pasal lutangte kongcingte ahi uh hi
+**Example:** Innkuan pasal lutangte kongcingte ahi-te hi
 
-### ai saan uh = cast lots
+### ai saan-te = cast lots
 **Context:** The action taken to determine assignments.
-**Example:** amau’ kongpi ding ai saan uh hi.
+**Example:** amau’ kongpi ding ai saan-te hi.
 
 ### leilu lam-a dingin = for the south side
 **Context:** Specifying a cardinal direction for the lot drawn.

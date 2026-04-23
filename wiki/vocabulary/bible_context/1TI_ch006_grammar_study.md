@@ -27,18 +27,18 @@
 ### v1
 **EN:** Let as many servants as are under the yoke count their own masters worthy of all honour, that the name of God and his doctrine be not blasphemed.
 
-**TDB77:** Pasian’ min leh a thuhilhna in gensiatna a thuak loh nadingin, hakkol nuai-ah a omte in a tote uh a zahtak mahmah nading uh kilawm hi ci-in ciamteh uh hen.
+**TDB77:** Pasian’ min leh a thuhilhna in gensiatna a thuak loh nadingin, hakkol nuai-ah a omte in a tote-te a zahtak mahmah nading-te kilawm hi ci-in ciamteh-te hen.
 
-**ZVS:** Kuamah in Pasian' min leh i thuhilhnate hong gensiatsak lohna dingin sila khempeuh in a tote uh zahtakbawl ta uh hen.
+**ZVS:** Kuamah in Pasian' min leh i thuhilhnate hong gensiatsak lohna dingin sila khempeuh in a tote-te zahtakbawl ta-te hen.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And they that have believing masters, let them not despise them, because they are brethren; but rather do them service, because they are faithful and beloved, partakers of the benefit. These things teach and exhort.
 
-**TDB77:** A tote in thu-um mi ahih uh leh, unau khat ahih uh ciangin nasim lo, thudon loin, om kei uh hen. A nasepna-ah noptuamna a ngah mite in, a um mite leh it tuak mite ahih uh ciangin a nasep pha takin seem zaw ta uh hen. Hih thute hilh in la, hansuah in.
+**TDB77:** A tote in thu-um mi ahih-te leh, unau khat ahih-te ciangin nasim lo, thudon loin, om kei-te hen. A nasepna-ah noptuamna a ngah mite in, a um mite leh it tuak mite ahih-te ciangin a nasep pha takin seem zaw ta-te hen. Hih thute hilh in la, hansuah in.
 
-**ZVS:** Thu um mi to-in a nei silate in upna sungah sanggam khat hi hang, ci-in ngaihsutna tawh a tote uh zahtakbawl loin omkha kei uh hen. Amaute' nasepna hangin hamphatna a ngah mite pen thu um mi leh a it uh mite ahih manin a hoihzaw-in a sepsak ding uh a kilawmzaw ahi hi.
+**ZVS:** Thu um mi to-in a nei silate in upna sungah sanggam khat hi hang, ci-in ngaihsutna tawh a tote-te zahtakbawl loin omkha kei-te hen. Amaute' nasepna hangin hamphatna a ngah mite pen thu um mi leh a it-te mite ahih manin a hoihzaw-in a sepsak ding-te a kilawmzaw ahi hi.
 
 ### v3
 **EN:** If any man teach otherwise, and consent not to wholesome words, even the words of our Lord Jesus Christ, and to the doctrine which is according to godliness;
@@ -54,16 +54,16 @@
 
 **TDB77:** tua mi in kisathei-in, bangmah thei loin thu kidotna kikumin, a kam bek tawh a seel mihai ahi hi. Tua bang a bawl leh, en’na, kitotna, gensiatna, hazatna tawh upkhialhna lungsim neihna in thuman thu tawh a kipelh mite kitotnate a piang thei hi.
 
-**ZVS:** a kiphasak mawkmawk hi uh a, bangmah a thei hetlo ahi uh hi. Tua bang mite in thu kisel thu kinial cihte ut belin nei uh a, hazatna, lungsim kituahlohna, kizahkona, a sialamin ki-upmawhnate piangsak uh a,
+**ZVS:** a kiphasak mawkmawk hi-te a, bangmah a thei hetlo ahi-te hi. Tua bang mite in thu kisel thu kinial cihte ut belin nei-te a, hazatna, lungsim kituahlohna, kizahkona, a sialamin ki-upmawhnate piangsak-te a,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v5
 **EN:** Perverse disputings of men of corrupt minds, and destitute of the truth, supposing that gain is godliness: from such withdraw thyself.
 
-**TDB77:** Tuate in Pasian biakna lamah nopsakna in sum hauhna hong piangsak hi ci-in a um uh hi.
+**TDB77:** Tuate in Pasian biakna lamah nopsakna in sum hauhna hong piangsak hi ci-in a um-te hi.
 
-**ZVS:** thuman thutak zuiloin, a lungsim paizia uh a man nawnlo, biakna pen hauhtheihna ding lampi bekin a ngaihsun mite in a tawntungin kitot kiselna a piangsak uh ahi hi.
+**ZVS:** thuman thutak zuiloin, a lungsim paizia-te a man nawnlo, biakna pen hauhtheihna ding lampi bekin a ngaihsun mite in a tawntungin kitot kiselna a piangsak-te ahi hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -97,18 +97,18 @@
 ### v9
 **EN:** But they that will be rich fall into temptation and a snare, and into many foolish and hurtful lusts, which drown men in destruction and perdition.
 
-**TDB77:** Sum a hau nuam mite in kheemna sungah, thang awkna sungah, hai-a noptuamna a siasak thei, deihgawhna atuam atuamte sungah a kia thei uh hi. Tua bang deihgawhna in mite kisiatna sungah a tum mangsak thei hi.
+**TDB77:** Sum a hau nuam mite in kheemna sungah, thang awkna sungah, hai-a noptuamna a siasak thei, deihgawhna atuam atuamte sungah a kia thei-te hi. Tua bang deihgawhna in mite kisiatna sungah a tum mangsak thei hi.
 
-**ZVS:** Ahi zongin a haunuam mite in ze-etna a tuamtuam thuak a, duhhopna huaihamna a haivai thute-ah awkcipin, haksatna leh siatna a tuahlawh uh hi.
+**ZVS:** Ahi zongin a haunuam mite in ze-etna a tuamtuam thuak a, duhhopna huaihamna a haivai thute-ah awkcipin, haksatna leh siatna a tuahlawh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** For the love of money is the root of all evil: which while some coveted after, they have erred from the faith, and pierced themselves through with many sorrows.
 
-**TDB77:** Bang hang hiam cih leh, sum hauh nopna in khialhna pawl khempeuh bul ahi hi. Mi kimkhat in sum hauh nopna hangin upna lampi pan paikhia-in, lunggimna apawlpawl tawh amau pumpi uh a vut let zo uh hi.
+**TDB77:** Bang hang hiam cih leh, sum hauh nopna in khialhna pawl khempeuh bul ahi hi. Mi kimkhat in sum hauh nopna hangin upna lampi pan paikhia-in, lunggimna apawlpawl tawh amau pumpi-te a vut let zo-te hi.
 
-**ZVS:** Sum deihluatna in siatna namkim piangsak hi. Mi pawlkhat in sum deihlua liang uh ahih manin a upna panun pialkhia-in gimna lungkhamna tampi a thuaklawh uh hi.
+**ZVS:** Sum deihluatna in siatna namkim piangsak hi. Mi pawlkhat in sum deihlua liang-te ahih manin a upna panun pialkhia-in gimna lungkhamna tampi a thuaklawh-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -171,7 +171,7 @@
 ### v19
 **EN:** Laying up in store for themselves a good foundation against the time to come, that they may lay hold on eternal life.
 
-**TDB77:** Tua hi leh mailamah amaute' nuntakna ding bulpi taktak ahi neihsate, amau-a' dingin a khol mite ahi ding uh hi.
+**TDB77:** Tua hi leh mailamah amaute' nuntakna ding bulpi taktak ahi neihsate, amau-a' dingin a khol mite ahi ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
@@ -187,9 +187,9 @@
 ### v21
 **EN:** Which some professing have erred concerning the faith. Grace be with thee. Amen.
 
-**TDB77:** Tua nate’ pilna, mi kimkhat in a mang uh a, a bawl manun upna lam pan a pial zo uh hi. Nangma tungah hehpihna thupha om ta hen.
+**TDB77:** Tua nate’ pilna, mi kimkhat in a mang-te a, a bawl manun upna lam pan a pial zo-te hi. Nangma tungah hehpihna thupha om ta hen.
 
-**ZVS:** Mi pawlkhatte in tua bang pilna a nei-in kingaihsun uh a, upna thu bulpi khahsuahna-in a nei uh hi. Note khempeuh tungah Pasian' dikna thupha hong tung ta hen.
+**ZVS:** Mi pawlkhatte in tua bang pilna a nei-in kingaihsun-te a, upna thu bulpi khahsuahna-in a nei-te hi. Note khempeuh tungah Pasian' dikna thupha hong tung ta hen.
 
 **Grammar:** optative: let there be / let it be | reciprocal: ki- prefix | plural: uh marker
 

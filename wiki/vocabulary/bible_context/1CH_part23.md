@@ -4,11 +4,11 @@
 
 ### pa = father
 **Context:** Used to denote the father of a person, e.g., 'Ahihub’ pa Heglam' (Ahihub's father Heglam).
-**Example:** Ahihub’ pa Heglam a kici Gera ahi uh hi.
+**Example:** Ahihub’ pa Heglam a kici Gera ahi-te hi.
 
 ### kici = called/named
 **Context:** Used to state the name or title of someone, often following the person's description.
-**Example:** Ahihub’ pa Heglam a kici Gera ahi uh hi.
+**Example:** Ahihub’ pa Heglam a kici Gera ahi-te hi.
 
 ### zite = wives (plural of zi)
 **Context:** Refers to the wives of Shaharaim.
@@ -36,11 +36,11 @@
 
 ### beih = clan/family/tribe
 **Context:** Refers to the lineage or family group ('beih sungah' - within the clan).
-**Example:** Hihte in amau’ beh sungah innkuan lutangte ahi uh hi.
+**Example:** Hihte in amau’ beh sungah innkuan lutangte ahi-te hi.
 
 ### innkuan lutangte = heads of the household/family leaders
 **Context:** Describes the status of the listed individuals within their clan.
-**Example:** Hihte in amau’ beh sungah innkuan lutangte ahi uh hi.
+**Example:** Hihte in amau’ beh sungah innkuan lutangte ahi-te hi.
 
 ### tawh zong = also with
 **Context:** Indicates an additional wife/union.
@@ -60,7 +60,7 @@
 
 ### suante = descendants/offspring (plural)
 **Context:** Used interchangeably with 'tapate' (sons) to denote lineage.
-**Example:** Zebadiah, Meshullum, Hizki, Heber, Ishmerai, Izliah, leh Jobab-te pen Elpaal' suante ahi uh hi.
+**Example:** Zebadiah, Meshullum, Hizki, Heber, Ishmerai, Izliah, leh Jobab-te pen Elpaal' suante ahi-te hi.
 
 ## Phrases & Usage
 
@@ -85,14 +85,14 @@
   - Structure indicating 'X, through/with his wife Y, begat Z (sons)'. Demonstrates possession/relationship leading to offspring.
   - Example: Amah in a zikik Hodesh tawh a neih a tapate in: Jobab, Zibia, Mesha, Malkam,
 
-- **A, B, leh C ahi uh hi.**
-  - Simple declarative sentence structure listing individuals and concluding with 'they are' (ahi uh hi).
-  - Example: Jeuz, Sakhia, leh Mirmah ahi uh hi.
+- **A, B, leh C ahi-te hi.**
+  - Simple declarative sentence structure listing individuals and concluding with 'they are' (ahi-te hi).
+  - Example: Jeuz, Sakhia, leh Mirmah ahi-te hi.
 
 - **X' tapate in: Y, Z, leh W**
   - Possessive structure showing lineage: 'The sons of X are Y, Z, and W'.
   - Example: Elpa-al’ tapate in: Eber, Misham, leh Ono leh Lod a khuapite tawh a sat Shemed,
 
-- **Hihte pen amau beh sungah innkuan lutangte ahi uh hi.**
+- **Hihte pen amau beh sungah innkuan lutangte ahi-te hi.**
   - Identification sentence: 'These (Hihte) are the leaders of the household within their clan.' Uses 'pen' (topic marker) for emphasis.
-  - Example: Hihte pen amau beh sungah innkuan lutangte ahi uh hi.
+  - Example: Hihte pen amau beh sungah innkuan lutangte ahi-te hi.

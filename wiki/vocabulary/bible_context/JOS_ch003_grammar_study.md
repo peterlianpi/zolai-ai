@@ -23,16 +23,16 @@
 ### v1
 **EN:** And Joshua rose early in the morning; and they removed from Shittim, and came to Jordan, he and all the children of Israel, and lodged there before they passed over.
 
-**TDB77:** Zingsang tungin Joshua tho-in Israel mite khempeuh tawh Shittim panin ding khia uh hi; amaute Jordan gun tung uh a, a galkah ma-un tua munah giak uh hi.
+**TDB77:** Zingsang tungin Joshua tho-in Israel mite khempeuh tawh Shittim panin ding khia-te hi; amaute Jordan gun tung-te a, a galkah ma-un tua munah giak-te hi.
 
-**ZVS:** A zing ciangin Joshua tho baihin Israel mi khempeuh tawh Shittim pan dingkhia-in Jordan gun tung uh a, a galkah ma-un tua munah a giak uh hi.
+**ZVS:** A zing ciangin Joshua tho baihin Israel mi khempeuh tawh Shittim pan dingkhia-in Jordan gun tung-te a, a galkah ma-un tua munah a giak-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v2
 **EN:** And it came to pass after three days, that the officers went through the host;
 
-**TDB77:** Nithum a cin’ni ciangin giahphualah uliante pai uh a,
+**TDB77:** Nithum a cin’ni ciangin giahphualah uliante pai-te a,
 
 **ZVS:** Ni thum a cin' ciangin giahphualah uliante pai-in
 
@@ -41,18 +41,18 @@
 ### v3
 **EN:** And they commanded the people, saying, When ye see the ark of the covenant of the
 
-**TDB77:** mite thu pia-in, “Topa na Pasian uh thuciamna singkuang Levi mi siampite in a puak na muh uh ciangin na omna mun panun ding khia-in na zui ding uh hi,
+**TDB77:** mite thu pia-in, “Topa na Pasian-te thuciamna singkuang Levi mi siampite in a puak na muh-te ciangin na omna mun panun ding khia-in na zui ding-te hi,
 
-**ZVS:** mite thu pia uh a, “{ Topa } na Pasian uh Thuciamna Singkuang Levi siampite in a puak na muh uh ciangin na omna panun dingkhia-in na zui ding uh hi.
+**ZVS:** mite thu pia-te a, “{ Topa } na Pasian-te Thuciamna Singkuang Levi siampite in a puak na muh-te ciangin na omna panun dingkhia-in na zui ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v4
 **EN:** Yet there shall be a space between you and it, about two thousand cubits by measure: come not near unto it, that ye may know the way by which ye must go: for ye have not passed this way heretofore.
 
-**TDB77:** hih lamah pai ngei lo na hih manun na pai nading uh lampi tu-a bangin na thei ding uh hi. Ahi zongin note leh tua thuciamna singkuang kikalah mun awng, tong tulnih bang kihalna om ding hi; a gei-ah pai kei-un,” a ci uh hi.
+**TDB77:** hih lamah pai ngei lo na hih manun na pai nading-te lampi tu-a bangin na thei ding-te hi. Ahi zongin note leh tua thuciamna singkuang kikalah mun awng, tong tulnih bang kihalna om ding hi; a gei-ah pai kei-un,” a ci-te hi.
 
-**ZVS:** Hih lamah pai ngeilo na hih manun na paina ding uh lampi tu-a bangin na thei ding uh hi. Ahi zongin note leh tua Thuciamna Singkuang kikalah mun awng, pi tul thum bang om ding hi. A gei-ah pai kei un,” a ci uh hi.
+**ZVS:** Hih lamah pai ngeilo na hih manun na paina ding-te lampi tu-a bangin na thei ding-te hi. Ahi zongin note leh tua Thuciamna Singkuang kikalah mun awng, pi tul thum bang om ding hi. A gei-ah pai kei un,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -68,9 +68,9 @@
 ### v6
 **EN:** And Joshua spake unto the priests, saying, Take up the ark of the covenant, and pass over before the people. And they took up the ark of the covenant, and went before the people.
 
-**TDB77:** Tua ciangin Joshua in siampite kiangah, “Thuciamna singkuang la un la, mite mai-ah paisuak un,” a ci hi. Amaute in thuciamna singkuang la uh a, mite mai-ah pai uh hi.
+**TDB77:** Tua ciangin Joshua in siampite kiangah, “Thuciamna singkuang la un la, mite mai-ah paisuak un,” a ci hi. Amaute in thuciamna singkuang la-te a, mite mai-ah pai-te hi.
 
-**ZVS:** Tua ciangin Joshua in siampite kiangah, “Thuciamna Singkuang la un la, mite' mai-ah paisuak un,” a ci hi. Amaute in Thuciamna Singkuang la-in mite' mai-ah a pai uh hi.
+**ZVS:** Tua ciangin Joshua in siampite kiangah, “Thuciamna Singkuang la un la, mite' mai-ah paisuak un,” a ci hi. Amaute in Thuciamna Singkuang la-in mite' mai-ah a pai-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -86,27 +86,27 @@
 ### v8
 **EN:** And thou shalt command the priests that bear the ark of the covenant, saying, When ye are come to the brink of the water of Jordan, ye shall stand still in Jordan.
 
-**TDB77:** Thuciamna singkuang a pua siampite thu na pia ding a, ‘Jordan tuite gei na tun’ uh ciangin Jordan sungah taang loin na ding ding uh hi,’ na ci ding hi,” a ci hi.
+**TDB77:** Thuciamna singkuang a pua siampite thu na pia ding a, ‘Jordan tuite gei na tun’ uh ciangin Jordan sungah taang loin na ding ding-te hi,’ na ci ding hi,” a ci hi.
 
-**ZVS:** Thuciamna Singkuang a pua siampite thu na pia ding a, ‘Jordan tuite' gei na tun' uh ciangin Jordan tui sungah tangloin na ding ding uh hi,’ na ci ding hi,” a ci hi.
+**ZVS:** Thuciamna Singkuang a pua siampite thu na pia ding a, ‘Jordan tuite' gei na tun' uh ciangin Jordan tui sungah tangloin na ding ding-te hi,’ na ci ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v9
 **EN:** And Joshua said unto the children of Israel, Come hither, and hear the words of the
 
-**TDB77:** Tua ciangin Joshua in Israel mite kiangah, “Hih lai-ah hong pai un la, Topa na Pasian uh thute za un,” a ci hi.
+**TDB77:** Tua ciangin Joshua in Israel mite kiangah, “Hih lai-ah hong pai un la, Topa na Pasian-te thute za un,” a ci hi.
 
-**ZVS:** Tua ciangin Joshua in Israel mite kiangah, “Hih lai-ah hong pai un la, { Topa } na Pasian uh thute za un,” a ci hi.
+**ZVS:** Tua ciangin Joshua in Israel mite kiangah, “Hih lai-ah hong pai un la, { Topa } na Pasian-te thute za un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
 ### v10
 **EN:** And Joshua said, Hereby ye shall know that the living God is among you, and that he will without fail drive out from before you the Canaanites, and the Hittites, and the Hivites, and the Perizzites, and the Girgashites, and the Amorites, and the Jebusites.
 
-**TDB77:** Joshua in, “A nungta Pasian note lakah a omna hih thu tawh na thei ding uh hi, amah in pel loin note mai panin Kanaan mite, Hit mite, Hiv mite, Perez mite, Girgash mite, Amor mite, leh Jebus mite hawlkhia ding hi.
+**TDB77:** Joshua in, “A nungta Pasian note lakah a omna hih thu tawh na thei ding-te hi, amah in pel loin note mai panin Kanaan mite, Hit mite, Hiv mite, Perez mite, Girgash mite, Amor mite, leh Jebus mite hawlkhia ding hi.
 
-**ZVS:** Joshua in, “A nungta Pasian note lakah a omna hih thu tawh na thei ding uh hi. Amah in pelloin note' mai panin Kanaan mite, Hit mite, Hiv mite, Perez mite, Girgash mite, Amor mite, leh Jebus mite hawlkhia ding hi.
+**ZVS:** Joshua in, “A nungta Pasian note lakah a omna hih thu tawh na thei ding-te hi. Amah in pelloin note' mai panin Kanaan mite, Hit mite, Hiv mite, Perez mite, Girgash mite, Amor mite, leh Jebus mite hawlkhia ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -140,9 +140,9 @@
 ### v14
 **EN:** And it came to pass, when the people removed from their tents, to pass over Jordan, and the priests bearing the ark of the covenant before the people;
 
-**TDB77:** Tua ahih ciangin mite mai-ah thuciamna singkuang a pua siampite tawh Jordah galkah dingin a puanbuk uh panin mite ding khia-in,
+**TDB77:** Tua ahih ciangin mite mai-ah thuciamna singkuang a pua siampite tawh Jordah galkah dingin a puanbuk-te panin mite ding khia-in,
 
-**ZVS:** Tua ahih ciangin mite' mai-ah Thuciamna Singkuang a pua siampite tawh Jordan galkah dingin a puanbuk uh panin mite dingkhia-in,
+**ZVS:** Tua ahih ciangin mite' mai-ah Thuciamna Singkuang a pua siampite tawh Jordan galkah dingin a puanbuk-te panin mite dingkhia-in,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to
 
@@ -158,18 +158,18 @@
 ### v16
 **EN:** That the waters which came down from above stood and rose up upon an heap very far from the city Adam, that is beside Zarethan: and those that came down toward the sea of the plain, even the salt sea, failed, and were cut off: and the people passed over right against Jericho.
 
-**TDB77:** a sak lam panin hong luangsuk tuite khawlin khangto a, a gamlapi, Zerethan gei-a khuapi Adam-ah a lomin kikhol a, Ci Tuipi a kici Arabah tuipi-ah a luang sukte kikhen tat siang hi; tua ciangin Jerikho galah mite galkah uh hi.
+**TDB77:** a sak lam panin hong luangsuk tuite khawlin khangto a, a gamlapi, Zerethan gei-a khuapi Adam-ah a lomin kikhol a, Ci Tuipi a kici Arabah tuipi-ah a luang sukte kikhen tat siang hi; tua ciangin Jerikho galah mite galkah-te hi.
 
-**ZVS:** a saklam panin hong luangsuk tuite khawlin khangto a, a gamlapi, Zarethan gei-a khuapi Adamah-ah a lomin kikhol a, Ci Tuipi a kici Arabah tuipi-ah a luangsukte kikhentat siang hi. Tua ciangin Jerikho gei-ah mite galkah uh hi.
+**ZVS:** a saklam panin hong luangsuk tuite khawlin khangto a, a gamlapi, Zarethan gei-a khuapi Adamah-ah a lomin kikhol a, Ci Tuipi a kici Arabah tuipi-ah a luangsukte kikhentat siang hi. Tua ciangin Jerikho gei-ah mite galkah-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And the priests that bare the ark of the covenant of the
 
-**TDB77:** Israelte khempeuh leikeu tungah a galkah sung, minam bup in Jordan a khen’ khit mateng, Topa thuciamna singkuang a pua siampite Jordan gun laizang leikeu tungah ding uh hi.
+**TDB77:** Israelte khempeuh leikeu tungah a galkah sung, minam bup in Jordan a khen’ khit mateng, Topa thuciamna singkuang a pua siampite Jordan gun laizang leikeu tungah ding-te hi.
 
-**ZVS:** Israel-te khempeuh lei keu tungah a galkah sung, minam bup in Jordan a khen' khit mateng, { Topa' } Thuciamna Singkuang a pua siampite Jordan gun laizang lei keu tungah ding uh hi.
+**ZVS:** Israel-te khempeuh lei keu tungah a galkah sung, minam bup in Jordan a khen' khit mateng, { Topa' } Thuciamna Singkuang a pua siampite Jordan gun laizang lei keu tungah ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

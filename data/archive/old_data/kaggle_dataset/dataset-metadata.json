@@ -1,0 +1,8 @@
+{
+  "title": "zolai-language-bible-dictionary",
+  "id": "peterh/zolai-language-bible-dictionary",
+  "licenses": [{"name": "CC0-1.0"}],
+  "is_private": false,
+  "description": "Zolai (Tedim) language Bible and dictionary dataset - ~250k entries for AI training",
+  "keywords": ["nlp", "language", "zolai", "tedim", "burmese", "bible", "dictionary"]
+}

@@ -8,7 +8,7 @@
 
 ### kilawm = seem good/pleasing
 **Context:** used to ask for approval or if something is agreeable
-**Example:** Note in kilawm na sak uh a
+**Example:** Note in kilawm na sak-te a
 
 ### deihna = will/desire
 **Context:** referring to the will of the Lord God
@@ -44,11 +44,11 @@
 
 ### hoih sa = found good/approved
 **Context:** the people agreed with the proposal
-**Example:** tua thu hoihsa uh ahih manin
+**Example:** tua thu hoihsa-te ahih manin
 
-### thukim uh hi = they agreed
+### thukim-te hi = they agreed
 **Context:** the entire congregation consented to the plan
-**Example:** kikhawm mi khempeuh a thukim uh hi
+**Example:** kikhawm mi khempeuh a thukim-te hi
 
 ### Shihor lui = River of Shihor (likely the Brook of Egypt)
 **Context:** a geographical boundary mentioned in the journey
@@ -68,15 +68,13 @@
 
 ### leeng thak = new cart
 **Context:** the vehicle used to transport the Ark
-**Example:** leeng thak khat tungah Pasian' Thuciamna Singkuang pua uh
-
-### hawl uh hi = drove (the cart)
+**Example:** leeng thak khat tungah Pasian' Thuciamna Singkuang pua-te ### hawl-te hi = drove (the cart)
 **Context:** the action performed by Uzza and Ahio
-**Example:** Uzza leh Ahio in a leeng a hawl uh hi
+**Example:** Uzza leh Ahio in a leeng a hawl-te hi
 
-### gualnopna bawl uh hi = made merry/celebrated
+### gualnopna bawl-te hi = made merry/celebrated
 **Context:** the joyous celebration accompanying the Ark's movement
-**Example:** gualnopna a bawl uh hi
+**Example:** gualnopna a bawl-te hi
 
 ### ancilna phual = threshing floor
 **Context:** the specific location where the oxen stumbled
@@ -153,9 +151,9 @@
   - Standard narrative structure for reporting speech following an event ('Then... said to...').
   - Example: Tua ciangin David in Israel a kikhawm khempeuhte kiangah, “...” a ci hi.
 
-- **Note in [Verb-na] na sak uh a, [Condition] ahih leh, [Action]**
+- **Note in [Verb-na] na sak-te a, [Condition] ahih leh, [Action]**
   - A conditional structure used to propose an action contingent on the audience's approval and God's will.
-  - Example: Note in kilawm na sak uh a, Topa i Pasian' deihna ahih leh, amaute eite kiangah hong pai khop theih nadingun...
+  - Example: Note in kilawm na sak-te a, Topa i Pasian' deihna ahih leh, amaute eite kiangah hong pai khop theih nadingun...
 
 - **[Subject] in [Object] tungah [Emotion] hi; [Reason], [Result]**
   - Describes a sequence of divine reaction, cause, and consequence.

@@ -64,19 +64,19 @@
 
 ### suante = descendants/offspring (plural)
 **Context:** General term for the progeny of Joktan.
-**Example:** Hihte khempeuh, Joktan' suante ahi uh hi.
+**Example:** Hihte khempeuh, Joktan' suante ahi-te hi.
 
 ### tua ciangin = after that/then
 **Context:** Indicates chronological sequence.
-**Example:** tua ciangin Abraham a kici Abram ahi suk uh hi.
+**Example:** tua ciangin Abraham a kici Abram ahi suk-te hi.
 
 ### a kici = who is called
 **Context:** Used to state an alternative or current name.
-**Example:** Abraham a kici Abram ahi suk uh hi.
+**Example:** Abraham a kici Abram ahi suk-te hi.
 
-### ahi suk uh hi = they became/they were called
+### ahi suk-te hi = they became/they were called
 **Context:** Indicates a change or establishment of a name.
-**Example:** Abram ahi suk uh hi.
+**Example:** Abram ahi suk-te hi.
 
 ### khangsimna = generations/lineage
 **Context:** Refers to the recorded line of descent.
@@ -97,7 +97,7 @@
 - **bang hang hiam cih leh** = because (lit. if you ask the reason)
   - Usage: A parenthetical phrase used to introduce an explanation or etymology for a name.
 
-- **ahi uh hi** = they are
+- **ahi-te hi** = they are
   - Usage: A concluding statement identifying the subject group (e.g., the sons of Abraham).
 
 ## Grammar Patterns
@@ -114,6 +114,6 @@
   - Introduction to listing the sons born from a specific ancestor (A). 'Sung pan' means 'from within'.
   - Example: Eber' sung pan a piang tapa nihte:
 
-- **A a kici B ahi suk uh hi.**
+- **A a kici B ahi suk-te hi.**
   - Indicates a name change or clarification: A, who is called B, they became/were known as.
-  - Example: Abraham a kici Abram ahi suk uh hi.
+  - Example: Abraham a kici Abram ahi suk-te hi.

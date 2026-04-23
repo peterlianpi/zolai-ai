@@ -64,59 +64,59 @@
 ### v6
 **EN:** And every one had four faces, and every one had four wings.
 
-**TDB77:** maitang li leh kha li nei ciat uh hi.
+**TDB77:** maitang li leh kha li nei ciat-te hi.
 
-**ZVS:** maitang li leh kha li ciat a nei uh hi.
+**ZVS:** maitang li leh kha li ciat a nei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** And their feet were straight feet; and the sole of their feet was like the sole of a calf's foot: and they sparkled like the colour of burnished brass.
 
-**TDB77:** A khete uh mam zeza a, ahi zongin a khepeekte uh bawng khe tawh kibang hi. Tua ganhingte pen a kinawtngil sumngo tawh kibang uh hi.
+**TDB77:** A khete-te mam zeza a, ahi zongin a khepeekte-te bawng khe tawh kibang hi. Tua ganhingte pen a kinawtngil sumngo tawh kibang-te hi.
 
-**ZVS:** A khete uh mam zeza a, ahi zongin a khepekte uh bawng khe tawh kibang hi. Tua ganhingte pen a kinawtngil sumngo tawh kibang uh hi.
+**ZVS:** A khete-te mam zeza a, ahi zongin a khepekte-te bawng khe tawh kibang hi. Tua ganhingte pen a kinawtngil sumngo tawh kibang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And they had the hands of a man under their wings on their four sides; and they four had their faces and their wings.
 
-**TDB77:** Maitang li leh kha li ciat a neih ban uhah, a khaphung nuai a pangpi uh panin a mengkhia mihing khut tawh a kibang li ciat mah nei lai uh hi.
+**TDB77:** Maitang li leh kha li ciat a neih ban uhah, a khaphung nuai a pangpi-te panin a mengkhia mihing khut tawh a kibang li ciat mah nei lai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** Their wings were joined one to another; they turned not when they went; they went every one straight forward.
 
-**TDB77:** Tua ganhing lite in a kha nih ciat uh zalin, a mong leh a mong kimatsak uh a, ki-umcihin sikli nei-in kimu hi. Amaute a gamtat ciangin a li-in tat khatin tang uh ahih manin a pumpi uh kituam hei lo hi.
+**TDB77:** Tua ganhing lite in a kha nih ciat-te zalin, a mong leh a mong kimatsak-te a, ki-umcihin sikli nei-in kimu hi. Amaute a gamtat ciangin a li-in tat khatin tang-te ahih manin a pumpi-te kituam hei lo hi.
 
-**ZVS:** Tua ganhing lite in a kha nih ciat uh zalin, a mong leh a mong kimatsak uh a, ki-umcihin sikli nei-in kimu hi. Amaute a gamtat uh ciangin a li-in tatkhatin tang uh ahih manin a pumpi uh kituam heilo hi.
+**ZVS:** Tua ganhing lite in a kha nih ciat-te zalin, a mong leh a mong kimatsak-te a, ki-umcihin sikli nei-in kimu hi. Amaute a gamtat-te ciangin a li-in tatkhatin tang-te ahih manin a pumpi-te kituam heilo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** As for the likeness of their faces, they four had the face of a man, and the face of a lion, on the right side: and they four had the face of an ox on the left side; they four also had the face of an eagle.
 
-**TDB77:** Tua ganhingte in maitang li ciat nei uh hi. Maitang ngeina lamah mihing mai, taklam pangah humpinelkai mai, veilam pangah bawngtal mai, a dek lamah muvanlai mai nei ciat uh hi.
+**TDB77:** Tua ganhingte in maitang li ciat nei-te hi. Maitang ngeina lamah mihing mai, taklam pangah humpinelkai mai, veilam pangah bawngtal mai, a dek lamah muvanlai mai nei ciat-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** Thus were their faces: and their wings were stretched upward; two wings of every one were joined one to another, and two covered their bodies.
 
-**TDB77:** Tua ganhingte in a kha nih ciat uh zal-in a zom-a omte’ kha mong dawn tawh kimatsak uh a, a om lai a kha nihte gel ciat uh khupin a pumpi uh tuam uh hi.
+**TDB77:** Tua ganhingte in a kha nih ciat-te zal-in a zom-a omte’ kha mong dawn tawh kimatsak-te a, a om lai a kha nihte gel ciat-te khupin a pumpi-te tuam-te hi.
 
-**ZVS:** Tua ganhingte in a kha nih ciat uh zalin a zoma omte' kha mong dawn tawh kimatsak uh a, a omlai a kha nihte gel ciat uh khupin a pumpi uh a tuam uh hi.
+**ZVS:** Tua ganhingte in a kha nih ciat-te zalin a zoma omte' kha mong dawn tawh kimatsak-te a, a omlai a kha nihte gel ciat-te khupin a pumpi-te a tuam-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And they went every one straight forward: whither the spirit was to go, they went; and they turned not when they went.
 
-**TDB77:** Tua ganhingte in maitang li ciat nei-in mun khempeuh a maingatsa suak uh ahih manin, kha in a pai sak nopna peuhpeuh ah, a pumpi uh kihei kul loin a pai thei pahpah uh hi.
+**TDB77:** Tua ganhingte in maitang li ciat nei-in mun khempeuh a maingatsa suak-te ahih manin, kha in a pai sak nopna peuhpeuh ah, a pumpi-te kihei kul loin a pai thei pahpah-te hi.
 
-**ZVS:** Tua ganhingte in maitang li ciat nei-in mun khempeuh a maingat suak uh ahih manin a painop uh ciangin a pumpi uh kihei kulloin a utna peuh uhah pai thei pahpah uh hi.
+**ZVS:** Tua ganhingte in maitang li ciat nei-in mun khempeuh a maingat suak-te ahih manin a painop-te ciangin a pumpi-te kihei kulloin a utna peuh uhah pai thei pahpah-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -130,34 +130,34 @@
 ### v14
 **EN:** And the living creatures ran and returned as the appearance of a flash of lightning.
 
-**TDB77:** Tua ganhingte zong khuaphia mah bangin kin zalzal kawikawi uh hi.
+**TDB77:** Tua ganhingte zong khuaphia mah bangin kin zalzal kawikawi-te hi.
 
-**ZVS:** Tua ganhingte khuaphia mah bangin kin zalzal kawikawi uh hi.
+**ZVS:** Tua ganhingte khuaphia mah bangin kin zalzal kawikawi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.
 
-**TDB77:** Tua ganhing lite ka et lai takin amaute in leengpei khat ciat a neih lam uh ka mu a, a leengpeite leilak ah kinga hi.
+**TDB77:** Tua ganhing lite ka et lai takin amaute in leengpei khat ciat a neih lam-te ka mu a, a leengpeite leilak ah kinga hi.
 
-**ZVS:** Tua ganhing lite ka et laitakin amaute in leengpei khat ciat a neihlam uh ka mu a, a leengpeite leilakah kinga hi.
+**ZVS:** Tua ganhing lite ka et laitakin amaute in leengpei khat ciat a neihlam-te ka mu a, a leengpeite leilakah kinga hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v16
 **EN:** The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel.
 
-**TDB77:** Tua leengpeite a vekpi-in kibang kim a, suangmanpha bangin tee uh hi. Tua leengpeite in a kikantan lamin pei khat ciat nei thuah uh ahih manin,
+**TDB77:** Tua leengpeite a vekpi-in kibang kim a, suangmanpha bangin tee-te hi. Tua leengpeite in a kikantan lamin pei khat ciat nei thuah-te ahih manin,
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** When they went, they went upon their four sides: and they turned not when they went.
 
-**TDB77:** a utna lam peuhpeuh ah pai thei uh hi.
+**TDB77:** a utna lam peuhpeuh ah pai thei-te hi.
 
-**ZVS:** a utna lam peuhpeuhah pai thei uh hi.
+**ZVS:** a utna lam peuhpeuhah pai thei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -178,18 +178,18 @@
 ### v20
 **EN:** Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.
 
-**TDB77:** Amau’ utna peuhpeuh uhah tua ganhingte pai uh a, tua leengpeite pen a ganhingte’ khutnuai ahih manin, ganhingte’ paina peuhpeuh ah pai uh hi.
+**TDB77:** Amau’ utna peuhpeuh uhah tua ganhingte pai-te a, tua leengpeite pen a ganhingte’ khutnuai ahih manin, ganhingte’ paina peuhpeuh ah pai-te hi.
 
-**ZVS:** Amau' utna peuhpeuh uhah tua ganhingte pai uh a, tua leengpeite pen a ganhingte' khutnuai ahih manin, ganhingte' paina peuhpeuhah a pai uh hi.
+**ZVS:** Amau' utna peuhpeuh uhah tua ganhingte pai-te a, tua leengpeite pen a ganhingte' khutnuai ahih manin, ganhingte' paina peuhpeuhah a pai-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
 ### v21
 **EN:** When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.
 
-**TDB77:** Tua leengpeite pen ganhingte’ khut nuai-a om ahih manin ganhingte pai leh pai-in, khawl leh khawlin, van-ah kahto leh kahto-in; a ganhingte’ tat bang teekteekin ta uh hi.
+**TDB77:** Tua leengpeite pen ganhingte’ khut nuai-a om ahih manin ganhingte pai leh pai-in, khawl leh khawlin, van-ah kahto leh kahto-in; a ganhingte’ tat bang teekteekin ta-te hi.
 
-**ZVS:** Tua leengpeite pen ganhingte' khutnuai-a om ahih manin ganhingte pai leh pai-in, ganhingte khawl leh khawlin, vanah kahto leh kahto-in, a ganhingte' tat bang teekteekin a ta uh hi.
+**ZVS:** Tua leengpeite pen ganhingte' khutnuai-a om ahih manin ganhingte pai leh pai-in, ganhingte khawl leh khawlin, vanah kahto leh kahto-in, a ganhingte' tat bang teekteekin a ta-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | plural: uh marker
 
@@ -205,18 +205,18 @@
 ### v23
 **EN:** And under the firmament were their wings straight, the one toward the other: every one had two, which covered on this side, and every one had two, which covered on that side, their bodies.
 
-**TDB77:** Tua a kuum nuai-ah, ganhingte in a kizompih ciatte lamah a kha nihte ciat zal uh a, a kha nih ciat uh tawh amau pumpi ciat tuam uh hi.
+**TDB77:** Tua a kuum nuai-ah, ganhingte in a kizompih ciatte lamah a kha nihte ciat zal-te a, a kha nih ciat-te tawh amau pumpi ciat tuam-te hi.
 
-**ZVS:** Tua a kuum nuai-ah, ganhingte in a kizompih ciatte' lamah a kha nihte ciat zal uh a, a kha nih ciat uh tawh amau' pumpi ciat a tuam uh hi.
+**ZVS:** Tua a kuum nuai-ah, ganhingte in a kizompih ciatte' lamah a kha nihte ciat zal-te a, a kha nih ciat-te tawh amau' pumpi ciat a tuam-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And when they went, I heard the noise of their wings, like the noise of great waters, as the voice of the Almighty, the voice of speech, as the noise of an host: when they stood, they let down their wings.
 
-**TDB77:** Tua ciangin amaute’ leen’na a khaging uh ka za hi. Tua a khaging in tuipi ging, galkap honpi huging, leh Vanglian Pasian’ awgingte tawh kibang hi. A leen’nawn loh uh ciangin a kha uh khup a,
+**TDB77:** Tua ciangin amaute’ leen’na a khaging-te ka za hi. Tua a khaging in tuipi ging, galkap honpi huging, leh Vanglian Pasian’ awgingte tawh kibang hi. A leen’nawn loh-te ciangin a kha-te khup a,
 
-**ZVS:** Tua ciangin amaute' leen'na a khaging uh ka za hi. Tua a khaging pen tuipi ging, galkap honpi huging, leh Vanglian Pasian' awgingte tawh kibang hi. A leen' nawnloh uh ciangin a kha uh khup a,
+**ZVS:** Tua ciangin amaute' leen'na a khaging-te ka za hi. Tua a khaging pen tuipi ging, galkap honpi huging, leh Vanglian Pasian' awgingte tawh kibang hi. A leen' nawnloh-te ciangin a kha-te khup a,
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 

@@ -31,9 +31,9 @@
 ### v2
 **EN:** When the wicked, even mine enemies and my foes, came upon me to eat up my flesh, they stumbled and fell.
 
-**TDB77:** Ka langpangte leh ka galte ahi, siatna bawlte in hong do a, kei hong gensiat ciangun, amaute kisuikha-in puk ding uh hi.
+**TDB77:** Ka langpangte leh ka galte ahi, siatna bawlte in hong do a, kei hong gensiat ciangun, amaute kisuikha-in puk ding-te hi.
 
-**ZVS:** Hong langpangte leh ka galte ahi, siatna bawlte in hong do a, kei nektum hong sawm ciangun, amaute kisukha-in puk ding uh hi.
+**ZVS:** Hong langpangte leh ka galte ahi, siatna bawlte in hong do a, kei nektum hong sawm ciangun, amaute kisukha-in puk ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -42,7 +42,7 @@
 
 **TDB77:** Mi honkhat in kei langpangin phual a sat hangin, ka lungsim lau lo ding hi; kei langpangin gal hong kuan hangin, tua nangawn-ah ka lungmuang ding hi.
 
-**ZVS:** Mi honkhat in keimah hong langpangin phual a sat uh hangin, ka lungsim laulo ding hi. Keimah hong langpangin gal hong kuan hangin tua nangawnah ka lungmuang ding hi.
+**ZVS:** Mi honkhat in keimah hong langpangin phual a sat-te hangin, ka lungsim laulo ding hi. Keimah hong langpangin gal hong kuan hangin tua nangawnah ka lungmuang ding hi.
 
 **Grammar:** future: will
 
@@ -117,9 +117,9 @@
 ### v12
 **EN:** Deliver me not over unto the will of mine enemies: for false witnesses are risen up against me, and such as breathe out cruelty.
 
-**TDB77:** Ka langte’ deihna bangin kei hong nusia kei in; bang hang hiam cih leh teci man lote ka langah pang khin a, amaute in ngongtatna hu sangkhia uh hi.
+**TDB77:** Ka langte’ deihna bangin kei hong nusia kei in; bang hang hiam cih leh teci man lote ka langah pang khin a, amaute in ngongtatna hu sangkhia-te hi.
 
-**ZVS:** Ka langte' deihna bangin kei hong nusia kei in; bang hang hiam cih leh teci manlote ka langah pang khin a, amaute in zuau genin kei hong tawng niloh uh hi.
+**ZVS:** Ka langte' deihna bangin kei hong nusia kei in; bang hang hiam cih leh teci manlote ka langah pang khin a, amaute in zuau genin kei hong tawng niloh-te hi.
 
 **Grammar:** plural: uh marker
 

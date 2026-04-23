@@ -45,18 +45,18 @@
 ### v3
 **EN:** Ye have compassed this mountain long enough: turn you northward.
 
-**TDB77:** ‘Hih mual kiimah sauvei khop na pai khin ta uh hi; leilu lamah kihei un.
+**TDB77:** ‘Hih mual kiimah sauvei khop na pai khin ta-te hi; leilu lamah kihei un.
 
-**ZVS:** ‘Hih mual kiimah sauvei khop na pai khinta uh hi; leilu lamah kihei un.
+**ZVS:** ‘Hih mual kiimah sauvei khop na pai khinta-te hi; leilu lamah kihei un.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And command thou the people, saying, Ye are to pass through the coast of your brethren the children of Esau, which dwell in Seir; and they shall be afraid of you: take ye good heed unto yourselves therefore:
 
-**TDB77:** Mite hih bangin thupia in: Seir gamah a teeng Esau’ suan leh khak, na behte uh’ gam sung a nawk ding na hi uh hi; amaute in note hong kihta ding uh hi. Tua ahih ciangin kidawm un;
+**TDB77:** Mite hih bangin thupia in: Seir gamah a teeng Esau’ suan leh khak, na behte uh’ gam sung a nawk ding na hi-te hi; amaute in note hong kihta ding-te hi. Tua ahih ciangin kidawm un;
 
-**ZVS:** Mite' tungah hih bangin thu pia in: Seir gamah a teng Esau' suanlekhak, na behte uh gamsung a nawk ding na hi uh hi. Amaute in note hong kihta ding uh hi. Ahi zongin note kidawm un.
+**ZVS:** Mite' tungah hih bangin thu pia in: Seir gamah a teng Esau' suanlekhak, na behte-te gamsung a nawk ding na hi-te hi. Amaute in note hong kihta ding-te hi. Ahi zongin note kidawm un.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -72,18 +72,18 @@
 ### v6
 **EN:** Ye shall buy meat of them for money, that ye may eat; and ye shall also buy water of them for money, that ye may drink.
 
-**TDB77:** Na nek ding uh an amaute tung panin sum tawh na lei ding uh hi; na dawn ding uh amau’ tui zong sum tawh na lei ding uh hi.
+**TDB77:** Na nek ding-te an amaute tung panin sum tawh na lei ding-te hi; na dawn ding-te amau’ tui zong sum tawh na lei ding-te hi.
 
-**ZVS:** Na nek ding uh an amaute' tung panin sum tawh na lei ding uh a, na dawn ding uh amau' tui zong sum mah tawh na lei ding uh hi.
+**ZVS:** Na nek ding-te an amaute' tung panin sum tawh na lei ding-te a, na dawn ding-te amau' tui zong sum mah tawh na lei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v7
 **EN:** For the
 
-**TDB77:** Bang hang hiam cih leh khut tawh na sepna khempeuh uhah Topa na Pasian un note thupha hong pia hi; hih a zai gamlakah na paina uh amah in hong thei hi; hih kum sawmli sung Topa na Pasian uh no tawh hong om hi; bangmah na kisam kei uh hi, ci-in gen in,’ hong ci hi.
+**TDB77:** Bang hang hiam cih leh khut tawh na sepna khempeuh uhah Topa na Pasian un note thupha hong pia hi; hih a zai gamlakah na paina-te amah in hong thei hi; hih kum sawmli sung Topa na Pasian-te no tawh hong om hi; bangmah na kisam kei-te hi, ci-in gen in,’ hong ci hi.
 
-**ZVS:** “‘Bang hang hiam cih leh na sepna khempeuh uhah { Topa } na Pasian un note thupha hong pia hi. Hih a zai sehnel gam na paina uh amah in hong thei hi. Hih kum sawmli sung { Topa } na Pasian uh no tawh hong om hi. Bangmah na kisam kei uh hi, ci-in gen in,’ hong ci hi.
+**ZVS:** “‘Bang hang hiam cih leh na sepna khempeuh uhah { Topa } na Pasian un note thupha hong pia hi. Hih a zai sehnel gam na paina-te amah in hong thei hi. Hih kum sawmli sung { Topa } na Pasian-te no tawh hong om hi. Bangmah na kisam kei-te hi, ci-in gen in,’ hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -117,16 +117,16 @@
 ### v11
 **EN:** Which also were accounted giants, as the Anakims; but the Moabites call them Emims.
 
-**TDB77:** Anak mite mah bangin amaute zong Refaim mite kici a, ahih hangin Moab mite in Emim ci uh hi.
+**TDB77:** Anak mite mah bangin amaute zong Refaim mite kici a, ahih hangin Moab mite in Emim ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** The Horims also dwelt in Seir beforetime; but the children of Esau succeeded them, when they had destroyed them from before them, and dwelt in their stead; as Israel did unto the land of his possession, which the
 
-**TDB77:** Hor mite zong Seir-ah nidangin teeng ngei a, ahih hangin, Topa in amaute tungah a piak amau leitang tungah Israel mite in ahih mah bangin, Esau’ suan leh khakte in amaute suankhia-in amaute susia a, amau’ munah teeng uh hi.)
+**TDB77:** Hor mite zong Seir-ah nidangin teeng ngei a, ahih hangin, Topa in amaute tungah a piak amau leitang tungah Israel mite in ahih mah bangin, Esau’ suan leh khakte in amaute suankhia-in amaute susia a, amau’ munah teeng-te hi.)
 
-**ZVS:** Hor mite zong Seir-ah nidangin teng ngei a, ahih hangin { Topa } in amaute' tungah a piak amau' leitang tungah Israel mite in a hih mah bangin, Esau' suanlekhakte in amaute suankhia-in susia uh a, amau' munah teng uh hi.)
+**ZVS:** Hor mite zong Seir-ah nidangin teng ngei a, ahih hangin { Topa } in amaute' tungah a piak amau' leitang tungah Israel mite in a hih mah bangin, Esau' suanlekhakte in amaute suankhia-in susia-te a, amau' munah teng-te hi.)
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -178,18 +178,18 @@
 ### v18
 **EN:** Thou art to pass over through Ar, the coast of Moab, this day:
 
-**TDB77:** ‘Tu ni-in Ar khua san takah Moab gamgi kantan ding na hi uh hi;
+**TDB77:** ‘Tu ni-in Ar khua san takah Moab gamgi kantan ding na hi-te hi;
 
-**ZVS:** ‘Tuni-in Ar khua san takah Moab gamgi a kantan ding na hi uh hi.
+**ZVS:** ‘Tuni-in Ar khua san takah Moab gamgi a kantan ding na hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v19
 **EN:** And when thou comest nigh over against the children of Ammon, distress them not, nor meddle with them: for I will not give thee of the land of the children of Ammon any possession; because I have given it unto the children of Lot for a possession.
 
-**TDB77:** Ammon mite leitang khat zong na neih dingun hong pia lo ding ka hih manin, Ammon mite’ gamgi na nai uh ciangin amaute gimsak kei un la, amaute tawh kido kei un, bang hang hiam cih leh a neih dingun Lot’ suan leh khakte tungah ka pia ding hi.
+**TDB77:** Ammon mite leitang khat zong na neih dingun hong pia lo ding ka hih manin, Ammon mite’ gamgi na nai-te ciangin amaute gimsak kei un la, amaute tawh kido kei un, bang hang hiam cih leh a neih dingun Lot’ suan leh khakte tungah ka pia ding hi.
 
-**ZVS:** Ammon mite' leitang na neih dingun khat zong hong pialo ding ka hih manin, Ammon mite' gamgi na nai uh ciangin amaute gimsak kei un la, amaute tawh kido kei un; bang hang hiam cih leh a neih dingun Lot' suanlekhakte tungah ka pia khin hi,’ hong ci hi.
+**ZVS:** Ammon mite' leitang na neih dingun khat zong hong pialo ding ka hih manin, Ammon mite' gamgi na nai-te ciangin amaute gimsak kei un la, amaute tawh kido kei un; bang hang hiam cih leh a neih dingun Lot' suanlekhakte tungah ka pia khin hi,’ hong ci hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix
 
@@ -201,27 +201,27 @@
 ### v21
 **EN:** A people great, and many, and tall, as the Anakims; but the
 
-**TDB77:** (Tua pen Refaim gamgi ci-in zong kithei ngei hi; Refaim mite tua lai-ah teeng ngei a, ahih hangin Ammon mite in amaute pen, Anak mite bangin lianin a tam a tun a sang mite ahi Zamzummim mite ci uh hi; ahih hangin Topa in amaute mai-ah tua mite susia hi; amaute in tua mite suankhia uh a, amau’ mun-ah teeng uh hi;
+**TDB77:** (Tua pen Refaim gamgi ci-in zong kithei ngei hi; Refaim mite tua lai-ah teeng ngei a, ahih hangin Ammon mite in amaute pen, Anak mite bangin lianin a tam a tun a sang mite ahi Zamzummim mite ci-te hi; ahih hangin Topa in amaute mai-ah tua mite susia hi; amaute in tua mite suankhia-te a, amau’ mun-ah teeng-te hi;
 
-**ZVS:** (Tua pen Refaim gamgi ci-in zong kithei ngei hi. Refaim mite tua lai-ah teng ngei a, ahih hangin Ammon mite in amaute pen, Anak mite bangin lianin a tun' a sang ahi Zamzummim mite ci uh hi. Ahih hangin { Topa } in amaute' mai-ah tua mite susia hi. Amaute in tua mite suankhia uh a, amau' munah teng uh hi.
+**ZVS:** (Tua pen Refaim gamgi ci-in zong kithei ngei hi. Refaim mite tua lai-ah teng ngei a, ahih hangin Ammon mite in amaute pen, Anak mite bangin lianin a tun' a sang ahi Zamzummim mite ci-te hi. Ahih hangin { Topa } in amaute' mai-ah tua mite susia hi. Amaute in tua mite suankhia-te a, amau' munah teng-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** As he did to the children of Esau, which dwelt in Seir, when he destroyed the Horims from before them; and they succeeded them, and dwelt in their stead even unto this day:
 
-**TDB77:** amah in Seir-ah a teeng Esau suan leh khakte adingin amaute mai-ah Hor mite a suksiat mah bangin, amaute in tua mite suankhia-in tuni dongin amau’ mun-ah teeng uh hi.
+**TDB77:** amah in Seir-ah a teeng Esau suan leh khakte adingin amaute mai-ah Hor mite a suksiat mah bangin, amaute in tua mite suankhia-in tuni dongin amau’ mun-ah teeng-te hi.
 
-**ZVS:** Amah in Seir-ah a teng Esau' suanlekhakte-a' dingin amaute' mai-ah Hor mite a suksiat mah bangin amaute in tua mite susia-in tuni dongin amau' munah teng uh hi.
+**ZVS:** Amah in Seir-ah a teng Esau' suanlekhakte-a' dingin amaute' mai-ah Hor mite a suksiat mah bangin amaute in tua mite susia-in tuni dongin amau' munah teng-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v23
 **EN:** And the Avims which dwelt in Hazerim, even unto Gaza, the Caphtorims, which came forth out of Caphtor, destroyed them, and dwelt in their stead.)
 
-**TDB77:** Gaza ciang dong khua neute-ah a teeng Avvim mite ahih leh Kaftor pana hong pai Kaftor mite in susia in amau’ munah teeng uh hi.)
+**TDB77:** Gaza ciang dong khua neute-ah a teeng Avvim mite ahih leh Kaftor pana hong pai Kaftor mite in susia in amau’ munah teeng-te hi.)
 
-**ZVS:** Gaza ciangdong khuaneute-ah a teng Avvim mite ahih leh Kaftor pana hong pai Kaftor mite in susia-in amau' munah teng uh hi.)
+**ZVS:** Gaza ciangdong khuaneute-ah a teng Avvim mite ahih leh Kaftor pana hong pai Kaftor mite in susia-in amau' munah teng-te hi.)
 
 **Grammar:** plural: uh marker
 
@@ -230,7 +230,7 @@
 
 **TDB77:** ‘Ding-in, na khualzin kipan in la, Arnon kuam kantan in; en in, Heshbon kumpipa, Amor mi Sihon leh ama leitang na khut sungah kong pia zo hi; amah suankhiat ding kipan in la, gal sungah amah tawh kido in.
 
-**ZVS:** “Moab gamsung i khen' ciangin { Topa } in, ‘Ding un, na khualzin uh kipan un la, Arnon kuam kantan un. En un, Heshbon kumpipa, Amor mi Sihon leh ama leitang note' khutsungah kong piazo hi. Amah suankhiat ding kipan un la, gal sungah amah tawh kido un.
+**ZVS:** “Moab gamsung i khen' ciangin { Topa } in, ‘Ding un, na khualzin-te kipan un la, Arnon kuam kantan un. En un, Heshbon kumpipa, Amor mi Sihon leh ama leitang note' khutsungah kong piazo hi. Amah suankhiat ding kipan un la, gal sungah amah tawh kido un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -257,7 +257,7 @@
 
 **TDB77:** ‘Na gam sung hong nawksak in; lampi bekah ka pai ding a, taklam ahi a, veilam-ah ahi zongin ka pial kei ding hi.
 
-**ZVS:** ‘Na gamsung hong nawksak in. Lampi bekah ka pai ding uh a, taklam ahi a, veilamah ahi zongin ka pial kei ding uh hi.
+**ZVS:** ‘Na gamsung hong nawksak in. Lampi bekah ka pai ding-te a, taklam ahi a, veilamah ahi zongin ka pial kei ding-te hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -266,7 +266,7 @@
 
 **TDB77:** Ka nek ding an sum tawh lei dingin nong zuak ding a, ka dawn ding tui sum tawh lei dingin nong pia ding hi; khe tawh hong nawksak bek in,
 
-**ZVS:** Ka nek ding uh an sum tawh lei dingin nong zuak ding a, ka dawn ding uh tui sum tawh lei dingin nong pia ding hi. Khe tawh hong nawksak bek in.
+**ZVS:** Ka nek ding-te an sum tawh lei dingin nong zuak ding a, ka dawn ding-te tui sum tawh lei dingin nong pia ding hi. Khe tawh hong nawksak bek in.
 
 **Grammar:** purpose: in order to | future: will
 
@@ -300,9 +300,9 @@
 ### v32
 **EN:** Then Sihon came out against us, he and all his people, to fight at Jahaz.
 
-**TDB77:** Tua ciangin Sihon leh a mite khempeuh eite do dingin Jahaz-ah hong pai uh hi.
+**TDB77:** Tua ciangin Sihon leh a mite khempeuh eite do dingin Jahaz-ah hong pai-te hi.
 
-**ZVS:** Tua ciangin Sihon leh a mite khempeuh eite a do dingin Jahaz-ah hong pai uh hi.
+**ZVS:** Tua ciangin Sihon leh a mite khempeuh eite a do dingin Jahaz-ah hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -325,9 +325,9 @@
 ### v35
 **EN:** Only the cattle we took for a prey unto ourselves, and the spoil of the cities which we took.
 
-**TDB77:** i laksa a khuapi sunga van kinusiate tawh a ganhingte uh eima adingin i la bek hi.
+**TDB77:** i laksa a khuapi sunga van kinusiate tawh a ganhingte-te eima adingin i la bek hi.
 
-**ZVS:** I laksa a khuapi sunga van kinusiate tawh a ganhingte uh eima-a' dingin i la bek hi.
+**ZVS:** I laksa a khuapi sunga van kinusiate tawh a ganhingte-te eima-a' dingin i la bek hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 

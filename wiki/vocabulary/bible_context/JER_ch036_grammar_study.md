@@ -43,9 +43,9 @@
 ### v3
 **EN:** It may be that the house of Judah will hear all the evil which I purpose to do unto them; that they may return every man from his evil way; that I may forgive their iniquity and their sin.
 
-**TDB77:** Judah mite in amau tunga tun’sak dinga ka ngaihsut siatna khempeuh za-in mi khempeuh in a siatna lampi-uh panin kiheina-in a nei kha thei ding uh a, keimah in zong amau’ khialhna leh amau’ mawhnate ka maisak kha thei ding hi,” a ci hi.
+**TDB77:** Judah mite in amau tunga tun’sak dinga ka ngaihsut siatna khempeuh za-in mi khempeuh in a siatna lampi-uh panin kiheina-in a nei kha thei ding-te a, keimah in zong amau’ khialhna leh amau’ mawhnate ka maisak kha thei ding hi,” a ci hi.
 
-**ZVS:** Judah mite in amau' tungah tun'sak dingin ka ngaihsut siatna khempeuh za-in, mi khempeuh in a siatna uh panin kiheina-in nei khathei ding uh a, keimah in zong amau' khialhna leh amau' mawhnate ka maisak thei khading hi,” a hong ci hi.
+**ZVS:** Judah mite in amau' tungah tun'sak dingin ka ngaihsut siatna khempeuh za-in, mi khempeuh in a siatna-te panin kiheina-in nei khathei ding-te a, keimah in zong amau' khialhna leh amau' mawhnate ka maisak thei khading hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -79,9 +79,9 @@
 ### v7
 **EN:** It may be they will present their supplication before the
 
-**TDB77:** Amaute in Topa tungah thuum-in a vekpi-un a hoihlohna uh panin a kihei kha thei ding uh hi. Bang hang hiam cih leh hih mite tungah Topa in tun’sak dinga a gensa a hehna leh a thangpaihna lian mahmah hi,” a ci hi.
+**TDB77:** Amaute in Topa tungah thuum-in a vekpi-un a hoihlohna-te panin a kihei kha thei ding-te hi. Bang hang hiam cih leh hih mite tungah Topa in tun’sak dinga a gensa a hehna leh a thangpaihna lian mahmah hi,” a ci hi.
 
-**ZVS:** { Topa' } tungah amaute thumin a vekpi-un a hoihlohna uh panin a kihei thei khading uh hi. Bang hang hiam cih leh hih mite' tungah { Topa } in tun'sak dingin a gensa a hehna leh a thangpaihna lian mahmah hi,” ka ci hi.
+**ZVS:** { Topa' } tungah amaute thumin a vekpi-un a hoihlohna-te panin a kihei thei khading-te hi. Bang hang hiam cih leh hih mite' tungah { Topa } in tun'sak dingin a gensa a hehna leh a thangpaihna lian mahmah hi,” ka ci hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -95,9 +95,9 @@
 ### v9
 **EN:** And it came to pass in the fifth year of Jehoiakim the son of Josiah king of Judah, in the ninth month, that they proclaimed a fast before the
 
-**TDB77:** Josiah’ tapa Judah kumpipa Jehoiakim a maan’ zawh kum nga a phak kum, a kha kua kha-in Jerusalem khua-a om mi khempeuh leh Judah gam khuapite pana Jerusalem khua-a hong pai mite khempeuh in Topa’ mai-ah an tan’ ding thu a zasak uh hi.
+**TDB77:** Josiah’ tapa Judah kumpipa Jehoiakim a maan’ zawh kum nga a phak kum, a kha kua kha-in Jerusalem khua-a om mi khempeuh leh Judah gam khuapite pana Jerusalem khua-a hong pai mite khempeuh in Topa’ mai-ah an tan’ ding thu a zasak-te hi.
 
-**ZVS:** Josiah' tapa Judah kumpi Jehoiakim in a ukzawh kum nga a phak kum, a kha kuana kha-in Jerusalem khua-a om mi khempeuh leh Judah gam khuapite panin Jerusalem khua-ah a hong pai mi khempeuh in { Topa' } maipha ngahna dingin an a tang uh hi.
+**ZVS:** Josiah' tapa Judah kumpi Jehoiakim in a ukzawh kum nga a phak kum, a kha kuana kha-in Jerusalem khua-a om mi khempeuh leh Judah gam khuapite panin Jerusalem khua-ah a hong pai mi khempeuh in { Topa' } maipha ngahna dingin an a tang-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -120,9 +120,9 @@
 ### v12
 **EN:** Then he went down into the king's house, into the scribe's chamber: and, lo, all the princes sat there, even Elishama the scribe, and Delaiah the son of Shemaiah, and Elnathan the son of Achbor, and Gemariah the son of Shaphan, and Zedekiah the son of Hananiah, and all the princes.
 
-**TDB77:** Kumpipa’ inn sung, thuvanpipa’ inndei sungah a paisuk a, tua lai munah thuvanpipa Elishama, Shemiah’ tapa Delaiah, Akbor’ tapa Elnathan, Shafan’ tapa Gemariah, Hananiah’ tapa Zedekiah-te akipan kumpi ulian khempeuh tu-in a na om uh hi.
+**TDB77:** Kumpipa’ inn sung, thuvanpipa’ inndei sungah a paisuk a, tua lai munah thuvanpipa Elishama, Shemiah’ tapa Delaiah, Akbor’ tapa Elnathan, Shafan’ tapa Gemariah, Hananiah’ tapa Zedekiah-te akipan kumpi ulian khempeuh tu-in a na om-te hi.
 
-**ZVS:** kumpipa' innsung, thuvanpipa' inndei sungah paisuk a, tua lai munah thuvanpipa Elishama, Shemaiah' tapa Delaiah, Akbor' tapa Elnathan, Shafan' tapa Gemariah, leh Hananiah' tapa Zedekiah-te-a kipan kumpi ulian khempeuh tu-in na om uh hi.
+**ZVS:** kumpipa' innsung, thuvanpipa' inndei sungah paisuk a, tua lai munah thuvanpipa Elishama, Shemaiah' tapa Delaiah, Akbor' tapa Elnathan, Shafan' tapa Gemariah, leh Hananiah' tapa Zedekiah-te-a kipan kumpi ulian khempeuh tu-in na om-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -138,36 +138,36 @@
 ### v14
 **EN:** Therefore all the princes sent Jehudi the son of Nethaniah, the son of Shelemiah, the son of Cushi, unto Baruch, saying, Take in thine hand the roll wherein thou hast read in the ears of the people, and come. So Baruch the son of Neriah took the roll in his hand, and came unto them.
 
-**TDB77:** Tua ciangin kumpi ulian khempeuh in, Kushi’ tusawn ahi, Shelemiah’ tupa, Nethaniah’ tapa Jehudi, Baruk kiangah a sawl uh a, “Mite kianga na sim na laizial hong la in la, hong pai in,” ci-in a sam sak uh hi. Tua ciangin Neriah’ tapa Baruk in zong tua laizial la-in amau kiangah hong pai hi.
+**TDB77:** Tua ciangin kumpi ulian khempeuh in, Kushi’ tusawn ahi, Shelemiah’ tupa, Nethaniah’ tapa Jehudi, Baruk kiangah a sawl-te a, “Mite kianga na sim na laizial hong la in la, hong pai in,” ci-in a sam sak-te hi. Tua ciangin Neriah’ tapa Baruk in zong tua laizial la-in amau kiangah hong pai hi.
 
-**ZVS:** Tua ciangin kumpi ulian khempeuh in, Kushi' tusawn ahi, Shelemiah' tupa, Nethaniah' tapa Jehudi, Baruk kiangah sawl uh a, “Mite kiangah na sim na laizial hong la in la hong pai in,” ci-in a samsak uh hi. Tua ciangin Neriah' tapa Baruk in zong tua laizial la-in amaute kiangah hong paipih hi.
+**ZVS:** Tua ciangin kumpi ulian khempeuh in, Kushi' tusawn ahi, Shelemiah' tupa, Nethaniah' tapa Jehudi, Baruk kiangah sawl-te a, “Mite kiangah na sim na laizial hong la in la hong pai in,” ci-in a samsak-te hi. Tua ciangin Neriah' tapa Baruk in zong tua laizial la-in amaute kiangah hong paipih hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And they said unto him, Sit down now, and read it in our ears. So Baruch read it in their ears.
 
-**TDB77:** Amaute in, “Tu in la, hong sim dih in,” ci-in a gen uh hi. Baruk in zong amau kiangah a sim hi.
+**TDB77:** Amaute in, “Tu in la, hong sim dih in,” ci-in a gen-te hi. Baruk in zong amau kiangah a sim hi.
 
-**ZVS:** Amaute in, “Tu in la hong sim dih in,” ci-in a gen uh hi. Baruk in zong amaute kiangah a sim hi.
+**ZVS:** Amaute in, “Tu in la hong sim dih in,” ci-in a gen-te hi. Baruk in zong amaute kiangah a sim hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** Now it came to pass, when they had heard all the words, they were afraid both one and other, and said unto Baruch, We will surely tell the king of all these words.
 
-**TDB77:** Tua thute khempeuh a zak khit uh ciangin lau-in khat leh khat a ki-en gapgap uh a, Baruk kiangah, “Hih thute khempeuh kumpipa’ kiangah i koh kul ding hi,” a ci uh hi.
+**TDB77:** Tua thute khempeuh a zak khit-te ciangin lau-in khat leh khat a ki-en gapgap-te a, Baruk kiangah, “Hih thute khempeuh kumpipa’ kiangah i koh kul ding hi,” a ci-te hi.
 
-**ZVS:** Tua thute khempeuh a zak khit uh ciangin lau-in khatlekhat ki-en gapgap uh a, Baruk kiangah, “Hih thute khempeuh kumpipa kiangah i koh kul ding hi,” a ci uh hi.
+**ZVS:** Tua thute khempeuh a zak khit-te ciangin lau-in khatlekhat ki-en gapgap-te a, Baruk kiangah, “Hih thute khempeuh kumpipa kiangah i koh kul ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And they asked Baruch, saying, Tell us now, How didst thou write all these words at his mouth?
 
-**TDB77:** Tua ciangin Baruk’ kiangah, “Hih thute khempeuh bangci gelh na hi hiam? Jeremiah in hong sit ahi hiam?” ci-in a dong uh hi.
+**TDB77:** Tua ciangin Baruk’ kiangah, “Hih thute khempeuh bangci gelh na hi hiam? Jeremiah in hong sit ahi hiam?” ci-in a dong-te hi.
 
-**ZVS:** Tua ciangin Baruk kiangah, “Hih thute khempeuh bangci at na hi hiam? Jeremiah in hong sit ahi hiam?” ci-in a dong uh hi.
+**ZVS:** Tua ciangin Baruk kiangah, “Hih thute khempeuh bangci at na hi hiam? Jeremiah in hong sit ahi hiam?” ci-in a dong-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -183,18 +183,18 @@
 ### v19
 **EN:** Then said the princes unto Baruch, Go, hide thee, thou and Jeremiah; and let no man know where ye be.
 
-**TDB77:** Tua ciangin kumpi uliante in Baruk’ kiangah, “Pai in la, nang leh Jeremiah va bu un. Na omna mun-uh kuamah thei sak kei un,” a ci uh hi.
+**TDB77:** Tua ciangin kumpi uliante in Baruk’ kiangah, “Pai in la, nang leh Jeremiah va bu un. Na omna mun-uh kuamah thei sak kei un,” a ci-te hi.
 
-**ZVS:** Tua ciangin kumpi uliante in Baruk kiangah, “Pai in la, nang leh Jeremiah va bu un. Na omna mun uh kuamah theisak kei un,” a ci uh hi.
+**ZVS:** Tua ciangin kumpi uliante in Baruk kiangah, “Pai in la, nang leh Jeremiah va bu un. Na omna mun-te kuamah theisak kei un,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And they went in to the king into the court, but they laid up the roll in the chamber of Elishama the scribe, and told all the words in the ears of the king.
 
-**TDB77:** Tua ciangin amaute in thuvanpipa Elishama’ inndei sungah tua laizial a koih uh a, kumpipa’ omna inndei sungah a lut khit uh ciangin kumpipa kiangah tua thu khempeuh a gen uh hi.
+**TDB77:** Tua ciangin amaute in thuvanpipa Elishama’ inndei sungah tua laizial a koih-te a, kumpipa’ omna inndei sungah a lut khit-te ciangin kumpipa kiangah tua thu khempeuh a gen-te hi.
 
-**ZVS:** Tua ciangin amaute in thuvanpipa Elishama' inndei sungah tua laizial koih uh a, kumpipa' omna inndei sungah a lut khit uh ciangin kumpipa kiangah tua thu khempeuh a gen uh hi.
+**ZVS:** Tua ciangin amaute in thuvanpipa Elishama' inndei sungah tua laizial koih-te a, kumpipa' omna inndei sungah a lut khit-te ciangin kumpipa kiangah tua thu khempeuh a gen-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -226,18 +226,18 @@
 ### v24
 **EN:** Yet they were not afraid, nor rent their garments, neither the king, nor any of his servants that heard all these words.
 
-**TDB77:** Ahih hangin kumpipa ahi zongin hih thute a za khin a nasemte khat beek ahi zongin lau tuan loin, kisikkik lo uh ahih manin a puan uh balkek lo uh hi.
+**TDB77:** Ahih hangin kumpipa ahi zongin hih thute a za khin a nasemte khat beek ahi zongin lau tuan loin, kisikkik lo-te ahih manin a puan-te balkek lo-te hi.
 
-**ZVS:** Ahih hangin kumpipa ahi a, hih thute a za khin a nasemte khat beek ahi zongin lau tuanloin, kisik kiklo uh ahih manin a puan uh a balkek kei uh hi.
+**ZVS:** Ahih hangin kumpipa ahi a, hih thute a za khin a nasemte khat beek ahi zongin lau tuanloin, kisik kiklo-te ahih manin a puan-te a balkek kei-te hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** Nevertheless Elnathan and Delaiah and Gemariah had made intercession to the king that he would not burn the roll: but he would not hear them.
 
-**TDB77:** Elnathan leh Delaiah leh Gemariah te in kumpipa’ kiangah laizial a hal loh nading a khoh uh hangin amah in a mang kei hi.
+**TDB77:** Elnathan leh Delaiah leh Gemariah te in kumpipa’ kiangah laizial a hal loh nading a khoh-te hangin amah in a mang kei hi.
 
-**ZVS:** Elnathan, Delaiah, leh Gemariah in kumpipa in laizial a hallohna ding a khoh uh hangin amah in a mang kei hi.
+**ZVS:** Elnathan, Delaiah, leh Gemariah in kumpipa in laizial a hallohna ding a khoh-te hangin amah in a mang kei hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
@@ -285,9 +285,9 @@
 ### v31
 **EN:** And I will punish him and his seed and his servants for their iniquity; and I will bring upon them, and upon the inhabitants of Jerusalem, and upon the men of Judah, all the evil that I have pronounced against them; but they hearkened not.
 
-**TDB77:** Amah leh a suan a khakte leh a nasemte a mawhna uh hangin ka daantat ding a, amau’ tung leh Jerusalem khua-a teengte’ tunga kipan Judah mite’ tungah tun’sak dinga ka gensa gimna khempeuh ka tungsak ding hi. Bang hang hiam cih leh amaute in ka thu hong ngai lo uh hi,’ ci-in va gen in,” ci-in Jeremiah a sawl hi.
+**TDB77:** Amah leh a suan a khakte leh a nasemte a mawhna-te hangin ka daantat ding a, amau’ tung leh Jerusalem khua-a teengte’ tunga kipan Judah mite’ tungah tun’sak dinga ka gensa gimna khempeuh ka tungsak ding hi. Bang hang hiam cih leh amaute in ka thu hong ngai lo-te hi,’ ci-in va gen in,” ci-in Jeremiah a sawl hi.
 
-**ZVS:** Amah leh a suanlekhakte leh a nasemte a mawhna uh hangin gim ka pia ding a, ama tung leh Jerusalem khua-a tengte tunga kipan Judah mite' tungah amau' tungah tun'sak dingin ka gensa gimna khempeuh ka tungsak ding hi. Bang hang hiam cih leh amaute in ka thu hong ngailo uh hi,’ ci-in va gen in,” ci-in kei a hong sawl hi.
+**ZVS:** Amah leh a suanlekhakte leh a nasemte a mawhna-te hangin gim ka pia ding a, ama tung leh Jerusalem khua-a tengte tunga kipan Judah mite' tungah amau' tungah tun'sak dingin ka gensa gimna khempeuh ka tungsak ding hi. Bang hang hiam cih leh amaute in ka thu hong ngailo-te hi,’ ci-in va gen in,” ci-in kei a hong sawl hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

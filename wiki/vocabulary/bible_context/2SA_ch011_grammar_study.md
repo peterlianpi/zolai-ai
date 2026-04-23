@@ -28,9 +28,9 @@
 ### v1
 **EN:** And it came to pass, after the year was expired, at the time when kings go forth to battle, that David sent Joab, and his servants with him, and all Israel; and they destroyed the children of Ammon, and besieged Rabbah. But David tarried still at Jerusalem.
 
-**TDB77:** Galdo dingin kumpite a kuankhiat hun tua kum phalbi sungin David in Joab, leh amah tawh a om a nasemte, leh Israelte khempeuh sawl hi; amaute in Ammon mite sugawpin Rabbah umcih uh hi. Ahih hangin David Jerusalem ah om hi.
+**TDB77:** Galdo dingin kumpite a kuankhiat hun tua kum phalbi sungin David in Joab, leh amah tawh a om a nasemte, leh Israelte khempeuh sawl hi; amaute in Ammon mite sugawpin Rabbah umcih-te hi. Ahih hangin David Jerusalem ah om hi.
 
-**ZVS:** Galdo dingin kumpite a kuankhiat hun tua kum phalbi sungin David in Joab, leh amah tawh a om a nasemte, leh Israel-te khempeuh sawl a, amaute in Ammon mite sugawpin Rabbah khua umcih uh hi. Ahih hangin David Jerusalem-ah om hi.
+**ZVS:** Galdo dingin kumpite a kuankhiat hun tua kum phalbi sungin David in Joab, leh amah tawh a om a nasemte, leh Israel-te khempeuh sawl a, amaute in Ammon mite sugawpin Rabbah khua umcih-te hi. Ahih hangin David Jerusalem-ah om hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -80,9 +80,9 @@
 ### v7
 **EN:** And when Uriah was come unto him, David demanded of him how Joab did, and how the people did, and how the war prospered.
 
-**TDB77:** Ama kiangah Uriah a tun’ ciangin David in Joab bangci om a, mite bangci uh a, gal dona bangci mavan’ hiam cih dong hi.
+**TDB77:** Ama kiangah Uriah a tun’ ciangin David in Joab bangci om a, mite bangci-te a, gal dona bangci mavan’ hiam cih dong hi.
 
-**ZVS:** Ama kiangah Uriah a tun' ciangin David in Joab bangci om a, mite bangci uh a, galdona bangci mavan' hiam cih dong hi.
+**ZVS:** Ama kiangah Uriah a tun' ciangin David in Joab bangci om a, mite bangci-te a, galdona bangci mavan' hiam cih dong hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -107,18 +107,18 @@
 ### v10
 **EN:** And when they had told David, saying, Uriah went not down unto his house, David said unto Uriah, Camest thou not from thy journey? why then didst thou not go down unto thine house?
 
-**TDB77:** “Uriah a inn-ah ciah suk lo hi,” ci-in amaute in David kiangah a gen uh ciangin David in Uriah kiangah, “Khualzin-a hong tung hilo na hi hiam? Bang hangin na inn-ah ciahsuk lo na hi hiam?” a ci hi.
+**TDB77:** “Uriah a inn-ah ciah suk lo hi,” ci-in amaute in David kiangah a gen-te ciangin David in Uriah kiangah, “Khualzin-a hong tung hilo na hi hiam? Bang hangin na inn-ah ciahsuk lo na hi hiam?” a ci hi.
 
-**ZVS:** “Uriah a inn-ah ciahsuk lo hi,” ci-in amaute in David kiangah a gen uh ciangin David in Uriah kiangah, “Khualzin-a hong tung hilo na hi hiam? Bang hangin na inn-ah ciahsuk lo na hi hiam?” a ci hi.
+**ZVS:** “Uriah a inn-ah ciahsuk lo hi,” ci-in amaute in David kiangah a gen-te ciangin David in Uriah kiangah, “Khualzin-a hong tung hilo na hi hiam? Bang hangin na inn-ah ciahsuk lo na hi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix
 
 ### v11
 **EN:** And Uriah said unto David, The ark, and Israel, and Judah, abide in tents; and my lord Joab, and the servants of my lord, are encamped in the open fields; shall I then go into mine house, to eat and to drink, and to lie with my wife? as thou livest, and as thy soul liveth, I will not do this thing.
 
-**TDB77:** Uriah in David kiangah, “Thuciamna singkuang leh Israel leh Judah buk sungah om uh hi; ka topa Joab leh ka topa’ nasemte gam lakah giak uh hi; keimah in an ne tui dawn ding leh ka zi tawh a lum dingin ka inn-ah ciahsuk ding ka hi hiam? Nangmah hingin, na nuntakna a hin’ mah bangin, hih bang ka gamta kei ding hi,” a ci hi.
+**TDB77:** Uriah in David kiangah, “Thuciamna singkuang leh Israel leh Judah buk sungah om-te hi; ka topa Joab leh ka topa’ nasemte gam lakah giak-te hi; keimah in an ne tui dawn ding leh ka zi tawh a lum dingin ka inn-ah ciahsuk ding ka hi hiam? Nangmah hingin, na nuntakna a hin’ mah bangin, hih bang ka gamta kei ding hi,” a ci hi.
 
-**ZVS:** Uriah in David kiangah, “Thuciamna Singkuang, Israel-te, leh Judah mite gal sungah om uh a, ka topa Joab leh ka topa' nasemte gamlakah giak uh hi. Tua ahih manin anne tuidawn ding leh ka zi tawh a lum dingin ka inn-ah ciahsuk ding ka hi hiam? Nangmah na hin' mah bangin, hih bang ka gamta het kei ding hi,” a ci hi.
+**ZVS:** Uriah in David kiangah, “Thuciamna Singkuang, Israel-te, leh Judah mite gal sungah om-te a, ka topa Joab leh ka topa' nasemte gamlakah giak-te hi. Tua ahih manin anne tuidawn ding leh ka zi tawh a lum dingin ka inn-ah ciahsuk ding ka hi hiam? Nangmah na hin' mah bangin, hih bang ka gamta het kei ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -168,9 +168,9 @@
 ### v17
 **EN:** And the men of the city went out, and fought with Joab: and there fell some of the people of the servants of David; and Uriah the Hittite died also.
 
-**TDB77:** Khuapi mite hong kuan khia-in Joab tawh kido uh hi; mite lakah David’ nasemte pawlkhat puk hi. Hit mi Uriah zong kithat hi.
+**TDB77:** Khuapi mite hong kuan khia-in Joab tawh kido-te hi; mite lakah David’ nasemte pawlkhat puk hi. Hit mi Uriah zong kithat hi.
 
-**ZVS:** Khuapi mite hong kuankhia-in Joab tawh kido uh hi. Mite' lakah David' nasemte pawlkhat si hi. Hit mi Uriah zong kithat hi.
+**ZVS:** Khuapi mite hong kuankhia-in Joab tawh kido-te hi. Mite' lakah David' nasemte pawlkhat si hi. Hit mi Uriah zong kithat hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -195,9 +195,9 @@
 ### v20
 **EN:** And if so be that the king's wrath arise, and he say unto thee, Wherefore approached ye so nigh unto the city when ye did fight? knew ye not that they would shoot from the wall?
 
-**TDB77:** kumpipa a heh suakin amah in nangma kiangah, ‘A sim dingin khuapi-ah tua zahin a nai-in pai na hi uh hiam? Kulh tung panin hong kap ding uh thei lo na hi uh hiam?
+**TDB77:** kumpipa a heh suakin amah in nangma kiangah, ‘A sim dingin khuapi-ah tua zahin a nai-in pai na hi-te hiam? Kulh tung panin hong kap ding-te thei lo na hi-te hiam?
 
-**ZVS:** kumpipa a heh suakin amah in nangma kiangah, ‘A sim dingin khuapi-ah tua zahin a nai-in pai na hi uh hiam? Kulh tung panin hong kap ding uh theilo na hi uh hiam?
+**ZVS:** kumpipa a heh suakin amah in nangma kiangah, ‘A sim dingin khuapi-ah tua zahin a nai-in pai na hi-te hiam? Kulh tung panin hong kap ding-te theilo na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -206,7 +206,7 @@
 
 **TDB77:** Jerubbesheth’ tapa Abimelek kua in that hiam? Numei khat in angawina suangpeek tungnung kulh tung pan ama tungah khiat sukin Thebez-ah amah si hilo ahi hiam? Bang hangin tua zahin kulh nai-ah pai na hi hiam?’ hong cih leh, nangmah in, ‘Hit mi na nasempa Uriah zong si hi,’ na ci ding hi,” a ci hi.
 
-**ZVS:** Jerubbesheth' tapa Ahimelek kua in that hiam? Numei khat in angawina suangpeek tungnung kulh tung pan ama tungah khiatsukin Thebez-ah amah si hilo ahi hiam? Bang hangin tua zahin kulh nai-ah pai na hi uh hiam?’ hong cih leh nangmah in, ‘Hit mi na nasempa Uriah zong si hi,’ na ci ding hi,” a ci hi.
+**ZVS:** Jerubbesheth' tapa Ahimelek kua in that hiam? Numei khat in angawina suangpeek tungnung kulh tung pan ama tungah khiatsukin Thebez-ah amah si hilo ahi hiam? Bang hangin tua zahin kulh nai-ah pai na hi-te hiam?’ hong cih leh nangmah in, ‘Hit mi na nasempa Uriah zong si hi,’ na ci ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will
 
@@ -222,18 +222,18 @@
 ### v23
 **EN:** And the messenger said unto David, Surely the men prevailed against us, and came out unto us into the field, and we were upon them even unto the entering of the gate.
 
-**TDB77:** Kamtaipa in David kiangah, “Mite in kote hong zo thawhin gam lakah kote do dingin hong kuankhia uh hi; ahih hangin kote in kulh kongpi lutna dongah amaute ka not kik uh hi.
+**TDB77:** Kamtaipa in David kiangah, “Mite in kote hong zo thawhin gam lakah kote do dingin hong kuankhia-te hi; ahih hangin kote in kulh kongpi lutna dongah amaute ka not kik-te hi.
 
-**ZVS:** Kamtaipa in David kiangah, “Mite in kote hong zothawhin gamlakah kote a do dingin hong kuankhia uh hi. Ahih hangin kote in kulhkongpi lutna dongah amaute ka notkik uh hi.
+**ZVS:** Kamtaipa in David kiangah, “Mite in kote hong zothawhin gamlakah kote a do dingin hong kuankhia-te hi. Ahih hangin kote in kulhkongpi lutna dongah amaute ka notkik-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And the shooters shot from off the wall upon thy servants; and some of the king's servants be dead, and thy servant Uriah the Hittite is dead also.
 
-**TDB77:** Tua ciangin thal tawite in kulh tung panin na nasemte kap uh hi; kumpipa’ nasem pawlkhat si hi; Hit mi na nasempa Uriah zong si hi,” a ci hi.
+**TDB77:** Tua ciangin thal tawite in kulh tung panin na nasemte kap-te hi; kumpipa’ nasem pawlkhat si hi; Hit mi na nasempa Uriah zong si hi,” a ci hi.
 
-**ZVS:** Tua ciangin thaltawite in kulh tung panin na nasemte hong kap uh a, kumpipa' nasem pawlkhat si hi. Hit mi na nasempa Uriah zong si hi,” a ci hi.
+**ZVS:** Tua ciangin thaltawite in kulh tung panin na nasemte hong kap-te a, kumpipa' nasem pawlkhat si hi. Hit mi na nasempa Uriah zong si hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 

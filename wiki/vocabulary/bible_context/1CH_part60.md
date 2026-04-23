@@ -56,7 +56,7 @@
 
 ### neihsa = substance/possessions/property
 **Context:** Refers to the king's assets managed by these officials.
-**Example:** David' neihsa a kemte ahi uh hi.
+**Example:** David' neihsa a kemte ahi-te hi.
 
 ### pano = uncle (paternal)
 **Context:** Describing Jonathan's relationship to David.
@@ -82,9 +82,9 @@
 **Context:** Marks the succession after Ahithophel's death.
 **Example:** Ahithofel a sih ciangin...
 
-### laih uh hi = they succeeded/took over
+### laih-te hi = they succeeded/took over
 **Context:** The action taken by Jehoiada and Abiathar after Ahithophel's death.
-**Example:** Jehoiada leh Abiathar in laih uh hi.
+**Example:** Jehoiada leh Abiathar in laih-te hi.
 
 ### galkapte = army/forces (plural)
 **Context:** The military unit Joab commanded.
@@ -192,7 +192,7 @@
 
 ### gamh-in na nusiat = leave behind as an inheritance
 **Context:** The action regarding the land for future generations.
-**Example:** note khit na tate uh tungah gamh-in na nusiat tawntung theih nadingun...
+**Example:** note khit na tate-te tungah gamh-in na nusiat tawntung theih nadingun...
 
 ### kikopna = congregation/assembly
 **Context:** Referring to the assembly of Israel before God.
@@ -240,4 +240,4 @@
 
 - **Note in [Condition] theih nadingun [Action] zui-in zong un.**
   - A concluding exhortation structure: 'So that you may [Goal], follow [Commandments] and seek [God]'.
-  - Example: note khit na tate uh tungah gamh-in na nusiat tawntung theih nadingun... zui-in zong un.
+  - Example: note khit na tate-te tungah gamh-in na nusiat tawntung theih nadingun... zui-in zong un.

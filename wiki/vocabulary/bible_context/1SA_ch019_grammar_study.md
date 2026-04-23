@@ -89,9 +89,9 @@
 ### v8
 **EN:** And there was war again: and David went out, and fought with the Philistines, and slew them with a great slaughter; and they fled from him.
 
-**TDB77:** Tua ciangin gal hong omkik hi; David kuankhia-in Filistiate tawh kido a, amaute tampi tak that a, ama mai-ah amaute tai uh hi.
+**TDB77:** Tua ciangin gal hong omkik hi; David kuankhia-in Filistiate tawh kido a, amaute tampi tak that a, ama mai-ah amaute tai-te hi.
 
-**ZVS:** Tua ciangin gal hong omkik hi. David kuankhia-in Filistia-te tawh kido a, amaute tampi tak that a, ama mai-ah amaute a tai uh hi.
+**ZVS:** Tua ciangin gal hong omkik hi. David kuankhia-in Filistia-te tawh kido a, amaute tampi tak that a, ama mai-ah amaute a tai-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -173,9 +173,9 @@
 ### v18
 **EN:** So David fled, and escaped, and came to Samuel to Ramah, and told him all that Saul had done to him. And he and Samuel went and dwelt in Naioth.
 
-**TDB77:** Tu-in David tai-in suakta a, Ramah ah Samuel kiangah pai-in, ama tungah Saul’ hihna teng gen hi. Tua ciangin amah leh Samuel pai-in Naioth-ah om uh hi.
+**TDB77:** Tu-in David tai-in suakta a, Ramah ah Samuel kiangah pai-in, ama tungah Saul’ hihna teng gen hi. Tua ciangin amah leh Samuel pai-in Naioth-ah om-te hi.
 
-**ZVS:** Tu-in David tai-in suakta a, Ramah-ah Samuel kiangah pai-in, ama tungah Saul' hihna teng a gen hi. Tua ciangin amah leh Samuel pai-in Naioth-ah om uh hi.
+**ZVS:** Tu-in David tai-in suakta a, Ramah-ah Samuel kiangah pai-in, ama tungah Saul' hihna teng a gen hi. Tua ciangin amah leh Samuel pai-in Naioth-ah om-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -191,27 +191,27 @@
 ### v20
 **EN:** And Saul sent messengers to take David: and when they saw the company of the prophets prophesying, and Samuel standing as appointed over them, the Spirit of God was upon the messengers of Saul, and they also prophesied.
 
-**TDB77:** Tua ciangin David a man dingin Saul in mi sawl hi; amaute in kamsang honte mailam thu genin omin amaute a makai-in Samuel a ding a muh uh ciangin, Saul’ sawltakte tungah Pasian’ kha hong tung a, amaute in zong mailam thu gen uh hi.
+**TDB77:** Tua ciangin David a man dingin Saul in mi sawl hi; amaute in kamsang honte mailam thu genin omin amaute a makai-in Samuel a ding a muh-te ciangin, Saul’ sawltakte tungah Pasian’ kha hong tung a, amaute in zong mailam thu gen-te hi.
 
-**ZVS:** Tua ciangin David a man dingin Saul in mi sawl hi. Amaute in kamsang honte laamin awngin omin, amaute a makai-in Samuel a ding a muh uh ciangin, Saul' sawltakte tungah Pasian' kha hong tung a, amaute zong laamin a awng uh hi.
+**ZVS:** Tua ciangin David a man dingin Saul in mi sawl hi. Amaute in kamsang honte laamin awngin omin, amaute a makai-in Samuel a ding a muh-te ciangin, Saul' sawltakte tungah Pasian' kha hong tung a, amaute zong laamin a awng-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v21
 **EN:** And when it was told Saul, he sent other messengers, and they prophesied likewise. And Saul sent messengers again the third time, and they prophesied also.
 
-**TDB77:** Hih thu Saul kiangah a kigen ciangin, amah in midang sawl leuleu a, amaute in zong mailam thu mah genin om uh hi. Tua ciangin Saul in mi a thumveina sawl a, amaute in zong mailam thu genin om veve uh hi.
+**TDB77:** Hih thu Saul kiangah a kigen ciangin, amah in midang sawl leuleu a, amaute in zong mailam thu mah genin om-te hi. Tua ciangin Saul in mi a thumveina sawl a, amaute in zong mailam thu genin om veve-te hi.
 
-**ZVS:** Hih thu Saul kiangah a kigen ciangin, amah in midang sawl leuleu a, amaute zong laamin awng leuleu uh hi. Tua ciangin Saul in mi a thum veina sawl a, amaute zong tua bangmah hi veve uh hi.
+**ZVS:** Hih thu Saul kiangah a kigen ciangin, amah in midang sawl leuleu a, amaute zong laamin awng leuleu-te hi. Tua ciangin Saul in mi a thum veina sawl a, amaute zong tua bangmah hi veve-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** Then went he also to Ramah, and came to a great well that is in Sechu: and he asked and said, Where are Samuel and David? And one said, Behold, they be at Naioth in Ramah.
 
-**TDB77:** Tua ciangin amahmah Rammah ah pai a, Seku-a om tuikhuk lianpi tung hi; amah in, “Samuel leh David koi-ah om ahi hiam?” ci-in dong hi. Mi khat in, “En in, Ramah khua sung Naioth veengah om uh hi,” a ci hi.
+**TDB77:** Tua ciangin amahmah Rammah ah pai a, Seku-a om tuikhuk lianpi tung hi; amah in, “Samuel leh David koi-ah om ahi hiam?” ci-in dong hi. Mi khat in, “En in, Ramah khua sung Naioth veengah om-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin amahmah Ramah-ah pai a, Seku-a om tuikhuk lianpi tung hi. Amah in, “Samuel leh David koi-ah om ahi hiam?” ci-in a dong hi. Mi khat in, “En in, Ramah khuasung Naioth vengah om uh hi,” a ci hi.
+**ZVS:** Tua ciangin amahmah Ramah-ah pai a, Seku-a om tuikhuk lianpi tung hi. Amah in, “Samuel leh David koi-ah om ahi hiam?” ci-in a dong hi. Mi khat in, “En in, Ramah khuasung Naioth vengah om-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

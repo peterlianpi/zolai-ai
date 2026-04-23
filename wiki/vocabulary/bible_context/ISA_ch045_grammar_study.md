@@ -129,9 +129,9 @@
 ### v14
 **EN:** Thus saith the
 
-**TDB77:** Topa in hih bangin ci hi: “Izipt pan a piangte leh Ethiopia sumbuk vante leh a tun a sang Seba mite nangma kiangah hong pai-in nangma aa hi ding uh a, amaute in nang hong zui ding uh hi; amaute sikkhau kibulh-in hong pai-in nangma kiangah hong kun ding uh hi. Amaute in nangma kiangah thuum ding uh a, ‘Nangmah bek tawh Pasian omkhawm a, kuamah dang om loin, amah sim loh pasian dang om lo hi,’ hong ci ding uh hi.”
+**TDB77:** Topa in hih bangin ci hi: “Izipt pan a piangte leh Ethiopia sumbuk vante leh a tun a sang Seba mite nangma kiangah hong pai-in nangma aa hi ding-te a, amaute in nang hong zui ding-te hi; amaute sikkhau kibulh-in hong pai-in nangma kiangah hong kun ding-te hi. Amaute in nangma kiangah thuum ding-te a, ‘Nangmah bek tawh Pasian omkhawm a, kuamah dang om loin, amah sim loh pasian dang om lo hi,’ hong ci ding-te hi.”
 
-**ZVS:** { Topa } in Israel tungah, “Egypt' hauhna leh Ethiopia sumbuk vante leh a tun a sang Seba mite nangma kiangah hong pai-in nangma-a' hong hi ding uh a, amaute in nang hong zui ding uh hi. Amaute sikkhau kibulhsa-in hong pai ding uh a, nangma kiangah hong kun ding uh hi. Amaute in nangma kiangah thumna hong bawl ding uh a, ‘Nangmah bek tawh Pasian omkhawm a, kuamah dang omloin, amah simloh pasian dang omlo hi,’ hong ci ding uh hi.
+**ZVS:** { Topa } in Israel tungah, “Egypt' hauhna leh Ethiopia sumbuk vante leh a tun a sang Seba mite nangma kiangah hong pai-in nangma-a' hong hi ding-te a, amaute in nang hong zui ding-te hi. Amaute sikkhau kibulhsa-in hong pai ding-te a, nangma kiangah hong kun ding-te hi. Amaute in nangma kiangah thumna hong bawl ding-te a, ‘Nangmah bek tawh Pasian omkhawm a, kuamah dang omloin, amah simloh pasian dang omlo hi,’ hong ci ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -145,9 +145,9 @@
 ### v16
 **EN:** They shall be ashamed, and also confounded, all of them: they shall go to confusion together that are makers of idols.
 
-**TDB77:** Milim a bawl amaute khempeuh in maizumna thuakin cih nading thei loin om ding uh hi.
+**TDB77:** Milim a bawl amaute khempeuh in maizumna thuakin cih nading thei loin om ding-te hi.
 
-**ZVS:** Milim a bawl mite khempeuh in maizumna thuakin cihna ding theiloin om ding uh hi.
+**ZVS:** Milim a bawl mite khempeuh in maizumna thuakin cihna ding theiloin om ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -156,7 +156,7 @@
 
 **TDB77:** Ahih hangin Israel pen Topa in tawntung hotkhiatna tawh honkhia hi; nang in cikmah hunin maizumna na thuak kei ding hi.
 
-**ZVS:** Ahih hangin { Topa } in Israel-te honkhia hi. A tawntungin gualzo ding uh a, cikmah hunin maizumna thuak ngeilo ding uh hi,” a ci hi.
+**ZVS:** Ahih hangin { Topa } in Israel-te honkhia hi. A tawntungin gualzo ding-te a, cikmah hunin maizumna thuak ngeilo ding-te hi,” a ci hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -181,18 +181,18 @@
 ### v20
 **EN:** Assemble yourselves and come; draw near together, ye that are escaped of the nations: they have no knowledge that set up the wood of their graven image, and pray unto a god that cannot save.
 
-**TDB77:** “Minam sung panin a suakta lai note aw, nomau kikaikhawmin hong pai un la, hong nai un! Amau’ sing milim a pua kawikawi mite in theihna nei lo uh a, a honkhia thei lo pasian tungah thu ngenngen uh hi.
+**TDB77:** “Minam sung panin a suakta lai note aw, nomau kikaikhawmin hong pai un la, hong nai un! Amau’ sing milim a pua kawikawi mite in theihna nei lo-te a, a honkhia thei lo pasian tungah thu ngenngen-te hi.
 
-**ZVS:** “Minamte sung panin a suaktalai note aw, nomau kikaikhawmin hong pai un la, hong nai un! Sing milim a pua kawikawi mite in theihna neilo uh a, a honkhia theilo pasian tungah thu ngenngen uh hi.
+**ZVS:** “Minamte sung panin a suaktalai note aw, nomau kikaikhawmin hong pai un la, hong nai un! Sing milim a pua kawikawi mite in theihna neilo-te a, a honkhia theilo pasian tungah thu ngenngen-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** Tell ye, and bring them near; yea, let them take counsel together: who hath declared this from ancient time? who hath told it from that time? have not I the
 
-**TDB77:** Na thu uh sung un la, gen un; amaute kikum khawmsak un! Hih thu sawt pekin kua in genkhol ahi hiam? Tang lai-in kua in pulak ahi hiam? Keimah Topa hilo ka hi hiam? Thuman Pasian leh Honpa ahi, kei sim loh Pasian dang om lo hi; kei sim loh kuamah dang om lo hi.
+**TDB77:** Na thu-te sung un la, gen un; amaute kikum khawmsak un! Hih thu sawt pekin kua in genkhol ahi hiam? Tang lai-in kua in pulak ahi hiam? Keimah Topa hilo ka hi hiam? Thuman Pasian leh Honpa ahi, kei sim loh Pasian dang om lo hi; kei sim loh kuamah dang om lo hi.
 
-**ZVS:** Na thu uh sung un la, hong gen un. Na thu uh kikum khawm un! Hih thu sawtpekin kua in gen ahi hiam? Tanglai-in kua in pulak ahi hiam? Keimah { Topa } hilo ka hi hiam? Thuman Pasian leh Honpa ahi, kei simloh pasian dang omlo a, kei simloh kuamah dang omlo hi.
+**ZVS:** Na thu-te sung un la, hong gen un. Na thu-te kikum khawm un! Hih thu sawtpekin kua in gen ahi hiam? Tanglai-in kua in pulak ahi hiam? Keimah { Topa } hilo ka hi hiam? Thuman Pasian leh Honpa ahi, kei simloh pasian dang omlo a, kei simloh kuamah dang omlo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix
 
@@ -208,7 +208,7 @@
 ### v23
 **EN:** I have sworn by myself, the word is gone out of my mouth in righteousness, and shall not return, That unto me every knee shall bow, every tongue shall swear.
 
-**TDB77:** Keimahmah ka kiciam khin a, a kikhel kik nawn lo ding thu in, ‘Keima mai-ah mi khempeuh hong khukdin ding a, keima tungah thuman dingin hong kiciam ding uh hi,’ cihna, kei’ kam sung panin thumanna tawh pusuak khia khin zo hi.
+**TDB77:** Keimahmah ka kiciam khin a, a kikhel kik nawn lo ding thu in, ‘Keima mai-ah mi khempeuh hong khukdin ding a, keima tungah thuman dingin hong kiciam ding-te hi,’ cihna, kei’ kam sung panin thumanna tawh pusuak khia khin zo hi.
 
 **ZVS:** Keimahmah ka kiciam khin a, a kikhelkik ngei nawnlo ding thukip hih bang ahi hi: ‘Keima mai-ah mi khempeuh hong khukdin' ding a, keima tungah thuman ding hong kiciam ding hi,’ cihna, kei' kamsung panin thumanna tawh pusuakkhia khinzo hi.
 
@@ -217,18 +217,18 @@
 ### v24
 **EN:** Surely, shall one say, in the
 
-**TDB77:** “Topa’ hang bekin dikna leh thahatna kingah hi, hong kici ding hi; kei hong mudahte khempeuh mindai-in maizum ding uh hi.
+**TDB77:** “Topa’ hang bekin dikna leh thahatna kingah hi, hong kici ding hi; kei hong mudahte khempeuh mindai-in maizum ding-te hi.
 
-**ZVS:** { Topa}' hang bekin gualzawhna leh thahatna kingah hi, hong kici ding hi. Kei hong mudahte khempeuh mindai-in maizum ding uh hi.
+**ZVS:** { Topa}' hang bekin gualzawhna leh thahatna kingah hi, hong kici ding hi. Kei hong mudahte khempeuh mindai-in maizum ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** In the
 
-**TDB77:** Israel suan leh khakte khempeuh in Topa’ hangin midik tangin a kisial ding uh hi.”
+**TDB77:** Israel suan leh khakte khempeuh in Topa’ hangin midik tangin a kisial ding-te hi.”
 
-**ZVS:** Israel suanlekhakte khempeuh, { Topa}' hangin gualzo-in a kisial ding uh hi.
+**ZVS:** Israel suanlekhakte khempeuh, { Topa}' hangin gualzo-in a kisial ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

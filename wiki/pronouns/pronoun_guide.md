@@ -72,5 +72,5 @@ When a pronoun is the subject of a transitive verb (doing an action to an object
 1. **Never skip the agreement marker.** `Amah pai hi` is wrong; it must be `Amah a pai hi.`
 2. **Inclusive "We" Rule:** `i` never takes the plural suffix `uh`.
    - ✅ `I pai hi.`
-   - ❌ `I pai uh hi.`
+   - ❌ `I pai-te hi.`
 3. **Third Person "A":** Use `a` for both "he/she" and "it". Zolai does not distinguish gender in pronouns.

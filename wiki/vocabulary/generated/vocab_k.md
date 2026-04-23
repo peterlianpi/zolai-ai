@@ -185,12 +185,12 @@
 
 ### kai
 **[v]** drag
-**Meanings:** draw | horses | man | caiaphas | ram | lifted
+**Meanings:** draw | horses | man | caiaphas | gam | lifted
 **Variants:** sing kai, talkaih, kaai
 **Related:** khua, pai, sung, meiipi, mai
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Amaute in Zeisu a mat khit uh ciangin a kai uh hi.*
+> *Amaute in Zeisu a mat khit-te ciangin a kai-te hi.*
 > → And they laid their hands on him, and took him.
 > `MRK 14:46`
 
@@ -236,7 +236,7 @@
 **Related:** sila, haran, samin, dingkhia, pai
 **CEFR:** A1
 **Usage:** Attested 186× across 2 Bible books.
-> *tua gam a tung uh hi.*
+> *tua gam a tung-te hi.*
 
 ### kaikhawm
 **[n]** lord
@@ -245,7 +245,7 @@
 **Related:** israel, gam, note, kik, kong
 **CEFR:** A1
 **Usage:** Attested 6378× across 57 Bible books.
-> *khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol uh hi.*
+> *khuakhal sungin a nek ding uh, tuk sungin kaikhawm khol-te hi.*
 > → Provideth her meat in the summer, and gathereth her food in the harvest.
 > `PRO 6:8`
 
@@ -300,7 +300,7 @@
 **Related:** thau, nihte, cih, khop, pia
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *Amaute a kisian’suah khit uh nipi kal khat khit ciang bekin,*
+> *Amaute a kisian’suah khit-te nipi kal khat khit ciang bekin,*
 > → And after he is cleansed, they shall reckon unto him seven days.
 > `EZK 44:26`
 
@@ -364,7 +364,7 @@
 **Related:** thau, khop, nihte, lakkhiat, kal
 **CEFR:** A1
 **Usage:** Attested 560× across 2 Bible books.
-> *sintuamte pia ding uh hi.*
+> *sintuamte pia ding-te hi.*
 
 ### kalun
 **[n]** burnt
@@ -513,7 +513,7 @@
 **Meanings:** chariot | come | ben | hadad | did | came
 **CEFR:** A2
 **Usage:** Attested 155× across 2 Bible books.
-> *amah nungta lai hi,” a ci uh hi. Tua ciangin amah in*
+> *amah nungta lai hi,” a ci-te hi. Tua ciangin amah in*
 
 ### kaihna
 **[n]** acre
@@ -528,7 +528,7 @@
 **Related:** biakinn
 **CEFR:** A2
 **Usage:** Attested 345× across 6 Bible books.
-> *kholte in ne-in { Topa } na phat ding uh a,*
+> *kholte in ne-in { Topa } na phat ding-te a,*
 
 ### kaikhia
 **[v]** sag
@@ -603,7 +603,7 @@
 **Related:** heman, ethan
 **CEFR:** A2
 **Usage:** Attested 170× across 4 Bible books.
-> *a vekpi-in nga pha uh hi.*
+> *a vekpi-in nga pha-te hi.*
 
 ### kallai
 **[n]** amok
@@ -723,7 +723,7 @@
 **Related:** huh, hunin, nehthawh
 **CEFR:** A2
 **Usage:** Attested 55× across 5 Bible books.
-> *Amaute in ka kamsiat hunin kei hong nehthawh uh hangin*
+> *Amaute in ka kamsiat hunin kei hong nehthawh-te hangin*
 
 ### kamtaipa
 **[n]** messenger
@@ -1056,7 +1056,7 @@
 **Meanings:** imagine | reprove | words | speeches | one | desperate
 **CEFR:** B1
 **Usage:** Attested 50× across 2 Bible books.
-> *huih letmang cihmawh kamte thupi ngaihsut na hi uh hiam?*
+> *huih letmang cihmawh kamte thupi ngaihsut na hi-te hiam?*
 > `JOB 6:26`
 
 ### kamgingte
@@ -1079,7 +1079,7 @@
 **Meanings:** israel | mouth | before | turned | like | similitude
 **CEFR:** B1
 **Usage:** Attested 50× across 2 Bible books.
-> *a omloh ciangin cihna ding theiloin kamka lel uh hi.*
+> *a omloh ciangin cihna ding theiloin kamka lel-te hi.*
 
 ### kamkaihna
 **[]** jaws
@@ -1117,7 +1117,7 @@
 **Meanings:** lewdness | hath | thou | mine | house | seeing
 **CEFR:** B1
 **Usage:** Attested 160× across 2 Bible books.
-> *Ka itte in siatna a bawl khit uh ciangin ka*
+> *Ka itte in siatna a bawl khit-te ciangin ka*
 
 ### kamkhauh
 **[]** words
@@ -1170,7 +1170,7 @@
 **Related:** bek, lungsim, mahmah, bawl, kigamla
 **CEFR:** B1
 **Usage:** Attested 438× across 15 Bible books.
-> *Ahih hangin amaute in a kampi bek uh tawh amah phatkhem uh*
+> *Ahih hangin amaute in a kampi bek-te tawh amah phatkhem uh*
 
 ### kamsak
 **[v]** becalm
@@ -1197,7 +1197,7 @@
 **Meanings:** vomit | missing | fair | words | thou | christ
 **CEFR:** B1
 **Usage:** Attested 90× across 2 Bible books.
-> *Na neksa teng uh na luakhia kik ding uh*
+> *Na neksa teng-te na luakhia kik ding uh*
 
 ### kamsiamna
 **[n]** pathos
@@ -1254,7 +1254,7 @@
 **[]** saith
 **Meanings:** saith | man | thinkest | truth | jesus | decree
 **CEFR:** B2
-> *om misiangthote in hong hopih pha diak uh hi.*
+> *om misiangthote in hong hopih pha diak-te hi.*
 > `PHP 4:22`
 
 ### kaisaria
@@ -1301,14 +1301,14 @@
 **Related:** pia
 **CEFR:** B2
 **Usage:** Attested 240× across 4 Bible books.
-> *minam khempeuh in kei hong zahtak uh hi,” a ci hi.*
+> *minam khempeuh in kei hong zahtak-te hi,” a ci hi.*
 
 ### kamin
 **[n]** among
 **Meanings:** among | say | sat | skull | saith | christ
 **CEFR:** B2
 **Usage:** Attested 160× across 4 Bible books.
-> *Hebru kamin Armageddon a kici munah a kikhawmsak uh hi.*
+> *Hebru kamin Armageddon a kici munah a kikhawmsak-te hi.*
 > `REV 16:16`
 
 ### kamkhat
@@ -1378,7 +1378,7 @@
 **Meanings:** mildew | smote | blasting | hail | labours | your
 **CEFR:** B2
 **Usage:** Attested 70× across 2 Bible books.
-> *Na an ciin' khempeuh uh cingteek sakin ka kausansak*
+> *Na an ciin' khempeuh-te cingteek sakin ka kausansak*
 
 ### kawciik
 **[adj]** missing
@@ -1497,7 +1497,7 @@
 **Meanings:** another | children | tell | your | generation | let
 **CEFR:** B2
 **Usage:** Attested 70× across 2 Bible books.
-> *Hih thute khempeuh na tate uh kiangah gen un la*
+> *Hih thute khempeuh na tate-te kiangah gen un la*
 
 ### khanih
 **[]** months
@@ -1575,7 +1575,7 @@
 **[]** might
 **Meanings:** might | consulted | take | jesus | subtilty | kill
 **CEFR:** B2
-> *mat khit uh ciangin thatlum thei ding ci-in*
+> *mat khit-te ciangin thatlum thei ding ci-in*
 > `MAT 26:4`
 
 ## C1 Level (281 words)
@@ -1583,7 +1583,7 @@
 ### kahtokik
 **[]** missing
 **CEFR:** C1
-> *Mihing Tapa in ama omna ngeiah a kahtokik na muh uh ciangin*
+> *Mihing Tapa in ama omna ngeiah a kahtokik na muh-te ciangin*
 > `JHN 6:62`
 
 ### kaikik
@@ -1671,7 +1671,7 @@
 **Synonyms:** taizia
 **CEFR:** C1
 **Usage:** Attested 75× across 2 Bible books.
-> *siatlohna dingin haksapipi-in ka huzo uh hi.*
+> *siatlohna dingin haksapipi-in ka huzo-te hi.*
 
 ### kawivel
 **[]** round
@@ -1733,7 +1733,7 @@
 **Synonyms:** kongcing
 **CEFR:** C1
 **Usage:** Attested 215× across 6 Bible books.
-> *Gamdang mite in na tuuhonte uh hong kepsak ding*
+> *Gamdang mite in na tuuhonte-te hong kepsak ding*
 
 ### khaitoh
 **[]** jesus
@@ -1805,7 +1805,7 @@
 **[]** scourge
 **Meanings:** scourge | out | made | small | cords | drove
 **CEFR:** C1
-> *sikkhau tawh khih a thong khiatnate a thuak uh hi.*
+> *sikkhau tawh khih a thong khiatnate a thuak-te hi.*
 
 ### khawma
 **[]** standing
@@ -1874,7 +1874,7 @@
 **Related:** nei, khutzaw, kipanin, khempeuhah, pai
 **CEFR:** C1
 **Usage:** Attested 580× across 8 Bible books.
-> *pum langkhat si akipan cina tampite a lum uh hi.*
+> *pum langkhat si akipan cina tampite a lum-te hi.*
 > `JHN 5:3`
 
 ### khiahlna

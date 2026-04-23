@@ -70,9 +70,9 @@
 ### v6
 **EN:** Forasmuch as this people refuseth the waters of Shiloah that go softly, and rejoice in Rezin and Remaliah's son;
 
-**TDB77:** “Hih mite in, dam tak-a a luang didi Shiloah tuite nial uh a, Rezin leh Remaliah’ tapa’ mai-ah launa tawh liing liang uh ahih ciangin;
+**TDB77:** “Hih mite in, dam tak-a a luang didi Shiloah tuite nial-te a, Rezin leh Remaliah’ tapa’ mai-ah launa tawh liing liang-te ahih ciangin;
 
-**ZVS:** “Hih mite in damtakin a luang didi Shiloah tuite nial uh a, Rezin leh Remaliah' tapa' mai-ah launa tawh lingliang uh hi.
+**ZVS:** “Hih mite in damtakin a luang didi Shiloah tuite nial-te a, Rezin leh Remaliah' tapa' mai-ah launa tawh lingliang-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -97,18 +97,18 @@
 ### v9
 **EN:** Associate yourselves, O ye people, and ye shall be broken in pieces; and give ear, all ye of far countries: gird yourselves, and ye shall be broken in pieces; gird yourselves, and ye shall be broken in pieces.
 
-**TDB77:** No minam dangte aw, galsim dingin awng un, thei un la, kitamzan un; gamlapi-a om gamte khempeuh aw, ngai un; kigalging un, ahih hangin lungkiatna na thuak veve ding uh hi; kigalging un, ahih hangin lungkiatna na thuak veve ding uh hi.
+**TDB77:** No minam dangte aw, galsim dingin awng un, thei un la, kitamzan un; gamlapi-a om gamte khempeuh aw, ngai un; kigalging un, ahih hangin lungkiatna na thuak veve ding-te hi; kigalging un, ahih hangin lungkiatna na thuak veve ding-te hi.
 
-**ZVS:** No minam dangte aw, thei un la, lungkham un. Gamlapi-ah a om gamte khempeuh aw, ngai un. Kigalging un; ahih hangin lungkiatna na thuak veve ding uh hi.
+**ZVS:** No minam dangte aw, thei un la, lungkham un. Gamlapi-ah a om gamte khempeuh aw, ngai un. Kigalging un; ahih hangin lungkiatna na thuak veve ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Take counsel together, and it shall come to nought; speak the word, and it shall not stand: for God is with us.
 
-**TDB77:** Thu na vaihawm khawm uh hangin a mawkna suak ding hi; thu khat peuhpeuh na gen uh hangin kip lo ding hi; bang hang hiam cih leh kote tawh Pasian omkhawm hi.
+**TDB77:** Thu na vaihawm khawm-te hangin a mawkna suak ding hi; thu khat peuhpeuh na gen-te hangin kip lo ding hi; bang hang hiam cih leh kote tawh Pasian omkhawm hi.
 
-**ZVS:** Note kikhawmin thu na vaihawm uh hangin a mawkna suak ding a, thu khat peuhpeuh na gen uh hangin kiplo ding hi. Bang hang hiam cih leh kote tawh Pasian hong omkhawm hi.
+**ZVS:** Note kikhawmin thu na vaihawm-te hangin a mawkna suak ding a, thu khat peuhpeuh na gen-te hangin kiplo ding hi. Bang hang hiam cih leh kote tawh Pasian hong omkhawm hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -133,9 +133,9 @@
 ### v13
 **EN:** Sanctify the
 
-**TDB77:** Ahih hangin Vanglianpen Topa pen a siangtho-in na ngaihsun ding uh hi; amah note’ zahtak leh note’ launa na hi sak ding uh hi.
+**TDB77:** Ahih hangin Vanglianpen Topa pen a siangtho-in na ngaihsun ding-te hi; amah note’ zahtak leh note’ launa na hi sak ding-te hi.
 
-**ZVS:** Ahih hangin Vanglian { Topa } pen a siangtho-in na ngaihsun ding uh hi. Amah pen note' zahtakpa leh note' kihtakpa na hisak ding uh hi.
+**ZVS:** Ahih hangin Vanglian { Topa } pen a siangtho-in na ngaihsun ding-te hi. Amah pen note' zahtakpa leh note' kihtakpa na hisak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -151,9 +151,9 @@
 ### v15
 **EN:** And many among them shall stumble, and fall, and be broken, and be snared, and be taken.
 
-**TDB77:** Mi tampi tak tuk ding uh hi; amaute tukin kitamzan gawp ding uh hi; amaute awk-in kiman ding hi,” hong ci hi.
+**TDB77:** Mi tampi tak tuk ding-te hi; amaute tukin kitamzan gawp ding-te hi; amaute awk-in kiman ding hi,” hong ci hi.
 
-**ZVS:** Mi tampi tak tuk ding uh hi. Amaute tukin kitamzan gawp ding uh a, amaute awkin kiman ding hi,” hong ci hi.
+**ZVS:** Mi tampi tak tuk ding-te hi. Amaute tukin kitamzan gawp ding-te a, amaute awkin kiman ding hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -176,18 +176,18 @@
 ### v18
 **EN:** Behold, I and the children whom the
 
-**TDB77:** En un, Topa in kei hong piak ka tate leh keima pumpi pen, Zion Mual tunga a teeng Vanglianpen Topa’ tung panin Israel mite sungah lim leh kihilna ka hi uh hi.
+**TDB77:** En un, Topa in kei hong piak ka tate leh keima pumpi pen, Zion Mual tunga a teeng Vanglianpen Topa’ tung panin Israel mite sungah lim leh kihilna ka hi-te hi.
 
-**ZVS:** En un, { Topa } in kei hong piak ka tate leh keima pumpi pen Zion Mual tungah a teng Vanglian { Topa}' tung panin Israel mite' sungah lim leh kihilna ka hi uh hi.
+**ZVS:** En un, { Topa } in kei hong piak ka tate leh keima pumpi pen Zion Mual tungah a teng Vanglian { Topa}' tung panin Israel mite' sungah lim leh kihilna ka hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And when they shall say unto you, Seek unto them that have familiar spirits, and unto wizards that peep, and that mutter: should not a people seek unto their God? for the living to the dead?
 
-**TDB77:** Amaute in note kiangah, “Phun suau-suau-in a pau mualmual vankah theite leh aisan theite kiangah thu dong un. Mite in amaute’ pasian thu dongin, mihingte’ thu pen misite dot ding mah hilo ahi hiam?” hong ci ding uh hi.
+**TDB77:** Amaute in note kiangah, “Phun suau-suau-in a pau mualmual vankah theite leh aisan theite kiangah thu dong un. Mite in amaute’ pasian thu dongin, mihingte’ thu pen misite dot ding mah hilo ahi hiam?” hong ci ding-te hi.
 
-**ZVS:** Amaute in note kiangah, “Phun suausuau-in a pau mualmual vankah theite leh aisan theite kiangah thu dong un. Mite in amau' pasian-te thu dongin, mihingte' thu pen misite dot ding mah hilo ahi hiam?” hong ci ding uh hi.
+**ZVS:** Amaute in note kiangah, “Phun suausuau-in a pau mualmual vankah theite leh aisan theite kiangah thu dong un. Mite in amau' pasian-te thu dongin, mihingte' thu pen misite dot ding mah hilo ahi hiam?” hong ci ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -203,9 +203,9 @@
 ### v21
 **EN:** And they shall pass through it, hardly bestead and hungry: and it shall come to pass, that when they shall be hungry, they shall fret themselves, and curse their king and their God, and look upward.
 
-**TDB77:** Mite pen gam sungah vak kawikawi-in, nakpi takin lungkhamin gilkial ding uh hi; amaute a gil uh a kial ciangin lungham gawp ding uh a, a kumpipa uh leh a Pasian uh hamsiat-in van dak ding uh hi;
+**TDB77:** Mite pen gam sungah vak kawikawi-in, nakpi takin lungkhamin gilkial ding-te hi; amaute a gil-te a kial ciangin lungham gawp ding-te a, a kumpipa-te leh a Pasian-te hamsiat-in van dak ding-te hi;
 
-**ZVS:** Mite pen gamsungah vak kawikawi-in, nakpi takin lungkhamin gilkial ding uh hi. A gil uh a kial ciangin amaute lungham gawp ding uh a, a kumpipa uh leh a Pasian uh hamsiatin vandak ding uh hi.
+**ZVS:** Mite pen gamsungah vak kawikawi-in, nakpi takin lungkhamin gilkial ding-te hi. A gil-te a kial ciangin amaute lungham gawp ding-te a, a kumpipa-te leh a Pasian-te hamsiatin vandak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

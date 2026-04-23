@@ -53,9 +53,9 @@
 ### v4
 **EN:** And let the maiden which pleaseth the king be queen instead of Vashti. And the thing pleased the king; and he did so.
 
-**TDB77:** Tua sung panin kumpipa’deih pen nungak in Vashti’ tangin kumpinu suak hen,” a ci uh hi. Kumpipa in hih ngaihsutna hoih sa a, tua bangin gamta hi.
+**TDB77:** Tua sung panin kumpipa’deih pen nungak in Vashti’ tangin kumpinu suak hen,” a ci-te hi. Kumpipa in hih ngaihsutna hoih sa a, tua bangin gamta hi.
 
-**ZVS:** Tua sung panin kumpipa' deih bel nungak pen Vashti' tangin kumpinu suak hen,” a ci uh hi. Kumpipa in hih ngaihsutna hoihsa a, tua bangin a gamta hi.
+**ZVS:** Tua sung panin kumpipa' deih bel nungak pen Vashti' tangin kumpinu suak hen,” a ci-te hi. Kumpipa in hih ngaihsutna hoihsa a, tua bangin a gamta hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -125,18 +125,18 @@
 ### v12
 **EN:** Now when every maid's turn was come to go in to king Ahasuerus, after that she had been twelve months, according to the manner of the women, (for so were the days of their purifications accomplished, to wit, six months with oil of myrrh, and six months with sweet odours, and with other things for the purifying of the women;)
 
-**TDB77:** Numeite a kigin’ kholh hun a vekpi-in kha sawm-le-nih sung hi a, sathau leh mirrah paknamtui tawh kha guk sung kipuahin, paknamtui tuamtuamte leh kipuahna dangte tawh kha guk sung mah kipuah uh hi.
+**TDB77:** Numeite a kigin’ kholh hun a vekpi-in kha sawm-le-nih sung hi a, sathau leh mirrah paknamtui tawh kha guk sung kipuahin, paknamtui tuamtuamte leh kipuahna dangte tawh kha guk sung mah kipuah-te hi.
 
-**ZVS:** Numeite a kigin' hun a vekpi-in kha sawmlenih sung hi a, sathau leh myrrh paknamtui tawh kha guk sung kipuahin, paknamtui tuamtuamte leh kipuahna dangte tawh kha guk sung mah kipuah uh hi.
+**ZVS:** Numeite a kigin' hun a vekpi-in kha sawmlenih sung hi a, sathau leh myrrh paknamtui tawh kha guk sung kipuahin, paknamtui tuamtuamte leh kipuahna dangte tawh kha guk sung mah kipuah-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Then thus came every maiden unto the king; whatsoever she desired was given her to go with her out of the house of the women unto the king's house.
 
-**TDB77:** Kigin’ kholhna hun cing a, Kumpipa Ahasu-eras kiangah numeite a pai ciangin numeite’ omna panin kumpipa’ innah a deih peuhpeuh uh kikengsak hi.
+**TDB77:** Kigin’ kholhna hun cing a, Kumpipa Ahasu-eras kiangah numeite a pai ciangin numeite’ omna panin kumpipa’ innah a deih peuhpeuh-te kikengsak hi.
 
-**ZVS:** Kigin'kholhna hun cing a, Kumpipa Ahasueras' kiangah numeite a pai ciangin numeite' omna panin kumpipa' inn-ah a deih peuhpeuh uh kikengsak hi.
+**ZVS:** Kigin'kholhna hun cing a, Kumpipa Ahasueras' kiangah numeite a pai ciangin numeite' omna panin kumpipa' inn-ah a deih peuhpeuh-te kikengsak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -154,7 +154,7 @@
 
 **TDB77:** Mordekai in ama tanu dingin a lak a innlak pa Abihail’ tanu Esther pen kumpipa kiangah a pai ding hun a tun ciangin, numeite a uk kumpipa’ innsung mangpa Hegai’ gen teng lo buang bangmah dang gen lo hi. Tu-in Esther a mu mi peuhmah in hoih sa kim hi.
 
-**ZVS:** Mordekai in ama tanu dingin a lak a innlak pa Abihail' tanu Esther pen kumpipa kiangah a pai ding hun a tun' ciangin, numeite a uk kumpipa' innsungmangpa Hegai' gen teng lobuang kizepna ding puan dang bangmah ngenthuah lo hi. Tu-in Esther a mu mi peuhmah in hoihsa kim uh hi.
+**ZVS:** Mordekai in ama tanu dingin a lak a innlak pa Abihail' tanu Esther pen kumpipa kiangah a pai ding hun a tun' ciangin, numeite a uk kumpipa' innsungmangpa Hegai' gen teng lobuang kizepna ding puan dang bangmah ngenthuah lo hi. Tu-in Esther a mu mi peuhmah in hoihsa kim-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix
 
@@ -177,9 +177,9 @@
 ### v18
 **EN:** Then the king made a great feast unto all his princes and his servants, even Esther's feast; and he made a release to the provinces, and gave gifts, according to the state of the king.
 
-**TDB77:** Tua ciangin kumpipa in Esther pahtawina-in ama uliante leh a nasemte khempeuh’ adingin pawi lianpi khat bawl hi. Amah in ama ukna gam khempeuh ah tua ni nasep khawlin zum a khak nading uh zong thu zasak kim a, kumpipa’ min tawh a kilawm a kituak letsongte zong hawmkhia hi.
+**TDB77:** Tua ciangin kumpipa in Esther pahtawina-in ama uliante leh a nasemte khempeuh’ adingin pawi lianpi khat bawl hi. Amah in ama ukna gam khempeuh ah tua ni nasep khawlin zum a khak nading-te zong thu zasak kim a, kumpipa’ min tawh a kilawm a kituak letsongte zong hawmkhia hi.
 
-**ZVS:** Tua ciangin kumpipa in Esther pahtawina-in ama uliante leh a nasem khempeuh-a' dingin pawi lianpi khat a bawl hi. Amah in ama ukna gam khempeuhah tua ni nasep khawlin zum a khakna ding uh zong thu zasak kim a, kumpipa min tawh a kilawm a kituak letsongte zong a hawmkhia hi.
+**ZVS:** Tua ciangin kumpipa in Esther pahtawina-in ama uliante leh a nasem khempeuh-a' dingin pawi lianpi khat a bawl hi. Amah in ama ukna gam khempeuhah tua ni nasep khawlin zum a khakna ding-te zong thu zasak kim a, kumpipa min tawh a kilawm a kituak letsongte zong a hawmkhia hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -202,9 +202,9 @@
 ### v21
 **EN:** In those days, while Mordecai sat in the king's gate, two of the king's chamberlains, Bigthan and Teresh, of those which kept the door, were wroth, and sought to lay hand on the king Ahasuerus.
 
-**TDB77:** Ni khat, kongtualah Mordekai a om lai takin, kongcing ahi kumpipa’ innsung mangte Bigthana leh Teresh heh uh a, Kumpipa Ahasu-eras thah ding sawm uh hi.
+**TDB77:** Ni khat, kongtualah Mordekai a om lai takin, kongcing ahi kumpipa’ innsung mangte Bigthana leh Teresh heh-te a, Kumpipa Ahasu-eras thah ding sawm-te hi.
 
-**ZVS:** Ni khat, kumpi nasemin Mordekai a om hun sungin kongcing ahi kumpipa' innsungmangte Bigthana leh Teresh heh uh a, Kumpipa Ahasueras thah ding a sawm uh hi.
+**ZVS:** Ni khat, kumpi nasemin Mordekai a om hun sungin kongcing ahi kumpipa' innsungmangte Bigthana leh Teresh heh-te a, Kumpipa Ahasueras thah ding a sawm-te hi.
 
 **Grammar:** plural: uh marker
 

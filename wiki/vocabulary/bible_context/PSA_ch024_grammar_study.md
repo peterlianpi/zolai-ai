@@ -53,7 +53,7 @@
 
 **TDB77:** Amah in Topa tung panin thupha ngah ding a, amah a honkhia Pasian kiang panin diksakna ngah ding hi.
 
-**ZVS:** Tua bang mite in { Topa' } tung panin thupha ngah ding uh a, amaute a honkhia Pasian' kiang panin diksakna ngah ding uh hi.
+**ZVS:** Tua bang mite in { Topa' } tung panin thupha ngah ding-te a, amaute a honkhia Pasian' kiang panin diksakna ngah ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -67,7 +67,7 @@
 ### v7
 **EN:** Lift up your heads, O ye gates; and be ye lift up, ye everlasting doors; and the King of glory shall come in.
 
-**TDB77:** Minthang Kumpipa hong tum theih nadingin, khua kongpite aw, na lute uh sangsak un! Taanglai kong khakte aw, kilaamto un!
+**TDB77:** Minthang Kumpipa hong tum theih nadingin, khua kongpite aw, na lute-te sangsak un! Taanglai kong khakte aw, kilaamto un!
 
 **ZVS:** Minthang Kumpipa hong tumtheihna dingin, kulh kongpite lian hon' un la, tanglai kongkhakte gol hon' un.
 
@@ -83,7 +83,7 @@
 ### v9
 **EN:** Lift up your heads, O ye gates; even lift them up, ye everlasting doors; and the King of glory shall come in.
 
-**TDB77:** Mihing Kumpipa hong tum theih nadingin, khua kongpite aw, na lute uh sangsak un! Taanglai kong khakte aw, kilaamto un!
+**TDB77:** Mihing Kumpipa hong tum theih nadingin, khua kongpite aw, na lute-te sangsak un! Taanglai kong khakte aw, kilaamto un!
 
 **ZVS:** Minthang Kumpipa hong tumtheihna dingin, kulh kongpite lian hon' un la, tanglai kongkhakte gol hon' un.
 

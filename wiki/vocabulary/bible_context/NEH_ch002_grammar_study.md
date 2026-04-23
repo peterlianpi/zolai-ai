@@ -106,9 +106,9 @@
 ### v10
 **EN:** When Sanballat the Horonite, and Tobiah the servant, the Ammonite, heard of it, it grieved them exceedingly that there was come a man to seek the welfare of the children of Israel.
 
-**TDB77:** Ahih zongin Israel mite’ phattuam nading a sem dingin mi khat hong paina thu Horonaim khuami Sanballat leh Ammon mi sal ahi Tobiah in a zak uh ciangin nakpi takin lungkim lo uh hi.
+**TDB77:** Ahih zongin Israel mite’ phattuam nading a sem dingin mi khat hong paina thu Horonaim khuami Sanballat leh Ammon mi sal ahi Tobiah in a zak-te ciangin nakpi takin lungkim lo-te hi.
 
-**ZVS:** Ahi zongin Israel mite' phattuamna ding a sem dingin mi khat a paina thu Horonaim khuami Sanballat leh Ammon mi sal ahi Tobiah in a zak uh ciangin nakpi takin lungkimlo uh hi.
+**ZVS:** Ahi zongin Israel mite' phattuamna ding a sem dingin mi khat a paina thu Horonaim khuami Sanballat leh Ammon mi sal ahi Tobiah in a zak-te ciangin nakpi takin lungkimlo-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | plural: uh marker
 
@@ -156,45 +156,45 @@
 ### v16
 **EN:** And the rulers knew not whither I went, or what I did; neither had I as yet told it to the Jews, nor to the priests, nor to the nobles, nor to the rulers, nor to the rest that did the work.
 
-**TDB77:** Tua hi a, khua sung upate in ka paina mun ahi a, ka sep ahi zongin thei lo uh hi; bang hang hiam cih leh hih nasep tavuan a la ding Judah mite, siampite, uliante, khua sung upate, leh adangte tungah ka gen nai kei hi.
+**TDB77:** Tua hi a, khua sung upate in ka paina mun ahi a, ka sep ahi zongin thei lo-te hi; bang hang hiam cih leh hih nasep tavuan a la ding Judah mite, siampite, uliante, khua sung upate, leh adangte tungah ka gen nai kei hi.
 
-**ZVS:** Tua hi a, khuasung upate in ka paina mun ahi a, ka sep ahi zongin theilo uh hi; bang hang hiam cih leh hih nasep tavuan a la ding Judah mite, siampite, uliante, khuasung upate, leh a dangte tungah ka gen nai kei hi.
+**ZVS:** Tua hi a, khuasung upate in ka paina mun ahi a, ka sep ahi zongin theilo-te hi; bang hang hiam cih leh hih nasep tavuan a la ding Judah mite, siampite, uliante, khuasung upate, leh a dangte tungah ka gen nai kei hi.
 
 **Grammar:** negation: kei | negation: lo | plural: uh marker
 
 ### v17
 **EN:** Then said I unto them, Ye see the distress that we are in, how Jerusalem lieth waste, and the gates thereof are burned with fire: come, and let us build up the wall of Jerusalem, that we be no more a reproach.
 
-**TDB77:** Tua ciangin amaute kiangah, “I lungkhamna thu na thei uh hi. Jerusalem a siasa-in omin, a kongpite mei in kangtum hi. Hong pai un, zahkona i ngah nawn loh nadingin Jerusalem kulh ciang pha ni,” ka ci hi.
+**TDB77:** Tua ciangin amaute kiangah, “I lungkhamna thu na thei-te hi. Jerusalem a siasa-in omin, a kongpite mei in kangtum hi. Hong pai un, zahkona i ngah nawn loh nadingin Jerusalem kulh ciang pha ni,” ka ci hi.
 
-**ZVS:** Tua ciangin amaute kiangah, “I lungkhamna thu na thei uh hi. Jerusalem a siasa-in omin, a kongpite mei in kangtum hi. Hong pai un, zahkona i ngah nawnlohna dingin Jerusalem kulh ciangpha ni,” ka ci hi.
+**ZVS:** Tua ciangin amaute kiangah, “I lungkhamna thu na thei-te hi. Jerusalem a siasa-in omin, a kongpite mei in kangtum hi. Hong pai un, zahkona i ngah nawnlohna dingin Jerusalem kulh ciangpha ni,” ka ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Then I told them of the hand of my God which was good upon me; as also the king's words that he had spoken unto me. And they said, Let us rise up and build. So they strengthened their hands for this good work.
 
-**TDB77:** Tua ciangin a dik ka Pasian in kei hong ompihna leh kumpipa in kei tungah hong gen thute zong amaute tungah ka gen hi. Tua ciangin amaute in, “Tu-in nasep kipan ni,” hong ci uh hi. Tua ahih ciangin lawp mahmah leh ngimna hoih tawh nasep kipan uh hi.
+**TDB77:** Tua ciangin a dik ka Pasian in kei hong ompihna leh kumpipa in kei tungah hong gen thute zong amaute tungah ka gen hi. Tua ciangin amaute in, “Tu-in nasep kipan ni,” hong ci-te hi. Tua ahih ciangin lawp mahmah leh ngimna hoih tawh nasep kipan-te hi.
 
-**ZVS:** Tua ciangin a dik ka Pasian in kei hong ompihna leh kumpipa in kei tungah hong gen thute zong amaute tungah ka gen hi. Tua ciangin amaute in, “Tu-in nasep kipan pah ni,” hong ci uh hi. Tua ahih ciangin lawp mahmahna leh ngimna hoih tawh nasep a kipan uh hi.
+**ZVS:** Tua ciangin a dik ka Pasian in kei hong ompihna leh kumpipa in kei tungah hong gen thute zong amaute tungah ka gen hi. Tua ciangin amaute in, “Tu-in nasep kipan pah ni,” hong ci-te hi. Tua ahih ciangin lawp mahmahna leh ngimna hoih tawh nasep a kipan-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** But when Sanballat the Horonite, and Tobiah the servant, the Ammonite, and Geshem the Arabian, heard it, they laughed us to scorn, and despised us, and said, What is this thing that ye do? will ye rebel against the king?
 
-**TDB77:** Ahi zongin Horonaim khuami Sanballat leh Ammon mi sal ahi Tobiah leh Arab gam-a a sem Geshem in tua thu a zak uh ciangin, kote zahpihna leh simmawhna tawh, “Hih na sep uh bang ahi hiam? Kumpipa lehpan’ na hi uh hiam?” hong ci uh hi.
+**TDB77:** Ahi zongin Horonaim khuami Sanballat leh Ammon mi sal ahi Tobiah leh Arab gam-a a sem Geshem in tua thu a zak-te ciangin, kote zahpihna leh simmawhna tawh, “Hih na sep-te bang ahi hiam? Kumpipa lehpan’ na hi-te hiam?” hong ci-te hi.
 
-**ZVS:** Ahi zongin Horonaim khuami Sanballat, Ammon mi sal ahi Tobiah, leh Arab gammi ahi Geshem in tua thu a zak uh ciangin, kote zahpihna leh simmawhna tawh, “Hih na sep uh bang ahi hiam? Kumpipa lehpan' na hi uh hiam?” hong ci uh hi.
+**ZVS:** Ahi zongin Horonaim khuami Sanballat, Ammon mi sal ahi Tobiah, leh Arab gammi ahi Geshem in tua thu a zak-te ciangin, kote zahpihna leh simmawhna tawh, “Hih na sep-te bang ahi hiam? Kumpipa lehpan' na hi-te hiam?” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v20
 **EN:** Then answered I them, and said unto them, The God of heaven, he will prosper us; therefore we his servants will arise and build: but ye have no portion, nor right, nor memorial, in Jerusalem.
 
-**TDB77:** Tua ciangin amaute dawngin, “Vantung Pasian in ka ma uh hong telhsak ding a, ko ama nasemte in nasep a kipan ta ka hi uh hi; note in ahih leh Jerusalem tawh kisai-in na siksan ding uh ahi a, thu ahi zongin, bangmah kimematna na nei kei uh hi,” ka ci hi.
+**TDB77:** Tua ciangin amaute dawngin, “Vantung Pasian in ka ma-te hong telhsak ding a, ko ama nasemte in nasep a kipan ta ka hi-te hi; note in ahih leh Jerusalem tawh kisai-in na siksan ding-te ahi a, thu ahi zongin, bangmah kimematna na nei kei-te hi,” ka ci hi.
 
-**ZVS:** Tua ciangin amaute dawngin, “Vantung Pasian in ka ma uh hong telhsak ding a, ko ama nasemte in nasep a kipan ta ka hi uh hi; note in ahih leh Jerusalem tawh kisai-in thu na neih theihna dingun bangmah kimematna na nei kei uh hi,” ka ci hi.
+**ZVS:** Tua ciangin amaute dawngin, “Vantung Pasian in ka ma-te hong telhsak ding a, ko ama nasemte in nasep a kipan ta ka hi-te hi; note in ahih leh Jerusalem tawh kisai-in thu na neih theihna dingun bangmah kimematna na nei kei-te hi,” ka ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

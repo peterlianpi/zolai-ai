@@ -100,12 +100,12 @@ This is comparable to the Basque ZelaiHandi corpus that achieved +12 points impr
 
 | Prompt | Chosen (correct ZVS) | Rejected (wrong dialect) |
 |---|---|---|
-| "Translate: God loves us." | "Pasian in eite hong it hi." | "Pathian in eite hong it hi." |
-| "Translate: God is our Father" | "Pasian hi eite Pa a hi." | "Pathian hi eite Pa a hi." |
-| "What is the land called?" | "Gam hi..." | "Ram hi..." |
-| "He is our Lord" | "Topa a hi." | "Bawipa a hi." |
+| "Translate: God loves us." | "Pasian in eite hong it hi." | "pasian in eite hong it hi." |
+| "Translate: God is our Father" | "Pasian hi eite Pa a hi." | "pasian hi eite Pa a hi." |
+| "What is the land called?" | "Gam hi..." | "gam hi..." |
+| "He is our Lord" | "Topa a hi." | "topa a hi." |
 | "If you don't go..." | "Na pai kei a leh..." | "Na pai lo leh..." |
-| "We went." | "I pai hi." | "I pai uh hi." |
+| "We went." | "I pai hi." | "I pai-te hi." |
 
 **DPO dataset to build:** `data/training/dpo_pairs_v1.jsonl`
 - Source: `zo_en_pairs_combined_v1.jsonl` + ZVS grammar rules from `wiki/ggammar/`
@@ -117,7 +117,7 @@ This is comparable to the Basque ZelaiHandi corpus that achieved +12 points impr
 {
   "prompt": "Translate to Zolai: God is our Father.",
   "chosen": "Pasian hi eite Pa a hi.",
-  "rejected": "Pathian hi eite Pa a hi."
+  "rejected": "pasian hi eite Pa a hi."
 }
 ```
 

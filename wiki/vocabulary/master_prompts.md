@@ -151,7 +151,7 @@ Topics: greetings, numbers 1-100, family, food, body, time, verbs, adjectives
 
 ```
 Hih English sentence 20 te Zolai ah let in. ZVS standard zang in.
-Tua khit ciangin ZVS check zong bawl in (pathian→pasian, sanggin→sanginn, lo in conditionals).
+Tua khit ciangin ZVS check zong bawl in (pasian→pasian, sanggin→sanginn, lo in conditionals).
 
 Sentences:
 1. I am going to school tomorrow.
@@ -308,7 +308,7 @@ Rules:
 - SOV word order: Subject → Object → Verb
 - Use ka (my/I), na (your/you), a (his/her)
 - Statements end with "hi", questions with "hiam"
-- Use Tedim ZVS vocabulary only (pasian not pathian, gam not ram)
+- Use Tedim ZVS vocabulary only (pasian not pasian, gam not gam)
 
 Words:
 [PASTE LIST]

@@ -52,7 +52,7 @@
 **Related:** lam, tapate, mahli, tausang, galkhatah
 **CEFR:** A1
 **Usage:** Attested 328× across 6 Bible books.
-> *Mushi’ tapate in: Mahli, Eder, leh Jeremoth, thum pha uh hi.*
+> *Mushi’ tapate in: Mahli, Eder, leh Jeremoth, thum pha-te hi.*
 > → The sons of Mushi; Mahli, and Eder, and Jeremoth, three.
 > `1CH 23:23`
 
@@ -88,7 +88,7 @@
 **Related:** hanok, suanlekhakte, efer, eldaah, abida
 **CEFR:** A1
 **Usage:** Attested 425× across 6 Bible books.
-> *leh Sha-af ahi uh hi.*
+> *leh Sha-af ahi-te hi.*
 > `1CH 2:47`
 
 ### efer
@@ -358,7 +358,7 @@
 **Related:** tapa, tapate, sung, zekhariah, siampite
 **CEFR:** A1
 **Usage:** Attested 1232× across 12 Bible books.
-> *Moses’ tapate in: Gershom leh Eliezer ahi uh hi.*
+> *Moses’ tapate in: Gershom leh Eliezer ahi-te hi.*
 > → The sons of Moses were, Gershom, and Eliezer.
 > `1CH 23:15`
 
@@ -387,7 +387,7 @@
 **Related:** tapa, elifelet, efraim, eliada
 **CEFR:** A1
 **Usage:** Attested 730× across 10 Bible books.
-> *Elishama, Eliada, leh Elifelet, kua pha uh hi.*
+> *Elishama, Eliada, leh Elifelet, kua pha-te hi.*
 > → And Elishama, and Eliada, and Eliphelet, nine.
 
 ### elizafan
@@ -479,7 +479,7 @@
 **Synonyms:** soko, sokoh
 **CEFR:** A2
 **Usage:** Attested 125× across 2 Bible books.
-> *Sokoh leh Azekah kikal Efesdammim-ah giahphual sat uh hi.*
+> *Sokoh leh Azekah kikal Efesdammim-ah giahphual sat-te hi.*
 
 ### eflal
 **[n]** ephlal
@@ -546,11 +546,11 @@
 
 ### eker
 **[n]** jamin
-**Meanings:** jamin | jerahmeel | maaz | eker | sons | ram
+**Meanings:** jamin | jerahmeel | maaz | eker | sons | gam
 **CEFR:** A2
 **Usage:** Attested 55× across 2 Bible books.
-> *Jerahmeel' tacil Ram' tapate: Maaz, Jamin, leh Eker ahi uh hi.*
-> → And the sons of Ram the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.
+> *Jerahmeel' tacil gam' tapate: Maaz, Jamin, leh Eker ahi-te hi.*
+> → And the sons of gam the firstborn of Jerahmeel were, Maaz, and Jamin, and Eker.
 
 ### eklei
 **[n]** face
@@ -655,7 +655,7 @@
 **Related:** pai, samuel, gen, nong, ing
 **CEFR:** A2
 **Usage:** Attested 1770× across 4 Bible books.
-> *naupang Eli kiangah paipih uh hi.*
+> *naupang Eli kiangah paipih-te hi.*
 > `1SA 1:25`
 
 ### eliada
@@ -765,7 +765,7 @@
 **Related:** elishama, eliada, beh
 **CEFR:** A2
 **Usage:** Attested 375× across 6 Bible books.
-> *Elishama, Eliada, leh Elifelet, kua pha uh hi.*
+> *Elishama, Eliada, leh Elifelet, kua pha-te hi.*
 > → And Elishama, and Eliada, and Eliphelet, nine.
 
 ### elihoref
@@ -773,7 +773,7 @@
 **Meanings:** ahiah | elihoreph | sons | shisha | scribes | jehoshaphat
 **CEFR:** A2
 **Usage:** Attested 75× across 2 Bible books.
-> *Lai-at nasep: Shisha' tapa Elihoref leh Ahijah ahi uh hi.*
+> *Lai-at nasep: Shisha' tapa Elihoref leh Ahijah ahi-te hi.*
 
 ### elihu
 **[n]** elihu
@@ -792,7 +792,7 @@
 **Related:** pai, tung, kamsang, kong, jesuh
 **CEFR:** A2
 **Usage:** Attested 6090× across 24 Bible books.
-> *Ja-areshiah, Elijah, leh Zikri in Jehoham’ suante ahi uh hi.*
+> *Ja-areshiah, Elijah, leh Zikri in Jehoham’ suante ahi-te hi.*
 > → And Jaresiah, and Eliah, and Zichri, the sons of Jeroham.
 > `1CH 8:27`
 
@@ -981,13 +981,13 @@
 **[]** camels
 **Meanings:** camels | multitude | cover | dromedaries | midian | ephah
 **CEFR:** B1
-> *Jahdai fapa hna: Regem, Jotham, Geshan, Pelet, Ephah, le Shaaf.*
+> *Jahdai tapa hna: Regem, Jotham, Geshan, Pelet, Ephah, le Shaaf.*
 
 ### ephrathah
 **[]** wood
 **Meanings:** wood | found | fields | heard | ephratah
 **CEFR:** B1
-> *Jaar gam sungah ka mu uh hi; cihna thuthak Ephrathah-ah kiza hi.*
+> *Jaar gam sungah ka mu-te hi; cihna thuthak Ephrathah-ah kiza hi.*
 > `PSA 132:6`
 
 ### esther
@@ -1007,7 +1007,7 @@
 **Related:** genna, mu, tung, tel, kamsang
 **CEFR:** B1
 **Usage:** Attested 365× across 6 Bible books.
-> *na etet uh hangin na mu kei ding uh hi.*
+> *na etet-te hangin na mu kei ding-te hi.*
 
 ### etetna
 **[n]** eyes
@@ -1159,7 +1159,7 @@
 **Meanings:** after | baker | ceaseth | raising | hath | kneaded
 **CEFR:** B2
 **Usage:** Attested 245× across 4 Bible books.
-> *Amaute zuautatin citaklo uh hi. Amaute pen*
+> *Amaute zuautatin citaklo-te hi. Amaute pen*
 
 ### enkak
 **[n]** eat

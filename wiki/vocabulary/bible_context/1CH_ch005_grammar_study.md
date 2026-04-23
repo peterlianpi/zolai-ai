@@ -40,9 +40,9 @@
 ### v3
 **EN:** The sons, I say, of Reuben the firstborn of Israel were, Hanoch, and Pallu, Hezron, and Carmi.
 
-**TDB77:** Israel’ tacil Reuben’ tapate in: Hanok, Pallu, Hezron, leh Karmi ahi uh hi.
+**TDB77:** Israel’ tacil Reuben’ tapate in: Hanok, Pallu, Hezron, leh Karmi ahi-te hi.
 
-**ZVS:** Israel' tacil Reuben' tapate: Hanok, Pallu, Hezron, leh Karmi ahi uh hi.
+**ZVS:** Israel' tacil Reuben' tapate: Hanok, Pallu, Hezron, leh Karmi ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -79,9 +79,9 @@
 ### v8
 **EN:** And Bela the son of Azaz, the son of Shema, the son of Joel, who dwelt in Aroer, even unto Nebo and Baal–meon:
 
-**TDB77:** leh Joel mite beh sung panin Shema tapa Azaz, a tapa Bela ahi hi. Nebo leh Baalmeon ciang dong Aroer-ah a teeng uh hi.
+**TDB77:** leh Joel mite beh sung panin Shema tapa Azaz, a tapa Bela ahi hi. Nebo leh Baalmeon ciang dong Aroer-ah a teeng-te hi.
 
-**ZVS:** leh Joel mite beh sung panin Shema' tapa Azaz, a tapa Bela ahi hi. Aroer leh tua panin Nebo leh Baalmeon ciangdongah a teng uh hi.
+**ZVS:** leh Joel mite beh sung panin Shema' tapa Azaz, a tapa Bela ahi hi. Aroer leh tua panin Nebo leh Baalmeon ciangdongah a teng-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -90,16 +90,16 @@
 
 **TDB77:** Gilead gam sungah amau’ bawngte khangin tampi pha ahih manin Eufrates gun hih lam pang sehnel gam lutna ciang dong nisuahna lamah zong amah teeng hi.
 
-**ZVS:** Gilead gamsungah amau' bawngte khangin tampi pha ahih manin Eufratis gun hih lampang sehnel gam lutna ciangdong nisuahna lamah zong a teng uh hi.
+**ZVS:** Gilead gamsungah amau' bawngte khangin tampi pha ahih manin Eufratis gun hih lampang sehnel gam lutna ciangdong nisuahna lamah zong a teng-te hi.
 
 **Grammar:** causal: because
 
 ### v10
 **EN:** And in the days of Saul they made war with the Hagarites, who fell by their hand: and they dwelt in their tents throughout all the east land of Gilead.
 
-**TDB77:** Tua ciangin Saul’ hun lai-in amaute in Hagri mite do-in zo uh hi; tua ciangin Gilead nisuahna lam gam khempeuh-a amau’ puanbukte luahin a sungah teeng uh hi.
+**TDB77:** Tua ciangin Saul’ hun lai-in amaute in Hagri mite do-in zo-te hi; tua ciangin Gilead nisuahna lam gam khempeuh-a amau’ puanbukte luahin a sungah teeng-te hi.
 
-**ZVS:** Tua ciangin Saul' hun lai-in amaute in Hagri mite simin zo uh a, Gilead nisuahna lam gam khempeuh-a amau' puanbukte luahin tuate sungah a teng uh hi.
+**ZVS:** Tua ciangin Saul' hun lai-in amaute in Hagri mite simin zo-te a, Gilead nisuahna lam gam khempeuh-a amau' puanbukte luahin tuate sungah a teng-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -113,27 +113,27 @@
 ### v12
 **EN:** Joel the chief, and Shapham the next, and Jaanai, and Shaphat in Bashan.
 
-**TDB77:** Ukpi Joel, a zom Shafam, Janai leh Shafat in Bashan-ah beh makai ahi uh hi.
+**TDB77:** Ukpi Joel, a zom Shafam, Janai leh Shafat in Bashan-ah beh makai ahi-te hi.
 
-**ZVS:** Ukpi Joel hi-in, a zom Shafam hi a, Janai leh Shafat, Bashan-ah beh makai ahi uh hi.
+**ZVS:** Ukpi Joel hi-in, a zom Shafam hi a, Janai leh Shafat, Bashan-ah beh makai ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** And their brethren of the house of their fathers were, Michael, and Meshullam, and Sheba, and Jorai, and Jachan, and Zia, and Heber, seven.
 
-**TDB77:** Tua ciangin amau’ beh makai dangte in: Mikhael, Meshullam, Sheba, Jorai, Jakan, Zia, leh Eber, sagih pha uh hi.
+**TDB77:** Tua ciangin amau’ beh makai dangte in: Mikhael, Meshullam, Sheba, Jorai, Jakan, Zia, leh Eber, sagih pha-te hi.
 
-**ZVS:** Tua ciangin amau' beh makai dangte: Mikhael, Meshullam, Sheba, Jorai, Jakan, Zia, leh Eber, sagih pha uh hi.
+**ZVS:** Tua ciangin amau' beh makai dangte: Mikhael, Meshullam, Sheba, Jorai, Jakan, Zia, leh Eber, sagih pha-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v14
 **EN:** These are the children of Abihail the son of Huri, the son of Jaroah, the son of Gilead, the son of Michael, the son of Jeshishai, the son of Jahdo, the son of Buz;
 
-**TDB77:** Hihte pen Buz’ tapa Jahdo, a tapa Jeshishai, a tapa Mikhael, a tapa Gilead, a tapa Joroah, a tapa Huri, tapa Abihail’ suante ahi uh hi;
+**TDB77:** Hihte pen Buz’ tapa Jahdo, a tapa Jeshishai, a tapa Mikhael, a tapa Gilead, a tapa Joroah, a tapa Huri, tapa Abihail’ suante ahi-te hi;
 
-**ZVS:** Hihte pen Buz' tapa Jahdo, a tapa Jeshishai, a tapa Mikhael, a tapa Gilead, a tapa Jaroah, a tapa Huri' tapa Abihail' suante ahi uh hi.
+**ZVS:** Hihte pen Buz' tapa Jahdo, a tapa Jeshishai, a tapa Mikhael, a tapa Gilead, a tapa Jaroah, a tapa Huri' tapa Abihail' suante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -147,9 +147,9 @@
 ### v16
 **EN:** And they dwelt in Gilead in Bashan, and in her towns, and in all the suburbs of Sharon, upon their borders.
 
-**TDB77:** amaute Gilead gam sung, Bashan gam leh a khuapite sung, leh Sharon gam sung lonona a kiten’ theihna ciang dongah teeng uh hi.
+**TDB77:** amaute Gilead gam sung, Bashan gam leh a khuapite sung, leh Sharon gam sung lonona a kiten’ theihna ciang dongah teeng-te hi.
 
-**ZVS:** Amaute Gilead gamsung, Bashan gam leh a khuapite sung, leh Sharon gamsung lonona a kiten' theihna ciangdongah a teng uh hi.
+**ZVS:** Amaute Gilead gamsung, Bashan gam leh a khuapite sung, leh Sharon gamsung lonona a kiten' theihna ciangdongah a teng-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -174,72 +174,72 @@
 ### v19
 **EN:** And they made war with the Hagarites, with Jetur, and Naphish, and Nodab.
 
-**TDB77:** Amaute in Hagri mite, Jetur mite, Nafish mite, leh Nodab mite zo uh hi;
+**TDB77:** Amaute in Hagri mite, Jetur mite, Nafish mite, leh Nodab mite zo-te hi;
 
-**ZVS:** Amaute in Hagri mite, Jetur mite, Nafish mite, leh Nodab mite zo uh hi.
+**ZVS:** Amaute in Hagri mite, Jetur mite, Nafish mite, leh Nodab mite zo-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v20
 **EN:** And they were helped against them, and the Hagarites were delivered into their hand, and all that were with them: for they cried to God in the battle, and he was entreated of them; because they put their trust in him.
 
-**TDB77:** amaute a do dingin huhna a ngah uh ciangin Hagri mite leh amau tawh a pawl khempeuhte amaute’ khut sungah kipia hi; bang hang hiam cih leh gal kidona sungah amaute in Pasian’ tungah ko uh a, amaute in amah muang ahih manin amah in amaute’ thuumna pia hi.
+**TDB77:** amaute a do dingin huhna a ngah-te ciangin Hagri mite leh amau tawh a pawl khempeuhte amaute’ khut sungah kipia hi; bang hang hiam cih leh gal kidona sungah amaute in Pasian’ tungah ko-te a, amaute in amah muang ahih manin amah in amaute’ thuumna pia hi.
 
-**ZVS:** Amaute a simna dingin huhna a ngah uh ciangin Hagri mite leh amau tawh a kipawl khempeuhte amaute' khutsungah kipia hi; bang hang hiam cih leh gal kidona sungah amaute in Pasian' tungah ko uh a, amaute in Pasian muang uh ahih manin amah in amaute' thumna a pia hi.
+**ZVS:** Amaute a simna dingin huhna a ngah-te ciangin Hagri mite leh amau tawh a kipawl khempeuhte amaute' khutsungah kipia hi; bang hang hiam cih leh gal kidona sungah amaute in Pasian' tungah ko-te a, amaute in Pasian muang-te ahih manin amah in amaute' thumna a pia hi.
 
 **Grammar:** purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And they took away their cattle; of their camels fifty thousand, and of sheep two hundred and fifty thousand, and of asses two thousand, and of men an hundred thousand.
 
-**TDB77:** Amaute in amau’ ganhingte mat sak uh hi: a kalaoh uh tul sawmnga, tuu tul zanih leh tul sawmnga, la tulnih, leh mi tul zakhat hing mat uh hi.
+**TDB77:** Amaute in amau’ ganhingte mat sak-te hi: a kalaoh-te tul sawmnga, tuu tul zanih leh tul sawmnga, la tulnih, leh mi tul zakhat hing mat-te hi.
 
-**ZVS:** Amaute in amau' ganhingte matsak uh hi. A kalaoh uh tul sawmnga, tuu tul za nih leh tul sawmnga, la tul nih, leh mi tul za khat hingmat uh hi.
+**ZVS:** Amaute in amau' ganhingte matsak-te hi. A kalaoh-te tul sawmnga, tuu tul za nih leh tul sawmnga, la tul nih, leh mi tul za khat hingmat-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** For there fell down many slain, because the war was of God. And they dwelt in their steads until the captivity.
 
-**TDB77:** Tua gal in Pasian’ gal ahih manin mi tampi tak kithatin puk hi. Tua ciangin amaute sal a suah dong uh amau’ munah teeng uh hi.
+**TDB77:** Tua gal in Pasian’ gal ahih manin mi tampi tak kithatin puk hi. Tua ciangin amaute sal a suah dong-te amau’ munah teeng-te hi.
 
-**ZVS:** Tua gal pen Pasian' gal ahih manin mi tampi tak kithatin puk hi. Tua ciangin amaute sal a suah hun dong uh tua munah teng uh hi.
+**ZVS:** Tua gal pen Pasian' gal ahih manin mi tampi tak kithatin puk hi. Tua ciangin amaute sal a suah hun dong-te tua munah teng-te hi.
 
 **Grammar:** sequence: then/therefore | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** And the children of the half tribe of Manasseh dwelt in the land: they increased from Bashan unto Baal–hermon and Senir, and unto mount Hermon.
 
-**TDB77:** Manasseh minam a langte gam sungah teeng uh hi; amaute Bashan panin Baalhermon, Senir, leh Hermon Mual tungah tam pha mahmah uh hi.
+**TDB77:** Manasseh minam a langte gam sungah teeng-te hi; amaute Bashan panin Baalhermon, Senir, leh Hermon Mual tungah tam pha mahmah-te hi.
 
-**ZVS:** Manasseh minam a langte pen Bashan panin Baalhermon, Senir, leh Hermon Mual tungah tengin tam pha mahmah uh hi.
+**ZVS:** Manasseh minam a langte pen Bashan panin Baalhermon, Senir, leh Hermon Mual tungah tengin tam pha mahmah-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v24
 **EN:** And these were the heads of the house of their fathers, even Epher, and Ishi, and Eliel, and Azriel, and Jeremiah, and Hodaviah, and Jahdiel, mighty men of valour, famous men, and heads of the house of their fathers.
 
-**TDB77:** Amau’ beh lutangte in: Efer, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, leh Jahdiel, a thahat galhangte, mi minthangte, a beh lutangte ahi uh hi.
+**TDB77:** Amau’ beh lutangte in: Efer, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, leh Jahdiel, a thahat galhangte, mi minthangte, a beh lutangte ahi-te hi.
 
-**ZVS:** Amau' beh lutangte: Efer, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, leh Jahdiel hi a, a thahat galhangte, mi minthangte, a beh lutangte ahi uh hi.
+**ZVS:** Amau' beh lutangte: Efer, Ishi, Eliel, Azriel, Jeremiah, Hodaviah, leh Jahdiel hi a, a thahat galhangte, mi minthangte, a beh lutangte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v25
 **EN:** And they transgressed against the God of their fathers, and went a whoring after the gods of the people of the land, whom God destroyed before them.
 
-**TDB77:** Ahih hangin amaute in a pate uh Pasian’ thu palsat uh a, Pasian in amaute’ mai-ah a suksiat tua gam mite’ pasiante bia uh hi.
+**TDB77:** Ahih hangin amaute in a pate-te Pasian’ thu palsat-te a, Pasian in amaute’ mai-ah a suksiat tua gam mite’ pasiante bia-te hi.
 
-**ZVS:** Ahih hangin amaute in a pate uh Pasian' thu palsat uh a, Pasian in amaute' mai-ah a suksiat tua gam mite' pasian-te bia uh hi.
+**ZVS:** Ahih hangin amaute in a pate-te Pasian' thu palsat-te a, Pasian in amaute' mai-ah a suksiat tua gam mite' pasian-te bia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v26
 **EN:** And the God of Israel stirred up the spirit of Pul king of Assyria, and the spirit of Tilgath–pilneser king of Assyria, and he carried them away, even the Reubenites, and the Gadites, and the half tribe of Manasseh, and brought them unto Halah, and Habor, and Hara, and to the river Gozan, unto this day.
 
-**TDB77:** Tua ahih ciangin Israel’ Pasian in Assiria kumpipa Pul’ lungsim, Tilgath-pilneser a kici Assiria kumpipa’ lungsim hansuah a, amah in amaute, Reuben mite, Gad mite, leh Manasseh minam a langte pua khia-in, amaute Halah, Habor, leh Gozan gun-ah paipihin tu ni dongin tua lai-ah om uh hi.
+**TDB77:** Tua ahih ciangin Israel’ Pasian in Assiria kumpipa Pul’ lungsim, Tilgath-pilneser a kici Assiria kumpipa’ lungsim hansuah a, amah in amaute, Reuben mite, Gad mite, leh Manasseh minam a langte pua khia-in, amaute Halah, Habor, leh Gozan gun-ah paipihin tu ni dongin tua lai-ah om-te hi.
 
-**ZVS:** Tua ahih ciangin Israel Pasian in Assiria kumpipa Pul (Tilgathpileser zong a kici) Assiria kumpipa hansuah a, amah in Reuben mite, Gad mite, leh Manasseh minam alangte puakhia-in, Halah, Habor, Hara khuate, leh Gozan gun dungah paipihin tuni dongin tua gamte-ah om uh hi.
+**ZVS:** Tua ahih ciangin Israel Pasian in Assiria kumpipa Pul (Tilgathpileser zong a kici) Assiria kumpipa hansuah a, amah in Reuben mite, Gad mite, leh Manasseh minam alangte puakhia-in, Halah, Habor, Hara khuate, leh Gozan gun dungah paipihin tuni dongin tua gamte-ah om-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

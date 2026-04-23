@@ -94,7 +94,7 @@
 | Falam (FCL) | cfm | Present in parallel corpus — filtered for CPT |
 | Hakha (HCL06) | cnh | Present in parallel corpus — filtered for CPT |
 
-**ZVS standard:** use `pasian/gam/tapa/topa/kumpipa/tua` — never `pasian/ram/fapa/bawipa/siangpahrang/cu`
+**ZVS standard:** use `pasian/gam/tapa/topa/kumpipa/tua` — never `pasian/gam/tapa/topa/kumpipa/tua`
 
 ---
 

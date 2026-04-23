@@ -33,18 +33,18 @@
 ### v2
 **EN:** Thus saith the
 
-**TDB77:** Topa in a cih-inah: “En un, leilu gam panin tui hong khang a, a let khia-in hong luang ding hi. Gamsung leh gam sunga om khempeuh hong tum ding a, khuapi leh khuapi sunga teeng khempeuh hong tum ding hi. Mite kiko-in, gam sunga om mite khempeuh a kap ding uh hi.
+**TDB77:** Topa in a cih-inah: “En un, leilu gam panin tui hong khang a, a let khia-in hong luang ding hi. Gamsung leh gam sunga om khempeuh hong tum ding a, khuapi leh khuapi sunga teeng khempeuh hong tum ding hi. Mite kiko-in, gam sunga om mite khempeuh a kap ding-te hi.
 
-**ZVS:** { Topa } in a hong genin-ah, “En un, leilu lam panin tui hong khang ding a, hong letkhia-in hong luang ding hi. Gamsung leh gamsunga om khempeuh hong tum ding a, khuapi leh a sunga teng khempeuh hong tum ding hi. Mite kiko ding uh a, gamsunga om mi khempeuh a kap ding uh hi.
+**ZVS:** { Topa } in a hong genin-ah, “En un, leilu lam panin tui hong khang ding a, hong letkhia-in hong luang ding hi. Gamsung leh gamsunga om khempeuh hong tum ding a, khuapi leh a sunga teng khempeuh hong tum ding hi. Mite kiko ding-te a, gamsunga om mi khempeuh a kap ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** At the noise of the stamping of the hoofs of his strong horses, at the rushing of his chariots, and at the rumbling of his wheels, the fathers shall not look back to their children for feebleness of hands;
 
-**TDB77:** Sakol khe gingte za-in, sakol leeng gingte leh a pei kigawi gingte a zak uh ciangin, pate in a khut uh zaw lua ta ahih manin a tate uh a don zo nawn kei uh hi.
+**TDB77:** Sakol khe gingte za-in, sakol leeng gingte leh a pei kigawi gingte a zak-te ciangin, pate in a khut-te zaw lua ta ahih manin a tate-te a don zo nawn kei-te hi.
 
-**ZVS:** Sakol khegingte za-in, sakol leeng gingte leh a pei kigawite a zak uh ciangin, a khut uh zaw luata ahih manin pate in a tate uh a donzo nawn kei ding uh hi.
+**ZVS:** Sakol khegingte za-in, sakol leeng gingte leh a pei kigawite a zak-te ciangin, a khut-te zaw luata ahih manin pate in a tate-te a donzo nawn kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -60,18 +60,18 @@
 ### v5
 **EN:** Baldness is come upon Gaza; Ashkelon is cut off with the remnant of their valley: how long wilt thou cut thyself?
 
-**TDB77:** Gaza khua-te maizum ta uh a, Ashkelon khua kisia ta hi. Aw, no Anakim mi a om laite aw, bang tan no leh no kisuliam ding na hi uh hiam?
+**TDB77:** Gaza khua-te maizum ta-te a, Ashkelon khua kisia ta hi. Aw, no Anakim mi a om laite aw, bang tan no leh no kisuliam ding na hi-te hiam?
 
-**ZVS:** Gaza khuate maizum ta uh a, Ashkelon khua kisia ta hi. Aw, no Anak mi a omlaite aw, bang tanvei no leh no kisuliam ding na hi uh hiam?
+**ZVS:** Gaza khuate maizum ta-te a, Ashkelon khua kisia ta hi. Aw, no Anak mi a omlaite aw, bang tanvei no leh no kisuliam ding na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** O thou sword of the
 
-**TDB77:** Note in, ‘Aa, Topa’ namsau aw, Tawlnga nai lo ding na hi hiam? Na paai sungah lut kik in la, taang loin khawl dide in,’ na ci uh hi.
+**TDB77:** Note in, ‘Aa, Topa’ namsau aw, Tawlnga nai lo ding na hi hiam? Na paai sungah lut kik in la, taang loin khawl dide in,’ na ci-te hi.
 
-**ZVS:** Note in, ‘{ Topa' } namsau aw, tawlnga nailo ding na hi hiam? Na paai sungah lutkik in la, taangloin khawl dide in,’ na ci uh hi.
+**ZVS:** Note in, ‘{ Topa' } namsau aw, tawlnga nailo ding na hi hiam? Na paai sungah lutkik in la, taangloin khawl dide in,’ na ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 

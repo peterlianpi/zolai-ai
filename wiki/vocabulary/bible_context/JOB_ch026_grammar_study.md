@@ -53,7 +53,7 @@
 ### v5
 **EN:** Dead things are formed from under the waters, and the inhabitants thereof.
 
-**TDB77:** Misite’ gam kiling a, a sunga teengte launa tawh ling uh hi.
+**TDB77:** Misite’ gam kiling a, a sunga teengte launa tawh ling-te hi.
 
 **ZVS:** “Misite' gam kiling a, a sunga a teng mite launa tawh a ling hi.
 
@@ -101,9 +101,9 @@
 ### v11
 **EN:** The pillars of heaven tremble and are astonished at his reproof.
 
-**TDB77:** Amah in vanpi a pua khuampite a tai ciangin, tua khuampite lau-in ling uh hi.
+**TDB77:** Amah in vanpi a pua khuampite a tai ciangin, tua khuampite lau-in ling-te hi.
 
-**ZVS:** Amah in vanpi a pua khuampite a taii ciangin tua khuampite lau-in a ling uh hi.
+**ZVS:** Amah in vanpi a pua khuampite a taii ciangin tua khuampite lau-in a ling-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

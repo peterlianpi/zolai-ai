@@ -51,9 +51,9 @@
 ### v4
 **EN:** And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes, saying, The
 
-**TDB77:** Amaute siampi Eleazar leh Nun tapa Joshua leh makaite mai-ah pai uh a, “Ka sanggamte uh tawh gamh hong piakna dingin Topa in Moses thu pia hi,” a ci uh hi. Tua ahih ciangin Topa' thupiakna bangin amau’ pate’ sanggamte tawh amah in gamh pia khawm hi.
+**TDB77:** Amaute siampi Eleazar leh Nun tapa Joshua leh makaite mai-ah pai-te a, “Ka sanggamte-te tawh gamh hong piakna dingin Topa in Moses thu pia hi,” a ci-te hi. Tua ahih ciangin Topa' thupiakna bangin amau’ pate’ sanggamte tawh amah in gamh pia khawm hi.
 
-**ZVS:** Amaute, siampi Eleazar leh Nun tapa Joshua leh makaite mai-ah pai uh a, “Ka sanggamte uh tawh gamh hong piakna dingin { Topa } in Moses thu pia hi,” a ci uh hi. Tua ahih ciangin { Topa' } thupiakna bangin amau pate' sanggamte tawh amah in gamh a pia khawm hi.
+**ZVS:** Amaute, siampi Eleazar leh Nun tapa Joshua leh makaite mai-ah pai-te a, “Ka sanggamte-te tawh gamh hong piakna dingin { Topa } in Moses thu pia hi,” a ci-te hi. Tua ahih ciangin { Topa' } thupiakna bangin amau pate' sanggamte tawh amah in gamh a pia khawm hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -69,9 +69,9 @@
 ### v6
 **EN:** Because the daughters of Manasseh had an inheritance among his sons: and the rest of Manasseh's sons had the land of Gilead.
 
-**TDB77:** bang hang hiam cih leh Manasseh’ tanute in a tapate tawh gamh ngah khawm uh hi. A om lai Manasseh mite tungah Gilead leitang kipia hi.
+**TDB77:** bang hang hiam cih leh Manasseh’ tanute in a tapate tawh gamh ngah khawm-te hi. A om lai Manasseh mite tungah Gilead leitang kipia hi.
 
-**ZVS:** Bang hang hiam cih leh Manasseh' tanute in a tapate tawh gamh ngahkhawm uh hi. A omlai Manasseh mite tungah Gilead leitang kipia hi.
+**ZVS:** Bang hang hiam cih leh Manasseh' tanute in a tapate tawh gamh ngahkhawm-te hi. A omlai Manasseh mite tungah Gilead leitang kipia hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -119,27 +119,27 @@
 ### v12
 **EN:** Yet the children of Manasseh could not drive out the inhabitants of those cities; but the Canaanites would dwell in that land.
 
-**TDB77:** Ahi zongin Manasseh’ tapate in hih khuapite luah zo lo uh hi; Kanaan mite tua gamah teeng teitei uh hi.
+**TDB77:** Ahi zongin Manasseh’ tapate in hih khuapite luah zo lo-te hi; Kanaan mite tua gamah teeng teitei-te hi.
 
-**ZVS:** Ahi zongin Manasseh' tapate in hih khuapite luah zolo uh ahih manin tua gamah Kanaan mite teng teitei uh hi.
+**ZVS:** Ahi zongin Manasseh' tapate in hih khuapite luah zolo-te ahih manin tua gamah Kanaan mite teng teitei-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v13
 **EN:** Yet it came to pass, when the children of Israel were waxen strong, that they put the Canaanites to tribute; but did not utterly drive them out.
 
-**TDB77:** Ahih hangin Israel mite tampi pha-in a hat uh ciangin amaute in Kanaan mite nasemin koih uh a, hawl khia mang khin lo uh hi.
+**TDB77:** Ahih hangin Israel mite tampi pha-in a hat-te ciangin amaute in Kanaan mite nasemin koih-te a, hawl khia mang khin lo-te hi.
 
-**ZVS:** Ahih hangin Israel mite tampi pha-in a hat uh ciangin amaute in Kanaan mite nasemin koih uh a, hawlkhiamang khinlo uh hi.
+**ZVS:** Ahih hangin Israel mite tampi pha-in a hat-te ciangin amaute in Kanaan mite nasemin koih-te a, hawlkhiamang khinlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v14
 **EN:** And the children of Joseph spake unto Joshua, saying, Why hast thou given me but one lot and one portion to inherit, seeing I am a great people, forasmuch as the
 
-**TDB77:** Tua ciangin Josef minam in Joshua kiangah thu genin, “Topa in kote thupha hong pia khin a, kote in mi tampi hi napi-in bang hangin ngah khat leh tanh khat bek gamh-in hong pia na hi hiam?" a ci uh hi.
+**TDB77:** Tua ciangin Josef minam in Joshua kiangah thu genin, “Topa in kote thupha hong pia khin a, kote in mi tampi hi napi-in bang hangin ngah khat leh tanh khat bek gamh-in hong pia na hi hiam?" a ci-te hi.
 
-**ZVS:** Tua ciangin Josef minam in Joshua kiangah thu genin, “{ Topa } in kote thu hong pia khin a, kote mi tampi hi napi-in bang hangin ngah khat leh tanh khat bek gamh-in hong pia na hi hiam?” a ci uh hi.
+**ZVS:** Tua ciangin Josef minam in Joshua kiangah thu genin, “{ Topa } in kote thu hong pia khin a, kote mi tampi hi napi-in bang hangin ngah khat leh tanh khat bek gamh-in hong pia na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -155,27 +155,27 @@
 ### v16
 **EN:** And the children of Joseph said, The hill is not enough for us: and all the Canaanites that dwell in the land of the valley have chariots of iron, both they who are of Beth–shean and her towns, and they who are of the valley of Jezreel.
 
-**TDB77:** Josef minam in, “Kote' adingin mualtung gam kicing hi; ahi zongin zang gam-a teeng Kanaan mite khempeuh, Bethshean leh a khua neute, leh Jezre-el Kuam sunga omte in sik leeng nei uh hi,” a ci uh hi.
+**TDB77:** Josef minam in, “Kote' adingin mualtung gam kicing hi; ahi zongin zang gam-a teeng Kanaan mite khempeuh, Bethshean leh a khua neute, leh Jezre-el Kuam sunga omte in sik leeng nei-te hi,” a ci-te hi.
 
-**ZVS:** Josef minam in, “Kote-a' dingin mualtung gam kicing zolo hi. Ahi zongin zang gama teng Kanaan mite khempeuh, Bethshean leh a khuaneute, Jezreel Kuam sunga om mite pen sik leeng neite hi zel uh hi,” a ci uh hi.
+**ZVS:** Josef minam in, “Kote-a' dingin mualtung gam kicing zolo hi. Ahi zongin zang gama teng Kanaan mite khempeuh, Bethshean leh a khuaneute, Jezreel Kuam sunga om mite pen sik leeng neite hi zel-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And Joshua spake unto the house of Joseph, even to Ephraim and to Manasseh, saying, Thou art a great people, and hast great power: thou shalt not have one lot only:
 
-**TDB77:** Tua ciangin Joshua in Josef suan Efraim leh Manasseh mite tungah, “Note mi tampi pha-in na vanglian uh hi; tanh khat kia na nei kei ding uh hi;
+**TDB77:** Tua ciangin Joshua in Josef suan Efraim leh Manasseh mite tungah, “Note mi tampi pha-in na vanglian-te hi; tanh khat kia na nei kei ding-te hi;
 
-**ZVS:** Tua ciangin Joshua in Josef' suan Efraim leh Manasseh mite tungah, “Note mi tampi pha-in vanglian na hih manun tanh khat kia na nei kei ding uh hi.
+**ZVS:** Tua ciangin Joshua in Josef' suan Efraim leh Manasseh mite tungah, “Note mi tampi pha-in vanglian na hih manun tanh khat kia na nei kei ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** But the mountain shall be thine; for it is a wood, and thou shalt cut it down: and the outgoings of it shall be thine: for thou shalt drive out the Canaanites, though they have iron chariots, and though they be strong.
 
-**TDB77:** mualtung gam in note’ aa hi ding a, tulak ahih hangin note in hah siangin a gamgi mong dong na luah ding uh hi; bang hang hiam cih leh amaute in sik leeng nei-in, amaute a thahat hangin Kanaan mite na hawlkhia zo ding uh hi,” a ci hi.
+**TDB77:** mualtung gam in note’ aa hi ding a, tulak ahih hangin note in hah siangin a gamgi mong dong na luah ding-te hi; bang hang hiam cih leh amaute in sik leeng nei-in, amaute a thahat hangin Kanaan mite na hawlkhia zo ding-te hi,” a ci hi.
 
-**ZVS:** Mualtung gam pen note-a' hi ding a, tulak ahih hangin note in hah siangin a gamgi mong dong na luah ding uh hi. Bang hang hiam cih leh amaute in sik leeng nei-in, amaute a thahat hangin Kanaan mite na hawlkhiazo ding uh hi,” a ci hi.
+**ZVS:** Mualtung gam pen note-a' hi ding a, tulak ahih hangin note in hah siangin a gamgi mong dong na luah ding-te hi. Bang hang hiam cih leh amaute in sik leeng nei-in, amaute a thahat hangin Kanaan mite na hawlkhiazo ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 

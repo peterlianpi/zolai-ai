@@ -33,9 +33,9 @@
 ### v2
 **EN:** And there was of the house of Saul a servant whose name was Ziba. And when they had called him unto David, the king said unto him, Art thou Ziba? And he said, Thy servant is he.
 
-**TDB77:** Tu-in Saul innkuan sungah Ziba min nei nasempa khat om a, amaute in David kiangah amah sam uh hi; tua ciangin kumpipa in ama kiangah, “Ziba na hi hiam?” a ci hi. Amah in, “Na nasempa keimah in Ziba ka hi hi,” a ci hi.
+**TDB77:** Tu-in Saul innkuan sungah Ziba min nei nasempa khat om a, amaute in David kiangah amah sam-te hi; tua ciangin kumpipa in ama kiangah, “Ziba na hi hiam?” a ci hi. Amah in, “Na nasempa keimah in Ziba ka hi hi,” a ci hi.
 
-**ZVS:** Saul' innkuan sungah Ziba min nei nasempa khat om a, amaute in David kiangah amah sam uh hi. Kumpipa in ama kiangah, “Ziba na hi hiam?” a ci hi. Amah in, “Na nasempa kei pen Ziba ka hi hi,” a ci hi.
+**ZVS:** Saul' innkuan sungah Ziba min nei nasempa khat om a, amaute in David kiangah amah sam-te hi. Kumpipa in ama kiangah, “Ziba na hi hiam?” a ci hi. Amah in, “Na nasempa kei pen Ziba ka hi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -105,9 +105,9 @@
 ### v10
 **EN:** Thou therefore, and thy sons, and thy servants, shall till the land for him, and thou shalt bring in the fruits, that thy master's son may have food to eat: but Mephibosheth thy master's son shall eat bread alway at my table. Now Ziba had fifteen sons and twenty servants.
 
-**TDB77:** Nang leh na tapate leh na nasemte in ama adingin lo na kho ding uh a, na topa’ tupa in an nek ding a neih theih nadingin a piangte a tun’pih ding uh hi; ahih hangin na topa’ tupa Mefibosheth in keima sabuai-ah ne tawntung ding hi,” a ci hi. Tu-in Ziba in tapa sawm-le-nga nasem sawmnih nei hi.
+**TDB77:** Nang leh na tapate leh na nasemte in ama adingin lo na kho ding-te a, na topa’ tupa in an nek ding a neih theih nadingin a piangte a tun’pih ding-te hi; ahih hangin na topa’ tupa Mefibosheth in keima sabuai-ah ne tawntung ding hi,” a ci hi. Tu-in Ziba in tapa sawm-le-nga nasem sawmnih nei hi.
 
-**ZVS:** Nang leh na tapate leh na nasemte in ama-a' dingin lo na kho ding uh a, na topa' tupa in annek ding a neihtheihna dingin a piangte na tun'pih ding uh hi. Ahih hangin na topa' tupa Mefibosheth in keima sabuai-ah an ne tawntung ding hi,” a ci hi. Ziba in tapa sawmlenga leh nasem sawmnih nei hi.
+**ZVS:** Nang leh na tapate leh na nasemte in ama-a' dingin lo na kho ding-te a, na topa' tupa in annek ding a neihtheihna dingin a piangte na tun'pih ding-te hi. Ahih hangin na topa' tupa Mefibosheth in keima sabuai-ah an ne tawntung ding hi,” a ci hi. Ziba in tapa sawmlenga leh nasem sawmnih nei hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 

@@ -64,7 +64,7 @@
 
 ### giak = to stay/lodge/remain (often overnight)
 **Context:** The disciples staying with Jesus for the night.
-**Example:** ama kiangah a giak uh hi.
+**Example:** ama kiangah a giak-te hi.
 
 ### teen'na = hometown/place of dwelling
 **Context:** Referring to the city where Andrew and Peter lived.
@@ -76,7 +76,7 @@
 
 ### Messiah = Messiah
 **Context:** The title recognized by Andrew.
-**Example:** Messiah ka mu zo uh hi
+**Example:** Messiah ka mu zo-te hi
 
 ### Khazih = Christ
 **Context:** The Tedim translation for Messiah/Christ.
@@ -104,13 +104,13 @@
 - **ci-in teci ka pang zo hi** = I have borne witness saying that...
   - Usage: A concluding statement confirming a testimony or declaration.
 
-- **Bang zong na hi uh hiam?** = What are you seeking?
+- **Bang zong na hi-te hiam?** = What are you seeking?
   - Usage: A direct question used by Jesus to inquire about the disciples' purpose in following him.
 
-- **Hong pai le-uh teh na mu ding uh hi** = Come and you will see
+- **Hong pai le-uh teh na mu ding-te hi** = Come and you will see
   - Usage: An invitation followed by a promise of revelation or sight.
 
-- **Messiah ka mu zo uh hi** = We have found the Messiah
+- **Messiah ka mu zo-te hi** = We have found the Messiah
   - Usage: A declaration of recognition regarding the promised deliverer.
 
 ## Grammar Patterns

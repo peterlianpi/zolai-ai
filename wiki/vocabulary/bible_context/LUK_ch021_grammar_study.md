@@ -23,9 +23,9 @@
 ### v1
 **EN:** And he looked up, and saw the rich men casting their gifts into the treasury.
 
-**TDB77:** Tua lai takin Zeisu in en a, sumhaute in sumkholna sungah sum a khiat uh a mu hi.
+**TDB77:** Tua lai takin Zeisu in en a, sumhaute in sumkholna sungah sum a khiat-te a mu hi.
 
-**ZVS:** Jesuh a khuadak leh mihaute in biakinn sumkuang sungah a letsong uh a khiatna,
+**ZVS:** Jesuh a khuadak leh mihaute in biakinn sumkuang sungah a letsong-te a khiatna,
 
 **Grammar:** plural: uh marker
 
@@ -46,34 +46,34 @@
 ### v5
 **EN:** And as some spake of the temple, how it was adorned with goodly stones and gifts, he said,
 
-**TDB77:** Mi kimkhat in biakna innpi suangmanpha leh mite piakna tawh kizepna thu a gen uh ciangin,
+**TDB77:** Mi kimkhat in biakna innpi suangmanpha leh mite piakna tawh kizepna thu a gen-te ciangin,
 
-**ZVS:** Mi pawlkhat in suang hoih mahmahte tawh kilamin tua biakinn hoihin a thupi mahmahna leh Pasian tungah letsong tampi a kipiaknate a gen uh ciangin Jesuh in,
+**ZVS:** Mi pawlkhat in suang hoih mahmahte tawh kilamin tua biakinn hoihin a thupi mahmahna leh Pasian tungah letsong tampi a kipiaknate a gen-te ciangin Jesuh in,
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v7
 **EN:** And they asked him, saying, Master, but when shall these things be? and what sign will there be when these things shall come to pass?
 
-**TDB77:** Amaute in “Topa aw, tua thute in cikciangin hong tung ding ahi hiam? A pian’ ding hong naih ciangin bang limin a hong kihil ding hiam?” ci-in a dong uh hi.
+**TDB77:** Amaute in “Topa aw, tua thute in cikciangin hong tung ding ahi hiam? A pian’ ding hong naih ciangin bang limin a hong kihil ding hiam?” ci-in a dong-te hi.
 
-**ZVS:** Tua ciangin amaute in, “Cik ciangin hih thu hong piang ding a, hih thu a pian'ding ciangin bang lim hong om ding ahi hiam?” ci-in a dot uh ciangin
+**ZVS:** Tua ciangin amaute in, “Cik ciangin hih thu hong piang ding a, hih thu a pian'ding ciangin bang lim hong om ding ahi hiam?” ci-in a dot-te ciangin
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And he said,
 
-**TDB77:** Zeisu in, “Note kuamah in hong kheem zawh loh nadingin na kikem un. Bang hang hiam na cih uh leh, mi tampite in, ‘Kei tua pa ka hi hi. A hun hong tung dektak hi,’ ci-in keima min tawh hong pai ding uh hi.
+**TDB77:** Zeisu in, “Note kuamah in hong kheem zawh loh nadingin na kikem un. Bang hang hiam na cih-te leh, mi tampite in, ‘Kei tua pa ka hi hi. A hun hong tung dektak hi,’ ci-in keima min tawh hong pai ding-te hi.
 
-**ZVS:** Jesuh in, “Kidawm un la, mi' khemsa-in ta kei un. Bang hang hiam cih leh keimah a kineih mi tampi hong pai ding uh a, ‘Keimah, Khrih ka hi hi; a hun hong tungta hi,’ hong ci ding uh hi. Tua bang mite' nung zuikha kei un.
+**ZVS:** Jesuh in, “Kidawm un la, mi' khemsa-in ta kei un. Bang hang hiam cih leh keimah a kineih mi tampi hong pai ding-te a, ‘Keimah, Khrih ka hi hi; a hun hong tungta hi,’ hong ci ding-te hi. Tua bang mite' nung zuikha kei un.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Then said he unto them,
 
-**TDB77:** Tua ciangin Zeisu in, “Mi namkhat leh namkhat, gamkhat leh gamkhat hong kido ding uh hi.
+**TDB77:** Tua ciangin Zeisu in, “Mi namkhat leh namkhat, gamkhat leh gamkhat hong kido ding-te hi.
 
 **ZVS:** Tua ciangin Jesuh in a thugen zomlai a, “Gam khat leh gam khat hong kido-in, kumpi khat leh kumpi khat hong kido ding hi.
 
@@ -98,9 +98,9 @@
 ### v38
 **EN:** And all the people came early in the morning to him in the temple, for to hear him.
 
-**TDB77:** Zingsangin mi khempeuh in a thu ngai dingin biakna innpi-ah ama kiangah a kikhawm uh hi.
+**TDB77:** Zingsangin mi khempeuh in a thu ngai dingin biakna innpi-ah ama kiangah a kikhawm-te hi.
 
-**ZVS:** Ama thuhilhna a ngai dingin mi khempeuh zingsang simin biakinn-ah hong pai baih uh hi.
+**ZVS:** Ama thuhilhna a ngai dingin mi khempeuh zingsang simin biakinn-ah hong pai baih-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

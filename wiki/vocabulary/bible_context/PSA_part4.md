@@ -100,7 +100,7 @@
 
 ### zahhuai = ashamed/put to shame
 **Context:** Predicting the fate of the enemies.
-**Example:** Ka galte khempeuh zahhuai in genthei mahmah ding uh hi
+**Example:** Ka galte khempeuh zahhuai in genthei mahmah ding-te hi
 
 ### nungkik = return (in defeat)
 **Context:** Describing the enemies turning back in disgrace.
@@ -108,7 +108,7 @@
 
 ### maizumna thuak = suffer sudden shame/be suddenly confounded
 **Context:** The consequence for the enemies.
-**Example:** maizumna thuak pah ding uh hi
+**Example:** maizumna thuak pah ding-te hi
 
 ### hong delhte = those who pursue/persecute me
 **Context:** Referring to the speaker's pursuers.
@@ -120,7 +120,7 @@
 
 ### balgawp = tear to pieces/destroy completely
 **Context:** Describing the violent action of the pursuer if God doesn't save him.
-**Example:** hong balgawp ding uh hi
+**Example:** hong balgawp ding-te hi
 
 ### khialh = stray/err/sin
 **Context:** Confessing wrongdoing or error.

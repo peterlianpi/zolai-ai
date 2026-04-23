@@ -27,23 +27,23 @@
 
 **TDB77:** Ute naute ki-itna kip ta hen.
 
-**ZVS:** Khrih sungah unau bangin na ki-itna uh na zomsuak un.
+**ZVS:** Khrih sungah unau bangin na ki-itna-te na zomsuak un.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v2
 **EN:** Be not forgetful to entertain strangers: for thereby some have entertained angels unawares.
 
-**TDB77:** Zinte do nading na mangngilh kei un. Bang hang hiam na cih uh leh, mi kimkhat in zin a do laitakun vantungmite ahih lam thei loin zin a do kha uh hi.
+**TDB77:** Zinte do nading na mangngilh kei un. Bang hang hiam na cih-te leh, mi kimkhat in zin a do laitakun vantungmite ahih lam thei loin zin a do kha-te hi.
 
-**ZVS:** Khualmite hoihtakin zin na do ding uh na phawk un. Mi pawlkhat in vantung mite zindo ahihlam a phawklopi-in a do na hi gige uh hi.
+**ZVS:** Khualmite hoihtakin zin na do ding-te na phawk un. Mi pawlkhat in vantung mite zindo ahihlam a phawklopi-in a do na hi gige-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Remember them that are in bonds, as bound with them; and them which suffer adversity, as being yourselves also in the body.
 
-**TDB77:** Khau khihna a thuak mi tawh kikhih khawm bangin kingaihsun un: pumpi tawh kipelh lo na hih uh ciangin bawlsiatna a thuakte na ngaihsun un.
+**TDB77:** Khau khihna a thuak mi tawh kikhih khawm bangin kingaihsun un: pumpi tawh kipelh lo na hih-te ciangin bawlsiatna a thuakte na ngaihsun un.
 
 **ZVS:** Amaute tawh thong a kiakhawm bangin kingaihsunin thong sunga om mite na phawk un. Note zong leitung pumpi mah tawh a nungta lai na hih manun gimna a thuak mite na phawk un.
 
@@ -52,25 +52,25 @@
 ### v4
 **EN:** Marriage is honourable in all, and the bed undefiled: but whoremongers and adulterers God will judge.
 
-**TDB77:** Mi khempeuh lakah kiteen’na kithupisim ta hen. Pasalte leh zite in khat leh khat a thuman ciat ding uh ahi hi. Bang hang hiam na cih uh leh, numei tawh a mawhte leh mi’ zi tungah a mawhte Pasian in thu a khen ding hi.
+**TDB77:** Mi khempeuh lakah kiteen’na kithupisim ta hen. Pasalte leh zite in khat leh khat a thuman ciat ding-te ahi hi. Bang hang hiam na cih-te leh, numei tawh a mawhte leh mi’ zi tungah a mawhte Pasian in thu a khen ding hi.
 
-**ZVS:** Mi khempeuh in nupa thu thupi ngaihsut uh hen la, zite pen pasalte tungah citakin, pasalte zong a zite uh tungah citak uh hen. Pasian in a thangtat mite leh nulepa mawhna a gamta mite tungah thu khen ding hi.
+**ZVS:** Mi khempeuh in nupa thu thupi ngaihsut-te hen la, zite pen pasalte tungah citakin, pasalte zong a zite-te tungah citak-te hen. Pasian in a thangtat mite leh nulepa mawhna a gamta mite tungah thu khen ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** Let your conversation be without covetousness; and be content with such things as ye have: for he hath said, I will never leave thee, nor forsake thee.
 
-**TDB77:** Sumduh luatna tawh na kipelh un. Na neihsa zah uh sum tawh lungkim un. Bang hang hiam na cih uh leh, “Keimah in nang kong paisan ngei kei ding hi, zong kong nusia ngei kei ding hi,” ci-in Pasian in hong gen zo hi.
+**TDB77:** Sumduh luatna tawh na kipelh un. Na neihsa zah-te sum tawh lungkim un. Bang hang hiam na cih-te leh, “Keimah in nang kong paisan ngei kei ding hi, zong kong nusia ngei kei ding hi,” ci-in Pasian in hong gen zo hi.
 
-**ZVS:** Sum deihluatna tawh na kipelhna dingun na nuntakna uhah kikem un la, na neihzah uh tawh lungkim un. Pasian in, “Note ka hong nusia ngei kei ding a, ka hong tamasak ngei kei ding hi,” hong ci hi.
+**ZVS:** Sum deihluatna tawh na kipelhna dingun na nuntakna uhah kikem un la, na neihzah-te tawh lungkim un. Pasian in, “Note ka hong nusia ngei kei ding a, ka hong tamasak ngei kei ding hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 
 ### v6
 **EN:** So that we may boldly say, The Lord is my helper, and I will not fear what man shall do unto me.
 
-**TDB77:** Tua ahih ciangin: “Topa in kei hong huhpa hi a, ka lau kei ding hi. Mite in kei tungah bang hong cih thei ding ahi uh hiam?” ci-in kimuan’na lungsim tawh i gen thei hi.
+**TDB77:** Tua ahih ciangin: “Topa in kei hong huhpa hi a, ka lau kei ding hi. Mite in kei tungah bang hong cih thei ding ahi-te hiam?” ci-in kimuan’na lungsim tawh i gen thei hi.
 
 **ZVS:** Tua ahih manin kimuan'na lungsim tawh hangtakin, “Topa, kei hong huhpa hi a, ka lau kei ding hi. Kua in bang hong cihzo ding ahi hiam?” ci ngam ni.
 
@@ -79,9 +79,9 @@
 ### v7
 **EN:** Remember them which have the rule over you, who have spoken unto you the word of God: whose faith follow, considering the end of their conversation.
 
-**TDB77:** Pasian’ thu note kiangah hong hilh uh a, note hong uk ngei mite na ngaihsun un. Amaute in bangci gamtatin a si uh teltakin lungngai un la, amau upna lim na zui un.
+**TDB77:** Pasian’ thu note kiangah hong hilh-te a, note hong uk ngei mite na ngaihsun un. Amaute in bangci gamtatin a si-te teltakin lungngai un la, amau upna lim na zui un.
 
-**ZVS:** Note tungah Pasian' thu a hong gen, nidanga na makai masate uh phawk un. Amaute' nuntakna leh a sihna ziate uh ngaihsun un la, amaute' upna bang na neihna dingun hanciam un.
+**ZVS:** Note tungah Pasian' thu a hong gen, nidanga na makai masate-te phawk un. Amaute' nuntakna leh a sihna ziate-te ngaihsun un la, amaute' upna bang na neihna dingun hanciam un.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -97,7 +97,7 @@
 ### v9
 **EN:** Be not carried about with divers and strange doctrines. For it is a good thing that the heart be established with grace; not with meats, which have not profited them that have been occupied therein.
 
-**TDB77:** A tuam dangdang, a lamdangdang thuhilhna thak zui kei un. An nek hang hi lo, thupha hehpihna hangin lungkhauh a, na om uh leh, a pha hi. An nekna bek a ngaihsun mite in na manpha a ngah zo kei uh hi.
+**TDB77:** A tuam dangdang, a lamdangdang thuhilhna thak zui kei un. An nek hang hi lo, thupha hehpihna hangin lungkhauh a, na om-te leh, a pha hi. An nekna bek a ngaihsun mite in na manpha a ngah zo kei-te hi.
 
 **ZVS:** Thuhilhna lamdang a tuamtuamte zui-in lam man panin pialkha kei un. A zui mite tungah bangmah phattuamna a piangsak theilo annek tuidawn tawh kisai ngeina zuihna in thahatna hong pia theilo a, Pasian' hehpihna bek in i lungsim hong thahatsak thei hi.
 
@@ -108,12 +108,12 @@
 
 **TDB77:** Buk sungah biakna nasem mite in a nek theih ding ahi lo, biakna tau eite in i nei hi.
 
-**ZVS:** Jew biakbuk-ah na a sem siampite in biakna tau tungah a kipia biakna sate nekna ding thu neilo uh hi.
+**ZVS:** Jew biakbuk-ah na a sem siampite in biakna tau tungah a kipia biakna sate nekna ding thu neilo-te hi.
 
 ### v11
 **EN:** For the bodies of those beasts, whose blood is brought into the sanctuary by the high priest for sin, are burned without the camp.
 
-**TDB77:** Bang hang hiam na cih uh leh, siampi ukpa in mawh maisakna ding biakna gan si, a siangtho mun sungah a tumpih khit ciangin, biakna gan pumpi giahbuk pua lamah mei in a hal hi.
+**TDB77:** Bang hang hiam na cih-te leh, siampi ukpa in mawh maisakna ding biakna gan si, a siangtho mun sungah a tumpih khit ciangin, biakna gan pumpi giahbuk pua lamah mei in a hal hi.
 
 **ZVS:** Jew Siampi Lianpenpa in mawhna hangin biakna dingin Siangtho Pen Mun-ah a ganhing sisan paipih a, ahi zongin a ganhing pumpi pen giahphual pualamah kihaltum hi.
 
@@ -138,7 +138,7 @@
 ### v14
 **EN:** For here have we no continuing city, but we seek one to come.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite in hih lai takah a kip ding khuapi i nei kei hi: tunung ciangin a hong piang ding khuapi i zong hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite in hih lai takah a kip ding khuapi i nei kei hi: tunung ciangin a hong piang ding khuapi i zong hi.
 
 **ZVS:** Eite-a' dingin hih leitungah a kip khuapi omlo ahih manin a hong piang lai ding khuapi a zong ihi hi.
 
@@ -156,23 +156,23 @@
 ### v16
 **EN:** But to do good and to communicate forget not: for with such sacrifices God is well pleased.
 
-**TDB77:** Thupha bawlna, sum hawmnate na mangngilh kei un. Bang hang hiam na cih uh leh, Pasian in hih bang biaknate ah a lungdam hi.
+**TDB77:** Thupha bawlna, sum hawmnate na mangngilh kei un. Bang hang hiam na cih-te leh, Pasian in hih bang biaknate ah a lungdam hi.
 
-**ZVS:** Khatlekhat tungah thuhoih kibawlin na kihuh ding uh mangngilh kei un. Hihbang gamtatnate pen Pasian a lungkimsak thei biakna ahi hi.
+**ZVS:** Khatlekhat tungah thuhoih kibawlin na kihuh ding-te mangngilh kei un. Hihbang gamtatnate pen Pasian a lungkimsak thei biakna ahi hi.
 
 ### v17
 **EN:** Obey them that have the rule over you, and submit yourselves: for they watch for your souls, as they that must give account, that they may do it with joy, and not with grief: for that is unprofitable for you.
 
-**TDB77:** No hong uk mite’ thu ngai un la, amau hong gen bangin gamta un. Bang hang hiam na cih uh leh, amaute in thusitna a thuakkik ding mite bangin note kha uh noptuam nadingin a kem uh hi. Note noptuamna uh a pian’sak theih nadingin dahna tawh hi loin, lungdam nadingin amaute in sittelna a thuak zawh nadingun kikemin om un.
+**TDB77:** No hong uk mite’ thu ngai un la, amau hong gen bangin gamta un. Bang hang hiam na cih-te leh, amaute in thusitna a thuakkik ding mite bangin note kha-te noptuam nadingin a kem-te hi. Note noptuamna-te a pian’sak theih nadingin dahna tawh hi loin, lungdam nadingin amaute in sittelna a thuak zawh nadingun kikemin om un.
 
-**ZVS:** Na makaite uh thu na mang un la, a genna uh bangin na gamta un. Pasian kiangah amaute in a nasepnate uh a pulak ding uh ahih manin tawlnga loin note hong lunghimawh tawntung uh hi. Amaute' thu mang le uh cin a nasepna uhah lungdam mahmah ding uh a, mang kei le uh cin dahpipi-in na sem ding uh hi. Dahpipi-in a nasepna uh note-a' dingin zong phattuamna a om tuan hilo hi.
+**ZVS:** Na makaite-te thu na mang un la, a genna-te bangin na gamta un. Pasian kiangah amaute in a nasepnate-te a pulak ding-te ahih manin tawlnga loin note hong lunghimawh tawntung-te hi. Amaute' thu mang le-te cin a nasepna uhah lungdam mahmah ding-te a, mang kei le-te cin dahpipi-in na sem ding-te hi. Dahpipi-in a nasepna-te note-a' dingin zong phattuamna a om tuan hilo hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Pray for us: for we trust we have a good conscience, in all things willing to live honestly.
 
-**TDB77:** Kote ading thu hong ngetsak un. Bang hang na cih uh leh, kote in komau pumpi theihna lungsim a pha nei-in, na khempeuh ah a hoihin gamtat nadingin a deih mi ka hi uh hi ci-in ka lungkim uh hi.
+**TDB77:** Kote ading thu hong ngetsak un. Bang hang na cih-te leh, kote in komau pumpi theihna lungsim a pha nei-in, na khempeuh ah a hoihin gamtat nadingin a deih mi ka hi-te hi ci-in ka lungkim-te hi.
 
 **ZVS:** Kote-a' dingin thu hong ngetsak niloh un. A tawntungin na a manin sepnopna lungsim nei ka hih manun ka lungsim uhah kisuan'na omloin siang mahmah hi.
 
@@ -183,7 +183,7 @@
 
 **TDB77:** Keimah in note kiangah a manlang zaw-a kong paikik theih nadingin, kote ading thu hong ngetsak un ci-in kong hansuah hi.
 
-**ZVS:** Note kiangah Pasian in kei hong paisak kik baih theihna dingin nakpi takin thu na na ngetna ding uh ka hong thum pha nuam hi.
+**ZVS:** Note kiangah Pasian in kei hong paisak kik baih theihna dingin nakpi takin thu na na ngetna ding-te ka hong thum pha nuam hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -217,7 +217,7 @@
 ### v23
 **EN:** Know ye that our brother Timothy is set at liberty; with whom, if he come shortly, I will see you.
 
-**TDB77:** I sanggampa Timoti a kikhah khitna thu na thei un. Amah in a sawt loin hong tung leh, keimah in amah tawh hong paikhawmin note kong mu ding uh hi.
+**TDB77:** I sanggampa Timoti a kikhah khitna thu na thei un. Amah in a sawt loin hong tung leh, keimah in amah tawh hong paikhawmin note kong mu ding-te hi.
 
 **ZVS:** I sanggampa Timoti zong thong panin a suahtak khitna thu ka hong theisak nuam hi. Amah hong pai baih nak leh note kiangah ka hong pai ciangin ka hong tonpih ding hi.
 
@@ -226,9 +226,9 @@
 ### v24
 **EN:** Salute all them that have the rule over you, and all the saints. They of Italy salute you.
 
-**TDB77:** Note hong uk mite khempeuh leh misiangthote khempeuh na hopih un. Itali mite in note hong hopih uh hi.
+**TDB77:** Note hong uk mite khempeuh leh misiangthote khempeuh na hopih un. Itali mite in note hong hopih-te hi.
 
-**ZVS:** Na makaite uh leh Pasian' mi khempeuh na hopihsak un. Italy gam panin a hong pai mite in note hong hopih uh hi.
+**ZVS:** Na makaite-te leh Pasian' mi khempeuh na hopihsak un. Italy gam panin a hong pai mite in note hong hopih-te hi.
 
 **Grammar:** plural: uh marker
 

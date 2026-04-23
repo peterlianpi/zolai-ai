@@ -27,9 +27,9 @@
 ### v1
 **EN:** And the
 
-**TDB77:** Tua ahih ciangin Topa in Aaron kiangah, “Nang leh na tapate leh na behte biakinn tawh kisai-in mawhna nang tawh pua khawm ding uh hi; nang leh na tapate in na siampi nasepna tawh kisai-in mawhna nang tawh na pua khawm ding uh hi.
+**TDB77:** Tua ahih ciangin Topa in Aaron kiangah, “Nang leh na tapate leh na behte biakinn tawh kisai-in mawhna nang tawh pua khawm ding-te hi; nang leh na tapate in na siampi nasepna tawh kisai-in mawhna nang tawh na pua khawm ding-te hi.
 
-**ZVS:** Tua ciangin { Topa } in Aaron kiangah, “Nang leh na tapate leh na behte in biakbuk sung nasepnate tawh kisai-in khialhna a om leh mawhna na puakhawm ding uh hi. Ahi zongin nang leh na tapate in na siampi nasepna uh tawh kisai-in khialhna a om leh no teng bek in mawhna na pua ding uh hi.
+**ZVS:** Tua ciangin { Topa } in Aaron kiangah, “Nang leh na tapate leh na behte in biakbuk sung nasepnate tawh kisai-in khialhna a om leh mawhna na puakhawm ding-te hi. Ahi zongin nang leh na tapate in na siampi nasepna-te tawh kisai-in khialhna a om leh no teng bek in mawhna na pua ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -45,45 +45,45 @@
 ### v3
 **EN:** And they shall keep thy charge, and the charge of all the tabernacle: only they shall not come nigh the vessels of the sanctuary and the altar, that neither they, nor ye also, die.
 
-**TDB77:** Amaute in note hong huhin puanbuk nasep khempeuh sem ding uh hi; ahih hangin note leh amaute si kha ding na hih ciangun biakinn nazatte leh biakna tau kiangah pai lo ding uh hi.
+**TDB77:** Amaute in note hong huhin puanbuk nasep khempeuh sem ding-te hi; ahih hangin note leh amaute si kha ding na hih ciangun biakinn nazatte leh biakna tau kiangah pai lo ding-te hi.
 
-**ZVS:** Amaute in note hong huhin puanbuk nasep khempeuh sem ding uh a, ahih hangin note leh amaute si khading na hih ciangun biakbuk nazatte leh biakna tau-ah na hong seppihlo ding uh hi.
+**ZVS:** Amaute in note hong huhin puanbuk nasep khempeuh sem ding-te a, ahih hangin note leh amaute si khading na hih ciangun biakbuk nazatte leh biakna tau-ah na hong seppihlo ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And they shall be joined unto thee, and keep the charge of the tabernacle of the congregation, for all the service of the tabernacle: and a stranger shall not come nigh unto you.
 
-**TDB77:** Amaute in note hong pawlin, kikhopna buk vaan-in puanbuk nasep khempeuh sem ding uh hi; note kiangah mi dang kuamah hong pai lo ding hi.
+**TDB77:** Amaute in note hong pawlin, kikhopna buk vaan-in puanbuk nasep khempeuh sem ding-te hi; note kiangah mi dang kuamah hong pai lo ding hi.
 
-**ZVS:** Amaute in note hong pawlin, kikhopna buk vaanin puanbuk nasep khempeuh sem ding uh a, note' nasepte midang kuamah in hong seppih theilo ding hi.
+**ZVS:** Amaute in note hong pawlin, kikhopna buk vaanin puanbuk nasep khempeuh sem ding-te a, note' nasepte midang kuamah in hong seppih theilo ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And ye shall keep the charge of the sanctuary, and the charge of the altar: that there be no wrath any more upon the children of Israel.
 
-**TDB77:** Israel mite tungah hehna a a om nawn loh nadingin biakinn nasep leh biakna tau nasep note in na sem ding uh hi.
+**TDB77:** Israel mite tungah hehna a a om nawn loh nadingin biakinn nasep leh biakna tau nasep note in na sem ding-te hi.
 
-**ZVS:** Israel mite tungah hehna a om nawnlohna dingin biakbuk nasep leh biakna tau nasep note in na sem ding uh hi.
+**ZVS:** Israel mite tungah hehna a om nawnlohna dingin biakbuk nasep leh biakna tau nasep note in na sem ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v6
 **EN:** And I, behold, I have taken your brethren the Levites from among the children of Israel: to you they are given as a gift for the
 
-**TDB77:** En un, Israel mite kiang panin na sanggam uh Levi mite ka la khin hi; amaute pen kikhopna buk nasep a sem dingin Topa tungah a kipia, note tungah letsong ahi hi.
+**TDB77:** En un, Israel mite kiang panin na sanggam-te Levi mite ka la khin hi; amaute pen kikhopna buk nasep a sem dingin Topa tungah a kipia, note tungah letsong ahi hi.
 
-**ZVS:** En un, Israel mite kiang panin na sanggam uh Levi mite ka la khin a, amaute pen kikhopna buk nasep a sem dingin { Topa' } tungah a kipia, note' tungah letsong ahi hi.
+**ZVS:** En un, Israel mite kiang panin na sanggam-te Levi mite ka la khin a, amaute pen kikhopna buk nasep a sem dingin { Topa' } tungah a kipia, note' tungah letsong ahi hi.
 
 **Grammar:** purpose: in order to | completed: already done | reciprocal: ki- prefix
 
 ### v7
 **EN:** Therefore thou and thy sons with thee shall keep your priest's office for every thing of the altar, and within the veil; and ye shall serve: I have given your priest's office unto you as a service of gift: and the stranger that cometh nigh shall be put to death.
 
-**TDB77:** Nang leh na tapate in biakna tau tawh kisai nate leh dalna puan sunga om nate khempeuhah na siampi nasep uh na sem ding uh hi; na siampi nasep uh letsongin kong piak hi a, a nai-ah hong pai midang peuhmah kithat ding hi,” a ci hi.
+**TDB77:** Nang leh na tapate in biakna tau tawh kisai nate leh dalna puan sunga om nate khempeuhah na siampi nasep-te na sem ding-te hi; na siampi nasep-te letsongin kong piak hi a, a nai-ah hong pai midang peuhmah kithat ding hi,” a ci hi.
 
-**ZVS:** Nang leh na tapate in biakna tau tawh kisai nate leh dalna puan sunga om nate khempeuhah na siampi nasep uh na sem ding uh hi. Na siampi nasep uh letsongin kong piak hi a, midangte in hong sep leh kithat ding hi,” a ci hi.
+**ZVS:** Nang leh na tapate in biakna tau tawh kisai nate leh dalna puan sunga om nate khempeuhah na siampi nasep-te na sem ding-te hi. Na siampi nasep-te letsongin kong piak hi a, midangte in hong sep leh kithat ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -108,18 +108,18 @@
 ### v10
 **EN:** In the most holy place shalt thou eat it; every male shall eat it: it shall be holy unto thee.
 
-**TDB77:** A siangtho pen mun khatah na ne ding uh hi; pasal peuhmah in ne thei ding hi; note’ adingin a siangtho ahi hi.
+**TDB77:** A siangtho pen mun khatah na ne ding-te hi; pasal peuhmah in ne thei ding hi; note’ adingin a siangtho ahi hi.
 
-**ZVS:** A siangtho pen mun khatah na ne ding uh hi. Pasal peuhmah in ne thei ding hi; note-a' dingin a siangtho ahi hi.
+**ZVS:** A siangtho pen mun khatah na ne ding-te hi. Pasal peuhmah in ne thei ding hi; note-a' dingin a siangtho ahi hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v11
 **EN:** And this is thine; the heave offering of their gift, with all the wave offerings of the children of Israel: I have given them unto thee, and to thy sons and to thy daughters with thee, by a statute for ever: every one that is clean in thy house shall eat of it.
 
-**TDB77:** Amau’ letsong biakna, Israel mite in veii-a biaknate khempeuh uh zong nomau aa ahi hi; nang leh na tapate leh na tanute kaih tawntung dingin tuate kong pia hi; na inn sunga om a siangtho mi peuhpeuh in ne thei ding hi.
+**TDB77:** Amau’ letsong biakna, Israel mite in veii-a biaknate khempeuh-te zong nomau aa ahi hi; nang leh na tapate leh na tanute kaih tawntung dingin tuate kong pia hi; na inn sunga om a siangtho mi peuhpeuh in ne thei ding hi.
 
-**ZVS:** “Amau' letsong biakna, Israel mite in vei-a a biaknate khempeuh uh zong nomau-a' ahi hi. Nang leh na tapate leh na tanute' kaih tawntung dingin tuate kong pia hi. Na inn sunga om a siangtho mi peuhpeuh in ne thei ding hi.
+**ZVS:** “Amau' letsong biakna, Israel mite in vei-a a biaknate khempeuh-te zong nomau-a' ahi hi. Nang leh na tapate leh na tanute' kaih tawntung dingin tuate kong pia hi. Na inn sunga om a siangtho mi peuhpeuh in ne thei ding hi.
 
 **Grammar:** purpose: in order to | future: will
 
@@ -151,25 +151,25 @@
 ### v15
 **EN:** Every thing that openeth the matrix in all flesh, which they bring unto the
 
-**TDB77:** Mihing leh ganhing khempeuh sung panin naubu a hong, amaute in Topa tungah a piakte khempeuh uh, mihing hita leh ganhing hita leh, nomau aa hi ding hi; ahi zongin mihing tacil na tankhia ding uh a, ganhing tacil zong na tankhia ding uh hi.
+**TDB77:** Mihing leh ganhing khempeuh sung panin naubu a hong, amaute in Topa tungah a piakte khempeuh uh, mihing hita leh ganhing hita leh, nomau aa hi ding hi; ahi zongin mihing tacil na tankhia ding-te a, ganhing tacil zong na tankhia ding-te hi.
 
-**ZVS:** “Mihing leh ganhing khempeuh sung panin { Topa' } tungah mite in a piak tacil khempeuh, mihing hita leh ganhing hita leh, nomau-a' hi ding hi. Ahi zongin mihing tacil na tankhia ding uh a, ganhing nin tacil zong na tankhia ding uh hi.
+**ZVS:** “Mihing leh ganhing khempeuh sung panin { Topa' } tungah mite in a piak tacil khempeuh, mihing hita leh ganhing hita leh, nomau-a' hi ding hi. Ahi zongin mihing tacil na tankhia ding-te a, ganhing nin tacil zong na tankhia ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v16
 **EN:** And those that are to be redeemed from a month old shalt thou redeem, according to thine estimation, for the money of five shekels, after the shekel of the sanctuary, which is twenty gerahs.
 
-**TDB77:** Tuate a kitatna man (kha khat a phak ciangin tuate na tankhia ding uh hi) gerah sawmnih a pha biakinn shekel tawh kizui-in ngun shekel nga-in na seh ding uh hi.
+**TDB77:** Tuate a kitatna man (kha khat a phak ciangin tuate na tankhia ding-te hi) gerah sawmnih a pha biakinn shekel tawh kizui-in ngun shekel nga-in na seh ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** But the firstling of a cow, or the firstling of a sheep, or the firstling of a goat, thou shalt not redeem; they are holy: thou shalt sprinkle their blood upon the altar, and shalt burn their fat for an offering made by fire, for a sweet savour unto the
 
-**TDB77:** Ahih hangin bawng tacil, ahih kei leh tuu tacil, ahi kei leh keel tacilte na tan kei ding uh hi; tuate siangtho hi. Biakna tau tungah tuate’ si na theh ding uh a, Topa tungah gim namtui, mei tawh kihal biakna-in tuate’ thau na hal ding uh hi;
+**TDB77:** Ahih hangin bawng tacil, ahih kei leh tuu tacil, ahi kei leh keel tacilte na tan kei ding-te hi; tuate siangtho hi. Biakna tau tungah tuate’ si na theh ding-te a, Topa tungah gim namtui, mei tawh kihal biakna-in tuate’ thau na hal ding-te hi;
 
-**ZVS:** Ahih hangin bawng tacil, ahih kei leh tuu tacil, ahih kei leh keel tacilte na tan kei ding uh hi; tuate a siangtho ahi hi. Biakna tau tungah tuate' si na theh ding uh a, { Topa' } tungah a gim namtui, mei tawh kihal biakna-in tuate' thau na hal ding uh hi.
+**ZVS:** Ahih hangin bawng tacil, ahih kei leh tuu tacil, ahih kei leh keel tacilte na tan kei ding-te hi; tuate a siangtho ahi hi. Biakna tau tungah tuate' si na theh ding-te a, { Topa' } tungah a gim namtui, mei tawh kihal biakna-in tuate' thau na hal ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -212,27 +212,27 @@
 ### v22
 **EN:** Neither must the children of Israel henceforth come nigh the tabernacle of the congregation, lest they bear sin, and die.
 
-**TDB77:** Amaute in khialhna thuakin si kha ding uh ahih manin tu-a kipan kikhopna buk kiangah Israel mite pai lo ding uh hi.
+**TDB77:** Amaute in khialhna thuakin si kha ding-te ahih manin tu-a kipan kikhopna buk kiangah Israel mite pai lo ding-te hi.
 
-**ZVS:** Amaute in khialhna thuakin si khading uh ahih manin, tu-a kipanin kikhopna buk sungah Israel midangte pai-in tua sawmah khat nekpihlo ding uh hi.
+**ZVS:** Amaute in khialhna thuakin si khading-te ahih manin, tu-a kipanin kikhopna buk sungah Israel midangte pai-in tua sawmah khat nekpihlo ding-te hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** But the Levites shall do the service of the tabernacle of the congregation, and they shall bear their iniquity: it shall be a statute for ever throughout your generations, that among the children of Israel they have no inheritance.
 
-**TDB77:** Ahih hangin Levi mite in kikhopna buk nasep sem ding uh a, amaute in a mawhna uh pua ding uh hi; tua in amau’ khang tawntungin tawntung ngeina hi ding hi; amaute in Israel mite lakah luah nei lo ding uh hi.
+**TDB77:** Ahih hangin Levi mite in kikhopna buk nasep sem ding-te a, amaute in a mawhna-te pua ding-te hi; tua in amau’ khang tawntungin tawntung ngeina hi ding hi; amaute in Israel mite lakah luah nei lo ding-te hi.
 
-**ZVS:** Ahih hangin Levi mite in kikhopna buk nasep sem ding uh a, amaute in a tavuan uh pua ding uh hi. Tua pen amau' khang tawntungin ngeina kip hi ding a, amaute in Israel mite' lakah luah neilo ding uh hi.
+**ZVS:** Ahih hangin Levi mite in kikhopna buk nasep sem ding-te a, amaute in a tavuan-te pua ding-te hi. Tua pen amau' khang tawntungin ngeina kip hi ding a, amaute in Israel mite' lakah luah neilo ding-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** But the tithes of the children of Israel, which they offer as an heave offering unto the
 
-**TDB77:** Bang hang hiam cih leh amaute in biakna-in Topa tungah a piak uh Israel mite’ sehsawm suah sehkhat pen Levi mite tungah luah dingin ka pia khin hi; tua ahih ciangin Israel mite lakah amaute in luah a neih loh ding uh ka gensa ahi hi,” a ci hi.
+**TDB77:** Bang hang hiam cih leh amaute in biakna-in Topa tungah a piak-te Israel mite’ sehsawm suah sehkhat pen Levi mite tungah luah dingin ka pia khin hi; tua ahih ciangin Israel mite lakah amaute in luah a neih loh ding-te ka gensa ahi hi,” a ci hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in biakna-in { Topa' } tungah a piak uh Israel mite' sawmah khat pen Levi mite tungah luah dingin ka pia khin hi. Tua ahih ciangin Israel mite lakah amaute in luah a neihloh ding uh ka gensa ahi hi,” a ci hi.
+**ZVS:** Bang hang hiam cih leh amaute in biakna-in { Topa' } tungah a piak-te Israel mite' sawmah khat pen Levi mite tungah luah dingin ka pia khin hi. Tua ahih ciangin Israel mite lakah amaute in luah a neihloh ding-te ka gensa ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | completed: already done | plural: uh marker
 
@@ -248,9 +248,9 @@
 ### v26
 **EN:** Thus speak unto the Levites, and say unto them, When ye take of the children of Israel the tithes which I have given you from them for your inheritance, then ye shall offer up an heave offering of it for the
 
-**TDB77:** “Levi mite kiangah hih bangin na gen lai ding hi: “Note luah dingin amaute’ tung panin kong piak ahi sehsawm suah sehkhat Israel mite tung panin na lak uh ciangin, tua sung panin Topa tungah biakna, sehsawm suah sehkhat sung pan sehsawm suah sehkhat na pia sawn ding uh hi.
+**TDB77:** “Levi mite kiangah hih bangin na gen lai ding hi: “Note luah dingin amaute’ tung panin kong piak ahi sehsawm suah sehkhat Israel mite tung panin na lak-te ciangin, tua sung panin Topa tungah biakna, sehsawm suah sehkhat sung pan sehsawm suah sehkhat na pia sawn ding-te hi.
 
-**ZVS:** “Levi mite kiangah hih bangin na gen lai ding hi: ‘Note' luah dingin amaute' tung panin kong piak sawmah khat, Israel mite' tung panin na lak uh ciangin, tua sung panin { Topa' } tungah biakna, sawmah khat sung pan sawmah khat na pia sawn ding uh hi.
+**ZVS:** “Levi mite kiangah hih bangin na gen lai ding hi: ‘Note' luah dingin amaute' tung panin kong piak sawmah khat, Israel mite' tung panin na lak-te ciangin, tua sung panin { Topa' } tungah biakna, sawmah khat sung pan sawmah khat na pia sawn ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -266,45 +266,45 @@
 ### v28
 **EN:** Thus ye also shall offer an heave offering unto the
 
-**TDB77:** Tua ahih ciangin Israel mite tung panin na ngah uh sehsawm suah sehkhat khempeuh tung panin Topa tungah biakna na pia ding uh hi; tua sung panin siampi Aaron’ tungah Topa a kibiakna na pia ding uh hi.
+**TDB77:** Tua ahih ciangin Israel mite tung panin na ngah-te sehsawm suah sehkhat khempeuh tung panin Topa tungah biakna na pia ding-te hi; tua sung panin siampi Aaron’ tungah Topa a kibiakna na pia ding-te hi.
 
-**ZVS:** Tua ahih ciangin Israel mite' tung panin na ngah uh sawmah khat khempeuh tung panin { Topa' } tungah biakna na pia ding uh hi. Tua bangin siampi Aaron' tungah { Topa } a kibiakna na pia ding uh hi.
+**ZVS:** Tua ahih ciangin Israel mite' tung panin na ngah-te sawmah khat khempeuh tung panin { Topa' } tungah biakna na pia ding-te hi. Tua bangin siampi Aaron' tungah { Topa } a kibiakna na pia ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** Out of all your gifts ye shall offer every heave offering of the
 
-**TDB77:** Note tungah hong kipia letsong lakah a limci pen, a siangtho pen paipihin Topa adingin biakna khempeuh na pia ding uh hi,’ ci-in gen in.
+**TDB77:** Note tungah hong kipia letsong lakah a limci pen, a siangtho pen paipihin Topa adingin biakna khempeuh na pia ding-te hi,’ ci-in gen in.
 
-**ZVS:** Note tungah hong kipia letsong lakah a limci pen, a siangtho pen paipihin { Topa}-a' ding biakna khempeuh na pia ding uh hi,’ ci-in gen in.
+**ZVS:** Note tungah hong kipia letsong lakah a limci pen, a siangtho pen paipihin { Topa}-a' ding biakna khempeuh na pia ding-te hi,’ ci-in gen in.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** Therefore thou shalt say unto them, When ye have heaved the best thereof from it, then it shall be counted unto the Levites as the increase of the threshingfloor, and as the increase of the winepress.
 
-**TDB77:** Tua ahih ciangin amaute kiangah, ‘Tuate sung panin a limci pen teng na piak khit uh ciangin, a om lai teng Levi mite’ adingin ancilna pana piangte leh leenggah sukna pana piangte a kipia mah bangin kiciamteh ding hi;
+**TDB77:** Tua ahih ciangin amaute kiangah, ‘Tuate sung panin a limci pen teng na piak khit-te ciangin, a om lai teng Levi mite’ adingin ancilna pana piangte leh leenggah sukna pana piangte a kipia mah bangin kiciamteh ding hi;
 
-**ZVS:** Tua ahih ciangin amaute kiangah, ‘Tuate sung panin a limci pen teng na piak khit uh ciangin, a omlai teng Levi mite-a' dingin ancilna panin a piangte leh leenggah sukna panin a piangte a kipia mah bangin kiciamteh ding hi.
+**ZVS:** Tua ahih ciangin amaute kiangah, ‘Tuate sung panin a limci pen teng na piak khit-te ciangin, a omlai teng Levi mite-a' dingin ancilna panin a piangte leh leenggah sukna panin a piangte a kipia mah bangin kiciamteh ding hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v31
 **EN:** And ye shall eat it in every place, ye and your households: for it is your reward for your service in the tabernacle of the congregation.
 
-**TDB77:** mun khatpeuh peuh ah na ne thei ding uh hi, nang leh na innkuanpihte in na ne thei ding uh hi; bang hang hiam cih leh tua in kikhopna buk sungah note’ nasepna thaman ahi hi.
+**TDB77:** mun khatpeuh peuh ah na ne thei ding-te hi, nang leh na innkuanpihte in na ne thei ding-te hi; bang hang hiam cih leh tua in kikhopna buk sungah note’ nasepna thaman ahi hi.
 
-**ZVS:** Nang leh na innkuanpihte in mun khat peuhpeuhah na ne thei ding uh hi; bang hang hiam cih leh tua pen kikhopna buk sungah note' nasepna thaman ahi hi.
+**ZVS:** Nang leh na innkuanpihte in mun khat peuhpeuhah na ne thei ding-te hi; bang hang hiam cih leh tua pen kikhopna buk sungah note' nasepna thaman ahi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And ye shall bear no sin by reason of it, when ye have heaved from it the best of it: neither shall ye pollute the holy things of the children of Israel, lest ye die.
 
-**TDB77:** Tua sung panin a limci pen na piak nak uh leh tua thu hangin mawhsakna na thuak kei ding uh hi. Israel mite’ na a siangthote na nin sak kei ding uh hi, na ninsak uh leh na si ding uh hi,’ ci-in gen in,” a ci hi.
+**TDB77:** Tua sung panin a limci pen na piak nak-te leh tua thu hangin mawhsakna na thuak kei ding-te hi. Israel mite’ na a siangthote na nin sak kei ding-te hi, na ninsak-te leh na si ding-te hi,’ ci-in gen in,” a ci hi.
 
-**ZVS:** Tua sung panin a limci pen na piak nak uh leh tua thu hangin mawhsakna na thuak kei ding uh hi. Israel mite' na a siangthote na ninsak kei ding uh hi. Na nitsak uh leh na si ding uh hi,’ ci-in gen in,” a ci hi.
+**ZVS:** Tua sung panin a limci pen na piak nak-te leh tua thu hangin mawhsakna na thuak kei ding-te hi. Israel mite' na a siangthote na ninsak kei ding-te hi. Na nitsak-te leh na si ding-te hi,’ ci-in gen in,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 

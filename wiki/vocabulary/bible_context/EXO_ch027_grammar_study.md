@@ -201,9 +201,9 @@
 ### v21
 **EN:** In the tabernacle of the congregation without the veil, which is before the testimony, Aaron and his sons shall order it from evening to morning before the
 
-**TDB77:** Kikhopna buk sung, tecipan’na mai-a dalna puan pua lam-ah, Aaron leh ama' tapate in nitak-a kipan zingsang dong Topa’ mai-ah meivakte kuangsak ding uh hi. Tua pen, Israel mite in amau' khang tawntungin a zuih ding uh ngeina kip khat hi ding hi.
+**TDB77:** Kikhopna buk sung, tecipan’na mai-a dalna puan pua lam-ah, Aaron leh ama' tapate in nitak-a kipan zingsang dong Topa’ mai-ah meivakte kuangsak ding-te hi. Tua pen, Israel mite in amau' khang tawntungin a zuih ding-te ngeina kip khat hi ding hi.
 
-**ZVS:** Kikhopna buk sung, thuciamna singkuang mai-a dalna puan pualamah, Aaron leh ama tapate in nitak-a kipan zingsang dong { Topa' } mai-ah vil ding uh hi. Tua pen Israel mite in amau' khang tawntungin a zuih ding uh ngeina kip khat hi ding hi.
+**ZVS:** Kikhopna buk sung, thuciamna singkuang mai-a dalna puan pualamah, Aaron leh ama tapate in nitak-a kipan zingsang dong { Topa' } mai-ah vil ding-te hi. Tua pen Israel mite in amau' khang tawntungin a zuih ding-te ngeina kip khat hi ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

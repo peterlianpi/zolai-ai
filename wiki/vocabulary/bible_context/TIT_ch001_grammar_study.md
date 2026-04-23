@@ -52,9 +52,9 @@
 ### v6
 **EN:** If any be blameless, the husband of one wife, having faithful children not accused of riot or unruly.
 
-**TDB77:** Upate in mawhsak nading tawh a kipelh mi, zi khat bek a nei mi, a tate zong thu-um mi hi-in, leitung nopsakna-ah uang lua hi ci-in mawhsakna a nei lo, thumang lo mi hi lo ding uh hi.
+**TDB77:** Upate in mawhsak nading tawh a kipelh mi, zi khat bek a nei mi, a tate zong thu-um mi hi-in, leitung nopsakna-ah uang lua hi ci-in mawhsakna a nei lo, thumang lo mi hi lo ding-te hi.
 
-**ZVS:** Upate pen paubaan'na a omlote hi ding a, zi khat bek nei-in, a tate zong thu um mi hi-in, a thumanglo, a phengtat gawpte hilo ding uh hi.
+**ZVS:** Upate pen paubaan'na a omlote hi ding a, zi khat bek nei-in, a tate zong thu um mi hi-in, a thumanglo, a phengtat gawpte hilo ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -72,7 +72,7 @@
 
 **TDB77:** Zindo a siam thei mi, a hoih lam a deih mi, khuaval zulhtat lo mi, a dik mi, a siangtho mi, a pumpi a kikeem zo mi ahi ding hi.
 
-**ZVS:** zinleleeng do a siam mi, thuhoih a deih mi, a pumpi a ki-ukzo mi, a thutang mi, a siangtho mi, leh a kisekzo mi hi ding uh hi.
+**ZVS:** zinleleeng do a siam mi, thuhoih a deih mi, a pumpi a ki-ukzo mi, a thutang mi, a siangtho mi, leh a kisekzo mi hi ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -81,34 +81,34 @@
 
 **TDB77:** Tua tham loin, amah in thuhilhna siangtho tawh hansuah theih nading ahi zongin, a nial mite kam a thukkik theih nading ahi zongin, thuhilhna thu tawh kilawm dikna kam a zui tawntung mi ahi ding hi.
 
-**ZVS:** Upna bulpi tawh a kituak thute limtakin lenkip ding uh hi. Tua hi leh thuhilhna man tawh midangte hanthawn thei ding uh a, thuman a nial mite' khialhna zong laktel thei ding uh hi.
+**ZVS:** Upna bulpi tawh a kituak thute limtakin lenkip ding-te hi. Tua hi leh thuhilhna man tawh midangte hanthawn thei ding-te a, thuman a nial mite' khialhna zong laktel thei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v10
 **EN:** For there are many unruly and vain talkers and deceivers, specially they of the circumcision:
 
-**TDB77:** Bang hang hiam na cih leh, ukna mang loin, mawkna kam genin midangte a kheem thei mi tampi om uh hi; vunatna a thuak mite lakah a om thei bel uh hi.
+**TDB77:** Bang hang hiam na cih leh, ukna mang loin, mawkna kam genin midangte a kheem thei mi tampi om-te hi; vunatna a thuak mite lakah a om thei bel-te hi.
 
-**ZVS:** Bang hang hiam cih leh thu a manglo, thu a mawk gengen, mi a khem thei, a diakdiakin Jew ngeina bangin vun-atna ding thu a gen tampi tak a om uh hi.
+**ZVS:** Bang hang hiam cih leh thu a manglo, thu a mawk gengen, mi a khem thei, a diakdiakin Jew ngeina bangin vun-atna ding thu a gen tampi tak a om-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** Whose mouths must be stopped, who subvert whole houses, teaching things which they ought not, for filthy lucre's sake.
 
-**TDB77:** Tua mite kam kihu cip ding hi. Bang hang hiam na cih leh, amaute in sum siangtho lo hangin ahilh tuak lo thu hilhin, innkuanpih khempeuh lumlet thei uh hi.
+**TDB77:** Tua mite kam kihu cip ding hi. Bang hang hiam na cih leh, amaute in sum siangtho lo hangin ahilh tuak lo thu hilhin, innkuanpih khempeuh lumlet thei-te hi.
 
-**ZVS:** Sum ngahtheihna ding bekin a kilawm lopi-in thu hilhin biakna innkuan buppi nawngkaisak uh ahih manin thu a gen nawnlohna dingun khaktan ding ahi hi.
+**ZVS:** Sum ngahtheihna ding bekin a kilawm lopi-in thu hilhin biakna innkuan buppi nawngkaisak-te ahih manin thu a gen nawnlohna dingun khaktan ding ahi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** One of themselves, even a prophet of their own, said, The Cretans are alway liars, evil beasts, slow bellies.
 
-**TDB77:** Amau lakah amau mipawl ahi kamsangpa khat in: “Krete mite in a zuau thei mi, ganhing gilo, anhai thadah mi ahi uh hi,” a ci zo hi.
+**TDB77:** Amau lakah amau mipawl ahi kamsangpa khat in: “Krete mite in a zuau thei mi, ganhing gilo, anhai thadah mi ahi-te hi,” a ci zo hi.
 
-**ZVS:** Amau Krete gam mite sung panin a kamsang uh khat in, “Krete gam mite a zuauthei tawntung, ganhing bangin a gilo, a thadah a uisan mi ahi uh hi,” na ci hi.
+**ZVS:** Amau Krete gam mite sung panin a kamsang-te khat in, “Krete gam mite a zuauthei tawntung, ganhing bangin a gilo, a thadah a uisan mi ahi-te hi,” na ci hi.
 
 **Grammar:** plural: uh marker
 
@@ -129,18 +129,18 @@
 ### v15
 **EN:** Unto the pure all things are pure: but unto them that are defiled and unbelieving is nothing pure; but even their mind and conscience is defiled.
 
-**TDB77:** Mi siangtho mai-ah na khempeuh a siangtho hi. A siangtho lo leh thu-um lo mite mai-ah ahih leh, bangmah a siangtho kei hi; amaute lungsim uh leh amau lungsim-theihna uh zong a siangtho kei hi.
+**TDB77:** Mi siangtho mai-ah na khempeuh a siangtho hi. A siangtho lo leh thu-um lo mite mai-ah ahih leh, bangmah a siangtho kei hi; amaute lungsim-te leh amau lungsim-theihna-te zong a siangtho kei hi.
 
-**ZVS:** Lungsim siangthote-a' dingin na khempeuh a siang hi a, ahi zongin thu umlote a lungsim ngaihsutnate uh siakhin ahih manin amaute-a' dingin a siang bangmah omlo hi.
+**ZVS:** Lungsim siangthote-a' dingin na khempeuh a siang hi a, ahi zongin thu umlote a lungsim ngaihsutnate-te siakhin ahih manin amaute-a' dingin a siang bangmah omlo hi.
 
 **Grammar:** negation: kei
 
 ### v16
 **EN:** They profess that they know God; but in works they deny him, being abominable, and disobedient, and unto every good work reprobate.
 
-**TDB77:** Amaute in, “Pasian ka thei tel uh hi,” a cih uh hangin, a gamtatna uh tawh Pasian a nial uh hi. A kihhuai mi, thungai lo mi, nasepna hoih khat beek ah kiman’na om lo mi ahi uh hi.
+**TDB77:** Amaute in, “Pasian ka thei tel-te hi,” a cih-te hangin, a gamtatna-te tawh Pasian a nial-te hi. A kihhuai mi, thungai lo mi, nasepna hoih khat beek ah kiman’na om lo mi ahi-te hi.
 
-**ZVS:** Pasian a thei-in a kigen uh hangin a gamtatnate uh tawh kilehbulh hi. Amaute a muhthadahhuai, a thumanglo, na hoih sem dingin a kilawmna a omlo mite ahi uh hi.
+**ZVS:** Pasian a thei-in a kigen-te hangin a gamtatnate-te tawh kilehbulh hi. Amaute a muhthadahhuai, a thumanglo, na hoih sem dingin a kilawmna a omlo mite ahi-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 

@@ -35,9 +35,9 @@
 ### v2
 **EN:** Look unto Abraham your father, and unto Sarah that bare you: for I called him alone, and blessed him, and increased him.
 
-**TDB77:** Na pa uh Abraham leh note’ pian’na Sarah ngaihsun dih un; bang hang hiam cih leh khat bek ahih lai takin amah ka sam a, amah thupha pia-in tampi ka phasak hi.
+**TDB77:** Na pa-te Abraham leh note’ pian’na Sarah ngaihsun dih un; bang hang hiam cih leh khat bek ahih lai takin amah ka sam a, amah thupha pia-in tampi ka phasak hi.
 
-**ZVS:** Na pa uh Abraham leh note' pian'na Sarah ngaihsun dih un. Bang hang hiam cih leh khat bek ahih laitakin amah ka samkhia a, amah thupha pia-in tampi ka phasak hi.
+**ZVS:** Na pa-te Abraham leh note' pian'na Sarah ngaihsun dih un. Bang hang hiam cih leh khat bek ahih laitakin amah ka samkhia a, amah thupha pia-in tampi ka phasak hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -62,16 +62,16 @@
 ### v5
 **EN:** My righteousness is near; my salvation is gone forth, and mine arms shall judge the people; the isles shall wait upon me, and on mine arm shall they trust.
 
-**TDB77:** Manlangin hong pai-in amaute ka honkhia ding hi. Ka gualzawh ding hun hong naita hi. Keimah in minamte ka uk ding hi. Tuipi gei-a gamte in kei hong muang uh a, amaute in keima hotkhiat ding hong ngak uh hi.
+**TDB77:** Manlangin hong pai-in amaute ka honkhia ding hi. Ka gualzawh ding hun hong naita hi. Keimah in minamte ka uk ding hi. Tuipi gei-a gamte in kei hong muang-te a, amaute in keima hotkhiat ding hong ngak-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v6
 **EN:** Lift up your eyes to the heavens, and look upon the earth beneath: for the heavens shall vanish away like smoke, and the earth shall wax old like a garment, and they that dwell therein shall die in like manner: but my salvation shall be for ever, and my righteousness shall not be abolished.
 
-**TDB77:** Dakto-in vantungte en un la, leitung zong ensuk un; bang hang hiam cih leh vantungte in meikhu bangin mangthang-in, leitung in puan bangin paatkhia ding a, ama tunga teengte pen thokang bangin si ding uh hi; ahih hangin keima hotkhiatna kip tawntung ding a, keima dikna bei ngei lo ding hi.
+**TDB77:** Dakto-in vantungte en un la, leitung zong ensuk un; bang hang hiam cih leh vantungte in meikhu bangin mangthang-in, leitung in puan bangin paatkhia ding a, ama tunga teengte pen thokang bangin si ding-te hi; ahih hangin keima hotkhiatna kip tawntung ding a, keima dikna bei ngei lo ding hi.
 
-**ZVS:** Dakto-in vantungte en un la, leitung zong ensuk un. Bang hang hiam cih leh meikhu bangin vantungte mangthang hi. Puan bangin leitung paatkhia ding a, ama tunga tengte pen thokang bangin si ding uh hi. Ahih hangin keima hotkhiatna kip tawntung ding a, keima khahkhiatna bei ngeilo ding hi.
+**ZVS:** Dakto-in vantungte en un la, leitung zong ensuk un. Bang hang hiam cih leh meikhu bangin vantungte mangthang hi. Puan bangin leitung paatkhia ding a, ama tunga tengte pen thokang bangin si ding-te hi. Ahih hangin keima hotkhiatna kip tawntung ding a, keima khahkhiatna bei ngeilo ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -89,7 +89,7 @@
 
 **TDB77:** Bang hang hiam cih leh nget in puan a nektum bangin amaute beimang ding a, lungno in samul puan a pehtum bangin amaute maimang ding hi; ahih hangin keima dikna om tawntung ding a, khang tawntungin ka hotkhiatna kip ding hi.”
 
-**ZVS:** Bang hang hiam cih leh nget in puan a nektum bangin amaute beimang ding a, lungno in samul puan a pehtum bangin amaute maimang ding uh hi. Ahih hangin keima khahkhiatna om tawntung ding a, khang tawntungin ka hotkhiatna kip ding hi,” a ci hi.
+**ZVS:** Bang hang hiam cih leh nget in puan a nektum bangin amaute beimang ding a, lungno in samul puan a pehtum bangin amaute maimang ding-te hi. Ahih hangin keima khahkhiatna om tawntung ding a, khang tawntungin ka hotkhiatna kip ding hi,” a ci hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -112,36 +112,36 @@
 ### v11
 **EN:** Therefore the redeemed of the
 
-**TDB77:** Topa tatsa mi a kithehthangte hong ciahkik ding a, lasakna tawh Zion ah hong pai ding uh hi; amaute, lungdam tawntung ding uh a, amaute in lungdamna leh kipakna ngahin dahna leh khuisatna nei nawn lo ding uh hi.
+**TDB77:** Topa tatsa mi a kithehthangte hong ciahkik ding a, lasakna tawh Zion ah hong pai ding-te hi; amaute, lungdam tawntung ding-te a, amaute in lungdamna leh kipakna ngahin dahna leh khuisatna nei nawn lo ding-te hi.
 
-**ZVS:** { Topa}' mi a kithehthangte hong ciahkik ding a, lasakna tawh Zion-ah hong pai ding uh hi. A tawntungin amaute lungdam ding uh a, amaute in lungdamna leh kipakna ngahin, dahna leh khuisatna nei nawnlo ding uh hi.
+**ZVS:** { Topa}' mi a kithehthangte hong ciahkik ding a, lasakna tawh Zion-ah hong pai ding-te hi. A tawntungin amaute lungdam ding-te a, amaute in lungdamna leh kipakna ngahin, dahna leh khuisatna nei nawnlo ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** I, even I, am he that comforteth you: who art thou, that thou shouldest be afraid of a man that shall die, and of the son of man which shall be made as grass;
 
-**TDB77:** “Kei, keimah in note hong hehnempa ka hi hi; lopa bang ahi, a si thei mi, mihing tate lellelte bang hangin kihta na hi uh hiam?
+**TDB77:** “Kei, keimah in note hong hehnempa ka hi hi; lopa bang ahi, a si thei mi, mihing tate lellelte bang hangin kihta na hi-te hiam?
 
-**ZVS:** { Topa } in, “Kei, keimah pen note hong hehnempa ka hi hi. Lopa sangin sauvei a nungta zaw tuanlo, mihing lellelte, bang hangin kihta na hi uh hiam?
+**ZVS:** { Topa } in, “Kei, keimah pen note hong hehnempa ka hi hi. Lopa sangin sauvei a nungta zaw tuanlo, mihing lellelte, bang hangin kihta na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v13
 **EN:** And forgettest the
 
-**TDB77:** Vantungte zal-in, lei bulpite a koih note a hong bawl Topa hong mangngilh khin ta na hi uh hiam? Note hong susia dingin a kithawi, no a hong nengniamte’ hehna, bang hangin kihta-in om tawntung na hi uh hiam? Amaute’ hehna in note hong sukha zo het lo ding hi.
+**TDB77:** Vantungte zal-in, lei bulpite a koih note a hong bawl Topa hong mangngilh khin ta na hi-te hiam? Note hong susia dingin a kithawi, no a hong nengniamte’ hehna, bang hangin kihta-in om tawntung na hi-te hiam? Amaute’ hehna in note hong sukha zo het lo ding hi.
 
-**ZVS:** Vantungte zalin, lei bulpite a koih, note a hong bawl { Topa} hong mangngilh khinta na hi uh hiam? Note susia dingin a kithawi, no a hong nengniamte' hehna, bang hangin kihta-in lau tawntung na hi uh hiam? Amaute' hehna in note hong susiazo hetlo ding hi.
+**ZVS:** Vantungte zalin, lei bulpite a koih, note a hong bawl { Topa} hong mangngilh khinta na hi-te hiam? Note susia dingin a kithawi, no a hong nengniamte' hehna, bang hangin kihta-in lau tawntung na hi-te hiam? Amaute' hehna in note hong susiazo hetlo ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | completed: already done | future: will | reciprocal: ki- prefix
 
 ### v14
 **EN:** The captive exile hasteneth that he may be loosed, and that he should not die in the pit, nor that his bread should fail.
 
-**TDB77:** Thong sunga kikhum mite kikhah baih ding hi; amaute sau veipi nungta ding uh a, annek tuidawn kitasam lo ding uh hi.
+**TDB77:** Thong sunga kikhum mite kikhah baih ding hi; amaute sau veipi nungta ding-te a, annek tuidawn kitasam lo ding-te hi.
 
-**ZVS:** Thong sunga kikhum mite kikhah baih ding hi. Amaute sauveipi nungta ding uh a, annek tuidawn kitasamlo ding uh hi.
+**ZVS:** Thong sunga kikhum mite kikhah baih ding hi. Amaute sauveipi nungta ding-te a, annek tuidawn kitasamlo ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -189,9 +189,9 @@
 ### v20
 **EN:** Thy sons have fainted, they lie at the head of all the streets, as a wild bull in a net: they are full of the fury of the
 
-**TDB77:** Na mite gim khin a, ngenthang sunga sanang a awk bangin lamlian kiu khempeuh ah amaute lum uh hi; Topa’ hehna, na Pasian’ taiina amaute in thuak uh hi.
+**TDB77:** Na mite gim khin a, ngenthang sunga sanang a awk bangin lamlian kiu khempeuh ah amaute lum-te hi; Topa’ hehna, na Pasian’ taiina amaute in thuak-te hi.
 
-**ZVS:** Na mite gim khin a, ngenthang sungah a awk sanang bangin lam kiu khempeuhah amaute lum uh hi. { Topa}' hehna, na Pasian' taina amaute in a thuak uh hi.
+**ZVS:** Na mite gim khin a, ngenthang sungah a awk sanang bangin lam kiu khempeuhah amaute lum-te hi. { Topa}' hehna, na Pasian' taina amaute in a thuak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -207,18 +207,18 @@
 ### v22
 **EN:** Thus saith thy Lord the
 
-**TDB77:** Ama mite’ a hu Topa, Topa ahi, na Pasian in hih bangin ci hi: “En un, note’ khut sung panin hoina hai ka lakhia khin hi; ka hehna haipi na dawn nawn kei ding uh hi;
+**TDB77:** Ama mite’ a hu Topa, Topa ahi, na Pasian in hih bangin ci hi: “En un, note’ khut sung panin hoina hai ka lakhia khin hi; ka hehna haipi na dawn nawn kei ding-te hi;
 
-**ZVS:** Ama mite-a' dingin a thumsak { Topa}, { Topa } ahi note' Pasian in hih bangin ci hi: “En un, note' khutsung panin hoina hai ka lakhia khin a, ka hehna haipi na dawn nawn kei ding uh hi.
+**ZVS:** Ama mite-a' dingin a thumsak { Topa}, { Topa } ahi note' Pasian in hih bangin ci hi: “En un, note' khutsung panin hoina hai ka lakhia khin a, ka hehna haipi na dawn nawn kei ding-te hi.
 
 **Grammar:** quotative: said/saying | completed: already done | future: will | negation: kei | plural: uh marker
 
 ### v23
 **EN:** But I will put it into the hand of them that afflict thee; which have said to thy soul, Bow down, that we may go over: and thou hast laid thy body as the ground, and as the street, to them that went over.
 
-**TDB77:** note kiangah, ‘Na tung uhah kong pai theih nadingun kunsuk un,’ hong ci no hong bawlsiate’ khut sungah tua haipi ka koih ding hi; note in na nungzang uh lei lak bangin bawlin, amaute’ pai nadingin kongzing bangin na bawl khin uh hi,” a ci hi.
+**TDB77:** note kiangah, ‘Na tung uhah kong pai theih nadingun kunsuk un,’ hong ci no hong bawlsiate’ khut sungah tua haipi ka koih ding hi; note in na nungzang-te lei lak bangin bawlin, amaute’ pai nadingin kongzing bangin na bawl khin-te hi,” a ci hi.
 
-**ZVS:** Note kiangah, ‘Na tung uhah kong pai theihna dingun kunsuk un,’ a hong ci, no a hong bawlsiate' khutsungah tua haipi ka koih ding hi. Note in na nungzang uh leilak bangin bawlin, amaute' paina dingin kongzing lampi bangin na bawl khin uh hi,” a ci hi.
+**ZVS:** Note kiangah, ‘Na tung uhah kong pai theihna dingun kunsuk un,’ a hong ci, no a hong bawlsiate' khutsungah tua haipi ka koih ding hi. Note in na nungzang-te leilak bangin bawlin, amaute' paina dingin kongzing lampi bangin na bawl khin-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 

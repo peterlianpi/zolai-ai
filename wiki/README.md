@@ -220,7 +220,7 @@
 
 - Word order: **SOV** (Subject-Object-Verb)
 - Negation: `kei` not `lo` for conditionals (`nong pai kei a leh` — NEVER `kei a leh`)
-- Plural: never combine `uh` with `i` (we) — `I pai hi` ✅, `I pai uh hi` ❌
+- Plural: never combine `uh` with `i` (we) — `I pai hi` ✅, `I pai-te hi` ❌
 - `o` is always /oʊ/ — never pure /o/
 
 ---

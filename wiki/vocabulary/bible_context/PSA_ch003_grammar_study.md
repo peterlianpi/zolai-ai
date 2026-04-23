@@ -22,9 +22,9 @@
 ### v2
 **EN:** Many there be which say of my soul, There is no help for him in God. Selah.
 
-**TDB77:** “Pasian in amah huh lo ding,” mi tampi in hong ci uh hi.
+**TDB77:** “Pasian in amah huh lo ding,” mi tampi in hong ci-te hi.
 
-**ZVS:** Pasian in amah huhlo ding, mi tampi in hong ci uh hi.
+**ZVS:** Pasian in amah huhlo ding, mi tampi in hong ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 

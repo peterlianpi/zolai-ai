@@ -154,9 +154,9 @@
 ### v17
 **EN:** And Abner had communication with the elders of Israel, saying, Ye sought for David in times past to be king over you:
 
-**TDB77:** Tua ciangin Abner in Israel upate tawh thu kikumin, “A beisa tawlkhat sung teng note tungah kumpi dingin David na zong uh hi.
+**TDB77:** Tua ciangin Abner in Israel upate tawh thu kikumin, “A beisa tawlkhat sung teng note tungah kumpi dingin David na zong-te hi.
 
-**ZVS:** Tua ciangin Abner in Israel upate tawh thu kikumin, “A beisa tawlkhat sungteng note tungah kumpi dingin David na zong uh hi.
+**ZVS:** Tua ciangin Abner in Israel upate tawh thu kikumin, “A beisa tawlkhat sungteng note tungah kumpi dingin David na zong-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -172,9 +172,9 @@
 ### v19
 **EN:** And Abner also spake in the ears of Benjamin: and Abner went also to speak in the ears of David in Hebron all that seemed good to Israel, and that seemed good to the whole house of Benjamin.
 
-**TDB77:** Abner in Benjamin mite tungah zong thu gen hi; tua ciangin Israelte leh Benjamin mi khempeuh in tua bangin hih ding hoih hi, ci-in a ngaihsutna uh Hebron-a David kiangah a gen dingin Abner pai hi.
+**TDB77:** Abner in Benjamin mite tungah zong thu gen hi; tua ciangin Israelte leh Benjamin mi khempeuh in tua bangin hih ding hoih hi, ci-in a ngaihsutna-te Hebron-a David kiangah a gen dingin Abner pai hi.
 
-**ZVS:** Abner in Benjamin-te tungah zong thu gen hi. Tua ciangin Israel-te leh Benjamin-te khempeuh in tua bangin hih ding hoih hi, ci-in a ngaihsutna uh Hebron-a David' kiangah a gen dingin Abner a pai hi.
+**ZVS:** Abner in Benjamin-te tungah zong thu gen hi. Tua ciangin Israel-te leh Benjamin-te khempeuh in tua bangin hih ding hoih hi, ci-in a ngaihsutna-te Hebron-a David' kiangah a gen dingin Abner a pai hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | adjective: hoih (good) | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -199,9 +199,9 @@
 ### v22
 **EN:** And, behold, the servants of David and Joab came from pursuing a troop, and brought in a great spoil with them: but Abner was not with David in Hebron; for he had sent him away, and he was gone in peace.
 
-**TDB77:** Tua khit phetin a galsimna panun David’ nasemte Joab tawh hong tung uh a, amaute in na tampi hong ciahpih uh hi. A hih hangin Hebron khua sung David kiangah Abner na om lo hi; bang hang hiam cih leh David in amah sawlkhia khin a, amah lung nuamin pai khin zo hi.
+**TDB77:** Tua khit phetin a galsimna panun David’ nasemte Joab tawh hong tung-te a, amaute in na tampi hong ciahpih-te hi. A hih hangin Hebron khua sung David kiangah Abner na om lo hi; bang hang hiam cih leh David in amah sawlkhia khin a, amah lung nuamin pai khin zo hi.
 
-**ZVS:** Tua khit phetin a galsimna panun David' nasemte Joab tawh hong tung uh a, amaute in na tampi hong ciahpih uh hi. Ahih hangin Hebron khuasung David kiangah Abner na om nawnlo hi; bang hang hiam cih leh David in amah sawlkhia khin a, amah lungnuamin ciah khinzo hi.
+**ZVS:** Tua khit phetin a galsimna panun David' nasemte Joab tawh hong tung-te a, amaute in na tampi hong ciahpih-te hi. Ahih hangin Hebron khuasung David kiangah Abner na om nawnlo hi; bang hang hiam cih leh David in amah sawlkhia khin a, amah lungnuamin ciah khinzo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -235,9 +235,9 @@
 ### v26
 **EN:** And when Joab was come out from David, he sent messengers after Abner, which brought him again from the well of Sirah: but David knew it not.
 
-**TDB77:** David’ omna panin Joab a paikhiat ciangin, amah in Abner’ nungah kamtaite sawl a, amaute in Sirah tuibeem panin amah hong paipih kik uh hi; ahih hangin David in tua thu thei lo hi.
+**TDB77:** David’ omna panin Joab a paikhiat ciangin, amah in Abner’ nungah kamtaite sawl a, amaute in Sirah tuibeem panin amah hong paipih kik-te hi; ahih hangin David in tua thu thei lo hi.
 
-**ZVS:** David' omna panin Joab a paikhiat ciangin, amah in Abner' nungah kamtaite sawl a, amaute in Sirah Tuibem panin amah hong paipih kik uh hi. Ahih hangin David in tua thu theilo hi.
+**ZVS:** David' omna panin Joab a paikhiat ciangin, amah in Abner' nungah kamtaite sawl a, amaute in Sirah Tuibem panin amah hong paipih kik-te hi. Ahih hangin David in tua thu theilo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -271,27 +271,27 @@
 ### v30
 **EN:** So Joab and Abishai his brother slew Abner, because he had slain their brother Asahel at Gibeon in the battle.
 
-**TDB77:** Tua ahih ciangin Joab leh a sanggampa Abishai in Abner that uh hi; bang hang hiam cih leh amah in Gibeon-a gal kidona-ah a sanggampa uh Asahel thahsak hi.
+**TDB77:** Tua ahih ciangin Joab leh a sanggampa Abishai in Abner that-te hi; bang hang hiam cih leh amah in Gibeon-a gal kidona-ah a sanggampa-te Asahel thahsak hi.
 
-**ZVS:** Tua bangin Joab leh a sanggampa Abishai in Abner that uh hi; bang hang hiam cih leh amah in Gibeon-a galkidona-ah a sanggampa uh Asahel thahsak hi.
+**ZVS:** Tua bangin Joab leh a sanggampa Abishai in Abner that-te hi; bang hang hiam cih leh amah in Gibeon-a galkidona-ah a sanggampa-te Asahel thahsak hi.
 
 **Grammar:** causative: -sak suffix | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** And David said to Joab, and to all the people that were with him, Rend your clothes, and gird you with sackcloth, and mourn before Abner. And king David himself followed the bier.
 
-**TDB77:** Tua ciangin David in Joab leh amah tawh a om mi khempeuh kiangah, “Na puan uh balkeekin puanham silh un la, Abner’ mai-ah kap un,” a ci hi. Kumpipa David in hankuang zui hi.
+**TDB77:** Tua ciangin David in Joab leh amah tawh a om mi khempeuh kiangah, “Na puan-te balkeekin puanham silh un la, Abner’ mai-ah kap un,” a ci hi. Kumpipa David in hankuang zui hi.
 
-**ZVS:** Tua ciangin David in Joab leh amah tawh a om mi khempeuh kiangah, “Na puan uh balkekin puanhampi silh un la, Abner' mai-ah kap un,” a ci hi. Kumpipa David in hankuang a zui hi.
+**ZVS:** Tua ciangin David in Joab leh amah tawh a om mi khempeuh kiangah, “Na puan-te balkekin puanhampi silh un la, Abner' mai-ah kap un,” a ci hi. Kumpipa David in hankuang a zui hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
 ### v32
 **EN:** And they buried Abner in Hebron: and the king lifted up his voice, and wept at the grave of Abner; and all the people wept.
 
-**TDB77:** Amaute in Hebron ah Abner vui uh hi; tua ciangin Abner han-ah kumpipa a kap hi; tua ciangin mi khempeuh zong a kap uh hi.
+**TDB77:** Amaute in Hebron ah Abner vui-te hi; tua ciangin Abner han-ah kumpipa a kap hi; tua ciangin mi khempeuh zong a kap-te hi.
 
-**ZVS:** Amaute in Hebron-ah Abner vui uh a, Abner' hanah kumpipa a kap hi. Tua ciangin mi khempeuh zong a kap uh hi.
+**ZVS:** Amaute in Hebron-ah Abner vui-te a, Abner' hanah kumpipa a kap hi. Tua ciangin mi khempeuh zong a kap-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -307,45 +307,45 @@
 ### v34
 **EN:** Thy hands were not bound, nor thy feet put into fetters: as a man falleth before wicked men, so fellest thou. And all the people wept again over him.
 
-**TDB77:** Na khutte kihen lo hi, na khete kol kibulh lo hi; migilopa mai-ah mi khat a tuk bangin nang na tuk khin hi,” a ci hi. Tua ciangin mi khempeuh ama hangin kap kik uh hi.
+**TDB77:** Na khutte kihen lo hi, na khete kol kibulh lo hi; migilopa mai-ah mi khat a tuk bangin nang na tuk khin hi,” a ci hi. Tua ciangin mi khempeuh ama hangin kap kik-te hi.
 
-**ZVS:** Na khutte kihenlo a, na khete kol kibulhlo hi. Mi gilote' thah bangin nang na si hi,” a ci hi. Tua ciangin mi khempeuh ama hangin kap kik uh hi.
+**ZVS:** Na khutte kihenlo a, na khete kol kibulhlo hi. Mi gilote' thah bangin nang na si hi,” a ci hi. Tua ciangin mi khempeuh ama hangin kap kik-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | completed: already done | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v35
 **EN:** And when all the people came to cause David to eat meat while it was yet day, David sware, saying, So do God to me, and more also, if I taste bread, or ought else, till the sun be down.
 
-**TDB77:** Tua ciangin ni a om lai-in an ne dingin David a zol dingin mi khempeuh hong pai uh hi; ahih hangin David kiciamin, “Ni a tum matengin an ahi a, na khat peuhpeuh ahi zongin ka ciap taak leh Pasian in kei hong dawm kei ta hen!” a ci hi.
+**TDB77:** Tua ciangin ni a om lai-in an ne dingin David a zol dingin mi khempeuh hong pai-te hi; ahih hangin David kiciamin, “Ni a tum matengin an ahi a, na khat peuhpeuh ahi zongin ka ciap taak leh Pasian in kei hong dawm kei ta hen!” a ci hi.
 
-**ZVS:** Tua ciangin ni a omlai-in anne dingin David a zol dingin mi khempeuh hong pai uh a, ahih hangin David kiciamin, “Ni a tum matengin an ahi a, na khat peuhpeuh ahi zongin ka ciap taak leh Pasian in kei hong dawm kei ta hen!” a ci hi.
+**ZVS:** Tua ciangin ni a omlai-in anne dingin David a zol dingin mi khempeuh hong pai-te a, ahih hangin David kiciamin, “Ni a tum matengin an ahi a, na khat peuhpeuh ahi zongin ka ciap taak leh Pasian in kei hong dawm kei ta hen!” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v36
 **EN:** And all the people took notice of it, and it pleased them: as whatsoever the king did pleased all the people.
 
-**TDB77:** Tua ciangin mi khempeuh in tua thu thei uh a, tua in amaute lungdam sak hi; kumpipa sep khempeuh in mi khempeuh lungdam sak hi.
+**TDB77:** Tua ciangin mi khempeuh in tua thu thei-te a, tua in amaute lungdam sak hi; kumpipa sep khempeuh in mi khempeuh lungdam sak hi.
 
-**ZVS:** Tua ciangin mi khempeuh in tua thu thei uh a, tua in amaute lungdamsak hi. Kumpipa' sep khempeuh in mi khempeuh lungdamsak hi.
+**ZVS:** Tua ciangin mi khempeuh in tua thu thei-te a, tua in amaute lungdamsak hi. Kumpipa' sep khempeuh in mi khempeuh lungdamsak hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v37
 **EN:** For all the people and all Israel understood that day that it was not of the king to slay Abner the son of Ner.
 
-**TDB77:** Tua ahih ciangin Ner’ tapa Abner thah ding kumpipa deihna ahih loh lam tua ni-in mi khempeuh leh Israelte khempeuh in thei uh hi.
+**TDB77:** Tua ahih ciangin Ner’ tapa Abner thah ding kumpipa deihna ahih loh lam tua ni-in mi khempeuh leh Israelte khempeuh in thei-te hi.
 
-**ZVS:** Tua ahih ciangin Ner' tapa Abner thah ding kumpipa' deihna ahih lohlam tua ni-in mi khempeuh leh Israel-te khempeuh in thei uh hi.
+**ZVS:** Tua ahih ciangin Ner' tapa Abner thah ding kumpipa' deihna ahih lohlam tua ni-in mi khempeuh leh Israel-te khempeuh in thei-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v38
 **EN:** And the king said unto his servants, Know ye not that there is a prince and a great man fallen this day in Israel?
 
-**TDB77:** Tua ciangin kumpipa in a nasemte kiangah, “Tu ni-in Israelte sungah ulian ahi milian khat a tukna theilo na hi uh hiam?
+**TDB77:** Tua ciangin kumpipa in a nasemte kiangah, “Tu ni-in Israelte sungah ulian ahi milian khat a tukna theilo na hi-te hiam?
 
-**ZVS:** Tua ciangin kumpipa in a nasemte kiangah, “Tuni-in Israel-te sungah ulian ahi milian khat a tukna theilo na hi uh hiam?
+**ZVS:** Tua ciangin kumpipa in a nasemte kiangah, “Tuni-in Israel-te sungah ulian ahi milian khat a tukna theilo na hi-te hiam?
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 

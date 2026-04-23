@@ -98,16 +98,16 @@
 ### v11
 **EN:** Let the heavens rejoice, and let the earth be glad; let the sea roar, and the fulness thereof.
 
-**TDB77:** Vantungmite kipak hen la, leitung lungdam hen; tuipi leh a sunga omte khempeuh awng ta uh hen;
+**TDB77:** Vantungmite kipak hen la, leitung lungdam hen; tuipi leh a sunga omte khempeuh awng ta-te hen;
 
-**ZVS:** Vantung mite kipak hen la, leitung mite lungdam hen. Tuipi leh a sunga om khempeuh awng ta uh hen.
+**ZVS:** Vantung mite kipak hen la, leitung mite lungdam hen. Tuipi leh a sunga om khempeuh awng ta-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v13
 **EN:** Before the
 
-**TDB77:** Lo leh a sunga om khempeuh nuamin diang uh hen. Gamlaka sing om khempeuh in { Topa' } mai-ah lungdamin la sa hi. Bang hang hiam cih leh amah hong pai ta hi. Leitung mite' thu a khen dingin hong pai ta hi. Amah in thumanna tawh leitung ukin mite' thu ahi bangin khen ding hi.
+**TDB77:** Lo leh a sunga om khempeuh nuamin diang-te hen. Gamlaka sing om khempeuh in { Topa' } mai-ah lungdamin la sa hi. Bang hang hiam cih leh amah hong pai ta hi. Leitung mite' thu a khen dingin hong pai ta hi. Amah in thumanna tawh leitung ukin mite' thu ahi bangin khen ding hi.
 
 **Grammar:** purpose: in order to | future: will
 

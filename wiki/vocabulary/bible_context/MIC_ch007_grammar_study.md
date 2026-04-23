@@ -34,27 +34,27 @@
 ### v2
 **EN:** The good man is perished out of the earth: and there is none upright among men: they all lie in wait for blood; they hunt every man his brother with a net.
 
-**TDB77:** Leitungah mihoih teng bei khin ta a, Pasian tungah a thuman mi kuamah om nawn lo hi. Mi khempeuh in mi thah ding bek ngaihsun uh a, a kuamah peuh in a sanggampa ngen tawh beng hi.
+**TDB77:** Leitungah mihoih teng bei khin ta a, Pasian tungah a thuman mi kuamah om nawn lo hi. Mi khempeuh in mi thah ding bek ngaihsun-te a, a kuamah peuh in a sanggampa ngen tawh beng hi.
 
-**ZVS:** Leitungah mihoihteng bei khinta a, Pasian' tungah a thuman mi kuamah om nawnlo hi. Mihoihteng si khinta hi. Mi khempeuh in mi thah ding bek ngaihsun uh a, a kuamah peuh in a mipihte thah ding bek hanciam uh hi.
+**ZVS:** Leitungah mihoihteng bei khinta a, Pasian' tungah a thuman mi kuamah om nawnlo hi. Mihoihteng si khinta hi. Mi khempeuh in mi thah ding bek ngaihsun-te a, a kuamah peuh in a mipihte thah ding bek hanciam-te hi.
 
 **Grammar:** completed: already done | negation: lo | plural: uh marker
 
 ### v3
 **EN:** That they may do evil with both hands earnestly, the prince asketh, and the judge asketh for a reward; and the great man, he uttereth his mischievous desire: so they wrap it up.
 
-**TDB77:** A sia lam-a gamtat ding siam mahmah uh a, uliante leh thukhente in sumgolh ngenin, mi liante in amau’ deih teng pulak uh a, kipawlin vaihawm khawm uh hi.
+**TDB77:** A sia lam-a gamtat ding siam mahmah-te a, uliante leh thukhente in sumgolh ngenin, mi liante in amau’ deih teng pulak-te a, kipawlin vaihawm khawm-te hi.
 
-**ZVS:** A sia lama gamtat ding siam mahmah uh a, uliante leh thukhente in sumgolh ngenin, miliante in amau' deihteng pulak uh a, kipawlin vaihawm khawm uh hi.
+**ZVS:** A sia lama gamtat ding siam mahmah-te a, uliante leh thukhente in sumgolh ngenin, miliante in amau' deihteng pulak-te a, kipawlin vaihawm khawm-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** The best of them is as a brier: the most upright is sharper than a thorn hedge: the day of thy watchmen and thy visitation cometh; now shall be their perplexity.
 
-**TDB77:** Amaute lakah a hoih pen a, kineite lingkung bang hi a, a thutang pen a, kineite, linghiam bang hi lel uh hi. Pasian in amaute a hilhkholh bangin, a daan piak ding hun hong tung ta a, a lungman’ ding hun uh hi ta hi.
+**TDB77:** Amaute lakah a hoih pen a, kineite lingkung bang hi a, a thutang pen a, kineite, linghiam bang hi lel-te hi. Pasian in amaute a hilhkholh bangin, a daan piak ding hun hong tung ta a, a lungman’ ding hun-te hi ta hi.
 
-**ZVS:** Amaute lakah a hoihpenin a kineite, lingkung bang hi a, a thutang pena kineite, ling hiam bang hi lel uh hi. Pasian in amaute a hilhkholh bangin, gim a piak ding hun hong tungta a, a lungman' hun ding uh hong hita hi.
+**ZVS:** Amaute lakah a hoihpenin a kineite, lingkung bang hi a, a thutang pena kineite, ling hiam bang hi lel-te hi. Pasian in amaute a hilhkholh bangin, gim a piak ding hun hong tungta a, a lungman' hun ding-te hong hita hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** For the son dishonoureth the father, the daughter riseth up against her mother, the daughter in law against her mother in law; a man's enemies are the men of his own house.
 
-**TDB77:** Tu hunin tapate in pate hai bawlin, tanute in nute langpan’ uh a, mote in a teeknu uh lang neih uh hi. Mi khat adingin ama innkuanpihte mah a gal suak mawk hi.
+**TDB77:** Tu hunin tapate in pate hai bawlin, tanute in nute langpan’ uh a, mote in a teeknu-te lang neih-te hi. Mi khat adingin ama innkuanpihte mah a gal suak mawk hi.
 
-**ZVS:** Tuhun ciangin tapate in a pate haibawl a, tanute in a nute langpan' uh a, mote in a teeknu uh langneih uh hi. Mi khat-a' dingin ama innkuanpihte mah a gal a suak mawk hi.
+**ZVS:** Tuhun ciangin tapate in a pate haibawl a, tanute in a nute langpan' uh a, mote in a teeknu-te langneih-te hi. Mi khat-a' dingin ama innkuanpihte mah a gal a suak mawk hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -106,27 +106,27 @@
 ### v10
 **EN:** Then she that is mine enemy shall see it, and shame shall cover her which said unto me, Where is the
 
-**TDB77:** Tua hun ciangin ka galte in hih thu mu ding uh a, “Na Topa Pasian koi-ah om hiam? ci-in hong tawng ka galte maizum ding uh hi. Amaute guallel ding a, kongzing buan bangin a kisik gawp mu-in kei ka nuam ding hi.
+**TDB77:** Tua hun ciangin ka galte in hih thu mu ding-te a, “Na Topa Pasian koi-ah om hiam? ci-in hong tawng ka galte maizum ding-te hi. Amaute guallel ding a, kongzing buan bangin a kisik gawp mu-in kei ka nuam ding hi.
 
-**ZVS:** Tua hun ciangin ka galte in hih thu hong mu ding uh a, “Na { Topa } Pasian, koi-ah om ahi hiam?” ci-in a hong tawng ka galte a maizum ding uh hi. Amaute guallel ding uh a, kongzing buannawng bangin a kisikgawp mu-in, kei ka nuam ding hi.
+**ZVS:** Tua hun ciangin ka galte in hih thu hong mu ding-te a, “Na { Topa } Pasian, koi-ah om ahi hiam?” ci-in a hong tawng ka galte a maizum ding-te hi. Amaute guallel ding-te a, kongzing buannawng bangin a kisikgawp mu-in, kei ka nuam ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** In the day that thy walls are to be built, in that day shall the decree be far removed.
 
-**TDB77:** Jerusalem khuamite aw, na khuapi kulh uh a kician’ kik ding hun hong tung ding a, tua hun ciangin na gamgi uh nakpi takin kikhan’ ding hi.
+**TDB77:** Jerusalem khuamite aw, na khuapi kulh-te a kician’ kik ding hun hong tung ding a, tua hun ciangin na gamgi-te nakpi takin kikhan’ ding hi.
 
-**ZVS:** Jerusalem khuamite aw, na khuapi kulh uh a kiciankik ding hun hong tung ding a, tua hun ciangin na gamgi uh nakpi takin kikhan' ding hi.
+**ZVS:** Jerusalem khuamite aw, na khuapi kulh-te a kiciankik ding hun hong tung ding a, tua hun ciangin na gamgi-te nakpi takin kikhan' ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** In that day also he shall come even to thee from Assyria, and from the fortified cities, and from the fortress even to the river, and from sea to sea, and from mountain to mountain.
 
-**TDB77:** Nisuahna lam Assiria gam pan hita leh, leitaw lam Izipt gam pan hita leh, a gamlapi tuipi khen’ pan leh a gamlapi mualte, mun khempeuh panin na mite uh hong ciahkik ding uh hi.
+**TDB77:** Nisuahna lam Assiria gam pan hita leh, leitaw lam Izipt gam pan hita leh, a gamlapi tuipi khen’ pan leh a gamlapi mualte, mun khempeuh panin na mite-te hong ciahkik ding-te hi.
 
-**ZVS:** Nisuahna lam Assiria gam pan hita leh, leitaw lam Egypt gam pan hita leh, a gamlapi tuipi khen' pan leh a gamlapi mualte — mun khempeuh panin na mite uh hong ciahkik ding uh hi.
+**ZVS:** Nisuahna lam Assiria gam pan hita leh, leitaw lam Egypt gam pan hita leh, a gamlapi tuipi khen' pan leh a gamlapi mualte — mun khempeuh panin na mite-te hong ciahkik ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -142,36 +142,36 @@
 ### v14
 **EN:** Feed thy people with thy rod, the flock of thine heritage, which dwell solitarily in the wood, in the midst of Carmel: let them feed in Bashan and Gilead, as in the days of old.
 
-**TDB77:** Topa aw, nangma tuu ahi na mite na ciangkhut tawh hong cing in. Gamnuam lei hoihna sungah amau guakin om uh hi. Taanglai huna mah bangin, Bashan leh Gileah gam nuamah tasak in.
+**TDB77:** Topa aw, nangma tuu ahi na mite na ciangkhut tawh hong cing in. Gamnuam lei hoihna sungah amau guakin om-te hi. Taanglai huna mah bangin, Bashan leh Gileah gam nuamah tasak in.
 
-**ZVS:** { Topa } aw, nangma tuu ahi na mite hong cing in. Gamnuam leihoihna sungah amau guakin om uh hi. Tanglai huna mah bangin, Bashan leh Gilead gamnuamah amaute gamtasak in.
+**ZVS:** { Topa } aw, nangma tuu ahi na mite hong cing in. Gamnuam leihoihna sungah amau guakin om-te hi. Tanglai huna mah bangin, Bashan leh Gilead gamnuamah amaute gamtasak in.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** According to the days of thy coming out of the land of Egypt will I shew unto him marvellous things.
 
-**TDB77:** Izipt gam pan na paikhiat hun lai uh mah bangin, amau’ adingin a lamdang nate ka bawl ding hi.
+**TDB77:** Izipt gam pan na paikhiat hun lai-te mah bangin, amau’ adingin a lamdang nate ka bawl ding hi.
 
-**ZVS:** Egypt gam pan na paikhiat hun lai uh bangin, amau-a' dingin a lamdang nate ka bawl ding hi.
+**ZVS:** Egypt gam pan na paikhiat hun lai-te bangin, amau-a' dingin a lamdang nate ka bawl ding hi.
 
 **Grammar:** purpose: in order to | future: will
 
 ### v16
 **EN:** The nations shall see and be confounded at all their might: they shall lay their hand upon their mouth, their ears shall be deaf.
 
-**TDB77:** Minam dangte in hih thu mu ding uh a, minam thahat hi napi-in maizum ding uh hi. Lamdang sa-in kam khat zong pau lo ding uh a, hih thu a zakzakna-un a bil uh ngong liang ding hi.
+**TDB77:** Minam dangte in hih thu mu ding-te a, minam thahat hi napi-in maizum ding-te hi. Lamdang sa-in kam khat zong pau lo ding-te a, hih thu a zakzakna-un a bil-te ngong liang ding hi.
 
-**ZVS:** Minam dangte in hih thu mu ding uh a, minam thahat hinapi-in a maizum ding uh hi. Lamdang sa-in kam khat zong paulo ding uh a, hih thu a zakzakna-un a bil uh ngong liang ding hi.
+**ZVS:** Minam dangte in hih thu mu ding-te a, minam thahat hinapi-in a maizum ding-te hi. Lamdang sa-in kam khat zong paulo ding-te a, hih thu a zakzakna-un a bil-te ngong liang ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v17
 **EN:** They shall lick the dust like a serpent, they shall move out of their holes like worms of the earth: they shall be afraid of the
 
-**TDB77:** Amaute in gul bangin leivui liakin, a bokvak ganhing bangin hong awmtal ding uh a, a bukna uh mun muanhuaite panin lau-in a lingsa-in hong pusuak ding uh a, Topa Pasian hong kihta ding uh hi.
+**TDB77:** Amaute in gul bangin leivui liakin, a bokvak ganhing bangin hong awmtal ding-te a, a bukna-te mun muanhuaite panin lau-in a lingsa-in hong pusuak ding-te a, Topa Pasian hong kihta ding-te hi.
 
-**ZVS:** Amaute in gul bangin leivui namin, a bokvak ganhingte bangin hong awmtal ding uh a, a bukna uh munmuan'huaite panin lau-in a lingsa-in hong pusuak ding uh a, { Topa } Pasian hong kihta ding uh hi.
+**ZVS:** Amaute in gul bangin leivui namin, a bokvak ganhingte bangin hong awmtal ding-te a, a bukna-te munmuan'huaite panin lau-in a lingsa-in hong pusuak ding-te a, { Topa } Pasian hong kihta ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -187,18 +187,18 @@
 ### v19
 **EN:** He will turn again, he will have compassion upon us; he will subdue our iniquities; and thou wilt cast all their sins into the depths of the sea.
 
-**TDB77:** Kote nong khasiat kik ding a, ka mawhnate uh hong sawpkhiatsakin, tuipi taw-ah nong paihsak ding hi.
+**TDB77:** Kote nong khasiat kik ding a, ka mawhnate-te hong sawpkhiatsakin, tuipi taw-ah nong paihsak ding hi.
 
-**ZVS:** Kote nong khasiat kik ding a, ka mawhnate uh hong sawpkhiat sakin, tuipi taw-ah nong paihsak ding hi.
+**ZVS:** Kote nong khasiat kik ding a, ka mawhnate-te hong sawpkhiat sakin, tuipi taw-ah nong paihsak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v20
 **EN:** Thou wilt perform the truth to Jacob, and the mercy to Abraham, which thou hast sworn unto our fathers from the days of old.
 
-**TDB77:** Ka pu ka pate uh tungah nidang lai a, na ciamsa bangin, Abraham’ suan-le-khak ahi nangma mite tungah na cihtakna leh nong itna kip nong lak ding hi.
+**TDB77:** Ka pu ka pate-te tungah nidang lai a, na ciamsa bangin, Abraham’ suan-le-khak ahi nangma mite tungah na cihtakna leh nong itna kip nong lak ding hi.
 
-**ZVS:** Ka pu ka pate uh tungah na ciamsa bangin, Abraham' suanlekhakte ahi nangma mite tungah na cihtakna leh nong itna kip nong lak ding hi.
+**ZVS:** Ka pu ka pate-te tungah na ciamsa bangin, Abraham' suanlekhakte ahi nangma mite tungah na cihtakna leh nong itna kip nong lak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

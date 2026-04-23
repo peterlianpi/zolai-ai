@@ -49,9 +49,9 @@
 ### v4
 **EN:** So the children of Joseph, Manasseh and Ephraim, took their inheritance.
 
-**TDB77:** Josef suan Manasseh, leh Efraim mite in amau’ gamhluah ngah uh hi.
+**TDB77:** Josef suan Manasseh, leh Efraim mite in amau’ gamhluah ngah-te hi.
 
-**ZVS:** Josef' suan Manasseh, leh Efraim mite in amau' gamhluah dingin hih gamte ngah uh hi.
+**ZVS:** Josef' suan Manasseh, leh Efraim mite in amau' gamhluah dingin hih gamte ngah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -101,9 +101,9 @@
 ### v10
 **EN:** And they drave not out the Canaanites that dwelt in Gezer: but the Canaanites dwell among the Ephraimites unto this day, and serve under tribute.
 
-**TDB77:** Ahi zongin amaute in Gezer sunga teeng Kanaan mite hawl khia lo uh hi: tua ahih ciangin tu ni dongin Kanaan mite in Efraim mite lakah teeng a, ahih hangin aana nasep a sem dingin sal suak uh hi.
+**TDB77:** Ahi zongin amaute in Gezer sunga teeng Kanaan mite hawl khia lo-te hi: tua ahih ciangin tu ni dongin Kanaan mite in Efraim mite lakah teeng a, ahih hangin aana nasep a sem dingin sal suak-te hi.
 
-**ZVS:** Ahi zongin amaute in Gezer sunga teng Kanaan mite hawlkhialo uh hi. Tua ahih ciangin tuni dongin Kanaan mite pen Efraim mite lakah teng a, ahih hangin aana nasep a sem dingin sal a suak uh hi.
+**ZVS:** Ahi zongin amaute in Gezer sunga teng Kanaan mite hawlkhialo-te hi. Tua ahih ciangin tuni dongin Kanaan mite pen Efraim mite lakah teng a, ahih hangin aana nasep a sem dingin sal a suak-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | negation: lo | plural: uh marker
 

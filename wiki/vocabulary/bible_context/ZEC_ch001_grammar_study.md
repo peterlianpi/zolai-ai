@@ -34,43 +34,43 @@
 ### v2
 **EN:** The
 
-**TDB77:** Topa in Zekhariah kiangah, “Mite tungah hih bangin thu gen in la, ‘Na pu na pate uh tungah Topa ahi keimah ka heh mahmah hi.
+**TDB77:** Topa in Zekhariah kiangah, “Mite tungah hih bangin thu gen in la, ‘Na pu na pate-te tungah Topa ahi keimah ka heh mahmah hi.
 
-**ZVS:** { Topa } in Zekhariah kiangah, “Mite tungah hih bangin thu gen in: ‘Na pu na pate uh tungah { Topa } ahi keimah ka heh mahmah hi.
+**ZVS:** { Topa } in Zekhariah kiangah, “Mite tungah hih bangin thu gen in: ‘Na pu na pate-te tungah { Topa } ahi keimah ka heh mahmah hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix
 
 ### v3
 **EN:** Therefore say thou unto them, Thus saith the
 
-**TDB77:** Ahi zongin tu-in kei kiangah hong ciahkik le uh cin, kei zong note kiangah kong paikik ding hi.
+**TDB77:** Ahi zongin tu-in kei kiangah hong ciahkik le-te cin, kei zong note kiangah kong paikik ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v4
 **EN:** Be ye not as your fathers, unto whom the former prophets have cried, saying, Thus saith the
 
-**TDB77:** Na pu na pate uh bang nawn kei un. Nidanga kamsangte in amaute kiangah ka thu gen uh a, gamtatsia gamta loin, a mawh nawn lohna ding uh hilh uh hi. Ahi zongin amaute in ka thu ngai nuam loin, ka thu hong mang lo uh hi.
+**TDB77:** Na pu na pate-te bang nawn kei un. Nidanga kamsangte in amaute kiangah ka thu gen-te a, gamtatsia gamta loin, a mawh nawn lohna ding-te hilh-te hi. Ahi zongin amaute in ka thu ngai nuam loin, ka thu hong mang lo-te hi.
 
-**ZVS:** Na pu na pate uh bang nawn kei un. Nidanga kamsangte in amaute kiangah ka thu gen uh a, gamtatsia gamta loin, a mawh nawnlohna ding hilh uh hi. Ahi zongin amaute in ka thu ngainuam loin, ka thu hong manglo uh hi.
+**ZVS:** Na pu na pate-te bang nawn kei un. Nidanga kamsangte in amaute kiangah ka thu gen-te a, gamtatsia gamta loin, a mawh nawnlohna ding hilh-te hi. Ahi zongin amaute in ka thu ngainuam loin, ka thu hong manglo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** Your fathers, where are they? and the prophets, do they live for ever?
 
-**TDB77:** Tu-in na pu na pate uh koi-ah om ahi hiam? Tua kamsangte nungta lai sa na hi uh hiam?
+**TDB77:** Tu-in na pu na pate-te koi-ah om ahi hiam? Tua kamsangte nungta lai sa na hi-te hiam?
 
-**ZVS:** Tu-in na pu na pate uh koi-ah om ahi hiam? Tua kamsangte nungtalai sa na hi uh hiam?
+**ZVS:** Tu-in na pu na pate-te koi-ah om ahi hiam? Tua kamsangte nungtalai sa na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then)
 
 ### v6
 **EN:** But my words and my statutes, which I commanded my servants the prophets, did they not take hold of your fathers? and they returned and said, Like as the
 
-**TDB77:** Ahi zongin ka nasem ahi kamsangte’ tung tawnin ka hilhkholhna leh ka thupiaknate in note dongin hong su kha lo ding sa na hi uh hiam? Tua ahih ciangin a tawpna-ah amaute kisik uh a, hih dinga ka lungsimah ka geelsa bangin amau’ gamtatna tawh kizui-in daan ka piakna thu phawk uh hi,’ ci in,” a ci hi.
+**TDB77:** Ahi zongin ka nasem ahi kamsangte’ tung tawnin ka hilhkholhna leh ka thupiaknate in note dongin hong su kha lo ding sa na hi-te hiam? Tua ahih ciangin a tawpna-ah amaute kisik-te a, hih dinga ka lungsimah ka geelsa bangin amau’ gamtatna tawh kizui-in daan ka piakna thu phawk-te hi,’ ci in,” a ci hi.
 
-**ZVS:** Ahi zongin ka nasem ahi kamsangte' tung tawnin ka hilhkholhna leh ka thupiaknate in note dongin hong sukhalo ding sa na hi uh hiam, ka ci hi. Tua ahih ciangin a tawpna-ah amaute kisik uh a, hih dinga ka lungsimah ka geelsa bangin amau' gamtatna tawh kizui-in gim a pia ka hihna thu a phawk uh hi,’ ci in,” a ci hi.
+**ZVS:** Ahi zongin ka nasem ahi kamsangte' tung tawnin ka hilhkholhna leh ka thupiaknate in note dongin hong sukhalo ding sa na hi-te hiam, ka ci hi. Tua ahih ciangin a tawpna-ah amaute kisik-te a, hih dinga ka lungsimah ka geelsa bangin amau' gamtatna tawh kizui-in gim a pia ka hihna thu a phawk-te hi,’ ci in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -111,9 +111,9 @@
 ### v11
 **EN:** And they answered the angel of the
 
-**TDB77:** Tua ciangin mui kung lakah a khawl Topa’ vantungmite kiangah amaute in, “Leitung khempeuh ka en kawikawi khin uh a, leitung khempeuh khua phawk loin nuam takin om uh hi,” ci-in thu zasak uh hi.
+**TDB77:** Tua ciangin mui kung lakah a khawl Topa’ vantungmite kiangah amaute in, “Leitung khempeuh ka en kawikawi khin-te a, leitung khempeuh khua phawk loin nuam takin om-te hi,” ci-in thu zasak-te hi.
 
-**ZVS:** Tua ciangin mui kung lakah a khawl { Topa' } vantung mite kiangah amaute in, “Leitung khempeuh ka en kawikawi khin uh a, leitung khempeuh khuaphawk loin nuamtakin om uh hi,” ci-in thu a zasak uh hi.
+**ZVS:** Tua ciangin mui kung lakah a khawl { Topa' } vantung mite kiangah amaute in, “Leitung khempeuh ka en kawikawi khin-te a, leitung khempeuh khuaphawk loin nuamtakin om-te hi,” ci-in thu a zasak-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -147,9 +147,9 @@
 ### v15
 **EN:** And I am very sore displeased with the heathen that are at ease: for I was but a little displeased, and they helped forward the affliction.
 
-**TDB77:** Tua banga nuam taka a om hithiat minamte tungah ka heh mahmah hi. Ka mite tungah ka hehna ki-ip tentanin ka om lai takin, hih minam dangte in ka mite’ gimna nasiasak semsem uh hi.
+**TDB77:** Tua banga nuam taka a om hithiat minamte tungah ka heh mahmah hi. Ka mite tungah ka hehna ki-ip tentanin ka om lai takin, hih minam dangte in ka mite’ gimna nasiasak semsem-te hi.
 
-**ZVS:** Tua bangin nuamtakin a om hithiat minamte tungah ka heh mahmah hi. Ka mite tungah ka hehna ki-ip tentanin ka om laitakin, hih minam dangte in ka mite' gimna nasiasak semsem uh hi.
+**ZVS:** Tua bangin nuamtakin a om hithiat minamte tungah ka heh mahmah hi. Ka mite tungah ka hehna ki-ip tentanin ka om laitakin, hih minam dangte in ka mite' gimna nasiasak semsem-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 

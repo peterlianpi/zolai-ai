@@ -21,27 +21,27 @@
 ### v1
 **EN:** Then Eliashib the high priest rose up with his brethren the priests, and they builded the sheep gate; they sanctified it, and set up the doors of it; even unto the tower of Meah they sanctified it, unto the tower of Hananeel.
 
-**TDB77:** Tua ciangin siampi lian Eliashib leh a siampi pihte in nasep kipanin Tuu Kongpi bawl uh hi. Amaute in a khuamte leh a zawlte bawlin a kongkhakte bulh uh hi; amaute in Mi Za Khat Tausang ciang banah Hananel Tausang dong sem uh a, tua ciangin Pasian tungah ap uh hi.
+**TDB77:** Tua ciangin siampi lian Eliashib leh a siampi pihte in nasep kipanin Tuu Kongpi bawl-te hi. Amaute in a khuamte leh a zawlte bawlin a kongkhakte bulh-te hi; amaute in Mi Za Khat Tausang ciang banah Hananel Tausang dong sem-te a, tua ciangin Pasian tungah ap-te hi.
 
-**ZVS:** Tua ciangin siampi lianpenpa Eliashib leh a siampipihte in nasep kipanin Tuu Kongpi a bawl uh hi. Amaute in a khuamte leh a zawlte bawlin a kongkhakte bulh uh hi. Amaute in Za Khat Tausang ciang banah Hananel Tausang dong sem uh a, tua ciangin Pasian' tungah ap uh hi.
+**ZVS:** Tua ciangin siampi lianpenpa Eliashib leh a siampipihte in nasep kipanin Tuu Kongpi a bawl-te hi. Amaute in a khuamte leh a zawlte bawlin a kongkhakte bulh-te hi. Amaute in Za Khat Tausang ciang banah Hananel Tausang dong sem-te a, tua ciangin Pasian' tungah ap-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And next unto him builded the men of Jericho. And next to them builded Zaccur the son of Imri.
 
-**TDB77:** Ama zomah Jerikho khuamite in sem uh hi. Amaute’ zomah Imri’ tapa Zakkur in sem hi.
+**TDB77:** Ama zomah Jerikho khuamite in sem-te hi. Amaute’ zomah Imri’ tapa Zakkur in sem hi.
 
-**ZVS:** A zomah Jerikho khua mite in sem uh hi. Amaute' zomah Imri' tapa Zakkur in sem hi.
+**ZVS:** A zomah Jerikho khua mite in sem-te hi. Amaute' zomah Imri' tapa Zakkur in sem hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** But the fish gate did the sons of Hassenaah build, who also laid the beams thereof, and set up the doors thereof, the locks thereof, and the bars thereof.
 
-**TDB77:** Tua ciangin Hassena-ah’ tapate in Ngasa Kongpi bawl uh hi; amaute in a zawlte khungin a kongkhakte a kalhna tawh bulh uh hi.
+**TDB77:** Tua ciangin Hassena-ah’ tapate in Ngasa Kongpi bawl-te hi; amaute in a zawlte khungin a kongkhakte a kalhna tawh bulh-te hi.
 
-**ZVS:** Tua ciangin Hassenaah' tapate in Ngasa Kongpi bawl uh hi. Amaute in a zawlte khungin a kongkhakte a kalhna bulh uh hi.
+**ZVS:** Tua ciangin Hassenaah' tapate in Ngasa Kongpi bawl-te hi. Amaute in a zawlte khungin a kongkhakte a kalhna bulh-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -55,36 +55,36 @@
 ### v5
 **EN:** And next unto them the Tekoites repaired; but their nobles put not their necks to the work of their Lord.
 
-**TDB77:** a zom kikah Tekoa khuamite in puah uh a, ahi zongin amau’ uliante in nasem makaite nuai-ah na sem nuam lo uh hi.
+**TDB77:** a zom kikah Tekoa khuamite in puah-te a, ahi zongin amau’ uliante in nasem makaite nuai-ah na sem nuam lo-te hi.
 
-**ZVS:** A zom kikah Tekoa khua mite in puah uh a, ahi zongin amau' uliante in a tote uh sawl bangin sem nuamlo uh hi.
+**ZVS:** A zom kikah Tekoa khua mite in puah-te a, ahi zongin amau' uliante in a tote-te sawl bangin sem nuamlo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Moreover the old gate repaired Jehoiada the son of Paseah, and Meshullam the son of Besodeiah; they laid the beams thereof, and set up the doors thereof, and the locks thereof, and the bars thereof.
 
-**TDB77:** Tua ciangin Paseah’ tapa Joiada leh Besodeiah’ tapa Meshullam in Jeshanah Kongpi puah uh hi; amaute in a zawlte khungin a kongkhakte a kalhnate tawh bulh uh hi.
+**TDB77:** Tua ciangin Paseah’ tapa Joiada leh Besodeiah’ tapa Meshullam in Jeshanah Kongpi puah-te hi; amaute in a zawlte khungin a kongkhakte a kalhnate tawh bulh-te hi.
 
-**ZVS:** Tua ciangin Paseah' tapa Joiada leh Besodeiah' tapa Meshullam in Jeshanah Kongpi puah uh a, a zawlte khungin a kongkhakte a kalhna bulh uh hi.
+**ZVS:** Tua ciangin Paseah' tapa Joiada leh Besodeiah' tapa Meshullam in Jeshanah Kongpi puah-te a, a zawlte khungin a kongkhakte a kalhna bulh-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v7
 **EN:** And next unto them repaired Melatiah the Gibeonite, and Jadon the Meronothite, the men of Gibeon, and of Mizpah, unto the throne of the governor on this side the river.
 
-**TDB77:** Amaute’ zomah Gibeon leh Mizpah khuami ahi, Gibeon mi Melatiah leh Meronoth khuami Jadon in Eufrates Gungal gam a uk sawnpa’ zum dong puah uh hi.
+**TDB77:** Amaute’ zomah Gibeon leh Mizpah khuami ahi, Gibeon mi Melatiah leh Meronoth khuami Jadon in Eufrates Gungal gam a uk sawnpa’ zum dong puah-te hi.
 
-**ZVS:** Amaute' zomah Gibeon leh Mizpah khuami ahi, Gibeon mi Melatiah leh Meronoth khuami Jadon in Eufratis Gungal gam a uksawnpa' zum dong puah uh hi.
+**ZVS:** Amaute' zomah Gibeon leh Mizpah khuami ahi, Gibeon mi Melatiah leh Meronoth khuami Jadon in Eufratis Gungal gam a uksawnpa' zum dong puah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v8
 **EN:** Next unto him repaired Uzziel the son of Harhaiah, of the goldsmiths. Next unto him also repaired Hananiah the son of one of the apothecaries, and they fortified Jerusalem unto the broad wall.
 
-**TDB77:** Tua zomah khamseekpa Harhaiah’ tapa Uzziel in puah hi; a zomah paknamtui bawlpa Hananiah in puah hi; amaute in Kulh Zai ciang dong a ngeina bangin Jerusalem bawlkik uh hi.
+**TDB77:** Tua zomah khamseekpa Harhaiah’ tapa Uzziel in puah hi; a zomah paknamtui bawlpa Hananiah in puah hi; amaute in Kulh Zai ciang dong a ngeina bangin Jerusalem bawlkik-te hi.
 
-**ZVS:** Tua zomah khamseekpa Harhaiah' tapa Uzziel in puah a, a zomah paknamtui bawlpa Hananiah in puah hi. Amaute in Kulh Zai ciangdong a ngeina bangin Jerusalem bawlkik uh hi.
+**ZVS:** Tua zomah khamseekpa Harhaiah' tapa Uzziel in puah a, a zomah paknamtui bawlpa Hananiah in puah hi. Amaute in Kulh Zai ciangdong a ngeina bangin Jerusalem bawlkik-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -107,27 +107,27 @@
 ### v11
 **EN:** Malchijah the son of Harim, and Hashub the son of Pahath–moab, repaired the other piece, and the tower of the furnaces.
 
-**TDB77:** Harim’ tapa Malkhijah leh Pahathmoab’ tapa Hasshub in Meikhuk Tausang a huam khawk dang khat sung puah uh hi.
+**TDB77:** Harim’ tapa Malkhijah leh Pahathmoab’ tapa Hasshub in Meikhuk Tausang a huam khawk dang khat sung puah-te hi.
 
-**ZVS:** Harim' tapa Malkhijah leh Pahathmoab' tapa Hasshub in Meikhuk Tausang a huam khawk dang khat sung puah uh hi.
+**ZVS:** Harim' tapa Malkhijah leh Pahathmoab' tapa Hasshub in Meikhuk Tausang a huam khawk dang khat sung puah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v12
 **EN:** And next unto him repaired Shallum the son of Hallohesh, the ruler of the half part of Jerusalem, he and his daughters.
 
-**TDB77:** Amaute’ zomah Jerusalem gam a phel khat a uk Hallohesh’ tapa Shallum in a tanute tawh puah uh hi.
+**TDB77:** Amaute’ zomah Jerusalem gam a phel khat a uk Hallohesh’ tapa Shallum in a tanute tawh puah-te hi.
 
-**ZVS:** Amaute' zomah Jerusalem gam a phelkhat a uk, Hallohesh' tapa Shallum in a tanute tawh a puah uh hi.
+**ZVS:** Amaute' zomah Jerusalem gam a phelkhat a uk, Hallohesh' tapa Shallum in a tanute tawh a puah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** The valley gate repaired Hanun, and the inhabitants of Zanoah; they built it, and set up the doors thereof, the locks thereof, and the bars thereof, and a thousand cubits on the wall unto the dung gate.
 
-**TDB77:** Hanun leh Zanoah khua-a teeng mite in Kuam Kongpi puah uh hi; amaute in tua kongpi bawl pha-in a kongkhakte a kalhnate tawh bulh uh a, Nin Kongpi ciang dong tong tul khat sung kulh puah uh hi.
+**TDB77:** Hanun leh Zanoah khua-a teeng mite in Kuam Kongpi puah-te hi; amaute in tua kongpi bawl pha-in a kongkhakte a kalhnate tawh bulh-te a, Nin Kongpi ciang dong tong tul khat sung kulh puah-te hi.
 
-**ZVS:** Hanun leh Zanoah khua-a teng mite in Kuam Kongpi puah uh hi. Amaute in tua kongpi bawlpha-in a kongkhakte a kalhna bulh uh a, Nin Kongpi ciangdong pi tul leh pi za nga sung kulh a puah uh hi.
+**ZVS:** Hanun leh Zanoah khua-a teng mite in Kuam Kongpi puah-te hi. Amaute in tua kongpi bawlpha-in a kongkhakte a kalhna bulh-te a, Nin Kongpi ciangdong pi tul leh pi za nga sung kulh a puah-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -200,18 +200,18 @@
 ### v22
 **EN:** And after him repaired the priests, the men of the plain.
 
-**TDB77:** Ama zomah Jerusalem kiim nai-a om siampite in puah uh hi.
+**TDB77:** Ama zomah Jerusalem kiim nai-a om siampite in puah-te hi.
 
-**ZVS:** Ama zomah Jerusalem kiimnai-a om siampite in puah uh hi.
+**ZVS:** Ama zomah Jerusalem kiimnai-a om siampite in puah-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** After him repaired Benjamin and Hashub over against their house. After him repaired Azariah the son of Maaseiah the son of Ananiah by his house.
 
-**TDB77:** A zomah Benjamin leh Hasshub in amau’ inn mai san puah uh hi. A zomah Ananiah’ tapa Ma-aseiah, a tapa Azariah in ama inn gei san teng puah hi.
+**TDB77:** A zomah Benjamin leh Hasshub in amau’ inn mai san puah-te hi. A zomah Ananiah’ tapa Ma-aseiah, a tapa Azariah in ama inn gei san teng puah hi.
 
-**ZVS:** A zomah Benjamin leh Hasshub in amau' inn mai san puah uh hi. A zomah Ananiah' tapa Maaseiah, a tapa Azariah in ama inn gei san teng puah hi.
+**ZVS:** A zomah Benjamin leh Hasshub in amau' inn mai san puah-te hi. A zomah Ananiah' tapa Maaseiah, a tapa Azariah in ama inn gei san teng puah hi.
 
 **Grammar:** plural: uh marker
 
@@ -243,16 +243,16 @@
 ### v27
 **EN:** After them the Tekoites repaired another piece, over against the great tower that lieth out, even unto the wall of Ophel.
 
-**TDB77:** Ama zomah Tekoa khuamite in a lian tausang dawk panin Ofel mualbo kulh ciang, khawk dang khat sung puah uh hi.
+**TDB77:** Ama zomah Tekoa khuamite in a lian tausang dawk panin Ofel mualbo kulh ciang, khawk dang khat sung puah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v28
 **EN:** From above the horse gate repaired the priests, every one over against his house.
 
-**TDB77:** Sakol Kongpi tung san teng ahih leh siampite in amau’ inn mai san ciat puah uh hi.
+**TDB77:** Sakol Kongpi tung san teng ahih leh siampite in amau’ inn mai san ciat puah-te hi.
 
-**ZVS:** Sakol Kongpi tung san teng ahih leh siampite in amau' inn mai san ciat puah uh hi.
+**ZVS:** Sakol Kongpi tung san teng ahih leh siampite in amau' inn mai san ciat puah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -266,9 +266,9 @@
 ### v30
 **EN:** After him repaired Hananiah the son of Shelemiah, and Hanun the sixth son of Zalaph, another piece. After him repaired Meshullam the son of Berechiah over against his chamber.
 
-**TDB77:** Ama zomah Shelemiah’ tapa Hananiah leh Zalaf tapa gukna Hanun in khawk dang khat sung puah uh hi. Amau zomah Berekhiah’ tapa Meshullam in ama inndei mai san teng puah hi.
+**TDB77:** Ama zomah Shelemiah’ tapa Hananiah leh Zalaf tapa gukna Hanun in khawk dang khat sung puah-te hi. Amau zomah Berekhiah’ tapa Meshullam in ama inndei mai san teng puah hi.
 
-**ZVS:** Ama zomah Shemaiah' tapa Hananiah leh Zalaf' tapa gukna Hanun in khawk dang khat sung puah uh hi. Amau zomah Berekhiah' tapa Meshullam in ama inndei mai san teng puah hi.
+**ZVS:** Ama zomah Shemaiah' tapa Hananiah leh Zalaf' tapa gukna Hanun in khawk dang khat sung puah-te hi. Amau zomah Berekhiah' tapa Meshullam in ama inndei mai san teng puah hi.
 
 **Grammar:** plural: uh marker
 
@@ -284,9 +284,9 @@
 ### v32
 **EN:** And between the going up of the corner unto the sheep gate repaired the goldsmiths and the merchants.
 
-**TDB77:** Tua ciangin khamseekte leh sumbukte in a kiu-a inndei tungnung leh Tuu Kongpi kikal puah uh hi.
+**TDB77:** Tua ciangin khamseekte leh sumbukte in a kiu-a inndei tungnung leh Tuu Kongpi kikal puah-te hi.
 
-**ZVS:** Tua ciangin khamseekte leh sumbukte in a kiu-a inndei tungnung leh Tuu Kongpi kikal a puah uh hi.
+**ZVS:** Tua ciangin khamseekte leh sumbukte in a kiu-a inndei tungnung leh Tuu Kongpi kikal a puah-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

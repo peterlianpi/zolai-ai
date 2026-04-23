@@ -51,18 +51,18 @@
 ### v4
 **EN:** My manner of life from my youth, which was at the first among mine own nation at Jerusalem, know all the Jews;
 
-**TDB77:** “Jerusalem khua sungah ka mipawlte lakah ka om lai takin, ka neu lai pan akipan ka omzia leh ka hihnate Judah mi khempeuh in a thei uh hi.
+**TDB77:** “Jerusalem khua sungah ka mipawlte lakah ka om lai takin, ka neu lai pan akipan ka omzia leh ka hihnate Judah mi khempeuh in a thei-te hi.
 
-**ZVS:** “Jew mite khempeuh in ka neutunga kipan, keima pian'na gam leh Jerusalem khua-a ka omzia khempeuh hong thei uh hi.
+**ZVS:** “Jew mite khempeuh in ka neutunga kipan, keima pian'na gam leh Jerusalem khua-a ka omzia khempeuh hong thei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** Which knew me from the beginning, if they would testify, that after the most straitest sect of our religion I lived a Pharisee.
 
-**TDB77:** Judah ngeina tel takpi a zui pen pawl Farisai mi ka hihna hih mite in teci a pan’ nop uh leh, a thei masa bel ahi uh hi.
+**TDB77:** Judah ngeina tel takpi a zui pen pawl Farisai mi ka hihna hih mite in teci a pan’ nop-te leh, a thei masa bel ahi-te hi.
 
-**ZVS:** Kote' biakna sungah a hahkat phadiak Farisi pawl a kicite sunga ka om cila kipanin ka nuntakzia khempeuh, a gennop nak uh leh hong genthei ding uh hi.
+**ZVS:** Kote' biakna sungah a hahkat phadiak Farisi pawl a kicite sunga ka om cila kipanin ka nuntakzia khempeuh, a gennop nak-te leh hong genthei ding-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -76,18 +76,18 @@
 ### v7
 **EN:** Unto which promise our twelve tribes, instantly serving God day and night, hope to come. For which hope's sake, king Agrippa, I am accused of the Jews.
 
-**TDB77:** Judah mipawl sawm-le-nihte in sun leh zanin hahkatin Pasian bia-in, thu kiciamna bangin ngah ding a lamen uh hi. Kumpipa aw, hih lametna hangin Judah mite in hong mawhsak uh hi.
+**TDB77:** Judah mipawl sawm-le-nihte in sun leh zanin hahkatin Pasian bia-in, thu kiciamna bangin ngah ding a lamen-te hi. Kumpipa aw, hih lametna hangin Judah mite in hong mawhsak-te hi.
 
-**ZVS:** Ko Israel minam sawmlenihte in Pasian' thuciam ngahding lametna tawh a sun a zanin Pasian ka biabia uh a, ka pu ka pate uh tungah Pasian in a thuciamna ngahding lamenin ka omna hangin hih lai-ah thusitna thuakin a ding ka hi hi. Kumpipa aw, hih thu ka lametna hangin Jew mite in kei hong mawhsak ahi uh hi.
+**ZVS:** Ko Israel minam sawmlenihte in Pasian' thuciam ngahding lametna tawh a sun a zanin Pasian ka biabia-te a, ka pu ka pate-te tungah Pasian in a thuciamna ngahding lamenin ka omna hangin hih lai-ah thusitna thuakin a ding ka hi hi. Kumpipa aw, hih thu ka lametna hangin Jew mite in kei hong mawhsak ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Why should it be thought a thing incredible with you, that God should raise the dead?
 
-**TDB77:** Pasian in misite a thokiksak ding hi cih thu up theih ding hilo hi ci-in bang hangin ngaihsun na hi uh hiam?
+**TDB77:** Pasian in misite a thokiksak ding hi cih thu up theih ding hilo hi ci-in bang hangin ngaihsun na hi-te hiam?
 
-**ZVS:** Bang hangin no Jew mite in Pasian in misite a thawhkik sakna thu um theilo na hi uh hiam?
+**ZVS:** Bang hangin no Jew mite in Pasian in misite a thawhkik sakna thu um theilo na hi-te hiam?
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 
@@ -103,7 +103,7 @@
 ### v10
 **EN:** Which thing I also did in Jerusalem: and many of the saints did I shut up in prison, having received authority from the chief priests; and when they were put to death, I gave my voice against them.
 
-**TDB77:** Jerusalem khua-ah tua bangin ka hih zo hi. Siampi liante kiang pan thu ka ngah khit ciangin misiangthote thong sungah ka khia hi. Amaute in sihna a thuak uh ciangin ka thukim hi.
+**TDB77:** Jerusalem khua-ah tua bangin ka hih zo hi. Siampi liante kiang pan thu ka ngah khit ciangin misiangthote thong sungah ka khia hi. Amaute in sihna a thuak-te ciangin ka thukim hi.
 
 **ZVS:** Tua mah bangin Jerusalem khuasungah ka sempah a, siampi liante tung panin thu ngahna tawh Pasian' mi tampi thong sungah ka khum hi. Tua mite a sihna dingun thu a kikhen ciangin zong a thukimpih pawl ka hi hi.
 
@@ -114,7 +114,7 @@
 
 **TDB77:** Mite in Pasian tungah a pau khialh nadingin thatang hat thu-in hanciamin, kikhopna inn khat pan khat ah tamveipi ka pai hi. Nakpi-in ka heh maninah gamdangte khua dongin amaute ka bawlsia hi.
 
-**ZVS:** Kikhopna inn khempeuhah amaute gim ka thuaksak zelzel a, a thu upnate uh ka khawlsak hi. Amaute tungah hehlua mahmah ka hih manin gamdang nangawnah pai-in thu umte ka bawlsia hi.
+**ZVS:** Kikhopna inn khempeuhah amaute gim ka thuaksak zelzel a, a thu upnate-te ka khawlsak hi. Amaute tungah hehlua mahmah ka hih manin gamdang nangawnah pai-in thu umte ka bawlsia hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -141,7 +141,7 @@
 
 **TDB77:** Kote khempeuh in lei tungah ka puk lai takun, ‘Saul aw, Saul aw, bang hangin hong bawlsia na hi hiam? Ciang hiam na khe tawh peek leteh a haksa hi,’ ci-in Hebru kamin a hong ci aw khat ka za hi.
 
-**ZVS:** Ka vekpi-un leilakah ka puk uh a, tua laitakin kei kiangah Hebru pau tawh thu hong kigen a, ‘Saul, Saul aw, bang hangin kei hong bawlsia na hi hiam? Bawngtal in a hawlte' ciangzum peek leh na a sakzawk bangin kei' thu nong nial manin nang-a' dingin nazaw hi,’ hong ci hi.
+**ZVS:** Ka vekpi-un leilakah ka puk-te a, tua laitakin kei kiangah Hebru pau tawh thu hong kigen a, ‘Saul, Saul aw, bang hangin kei hong bawlsia na hi hiam? Bawngtal in a hawlte' ciangzum peek leh na a sakzawk bangin kei' thu nong nial manin nang-a' dingin nazaw hi,’ hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -168,16 +168,16 @@
 
 **TDB77:** Amaute kisikkik a, kisikkikna tawh kilawm gamtatna bawlin Pasian kiangah a kihei na’ngun Damaskas khua-ah ka gen masak khit ciangin Jerusalem khua akipan Judah gamah a om mi khempeuh kiangah ahi zongin, Gentailte kiangah ahi zongin ka hilh hi.
 
-**ZVS:** Mite a mawhna uh panin kisikin Pasian kiang a zuatna ding uh leh a kisikna uh a kilatsakna dingun a gamtat ding uh a masa-in Damaskas khua-ah thu hilhin, a zomin Jerusalem khua-ah, tua ciangin Jew mite omna gam khempeuh leh Gentail mite lakah thu ka hilh hi.
+**ZVS:** Mite a mawhna-te panin kisikin Pasian kiang a zuatna ding-te leh a kisikna-te a kilatsakna dingun a gamtat ding-te a masa-in Damaskas khua-ah thu hilhin, a zomin Jerusalem khua-ah, tua ciangin Jew mite omna gam khempeuh leh Gentail mite lakah thu ka hilh hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v21
 **EN:** For these causes the Jews caught me in the temple, and went about to kill me.
 
-**TDB77:** Tua thu hangin Judah mite in biakna innpi sungah kei hong man uh a, hong thah nading uh a hahkat uh hi.
+**TDB77:** Tua thu hangin Judah mite in biakna innpi sungah kei hong man-te a, hong thah nading-te a hahkat-te hi.
 
-**ZVS:** Hih bangin ka thuhilhna hangin biakinn sungah ka om laitakin Jew mite in hong manin thah hong sawm uh hi.
+**ZVS:** Hih bangin ka thuhilhna hangin biakinn sungah ka om laitakin Jew mite in hong manin thah hong sawm-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -256,18 +256,18 @@
 ### v30
 **EN:** And when he had thus spoken, the king rose up, and the governor, and Bernice, and they that sat with them:
 
-**TDB77:** Tua ciangin Kumpipa leh Bernike, mangpipa leh amau tawh a tukhawmte a ding uh a,
+**TDB77:** Tua ciangin Kumpipa leh Bernike, mangpipa leh amau tawh a tukhawmte a ding-te a,
 
-**ZVS:** Tua ciangin kumpi Agrippa leh menzi Festas hong ding uh a, Bernis leh a tutpih midangte zong hong dingkhia uh hi.
+**ZVS:** Tua ciangin kumpi Agrippa leh menzi Festas hong ding-te a, Bernis leh a tutpih midangte zong hong dingkhia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v31
 **EN:** And when they were gone aside, they talked between themselves, saying, This man doeth nothing worthy of death or of bonds.
 
-**TDB77:** a paikhiat khit uh ciangin, “Hih mi in sih nading ahi zongin, kikhum nading ahi zongin a bawl kei hi,” ci-in khat leh khat a kikum uh hi.
+**TDB77:** a paikhiat khit-te ciangin, “Hih mi in sih nading ahi zongin, kikhum nading ahi zongin a bawl kei hi,” ci-in khat leh khat a kikum-te hi.
 
-**ZVS:** Amaute a paikhiat khit uh ciangin, “Hih mipa in thongkiatna ding ahi a, sihna ding ahi zongin a thuakna dingin bangmah omlo hi,” a kici uh hi.
+**ZVS:** Amaute a paikhiat khit-te ciangin, “Hih mipa in thongkiatna ding ahi a, sihna ding ahi zongin a thuakna dingin bangmah omlo hi,” a kici-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

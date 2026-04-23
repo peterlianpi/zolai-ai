@@ -57,7 +57,7 @@ Si ding hi.              = (He) will die.
 ```
 Ka pai thei hi.          = I can go.
 Ka thei kei hi.          = I cannot / I don't know.
-Lut thei kei uh hi.      = They could not enter.
+Lut thei kei-te hi.      = They could not enter.
 ```
 
 ### Directional particles
@@ -84,7 +84,7 @@ A kip leh, thaman a ngah ding hi. = If it stands, he will receive reward.
 
 ### Cause/Because: `ahih manin` / `bang hang`
 ```
-Topa' minthan'na in Topa' inn dim ahih manin siampite lut thei kei uh hi.
+Topa' minthan'na in Topa' inn dim ahih manin siampite lut thei kei-te hi.
 = The priests could not enter because the glory of the Lord filled the temple.
 
 Bang hang hiam cih leh Pasian in leitung mite a it mahmah hi.
@@ -202,13 +202,13 @@ Kha Siangtho longal kuamah in a thei kei hi.
 
 ### Prohibitive jussive: `kei hen`
 ```
-Na lungtang uh patau kei hen.  = Let not your heart be troubled. (John 14:1)
+Na lungtang-te patau kei hen.  = Let not your heart be troubled. (John 14:1)
 ```
 
 ### Rhetorical question: `koi-ah om hiam?`
 ```
 Lungpil mi koi-ah a om hiam?  = Where is the wise man? (1 Cor 1:20)
-Na upna uh koi-ah om hiam?    = Where is your faith?
+Na upna-te koi-ah om hiam?    = Where is your faith?
 ```
 
 ### Foundational reason: `bang hang hiam cih leh`
@@ -244,7 +244,7 @@ Line B: Ka Dahna in mual lianpi bangin hong neencip hi.
 ### Metaphorical identity: `pen ... hi`
 ```
 Kei pen nuntakna an ka hi hi.         = I am the bread of life. (John 6:35)
-Note pen leitung mite-a' dingin khuavak tawh na kibang uh hi.
+Note pen leitung mite-a' dingin khuavak tawh na kibang-te hi.
 = You are the light of the world. (Matt 5:14)
 ```
 

@@ -27,7 +27,7 @@
 
 **TDB77:** Mi liante tawh an nekhawm dingin na tut ciangin, na tutpihpa lim takin en in.
 
-**ZVS:** Miliante tawh an nekhawm dingin na tut uh ciangin na tutpihpa limtakin en un.
+**ZVS:** Miliante tawh an nekhawm dingin na tut-te ciangin na tutpihpa limtakin en un.
 
 **Grammar:** purpose: in order to
 
@@ -36,7 +36,7 @@
 
 **TDB77:** An ngaklah thei mi na hih leh zong lim takin kidawm in.
 
-**ZVS:** An a ngaklah thei mi na hih khak uh leh zong limtakin kidawm un.
+**ZVS:** An a ngaklah thei mi na hih khak-te leh zong limtakin kidawm un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -61,14 +61,14 @@
 
 **TDB77:** Na ngahsa, sumte, mitphiat kalin bei mang thei a, muvanlai bangin thakhatin lengmang thei hi.
 
-**ZVS:** Na ngahsa uh sumte mitphiat kalin beimang thei a, muvanlai bangin thakhatin lengmang thei hi.
+**ZVS:** Na ngahsa-te sumte mitphiat kalin beimang thei a, muvanlai bangin thakhatin lengmang thei hi.
 
 ### v6
 **EN:** Eat thou not the bread of him that hath an evil eye, neither desire thou his dainty meats:
 
-**TDB77:** A cil tentan mite’ an neksak kei in la, a an limte uh duhgawh kha kei in.
+**TDB77:** A cil tentan mite’ an neksak kei in la, a an limte-te duhgawh kha kei in.
 
-**ZVS:** A cil tentan mite' an neksak kei un la, a anlimte uh duhgawhkha kei un.
+**ZVS:** A cil tentan mite' an neksak kei un la, a anlimte-te duhgawhkha kei un.
 
 ### v7
 **EN:** For as he thinketh in his heart, so is he: Eat and drink, saith he to thee; but his heart is not with thee.
@@ -84,16 +84,16 @@
 
 **TDB77:** Na neksa teng na luakhia kik ding a, na kamsiam ngah teng maimang ta ding hi.
 
-**ZVS:** Na neksa teng uh na luakhia kik ding uh a, na kamsiam ngah teng uh maimang ta ding hi.
+**ZVS:** Na neksa teng-te na luakhia kik ding-te a, na kamsiam ngah teng-te maimang ta ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v9
 **EN:** Speak not in the ears of a fool: for he will despise the wisdom of thy words.
 
-**TDB77:** Mihaite, pil hopih kei in, a manphatna phawk thei lo uh hi.
+**TDB77:** Mihaite, pil hopih kei in, a manphatna phawk thei lo-te hi.
 
-**ZVS:** Mihaite pil hopih kei un; amaute in a manphatna phawk theilo uh hi.
+**ZVS:** Mihaite pil hopih kei un; amaute in a manphatna phawk theilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -136,7 +136,7 @@
 
 **TDB77:** Ciangduai tawh sat lecin, nuntak lawhzaw ding hi.
 
-**ZVS:** Ciangduai tawh sat le uh cin nuntaklawh zaw ding uh hi.
+**ZVS:** Ciangduai tawh sat le-te cin nuntaklawh zaw ding-te hi.
 
 **Grammar:** future: will
 
@@ -195,9 +195,9 @@
 ### v21
 **EN:** For the drunkard and the glutton shall come to poverty: and drowsiness shall clothe a man with rags.
 
-**TDB77:** Zu nete leh a uisante zawng ding uh a, a ne bek-a nitumte in puansia bek silh zo ding uh hi.
+**TDB77:** Zu nete leh a uisante zawng ding-te a, a ne bek-a nitumte in puansia bek silh zo ding-te hi.
 
-**ZVS:** Zu nenete leh a uisante zawng ding uh a, a ne beka nitumte in puansia bek silhzo ding hi.
+**ZVS:** Zu nenete leh a uisante zawng ding-te a, a ne beka nitumte in puansia bek silhzo ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -256,7 +256,7 @@
 ### v28
 **EN:** She also lieth in wait as for a prey, and increaseth the transgressors among men.
 
-**TDB77:** Gutate bangin nang hong buksim a, mi tampi tak siasak uh hi.
+**TDB77:** Gutate bangin nang hong buksim a, mi tampi tak siasak-te hi.
 
 **Grammar:** plural: uh marker
 

@@ -46,9 +46,9 @@
 ### v4
 **EN:** Their line is gone out through all the earth, and their words to the end of the world. In them hath he set a tabernacle for the sun,
 
-**TDB77:** ahih hangin a aw uh leitung khempeuh ah kizel a, a kammal uh leimong dongah tung hi. Ama sungah ni’ adingin omna khat bawl khin a,
+**TDB77:** ahih hangin a aw-te leitung khempeuh ah kizel a, a kammal-te leimong dongah tung hi. Ama sungah ni’ adingin omna khat bawl khin a,
 
-**ZVS:** Ahih hangin a aw uh leitung khempeuhah kizel a, a kammal uh leimong dongah a tung hi. Amau' sungah ni-a' ding omna khat bawl khin a,
+**ZVS:** Ahih hangin a aw-te leitung khempeuhah kizel a, a kammal-te leimong dongah a tung hi. Amau' sungah ni-a' ding omna khat bawl khin a,
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 

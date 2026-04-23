@@ -30,9 +30,9 @@
 ### v2
 **EN:** How long will ye judge unjustly, and accept the persons of the wicked? Selah.
 
-**TDB77:** “Note in bang tanvei amaan loin thu khenin, migilote tungah angvanna zang ding na hi uh hiam?
+**TDB77:** “Note in bang tanvei amaan loin thu khenin, migilote tungah angvanna zang ding na hi-te hiam?
 
-**ZVS:** “Note in bang tanvei a manloin thu khenin, migilote tungah angvanna zang ding na hi uh hiam?
+**ZVS:** “Note in bang tanvei a manloin thu khenin, migilote tungah angvanna zang ding na hi-te hiam?
 
 ### v3
 **EN:** Defend the poor and fatherless: do justice to the afflicted and needy.
@@ -53,27 +53,27 @@
 ### v5
 **EN:** They know not, neither will they understand; they walk on in darkness: all the foundations of the earth are out of course.
 
-**TDB77:** Amaute in thu-theihna ahi a, thutelna ahi zongin nei lo uh a, amaute khuamial sungah gamta uh hi; leitung bulpite khempeuh kiling hi.
+**TDB77:** Amaute in thu-theihna ahi a, thutelna ahi zongin nei lo-te a, amaute khuamial sungah gamta-te hi; leitung bulpite khempeuh kiling hi.
 
-**ZVS:** Amaute in thutheihna ahi a, thutelna ahi zongin bangmah neilo uh a, khuamial sungah gamta uh ahih manin leitung bulpite khempeuh a kilinggawp hi.
+**ZVS:** Amaute in thutheihna ahi a, thutelna ahi zongin bangmah neilo-te a, khuamial sungah gamta-te ahih manin leitung bulpite khempeuh a kilinggawp hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** I have said, Ye are gods; and all of you are children of the most High.
 
-**TDB77:** Ke’n kong cih-inah, “Note khempeuh in, Sang Penpa’ tate, pasiante, na hi uh hi;
+**TDB77:** Ke’n kong cih-inah, “Note khempeuh in, Sang Penpa’ tate, pasiante, na hi-te hi;
 
-**ZVS:** Ke'n kong cihin-ah, “Note khempeuh, Sangpenpa' tate, pasian-te na hi uh hi.
+**ZVS:** Ke'n kong cihin-ah, “Note khempeuh, Sangpenpa' tate, pasian-te na hi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** But ye shall die like men, and fall like one of the princes.
 
-**TDB77:** Ahi zongin, mite bangin si-in, kumpi khat peuhpeuh bangin na kia ding uh hi.”
+**TDB77:** Ahi zongin, mite bangin si-in, kumpi khat peuhpeuh bangin na kia ding-te hi.”
 
-**ZVS:** Ahi zongin mite bangin si-in, kumpi khat peuhpeuh bangin na kia ding uh hi,” kong ci hi.
+**ZVS:** Ahi zongin mite bangin si-in, kumpi khat peuhpeuh bangin na kia ding-te hi,” kong ci hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

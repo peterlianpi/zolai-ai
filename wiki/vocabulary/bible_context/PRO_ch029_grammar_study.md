@@ -27,16 +27,16 @@
 
 **TDB77:** Kihilhhilh napi-a a mang nuam lote, bawl phatkik zawh nawn loh dongin kisia ding hi.
 
-**ZVS:** Kihilh napi-in a mang nuamlote bawlphat zawh nawnloh dongin kisia ding uh hi.
+**ZVS:** Kihilh napi-in a mang nuamlote bawlphat zawh nawnloh dongin kisia ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v2
 **EN:** When the righteous are in authority, the people rejoice: but when the wicked beareth rule, the people mourn.
 
-**TDB77:** Midikte in gam a uk ciangin gam mite lungdam a, migilote in a uk ciangin a gam mite thuum uh hi.
+**TDB77:** Midikte in gam a uk ciangin gam mite lungdam a, migilote in a uk ciangin a gam mite thuum-te hi.
 
-**ZVS:** Midikte in gam a uk ciangin gammite lungdam uh a, migilote in a uk ciangin a gammite thum uh hi.
+**ZVS:** Midikte in gam a uk ciangin gammite lungdam-te a, migilote in a uk ciangin a gammite thum-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -68,18 +68,18 @@
 ### v6
 **EN:** In the transgression of an evil man there is a snare: but the righteous doth sing and rejoice.
 
-**TDB77:** Migilote, amau’ mawhna sungah awkcip a, midikte ahih leh suakta-in lungdam uh hi.
+**TDB77:** Migilote, amau’ mawhna sungah awkcip a, midikte ahih leh suakta-in lungdam-te hi.
 
-**ZVS:** Migilote amau mawhna sungah awkcip a, midikte ahih leh suakta-in lungdam uh hi.
+**ZVS:** Migilote amau mawhna sungah awkcip a, midikte ahih leh suakta-in lungdam-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v7
 **EN:** The righteous considereth the cause of the poor: but the wicked regardeth not to know it.
 
-**TDB77:** Midikte in mi cimawhte’ ading thu khual a, migilote in tua bang khualna thei lo uh hi.
+**TDB77:** Midikte in mi cimawhte’ ading thu khual a, migilote in tua bang khualna thei lo-te hi.
 
-**ZVS:** Midikte in mi cimawhte-a' ding thu khual uh a, migilote in tua bang thukhualna theilo uh hi.
+**ZVS:** Midikte in mi cimawhte-a' ding thu khual-te a, migilote in tua bang thukhualna theilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -104,7 +104,7 @@
 ### v10
 **EN:** The bloodthirsty hate the upright: but the just seek his soul.
 
-**TDB77:** Mi a that nuamte in a thuman mi mudah a, midikte in a thuman mi hu uh hi.
+**TDB77:** Mi a that nuamte in a thuman mi mudah a, midikte in a thuman mi hu-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -122,16 +122,16 @@
 
 **TDB77:** Kumpipa in zuauthu saang-in na sem leh, a nuai-a ulian khempeuh zong zuau genin nitum ding hi.
 
-**ZVS:** Kumpipa in zuauthu saangin na sem leh a nuai-a ulian khempeuh zong zuaugenin nitum ding uh hi.
+**ZVS:** Kumpipa in zuauthu saangin na sem leh a nuai-a ulian khempeuh zong zuaugenin nitum ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
 ### v13
 **EN:** The poor and the deceitful man meet together: the
 
-**TDB77:** Mizawngpa leh mi bawlsiapa a kibatna uh khat om hi—Topa in a nih tuak-un mittang guan hi.
+**TDB77:** Mizawngpa leh mi bawlsiapa a kibatna-te khat om hi—Topa in a nih tuak-un mittang guan hi.
 
-**ZVS:** Mizawngpa leh mi bawlsiapa a kibatna uh khat om hi. { Topa } in a nih tuakun mittang guan' hi.
+**ZVS:** Mizawngpa leh mi bawlsiapa a kibatna-te khat om hi. { Topa } in a nih tuakun mittang guan' hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -156,9 +156,9 @@
 ### v16
 **EN:** When the wicked are multiplied, transgression increaseth: but the righteous shall see their fall.
 
-**TDB77:** Migilote ulian suak leh siatna khang semsem a, ahi zongin midikte in amau’ mit mahmah tawh, a gilo uliante’ za kiatna mu ding uh hi.
+**TDB77:** Migilote ulian suak leh siatna khang semsem a, ahi zongin midikte in amau’ mit mahmah tawh, a gilo uliante’ za kiatna mu ding-te hi.
 
-**ZVS:** Migilote ulian suak leh siatna khang semsem a, ahi zongin midikte in amau' mit mahmah tawh a gilo uliante' zakiatna mu ding uh hi.
+**ZVS:** Migilote ulian suak leh siatna khang semsem a, ahi zongin midikte in amau' mit mahmah tawh a gilo uliante' zakiatna mu ding-te hi.
 
 **Grammar:** intensifier: very/greatly | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -174,9 +174,9 @@
 ### v18
 **EN:** Where there is no vision, the people perish: but he that keepeth the law, happy is he.
 
-**TDB77:** Pasian’ lamlahna a kizuih lohna gam-ah, gamsung mite phengtat uh a, Pasian’ thukham a zui mite a lungdam hi.
+**TDB77:** Pasian’ lamlahna a kizuih lohna gam-ah, gamsung mite phengtat-te a, Pasian’ thukham a zui mite a lungdam hi.
 
-**ZVS:** Pasian' lamlahna a kizuih lohna gamah gamsung mite pheengtat gawp uh hi. Pasian' thukham a zui mite ahih leh a lungdam uh hi.
+**ZVS:** Pasian' lamlahna a kizuih lohna gamah gamsung mite pheengtat gawp-te hi. Pasian' thukham a zui mite ahih leh a lungdam-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -242,9 +242,9 @@
 ### v26
 **EN:** Many seek the ruler's favour; but every man's judgment cometh from the
 
-**TDB77:** Mi khempeuh in gam ukte’ maipha ngah ding hanciam uh a, ahi zongin Topa kiang pan bekin thutang kingah hi.
+**TDB77:** Mi khempeuh in gam ukte’ maipha ngah ding hanciam-te a, ahi zongin Topa kiang pan bekin thutang kingah hi.
 
-**ZVS:** Mi khempeuh in gam ukte' maipha ngah ding hanciam ciat uh a, ahi zongin { Topa' } kiang pan bekin thutang kingah hi.
+**ZVS:** Mi khempeuh in gam ukte' maipha ngah ding hanciam ciat-te a, ahi zongin { Topa' } kiang pan bekin thutang kingah hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -253,7 +253,7 @@
 
 **TDB77:** Midikte in migilote mudah a, migilote in midikte mudah hi.
 
-**ZVS:** Midikte in migilote mudah uh a, migilote in midikte mudah uh hi.
+**ZVS:** Midikte in migilote mudah-te a, migilote in midikte mudah-te hi.
 
 ---
 

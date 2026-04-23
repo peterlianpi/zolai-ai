@@ -26,7 +26,7 @@
 
 **TDB77:** Tua lai takin ka et leh, Zion Mual tungah ding-in a om Tuuno-a kipan amau taltang tung uhah Tuuno’ min tawh, ama Pa’ min tawh kigelha a om mi sangkhat-thenli-tulli amah tawh a om ka mu hi.
 
-**ZVS:** Tua ciangin ka khuadak leh Zion Mual tungah Tuuno a dingin a om ka mu hi. Amah tawh mi tul za leh tul sawmli leh tul li dingkhawm uh a, tua mite' taltangah Tuuno leh a pa' min kigelh hi.
+**ZVS:** Tua ciangin ka khuadak leh Zion Mual tungah Tuuno a dingin a om ka mu hi. Amah tawh mi tul za leh tul sawmli leh tul li dingkhawm-te a, tua mite' taltangah Tuuno leh a pa' min kigelh hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -42,27 +42,27 @@
 ### v3
 **EN:** And they sung as it were a new song before the throne, and before the four beasts, and the elders: and no man could learn that song but the hundred and forty and four thousand, which were redeemed from the earth.
 
-**TDB77:** Tua mite in tokhom mai-a ganhing lite leh upate mai-ah la thak a sa uh hi. Tua la thak zong leitung pana lei khitsa tua mi sangkhat-thenli-tullite sim loh kuamah in a sin thei kei uh hi.
+**TDB77:** Tua mite in tokhom mai-a ganhing lite leh upate mai-ah la thak a sa-te hi. Tua la thak zong leitung pana lei khitsa tua mi sangkhat-thenli-tullite sim loh kuamah in a sin thei kei-te hi.
 
-**ZVS:** Tokhom, ganhing lite, leh upate' lam nga-in tua mihonpite in la thak khat a sa uh hi. Tua la pen leitungah a kitankhiasa mi tul za leh tul sawmli leh tul lite simloh kuamah dang in sa theilo uh hi.
+**ZVS:** Tokhom, ganhing lite, leh upate' lam nga-in tua mihonpite in la thak khat a sa-te hi. Tua la pen leitungah a kitankhiasa mi tul za leh tul sawmli leh tul lite simloh kuamah dang in sa theilo-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v4
 **EN:** These are they which were not defiled with women; for they are virgins. These are they which follow the Lamb whithersoever he goeth. These were redeemed from among men, being the firstfruits unto God and to the Lamb.
 
-**TDB77:** Tua mite ahih uh leh, tangval ahi uh a, numei tawh khialhna nin a nei ngei lo ahi uh hi. Amaute in Tuuno paina teng a zui mite ahi uh hi. Pasian ading leh Tuuno ading a gah masa bel ahih nadingun mite lak pan a kilei mite ahi uh hi.
+**TDB77:** Tua mite ahih-te leh, tangval ahi-te a, numei tawh khialhna nin a nei ngei lo ahi-te hi. Amaute in Tuuno paina teng a zui mite ahi-te hi. Pasian ading leh Tuuno ading a gah masa bel ahih nadingun mite lak pan a kilei mite ahi-te hi.
 
-**ZVS:** Hih mite in numei tawh paktatna gamta ngei nailo uh a, paubaan'na a neilote ahi uh hi. Amaute in Tuuno a paina peuhpeuhah zui uh a, midang khempeuh sung panin a kitankhiasa, Pasian leh Tuuno tungah a kipia masa mite ahi uh hi.
+**ZVS:** Hih mite in numei tawh paktatna gamta ngei nailo-te a, paubaan'na a neilote ahi-te hi. Amaute in Tuuno a paina peuhpeuhah zui-te a, midang khempeuh sung panin a kitankhiasa, Pasian leh Tuuno tungah a kipia masa mite ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And in their mouth was found no guile: for they are without fault before the throne of God.
 
-**TDB77:** Amaute’ kam sung uhah zuau thu a om kei hi. Amaute in mawhsak nading a om lo mi ahi uh hi.
+**TDB77:** Amaute’ kam sung uhah zuau thu a om kei hi. Amaute in mawhsak nading a om lo mi ahi-te hi.
 
-**ZVS:** Amaute, paubaan'na om kiuhkeuhlo uh ahih manin zuauthu gen ngei hetlo uh hi.
+**ZVS:** Amaute, paubaan'na om kiuhkeuhlo-te ahih manin zuauthu gen ngei hetlo-te hi.
 
 **Grammar:** negation: kei | negation: lo | plural: uh marker
 
@@ -78,7 +78,7 @@
 ### v7
 **EN:** Saying with a loud voice, Fear God, and give glory to him; for the hour of his judgment is come: and worship him that made heaven, and earth, and the sea, and the fountains of waters.
 
-**TDB77:** Tua vantungmi in, “Pasian kihta un la, a vangliatna phat un. Bang hang hiam na cih uh leh, a thukhen ding hun a tungzo hi. Vantung, leitung, tuipi leh cikte a piangsakpa na bia un,” ci-in nakpi-in kiko-in a gen hi.
+**TDB77:** Tua vantungmi in, “Pasian kihta un la, a vangliatna phat un. Bang hang hiam na cih-te leh, a thukhen ding hun a tungzo hi. Vantung, leitung, tuipi leh cikte a piangsakpa na bia un,” ci-in nakpi-in kiko-in a gen hi.
 
 **ZVS:** Amah nakpi takin kiko a, “Amah in mihingte thu a khen ding hun hong tungta ahih manin Pasian kihta un la amah phat un. Van leh lei, tuinak leh tuipite a bawlpa hong bia ta un,” a ci hi.
 
@@ -107,16 +107,16 @@
 
 **TDB77:** Pasian’ hehna hai-ah a kihel khawm lo-a kikoih hehna leenggahzu tua mi in a dawn ding hi. Tua tham loin a siangtho vantungmite mai leh Tuuno’ mai-ah tua mi in mei leh kat tawh bawlsiatna a thuak ding hi.
 
-**ZVS:** Pasian' leenggahzu zong dawn ding uh hi. Pasian in ama hehna ahi leenggahzu khauh pen ama hehna hai sungah a dimtakin sung khinzo ta hi. Tua bang mite pen a siangtho vantung mite leh Tuuno mai-ah meikuang leh kat khu tawh gimna kipia ding hi.
+**ZVS:** Pasian' leenggahzu zong dawn ding-te hi. Pasian in ama hehna ahi leenggahzu khauh pen ama hehna hai sungah a dimtakin sung khinzo ta hi. Tua bang mite pen a siangtho vantung mite leh Tuuno mai-ah meikuang leh kat khu tawh gimna kipia ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v11
 **EN:** And the smoke of their torment ascendeth up for ever and ever: and they have no rest day nor night, who worship the beast and his image, and whosoever receiveth the mark of his name.
 
-**TDB77:** Tua mite gimna a thuakna meikhu in a tawntungin a kahto hi. Sahang leh ama milim a bia mi, sahang min ciamtehna a ngah mite in sun tawh zan tawh khawl hun nei loin a om uh hi.”
+**TDB77:** Tua mite gimna a thuakna meikhu in a tawntungin a kahto hi. Sahang leh ama milim a bia mi, sahang min ciamtehna a ngah mite in sun tawh zan tawh khawl hun nei loin a om-te hi.”
 
-**ZVS:** Amaute a kibawlsiatna mei, khu tawntung a, ganhing leh a lim bia-in, a min kigelhna a nei mi peuhmah in a sun a zanin tatsat loin gimna thuak paisuak uh hi,” a ci hi.
+**ZVS:** Amaute a kibawlsiatna mei, khu tawntung a, ganhing leh a lim bia-in, a min kigelhna a nei mi peuhmah in a sun a zanin tatsat loin gimna thuak paisuak-te hi,” a ci hi.
 
 **Grammar:** plural: uh marker
 
@@ -130,9 +130,9 @@
 ### v13
 **EN:** And I heard a voice from heaven saying unto me, Write, Blessed are the dead which die in the Lord from henceforth: Yea, saith the Spirit, that they may rest from their labours; and their works do follow them.
 
-**TDB77:** Tua lai takin, “Tu-a kipan Topa sungah a si mite in thupha ngahte ahi uh hi ci-in gelh in,” ci-in vantung pan hong gen aw ka za hi. Kha Siangtho in zong, “Tua thu a man hi. Tua mite in tua bang ciangin nasepna bei-in khawlna tawlngakna thu a ngah ding uh hi. Bang hang hiam na cih uh leh, amaute nasepna un zong amaute a zui ding uh hi,” ci-in a gen hi.
+**TDB77:** Tua lai takin, “Tu-a kipan Topa sungah a si mite in thupha ngahte ahi-te hi ci-in gelh in,” ci-in vantung pan hong gen aw ka za hi. Kha Siangtho in zong, “Tua thu a man hi. Tua mite in tua bang ciangin nasepna bei-in khawlna tawlngakna thu a ngah ding-te hi. Bang hang hiam na cih-te leh, amaute nasepna un zong amaute a zui ding-te hi,” ci-in a gen hi.
 
-**ZVS:** Tua ciangin vantung panin awging khat ka za a, “Tu-a kipanin Topa thu-ah a si mite mi hampha mahmah ahi hi, cihna gelh in,” a ci hi. Tua ciangin Kha Siangtho in, “Hi takpi hi. Amaute' nasepna thaman in amaute zui ding ahih manin a nasep gimna panun tawlnga-in nuamsa-in om ding uh hi,” ci-in a dawng hi.
+**ZVS:** Tua ciangin vantung panin awging khat ka za a, “Tu-a kipanin Topa thu-ah a si mite mi hampha mahmah ahi hi, cihna gelh in,” a ci hi. Tua ciangin Kha Siangtho in, “Hi takpi hi. Amaute' nasepna thaman in amaute zui ding ahih manin a nasep gimna panun tawlnga-in nuamsa-in om ding-te hi,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -148,7 +148,7 @@
 ### v15
 **EN:** And another angel came out of the temple, crying with a loud voice to him that sat on the cloud, Thrust in thy sickle, and reap: for the time is come for thee to reap; for the harvest of the earth is ripe.
 
-**TDB77:** Tua lai takin vantungmi khat biakinnpi sungpan paikhia-in meii tungah a tu mi kiangah, “Na phiaukawi sawl in la, at in. Bang hang hiam na cih uh leh, at hun tung zo a, leitung gah a min zo a, kuai gawp zo hi,” ci-in nakpi-in a kiko hi.
+**TDB77:** Tua lai takin vantungmi khat biakinnpi sungpan paikhia-in meii tungah a tu mi kiangah, “Na phiaukawi sawl in la, at in. Bang hang hiam na cih-te leh, at hun tung zo a, leitung gah a min zo a, kuai gawp zo hi,” ci-in nakpi-in a kiko hi.
 
 **ZVS:** Biakinn sung panin vantung mi khat hong paikhia a, meiipi tungah a tu mipa nakpi takin samin, “Leitung mite lak dingin min mahmah a, a lak hun hong tungta ahih manin na phiaukawi tawh at in,” a ci hi.
 

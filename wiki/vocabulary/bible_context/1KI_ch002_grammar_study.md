@@ -44,7 +44,7 @@
 ### v4
 **EN:** That the
 
-**TDB77:** Amah in kei tungah a hong gen, ‘Na tapate in a lungsim khempeuh uh leh a nuntakna khempeuh uh tawh keima mai-ah thuman takin gamtat ding limtakin a ngaihsut nak uh leh Israel kumpi tokhom tungah khat beek in nang hong tamasaklo ding hi,’ ci-a a thugenna { Topa } in a kipsak theihna dingin, Moses thukham sungah a kigelh bangin { Topa } na Pasian' thuhilhna zui-in, ama lampite hoihtakin tawn in la, ama thukhamte, a thupiakte, a biakna ngeina kipte hoihtakin zui in. Tua hi leh na heksuk na hektohna khempeuhah na dau hong pai ding hi.
+**TDB77:** Amah in kei tungah a hong gen, ‘Na tapate in a lungsim khempeuh-te leh a nuntakna khempeuh-te tawh keima mai-ah thuman takin gamtat ding limtakin a ngaihsut nak-te leh Israel kumpi tokhom tungah khat beek in nang hong tamasaklo ding hi,’ ci-a a thugenna { Topa } in a kipsak theihna dingin, Moses thukham sungah a kigelh bangin { Topa } na Pasian' thuhilhna zui-in, ama lampite hoihtakin tawn in la, ama thukhamte, a thupiakte, a biakna ngeina kipte hoihtakin zui in. Tua hi leh na heksuk na hektohna khempeuhah na dau hong pai ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -69,9 +69,9 @@
 ### v7
 **EN:** But shew kindness unto the sons of Barzillai the Gileadite, and let them be of those that eat at thy table: for so they came to me when I fled because of Absalom thy brother.
 
-**TDB77:** Ahih hangin Gilead mi Barzillai’ tapate tungah thuman takin gamta in la, na sabuai-a nete bangin amaute omsak in; bang hang hiam cih leh na sanggampa Absalom’ kiangpanin ka tai lai-in amaute in tua bang thumanna tawh kei hong bawl uh hi.
+**TDB77:** Ahih hangin Gilead mi Barzillai’ tapate tungah thuman takin gamta in la, na sabuai-a nete bangin amaute omsak in; bang hang hiam cih leh na sanggampa Absalom’ kiangpanin ka tai lai-in amaute in tua bang thumanna tawh kei hong bawl-te hi.
 
-**ZVS:** Ahih hangin Gilead mi Barzillai' tapate tungah thuman takin gamta in la, na sabuai-a an nete bangin amaute omsak in; bang hang hiam cih leh na sanggampa Absalom' kiang panin ka tai lai-in amaute in tua bang thumanna tawh kei hong bawl uh hi.
+**ZVS:** Ahih hangin Gilead mi Barzillai' tapate tungah thuman takin gamta in la, na sabuai-a an nete bangin amaute omsak in; bang hang hiam cih leh na sanggampa Absalom' kiang panin ka tai lai-in amaute in tua bang thumanna tawh kei hong bawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -139,9 +139,9 @@
 ### v15
 **EN:** And he said, Thou knowest that the kingdom was mine, and that all Israel set their faces on me, that I should reign: howbeit the kingdom is turned about, and is become my brother's: for it was his from the
 
-**TDB77:** Tuapa in, “Kumpi gam in keima’ aa hi-in, Israelte khempeuh in keima uk ding a lamet mahmahna uh na thei hi; ahi zongin kumpi gam kihei-in ka sanggampa’ aa suak hi; bang hang hiam cih leh hih thu in Topa kiang pan ahi hi.
+**TDB77:** Tuapa in, “Kumpi gam in keima’ aa hi-in, Israelte khempeuh in keima uk ding a lamet mahmahna-te na thei hi; ahi zongin kumpi gam kihei-in ka sanggampa’ aa suak hi; bang hang hiam cih leh hih thu in Topa kiang pan ahi hi.
 
-**ZVS:** Adonijah in, “Kumpi gam pen keima-a' hi-in, Israel-te khempeuh in keima uk ding a lamet mahmahna uh na thei hi. Ahi zongin kumpi gam kihei-in ka sanggampa-a' suak hi; bang hang hiam cih leh hih thu pen { Topa' } kiang pan ahi hi.
+**ZVS:** Adonijah in, “Kumpi gam pen keima-a' hi-in, Israel-te khempeuh in keima uk ding a lamet mahmahna-te na thei hi. Ahi zongin kumpi gam kihei-in ka sanggampa-a' suak hi; bang hang hiam cih leh hih thu pen { Topa' } kiang pan ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -351,9 +351,9 @@
 ### v39
 **EN:** And it came to pass at the end of three years, that two of the servants of Shimei ran away unto Achish son of Maachah king of Gath. And they told Shimei, saying, Behold, thy servants be in Gath.
 
-**TDB77:** Ahih hangin kum thum a cin’ ciangin Gath kumpipa Ma-akah’ tapa Akhish kiangah Shimei’ silate nih va tai uh hi. Shimei kiangah, “En in, na silate Gath-ah om hi,” ci-in a kigen ciangin
+**TDB77:** Ahih hangin kum thum a cin’ ciangin Gath kumpipa Ma-akah’ tapa Akhish kiangah Shimei’ silate nih va tai-te hi. Shimei kiangah, “En in, na silate Gath-ah om hi,” ci-in a kigen ciangin
 
-**ZVS:** Ahih hangin kum thum a cin' ciangin Gath kumpipa Maakah' tapa Akhish kiangah Shimei' silate nih va tai uh hi. Shimei' kiangah, “En in, na silate Gath-ah om hi,” ci-in a kigen ciangin
+**ZVS:** Ahih hangin kum thum a cin' ciangin Gath kumpipa Maakah' tapa Akhish kiangah Shimei' silate nih va tai-te hi. Shimei' kiangah, “En in, na silate Gath-ah om hi,” ci-in a kigen ciangin
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

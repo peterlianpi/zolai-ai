@@ -67,9 +67,9 @@
 ### v8
 **EN:** Maaziah, Bilgai, Shemaiah: these were the priests.
 
-**TDB77:** Ma-aziah, Bilgai, Shemaiah; hih teng pen siampite ahi uh hi.
+**TDB77:** Ma-aziah, Bilgai, Shemaiah; hih teng pen siampite ahi-te hi.
 
-**ZVS:** Maaziah, Bigai, leh Shemaiah in gelh uh hi.
+**ZVS:** Maaziah, Bigai, leh Shemaiah in gelh-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -100,9 +100,9 @@
 ### v13
 **EN:** Hodijah, Bani, Beninu.
 
-**TDB77:** Hodiah, Bani, Beninu ahi uh hi.
+**TDB77:** Hodiah, Bani, Beninu ahi-te hi.
 
-**ZVS:** Hodiah, Bani, leh Beninu ahi uh hi.
+**ZVS:** Hodiah, Bani, leh Beninu ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -182,9 +182,9 @@
 ### v27
 **EN:** Malluch, Harim, Baanah.
 
-**TDB77:** Malluk, Harim, Baanah-te ahi uh hi.
+**TDB77:** Malluk, Harim, Baanah-te ahi-te hi.
 
-**ZVS:** Maluk, Harim, leh Baanah-te ahi uh hi.
+**ZVS:** Maluk, Harim, leh Baanah-te ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -198,9 +198,9 @@
 ### v29
 **EN:** They clave to their brethren, their nobles, and entered into a curse, and into an oath, to walk in God's law, which was given by Moses the servant of God, and to observe and do all the commandments of the
 
-**TDB77:** a sanggam uh ahi, amau’ makaite pawmin, Pasian’ nasem Moses in a piak Pasian’ thukham zui-in, eite’ Topa ahi Topa’ thupiakna khempeuh, ama ngeinate leh ama thukhamte a zuih nading uh kiciamna bawl uh hi.
+**TDB77:** a sanggam-te ahi, amau’ makaite pawmin, Pasian’ nasem Moses in a piak Pasian’ thukham zui-in, eite’ Topa ahi Topa’ thupiakna khempeuh, ama ngeinate leh ama thukhamte a zuih nading-te kiciamna bawl-te hi.
 
-**ZVS:** a sanggam uh ahi amau' makaite pawmin, Pasian' nasem Moses in a piak Pasian' thukham zui-in, eite' Topa ahi { Topa' } thupiakna khempeuh, ama ngeinate leh ama thukhamte a zuihna ding uh kiciamna a bawl uh hi.
+**ZVS:** a sanggam-te ahi amau' makaite pawmin, Pasian' nasem Moses in a piak Pasian' thukham zui-in, eite' Topa ahi { Topa' } thupiakna khempeuh, ama ngeinate leh ama thukhamte a zuihna ding-te kiciamna a bawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -225,25 +225,25 @@
 ### v33
 **EN:** For the shewbread, and for the continual meat offering, and for the continual burnt offering, of the sabbaths, of the new moons, for the set feasts, and for the holy things, and for the sin offerings to make an atonement for Israel, and for all the work of the house of our God.
 
-**TDB77:** Eite' Pasian' biakinn-ah nasepna ding ahi Ompihna Anlum, a manmanin an tawh biakna, a manmanin meihal biakna, Sabbath ni, Khadet ni, a kiseh pawite, biakna letsongte, leh Israel mite' tangin a kibawlsak ahi kilemna bawlna dingin mawhna hanga biaknate, leh i Pasian' biakinn-ah sep ding a kisam dangte khempeuhah zat dingin kum simin shekel khat seh thumah khat piak ding ka kiciam uh hi.
+**TDB77:** Eite' Pasian' biakinn-ah nasepna ding ahi Ompihna Anlum, a manmanin an tawh biakna, a manmanin meihal biakna, Sabbath ni, Khadet ni, a kiseh pawite, biakna letsongte, leh Israel mite' tangin a kibawlsak ahi kilemna bawlna dingin mawhna hanga biaknate, leh i Pasian' biakinn-ah sep ding a kisam dangte khempeuhah zat dingin kum simin shekel khat seh thumah khat piak ding ka kiciam-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v34
 **EN:** And we cast the lots among the priests, the Levites, and the people, for the wood offering, to bring it into the house of our God, after the houses of our fathers, at times appointed year by year, to burn upon the altar of the
 
-**TDB77:** Tua ciangin thukham sunga a kigelh bangin a kiseh hunin a kum kumin Topa eite’ Pasian’ biakna tau tungah beh a ban banin i Pasian’ inn sungah cih dingin sing a kitut nadingin siampite, Levi mite, leh ko mi vekpite in sing pua ding sehna ai ka saan uh hi.
+**TDB77:** Tua ciangin thukham sunga a kigelh bangin a kiseh hunin a kum kumin Topa eite’ Pasian’ biakna tau tungah beh a ban banin i Pasian’ inn sungah cih dingin sing a kitut nadingin siampite, Levi mite, leh ko mi vekpite in sing pua ding sehna ai ka saan-te hi.
 
-**ZVS:** Tua ciangin thukham sunga a kigelh bangin a kiseh hunin a kumkumin { Topa } eite' Pasian' biakna tau tungah cih dingin beh a banbanin i Pasian' biakinn sungah sing a kitutna dingin siampite, Levi mite, leh ko mi vekpite in sing pua ding sehna ai ka san uh hi.
+**ZVS:** Tua ciangin thukham sunga a kigelh bangin a kiseh hunin a kumkumin { Topa } eite' Pasian' biakna tau tungah cih dingin beh a banbanin i Pasian' biakinn sungah sing a kitutna dingin siampite, Levi mite, leh ko mi vekpite in sing pua ding sehna ai ka san-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v35
 **EN:** And to bring the firstfruits of our ground, and the firstfruits of all fruit of all trees, year by year, unto the house of the
 
-**TDB77:** I leitang panin a piang anpalte leh singgah kungte panin a gah masa khempeuh a kum kumin Topa’ innah i puak ding ka kiciam uh hi;
+**TDB77:** I leitang panin a piang anpalte leh singgah kungte panin a gah masa khempeuh a kum kumin Topa’ innah i puak ding ka kiciam-te hi;
 
-**ZVS:** I leitang panin a piang anpalte leh singgah kungte panin a gah masa khempeuh a kumkumin { Topa' } biakinn-ah puak ding ka kiciam uh hi.
+**ZVS:** I leitang panin a piang anpalte leh singgah kungte panin a gah masa khempeuh a kumkumin { Topa' } biakinn-ah puak ding ka kiciam-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -259,27 +259,27 @@
 ### v37
 **EN:** And that we should bring the firstfruits of our dough, and our offerings, and the fruit of all manner of trees, of wine and of oil, unto the priests, to the chambers of the house of our God; and the tithes of our ground unto the Levites, that the same Levites might have the tithes in all the cities of our tillage.
 
-**TDB77:** leh annel lom i meek masakpen siampite tungah i puak ding, leh gah nei sing khempeuh panin a gah masa, sathau leh leenggahzu thakte khempeuh i Pasian’ inn vankoihna-ah i puak ding, leh lo khawhna i khuaneute khempeuh ah sehsawm suah sehkhat a kaikhawmte in Levi mite ahih manin i leitang panin i sehsawm suah sehkhat khempeuh Levi mite kiangah i puak ding ka kiciam uh hi.
+**TDB77:** leh annel lom i meek masakpen siampite tungah i puak ding, leh gah nei sing khempeuh panin a gah masa, sathau leh leenggahzu thakte khempeuh i Pasian’ inn vankoihna-ah i puak ding, leh lo khawhna i khuaneute khempeuh ah sehsawm suah sehkhat a kaikhawmte in Levi mite ahih manin i leitang panin i sehsawm suah sehkhat khempeuh Levi mite kiangah i puak ding ka kiciam-te hi.
 
-**ZVS:** leh annel lom meek masak pen siampite tungah puak ding, leh gahnei sing khempeuh panin a gah masa, sathau leh leenggahzu thakte khempeuh i Pasian' biakinn sung vankoihna-ah puak ding, leh lokhawhna khuaneute khempeuhah sawmah khat a kaikhawmte pen Levi mite ahih manin leitang panin sawmah khat khempeuh Levi mite kiangah puak ding ka kiciam uh hi.
+**ZVS:** leh annel lom meek masak pen siampite tungah puak ding, leh gahnei sing khempeuh panin a gah masa, sathau leh leenggahzu thakte khempeuh i Pasian' biakinn sung vankoihna-ah puak ding, leh lokhawhna khuaneute khempeuhah sawmah khat a kaikhawmte pen Levi mite ahih manin leitang panin sawmah khat khempeuh Levi mite kiangah puak ding ka kiciam-te hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v38
 **EN:** And the priest the son of Aaron shall be with the Levites, when the Levites take tithes: and the Levites shall bring up the tithe of the tithes unto the house of our God, to the chambers, into the treasure house.
 
-**TDB77:** Levi mite in sehsawm suah sehkhat a khop uh ciangin Aaron’ suan siampite tawh hih khawm ding uh hi; tua ciangin Levi mite in i Pasian’ inn sunga vankoihna a kilawm mun inndeite ah sehsawm suah sehkhat sungpan sawm-ah khat puak ding uh hi.
+**TDB77:** Levi mite in sehsawm suah sehkhat a khop-te ciangin Aaron’ suan siampite tawh hih khawm ding-te hi; tua ciangin Levi mite in i Pasian’ inn sunga vankoihna a kilawm mun inndeite ah sehsawm suah sehkhat sungpan sawm-ah khat puak ding-te hi.
 
-**ZVS:** Levi mite in sawmah khat a khop uh ciangin Aaron' suan siampite tawh hih khawm ding uh hi. Tua ciangin Levi mite in i Pasian' biakinn sunga vankoihna a kilawm mun inndeite-ah sawmah khat a ngah uh sung pan sawmah khat puaksawn ding uh hi.
+**ZVS:** Levi mite in sawmah khat a khop-te ciangin Aaron' suan siampite tawh hih khawm ding-te hi. Tua ciangin Levi mite in i Pasian' biakinn sunga vankoihna a kilawm mun inndeite-ah sawmah khat a ngah-te sung pan sawmah khat puaksawn ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v39
 **EN:** For the children of Israel and the children of Levi shall bring the offering of the corn, of the new wine, and the oil, unto the chambers, where are the vessels of the sanctuary, and the priests that minister, and the porters, and the singers: and we will not forsake the house of our God.
 
-**TDB77:** Bang hang hiam cih leh biakinn um-le-beelte a kikoihna inndeite leh na a sem siampite, kongcingte leh lasate a giahna inndeite ah Israel mite leh Levi mite in a kipia ante, leenggahzute leh sathaute a paipih ding uh ahi hi. Eite’ Pasian’ inn kin loin i om kei ding hi.
+**TDB77:** Bang hang hiam cih leh biakinn um-le-beelte a kikoihna inndeite leh na a sem siampite, kongcingte leh lasate a giahna inndeite ah Israel mite leh Levi mite in a kipia ante, leenggahzute leh sathaute a paipih ding-te ahi hi. Eite’ Pasian’ inn kin loin i om kei ding hi.
 
-**ZVS:** Bang hang hiam cih leh biakinn umlebeelte a kikoihna inndeite leh na a sem siampite, kongcingte leh lasate a giahna inndeite-ah Israel mite leh Levi mite in a kipia ante, leenggahzu leh sathaute a paipih ding uh ahi hi. Eite' Pasian' biakinn kinloin i om kei ding hi.
+**ZVS:** Bang hang hiam cih leh biakinn umlebeelte a kikoihna inndeite leh na a sem siampite, kongcingte leh lasate a giahna inndeite-ah Israel mite leh Levi mite in a kipia ante, leenggahzu leh sathaute a paipih ding-te ahi hi. Eite' Pasian' biakinn kinloin i om kei ding hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

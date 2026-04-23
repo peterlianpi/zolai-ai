@@ -26,9 +26,9 @@
 **Context:** Used to refer to the male descendants of Asaph, Heman, and Jeduthun.
 **Example:** Asaf, Heman, leh Jeduthunte' tapate pawlkhat...
 
-### koih tuam uh hi = set apart, appointed
+### koih tuam-te hi = set apart, appointed
 **Context:** The action of setting aside specific individuals for a particular service.
-**Example:** nasepna-a dingin koih tuam uh hi.
+**Example:** nasepna-a dingin koih tuam-te hi.
 
 ### makaihna nuai-ah = under the hand/authority of
 **Context:** Indicates being under the direction or authority of someone (like the king or the father/leader).
@@ -42,9 +42,9 @@
 **Context:** The act of praising God.
 **Example:** leh { Topa } phatna-in laia lasakna tawh...
 
-### guk pha uh hi = there were six
+### guk pha-te hi = there were six
 **Context:** Stating the number of sons under Jeduthun's leadership.
-**Example:** Mattibiah, guk pha uh hi.
+**Example:** Mattibiah, guk pha-te hi.
 
 ### thuciamna = prophecy, word/promise
 **Context:** Referring to the word or promise of God.
@@ -52,15 +52,15 @@
 
 ### thupiakna = commandment, order
 **Context:** The official order or decree from the king.
-**Example:** kumpipa’ thupiakna nuai-ah om uh hi.
+**Example:** kumpipa’ thupiakna nuai-ah om-te hi.
 
 ### sinna a nei a siam mi = those who were skilled/instructed
 **Context:** Describing the Levites who were trained in music for the Lord's service.
 **Example:** lasakna lamah sinna a nei a siam mi a vekpi-in...
 
-### ai a san uh hi = they cast lots
+### ai a san-te hi = they cast lots
 **Context:** The process of determining assignments by lot.
-**Example:** amau' nasep ding uh ai a san uh hi.
+**Example:** amau' nasep ding-te ai a san-te hi.
 
 ### ai masa = the first lot
 **Context:** Referring to the first draw in the casting of lots.
@@ -82,7 +82,7 @@
 - **Topa phatna-in** = in the praise of the Lord
   - Usage: Describes the purpose or manner of the musical offering.
 
-- **a pa uh ukna nuai-ah** = under the leadership/rule of their father
+- **a pa-te ukna nuai-ah** = under the leadership/rule of their father
   - Usage: Indicates direct subordination to the patriarch/leader in the service structure.
 
 - **a neu a lian, sia leh a sinte a kibangin** = as well the small as the great, the teacher as the scholar

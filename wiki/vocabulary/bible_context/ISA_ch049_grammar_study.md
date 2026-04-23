@@ -73,45 +73,45 @@
 ### v6
 **EN:** And he said, It is a light thing that thou shouldest be my servant to raise up the tribes of Jacob, and to restore the preserved of Israel: I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth.
 
-**TDB77:** amah in, “Jakob minamte a laamto ding leh ka kepsa Israel mite a ngei uh a bangsak kik ding in keima nasem na hihna pen a baih lua mahmah nasep ahi hi; keima hotkhiatna in lei mong dong a tun’ theih nadingin Gentailte tungah khuavak dingin nang kong pia ding hi,” hong ci hi.
+**TDB77:** amah in, “Jakob minamte a laamto ding leh ka kepsa Israel mite a ngei-te a bangsak kik ding in keima nasem na hihna pen a baih lua mahmah nasep ahi hi; keima hotkhiatna in lei mong dong a tun’ theih nadingin Gentailte tungah khuavak dingin nang kong pia ding hi,” hong ci hi.
 
-**ZVS:** Amah in, “Jakob minamte a laamto ding leh a suaktalai Israel mite a ngei uh a bangsakkik dingin keima nasem na hihna pen a baih lua mahmah nasep ahi hi. Keima hotkhiatna in leimong dong a phak theihna dingin minam dangte tungah khuavak ahi dingin nang kong pia ding hi,” hong ci hi.
+**ZVS:** Amah in, “Jakob minamte a laamto ding leh a suaktalai Israel mite a ngei-te a bangsakkik dingin keima nasem na hihna pen a baih lua mahmah nasep ahi hi. Keima hotkhiatna in leimong dong a phak theihna dingin minam dangte tungah khuavak ahi dingin nang kong pia ding hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Thus saith the
 
-**TDB77:** Israel a Tankhia-pa leh ama Siangtho Pa ahi Topa in, nakpi takin simmawhna a thuak, minamte in a muhdah, gam ukte’ nasempa tungah: “Nangmah hong teel, Israelte’ Siangtho Pa, a thuman Topa’ hangin, mite na hotkhiatna thu kumpite in a muh ciangun zahtakna tawh na mai-ah hong ding ding uh a, na mai-ah uliante, hong kun ding uh hi,” hong ci hi.
+**TDB77:** Israel a Tankhia-pa leh ama Siangtho Pa ahi Topa in, nakpi takin simmawhna a thuak, minamte in a muhdah, gam ukte’ nasempa tungah: “Nangmah hong teel, Israelte’ Siangtho Pa, a thuman Topa’ hangin, mite na hotkhiatna thu kumpite in a muh ciangun zahtakna tawh na mai-ah hong ding ding-te a, na mai-ah uliante, hong kun ding-te hi,” hong ci hi.
 
-**ZVS:** Israel a honpa leh ama Siangtho Pa ahi { Topa } in nakpi takin simmawhna a thuak, minamte in a muhdah, gam ukte' nasempa tungah: “Nangmah a hong teel Israel-te' Siangtho Pa, a thuman { Topa}' hangin mite na hotkhiatna thu kumpite in a muh uh ciangin zahtakna tawh na mai-ah hong ding ding uh a, na mai-ah uliante hong kun ding uh hi,” hong ci hi.
+**ZVS:** Israel a honpa leh ama Siangtho Pa ahi { Topa } in nakpi takin simmawhna a thuak, minamte in a muhdah, gam ukte' nasempa tungah: “Nangmah a hong teel Israel-te' Siangtho Pa, a thuman { Topa}' hangin mite na hotkhiatna thu kumpite in a muh-te ciangin zahtakna tawh na mai-ah hong ding ding-te a, na mai-ah uliante hong kun ding-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v8
 **EN:** Thus saith the
 
-**TDB77:** Topa in ama mite kiangah, “Note hotkhiat ding hun a tun ciangin maipha kong pia ding a, huhna nong ngetna uh kong pia ding hi. Note hong kemin kong hu ding a, note tung tawnin mi khempeuh tawh thuciamna ka bawl ding hi. A kinusia na gam puahpha in a sung uhah, note a luah dingin kong teengsak kik ding hi.
+**TDB77:** Topa in ama mite kiangah, “Note hotkhiat ding hun a tun ciangin maipha kong pia ding a, huhna nong ngetna-te kong pia ding hi. Note hong kemin kong hu ding a, note tung tawnin mi khempeuh tawh thuciamna ka bawl ding hi. A kinusia na gam puahpha in a sung uhah, note a luah dingin kong teengsak kik ding hi.
 
-**ZVS:** { Topa } in ama mite kiangah, “Note hotkhiat ding hun a hong tun' ciangin maipha kong pia ding a, huhna nong ngetna uh ka hong pia ding hi. Note hong kemin ka hong hu ding a, note' tung tawnin mi khempeuh tawh thuciamna ka bawl ding hi. A kinusia na gamsung uhah note kong tengsakkik ding hi.
+**ZVS:** { Topa } in ama mite kiangah, “Note hotkhiat ding hun a hong tun' ciangin maipha kong pia ding a, huhna nong ngetna-te ka hong pia ding hi. Note hong kemin ka hong hu ding a, note' tung tawnin mi khempeuh tawh thuciamna ka bawl ding hi. A kinusia na gamsung uhah note kong tengsakkik ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v9
 **EN:** That thou mayest say to the prisoners, Go forth; to them that are in darkness, Shew yourselves. They shall feed in the ways, and their pastures shall be in all high places.
 
-**TDB77:** Thongkia mite tungah, ‘Hong paikhia un,’ ci-in, khuamial sunga om mite tungah, ‘Hong pusuak un,’ ka ci ding hi. Amaute pen lam tawntung ah an a ne, mualpawn a sang munte khempeuh ah, nuam takin a gamta tuute tawh kibang ding uh hi.
+**TDB77:** Thongkia mite tungah, ‘Hong paikhia un,’ ci-in, khuamial sunga om mite tungah, ‘Hong pusuak un,’ ka ci ding hi. Amaute pen lam tawntung ah an a ne, mualpawn a sang munte khempeuh ah, nuam takin a gamta tuute tawh kibang ding-te hi.
 
-**ZVS:** Thongkia mite tungah, ‘Hong paikhia un,’ ci-in, khuamial sunga om mite tungah, ‘Hong pusuak un,’ ka ci ding hi. Amaute pen lam tawntungah an a ne, mual pawn a sang munte khempeuhah nuamtakin a gamta tuute tawh kibang ding uh hi.
+**ZVS:** Thongkia mite tungah, ‘Hong paikhia un,’ ci-in, khuamial sunga om mite tungah, ‘Hong pusuak un,’ ka ci ding hi. Amaute pen lam tawntungah an a ne, mual pawn a sang munte khempeuhah nuamtakin a gamta tuute tawh kibang ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** They shall not hunger nor thirst; neither shall the heat nor sun smite them: for he that hath mercy on them shall lead them, even by the springs of water shall he guide them.
 
-**TDB77:** Amaute gil kial lo, dangtak lo ding uh a, huihsa in hita leh nisa in hita leh amaute sukha lo ding hi, bang hang hiam cih leh amaute a hehpihpa in amaute lamkaih ding a, lui tui kiangah amaute paipih ding hi.
+**TDB77:** Amaute gil kial lo, dangtak lo ding-te a, huihsa in hita leh nisa in hita leh amaute sukha lo ding hi, bang hang hiam cih leh amaute a hehpihpa in amaute lamkaih ding a, lui tui kiangah amaute paipih ding hi.
 
-**ZVS:** Amaute gilkial loin, dangtaklo ding uh a, huihsa leh nisa in amaute sukha lo ding hi. Bang hang hiam cih leh amaute a hehpihpa in amaute lamkaih ding a, ciktui kiangah amaute paipih ding hi.
+**ZVS:** Amaute gilkial loin, dangtaklo ding-te a, huihsa leh nisa in amaute sukha lo ding hi. Bang hang hiam cih leh amaute a hehpihpa in amaute lamkaih ding a, ciktui kiangah amaute paipih ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -127,9 +127,9 @@
 ### v12
 **EN:** Behold, these shall come from far: and, lo, these from the north and from the west; and these from the land of Sinim.
 
-**TDB77:** Ka mite a gamlapi panin hong pai ding uh a, leilu lam gam leh nitumna lam gamte panin hong pai-in, pawl khatte, leitaw lam Sinim gam panin hong ciah ding uh hi,” a ci hi.
+**TDB77:** Ka mite a gamlapi panin hong pai ding-te a, leilu lam gam leh nitumna lam gamte panin hong pai-in, pawl khatte, leitaw lam Sinim gam panin hong ciah ding-te hi,” a ci hi.
 
-**ZVS:** Ka mite a gamlapi panin hong pai ding uh a, leilu lam gam leh nitumna lam gamte panin amaute hong pai-in, pawlkhatte, leitaw lam Siene gam panin hong ciah ding uh hi,” a ci hi.
+**ZVS:** Ka mite a gamlapi panin hong pai ding-te a, leilu lam gam leh nitumna lam gamte panin amaute hong pai-in, pawlkhatte, leitaw lam Siene gam panin hong ciah ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -145,9 +145,9 @@
 ### v14
 **EN:** But Zion said, The
 
-**TDB77:** Ahih hangin Jerusalem mite in, Topa in eite hong nusia khin a, i Topa in eite hong mangngilh khin hi,” a ci uh hi.
+**TDB77:** Ahih hangin Jerusalem mite in, Topa in eite hong nusia khin a, i Topa in eite hong mangngilh khin hi,” a ci-te hi.
 
-**ZVS:** Ahih hangin Jerusalem mite in, “{ Topa } in eite hong nusia khin a, hong mangngilh khinta hi,” a ci uh hi.
+**ZVS:** Ahih hangin Jerusalem mite in, “{ Topa } in eite hong nusia khin a, hong mangngilh khinta hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | completed: already done | plural: uh marker
 
@@ -170,36 +170,36 @@
 ### v17
 **EN:** Thy children shall make haste; thy destroyers and they that made thee waste shall go forth of thee.
 
-**TDB77:** Nang hong bawlte in nang hong susiate nuai-siah ta uh a, nang hong siasakte nang kiang panin taikhia ta uh hi.
+**TDB77:** Nang hong bawlte in nang hong susiate nuai-siah ta-te a, nang hong siasakte nang kiang panin taikhia ta-te hi.
 
-**ZVS:** “Nang a hong lam mite in nang a hong susiate nuaisiah khinta uh a, nang hong siasakte nang kiang panin taikhia khinta uh hi.
+**ZVS:** “Nang a hong lam mite in nang a hong susiate nuaisiah khinta-te a, nang hong siasakte nang kiang panin taikhia khinta-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Lift up thine eyes round about, and behold: all these gather themselves together, and come to thee. As I live, saith the
 
-**TDB77:** Na kimkotah khuadak to in la, mu in; na mi khempeuh hong kikhawm uh a, nang kiangah amaute hong ciah uh hi. Keimah in a nungta Topa ka hih mah bangin, na mite khempeuh hangin na kisial ding a, mothak nu in a zat bangin amaute khempeuh kizepna-in na ok ding hi.
+**TDB77:** Na kimkotah khuadak to in la, mu in; na mi khempeuh hong kikhawm-te a, nang kiangah amaute hong ciah-te hi. Keimah in a nungta Topa ka hih mah bangin, na mite khempeuh hangin na kisial ding a, mothak nu in a zat bangin amaute khempeuh kizepna-in na ok ding hi.
 
-**ZVS:** Na kimkotah khuadakto in la mu in. Na mi khempeuh hong kikhawm uh a, nangma kiangah amaute hong ciah uh hi. Kei pen a nungta { Topa} ka hih mah bangin, na mite khempeuh hangin nang na kisial ding a, mothak in kizepna-in a zat bangin amaute khempeuh na zang ding hi.
+**ZVS:** Na kimkotah khuadakto in la mu in. Na mi khempeuh hong kikhawm-te a, nangma kiangah amaute hong ciah-te hi. Kei pen a nungta { Topa} ka hih mah bangin, na mite khempeuh hangin nang na kisial ding a, mothak in kizepna-in a zat bangin amaute khempeuh na zang ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** For thy waste and thy desolate places, and the land of thy destruction, shall even now be too narrow by reason of the inhabitants, and they that swallowed thee up shall be far away.
 
-**TDB77:** “A kisia, a kinusia nangma munte leh a kisusia nangma gamte in, nangma tunga a teeng mite’ adingin kawcik lua taktak ding a, nang hong valhtum mite pen gamlapi-ah om ding uh hi.
+**TDB77:** “A kisia, a kinusia nangma munte leh a kisusia nangma gamte in, nangma tunga a teeng mite’ adingin kawcik lua taktak ding a, nang hong valhtum mite pen gamlapi-ah om ding-te hi.
 
-**ZVS:** “A kisia, a kinusia khinsa nangma munte leh a kisusia nangma gam pen nangma tungah a teng mite-a' dingin tu-in kawcik lua ta ding a, nang hong valhtum mite, gamlapi-ah om ding uh hi.
+**ZVS:** “A kisia, a kinusia khinsa nangma munte leh a kisusia nangma gam pen nangma tungah a teng mite-a' dingin tu-in kawcik lua ta ding a, nang hong valhtum mite, gamlapi-ah om ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** The children which thou shalt have, after thou hast lost the other, shall say again in thine ears, The place is too strait for me: give place to me that I may dwell.
 
-**TDB77:** Na kikhen uh hun, na dah hun sungun a suak mite in nangma kiangah, ‘Kote’ adingin mun kawcik lua hi; ka om nading uh mun hong bawlsak in,’ hong ci ding uh hi.
+**TDB77:** Na kikhen-te hun, na dah hun sungun a suak mite in nangma kiangah, ‘Kote’ adingin mun kawcik lua hi; ka om nading-te mun hong bawlsak in,’ hong ci ding-te hi.
 
-**ZVS:** Na kikhen hun uh, salin a om sungun a suak mite in nangma kiangah, ‘Kote-a' dingin mun kawcik lua hi; ka omna ding uh mun hong bawlsak in,’ hong ci ding uh hi.
+**ZVS:** Na kikhen hun uh, salin a om sungun a suak mite in nangma kiangah, ‘Kote-a' dingin mun kawcik lua hi; ka omna ding-te mun hong bawlsak in,’ hong ci ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -215,18 +215,18 @@
 ### v22
 **EN:** Thus saith the Lord
 
-**TDB77:** Topa Pasian in: “En un, Gentailte tungah ka khut ka laamto ding a, mite tungah ka lim ka lakto ding hi; amaute in a ang sung uhah na tapate tawi-in hong paipih ding uh a, a liangko tung uhah na tanute hong pua ding uh hi.
+**TDB77:** Topa Pasian in: “En un, Gentailte tungah ka khut ka laamto ding a, mite tungah ka lim ka lakto ding hi; amaute in a ang sung uhah na tapate tawi-in hong paipih ding-te a, a liangko tung uhah na tanute hong pua ding-te hi.
 
-**ZVS:** Topa { Pasian } in, “En in, minamte tungah ka khut ka laamto ding a, mite tungah ka lim ka lakto ding hi. Amaute in a angsung uhah na tapate tawi-in hong paipih ding uh a, a liangko tung uhah na tate hong pua ding uh hi.
+**ZVS:** Topa { Pasian } in, “En in, minamte tungah ka khut ka laamto ding a, mite tungah ka lim ka lakto ding hi. Amaute in a angsung uhah na tapate tawi-in hong paipih ding-te a, a liangko tung uhah na tate hong pua ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v23
 **EN:** And kings shall be thy nursing fathers, and their queens thy nursing mothers: they shall bow down to thee with their face toward the earth, and lick up the dust of thy feet; and thou shalt know that I am the
 
-**TDB77:** Kumpite pen nang hong kem pate hi ding a, kumpinute pen nang hong khoi na nute hi ding hi. Amaute in a maitang uh lei lak ngatin nang kiangah hong kun ding uh a, na khe-a leivuite liak ding uh hi. Tua ciangin keimah in Topa ka hihna na thei ding hi; kei sungah a lamente maizum lo ding hi,” a ci hi.
+**TDB77:** Kumpite pen nang hong kem pate hi ding a, kumpinute pen nang hong khoi na nute hi ding hi. Amaute in a maitang-te lei lak ngatin nang kiangah hong kun ding-te a, na khe-a leivuite liak ding-te hi. Tua ciangin keimah in Topa ka hihna na thei ding hi; kei sungah a lamente maizum lo ding hi,” a ci hi.
 
-**ZVS:** Kumpite pen nang hong kem na pate hong hi ding a, kumpinute pen nang hong khoi na nute hong hi ding hi. Amaute in a maitang uh leilak ngatin nang kiangah hong kun ding uh a, na khe-a leivui baangte a liak ding uh hi. Tua ciangin kei pen { Topa } ka hihna na hong thei ding hi. Kei hong muangte maizumlo ding hi,” a ci hi.
+**ZVS:** Kumpite pen nang hong kem na pate hong hi ding a, kumpinute pen nang hong khoi na nute hong hi ding hi. Amaute in a maitang-te leilak ngatin nang kiangah hong kun ding-te a, na khe-a leivui baangte a liak ding-te hi. Tua ciangin kei pen { Topa } ka hihna na hong thei ding hi. Kei hong muangte maizumlo ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -251,9 +251,9 @@
 ### v26
 **EN:** And I will feed them that oppress thee with their own flesh; and they shall be drunken with their own blood, as with sweet wine: and all flesh shall know that I the
 
-**TDB77:** Nang hong nengniam mite pen amau’ satak mah ka ne sak ding a, zukham bangin amau’ si mah kham ding uh hi. Tua ciangin, kei pen, Jakob’ Vanglian Pa, nang hong Tankhiapa, nang hong Honpa Topa ka hihna mi khempeuh in thei ding hi,” a ci hi.
+**TDB77:** Nang hong nengniam mite pen amau’ satak mah ka ne sak ding a, zukham bangin amau’ si mah kham ding-te hi. Tua ciangin, kei pen, Jakob’ Vanglian Pa, nang hong Tankhiapa, nang hong Honpa Topa ka hihna mi khempeuh in thei ding hi,” a ci hi.
 
-**ZVS:** Nang hong nengniam mite pen amau' satak mah ka nesak ding a, zukham bangin amau' si mah a kham ding uh hi. Tua ciangin kei pen Jakob' Vanglian Pa, nang hong Tankhiapa, nang hong Hon { Topa } ka hihna mi khempeuh in hong thei ding uh hi,” a ci hi.
+**ZVS:** Nang hong nengniam mite pen amau' satak mah ka nesak ding a, zukham bangin amau' si mah a kham ding-te hi. Tua ciangin kei pen Jakob' Vanglian Pa, nang hong Tankhiapa, nang hong Hon { Topa } ka hihna mi khempeuh in hong thei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 

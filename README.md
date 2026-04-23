@@ -171,7 +171,7 @@ See `agents/README.md` for the full list of 34 agents.
 ## Zolai Language Rules (ZVS 2018 Standard)
 
 **Dialect:** Tedim ZVS — use `pasian`, `gam`, `tapa`, `topa`, `kumpipa`, `tua`  
-**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`  
+**Never:** `pasian`, `gam`, `tapa`, `bawipa`, `siangpahrang`, `cu/cun`  
 **Word order:** SOV (Subject-Object-Verb)  
 **Negation:** `kei` for conditionals, `lo` for simple negatives  
 **Plural:** Use `-te` suffix (e.g., `thupite-te` = machines)  

@@ -28,14 +28,14 @@
 ### v1
 **EN:** If there be therefore any consolation in Christ, if any comfort of love, if any fellowship of the Spirit, if any bowels and mercies,
 
-**TDB77:** Note, Khrih tawh kipawlin na nuntakna uh in note hong thahatsak hi. Kha Siangtho tawh kikhawlin, khatlekhat kihehpihin, dikna na kibawl uh hi.
+**TDB77:** Note, Khrih tawh kipawlin na nuntakna-te in note hong thahatsak hi. Kha Siangtho tawh kikhawlin, khatlekhat kihehpihin, dikna na kibawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** Fulfil ye my joy, that ye be likeminded, having the same love, being of one accord, of one mind.
 
-**TDB77:** Tua ahih manin kei tawh ngaihsutna kibangin note khatlekhat ki-itin, khatlekhat lungsim kituakin na omna uh tawh keima lungdamna na hong cingtaaksakna dingun ka hong kun hi.
+**TDB77:** Tua ahih manin kei tawh ngaihsutna kibangin note khatlekhat ki-itin, khatlekhat lungsim kituakin na omna-te tawh keima lungdamna na hong cingtaaksakna dingun ka hong kun hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix
 
@@ -105,39 +105,39 @@
 ### v10
 **EN:** That at the name of Jesus every knee should bow, of things in heaven, and things in earth, and things under the earth;
 
-**TDB77:** Tua ahih manin vantung, leitung, leinuai-a om mi khempeuh in Jesuh pahtawi-in khukdin' ding uh a,
+**TDB77:** Tua ahih manin vantung, leitung, leinuai-a om mi khempeuh in Jesuh pahtawi-in khukdin' ding-te a,
 
 **Grammar:** serial verb: -in (and then) | causal: because | plural: uh marker
 
 ### v11
 **EN:** And that every tongue should confess that Jesus Christ is Lord, to the glory of God the Father.
 
-**TDB77:** Jesuh Khrih, Topa ahi hi, ci-in taangko-in Pa Pasian a min thangsak ding uh hi.
+**TDB77:** Jesuh Khrih, Topa ahi hi, ci-in taangko-in Pa Pasian a min thangsak ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v12
 **EN:** Wherefore, my beloved, as ye have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling.
 
-**TDB77:** Tua ahih ciangin ka itte aw, note in thu na man’ tawntung uh bangin keimah maitangah tham loin, ka muh lohna-ah zong thungai-in, launa liin’na lungsim tawh, gupna na ngahna uh semkhia un.
+**TDB77:** Tua ahih ciangin ka itte aw, note in thu na man’ tawntung-te bangin keimah maitangah tham loin, ka muh lohna-ah zong thungai-in, launa liin’na lungsim tawh, gupna na ngahna-te semkhia un.
 
-**ZVS:** Tua ahih ciangin ka hong it sanggamte aw, note tawh ka hong omkhawm lai-in ka thu na hong man' tawntung uh mah bangin, tu-in note tawh ka hong omkhawm loh hun ciangin zong ka thu na hong man' ding uh thupizaw lai hi. Pasian kihtakna leh zahtakna tawh na ma uh nawt un la, amah in note hong hotkhiatna thu a cingtaak suaksak un.
+**ZVS:** Tua ahih ciangin ka hong it sanggamte aw, note tawh ka hong omkhawm lai-in ka thu na hong man' tawntung-te mah bangin, tu-in note tawh ka hong omkhawm loh hun ciangin zong ka thu na hong man' ding-te thupizaw lai hi. Pasian kihtakna leh zahtakna tawh na ma-te nawt un la, amah in note hong hotkhiatna thu a cingtaak suaksak un.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then)
 
 ### v13
 **EN:** For it is God which worketh in you both to will and to do of his good pleasure.
 
-**TDB77:** Bang hang hiam na cih uh leh, note in ama deihna bangin na sepnop nading uh leh na sep theih nadingun Pasian mahmah in nomau sungah hong sem ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, note in ama deihna bangin na sepnop nading-te leh na sep theih nadingun Pasian mahmah in nomau sungah hong sem ding hi.
 
-**ZVS:** Bang hang hiam cih leh note in utna lungsim na neihna ding uh leh ama deihna na zuihzawhna dingun note sungah Pasian in a tawntungin na a hong sem ahi hi.
+**ZVS:** Bang hang hiam cih leh note in utna lungsim na neihna ding-te leh ama deihna na zuihzawhna dingun note sungah Pasian in a tawntungin na a hong sem ahi hi.
 
 **Grammar:** intensifier: very/greatly | future: will
 
 ### v14
 **EN:** Do all things without murmurings and disputings:
 
-**TDB77:** Note in na hihna khempeuh uh ah thuum lo, tau lo, kinial loin na hih un.
+**TDB77:** Note in na hihna khempeuh-te ah thuum lo, tau lo, kinial loin na hih un.
 
 **ZVS:** Na khempeuh phunlo, thu nialloin sem un.
 
@@ -146,9 +146,9 @@
 ### v15
 **EN:** That ye may be blameless and harmless, the sons of God, without rebuke, in the midst of a crooked and perverse nation, among whom ye shine as lights in the world;
 
-**TDB77:** Tua bangin na hih uh leh, mawhsak nading om loin, kuama tungah khialhna om loin, lungkawi-a kisia mi pawlte lakah mawhna neu kha beek a nei lo Pasian’ tate na suak ding uh hi. Nuntakna tawh kipawl thu hilhin, vantunga aksite bangin tua mi pawlte lakah na taang ding uh hi.
+**TDB77:** Tua bangin na hih-te leh, mawhsak nading om loin, kuama tungah khialhna om loin, lungkawi-a kisia mi pawlte lakah mawhna neu kha beek a nei lo Pasian’ tate na suak ding-te hi. Nuntakna tawh kipawl thu hilhin, vantunga aksite bangin tua mi pawlte lakah na taang ding-te hi.
 
-**ZVS:** Tua hi leh a lungsim kawi, a hoihlo leitung mite lakah paubaan'na a neilo a siangtho, Pasian' tate na hi ding uh a, nuntakna thu na genna uh hangin leitung mite lakah khuavak bangin na hoihna uh a kilang mite na hi ding uh hi.
+**ZVS:** Tua hi leh a lungsim kawi, a hoihlo leitung mite lakah paubaan'na a neilo a siangtho, Pasian' tate na hi ding-te a, nuntakna thu na genna-te hangin leitung mite lakah khuavak bangin na hoihna-te a kilang mite na hi ding-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -164,7 +164,7 @@
 ### v17
 **EN:** Yea, and if I be offered upon the sacrifice and service of your faith, I joy, and rejoice with you all.
 
-**TDB77:** Tua tham loin, na piak uh biakna, note upna biakna tungah ka pumpi ka piakhia zongin, ka nuam hi; note khempeuh tawh ka lungdam khawm hi.
+**TDB77:** Tua tham loin, na piak-te biakna, note upna biakna tungah ka pumpi ka piakhia zongin, ka nuam hi; note khempeuh tawh ka lungdam khawm hi.
 
 **ZVS:** Note' upna hangin biakpiakna-in keimah hong kigo hita leh zong, note khempeuh mah bangin kei zong ka lungdam veve ding hi.
 
@@ -187,7 +187,7 @@
 ### v20
 **EN:** For I have no man likeminded, who will naturally care for your state.
 
-**TDB77:** Bang hang hiam na cih uh leh, amah in note phattuam nading lungsim pha a neih bangin a nei khat beek keima kiangah a om kei hi.
+**TDB77:** Bang hang hiam na cih-te leh, amah in note phattuam nading lungsim pha a neih bangin a nei khat beek keima kiangah a om kei hi.
 
 **ZVS:** Note ka hong lunghihmawh zahin amah bek mah in note hong lunghihmawhpih hi.
 
@@ -196,16 +196,16 @@
 ### v21
 **EN:** For all seek their own, not the things which are Jesus Christ's.
 
-**TDB77:** Amaute in Zeisu Khazih’ phattuamna zong loin amaute’ phattuamna bek a zong uh hi.
+**TDB77:** Amaute in Zeisu Khazih’ phattuamna zong loin amaute’ phattuamna bek a zong-te hi.
 
-**ZVS:** Adangte in ahih leh Jesuh Khrih thu kinloin, amau' aituam vai bek lunghimawh uh hi.
+**ZVS:** Adangte in ahih leh Jesuh Khrih thu kinloin, amau' aituam vai bek lunghimawh-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** But ye know the proof of him, that, as a son with the father, he hath served with me in the gospel.
 
-**TDB77:** Ahih hangin ta in a pa tawh na a sepkhawm mah bangin Timoti in kei tawh Lungdamna Thu khan’sakna-ah na a semkhawm hi ci-in ama teci thu note in na thei uh hi.
+**TDB77:** Ahih hangin ta in a pa tawh na a sepkhawm mah bangin Timoti in kei tawh Lungdamna Thu khan’sakna-ah na a semkhawm hi ci-in ama teci thu note in na thei-te hi.
 
 **ZVS:** Ahi zongin Timoti ahih leh lungdamna thu nasepna-ah pata bang ka hih manun manpha mahmah hi.
 
@@ -241,7 +241,7 @@
 ### v26
 **EN:** For he longed after you all, and was full of heaviness, because that ye had heard that he had been sick.
 
-**TDB77:** Bang hang hiam na cih uh leh, a ci natna thu note in na zak uh bangin, amah in note hong ngai-in, nakpi lungzuangin a om hi.
+**TDB77:** Bang hang hiam na cih-te leh, a ci natna thu note in na zak-te bangin, amah in note hong ngai-in, nakpi lungzuangin a om hi.
 
 **ZVS:** Amah in note hong munuam mahmah a, ama natna na zak manun amah zong lunghimawh mahmah hi.
 
@@ -259,9 +259,9 @@
 ### v28
 **EN:** I sent him therefore the more carefully, that, when ye see him again, ye may rejoice, and that I may be the less sorrowful.
 
-**TDB77:** Tua ahih ciangin note in amah na muhkik uh ciangin na lungdam nading uh ahi zongin, keima dahna zong a kiam nading ahi zongin nomau kiangah hahkatin ka hong sawl hi.
+**TDB77:** Tua ahih ciangin note in amah na muhkik-te ciangin na lungdam nading-te ahi zongin, keima dahna zong a kiam nading ahi zongin nomau kiangah hahkatin ka hong sawl hi.
 
-**ZVS:** Tua ahih manin amah na muh uh ciangin na lungdam theihna ding uh leh kei' lunghihmawhna a kiamna dingin amah ka hong ciahsak ding ka kin semsem hi.
+**ZVS:** Tua ahih manin amah na muh-te ciangin na lungdam theihna ding-te leh kei' lunghihmawhna a kiamna dingin amah ka hong ciahsak ding ka kin semsem hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -275,7 +275,7 @@
 ### v30
 **EN:** Because for the work of Christ he was nigh unto death, not regarding his life, to supply your lack of service toward me.
 
-**TDB77:** Bang hang hiam na cih uh leh, note in kei nong vaak, nong khoina uh a kicing lote amah in kicingsak dingin Khazih adingin ama nuntakna a sih dektak zah dongin a hanciam zo hi.
+**TDB77:** Bang hang hiam na cih-te leh, note in kei nong vaak, nong khoina-te a kicing lote amah in kicingsak dingin Khazih adingin ama nuntakna a sih dektak zah dongin a hanciam zo hi.
 
 **ZVS:** Khrih nasepna-ah note in pumpi tawh na hong huhkim theihloh manun note' tangin amah in kei a hong huh manin a nuntakna hong pia-in sihlawh dektak hi. Tua ahih manin hihbang mite na zahtakbawl mahmah un la, Topa' nasem taktak hi, ci-in lungdam takin na limbawl un.
 

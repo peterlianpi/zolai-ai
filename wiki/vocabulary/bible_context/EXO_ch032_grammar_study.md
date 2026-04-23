@@ -28,9 +28,9 @@
 ### v1
 **EN:** And when the people saw that Moses delayed to come down out of the mount, the people gathered themselves together unto Aaron, and said unto him, Up, make us gods, which shall go before us; for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
 
-**TDB77:** Mual tung panin Moses hong tun’suk hakna mite in a theih uh ciangin, Aaron kiangah mite amau mah kikaikhawm tawmin, ama' kiangah, “Kithawi in, kote’ mai-ah a pai ding pasiante hong bawlsak in; Izipt leitang panin eite hong paikhiatpih to mite hih Moses ahih leh, amah bang suak khin cih i thei kei hi,” a ci uh hi.
+**TDB77:** Mual tung panin Moses hong tun’suk hakna mite in a theih-te ciangin, Aaron kiangah mite amau mah kikaikhawm tawmin, ama' kiangah, “Kithawi in, kote’ mai-ah a pai ding pasiante hong bawlsak in; Izipt leitang panin eite hong paikhiatpih to mite hih Moses ahih leh, amah bang suak khin cih i thei kei hi,” a ci-te hi.
 
-**ZVS:** Mualtung panin Moses hong tun'suk hakna mite in a theih uh ciangin, Aaron kiangah mite amau mah kikaikhawm tawmin ama kiangah, “Kithawi in; kote' mai-ah a pai ding pasian hong bawlsak in. Egypt leitang panin eite hong paikhiatpih to Moses ahih leh bang suak khin cih i thei kei hi,” a ci uh hi.
+**ZVS:** Mualtung panin Moses hong tun'suk hakna mite in a theih-te ciangin, Aaron kiangah mite amau mah kikaikhawm tawmin ama kiangah, “Kithawi in; kote' mai-ah a pai ding pasian hong bawlsak in. Egypt leitang panin eite hong paikhiatpih to Moses ahih leh bang suak khin cih i thei kei hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -39,25 +39,25 @@
 
 **TDB77:** Aaron in amaute' kiangah, “Na zite, na tapate leh na tanute uh’ bil tungah a om kham bilbahte sutkhia un la, kei' kiangah tuate hong paipih un,” a ci hi.
 
-**ZVS:** Aaron in amaute kiangah, “Na zite, na tapate, leh na tanute uh bil tungah a om kham bilbahte sutkhia un la, kei kiangah tuate hong paipih un,” a ci hi.
+**ZVS:** Aaron in amaute kiangah, “Na zite, na tapate, leh na tanute-te bil tungah a om kham bilbahte sutkhia un la, kei kiangah tuate hong paipih un,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
 ### v3
 **EN:** And all the people brake off the golden earrings which were in their ears, and brought them unto Aaron.
 
-**TDB77:** Tua ahih ciangin mi khempeuh in amau’ bil-a om kham bilbahte sutkhia-in Aaron’ kiangah tuate paipih uh hi.
+**TDB77:** Tua ahih ciangin mi khempeuh in amau’ bil-a om kham bilbahte sutkhia-in Aaron’ kiangah tuate paipih-te hi.
 
-**ZVS:** Tua ahih ciangin mi khempeuh in amau' bil-a om kham bilbahte sutkhia-in Aaron' kiangah tuate a paipih uh hi.
+**ZVS:** Tua ahih ciangin mi khempeuh in amau' bil-a om kham bilbahte sutkhia-in Aaron' kiangah tuate a paipih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And he received them at their hand, and fashioned it with a graving tool, after he had made it a molten calf: and they said, These be thy gods, O Israel, which brought thee up out of the land of Egypt.
 
-**TDB77:** Amah in amaute’ tung panin kham saangin, sumtui sun’na sungah sungin, a kisung milim bawngno khat bawlsak hi; tua ciangin mite in, “Israel mite aw, hihte in Izipt leitang panin note hong paikhiatpih to na pasiante uh a hi hi!” ci uh hi.
+**TDB77:** Amah in amaute’ tung panin kham saangin, sumtui sun’na sungah sungin, a kisung milim bawngno khat bawlsak hi; tua ciangin mite in, “Israel mite aw, hihte in Izipt leitang panin note hong paikhiatpih to na pasiante-te a hi hi!” ci-te hi.
 
-**ZVS:** Amah in amaute' tung panin kham saangin, sumtui sun'na sungah sungin, a kisung bawngno khat bawlsak a, tua ciangin mite in, “Israel mite aw, hih pen Egypt leitang panin note hong paikhiatpih to na pasian uh!” a ci uh hi.
+**ZVS:** Amah in amaute' tung panin kham saangin, sumtui sun'na sungah sungin, a kisung bawngno khat bawlsak a, tua ciangin mite in, “Israel mite aw, hih pen Egypt leitang panin note hong paikhiatpih to na pasian uh!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -73,36 +73,36 @@
 ### v6
 **EN:** And they rose up early on the morrow, and offered burnt offerings, and brought peace offerings; and the people sat down to eat and to drink, and rose up to play.
 
-**TDB77:** Amaute zingsangin tho baih uh a, meihal biakna pia-in thu-nuam-a biakna paipih uh hi; a ne a dawn dingin mite tu suk uh a, gualnuam mahmah uh hi.
+**TDB77:** Amaute zingsangin tho baih-te a, meihal biakna pia-in thu-nuam-a biakna paipih-te hi; a ne a dawn dingin mite tu suk-te a, gualnuam mahmah-te hi.
 
-**ZVS:** Amaute zingsangin tho baih uh a, meihal biakna pia-in thunuama biakna zong a paipih uh hi. Pawi an ne-in mite tu uh a, zu khamin numei pasal kisawk ngeingai uh hi.
+**ZVS:** Amaute zingsangin tho baih-te a, meihal biakna pia-in thunuama biakna zong a paipih-te hi. Pawi an ne-in mite tu-te a, zu khamin numei pasal kisawk ngeingai-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v7
 **EN:** And the
 
-**TDB77:** Topa in Moses' kiangah, “Pai suk in; bang hang hiam cih leh Izipt leitang panin nangmah in na paikhiatpih toh mite amau leh amau kisiasak uh hi;
+**TDB77:** Topa in Moses' kiangah, “Pai suk in; bang hang hiam cih leh Izipt leitang panin nangmah in na paikhiatpih toh mite amau leh amau kisiasak-te hi;
 
-**ZVS:** { Topa } in Moses kiangah, “Paisuk in; bang hang hiam cih leh Egypt leitang panin nangmah in na paikhiatpih toh mite amau kisiasak uh hi.
+**ZVS:** { Topa } in Moses kiangah, “Paisuk in; bang hang hiam cih leh Egypt leitang panin nangmah in na paikhiatpih toh mite amau kisiasak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** They have turned aside quickly out of the way which I commanded them: they have made them a molten calf, and have worshipped it, and have sacrificed thereunto, and said, These be thy gods, O Israel, which have brought thee up out of the land of Egypt.
 
-**TDB77:** amaute ka thupiakna lampi panin kiheikhia pak uh hi; amau’ adingin amaute in a kisung milim bawngno khat bawlin, tua bia-in a tungah biakna pia uh a, ‘Israel mite aw, hihte in Izipt leitang panin note hong paikhiatpih to na pasiante uh ahi hi!’ ci uh hi,” a ci hi.
+**TDB77:** amaute ka thupiakna lampi panin kiheikhia pak-te hi; amau’ adingin amaute in a kisung milim bawngno khat bawlin, tua bia-in a tungah biakna pia-te a, ‘Israel mite aw, hihte in Izipt leitang panin note hong paikhiatpih to na pasiante-te ahi hi!’ ci-te hi,” a ci hi.
 
-**ZVS:** Ka thupiakna lampi panin amaute kiheikhia pak uh hi. Amau-a' dingin amaute in a kisung bawngno khat bawlin, tua bia-in a tungah biakna pia uh a, ‘Israel mite aw, hih pen Egypt leitang panin note hong paikhiatpih to na pasian uh ahi hi!’ ci uh hi,” a ci hi.
+**ZVS:** Ka thupiakna lampi panin amaute kiheikhia pak-te hi. Amau-a' dingin amaute in a kisung bawngno khat bawlin, tua bia-in a tungah biakna pia-te a, ‘Israel mite aw, hih pen Egypt leitang panin note hong paikhiatpih to na pasian-te ahi hi!’ ci-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And the
 
-**TDB77:** Topa in Moses' kiangah, “Hih mite ka mu zo hi, en in, a lungkhauh mite ahi uh hi;
+**TDB77:** Topa in Moses' kiangah, “Hih mite ka mu zo hi, en in, a lungkhauh mite ahi-te hi;
 
-**ZVS:** { Topa } in Moses kiangah, “Hih mite ka mu zo hi. En in, a lungkhauh mite ahi uh hi.
+**ZVS:** { Topa } in Moses kiangah, “Hih mite ka mu zo hi. En in, a lungkhauh mite ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -125,18 +125,18 @@
 ### v12
 **EN:** Wherefore should the Egyptians speak, and say, For mischief did he bring them out, to slay them in the mountains, and to consume them from the face of the earth? Turn from thy fierce wrath, and repent of this evil against thy people.
 
-**TDB77:** Bang hangin Izipt in, ‘Mual tungah amaute a that ding leh leitung panin amaute a beisak dingin siatna ngaihsutna tawh amah in amaute paikhiatpih hi,’ ci ding ahi uh hiam? A kihtak-huai na hehna daaisak in la, na lungsim khelin na mite' tungah hih siatna tungsak kei in.
+**TDB77:** Bang hangin Izipt in, ‘Mual tungah amaute a that ding leh leitung panin amaute a beisak dingin siatna ngaihsutna tawh amah in amaute paikhiatpih hi,’ ci ding ahi-te hiam? A kihtak-huai na hehna daaisak in la, na lungsim khelin na mite' tungah hih siatna tungsak kei in.
 
-**ZVS:** Bang hangin Egypt mite in, ‘Mualtungah amaute a that ding leh leitung panin amaute a beisak dingin siatna ngaihsutna tawh amah in amaute paikhiatpih hi,’ ci ding uh ahi hiam? A kihtakhuai na hehna daisak in la, na lungsim khelin na mite tungah hih siatna tungsak kei in.
+**ZVS:** Bang hangin Egypt mite in, ‘Mualtungah amaute a that ding leh leitung panin amaute a beisak dingin siatna ngaihsutna tawh amah in amaute paikhiatpih hi,’ ci ding-te ahi hiam? A kihtakhuai na hehna daisak in la, na lungsim khelin na mite tungah hih siatna tungsak kei in.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v13
 **EN:** Remember Abraham, Isaac, and Israel, thy servants, to whom thou swarest by thine own self, and saidst unto them, I will multiply your seed as the stars of heaven, and all this land that I have spoken of will I give unto your seed, and they shall inherit it for ever.
 
-**TDB77:** Amaute' tungah nangmahmah kiciamin amaute' tungah, ‘Na suan-le-khakte uh vantung aksi bangin tamsakin, keimah in ka ciamsa hih leitang khempeuh na suan-le-khakte uh' tungah ka pia ding a, amaute in luah tawntung ding uh hi,’ na cihna na nasemte Abraham, Isaak leh Israel phawk in,” a ci hi.
+**TDB77:** Amaute' tungah nangmahmah kiciamin amaute' tungah, ‘Na suan-le-khakte-te vantung aksi bangin tamsakin, keimah in ka ciamsa hih leitang khempeuh na suan-le-khakte uh' tungah ka pia ding a, amaute in luah tawntung ding-te hi,’ na cihna na nasemte Abraham, Isaak leh Israel phawk in,” a ci hi.
 
-**ZVS:** Amaute' tungah nangmahmah kiciamin, ‘Na suanlekhakte uh vantung aksi bangin tamsakin, keimah in ka ciamsa hih leitang khempeuh na suanlekhakte uh tungah ka pia ding a, amaute in luah tawntung ding uh hi,’ na cihna na nasemte Abraham, Isaac, leh Israel phawk in,” a ci hi.
+**ZVS:** Amaute' tungah nangmahmah kiciamin, ‘Na suanlekhakte-te vantung aksi bangin tamsakin, keimah in ka ciamsa hih leitang khempeuh na suanlekhakte-te tungah ka pia ding a, amaute in luah tawntung ding-te hi,’ na cihna na nasemte Abraham, Isaac, leh Israel phawk in,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -204,36 +204,36 @@
 ### v21
 **EN:** And Moses said unto Aaron, What did this people unto thee, that thou hast brought so great a sin upon them?
 
-**TDB77:** Moses in Aaron' kiangah, “Amaute' tungah khialhna lianpi khat na tun’pih nadingin hih mite in nang' tungah bang hong hih ahi uh hiam?” a ci hi.
+**TDB77:** Moses in Aaron' kiangah, “Amaute' tungah khialhna lianpi khat na tun’pih nadingin hih mite in nang' tungah bang hong hih ahi-te hiam?” a ci hi.
 
-**ZVS:** Moses in Aaron kiangah, “Amaute' tungah khialhna lianpi khat na tun'pihna dingin hih mite in nang' tungah bang hong gen uh ahi hiam?” a ci hi.
+**ZVS:** Moses in Aaron kiangah, “Amaute' tungah khialhna lianpi khat na tun'pihna dingin hih mite in nang' tungah bang hong gen-te ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix
 
 ### v22
 **EN:** And Aaron said, Let not the anger of my lord wax hot: thou knowest the people, that they are set on mischief.
 
-**TDB77:** Aaron in, “Ka Topa’ hehna sosak kei in; nangmah in mite na thei hi, amaute in siatna ngaihsun uh hi.
+**TDB77:** Aaron in, “Ka Topa’ hehna sosak kei in; nangmah in mite na thei hi, amaute in siatna ngaihsun-te hi.
 
-**ZVS:** Aaron in, “Ka topa aw, heh lua kei in. Mite' lungsim na theihsa ahih mah bangin amaute in siatna ngaihsun uh hi.
+**ZVS:** Aaron in, “Ka topa aw, heh lua kei in. Mite' lungsim na theihsa ahih mah bangin amaute in siatna ngaihsun-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v23
 **EN:** For they said unto me, Make us gods, which shall go before us: for as for this Moses, the man that brought us up out of the land of Egypt, we wot not what is become of him.
 
-**TDB77:** Bang hang hiam cih leh amaute in keima' kiangah, “Kote' mai-ah a pai ding pasiante hong bawl sak in; Izipt leitang panin eite hong paikhiatpih to mipa hih Moses ahih leh, amah bang suak khin cih i thei kei hi,’ ci uh hi.
+**TDB77:** Bang hang hiam cih leh amaute in keima' kiangah, “Kote' mai-ah a pai ding pasiante hong bawl sak in; Izipt leitang panin eite hong paikhiatpih to mipa hih Moses ahih leh, amah bang suak khin cih i thei kei hi,’ ci-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in keima kiangah, ‘Kote' mai-ah a pai ding pasian hong bawlsak in. Egypt leitang panin eite hong paikhiatpih to Moses ahih leh, bang suak khin cih i thei kei hi,’ ci uh hi.
+**ZVS:** Bang hang hiam cih leh amaute in keima kiangah, ‘Kote' mai-ah a pai ding pasian hong bawlsak in. Egypt leitang panin eite hong paikhiatpih to Moses ahih leh, bang suak khin cih i thei kei hi,’ ci-te hi.
 
 **Grammar:** quotative: said/saying | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And I said unto them, Whosoever hath any gold, let them break it off. So they gave it me: then I cast it into the fire, and there came out this calf.
 
-**TDB77:** Keimah in amaute' kiangah, ‘Kham a nei peuhpeuh sutkhiasak un,’ ka ci hi; tua ahih ciangin amaute in kei' tungah hong pia uh a, keimah in mei sungah tuate ka lawn a, hih bawngno hong suak hi,” a ci hi.
+**TDB77:** Keimah in amaute' kiangah, ‘Kham a nei peuhpeuh sutkhiasak un,’ ka ci hi; tua ahih ciangin amaute in kei' tungah hong pia-te a, keimah in mei sungah tuate ka lawn a, hih bawngno hong suak hi,” a ci hi.
 
-**ZVS:** Keimah in amaute kiangah, ‘Kham a nei peuhpeuh in sutkhia un,’ ka ci hi. Tua ahih ciangin amaute in kei' tungah hong pia uh a, keimah in mei sungah tuate ka lawn a, hih bawngno hong suak hi,” a ci hi.
+**ZVS:** Keimah in amaute kiangah, ‘Kham a nei peuhpeuh in sutkhia un,’ ka ci hi. Tua ahih ciangin amaute in kei' tungah hong pia-te a, keimah in mei sungah tuate ka lawn a, hih bawngno hong suak hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -249,9 +249,9 @@
 ### v26
 **EN:** Then Moses stood in the gate of the camp, and said, Who is on the
 
-**TDB77:** giahphual kongpi sungah Moses ding a, “Topa’ lamah kua om hiam? Kei kiangah hong pai un,” a ci hi. Levi mite khempeuh ama' kiangah kikaikhawm uh hi.
+**TDB77:** giahphual kongpi sungah Moses ding a, “Topa’ lamah kua om hiam? Kei kiangah hong pai un,” a ci hi. Levi mite khempeuh ama' kiangah kikaikhawm-te hi.
 
-**ZVS:** giahphual kongpi sungah Moses ding a, “{ Topa' } lamah kua teng om na hi uh hiam? Kei' kiangah hong pai un,” a ci hi. Levi mite khempeuh ama kiangah hong kikaikhawm uh hi.
+**ZVS:** giahphual kongpi sungah Moses ding a, “{ Topa' } lamah kua teng om na hi-te hiam? Kei' kiangah hong pai un,” a ci hi. Levi mite khempeuh ama kiangah hong kikaikhawm-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -267,36 +267,36 @@
 ### v28
 **EN:** And the children of Levi did according to the word of Moses: and there fell of the people that day about three thousand men.
 
-**TDB77:** Levi mite in Moses’ thugen bangin hih uh hi; tua ni-in mihing tul thum bang si hi.
+**TDB77:** Levi mite in Moses’ thugen bangin hih-te hi; tua ni-in mihing tul thum bang si hi.
 
-**ZVS:** Moses' thugen bangin Levi mite gamta uh a, tua ni-in mihing tul thum bang si hi.
+**ZVS:** Moses' thugen bangin Levi mite gamta-te a, tua ni-in mihing tul thum bang si hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v29
 **EN:** For Moses had said, Consecrate yourselves to day to the
 
-**TDB77:** Moses in, “Tu ni-in note' tungah thu pha hong tun’ theih nadingin ama' tapa leh a sanggamte ciat supna thuakin Topa’ na sep nadingin note na kikipsak tawm uh hi,” a ci hi.
+**TDB77:** Moses in, “Tu ni-in note' tungah thu pha hong tun’ theih nadingin ama' tapa leh a sanggamte ciat supna thuakin Topa’ na sep nadingin note na kikipsak tawm-te hi,” a ci hi.
 
-**ZVS:** Moses in, “Note' tungah thupha hong tun' theihna dingin ama tapa leh a sanggamte ciat supna thuakin { Topa' } na sepna dingah tuni-in note na kikipsak tawm uh hi,” a ci hi.
+**ZVS:** Moses in, “Note' tungah thupha hong tun' theihna dingin ama tapa leh a sanggamte ciat supna thuakin { Topa' } na sepna dingah tuni-in note na kikipsak tawm-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** And it came to pass on the morrow, that Moses said unto the people, Ye have sinned a great sin: and now I will go up unto the
 
-**TDB77:** A zing ciangin Moses in mite kiangah, “Note in khialhna lianpi khat na bawl khin uh hi. Tu-in Topa' kiangah kei ka pai ding hi; note’ khialhna thu-ah kilemna ka va bawl thei kha ding hi,” a ci hi.
+**TDB77:** A zing ciangin Moses in mite kiangah, “Note in khialhna lianpi khat na bawl khin-te hi. Tu-in Topa' kiangah kei ka pai ding hi; note’ khialhna thu-ah kilemna ka va bawl thei kha ding hi,” a ci hi.
 
-**ZVS:** A zingsang ciangin Moses in mite kiangah, “Note in khialhna lianpi khat na bawl khin uh hi. Tu-in { Topa' } kiangah kei ka pai ding a, note' khialhna thu-ah kilemna ka va bawl thei khading hi,” a ci hi.
+**ZVS:** A zingsang ciangin Moses in mite kiangah, “Note in khialhna lianpi khat na bawl khin-te hi. Tu-in { Topa' } kiangah kei ka pai ding a, note' khialhna thu-ah kilemna ka va bawl thei khading hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** And Moses returned unto the
 
-**TDB77:** Tua ahih ciangin Topa' kiangah Moses pai kikin, “Ala, hih mite in khialhna lianpi khat bawl khin uh hi; amaute in amau’ adingin kham pasiante bawl khin uh hi.
+**TDB77:** Tua ahih ciangin Topa' kiangah Moses pai kikin, “Ala, hih mite in khialhna lianpi khat bawl khin-te hi; amaute in amau’ adingin kham pasiante bawl khin-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa' } kiangah Moses paikikin, “Ala, hih mite in khialhna lianpi khat bawl khin uh a, amaute in amau-a' dingin kham pasian khat bawl khin uh hi.
+**ZVS:** Tua ahih ciangin { Topa' } kiangah Moses paikikin, “Ala, hih mite in khialhna lianpi khat bawl khin-te a, amaute in amau-a' dingin kham pasian khat bawl khin-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -330,9 +330,9 @@
 ### v35
 **EN:** And the
 
-**TDB77:** Aaron in a bawlsa bawngno amaute in bia uh ahih manin Topa in mite' tungah gimna tungsak hi.
+**TDB77:** Aaron in a bawlsa bawngno amaute in bia-te ahih manin Topa in mite' tungah gimna tungsak hi.
 
-**ZVS:** Amaute in Aaron' bawlsa bawngno bia uh ahih manin { Topa } in mite' tungah gimna a tungsak hi.
+**ZVS:** Amaute in Aaron' bawlsa bawngno bia-te ahih manin { Topa } in mite' tungah gimna a tungsak hi.
 
 **Grammar:** causal: because
 

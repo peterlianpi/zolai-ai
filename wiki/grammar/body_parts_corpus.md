@@ -13,7 +13,7 @@
 
 - `[TDB77]` *And his brother Asaph, who stood on his right hand, even Asaph the son* → **Asaf in lasa pawl a nihna a makaipa hi a, ama khangsimna a pupi Levi l**
 - `[TDB77]` *And when they came unto the threshingfloor of Chidon, Uzza put forth h* → **Amaute Khido’ ancilna phual a tun’ uh ciangin bawngtalte muktu ahih ma**
-- `[TDB77]` *These were born unto the giant in Gath; and they fell by the hand of D* → **Hihte in Gath a, mithagolte sung pana hong piang ahi uh hi; David leh **
+- `[TDB77]` *These were born unto the giant in Gath; and they fell by the hand of D* → **Hihte in Gath a, mithagolte sung pana hong piang ahi-te hi; David leh **
 - `[TDB77]` *And David said unto Gad, I am in a great strait: let me fall now into * → **Tua ciangin David in Gad kiangah, “Keimah in lungkhamna lianpi khat ka**
 
 ## foot/feet
@@ -48,8 +48,8 @@
 
 - `[TDB77]` *Glory ye in his holy name: let the heart of them rejoice that seek the* → **Ama min siangtho hangin nuamin diang un la, Topa a zong mite lungdam t**
 - `[TDB77]` *Then Nathan said unto David, Do all that is in thine heart; for God is* → **Tua ciangin Nathan in David kiangah, “Pasian in nang tawh om ahih mani**
-- `[TDB77]` *Now set your heart and your soul to seek the* → **Tu-in Topa na Pasian uh a zong dingin na ngaihsutna uh leh na lungsim **
-- `[TDB77]` *Then the people rejoiced, for that they offered willingly, because wit* → **Tua ciangin hih mite in utna lungsim tawh pia uh ahih manin mite lungd**
+- `[TDB77]` *Now set your heart and your soul to seek the* → **Tu-in Topa na Pasian-te a zong dingin na ngaihsutna-te leh na lungsim **
+- `[TDB77]` *Then the people rejoiced, for that they offered willingly, because wit* → **Tua ciangin hih mite in utna lungsim tawh pia-te ahih manin mite lungd**
 
 ## face
 
@@ -67,8 +67,8 @@
 
 ## blood
 
-- `[TDB77]` *And there are three that bear witness in earth, the Spirit, and the wa* → **Bang hang hiam na cih uh leh, teci a pang thum ahi Kha Siangtho, tui l**
+- `[TDB77]` *And there are three that bear witness in earth, the Spirit, and the wa* → **Bang hang hiam na cih-te leh, teci a pang thum ahi Kha Siangtho, tui l**
 - `[TDB77]` *But with the precious blood of Christ, as of a lamb without blemish an* → **hoih lohna om lo, a nin baang lo tuuno tawh kibang ahi Khazih’ manpha **
 - `[TDB77]` *Now therefore, let not my blood fall to the earth before the face of t* → **Tua ahih ciangin tu-in Topa’ omna panin gamdang leitangah kei hong si **
-- `[TDB77]` *And they killed the passover, and the priests sprinkled the blood from* → **Tua ciangin amaute in Paisan tuuno go uh a, Levi mite in savun a hawk **
+- `[TDB77]` *And they killed the passover, and the priests sprinkled the blood from* → **Tua ciangin amaute in Paisan tuuno go-te a, Levi mite in savun a hawk **
 

@@ -50,9 +50,9 @@
 ### v4
 **EN:** And two golden rings shalt thou make to it under the crown of it, by the two corners thereof, upon the two sides of it shalt thou make it; and they shall be for places for the staves to bear it withal.
 
-**TDB77:** Tua adingin kham kual nih na bawl ding hi; a geihual nuai a kigalsai a pang tuakah tuate na bawl ding a, a puak nading zawlte a len dingte hi ding uh hi.
+**TDB77:** Tua adingin kham kual nih na bawl ding hi; a geihual nuai a kigalsai a pang tuakah tuate na bawl ding a, a puak nading zawlte a len dingte hi ding-te hi.
 
-**ZVS:** Tua biakna tau-a' dingin kham kual nih na bawl ding hi. A geihual nuai a kigal sai a pang tuakah tuate na bawl ding a, a puakna ding zawlte a khumna ding hi ding uh hi.
+**ZVS:** Tua biakna tau-a' dingin kham kual nih na bawl ding hi. A geihual nuai a kigal sai a pang tuakah tuate na bawl ding a, a puakna ding zawlte a khumna ding hi ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -120,9 +120,9 @@
 ### v12
 **EN:** When thou takest the sum of the children of Israel after their number, then shall they give every man a ransom for his soul unto the
 
-**TDB77:** “Israel mite misimna bawl-a, amaute na sim ciangin amau' lakah gimna a tun’ loh nadingin, amaute na sim ciangin a milip in a kitatkhiatna uh Topa' tungah pia ding uh hi.
+**TDB77:** “Israel mite misimna bawl-a, amaute na sim ciangin amau' lakah gimna a tun’ loh nadingin, amaute na sim ciangin a milip in a kitatkhiatna-te Topa' tungah pia ding-te hi.
 
-**ZVS:** “Israel mite a phazah na sim ciangin amau' lakah gimna a tun' lohna dingin, a milip in a kitatkhiatna uh { Topa' } tungah pia ding uh hi.
+**ZVS:** “Israel mite a phazah na sim ciangin amau' lakah gimna a tun' lohna dingin, a milip in a kitatkhiatna-te { Topa' } tungah pia ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -147,9 +147,9 @@
 ### v15
 **EN:** The rich shall not give more, and the poor shall not give less than half a shekel, when they give an offering unto the
 
-**TDB77:** Note’ ading kilemna bawl nadingin Topa biakna na piak uh ciangin a haute in shekel lang sangin tamzaw pia lo, a zawngte in tawmzaw pia lo ding hi.
+**TDB77:** Note’ ading kilemna bawl nadingin Topa biakna na piak-te ciangin a haute in shekel lang sangin tamzaw pia lo, a zawngte in tawmzaw pia lo ding hi.
 
-**ZVS:** Note-a' ding kilemna bawlna dingin { Topa } biakna na piak uh ciangin a haute in shekel lang sangin a tamzaw pialo ding a, a zawngte in a tawmzaw pialo ding hi.
+**ZVS:** Note-a' ding kilemna bawlna dingin { Topa } biakna na piak-te ciangin a haute in shekel lang sangin a tamzaw pialo ding a, a zawngte in a tawmzaw pialo ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
@@ -183,25 +183,25 @@
 ### v19
 **EN:** For Aaron and his sons shall wash their hands and their feet thereat:
 
-**TDB77:** Aaron leh a tapate in a khut uh leh a khe uh tua tui tawh sil ding uh hi.
+**TDB77:** Aaron leh a tapate in a khut-te leh a khe-te tua tui tawh sil ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v20
 **EN:** When they go into the tabernacle of the congregation, they shall wash with water, that they die not; or when they come near to the altar to minister, to burn offering made by fire unto the
 
-**TDB77:** Amaute kikhopna buk-ah a pai ciangin ahi a, Topa' tungah mei tawh kihal biakna hal ding a nasem dingin biakna tau nai-ah a pai ciang uh ahi zongin, amaute a sih loh nadingun amaute tui tawh kisil ding uh hi.
+**TDB77:** Amaute kikhopna buk-ah a pai ciangin ahi a, Topa' tungah mei tawh kihal biakna hal ding a nasem dingin biakna tau nai-ah a pai ciang-te ahi zongin, amaute a sih loh nadingun amaute tui tawh kisil ding-te hi.
 
-**ZVS:** Kikhopna bukah amaute a pai ciang uh ahi a, { Topa' } tungah mei tawh kihal biakna hal dingin biakna tau nai-ah a pai ciang uh ahi zongin, amaute a sih lohna dingun amaute tui tawh kisil ding uh hi.
+**ZVS:** Kikhopna bukah amaute a pai ciang-te ahi a, { Topa' } tungah mei tawh kihal biakna hal dingin biakna tau nai-ah a pai ciang-te ahi zongin, amaute a sih lohna dingun amaute tui tawh kisil ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** So they shall wash their hands and their feet, that they die not: and it shall be a statute for ever to them, even to him and to his seed throughout their generations.
 
-**TDB77:** A sih khak loh nadingun a khut uh leh a khe uh sil ding uh hi; tua in na khang tawntungun amaute'tung, ama' tung nangawn leh ama' suan-le-khakte' tungah ngeina kip khat hi ding hi,” a ci hi.
+**TDB77:** A sih khak loh nadingun a khut-te leh a khe-te sil ding-te hi; tua in na khang tawntungun amaute'tung, ama' tung nangawn leh ama' suan-le-khakte' tungah ngeina kip khat hi ding hi,” a ci hi.
 
-**ZVS:** A sih khak lohna dingun a khut uh leh a khe uh sil ding uh hi. Tua pen na khang tawntungun amaute tunga kipanin amau' suanlekhakte tungah ngeina kip khat hi ding hi,” a ci hi.
+**ZVS:** A sih khak lohna dingun a khut-te leh a khe-te sil ding-te hi. Tua pen na khang tawntungun amaute tunga kipanin amau' suanlekhakte tungah ngeina kip khat hi ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -292,9 +292,9 @@
 ### v32
 **EN:** Upon man's flesh shall it not be poured, neither shall ye make any other like it, after the composition of it: it is holy, and it shall be holy unto you.
 
-**TDB77:** Mi mawkmawkte’ pumpi tungah tua sathau kisung lo ding a, tua banga a kigawm sathau dang na bawl kei ding uh hi; tua in a siangtho hi a, note' tungah a siangtho hi ding hi.
+**TDB77:** Mi mawkmawkte’ pumpi tungah tua sathau kisung lo ding a, tua banga a kigawm sathau dang na bawl kei ding-te hi; tua in a siangtho hi a, note' tungah a siangtho hi ding hi.
 
-**ZVS:** Mi mawkmawkte' pumpi tungah tua sathau kisunglo ding a, tua bangin a kigawm sathau dang na bawl kei ding uh hi. Tua pen a siangtho hi a, note-a' dingin a siangtho hi ding hi.
+**ZVS:** Mi mawkmawkte' pumpi tungah tua sathau kisunglo ding a, tua bangin a kigawm sathau dang na bawl kei ding-te hi. Tua pen a siangtho hi a, note-a' dingin a siangtho hi ding hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -337,7 +337,7 @@
 
 **TDB77:** A kigawmpih ngei teng tawh na bawl ding paknamtui pen note' adingin na bawl kei ding hi; tua in note’ adingin Topa' tungah a siangtho hi ding hi.
 
-**ZVS:** A kigawmpih ngei teng tawh na bawl ding paknamtui pen note-a' dingin na bawl kei ding uh hi. Tua pen note-a' dingin { Topa' } tungah a siangtho hi ding hi.
+**ZVS:** A kigawmpih ngei teng tawh na bawl ding paknamtui pen note-a' dingin na bawl kei ding-te hi. Tua pen note-a' dingin { Topa' } tungah a siangtho hi ding hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix
 

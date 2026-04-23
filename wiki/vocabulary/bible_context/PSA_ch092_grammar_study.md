@@ -47,16 +47,16 @@
 ### v8
 **EN:** But thou,
 
-**TDB77:** Migilote, lopa bangin selkhia-in, siatna bawl khempeuh a pun' mahmah hangun, a tawntungin siatna a thuak ding uh ahi hi. Ahih hangin { Topa } aw, nang pen a sangna-ah a omden na hihna thu, lungsimmawl mi in thei theilo a, lungsim teilo mi in tel theilo hi.
+**TDB77:** Migilote, lopa bangin selkhia-in, siatna bawl khempeuh a pun' mahmah hangun, a tawntungin siatna a thuak ding-te ahi hi. Ahih hangin { Topa } aw, nang pen a sangna-ah a omden na hihna thu, lungsimmawl mi in thei theilo a, lungsim teilo mi in tel theilo hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 
 ### v9
 **EN:** For, lo, thine enemies, O
 
-**TDB77:** Bang hang hiam cih leh, Topa aw, na galte en in, bang hang hiam cih leh, en in, na galte beimang ding hi; siatna bawl khempeuhte kithehthang ding uh hi.
+**TDB77:** Bang hang hiam cih leh, Topa aw, na galte en in, bang hang hiam cih leh, en in, na galte beimang ding hi; siatna bawl khempeuhte kithehthang ding-te hi.
 
-**ZVS:** { Topa } aw, na galte si ta ding! Bang hang hiam cih leh na galte beimang ding a, siatna a bawl khempeuhte kithehthang ding uh hi.
+**ZVS:** { Topa } aw, na galte si ta ding! Bang hang hiam cih leh na galte beimang ding a, siatna a bawl khempeuhte kithehthang ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -88,16 +88,16 @@
 ### v13
 **EN:** Those that be planted in the house of the
 
-**TDB77:** Topa’ inn sungah amaute kisuan a, i Pasian’ huang sungah amaute palh uh hi.
+**TDB77:** Topa’ inn sungah amaute kisuan a, i Pasian’ huang sungah amaute palh-te hi.
 
-**ZVS:** { Topa' } inn sungah amaute kisuan a, i Pasian' huangsungah amaute palh uh hi.
+**ZVS:** { Topa' } inn sungah amaute kisuan a, i Pasian' huangsungah amaute palh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** To shew that the
 
-**TDB77:** { Topa } thutang hi, ci-in a lahna dingun amaute teek napi-in gah lailai uh a, amaute tui kiuhkeuhin hing sitset uh hi. Amah pen kei hong hupa hi a, ama sungah thumanlohna omlo hi.
+**TDB77:** { Topa } thutang hi, ci-in a lahna dingun amaute teek napi-in gah lailai-te a, amaute tui kiuhkeuhin hing sitset-te hi. Amah pen kei hong hupa hi a, ama sungah thumanlohna omlo hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

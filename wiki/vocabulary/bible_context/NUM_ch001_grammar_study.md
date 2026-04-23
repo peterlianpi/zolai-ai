@@ -25,9 +25,9 @@
 ### v1
 **EN:** And the
 
-**TDB77:** Amaute in Izipt gam panin a paikhiat zawh uh a kum nihna, a kha nihna a ni masa ni-in, Sinai gamlak kikhopna puanbuk sungah Topa in Moses hopihin, hih bangin ci hi,
+**TDB77:** Amaute in Izipt gam panin a paikhiat zawh-te a kum nihna, a kha nihna a ni masa ni-in, Sinai gamlak kikhopna puanbuk sungah Topa in Moses hopihin, hih bangin ci hi,
 
-**ZVS:** Amaute, Egypt gam panin a paikhiat zawh uh a kum nihna, a kha nihna a ni masa ni-in, Sinai sehnel gam kikhopna puanbuk sungah { Topa } in Moses hopihin hih bangin ci hi:
+**ZVS:** Amaute, Egypt gam panin a paikhiat zawh-te a kum nihna, a kha nihna a ni masa ni-in, Sinai sehnel gam kikhopna puanbuk sungah { Topa } in Moses hopihin hih bangin ci hi:
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -43,18 +43,18 @@
 ### v3
 **EN:** From twenty years old and upward, all that are able to go forth to war in Israel: thou and Aaron shall number them by their armies.
 
-**TDB77:** nang leh Aaron in Israel sungah kum sawmnih panin a tungsiah a pha, galdo dingin a kuan thei ding mi khempeuh a hon a honin na sim ding uh hi.
+**TDB77:** nang leh Aaron in Israel sungah kum sawmnih panin a tungsiah a pha, galdo dingin a kuan thei ding mi khempeuh a hon a honin na sim ding-te hi.
 
-**ZVS:** Israel sungah kum sawmnih panin a tungsiah a pha, galdo dingin a kuan thei ding mi khempeuh a honhonin na sim ding uh hi.
+**ZVS:** Israel sungah kum sawmnih panin a tungsiah a pha, galdo dingin a kuan thei ding mi khempeuh a honhonin na sim ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v4
 **EN:** And with you there shall be a man of every tribe; every one head of the house of his fathers.
 
-**TDB77:** A minam simin a beh sungah a lutang ahi mi khat ciat nang tawh hong om ding uh hi.
+**TDB77:** A minam simin a beh sungah a lutang ahi mi khat ciat nang tawh hong om ding-te hi.
 
-**ZVS:** A minam simin a beh sungah a lutang ahi mi khat ciat in hong huh ding uh hi.
+**ZVS:** A minam simin a beh sungah a lutang ahi mi khat ciat in hong huh ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -140,9 +140,9 @@
 ### v16
 **EN:** These were the renowned of the congregation, princes of the tribes of their fathers, heads of thousands in Israel.
 
-**TDB77:** Hihte in mihon sung panin a kiteel, amau’ phung sung panin a makaite, Israel behte’ lutangte ahi uh hi.
+**TDB77:** Hihte in mihon sung panin a kiteel, amau’ phung sung panin a makaite, Israel behte’ lutangte ahi-te hi.
 
-**ZVS:** Hihte pen mihon sung panin a kiteel, amau' phung sung panin a makaite, Israel behte' lutangte ahi uh hi.
+**ZVS:** Hihte pen mihon sung panin a kiteel, amau' phung sung panin a makaite, Israel behte' lutangte ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -293,7 +293,7 @@
 ### v44
 **EN:** These are those that were numbered, which Moses and Aaron numbered, and the princes of Israel, being twelve men: each one was for the house of his fathers.
 
-**TDB77:** Hih mite, Moses leh Aaron in Israel makai, amau’ beh ciat taangin a ding mi sawm-le-nihte’ huhna tawh a sim uh ahi hi.
+**TDB77:** Hih mite, Moses leh Aaron in Israel makai, amau’ beh ciat taangin a ding mi sawm-le-nihte’ huhna tawh a sim-te ahi hi.
 
 ### v45
 **EN:** So were all those that were numbered of the children of Israel, by the house of their fathers, from twenty years old and upward, all that were able to go forth to war in Israel;
@@ -312,7 +312,7 @@
 
 **TDB77:** Ahih hangin Levi mite ahih leh amau’ nam min pua-in adangte tawh kisim khawm lo hi.
 
-**ZVS:** Ahih hangin Levi mite in amau' nam min mah a tuamin pua uh ahih manin adangte tawh kisimkhawm lo hi.
+**ZVS:** Ahih hangin Levi mite in amau' nam min mah a tuamin pua-te ahih manin adangte tawh kisimkhawm lo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix
 
@@ -337,45 +337,45 @@
 ### v50
 **EN:** But thou shalt appoint the Levites over the tabernacle of testimony, and over all the vessels thereof, and over all things that belong to it: they shall bear the tabernacle, and all the vessels thereof; and they shall minister unto it, and shall encamp round about the tabernacle.
 
-**TDB77:** ahih hangin Levi mite pen teci pan’na biakbuk leh a sung nazat khempeuh, leh tua tawh a kisai na khempeuh a uk dingin seh in; amaute pen biakbuk leh a nazat khempeuh a pua dingte hi a, amaute in a biakbuk semin, a kimkotah phual sat ding uh hi.
+**TDB77:** ahih hangin Levi mite pen teci pan’na biakbuk leh a sung nazat khempeuh, leh tua tawh a kisai na khempeuh a uk dingin seh in; amaute pen biakbuk leh a nazat khempeuh a pua dingte hi a, amaute in a biakbuk semin, a kimkotah phual sat ding-te hi.
 
-**ZVS:** Ahih hangin Levi mite pen thuciamna biakbuk leh a sung nazat khempeuh, leh tua tawh a kisai na khempeuh a uk dingin seh in. Amaute pen biakbuk leh a nazat khempeuh a pua dingte hi a, amaute in a biakbuk semin, a kimkotah phual sat ding uh hi.
+**ZVS:** Ahih hangin Levi mite pen thuciamna biakbuk leh a sung nazat khempeuh, leh tua tawh a kisai na khempeuh a uk dingin seh in. Amaute pen biakbuk leh a nazat khempeuh a pua dingte hi a, amaute in a biakbuk semin, a kimkotah phual sat ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v51
 **EN:** And when the tabernacle setteth forward, the Levites shall take it down: and when the tabernacle is to be pitched, the Levites shall set it up: and the stranger that cometh nigh shall be put to death.
 
-**TDB77:** Biakbuk a kikhin ding ciangin Levi mite in phel ding uh hi; biakbuk a kilam ding ciangin Levi mite mah in lam ding uh hi. Midang khatpeuh peuh a kiang nai-ah hong pai leh, tua mi kithat ding hi.
+**TDB77:** Biakbuk a kikhin ding ciangin Levi mite in phel ding-te hi; biakbuk a kilam ding ciangin Levi mite mah in lam ding-te hi. Midang khatpeuh peuh a kiang nai-ah hong pai leh, tua mi kithat ding hi.
 
-**ZVS:** Biakbuk a kikhin ding ciangin Levi mite in phel ding uh a, biakbuk a kilam ding ciangin Levi mite mah in lam ding uh hi. Midang khat peuhpeuh in tua nasep a sep leh tua mi kithat ding hi.
+**ZVS:** Biakbuk a kikhin ding ciangin Levi mite in phel ding-te a, biakbuk a kilam ding ciangin Levi mite mah in lam ding-te hi. Midang khat peuhpeuh in tua nasep a sep leh tua mi kithat ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v52
 **EN:** And the children of Israel shall pitch their tents, every man by his own camp, and every man by his own standard, throughout their hosts.
 
-**TDB77:** Israel mite in a milip-un amau’ giahphual ciat leh a dialkhai gei ciat uhah a pawl pawlin a puanbuk uh lam ding uh hi;
+**TDB77:** Israel mite in a milip-un amau’ giahphual ciat leh a dialkhai gei ciat uhah a pawl pawlin a puanbuk-te lam ding-te hi;
 
-**ZVS:** Israel mite in a milipun amau' giahphual ciat leh a dialkhai gei ciat uhah a pawlpawlin a puanbuk uh lam ding uh hi.
+**ZVS:** Israel mite in a milipun amau' giahphual ciat leh a dialkhai gei ciat uhah a pawlpawlin a puanbuk-te lam ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v53
 **EN:** But the Levites shall pitch round about the tabernacle of testimony, that there be no wrath upon the congregation of the children of Israel: and the Levites shall keep the charge of the tabernacle of testimony.
 
-**TDB77:** ahih hangin Israel mi honte tungah hehna a om loh nadingin teci pan’na biakbuk kiim-ah Levi mite in phual sat ding uh hi; Levi mite in teci pan’na biakbuk kem ding uh hi,” a ci hi.
+**TDB77:** ahih hangin Israel mi honte tungah hehna a om loh nadingin teci pan’na biakbuk kiim-ah Levi mite in phual sat ding-te hi; Levi mite in teci pan’na biakbuk kem ding-te hi,” a ci hi.
 
-**ZVS:** Ahih hangin Israel mihonte tungah hehna a omlohna dingin thuciamna biakbuk kiimah Levi mite bek in phual sat ding uh a, Levi mite bek in thuciamna biakbuk kem ding uh hi,” a ci hi.
+**ZVS:** Ahih hangin Israel mihonte tungah hehna a omlohna dingin thuciamna biakbuk kiimah Levi mite bek in phual sat ding-te a, Levi mite bek in thuciamna biakbuk kem ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v54
 **EN:** And the children of Israel did according to all that the
 
-**TDB77:** Tua bangin Israel mite in hih uh hi; Topa in Moses a thupiak bangin amaute gamta uh hi.
+**TDB77:** Tua bangin Israel mite in hih-te hi; Topa in Moses a thupiak bangin amaute gamta-te hi.
 
-**ZVS:** Tua bangin Israel mite gamta uh a, { Topa } in Moses a thupiak bangin amaute in a sem uh hi.
+**ZVS:** Tua bangin Israel mite gamta-te a, { Topa } in Moses a thupiak bangin amaute in a sem-te hi.
 
 **Grammar:** plural: uh marker
 

@@ -38,45 +38,45 @@
 ### v2
 **EN:** And the priests could not enter into the house of the
 
-**TDB77:** Topa’ minthan’na in Topa’ inn dim ahih manin Topa’ inn sungah siampite lut thei lo uh hi.
+**TDB77:** Topa’ minthan’na in Topa’ inn dim ahih manin Topa’ inn sungah siampite lut thei lo-te hi.
 
-**ZVS:** { Topa' } minthan'na vang biakinn dim ahih manin { Topa' } biakinn sungah siampite lut theilo uh hi.
+**ZVS:** { Topa' } minthan'na vang biakinn dim ahih manin { Topa' } biakinn sungah siampite lut theilo-te hi.
 
 **Grammar:** negation: lo | causal: because | plural: uh marker
 
 ### v3
 **EN:** And when all the children of Israel saw how the fire came down, and the glory of the
 
-**TDB77:** Israel mite khempeuh in meikuang hong pai sukin Topa’ minthan’na biakinn tungah a om a muh uh ciangin suangphah tungah lei lam maingatin kun uh a, bia-in Topa tungah lungdamna ko-in, “Topa tungah lungdam koh ding hoih hi; bang hang hiam cih leh ama itna kip tawntung hi,” a ci hi.
+**TDB77:** Israel mite khempeuh in meikuang hong pai sukin Topa’ minthan’na biakinn tungah a om a muh-te ciangin suangphah tungah lei lam maingatin kun-te a, bia-in Topa tungah lungdamna ko-in, “Topa tungah lungdam koh ding hoih hi; bang hang hiam cih leh ama itna kip tawntung hi,” a ci hi.
 
-**ZVS:** Israel mite khempeuh in meikuang hong paisukin { Topa' } minthan'na vang biakinn tungah a om a muh uh ciangin suangphah tungah leilam maingatin kun uh a, Pasian bia-in { Topa' } tungah lungdamna ko-in, “{ Topa' } tungah lungdam koh ding hoih hi; bang hang hiam cih leh ama itna kip tawntung hi,” a ci uh hi.
+**ZVS:** Israel mite khempeuh in meikuang hong paisukin { Topa' } minthan'na vang biakinn tungah a om a muh-te ciangin suangphah tungah leilam maingatin kun-te a, Pasian bia-in { Topa' } tungah lungdamna ko-in, “{ Topa' } tungah lungdam koh ding hoih hi; bang hang hiam cih leh ama itna kip tawntung hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | adjective: hoih (good) | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** Then the king and all the people offered sacrifices before the
 
-**TDB77:** Tua ciangin kumpipa leh mi khempeuh in Topa’ mai-ah biakna pia uh hi.
+**TDB77:** Tua ciangin kumpipa leh mi khempeuh in Topa’ mai-ah biakna pia-te hi.
 
-**ZVS:** Tua ciangin kumpipa leh mi khempeuh in { Topa' } mai-ah biakna pia uh hi.
+**ZVS:** Tua ciangin kumpipa leh mi khempeuh in { Topa' } mai-ah biakna pia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v5
 **EN:** And king Solomon offered a sacrifice of twenty and two thousand oxen, and an hundred and twenty thousand sheep: so the king and all the people dedicated the house of God.
 
-**TDB77:** Kumpi Solomon in biakna-in bawngtal tul sawmnih leh tulnih leh tuutal zakhat leh tul sawmnih pia hi. Tua ahih ciangin kumpipa leh mi khempeuh in Pasian’ inn ap uh hi.
+**TDB77:** Kumpi Solomon in biakna-in bawngtal tul sawmnih leh tulnih leh tuutal zakhat leh tul sawmnih pia hi. Tua ahih ciangin kumpipa leh mi khempeuh in Pasian’ inn ap-te hi.
 
-**ZVS:** Kumpi Solomon in biakna-in bawngtal tul sawmnih leh tul nih, leh tuu tul za khat leh tul sawmnih pia hi. Tua bangin kumpipa leh mi khempeuh in Pasian' biakinn a ap uh hi.
+**ZVS:** Kumpi Solomon in biakna-in bawngtal tul sawmnih leh tul nih, leh tuu tul za khat leh tul sawmnih pia hi. Tua bangin kumpipa leh mi khempeuh in Pasian' biakinn a ap-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v6
 **EN:** And the priests waited on their offices: the Levites also with instruments of musick of the
 
-**TDB77:** Siampite amau’ panmun uhah ding uh hi; Levi mite zong, Kumpi David in Topa tungah lungdam koh nadingin a bawl Topa’ tungah la sak nading lasaknate tawh ding uh hi—bang hang hiam cih leh ama itna kip tawntung hi—David in amau’ nasepna tawh phatnate a bawl ciangin tua bangin hih uh hi; amaute tawh a kigalsai-ah siampite in peengkulte tum uh hi; tua ciangin Israel khempeuh ding uh hi.
+**TDB77:** Siampite amau’ panmun uhah ding-te hi; Levi mite zong, Kumpi David in Topa tungah lungdam koh nadingin a bawl Topa’ tungah la sak nading lasaknate tawh ding-te hi—bang hang hiam cih leh ama itna kip tawntung hi—David in amau’ nasepna tawh phatnate a bawl ciangin tua bangin hih-te hi; amaute tawh a kigalsai-ah siampite in peengkulte tum-te hi; tua ciangin Israel khempeuh ding-te hi.
 
-**ZVS:** Siampite amau pan'mun uhah ding uh hi. Levi mite zong, Kumpi David in { Topa } tungah lungdam kohna dingin a bawl { Topa' } tungah lasakna ding lasaknate tawh ding uh hi. Bang hang hiam cih leh ama itna kip tawntung hi. David in amau' nasepna tawh phatnate a bawl ciangin tua bangin hih uh hi. Amaute tawh a kigalsai-ah siampite in peengkulte tum uh a, Israel mi khempeuh zong a ding uh hi.
+**ZVS:** Siampite amau pan'mun uhah ding-te hi. Levi mite zong, Kumpi David in { Topa } tungah lungdam kohna dingin a bawl { Topa' } tungah lasakna ding lasaknate tawh ding-te hi. Bang hang hiam cih leh ama itna kip tawntung hi. David in amau' nasepna tawh phatnate a bawl ciangin tua bangin hih-te hi. Amaute tawh a kigalsai-ah siampite in peengkulte tum-te a, Israel mi khempeuh zong a ding-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -92,18 +92,18 @@
 ### v8
 **EN:** Also at the same time Solomon kept the feast seven days, and all Israel with him, a very great congregation, from the entering in of Hamath unto the river of Egypt.
 
-**TDB77:** Tua hun lai takin Solomon leh amah tawh a om Israel khempeuh mihon tampi in Hamath lutna panin Izipt lui ciang dongah ni sagih sung pawi a kham uh hi.
+**TDB77:** Tua hun lai takin Solomon leh amah tawh a om Israel khempeuh mihon tampi in Hamath lutna panin Izipt lui ciang dongah ni sagih sung pawi a kham-te hi.
 
-**ZVS:** Tua hun laitakin Solomon leh amah tawh a om Israel khempeuh mihon tampi in Hamath lutna panin Egypt lui ciangdongah ni sagih sung pawi a kham uh hi.
+**ZVS:** Tua hun laitakin Solomon leh amah tawh a om Israel khempeuh mihon tampi in Hamath lutna panin Egypt lui ciangdongah ni sagih sung pawi a kham-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** And in the eighth day they made a solemn assembly: for they kept the dedication of the altar seven days, and the feast seven days.
 
-**TDB77:** Tua ciangin a ni giat ni-in amaute in a thukhupna kikhopna khat nei uh hi; bang hang hiam cih leh amaute in biakna tau apna ni sagih sung pawikham uh hi; pawi dang ni sagih sung kibawl beh lai hi.
+**TDB77:** Tua ciangin a ni giat ni-in amaute in a thukhupna kikhopna khat nei-te hi; bang hang hiam cih leh amaute in biakna tau apna ni sagih sung pawikham-te hi; pawi dang ni sagih sung kibawl beh lai hi.
 
-**ZVS:** Tua ciangin a ni giat ni-in amaute in a thukhupna khat nei uh hi; bang hang hiam cih leh amaute in biakinn apna ni sagih sung pawi kham uh a, tua pawi ni sagih sung kibawl hi.
+**ZVS:** Tua ciangin a ni giat ni-in amaute in a thukhupna khat nei-te hi; bang hang hiam cih leh amaute in biakinn apna ni sagih sung pawi kham-te a, tua pawi ni sagih sung kibawl hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -144,9 +144,9 @@
 ### v14
 **EN:** If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land.
 
-**TDB77:** keima minin a kisam ka mite amau mahmah kiniamkhiatin, thu ngenin ka mai hong zong a, amau’ gitlohnate panin a kihei uh leh, tua ciangin keimah in vantung panin ka za ding a, amaute’ khialhna maisakin a leitang uh ka hoihsak kik ding hi.
+**TDB77:** keima minin a kisam ka mite amau mahmah kiniamkhiatin, thu ngenin ka mai hong zong a, amau’ gitlohnate panin a kihei-te leh, tua ciangin keimah in vantung panin ka za ding a, amaute’ khialhna maisakin a leitang-te ka hoihsak kik ding hi.
 
-**ZVS:** keima minin a kisam ka mite amau mahmah kiniamkhiatin, thu ngenin ka mai hong zong a, amau' gitlohnate panin a kihei uh leh, keimah in vantung panin ka za ding a, amaute' khialhna maisakin a leitang uh ka hoihsak kik ding hi.
+**ZVS:** keima minin a kisam ka mite amau mahmah kiniamkhiatin, thu ngenin ka mai hong zong a, amau' gitlohnate panin a kihei-te leh, keimah in vantung panin ka za ding a, amaute' khialhna maisakin a leitang-te ka hoihsak kik ding hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | future: will | reciprocal: ki- prefix
 
@@ -185,9 +185,9 @@
 ### v19
 **EN:** But if ye turn away, and forsake my statutes and my commandments, which I have set before you, and shall go and serve other gods, and worship them;
 
-**TDB77:** “Ahih hangin note kihei-in, na mai uhah ka koihsa ka thukhamte leh ka thupiaknate nusia a, pai-in pasian dangte’ na semin tuate na biak uh leh,
+**TDB77:** “Ahih hangin note kihei-in, na mai uhah ka koihsa ka thukhamte leh ka thupiaknate nusia a, pai-in pasian dangte’ na semin tuate na biak-te leh,
 
-**ZVS:** Ahih hangin note kihei-in, na mai uhah ka koihsa ka thukhamte leh ka thupiaknate nusia a, pai-in pasian dangte' na semin tuate na biak uh leh,
+**ZVS:** Ahih hangin note kihei-in, na mai uhah ka koihsa ka thukhamte leh ka thupiaknate nusia a, pai-in pasian dangte' na semin tuate na biak-te leh,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -203,18 +203,18 @@
 ### v21
 **EN:** And this house, which is high, shall be an astonishment to every one that passeth by it; so that he shall say, Why hath the
 
-**TDB77:** Tua ciangin a minthangsa hih inn a nawkkha khempeuh in lamdangsa-in, ‘Bang hangin hih bangin Topa in hih gam leh hih inn bawl ahi hiam?’ ci ding uh hi.
+**TDB77:** Tua ciangin a minthangsa hih inn a nawkkha khempeuh in lamdangsa-in, ‘Bang hangin hih bangin Topa in hih gam leh hih inn bawl ahi hiam?’ ci ding-te hi.
 
-**ZVS:** “Tua ciangin a minthangsa hih biakinn a nawkkha khempeuh in lamdangsa-in, ‘Bang hangin hih bangin { Topa } in hih gam leh hih biakinn bawl ahi hiam?’ ci ding uh hi.
+**ZVS:** “Tua ciangin a minthangsa hih biakinn a nawkkha khempeuh in lamdangsa-in, ‘Bang hangin hih bangin { Topa } in hih gam leh hih biakinn bawl ahi hiam?’ ci ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v22
 **EN:** And it shall be answered, Because they forsook the
 
-**TDB77:** Tua ciangin amaute in, ‘Bang hang hiam cih leh Izipt gam panin amaute a paikhiatpih a pu a pate uh Pasian ahi Topa amaute in nusia uh a, pasian dangte pom uh a, tuate bia-in a na sem uh hi; tua ahih ciangin amah in hih siatna khempeuh amaute tungah tungsak hi,’ ci ding uh hi,” a ci hi.
+**TDB77:** Tua ciangin amaute in, ‘Bang hang hiam cih leh Izipt gam panin amaute a paikhiatpih a pu a pate-te Pasian ahi Topa amaute in nusia-te a, pasian dangte pom-te a, tuate bia-in a na sem-te hi; tua ahih ciangin amah in hih siatna khempeuh amaute tungah tungsak hi,’ ci ding-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin amaute in, ‘Bang hang hiam cih leh Egypt gam panin amaute a paikhiatpih a pu a pate uh Pasian ahi { Topa } amaute in nusia uh a, pasian dangte pom uh a, tuate bia-in a na sem uh hi. Tua ahih ciangin amah in hih bang siatna khempeuh amaute tungah tungsak hi,’ ci ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin amaute in, ‘Bang hang hiam cih leh Egypt gam panin amaute a paikhiatpih a pu a pate-te Pasian ahi { Topa } amaute in nusia-te a, pasian dangte pom-te a, tuate bia-in a na sem-te hi. Tua ahih ciangin amah in hih bang siatna khempeuh amaute tungah tungsak hi,’ ci ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 

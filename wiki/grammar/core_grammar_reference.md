@@ -16,8 +16,8 @@
 | 3rd singular | `amah` | `a` | `A pai hi.` | He/she/it goes. |
 | 1st plural inclusive | `keimahte` / `eite` | `i` | `I pai hi.` | We (all) go. |
 | 1st plural exclusive | `keite` / `koite` | `ko` | `Ko pai hi.` | We (not you) go. |
-| 2nd plural | `nangmite` | `na...uh` | `Na pai uh hi.` | You (all) go. |
-| 3rd plural | `amahte` | `a...uh` | `A pai uh hi.` | They go. |
+| 2nd plural | `nangmite` | `na...uh` | `Na pai-te hi.` | You (all) go. |
+| 3rd plural | `amahte` | `a...uh` | `A pai-te hi.` | They go. |
 
 ### Pronoun Drop Rule
 In informal speech, subject pronouns are dropped when the agreement marker makes person clear:
@@ -67,13 +67,13 @@ Asang              High / tall          [adjective prefix]
 ```
 I pai hi.           We (all) go.
 I ne ding.          We will eat.
-⚠️ NEVER: I pai uh hi. — WRONG (uh + i = forbidden)
+⚠️ NEVER: I pai-te hi. — WRONG (uh + i = forbidden)
 ```
 
 ### `uh` (3rd person plural marker)
 ```
-A pai uh hi.        They go.
-A ne uh hi.         They eat.
+A pai-te hi.        They go.
+A ne-te hi.         They eat.
 ⚠️ Only for 3rd person — NEVER with i/ei
 ```
 

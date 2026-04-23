@@ -29,81 +29,81 @@
 ### v1
 **EN:** Against Moab thus saith the
 
-**TDB77:** Moab gam tawh kisai-in a vanglian Topa, Israel mite’ Pasian in a gen-inah: “Nebo mite in gimna a thuak ding uh hi, bang hang hiam cih leh a gam uh a kisia ding hi. Kiriathaim khua kila khin zo a, a kulhpite uh cim khin hi. A mite in maizumna thuak uh a,
+**TDB77:** Moab gam tawh kisai-in a vanglian Topa, Israel mite’ Pasian in a gen-inah: “Nebo mite in gimna a thuak ding-te hi, bang hang hiam cih leh a gam-te a kisia ding hi. Kiriathaim khua kila khin zo a, a kulhpite-te cim khin hi. A mite in maizumna thuak-te a,
 
-**ZVS:** Moab gam tawh kisai-in Vanglian { Topa, } Israel mite' Pasian in a genin-ah: “Nebo mite in gimna a thuak ding uh hi. Bang hang hiam cih leh a gam uh a kisia ding hi. Kiriathaim khua kila khinzo a, a kulhpite uh cim khinta hi. A mite in maizumna thuak uh a,
+**ZVS:** Moab gam tawh kisai-in Vanglian { Topa, } Israel mite' Pasian in a genin-ah: “Nebo mite in gimna a thuak ding-te hi. Bang hang hiam cih leh a gam-te a kisia ding hi. Kiriathaim khua kila khinzo a, a kulhpite-te cim khinta hi. A mite in maizumna thuak-te a,
 
 **Grammar:** serial verb: -in (and then) | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** There shall be no more praise of Moab: in Heshbon they have devised evil against it; come, and let us cut it off from being a nation. Also thou shalt be cut down, O Madmen; the sword shall pursue thee.
 
-**TDB77:** Moab gam minthan’na bei ta hi. Heshbon khua-ah a galte un a sim nading uh a vaihawm uh a, ‘Hong pai un, Moab gam i beimang sak ding hi,’ a ci uh hi. Madmen khua aw, nang zong na gamdai ta ding hi. Namsau in nang hong nungdelh ding hi.
+**TDB77:** Moab gam minthan’na bei ta hi. Heshbon khua-ah a galte un a sim nading-te a vaihawm-te a, ‘Hong pai un, Moab gam i beimang sak ding hi,’ a ci-te hi. Madmen khua aw, nang zong na gamdai ta ding hi. Namsau in nang hong nungdelh ding hi.
 
-**ZVS:** Moab gam a minthan'na beita hi. Heshbon khua-ah a galte un a simna ding uh vaihawm uh a, ‘Hong pai un, Moab gam i beimangsak ding hi,’ a ci uh hi. Madmen khua aw, nang zong na gamdai ta ding hi. Namsau in nang hong nungdelh ding hi.
+**ZVS:** Moab gam a minthan'na beita hi. Heshbon khua-ah a galte un a simna ding-te vaihawm-te a, ‘Hong pai un, Moab gam i beimangsak ding hi,’ a ci-te hi. Madmen khua aw, nang zong na gamdai ta ding hi. Namsau in nang hong nungdelh ding hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v3
 **EN:** A voice of crying shall be from Horonaim, spoiling and great destruction.
 
-**TDB77:** “Ngai dih un! Horonain khua-ah mi kiko veh! ‘Ngongtatna leh siatna lianpi!’ ci uh hi.
+**TDB77:** “Ngai dih un! Horonain khua-ah mi kiko veh! ‘Ngongtatna leh siatna lianpi!’ ci-te hi.
 
-**ZVS:** Ngai dih un! Horonaim khua-ah mi kiko a, ‘Ngongtatna leh siatna lianpi,’ a ci uh hi.
+**ZVS:** Ngai dih un! Horonaim khua-ah mi kiko a, ‘Ngongtatna leh siatna lianpi,’ a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** Moab is destroyed; her little ones have caused a cry to be heard.
 
-**TDB77:** Moab gam kisusia khin ta a, a kahna aw uh Zoar khua dongin kiza hi.
+**TDB77:** Moab gam kisusia khin ta a, a kahna aw-te Zoar khua dongin kiza hi.
 
-**ZVS:** “Moab gam kisusia khinta a, a kahna aw uh Zoar khua dongin a kiza hi.
+**ZVS:** “Moab gam kisusia khinta a, a kahna aw-te Zoar khua dongin a kiza hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix
 
 ### v5
 **EN:** For in the going up of Luhith continual weeping shall go up; for in the going down of Horonaim the enemies have heard a cry of destruction.
 
-**TDB77:** Luhith mual kahtohna lampi-ah, a pai kawm-un a kap uh hi. Horonain khua-ah a tuahsuk laitakun khuapi sia-a a kikona aw uh a za uh hi.
+**TDB77:** Luhith mual kahtohna lampi-ah, a pai kawm-un a kap-te hi. Horonain khua-ah a tuahsuk laitakun khuapi sia-a a kikona aw-te a za-te hi.
 
-**ZVS:** Luhith mual kahtohna lampi-ah a paikawmun a kap uh hi. Horonaim khua-ah a tuahsuk laitakun khuapi siatna hangin a kikona aw uh a za uh hi.
+**ZVS:** Luhith mual kahtohna lampi-ah a paikawmun a kap-te hi. Horonaim khua-ah a tuahsuk laitakun khuapi siatna hangin a kikona aw-te a za-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Flee, save your lives, and be like the heath in the wilderness.
 
-**TDB77:** ‘Tai un! Na suahtak nadingun tai un! Sehnel gam a, gamlak laate bangin taimang un!’ a ci uh hi.
+**TDB77:** ‘Tai un! Na suahtak nadingun tai un! Sehnel gam a, gamlak laate bangin taimang un!’ a ci-te hi.
 
-**ZVS:** ‘Tai un! Na suahtakna dingun tai un! Sehnel gama gamlak late bangin taimang un!’ a ci uh hi.
+**ZVS:** ‘Tai un! Na suahtakna dingun tai un! Sehnel gama gamlak late bangin taimang un!’ a ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
 ### v7
 **EN:** For because thou hast trusted in thy works and in thy treasures, thou shalt also be taken: and Chemosh shall go forth into captivity with his priests and his princes together.
 
-**TDB77:** Na hatnate uh leh na neihsate uh na suan’ manun note zong hong kipai khiatpih ding hi. Na pasian uh Khemosh zong a siampi teng leh a ulian teng tawh, kipai khiatpih ding hi.
+**TDB77:** Na hatnate-te leh na neihsate-te na suan’ manun note zong hong kipai khiatpih ding hi. Na pasian-te Khemosh zong a siampi teng leh a ulian teng tawh, kipai khiatpih ding hi.
 
-**ZVS:** “Na hatnate uh leh na neihsate uh na suan' manun note zong hong kipai khiatpih ding hi. Na pasian uh Khemosh zong a siampi teng leh a ulian teng tawh, kipai khiatpih ding hi.
+**ZVS:** “Na hatnate-te leh na neihsate-te na suan' manun note zong hong kipai khiatpih ding hi. Na pasian-te Khemosh zong a siampi teng leh a ulian teng tawh, kipai khiatpih ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v8
 **EN:** And the spoiler shall come upon every city, and no city shall escape: the valley also shall perish, and the plain shall be destroyed, as the
 
-**TDB77:** Khua khempeuh kisia khin ding a, khat beek a suakta kei ding hi. Topa in ka gen sa bangin, mualkuam leh zangleite a kisia ding uh hi.
+**TDB77:** Khua khempeuh kisia khin ding a, khat beek a suakta kei ding hi. Topa in ka gen sa bangin, mualkuam leh zangleite a kisia ding-te hi.
 
-**ZVS:** Khua khempeuh kisia khin ding a, khat beek a suakta kei ding hi. { Topa } in ka gensa bangin mualkuam leh zangleite a kisia ding uh hi.
+**ZVS:** Khua khempeuh kisia khin ding a, khat beek a suakta kei ding hi. { Topa } in ka gensa bangin mualkuam leh zangleite a kisia ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** Give wings unto Moab, that it may flee and get away: for the cities thereof shall be desolate, without any to dwell therein.
 
-**TDB77:** Moab mite a leen’ khiat theih nadingun vasa’ kha pia un. A khuapite uh gamlak suak ding a, kuamah a teeng kei ding hi.
+**TDB77:** Moab mite a leen’ khiat theih nadingun vasa’ kha pia un. A khuapite-te gamlak suak ding a, kuamah a teeng kei ding hi.
 
-**ZVS:** Moab mite a leen'khiat theihna dingun a kha ding uh pia un. A khuapite uh gamlak suak ding a, kuamah a teng kei ding hi.
+**ZVS:** Moab mite a leen'khiat theihna dingun a kha ding-te pia un. A khuapite-te gamlak suak ding a, kuamah a teng kei ding hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -126,36 +126,36 @@
 ### v12
 **EN:** Therefore, behold, the days come, saith the
 
-**TDB77:** “Tua ahih manin, en un, Topa in kong cih-inah, Moab mite leenggahzu buak banga a bua khia ding mi kong paisak hun hong tung ding hi. Amaute in a thawl a hawm dong bung khia-in tua khit ciangin thawl a sukham zan ding uh hi.
+**TDB77:** “Tua ahih manin, en un, Topa in kong cih-inah, Moab mite leenggahzu buak banga a bua khia ding mi kong paisak hun hong tung ding hi. Amaute in a thawl a hawm dong bung khia-in tua khit ciangin thawl a sukham zan ding-te hi.
 
-**ZVS:** “Tua ahih manin en un, { Topa } in kong cihin-ah, Moab mite leenggahzu buak bangin a buakhia ding mi kong paisak hun hong tung ding hi. Amaute in a thawl a hawm dong bungkhia-in, tua khit ciangin a thawl sukhamzan ding uh hi.
+**ZVS:** “Tua ahih manin en un, { Topa } in kong cihin-ah, Moab mite leenggahzu buak bangin a buakhia ding mi kong paisak hun hong tung ding hi. Amaute in a thawl a hawm dong bungkhia-in, tua khit ciangin a thawl sukhamzan ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | plural: uh marker
 
 ### v13
 **EN:** And Moab shall be ashamed of Chemosh, as the house of Israel was ashamed of Beth–el their confidence.
 
-**TDB77:** Tua ciangin Israel mite, a muan’ uh Bethel pasian in a maizum sak mah bangin, Moab mite, a biak uh Khemoshpasian in a maizum sak ding hi.
+**TDB77:** Tua ciangin Israel mite, a muan’ uh Bethel pasian in a maizum sak mah bangin, Moab mite, a biak-te Khemoshpasian in a maizum sak ding hi.
 
-**ZVS:** Tua ciangin Israel mite, a muan' uh Bethel pasian in a maizumsak mah bangin Moab mite, a biak uh Khemosh pasian in a maizumsak ding hi.
+**ZVS:** Tua ciangin Israel mite, a muan' uh Bethel pasian in a maizumsak mah bangin Moab mite, a biak-te Khemosh pasian in a maizumsak ding hi.
 
 **Grammar:** sequence: then/therefore | future: will
 
 ### v14
 **EN:** How say ye, We are mighty and strong men for the war?
 
-**TDB77:** “Note in bang hangin, ‘Galhangte ka hi uh a, galsim hatte ka hi uh hi,’ ci thei na hi uh hiam?
+**TDB77:** “Note in bang hangin, ‘Galhangte ka hi-te a, galsim hatte ka hi-te hi,’ ci thei na hi-te hiam?
 
-**ZVS:** Note in bang hangin, ‘Galhangte ka hi uh a, galsim hatte ka hi uh hi,’ ci thei na hi uh hiam?
+**ZVS:** Note in bang hangin, ‘Galhangte ka hi-te a, galsim hatte ka hi-te hi,’ ci thei na hi-te hiam?
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** Moab is spoiled, and gone up out of her cities, and his chosen young men are gone down to the slaughter, saith the King, whose name is the
 
-**TDB77:** Moab gam leh a khuapite susia dingpa hong paito ta hi. A tangval hoihpente uh thahlup dingin a kipaipih khin zo hi, ci-in a vanglian Topa a kici keimah Kumpipa in kong gen hi.
+**TDB77:** Moab gam leh a khuapite susia dingpa hong paito ta hi. A tangval hoihpente-te thahlup dingin a kipaipih khin zo hi, ci-in a vanglian Topa a kici keimah Kumpipa in kong gen hi.
 
-**ZVS:** Moab gam leh a khuapite a susia dingpa hong paito ta hi. A tangval hoihpente uh thahlup dingin kipaipih khinzo hi, ci-in Vanglian { Topa } a kici keimah Kumpipa in kong gen hi.
+**ZVS:** Moab gam leh a khuapite a susia dingpa hong paito ta hi. A tangval hoihpente-te thahlup dingin kipaipih khinzo hi, ci-in Vanglian { Topa } a kici keimah Kumpipa in kong gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -180,9 +180,9 @@
 ### v18
 **EN:** Thou daughter that dost inhabit Dibon, come down from thy glory, and sit in thirst; for the spoiler of Moab shall come upon thee, and he shall destroy thy strong holds.
 
-**TDB77:** “Dibon khua-a teeng mite aw, na minthan’na mun sang panin hong kumsuk un la, leivui lakah hong tu un! Bang hang hiam cih leh Moab gam hong sim dingte hong pai-a na kulhte uh hong suksiatsak zo uh hi.
+**TDB77:** “Dibon khua-a teeng mite aw, na minthan’na mun sang panin hong kumsuk un la, leivui lakah hong tu un! Bang hang hiam cih leh Moab gam hong sim dingte hong pai-a na kulhte-te hong suksiatsak zo-te hi.
 
-**ZVS:** Dibon khua-a teng mite aw, na minthan'na uh mun sang panin hong kumsuk un la, leivui lakah hong tu un! Bang hang hiam cih leh Moab hong sim dingte hong paita a, na kulhte uh hong suksiatsak zo uh hi.
+**ZVS:** Dibon khua-a teng mite aw, na minthan'na-te mun sang panin hong kumsuk un la, leivui lakah hong tu un! Bang hang hiam cih leh Moab hong sim dingte hong paita a, na kulhte-te hong suksiatsak zo-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -248,9 +248,9 @@
 ### v26
 **EN:** Make ye him drunken: for he magnified himself against the
 
-**TDB77:** “Moab, zukham sak un, bang hang hiam cih leh amah in Topa langpanin kiliansak hi. Tua ahih manin amah in ama’ luak lakah a bual ding a, mi khempeuh in awi-in a nuihsan ding uh hi.
+**TDB77:** “Moab, zukham sak un, bang hang hiam cih leh amah in Topa langpanin kiliansak hi. Tua ahih manin amah in ama’ luak lakah a bual ding a, mi khempeuh in awi-in a nuihsan ding-te hi.
 
-**ZVS:** “Moab, zu khamsak un; bang hang hiam cih leh amah in { Topa } langpangin kiliansak hi. Tua ahih manin ama luak mahah amah bual ding a, mi khempeuh in awi-in a nuihsan ding uh hi.
+**ZVS:** “Moab, zu khamsak un; bang hang hiam cih leh amah in { Topa } langpangin kiliansak hi. Tua ahih manin ama luak mahah amah bual ding a, mi khempeuh in awi-in a nuihsan ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -271,7 +271,7 @@
 ### v29
 **EN:** We have heard the pride of Moab, (he is exceeding proud) his loftiness, and his arrogancy, and his pride, and the haughtiness of his heart.
 
-**TDB77:** Moab kiphatsakna ka za khin zo uh hi—kiphasak pha mahmah hi. Kilian sak-in kisathei a, kuamah thu sim loin mite neu-et hi.
+**TDB77:** Moab kiphatsakna ka za khin zo-te hi—kiphasak pha mahmah hi. Kilian sak-in kisathei a, kuamah thu sim loin mite neu-et hi.
 
 **ZVS:** Moab' kiphatsakna ka za khinzo a, kiphasak pha mahmah hi. Kiliansakin kisathei a, kuamah thusim loin mite a neu-et hi.
 
@@ -307,9 +307,9 @@
 ### v33
 **EN:** And joy and gladness is taken from the plentiful field, and from the land of Moab; and I have caused wine to fail from the winepresses: none shall tread with shouting; their shouting shall be no shouting.
 
-**TDB77:** Lei hoih mahmah Moab gam panin lungdamna leh kipahna kila khia ta hi. Leenggah cilna panin leenggahtui ka luang khiasak nawn kei a, lenggah cil-in kuamah lungdamin a kiko nawn kei hi; a kikona uh lungdam kikona hi lo hi.
+**TDB77:** Lei hoih mahmah Moab gam panin lungdamna leh kipahna kila khia ta hi. Leenggah cilna panin leenggahtui ka luang khiasak nawn kei a, lenggah cil-in kuamah lungdamin a kiko nawn kei hi; a kikona-te lungdam kikona hi lo hi.
 
-**ZVS:** Leihoih mahmah Moab gamah lungdamna leh kipahna a beita hi. Leenggah cilna panin leenggahzu ka luangkhiasak nawn kei a, leenggah cilin lungdamin kuamah a kiko nawn kei a, a kikona uh lungdam kikona hilo hi.
+**ZVS:** Leihoih mahmah Moab gamah lungdamna leh kipahna a beita hi. Leenggah cilna panin leenggahzu ka luangkhiasak nawn kei a, leenggah cilin lungdamin kuamah a kiko nawn kei a, a kikona-te lungdam kikona hilo hi.
 
 **Grammar:** adjective: hoih (good) | intensifier: very/greatly | serial verb: -in (and then) | negation: kei | negation: lo | reciprocal: ki- prefix
 
@@ -334,18 +334,18 @@
 ### v36
 **EN:** Therefore mine heart shall sound for Moab like pipes, and mine heart shall sound like pipes for the men of Kir–heres: because the riches that he hath gotten are perished.
 
-**TDB77:** Tua ahih manin Moab adingin ka kap a, Kirheres khua mite adingin misi vuina tamngai kitum bangin ka kapkhia hi: bang hang hiam cih leh a neih a lam khempeuh uh kisia mang khin ta hi.
+**TDB77:** Tua ahih manin Moab adingin ka kap a, Kirheres khua mite adingin misi vuina tamngai kitum bangin ka kapkhia hi: bang hang hiam cih leh a neih a lam khempeuh-te kisia mang khin ta hi.
 
-**ZVS:** Tua ahih manin Moab-a' dingin ka kap a, Kirheres khua mite-a' dingin misi vuina tamngai kitum bangin ka kapkhia hi. Bang hang hiam cih leh a neih a lam khempeuh uh kisiamang khinta hi.
+**ZVS:** Tua ahih manin Moab-a' dingin ka kap a, Kirheres khua mite-a' dingin misi vuina tamngai kitum bangin ka kapkhia hi. Bang hang hiam cih leh a neih a lam khempeuh-te kisiamang khinta hi.
 
 **Grammar:** purpose: in order to | completed: already done | causal: because | reciprocal: ki- prefix
 
 ### v37
 **EN:** For every head shall be bald, and every beard clipped: upon all the hands shall be cuttings, and upon the loins sackcloth.
 
-**TDB77:** “Mi khempeuh in a lu uh met tol uh a, a khamul uh kiatsiang uh hi. A khutte uh kui kek uh a, a kawng uhah ippi puan a teeng uh hi.
+**TDB77:** “Mi khempeuh in a lu-te met tol-te a, a khamul-te kiatsiang-te hi. A khutte-te kui kek-te a, a kawng uhah ippi puan a teeng-te hi.
 
-**ZVS:** “Mi khempeuh in a lu uh mettol uh a, a khamul uh kiatsiang uh hi. A khutte uh kuikek uh a, a kawng uhah puanhampi a teng uh hi.
+**ZVS:** “Mi khempeuh in a lu-te mettol-te a, a khamul-te kiatsiang-te hi. A khutte-te kuikek-te a, a kawng uhah puanhampi a teng-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -361,7 +361,7 @@
 ### v39
 **EN:** They shall howl, saying, How is it broken down! how hath Moab turned the back with shame! so shall Moab be a derision and a dismaying to all them about him.
 
-**TDB77:** Moab gam kitam ta hi! A mite kap uh hi! Maizum-in hong nungngat ta uh hi! Tua ahih manin Moab in a kim-a om mite’ nuihsat ding leh lipkhap ding a suak zo hi.
+**TDB77:** Moab gam kitam ta hi! A mite kap-te hi! Maizum-in hong nungngat ta-te hi! Tua ahih manin Moab in a kim-a om mite’ nuihsat ding leh lipkhap ding a suak zo hi.
 
 **ZVS:** Moab gam kitam ta! A mite kap! Maizumin hong nungngat ta! Tua ahih manin amah pen mite' nuihsat ding leh lipkhap ding a suakzo hi.
 
@@ -379,18 +379,18 @@
 ### v41
 **EN:** Kerioth is taken, and the strong holds are surprised, and the mighty men's hearts in Moab at that day shall be as the heart of a woman in her pangs.
 
-**TDB77:** Khuapite kila-in kulhpite zong kila ding hi. Tua ni ciangin Moab galkapte in nupi nausuak dingte bangin a lau ding uh hi.
+**TDB77:** Khuapite kila-in kulhpite zong kila ding hi. Tua ni ciangin Moab galkapte in nupi nausuak dingte bangin a lau ding-te hi.
 
-**ZVS:** A khuapite kila-in a kulhpite zong kila ding hi. Tua ni ciangin Moab galkapte nupi nausuak ding bangin a lau ding uh hi.
+**ZVS:** A khuapite kila-in a kulhpite zong kila ding hi. Tua ni ciangin Moab galkapte nupi nausuak ding bangin a lau ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v42
 **EN:** And Moab shall be destroyed from being a people, because he hath magnified himself against the
 
-**TDB77:** Moab kisusia ding a, a minam-in a om nawn kei ding hi. Bang hang hiam cih leh Topa dem-in kiliansak uh hi.
+**TDB77:** Moab kisusia ding a, a minam-in a om nawn kei ding hi. Bang hang hiam cih leh Topa dem-in kiliansak-te hi.
 
-**ZVS:** Moab kisusia ding a, a minamin a om nawn kei ding hi. Bang hang hiam cih leh { Topa } demin a kiliansak uh hi.
+**ZVS:** Moab kisusia ding a, a minamin a om nawn kei ding hi. Bang hang hiam cih leh { Topa } demin a kiliansak-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -413,18 +413,18 @@
 ### v45
 **EN:** They that fled stood under the shadow of Heshbon because of the force: but a fire shall come forth out of Heshbon, and a flame from the midst of Sihon, and shall devour the corner of Moab, and the crown of the head of the tumultuous ones.
 
-**TDB77:** A bah gawp galtaite in Heshbon khua hong beel uh hi. A hih hangin Sihon kumpipa a maan’na ngei Heshbon khua panin meikuang hong kipan khia veve hi. Galsim nuam mite’ teen’na Moab gam gammong dongin mualsangte zong a kangtum hi.
+**TDB77:** A bah gawp galtaite in Heshbon khua hong beel-te hi. A hih hangin Sihon kumpipa a maan’na ngei Heshbon khua panin meikuang hong kipan khia veve hi. Galsim nuam mite’ teen’na Moab gam gammong dongin mualsangte zong a kangtum hi.
 
-**ZVS:** A bahgawp galtaite in Heshbon khua hong beel uh hi. Ahih hangin Sihon kumpipa a maan'na ngei Heshbon khua panin meikuang hong kipankhia veve hi. Gal a simnuam mite' ten'na Moab gam, a gammong dongin mualsangte zong a kangtum hi.
+**ZVS:** A bahgawp galtaite in Heshbon khua hong beel-te hi. Ahih hangin Sihon kumpipa a maan'na ngei Heshbon khua panin meikuang hong kipankhia veve hi. Gal a simnuam mite' ten'na Moab gam, a gammong dongin mualsangte zong a kangtum hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v46
 **EN:** Woe be unto thee, O Moab! the people of Chemosh perisheth: for thy sons are taken captives, and thy daughters captives.
 
-**TDB77:** Moab aw, gimna na thuak ding hi! Khemosh pasian a bia mite si khin ta uh hi. Na tapate uh sal dingin kipaipih khin a, na tanute uh zong thongkia dingin kipaipih hi.
+**TDB77:** Moab aw, gimna na thuak ding hi! Khemosh pasian a bia mite si khin ta-te hi. Na tapate-te sal dingin kipaipih khin a, na tanute-te zong thongkia dingin kipaipih hi.
 
-**ZVS:** Moab aw, gimna na thuak ding hi. Khemosh pasian a bia mite si khinta uh hi. Na tapate uh sal dingin kipaipih khin a, na tanute uh zong thongkia dingin kipaipih hi.
+**ZVS:** Moab aw, gimna na thuak ding hi. Khemosh pasian a bia mite si khinta-te hi. Na tapate-te sal dingin kipaipih khin a, na tanute-te zong thongkia dingin kipaipih hi.
 
 **Grammar:** purpose: in order to | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 

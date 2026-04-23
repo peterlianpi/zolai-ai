@@ -28,30 +28,30 @@
 
 **TDB77:** Mi siangthote ading sumpi khiatna thu ahih leh, Galati gam pawlpite ka vaikhak mah bangin na hih un.
 
-**ZVS:** Tu-in Judea gama om Pasian mite huhna ding sum kaihkhopna ding thu tawh kisai-in: Galatia gama pawlpite in a hihding zia uh ka gen bangin note in zong na hih un.
+**ZVS:** Tu-in Judea gama om Pasian mite huhna ding sum kaihkhopna ding thu tawh kisai-in: Galatia gama pawlpite in a hihding zia-te ka gen bangin note in zong na hih un.
 
 ### v2
 **EN:** Upon the first day of the week let every one of you lay by him in store, as God hath prospered him, that there be no gatherings when I come.
 
 **TDB77:** Ka hong tun’ ciangin kaihkhop tawm a kul nawn loh nadingin nisagih laka ni masa bel ni-in mi a vekpi in na ngah bangun na khia khol ciat un.
 
-**ZVS:** Kei ka hong pai ciangin sumpi kaihkhop tawm a omlohna dingin na ngahna uh tawh kizui-in Nipi simin na tuamkoih un la, na na khol un.
+**ZVS:** Kei ka hong pai ciangin sumpi kaihkhop tawm a omlohna dingin na ngahna-te tawh kizui-in Nipi simin na tuamkoih un la, na na khol un.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
 ### v3
 **EN:** And when I come, whomsoever ye shall approve by your letters, them will I send to bring your liberality unto Jerusalem.
 
-**TDB77:** Ka hong tun’ ciangin mi na deihte uh laitai sakin na piak uh sumpi Jerusalem khua ah puak dingin ka sawl ding hi.
+**TDB77:** Ka hong tun’ ciangin mi na deihte-te laitai sakin na piak-te sumpi Jerusalem khua ah puak dingin ka sawl ding hi.
 
-**ZVS:** Kei ka hong tun' ciangin Jerusalem khua-ah na huhna uh sumte a puak dingin hoih na sak uh mite sawlin, lai tawh i paisak ding hi.
+**ZVS:** Kei ka hong tun' ciangin Jerusalem khua-ah na huhna-te sumte a puak dingin hoih na sak-te mite sawlin, lai tawh i paisak ding hi.
 
 **Grammar:** purpose: in order to | future: will
 
 ### v4
 **EN:** And if it be meet that I go also, they shall go with me.
 
-**TDB77:** Kei zong ka pai theih leh, amau in keimah tawh a paikhawm ding uh hi.
+**TDB77:** Kei zong ka pai theih leh, amau in keimah tawh a paikhawm ding-te hi.
 
 **ZVS:** Keimahmah zong ka va pai ding hoih i sak leh amaute tawh ka va paikhawm ding hi.
 
@@ -60,7 +60,7 @@
 ### v5
 **EN:** Now I will come unto you, when I shall pass through Macedonia: for I do pass through Macedonia.
 
-**TDB77:** Makedonia gam lam ka pai khit ciangin note kiangah ka hong tung ding hi. Bang hang hiam na cih uh leh, Makedonia gam lam ka tawn ding hi.
+**TDB77:** Makedonia gam lam ka pai khit ciangin note kiangah ka hong tung ding hi. Bang hang hiam na cih-te leh, Makedonia gam lam ka tawn ding hi.
 
 **ZVS:** Masedonia gam nawkin khualzin sawm ka hih manin tua gamsung ka zin khit ciangin no kiangah ka hong pai ding hi.
 
@@ -78,7 +78,7 @@
 ### v7
 **EN:** For I will not see you now by the way; but I trust to tarry a while with you, if the Lord permit.
 
-**TDB77:** Bang hang hiam na cih uh leh, lam lai-ah kimuh ding bek ka ut kei hi. Topa in thu hong piak leh, sauveipi note tawh omkhawm dingin ka lamen hi.
+**TDB77:** Bang hang hiam na cih-te leh, lam lai-ah kimuh ding bek ka ut kei hi. Topa in thu hong piak leh, sauveipi note tawh omkhawm dingin ka lamen hi.
 
 **ZVS:** Bang hang hiam cih leh Topa in hong thukimpih nak leh khualzin kawmin a hong nawk bek hiloin, note kiangah hun hoihkhop khat ka om nuam hi.
 
@@ -96,7 +96,7 @@
 ### v9
 **EN:** For a great door and effectual is opened unto me, and there are many adversaries.
 
-**TDB77:** Bang hang hiam na cih uh leh, lawhcin’ nadingin alian kongkhak a mansa-in kei ading a kihong hi. Hong langpan mi zong tampi a om uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, lawhcin’ nadingin alian kongkhak a mansa-in kei ading a kihong hi. Hong langpan mi zong tampi a om-te hi.
 
 **ZVS:** Hong langpang tampi a om tei hangin limtakin na septheihna ding lam tampi tak a om hi.
 
@@ -148,23 +148,23 @@
 ### v15
 **EN:** I beseech you, brethren, (ye know the house of Stephanas, that it is the firstfruits of Achaia, and that they have addicted themselves to the ministry of the saints,)
 
-**TDB77:** Ute naute aw, Stefanas-te’ innkuan in Akhaia gamah a gah masabel ahi uh a, misiangthote’ nasem dingin amau pumpi uh hong piak uh mah bangin,
+**TDB77:** Ute naute aw, Stefanas-te’ innkuan in Akhaia gamah a gah masabel ahi-te a, misiangthote’ nasem dingin amau pumpi-te hong piak-te mah bangin,
 
-**ZVS:** Sanggamte aw, Stefanas-te innkuan pen Akhaia gamsunga thu um masa pente ahihna leh Pasian' mite-a' dingin nasem dingin a kipia mite ahihna thu na thei uh hi.
+**ZVS:** Sanggamte aw, Stefanas-te innkuan pen Akhaia gamsunga thu um masa pente ahihna leh Pasian' mite-a' dingin nasem dingin a kipia mite ahihna thu na thei-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v16
 **EN:** That ye submit yourselves unto such, and to every one that helpeth with us, and laboureth.
 
-**TDB77:** tua bang mite’ ukna ahi zongin, nasepna ah a hahkat mi khempeuh a ukna uh ahi zongin na man’ nadingun ka hong thuum hi.
+**TDB77:** tua bang mite’ ukna ahi zongin, nasepna ah a hahkat mi khempeuh a ukna-te ahi zongin na man’ nadingun ka hong thuum hi.
 
 **ZVS:** Tua bang mite leh amaute tawh tua bangmahin na a semkhawm mite' thu na man'na dingun ka hong thum hi.
 
 ### v17
 **EN:** I am glad of the coming of Stephanas and Fortunatus and Achaicus: for that which was lacking on your part they have supplied.
 
-**TDB77:** Stefanas, Fortunatas leh Akhaikas-te hong tung ahih ciangin ka lung a dam hi. Bang hang hiam na cih uh leh, note in na hong bawl uh a kicing lote amaute in a hong kicingsak kik uh a,
+**TDB77:** Stefanas, Fortunatas leh Akhaikas-te hong tung ahih ciangin ka lung a dam hi. Bang hang hiam na cih-te leh, note in na hong bawl-te a kicing lote amaute in a hong kicingsak kik-te a,
 
 **ZVS:** Stefanas, Fortunatas, leh Akhaikas-te hong paina hangin ka nuam mahmah hi. Note tawh ka kimuh mah tawh hong kibangsak a,
 
@@ -173,27 +173,27 @@
 ### v18
 **EN:** For they have refreshed my spirit and yours: therefore acknowledge ye them that are such.
 
-**TDB77:** ka lungsim leh note lungsim uh hong tawldam sak zo uh hi. Tua bang mite na ciamteh un.
+**TDB77:** ka lungsim leh note lungsim-te hong tawldam sak zo-te hi. Tua bang mite na ciamteh un.
 
-**ZVS:** note hong lungnopsak mah bangin kei zong ka lung hong nuamsak hi. Hih bang mite, limtakin na phawk ding uh ahi hi.
+**ZVS:** note hong lungnopsak mah bangin kei zong ka lung hong nuamsak hi. Hih bang mite, limtakin na phawk ding-te ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v19
 **EN:** The churches of Asia salute you. Aquila and Priscilla salute you much in the Lord, with the church that is in their house.
 
-**TDB77:** Asia gama pawlpite in note hong hopih uh hi. Akuila leh Prisilla in, amau innah a om pawlpite tawh, Topa suangin note tampi-in hong hopih uh hi.
+**TDB77:** Asia gama pawlpite in note hong hopih-te hi. Akuila leh Prisilla in, amau innah a om pawlpite tawh, Topa suangin note tampi-in hong hopih-te hi.
 
-**ZVS:** Asia gama om pawlpi a tuamtuamte in note hopihna kam hong khak uh hi. Aquila leh Prisilla-te in zong amau' inn-a kikhawm pawlpite tawh Topa' hangin lungsim taktak tawh hopihna kam hong khak uh hi.
+**ZVS:** Asia gama om pawlpi a tuamtuamte in note hopihna kam hong khak-te hi. Aquila leh Prisilla-te in zong amau' inn-a kikhawm pawlpite tawh Topa' hangin lungsim taktak tawh hopihna kam hong khak-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v20
 **EN:** All the brethren greet you. Greet ye one another with an holy kiss.
 
-**TDB77:** Ute naute khempeuh in note hong hopih uh hi. Khat leh khat a siangtho napna tawh na kihopih ciat un.
+**TDB77:** Ute naute khempeuh in note hong hopih-te hi. Khat leh khat a siangtho napna tawh na kihopih ciat un.
 
-**ZVS:** Hih lai-ah a om thu upna sungah i sanggamte khempeuh in zong hopihna kam hong khak uh hi. A siangtho kinapna tawh note khatlekhat na kihopih un.
+**ZVS:** Hih lai-ah a om thu upna sungah i sanggamte khempeuh in zong hopihna kam hong khak-te hi. A siangtho kinapna tawh note khatlekhat na kihopih un.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

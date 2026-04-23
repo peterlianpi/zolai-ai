@@ -20,7 +20,7 @@
 
 ### kizui-in = following/in accordance with
 **Context:** Describing how the hearing (zakna) aligns with the eyes (bil-un).
-**Example:** Ka bil-un ka zakna uh tawh kizui-in
+**Example:** Ka bil-un ka zakna-te tawh kizui-in
 
 ### simloh = other than/besides
 **Context:** Used in a negative construction to emphasize uniqueness ('no other God besides you').
@@ -64,11 +64,9 @@
 
 ### nuaisiah = to smite/to subdue
 **Context:** David's military action against the Philistines.
-**Example:** David in Filistiate zoin nuaisiah a
-
-### siah puak = to bring tribute/to pay taxes
+**Example:** David in Filistiate zoin nuaisiah a ### siah puak = to bring tribute/to pay taxes
 **Context:** The result of being conquered; becoming servants who pay tribute.
-**Example:** siah hong puak uh hi
+**Example:** siah hong puak-te hi
 
 ### ngah kik nuamin = in order to regain/to recover
 **Context:** Hadadezer's motivation for marching towards the Euphrates.
@@ -114,6 +112,6 @@
   - Rhetorical question structure used for comparison: 'Who in the world (Z) is like (a kibang) the people (Y) whom you redeemed from (X)?'
   - Example: Egypt panin na hotkhiat na mite' mai-ah ... Israelte tawh a kibang mi leitungah minam dang kua om ahi hiam?
 
-- **X in Y zo a, Z suakin siah hong puak uh hi.**
+- **X in Y zo a, Z suakin siah hong puak-te hi.**
   - Sequential action structure: Subject (X) conquers (Y), and as a result, they (Z) become servants and bring tribute.
-  - Example: Moab mite zo a, Moab mite David' nasem suakin siah hong puak uh hi.
+  - Example: Moab mite zo a, Moab mite David' nasem suakin siah hong puak-te hi.

@@ -24,7 +24,7 @@
 ### v1
 **EN:** And Moses answered and said, But, behold, they will not believe me, nor hearken unto my voice: for they will say, The
 
-**TDB77:** Tua ciangin Moses in dawngin, “Ahih hangin amaute in kei hong umloin ka thu hong ngailo ding uh hi. Bang hang hiam cih leh amaute in, ‘Nang tungah { Topa } hong kilanglo hi,’ hong ci ding uh hi,” a ci hi.
+**TDB77:** Tua ciangin Moses in dawngin, “Ahih hangin amaute in kei hong umloin ka thu hong ngailo ding-te hi. Bang hang hiam cih leh amaute in, ‘Nang tungah { Topa } hong kilanglo hi,’ hong ci ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -73,7 +73,7 @@
 ### v8
 **EN:** And it shall come to pass, if they will not believe thee, neither hearken to the voice of the first sign, that they will believe the voice of the latter sign.
 
-**TDB77:** Pasian in, “Amaute in nang hong up kei a, lim masa a thudon kei uh leh zong, amaute in lim nunung um khading uh hi.
+**TDB77:** Pasian in, “Amaute in nang hong up kei a, lim masa a thudon kei-te leh zong, amaute in lim nunung um khading-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -122,7 +122,7 @@
 ### v15
 **EN:** And thou shalt speak unto him, and put words in his mouth: and I will be with thy mouth, and with his mouth, and will teach you what ye shall do.
 
-**TDB77:** Nangmah in ama kiangah thu na gen ding a, thute amah na theisak ding hi. Keimah in na thugenna uhah kong huh ding a, na hih ding uh kong hilh ding hi.
+**TDB77:** Nangmah in ama kiangah thu na gen ding a, thute amah na theisak ding hi. Keimah in na thugenna uhah kong huh ding a, na hih ding-te kong hilh ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -143,14 +143,14 @@
 ### v18
 **EN:** And Moses went and returned to Jethro his father in law, and said unto him, Let me go, I pray thee, and return unto my brethren which are in Egypt, and see whether they be yet alive. And Jethro said to Moses, Go in peace.
 
-**TDB77:** Tua ciangin a sungpa Jethro' kiangah Moses pai-in ama kiangah, “Hong thum ing; Egypt-ah ka sanggamte kiangah kei hong ciahkik sakin amaute a nungta lai uh hiam hong mu sak in,” a ci hi. Jethro in Moses kiangah, “Cidam takin va ciahkik in,” a ci hi.
+**TDB77:** Tua ciangin a sungpa Jethro' kiangah Moses pai-in ama kiangah, “Hong thum ing; Egypt-ah ka sanggamte kiangah kei hong ciahkik sakin amaute a nungta lai-te hiam hong mu sak in,” a ci hi. Jethro in Moses kiangah, “Cidam takin va ciahkik in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v19
 **EN:** And the
 
-**TDB77:** Midian gam sungah { Topa } in Moses kiangah, “Egypt-ah ciahkik in. Bang hang hiam cih leh nang a hong that nuam mi khempeuh si khinta uh hi,” a ci hi.
+**TDB77:** Midian gam sungah { Topa } in Moses kiangah, “Egypt-ah ciahkik in. Bang hang hiam cih leh nang a hong that nuam mi khempeuh si khinta-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -216,7 +216,7 @@
 ### v29
 **EN:** And Moses and Aaron went and gathered together all the elders of the children of Israel:
 
-**TDB77:** Tua ciangin Moses leh Aaron pai-in Israel upate khempeuh a kaikhawm uh hi.
+**TDB77:** Tua ciangin Moses leh Aaron pai-in Israel upate khempeuh a kaikhawm-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -230,7 +230,7 @@
 ### v31
 **EN:** And the people believed: and when they heard that the
 
-**TDB77:** Mite in um uh hi. Israel mite kiangah { Topa } hawhin, amau' thuaknate amah in a muh khitna thu amaute in a zak uh ciangin, amaute in a lu uh kunin Pasian a bia uh hi.
+**TDB77:** Mite in um-te hi. Israel mite kiangah { Topa } hawhin, amau' thuaknate amah in a muh khitna thu amaute in a zak-te ciangin, amaute in a lu-te kunin Pasian a bia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

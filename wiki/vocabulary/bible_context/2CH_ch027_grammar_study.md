@@ -30,9 +30,9 @@
 ### v2
 **EN:** And he did that which was right in the sight of the
 
-**TDB77:** A pa Uzziah hihsa khempeuh bangin amah in Topa’ mit-ah a man gamta hi—ahih hangin a pa bangin Topa’ biakinn sungah amah va mawk lut lo hi. Ahih hangin mite in a sia gamtatnate zui lai uh hi.
+**TDB77:** A pa Uzziah hihsa khempeuh bangin amah in Topa’ mit-ah a man gamta hi—ahih hangin a pa bangin Topa’ biakinn sungah amah va mawk lut lo hi. Ahih hangin mite in a sia gamtatnate zui lai-te hi.
 
-**ZVS:** A pa Uzziah hihsa khempeuh bangin { Topa' } mitah a man gamta hi. Ahih hangin a pa bangin { Topa' } biakinn sungah amah va mawk lutlo hi. Ahih hangin mite in a sia gamtatnate zui lai uh hi.
+**ZVS:** A pa Uzziah hihsa khempeuh bangin { Topa' } mitah a man gamta hi. Ahih hangin a pa bangin { Topa' } biakinn sungah amah va mawk lutlo hi. Ahih hangin mite in a sia gamtatnate zui lai-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -53,9 +53,9 @@
 ### v5
 **EN:** He fought also with the king of the Ammonites, and prevailed against them. And the children of Ammon gave him the same year an hundred talents of silver, and ten thousand measures of wheat, and ten thousand of barley. So much did the children of Ammon pay unto him, both the second year, and the third.
 
-**TDB77:** Amah in Ammon kumpipa tawh kido a, amaute zo hi. Tua ciangin Ammon mite in tua kumin ama tungah ngun talen zakhat, leh mangbuh lawh tulsawm leh mangbuhham lawh tulsawm mah puak uh hi. Ammon mite in ama tungah a kum nihna leh a kum thumna kumin tua zah mah puak uh hi.
+**TDB77:** Amah in Ammon kumpipa tawh kido a, amaute zo hi. Tua ciangin Ammon mite in tua kumin ama tungah ngun talen zakhat, leh mangbuh lawh tulsawm leh mangbuhham lawh tulsawm mah puak-te hi. Ammon mite in ama tungah a kum nihna leh a kum thumna kumin tua zah mah puak-te hi.
 
-**ZVS:** Amah in Ammon kumpipa sim a, amaute a zo hi. Tua ciangin Ammon mite in tua kumin ama tungah ngun talen za khat, mangbuh lawh tul sawm, leh mangbuhham lawh tul sawm mah a puak uh hi. Ammon mite in ama tungah a kum nihna leh a kum thumna kumin tua zah mah a puak uh hi.
+**ZVS:** Amah in Ammon kumpipa sim a, amaute a zo hi. Tua ciangin Ammon mite in tua kumin ama tungah ngun talen za khat, mangbuh lawh tul sawm, leh mangbuhham lawh tul sawm mah a puak-te hi. Ammon mite in ama tungah a kum nihna leh a kum thumna kumin tua zah mah a puak-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -89,9 +89,9 @@
 ### v9
 **EN:** And Jotham slept with his fathers, and they buried him in the city of David: and Ahaz his son reigned in his stead.
 
-**TDB77:** Tua ciangin a pate tawh Jotham ihmu a, David khuapi sungah amaute in amah vui uh hi; tua ciangin a tapa Ahaz in ama taangin uk hi.
+**TDB77:** Tua ciangin a pate tawh Jotham ihmu a, David khuapi sungah amaute in amah vui-te hi; tua ciangin a tapa Ahaz in ama taangin uk hi.
 
-**ZVS:** Tua ciangin Jotham si a, David khuapi sungah amaute in amah a vui uh hi. Tua ciangin a tapa Ahaz in ama tangin a uk hi.
+**ZVS:** Tua ciangin Jotham si a, David khuapi sungah amaute in amah a vui-te hi. Tua ciangin a tapa Ahaz in ama tangin a uk hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

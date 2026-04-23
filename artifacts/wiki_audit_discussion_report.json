@@ -10,59 +10,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -151,21 +151,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -1228,7 +1221,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 3
+          "count": 2
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -1249,26 +1242,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -1277,6 +1264,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -1291,14 +1284,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -1315,14 +1308,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -1339,14 +1332,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -1363,14 +1356,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -1387,14 +1380,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -1411,14 +1404,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -1435,14 +1428,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -1459,20 +1452,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 4
         }
       ],
-      "total_findings": 14
+      "total_findings": 13
     },
     "wiki/zolai_notebooklm_complete.md": {
       "agents": [
@@ -1482,59 +1475,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -1623,21 +1616,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -2700,7 +2686,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 112
+          "count": 111
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -2721,26 +2707,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -2749,6 +2729,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -2763,14 +2749,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -2787,14 +2773,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -2811,14 +2797,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -2835,14 +2821,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -2859,14 +2845,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -2883,14 +2869,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -2907,14 +2893,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -2931,20 +2917,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 7
         }
       ],
-      "total_findings": 134
+      "total_findings": 133
     },
     "wiki/README.md": {
       "agents": [
@@ -2954,59 +2940,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -3095,21 +3081,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -4172,7 +4151,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 112
+          "count": 111
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -4193,26 +4172,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -4221,6 +4194,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -4235,14 +4214,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -4259,14 +4238,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -4283,14 +4262,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -4307,14 +4286,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -4331,14 +4310,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -4355,14 +4334,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -4379,14 +4358,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -4403,20 +4382,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 11
         }
       ],
-      "total_findings": 139
+      "total_findings": 138
     },
     "wiki/books_summary.md": {
       "agents": [
@@ -4426,59 +4405,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -4567,21 +4546,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -5644,7 +5616,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 112
+          "count": 111
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -5665,26 +5637,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -5693,6 +5659,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -5707,14 +5679,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -5731,14 +5703,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -5755,14 +5727,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -5779,14 +5751,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -5803,14 +5775,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -5827,14 +5799,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -5851,14 +5823,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -5875,20 +5847,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 15
         }
       ],
-      "total_findings": 143
+      "total_findings": 142
     },
     "wiki/vocab_recommendations.md": {
       "agents": [
@@ -5898,59 +5870,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -6039,21 +6011,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -7116,7 +7081,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 112
+          "count": 111
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -7137,26 +7102,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -7165,6 +7124,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -7179,14 +7144,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -7203,14 +7168,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -7227,14 +7192,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -7251,14 +7216,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -7275,14 +7240,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -7299,14 +7264,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -7323,14 +7288,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -7347,20 +7312,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 19
         }
       ],
-      "total_findings": 147
+      "total_findings": 146
     },
     "wiki/zolai_ai_instructions.md": {
       "agents": [
@@ -7370,59 +7335,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -7511,21 +7476,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -8588,7 +8546,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 145
+          "count": 144
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -8609,26 +8567,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -8637,6 +8589,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -8651,14 +8609,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -8675,14 +8633,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -8699,14 +8657,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -8723,14 +8681,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -8747,14 +8705,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -8771,14 +8729,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -8795,14 +8753,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -8819,20 +8777,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 23
         }
       ],
-      "total_findings": 184
+      "total_findings": 183
     },
     "wiki/LEARNING_SUMMARY_2026_04_22.md": {
       "agents": [
@@ -8842,59 +8800,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -8983,21 +8941,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -10060,7 +10011,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 145
+          "count": 144
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -10081,26 +10032,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -10109,6 +10054,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -10123,14 +10074,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -10147,14 +10098,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -10171,14 +10122,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -10195,14 +10146,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -10219,14 +10170,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -10243,14 +10194,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -10267,14 +10218,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -10291,20 +10242,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 27
         }
       ],
-      "total_findings": 188
+      "total_findings": 187
     },
     "wiki/zolai_grammar_cheat_sheet.md": {
       "agents": [
@@ -10314,59 +10265,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -10455,21 +10406,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -11532,7 +11476,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 154
+          "count": 153
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -11553,26 +11497,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -11581,6 +11519,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -11595,14 +11539,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -11619,14 +11563,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -11643,14 +11587,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -11667,14 +11611,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -11691,14 +11635,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -11715,14 +11659,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -11739,14 +11683,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -11763,20 +11707,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 31
         }
       ],
-      "total_findings": 201
+      "total_findings": 200
     },
     "wiki/Zolai_Standard_Format.md": {
       "agents": [
@@ -11786,59 +11730,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -11927,21 +11871,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -13004,7 +12941,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 154
+          "count": 153
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -13025,26 +12962,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -13053,6 +12984,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -13067,14 +13004,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -13091,14 +13028,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -13115,14 +13052,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -13139,14 +13076,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -13163,14 +13100,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -13187,14 +13124,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -13211,14 +13148,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -13235,20 +13172,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 35
         }
       ],
-      "total_findings": 207
+      "total_findings": 206
     },
     "wiki/linguistics/zolai_sinna_2010_knowledge.md": {
       "agents": [
@@ -13258,59 +13195,59 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "pathian",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "ram",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "fapa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "bawipa",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "siangpahrang",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cu",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "README.md",
-              "line": 161,
+              "line": 174,
               "type": "FORBIDDEN_WORD",
               "word": "cun",
               "suggestion": "Use ZVS 2018 compliant word instead",
-              "content": "- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
+              "content": "**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -13399,21 +13336,14 @@
           "findings": [
             {
               "file": "README.md",
-              "line": 19,
+              "line": 41,
               "type": "INCOMPLETE_EXAMPLE",
               "issue": "Code example too short",
               "suggestion": "Provide complete, runnable examples"
             },
             {
               "file": "README.md",
-              "line": 30,
-              "type": "INCOMPLETE_EXAMPLE",
-              "issue": "Code example too short",
-              "suggestion": "Provide complete, runnable examples"
-            },
-            {
-              "file": "README.md",
-              "line": 133,
+              "line": 146,
               "type": "MISSING_COMMENTS",
               "issue": "Code example lacks explanatory comments",
               "suggestion": "Add comments explaining the code"
@@ -14476,7 +14406,7 @@
               "suggestion": "Add comments explaining the code"
             }
           ],
-          "count": 154
+          "count": 153
         },
         {
           "agent": "DocumentationAuditAgent",
@@ -14497,26 +14427,20 @@
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
               "type": "MISSING_SECTION",
               "section": "## Installation",
               "suggestion": "Add '## Installation' section to documentation"
-            },
-            {
-              "file": "wiki/zolai_notebooklm_complete.md",
-              "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_notebooklm_complete.md",
@@ -14525,6 +14449,12 @@
               "suggestion": "Add '## Examples' section to documentation"
             },
             {
+              "file": "wiki/zolai_notebooklm_complete.md",
+              "type": "MISSING_SECTION",
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
+            },
+            {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
               "section": "## Usage",
@@ -14539,14 +14469,14 @@
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/README.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
@@ -14563,14 +14493,14 @@
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/books_summary.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
@@ -14587,14 +14517,14 @@
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/vocab_recommendations.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
@@ -14611,14 +14541,14 @@
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_ai_instructions.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
@@ -14635,14 +14565,14 @@
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/LEARNING_SUMMARY_2026_04_22.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
@@ -14659,14 +14589,14 @@
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/zolai_grammar_cheat_sheet.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
@@ -14683,14 +14613,14 @@
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/Zolai_Standard_Format.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
@@ -14707,20 +14637,20 @@
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## API",
-              "suggestion": "Add '## API' section to documentation"
+              "section": "## Examples",
+              "suggestion": "Add '## Examples' section to documentation"
             },
             {
               "file": "wiki/linguistics/zolai_sinna_2010_knowledge.md",
               "type": "MISSING_SECTION",
-              "section": "## Examples",
-              "suggestion": "Add '## Examples' section to documentation"
+              "section": "## API",
+              "suggestion": "Add '## API' section to documentation"
             }
           ],
           "count": 39
         }
       ],
-      "total_findings": 211
+      "total_findings": 210
     }
   },
   "discussion_group": {

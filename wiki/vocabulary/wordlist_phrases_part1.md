@@ -37,7 +37,7 @@
 - `(a)` = adjective
   - e.g. `Brazen: (a) dal kibawl, dal sik tawh bawl, zakta-theilo, zumtheilo`
 - `(v)` = verb
-  - e.g. `Nab: (v) man, (guta man uh hi)`
+  - e.g. `Nab: (v) man, (guta man-te hi)`
 - `(n):` = noun
   - e.g. `Anna: (n) nidanglai a India sum nen, pe khat`
 

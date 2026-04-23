@@ -87,7 +87,7 @@
 
 **TDB77:** Na zite mi hampha! Nangma mai-ah ding tawntungin na pilna a za hih na nasemte mi hampha!
 
-**ZVS:** Na zite a hampha mahmah hi a, na mai-ah ding tawntungin na pilna a za hih na nasemte zong hampha mahmah uh hi.
+**ZVS:** Na zite a hampha mahmah hi a, na mai-ah ding tawntungin na pilna a za hih na nasemte zong hampha mahmah-te hi.
 
 ### v9
 **EN:** Blessed be the
@@ -112,7 +112,7 @@
 
 **TDB77:** Tua tham loin Ofir panin kham hong pua Hiram’ teembaw honte in Ofir panin cingsing leh suang manpha tampi tak hong pua hi.
 
-**ZVS:** Tua thamloin Ofir panin kham hong pua Hiram' teembaw honte in Ofir panin cingsing leh suangmanpha tampi tak hong pua uh hi.
+**ZVS:** Tua thamloin Ofir panin kham hong pua Hiram' teembaw honte in Ofir panin cingsing leh suangmanpha tampi tak hong pua-te hi.
 
 ### v12
 **EN:** And the king made of the almug trees pillars for the house of the
@@ -128,7 +128,7 @@
 
 **TDB77:** Tua ciangin Kumpi Solomon in citna tawh ama tungah a piak banah ama deih a nget khempeuh Sheba kumpinu tungah Kumpi Solomon in pia hi. Tua ahih ciangin amah kihei-in a nasemte tawh ama gamah ciahkik hi.
 
-**ZVS:** Tua ciangin Kumpi Solomon in citna tawh ama tungah a piak banah ama deih a nget khempeuh zong Sheba kumpinu tungah a pia hi. Tua ahih ciangin amah leh a nasemte a gam uhah a ciahkik uh hi.
+**ZVS:** Tua ciangin Kumpi Solomon in citna tawh ama tungah a piak banah ama deih a nget khempeuh zong Sheba kumpinu tungah a pia hi. Tua ahih ciangin amah leh a nasemte a gam uhah a ciahkik-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -204,18 +204,18 @@
 ### v24
 **EN:** And all the earth sought to Solomon, to hear his wisdom, which God had put in his heart.
 
-**TDB77:** Tua ciangin Pasian in ama lungsim sunga a koih ama pilna a ngai dingin leitung buppi in Solomon’ omna zong uh hi.
+**TDB77:** Tua ciangin Pasian in ama lungsim sunga a koih ama pilna a ngai dingin leitung buppi in Solomon’ omna zong-te hi.
 
-**ZVS:** Tua ciangin Pasian in ama lungsim sunga a koih ama pilna a ngai dingin leitung mi buppi in Solomon' omna zong uh hi.
+**ZVS:** Tua ciangin Pasian in ama lungsim sunga a koih ama pilna a ngai dingin leitung mi buppi in Solomon' omna zong-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v25
 **EN:** And they brought every man his present, vessels of silver, and vessels of gold, and garments, and armour, and spices, horses, and mules, a rate year by year.
 
-**TDB77:** Amaute khempeuh in letsong, ngun leh kham tawh kibawl nate, puante, mor paknamtuite, a kum kumin tampi tak hong puak uh hi.
+**TDB77:** Amaute khempeuh in letsong, ngun leh kham tawh kibawl nate, puante, mor paknamtuite, a kum kumin tampi tak hong puak-te hi.
 
-**ZVS:** Amaute khempeuh in letsong, ngun leh kham tawh kibawl nate, puante, myrrh paknamtui, a namtui nate, sakolte, leh la-sakolte, a kumkumin tampi tak hong puak uh hi.
+**ZVS:** Amaute khempeuh in letsong, ngun leh kham tawh kibawl nate, puante, myrrh paknamtui, a namtui nate, sakolte, leh la-sakolte, a kumkumin tampi tak hong puak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -238,18 +238,18 @@
 ### v28
 **EN:** And Solomon had horses brought out of Egypt, and linen yarn: the king's merchants received the linen yarn at a price.
 
-**TDB77:** Solomon’ sakol lakte Izipt leh Kue pan hi a, kumpipa’ sumbawlte in Kue panin a man pia-in tuate ngah uh hi.
+**TDB77:** Solomon’ sakol lakte Izipt leh Kue pan hi a, kumpipa’ sumbawlte in Kue panin a man pia-in tuate ngah-te hi.
 
-**ZVS:** Solomon' sakol lakte Egypt leh Kue pan hi a, kumpipa' sumbawlte in Kue-ah a man pia-in tuate ngah uh hi.
+**ZVS:** Solomon' sakol lakte Egypt leh Kue pan hi a, kumpipa' sumbawlte in Kue-ah a man pia-in tuate ngah-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v29
 **EN:** And a chariot came up and went out of Egypt for six hundred shekels of silver, and an horse for an hundred and fifty: and so for all the kings of the Hittites, and for the kings of Syria, did they bring them out by their means.
 
-**TDB77:** Izipt panin leeng khat ciangin ngun shekel zaguk, sakol khat ciangin za leh sawmnga-in kingah hi; tua ahih ciangin kumpipa’ sumbawlte in Hit kumpite leh Siria kumpite khempeuh tungah zuak khia uh hi.
+**TDB77:** Izipt panin leeng khat ciangin ngun shekel zaguk, sakol khat ciangin za leh sawmnga-in kingah hi; tua ahih ciangin kumpipa’ sumbawlte in Hit kumpite leh Siria kumpite khempeuh tungah zuak khia-te hi.
 
-**ZVS:** Egypt panin leeng khat ciangin ngun shekel za guk, sakol khat ciangin za leh sawmnga-in kingah hi. Tua ahih ciangin kumpipa' sumbawlte in Hit kumpite leh Syria kumpite khempeuh tungah zuakkhia uh hi.
+**ZVS:** Egypt panin leeng khat ciangin ngun shekel za guk, sakol khat ciangin za leh sawmnga-in kingah hi. Tua ahih ciangin kumpipa' sumbawlte in Hit kumpite leh Syria kumpite khempeuh tungah zuakkhia-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

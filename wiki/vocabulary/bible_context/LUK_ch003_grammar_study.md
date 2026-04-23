@@ -41,7 +41,7 @@
 
 **TDB77:** Kamsangpa Isaiah’ Lai Siangtho sungah a kigelh mah bangin Johan in Jordan gun dungah vak kawikawi a, mawhna maisak nading kisik kikna tawh kituakin baptaizna thu a hilh hi.
 
-**ZVS:** Tua ahih ciangin Jordan Gun kiim gam khempeuhah Johan pai kawikawi a, kamsang Isaiah in Lai Siangtho sungah a gelh mah bangin, “Na mawhna panun kisik un la tui kiphum un. Tua hi leh Pasian in na mawhnate uh hong maisak ding hi,” ci-in thu a hilh hi.
+**ZVS:** Tua ahih ciangin Jordan Gun kiim gam khempeuhah Johan pai kawikawi a, kamsang Isaiah in Lai Siangtho sungah a gelh mah bangin, “Na mawhna panun kisik un la tui kiphum un. Tua hi leh Pasian in na mawhnate-te hong maisak ding hi,” ci-in thu a hilh hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -66,9 +66,9 @@
 ### v6
 **EN:** And all flesh shall see the salvation of God.
 
-**TDB77:** Mi khempeuh in Pasian’ gupna thu a thei ding uh hi,” ci-in a gelh hi.
+**TDB77:** Mi khempeuh in Pasian’ gupna thu a thei ding-te hi,” ci-in a gelh hi.
 
-**ZVS:** Mi khempeuh in Pasian' hotkhiatna ngah ding uh hi,’” ci-in a kigelh hi.
+**ZVS:** Mi khempeuh in Pasian' hotkhiatna ngah ding-te hi,’” ci-in a kigelh hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -77,16 +77,16 @@
 
 **TDB77:** Tua lai takin Johan in ama khut tungah kibaptaiz dingin hong pai mihonpite kiangah, “No mualtan’ suante aw, a hong tung ding hehna pan na taikhiat nadingun kua in hong hilhkhol hiam?
 
-**ZVS:** Ama tuiphum ding utin a hong pai mi tampite kiangah Johan in, “Gul bangin ngian a zang note aw, hong tungding Pasian' hehna panin na suahtak theihna ding uh kua in hong gen ahi hiam?
+**ZVS:** Ama tuiphum ding utin a hong pai mi tampite kiangah Johan in, “Gul bangin ngian a zang note aw, hong tungding Pasian' hehna panin na suahtak theihna ding-te kua in hong gen ahi hiam?
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v8
 **EN:** Bring forth therefore fruits worthy of repentance, and begin not to say within yourselves, We have Abraham to our father: for I say unto you, That God is able of these stones to raise up children unto Abraham.
 
-**TDB77:** Tua ahih ciangin kisikkikna tawh kilawm gah na gah un. ‘Abraham ka pa uh hi,’ ci-in na lungsim sung uh ah lungngaih ding na kipan kei un. Ke’n kong cih-inah, Pasian in hih suangte nangawn zong Abraham’ tate a suaksak thei hi.
+**TDB77:** Tua ahih ciangin kisikkikna tawh kilawm gah na gah un. ‘Abraham ka pa-te hi,’ ci-in na lungsim sung-te ah lungngaih ding na kipan kei un. Ke’n kong cih-inah, Pasian in hih suangte nangawn zong Abraham’ tate a suaksak thei hi.
 
-**ZVS:** Na kisikna uh a kilatna dingin gamta un. Note khatlekhat in, ‘Abraham' suante ihi ngawn hi,’ mawkcih kei un. Ke'n kong cihin-ah, Pasian in hih suangte nangawn Abraham' suanlekhakte-in bawl thei lel hi.
+**ZVS:** Na kisikna-te a kilatna dingin gamta un. Note khatlekhat in, ‘Abraham' suante ihi ngawn hi,’ mawkcih kei un. Ke'n kong cihin-ah, Pasian in hih suangte nangawn Abraham' suanlekhakte-in bawl thei lel hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -102,9 +102,9 @@
 ### v10
 **EN:** And the people asked him, saying, What shall we do then?
 
-**TDB77:** Mihonpite in, “Tua bang ahih leh, kote in bang ci hih ding ka hi uh hiam?” ci-in a dot uh ciangin,
+**TDB77:** Mihonpite in, “Tua bang ahih leh, kote in bang ci hih ding ka hi-te hiam?” ci-in a dot-te ciangin,
 
-**ZVS:** Tua ciangin mihonpite in, “Tua bang ahih leh bangci gamtat ding ka hi uh hiam?” ci-in a dot uh ciangin
+**ZVS:** Tua ciangin mihonpite in, “Tua bang ahih leh bangci gamtat ding ka hi-te hiam?” ci-in a dot-te ciangin
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -120,9 +120,9 @@
 ### v12
 **EN:** Then came also publicans to be baptized, and said unto him, Master, what shall we do?
 
-**TDB77:** Siahdongte in zong kibaptaiz dingin hong pai uh a, “Sia aw, kote in bang ci hih ding ka hi uh hiam?” ci-in a dot uh ciangin,
+**TDB77:** Siahdongte in zong kibaptaiz dingin hong pai-te a, “Sia aw, kote in bang ci hih ding ka hi-te hiam?” ci-in a dot-te ciangin,
 
-**ZVS:** Siahdongte pawlkhat zong tui a kiphum dingin hong pai-in Johan kiangah, “Sia aw, bangci gamtat ding ka hi uh hiam?” ci-in a dong uh hi.
+**ZVS:** Siahdongte pawlkhat zong tui a kiphum dingin hong pai-in Johan kiangah, “Sia aw, bangci gamtat ding ka hi-te hiam?” ci-in a dong-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -138,18 +138,18 @@
 ### v14
 **EN:** And the soldiers likewise demanded of him, saying, And what shall we do? And he said unto them, Do violence to no man, neither accuse any falsely; and be content with your wages.
 
-**TDB77:** Galkapte in zong, “Kote in zong bang ci hih ding ka hi uh hiam?” ci-in a dot uh ciangin Johan in, “Note in kuama kiangah zawhthawhna tawh la kei un la, midangte zuau thu tawh na mawhsak kei un. Na khasum ngah zah uh tawh lungkim un,” ci-in a gen hi.
+**TDB77:** Galkapte in zong, “Kote in zong bang ci hih ding ka hi-te hiam?” ci-in a dot-te ciangin Johan in, “Note in kuama kiangah zawhthawhna tawh la kei un la, midangte zuau thu tawh na mawhsak kei un. Na khasum ngah zah-te tawh lungkim un,” ci-in a gen hi.
 
-**ZVS:** Galkap pawlkhatte in zong ama kiangah, “Kote, bangci gamtat ding ka hi uh hiam?” ci-in a dot uh ciangin, “Zawhthawh thu tawh ahi a, a manlopi-in mawhsakna tawh ahi zongin kuama sum sut kei un la, na khasum ngahzah uh tawh lungkim un,” ci-in a dawng hi.
+**ZVS:** Galkap pawlkhatte in zong ama kiangah, “Kote, bangci gamtat ding ka hi-te hiam?” ci-in a dot-te ciangin, “Zawhthawh thu tawh ahi a, a manlopi-in mawhsakna tawh ahi zongin kuama sum sut kei un la, na khasum ngahzah-te tawh lungkim un,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v15
 **EN:** And as the people were in expectation, and all men mused in their hearts of John, whether he were the Christ, or not;
 
-**TDB77:** Mi khempeuh in Johan in Khazih ahi kha ding hiam ci-in, lamenin a lungsim sung uh ah a lungngai uh hi.
+**TDB77:** Mi khempeuh in Johan in Khazih ahi kha ding hiam ci-in, lamenin a lungsim sung-te ah a lungngai-te hi.
 
-**ZVS:** Thulian khat peuhpeuh hong piang ding hi, ci-in mite' lawpna hong khang semsem a, hihpa pen Khrih hi khading hi, ci-in mite in a lungsim uhah a ngaihsun uh hi.
+**ZVS:** Thulian khat peuhpeuh hong piang ding hi, ci-in mite' lawpna hong khang semsem a, hihpa pen Khrih hi khading hi, ci-in mite in a lungsim uhah a ngaihsun-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -197,9 +197,9 @@
 ### v21
 **EN:** Now when all the people were baptized, it came to pass, that Jesus also being baptized, and praying, the heaven was opened,
 
-**TDB77:** Mi khempeuh a kibaptaiz khit uh a ciangin, Zeisu in zong kibaptaiz a, thu a nget lai takin van kihong a,
+**TDB77:** Mi khempeuh a kibaptaiz khit-te a ciangin, Zeisu in zong kibaptaiz a, thu a nget lai takin van kihong a,
 
-**ZVS:** Mi khempeuh a kituiphum khit uh ciangin Jesuh zong a kituiphum hi. Jesuh in thu a nget laitakin vantung kihong a,
+**ZVS:** Mi khempeuh a kituiphum khit-te ciangin Jesuh zong a kituiphum hi. Jesuh in thu a nget laitakin vantung kihong a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -217,7 +217,7 @@
 
 **TDB77:** Zeisu in thuhilh a kipat ciangin kum sawmthum bang a pha hi. Mite upna bangin Zeisu in Josef ta ahi hi. Josef in Heli’ ta hi,
 
-**ZVS:** Nasep a kipat ciangin Jesuh ama khan' kum sawmthum bang a pha hi. Mite in ama pa Josef hi, ci-in a ngaihsun uh hi. Josef' pa Heli,
+**ZVS:** Nasep a kipat ciangin Jesuh ama khan' kum sawmthum bang a pha hi. Mite in ama pa Josef hi, ci-in a ngaihsun-te hi. Josef' pa Heli,
 
 **Grammar:** reciprocal: ki- prefix
 

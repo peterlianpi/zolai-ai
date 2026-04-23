@@ -158,16 +158,16 @@
 
 **TDB77:** Ka gal hatpa kiang pan leh hong mudahte kiang panin amah in keimah hong honkhia hi; bang hang hiam cih leh amaute kei’ adingin hat lua hi.
 
-**ZVS:** Ka gal hatpa kiang pan leh hong mudahte kiang panin kei hong honkhia hi; bang hang hiam cih leh kei-a' dingin amaute hatlua uh hi.
+**ZVS:** Ka gal hatpa kiang pan leh hong mudahte kiang panin kei hong honkhia hi; bang hang hiam cih leh kei-a' dingin amaute hatlua-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v18
 **EN:** They prevented me in the day of my calamity: but the
 
-**TDB77:** Amaute in ka kamsiat ni-in kei hong neh uh hangin Topa in kei hong huhpa ahi hi.
+**TDB77:** Amaute in ka kamsiat ni-in kei hong neh-te hangin Topa in kei hong huhpa ahi hi.
 
-**ZVS:** Amaute in ka kamsiat hunin kei hong nehthawh uh hangin { Topa } in kei hong huh hi.
+**ZVS:** Amaute in ka kamsiat hunin kei hong nehthawh-te hangin { Topa } in kei hong huh hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -327,9 +327,9 @@
 ### v38
 **EN:** I have wounded them that they were not able to rise: they are fallen under my feet.
 
-**TDB77:** Amaute a thawhkik zawh loh nadingun ka sunlet a, ka khe nuai-ah puk uh hi.
+**TDB77:** Amaute a thawhkik zawh loh nadingun ka sunlet a, ka khe nuai-ah puk-te hi.
 
-**ZVS:** Amaute khempeuh a thawhkik zawhlohna dingun ka sunletgawp a, ka khenuai-ah a puk uh hi.
+**ZVS:** Amaute khempeuh a thawhkik zawhlohna dingun ka sunletgawp a, ka khenuai-ah a puk-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -352,9 +352,9 @@
 ### v41
 **EN:** They cried, but there was none to save them: even unto the
 
-**TDB77:** Huh ding ngenin amaute kiko uh a, ahih hangin a hon ding kuamah om lo hi; amaute in Topa tungah ko uh a, ahih hangin amah in dawng lo hi.
+**TDB77:** Huh ding ngenin amaute kiko-te a, ahih hangin a hon ding kuamah om lo hi; amaute in Topa tungah ko-te a, ahih hangin amah in dawng lo hi.
 
-**ZVS:** Huhna ding ngenin amaute kikoko uh a, ahih hangin a hon' ding kuamah omlo hi. Amaute in { Topa' } tungah ko uh a, ahih hangin amah in dawnglo hi.
+**ZVS:** Huhna ding ngenin amaute kikoko-te a, ahih hangin a hon' ding kuamah omlo hi. Amaute in { Topa' } tungah ko-te a, ahih hangin amah in dawnglo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -366,27 +366,27 @@
 ### v43
 **EN:** Thou hast delivered me from the strivings of the people; and thou hast made me the head of the heathen: a people whom I have not known shall serve me.
 
-**TDB77:** Mite tawh kidona panin nangmah in kei nong honkhia a, minamte’ lutang-in kei nong bawl a, ka theih ngei loh mite in keima na hong sem uh hi.
+**TDB77:** Mite tawh kidona panin nangmah in kei nong honkhia a, minamte’ lutang-in kei nong bawl a, ka theih ngei loh mite in keima na hong sem-te hi.
 
-**ZVS:** A lehdo mite kiang panin nangmah in kei na hong honkhia a, minamte' lutangin kei na hong bawl a, ka theih ngeiloh mite in keima na hong sem uh hi.
+**ZVS:** A lehdo mite kiang panin nangmah in kei na hong honkhia a, minamte' lutangin kei na hong bawl a, ka theih ngeiloh mite in keima na hong sem-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v44
 **EN:** As soon as they hear of me, they shall obey me: the strangers shall submit themselves unto me.
 
-**TDB77:** Ka thu a zak phetun amaute in hong mang uh a, gamdang mite in kei hong mai-et uh hi.
+**TDB77:** Ka thu a zak phetun amaute in hong mang-te a, gamdang mite in kei hong mai-et-te hi.
 
-**ZVS:** Ka thu a zak phetun amaute in hong mang pah uh a, gamdang mite in kei hong mai-et uh hi.
+**ZVS:** Ka thu a zak phetun amaute in hong mang pah-te a, gamdang mite in kei hong mai-et-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v45
 **EN:** The strangers shall fade away, and be afraid out of their close places.
 
-**TDB77:** Gamdang mite lungkia a, a phualkip panun a liing sa-in hong paikhia uh hi.
+**TDB77:** Gamdang mite lungkia a, a phualkip panun a liing sa-in hong paikhia-te hi.
 
-**ZVS:** Gamdang mite lungkia uh a, a phualkip panun a lingsa-in hong paikhia uh hi.
+**ZVS:** Gamdang mite lungkia-te a, a phualkip panun a lingsa-in hong paikhia-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

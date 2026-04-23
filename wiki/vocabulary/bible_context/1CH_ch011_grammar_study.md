@@ -27,9 +27,9 @@
 ### v1
 **EN:** Then all Israel gathered themselves to David unto Hebron, saying, Behold, we are thy bone and thy flesh.
 
-**TDB77:** Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm uh a, “En in, kote in nangma guh leh nangma sa ka hi uh hi.
+**TDB77:** Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm-te a, “En in, kote in nangma guh leh nangma sa ka hi-te hi.
 
-**ZVS:** Tua ciangin Israel mi khempeuh David kiang Hebron-ah hong kikhawm uh a, “En in, kote nangma guh leh nangma sa ka hi uh hi.
+**ZVS:** Tua ciangin Israel mi khempeuh David kiang Hebron-ah hong kikhawm-te a, “En in, kote nangma guh leh nangma sa ka hi-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -38,34 +38,34 @@
 
 **TDB77:** A hun beisa, Saul kumpi ahih sung nangawnin Israel a kuankhiatpih leh a ciahpih in nangmah na hi hi; Topa na Pasian in nangma kiangah, ‘Nangmah in ka mi Israelte a cingpa na hi ding a, ka mi Israelte tungah ulian na hi ding hi,’ hong ci hi,” a ci hi.
 
-**ZVS:** A hun beisa, Saul kumpi ahih sung nangawnin Israel a kuankhiatpih leh a ciahpihpa nangmah na hi hi. { Topa } na Pasian in nangma kiangah, ‘Nang pen ka mi Israel-te a cingpa na hi ding a, ka mi Israel-te tungah ulian na hi ding hi,’ hong ci hi,” a ci uh hi.
+**ZVS:** A hun beisa, Saul kumpi ahih sung nangawnin Israel a kuankhiatpih leh a ciahpihpa nangmah na hi hi. { Topa } na Pasian in nangma kiangah, ‘Nang pen ka mi Israel-te a cingpa na hi ding a, ka mi Israel-te tungah ulian na hi ding hi,’ hong ci hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix
 
 ### v3
 **EN:** Therefore came all the elders of Israel to the king to Hebron; and David made a covenant with them in Hebron before the
 
-**TDB77:** Tua ahih ciangin Israel upate khempeuh kumpipa kiang Hebron ah hong pai uh hi; tua ciangin David in Topa mai Hebron ah amaute tawh thuciamna khat bawl a, Samuel’ tung tawnin Topa’ thugen bangin amaute in Israel kumpi-in David sathau nilh uh hi.
+**TDB77:** Tua ahih ciangin Israel upate khempeuh kumpipa kiang Hebron ah hong pai-te hi; tua ciangin David in Topa mai Hebron ah amaute tawh thuciamna khat bawl a, Samuel’ tung tawnin Topa’ thugen bangin amaute in Israel kumpi-in David sathau nilh-te hi.
 
-**ZVS:** Tua ahih ciangin Israel upate khempeuh kumpipa kiang Hebron-ah hong pai uh hi. Tua ciangin David in { Topa' } mai Hebron-ah amaute tawh thuciamna khat bawl a, Samuel' tung tawnin { Topa' } thugen bangin amaute in Israel kumpi-in David sathau a nilh uh hi.
+**ZVS:** Tua ahih ciangin Israel upate khempeuh kumpipa kiang Hebron-ah hong pai-te hi. Tua ciangin David in { Topa' } mai Hebron-ah amaute tawh thuciamna khat bawl a, Samuel' tung tawnin { Topa' } thugen bangin amaute in Israel kumpi-in David sathau a nilh-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And David and all Israel went to Jerusalem, which is Jebus; where the Jebusites were, the inhabitants of the land.
 
-**TDB77:** Tua ciangin Jebus mite a ten’na, Jebus a kici Jerusalem ah David leh Israel mi khempeuh hong pai uh hi.
+**TDB77:** Tua ciangin Jebus mite a ten’na, Jebus a kici Jerusalem ah David leh Israel mi khempeuh hong pai-te hi.
 
-**ZVS:** Tua ciangin Jebus mite a ten'na, Jebus a kici Jerusalem-ah David leh Israel mi khempeuh hong pai uh hi.
+**ZVS:** Tua ciangin Jebus mite a ten'na, Jebus a kici Jerusalem-ah David leh Israel mi khempeuh hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And the inhabitants of Jebus said to David, Thou shalt not come hither. Nevertheless David took the castle of Zion, which is the city of David.
 
-**TDB77:** Jebus ah a teeng mite in David kiangah, “Hih lai-ah nang nong pai kei ding hi,” a ci uh hi. Ahi zongin David in David khuapi a kici Zion mun muanhuai la hi.
+**TDB77:** Jebus ah a teeng mite in David kiangah, “Hih lai-ah nang nong pai kei ding hi,” a ci-te hi. Ahi zongin David in David khuapi a kici Zion mun muanhuai la hi.
 
-**ZVS:** Jebus-ah a teng mite in David kiangah, “Hih lai-ah nang nong pai kei ding hi,” na ci uh hi. Ahi zongin David in David khuapi a kici Zion munmuan'huai a la hi.
+**ZVS:** Jebus-ah a teng mite in David kiangah, “Hih lai-ah nang nong pai kei ding hi,” na ci-te hi. Ahi zongin David in David khuapi a kici Zion munmuan'huai a la hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -153,18 +153,18 @@
 ### v15
 **EN:** Now three of the thirty captains went down to the rock to David, into the cave of Adullam; and the host of the Philistines encamped in the valley of Rephaim.
 
-**TDB77:** Refaim kuamah Filistia galkapte in giahphual a sat lai takun Adullam leihawm David kiang suangpi ah ukpi sawmthumte sung panin mihing thum paisuk uh hi.
+**TDB77:** Refaim kuamah Filistia galkapte in giahphual a sat lai takun Adullam leihawm David kiang suangpi ah ukpi sawmthumte sung panin mihing thum paisuk-te hi.
 
-**ZVS:** Refaim kuamah Filistia mite' galkapte in giahphual a sat laitakun Adullam leihawm David kiang suangpi-ah ukpi sawmthumte sung panin mihing thum paisuk uh hi.
+**ZVS:** Refaim kuamah Filistia mite' galkapte in giahphual a sat laitakun Adullam leihawm David kiang suangpi-ah ukpi sawmthumte sung panin mihing thum paisuk-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And David was then in the hold, and the Philistines' garrison was then at Beth–lehem.
 
-**TDB77:** Tua hunin mun muanhuai sungah David om hi; Filistia khua cingte Bethlehem ah om uh hi.
+**TDB77:** Tua hunin mun muanhuai sungah David om hi; Filistia khua cingte Bethlehem ah om-te hi.
 
-**ZVS:** Tua hunin munmuan'huai sungah David om a, Filistia khuacingte Bethlehem-ah om uh hi.
+**ZVS:** Tua hunin munmuan'huai sungah David om a, Filistia khuacingte Bethlehem-ah om-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -180,18 +180,18 @@
 ### v18
 **EN:** And the three brake through the host of the Philistines, and drew water out of the well of Beth–lehem, that was by the gate, and took it, and brought it to David: but David would not drink of it, but poured it out to the
 
-**TDB77:** Tua ciangin a thahat mihing thumte in Filistiate’ giahphual phulin kulhkongpi gei-a om Bethlehem tuikhuk panin tui tawi uh a, a tui la-in David kiangah paipih uh hi. Ahih hangin David in tua tui dawn lo hi; amah in Topa adingin sung a,
+**TDB77:** Tua ciangin a thahat mihing thumte in Filistiate’ giahphual phulin kulhkongpi gei-a om Bethlehem tuikhuk panin tui tawi-te a, a tui la-in David kiangah paipih-te hi. Ahih hangin David in tua tui dawn lo hi; amah in Topa adingin sung a,
 
-**ZVS:** Tua ciangin a thahat mihing thumte in Filistia mite' giahphual phulin kongpi gei-a om Bethlehem tuikhuk panin tui tawi uh a, a tui la-in David kiangah paipih uh hi. Ahih hangin David in tua tui dawnlo hi. Amah in { Topa}-a' dingin sung a,
+**ZVS:** Tua ciangin a thahat mihing thumte in Filistia mite' giahphual phulin kongpi gei-a om Bethlehem tuikhuk panin tui tawi-te a, a tui la-in David kiangah paipih-te hi. Ahih hangin David in tua tui dawnlo hi. Amah in { Topa}-a' dingin sung a,
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And said, My God forbid it me, that I should do this thing: shall I drink the blood of these men that have put their lives in jeopardy? for with the jeopardy of their lives they brought it. Therefore he would not drink it. These things did these three mightiest.
 
-**TDB77:** “Ka Pasian’ mai-ah hih bangin ka gamta het kei ding hi. Hih mihingte’ nuntakna sisan tui dawn ding ka hi hiam? Bang hang hiam cih leh amaute in a nuntakna uh khamin kei kiangah hong paipih uh hi,” a ci hi. Tua ahih ciangin amah in dawn lo hi. A thahat mi thumte in hih nate sem uh hi.
+**TDB77:** “Ka Pasian’ mai-ah hih bangin ka gamta het kei ding hi. Hih mihingte’ nuntakna sisan tui dawn ding ka hi hiam? Bang hang hiam cih leh amaute in a nuntakna-te khamin kei kiangah hong paipih-te hi,” a ci hi. Tua ahih ciangin amah in dawn lo hi. A thahat mi thumte in hih nate sem-te hi.
 
-**ZVS:** “Ka Pasian' mai-ah hih bangin ka gamta het kei ding hi. Hih mihingte' nuntakna sisan tui dawn ding ka hi hiam? Bang hang hiam cih leh amaute in a nuntakna uh khamin kei kiangah hong paipih uh hi,” a ci hi. Tua ahih ciangin amah in a tui dawnlo hi. A thahat mi thumte in hih bangin na a sem uh ahi hi.
+**ZVS:** “Ka Pasian' mai-ah hih bangin ka gamta het kei ding hi. Hih mihingte' nuntakna sisan tui dawn ding ka hi hiam? Bang hang hiam cih leh amaute in a nuntakna-te khamin kei kiangah hong paipih-te hi,” a ci hi. Tua ahih ciangin amah in a tui dawnlo hi. A thahat mi thumte in hih bangin na a sem-te ahi hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -395,7 +395,7 @@
 ### v47
 **EN:** Eliel, and Obed, and Jasiel the Mesobaite.
 
-**TDB77:** Zobah khuami Eliel, Obed, leh Jaasiel ahi uh hi.
+**TDB77:** Zobah khuami Eliel, Obed, leh Jaasiel ahi-te hi.
 
 **Grammar:** plural: uh marker
 

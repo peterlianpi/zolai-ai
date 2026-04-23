@@ -42,9 +42,9 @@
 ### v3
 **EN:** Then his father and his mother said unto him, Is there never a woman among the daughters of thy brethren, or among all my people, that thou goest to take a wife of the uncircumcised Philistines? And Samson said unto his father, Get her for me; for she pleaseth me well.
 
-**TDB77:** Ahih hangin a pa leh a nu in ama kiangah “Nang pai-in vun ki-at lo Filistia mite kiang panin zi na lak nadingin na tanaute’ lak ahi a, i mite khempeuh lakah ahi zongin numei khat beek om lo ahi hiam?” a ci uh hi. Ahih hangin Samson in a pa kiangah, “Tua nu hong laksak in; bang hang hiam cih leh amah in ka lung hong kimsak mahmah hi,” a ci hi.
+**TDB77:** Ahih hangin a pa leh a nu in ama kiangah “Nang pai-in vun ki-at lo Filistia mite kiang panin zi na lak nadingin na tanaute’ lak ahi a, i mite khempeuh lakah ahi zongin numei khat beek om lo ahi hiam?” a ci-te hi. Ahih hangin Samson in a pa kiangah, “Tua nu hong laksak in; bang hang hiam cih leh amah in ka lung hong kimsak mahmah hi,” a ci hi.
 
-**ZVS:** Ahih hangin a nu leh a pa in ama kiangah, “Nang pai-in dawibia Filistia mite kiang panin zi na lakna dingin na tanaute' lak ahi a, i mipih khempeuh lakah ahi zongin numei khat beek omlo ahi hiam?” a ci uh hi.
+**ZVS:** Ahih hangin a nu leh a pa in ama kiangah, “Nang pai-in dawibia Filistia mite kiang panin zi na lakna dingin na tanaute' lak ahi a, i mipih khempeuh lakah ahi zongin numei khat beek omlo ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -53,7 +53,7 @@
 
 **TDB77:** A nu leh a pa in hih thu pen Topa kiang pan ahih lam thei lo hi; bang hang hiam cih leh amah in Filistia mite tungah paulap a zong ahi hi. Tua hun lai takin Filistia mite in Israelte uk hi.
 
-**ZVS:** A nu leh a pa in hih thu pen { Topa' } kiang pan ahihlam theilo uh hi; bang hang hiam cih leh { Topa } in Filistia mite tungah paulap ding a zong ahi hi. Tua hun laitakin Filistia mite in Israel-te uk uh hi.
+**ZVS:** A nu leh a pa in hih thu pen { Topa' } kiang pan ahihlam theilo-te hi; bang hang hiam cih leh { Topa } in Filistia mite tungah paulap ding a zong ahi hi. Tua hun laitakin Filistia mite in Israel-te uk-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** And he took thereof in his hands, and went on eating, and came to his father and mother, and he gave them, and they did eat: but he told not them that he had taken the honey out of the carcase of the lion.
 
-**TDB77:** Amah in a khut tawh tuate sawkin paisuak a, a pai kawmin ne hi; amah a nu leh a pa kiangah tungin tuate pawlkhat pia a, amaute in ne uh hi. Ahih hangin humpinelkai luanghawm sung panin tua khuaizu a lakna thu gen lo hi.
+**TDB77:** Amah in a khut tawh tuate sawkin paisuak a, a pai kawmin ne hi; amah a nu leh a pa kiangah tungin tuate pawlkhat pia a, amaute in ne-te hi. Ahih hangin humpinelkai luanghawm sung panin tua khuaizu a lakna thu gen lo hi.
 
-**ZVS:** Amah in a khut tawh tuate sawkin paisuak a, a pai kawmin a ne hi. Amah a nu leh a pa kiangah tungin tuate pawlkhat pia a, amaute in a ne uh hi. Ahih hangin humpinelkai luanghawm sung panin tua khuaizu a lakna thu genlo hi.
+**ZVS:** Amah in a khut tawh tuate sawkin paisuak a, a pai kawmin a ne hi. Amah a nu leh a pa kiangah tungin tuate pawlkhat pia a, amaute in a ne-te hi. Ahih hangin humpinelkai luanghawm sung panin tua khuaizu a lakna thu genlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -114,43 +114,43 @@
 ### v11
 **EN:** And it came to pass, when they saw him, that they brought thirty companions to be with him.
 
-**TDB77:** Mite in amah a muh uh ciangin amah a uap dingin tangval sawmthum hong paipih uh hi.
+**TDB77:** Mite in amah a muh-te ciangin amah a uap dingin tangval sawmthum hong paipih-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v12
 **EN:** And Samson said unto them, I will now put forth a riddle unto you: if ye can certainly declare it me within the seven days of the feast, and find it out, then I will give you thirty sheets and thirty change of garments:
 
-**TDB77:** Tua ciangin Samson in amaute kiangah, “Note mai-ah thu-haksa khat hong gensak un; hih pawi ni sagih sungin a thu mu khia-in bang hiam cih nong gen theih uh leh saihadial puan silh sawmthum leh pawipuan silh sawmthum note kong pia ding hi;
+**TDB77:** Tua ciangin Samson in amaute kiangah, “Note mai-ah thu-haksa khat hong gensak un; hih pawi ni sagih sungin a thu mu khia-in bang hiam cih nong gen theih-te leh saihadial puan silh sawmthum leh pawipuan silh sawmthum note kong pia ding hi;
 
-**ZVS:** Tua ciangin Samson in amaute kiangah, “Note' mai-ah thuhaksa khat hong gen ning. Hih pawi ni sagih sungin a thu mukhia-in bang hiam cih nong gentheih uh leh saihadial puan silh sawmthum leh pawipuan silh sawmthum note kong pia ding hi.
+**ZVS:** Tua ciangin Samson in amaute kiangah, “Note' mai-ah thuhaksa khat hong gen ning. Hih pawi ni sagih sungin a thu mukhia-in bang hiam cih nong gentheih-te leh saihadial puan silh sawmthum leh pawipuan silh sawmthum note kong pia ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v13
 **EN:** But if ye cannot declare it me, then shall ye give me thirty sheets and thirty change of garments. And they said unto him, Put forth thy riddle, that we may hear it.
 
-**TDB77:** ahih hangin bang hang hiam cih nong gen theih kei uh leh saihadial puan silh sawmthum leh pawipuan silh sawmthum kei nong pia ding uh hi,” a ci hi. Tua ciangin amaute in ama kiangah, “Ka zak theih nadingun na thu-haksa hong gen in,” a ci uh hi.
+**TDB77:** ahih hangin bang hang hiam cih nong gen theih kei-te leh saihadial puan silh sawmthum leh pawipuan silh sawmthum kei nong pia ding-te hi,” a ci hi. Tua ciangin amaute in ama kiangah, “Ka zak theih nadingun na thu-haksa hong gen in,” a ci-te hi.
 
-**ZVS:** Ahih hangin bang hiam cih nong gentheih kei uh leh saihadial puan silh sawmthum leh pawipuan silh sawmthum kei nong pia ding uh hi,” a ci hi. Tua ciangin amaute in ama kiangah, “Na thuhaksa hong gen in, za dih ni,” a ci uh hi.
+**ZVS:** Ahih hangin bang hiam cih nong gentheih kei-te leh saihadial puan silh sawmthum leh pawipuan silh sawmthum kei nong pia ding-te hi,” a ci hi. Tua ciangin amaute in ama kiangah, “Na thuhaksa hong gen in, za dih ni,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And he said unto them, Out of the eater came forth meat, and out of the strong came forth sweetness. And they could not in three days expound the riddle.
 
-**TDB77:** Tua ciangin amah in amaute kiangah, “A ne-pa sung panin nek ding pawlkhat hong piang hi. A thahatpa sung panin a khum pawlkhat hong piang hi,” a ci hi. Ni thum sungin tua thu-haksa bang hiam cih gen thei lo uh hi.
+**TDB77:** Tua ciangin amah in amaute kiangah, “A ne-pa sung panin nek ding pawlkhat hong piang hi. A thahatpa sung panin a khum pawlkhat hong piang hi,” a ci hi. Ni thum sungin tua thu-haksa bang hiam cih gen thei lo-te hi.
 
-**ZVS:** Tua ciangin amah in amaute kiangah, “A nepa sung panin nek ding pawlkhat hong piang a, a thahatpa sung panin a khum pawlkhat hong piang hi,” a ci hi. Ni thum sungin tua thuhaksa bang hiam cih gen theilo uh hi.
+**ZVS:** Tua ciangin amah in amaute kiangah, “A nepa sung panin nek ding pawlkhat hong piang a, a thahatpa sung panin a khum pawlkhat hong piang hi,” a ci hi. Ni thum sungin tua thuhaksa bang hiam cih gen theilo-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And it came to pass on the seventh day, that they said unto Samson's wife, Entice thy husband, that he may declare unto us the riddle, lest we burn thee and thy father's house with fire: have ye called us to take that we have? is it not so?
 
-**TDB77:** A nili ni-in amaute in Samson’ zi kiangah, “A thu—haksa bang hiam cih hong gen nadingin na pasal zol in, tua hi kei leh nang leh na pa’ inn mei tawh kong hal ding uh a, na si ding uh hi; Kote hong zawngsak dingin hih lai-ah hong sam na hi hiam?” a ci uh hi.
+**TDB77:** A nili ni-in amaute in Samson’ zi kiangah, “A thu—haksa bang hiam cih hong gen nadingin na pasal zol in, tua hi kei leh nang leh na pa’ inn mei tawh kong hal ding-te a, na si ding-te hi; Kote hong zawngsak dingin hih lai-ah hong sam na hi hiam?” a ci-te hi.
 
-**ZVS:** A ni li ni-in amaute in Samson' zi kiangah, “A thuhaksa bang hiam cih hong genna dingin na pasal zol in. Tua hi kei leh nang leh na pa, na inn uh tawh kong hal ding uh hi. Kote a hong zawngsak dingin hih lai-ah hong sam na hi hiam?” a ci uh hi.
+**ZVS:** A ni li ni-in amaute in Samson' zi kiangah, “A thuhaksa bang hiam cih hong genna dingin na pasal zol in. Tua hi kei leh nang leh na pa, na inn-te tawh kong hal ding-te hi. Kote a hong zawngsak dingin hih lai-ah hong sam na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -175,9 +175,9 @@
 ### v18
 **EN:** And the men of the city said unto him on the seventh day before the sun went down, What is sweeter than honey? and what is stronger than a lion? And he said unto them, If ye had not plowed with my heifer, ye had not found out my riddle.
 
-**TDB77:** Tua khuapi mite in a ni sagih ni, ni a tum ma-in ama kiangah gen uh a, “Khuaizu sangin bang khum zaw hiam? Humpinelkai sangin bang hatzaw hiam?” a ci uh hi. Tua ciangin amah in amaute kiangah, “Ka bawngla tawh lokho khawm lo hi le uh cin, ka thu-haksa na mu khia kei ding uh hi,” a ci hi.
+**TDB77:** Tua khuapi mite in a ni sagih ni, ni a tum ma-in ama kiangah gen-te a, “Khuaizu sangin bang khum zaw hiam? Humpinelkai sangin bang hatzaw hiam?” a ci-te hi. Tua ciangin amah in amaute kiangah, “Ka bawngla tawh lokho khawm lo hi le-te cin, ka thu-haksa na mu khia kei ding-te hi,” a ci hi.
 
-**ZVS:** Tua khuapi mite in a ni sagih ni, ni a tum ma-in ama kiangah gen uh a, “Khuaizu sangin bang khumzaw a, humpinelkai sangin bang hatzaw ahi hiam?” a ci uh hi. Tua ciangin amah in amaute kiangah, “Ka bawngla tawh lo kho khawmlo hi le-uhcin, ka thuhaksa na thei kei ding uh hi,” a ci hi.
+**ZVS:** Tua khuapi mite in a ni sagih ni, ni a tum ma-in ama kiangah gen-te a, “Khuaizu sangin bang khumzaw a, humpinelkai sangin bang hatzaw ahi hiam?” a ci-te hi. Tua ciangin amah in amaute kiangah, “Ka bawngla tawh lo kho khawmlo hi le-uhcin, ka thuhaksa na thei kei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

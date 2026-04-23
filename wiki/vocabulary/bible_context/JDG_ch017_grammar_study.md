@@ -69,9 +69,9 @@
 ### v6
 **EN:** In those days there was no king in Israel, but every man did that which was right in his own eyes.
 
-**TDB77:** Tua hun lai-in Israelte sungah kumpi om lo hi; mi khempeuh amau’ hoihsak bang ciatun gamta uh hi.
+**TDB77:** Tua hun lai-in Israelte sungah kumpi om lo hi; mi khempeuh amau’ hoihsak bang ciatun gamta-te hi.
 
-**ZVS:** Tua hun lai-in Israel sungah kumpi omlo a, mi khempeuh amau' hoihsak bang ciatin gamta uh hi.
+**ZVS:** Tua hun lai-in Israel sungah kumpi omlo a, mi khempeuh amau' hoihsak bang ciatin gamta-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 

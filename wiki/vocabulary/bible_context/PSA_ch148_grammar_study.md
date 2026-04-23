@@ -54,9 +54,9 @@
 ### v6
 **EN:** He hath also stablished them for ever and ever: he hath made a decree which shall not pass.
 
-**TDB77:** Amaute a tawntung a om dingin amah in kipsak hi; a palsat loh ding uh thupiakna amah in a bawl hi.
+**TDB77:** Amaute a tawntung a om dingin amah in kipsak hi; a palsat loh ding-te thupiakna amah in a bawl hi.
 
-**ZVS:** Amaute a tawntunga om dingin amah in kipsak a, a palsatloh ding uh thupiakna amah in a bawl hi.
+**ZVS:** Amaute a tawntunga om dingin amah in kipsak a, a palsatloh ding-te thupiakna amah in a bawl hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -112,9 +112,9 @@
 ### v14
 **EN:** He also exalteth the horn of his people, the praise of all his saints; even of the children of Israel, a people near unto him. Praise ye the
 
-**TDB77:** Amah in ama mite thahat sak a, ama misiangthote khempeuh, ama mai-a om Israelte khempeuh in amah phat uh hi. Topa phat un!
+**TDB77:** Amah in ama mite thahat sak a, ama misiangthote khempeuh, ama mai-a om Israelte khempeuh in amah phat-te hi. Topa phat un!
 
-**ZVS:** Amah in ama mite thahatsak a, ama mi siangthote khempeuh, ama mai-ah a om Israel-te khempeuh in amah phat uh hi. { Topa } phat un.
+**ZVS:** Amah in ama mite thahatsak a, ama mi siangthote khempeuh, ama mai-ah a om Israel-te khempeuh in amah phat-te hi. { Topa } phat un.
 
 **Grammar:** plural: uh marker
 

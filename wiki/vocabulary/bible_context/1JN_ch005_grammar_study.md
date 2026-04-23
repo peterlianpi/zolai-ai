@@ -42,7 +42,7 @@
 ### v3
 **EN:** For this is the love of God, that we keep his commandments: and his commandments are not grievous.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian’ itna in ama thupiaknate zuihna ahi hi. Pasian’ thupiaknate zong a haksa lua ahi kei hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian’ itna in ama thupiaknate zuihna ahi hi. Pasian’ thupiaknate zong a haksa lua ahi kei hi.
 
 **ZVS:** Pasian i it ciangin ama thupiakte a zui ihi hi. Eite-a' dingin ama thupiakte zuihding a haksa lua hilo hi.
 
@@ -51,16 +51,16 @@
 ### v4
 **EN:** For whatsoever is born of God overcometh the world: and this is the victory that overcometh the world, even our faith.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian’ pian’sak peuhpeuh in leitung a zo thei hi. Eite upna in leitung zawhna ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian’ pian’sak peuhpeuh in leitung a zo thei hi. Eite upna in leitung zawhna ahi hi.
 
-**ZVS:** Pasian' ta ahite peuhmah in leitung nate zo uh a, i upna tawh leitung nate tungah a gualzo ihi hi.
+**ZVS:** Pasian' ta ahite peuhmah in leitung nate zo-te a, i upna tawh leitung nate tungah a gualzo ihi hi.
 
 ### v5
 **EN:** Who is he that overcometh the world, but he that believeth that Jesus is the Son of God?
 
 **TDB77:** Zeisu in Pasian’ Tapa ahi ci-in a um mi sim loh, leitung a zo kua mi ahi hiam?
 
-**ZVS:** Kuate in leitung nate zo ding ahi hiam i cih leh, Jesuh pen Pasian' Tapa hi, ci-in a umte bek in zo ding uh hi.
+**ZVS:** Kuate in leitung nate zo ding ahi hiam i cih leh, Jesuh pen Pasian' Tapa hi, ci-in a umte bek in zo ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -74,32 +74,32 @@
 ### v7
 **EN:** For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.
 
-**TDB77:** Kha Siangtho in teci hong pang hi. Bang hang hiam na cih uh leh, Kha Siangtho in thuman thutak ahi hi.
+**TDB77:** Kha Siangtho in teci hong pang hi. Bang hang hiam na cih-te leh, Kha Siangtho in thuman thutak ahi hi.
 
 **ZVS:** Hih thu-ah teci a pang thum om a,
 
 ### v8
 **EN:** And there are three that bear witness in earth, the Spirit, and the water, and the blood: and these three agree in one.
 
-**TDB77:** Bang hang hiam na cih uh leh, teci a pang thum ahi Kha Siangtho, tui leh sisan-te om a, tua thumte in pumkhat bek ahi uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, teci a pang thum ahi Kha Siangtho, tui leh sisan-te om a, tua thumte in pumkhat bek ahi-te hi.
 
-**ZVS:** tuate pen Kha, tui, leh sisan ahi uh hi. Hih thumte' teci pan'na kibang kim hi.
+**ZVS:** tuate pen Kha, tui, leh sisan ahi-te hi. Hih thumte' teci pan'na kibang kim hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** If we receive the witness of men, the witness of God is greater: for this is the witness of God which he hath testified of his Son.
 
-**TDB77:** Mite teci pan’na eite in i man’ leh, Pasian’ teci pan’na a lianzaw hi. Bang hang hiam na cih uh leh, Paisan’ teci pan’na in a Tapa ading teci a pan’ zawhna thu ahi hi.
+**TDB77:** Mite teci pan’na eite in i man’ leh, Pasian’ teci pan’na a lianzaw hi. Bang hang hiam na cih-te leh, Paisan’ teci pan’na in a Tapa ading teci a pan’ zawhna thu ahi hi.
 
 **ZVS:** Mihingte' teci pan'na sangthei ihih leh Pasian' teci pan'na i san'theih ding thupizaw hi. Pasian in ama Tapa' thu tu-a bangin teci hong pang hi.
 
 ### v10
 **EN:** He that believeth on the Son of God hath the witness in himself: he that believeth not God hath made him a liar; because he believeth not the record that God gave of his Son.
 
-**TDB77:** Pasian’ Tapa a um mi in ama sungah teci pan’na a ngah hi. Pasian a um lo mi in Pasian pen zuau gen mi hi cih a suaksak hi. Bang hang hiam na cih uh leh, Pasian in ama Tapa ading a teci pan’na thu, tua mi in a um kei hi.
+**TDB77:** Pasian’ Tapa a um mi in ama sungah teci pan’na a ngah hi. Pasian a um lo mi in Pasian pen zuau gen mi hi cih a suaksak hi. Bang hang hiam na cih-te leh, Pasian in ama Tapa ading a teci pan’na thu, tua mi in a um kei hi.
 
-**ZVS:** Tua ahih manin Pasian' Tapa a um mi peuhmah in Pasian' teci pan'na a sang ahi hi. Ahi zongin Pasian' thugen a umlo mi peuhmah in ama Tapa thu teci pangin a gennate a umlo uh ahih manin Pasian pen zuaugen a suaksak ahi uh hi.
+**ZVS:** Tua ahih manin Pasian' Tapa a um mi peuhmah in Pasian' teci pan'na a sang ahi hi. Ahi zongin Pasian' thugen a umlo mi peuhmah in ama Tapa thu teci pangin a gennate a umlo-te ahih manin Pasian pen zuaugen a suaksak ahi-te hi.
 
 **Grammar:** negation: kei
 
@@ -115,16 +115,16 @@
 
 **TDB77:** Tapa a nei mi in nuntakna a nei hi, Pasian’ Tapa a nei lo mi in nuntakna a nei kei hi.
 
-**ZVS:** Pasian' Tapa tawh a kipawl peuhmah in nuntak tawntungna nei a, Pasian' Tapa tawh a kipawllote in nuntak tawntungna neilo uh hi, cihna ahi hi.
+**ZVS:** Pasian' Tapa tawh a kipawl peuhmah in nuntak tawntungna nei a, Pasian' Tapa tawh a kipawllote in nuntak tawntungna neilo-te hi, cihna ahi hi.
 
 **Grammar:** negation: kei | negation: lo
 
 ### v13
 **EN:** These things have I written unto you that believe on the name of the Son of God; that ye may know that ye have eternal life, and that ye may believe on the name of the Son of God.
 
-**TDB77:** Pasian’ Tapa’ min a um note in nuntak tawntungna na ngahna thu uh na theih nadingun, hih thute kong gelh zo hi.
+**TDB77:** Pasian’ Tapa’ min a um note in nuntak tawntungna na ngahna thu-te na theih nadingun, hih thute kong gelh zo hi.
 
-**ZVS:** Pasian' Tapa a um mite in nuntak tawntungna a nei na hih lamtak uh na theihna dingun hih lai a hong gelh ka hi hi.
+**ZVS:** Pasian' Tapa a um mite in nuntak tawntungna a nei na hih lamtak-te na theihna dingun hih lai a hong gelh ka hi hi.
 
 ### v14
 **EN:** And this is the confidence that we have in him, that, if we ask any thing according to his will, he heareth us:
@@ -165,7 +165,7 @@
 
 **TDB77:** Pasian’ pian’sak mi khempeuh in mawhna ahih zom kei hi ci-in i thei hi. Pasian’ pian’sak mi in ama pumpi kem a, a gilo mi in tua mi a sukha thei kei hi.
 
-**ZVS:** Pasian' tate in mawhna bawbawllo uh hi. Pasian' Tapa in amaute kem a, Dawimangpa in amaute susia zolo hi.
+**ZVS:** Pasian' tate in mawhna bawbawllo-te hi. Pasian' Tapa in amaute kem a, Dawimangpa in amaute susia zolo hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei
 

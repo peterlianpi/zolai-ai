@@ -21,54 +21,54 @@
 ### v1
 **EN:** And the rulers of the people dwelt at Jerusalem: the rest of the people also cast lots, to bring one of ten to dwell in Jerusalem the holy city, and nine parts to dwell in other cities.
 
-**TDB77:** Tua ciangin Jerusalem ah mi makaite teeng uh hi; tua lo midang teng, amau’ lak pan mi sawm-ah khat, khuapi siangtho Jerusalem ah a teeng dingin aisaanna tawh kiteel uh a, a om lai mi sawm-ah kuate ahih leh khuapi dangte ah om uh hi.
+**TDB77:** Tua ciangin Jerusalem ah mi makaite teeng-te hi; tua lo midang teng, amau’ lak pan mi sawm-ah khat, khuapi siangtho Jerusalem ah a teeng dingin aisaanna tawh kiteel-te a, a om lai mi sawm-ah kuate ahih leh khuapi dangte ah om-te hi.
 
-**ZVS:** Tua ciangin Jerusalem-ah mi makaite teng uh hi. Tua lo midang teng, amau' lak pan mi sawmah khat, khuapi siangtho Jerusalem-ah a teng ding aisanna tawh kiteel uh a, a omlai mi sawmah kuate ahih leh khuapi dangte-ah om uh hi.
+**ZVS:** Tua ciangin Jerusalem-ah mi makaite teng-te hi. Tua lo midang teng, amau' lak pan mi sawmah khat, khuapi siangtho Jerusalem-ah a teng ding aisanna tawh kiteel-te a, a omlai mi sawmah kuate ahih leh khuapi dangte-ah om-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And the people blessed all the men, that willingly offered themselves to dwell at Jerusalem.
 
-**TDB77:** Tua hi a, sawl lohin, Jerusalem ah amau thu-in a teeng tawm nuam khempeuhte tungah mite lungdam uh hi.
+**TDB77:** Tua hi a, sawl lohin, Jerusalem ah amau thu-in a teeng tawm nuam khempeuhte tungah mite lungdam-te hi.
 
-**ZVS:** Tua hi a, sawllohin, Jerusalem-ah amau' thu-in a tengtawm nuam khempeuhte mipi in pakta uh hi.
+**ZVS:** Tua hi a, sawllohin, Jerusalem-ah amau' thu-in a tengtawm nuam khempeuhte mipi in pakta-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v3
 **EN:** Now these are the chief of the province that dwelt in Jerusalem: but in the cities of Judah dwelt every one in his possession in their cities, to wit, Israel, the priests, and the Levites, and the Nethinims, and the children of Solomon's servants.
 
-**TDB77:** Hih anuai-ate in Jerusalem-a a teeng a uksawn ukpite ahi hi; ahi zongin Judah khuapi dangte ah Israel midangte, siampite, Levi mite, biakinn nasemte, leh Solomon’ nasemte’ suan leh khakte teeng uh a, amau’ neihsa, a khuapi ciat uhah teeng uh hi.
+**TDB77:** Hih anuai-ate in Jerusalem-a a teeng a uksawn ukpite ahi hi; ahi zongin Judah khuapi dangte ah Israel midangte, siampite, Levi mite, biakinn nasemte, leh Solomon’ nasemte’ suan leh khakte teeng-te a, amau’ neihsa, a khuapi ciat uhah teeng-te hi.
 
-**ZVS:** Hih a nuai-ate pen Jerusalem-a a teng a uksawn ukpite ahi uh hi. Ahi zongin Judah khuapi dangte-ah Israel midangte, siampite, Levi mite, biakinn nasemte, leh Solomon' nasemte' suanlekhakte teng uh a, amau' neihsa, amau' khuapi ciatah teng uh hi.
+**ZVS:** Hih a nuai-ate pen Jerusalem-a a teng a uksawn ukpite ahi-te hi. Ahi zongin Judah khuapi dangte-ah Israel midangte, siampite, Levi mite, biakinn nasemte, leh Solomon' nasemte' suanlekhakte teng-te a, amau' neihsa, amau' khuapi ciatah teng-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** And at Jerusalem dwelt certain of the children of Judah, and of the children of Benjamin. Of the children of Judah; Athaiah the son of Uzziah, the son of Zechariah, the son of Amariah, the son of Shephatiah, the son of Mahalaleel, of the children of Perez;
 
-**TDB77:** Judah minam leh Benjamin minam sung panin mi pawlkhat zong Jerusalem ah teeng uh hi. Judah minam sung panin: Perez’ suan Mahalalel, a tapa Shefatiah, a tapa Amariah, a tapa Zekhariah, a tapa Uzziah, a tapa Athaiah’ suante,
+**TDB77:** Judah minam leh Benjamin minam sung panin mi pawlkhat zong Jerusalem ah teeng-te hi. Judah minam sung panin: Perez’ suan Mahalalel, a tapa Shefatiah, a tapa Amariah, a tapa Zekhariah, a tapa Uzziah, a tapa Athaiah’ suante,
 
-**ZVS:** Judah minam leh Benjamin minam sung panin mi pawlkhat zong Jerusalem-ah teng uh hi.
+**ZVS:** Judah minam leh Benjamin minam sung panin mi pawlkhat zong Jerusalem-ah teng-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** And Maaseiah the son of Baruch, the son of Col–hozeh, the son of Hazaiah, the son of Adaiah, the son of Joiarib, the son of Zechariah, the son of Shiloni.
 
-**TDB77:** leh Shelah’ suan Zekhariah, a tapa Jo-i-arib, a tapa Ada-iah, a tapa Hazaiah, a tapa Kolhozeh, a tapa Baruk, a tapa Ma-aseiah’ suante ahi uh hi.
+**TDB77:** leh Shelah’ suan Zekhariah, a tapa Jo-i-arib, a tapa Ada-iah, a tapa Hazaiah, a tapa Kolhozeh, a tapa Baruk, a tapa Ma-aseiah’ suante ahi-te hi.
 
-**ZVS:** leh Shelah' suan Zekhariah, a tapa Joiarib, a tapa Adaiah, a tapa Hazaiah, a tapa Kolhozeh, a tapa Baruk, a tapa Maaseiah' suante ahi uh hi.
+**ZVS:** leh Shelah' suan Zekhariah, a tapa Joiarib, a tapa Adaiah, a tapa Hazaiah, a tapa Kolhozeh, a tapa Baruk, a tapa Maaseiah' suante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** All the sons of Perez that dwelt at Jerusalem were four hundred threescore and eight valiant men.
 
-**TDB77:** Jerusalem ah a teeng Perez’ suante khempeuh in galhang mi za li leh sawmgiat-le-giat pha uh hi.
+**TDB77:** Jerusalem ah a teeng Perez’ suante khempeuh in galhang mi za li leh sawmgiat-le-giat pha-te hi.
 
-**ZVS:** Jerusalem-ah a teng Perez' suante khempeuh galhang mi za li sawmguklegiat a pha uh hi.
+**ZVS:** Jerusalem-ah a teng Perez' suante khempeuh galhang mi za li sawmguklegiat a pha-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -82,9 +82,9 @@
 ### v8
 **EN:** And after him Gabbai, Sallai, nine hundred twenty and eight.
 
-**TDB77:** leh a beh Gabbai leh Sallai hi uh a, mi za kua leh sawmnih-le-giat pha uh hi.
+**TDB77:** leh a beh Gabbai leh Sallai hi-te a, mi za kua leh sawmnih-le-giat pha-te hi.
 
-**ZVS:** leh a beh Gabbai leh Sallai hi uh a, mi za kua sawmnih giat pha uh hi.
+**ZVS:** leh a beh Gabbai leh Sallai hi-te a, mi za kua sawmnih giat pha-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -103,27 +103,27 @@
 ### v12
 **EN:** And their brethren that did the work of the house were eight hundred twenty and two: and Adaiah the son of Jeroham, the son of Pelaliah, the son of Amzi, the son of Zechariah, the son of Pashur, the son of Malchijah,
 
-**TDB77:** leh inn nasep a sem a behte hi uh a, mi za giat leh sawmnih-le-nih pha uh hi; tua ciangin Malkhijah’ tapa Pashhur, a tapa Zekhariah, a tapa Amzi, a tapa Pelaih, a tapa Jeroham, a tapa Ada-iah,
+**TDB77:** leh inn nasep a sem a behte hi-te a, mi za giat leh sawmnih-le-nih pha-te hi; tua ciangin Malkhijah’ tapa Pashhur, a tapa Zekhariah, a tapa Amzi, a tapa Pelaih, a tapa Jeroham, a tapa Ada-iah,
 
-**ZVS:** leh inn nasep a sem a behte hi uh a, mi za giat sawmnihlenih pha uh hi. Tua ciangin Malkhijah' tapa Pashhur, a tapa Zekhariah, a tapa Amzi, a tapa Pelaliah, a tapa Jehoram, a tapa Adaiah,
+**ZVS:** leh inn nasep a sem a behte hi-te a, mi za giat sawmnihlenih pha-te hi. Tua ciangin Malkhijah' tapa Pashhur, a tapa Zekhariah, a tapa Amzi, a tapa Pelaliah, a tapa Jehoram, a tapa Adaiah,
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v13
 **EN:** And his brethren, chief of the fathers, two hundred forty and two: and Amashai the son of Azareel, the son of Ahasai, the son of Meshillemoth, the son of Immer,
 
-**TDB77:** leh beh lutang ahi a beh dangte hi a, za nih leh sawmli-le-nih pha uh hi; tua ciangin Immer’ tapa Meshillemoth, a tapa Ahzai, a tapa Azaral, a tapa Amashai,
+**TDB77:** leh beh lutang ahi a beh dangte hi a, za nih leh sawmli-le-nih pha-te hi; tua ciangin Immer’ tapa Meshillemoth, a tapa Ahzai, a tapa Azaral, a tapa Amashai,
 
-**ZVS:** leh beh lutang ahi a beh dangte hi a, mi za nih sawmlinih pha uh hi. Tua ciangin Immer' tapa Meshillemoth, a tapa Ahzai, a tapa Azarel, a tapa Amashai,
+**ZVS:** leh beh lutang ahi a beh dangte hi a, mi za nih sawmlinih pha-te hi. Tua ciangin Immer' tapa Meshillemoth, a tapa Ahzai, a tapa Azarel, a tapa Amashai,
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v14
 **EN:** And their brethren, mighty men of valour, an hundred twenty and eight: and their overseer was Zabdiel, the son of one of the great men.
 
-**TDB77:** leh a thahat a vanglian a behte hi a, mi za khat leh sawmnih-le-giat pha uh hi; Haggedolim’ tapa Zabdiel in amau’ mapi ahi hi.
+**TDB77:** leh a thahat a vanglian a behte hi a, mi za khat leh sawmnih-le-giat pha-te hi; Haggedolim’ tapa Zabdiel in amau’ mapi ahi hi.
 
-**ZVS:** leh a thahat a vanglian a behte hi a, mi za khat sawmnihgiat pha uh a, Haggedolim' tapa Zabdiel pen amau' mapi ahi hi.
+**ZVS:** leh a thahat a vanglian a behte hi a, mi za khat sawmnihgiat pha-te a, Haggedolim' tapa Zabdiel pen amau' mapi ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -144,45 +144,45 @@
 ### v17
 **EN:** And Mattaniah the son of Mica, the son of Zabdi, the son of Asaph, was the principal to begin the thanksgiving in prayer: and Bakbukiah the second among his brethren, and Abda the son of Shammua, the son of Galal, the son of Jeduthun.
 
-**TDB77:** leh lungdam koh thungetna patkhiat ding a makai Asaf, a tapa Zabdi, a tapa Mika, a tapa Mattaniah, leh a sanggamte lakah a nihna ahi Bakbukiah, leh Jeduthun’ tapa Galal, a tapa Shammua, a tapa Abda’ suante beh ahi uh hi.
+**TDB77:** leh lungdam koh thungetna patkhiat ding a makai Asaf, a tapa Zabdi, a tapa Mika, a tapa Mattaniah, leh a sanggamte lakah a nihna ahi Bakbukiah, leh Jeduthun’ tapa Galal, a tapa Shammua, a tapa Abda’ suante beh ahi-te hi.
 
-**ZVS:** leh lungdam koh thungetna patkhiat ding a makai Asaf, a tapa Zabdi, a tapa Mika, a tapa Mattaniah, leh a sanggamte lakah a nihna ahi Bakbukiah, leh Jeduthun' tapa Galal, a tapa Shammua, a tapa Abda' suante beh ahi uh hi.
+**ZVS:** leh lungdam koh thungetna patkhiat ding a makai Asaf, a tapa Zabdi, a tapa Mika, a tapa Mattaniah, leh a sanggamte lakah a nihna ahi Bakbukiah, leh Jeduthun' tapa Galal, a tapa Shammua, a tapa Abda' suante beh ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** All the Levites in the holy city were two hundred fourscore and four.
 
-**TDB77:** Khuapi siangtho sunga Levi mi a om khempeuh mi za nih leh sawmgiat-le-li pha uh hi.
+**TDB77:** Khuapi siangtho sunga Levi mi a om khempeuh mi za nih leh sawmgiat-le-li pha-te hi.
 
-**ZVS:** Khuapi siangtho sungah Levi mi a om khempeuh mi za nih sawmgiatli a pha uh hi.
+**ZVS:** Khuapi siangtho sungah Levi mi a om khempeuh mi za nih sawmgiatli a pha-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v19
 **EN:** Moreover the porters, Akkub, Talmon, and their brethren that kept the gates, were an hundred seventy and two.
 
-**TDB77:** Kongpite a vil kongcingte in Akkub, Talmon leh a behte hi uh a, mi za khat leh sawmsagih-le-nih pha uh hi.
+**TDB77:** Kongpite a vil kongcingte in Akkub, Talmon leh a behte hi-te a, mi za khat leh sawmsagih-le-nih pha-te hi.
 
-**ZVS:** Akkub, Talmon, leh a behte hi uh a, mi za khat sawmsagih nih pha uh hi.
+**ZVS:** Akkub, Talmon, leh a behte hi-te a, mi za khat sawmsagih nih pha-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v20
 **EN:** And the residue of Israel, of the priests, and the Levites, were in all the cities of Judah, every one in his inheritance.
 
-**TDB77:** A om lai Israelte, siampite leh Levi mite ahih leh Judah khuapi dangte ah om uh a, amau’ luah leitang ciatah teeng uh hi.
+**TDB77:** A om lai Israelte, siampite leh Levi mite ahih leh Judah khuapi dangte ah om-te a, amau’ luah leitang ciatah teeng-te hi.
 
-**ZVS:** A omlai Israel-te, siampite, leh Levi mite ahih leh Judah khuapi dangte-ah amau' luah leitang ciatah teng uh hi.
+**ZVS:** A omlai Israel-te, siampite, leh Levi mite ahih leh Judah khuapi dangte-ah amau' luah leitang ciatah teng-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v21
 **EN:** But the Nethinims dwelt in Ophel: and Ziha and Gispa were over the Nethinims.
 
-**TDB77:** Ahi zongin biakinn nasemte ahih leh Ofel mualbo-ah teeng uh a, Ziha leh Gishpa in amaute uk uh hi.
+**TDB77:** Ahi zongin biakinn nasemte ahih leh Ofel mualbo-ah teeng-te a, Ziha leh Gishpa in amaute uk-te hi.
 
-**ZVS:** Ahi zongin biakinn nasemte ahih leh Ofel mualbo-ah teng uh a, Ziha leh Gishpa in amaute a uk uh hi.
+**ZVS:** Ahi zongin biakinn nasemte ahih leh Ofel mualbo-ah teng-te a, Ziha leh Gishpa in amaute a uk-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -196,9 +196,9 @@
 ### v23
 **EN:** For it was the king's commandment concerning them, that a certain portion should be for the singers, due for every day.
 
-**TDB77:** Tuate beh in kumpipa’ thupiakna tawh nasem uh a, tua lasate in ni simin na a sep ding uh kisam hi.
+**TDB77:** Tuate beh in kumpipa’ thupiakna tawh nasem-te a, tua lasate in ni simin na a sep ding-te kisam hi.
 
-**ZVS:** Tuate beh in kumpipa' thupiakna tawh na sem uh a, tua lasate in nisimin na a sep ding uh kisam hi.
+**ZVS:** Tuate beh in kumpipa' thupiakna tawh na sem-te a, tua lasate in nisimin na a sep ding-te kisam hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -247,9 +247,9 @@
 ### v30
 **EN:** Zanoah, Adullam, and in their villages, at Lachish, and the fields thereof, at Azekah, and in the villages thereof. And they dwelt from Beer–sheba unto the valley of Hinnom.
 
-**TDB77:** Zanoah, Adullam, a khuaneute uh, Lakhish leh a lote, Azekah leh a khuaneute ahi hi. Tua hi a, amaute in Be-ersheba panin Hinnom Kuam dongah teeng uh hi.
+**TDB77:** Zanoah, Adullam, a khuaneute uh, Lakhish leh a lote, Azekah leh a khuaneute ahi hi. Tua hi a, amaute in Be-ersheba panin Hinnom Kuam dongah teeng-te hi.
 
-**ZVS:** Zanoah, Adullam leh a khuaneute, Lakhish leh a lote, leh Azekah leh a khuaneute ahi hi. Tua hi a, amaute pen Beersheba panin Hinnom Kuam dongah teng uh hi.
+**ZVS:** Zanoah, Adullam leh a khuaneute, Lakhish leh a lote, leh Azekah leh a khuaneute ahi hi. Tua hi a, amaute pen Beersheba panin Hinnom Kuam dongah teng-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -282,9 +282,9 @@
 ### v35
 **EN:** Lod, and Ono, the valley of craftsmen.
 
-**TDB77:** Lod, Ono, leh Geharashim khuate-ah Benjamin mite teeng uh hi.
+**TDB77:** Lod, Ono, leh Geharashim khuate-ah Benjamin mite teeng-te hi.
 
-**ZVS:** Lod, Ono, leh Geharashim khuate-ah Benjamin mite teng uh hi.
+**ZVS:** Lod, Ono, leh Geharashim khuate-ah Benjamin mite teng-te hi.
 
 **Grammar:** plural: uh marker
 

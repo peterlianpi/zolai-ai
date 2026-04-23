@@ -70,9 +70,9 @@
 ### v6
 **EN:** Then the Philistines said, Who hath done this? And they answered, Samson, the son in law of the Timnite, because he had taken his wife, and given her to his companion. And the Philistines came up, and burnt her and her father with fire.
 
-**TDB77:** Tua ciangin Filistia mite in, “Kua in hih hiam?” a ci uh hi. Amaute in, “Timnah mite’ makpa Samson in hih hi; bang hang hiam cih leh amah in a zi lak sakin a lawmte tungah piaksak hi,” a ci uh hi. Tua ciangin Filistia mite hong paito-in tua nu leh a pa mei tawh hal lum uh hi.
+**TDB77:** Tua ciangin Filistia mite in, “Kua in hih hiam?” a ci-te hi. Amaute in, “Timnah mite’ makpa Samson in hih hi; bang hang hiam cih leh amah in a zi lak sakin a lawmte tungah piaksak hi,” a ci-te hi. Tua ciangin Filistia mite hong paito-in tua nu leh a pa mei tawh hal lum-te hi.
 
-**ZVS:** Tua ciangin Filistia mite in, “Kua in hih ahi hiam?” a ci uh hi. Amaute in, “Timnah mite' makpa Samson in hih hi; bang hang hiam cih leh a sungpa in a zi laksakin a lawmpa tungah piaksak hi,” a ci uh hi. Tua ciangin Filistia mite hong paito-in tuanu leh a pa mei tawh a hallum uh hi.
+**ZVS:** Tua ciangin Filistia mite in, “Kua in hih ahi hiam?” a ci-te hi. Amaute in, “Timnah mite' makpa Samson in hih hi; bang hang hiam cih leh a sungpa in a zi laksakin a lawmpa tungah piaksak hi,” a ci-te hi. Tua ciangin Filistia mite hong paito-in tuanu leh a pa mei tawh a hallum-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -97,54 +97,54 @@
 ### v9
 **EN:** Then the Philistines went up, and pitched in Judah, and spread themselves in Lehi.
 
-**TDB77:** Tua ciangin Filistia mite paito-in Judah-ah giahphual sat uh a, Lehi sim uh hi.
+**TDB77:** Tua ciangin Filistia mite paito-in Judah-ah giahphual sat-te a, Lehi sim-te hi.
 
-**ZVS:** Tua ciangin Filistia mite paito-in Judah gamah giahphual sat uh a, Lehi sim uh hi.
+**ZVS:** Tua ciangin Filistia mite paito-in Judah gamah giahphual sat-te a, Lehi sim-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v10
 **EN:** And the men of Judah said, Why are ye come up against us? And they answered, To bind Samson are we come up, to do to him as he hath done to us.
 
-**TDB77:** Judah mite in, “Bang hangin kote do-in hong paito na hi uh hiam?” a ci uh hi. Amaute in, “Samson a hen ding, ko tungah amah in hong hih bangin ama tungah ahih dingin kong paito uh hi,” a ci uh hi.
+**TDB77:** Judah mite in, “Bang hangin kote do-in hong paito na hi-te hiam?” a ci-te hi. Amaute in, “Samson a hen ding, ko tungah amah in hong hih bangin ama tungah ahih dingin kong paito-te hi,” a ci-te hi.
 
-**ZVS:** Judah mite in, “Bang hangin kote simin hong paito na hi uh hiam?” a ci uh hi. Amaute in, “Samson a hen ding leh ko tungah amah in hong hih bangin ama tungah a hih dingin kong paito uh hi,” a ci uh hi.
+**ZVS:** Judah mite in, “Bang hangin kote simin hong paito na hi-te hiam?” a ci-te hi. Amaute in, “Samson a hen ding leh ko tungah amah in hong hih bangin ama tungah a hih dingin kong paito-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v11
 **EN:** Then three thousand men of Judah went to the top of the rock Etam, and said to Samson, Knowest thou not that the Philistines are rulers over us? what is this that thou hast done unto us? And he said unto them, As they did unto me, so have I done unto them.
 
-**TDB77:** Tua ciangin Judah mite mihing tulthum Etam suanghawm-ah paisuk uh a, Samson kiangah, “Filistia mite in eite hong ukte ahihna thei lo na hi hiam? Kote tungah nang hong bawl bang ahi hiam?” a ci uh hi. Amah in amaute kiangah, “Amaute in kei tungah hong bawl bangin amaute tungah ka bawl hi,” a ci hi.
+**TDB77:** Tua ciangin Judah mite mihing tulthum Etam suanghawm-ah paisuk-te a, Samson kiangah, “Filistia mite in eite hong ukte ahihna thei lo na hi hiam? Kote tungah nang hong bawl bang ahi hiam?” a ci-te hi. Amah in amaute kiangah, “Amaute in kei tungah hong bawl bangin amaute tungah ka bawl hi,” a ci hi.
 
-**ZVS:** Tua ciangin Judah mite mihing tul thum Etam suanghawmah paisukin Samson kiangah, “Filistia mite, eite a hong ukte ahihlam theilo na hi hiam? Kote' tungah nang' hong bawl bang ahi hiam?” a ci uh hi. Samson in amaute kiangah, “Amaute in kei tungah hong bawl bangin amaute tungah ka bawl hi,” a ci hi.
+**ZVS:** Tua ciangin Judah mite mihing tul thum Etam suanghawmah paisukin Samson kiangah, “Filistia mite, eite a hong ukte ahihlam theilo na hi hiam? Kote' tungah nang' hong bawl bang ahi hiam?” a ci-te hi. Samson in amaute kiangah, “Amaute in kei tungah hong bawl bangin amaute tungah ka bawl hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And they said unto him, We are come down to bind thee, that we may deliver thee into the hand of the Philistines. And Samson said unto them, Swear unto me, that ye will not fall upon me yourselves.
 
-**TDB77:** Tua ciangin amaute in ama kiangah, “Filistia mite khut sungah nang kong piak theih nadingun nangmah a hen dingin kong paisuk uh hi,” a ci uh hi. Samson in amaute kiangah, “Note mahmah in nong hih loh nading uh kei tungah hong kiciam un,” a ci hi.
+**TDB77:** Tua ciangin amaute in ama kiangah, “Filistia mite khut sungah nang kong piak theih nadingun nangmah a hen dingin kong paisuk-te hi,” a ci-te hi. Samson in amaute kiangah, “Note mahmah in nong hih loh nading-te kei tungah hong kiciam un,” a ci hi.
 
-**ZVS:** Tua ciangin amaute in Samson kiangah, “Filistia mite' khutsungah nang kong piak theihna dingun nangmah a hen dingin kong paisuk uh hi,” a ci uh hi. Samson in amaute kiangah, “Note mahmah in nong thah lohna ding uh kei tungah hong kiciam un,” a ci hi.
+**ZVS:** Tua ciangin amaute in Samson kiangah, “Filistia mite' khutsungah nang kong piak theihna dingun nangmah a hen dingin kong paisuk-te hi,” a ci-te hi. Samson in amaute kiangah, “Note mahmah in nong thah lohna ding-te kei tungah hong kiciam un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And they spake unto him, saying, No; but we will bind thee fast, and deliver thee into their hand: but surely we will not kill thee. And they bound him with two new cords, and brought him up from the rock.
 
-**TDB77:** Amaute in ama kiangah, “Kong hih kei ding uh hi; nang hong hen bekin amaute khut sungah kong pia bek ding uh hi; nang kong that kei ding uh hi,” a ci uh hi. Tua ahih ciangin amaute in khauhual thak nih tawh amah hen uh a, tua suang panin amah pai khiatpih to uh hi.
+**TDB77:** Amaute in ama kiangah, “Kong hih kei ding-te hi; nang hong hen bekin amaute khut sungah kong pia bek ding-te hi; nang kong that kei ding-te hi,” a ci-te hi. Tua ahih ciangin amaute in khauhual thak nih tawh amah hen-te a, tua suang panin amah pai khiatpih to-te hi.
 
-**ZVS:** Amaute in Samson kiangah, “Kong that kei ding uh hi. Nang hong henin amaute' khutsungah kong pia bek ding uh a, nang kong that het kei ding uh hi,” a ci uh hi. Tua ahih ciangin amaute in khauhual thak nih tawh amah hen uh a, tua suanghawm sung panin amah pai khiatpihto uh hi.
+**ZVS:** Amaute in Samson kiangah, “Kong that kei ding-te hi. Nang hong henin amaute' khutsungah kong pia bek ding-te a, nang kong that het kei ding-te hi,” a ci-te hi. Tua ahih ciangin amaute in khauhual thak nih tawh amah hen-te a, tua suanghawm sung panin amah pai khiatpihto-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And when he came unto Lehi, the Philistines shouted against him: and the Spirit of the
 
-**TDB77:** Amah Lehi a tun’ ciangin amah dawn dingin Filistia mite hong pai-in awng uh hi; tua ciangin ama tungah Topa’ Kha khauh takin hong tung a, a baan tunga om khauhualte pen mei in a kat anthul khau tawh kibang a, amah a kikhihnate a khut panin tolhkhia hi.
+**TDB77:** Amah Lehi a tun’ ciangin amah dawn dingin Filistia mite hong pai-in awng-te hi; tua ciangin ama tungah Topa’ Kha khauh takin hong tung a, a baan tunga om khauhualte pen mei in a kat anthul khau tawh kibang a, amah a kikhihnate a khut panin tolhkhia hi.
 
-**ZVS:** Lehi-ah Samson a tun' ciangin amah a dawn dingin Filistia mite hong pai-in awng uh hi. Tua ciangin ama tungah { Topa' } kha khauhtakin hong tung a, a khut tunga om khauhualte pen mei in a kat anthul khau tawh kibang a, amah a kikhihnate a khut panin tolhkhia hi.
+**ZVS:** Lehi-ah Samson a tun' ciangin amah a dawn dingin Filistia mite hong pai-in awng-te hi. Tua ciangin ama tungah { Topa' } kha khauhtakin hong tung a, a khut tunga om khauhualte pen mei in a kat anthul khau tawh kibang a, amah a kikhihnate a khut panin tolhkhia hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

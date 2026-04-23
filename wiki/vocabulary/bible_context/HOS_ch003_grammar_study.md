@@ -22,9 +22,9 @@
 ### v1
 **EN:** Then said the
 
-**TDB77:** Topa in kei kiangah thu hong gen kik a, “Lawm a ngai khinsa, pasal tawh a lumkhawmsa numei khat tawh va kingai in, Israel mite, pasian dangte kiangah pai uh a, leenggah phehkeu tawh a va biak uh hangin, amaute ka it lai veve mah bangin tua numei va it in,” hong ci hi.
+**TDB77:** Topa in kei kiangah thu hong gen kik a, “Lawm a ngai khinsa, pasal tawh a lumkhawmsa numei khat tawh va kingai in, Israel mite, pasian dangte kiangah pai-te a, leenggah phehkeu tawh a va biak-te hangin, amaute ka it lai veve mah bangin tua numei va it in,” hong ci hi.
 
-**ZVS:** { Topa } in kei kiangah thu hong genkik a, “Lawm a ngai khinsa, pasal tawh a lumkhawmsa numei khat tawh va kingai in. Israel mite, pasian dangte kiangah pai uh a, leenggahphehkeu tawh a va biak uh hangin, amaute ka it lai veve mah bangin tua numei va it in,” hong ci hi.
+**ZVS:** { Topa } in kei kiangah thu hong genkik a, “Lawm a ngai khinsa, pasal tawh a lumkhawmsa numei khat tawh va kingai in. Israel mite, pasian dangte kiangah pai-te a, leenggahphehkeu tawh a va biak-te hangin, amaute ka it lai veve mah bangin tua numei va it in,” hong ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -56,9 +56,9 @@
 ### v5
 **EN:** Afterward shall the children of Israel return, and seek the
 
-**TDB77:** Tua khit ciangin Israel mite in Topa amau’ Pasian leh a kumpipa uh David lamah hong kihei kik ding uh hi. Tua hun ciangin amaute in Topa zahtakin, ama letsongte sang ding uh hi.
+**TDB77:** Tua khit ciangin Israel mite in Topa amau’ Pasian leh a kumpipa-te David lamah hong kihei kik ding-te hi. Tua hun ciangin amaute in Topa zahtakin, ama letsongte sang ding-te hi.
 
-**ZVS:** Tua khit ciangin Israel mite in { Topa } amau' Pasian leh a kumpipa uh David lamah hong kiheikik ding uh hi. Tua hun ciangin amaute in { Topa } zahtakin, ama letsongte a ngah ding uh hi.
+**ZVS:** Tua khit ciangin Israel mite in { Topa } amau' Pasian leh a kumpipa-te David lamah hong kiheikik ding-te hi. Tua hun ciangin amaute in { Topa } zahtakin, ama letsongte a ngah ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

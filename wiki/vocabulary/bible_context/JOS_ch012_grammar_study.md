@@ -20,9 +20,9 @@
 ### v1
 **EN:** Now these are the kings of the land, which the children of Israel smote, and possessed their land on the other side Jordan toward the rising of the sun, from the river Arnon unto mount Hermon, and all the plain on the east:
 
-**TDB77:** Tu-in nisuahna lam Jordan galkhat, Arnon kuam panin nisuahna lam Arabah khempeuh tawh Hermon Mual ciang dong Israel mite in a leitang uh laksakin a zawh mite’ gam kumpite in:
+**TDB77:** Tu-in nisuahna lam Jordan galkhat, Arnon kuam panin nisuahna lam Arabah khempeuh tawh Hermon Mual ciang dong Israel mite in a leitang-te laksakin a zawh mite’ gam kumpite in:
 
-**ZVS:** Tu-in nisuahna lam Jordan galkhat, Arnon kuam panin Arabah khempeuh, Hermon Mual ciangdong Israel mite in a leitang uh laksakin a zawh kumpi nihte:
+**ZVS:** Tu-in nisuahna lam Jordan galkhat, Arnon kuam panin Arabah khempeuh, Hermon Mual ciangdong Israel mite in a leitang-te laksakin a zawh kumpi nihte:
 
 **Grammar:** serial verb: -in (and then)
 
@@ -39,9 +39,9 @@
 ### v6
 **EN:** Them did Moses the servant of the
 
-**TDB77:** Topa’ nasem Moses leh Israel mite in amaute zo uh hi; tua ciangin Topa’ nasem Moses in Reuben mite leh Gad mite leh Manasseh minam a langte tungah a neih dingun amau’ leitang a pia hi.
+**TDB77:** Topa’ nasem Moses leh Israel mite in amaute zo-te hi; tua ciangin Topa’ nasem Moses in Reuben mite leh Gad mite leh Manasseh minam a langte tungah a neih dingun amau’ leitang a pia hi.
 
-**ZVS:** { Topa' } nasem Moses leh Israel mite in amaute gel a zo uh hi. Tua ciangin { Topa' } nasem Moses in Reuben mite leh Gad mite leh Manasseh minam alangte tungah a neih dingun amau' leitang a pia hi.
+**ZVS:** { Topa' } nasem Moses leh Israel mite in amaute gel a zo-te hi. Tua ciangin { Topa' } nasem Moses in Reuben mite leh Gad mite leh Manasseh minam alangte tungah a neih dingun amau' leitang a pia hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -57,7 +57,7 @@
 
 **TDB77:** Jerikho kumpi, khat; Beth-el gei-a om Ai kumpi, khat;
 
-**ZVS:** A zawh uh kumpite: Jerikho kumpi, khat; Bethel gei-a om Ai kumpi, khat;
+**ZVS:** A zawh-te kumpite: Jerikho kumpi, khat; Bethel gei-a om Ai kumpi, khat;
 
 ### v10
 **EN:** The king of Jerusalem, one; the king of Hebron, one;

@@ -8,10 +8,10 @@ The Historical Books (Joshua through Esther) provide a transition from the legal
 ### Joshua (Joshua) - War & Territorial Conquest
 - **Military Commands:** `Hang un la, namsau tawi un` (Be strong and take up the sword).
 - **Territorial Logic:** Use of boundary markers `... gamgi ...` and distribution logic `... tan pia hi` (gave as a portion).
-- **Covenantal Climax:** `na'ng leh na innkuante in kua na bia ding na hi uh hiam? Kei leh ka innkuante in ahih leh Topa ka bia ding uh hi` (Choose you this day whom ye will serve... but as for me and my house, we will serve the Lord).
+- **Covenantal Climax:** `na'ng leh na innkuante in kua na bia ding na hi-te hiam? Kei leh ka innkuante in ahih leh Topa ka bia ding-te hi` (Choose you this day whom ye will serve... but as for me and my house, we will serve the Lord).
 
 ### Judges (Thukhente) - Cyclical Narratives (B1 Level)
-- **The Sin Formula:** `Israel mite Topa muhna-ah a sia gamta uh hi` (Israelites did evil in the sight of the Lord).
+- **The Sin Formula:** `Israel mite Topa muhna-ah a sia gamta-te hi` (Israelites did evil in the sight of the Lord).
 - **The Delivery Formula:** `Topa in honpa khat ... khangsak hi` (The Lord raised up a deliverer).
 - **Chronological Transitions:** `... sih khit ciangin ...` (after the death of...).
 

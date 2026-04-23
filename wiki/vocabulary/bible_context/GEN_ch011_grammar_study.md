@@ -34,27 +34,27 @@
 ### v2
 **EN:** And it came to pass, as they journeyed from the east, that they found a plain in the land of Shinar; and they dwelt there.
 
-**TDB77:** Amaute nisuahna lamah lal uh a, Shinar gamsungah zanglei mun khat mu uh a, tua lai-ah teng uh hi.
+**TDB77:** Amaute nisuahna lamah lal-te a, Shinar gamsungah zanglei mun khat mu-te a, tua lai-ah teng-te hi.
 
-**ZVS:** Amaute, nisuahna lamah lal uh a, Shinar gam sungah zanglei mun khat mu-in tua lai-ah a teng uh hi.
+**ZVS:** Amaute, nisuahna lamah lal-te a, Shinar gam sungah zanglei mun khat mu-in tua lai-ah a teng-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** And they said one to another, Go to, let us make brick, and burn them thoroughly. And they had brick for stone, and slime had they for mortar.
 
-**TDB77:** Amaute khat leh khat kiangah, “Hong pai un, leiseek seekin lim takin hal ni,” kici uh hi. Amaute in suang taangin leiseek nei uh a, a buan dingin kultal tui nei uh hi.
+**TDB77:** Amaute khat leh khat kiangah, “Hong pai un, leiseek seekin lim takin hal ni,” kici-te hi. Amaute in suang taangin leiseek nei-te a, a buan dingin kultal tui nei-te hi.
 
-**ZVS:** Amaute khatlekhat kiangah, “Hong pai un, leiseek seekin limtakin hal ni,” kici uh hi. Amaute in suang dingin leiseek nei uh a, a buan dingin kultal tui nei uh hi.
+**ZVS:** Amaute khatlekhat kiangah, “Hong pai un, leiseek seekin limtakin hal ni,” kici-te hi. Amaute in suang dingin leiseek nei-te a, a buan dingin kultal tui nei-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And they said, Go to, let us build us a city and a tower, whose top may reach unto heaven; and let us make us a name, lest we be scattered abroad upon the face of the whole earth.
 
-**TDB77:** Tua ciangin amaute in, “Hong pai un, leitung buppi maitang-ah eite i kithehthang gawp loh nadingin ei’ adingin khuapi khat bawlin, a dawn in vantung a ban ding tausangpi khat lamin, eite’ min ding khat bawl ni,” ci uh hi.
+**TDB77:** Tua ciangin amaute in, “Hong pai un, leitung buppi maitang-ah eite i kithehthang gawp loh nadingin ei’ adingin khuapi khat bawlin, a dawn in vantung a ban ding tausangpi khat lamin, eite’ min ding khat bawl ni,” ci-te hi.
 
-**ZVS:** Tua ciangin amaute in, “Hong pai un, leitung buppi-ah eite i kithehthang gawp lohna dingin ei-a' dingin khuapi khat bawlin, a dawn in vantung a ban ding tausang khat lamin, eite' minthan'na ding khat bawl ni,” ci uh hi.
+**ZVS:** Tua ciangin amaute in, “Hong pai un, leitung buppi-ah eite i kithehthang gawp lohna dingin ei-a' dingin khuapi khat bawlin, a dawn in vantung a ban ding tausang khat lamin, eite' minthan'na ding khat bawl ni,” ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | hortative: let us | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** And the
 
-**TDB77:** Topa in, “En un, amaute in mikhat hi uh a, amaute khempeuh in kampau khat nei uh hi; hih in amau’ sep ding a kipatna bek ahi hi; tu-in sep dinga amau vaihawmte amau’ adingin hi thei nawn lo ding hi.
+**TDB77:** Topa in, “En un, amaute in mikhat hi-te a, amaute khempeuh in kampau khat nei-te hi; hih in amau’ sep ding a kipatna bek ahi hi; tu-in sep dinga amau vaihawmte amau’ adingin hi thei nawn lo ding hi.
 
-**ZVS:** { Topa } in, “En un, amaute minam khat hi uh a, amaute khempeuh in kampau khat nei uh hi. Hih pen amau' sep ding a kipatna bek ahi hi. Tu-in sep dinga amau' vaihawmte amau-a' dingin hi thei nawnlo ding hi.
+**ZVS:** { Topa } in, “En un, amaute minam khat hi-te a, amaute khempeuh in kampau khat nei-te hi. Hih pen amau' sep ding a kipatna bek ahi hi. Tu-in sep dinga amau' vaihawmte amau-a' dingin hi thei nawnlo ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -88,9 +88,9 @@
 ### v8
 **EN:** So the
 
-**TDB77:** Tua ahih ciangin Topa in tua lai panin leitung maitang khempeuhah amaute thehthang a, amaute in akhuapi bawl uh tawp uh hi.
+**TDB77:** Tua ahih ciangin Topa in tua lai panin leitung maitang khempeuhah amaute thehthang a, amaute in akhuapi bawl-te tawp-te hi.
 
-**ZVS:** Tua ahih ciangin { Topa } in tua lai panin leitung khempeuhah amaute thehthang a, a khuapi bawl uh a tawp uh hi.
+**ZVS:** Tua ahih ciangin { Topa } in tua lai panin leitung khempeuhah amaute thehthang a, a khuapi bawl-te a tawp-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -259,9 +259,9 @@
 ### v29
 **EN:** And Abram and Nahor took them wives: the name of Abram's wife was Sarai; and the name of Nahor's wife, Milcah, the daughter of Haran, the father of Milcah, and the father of Iscah.
 
-**TDB77:** Abram leh Nahor in zi nei uh hi; Abram’ zi’ min in Sarai hi a, Nahor’ zi’ min in Milkah hi-in Haran’ tanu ahi hi. Haran in Milkah leh Iskah-te’ pa ahi hi.
+**TDB77:** Abram leh Nahor in zi nei-te hi; Abram’ zi’ min in Sarai hi a, Nahor’ zi’ min in Milkah hi-in Haran’ tanu ahi hi. Haran in Milkah leh Iskah-te’ pa ahi hi.
 
-**ZVS:** Abram leh Nahor in zi nei uh hi. Abram' zi min Sarai hi a, Nahor' zi min Milkah hi a, Milkah pen Iskah' pa Haran' tanu ahi hi.
+**ZVS:** Abram leh Nahor in zi nei-te hi. Abram' zi min Sarai hi a, Nahor' zi min Milkah hi a, Milkah pen Iskah' pa Haran' tanu ahi hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -277,9 +277,9 @@
 ### v31
 **EN:** And Terah took Abram his son, and Lot the son of Haran his son's son, and Sarai his daughter in law, his son Abram's wife; and they went forth with them from Ur of the Chaldeans, to go into the land of Canaan; and they came unto Haran, and dwelt there.
 
-**TDB77:** Terah in ama' tapa Abram leh Haran’ tapa Lot, ama' tupa leh a tapa Abram’ zi ahi a monu Sarai la-in, Kanaan gamsungah pai dingin Khaldea gam Ur khua panin amaute paikhia khawm uh hi; ahih hangin amaute Haran a tun’ uh ciangin tua munah teng uh hi.
+**TDB77:** Terah in ama' tapa Abram leh Haran’ tapa Lot, ama' tupa leh a tapa Abram’ zi ahi a monu Sarai la-in, Kanaan gamsungah pai dingin Khaldea gam Ur khua panin amaute paikhia khawm-te hi; ahih hangin amaute Haran a tun’ uh ciangin tua munah teng-te hi.
 
-**ZVS:** Terah in ama tapa Abram leh Haran' tapa, ama tupa ahi Lot, leh a tapa Abram' zi ahi a monu Sarai samin, Kanaan gam sungah a pai dingin Khaldea gam Ur khua panin amaute a paikhia khawm uh hi. Ahi zongin amaute Haran a tun' uh ciangin tua munah a teng uh hi.
+**ZVS:** Terah in ama tapa Abram leh Haran' tapa, ama tupa ahi Lot, leh a tapa Abram' zi ahi a monu Sarai samin, Kanaan gam sungah a pai dingin Khaldea gam Ur khua panin amaute a paikhia khawm-te hi. Ahi zongin amaute Haran a tun' uh ciangin tua munah a teng-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 

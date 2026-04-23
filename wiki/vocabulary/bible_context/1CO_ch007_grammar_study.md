@@ -27,16 +27,16 @@
 ### v1
 **EN:** Now concerning the things whereof ye wrote unto me: It is good for a man not to touch a woman.
 
-**TDB77:** Keima kiangah nong khak uh lai sung thu in, pasal in numei tawh kiteeng kei leh, a hoih hi.
+**TDB77:** Keima kiangah nong khak-te lai sung thu in, pasal in numei tawh kiteeng kei leh, a hoih hi.
 
-**ZVS:** Tu-in nong laigelhna uh thu tawh kisai-in: Pasal in zi nei kei leh hoihzaw loding ahi hiam, na ci uh hi.
+**ZVS:** Tu-in nong laigelhna-te thu tawh kisai-in: Pasal in zi nei kei leh hoihzaw loding ahi hiam, na ci-te hi.
 
 **Grammar:** adjective: hoih (good) | reciprocal: ki- prefix
 
 ### v2
 **EN:** Nevertheless, to avoid fornication, let every man have his own wife, and let every woman have her own husband.
 
-**TDB77:** Ahi zongin numei tawh mawhna thute hangin pasal khempeuh in zi nei ciat uh hen. Numei khempeuh in zong pasal nei ciat uh hen.
+**TDB77:** Ahi zongin numei tawh mawhna thute hangin pasal khempeuh in zi nei ciat-te hen. Numei khempeuh in zong pasal nei ciat-te hen.
 
 **ZVS:** Ahi zongin numei tawh paktatna tamlua ahih manin pasal in ama zi tuam nei hen la, numei in ama pasal tuam nei leh hoih hi.
 
@@ -61,9 +61,9 @@
 ### v5
 **EN:** Defraud ye not one the other, except it be with consent for a time, that ye may give yourselves to fasting and prayer; and come together again, that Satan tempt you not for your incontinency.
 
-**TDB77:** Thungen dingin na lungsim uh kikhatin, tawlkhat bek tan’na longal note in khat leh khat na kinial kei un. Tua ahih ciangin na pum uh na kham zawh lohna uh hangah Satan in hong zol loh nadingin, a nung ciangin omkhawm kik un.
+**TDB77:** Thungen dingin na lungsim-te kikhatin, tawlkhat bek tan’na longal note in khat leh khat na kinial kei un. Tua ahih ciangin na pum-te na kham zawh lohna-te hangah Satan in hong zol loh nadingin, a nung ciangin omkhawm kik un.
 
-**ZVS:** Thungetna-in hun na zattheihna dingun tawlkhat sung tuam om ding thukim khawm masa lopi-in lupkhop ding kinialkha kei un. Tua bangin tawlkhat sung na tuam om khit uh ciangin note' pumpi' deihna hangin Satan' ze-etna sungah na pukkhak lohna dingun a ngeina bangin lupkhawm ding kipan kik un.
+**ZVS:** Thungetna-in hun na zattheihna dingun tawlkhat sung tuam om ding thukim khawm masa lopi-in lupkhop ding kinialkha kei un. Tua bangin tawlkhat sung na tuam om khit-te ciangin note' pumpi' deihna hangin Satan' ze-etna sungah na pukkhak lohna dingun a ngeina bangin lupkhawm ding kipan kik un.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
@@ -77,27 +77,27 @@
 ### v7
 **EN:** For I would that all men were even as I myself. But every man hath his proper gift of God, one after this manner, and another after that.
 
-**TDB77:** Mi khempeuh in kei tawh kibangin om le-uh ka awi hi. Ahi zongin mi khempeuh in Pasian’ piakna mah bangin atuamtuam thupha a ngah ciat uh hi.
+**TDB77:** Mi khempeuh in kei tawh kibangin om le-uh ka awi hi. Ahi zongin mi khempeuh in Pasian’ piakna mah bangin atuamtuam thupha a ngah ciat-te hi.
 
-**ZVS:** Mi khempeuh keimah bangin om ciat le uh hoih ka sa hi. Ahi zongin mi khempeuh in Pasian' piak hihzawhna a tuamtuam nei a, khatlekhat kibanglo hi.
+**ZVS:** Mi khempeuh keimah bangin om ciat le-te hoih ka sa hi. Ahi zongin mi khempeuh in Pasian' piak hihzawhna a tuamtuam nei a, khatlekhat kibanglo hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** I say therefore to the unmarried and widows, It is good for them if they abide even as I.
 
-**TDB77:** Zi nei lo, pasal nei lo, leh meigong numeite kiangah ka cih-inah, amaute in keimah bangin a om uh leh, a pha ding hi.
+**TDB77:** Zi nei lo, pasal nei lo, leh meigong numeite kiangah ka cih-inah, amaute in keimah bangin a om-te leh, a pha ding hi.
 
-**ZVS:** Pasal nei nailote leh meigongte pen keimah bangin tanggawl om paisuak le uh hoih ka sa hi.
+**ZVS:** Pasal nei nailote leh meigongte pen keimah bangin tanggawl om paisuak le-te hoih ka sa hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix
 
 ### v9
 **EN:** But if they cannot contain, let them marry: for it is better to marry than to burn.
 
-**TDB77:** Ahi zongin a pumpi uh a kikham zawh kei uh leh, kiteeng uh hen. A kat sangin kiteeng leh a phazaw hi.
+**TDB77:** Ahi zongin a pumpi-te a kikham zawh kei-te leh, kiteeng-te hen. A kat sangin kiteeng leh a phazaw hi.
 
-**ZVS:** Ahi zongin a pumpi uh a ki-ukzawh kei ding uh leh pasal nei le uh hoihzaw hi. Nei nuampipi-a neihloh tentan sangin pasal neih hoihzaw hi.
+**ZVS:** Ahi zongin a pumpi-te a ki-ukzawh kei ding-te leh pasal nei le-te hoihzaw hi. Nei nuampipi-a neihloh tentan sangin pasal neih hoihzaw hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -120,7 +120,7 @@
 ### v12
 **EN:** But to the rest speak I, not the Lord: If any brother hath a wife that believeth not, and she be pleased to dwell with him, let him not put her away.
 
-**TDB77:** Midangte kiangah Pasian’ thukham hi lo, keima cihna in: unau khat in thu-um lo zi nei a, a zi in a pasal kiangah om nuam ahih leh, kikhen kei uh hen.
+**TDB77:** Midangte kiangah Pasian’ thukham hi lo, keima cihna in: unau khat in thu-um lo zi nei a, a zi in a pasal kiangah om nuam ahih leh, kikhen kei-te hen.
 
 **ZVS:** Adangte tungah, Topa' cih hilo, keima ngaihsutna ka gennop thu in: Mi khatpeuh in thu umlo mi khat zi-in a neih leh, pasal mahin neihding a zi a lungkim ahih nak leh ma kei ta hen.
 
@@ -129,7 +129,7 @@
 ### v13
 **EN:** And the woman which hath an husband that believeth not, and if he be pleased to dwell with her, let her not leave him.
 
-**TDB77:** Tua mah bangin numei in thu-um lo pasal nei a, pasal in a zi kiangah om nuam ahih leh kikhen kei uh hen.
+**TDB77:** Tua mah bangin numei in thu-um lo pasal nei a, pasal in a zi kiangah om nuam ahih leh kikhen kei-te hen.
 
 **ZVS:** Numei khat in thu umlo mi khat pasalin a neih leh, zi mahin neihding a pasal a lungkim ahih nak leh ma tuan kei ta hen.
 
@@ -138,9 +138,9 @@
 ### v14
 **EN:** For the unbelieving husband is sanctified by the wife, and the unbelieving wife is sanctified by the husband: else were your children unclean; but now are they holy.
 
-**TDB77:** Bang hang hiam na cih uh leh, thu-um lo pasal in a zi hangin a siangtho hi. Thu-um lo zi in a unau hangin a siangtho hi. Ahih kei leh, na tate uh a siangtho kei ding uh hi. Tu-in ahih leh, a siangtho uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, thu-um lo pasal in a zi hangin a siangtho hi. Thu-um lo zi in a unau hangin a siangtho hi. Ahih kei leh, na tate-te a siangtho kei ding-te hi. Tu-in ahih leh, a siangtho-te hi.
 
-**ZVS:** Bang hang hiam cih leh thu umlo pasal pen a zi' hangin thu um mi suakthei ding a, thu umlo zi pen a pasal' hangin thu um mi suakthei ding hi. Tua bang hi leh a tate uh thu um mi suakthei ding uh hi. Ahi zongin tua bang hi kei le uh a tate uh thu um mi suaktheilo ding uh hi.
+**ZVS:** Bang hang hiam cih leh thu umlo pasal pen a zi' hangin thu um mi suakthei ding a, thu umlo zi pen a pasal' hangin thu um mi suakthei ding hi. Tua bang hi leh a tate-te thu um mi suakthei ding-te hi. Ahi zongin tua bang hi kei le-te a tate-te thu um mi suaktheilo ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
@@ -149,7 +149,7 @@
 
 **TDB77:** Ahi zongin thu-um lo mi in kikhen a ut leh, kikhen ta hen. Tua bang ahih leh, sanggampa ahi zongin, sanggamnu ahi zongin kihencipna om lo hi. Bang hang hiam cih leh, eite in kilem a, om nadingin Pasian in hong sam zo hi.
 
-**ZVS:** Ahi zongin thu umlo zi in ahi a, thu umlo pasal in ahi zongin kikhen ding a ut leh kikhen ta uh hen. Tua bang thute-ah thu um zi ahi a, thu um pasal ahi zongin a awkna ding thu omlo hi. Pasian in nuamtakin a nungta dingin a hong sap ahi hi.
+**ZVS:** Ahi zongin thu umlo zi in ahi a, thu umlo pasal in ahi zongin kikhen ding a ut leh kikhen ta-te hen. Tua bang thute-ah thu um zi ahi a, thu um pasal ahi zongin a awkna ding thu omlo hi. Pasian in nuamtakin a nungta dingin a hong sap ahi hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix
 
@@ -163,9 +163,9 @@
 ### v17
 **EN:** But as God hath distributed to every man, as the Lord hath called every one, so let him walk. And so ordain I in all churches.
 
-**TDB77:** Topa in mi khempeuh hawmsak a, Pasian in mi khempeuh a sapna thu tawh kituakin mi khempeuh in gamta uh hen. Pawlpi khempeuh kiangah hih thukham ka pia hi.
+**TDB77:** Topa in mi khempeuh hawmsak a, Pasian in mi khempeuh a sapna thu tawh kituakin mi khempeuh in gamta-te hen. Pawlpi khempeuh kiangah hih thukham ka pia hi.
 
-**ZVS:** Mi khempeuh, Pasian in amau' nuntakna dingin a sehna, leh Pasian in a sap laitakin a omzia bangbangun nungta uh hen. Hih bangzia-in om ding pen pawlpi khempeuhah hilhin ka neih ngeina khat ahi hi.
+**ZVS:** Mi khempeuh, Pasian in amau' nuntakna dingin a sehna, leh Pasian in a sap laitakin a omzia bangbangun nungta-te hen. Hih bangzia-in om ding pen pawlpi khempeuhah hilhin ka neih ngeina khat ahi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -188,9 +188,9 @@
 ### v20
 **EN:** Let every man abide in the same calling wherein he was called.
 
-**TDB77:** A hong sap lai taka a om bangin mi khempeuh om ta uh hen.
+**TDB77:** A hong sap lai taka a om bangin mi khempeuh om ta-te hen.
 
-**ZVS:** Tua ahih manin a kuamah peuh, Pasian in a sap laitakun a omzia bangbangun a om paisuak ding uh ahi hi.
+**ZVS:** Tua ahih manin a kuamah peuh, Pasian in a sap laitakun a omzia bangbangun a om paisuak ding-te ahi hi.
 
 ### v21
 **EN:** Art thou called being a servant? care not for it: but if thou mayest be made free, use it rather.
@@ -209,7 +209,7 @@
 ### v23
 **EN:** Ye are bought with a price; be not ye the servants of men.
 
-**TDB77:** Note in man tawh a kilei zo mi na hi uh hi. Tua ahih ciangin mite’ sila suak kei un.
+**TDB77:** Note in man tawh a kilei zo mi na hi-te hi. Tua ahih ciangin mite’ sila suak kei un.
 
 **ZVS:** Note pen Pasian' hong leisa na hih manun mite' sila suak kei un.
 
@@ -218,9 +218,9 @@
 ### v24
 **EN:** Brethren, let every man, wherein he is called, therein abide with God.
 
-**TDB77:** Ute naute aw, hong sap laitaka na om bangun mi khempeuh in Pasian’ adingin omsuak ta uh hen.
+**TDB77:** Ute naute aw, hong sap laitaka na om bangun mi khempeuh in Pasian’ adingin omsuak ta-te hen.
 
-**ZVS:** Tua ahih manin sanggamte aw, hong kisap laitakin na omzia uh mah bangin Pasian' sungah na om paisuak un.
+**ZVS:** Tua ahih manin sanggamte aw, hong kisap laitakin na omzia-te mah bangin Pasian' sungah na om paisuak un.
 
 **Grammar:** purpose: in order to
 
@@ -254,45 +254,45 @@
 ### v28
 **EN:** But and if thou marry, thou hast not sinned; and if a virgin marry, she hath not sinned. Nevertheless such shall have trouble in the flesh: but I spare you.
 
-**TDB77:** Ahih hangin zi na neih leh, mawhna om lo hi. Nungak in pasal a neih leh, mawhna om lo hi. Ahih hangin tua bang a neite in amau pum tungah haksatna thuak ding uh hi. Tua bang na thuak ding uh ka deih kei hi.
+**TDB77:** Ahih hangin zi na neih leh, mawhna om lo hi. Nungak in pasal a neih leh, mawhna om lo hi. Ahih hangin tua bang a neite in amau pum tungah haksatna thuak ding-te hi. Tua bang na thuak ding-te ka deih kei hi.
 
-**ZVS:** Ahi zongin pasal in zi a neih hangin a khial hilo a, numei in zong pasal a neih hangin a khial hilo hi. Ahi zongin zinei, pasalneite in leitung lungkhamna tampi thuak uh ahih manin tuate tawh kipelhzaw le uh hoih ka sa hi.
+**ZVS:** Ahi zongin pasal in zi a neih hangin a khial hilo a, numei in zong pasal a neih hangin a khial hilo hi. Ahi zongin zinei, pasalneite in leitung lungkhamna tampi thuak-te ahih manin tuate tawh kipelhzaw le-te hoih ka sa hi.
 
 **Grammar:** future: will | negation: kei | negation: lo | plural: uh marker
 
 ### v29
 **EN:** But this I say, brethren, the time is short: it remaineth, that both they that have wives be as though they had none;
 
-**TDB77:** Ute naute aw, ke’n kong cih-inah, a hun a tom ahih ciangin zi neite in a nei lo mah bang ding uh hi,
+**TDB77:** Ute naute aw, ke’n kong cih-inah, a hun a tom ahih ciangin zi neite in a nei lo mah bang ding-te hi,
 
-**ZVS:** Sanggamte aw, tua bang ka cih ciangin a kiseh hun hong nai mahmah ta hi, ka cihnopna ahi hi. Tua ahih manin zineite pen zineilo mah bangin kingaihsun uh hen la,
+**ZVS:** Sanggamte aw, tua bang ka cih ciangin a kiseh hun hong nai mahmah ta hi, ka cihnopna ahi hi. Tua ahih manin zineite pen zineilo mah bangin kingaihsun-te hen la,
 
 **Grammar:** future: will | negation: lo | plural: uh marker
 
 ### v30
 **EN:** And they that weep, as though they wept not; and they that rejoice, as though they rejoiced not; and they that buy, as though they possessed not;
 
-**TDB77:** a kapte in a kap lo mah bang ding uh hi; a lungdamte in a lungdam lo mah bang ding uh hi;
+**TDB77:** a kapte in a kap lo mah bang ding-te hi; a lungdamte in a lungdam lo mah bang ding-te hi;
 
-**ZVS:** a dahte pen a dahlo mah bangin kingaihsun uh hen la, a lungdamte pen a lungdamlo mah bangin kingaihsun uh hen la, na a leite pen bangmah a neilo mah bangin kingaihsun uh hen la,
+**ZVS:** a dahte pen a dahlo mah bangin kingaihsun-te hen la, a lungdamte pen a lungdamlo mah bangin kingaihsun-te hen la, na a leite pen bangmah a neilo mah bangin kingaihsun-te hen la,
 
 **Grammar:** future: will | plural: uh marker
 
 ### v31
 **EN:** And they that use this world, as not abusing it: for the fashion of this world passeth away.
 
-**TDB77:** sumleite in bangmah nei lo mah bang ding uh hi; hih leitung a zangte in a zang lo mah bang ding uh hi. Bang hang hiam na cih uh leh, hih leitung’ lim leh meel in a mangthang ding uh hi.
+**TDB77:** sumleite in bangmah nei lo mah bang ding-te hi; hih leitung a zangte in a zang lo mah bang ding-te hi. Bang hang hiam na cih-te leh, hih leitung’ lim leh meel in a mangthang ding-te hi.
 
-**ZVS:** leitung na nuamtakin a zangte pen a zanglo mah bangin kingaihsun ta uh hen. Bang hang hiam cih leh hih leitung pen sauveipi kip nawnlo ding hi.
+**ZVS:** leitung na nuamtakin a zangte pen a zanglo mah bangin kingaihsun ta-te hen. Bang hang hiam cih leh hih leitung pen sauveipi kip nawnlo ding hi.
 
 **Grammar:** future: will | negation: lo | plural: uh marker
 
 ### v32
 **EN:** But I would have you without carefulness. He that is unmarried careth for the things that belong to the Lord, how he may please the Lord:
 
-**TDB77:** Note in lunghihmawhna tawh na kipelh nading uh ka ut hi. Zi nei lo mi in Pasian lungdamsak nadingin Pasian’ thu a ngaihsun hi.
+**TDB77:** Note in lunghihmawhna tawh na kipelh nading-te ka ut hi. Zi nei lo mi in Pasian lungdamsak nadingin Pasian’ thu a ngaihsun hi.
 
-**ZVS:** Note, lunghihmawhna tawh na kipelhding uh ka hong deihsak hi. Zi a neilote in Topa a lungdamsak theihna dingun Topa' thu bek kinin nei uh hi.
+**ZVS:** Note, lunghihmawhna tawh na kipelhding-te ka hong deihsak hi. Zi a neilote in Topa a lungdamsak theihna dingun Topa' thu bek kinin nei-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix
 
@@ -301,25 +301,25 @@
 
 **TDB77:** Zi nei mi ahih leh, a zi lungdamsak nadingin leitung thu a ngaihsun hi.
 
-**ZVS:** Ahi zongin zineite in a zi a lungdamsak theihna dingun hih leitung vai kinin nei uh a,
+**ZVS:** Ahi zongin zineite in a zi a lungdamsak theihna dingun hih leitung vai kinin nei-te a,
 
 **Grammar:** purpose: in order to
 
 ### v34
 **EN:** There is difference also between a wife and a virgin. The unmarried woman careth for the things of the Lord, that she may be holy both in body and in spirit: but she that is married careth for the things of the world, how she may please her husband.
 
-**TDB77:** Tua mah bangin pasal a nei numei leh pasal a nei lo numei in kilamdang uh hi. Pasal nei lo numei in a pumpi leh a lungsim a siangtho nadingin Pasian’ thu a ngaihsun hi. Pasal a nei numei ahih leh, a pasal a lungdamsak nadingin leitung thu a ngaihsun hi.
+**TDB77:** Tua mah bangin pasal a nei numei leh pasal a nei lo numei in kilamdang-te hi. Pasal nei lo numei in a pumpi leh a lungsim a siangtho nadingin Pasian’ thu a ngaihsun hi. Pasal a nei numei ahih leh, a pasal a lungdamsak nadingin leitung thu a ngaihsun hi.
 
-**ZVS:** a ngaihsutna uh khen nih pha hi. Pasal a neilo numeite in a lungsim leh a pumpi uh Topa-a' dingin zangnuam uh ahih manin Topa' nasep bek kinin nei uh hi. Ahi zongin pasal a nei numeite in a pasal uh a lungdamsak theihna dingun hih leitung vai kinin nei uh hi.
+**ZVS:** a ngaihsutna-te khen nih pha hi. Pasal a neilo numeite in a lungsim leh a pumpi-te Topa-a' dingin zangnuam-te ahih manin Topa' nasep bek kinin nei-te hi. Ahi zongin pasal a nei numeite in a pasal-te a lungdamsak theihna dingun hih leitung vai kinin nei-te hi.
 
 **Grammar:** purpose: in order to | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v35
 **EN:** And this I speak for your own profit; not that I may cast a snare upon you, but for that which is comely, and that ye may attend upon the Lord without distraction.
 
-**TDB77:** Tua bang ka cih ciangin note noptuam nadingin ka ci hi. Note tungah thang kam dingin ka gen kei hi. Note in a kituak na gamtat uh a, lungsim buaina om loin Pasian na biak theih nading bekun ci-in ka hong gen hi.
+**TDB77:** Tua bang ka cih ciangin note noptuam nadingin ka ci hi. Note tungah thang kam dingin ka gen kei hi. Note in a kituak na gamtat-te a, lungsim buaina om loin Pasian na biak theih nading bekun ci-in ka hong gen hi.
 
-**ZVS:** Hih bangin ka hong gen ciangin note' haksatna ding deihna hiloin note' hoihna ding ka deihna ahi hi. Note a kilawm a kituakin gamta-in, lungsim leh thatang siit neiloin Topa' na na septheihna ding uh ka hong deihsakna ahi hi.
+**ZVS:** Hih bangin ka hong gen ciangin note' haksatna ding deihna hiloin note' hoihna ding ka deihna ahi hi. Note a kilawm a kituakin gamta-in, lungsim leh thatang siit neiloin Topa' na na septheihna ding-te ka hong deihsakna ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -328,7 +328,7 @@
 
 **TDB77:** Nungak in pasal nei loin a khangham luat leh, a kilawm kei hi ci-in tua nungak a nei mi in ngaihsun a, kiten’ pihsak nop a neih leh, tua mi in a deih bangin hih ta hen; khialhna a om kei hi, kiteengsak hen.
 
-**ZVS:** Ten'pih dingin lawm dongkhin napi-in kiten' nawnlohding a ngaihsunte' thu panin: Ten'pih kei leng a numei tungah a thumanlo hi ding cihna ahi a, zi a deihna lungsim a lianlua ahi a, ten'pihding mah hoih hi, ci-in ngaihsutna ahi zongin a neih leh a lungkimna bangun gamta-in ten'pih uh hen. Tua thu-ah bangmah khialhna omlo hi.
+**ZVS:** Ten'pih dingin lawm dongkhin napi-in kiten' nawnlohding a ngaihsunte' thu panin: Ten'pih kei leng a numei tungah a thumanlo hi ding cihna ahi a, zi a deihna lungsim a lianlua ahi a, ten'pihding mah hoih hi, ci-in ngaihsutna ahi zongin a neih leh a lungkimna bangun gamta-in ten'pih-te hen. Tua thu-ah bangmah khialhna omlo hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix
 

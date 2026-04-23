@@ -65,7 +65,7 @@ A nungta mihing khatciat in nisim aa i khamkhop ding an, i tha om nading an, i p
 ## Singphuukpa le Hei Hiamlo
 **Theme:** Kiginna
 
-A tung lamin i lawm i gual leh midangte tawh kidanna a om kholloh hang' hun ong sawtsawt ciang, a na hanciamzaw, a na kigingzawte mah tha liau in mazangzaw uh hi.
+A tung lamin i lawm i gual leh midangte tawh kidanna a om kholloh hang' hun ong sawtsawt ciang, a na hanciamzaw, a na kigingzawte mah tha liau in mazangzaw-te hi.
 
 ## Singphuukpa le Hei Hiam
 **Theme:** Masak huaite masak theihna
@@ -95,12 +95,12 @@ Hun cih pen second khat na ngawn a gualzo ta dingin manpha aa, hauh ding, mintha
 ## Tuuno le Keivom
 **Theme:** Lungsim Limlangh
 
-Hong daisak nuam, mawh ong zongte in, bangbang ihi zongin paulap tuamtuam nei nuam teitei uh hi. I mawhna hong muhkei leh i u i nau khatpeuh ii mawhna tawh zongh hong ko nuam, hong gensia nuam, hong mawhsak nuam lai veve ding uh hi.
+Hong daisak nuam, mawh ong zongte in, bangbang ihi zongin paulap tuamtuam nei nuam teitei-te hi. I mawhna hong muhkei leh i u i nau khatpeuh ii mawhna tawh zongh hong ko nuam, hong gensia nuam, hong mawhsak nuam lai veve ding-te hi.
 
 ## Sakol Nei Nupa Khat
 **Theme:** Lungsim limlangh
 
-Hong gensia dingte in bangbang i sem i bawl zong, hong gensia veve ding uh hi. Mawhna hong zong nuamte in bangbang ihi zong, hong mawhsak nuam teitei ding uh hi. Mite ii gensiatna hangin i ngaihsutna, i gamtatzia na khelkhel leh ei mah kigim in kisuplawhzaw ding hi.
+Hong gensia dingte in bangbang i sem i bawl zong, hong gensia veve ding-te hi. Mawhna hong zong nuamte in bangbang ihi zong, hong mawhsak nuam teitei ding-te hi. Mite ii gensiatna hangin i ngaihsutna, i gamtatzia na khelkhel leh ei mah kigim in kisuplawhzaw ding hi.
 
 ## Tangvalpa le A Ngaihsutna
 **Theme:** Kingaihsutna
@@ -120,7 +120,7 @@ Mun sang ah i tung phial zong mi khatpeuh pen neu tah, bangmah hikei tah, a niam
 ## Humpi le Zusa
 **Theme:** A kicing kuamah omlo, a hatlo a neilo a siamlote in zongh kimanna nei
 
-I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek uh hi.
+I gualzawh laitak mi dangte simmawh pah ding hilo hi. A thanemte in zongh amau mun ciat ah kimanna na kinei kim tek-te hi.
 
 ## U Hoih
 **Theme:** Piakkhiatna
@@ -160,12 +160,12 @@ Pasian in pen lampi tuamtuam pan hong hopih, i thungetnate hong dawng hi. Thunge
 ## Sa le Be
 **Theme:** Cihtakna
 
-Mihing tampite pen amau hoihlohna kiphawklo in mite tung heh thei uh hi. I hihna bangin kithuakkik thei hi.
+Mihing tampite pen amau hoihlohna kiphawklo in mite tung heh thei-te hi. I hihna bangin kithuakkik thei hi.
 
 ## Pawisiimte le Zu
 **Theme:** Cihtakna
 
-Pawisim mi khat ciat in kei ii tui thawl khat leltak tawh beelpi khat sung aa zu, peng zo tuam samken teh cih ngaihsun tek uh a hihman hi. Na khatpeuh sep ding, bawl ding geelna ah a dangte hong kiging lel unteh, amau hong thei, hong sem lel unteh cih lungsim pen a tung aa tui puate tawh kibang hi. Tua dang lungsim pua, ngaihsutna nei vive kipawl kha, na semkhawm kha lai leh bangmah suaklo ding cihna hi.
+Pawisim mi khat ciat in kei ii tui thawl khat leltak tawh beelpi khat sung aa zu, peng zo tuam samken teh cih ngaihsun tek-te a hihman hi. Na khatpeuh sep ding, bawl ding geelna ah a dangte hong kiging lel unteh, amau hong thei, hong sem lel unteh cih lungsim pen a tung aa tui puate tawh kibang hi. Tua dang lungsim pua, ngaihsutna nei vive kipawl kha, na semkhawm kha lai leh bangmah suaklo ding cihna hi.
 
 ## Zawhngeu Long
 **Theme:** Sepkhiatna
@@ -215,7 +215,7 @@ Tate pen ki it thei mahmah aa, tate in nute’ pate’ itna a phawk zah dingun p
 ## Nupi Thum le A Tate
 **Theme:** Kampi sangin sepkhiatna thupizaw, tate hangin nulepa angtang nuam
 
-Phat zawh thu, gup zawh thu tawh na a piangpiang, maipha a ki ngah den, a kigual zo kha pah cih bang hiloin, a sem a bawlte mah in maipha ngah aa gualzozaw veve uh hi. Tate zongh siamna, pilna, hauhna bangzah takin i nei zong nulepa ii phattuampih ding thupi mahmah hi.
+Phat zawh thu, gup zawh thu tawh na a piangpiang, maipha a ki ngah den, a kigual zo kha pah cih bang hiloin, a sem a bawlte mah in maipha ngah aa gualzozaw veve-te hi. Tate zongh siamna, pilna, hauhna bangzah takin i nei zong nulepa ii phattuampih ding thupi mahmah hi.
 
 ## Khebai Tangvalno
 **Theme:** Thusia omlo - Ei ading a hoih vive
@@ -291,7 +291,7 @@ Tate pen ki it thei mahmah aa, tate in nute' pate' itna a phawk zah dingun phawk
 ## Nupi Thum le A Tate
 **Theme:** Kampi sangin sepkhiatna thupizaw, tate hangin nulepa angtang nuam
 
-Phat zawh thu, gup zawh thu tawh na a piangpiang, maipha a ki ngah den, a kigual zo kha pah cih bang hiloin, a sem a bawlte mah in maipha ngah aa gualzozaw veve uh hi. Tate zongh siamna, pilna, hauhna bangzah takin i nei zong nulepa ii phattuampih ding thupi mahmah hi.
+Phat zawh thu, gup zawh thu tawh na a piangpiang, maipha a ki ngah den, a kigual zo kha pah cih bang hiloin, a sem a bawlte mah in maipha ngah aa gualzozaw veve-te hi. Tate zongh siamna, pilna, hauhna bangzah takin i nei zong nulepa ii phattuampih ding thupi mahmah hi.
 
 ## Khebai Tangvalno
 **Theme:** Thusia omlo - Ei ading a hoih vive

@@ -35,25 +35,25 @@
 ### v2
 **EN:** That ye may be mindful of the words which were spoken before by the holy prophets, and of the commandment of us the apostles of the Lord and Saviour:
 
-**TDB77:** Note in a siangtho kamsangte in nidang lai-inah a gensa thute ahi zongin, note sawltakte tungah hong piak Topa leh Honpa’ thupiakna ahi zongin, na ngaihsut nadingun, hih laikhak nihna sungah note lungsim siangtho uh hong phawksakin ka hong hansuah hi.
+**TDB77:** Note in a siangtho kamsangte in nidang lai-inah a gensa thute ahi zongin, note sawltakte tungah hong piak Topa leh Honpa’ thupiakna ahi zongin, na ngaihsut nadingun, hih laikhak nihna sungah note lungsim siangtho-te hong phawksakin ka hong hansuah hi.
 
-**ZVS:** Tanglai peka kamsang siangthote' thugen kholhte leh note lakah sawltak na a semte in Topa leh Honpa' thupiakte a hong gensawn uh thute na phawkkik ding uh ka deih hi.
+**ZVS:** Tanglai peka kamsang siangthote' thugen kholhte leh note lakah sawltak na a semte in Topa leh Honpa' thupiakte a hong gensawn-te thute na phawkkik ding-te ka deih hi.
 
 ### v3
 **EN:** Knowing this first, that there shall come in the last days scoffers, walking after their own lusts,
 
 **TDB77:** Amasa bel-a theih ding akilawm thu in a nunung bel nite ciangin a kosia thei mite in amaute’ deihgawhna bang gamta-in:
 
-**ZVS:** A masa penin na theihding uh panin: Hun nunung lam ciangin amau pumpi deihna zui-in a gamta mi pawlkhat hong om ding a, amaute in note hong zahpih bawlin,
+**ZVS:** A masa penin na theihding-te panin: Hun nunung lam ciangin amau pumpi deihna zui-in a gamta mi pawlkhat hong om ding a, amaute in note hong zahpih bawlin,
 
 **Grammar:** serial verb: -in (and then)
 
 ### v4
 **EN:** And saying, Where is the promise of his coming? for since the fathers fell asleep, all things continue as they were from the beginning of the creation.
 
-**TDB77:** “Topa hong paikik ding cih thuciamna in koi-ah a om hiam? I pute i pate a si khin zo uh hi; ahi zongin na khempeuh a pian’sak cila kipan a pian’ ngei bangin a om lai hi,” ci-in kosiatna tawh a hong pai ding uh hi.
+**TDB77:** “Topa hong paikik ding cih thuciamna in koi-ah a om hiam? I pute i pate a si khin zo-te hi; ahi zongin na khempeuh a pian’sak cila kipan a pian’ ngei bangin a om lai hi,” ci-in kosiatna tawh a hong pai ding-te hi.
 
-**ZVS:** “Amah a hong paikikna ding a thuciamna a bangci ahi hiam? I pu i pate zong si khinta uh a, leitung piancila kipanin tudong na khempeuh a kibang mahin omom lai hi,” hong ci ding uh hi.
+**ZVS:** “Amah a hong paikikna ding a thuciamna a bangci ahi hiam? I pu i pate zong si khinta-te a, leitung piancila kipanin tudong na khempeuh a kibang mahin omom lai hi,” hong ci ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -62,14 +62,14 @@
 
 **TDB77:** Tang lai-in Pasian’ thupiakna in van ahi zongin, tui sung pan pusuakin, tui tawh a kip lei ahi zongin,
 
-**ZVS:** Amaute in a kitheihmawh bawl uh thu pen: Tanglai pekin Pasian in ama kampauna tawh vantung leh leitung na piangsak hi. Tui sung panin tui mah tawh leitung na piangsak a,
+**ZVS:** Amaute in a kitheihmawh bawl-te thu pen: Tanglai pekin Pasian in ama kampauna tawh vantung leh leitung na piangsak hi. Tui sung panin tui mah tawh leitung na piangsak a,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v6
 **EN:** Whereby the world that then was, being overflowed with water, perished:
 
-**TDB77:** tua thu tawh tua lai takin a om leitung, tui tawh tumin a kisiatna thu ahi zongin tua mite in a ciamteh nuam kei uh hi.
+**TDB77:** tua thu tawh tua lai takin a om leitung, tui tawh tumin a kisiatna thu ahi zongin tua mite in a ciamteh nuam kei-te hi.
 
 **ZVS:** tui tawh a pian'sak leitung pen tui mah tawh na susia leuleu hi.
 
@@ -80,7 +80,7 @@
 
 **TDB77:** Tu-in a om van leh lei in Pasian bia lo mite kisiatna thukhen ni ading, tua thu hangin mei khul nadingin a kikoih khol zo hi.
 
-**ZVS:** Tu-in tua Pasian' kampauna mah tawh, mei tawh haltum dingin tu-in a om vantung leh leitung a kikoihcing hi a, Pasian a umlo mite thu kikhenin a kisuksiat hunding bek ngakin a om ahi uh hi.
+**ZVS:** Tu-in tua Pasian' kampauna mah tawh, mei tawh haltum dingin tu-in a om vantung leh leitung a kikoihcing hi a, Pasian a umlo mite thu kikhenin a kisuksiat hunding bek ngakin a om ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -89,21 +89,21 @@
 
 **TDB77:** Ahih hangin ka itte aw, Pasian ading ni khat in kum tul khat bang ahi zongin, kum tul khat in ni khat bang ahi zongin, hih thu khat na mangngilh kei un.
 
-**ZVS:** Ahi zongin ka itte aw, na mangngilh lohding uh ka deih thu in: Topa-a' dingin ni khat leh kum khat, kum tul khat leh ni khat a kilamdan' luatna omlo hi.
+**ZVS:** Ahi zongin ka itte aw, na mangngilh lohding-te ka deih thu in: Topa-a' dingin ni khat leh kum khat, kum tul khat leh ni khat a kilamdan' luatna omlo hi.
 
 ### v9
 **EN:** The Lord is not slack concerning his promise, as some men count slackness; but is longsuffering to us-ward, not willing that any should perish, but that all should come to repentance.
 
-**TDB77:** Mi kim khat in zekai-a a ciamteh theih uh bangin Pasian in a thuciamna-ah a zekai kei hi. Kuamah kisia loin, mi khempeuhte in kisikkikna a ngah nadingun deihin, amah in note hong thuak hi.
+**TDB77:** Mi kim khat in zekai-a a ciamteh theih-te bangin Pasian in a thuciamna-ah a zekai kei hi. Kuamah kisia loin, mi khempeuhte in kisikkikna a ngah nadingun deihin, amah in note hong thuak hi.
 
-**ZVS:** Mi pawlkhatte' ngaihsut bangin Topa in a kamciamna a hong tungsak hak hi zenzen lo hi. Note khat beek in siatna na thuakkhak ding uh deihloin na vekpi-un na kisik ding uh deih ahih manin hong pai nailohna pen note hong khualna hizaw hi.
+**ZVS:** Mi pawlkhatte' ngaihsut bangin Topa in a kamciamna a hong tungsak hak hi zenzen lo hi. Note khat beek in siatna na thuakkhak ding-te deihloin na vekpi-un na kisik ding-te deih ahih manin hong pai nailohna pen note hong khualna hizaw hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v10
 **EN:** But the day of the Lord will come as a thief in the night; in the which the heavens shall pass away with a great noise, and the elements shall melt with fervent heat, the earth also and the works that are therein shall be burned up.
 
-**TDB77:** Guta bangin Topa’ Ni in hong tung ding hi. Tua Ni ciangin vantungte in aw lian mahmah tawh mangthang ding a, a nate zong sa lua-in a kisia ding uh hi. Leitunga kipan leitungah kibawl na khempeuh a kangtum ding uh hi.
+**TDB77:** Guta bangin Topa’ Ni in hong tung ding hi. Tua Ni ciangin vantungte in aw lian mahmah tawh mangthang ding a, a nate zong sa lua-in a kisia ding-te hi. Leitunga kipan leitungah kibawl na khempeuh a kangtum ding-te hi.
 
 **ZVS:** Ahi zongin theihkholh lohpi-in guta bangin Topa hong paiding Ni hong tung ding hi. Tua Ni ciangin nakpi takin a ging in vantungte maimang sakin, vantung nate mei in kangtumin maimang ding a, leitung leh a tunga om na khempeuh a mangthang ding hi.
 
@@ -133,7 +133,7 @@
 ### v14
 **EN:** Wherefore, beloved, seeing that ye look for such things, be diligent that ye may be found of him in peace, without spot, and blameless.
 
-**TDB77:** Tua ahih ciangin ka itte aw, note in hih nate lamenin na om uh ahih ciangin, ama mai-ah mawhsakna om lo, ninna tawh kinuh loin nuam takin na om nadingun na hahkat un.
+**TDB77:** Tua ahih ciangin ka itte aw, note in hih nate lamenin na om-te ahih ciangin, ama mai-ah mawhsakna om lo, ninna tawh kinuh loin nuam takin na om nadingun na hahkat un.
 
 **ZVS:** Tua ahih ciangin ka itte aw, hih Ni ding ngakin na om laitakun Pasian' muhna-ah paubaan'na om hetloin amah tawh nuamtakin na omkhawm theihna dingun hanciam un.
 
@@ -144,23 +144,23 @@
 
 **TDB77:** I it i sanggampa Paul in a ngah lungpilna bangin no kiangah gelhin hong piak lai ahi zongin, ama thuhilhna lai khempeuh ah ahi zongin, hih nate tawh kizomin a gelh mah bangin i Topa’ thuakna in gupna thu ahi ci-in na ciamteh un.
 
-**ZVS:** I sanggam Paul in Pasian' piak pilna zangin note kiangah lai a hong gelhnate sungah a gen mah bangin note khempeuh in hotkhiatna na ngahtheihna ding uh hun hong piakna-in Topa hong zekai ahihna thu na phawk un.
+**ZVS:** I sanggam Paul in Pasian' piak pilna zangin note kiangah lai a hong gelhnate sungah a gen mah bangin note khempeuh in hotkhiatna na ngahtheihna ding-te hun hong piakna-in Topa hong zekai ahihna thu na phawk un.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v16
 **EN:** As also in all his epistles, speaking in them of these things; in which are some things hard to be understood, which they that are unlearned and unstable wrest, as they do also the other scriptures, unto their own destruction.
 
-**TDB77:** Tua laite sungah a tel hak thu zong a om hi. A siam lo mi, a kip lo mite in tua thute-a kipan a om lai Lai Siangtho khiatna lumletin amau pumpi uh a siasak uh hi.
+**TDB77:** Tua laite sungah a tel hak thu zong a om hi. A siam lo mi, a kip lo mite in tua thute-a kipan a om lai Lai Siangtho khiatna lumletin amau pumpi-te a siasak-te hi.
 
-**ZVS:** Lai a hong gelhna sungah a thugente tu-ate mah a gennuam ahi hi. A laigelhna sungah a telhak thu tampi om a, theihna kicing loin lungsim kiplo mi pawlkhatte in Lai Siangtho sung thu a ututun a kawihei uh bangin Paul' thugente zong a manlopi-in khia uh ahih manin siatna a tuaklawh uh hi.
+**ZVS:** Lai a hong gelhna sungah a thugente tu-ate mah a gennuam ahi hi. A laigelhna sungah a telhak thu tampi om a, theihna kicing loin lungsim kiplo mi pawlkhatte in Lai Siangtho sung thu a ututun a kawihei-te bangin Paul' thugente zong a manlopi-in khia-te ahih manin siatna a tuaklawh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Ye therefore, beloved, seeing ye know these things before, beware lest ye also, being led away with the error of the wicked, fall from your own stedfastness.
 
-**TDB77:** Tua ahih ciangin ka itte aw, mi gilote khialhna note in zui-in note lungkipna uh pan na puk loh nadingun, tua nate thei khol na hih ciangun na kikem un.
+**TDB77:** Tua ahih ciangin ka itte aw, mi gilote khialhna note in zui-in note lungkipna-te pan na puk loh nadingun, tua nate thei khol na hih ciangun na kikem un.
 
 **ZVS:** Tua ahih ciangin ka itte aw, hih thute theikhol un la, ngeina man zuilo mite' khemna zuikha-in na bulkip panun na pukkhak lohna dingun na kidawm un.
 

@@ -22,9 +22,9 @@
 **Context:** Refers to the geographical direction, specifically 'west' (nitum) side.
 **Example:** Jordan nitumna lam Israel tungah
 
-### uk uh hi = they ruled/were officers
+### uk-te hi = they ruled/were officers
 **Context:** The verb 'uk' (to rule/govern) in the past tense plural form.
-**Example:** Israel tungah Topa’ nasepna khempeuh ah uk uh hi.
+**Example:** Israel tungah Topa’ nasepna khempeuh ah uk-te hi.
 
 ### ukpi = chief/leader
 **Context:** The primary leader or chief among a group.
@@ -32,7 +32,7 @@
 
 ### kikantelna = census/reckoning
 **Context:** The act of counting or registering people, often for military or administrative purposes.
-**Example:** kikantelna bawl uh a
+**Example:** kikantelna bawl-te a
 
 ### kum sawmlina = the fortieth year
 **Context:** A specific time marker, 'sawm' (ten) times 'li' (four).

@@ -53,9 +53,9 @@
 ### v4
 **EN:** And Ben–hadad hearkened unto king Asa, and sent the captains of his armies against the cities of Israel; and they smote Ijon, and Dan, and Abel–maim, and all the store cities of Naphtali.
 
-**TDB77:** Tua ciangin Benhadad in kumpi Asa’ thu ngai-in Israel khuapite a do dingin a galkap ukte sawl a, amaute in Ijon, Dan, Abelmaim, leh Naftali vankoihna khuapite zo uh hi.
+**TDB77:** Tua ciangin Benhadad in kumpi Asa’ thu ngai-in Israel khuapite a do dingin a galkap ukte sawl a, amaute in Ijon, Dan, Abelmaim, leh Naftali vankoihna khuapite zo-te hi.
 
-**ZVS:** Tua ciangin Benhadad in Kumpi Asa' thu ngai-in Israel khuapite a sim dingin a galkap ukte sawl a, amaute in Ijon, Dan, Abelmaim, leh Naftali vankoihna khuapite a zo uh hi.
+**ZVS:** Tua ciangin Benhadad in Kumpi Asa' thu ngai-in Israel khuapite a sim dingin a galkap ukte sawl a, amaute in Ijon, Dan, Abelmaim, leh Naftali vankoihna khuapite a zo-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -69,9 +69,9 @@
 ### v6
 **EN:** Then Asa the king took all Judah; and they carried away the stones of Ramah, and the timber thereof, wherewith Baasha was building; and he built therewith Geba and Mizpah.
 
-**TDB77:** Tua ciangin kumpi Asa in Judah mi khempeuh khawmin thu pia a, Baasha in inn lamna a, a zat Ramah suang leh a singte amaute in puakhia a, tuate tawh Geba leh Mizpah lam uh hi.
+**TDB77:** Tua ciangin kumpi Asa in Judah mi khempeuh khawmin thu pia a, Baasha in inn lamna a, a zat Ramah suang leh a singte amaute in puakhia a, tuate tawh Geba leh Mizpah lam-te hi.
 
-**ZVS:** Tua ciangin Kumpi Asa in Judah mi khempeuh khawmin thu pia a, Baasha in lamna-a a zat Ramah suang leh a singte amaute in puakhia uh a, tuate tawh Geba leh Mizpah a lam uh hi.
+**ZVS:** Tua ciangin Kumpi Asa in Judah mi khempeuh khawmin thu pia a, Baasha in lamna-a a zat Ramah suang leh a singte amaute in puakhia-te a, tuate tawh Geba leh Mizpah a lam-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -141,9 +141,9 @@
 ### v14
 **EN:** And they buried him in his own sepulchres, which he had made for himself in the city of David, and laid him in the bed which was filled with sweet odours and divers kinds of spices prepared by the apothecaries' art: and they made a very great burning for him.
 
-**TDB77:** David khuapi sungah amahmah in a khuak han sungah amaute in vui uh hi. Paknamtui bawl siamte in a bawl a namtui a nam tuamtuamte tawh a kidim hankuang sungah amah sial uh hi; tua ciangin amah zahtakna-in amaute in meiphual lian mahmah khat cih uh hi.
+**TDB77:** David khuapi sungah amahmah in a khuak han sungah amaute in vui-te hi. Paknamtui bawl siamte in a bawl a namtui a nam tuamtuamte tawh a kidim hankuang sungah amah sial-te hi; tua ciangin amah zahtakna-in amaute in meiphual lian mahmah khat cih-te hi.
 
-**ZVS:** David khuapi sungah amahmah in a khuak han sungah amaute in a vui uh hi. Paknamtui bawl siamte in a bawl a namtui a nam tuamtuamte tawh a kidim hankuang sungah amah a sial uh hi. Tua ciangin amah zahtakna-in amaute in meiphual lian mahmah khat a cih uh hi.
+**ZVS:** David khuapi sungah amahmah in a khuak han sungah amaute in a vui-te hi. Paknamtui bawl siamte in a bawl a namtui a nam tuamtuamte tawh a kidim hankuang sungah amah a sial-te hi. Tua ciangin amah zahtakna-in amaute in meiphual lian mahmah khat a cih-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

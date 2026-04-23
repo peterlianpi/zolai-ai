@@ -123,9 +123,9 @@
 ### v12
 **EN:** For the rich men thereof are full of violence, and the inhabitants thereof have spoken lies, and their tongue is deceitful in their mouth.
 
-**TDB77:** Na mi haute uh mi zawngte tungah tatsia mahmah in, na khua sung mi khempeuh uh zuau gen vive hi uh a, a kam un khemna thu bekbek gen hi.
+**TDB77:** Na mi haute-te mi zawngte tungah tatsia mahmah in, na khua sung mi khempeuh-te zuau gen vive hi-te a, a kam un khemna thu bekbek gen hi.
 
-**ZVS:** Na mihaute uh mizawngte tungah tatsia mahmahin, na khuasung mi khempeuh uh zuaugen vive ahi uh a, a kam un khemna thu bekbek gen hi.
+**ZVS:** Na mihaute-te mizawngte tungah tatsia mahmahin, na khuasung mi khempeuh-te zuaugen vive ahi-te a, a kam un khemna thu bekbek gen hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
@@ -141,27 +141,27 @@
 ### v14
 **EN:** Thou shalt eat, but not be satisfied; and thy casting down shall be in the midst of thee; and thou shalt take hold, but shalt not deliver; and that which thou deliverest will I give up to the sword.
 
-**TDB77:** An na nek hangun na kham kei ding uh a, na gil uh kial lai veve ding hi. Nate na koihcing uh hangin phatuam lo ding hi. Galte in tua na koihcing uh nate susia veve ding hi.
+**TDB77:** An na nek hangun na kham kei ding-te a, na gil-te kial lai veve ding hi. Nate na koihcing-te hangin phatuam lo ding hi. Galte in tua na koihcing-te nate susia veve ding hi.
 
-**ZVS:** An na nek hangun na kham kei ding uh a, na gil uh kiallai veve ding hi. Na na koihcing uh hangin phatuamlo ding hi. Galte in tua na koihcing uh nate susia veve ding hi.
+**ZVS:** An na nek hangun na kham kei ding-te a, na gil-te kiallai veve ding hi. Na na koihcing-te hangin phatuamlo ding hi. Galte in tua na koihcing-te nate susia veve ding hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Thou shalt sow, but thou shalt not reap; thou shalt tread the olives, but thou shalt not anoint thee with oil; and sweet wine, but shalt not drink wine.
 
-**TDB77:** Khai na tuh uh hangin a gah na at kei ding uh hi. Oliv gah na cil uh hangin a thau na zang kha kei ding uh a, leenggah na cil uh hangin a zu na dawn kha kei ding uh hi.
+**TDB77:** Khai na tuh-te hangin a gah na at kei ding-te hi. Oliv gah na cil-te hangin a thau na zang kha kei ding-te a, leenggah na cil-te hangin a zu na dawn kha kei ding-te hi.
 
-**ZVS:** Khai na tuh uh hangin an na la kei ding uh hi. Oliv gah na cil uh hangin a thau na zangkha kei ding uh a, leenggah na cil uh hangin a zu na dawnkha kei ding uh hi.
+**ZVS:** Khai na tuh-te hangin an na la kei ding-te hi. Oliv gah na cil-te hangin a thau na zangkha kei ding-te a, leenggah na cil-te hangin a zu na dawnkha kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v16
 **EN:** For the statutes of Omri are kept, and all the works of the house of Ahab, and ye walk in their counsels; that I should make thee a desolation, and the inhabitants thereof an hissing: therefore ye shall bear the reproach of my people.
 
-**TDB77:** Bang hang hiam cih leh Kumpi Omri’ gamtatna teng zui-in, ama tapa Kumpi Ahab’ sep khempeuh na sem uh a, amau’ gamtat khempeuh na zui uh hi. Tua ahih manin note kong susia ding hi. Minam dangte in note hong nuihsanin, amaute’ simmawhna na thuak ding uh hi.
+**TDB77:** Bang hang hiam cih leh Kumpi Omri’ gamtatna teng zui-in, ama tapa Kumpi Ahab’ sep khempeuh na sem-te a, amau’ gamtat khempeuh na zui-te hi. Tua ahih manin note kong susia ding hi. Minam dangte in note hong nuihsanin, amaute’ simmawhna na thuak ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh Kumpi Omri' gamtatna zui-in, ama tapa Kumpi Ahab' sep khempeuh na sem uh a, amau' gamtat khempeuh na zui uh hi. Tua ahih manin note kong susia ding hi. Minam dangte in note hong nuihsanin, amaute' simmnawhna na thuak ding uh hi.
+**ZVS:** Bang hang hiam cih leh Kumpi Omri' gamtatna zui-in, ama tapa Kumpi Ahab' sep khempeuh na sem-te a, amau' gamtat khempeuh na zui-te hi. Tua ahih manin note kong susia ding hi. Minam dangte in note hong nuihsanin, amaute' simmnawhna na thuak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | causal: because | plural: uh marker
 

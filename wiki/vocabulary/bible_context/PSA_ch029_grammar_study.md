@@ -82,9 +82,9 @@
 ### v9
 **EN:** The voice of the
 
-**TDB77:** Topa’ aw in singkungte kiheekgawp sak a, gammang tulak hawkkhia-in kolhsak hi; a biakinn sungah a vekpi un awng-in “Minthan’na” ci uh hi.
+**TDB77:** Topa’ aw in singkungte kiheekgawp sak a, gammang tulak hawkkhia-in kolhsak hi; a biakinn sungah a vekpi un awng-in “Minthan’na” ci-te hi.
 
-**ZVS:** { Topa' } awging in singkungte heekgawp a, gammang tulak hawkkhia-in a kolhsak hi. Ama biakinn sungah a vekpi-un awngin, “Pasian' min thang ta hen,” a ci uh hi.
+**ZVS:** { Topa' } awging in singkungte heekgawp a, gammang tulak hawkkhia-in a kolhsak hi. Ama biakinn sungah a vekpi-un awngin, “Pasian' min thang ta hen,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

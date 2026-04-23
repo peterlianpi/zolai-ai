@@ -30,43 +30,43 @@
 
 **TDB77:** Ute naute aw, a hun leh a nite thu gelh a, kong piak nading a om kei hi.
 
-**ZVS:** Ahi zongin sanggamte aw, hih thu hong pian'ding hun tawh kisai kong gelh ding uh kisamlo hi.
+**ZVS:** Ahi zongin sanggamte aw, hih thu hong pian'ding hun tawh kisai kong gelh ding-te kisamlo hi.
 
 **Grammar:** negation: kei
 
 ### v2
 **EN:** For yourselves know perfectly that the day of the Lord so cometh as a thief in the night.
 
-**TDB77:** Bang hang hiam na cih uh leh, zan a, gutate hong pai mah bangin Topa’ Ni in hong tung ding hi ci-in note mah in a tel takin na thei uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, zan a, gutate hong pai mah bangin Topa’ Ni in hong tung ding hi ci-in note mah in a tel takin na thei-te hi.
 
-**ZVS:** Bang hang hiam cih leh Topa hong pai ding Ni pen zan-a gutate bangin theihkholh lohin hong tung ding hi, ci-in note in teltakin na theihsa uh ahi hi.
+**ZVS:** Bang hang hiam cih leh Topa hong pai ding Ni pen zan-a gutate bangin theihkholh lohin hong tung ding hi, ci-in note in teltakin na theihsa-te ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v3
 **EN:** For when they shall say, Peace and safety; then sudden destruction cometh upon them, as travail upon a woman with child; and they shall not escape.
 
-**TDB77:** Amaute in, “Nopsakna a om hi, launa om lo hi,” ci-in a gen lai takun, ta gai numei tungah ta suah hun gimna a tun’ bangin amaute tungah kisiatna gal in thakhatin tung ding a, suahtakna neukha beek a ngah kei ding uh hi.
+**TDB77:** Amaute in, “Nopsakna a om hi, launa om lo hi,” ci-in a gen lai takun, ta gai numei tungah ta suah hun gimna a tun’ bangin amaute tungah kisiatna gal in thakhatin tung ding a, suahtakna neukha beek a ngah kei ding-te hi.
 
-**ZVS:** Mite in, “Thu khempeuh a hoih laitak hi a, bangmah patauhna ding omlo hi,” a cih laitakin thakhatthu-in amaute tungah siatna hong tungvat ding hi. Nausuah natna bangin gimna thuak ding uh a, kuamah suaktalo ding uh hi.
+**ZVS:** Mite in, “Thu khempeuh a hoih laitak hi a, bangmah patauhna ding omlo hi,” a cih laitakin thakhatthu-in amaute tungah siatna hong tungvat ding hi. Nausuah natna bangin gimna thuak ding-te a, kuamah suaktalo ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** But ye, brethren, are not in darkness, that that day should overtake you as a thief.
 
-**TDB77:** Ahih hangin ute naute aw, tua Ni in guta mi bangin note tungah a hong tun’ nadingin ah note in khuamial lakah a om na hi kei uh hi.
+**TDB77:** Ahih hangin ute naute aw, tua Ni in guta mi bangin note tungah a hong tun’ nadingin ah note in khuamial lakah a om na hi kei-te hi.
 
-**ZVS:** Ahi zongin sanggamte aw, note ahih leh khuamial gamtatnate gamtalo na hih manun guta bangin tua Ni hong tun'vat ciangin lamdang na sa kei ding uh hi.
+**ZVS:** Ahi zongin sanggamte aw, note ahih leh khuamial gamtatnate gamtalo na hih manun guta bangin tua Ni hong tun'vat ciangin lamdang na sa kei ding-te hi.
 
 **Grammar:** purpose: in order to | negation: kei | plural: uh marker
 
 ### v5
 **EN:** Ye are all the children of light, and the children of the day: we are not of the night, nor of darkness.
 
-**TDB77:** Bang hang hiam na cih uh leh, note khempeuh in khuavak’ tate, sun lai’ tate na hi uh hi. Eite in zan tawh ahi zongin, khuamial tawh ahi zongin a kipawl i hi kei hi.
+**TDB77:** Bang hang hiam na cih-te leh, note khempeuh in khuavak’ tate, sun lai’ tate na hi-te hi. Eite in zan tawh ahi zongin, khuamial tawh ahi zongin a kipawl i hi kei hi.
 
-**ZVS:** Bang hang hiam cih leh note khempeuh, khuavak gamtatna a nei, sun khuavak mite na hi uh a, eite pen khuamial gamtatna a nei, zan khuamial mite ihi kei hi.
+**ZVS:** Bang hang hiam cih leh note khempeuh, khuavak gamtatna a nei, sun khuavak mite na hi-te a, eite pen khuamial gamtatna a nei, zan khuamial mite ihi kei hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -82,7 +82,7 @@
 ### v7
 **EN:** For they that sleep sleep in the night; and they that be drunken are drunken in the night.
 
-**TDB77:** Bang hang hiam na cih uh leh, a ihmu mite in zanin a ihmu thei uh hi. A kham a guite in zong zanin a kham thei uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, a ihmu mite in zanin a ihmu thei-te hi. A kham a guite in zong zanin a kham thei-te hi.
 
 **ZVS:** Zan khuamial pen mite' ihmut hithiat hun leh zukham hun ahi hi.
 
@@ -114,9 +114,9 @@
 ### v11
 **EN:** Wherefore comfort yourselves together, and edify one another, even as also ye do.
 
-**TDB77:** Tua ahih ciangin note in na hihsa uh bangin, khat leh khat kihansuah un la, khat leh khat kikipsak un.
+**TDB77:** Tua ahih ciangin note in na hihsa-te bangin, khat leh khat kihansuah un la, khat leh khat kikipsak un.
 
-**ZVS:** Tua ahih manin tu laitakin na omzia uh mah bangin khatlekhat kihanthawnin na kihuh ciat ta un.
+**ZVS:** Tua ahih manin tu laitakin na omzia-te mah bangin khatlekhat kihanthawnin na kihuh ciat ta un.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -130,7 +130,7 @@
 ### v13
 **EN:** And to esteem them very highly in love for their work's sake. And be at peace among yourselves.
 
-**TDB77:** a bawlnate hangah ki-itna lungsim tawh na zahtak nadingun, kote in kong thuum uh hi. Khat leh khat kilemin na om un.
+**TDB77:** a bawlnate hangah ki-itna lungsim tawh na zahtak nadingun, kote in kong thuum-te hi. Khat leh khat kilemin na om un.
 
 **ZVS:** Amau' nasepna hangin amaute nakpi takin itbawlin zahtak un. Note khatlekhat kilem takin na om un.
 
@@ -171,9 +171,9 @@
 ### v18
 **EN:** In every thing give thanks: for this is the will of God in Christ Jesus concerning you.
 
-**TDB77:** Na khempeuh ah a hong hehpihna phat un. Bang hang hiam na cih uh leh, note in tua bang na bawl dingun Zeisu Khazih hangah Pasian’ deihna ahi hi.
+**TDB77:** Na khempeuh ah a hong hehpihna phat un. Bang hang hiam na cih-te leh, note in tua bang na bawl dingun Zeisu Khazih hangah Pasian’ deihna ahi hi.
 
-**ZVS:** bangbang hong piang ta leh na lungdamna uh Pasian tungah ko tawntung un. Khrih Jesuh tawh kipawlin na nuntakna sung uhah hih bangzia-in na om ding uh Pasian in a hong deih ahi hi.
+**ZVS:** bangbang hong piang ta leh na lungdamna-te Pasian tungah ko tawntung un. Khrih Jesuh tawh kipawlin na nuntakna sung uhah hih bangzia-in na om ding-te Pasian in a hong deih ahi hi.
 
 ### v19
 **EN:** Quench not the Spirit.
@@ -210,7 +210,7 @@
 
 **TDB77:** Nopna hong pia Pasian mah in note khempeuh hong siangthosak ta hen. Note lungsim, na kha leh na pumpi uh, i Topa Zeisu Khazih hong pai kik ciangin mawhsakna tawh a kipelh nadingun hong keem ta hen.
 
-**ZVS:** Nopsakna a hong pia Pasian in na khempeuhah siangthona leh kicin'na hong pia hen la, na kha uh, na nuntakna uh, leh na pumpi uh hoihtakin hong kem hen la, i Topa Jesuh Khrih hong pai ciangin mawhna khat zong a nei hetlo dingin hong bawl ta hen.
+**ZVS:** Nopsakna a hong pia Pasian in na khempeuhah siangthona leh kicin'na hong pia hen la, na kha uh, na nuntakna uh, leh na pumpi-te hoihtakin hong kem hen la, i Topa Jesuh Khrih hong pai ciangin mawhna khat zong a nei hetlo dingin hong bawl ta hen.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -242,7 +242,7 @@
 ### v27
 **EN:** I charge you by the Lord that this epistle be read unto all the holy brethren.
 
-**TDB77:** Hih lai ute naute khempeuh kiangah na simsak nadingun Topa paulamin note thu kong pia uh hi.
+**TDB77:** Hih lai ute naute khempeuh kiangah na simsak nadingun Topa paulamin note thu kong pia-te hi.
 
 **ZVS:** Thu um mi khempeuh' zakdingin hih lai na simna dingun Topa' min tawh ka hong thum hi.
 

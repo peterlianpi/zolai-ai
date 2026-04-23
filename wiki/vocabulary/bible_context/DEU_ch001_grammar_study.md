@@ -63,27 +63,27 @@
 ### v6
 **EN:** The
 
-**TDB77:** ”Horeb gam sungah Topa i Pasian in eite kiangah, ‘Hih mual-ah sau vei na om khin zo uh hi;
+**TDB77:** ”Horeb gam sungah Topa i Pasian in eite kiangah, ‘Hih mual-ah sau vei na om khin zo-te hi;
 
-**ZVS:** “Horeb gam sungah { Topa } i Pasian in eite' kiangah, ‘Hih mualah sauvei na om khinzo uh hi.
+**ZVS:** “Horeb gam sungah { Topa } i Pasian in eite' kiangah, ‘Hih mualah sauvei na om khinzo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Turn you, and take your journey, and go to the mount of the Amorites, and unto all the places nigh thereunto, in the plain, in the hills, and in the vale, and in the south, and by the sea side, to the land of the Canaanites, and unto Lebanon, unto the great river, the river Euphrates.
 
-**TDB77:** kihei-in na khualzin uh kipan un la, Amor mite’ gam mualtung gam leh Arabah kiim, mualtung gam, lei niamna gam, Negeb gam khempeuh, leh Kanaan mite’ gam tuipi gei leh Lebanon, gun golpi ahi Eufrates gun dongin pai un.
+**TDB77:** kihei-in na khualzin-te kipan un la, Amor mite’ gam mualtung gam leh Arabah kiim, mualtung gam, lei niamna gam, Negeb gam khempeuh, leh Kanaan mite’ gam tuipi gei leh Lebanon, gun golpi ahi Eufrates gun dongin pai un.
 
-**ZVS:** Kithawi-in na khualzin uh kipan kik un la, Amor mite' mualtung gam leh Arabah kiim, mualtung gam, lei niamna gam, Negeb gam khempeuh, leh Kanaan mite' gam tuipi gei leh Lebanon, gun golpi ahi Eufratis gun dongin pai un.
+**ZVS:** Kithawi-in na khualzin-te kipan kik un la, Amor mite' mualtung gam leh Arabah kiim, mualtung gam, lei niamna gam, Negeb gam khempeuh, leh Kanaan mite' gam tuipi gei leh Lebanon, gun golpi ahi Eufratis gun dongin pai un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v8
 **EN:** Behold, I have set the land before you: go in and possess the land which the
 
-**TDB77:** En un, note mai-ah leitang ka koih zo hi; pai un la, Topa in na pate uh Abraham, Isaak leh Jakob tung leh amau nunga a suan leh a khakte uh tungah piak dingin a ciam leitang luah un,’ hong ci hi.
+**TDB77:** En un, note mai-ah leitang ka koih zo hi; pai un la, Topa in na pate-te Abraham, Isaak leh Jakob tung leh amau nunga a suan leh a khakte-te tungah piak dingin a ciam leitang luah un,’ hong ci hi.
 
-**ZVS:** En un, note' mai-ah leitang ka koihzo hi. Pai un la, { Topa } in na pate uh Abraham, Isaac, Jakob, leh amau' nunga a suanlekhakte uh tungah piak dingin a ciam leitang luah un,’ hong ci hi.
+**ZVS:** En un, note' mai-ah leitang ka koihzo hi. Pai un la, { Topa } in na pate-te Abraham, Isaac, Jakob, leh amau' nunga a suanlekhakte-te tungah piak dingin a ciam leitang luah un,’ hong ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to
 
@@ -99,18 +99,18 @@
 ### v10
 **EN:** The
 
-**TDB77:** Topa na Pasian un note tampi hong khang sak zo hi, en un, note in tu hunin vantung aksite zah-in tampi na pha uh hi.
+**TDB77:** Topa na Pasian un note tampi hong khang sak zo hi, en un, note in tu hunin vantung aksite zah-in tampi na pha-te hi.
 
-**ZVS:** { Topa } na Pasian un note tampi hong phasakzo hi. En un, note tuhunin vantung aksite zahin tampi na pha uh hi.
+**ZVS:** { Topa } na Pasian un note tampi hong phasakzo hi. En un, note tuhunin vantung aksite zahin tampi na pha-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v11
 **EN:** (The
 
-**TDB77:** Topa, na pate uh Pasian in tu-a zah tul-in note hong khangsak hen la, note tungah hong ciamsa bangin thupha hong pia ta hen!
+**TDB77:** Topa, na pate-te Pasian in tu-a zah tul-in note hong khangsak hen la, note tungah hong ciamsa bangin thupha hong pia ta hen!
 
-**ZVS:** { Topa, } na pate uh Pasian in tu-a zah tulin note hong bawl hen la, note tungah hong ciamsa bangin thupha hong pia ta hen!
+**ZVS:** { Topa, } na pate-te Pasian in tu-a zah tulin note hong bawl hen la, note tungah hong ciamsa bangin thupha hong pia ta hen!
 
 **Grammar:** serial verb: -in (and then)
 
@@ -126,43 +126,43 @@
 ### v13
 **EN:** Take you wise men, and understanding, and known among your tribes, and I will make them rulers over you.
 
-**TDB77:** Na minam uh tawh a kizui-in a pil, thu thei, thu phawksa mi teel un la, note’ lutang-in amaute ka koih ding hi,’ kong ci hi.
+**TDB77:** Na minam-te tawh a kizui-in a pil, thu thei, thu phawksa mi teel un la, note’ lutang-in amaute ka koih ding hi,’ kong ci hi.
 
-**ZVS:** Na minam uh tawh a kizui-in a pil, thuthei, thuphawksa mite teel un la, note' lutangin amaute ka koih ding hi,’ kong ci hi.
+**ZVS:** Na minam-te tawh a kizui-in a pil, thuthei, thuphawksa mite teel un la, note' lutangin amaute ka koih ding hi,’ kong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v14
 **EN:** And ye answered me, and said, The thing which thou hast spoken is good for us to do.
 
-**TDB77:** Note in, ‘Nangma hong gen thu in kote hih dingin hoih hi,’ ci-in nong dawng uh hi.
+**TDB77:** Note in, ‘Nangma hong gen thu in kote hih dingin hoih hi,’ ci-in nong dawng-te hi.
 
-**ZVS:** Note in, ‘Nangma hong gen thu pen kote-a' dingin hoih hi,’ ci-in nong dawng uh hi.
+**ZVS:** Note in, ‘Nangma hong gen thu pen kote-a' dingin hoih hi,’ ci-in nong dawng-te hi.
 
 **Grammar:** quotative: said/saying | adjective: hoih (good) | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v15
 **EN:** So I took the chief of your tribes, wise men, and known, and made them heads over you, captains over thousands, and captains over hundreds, and captains over fifties, and captains over tens, and officers among your tribes.
 
-**TDB77:** Tua ahih ciangin na minam lutang uh ahi, a pil thu phawksa mite ka la a, note tungah lutang-in a tul, a za, a sawmnga, a sawm ukte leh uliante na minam khempeuh sung uhah ka koih hi.
+**TDB77:** Tua ahih ciangin na minam lutang-te ahi, a pil thu phawksa mite ka la a, note tungah lutang-in a tul, a za, a sawmnga, a sawm ukte leh uliante na minam khempeuh sung uhah ka koih hi.
 
-**ZVS:** Tua ahih ciangin na minam lutang uh ahi, a pil thu phawksa mite ka la a, note' tungah lutangin a tul uk, a za uk, a sawmnga uk, a sawm ukte, leh uliante na minam khempeuh sung uhah ka koih hi.
+**ZVS:** Tua ahih ciangin na minam lutang-te ahi, a pil thu phawksa mite ka la a, note' tungah lutangin a tul uk, a za uk, a sawmnga uk, a sawm ukte, leh uliante na minam khempeuh sung uhah ka koih hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then)
 
 ### v16
 **EN:** And I charged your judges at that time, saying, Hear the causes between your brethren, and judge righteously between every man and his brother, and the stranger that is with him.
 
-**TDB77:** Tua hun lai takin na thukhente uh ka thuhilh a, ‘Na sanggamte uh thu neihte za un la, mi khat leh a sanggampa ahi a, amah tawh a om mi khualpa tawh ahi zongin thu a man takin khen un.
+**TDB77:** Tua hun lai takin na thukhente-te ka thuhilh a, ‘Na sanggamte-te thu neihte za un la, mi khat leh a sanggampa ahi a, amah tawh a om mi khualpa tawh ahi zongin thu a man takin khen un.
 
-**ZVS:** “Tua hun laitakin na thukhente uh ka thuhilh a, ‘Na sanggamte uh thu neihte za un la, mi khat leh a sanggampa ahi a, amah tawh a om khualmipa tawh ahi zongin thu a mantakin khen un.
+**ZVS:** “Tua hun laitakin na thukhente-te ka thuhilh a, ‘Na sanggamte-te thu neihte za un la, mi khat leh a sanggampa ahi a, amah tawh a om khualmipa tawh ahi zongin thu a mantakin khen un.
 
 ### v17
 **EN:** Ye shall not respect persons in judgment; but ye shall hear the small as well as the great; ye shall not be afraid of the face of man; for the judgment is God's: and the cause that is too hard for you, bring it unto me, and I will hear it.
 
-**TDB77:** Thukhenna ah angvan na nei kei ding uh hi; a neu leh a liante a kibangin na ngai ding uh hi; mihing maitang na zahtak kei ding uh hi; bang hang hiam cih leh thukhenna in Pasian’ aa ahi hi; note adingin a haksa lua thute kei kiangah nong paipih ding uh a, keimah in tua thu ka za ding hi,’ ka ci hi.
+**TDB77:** Thukhenna ah angvan na nei kei ding-te hi; a neu leh a liante a kibangin na ngai ding-te hi; mihing maitang na zahtak kei ding-te hi; bang hang hiam cih leh thukhenna in Pasian’ aa ahi hi; note adingin a haksa lua thute kei kiangah nong paipih ding-te a, keimah in tua thu ka za ding hi,’ ka ci hi.
 
-**ZVS:** Thukhenna-ah angvan na nei kei ding uh hi. A neu leh a liante a kibangin a thu na ngai ding uh a, maitang zahtak tuam na nei kei ding uh hi. Bang hang hiam cih leh thukhenna pen Pasian-a' ahi hi. Note-a' dingin a haksa lua thute kei kiangah nong paipih ding uh a, keimah in tua thu ka za ding hi,’ ka ci hi.
+**ZVS:** Thukhenna-ah angvan na nei kei ding-te hi. A neu leh a liante a kibangin a thu na ngai ding-te a, maitang zahtak tuam na nei kei ding-te hi. Bang hang hiam cih leh thukhenna pen Pasian-a' ahi hi. Note-a' dingin a haksa lua thute kei kiangah nong paipih ding-te a, keimah in tua thu ka za ding hi,’ ka ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -187,27 +187,27 @@
 ### v20
 **EN:** And I said unto you, Ye are come unto the mountain of the Amorites, which the
 
-**TDB77:** Tua ciangin note’ kiangah, ‘Topa i Pasian in eite hong piak Amor mite’ gam mualtung gam na tung uh hi.
+**TDB77:** Tua ciangin note’ kiangah, ‘Topa i Pasian in eite hong piak Amor mite’ gam mualtung gam na tung-te hi.
 
-**ZVS:** Tua ciangin note' kiangah, ‘{ Topa } i Pasian in eite hong piak Amor mite' mualtung gam na tung khin uh hi.
+**ZVS:** Tua ciangin note' kiangah, ‘{ Topa } i Pasian in eite hong piak Amor mite' mualtung gam na tung khin-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** Behold, the
 
-**TDB77:** En un, Topa na Pasian un note mai-ah leitang koih zo hi; Topa, na pate uh Pasian in note tungah hong gensa bangin pai un la, luah un; lau kei un la, lungkia kei un,’ kong ci hi.
+**TDB77:** En un, Topa na Pasian un note mai-ah leitang koih zo hi; Topa, na pate-te Pasian in note tungah hong gensa bangin pai un la, luah un; lau kei un la, lungkia kei un,’ kong ci hi.
 
-**ZVS:** En un, { Topa } na Pasian un note' mai-ah leitang koihzo hi. { Topa, } na pate uh Pasian in note tungah hong gensa bangin paito-in luah un. Lau kei un la, lungkia kei un,’ kong ci hi.
+**ZVS:** En un, { Topa } na Pasian un note' mai-ah leitang koihzo hi. { Topa, } na pate-te Pasian in note tungah hong gensa bangin paito-in luah un. Lau kei un la, lungkia kei un,’ kong ci hi.
 
 **Grammar:** quotative: said/saying
 
 ### v22
 **EN:** And ye came near unto me every one of you, and said, We will send men before us, and they shall search us out the land, and bring us word again by what way we must go up, and into what cities we shall come.
 
-**TDB77:** Tua ciangin na vekpi-un ka kiangah nong pai uh a, ‘Eite adingin gam va enin, i paitoh nading lampi leh i zuat ding khuapite hong gen kik thei ding eite’ mai-ah mi sawl ni,’ nong ci uh hi.
+**TDB77:** Tua ciangin na vekpi-un ka kiangah nong pai-te a, ‘Eite adingin gam va enin, i paitoh nading lampi leh i zuat ding khuapite hong gen kik thei ding eite’ mai-ah mi sawl ni,’ nong ci-te hi.
 
-**ZVS:** “Tua ciangin na vekpi-un ka kiangah nong pai uh a, ‘Eite-a' dingin gam va enin, i paitohna ding lampi leh i zuat ding khuapite hong genkik thei ding eite' mai-ah mi sawl ni,’ nong ci uh hi.
+**ZVS:** “Tua ciangin na vekpi-un ka kiangah nong pai-te a, ‘Eite-a' dingin gam va enin, i paitohna ding lampi leh i zuat ding khuapite hong genkik thei ding eite' mai-ah mi sawl ni,’ nong ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -221,45 +221,45 @@
 ### v24
 **EN:** And they turned and went up into the mountain, and came unto the valley of Eshcol, and searched it out.
 
-**TDB77:** amaute kithawi-in mualtung gamah paito uh a, Eshkol kuamah pai-in va en uh hi.
+**TDB77:** amaute kithawi-in mualtung gamah paito-te a, Eshkol kuamah pai-in va en-te hi.
 
-**ZVS:** Amaute kithawi-in mualtung gamah paito uh a, Eshkol kuamah pai-in va en uh hi.
+**ZVS:** Amaute kithawi-in mualtung gamah paito-te a, Eshkol kuamah pai-in va en-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And they took of the fruit of the land in their hands, and brought it down unto us, and brought us word again, and said, It is a good land which the
 
-**TDB77:** Amaute in tua gam singgah pawlkhat a khut-un hong tawi-in i kiangah hong tun’pih suk uh a, amaute in eite kiangah thu hong zasak kikin, ‘Topa i Pasian in eite hong piak gam in leitang hoih ahi hi,’ hong ci uh hi.
+**TDB77:** Amaute in tua gam singgah pawlkhat a khut-un hong tawi-in i kiangah hong tun’pih suk-te a, amaute in eite kiangah thu hong zasak kikin, ‘Topa i Pasian in eite hong piak gam in leitang hoih ahi hi,’ hong ci-te hi.
 
-**ZVS:** Amaute in tua gam singgah pawlkhat a khutun hong tawi-in i kiangah hong tun'pihsuk uh a, amaute in eite kiangah thu hong zasak kikin, ‘{ Topa } i Pasian in eite hong piak gam pen leitang hoih ahi hi,’ hong ci uh hi.
+**ZVS:** Amaute in tua gam singgah pawlkhat a khutun hong tawi-in i kiangah hong tun'pihsuk-te a, amaute in eite kiangah thu hong zasak kikin, ‘{ Topa } i Pasian in eite hong piak gam pen leitang hoih ahi hi,’ hong ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** Notwithstanding ye would not go up, but rebelled against the commandment of the
 
-**TDB77:** “Ahi zongin note paito nuam loin, Topa na Pasian uh hong thupiak na nial uh hi;
+**TDB77:** “Ahi zongin note paito nuam loin, Topa na Pasian-te hong thupiak na nial-te hi;
 
-**ZVS:** “Ahi zongin note paito nuamloin, { Topa } na Pasian un hong thupiak na nial uh hi.
+**ZVS:** “Ahi zongin note paito nuamloin, { Topa } na Pasian un hong thupiak na nial-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v27
 **EN:** And ye murmured in your tents, and said, Because the
 
-**TDB77:** na puanbukte uh sungah na phun uh a, ‘Topa in eite hong mudah ahih manin eite susia ding, Amor mite’ khut sungah hong pia dingin Izipt gam panin eite hong paikhiatpih hi.
+**TDB77:** na puanbukte-te sungah na phun-te a, ‘Topa in eite hong mudah ahih manin eite susia ding, Amor mite’ khut sungah hong pia dingin Izipt gam panin eite hong paikhiatpih hi.
 
-**ZVS:** Na puanbukte uh sungah na phun uh a, ‘{ Topa } in eite hong mudah ahih manin eite a hong susia ding Amor mite' khutsungah hong pia dingin Egypt gam panin eite hong paikhiatpih hi.
+**ZVS:** Na puanbukte-te sungah na phun-te a, ‘{ Topa } in eite hong mudah ahih manin eite a hong susia ding Amor mite' khutsungah hong pia dingin Egypt gam panin eite hong paikhiatpih hi.
 
 **Grammar:** purpose: in order to | causal: because | plural: uh marker
 
 ### v28
 **EN:** Whither shall we go up? our brethren have discouraged our heart, saying, The people is greater and taller than we; the cities are great and walled up to heaven; and moreover we have seen the sons of the Anakims there.
 
-**TDB77:** Koi lai-ah paito ding i hi hiam? I sanggamte in i lungsim hong siasak khin uh a, “A mite in ei sangin lian zaw-in sangzaw uh hi; a khuapite lianin van banin ki-uum hi; tua tham loin Anak mite tua munah i mu hi,” hong ci uh hi,’ na ci uh hi.
+**TDB77:** Koi lai-ah paito ding i hi hiam? I sanggamte in i lungsim hong siasak khin-te a, “A mite in ei sangin lian zaw-in sangzaw-te hi; a khuapite lianin van banin ki-uum hi; tua tham loin Anak mite tua munah i mu hi,” hong ci-te hi,’ na ci-te hi.
 
-**ZVS:** Koi lai-ah paito ding ihi hiam? I sanggamte in i lungsim hong siasak khin uh a, “A mite ei sangin lianzaw-in sangzaw uh hi. A khuapite lianin van banin ki-um hi. Tua thamloin Anak mite tua munah ka mu uh hi,” hong ci uh hi,’ na ci uh hi.
+**ZVS:** Koi lai-ah paito ding ihi hiam? I sanggamte in i lungsim hong siasak khin-te a, “A mite ei sangin lianzaw-in sangzaw-te hi. A khuapite lianin van banin ki-um hi. Tua thamloin Anak mite tua munah ka mu-te hi,” hong ci-te hi,’ na ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | plural: uh marker
 
@@ -280,9 +280,9 @@
 ### v31
 **EN:** And in the wilderness, where thou hast seen how that the
 
-**TDB77:** Izipt gam sungah note mit muhah a hih bangin leh mi khat in a tapa a puak bangin hih mun na tun’ matengun lam tawntungah Topa na Pasian un note hong puak na muhsa uh gamlaka mah bangin, note mai-ah a pai Topa na Pasian un note’ adingin hong dosak ding hi,’ kong ci hi.
+**TDB77:** Izipt gam sungah note mit muhah a hih bangin leh mi khat in a tapa a puak bangin hih mun na tun’ matengun lam tawntungah Topa na Pasian un note hong puak na muhsa-te gamlaka mah bangin, note mai-ah a pai Topa na Pasian un note’ adingin hong dosak ding hi,’ kong ci hi.
 
-**ZVS:** Egypt gam sungah note' mit muhah a hih bangin, mi khat in a tapa a puak bangin hih mun na tun' matengun lam tawntungah { Topa } na Pasian un note hong puak na muhsa uh sehnel gama mah bangin, note' mai-ah a pai { Topa } na Pasian un note-a' dingin hong dosak ding hi,’ kong ci hi.
+**ZVS:** Egypt gam sungah note' mit muhah a hih bangin, mi khat in a tapa a puak bangin hih mun na tun' matengun lam tawntungah { Topa } na Pasian un note hong puak na muhsa-te sehnel gama mah bangin, note' mai-ah a pai { Topa } na Pasian un note-a' dingin hong dosak ding hi,’ kong ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will
 
@@ -294,9 +294,9 @@
 ### v33
 **EN:** Who went in the way before you, to search you out a place to pitch your tents in, in fire by night, to shew you by what way ye should go, and in a cloud by day.
 
-**TDB77:** Ahi zongin hih bang thu om hi napi-in, note in na puanbuk lamna mun ding uh hong lak ding leh na pai nading lampi uh hong lak dingin zan-in mei, sun-in meii tawh note mai lampi-ah a pai Topa na Pasian uh na um kei uh hi.
+**TDB77:** Ahi zongin hih bang thu om hi napi-in, note in na puanbuk lamna mun ding-te hong lak ding leh na pai nading lampi-te hong lak dingin zan-in mei, sun-in meii tawh note mai lampi-ah a pai Topa na Pasian-te na um kei-te hi.
 
-**ZVS:** Ahi zongin hih bang thu om hinapi-in, na puanbuk lamna mun ding uh hong lak ding leh na paina ding lampi uh hong lak dingin zanin mei, sunin meii tawh note' mai lampi-ah a pai { Topa } na Pasian uh note in na um kei uh hi.
+**ZVS:** Ahi zongin hih bang thu om hinapi-in, na puanbuk lamna mun ding-te hong lak ding leh na paina ding lampi-te hong lak dingin zanin mei, sunin meii tawh note' mai lampi-ah a pai { Topa } na Pasian-te note in na um kei-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | negation: kei | plural: uh marker
 
@@ -317,9 +317,9 @@
 ### v36
 **EN:** Save Caleb the son of Jephunneh; he shall see it, and to him will I give the land that he hath trodden upon, and to his children, because he hath wholly followed the
 
-**TDB77:** Hih a gilo khang mite khat beek in, na pate uh tungah piak dinga ka ciam gamhoih mu lo ding a, Jefunneh’ tapa Kaleb bek in mu ding hi; amah in tua gam mu ding hi, amah in a lungsim khempeuh tawh Topa zui ahih manin amah leh a tate tungah ama totsa leitang ka pia ding hi!” a ci hi.
+**TDB77:** Hih a gilo khang mite khat beek in, na pate-te tungah piak dinga ka ciam gamhoih mu lo ding a, Jefunneh’ tapa Kaleb bek in mu ding hi; amah in tua gam mu ding hi, amah in a lungsim khempeuh tawh Topa zui ahih manin amah leh a tate tungah ama totsa leitang ka pia ding hi!” a ci hi.
 
-**ZVS:** ‘Hih a gilo khang mite khat beek in, na pate uh tungah piak dinga ka ciam gam hoih na mu kei ding uh a, Jefunneh' tapa Kaleb bek in tua gam mu ding hi. Amah in a lungsim khempeuh tawh { Topa } zui ahih manin amah leh a tate tungah ama totsa leitang ka pia ding hi!’ a ci hi.
+**ZVS:** ‘Hih a gilo khang mite khat beek in, na pate-te tungah piak dinga ka ciam gam hoih na mu kei ding-te a, Jefunneh' tapa Kaleb bek in tua gam mu ding hi. Amah in a lungsim khempeuh tawh { Topa } zui ahih manin amah leh a tate tungah ama totsa leitang ka pia ding hi!’ a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because
 
@@ -344,9 +344,9 @@
 ### v39
 **EN:** Moreover your little ones, which ye said should be a prey, and your children, which in that day had no knowledge between good and evil, they shall go in thither, and unto them will I give it, and they shall possess it.
 
-**TDB77:** Tua tham loin galte’ mimat suak ding hi na cih uh na taneute uh leh, tu hun lai taka asia leh apha a khen thei nai lo na tate uh, tua gamah pai ding a, amaute tungah tua gam ka pia ding a, amaute in tua gam luah ding uh hi.
+**TDB77:** Tua tham loin galte’ mimat suak ding hi na cih-te na taneute-te leh, tu hun lai taka asia leh apha a khen thei nai lo na tate uh, tua gamah pai ding a, amaute tungah tua gam ka pia ding a, amaute in tua gam luah ding-te hi.
 
-**ZVS:** “Tua thamloin galte' mat suak ding hi, na cih uh na taneute uh leh, tuhun laitakin a sia leh a pha a khenthei nailo na tate uh, tua gamah pai ding a, amaute tungah tua gam pia-in, amaute in tua gam luah ding uh hi.
+**ZVS:** “Tua thamloin galte' mat suak ding hi, na cih-te na taneute-te leh, tuhun laitakin a sia leh a pha a khenthei nailo na tate uh, tua gamah pai ding a, amaute tungah tua gam pia-in, amaute in tua gam luah ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -362,52 +362,52 @@
 ### v41
 **EN:** Then ye answered and said unto me, We have sinned against the
 
-**TDB77:** “Tua ciangin note in kei nong dawng uh a, ‘Topa tungah ka khial khin uh hi; Topa i Pasian in hong thupiak bang teek teekin paito-in i do ding hi,’ nong ci uh hi. Na milip-un na galhiam uh tawh na kithawi uh a, mualtung gamah paitoh ding na baih ngaihsut uh hi.
+**TDB77:** “Tua ciangin note in kei nong dawng-te a, ‘Topa tungah ka khial khin-te hi; Topa i Pasian in hong thupiak bang teek teekin paito-in i do ding hi,’ nong ci-te hi. Na milip-un na galhiam-te tawh na kithawi-te a, mualtung gamah paitoh ding na baih ngaihsut-te hi.
 
-**ZVS:** “Tua ciangin note in kei nong dawng uh a, ‘{ Topa' } tungah ka khial khin uh hi. { Topa } i Pasian in hong thupiak bang teekteekin paito-in i do ding hi,’ nong ci uh hi. Na milipun na galhiam uh tawh na kithawi uh a, mualtung gamah paitoh ding na baih ngaihsut uh hi.
+**ZVS:** “Tua ciangin note in kei nong dawng-te a, ‘{ Topa' } tungah ka khial khin-te hi. { Topa } i Pasian in hong thupiak bang teekteekin paito-in i do ding hi,’ nong ci-te hi. Na milipun na galhiam-te tawh na kithawi-te a, mualtung gamah paitoh ding na baih ngaihsut-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v42
 **EN:** And the
 
-**TDB77:** Tua ciangin Topa in kei kiangah, ‘Amaute kiangah gen in: Note lakah kei om lo ka hih manin kuanto kei un la, do kei un; tua bangin kuanto le uh cin na galte uh na lel ding uh hi,’ ci in, hong ci hi.
+**TDB77:** Tua ciangin Topa in kei kiangah, ‘Amaute kiangah gen in: Note lakah kei om lo ka hih manin kuanto kei un la, do kei un; tua bangin kuanto le-te cin na galte-te na lel ding-te hi,’ ci in, hong ci hi.
 
-**ZVS:** “Tua ciangin { Topa } in kei kiangah, ‘Amaute kiangah gen in: Note lakah kei omlo ka hih manin kuanto kei un la, do kei un. Tua bangin kuanto le uh cin na galte uh na lel ding uh hi, ci in,’ hong ci hi.
+**ZVS:** “Tua ciangin { Topa } in kei kiangah, ‘Amaute kiangah gen in: Note lakah kei omlo ka hih manin kuanto kei un la, do kei un. Tua bangin kuanto le-te cin na galte-te na lel ding-te hi, ci in,’ hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v43
 **EN:** So I spake unto you; and ye would not hear, but rebelled against the commandment of the
 
-**TDB77:** Tua ahih ciangin note kiangah kong gen a, note in na ngai nuam kei uh hi; Topa’ thupiakna na nial uh a, mualtung gamah na kuanto hamtang uh hi.
+**TDB77:** Tua ahih ciangin note kiangah kong gen a, note in na ngai nuam kei-te hi; Topa’ thupiakna na nial-te a, mualtung gamah na kuanto hamtang-te hi.
 
-**ZVS:** Tua ahih ciangin note kiangah kong gen a, note in na ngai nuam kei uh hi. { Topa' } thupiakna na nial uh a, mualtung gamah na kuanto hamtang uh hi.
+**ZVS:** Tua ahih ciangin note kiangah kong gen a, note in na ngai nuam kei-te hi. { Topa' } thupiakna na nial-te a, mualtung gamah na kuanto hamtang-te hi.
 
 **Grammar:** sequence: then/therefore | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v44
 **EN:** And the Amorites, which dwelt in that mountain, came out against you, and chased you, as bees do, and destroyed you in Seir, even unto Hormah.
 
-**TDB77:** Tua ciangin tua mualtung gamah a teeng Amor mite hong kuanin, Seir gam Hormah ciang dongah khuai bangin hong delhin hong zo uh hi.
+**TDB77:** Tua ciangin tua mualtung gamah a teeng Amor mite hong kuanin, Seir gam Hormah ciang dongah khuai bangin hong delhin hong zo-te hi.
 
-**ZVS:** Tua ciangin tua mualtung gamah a teng Amor mite hong kuanin, Seir gam Hormah ciangdongah khuai bangin hong delhin hong zo uh hi.
+**ZVS:** Tua ciangin tua mualtung gamah a teng Amor mite hong kuanin, Seir gam Hormah ciangdongah khuai bangin hong delhin hong zo-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v45
 **EN:** And ye returned and wept before the
 
-**TDB77:** Note hong ciahkikin Topa mai-ah na kap uh hi; ahih hangin Topa in na aw uh hong ngai loin, a bil zong hong ngat lo hi.
+**TDB77:** Note hong ciahkikin Topa mai-ah na kap-te hi; ahih hangin Topa in na aw-te hong ngai loin, a bil zong hong ngat lo hi.
 
-**ZVS:** Note hong ciahkikin { Topa' } mai-ah na kap uh hi. Ahih hangin { Topa } in na aw uh hong ngailoin, a bil zong hong ngatlo hi.
+**ZVS:** Note hong ciahkikin { Topa' } mai-ah na kap-te hi. Ahih hangin { Topa } in na aw-te hong ngailoin, a bil zong hong ngatlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v46
 **EN:** So ye abode in Kadesh many days, according unto the days that ye abode there.
 
-**TDB77:** Tua ahih ciangin tua thu hangin ni tampi sung Kadesh munah na om uh hi.
+**TDB77:** Tua ahih ciangin tua thu hangin ni tampi sung Kadesh munah na om-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

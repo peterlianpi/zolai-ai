@@ -51,9 +51,9 @@
 ### v4
 **EN:** They that hate me without a cause are more than the hairs of mine head: they that would destroy me, being mine enemies wrongfully, are mighty: then I restored that which I took not away.
 
-**TDB77:** Thu omlopi-a kei hong mudah mi, ka lu tunga samzangte sangin tamzaw uh hi; kei hong susia ding, zuauthu tawh hong dote hat mahmah uh hi. Kei’ guk lohpi, ke’n loh ding ka hi hiam?
+**TDB77:** Thu omlopi-a kei hong mudah mi, ka lu tunga samzangte sangin tamzaw-te hi; kei hong susia ding, zuauthu tawh hong dote hat mahmah-te hi. Kei’ guk lohpi, ke’n loh ding ka hi hiam?
 
-**ZVS:** Thu omlopi-in kei a hong mudah mi, ka lu tunga samzangte sangin tamzaw uh hi. Kei a hong susia ding, zuauthu tawh a hong dote hat mahmah uh hi. Kei' guk lohpi ke'n loh ding ka hi hiam?
+**ZVS:** Thu omlopi-in kei a hong mudah mi, ka lu tunga samzangte sangin tamzaw-te hi. Kei a hong susia ding, zuauthu tawh a hong dote hat mahmah-te hi. Kei' guk lohpi ke'n loh ding ka hi hiam?
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
@@ -117,9 +117,9 @@
 ### v12
 **EN:** They that sit in the gate speak against me; and I was the song of the drunkards.
 
-**TDB77:** Khua kongpi sung a tu mite’ gengen ka hi a, zukhamte in keimah la-in hong sa uh hi.
+**TDB77:** Khua kongpi sung a tu mite’ gengen ka hi a, zukhamte in keimah la-in hong sa-te hi.
 
-**ZVS:** Kongzing lakah mite' gengen ka hi a, zukhamte in keima thu la-in hong sa uh hi.
+**ZVS:** Kongzing lakah mite' gengen ka hi a, zukhamte in keima thu la-in hong sa-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -194,23 +194,23 @@
 ### v21
 **EN:** They gave me also gall for my meat; and in my thirst they gave me vinegar to drink.
 
-**TDB77:** Amaute in an dingin gu hong pia uh a, ka dangtakna-ah dawn dingin tuithuk hong pia uh hi.
+**TDB77:** Amaute in an dingin gu hong pia-te a, ka dangtakna-ah dawn dingin tuithuk hong pia-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v22
 **EN:** Let their table become a snare before them: and that which should have been for their welfare, let it become a trap.
 
-**TDB77:** Amau mai-a a sabuai uh thangzak suaksak in la, amau biakna pawite tehlop suaksak in.
+**TDB77:** Amau mai-a a sabuai-te thangzak suaksak in la, amau biakna pawite tehlop suaksak in.
 
 **ZVS:** Amau' mai-a kilui ante thangzak suaksak in la, amau' biakna pawi ante tehlop suaksak in.
 
 ### v23
 **EN:** Let their eyes be darkened, that they see not; and make their loins continually to shake.
 
-**TDB77:** Khua a muh theih loh nadingun amau mit mialsak in la, amau kawngte uh linglingsak in.
+**TDB77:** Khua a muh theih loh nadingun amau mit mialsak in la, amau kawngte-te linglingsak in.
 
-**ZVS:** Khua a muh theihlohna dingun amau' mit mialsak in la, a kawngte uh zawcipsak in.
+**ZVS:** Khua a muh theihlohna dingun amau' mit mialsak in la, a kawngte-te zawcipsak in.
 
 ### v24
 **EN:** Pour out thine indignation upon them, and let thy wrathful anger take hold of them.
@@ -231,23 +231,23 @@
 ### v26
 **EN:** For they persecute him whom thou hast smitten; and they talk to the grief of those whom thou hast wounded.
 
-**TDB77:** Bang hang hiam cih leh nangmah in na satgawp mi amaute in bawlsia uh a, nangmah in na liamsaksa mi amaute in gimsak sawnsawn uh hi.
+**TDB77:** Bang hang hiam cih leh nangmah in na satgawp mi amaute in bawlsia-te a, nangmah in na liamsaksa mi amaute in gimsak sawnsawn-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v27
 **EN:** Add iniquity unto their iniquity: and let them not come into thy righteousness.
 
-**TDB77:** Amau dan thuakna ban-ah dan thuaksak thuahthuah in la, nangma tung panin suahtakna ngah kei ta uh hen.
+**TDB77:** Amau dan thuakna ban-ah dan thuaksak thuahthuah in la, nangma tung panin suahtakna ngah kei ta-te hen.
 
-**ZVS:** Amau' gim thuakna banah thuaksak thuahthuah lai in la, nangma tung panin suahtakna ngah kei ta uh hen.
+**ZVS:** Amau' gim thuakna banah thuaksak thuahthuah lai in la, nangma tung panin suahtakna ngah kei ta-te hen.
 
 ### v28
 **EN:** Let them be blotted out of the book of the living, and not be written with the righteous.
 
-**TDB77:** A nungtate’ laibu sung panin amaute kiphiatsak in la, miphate lakah a min uh kikhumsak kei in.
+**TDB77:** A nungtate’ laibu sung panin amaute kiphiatsak in la, miphate lakah a min-te kikhumsak kei in.
 
-**ZVS:** A nungtate' laibu sung panin amaute kiphiatsak in la, miphate lakah a min uh kikhumsak kei in.
+**ZVS:** A nungtate' laibu sung panin amaute kiphiatsak in la, miphate lakah a min-te kikhumsak kei in.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -279,9 +279,9 @@
 ### v32
 **EN:** The humble shall see this, and be glad: and your heart shall live that seek God.
 
-**TDB77:** Nen’niamna a thuakte hih musak un la lungdam hen; Pasian a zong note aw, na lungsim uh nosuak sak kik un.
+**TDB77:** Nen’niamna a thuakte hih musak un la lungdam hen; Pasian a zong note aw, na lungsim-te nosuak sak kik un.
 
-**ZVS:** Netniamna a thuakte in hih thu mu-in lungdam uh hen. Pasian a zong note aw, na lungsim uh nosuaksak kik un.
+**ZVS:** Netniamna a thuakte in hih thu mu-in lungdam-te hen. Pasian a zong note aw, na lungsim-te nosuaksak kik un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -297,25 +297,25 @@
 ### v34
 **EN:** Let the heaven and earth praise him, the seas, and every thing that moveth therein.
 
-**TDB77:** Vantung leh leitung, tuipi leh a sunga gamtang khempeuhte in amah phat ta uh hen.
+**TDB77:** Vantung leh leitung, tuipi leh a sunga gamtang khempeuhte in amah phat ta-te hen.
 
-**ZVS:** Vantung leh leitung, tuipi leh a sungah a om khempeuhte in amah phat ta uh hen.
+**ZVS:** Vantung leh leitung, tuipi leh a sungah a om khempeuhte in amah phat ta-te hen.
 
 ### v35
 **EN:** For God will save Zion, and will build the cities of Judah: that they may dwell there, and have it in possession.
 
-**TDB77:** Bang hang hiam cih leh Pasian in Zion hon-in Judah khuapite lamkik ding a, ama nasemte tua lai-ah teengin tang pah ding uh hi;
+**TDB77:** Bang hang hiam cih leh Pasian in Zion hon-in Judah khuapite lamkik ding a, ama nasemte tua lai-ah teengin tang pah ding-te hi;
 
-**ZVS:** Bang hang hiam cih leh Pasian in Zion honin Judah khuapite lamkik ding a, a nasemte tua lai-ah tengin tang pah ding uh hi.
+**ZVS:** Bang hang hiam cih leh Pasian in Zion honin Judah khuapite lamkik ding a, a nasemte tua lai-ah tengin tang pah ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v36
 **EN:** The seed also of his servants shall inherit it: and they that love his name shall dwell therein.
 
-**TDB77:** ama nasemte’ tate in tua leitang luah-in, amah a itte tua sungah teeng ding uh hi.
+**TDB77:** ama nasemte’ tate in tua leitang luah-in, amah a itte tua sungah teeng ding-te hi.
 
-**ZVS:** Ama nasemte' tate in tua leitang luah ding uh a, amah a itte tua sungah teng ding uh hi.
+**ZVS:** Ama nasemte' tate in tua leitang luah ding-te a, amah a itte tua sungah teng ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 

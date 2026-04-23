@@ -94,7 +94,7 @@
 **Grammar:** quotative: said/saying
 
 ### v9
-**EN:** And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a ram of three years old, and a turtledove, and a young pigeon.
+**EN:** And he said unto him, Take me an heifer of three years old, and a she goat of three years old, and a gam of three years old, and a turtledove, and a young pigeon.
 
 **TDB77:** Amah in, “Kum thum a pha bawngla khat, kum thum a pha keelnu khat, kum thum a pha tuutal khat, vakhu khat leh kawl vakhu khang lai khat hong paipih in,” ci hi.
 
@@ -130,18 +130,18 @@
 ### v13
 **EN:** And he said unto Abram, Know of a surety that thy seed shall be a stranger in a land that is not theirs, and shall serve them; and they shall afflict them four hundred years;
 
-**TDB77:** Tua ciangin Topa in Abram kiangah, “Na suan-le-khakte amau’ leitang ahi lo munah tawl khat omin, tua lai-ah amaute sila hi ding uh a, amaute kum zali sung kinengniam ding a hihna thu a kitel theihna thei in;
+**TDB77:** Tua ciangin Topa in Abram kiangah, “Na suan-le-khakte amau’ leitang ahi lo munah tawl khat omin, tua lai-ah amaute sila hi ding-te a, amaute kum zali sung kinengniam ding a hihna thu a kitel theihna thei in;
 
-**ZVS:** Tua ciangin { Topa } in Abram kiangah, “Na suanlekhakte amau' leitang a hilo munah tawlkhat sung omin, tua lai-ah amaute sila hi ding uh a, amaute kum za li sung kinengniam ding ahihna thu a kitel theihna thei in.
+**ZVS:** Tua ciangin { Topa } in Abram kiangah, “Na suanlekhakte amau' leitang a hilo munah tawlkhat sung omin, tua lai-ah amaute sila hi ding-te a, amaute kum za li sung kinengniam ding ahihna thu a kitel theihna thei in.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And also that nation, whom they shall serve, will I judge: and afterward shall they come out with great substance.
 
-**TDB77:** ahih hangin na a sepsak uh minam’ tungah thukhenna ka tungsak ding a, tua khit ciangin neihsa tampi tawh amaute paikhia ding uh hi.
+**TDB77:** ahih hangin na a sepsak-te minam’ tungah thukhenna ka tungsak ding a, tua khit ciangin neihsa tampi tawh amaute paikhia ding-te hi.
 
-**ZVS:** Ahi zongin na a sepsak uh minamte' tungah thukhenna ka tungsak ding a, tua khit ciangin neihsa tampi tawh amaute paikhia ding uh hi.
+**ZVS:** Ahi zongin na a sepsak-te minamte' tungah thukhenna ka tungsak ding a, tua khit ciangin neihsa tampi tawh amaute paikhia ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -157,9 +157,9 @@
 ### v16
 **EN:** But in the fourth generation they shall come hither again: for the iniquity of the Amorites is not yet full.
 
-**TDB77:** Khang lina ciangin hih lai munah amaute hong paikik ding uh hi; bang hang hiam cih leh Amor mite’ mawhna kicing nai lo hi,” ci hi.
+**TDB77:** Khang lina ciangin hih lai munah amaute hong paikik ding-te hi; bang hang hiam cih leh Amor mite’ mawhna kicing nai lo hi,” ci hi.
 
-**ZVS:** Khang lina ciangin hih lai munah amaute hong paikik ding uh hi. Bang hang hiam cih leh Amor mite' mawhna kicing nailo hi,” a ci hi.
+**ZVS:** Khang lina ciangin hih lai munah amaute hong paikik ding-te hi. Bang hang hiam cih leh Amor mite' mawhna kicing nailo hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 

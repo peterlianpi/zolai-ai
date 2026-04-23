@@ -75,9 +75,9 @@
 ### v8
 **EN:** They are brought down and fallen: but we are risen, and stand upright.
 
-**TDB77:** Amaute kinawmsawm-in puk ding uh a, ahih hangin eite tho-in i dingtang ding hi.
+**TDB77:** Amaute kinawmsawm-in puk ding-te a, ahih hangin eite tho-in i dingtang ding hi.
 
-**ZVS:** Amaute kinawmsawmin pukgawp ding uh a, ahih hangin eite tho-in i dingtang ding hi.
+**ZVS:** Amaute kinawmsawmin pukgawp ding-te a, ahih hangin eite tho-in i dingtang ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

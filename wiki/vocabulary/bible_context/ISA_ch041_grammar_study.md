@@ -29,9 +29,9 @@
 ### v1
 **EN:** Keep silence before me, O islands; and let the people renew their strength: let them come near; then let them speak: let us come near together to judgment.
 
-**TDB77:** Tuikulh gamte aw, gamdai takin ka thu ngai un; na mite a tha uh dimsak un la, amaute a mai-ah hong paisak un. Amaute thugen theihna ding hun ngah ding uh hi. Thukhen zumah kei tawh kisi nung.
+**TDB77:** Tuikulh gamte aw, gamdai takin ka thu ngai un; na mite a tha-te dimsak un la, amaute a mai-ah hong paisak un. Amaute thugen theihna ding hun ngah ding-te hi. Thukhen zumah kei tawh kisi nung.
 
-**ZVS:** Tuipi gei-a om gamte aw, gamdai takin ka thu ngai un. Na mite uh a tha uh dimsak un la, amaute a nai-ah hong paisak un. Amaute in thugen theihna ding hun ngah ding uh hi. Thukhen zumah kei tawh kisi nu'ng.
+**ZVS:** Tuipi gei-a om gamte aw, gamdai takin ka thu ngai un. Na mite-te a tha-te dimsak un la, amaute a nai-ah hong paisak un. Amaute in thugen theihna ding hun ngah ding-te hi. Thukhen zumah kei tawh kisi nu'ng.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -65,9 +65,9 @@
 ### v5
 **EN:** The isles saw it, and feared; the ends of the earth were afraid, drew near, and came.
 
-**TDB77:** Tuikulh gamte in mu khinin lau uh a, leimongte liing uh hi; amaute in hong nai-in hong pai uh hi.
+**TDB77:** Tuikulh gamte in mu khinin lau-te a, leimongte liing-te hi; amaute in hong nai-in hong pai-te hi.
 
-**ZVS:** Tuipi gei-a om gamte in mu khinin a lau uh hi. Leimong dongin mite lau-in ling uh a, amaute in hong nai-in hong pai uh hi.
+**ZVS:** Tuipi gei-a om gamte in mu khinin a lau-te hi. Leimong dongin mite lau-in ling-te a, amaute in hong nai-in hong pai-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -83,9 +83,9 @@
 ### v7
 **EN:** So the carpenter encouraged the goldsmith, and he that smootheth with the hammer him that smote the anvil, saying, It is ready for the sodering: and he fastened it with nails, that it should not be moved.
 
-**TDB77:** Khutsiampa in kham sekpa hanthawnin, sek tawh milim a nel puahpa in sekpi tawh a satpa hanthawn a, sumtui a luan’na uh “Hoih hi,” ci uh hi; a tuk thei lo dingin amaute in tua milim siktukkilh tawh khen kip uh hi.
+**TDB77:** Khutsiampa in kham sekpa hanthawnin, sek tawh milim a nel puahpa in sekpi tawh a satpa hanthawn a, sumtui a luan’na-te “Hoih hi,” ci-te hi; a tuk thei lo dingin amaute in tua milim siktukkilh tawh khen kip-te hi.
 
-**ZVS:** Khutsiampa in khamseekpa hanthawnin, sek tawh milim a nel puahpa in sekpi tawh a satpa hanthawn a, sumtui a luan'na uh, “Hoih hi,” a ci uh hi. A ling thei nawnlo dingin amaute in tua milim siktukkilh tawh a khenkip uh hi.
+**ZVS:** Khutsiampa in khamseekpa hanthawnin, sek tawh milim a nel puahpa in sekpi tawh a satpa hanthawn a, sumtui a luan'na uh, “Hoih hi,” a ci-te hi. A ling thei nawnlo dingin amaute in tua milim siktukkilh tawh a khenkip-te hi.
 
 **Grammar:** quotative: said/saying | adjective: hoih (good) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -117,18 +117,18 @@
 ### v11
 **EN:** Behold, all they that were incensed against thee shall be ashamed and confounded: they shall be as nothing; and they that strive with thee shall perish.
 
-**TDB77:** En in, nangma tunga a heh mite khempeuh maizumna kithuaksakin kikoih khong ding hi; nangmah hong dem mite pen a mawkna suakin siatna thuak ding uh hi.
+**TDB77:** En in, nangma tunga a heh mite khempeuh maizumna kithuaksakin kikoih khong ding hi; nangmah hong dem mite pen a mawkna suakin siatna thuak ding-te hi.
 
-**ZVS:** Nangma tungah a heh mite khempeuh maizumna kithuaksakin kikoihkhong ding hi. Nangmah hong dem mite a mawkna suakin siatna thuak ding uh hi.
+**ZVS:** Nangma tungah a heh mite khempeuh maizumna kithuaksakin kikoihkhong ding hi. Nangmah hong dem mite a mawkna suakin siatna thuak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Thou shalt seek them, and shalt not find them, even them that contended with thee: they that war against thee shall be as nothing, and as a thing of nought.
 
-**TDB77:** Nangmah hong langpangte na zon’ hangin amaute na mu nawn kei ding hi; nangmah hong dote pen bangmah hi het lo ding uh hi.
+**TDB77:** Nangmah hong langpangte na zon’ hangin amaute na mu nawn kei ding hi; nangmah hong dote pen bangmah hi het lo ding-te hi.
 
-**ZVS:** Nangmah hong langpangte na zon' hangin amaute na mu nawn kei ding hi. Nangmah hong dote pen bangmah hi hetlo ding uh hi.
+**ZVS:** Nangmah hong langpangte na zon' hangin amaute na mu nawn kei ding hi. Nangmah hong dote pen bangmah hi hetlo ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -153,27 +153,27 @@
 ### v15
 **EN:** Behold, I will make thee a new sharp threshing instrument having teeth: thou shalt thresh the mountains, and beat them small, and shalt make the hills as chaff.
 
-**TDB77:** En un, note pen, a thak, a hiam, ha a nei buhcilna-in kong bawl ding hi; note in mual liante cilin na suvui ding uh a, mual neute pen ansi bangin na gawi zan ding uh hi;
+**TDB77:** En un, note pen, a thak, a hiam, ha a nei buhcilna-in kong bawl ding hi; note in mual liante cilin na suvui ding-te a, mual neute pen ansi bangin na gawi zan ding-te hi;
 
-**ZVS:** Note pen, a thak, a hiam, ha a nei buhcilna bangin ka hong bawl ding hi. Note in mual liante cilin na suvui ding uh a, mual neute pen ansi bangin na gawizan ding uh hi.
+**ZVS:** Note pen, a thak, a hiam, ha a nei buhcilna bangin ka hong bawl ding hi. Note in mual liante cilin na suvui ding-te a, mual neute pen ansi bangin na gawizan ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v16
 **EN:** Thou shalt fan them, and the wind shall carry them away, and the whirlwind shall scatter them: and thou shalt rejoice in the
 
-**TDB77:** amaute na haih ding uh a, huih in amaute mutkhia ding a, huihpi in amaute thehthang ding hi. Tua ciangin Topa’ hangin na lungdam ding uh a, Israelte’ Siangtho Pa’ hangin na minthang ding uh hi.
+**TDB77:** amaute na haih ding-te a, huih in amaute mutkhia ding a, huihpi in amaute thehthang ding hi. Tua ciangin Topa’ hangin na lungdam ding-te a, Israelte’ Siangtho Pa’ hangin na minthang ding-te hi.
 
-**ZVS:** Amaute na haih ding uh a, huih in amaute mutkhia ding a, huihpi in amaute thehthang ding hi. Tua ciangin { Topa}' hangin na lungdam ding uh a, Israel-te' Siangtho Pa' hangin na minthang ding uh hi.
+**ZVS:** Amaute na haih ding-te a, huih in amaute mutkhia ding a, huihpi in amaute thehthang ding hi. Tua ciangin { Topa}' hangin na lungdam ding-te a, Israel-te' Siangtho Pa' hangin na minthang ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v17
 **EN:** When the poor and needy seek water, and there is none, and their tongue faileth for thirst, I the
 
-**TDB77:** Keima mite in tui duhin tui zong uh a, a dang uh a taak ciangin, amau’ hong thungetna ka pia ding a, Israelte’ Pasian ahi keimah in amaute ka nusia kei ding hi.
+**TDB77:** Keima mite in tui duhin tui zong-te a, a dang-te a taak ciangin, amau’ hong thungetna ka pia ding a, Israelte’ Pasian ahi keimah in amaute ka nusia kei ding hi.
 
-**ZVS:** Keima mite in tui duhin, tui zongin, a dang uh a taak ciangin amau' hong thungetna ka pia ding a, Israel-te' Pasian keimah in amaute ka nusia kei ding hi.
+**ZVS:** Keima mite in tui duhin, tui zongin, a dang-te a taak ciangin amau' hong thungetna ka pia ding a, Israel-te' Pasian keimah in amaute ka nusia kei ding hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -198,45 +198,45 @@
 ### v20
 **EN:** That they may see, and know, and consider, and understand together, that the hand of the
 
-**TDB77:** Topa’ khut in hih nate bawl hi, Israelte’ Siangtho Pa in hih nate piangsak hi, ci-in mite in mu-in a theih nading, ngaihsunin a thu a teltheih nading uh ahi hi.
+**TDB77:** Topa’ khut in hih nate bawl hi, Israelte’ Siangtho Pa in hih nate piangsak hi, ci-in mite in mu-in a theih nading, ngaihsunin a thu a teltheih nading-te ahi hi.
 
-**ZVS:** { Topa}' khut in hih nate bawl a, Israel-te' Siangtho Pa in hih nate piangsak hi, ci-in mite in mu-in a theihna ding, a thu ngaihsunin a tel theihna ding uh ahi hi.
+**ZVS:** { Topa}' khut in hih nate bawl a, Israel-te' Siangtho Pa in hih nate piangsak hi, ci-in mite in mu-in a theihna ding, a thu ngaihsunin a tel theihna ding-te ahi hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | serial verb: -in (and then)
 
 ### v21
 **EN:** Produce your cause, saith the
 
-**TDB77:** Na thu uh sung un, Topa in ci hi; na lahtel nopna teng uh gen un, Jakob’ Kumpipa in ci hi.
+**TDB77:** Na thu-te sung un, Topa in ci hi; na lahtel nopna teng-te gen un, Jakob’ Kumpipa in ci hi.
 
-**ZVS:** Na thu uh sung un, { Topa } in ci hi. Na lahtel nop teng uh gen un, Jakob' Kumpipa in ci hi.
+**ZVS:** Na thu-te sung un, { Topa } in ci hi. Na lahtel nop teng-te gen un, Jakob' Kumpipa in ci hi.
 
 **Grammar:** quotative: said/saying
 
 ### v22
 **EN:** Let them bring them forth, and shew us what shall happen: let them shew the former things, what they be, that we may consider them, and know the latter end of them; or declare us things for to come.
 
-**TDB77:** Amaute in a thu uh hong paipih hen la, a piang ding thu hong gen uh hen. Eite in i ngaihsut theih nading a, a hong piang ding thu i theih nadingin a beisa hun-a om nate bang teng hiam cih hong gen uh hen; tua ahih kei leh zong, a hong piang ding thu eite tungah hong gen ta uh hen.
+**TDB77:** Amaute in a thu-te hong paipih hen la, a piang ding thu hong gen-te hen. Eite in i ngaihsut theih nading a, a hong piang ding thu i theih nadingin a beisa hun-a om nate bang teng hiam cih hong gen-te hen; tua ahih kei leh zong, a hong piang ding thu eite tungah hong gen ta-te hen.
 
-**ZVS:** Amaute in a thu uh hong paipih uh hen la, a piang ding thu hong gen uh hen. Eite in i ngaihsut theihna ding, a hong piang ding thu i theihna dingin a beisa huna om nate bang teng hiam hong gen ta uh hen. Tua ahih kei leh zong, a hong piang ding thu eite tungah hong gen ta uh hen.
+**ZVS:** Amaute in a thu-te hong paipih-te hen la, a piang ding thu hong gen-te hen. Eite in i ngaihsut theihna ding, a hong piang ding thu i theihna dingin a beisa huna om nate bang teng hiam hong gen ta-te hen. Tua ahih kei leh zong, a hong piang ding thu eite tungah hong gen ta-te hen.
 
 **Grammar:** purpose: in order to
 
 ### v23
 **EN:** Shew the things that are to come hereafter, that we may know that ye are gods: yea, do good, or do evil, that we may be dismayed, and behold it together.
 
-**TDB77:** Note pen pasiante na hihna uh ka theih nadingun tu khit ciang-a hong piang ding thute kote tungah hong gen un; kote lungkia-in ka lau nadingun phatna ahi a, siatna ahi zongin khat peuhpeuh hong bawl dih un.
+**TDB77:** Note pen pasiante na hihna-te ka theih nadingun tu khit ciang-a hong piang ding thute kote tungah hong gen un; kote lungkia-in ka lau nadingun phatna ahi a, siatna ahi zongin khat peuhpeuh hong bawl dih un.
 
-**ZVS:** Note pen pasian-te na hihna uh ka theihna dingun tu khit ciangin a hong piang ding thute kote tungah hong gen un. Kote lungkia-in ka launa dingun phatna ahi a, siatna ahi zongin khat peuhpeuh hong bawl dih un.
+**ZVS:** Note pen pasian-te na hihna-te ka theihna dingun tu khit ciangin a hong piang ding thute kote tungah hong gen un. Kote lungkia-in ka launa dingun phatna ahi a, siatna ahi zongin khat peuhpeuh hong bawl dih un.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v24
 **EN:** Behold, ye are of nothing, and your work of nought: an abomination is he that chooseth you.
 
-**TDB77:** En un, note, bangmah na hi kei uh a, na nasepnate uh a mawkna ahi hi; note hong teelpa in a etsathuai ahi hi.
+**TDB77:** En un, note, bangmah na hi kei-te a, na nasepnate-te a mawkna ahi hi; note hong teelpa in a etsathuai ahi hi.
 
-**ZVS:** A taktakin note bangmah na hi kei uh a, na nasepnate uh a mawkna ahi hi. Note a hong teelpa a etsathuai ahi hi.
+**ZVS:** A taktakin note bangmah na hi kei-te a, na nasepnate-te a mawkna ahi hi. Note a hong teelpa a etsathuai ahi hi.
 
 **Grammar:** plural: uh marker
 
@@ -277,9 +277,9 @@
 ### v29
 **EN:** Behold, they are all vanity; their works are nothing: their molten images are wind and confusion.
 
-**TDB77:** En un, amaute khempeuh zuaupi vive ahi hi; amau’ nasepnate a mawkna ahi hi; a kisung amau’ milimte pen huih hawmpi ahi uh hi.
+**TDB77:** En un, amaute khempeuh zuaupi vive ahi hi; amau’ nasepnate a mawkna ahi hi; a kisung amau’ milimte pen huih hawmpi ahi-te hi.
 
-**ZVS:** Amaute khempeuh zuaupi vive hi a, amau' nasepnate a mawkna ahi hi. A kisung amau' milimte pen huih hawmpi bang ahi uh hi.
+**ZVS:** Amaute khempeuh zuaupi vive hi a, amau' nasepnate a mawkna ahi hi. A kisung amau' milimte pen huih hawmpi bang ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

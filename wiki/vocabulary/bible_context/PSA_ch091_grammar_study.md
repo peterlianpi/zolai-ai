@@ -32,7 +32,7 @@
 
 **TDB77:** Topa tungah, “Ka bukna leh ka munkip muanhuai, ka muan’ ka Pasian na hi hi,” a ci ding hi.
 
-**ZVS:** { Topa' } tungah, “Ka bukna leh ka munkip muan'huai, ka muan' ka Pasian na hi hi,” ci ding uh hi.
+**ZVS:** { Topa' } tungah, “Ka bukna leh ka munkip muan'huai, ka muan' ka Pasian na hi hi,” ci ding-te hi.
 
 **Grammar:** future: will
 
@@ -64,7 +64,7 @@
 ### v7
 **EN:** A thousand shall fall at thy side, and ten thousand at thy right hand; but it shall not come nigh thee.
 
-**TDB77:** Na kiangah mi tulkhat, na kimkotah mi tulsawm, hong tuk kha ding uh hi; ahih hangin tuate in na kiang nai hong neh lo ding hi.
+**TDB77:** Na kiangah mi tulkhat, na kimkotah mi tulsawm, hong tuk kha ding-te hi; ahih hangin tuate in na kiang nai hong neh lo ding hi.
 
 **ZVS:** Na kiangah mi tul khat, na kimkotah mi tul sawm, hong tukin a sih hangin bangmah na ci kei ding hi.
 
@@ -107,9 +107,9 @@
 ### v12
 **EN:** They shall bear thee up in their hands, lest thou dash thy foot against a stone.
 
-**TDB77:** Na khete in suang a suihkhak loh nadingin, amaute in a khut uh tawh nang hong dom ding uh hi.
+**TDB77:** Na khete in suang a suihkhak loh nadingin, amaute in a khut-te tawh nang hong dom ding-te hi.
 
-**ZVS:** Na khete leh suang a kitahkhak lohna dingin amaute in a khut uh tawh nang hong dom ding uh hi.
+**ZVS:** Na khete leh suang a kitahkhak lohna dingin amaute in a khut-te tawh nang hong dom ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 

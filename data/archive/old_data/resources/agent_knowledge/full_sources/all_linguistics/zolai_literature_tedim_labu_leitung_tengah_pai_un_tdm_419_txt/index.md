@@ -1,0 +1,6 @@
+# Linguistics/Zolai/Literature/Tedim Labu/LEITUNG TENGAH PAI UN! (TDM - 419).txt
+
+Full-text export split into parts for reliability.
+
+## Parts
+- `part-0001.md`

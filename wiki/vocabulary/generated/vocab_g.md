@@ -58,7 +58,7 @@
 **Synonyms:** eka, phelpi
 **CEFR:** A1
 **Usage:** Attested 80× across 4 Bible books.
-> *tua mite’ lungsim uh a gahin na thei ding uh hi.”*
+> *tua mite’ lungsim-te a gahin na thei ding-te hi.”*
 > `MAT 7:20`
 
 ### gahte
@@ -132,7 +132,7 @@
 **Related:** sungah, israel, hang, gam, cih
 **CEFR:** A1
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *Tuili gal khat Gerasa gamah a tung uh a,*
+> *Tuili gal khat Gerasa gamah a tung-te a,*
 > → And they came over unto the other side of the sea, into the country of the Gadarenes.
 > `MRK 5:1`
 
@@ -142,7 +142,7 @@
 **Related:** pai, jordan, kumpipa, paipih, judah
 **CEFR:** A1
 **Usage:** Attested 855× across 6 Bible books.
-> *Galile gam galah Geresa gam a tung uh a,*
+> *Galile gam galah Geresa gam a tung-te a,*
 > → And they arrived at the country of the Gadarenes, which is over against Galilee.
 > `LUK 8:26`
 
@@ -161,7 +161,7 @@
 **Related:** galdona tembaw, galdona tembawpi, galdona, galdona tembaw neuhon, galdo in migam luhgawp
 **CEFR:** A1
 **Usage:** Verb — use as action word in SOV sentence: [Subject] [Object] {word} hi.
-> *a topa uh mopawi simna panin hong tungin kongkhak*
+> *a topa-te mopawi simna panin hong tungin kongkhak*
 
 ### galdona
 **[n]** expedition
@@ -190,7 +190,7 @@
 **Related:** tul, thahat, nih, israel, sung
 **CEFR:** A1
 **Usage:** Attested 4180× across 32 Bible books.
-> *Benjamin-te sung pan galhang mihing tulsawm leh tulgiat tuk uh hi.*
+> *Benjamin-te sung pan galhang mihing tulsawm leh tulgiat tuk-te hi.*
 > → And there fell of Benjamin eighteen thousand men; all these were men of valour.
 > `JDG 20:44`
 
@@ -238,7 +238,7 @@
 **Related:** jordan, khit, mai, israel, note
 **CEFR:** A1
 **Usage:** Attested 3405× across 22 Bible books.
-> *Minam khempeuh Jordan a galkah khit uh ciangin Topa in Joshua kiangah,*
+> *Minam khempeuh Jordan a galkah khit-te ciangin Topa in Joshua kiangah,*
 > → And it came to pass, when all the people were clean passed over Jordan, that the
 > `JOS 4:1`
 
@@ -274,7 +274,7 @@
 **Related:** pai, kumpipa, sakol, israel, gam
 **CEFR:** A1
 **Usage:** Attested 22427× across 69 Bible books.
-> *Galkapte zong pai uh a, tuithuk pia-in,*
+> *Galkapte zong pai-te a, tuithuk pia-in,*
 > → And the soldiers also mocked him, coming to him, and offering him vinegar,
 > `LUK 23:36`
 
@@ -338,7 +338,7 @@
 **Related:** kuankhia, galkap, pai, israel, kumpipa
 **CEFR:** A1
 **Usage:** Attested 4942× across 29 Bible books.
-> *“Na lumte uh la un la, galsim dingin kuankhia un!*
+> *“Na lumte-te la un la, galsim dingin kuankhia un!*
 > → Order ye the buckler and shield, and draw near to battle.
 > `JER 46:3`
 
@@ -358,7 +358,7 @@
 **Related:** cih, hang, note, mai, pia
 **CEFR:** A1
 **Usage:** Attested 27533× across 81 Bible books.
-> *Ka galte khempeuh in hong simmawhin a hong zahpih uh hi.*
+> *Ka galte khempeuh in hong simmawhin a hong zahpih-te hi.*
 > → All our enemies have opened their mouths against us.
 > `LAM 3:46`
 
@@ -456,7 +456,7 @@
 **Related:** leitang, ciang, hang, cih, minam
 **CEFR:** A1
 **Usage:** Attested 730× across 8 Bible books.
-> *note in na mai uh panin amaute na hawlkhia ding uh hi.*
+> *note in na mai-te panin amaute na hawlkhia ding-te hi.*
 
 ### gamh
 **[n]** heirloom
@@ -586,7 +586,7 @@
 **Related:** tawi, efraim, thal, nungkik, tengin
 **CEFR:** A2
 **Usage:** Attested 215× across 5 Bible books.
-> *Thal a tawi Efraim mite, galkido ni-in nungkik uh hi.*
+> *Thal a tawi Efraim mite, galkido ni-in nungkik-te hi.*
 > → The children of Ephraim, being armed, and carrying bows, turned back in the day of battle.
 
 ### galkidona
@@ -637,14 +637,14 @@
 **Meanings:** men | hands | war | teacheth | bow | thousand
 **CEFR:** A2
 **Usage:** Attested 105× across 2 Bible books.
-> *hih mite khempeuh galsiam mi ahi uh hi.*
+> *hih mite khempeuh galsiam mi ahi-te hi.*
 
 ### galsimin
 **[n]** after
 **Meanings:** after | came | joab | pass | year | expired
 **CEFR:** A2
 **Usage:** Attested 200× across 2 Bible books.
-> *Khuakhal sungin galsimin kumpite kuankhia zel uh hi. Tua bang*
+> *Khuakhal sungin galsimin kumpite kuankhia zel-te hi. Tua bang*
 
 ### galsimna
 **[n]** how
@@ -675,7 +675,7 @@
 **Related:** pia, sung, tul, zongin
 **CEFR:** A2
 **Usage:** Attested 740× across 12 Bible books.
-> *gel bangin tua ni-in khuapi sungah mite simlut uh hi.*
+> *gel bangin tua ni-in khuapi sungah mite simlut-te hi.*
 
 ### galtaina
 **[n]** before
@@ -806,7 +806,7 @@
 **Meanings:** kingdom | thou | gavest | served | great | goodness
 **CEFR:** A2
 **Usage:** Attested 125× across 2 Bible books.
-> *a gamtat hoihlote uh nusialo uh hi.*
+> *a gamtat hoihlote-te nusialo-te hi.*
 
 ### ganbukte
 **[n]** beasts
@@ -821,7 +821,7 @@
 **Variants:** ganhing cinga om mi, bawngcing
 **CEFR:** A2
 **Usage:** Noun — use as subject or object; nominalize with +na for abstract form.
-> *na theih uh omnai ahi hiam?*
+> *na theih-te omnai ahi hiam?*
 
 ### ganin
 **[n]** bound
@@ -880,7 +880,7 @@
 **[]** gebal
 **Meanings:** gebal | ammon | amalek | philistines | inhabitants | tyre
 **CEFR:** B1
-> *Filistia leh Tai-ar khua-a teeng mite tawh thuciam bawl uh hi.*
+> *Filistia leh Tai-ar khua-a teeng mite tawh thuciam bawl-te hi.*
 > `PSA 83:7`
 
 ### gahkhia
@@ -908,7 +908,7 @@
 **Related:** kikin, zung, gah, singkung, judah
 **CEFR:** B1
 **Usage:** Attested 160× across 4 Bible books.
-> *gah na gahto kik ding uh hi.*
+> *gah na gahto kik ding-te hi.*
 
 ### gaihgaih
 **[n]** heres
@@ -922,7 +922,7 @@
 **Meanings:** herds | drink | eat | thine | sons | daughters
 **CEFR:** B1
 **Usage:** Attested 215× across 2 Bible books.
-> *na bawnghonte uh hong gaihsak ding uh a*
+> *na bawnghonte-te hong gaihsak ding-te a*
 
 ### gaite
 **[n]** child
@@ -1064,7 +1064,7 @@
 **Meanings:** lie | man | highways | waste | wayfaring | ceaseth
 **CEFR:** B1
 **Usage:** Attested 105× across 2 Bible books.
-> *kuamah khualzinin pai ngam nawnlo uh hi. Thuciamnate kipeksatin, thukimnasate kipalsat*
+> *kuamah khualzinin pai ngam nawnlo-te hi. Thuciamnate kipeksatin, thukimnasate kipalsat*
 
 ### gamdaihna
 **[n]** dead
@@ -1180,7 +1180,7 @@
 **Related:** gingte
 **CEFR:** B1
 **Usage:** Attested 245× across 6 Bible books.
-> *La sa-in na gamlumnate uh khawl un; na lasakna uh*
+> *La sa-in na gamlumnate-te khawl un; na lasakna uh*
 
 ### gamlumte
 **[n]** waves
@@ -1205,7 +1205,7 @@
 **Related:** gam
 **CEFR:** B1
 **Usage:** Attested 220× across 2 Bible books.
-> *susia dingte hong paizo uh hi. Gammong khat panin gammong khat dongah*
+> *susia dingte hong paizo-te hi. Gammong khat panin gammong khat dongah*
 
 ### gamneu
 **[n]** reigned
@@ -1220,7 +1220,7 @@
 **Meanings:** despised | dwell | feed | yea | pleasant | land
 **CEFR:** B1
 **Usage:** Attested 135× across 4 Bible books.
-> *Amaute in gamnuam simmawh uh a, ama thuciamna um lo uh hi.*
+> *Amaute in gamnuam simmawh-te a, ama thuciamna um lo-te hi.*
 > → Yea, they despised the pleasant land, they believed not his word:
 > `PSA 106:24`
 
@@ -1259,7 +1259,7 @@
 **Meanings:** people | men | thou | shalt | yea | cause
 **CEFR:** B1
 **Usage:** Attested 145× across 2 Bible books.
-> *tua leitang in na tate uh gilkialin puksisak nawnlo ding hi.*
+> *tua leitang in na tate-te gilkialin puksisak nawnlo ding hi.*
 
 ### gamtangtang
 **[n]** passeth
@@ -1289,7 +1289,7 @@
 **Related:** gam, galkhat, jesuh, tuili, mahmah
 **CEFR:** B2
 **Usage:** Attested 345× across 6 Bible books.
-> *Tua ciangin Galilee Tuili galkhat, Gadara gam a tung uh hi.*
+> *Tua ciangin Galilee Tuili galkhat, Gadara gam a tung-te hi.*
 > → And they arrived at the country of the Gadarenes, which is over against Galilee.
 
 ### gaina
@@ -1331,7 +1331,7 @@
 **[]** herself
 **Meanings:** herself | armour | let | off | works | darkness
 **CEFR:** B2
-> *galnan cipna (defensive battle) lam tawh hanciam pha mahmah uh hi.*
+> *galnan cipna (defensive battle) lam tawh hanciam pha mahmah-te hi.*
 
 ### gamsia
 **[n]** blood
@@ -1419,7 +1419,7 @@
 **Related:** kantan, tung, khit, tui
 **CEFR:** B2
 **Usage:** Attested 175× across 6 Bible books.
-> *Tui a kantan khit uh ciangin Gennesaret gamah a tung uh hi.*
+> *Tui a kantan khit-te ciangin Gennesaret gamah a tung-te hi.*
 > → And when they were gone over, they came into the land of Gennesaret.
 
 ### gensiamna
@@ -1450,7 +1450,7 @@
 **Related:** leitang, khin, gimna, phuhsa
 **CEFR:** B2
 **Usage:** Attested 340× across 6 Bible books.
-> *‘Amen,’ ci ding uh hi.*
+> *‘Amen,’ ci ding-te hi.*
 
 ### gitna
 **[n]** benignty
@@ -1475,7 +1475,7 @@
 **Related:** lutang, guh, kici, cihnopna, paipih
 **CEFR:** B2
 **Usage:** Attested 215× across 6 Bible books.
-> *‘Lutangguh Mun’ a cihnopna, ‘Golgotha’ kici munah paipih uh a,*
+> *‘Lutangguh Mun’ a cihnopna, ‘Golgotha’ kici munah paipih-te a,*
 > → And they bring him unto the place Golgotha, which is, being interpreted, The place of a skull.
 > `MRK 15:22`
 
@@ -1742,7 +1742,7 @@
 **[]** other
 **Meanings:** other | came | over | side | sea | into
 **CEFR:** C1
-> *Tuili gal khat Gerasa gamah a tung uh a,*
+> *Tuili gal khat Gerasa gamah a tung-te a,*
 > → And they came over unto the other side of the sea, into the country of the Gadarenes.
 > `MRK 5:1`
 
@@ -1750,7 +1750,7 @@
 **[]** gadarenes
 **Meanings:** gadarenes | whole | country | arrived | over | against
 **CEFR:** C1
-> *Galile gam galah Geresa gam a tung uh a,*
+> *Galile gam galah Geresa gam a tung-te a,*
 > → And they arrived at the country of the Gadarenes, which is over against Galilee.
 > `LUK 8:26`
 
@@ -1804,13 +1804,13 @@
 **Meanings:** strive | yet | crowned | except | lawfully | man
 **CEFR:** C1
 **Usage:** Attested 15× across 2 Bible books.
-> *Keimah zong gualzo-in ka Pa' tokhomah ka tutkhawm uh mah bangin*
+> *Keimah zong gualzo-in ka Pa' tokhomah ka tutkhawm-te mah bangin*
 
 ### guih
 **[]** walk
 **Meanings:** walk | let | honestly | day | rioting | drunkenness
 **CEFR:** C1
-> *Giraffe gimnei-guih pia uh hi.*
+> *Giraffe gimnei-guih pia-te hi.*
 
 ### guite
 **[]** drunken
@@ -1833,7 +1833,7 @@
 **Related:** gunkuang, jesuh, sungah
 **CEFR:** C1
 **Usage:** Attested 235× across 2 Bible books.
-> *na khempeuh uh nusia-in Jesuh*
+> *na khempeuh-te nusia-in Jesuh*
 
 ### gupkhiat
 **[]** without

@@ -35,70 +35,70 @@
 
 **TDB77:** Khat vei kong tun’ ciangin ka hong dawm kei ding hi ci-in a masa-a mawh neite-a kipan a om lai mite khempeuh kiangah nidang a, ka gen tham loin, tu-in zong no tawh ka omkhawm loh hangin, nih veina-a omkhawm lai mah bangin khat vei kong genkhol hi.
 
-**ZVS:** A beisa hunah mawhna a gamtate leh adangte khempeuh kiangah, a nihveina ka hong hawh lai-in keima kam tawh ka hong gen bangin tu-in zong lai tawh ka hong gelhnop thu in: Ka hong paikik ciangin kuamah hong zah nawnlo ding ka hih manin gim na thuak pelmawh ding uh hi.
+**ZVS:** A beisa hunah mawhna a gamtate leh adangte khempeuh kiangah, a nihveina ka hong hawh lai-in keima kam tawh ka hong gen bangin tu-in zong lai tawh ka hong gelhnop thu in: Ka hong paikik ciangin kuamah hong zah nawnlo ding ka hih manin gim na thuak pelmawh ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 
 ### v3
 **EN:** Since ye seek a proof of Christ speaking in me, which to you-ward is not weak, but is mighty in you.
 
-**TDB77:** Note lakah thanem lo-a a thahat Khazih in keima tungah hong genna teci note in na zong uh ahih ciangin, ka hong tun’ ciangin ka hong dawm kei ding hi.
+**TDB77:** Note lakah thanem lo-a a thahat Khazih in keima tungah hong genna teci note in na zong-te ahih ciangin, ka hong tun’ ciangin ka hong dawm kei ding hi.
 
-**ZVS:** Khrih in keima tung tawnin thu hong gen taktak mah ahi hiam, ci-in theihtelna na deih uh mah bangin tu-in na deihdeih uh na theita ding uh hi. Note tungah amah in na hong sep ciangin hong damhih hetloin khauhtakin hong hih ding hi.
+**ZVS:** Khrih in keima tung tawnin thu hong gen taktak mah ahi hiam, ci-in theihtelna na deih-te mah bangin tu-in na deihdeih-te na theita ding-te hi. Note tungah amah in na hong sep ciangin hong damhih hetloin khauhtakin hong hih ding hi.
 
 **Grammar:** future: will | negation: kei
 
 ### v4
 **EN:** For though he was crucified through weakness, yet he liveth by the power of God. For we also are weak in him, but we shall live with him by the power of God toward you.
 
-**TDB77:** Bang hang hiam na cih uh leh, tua Khazih in thanemna hangin singlamteh tungah sihna a thuak zongin Pasian’ vangliatna tawh a nungta hi. Kote in zong Khazih sungah ka thanem uh zongin Pasian’ vangliatna hangin Khazih tawh note lakah ka nungta khawm ding uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, tua Khazih in thanemna hangin singlamteh tungah sihna a thuak zongin Pasian’ vangliatna tawh a nungta hi. Kote in zong Khazih sungah ka thanem-te zongin Pasian’ vangliatna hangin Khazih tawh note lakah ka nungta khawm ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh thaneemna hangin singlamteh tungah a kikhai ahi zongin a hin'kikna pen Pasian' vangliatna hang ahi hi. Amah tawh ka kipawl manun kote zong ka tha uh nem a, ahi zongin note tungah na ka hong sep uh ciangin Pasian' vangliatna zangin ka hong semkhawm ding uh hi.
+**ZVS:** Bang hang hiam cih leh thaneemna hangin singlamteh tungah a kikhai ahi zongin a hin'kikna pen Pasian' vangliatna hang ahi hi. Amah tawh ka kipawl manun kote zong ka tha-te nem a, ahi zongin note tungah na ka hong sep-te ciangin Pasian' vangliatna zangin ka hong semkhawm ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v5
 **EN:** Examine yourselves, whether ye be in the faith; prove your own selves. Know ye not your own selves, how that Jesus Christ is in you, except ye be reprobates?
 
-**TDB77:** Note in thu-upna sungah kipin na om uh hiam, na om kei uh hiam, nomau pumpi uh na kisittel ciat un. Nomau pumpi uh na kize-et un. A kisittel zo lote na hih kei uh leh, Zeisu Khazih in note sungah a om hi ci-in nomau thu nomau in thei lo na hi uh hiam?
+**TDB77:** Note in thu-upna sungah kipin na om-te hiam, na om kei-te hiam, nomau pumpi-te na kisittel ciat un. Nomau pumpi-te na kize-et un. A kisittel zo lote na hih kei-te leh, Zeisu Khazih in note sungah a om hi ci-in nomau thu nomau in thei lo na hi-te hiam?
 
-**ZVS:** Thu um taktak mah ihi hiam, ci-in nomau mahmah na ki-entel ciat un. Na ki-ettelna uhah a cingtaaklo na hih kei nak uh leh note sungah Khrih om ahih manin thu phawk un.
+**ZVS:** Thu um taktak mah ihi hiam, ci-in nomau mahmah na ki-entel ciat un. Na ki-ettelna uhah a cingtaaklo na hih kei nak-te leh note sungah Khrih om ahih manin thu phawk un.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v6
 **EN:** But I trust that ye shall know that we are not reprobates.
 
-**TDB77:** Kote in a kisittel zo lote ka hi kei uh hi cih thu note in na theih ding uh kong muang hi.
+**TDB77:** Kote in a kisittel zo lote ka hi kei-te hi cih thu note in na theih ding-te kong muang hi.
 
-**ZVS:** Na ki-ettel uh ciangin a cingtaak mi hikim dingin ka hong lamen hi.
+**ZVS:** Na ki-ettel-te ciangin a cingtaak mi hikim dingin ka hong lamen hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Now I pray to God that ye do no evil; not that we should appear approved, but that ye should do that which is honest, though we be as reprobates.
 
-**TDB77:** Kote in a kisittel zo mi ka hihna uh a kilat nading deihna hi loin, a kisittel zo lo mi bang ka hi uh zongin, note in ahoih na gamtat theih nadingun, gamtat hoih lo khat beek na gamtat loh nadingun Pasian kiangah thu ka ngen uh hi.
+**TDB77:** Kote in a kisittel zo mi ka hihna-te a kilat nading deihna hi loin, a kisittel zo lo mi bang ka hi-te zongin, note in ahoih na gamtat theih nadingun, gamtat hoih lo khat beek na gamtat loh nadingun Pasian kiangah thu ka ngen-te hi.
 
-**ZVS:** Kote in ka nasepna uh a tangtun' zolo tawh ka kibangkha uh ahi zongin, kote' nasepna a tangtun' ding deih hilo zaw-in, note gamta khialkha loin a manin na gamtatna ding uh ka deihna uh tawh thu ka hong ngetsakzaw uh hi.
+**ZVS:** Kote in ka nasepna-te a tangtun' zolo tawh ka kibangkha-te ahi zongin, kote' nasepna a tangtun' ding deih hilo zaw-in, note gamta khialkha loin a manin na gamtatna ding-te ka deihna-te tawh thu ka hong ngetsakzaw-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** For we can do nothing against the truth, but for the truth.
 
-**TDB77:** Kote in thuman lang khatah bangmah ka hih thei kei uh hi, thuman lamah ka hih thei bek uh hi.
+**TDB77:** Kote in thuman lang khatah bangmah ka hih thei kei-te hi, thuman lamah ka hih thei bek-te hi.
 
-**ZVS:** Bang hang hiam cih leh kote pen thuman nasepna a khaktan thei dingte hiloin a khan'na dingin nasemte ka hi uh hi.
+**ZVS:** Bang hang hiam cih leh kote pen thuman nasepna a khaktan thei dingte hiloin a khan'na dingin nasemte ka hi-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v9
 **EN:** For we are glad, when we are weak, and ye are strong: and this also we wish, even your perfection.
 
-**TDB77:** Kote in thanemin note in na thahat lai takun ka lung uh a dam hi. Note na kicin’ nadingun thu ka ngen uh hi.
+**TDB77:** Kote in thanemin note in na thahat lai takun ka lung-te a dam hi. Note na kicin’ nadingun thu ka ngen-te hi.
 
-**ZVS:** Kote' deih bulpi pen note na cingtaak theihna ding uh ahih manin note' thahat laitakin kote ka thaneemna uh zong ka nuam veve uh hi.
+**ZVS:** Kote' deih bulpi pen note na cingtaak theihna ding-te ahih manin note' thahat laitakin kote ka thaneemna-te zong ka nuam veve-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -114,9 +114,9 @@
 ### v11
 **EN:** Finally, brethren, farewell. Be perfect, be of good comfort, be of one mind, live in peace; and the God of love and peace shall be with you.
 
-**TDB77:** A tawpna thu in ute naute aw, na cidam ta un. Kicin’na, kihehnepna na nei un. Lungsim kikhatin om un. Khat leh khat kilemin om un. Tua bang na hih uh leh, itna nopna Pasian in no tawh hong omkhawm ding hi.
+**TDB77:** A tawpna thu in ute naute aw, na cidam ta un. Kicin’na, kihehnepna na nei un. Lungsim kikhatin om un. Khat leh khat kilemin om un. Tua bang na hih-te leh, itna nopna Pasian in no tawh hong omkhawm ding hi.
 
-**ZVS:** Sanggamte aw, tu-in mangpha na man un. Na omzia uh na kipuahpha-in ka hong thugente na zui un la, khatlekhat kithutuak kilem takin na om un. Itna leh kilemna a piathei Pasian in note hong ompih ta hen.
+**ZVS:** Sanggamte aw, tu-in mangpha na man un. Na omzia-te na kipuahpha-in ka hong thugente na zui un la, khatlekhat kithutuak kilem takin na om un. Itna leh kilemna a piathei Pasian in note hong ompih ta hen.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -132,9 +132,9 @@
 ### v13
 **EN:** All the saints salute you.
 
-**TDB77:** Misiangthote khempeuh in note hong hopih uh hi.
+**TDB77:** Misiangthote khempeuh in note hong hopih-te hi.
 
-**ZVS:** Hih lai-a om Pasian' mite khempeuh in note hong hopih uh hi.
+**ZVS:** Hih lai-a om Pasian' mite khempeuh in note hong hopih-te hi.
 
 **Grammar:** plural: uh marker
 

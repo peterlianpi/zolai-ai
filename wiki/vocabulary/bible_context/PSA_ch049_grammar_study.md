@@ -60,7 +60,7 @@
 ### v6
 **EN:** They that trust in their wealth, and boast themselves in the multitude of their riches;
 
-**TDB77:** Mite in a hauhna uh muangin, tampi a neihna uh a kisaktheihpih hangun,
+**TDB77:** Mite in a hauhna-te muangin, tampi a neihna-te a kisaktheihpih hangun,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -83,9 +83,9 @@
 ### v10
 **EN:** For he seeth that wise men die, likewise the fool and the brutish person perish, and leave their wealth to others.
 
-**TDB77:** Hi hi, amah in a pilte nangawn a si mu ding a, a haite leh a teilote a kibangin sia-in, amau neihsate midangte’ tungah nusiat uh hi.
+**TDB77:** Hi hi, amah in a pilte nangawn a si mu ding a, a haite leh a teilote a kibangin sia-in, amau neihsate midangte’ tungah nusiat-te hi.
 
-**ZVS:** Amah in a pilte nangawn a si mu ding a, a haite leh a teilote a kibangin sia-in, amau' neihsa khempeuh midangte' tungah nusiat uh hi.
+**ZVS:** Amah in a pilte nangawn a si mu ding a, a haite leh a teilote a kibangin sia-in, amau' neihsa khempeuh midangte' tungah nusiat-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -94,7 +94,7 @@
 
 **TDB77:** Amaute in leitangte amau min a puaksak hangun, hante pen khang tawntunga amau omna, amau inn hi ngitnget hi.
 
-**ZVS:** Amaute in leitangte amau' min a puaksak uh hangin hankhuk pen khang tawntung amau' omna hi ngitnget ding hi.
+**ZVS:** Amaute in leitangte amau' min a puaksak-te hangin hankhuk pen khang tawntung amau' omna hi ngitnget ding hi.
 
 ### v12
 **EN:** Nevertheless man being in honour abideth not: he is like the beasts that perish.
@@ -117,9 +117,9 @@
 ### v14
 **EN:** Like sheep they are laid in the grave; death shall feed on them; and the upright shall have dominion over them in the morning; and their beauty shall consume in the grave from their dwelling.
 
-**TDB77:** Tua bangin amaute Leinuai-a dingin kiseh hi; Sihna in amau cingpa hi ding hi; Midikte in zingsang ciangin uk ding uh hi, hankhuk-ah amaute tuaksuk suak uh a, a meel uh sia ding hi; Leinuai in amau’ inn hi ding hi.
+**TDB77:** Tua bangin amaute Leinuai-a dingin kiseh hi; Sihna in amau cingpa hi ding hi; Midikte in zingsang ciangin uk ding-te hi, hankhuk-ah amaute tuaksuk suak-te a, a meel-te sia ding hi; Leinuai in amau’ inn hi ding hi.
 
-**ZVS:** Tua bangin amaute Leinuai-a dingin kiseh hi. Sihna pen amau a cingpa hi ding hi. Hankhuk sungah amaute tuaksuksuak ding uh a, a meel uh sia ding a, Leinuai, amau' inn hi ding hi.
+**ZVS:** Tua bangin amaute Leinuai-a dingin kiseh hi. Sihna pen amau a cingpa hi ding hi. Hankhuk sungah amaute tuaksuksuak ding-te a, a meel-te sia ding a, Leinuai, amau' inn hi ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

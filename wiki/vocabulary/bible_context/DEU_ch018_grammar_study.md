@@ -26,54 +26,54 @@
 ### v1
 **EN:** The priests the Levites, and all the tribe of Levi, shall have no part nor inheritance with Israel: they shall eat the offerings of the
 
-**TDB77:** “Levi mi siampi ahi Levi minam khempeuh in Israelte bangin tanh ahi a, luah ahi zongin nei lo ding uh hi; amaute in Topa tungah mei tawh kihal biaknate leh a kaih ngeite uh ne ding uh hi.
+**TDB77:** “Levi mi siampi ahi Levi minam khempeuh in Israelte bangin tanh ahi a, luah ahi zongin nei lo ding-te hi; amaute in Topa tungah mei tawh kihal biaknate leh a kaih ngeite-te ne ding-te hi.
 
-**ZVS:** “Siampi ahi Levi minam khempeuh in Israel-te bangin tanh ahi a, luah ahi zongin neilo ding uh a, amaute in { Topa' } tungah mei tawh kihal biaknate leh a kaih ngeite uh ne ding uh hi.
+**ZVS:** “Siampi ahi Levi minam khempeuh in Israel-te bangin tanh ahi a, luah ahi zongin neilo ding-te a, amaute in { Topa' } tungah mei tawh kihal biaknate leh a kaih ngeite-te ne ding-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** Therefore shall they have no inheritance among their brethren: the
 
-**TDB77:** Amaute in a sanggamte lakah gamluah nei lo ding uh hi; amah in amaute tungah a ciam mah bangin Topa in amaute’ luah ahi hi.
+**TDB77:** Amaute in a sanggamte lakah gamluah nei lo ding-te hi; amah in amaute tungah a ciam mah bangin Topa in amaute’ luah ahi hi.
 
-**ZVS:** Amaute in a sanggamte uh lakah gamhluah neilo ding uh a, amah in amaute tungah a ciam mah bangin { Topa } pen amaute' luah ahi hi.
+**ZVS:** Amaute in a sanggamte-te lakah gamhluah neilo ding-te a, amah in amaute tungah a ciam mah bangin { Topa } pen amaute' luah ahi hi.
 
 **Grammar:** future: will | negation: lo | plural: uh marker
 
 ### v3
 **EN:** And this shall be the priest's due from the people, from them that offer a sacrifice, whether it be ox or sheep; and they shall give unto the priest the shoulder, and the two cheeks, and the maw.
 
-**TDB77:** Hih in bawng hita leh tuu hita leh biakna-in a pia mite tung panin siampite’ kaih hi ding hi; amaute in siampite tungah a liang leh a pang nihte leh a gilpi pia ding uh hi.
+**TDB77:** Hih in bawng hita leh tuu hita leh biakna-in a pia mite tung panin siampite’ kaih hi ding hi; amaute in siampite tungah a liang leh a pang nihte leh a gilpi pia ding-te hi.
 
-**ZVS:** “Bawng hita leh tuu hita leh biakna-in a pia mite' tung panin siampite' kaih dingte: Amaute in siampite' tungah a liang leh a paang nihte leh a gilpi pia ding uh hi.
+**ZVS:** “Bawng hita leh tuu hita leh biakna-in a pia mite' tung panin siampite' kaih dingte: Amaute in siampite' tungah a liang leh a paang nihte leh a gilpi pia ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v4
 **EN:** The firstfruit also of thy corn, of thy wine, and of thine oil, and the first of the fleece of thy sheep, shalt thou give him.
 
-**TDB77:** Na anpal, na leenggahzu leh na sathau, leh na meet masak uh na tuumul na pia ding uh hi.
+**TDB77:** Na anpal, na leenggahzu leh na sathau, leh na meet masak-te na tuumul na pia ding-te hi.
 
-**ZVS:** Na anpal, na leenggahzu, na sathau, leh na meet masak uh na tuumul uh na pia ding uh hi.
+**ZVS:** Na anpal, na leenggahzu, na sathau, leh na meet masak-te na tuumul-te na pia ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v5
 **EN:** For the
 
-**TDB77:** Bang hang hiam cih leh Levi minamte Topa’ na a sem tawntung dingin na minam khempeuh uh sung panin Topa na Pasian un a teel ahi hi.
+**TDB77:** Bang hang hiam cih leh Levi minamte Topa’ na a sem tawntung dingin na minam khempeuh-te sung panin Topa na Pasian un a teel ahi hi.
 
-**ZVS:** Bang hang hiam cih leh Levi minamte { Topa' } na a sem tawntung dingin na minam khempeuh uh sung panin { Topa } na Pasian un a teel ahi hi.
+**ZVS:** Bang hang hiam cih leh Levi minamte { Topa' } na a sem tawntung dingin na minam khempeuh-te sung panin { Topa } na Pasian un a teel ahi hi.
 
 **Grammar:** purpose: in order to
 
 ### v6
 **EN:** And if a Levite come from any of thy gates out of all Israel, where he sojourned, and come with all the desire of his mind unto the place which the
 
-**TDB77:** “Levi mi khat, Israelte sung na khuapi uh khatpeuh peuh ahi ama teen’na panin ama ut hun peuh ciangin Topa’ teelna munah hong pai thei ding hi;
+**TDB77:** “Levi mi khat, Israelte sung na khuapi-te khatpeuh peuh ahi ama teen’na panin ama ut hun peuh ciangin Topa’ teelna munah hong pai thei ding hi;
 
-**ZVS:** “Levi mi khat, Israel-te sung na khuapi uh khat peuhpeuh ahi ama ten'na panin ama ut hun peuh ciangin { Topa' } teelna munah hong pai thei ding hi.
+**ZVS:** “Levi mi khat, Israel-te sung na khuapi-te khat peuhpeuh ahi ama ten'na panin ama ut hun peuh ciangin { Topa' } teelna munah hong pai thei ding hi.
 
 **Grammar:** future: will
 
@@ -98,9 +98,9 @@
 ### v9
 **EN:** When thou art come into the land which the
 
-**TDB77:** “Topa na Pasian un note hong piak leitang na tun’ uh ciangin, tua minamte’ gamtatna a kihhuaite zuih ding na kisin kei ding uh hi.
+**TDB77:** “Topa na Pasian un note hong piak leitang na tun’ uh ciangin, tua minamte’ gamtatna a kihhuaite zuih ding na kisin kei ding-te hi.
 
-**ZVS:** “{ Topa } na Pasian un note hong piak leitangah na tun' uh ciangin, tua minamte' gamtatna a kihhuaite zuih ding na kisin kei ding uh hi.
+**ZVS:** “{ Topa } na Pasian un note hong piak leitangah na tun' uh ciangin, tua minamte' gamtatna a kihhuaite zuih ding na kisin kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -116,9 +116,9 @@
 ### v11
 **EN:** Or a charmer, or a consulter with familiar spirits, or a wizard, or a necromancer.
 
-**TDB77:** bum a zang, van a kah, si khate tawh a kiho, si kha thu a dong kuamah na om kei ding uh hi.
+**TDB77:** bum a zang, van a kah, si khate tawh a kiho, si kha thu a dong kuamah na om kei ding-te hi.
 
-**ZVS:** bum a zang, van a kah, sikhate tawh a kiho, sikha thu a dong kuamah na om kei ding uh hi.
+**ZVS:** bum a zang, van a kah, sikhate tawh a kiho, sikha thu a dong kuamah na om kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -134,43 +134,43 @@
 ### v13
 **EN:** Thou shalt be perfect with the
 
-**TDB77:** Note in Topa na Pasian uh mai-ah pau’ baang loin na om ding uh hi.
+**TDB77:** Note in Topa na Pasian-te mai-ah pau’ baang loin na om ding-te hi.
 
-**ZVS:** Note pen { Topa } na Pasian uh mai-ah paubaang loin na om ding uh hi.
+**ZVS:** Note pen { Topa } na Pasian-te mai-ah paubaang loin na om ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v14
 **EN:** For these nations, which thou shalt possess, hearkened unto observers of times, and unto diviners: but as for thee, the
 
-**TDB77:** Bang hang hiam cih leh note in na suankhiat ding uh hih minamte in khong khaite leh ai saante’ thu ngai uh hi; ahih hangin note ahih leh tua banga na gamtat ding uh Topa na Pasian un hong phal lo hi.
+**TDB77:** Bang hang hiam cih leh note in na suankhiat ding-te hih minamte in khong khaite leh ai saante’ thu ngai-te hi; ahih hangin note ahih leh tua banga na gamtat ding-te Topa na Pasian un hong phal lo hi.
 
-**ZVS:** Bang hang hiam cih leh note in na suankhiat ding uh hih minamte in khongkhaite leh aisante thu ngai uh hi. Ahih hangin note ahih leh tua bangin na gamtat ding uh { Topa } na Pasian un hong phallo hi.
+**ZVS:** Bang hang hiam cih leh note in na suankhiat ding-te hih minamte in khongkhaite leh aisante thu ngai-te hi. Ahih hangin note ahih leh tua bangin na gamtat ding-te { Topa } na Pasian un hong phallo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v15
 **EN:** The
 
-**TDB77:** “Topa na Pasian un note lak ahi na sanggamte lak panun note adingin kei tawh a kibang kamsang khat hong khangsak ding hi—note in ama thu na ngai ding uh hi—
+**TDB77:** “Topa na Pasian un note lak ahi na sanggamte lak panun note adingin kei tawh a kibang kamsang khat hong khangsak ding hi—note in ama thu na ngai ding-te hi—
 
-**ZVS:** “{ Topa } na Pasian un note lak ahi na sanggamte uh lak panin note-a' dingin kei tawh a kibang kamsang khat hong khangsak ding hi. Note in ama thu na ngai ding uh hi.
+**ZVS:** “{ Topa } na Pasian un note lak ahi na sanggamte-te lak panin note-a' dingin kei tawh a kibang kamsang khat hong khangsak ding hi. Note in ama thu na ngai ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** According to all that thou desiredst of the
 
-**TDB77:** note in, ‘Si kha ding ka hih manin Topa ka Pasian’ aw hong zasak kik kei in,’ ci-in na kikhop ni-un Horeb ah Topa na Pasian uh tung pan na deih bang uh hi ding hi.
+**TDB77:** note in, ‘Si kha ding ka hih manin Topa ka Pasian’ aw hong zasak kik kei in,’ ci-in na kikhop ni-un Horeb ah Topa na Pasian-te tung pan na deih bang-te hi ding hi.
 
-**ZVS:** “Note in, ‘Si khading ka hih manun { Topa } kote' Pasian' aw hong zasak kik kei in. Hih a lian mei zong hong musak nawn kei in,’ ci-in na kikhop ni-un Horeb-ah { Topa } na Pasian uh tung pan na deih bang uh hi ding hi.
+**ZVS:** “Note in, ‘Si khading ka hih manun { Topa } kote' Pasian' aw hong zasak kik kei in. Hih a lian mei zong hong musak nawn kei in,’ ci-in na kikhop ni-un Horeb-ah { Topa } na Pasian-te tung pan na deih bang-te hi ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And the
 
-**TDB77:** Topa in kei kiangah, ‘Amaute in a gensa uh thu in a man taktakin ci uh hi.
+**TDB77:** Topa in kei kiangah, ‘Amaute in a gensa-te thu in a man taktakin ci-te hi.
 
 **ZVS:** { Topa } in kei kiangah, ‘Amaute' hong ngetna thuman taktak hi.
 
@@ -206,16 +206,16 @@
 ### v21
 **EN:** And if thou say in thine heart, How shall we know the word which the
 
-**TDB77:** Na lungsim sungah, ‘Topa gen a hilo thu bangci theih ding i hi hiam?’ na cih uh leh-
+**TDB77:** Na lungsim sungah, ‘Topa gen a hilo thu bangci theih ding i hi hiam?’ na cih-te leh-
 
-**ZVS:** “Na lungsim sung uhah, ‘{ Topa' } gen a hilo thu bangci theih ding ihi hiam?’ na cih uh leh,
+**ZVS:** “Na lungsim sung uhah, ‘{ Topa' } gen a hilo thu bangci theih ding ihi hiam?’ na cih-te leh,
 
 ### v22
 **EN:** When a prophet speaketh in the name of the
 
-**TDB77:** kamsang khat in Topa min tawh thu genin, tua thu pen hong tung lo ahi a, a man lo ahi zongin hong hih leh, tua thu in Topa’ gen loh thu ahi hi; kamsangpa in ama ut thu a gen hi a, amah na kihtak ding uh kul lo hi.
+**TDB77:** kamsang khat in Topa min tawh thu genin, tua thu pen hong tung lo ahi a, a man lo ahi zongin hong hih leh, tua thu in Topa’ gen loh thu ahi hi; kamsangpa in ama ut thu a gen hi a, amah na kihtak ding-te kul lo hi.
 
-**ZVS:** kamsang khat in { Topa' } min tawh thu genin, tua thu pen hong tunglo ahi a, a manlo ahi zongin hong hih leh, tua thu pen { Topa' } genloh thu ahi hi. Kamsangpa in ama utthu a gen hi a, amah na kihtak ding uh kullo hi.
+**ZVS:** kamsang khat in { Topa' } min tawh thu genin, tua thu pen hong tunglo ahi a, a manlo ahi zongin hong hih leh, tua thu pen { Topa' } genloh thu ahi hi. Kamsangpa in ama utthu a gen hi a, amah na kihtak ding-te kullo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 

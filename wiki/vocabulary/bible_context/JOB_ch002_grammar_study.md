@@ -27,9 +27,9 @@
 ### v1
 **EN:** Again there was a day when the sons of God came to present themselves before the
 
-**TDB77:** Nikhat ni-in Topa’ omna-ah vantungmite hong paikik uh a, Satan zong amaute lakah hong kihelin Topa’ omna mah-ah hong pai hi.
+**TDB77:** Nikhat ni-in Topa’ omna-ah vantungmite hong paikik-te a, Satan zong amaute lakah hong kihelin Topa’ omna mah-ah hong pai hi.
 
-**ZVS:** Ni khat ni-in { Topa' } omna-ah vantung mite hong paikik uh a, Satan zong amaute lakah hong kihelin { Topa' } omna mahah hong pai hi.
+**ZVS:** Ni khat ni-in { Topa' } omna-ah vantung mite hong paikik-te a, Satan zong amaute lakah hong kihelin { Topa' } omna mahah hong pai hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -117,27 +117,27 @@
 ### v11
 **EN:** Now when Job's three friends heard of all this evil that was come upon him, they came every one from his own place; Eliphaz the Temanite, and Bildad the Shuhite, and Zophar the Naamathite: for they had made an appointment together to come to mourn with him and to comfort him.
 
-**TDB77:** Job’ lawmte thum, Teman khuami Elifaz, Shuah gammi Bildad, leh Na-amah gammi Zofar-te in Job’ thuak gimna thu teng a zak uh ciangin a inn ciat panun amah hehnem ding leh a hanthawn dingin kituahin hong paikhawm uh hi.
+**TDB77:** Job’ lawmte thum, Teman khuami Elifaz, Shuah gammi Bildad, leh Na-amah gammi Zofar-te in Job’ thuak gimna thu teng a zak-te ciangin a inn ciat panun amah hehnem ding leh a hanthawn dingin kituahin hong paikhawm-te hi.
 
-**ZVS:** Job' lawmte thum, Teman khuami Elifaz, Shuah gammi Bildad, leh Naamah gammi Zofar-te in Job in a thuak gimna thu teng a zak uh ciangin a inn ciat panun amah a hehnem ding leh a hanthawn dingin kituahin hong paikhawm uh hi.
+**ZVS:** Job' lawmte thum, Teman khuami Elifaz, Shuah gammi Bildad, leh Naamah gammi Zofar-te in Job in a thuak gimna thu teng a zak-te ciangin a inn ciat panun amah a hehnem ding leh a hanthawn dingin kituahin hong paikhawm-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And when they lifted up their eyes afar off, and knew him not, they lifted up their voice, and wept; and they rent every one his mantle, and sprinkled dust upon their heads toward heaven.
 
-**TDB77:** Amaute in a gamla sim mun panin Job a muh tungun amah thei pah lo uh hi; tua ciangin amaute a gingin kap khia uh a, a puan uh balkeekin a lu tung uh a tu dingin leivui lawn to uh hi.
+**TDB77:** Amaute in a gamla sim mun panin Job a muh tungun amah thei pah lo-te hi; tua ciangin amaute a gingin kap khia-te a, a puan-te balkeekin a lu tung-te a tu dingin leivui lawn to-te hi.
 
-**ZVS:** Amaute in a gamla sim mun panin Job a muh tungun amah thei pahlo uh hi. Tua ciangin amaute a gingin kapkhia uh a, a puan uh balkekin a lu tung uh a tukik dingin leivui lawnto uh hi.
+**ZVS:** Amaute in a gamla sim mun panin Job a muh tungun amah thei pahlo-te hi. Tua ciangin amaute a gingin kapkhia-te a, a puan-te balkekin a lu tung-te a tukik dingin leivui lawnto-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | negation: lo | plural: uh marker
 
 ### v13
 **EN:** So they sat down with him upon the ground seven days and seven nights, and none spake a word unto him: for they saw that his grief was very great.
 
-**TDB77:** Tua ciangin lei lakah sun sagih leh zan sagih sung amah tawh tukhawm uh a, ama thuakna a nasiat mahmah lam tak mu uh ahih manin kuamah in kam khat beek a paupih ngam kei uh hi.
+**TDB77:** Tua ciangin lei lakah sun sagih leh zan sagih sung amah tawh tukhawm-te a, ama thuakna a nasiat mahmah lam tak mu-te ahih manin kuamah in kam khat beek a paupih ngam kei-te hi.
 
-**ZVS:** Tua ciangin leilakah sun sagih leh zan sagih sung amah tawh tukhawm uh a, ama thuakna a nasiat mahmah lamtak mu uh ahih manin kuamah in kam khat beek a paupih ngam kei uh hi.
+**ZVS:** Tua ciangin leilakah sun sagih leh zan sagih sung amah tawh tukhawm-te a, ama thuakna a nasiat mahmah lamtak mu-te ahih manin kuamah in kam khat beek a paupih ngam kei-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | negation: kei | causal: because | plural: uh marker
 

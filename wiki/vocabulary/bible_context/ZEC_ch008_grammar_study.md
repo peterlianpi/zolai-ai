@@ -53,18 +53,18 @@
 ### v4
 **EN:** Thus saith the
 
-**TDB77:** Jerusalem khuapi kongzing leh lamkabomte-ah a tu dingin puteekte omkik ding a, teek lua kisa-in ciangkhut khunin pai ding uh hi.
+**TDB77:** Jerusalem khuapi kongzing leh lamkabomte-ah a tu dingin puteekte omkik ding a, teek lua kisa-in ciangkhut khunin pai ding-te hi.
 
-**ZVS:** Jerusalem khuapi kongzing leh lamkabomte-ah a tu dingin puteekte omkik ding a, teeklua kisa-in ciangkhut khunin pai ding uh hi.
+**ZVS:** Jerusalem khuapi kongzing leh lamkabomte-ah a tu dingin puteekte omkik ding a, teeklua kisa-in ciangkhut khunin pai ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And the streets of the city shall be full of boys and girls playing in the streets thereof.
 
-**TDB77:** Kongzing khempeuh ah numei naupang kimawlin phezaizai ding uh hi.
+**TDB77:** Kongzing khempeuh ah numei naupang kimawlin phezaizai ding-te hi.
 
-**ZVS:** Kongzing khempeuhah numei naupang kimawlin phezaizai ding uh hi.
+**ZVS:** Kongzing khempeuhah numei naupang kimawlin phezaizai ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -85,7 +85,7 @@
 ### v8
 **EN:** And I will bring them, and they shall dwell in the midst of Jerusalem: and they shall be my people, and I will be their God, in truth and in righteousness.
 
-**TDB77:** Jerusalem khua sungah ka tun’pih kik ding hi. Amaute in keima mi hi-in, kei in amau’ Pasian ka hi ding a, amau tawh ka thuciamnate uh lim takin ka zui ding uh hi.
+**TDB77:** Jerusalem khua sungah ka tun’pih kik ding hi. Amaute in keima mi hi-in, kei in amau’ Pasian ka hi ding a, amau tawh ka thuciamnate-te lim takin ka zui ding-te hi.
 
 **ZVS:** Jerusalem khuasungah ka tun'pihkik ding hi. Amaute pen keima mi hi-in, kei zong amau' Pasian ka hi ding a, amau tawh ka thuciamnate limtakin ka zui ding hi.
 
@@ -94,9 +94,9 @@
 ### v9
 **EN:** Thus saith the
 
-**TDB77:** “Thakhauhin lungsim hang un. Ka biakinn a kilamkik nading a bul a kiphuh lai takin kamsangte in a gen thute mah a za na hi uh hi.
+**TDB77:** “Thakhauhin lungsim hang un. Ka biakinn a kilamkik nading a bul a kiphuh lai takin kamsangte in a gen thute mah a za na hi-te hi.
 
-**ZVS:** “Thakhauhin lungsim hang un. Ka biakinn a kilamkikna ding a bul a kiphuh laitakin kamsangte in a gen thute mah a za na hi uh hi.
+**ZVS:** “Thakhauhin lungsim hang un. Ka biakinn a kilamkikna ding a bul a kiphuh laitakin kamsangte in a gen thute mah a za na hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -121,18 +121,18 @@
 ### v12
 **EN:** For the seed shall be prosperous; the vine shall give her fruit, and the ground shall give her increase, and the heavens shall give their dew; and I will cause the remnant of this people to possess all these things.
 
-**TDB77:** Lungnuam takin lo kho sing pua-in nuamsa ding uh hi. Leengguite gah pha-in, lo-ah an tampi piang-in, guah tampi zu ding a, a suakta lai ka minamte tungah hih bang thupha khempeuh ka tungsak ding hi.
+**TDB77:** Lungnuam takin lo kho sing pua-in nuamsa ding-te hi. Leengguite gah pha-in, lo-ah an tampi piang-in, guah tampi zu ding a, a suakta lai ka minamte tungah hih bang thupha khempeuh ka tungsak ding hi.
 
-**ZVS:** Lungnuam takin lokho singpua-in nuam a sa ding uh hi. Leengguite gahpha ding a, guah tampi zu-in lo-ah an tampi piang ding a, a suaktalai ka minamte tungah hih bang thupha khempeuh ka tungsak ding hi.
+**ZVS:** Lungnuam takin lokho singpua-in nuam a sa ding-te hi. Leengguite gahpha ding a, guah tampi zu-in lo-ah an tampi piang ding a, a suaktalai ka minamte tungah hih bang thupha khempeuh ka tungsak ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v13
 **EN:** And it shall come to pass, that as ye were a curse among the heathen, O house of Judah, and house of Israel; so will I save you, and ye shall be a blessing: fear not, but let your hands be strong.
 
-**TDB77:** A beisa hun-ah, Judah gam mite leh Israel gam mite pen, minam dangte in hamsiatna kamin zang uh a, ‘Judah leh Israelte thuak bangin thuak un,’ kici uh hi. Ahi zongin note kong honkhia ding a, tu-in midangte in, ‘Judah leh Israel bangin thupha ngah un,’ ci-in thupha piakna-in kinei ding uh hi. Tua ahih manin na lungsim uh hangsak un la lau kei un.
+**TDB77:** A beisa hun-ah, Judah gam mite leh Israel gam mite pen, minam dangte in hamsiatna kamin zang-te a, ‘Judah leh Israelte thuak bangin thuak un,’ kici-te hi. Ahi zongin note kong honkhia ding a, tu-in midangte in, ‘Judah leh Israel bangin thupha ngah un,’ ci-in thupha piakna-in kinei ding-te hi. Tua ahih manin na lungsim-te hangsak un la lau kei un.
 
-**ZVS:** A beisa hunah, Judah gammite leh Israel gammite pen, minam dangte in kihamsiatna-in zang uh a, ‘Judah leh Israel-te' thuak bangin thuak un,’ kici uh hi. Ahi zongin note kong honkhia ding a, tu-in midangte in, ‘Judah leh Israel bangin thupha ngah un,’ ci-in thupha kipiakna-in zang ding uh hi. Tua ahih manin na lungsim uh hangsak un la lau kei un.
+**ZVS:** A beisa hunah, Judah gammite leh Israel gammite pen, minam dangte in kihamsiatna-in zang-te a, ‘Judah leh Israel-te' thuak bangin thuak un,’ kici-te hi. Ahi zongin note kong honkhia ding a, tu-in midangte in, ‘Judah leh Israel bangin thupha ngah un,’ ci-in thupha kipiakna-in zang ding-te hi. Tua ahih manin na lungsim-te hangsak un la lau kei un.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -200,27 +200,27 @@
 ### v21
 **EN:** And the inhabitants of one city shall go to another, saying, Let us go speedily to pray before the
 
-**TDB77:** Khuapi khat-a om mite in khuapi danga om mite kiangah, ‘Vanglianpen Topa bia-in ama tung panin thupha ka ngen ding uh hi. Hong zui un,’ ci ding uh hi.
+**TDB77:** Khuapi khat-a om mite in khuapi danga om mite kiangah, ‘Vanglianpen Topa bia-in ama tung panin thupha ka ngen ding-te hi. Hong zui un,’ ci ding-te hi.
 
-**ZVS:** Khuapi khata om mite in khuapi danga om mite kiangah, ‘Vanglian { Topa } bia-in ama tung panin thupha ka ngen ding uh hi. Hong zui un,’ ci ding uh hi.
+**ZVS:** Khuapi khata om mite in khuapi danga om mite kiangah, ‘Vanglian { Topa } bia-in ama tung panin thupha ka ngen ding-te hi. Hong zui un,’ ci ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** Yea, many people and strong nations shall come to seek the
 
-**TDB77:** A vanglian a thahat minamte in Vanglianpen Topa a bia ding leh ama tung pan thupha a ngen dingin Jerusalem ah hong pai ding uh hi.
+**TDB77:** A vanglian a thahat minamte in Vanglianpen Topa a bia ding leh ama tung pan thupha a ngen dingin Jerusalem ah hong pai ding-te hi.
 
-**ZVS:** A vanglian a thahat minamte zong Vanglian { Topa } a bia ding leh ama tung panin thupha a ngen dingin Jerusalem-ah hong pai ding uh hi.
+**ZVS:** A vanglian a thahat minamte zong Vanglian { Topa } a bia ding leh ama tung panin thupha a ngen dingin Jerusalem-ah hong pai ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v23
 **EN:** Thus saith the
 
-**TDB77:** Tua hun ciangin minam tuamtuamte sung panin mi sawm, Judah mi khat kiangah hong pai-in, ‘Pasian in note hong ompihna thu za ka hih manun na nung hong zuisak in,’ ci-in thuum ding uh hi,” a ci hi.
+**TDB77:** Tua hun ciangin minam tuamtuamte sung panin mi sawm, Judah mi khat kiangah hong pai-in, ‘Pasian in note hong ompihna thu za ka hih manun na nung hong zuisak in,’ ci-in thuum ding-te hi,” a ci hi.
 
-**ZVS:** Tua hun ciangin minam tuamtuamte sung panin mi sawm, Jew mi khat kiangah hong pai-in, ‘Pasian in nang hong ompihna thu za ka hih manun na nung hong zuisak in,’ ci-in thum ding uh hi,” a ci hi.
+**ZVS:** Tua hun ciangin minam tuamtuamte sung panin mi sawm, Jew mi khat kiangah hong pai-in, ‘Pasian in nang hong ompihna thu za ka hih manun na nung hong zuisak in,’ ci-in thum ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

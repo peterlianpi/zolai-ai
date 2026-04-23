@@ -28,7 +28,7 @@
 
 **TDB77:** Izipt gam tawh kisai thu: A manlang mahmah meii tungah Topa tuangin Izipt gamah pai hi; ama mai-ah Izipt gam milimte liing ding a, Izipt mite’ han’na bei ding hi.
 
-**ZVS:** Egypt tawh kisai thu hih bangin gen hi: A manlang mahmah meii tungah { Topa } tuangin Egypt gamah a pai hi. Ama mai-ah Egypt gam milimte lau-in ling ding uh a, Egypt mite' han'na beita ding hi.
+**ZVS:** Egypt tawh kisai thu hih bangin gen hi: A manlang mahmah meii tungah { Topa } tuangin Egypt gamah a pai hi. Ama mai-ah Egypt gam milimte lau-in ling ding-te a, Egypt mite' han'na beita ding hi.
 
 **Grammar:** intensifier: very/greatly | future: will | reciprocal: ki- prefix
 
@@ -44,9 +44,9 @@
 ### v3
 **EN:** And the spirit of Egypt shall fail in the midst thereof; and I will destroy the counsel thereof: and they shall seek to the idols, and to the charmers, and to them that have familiar spirits, and to the wizards.
 
-**TDB77:** Izipt mite’ lungsim hawmsuak ding a, amau’ geelnate ka siasak ding hi; amaute in milimte leh khongkhai theite, vankah theite leh aisan theite thu dong ding uh hi;
+**TDB77:** Izipt mite’ lungsim hawmsuak ding a, amau’ geelnate ka siasak ding hi; amaute in milimte leh khongkhai theite, vankah theite leh aisan theite thu dong ding-te hi;
 
-**ZVS:** Egypt mite' lungsim hawmsuak ding a, amau' geelnate ka siasak ding hi. Amaute in milimte, vankah theite leh aisan theite tungah thu dong ding uh hi.
+**ZVS:** Egypt mite' lungsim hawmsuak ding a, amau' geelnate ka siasak ding hi. Amaute in milimte, vankah theite leh aisan theite tungah thu dong ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -89,18 +89,18 @@
 ### v8
 **EN:** The fishers also shall mourn, and all they that cast angle into the brooks shall lament, and they that spread nets upon the waters shall languish.
 
-**TDB77:** Nail gun sunga nga-siahna sikkawi a khia, ngabengte thuumin tau ding uh a, tui tungah ngeen a paii mite thanem ding hi.
+**TDB77:** Nail gun sunga nga-siahna sikkawi a khia, ngabengte thuumin tau ding-te a, tui tungah ngeen a paii mite thanem ding hi.
 
-**ZVS:** Nail gun sungah ngasiahna sikkawi a khia ngei, ngasa bengte thumin tau ding uh a, tui tungah ngen a pai ngei mite thanem ding uh hi.
+**ZVS:** Nail gun sungah ngasiahna sikkawi a khia ngei, ngasa bengte thumin tau ding-te a, tui tungah ngen a pai ngei mite thanem ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v9
 **EN:** Moreover they that work in fine flax, and they that weave networks, shall be confounded.
 
-**TDB77:** Anthul khau ciing a, na a semte leh patpuan a gante lungkham ding uh hi.
+**TDB77:** Anthul khau ciing a, na a semte leh patpuan a gante lungkham ding-te hi.
 
-**ZVS:** Anthul khau ciingin na a semte leh patpuan a gante lungkham ding uh hi.
+**ZVS:** Anthul khau ciingin na a semte leh patpuan a gante lungkham ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -109,16 +109,16 @@
 
 **TDB77:** Gamsung makai mite kisusia cip ding a, a kicial nasemte dah ding hi.
 
-**ZVS:** Gamsung makaite kisusiacip ding a, a kicial nasemte dah ding uh hi.
+**ZVS:** Gamsung makaite kisusiacip ding a, a kicial nasemte dah ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v11
 **EN:** Surely the princes of Zoan are fools, the counsel of the wise counsellors of Pharaoh is become brutish: how say ye unto Pharaoh, I am the son of the wise, the son of ancient kings?
 
-**TDB77:** Zoan uliante hai cihtakin hai uh a, Faro’ mipil thu lamlakte in thu haihuai gen uh hi Nang in Faro’ tungah, “Mi pilte khat ka hi a, tanglai kumpipite’ nungzui ka hi hi,” bang ci a, ci thei ding na hi hiam?
+**TDB77:** Zoan uliante hai cihtakin hai-te a, Faro’ mipil thu lamlakte in thu haihuai gen-te hi Nang in Faro’ tungah, “Mi pilte khat ka hi a, tanglai kumpipite’ nungzui ka hi hi,” bang ci a, ci thei ding na hi hiam?
 
-**ZVS:** Zoan uliante hai cihtakin hai uh a, Faro' mipil thu lamlakte in thu haihuai gen uh hi. Nang in Faro' tungah, “Mipilpa' tapa ka hi hi; tanglai kumpite' tapa ka hi hi,” bangci-in ci thei ding na hi hiam?
+**ZVS:** Zoan uliante hai cihtakin hai-te a, Faro' mipil thu lamlakte in thu haihuai gen-te hi. Nang in Faro' tungah, “Mipilpa' tapa ka hi hi; tanglai kumpite' tapa ka hi hi,” bangci-in ci thei ding na hi hiam?
 
 **Grammar:** plural: uh marker
 
@@ -127,16 +127,16 @@
 
 **TDB77:** Tua ahih leh Izipt kumpipa Faro aw, na mi pilte koi-ah om ahi hiam? Vanglianpen Topa in Izipt gam daantah ding a ngimna thu, na mipilte in nangma tungah hong gen thei kha ding hi.
 
-**ZVS:** Tua ahih kei leh Egypt kumpipa Faro aw, na mipilte koi-ah om ahi uh hiam? Vanglian { Topa } in Egypt gam gimpiak ding a ngimna thu, na mipilte in nangma tungah hong genthei khading hi.
+**ZVS:** Tua ahih kei leh Egypt kumpipa Faro aw, na mipilte koi-ah om ahi-te hiam? Vanglian { Topa } in Egypt gam gimpiak ding a ngimna thu, na mipilte in nangma tungah hong genthei khading hi.
 
 **Grammar:** future: will
 
 ### v13
 **EN:** The princes of Zoan are become fools, the princes of Memphis are deceived; they have also seduced Egypt, even they that are the stay of the tribes thereof.
 
-**TDB77:** Zoan uliante mihai suak khin a, Memfis uliante zong hai khin uh hi: minamte a makaih ding a, kineite mah in Izipt mite lam khialhpih khin hi.
+**TDB77:** Zoan uliante mihai suak khin a, Memfis uliante zong hai khin-te hi: minamte a makaih ding a, kineite mah in Izipt mite lam khialhpih khin hi.
 
-**ZVS:** Zoan uliante mihai suak khin uh a, Memfis uliante zong hai khin uh hi. Minamte a makai dinga kineite in a mite uh lam khialhpih khin hi.
+**ZVS:** Zoan uliante mihai suak khin-te a, Memfis uliante zong hai khin-te hi. Minamte a makai dinga kineite in a mite-te lam khialhpih khin hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -161,18 +161,18 @@
 ### v16
 **EN:** In that day shall Egypt be like unto women: and it shall be afraid and fear because of the shaking of the hand of the
 
-**TDB77:** Tua ni ciangin Izipt mite pen numei bang ding uh a, Vanglianpen Topa in amaute tungah a khut a sin’sanna hangin lau-in liing ding uh hi.
+**TDB77:** Tua ni ciangin Izipt mite pen numei bang ding-te a, Vanglianpen Topa in amaute tungah a khut a sin’sanna hangin lau-in liing ding-te hi.
 
-**ZVS:** Tua ni ciangin Egypt mite, numei bang ding uh a, Vanglian { Topa } in amaute a khut a sin'sanna hangin lau-in ling ding uh hi.
+**ZVS:** Tua ni ciangin Egypt mite, numei bang ding-te a, Vanglian { Topa } in amaute a khut a sin'sanna hangin lau-in ling ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v17
 **EN:** And the land of Judah shall be a terror unto Egypt, every one that maketh mention thereof shall be afraid in himself, because of the counsel of the
 
-**TDB77:** Judah gam pen Izipt mite’ kihtak hong suak ding hi; Vanglianpen Topa in amaute daantah ding a ngimna hangin, hih thu a kigenna mi peuhpeuh lau ding uh hi.
+**TDB77:** Judah gam pen Izipt mite’ kihtak hong suak ding hi; Vanglianpen Topa in amaute daantah ding a ngimna hangin, hih thu a kigenna mi peuhpeuh lau ding-te hi.
 
-**ZVS:** Judah gam pen Egypt mite' kihtak hong suak ding hi. Vanglian { Topa } in amaute gimpiak ding a ngimna hangin, hih thu a kigenna mi khempeuh lau ding uh hi.
+**ZVS:** Judah gam pen Egypt mite' kihtak hong suak ding hi. Vanglian { Topa } in amaute gimpiak ding a ngimna hangin, hih thu a kigenna mi khempeuh lau ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -181,7 +181,7 @@
 
 **TDB77:** Tua ni ciangin, Izipt gam sungah khuapi nga in, Kanaan mite’ kampau zangin Vanglianpen Topa tungah thuman ding thuciam ding hi. Hih khuapi khat pen Ni khuapi kici ding hi.
 
-**ZVS:** Tua ni ciangin Egypt gamsungah khuapi nga in Kanaan mite' kampau zangin Vanglian { Topa}' tungah thuman ding thu ciam ding uh hi. Hih khuapi khat pen, “Ni Khuapi,” kici ding hi.
+**ZVS:** Tua ni ciangin Egypt gamsungah khuapi nga in Kanaan mite' kampau zangin Vanglian { Topa}' tungah thuman ding thu ciam ding-te hi. Hih khuapi khat pen, “Ni Khuapi,” kici ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -206,45 +206,45 @@
 ### v21
 **EN:** And the
 
-**TDB77:** Topa in Izipt mite tungah amahmah kitheisak ding hi; tua ni ciangin Izipt mite in Topa thei-in biak piakna leh meihal tawh bia ding uh a, amaute in Topa’ tungah thuciamna bawl-in, tua thuciamnate sem ding uh hi.
+**TDB77:** Topa in Izipt mite tungah amahmah kitheisak ding hi; tua ni ciangin Izipt mite in Topa thei-in biak piakna leh meihal tawh bia ding-te a, amaute in Topa’ tungah thuciamna bawl-in, tua thuciamnate sem ding-te hi.
 
-**ZVS:** { Topa } in Egypt mite tungah amahmah kitheisak ding hi. Tua ni ciangin Egypt mite in { Topa } thei-in biakpiakna leh meihal biakna tawh bia ding uh a, amaute in { Topa}' tungah thuciamna bawlin, tua thuciamnate sem ding uh hi.
+**ZVS:** { Topa } in Egypt mite tungah amahmah kitheisak ding hi. Tua ni ciangin Egypt mite in { Topa } thei-in biakpiakna leh meihal biakna tawh bia ding-te a, amaute in { Topa}' tungah thuciamna bawlin, tua thuciamnate sem ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And the
 
-**TDB77:** Topa in Izipt mite pulnatna tawh vat ding a, ahi zongin damsak ding hi; Topa’ lamah amaute kihei kik ding uh a, amah in amaute’ thuumna donin amaute damsak ding hi.
+**TDB77:** Topa in Izipt mite pulnatna tawh vat ding a, ahi zongin damsak ding hi; Topa’ lamah amaute kihei kik ding-te a, amah in amaute’ thuumna donin amaute damsak ding hi.
 
-**ZVS:** { Topa } in Egypt mite sat ding a, ahi zongin damsak kik ding hi. { Topa}' lamah amaute kihei kik ding uh a, amah in amaute' thumna donin amaute a damsak ding hi.
+**ZVS:** { Topa } in Egypt mite sat ding a, ahi zongin damsak kik ding hi. { Topa}' lamah amaute kihei kik ding-te a, amah in amaute' thumna donin amaute a damsak ding hi.
 
 **Grammar:** causative: -sak suffix | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** In that day shall there be a highway out of Egypt to Assyria, and the Assyrian shall come into Egypt, and the Egyptian into Assyria, and the Egyptians shall serve with the Assyrians.
 
-**TDB77:** Tua ni ciangin Izipt gam panin Assiria gamah lam lianpi khat pai-in, Assiria mite Izipt gamah hong pai ding a, Izipt mi Assiria gam sungah pai-in, Izipt mite in Assiria mite tawh bia khawm ding uh hi.
+**TDB77:** Tua ni ciangin Izipt gam panin Assiria gamah lam lianpi khat pai-in, Assiria mite Izipt gamah hong pai ding a, Izipt mi Assiria gam sungah pai-in, Izipt mite in Assiria mite tawh bia khawm ding-te hi.
 
-**ZVS:** Tua ciangin Egypt gam panin Assiria gamah lam lianpi khat pai-in, Assiria mite Egypt gamah hong pai ding a, Egypt mite Assiria gam sungah pai-in, Egypt mite in Assiria mite tawh biakhawm ding uh hi.
+**ZVS:** Tua ciangin Egypt gam panin Assiria gamah lam lianpi khat pai-in, Assiria mite Egypt gamah hong pai ding a, Egypt mite Assiria gam sungah pai-in, Egypt mite in Assiria mite tawh biakhawm ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v24
 **EN:** In that day shall Israel be the third with Egypt and with Assyria, even a blessing in the midst of the land:
 
-**TDB77:** Tua ni ciangin Israel, Izipt leh Assiria hih thumte pen leitung khempeuh adingin thupha hi ding uh a,
+**TDB77:** Tua ni ciangin Israel, Izipt leh Assiria hih thumte pen leitung khempeuh adingin thupha hi ding-te a,
 
-**ZVS:** Tua ni ciangin Israel, Egypt, leh Assiria, hih thumte pen leitung khempeuh-a' dingin thupha hi ding uh a,
+**ZVS:** Tua ni ciangin Israel, Egypt, leh Assiria, hih thumte pen leitung khempeuh-a' dingin thupha hi ding-te a,
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v25
 **EN:** Whom the
 
-**TDB77:** Vanglianpen Topa in amaute thupha pia in, “Ka mihingte ahi Izipt leh ka khut tawh ka sepsa ahi Assiria leh keima luah ahi Israel in thupha ngah ta hen,” ci-a thupha a piakte hi ding uh hi.
+**TDB77:** Vanglianpen Topa in amaute thupha pia in, “Ka mihingte ahi Izipt leh ka khut tawh ka sepsa ahi Assiria leh keima luah ahi Israel in thupha ngah ta hen,” ci-a thupha a piakte hi ding-te hi.
 
-**ZVS:** Vanglian { Topa } in, “Ka mihingte ahi Egypt, ka khut tawh ka bawlsa ahi Assiria, leh keima luah ahi Israel mite in thupha ngah ta hen,” ci-in thupha a piakte hi ding uh hi.
+**ZVS:** Vanglian { Topa } in, “Ka mihingte ahi Egypt, ka khut tawh ka bawlsa ahi Assiria, leh keima luah ahi Israel mite in thupha ngah ta hen,” ci-in thupha a piakte hi ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 

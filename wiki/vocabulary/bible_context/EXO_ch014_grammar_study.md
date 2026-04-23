@@ -39,34 +39,34 @@
 
 **TDB77:** “Israel mite kihei kikin Migdol leh tuipi kikal, Pihahiroth-mai, Baalzefon nisuahna lamah giahphual a sat ding gen in; tuipi gei, tua gal khatah giahphual na sat ding hi.
 
-**ZVS:** “Israel mite kihei kikin Migdol leh tuipi kikal, Pihahiroth mai, Baalzefon nisuahna lamah giahphual a sat ding gen in. Tuipi gei, tua galkhatah giahphual na sat ding uh hi.
+**ZVS:** “Israel mite kihei kikin Migdol leh tuipi kikal, Pihahiroth mai, Baalzefon nisuahna lamah giahphual a sat ding gen in. Tuipi gei, tua galkhatah giahphual na sat ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v3
 **EN:** For Pharaoh will say of the children of Israel, They are entangled in the land, the wilderness hath shut them in.
 
-**TDB77:** Bang hang hiam cih leh Faro in Israel’ thu tawh kisai genin, ‘Gam sungah amaute tangciak uh hi; gamlak in amaute khuhcip khin hi,’ ci ding hi.
+**TDB77:** Bang hang hiam cih leh Faro in Israel’ thu tawh kisai genin, ‘Gam sungah amaute tangciak-te hi; gamlak in amaute khuhcip khin hi,’ ci ding hi.
 
-**ZVS:** Bang hang hiam cih leh Faro in Israel mite' thu tawh kisai genin, ‘Sehnel gam sungah amaute tangciak uh hi. Sehnel gam in amaute khuhcip khin hi,’ ci ding hi.
+**ZVS:** Bang hang hiam cih leh Faro in Israel mite' thu tawh kisai genin, ‘Sehnel gam sungah amaute tangciak-te hi. Sehnel gam in amaute khuhcip khin hi,’ ci ding hi.
 
 **Grammar:** completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And I will harden Pharaoh's heart, that he shall follow after them; and I will be honoured upon Pharaoh, and upon all his host; that the Egyptians may know that I am the
 
-**TDB77:** Keimah in Faro’ lungsim khauhsakin, amah in amaute delh ding a, Faro leh a mi honpite khempeuh ka zawhna hangin minthan’na ka ngah ding hi; keimah in Topa ka hihna thu Izipt mite in thei ding uh hi,” a ci hi. Amaute tua mah bangin gamta uh hi.
+**TDB77:** Keimah in Faro’ lungsim khauhsakin, amah in amaute delh ding a, Faro leh a mi honpite khempeuh ka zawhna hangin minthan’na ka ngah ding hi; keimah in Topa ka hihna thu Izipt mite in thei ding-te hi,” a ci hi. Amaute tua mah bangin gamta-te hi.
 
-**ZVS:** Keimah in Faro' lungsim khauhsakin, amah in Israel-te hong delh ding a, Faro leh a mihonpite khempeuh ka zawhna hangin minthan'na ka ngah ding hi. Kei, { Topa } ka hihna thu Egypt mite in thei ding uh hi,” a ci hi. Amaute zong tua bangmahin gamta uh hi.
+**ZVS:** Keimah in Faro' lungsim khauhsakin, amah in Israel-te hong delh ding a, Faro leh a mihonpite khempeuh ka zawhna hangin minthan'na ka ngah ding hi. Kei, { Topa } ka hihna thu Egypt mite in thei ding-te hi,” a ci hi. Amaute zong tua bangmahin gamta-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v5
 **EN:** And it was told the king of Egypt that the people fled: and the heart of Pharaoh and of his servants was turned against the people, and they said, Why have we done this, that we have let Israel go from serving us?
 
-**TDB77:** Mite tai khin zo hi, ci-in Izipt kumpipa kiangah a kigen ciangin, Faro leh ama nasemte’ ngaihsutna kikhel a, amaute in, “Eite’ na hong sep nading panin Israel i pai khiatsak, hih banga i gamtat bang himawk ahi hiam?” ci uh hi.
+**TDB77:** Mite tai khin zo hi, ci-in Izipt kumpipa kiangah a kigen ciangin, Faro leh ama nasemte’ ngaihsutna kikhel a, amaute in, “Eite’ na hong sep nading panin Israel i pai khiatsak, hih banga i gamtat bang himawk ahi hiam?” ci-te hi.
 
-**ZVS:** Mite tai khinzo hi, ci-in Egypt kumpipa kiangah a kigen ciangin, Faro leh ama nasemte' ngaihsutna kikhel a, amaute in, “Eite' na hong sepna ding panin Israel mite i paikhiatsak, hih banga i gamtat bang hi mawk ahi hiam?” ci uh hi.
+**ZVS:** Mite tai khinzo hi, ci-in Egypt kumpipa kiangah a kigen ciangin, Faro leh ama nasemte' ngaihsutna kikhel a, amaute in, “Eite' na hong sepna ding panin Israel mite i paikhiatsak, hih banga i gamtat bang hi mawk ahi hiam?” ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -98,18 +98,18 @@
 ### v9
 **EN:** But the Egyptians pursued after them, all the horses and chariots of Pharaoh, and his horsemen, and his army, and overtook them encamping by the sea, beside Pi–hahiroth, before Baal–zephon.
 
-**TDB77:** Izipt mite ahi, Faro’ sakolte, leengte, ama sakol tuangte leh a galkapte in amaute delh uh a, amaute giahphual satin tuipi-ah a omna uh, Pihahiroth gei, Baalzefon nisuahna lam munah pha uh hi.
+**TDB77:** Izipt mite ahi, Faro’ sakolte, leengte, ama sakol tuangte leh a galkapte in amaute delh-te a, amaute giahphual satin tuipi-ah a omna uh, Pihahiroth gei, Baalzefon nisuahna lam munah pha-te hi.
 
-**ZVS:** Egypt mite ahi, Faro' sakolte, leengte, ama sakol tung tuangte leh a galkapte in amaute delh uh a, amaute giahphual satin tuipi gei-a a omna uh, Pihahiroth gei, Baalzefon nisuahna lam munah a pha uh hi.
+**ZVS:** Egypt mite ahi, Faro' sakolte, leengte, ama sakol tung tuangte leh a galkapte in amaute delh-te a, amaute giahphual satin tuipi gei-a a omna uh, Pihahiroth gei, Baalzefon nisuahna lam munah a pha-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v10
 **EN:** And when Pharaoh drew nigh, the children of Israel lifted up their eyes, and, behold, the Egyptians marched after them; and they were sore afraid: and the children of Israel cried out unto the
 
-**TDB77:** Faro hong nai ciangin Israel mite khuadak to uh hi, en in, amaute' nungah Izipt mite hong kuan hi; amaute lau mahmah uh hi. Topa' tungah Israel mite kiko uh hi;
+**TDB77:** Faro hong nai ciangin Israel mite khuadak to-te hi, en in, amaute' nungah Izipt mite hong kuan hi; amaute lau mahmah-te hi. Topa' tungah Israel mite kiko-te hi;
 
-**ZVS:** Faro hong nai ciangin Israel mite khuadak to uh hi. En in, amaute' nungah Egypt mite hong kuan hi. Amaute lau mahmah uh hi. { Topa' } tungah Israel mite kiko uh hi.
+**ZVS:** Faro hong nai ciangin Israel mite khuadak to-te hi. En in, amaute' nungah Egypt mite hong kuan hi. Amaute lau mahmah-te hi. { Topa' } tungah Israel mite kiko-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
@@ -125,27 +125,27 @@
 ### v12
 **EN:** Is not this the word that we did tell thee in Egypt, saying, Let us alone, that we may serve the Egyptians? For it had been better for us to serve the Egyptians, than that we should die in the wilderness.
 
-**TDB77:** ‘Kote hong hici omsak in la, Izipt mite’ na hong semsak in,’ ci-in Izipt-ah nang' tungah hong gen hi lo ka hi uh hiam? Bang hang hiam cih leh gamlak-a sih sangin Izipt mite’ na sep ding pen kote’ adingin hoih zaw ding hi,” a ci uh hi.
+**TDB77:** ‘Kote hong hici omsak in la, Izipt mite’ na hong semsak in,’ ci-in Izipt-ah nang' tungah hong gen hi lo ka hi-te hiam? Bang hang hiam cih leh gamlak-a sih sangin Izipt mite’ na sep ding pen kote’ adingin hoih zaw ding hi,” a ci-te hi.
 
-**ZVS:** ‘Kote hong hici omsak in la, Egypt mite' na hong semsak in,’ ci-in Egypt-ah nang' tungah hong gen hilo ka hi uh hiam? Bang hang hiam cih leh sehnel gamah sih sangin Egypt mite' na sep ding kote-a' dingin hoihzaw ding hi,” a ci uh hi.
+**ZVS:** ‘Kote hong hici omsak in la, Egypt mite' na hong semsak in,’ ci-in Egypt-ah nang' tungah hong gen hilo ka hi-te hiam? Bang hang hiam cih leh sehnel gamah sih sangin Egypt mite' na sep ding kote-a' dingin hoihzaw ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
 ### v13
 **EN:** And Moses said unto the people, Fear ye not, stand still, and see the salvation of the
 
-**TDB77:** Moses in mite' tungah, “Kihta kei un, kip takin ding un, amah in note adingin tu ni-a hong sep ding Topa’ hotkhiatna mu un; bang hang hiam cih leh tu ni-a na muh uh Izipt mite, note in na mukik nawn kei ding uh hi.
+**TDB77:** Moses in mite' tungah, “Kihta kei un, kip takin ding un, amah in note adingin tu ni-a hong sep ding Topa’ hotkhiatna mu un; bang hang hiam cih leh tu ni-a na muh-te Izipt mite, note in na mukik nawn kei ding-te hi.
 
-**ZVS:** Moses in mite tungah, “Lau kei un, kiptakin om un. Note-a' dingin tuni-a hong sep ding { Topa' } hotkhiatna mu un. Bang hang hiam cih leh tuni-a na muh uh Egypt mite, note in na mukik nawn kei ding uh hi.
+**ZVS:** Moses in mite tungah, “Lau kei un, kiptakin om un. Note-a' dingin tuni-a hong sep ding { Topa' } hotkhiatna mu un. Bang hang hiam cih leh tuni-a na muh-te Egypt mite, note in na mukik nawn kei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** The
 
-**TDB77:** Topa in note adingin hong dosak ding a, note ahih leh na om hithiat ding uh hi bek hi,” a ci hi.
+**TDB77:** Topa in note adingin hong dosak ding a, note ahih leh na om hithiat ding-te hi bek hi,” a ci hi.
 
-**ZVS:** { Topa } in note-a' dingin hong dosak ding a, note ahih leh na om hithiat ding uh hi bek hi,” a ci hi.
+**ZVS:** { Topa } in note-a' dingin hong dosak ding a, note ahih leh na om hithiat ding-te hi bek hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | plural: uh marker
 
@@ -154,7 +154,7 @@
 
 **TDB77:** Topa in Moses' kiangah, “Bang hangin kei' tungah hong kiko na hi hiam? Israel mite mainawt-in a pai ding gen in.
 
-**ZVS:** { Topa } in Moses kiangah, “Bang hangin kei' tungah hong kiko na hi uh hiam? Israel mite mai nawtin a pai ding uh gen in.
+**ZVS:** { Topa } in Moses kiangah, “Bang hangin kei' tungah hong kiko na hi-te hiam? Israel mite mai nawtin a pai ding-te gen in.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -170,7 +170,7 @@
 ### v17
 **EN:** And I, behold, I will harden the hearts of the Egyptians, and they shall follow them: and I will get me honour upon Pharaoh, and upon all his host, upon his chariots, and upon his horsemen.
 
-**TDB77:** Amau’ nungah amaute hong pai-in, keimah in Faro leh a mi honpite khempeuh, a leengte, a sakol tuangte ka zawhna hangin minthan’na ka ngah nading hi. Keimah in Izipt mite’ lungsim ka khauhsak ding a, amaute in hong nungdelh ding uh hi.
+**TDB77:** Amau’ nungah amaute hong pai-in, keimah in Faro leh a mi honpite khempeuh, a leengte, a sakol tuangte ka zawhna hangin minthan’na ka ngah nading hi. Keimah in Izipt mite’ lungsim ka khauhsak ding a, amaute in hong nungdelh ding-te hi.
 
 **ZVS:** Amau' nungah Egypt mite hong pai-in, keimah in Faro leh a mihonpite khempeuh, a leengte, leh a sakol tung tuangte ka zawhna hangin minthan'na ka ngahna dingin keimah in Egypt mite' lungsim ka khauhsak ding hi.
 
@@ -179,9 +179,9 @@
 ### v18
 **EN:** And the Egyptians shall know that I am the
 
-**TDB77:** Faro leh ama' leengte leh ama' sakol tuangte ka zawhna hangin minthan’na ka ngah khit ciangin keimah in Topa ka hihna thu Izipt mite in thei ding uh hi,” a ci hi.
+**TDB77:** Faro leh ama' leengte leh ama' sakol tuangte ka zawhna hangin minthan’na ka ngah khit ciangin keimah in Topa ka hihna thu Izipt mite in thei ding-te hi,” a ci hi.
 
-**ZVS:** Faro leh ama leengte leh ama sakol tung tuangte ka zawhna hangin minthan'na ka ngah khit ciangin { Topa } ka hihna thu Egypt mite in hong thei ding uh hi,” a ci hi.
+**ZVS:** Faro leh ama leengte leh ama sakol tung tuangte ka zawhna hangin minthan'na ka ngah khit ciangin { Topa } ka hihna thu Egypt mite in hong thei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -215,18 +215,18 @@
 ### v22
 **EN:** And the children of Israel went into the midst of the sea upon the dry ground: and the waters were a wall unto them on their right hand, and on their left.
 
-**TDB77:** Israel mite tuipi laizang leikeu tungah pai uh a, amau' taklam leh veilam-ah kawm bangin tuite om hi.
+**TDB77:** Israel mite tuipi laizang leikeu tungah pai-te a, amau' taklam leh veilam-ah kawm bangin tuite om hi.
 
-**ZVS:** Israel mite, tuipi laizang lei keu tungah pai uh a, amau' taklam leh veilamah kawm bangin tuite om hi.
+**ZVS:** Israel mite, tuipi laizang lei keu tungah pai-te a, amau' taklam leh veilamah kawm bangin tuite om hi.
 
 **Grammar:** plural: uh marker
 
 ### v23
 **EN:** And the Egyptians pursued, and went in after them to the midst of the sea, even all Pharaoh's horses, his chariots, and his horsemen.
 
-**TDB77:** Izipt mite ahi, Faro’ sakolte khempeuh, ama' leengte, leh ama' sakol tuangte in delh in tuipi laizang amaute' nungah pai uh hi.
+**TDB77:** Izipt mite ahi, Faro’ sakolte khempeuh, ama' leengte, leh ama' sakol tuangte in delh in tuipi laizang amaute' nungah pai-te hi.
 
-**ZVS:** Egypt mite ahi, Faro' sakol khempeuh, ama leengte, leh ama sakol tung tuangte in delhin tuipi laizang amaute' nungah pai uh hi.
+**ZVS:** Egypt mite ahi, Faro' sakol khempeuh, ama leengte, leh ama sakol tung tuangte in delhin tuipi laizang amaute' nungah pai-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -240,9 +240,9 @@
 ### v25
 **EN:** And took off their chariot wheels, that they drave them heavily: so that the Egyptians said, Let us flee from the face of Israel; for the
 
-**TDB77:** amau’ leeng peite tumsak ahih manin man bekbak-in hawl uh hi; Izipt mite in, “Israel’ mai panin tai ni; bang hang hiam cih leh Izipt mite' lang pangin Topa in amau’ adingin do hi,” ci uh hi.
+**TDB77:** amau’ leeng peite tumsak ahih manin man bekbak-in hawl-te hi; Izipt mite in, “Israel’ mai panin tai ni; bang hang hiam cih leh Izipt mite' lang pangin Topa in amau’ adingin do hi,” ci-te hi.
 
-**ZVS:** amau' leengpeite gumsak ahih manin man bekbakin hawl uh hi. Egypt mite in, “Israel mite' kiang panin tai ni. Bang hang hiam cih leh Egypt mite hong langpangin { Topa } in amau-a' dingin hong do hi,” a ci uh hi.
+**ZVS:** amau' leengpeite gumsak ahih manin man bekbakin hawl-te hi. Egypt mite in, “Israel mite' kiang panin tai ni. Bang hang hiam cih leh Egypt mite hong langpangin { Topa } in amau-a' dingin hong do hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | causal: because | plural: uh marker
 
@@ -258,9 +258,9 @@
 ### v27
 **EN:** And Moses stretched forth his hand over the sea, and the sea returned to his strength when the morning appeared; and the Egyptians fled against it; and the
 
-**TDB77:** Tua ahih ciangin Moses in tuipi tungah a khut zan a, a zingsang khuavak ciangin a luan’ ngei bangin tuipi luangkik hi; tua sungah Izipt mite tai uh a, Topa in tuipi laizangah Izipt mite tui tumsak hi.
+**TDB77:** Tua ahih ciangin Moses in tuipi tungah a khut zan a, a zingsang khuavak ciangin a luan’ ngei bangin tuipi luangkik hi; tua sungah Izipt mite tai-te a, Topa in tuipi laizangah Izipt mite tui tumsak hi.
 
-**ZVS:** Tua ahih ciangin Moses in tuipi tungah a khut zan a, a zingsang khuavak ciangin a luan' ngei bangin tuipi hong luangkik hi. Tua tui sung panin Egypt mite taikhiat sawm uh a, ahi zongin { Topa } in tuipi laizangah Egypt mite zogawp hi.
+**ZVS:** Tua ahih ciangin Moses in tuipi tungah a khut zan a, a zingsang khuavak ciangin a luan' ngei bangin tuipi hong luangkik hi. Tua tui sung panin Egypt mite taikhiat sawm-te a, ahi zongin { Topa } in tuipi laizangah Egypt mite zogawp hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -276,27 +276,27 @@
 ### v29
 **EN:** But the children of Israel walked upon dry land in the midst of the sea; and the waters were a wall unto them on their right hand, and on their left.
 
-**TDB77:** Ahih hangin tuipi kantanin leikeu tungah Israel mite pai uh a, amau' taklam leh veilam-ah kawm bangin tuite om hi.
+**TDB77:** Ahih hangin tuipi kantanin leikeu tungah Israel mite pai-te a, amau' taklam leh veilam-ah kawm bangin tuite om hi.
 
-**ZVS:** Ahih hangin tuipi kantanin lei keu tungah Israel mite pai uh a, amau' taklam leh veilamah kawm bangin tuite a om hi.
+**ZVS:** Ahih hangin tuipi kantanin lei keu tungah Israel mite pai-te a, amau' taklam leh veilamah kawm bangin tuite a om hi.
 
 **Grammar:** plural: uh marker
 
 ### v30
 **EN:** Thus the
 
-**TDB77:** Topa in tua bangin Izipt mite’ khut sung panin tua ni-in Israelte honkhia hi; tuipi gei-ah Izipt mi a site Israel mite in mu uh hi.
+**TDB77:** Topa in tua bangin Izipt mite’ khut sung panin tua ni-in Israelte honkhia hi; tuipi gei-ah Izipt mi a site Israel mite in mu-te hi.
 
-**ZVS:** { Topa } in tua bangin Egypt mite' khutsung panin tua ni-in Israel-te honkhia a, tuipi gei-ah Egypt mi a site, Israel mite in mu uh hi.
+**ZVS:** { Topa } in tua bangin Egypt mite' khutsung panin tua ni-in Israel-te honkhia a, tuipi gei-ah Egypt mi a site, Israel mite in mu-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v31
 **EN:** And Israel saw that great work which the
 
-**TDB77:** Israelte in Izipt mite' tungah Topa’ bawl nasepna lianpi mu uh a, mite in Topa zahtak uh hi; amaute in Topa leh ama' nasem Moses um uh hi.
+**TDB77:** Israelte in Izipt mite' tungah Topa’ bawl nasepna lianpi mu-te a, mite in Topa zahtak-te hi; amaute in Topa leh ama' nasem Moses um-te hi.
 
-**ZVS:** Israel mite in Egypt mite' tungah { Topa' } bawl nasepna lianpi mu uh a, mite in { Topa } a zahtak uh hi. Amaute in { Topa } leh ama nasem Moses a um uh hi.
+**ZVS:** Israel mite in Egypt mite' tungah { Topa' } bawl nasepna lianpi mu-te a, mite in { Topa } a zahtak-te hi. Amaute in { Topa } leh ama nasem Moses a um-te hi.
 
 **Grammar:** plural: uh marker
 

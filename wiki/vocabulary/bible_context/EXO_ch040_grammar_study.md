@@ -277,18 +277,18 @@
 ### v31
 **EN:** And Moses and Aaron and his sons washed their hands and their feet thereat:
 
-**TDB77:** Moses leh Aaron leh a tapate in amau’ khut leh a khete uh tua tui tawh sil uh hi;
+**TDB77:** Moses leh Aaron leh a tapate in amau’ khut leh a khete-te tua tui tawh sil-te hi;
 
-**ZVS:** Moses leh Aaron leh a tapate in amau' khut leh a khete uh tua tui tawh a sil uh hi.
+**ZVS:** Moses leh Aaron leh a tapate in amau' khut leh a khete-te tua tui tawh a sil-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v32
 **EN:** When they went into the tent of the congregation, and when they came near unto the altar, they washed; as the
 
-**TDB77:** Topa in Moses a thupiaksa bangin amaute kikhopna bukah a pai ciang leh biakna tau nai-ah a pai uh ciangin amaute kisil uh hi.
+**TDB77:** Topa in Moses a thupiaksa bangin amaute kikhopna bukah a pai ciang leh biakna tau nai-ah a pai-te ciangin amaute kisil-te hi.
 
-**ZVS:** { Topa } in Moses a thupiaksa bangin, kikhopna bukah amaute a pai ciang leh biakna tau nai-ah a pai uh ciangin amaute kisil uh hi.
+**ZVS:** { Topa } in Moses a thupiaksa bangin, kikhopna bukah amaute a pai ciang leh biakna tau nai-ah a pai-te ciangin amaute kisil-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -322,27 +322,27 @@
 ### v36
 **EN:** And when the cloud was taken up from over the tabernacle, the children of Israel went onward in all their journeys:
 
-**TDB77:** A khualzin sung tawntung uh biakbuk tung panin meii a kilakkhiat toh peuhpeuh ciangin Israel mite mai lam nawtin pai uh hi;
+**TDB77:** A khualzin sung tawntung-te biakbuk tung panin meii a kilakkhiat toh peuhpeuh ciangin Israel mite mai lam nawtin pai-te hi;
 
-**ZVS:** A khualzin sung tawntung uh biakbuk tung panin meii a kilakkhiat toh peuhpeuh ciangin Israel mite mailam nawtin pai uh a,
+**ZVS:** A khualzin sung tawntung-te biakbuk tung panin meii a kilakkhiat toh peuhpeuh ciangin Israel mite mailam nawtin pai-te a,
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v37
 **EN:** But if the cloud were not taken up, then they journeyed not till the day that it was taken up.
 
-**TDB77:** ahih hangin meii a kilakkhiat kei leh a kilakkhiat ni mateng amaute paikhia lo uh hi.
+**TDB77:** ahih hangin meii a kilakkhiat kei leh a kilakkhiat ni mateng amaute paikhia lo-te hi.
 
-**ZVS:** ahih hangin meii a kilakkhiat kei leh a kilakkhiat ni mateng amaute paikhialo uh hi.
+**ZVS:** ahih hangin meii a kilakkhiat kei leh a kilakkhiat ni mateng amaute paikhialo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v38
 **EN:** For the cloud of the
 
-**TDB77:** Bang hang hiam cih leh a khualzin sung tawntung uh Israel mi khempeuh' muhna-ah biakbuk tungah sunin Topa’ meii omin, zan-in tua sungah mei om hi.
+**TDB77:** Bang hang hiam cih leh a khualzin sung tawntung-te Israel mi khempeuh' muhna-ah biakbuk tungah sunin Topa’ meii omin, zan-in tua sungah mei om hi.
 
-**ZVS:** Bang hang hiam cih leh a khualzin sung tawntung uh Israel mi khempeuh' muhna-ah biakbuk tungah sunin { Topa' } meii om a, zanin mei a om hi.
+**ZVS:** Bang hang hiam cih leh a khualzin sung tawntung-te Israel mi khempeuh' muhna-ah biakbuk tungah sunin { Topa' } meii om a, zanin mei a om hi.
 
 **Grammar:** serial verb: -in (and then)
 

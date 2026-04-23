@@ -54,9 +54,9 @@
 ### v4
 **EN:** Ye have not yet resisted unto blood, striving against sin.
 
-**TDB77:** Note in mawhna khialhna tawh kido-in sisan suah dongin na thuak nai kei uh hi.
+**TDB77:** Note in mawhna khialhna tawh kido-in sisan suah dongin na thuak nai kei-te hi.
 
-**ZVS:** Tu ciangdong mawhna tawh na kidona uhah sihna zah ciangdongin na dona uh om nailo hi.
+**ZVS:** Tu ciangdong mawhna tawh na kidona uhah sihna zah ciangdongin na dona-te om nailo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -65,12 +65,12 @@
 
 **TDB77:** Tua tham loin: “Ka tapa aw, Topa’ thuhilhna ciamteh loin om kei in, na mawhna hong teldot ciangin lungkia kei in.
 
-**ZVS:** Pasian in note, tate, hong ci-in hong hanthotna thu mangngilh khinta na hi uh hiam? Pasian in note kiangah, “Ka ta aw, Topa' hong thuhilhna zangkhai ngaihsut kei in la, gim a hong piak ciangin lungkia kei in.
+**ZVS:** Pasian in note, tate, hong ci-in hong hanthotna thu mangngilh khinta na hi-te hiam? Pasian in note kiangah, “Ka ta aw, Topa' hong thuhilhna zangkhai ngaihsut kei in la, gim a hong piak ciangin lungkia kei in.
 
 ### v6
 **EN:** For whom the Lord loveth he chasteneth, and scourgeth every son whom he receiveth.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian in a itte thu a hilh thei hi, a san’ a tate khempeuh a sat thei hi,” ci-in tate kiangah a cih bangin note hong kigen thuhilhna kam na mangngilh zo uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian in a itte thu a hilh thei hi, a san’ a tate khempeuh a sat thei hi,” ci-in tate kiangah a cih bangin note hong kigen thuhilhna kam na mangngilh zo-te hi.
 
 **ZVS:** Bang hang hiam cih leh Topa in a it mite thuhilh a, ta taktakin a ngaihsut mite a taii hi,” hong ci hi.
 
@@ -79,18 +79,18 @@
 ### v7
 **EN:** If ye endure chastening, God dealeth with you as with sons; for what son is he whom the father chasteneth not?
 
-**TDB77:** Note in thu hong hilh nading thuak un. Tate tungah kibawl bangin Pasian in note hong bawl hi. Bang hang hiam na cih uh leh, a pa in a hilh loh ta kua mi ahi hiam?
+**TDB77:** Note in thu hong hilh nading thuak un. Tate tungah kibawl bangin Pasian in note hong bawl hi. Bang hang hiam na cih-te leh, a pa in a hilh loh ta kua mi ahi hiam?
 
-**ZVS:** Pasian' hong thuhilhna na thuakding mah uh ahi hi. Pasian in note ta-in hong ngaihsun ahih manin a thuak na hi uh hi. Pate' thuhilhna leh taiina a thuaklo ta kuamah omlo hi.
+**ZVS:** Pasian' hong thuhilhna na thuakding mah-te ahi hi. Pasian in note ta-in hong ngaihsun ahih manin a thuak na hi-te hi. Pate' thuhilhna leh taiina a thuaklo ta kuamah omlo hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v8
 **EN:** But if ye be without chastisement, whereof all are partakers, then are ye bastards, and not sons.
 
-**TDB77:** Tate khempeuh in a thuak theih thuhilhna thuak lo na hih uh leh, ta taktak na hi kei ding uh hi, zawlta na hi ding uh hi.
+**TDB77:** Tate khempeuh in a thuak theih thuhilhna thuak lo na hih-te leh, ta taktak na hi kei ding-te hi, zawlta na hi ding-te hi.
 
-**ZVS:** Tate' thuak bangin thuhilhna leh taiina thuakloin hong kikoih mawk leh ta taktak hiloin zawlta na hi lel ding uh hi.
+**ZVS:** Tate' thuak bangin thuhilhna leh taiina thuakloin hong kikoih mawk leh ta taktak hiloin zawlta na hi lel ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
@@ -106,7 +106,7 @@
 ### v10
 **EN:** For they verily for a few days chastened us after their own pleasure; but he for our profit, that we might be partakers of his holiness.
 
-**TDB77:** Bang hang hiam na cih uh leh, tua pate in a kilawm ci-in amaute ut bangin tawlkhat bek hong hilh uh hi. Pasian in a hih leh, ama siangthonate eite in i zop nadingin eite noptuamna ding ngaihsunin hong hilh hi.
+**TDB77:** Bang hang hiam na cih-te leh, tua pate in a kilawm ci-in amaute ut bangin tawlkhat bek hong hilh-te hi. Pasian in a hih leh, ama siangthonate eite in i zop nadingin eite noptuamna ding ngaihsunin hong hilh hi.
 
 **ZVS:** I leitung pate in amau' hoihsak bangin nuntak tomno sung ngaihsutna-in hong thuhilhin gim hong pia a, ahi zongin Pasian in amah tawh kibangin siangtho-in i omtheihna dingin eite hong khualna-in hong thuhilhin gim hong pia hi.
 
@@ -115,9 +115,9 @@
 ### v11
 **EN:** Now no chastening for the present seemeth to be joyous, but grievous: nevertheless afterward it yieldeth the peaceable fruit of righteousness unto them which are exercised thereby.
 
-**TDB77:** Thuhilhna i thuak lai takin lungdamna-in kingaihsun loin dah nading bang kisa thei hi. Ahih hangin thulhilhna a thuak mite in a nung ciangin nopsakna ahi dikna gah a ngah uh hi.
+**TDB77:** Thuhilhna i thuak lai takin lungdamna-in kingaihsun loin dah nading bang kisa thei hi. Ahih hangin thulhilhna a thuak mite in a nung ciangin nopsakna ahi dikna gah a ngah-te hi.
 
-**ZVS:** Thuhilhna tawh gim hong kipiak ciangin nuam kisa hetloin na kisa mahmah sam a, ahi zongin tua thuhilhna a mangzote in thuman nuntakna hangin nopsakna thaman a nung ngah uh hi.
+**ZVS:** Thuhilhna tawh gim hong kipiak ciangin nuam kisa hetloin na kisa mahmah sam a, ahi zongin tua thuhilhna a mangzote in thuman nuntakna hangin nopsakna thaman a nung ngah-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -126,16 +126,16 @@
 
 **TDB77:** Tua ahih ciangin thanem-a a om khutte leh tha a nei lo khukte na khauhsak un.
 
-**ZVS:** Tua ahih ciangin a zaw nuangnuang na khutte uh leh a no dakdak na khukte uh khauhsak un.
+**ZVS:** Tua ahih ciangin a zaw nuangnuang na khutte-te leh a no dakdak na khukte-te khauhsak un.
 
 **Grammar:** sequence: then/therefore | negation: lo
 
 ### v13
 **EN:** And make straight paths for your feet, lest that which is lame be turned out of the way; but let it rather be healed.
 
-**TDB77:** A khe zawte in a kilawi taktak loh nading, cidamna a ngah nadingin na paina lampi uh na tangsak un.
+**TDB77:** A khe zawte in a kilawi taktak loh nading, cidamna a ngah nadingin na paina lampi-te na tangsak un.
 
-**ZVS:** Bai luangluangin a paite, na guh na taang uh a kipelhlohna dingin lampi tang zui-in na pai un.
+**ZVS:** Bai luangluangin a paite, na guh na taang-te a kipelhlohna dingin lampi tang zui-in na pai un.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -144,7 +144,7 @@
 
 **TDB77:** Mi khempeuh tawh kilemin nopsakna ahi zongin, a siangtho gamtatna ahi zongin na phak matengun delh un. Tua siangtho gamtatna a om kei leh, kuamah in Pasian a mu thei kei ding hi.
 
-**ZVS:** Mi khempeuh tawh na kilem theihna ding uh hanciam un. Nuntak siangtholo tawh kuamah in Topa mu zolo ding ahih manin nuntak siangtho na nungta un.
+**ZVS:** Mi khempeuh tawh na kilem theihna ding-te hanciam un. Nuntak siangtholo tawh kuamah in Topa mu zolo ding ahih manin nuntak siangtho na nungta un.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
@@ -169,7 +169,7 @@
 ### v17
 **EN:** For ye know how that afterward, when he would have inherited the blessing, he was rejected: for he found no place of repentance, though he sought it carefully with tears.
 
-**TDB77:** Note in na theih uh mah bangin Esau in a nung ciangin a luah nop hangin nialna a ngah hi. Khitui luangin a zon’ hangin a pa’ lung kikheel nading thu a mu kei hi ci-in na thei uh hi.
+**TDB77:** Note in na theih-te mah bangin Esau in a nung ciangin a luah nop hangin nialna a ngah hi. Khitui luangin a zon’ hangin a pa’ lung kikheel nading thu a mu kei hi ci-in na thei-te hi.
 
 **ZVS:** Bang hang hiam cih leh Esau in a pa kiang panin thupha ngahkik nuamin khitui naptui tawh a nget hangin a gamtatnasa a bawlkik theihna ding lampi om nawnlo ahih manin bangmah ngahthei tuan nawnlo hi.
 
@@ -183,16 +183,16 @@
 ### v19
 **EN:** And the sound of a trumpet, and the voice of words; which voice they that heard entreated that the word should not be spoken to them any more:
 
-**TDB77:** peengkul tumna awging leh a kihtakhuai awgingte na za nai kei uh hi. Israel mite in awging a zak uh ciangin kihta lua uh ahih manin a zakkik nawnlohna dingun a thum uh hi.
+**TDB77:** peengkul tumna awging leh a kihtakhuai awgingte na za nai kei-te hi. Israel mite in awging a zak-te ciangin kihta lua-te ahih manin a zakkik nawnlohna dingun a thum-te hi.
 
 **Grammar:** negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** (For they could not endure that which was commanded, And if so much as a beast touch the mountain, it shall be stoned, or thrust through with a dart:
 
-**TDB77:** Bang hang hiam na cih uh leh, “Ganhing nangawn in tua mual a sukkhak leh, suang tawh kideeng lum ta hen,” ci-a thukhamna aw mite bil in a thuak zo kei uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, “Ganhing nangawn in tua mual a sukkhak leh, suang tawh kideeng lum ta hen,” ci-a thukhamna aw mite bil in a thuak zo kei-te hi.
 
-**ZVS:** “Ganhing nangawn in tua mual a sukkhak leh kidenglum ding hi,” ci ahih manin thuakngap lo uh hi.
+**ZVS:** “Ganhing nangawn in tua mual a sukkhak leh kidenglum ding hi,” ci ahih manin thuakngap lo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -220,16 +220,16 @@
 ### v24
 **EN:** And to Jesus the mediator of the new covenant, and to the blood of sprinkling, that speaketh better things than that of Abel.
 
-**TDB77:** thuciamna thak a hong vaihawm Jesuh kiang, Abel' sisan sangin thu hoihzaw a gen sisan a kithehna mun na tungzo uh hi.
+**TDB77:** thuciamna thak a hong vaihawm Jesuh kiang, Abel' sisan sangin thu hoihzaw a gen sisan a kithehna mun na tungzo-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** See that ye refuse not him that speaketh. For if they escaped not who refused him that spake on earth, much more shall not we escape, if we turn away from him that speaketh from heaven:
 
-**TDB77:** Note in thu hong piapa’ kam na nial loh nadingun kikem un. Bang hang hiam na cih uh leh, leitungah thu genkholhna hong pia mi’ kam a nial mi in mawhna tawh kipelh lo ahih leh, tua tham loin vantung pan thu hong pia kholpa kiang pan eite in pialkhia lehang, mawhna pan i suakta kei zawtham ding hi.
+**TDB77:** Note in thu hong piapa’ kam na nial loh nadingun kikem un. Bang hang hiam na cih-te leh, leitungah thu genkholhna hong pia mi’ kam a nial mi in mawhna tawh kipelh lo ahih leh, tua tham loin vantung pan thu hong pia kholpa kiang pan eite in pialkhia lehang, mawhna pan i suakta kei zawtham ding hi.
 
-**ZVS:** Tua ahih manin note tungah thu a hong genpa' thugen na ngaihloh khakding uh kidawm un. Hih leitungah thu a genpa' thu a ngailote suaktalo ahih manin vantung panin thu a hong genpa' thugen ngai kei lehang i suakta kei zaw kan lai ding hi.
+**ZVS:** Tua ahih manin note tungah thu a hong genpa' thugen na ngaihloh khakding-te kidawm un. Hih leitungah thu a genpa' thu a ngailote suaktalo ahih manin vantung panin thu a hong genpa' thugen ngai kei lehang i suakta kei zaw kan lai ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

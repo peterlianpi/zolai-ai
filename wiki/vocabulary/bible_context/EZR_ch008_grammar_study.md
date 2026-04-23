@@ -112,27 +112,27 @@
 ### v13
 **EN:** And of the last sons of Adonikam, whose names are these, Eliphelet, Jeiel, and Shemaiah, and with them threescore males.
 
-**TDB77:** A nunung penin Adonikam-te beh pan hi a, amaute’ min in: Elifelet, Jeiel, leh Shemaiah hi uh a, pasal sawmguk tawh ahi uh hi.
+**TDB77:** A nunung penin Adonikam-te beh pan hi a, amaute’ min in: Elifelet, Jeiel, leh Shemaiah hi-te a, pasal sawmguk tawh ahi-te hi.
 
-**ZVS:** Elifelet, Jeiel, leh Shemaiah: A hong nungpai Adonikam-te beh zong hi uh a, pasal sawmguk tawh ahi uh hi.
+**ZVS:** Elifelet, Jeiel, leh Shemaiah: A hong nungpai Adonikam-te beh zong hi-te a, pasal sawmguk tawh ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v14
 **EN:** Of the sons also of Bigvai; Uthai, and Zabbud, and with them seventy males.
 
-**TDB77:** Bigvai-te beh panin Uthai leh Zabbud hi uh a, pasal sawmsagih tawh ahi uh hi.
+**TDB77:** Bigvai-te beh panin Uthai leh Zabbud hi-te a, pasal sawmsagih tawh ahi-te hi.
 
-**ZVS:** Uthai leh Zabbud: Bigvai-te beh pan hi uh a, pasal sawmsagih tawh ahi uh hi.
+**ZVS:** Uthai leh Zabbud: Bigvai-te beh pan hi-te a, pasal sawmsagih tawh ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** And I gathered them together to the river that runneth to Ahava; and there abode we in tents three days: and I viewed the people, and the priests, and found there none of the sons of Levi.
 
-**TDB77:** Ahava gam lamah lui gei khatah amaute ka khawm a, tua lai-ah ni thum ka taam uh hi. Mite leh siampite ka etphat ciangin Levi mite khat zong na om lo hi.
+**TDB77:** Ahava gam lamah lui gei khatah amaute ka khawm a, tua lai-ah ni thum ka taam-te hi. Mite leh siampite ka etphat ciangin Levi mite khat zong na om lo hi.
 
-**ZVS:** Ahava gam lamah a luang lui gei khatah amaute ka khawm a, tua lai-ah ni thum sung ka tam uh hi. Mite leh siampite ka etphat ciangin Levi mite khat zong na omlo hi.
+**ZVS:** Ahava gam lamah a luang lui gei khatah amaute ka khawm a, tua lai-ah ni thum sung ka tam-te hi. Mite leh siampite ka etphat ciangin Levi mite khat zong na omlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -148,9 +148,9 @@
 ### v17
 **EN:** And I sent them with commandment unto Iddo the chief at the place Casiphia, and I told them what they should say unto Iddo, and to his brethren the Nethinims, at the place Casiphia, that they should bring unto us ministers for the house of our God.
 
-**TDB77:** Kasifia mun a, a makaipipa Iddo kiangah va pai-in, tua lai-a biakinn nasem amah leh a behte in, eite’ Pasian’ inn-a na a sem ding mihing hong puak ding uh a ngen dingin ka sawl hi.
+**TDB77:** Kasifia mun a, a makaipipa Iddo kiangah va pai-in, tua lai-a biakinn nasem amah leh a behte in, eite’ Pasian’ inn-a na a sem ding mihing hong puak ding-te a ngen dingin ka sawl hi.
 
-**ZVS:** Kasifia muna a makaipa Iddo kiangah va pai-in, tua lai-a biakinn nasem amah leh a behte in, eite' Pasian' biakinn-a na a sem ding mihing hong puak ding uh a ngen dingin ka sawl hi.
+**ZVS:** Kasifia muna a makaipa Iddo kiangah va pai-in, tua lai-a biakinn nasem amah leh a behte in, eite' Pasian' biakinn-a na a sem ding mihing hong puak ding-te a ngen dingin ka sawl hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -182,9 +182,9 @@
 ### v21
 **EN:** Then I proclaimed a fast there, at the river of Ahava, that we might afflict ourselves before our God, to seek of him a right way for us, and for our little ones, and for all our substance.
 
-**TDB77:** Tua ciangin eite’ Pasian’ mai-ah kote kiniamkhiat thei-in kote leh ka naupangte uh leh ka neihsa khempeuh uh nuam takin ka khualzinna uhah ka pai theih nading uh Pasian’ tung pan ka nget theih nadingun Ahava lui-ah antan’ nading thu ka taangko hi.
+**TDB77:** Tua ciangin eite’ Pasian’ mai-ah kote kiniamkhiat thei-in kote leh ka naupangte-te leh ka neihsa khempeuh-te nuam takin ka khualzinna uhah ka pai theih nading-te Pasian’ tung pan ka nget theih nadingun Ahava lui-ah antan’ nading thu ka taangko hi.
 
-**ZVS:** Tua ciangin eite' Pasian' mai-ah kote kiniamkhiat thei-in, kote leh ka naupangte uh leh ka neihsa khempeuh uh nuamtakin ka khualzinna uhah ka pai theihna ding uh Pasian' tung pan ka nget theihna dingun Ahava lui-ah an tan'na ding thu ka taangko hi.
+**ZVS:** Tua ciangin eite' Pasian' mai-ah kote kiniamkhiat thei-in, kote leh ka naupangte-te leh ka neihsa khempeuh-te nuamtakin ka khualzinna uhah ka pai theihna ding-te Pasian' tung pan ka nget theihna dingun Ahava lui-ah an tan'na ding thu ka taangko hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -200,9 +200,9 @@
 ### v23
 **EN:** So we fasted and besought our God for this: and he was entreated of us.
 
-**TDB77:** Tua hi a, kote in an ka tang uh hi; nuamtak-a ka khualzin theih nading uh i Pasian tungah ka ngen uh a, amah in ka thungetna uh hong pia hi.
+**TDB77:** Tua hi a, kote in an ka tang-te hi; nuamtak-a ka khualzin theih nading-te i Pasian tungah ka ngen-te a, amah in ka thungetna-te hong pia hi.
 
-**ZVS:** Tua hi a, kote in an ka tang uh hi. Nuamtakin khual ka zin theihna ding uh i Pasian' tungah ka ngen uh a, amah in ka thungetna uh hong pia hi.
+**ZVS:** Tua hi a, kote in an ka tang-te hi. Nuamtakin khual ka zin theihna ding-te i Pasian' tungah ka ngen-te a, amah in ka thungetna-te hong pia hi.
 
 **Grammar:** plural: uh marker
 
@@ -218,9 +218,9 @@
 ### v25
 **EN:** And weighed unto them the silver, and the gold, and the vessels, even the offering of the house of our God, which the king, and his counsellors, and his lords, and all Israel there present, had offered:
 
-**TDB77:** Tua ciangin, i Pasian’ inn nasep nadingin kumpipa leh a thulamlakte leh a uliante leh tua lai-a om Israel mi khempeuh in a tuam khenkhiat uh ngun leh kham leh um-le-beelte, amaute tungah ka ap hi.
+**TDB77:** Tua ciangin, i Pasian’ inn nasep nadingin kumpipa leh a thulamlakte leh a uliante leh tua lai-a om Israel mi khempeuh in a tuam khenkhiat-te ngun leh kham leh um-le-beelte, amaute tungah ka ap hi.
 
-**ZVS:** Tua ciangin i Pasian' biakinn nasepna dingin kumpipa leh a thu lamlakte leh a uliante leh tua lai-a a om Israel mi khempeuh in a tuam khen ciat uh ngun leh kham leh umlebeelte, amaute tungah ka ap hi.
+**ZVS:** Tua ciangin i Pasian' biakinn nasepna dingin kumpipa leh a thu lamlakte leh a uliante leh tua lai-a a om Israel mi khempeuh in a tuam khen ciat-te ngun leh kham leh umlebeelte, amaute tungah ka ap hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to
 
@@ -245,54 +245,54 @@
 ### v28
 **EN:** And I said unto them, Ye are holy unto the
 
-**TDB77:** Tua ciangin amaute kiangah, “Topa tungah note hong ki-ap hi; um-le-beelte zong biakna vante ahi hi; ngun leh khamte ahih leh na pu na pate uh Pasian ahi Topa tungah citna tawh a kipia na ahi hi.
+**TDB77:** Tua ciangin amaute kiangah, “Topa tungah note hong ki-ap hi; um-le-beelte zong biakna vante ahi hi; ngun leh khamte ahih leh na pu na pate-te Pasian ahi Topa tungah citna tawh a kipia na ahi hi.
 
-**ZVS:** Tua ciangin amaute kiangah, “{ Topa } tungah note hong ki-ap hi. Umlebeelte zong biakna vante ahi hi. Ngun leh khamte ahih leh na pu na pate uh Pasian ahi { Topa } tungah citna tawh a kipia na ahi hi.
+**ZVS:** Tua ciangin amaute kiangah, “{ Topa } tungah note hong ki-ap hi. Umlebeelte zong biakna vante ahi hi. Ngun leh khamte ahih leh na pu na pate-te Pasian ahi { Topa } tungah citna tawh a kipia na ahi hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v29
 **EN:** Watch ye, and keep them, until ye weigh them before the chief of the priests and the Levites, and chief of the fathers of Israel, at Jerusalem, in the chambers of the house of the
 
-**TDB77:** Siampi liante leh Levi mite leh Israel mi leh lutangte’ muh-in Jerusalem khua a, Topa’ inndei sungah na piak dong mateng uh vilin kem un,” ka ci hi.
+**TDB77:** Siampi liante leh Levi mite leh Israel mi leh lutangte’ muh-in Jerusalem khua a, Topa’ inndei sungah na piak dong mateng-te vilin kem un,” ka ci hi.
 
-**ZVS:** Siampi liante, Levi mite, leh Israel mi beh lutangte' muhin Jerusalem khua-ah { Topa' } biakinn dei sungah na puak dong mateng uh vilin kem un,” ka ci hi.
+**ZVS:** Siampi liante, Levi mite, leh Israel mi beh lutangte' muhin Jerusalem khua-ah { Topa' } biakinn dei sungah na puak dong mateng-te vilin kem un,” ka ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v30
 **EN:** So took the priests and the Levites the weight of the silver, and the gold, and the vessels, to bring them to Jerusalem unto the house of our God.
 
-**TDB77:** Tua ahih manin siampite leh Levi mite in Jerusalem a, i Pasian’ inn ah puak dingin ngun leh kham leh um-le-beelte hong sang uh hi.
+**TDB77:** Tua ahih manin siampite leh Levi mite in Jerusalem a, i Pasian’ inn ah puak dingin ngun leh kham leh um-le-beelte hong sang-te hi.
 
-**ZVS:** Tua ahih manin siampite leh Levi mite in Jerusalem-a i Pasian' biakinn-ah puak dingin ngun, kham, leh umlebeelte a hong sang uh hi.
+**ZVS:** Tua ahih manin siampite leh Levi mite in Jerusalem-a i Pasian' biakinn-ah puak dingin ngun, kham, leh umlebeelte a hong sang-te hi.
 
 **Grammar:** purpose: in order to | causal: because | plural: uh marker
 
 ### v31
 **EN:** Then we departed from the river of Ahava on the twelfth day of the first month, to go unto Jerusalem: and the hand of our God was upon us, and he delivered us from the hand of the enemy, and of such as lay in wait by the way.
 
-**TDB77:** Tua ciangin Jerusalem zuan dingin kha masa a ni sawm-le-nih ni-in Ahava lui panin ka dingkhia uh hi; i Pasian in eite hong ompih ahih manin lam kal-ah galte leh pan’simna a tuamtuamte tawh hong kipelhsak hi.
+**TDB77:** Tua ciangin Jerusalem zuan dingin kha masa a ni sawm-le-nih ni-in Ahava lui panin ka dingkhia-te hi; i Pasian in eite hong ompih ahih manin lam kal-ah galte leh pan’simna a tuamtuamte tawh hong kipelhsak hi.
 
-**ZVS:** Tua ciangin Jerusalem a zuan dingin kha masa a ni sawmlenih ni-in Ahava lui panin ka dingkhia uh hi. I Pasian in kote hong ompih ahih manin lamkalah galte leh pan'simna a tuamtuamte tawh hong kipelhsak hi.
+**ZVS:** Tua ciangin Jerusalem a zuan dingin kha masa a ni sawmlenih ni-in Ahava lui panin ka dingkhia-te hi. I Pasian in kote hong ompih ahih manin lamkalah galte leh pan'simna a tuamtuamte tawh hong kipelhsak hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And we came to Jerusalem, and abode there three days.
 
-**TDB77:** Jerusalem khua ka tun’ uh ciangin ni thum sung ka tawlnga uh hi.
+**TDB77:** Jerusalem khua ka tun’ uh ciangin ni thum sung ka tawlnga-te hi.
 
-**ZVS:** Jerusalem khua ka tun' uh ciangin ni thum sung ka tawlnga uh hi.
+**ZVS:** Jerusalem khua ka tun' uh ciangin ni thum sung ka tawlnga-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v33
 **EN:** Now on the fourth day was the silver and the gold and the vessels weighed in the house of our God by the hand of Meremoth the son of Uriah the priest; and with him was Eleazar the son of Phinehas; and with them was Jozabad the son of Jeshua, and Noadiah the son of Binnui, Levites;
 
-**TDB77:** A ni li ni-in Uriah’ tapa siampi Meremoth’ tavuan lakna tawh i Pasian’ inn sungah ngun leh kham leh um-le-beelte kiseng hi; Finehas’ tapa Eleazar in amah huh a, Levi mi Jeshua’ tapa Jozabad leh Binnui’ tapa Noadiah in amau tegel huh uh hi.
+**TDB77:** A ni li ni-in Uriah’ tapa siampi Meremoth’ tavuan lakna tawh i Pasian’ inn sungah ngun leh kham leh um-le-beelte kiseng hi; Finehas’ tapa Eleazar in amah huh a, Levi mi Jeshua’ tapa Jozabad leh Binnui’ tapa Noadiah in amau tegel huh-te hi.
 
-**ZVS:** A ni li ni-in Uriah' tapa siampi Meremoth' tavuan lakna tawh i Pasian' biakinn sungah ngun, kham, leh umlebeelte kiseng hi. Finehas' tapa Eleazar in amah huh a, Levi mi Jeshua' tapa Jozabad leh Binnui' tapa Noadiah in amaute gel huh uh hi.
+**ZVS:** A ni li ni-in Uriah' tapa siampi Meremoth' tavuan lakna tawh i Pasian' biakinn sungah ngun, kham, leh umlebeelte kiseng hi. Finehas' tapa Eleazar in amah huh a, Levi mi Jeshua' tapa Jozabad leh Binnui' tapa Noadiah in amaute gel huh-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -308,18 +308,18 @@
 ### v35
 **EN:** Also the children of those that had been carried away, which were come out of the captivity, offered burnt offerings unto the God of Israel, twelve bullocks for all Israel, ninety and six rams, seventy and seven lambs, twelve he goats for a sin offering: all this was a burnt offering unto the
 
-**TDB77:** Tua ciangin salsuahna panin inn hong zuankik mite in Israelte khempeuh’ adingin Israel Pasian’ tungah meihal biakna-in bawngtal sawm-le-nih, tuutal sawmkua-le-guk, tuuno sawmsagih-le-sagih, leh mawhna hanga biakna-in keeltal sawm-le-nih pia uh hi; hihte khempeuh pen Topa tungah meihal biakna ahi hi.
+**TDB77:** Tua ciangin salsuahna panin inn hong zuankik mite in Israelte khempeuh’ adingin Israel Pasian’ tungah meihal biakna-in bawngtal sawm-le-nih, tuutal sawmkua-le-guk, tuuno sawmsagih-le-sagih, leh mawhna hanga biakna-in keeltal sawm-le-nih pia-te hi; hihte khempeuh pen Topa tungah meihal biakna ahi hi.
 
-**ZVS:** Tua ciangin salsuahna panin inn hong zuankik mite in Israel-te khempeuh-a' dingin Israel Pasian tungah meihal biakna-in bawngtal sawmlenih, tuutal sawmkualeguk, tuuno sawmsagihlenih, leh mawhna hanga biakna-in keeltal sawmlenih a pia uh hi. Hihte khempeuh pen { Topa' } tungah meihal biakna ahi hi.
+**ZVS:** Tua ciangin salsuahna panin inn hong zuankik mite in Israel-te khempeuh-a' dingin Israel Pasian tungah meihal biakna-in bawngtal sawmlenih, tuutal sawmkualeguk, tuuno sawmsagihlenih, leh mawhna hanga biakna-in keeltal sawmlenih a pia-te hi. Hihte khempeuh pen { Topa' } tungah meihal biakna ahi hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v36
 **EN:** And they delivered the king's commissions unto the king's lieutenants, and to the governors on this side the river: and they furthered the people, and the house of God.
 
-**TDB77:** Amaute in, Eufrates Gungal gam sung tenga kumpipa’ nuai-ah a uk sawn a lianpente leh uliante tungah kumpipa’ thupiaknate zong va gen uh hi; tua hi a, amaute in mite leh Pasian’ innlam nasep huh uh hi.
+**TDB77:** Amaute in, Eufrates Gungal gam sung tenga kumpipa’ nuai-ah a uk sawn a lianpente leh uliante tungah kumpipa’ thupiaknate zong va gen-te hi; tua hi a, amaute in mite leh Pasian’ innlam nasep huh-te hi.
 
-**ZVS:** Amaute in Eufratis Gungal gamsung tenga kumpipa' nuai-ah a uksawn a lian pente leh uliante tungah kumpipa' thupiaknate zong a va gen uh hi. Tua hi a, amaute in mite leh Pasian' biakinn lam nasep a huh uh hi.
+**ZVS:** Amaute in Eufratis Gungal gamsung tenga kumpipa' nuai-ah a uksawn a lian pente leh uliante tungah kumpipa' thupiaknate zong a va gen-te hi. Tua hi a, amaute in mite leh Pasian' biakinn lam nasep a huh-te hi.
 
 **Grammar:** plural: uh marker
 

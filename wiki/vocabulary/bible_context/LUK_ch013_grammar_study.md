@@ -24,18 +24,18 @@
 ### v1
 **EN:** There were present at that season some that told him of the Galilaeans, whose blood Pilate had mingled with their sacrifices.
 
-**TDB77:** Tua lai takin mi kimkhat hong pai-in Pilat mangpa in Galile mite’ sisan amau pasian biakna sa tawh a hel gawpna thu Zeisu kiangah a gen uh hi.
+**TDB77:** Tua lai takin mi kimkhat hong pai-in Pilat mangpa in Galile mite’ sisan amau pasian biakna sa tawh a hel gawpna thu Zeisu kiangah a gen-te hi.
 
-**ZVS:** Tua laitakin tua lai-a om mi pawlkhat in Jesuh kiangah, Galilee mite in Pasian kiangah biakna pia-in a om laitakin Pilat in a thah mite' thu a gen uh hi.
+**ZVS:** Tua laitakin tua lai-a om mi pawlkhat in Jesuh kiangah, Galilee mite in Pasian kiangah biakna pia-in a om laitakin Pilat in a thah mite' thu a gen-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And Jesus answering said unto them,
 
-**TDB77:** Zeisu in, “Tua bang a thuak Galile mite in Galile midangte khempeuh sangin mawhna a hauh zawk uh um na hi uh hiam?
+**TDB77:** Zeisu in, “Tua bang a thuak Galile mite in Galile midangte khempeuh sangin mawhna a hauh zawk-te um na hi-te hiam?
 
-**ZVS:** Jesuh in amaute kiangah, “Tua bangin hih Galilee mite kithat ahih manin, Galilee midangte khempeuh sangin hih a kithat mite a mawhna uh lianzaw hi, ci-in ngaihsun na hi uh hiam?
+**ZVS:** Jesuh in amaute kiangah, “Tua bangin hih Galilee mite kithat ahih manin, Galilee midangte khempeuh sangin hih a kithat mite a mawhna-te lianzaw hi, ci-in ngaihsun na hi-te hiam?
 
 ### v6
 **EN:** He spake also this parable;
@@ -83,7 +83,7 @@
 ### v14
 **EN:** And the ruler of the synagogue answered with indignation, because that Jesus had healed on the sabbath day, and said unto the people, There are six days in which men ought to work: in them therefore come and be healed, and not on the sabbath day.
 
-**TDB77:** Zeisu in Nipi ni-in cina a damsak man-inah kikhopna inn ukpa heh a, mihonpite kiangah, “Nasep nadingin ni guk a om hi. Tua nite sungin hong pai un la, cidamna na ngah ding uh hi. Nipi ni-in hong pai kei un,” ci-in a gen hi.
+**TDB77:** Zeisu in Nipi ni-in cina a damsak man-inah kikhopna inn ukpa heh a, mihonpite kiangah, “Nasep nadingin ni guk a om hi. Tua nite sungin hong pai un la, cidamna na ngah ding-te hi. Nipi ni-in hong pai kei un,” ci-in a gen hi.
 
 **ZVS:** Ahi zongin Jesuh in Sabbath ni-in cina a damsakna hangin kikhopna inn ukpa a heh suak a, mite kiangah, “Na a kisep theihna ding hun ni guk sung om hi. Tua hun sungin hong pai-in kidamsak un la, ahi zongin Sabbath ni-in hong pai kei un,” a ci hi.
 
@@ -92,18 +92,18 @@
 ### v15
 **EN:** The Lord then answered him, and said,
 
-**TDB77:** Ahih hangin Topa in, “Mi simtatte aw, no na vekpi-un Nipi ni-in na bawng ahi zongin, na la ahi zongin, buk sung pan khahkhia-in tui ne dingin paipih hilo na hi uh hiam?
+**TDB77:** Ahih hangin Topa in, “Mi simtatte aw, no na vekpi-un Nipi ni-in na bawng ahi zongin, na la ahi zongin, buk sung pan khahkhia-in tui ne dingin paipih hilo na hi-te hiam?
 
-**ZVS:** Tua ciangin Topa in amah dawng a, “No a kineihkhem mite aw, note in Sabbath ni mahin zong na bawngte uh ahi a, na late uh ahi zongin a buk panin na khihna khaute uh sutin, tui pia dingin paipih hilo na hi uh hiam?
+**ZVS:** Tua ciangin Topa in amah dawng a, “No a kineihkhem mite aw, note in Sabbath ni mahin zong na bawngte-te ahi a, na late-te ahi zongin a buk panin na khihna khaute-te sutin, tui pia dingin paipih hilo na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
 ### v17
 **EN:** And when he had said these things, all his adversaries were ashamed: and all the people rejoiced for all the glorious things that were done by him.
 
-**TDB77:** Zeisu in hih thu a gen ciangin, a galte a vekpi-un a zum uh hi. Mihonpite khempeuh in ama bawlna pha hangin a nuam uh hi.
+**TDB77:** Zeisu in hih thu a gen ciangin, a galte a vekpi-un a zum-te hi. Mihonpite khempeuh in ama bawlna pha hangin a nuam-te hi.
 
-**ZVS:** Hih Jesuh' dawn'na in alangte khempeuh maizumsak a, Jesuh' sep hih na lamdangte khempeuh hangin midang khempeuh a lungdam mahmah uh hi.
+**ZVS:** Hih Jesuh' dawn'na in alangte khempeuh maizumsak a, Jesuh' sep hih na lamdangte khempeuh hangin midang khempeuh a lungdam mahmah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -133,7 +133,7 @@
 ### v23
 **EN:** Then said one unto him, Lord, are there few that be saved? And he said unto them,
 
-**TDB77:** Mi khat in, “Topa aw, gupna ngahte tawm ding ahi uh hiam?” ci-in a dong hi.
+**TDB77:** Mi khat in, “Topa aw, gupna ngahte tawm ding ahi-te hiam?” ci-in a dong hi.
 
 **ZVS:** Tua laitakin mi khat in, “Siapa aw, hotkhiatna a ngah mi tawmno khat bek hi ding ahi hiam?” ci-in a dong hi.
 
@@ -142,9 +142,9 @@
 ### v31
 **EN:** The same day there came certain of the Pharisees, saying unto him, Get thee out, and depart hence: for Herod will kill thee.
 
-**TDB77:** Tua lai takin Farisaite kimkhat hong pai uh a, “Paikhia in la, tai in. Herod in nang hong that nuam hi,” a ci uh hi.
+**TDB77:** Tua lai takin Farisaite kimkhat hong pai-te a, “Paikhia in la, tai in. Herod in nang hong that nuam hi,” a ci-te hi.
 
-**ZVS:** Tuahun laitakin Farisi mi pawlkhat hong pai-in Jesuh kiangah, “Herod in nang thah hong sawm ahih manin hih lai panin mun dang khatah paikhia in,” a ci uh hi.
+**ZVS:** Tuahun laitakin Farisi mi pawlkhat hong pai-in Jesuh kiangah, “Herod in nang thah hong sawm ahih manin hih lai panin mun dang khatah paikhia in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 

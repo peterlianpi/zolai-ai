@@ -44,54 +44,54 @@
 ### v3
 **EN:** Wherefore all the men of Israel assembled themselves unto the king in the feast which was in the seventh month.
 
-**TDB77:** Tua ciangin a kha sagihna-a pawi hun sung kumpipa’ mai-ah Israel mi khempeuh kikhawm uh hi.
+**TDB77:** Tua ciangin a kha sagihna-a pawi hun sung kumpipa’ mai-ah Israel mi khempeuh kikhawm-te hi.
 
-**ZVS:** Tua ciangin a kha sagihna-a pawi hun sungin kumpipa' mai-ah Israel mi khempeuh kikhawm uh hi.
+**ZVS:** Tua ciangin a kha sagihna-a pawi hun sungin kumpipa' mai-ah Israel mi khempeuh kikhawm-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And all the elders of Israel came; and the Levites took up the ark.
 
-**TDB77:** Tua ciangin Israel upate khempeuh hong pai uh a, Levi mite in thuciamna singkuang la uh hi.
+**TDB77:** Tua ciangin Israel upate khempeuh hong pai-te a, Levi mite in thuciamna singkuang la-te hi.
 
-**ZVS:** Tua ciangin Israel upate khempeuh hong pai uh a, Levi mite in Thuciamna Singkuang la uh hi.
+**ZVS:** Tua ciangin Israel upate khempeuh hong pai-te a, Levi mite in Thuciamna Singkuang la-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v5
 **EN:** And they brought up the ark, and the tabernacle of the congregation, and all the holy vessels that were in the tabernacle, these did the priests and the Levites bring up.
 
-**TDB77:** Tua ciangin amaute in thuciamna singkuang, leh kikhopna buk, leh puanbuk sunga om a siangtho um-le-beel khempeuh pua to uh hi; siampite ahi Levi mite in tuate pua to uh hi.
+**TDB77:** Tua ciangin amaute in thuciamna singkuang, leh kikhopna buk, leh puanbuk sunga om a siangtho um-le-beel khempeuh pua to-te hi; siampite ahi Levi mite in tuate pua to-te hi.
 
-**ZVS:** Tua ciangin amaute in Thuciamna Singkuang, leh kikhopna buk, leh puanbuk sunga om a siangtho umlebeel khempeuh puato uh a, siampite leh Levi mite in tuate puato uh hi.
+**ZVS:** Tua ciangin amaute in Thuciamna Singkuang, leh kikhopna buk, leh puanbuk sunga om a siangtho umlebeel khempeuh puato-te a, siampite leh Levi mite in tuate puato-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Also king Solomon, and all the congregation of Israel that were assembled unto him before the ark, sacrificed sheep and oxen, which could not be told nor numbered for multitude.
 
-**TDB77:** Tua ciangin kumpi Solomon leh ama mai-ah a kikhawm Israelte khempeuh thuciamna singkuang mai-ah om uh a, biakna-in tuu leh bawngtal tampi tak pia uh ahih manin a phazah kisim zo lo hi.
+**TDB77:** Tua ciangin kumpi Solomon leh ama mai-ah a kikhawm Israelte khempeuh thuciamna singkuang mai-ah om-te a, biakna-in tuu leh bawngtal tampi tak pia-te ahih manin a phazah kisim zo lo hi.
 
-**ZVS:** Tua ciangin Kumpi Solomon leh ama mai-ah a kikhawm Israel-te khempeuh Thuciamna Singkuang mai-ah om uh a, biakna-in tuu leh bawngtal tampi tak pia uh ahih manin a phazah kisim zolo hi.
+**ZVS:** Tua ciangin Kumpi Solomon leh ama mai-ah a kikhawm Israel-te khempeuh Thuciamna Singkuang mai-ah om-te a, biakna-in tuu leh bawngtal tampi tak pia-te ahih manin a phazah kisim zolo hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And the priests brought in the ark of the covenant of the
 
-**TDB77:** Tua ahih ciangin siampite in kherubte’ kha nuai, siangthopen mun sung, biakinn sungnung sung ama munah Topa’ thuciamna singkuang paipih uh hi.
+**TDB77:** Tua ahih ciangin siampite in kherubte’ kha nuai, siangthopen mun sung, biakinn sungnung sung ama munah Topa’ thuciamna singkuang paipih-te hi.
 
-**ZVS:** Tua ahih ciangin siampite in kherub-te' kha nuai, siangtho pen mun sung, biakinn sungnung sung ama munah { Topa' } Thuciamna Singkuang a paipih uh hi.
+**ZVS:** Tua ahih ciangin siampite in kherub-te' kha nuai, siangtho pen mun sung, biakinn sungnung sung ama munah { Topa' } Thuciamna Singkuang a paipih-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v8
 **EN:** For the cherubims spread forth their wings over the place of the ark, and the cherubims covered the ark and the staves thereof above.
 
-**TDB77:** Kherubte in thuciamna singkuang tungah a khate uh zak ahih manin kherubte in thuciamna singkuang leh a zawlte tungah khuhna khat suak uh hi.
+**TDB77:** Kherubte in thuciamna singkuang tungah a khate-te zak ahih manin kherubte in thuciamna singkuang leh a zawlte tungah khuhna khat suak-te hi.
 
-**ZVS:** Kherub-te in Thuciamna Singkuang tungah a khate uh zak uh ahih manin kherub-te pen Thuciamna Singkuang leh a zawlte tungah khuhna khat a suak uh hi.
+**ZVS:** Kherub-te in Thuciamna Singkuang tungah a khate-te zak-te ahih manin kherub-te pen Thuciamna Singkuang leh a zawlte tungah khuhna khat a suak-te hi.
 
 **Grammar:** causal: because | plural: uh marker
 
@@ -116,18 +116,18 @@
 ### v11
 **EN:** And it came to pass, when the priests were come out of the holy place: (for all the priests that were present were sanctified, and did not then wait by course:
 
-**TDB77:** Siangtho mun panin siampite hong pusuakin (bang hang hiam cih leh amau’ pawlte cih tuam om loin tua lai-a om siampite khempeuh amau mahmah kisian’suah uh hi;
+**TDB77:** Siangtho mun panin siampite hong pusuakin (bang hang hiam cih leh amau’ pawlte cih tuam om loin tua lai-a om siampite khempeuh amau mahmah kisian’suah-te hi;
 
-**ZVS:** Siangtho mun panin siampite hong pusuakin (bang hang hiam cih leh amau' pawlte cihtuam omloin tua lai-a om siampite khempeuh amau mahmah kisian'suah uh hi.
+**ZVS:** Siangtho mun panin siampite hong pusuakin (bang hang hiam cih leh amau' pawlte cihtuam omloin tua lai-a om siampite khempeuh amau mahmah kisian'suah-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Also the Levites which were the singers, all of them of Asaph, of Heman, of Jeduthun, with their sons and their brethren, being arrayed in white linen, having cymbals and psalteries and harps, stood at the east end of the altar, and with them an hundred and twenty priests sounding with trumpets:)
 
-**TDB77:** tua ciangin Levi mi lasate Asaf, Heman, leh Jeduthun, amau’ tapate leh a behte, saihadial puan tawh kizemin, daltuahte, harp lasaknate, leh laiza lasaknate tawi-in peengkul tum siampite za leh sawmnih tawh biakna tau nisuahna lamah ding khawm uh hi;
+**TDB77:** tua ciangin Levi mi lasate Asaf, Heman, leh Jeduthun, amau’ tapate leh a behte, saihadial puan tawh kizemin, daltuahte, harp lasaknate, leh laiza lasaknate tawi-in peengkul tum siampite za leh sawmnih tawh biakna tau nisuahna lamah ding khawm-te hi;
 
-**ZVS:** Tua ciangin Levi mi lasate Asaf, Heman, leh Jeduthun, amau' tapate leh a behte, saihadial puan tawh kizemin, daltuahte, harp lasaknate, leh laia lasaknate tawi-in peengkul tum siampite za leh sawmnih tawh biakna tau nisuahna lamah ding khawm uh hi.
+**ZVS:** Tua ciangin Levi mi lasate Asaf, Heman, leh Jeduthun, amau' tapate leh a behte, saihadial puan tawh kizemin, daltuahte, harp lasaknate, leh laia lasaknate tawi-in peengkul tum siampite za leh sawmnih tawh biakna tau nisuahna lamah ding khawm-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -143,9 +143,9 @@
 ### v14
 **EN:** So that the priests could not stand to minister by reason of the cloud: for the glory of the
 
-**TDB77:** meii hangin siampite in na sem zo lo uh hi; bang hang hiam cih leh Topa’ minthan’na in Pasian’ inn sung a dim hi.
+**TDB77:** meii hangin siampite in na sem zo lo-te hi; bang hang hiam cih leh Topa’ minthan’na in Pasian’ inn sung a dim hi.
 
-**ZVS:** meii hangin siampite in na sem zolo uh hi; bang hang hiam cih leh { Topa' } minthan'na vangtaang Pasian' biakinn sung a dim hi.
+**ZVS:** meii hangin siampite in na sem zolo-te hi; bang hang hiam cih leh { Topa' } minthan'na vangtaang Pasian' biakinn sung a dim hi.
 
 **Grammar:** negation: lo | plural: uh marker
 

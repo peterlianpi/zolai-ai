@@ -112,8 +112,8 @@
 
 **CONSENSUS RULING:**
 - ✓ CORRECT: `I kikhawm hi.` (We gathered)
-- ✓ CORRECT: `A kikhawm uh hi.` (They gathered)
-- ✗ WRONG: `I kikhawm uh hi.` (never combine i + uh)
+- ✓ CORRECT: `A kikhawm-te hi.` (They gathered)
+- ✗ WRONG: `I kikhawm-te hi.` (never combine i + uh)
 - Rule: Use 'i' for 1st person plural OR 'uh' for 3rd person plural, never both
 
 ---
@@ -175,13 +175,13 @@
 
 ---
 
-## Topic 10: 'tua' vs 'cu/cun' - When each appears and why tua is ZVS
+## Topic 10: 'tua' vs 'tua/tua' - When each appears and why tua is ZVS
 
 **Dr. Grammar:** 'Tua' is the modern standard form.
 
-**Rev. Bible:** Bible uses 'cu/cun' in older texts. Modern texts use 'tua'.
+**Rev. Bible:** Bible uses 'tua/tua' in older texts. Modern texts use 'tua'.
 
-**Prof. Modern:** ZVS 2018 standard: 'tua' only. 'Cu/cun' are deprecated.
+**Prof. Modern:** ZVS 2018 standard: 'tua' only. 'tua/tua' are deprecated.
 
 **Ms. Learner:** Why the change?
 
@@ -189,8 +189,8 @@
 
 **CONSENSUS RULING:**
 - STANDARD: Use 'tua' (ZVS 2018)
-- DEPRECATED: 'cu/cun' (old/dialectal)
-- Rule: Replace all 'cu/cun' with 'tua' for ZVS compliance
+- DEPRECATED: 'tua/tua' (old/dialectal)
+- Rule: Replace all 'tua/tua' with 'tua' for ZVS compliance
 
 ---
 
@@ -207,7 +207,7 @@
 | Negation | Use 'kei' (not 'lo') for ZVS standard |
 | Honorific | Use formal pronouns and respectful markers |
 | Compounds | Prefer separate words for clarity |
-| Tua/Cu | Use 'tua' (ZVS standard) |
+| Tua/tua | Use 'tua' (ZVS standard) |
 
 ---
 

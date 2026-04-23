@@ -52,9 +52,9 @@
 ### v4
 **EN:** It may be the
 
-**TDB77:** A nungta Pasian zahko dingin ama topa, Assiria kumpipa in a sawl a galkap mangpa’ thugennate, Topa na Pasian in za hen la, tua bang thu a gente daantat ta hen. Tua ahih ciangin a om lai i mite’ adingin thungen in,’ a ci hi,” ci-in a gen uh hi.
+**TDB77:** A nungta Pasian zahko dingin ama topa, Assiria kumpipa in a sawl a galkap mangpa’ thugennate, Topa na Pasian in za hen la, tua bang thu a gente daantat ta hen. Tua ahih ciangin a om lai i mite’ adingin thungen in,’ a ci hi,” ci-in a gen-te hi.
 
-**ZVS:** A nungta Pasian a zahko dingin ama topa, Assiria kumpipa in a sawl a ulianpa' thugente, { Topa } na Pasian in za hen la, tua bang thu a gente gim pia ta hen. Tua ahih ciangin a omlai i mite-a' dingin thu ngen in,’ ci hi,” ci-in a gen uh hi.
+**ZVS:** A nungta Pasian a zahko dingin ama topa, Assiria kumpipa in a sawl a ulianpa' thugente, { Topa } na Pasian in za hen la, tua bang thu a gente gim pia ta hen. Tua ahih ciangin a omlai i mite-a' dingin thu ngen in,’ ci hi,” ci-in a gen-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** And Isaiah said unto them, Thus shall ye say unto your master, Thus saith the
 
-**TDB77:** Isaiah in amaute tungah, “Na Topa uh kiangah, ‘Topa in hih bangin ci hi: Assiria kumpipa’ nasemte in keimah a hong simmawhna na zaksa uh thute hangin lau kei un.
+**TDB77:** Isaiah in amaute tungah, “Na Topa-te kiangah, ‘Topa in hih bangin ci hi: Assiria kumpipa’ nasemte in keimah a hong simmawhna na zaksa-te thute hangin lau kei un.
 
-**ZVS:** Isaiah in amaute tungah, “Na topa uh kiangah, ‘{ Topa } in hih bangin ci hi: Assiria kumpipa' nasemte in keimah a hong simmawhna na zaksa uh thute hangin lau kei un.
+**ZVS:** Isaiah in amaute tungah, “Na topa-te kiangah, ‘{ Topa } in hih bangin ci hi: Assiria kumpipa' nasemte in keimah a hong simmawhna na zaksa-te thute hangin lau kei un.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
@@ -99,7 +99,7 @@
 
 **TDB77:** Tu-in, Ethiopia kumpipa Tirhakah in Assiria gam sim dingin Izipt galkap honpi tawh hong kuanna thu kumpipa in a za hi. Hih thu a zak ciangin Assiria kumpipa in Hezekiah kiangah kamtaite sawl a,
 
-**ZVS:** Tu-in, Ethiopia kumpi Tirhakah in Assiria gam a sim dingin Egypt galkap honpi tawh a hong kuanna thu Assiria mite in a za uh hi. Hih thu a zak ciangin Assiria kumpipa in Hezekiah kiangah kamtaite sawl a,
+**ZVS:** Tu-in, Ethiopia kumpi Tirhakah in Assiria gam a sim dingin Egypt galkap honpi tawh a hong kuanna thu Assiria mite in a za-te hi. Hih thu a zak ciangin Assiria kumpipa in Hezekiah kiangah kamtaite sawl a,
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -138,9 +138,9 @@
 ### v14
 **EN:** And Hezekiah received the letter from the hand of the messengers, and read it: and Hezekiah went up unto the house of the
 
-**TDB77:** Hezekiah in kamtaite tung panin a lai puak uh saangin, a lai sim hi; Topa’ innah Hezekiah pai to-in, Topa’ mai-ah a lai zal hi.
+**TDB77:** Hezekiah in kamtaite tung panin a lai puak-te saangin, a lai sim hi; Topa’ innah Hezekiah pai to-in, Topa’ mai-ah a lai zal hi.
 
-**ZVS:** Hezekiah in kamtaite tung panin a lai puak uh sangin, a lai a sim hi. { Topa}' inn-ah Hezekiah paito-in, { Topa}' mai-ah a lai a zal hi.
+**ZVS:** Hezekiah in kamtaite tung panin a lai puak-te sangin, a lai a sim hi. { Topa}' inn-ah Hezekiah paito-in, { Topa}' mai-ah a lai a zal hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -179,7 +179,7 @@
 
 **TDB77:** amaute’ pasiante pen meikhuk sungah paihsakin susia khin hi; bang hang hiam cih leh tuate pen pasian hi loin, mite’ khut tawh a kibawl sing leh suangte ahi hi; tua ahih ciangin tuate kisusia hi.
 
-**ZVS:** amaute' pasian-te pen meikhuk sungah paihsak khin hi. Bang hang hiam cih leh tuate pen pasian hiloin mite' khut tawh a kibawl sing leh suangte ahi uh hi. Tua ahih ciangin tuate kisusia hi.
+**ZVS:** amaute' pasian-te pen meikhuk sungah paihsak khin hi. Bang hang hiam cih leh tuate pen pasian hiloin mite' khut tawh a kibawl sing leh suangte ahi-te hi. Tua ahih ciangin tuate kisusia hi.
 
 **Grammar:** sequence: then/therefore | completed: already done | reciprocal: ki- prefix
 
@@ -204,9 +204,9 @@
 ### v22
 **EN:** This is the word which the
 
-**TDB77:** amah tawh kisai-in Topa’ thugen in hih ahi hi: ‘Sennakherib aw, Zion tanungak siangtho in nang hong simmawh in hong zahko uh hi; Jerusalem mite in na nungah a lu hong peisan lel uh hi.
+**TDB77:** amah tawh kisai-in Topa’ thugen in hih ahi hi: ‘Sennakherib aw, Zion tanungak siangtho in nang hong simmawh in hong zahko-te hi; Jerusalem mite in na nungah a lu hong peisan lel-te hi.
 
-**ZVS:** amah tawh kisai-in { Topa}' thugen hih bang ahi hi: ‘Sennakherib aw, Jerusalem mite in nang hong simmawhin hong zahko uh hi. Jerusalem mite in na nungah a lu hong peisan lel uh hi.
+**ZVS:** amah tawh kisai-in { Topa}' thugen hih bang ahi hi: ‘Sennakherib aw, Jerusalem mite in nang hong simmawhin hong zahko-te hi. Jerusalem mite in na nungah a lu hong peisan lel-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -240,7 +240,7 @@
 ### v27
 **EN:** Therefore their inhabitants were of small power, they were dismayed and confounded: they were as the grass of the field, and as the green herb, as the grass on the housetops, and as corn blasted before it be grown up.
 
-**TDB77:** “‘Sawt peka kipan ka ngaihsutsa ahih lamtak za ngei nailo na hi hiam? Nang in khuapi muan'huaite susia gawpin ninbulomtang na suahsakna ding, a sunga teng mite a thahatna uh bei-in, lungkia-in a ommawkna ding, amaute pen lolai-a om kungnote leh lopa ngekte, innkhum zangah a po, a khan'khit ma-in a keutum lopate tawh a kibatna ding, tu-in ka tun'sak ding thute pen tanglai pek panin ka ngaihsutsa thu ahi hi.
+**TDB77:** “‘Sawt peka kipan ka ngaihsutsa ahih lamtak za ngei nailo na hi hiam? Nang in khuapi muan'huaite susia gawpin ninbulomtang na suahsakna ding, a sunga teng mite a thahatna-te bei-in, lungkia-in a ommawkna ding, amaute pen lolai-a om kungnote leh lopa ngekte, innkhum zangah a po, a khan'khit ma-in a keutum lopate tawh a kibatna ding, tu-in ka tun'sak ding thute pen tanglai pek panin ka ngaihsutsa thu ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -263,27 +263,27 @@
 ### v30
 **EN:** And this shall be a sign unto thee, Ye shall eat this year such as groweth of itself; and the second year that which springeth of the same: and in the third year sow ye, and reap, and plant vineyards, and eat the fruit thereof.
 
-**TDB77:** “Nang Hezekiah’ adingin hih in lim hong hi ding hi: tu kumin anli pote na ne ding uh a, a kum nihna ciangin tua bangmah-a pote na ne ding uh hi; a kum thumna ciangin khaituhin an na la ding uh a, leenggui suanin a gah na ne ding uh hi.
+**TDB77:** “Nang Hezekiah’ adingin hih in lim hong hi ding hi: tu kumin anli pote na ne ding-te a, a kum nihna ciangin tua bangmah-a pote na ne ding-te hi; a kum thumna ciangin khaituhin an na la ding-te a, leenggui suanin a gah na ne ding-te hi.
 
-**ZVS:** “Nang Hezekiah-a' dingin hih in lim hong hi ding hi: Tu kumin anli pote na ne ding uh a, a kum nihna ciangin tua bangmahin a pote na ne leuleu ding uh hi. A kum thumna ciangin khai tuhin an na la ding uh a, leenggui suanin a gah na ne ding uh hi.
+**ZVS:** “Nang Hezekiah-a' dingin hih in lim hong hi ding hi: Tu kumin anli pote na ne ding-te a, a kum nihna ciangin tua bangmahin a pote na ne leuleu ding-te hi. A kum thumna ciangin khai tuhin an na la ding-te a, leenggui suanin a gah na ne ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v31
 **EN:** And the remnant that is escaped of the house of Judah shall again take root downward, and bear fruit upward:
 
-**TDB77:** Tua ciangin, Judah minam sung panin a suakta lai mite in singkung bangin zung khasuk kikin, gah na gahto kik ding uh hi;
+**TDB77:** Tua ciangin, Judah minam sung panin a suakta lai mite in singkung bangin zung khasuk kikin, gah na gahto kik ding-te hi;
 
-**ZVS:** Tua ciangin, Judah minam sung panin a suaktalai mite in singkung bangin zung khasuk kikin, gah na gahto kik ding uh hi.
+**ZVS:** Tua ciangin, Judah minam sung panin a suaktalai mite in singkung bangin zung khasuk kikin, gah na gahto kik ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** For out of Jerusalem shall go forth a remnant, and they that escape out of mount Zion: the zeal of the
 
-**TDB77:** bang hang hiam cih leh a om laite Jerusalem pan ahi zongin, a suakta teng Zion Mual panin ahi zongin paikhia ding uh hi. Vanglianpen Topa’ deihluatna in hih thu hong tungsak ding hi.
+**TDB77:** bang hang hiam cih leh a om laite Jerusalem pan ahi zongin, a suakta teng Zion Mual panin ahi zongin paikhia ding-te hi. Vanglianpen Topa’ deihluatna in hih thu hong tungsak ding hi.
 
-**ZVS:** Bang hang hiam cih leh a omlaite, Jerusalem pan ahi zongin a suakta teng, Zion Mual panin ahi zongin paikhia ding uh hi. Vanglian { Topa}' deihluatna in hih thu hong tungsak ding hi.
+**ZVS:** Bang hang hiam cih leh a omlaite, Jerusalem pan ahi zongin a suakta teng, Zion Mual panin ahi zongin paikhia ding-te hi. Vanglian { Topa}' deihluatna in hih thu hong tungsak ding hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -335,9 +335,9 @@
 ### v38
 **EN:** And it came to pass, as he was worshipping in the house of Nisroch his god, that Adrammelech and Sharezer his sons smote him with the sword; and they escaped into the land of Armenia: and Esar–haddon his son reigned in his stead.
 
-**TDB77:** Amah in ama pasian Nisrok innah bia-in a om lai takin, ama tate Adrammelek leh Sharezer in namsau tawh amah that uh a, Ararat gamah tai uh hi. Ama tapa Esarhaddon in ama tangin kumpi suak hi.
+**TDB77:** Amah in ama pasian Nisrok innah bia-in a om lai takin, ama tate Adrammelek leh Sharezer in namsau tawh amah that-te a, Ararat gamah tai-te hi. Ama tapa Esarhaddon in ama tangin kumpi suak hi.
 
-**ZVS:** Amah in ama pasian Nisrok inn-ah bia-in a om laitakin, ama tate Adrammelek leh Sharezer in namsau tawh amah that uh a, Ararat gamah a tai uh hi. Tua ciangin a tapa Esarhaddon in ama tangin a uk hi.
+**ZVS:** Amah in ama pasian Nisrok inn-ah bia-in a om laitakin, ama tate Adrammelek leh Sharezer in namsau tawh amah that-te a, Ararat gamah a tai-te hi. Tua ciangin a tapa Esarhaddon in ama tangin a uk hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

@@ -28,9 +28,7 @@
 
 ### nei loin = without having (not having)
 **Context:** Indicates the absence of sons before death.
-**Example:** Eleazar in tapa neiloin si a
-
-### tanu = daughter(s)
+**Example:** Eleazar in tapa neiloin si a ### tanu = daughter(s)
 **Context:** Refers to female descendants.
 **Example:** tanu bek nei hi
 
@@ -42,13 +40,13 @@
 **Context:** Refers to the male relatives, specifically the sons of Kish in this context.
 **Example:** Amau' tanau, Kish tapate in
 
-### ten'pih uh hi = took them (as wives)
+### ten'pih-te hi = took them (as wives)
 **Context:** In the context of inheritance/marriage when a man dies without sons, his relatives marry the daughters.
-**Example:** Kish tapate in amaute ten'pih uh hi.
+**Example:** Kish tapate in amaute ten'pih-te hi.
 
-### pha uh hi = were three (in number)
+### pha-te hi = were three (in number)
 **Context:** Indicates the total count of the listed individuals.
-**Example:** thum pha uh hi.
+**Example:** thum pha-te hi.
 
 ### nasepna = work/service
 **Context:** Refers to the duties or service required, specifically for the house of the Lord.
@@ -84,7 +82,7 @@
 
 ### kisam nawn lo hi = will no longer be required/needed
 **Context:** Indicates that a previous duty is now abolished.
-**Example:** a puak ding uh kisam nawnlo hi
+**Example:** a puak ding-te kisam nawnlo hi
 
 ### thupiakna = command/ordinance
 **Context:** Refers to David's final instructions or decrees.
@@ -150,7 +148,7 @@
 - **kum sawmnih panin a tungsiah** = from twenty years old and above
   - Usage: Specifies the minimum age for inclusion in the service count or duty.
 
-- **a tawntungin Topa mai-ah om ding uh hi** = they shall continually stand before the Lord
+- **a tawntungin Topa mai-ah om ding-te hi** = they shall continually stand before the Lord
   - Usage: Describes the perpetual nature of their priestly duties.
 
 - **a beh behin Levi suante ahi hi** = the descendants of Levi, according to their families
@@ -170,6 +168,6 @@
   - Describes a sequence of events regarding descendants: 'X died without having Y, and only had Z.'
   - Example: Eleazar in tapa neiloin si a, tanu bek nei hi.
 
-- **X dingin Y a sem ding uh ahi hi.**
+- **X dingin Y a sem ding-te ahi hi.**
   - Purpose clause structure: 'They shall do Y for the purpose of X.'
-  - Example: biakna na khempeuh a siangtho sak ding, leh Pasian' inn nasepna-ah hih ding khat peuhpeuh a sem ding uh ahi hi.
+  - Example: biakna na khempeuh a siangtho sak ding, leh Pasian' inn nasepna-ah hih ding khat peuhpeuh a sem ding-te ahi hi.

@@ -24,9 +24,9 @@
 ### v1
 **EN:** We have heard with our ears, O God, our fathers have told us, what work thou didst in their days, in the times of old.
 
-**TDB77:** Pasian aw, ka pu ka pate uh hun lai-a na hihna sate, amaute in kote tungah hong gen uh a, kote in ka bil uh tawh ka za khin uh hi.
+**TDB77:** Pasian aw, ka pu ka pate-te hun lai-a na hihna sate, amaute in kote tungah hong gen-te a, kote in ka bil-te tawh ka za khin-te hi.
 
-**ZVS:** Pasian aw, ka pu ka pate uh a khan' lai-a na hihnasate, amaute in kote tungah hong gen uh a, kote in ka bil uh tawh ka za khin uh hi.
+**ZVS:** Pasian aw, ka pu ka pate-te a khan' lai-a na hihnasate, amaute in kote tungah hong gen-te a, kote in ka bil-te tawh ka za khin-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
@@ -35,14 +35,14 @@
 
 **TDB77:** Na khut tawh minam dangte na hawlkhia a, ahih hangin amaute na phut hi; midangte na sugawp a, ahih hangin amaute na suakta sak hi;
 
-**ZVS:** Nangmah in minam dangte na hawlkhia mang a, ahih hangin amau' munah ka pu ka pate uh na tengsak hi. Midangte na sugawp a, ahih hangin amaute na suaktasak hi.
+**ZVS:** Nangmah in minam dangte na hawlkhia mang a, ahih hangin amau' munah ka pu ka pate-te na tengsak hi. Midangte na sugawp a, ahih hangin amaute na suaktasak hi.
 
 ### v3
 **EN:** For they got not the land in possession by their own sword, neither did their own arm save them: but thy right hand, and thine arm, and the light of thy countenance, because thou hadst a favour unto them.
 
-**TDB77:** bang hang hiam cih leh amaute in amau namsau tawh leitang ngah lo uh a, amau khut in amaute gualzawhna pia lo hi; na khut taklam leh na baan, na hehpihna maipha hizaw hi; bang hang hiam cih leh amau sungah nang na lungkim hi.
+**TDB77:** bang hang hiam cih leh amaute in amau namsau tawh leitang ngah lo-te a, amau khut in amaute gualzawhna pia lo hi; na khut taklam leh na baan, na hehpihna maipha hizaw hi; bang hang hiam cih leh amau sungah nang na lungkim hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in namsau tawh leitang ngahlo uh a, amau' khut in amaute' tungah gualzawhna pialo hi. Na khut taklam leh na baan, na hehpihna maipha hizaw hi. Bang hang hiam cih leh amaute tungah nang na lungkim hi.
+**ZVS:** Bang hang hiam cih leh amaute in namsau tawh leitang ngahlo-te a, amau' khut in amaute' tungah gualzawhna pialo hi. Na khut taklam leh na baan, na hehpihna maipha hizaw hi. Bang hang hiam cih leh amaute tungah nang na lungkim hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -58,9 +58,9 @@
 ### v5
 **EN:** Through thee will we push down our enemies: through thy name will we tread them under that rise up against us.
 
-**TDB77:** Nangma hangin ka galte uh ka sawnpai uh a, ko hong dote, na min suangin ka tuancil uh hi.
+**TDB77:** Nangma hangin ka galte-te ka sawnpai-te a, ko hong dote, na min suangin ka tuancil-te hi.
 
-**ZVS:** Nangma huhna tawh ka galte uh ka sawnpai uh a, ko a hong do mite na min suangin ka tuancil uh hi.
+**ZVS:** Nangma huhna tawh ka galte-te ka sawnpai-te a, ko a hong do mite na min suangin ka tuancil-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -85,27 +85,27 @@
 ### v8
 **EN:** In God we boast all the day long, and praise thy name for ever. Selah.
 
-**TDB77:** Pasian sungah kote ka angtang ngitnget uh a, nangma tungah ka lungdam tawntung ding uh hi.
+**TDB77:** Pasian sungah kote ka angtang ngitnget-te a, nangma tungah ka lungdam tawntung ding-te hi.
 
-**ZVS:** Pasian' hangin kote ka angtang ngitnget uh a, nangma tungah ka lungdam tawntung ding uh hi.
+**ZVS:** Pasian' hangin kote ka angtang ngitnget-te a, nangma tungah ka lungdam tawntung ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v9
 **EN:** But thou hast cast off, and put us to shame; and goest not forth with our armies.
 
-**TDB77:** Ahih hangin nangmah in kote hong nusia-in, nong min siasak khin a, ka galkap hon uh tawh nang na kuankhawm kei hi.
+**TDB77:** Ahih hangin nangmah in kote hong nusia-in, nong min siasak khin a, ka galkap hon-te tawh nang na kuankhawm kei hi.
 
-**ZVS:** Ahih hangin nangmah in kote hong nusia-in, nong minsiasak khin a, ka galkap hon uh tawh na hong kuankhawm kei hi.
+**ZVS:** Ahih hangin nangmah in kote hong nusia-in, nong minsiasak khin a, ka galkap hon-te tawh na hong kuankhawm kei hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei
 
 ### v10
 **EN:** Thou makest us to turn back from the enemy: and they which hate us spoil for themselves.
 
-**TDB77:** Galte kiang panin kote nong nungkiksak a, ka galte un ka neihsa teng uh bu-luah khin uh hi.
+**TDB77:** Galte kiang panin kote nong nungkiksak a, ka galte un ka neihsa teng-te bu-luah khin-te hi.
 
-**ZVS:** Galte kiang panin kote nong nungkiksak a, ka galte un ka neihsa teng uh buluah khin uh hi.
+**ZVS:** Galte kiang panin kote nong nungkiksak a, ka galte un ka neihsa teng-te buluah khin-te hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix | plural: uh marker
 
@@ -164,16 +164,16 @@
 ### v19
 **EN:** Though thou hast sore broken us in the place of dragons, and covered us with the shadow of death.
 
-**TDB77:** Ngiate' omna-ah kote hong balnen gawpin, khuamialpi sungah nong paihdak ding zahin, ka lungsim uh kihei nailo a, ka kalsuan uh lampial nailo hi.
+**TDB77:** Ngiate' omna-ah kote hong balnen gawpin, khuamialpi sungah nong paihdak ding zahin, ka lungsim-te kihei nailo a, ka kalsuan-te lampial nailo hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v20
 **EN:** If we have forgotten the name of our God, or stretched out our hands to a strange god;
 
-**TDB77:** Ka Pasian uh’ min mangngilh khinin, pasian dang tungah ka khut uh khak khin hi le ung,
+**TDB77:** Ka Pasian uh’ min mangngilh khinin, pasian dang tungah ka khut-te khak khin hi le ung,
 
-**ZVS:** Ka Pasian uh mangngilh khinin pasian dang tungah ka khutte uh a khakkhin hi le ung,
+**ZVS:** Ka Pasian-te mangngilh khinin pasian dang tungah ka khutte-te a khakkhin hi le ung,
 
 **Grammar:** completed: already done
 
@@ -203,18 +203,18 @@
 ### v24
 **EN:** Wherefore hidest thou thy face, and forgettest our affliction and our oppression?
 
-**TDB77:** Bang hangin na maitang seel na hi hiam? Bang hangin ka thuakna uh leh hong kisukcipna mangngilh na hi hiam?
+**TDB77:** Bang hangin na maitang seel na hi hiam? Bang hangin ka thuakna-te leh hong kisukcipna mangngilh na hi hiam?
 
-**ZVS:** Bang hangin na maitang seel na hi hiam? Bang hangin ka thuakna uh leh hong kisukcipnate mangngilh na hi hiam?
+**ZVS:** Bang hangin na maitang seel na hi hiam? Bang hangin ka thuakna-te leh hong kisukcipnate mangngilh na hi hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v25
 **EN:** For our soul is bowed down to the dust: our belly cleaveth unto the earth.
 
-**TDB77:** Bang hang hiam cih leh lei lakah ka puk uh a, leivui lakah gual lelin ka lum uh hi.
+**TDB77:** Bang hang hiam cih leh lei lakah ka puk-te a, leivui lakah gual lelin ka lum-te hi.
 
-**ZVS:** Bang hang hiam cih leh leilakah ka puk uh a, leivui lakah guallelin ka lum uh hi.
+**ZVS:** Bang hang hiam cih leh leilakah ka puk-te a, leivui lakah guallelin ka lum-te hi.
 
 **Grammar:** plural: uh marker
 

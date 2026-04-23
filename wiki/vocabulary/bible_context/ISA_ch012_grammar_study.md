@@ -31,9 +31,9 @@
 ### v2
 **EN:** Behold, God is my salvation; I will trust, and not be afraid: for the
 
-**TDB77:** “En in, Pasian in keima kihotkhiatna ahi hi; amah ka muang ding a, ka lau kei ding hi; bang hang hiam cih leh Topa Pasian in thahatna leh vangliatna hong pia a, amah in keimah hong honkhiapa ahi hi,” a cih hun uh hong tung ding hi.
+**TDB77:** “En in, Pasian in keima kihotkhiatna ahi hi; amah ka muang ding a, ka lau kei ding hi; bang hang hiam cih leh Topa Pasian in thahatna leh vangliatna hong pia a, amah in keimah hong honkhiapa ahi hi,” a cih hun-te hong tung ding hi.
 
-**ZVS:** En in, Pasian pen kei a hong honkhiapa ahi hi. Amah ka muang ding a, ka lau kei ding hi. Bang hang hiam cih leh Topa { Pasian } in thahatna leh vangliatna hong pia a, amah pen kei a hong honkhiapa ahi hi,” a cih hun uh hong tung ding hi.
+**ZVS:** En in, Pasian pen kei a hong honkhiapa ahi hi. Amah ka muang ding a, ka lau kei ding hi. Bang hang hiam cih leh Topa { Pasian } in thahatna leh vangliatna hong pia a, amah pen kei a hong honkhiapa ahi hi,” a cih hun-te hong tung ding hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
@@ -67,9 +67,9 @@
 ### v6
 **EN:** Cry out and shout, thou inhabitant of Zion: for great is the Holy One of Israel in the midst of thee.
 
-**TDB77:** Zion-a teeng mite aw, nomau’ lakah Israelte’ Siangtho Pa lianin om ahih manin awng un la, lungdamin la sa un,” a cih hun uh hong tung ding hi.
+**TDB77:** Zion-a teeng mite aw, nomau’ lakah Israelte’ Siangtho Pa lianin om ahih manin awng un la, lungdamin la sa un,” a cih hun-te hong tung ding hi.
 
-**ZVS:** Zion-a teng mite aw, nomau' lakah Israel-te' Siangtho Pa lianin om ahih manin lungdamin awng un la, lungdamin la sa un,” a cih hun uh hong tung ding hi.
+**ZVS:** Zion-a teng mite aw, nomau' lakah Israel-te' Siangtho Pa lianin om ahih manin lungdamin awng un la, lungdamin la sa un,” a cih hun-te hong tung ding hi.
 
 **Grammar:** future: will | causal: because
 

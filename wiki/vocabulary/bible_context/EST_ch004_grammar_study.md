@@ -44,9 +44,9 @@
 ### v3
 **EN:** And in every province, whithersoever the king's commandment and his decree came, there was great mourning among the Jews, and fasting, and weeping, and wailing; and many lay in sackcloth and ashes.
 
-**TDB77:** Kumpipa’ thupiakna a tun’na gam Judah mite’ omna khempeuh ah nakpi tak-a thuumna leh tauna, an tan’na, kahna, leh dip humna om hi. Mi a tamzaw in puanhampi silhin vut lakah lum uh hi.
+**TDB77:** Kumpipa’ thupiakna a tun’na gam Judah mite’ omna khempeuh ah nakpi tak-a thuumna leh tauna, an tan’na, kahna, leh dip humna om hi. Mi a tamzaw in puanhampi silhin vut lakah lum-te hi.
 
-**ZVS:** Kumpipa' thupiakna a tun'na gam Jew mite' omna khempeuhah nakpi taka thumna leh tauna, antan'na, kahna, leh dip-humna om hi. Mi a tamzaw in puanhampi silhin vut lakah lum uh hi.
+**ZVS:** Kumpipa' thupiakna a tun'na gam Jew mite' omna khempeuhah nakpi taka thumna leh tauna, antan'na, kahna, leh dip-humna om hi. Mi a tamzaw in puanhampi silhin vut lakah lum-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -114,16 +114,16 @@
 ### v11
 **EN:** All the king's servants, and the people of the king's provinces, do know, that whosoever, whether man or woman, shall come unto the king into the inner court, who is not called, there is one law of his to put him to death, except such to whom the king shall hold out the golden sceptre, that he may live: but I have not been called to come in unto the king these thirty days.
 
-**TDB77:** “Numei ahi a, pasal ahi zongin sap lohpi-in mi khat peuhpeuh kumpipa’ omna inn sungah a va lut leh upadi khat bek om a, tua in: thah ding ahi hi; kumpipa in ama lamah a kham kumpi ciangkhut a na zan leh tua mipa suakta bek ding ahihna thu kumpipa’ nasemte leh ama ukna gam mi khempeuh in a theih ciat uh ahi hi. Tu-in kumpipa kiangah a pai dingin hong kisap loh zawh ni sawmthum bang pha ta hi,” a ci hi.
+**TDB77:** “Numei ahi a, pasal ahi zongin sap lohpi-in mi khat peuhpeuh kumpipa’ omna inn sungah a va lut leh upadi khat bek om a, tua in: thah ding ahi hi; kumpipa in ama lamah a kham kumpi ciangkhut a na zan leh tua mipa suakta bek ding ahihna thu kumpipa’ nasemte leh ama ukna gam mi khempeuh in a theih ciat-te ahi hi. Tu-in kumpipa kiangah a pai dingin hong kisap loh zawh ni sawmthum bang pha ta hi,” a ci hi.
 
-**ZVS:** “Numei ahi a, pasal ahi zongin saplohpi-in mi khat peuhpeuh kumpipa' omna inn sungah a va lut leh upadi khat bek om a, tua pen, thah ding ahi hi; kumpipa in ama lamah a kham kumpi ciangkhut a na zan leh tua mipa suakta bek ding ahihna thu kumpipa' nasemte leh ama ukna gam mi khempeuh in a theih ciat uh ahi hi. Tu-in kumpipa kiangah a pai dingin hong kisaploh zawh ni sawmthum bang pha ta hi,” a ci hi.
+**ZVS:** “Numei ahi a, pasal ahi zongin saplohpi-in mi khat peuhpeuh kumpipa' omna inn sungah a va lut leh upadi khat bek om a, tua pen, thah ding ahi hi; kumpipa in ama lamah a kham kumpi ciangkhut a na zan leh tua mipa suakta bek ding ahihna thu kumpipa' nasemte leh ama ukna gam mi khempeuh in a theih ciat-te ahi hi. Tu-in kumpipa kiangah a pai dingin hong kisaploh zawh ni sawmthum bang pha ta hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v12
 **EN:** And they told to Mordecai Esther's words.
 
-**TDB77:** Tua hi a, Esther’ thugen teng Mordekai tungah gen uh hi.
+**TDB77:** Tua hi a, Esther’ thugen teng Mordekai tungah gen-te hi.
 
 **ZVS:** Tua hi a, Esther' thugen teng Mordekai tungah kigen hi.
 
@@ -141,9 +141,9 @@
 ### v14
 **EN:** For if thou altogether holdest thy peace at this time, then shall there enlargement and deliverance arise to the Jews from another place; but thou and thy father's house shall be destroyed: and who knoweth whether thou art come to the kingdom for such a time as this?
 
-**TDB77:** Hih bang hunin bangmah hih lo-in na om cip leh, Judah mite’ suahtak nading leh noptuam nading thu mun dang khat pan hong piang veve ding a, ahi zongin nangmah leh na innkuanpihte i si mang ding uh hi. Hih kumpi inn na tun’na pen hih bang hun-a mah dinga tung na hih mel zong kua’n thei ahi hiam?” a ci hi.
+**TDB77:** Hih bang hunin bangmah hih lo-in na om cip leh, Judah mite’ suahtak nading leh noptuam nading thu mun dang khat pan hong piang veve ding a, ahi zongin nangmah leh na innkuanpihte i si mang ding-te hi. Hih kumpi inn na tun’na pen hih bang hun-a mah dinga tung na hih mel zong kua’n thei ahi hiam?” a ci hi.
 
-**ZVS:** Hih bang hunin bangmah hihloin na omcip leh, Jew mite' suahtakna ding leh noptuamna ding thu mundang khat pan hong piang veve ding a, nangmah leh na innkuanpihte na simang ding uh hi. Hih kumpi inn na tun'na pen hih bang huna mah dinga a tung na hih mel zong kua'n thei ahi hiam?” a ci hi.
+**ZVS:** Hih bang hunin bangmah hihloin na omcip leh, Jew mite' suahtakna ding leh noptuamna ding thu mundang khat pan hong piang veve ding a, nangmah leh na innkuanpihte na simang ding-te hi. Hih kumpi inn na tun'na pen hih bang huna mah dinga a tung na hih mel zong kua'n thei ahi hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -159,9 +159,9 @@
 ### v16
 **EN:** Go, gather together all the Jews that are present in Shushan, and fast ye for me, and neither eat nor drink three days, night or day: I also and my maidens will fast likewise; and so will I go in unto the king, which is not according to the law: and if I perish, I perish.
 
-**TDB77:** “Pai-in Susa khua sunga om Judah mi khempeuh khawm in la, keimah ngaihsutna-in an na tang un; a sun a zan ci loin ni thum sung an ne lo, tui dawn loin na om un. No tan’ mah bangin kei leh ka nasem numeite in zong ka na tang ding uh hi. Tua khit ciangin ngeina ahih loh hangin kumpipa kiangah ka va pai ding hi; ka sih leh zong a si ka hi ding hi,” a ci hi.
+**TDB77:** “Pai-in Susa khua sunga om Judah mi khempeuh khawm in la, keimah ngaihsutna-in an na tang un; a sun a zan ci loin ni thum sung an ne lo, tui dawn loin na om un. No tan’ mah bangin kei leh ka nasem numeite in zong ka na tang ding-te hi. Tua khit ciangin ngeina ahih loh hangin kumpipa kiangah ka va pai ding hi; ka sih leh zong a si ka hi ding hi,” a ci hi.
 
-**ZVS:** “Pai-in Susa khua sunga om Jew mi khempeuh khawm in la, keimah ngaihsutna-in an na tang un. A sun a zan ciloin ni thum sung an nelo, tui dawnloin na om un. Na tan' uh mah bangin kei leh ka nasem numeite in zong ka na tang ding uh hi. Tua khit ciangin ngeina ahihloh hangin kumpipa kiangah ka va pai ding hi,” a ci hi.
+**ZVS:** “Pai-in Susa khua sunga om Jew mi khempeuh khawm in la, keimah ngaihsutna-in an na tang un. A sun a zan ciloin ni thum sung an nelo, tui dawnloin na om un. Na tan' uh mah bangin kei leh ka nasem numeite in zong ka na tang ding-te hi. Tua khit ciangin ngeina ahihloh hangin kumpipa kiangah ka va pai ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

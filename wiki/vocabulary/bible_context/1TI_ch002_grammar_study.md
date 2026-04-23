@@ -25,7 +25,7 @@
 ### v1
 **EN:** I exhort therefore, that, first of all, supplications, prayers, intercessions, and giving of thanks, be made for all men;
 
-**TDB77:** A masa penin kong gennop thu in: Mi khempeuh-a' dingin Pasian tungah ngetna, thungetna, thumna leh lungdam kohna na neih ding uh ahi hi.
+**TDB77:** A masa penin kong gennop thu in: Mi khempeuh-a' dingin Pasian tungah ngetna, thungetna, thumna leh lungdam kohna na neih ding-te ahi hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -82,9 +82,9 @@
 ### v8
 **EN:** I will therefore that men pray every where, lifting up holy hands, without wrath and doubting.
 
-**TDB77:** Tua ahih ciangin mun khempeuh ah pasalte in hehna, kinialna om loin a khut siangtho lamto-in thu a nget ding uh ka deih hi.
+**TDB77:** Tua ahih ciangin mun khempeuh ah pasalte in hehna, kinialna om loin a khut siangtho lamto-in thu a nget ding-te ka deih hi.
 
-**ZVS:** Mun khempeuhah a om pasal khempeuh in kuamah tawh kitotna leh lungsim kinopmawhna nei hetloin, lungsim siangtho tawh a khut uh lamin thu a nget ding uh ka deih hi.
+**ZVS:** Mun khempeuhah a om pasal khempeuh in kuamah tawh kitotna leh lungsim kinopmawhna nei hetloin, lungsim siangtho tawh a khut-te lamin thu a nget ding-te ka deih hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -98,7 +98,7 @@
 ### v10
 **EN:** But (which becometh women professing godliness) with good works.
 
-**TDB77:** biakna lungsim neite-a' dingin a kilawm ahih mah bangin gamtat hoih a neihding uh ka deih hi.
+**TDB77:** biakna lungsim neite-a' dingin a kilawm ahih mah bangin gamtat hoih a neihding-te ka deih hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -107,7 +107,7 @@
 
 **TDB77:** Numei in na khempeuh ah ukna mangin pau loin om hen.
 
-**ZVS:** Numeite in gamdai takin kiniamkhiatna tawh thu ngai-in a sin ding uh ahi hi.
+**ZVS:** Numeite in gamdai takin kiniamkhiatna tawh thu ngai-in a sin ding-te ahi hi.
 
 **Grammar:** optative: let there be / let it be
 
@@ -116,7 +116,7 @@
 
 **TDB77:** Numei in thuhilh ding ahi zongin, pasal tungah a uk ding ahi zongin thu ka pia kei hi; amah in pau loin a om ding ka deih hi.
 
-**ZVS:** Numeite in pasalte tungah aana nei-in thu a hilh ding ka phalkei hi. Gamdai takin a om ding uh ahi hi.
+**ZVS:** Numeite in pasalte tungah aana nei-in thu a hilh ding ka phalkei hi. Gamdai takin a om ding-te ahi hi.
 
 **Grammar:** negation: kei
 
@@ -141,7 +141,7 @@
 ### v15
 **EN:** Notwithstanding she shall be saved in childbearing, if they continue in faith and charity and holiness with sobriety.
 
-**TDB77:** Ahih hangin numeite in khuaval lohna, upna, itna leh siangthona-ah kipin a om uh leh, nausuahna-ah gupna a ngah ding uh hi.
+**TDB77:** Ahih hangin numeite in khuaval lohna, upna, itna leh siangthona-ah kipin a om-te leh, nausuahna-ah gupna a ngah ding-te hi.
 
 **ZVS:** Ahi zongin numei in a kilawm a kituakin upna, itna leh siangthona thu-ah kiptakin a om nak leh nausuah gimna sihpihlo ding hi.
 

@@ -39,25 +39,25 @@
 
 **TDB77:** Amah a ging-in kap khia ahih manin Izipt mite in za hi; Faro’ innkuante in zong za hi.
 
-**ZVS:** Amah a gingin kapkhia ahih manin Egypt mite in za a, Faro' innkuante in zong za uh hi.
+**ZVS:** Amah a gingin kapkhia ahih manin Egypt mite in za a, Faro' innkuante in zong za-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because
 
 ### v3
 **EN:** And Joseph said unto his brethren, I am Joseph; doth my father yet live? And his brethren could not answer him; for they were troubled at his presence.
 
-**TDB77:** Josef in a sanggamte' kiangah, “Keimah in Josef ka hi hi; i pa a nungta lai hiam?” ci hi. Ahih hangin ama omna-ah amaute maizum uh ahih manin a sanggamte in amah dawng thei lo uh hi.
+**TDB77:** Josef in a sanggamte' kiangah, “Keimah in Josef ka hi hi; i pa a nungta lai hiam?” ci hi. Ahih hangin ama omna-ah amaute maizum-te ahih manin a sanggamte in amah dawng thei lo-te hi.
 
-**ZVS:** Josef in a sanggamte kiangah, “Kei, Josef ka hi hi. I pa a nungta lai hiam?” a ci hi. Ahih hangin a sanggamte maizum uh ahih manin amah dawng theilo uh hi.
+**ZVS:** Josef in a sanggamte kiangah, “Kei, Josef ka hi hi. I pa a nungta lai hiam?” a ci hi. Ahih hangin a sanggamte maizum-te ahih manin amah dawng theilo-te hi.
 
 **Grammar:** quotative: said/saying | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And Joseph said unto his brethren, Come near to me, I pray you. And they came near. And he said, I am Joseph your brother, whom ye sold into Egypt.
 
-**TDB77:** Tua ahih ciangin Josef in a sanggamte' kiangah, “Ka nai-ah hong pai un, hong thum ing,” ci hi. Amaute a nai-ah hong pai uh hi. Amah in, “Keimah in Izipt-ah na zuak uh na sanggampa Josef ka hi hi.
+**TDB77:** Tua ahih ciangin Josef in a sanggamte' kiangah, “Ka nai-ah hong pai un, hong thum ing,” ci hi. Amaute a nai-ah hong pai-te hi. Amah in, “Keimah in Izipt-ah na zuak-te na sanggampa Josef ka hi hi.
 
-**ZVS:** Tua ahih ciangin Josef in a sanggamte kiangah, “Ka nai-ah hong pai un, hong thum ing,” a ci hi. Amaute a nai-ah hong pai uh hi. Amah in, “Kei pen Egypt-ah nong zuak uh na sanggampa uh Josef ka hi hi.
+**ZVS:** Tua ahih ciangin Josef in a sanggamte kiangah, “Ka nai-ah hong pai un, hong thum ing,” a ci hi. Amaute a nai-ah hong pai-te hi. Amah in, “Kei pen Egypt-ah nong zuak-te na sanggampa-te Josef ka hi hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -91,9 +91,9 @@
 ### v8
 **EN:** So now it was not you that sent me hither, but God: and he hath made me a father to Pharaoh, and lord of all his house, and a ruler throughout all the land of Egypt.
 
-**TDB77:** Tua ahih ciangin hih lai-ah a hong sawl mi in note na hi kei uh hi, Pasian ahi hi; amah in Faro’ pa-in kei hong bawlin, ama' inn khempeuh’ topa leh Izipt gam khempeuh ukpa-in amah in kei hong bawl khin hi.
+**TDB77:** Tua ahih ciangin hih lai-ah a hong sawl mi in note na hi kei-te hi, Pasian ahi hi; amah in Faro’ pa-in kei hong bawlin, ama' inn khempeuh’ topa leh Izipt gam khempeuh ukpa-in amah in kei hong bawl khin hi.
 
-**ZVS:** Tua ahih ciangin hih lai-ah a hong sawl mi pen note na hi kei uh a, Pasian ahi hi. Amah in Faro' khutnuai-ah a ulian penin kei hong bawlin, ama innsung khempeuh' topa leh Egypt gam khempeuh a ukpa-in kei hong bawlkhin hi.
+**ZVS:** Tua ahih ciangin hih lai-ah a hong sawl mi pen note na hi kei-te a, Pasian ahi hi. Amah in Faro' khutnuai-ah a ulian penin kei hong bawlin, ama innsung khempeuh' topa leh Egypt gam khempeuh a ukpa-in kei hong bawlkhin hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | completed: already done | negation: kei | plural: uh marker
 
@@ -118,27 +118,27 @@
 ### v11
 **EN:** And there will I nourish thee; for yet there are five years of famine; lest thou, and thy household, and all that thou hast, come to poverty.
 
-**TDB77:** hong tung ding kialpi kum nga om lai ahih manin tua lai-ah nang kong vaak ding hi; tua hi kei leh nang leh na innkuanpite leh na neih khempeuh in zawn’na na ngah ding uh hi,’ ci hi, ci un.
+**TDB77:** hong tung ding kialpi kum nga om lai ahih manin tua lai-ah nang kong vaak ding hi; tua hi kei leh nang leh na innkuanpite leh na neih khempeuh in zawn’na na ngah ding-te hi,’ ci hi, ci un.
 
-**ZVS:** Hong tung ding kialpi kum nga omlai ahih manin tua lai-ah nang kong vak ding hi. Tua hi kei leh nang leh na innkuanpihte leh na neih khempeuh in zawn'na na ngah ding uh hi, ci hi,’ va ci un.
+**ZVS:** Hong tung ding kialpi kum nga omlai ahih manin tua lai-ah nang kong vak ding hi. Tua hi kei leh nang leh na innkuanpihte leh na neih khempeuh in zawn'na na ngah ding-te hi, ci hi,’ va ci un.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And, behold, your eyes see, and the eyes of my brother Benjamin, that it is my mouth that speaketh unto you.
 
-**TDB77:** Note' kianga thu hong gen in keima' kam ahihna tu-in note’ mit-in nong mu uh hi, ka sanggampa Benjamin’ mit in zong hong mu hi.
+**TDB77:** Note' kianga thu hong gen in keima' kam ahihna tu-in note’ mit-in nong mu-te hi, ka sanggampa Benjamin’ mit in zong hong mu hi.
 
-**ZVS:** “Note' kianga thu hong gen pen keima kam ahihna tu-in note' mitin nong mu uh a, ka sanggampa Benjamin' mit in zong hong mu hi.
+**ZVS:** “Note' kianga thu hong gen pen keima kam ahihna tu-in note' mitin nong mu-te a, ka sanggampa Benjamin' mit in zong hong mu hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And ye shall tell my father of all my glory in Egypt, and of all that ye have seen; and ye shall haste and bring down my father hither.
 
-**TDB77:** Izipt-ah keima' liatna khempeuh leh note’ muhsa khempeuh i pa’ kiangah na gen ding uh hi. Manlang un la, hih lai-ah i pa hong paipih suk un,” ci hi.
+**TDB77:** Izipt-ah keima' liatna khempeuh leh note’ muhsa khempeuh i pa’ kiangah na gen ding-te hi. Manlang un la, hih lai-ah i pa hong paipih suk un,” ci hi.
 
-**ZVS:** Egypt-ah keima liatna khempeuh leh note' muhsa khempeuh, i pa' kiangah na gen ding uh hi. Manlang un la, hih lai-ah i pa hong paipih suk un,” a ci hi.
+**ZVS:** Egypt-ah keima liatna khempeuh leh note' muhsa khempeuh, i pa' kiangah na gen ding-te hi. Manlang un la, hih lai-ah i pa hong paipih suk un,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -154,9 +154,9 @@
 ### v15
 **EN:** Moreover he kissed all his brethren, and wept upon them: and after that his brethren talked with him.
 
-**TDB77:** Tua ciangin a sanggamte khempeuh ngawng kawi-in a kap hi; tua khit ciangin a sanggamte in amah hopih uh hi.
+**TDB77:** Tua ciangin a sanggamte khempeuh ngawng kawi-in a kap hi; tua khit ciangin a sanggamte in amah hopih-te hi.
 
-**ZVS:** Tua ciangin a kah kawmin a sanggamte khempeuh ngawng kawi-in a nam hi. Tua khit ciangin a sanggamte in amah hopih uh hi.
+**ZVS:** Tua ciangin a kah kawmin a sanggamte khempeuh ngawng kawi-in a nam hi. Tua khit ciangin a sanggamte in amah hopih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -172,18 +172,18 @@
 ### v17
 **EN:** And Pharaoh said unto Joseph, Say unto thy brethren, This do ye; lade your beasts, and go, get you unto the land of Canaan;
 
-**TDB77:** Faro in Josef' kiangah, “Na sanggamte' kiangah, ‘Hih bangin gamta un: na ganhingte uh van suan un la, Kanaan gamah paikik un;
+**TDB77:** Faro in Josef' kiangah, “Na sanggamte' kiangah, ‘Hih bangin gamta un: na ganhingte-te van suan un la, Kanaan gamah paikik un;
 
-**ZVS:** Faro in Josef kiangah, “Na sanggamte kiangah, ‘Hih bangin gamta un: Na ganhingte uh van suan un la, Kanaan gamah ciahkik un.
+**ZVS:** Faro in Josef kiangah, “Na sanggamte kiangah, ‘Hih bangin gamta un: Na ganhingte-te van suan un la, Kanaan gamah ciahkik un.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v18
 **EN:** And take your father and your households, and come unto me: and I will give you the good of the land of Egypt, and ye shall eat the fat of the land.
 
-**TDB77:** i pa leh na innkuanpihte uh la un la, kei' kiangah hong pai un, Izipt gam a hoihpen mun note kong pia ding a, note in gam hoih sunga piangte na ne ding uh hi.’
+**TDB77:** i pa leh na innkuanpihte-te la un la, kei' kiangah hong pai un, Izipt gam a hoihpen mun note kong pia ding a, note in gam hoih sunga piangte na ne ding-te hi.’
 
-**ZVS:** I pa leh na innkuanpihte uh va la un la, kei kiangah hong pai un. Egypt gam a hoihpen mun note kong pia ding a, note in gam hoih sunga piangte na ne ding uh hi,’ ci in.
+**ZVS:** I pa leh na innkuanpihte-te va la un la, kei kiangah hong pai un. Egypt gam a hoihpen mun note kong pia ding a, note in gam hoih sunga piangte na ne ding-te hi,’ ci in.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -199,18 +199,18 @@
 ### v20
 **EN:** Also regard not your stuff; for the good of all the land of Egypt is yours.
 
-**TDB77:** Izipt gam khempeuh a hoih penna nomau’ aa ahih ciangin na vante uh ngaihsutin nei kei un,’ ci in,” a ci hi.
+**TDB77:** Izipt gam khempeuh a hoih penna nomau’ aa ahih ciangin na vante-te ngaihsutin nei kei un,’ ci in,” a ci hi.
 
-**ZVS:** Egypt gam khempeuh a hoih penna nomau-a' ahih ciangin na vante uh ngaihsutin nei kei un,’ ci in,” a ci hi.
+**ZVS:** Egypt gam khempeuh a hoih penna nomau-a' ahih ciangin na vante-te ngaihsutin nei kei un,’ ci in,” a ci hi.
 
 **Grammar:** quotative: said/saying
 
 ### v21
 **EN:** And the children of Israel did so: and Joseph gave them wagons, according to the commandment of Pharaoh, and gave them provision for the way.
 
-**TDB77:** Israel’ tapate tua mah bangin gamta uh hi; Josef in Faro’ thupiak mah bangin amaute leeng pia a, lampi-a a nek ding uh zong an pia hi.
+**TDB77:** Israel’ tapate tua mah bangin gamta-te hi; Josef in Faro’ thupiak mah bangin amaute leeng pia a, lampi-a a nek ding-te zong an pia hi.
 
-**ZVS:** Israel' tapate tua bangmahin gamta uh hi. Josef in Faro' thupiak mah bangin amaute leeng pia a, lampi-a a nek ding uh an zong a pia hi.
+**ZVS:** Israel' tapate tua bangmahin gamta-te hi. Josef in Faro' thupiak mah bangin amaute leeng pia a, lampi-a a nek ding-te an zong a pia hi.
 
 **Grammar:** plural: uh marker
 
@@ -242,27 +242,27 @@
 ### v25
 **EN:** And they went up out of Egypt, and came into the land of Canaan unto Jacob their father,
 
-**TDB77:** Tua ahih ciangin amaute Izipt panin paito uh a, a pa uh Jakob' kiang Kanaan gamah ciah uh hi.
+**TDB77:** Tua ahih ciangin amaute Izipt panin paito-te a, a pa-te Jakob' kiang Kanaan gamah ciah-te hi.
 
-**ZVS:** Tua ahih ciangin amaute Egypt panin paito uh a, a pa uh Jakob kiang Kanaan gamah ciah uh hi.
+**ZVS:** Tua ahih ciangin amaute Egypt panin paito-te a, a pa-te Jakob kiang Kanaan gamah ciah-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** And told him, saying, Joseph is yet alive, and he is governor over all the land of Egypt. And Jacob's heart fainted, for he believed them not.
 
-**TDB77:** Amaute in ama' kiangah, “Josef nungta lai a, amah in Izipt gam khempeuh tungah a ukpa ahi hi,” ci uh hi. Amah in amaute’ thugen um lo ahih ciangin a lung si hi.
+**TDB77:** Amaute in ama' kiangah, “Josef nungta lai a, amah in Izipt gam khempeuh tungah a ukpa ahi hi,” ci-te hi. Amah in amaute’ thugen um lo ahih ciangin a lung si hi.
 
-**ZVS:** Amaute in ama kiangah, “Josef nungta lai a, amah pen Egypt gam khempeuh a ukpa na hi hi,” hong ci uh hi. Amah in amaute' thugen umlo ahih ciangin a lung si hi.
+**ZVS:** Amaute in ama kiangah, “Josef nungta lai a, amah pen Egypt gam khempeuh a ukpa na hi hi,” hong ci-te hi. Amah in amaute' thugen umlo ahih ciangin a lung si hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** And they told him all the words of Joseph, which he had said unto them: and when he saw the wagons which Joseph had sent to carry him, the spirit of Jacob their father revived:
 
-**TDB77:** Ahih hangin amaute’ tunga Josef gen kammalte ama' kiangah a gen ciang uh leh Josef in amah puak nadinga a khak leengte a muh ciangin, a pa uh Jakob’ lungsim hing kik hi;
+**TDB77:** Ahih hangin amaute’ tunga Josef gen kammalte ama' kiangah a gen ciang-te leh Josef in amah puak nadinga a khak leengte a muh ciangin, a pa-te Jakob’ lungsim hing kik hi;
 
-**ZVS:** Ahih hangin amaute' tunga Josef' gen kammalte ama kiangah a gen ciang leh Josef in amah puakna dinga a khak leengte a muh ciangin, a pa uh Jakob' lungsim hingkik hi.
+**ZVS:** Ahih hangin amaute' tunga Josef' gen kammalte ama kiangah a gen ciang leh Josef in amah puakna dinga a khak leengte a muh ciangin, a pa-te Jakob' lungsim hingkik hi.
 
 **Grammar:** reciprocal: ki- prefix
 

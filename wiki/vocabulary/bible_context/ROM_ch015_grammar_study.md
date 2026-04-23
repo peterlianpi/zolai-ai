@@ -35,14 +35,14 @@
 
 **TDB77:** Eite khempeuh in i lawmte noptuam na’ng ngaihsunin, amah i kipsak nading ama deihna zui ni.
 
-**ZVS:** Midangte a upna uh hong khangin, mihoih hong suahtheihna dingun i gamta ciat ding hi.
+**ZVS:** Midangte a upna-te hong khangin, mihoih hong suahtheihna dingun i gamta ciat ding hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v3
 **EN:** For even Christ pleased not himself; but, as it is written, The reproaches of them that reproached thee fell on me.
 
-**TDB77:** Bang hang hiam na cih uh leh, Khazih in zong ama deihna zui lo a, Lai Siangtho sungah a kigelh mah bangin, “Nang hong simmawhte a simmawhna kam in keima tungah hong tung hi,” a ci hi.
+**TDB77:** Bang hang hiam na cih-te leh, Khazih in zong ama deihna zui lo a, Lai Siangtho sungah a kigelh mah bangin, “Nang hong simmawhte a simmawhna kam in keima tungah hong tung hi,” a ci hi.
 
 **ZVS:** Bang hang hiam cih leh Khrih zong ama nopsak theihna dingin gamtalo zaw hi. Lai Siangtho sungah, “Note hong kisimmawhna thute kei tungah hong tu hi,” ci-in a kigelh hi.
 
@@ -60,7 +60,7 @@
 ### v5
 **EN:** Now the God of patience and consolation grant you to be likeminded one toward another according to Christ Jesus:
 
-**TDB77:** Note in eite Topa Zeisu Khazih’ Pa ahi Pasian, lungsim kituakin na kam uh tawh na phat nadingun,
+**TDB77:** Note in eite Topa Zeisu Khazih’ Pa ahi Pasian, lungsim kituakin na kam-te tawh na phat nadingun,
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -117,9 +117,9 @@
 ### v12
 **EN:** And again, Esaias saith, There shall be a root of Jesse, and he that shall rise to reign over the Gentiles; in him shall the Gentiles trust.
 
-**TDB77:** Kamsangpa Isaiah in: “Jessi bul meeng in Gentailte a uk ding mi ahi ding hi. Gentailte in amah a muang ding uh hi,” a ci hi.
+**TDB77:** Kamsangpa Isaiah in: “Jessi bul meeng in Gentailte a uk ding mi ahi ding hi. Gentailte in amah a muang ding-te hi,” a ci hi.
 
-**ZVS:** tua ciangin Isaiah in, “Jessi' suante khat hong khang ding a, Gentail mite a uk dingin milian hong suak ding a, ama hangin Gentail mite in lamet lungmuan'na nei ding uh hi,” cihnate a kigelh hi.
+**ZVS:** tua ciangin Isaiah in, “Jessi' suante khat hong khang ding a, Gentail mite a uk dingin milian hong suak ding a, ama hangin Gentail mite in lamet lungmuan'na nei ding-te hi,” cihnate a kigelh hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
@@ -128,14 +128,14 @@
 
 **TDB77:** Note in Kha Siangtho’ vangliatna hangah lametna pha tawh na dim nadingun, upna nei-in lungdamna, noptuamna a pawlpawlte tawh na dim nadingun, muan’na hong pia Pasian in hong pia ta hen.
 
-**ZVS:** Kha Siangtho' huhna tawh note' lametna a khan' semsem theihna dingin, lametna a hong piathei Pasian in, amah na upna uh hangin lungdamna leh nopsakna tawh note hong kidimsak ta hen.
+**ZVS:** Kha Siangtho' huhna tawh note' lametna a khan' semsem theihna dingin, lametna a hong piathei Pasian in, amah na upna-te hangin lungdamna leh nopsakna tawh note hong kidimsak ta hen.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v14
 **EN:** And I myself also am persuaded of you, my brethren, that ye also are full of goodness, filled with all knowledge, able also to admonish one another.
 
-**TDB77:** Ute naute aw, note in lungsim pha tawh dimin, pilna tawh na dim uh a, khat leh khat thu na kihilh thei uh, ci-in ka um hi.
+**TDB77:** Ute naute aw, note in lungsim pha tawh dimin, pilna tawh na dim-te a, khat leh khat thu na kihilh thei uh, ci-in ka um hi.
 
 **ZVS:** Thu upna sungah sanggamte aw, note mihoih hi-in, bangci gamtat ding cih thei-in, khatlekhat zong a kihilhthei dingin kong muang mahmah hi.
 
@@ -194,9 +194,9 @@
 ### v21
 **EN:** But as it is written, To whom he was not spoken of, they shall see: and they that have not heard shall understand.
 
-**TDB77:** Lai Siangtho sungah: “Tua mi thu, kuamah in a lah ngei loh hangin amaute in a mu ding uh hi. A za ngei lo mite in a thei ding uh hi,” ci-in a kigelh hi.
+**TDB77:** Lai Siangtho sungah: “Tua mi thu, kuamah in a lah ngei loh hangin amaute in a mu ding-te hi. A za ngei lo mite in a thei ding-te hi,” ci-in a kigelh hi.
 
-**ZVS:** Lai Siangtho sungah zong, “Ama thu a kigen ngei nailohna mite in mu ding uh a, ama thu a za ngei nailote in teltheih ding uh hi,” na kici hi.
+**ZVS:** Lai Siangtho sungah zong, “Ama thu a kigen ngei nailohna mite in mu ding-te a, ama thu a za ngei nailote in teltheih ding-te hi,” na kici hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -223,7 +223,7 @@
 
 **TDB77:** Spain ka pai ciangin lampi-ah note tawh kimu-in, note tawh kikhawl khawmin, deihna teng a kicin’ khit ciangin tua gamah note hong khakna thupha ka ngah ding hi ci-in ka lamen hi.
 
-**ZVS:** tu-in note tawh kimu theita dingin ka kilamen hi. Spain gam ka paikawmin note kiang ka hong nawk nuam a, note tawh tawlkhat i kikholh khit ciangin Spain gam ka paina dingah nong huh ding uh ka ut hi.
+**ZVS:** tu-in note tawh kimu theita dingin ka kilamen hi. Spain gam ka paikawmin note kiang ka hong nawk nuam a, note tawh tawlkhat i kikholh khit ciangin Spain gam ka paina dingah nong huh ding-te ka ut hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -239,18 +239,18 @@
 ### v26
 **EN:** For it hath pleased them of Macedonia and Achaia to make a certain contribution for the poor saints which are at Jerusalem.
 
-**TDB77:** Bang hang hiam na cih uh leh, Makedonia gam mite leh Akhaia gam mite in Jerusalem khuapi-ah misiangtho zawngte sum hawm uh a, lungsim takpi tawh a pia zo uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, Makedonia gam mite leh Akhaia gam mite in Jerusalem khuapi-ah misiangtho zawngte sum hawm-te a, lungsim takpi tawh a pia zo-te hi.
 
-**ZVS:** Bang hang hiam cih leh Masedonia gam leh Grik gamsunga om pawlpite in Jerusalem khua-a om Pasian' mi a zawngte huhna dingin sum piakding amau thu-in a vaihawmtawm uh hi.
+**ZVS:** Bang hang hiam cih leh Masedonia gam leh Grik gamsunga om pawlpite in Jerusalem khua-a om Pasian' mi a zawngte huhna dingin sum piakding amau thu-in a vaihawmtawm-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v27
 **EN:** It hath pleased them verily; and their debtors they are. For if the Gentiles have been made partakers of their spiritual things, their duty is also to minister unto them in carnal things.
 
-**TDB77:** Ahi hi, lungsim takpi a nei uh ka cih hangin amaute in tuate tungah leiba nei-in a kingaihsun uh hi. Bang hang hiam na cih uh leh, Gentailte in Kha Siangtho piak thuphate Judah mite tawh a ngah khawm uh ahih leh, leitung sum pia-in amau zong Judah mite a vaak ding uh a kilawm hi.
+**TDB77:** Ahi hi, lungsim takpi a nei-te ka cih hangin amaute in tuate tungah leiba nei-in a kingaihsun-te hi. Bang hang hiam na cih-te leh, Gentailte in Kha Siangtho piak thuphate Judah mite tawh a ngah khawm-te ahih leh, leitung sum pia-in amau zong Judah mite a vaak ding-te a kilawm hi.
 
-**ZVS:** Hih pen amau ngaihsut tawmna tawh lawptakin a huh uh ahi hi. A taktakin ci lehang hih mizawngte a huh dingun a kilawm mah ahi hi. Bang hang hiam cih leh Jew mite in kha thu tawh kisai nate Gentail mite hawm uh ahih manin Gentail mite in zong leitung nate tawh Jew mite a huh dingun a kilawm khat ahi hi.
+**ZVS:** Hih pen amau ngaihsut tawmna tawh lawptakin a huh-te ahi hi. A taktakin ci lehang hih mizawngte a huh dingun a kilawm mah ahi hi. Bang hang hiam cih leh Jew mite in kha thu tawh kisai nate Gentail mite hawm-te ahih manin Gentail mite in zong leitung nate tawh Jew mite a huh dingun a kilawm khat ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -289,7 +289,7 @@
 ### v32
 **EN:** That I may come unto you with joy by the will of God, and may with you be refreshed.
 
-**TDB77:** Tua bangin thu hong ngetsak le uh cin, Pasian' deihna ahih nak leh note kiangah lungdam takin ka hong tung ding a, note tawh nuamtakin i kimu ding hi.
+**TDB77:** Tua bangin thu hong ngetsak le-te cin, Pasian' deihna ahih nak leh note kiangah lungdam takin ka hong tung ding a, note tawh nuamtakin i kimu ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

@@ -35,18 +35,18 @@
 ### v2
 **EN:** Speak unto Aaron and to his sons, that they separate themselves from the holy things of the children of Israel, and that they profane not my holy name in those things which they hallow unto me: I am the
 
-**TDB77:** “Aaron leh a tapate in keima min siangtho a daisak loh nadingun amaute in keima tungah a hong ap uh ahi, Israel mite’ na a siangthote panin a kikep nadingun gen in; keimah in Topa ka hi hi.
+**TDB77:** “Aaron leh a tapate in keima min siangtho a daisak loh nadingun amaute in keima tungah a hong ap-te ahi, Israel mite’ na a siangthote panin a kikep nadingun gen in; keimah in Topa ka hi hi.
 
-**ZVS:** “Aaron leh a tapate in keima min siangtho a daisak lohna dingun amaute in keima tungah a hong ap uh ahi, Israel mite' piak a siangthote panin a kikepna dingun gen in; kei pen { Topa } ka hi hi.
+**ZVS:** “Aaron leh a tapate in keima min siangtho a daisak lohna dingun amaute in keima tungah a hong ap-te ahi, Israel mite' piak a siangthote panin a kikepna dingun gen in; kei pen { Topa } ka hi hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v3
 **EN:** Say unto them, Whosoever he be of all your seed among your generations, that goeth unto the holy things, which the children of Israel hallow unto the
 
-**TDB77:** Amaute kiangah, ‘Na suan leh khakte uh sung panin a khang a khangin khatpeuh in a nit lai takin Israel mite in Topa tungah a ap a siangtho nate a naih leh, keima omna panin tuapa kihawlkhia ding hi: keimah in Topa ka hi hi.
+**TDB77:** Amaute kiangah, ‘Na suan leh khakte-te sung panin a khang a khangin khatpeuh in a nit lai takin Israel mite in Topa tungah a ap a siangtho nate a naih leh, keima omna panin tuapa kihawlkhia ding hi: keimah in Topa ka hi hi.
 
-**ZVS:** Amaute kiangah, ‘Na suanlekhakte uh sung panin a khangkhangin khatpeuh in a nit laitakin Israel mite in { Topa' } tungah a ap a siangtho nate a naih leh keima omna panin tuapa kihawlkhia ding hi; kei pen { Topa } ka hi hi.
+**ZVS:** Amaute kiangah, ‘Na suanlekhakte-te sung panin a khangkhangin khatpeuh in a nit laitakin Israel mite in { Topa' } tungah a ap a siangtho nate a naih leh keima omna panin tuapa kihawlkhia ding hi; kei pen { Topa } ka hi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -98,9 +98,9 @@
 ### v9
 **EN:** They shall therefore keep mine ordinance, lest they bear sin for it, and die therefore, if they profane it: I the
 
-**TDB77:** Tua ahih ciangin amaute in ka thuhilhna zui ding uh hi; tua hi kei leh amaute in tua thu a daisak uh ciangin khialhna thuakin sihpih ding uh hi: amaute a siangthosakpa in keimah Topa ka hi hi.
+**TDB77:** Tua ahih ciangin amaute in ka thuhilhna zui ding-te hi; tua hi kei leh amaute in tua thu a daisak-te ciangin khialhna thuakin sihpih ding-te hi: amaute a siangthosakpa in keimah Topa ka hi hi.
 
-**ZVS:** “Tua ahih ciangin amaute in ka thuhilhna zui ding uh hi. Tua hi kei leh amaute in tua thu a daisak uh ciangin khialhna thuakin sihpih ding uh hi. Amaute a siangthosakpa pen keimah { Topa } ka hi hi.
+**ZVS:** “Tua ahih ciangin amaute in ka thuhilhna zui ding-te hi. Tua hi kei leh amaute in tua thu a daisak-te ciangin khialhna thuakin sihpih ding-te hi. Amaute a siangthosakpa pen keimah { Topa } ka hi hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -116,9 +116,9 @@
 ### v11
 **EN:** But if the priest buy any soul with his money, he shall eat of it, and he that is born in his house: they shall eat of his meat.
 
-**TDB77:** ahih hangin siampi khat in ama adingin sum tawh sila khat a lei leh, tua a sila in ne thei ding hi; ama inn sunga a suak mite in ama an ne thei ding uh hi.
+**TDB77:** ahih hangin siampi khat in ama adingin sum tawh sila khat a lei leh, tua a sila in ne thei ding hi; ama inn sunga a suak mite in ama an ne thei ding-te hi.
 
-**ZVS:** Ahih hangin siampipa khat in ama-a' dingin sum tawh sila khat a lei leh, tua a sila in ne thei ding hi. Ama inn sungah a suak mite in ama an ne thei ding uh hi.
+**ZVS:** Ahih hangin siampipa khat in ama-a' dingin sum tawh sila khat a lei leh, tua a sila in ne thei ding hi. Ama inn sungah a suak mite in ama an ne thei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
@@ -152,16 +152,16 @@
 ### v15
 **EN:** And they shall not profane the holy things of the children of Israel, which they offer unto the
 
-**TDB77:** Israel mite in Topa’ tungah a piak ahi, amaute’ na siangthote pen siampite in ninsak lo ding uh a,
+**TDB77:** Israel mite in Topa’ tungah a piak ahi, amaute’ na siangthote pen siampite in ninsak lo ding-te a,
 
-**ZVS:** Amaute in { Topa' } tungah a piak ahi, Israel-te' an a siangtho pen siampite in ninsaklo ding uh a,
+**ZVS:** Amaute in { Topa' } tungah a piak ahi, Israel-te' an a siangtho pen siampite in ninsaklo ding-te a,
 
 **Grammar:** plural: uh marker
 
 ### v16
 **EN:** Or suffer them to bear the iniquity of trespass, when they eat their holy things: for I the
 
-**TDB77:** tua bangin amau’ na a siangthote nekna tawh mawhna leh khialhna amaute pua sak lo ding uh hi; bang hang hiam cih leh keimah in amaute a siangthosak Topa ka hi hi,” a ci hi.
+**TDB77:** tua bangin amau’ na a siangthote nekna tawh mawhna leh khialhna amaute pua sak lo ding-te hi; bang hang hiam cih leh keimah in amaute a siangthosak Topa ka hi hi,” a ci hi.
 
 **ZVS:** tua bangin amau' an a siangthote nekna tawh mawhna leh khialhna amaute puasak lo ding hi; bang hang hiam cih leh kei pen amaute a siangthosak { Topa } ka hi hi,” a ci hi.
 
@@ -188,18 +188,18 @@
 ### v19
 **EN:** Ye shall offer at your own will a male without blemish, of the beeves, of the sheep, or of the goats.
 
-**TDB77:** hong kisan’ theih nadingin bawngtal hita leh tuu hita leh keel hita leh, a sitbang lo apa khat na pia ding uh hi.
+**TDB77:** hong kisan’ theih nadingin bawngtal hita leh tuu hita leh keel hita leh, a sitbang lo apa khat na pia ding-te hi.
 
-**ZVS:** hong kisan' theihna dingin bawngtal hita leh tuu hita leh keel hita leh, a sitbaanglo a pa khat na pia ding uh hi.
+**ZVS:** hong kisan' theihna dingin bawngtal hita leh tuu hita leh keel hita leh, a sitbaanglo a pa khat na pia ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** But whatsoever hath a blemish, that shall ye not offer: for it shall not be acceptable for you.
 
-**TDB77:** Note in a sitbang khatpeuh peuh na pia kei ding uh hi; bang hang hiam cih leh hong kisang zo lo ding hi.
+**TDB77:** Note in a sitbang khatpeuh peuh na pia kei ding-te hi; bang hang hiam cih leh hong kisang zo lo ding hi.
 
-**ZVS:** Note in a sitbaang khat peuhpeuh na pia kei ding uh hi; bang hang hiam cih leh hong kisang zolo ding hi.
+**ZVS:** Note in a sitbaang khat peuhpeuh na pia kei ding-te hi; bang hang hiam cih leh hong kisang zolo ding hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -215,36 +215,36 @@
 ### v22
 **EN:** Blind, or broken, or maimed, or having a wen, or scurvy, or scabbed, ye shall not offer these unto the
 
-**TDB77:** Ganhing a mittaw, a gamtang theilo, ahem, meima nai a nei, cithak ahih kei leh meima a neite pen, note in Topa tungah pia loin, Topa tungah mei tawh kihal biakna-in biakna tau tungah tuate na zang kei ding uh hi.
+**TDB77:** Ganhing a mittaw, a gamtang theilo, ahem, meima nai a nei, cithak ahih kei leh meima a neite pen, note in Topa tungah pia loin, Topa tungah mei tawh kihal biakna-in biakna tau tungah tuate na zang kei ding-te hi.
 
-**ZVS:** Ganhing a mittaw, a gamtang theilo, a hem, meima nai a nei, cithak ahih kei leh meima a neite pen, note in { Topa' } tungah pialoin, { Topa' } tungah mei tawh kihal biakna-in biakna tau tungah tuate na zang kei ding uh hi.
+**ZVS:** Ganhing a mittaw, a gamtang theilo, a hem, meima nai a nei, cithak ahih kei leh meima a neite pen, note in { Topa' } tungah pialoin, { Topa' } tungah mei tawh kihal biakna-in biakna tau tungah tuate na zang kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** Either a bullock or a lamb that hath any thing superfluous or lacking in his parts, that mayest thou offer for a freewill offering; but for a vow it shall not be accepted.
 
-**TDB77:** Bawngtal hita leh tuuno hita leh a na khatpeuh a saulua ahih kei leh a tom luate pen note in ut thu-a biakna-in na pia thei ding uh hi; ahih hangin thuciamna biak nadingin kisang zo lo hi.
+**TDB77:** Bawngtal hita leh tuuno hita leh a na khatpeuh a saulua ahih kei leh a tom luate pen note in ut thu-a biakna-in na pia thei ding-te hi; ahih hangin thuciamna biak nadingin kisang zo lo hi.
 
-**ZVS:** Bawngtal hita leh tuuno hita leh a na khat peuhpeuh a saulua ahih kei leh a tomluate pen note in utthu-a biakna-in na pia thei ding uh hi. Ahih hangin thuciamna tun'sakna-a piak dingin tua bangte kisang zolo hi.
+**ZVS:** Bawngtal hita leh tuuno hita leh a na khat peuhpeuh a saulua ahih kei leh a tomluate pen note in utthu-a biakna-in na pia thei ding-te hi. Ahih hangin thuciamna tun'sakna-a piak dingin tua bangte kisang zolo hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** Ye shall not offer unto the
 
-**TDB77:** A ciltangte a sanim, a kisukham, a kikeek ahih kei leh a ki-at ganhing khatpeuh peuh, note in Topa tungah pia loin, na gam sung uhah biakna-in na zang kei ding uh hi;
+**TDB77:** A ciltangte a sanim, a kisukham, a kikeek ahih kei leh a ki-at ganhing khatpeuh peuh, note in Topa tungah pia loin, na gam sung uhah biakna-in na zang kei ding-te hi;
 
-**ZVS:** A ciltangte a sa-nim, a kisuzan, a kitam, ahih kei leh a ki-atkhia ganhing khat peuhpeuh, note in { Topa' } tungah pialoin, na gamsung uhah biakna-in na zang kei ding uh hi.
+**ZVS:** A ciltangte a sa-nim, a kisuzan, a kitam, ahih kei leh a ki-atkhia ganhing khat peuhpeuh, note in { Topa' } tungah pialoin, na gamsung uhah biakna-in na zang kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** Neither from a stranger's hand shall ye offer the bread of your God of any of these; because their corruption is in them, and blemishes be in them: they shall not be accepted for you.
 
-**TDB77:** gamdang mite khatpeuh peuh tung pana kingah tua ci bang ganhingte zong na Pasian uh’ adingin note in na pia kei ding uh hi. Amaute sitbang a, hem ahih manin tuate hong kisang zo lo ding hi,” a ci hi.
+**TDB77:** gamdang mite khatpeuh peuh tung pana kingah tua ci bang ganhingte zong na Pasian uh’ adingin note in na pia kei ding-te hi. Amaute sitbang a, hem ahih manin tuate hong kisang zo lo ding hi,” a ci hi.
 
-**ZVS:** “Gamdang mite khat peuhpeuh tung panin a kingah ganhingte zong na Pasian uh' an dingin note in na pia kei ding uh hi. Amaute sitbaang a, hem ahih manin tuate hong kisang zolo ding hi,” a ci hi.
+**ZVS:** “Gamdang mite khat peuhpeuh tung panin a kingah ganhingte zong na Pasian uh' an dingin note in na pia kei ding-te hi. Amaute sitbaang a, hem ahih manin tuate hong kisang zolo ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -269,43 +269,43 @@
 ### v28
 **EN:** And whether it be cow or ewe, ye shall not kill it and her young both in one day.
 
-**TDB77:** A pi pen bawng hita leh tuu hita leh, note in a pi leh a no ni khat sungin na gokhawm kei ding uh hi.
+**TDB77:** A pi pen bawng hita leh tuu hita leh, note in a pi leh a no ni khat sungin na gokhawm kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v29
 **EN:** And when ye will offer a sacrifice of thanksgiving unto the
 
-**TDB77:** Note in Topa tungah lungdam koh biakna na piak uh ciangin, note hong kisan’ theih nadingin na pia ding uh hi.
+**TDB77:** Note in Topa tungah lungdam koh biakna na piak-te ciangin, note hong kisan’ theih nadingin na pia ding-te hi.
 
-**ZVS:** Note in { Topa' } tungah lungdam koh biakna na piak uh ciangin, note hong kisan' theihna dingin na pia ding uh hi.
+**ZVS:** Note in { Topa' } tungah lungdam koh biakna na piak-te ciangin, note hong kisan' theihna dingin na pia ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** On the same day it shall be eaten up; ye shall leave none of it until the morrow: I am the
 
-**TDB77:** A tua ni mahin kine ding a, note in a zingsang dong siit na nei kei ding uh hi: keimah in Topa ka hi hi.
+**TDB77:** A tua ni mahin kine ding a, note in a zingsang dong siit na nei kei ding-te hi: keimah in Topa ka hi hi.
 
-**ZVS:** A tua ni mahin kine ding a, note in zingsang dong sit na nei kei ding uh hi; kei pen { Topa } ka hi hi.
+**ZVS:** A tua ni mahin kine ding a, note in zingsang dong sit na nei kei ding-te hi; kei pen { Topa } ka hi hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** Therefore shall ye keep my commandments, and do them: I am the
 
-**TDB77:** “Tua ahih ciangin note in ka thupiaknate zui-in tuate na sem ding uh hi: keimah in Topa ka hi hi.
+**TDB77:** “Tua ahih ciangin note in ka thupiaknate zui-in tuate na sem ding-te hi: keimah in Topa ka hi hi.
 
-**ZVS:** “Tua ahih ciangin note in ka thupiaknate zui-in tuate na sem ding uh hi; kei pen { Topa } ka hi hi.
+**ZVS:** “Tua ahih ciangin note in ka thupiaknate zui-in tuate na sem ding-te hi; kei pen { Topa } ka hi hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v32
 **EN:** Neither shall ye profane my holy name; but I will be hallowed among the children of Israel: I am the
 
-**TDB77:** Note in keima min siangtho na daisak kei ding uh hi; Israel mite lakah kei hong kisiangthosak ding hi; keimah in note a hong siangthosak Topa,
+**TDB77:** Note in keima min siangtho na daisak kei ding-te hi; Israel mite lakah kei hong kisiangthosak ding hi; keimah in note a hong siangthosak Topa,
 
-**ZVS:** Note in keima min siangtho na daisak kei ding uh a, Israel mite lakah kei hong kisiangthosak ding hi. Kei pen note a hong siangthosak { Topa, }
+**ZVS:** Note in keima min siangtho na daisak kei ding-te a, Israel mite lakah kei hong kisiangthosak ding hi. Kei pen note a hong siangthosak { Topa, }
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

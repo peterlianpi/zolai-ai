@@ -68,9 +68,9 @@
 ### v6
 **EN:** But if ye shall at all turn from following me, ye or your children, and will not keep my commandments and my statutes which I have set before you, but go and serve other gods, and worship them:
 
-**TDB77:** Ahih hangin nang na hi a, na tate ahi zongin, keimah zuihna panin pialin, note mai-ah ka koih ka thupiaknate leh ka thukhamnate na zuih kei uh a, pasian dangte’ na a sem ding leh a bia dingin na pai uh leh,
+**TDB77:** Ahih hangin nang na hi a, na tate ahi zongin, keimah zuihna panin pialin, note mai-ah ka koih ka thupiaknate leh ka thukhamnate na zuih kei-te a, pasian dangte’ na a sem ding leh a bia dingin na pai-te leh,
 
-**ZVS:** Ahih hangin nang na hi a, na tate ahi zongin, keimah zuihna panin pialin, note mai-ah ka koih ka thupiaknate leh ka thukhamte na zuih kei uh a, pasian dangte' na a sem ding leh a bia dingin na pai uh leh,
+**ZVS:** Ahih hangin nang na hi a, na tate ahi zongin, keimah zuihna panin pialin, note mai-ah ka koih ka thupiaknate leh ka thukhamte na zuih kei-te a, pasian dangte' na a sem ding leh a bia dingin na pai-te leh,
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -86,18 +86,18 @@
 ### v8
 **EN:** And at this house, which is high, every one that passeth by it shall be astonished, and shall hiss; and they shall say, Why hath the
 
-**TDB77:** Tua ciangin hih inn in nin bulomtang suak ding hi; a nawk kha mi khempeuh in lamdang sa-in ee! ci ding uh hi; amaute in, ‘Bang hangin Topa in hih leitang leh hih inn hih bangin hih hiam? ci ding uh hi.
+**TDB77:** Tua ciangin hih inn in nin bulomtang suak ding hi; a nawk kha mi khempeuh in lamdang sa-in ee! ci ding-te hi; amaute in, ‘Bang hangin Topa in hih leitang leh hih inn hih bangin hih hiam? ci ding-te hi.
 
-**ZVS:** Tua ciangin hih biakinn pen ninbulomtang suak ding a, a nawkkha mi khempeuh in lamdangsa-in, eh! ci ding uh hi. Amaute in, ‘Bang hangin { Topa } in hih leitang leh hih biakinn hih bangin hih ahi hiam?’ ci ding uh hi.
+**ZVS:** Tua ciangin hih biakinn pen ninbulomtang suak ding a, a nawkkha mi khempeuh in lamdangsa-in, eh! ci ding-te hi. Amaute in, ‘Bang hangin { Topa } in hih leitang leh hih biakinn hih bangin hih ahi hiam?’ ci ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v9
 **EN:** And they shall answer, Because they forsook the
 
-**TDB77:** Tua ciangin amaute in, “Izipt gam panin a pu a pate uh a paikhiatpih Topa a Pasian uh amaute in nusia-in, pasian dangte len uh a, tuate bia-in a na a sepna uh hang ahi hi; tua ahih ciangin Topa in hih siatna khempeuh amaute tungah tungsak hi,’ ci ding uh hi,” a ci uh hi.
+**TDB77:** Tua ciangin amaute in, “Izipt gam panin a pu a pate-te a paikhiatpih Topa a Pasian-te amaute in nusia-in, pasian dangte len-te a, tuate bia-in a na a sepna-te hang ahi hi; tua ahih ciangin Topa in hih siatna khempeuh amaute tungah tungsak hi,’ ci ding-te hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin amaute in, ‘Egypt panin a pu a pate uh a paikhiatpih { Topa } a Pasian uh amaute in nusia-in pasian dangte len uh a, tuate bia-in a na a sepna hang uh ahi hi. Tua ahih ciangin { Topa } in hih siatna khempeuh amaute tungah tungsak hi,’ ci ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin amaute in, ‘Egypt panin a pu a pate-te a paikhiatpih { Topa } a Pasian-te amaute in nusia-in pasian dangte len-te a, tuate bia-in a na a sepna hang-te ahi hi. Tua ahih ciangin { Topa } in hih siatna khempeuh amaute tungah tungsak hi,’ ci ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -195,18 +195,18 @@
 ### v21
 **EN:** Their children that were left after them in the land, whom the children of Israel also were not able utterly to destroy, upon those did Solomon levy a tribute of bondservice unto this day.
 
-**TDB77:** Israel mite in a suksiat khit siang zawh loh, tua gamah amau’ nunga a om lai a suan leh khakte uh - Solomon in hihte aana tawh na a sem sila-in bawl a, tua ahih ciangin tu ni dongin tua mah bangin om uh hi.
+**TDB77:** Israel mite in a suksiat khit siang zawh loh, tua gamah amau’ nunga a om lai a suan leh khakte-te - Solomon in hihte aana tawh na a sem sila-in bawl a, tua ahih ciangin tu ni dongin tua mah bangin om-te hi.
 
-**ZVS:** Israel mite in a suksiat khit siang zawhloh, tua gamah amau' nunga a omlai a suanlekhakte uh, Solomon in aana tawh na a sem salin bawl ahih ciangin tuni dongin tua bangmahin amaute om uh hi.
+**ZVS:** Israel mite in a suksiat khit siang zawhloh, tua gamah amau' nunga a omlai a suanlekhakte uh, Solomon in aana tawh na a sem salin bawl ahih ciangin tuni dongin tua bangmahin amaute om-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v22
 **EN:** But of the children of Israel did Solomon make no bondmen: but they were men of war, and his servants, and his princes, and his captains, and rulers of his chariots, and his horsemen.
 
-**TDB77:** Ahih hangin Solomon in Israel mite sila-in bawl lo hi; amaute in galkapte, ama nuai-ah a uliante, ama nuai-ah a ukte, a galkapmangte, a leeng ukte leh a sakol tuangte ahi uh hi.
+**TDB77:** Ahih hangin Solomon in Israel mite sila-in bawl lo hi; amaute in galkapte, ama nuai-ah a uliante, ama nuai-ah a ukte, a galkapmangte, a leeng ukte leh a sakol tuangte ahi-te hi.
 
-**ZVS:** Ahih hangin Solomon in Israel mite salin bawllo hi. Amaute pen galkapte, ama nuai-ah a uliante, a galkapmangte, a leeng ukte, leh a sakol tung tuangte ahi uh hi.
+**ZVS:** Ahih hangin Solomon in Israel mite salin bawllo hi. Amaute pen galkapte, ama nuai-ah a uliante, a galkapmangte, a leeng ukte, leh a sakol tung tuangte ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -254,9 +254,9 @@
 ### v28
 **EN:** And they came to Ophir, and fetched from thence gold, four hundred and twenty talents, and brought it to king Solomon.
 
-**TDB77:** tua ciangin amaute Ofir-ah pai-in tua lai panin kham talen zali leh sawmnih hong paipih uh hi; amaute in Kumpi Solomon kiangah tuate tun’ uh hi.
+**TDB77:** tua ciangin amaute Ofir-ah pai-in tua lai panin kham talen zali leh sawmnih hong paipih-te hi; amaute in Kumpi Solomon kiangah tuate tun’ uh hi.
 
-**ZVS:** Tua ciangin amaute Ofir-ah pai-in tua lai panin kham talen za li leh sawmnih hong pua uh a, amaute in Kumpi Solomon kiangah tuate tun'pih uh hi.
+**ZVS:** Tua ciangin amaute Ofir-ah pai-in tua lai panin kham talen za li leh sawmnih hong pua-te a, amaute in Kumpi Solomon kiangah tuate tun'pih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

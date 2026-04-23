@@ -90,18 +90,18 @@
 ### v9
 **EN:** For there is no faithfulness in their mouth; their inward part is very wickedness; their throat is an open sepulchre; they flatter with their tongue.
 
-**TDB77:** Bang hang hiam cih leh amau sungah thuman om lo hi; amau lungsim ah siatna bek ngaihsun uh a, amau gawlgui in a kihongsa hankhuk tawh kibang hi. A leii uh tawh mawk phat uh hi.
+**TDB77:** Bang hang hiam cih leh amau sungah thuman om lo hi; amau lungsim ah siatna bek ngaihsun-te a, amau gawlgui in a kihongsa hankhuk tawh kibang hi. A leii-te tawh mawk phat-te hi.
 
-**ZVS:** Bang hang hiam cih leh amau sungah thuman omlo hi. Amau lungsimah siatna bek ngaihsun uh a, amau' gawlgui pen a kihongsa hankhuk tawh kibang hi. A kam uh tawh mawk phat uh hi.
+**ZVS:** Bang hang hiam cih leh amau sungah thuman omlo hi. Amau lungsimah siatna bek ngaihsun-te a, amau' gawlgui pen a kihongsa hankhuk tawh kibang hi. A kam-te tawh mawk phat-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** Destroy thou them, O God; let them fall by their own counsels; cast them out in the multitude of their transgressions; for they have rebelled against thee.
 
-**TDB77:** Pasian aw, a mawhna uh amau thuak sak in la, amau thu mah tawh amau puksak in; amaute in nangmah hong lehdo uh ahih manin amau mawhna tampite hangin amau paaikhia in.
+**TDB77:** Pasian aw, a mawhna-te amau thuak sak in la, amau thu mah tawh amau puksak in; amaute in nangmah hong lehdo-te ahih manin amau mawhna tampite hangin amau paaikhia in.
 
-**ZVS:** Pasian aw, a mawhna uh amau mah thuaksak in la, amau' thu mah tawh amaute puksak in. Amaute in nangmah hong lehdo uh ahih manin amau' mawhna tampite hangin amaute paiikhia in.
+**ZVS:** Pasian aw, a mawhna-te amau mah thuaksak in la, amau' thu mah tawh amaute puksak in. Amaute in nangmah hong lehdo-te ahih manin amau' mawhna tampite hangin amaute paiikhia in.
 
 **Grammar:** causal: because
 

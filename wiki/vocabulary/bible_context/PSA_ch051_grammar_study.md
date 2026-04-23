@@ -130,9 +130,9 @@
 ### v13
 **EN:** Then will I teach transgressors thy ways; and sinners shall be converted unto thee.
 
-**TDB77:** Tua ciangin thu palsatte na zia ka hilh ding a, mimawhte nangma lamah hong kihei kik ding uh hi.
+**TDB77:** Tua ciangin thu palsatte na zia ka hilh ding a, mimawhte nangma lamah hong kihei kik ding-te hi.
 
-**ZVS:** Tua ciangin thupalsatte na zia na tong ka hilh ding a, nangma lamah mimawhte hong kiheikik ding uh hi.
+**ZVS:** Tua ciangin thupalsatte na zia na tong ka hilh ding a, nangma lamah mimawhte hong kiheikik ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 

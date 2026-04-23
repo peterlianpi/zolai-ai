@@ -36,9 +36,9 @@
 ### v2
 **EN:** Plead with your mother, plead: for she is not my wife, neither am I her husband: let her therefore put away her whoredoms out of her sight, and her adulteries from between her breasts;
 
-**TDB77:** Tate aw, na nu uh zol bawl un. Amah in ka zi hi buang a, kei in ama pasal hi buang hilo ka hi hiam? A paktatna leh midang tawh a mawhnate a khawl nadingin zol un.
+**TDB77:** Tate aw, na nu-te zol bawl un. Amah in ka zi hi buang a, kei in ama pasal hi buang hilo ka hi hiam? A paktatna leh midang tawh a mawhnate a khawl nadingin zol un.
 
-**ZVS:** Tate aw, na nu uh zolbawl un. Amah ka zi hi nawnlo a, kei zong ama pasal ka hih nawnloh hangin a paktatna leh midang tawh a mawhnate a khawlna dingin zol un.
+**ZVS:** Tate aw, na nu-te zolbawl un. Amah ka zi hi nawnlo a, kei zong ama pasal ka hih nawnloh hangin a paktatna leh midang tawh a mawhnate a khawlna dingin zol un.
 
 **Grammar:** purpose: in order to
 
@@ -63,9 +63,9 @@
 ### v5
 **EN:** For their mother hath played the harlot: she that conceived them hath done shamefully: for she said, I will go after my lovers, that give me my bread and my water, my wool and my flax, mine oil and my drink.
 
-**TDB77:** A nu uh a paktat hi a, tua ahih manin amaute, tua a paai numei in zumna mel thei loin a gamta ahi hi. Amah in, “Ka it pasal dangte kiangah ka pai ding hi; amaute in an leh tui, samul puan leh saihadial puan, leh oliv thau leh zu hong pia uh hi,” a ci zaw lai hi.
+**TDB77:** A nu-te a paktat hi a, tua ahih manin amaute, tua a paai numei in zumna mel thei loin a gamta ahi hi. Amah in, “Ka it pasal dangte kiangah ka pai ding hi; amaute in an leh tui, samul puan leh saihadial puan, leh oliv thau leh zu hong pia-te hi,” a ci zaw lai hi.
 
-**ZVS:** A nu uh a paktat hi a, tua ahih manin amaute a paai numei, zumna mel theiloin a gamta ahi hi. Amah in, “Ka it pasal dangte kiangah ka pai ding hi. Amaute in an leh tui, samul puan leh saihadial puan, oliv thau leh zu hong pia uh hi,” a cizaw lai hi.
+**ZVS:** A nu-te a paktat hi a, tua ahih manin amaute a paai numei, zumna mel theiloin a gamta ahi hi. Amah in, “Ka it pasal dangte kiangah ka pai ding hi. Amaute in an leh tui, samul puan leh saihadial puan, oliv thau leh zu hong pia-te hi,” a cizaw lai hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -225,9 +225,9 @@
 ### v23
 **EN:** And I will sow her unto me in the earth; and I will have mercy upon her that had not obtained mercy; and I will say to them which were not my people, Thou art my people; and they shall say, Thou art my God.
 
-**TDB77:** Leitungah ka mite kipsakin a cithei-in ka bawl ding a, hehpih loh, a kici mite ka hehpih ding a, ka mi hi lo, a kici mite, ka mi na hi uh hi, ka ci ding a, amaute in, “Nang in kote’ Pasian na hi hi,” hong ci ding uh hi, Topa in a ci hi.
+**TDB77:** Leitungah ka mite kipsakin a cithei-in ka bawl ding a, hehpih loh, a kici mite ka hehpih ding a, ka mi hi lo, a kici mite, ka mi na hi-te hi, ka ci ding a, amaute in, “Nang in kote’ Pasian na hi hi,” hong ci ding-te hi, Topa in a ci hi.
 
-**ZVS:** Leitungah ka mite kipsakin a cithei-in ka bawl ding a, hehpih loh, a kici mite ka hehpih ding a, ka mi hilo, a kici mite, ka mi na hi uh hi, ka ci ding a, amaute in, “Nang pen kote' Pasian na hi hi,” hong ci ding uh hi, { Topa } in a ci hi.
+**ZVS:** Leitungah ka mite kipsakin a cithei-in ka bawl ding a, hehpih loh, a kici mite ka hehpih ding a, ka mi hilo, a kici mite, ka mi na hi-te hi, ka ci ding a, amaute in, “Nang pen kote' Pasian na hi hi,” hong ci ding-te hi, { Topa } in a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

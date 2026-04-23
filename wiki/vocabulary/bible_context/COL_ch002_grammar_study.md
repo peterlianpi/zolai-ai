@@ -31,7 +31,7 @@
 ### v2
 **EN:** That their hearts might be comforted, being knit together in love, and unto all riches of the full assurance of understanding, to the acknowledgement of the mystery of God, and of the Father, and of Christ;
 
-**TDB77:** Note, lungsim han'na tawh kidimin, thu a man taktakin na theihna hangun lungkip takin omin, itna tawh pumkhat na suahtheihna ding uh ka deihna ahi hi. Tua hi leh Pasian' thusim ahi Khrih mahmah na thei ding uh hi.
+**TDB77:** Note, lungsim han'na tawh kidimin, thu a man taktakin na theihna hangun lungkip takin omin, itna tawh pumkhat na suahtheihna ding-te ka deihna ahi hi. Tua hi leh Pasian' thusim ahi Khrih mahmah na thei ding-te hi.
 
 **Grammar:** intensifier: very/greatly | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -56,16 +56,16 @@
 ### v5
 **EN:** For though I be absent in the flesh, yet am I with you in the spirit, joying and beholding your order, and the stedfastness of your faith in Christ.
 
-**TDB77:** Keima pumpi in note tawh kikhenin ka om hangin, ka lungsim note tawh omkhawm a, note in a ngeina bangin na bawl theihna uh ahi zongin, Khazih sungah upna kipin na om uh ahi zongin ka muh ciangin ka lung a dam hi.
+**TDB77:** Keima pumpi in note tawh kikhenin ka om hangin, ka lungsim note tawh omkhawm a, note in a ngeina bangin na bawl theihna-te ahi zongin, Khazih sungah upna kipin na om-te ahi zongin ka muh ciangin ka lung a dam hi.
 
-**ZVS:** Bang hang hiam cih leh note tawh ka hong omkhawm loh hangin ka lungsimin note tawh ka hong omkhawm a, Khrih na upna uh hangin kiptakin na omkhawmna uh ka theih manin ka nuam mahmah hi.
+**ZVS:** Bang hang hiam cih leh note tawh ka hong omkhawm loh hangin ka lungsimin note tawh ka hong omkhawm a, Khrih na upna-te hangin kiptakin na omkhawmna-te ka theih manin ka nuam mahmah hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v6
 **EN:** As ye have therefore received Christ Jesus the Lord, so walk ye in him:
 
-**TDB77:** Note hong honpa dingin Topa Khrih na sansa uh ahih mah bangin amah tawh hoihtakin kipawlin nungta un.
+**TDB77:** Note hong honpa dingin Topa Khrih na sansa-te ahih mah bangin amah tawh hoihtakin kipawlin nungta un.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -88,7 +88,7 @@
 ### v9
 **EN:** For in him dwelleth all the fulness of the Godhead bodily.
 
-**TDB77:** Bang hang hiam na cih uh leh, Pasian’ lim tawh a dim khempeuh in Khazih’ pum sungah kilangin a om hi.
+**TDB77:** Bang hang hiam na cih-te leh, Pasian’ lim tawh a dim khempeuh in Khazih’ pum sungah kilangin a om hi.
 
 **ZVS:** Bang hang hiam cih leh mihing hong suahna sungah Khrih in Pasian' pian'zia khempeuh a kimtakin nei a,
 
@@ -97,23 +97,23 @@
 ### v10
 **EN:** And ye are complete in him, which is the head of all principality and power:
 
-**TDB77:** Ukna thu leh vangliatna thu a uk Topa sungah note in kicingin na om uh hi.
+**TDB77:** Ukna thu leh vangliatna thu a uk Topa sungah note in kicingin na om-te hi.
 
-**ZVS:** Khrih tawh na kipawlna hangun nuntakna kicing na nei uh hi. Huihlak a ukte leh aana neite khempeuh tungah amah a lutangpi hi lai hi.
+**ZVS:** Khrih tawh na kipawlna hangun nuntakna kicing na nei-te hi. Huihlak a ukte leh aana neite khempeuh tungah amah a lutangpi hi lai hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** In whom also ye are circumcised with the circumcision made without hands, in putting off the body of the sins of the flesh by the circumcision of Christ:
 
-**TDB77:** Amah tawh na kipawlna uh hangin mihingte in pumpi vun a at uh bang hiloin, Khrih' vun-atna ahi mawhnopna lungsim tawh kipelhna a ngah khinta na hi uh hi.
+**TDB77:** Amah tawh na kipawlna-te hangin mihingte in pumpi vun a at-te bang hiloin, Khrih' vun-atna ahi mawhnopna lungsim tawh kipelhna a ngah khinta na hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** Buried with him in baptism, wherein also ye are risen with him through the faith of the operation of God, who hath raised him from the dead.
 
-**TDB77:** Note tui na kiphum uh ciangin Jesuh tawh kiphum khawmin, misite' lak panin Khrih a thosak Pasian' vangliatna na up manun Khrih mah tawh tuiphumna panin a thokhawm leuleu na hi uh hi.
+**TDB77:** Note tui na kiphum-te ciangin Jesuh tawh kiphum khawmin, misite' lak panin Khrih a thosak Pasian' vangliatna na up manun Khrih mah tawh tuiphumna panin a thokhawm leuleu na hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -122,7 +122,7 @@
 
 **TDB77:** Mawhna-ah ahi zongin, pumpi vunatna ngah lohna-ah ahi zongin si-in a om note, Khazih tawh kibangin hong hingsak a, eite khialhna khempeuh a hong maisak hi.
 
-**ZVS:** A beisa hunah na mawhna uh hangin kha thu tawh kisai-in misi na hi uh a, Gentail mi na hih manun Thukham neilote na hi uh hi. Ahi zongin Khrih hangin Pasian in note hong hingsak a, i mawhna khempeuh hong maisak khinta hi.
+**ZVS:** A beisa hunah na mawhna-te hangin kha thu tawh kisai-in misi na hi-te a, Gentail mi na hih manun Thukham neilote na hi-te hi. Ahi zongin Khrih hangin Pasian in note hong hingsak a, i mawhna khempeuh hong maisak khinta hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -140,7 +140,7 @@
 
 **TDB77:** A sangbel vangliatna leh uknate a laksak khit ciangin, kitel takin lak a, singlamteh hangin zawhna pawi a khaam hi.
 
-**ZVS:** Amah in huihlak a ukte leh vangliatna a nei khempeuh, singlamteh tungah zogawp khin a, galzote in a sal matte a kaih uh bangin mi khempeuh muhin a gualzawhna a lak hi.
+**ZVS:** Amah in huihlak a ukte leh vangliatna a nei khempeuh, singlamteh tungah zogawp khin a, galzote in a sal matte a kaih-te bangin mi khempeuh muhin a gualzawhna a lak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -174,21 +174,21 @@
 
 **TDB77:** Lu tung pan pumpi khempeuh in a guh a taang tawh a kipawlnate hangin thahatna piangin, Pasian’ deihna tawh kituakin a khang thei hi.
 
-**ZVS:** lutang ahi Khrih a len nawnlo uh ahi hi. Lutang ahi Khrih' ukna tawh pumpi na khempeuh kizom dimdiam uh ahih manin pumpi in thahatna ngah a, Pasian' deih bangin a khangto hi.
+**ZVS:** lutang ahi Khrih a len nawnlo-te ahi hi. Lutang ahi Khrih' ukna tawh pumpi na khempeuh kizom dimdiam-te ahih manin pumpi in thahatna ngah a, Pasian' deih bangin a khangto hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v20
 **EN:** Wherefore if ye be dead with Christ from the rudiments of the world, why, as though living in the world, are ye subject to ordinances,
 
-**TDB77:** Khrih tawh sikhawm khin na hih manun huihlak a ukte' khutsung panin a suakta khin na hi uh hi. Tua hinapi-in, bang hangin hih leitung mite bangin gamta na hi uh hiam? Bang hangin ngeina a tuamtuamte,
+**TDB77:** Khrih tawh sikhawm khin na hih manun huihlak a ukte' khutsung panin a suakta khin na hi-te hi. Tua hinapi-in, bang hangin hih leitung mite bangin gamta na hi-te hiam? Bang hangin ngeina a tuamtuamte,
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v21
 **EN:** (Touch not; taste not; handle not;
 
-**TDB77:** “Lawng kei un, ciam kei un, su kei un,” cihte zuihin nei na hi uh hiam?
+**TDB77:** “Lawng kei un, ciam kei un, su kei un,” cihte zuihin nei na hi-te hiam?
 
 ### v22
 **EN:** Which all are to perish with the using;) after the commandments and doctrines of men?

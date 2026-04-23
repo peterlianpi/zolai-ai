@@ -51,27 +51,27 @@
 ### v4
 **EN:** And I will turn thee back, and put hooks into thy jaws, and I will bring thee forth, and all thine army, horses and horsemen, all of them clothed with all sorts of armour, even a great company with bucklers and shields, all of them handling swords:
 
-**TDB77:** Nang hong lehhei-in, na khaguh ah sikkawi kong bulh ding a, na galkap honpite khempeuh tawh kong kaikhia ding hi. Na galkap honpite pen a sakolte uh leh a sakol tung tuangte tawh tam mahmah a , na galkap khempeuh in lum leh namsau nei kim uh hi.
+**TDB77:** Nang hong lehhei-in, na khaguh ah sikkawi kong bulh ding a, na galkap honpite khempeuh tawh kong kaikhia ding hi. Na galkap honpite pen a sakolte-te leh a sakol tung tuangte tawh tam mahmah a , na galkap khempeuh in lum leh namsau nei kim-te hi.
 
-**ZVS:** Nang hong lehhei-in, na khaguh-ah sikkawi kong bulh ding a, na galkap honpite khempeuh tawh kong kaikhia ding hi. Na galkap honpite pen a sakolte uh leh a sakol tung tuangte uh tawh tam mahmah a, na galkap khempeuh in lum leh namsau nei kim uh hi.
+**ZVS:** Nang hong lehhei-in, na khaguh-ah sikkawi kong bulh ding a, na galkap honpite khempeuh tawh kong kaikhia ding hi. Na galkap honpite pen a sakolte-te leh a sakol tung tuangte-te tawh tam mahmah a, na galkap khempeuh in lum leh namsau nei kim-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** Persia, Ethiopia, and Libya with them; all of them with shield and helmet:
 
-**TDB77:** Persia gam, Kush gam, leh Put gam mite in zong nang hong panpih uh a, amaute in lum leh siklukhu nei kim uh hi.
+**TDB77:** Persia gam, Kush gam, leh Put gam mite in zong nang hong panpih-te a, amaute in lum leh siklukhu nei kim-te hi.
 
-**ZVS:** Persia gam, Kush gam, leh Put gammite in zong nang hong pan'pih uh a, amaute in lum leh siklukhu nei kim uh hi.
+**ZVS:** Persia gam, Kush gam, leh Put gammite in zong nang hong pan'pih-te a, amaute in lum leh siklukhu nei kim-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Gomer, and all his bands; the house of Togarmah of the north quarters, and all his bands: and many people with thee.
 
-**TDB77:** Leilu lam gam peka om Gomer gama galkapte khempeuh leh Beth-togarmah gama galkapte khempeuh in nang hong pan’pih uh a, minam dang tampite in zong nang hong pawlpih uh hi.
+**TDB77:** Leilu lam gam peka om Gomer gama galkapte khempeuh leh Beth-togarmah gama galkapte khempeuh in nang hong pan’pih-te a, minam dang tampite in zong nang hong pawlpih-te hi.
 
-**ZVS:** Leilu lam gam peka om Gomer gama galkapte khempeuh leh Bethtogarmah gama galkapte khempeuh in nang hong pan'pih uh a, minam dang tampite in zong nang hong pawlpih uh hi.
+**ZVS:** Leilu lam gam peka om Gomer gama galkapte khempeuh leh Bethtogarmah gama galkapte khempeuh in nang hong pan'pih-te a, minam dang tampite in zong nang hong pawlpih-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -87,18 +87,18 @@
 ### v8
 **EN:** After many days thou shalt be visited: in the latter years thou shalt come into the land that is brought back from the sword, and is gathered out of many people, against the mountains of Israel, which have been always waste: but it is brought forth out of the nations, and they shall dwell safely all of them.
 
-**TDB77:** Minam tuamtuamte lak panin kikaikhawm kikin a gam uh a kitut kik zawh gal launa nei loin a om Israel mite’ gam a sim dingin kum tampi khit ciangin kong sawl ding hi. Sau veipi sung kinusia-in gamkhing a suak ngei hi napi-in, tu-in a mite khempeuh lungmuang takin a omna Israel mual tung gamte a sim ding na hi hi.
+**TDB77:** Minam tuamtuamte lak panin kikaikhawm kikin a gam-te a kitut kik zawh gal launa nei loin a om Israel mite’ gam a sim dingin kum tampi khit ciangin kong sawl ding hi. Sau veipi sung kinusia-in gamkhing a suak ngei hi napi-in, tu-in a mite khempeuh lungmuang takin a omna Israel mual tung gamte a sim ding na hi hi.
 
-**ZVS:** Minam tuamtuamte lak panin kikaikhawm kikin a gam uh a kitutkik zawh gallauna neiloin a om Israel mite' gam a sim dingin kum tampi khit ciangin kong sawl ding hi. Sauveipi sung kinusia-in gamkhing a suak ngei hinapi-in, tu-in a mite khempeuh lungmuang takin a omna Israel mualtung gamte a sim ding na hi hi.
+**ZVS:** Minam tuamtuamte lak panin kikaikhawm kikin a gam-te a kitutkik zawh gallauna neiloin a om Israel mite' gam a sim dingin kum tampi khit ciangin kong sawl ding hi. Sauveipi sung kinusia-in gamkhing a suak ngei hinapi-in, tu-in a mite khempeuh lungmuang takin a omna Israel mualtung gamte a sim ding na hi hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** Thou shalt ascend and come like a storm, thou shalt be like a cloud to cover the land, thou, and all thy bands, and many people with thee.
 
-**TDB77:** Nang leh na galkap honpite leh nang hong pawlpih minam tampite in khuapi huih bangin na sim gawp ding uh a, meiipi bangin a gam sung khempeuh na tuamcip ding uh hi.
+**TDB77:** Nang leh na galkap honpite leh nang hong pawlpih minam tampite in khuapi huih bangin na sim gawp ding-te a, meiipi bangin a gam sung khempeuh na tuamcip ding-te hi.
 
-**ZVS:** Nang leh na galkap honpite leh nang hong pawlpih minam tampite in khuapi huih bangin na simgawp ding uh a, meiipi bangin a gamsung khempeuh na tuamcip ding uh hi.
+**ZVS:** Nang leh na galkap honpite leh nang hong pawlpih minam tampite in khuapi huih bangin na simgawp ding-te a, meiipi bangin a gamsung khempeuh na tuamcip ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -123,18 +123,18 @@
 ### v12
 **EN:** To take a spoil, and to take a prey; to turn thine hand upon the desolate places that are now inhabited, and upon the people that are gathered out of the nations, which have gotten cattle and goods, that dwell in the midst of the land.
 
-**TDB77:** A sia ngeisa khuapite sunga teeng mite luhin a nate uh na sut gawp ding hi. Tua mite pen minam tuamtuamte lak panin a kikaikhawm kik, tu-in ganhing leh neihsa van zong nei kikin, leitung lam lian khempeuh a kituahna lam kabom san-a teeng mite ahi uh hi.
+**TDB77:** A sia ngeisa khuapite sunga teeng mite luhin a nate-te na sut gawp ding hi. Tua mite pen minam tuamtuamte lak panin a kikaikhawm kik, tu-in ganhing leh neihsa van zong nei kikin, leitung lam lian khempeuh a kituahna lam kabom san-a teeng mite ahi-te hi.
 
-**ZVS:** A sia ngeisa khuapite sungah a teng mite luhin a nate uh na sutgawp ding hi. Tua mite pen minam tuamtuamte lak panin a kikaikhawm kik, tu-in ganhing leh neihsa van zong nei kikin, leitung lam khempeuh a kituahna lamkabom sanah a teng mite ahi uh hi.
+**ZVS:** A sia ngeisa khuapite sungah a teng mite luhin a nate-te na sutgawp ding hi. Tua mite pen minam tuamtuamte lak panin a kikaikhawm kik, tu-in ganhing leh neihsa van zong nei kikin, leitung lam khempeuh a kituahna lamkabom sanah a teng mite ahi-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Sheba, and Dedan, and the merchants of Tarshish, with all the young lions thereof, shall say unto thee, Art thou come to take a spoil? hast thou gathered thy company to take a prey? to carry away silver and gold, to take away cattle and goods, to take a great spoil?
 
-**TDB77:** Sheba mite leh Dedan mite’ leh Tarshish khuapite-a teeng sumbukte in nang kiangah, ‘Ngun leh khamte, ganhingte leh vante na ngahna dingin luh gawpin a sutgawp ding leh gen zawh loh van tampite tawh a ciah khia dingin galsim dingin na galkapte na kaikhawm nai hiam?’ ci-in hong dong ding uh hi,” ci-in gen in hong ci hi.
+**TDB77:** Sheba mite leh Dedan mite’ leh Tarshish khuapite-a teeng sumbukte in nang kiangah, ‘Ngun leh khamte, ganhingte leh vante na ngahna dingin luh gawpin a sutgawp ding leh gen zawh loh van tampite tawh a ciah khia dingin galsim dingin na galkapte na kaikhawm nai hiam?’ ci-in hong dong ding-te hi,” ci-in gen in hong ci hi.
 
-**ZVS:** Sheba mite leh Dedan mite, leh Tarshish khuapite-ah a teng sumbukte in nang kiangah, ‘Ngun leh khamte, ganhingte leh vante na ngahna dingin luhgawpin a sutgawp ding leh genzawhloh van tampi tawh a ciahkhia dingin galsim dingin na galkapte na kaikhawm nai hiam?’ ci-in hong dong ding uh hi, ci-in gen in,” hong ci hi.
+**ZVS:** Sheba mite leh Dedan mite, leh Tarshish khuapite-ah a teng sumbukte in nang kiangah, ‘Ngun leh khamte, ganhingte leh vante na ngahna dingin luhgawpin a sutgawp ding leh genzawhloh van tampi tawh a ciahkhia dingin galsim dingin na galkapte na kaikhawm nai hiam?’ ci-in hong dong ding-te hi, ci-in gen in,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -195,18 +195,18 @@
 ### v20
 **EN:** So that the fishes of the sea, and the fowls of the heaven, and the beasts of the field, and all creeping things that creep upon the earth, and all the men that are upon the face of the earth, shall shake at my presence, and the mountains shall be thrown down, and the steep places shall fall, and every wall shall fall to the ground.
 
-**TDB77:** Ngasate leh vasate, ganhing a neu a lian, leh leitunga om mi khempeuh, keimah kihtakna hangin lau-in liing ding uh hi. Mualte pukin, keente cimin, kulh leh phung khempeuh kicim mang ding hi.
+**TDB77:** Ngasate leh vasate, ganhing a neu a lian, leh leitunga om mi khempeuh, keimah kihtakna hangin lau-in liing ding-te hi. Mualte pukin, keente cimin, kulh leh phung khempeuh kicim mang ding hi.
 
-**ZVS:** Ngasate leh vasate, ganhing a neu a lian, leh leitunga om mi khempeuh, keimah kihtakna hangin lau-in ling ding uh hi. Mualte pukin, keente cimin, kulh leh phung khempeuh kicimmang ding uh hi.
+**ZVS:** Ngasate leh vasate, ganhing a neu a lian, leh leitunga om mi khempeuh, keimah kihtakna hangin lau-in ling ding-te hi. Mualte pukin, keente cimin, kulh leh phung khempeuh kicimmang ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And I will call for a sword against him throughout all my mountains, saith the Lord
 
-**TDB77:** Gimna a tuamtuamte tawh Gog ka lausak gawp ding hi. Topa Pasian in hih thu ka gen khin hi. Ama mite khat leh khat namsau tawh kisat gawp ding uh hi.
+**TDB77:** Gimna a tuamtuamte tawh Gog ka lausak gawp ding hi. Topa Pasian in hih thu ka gen khin hi. Ama mite khat leh khat namsau tawh kisat gawp ding-te hi.
 
-**ZVS:** Gimna a tuamtuamte tawh Gog ka lausakgawp ding hi. Topa { Pasian } in hih thu ka gen khin hi. Ama mite khatlekhat namsau tawh kisatgawp ding uh hi.
+**ZVS:** Gimna a tuamtuamte tawh Gog ka lausakgawp ding hi. Topa { Pasian } in hih thu ka gen khin hi. Ama mite khatlekhat namsau tawh kisatgawp ding-te hi.
 
 **Grammar:** completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -222,9 +222,9 @@
 ### v23
 **EN:** Thus will I magnify myself, and sanctify myself; and I will be known in the eyes of many nations, and they shall know that I am the
 
-**TDB77:** Hih bangin hihna tawh keimah in a lian a siangtho ka hihna thu, minam khempeuh tungah ka langsak ding a, tua ciangin Topa ka hihna thu amaute in hong thei ding uh hi,” hong ci hi.
+**TDB77:** Hih bangin hihna tawh keimah in a lian a siangtho ka hihna thu, minam khempeuh tungah ka langsak ding a, tua ciangin Topa ka hihna thu amaute in hong thei ding-te hi,” hong ci hi.
 
-**ZVS:** Hih bangin hihna tawh a lian a siangtho ka hihna thu, keimah in minam khempeuh tungah ka langsak ding a, tua ciangin { Topa } ka hihna thu amaute in hong thei ding uh hi,” hong ci hi.
+**ZVS:** Hih bangin hihna tawh a lian a siangtho ka hihna thu, keimah in minam khempeuh tungah ka langsak ding a, tua ciangin { Topa } ka hihna thu amaute in hong thei ding-te hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 

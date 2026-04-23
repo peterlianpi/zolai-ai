@@ -96,16 +96,16 @@
 
 **TDB77:** Amah in, “Tu-in na muhna-ah maipha ka muh leh, Topa aw, kong thum hi, lungkhauh mite ka hita zongun kote' kiangah Topa hong pai in; kote’ mawhna leh kote’ khialhna hong maisak in la, nangma' luah dingin kote hong la in,” a ci hi.
 
-**ZVS:** Amah in, “Tu-in na muhna-ah maipha ka muh leh, { Topa } aw, kong thum hi; lungkhauh mite ka hita uh zongin kote' kiangah { Topa } hong pai in. Kote' mawhna leh kote' khialhna hong maisak in la, nangma mi dingin kote hong sang in,” a ci hi.
+**ZVS:** Amah in, “Tu-in na muhna-ah maipha ka muh leh, { Topa } aw, kong thum hi; lungkhauh mite ka hita-te zongin kote' kiangah { Topa } hong pai in. Kote' mawhna leh kote' khialhna hong maisak in la, nangma mi dingin kote hong sang in,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v10
 **EN:** And he said, Behold, I make a covenant: before all thy people I will do marvels, such as have not been done in all the earth, nor in any nation: and all the people among which thou art shall see the work of the
 
-**TDB77:** Amah in, “En in, keimah in thuciamna khat ka bawl hi. Nangma' mite khempeuh' mai-ah, leitung khempeuh hita leh minam khat peuh sungah hita leh cik mah-a tua bang a kibawl ngei lo nalamdangte ka bawl ding hi; note’ lakah a om mite khempeuh in Topa’ nasepna mu ding uh hi; bang hang hiam cih leh note' tungah kong bawl dingin a kihtakhuai na ahi hi.
+**TDB77:** Amah in, “En in, keimah in thuciamna khat ka bawl hi. Nangma' mite khempeuh' mai-ah, leitung khempeuh hita leh minam khat peuh sungah hita leh cik mah-a tua bang a kibawl ngei lo nalamdangte ka bawl ding hi; note’ lakah a om mite khempeuh in Topa’ nasepna mu ding-te hi; bang hang hiam cih leh note' tungah kong bawl dingin a kihtakhuai na ahi hi.
 
-**ZVS:** { Topa } in Moses kiangah, “En in, keimah in thuciamna khat ka bawl hi. Nangma mi khempeuh' muhna-ah, leitung khempeuh hita leh minam khatpeuh sungah hita leh cikmahin tua bang a kibawl ngeilo na lamdangte ka bawl ding a, note' lakah a om mite khempeuh in { Topa' } nasepna mu ding uh hi. Bang hang hiam cih leh note' tungah kong bawl ding na pen a kihtakhuai thu ahi hi.
+**ZVS:** { Topa } in Moses kiangah, “En in, keimah in thuciamna khat ka bawl hi. Nangma mi khempeuh' muhna-ah, leitung khempeuh hita leh minam khatpeuh sungah hita leh cikmahin tua bang a kibawl ngeilo na lamdangte ka bawl ding a, note' lakah a om mite khempeuh in { Topa' } nasepna mu ding-te hi. Bang hang hiam cih leh note' tungah kong bawl ding na pen a kihtakhuai thu ahi hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -150,34 +150,34 @@
 
 **TDB77:** nangmah in leitanga a teng mite tawh thuciamna bawlin, amaute in amau’ pasiante’ nungah paktatna bawlin amau’ pasiante' tungah biakna pia-in khat peuh in note hong sap ciangin, note in ama' biak piakna ne-in,
 
-**ZVS:** Nangmah in tua leitangah a teng mite tawh thuciamna bawlkha kei in. Amaute in amau' pasian-te tawh paktatna bawlin amau' pasian-te' tungah biakna pia-in, khatpeuh in note hong sap ciangin, note in ama biakpiakna na ne khading uh a,
+**ZVS:** Nangmah in tua leitangah a teng mite tawh thuciamna bawlkha kei in. Amaute in amau' pasian-te tawh paktatna bawlin amau' pasian-te' tungah biakna pia-in, khatpeuh in note hong sap ciangin, note in ama biakpiakna na ne khading-te a,
 
 **Grammar:** serial verb: -in (and then)
 
 ### v16
 **EN:** And thou take of their daughters unto thy sons, and their daughters go a whoring after their gods, and make thy sons go a whoring after their gods.
 
-**TDB77:** note in amau’ tanute na tapate uh zi dingin la in, amau’ tanute in amau’ pasiante’ nungah paktatna bawlin, amau’ pasiante’ nungah na tapate uh paktatna bawlsak kha ding uh hi.
+**TDB77:** note in amau’ tanute na tapate-te zi dingin la in, amau’ tanute in amau’ pasiante’ nungah paktatna bawlin, amau’ pasiante’ nungah na tapate-te paktatna bawlsak kha ding-te hi.
 
-**ZVS:** note in amau' tanute na tapate uh-a' dingin la-in, amau' pasian-te tawh paktatna a bawl a tanute in amau' pasian-te tawh na tapate uh paktatsak khading uh hi.
+**ZVS:** note in amau' tanute na tapate uh-a' dingin la-in, amau' pasian-te tawh paktatna a bawl a tanute in amau' pasian-te tawh na tapate-te paktatsak khading-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v17
 **EN:** Thou shalt make thee no molten gods.
 
-**TDB77:** “A kisung pasiante note’ adingin na bawl kei ding uh hi.
+**TDB77:** “A kisung pasiante note’ adingin na bawl kei ding-te hi.
 
-**ZVS:** “A kisung pasian-te note-a' dingin bawlin na bia kei ding uh hi.
+**ZVS:** “A kisung pasian-te note-a' dingin bawlin na bia kei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** The feast of unleavened bread shalt thou keep. Seven days thou shalt eat unleavened bread, as I commanded thee, in the time of the month Abib: for in the month Abib thou camest out from Egypt.
 
-**TDB77:** “Silngo sawhloh anlum pawi na bawl ding uh hi. Abib kha, a kisehsa hun sung teng, nang kong thupiak mah bangin ni sagih sung silngo sawhloh anlum na ne ding uh hi; bang hang hiam cih leh Abib kha sungin Izipt panin note na paikhia uh hi.
+**TDB77:** “Silngo sawhloh anlum pawi na bawl ding-te hi. Abib kha, a kisehsa hun sung teng, nang kong thupiak mah bangin ni sagih sung silngo sawhloh anlum na ne ding-te hi; bang hang hiam cih leh Abib kha sungin Izipt panin note na paikhia-te hi.
 
-**ZVS:** “Silngo sawhloh anlum pawi na bawl ding uh hi. Abib kha, a kisehsa hun sungteng, nang kong thupiak mah bangin ni sagih sung silngo sawhloh anlum na ne ding uh hi. Bang hang hiam cih leh Abib kha sungin Egypt panin note na paikhia uh hi.
+**ZVS:** “Silngo sawhloh anlum pawi na bawl ding-te hi. Abib kha, a kisehsa hun sungteng, nang kong thupiak mah bangin ni sagih sung silngo sawhloh anlum na ne ding-te hi. Bang hang hiam cih leh Abib kha sungin Egypt panin note na paikhia-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -191,63 +191,63 @@
 ### v20
 **EN:** But the firstling of an ass thou shalt redeem with a lamb: and if thou redeem him not, then shalt thou break his neck. All the firstborn of thy sons thou shalt redeem. And none shall appear before me empty.
 
-**TDB77:** La a tacilte tuuno khat tawh na tanh ding hi, tua bang hi loin na tat kei leh a ngawng na kuaitan ding hi. Na tapa cilte khempeuh uh na tanh ding uh hi. Keima' mai-ah a guakin kuamah hong kilaak lo ding hi.
+**TDB77:** La a tacilte tuuno khat tawh na tanh ding hi, tua bang hi loin na tat kei leh a ngawng na kuaitan ding hi. Na tapa cilte khempeuh-te na tanh ding-te hi. Keima' mai-ah a guakin kuamah hong kilaak lo ding hi.
 
-**ZVS:** La a tacilte tuuno khat tawh na tanh ding uh hi. Na tat kei uh leh a ngawng na kuaitan ding uh hi. Na tapa cilte khempeuh uh na tanh ding uh hi. Keima mai-ah a guakin kuamah hong kilaklo ding hi.
+**ZVS:** La a tacilte tuuno khat tawh na tanh ding-te hi. Na tat kei-te leh a ngawng na kuaitan ding-te hi. Na tapa cilte khempeuh-te na tanh ding-te hi. Keima mai-ah a guakin kuamah hong kilaklo ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** Six days thou shalt work, but on the seventh day thou shalt rest: in earing time and in harvest thou shalt rest.
 
-**TDB77:** “Ni guk sung na na sem ding uh hi, ahih hangin a ni sagih ni-in na tawlnga ding uh hi; lo khawh hun leh anlak hunin na tawlnga ding uh hi.
+**TDB77:** “Ni guk sung na na sem ding-te hi, ahih hangin a ni sagih ni-in na tawlnga ding-te hi; lo khawh hun leh anlak hunin na tawlnga ding-te hi.
 
-**ZVS:** “Ni guk sung na na sem ding uh a, ahi zongin a ni sagih ni-in na tawlnga ding uh hi. Lokhawh hun leh anlak hun sungin zong na tawlnga ding uh hi.
+**ZVS:** “Ni guk sung na na sem ding-te a, ahi zongin a ni sagih ni-in na tawlnga ding-te hi. Lokhawh hun leh anlak hun sungin zong na tawlnga ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v22
 **EN:** And thou shalt observe the feast of weeks, of the firstfruits of wheat harvest, and the feast of ingathering at the year's end.
 
-**TDB77:** Nipi kalte’ pawi, mangbuh a tung masa leh kum bei ciangin an kaihkhop pawi na bawl ding uh hi.
+**TDB77:** Nipi kalte’ pawi, mangbuh a tung masa leh kum bei ciangin an kaihkhop pawi na bawl ding-te hi.
 
-**ZVS:** “Nipikalte' pawi, mangbuh a tung masa pawi, leh kum bei ciangin an kaihkhop pawi na bawl ding uh hi.
+**ZVS:** “Nipikalte' pawi, mangbuh a tung masa pawi, leh kum bei ciangin an kaihkhop pawi na bawl ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v23
 **EN:** Thrice in the year shall all your men children appear before the Lord
 
-**TDB77:** Pasal khempeuh Israel Pasian, Topa Pasian' mai-ah kum khatin thum vei kilaak ding uh hi.
+**TDB77:** Pasal khempeuh Israel Pasian, Topa Pasian' mai-ah kum khatin thum vei kilaak ding-te hi.
 
-**ZVS:** “Pasal khempeuh Israel Pasian, { Topa } Pasian' mai-ah kum khatin thumvei kilak ding uh hi.
+**ZVS:** “Pasal khempeuh Israel Pasian, { Topa } Pasian' mai-ah kum khatin thumvei kilak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** For I will cast out the nations before thee, and enlarge thy borders: neither shall any man desire thy land, when thou shalt go up to appear before the
 
-**TDB77:** Bang hang hiam cih leh note' mai-ah minamte ka hawlkhia ding a, na gamgite uh nomau’ adingin ka keek ding hi; Topa na Pasian uh mai-ah kum khatin thum vei a kilaak dingin na paitoh sungun na leitang uh mi khat peuhpeuh in hong deih gawh khak ding lunghihmawhna om lo ding hi.
+**TDB77:** Bang hang hiam cih leh note' mai-ah minamte ka hawlkhia ding a, na gamgite-te nomau’ adingin ka keek ding hi; Topa na Pasian-te mai-ah kum khatin thum vei a kilaak dingin na paitoh sungun na leitang-te mi khat peuhpeuh in hong deih gawh khak ding lunghihmawhna om lo ding hi.
 
-**ZVS:** Bang hang hiam cih leh note' mai-ah minam dangte ka hawlkhia ding a, na gamgite uh nomau-a' dingin ka keek ding hi. { Topa } na Pasian uh' mai-ah kum khatin thumvei a kilak dingin na paitoh sungun na leitang uh mi khat peuhpeuh in a hong deihgawh khak ding lunghihmawhna omlo ding hi.
+**ZVS:** Bang hang hiam cih leh note' mai-ah minam dangte ka hawlkhia ding a, na gamgite-te nomau-a' dingin ka keek ding hi. { Topa } na Pasian uh' mai-ah kum khatin thumvei a kilak dingin na paitoh sungun na leitang-te mi khat peuhpeuh in a hong deihgawh khak ding lunghihmawhna omlo ding hi.
 
 **Grammar:** purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix
 
 ### v25
 **EN:** Thou shalt not offer the blood of my sacrifice with leaven; neither shall the sacrifice of the feast of the passover be left unto the morning.
 
-**TDB77:** “Note in silngo tawh keimah biakpiakna si na piakhawm kei ding uh hi; paisan pawi biakpiakna zong zingsang dong na omsak kei ding uh hi.
+**TDB77:** “Note in silngo tawh keimah biakpiakna si na piakhawm kei ding-te hi; paisan pawi biakpiakna zong zingsang dong na omsak kei ding-te hi.
 
-**ZVS:** “Note in silngo tawh keimah biakpiakna si na pia khawm kei ding uh a, Paisan Pawi biakpiakna zong zingsang dong na omsak kei ding uh hi.
+**ZVS:** “Note in silngo tawh keimah biakpiakna si na pia khawm kei ding-te a, Paisan Pawi biakpiakna zong zingsang dong na omsak kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v26
 **EN:** The first of the firstfruits of thy land thou shalt bring unto the house of the
 
-**TDB77:** Note in na anpalte uh lakah a tung masa pen Topa na Pasian uh’ inn-ah na paipih ding uh hi. Note in keelno a pi’ nawizu tawh na huan kei ding uh hi,” a ci hi.
+**TDB77:** Note in na anpalte-te lakah a tung masa pen Topa na Pasian uh’ inn-ah na paipih ding-te hi. Note in keelno a pi’ nawizu tawh na huan kei ding-te hi,” a ci hi.
 
-**ZVS:** “Note in na anpalte uh lakah a tung masa pen { Topa } na Pasian uh' inn-ah na paipih ding uh hi. “Note in keelno a pi' nawizu tawh na huan kei ding uh hi,” a ci hi.
+**ZVS:** “Note in na anpalte-te lakah a tung masa pen { Topa } na Pasian uh' inn-ah na paipih ding-te hi. “Note in keelno a pi' nawizu tawh na huan kei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | plural: uh marker
 
@@ -281,27 +281,27 @@
 ### v30
 **EN:** And when Aaron and all the children of Israel saw Moses, behold, the skin of his face shone; and they were afraid to come nigh him.
 
-**TDB77:** Aaron leh Israel mite khempeuh in Moses a muh ciangin, en in, ama' maitang vun taang a, ama' mai-ah a pai ding uh amaute lau uh hi.
+**TDB77:** Aaron leh Israel mite khempeuh in Moses a muh ciangin, en in, ama' maitang vun taang a, ama' mai-ah a pai ding-te amaute lau-te hi.
 
-**ZVS:** Aaron leh Israel mite khempeuh in Moses a muh ciangin, a maitang vun na taang a, ama mai-ah a pai ding uh amaute lau uh hi.
+**ZVS:** Aaron leh Israel mite khempeuh in Moses a muh ciangin, a maitang vun na taang a, ama mai-ah a pai ding-te amaute lau-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v31
 **EN:** And Moses called unto them; and Aaron and all the rulers of the congregation returned unto him: and Moses talked with them.
 
-**TDB77:** Ahih hangin amaute' kiangah Moses pai hi; Aaron leh mihon makaite khempeuh ama' kiangah hong paikik uh a, Moses in amaute hopih hi.
+**TDB77:** Ahih hangin amaute' kiangah Moses pai hi; Aaron leh mihon makaite khempeuh ama' kiangah hong paikik-te a, Moses in amaute hopih hi.
 
-**ZVS:** Ahih hangin amaute kiangah Moses pai hi. Aaron leh mihon makaite khempeuh ama kiangah hong paikik uh a, Moses in amaute hopih hi.
+**ZVS:** Ahih hangin amaute kiangah Moses pai hi. Aaron leh mihon makaite khempeuh ama kiangah hong paikik-te a, Moses in amaute hopih hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And afterward all the children of Israel came nigh: and he gave them in commandment all that the
 
-**TDB77:** Tua khit ciangin Israel mite khempeuh a nai-ah hong pai uh a, Topa in Sinai Mual-ah ama' tunga a gen thupiakna khempeuh amaute' tungah pia hi.
+**TDB77:** Tua khit ciangin Israel mite khempeuh a nai-ah hong pai-te a, Topa in Sinai Mual-ah ama' tunga a gen thupiakna khempeuh amaute' tungah pia hi.
 
-**ZVS:** Tua khit ciangin Israel mi khempeuh a nai-ah hong pai uh a, { Topa } in Sinai Mual-ah ama tunga a gen khempeuh thupiakna-in amaute tungah a pia hi.
+**ZVS:** Tua khit ciangin Israel mi khempeuh a nai-ah hong pai-te a, { Topa } in Sinai Mual-ah ama tunga a gen khempeuh thupiakna-in amaute tungah a pia hi.
 
 **Grammar:** plural: uh marker
 
@@ -326,9 +326,9 @@
 ### v35
 **EN:** And the children of Israel saw the face of Moses, that the skin of Moses' face shone: and Moses put the veil upon his face again, until he went in to speak with him.
 
-**TDB77:** Israel mite in Moses’ maitang, vun a taang mu uh hi; amah tawh kiho dingin a pai matengin Moses in kiliahna puan tawh a maitang khuhkik hi.
+**TDB77:** Israel mite in Moses’ maitang, vun a taang mu-te hi; amah tawh kiho dingin a pai matengin Moses in kiliahna puan tawh a maitang khuhkik hi.
 
-**ZVS:** Israel mite in Moses' maitang vun a taang mu uh hi. Amah tawh a kiho dingin a pai matengin Moses in kiliahna puan tawh a maitang a khuh kik hi.
+**ZVS:** Israel mite in Moses' maitang vun a taang mu-te hi. Amah tawh a kiho dingin a pai matengin Moses in kiliahna puan tawh a maitang a khuh kik hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

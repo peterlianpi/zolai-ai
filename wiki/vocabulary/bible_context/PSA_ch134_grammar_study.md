@@ -16,9 +16,9 @@
 ### v2
 **EN:** Lift up your hands in the sanctuary, and bless the
 
-**TDB77:** Siangtho mun lamah na khutte uh laamto un la, Topa phat un!
+**TDB77:** Siangtho mun lamah na khutte-te laamto un la, Topa phat un!
 
-**ZVS:** Siangtho mun lamah na khutte uh laamto-in { Topa } phat un.
+**ZVS:** Siangtho mun lamah na khutte-te laamto-in { Topa } phat un.
 
 ### v3
 **EN:** The

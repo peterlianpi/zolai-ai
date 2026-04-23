@@ -478,9 +478,9 @@
 ### v63
 **EN:** As for the Jebusites the inhabitants of Jerusalem, the children of Judah could not drive them out: but the Jebusites dwell with the children of Judah at Jerusalem unto this day.
 
-**TDB77:** Ahih hangin Judah mite in Jerusalem-a teeng Jebus mite hawlkhia zo lo uh hi; tua ahih ciangin tu ni dongin Jebus mite in Judah mite tawh Jerusalem-ah teeng khawm uh hi.
+**TDB77:** Ahih hangin Judah mite in Jerusalem-a teeng Jebus mite hawlkhia zo lo-te hi; tua ahih ciangin tu ni dongin Jebus mite in Judah mite tawh Jerusalem-ah teeng khawm-te hi.
 
-**ZVS:** Ahih hangin Judah mite in Jerusalem-a a teng Jebus mite hawlkhia zolo uh hi. Tua ahih ciangin tuni dongin Jebus mite pen Judah mite tawh Jerusalem-ah a tengkhawm uh hi.
+**ZVS:** Ahih hangin Judah mite in Jerusalem-a a teng Jebus mite hawlkhia zolo-te hi. Tua ahih ciangin tuni dongin Jebus mite pen Judah mite tawh Jerusalem-ah a tengkhawm-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 

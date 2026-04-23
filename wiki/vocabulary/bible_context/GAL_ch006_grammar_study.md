@@ -37,14 +37,14 @@
 
 **TDB77:** Van puak ding a omte khat leh khat kihuhin na pua un la, Khazih’ thukham na zui un.
 
-**ZVS:** Thu haksa na tuah uh ciangin khatlekhat na kihuh un. Tua hi leh Khrih' thukham a zui na hi uh hi.
+**ZVS:** Thu haksa na tuah-te ciangin khatlekhat na kihuh un. Tua hi leh Khrih' thukham a zui na hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v3
 **EN:** For if a man think himself to be something, when he is nothing, he deceiveth himself.
 
-**TDB77:** Bang hang hiam na cih uh leh, mi khat in bangmah ahi lo napi-in na khat peuhpeuh ka hi ci-in a ki-up leh, tua mi in ama pumpi a kheem hi.
+**TDB77:** Bang hang hiam na cih-te leh, mi khat in bangmah ahi lo napi-in na khat peuhpeuh ka hi ci-in a ki-up leh, tua mi in ama pumpi a kheem hi.
 
 **ZVS:** Mi khatpeuh, bangmah hilo napi-in amah a kithupi ngaihsut mawkmawk leh amah leh amah a kikhem ahi hi.
 
@@ -53,7 +53,7 @@
 ### v4
 **EN:** But let every man prove his own work, and then shall he have rejoicing in himself alone, and not in another.
 
-**TDB77:** Ahih hangin mi khempeuh in ama bawlna thu kidong ciat uh hen. Tua bang ahih leh, midangte tawh kiteh loin ama tung bekah lung kiphat theihna a om ding hi.
+**TDB77:** Ahih hangin mi khempeuh in ama bawlna thu kidong ciat-te hen. Tua bang ahih leh, midangte tawh kiteh loin ama tung bekah lung kiphat theihna a om ding hi.
 
 **ZVS:** A kuamah peuh in ama gamtatna ciat entel hen la, kisialhna ding a om leh ama gamtatna siksanin kisial hen la, midangte tawh ki-ettehin kisial kei hen.
 
@@ -62,7 +62,7 @@
 ### v5
 **EN:** For every man shall bear his own burden.
 
-**TDB77:** Bang hang hiam na cih uh leh, mi khempeuh in ama van ciat a pua ding uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, mi khempeuh in ama van ciat a pua ding-te hi.
 
 **ZVS:** Bang hang hiam cih leh a kuamah peuh in i gamtatna bang ciatin a ngah ding ihi hi.
 
@@ -96,7 +96,7 @@
 ### v9
 **EN:** And let us not be weary in well doing: for in due season we shall reap, if we faint not.
 
-**TDB77:** Eite in lungkia loin gamtat hoih gamta ni. Bang hang hiam na cih uh leh, lungkia loin i om leh, a hun a tun’ ciangin a gah i at ding hi.
+**TDB77:** Eite in lungkia loin gamtat hoih gamta ni. Bang hang hiam na cih-te leh, lungkia loin i om leh, a hun a tun’ ciangin a gah i at ding hi.
 
 **ZVS:** Tua ahih manin na hoih sepding cimtak kei ni. Lungkia loin i sep nak leh a hun ciangin thaman i ngah ding hi.
 
@@ -116,23 +116,23 @@
 
 **TDB77:** Bang zah a lian laimalte tawh ka khutin ka gelh, na en un.
 
-**ZVS:** Tu-in keima khut mahmah tawh laimal golpipi-in lai ka hong gelh na mu uh hi.
+**ZVS:** Tu-in keima khut mahmah tawh laimal golpipi-in lai ka hong gelh na mu-te hi.
 
 ### v12
 **EN:** As many as desire to make a fair shew in the flesh, they constrain you to be circumcised; only lest they should suffer persecution for the cross of Christ.
 
-**TDB77:** Amaute pumpi uh tawh kipawl minthan’na a deih mite in, Khazih’ singlamteh hangah thuakna leh bawlsiatna tawh kipelh nuam bekin, note vunat thuak nadingin zawhthawh thu tawh hong zol uh hi.
+**TDB77:** Amaute pumpi-te tawh kipawl minthan’na a deih mite in, Khazih’ singlamteh hangah thuakna leh bawlsiatna tawh kipelh nuam bekin, note vunat thuak nadingin zawhthawh thu tawh hong zol-te hi.
 
-**ZVS:** Note in na vun uh na atna dingun a hong hahbawl mite in mihoih ahihna uh kilangsak nuamin, a kimuthei nate a kisialhpih mite ahi uh hi. Singlamteh tungah Khrih a sihna thu hangin amaute in bawlsiatna a ngahlohna dingun a tuaci gamtat ahi uh hi.
+**ZVS:** Note in na vun-te na atna dingun a hong hahbawl mite in mihoih ahihna-te kilangsak nuamin, a kimuthei nate a kisialhpih mite ahi-te hi. Singlamteh tungah Khrih a sihna thu hangin amaute in bawlsiatna a ngahlohna dingun a tuaci gamtat ahi-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** For neither they themselves who are circumcised keep the law; but desire to have you circumcised, that they may glory in your flesh.
 
-**TDB77:** Bang hang hiam na cih uh leh, vunatna a thuak mite in Thukham zui loin note’ pumpi uh hangin kisathei nuamin note vunat nading a deih uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, vunatna a thuak mite in Thukham zui loin note’ pumpi-te hangin kisathei nuamin note vunat nading a deih-te hi.
 
-**ZVS:** Vun-atna a zang mite nangawn in Thukham zuinuam tuanlo uh hi. Hih a pualam gamtatna thu note in na zuihna hangun kisialnuam uh ahih manin note in vun-atna na zat ding uh a hong deih uh ahi hi.
+**ZVS:** Vun-atna a zang mite nangawn in Thukham zuinuam tuanlo-te hi. Hih a pualam gamtatna thu note in na zuihna hangun kisialnuam-te ahih manin note in vun-atna na zat ding-te a hong deih-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -148,7 +148,7 @@
 ### v15
 **EN:** For in Christ Jesus neither circumcision availeth any thing, nor uncircumcision, but a new creature.
 
-**TDB77:** Bang hang hiam na cih uh leh, vunatna in phattuamna a om kei hi, vunat lohna in zong phattuamna a om kei hi: mi thak suahna bek in phattuamna a om hi.
+**TDB77:** Bang hang hiam na cih-te leh, vunatna in phattuamna a om kei hi, vunat lohna in zong phattuamna a om kei hi: mi thak suahna bek in phattuamna a om hi.
 
 **ZVS:** Vun ki-atna leh ki-atlohna a thupi om tuanlo a, mi thak nam pawl hihding bek a thupi ahi hi.
 
@@ -166,7 +166,7 @@
 ### v17
 **EN:** From henceforth let no man trouble me: for I bear in my body the marks of the Lord Jesus.
 
-**TDB77:** Tu-a kipanin kuamah in kei hong nawngkaisak kei hen. Bang hang hiam na cih uh leh, ka pumpi tungah Zeisu’ ciamtehnate ka pua hi.
+**TDB77:** Tu-a kipanin kuamah in kei hong nawngkaisak kei hen. Bang hang hiam na cih-te leh, ka pumpi tungah Zeisu’ ciamtehnate ka pua hi.
 
 **ZVS:** A tawpna-ah ka gennop thu in: Ka pum tunga om meimapawn pen Khrih sila ka hihna lim ahih manin kuamah in kei hong nawngkaisak nawn kei ta hen.
 
@@ -175,7 +175,7 @@
 ### v18
 **EN:** Brethren, the grace of our Lord Jesus Christ be with your spirit. Amen.
 
-**TDB77:** Ute naute aw, i Topa Zeisu Khazih’ hehpihna thupha in note lungsim uh tawh omkhawm ta hen. Amen.
+**TDB77:** Ute naute aw, i Topa Zeisu Khazih’ hehpihna thupha in note lungsim-te tawh omkhawm ta hen. Amen.
 
 **ZVS:** Sanggamte aw, note khempeuh tungah i Topa Jesuh Khrih hehpihna thupha hong tung ta hen. Amen.
 

@@ -35,27 +35,27 @@
 ### v2
 **EN:** And all the king's servants, that were in the king's gate, bowed, and reverenced Haman: for the king had so commanded concerning him. But Mordecai bowed not, nor did him reverence.
 
-**TDB77:** Tua ahih ciangin kumpi huang sunga om kumpipa’ nasem khempeuh in Haman zahtak bawlin ama mai-ah kun uh hi; bang hang hiam cih leh tua banga a hih ding uh kumpipa in thupia hi. Ahih hangin Mordekai in amah zahtakna limin a mai-ah kun lo hi.
+**TDB77:** Tua ahih ciangin kumpi huang sunga om kumpipa’ nasem khempeuh in Haman zahtak bawlin ama mai-ah kun-te hi; bang hang hiam cih leh tua banga a hih ding-te kumpipa in thupia hi. Ahih hangin Mordekai in amah zahtakna limin a mai-ah kun lo hi.
 
-**ZVS:** Tua ahih ciangin kumpi huang sunga om kumpipa' nasem khempeuh in Haman zahtak bawlin ama mai-ah kun uh hi; bang hang hiam cih leh tua banga a hih ding uh kumpipa in thu pia hi. Ahih hangin Mordekai pen amah zahtakna limin a mai-ah kunlo hi.
+**ZVS:** Tua ahih ciangin kumpi huang sunga om kumpipa' nasem khempeuh in Haman zahtak bawlin ama mai-ah kun-te hi; bang hang hiam cih leh tua banga a hih ding-te kumpipa in thu pia hi. Ahih hangin Mordekai pen amah zahtakna limin a mai-ah kunlo hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
 ### v3
 **EN:** Then the king's servants, which were in the king's gate, said unto Mordecai, Why transgressest thou the king's commandment?
 
-**TDB77:** Tua ciangin kumpipa huang sunga om kumpipa’ nasemte in Mordekai kiangah, “Bang hangin kumpipa’ thupiak mang lo na hi hiam?” a ci uh hi.
+**TDB77:** Tua ciangin kumpipa huang sunga om kumpipa’ nasemte in Mordekai kiangah, “Bang hangin kumpipa’ thupiak mang lo na hi hiam?” a ci-te hi.
 
-**ZVS:** Tua ciangin kumpipa' huang sunga om kumpipa' nasemte in Mordekai kiangah, “Bang hangin kumpipa' thupiak manglo na hi hiam?” a ci uh hi.
+**ZVS:** Tua ciangin kumpipa' huang sunga om kumpipa' nasemte in Mordekai kiangah, “Bang hangin kumpipa' thupiak manglo na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** Now it came to pass, when they spake daily unto him, and he hearkened not unto them, that they told Haman, to see whether Mordecai's matters would stand: for he had told them that he was a Jew.
 
-**TDB77:** Ni simin amaute in Mordekai kiangah gengen uh a, ahih hangin amah in mang nuam lo hi; Judah mi ahihna thu amaute kiangah gen khin ahih manin tua banga ama nialna a kimang ding mah ahi hiam cih a theih nadingun Haman’ kiangah a thu ko uh hi.
+**TDB77:** Ni simin amaute in Mordekai kiangah gengen-te a, ahih hangin amah in mang nuam lo hi; Judah mi ahihna thu amaute kiangah gen khin ahih manin tua banga ama nialna a kimang ding mah ahi hiam cih a theih nadingun Haman’ kiangah a thu ko-te hi.
 
-**ZVS:** Nisimin amaute in Mordekai kiangah gengen uh a, ahih hangin amah in mang nuamlo hi. Jew mi ahihna thu amaute kiangah gen khin ahih manin tua banga ama nialna a kimang ding mah ahi hiam cih a theihna dingun Haman kiangah a thu ko uh hi.
+**ZVS:** Nisimin amaute in Mordekai kiangah gengen-te a, ahih hangin amah in mang nuamlo hi. Jew mi ahihna thu amaute kiangah gen khin ahih manin tua banga ama nialna a kimang ding mah ahi hiam cih a theihna dingun Haman kiangah a thu ko-te hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -89,9 +89,9 @@
 ### v8
 **EN:** And Haman said unto king Ahasuerus, There is a certain people scattered abroad and dispersed among the people in all the provinces of thy kingdom; and their laws are diverse from all people; neither keep they the king's laws: therefore it is not for the king's profit to suffer them.
 
-**TDB77:** Tua ciangin Haman in Kumpipa Ahasu-eras’ kiangah, “Na ukna gam tuamtuam sunga mite lakah a om kawikawi, amau a tuam om mi pawl khat om hi. Amau’ ngeinate pen midangte’ aa tawh kibang lo hi; amaute in nangma thukhamte zui lo uh hi. Tua ahih manin hih mite na hici khahkhong ding kilawm lo hi.
+**TDB77:** Tua ciangin Haman in Kumpipa Ahasu-eras’ kiangah, “Na ukna gam tuamtuam sunga mite lakah a om kawikawi, amau a tuam om mi pawl khat om hi. Amau’ ngeinate pen midangte’ aa tawh kibang lo hi; amaute in nangma thukhamte zui lo-te hi. Tua ahih manin hih mite na hici khahkhong ding kilawm lo hi.
 
-**ZVS:** Tua ciangin Haman in Kumpipa Ahasueras' kiangah, “Na ukna gam tuamtuam sunga om mite lakah a om kawikawi, amau a tuam om mi pawlkhat om hi. Amau' ngeinate pen midangte-a' tawh kibanglo a, amaute in nangma thukhamte zuilo uh hi. Tua ahih manin hih mite na hici khahkhong ding kilawmlo hi.
+**ZVS:** Tua ciangin Haman in Kumpipa Ahasueras' kiangah, “Na ukna gam tuamtuam sunga om mite lakah a om kawikawi, amau a tuam om mi pawlkhat om hi. Amau' ngeinate pen midangte-a' tawh kibanglo a, amaute in nangma thukhamte zuilo-te hi. Tua ahih manin hih mite na hici khahkhong ding kilawmlo hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -134,9 +134,9 @@
 ### v13
 **EN:** And the letters were sent by posts into all the king's provinces, to destroy, to kill, and to cause to perish, all Jews, both young and old, little children and women, in one day, even upon the thirteenth day of the twelfth month, which is the month Adar, and to take the spoil of them for a prey.
 
-**TDB77:** Tua bangin kumpipa’ ukna gam khempeuh ah laitaite lai kipiasak a, Adar kha ahi a kha sawm-le-nihna a ni sawm-le-thum ni, ni khat sungin Judah mi a moi a ham, numei naupang, a vekpi-in susia-in, thatin, a beisak mang nading uh, leh a neihsate uh a laksak nadingun thu kipia hi.
+**TDB77:** Tua bangin kumpipa’ ukna gam khempeuh ah laitaite lai kipiasak a, Adar kha ahi a kha sawm-le-nihna a ni sawm-le-thum ni, ni khat sungin Judah mi a moi a ham, numei naupang, a vekpi-in susia-in, thatin, a beisak mang nading uh, leh a neihsate-te a laksak nadingun thu kipia hi.
 
-**ZVS:** Tua bangin kumpipa' ukna gam khempeuhah laitaite kipiasak a, Adar kha ahi a kha sawmlenihna a ni sawmlethum ni, ni khat sungin Jew mi a moi a ham, numei naupang, a vekpi-in susia-in, thatin, a beisakmangna ding uh, leh a neihsate uh a laksakna dingun thu kipia hi.
+**ZVS:** Tua bangin kumpipa' ukna gam khempeuhah laitaite kipiasak a, Adar kha ahi a kha sawmlenihna a ni sawmlethum ni, ni khat sungin Jew mi a moi a ham, numei naupang, a vekpi-in susia-in, thatin, a beisakmangna ding uh, leh a neihsate-te a laksakna dingun thu kipia hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -152,9 +152,9 @@
 ### v15
 **EN:** The posts went out, being hastened by the king's commandment, and the decree was given in Shushan the palace. And the king and Haman sat down to drink; but the city Shushan was perplexed.
 
-**TDB77:** Kumpipa’ thupiakna tawh laitaite kinawh sawl a, hih thupiakna pen kumpi khua Susa khuapi panin a kihawmkhia ahi hi. Kumpipa leh Haman zu ne-in om uh a, ahi zongin Susa khuapi sung buai mahmah hi.
+**TDB77:** Kumpipa’ thupiakna tawh laitaite kinawh sawl a, hih thupiakna pen kumpi khua Susa khuapi panin a kihawmkhia ahi hi. Kumpipa leh Haman zu ne-in om-te a, ahi zongin Susa khuapi sung buai mahmah hi.
 
-**ZVS:** Kumpipa' thupiakna tawh laitaite kinawh sawl a, hih thupiakna pen kumpi khua Susa khuapi panin a kihawmkhia ahi hi. Kumpipa leh Haman zu ne-in om hithiat uh a, ahi zongin Susa khuapi sung buai mahmah hi.
+**ZVS:** Kumpipa' thupiakna tawh laitaite kinawh sawl a, hih thupiakna pen kumpi khua Susa khuapi panin a kihawmkhia ahi hi. Kumpipa leh Haman zu ne-in om hithiat-te a, ahi zongin Susa khuapi sung buai mahmah hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

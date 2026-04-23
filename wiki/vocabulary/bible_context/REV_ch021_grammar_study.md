@@ -25,7 +25,7 @@
 ### v1
 **EN:** And I saw a new heaven and a new earth: for the first heaven and the first earth were passed away; and there was no more sea.
 
-**TDB77:** Tua nung ciangin van thak leh lei thak ka mu hi. Bang hang hiam na cih uh leh, a masa van leh lei a mang uh hi. Tuipi zong om nawn lo hi.
+**TDB77:** Tua nung ciangin van thak leh lei thak ka mu hi. Bang hang hiam na cih-te leh, a masa van leh lei a mang-te hi. Tuipi zong om nawn lo hi.
 
 **ZVS:** Tua ciangin van thak khat leh lei thak khat ka mu hi. Van masa leh lei masa maimang khin a, tuipi zong om nawnlo hi.
 
@@ -45,14 +45,14 @@
 
 **TDB77:** Kumpi tokhom sung pan zong, “En in, Pasian buk mite lakah om a, amah in amaute tawh a omkhawm ding hi. Amaute in zong Topa’ mipawlte suakin, Pasian mahmah in amaute tawh omkhawmin amaute Pasian ahi ding hi.
 
-**ZVS:** Tokhom panin nakpi takin awging khat ka za a, “Tu-in Pasian omna inn pen mite tawh omkhawm ta hi. Pasian in amaute ompih ding a, amaute pen ama mite hi ding uh hi. Pasian mahmah amaute tawh omkhawm ding a, amah pen amaute' Pasian hi ding hi.
+**ZVS:** Tokhom panin nakpi takin awging khat ka za a, “Tu-in Pasian omna inn pen mite tawh omkhawm ta hi. Pasian in amaute ompih ding a, amaute pen ama mite hi ding-te hi. Pasian mahmah amaute tawh omkhawm ding a, amah pen amaute' Pasian hi ding hi.
 
 **Grammar:** intensifier: very/greatly | future: will
 
 ### v4
 **EN:** And God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away.
 
-**TDB77:** Amaute mittang uh pan khitui khempeuh a nul siang ding hi. Sihna zong a nung ciangin a om nawn kei ding hi. Tua tham loin, thuumna, kahna, natna zong a om kei ding hi. A masa nate mangthang khin zo uh hi,” ci-in nakpi-in aw tawh kiko ka za hi.
+**TDB77:** Amaute mittang-te pan khitui khempeuh a nul siang ding hi. Sihna zong a nung ciangin a om nawn kei ding hi. Tua tham loin, thuumna, kahna, natna zong a om kei ding hi. A masa nate mangthang khin zo-te hi,” ci-in nakpi-in aw tawh kiko ka za hi.
 
 **ZVS:** Amaute' mit panin khitui khempeuh nulsak ding hi. Thu luisate maimang khinta ahih manin sihna, dahna, leh na sa-a kahna cihte om nawnlo ding hi,” a ci hi.
 
@@ -81,14 +81,14 @@
 
 **TDB77:** A zo mi in hih nate luahin, kei in ama Pasian ka hi ding a, amah in ka ta ahi ding hi.
 
-**ZVS:** A gualzo mi khempeuh in kei tung panin a ngahding thu in: Kei pen amaute' Pasian ka hi ding a, amaute keima ta ahi ding uh hi.
+**ZVS:** A gualzo mi khempeuh in kei tung panin a ngahding thu in: Kei pen amaute' Pasian ka hi ding a, amaute keima ta ahi ding-te hi.
 
 **Grammar:** future: will
 
 ### v8
 **EN:** But the fearful, and unbelieving, and the abominable, and murderers, and whoremongers, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burneth with fire and brimstone: which is the second death.
 
-**TDB77:** Lau-in a um lo mi, a kihhuai mi, mi that thei mi, nu leh pa mawhna a bawl mi, mi bum thei mi, milim bia mi, zuauthu gen mi khempeuh ahih uh leh, nihna sihna ahi kat leh mei lipi sungah a kituakin a thuak ding uh hi,” ci-in keima kiangah hong gen hi.
+**TDB77:** Lau-in a um lo mi, a kihhuai mi, mi that thei mi, nu leh pa mawhna a bawl mi, mi bum thei mi, milim bia mi, zuauthu gen mi khempeuh ahih-te leh, nihna sihna ahi kat leh mei lipi sungah a kituakin a thuak ding-te hi,” ci-in keima kiangah hong gen hi.
 
 **ZVS:** Ahi zongin a meidawite, a lehtatte, a lampialte, mi thatte, a paktatte, aisante, milim biate, leh zuaugente omna ding mun pen sihna nihna ahi kat a kikhulna meiphualpi kuang sung ahi hi,” a ci hi.
 
@@ -131,7 +131,7 @@
 ### v13
 **EN:** On the east three gates; on the north three gates; on the south three gates; and on the west three gates.
 
-**TDB77:** Khuapi ni suahna lamah kong vang thum, sak lamah kong vang thum, khang lamah kong vang thum, ni tumna lamah kong vang thum a om uh hi.
+**TDB77:** Khuapi ni suahna lamah kong vang thum, sak lamah kong vang thum, khang lamah kong vang thum, ni tumna lamah kong vang thum a om-te hi.
 
 **ZVS:** Nisuahna lamah kongpi thum, leilu lamah thum, leitaw lamah thum, nitumna lamah thum mah om hi.
 
@@ -194,7 +194,7 @@
 ### v20
 **EN:** The fifth, sardonyx; the sixth, sardius; the seventh, chrysolite; the eighth, beryl; the ninth, a topaz; the tenth, a chrysoprasus; the eleventh, a jacinth; the twelfth, an amethyst.
 
-**TDB77:** ngana in sardonik suangmanpha, a gukna in sardius suangmanpha, a sagihna in khrisolait suangmanpha, a giatna in beril suangmanpha, a kuana in topaz suangmanpha, a sawmna in khirsoprase suangmanpha, a sawm-le-khatna in jakinth suangmanpha, a sawm-le-nihna in amethist suangmanpha ahi uh hi.
+**TDB77:** ngana in sardonik suangmanpha, a gukna in sardius suangmanpha, a sagihna in khrisolait suangmanpha, a giatna in beril suangmanpha, a kuana in topaz suangmanpha, a sawmna in khirsoprase suangmanpha, a sawm-le-khatna in jakinth suangmanpha, a sawm-le-nihna in amethist suangmanpha ahi-te hi.
 
 **ZVS:** a ngana-ah onik suangmanpha, a gukna-ah karnelian suangmanpha, a sagihna-ah khrisolait suangmanpha, a giatna-ah beryl suangmanpha, a kuana-ah topaz suangmanpha, a sawmna-ah khrisoprase suangmanpha, a sawmlekhatna-ah jakinth suangmanpha, a sawmlenihna-ah amethyst suangmanpha tawh a kizem hi.
 
@@ -203,7 +203,7 @@
 ### v21
 **EN:** And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.
 
-**TDB77:** Khuapi kong khak sawm leh nih in, suangmanpha peek sawm leh nih ahi hi. Kongkhak khempeuh in suangmanpha khat tek ahi uh hi. Khuapi sung lampi in a siangtho limlang tawh kibang kham taktak ahi hi.
+**TDB77:** Khuapi kong khak sawm leh nih in, suangmanpha peek sawm leh nih ahi hi. Kongkhak khempeuh in suangmanpha khat tek ahi-te hi. Khuapi sung lampi in a siangtho limlang tawh kibang kham taktak ahi hi.
 
 **ZVS:** A kongpi sawmlenihte kep sawmlenih tawh a kibawl hi a, kongpi khat ciangin kep sabit khat ahi hi. A khuapi sung lampite kham citak vive hi a, limlang bangin a sung kimu paisuak thei hi.
 
@@ -212,7 +212,7 @@
 ### v22
 **EN:** And I saw no temple therein: for the Lord God Almighty and the Lamb are the temple of it.
 
-**TDB77:** Tua khuapi sungah biakinnpi ka mu kei hi. Bang hang hiam na cih uh leh, Vanglianpen Topa Pasian leh Tuuno in tua khuapi biakinnpi ahi uh hi.
+**TDB77:** Tua khuapi sungah biakinnpi ka mu kei hi. Bang hang hiam na cih-te leh, Vanglianpen Topa Pasian leh Tuuno in tua khuapi biakinnpi ahi-te hi.
 
 **ZVS:** A Vanglian Topa Pasian leh Tuuno pen khuapi biakinn hita ahih manin tua khuasungah biakinn dang ka mu kei hi.
 
@@ -221,7 +221,7 @@
 ### v23
 **EN:** And the city had no need of the sun, neither of the moon, to shine in it: for the glory of God did lighten it, and the Lamb is the light thereof.
 
-**TDB77:** Ni tan’na, kha tan’na zong tua khuapi-ah a kisam kei hi. Bang hang hiam na cih uh leh, Pasian’ vang in tua khuapi a tangsak a, Tuuno in zong tua khuapi’ meivak ahi hi.
+**TDB77:** Ni tan’na, kha tan’na zong tua khuapi-ah a kisam kei hi. Bang hang hiam na cih-te leh, Pasian’ vang in tua khuapi a tangsak a, Tuuno in zong tua khuapi’ meivak ahi hi.
 
 **ZVS:** Pasian' minthan'na vang pen khuavak hi a, Tuuno zong meivak hi khin ahih manin tua khuapi in nitaang leh khataang cihte kisamlo hi.
 
@@ -230,9 +230,9 @@
 ### v24
 **EN:** And the nations of them which are saved shall walk in the light of it: and the kings of the earth do bring their glory and honour into it.
 
-**TDB77:** Mipawl pawl khempeuh in tua khuavak tawh lam pai-in leitung kumpite in tua khuapi sungah amaute vangliatna pua-in a tung uh hi.
+**TDB77:** Mipawl pawl khempeuh in tua khuavak tawh lam pai-in leitung kumpite in tua khuapi sungah amaute vangliatna pua-in a tung-te hi.
 
-**ZVS:** Tua a taang sungah leitung mite lam pai ding uh a, leitung kumpite in a neihsa khempeuh uh hong paipih ding uh hi.
+**ZVS:** Tua a taang sungah leitung mite lam pai ding-te a, leitung kumpite in a neihsa khempeuh-te hong paipih ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -248,7 +248,7 @@
 ### v26
 **EN:** And they shall bring the glory and honour of the nations into it.
 
-**TDB77:** Mipawl pawl khempeuh in a vangliatna leh phatna tua khuapi sungah a paipih ding uh hi.
+**TDB77:** Mipawl pawl khempeuh in a vangliatna leh phatna tua khuapi sungah a paipih ding-te hi.
 
 **ZVS:** Leitung mite' hauhna leh liatnateng tua khuapisung hong kitun'pih ding hi.
 
@@ -257,9 +257,9 @@
 ### v27
 **EN:** And there shall in no wise enter into it any thing that defileth, neither whatsoever worketh abomination, or maketh a lie: but they which are written in the Lamb's book of life.
 
-**TDB77:** A kihhuainate-a kipan muhdahhuai, thuman lo nate a bawl mi khat beek tum thei ngei lo ding hi. Tuuno’ nuntakna laibu sungah a kigelh mite bek in tum theihna thu a ngah ding uh hi.
+**TDB77:** A kihhuainate-a kipan muhdahhuai, thuman lo nate a bawl mi khat beek tum thei ngei lo ding hi. Tuuno’ nuntakna laibu sungah a kigelh mite bek in tum theihna thu a ngah ding-te hi.
 
-**ZVS:** Ahi zongin a sianglo, a hoihloin a gamta mi, zuau a gen mite kuamah lut theilo ding uh a, a nungta mite a kigelhna Tuuno laibu sungah a min a omte bek tua khuapi sungah lutthei ding uh hi.
+**ZVS:** Ahi zongin a sianglo, a hoihloin a gamta mi, zuau a gen mite kuamah lut theilo ding-te a, a nungta mite a kigelhna Tuuno laibu sungah a min a omte bek tua khuapi sungah lutthei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

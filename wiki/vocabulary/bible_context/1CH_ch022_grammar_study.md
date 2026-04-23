@@ -55,9 +55,9 @@
 ### v4
 **EN:** Also cedar trees in abundance: for the Zidonians and they of Tyre brought much cedar wood to David.
 
-**TDB77:** taamtaak singte sim zawh hi lo hi; bang hang hiam cih leh Sibon khuamite leh Tai-ar khuamite in David kiangah taamtaak tampi tak puak uh hi.
+**TDB77:** taamtaak singte sim zawh hi lo hi; bang hang hiam cih leh Sibon khuamite leh Tai-ar khuamite in David kiangah taamtaak tampi tak puak-te hi.
 
-**ZVS:** taamtak singte simzawh hilo hi; bang hang hiam cih leh Sidon khuamite leh Taia khuamite in David kiangah taamtak tampi tak puak uh hi.
+**ZVS:** taamtak singte simzawh hilo hi; bang hang hiam cih leh Sidon khuamite leh Taia khuamite in David kiangah taamtak tampi tak puak-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -177,18 +177,18 @@
 ### v18
 **EN:** Is not the
 
-**TDB77:** “Topa na Pasian uh note tawh om hilo ahi hiam? Amah in na kiim khempeuh uhah kilemna hong pia hilo ahi hiam? Bang hang hiam cih leh amah in gam sungah teeng mite keima khut sungah hong pia khin hi; Topa leh ama mite mai-ah gam sung khempeuh kinuai-siah hi.
+**TDB77:** “Topa na Pasian-te note tawh om hilo ahi hiam? Amah in na kiim khempeuh uhah kilemna hong pia hilo ahi hiam? Bang hang hiam cih leh amah in gam sungah teeng mite keima khut sungah hong pia khin hi; Topa leh ama mite mai-ah gam sung khempeuh kinuai-siah hi.
 
-**ZVS:** “{ Topa } na Pasian uh note tawh hong om hilo ahi hiam? Amah in na kiim khempeuh uhah lungnopna hong pia hilo ahi hiam? Bang hang hiam cih leh amah in gamsunga teng mite keima khutsungah hong pia khin a, { Topa } leh ama mite' mai-ah gamsung khempeuh kinuaisiah hi.
+**ZVS:** “{ Topa } na Pasian-te note tawh hong om hilo ahi hiam? Amah in na kiim khempeuh uhah lungnopna hong pia hilo ahi hiam? Bang hang hiam cih leh amah in gamsunga teng mite keima khutsungah hong pia khin a, { Topa } leh ama mite' mai-ah gamsung khempeuh kinuaisiah hi.
 
 **Grammar:** completed: already done | reciprocal: ki- prefix
 
 ### v19
 **EN:** Now set your heart and your soul to seek the
 
-**TDB77:** Tu-in Topa na Pasian uh a zong dingin na ngaihsutna uh leh na lungsim uh kipsak un. Topa’ min dingin a kilam inn sungah Topa’ thuciamna singkuang leh Pasian’ um-le-beel siangthote a kipaipih theih nadingin kithawi un la, Topa Pasian’ biakinn lam un,” a ci hi.
+**TDB77:** Tu-in Topa na Pasian-te a zong dingin na ngaihsutna-te leh na lungsim-te kipsak un. Topa’ min dingin a kilam inn sungah Topa’ thuciamna singkuang leh Pasian’ um-le-beel siangthote a kipaipih theih nadingin kithawi un la, Topa Pasian’ biakinn lam un,” a ci hi.
 
-**ZVS:** Tu-in { Topa } na Pasian uh a zong dingin na ngaihsutna uh leh na lungsim uh kipsak un. { Topa' } min dingin a kilam biakinn sungah { Topa' } Thuciamna Singkuang leh Pasian' umlebeel siangthote a kipaipih theihna dingin kithawi un la { Topa } Pasian' biakinn lam un,” a ci hi.
+**ZVS:** Tu-in { Topa } na Pasian-te a zong dingin na ngaihsutna-te leh na lungsim-te kipsak un. { Topa' } min dingin a kilam biakinn sungah { Topa' } Thuciamna Singkuang leh Pasian' umlebeel siangthote a kipaipih theihna dingin kithawi un la { Topa } Pasian' biakinn lam un,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

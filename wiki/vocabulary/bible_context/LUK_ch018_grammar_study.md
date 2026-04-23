@@ -27,7 +27,7 @@
 
 **TDB77:** Amaute in lungkia loin thu a nget ngitnget nadingun, Zeisu in thugentehna tawh thu a hilh-inah,
 
-**ZVS:** Tua ciangin amaute in thu ngen tawntungin a lungkiat ngeilohna ding uh a hilh nopna-in Jesuh in a nungzuite kiangah thugentehna khat gen a,
+**ZVS:** Tua ciangin amaute in thu ngen tawntungin a lungkiat ngeilohna ding-te a hilh nopna-in Jesuh in a nungzuite kiangah thugentehna khat gen a,
 
 ### v2
 **EN:** Saying,
@@ -57,16 +57,16 @@
 ### v15
 **EN:** And they brought unto him also infants, that he would touch them: but when his disciples saw it, they rebuked them.
 
-**TDB77:** Tua lai takin amaute in naupangte a lawn’ nading deihin Zeisu kiangah hong paipih uh hi. Ahih hangin a nungzuite in a muh uh ciangin a kham uh hi.
+**TDB77:** Tua lai takin amaute in naupangte a lawn’ nading deihin Zeisu kiangah hong paipih-te hi. Ahih hangin a nungzuite in a muh-te ciangin a kham-te hi.
 
-**ZVS:** Jesuh in thupha a piaksak ding a deihna-un mi pawlkhat in a naupangnote nangawn uh Jesuh kiangah hong paipih uh hi. A nungzuite in hih thu a theih uh ciangin amaute na taii uh hi.
+**ZVS:** Jesuh in thupha a piaksak ding a deihna-un mi pawlkhat in a naupangnote nangawn-te Jesuh kiangah hong paipih-te hi. A nungzuite in hih thu a theih-te ciangin amaute na taii-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** But Jesus called them unto him, and said,
 
-**TDB77:** Zeisu in naupangte sam a, “Naupangte ka kiangah hong pai ta hen; na kham kei un. Bang hang hiam na cih uh leh, Pasian’ Gam in tua bangte’ gam ahi hi.
+**TDB77:** Zeisu in naupangte sam a, “Naupangte ka kiangah hong pai ta hen; na kham kei un. Bang hang hiam na cih-te leh, Pasian’ Gam in tua bangte’ gam ahi hi.
 
 **ZVS:** Ahi zongin Jesuh in naupangnote sam a, “Naupangte hong pai ding khaktan kei un; ka kiangah hong paisak un. Bang hang hiam cih leh naupang a bang mite pen Pasian' Ukna sungah om thei bek hi.
 
@@ -129,9 +129,9 @@
 ### v26
 **EN:** And they that heard it said, Who then can be saved?
 
-**TDB77:** Tua thu a zate in, “Tua bang ahih leh, gupna kua in ngah zo ding ahi hiam?” a ci uh hi.
+**TDB77:** Tua thu a zate in, “Tua bang ahih leh, gupna kua in ngah zo ding ahi hiam?” a ci-te hi.
 
-**ZVS:** Tua thu a za mite in, “Tua bang ahih leh kua in hotkhiatna ngahzo ding ahi hiam?” ci-in a dong uh hi.
+**ZVS:** Tua thu a za mite in, “Tua bang ahih leh kua in hotkhiatna ngahzo ding ahi hiam?” ci-in a dong-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -147,9 +147,9 @@
 ### v28
 **EN:** Then Peter said, Lo, we have left all, and followed thee.
 
-**TDB77:** Tua lai takin Piter in, “Kote in ka neih khempeuh uh nusia-in nangmah kong zui uh hi,” a cih ciangin,
+**TDB77:** Tua lai takin Piter in, “Kote in ka neih khempeuh-te nusia-in nangmah kong zui-te hi,” a cih ciangin,
 
-**ZVS:** Tua ciangin Peter in, “Ko zong ka inn ka lo uh nusia-in nang ka hong zui uh hi,” a cih ciangin
+**ZVS:** Tua ciangin Peter in, “Ko zong ka inn ka lo-te nusia-in nang ka hong zui-te hi,” a cih ciangin
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -172,9 +172,9 @@
 ### v34
 **EN:** And they understood none of these things: and this saying was hid from them, neither knew they the things which were spoken.
 
-**TDB77:** Amaute in hih thu khat beek a thei kei uh hi. Hih thu heem gen ahih ciangin a cihnopna a thei kei uh hi.
+**TDB77:** Amaute in hih thu khat beek a thei kei-te hi. Hih thu heem gen ahih ciangin a cihnopna a thei kei-te hi.
 
-**ZVS:** Ahi zongin nungzuite in hih ama thugente tel zolo uh hi. Amaute' tel zawhloh dingin kihem gen ahih manin, Jesuh' gente bang a cihnopna ahi hiam, ci-in a thei kei uh hi.
+**ZVS:** Ahi zongin nungzuite in hih ama thugente tel zolo-te hi. Amaute' tel zawhloh dingin kihem gen ahih manin, Jesuh' gente bang a cihnopna ahi hiam, ci-in a thei kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -197,9 +197,9 @@
 ### v37
 **EN:** And they told him, that Jesus of Nazareth passeth by.
 
-**TDB77:** Amaute in, “Nazareth mi Zeisu hong pai hi,” a ci uh hi.
+**TDB77:** Amaute in, “Nazareth mi Zeisu hong pai hi,” a ci-te hi.
 
-**ZVS:** Mite in, “Nazareth khuami Jesuh hong pai hi,” a na ci uh hi.
+**ZVS:** Mite in, “Nazareth khuami Jesuh hong pai hi,” a na ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -215,9 +215,9 @@
 ### v39
 **EN:** And they which went before rebuked him, that he should hold his peace: but he cried so much the more, Thou Son of David, have mercy on me.
 
-**TDB77:** A mai-a a pai mite in tua pa a tawp nadingin a taai uh hangin, “David’ Tapa aw, kei hong hehpih in,” ci-in a kiko sawnsawn hi.
+**TDB77:** A mai-a a pai mite in tua pa a tawp nadingin a taai-te hangin, “David’ Tapa aw, kei hong hehpih in,” ci-in a kiko sawnsawn hi.
 
-**ZVS:** A mai-a om mite in amah taii uh a, pau kei in, ci-in a kham uh hi. Ahi zongin amah kinakko semsem a, “David' suanpa aw, kei hong hehpih in,” ci veve hi.
+**ZVS:** A mai-a om mite in amah taii-te a, pau kei in, ci-in a kham-te hi. Ahi zongin amah kinakko semsem a, “David' suanpa aw, kei hong hehpih in,” ci veve hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -251,9 +251,9 @@
 ### v43
 **EN:** And immediately he received his sight, and followed him, glorifying God: and all the people, when they saw it, gave praise unto God.
 
-**TDB77:** Amah in thakhatin khua mu thei a, Pasian’ min phatin Zeisu nung a zui hi. Mi khempeuhte in a muh uh ciangin Pasian a phat uh hi.
+**TDB77:** Amah in thakhatin khua mu thei a, Pasian’ min phatin Zeisu nung a zui hi. Mi khempeuhte in a muh-te ciangin Pasian a phat-te hi.
 
-**ZVS:** Amah in zong thakhatin khua muthei pah a, Jesuh zui-in Pasian tungah a lungdamna a ko hi. Mihonpite in zong a muh ciangin a vekpi-un Pasian a phat uh hi.
+**ZVS:** Amah in zong thakhatin khua muthei pah a, Jesuh zui-in Pasian tungah a lungdamna a ko hi. Mihonpite in zong a muh ciangin a vekpi-un Pasian a phat-te hi.
 
 **Grammar:** plural: uh marker
 

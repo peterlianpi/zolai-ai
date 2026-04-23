@@ -237,9 +237,9 @@
 ### v25
 **EN:** It stood upon twelve oxen, three looking toward the north, and three looking toward the west, and three looking toward the south, and three looking toward the east: and the sea was set above upon them, and all their hinder parts were inward.
 
-**TDB77:** Bawngtal sawm-le-nihte tungah tua tuikuangpi kinga a, thum leilu lam nga a, thum nitumna lam nga-in, thum leitaw lam nga a, thum nisuahna lam nga hi; tuate tungah a tuikuangpi kikoih a, a nung lam uh a sung lamah om hi.
+**TDB77:** Bawngtal sawm-le-nihte tungah tua tuikuangpi kinga a, thum leilu lam nga a, thum nitumna lam nga-in, thum leitaw lam nga a, thum nisuahna lam nga hi; tuate tungah a tuikuangpi kikoih a, a nung lam-te a sung lamah om hi.
 
-**ZVS:** Bawngtal sawmlenihte tungah tua tuikuangpi kinga a, thum leilu lam nga a, thum nitumna lam nga-in, thum leitaw lam nga a, thum nisuahna lam a nga hi. Tuate tungah a tuikuangpi kikoih a, a nunglam uh a sunglamah om hi.
+**ZVS:** Bawngtal sawmlenihte tungah tua tuikuangpi kinga a, thum leilu lam nga a, thum nitumna lam nga-in, thum leitaw lam nga a, thum nisuahna lam a nga hi. Tuate tungah a tuikuangpi kikoih a, a nunglam-te a sunglamah om hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

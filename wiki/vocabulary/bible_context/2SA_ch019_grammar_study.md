@@ -38,18 +38,18 @@
 ### v2
 **EN:** And the victory that day was turned into mourning unto all the people: for the people heard say that day how the king was grieved for his son.
 
-**TDB77:** Tua ahih ciangin tua ni-a gualzawhna mi khempeuh adingin thuumna suak hi; bang hang hiam cih leh tua ni-in mite in, “Kumpipa a tapa’ hangin dah hi,” ci-in za uh hi.
+**TDB77:** Tua ahih ciangin tua ni-a gualzawhna mi khempeuh adingin thuumna suak hi; bang hang hiam cih leh tua ni-in mite in, “Kumpipa a tapa’ hangin dah hi,” ci-in za-te hi.
 
-**ZVS:** Tua ahih ciangin tua ni-a gualzawhna mi khempeuh-a' dingin thumna hong suak mawk hi; bang hang hiam cih leh tua ni-in mite in, “Kumpipa a tapa' hangin dah hi,” ci-in za uh hi.
+**ZVS:** Tua ahih ciangin tua ni-a gualzawhna mi khempeuh-a' dingin thumna hong suak mawk hi; bang hang hiam cih leh tua ni-in mite in, “Kumpipa a tapa' hangin dah hi,” ci-in za-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v3
 **EN:** And the people gat them by stealth that day into the city, as people being ashamed steal away when they flee in battle.
 
-**TDB77:** Tua ciangin galsung pan a tai uh ciangin a maizum mite a gelsim bangin tua ni-in khuapi sungah mite lut sim uh hi.
+**TDB77:** Tua ciangin galsung pan a tai-te ciangin a maizum mite a gelsim bangin tua ni-in khuapi sungah mite lut sim-te hi.
 
-**ZVS:** Tua ciangin galsung pan a tai uh ciangin a maizum mite a gel bangin tua ni-in khuapi sungah mite simlut uh hi.
+**ZVS:** Tua ciangin galsung pan a tai-te ciangin a maizum mite a gel bangin tua ni-in khuapi sungah mite simlut-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -92,45 +92,45 @@
 ### v8
 **EN:** Then the king arose, and sat in the gate. And they told unto all the people, saying, Behold, the king doth sit in the gate. And all the people came before the king: for Israel had fled every man to his tent.
 
-**TDB77:** Tua ciangin kumpipa ding-in kulh kongpi-ah a tutna-ah tu hi. Tua ciangin mite kiangah, “En un, kulh kongpi-ah kumpipa tu hi,” ci-in kigen hi; tua ciangin kumpipa mai-ah mi khempeuh hong pai uh hi. Tu-in Israelte amau’ inn ciatah na tai khin uh hi.
+**TDB77:** Tua ciangin kumpipa ding-in kulh kongpi-ah a tutna-ah tu hi. Tua ciangin mite kiangah, “En un, kulh kongpi-ah kumpipa tu hi,” ci-in kigen hi; tua ciangin kumpipa mai-ah mi khempeuh hong pai-te hi. Tu-in Israelte amau’ inn ciatah na tai khin-te hi.
 
-**ZVS:** Tua ciangin kumpipa dingin kulhkongpi gei-ah a tu hi. Tua ciangin mite kiangah, “En un, kulhkongpi-ah kumpipa tu hi,” ci-in kigen a, tua ciangin kumpipa mai-ah mi khempeuh hong pai uh hi.
+**ZVS:** Tua ciangin kumpipa dingin kulhkongpi gei-ah a tu hi. Tua ciangin mite kiangah, “En un, kulhkongpi-ah kumpipa tu hi,” ci-in kigen a, tua ciangin kumpipa mai-ah mi khempeuh hong pai-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And all the people were at strife throughout all the tribes of Israel, saying, The king saved us out of the hand of our enemies, and he delivered us out of the hand of the Philistines; and now he is fled out of the land for Absalom.
 
-**TDB77:** Israel minam khempeuh sungah mi khempeuh thu kisel uh a, “Kumpipa in i galte’ khut sung panin hong khahkhia-in Filistiate’ khut sung panin hong honkhia hi, tu-in Absalom kiang i gam sung panin amah taikhia hi.
+**TDB77:** Israel minam khempeuh sungah mi khempeuh thu kisel-te a, “Kumpipa in i galte’ khut sung panin hong khahkhia-in Filistiate’ khut sung panin hong honkhia hi, tu-in Absalom kiang i gam sung panin amah taikhia hi.
 
-**ZVS:** Israel minam khempeuh sungah mi khempeuh thu kisel uh a, “Kumpipa in i galte' khutsung panin hong khahkhia-in Filistia-te' khutsung panin hong honkhia hi. Tu-in Absalom' hangin i gamsung panin amah taikhia hi.
+**ZVS:** Israel minam khempeuh sungah mi khempeuh thu kisel-te a, “Kumpipa in i galte' khutsung panin hong khahkhia-in Filistia-te' khutsung panin hong honkhia hi. Tu-in Absalom' hangin i gamsung panin amah taikhia hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And Absalom, whom we anointed over us, is dead in battle. Now therefore why speak ye not a word of bringing the king back?
 
-**TDB77:** Ahih hangin eite tungah sathau i nilh Absalom, gal sungah si hi. Tua ahih ciangin tu-in bang hangin kumpipa lak kik ding bangmah gen lo na hi uh hiam?” a ci uh hi.
+**TDB77:** Ahih hangin eite tungah sathau i nilh Absalom, gal sungah si hi. Tua ahih ciangin tu-in bang hangin kumpipa lak kik ding bangmah gen lo na hi-te hiam?” a ci-te hi.
 
-**ZVS:** Ahih hangin eite' tungah sathau i nilh Absalom, gal sungah si khin hi. Tua ahih ciangin tu-in bang hangin kumpipa lakkik ding bangmah genlo na hi uh hiam?” a ci uh hi.
+**ZVS:** Ahih hangin eite' tungah sathau i nilh Absalom, gal sungah si khin hi. Tua ahih ciangin tu-in bang hangin kumpipa lakkik ding bangmah genlo na hi-te hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And king David sent to Zadok and to Abiathar the priests, saying, Speak unto the elders of Judah, saying, Why are ye the last to bring the king back to his house? seeing the speech of all Israel is come to the king, even to his house.
 
-**TDB77:** Tua ciangin Kumpi David in hih thu, siampi Zadok leh Abiathar kiangah puakin, “Judah upate kiangah gen un, ‘Israelte khempeuh’ thu kumpipa kiangah tung khinin, bang hangin note in kumpipa a inn-ah a ciahpih nunung pen hi ding na hi uh hiam?
+**TDB77:** Tua ciangin Kumpi David in hih thu, siampi Zadok leh Abiathar kiangah puakin, “Judah upate kiangah gen un, ‘Israelte khempeuh’ thu kumpipa kiangah tung khinin, bang hangin note in kumpipa a inn-ah a ciahpih nunung pen hi ding na hi-te hiam?
 
-**ZVS:** Tua ciangin Kumpi David in hih thu, siampi Zadok leh Abiathar kiangah puakin, “Judah upate kiangah hih bangin gen un: ‘Israel-te khempeuh' thu kumpipa kiangah tung khin hi. Bang hangin note in kumpipa a inn-ah a ciahpih nunung pen hi ding na hi uh hiam?
+**ZVS:** Tua ciangin Kumpi David in hih thu, siampi Zadok leh Abiathar kiangah puakin, “Judah upate kiangah hih bangin gen un: ‘Israel-te khempeuh' thu kumpipa kiangah tung khin hi. Bang hangin note in kumpipa a inn-ah a ciahpih nunung pen hi ding na hi-te hiam?
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v12
 **EN:** Ye are my brethren, ye are my bones and my flesh: wherefore then are ye the last to bring back the king?
 
-**TDB77:** Note in ka beh nai na hi uh a, note in keima si keima sa na hi uh hi; tua ahih ciangin bang hangin note in kumpipa a ciahpih nunung pen hi ding na hi uh hiam?” ci un.
+**TDB77:** Note in ka beh nai na hi-te a, note in keima si keima sa na hi-te hi; tua ahih ciangin bang hangin note in kumpipa a ciahpih nunung pen hi ding na hi-te hiam?” ci un.
 
-**ZVS:** Note pen ka behnai na hi uh a, note pen keima si keima sa na hi uh hi. Tua ahih ciangin bang hangin kumpipa a ciahpih nunung pen hi ding na hi uh hiam?’ ci un.
+**ZVS:** Note pen ka behnai na hi-te a, note pen keima si keima sa na hi-te hi. Tua ahih ciangin bang hangin kumpipa a ciahpih nunung pen hi ding na hi-te hiam?’ ci un.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -148,16 +148,16 @@
 
 **TDB77:** David’ thugen in Judah mite khempeuh’ lungsim thakhatin zo pah hi; tua ahih ciangin amaute in kumpipa kiangah thu puakin, “Nang leh na nasemte khempeuh hong ciahkik un,” a ci hi.
 
-**ZVS:** David' thugen in Judah mite khempeuh' lungsim thakhatin zo pah hi. Tua ahih ciangin amaute in kumpipa kiangah thu puakin, “Nang leh na nasemte khempeuh hong ciahkik un,” a ci uh hi.
+**ZVS:** David' thugen in Judah mite khempeuh' lungsim thakhatin zo pah hi. Tua ahih ciangin amaute in kumpipa kiangah thu puakin, “Nang leh na nasemte khempeuh hong ciahkik un,” a ci-te hi.
 
 **Grammar:** punctual: immediately/suddenly | quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
 ### v15
 **EN:** So the king returned, and came to Jordan. And Judah came to Gilgal, to go to meet the king, to conduct the king over Jordan.
 
-**TDB77:** Tua ahih ciangin kumpipa Jordan-ah hong paikik hi; tua ciangin kumpipa a dawn ding leh Jordan galah kumpipa a paipih dingin Gilgal-ah Judah mite hong pai uh hi.
+**TDB77:** Tua ahih ciangin kumpipa Jordan-ah hong paikik hi; tua ciangin kumpipa a dawn ding leh Jordan galah kumpipa a paipih dingin Gilgal-ah Judah mite hong pai-te hi.
 
-**ZVS:** Tua ahih ciangin Jordan-ah kumpipa hong paikik hi. Kumpipa a dawn ding leh Jordan galah kumpipa a paipih dingin Gilgal-ah Judah mite hong pai uh hi.
+**ZVS:** Tua ahih ciangin Jordan-ah kumpipa hong paikik hi. Kumpipa a dawn ding leh Jordan galah kumpipa a paipih dingin Gilgal-ah Judah mite hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -182,9 +182,9 @@
 ### v18
 **EN:** And there went over a ferry boat to carry over the king's household, and to do what he thought good. And Shimei the son of Gera fell down before the king, as he was come over Jordan;
 
-**TDB77:** kumpipa innkuante a galkahpih ding leh ama deihna bangin na a sem dingin amaute in ngahmun ngap uh hi. Jordon a galkah ding ciangin Gera’ tapa Shimei kumpipa’ mai-ah bok suk a,
+**TDB77:** kumpipa innkuante a galkahpih ding leh ama deihna bangin na a sem dingin amaute in ngahmun ngap-te hi. Jordon a galkah ding ciangin Gera’ tapa Shimei kumpipa’ mai-ah bok suk a,
 
-**ZVS:** kumpipa' innkuante a galkahpih ding leh ama deih bangin na a sem dingin amaute in ngahmun ngap uh hi. Jordan a galkah ding ciangin Gera' tapa Shimei kumpipa' mai-ah boksukin
+**ZVS:** kumpipa' innkuante a galkahpih ding leh ama deih bangin na a sem dingin amaute in ngahmun ngap-te hi. Jordan a galkah ding ciangin Gera' tapa Shimei kumpipa' mai-ah boksukin
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -281,9 +281,9 @@
 ### v29
 **EN:** And the king said unto him, Why speakest thou any more of thy matters? I have said, Thou and Ziba divide the land.
 
-**TDB77:** Tua ciangin kumpipa in ama kiangah, “Bang hangin nangma thu gen lailai na hi hiam? Ka lungsim ka khentat zo hi; nang leh Ziba in leitang na hawm ding uh hi,” a ci hi.
+**TDB77:** Tua ciangin kumpipa in ama kiangah, “Bang hangin nangma thu gen lailai na hi hiam? Ka lungsim ka khentat zo hi; nang leh Ziba in leitang na hawm ding-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin kumpipa in ama kiangah, “Bang hangin nangma thu gen lailai na hi hiam? Ka lungsim ka khentatzo hi; nang leh Ziba in leitang na hawm ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin kumpipa in ama kiangah, “Bang hangin nangma thu gen lailai na hi hiam? Ka lungsim ka khentatzo hi; nang leh Ziba in leitang na hawm ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -371,45 +371,45 @@
 ### v39
 **EN:** And all the people went over Jordan. And when the king was come over, the king kissed Barzillai, and blessed him; and he returned unto his own place.
 
-**TDB77:** Tua ciangin mi khempeuh Jordan gal-ah pai uh a, kumpipa zong pai hi; tua ciangin kumpipa in Barzillai namin thupha pia a, ama inn-ah amah ciah hi.
+**TDB77:** Tua ciangin mi khempeuh Jordan gal-ah pai-te a, kumpipa zong pai hi; tua ciangin kumpipa in Barzillai namin thupha pia a, ama inn-ah amah ciah hi.
 
-**ZVS:** Tua ciangin mi khempeuh Jordan galah pai uh a, kumpipa zong a pai hi. Tua ciangin kumpipa in Barzillai namin thupha pia a, ama inn-ah amah a ciah hi.
+**ZVS:** Tua ciangin mi khempeuh Jordan galah pai-te a, kumpipa zong a pai hi. Tua ciangin kumpipa in Barzillai namin thupha pia a, ama inn-ah amah a ciah hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v40
 **EN:** Then the king went on to Gilgal, and Chimham went on with him: and all the people of Judah conducted the king, and also half the people of Israel.
 
-**TDB77:** Gilgal-ah kumpipa paisuak a, amah tawh Khimham paisuak hi; Judah mi khempeuh leh Israel mi a kimkhatte in zong ama pai nadingah kumpipa kha uh hi.
+**TDB77:** Gilgal-ah kumpipa paisuak a, amah tawh Khimham paisuak hi; Judah mi khempeuh leh Israel mi a kimkhatte in zong ama pai nadingah kumpipa kha-te hi.
 
-**ZVS:** Gilgal-ah kumpipa paisuak a, amah tawh Khimham paisuak hi. Judah mi khempeuh, leh Israel mi a kimkhatte in zong ama paina dingah kumpipa a kha uh hi.
+**ZVS:** Gilgal-ah kumpipa paisuak a, amah tawh Khimham paisuak hi. Judah mi khempeuh, leh Israel mi a kimkhatte in zong ama paina dingah kumpipa a kha-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v41
 **EN:** And, behold, all the men of Israel came to the king, and said unto the king, Why have our brethren the men of Judah stolen thee away, and have brought the king, and his household, and all David's men with him, over Jordan?
 
-**TDB77:** Tua ciangin Israel mite khempeuh kumpipa kiangah hong pai-in kumpipa kiangah, “Bang hangin ka sanggam uh Judah mite in nang hong gu khia-in, kumpipa leh a innkuante, leh David’ mite amah tawh, Jordan gal-ah paipih ahi hiam?” a ci uh hi.
+**TDB77:** Tua ciangin Israel mite khempeuh kumpipa kiangah hong pai-in kumpipa kiangah, “Bang hangin ka sanggam-te Judah mite in nang hong gu khia-in, kumpipa leh a innkuante, leh David’ mite amah tawh, Jordan gal-ah paipih ahi hiam?” a ci-te hi.
 
-**ZVS:** Tua ciangin Israel mite khempeuh hong pai-in kumpipa kiangah, “Bang hangin ka sanggam uh Judah mite in nang hong gukhia-in, kumpipa leh a innkuante, leh David' mite amah tawh, Jordan galah paipih ahi hiam?” a ci uh hi.
+**ZVS:** Tua ciangin Israel mite khempeuh hong pai-in kumpipa kiangah, “Bang hangin ka sanggam-te Judah mite in nang hong gukhia-in, kumpipa leh a innkuante, leh David' mite amah tawh, Jordan galah paipih ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v42
 **EN:** And all the men of Judah answered the men of Israel, Because the king is near of kin to us: wherefore then be ye angry for this matter? have we eaten at all of the king's cost? or hath he given us any gift?
 
-**TDB77:** Judah mite khempeuh in Israel mite dawngin, “Bang hang hiam cih leh kumpipa in kote tawh beh kinai ahi hi. Tua ahih ciangin bang hangin hih thu-ah heh na hi uh hiam? Kumpipa’ sum bei-in an ne peuhmah ka hi uh hiam? Tua ahih kei leh amah in letsong khat peuhpeuh kote hong pia ahi hiam?” a ci uh hi.
+**TDB77:** Judah mite khempeuh in Israel mite dawngin, “Bang hang hiam cih leh kumpipa in kote tawh beh kinai ahi hi. Tua ahih ciangin bang hangin hih thu-ah heh na hi-te hiam? Kumpipa’ sum bei-in an ne peuhmah ka hi-te hiam? Tua ahih kei leh amah in letsong khat peuhpeuh kote hong pia ahi hiam?” a ci-te hi.
 
-**ZVS:** Judah mite khempeuh in Israel mite dawngin, “Kumpipa pen kote tawh beh kinai ahihna hang ahi hi. Tua ahih ciangin bang hangin hih thu-ah heh na hi uh hiam? Kumpipa' sum bei-in an ne peuhmah ka hi uh hiam? Tua ahih kei leh amah in letsong khat peuhpeuh kote hong pia ahi hiam?” a ci uh hi.
+**ZVS:** Judah mite khempeuh in Israel mite dawngin, “Kumpipa pen kote tawh beh kinai ahihna hang ahi hi. Tua ahih ciangin bang hangin hih thu-ah heh na hi-te hiam? Kumpipa' sum bei-in an ne peuhmah ka hi-te hiam? Tua ahih kei leh amah in letsong khat peuhpeuh kote hong pia ahi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v43
 **EN:** And the men of Israel answered the men of Judah, and said, We have ten parts in the king, and we have also more right in David than ye: why then did ye despise us, that our advice should not be first had in bringing back our king? And the words of the men of Judah were fiercer than the words of the men of Israel.
 
-**TDB77:** Tua ciangin Israel mite in Judah mite dawngin, “Kumpipa sungah tanh sawm ka nei uh a, David sungah zong note sangin tam ka neizaw uh hi. Tua ahih ciangin bang hangin note in kote hong simmawh na hi uh hiam? Kote in i kumpipa ciahpih kik ding a gen masate hilo ka hi uh hiam?” a ci uh hi. Ahih hangin Israel mite’ kammal sangin Judah mite’ kammal kihtakhuai zaw hi.
+**TDB77:** Tua ciangin Israel mite in Judah mite dawngin, “Kumpipa sungah tanh sawm ka nei-te a, David sungah zong note sangin tam ka neizaw-te hi. Tua ahih ciangin bang hangin note in kote hong simmawh na hi-te hiam? Kote in i kumpipa ciahpih kik ding a gen masate hilo ka hi-te hiam?” a ci-te hi. Ahih hangin Israel mite’ kammal sangin Judah mite’ kammal kihtakhuai zaw hi.
 
-**ZVS:** Tua ciangin Israel mite in Judah mite dawngin, “Kumpipa sungah tanh sawm ka nei uh a, David' sungah note khempeuh sangin tam ka neizaw uh hi. Tua ahih ciangin bang hangin note in kote hong simmawh na hi uh hiam? Kote pen i kumpipa ciahpih kik ding a gen masate hilo ka hi uh hiam?” a ci uh hi. Ahih hangin Israel mite' kammal sangin Judah mite' kammal kihtakhuai zaw hi.
+**ZVS:** Tua ciangin Israel mite in Judah mite dawngin, “Kumpipa sungah tanh sawm ka nei-te a, David' sungah note khempeuh sangin tam ka neizaw-te hi. Tua ahih ciangin bang hangin note in kote hong simmawh na hi-te hiam? Kote pen i kumpipa ciahpih kik ding a gen masate hilo ka hi-te hiam?” a ci-te hi. Ahih hangin Israel mite' kammal sangin Judah mite' kammal kihtakhuai zaw hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

@@ -34,81 +34,81 @@
 ### v2
 **EN:** Then thy elders and thy judges shall come forth, and they shall measure unto the cities which are round about him that is slain:
 
-**TDB77:** na upate uh leh na thukhente uh hong paikhia-in, a kithat mipa’ omna kiim-a khuapite a gamlatna teh ding uh hi;
+**TDB77:** na upate-te leh na thukhente-te hong paikhia-in, a kithat mipa’ omna kiim-a khuapite a gamlatna teh ding-te hi;
 
-**ZVS:** na upate uh leh na thukhente uh hong paikhia-in, a kithat mipa' omna kiima khuapite a gamlatna teh ding uh hi.
+**ZVS:** na upate-te leh na thukhente-te hong paikhia-in, a kithat mipa' omna kiima khuapite a gamlatna teh ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And it shall be, that the city which is next unto the slain man, even the elders of that city shall take an heifer, which hath not been wrought with, and which hath not drawn in the yoke;
 
-**TDB77:** tua ciangin a kithat mipa’ omna tawh a kinaipen khuapi upate in a kisin nai lo, kol a kai nai lo bawngla khat la ding uh hi.
+**TDB77:** tua ciangin a kithat mipa’ omna tawh a kinaipen khuapi upate in a kisin nai lo, kol a kai nai lo bawngla khat la ding-te hi.
 
-**ZVS:** Tua ciangin a kithat mipa' omna tawh a kinai pen khuapi upate in a kisin nailo, kol a kai nailo bawngla khat la ding uh hi.
+**ZVS:** Tua ciangin a kithat mipa' omna tawh a kinai pen khuapi upate in a kisin nailo, kol a kai nailo bawngla khat la ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And the elders of that city shall bring down the heifer unto a rough valley, which is neither eared nor sown, and shall strike off the heifer's neck there in the valley:
 
-**TDB77:** Tua khuapi upate in a kikho nai lo, khaici a kivawh nai lo, tui luang a omna kuam khatah a bawngla paipih suk ding uh a, tua kuam sungah bawngla ngawng attan ding uh hi.
+**TDB77:** Tua khuapi upate in a kikho nai lo, khaici a kivawh nai lo, tui luang a omna kuam khatah a bawngla paipih suk ding-te a, tua kuam sungah bawngla ngawng attan ding-te hi.
 
-**ZVS:** Tua khuapi upate in a kikho nailo, khaici a kivawh nailo, tuiluang a omna kuam khatah a bawngla paipihsuk ding uh a, tua kuam sungah a bawngla ngawng attan ding uh hi.
+**ZVS:** Tua khuapi upate in a kikho nailo, khaici a kivawh nailo, tuiluang a omna kuam khatah a bawngla paipihsuk ding-te a, tua kuam sungah a bawngla ngawng attan ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And the priests the sons of Levi shall come near; for them the
 
-**TDB77:** Topa na Pasian un Levi mi siampite ama’ na a sem ding leh Topa’ min tawh thupha a pia dingin teel khin ahih manin amaute hong pai ding uh a, ki-thuneihna leh kitotna peuhmah amau’ thu tawh kiveng sak ding hi.
+**TDB77:** Topa na Pasian un Levi mi siampite ama’ na a sem ding leh Topa’ min tawh thupha a pia dingin teel khin ahih manin amaute hong pai ding-te a, ki-thuneihna leh kitotna peuhmah amau’ thu tawh kiveng sak ding hi.
 
-**ZVS:** { Topa } na Pasian un Levi mi siampite ama na a sem ding leh { Topa' } min tawh thupha a pia dingin teelkhia ahih manin amaute hong pai ding uh a, kithuneihna leh kitotna peuhmah amau' thu tawh kivengsak ding hi.
+**ZVS:** { Topa } na Pasian un Levi mi siampite ama na a sem ding leh { Topa' } min tawh thupha a pia dingin teelkhia ahih manin amaute hong pai ding-te a, kithuneihna leh kitotna peuhmah amau' thu tawh kivengsak ding hi.
 
 **Grammar:** purpose: in order to | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And all the elders of that city, that are next unto the slain man, shall wash their hands over the heifer that is beheaded in the valley:
 
-**TDB77:** A kithat mipa tawh a kinaipen khuapi upate khempeuh in kuam sunga ngawng a kitan bawngla tungah a khut uh sil ding uh hi;
+**TDB77:** A kithat mipa tawh a kinaipen khuapi upate khempeuh in kuam sunga ngawng a kitan bawngla tungah a khut-te sil ding-te hi;
 
-**ZVS:** A kithat mipa tawh a kinai pen khuapi upate khempeuh in kuam sunga a ngawng a kitan bawngla tungah a khut uh sil ding uh a,
+**ZVS:** A kithat mipa tawh a kinai pen khuapi upate khempeuh in kuam sunga a ngawng a kitan bawngla tungah a khut-te sil ding-te a,
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And they shall answer and say, Our hands have not shed this blood, neither have our eyes seen it.
 
-**TDB77:** amaute in teci pangin, ‘Kote in hih mipa ka that kei uh hi, a kithah lam zong ka thei kei uh hi.
+**TDB77:** amaute in teci pangin, ‘Kote in hih mipa ka that kei-te hi, a kithah lam zong ka thei kei-te hi.
 
-**ZVS:** amaute in teci pangin, ‘Kote in hih mipa ka that kei uh a, a kithahlam zong ka thei kei uh hi.
+**ZVS:** amaute in teci pangin, ‘Kote in hih mipa ka that kei-te a, a kithahlam zong ka thei kei-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Be merciful, O
 
-**TDB77:** Topa aw, na tatkhiatsa Israel mite’ mawhna hong maisak in, mawhna nei lo mipa a kithahna hanga mawhna na Israel mihingte hong thuaksak kei in; mi thahna hanga mawhna panin hong maisak in,’ ci ding uh hi.
+**TDB77:** Topa aw, na tatkhiatsa Israel mite’ mawhna hong maisak in, mawhna nei lo mipa a kithahna hanga mawhna na Israel mihingte hong thuaksak kei in; mi thahna hanga mawhna panin hong maisak in,’ ci ding-te hi.
 
-**ZVS:** { Topa } aw, na hotkhiatsa Israel mite' mawhna hong maisak in la, mawhna neilo mipa a kithahna hanga mawhna na Israel mihingte hong thuaksak kei in. Mi thahna hanga mawhna pan hong maisak in,’ ci ding uh hi.
+**ZVS:** { Topa } aw, na hotkhiatsa Israel mite' mawhna hong maisak in la, mawhna neilo mipa a kithahna hanga mawhna na Israel mihingte hong thuaksak kei in. Mi thahna hanga mawhna pan hong maisak in,’ ci ding-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** So shalt thou put away the guilt of innocent blood from among you, when thou shalt do that which is right in the sight of the
 
-**TDB77:** Topa muhna ah a manin na gamtat uh ciangin note lak panin mawhna nei lo mi thahna hanga mawhna tua bangin na siangsak ding uh hi.
+**TDB77:** Topa muhna ah a manin na gamtat-te ciangin note lak panin mawhna nei lo mi thahna hanga mawhna tua bangin na siangsak ding-te hi.
 
-**ZVS:** { Topa' } muhna-ah a manin na gamtat uh ciangin note lak panin mawhna neilo mi thahna hanga mawhna tua bangin na siangsak ding uh hi.
+**ZVS:** { Topa' } muhna-ah a manin na gamtat-te ciangin note lak panin mawhna neilo mi thahna hanga mawhna tua bangin na siangsak ding-te hi.
 
 **Grammar:** future: will | negation: lo | causal: because | plural: uh marker
 
 ### v10
 **EN:** When thou goest forth to war against thine enemies, and the
 
-**TDB77:** “Na galte uh a do dingin pai khia-in, Topa na Pasian un note’ khut sungah amaute hong pia a, amaute sal-in na mat ciangun,
+**TDB77:** “Na galte-te a do dingin pai khia-in, Topa na Pasian un note’ khut sungah amaute hong pia a, amaute sal-in na mat ciangun,
 
-**ZVS:** “Na galte uh a do dingin kuan khia-in, { Topa } na Pasian un note' khutsungah amaute hong pia a, amaute salin na mat ciangun,
+**ZVS:** “Na galte-te a do dingin kuan khia-in, { Topa } na Pasian un note' khutsungah amaute hong pia a, amaute salin na mat ciangun,
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -192,36 +192,36 @@
 ### v20
 **EN:** And they shall say unto the elders of his city, This our son is stubborn and rebellious, he will not obey our voice; he is a glutton, and a drunkard.
 
-**TDB77:** amaute in a khuapi upate kiangah, ‘Hih ka tapa uh lungkhauhin lehdo thei a, amah in ka thu uh hong mang lo hi; amah in anhai zuhai ahi hi,’ ci ding uh hi.
+**TDB77:** amaute in a khuapi upate kiangah, ‘Hih ka tapa-te lungkhauhin lehdo thei a, amah in ka thu-te hong mang lo hi; amah in anhai zuhai ahi hi,’ ci ding-te hi.
 
-**ZVS:** amaute in a khuapi upate kiangah, ‘Hih ka tapa uh lungkhauhin hong langpang thei a, amah in ka thu uh hong manglo a, an hai, zu hai bek ahi hi,’ ci ding uh hi.
+**ZVS:** amaute in a khuapi upate kiangah, ‘Hih ka tapa-te lungkhauhin hong langpang thei a, amah in ka thu-te hong manglo a, an hai, zu hai bek ahi hi,’ ci ding-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And all the men of his city shall stone him with stones, that he die: so shalt thou put evil away from among you; and all Israel shall hear, and fear.
 
-**TDB77:** Tua ciangin khuapi pasal khempeuh in suang tawh amah denglum ding uh hi; tua bangin note sung panin siatna na siangsak ding uh hi; Israelte khempeuh in za-in lau ding uh hi.
+**TDB77:** Tua ciangin khuapi pasal khempeuh in suang tawh amah denglum ding-te hi; tua bangin note sung panin siatna na siangsak ding-te hi; Israelte khempeuh in za-in lau ding-te hi.
 
-**ZVS:** Tua ciangin khuapi pasal khempeuh in suang tawh amah denglum ding uh hi. Tua bangin note' sung panin siatna na siangsak ding uh hi. Tua hi leh Israel-te khempeuh in za-in lau ding uh hi.
+**ZVS:** Tua ciangin khuapi pasal khempeuh in suang tawh amah denglum ding-te hi. Tua bangin note' sung panin siatna na siangsak ding-te hi. Tua hi leh Israel-te khempeuh in za-in lau ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v22
 **EN:** And if a man have committed a sin worthy of death, and he be to be put to death, and thou hang him on a tree:
 
-**TDB77:** “Mi khat in sihna daan thuak theih nading mawhna bawlin amah kithat a, sing tungah na khai uh leh,
+**TDB77:** “Mi khat in sihna daan thuak theih nading mawhna bawlin amah kithat a, sing tungah na khai-te leh,
 
-**ZVS:** “Mi khat in sihna thuak theihna ding mawhna bawlin amah kithat a, sing tungah na khai uh leh,
+**ZVS:** “Mi khat in sihna thuak theihna ding mawhna bawlin amah kithat a, sing tungah na khai-te leh,
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v23
 **EN:** His body shall not remain all night upon the tree, but thou shalt in any wise bury him that day; (for he that is hanged is accursed of God;) that thy land be not defiled, which the
 
-**TDB77:** zan tawntung sing tungah ama luang na omsak kei ding uh a, a ni mah-in na phum ding uh hi; bang hang hiam cih leh khuam tungah a kikhai mi in Pasian’ hamsiat thuak ahi hi, Topa na Pasian un luah dingin note hong piakna na leitang uh na ninsak kei ding uh hi.
+**TDB77:** zan tawntung sing tungah ama luang na omsak kei ding-te a, a ni mah-in na phum ding-te hi; bang hang hiam cih leh khuam tungah a kikhai mi in Pasian’ hamsiat thuak ahi hi, Topa na Pasian un luah dingin note hong piakna na leitang-te na ninsak kei ding-te hi.
 
-**ZVS:** zan tawntung sing tungah ama luang na omsak kei ding uh a, a ni mahin na phum ding uh hi. Bang hang hiam cih leh khuam tungah a kikhai siluang hawm pen Pasian in muhthadah sa hi. { Topa } na Pasian un luah dingin note hong piak na leitang uh na ninsak kei ding uh hi.
+**ZVS:** zan tawntung sing tungah ama luang na omsak kei ding-te a, a ni mahin na phum ding-te hi. Bang hang hiam cih leh khuam tungah a kikhai siluang hawm pen Pasian in muhthadah sa hi. { Topa } na Pasian un luah dingin note hong piak na leitang-te na ninsak kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

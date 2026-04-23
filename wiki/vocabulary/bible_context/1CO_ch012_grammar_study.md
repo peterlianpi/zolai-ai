@@ -26,18 +26,18 @@
 ### v1
 **EN:** Now concerning spiritual gifts, brethren, I would not have you ignorant.
 
-**TDB77:** Ute naute aw, note in Kha Siangtho’ piak thupha thu na theih loh ding uh ka deih kei hi.
+**TDB77:** Ute naute aw, note in Kha Siangtho’ piak thupha thu na theih loh ding-te ka deih kei hi.
 
-**ZVS:** Sanggamte aw, Kha Siangtho' hong piak siamna a tuamtuamte tawh kisai thu na theihloh khak ding uh ka deih kei hi.
+**ZVS:** Sanggamte aw, Kha Siangtho' hong piak siamna a tuamtuamte tawh kisai thu na theihloh khak ding-te ka deih kei hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
 ### v2
 **EN:** Ye know that ye were Gentiles, carried away unto these dumb idols, even as ye were led.
 
-**TDB77:** Note in Gentailte na hih lai takun, bang ci lam tawh na zuih uh ahi zongin, a pau thei lo milim omna lamah a zui mi na hih ngei uh na thei uh hi.
+**TDB77:** Note in Gentailte na hih lai takun, bang ci lam tawh na zuih-te ahi zongin, a pau thei lo milim omna lamah a zui mi na hih ngei-te na thei-te hi.
 
-**ZVS:** Lawki na hih lai-un a pau theilo milimte' thu-in na gamta uh a, na lungsim uh tua milimte in hong zo mahmah hi.
+**ZVS:** Lawki na hih lai-un a pau theilo milimte' thu-in na gamta-te a, na lungsim-te tua milimte in hong zo mahmah hi.
 
 **Grammar:** plural: uh marker
 
@@ -46,7 +46,7 @@
 
 **TDB77:** Tua ahih ciangin Pasian’ Kha Siangtho tawh, “Zeisu in hamsiatna a thuak hi,” ci-in kuamah in a gen theih loh mah bangin, “Zeisu in Topa hi,” ci-in kuamah in Kha Siangtho suang loin a pulak thei kei hi, ci-in kong theisak hi.
 
-**ZVS:** Tua ahih manin Kha Siangtho in lam a lah mite in, “Jesuh in samsiatna ngah ta hen,” a cihlohna, leh Kha Siangtho in lam lak kei leh kuamah in, “Jesuh pen Topa hi,” a cih theihlohna ding thu na theihding uh ahi hi.
+**ZVS:** Tua ahih manin Kha Siangtho in lam a lah mite in, “Jesuh in samsiatna ngah ta hen,” a cihlohna, leh Kha Siangtho in lam lak kei leh kuamah in, “Jesuh pen Topa hi,” a cih theihlohna ding thu na theihding-te ahi hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: kei
 
@@ -83,7 +83,7 @@
 ### v8
 **EN:** For to one is given by the Spirit the word of wisdom; to another the word of knowledge by the same Spirit;
 
-**TDB77:** Bang hang hiam na cih uh leh, tua Kha Siangtho tawh mi khat kiangah pilna thu a pia hi. Tua Kha Siangtho tawh mi khat kiangah siamna thu a pia hi.
+**TDB77:** Bang hang hiam na cih-te leh, tua Kha Siangtho tawh mi khat kiangah pilna thu a pia hi. Tua Kha Siangtho tawh mi khat kiangah siamna thu a pia hi.
 
 **ZVS:** Kha Siangtho in mi khat tungah thuthuk pilna hong guan' a, tua Kha Siangtho mah in adang khat tungah thugen siamna hong guan' hi.
 
@@ -126,7 +126,7 @@
 ### v13
 **EN:** For by one Spirit are we all baptized into one body, whether we be Jews or Gentiles, whether we be bond or free; and have been all made to drink into one Spirit.
 
-**TDB77:** Bang hang hiam na cih uh leh, Judah mi hi taleh, Grik mi hi taleh, sila hi taleh, to nei lo hi taleh, eite khempeuh in Kha Siangtho khat bek tawh pumpi khat sungah baptaizna i ngah a, eite khempeuh in Kha Siangtho khat sung pan i dawn hi.
+**TDB77:** Bang hang hiam na cih-te leh, Judah mi hi taleh, Grik mi hi taleh, sila hi taleh, to nei lo hi taleh, eite khempeuh in Kha Siangtho khat bek tawh pumpi khat sungah baptaizna i ngah a, eite khempeuh in Kha Siangtho khat sung pan i dawn hi.
 
 **ZVS:** Jew mi ihi a, Gentail mi ihi zongin, sila ihi a, sila a hilo ihi zongin, eite minam tuamtuam ihih hangin Kha Siangtho khat bek mah in Jesuh' pumpi a suak dingin ama sungah hong phum a, eite khempeuh tungah a hong kipia pen tua a kibang Kha Siangtho khat bek mah ahi hi.
 
@@ -210,7 +210,7 @@
 ### v23
 **EN:** And those members of the body, which we think to be less honourable, upon these we bestow more abundant honour; and our uncomely parts have more abundant comeliness.
 
-**TDB77:** A thupi lo tawh a kibang pumpi nate minthan’na tamzaw i pia thei hi. A kilawmna nei lo nate in kilawmna tamzaw a ngah thei uh hi.
+**TDB77:** A thupi lo tawh a kibang pumpi nate minthan’na tamzaw i pia thei hi. A kilawmna nei lo nate in kilawmna tamzaw a ngah thei-te hi.
 
 **ZVS:** pumpi na bangmah gentaaklo i sakte pawl limtakin kep kul zawsop hi. I pumpi na hoih i sak khollohte pen,
 
@@ -219,7 +219,7 @@
 ### v24
 **EN:** For our comely parts have no need: but God hath tempered the body together, having given more abundant honour to that part which lacked:
 
-**TDB77:** A kilawmna om nate in kilawmna a sam kei uh hi.
+**TDB77:** A kilawmna om nate in kilawmna a sam kei-te hi.
 
 **ZVS:** pumpi na hoih i sakte i lim et ding a kisap kholloh bang hiloin, limkep diak peuh kulzaw se hi. Ahi zongin i pumpi na thupi i sak khollohte limtakin i kepdiak ding a kisamin i pumpi a na bawl se hi.
 
@@ -230,25 +230,25 @@
 
 **TDB77:** Pumpi sungah nate khat leh khat kikhen loin, khat leh khat a kingaihsut ciat nadingun Pasian in pumpi awhsak a, phatna a nei lo nate, phatna a piazaw hi.
 
-**ZVS:** Tua ahih manin i pumpi nate khatlekhat kithutuak lo cih omloin a vekpi-in a kilemkim uh hi.
+**ZVS:** Tua ahih manin i pumpi nate khatlekhat kithutuak lo cih omloin a vekpi-in a kilemkim-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
 ### v26
 **EN:** And whether one member suffer, all the members suffer with it; or one member be honoured, all the members rejoice with it.
 
-**TDB77:** Tua ahih ciangin na khat in gimna a thuak leh, na khempeuh in zong a thuak kim uh hi. Na khat in phatna a ngah leh, na khempeuh in zong lungdam khitna a ngah kim uh hi.
+**TDB77:** Tua ahih ciangin na khat in gimna a thuak leh, na khempeuh in zong a thuak kim-te hi. Na khat in phatna a ngah leh, na khempeuh in zong lungdam khitna a ngah kim-te hi.
 
-**ZVS:** Khat in natna ngah leh a vekpi-un thuakkhawm uh a, khat in pahtakna ngah leh a vekpi-un lungdam khawm uh hi.
+**ZVS:** Khat in natna ngah leh a vekpi-un thuakkhawm-te a, khat in pahtakna ngah leh a vekpi-un lungdam khawm-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** Now ye are the body of Christ, and members in particular.
 
-**TDB77:** Note in Khazih’ pumpi na hi uh hi. Na vekpi-un a nate na hi uh hi.
+**TDB77:** Note in Khazih’ pumpi na hi-te hi. Na vekpi-un a nate na hi-te hi.
 
-**ZVS:** Tu-in note khempeuh pen Khrih pumpi na hi uh a, na vekpi-un a pumpi na khat ciat na hi uh hi.
+**ZVS:** Tu-in note khempeuh pen Khrih pumpi na hi-te a, na vekpi-un a pumpi na khat ciat na hi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -257,23 +257,23 @@
 
 **TDB77:** Pasian in a masa belin sawltakte, a nihna thuhilhte, a thumna laihilhte, tua khit ciangin nalamdang a lak theite, tua khit ciangin cina damsak theite, huhte, pawlpi ukte, paunam tuam tampi a gen theite, pawlpi sungah a koih zo hi.
 
-**ZVS:** Tua ahih manin Pasian in pawlpi sungah mi khempeuh ama pan'mun ciat dingah a hong bulh hi. A masa-in sawltakte, a nihna-ah kamsangte, a thumna-ah laihilhte, tua ciangin na lamdang bawltheite, cina damsak theite, midang a huhtheite, thu vaihawm a siamte, leh pau lamdang a pau theite ahi uh hi.
+**ZVS:** Tua ahih manin Pasian in pawlpi sungah mi khempeuh ama pan'mun ciat dingah a hong bulh hi. A masa-in sawltakte, a nihna-ah kamsangte, a thumna-ah laihilhte, tua ciangin na lamdang bawltheite, cina damsak theite, midang a huhtheite, thu vaihawm a siamte, leh pau lamdang a pau theite ahi-te hi.
 
 **Grammar:** causative: -sak suffix
 
 ### v29
 **EN:** Are all apostles? are all prophets? are all teachers? are all workers of miracles?
 
-**TDB77:** Mi a om khempeuh in sawltakte ahi uh hiam? A om khempeuh in thuhilhte ahi uh hiam? A om khempeuh in laihilhte ahi uh hiam? A om khempeuh in nalamdang bawl theite ahi uh hiam?
+**TDB77:** Mi a om khempeuh in sawltakte ahi-te hiam? A om khempeuh in thuhilhte ahi-te hiam? A om khempeuh in laihilhte ahi-te hiam? A om khempeuh in nalamdang bawl theite ahi-te hiam?
 
-**ZVS:** A vekpi-un sawltak hilo a, a vekpi-un kamsang zong hilo uh hi. A vekpi-un laihilh, thuhilh hilo uh a, a vekpi-un na lamdang zong bawllo uh hi.
+**ZVS:** A vekpi-un sawltak hilo a, a vekpi-un kamsang zong hilo-te hi. A vekpi-un laihilh, thuhilh hilo-te a, a vekpi-un na lamdang zong bawllo-te hi.
 
 ### v30
 **EN:** Have all the gifts of healing? do all speak with tongues? do all interpret?
 
-**TDB77:** A om khempeuh in cina damsak theite ahi uh hiam? A om khempeuh in pautuam tampi gen theite ahi uh hiam? A om khempeuh in tua kamte a khiatna gen theite ahi uh hiam?
+**TDB77:** A om khempeuh in cina damsak theite ahi-te hiam? A om khempeuh in pautuam tampi gen theite ahi-te hiam? A om khempeuh in tua kamte a khiatna gen theite ahi-te hiam?
 
-**ZVS:** A vekpi-un cina damsakna ding siamna neilo uh a, a vekpi-un pau lamdang pau theilo uh a, a vekpi-un tua pau lamdangte a khiatna gen theilo uh hi.
+**ZVS:** A vekpi-un cina damsakna ding siamna neilo-te a, a vekpi-un pau lamdang pau theilo-te a, a vekpi-un tua pau lamdangte a khiatna gen theilo-te hi.
 
 **Grammar:** causative: -sak suffix
 

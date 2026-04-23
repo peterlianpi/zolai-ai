@@ -1,0 +1,80 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Dictionary entries (530,400 entries)
+model Entry {
+  id              String    @id @default(cuid())
+  en              String    @db.VarChar(500)
+  zo              String    @db.VarChar(500)
+  confidence      Float     @default(0.7)
+  dictCount       Int       @default(1)
+  frequency       Int       @default(0)
+  learningCount   Int       @default(0)
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@index([en])
+  @@index([zo])
+  @@index([confidence])
+  @@map("entries")
+}
+
+// Grammar rules (22 rules)
+model GrammarRule {
+  id              String    @id @default(cuid())
+  ruleName        String    @db.VarChar(255)
+  pattern         String    @db.Text
+  explanation     String    @db.Text
+  examples        String    @db.Text
+  category        String    @db.VarChar(100)
+  confidence      Float     @default(0.85)
+  sourceFile      String    @db.VarChar(255)
+  createdAt       DateTime  @default(now())
+
+  @@index([category])
+  @@index([ruleName])
+  @@map("grammar_rules")
+}
+
+// Wiki concepts (3,436 concepts)
+model WikiConcept {
+  id              String    @id @default(cuid())
+  concept         String    @db.VarChar(255)
+  category        String    @db.VarChar(100)
+  definition      String    @db.Text
+  examples        String    @db.Text
+  relatedConcepts String    @db.Text
+  confidence      Float     @default(0.85)
+  sourceFile      String    @db.VarChar(255)
+  createdAt       DateTime  @default(now())
+
+  @@index([category])
+  @@index([concept])
+  @@map("wiki_concepts")
+}
+
+// Project learnings (27 learnings)
+model ProjectLearning {
+  id              String    @id @default(cuid())
+  category        String    @db.VarChar(100)
+  topic           String    @db.VarChar(255)
+  learning        String    @db.Text
+  source          String    @db.VarChar(255)
+  confidence      Float     @default(0.89)
+  visionAlignment String    @db.Text
+  improvementArea String?   @db.Text
+  createdAt       DateTime  @default(now())
+
+  @@index([category])
+  @@index([topic])
+  @@map("project_learnings")
+}

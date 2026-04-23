@@ -97,18 +97,18 @@
 ### v10
 **EN:** For mine enemies speak against me; and they that lay wait for my soul take counsel together,
 
-**TDB77:** Bang hang hiam cih leh ka galte kiho-in, kei hong thah nopna thu kikum uh hi.
+**TDB77:** Bang hang hiam cih leh ka galte kiho-in, kei hong thah nopna thu kikum-te hi.
 
-**ZVS:** Bang hang hiam cih leh ka galte kihoho-in, keimah hong thahnopna thu kikumkum uh hi.
+**ZVS:** Bang hang hiam cih leh ka galte kihoho-in, keimah hong thahnopna thu kikumkum-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Saying, God hath forsaken him: persecute and take him; for there is none to deliver him.
 
-**TDB77:** “Pasian in amah nusia zo hi; amah a hon ding om lo ahih ciangin delh-in man ni,” kici uh hi.
+**TDB77:** “Pasian in amah nusia zo hi; amah a hon ding om lo ahih ciangin delh-in man ni,” kici-te hi.
 
-**ZVS:** “Pasian in amah nusiazo a, amah a hon ding kuamah omlo ahih manin, amah delhin man ni,” kici uh hi.
+**ZVS:** “Pasian in amah nusiazo a, amah a hon ding kuamah omlo ahih manin, amah delhin man ni,” kici-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -124,9 +124,9 @@
 ### v13
 **EN:** Let them be confounded and consumed that are adversaries to my soul; let them be covered with reproach and dishonour that seek my hurt.
 
-**TDB77:** Kei hong mawhsakte zahhuai-in beimang uh hen la, keima siat nading a zongte, simmawhna leh minsiatna in tuamcip ta hen.
+**TDB77:** Kei hong mawhsakte zahhuai-in beimang-te hen la, keima siat nading a zongte, simmawhna leh minsiatna in tuamcip ta hen.
 
-**ZVS:** Kei hong mawhsakte zahhuai-in beimang uh hen la, keima siatna ding a zongte simmawhna leh minsiatna in tuamcip ta hen.
+**ZVS:** Kei hong mawhsakte zahhuai-in beimang-te hen la, keima siatna ding a zongte simmawhna leh minsiatna in tuamcip ta hen.
 
 **Grammar:** serial verb: -in (and then)
 

@@ -24,11 +24,11 @@
 
 ### leh = and
 **Context:** A conjunction used to list items, often preceding the final item in a series.
-**Example:** Obadiah, leh Hanan ahi uh hi
+**Example:** Obadiah, leh Hanan ahi-te hi
 
 ### khempeuh = all/entirety
 **Context:** Used to emphasize that the preceding group constitutes the whole set.
-**Example:** Hihte khempeuh in Azel’ tapate ahi uh hi
+**Example:** Hihte khempeuh in Azel’ tapate ahi-te hi
 
 ### sanggampa = brother (of the same father/lineage)
 **Context:** Used to denote Eshek as Azel's brother.
@@ -64,7 +64,7 @@
 
 ### pha = reach/amount to
 **Context:** Used to state the total count reached (an hundred and fifty).
-**Example:** mi za leh sawmnga pha uh hi
+**Example:** mi za leh sawmnga pha-te hi
 
 ### minam = tribe/clan
 **Context:** Referring to the tribal affiliation (Benjamin minamte).
@@ -124,13 +124,11 @@
 
 ### biakinn nasemte = temple servants (Nethinims)
 **Context:** The group responsible for service in the sanctuary.
-**Example:** leh biakinn nasemte ahi uh hi
+**Example:** leh biakinn nasemte ahi-te hi
 
 ### pawl khat = a portion/some
 **Context:** Indicates that only a segment of these tribes settled in Jerusalem.
-**Example:** Efraim, leh Manasseh mi pawl khat Jerusalem ah teeng uh
-
-### makai = leader/chief
+**Example:** Efraim, leh Manasseh mi pawl khat Jerusalem ah teeng-te ### makai = leader/chief
 **Context:** Designating the head of a specific family line.
 **Example:** a makai ahi hi
 
@@ -152,7 +150,7 @@
 
 ### beh lutangte = chiefs of the fathers/heads of the clans
 **Context:** The leaders corresponding to the recorded lineages.
-**Example:** beh ciatah beh lutangte ahi uh hi
+**Example:** beh ciatah beh lutangte ahi-te hi
 
 ### ukpipa = ruler/governor (chief)
 **Context:** Used to describe Ahitub's role in the house of God.
@@ -163,7 +161,7 @@
 - **a tapa guk nei** = had six sons
   - Usage: Standard construction for stating the number of male offspring.
 
-- **mi za leh sawmnga pha uh hi** = amounted to one hundred and fifty men
+- **mi za leh sawmnga pha-te hi** = amounted to one hundred and fifty men
   - Usage: Used for stating a total count, often at the end of a descriptive list.
 
 - **Amau’ thumanlohna hangin** = Because of their disobedience
@@ -192,9 +190,9 @@
   - Listing the sons of X: A, B, and C were the sons.
   - Example: Azel’ sanggampa Eshek’ tapate in: a tacil Ulam, a nihna Jeush, leh a thumna Elifelet ahi hi.
 
-- **X khempeuh in Y ahi uh hi**
+- **X khempeuh in Y ahi-te hi**
   - Concluding statement of identity/membership: All of X are Y.
-  - Example: Hihte khempeuh in Azel’ tapate ahi uh hi.
+  - Example: Hihte khempeuh in Azel’ tapate ahi-te hi.
 
 - **X sung panin Y a makai ahi hi**
   - Identification of a leader from a larger group: From among the line of X, Y was the leader.

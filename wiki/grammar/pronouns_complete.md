@@ -54,7 +54,7 @@
 
 ### myself (refl)
 
-- `[TDB77]` *For I know nothing by myself; yet am I not hereby justified: but * → **Bang hang hiam na cih uh leh, mawhsak nadingin ka pumpi tungah ba**
+- `[TDB77]` *For I know nothing by myself; yet am I not hereby justified: but * → **Bang hang hiam na cih-te leh, mawhsak nadingin ka pumpi tungah ba**
 - `[TDB77]` *For though I be free from all men, yet have I made myself servant* → **Keimah in kuamah’ sila ka hih loh hangin mi tampi ka ngah nadingi**
 - `[TDB77]` *I say again, Let no man think me a fool; if otherwise, yet as a f* → **Khatvei ka genin ah, keimah in mihai hi ci-in kuamah in hong um k**
 
@@ -91,7 +91,7 @@
 ### him (obj)
 
 - `[TDB77]` *And Tamar his daughter in law bare him Pharez and Zerah. All the * → **A tapa’ zi Tamar in zong amah tawh Perez leh Zerah nei hi. Judah **
-- `[TDB77]` *The sons also of Hezron, that were born unto him; Jerahmeel, and * → **Ama sung panin a suak Hezron’ tapate in: Jerahme-el, Ram, leh Khe**
+- `[TDB77]` *The sons also of Hezron, that were born unto him; Jerahmeel, and * → **Ama sung panin a suak Hezron’ tapate in: Jerahme-el, gam, leh Khe**
 - `[TDB77]` *And when Azubah was dead, Caleb took unto him Ephrath, which bare* → **Azubah a sih ciangin Kaleb in Efrath ten’pihin, tua nu in amah ta**
 
 ### his (poss)
@@ -126,21 +126,21 @@
 
 ### we (subj)
 
-- `[TDB77]` *Then all Israel gathered themselves to David unto Hebron, saying,* → **Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm uh a**
+- `[TDB77]` *Then all Israel gathered themselves to David unto Hebron, saying,* → **Tua ciangin Israel mi khempeuh David kiang Hebron ah kikhawm-te a**
 - `[TDB77]` *And let us bring again the ark of our God to us: for we enquired * → **Tua ciangin thuciamna singkuang eite kiangah la kik ni; bang hang**
-- `[TDB77]` *Now therefore, our God, we thank thee, and praise thy glorious na* → **Tu-in nangma tungah ka nuam uh hi, kote’ Pasian aw, a minthang na**
+- `[TDB77]` *Now therefore, our God, we thank thee, and praise thy glorious na* → **Tu-in nangma tungah ka nuam-te hi, kote’ Pasian aw, a minthang na**
 
 ### us (obj)
 
 - `[TDB77]` *And let us bring again the ark of our God to us: for we enquired * → **Tua ciangin thuciamna singkuang eite kiangah la kik ni; bang hang**
-- `[TDB77]` *For the preaching of the cross is to them that perish foolishness* → **Bang hang hiam na cih uh leh, siatna a thuakte’ ading singlamteh **
+- `[TDB77]` *For the preaching of the cross is to them that perish foolishness* → **Bang hang hiam na cih-te leh, siatna a thuakte’ ading singlamteh **
 - `[TDB77]` *But God hath revealed them unto us by his Spirit: for the Spirit * → **Pasian in ama Kha Siangtho tawh tua nate eite hong lak hi. Bang c**
 
 ### our (poss adj)
 
 - `[TDB77]` *And let us bring again the ark of our God to us: for we enquired * → **Tua ciangin thuciamna singkuang eite kiangah la kik ni; bang hang**
 - `[TDB77]` *Be of good courage, and let us behave ourselves valiantly for our* → **Hang in, i mite ading leh i Pasian’ khuapite’ ading pasal tat ni;**
-- `[TDB77]` *Now therefore, our God, we thank thee, and praise thy glorious na* → **Tu-in nangma tungah ka nuam uh hi, kote’ Pasian aw, a minthang na**
+- `[TDB77]` *Now therefore, our God, we thank thee, and praise thy glorious na* → **Tu-in nangma tungah ka nuam-te hi, kote’ Pasian aw, a minthang na**
 
 ### ourselves (refl)
 
@@ -151,24 +151,24 @@
 ### you/ye (subj)
 
 - `[TDB77]` *And David said unto all the congregation of Israel, If it seem go* → **Tua ciangin David in Israel a kikhawm khempeuhte kiangah, “Note i**
-- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei uh a, a kisehsa bang danin k**
+- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei-te a, a kisehsa bang danin k**
 - `[TDB77]` *Sing unto him, sing psalms unto him, talk ye of all his wondrous * → **Amah la sak un, phatna la amah sak un la, a lamdang ama septe khe**
 
 ### your (poss adj)
 
 - `[TDB77]` *Saying, Unto thee will I give the land of Canaan, the lot of your* → **“Nangma tungah Kanaan gam hong pia-in, gamhluah dingin na tanh di**
-- `[TDB77]` *Now set your heart and your soul to seek the* → **Tu-in Topa na Pasian uh a zong dingin na ngaihsutna uh leh na lun**
+- `[TDB77]` *Now set your heart and your soul to seek the* → **Tu-in Topa na Pasian-te a zong dingin na ngaihsutna-te leh na lun**
 - `[TDB77]` *I thank my God always on your behalf, for the grace of God which * → **Khazih’ thu tecipan’na nomau lakah a kip ahih ciangin**
 
 ### they (subj)
 
 - `[TDB77]` *And they dwelt at Beer–sheba, and Moladah, and Hazar–shual,* → **Amaute Beersheba, Moladah, Hazarshual,**
-- `[TDB77]` *And they smote the rest of the Amalekites that were escaped, and * → **amaute in Amalek mi a suakta a om laite susia uh a, tu ni dongin **
+- `[TDB77]` *And they smote the rest of the Amalekites that were escaped, and * → **amaute in Amalek mi a suakta a om laite susia-te a, tu ni dongin **
 - `[TDB77]` *And they dwelt in Gilead in Bashan, and in her towns, and in all * → **amaute Gilead gam sung, Bashan gam leh a khuapite sung, leh Sharo**
 
 ### them (obj)
 
-- `[TDB77]` *And they gave them Hebron in the land of Judah, and the suburbs t* → **Judah gam sungah Hebron leh a kiim lononate amaute tungah pia uh **
+- `[TDB77]` *And they gave them Hebron in the land of Judah, and the suburbs t* → **Judah gam sungah Hebron leh a kiim lononate amaute tungah pia-te **
 - `[TDB77]` *And Mikloth begat Shimeah. And these also dwelt with their brethr* → **leh Mikloth (amah in Shimeah’ pa) ahi hi. Tu-in amau’ suan leh kh**
 - `[TDB77]` *And Phinehas the son of Eleazar was the ruler over them in time p* → **Eleazar’ tapa Finehas in a beisa hun sungah amaute in ukpa ahi hi**
 
@@ -181,8 +181,8 @@
 ### themselves (refl)
 
 - `[TDB77]` *So the priests and the Levites sanctified themselves to bring up * → **Tua ahih ciangin Israel Pasian, Topa’ thuciamna singkuang a paipi**
-- `[TDB77]` *And when the Syrians saw that they were smitten before Israel, th* → **Israelte in amaute a zawhna thu Siria mite in a muh uh ciangin am**
-- `[TDB77]` *They stoop, they bow down together; they could not deliver the bu* → **Amaute kunin, amaute puksuk khawm uh a, amaute in vangik pengsak **
+- `[TDB77]` *And when the Syrians saw that they were smitten before Israel, th* → **Israelte in amaute a zawhna thu Siria mite in a muh-te ciangin am**
+- `[TDB77]` *They stoop, they bow down together; they could not deliver the bu* → **Amaute kunin, amaute puksuk khawm-te a, amaute in vangik pengsak **
 
 
 ---
@@ -198,6 +198,6 @@
 **Rule:** All three are correct. `eite` is most common. `kote` = exclusive "we" (our group specifically). `i` = subject prefix directly with verb.
 
 **They vs We — definitive:**
-- They go = `Amaute pai uh hi` (amaute + verb + uh)
+- They go = `Amaute pai-te hi` (amaute + verb + uh)
 - We go = `I pai hi` (i + verb, NO uh)
 - `Amaute i pai hi` = ❌ WRONG (mixes 1pl prefix `i` with 3pl subject `amaute`)

@@ -105,27 +105,27 @@
 ### v11
 **EN:** For they intended evil against thee: they imagined a mischievous device, which they are not able to perform.
 
-**TDB77:** Na langah siat nading vaihawm a, gitlohna a bawl uh leh, tangtung lo ding uh hi.
+**TDB77:** Na langah siat nading vaihawm a, gitlohna a bawl-te leh, tangtung lo ding-te hi.
 
-**ZVS:** Nangma langah siatna ding vaihawmin, gitlohna a bawl uh hangin tangtunglo ding uh hi.
+**ZVS:** Nangma langah siatna ding vaihawmin, gitlohna a bawl-te hangin tangtunglo ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v12
 **EN:** Therefore shalt thou make them turn their back, when thou shalt make ready thine arrows upon thy strings against the face of them.
 
-**TDB77:** Bang hang hiam cih leh amaute na taisak ding hi; na thalte tawh a maitang uh na ngim ding hi.
+**TDB77:** Bang hang hiam cih leh amaute na taisak ding hi; na thalte tawh a maitang-te na ngim ding hi.
 
-**ZVS:** Bang hang hiam cih leh amaute na taisak ding a, na thal tawh a maitang uh na ngim ding hi.
+**ZVS:** Bang hang hiam cih leh amaute na taisak ding a, na thal tawh a maitang-te na ngim ding hi.
 
 **Grammar:** future: will
 
 ### v13
 **EN:** Be thou exalted,
 
-**TDB77:** Topa aw, na hatna hangin nang hong kipahtawi ta hen! Nangma vangliatna la sa-in kong phat ding uh hi.
+**TDB77:** Topa aw, na hatna hangin nang hong kipahtawi ta hen! Nangma vangliatna la sa-in kong phat ding-te hi.
 
-**ZVS:** { Topa } aw, na hatna hangin nang hong kipahtawi ta hen! Nangma vangliatna la sa-in ka hong phat ding uh hi.
+**ZVS:** { Topa } aw, na hatna hangin nang hong kipahtawi ta hen! Nangma vangliatna la sa-in ka hong phat ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

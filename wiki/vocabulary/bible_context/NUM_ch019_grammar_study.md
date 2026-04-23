@@ -43,9 +43,9 @@
 ### v3
 **EN:** And ye shall give her unto Eleazar the priest, that he may bring her forth without the camp, and one shall slay her before his face:
 
-**TDB77:** Siampi Eleazar kiangah na pia ding uh a, giahphual pua lamah kipaipihin ama mai-ah kigo ding hi;
+**TDB77:** Siampi Eleazar kiangah na pia ding-te a, giahphual pua lamah kipaipihin ama mai-ah kigo ding hi;
 
-**ZVS:** Siampi Eleazar kiangah na pia ding uh a, giahphual pualamah kipaipihin ama mai-ah kigo ding hi.
+**ZVS:** Siampi Eleazar kiangah na pia ding-te a, giahphual pualamah kipaipihin ama mai-ah kigo ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -167,9 +167,9 @@
 ### v17
 **EN:** And for an unclean person they shall take of the ashes of the burnt heifer of purification for sin, and running water shall be put thereto in a vessel:
 
-**TDB77:** Amaute in a nin mipa adingin a kihal khialhna hanga biakna vute la-in beel sung khatah tui luang lai tawh hel ding uh hi;
+**TDB77:** Amaute in a nin mipa adingin a kihal khialhna hanga biakna vute la-in beel sung khatah tui luang lai tawh hel ding-te hi;
 
-**ZVS:** “Amaute in a nin mipa-a' dingin a kihal khialhna hanga biakna vute la-in beel sung khatah tui luanglai tawh hel ding uh hi.
+**ZVS:** “Amaute in a nin mipa-a' dingin a kihal khialhna hanga biakna vute la-in beel sung khatah tui luanglai tawh hel ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

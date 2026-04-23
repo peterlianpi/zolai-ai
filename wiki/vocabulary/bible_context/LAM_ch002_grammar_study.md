@@ -27,9 +27,9 @@
 ### v1
 **EN:** How hath the Lord covered the daughter of Zion with a cloud in his anger, and cast down from heaven unto the earth the beauty of Israel, and remembered not his footstool in the day of his anger!
 
-**TDB77:** Topa in a heh manin khuamial tawh Jerusalem a tuamcip hi. A vantung minthan’na teng uh kisiatna a suaksak hi. Amah in a heh ni-in a Biakinnpi nangawn a susia hi.
+**TDB77:** Topa in a heh manin khuamial tawh Jerusalem a tuamcip hi. A vantung minthan’na teng-te kisiatna a suaksak hi. Amah in a heh ni-in a Biakinnpi nangawn a susia hi.
 
-**ZVS:** Topa in a heh manin Jerusalem khuapi a mialcipsak hi. A vantung minthan'na teng uh kisiatna a suaksak hi. Amah in a heh ni-in a Biakinnpi nangawn a susia hi.
+**ZVS:** Topa in a heh manin Jerusalem khuapi a mialcipsak hi. A vantung minthan'na teng-te kisiatna a suaksak hi. Amah in a heh ni-in a Biakinnpi nangawn a susia hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix
 
@@ -70,18 +70,18 @@
 ### v6
 **EN:** And he hath violently taken away his tabernacle, as if it were of a garden: he hath destroyed his places of the assembly: the
 
-**TDB77:** Amah i biakna Biakinnpi a zan gawpsak hi. Amah in ni siangtho nite leh sabbath nite a beisak hi. Kumpite leh siampite in a nasia Ama hehna a thuak khawm uh hi.
+**TDB77:** Amah i biakna Biakinnpi a zan gawpsak hi. Amah in ni siangtho nite leh sabbath nite a beisak hi. Kumpite leh siampite in a nasia Ama hehna a thuak khawm-te hi.
 
-**ZVS:** Amah in biakna Biakinnpi a zan gawpsak hi. Amah in biakna ni siangtho nite leh Sabbath nite a beisak hi. Kumpite leh siampite in a nasia ama hehna a thuakkhawm uh hi.
+**ZVS:** Amah in biakna Biakinnpi a zan gawpsak hi. Amah in biakna ni siangtho nite leh Sabbath nite a beisak hi. Kumpite leh siampite in a nasia ama hehna a thuakkhawm-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** The Lord hath cast off his altar, he hath abhorred his sanctuary, he hath given up into the hand of the enemy the walls of her palaces; they have made a noise in the house of the
 
-**TDB77:** Topa in a siangtho biakinnpi leh a biakna tau deih nawn lo a, biakinn kulhpi galte a susiasak hi. Lungdamna tawh Amah i biakna munah, amaute gal zoin a kiko uh hi.
+**TDB77:** Topa in a siangtho biakinnpi leh a biakna tau deih nawn lo a, biakinn kulhpi galte a susiasak hi. Lungdamna tawh Amah i biakna munah, amaute gal zoin a kiko-te hi.
 
-**ZVS:** Topa in a siangtho biakinnpi leh a biakna tau deih nawnlo a, biakinn kulhpi, galte a susiasak hi. Lungdamna tawh amah i biakna munah, amaute gualzo-in a kiko uh hi.
+**ZVS:** Topa in a siangtho biakinnpi leh a biakna tau deih nawnlo a, biakinn kulhpi, galte a susiasak hi. Lungdamna tawh amah i biakna munah, amaute gualzo-in a kiko-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -97,36 +97,36 @@
 ### v9
 **EN:** Her gates are sunk into the ground; he hath destroyed and broken her bars: her king and her princes are among the Gentiles: the law is no more; her prophets also find no vision from the
 
-**TDB77:** Kulh kongpite cim gawpin lei in vukcip a, kongpi kalhna zawlte a kitan gawp hi. Kumpipa leh miliante salin a om khin uh hi. Thukham kihilh nawn lo a, kamsangte in Pasian kiang pan mang a mu nawn kei uh hi.
+**TDB77:** Kulh kongpite cim gawpin lei in vukcip a, kongpi kalhna zawlte a kitan gawp hi. Kumpipa leh miliante salin a om khin-te hi. Thukham kihilh nawn lo a, kamsangte in Pasian kiang pan mang a mu nawn kei-te hi.
 
-**ZVS:** Kulhkongpite cim gawpin lei in vukcip a, kongpi kalhna zawlte a kitan gawp hi. Kumpipa leh miliante salin a om khin uh hi. Thukham kihilh nawnlo a, kamsangte in Pasian kiang pan maang a mu nawn kei uh hi.
+**ZVS:** Kulhkongpite cim gawpin lei in vukcip a, kongpi kalhna zawlte a kitan gawp hi. Kumpipa leh miliante salin a om khin-te hi. Thukham kihilh nawnlo a, kamsangte in Pasian kiang pan maang a mu nawn kei-te hi.
 
 **Grammar:** completed: already done | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** The elders of the daughter of Zion sit upon the ground, and keep silence: they have cast up dust upon their heads; they have girded themselves with sackcloth: the virgins of Jerusalem hang down their heads to the ground.
 
-**TDB77:** Jerusalem puteekte in pau loin leilakah tu uh a, dahna lim lahna in ippi puan silhin a lu zang uh leivui a buak uh hi. Jerusalem nungak note in a kun ngelhngalh uh hi.
+**TDB77:** Jerusalem puteekte in pau loin leilakah tu-te a, dahna lim lahna in ippi puan silhin a lu zang-te leivui a buak-te hi. Jerusalem nungak note in a kun ngelhngalh-te hi.
 
-**ZVS:** Jerusalem puteekte pauloin leilakah tu uh a, dahna lim lahna-in puanhampi silhin a lu zang uh leivui a buak uh hi. Jerusalem nungaknote a kun ngelhngalh uh hi.
+**ZVS:** Jerusalem puteekte pauloin leilakah tu-te a, dahna lim lahna-in puanhampi silhin a lu zang-te leivui a buak-te hi. Jerusalem nungaknote a kun ngelhngalh-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** Mine eyes do fail with tears, my bowels are troubled, my liver is poured upon the earth, for the destruction of the daughter of my people; because the children and the sucklings swoon in the streets of the city.
 
-**TDB77:** Ka kah kahna-in ka mit paat gawp a, ka lungsim a gim lua mahmah hi. Ka mite kisiatna hangin dahin husamin ka bah gawp hi. Naupangte leh naungeekte kongzing lakah a sibup uh hi.
+**TDB77:** Ka kah kahna-in ka mit paat gawp a, ka lungsim a gim lua mahmah hi. Ka mite kisiatna hangin dahin husamin ka bah gawp hi. Naupangte leh naungeekte kongzing lakah a sibup-te hi.
 
-**ZVS:** Ka kahkahna-in ka mit paatgawp ta a, ka lungsim gim lua mahmah hi. Ka mite a kisiatna hangin dahin husamin ka bahgawp hi. Naupangte leh nungakte kongzing lakah sibup uh hi.
+**ZVS:** Ka kahkahna-in ka mit paatgawp ta a, ka lungsim gim lua mahmah hi. Ka mite a kisiatna hangin dahin husamin ka bahgawp hi. Naupangte leh nungakte kongzing lakah sibup-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** They say to their mothers, Where is corn and wine? when they swooned as the wounded in the streets of the city, when their soul was poured out into their mothers' bosom.
 
-**TDB77:** Gilkial dangtaakin nu aw, ci-in kapkap uh a, a liam a bai bangin kongzing tengah a tuk pekpak uh hi. Tua bangin damdamin a nute uh ang ah a si uh hi.
+**TDB77:** Gilkial dangtaakin nu aw, ci-in kapkap-te a, a liam a bai bangin kongzing tengah a tuk pekpak-te hi. Tua bangin damdamin a nute-te ang ah a si-te hi.
 
-**ZVS:** Gilkial dangtakin nu aw, ci-in kapkap uh a, a liam a bai bangin kongzing tengah a tuk pekpak uh hi. Tua bangin damdamin a nute uh ang-ah a si uh hi.
+**ZVS:** Gilkial dangtakin nu aw, ci-in kapkap-te a, a liam a bai bangin kongzing tengah a tuk pekpak-te hi. Tua bangin damdamin a nute-te ang-ah a si-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -142,27 +142,27 @@
 ### v14
 **EN:** Thy prophets have seen vain and foolish things for thee: and they have not discovered thine iniquity, to turn away thy captivity; but have seen for thee false burdens and causes of banishment.
 
-**TDB77:** Na kamsangte un zuau thu longal thudang gen ding nei lo uh a, a thu hilhna uh khemna thu bek ahih manin, a khial na hih lam uh a hong hilh tel kei uh hi. Amaute in lam hong lak khial uh a, kisikkik theih na’ng hun a hong pia kei uh hi.
+**TDB77:** Na kamsangte un zuau thu longal thudang gen ding nei lo-te a, a thu hilhna-te khemna thu bek ahih manin, a khial na hih lam-te a hong hilh tel kei-te hi. Amaute in lam hong lak khial-te a, kisikkik theih na’ng hun a hong pia kei-te hi.
 
-**ZVS:** Na kamsangte un zuauthu longal thudang gen ding neilo uh a, a thuhilhna uh khemna thu bek ahih manin, a khial na hihlam uh a hong hilhtel kei uh hi. Amaute in lam hong lakkhial uh a, kisikkik theihna ding hun a hong pia kei uh hi.
+**ZVS:** Na kamsangte un zuauthu longal thudang gen ding neilo-te a, a thuhilhna-te khemna thu bek ahih manin, a khial na hihlam-te a hong hilhtel kei-te hi. Amaute in lam hong lakkhial-te a, kisikkik theihna ding hun a hong pia kei-te hi.
 
 **Grammar:** negation: kei | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** All that pass by clap their hands at thee; they hiss and wag their head at the daughter of Jerusalem, saying, Is this the city that men call The perfection of beauty, The joy of the whole earth?
 
-**TDB77:** Tua khuapi siatna a mu peuh in awi-in khut a betsan uh hi. A kisia Jerusalem a muh uh ciangin awi-in, a lu uh pei-in a nuihsan uh hi. “Khuapi it huai i cih hih maw, leitung bup kisak theihpih hih khua maw?” ci-in a nui uh hi.
+**TDB77:** Tua khuapi siatna a mu peuh in awi-in khut a betsan-te hi. A kisia Jerusalem a muh-te ciangin awi-in, a lu-te pei-in a nuihsan-te hi. “Khuapi it huai i cih hih maw, leitung bup kisak theihpih hih khua maw?” ci-in a nui-te hi.
 
-**ZVS:** Tua khuapi a siatna a mu mi peuhmah in awi-in a khut a betsan uh hi. A kisia Jerusalem khuapi a muh uh ciangin awi-in a lu uh pei-in a nuihsan uh hi. “Khuapi it-huai i cih hih maw, leitung bup in a kisaktheihpih hih khua maw,” ci-in a nui uh hi.
+**ZVS:** Tua khuapi a siatna a mu mi peuhmah in awi-in a khut a betsan-te hi. A kisia Jerusalem khuapi a muh-te ciangin awi-in a lu-te pei-in a nuihsan-te hi. “Khuapi it-huai i cih hih maw, leitung bup in a kisaktheihpih hih khua maw,” ci-in a nui-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** All thine enemies have opened their mouth against thee: they hiss and gnash the teeth: they say, We have swallowed her up: certainly this is the day that we looked for; we have found, we have seen it.
 
-**TDB77:** Na galte in hong simmawh uh a, muhdahna tawh a hong siik-et uh hi. “Khuapi susia zo ta hang! I suksiat zawh mateng i cihcih niloh mah hi” ci-in a hagawi uh hi.
+**TDB77:** Na galte in hong simmawh-te a, muhdahna tawh a hong siik-et-te hi. “Khuapi susia zo ta hang! I suksiat zawh mateng i cihcih niloh mah hi” ci-in a hagawi-te hi.
 
-**ZVS:** Na galte in nang hong simmawh uh a, muhdahna tawh a hong sik-et uh hi. “Khuapi susiazo ta hang! I suksiatzawh mateng i cihcih niloh mah hi,” ci-in a hagawi uh hi.
+**ZVS:** Na galte in nang hong simmawh-te a, muhdahna tawh a hong sik-et-te hi. “Khuapi susiazo ta hang! I suksiatzawh mateng i cihcih niloh mah hi,” ci-in a hagawi-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -185,36 +185,36 @@
 ### v19
 **EN:** Arise, cry out in the night: in the beginning of the watches pour out thine heart like water before the face of the Lord: lift up thy hands toward him for the life of thy young children, that faint for hunger in the top of every street.
 
-**TDB77:** Zanin tho themthum in la, Pasian tungah kiko in. Na tate in hehpihna ngah nadingin na lungsim khempeuh pia in. Kongzing khempeuh ah naupangte puksi khin dektak uh hi.
+**TDB77:** Zanin tho themthum in la, Pasian tungah kiko in. Na tate in hehpihna ngah nadingin na lungsim khempeuh pia in. Kongzing khempeuh ah naupangte puksi khin dektak-te hi.
 
-**ZVS:** Zanin tho zelzel in la, Pasian tungah kiko in. Na tate in hehpihna a ngahna dingin na lungsim khempeuh pia in. Kongzing khempeuhah naupangte puksi khin dektak uh hi.
+**ZVS:** Zanin tho zelzel in la, Pasian tungah kiko in. Na tate in hehpihna a ngahna dingin na lungsim khempeuh pia in. Kongzing khempeuhah naupangte puksi khin dektak-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** Behold, O
 
-**TDB77:** Topa aw hong en in. Na bawlsiat mite hong en dih in. Nupite in a it a tate’ sa uh ne tanghial uh hi. Siampite leh kamsangte in Biakinnpi sung mahmah ah thahna thuak uh hi.
+**TDB77:** Topa aw hong en in. Na bawlsiat mite hong en dih in. Nupite in a it a tate’ sa-te ne tanghial-te hi. Siampite leh kamsangte in Biakinnpi sung mahmah ah thahna thuak-te hi.
 
-**ZVS:** { Topa } aw hong en in. Na bawlsiat mite hong en dih in. Nupite in a it mahmah uh a tate uh' sa ne tanghial uh hi. Siampite leh kamsangte in biakinnpi sung mahmahah thahna thuak uh hi.
+**ZVS:** { Topa } aw hong en in. Na bawlsiat mite hong en dih in. Nupite in a it mahmah-te a tate uh' sa ne tanghial-te hi. Siampite leh kamsangte in biakinnpi sung mahmahah thahna thuak-te hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v21
 **EN:** The young and the old lie on the ground in the streets: my virgins and my young men are fallen by the sword; thou hast slain them in the day of thine anger; thou hast killed, and not pitied.
 
-**TDB77:** Khangno leh khanghamte kongzing tengah si uh hi. Galte in nungak tangval teng namsau tawh a thatlum uh hi. Amaute hehpih loin na heh ni-in na thatlum sak hi.
+**TDB77:** Khangno leh khanghamte kongzing tengah si-te hi. Galte in nungak tangval teng namsau tawh a thatlum-te hi. Amaute hehpih loin na heh ni-in na thatlum sak hi.
 
-**ZVS:** Khangno leh khanghamte kongzing tengah si uh hi. Galte in nungak leh tangvalte namsau tawh a thatlum uh hi. Amaute hehpih loin na heh ni-in na thatlumsak hi.
+**ZVS:** Khangno leh khanghamte kongzing tengah si-te hi. Galte in nungak leh tangvalte namsau tawh a thatlum-te hi. Amaute hehpih loin na heh ni-in na thatlumsak hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v22
 **EN:** Thou hast called as in a solemn day my terrors round about, so that in the day of the
 
-**TDB77:** Kei hong dipkua sak dingin ka galte pawisiim ding bangin na sam a, amaute in hong umcih uh a, na heh ni-in a suakta zo khat beek a om kei hi. Ka hawmthawh ka it ka tate hong thahsak uh hi.
+**TDB77:** Kei hong dipkua sak dingin ka galte pawisiim ding bangin na sam a, amaute in hong umcih-te a, na heh ni-in a suakta zo khat beek a om kei hi. Ka hawmthawh ka it ka tate hong thahsak-te hi.
 
-**ZVS:** Kei a hong dipkuasak dingin ka galte pen pawi siim ding bangin na sam a, amaute in hong umcih uh hi. Nangma heh ni-in a suaktazo khat beek a om kei hi. Ka hawmthawh ka it ka tate a hong thahsak uh hi.
+**ZVS:** Kei a hong dipkuasak dingin ka galte pen pawi siim ding bangin na sam a, amaute in hong umcih-te hi. Nangma heh ni-in a suaktazo khat beek a om kei hi. Ka hawmthawh ka it ka tate a hong thahsak-te hi.
 
 **Grammar:** causative: -sak suffix | serial verb: -in (and then) | purpose: in order to | negation: kei | plural: uh marker
 

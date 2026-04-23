@@ -51,34 +51,34 @@
 ### v4
 **EN:** And his sons went and feasted in their houses, every one his day; and sent and called for their three sisters to eat and to drink with them.
 
-**TDB77:** Ama tapate in inn khat panin inn khatah a ban banin pawi bawlin pai kawikawi uh a, tua pawi siim dingin a sanggam numei thumte uh zong sam uh hi.
+**TDB77:** Ama tapate in inn khat panin inn khatah a ban banin pawi bawlin pai kawikawi-te a, tua pawi siim dingin a sanggam numei thumte-te zong sam-te hi.
 
-**ZVS:** Ama tapate in inn khat panin inn khatah a ban banin pawi bawlin pai kawikawi uh a, tua pawi a siim dingin a sanggam numei thumte uh zong a sam kawikawi uh hi.
+**ZVS:** Ama tapate in inn khat panin inn khatah a ban banin pawi bawlin pai kawikawi-te a, tua pawi a siim dingin a sanggam numei thumte-te zong a sam kawikawi-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v5
 **EN:** And it was so, when the days of their feasting were gone about, that Job sent and sanctified them, and rose up early in the morning, and offered burnt offerings according to the number of them all: for Job said, It may be that my sons have sinned, and cursed God in their hearts. Thus did Job continually.
 
-**TDB77:** Tua banga a pawi bawl uh vial khat a kikhit ciangin Job in a tapate samin amaute sian’suah a, zingsangin tho baihin a ta phazah tawh kizui-in meihal biakna pia hi; bang hang hiam cih leh Job in, “Ka tate khialin, a lungsim sung uh ah Pasian samsia kha thei ding uh hi,” a ci hi. Hih bangin Job in hih tawntung hi.
+**TDB77:** Tua banga a pawi bawl-te vial khat a kikhit ciangin Job in a tapate samin amaute sian’suah a, zingsangin tho baihin a ta phazah tawh kizui-in meihal biakna pia hi; bang hang hiam cih leh Job in, “Ka tate khialin, a lungsim sung-te ah Pasian samsia kha thei ding-te hi,” a ci hi. Hih bangin Job in hih tawntung hi.
 
-**ZVS:** Tua banga a pawi bawl uh gual khat a kikhit ciangin Job in a tapate samin amaute sian'suah a, zingsangin tho baihin a ta phazah tawh kizui-in meihal biakna a pia hi; bang hang hiam cih leh Job in, “Ka tate khialin, a lungsim sung uhah Pasian samsia khathei ding uh hi,” a ci hi. Tu-a bangin Job in hih tawntung hi.
+**ZVS:** Tua banga a pawi bawl-te gual khat a kikhit ciangin Job in a tapate samin amaute sian'suah a, zingsangin tho baihin a ta phazah tawh kizui-in meihal biakna a pia hi; bang hang hiam cih leh Job in, “Ka tate khialin, a lungsim sung uhah Pasian samsia khathei ding-te hi,” a ci hi. Tu-a bangin Job in hih tawntung hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Now there was a day when the sons of God came to present themselves before the
 
-**TDB77:** Nikhat ni-in Topa’ omna-ah vantungmite hong pai uh a, tuate lakah Satan zong hong pai hi.
+**TDB77:** Nikhat ni-in Topa’ omna-ah vantungmite hong pai-te a, tuate lakah Satan zong hong pai hi.
 
-**ZVS:** Ni khat ni-in { Topa' } omna-ah vantung mite hong pai uh a, tuate lakah Satan zong hong kihel hi.
+**ZVS:** Ni khat ni-in { Topa' } omna-ah vantung mite hong pai-te a, tuate lakah Satan zong hong kihel hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v7
 **EN:** And the
 
-**TDB77:** Topa in Satan kiangah, “Koi pan-a hong pai na hi uh hiam?” a ci hi. Satan in Topa dawngin, “Leitung khempeuh a lu pan a taw dong vak kawikawi-in ka va pheklekna mun panin kong pai hi,” a ci hi.
+**TDB77:** Topa in Satan kiangah, “Koi pan-a hong pai na hi-te hiam?” a ci hi. Satan in Topa dawngin, “Leitung khempeuh a lu pan a taw dong vak kawikawi-in ka va pheklekna mun panin kong pai hi,” a ci hi.
 
 **ZVS:** { Topa } in Satan kiangah, “Koi pana hong pai na hi hiam?” a ci hi. Satan in { Topa } dawngin, “Leitung khempeuh a lu pan a taw dong vak kawikawi-in ka va phehlehna mun panin ka hong pai hi,” a ci hi.
 
@@ -132,36 +132,36 @@
 ### v13
 **EN:** And there was a day when his sons and his daughters were eating and drinking wine in their eldest brother's house:
 
-**TDB77:** Nikhat ni-in a tapate leh a tanute in a u pen uh inn-ah an ne zu ne-in om uh hi;
+**TDB77:** Nikhat ni-in a tapate leh a tanute in a u pen-te inn-ah an ne zu ne-in om-te hi;
 
-**ZVS:** Ni khat, a tapate leh a tanute in a u pen uh inn-ah an ne zu ne-in om uh hi.
+**ZVS:** Ni khat, a tapate leh a tanute in a u pen-te inn-ah an ne zu ne-in om-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v14
 **EN:** And there came a messenger unto Job, and said, The oxen were plowing, and the asses feeding beside them:
 
-**TDB77:** kamtai khat Job kiangah hong tungin, “Bawngtalte in lo kho-in, tuate gei-ah late gamta uh hi;
+**TDB77:** kamtai khat Job kiangah hong tungin, “Bawngtalte in lo kho-in, tuate gei-ah late gamta-te hi;
 
-**ZVS:** Kamtai khat Job kiangah hong tungin, “Bawngtalte in lo kho-in, tuate gei-ah late gamta uh hi.
+**ZVS:** Kamtai khat Job kiangah hong tungin, “Bawngtalte in lo kho-in, tuate gei-ah late gamta-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And the Sabeans fell upon them, and took them away; yea, they have slain the servants with the edge of the sword; and I only am escaped alone to tell thee.
 
-**TDB77:** tua lai takin Seba mite hong pai-in ganhingte hong sut a, namsau tawh gancingte that khin uh hi; hih thu hong zahsak thei dingin kei bek kong suakta hi,” a ci hi.
+**TDB77:** tua lai takin Seba mite hong pai-in ganhingte hong sut a, namsau tawh gancingte that khin-te hi; hih thu hong zahsak thei dingin kei bek kong suakta hi,” a ci hi.
 
-**ZVS:** Tua laitakin Seba mite hong pai-in ganhingte hong sut a, namsau tawh gancingte thatkhin uh hi. Hih thu a hong zasak thei dingin kei bek kong suakta hi,” a ci hi.
+**ZVS:** Tua laitakin Seba mite hong pai-in ganhingte hong sut a, namsau tawh gancingte thatkhin-te hi. Hih thu a hong zasak thei dingin kei bek kong suakta hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | completed: already done | plural: uh marker
 
 ### v16
 **EN:** While he was yet speaking, there came also another, and said, The fire of God is fallen from heaven, and hath burned up the sheep, and the servants, and consumed them; and I only am escaped alone to tell thee.
 
-**TDB77:** Amah in thugen a khit ma-in kamtai dang khat hong tungin, “Vantung panin keek hong kia a, tuute leh tuucingte kha-in kangtum uh hi; hih thu nang kiangah hong ko thei dingin kei bek kong suakta hi,” a ci hi.
+**TDB77:** Amah in thugen a khit ma-in kamtai dang khat hong tungin, “Vantung panin keek hong kia a, tuute leh tuucingte kha-in kangtum-te hi; hih thu nang kiangah hong ko thei dingin kei bek kong suakta hi,” a ci hi.
 
-**ZVS:** Amah in a thugen a khit ma-in kamtai dang khat hong tungin, “Vantung panin keek hong kia a, tuute leh tuucingte kha-in kangtum uh hi. Hih thu nang kiangah a hong ko thei dingin kei bek kong suakta hi,” a ci hi.
+**ZVS:** Amah in a thugen a khit ma-in kamtai dang khat hong tungin, “Vantung panin keek hong kia a, tuute leh tuucingte kha-in kangtum-te hi. Hih thu nang kiangah a hong ko thei dingin kei bek kong suakta hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -177,9 +177,9 @@
 ### v18
 **EN:** While he was yet speaking, there came also another, and said, Thy sons and thy daughters were eating and drinking wine in their eldest brother's house:
 
-**TDB77:** Amah in a thugen a khit ma-in kamtai dang khat hong tung leuleu a, “Na tapate leh na tanute a u pen uh inn-ah an ne zu ne-in om uh hi;
+**TDB77:** Amah in a thugen a khit ma-in kamtai dang khat hong tung leuleu a, “Na tapate leh na tanute a u pen-te inn-ah an ne zu ne-in om-te hi;
 
-**ZVS:** Amah in a thugen a khit ma-in kamtai dang khat hong tung leuleu a, “Na tapate leh na tanute a u pen uh inn-ah an ne zu ne-in om uh hi.
+**ZVS:** Amah in a thugen a khit ma-in kamtai dang khat hong tung leuleu a, “Na tapate leh na tanute a u pen-te inn-ah an ne zu ne-in om-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

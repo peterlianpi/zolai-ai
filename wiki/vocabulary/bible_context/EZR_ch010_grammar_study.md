@@ -27,9 +27,9 @@
 ### v1
 **EN:** Now when Ezra had prayed, and when he had confessed, weeping and casting himself down before the house of God, there assembled unto him out of Israel a very great congregation of men and women and children: for the people wept very sore.
 
-**TDB77:** Ezra in tu-a bangin thu ngenin mawhna pulakin khitui naptui tawh Pasian’ inn mai-ah kunin a om lai takin Israel mi numei, pasal, naupang, mi tampi tak ama kiim-ah hong kikhawmin amaute khempeuh zong nakpi takin a kap uh hi.
+**TDB77:** Ezra in tu-a bangin thu ngenin mawhna pulakin khitui naptui tawh Pasian’ inn mai-ah kunin a om lai takin Israel mi numei, pasal, naupang, mi tampi tak ama kiim-ah hong kikhawmin amaute khempeuh zong nakpi takin a kap-te hi.
 
-**ZVS:** Ezra in tu-a bangin thu ngenin mawhna pulakin khitui naptui tawh Pasian' biakinn mai-ah kunin a om laitakin Israel mi numei, pasal, naupang, mi tampi tak ama kiimah hong kikhawmin amaute khempeuh zong nakpi takin a kap uh hi.
+**ZVS:** Ezra in tu-a bangin thu ngenin mawhna pulakin khitui naptui tawh Pasian' biakinn mai-ah kunin a om laitakin Israel mi numei, pasal, naupang, mi tampi tak ama kiimah hong kikhawmin amaute khempeuh zong nakpi takin a kap-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -45,27 +45,27 @@
 ### v3
 **EN:** Now therefore let us make a covenant with our God to put away all the wives, and such as are born of them, according to the counsel of my lord, and of those that tremble at the commandment of our God; and let it be done according to the law.
 
-**TDB77:** Tua ahih ciangin tu-in, ka Topa uh nangma ngaihsutna leh i Pasian’ thupiakna a kihta mite’ ngaihsutna bangin hih i zite leh a tate uh i mak nading thu i Pasian’ tungah kiciam ni; tua ciangin thukham sunga om bangin gamta ni.
+**TDB77:** Tua ahih ciangin tu-in, ka Topa-te nangma ngaihsutna leh i Pasian’ thupiakna a kihta mite’ ngaihsutna bangin hih i zite leh a tate-te i mak nading thu i Pasian’ tungah kiciam ni; tua ciangin thukham sunga om bangin gamta ni.
 
-**ZVS:** Tua ahih ciangin tu-in, ka topa uh nangma ngaihsutna leh i Pasian' thupiakna a kihta mite' ngaihsutna bangin hih i zite leh a tate uh i makna ding thu i Pasian' tungah kiciam ni. Tua ciangin thukham sunga om bangin gamta ni.
+**ZVS:** Tua ahih ciangin tu-in, ka topa-te nangma ngaihsutna leh i Pasian' thupiakna a kihta mite' ngaihsutna bangin hih i zite leh a tate-te i makna ding thu i Pasian' tungah kiciam ni. Tua ciangin thukham sunga om bangin gamta ni.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v4
 **EN:** Arise; for this matter belongeth unto thee: we also will be with thee: be of good courage, and do it.
 
-**TDB77:** Ding in, nangma nasep ding ahi hi; kote in kong huh ding uh hi. Hang in la, sem in,” a ci hi.
+**TDB77:** Ding in, nangma nasep ding ahi hi; kote in kong huh ding-te hi. Hang in la, sem in,” a ci hi.
 
-**ZVS:** Kipan in; nangma nasep ding ahi hi; kote in kong huh ding uh hi. Hang in la sem in,” a ci hi.
+**ZVS:** Kipan in; nangma nasep ding ahi hi; kote in kong huh ding-te hi. Hang in la sem in,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v5
 **EN:** Then arose Ezra, and made the chief priests, the Levites, and all Israel, to swear that they should do according to this word. And they sware.
 
-**TDB77:** Tua ciangin Ezra ding-in a kigensa bangin amaute a gamtat nadingun a kiciam dingin siampi liante, Levi mite leh Israel khempeuh sawl a, amau zong kiciam pah uh hi.
+**TDB77:** Tua ciangin Ezra ding-in a kigensa bangin amaute a gamtat nadingun a kiciam dingin siampi liante, Levi mite leh Israel khempeuh sawl a, amau zong kiciam pah-te hi.
 
-**ZVS:** Tua ciangin Ezra dingin, a kigensa bangin amaute a gamtatna dingun a kiciam dingin siampi makaite, Levi mite, leh Israel mi khempeuh sawl a, amaute zong a kiciam pah uh hi.
+**ZVS:** Tua ciangin Ezra dingin, a kigensa bangin amaute a gamtatna dingun a kiciam dingin siampi makaite, Levi mite, leh Israel mi khempeuh sawl a, amaute zong a kiciam pah-te hi.
 
 **Grammar:** punctual: immediately/suddenly | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -92,88 +92,88 @@
 
 **TDB77:** leh ni thum sungin a hong tung lo a om leh uliante leh upate’ hoihsakna bangin a neihsa khempeuh kimanin, sal suaksa mihonte panin a kihawlkhiat theih nading thu taangkona khat kibawl hi.
 
-**ZVS:** leh ni thum sungin a hong tunglo a om leh uliante leh upate' hoihsakna bangin a neihsa khempeuh uh kimanin, salsuaksa mihonte panin a kihawlkhiat theihna ding thu taangkona khat kibawl hi.
+**ZVS:** leh ni thum sungin a hong tunglo a om leh uliante leh upate' hoihsakna bangin a neihsa khempeuh-te kimanin, salsuaksa mihonte panin a kihawlkhiat theihna ding thu taangkona khat kibawl hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v9
 **EN:** Then all the men of Judah and Benjamin gathered themselves together unto Jerusalem within three days. It was the ninth month, on the twentieth day of the month; and all the people sat in the street of the house of God, trembling because of this matter, and for the great rain.
 
-**TDB77:** Tua ahih ciangin Judah leh Benjamin mi khempeuh ni thum sungin Jerusalem ah hong kikhawm uh hi; tua in a kha kuana a ni sawmnih ni ahi hi. Tua hi a, Pasian’ inn mai inntual ah hih thu hangin mi khempeuh patau-in guah lakah liingin tu uh hi.
+**TDB77:** Tua ahih ciangin Judah leh Benjamin mi khempeuh ni thum sungin Jerusalem ah hong kikhawm-te hi; tua in a kha kuana a ni sawmnih ni ahi hi. Tua hi a, Pasian’ inn mai inntual ah hih thu hangin mi khempeuh patau-in guah lakah liingin tu-te hi.
 
-**ZVS:** Tua ahih ciangin Judah leh Benjamin mi khempeuh ni thum sungin Jerusalem-ah hong kikhawm uh a, tua pen a kha kuana a ni sawmnih ni ahi hi. Tua hi a, Pasian' biakinn mai inntualah hih thu hangin mi khempeuh patau-in guah lakah lingin a tu uh hi.
+**ZVS:** Tua ahih ciangin Judah leh Benjamin mi khempeuh ni thum sungin Jerusalem-ah hong kikhawm-te a, tua pen a kha kuana a ni sawmnih ni ahi hi. Tua hi a, Pasian' biakinn mai inntualah hih thu hangin mi khempeuh patau-in guah lakah lingin a tu-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And Ezra the priest stood up, and said unto them, Ye have transgressed, and have taken strange wives, to increase the trespass of Israel.
 
-**TDB77:** Tua ciangin siampi Ezra ding to-in amaute kiangah, “Note in gamdang numeite zi-in la-in Israel mite’ mawhna na behlap uh hi.
+**TDB77:** Tua ciangin siampi Ezra ding to-in amaute kiangah, “Note in gamdang numeite zi-in la-in Israel mite’ mawhna na behlap-te hi.
 
-**ZVS:** Tua ciangin siampi Ezra dingto-in amaute kiangah, “Note in gamdang numeite zi-in la-in Israel mite' mawhna na behlap uh hi.
+**ZVS:** Tua ciangin siampi Ezra dingto-in amaute kiangah, “Note in gamdang numeite zi-in la-in Israel mite' mawhna na behlap-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** Now therefore make confession unto the
 
-**TDB77:** Tua ahih ciangin tu-in na pu na pate uh Pasian ahi Topa tungah na mawhna uh pulak un la, ama deihna bangin gamta-in hih gam-a teeng gamdang mite leh gamdang mi ahi na zite uh tawh kikhenin tuam om un,” a ci hi.
+**TDB77:** Tua ahih ciangin tu-in na pu na pate-te Pasian ahi Topa tungah na mawhna-te pulak un la, ama deihna bangin gamta-in hih gam-a teeng gamdang mite leh gamdang mi ahi na zite-te tawh kikhenin tuam om un,” a ci hi.
 
-**ZVS:** Tua ahih ciangin tu-in na pu na pate uh Pasian ahi { Topa' } tungah na mawhna uh pulak un la, ama deihna bangin gamta-in hih gama teng gamdang mite leh gamdang mi ahi na zite uh tawh kikhenin tuam om un,” a ci hi.
+**ZVS:** Tua ahih ciangin tu-in na pu na pate-te Pasian ahi { Topa' } tungah na mawhna-te pulak un la, ama deihna bangin gamta-in hih gama teng gamdang mite leh gamdang mi ahi na zite-te tawh kikhenin tuam om un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v12
 **EN:** Then all the congregation answered and said with a loud voice, As thou hast said, so must we do.
 
-**TDB77:** Tua ciangin a kikhawm mi khempeuh in dawngin kiko uh a, “Hi ta hen; na gen bangin ka hih ding uh hi.
+**TDB77:** Tua ciangin a kikhawm mi khempeuh in dawngin kiko-te a, “Hi ta hen; na gen bangin ka hih ding-te hi.
 
-**ZVS:** Tua ciangin a kikhawm mi khempeuh in dawngin kiko uh a, “Hi ta hen, na gen bangin ka gamta ding uh hi.
+**ZVS:** Tua ciangin a kikhawm mi khempeuh in dawngin kiko-te a, “Hi ta hen, na gen bangin ka gamta ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** But the people are many, and it is a time of much rain, and we are not able to stand without, neither is this a work of one day or two: for we are many that have transgressed in this thing.
 
-**TDB77:** Ahi zongin mi tampi hi hang a, guahzuk laitak zong ahi hi; hih guah lakah ka omsuak zo kei ding uh hi. Tua tham loin hih thu ah eite in mawhna lianpi hih kha ihih manin ni khat ni nih sungin hih nasep a kizo thei ding hi lo hi.
+**TDB77:** Ahi zongin mi tampi hi hang a, guahzuk laitak zong ahi hi; hih guah lakah ka omsuak zo kei ding-te hi. Tua tham loin hih thu ah eite in mawhna lianpi hih kha ihih manin ni khat ni nih sungin hih nasep a kizo thei ding hi lo hi.
 
-**ZVS:** Ahi zongin mi tampi hi hang a, guahzuk laitak zong ahi hi. Hih guah lakah ka omsuak zo kei ding uh hi. Tua thamloin hih thu-ah eite in mawhna lianpi hihkha ihih manin ni khat ni nih sungin hih nasep a kizo thei ding hilo hi.
+**ZVS:** Ahi zongin mi tampi hi hang a, guahzuk laitak zong ahi hi. Hih guah lakah ka omsuak zo kei ding-te hi. Tua thamloin hih thu-ah eite in mawhna lianpi hihkha ihih manin ni khat ni nih sungin hih nasep a kizo thei ding hilo hi.
 
 **Grammar:** future: will | negation: kei | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** Let now our rulers of all the congregation stand, and let all them which have taken strange wives in our cities come at appointed times, and with them the elders of every city, and the judges thereof, until the fierce wrath of our God for this matter be turned from us.
 
-**TDB77:** A kikhawm mihonpite’ tangin i makaite semsak in la, hih thu hangin eite tungah Pasian’ hehna a dam matengin, i khuapite sung khempeuh a, gamdang numei a ten’pih mi khempeuh amau khua sung upate leh thukhente ciat tawh a kiseh hunin i makaite kiangah va kilak uh hen,” a ci uh hi.
+**TDB77:** A kikhawm mihonpite’ tangin i makaite semsak in la, hih thu hangin eite tungah Pasian’ hehna a dam matengin, i khuapite sung khempeuh a, gamdang numei a ten’pih mi khempeuh amau khua sung upate leh thukhente ciat tawh a kiseh hunin i makaite kiangah va kilak-te hen,” a ci-te hi.
 
-**ZVS:** A kikhawm mihonpite' tangin i makaite semsak in la, hih thu hangin eite' tungah Pasian' hehna a dam matengin, i khuapite sung khempeuhah gamdang numei a ten'pih mi khempeuh amau khuasung upate leh thukhente ciat tawh a kiseh hunin i makaite kiangah va kilak uh hen,” a ci uh hi.
+**ZVS:** A kikhawm mihonpite' tangin i makaite semsak in la, hih thu hangin eite' tungah Pasian' hehna a dam matengin, i khuapite sung khempeuhah gamdang numei a ten'pih mi khempeuh amau khuasung upate leh thukhente ciat tawh a kiseh hunin i makaite kiangah va kilak-te hen,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Only Jonathan the son of Asahel and Jahaziah the son of Tikvah were employed about this matter: and Meshullam and Shabbethai the Levite helped them.
 
-**TDB77:** Asahel’ tapa Jonathan leh Tikvah’ tapa Jahzeiah tegel bek in nial uh a, Levi mi Meshullam leh Shabbethai in pan’pih uh hi.
+**TDB77:** Asahel’ tapa Jonathan leh Tikvah’ tapa Jahzeiah tegel bek in nial-te a, Levi mi Meshullam leh Shabbethai in pan’pih-te hi.
 
-**ZVS:** Asahel' tapa Jonathan leh Tikvah' tapa Jahzeiah-te gel bek in hih thu nial uh a, Meshullam leh Levi mi Shabbethai bek in tua a nialte pan'pih uh hi.
+**ZVS:** Asahel' tapa Jonathan leh Tikvah' tapa Jahzeiah-te gel bek in hih thu nial-te a, Meshullam leh Levi mi Shabbethai bek in tua a nialte pan'pih-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v16
 **EN:** And the children of the captivity did so. And Ezra the priest, with certain chief of the fathers, after the house of their fathers, and all of them by their names, were separated, and sat down in the first day of the tenth month to examine the matter.
 
-**TDB77:** Tua hi a, thukham omsa bangin hong ciahkik salsuakte gamta uh hi. Siampi Ezra in amau’ beh ciat tangin beh lutang pawlkhat tengkhia a, tuate khempeh a minin a kilo khia ahi hi. A kha sawmna a ni khat ni-in hih mite a thukan ding uh kipan uh a,
+**TDB77:** Tua hi a, thukham omsa bangin hong ciahkik salsuakte gamta-te hi. Siampi Ezra in amau’ beh ciat tangin beh lutang pawlkhat tengkhia a, tuate khempeh a minin a kilo khia ahi hi. A kha sawmna a ni khat ni-in hih mite a thukan ding-te kipan-te a,
 
-**ZVS:** Tua hi a, thukham omsa bangin, a hong ciahkik salsuakte a gamta uh hi. Siampi Ezra in amau' beh ciat tangin beh lutang pawlkhat tengkhia a, tuate khempeuh a minin a kilokhia ahi hi. A kha sawmna a ni khat ni-in hih mite a thukan ding uh kipan uh a,
+**ZVS:** Tua hi a, thukham omsa bangin, a hong ciahkik salsuakte a gamta-te hi. Siampi Ezra in amau' beh ciat tangin beh lutang pawlkhat tengkhia a, tuate khempeuh a minin a kilokhia ahi hi. A kha sawmna a ni khat ni-in hih mite a thukan ding-te kipan-te a,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And they made an end with all the men that had taken strange wives by the first day of the first month.
 
-**TDB77:** a kha masa a ni khat ni-in gamdang numei a ten’pih mite thu a kanna uh zo uh hi.
+**TDB77:** a kha masa a ni khat ni-in gamdang numei a ten’pih mite thu a kanna-te zo-te hi.
 
-**ZVS:** a kha masa a ni khat ni-in gamdang numei a ten'pih mite' thu a kan uh a zo uh hi.
+**ZVS:** a kha masa a ni khat ni-in gamdang numei a ten'pih mite' thu a kan-te a zo-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -187,104 +187,104 @@
 **Grammar:** reciprocal: ki- prefix
 
 ### v19
-**EN:** And they gave their hands that they would put away their wives; and being guilty, they offered a ram of the flock for their trespass.
+**EN:** And they gave their hands that they would put away their wives; and being guilty, they offered a gam of the flock for their trespass.
 
-**TDB77:** Amaute in a zite uh a mak ding uh kiciam uh a, amau’ mawhna hangin biakna-in tuuhon panin tuutal khat hong paipih uh hi.
+**TDB77:** Amaute in a zite-te a mak ding-te kiciam-te a, amau’ mawhna hangin biakna-in tuuhon panin tuutal khat hong paipih-te hi.
 
-**ZVS:** Amaute in a zite a mak ding uh kiciam uh a, amau' mawhna hangin biakna-in tuuhon panin tuutal khat hong paipih uh hi.
+**ZVS:** Amaute in a zite a mak ding-te kiciam-te a, amau' mawhna hangin biakna-in tuuhon panin tuutal khat hong paipih-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And of the sons of Immer; Hanani, and Zebadiah.
 
-**TDB77:** Immer-te beh sung panin Hanani leh Zebadiah ahi uh hi.
+**TDB77:** Immer-te beh sung panin Hanani leh Zebadiah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v21
 **EN:** And of the sons of Harim; Maaseiah, and Elijah, and Shemaiah, and Jehiel, and Uzziah.
 
-**TDB77:** Harim-te beh sung panin Ma-aseiah, Elijah, Shemaiah, Jehiel, leh Uzziah ahi uh hi.
+**TDB77:** Harim-te beh sung panin Ma-aseiah, Elijah, Shemaiah, Jehiel, leh Uzziah ahi-te hi.
 
-**ZVS:** Harim-te beh sung panin Maaseiah, Elijah, Shemaiah, Jehiel, leh Uzziah ahi uh hi.
+**ZVS:** Harim-te beh sung panin Maaseiah, Elijah, Shemaiah, Jehiel, leh Uzziah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** And of the sons of Pashur; Elioenai, Maaseiah, Ishmael, Nethaneel, Jozabad, and Elasah.
 
-**TDB77:** Pashhur-te beh sung panin Elio-enai, Ma-aseiah, Ishmael, Nethanel, Jozabad leh Elasah ahi uh hi.
+**TDB77:** Pashhur-te beh sung panin Elio-enai, Ma-aseiah, Ishmael, Nethanel, Jozabad leh Elasah ahi-te hi.
 
-**ZVS:** Pashhur-te beh sung panin Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad leh Elasah ahi uh hi.
+**ZVS:** Pashhur-te beh sung panin Elioenai, Maaseiah, Ishmael, Nethanel, Jozabad leh Elasah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v23
 **EN:** Also of the Levites; Jozabad, and Shimei, and Kelaiah, (the same is Kelita,) Pethahiah, Judah, and Eliezer.
 
-**TDB77:** Levi mite sung panin Jozabad, Shimei, Kelaiah (Kelite a kici), Pethahiah, Judah leh Eliezer ahi uh hi.
+**TDB77:** Levi mite sung panin Jozabad, Shimei, Kelaiah (Kelite a kici), Pethahiah, Judah leh Eliezer ahi-te hi.
 
-**ZVS:** Levi mite sung panin Jozabad, Shimei, Kelaiah (Kelita a kici), Pethahiah, Judah, leh Eliezer ahi uh hi.
+**ZVS:** Levi mite sung panin Jozabad, Shimei, Kelaiah (Kelita a kici), Pethahiah, Judah, leh Eliezer ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** Of the singers also; Eliashib: and of the porters; Shallum, and Telem, and Uri.
 
-**TDB77:** Lasate sung panin Eliashib ahi hi. Kongcingte sung panin Shallum, Telem leh Uri ahi uh hi.
+**TDB77:** Lasate sung panin Eliashib ahi hi. Kongcingte sung panin Shallum, Telem leh Uri ahi-te hi.
 
-**ZVS:** Lasate sung panin Eliashib ahi hi. Kongcingte sung panin Shallum, Telem, leh Uri ahi uh hi.
+**ZVS:** Lasate sung panin Eliashib ahi hi. Kongcingte sung panin Shallum, Telem, leh Uri ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v25
 **EN:** Moreover of Israel: of the sons of Parosh; Ramiah, and Jeziah, and Malchiah, and Miamin, and Eleazar, and Malchijah, and Benaiah.
 
-**TDB77:** Israel midang sung pan: Parosh-te beh panin, Ramiah, Izziah, Malkhijah, Mijamin, Eleazar, Malkhijah, leh Benaiah ahi uh hi.
+**TDB77:** Israel midang sung pan: Parosh-te beh panin, Ramiah, Izziah, Malkhijah, Mijamin, Eleazar, Malkhijah, leh Benaiah ahi-te hi.
 
-**ZVS:** Israel mi adangte sung pan: Parosh-te beh panin Ramiah, Izziah, Malkhijah, Mijamin, Eleazar, Makhijah, leh Beinaiah ahi uh hi.
+**ZVS:** Israel mi adangte sung pan: Parosh-te beh panin Ramiah, Izziah, Malkhijah, Mijamin, Eleazar, Makhijah, leh Beinaiah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v26
 **EN:** And of the sons of Elam; Mattaniah, Zechariah, and Jehiel, and Abdi, and Jeremoth, and Elijah.
 
-**TDB77:** Elam-te beh panin Mattaniah, Zekhariah, Jehiel, Abdi, Jeremoth, leh Elijah ahi uh hi.
+**TDB77:** Elam-te beh panin Mattaniah, Zekhariah, Jehiel, Abdi, Jeremoth, leh Elijah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v27
 **EN:** And of the sons of Zattu; Elioenai, Eliashib, Mattaniah, and Jeremoth, and Zabad, and Aziza.
 
-**TDB77:** Zattu-te beh panin Elio-enai, Eliashib, Mattaniah, Jeremoth, Zabad, leh Aziza ahi uh hi.
+**TDB77:** Zattu-te beh panin Elio-enai, Eliashib, Mattaniah, Jeremoth, Zabad, leh Aziza ahi-te hi.
 
-**ZVS:** Zattu-te beh panin Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, leh Aziza ahi uh hi.
+**ZVS:** Zattu-te beh panin Elioenai, Eliashib, Mattaniah, Jeremoth, Zabad, leh Aziza ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v28
 **EN:** Of the sons also of Bebai; Jehohanan, Hananiah, Zabbai, and Athlai.
 
-**TDB77:** Bebai-te beh panin Jehohanan, Hananiah, Zabbai, leh Athlai ahi uh hi.
+**TDB77:** Bebai-te beh panin Jehohanan, Hananiah, Zabbai, leh Athlai ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v29
 **EN:** And of the sons of Bani; Meshullam, Malluch, and Adaiah, Jashub, and Sheal, and Ramoth.
 
-**TDB77:** Bani-te beh panin Meshullam, Malluk, Adaiah, Jashub, Sheal leh Jeremoth ahi uh hi.
+**TDB77:** Bani-te beh panin Meshullam, Malluk, Adaiah, Jashub, Sheal leh Jeremoth ahi-te hi.
 
-**ZVS:** Bani-te beh panin Meshulam, Maluk, Adaiah, Jashub, Sheal, leh Jeremoth ahi uh hi.
+**ZVS:** Bani-te beh panin Meshulam, Maluk, Adaiah, Jashub, Sheal, leh Jeremoth ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v30
 **EN:** And of the sons of Pahath–moab; Adna, and Chelal, Benaiah, Maaseiah, Mattaniah, Bezaleel, and Binnui, and Manasseh.
 
-**TDB77:** Pahathmoab-te beh panin Adna, Khelal, Benaiah, Ma-aseiah, Mattaniah, Bezalel, Binnui leh Manasseh ahi uh hi.
+**TDB77:** Pahathmoab-te beh panin Adna, Khelal, Benaiah, Ma-aseiah, Mattaniah, Bezalel, Binnui leh Manasseh ahi-te hi.
 
-**ZVS:** Pahathmoab-te beh panin Adna, Khelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, leh Manasseh ahi uh hi.
+**ZVS:** Pahathmoab-te beh panin Adna, Khelal, Benaiah, Maaseiah, Mattaniah, Bezalel, Binnui, leh Manasseh ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -298,18 +298,18 @@
 ### v32
 **EN:** Benjamin, Malluch, and Shemariah.
 
-**TDB77:** Benjamin, Malluk, leh Shemariah ahi uh hi.
+**TDB77:** Benjamin, Malluk, leh Shemariah ahi-te hi.
 
-**ZVS:** Benjamin, Maluk, leh Shemariah ahi uh hi.
+**ZVS:** Benjamin, Maluk, leh Shemariah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v33
 **EN:** Of the sons of Hashum; Mattenai, Mattathah, Zabad, Eliphelet, Jeremai, Manasseh, and Shimei.
 
-**TDB77:** Hashum-te beh panin Mattenai, Mattattah, Zabad, Elifelet, Jeremai, Manasseh leh Shimei ahi uh hi.
+**TDB77:** Hashum-te beh panin Mattenai, Mattattah, Zabad, Elifelet, Jeremai, Manasseh leh Shimei ahi-te hi.
 
-**ZVS:** Hashum-te beh sung panin Mattenai, Mattattah, Zabad, Elifelet, Jeremai, Manasseh, leh Shimei ahi uh hi.
+**ZVS:** Hashum-te beh sung panin Mattenai, Mattattah, Zabad, Elifelet, Jeremai, Manasseh, leh Shimei ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -335,9 +335,9 @@
 ### v37
 **EN:** Mattaniah, Mattenai, and Jaasau,
 
-**TDB77:** Mattaniah, Mattenai, leh Ja-asu ahi uh hi.
+**TDB77:** Mattaniah, Mattenai, leh Ja-asu ahi-te hi.
 
-**ZVS:** Mattaniah, Mattenai, leh Jaasu ahi uh hi.
+**ZVS:** Mattaniah, Mattenai, leh Jaasu ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -364,27 +364,27 @@
 ### v42
 **EN:** Shallum, Amariah, and Joseph.
 
-**TDB77:** Shallum, Amariah, leh Josef ahi uh hi.
+**TDB77:** Shallum, Amariah, leh Josef ahi-te hi.
 
-**ZVS:** Shalum, Amariah, leh Josef ahi uh hi.
+**ZVS:** Shalum, Amariah, leh Josef ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v43
 **EN:** Of the sons of Nebo; Jeiel, Mattithiah, Zabad, Zebina, Jadau, and Joel, Benaiah.
 
-**TDB77:** Nebo-te beh panin Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel leh Benaiah ahi uh hi.
+**TDB77:** Nebo-te beh panin Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel leh Benaiah ahi-te hi.
 
-**ZVS:** Nebo-te beh panin Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, leh Benaiah ahi uh hi.
+**ZVS:** Nebo-te beh panin Jeiel, Mattithiah, Zabad, Zebina, Jaddai, Joel, leh Benaiah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v44
 **EN:** All these had taken strange wives: and some of them had wives by whom they had children.
 
-**TDB77:** Hih mite khempeuh in gamdang numei ten’pih uh a, amaute in a zite uh a tate uh tawh ma khawm uh hi.
+**TDB77:** Hih mite khempeuh in gamdang numei ten’pih-te a, amaute in a zite-te a tate-te tawh ma khawm-te hi.
 
-**ZVS:** Hih mite khempeuh in gamdang numei ten'pih uh a, amaute in a zite uh a tate uh tawh a makhawm uh hi.
+**ZVS:** Hih mite khempeuh in gamdang numei ten'pih-te a, amaute in a zite-te a tate-te tawh a makhawm-te hi.
 
 **Grammar:** plural: uh marker
 

@@ -33,16 +33,16 @@
 
 **TDB77:** Tuate kiangah thu a piakna in, “Buh at ding tampi om hi. Ahih hangin a at ding mite tawm hi. Tua ahih ciangin buh-at nasem ding hong sawl in ci-in, buh nei Topa kiangah thu na ngen un.
 
-**ZVS:** Amaute kiangah, “Anlak ding tam mahmah a, ahi zongin mi tawm bek in anlak na sem uh hi. Tua ahih manin anneipa in a ante a la dingin mi hong sawlna dingin thu ngen un.
+**ZVS:** Amaute kiangah, “Anlak ding tam mahmah a, ahi zongin mi tawm bek in anlak na sem-te hi. Tua ahih manin anneipa in a ante a la dingin mi hong sawlna dingin thu ngen un.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v17
 **EN:** And the seventy returned again with joy, saying, Lord, even the devils are subject unto us through thy name.
 
-**TDB77:** Tua sawmsagihte in lungdamna tawh hong ciahkik uh a, “Topa aw, na minin dawite nangawn ka zo uh hi,” a ci uh hi.
+**TDB77:** Tua sawmsagihte in lungdamna tawh hong ciahkik-te a, “Topa aw, na minin dawite nangawn ka zo-te hi,” a ci-te hi.
 
-**ZVS:** Sawmsagihte lungdam mahmahin hong ciahkik uh a, “Topa aw, nangma min tawh dawite nangawn ka hawlkhiazo uh hi,” a hong ci uh hi.
+**ZVS:** Sawmsagihte lungdam mahmahin hong ciahkik-te a, “Topa aw, nangma min tawh dawite nangawn ka hawlkhiazo-te hi,” a hong ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -67,9 +67,9 @@
 ### v23
 **EN:** And he turned him unto his disciples, and said privately,
 
-**TDB77:** Zeisu in a nungzuite lamah kihei a, “No na muh nate a mu mittangte in thupha a ngah ding uh hi.
+**TDB77:** Zeisu in a nungzuite lamah kihei a, “No na muh nate a mu mittangte in thupha a ngah ding-te hi.
 
-**ZVS:** Tua ciangin nungzuite lamah kihei a, “Tu-a na muh uh nate na muh manun a hampha mahmah na hi uh hi.
+**ZVS:** Tua ciangin nungzuite lamah kihei a, “Tu-a na muh-te nate na muh manun a hampha mahmah na hi-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -121,9 +121,9 @@
 ### v30
 **EN:** And Jesus answering said,
 
-**TDB77:** Zeisu in zong, “Mi khat in Jerusalem khua panin Jerikho khua-ah a paisuk lai takin, misuamte tawh kituak hi. Misuamte in tua pa’ puan hawkkhia a, nakpi-in a sat khit uh ciangin, si dek takin a nusia uh hi.
+**TDB77:** Zeisu in zong, “Mi khat in Jerusalem khua panin Jerikho khua-ah a paisuk lai takin, misuamte tawh kituak hi. Misuamte in tua pa’ puan hawkkhia a, nakpi-in a sat khit-te ciangin, si dek takin a nusia-te hi.
 
-**ZVS:** Jesuh in dawng a, “Jerusalem panin Jerikho khua-ah mi khat paisuk a, lamkalah migilote in na suam a, a neih khempeuh laksakin a satgawp khit uh ciangin nusia uh a, a si dektaksa-in a paisan uh hi.
+**ZVS:** Jesuh in dawng a, “Jerusalem panin Jerikho khua-ah mi khat paisuk a, lamkalah migilote in na suam a, a neih khempeuh laksakin a satgawp khit-te ciangin nusia-te a, a si dektaksa-in a paisan-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -139,7 +139,7 @@
 ### v38
 **EN:** Now it came to pass, as they went, that he entered into a certain village: and a certain woman named Martha received him into her house.
 
-**TDB77:** Amaute lampi ah a pai lai takun, khua khatah lut uh a, Martha kici numei khat in ama innah a tungsak hi.
+**TDB77:** Amaute lampi ah a pai lai takun, khua khatah lut-te a, Martha kici numei khat in ama innah a tungsak hi.
 
 **ZVS:** Amaute a pai laitakun khua khatah Jesuh bang a, Martha kici numei khat in a inn-ah na tungsak hi.
 

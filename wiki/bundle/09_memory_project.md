@@ -101,13 +101,13 @@ Target: < 2.0
 ### Never Use (non-ZVS)
 | Wrong | Correct | Reason |
 |---|---|---|
-| pathian | pasian | Hakha/Falam dialect |
-| ram | gam | Hakha dialect |
+| pasian | pasian | Hakha/Falam dialect |
+| gam | gam | Hakha dialect |
 | sanggin | sanginn | Spelling error |
-| cu / cun | tua | Hakha demonstrative |
-| fapa | tapa | Non-ZVS |
-| bawipa | topa | Non-ZVS |
-| siangpahrang | pasian | Non-ZVS |
+| tua / tua | tua | Hakha demonstrative |
+| tapa | tapa | Non-ZVS |
+| topa | topa | Non-ZVS |
+| kumpipa | pasian | Non-ZVS |
 
 ### Negation Rules
 | Context | Use | Example |
@@ -307,7 +307,7 @@ Target: < 2.0
 - Family terms fixed: tanu=daughter, tapa=son, nu=mother, pa=father
 - 471 antonym pairs inferred from negation patterns
 - CEFR tags: A1=5,639 / A2=3,541 / B1=3,966 / B2=779 / C1=1,225 / C2=66,494
-- ZVS corrections map: pathian→pasian, sanggin→sanginn, ram→gam, cu/cun→tua
+- ZVS corrections map: pasian→pasian, sanggin→sanginn, gam→gam, tua/tua→tua
 
 ### Wiki/Agents Updated
 - `wiki/negation/negation_guide.md` — complete kei/lo/kei-lo reference
@@ -494,8 +494,8 @@ Welcome to the **Zolai AI Second Brain**. This wiki is the central knowledge rep
 | **TBR17** | Tedim Bible Revised 2017 |
 | **Lung** | Heart — seat of emotion, will, intellect |
 | **Kha** | Spirit — spiritual/immortal essence |
-| **Pasian** | God (Tedim) — NEVER use "Pathian" (Hakha) |
-| **Gam** | Country/land — NEVER use "Ram" (Hakha) |
+| **Pasian** | God (Tedim) — NEVER use "pasian" (Hakha) |
+| **Gam** | Country/land — NEVER use "gam" (Hakha) |
 
 > ⭐ = Recently updated or high-priority reference
 

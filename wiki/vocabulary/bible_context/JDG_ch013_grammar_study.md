@@ -27,9 +27,9 @@
 ### v1
 **EN:** And the children of Israel did evil again in the sight of the
 
-**TDB77:** Israel mite Topa muhna-ah a sia gamta kik uh hi; Topa in Filistia mite’ khut sungah kum sawmli sung amaute pia hi.
+**TDB77:** Israel mite Topa muhna-ah a sia gamta kik-te hi; Topa in Filistia mite’ khut sungah kum sawmli sung amaute pia hi.
 
-**ZVS:** { Topa' } muhna-ah Israel mite a sia gamtakik uh a, { Topa } in Filistia mite' khutsungah kum sawmli sung amaute a pia hi.
+**ZVS:** { Topa' } muhna-ah Israel mite a sia gamtakik-te a, { Topa } in Filistia mite' khutsungah kum sawmli sung amaute a pia hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -90,9 +90,9 @@
 ### v8
 **EN:** Then Manoah entreated the
 
-**TDB77:** Tua ciangin Manoah in Topa kunh a, “Topa aw, kong thuum hi, na hong sawl Pasian’ mipa ko kiangah hong paisak kik in la, a hong suak ding naupang ka bawl nading uh hong hilhsak in,” a ci hi.
+**TDB77:** Tua ciangin Manoah in Topa kunh a, “Topa aw, kong thuum hi, na hong sawl Pasian’ mipa ko kiangah hong paisak kik in la, a hong suak ding naupang ka bawl nading-te hong hilhsak in,” a ci hi.
 
-**ZVS:** Tua ciangin Manoah in { Topa } kunh a, “{ Topa } aw, kong thum hi; na hong sawl Pasian' mipa ko' kiangah hong paisak kik in la, a hong suak ding naupang ka bawlna ding uh hong hilhsak in,” a ci hi.
+**ZVS:** Tua ciangin Manoah in { Topa } kunh a, “{ Topa } aw, kong thum hi; na hong sawl Pasian' mipa ko' kiangah hong paisak kik in la, a hong suak ding naupang ka bawlna ding-te hong hilhsak in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
@@ -198,9 +198,9 @@
 ### v20
 **EN:** For it came to pass, when the flame went up toward heaven from off the altar, that the angel of the
 
-**TDB77:** Biakna tau panin vantung lamah meikuang a paitoh ciangin, Manoah leh a zi in a et lai takun biakna tau meikuang sungah Topa’ vantungmi kahto hi; tua ciangin amaute lei lakah bok uh hi.
+**TDB77:** Biakna tau panin vantung lamah meikuang a paitoh ciangin, Manoah leh a zi in a et lai takun biakna tau meikuang sungah Topa’ vantungmi kahto hi; tua ciangin amaute lei lakah bok-te hi.
 
-**ZVS:** Biakna tau panin vantung lamah meikuang a paitoh ciangin, Manoah leh a zi in a et laitakun biakna tau meikuang sungah { Topa' } vantung mi kahto hi. Tua ciangin amaute leilakah a bok uh hi.
+**ZVS:** Biakna tau panin vantung lamah meikuang a paitoh ciangin, Manoah leh a zi in a et laitakun biakna tau meikuang sungah { Topa' } vantung mi kahto hi. Tua ciangin amaute leilakah a bok-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

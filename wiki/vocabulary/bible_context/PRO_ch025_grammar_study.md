@@ -25,14 +25,14 @@
 
 **TDB77:** Judah kumpi Hezekiah’ lai-atte in a tei Solomon’ paunak dangte:
 
-**ZVS:** Judah kumpi Hezekiah' lai-atte in a teikhiat uh Solomon' paunak dangte:
+**ZVS:** Judah kumpi Hezekiah' lai-atte in a teikhiat-te Solomon' paunak dangte:
 
 ### v2
 **EN:** It is the glory of God to conceal a thing: but the honour of kings is to search out a matter.
 
 **TDB77:** Pasian in thu a ip manin minthang a, kumpite in thu a gen khiat manin minthang hi.
 
-**ZVS:** Pasian in thu a ip manin a min thang a, kumpite in thu a genkhiat manin minthang uh hi.
+**ZVS:** Pasian in thu a ip manin a min thang a, kumpite in thu a genkhiat manin minthang-te hi.
 
 **Grammar:** causal: because
 

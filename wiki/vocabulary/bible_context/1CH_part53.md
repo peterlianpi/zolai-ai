@@ -24,7 +24,7 @@
 
 ### kipsakna = establishment/setting up
 **Context:** Referring to the established order or arrangement set up by Aaron.
-**Example:** a pupi uh Aaron in amaute’ adingin a kipsakna ngeina bangin
+**Example:** a pupi-te Aaron in amaute’ adingin a kipsakna ngeina bangin
 
 ### ngeina = order/arrangement/custom
 **Context:** Used alongside 'kipsakna' to mean the established order or regulation.
@@ -32,7 +32,7 @@
 
 ### kiseh nasep = assigned service/duty
 **Context:** The specific work or service they were responsible for.
-**Example:** amau’ nasep uh ahi a kiseh nasep nei uh hi.
+**Example:** amau’ nasep-te ahi a kiseh nasep nei-te hi.
 
 ### suante = sons/descendants
 **Context:** Standard term for descendants, used frequently for tribal lineage.
@@ -52,7 +52,7 @@
 
 ### beh = family/clan/house
 **Context:** Refers to the ancestral line or family unit.
-**Example:** a beh tawh kizui-in Levi’ suante ahi uh hi.
+**Example:** a beh tawh kizui-in Levi’ suante ahi-te hi.
 
 ### kizui-in = according to/following
 **Context:** Indicates adherence to the structure of the family line.
@@ -68,24 +68,24 @@
 
 ### aisanna = casting lots/dividing by chance
 **Context:** The process of assigning duties by lot.
-**Example:** a kibangin aisanna tawh nasep tavuan la uh hi.
+**Example:** a kibangin aisanna tawh nasep tavuan la-te hi.
 
 ### tavuan = duty/office/position
 **Context:** The assigned role or responsibility.
-**Example:** nasepna tavuan la uh hi.
+**Example:** nasepna tavuan la-te hi.
 
 ## Phrases & Usage
 
 - **a sawmnih-le-khatna ... tung** = to the twenty-first...
   - Usage: Used for sequential assignment or listing, indicating the recipient of the Nth portion/lot.
 
-- **a pupi uh Aaron in amaute’ adingin a kipsakna ngeina bangin** = according to the established order which their ancestor Aaron set up for them
+- **a pupi-te Aaron in amaute’ adingin a kipsakna ngeina bangin** = according to the established order which their ancestor Aaron set up for them
   - Usage: Describes the basis of the established religious service structure, tracing it back to Aaron.
 
 - **a beh tawh kizui-in** = following their family/house line
   - Usage: Used to confirm that the listing adheres strictly to the patriarchal lineage structure.
 
-- **a kibangin aisanna tawh nasep tavuan la uh hi** = they took up the duty of service by casting lots equally among them
+- **a kibangin aisanna tawh nasep tavuan la-te hi** = they took up the duty of service by casting lots equally among them
   - Usage: Describes the method (casting lots) used to assign roles among equals.
 
 ## Grammar Patterns
@@ -102,6 +102,6 @@
   - Listing individuals in order of precedence within a group: 'X is the first, Y is the second, Z is the third...'.
   - Example: Jeriah a ukpi, Amariah a nihna, Jahaziel a thumna
 
-- **Hihte in ... nasep tavuan la uh hi.**
+- **Hihte in ... nasep tavuan la-te hi.**
   - A concluding statement summarizing the action taken by the preceding group: 'These people took up the duty/office of service...'.
-  - Example: Hihte in ... nasep tavuan la uh hi.
+  - Example: Hihte in ... nasep tavuan la-te hi.

@@ -24,9 +24,9 @@ To make a noun plural, attach the suffix `te`.
 > Note: `mi` = person/people (generic). `mipa` = male person. `numei` = female person. Use `mi` / `mite` / `mikhempeuh` when referring to people in general.
 
 When using pronouns (You all, They, We), the verb must be followed by the plural agreement marker `uh` (except for the inclusive 'We' `i`, which *never* takes `uh`).
-*   **Nong pai uh hi:** You (plural) come.
-*   **A pai uh hi:** They go.
-*   *Exception:* **I pai hi:** We (inclusive) go. (Never say "I pai uh hi").
+*   **Nong pai-te hi:** You (plural) come.
+*   **A pai-te hi:** They go.
+*   *Exception:* **I pai hi:** We (inclusive) go. (Never say "I pai-te hi").
 
 ### 1.3 Positional Prepositions
 Post-positions (they come *after* the noun in Zolai).
@@ -46,14 +46,14 @@ Used to describe where something is happening.
     *   *English:* He sleeps in the house.
     *   *Zolai:* Amah innsung**ah** a lum hi.
     *   *English:* They are going to the mountain.
-    *   *Zolai:* Mualtung**ah** a pai uh hi.
+    *   *Zolai:* Mualtung**ah** a pai-te hi.
 
 ### Pattern 2: Telling a Sequence (Narrative Links)
 Used to string actions together, commonly found in Luke or 1 Samuel.
 *   **Tua ciangin:** Then / After that
 *   **Ahi zongin:** But / However
 *   **Usage:**
-    *   *Zolai:* Jesuh in mualtungah kahto hi. **Tua ciangin**, a nungzuite hong pai uh hi.
+    *   *Zolai:* Jesuh in mualtungah kahto hi. **Tua ciangin**, a nungzuite hong pai-te hi.
     *   *English:* Jesus went up the mountain. **Then**, his disciples came.
 
 ### Pattern 3: Expressing Desire

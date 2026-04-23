@@ -36,16 +36,16 @@
 ### v2
 **EN:** And said unto me, What seest thou? And I said, I have looked, and behold a candlestick all of gold, with a bowl upon the top of it, and his seven lamps thereon, and seven pipes to the seven lamps, which are upon the top thereof:
 
-**TDB77:** Amah in, “Bang na mu hiam?” ci-in hong dong hi. Kei zong, “Kham tawh a kibawl meivakkhuam khat ka mu hi. Tua meivakkhuam in meivak sagih nei a, meivak tui koih nading hai khat zong a khuam dawnah om hi. Tua meivak sagihte in meivakkhau nei ciat uh hi.
+**TDB77:** Amah in, “Bang na mu hiam?” ci-in hong dong hi. Kei zong, “Kham tawh a kibawl meivakkhuam khat ka mu hi. Tua meivakkhuam in meivak sagih nei a, meivak tui koih nading hai khat zong a khuam dawnah om hi. Tua meivak sagihte in meivakkhau nei ciat-te hi.
 
-**ZVS:** Amah in, “Bang na mu hiam?” ci-in hong dong hi. Kei zong, “Kham tawh a kibawl meivakkhuam khat ka mu hi. Tua meivakkhuam in meivak sagih nei a, meivaktui koihna ding hai khat zong a khuam dawnah om hi. Tua meivak sagihte in meivakkhau nei ciat uh hi.
+**ZVS:** Amah in, “Bang na mu hiam?” ci-in hong dong hi. Kei zong, “Kham tawh a kibawl meivakkhuam khat ka mu hi. Tua meivakkhuam in meivak sagih nei a, meivaktui koihna ding hai khat zong a khuam dawnah om hi. Tua meivak sagihte in meivakkhau nei ciat-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And two olive trees by it, one upon the right side of the bowl, and the other upon the left side thereof.
 
-**TDB77:** Meivakkhuam gei-ah oliv kung nih zong om a, meivakkhuam lang tuakah om uh hi,” ci-in ka dawng hi.
+**TDB77:** Meivakkhuam gei-ah oliv kung nih zong om a, meivakkhuam lang tuakah om-te hi,” ci-in ka dawng hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -95,18 +95,18 @@
 ### v9
 **EN:** The hands of Zerubbabel have laid the foundation of this house; his hands shall also finish it; and thou shalt know that the
 
-**TDB77:** Amah in, “Zerubbabel in biakinn bulpi phut khin a, biakinn lam zong zo ding hi. Tua ciangin ka mite in, amaute kiangah nang kong sawlna thu thei ding uh hi.
+**TDB77:** Amah in, “Zerubbabel in biakinn bulpi phut khin a, biakinn lam zong zo ding hi. Tua ciangin ka mite in, amaute kiangah nang kong sawlna thu thei ding-te hi.
 
-**ZVS:** Amah in, “Zerubbabel in biakinn bulpi phut khin a, biakinn lam zong a zo ding hi. Tua ciangin ka mite in, amaute kiangah nang kong sawlna thu hong thei ding uh hi.
+**ZVS:** Amah in, “Zerubbabel in biakinn bulpi phut khin a, biakinn lam zong a zo ding hi. Tua ciangin ka mite in, amaute kiangah nang kong sawlna thu hong thei ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** For who hath despised the day of small things? for they shall rejoice, and shall see the plummet in the hand of Zerubbabel with those seven; they are the eyes of the
 
-**TDB77:** A ma uh a telh loh manin ka mite lungkia uh a, ahi zongin Zerubbabel in biakinn lam nasep a makaihna a muh uh ciangin a lung uh damkik ding hi,” hong ci hi. Vantungmi in, “Meivak sagihte in, leitung khempeuh a etna Topa’ mittang sagih ahi hi,” hong ci hi.
+**TDB77:** A ma-te a telh loh manin ka mite lungkia-te a, ahi zongin Zerubbabel in biakinn lam nasep a makaihna a muh-te ciangin a lung-te damkik ding hi,” hong ci hi. Vantungmi in, “Meivak sagihte in, leitung khempeuh a etna Topa’ mittang sagih ahi hi,” hong ci hi.
 
-**ZVS:** A ma uh a telhloh manun ka mite lungkia uh a, ahi zongin Zerubbabel in biakinn lam nasep a makaihna a muh uh ciangin a lung uh damkik ding hi,” hong ci hi. Vantung mi in, “Meivak sagihte pen, leitung khempeuh a etna{ Topa' } mittang sagih ahi hi,” hong ci hi.
+**ZVS:** A ma-te a telhloh manun ka mite lungkia-te a, ahi zongin Zerubbabel in biakinn lam nasep a makaihna a muh-te ciangin a lung-te damkik ding hi,” hong ci hi. Vantung mi in, “Meivak sagihte pen, leitung khempeuh a etna{ Topa' } mittang sagih ahi hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | plural: uh marker
 

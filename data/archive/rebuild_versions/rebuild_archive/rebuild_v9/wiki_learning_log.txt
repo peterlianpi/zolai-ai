@@ -1,0 +1,21 @@
+[2026-04-16T12:20:36.319187] === WIKI AI LEARNING SYSTEM ===
+
+[2026-04-16T12:20:36.340761] === EXTRACTING WIKI KNOWLEDGE ===
+[2026-04-16T12:20:38.376278]   Concepts found: 3436
+[2026-04-16T12:20:38.376515]   Grammar rules found: 22
+[2026-04-16T12:20:38.376690]   Vocabulary entries found: 0
+[2026-04-16T12:20:38.376950] 
+=== LEARNING WIKI STRUCTURE ===
+[2026-04-16T12:20:38.442860]   Concepts learned: 3436
+[2026-04-16T12:20:38.443125]   Grammar rules learned: 22
+[2026-04-16T12:20:38.443276]   Vocabulary learned: 0
+[2026-04-16T12:20:38.445044] 
+=== WIKI LEARNING STATS ===
+[2026-04-16T12:20:38.445291]   Total concepts: 3436
+[2026-04-16T12:20:38.446198]   Total grammar rules: 22
+[2026-04-16T12:20:38.446430]   Total vocabulary: 0
+[2026-04-16T12:20:38.446564] 
+=== EXPORTING WIKI STRUCTURE ===
+[2026-04-16T12:20:38.596223]   Exported to /home/peter/Documents/Projects/zolai/data/processed/rebuild_v9/wiki_exports
+[2026-04-16T12:20:38.596659] 
+✅ Wiki AI learning complete

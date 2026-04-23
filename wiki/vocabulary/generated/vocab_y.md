@@ -94,7 +94,7 @@ y
 **CEFR:** C2
 
 ### yankee
-**[noun]** (n) America (U.S.A) ram miphun.
+**[noun]** (n) America (U.S.A) gam miphun.
 **CEFR:** C2
 > *Nang Yankee khat na hi hiam?*
 

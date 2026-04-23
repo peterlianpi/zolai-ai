@@ -21,7 +21,7 @@
 
 ## Grammar Rules
 
-- **ZVS word order**: `sumpia uh aa a laihuanna ding sum kisap tawh kisilian ahih` = The book was written by Sumpia uh aa a laihuanna ding sum kisap tawh kisilian ahih
+- **ZVS word order**: `sumpia-te aa a laihuanna ding sum kisap tawh kisilian ahih` = The book was written by Sumpia-te aa a laihuanna ding sum kisap tawh kisilian ahih
 - **use of particles**: `tawh` = used to indicate a completed action
 - **use of pronouns**: `tua` = used as a pronoun to refer to a previously mentioned noun
 

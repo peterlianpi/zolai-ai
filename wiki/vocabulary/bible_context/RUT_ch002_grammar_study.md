@@ -52,9 +52,9 @@
 ### v4
 **EN:** And, behold, Boaz came from Beth–lehem, and said unto the reapers, The
 
-**TDB77:** En in, Boaz in Bethlehem panin hong pai hi; amah in an late kiangah, “Topa in note hong ompih ta hen!” a ci hi. Amaute in dawngin, “Topa in nang thupha hong pia ta hen!” a ci uh hi.
+**TDB77:** En in, Boaz in Bethlehem panin hong pai hi; amah in an late kiangah, “Topa in note hong ompih ta hen!” a ci hi. Amaute in dawngin, “Topa in nang thupha hong pia ta hen!” a ci-te hi.
 
-**ZVS:** Boaz zong Bethlehem panin hong kuanin amah in anlate kiangah, “{ Topa } in note hong ompih ta hen!” a ci hi. Amaute in dawngin, “{ Topa } in nang thupha hong pia ta hen,” a ci uh hi.
+**ZVS:** Boaz zong Bethlehem panin hong kuanin amah in anlate kiangah, “{ Topa } in note hong ompih ta hen!” a ci hi. Amaute in dawngin, “{ Topa } in nang thupha hong pia ta hen,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -97,9 +97,9 @@
 ### v9
 **EN:** Let thine eyes be on the field that they do reap, and go thou after them: have I not charged the young men that they shall not touch thee? and when thou art athirst, go unto the vessels, and drink of that which the young men have drawn.
 
-**TDB77:** Amaute’ an lakna lo na mitsuan in la, amaute’ nungah zui in. Nang hong bawlsiat loh nading uh tangvalte thu pia khin hilo ka hi hiam? Na dang a tak ciangin pai in la tangvalte’ tui tawisa dawn in,” a ci hi.
+**TDB77:** Amaute’ an lakna lo na mitsuan in la, amaute’ nungah zui in. Nang hong bawlsiat loh nading-te tangvalte thu pia khin hilo ka hi hiam? Na dang a tak ciangin pai in la tangvalte’ tui tawisa dawn in,” a ci hi.
 
-**ZVS:** Amaute' anlakna lo mitsuan in la, amaute' nungah zui in. Nang hong bawlsiat lohna ding uh tangvalte thu ka pia khin hi. Na dang a tak ciangin pai in la tangvalte' tui tawisa dawn in,” a ci hi.
+**ZVS:** Amaute' anlakna lo mitsuan in la, amaute' nungah zui in. Nang hong bawlsiat lohna ding-te tangvalte thu ka pia khin hi. Na dang a tak ciangin pai in la tangvalte' tui tawisa dawn in,” a ci hi.
 
 **Grammar:** quotative: said/saying
 

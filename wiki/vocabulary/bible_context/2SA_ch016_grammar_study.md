@@ -71,7 +71,7 @@
 
 **TDB77:** Amah in David leh Kumpi David nasemte khempeuh suang tawh deng hi; mi khempeuh leh mi thahatte khempeuh ama taklam leh veilamah om hi.
 
-**ZVS:** Amah in Kumpi David leh a nasemte khempeuh suang tawh deng hi. Mi khempeuh leh mi thahatte khempeuh David' taklam leh veilamah om uh hi.
+**ZVS:** Amah in Kumpi David leh a nasemte khempeuh suang tawh deng hi. Mi khempeuh leh mi thahatte khempeuh David' taklam leh veilamah om-te hi.
 
 ### v7
 **EN:** And thus said Shimei when he cursed, Come out, come out, thou bloody man, and thou man of Belial:
@@ -128,25 +128,25 @@
 ### v13
 **EN:** And as David and his men went by the way, Shimei went along on the hill's side over against him, and cursed as he went, and threw stones at him, and cast dust.
 
-**TDB77:** Tua ahih ciangin ama gal-khat mual pangah Shimei pai a, a pai kawmin samsia-in suangte tawh amah dengin leivui a theh lai takin David leh a mite lampi-ah paipai uh hi.
+**TDB77:** Tua ahih ciangin ama gal-khat mual pangah Shimei pai a, a pai kawmin samsia-in suangte tawh amah dengin leivui a theh lai takin David leh a mite lampi-ah paipai-te hi.
 
-**ZVS:** Tua ahih ciangin ama galkhat mualpangah Shimei pai a, a paikawmin samsia-in suang tawh amah dengin leivui a theh laitakin David leh a mite lampi-ah pai uh hi.
+**ZVS:** Tua ahih ciangin ama galkhat mualpangah Shimei pai a, a paikawmin samsia-in suang tawh amah dengin leivui a theh laitakin David leh a mite lampi-ah pai-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v14
 **EN:** And the king, and all the people that were with him, came weary, and refreshed themselves there.
 
-**TDB77:** Tua ciangin kumpipa leh amah tawh a om mi khempeuhte gim mahmahin Jordan tung uh hi; tua lai-ah amah kitawldamsak hi.
+**TDB77:** Tua ciangin kumpipa leh amah tawh a om mi khempeuhte gim mahmahin Jordan tung-te hi; tua lai-ah amah kitawldamsak hi.
 
-**ZVS:** Tua ciangin kumpipa leh amah tawh a om mi khempeuhte gim mahmahin Jordan tung uh a, tua lai-ah amah kitawldamsak hi.
+**ZVS:** Tua ciangin kumpipa leh amah tawh a om mi khempeuhte gim mahmahin Jordan tung-te a, tua lai-ah amah kitawldamsak hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And Absalom, and all the people the men of Israel, came to Jerusalem, and Ahithophel with him.
 
-**TDB77:** Tu-in Absalom leh Israel mite khempeuh Jerusalem hong tung uh a, Ahithofel amah tawh om hi.
+**TDB77:** Tu-in Absalom leh Israel mite khempeuh Jerusalem hong tung-te a, Ahithofel amah tawh om hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -207,18 +207,18 @@
 ### v22
 **EN:** So they spread Absalom a tent upon the top of the house; and Absalom went in unto his father's concubines in the sight of all Israel.
 
-**TDB77:** Tua ahih ciangin amaute in innkhumzangah Absalom’ adingin puanbuk khat lam uh hi; tua ciangin Israelte khempeuh’ muhna-ah Absalom in a pa’ zineute luppih hi.
+**TDB77:** Tua ahih ciangin amaute in innkhumzangah Absalom’ adingin puanbuk khat lam-te hi; tua ciangin Israelte khempeuh’ muhna-ah Absalom in a pa’ zineute luppih hi.
 
-**ZVS:** Tua ciangin amaute in innkhumzangah Absalom-a' dingin puanbuk khat lam uh a, Israel-te khempeuh' muhna-ah Absalom in a pa' zineute luppih hi.
+**ZVS:** Tua ciangin amaute in innkhumzangah Absalom-a' dingin puanbuk khat lam-te a, Israel-te khempeuh' muhna-ah Absalom in a pa' zineute luppih hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
 ### v23
 **EN:** And the counsel of Ahithophel, which he counselled in those days, was as if a man had enquired at the oracle of God: so was all the counsel of Ahithophel both with David and with Absalom.
 
-**TDB77:** Tua hun lai-in Ahithofel’ thugente in Pasian’ kammal mahmah bangin kingaihsun hi; tua bangin David leh Absalom in Ahithofel’ thugente thupi ngaihsut uh hi.
+**TDB77:** Tua hun lai-in Ahithofel’ thugente in Pasian’ kammal mahmah bangin kingaihsun hi; tua bangin David leh Absalom in Ahithofel’ thugente thupi ngaihsut-te hi.
 
-**ZVS:** Tua hun lai-in Ahithofel' thugente pen Pasian' kammal mahmah bangin kingaihsun hi. Tua bangin David leh Absalom in Ahithofel' thugente a thupi ngaihsut uh ahi hi.
+**ZVS:** Tua hun lai-in Ahithofel' thugente pen Pasian' kammal mahmah bangin kingaihsun hi. Tua bangin David leh Absalom in Ahithofel' thugente a thupi ngaihsut-te ahi hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

@@ -41,7 +41,7 @@
 ### v3
 **EN:** When mine enemies are turned back, they shall fall and perish at thy presence.
 
-**TDB77:** Ka galte a nungkik ciangin, nangma mai-ah amaute pukin kisia uh hi.
+**TDB77:** Ka galte a nungkik ciangin, nangma mai-ah amaute pukin kisia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -66,9 +66,9 @@
 ### v6
 **EN:** O thou enemy, destructions are come to a perpetual end: and thou hast destroyed cities; their memorial is perished with them.
 
-**TDB77:** Siat denna sungah galte beimang hi; a khuate uh na zunglot hi; amau kiphawk kha nawn lo hi.
+**TDB77:** Siat denna sungah galte beimang hi; a khuate-te na zunglot hi; amau kiphawk kha nawn lo hi.
 
-**ZVS:** Siat denna sungah galte beimang hi. A khuate uh na zunglot a, amaute kiphawkkha nawnlo hi.
+**ZVS:** Siat denna sungah galte beimang hi. A khuate-te na zunglot a, amaute kiphawkkha nawnlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
@@ -104,7 +104,7 @@
 
 **TDB77:** Topa aw, nangmah hong zongte nusia lo na hih manin, na min a theite in nang hong muang hi.
 
-**ZVS:** { Topa } aw, nang a hong zongte nusialo na hih manin, na min a theite in nang hong muang uh hi.
+**ZVS:** { Topa } aw, nang a hong zongte nusialo na hih manin, na min a theite in nang hong muang-te hi.
 
 **Grammar:** causal: because
 
@@ -143,9 +143,9 @@
 ### v15
 **EN:** The heathen are sunk down in the pit that they made: in the net which they hid is their own foot taken.
 
-**TDB77:** Amau bawlsa gum sungah minamte kiasuk uh a, a ngenthang siahna sung uh-ah amau khe mah a awk hi.
+**TDB77:** Amau bawlsa gum sungah minamte kiasuk-te a, a ngenthang siahna sung uh-ah amau khe mah a awk hi.
 
-**ZVS:** Amau' bawlsa gum sung mahah minamte kiasuk uh a, a ngenthang siahna uhah amau' khe mah a awk hi.
+**ZVS:** Amau' bawlsa gum sung mahah minamte kiasuk-te a, a ngenthang siahna uhah amau' khe mah a awk hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -161,9 +161,9 @@
 ### v17
 **EN:** The wicked shall be turned into hell, and all the nations that forget God.
 
-**TDB77:** Pasian a mangngilh minam khempeuh ahi migilote in Leinuai ah pai ding uh hi.
+**TDB77:** Pasian a mangngilh minam khempeuh ahi migilote in Leinuai ah pai ding-te hi.
 
-**ZVS:** Pasian a mangngilh minam khempeuh sung panin migilote, Leinuai-ah pai ding uh hi.
+**ZVS:** Pasian a mangngilh minam khempeuh sung panin migilote, Leinuai-ah pai ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -188,9 +188,9 @@
 ### v20
 **EN:** Put them in fear, O
 
-**TDB77:** Amaute lau sak in, Topa! Mi ahih lelna uh minamte theisak in!
+**TDB77:** Amaute lau sak in, Topa! Mi ahih lelna-te minamte theisak in!
 
-**ZVS:** Amaute lausak in, { Topa}! Mi ahih lelna uh minamte theisak in!
+**ZVS:** Amaute lausak in, { Topa}! Mi ahih lelna-te minamte theisak in!
 
 ---
 

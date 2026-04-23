@@ -287,7 +287,7 @@ I = we/our (inclusive, prefix):
 **Examples from Bible:**
 ```
 Amaute = they/them:
-  "Amaute pai uh hi." = They go.
+  "Amaute pai-te hi." = They go.
   "Amaute ka mu hi." = I see them.
   "Amaute ading hi." = It's for them.
 
@@ -324,7 +324,7 @@ Standalone (subject/object):
   Nang hong ngai hi = I wait for you
   Amah in a gen hi = He/she said it
   Eite i pai hi = We go
-  Amaute pai uh hi = They go
+  Amaute pai-te hi = They go
 ```
 
 **With verb "in" marker (agent marker):**
@@ -333,7 +333,7 @@ Kei in ka bawl hi = I did it (emphatic)
 Nang in na gen hi = You said it (emphatic)
 Amah in a gen hi = He/she said it
 Eite in i bawl hi = We did it (emphatic)
-Amaute in amau bawl uh hi = They did it
+Amaute in amau bawl-te hi = They did it
 ```
 
 ---
@@ -620,7 +620,7 @@ Bible examples:
 "Seth a suah khit ciangin Seth kum zagiat leh kum sagih nungta a, tapa leh tanu dang nei lai hi."
 = "And Seth lived after he begat Enos eight hundred and seven years, and begat sons and daughters."
 
-"Pasian' tapate in mite' tanute hoih hi, ci-in mu uh hi"
+"Pasian' tapate in mite' tanute hoih hi, ci-in mu-te hi"
 = "That the sons of God saw the daughters of men that they were fair"
 
 "Laban in tanu nih nei hi"
@@ -676,7 +676,7 @@ Extracted from official educational materials (Zolai Simbu Tan Lang to Tan Li):
 | akno | chick/young chicken | "Akno a khe a bai hi" (The chick limps) |
 | ngapi | fish paste | "Ngapi thau ne in" |
 | gua | bamboo | "Khua gei ah gua a po hi" (Bamboo grows near village) |
-| bualtui | pond/pool | "Bualtui gei khatah a mawl uh hi" |
+| bualtui | pond/pool | "Bualtui gei khatah a mawl-te hi" |
 | uiphuk | frog/toad | "Uiphuk tampi a om hi" (There are many frogs) |
 | sumkuang | tortoise/turtle | "Sumkuang le bilpi" (Tortoise and rabbit) |
 | bilpi | rabbit | "Bilpi tai a hat mahmah hi" |

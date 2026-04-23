@@ -40,9 +40,9 @@
 ### v3
 **EN:** And they brought their offering before the
 
-**TDB77:** buk a nei leeng guk leh bawngtal sawm-le-nih Topa’ mai-ah paipih uh hi; leeng khatah makai nih, mi khatah bawngtal khat ciatin seh-in a biakna uh pia uh hi; amaute in biakbuk mai-ah tuate pia uh hi.
+**TDB77:** buk a nei leeng guk leh bawngtal sawm-le-nih Topa’ mai-ah paipih-te hi; leeng khatah makai nih, mi khatah bawngtal khat ciatin seh-in a biakna-te pia-te hi; amaute in biakbuk mai-ah tuate pia-te hi.
 
-**ZVS:** buk a nei leeng guk leh bawngtal sawmlenih { Topa' } mai-ah paipih uh a, leeng khatah makai nih, mi khatah bawngtal khat ciatin sehin a biakna uh pia uh hi. Amaute in biakbuk mai-ah tuate pia uh hi.
+**ZVS:** buk a nei leeng guk leh bawngtal sawmlenih { Topa' } mai-ah paipih-te a, leeng khatah makai nih, mi khatah bawngtal khat ciatin sehin a biakna-te pia-te hi. Amaute in biakbuk mai-ah tuate pia-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -58,9 +58,9 @@
 ### v5
 **EN:** Take it of them, that they may be to do the service of the tabernacle of the congregation; and thou shalt give them unto the Levites, to every man according to his service.
 
-**TDB77:** ”Kikhopna buk nasepna ah zat dingin amah tung panin tuate sang in la, a nasep ciat uh tawh kizui-in Levi mite pia in,” a ci hi.
+**TDB77:** ”Kikhopna buk nasepna ah zat dingin amah tung panin tuate sang in la, a nasep ciat-te tawh kizui-in Levi mite pia in,” a ci hi.
 
-**ZVS:** “Kikhopna buk nasepna-ah zat dingin amau' tung panin tuate sang in la, a nasep ciat uh tawh kizui-in Levi mite pia in,” a ci hi.
+**ZVS:** “Kikhopna buk nasepna-ah zat dingin amau' tung panin tuate sang in la, a nasep ciat-te tawh kizui-in Levi mite pia in,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -96,25 +96,25 @@
 
 **TDB77:** Ahih hangin Kohath mite tungah bangmah pia lo hi, bang hang hiam cih leh liangko ah puak ding a siangtho nate kep ding amaute tavuan kipia hi.
 
-**ZVS:** Ahih hangin Kohath mite tungah bangmah pialo hi. Bang hang hiam cih leh liangko-ah a puak ding uh a siangtho nate kep ding amaute tavuan kipia hi.
+**ZVS:** Ahih hangin Kohath mite tungah bangmah pialo hi. Bang hang hiam cih leh liangko-ah a puak ding-te a siangtho nate kep ding amaute tavuan kipia hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
 ### v10
 **EN:** And the princes offered for dedicating of the altar in the day that it was anointed, even the princes offered their offering before the altar.
 
-**TDB77:** Biakna tau sathau a kinuh ni-in a ap nadingin makaite in biakna pia uh hi; makaite in a biakna uh biakna tau mai-ah pia uh hi.
+**TDB77:** Biakna tau sathau a kinuh ni-in a ap nadingin makaite in biakna pia-te hi; makaite in a biakna-te biakna tau mai-ah pia-te hi.
 
-**ZVS:** Biakna tau sathau a kinuh ni-in a apna dingin makaite in a biakna uh biakna tau mai-ah pia uh hi.
+**ZVS:** Biakna tau sathau a kinuh ni-in a apna dingin makaite in a biakna-te biakna tau mai-ah pia-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And the
 
-**TDB77:** Topa in Moses kiangah, “Biakna tau ap nadingin makai khat in ni khat tek a biakna uh pia ding uh hi,” a ci hi.
+**TDB77:** Topa in Moses kiangah, “Biakna tau ap nadingin makai khat in ni khat tek a biakna-te pia ding-te hi,” a ci hi.
 
-**ZVS:** { Topa } in Moses kiangah, “Biakna tau apna dingin makai khat in ni khat ciat a biakna uh pia ding uh hi,” a ci hi.
+**ZVS:** { Topa } in Moses kiangah, “Biakna tau apna dingin makai khat in ni khat ciat a biakna-te pia ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -142,7 +142,7 @@
 **ZVS:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v15
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -192,7 +192,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v21
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -242,7 +242,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v27
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -292,7 +292,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v33
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -342,7 +342,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v39
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtal no khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -392,7 +392,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v45
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -440,7 +440,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v51
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtal no khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -490,7 +490,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v57
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biakna dingin bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -538,7 +538,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v63
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -588,7 +588,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v69
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa khat;
 
@@ -638,7 +638,7 @@
 **ZVS:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v75
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtalno khat, tuutal pa khat, kum khat a pha tuuno a pa khat;
 
@@ -688,7 +688,7 @@
 **TDB77:** shekel sawm a gik kham pakan khat, paknamtui a dim tawh;
 
 ### v81
-**EN:** One young bullock, one ram, one lamb of the first year, for a burnt offering:
+**EN:** One young bullock, one gam, one lamb of the first year, for a burnt offering:
 
 **TDB77:** meihal biak nadingin bawngtalno khat, tuutal khat, kum khat a pha tuuno a pa khat;
 

@@ -50,7 +50,7 @@
 ### v4
 **EN:** For if he were on earth, he should not be a priest, seeing that there are priests that offer gifts according to the law:
 
-**TDB77:** Thukham bangin biakna pia ding mite a om uh ahih ciangin tua Topa leitungah a om leh, siampi ahi kei ding hi.
+**TDB77:** Thukham bangin biakna pia ding mite a om-te ahih ciangin tua Topa leitungah a om leh, siampi ahi kei ding hi.
 
 **ZVS:** Jew Thukham tawh kizui-in Pasian tungah letsongte a piading siampite om khinta ahih manin leitungah Jesuh a omlai hi leh siampi hithei hetlo ding hi.
 
@@ -59,9 +59,9 @@
 ### v5
 **EN:** Who serve unto the example and shadow of heavenly things, as Moses was admonished of God when he was about to make the tabernacle: for, See, saith he, that thou make all things according to the pattern shewed to thee in the mount.
 
-**TDB77:** Moses in buk lam dingin a kisak ciangin, “Mual tungah nang kong lahsa lim bangin na khempeuh na bawl nading na ciamteh in, ci-in thupiakna a ngah bangin, tua siampite in vantung nate a lim leh liim tawh kipawl na a sem uh hi.
+**TDB77:** Moses in buk lam dingin a kisak ciangin, “Mual tungah nang kong lahsa lim bangin na khempeuh na bawl nading na ciamteh in, ci-in thupiakna a ngah bangin, tua siampite in vantung nate a lim leh liim tawh kipawl na a sem-te hi.
 
-**ZVS:** Leitunga siampite' sepsepte pen vantungah a om thu, a limin a sem uh ahi hi. Bang hang hiam cih leh Moses in Puanbuk lamding a kipat ciangin Pasian in, “Mual tungah i om lai-in a limding khempeuh kong lah bang teekteekin a kihihna dingin na thei in,” na ci hi.
+**ZVS:** Leitunga siampite' sepsepte pen vantungah a om thu, a limin a sem-te ahi hi. Bang hang hiam cih leh Moses in Puanbuk lamding a kipat ciangin Pasian in, “Mual tungah i om lai-in a limding khempeuh kong lah bang teekteekin a kihihna dingin na thei in,” na ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -77,7 +77,7 @@
 ### v7
 **EN:** For if that first covenant had been faultless, then should no place have been sought for the second.
 
-**TDB77:** Bang hang hiam na cih uh leh, a masa thuciamna-ah mawhsak nading thu om lo hi leh, a nihna thuciamna om nading thu zon’na a om kei ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, a masa thuciamna-ah mawhsak nading thu om lo hi leh, a nihna thuciamna om nading thu zon’na a om kei ding hi.
 
 **ZVS:** Thuciamna a masa kimang thei hi leh thuciamna a nihna kisam nawnlo ding hi.
 
@@ -93,32 +93,32 @@
 ### v9
 **EN:** Not according to the covenant that I made with their fathers in the day when I took them by the hand to lead them out of the land of Egypt; because they continued not in my covenant, and I regarded them not, saith the Lord.
 
-**TDB77:** Egypt gam panin a paikhiatpih dingin a pu a pate uh ka khut tawh ka kaih lai a, amaute tawh ka bawl thuciamna bang hilo ding hi. Amaute tawh ka bawl thuciamna zuilo uh ahih manin kei zong amaute ka don kei hi.
+**TDB77:** Egypt gam panin a paikhiatpih dingin a pu a pate-te ka khut tawh ka kaih lai a, amaute tawh ka bawl thuciamna bang hilo ding hi. Amaute tawh ka bawl thuciamna zuilo-te ahih manin kei zong amaute ka don kei hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | causal: because
 
 ### v10
 **EN:** For this is the covenant that I will make with the house of Israel after those days, saith the Lord; I will put my laws into their mind, and write them in their hearts: and I will be to them a God, and they shall be to me a people:
 
-**TDB77:** A nung ciangin Israel’ innkuanpihte tawh ka thuciamna in, keimah in ka thukhamte, Amaute lungsim sungah ka guang ding hi, a lungtang uhah ka gelh ding hi, amaute Pasian ka hi ding hi, amaute in ka mite ahi ding uh hi.
+**TDB77:** A nung ciangin Israel’ innkuanpihte tawh ka thuciamna in, keimah in ka thukhamte, Amaute lungsim sungah ka guang ding hi, a lungtang uhah ka gelh ding hi, amaute Pasian ka hi ding hi, amaute in ka mite ahi ding-te hi.
 
-**ZVS:** Ahi zongin tu-in Israel mite tawh ka bawldingthuciamna hih bang ahi hi. Amaute sungah ka thukham ka guang ding a, amaute lungtang tungah gelhin, amaute' Pasian ka hi ding a, amaute pen keima mi ahi ding uh hi.
+**ZVS:** Ahi zongin tu-in Israel mite tawh ka bawldingthuciamna hih bang ahi hi. Amaute sungah ka thukham ka guang ding a, amaute lungtang tungah gelhin, amaute' Pasian ka hi ding a, amaute pen keima mi ahi ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v11
 **EN:** And they shall not teach every man his neighbour, and every man his brother, saying, Know the Lord: for all shall know me, from the least to the greatest.
 
-**TDB77:** Tuate in, ‘Topa thei un,’ ci-in, amau pawl ciat, u leh nau khat leh khat thu kihilh lo ding uh hi. Bang hang hiam na cih uh leh, a neubel akipan a golbel dongin amaute khempeuh in kei hong thei ding uh hi.
+**TDB77:** Tuate in, ‘Topa thei un,’ ci-in, amau pawl ciat, u leh nau khat leh khat thu kihilh lo ding-te hi. Bang hang hiam na cih-te leh, a neubel akipan a golbel dongin amaute khempeuh in kei hong thei ding-te hi.
 
-**ZVS:** A neupen pan a lianpen dongin mi khempeuh in hong thei ding uh ahih manin ‘Topa thei in,’ ci-in a ulenau leh a mipihte kiangah kuamah in a hilh ding kisam nawnlo ding hi.
+**ZVS:** A neupen pan a lianpen dongin mi khempeuh in hong thei ding-te ahih manin ‘Topa thei in,’ ci-in a ulenau leh a mipihte kiangah kuamah in a hilh ding kisam nawnlo ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** For I will be merciful to their unrighteousness, and their sins and their iniquities will I remember no more.
 
-**TDB77:** Bang hang hiam na cih uh leh, keimah in amaute mawhnate ka thuak ding hi. Amau mawhnate ka ciamteh kei ding hi, ci-in Topa in thu a pia hi,” a ci hi.
+**TDB77:** Bang hang hiam na cih-te leh, keimah in amaute mawhnate ka thuak ding hi. Amau mawhnate ka ciamteh kei ding hi, ci-in Topa in thu a pia hi,” a ci hi.
 
 **ZVS:** A mawhna a khialhna uhah amaute ka hehpih ding a, tua bangte phawkin ka nei nawn kei ding hi,” na ci hi.
 

@@ -65,27 +65,27 @@
 ### v5
 **EN:** They have corrupted themselves, their spot is not the spot of his children: they are a perverse and crooked generation.
 
-**TDB77:** Amaute in ama tungah gamtat sia uh a, amaute’ sitban’na hangin amaute in ama tate hi nawn lo uh hi; amaute in a lampial, lungsim kawi khang mite ahi uh hi.
+**TDB77:** Amaute in ama tungah gamtat sia-te a, amaute’ sitban’na hangin amaute in ama tate hi nawn lo-te hi; amaute in a lampial, lungsim kawi khang mite ahi-te hi.
 
-**ZVS:** Ama tungah amaute gamtat sia uh a, amaute' sitbaan'na hangin ama tate hi nawnlo uh hi. Amaute pen a lampial, a lungsim kawi khang mite ahi uh hi.
+**ZVS:** Ama tungah amaute gamtat sia-te a, amaute' sitbaan'na hangin ama tate hi nawnlo-te hi. Amaute pen a lampial, a lungsim kawi khang mite ahi-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v6
 **EN:** Do ye thus requite the
 
-**TDB77:** A hai, ngaihsutna nei lo mite aw, tua bangin Topa thuk ding na hi uh hiam? Amah in, note a hong piangsak, note hong bawlin a hong kipsak, na Pa uh hilo ahi hiam?
+**TDB77:** A hai, ngaihsutna nei lo mite aw, tua bangin Topa thuk ding na hi-te hiam? Amah in, note a hong piangsak, note hong bawlin a hong kipsak, na Pa-te hilo ahi hiam?
 
-**ZVS:** A hai, ngaihsutna neilo mite aw, tua bangin { Topa } thuk ding na hi uh hiam? Amah pen, note a hong piangsak, note hong bawlin a hong kipsak, na pa uh hilo ahi hiam?
+**ZVS:** A hai, ngaihsutna neilo mite aw, tua bangin { Topa } thuk ding na hi-te hiam? Amah pen, note a hong piangsak, note hong bawlin a hong kipsak, na pa-te hilo ahi hiam?
 
 **Grammar:** causative: -sak suffix | negation: lo | reciprocal: ki- prefix
 
 ### v7
 **EN:** Remember the days of old, consider the years of many generations: ask thy father, and he will shew thee; thy elders, and they will tell thee.
 
-**TDB77:** A beisa hunte phawk un la, khang tampi hunte ngaihsun un; na pa dong in, hong lak ding hi; na upate dong in, hong gen ding uh hi.
+**TDB77:** A beisa hunte phawk un la, khang tampi hunte ngaihsun un; na pa dong in, hong lak ding hi; na upate dong in, hong gen ding-te hi.
 
-**ZVS:** “A beisa hunte phawk un la, khang tampi hunte ngaihsun un. Na pate uh dong le-uh cin, hong hilh ding uh a, na upate uh dong le-uh cin hong gen ding uh hi.
+**ZVS:** “A beisa hunte phawk un la, khang tampi hunte ngaihsun un. Na pate-te dong le-uh cin, hong hilh ding-te a, na upate-te dong le-uh cin hong gen ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -135,54 +135,54 @@
 ### v13
 **EN:** He made him ride on the high places of the earth, that he might eat the increase of the fields; and he made him to suck honey out of the rock, and oil out of the flinty rock;
 
-**TDB77:** Amah in leitung a sangna munte tungah amaute tuang sak a, amaute in gamlak pana piangte a ne uh hi; suangpi panin amaute khuaizu hup sakin, meisuang tawh kibang suang panin sathau a ne sak hi.
+**TDB77:** Amah in leitung a sangna munte tungah amaute tuang sak a, amaute in gamlak pana piangte a ne-te hi; suangpi panin amaute khuaizu hup sakin, meisuang tawh kibang suang panin sathau a ne sak hi.
 
-**ZVS:** “Amah in leitung a sangna-ah amaute tuangsak a, amaute in gamlak pana piangte a ne uh hi. Suangpi panin amaute khuaizu hup sakin, meisuang tawh a kibang suang panin sathau a nesak hi.
+**ZVS:** “Amah in leitung a sangna-ah amaute tuangsak a, amaute in gamlak pana piangte a ne-te hi. Suangpi panin amaute khuaizu hup sakin, meisuang tawh a kibang suang panin sathau a nesak hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** Butter of kine, and milk of sheep, with fat of lambs, and rams of the breed of Bashan, and goats, with the fat of kidneys of wheat; and thou didst drink the pure blood of the grape.
 
-**TDB77:** Bawnghon panin bawngnawi thaukhal, tuuhon panin tuunawi, tuunote leh tuutalte’ thau tawh, Bashan bawng honte leh keelte, mangbuh hoihpente tawh leenggah tuisan na dawn uh hi.
+**TDB77:** Bawnghon panin bawngnawi thaukhal, tuuhon panin tuunawi, tuunote leh tuutalte’ thau tawh, Bashan bawng honte leh keelte, mangbuh hoihpente tawh leenggah tuisan na dawn-te hi.
 
-**ZVS:** Bawnghon panin bawngnawi thaukhal, tuuhon panin tuunawi, tuunote leh tuutalte' thau tawh, Bashan bawnghonte leh keelte, mangbuh hoihpente tawh leenggahtui san na dawn uh hi.
+**ZVS:** Bawnghon panin bawngnawi thaukhal, tuuhon panin tuunawi, tuunote leh tuutalte' thau tawh, Bashan bawnghonte leh keelte, mangbuh hoihpente tawh leenggahtui san na dawn-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** But Jeshurun waxed fat, and kicked: thou art waxen fat, thou art grown thick, thou art covered with fatness; then he forsook God which made him, and lightly esteemed the Rock of his salvation.
 
-**TDB77:** “Israel mite thau mahmah uh a, a lehdo thei mi suak uh hi; note thau-in, lianpi pha-in, na zol uh hi; tua ciangin amaute a bawl Pasian amaute in nusia-in, amau’ a Honkhiapa thusim lo uh hi.
+**TDB77:** “Israel mite thau mahmah-te a, a lehdo thei mi suak-te hi; note thau-in, lianpi pha-in, na zol-te hi; tua ciangin amaute a bawl Pasian amaute in nusia-in, amau’ a Honkhiapa thusim lo-te hi.
 
-**ZVS:** “Israel mite thau mahmah uh a, a lehdo thei mi suak uh hi. Note thau-in lianpi pha-in, na zol uh hi. Tua ciangin amaute a bawl Pasian amaute in nusia-in, amau a Honkhiapa thusimlo uh hi.
+**ZVS:** “Israel mite thau mahmah-te a, a lehdo thei mi suak-te hi. Note thau-in lianpi pha-in, na zol-te hi. Tua ciangin amaute a bawl Pasian amaute in nusia-in, amau a Honkhiapa thusimlo-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v16
 **EN:** They provoked him to jealousy with strange gods, with abominations provoked they him to anger.
 
-**TDB77:** Amaute in pasian dangte tawh ama hazat theih nadingin gamta uh a, a kihhuai gamtatnate tawh amaute in amah hehsak uh hi.
+**TDB77:** Amaute in pasian dangte tawh ama hazat theih nadingin gamta-te a, a kihhuai gamtatnate tawh amaute in amah hehsak-te hi.
 
-**ZVS:** Amaute pen pasian dangte tawh ama hazat theihna dingin gamta uh a, a kihhuai gamtatnate tawh amaute in amah hehsak uh hi.
+**ZVS:** Amaute pen pasian dangte tawh ama hazat theihna dingin gamta-te a, a kihhuai gamtatnate tawh amaute in amah hehsak-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** They sacrificed unto devils, not to God; to gods whom they knew not, to new gods that came newly up, whom your fathers feared not.
 
-**TDB77:** Amaute in pasian a hilo dawite, amau’ theih ngei loh pasiante, hong suak nunung pasian thakte, na pu na pate’ theih ngei lohte’ tungah biakna pia uh hi.
+**TDB77:** Amaute in pasian a hilo dawite, amau’ theih ngei loh pasiante, hong suak nunung pasian thakte, na pu na pate’ theih ngei lohte’ tungah biakna pia-te hi.
 
-**ZVS:** Amaute in pasian a hilo dawite, amau' theih ngeiloh pasian-te, hong suak nunung pasian thakte, na pu na pate un a theih ngeiloh pasian-te' tungah biakna a pia uh hi.
+**ZVS:** Amaute in pasian a hilo dawite, amau' theih ngeiloh pasian-te, hong suak nunung pasian thakte, na pu na pate un a theih ngeiloh pasian-te' tungah biakna a pia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** Of the Rock that begat thee thou art unmindful, and hast forgotten God that formed thee.
 
-**TDB77:** Note a hong Honkhiapa na phawk kei uh a, note hong suaksak Pasian na mangngilh uh hi.
+**TDB77:** Note a hong Honkhiapa na phawk kei-te a, note hong suaksak Pasian na mangngilh-te hi.
 
-**ZVS:** Note a hong Honkhiapa na phawk kei uh a, note a hong suaksak Pasian na mangngilh uh hi.
+**ZVS:** Note a hong Honkhiapa na phawk kei-te a, note a hong suaksak Pasian na mangngilh-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -191,25 +191,25 @@
 
 **TDB77:** “Topa in tua thu thei a, a tapate leh a tanute in hehsak ahih manin tua ama tate a nolh hi.
 
-**ZVS:** “{ Topa } in tua thu thei a, a tapate leh a tanute in amah hehsak uh ahih manin tua ama tate a nolh hi.
+**ZVS:** “{ Topa } in tua thu thei a, a tapate leh a tanute in amah hehsak-te ahih manin tua ama tate a nolh hi.
 
 **Grammar:** causal: because
 
 ### v20
 **EN:** And he said, I will hide my face from them, I will see what their end shall be: for they are a very froward generation, children in whom is no faith.
 
-**TDB77:** Amah in, ‘Amaute kiang panin ka mai ka seel ding a, amaute’ tawpna bang hong hi hiam ka en ding hi; bang hang hiam cih leh amaute in a lampial khang mite hi a, cihtakna a nei lo tate ahi uh hi.
+**TDB77:** Amah in, ‘Amaute kiang panin ka mai ka seel ding a, amaute’ tawpna bang hong hi hiam ka en ding hi; bang hang hiam cih leh amaute in a lampial khang mite hi a, cihtakna a nei lo tate ahi-te hi.
 
-**ZVS:** Amah in, ‘Amaute' kiang panin ka mai ka seel ding a, amaute' thumong bang hong hi hiam, ka en ding hi. Bang hang hiam cih leh amaute a lampial khang mite hi a, cihtakna a neilo tate ahi uh hi.
+**ZVS:** Amah in, ‘Amaute' kiang panin ka mai ka seel ding a, amaute' thumong bang hong hi hiam, ka en ding hi. Bang hang hiam cih leh amaute a lampial khang mite hi a, cihtakna a neilo tate ahi-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** They have moved me to jealousy with that which is not God; they have provoked me to anger with their vanities: and I will move them to jealousy with those which are not a people; I will provoke them to anger with a foolish nation.
 
-**TDB77:** Amaute in pasian a hilote tawh ka hazat nading hong bawl uh a, a milimte uh tawh kei hong hehsak uh hi. Tua ahih ciangin mi-a gentaak lote tawh amaute’ hazat theih nading ka bawl ding hi. A hai minam khat tawh amaute ka hehsak ding hi.
+**TDB77:** Amaute in pasian a hilote tawh ka hazat nading hong bawl-te a, a milimte-te tawh kei hong hehsak-te hi. Tua ahih ciangin mi-a gentaak lote tawh amaute’ hazat theih nading ka bawl ding hi. A hai minam khat tawh amaute ka hehsak ding hi.
 
-**ZVS:** Amaute in pasian a hilote tawh ka hazatna ding hong bawl uh a, a milimte uh tawh kei hong hehsak uh hi. Tua ahih ciangin mi-a a gen taaklo mite tawh amaute' hazat theihna ding ka bawl ding a, a hai mahmah minam khat tawh amaute ka hehsak ding hi.
+**ZVS:** Amaute in pasian a hilote tawh ka hazatna ding hong bawl-te a, a milimte-te tawh kei hong hehsak-te hi. Tua ahih ciangin mi-a a gen taaklo mite tawh amaute' hazat theihna ding ka bawl ding a, a hai mahmah minam khat tawh amaute ka hehsak ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -232,9 +232,9 @@
 ### v24
 **EN:** They shall be burnt with hunger, and devoured with burning heat, and with bitter destruction: I will also send the teeth of beasts upon them, with the poison of serpents of the dust.
 
-**TDB77:** gilkialna tawh amaute bei ding uh a, meikuang sa mahmah leh gu nei natna in amaute ne-tum ding hi; keimah in amaute a pet dingin ha hiam a nei gamsate, amaute a tu dingin gu a nei gulte ka sawl ding hi.
+**TDB77:** gilkialna tawh amaute bei ding-te a, meikuang sa mahmah leh gu nei natna in amaute ne-tum ding hi; keimah in amaute a pet dingin ha hiam a nei gamsate, amaute a tu dingin gu a nei gulte ka sawl ding hi.
 
-**ZVS:** Gilkialin amaute si ding uh a, a sa mahmah meikuang leh gunei natna in amaute netum ding hi. Keimah in amaute a pet dingin ha hiam a nei gamsate amaute a tu dingin gu a nei gulte ka sawl ding hi.
+**ZVS:** Gilkialin amaute si ding-te a, a sa mahmah meikuang leh gunei natna in amaute netum ding hi. Keimah in amaute a pet dingin ha hiam a nei gamsate amaute a tu dingin gu a nei gulte ka sawl ding hi.
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | future: will | plural: uh marker
 
@@ -259,9 +259,9 @@
 ### v27
 **EN:** Were it not that I feared the wrath of the enemy, lest their adversaries should behave themselves strangely, and lest they should say, Our hand is high, and the
 
-**TDB77:** amau’ langte in ngaihsun khialin, amaute in, “Eite i gualzo hi, Topa in hihte khempeuh bawl lo hi,” hong ci kha ding uh ahih manin galte’ hong phin ding ka lau hi,’ a ci hi.
+**TDB77:** amau’ langte in ngaihsun khialin, amaute in, “Eite i gualzo hi, Topa in hihte khempeuh bawl lo hi,” hong ci kha ding-te ahih manin galte’ hong phin ding ka lau hi,’ a ci hi.
 
-**ZVS:** Amau' langte in ngaihsun khialin, amaute in, “Eite i gualzo hi. { Topa } in hihte khempeuh bawllo hi,” hong ci khading uh ahih manin galte' hong phin ding ka lau hi,’ a ci hi.
+**ZVS:** Amau' langte in ngaihsun khialin, amaute in, “Eite i gualzo hi. { Topa } in hihte khempeuh bawllo hi,” hong ci khading-te ahih manin galte' hong phin ding ka lau hi,’ a ci hi.
 
 **Grammar:** quotative: said/saying | negation: lo | causal: because | plural: uh marker
 
@@ -277,9 +277,9 @@
 ### v29
 **EN:** O that they were wise, that they understood this, that they would consider their latter end!
 
-**TDB77:** Amaute pil hi leh, hih thu theitel ding uh a, amau’ thu tawpna mu ding uh hi!
+**TDB77:** Amaute pil hi leh, hih thu theitel ding-te a, amau’ thu tawpna mu ding-te hi!
 
-**ZVS:** Amaute a pil hi leh, hih thu theitel ding uh a, amau' thu tawpna mu ding uh!
+**ZVS:** Amaute a pil hi leh, hih thu theitel ding-te a, amau' thu tawpna mu ding uh!
 
 **Grammar:** future: will | plural: uh marker
 
@@ -304,7 +304,7 @@
 
 **TDB77:** Bang hang hiam cih leh amau’ leenggui in Sodom leenggui pan leh Gomorrah lote panin hong pai ahi hi; amau’ leenggahte in gu a nei leenggah hi a, amau’ leenggah bawkte a kha hi;
 
-**ZVS:** Amaute, Sodom leh Gomorrah bangin siahuai uh a, gu nei-in a kha leenggah a gah leenggui tawh kibang uh hi.
+**ZVS:** Amaute, Sodom leh Gomorrah bangin siahuai-te a, gu nei-in a kha leenggah a gah leenggui tawh kibang-te hi.
 
 ### v33
 **EN:** Their wine is the poison of dragons, and the cruel venom of asps.
@@ -325,9 +325,9 @@
 ### v35
 **EN:** To me belongeth vengeance, and recompence; their foot shall slide in due time: for the day of their calamity is at hand, and the things that shall come upon them make haste.
 
-**TDB77:** Phulakna leh thukkikna kei’ aa ahi hi, a hun ciangin amaute puk ding uh hi; bang hang hiam cih leh amau’ gim ngah hun ding hong nai a, amau’ siat nading hong tung pah hi.
+**TDB77:** Phulakna leh thukkikna kei’ aa ahi hi, a hun ciangin amaute puk ding-te hi; bang hang hiam cih leh amau’ gim ngah hun ding hong nai a, amau’ siat nading hong tung pah hi.
 
-**ZVS:** Phulakna leh thukkikna kei-a' hi a, a hun ciangin amaute puk ding uh hi. Bang hang hiam cih leh amau' gimngah hun ding hong naita a, amau' siatna ding hong tung pah hi.
+**ZVS:** Phulakna leh thukkikna kei-a' hi a, a hun ciangin amaute puk ding-te hi. Bang hang hiam cih leh amau' gimngah hun ding hong naita a, amau' siatna ding hong tung pah hi.
 
 **Grammar:** punctual: immediately/suddenly | future: will | plural: uh marker
 
@@ -343,18 +343,18 @@
 ### v37
 **EN:** And he shall say, Where are their gods, their rock in whom they trusted,
 
-**TDB77:** Tua ciangin amah in, ‘Amau’ pasiante, a bukna uh suangpi,
+**TDB77:** Tua ciangin amah in, ‘Amau’ pasiante, a bukna-te suangpi,
 
-**ZVS:** Tua ciangin amah in, ‘Amau' pasian-te, a bukna uh suangpi,
+**ZVS:** Tua ciangin amah in, ‘Amau' pasian-te, a bukna-te suangpi,
 
 **Grammar:** sequence: then/therefore
 
 ### v38
 **EN:** Which did eat the fat of their sacrifices, and drank the wine of their drink offerings? let them rise up and help you, and be your protection.
 
-**TDB77:** amaute’ biak piakna thau ne-in, leenggahzu tawh a biakna uh a dawnte koi-ah om ahi hiam? amaute thosakin note kihuh sak un la, amaute na kidalna uh hi sak un!
+**TDB77:** amaute’ biak piakna thau ne-in, leenggahzu tawh a biakna-te a dawnte koi-ah om ahi hiam? amaute thosakin note kihuh sak un la, amaute na kidalna-te hi sak un!
 
-**ZVS:** amaute' biakpiakna thau ne-in, leenggahzu tawh a biakna uh a dawnte koi-ah om ahi hiam? Amaute thosakin note kihuhsak un la, amaute, na kidalna uh hisak un!
+**ZVS:** amaute' biakpiakna thau ne-in, leenggahzu tawh a biakna-te a dawnte koi-ah om ahi hiam? Amaute thosakin note kihuhsak un la, amaute, na kidalna-te hisak un!
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -408,7 +408,7 @@
 
 **TDB77:** Moses hong pai-in, mite’ zakin amah leh Nun’ tapa Joshua in hih la malte khempeuh sut hi.
 
-**ZVS:** Tua ciangin Moses hong pai-in, mite' zakin amah leh Nun' tapa Joshua in hih la malte khempeuh a sut uh hi.
+**ZVS:** Tua ciangin Moses hong pai-in, mite' zakin amah leh Nun' tapa Joshua in hih la malte khempeuh a sut-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -422,7 +422,7 @@
 ### v46
 **EN:** And he said unto them, Set your hearts unto all the words which I testify among you this day, which ye shall command your children to observe to do, all the words of this law.
 
-**TDB77:** amaute kiangah, “Hih thu khempeuh lim takin a hih theih nadingun na tate uh tungah na hilh theih nadingun, tu ni-a note tungah kong piak thu khempeuh na lungsim uhah koih un.
+**TDB77:** amaute kiangah, “Hih thu khempeuh lim takin a hih theih nadingun na tate-te tungah na hilh theih nadingun, tu ni-a note tungah kong piak thu khempeuh na lungsim uhah koih un.
 
 **ZVS:** amaute kiangah, “Hih thu khempeuh limtakin zui un la, na tate un a zuih dingin na hilh theihna dingun tuni-a note tungah kong gen thu khempeuh na lungsim uhah koih un.
 
@@ -431,9 +431,9 @@
 ### v47
 **EN:** For it is not a vain thing for you; because it is your life: and through this thing ye shall prolong your days in the land, whither ye go over Jordan to possess it.
 
-**TDB77:** Bang hang hiam cih leh hih in note adingin a thuneu hi loin, note’ nuntakna hi a, a luah dingin Jordan gal khatah na paina gam sung uhah hih thu tawh sau veipi na hing ding uh hi,” a ci hi.
+**TDB77:** Bang hang hiam cih leh hih in note adingin a thuneu hi loin, note’ nuntakna hi a, a luah dingin Jordan gal khatah na paina gam sung uhah hih thu tawh sau veipi na hing ding-te hi,” a ci hi.
 
-**ZVS:** Bang hang hiam cih leh hih pen note-a' dingin a thuneu hiloin note' nuntakna hi a, a luah dingin Jordan galkhat na paina uh gam sungah hih thu tawh sauveipi na hing ding uh hi,” a ci hi.
+**ZVS:** Bang hang hiam cih leh hih pen note-a' dingin a thuneu hiloin note' nuntakna hi a, a luah dingin Jordan galkhat na paina-te gam sungah hih thu tawh sauveipi na hing ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | plural: uh marker
 

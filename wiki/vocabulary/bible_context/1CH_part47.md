@@ -136,11 +136,11 @@
 
 ### puanhampi silhin = having spread sackcloth
 **Context:** An act of deep mourning, repentance, or reverence.
-**Example:** David leh a upate puanhampi silhin mai puk uh hi.
+**Example:** David leh a upate puanhampi silhin mai puk-te hi.
 
-### maipuk uh hi = they bowed down (prostrated)
+### maipuk-te hi = they bowed down (prostrated)
 **Context:** An act of deep reverence or submission.
-**Example:** puanhampi silhin mai puk uh hi.
+**Example:** puanhampi silhin mai puk-te hi.
 
 ### gitloh gamtat mahmahpa = the one who has done very wickedly
 **Context:** David accepting full responsibility for the sin.

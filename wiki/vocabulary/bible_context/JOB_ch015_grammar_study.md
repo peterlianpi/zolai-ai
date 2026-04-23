@@ -42,9 +42,9 @@
 ### v3
 **EN:** Should he reason with unprofitable talk? or with speeches wherewith he can do no good?
 
-**TDB77:** bangmah-a kimang lo kam pau lo a, phattuamna om lo dingpi-in thu seel lo uh hi.
+**TDB77:** bangmah-a kimang lo kam pau lo a, phattuamna om lo dingpi-in thu seel lo-te hi.
 
-**ZVS:** bangmaha kimanglo kampaute paulo a, phattuamna omlo dingpi-in thu seello uh hi.
+**ZVS:** bangmaha kimanglo kampaute paulo a, phattuamna omlo dingpi-in thu seello-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -101,18 +101,18 @@
 ### v10
 **EN:** With us are both the grayheaded and very aged men, much elder than thy father.
 
-**TDB77:** Na pa’ pian’ ma-a piang puteek samkangte tung panin kote in ka pilnate uh ka ngah uh hi.
+**TDB77:** Na pa’ pian’ ma-a piang puteek samkangte tung panin kote in ka pilnate-te ka ngah-te hi.
 
-**ZVS:** Na pa' pian'ma-a a piang puteek samkangte' tung panin kote in ka pilnate uh a ngah ka hi uh hi.
+**ZVS:** Na pa' pian'ma-a a piang puteek samkangte' tung panin kote in ka pilnate-te a ngah ka hi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** Are the consolations of God small with thee? is there any secret thing with thee?
 
-**TDB77:** Pasian in nang hong hehnem hi; bang hangin nialnial na hi hiam? Kam khum kam nem tawh Pasian’ taangin nang tungah thu kong gen uh hi.
+**TDB77:** Pasian in nang hong hehnem hi; bang hangin nialnial na hi hiam? Kam khum kam nem tawh Pasian’ taangin nang tungah thu kong gen-te hi.
 
-**ZVS:** “Pasian in nang hong hehnem hi; bang hangin nialnial na hi hiam? Kam khum kam neem tawh Pasian' tangin nang tungah thu kong gen uh hi.
+**ZVS:** “Pasian in nang hong hehnem hi; bang hangin nialnial na hi hiam? Kam khum kam neem tawh Pasian' tangin nang tungah thu kong gen-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -163,7 +163,7 @@
 ### v19
 **EN:** Unto whom alone the earth was given, and no stranger passed among them.
 
-**TDB77:** Amaute tung bekah gam kipia ahih manin, amaute a pialkhiatpih ding gamdang mi tawh a kihello, a pu a pate un bangmah imloin thu a hilh suksuk uh mipilte' thugente kong gen ding hi. Tua a gen uh thute in:
+**TDB77:** Amaute tung bekah gam kipia ahih manin, amaute a pialkhiatpih ding gamdang mi tawh a kihello, a pu a pate un bangmah imloin thu a hilh suksuk-te mipilte' thugente kong gen ding hi. Tua a gen-te thute in:
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix
 
@@ -197,9 +197,9 @@
 ### v23
 **EN:** He wandereth abroad for bread, saying, Where is it? he knoweth that the day of darkness is ready at his hand.
 
-**TDB77:** amah ne dingin musanete in ngak uh hi. A mai lam thu lungzin’huai ahihna thei hi.
+**TDB77:** amah ne dingin musanete in ngak-te hi. A mai lam thu lungzin’huai ahihna thei hi.
 
-**ZVS:** amah a ne dingin musanete in a ngak uh hi. A mailam thu lungzin'huai ahihna thei hi.
+**ZVS:** amah a ne dingin musanete in a ngak-te hi. A mailam thu lungzin'huai ahihna thei hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -301,9 +301,9 @@
 ### v35
 **EN:** They conceive mischief, and bring forth vanity, and their belly prepareth deceit.
 
-**TDB77:** Hih bang mite in siat nading bek ngaihsunin sem uh a, a lungsim uh ah khem ding bekbek ngaihsun uh hi,” a ci hi.
+**TDB77:** Hih bang mite in siat nading bek ngaihsunin sem-te a, a lungsim-te ah khem ding bekbek ngaihsun-te hi,” a ci hi.
 
-**ZVS:** Mihingte in siatna ding bek ngaihsunin sem uh a, mi khem ding bekbek ngaihsun niloh uh hi,” a ci hi.
+**ZVS:** Mihingte in siatna ding bek ngaihsunin sem-te a, mi khem ding bekbek ngaihsun niloh-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 

@@ -25,9 +25,9 @@
 ### v1
 **EN:** And the whole congregation of the children of Israel assembled together at Shiloh, and set up the tabernacle of the congregation there. And the land was subdued before them.
 
-**TDB77:** Tua ciangin Israel mihon buppi Shiloh-ah kikhawm uh a, tua lai-ah kikhopna buk lam uh hi; amaute mai-ah gam zawhsa-in om hi.
+**TDB77:** Tua ciangin Israel mihon buppi Shiloh-ah kikhawm-te a, tua lai-ah kikhopna buk lam-te hi; amaute mai-ah gam zawhsa-in om hi.
 
-**ZVS:** Tua ciangin Israel mihon buppi Shiloh-ah kikhawmin tua lai-ah kikhopna buk lam uh a, amaute' mai-ah gam zawhsa-in om hi.
+**ZVS:** Tua ciangin Israel mihon buppi Shiloh-ah kikhawmin tua lai-ah kikhopna buk lam-te a, amaute' mai-ah gam zawhsa-in om hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -43,9 +43,9 @@
 ### v3
 **EN:** And Joshua said unto the children of Israel, How long are ye slack to go to possess the land, which the
 
-**TDB77:** Tua ahih ciangin Joshua in Israel mite kiangah, “Topa, na pu na pate uh Pasian in note hong piaksa leitangah pai-in na luah ding uh bang tanvei zekai ding na hi uh hiam?
+**TDB77:** Tua ahih ciangin Joshua in Israel mite kiangah, “Topa, na pu na pate-te Pasian in note hong piaksa leitangah pai-in na luah ding-te bang tanvei zekai ding na hi-te hiam?
 
-**ZVS:** Tua ahih ciangin Joshua in Israel mite kiangah, “{ Topa}, na pu na pate uh Pasian in note hong piaksa leitangah pai-in na luah ding uh bang tanvei zekai lai ding na hi uh hiam?
+**ZVS:** Tua ahih ciangin Joshua in Israel mite kiangah, “{ Topa}, na pu na pate-te Pasian in note hong piaksa leitangah pai-in na luah ding-te bang tanvei zekai lai ding na hi-te hiam?
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -70,36 +70,36 @@
 ### v6
 **EN:** Ye shall therefore describe the land into seven parts, and bring the description hither to me, that I may cast lots for you here before the
 
-**TDB77:** Note in leitang khen sagihin hong ciamteh un la, na ciamtehna uh hih mun kei kiangah nong paipih ding uh hi; tua ciangin keimah in Topa i Pasian’ mai-ah note adingin aai ka saan ding hi.
+**TDB77:** Note in leitang khen sagihin hong ciamteh un la, na ciamtehna-te hih mun kei kiangah nong paipih ding-te hi; tua ciangin keimah in Topa i Pasian’ mai-ah note adingin aai ka saan ding hi.
 
-**ZVS:** Note in leitang khen sagihin hong ciamteh un la, na ciamtehna uh hih mun kei kiangah nong paipih ding uh hi. Tua ciangin keimah in { Topa } i Pasian' mai-ah note-a' ding ai ka san ding hi.
+**ZVS:** Note in leitang khen sagihin hong ciamteh un la, na ciamtehna-te hih mun kei kiangah nong paipih ding-te hi. Tua ciangin keimah in { Topa } i Pasian' mai-ah note-a' ding ai ka san ding hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** But the Levites have no part among you; for the priesthood of the
 
-**TDB77:** Levi mite in note lakah tanh nei lo hi; bang hang hiam cih leh Topa’ siampi nasepna in amau’ luah ahi hi; Gad leh Reuben leh Manasseh minam a langte in Topa’ nasem Moses in amaute tungah a piak ahi, Jordan Nisuahna lam gal khatah amau’ gamh ngah khin zo uh hi,” a ci hi.
+**TDB77:** Levi mite in note lakah tanh nei lo hi; bang hang hiam cih leh Topa’ siampi nasepna in amau’ luah ahi hi; Gad leh Reuben leh Manasseh minam a langte in Topa’ nasem Moses in amaute tungah a piak ahi, Jordan Nisuahna lam gal khatah amau’ gamh ngah khin zo-te hi,” a ci hi.
 
-**ZVS:** Levi mite in note lakah tanh neilo hi. Bang hang hiam cih leh { Topa' } siampi nasepna pen amau' luah ahi hi. Gad, Reuben, leh Manasseh minam alangte in { Topa' } nasem Moses in amaute tungah a piak ahi Jordan Nisuahna lam galkhatah amau' gamh ngah khinzo uh hi,” a ci hi.
+**ZVS:** Levi mite in note lakah tanh neilo hi. Bang hang hiam cih leh { Topa' } siampi nasepna pen amau' luah ahi hi. Gad, Reuben, leh Manasseh minam alangte in { Topa' } nasem Moses in amaute tungah a piak ahi Jordan Nisuahna lam galkhatah amau' gamh ngah khinzo-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: lo | plural: uh marker
 
 ### v8
 **EN:** And the men arose, and went away: and Joshua charged them that went to describe the land, saying, Go and walk through the land, and describe it, and come again to me, that I may here cast lots for you before the
 
-**TDB77:** Tua ahih ciangin mite kuan uh hi; leitang a ciamtehna a gelh nadingun Joshua in a pai mite thu pia a, “Vaksuk vakto-in leitang ciamtehna hong gelh un la, kei kiangah hong pai kik un; tua ciangin Shiloh mun Topa mai-ah note adingin aai ka saan ding hi,” a ci hi.
+**TDB77:** Tua ahih ciangin mite kuan-te hi; leitang a ciamtehna a gelh nadingun Joshua in a pai mite thu pia a, “Vaksuk vakto-in leitang ciamtehna hong gelh un la, kei kiangah hong pai kik un; tua ciangin Shiloh mun Topa mai-ah note adingin aai ka saan ding hi,” a ci hi.
 
-**ZVS:** Tua ahih ciangin mite a kuan uh hi. Leitang a ciamtehna a gelhna dingun Joshua in a pai mite thu pia a, “Vaksuk vakto-in leitang ciamtehna hong gelh un la, kei kiangah hong paikik un. Tua ciangin Shiloh mun { Topa' } mai-ah note-a' dingin ai ka san ding hi,” a ci hi.
+**ZVS:** Tua ahih ciangin mite a kuan-te hi. Leitang a ciamtehna a gelhna dingun Joshua in a pai mite thu pia a, “Vaksuk vakto-in leitang ciamtehna hong gelh un la, kei kiangah hong paikik un. Tua ciangin Shiloh mun { Topa' } mai-ah note-a' dingin ai ka san ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And the men went and passed through the land, and described it by cities into seven parts in a book, and came again to Joshua to the host at Shiloh.
 
-**TDB77:** Tua ciangin mite kuanin gam sungah paisuk paito-in khen sagih suahin tua gam a khua khua-in a ciamtehna uh laibu khat sungah khum uh hi; tua ciangin Shiloh giahphual-a Joshua kiangah amaute hong pai uh hi;
+**TDB77:** Tua ciangin mite kuanin gam sungah paisuk paito-in khen sagih suahin tua gam a khua khua-in a ciamtehna-te laibu khat sungah khum-te hi; tua ciangin Shiloh giahphual-a Joshua kiangah amaute hong pai-te hi;
 
-**ZVS:** Tua ciangin mite kuanin gam sungah paisuk paito-in khen sagih suahin tua gam a khuakhua-in a ciamtehna uh laibu khat sungah khum uh a, Shiloh giahphuala Joshua kiangah amaute hong pai uh hi.
+**ZVS:** Tua ciangin mite kuanin gam sungah paisuk paito-in khen sagih suahin tua gam a khuakhua-in a ciamtehna-te laibu khat sungah khum-te a, Shiloh giahphuala Joshua kiangah amaute hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 

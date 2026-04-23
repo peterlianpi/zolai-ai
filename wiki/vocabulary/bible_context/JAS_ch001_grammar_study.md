@@ -37,18 +37,18 @@
 ### v2
 **EN:** My brethren, count it all joy when ye fall into divers temptations;
 
-**TDB77:** Ka u ka naute aw, ze-etna apawlpawl na thuak uh ciangin lungdam nading bek a hi ci-in na ciamteh un.
+**TDB77:** Ka u ka naute aw, ze-etna apawlpawl na thuak-te ciangin lungdam nading bek a hi ci-in na ciamteh un.
 
-**ZVS:** Sanggamte aw, thuhaksa a tuamtuam na thuak uh ciangin lungdamna dingin na ngaihsun zaw un.
+**ZVS:** Sanggamte aw, thuhaksa a tuamtuam na thuak-te ciangin lungdamna dingin na ngaihsun zaw un.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v3
 **EN:** Knowing this, that the trying of your faith worketh patience.
 
-**TDB77:** Bang hang hiam na cih uh leh, note upna uh hong ze-etnate in thuakzawhna hong khangsak hi ci-in na ciamteh un.
+**TDB77:** Bang hang hiam na cih-te leh, note upna-te hong ze-etnate in thuakzawhna hong khangsak hi ci-in na ciamteh un.
 
-**ZVS:** Tua bangin na upna hong hong kize-etna na thuakzawh uh ciangin na kipna uh hong kilangsak ahihna thu na thei uh hi.
+**ZVS:** Tua bangin na upna hong hong kize-etna na thuakzawh-te ciangin na kipna-te hong kilangsak ahihna thu na thei-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -57,7 +57,7 @@
 
 **TDB77:** Note in a neu kha beek kisam loin na kicin’ nadingun, thuakzawhna lungsim in kicing takin hong bawlpha ta hen.
 
-**ZVS:** A kisam bangmah omloin a cingtaak na suahtheihna dingun na thuakna uh hangin a tawntungin na kip paisuakna dingun na ngaihsun un.
+**ZVS:** A kisam bangmah omloin a cingtaak na suahtheihna dingun na thuakna-te hangin a tawntungin na kip paisuakna dingun na ngaihsun un.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -66,41 +66,41 @@
 
 **TDB77:** Note lakah khatpeuh peuh in lungpilna a deih leh, kosiatna a nei lo, mi khempeuh a kigen thei lo-a a pia nuam Pasian kiangah thungen ta hen. A nget leh a ngah ding hi.
 
-**ZVS:** Pilna kisam na om uh leh Pasian kiangah ngen un. Mi khempeuh tungah Pasian dikin cingh mahmah ahih manin hong pia ding hi.
+**ZVS:** Pilna kisam na om-te leh Pasian kiangah ngen un. Mi khempeuh tungah Pasian dikin cingh mahmah ahih manin hong pia ding hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix
 
 ### v6
 **EN:** But let him ask in faith, nothing wavering. For he that wavereth is like a wave of the sea driven with the wind and tossed.
 
-**TDB77:** Ahih hangin um khial loin upna tawh ngen ta hen. Bang hang hiam na cih uh leh, upkhialhna a nei mi in huih nunga kilok thei tui kilok tawh kibang hi.
+**TDB77:** Ahih hangin um khial loin upna tawh ngen ta hen. Bang hang hiam na cih-te leh, upkhialhna a nei mi in huih nunga kilok thei tui kilok tawh kibang hi.
 
-**ZVS:** Ahi zongin na nget uh ciangin hong pia takpi ding hi, ci-in muan'na tawh na ngen un. A muanglah mite pen huih nun'na lam peuhah a kinil kawikawi tuihualte tawh kibang lel hi.
+**ZVS:** Ahi zongin na nget-te ciangin hong pia takpi ding hi, ci-in muan'na tawh na ngen un. A muanglah mite pen huih nun'na lam peuhah a kinil kawikawi tuihualte tawh kibang lel hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v8
 **EN:** A double minded man is unstable in all his ways.
 
-**TDB77:** Tua bang mite, lungsim kip a neilo, a kineihkhem hi lel uh a, Topa kiang panin bangmah a ngah hetloh ding lamtak uh a theih ding uh ahi hi.
+**TDB77:** Tua bang mite, lungsim kip a neilo, a kineihkhem hi lel-te a, Topa kiang panin bangmah a ngah hetloh ding lamtak-te a theih ding-te ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** Let the brother of low degree rejoice in that he is exalted:
 
-**TDB77:** Mi kiniamsak sanggamte in a ngah a san’ na uhah kilungdamsak thei ta uh hen.
+**TDB77:** Mi kiniamsak sanggamte in a ngah a san’ na uhah kilungdamsak thei ta-te hen.
 
-**ZVS:** Miniamte in liatna a ngah ciangin lungdam uh hen.
+**ZVS:** Miniamte in liatna a ngah ciangin lungdam-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v10
 **EN:** But the rich, in that he is made low: because as the flower of the grass he shall pass away.
 
-**TDB77:** Sumhau sanggam in kiniamsakna a thuakna ah kilungdamsak thei ta hen. Bang hang hiam na cih uh leh, amah in lopa paak bangin mangthang hi.
+**TDB77:** Sumhau sanggam in kiniamsakna a thuakna ah kilungdamsak thei ta hen. Bang hang hiam na cih-te leh, amah in lopa paak bangin mangthang hi.
 
-**ZVS:** Mihaute zong a niam uh ciangin lungdam veve uh hen. Lopa pak bangin a mangthang veve ding ahi uh hi.
+**ZVS:** Mihaute zong a niam-te ciangin lungdam veve-te hen. Lopa pak bangin a mangthang veve ding ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -109,23 +109,23 @@
 
 **TDB77:** Ni in a satna tawh hong suah ciangin lopa kung in keugaw a, a paak a vul thei a, a kilawmna a meelte zong a mangthang thei hi. Tua mah bangin sumhau mi in ama nate-ah vulin a mangthang ding hi.
 
-**ZVS:** Ni hong suakin a sat ciangin lopate vul a, a pakte pulhin a hoihnateng a bei mah bangin a haute zong manlahin a om laitakun siatna a thuak ding uh ahi hi.
+**ZVS:** Ni hong suakin a sat ciangin lopate vul a, a pakte pulhin a hoihnateng a bei mah bangin a haute zong manlahin a om laitakun siatna a thuak ding-te ahi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v12
 **EN:** Blessed is the man that endureth temptation: for when he is tried, he shall receive the crown of life, which the Lord hath promised to them that love him.
 
-**TDB77:** Ze-etna a thuak zo mi in thupha a ngah ding hi. Bang hang hiam na cih uh leh, ze-etna a thuak zawh khit ciangin Topa in a it mite a ciamna bangin nuntakna kumpi lukhu a ngah ding hi.
+**TDB77:** Ze-etna a thuak zo mi in thupha a ngah ding hi. Bang hang hiam na cih-te leh, ze-etna a thuak zawh khit ciangin Topa in a it mite a ciamna bangin nuntakna kumpi lukhu a ngah ding hi.
 
-**ZVS:** A hoih takpi mah hiam, ci-in sinna a thuak ciangin a nangzote a hampha mahmah ahi hi. Tua bangin a nangzote in, amah a itte tungah Pasian in a piakdingin a ciam nuntakna lukhu a ngah ding uh hi.
+**ZVS:** A hoih takpi mah hiam, ci-in sinna a thuak ciangin a nangzote a hampha mahmah ahi hi. Tua bangin a nangzote in, amah a itte tungah Pasian in a piakdingin a ciam nuntakna lukhu a ngah ding-te hi.
 
 **Grammar:** future: will
 
 ### v13
 **EN:** Let no man say when he is tempted, I am tempted of God: for God cannot be tempted with evil, neither tempteth he any man:
 
-**TDB77:** Mi khat in ze-etna a thuak ciangin, “Pasian in kei hong ze-et hi,” ci-in gen kei hen, Bang hang hiam na cih uh leh, ahoih lo tawh Pasian a kize-et zo kei hi, amah in zong kuamah ahoih lo na tawh a ze-et thei kei hi.
+**TDB77:** Mi khat in ze-etna a thuak ciangin, “Pasian in kei hong ze-et hi,” ci-in gen kei hen, Bang hang hiam na cih-te leh, ahoih lo tawh Pasian a kize-et zo kei hi, amah in zong kuamah ahoih lo na tawh a ze-et thei kei hi.
 
 **ZVS:** Mi khat peuhpeuh in tua bang ze-etna a thuak ciangin, “Pasian in kei hong ze-et hi,” ci-in ngaihsun kei hen. Siatna in Pasian ze-et ngeilo a, mite a siatna dingin Pasian in zong ze-et ngeilo hi.
 
@@ -159,7 +159,7 @@
 ### v17
 **EN:** Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
 
-**TDB77:** A pha a kicing hong piak thupha a om khempeuh in khuavakna’ Pa kiang vantung panin hong pai uh hi. Tua pa in kikheel lo tham loin, kihei-in a lim zong a kiasak kei hi.
+**TDB77:** A pha a kicing hong piak thupha a om khempeuh in khuavakna’ Pa kiang vantung panin hong pai-te hi. Tua pa in kikheel lo tham loin, kihei-in a lim zong a kiasak kei hi.
 
 **ZVS:** A hoih thu leh na khempeuh, Pasian kiang panin hong pai hi a, vantung khuavak a Piangsakpa ahih manin amah kikheel ngeilo a, amah a kihei manin khua zong mial tuanlo hi.
 
@@ -177,16 +177,16 @@
 ### v19
 **EN:** Wherefore, my beloved brethren, let every man be swift to hear, slow to speak, slow to wrath:
 
-**TDB77:** Ka it ka u ka naute aw, hih thu na thei uh hi. Ahih hangin mi khempeuh in khuazak nading manlang hen, kampau nading ahi zongin, heh nading ahi zongin, manlang kei hen.
+**TDB77:** Ka it ka u ka naute aw, hih thu na thei-te hi. Ahih hangin mi khempeuh in khuazak nading manlang hen, kampau nading ahi zongin, heh nading ahi zongin, manlang kei hen.
 
-**ZVS:** Sanggamte aw, note in na theihding uh ka deih thu in: Thu kigen khempeuh hoihtakin ngai pahpah un. Ahi zongin pau pahpah kei un la, heh pakpak kei un.
+**ZVS:** Sanggamte aw, note in na theihding-te ka deih thu in: Thu kigen khempeuh hoihtakin ngai pahpah un. Ahi zongin pau pahpah kei un la, heh pakpak kei un.
 
 **Grammar:** plural: uh marker
 
 ### v20
 **EN:** For the wrath of man worketh not the righteousness of God.
 
-**TDB77:** Bang hang hiam na cih uh leh, mi’ hehna in Pasian’ dikna thu a piangsak kei hi.
+**TDB77:** Bang hang hiam na cih-te leh, mi’ hehna in Pasian’ dikna thu a piangsak kei hi.
 
 **ZVS:** Mihingte' hehna in Pasian' sepding thuhoihte khaktan hi.
 
@@ -195,7 +195,7 @@
 ### v21
 **EN:** Wherefore lay apart all filthiness and superfluity of naughtiness, and receive with meekness the engrafted word, which is able to save your souls.
 
-**TDB77:** Tua ahih ciangin a kihhuai na khempeuh leh hazat luatna lungsimte paaikhia-in, na kha uh hong gum thei note’ lung sungah a kituh Pasian’ thu lungnemna tawh na sang un.
+**TDB77:** Tua ahih ciangin a kihhuai na khempeuh leh hazat luatna lungsimte paaikhia-in, na kha-te hong gum thei note’ lung sungah a kituh Pasian’ thu lungnemna tawh na sang un.
 
 **ZVS:** Tua ahih manin ngeina hoihlote leh gamtat siate khempeuh nusia un la, Pasian' thu mangin note' lungsim sungah a hong koih thu zui un. Tua thu in note hong honkhia thei hi.
 
@@ -204,7 +204,7 @@
 ### v22
 **EN:** But be ye doers of the word, and not hearers only, deceiving your own selves.
 
-**TDB77:** Note’ pumpi uh kikheemin thungaite bek hi kei un; thu banga gamtate na hi un.
+**TDB77:** Note’ pumpi-te kikheemin thungaite bek hi kei un; thu banga gamtate na hi un.
 
 **ZVS:** Nomau kikhem tawmin thu zak bek tawh maisak kei un la, na zak bangun zui-in semzaw un.
 
@@ -222,7 +222,7 @@
 ### v24
 **EN:** For he beholdeth himself, and goeth his way, and straightway forgetteth what manner of man he was.
 
-**TDB77:** Bang hang hiam na cih uh leh, a mai a et khit ciangin mun dangah pai-in ama meel bang ci bang mi ahi hiam cih a mangngilh pah hi.
+**TDB77:** Bang hang hiam na cih-te leh, a mai a et khit ciangin mun dangah pai-in ama meel bang ci bang mi ahi hiam cih a mangngilh pah hi.
 
 **ZVS:** Limlangah a ki-en mipa in amah hoihtakin a kimuh khit ciangin paikhia a, bangci pian ka hi hiam cih a mangngilh pah hi.
 

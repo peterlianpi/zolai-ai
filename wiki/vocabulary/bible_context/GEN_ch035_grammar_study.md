@@ -35,9 +35,9 @@
 ### v2
 **EN:** Then Jacob said unto his household, and to all that were with him, Put away the strange gods that are among you, and be clean, and change your garments:
 
-**TDB77:** Tua ahih ciangin Jakob in a innkuanpihte leh amah tawh a omte khempeuh' kiangah, “Note' lakah a om gamdang pasiante koih khia un la, nomau kisian’suahin, na puante uh kheek un;
+**TDB77:** Tua ahih ciangin Jakob in a innkuanpihte leh amah tawh a omte khempeuh' kiangah, “Note' lakah a om gamdang pasiante koih khia un la, nomau kisian’suahin, na puante-te kheek un;
 
-**ZVS:** Tua ahih ciangin Jakob in a innkuanpihte leh amah tawh a omte khempeuh kiangah, “Note lakah a om gamdang pasian-te koihkhia un la, nomau kisian'suahin, na puante uh khek un.
+**ZVS:** Tua ahih ciangin Jakob in a innkuanpihte leh amah tawh a omte khempeuh kiangah, “Note lakah a om gamdang pasian-te koihkhia un la, nomau kisian'suahin, na puante-te khek un.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -53,18 +53,18 @@
 ### v4
 **EN:** And they gave unto Jacob all the strange gods which were in their hand, and all their earrings which were in their ears; and Jacob hid them under the oak which was by Shechem.
 
-**TDB77:** Tua ahih ciangin amaute in Jakob’ tungah amau’ neih gamdang pasian khempeuh leh a bil-uh a, om bilbahte pia uh hi; Jakob in Shekhem khua gei-a tawsaw nuai-ah tuate seel hi.
+**TDB77:** Tua ahih ciangin amaute in Jakob’ tungah amau’ neih gamdang pasian khempeuh leh a bil-uh a, om bilbahte pia-te hi; Jakob in Shekhem khua gei-a tawsaw nuai-ah tuate seel hi.
 
-**ZVS:** Tua ahih ciangin amaute in Jakob' tungah amau' neih gamdang pasian khempeuh leh a bil uha om bilbahte a pia uh hi. Jakob in Shekhem khua gei-a tawsaw nuai-ah tuate a seel hi.
+**ZVS:** Tua ahih ciangin amaute in Jakob' tungah amau' neih gamdang pasian khempeuh leh a bil uha om bilbahte a pia-te hi. Jakob in Shekhem khua gei-a tawsaw nuai-ah tuate a seel hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v5
 **EN:** And they journeyed: and the terror of God was upon the cities that were round about them, and they did not pursue after the sons of Jacob.
 
-**TDB77:** Amaute khualzinin a pai lai takun amau’ kiim-a om khuapite' tungah Pasian' kiang panin lauhuaina lianpi khat tung ahih manin amaute in Jakob’ tapate delh lo uh hi.
+**TDB77:** Amaute khualzinin a pai lai takun amau’ kiim-a om khuapite' tungah Pasian' kiang panin lauhuaina lianpi khat tung ahih manin amaute in Jakob’ tapate delh lo-te hi.
 
-**ZVS:** Jakob leh a tapate khualzinin a pai laitakun amau' kiima om khuapite' tungah Pasian' kiang panin lauhuaina lianpi khat tung ahih manin amaute in Jakob leh a tapate delhlo uh hi.
+**ZVS:** Jakob leh a tapate khualzinin a pai laitakun amau' kiima om khuapite' tungah Pasian' kiang panin lauhuaina lianpi khat tung ahih manin amaute in Jakob leh a tapate delhlo-te hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -73,7 +73,7 @@
 
 **TDB77:** Kanaan gam sunga om Luz (Beth-el)-ah amah leh amah tawh a om mi khempeuh tawh Jakob tung a,
 
-**ZVS:** Kanaan gam sunga om Luz (Bethel)-ah Jakob leh amah tawh a om mi khempeuh tung uh a,
+**ZVS:** Kanaan gam sunga om Luz (Bethel)-ah Jakob leh amah tawh a om mi khempeuh tung-te a,
 
 ### v7
 **EN:** And he built there an altar, and called the place El–beth–el: because there God appeared unto him, when he fled from the face of his brother.
@@ -161,7 +161,7 @@
 
 **TDB77:** Tua ciangin Beth-el panin amaute khualzin hi; amaute Efrat panin a gamla sim lai mun a tun’ lai takun Rachel a nausuah hun tung a, amah nakpi takin gim hi.
 
-**ZVS:** Tua ciangin Bethel panin amaute dingkhia uh a, Efrath panin a gamla sim lai mun a tun' laitakun Rachel a nausuah hun tung a, amah nakpi takin a gim hi.
+**ZVS:** Tua ciangin Bethel panin amaute dingkhia-te a, Efrath panin a gamla sim lai mun a tun' laitakun Rachel a nausuah hun tung a, amah nakpi takin a gim hi.
 
 **Grammar:** sequence: then/therefore
 
@@ -266,7 +266,7 @@
 
 **TDB77:** Isaak in a nunung pen a hu sang hi; amah a teek, kum tampi pha-in si a, ama' mite kiangah kigawm hi; ama' tapa Esau leh Jakob in amah vui hi.
 
-**ZVS:** Isaac in a nunung pen a hu sang hi. Amah a teek, kum tampi a pha-in si a, ama mite' kiangah kigawm hi. Ama tapa Esau leh Jakob in amah a vui uh hi.
+**ZVS:** Isaac in a nunung pen a hu sang hi. Amah a teek, kum tampi a pha-in si a, ama mite' kiangah kigawm hi. Ama tapa Esau leh Jakob in amah a vui-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 

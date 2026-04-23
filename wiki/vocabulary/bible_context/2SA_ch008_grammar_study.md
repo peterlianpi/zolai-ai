@@ -31,9 +31,9 @@
 ### v2
 **EN:** And he smote Moab, and measured them with a line, casting them down to the ground; even with two lines measured he to put to death, and with one full line to keep alive. And so the Moabites became David's servants, and brought gifts.
 
-**TDB77:** Tua ciangin amah in Moab mite zo a, amaute khauzang khat tawh tehin, lei lakah amaute lumsak hi; amah in thah dingin gual nih leh khah dingin gual khat dim teh hi. Tua ciangin Moab mite in David’ nasemte suakin siah puak uh hi.
+**TDB77:** Tua ciangin amah in Moab mite zo a, amaute khauzang khat tawh tehin, lei lakah amaute lumsak hi; amah in thah dingin gual nih leh khah dingin gual khat dim teh hi. Tua ciangin Moab mite in David’ nasemte suakin siah puak-te hi.
 
-**ZVS:** Tua ciangin amah in Moab mite zo a, amaute khauzang khat tawh tehin, leilakah amaute lumsak hi. Amah in thah dingin gual nih leh khah dingin gual khat dim a teh hi. Tua ciangin Moab mite David' khutnuai mite suakin siah a puak uh hi.
+**ZVS:** Tua ciangin amah in Moab mite zo a, amaute khauzang khat tawh tehin, leilakah amaute lumsak hi. Amah in thah dingin gual nih leh khah dingin gual khat dim a teh hi. Tua ciangin Moab mite David' khutnuai mite suakin siah a puak-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -67,16 +67,16 @@
 ### v6
 **EN:** Then David put garrisons in Syria of Damascus: and the Syrians became servants to David, and brought gifts. And the
 
-**TDB77:** Tua ciangin David in Damaskas gam Aram ah khuacingte koih hi; Siria mite David’ nasem suak uh a, siah puak uh hi. Topa in David a paina peuhpeuh ah gualzawhna pia hi.
+**TDB77:** Tua ciangin David in Damaskas gam Aram ah khuacingte koih hi; Siria mite David’ nasem suak-te a, siah puak-te hi. Topa in David a paina peuhpeuh ah gualzawhna pia hi.
 
-**ZVS:** Tua ciangin David in Damaskas gam Aram-ah khuacingte a koih hi. Syria mite David' nasem suak uh a, siah a puak uh hi. { Topa } in David a paina peuhpeuhah gualzawhna a pia hi.
+**ZVS:** Tua ciangin David in Damaskas gam Aram-ah khuacingte a koih hi. Syria mite David' nasem suak-te a, siah a puak-te hi. { Topa } in David a paina peuhpeuhah gualzawhna a pia hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v7
 **EN:** And David took the shields of gold that were on the servants of Hadadezer, and brought them to Jerusalem.
 
-**TDB77:** Tua ciangin David in Hadadezer’ nasemte in a puak uh kham kibawl lumte la-in Jerusalem ah paipih hi.
+**TDB77:** Tua ciangin David in Hadadezer’ nasemte in a puak-te kham kibawl lumte la-in Jerusalem ah paipih hi.
 
 **ZVS:** Tua ciangin David in Hadadezer' nasemte in a puak kham kibawl lumte la-in Jerusalem-ah a paipih hi.
 
@@ -120,9 +120,9 @@
 ### v14
 **EN:** And he put garrisons in Edom; throughout all Edom put he garrisons, and all they of Edom became David's servants. And the
 
-**TDB77:** Tua ciangin amah in Edom ah khuacingte koih hi; Edom gamsung khempeuh ah amah in khuacingte koih a, Edom mi khempeuh David’ nasemte suak uh hi. Topa in David a paina peuhpeuh ah gualzawhna pia hi.
+**TDB77:** Tua ciangin amah in Edom ah khuacingte koih hi; Edom gamsung khempeuh ah amah in khuacingte koih a, Edom mi khempeuh David’ nasemte suak-te hi. Topa in David a paina peuhpeuh ah gualzawhna pia hi.
 
-**ZVS:** Tua ciangin amah in Edom-ah khuacingte a koih hi. Edom gamsung khempeuhah amah in khuacingte koih a, Edom mi khempeuh David' nasemte a suak uh hi. { Topa } in David a paina peuhpeuhah gualzo sak hi.
+**ZVS:** Tua ciangin amah in Edom-ah khuacingte a koih hi. Edom gamsung khempeuhah amah in khuacingte koih a, Edom mi khempeuh David' nasemte a suak-te hi. { Topa } in David a paina peuhpeuhah gualzo sak hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -145,18 +145,18 @@
 ### v17
 **EN:** And Zadok the son of Ahitub, and Ahimelech the son of Abiathar, were the priests; and Seraiah was the scribe;
 
-**TDB77:** Ahitub’ tapa Zadok leh Abiathar’ tapa Ahimelek in siampi ahi uh hi; Seraiah in lai-atpa ahi hi;
+**TDB77:** Ahitub’ tapa Zadok leh Abiathar’ tapa Ahimelek in siampi ahi-te hi; Seraiah in lai-atpa ahi hi;
 
-**ZVS:** Ahitub' tapa Zadok leh Abiathar' tapa Ahimelek siampi ahi uh hi. Seraiah lai-atpa ahi hi.
+**ZVS:** Ahitub' tapa Zadok leh Abiathar' tapa Ahimelek siampi ahi-te hi. Seraiah lai-atpa ahi hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** And Benaiah the son of Jehoiada was over both the Cherethites and the Pelethites; and David's sons were chief rulers.
 
-**TDB77:** Jehoiada’ tapa Benaiah in Khereth mite leh Peleth mite uk hi; David tapate in gam uk uliante ahi uh hi.
+**TDB77:** Jehoiada’ tapa Benaiah in Khereth mite leh Peleth mite uk hi; David tapate in gam uk uliante ahi-te hi.
 
-**ZVS:** Jehoiada' tapa Benaiah in Khereth mite leh Peleth mite uk uh hi. David' tapate pen siampite ahi uh hi.
+**ZVS:** Jehoiada' tapa Benaiah in Khereth mite leh Peleth mite uk-te hi. David' tapate pen siampite ahi-te hi.
 
 **Grammar:** plural: uh marker
 

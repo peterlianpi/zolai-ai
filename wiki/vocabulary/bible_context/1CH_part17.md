@@ -40,9 +40,7 @@
 
 ### sanggamte = brethren/relatives
 **Context:** Refers to the other members of the tribe or group (the other Levites).
-**Example:** Levi mi a sanggamte uh
-
-### kisehte = appointed/assigned
+**Example:** Levi mi a sanggamte-te ### kisehte = appointed/assigned
 **Context:** Indicates they were designated for a specific task.
 **Example:** nasep dingin a kisehte ahi hi.
 
@@ -60,11 +58,11 @@
 
 ### meihal biakna tau = altar of burnt offering
 **Context:** The specific altar used for burnt sacrifices.
-**Example:** meihal biakna tau tung leh paknamtui biakna tau tungah piakna bawl uh hi.
+**Example:** meihal biakna tau tung leh paknamtui biakna tau tungah piakna bawl-te hi.
 
 ### paknamtui biakna tau = altar of incense
 **Context:** The specific altar used for burning incense.
-**Example:** paknamtui biakna tau tungah piakna a bawl uh hi.
+**Example:** paknamtui biakna tau tungah piakna a bawl-te hi.
 
 ### suanlehkhakte = descendants/offspring
 **Context:** A formal way to refer to the sons and grandsons (descendants) of Aaron.
@@ -83,7 +81,7 @@
 
 ## Grammar Patterns
 
-- **X, a pa Y, a pa Z, ... ahi hi/ahi uh hi.**
+- **X, a pa Y, a pa Z, ... ahi hi/ahi-te hi.**
   - Standard Zolai construction for listing genealogies, where 'a pa' functions as 'the son of' connecting each successive generation.
   - Example: a pa Izhar, a pa Kohath, a pa Levi, a pa Israel, ahi hi.
 
@@ -91,6 +89,6 @@
   - Structure used to identify individuals belonging to a specific clan (beh sung) and their role/rank within a group (e.g., choir leader).
   - Example: Merari-te beh sung panin Ethan pen lasa pawl thumna a ukpa hi a
 
-- **Noun leh Noun-te in [Action] a bawl uh hi.**
+- **Noun leh Noun-te in [Action] a bawl-te hi.**
   - Structure indicating that two or more groups performed a specific action together (using 'leh' for 'and').
-  - Example: Aaron leh a tapate in ... piakna a bawl uh hi.
+  - Example: Aaron leh a tapate in ... piakna a bawl-te hi.

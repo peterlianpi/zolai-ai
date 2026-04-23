@@ -21,9 +21,9 @@
 ### v1
 **EN:** Moreover David and the captains of the host separated to the service of the sons of Asaph, and of Heman, and of Jeduthun, who should prophesy with harps, with psalteries, and with cymbals: and the number of the workmen according to their service was:
 
-**TDB77:** David leh nasepna ah a ukpite in zong laiza lasaknate, harp lasaknate, leh daltuahte tawh mai lam thu a genkhol dingin Asaf, Heman, leh Jeduthunte’ tapate pawlkhat nasepna-a dingin koih tuam uh hi. Na a semte leh amau’ nasepte in:
+**TDB77:** David leh nasepna ah a ukpite in zong laiza lasaknate, harp lasaknate, leh daltuahte tawh mai lam thu a genkhol dingin Asaf, Heman, leh Jeduthunte’ tapate pawlkhat nasepna-a dingin koih tuam-te hi. Na a semte leh amau’ nasepte in:
 
-**ZVS:** David leh nasepna-ah a ukpite in zong laia lasaknate, harp lasaknate, leh daltuahte tawh Pasian thu a gen dingin Asaf, Heman, leh Jeduthun-te' tapate pawlkhat nasepna-a dingin koihtuam uh hi. Na a semte leh amau' nasepte:
+**ZVS:** David leh nasepna-ah a ukpite in zong laia lasaknate, harp lasaknate, leh daltuahte tawh Pasian thu a gen dingin Asaf, Heman, leh Jeduthun-te' tapate pawlkhat nasepna-a dingin koihtuam-te hi. Na a semte leh amau' nasepte:
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -37,9 +37,9 @@
 ### v3
 **EN:** Of Jeduthun: the sons of Jeduthun; Gedaliah, and Zeri, and Jeshaiah, Hashabiah, and Mattithiah, six, under the hands of their father Jeduthun, who prophesied with a harp, to give thanks and to praise the
 
-**TDB77:** Jeduthun sung panin Jeduthun’ tapate in: lungdamkohna leh Topa phatna-in laiza lasakna tawh mai lam thu a gen khol a, a pa uh Jeduthun’ makaihna nuai-ah Gedaliah, Zeri, Jershaiah, Shimei, Hashabiah, leh Mattibiah, guk pha uh hi.
+**TDB77:** Jeduthun sung panin Jeduthun’ tapate in: lungdamkohna leh Topa phatna-in laiza lasakna tawh mai lam thu a gen khol a, a pa-te Jeduthun’ makaihna nuai-ah Gedaliah, Zeri, Jershaiah, Shimei, Hashabiah, leh Mattibiah, guk pha-te hi.
 
-**ZVS:** Jeduthun' sung panin Jeduthun' tapate: Lungdam kohna leh { Topa } phatna-in laia lasakna tawh thu a gen, a pa uh Jeduthun' makaihna nuai-ah Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, leh Mattithiah, guk pha uh hi.
+**ZVS:** Jeduthun' sung panin Jeduthun' tapate: Lungdam kohna leh { Topa } phatna-in laia lasakna tawh thu a gen, a pa-te Jeduthun' makaihna nuai-ah Gedaliah, Zeri, Jeshaiah, Shimei, Hashabiah, leh Mattithiah, guk pha-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -62,25 +62,25 @@
 ### v6
 **EN:** All these were under the hands of their father for song in the house of the
 
-**TDB77:** Amaute khempeuh Pasian’ inn nasep nadingin Topa’ inn sungah daltuahte, harp lasaknate, leh laiza lasaknate tawh la lam sangah a pate uh ukna nuai-ah om uh hi. Asaf, Jeduthun, leh Hemante in kumpipa’ thupiakna nuai-ah om uh hi.
+**TDB77:** Amaute khempeuh Pasian’ inn nasep nadingin Topa’ inn sungah daltuahte, harp lasaknate, leh laiza lasaknate tawh la lam sangah a pate-te ukna nuai-ah om-te hi. Asaf, Jeduthun, leh Hemante in kumpipa’ thupiakna nuai-ah om-te hi.
 
-**ZVS:** Amaute khempeuh Pasian' biakinn nasepna dingin { Topa' } biakinn sungah daltuahte, harp lasaknate, leh laia lasaknate tawh la lamsangah a pa uh ukna nuai-ah om uh hi. Asaf, Jeduthun, leh Heman-te pen kumpipa' thupiakna nuai-ah om uh hi.
+**ZVS:** Amaute khempeuh Pasian' biakinn nasepna dingin { Topa' } biakinn sungah daltuahte, harp lasaknate, leh laia lasaknate tawh la lamsangah a pa-te ukna nuai-ah om-te hi. Asaf, Jeduthun, leh Heman-te pen kumpipa' thupiakna nuai-ah om-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v7
 **EN:** So the number of them, with their brethren that were instructed in the songs of the
 
-**TDB77:** A Levi mipihte uh tawh Topa’ ading lasakna lamah sinna a nei a siam mi a vekpi in zanih leh sawmgiat-le-giat ahi hi.
+**TDB77:** A Levi mipihte-te tawh Topa’ ading lasakna lamah sinna a nei a siam mi a vekpi in zanih leh sawmgiat-le-giat ahi hi.
 
-**ZVS:** A Levi mipihte uh tawh { Topa}-a' ding lasakna lamah sinna a nei a siam mi a vekpi-in za nih leh sawmgiatlegiat ahi hi.
+**ZVS:** A Levi mipihte-te tawh { Topa}-a' ding lasakna lamah sinna a nei a siam mi a vekpi-in za nih leh sawmgiatlegiat ahi hi.
 
 ### v8
 **EN:** And they cast lots, ward against ward, as well the small as the great, the teacher as the scholar.
 
-**TDB77:** Tua ciangin a neu a lian, sia leh a sinte a kibangin, amaute in amau’ nasep ding uh aisaan uh hi.
+**TDB77:** Tua ciangin a neu a lian, sia leh a sinte a kibangin, amaute in amau’ nasep ding-te aisaan-te hi.
 
-**ZVS:** Tua ciangin a neu a lian, sia leh a sinte a kibangin, amaute in amau' nasep ding uh ai a san uh hi.
+**ZVS:** Tua ciangin a neu a lian, sia leh a sinte a kibangin, amaute in amau' nasep ding-te ai a san-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

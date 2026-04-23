@@ -87,9 +87,9 @@
 ### v8
 **EN:** Now therefore in the sight of all Israel the congregation of the
 
-**TDB77:** Tua ciangin tu-in note in hih leitang hoih nei-in note khit na tate uh tungah gamh-in na nusiat tawntung theih nadingun Topa’ mai-ah kikhopna ahi Israel khempeuh’ muhna, leh i Pasian’ zakna ah Topa na Pasian uh’ thupiaknate khempeuh zui-in zong un.
+**TDB77:** Tua ciangin tu-in note in hih leitang hoih nei-in note khit na tate-te tungah gamh-in na nusiat tawntung theih nadingun Topa’ mai-ah kikhopna ahi Israel khempeuh’ muhna, leh i Pasian’ zakna ah Topa na Pasian uh’ thupiaknate khempeuh zui-in zong un.
 
-**ZVS:** Tua ahih ciangin tu-in note in hih leitang hoih nei-in note' khit na tate uh tungah gamh-in na nusiat tawntung theihna dingun { Topa' } mai-ah kikhopna ahi Israel khempeuh' muhna, leh i Pasian' zakna-ah { Topa } na Pasian uh thupiaknate khempeuh zui-in zong un.
+**ZVS:** Tua ahih ciangin tu-in note in hih leitang hoih nei-in note' khit na tate-te tungah gamh-in na nusiat tawntung theihna dingun { Topa' } mai-ah kikhopna ahi Israel khempeuh' muhna, leh i Pasian' zakna-ah { Topa } na Pasian-te thupiaknate khempeuh zui-in zong un.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -173,9 +173,9 @@
 ### v18
 **EN:** And for the altar of incense refined gold by weight; and gold for the pattern of the chariot of the cherubims, that spread out their wings, and covered the ark of the covenant of the
 
-**TDB77:** a kisiangsaksa kham tawh kibawl paknamtui biakna tau ding leh a gihna zah ding a geelna; a khate uh zakin Topa’ thuciamna singkuang a khuh kherubte’ kham leeng ding a geelna zong pia hi.
+**TDB77:** a kisiangsaksa kham tawh kibawl paknamtui biakna tau ding leh a gihna zah ding a geelna; a khate-te zakin Topa’ thuciamna singkuang a khuh kherubte’ kham leeng ding a geelna zong pia hi.
 
-**ZVS:** a kisiangsaksa kham tawh kibawl paknamtui biakna tau ding leh a gihna zah ding a geelna; a khate uh zakin { Topa' } Thuciamna Singkuang a khuh kherub-te' kham leeng ding a geelna zong a pia hi.
+**ZVS:** a kisiangsaksa kham tawh kibawl paknamtui biakna tau ding leh a gihna zah ding a geelna; a khate-te zakin { Topa' } Thuciamna Singkuang a khuh kherub-te' kham leeng ding a geelna zong a pia hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -200,9 +200,9 @@
 ### v21
 **EN:** And, behold, the courses of the priests and the Levites, even they shall be with thee for all the service of the house of God: and there shall be with thee for all manner of workmanship every willing skilful man, for any manner of service: also the princes and all the people will be wholly at thy commandment.
 
-**TDB77:** Tua ciangin Pasian’ innah nasep khempeuh a sem dingin siampite leh Levi mi a khenkhente om hi; nasepna khatpeuh peuhah siamna a nei mi, nasepna khempeuhah nang tawh hong om ding hi; uliante leh mi khempeuh zong nangma thupiakna bangbangin gamta ding uh hi,” a ci hi.
+**TDB77:** Tua ciangin Pasian’ innah nasep khempeuh a sem dingin siampite leh Levi mi a khenkhente om hi; nasepna khatpeuh peuhah siamna a nei mi, nasepna khempeuhah nang tawh hong om ding hi; uliante leh mi khempeuh zong nangma thupiakna bangbangin gamta ding-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin Pasian' biakinn-ah nasep khempeuh a sem dingin siampite leh Levi mi a khente om hi. Nasepna khat peuhpeuhah siamna a nei mite in nasepna khempeuhah nang hong huh ding hi. Uliante leh mi khempeuh zong nangma thupiakna bangbangin gamta ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin Pasian' biakinn-ah nasep khempeuh a sem dingin siampite leh Levi mi a khente om hi. Nasepna khat peuhpeuhah siamna a nei mite in nasepna khempeuhah nang hong huh ding hi. Uliante leh mi khempeuh zong nangma thupiakna bangbangin gamta ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 

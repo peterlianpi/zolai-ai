@@ -34,25 +34,25 @@
 ### v2
 **EN:** For I bear them record that they have a zeal of God, but not according to knowledge.
 
-**TDB77:** Amaute in Pasian lamah lungsim lian a neih uh hangin, lungpilna man ahi kei hi ci-in amaute ading teci ka pang hi.
+**TDB77:** Amaute in Pasian lamah lungsim lian a neih-te hangin, lungpilna man ahi kei hi ci-in amaute ading teci ka pang hi.
 
-**ZVS:** Amaute in Pasian a kin mahmah lamtak uh thei-in teci-in ka pang ngam hi. Ahi zongin amaute in a man lampi tawh kin khalo uh hi.
+**ZVS:** Amaute in Pasian a kin mahmah lamtak-te thei-in teci-in ka pang ngam hi. Ahi zongin amaute in a man lampi tawh kin khalo-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei
 
 ### v3
 **EN:** For they being ignorant of God's righteousness, and going about to establish their own righteousness, have not submitted themselves unto the righteousness of God.
 
-**TDB77:** Bang hang hiam na cih uh leh, amaute in Pasian’ dikna thei loin, amau dikna kipsak nading a zong uh ahih ciangin, Pasian’ dikna thu a mang kei uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, amaute in Pasian’ dikna thei loin, amau dikna kipsak nading a zong-te ahih ciangin, Pasian’ dikna thu a mang kei-te hi.
 
-**ZVS:** Amaute in Pasian tawh kipawl theihna ding lampi man theiloin amau theihtawmna tawh hanciam kha uh ahih manin amah tawh kipawl theihna dingin lampi a khun' zui khalo uh hi.
+**ZVS:** Amaute in Pasian tawh kipawl theihna ding lampi man theiloin amau theihtawmna tawh hanciam kha-te ahih manin amah tawh kipawl theihna dingin lampi a khun' zui khalo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** For Christ is the end of the law for righteousness to every one that believeth.
 
-**TDB77:** Bang hang hiam na cih uh leh, thu-um mi khempeuh in a dik nadingun thukham’ mong in Zeisu ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, thu-um mi khempeuh in a dik nadingun thukham’ mong in Zeisu ahi hi.
 
 **ZVS:** Bang hang hiam cih leh upna a nei mi khempeuh Pasian tawh a kipawl theihna dingin Khrih in Thukham a beisak hi.
 
@@ -84,7 +84,7 @@
 ### v8
 **EN:** But what saith it? The word is nigh thee, even in thy mouth, and in thy heart: that is, the word of faith, which we preach;
 
-**TDB77:** Bang a ci hiam? Tua thu in nang tawh kinai-in na kam sungah, na lungsim sungah a om hi; ka hilh uh upna thu a cihnopna hi.
+**TDB77:** Bang a ci hiam? Tua thu in nang tawh kinai-in na kam sungah, na lungsim sungah a om hi; ka hilh-te upna thu a cihnopna hi.
 
 **ZVS:** Tua bang a cih ciangin, “Pasian' thu pen nai mahmahin note kam sung leh na lungsim sung uhah om hi,” a cihnopna ahi hi. Tua Pasian' thu pen kote' hilhhilh, “Pasian um un,” cihna thu ahi hi.
 
@@ -93,9 +93,9 @@
 ### v9
 **EN:** That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.
 
-**TDB77:** Bang hang hiam na cih uh leh, “Zeisu in Topa ahi hi” ci-in na kam in mang a, Pasian in amah sihna pan a thosak kik zo hi ci-in na lungsim sungah na up leh, gupna na ngah ding hi.
+**TDB77:** Bang hang hiam na cih-te leh, “Zeisu in Topa ahi hi” ci-in na kam in mang a, Pasian in amah sihna pan a thosak kik zo hi ci-in na lungsim sungah na up leh, gupna na ngah ding hi.
 
-**ZVS:** Jesuh pen Topa hi, ci-in mite kiangah genin, Pasian in sihna panin amah hingkiksak zo hi, ci-in na lungsim sung uhah na up taktak uh leh hotkhiatna na ngah ding uh hi.
+**ZVS:** Jesuh pen Topa hi, ci-in mite kiangah genin, Pasian in sihna panin amah hingkiksak zo hi, ci-in na lungsim sung uhah na up taktak-te leh hotkhiatna na ngah ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
@@ -120,7 +120,7 @@
 ### v12
 **EN:** For there is no difference between the Jew and the Greek: for the same Lord over all is rich unto all that call upon him.
 
-**TDB77:** Bang hang hiam na cih uh leh, Judah mipawl, Grik mipawl teeltuam a nei kei hi. Mi khempeuh a uk Pasian khat bek om a, ama kiangah thu a ngen mi khempeuh in a kicing hehpihna a ngah ding uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, Judah mipawl, Grik mipawl teeltuam a nei kei hi. Mi khempeuh a uk Pasian khat bek om a, ama kiangah thu a ngen mi khempeuh in a kicing hehpihna a ngah ding-te hi.
 
 **ZVS:** Bang hang hiam cih leh Jew mi leh Gentail mi a kideidanna omlo ahih manin Topa pen mi khempeuh' Topa hi kim a, ama kiangah a ngen khempeuh tungah thupha tampi tak a pia hi.
 
@@ -129,18 +129,18 @@
 ### v13
 **EN:** For whosoever shall call upon the name of the Lord shall be saved.
 
-**TDB77:** Bang hang hiam na cih uh leh, Topa’ min tawh thu a ngen mi khempeuh in gupna a ngah ding uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, Topa’ min tawh thu a ngen mi khempeuh in gupna a ngah ding-te hi.
 
-**ZVS:** Lai Siangtho in zong, “Topa tungah huhna a ngen khempeuhte in hotkhiatna a ngah ding uh hi,” ci hi.
+**ZVS:** Lai Siangtho in zong, “Topa tungah huhna a ngen khempeuhte in hotkhiatna a ngah ding-te hi,” ci hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v14
 **EN:** How then shall they call on him in whom they have not believed? and how shall they believe in him of whom they have not heard? and how shall they hear without a preacher?
 
-**TDB77:** Ahih hangin a thu-um lo mite in bang a ci thunget ding uh hiam? A thu a zak ngei loh uh Topa bang ci a um thei ding uh hiam? A hilh mi om kei leh, bang ci a za thei ding uh hiam?
+**TDB77:** Ahih hangin a thu-um lo mite in bang a ci thunget ding-te hiam? A thu a zak ngei loh-te Topa bang ci a um thei ding-te hiam? A hilh mi om kei leh, bang ci a za thei ding-te hiam?
 
-**ZVS:** Ahi zongin a uplohpa uh tungah kua in thu ngen thei ding ahi hiam? Ama thu za ngei kei leh kua in a thu um thei ding ahi hiam? Ama thu kigen kei leh kua in za thei ding ahi hiam?
+**ZVS:** Ahi zongin a uplohpa-te tungah kua in thu ngen thei ding ahi hiam? Ama thu za ngei kei leh kua in a thu um thei ding ahi hiam? Ama thu kigen kei leh kua in za thei ding ahi hiam?
 
 **Grammar:** plural: uh marker
 
@@ -156,9 +156,9 @@
 ### v16
 **EN:** But they have not all obeyed the gospel. For Esaias saith, Lord, who hath believed our report?
 
-**TDB77:** Ahih hangin mite khempeuh in Lungdamna Thu a ngai kei uh hi. Bang hang hiam na cih uh leh, kamsangpa Isaiah in, “Topa aw, kote thuhilhna kua in um ahi hiam?” a ci hi.
+**TDB77:** Ahih hangin mite khempeuh in Lungdamna Thu a ngai kei-te hi. Bang hang hiam na cih-te leh, kamsangpa Isaiah in, “Topa aw, kote thuhilhna kua in um ahi hiam?” a ci hi.
 
-**ZVS:** Ahi zongin Isaiah in, “Topa aw, ka thugente uh kua in um ahi hiam?” a cih mah bangin Lungdamna Thu a za mi khempeuh in um kimlo uh hi.
+**ZVS:** Ahi zongin Isaiah in, “Topa aw, ka thugente-te kua in um ahi hiam?” a cih mah bangin Lungdamna Thu a za mi khempeuh in um kimlo-te hi.
 
 **Grammar:** quotative: said/saying | negation: kei | plural: uh marker
 
@@ -174,27 +174,27 @@
 ### v18
 **EN:** But I say, Have they not heard? Yes verily, their sound went into all the earth, and their words unto the ends of the world.
 
-**TDB77:** Ahih hangin amaute in za hilo ahi uh hiam? A mantakpi a za uh hi: “Amaute aw un leitung khempeuh ah a zel zo hi; Amau thu un leimong dongin a tung zo hi.”
+**TDB77:** Ahih hangin amaute in za hilo ahi-te hiam? A mantakpi a za-te hi: “Amaute aw un leitung khempeuh ah a zel zo hi; Amau thu un leimong dongin a tung zo hi.”
 
-**ZVS:** Tua ahih leh amaute in thu zalo uh ahi hiam? Lai Siangtho sungah, “Amau' awgingte leitung khempeuhah kizel a, a thugente uh in mun khempeuh a ban hi,” ci-in a kigelh mah bangin amaute in thu za khinzo uh hi.
+**ZVS:** Tua ahih leh amaute in thu zalo-te ahi hiam? Lai Siangtho sungah, “Amau' awgingte leitung khempeuhah kizel a, a thugente-te in mun khempeuh a ban hi,” ci-in a kigelh mah bangin amaute in thu za khinzo-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v19
 **EN:** But I say, Did not Israel know? First Moses saith, I will provoke you to jealousy by them that are no people, and by a foolish nation I will anger you.
 
-**TDB77:** Khatvei ka cih-inah, Israel mite in hih thu thei lo ahi uh hiam? Moses in: “Mipawl ahi lo mite hangin note in een’na lungsim na neih nadingun ahi zongin, Pilna nei lo mipawlte hangin na heh nadingun ahi zongin ka bawl ding hi,” a ci masa hi.
+**TDB77:** Khatvei ka cih-inah, Israel mite in hih thu thei lo ahi-te hiam? Moses in: “Mipawl ahi lo mite hangin note in een’na lungsim na neih nadingun ahi zongin, Pilna nei lo mipawlte hangin na heh nadingun ahi zongin ka bawl ding hi,” a ci masa hi.
 
-**ZVS:** Tua ahih leh Israel mite in a thei uh hiam? Moses mahmah in Pasian' min tawh thu na gen a, “Keima mi pawl a hilote thupha pia-in, note' hazat dingin ka bawl ding a, tua mihaite' hangin note na hehna dingun ka hong bawl ding hi,” a cih mah bangin Israel mite in a thu a theilo uh hilo hi.
+**ZVS:** Tua ahih leh Israel mite in a thei-te hiam? Moses mahmah in Pasian' min tawh thu na gen a, “Keima mi pawl a hilote thupha pia-in, note' hazat dingin ka bawl ding a, tua mihaite' hangin note na hehna dingun ka hong bawl ding hi,” a cih mah bangin Israel mite in a thu a theilo-te hilo hi.
 
 **Grammar:** future: will | negation: lo
 
 ### v20
 **EN:** But Esaias is very bold, and saith, I was found of them that sought me not; I was made manifest unto them that asked not after me.
 
-**TDB77:** Isaiah in hang takin: “Kei hong zong lo mite in hong mu zo uh hi, Kei thu hong kan lo mite tungah ka kilang zo hi,” a ci hi.
+**TDB77:** Isaiah in hang takin: “Kei hong zong lo mite in hong mu zo-te hi, Kei thu hong kan lo mite tungah ka kilang zo hi,” a ci hi.
 
-**ZVS:** Tua banah Isaiah in Pasian' min tawh hangtakin thu na gen a, “Kei hong zonglo mite in kei hong mu uh a, kei hong kanlo mite tungah ka kilak hi,” ci-in na gen hi.
+**ZVS:** Tua banah Isaiah in Pasian' min tawh hangtakin thu na gen a, “Kei hong zonglo mite in kei hong mu-te a, kei hong kanlo mite tungah ka kilak hi,” ci-in na gen hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 

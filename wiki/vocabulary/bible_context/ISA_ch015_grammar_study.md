@@ -33,36 +33,36 @@
 ### v2
 **EN:** He is gone up to Bajith, and to Dibon, the high places, to weep: Moab shall howl over Nebo, and over Medeba: on all their heads shall be baldness, and every beard cut off.
 
-**TDB77:** A sangna munte ah a kap dingin Dibon khuamite pai to uh hi; Nebo leh Medeba khuate’ hangin Moab mite nakpi takin kap uh hi. Dahna limin lu khempeuh kimettol a, khamul khempeuh kimetmai hi;
+**TDB77:** A sangna munte ah a kap dingin Dibon khuamite pai to-te hi; Nebo leh Medeba khuate’ hangin Moab mite nakpi takin kap-te hi. Dahna limin lu khempeuh kimettol a, khamul khempeuh kimetmai hi;
 
-**ZVS:** A sangna munte-ah a kap dingin Dibon khuamite paito uh hi. Nebo leh Medeba khuate' hangin Moab mite nakpi takin kap uh hi. Dahna limin lu khempeuh kimettol a, khamul khempeuh zong kimetmai hi.
+**ZVS:** A sangna munte-ah a kap dingin Dibon khuamite paito-te hi. Nebo leh Medeba khuate' hangin Moab mite nakpi takin kap-te hi. Dahna limin lu khempeuh kimettol a, khamul khempeuh zong kimetmai hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** In their streets they shall gird themselves with sackcloth: on the tops of their houses, and in their streets, every one shall howl, weeping abundantly.
 
-**TDB77:** kongzing lakah amaute in puanhampi teng uh hi; innkhumzang leh kongzing lampi kituahnate ah mi khempeuh nakpi-in kapin khitui tawh kawt uh hi.
+**TDB77:** kongzing lakah amaute in puanhampi teng-te hi; innkhumzang leh kongzing lampi kituahnate ah mi khempeuh nakpi-in kapin khitui tawh kawt-te hi.
 
-**ZVS:** Kongzing lakah amaute in puanhampi silh uh hi. Innkhumzang leh kongzing lampi kituahnate-ah mi khempeuh nakpi-in kapin khitui tawh a kawt uh hi.
+**ZVS:** Kongzing lakah amaute in puanhampi silh-te hi. Innkhumzang leh kongzing lampi kituahnate-ah mi khempeuh nakpi-in kapin khitui tawh a kawt-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And Heshbon shall cry, and Elealeh: their voice shall be heard even unto Jahaz: therefore the armed soldiers of Moab shall cry out; his life shall be grievous unto him.
 
-**TDB77:** Heshbon khua leh Elealeh khua kiko a, amau’ kahna awging Jahaz khua ciang dongah kiza hi; tua ahih ciangin Moab gammi galhiam tawite lau-in nakpi takin kiko uh hi; amaute liing uh hi.
+**TDB77:** Heshbon khua leh Elealeh khua kiko a, amau’ kahna awging Jahaz khua ciang dongah kiza hi; tua ahih ciangin Moab gammi galhiam tawite lau-in nakpi takin kiko-te hi; amaute liing-te hi.
 
-**ZVS:** Heshbon khua leh Elealeh khua kiko uh a, amau' kahna awging Jahaz khua dongah kiza hi. Tua ahih ciangin Moab mi galhiam tawite lau-in nakpi takin kiko uh a, amaute a ling uh hi.
+**ZVS:** Heshbon khua leh Elealeh khua kiko-te a, amau' kahna awging Jahaz khua dongah kiza hi. Tua ahih ciangin Moab mi galhiam tawite lau-in nakpi takin kiko-te a, amaute a ling-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** My heart shall cry out for Moab; his fugitives shall flee unto Zoar, an heifer of three years old: for by the mounting up of Luhith with weeping shall they go it up; for in the way of Horonaim they shall raise up a cry of destruction.
 
-**TDB77:** Moab gam adingin ka lungsim kiko hi; a galtai ama mite Zoar khua, Eglath-shelishiah khuate ah tai uh hi. Bang hang hiam cih leh Luhith lampi-ah amaute kapsa-in paito uh hi; Horonaim khua zuatna lampi ah amaute in siatna a thuakna uh hangin nakpi-in kiko uh hi;
+**TDB77:** Moab gam adingin ka lungsim kiko hi; a galtai ama mite Zoar khua, Eglath-shelishiah khuate ah tai-te hi. Bang hang hiam cih leh Luhith lampi-ah amaute kapsa-in paito-te hi; Horonaim khua zuatna lampi ah amaute in siatna a thuakna-te hangin nakpi-in kiko-te hi;
 
-**ZVS:** Moab gam-a' dingin ka lungsim kiko hi. A galtai ama mite Zoar khua leh Eglathshelishiah khuate-ah a tai uh hi. Bang hang hiam cih leh Luhith lampi-ah amaute a kapsa-in paito uh hi. Horonaim khua zuatna lampi-ah amaute in siatna a thuakna uh hangin nakpi-in kiko uh hi.
+**ZVS:** Moab gam-a' dingin ka lungsim kiko hi. A galtai ama mite Zoar khua leh Eglathshelishiah khuate-ah a tai-te hi. Bang hang hiam cih leh Luhith lampi-ah amaute a kapsa-in paito-te hi. Horonaim khua zuatna lampi-ah amaute in siatna a thuakna-te hangin nakpi-in kiko-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -78,9 +78,9 @@
 ### v7
 **EN:** Therefore the abundance they have gotten, and that which they have laid up, shall they carry away to the brook of the willows.
 
-**TDB77:** Tua ahih ciangin amaute in a ngahsa uh leh a kholsa uh na tampite pua-in Gialheek Lui-ah paipih uh hi.
+**TDB77:** Tua ahih ciangin amaute in a ngahsa-te leh a kholsa-te na tampite pua-in Gialheek Lui-ah paipih-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in a ngahsa uh leh a kholsa uh na tampite pua-in Gialhek Lui-ah a paipih uh hi.
+**ZVS:** Tua ahih ciangin amaute in a ngahsa-te leh a kholsa-te na tampite pua-in Gialhek Lui-ah a paipih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

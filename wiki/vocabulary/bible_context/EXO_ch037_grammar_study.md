@@ -86,9 +86,9 @@
 ### v9
 **EN:** And the cherubims spread out their wings on high, and covered with their wings over the mercy seat, with their faces one to another; even to the mercy seatward were the faces of the cherubims.
 
-**TDB77:** Kherubte in a khate uh a tungah zalin, amau’ khate tawh hehpihna tokhom liim sunin, amaute khat leh khat kimaingat uh hi; hehpihna tokhom lamah kherubte’ mai nga hi.
+**TDB77:** Kherubte in a khate-te a tungah zalin, amau’ khate tawh hehpihna tokhom liim sunin, amaute khat leh khat kimaingat-te hi; hehpihna tokhom lamah kherubte’ mai nga hi.
 
-**ZVS:** Kherub-te in a khate uh tua tokhom tungah zalin, amau' khate tawh hehpihna tokhom liimsun uh a, amaute khatlekhat kimaingat uh hi. Hehpihna tokhom lamah kherub-te' mai a nga hi.
+**ZVS:** Kherub-te in a khate-te tua tokhom tungah zalin, amau' khate tawh hehpihna tokhom liimsun-te a, amaute khatlekhat kimaingat-te hi. Hehpihna tokhom lamah kherub-te' mai a nga hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

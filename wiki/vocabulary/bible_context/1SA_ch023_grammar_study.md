@@ -27,9 +27,9 @@
 ### v1
 **EN:** Then they told David, saying, Behold, the Philistines fight against Keilah, and they rob the threshingfloors.
 
-**TDB77:** Tu-in amaute in David kiangah, “En in, Filistiate in Keilah sim uh a, a ancilnate uh luh uh hi,” ci-in gen uh hi.
+**TDB77:** Tu-in amaute in David kiangah, “En in, Filistiate in Keilah sim-te a, a ancilnate-te luh-te hi,” ci-in gen-te hi.
 
-**ZVS:** Tu-in amaute in David kiangah, “En in, Filistia-te in Keilah khua sim uh a, a ancilnate uh luh uh hi,” ci-in a gen uh hi.
+**ZVS:** Tu-in amaute in David kiangah, “En in, Filistia-te in Keilah khua sim-te a, a ancilnate-te luh-te hi,” ci-in a gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -45,9 +45,9 @@
 ### v3
 **EN:** And David's men said unto him, Behold, we be afraid here in Judah: how much more then if we come to Keilah against the armies of the Philistines?
 
-**TDB77:** Ahih hangin David mite in ama kiangah, “En in, Judah gam hih mun-ah eite i lau hi; Filistia galkapte do-in Keilah ah pai lehang bangzahin lauzaw ding i hi hiam?” a ci uh hi.
+**TDB77:** Ahih hangin David mite in ama kiangah, “En in, Judah gam hih mun-ah eite i lau hi; Filistia galkapte do-in Keilah ah pai lehang bangzahin lauzaw ding i hi hiam?” a ci-te hi.
 
-**ZVS:** Ahih hangin David' mite in ama kiangah, “En in, Judah gam hih munah eite i lau hi. Filistia galkapte simin Keilah-ah pai lehang bangzahin lauzaw ding ihi hiam?” a ci uh hi.
+**ZVS:** Ahih hangin David' mite in ama kiangah, “En in, Judah gam hih munah eite i lau hi. Filistia galkapte simin Keilah-ah pai lehang bangzahin lauzaw ding ihi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -63,9 +63,9 @@
 ### v5
 **EN:** So David and his men went to Keilah, and fought with the Philistines, and brought away their cattle, and smote them with a great slaughter. So David saved the inhabitants of Keilah.
 
-**TDB77:** Tua ciangin David leh a mite Keilah ah paisuk uh a, Filistiate tawh kido-in amau’ ganhingte ciahpihin amaute tampi tak that uh hi. Tua ahih ciangin David in Keilah-a teng mite honkhia hi.
+**TDB77:** Tua ciangin David leh a mite Keilah ah paisuk-te a, Filistiate tawh kido-in amau’ ganhingte ciahpihin amaute tampi tak that-te hi. Tua ahih ciangin David in Keilah-a teng mite honkhia hi.
 
-**ZVS:** Tua ciangin David leh a mite Keilah-ah paisuk uh a, Filistia-te tawh kido-in amau' ganhingte ciahpihin amaute tampi tak a that uh hi. Tua ahih ciangin David in Keilah-a teng mite a honkhia hi.
+**ZVS:** Tua ciangin David leh a mite Keilah-ah paisuk-te a, Filistia-te tawh kido-in amau' ganhingte ciahpihin amaute tampi tak a that-te hi. Tua ahih ciangin David in Keilah-a teng mite a honkhia hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -128,16 +128,16 @@
 
 **TDB77:** Tua ciangin David in, “Keilah mite in kei leh ka mite Saul tungah hong ap ding hiam?’ a ci hi. Tua ciangin Topa in, “Amaute in note hong ap ding hi,” a ci hi.
 
-**ZVS:** Tua ciangin David in, “Keilah mite in kei leh ka mite Saul' tungah hong ap ding uh hiam?” a ci hi. Tua ciangin { Topa } in, “Amaute in note hong ap ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin David in, “Keilah mite in kei leh ka mite Saul' tungah hong ap ding-te hiam?” a ci hi. Tua ciangin { Topa } in, “Amaute in note hong ap ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will
 
 ### v13
 **EN:** Then David and his men, which were about six hundred, arose and departed out of Keilah, and went whithersoever they could go. And it was told Saul that David was escaped from Keilah; and he forbare to go forth.
 
-**TDB77:** Tua ciangin mi zaguk bang a pha, David leh a mite ding-in Keilah panin kihemkhia uh a, amaute a pai theihna peuhpeuh uhah pai uh hi. Keilah panin David a suahtakna thu Saul kiangah a kigen ciangin amah in a vai a khawl phot hi.
+**TDB77:** Tua ciangin mi zaguk bang a pha, David leh a mite ding-in Keilah panin kihemkhia-te a, amaute a pai theihna peuhpeuh uhah pai-te hi. Keilah panin David a suahtakna thu Saul kiangah a kigen ciangin amah in a vai a khawl phot hi.
 
-**ZVS:** Tua ciangin mi za guk bang a pha, David leh a mite dingin Keilah panin kihemkhia uh a, amaute a pai theihna peuhpeuh uhah pai uh hi. Keilah panin David a suahtakna thu Saul kiangah a kigen ciangin amah in a vai a khawl phot hi.
+**ZVS:** Tua ciangin mi za guk bang a pha, David leh a mite dingin Keilah panin kihemkhia-te a, amaute a pai theihna peuhpeuh uhah pai-te hi. Keilah panin David a suahtakna thu Saul kiangah a kigen ciangin amah in a vai a khawl phot hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -180,36 +180,36 @@
 ### v18
 **EN:** And they two made a covenant before the
 
-**TDB77:** Tua ciangin amaute nih in Topa mai-ah thuciamna bawl uh hi; Horesh ah David om lai-in, Jonathan a inn-ah ciah hi.
+**TDB77:** Tua ciangin amaute nih in Topa mai-ah thuciamna bawl-te hi; Horesh ah David om lai-in, Jonathan a inn-ah ciah hi.
 
-**ZVS:** Tua ciangin amaute gel in { Topa' } mai-ah thuciamna bawl uh hi. Horesh-ah David om lai-in, Jonathan a inn-ah a ciah hi.
+**ZVS:** Tua ciangin amaute gel in { Topa' } mai-ah thuciamna bawl-te hi. Horesh-ah David om lai-in, Jonathan a inn-ah a ciah hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v19
 **EN:** Then came up the Ziphites to Saul to Gibeah, saying, Doth not David hide himself with us in strong holds in the wood, in the hill of Hachilah, which is on the south of Jeshimon?
 
-**TDB77:** Tua ciangin Saul kiang Gibeah ah Zif mite paito uh a, “Jeshimon leitaw lam, Hakhilah mual tung, Horesh-a munmuanhuai sung kote lakah David bu hilo ahi hiam?
+**TDB77:** Tua ciangin Saul kiang Gibeah ah Zif mite paito-te a, “Jeshimon leitaw lam, Hakhilah mual tung, Horesh-a munmuanhuai sung kote lakah David bu hilo ahi hiam?
 
-**ZVS:** Tua ciangin Saul' kiang Gibeah-ah Zif mite paito uh a, “Jeshimon leitaw lam, Hakhilah mualtung, Horesh-a munmuan'huai sung kote' lakah David om hilo ahi hiam?
+**ZVS:** Tua ciangin Saul' kiang Gibeah-ah Zif mite paito-te a, “Jeshimon leitaw lam, Hakhilah mualtung, Horesh-a munmuan'huai sung kote' lakah David om hilo ahi hiam?
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** Now therefore, O king, come down according to all the desire of thy soul to come down; and our part shall be to deliver him into the king's hand.
 
-**TDB77:** Tu-in hong paisuk in, kumpipa aw, amah na mat nopna thu thei ka hih manun hong paisuk in; kote’ hih ding ahih leh kumpipa tungah amah kong ap ding uh ahi hi,” a ci uh hi.
+**TDB77:** Tu-in hong paisuk in, kumpipa aw, amah na mat nopna thu thei ka hih manun hong paisuk in; kote’ hih ding ahih leh kumpipa tungah amah kong ap ding-te ahi hi,” a ci-te hi.
 
-**ZVS:** Tu-in hong paisuk in, kumpipa aw; amah na matnopna thu thei ka hih manun hong paisuk in. Kote' hih ding ahih leh kumpipa tungah amah kong ap ding uh ahi hi,” a ci uh hi.
+**ZVS:** Tu-in hong paisuk in, kumpipa aw; amah na matnopna thu thei ka hih manun hong paisuk in. Kote' hih ding ahih leh kumpipa tungah amah kong ap ding-te ahi hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v21
 **EN:** And Saul said, Blessed be ye of the
 
-**TDB77:** Tua ciangin Saul in, “Topa in note thupha hong pia ta hen; bang hang hiam cih leh note in kei tungah hehpihna nong nei uh hi.
+**TDB77:** Tua ciangin Saul in, “Topa in note thupha hong pia ta hen; bang hang hiam cih leh note in kei tungah hehpihna nong nei-te hi.
 
-**ZVS:** Tua ciangin Saul in, “{ Topa } in note thupha hong pia ta hen. Bang hang hiam cih leh note in kei tungah hehpihna nong nei uh hi.
+**ZVS:** Tua ciangin Saul in, “{ Topa } in note thupha hong pia ta hen. Bang hang hiam cih leh note in kei tungah hehpihna nong nei-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -234,27 +234,27 @@
 ### v24
 **EN:** And they arose, and went to Ziph before Saul: but David and his men were in the wilderness of Maon, in the plain on the south of Jeshimon.
 
-**TDB77:** Amaute ding-in, Zif-ah pai dingin Saul mai-ah na mapai uh hi. Tu-in David leh a mite Jeshimon leitaw lam Arabah gamsung Maon gamlakah om uh hi.
+**TDB77:** Amaute ding-in, Zif-ah pai dingin Saul mai-ah na mapai-te hi. Tu-in David leh a mite Jeshimon leitaw lam Arabah gamsung Maon gamlakah om-te hi.
 
-**ZVS:** Amaute ding uh a, Zif-ah a pai dingin Saul' mai-ah a na ma pai uh hi. Tu-in David leh a mite Jeshimon leitaw lam Arabah gamsung Maongamlakah om uh hi.
+**ZVS:** Amaute ding-te a, Zif-ah a pai dingin Saul' mai-ah a na ma pai-te hi. Tu-in David leh a mite Jeshimon leitaw lam Arabah gamsung Maongamlakah om-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v25
 **EN:** Saul also and his men went to seek him. And they told David: wherefore he came down into a rock, and abode in the wilderness of Maon. And when Saul heard that, he pursued after David in the wilderness of Maon.
 
-**TDB77:** Saul leh a mite amah zong dingin kuan uh hi. Hih thu David kiangah kigen hi; tua ahih ciangin Moan gamlaka om suangpi-ah amah paisuk hi. Saul in tua thu a zak ciangin amah in Maon gamlakah David delh hi.
+**TDB77:** Saul leh a mite amah zong dingin kuan-te hi. Hih thu David kiangah kigen hi; tua ahih ciangin Moan gamlaka om suangpi-ah amah paisuk hi. Saul in tua thu a zak ciangin amah in Maon gamlakah David delh hi.
 
-**ZVS:** Saul leh a mite amah a zong dingin kuan uh hi. Hih thu David kiangah kigen hi. Tua ahih ciangin Maon gamlaka om suangpi-ah amah paisuk hi. Saul in tua thu a zak ciangin amah in Maon gamlakah David delh hi.
+**ZVS:** Saul leh a mite amah a zong dingin kuan-te hi. Hih thu David kiangah kigen hi. Tua ahih ciangin Maon gamlaka om suangpi-ah amah paisuk hi. Saul in tua thu a zak ciangin amah in Maon gamlakah David delh hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** And Saul went on this side of the mountain, and David and his men on that side of the mountain: and David made haste to get away for fear of Saul; for Saul and his men compassed David and his men round about to take them.
 
-**TDB77:** A mual pang khatah Saul pai a, David leh a mite a mual pang lang khatah pai uh hi; Saul leh a mite in David leh a mite man dingin hong um ahih manin Saul pelh dingin David a nawhtat lai takin,
+**TDB77:** A mual pang khatah Saul pai a, David leh a mite a mual pang lang khatah pai-te hi; Saul leh a mite in David leh a mite man dingin hong um ahih manin Saul pelh dingin David a nawhtat lai takin,
 
-**ZVS:** A mualpang khatah Saul pai a, David leh a mite a mualpang langkhatah pai uh hi. Saul leh a mite in David leh a mite a man dingin hong um uh ahih manin Saul a pelh dingin David a nawhtai laitakin,
+**ZVS:** A mualpang khatah Saul pai a, David leh a mite a mualpang langkhatah pai-te hi. Saul leh a mite in David leh a mite a man dingin hong um-te ahih manin Saul a pelh dingin David a nawhtai laitakin,
 
 **Grammar:** purpose: in order to | causal: because | plural: uh marker
 

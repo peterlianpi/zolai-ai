@@ -85,14 +85,14 @@
 ### v10
 **EN:** And they took ashes of the furnace, and stood before Pharaoh; and Moses sprinkled it up toward heaven; and it became a boil breaking forth with blains upon man, and upon beast.
 
-**TDB77:** Tua ahih ciangin amaute in meiphualpi panin vutte la-in Faro' mai-ah ding uh a, Moses in vantung lamah tuate lawn a, tuate in mihing leh ganhing tungah meimatum piangsakin kilawhgawp hi.
+**TDB77:** Tua ahih ciangin amaute in meiphualpi panin vutte la-in Faro' mai-ah ding-te a, Moses in vantung lamah tuate lawn a, tuate in mihing leh ganhing tungah meimatum piangsakin kilawhgawp hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And the magicians could not stand before Moses because of the boils; for the boil was upon the magicians, and upon all the Egyptians.
 
-**TDB77:** Mitphial siamte in meimatum veina hangin Moses demzo nawnlo uh hi. Bang hang hiam cih leh mitphial siamte leh Egypt mite khempeuh in meimatum vei uh hi.
+**TDB77:** Mitphial siamte in meimatum veina hangin Moses demzo nawnlo-te hi. Bang hang hiam cih leh mitphial siamte leh Egypt mite khempeuh in meimatum vei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -146,7 +146,7 @@
 ### v19
 **EN:** Send therefore now, and gather thy cattle, and all that thou hast in the field; for upon every man and beast which shall be found in the field, and shall not be brought home, the hail shall come down upon them, and they shall die.
 
-**TDB77:** Tua ahih ciangin tu-in mi sawl in la, na ganhingte leh gamlaka na neihte khempeuh a muan'huai bukna-ah koih in. Bang hang hiam cih leh inn-ah a kipaipihlo, gamlaka om mihing leh ganhing tungah gialpi kia ding a, amaute si ding uh hi,” ci hi,’ ci-in gen in,” a ci hi.
+**TDB77:** Tua ahih ciangin tu-in mi sawl in la, na ganhingte leh gamlaka na neihte khempeuh a muan'huai bukna-ah koih in. Bang hang hiam cih leh inn-ah a kipaipihlo, gamlaka om mihing leh ganhing tungah gialpi kia ding a, amaute si ding-te hi,” ci hi,’ ci-in gen in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -198,14 +198,14 @@
 ### v27
 **EN:** And Pharaoh sent, and called for Moses and Aaron, and said unto them, I have sinned this time: the
 
-**TDB77:** Tua ciangin Faro in mi sawlin Moses leh Aaron samsakin amaute kiangah, “Tutungin ka khial hi. { Topa } man hi. Kei leh ka mite ka khial uh hi.
+**TDB77:** Tua ciangin Faro in mi sawlin Moses leh Aaron samsakin amaute kiangah, “Tutungin ka khial hi. { Topa } man hi. Kei leh ka mite ka khial-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** Entreat the
 
-**TDB77:** { Topa' } tungah thum un. Bang hang hiam cih leh hih vanging leh gialpi kicingzo hi. Note kong paisak ding a, note na khawl nawn kei ding uh hi,” a ci hi.
+**TDB77:** { Topa' } tungah thum un. Bang hang hiam cih leh hih vanging leh gialpi kicingzo hi. Note kong paisak ding a, note na khawl nawn kei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -219,7 +219,7 @@
 ### v30
 **EN:** But as for thee and thy servants, I know that ye will not yet fear the
 
-**TDB77:** Ahih hangin nang leh na nasemte in ahih leh, { Topa } Pasian na zahtak nailohna uh ka thei hi,” a ci hi.
+**TDB77:** Ahih hangin nang leh na nasemte in ahih leh, { Topa } Pasian na zahtak nailohna-te ka thei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying
 
@@ -245,7 +245,7 @@
 ### v34
 **EN:** And when Pharaoh saw that the rain and the hail and the thunders were ceased, he sinned yet more, and hardened his heart, he and his servants.
 
-**TDB77:** Ahih hangin guah leh gialpi leh vanging a khawlna Faro in a muh ciangin amah khial lai a, amah leh a nasemte in a lungsim uh khauhsak uh hi.
+**TDB77:** Ahih hangin guah leh gialpi leh vanging a khawlna Faro in a muh ciangin amah khial lai a, amah leh a nasemte in a lungsim-te khauhsak-te hi.
 
 **Grammar:** plural: uh marker
 

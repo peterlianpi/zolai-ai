@@ -116,18 +116,18 @@
 ### v11
 **EN:** Now there dwelt an old prophet in Beth–el; and his sons came and told him all the works that the man of God had done that day in Beth–el: the words which he had spoken unto the king, them they told also to their father.
 
-**TDB77:** Tu-in kamsang khangham khat Beth-el ah teng hi. Ama tapate hong pai-in tua ni-in Pasian’ mipa in Beth-el ah a hih thu teng ama kiangah gen uh hi; kumpipa kiangah a gen thute zong, amaute in a pa uh kiangah gen uh hi.
+**TDB77:** Tu-in kamsang khangham khat Beth-el ah teng hi. Ama tapate hong pai-in tua ni-in Pasian’ mipa in Beth-el ah a hih thu teng ama kiangah gen-te hi; kumpipa kiangah a gen thute zong, amaute in a pa-te kiangah gen-te hi.
 
-**ZVS:** Tua hun laitakin kamsang khangham khat Bethel-ah a teng hi. Ama tapate hong pai-in tua ni-in Pasian' mipa in Bethel-ah a hih thu teng ama kiangah a gen uh hi. Kumpipa kiangah a gen thute zong, amaute in a pa uh kiangah a gen uh hi.
+**ZVS:** Tua hun laitakin kamsang khangham khat Bethel-ah a teng hi. Ama tapate hong pai-in tua ni-in Pasian' mipa in Bethel-ah a hih thu teng ama kiangah a gen-te hi. Kumpipa kiangah a gen thute zong, amaute in a pa-te kiangah a gen-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And their father said unto them, What way went he? For his sons had seen what way the man of God went, which came from Judah.
 
-**TDB77:** Tua ciangin a pa un amaute kiangah “Koi lampi ah amah pai ahi hiam?” a ci hi. Tua ciangin a tapate in Judah panin hong pai Pasian’ mipa a paina lam hilh uh hi.
+**TDB77:** Tua ciangin a pa un amaute kiangah “Koi lampi ah amah pai ahi hiam?” a ci hi. Tua ciangin a tapate in Judah panin hong pai Pasian’ mipa a paina lam hilh-te hi.
 
-**ZVS:** Tua ciangin a pa un amaute kiangah, “Koi lamah amah pai ahi hiam?” a ci hi. Tua ciangin a tapate in Judah panin hong pai Pasian' mipa a paina lam a hilh uh hi.
+**ZVS:** Tua ciangin a pa un amaute kiangah, “Koi lamah amah pai ahi hiam?” a ci hi. Tua ciangin a tapate in Judah panin hong pai Pasian' mipa a paina lam a hilh-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -242,9 +242,9 @@
 ### v25
 **EN:** And, behold, men passed by, and saw the carcase cast in the way, and the lion standing by the carcase: and they came and told it in the city where the old prophet dwelt.
 
-**TDB77:** En in, mite in va nawk uh a, lampi ah a luanghawm kipaai-in a luanghawm gei-ah humpinelkai a ding mu uh hi. Amaute hong pai-in kamsang khanghampa a ten’na khuapi sungah gen uh hi.
+**TDB77:** En in, mite in va nawk-te a, lampi ah a luanghawm kipaai-in a luanghawm gei-ah humpinelkai a ding mu-te hi. Amaute hong pai-in kamsang khanghampa a ten’na khuapi sungah gen-te hi.
 
-**ZVS:** Tua laitakin mite in va nawkkha uh a, lampi-ah a luanghawm kipaai-in a luanghawm gei-ah humpinelkai a ding mu uh hi. Amaute hong pai-in kamsang khanghampa a ten'na khuapi sungah a gen uh hi.
+**ZVS:** Tua laitakin mite in va nawkkha-te a, lampi-ah a luanghawm kipaai-in a luanghawm gei-ah humpinelkai a ding mu-te hi. Amaute hong pai-in kamsang khanghampa a ten'na khuapi sungah a gen-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -260,9 +260,9 @@
 ### v27
 **EN:** And he spake to his sons, saying, Saddle me the ass. And they saddled him.
 
-**TDB77:** Tua ciangin amah in a tapate kiangah, “Kei adingin laa van hong vawhsak un,” a ci hi. Amaute in vawhsak uh hi.
+**TDB77:** Tua ciangin amah in a tapate kiangah, “Kei adingin laa van hong vawhsak un,” a ci hi. Amaute in vawhsak-te hi.
 
-**ZVS:** Tua ciangin amah in a tapate kiangah, “Kei-a' dingin la van hong vawhsak un,” a ci hi. Amaute in vawhsak uh hi.
+**ZVS:** Tua ciangin amah in a tapate kiangah, “Kei-a' dingin la van hong vawhsak un,” a ci hi. Amaute in vawhsak-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -287,9 +287,9 @@
 ### v30
 **EN:** And he laid his carcase in his own grave; and they mourned over him, saying, Alas, my brother!
 
-**TDB77:** Tua ciangin amah in ama hanah a luanghawm koih hi; tua ciangin ama hangin amaute kap uh a, “Ala, ka sanggampa!” ci uh hi.
+**TDB77:** Tua ciangin amah in ama hanah a luanghawm koih hi; tua ciangin ama hangin amaute kap-te a, “Ala, ka sanggampa!” ci-te hi.
 
-**ZVS:** Tua ciangin amah in ama hanah a luanghawm a vui hi. Tua ciangin ama hangin amaute kap uh a, “Ala, ka sanggampa!” a ci uh hi.
+**ZVS:** Tua ciangin amah in ama hanah a luanghawm a vui hi. Tua ciangin ama hangin amaute kap-te a, “Ala, ka sanggampa!” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 

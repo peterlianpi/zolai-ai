@@ -26,54 +26,54 @@
 ### v1
 **EN:** And the men of Ephraim gathered themselves together, and went northward, and said unto Jephthah, Wherefore passedst thou over to fight against the children of Ammon, and didst not call us to go with thee? we will burn thine house upon thee with fire.
 
-**TDB77:** Efraim mite galhiam tawi dingin kisam uh a, amaute Zafon-ah galkah uh a, Jefthah kiangah, “Bang hangin Ammon mite sim dingin galkahin, nang tawh a kuan khawm dingin kote hong zawn lo na hi hiam? Na inn nang tawh kong hal nelh ding uh hi,” a ci hi.
+**TDB77:** Efraim mite galhiam tawi dingin kisam-te a, amaute Zafon-ah galkah-te a, Jefthah kiangah, “Bang hangin Ammon mite sim dingin galkahin, nang tawh a kuan khawm dingin kote hong zawn lo na hi hiam? Na inn nang tawh kong hal nelh ding-te hi,” a ci hi.
 
-**ZVS:** Efraim mite galhiam tawi dingin kisam uh a, amaute Zafon gun kantanin galkah uh a, Jefthah kiangah, “Bang hangin Ammon mite a sim dingin galkahin, nang tawh a kuankhawm dingin kote hong zawnlo na hi hiam? Na inn tawh nang kong halnelh ding uh hi,” a ci uh hi.
+**ZVS:** Efraim mite galhiam tawi dingin kisam-te a, amaute Zafon gun kantanin galkah-te a, Jefthah kiangah, “Bang hangin Ammon mite a sim dingin galkahin, nang tawh a kuankhawm dingin kote hong zawnlo na hi hiam? Na inn tawh nang kong halnelh ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And Jephthah said unto them, I and my people were at great strife with the children of Ammon; and when I called you, ye delivered me not out of their hands.
 
-**TDB77:** Tua ciangin Jefthah in amaute kiangah, “Kei leh ka mite in Ammon mite tawh buaina lianpi khat ka nei uh hi; note kong sap ciangin amau’ khut sung panin kei nong honkhia kei uh hi.
+**TDB77:** Tua ciangin Jefthah in amaute kiangah, “Kei leh ka mite in Ammon mite tawh buaina lianpi khat ka nei-te hi; note kong sap ciangin amau’ khut sung panin kei nong honkhia kei-te hi.
 
-**ZVS:** Tua ciangin Jefthah in amaute kiangah, “Kei leh ka mite in Ammon mite tawh buaina lianpi khat ka nei ngei uh hi. Note kong sap hangin amau' khutsung panin kei nong honkhia kei uh hi.
+**ZVS:** Tua ciangin Jefthah in amaute kiangah, “Kei leh ka mite in Ammon mite tawh buaina lianpi khat ka nei ngei-te hi. Note kong sap hangin amau' khutsung panin kei nong honkhia kei-te hi.
 
 **Grammar:** sequence: then/therefore | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And when I saw that ye delivered me not, I put my life in my hands, and passed over against the children of Ammon, and the
 
-**TDB77:** Note in kei nong hotkhiat loh ding uh ka theih ciangin keimah mah hanciam tawmin Ammon mite do dingin ka galkah a, Topa in kei khut sungah amaute hong pia hi; tua ahih ciangin bang hangin tu ni-in kei do dingin hong kuan na hi uh hiam?” a ci hi.
+**TDB77:** Note in kei nong hotkhiat loh ding-te ka theih ciangin keimah mah hanciam tawmin Ammon mite do dingin ka galkah a, Topa in kei khut sungah amaute hong pia hi; tua ahih ciangin bang hangin tu ni-in kei do dingin hong kuan na hi-te hiam?” a ci hi.
 
-**ZVS:** Note in kei nong hotkhiatloh ding uh ka theih ciangin keimahmah hanciam tawmin Ammon mite a sim dingin ka galkah a, { Topa } in kei' khutsungah amaute hong pia hi. Tua ahih ciangin bang hangin tuni-in kei a hong sim dingin hong kuan na hi uh hiam?” a ci hi.
+**ZVS:** Note in kei nong hotkhiatloh ding-te ka theih ciangin keimahmah hanciam tawmin Ammon mite a sim dingin ka galkah a, { Topa } in kei' khutsungah amaute hong pia hi. Tua ahih ciangin bang hangin tuni-in kei a hong sim dingin hong kuan na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v4
 **EN:** Then Jephthah gathered together all the men of Gilead, and fought with Ephraim: and the men of Gilead smote Ephraim, because they said, Ye Gileadites are fugitives of Ephraim among the Ephraimites, and among the Manassites.
 
-**TDB77:** Tua ciangin Jefthah in Gilead mite khempeuh khawmin Efraim mite tawh kido uh hi; Gilead mite in Efraim mite vatgawp hi, bang hang hiam cih leh amaute in, “No Gilead mite in Efraimte leh Manassehte lakah Efraim galtaite na hi uh hi,” a ci uh hi.
+**TDB77:** Tua ciangin Jefthah in Gilead mite khempeuh khawmin Efraim mite tawh kido-te hi; Gilead mite in Efraim mite vatgawp hi, bang hang hiam cih leh amaute in, “No Gilead mite in Efraimte leh Manassehte lakah Efraim galtaite na hi-te hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin Jefthah in Gilead mite khempeuh khawmin Efraim mite tawh kido uh hi. Gilead mite in Efraim mite vatgawp uh hi. (Efraim mite in, “No Gilead mite pen Efraim-te leh Manasseh-te sung panin Efraim mite a taisante na hi uh hi,” ci ngei uh hi.)
+**ZVS:** Tua ciangin Jefthah in Gilead mite khempeuh khawmin Efraim mite tawh kido-te hi. Gilead mite in Efraim mite vatgawp-te hi. (Efraim mite in, “No Gilead mite pen Efraim-te leh Manasseh-te sung panin Efraim mite a taisante na hi-te hi,” ci ngei-te hi.)
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And the Gileadites took the passages of Jordan before the Ephraimites: and it was so, that when those Ephraimites which were escaped said, Let me go over; that the men of Gilead said unto him, Art thou an Ephraimite? If he said, Nay;
 
-**TDB77:** Gilead mite in Efraim mite tung panin Jordan ngahmunte la uh hi. Efraim galtaite khat peuhpeuh in, “Hong galkah sak in,” a cih ciangin Gilead mite in ama kiangah, “Efraim mi na hi hiam?” ci uh hi. Amah in, “Hi kei ing,” a cih ciangin,
+**TDB77:** Gilead mite in Efraim mite tung panin Jordan ngahmunte la-te hi. Efraim galtaite khat peuhpeuh in, “Hong galkah sak in,” a cih ciangin Gilead mite in ama kiangah, “Efraim mi na hi hiam?” ci-te hi. Amah in, “Hi kei ing,” a cih ciangin,
 
-**ZVS:** Gilead mite in Efraim mite tung panin Jordan ngahmunte la uh hi. Efraim galtaite khat peuhpeuh in, “Hong galkah sak in,” a cih ciangin Gilead mite in ama kiangah, “Efraim mi na hi hiam?” ci uh hi. Amah in, “Hi kei ing,” a cih ciangin
+**ZVS:** Gilead mite in Efraim mite tung panin Jordan ngahmunte la-te hi. Efraim galtaite khat peuhpeuh in, “Hong galkah sak in,” a cih ciangin Gilead mite in ama kiangah, “Efraim mi na hi hiam?” ci-te hi. Amah in, “Hi kei ing,” a cih ciangin
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Then said they unto him, Say now Shibboleth: and he said Sibboleth: for he could not frame to pronounce it right. Then they took him, and slew him at the passages of Jordan: and there fell at that time of the Ephraimites forty and two thousand.
 
-**TDB77:** amaute in ama kiangah, “Tua ahih leh Shibboleth ci in,” ci uh a, tua ciangin amah in, “Sibboleth” ci hi, bang hang hiam cih leh a manin ci thei lo hi; tua ciangin amaute in amah manin Jordan ngahmunte-ah that uh hi. Tua tungin Efraim mite mi tul sawmli leh tulnih si uh hi.
+**TDB77:** amaute in ama kiangah, “Tua ahih leh Shibboleth ci in,” ci-te a, tua ciangin amah in, “Sibboleth” ci hi, bang hang hiam cih leh a manin ci thei lo hi; tua ciangin amaute in amah manin Jordan ngahmunte-ah that-te hi. Tua tungin Efraim mite mi tul sawmli leh tulnih si-te hi.
 
-**ZVS:** amaute in ama kiangah, “Tua ahih leh Shibboleth ci in,” ci uh a, tua ciangin amah in, “Sibboleth,” ci hi; bang hang hiam cih leh a manin ci theilo hi. Tua ciangin amaute in amah manin Jordan ngahmunte-ah that uh hi. Tua tungin Efraim mi tul sawmli leh tul nih tuk hi.
+**ZVS:** amaute in ama kiangah, “Tua ahih leh Shibboleth ci in,” ci-te a, tua ciangin amah in, “Sibboleth,” ci hi; bang hang hiam cih leh a manin ci theilo hi. Tua ciangin amaute in amah manin Jordan ngahmunte-ah that-te hi. Tua tungin Efraim mi tul sawmli leh tul nih tuk hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 

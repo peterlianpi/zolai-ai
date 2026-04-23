@@ -27,18 +27,18 @@
 ### v1
 **EN:** It came to pass after this also, that the children of Moab, and the children of Ammon, and with them other beside the Ammonites, came against Jehoshaphat to battle.
 
-**TDB77:** Hih thu khit ciangin Moab mite leh Amon mite, leh Meunim mite pawlkhat in Jehoshafat a sim dingin hong kuan uh hi.
+**TDB77:** Hih thu khit ciangin Moab mite leh Amon mite, leh Meunim mite pawlkhat in Jehoshafat a sim dingin hong kuan-te hi.
 
-**ZVS:** Hih thu khit ciangin Moab mite leh Ammon mite, leh Meunim mite pawlkhat, Jehoshafat a sim dingin hong kuan uh hi.
+**ZVS:** Hih thu khit ciangin Moab mite leh Ammon mite, leh Meunim mite pawlkhat, Jehoshafat a sim dingin hong kuan-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v2
 **EN:** Then there came some that told Jehoshaphat, saying, There cometh a great multitude against thee from beyond the sea on this side Syria; and, behold, they be in Hazazon–tamar, which is En–gedi.
 
-**TDB77:** Mi pawlkhat hong pai-in Jehoshafat kiangah, “Tuipi gal khat Edom, panin mihon tampi khat nangmah sim dingin hong kuan hi; en in, amaute Hazazontamar (En-gedi a kici) ah om uh hi,” ci-in gen uh hi.
+**TDB77:** Mi pawlkhat hong pai-in Jehoshafat kiangah, “Tuipi gal khat Edom, panin mihon tampi khat nangmah sim dingin hong kuan hi; en in, amaute Hazazontamar (En-gedi a kici) ah om-te hi,” ci-in gen-te hi.
 
-**ZVS:** Mi pawlkhat hong pai-in Jehoshafat kiangah, “Tuipi galkhat, Edom gam panin mihon tampi khat nangmah a sim dingin hong kuan uh hi. Amaute Hazazontamar (Engedi a kici)-ah om uh hi,” ci-in a gen uh hi.
+**ZVS:** Mi pawlkhat hong pai-in Jehoshafat kiangah, “Tuipi galkhat, Edom gam panin mihon tampi khat nangmah a sim dingin hong kuan-te hi. Amaute Hazazontamar (Engedi a kici)-ah om-te hi,” ci-in a gen-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -54,9 +54,9 @@
 ### v4
 **EN:** And Judah gathered themselves together, to ask help of the
 
-**TDB77:** Tua ciangin Topa’ tung pan huhna zong dingin Judah mite hong kikhawm hi; Judah khuapi khempeuh panin Topa thu dong dingin amaute hong pai uh hi.
+**TDB77:** Tua ciangin Topa’ tung pan huhna zong dingin Judah mite hong kikhawm hi; Judah khuapi khempeuh panin Topa thu dong dingin amaute hong pai-te hi.
 
-**ZVS:** Tua ciangin { Topa' } tung pan huhna a ngen dingin Judah mite hong kikhawm uh hi. Judah khuapi khempeuh panin { Topa } thu a dong dingin amaute hong pai uh hi.
+**ZVS:** Tua ciangin { Topa' } tung pan huhna a ngen dingin Judah mite hong kikhawm-te hi. Judah khuapi khempeuh panin { Topa } thu a dong dingin amaute hong pai-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -72,9 +72,9 @@
 ### v6
 **EN:** And said, O
 
-**TDB77:** “Topa, ka pu ka pate uh Pasian aw, nang vantungah Pasian hilo na hi hiam? Minamte’ kumpigam khempeuh tungah nang in uk hilo na hi hiam? Na khut sungah vangliatna leh thahatna om a, kuamah in nang hong nang zo lo hi.
+**TDB77:** “Topa, ka pu ka pate-te Pasian aw, nang vantungah Pasian hilo na hi hiam? Minamte’ kumpigam khempeuh tungah nang in uk hilo na hi hiam? Na khut sungah vangliatna leh thahatna om a, kuamah in nang hong nang zo lo hi.
 
-**ZVS:** “{ Topa}, ka pu ka pate uh Pasian aw, nang, vantungah Pasian hilo na hi hiam? Minamte' kumpi gam khempeuh tungah nang a uk hilo na hi hiam? Na khutsungah vangliatna leh thahatna om a, kuamah in nang hong nang zolo hi.
+**ZVS:** “{ Topa}, ka pu ka pate-te Pasian aw, nang, vantungah Pasian hilo na hi hiam? Minamte' kumpi gam khempeuh tungah nang a uk hilo na hi hiam? Na khutsungah vangliatna leh thahatna om a, kuamah in nang hong nang zolo hi.
 
 **Grammar:** negation: lo
 
@@ -90,54 +90,54 @@
 ### v8
 **EN:** And they dwelt therein, and have built thee a sanctuary therein for thy name, saying,
 
-**TDB77:** Amaute hih gamah teengin nangma min dingin hih lai-ah biakinn khat lam uh a,
+**TDB77:** Amaute hih gamah teengin nangma min dingin hih lai-ah biakinn khat lam-te a,
 
-**ZVS:** Hih gamah amaute tengin, nangma min dingin hih lai-ah biakinn khat lam uh a,
+**ZVS:** Hih gamah amaute tengin, nangma min dingin hih lai-ah biakinn khat lam-te a,
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v9
 **EN:** If, when evil cometh upon us, as the sword, judgment, or pestilence, or famine, we stand before this house, and in thy presence, (for thy name is in this house,) and cry unto thee in our affliction, then thou wilt hear and help.
 
-**TDB77:** Eite tungah siatna, namsau, thukhenna, ahih kei leh natna, ahih kei leh, kialpi hong tun’ leh, hih inn sungah ama min om ahih manin hih inn mai-ah ding-in i gimna hunah ama tungah i kiko ding a, amah in hong za-in hong hon ding hi,’ ci uh hi.
+**TDB77:** Eite tungah siatna, namsau, thukhenna, ahih kei leh natna, ahih kei leh, kialpi hong tun’ leh, hih inn sungah ama min om ahih manin hih inn mai-ah ding-in i gimna hunah ama tungah i kiko ding a, amah in hong za-in hong hon ding hi,’ ci-te hi.
 
-**ZVS:** ‘Eite tungah siatna, namsau, thukhenna, ahih kei leh natna, ahih kei leh kialpi hong tun' leh, hih biakinn sungah ama min om ahih manin hih biakinn mai-ah dingin i gimna hunah ama tungah i kiko ding a, amah in hong za-in hong hon' ding hi,’ ci uh hi.
+**ZVS:** ‘Eite tungah siatna, namsau, thukhenna, ahih kei leh natna, ahih kei leh kialpi hong tun' leh, hih biakinn sungah ama min om ahih manin hih biakinn mai-ah dingin i gimna hunah ama tungah i kiko ding a, amah in hong za-in hong hon' ding hi,’ ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And now, behold, the children of Ammon and Moab and mount Seir, whom thou wouldest not let Israel invade, when they came out of the land of Egypt, but they turned from them, and destroyed them not;
 
-**TDB77:** Tu-in en in, Izipt gam panin Israelte hong paikhiat lai-in na simsak loh, amaute in pelhin a suksiat loh uh Ammon mite leh Moab mite leh Seir Mual gam mite—
+**TDB77:** Tu-in en in, Izipt gam panin Israelte hong paikhiat lai-in na simsak loh, amaute in pelhin a suksiat loh-te Ammon mite leh Moab mite leh Seir Mual gam mite—
 
-**ZVS:** “Tu-in en in, Egypt gam panin Israel-te hong paikhiat lai-in na simsak loh, amaute in a suksiatloh uh Ammon mite leh Moab mite leh Seir Mual gam mite,
+**ZVS:** “Tu-in en in, Egypt gam panin Israel-te hong paikhiat lai-in na simsak loh, amaute in a suksiatloh-te Ammon mite leh Moab mite leh Seir Mual gam mite,
 
 **Grammar:** serial verb: -in (and then)
 
 ### v11
 **EN:** Behold, I say, how they reward us, to come to cast us out of thy possession, which thou hast given us to inherit.
 
-**TDB77:** en in, ka luah dingun kote tungah nong piaksa nangma neihsa panin kote hawlkhia dingin hong paina tawh amaute in kote hong lehthuk zawsop uh hi.
+**TDB77:** en in, ka luah dingun kote tungah nong piaksa nangma neihsa panin kote hawlkhia dingin hong paina tawh amaute in kote hong lehthuk zawsop-te hi.
 
-**ZVS:** ka luah dingun kote tungah nong piaksa nangma neihsa panin kote a hong hawlkhia dingin hong paina tawh amaute in kote hong lehthuk zawsop uh hi.
+**ZVS:** ka luah dingun kote tungah nong piaksa nangma neihsa panin kote a hong hawlkhia dingin hong paina tawh amaute in kote hong lehthuk zawsop-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v12
 **EN:** O our God, wilt thou not judge them? for we have no might against this great company that cometh against us; neither know we what to do: but our eyes are upon thee.
 
-**TDB77:** Kote’ Pasian aw, amaute’ tungah thu khen lo ding na hi hiam? Bang hang hiam cih leh kote do dingin a hong pai hih mihon tampite a do dingin thahatna ka nei kei uh hi. Ka cih nading uh ka thei kei uh a, nangmah bek kong mitsuan uh hi,” a ci hi.
+**TDB77:** Kote’ Pasian aw, amaute’ tungah thu khen lo ding na hi hiam? Bang hang hiam cih leh kote do dingin a hong pai hih mihon tampite a do dingin thahatna ka nei kei-te hi. Ka cih nading-te ka thei kei-te a, nangmah bek kong mitsuan-te hi,” a ci hi.
 
-**ZVS:** Kote' Pasian aw, amaute tungah thu khenlo ding na hi hiam? Bang hang hiam cih leh kote a sim dingin a hong pai hih mihon tampite a do dingin thahatna ka nei kei uh hi. Ka cihna ding uh ka thei kei uh a, nangmah bek kong mitsuan uh hi,” a ci hi.
+**ZVS:** Kote' Pasian aw, amaute tungah thu khenlo ding na hi hiam? Bang hang hiam cih leh kote a sim dingin a hong pai hih mihon tampite a do dingin thahatna ka nei kei-te hi. Ka cihna ding-te ka thei kei-te a, nangmah bek kong mitsuan-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | negation: kei | plural: uh marker
 
 ### v13
 **EN:** And all Judah stood before the
 
-**TDB77:** Tua lai takin Topa mai-ah Judah mi khempeuh a taneute, a zite, leh a naupangte uh tawh ding uh hi.
+**TDB77:** Tua lai takin Topa mai-ah Judah mi khempeuh a taneute, a zite, leh a naupangte-te tawh ding-te hi.
 
-**ZVS:** Tua laitakin { Topa' } mai-ah Judah mi khempeuh a taneute, a zite, leh a naupangte uh tawh a ding uh hi.
+**ZVS:** Tua laitakin { Topa' } mai-ah Judah mi khempeuh a taneute, a zite, leh a naupangte-te tawh a ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -162,45 +162,45 @@
 ### v16
 **EN:** To morrow go ye down against them: behold, they come up by the cliff of Ziz; and ye shall find them at the end of the brook, before the wilderness of Jeruel.
 
-**TDB77:** Zing ciangin amaute do-in paisuk un; en un, Ziz kahtohna lampi tawnin amaute hong kuanto ding uh hi; Jeruel gamlak nisuahna lam kuam mongah amaute na mu ding uh hi.
+**TDB77:** Zing ciangin amaute do-in paisuk un; en un, Ziz kahtohna lampi tawnin amaute hong kuanto ding-te hi; Jeruel gamlak nisuahna lam kuam mongah amaute na mu ding-te hi.
 
-**ZVS:** Zing ciangin amaute a do-in paisuk un. Ziz kahtohna lampi tawnin amaute hong kuanto ding uh a, Jeruel gamlak nisuahna lam kuam mongah amaute na mu ding uh hi.
+**ZVS:** Zing ciangin amaute a do-in paisuk un. Ziz kahtohna lampi tawnin amaute hong kuanto ding-te a, Jeruel gamlak nisuahna lam kuam mongah amaute na mu ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v17
 **EN:** Ye shall not need to fight in this battle: set yourselves, stand ye still, and see the salvation of the
 
-**TDB77:** Note in hih kidona-ah na do ding uh kisam lo hi; Judah gam mite leh Jerusalem khua mite aw, na panmun uh la-in taang loin ding un la, note taangin Topa’ gualzawhna mu un,’ ci hi. Kihta kei un la, lungkia kei un; zing ciangin amaute do-in pai un, Topa in note tawh hong om ding hi,” a ci hi.
+**TDB77:** Note in hih kidona-ah na do ding-te kisam lo hi; Judah gam mite leh Jerusalem khua mite aw, na panmun-te la-in taang loin ding un la, note taangin Topa’ gualzawhna mu un,’ ci hi. Kihta kei un la, lungkia kei un; zing ciangin amaute do-in pai un, Topa in note tawh hong om ding hi,” a ci hi.
 
-**ZVS:** Note in hih kidona-ah na do ding uh kisamlo hi. Judah gam mite leh Jerusalem khuamite aw, na pan'mun uh la-in taangloin ding un la, note' tangin { Topa' } gualzawhna mu un,’ ci hi. Kihta kei un la, lungkia kei un. Zing ciangin amaute a do-in pai un. { Topa } in note hong ompih ding hi,” a ci hi.
+**ZVS:** Note in hih kidona-ah na do ding-te kisamlo hi. Judah gam mite leh Jerusalem khuamite aw, na pan'mun-te la-in taangloin ding un la, note' tangin { Topa' } gualzawhna mu un,’ ci hi. Kihta kei un la, lungkia kei un. Zing ciangin amaute a do-in pai un. { Topa } in note hong ompih ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And Jehoshaphat bowed his head with his face to the ground: and all Judah and the inhabitants of Jerusalem fell before the
 
-**TDB77:** Tua ciangin Jehoshafat in a maitang lei lam ngatin kun a, tua ciangin Judah gam leh Jerusalem-a teeng mite khempeuh in zong Topa’ mai-ah pukin Topa bia uh hi.
+**TDB77:** Tua ciangin Jehoshafat in a maitang lei lam ngatin kun a, tua ciangin Judah gam leh Jerusalem-a teeng mite khempeuh in zong Topa’ mai-ah pukin Topa bia-te hi.
 
-**ZVS:** Tua ciangin Jehoshafat in a maitang leilam ngatin kun a, Judah gam leh Jerusalem-a a teng mite khempeuh zong { Topa' } mai-ah pukin { Topa } a bia uh hi.
+**ZVS:** Tua ciangin Jehoshafat in a maitang leilam ngatin kun a, Judah gam leh Jerusalem-a a teng mite khempeuh zong { Topa' } mai-ah pukin { Topa } a bia-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v19
 **EN:** And the Levites, of the children of the Kohathites, and of the children of the Korhites, stood up to praise the
 
-**TDB77:** Tua ciangin Kohath mite, Korah mite sung pan Levi mite awging pha mahmah tawh Israel Pasian, Topa a phat dingin dingto uh hi.
+**TDB77:** Tua ciangin Kohath mite, Korah mite sung pan Levi mite awging pha mahmah tawh Israel Pasian, Topa a phat dingin dingto-te hi.
 
-**ZVS:** Tua ciangin Levi mite sung pan Kohath mite leh Korah mite, awging pha mahmah tawh Israel Pasian, { Topa } a phat dingin a dingto uh hi.
+**ZVS:** Tua ciangin Levi mite sung pan Kohath mite leh Korah mite, awging pha mahmah tawh Israel Pasian, { Topa } a phat dingin a dingto-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | purpose: in order to | plural: uh marker
 
 ### v20
 **EN:** And they rose early in the morning, and went forth into the wilderness of Tekoa: and as they went forth, Jehoshaphat stood and said, Hear me, O Judah, and ye inhabitants of Jerusalem; Believe in the
 
-**TDB77:** Tua ciangin zingsangin amaute tho baihin Tekoa gamlakah paikhia uh hi; amaute a paikhiat lai takin Jehoshafat ding-in, “Judah leh Jerusalem a, teengte aw, ka thugen za un! Topa na Pasian uh um un, tua hi leh note na kip ding uh hi; ama kamsangte um un, tua hi leh na mavang ding uh hi,” a ci hi.
+**TDB77:** Tua ciangin zingsangin amaute tho baihin Tekoa gamlakah paikhia-te hi; amaute a paikhiat lai takin Jehoshafat ding-in, “Judah leh Jerusalem a, teengte aw, ka thugen za un! Topa na Pasian-te um un, tua hi leh note na kip ding-te hi; ama kamsangte um un, tua hi leh na mavang ding-te hi,” a ci hi.
 
-**ZVS:** Tua ciangin zingsangin amaute tho baihin Tekoa gamlakah a paikhia uh hi. Amaute a paikhiat laitakin Jehoshafat dingin, “Judah gam leh Jerusalem-a a tengte aw, ka thugen za un! { Topa } na Pasian uh um un; tua hi leh note na kip ding uh hi. Ama kamsangte um un; tua hi leh na mavang ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin zingsangin amaute tho baihin Tekoa gamlakah a paikhia-te hi. Amaute a paikhiat laitakin Jehoshafat dingin, “Judah gam leh Jerusalem-a a tengte aw, ka thugen za un! { Topa } na Pasian-te um un; tua hi leh note na kip ding-te hi. Ama kamsangte um un; tua hi leh na mavang ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -216,72 +216,72 @@
 ### v22
 **EN:** And when they began to sing and to praise, the
 
-**TDB77:** Amaute in la sa-in phat ding a kipat uh ciangin, Judah mite do dingin a hong pai Ammon mite, Moab mite, leh Seir Mual gam mite a pangsim ding Topa in koih a, amaute kizo hi.
+**TDB77:** Amaute in la sa-in phat ding a kipat-te ciangin, Judah mite do dingin a hong pai Ammon mite, Moab mite, leh Seir Mual gam mite a pangsim ding Topa in koih a, amaute kizo hi.
 
-**ZVS:** Amaute in la sa-in phat ding a kipat uh ciangin, Judah mite a sim dingin a hong pai Ammon mite, Moab mite, leh Seir Mual gam mite a pangsim ding { Topa } in koih a, amaute kizo hi.
+**ZVS:** Amaute in la sa-in phat ding a kipat-te ciangin, Judah mite a sim dingin a hong pai Ammon mite, Moab mite, leh Seir Mual gam mite a pangsim ding { Topa } in koih a, amaute kizo hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v23
 **EN:** For the children of Ammon and Moab stood up against the inhabitants of mount Seir, utterly to slay and destroy them: and when they had made an end of the inhabitants of Seir, every one helped to destroy another.
 
-**TDB77:** Bang hang hiam cih leh Ammon mite leh Moab mite in Seir Mual-a teengte do dingin kipanin amaute susia mang uh a, Seir-a teengte a beisak khit uh ciangin amaute khat leh khat kisusia uh hi.
+**TDB77:** Bang hang hiam cih leh Ammon mite leh Moab mite in Seir Mual-a teengte do dingin kipanin amaute susia mang-te a, Seir-a teengte a beisak khit-te ciangin amaute khat leh khat kisusia-te hi.
 
-**ZVS:** Bang hang hiam cih leh Ammon mite leh Moab mite in Seir Mual-a a tengte a do dingin kipanin amaute susia mang uh a, Seir-a a tengte a beisak khit uh ciangin amaute khatlekhat kisusia uh hi.
+**ZVS:** Bang hang hiam cih leh Ammon mite leh Moab mite in Seir Mual-a a tengte a do dingin kipanin amaute susia mang-te a, Seir-a a tengte a beisak khit-te ciangin amaute khatlekhat kisusia-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And when Judah came toward the watch tower in the wilderness, they looked unto the multitude, and, behold, they were dead bodies fallen to the earth, and none escaped.
 
-**TDB77:** Gamlak-a galvilna tausang ah Judahte hong tun’ ciangin mihonpite’ omna lam en uh hi; en in, amaute in lei lakah a puk mi si luanghawm vive na hi hi; a suakta kuamah om lo hi.
+**TDB77:** Gamlak-a galvilna tausang ah Judahte hong tun’ ciangin mihonpite’ omna lam en-te hi; en in, amaute in lei lakah a puk mi si luanghawm vive na hi hi; a suakta kuamah om lo hi.
 
-**ZVS:** Gamlaka galvilna tausangah Judah-te hong tun' ciangin mihonpite' omna lam en uh hi. Amaute pen leilakah a puk misi luanghawm vive na hi a, a suakta kuamah omlo hi.
+**ZVS:** Gamlaka galvilna tausangah Judah-te hong tun' ciangin mihonpite' omna lam en-te hi. Amaute pen leilakah a puk misi luanghawm vive na hi a, a suakta kuamah omlo hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v25
 **EN:** And when Jehoshaphat and his people came to take away the spoil of them, they found among them in abundance both riches with the dead bodies, and precious jewels, which they stripped off for themselves, more than they could carry away: and they were three days in gathering of the spoil, it was so much.
 
-**TDB77:** Van kinusiate a tawm dingin Jehoshafat leh a mite hong pai ciangin bawngte, vante, puante, leh na manphate tampi tak mu uh a, a puak zawh loh ciang dong uh amau’ adingin la uh hi. Van kinusiate tam mahmah ahih manin ni thum sung tawm uh hi.
+**TDB77:** Van kinusiate a tawm dingin Jehoshafat leh a mite hong pai ciangin bawngte, vante, puante, leh na manphate tampi tak mu-te a, a puak zawh loh ciang dong-te amau’ adingin la-te hi. Van kinusiate tam mahmah ahih manin ni thum sung tawm-te hi.
 
-**ZVS:** Van kinusiate a tawm dingin Jehoshafat leh a mite hong pai ciangin bawngte, vante, puante, leh na manphate tampi tak mu uh a, a puakzawh nawnloh ciangdong uh amau-a' dingin a la uh hi. Van kinusiate tam mahmah ahih manin ni thum sung tawm uh hi.
+**ZVS:** Van kinusiate a tawm dingin Jehoshafat leh a mite hong pai ciangin bawngte, vante, puante, leh na manphate tampi tak mu-te a, a puakzawh nawnloh ciangdong-te amau-a' dingin a la-te hi. Van kinusiate tam mahmah ahih manin ni thum sung tawm-te hi.
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** And on the fourth day they assembled themselves in the valley of Berachah; for there they blessed the
 
-**TDB77:** A ni li ni-in Berakah kuamah amaute kikhawm uh hi; bang hang hiam cih leh amaute in tua lai-ah Topa phat uh hi; tua ahih ciangin tuni dongin tua mun in Berakah Kuam kici hi.
+**TDB77:** A ni li ni-in Berakah kuamah amaute kikhawm-te hi; bang hang hiam cih leh amaute in tua lai-ah Topa phat-te hi; tua ahih ciangin tuni dongin tua mun in Berakah Kuam kici hi.
 
-**ZVS:** A ni li ni-in Berakah Kuam-ah amaute kikhawm uh hi; bang hang hiam cih leh amaute in tua lai-ah { Topa } phat uh hi. Tua ahih ciangin tuni dongin tua lai mun pen Berakah Kuam kici hi.
+**ZVS:** A ni li ni-in Berakah Kuam-ah amaute kikhawm-te hi; bang hang hiam cih leh amaute in tua lai-ah { Topa } phat-te hi. Tua ahih ciangin tuni dongin tua lai mun pen Berakah Kuam kici hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** Then they returned, every man of Judah and Jerusalem, and Jehoshaphat in the forefront of them, to go again to Jerusalem with joy; for the
 
-**TDB77:** Tua ciangin Judah mi leh Jerusalem mi khempeuh, Jehoshafat makai-in lungdamna tawh Jerusalem ah ciah uh hi; bang hang hiam cih leh Topa in amaute a galte uh hangin lungdam sak hi.
+**TDB77:** Tua ciangin Judah mi leh Jerusalem mi khempeuh, Jehoshafat makai-in lungdamna tawh Jerusalem ah ciah-te hi; bang hang hiam cih leh Topa in amaute a galte-te hangin lungdam sak hi.
 
-**ZVS:** Tua ciangin Judah mi leh Jerusalem mi khempeuh ciah uh a, Jehoshafat makai-in lungdamna tawh Jerusalem-ah a pai uh hi; bang hang hiam cih leh a galte uh hangin { Topa } in amaute lungdamsak hi.
+**ZVS:** Tua ciangin Judah mi leh Jerusalem mi khempeuh ciah-te a, Jehoshafat makai-in lungdamna tawh Jerusalem-ah a pai-te hi; bang hang hiam cih leh a galte-te hangin { Topa } in amaute lungdamsak hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v28
 **EN:** And they came to Jerusalem with psalteries and harps and trumpets unto the house of the
 
-**TDB77:** Amaute, harp lasaknate leh laiza lasaknate leh peengkulte tawh Jerusalem Topa’ innah tung uh hi.
+**TDB77:** Amaute, harp lasaknate leh laiza lasaknate leh peengkulte tawh Jerusalem Topa’ innah tung-te hi.
 
-**ZVS:** Amaute, harp lasaknate leh laia lasaknate tawh Jerusalem-a { Topa' } biakinn-ah tung uh hi.
+**ZVS:** Amaute, harp lasaknate leh laia lasaknate tawh Jerusalem-a { Topa' } biakinn-ah tung-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v29
 **EN:** And the fear of God was on all the kingdoms of those countries, when they had heard that the
 
-**TDB77:** Topa in Israelte’ galte a dona thu a zak uh ciangin kumpi gamte khempeuh tungah Topa a kizahtakna hong om hi.
+**TDB77:** Topa in Israelte’ galte a dona thu a zak-te ciangin kumpi gamte khempeuh tungah Topa a kizahtakna hong om hi.
 
-**ZVS:** { Topa } in Israel-te' galte a dosakna thu a zak uh ciangin kumpi gamte khempeuh in { Topa } a kihta uh hi.
+**ZVS:** { Topa } in Israel-te' galte a dosakna thu a zak-te ciangin kumpi gamte khempeuh in { Topa } a kihta-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -315,9 +315,9 @@
 ### v33
 **EN:** Howbeit the high places were not taken away: for as yet the people had not prepared their hearts unto the God of their fathers.
 
-**TDB77:** Ahi zongin mual dawn a, biakpiaknate kilakhia lo hi; mite in a lungsim uhah a pu a pate uh’ Pasian ngaihsun nai lo uh hi.
+**TDB77:** Ahi zongin mual dawn a, biakpiaknate kilakhia lo hi; mite in a lungsim uhah a pu a pate uh’ Pasian ngaihsun nai lo-te hi.
 
-**ZVS:** Ahi zongin mual dawna biakpiaknate kilakhia lo hi. Mite in a lungsim uhah a pu a pate uh' Pasian ngaihsun nailo uh hi.
+**ZVS:** Ahi zongin mual dawna biakpiaknate kilakhia lo hi. Mite in a lungsim uhah a pu a pate uh' Pasian ngaihsun nailo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -342,18 +342,18 @@
 ### v36
 **EN:** And he joined himself with him to make ships to go to Tarshish: and they made the ships in Ezion–geber.
 
-**TDB77:** Tarshish a, a pai ding teembawte bawlna ah amah pawl a, amaute in Eziongerber ah teembawte bawl uh hi.
+**TDB77:** Tarshish a, a pai ding teembawte bawlna ah amah pawl a, amaute in Eziongerber ah teembawte bawl-te hi.
 
-**ZVS:** Tarshish-a pai ding teembawte bawlna-ah amah pawl a, amaute in Eziongebar-ah teembawte a bawl uh hi.
+**ZVS:** Tarshish-a pai ding teembawte bawlna-ah amah pawl a, amaute in Eziongebar-ah teembawte a bawl-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v37
 **EN:** Then Eliezer the son of Dodavah of Mareshah prophesied against Jehoshaphat, saying, Because thou hast joined thyself with Ahaziah, the
 
-**TDB77:** Tua ciangin Mareshah khuami Dodavahu’ tapa Eliezer in Jehoshafat langpangin thu genkholin, “Nangmah in Ahaziah tawh kipawl na hih manin Topa in na bawlsate uh susia ding hi,” a ci hi. Tua ciangin teembawte kisia a, Tarshish ah pai thei lo hi.
+**TDB77:** Tua ciangin Mareshah khuami Dodavahu’ tapa Eliezer in Jehoshafat langpangin thu genkholin, “Nangmah in Ahaziah tawh kipawl na hih manin Topa in na bawlsate-te susia ding hi,” a ci hi. Tua ciangin teembawte kisia a, Tarshish ah pai thei lo hi.
 
-**ZVS:** Tua ciangin Mareshah khuami Dodavahu' tapa Eliezer in Jehoshafat langpangin thu genin, “Nangmah in Ahaziah tawh kipawlna bawl na hih manin { Topa } in na bawlsa uh nate susia ding hi,” a ci hi. Tua ciangin teembawte kisia a Tarshish-ah pai theilo hi.
+**ZVS:** Tua ciangin Mareshah khuami Dodavahu' tapa Eliezer in Jehoshafat langpangin thu genin, “Nangmah in Ahaziah tawh kipawlna bawl na hih manin { Topa } in na bawlsa-te nate susia ding hi,” a ci hi. Tua ciangin teembawte kisia a Tarshish-ah pai theilo hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: lo | causal: because | reciprocal: ki- prefix
 

@@ -45,7 +45,7 @@
 ### v4
 **EN:** I will make mention of Rahab and Babylon to them that know me: behold Philistia, and Tyre, with Ethiopia; this man was born there.
 
-**TDB77:** Kei hong theite lakah Izipt leh Babilon ka hel hi; Filistia, Tai-ar leh Ethiopia-te zong—“Hihte pen hua lai mah pan-a piang ahi hi,” amaute in ci ding uh hi.
+**TDB77:** Kei hong theite lakah Izipt leh Babilon ka hel hi; Filistia, Tai-ar leh Ethiopia-te zong—“Hihte pen hua lai mah pan-a piang ahi hi,” amaute in ci ding-te hi.
 
 **ZVS:** Kei hong theite lakah Egypt leh Babylon ka hel hi. Filistia, Taia leh Ethiopia-te zong kihel a, “Hihte pen hua lai mah panin a piang ahi hi,” kici ding hi.
 
@@ -72,9 +72,9 @@
 ### v7
 **EN:** As well the singers as the players on instruments shall be there: all my springs are in thee.
 
-**TDB77:** Tua sung a teeng mi khempeuh in a kibangin, “Ka lungdamna bulpite khempeuh uh nangma sungah om hi,” ci ding uh hi.
+**TDB77:** Tua sung a teeng mi khempeuh in a kibangin, “Ka lungdamna bulpite khempeuh-te nangma sungah om hi,” ci ding-te hi.
 
-**ZVS:** Tua sunga teng mite in, “Kote' lungdamna khempeuh nangma sungah om hi,” ci ciat ding uh hi.
+**ZVS:** Tua sunga teng mite in, “Kote' lungdamna khempeuh nangma sungah om hi,” ci ciat ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

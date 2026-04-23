@@ -44,18 +44,18 @@
 ### v3
 **EN:** And his mother's brethren spake of him in the ears of all the men of Shechem all these words: and their hearts inclined to follow Abimelech; for they said, He is our brother.
 
-**TDB77:** Tua ciangin a nu’ tanaute in ama tangin Shekhem mite khempeuh tungah hih thute gen uh hi; tua ciangin amaute’ lungsim Abimelek zuih ding lamah hoi hi, bang hang hiam cih leh amaute in, “Amah i sanggampa ahi hi,” a ci uh hi.
+**TDB77:** Tua ciangin a nu’ tanaute in ama tangin Shekhem mite khempeuh tungah hih thute gen-te hi; tua ciangin amaute’ lungsim Abimelek zuih ding lamah hoi hi, bang hang hiam cih leh amaute in, “Amah i sanggampa ahi hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin a nu' tanaute in ama tangin Shekhem mite khempeuh tungah hih thute gen uh hi. Tua ciangin amaute' lungsim Abimelek zuih ding lamah hoi hi; bang hang hiam cih leh amaute in, “Amah i naihuai ahi hi,” a ci uh hi.
+**ZVS:** Tua ciangin a nu' tanaute in ama tangin Shekhem mite khempeuh tungah hih thute gen-te hi. Tua ciangin amaute' lungsim Abimelek zuih ding lamah hoi hi; bang hang hiam cih leh amaute in, “Amah i naihuai ahi hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | plural: uh marker
 
 ### v4
 **EN:** And they gave him threescore and ten pieces of silver out of the house of Baal–berith, wherewith Abimelech hired vain and light persons, which followed him.
 
-**TDB77:** Tua ciangin amaute in Baalberith inn panin ngun peek sawmsagih Abimelek pia uh a, amah in ama nung a zui bangmah-a kimang lo leh thu ngaihsun thei lo mite cialna hi.
+**TDB77:** Tua ciangin amaute in Baalberith inn panin ngun peek sawmsagih Abimelek pia-te a, amah in ama nung a zui bangmah-a kimang lo leh thu ngaihsun thei lo mite cialna hi.
 
-**ZVS:** Tua ciangin amaute in Baaberith inn panin ngun pek sawmsagih Abimelek pia uh a, amah in ama nung a zui, bangmaha a kimanglo leh thu ngaihsun theilo mite cialna hi.
+**ZVS:** Tua ciangin amaute in Baaberith inn panin ngun pek sawmsagih Abimelek pia-te a, amah in ama nung a zui, bangmaha a kimanglo leh thu ngaihsun theilo mite cialna hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -71,9 +71,9 @@
 ### v6
 **EN:** And all the men of Shechem gathered together, and all the house of Millo, and went, and made Abimelech king, by the plain of the pillar that was in Shechem.
 
-**TDB77:** Tua ciangin Shekhem khua mite khempeuh leh Bethmillo khua mite khempeuh hong paikhawm uh a, amaute in Shekhem khua-a tawsaw khuampi kiangah Abimelek kumpi suaksak uh hi.
+**TDB77:** Tua ciangin Shekhem khua mite khempeuh leh Bethmillo khua mite khempeuh hong paikhawm-te a, amaute in Shekhem khua-a tawsaw khuampi kiangah Abimelek kumpi suaksak-te hi.
 
-**ZVS:** Tua ciangin Shekhem khuamite khempeuh leh Bethmilo khuamite khempeuh hong paikhawm uh a, amaute in Shekhem khua-a tawsaw songpi kiangah Abimelek kumpi a suaksak uh hi.
+**ZVS:** Tua ciangin Shekhem khuamite khempeuh leh Bethmilo khuamite khempeuh hong paikhawm-te a, amaute in Shekhem khua-a tawsaw songpi kiangah Abimelek kumpi a suaksak-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -89,9 +89,9 @@
 ### v8
 **EN:** The trees went forth on a time to anoint a king over them; and they said unto the olive tree, Reign thou over us.
 
-**TDB77:** Khatvei, singkungte amau’ tungah kumpi-in sathau a nilh dingin paikhia uh hi; amaute in oliv kung kiangah, ‘Kote hong uk in,’ a ci uh hi.
+**TDB77:** Khatvei, singkungte amau’ tungah kumpi-in sathau a nilh dingin paikhia-te hi; amaute in oliv kung kiangah, ‘Kote hong uk in,’ a ci-te hi.
 
-**ZVS:** Khatvei, singkungte amau' tungah kumpi-in sathau a nilh dingin kuankhia uh a, amaute in oliv kung kiangah, ‘Kote hong uk in,’ a ci uh hi.
+**ZVS:** Khatvei, singkungte amau' tungah kumpi-in sathau a nilh dingin kuankhia-te a, amaute in oliv kung kiangah, ‘Kote hong uk in,’ a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -107,9 +107,9 @@
 ### v10
 **EN:** And the trees said to the fig tree, Come thou, and reign over us.
 
-**TDB77:** Tua ciangin singkungte in theikung kiangah, ‘Hong pai in la, kote hong uk in,’ a ci uh hi.
+**TDB77:** Tua ciangin singkungte in theikung kiangah, ‘Hong pai in la, kote hong uk in,’ a ci-te hi.
 
-**ZVS:** Tua ciangin singkungte in theikung kiangah, ‘Hong pai in la, kote hong uk in,’ ci uh hi.
+**ZVS:** Tua ciangin singkungte in theikung kiangah, ‘Hong pai in la, kote hong uk in,’ ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -125,9 +125,9 @@
 ### v12
 **EN:** Then said the trees unto the vine, Come thou, and reign over us.
 
-**TDB77:** Tua ciangin singkungte in leenggui kiangah, ‘Hong pai in la, kote hong uk in,’ a ci uh hi.
+**TDB77:** Tua ciangin singkungte in leenggui kiangah, ‘Hong pai in la, kote hong uk in,’ a ci-te hi.
 
-**ZVS:** Tua ciangin singkungte in leenggui kiangah, ‘Hong pai in la, kote hong uk in,’ ci uh hi.
+**ZVS:** Tua ciangin singkungte in leenggui kiangah, ‘Hong pai in la, kote hong uk in,’ ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -143,27 +143,27 @@
 ### v14
 **EN:** Then said all the trees unto the bramble, Come thou, and reign over us.
 
-**TDB77:** Tua ciangin singkung khempeuh in thangling kung kiangah, ‘Hong pai in la, kote hong uk in,’ a ci uh hi.
+**TDB77:** Tua ciangin singkung khempeuh in thangling kung kiangah, ‘Hong pai in la, kote hong uk in,’ a ci-te hi.
 
-**ZVS:** Tua ciangin singkung khempeuh in thangling kung kiangah, ‘Hong pai in la, kote hong uk in,’ ci uh hi.
+**ZVS:** Tua ciangin singkung khempeuh in thangling kung kiangah, ‘Hong pai in la, kote hong uk in,’ ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And the bramble said unto the trees, If in truth ye anoint me king over you, then come and put your trust in my shadow: and if not, let fire come out of the bramble, and devour the cedars of Lebanon.
 
-**TDB77:** Thangling kung in singkungte kiangah, ‘Note tungah kumpi-in lungsim tak tawh sathau hong nilh na hih uh leh, hong pai un la ka liim-ah bu un; ahih hangin tua bang ahih kei leh, thangling kung lak panin meikuang hong pai khia hen la, Lebanon taamtak kungte kangtum hen,’ a ci hi.
+**TDB77:** Thangling kung in singkungte kiangah, ‘Note tungah kumpi-in lungsim tak tawh sathau hong nilh na hih-te leh, hong pai un la ka liim-ah bu un; ahih hangin tua bang ahih kei leh, thangling kung lak panin meikuang hong pai khia hen la, Lebanon taamtak kungte kangtum hen,’ a ci hi.
 
-**ZVS:** Thangling kung in singkungte kiangah, ‘Note tungah kumpi-in lungsim tak tawh sathau hong nilh na hih uh leh, hong pai un la, ka liimah hong bu un. Ahi zongin ka liim nuai-ah nong buk kei uh leh, thangling kung lak panin meikuang hong paikhia hen la, Lebanon taamtak kungte kangtum hen,’ ci hi.
+**ZVS:** Thangling kung in singkungte kiangah, ‘Note tungah kumpi-in lungsim tak tawh sathau hong nilh na hih-te leh, hong pai un la, ka liimah hong bu un. Ahi zongin ka liim nuai-ah nong buk kei-te leh, thangling kung lak panin meikuang hong paikhia hen la, Lebanon taamtak kungte kangtum hen,’ ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v16
 **EN:** Now therefore, if ye have done truly and sincerely, in that ye have made Abimelech king, and if ye have dealt well with Jerubbaal and his house, and have done unto him according to the deserving of his hands;
 
-**TDB77:** “Tua ahih ciangin tu-in Abimelek kumpi-in na bawl uh ciangin lungsim tak leh thuman tak mah tawh a gamta na hi uh hiam?—Jerubbaal leh a innkuan tungah thuman takin gamta-in ama sepna tawh a kituakin amah a bawl mah na hi uh hiam?
+**TDB77:** “Tua ahih ciangin tu-in Abimelek kumpi-in na bawl-te ciangin lungsim tak leh thuman tak mah tawh a gamta na hi-te hiam?—Jerubbaal leh a innkuan tungah thuman takin gamta-in ama sepna tawh a kituakin amah a bawl mah na hi-te hiam?
 
-**ZVS:** “Tua ahih ciangin tu-in Abimelek kumpi-in na bawl uh ciangin lungsimtak leh thumantak mah tawh a gamta na hi uh hiam? Jerubbaal leh a innkuan tungah thuman takin gamta-in ama sepna tawh a kituakin amah a bawl mah na hi uh hiam?
+**ZVS:** “Tua ahih ciangin tu-in Abimelek kumpi-in na bawl-te ciangin lungsimtak leh thumantak mah tawh a gamta na hi-te hiam? Jerubbaal leh a innkuan tungah thuman takin gamta-in ama sepna tawh a kituakin amah a bawl mah na hi-te hiam?
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -177,18 +177,18 @@
 ### v18
 **EN:** And ye are risen up against my father's house this day, and have slain his sons, threescore and ten persons, upon one stone, and have made Abimelech, the son of his maidservant, king over the men of Shechem, because he is your brother;)
 
-**TDB77:** ahi zongin tu ni-in ka pa’ innkuan lang khatah note tho-in a tapate mi sawmsagih suang khat tungah na that uh a, ka pa in a nasem numei tawh a neih a tapa Abimelek pen note’ tanau ahihna hangin Shekhem khua mite tungah kumpi-in na bawl uh hi—
+**TDB77:** ahi zongin tu ni-in ka pa’ innkuan lang khatah note tho-in a tapate mi sawmsagih suang khat tungah na that-te a, ka pa in a nasem numei tawh a neih a tapa Abimelek pen note’ tanau ahihna hangin Shekhem khua mite tungah kumpi-in na bawl-te hi—
 
-**ZVS:** Ahi zongin tuni-in ka pa' innkuan langkhatah note pangin a tapate mi sawmsagih suang khat tungah na that uh a, ka pa in a nasem numei tawh a neih a tapa Abimelek pen note' naihuai ahihna hangin Shekhem khuamite tungah kumpi-in na bawl uh hi.
+**ZVS:** Ahi zongin tuni-in ka pa' innkuan langkhatah note pangin a tapate mi sawmsagih suang khat tungah na that-te a, ka pa in a nasem numei tawh a neih a tapa Abimelek pen note' naihuai ahihna hangin Shekhem khuamite tungah kumpi-in na bawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v19
 **EN:** If ye then have dealt truly and sincerely with Jerubbaal and with his house this day, then rejoice ye in Abimelech, and let him also rejoice in you:
 
-**TDB77:** note in tu ni-in Jerubbaal leh a innkuanpihte tungah lungsim tak leh thuman tak tawh a gamta takpi mah na hih uh leh, Abimelek tungah note lungdam un la, note tungah amah zong lungdam hen;
+**TDB77:** note in tu ni-in Jerubbaal leh a innkuanpihte tungah lungsim tak leh thuman tak tawh a gamta takpi mah na hih-te leh, Abimelek tungah note lungdam un la, note tungah amah zong lungdam hen;
 
-**ZVS:** Note in tuni-in Jerubbaal leh a innkuanpihte tungah lungsimtak leh thumantak tawh a gamta takpi mah na hih uh leh, Abimelek tungah note lungdam un la, note tungah zong amah lungdam ta hen.
+**ZVS:** Note in tuni-in Jerubbaal leh a innkuanpihte tungah lungsimtak leh thumantak tawh a gamta takpi mah na hih-te leh, Abimelek tungah note lungdam un la, note tungah zong amah lungdam ta hen.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -220,54 +220,54 @@
 ### v23
 **EN:** Then God sent an evil spirit between Abimelech and the men of Shechem; and the men of Shechem dealt treacherously with Abimelech:
 
-**TDB77:** Pasian in Abimelek leh Shekhem mite kikalah khagilo sawlin kigalneihna omsak hi; tua ciangin Shekhem mite in Abimelek lehdo uh hi;
+**TDB77:** Pasian in Abimelek leh Shekhem mite kikalah khagilo sawlin kigalneihna omsak hi; tua ciangin Shekhem mite in Abimelek lehdo-te hi;
 
-**ZVS:** Pasian in Abimelek leh Shekhem mite kikalah kigalneihna omsak a, Shekhem mite in Abimelek lehdo uh hi.
+**ZVS:** Pasian in Abimelek leh Shekhem mite kikalah kigalneihna omsak a, Shekhem mite in Abimelek lehdo-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** That the cruelty done to the threescore and ten sons of Jerubbaal might come, and their blood be laid upon Abimelech their brother, which slew them; and upon the men of Shechem, which aided him in the killing of his brethren.
 
-**TDB77:** tua in, Jerubbaal tapa sawmsagihte a kithahna thu tawh kisai-in, amaute a that a sanggampa uh Abimelek, leh a sanggamte thah nadingin a hanthawn Shekhem mite tungah thukkikna hong tun’ theih nadingin a kibawl mahmah ahi hi.
+**TDB77:** tua in, Jerubbaal tapa sawmsagihte a kithahna thu tawh kisai-in, amaute a that a sanggampa-te Abimelek, leh a sanggamte thah nadingin a hanthawn Shekhem mite tungah thukkikna hong tun’ theih nadingin a kibawl mahmah ahi hi.
 
-**ZVS:** Tua pen, Jerubbaal tapa sawmsagihte a kithahna thu tawh kisai-in, amaute a that a sanggampa uh Abimelek, leh a sanggamte thahna dingin a hanthawn Shekhem mite tungah thukkikna hong tun'theihna dingin a kibawl mahmah ahi hi.
+**ZVS:** Tua pen, Jerubbaal tapa sawmsagihte a kithahna thu tawh kisai-in, amaute a that a sanggampa-te Abimelek, leh a sanggamte thahna dingin a hanthawn Shekhem mite tungah thukkikna hong tun'theihna dingin a kibawl mahmah ahi hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v25
 **EN:** And the men of Shechem set liers in wait for him in the top of the mountains, and they robbed all that came along that way by them: and it was told Abimelech.
 
-**TDB77:** Tua hi a, Shekhem mite in amah pangsim dingin mual dawn-ah mi khempeuhte’ na nasut uh hi; hih thu Abimelek kiangah kigen hi.
+**TDB77:** Tua hi a, Shekhem mite in amah pangsim dingin mual dawn-ah mi khempeuhte’ na nasut-te hi; hih thu Abimelek kiangah kigen hi.
 
-**ZVS:** Tua hi a, Shekhem mite in Abimelek a pangsim dingin mual dawnah mi koih uh a, amaute in tua lam a tawn mi khempeuhte' na na sut uh hi; hih thu Abimelek kiangah kigen hi.
+**ZVS:** Tua hi a, Shekhem mite in Abimelek a pangsim dingin mual dawnah mi koih-te a, amaute in tua lam a tawn mi khempeuhte' na na sut-te hi; hih thu Abimelek kiangah kigen hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v26
 **EN:** And Gaal the son of Ebed came with his brethren, and went over to Shechem: and the men of Shechem put their confidence in him.
 
-**TDB77:** Tua ciangin Ebed’ tapa Ga-al a tanaute tawh Shekhem-ah hong kuan hi; Shekhem mite in amah muang uh hi.
+**TDB77:** Tua ciangin Ebed’ tapa Ga-al a tanaute tawh Shekhem-ah hong kuan hi; Shekhem mite in amah muang-te hi.
 
-**ZVS:** Tua ciangin Ebed' tapa Gaal a tanaute tawh Shekhem-ah hong kikhin uh hi. Shekhem mite in amah muang uh hi.
+**ZVS:** Tua ciangin Ebed' tapa Gaal a tanaute tawh Shekhem-ah hong kikhin-te hi. Shekhem mite in amah muang-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v27
 **EN:** And they went out into the fields, and gathered their vineyards, and trode the grapes, and made merry, and went into the house of their god, and did eat and drink, and cursed Abimelech.
 
-**TDB77:** Amaute lo-ah kuanin a leenggui lo uh panin leenggah khawmin cil uh a, pawi khamin amaute’ pasian’ inn-ah pai uh a, anne tuidawnin omin Abimelek zahko uh hi.
+**TDB77:** Amaute lo-ah kuanin a leenggui lo-te panin leenggah khawmin cil-te a, pawi khamin amaute’ pasian’ inn-ah pai-te a, anne tuidawnin omin Abimelek zahko-te hi.
 
-**ZVS:** Amaute lo-ah kuanin a leenggui uh panin leenggah khawmin cil uh a, pawi khamin amaute' pasian' inn-ah pai uh a, an ne tui dawnin omin Abimelek zahko uh hi.
+**ZVS:** Amaute lo-ah kuanin a leenggui-te panin leenggah khawmin cil-te a, pawi khamin amaute' pasian' inn-ah pai-te a, an ne tui dawnin omin Abimelek zahko-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v28
 **EN:** And Gaal the son of Ebed said, Who is Abimelech, and who is Shechem, that we should serve him? is not he the son of Jerubbaal? and Zebul his officer? serve the men of Hamor the father of Shechem: for why should we serve him?
 
-**TDB77:** Tua ciangin Ebed’ tapa Ga-al in, “Abimelek in kua hi a, ama na i sep dingin ei Shekhem mite in kua i hi hiam? Jerubbaal tapa leh ama ulian Zebul in Shekhem mite’ pu leh pa Hamor’ na sem hilo ahi uh hiam? Tua ahih ciangin bang hangin ama na sem ding i hi hiam?
+**TDB77:** Tua ciangin Ebed’ tapa Ga-al in, “Abimelek in kua hi a, ama na i sep dingin ei Shekhem mite in kua i hi hiam? Jerubbaal tapa leh ama ulian Zebul in Shekhem mite’ pu leh pa Hamor’ na sem hilo ahi-te hiam? Tua ahih ciangin bang hangin ama na sem ding i hi hiam?
 
-**ZVS:** Tua ciangin Ebed' tapa Gaal in, “Abimelek, kua hi a, ama na i sepsak dingin ei Shekhem mite kua ihi hiam? Jerubbaal' tapa leh ama ulian Zebul in Shekhem mite' pulepa Hamor' na sem uh hilo ahi hiam? Tua ahih ciangin bang hangin ama na sem ding ihi hiam?
+**ZVS:** Tua ciangin Ebed' tapa Gaal in, “Abimelek, kua hi a, ama na i sepsak dingin ei Shekhem mite kua ihi hiam? Jerubbaal' tapa leh ama ulian Zebul in Shekhem mite' pulepa Hamor' na sem-te hilo ahi hiam? Tua ahih ciangin bang hangin ama na sem ding ihi hiam?
 
 **Grammar:** sequence: then/therefore | purpose: in order to
 
@@ -292,7 +292,7 @@
 ### v31
 **EN:** And he sent messengers unto Abimelech privily, saying, Behold, Gaal the son of Ebed and his brethren be come to Shechem; and, behold, they fortify the city against thee.
 
-**TDB77:** Amah in Arumah khua-a om Abimelek kiangah kamtaite sawlin, “En in, Ebed tapa Ga-al leh a tanaute Shekhem-ah hong pai-in nang langpangin tua khuapi sosuah uh hi.
+**TDB77:** Amah in Arumah khua-a om Abimelek kiangah kamtaite sawlin, “En in, Ebed tapa Ga-al leh a tanaute Shekhem-ah hong pai-in nang langpangin tua khuapi sosuah-te hi.
 
 **ZVS:** Amah in Arumah khua-a om Abimelek kiangah kamtaite sawlin, “En in, Ebed tapa Gaal leh a tanaute Shekhem-ah hong pai-in nang langpangin tua khuapi sosuah hi.
 
@@ -312,25 +312,25 @@
 
 **TDB77:** Tua ciangin zingsang ciang ni a suah phetin tho baih un la khuapi bawh un; tua ciangin amah leh amah tawh a om mite nang a do dingin hong kuan khiat ciangun a hi thei bangin amaute tungah na bawl ding hi,” ci sak hi.
 
-**ZVS:** Tua ciangin zingsang ni a suah phetin tho baih un la, khuapi simgawp un. A ompih mite tawh nang a do dingin hong kuankhiat ciangun ahi thei bangin amaute tungah na bawl ding uh hi,” cisak hi.
+**ZVS:** Tua ciangin zingsang ni a suah phetin tho baih un la, khuapi simgawp un. A ompih mite tawh nang a do dingin hong kuankhiat ciangun ahi thei bangin amaute tungah na bawl ding-te hi,” cisak hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will
 
 ### v34
 **EN:** And Abimelech rose up, and all the people that were with him, by night, and they laid wait against Shechem in four companies.
 
-**TDB77:** Tua ciangin Abimelek leh amah tawh a om mite khempeuh zan-in tho-in pawl li kisuahin Shekhem sim dingin pangsim uh hi.
+**TDB77:** Tua ciangin Abimelek leh amah tawh a om mite khempeuh zan-in tho-in pawl li kisuahin Shekhem sim dingin pangsim-te hi.
 
-**ZVS:** Tua ciangin Abimelek leh amah tawh a om mite khempeuh zanin tho-in pawl li kisuahin Shekhem a sim dingin pangsim uh hi.
+**ZVS:** Tua ciangin Abimelek leh amah tawh a om mite khempeuh zanin tho-in pawl li kisuahin Shekhem a sim dingin pangsim-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v35
 **EN:** And Gaal the son of Ebed went out, and stood in the entering of the gate of the city: and Abimelech rose up, and the people that were with him, from lying in wait.
 
-**TDB77:** Tua ciangin Ebed tapa Ga-al paikhia-in khuapi kulh kongpi lutna-ah ding hi; tua ciang Abimelek leh amah tawh a om mite a pan’simna panun ding to uh hi.
+**TDB77:** Tua ciangin Ebed tapa Ga-al paikhia-in khuapi kulh kongpi lutna-ah ding hi; tua ciang Abimelek leh amah tawh a om mite a pan’simna panun ding to-te hi.
 
-**ZVS:** Tua ciangin Ebed tapa Gaal paikhia-in khuapi kulhkongpi lutna-ah ding a, Abimelek leh amah tawh a om mite zong a pan'simna panun dingto uh hi.
+**ZVS:** Tua ciangin Ebed tapa Gaal paikhia-in khuapi kulhkongpi lutna-ah ding a, Abimelek leh amah tawh a om mite zong a pan'simna panun dingto-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -380,34 +380,34 @@
 ### v41
 **EN:** And Abimelech dwelt at Arumah: and Zebul thrust out Gaal and his brethren, that they should not dwell in Shechem.
 
-**TDB77:** Tua ciangin Arumah-ah Abimelek teeng hi; Zebul in Ga-al leh a tanaute hawlkhia a, amaute Shekhem-ah teeng thei nawn lo uh hi.
+**TDB77:** Tua ciangin Arumah-ah Abimelek teeng hi; Zebul in Ga-al leh a tanaute hawlkhia a, amaute Shekhem-ah teeng thei nawn lo-te hi.
 
-**ZVS:** Tua ciangin Arumah-ah Abimelek a teng hi. Zebul in Gaal leh a tanaute hawlkhia a, amaute Shekhem-ah teng thei nawnlo uh hi.
+**ZVS:** Tua ciangin Arumah-ah Abimelek a teng hi. Zebul in Gaal leh a tanaute hawlkhia a, amaute Shekhem-ah teng thei nawnlo-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
 ### v42
 **EN:** And it came to pass on the morrow, that the people went out into the field; and they told Abimelech.
 
-**TDB77:** A zing ciangin gamlakah Shekhem mite paikhia uh hi. Hih thu Abimelek kiangah kigen hi.
+**TDB77:** A zing ciangin gamlakah Shekhem mite paikhia-te hi. Hih thu Abimelek kiangah kigen hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v43
 **EN:** And he took the people, and divided them into three companies, and laid wait in the field, and looked, and, behold, the people were come forth out of the city; and he rose up against them, and smote them.
 
-**TDB77:** Amah in a mite la-in pawlthum suahin gamlakah pangsim uh hi; tua ciangin amah khuadakin khuapi panin mite a kuankhia mu a, amaute do-in kipan a, amaute that hi.
+**TDB77:** Amah in a mite la-in pawlthum suahin gamlakah pangsim-te hi; tua ciangin amah khuadakin khuapi panin mite a kuankhia mu a, amaute do-in kipan a, amaute that hi.
 
-**ZVS:** Amah in a mite la-in pawl thum suahin gamlakah pangsim uh hi. Tua ciangin amah khuadakin khuapi panin mite a kuankhia mu a, amaute do-in kipan a, amaute that hi.
+**ZVS:** Amah in a mite la-in pawl thum suahin gamlakah pangsim-te hi. Tua ciangin amah khuadakin khuapi panin mite a kuankhia mu a, amaute do-in kipan a, amaute that hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v44
 **EN:** And Abimelech, and the company that was with him, rushed forward, and stood in the entering of the gate of the city: and the two other companies ran upon all the people that were in the fields, and slew them.
 
-**TDB77:** Abimelek leh amah tawh a om a pawlte in thakhatin mainawt uh a, ama pawl dang nihte in gamlak-a om mite delhin a thah sungin khuapi kulhpi lutna-ah amaute na ding uh hi.
+**TDB77:** Abimelek leh amah tawh a om a pawlte in thakhatin mainawt-te a, ama pawl dang nihte in gamlak-a om mite delhin a thah sungin khuapi kulhpi lutna-ah amaute na ding-te hi.
 
-**ZVS:** Abimelek leh amah tawh a om a pawlte in thakhatin mainawt uh a, ama pawldang nihte in gamlaka om mite delhin a thah sungin khuapikulh lutna-ah amaute na ding uh hi.
+**ZVS:** Abimelek leh amah tawh a om a pawlte in thakhatin mainawt-te a, ama pawldang nihte in gamlaka om mite delhin a thah sungin khuapikulh lutna-ah amaute na ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -423,16 +423,16 @@
 ### v46
 **EN:** And when all the men of the tower of Shechem heard that, they entered into an hold of the house of the god Berith.
 
-**TDB77:** Shekhem Tausang mite khempeuh in tua thu a zak uh ciangin Elberith’ inn mun muanhuai-ah lut uh hi.
+**TDB77:** Shekhem Tausang mite khempeuh in tua thu a zak-te ciangin Elberith’ inn mun muanhuai-ah lut-te hi.
 
-**ZVS:** Shekhem Tausang mite khempeuh in tua thu a zak uh ciangin Elberith' inn munmuan'huai-ah lut uh hi.
+**ZVS:** Shekhem Tausang mite khempeuh in tua thu a zak-te ciangin Elberith' inn munmuan'huai-ah lut-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v47
 **EN:** And it was told Abimelech, that all the men of the tower of Shechem were gathered together.
 
-**TDB77:** Shekhem Tausang mite khempeuh kikaikhawm uh hi, ci-in Abimelek kiangah kigen hi.
+**TDB77:** Shekhem Tausang mite khempeuh kikaikhawm-te hi, ci-in Abimelek kiangah kigen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -448,9 +448,9 @@
 ### v49
 **EN:** And all the people likewise cut down every man his bough, and followed Abimelech, and put them to the hold, and set the hold on fire upon them; so that all the men of the tower of Shechem died also, about a thousand men and women.
 
-**TDB77:** Tua ahih ciangin mi khempeuh amau’ ading selkeu lom satin Abimelek zui-in mun muanhuai sim nadingin koih uh a, amaute in mei tawh mun muanhuai halin Shekhem Tausang mite khempeuh zong, numei leh pasal mi tulkhat bang si hi.
+**TDB77:** Tua ahih ciangin mi khempeuh amau’ ading selkeu lom satin Abimelek zui-in mun muanhuai sim nadingin koih-te a, amaute in mei tawh mun muanhuai halin Shekhem Tausang mite khempeuh zong, numei leh pasal mi tulkhat bang si hi.
 
-**ZVS:** Tua ahih ciangin mi khempeuh in amau-a' ding ciat selkeu tomin Abimelek zui-in munmuan'huai simna dingin koih uh a, amaute in mei tawh munmuan'huai halin Shekhem Tausang mite, numei leh pasal mi tul khat bang a si hi.
+**ZVS:** Tua ahih ciangin mi khempeuh in amau-a' ding ciat selkeu tomin Abimelek zui-in munmuan'huai simna dingin koih-te a, amaute in mei tawh munmuan'huai halin Shekhem Tausang mite, numei leh pasal mi tul khat bang a si hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -466,9 +466,9 @@
 ### v51
 **EN:** But there was a strong tower within the city, and thither fled all the men and women, and all they of the city, and shut it to them, and gat them up to the top of the tower.
 
-**TDB77:** Ahih hangin tua khuapi sungah tausang muanhuai khat om a, tua khua numei leh pasal, tua khuami khempeuh tua tausang-ah tai-in kikhaknelh uh hi; tua ciangin tausang khum-ah amaute pai uh hi.
+**TDB77:** Ahih hangin tua khuapi sungah tausang muanhuai khat om a, tua khua numei leh pasal, tua khuami khempeuh tua tausang-ah tai-in kikhaknelh-te hi; tua ciangin tausang khum-ah amaute pai-te hi.
 
-**ZVS:** Ahih hangin tua khuapi sungah tausang muan'huai om a, tua khua numei leh pasal, tua khuami khempeuh tua tausangah tai-in kikhaknelh uh a, tausang khumah amaute om uh hi.
+**ZVS:** Ahih hangin tua khuapi sungah tausang muan'huai om a, tua khua numei leh pasal, tua khuami khempeuh tua tausangah tai-in kikhaknelh-te a, tausang khumah amaute om-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -491,18 +491,18 @@
 ### v54
 **EN:** Then he called hastily unto the young man his armourbearer, and said unto him, Draw thy sword, and slay me, that men say not of me, A woman slew him. And his young man thrust him through, and he died.
 
-**TDB77:** Tua ciangin Abimelek in ama hiam a tawisak tangvalpa nawh sapin ama kiangah, “Na namsau dok in la kei hong that in, tua hi kei leh mite in, ‘Numei khat in, amah that hi,’ hong ci kha ding uh hi,” a ci hi. A tangvalpa in amah sun letin amah si hi.
+**TDB77:** Tua ciangin Abimelek in ama hiam a tawisak tangvalpa nawh sapin ama kiangah, “Na namsau dok in la kei hong that in, tua hi kei leh mite in, ‘Numei khat in, amah that hi,’ hong ci kha ding-te hi,” a ci hi. A tangvalpa in amah sun letin amah si hi.
 
-**ZVS:** Tua ciangin amah in ama hiam a tawisak tangvalpa nawh sapin ama kiangah, “Na namsau dok in la kei hong that in. Tua hi kei leh mite in, ‘Numei khat in amah that hi,’ hong ci khading uh hi,” a ci hi. A tangvalpa in amah sunletin amah a si ta hi.
+**ZVS:** Tua ciangin amah in ama hiam a tawisak tangvalpa nawh sapin ama kiangah, “Na namsau dok in la kei hong that in. Tua hi kei leh mite in, ‘Numei khat in amah that hi,’ hong ci khading-te hi,” a ci hi. A tangvalpa in amah sunletin amah a si ta hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v55
 **EN:** And when the men of Israel saw that Abimelech was dead, they departed every man unto his place.
 
-**TDB77:** Israel mite in Abimelek a sihna a muh uh ciangin amau’ inn ciatah ciah uh hi.
+**TDB77:** Israel mite in Abimelek a sihna a muh-te ciangin amau’ inn ciatah ciah-te hi.
 
-**ZVS:** Israel mite in Abimelek a sihna a muh uh ciangin amau' inn ciatah a ciah uh hi.
+**ZVS:** Israel mite in Abimelek a sihna a muh-te ciangin amau' inn ciatah a ciah-te hi.
 
 **Grammar:** plural: uh marker
 

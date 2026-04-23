@@ -87,9 +87,9 @@
 ### v8
 **EN:** And I will make the land desolate, because they have committed a trespass, saith the Lord
 
-**TDB77:** Kei tungah amaute hong citak lo uh ahih manin gam sung teng khempeuh gamkhing ka suaksak ding hi, Topa Pasian in ci hi,” hong ci hi.
+**TDB77:** Kei tungah amaute hong citak lo-te ahih manin gam sung teng khempeuh gamkhing ka suaksak ding hi, Topa Pasian in ci hi,” hong ci hi.
 
-**ZVS:** Kei' tungah amaute hong citaklo uh ahih manin gamsung khempeuh gamkhing ka suaksak ding hi, Topa { Pasian } in ci hi,” a hong ci hi.
+**ZVS:** Kei' tungah amaute hong citaklo-te ahih manin gamsung khempeuh gamkhing ka suaksak ding hi, Topa { Pasian } in ci hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because
 

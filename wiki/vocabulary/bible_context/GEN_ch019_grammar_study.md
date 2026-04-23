@@ -27,7 +27,7 @@
 ### v1
 **EN:** And there came two angels to Sodom at even; and Lot sat in the gate of Sodom: and Lot seeing them rose up to meet them; and he bowed himself with his face toward the ground;
 
-**TDB77:** Vantungmi nihte Sodom-ah nitakin hong tung uh hi; Sodom khua kulh kongpi-ah Lot na tu hi. Lot in amaute a muh ciangin, amaute dawn dingin ding a, lei lakah a mai ngatin kunin,
+**TDB77:** Vantungmi nihte Sodom-ah nitakin hong tung-te hi; Sodom khua kulh kongpi-ah Lot na tu hi. Lot in amaute a muh ciangin, amaute dawn dingin ding a, lei lakah a mai ngatin kunin,
 
 **ZVS:** Vantung mi nihte Sodom-ah nitakin hong tung a, Sodom khua kulhkongpi-ah Lot na tu hi. Lot in amaute a muh ciangin, amaute a dawn dingin ding a, leilakah a mai ngatin kun a,
 
@@ -36,36 +36,36 @@
 ### v2
 **EN:** And he said, Behold now, my lords, turn in, I pray you, into your servant's house, and tarry all night, and wash your feet, and ye shall rise up early, and go on your ways. And they said, Nay; but we will abide in the street all night.
 
-**TDB77:** “Ka tote aw, kong thum hi, na nasempa’ inn lamah hong kihei un la, hong giak un, na khete uh sil un; tua ciangin zingsangin tho baihin na pai nading lam uhah pai pan un,” ci hi. Amaute in, “Hi lo hi; khua sung tualpi-ah ka giak ding uh hi,” ci hi.
+**TDB77:** “Ka tote aw, kong thum hi, na nasempa’ inn lamah hong kihei un la, hong giak un, na khete-te sil un; tua ciangin zingsangin tho baihin na pai nading lam uhah pai pan un,” ci hi. Amaute in, “Hi lo hi; khua sung tualpi-ah ka giak ding-te hi,” ci hi.
 
-**ZVS:** “Ka tote aw, kong thum hi. Na nasempa' inn lamah hong kihei-in hong giak un la, na khete uh sil un. Tua ciangin zingsangin tho baihin na paina ding lam uhah pai pan un,” a ci hi. Amaute in, “Hilo hi; khua lakah ka giak ding uh hi,” a ci uh hi.
+**ZVS:** “Ka tote aw, kong thum hi. Na nasempa' inn lamah hong kihei-in hong giak un la, na khete-te sil un. Tua ciangin zingsangin tho baihin na paina ding lam uhah pai pan un,” a ci hi. Amaute in, “Hilo hi; khua lakah ka giak ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And he pressed upon them greatly; and they turned in unto him, and entered into his house; and he made them a feast, and did bake unleavened bread, and they did eat.
 
-**TDB77:** Ahih hangin amah in amaute nakpi takin kun hi; tua ahihciangin amaute ama' lamah kihei a, ama' innah lut uh hi; amah in amaute adingin an bawl a, silngo sawh loh anlum em hi, amaute in ne uh hi.
+**TDB77:** Ahih hangin amah in amaute nakpi takin kun hi; tua ahihciangin amaute ama' lamah kihei a, ama' innah lut-te hi; amah in amaute adingin an bawl a, silngo sawh loh anlum em hi, amaute in ne-te hi.
 
-**ZVS:** Ahih hangin amah in amaute nakpi takin kun ahih manin ama lamah kihei uh a, ama inn-ah a lut uh hi. Amah in amaute-a' dingin an bawl a, silngo sawhloh anlum emsak a, amaute in a ne uh hi.
+**ZVS:** Ahih hangin amah in amaute nakpi takin kun ahih manin ama lamah kihei-te a, ama inn-ah a lut-te hi. Amah in amaute-a' dingin an bawl a, silngo sawhloh anlum emsak a, amaute in a ne-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** But before they lay down, the men of the city, even the men of Sodom, compassed the house round, both old and young, all the people from every quarter:
 
-**TDB77:** Ahih hangin amaute’ lup ma-in khua sung mi, Sodom khuamite, a moi a ham-in mi khempeuh in a inn umcih uh hi;
+**TDB77:** Ahih hangin amaute’ lup ma-in khua sung mi, Sodom khuamite, a moi a ham-in mi khempeuh in a inn umcih-te hi;
 
-**ZVS:** Ahih hangin amaute' lup ma-in Sodom khua mite, a moi a hamin mi khempeuh in a inn umcih uh hi.
+**ZVS:** Ahih hangin amaute' lup ma-in Sodom khua mite, a moi a hamin mi khempeuh in a inn umcih-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v5
 **EN:** And they called unto Lot, and said unto him, Where are the men which came in to thee this night? bring them out unto us, that we may know them.
 
-**TDB77:** amaute in Lot sam a, “Tu nitak-a nang’ kianga hong tung mite koi-ah om ahi hiam? Amau’ taw ka luk theih nadingun ko kiangah amaute hong paikhiatpih in,” ci uh hi.
+**TDB77:** amaute in Lot sam a, “Tu nitak-a nang’ kianga hong tung mite koi-ah om ahi hiam? Amau’ taw ka luk theih nadingun ko kiangah amaute hong paikhiatpih in,” ci-te hi.
 
-**ZVS:** Amaute in Lot sam uh a, “Tu nitaka nang kiangah hong tung mite koi-ah om ahi hiam? Amau' taw ka luk theihna dingun ko kiangah amaute hong paikhiatpih in,” a ci uh hi.
+**ZVS:** Amaute in Lot sam-te a, “Tu nitaka nang kiangah hong tung mite koi-ah om ahi hiam? Amau' taw ka luk theihna dingun ko kiangah amaute hong paikhiatpih in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -81,43 +81,43 @@
 ### v7
 **EN:** And said, I pray you, brethren, do not so wickedly.
 
-**TDB77:** “Ka sanggamte aw, tua banga na gitloh gamtat loh nading uh kong thum hi.
+**TDB77:** “Ka sanggamte aw, tua banga na gitloh gamtat loh nading-te kong thum hi.
 
-**ZVS:** “Ka sanggamte aw, tua banga na gitloh gamtat lohna ding uh kong thum hi.
+**ZVS:** “Ka sanggamte aw, tua banga na gitloh gamtat lohna ding-te kong thum hi.
 
 ### v8
 **EN:** Behold now, I have two daughters which have not known man; let me, I pray you, bring them out unto you, and do ye to them as is good in your eyes: only unto these men do nothing; for therefore came they under the shadow of my roof.
 
-**TDB77:** En un, ta nungak nih ka nei hi; no' kiangah amaute hong paikhiat pihsak un la, na ut bangun amaute' tungah bawl un; hih mite' tungah bangmah bawl kei bek un, bang hang hiam cih leh amaute keima' inn sung hong tung khin uh hi,” ci hi.
+**TDB77:** En un, ta nungak nih ka nei hi; no' kiangah amaute hong paikhiat pihsak un la, na ut bangun amaute' tungah bawl un; hih mite' tungah bangmah bawl kei bek un, bang hang hiam cih leh amaute keima' inn sung hong tung khin-te hi,” ci hi.
 
-**ZVS:** En un, ta nungak nih ka nei hi. No kiangah amaute hong paikhiatpihsak un la, na ut bangun amaute tungah gamta un. Hih mite' tungah bangmah gamta kei bek un. Bang hang hiam cih leh amaute, keima innsung hong tungkhin uh ahih manin ka hut ding kisam hi,” a ci hi.
+**ZVS:** En un, ta nungak nih ka nei hi. No kiangah amaute hong paikhiatpihsak un la, na ut bangun amaute tungah gamta un. Hih mite' tungah bangmah gamta kei bek un. Bang hang hiam cih leh amaute, keima innsung hong tungkhin-te ahih manin ka hut ding kisam hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And they said, Stand back. And they said again, This one fellow came in to sojourn, and he will needs be a judge: now will we deal worse with thee, than with them. And they pressed sore upon the man, even Lot, and came near to break the door.
 
-**TDB77:** Ahih hangin amaute in, “Taikhia in!” ci uh hi. Amaute in, “Kote’ kiangah hong peem pak a, tu-in nang thukhen hong kineih! Tu-in amaute' sangin nang kong siatbawl zaw ding uh hi,” ci hi. Tua ciangin amaute in nakpi takin Lot’ lam hong neh uh a, kongkhak a phukham zah dongin hong neh uh hi.
+**TDB77:** Ahih hangin amaute in, “Taikhia in!” ci-te hi. Amaute in, “Kote’ kiangah hong peem pak a, tu-in nang thukhen hong kineih! Tu-in amaute' sangin nang kong siatbawl zaw ding-te hi,” ci hi. Tua ciangin amaute in nakpi takin Lot’ lam hong neh-te a, kongkhak a phukham zah dongin hong neh-te hi.
 
-**ZVS:** Ahih hangin amaute in, “Taikhia in. Kote kiangah hong peem pak a, tu-in nang thukhen hong kineih ding na hi hiam? Tu-in amaute sangin nang kong siatbawl zaw ding uh hi,” a ci uh hi. Tua ciangin amaute in nakpi takin Lot' lam hong neh uh a, kongkhak a phukham zah dongin hong neh uh hi.
+**ZVS:** Ahih hangin amaute in, “Taikhia in. Kote kiangah hong peem pak a, tu-in nang thukhen hong kineih ding na hi hiam? Tu-in amaute sangin nang kong siatbawl zaw ding-te hi,” a ci-te hi. Tua ciangin amaute in nakpi takin Lot' lam hong neh-te a, kongkhak a phukham zah dongin hong neh-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** But the men put forth their hand, and pulled Lot into the house to them, and shut to the door.
 
-**TDB77:** Ahih hangin mi nihte in amau’ khut hong zan-in inn sung amau' kiangah Lot paipih uh a, kong khak uh hi.
+**TDB77:** Ahih hangin mi nihte in amau’ khut hong zan-in inn sung amau' kiangah Lot paipih-te a, kong khak-te hi.
 
-**ZVS:** Ahih hangin mi nihte in amau' khut hong zanin innsung amau' kiangah Lot paipihin kong khak uh hi.
+**ZVS:** Ahih hangin mi nihte in amau' khut hong zanin innsung amau' kiangah Lot paipihin kong khak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And they smote the men that were at the door of the house with blindness, both small and great: so that they wearied themselves to find the door.
 
-**TDB77:** Inn kongkhak-a om mi a neu a liante amaute in a mit uh tawsak a, tua ahih ciangin kongkhak a zawt zawt hangun mu zo lo uh hi.
+**TDB77:** Inn kongkhak-a om mi a neu a liante amaute in a mit-te tawsak a, tua ahih ciangin kongkhak a zawt zawt hangun mu zo lo-te hi.
 
-**ZVS:** Inn kongkhakah a om mi a lian a neute, amaute in a mit uh tawsak uh hi. Tua ahih ciangin kongkhak a zawtzawt hangun mu zolo uh hi.
+**ZVS:** Inn kongkhakah a om mi a lian a neute, amaute in a mit-te tawsak-te hi. Tua ahih ciangin kongkhak a zawtzawt hangun mu zolo-te hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
@@ -133,9 +133,9 @@
 ### v13
 **EN:** For we will destroy this place, because the cry of them is waxen great before the face of the
 
-**TDB77:** bang hang hiam cih leh hih mite a kimawhsakna thu lianpi Topa’ tungah tung khin a, a susia dingin Topa in kote hong sawl khin ahih ciangin hih mun a susia ta ding ka hi uh hi,” ci uh hi.
+**TDB77:** bang hang hiam cih leh hih mite a kimawhsakna thu lianpi Topa’ tungah tung khin a, a susia dingin Topa in kote hong sawl khin ahih ciangin hih mun a susia ta ding ka hi-te hi,” ci-te hi.
 
-**ZVS:** Bang hang hiam cih leh hih mite a kimawhsakna thu { Topa' } tungah tung khin a, a susia dingin { Topa } in hong sawl khin ahih ciangin hih khua a susia ta ding ka hi uh hi,” a ci uh hi.
+**ZVS:** Bang hang hiam cih leh hih mite a kimawhsakna thu { Topa' } tungah tung khin a, a susia dingin { Topa } in hong sawl khin ahih ciangin hih khua a susia ta ding ka hi-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -151,27 +151,27 @@
 ### v15
 **EN:** And when the morning arose, then the angels hastened Lot, saying, Arise, take thy wife, and thy two daughters, which are here; lest thou be consumed in the iniquity of the city.
 
-**TDB77:** Zingsang khua vak ciangin vantungmite in, “Khuapi dan piakna sungah kangtum kha ding na hih uh ciangin tho in la, hih lai-a om na zi leh na tanute la in,” ci-in Lot sawl hamtang uh hi.
+**TDB77:** Zingsang khua vak ciangin vantungmite in, “Khuapi dan piakna sungah kangtum kha ding na hih-te ciangin tho in la, hih lai-a om na zi leh na tanute la in,” ci-in Lot sawl hamtang-te hi.
 
-**ZVS:** Zingsang khuavak ciangin vantung mite in, “Khuapi gimpiakna sungah kangtum khading na hih uh ciangin kinawh in la, hih lai-a om na zi leh na tanute la in,” ci-in Lot sawl hamtang uh hi.
+**ZVS:** Zingsang khuavak ciangin vantung mite in, “Khuapi gimpiakna sungah kangtum khading na hih-te ciangin kinawh in la, hih lai-a om na zi leh na tanute la in,” ci-in Lot sawl hamtang-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
 ### v16
 **EN:** And while he lingered, the men laid hold upon his hand, and upon the hand of his wife, and upon the hand of his two daughters; the
 
-**TDB77:** Ahih hangin amah lungka-in om lai veve hi; tua ahih ciangin, Topa in ama' tungah hehpihna nei ahih manin, mite in amah leh a zi leh a tanu nihte a khut uh tawh manin, amaute in amah paikhiatpih-in khua pua lamah koih uh hi.
+**TDB77:** Ahih hangin amah lungka-in om lai veve hi; tua ahih ciangin, Topa in ama' tungah hehpihna nei ahih manin, mite in amah leh a zi leh a tanu nihte a khut-te tawh manin, amaute in amah paikhiatpih-in khua pua lamah koih-te hi.
 
-**ZVS:** Ahih hangin amah lungka-in omlai veve hi. Ahi zongin { Topa } in ama tungah hehpihna nei ahih manin, mite in amah leh a zi leh a tanu nihte a khut uh tawh manin, amaute in amah paikhiatpihin khua pualamah koih uh hi.
+**ZVS:** Ahih hangin amah lungka-in omlai veve hi. Ahi zongin { Topa } in ama tungah hehpihna nei ahih manin, mite in amah leh a zi leh a tanu nihte a khut-te tawh manin, amaute in amah paikhiatpihin khua pualamah koih-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | causal: because | plural: uh marker
 
 ### v17
 **EN:** And it came to pass, when they had brought them forth abroad, that he said, Escape for thy life; look not behind thee, neither stay thou in all the plain; escape to the mountain, lest thou be consumed.
 
-**TDB77:** Amaute in a paikhiatpih khit uh ciangin, “Na nuntak nadingin tai un; nunghei kei un la, kuam sungah zong khawl kei un; note hong kangtum kha ding ahih manin mual tungah tai to un,” ci uh hi.
+**TDB77:** Amaute in a paikhiatpih khit-te ciangin, “Na nuntak nadingin tai un; nunghei kei un la, kuam sungah zong khawl kei un; note hong kangtum kha ding ahih manin mual tungah tai to un,” ci-te hi.
 
-**ZVS:** Amaute in a paikhiatpih khit uh ciangin, “Na nuntakna dingun tai un. Nunghei kei un la, kuam sungah zong khawl kei un. Note hong kangtum khading ahih manin mualtungah taito un,” a ci uh hi.
+**ZVS:** Amaute in a paikhiatpih khit-te ciangin, “Na nuntakna dingun tai un. Nunghei kei un la, kuam sungah zong khawl kei un. Note hong kangtum khading ahih manin mualtungah taito un,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | causal: because | plural: uh marker
 
@@ -187,9 +187,9 @@
 ### v19
 **EN:** Behold now, thy servant hath found grace in thy sight, and thou hast magnified thy mercy, which thou hast shewed unto me in saving my life; and I cannot escape to the mountain, lest some evil take me, and I die:
 
-**TDB77:** en un, note’ muhna-ah na nasempa in maipha mu zo a, ka nuntakna nong hutna uhah migitna lianpi kei' tungah nong lak khin uh hi; ahih hangin mualtung gamla ahih manin ka tun’ ma-in siatna in kei hong pha-in ka si ding hi.
+**TDB77:** en un, note’ muhna-ah na nasempa in maipha mu zo a, ka nuntakna nong hutna uhah migitna lianpi kei' tungah nong lak khin-te hi; ahih hangin mualtung gamla ahih manin ka tun’ ma-in siatna in kei hong pha-in ka si ding hi.
 
-**ZVS:** en un, note' muhna-ah na nasempa in maipha muzo a, ka nuntakna nong hutna uhah migitna lianpi kei tungah nong lak khin uh hi. Ahih hangin mualtung gamla ahih manin ka tun' ma-in siatna in kei hong pha-in ka si ding hi.
+**ZVS:** en un, note' muhna-ah na nasempa in maipha muzo a, ka nuntakna nong hutna uhah migitna lianpi kei tungah nong lak khin-te hi. Ahih hangin mualtung gamla ahih manin ka tun' ma-in siatna in kei hong pha-in ka si ding hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | future: will | causal: because | plural: uh marker
 
@@ -278,9 +278,9 @@
 ### v30
 **EN:** And Lot went up out of Zoar, and dwelt in the mountain, and his two daughters with him; for he feared to dwell in Zoar: and he dwelt in a cave, he and his two daughters.
 
-**TDB77:** Tu-in Zoar panin Lot paikhia to-in a tanu nihte tawh mual tungah teng hi, bang hang hiam cih leh Zoar-ah a ten’ ding lau hi; tua ahih ciangin a tanu nihte tawh suanghawm sung khatah teng uh hi.
+**TDB77:** Tu-in Zoar panin Lot paikhia to-in a tanu nihte tawh mual tungah teng hi, bang hang hiam cih leh Zoar-ah a ten’ ding lau hi; tua ahih ciangin a tanu nihte tawh suanghawm sung khatah teng-te hi.
 
-**ZVS:** Tu-in Zoar panin Lot paikhia to-in a tanu nihte tawh mualtungah a teng hi. Bang hang hiam cih leh Zoar-ah a ten' ding lau hi. Tua ahih ciangin a tanu nihte tawh suanghawm sung khatah a teng uh hi.
+**ZVS:** Tu-in Zoar panin Lot paikhia to-in a tanu nihte tawh mualtungah a teng hi. Bang hang hiam cih leh Zoar-ah a ten' ding lau hi. Tua ahih ciangin a tanu nihte tawh suanghawm sung khatah a teng-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -305,9 +305,9 @@
 ### v33
 **EN:** And they made their father drink wine that night: and the firstborn went in, and lay with her father; and he perceived not when she lay down, nor when she arose.
 
-**TDB77:** Tua ahih ciangin amaute in tua nitakin a pa uh leenggahzu khamsak uh hi; a u nu pai-in a pa tawh lum hi; a tanu a lup lam hita leh a thawh lam hita leh amah in thei lo hi.
+**TDB77:** Tua ahih ciangin amaute in tua nitakin a pa-te leenggahzu khamsak-te hi; a u nu pai-in a pa tawh lum hi; a tanu a lup lam hita leh a thawh lam hita leh amah in thei lo hi.
 
-**ZVS:** Tua ahih ciangin amaute in tua nitakin a pa uh leenggahzu khamsak uh hi. A unu pai-in a pa tawh lum hi. A tanu a luplam hita leh a thawhlam hita leh amah in phawklo hi.
+**ZVS:** Tua ahih ciangin amaute in tua nitakin a pa-te leenggahzu khamsak-te hi. A unu pai-in a pa tawh lum hi. A tanu a luplam hita leh a thawhlam hita leh amah in phawklo hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -323,18 +323,18 @@
 ### v35
 **EN:** And they made their father drink wine that night also: and the younger arose, and lay with him; and he perceived not when she lay down, nor when she arose.
 
-**TDB77:** Tua ahih ciangin amaute in tua nitakin zong a pa uh leenggahzu khamsak uh hi; a nau pai-in amah tawh lum hi; a tanu a lup lam hita leh a thawh lam hita leh amah in thei lo hi.
+**TDB77:** Tua ahih ciangin amaute in tua nitakin zong a pa-te leenggahzu khamsak-te hi; a nau pai-in amah tawh lum hi; a tanu a lup lam hita leh a thawh lam hita leh amah in thei lo hi.
 
-**ZVS:** Tua ahih ciangin amaute in tua nitakin zong a pa uh leenggahzu khamsak uh hi. A nau pai-in amah tawh lum hi. A tanu a luplam hita leh a thawhlam hita leh amah in phawklo hi.
+**ZVS:** Tua ahih ciangin amaute in tua nitakin zong a pa-te leenggahzu khamsak-te hi. A nau pai-in amah tawh lum hi. A tanu a luplam hita leh a thawhlam hita leh amah in phawklo hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v36
 **EN:** Thus were both the daughters of Lot with child by their father.
 
-**TDB77:** Tua ahih ciangin Lot’ tanute gel in a pa uh tawh ta nei uh hi.
+**TDB77:** Tua ahih ciangin Lot’ tanute gel in a pa-te tawh ta nei-te hi.
 
-**ZVS:** Tua ahih ciangin Lot' tanute gel in a pa uh tawh naupaii uh hi.
+**ZVS:** Tua ahih ciangin Lot' tanute gel in a pa-te tawh naupaii-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 

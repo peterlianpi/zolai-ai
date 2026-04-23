@@ -43,18 +43,18 @@
 ### v3
 **EN:** And, behold, there appeared unto them Moses and Elias talking with him.
 
-**TDB77:** Amau kiangah Moses leh Elijah kilang a, Zeisu tawh a kiho uh hi.
+**TDB77:** Amau kiangah Moses leh Elijah kilang a, Zeisu tawh a kiho-te hi.
 
-**ZVS:** Tua lai-ah Moses leh Elijah hong omvat uh a, Jesuh tawh a kiho a mu uh hi.
+**ZVS:** Tua lai-ah Moses leh Elijah hong omvat-te a, Jesuh tawh a kiho a mu-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** Then answered Peter, and said unto Jesus, Lord, it is good for us to be here: if thou wilt, let us make here three tabernacles; one for thee, and one for Moses, and one for Elias.
 
-**TDB77:** Tua lai takin Piter in, “Topa aw, hih lai takah kote kong om uh a hoih hi. Nang ading buk khat, Moses ading buk khat, Elijah ading buk khat, buk thum ka hong lam ding na ut hiam?” ci-in a dong hi.
+**TDB77:** Tua lai takin Piter in, “Topa aw, hih lai takah kote kong om-te a hoih hi. Nang ading buk khat, Moses ading buk khat, Elijah ading buk khat, buk thum ka hong lam ding na ut hiam?” ci-in a dong hi.
 
-**ZVS:** Tua ciangin Peter in Jesuh kiangah, “Topa aw, hih lai-ah i om, nuam mahmah hi. Hoih na sak leh, nang-a' ding buk khat, Moses-a' ding buk khat, Elijah-a' ding buk khat, buk thum ka hong lamsak ding uh hi,” a ci hi.
+**ZVS:** Tua ciangin Peter in Jesuh kiangah, “Topa aw, hih lai-ah i om, nuam mahmah hi. Hoih na sak leh, nang-a' ding buk khat, Moses-a' ding buk khat, Elijah-a' ding buk khat, buk thum ka hong lamsak ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | adjective: hoih (good) | serial verb: -in (and then) | plural: uh marker
 
@@ -70,9 +70,9 @@
 ### v6
 **EN:** And when the disciples heard it, they fell on their face, and were sore afraid.
 
-**TDB77:** A nungzuite in tua thu a zak uh ciangin lau mahmahin a bok uh hi.
+**TDB77:** A nungzuite in tua thu a zak-te ciangin lau mahmahin a bok-te hi.
 
-**ZVS:** Nungzuite in hih awging a zak uh ciangin leilakah boksuk uh a, lamdang a sa mahmah uh hi.
+**ZVS:** Nungzuite in hih awging a zak-te ciangin leilakah boksuk-te a, lamdang a sa mahmah-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -86,9 +86,9 @@
 ### v8
 **EN:** And when they had lifted up their eyes, they saw no man, save Jesus only.
 
-**TDB77:** amaute a khuadak uh leh, Zeisu longal kuamah dang a mu kei uh hi.
+**TDB77:** amaute a khuadak-te leh, Zeisu longal kuamah dang a mu kei-te hi.
 
-**ZVS:** Amaute a khuadak uh ciangin Jesuh simloh kuamah dang a mu nawn kei uh hi.
+**ZVS:** Amaute a khuadak-te ciangin Jesuh simloh kuamah dang a mu nawn kei-te hi.
 
 **Grammar:** negation: kei | plural: uh marker
 
@@ -97,16 +97,16 @@
 
 **TDB77:** Amaute mualtung pan a kumsuk lai takun Zeisu in, “Mihing Tapa in sihna pan a thawhkik matengin, tua mangmuhna thu kuamah kiangah na gen kei un,” ci-in a nungzuite a kham hi.
 
-**ZVS:** Mualtung panin amaute a ciahsuk laitakun Jesuh in nungzuite kiangah, “Sihna panin Mihing Tapa a kithawhsak kik matengin hih na muhte uh kuama kiangah gen kei un,” ci-in thu a pia hi.
+**ZVS:** Mualtung panin amaute a ciahsuk laitakun Jesuh in nungzuite kiangah, “Sihna panin Mihing Tapa a kithawhsak kik matengin hih na muhte-te kuama kiangah gen kei un,” ci-in thu a pia hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v10
 **EN:** And his disciples asked him, saying, Why then say the scribes that Elias must first come?
 
-**TDB77:** A nungzuite in, “Elijah hong pai masa ding hi,’ ci-in laitheite in bang hangin a gen uh hiam?” ci-in a dot uh leh
+**TDB77:** A nungzuite in, “Elijah hong pai masa ding hi,’ ci-in laitheite in bang hangin a gen-te hiam?” ci-in a dot-te leh
 
-**ZVS:** Tua ciangin nungzuite in Jesuh kiangah, “Bang hangin Thukham hilh siate in, Elijah hong pai masa ding hi, ci uh ahi hiam?” ci-in a dong uh hi.
+**ZVS:** Tua ciangin nungzuite in Jesuh kiangah, “Bang hangin Thukham hilh siate in, Elijah hong pai masa ding hi, ci-te ahi hiam?” ci-in a dong-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 
@@ -122,9 +122,9 @@
 ### v13
 **EN:** Then the disciples understood that he spake unto them of John the Baptist.
 
-**TDB77:** Baptaizpa Johan a cihna ahih lam a nungzuite in a thei uh hi.
+**TDB77:** Baptaizpa Johan a cihna ahih lam a nungzuite in a thei-te hi.
 
-**ZVS:** Tua ciangin Tuiphumpa Johan' thu a gen ahih lamtak nungzuite in a thei uh hi.
+**ZVS:** Tua ciangin Tuiphumpa Johan' thu a gen ahih lamtak nungzuite in a thei-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -133,7 +133,7 @@
 
 **TDB77:** Mihonpi omna-ah a tun’ uh ciangin mi khat in, Zeisu kiangah va nai-in khukdin’ a,
 
-**ZVS:** Mihonte omna a tun'kik uh ciangin Jesuh kiangah mi khat hong pai-in ama mai-ah hong khukdin' a,
+**ZVS:** Mihonte omna a tun'kik-te ciangin Jesuh kiangah mi khat hong pai-in ama mai-ah hong khukdin' a,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -149,9 +149,9 @@
 ### v16
 **EN:** And I brought him to thy disciples, and they could not cure him.
 
-**TDB77:** Na nungzuite kiangah ka paipih hangin, amau in a damsak zo kei uh hi,” ci-in a ko hi.
+**TDB77:** Na nungzuite kiangah ka paipih hangin, amau in a damsak zo kei-te hi,” ci-in a ko hi.
 
-**ZVS:** Na nungzuite kiangah ka paipih hangin amaute in damsak theilo uh hi,” a ci hi.
+**ZVS:** Na nungzuite kiangah ka paipih hangin amaute in damsak theilo-te hi,” a ci hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -174,18 +174,18 @@
 ### v19
 **EN:** Then came the disciples to Jesus apart, and said, Why could not we cast him out?
 
-**TDB77:** Tua ciangin a nungzuite in gamdaihna mun, Zeisu kiangah va nai uh a, “Kote in tua dawi bang hangin hawlkhia zo lo ka hi uh hiam?” ci-in a dot uh leh,
+**TDB77:** Tua ciangin a nungzuite in gamdaihna mun, Zeisu kiangah va nai-te a, “Kote in tua dawi bang hangin hawlkhia zo lo ka hi-te hiam?” ci-in a dot-te leh,
 
-**ZVS:** Tua ciangin amau guak a om laitakun nungzuite in Jesuh kiangah, “Bang hangin kote in tua dawi hawlkhia theilo ka hi uh hiam?” ci-in a dot uh ciangin
+**ZVS:** Tua ciangin amau guak a om laitakun nungzuite in Jesuh kiangah, “Bang hangin kote in tua dawi hawlkhia theilo ka hi-te hiam?” ci-in a dot-te ciangin
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And Jesus said unto them,
 
-**TDB77:** Zeisu in, “Na upna uh a neu hang hi. Ke’n aman takpi kong cih-inah, note in ankamtang khat cia bang upna nei le-uh teh hih mual kiangah, “Kinkhia in,’ na cih uh leh, kikhin ding hi.
+**TDB77:** Zeisu in, “Na upna-te a neu hang hi. Ke’n aman takpi kong cih-inah, note in ankamtang khat cia bang upna nei le-uh teh hih mual kiangah, “Kinkhia in,’ na cih-te leh, kikhin ding hi.
 
-**ZVS:** Jesuh in, “Na upna uh a cingtaak lohna hang ahi hi. Ahi taktakin note kiangah kong genin-ah: Ankam tang cia bang upna na neih nak uh leh, hih mual kiangah, ‘Hih lai panin hua lai-ah kin in,’ ci le uh cin kinkhia ding hi. Na hih theihloh uh khat zong omlo ding hi.
+**ZVS:** Jesuh in, “Na upna-te a cingtaak lohna hang ahi hi. Ahi taktakin note kiangah kong genin-ah: Ankam tang cia bang upna na neih nak-te leh, hih mual kiangah, ‘Hih lai panin hua lai-ah kin in,’ ci le-te cin kinkhia ding hi. Na hih theihloh-te khat zong omlo ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -201,27 +201,27 @@
 ### v24
 **EN:** And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute?
 
-**TDB77:** Kapernaum khua-ah a tun’ ciangin, biakna innpi siahdongte Piter kiangah pai uh a, “Na Siapa in biakna innpi siah hamu liau lo ahi hiam?” ci-in a dot ciangin,
+**TDB77:** Kapernaum khua-ah a tun’ ciangin, biakna innpi siahdongte Piter kiangah pai-te a, “Na Siapa in biakna innpi siah hamu liau lo ahi hiam?” ci-in a dot ciangin,
 
-**ZVS:** Kapernaum khua-ah a tun' uh ciangin biakinn siahdongte in Peter kiangah, “Na siapa in biakinn siah hamu a piak ngei mah ahi hiam?” ci-in a dot uh ciangin,
+**ZVS:** Kapernaum khua-ah a tun' uh ciangin biakinn siahdongte in Peter kiangah, “Na siapa in biakinn siah hamu a piak ngei mah ahi hiam?” ci-in a dot-te ciangin,
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** He saith, Yes. And when he was come into the house, Jesus prevented him, saying,
 
-**TDB77:** Piter in “A liau hi,” a ci hi. Piter inn sungah a tum ciangin Zeisu in, “Simon aw, nang bangci ngaihsut na hi hiam? Leitung kumpite in kua kiangah phiangsiah a dong uh hiam? Amau tate tungah a dong uh hiam? Midangte tungah a dong uh hiam? ci-in a dot leh,
+**TDB77:** Piter in “A liau hi,” a ci hi. Piter inn sungah a tum ciangin Zeisu in, “Simon aw, nang bangci ngaihsut na hi hiam? Leitung kumpite in kua kiangah phiangsiah a dong-te hiam? Amau tate tungah a dong-te hiam? Midangte tungah a dong-te hiam? ci-in a dot leh,
 
-**ZVS:** “A piak ngei mah ahi hi,” ci-in a dawng hi. Innsungah Peter a lut ciangin Jesuh in na paupih masa zaw a, “Simon aw, nang na bangci ngaihsut hiam? Leitung kumpite in kuate tung panin siah kai ahi uh hiam? Amau tate tung panin siah kai ahi uh hiam, tua ahih kei leh midangte tung panin kai ahi uh hiam?” ci-in a dot ciangin
+**ZVS:** “A piak ngei mah ahi hi,” ci-in a dawng hi. Innsungah Peter a lut ciangin Jesuh in na paupih masa zaw a, “Simon aw, nang na bangci ngaihsut hiam? Leitung kumpite in kuate tung panin siah kai ahi-te hiam? Amau tate tung panin siah kai ahi-te hiam, tua ahih kei leh midangte tung panin kai ahi-te hiam?” ci-in a dot ciangin
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v26
 **EN:** Peter saith unto him, Of strangers. Jesus saith unto him,
 
-**TDB77:** Piter in, “Midangte tungah dong ahi uh hi,” a ci hi. Zeisu in, “Tua bang ahih leh, a tate a peng uh hi.
+**TDB77:** Piter in, “Midangte tungah dong ahi-te hi,” a ci hi. Zeisu in, “Tua bang ahih leh, a tate a peng-te hi.
 
-**ZVS:** Peter in, “Midangte tung panin siah a kai uh hi,” ci-in a dawng hi. Tua ciangin Jesuh in, “Tua ahih leh siah piak ding panin a tate a peng ahi hi.
+**ZVS:** Peter in, “Midangte tung panin siah a kai-te hi,” ci-in a dawng hi. Tua ciangin Jesuh in, “Tua ahih leh siah piak ding panin a tate a peng ahi hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 

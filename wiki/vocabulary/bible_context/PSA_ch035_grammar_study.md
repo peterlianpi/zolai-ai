@@ -62,25 +62,25 @@
 ### v6
 **EN:** Let their way be dark and slippery: and let the angel of the
 
-**TDB77:** Topa’ vantungmi’ delhna-ah a taina lampi uh mial-in nal sak in.
+**TDB77:** Topa’ vantungmi’ delhna-ah a taina lampi-te mial-in nal sak in.
 
-**ZVS:** { Topa' } vantung mi' delhna-ah a taina lampi uh mialin nalsak in.
+**ZVS:** { Topa' } vantung mi' delhna-ah a taina lampi-te mialin nalsak in.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v7
 **EN:** For without cause have they hid for me their net in a pit, which without cause they have digged for my soul.
 
-**TDB77:** Bang hang hiam cih leh amaute in thu om lopi-in a ngenthang uh tawh kei hong siah uh a, thu om lopi-in gum to-in kei hong siah uh hi.
+**TDB77:** Bang hang hiam cih leh amaute in thu om lopi-in a ngenthang-te tawh kei hong siah-te a, thu om lopi-in gum to-in kei hong siah-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in thu omlopi-in a ngenthang uh tawh kei hong siah uh a, thu omlopi-in gum to-in kei hong siah uh hi.
+**ZVS:** Bang hang hiam cih leh amaute in thu omlopi-in a ngenthang-te tawh kei hong siah-te a, thu omlopi-in gum to-in kei hong siah-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v8
 **EN:** Let destruction come upon him at unawares; and let his net that he hath hid catch himself: into that very destruction let him fall.
 
-**TDB77:** A phawk loh kalun amau tungah siatna tung sak in! Amau ngenthang siahsimna uh ah amaute mah awksak in la, a kisia dingin amaute kiasak in.
+**TDB77:** A phawk loh kalun amau tungah siatna tung sak in! Amau ngenthang siahsimna-te ah amaute mah awksak in la, a kisia dingin amaute kiasak in.
 
 **ZVS:** A phawkloh kalun amaute' tungah siatna tungsak in! Amau' ngenthang mahah amaute mah awksak in la, a kisiamang khin dingin amaute puksak in.
 
@@ -107,27 +107,27 @@
 ### v11
 **EN:** False witnesses did rise up; they laid to my charge things that I knew not.
 
-**TDB77:** Mi a el tecite hong kipan uh a, ka theih loh thute kei hong dong uh hi.
+**TDB77:** Mi a el tecite hong kipan-te a, ka theih loh thute kei hong dong-te hi.
 
-**ZVS:** Mi a el tecite hong kipan uh a, ka theihloh thute kei hong dong uh hi.
+**ZVS:** Mi a el tecite hong kipan-te a, ka theihloh thute kei hong dong-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** They rewarded me evil for good to the spoiling of my soul.
 
-**TDB77:** Amaute in hoihnate siatna tawh kei tungah hong thuk uh a, ka khawngai mahmah hi.
+**TDB77:** Amaute in hoihnate siatna tawh kei tungah hong thuk-te a, ka khawngai mahmah hi.
 
-**ZVS:** Amaute in ka hoihnate siatna tawh hong thuk uh a, ka khawngai mahmah hi.
+**ZVS:** Amaute in ka hoihnate siatna tawh hong thuk-te a, ka khawngai mahmah hi.
 
 **Grammar:** intensifier: very/greatly | plural: uh marker
 
 ### v13
 **EN:** But as for me, when they were sick, my clothing was sackcloth: I humbled my soul with fasting; and my prayer returned into mine own bosom.
 
-**TDB77:** Ahih hangin kei ahih leh, amaute a cinat uh ciangin—puanhampi silhin an tangin kei ka kigim tawmsak hi. Ka ang ah ka lu phumin thu ka ngen a,
+**TDB77:** Ahih hangin kei ahih leh, amaute a cinat-te ciangin—puanhampi silhin an tangin kei ka kigim tawmsak hi. Ka ang ah ka lu phumin thu ka ngen a,
 
-**ZVS:** Ahih hangin kei ahih leh, amaute a cinat uh ciangin, puanhampi silhin an tangin kei ka kigimtawm sak hi.
+**ZVS:** Ahih hangin kei ahih leh, amaute a cinat-te ciangin, puanhampi silhin an tangin kei ka kigimtawm sak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -143,18 +143,18 @@
 ### v15
 **EN:** But in mine adversity they rejoiced, and gathered themselves together: yea, the abjects gathered themselves together against me, and I knew it not; they did tear me, and ceased not:
 
-**TDB77:** Ahih hangin kei ka tukna-ah amaute nuamin kikhawm uh a, keimah langpangin kikaikhawm uh hi; ka theih ngei loh khebaite nangawn in tawlnga loin kei hong gensia hi;
+**TDB77:** Ahih hangin kei ka tukna-ah amaute nuamin kikhawm-te a, keimah langpangin kikaikhawm-te hi; ka theih ngei loh khebaite nangawn in tawlnga loin kei hong gensia hi;
 
-**ZVS:** Ahih hangin kei ka tukna-ah amaute nuamin kikhawm uh a, keimah a langpangin kikaikhawm uh hi. Ka theih ngei hetloh khebaite nangawn in tawlnga hetloin kei hong gensia niloh uh hi.
+**ZVS:** Ahih hangin kei ka tukna-ah amaute nuamin kikhawm-te a, keimah a langpangin kikaikhawm-te hi. Ka theih ngei hetloh khebaite nangawn in tawlnga hetloin kei hong gensia niloh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** With hypocritical mockers in feasts, they gnashed upon me with their teeth.
 
-**TDB77:** zahtakna mel nei loin hong zahko uh a, a ha uh kei hong gawisan uh hi.
+**TDB77:** zahtakna mel nei loin hong zahko-te a, a ha-te kei hong gawisan-te hi.
 
-**ZVS:** Zahtakna mel nei hetloin kei hong zahko niloh uh a, a ha uh hong gawisan uh hi.
+**ZVS:** Zahtakna mel nei hetloin kei hong zahko niloh-te a, a ha-te hong gawisan-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -188,18 +188,18 @@
 ### v20
 **EN:** For they speak not peace: but they devise deceitful matters against them that are quiet in the land.
 
-**TDB77:** Bang hang hiam cih leh amaute in kilemna thu gen lo uh a, gam sunga dai taka mi omte lang pangin, khemna thu ngaihsun uh hi.
+**TDB77:** Bang hang hiam cih leh amaute in kilemna thu gen lo-te a, gam sunga dai taka mi omte lang pangin, khemna thu ngaihsun-te hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in kilemna thu genlo uh a, daitakin a om mite langpangin, khemna thu ngaihsun uh hi.
+**ZVS:** Bang hang hiam cih leh amaute in kilemna thu genlo-te a, daitakin a om mite langpangin, khemna thu ngaihsun-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** Yea, they opened their mouth wide against me, and said, Aha, aha, our eye hath seen it.
 
-**TDB77:** Amaute in kei hong kamkat beba uh a, amaute in, “Ha, Ha! mu khin hang ei!” ci uh hi.
+**TDB77:** Amaute in kei hong kamkat beba-te a, amaute in, “Ha, Ha! mu khin hang ei!” ci-te hi.
 
-**ZVS:** Amaute in kei hong kamkat beba uh a, amaute in, “Ha, Ha! Mu khin hang ei!” ci uh hi.
+**ZVS:** Amaute in kei hong kamkat beba-te a, amaute in, “Ha, Ha! Mu khin hang ei!” ci-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 

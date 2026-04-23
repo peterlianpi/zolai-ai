@@ -51,27 +51,27 @@
 ### v4
 **EN:** For the children of Joseph were two tribes, Manasseh and Ephraim: therefore they gave no part unto the Levites in the land, save cities to dwell in, with their suburbs for their cattle and for their substance.
 
-**TDB77:** Bang hang hiam cih leh Josef mite minam nih-in kikhen a, Manasseh leh Efraim minamte ahi uh hi; tua gam sungah Levi mite tungah tanh kipia lo a, ahih hangin amau teen’ nading khuapite leh a ganhingte leh a nate uh adingin a lonona gamte bek tawh kipia hi.
+**TDB77:** Bang hang hiam cih leh Josef mite minam nih-in kikhen a, Manasseh leh Efraim minamte ahi-te hi; tua gam sungah Levi mite tungah tanh kipia lo a, ahih hangin amau teen’ nading khuapite leh a ganhingte leh a nate-te adingin a lonona gamte bek tawh kipia hi.
 
-**ZVS:** Bang hang hiam cih leh Josef mite minam nihin kikhen a, Manasseh leh Efraim minamte ahi uh hi. Tua gam sungah Levi-te tungah tanh kipialo a, ahih hangin amau' ten'na ding khuapite leh a ganhingte uh-a' dingin a lonona gamte tawh kipia bek hi.
+**ZVS:** Bang hang hiam cih leh Josef mite minam nihin kikhen a, Manasseh leh Efraim minamte ahi-te hi. Tua gam sungah Levi-te tungah tanh kipialo a, ahih hangin amau' ten'na ding khuapite leh a ganhingte uh-a' dingin a lonona gamte tawh kipia bek hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** As the
 
-**TDB77:** Topa in Moses a thupiak bangin Israel mite gamta uh hi; amaute in leitang hawm uh hi.
+**TDB77:** Topa in Moses a thupiak bangin Israel mite gamta-te hi; amaute in leitang hawm-te hi.
 
-**ZVS:** { Topa } in Moses a thupiak bangin Israel mite gamta uh a, amaute in leitang a hawm uh hi.
+**ZVS:** { Topa } in Moses a thupiak bangin Israel mite gamta-te a, amaute in leitang a hawm-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v6
 **EN:** Then the children of Judah came unto Joshua in Gilgal: and Caleb the son of Jephunneh the Kenezite said unto him, Thou knowest the thing that the
 
-**TDB77:** Tua ciangin Judah minamte Gilgal-a Joshua kiangah pai uh a, amaute’ sung panin Kenaz mi Jefunneh tapa Kaleb in ama kiangah, “Topa in Kadesh-barnea-ah Pasian’ mi Moses tungah nang leh kei’ thu tawh kisai a gente na thei hi.
+**TDB77:** Tua ciangin Judah minamte Gilgal-a Joshua kiangah pai-te a, amaute’ sung panin Kenaz mi Jefunneh tapa Kaleb in ama kiangah, “Topa in Kadesh-barnea-ah Pasian’ mi Moses tungah nang leh kei’ thu tawh kisai a gente na thei hi.
 
-**ZVS:** Tua ciangin Judah minamte Gilgal-a Joshua kiangah pai uh a, amaute sung panin Kenaz mi Jefunneh tapa Kaleb in ama kiangah, “{ Topa } in Kadeshbarnea-ah Pasian mi Moses tungah nang leh kei' thu tawh kisai a gente na thei hi.
+**ZVS:** Tua ciangin Judah minamte Gilgal-a Joshua kiangah pai-te a, amaute sung panin Kenaz mi Jefunneh tapa Kaleb in ama kiangah, “{ Topa } in Kadeshbarnea-ah Pasian mi Moses tungah nang leh kei' thu tawh kisai a gente na thei hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** Nevertheless my brethren that went up with me made the heart of the people melt: but I wholly followed the
 
-**TDB77:** Ahih hangin kei tawh hong paito khawm ka sanggamte in mite lungkiasak uh hi; ahi zongin keimah in lungsim tak tawh Topa ka Pasian ka zui hi.
+**TDB77:** Ahih hangin kei tawh hong paito khawm ka sanggamte in mite lungkiasak-te hi; ahi zongin keimah in lungsim tak tawh Topa ka Pasian ka zui hi.
 
-**ZVS:** Ahih hangin kei tawh hong paito khawm ka sanggamte in mite lungkiasak uh a, ahi zongin keimah in lungsim tak tawh { Topa } ka Pasian ka zui hi.
+**ZVS:** Ahih hangin kei tawh hong paito khawm ka sanggamte in mite lungkiasak-te a, ahi zongin keimah in lungsim tak tawh { Topa } ka Pasian ka zui hi.
 
 **Grammar:** plural: uh marker
 
@@ -125,7 +125,7 @@
 
 **TDB77:** Tua ahih ciangin tu-in tua ni-a Topa’ gen hih mualtung gam kei hong pia in; bang hang hiam cih leh Anak mite a muanhuai mahmah khuapite sungah a omna thu tua ni-in na za hi: Topa in kei hong ompih hi, Topa' cih bangin amaute ka hawlkhia zo kha ding hi,” a ci hi.
 
-**ZVS:** Tua ahih ciangin tu-in tua ni-a { Topa' } gen hih mualtung gam kei hong pia in. Anak mite a muan'huai mahmah khuapi sungah a omna thu tua hun lai-in kong gen uh hi. { Topa } in kei hong ompih ding a, { Topa' } cih mah bangin amaute ka hawlkhiazo khading hi,” a ci hi.
+**ZVS:** Tua ahih ciangin tu-in tua ni-a { Topa' } gen hih mualtung gam kei hong pia in. Anak mite a muan'huai mahmah khuapi sungah a omna thu tua hun lai-in kong gen-te hi. { Topa } in kei hong ompih ding a, { Topa' } cih mah bangin amaute ka hawlkhiazo khading hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | future: will
 

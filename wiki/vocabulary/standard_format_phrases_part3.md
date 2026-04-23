@@ -45,7 +45,7 @@
 | Kipawlna, Kinialna | Association/Gathering, Refusal/Disagreement | Reciprocal/reflexive nouns |
 | Kisang tungsak, Kigamla, Kinai, Kihal, Kiniamkhiat | To cause to be high/lifted up, To be far apart, To be near, To be jealous/envious, To humble oneself | Reciprocal/reflexive actions with prepositions |
 | Atung, Anuai, Amai, Agei | Above him/her, Below him/her, In front of him/her, Beside him/her | Possessive marker with prepositions |
-| Ka gam uh hong cidam sak in, Topa | Heal our land, Lord | Prayer/request to God |
+| Ka gam-te hong cidam sak in, Topa | Heal our land, Lord | Prayer/request to God |
 | A tha hoihin a tha gap hi | His strength is good, he gains strength | Description of gaining strength |
 | Ngap pha melkei ing, nasep kuan ngapkeng | I don't want to get (it), when starting work I won't get (it) | Expression of not wanting/expecting something |
 | A sem ngam peuhpeuh nasep kipan | Whoever dares to work starts working | General statement about daring to work |
@@ -75,7 +75,7 @@
 | Kipawlna, Kinialna | Association/Gathering, Refusal/Disagreement | Reciprocal/reflexive nouns |
 | Kisang tungsak, Kigamla, Kinai, Kihal, Kiniamkhiat | To cause to be high/lifted up, To be far apart, To be near, To be jealous/envious, To humble oneself | Reciprocal/reflexive actions with prepositions |
 | Atung, Anuai, Amai, Agei | Above him/her, Below him/her, In front of him/her, Beside him/her | Possessive marker with prepositions |
-| Ka gam uh hong cidam sak in, Topa | Heal our land, Lord | Prayer/request to God |
+| Ka gam-te hong cidam sak in, Topa | Heal our land, Lord | Prayer/request to God |
 | A tha hoihin a tha gap hi | His strength is good, he gains strength | Description of gaining strength |
 | Ngap pha melkei ing, nasep kuan ngapkeng | I don't want to get (it), when starting work I won't get (it) | Expression of not wanting/expecting something |
 | A sem ngam peuhpeuh nasep kipan | Whoever dares to work starts working | General statement about daring to work |
@@ -126,7 +126,7 @@
 | Hanciamna thaman a gah kingah hi | Hanciamna + thaman + a + gah + kingah hi | The reward for perseverance is received |
 | Singgah tampi ne den in | Singgah + tampi + ne + den in | Keep eating many fruits/rewards |
 | Kong laikhak na ngah ciang hong zasakkik oo | Kong + laikhak + na + ngah + ciang + hong + zasak + kik + oo | When you receive the letter, remember to let me know |
-| Ka gam uh hong cidam sak in, Topa | Ka + gam + uh + hong + cidam + sak + in, Topa | Heal our land, Lord |
+| Ka gam-te hong cidam sak in, Topa | Ka + gam + uh + hong + cidam + sak + in, Topa | Heal our land, Lord |
 | A tha gap | A + tha + gap | He gains strength |
 | Ngap pha melkei | Ngap + pha + melkei | Don't want to get/receive |
 | Nasep kuan ngapkeng | Nasep + kuan + ngap + keng | When starting work, I won't get (it) |
@@ -206,7 +206,7 @@
   - e.g. `Atung, Anuai, Amai, Agei`
 - `Ki + /preposition/ = Kisang tungsak, Kigamla, Kinai, Kihal, Kiniamkhiat` = To cause to be high/lifted up, To be far apart, To be near, To be jealous/envious, To humble oneself
   - e.g. `Kisang tungsak, Kigamla, Kinai, Kihal, Kiniamkhiat`
-- `Ka gam uh hong cidam sak in, Topa` = Heal our land, Lord
+- `Ka gam-te hong cidam sak in, Topa` = Heal our land, Lord
 - `A tha hoihin a tha gap hi` = His strength is good, he gains strength
 - `Ngap pha melkei ing, nasep kuan ngapkeng` = I don't want to get (it), when starting work I won't get (it)
 - `A sem ngam peuhpeuh nasep kipan` = Whoever dares to work starts working

@@ -29,16 +29,16 @@
 
 **TDB77:** Itna na delh tham loin Pasian’ Thu hilh nadingin Kha Siangtho hong piak thuphate na deih pha un.
 
-**ZVS:** Na deih lianpen uh ki-itna na hisak un. Kha Siangtho' hong piak siamna a tuamtuamte sung panin thuhilh siamna neihding na hanciam phapen un.
+**ZVS:** Na deih lianpen-te ki-itna na hisak un. Kha Siangtho' hong piak siamna a tuamtuamte sung panin thuhilh siamna neihding na hanciam phapen un.
 
 **Grammar:** purpose: in order to
 
 ### v2
 **EN:** For he that speaketh in an unknown tongue speaketh not unto men, but unto God: for no man understandeth him; howbeit in the spirit he speaketh mysteries.
 
-**TDB77:** Bang hang hiam na cih uh leh, kamtuam tawh a gen mi in mite kiangah a gen ahi kei hi, Pasian kiangah a gen hi; kuamah in ama kam a thei kei hi, Kha Siangtho tawh thuthuk a gen hi.
+**TDB77:** Bang hang hiam na cih-te leh, kamtuam tawh a gen mi in mite kiangah a gen ahi kei hi, Pasian kiangah a gen hi; kuamah in ama kam a thei kei hi, Kha Siangtho tawh thuthuk a gen hi.
 
-**ZVS:** Bang hang hiam cih leh pau lamdang a paute pen mite' tungah thugen hiloin Pasian' tungah thugen ahi hi. Amaute' pau kuamah in theilo a, Kha Siangtho' vangliatna tawh Pasian' thusimte a gengen ahi uh hi.
+**ZVS:** Bang hang hiam cih leh pau lamdang a paute pen mite' tungah thugen hiloin Pasian' tungah thugen ahi hi. Amaute' pau kuamah in theilo a, Kha Siangtho' vangliatna tawh Pasian' thusimte a gengen ahi-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
@@ -63,9 +63,9 @@
 ### v5
 **EN:** I would that ye all spake with tongues, but rather that ye prophesied: for greater is he that prophesieth than he that speaketh with tongues, except he interpret, that the church may receive edifying.
 
-**TDB77:** Note khempeuh in kamtuam tawh gen thei le-uh teh ka deih hi. Ahih hangin kamsang le-uh teh ka deihzaw hi. Bang hang hiam na cih uh leh, pau namtuam tawh a gen mi in pawlpi kipsak nadingin a khiatna a gen kei leh, amah sangin kamsang mi a lianzaw hi.
+**TDB77:** Note khempeuh in kamtuam tawh gen thei le-uh teh ka deih hi. Ahih hangin kamsang le-uh teh ka deihzaw hi. Bang hang hiam na cih-te leh, pau namtuam tawh a gen mi in pawlpi kipsak nadingin a khiatna a gen kei leh, amah sangin kamsang mi a lianzaw hi.
 
-**ZVS:** Note khempeuh pau lamdang na pautheih ding uh kong deihsak hangin Pasian' thu hilh ding siamna na neihding uh ka hong deihsakzaw hi. Pawlpi in phattuamna a ngahtheihna dingin note lakah a khiatna a genthei pah ding om ahih kei buang leh, pau lamdang a paute sangin Pasian' thu a hilhte a lianzaw ahi hi.
+**ZVS:** Note khempeuh pau lamdang na pautheih ding-te kong deihsak hangin Pasian' thu hilh ding siamna na neihding-te ka hong deihsakzaw hi. Pawlpi in phattuamna a ngahtheihna dingin note lakah a khiatna a genthei pah ding om ahih kei buang leh, pau lamdang a paute sangin Pasian' thu a hilhte a lianzaw ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -99,9 +99,9 @@
 ### v9
 **EN:** So likewise ye, except ye utter by the tongue words easy to be understood, how shall it be known what is spoken? for ye shall speak into the air.
 
-**TDB77:** Tua mah bangin note in a theih baih ding kam na gen kei uh leh, na thu gen uh bangci kitheih ding ahi hiam? Huih laka gen tawh na kibang ding uh hi.
+**TDB77:** Tua mah bangin note in a theih baih ding kam na gen kei-te leh, na thu gen-te bangci kitheih ding ahi hiam? Huih laka gen tawh na kibang ding-te hi.
 
-**ZVS:** Tua mah bangin na thugenna uh kammal kitel sinsen kei leh kua in note' thugen theithei ding ahi hiam? Na thugen uh huihlakah a maimang suak lel ding hi.
+**ZVS:** Tua mah bangin na thugenna-te kammal kitel sinsen kei leh kua in note' thugen theithei ding ahi hiam? Na thugen-te huihlakah a maimang suak lel ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -124,7 +124,7 @@
 ### v12
 **EN:** Even so ye, forasmuch as ye are zealous of spiritual gifts, seek that ye may excel to the edifying of the church.
 
-**TDB77:** Tua ahih ciangin note in zong Kha Siangtho hong piak thuphate na deih mahmah uh ahih ciangin pawlpi kipsak nading, na kicin’ nadingun na hahkat un.
+**TDB77:** Tua ahih ciangin note in zong Kha Siangtho hong piak thuphate na deih mahmah-te ahih ciangin pawlpi kipsak nading, na kicin’ nadingun na hahkat un.
 
 **ZVS:** Note in zong Kha Siangtho' hong piak siamnate deih belin nei na hih manun pawlpi-a' dingin phattuamna taktak a piangsak ding siamnate mah nget belin na nei ta un.
 
@@ -135,7 +135,7 @@
 
 **TDB77:** Tua ahih ciangin pau namtuam a gen mi in a khiatna zong a gen theih nadingin thu ngen hen.
 
-**ZVS:** Tua ahih manin pau lamdang a paute in, amau paute a khiatna a gen theihna ding uh siamna a neihna dingun thu ngen ta uh hen.
+**ZVS:** Tua ahih manin pau lamdang a paute in, amau paute a khiatna a gen theihna ding-te siamna a neihna dingun thu ngen ta-te hen.
 
 **Grammar:** sequence: then/therefore | purpose: in order to
 
@@ -162,7 +162,7 @@
 
 **TDB77:** Ahih kei leh, kha tawh hehpihna na phat ciangin a siam lo mi in na kam thei lo ahih ciangin hehpihna phatna-ah zui-in, “Amen” bang ci-a ci thei ding hiam?
 
-**ZVS:** Na lungsim bek tawh Pasian tungah lungdamna na koh ciangin kikhopna sungah a om midangte in bangci-in nang' thungetna, “Amen,” hong cihpih thei ding ahi hiam? Nangma thungette a theihtheihna ding uh bangmah omlo hi.
+**ZVS:** Na lungsim bek tawh Pasian tungah lungdamna na koh ciangin kikhopna sungah a om midangte in bangci-in nang' thungetna, “Amen,” hong cihpih thei ding ahi hiam? Nangma thungette a theihtheihna ding-te bangmah omlo hi.
 
 **Grammar:** serial verb: -in (and then)
 
@@ -187,7 +187,7 @@
 
 **TDB77:** Ahih hangin pawlpi lakah pautuam dang tawh kam thenkhat ka gen theih sangin midangte hilh thei nadingin kam nga bek lungpilna tawh hilh theih nading ka deihzaw hi.
 
-**ZVS:** Ahi ta zongin pawlpite' biak kikhopna sungah pau lamdang kam tul sawm bang ka pau sangin midangte' phattuamna dingin a theihding uh kammal nga bek ka pauzaw ding hi.
+**ZVS:** Ahi ta zongin pawlpite' biak kikhopna sungah pau lamdang kam tul sawm bang ka pau sangin midangte' phattuamna dingin a theihding-te kammal nga bek ka pauzaw ding hi.
 
 **Grammar:** purpose: in order to
 
@@ -201,9 +201,9 @@
 ### v21
 **EN:** In the law it is written, With men of other tongues and other lips will I speak unto this people; and yet for all that will they not hear me, saith the Lord.
 
-**TDB77:** Thukham lai sungah: “Pautuam a neite leh mipawl dangte’ kam tawh hih mipawlte ka hilh ding hi. Ahih hangin ka thu a ngai kei ding uh hi, ci-in Topa in thu a pia hi,” ci-in kigelh hi.
+**TDB77:** Thukham lai sungah: “Pautuam a neite leh mipawl dangte’ kam tawh hih mipawlte ka hilh ding hi. Ahih hangin ka thu a ngai kei ding-te hi, ci-in Topa in thu a pia hi,” ci-in kigelh hi.
 
-**ZVS:** Lai Siangtho sungah, “A lamdang kampau tawh amaute hopihin, minam dangte' pau tawh thu ka gen ding a, tua bang nangawnin hih mite in keima thugen hong ngailo ding uh hi, ci-in Topa in a gen hi,” ci-in na kigelh hi.
+**ZVS:** Lai Siangtho sungah, “A lamdang kampau tawh amaute hopihin, minam dangte' pau tawh thu ka gen ding a, tua bang nangawnin hih mite in keima thugen hong ngailo ding-te hi, ci-in Topa in a gen hi,” ci-in na kigelh hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -212,25 +212,25 @@
 
 **TDB77:** Tua ahih ciangin pautuam dangte in thu-umte ading lim ahi kei hi, a um lote ading lim ahi hi. Kamsan’na ahih leh, a um lote ading lim ahi kei hi; a umte ading lim ahi hi.
 
-**ZVS:** Tua ahih manin pau lamdang pen thu um mite-a' ding hiloin, thu umlo mite in a uptheihna ding uh lim ahi hi. Tua mah bangin Pasian' thuhilhna pen thu um mite-a' ding hi a, thu umlo mite-a' ding hilo hi.
+**ZVS:** Tua ahih manin pau lamdang pen thu um mite-a' ding hiloin, thu umlo mite in a uptheihna ding-te lim ahi hi. Tua mah bangin Pasian' thuhilhna pen thu um mite-a' ding hi a, thu umlo mite-a' ding hilo hi.
 
 **Grammar:** sequence: then/therefore | negation: kei
 
 ### v23
 **EN:** If therefore the whole church be come together into one place, and all speak with tongues, and there come in those that are unlearned, or unbelievers, will they not say that ye are mad?
 
-**TDB77:** Tua ahih ciangin pawlpi khempeuh kikhawmin, pautuam dang tawh na kihilh lai takun a um lote ahi zongin, a siam lote ahi zongin hong tum leh, “Note mihai na hi uh,” hong ci ding uh hilo ahi hiam?
+**TDB77:** Tua ahih ciangin pawlpi khempeuh kikhawmin, pautuam dang tawh na kihilh lai takun a um lote ahi zongin, a siam lote ahi zongin hong tum leh, “Note mihai na hi uh,” hong ci ding-te hilo ahi hiam?
 
-**ZVS:** Tua ahih manin pawlpi mi khempeuh na kikhopna uhah na vekpi-un pau lamdangin pau-in, mi mawkmawkte ahih kei leh thu umlo mite in hong mu zenzen leh, note pen mihai hontang hi, hong ci ding hilo ahi uh hiam?
+**ZVS:** Tua ahih manin pawlpi mi khempeuh na kikhopna uhah na vekpi-un pau lamdangin pau-in, mi mawkmawkte ahih kei leh thu umlo mite in hong mu zenzen leh, note pen mihai hontang hi, hong ci ding hilo ahi-te hiam?
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** But if all prophesy, and there come in one that believeth not, or one unlearned, he is convinced of all, he is judged of all:
 
-**TDB77:** Mi khempeuhte in kamsangin a om lai takin a um lo mi ahi zongin, a siam lo mi ahi zongin hong tum ciangin pawlpi khempeuh in tua pa mawhsakin, nakpi takin amah kingaihsun sak ding uh hi.
+**TDB77:** Mi khempeuhte in kamsangin a om lai takin a um lo mi ahi zongin, a siam lo mi ahi zongin hong tum ciangin pawlpi khempeuh in tua pa mawhsakin, nakpi takin amah kingaihsun sak ding-te hi.
 
-**ZVS:** Ahi zongin na vekpi-un hoihtakin Pasian' thu na gen laitakun mi mawkmawkte ahih kei leh thu umlote hong pai leh, a zak uh thute hangin a mawhna uh kiphawkin a hoihlohna uh kithei ding uh hi.
+**ZVS:** Ahi zongin na vekpi-un hoihtakin Pasian' thu na gen laitakun mi mawkmawkte ahih kei leh thu umlote hong pai leh, a zak-te thute hangin a mawhna-te kiphawkin a hoihlohna-te kithei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -239,41 +239,41 @@
 
 **TDB77:** Tua pa in a lungsim sunga a selsim khempeuh kilang khia-in, amah in, “Pasian in note lakah a om takpi hi,” ci-in genin, bokin Pasian a bia ding hi.
 
-**ZVS:** A lungsim sung uhah a ipcipte uh kipholak ding a, khukdin'in Pasian bia-in, “Hih mite lakah Pasian om taktak hi,” ci ding uh hi.
+**ZVS:** A lungsim sung uhah a ipcipte-te kipholak ding a, khukdin'in Pasian bia-in, “Hih mite lakah Pasian om taktak hi,” ci ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v26
 **EN:** How is it then, brethren? when ye come together, every one of you hath a psalm, hath a doctrine, hath a tongue, hath a revelation, hath an interpretation. Let all things be done unto edifying.
 
-**TDB77:** Ute naute aw, koici bang ahi hiam? Na kikhop uh ciangin lasakna ahi zongin, thuhilhna ahi zongin, Pasian’ lahkhiat thugenna ahi zongin, pau namtuam pauna ahi zongin, a khiatna gen theihna ahi zongin na nei ciat uh ahih ciangin pawlpi kipsak nadingin na khempeuh na hih un.
+**TDB77:** Ute naute aw, koici bang ahi hiam? Na kikhop-te ciangin lasakna ahi zongin, thuhilhna ahi zongin, Pasian’ lahkhiat thugenna ahi zongin, pau namtuam pauna ahi zongin, a khiatna gen theihna ahi zongin na nei ciat-te ahih ciangin pawlpi kipsak nadingin na khempeuh na hih un.
 
-**ZVS:** Tua ahih ciangin sanggamte aw, ka hong gennop thu a tomin: Pasian bia dingin note na kikhop uh ciangin khat in la sak ding nei, khat in Pasian' thu a gen ding nei, khat in pau lamdang tawh thugen ding nei, khat in tua a kigente a khiatna gentheihna ding nei cih bangin na om ding uh hi. Hih a tuamtuamte khempeuh, pawlpi' phattuamna ding ahih ding kisam hi.
+**ZVS:** Tua ahih ciangin sanggamte aw, ka hong gennop thu a tomin: Pasian bia dingin note na kikhop-te ciangin khat in la sak ding nei, khat in Pasian' thu a gen ding nei, khat in pau lamdang tawh thugen ding nei, khat in tua a kigente a khiatna gentheihna ding nei cih bangin na om ding-te hi. Hih a tuamtuamte khempeuh, pawlpi' phattuamna ding ahih ding kisam hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v27
 **EN:** If any man speak in an unknown tongue, let it be by two, or at the most by three, and that by course; and let one interpret.
 
-**TDB77:** Pau namtuam dang tawh kamsan’na a om leh, nih ahi zongin, a tam belin thum ahi zongin, khat khit ciangin khat in gen uh hen la, khat in a khiatna genkik ta hen.
+**TDB77:** Pau namtuam dang tawh kamsan’na a om leh, nih ahi zongin, a tam belin thum ahi zongin, khat khit ciangin khat in gen-te hen la, khat in a khiatna genkik ta hen.
 
-**ZVS:** Pau lamdang tawh thugen nuam a om leh zong, nih bang, ahih kei leh a tam penin thum bang in gen bek ding a, tua bangin a gen uh ciangin zong khat a man khit ciangin khat in a banbanin gen ding uh hi.
+**ZVS:** Pau lamdang tawh thugen nuam a om leh zong, nih bang, ahih kei leh a tam penin thum bang in gen bek ding a, tua bangin a gen-te ciangin zong khat a man khit ciangin khat in a banbanin gen ding-te hi.
 
 ### v28
 **EN:** But if there be no interpreter, let him keep silence in the church; and let him speak to himself, and to God.
 
 **TDB77:** Kamphen a om kei leh, tua mipa in pawlpi lakah gen loin om hen; amahmah ahi zongin, Pasian kiang ahi zongin gen hen.
 
-**ZVS:** Ahi zongin a khiatna a genthei ding a om kei leh zong, kikhopna sungah pau lamdangin a pau nuampa gamdai takin om ding a, amah leh Pasian tawh kikal bekah kigen ding uh hi.
+**ZVS:** Ahi zongin a khiatna a genthei ding a om kei leh zong, kikhopna sungah pau lamdangin a pau nuampa gamdai takin om ding a, amah leh Pasian tawh kikal bekah kigen ding-te hi.
 
 **Grammar:** optative: let there be / let it be | reciprocal: ki- prefix
 
 ### v29
 **EN:** Let the prophets speak two or three, and let the other judge.
 
-**TDB77:** Kamsangte in nih ahi zongin, thum ahi zongin kamsang uh hen la, midangte in sittel uh hen.
+**TDB77:** Kamsangte in nih ahi zongin, thum ahi zongin kamsang-te hen la, midangte in sittel-te hen.
 
-**ZVS:** Pasian thu gen ding a neite sung panin nih leh thum bang bek in a banbanin gen ding uh a, adangte in limtakin na telngaih ding uh hi.
+**ZVS:** Pasian thu gen ding a neite sung panin nih leh thum bang bek in a banbanin gen ding-te a, adangte in limtakin na telngaih ding-te hi.
 
 ### v30
 **EN:** If any thing be revealed to another that sitteth by, let the first hold his peace.
@@ -287,16 +287,16 @@
 ### v31
 **EN:** For ye may all prophesy one by one, that all may learn, and all may be comforted.
 
-**TDB77:** Bang hang hiam na cih uh leh, a om mi khempeuh in theitel-a tha a ngah theih nading ahi zongin, note khat nungah khat in kamsan’na na nei thei uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, a om mi khempeuh in theitel-a tha a ngah theih nading ahi zongin, note khat nungah khat in kamsan’na na nei thei-te hi.
 
-**ZVS:** Na vekpi-un a thu thei-in thahatna na ngahtheihna dingun no thugen ding a neite khempeuh in khat khatin thu na ban gen ding uh hi.
+**ZVS:** Na vekpi-un a thu thei-in thahatna na ngahtheihna dingun no thugen ding a neite khempeuh in khat khatin thu na ban gen ding-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v32
 **EN:** And the spirits of the prophets are subject to the prophets.
 
-**TDB77:** Kamsangte’ kha in kamsangte’ ukna nuai-ah a om ding uh hi.
+**TDB77:** Kamsangte’ kha in kamsangte’ ukna nuai-ah a om ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -312,18 +312,18 @@
 ### v34
 **EN:** Let your women keep silence in the churches: for it is not permitted unto them to speak; but they are commanded to be under obedience, as also saith the law.
 
-**TDB77:** Misiangthote’ pawlpi khempeuh sung panin numeite in pawlpi lakah pau loin om ta uh hen. Bang hang hiam na cih uh leh, amau in thuhilh nading thu a om kei hi. Thukham in a tan’sa bangin amau in ukna nuai-ah om ta uh hen.
+**TDB77:** Misiangthote’ pawlpi khempeuh sung panin numeite in pawlpi lakah pau loin om ta-te hen. Bang hang hiam na cih-te leh, amau in thuhilh nading thu a om kei hi. Thukham in a tan’sa bangin amau in ukna nuai-ah om ta-te hen.
 
-**ZVS:** mihon biak kikhopna sungah numeite pauloin om uh hen. Numeite a kiniamkhiatna ding thu Jew Thukham in a gen mah bangin amaute in mihon lakah thu a gen ding uh kiphallo hi.
+**ZVS:** mihon biak kikhopna sungah numeite pauloin om-te hen. Numeite a kiniamkhiatna ding thu Jew Thukham in a gen mah bangin amaute in mihon lakah thu a gen ding-te kiphallo hi.
 
 **Grammar:** negation: kei
 
 ### v35
 **EN:** And if they will learn any thing, let them ask their husbands at home: for it is a shame for women to speak in the church.
 
-**TDB77:** Numeite in thu khatpeuh peuh a sin nop uh leh, innah a pasalte kiangah dong ta uh hen. Bang hang hiam na cih uh leh, pawlpi lakah thu a gen ding uh a zumhuai hi.
+**TDB77:** Numeite in thu khatpeuh peuh a sin nop-te leh, innah a pasalte kiangah dong ta-te hen. Bang hang hiam na cih-te leh, pawlpi lakah thu a gen ding-te a zumhuai hi.
 
-**ZVS:** Amaute in a theihnop uh thu a om leh, inn panin a pasalte uh dong ta uh hen. Bang hang hiam cih leh mihon lakah numeite kam a pau ding zumhuai hi.
+**ZVS:** Amaute in a theihnop-te thu a om leh, inn panin a pasalte-te dong ta-te hen. Bang hang hiam cih leh mihon lakah numeite kam a pau ding zumhuai hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -332,7 +332,7 @@
 
 **TDB77:** Pasian’ thu in note pana hong piang ahi hiam? Ahih kei leh, note tung beka hong tung ahi hiam?
 
-**ZVS:** Note kiang bek panin Pasian' thu hong kipan a, note tung bekah a hong tung sa zenzen na hi uh hiam?
+**ZVS:** Note kiang bek panin Pasian' thu hong kipan a, note tung bekah a hong tung sa zenzen na hi-te hiam?
 
 ### v37
 **EN:** If any man think himself to be a prophet, or spiritual, let him acknowledge that the things that I write unto you are the commandments of the Lord.

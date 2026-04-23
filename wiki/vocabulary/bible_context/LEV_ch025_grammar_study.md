@@ -36,167 +36,167 @@
 
 **TDB77:** “Israel mite tungah hih bangin gen in: Note kong piak leitangah na tun’ uh ciangin, leitang in Topa adingin sabbatth tang ding hi.
 
-**ZVS:** “Israel mite tungah hih bangin gen in: Note kong piak leitangah na tun' uh ciangin, { Topa } pahtawina-in leitang tawlngak hun na omsak ding uh hi.
+**ZVS:** “Israel mite tungah hih bangin gen in: Note kong piak leitangah na tun' uh ciangin, { Topa } pahtawina-in leitang tawlngak hun na omsak ding-te hi.
 
 **Grammar:** purpose: in order to | future: will
 
 ### v3
 **EN:** Six years thou shalt sow thy field, and six years thou shalt prune thy vineyard, and gather in the fruit thereof;
 
-**TDB77:** Kum guk sung note in na lo uh na pawi ding uh hi; kum guk sung note in na leenggui lo uh hah-in a gahte na kaikhawm ding uh hi;
+**TDB77:** Kum guk sung note in na lo-te na pawi ding-te hi; kum guk sung note in na leenggui lo-te hah-in a gahte na kaikhawm ding-te hi;
 
-**ZVS:** Kum guk sung note in na lo uh na pawi ding uh a, kum guk sung na leenggui lo uh hahin a gahte na kaikhawm ding uh hi.
+**ZVS:** Kum guk sung note in na lo-te na pawi ding-te a, kum guk sung na leenggui lo-te hahin a gahte na kaikhawm ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v4
 **EN:** But in the seventh year shall be a sabbath of rest unto the land, a sabbath for the
 
-**TDB77:** ahih hangin a kum sagihna ah, leitang ading a thupi tawlngakna sabbath, Topa ading sabbath om ding hi; note in na lo uh na pawi kei ding uh a, na leenggui lo uh na hah kei ding uh hi.
+**TDB77:** ahih hangin a kum sagihna ah, leitang ading a thupi tawlngakna sabbath, Topa ading sabbath om ding hi; note in na lo-te na pawi kei ding-te a, na leenggui lo-te na hah kei ding-te hi.
 
-**ZVS:** Ahih hangin a kum sagihna-ah leitang-a' ding a thupi tawlngakna sabbath, { Topa } pahtawina sabbath om ding hi. Note in na lo uh na pawi kei ding uh a, na leenggui lo uh na hah kei ding uh hi.
+**ZVS:** Ahih hangin a kum sagihna-ah leitang-a' ding a thupi tawlngakna sabbath, { Topa } pahtawina sabbath om ding hi. Note in na lo-te na pawi kei ding-te a, na leenggui lo-te na hah kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v5
 **EN:** That which groweth of its own accord of thy harvest thou shalt not reap, neither gather the grapes of thy vine undressed: for it is a year of rest unto the land.
 
-**TDB77:** A li pote note in na kaikhawm kei ding uh hi; a kipuah lo leenggui gahte note in na kaikhawm kei ding uh hi; leitang’ adingin a thupi tawlngakna kum hi ding hi.
+**TDB77:** A li pote note in na kaikhawm kei ding-te hi; a kipuah lo leenggui gahte note in na kaikhawm kei ding-te hi; leitang’ adingin a thupi tawlngakna kum hi ding hi.
 
-**ZVS:** A li pote note in na kaikhawm kei ding uh a, a kipuahlo leenggui gahte na khawm kei ding uh hi. Leitang-a' dingin a thupi tawlngakna hi ding hi.
+**ZVS:** A li pote note in na kaikhawm kei ding-te a, a kipuahlo leenggui gahte na khawm kei ding-te hi. Leitang-a' dingin a thupi tawlngakna hi ding hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And the sabbath of the land shall be meat for you; for thee, and for thy servant, and for thy maid, and for thy hired servant, and for thy stranger that sojourneth with thee,
 
-**TDB77:** Leitang sabbath kum-a piang tawmte in note ading, note leh na sila pasal leh numeite ading leh a kicial na nasemte uh ading leh note tawh a teeng a peem mi ading an hong sik ding hi;
+**TDB77:** Leitang sabbath kum-a piang tawmte in note ading, note leh na sila pasal leh numeite ading leh a kicial na nasemte-te ading leh note tawh a teeng a peem mi ading an hong sik ding hi;
 
-**ZVS:** Lo na khawh loh uh hangin leitang tawlngak kumin a piang tawmte in note-a' ding, na sila numei leh na sila pasalte-a' ding, a kicial nasemte leh note tawh a teng a peem mite-a' ding an hong sik ding hi.
+**ZVS:** Lo na khawh loh-te hangin leitang tawlngak kumin a piang tawmte in note-a' ding, na sila numei leh na sila pasalte-a' ding, a kicial nasemte leh note tawh a teng a peem mite-a' ding an hong sik ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v7
 **EN:** And for thy cattle, and for the beast that are in thy land, shall all the increase thereof be meat.
 
-**TDB77:** a piang khempeuhte in na bawngte uh ading leh na leitang uhah a om ganhingte an ding ahi hi.
+**TDB77:** a piang khempeuhte in na bawngte-te ading leh na leitang uhah a om ganhingte an ding ahi hi.
 
-**ZVS:** A piang khempeuhte pen na bawngte uh leh na leitang uhah a om ganhingte' an ding ahi hi.
+**ZVS:** A piang khempeuhte pen na bawngte-te leh na leitang uhah a om ganhingte' an ding ahi hi.
 
 ### v8
 **EN:** And thou shalt number seven sabbaths of years unto thee, seven times seven years; and the space of the seven sabbaths of years shall be unto thee forty and nine years.
 
-**TDB77:** “Kum nipi sagih hun in note adingin kum sawm-li-le-kua ahih theih nadingin note in kum nipi sagih, kum sagih mun sagih vei na simto ding uh hi.
+**TDB77:** “Kum nipi sagih hun in note adingin kum sawm-li-le-kua ahih theih nadingin note in kum nipi sagih, kum sagih mun sagih vei na simto ding-te hi.
 
-**ZVS:** “Kum nipi sagih hun pen note-a' dingin kum sawmlilekua ahih theihna dingin note in kum nipi sagih, kum sagih mun sagihvei na simto ding uh hi.
+**ZVS:** “Kum nipi sagih hun pen note-a' dingin kum sawmlilekua ahih theihna dingin note in kum nipi sagih, kum sagih mun sagihvei na simto ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v9
 **EN:** Then shalt thou cause the trumpet of the jubilee to sound on the tenth day of the seventh month, in the day of atonement shall ye make the trumpet sound throughout all your land.
 
-**TDB77:** Tua ciangin note in kha sagihna a ni sawm ni-in nakpi-in peengkul na tum ding uh hi; kilemna ni-in note in na gam khempeuh uhah peengkul aw na gingkhia sak ding uh hi.
+**TDB77:** Tua ciangin note in kha sagihna a ni sawm ni-in nakpi-in peengkul na tum ding-te hi; kilemna ni-in note in na gam khempeuh uhah peengkul aw na gingkhia sak ding-te hi.
 
-**ZVS:** Tua ciangin note in kha sagihna a ni sawm ni-in nakpi-in peengkul na tum ding uh a, kilemna ni-in note in na gamsung khempeuh uhah peengkul aw na gingkhiasak ding uh hi.
+**ZVS:** Tua ciangin note in kha sagihna a ni sawm ni-in nakpi-in peengkul na tum ding-te a, kilemna ni-in note in na gamsung khempeuh uhah peengkul aw na gingkhiasak ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof: it shall be a jubilee unto you; and ye shall return every man unto his possession, and ye shall return every man unto his family.
 
-**TDB77:** Note in a kum sawmngana siangtho sakin, gam sunga a teeng mi khempeuhte tungah suahtakna na genthang ding uh hi; note in nomau neihsa ciatah pai kikin note in nomau innkuanpihte ciat kiangah na ciahkik uh ciangin note adingin jubili hi ding hi.
+**TDB77:** Note in a kum sawmngana siangtho sakin, gam sunga a teeng mi khempeuhte tungah suahtakna na genthang ding-te hi; note in nomau neihsa ciatah pai kikin note in nomau innkuanpihte ciat kiangah na ciahkik-te ciangin note adingin jubili hi ding hi.
 
-**ZVS:** Note in a kum sawmngana siangtho sakin, gamsunga a teng mi khempeuh tungah suahtakna thu na zasak ding uh hi. Note in nomau' neihsa ciat ngahkikin, sila-in a kizuak mite nomau' innkuanpihte ciat kiangah na ciahkik uh ciangin note-a' dingin jubilee hi ding hi.
+**ZVS:** Note in a kum sawmngana siangtho sakin, gamsunga a teng mi khempeuh tungah suahtakna thu na zasak ding-te hi. Note in nomau' neihsa ciat ngahkikin, sila-in a kizuak mite nomau' innkuanpihte ciat kiangah na ciahkik-te ciangin note-a' dingin jubilee hi ding hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** A jubilee shall that fiftieth year be unto you: ye shall not sow, neither reap that which groweth of itself in it, nor gather the grapes in it of thy vine undressed.
 
-**TDB77:** Tua a kum sawmngana in note adingin jubili hi ding hi; tua kum sungin note in lo pawi loin, a li pote zong la loin, a kihah lo leengguite panin zong leenggah na khawm kei ding uh hi.
+**TDB77:** Tua a kum sawmngana in note adingin jubili hi ding hi; tua kum sungin note in lo pawi loin, a li pote zong la loin, a kihah lo leengguite panin zong leenggah na khawm kei ding-te hi.
 
-**ZVS:** Tua a kum sawmngana pen note-a' dingin jubilee hi ding hi. Tua kum sungin note in lo pawiloin, a li pote zong laloin, a kihahlo leengguite panin zong leenggah na khawm kei ding uh hi.
+**ZVS:** Tua a kum sawmngana pen note-a' dingin jubilee hi ding hi. Tua kum sungin note in lo pawiloin, a li pote zong laloin, a kihahlo leengguite panin zong leenggah na khawm kei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** For it is the jubilee; it shall be holy unto you: ye shall eat the increase thereof out of the field.
 
-**TDB77:** Bang hang hiam cih leh tua in jubili ahi hi; tua in note adingin siangtho ding hi; note in lo pan-a piangsate na ne ding uh hi.
+**TDB77:** Bang hang hiam cih leh tua in jubili ahi hi; tua in note adingin siangtho ding hi; note in lo pan-a piangsate na ne ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh tua pen jubilee ahi hi. Tua pen note-a' dingin siangtho ding a, note in lo panin a piang tawmte na ne ding uh hi.
+**ZVS:** Bang hang hiam cih leh tua pen jubilee ahi hi. Tua pen note-a' dingin siangtho ding a, note in lo panin a piang tawmte na ne ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | plural: uh marker
 
 ### v13
 **EN:** In the year of this jubilee ye shall return every man unto his possession.
 
-**TDB77:** “Hih Jubili kum sungin note khempeuh in nomau neihsa ciat na ngah kik ding uh hi.
+**TDB77:** “Hih Jubili kum sungin note khempeuh in nomau neihsa ciat na ngah kik ding-te hi.
 
-**ZVS:** “Hih jubilee kum sungin note khempeuh in nomau' neihsa ciat na ngahkik ding uh hi.
+**ZVS:** “Hih jubilee kum sungin note khempeuh in nomau' neihsa ciat na ngahkik ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And if thou sell ought unto thy neighbour, or buyest ought of thy neighbour's hand, ye shall not oppress one another:
 
-**TDB77:** Note in na vengte tungah na zuak uh ahi zongin na vengte kiang panun na lei uh ahi zongin note khat leh khat na kikhem kei ding uh hi.
+**TDB77:** Note in na vengte tungah na zuak-te ahi zongin na vengte kiang panun na lei-te ahi zongin note khat leh khat na kikhem kei ding-te hi.
 
-**ZVS:** Note in na vengte' tungah na zuak uh ahi zongin na vengte' kiang panin na lei uh ahi zongin note khatlekhat na kikhem kei ding uh hi.
+**ZVS:** Note in na vengte' tungah na zuak-te ahi zongin na vengte' kiang panin na lei-te ahi zongin note khatlekhat na kikhem kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** According to the number of years after the jubilee thou shalt buy of thy neighbour, and according unto the number of years of the fruits he shall sell unto thee:
 
-**TDB77:** Jubili khit ciangin a kum pha zah tawh kituakin note in na vengte uh kiang panin lei-in, a an piang ding kum zah tawh kituakin amau in note tungah hong zuak ding uh hi.
+**TDB77:** Jubili khit ciangin a kum pha zah tawh kituakin note in na vengte-te kiang panin lei-in, a an piang ding kum zah tawh kituakin amau in note tungah hong zuak ding-te hi.
 
-**ZVS:** Jubilee khit ciangin a jubilee kik dong a kum phazah tawh kituakin note in na vengte uh kiang panin lei-in, a an piang ding kum zah tawh kituakin amau in note tungah hong zuak ding uh hi.
+**ZVS:** Jubilee khit ciangin a jubilee kik dong a kum phazah tawh kituakin note in na vengte-te kiang panin lei-in, a an piang ding kum zah tawh kituakin amau in note tungah hong zuak ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** According to the multitude of years thou shalt increase the price thereof, and according to the fewness of years thou shalt diminish the price of it: for according to the number of the years of the fruits doth he sell unto thee.
 
-**TDB77:** A kum a tam leh a man na khangsak ding uh hi; a kum a tawm leh a man na kiamsak ding uh hi; bang hang hiam cih leh no tungah hong zuak pen a tuk tung ding zah ahi hi.
+**TDB77:** A kum a tam leh a man na khangsak ding-te hi; a kum a tawm leh a man na kiamsak ding-te hi; bang hang hiam cih leh no tungah hong zuak pen a tuk tung ding zah ahi hi.
 
-**ZVS:** A kum a tam lai leh a man na tamsak ding uh a, a kum a tawm leh a man na tawmsak ding uh hi. Bang hang hiam cih leh no tungah hong zuak pen a tuk tung ding zah ahi hi.
+**ZVS:** A kum a tam lai leh a man na tamsak ding-te a, a kum a tawm leh a man na tawmsak ding-te hi. Bang hang hiam cih leh no tungah hong zuak pen a tuk tung ding zah ahi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Ye shall not therefore oppress one another; but thou shalt fear thy God: for I am the
 
-**TDB77:** Note khat leh khat kikhem loin na Pasian uh na zahtak ding uh hi; bang hang hiam cih leh keimah in Topa na Pasian uh ka hi hi.
+**TDB77:** Note khat leh khat kikhem loin na Pasian-te na zahtak ding-te hi; bang hang hiam cih leh keimah in Topa na Pasian-te ka hi hi.
 
-**ZVS:** Note khatlekhat kikhem loin na Pasian uh na zahtak ding uh hi; bang hang hiam cih leh kei pen { Topa } ka hi hi.
+**ZVS:** Note khatlekhat kikhem loin na Pasian-te na zahtak ding-te hi; bang hang hiam cih leh kei pen { Topa } ka hi hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** Wherefore ye shall do my statutes, and keep my judgments, and do them; and ye shall dwell in the land in safety.
 
-**TDB77:** “Tua ahih ciangin note in ka thukhamte hihin, ka biakna ngeina kipte zui-in tuate na sem ding uh hi; tua hi leh note lungmuang takin gam sungah na teeng ding uh hi.
+**TDB77:** “Tua ahih ciangin note in ka thukhamte hihin, ka biakna ngeina kipte zui-in tuate na sem ding-te hi; tua hi leh note lungmuang takin gam sungah na teeng ding-te hi.
 
-**ZVS:** “Tua ahih ciangin note in ka thukhamte leh ka biakna ngeina kipte zui-in tuate na sem ding uh hi. Tua hi leh note lungmuang takin gam sungah na teng ding uh hi.
+**ZVS:** “Tua ahih ciangin note in ka thukhamte leh ka biakna ngeina kipte zui-in tuate na sem ding-te hi. Tua hi leh note lungmuang takin gam sungah na teng ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And the land shall yield her fruit, and ye shall eat your fill, and dwell therein in safety.
 
-**TDB77:** Leitang in gah gahin, note in na kham takun ne-in, tua sungah lungmuang takin na teeng ding uh hi.
+**TDB77:** Leitang in gah gahin, note in na kham takun ne-in, tua sungah lungmuang takin na teeng ding-te hi.
 
-**ZVS:** Leitang in an hong piangsak ding a, note in na khamtakun ne-in, lungmuang takin na teng ding uh hi.
+**ZVS:** Leitang in an hong piangsak ding a, note in na khamtakun ne-in, lungmuang takin na teng ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v20
 **EN:** And if ye shall say, What shall we eat the seventh year? behold, we shall not sow, nor gather in our increase:
 
-**TDB77:** Note in, ‘Lo lah pawi loin an lah la kei lehang, a kum sagihna ah bang ne ding i hi hiam?’ na cih uh leh
+**TDB77:** Note in, ‘Lo lah pawi loin an lah la kei lehang, a kum sagihna ah bang ne ding i hi hiam?’ na cih-te leh
 
-**ZVS:** “Note in, ‘Lo lah pawiloin, an lah la kei lehang, a kum sagihna-ah bang ne ding ihi hiam?’ na cih uh leh
+**ZVS:** “Note in, ‘Lo lah pawiloin, an lah la kei lehang, a kum sagihna-ah bang ne ding ihi hiam?’ na cih-te leh
 
 ### v21
 **EN:** Then I will command my blessing upon you in the sixth year, and it shall bring forth fruit for three years.
@@ -210,27 +210,27 @@
 ### v22
 **EN:** And ye shall sow the eighth year, and eat yet of old fruit until the ninth year; until her fruits come in ye shall eat of the old store.
 
-**TDB77:** A kum giatna ah lo na pawi uh ciangin, note in anlui na ne ding uh hi; anthak hong tun’ a kum kua mateng note in a lui na ne ding uh hi.
+**TDB77:** A kum giatna ah lo na pawi-te ciangin, note in anlui na ne ding-te hi; anthak hong tun’ a kum kua mateng note in a lui na ne ding-te hi.
 
-**ZVS:** A kum giatna-ah lo na pawi ding uh ciangin, note in anlui na ne lai ding uh hi. Anthak hong tun' a kum kuana mateng note in a lui na ne ding uh hi.
+**ZVS:** A kum giatna-ah lo na pawi ding-te ciangin, note in anlui na ne lai ding-te hi. Anthak hong tun' a kum kuana mateng note in a lui na ne ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v23
 **EN:** The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me.
 
-**TDB77:** Leitang in keima’ aa ahih manin neih suak dingin leitang kizuak lo ding hi; bang hang hiam cih leh note in kei tawh a omkhawm mikhual leh peemtate na hi uh hi.
+**TDB77:** Leitang in keima’ aa ahih manin neih suak dingin leitang kizuak lo ding hi; bang hang hiam cih leh note in kei tawh a omkhawm mikhual leh peemtate na hi-te hi.
 
-**ZVS:** “Leitang pen keima-a' ahih manin neihsuak dingin leitang kizuaklo ding hi; bang hang hiam cih leh note pen kei tawh a omkhawm khualmi leh peemtate na hi uh hi.
+**ZVS:** “Leitang pen keima-a' ahih manin neihsuak dingin leitang kizuaklo ding hi; bang hang hiam cih leh note pen kei tawh a omkhawm khualmi leh peemtate na hi-te hi.
 
 **Grammar:** purpose: in order to | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** And in all the land of your possession ye shall grant a redemption for the land.
 
-**TDB77:** Note in na neih uh leitang khempeuh na kitanh kik sak thei ding uh hi.
+**TDB77:** Note in na neih-te leitang khempeuh na kitanh kik sak thei ding-te hi.
 
-**ZVS:** “Note in na neih uh leitang khempeuh na kitanhkik sak thei ding uh hi.
+**ZVS:** “Note in na neih-te leitang khempeuh na kitanhkik sak thei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -300,9 +300,9 @@
 ### v32
 **EN:** Notwithstanding the cities of the Levites, and the houses of the cities of their possession, may the Levites redeem at any time.
 
-**TDB77:** Ahi zongin Levi mite’ khuapite, amau neihsa khuapite-a innte ahih leh, Levi mite in khat vei peuh ciangin tanh thei ding uh hi.
+**TDB77:** Ahi zongin Levi mite’ khuapite, amau neihsa khuapite-a innte ahih leh, Levi mite in khat vei peuh ciangin tanh thei ding-te hi.
 
-**ZVS:** Ahi zongin Levi mite' khuapite, amau' neihsa khuapite-a innte ahih leh, Levi mite in khatvei peuh ciangin tanh thei ding uh hi.
+**ZVS:** Ahi zongin Levi mite' khuapite, amau' neihsa khuapite-a innte ahih leh, Levi mite in khatvei peuh ciangin tanh thei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -327,36 +327,36 @@
 ### v35
 **EN:** And if thy brother be waxen poor, and fallen in decay with thee; then thou shalt relieve him: yea, though he be a stranger, or a sojourner; that he may live with thee.
 
-**TDB77:** “Na sanggampa uh zawng-in, note bangin amah a kivak zawh kei leh, note in amah na vaak ding uh hi; mikhual leh peemta bangin amah in note tawh om ding hi.
+**TDB77:** “Na sanggampa-te zawng-in, note bangin amah a kivak zawh kei leh, note in amah na vaak ding-te hi; mikhual leh peemta bangin amah in note tawh om ding hi.
 
-**ZVS:** “Na sanggampa uh zawngin, note bangin amah a kivak zawh kei leh, note in amah na vak ding uh hi. Khualmi leh peemta bangin amah pen note tawh hong om ding hi.
+**ZVS:** “Na sanggampa-te zawngin, note bangin amah a kivak zawh kei leh, note in amah na vak ding-te hi. Khualmi leh peemta bangin amah pen note tawh hong om ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v36
 **EN:** Take thou no usury of him, or increase: but fear thy God; that thy brother may live with thee.
 
-**TDB77:** Na sanggampa uh no kiangah hong ten’ theih nadingin ama tung panin ameet akhang la kei un la, na Pasian uh zahtak un.
+**TDB77:** Na sanggampa-te no kiangah hong ten’ theih nadingin ama tung panin ameet akhang la kei un la, na Pasian-te zahtak un.
 
-**ZVS:** Na sanggampa uh no kiangah hong ten' theihna dingin ama tung panin a meet a khang la kei un la, na Pasian uh zahtak un.
+**ZVS:** Na sanggampa-te no kiangah hong ten' theihna dingin ama tung panin a meet a khang la kei un la, na Pasian-te zahtak un.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v37
 **EN:** Thou shalt not give him thy money upon usury, nor lend him thy victuals for increase.
 
-**TDB77:** Note in ama tungah a meet-in sum leitawi pia loin, ama tungah a meet-in na an uh zong na pia kei ding uh hi.
+**TDB77:** Note in ama tungah a meet-in sum leitawi pia loin, ama tungah a meet-in na an-te zong na pia kei ding-te hi.
 
-**ZVS:** Note in ama tungah a meetin sum leitawi pialoin, ama tungah a meetin na an uh zong na pia kei ding uh hi.
+**ZVS:** Note in ama tungah a meetin sum leitawi pialoin, ama tungah a meetin na an-te zong na pia kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | plural: uh marker
 
 ### v38
 **EN:** I am the
 
-**TDB77:** Keimah in note’ Pasian ahi ding leh, note tungah Kanaan leitang a hong pia dingin Izipt gam panin note a hong paikhiatpih Topa na Pasian uh ka hi hi.
+**TDB77:** Keimah in note’ Pasian ahi ding leh, note tungah Kanaan leitang a hong pia dingin Izipt gam panin note a hong paikhiatpih Topa na Pasian-te ka hi hi.
 
-**ZVS:** Kei pen note' Pasian ahi ding leh, note tungah Kanaan leitang a hong pia dingin Egypt gam panin note a hong paikhiatpih { Topa } na Pasian uh ka hi hi.
+**ZVS:** Kei pen note' Pasian ahi ding leh, note tungah Kanaan leitang a hong pia dingin Egypt gam panin note a hong paikhiatpih { Topa } na Pasian-te ka hi hi.
 
 **Grammar:** purpose: in order to
 
@@ -390,7 +390,7 @@
 ### v42
 **EN:** For they are my servants, which I brought forth out of the land of Egypt: they shall not be sold as bondmen.
 
-**TDB77:** Bang hang hiam cih leh amaute in Izipt gam panin ka paikhiatpih keima nasemte ahi uh hi; a amaute sila-in kizuak lo ding hi.
+**TDB77:** Bang hang hiam cih leh amaute in Izipt gam panin ka paikhiatpih keima nasemte ahi-te hi; a amaute sila-in kizuak lo ding hi.
 
 **ZVS:** Bang hang hiam cih leh amaute pen Egypt gam panin ka paikhiatpih keima nasemte hi a, amaute sila-in kizuaklo ding hi.
 
@@ -399,43 +399,43 @@
 ### v43
 **EN:** Thou shalt not rule over him with rigour; but shalt fear thy God.
 
-**TDB77:** Note in hih gawpgawpna tawh amah na uk kei ding uh a, na Pasian uh na zahtak ding uh hi.
+**TDB77:** Note in hih gawpgawpna tawh amah na uk kei ding-te a, na Pasian-te na zahtak ding-te hi.
 
 **Grammar:** future: will | negation: kei | plural: uh marker
 
 ### v44
 **EN:** Both thy bondmen, and thy bondmaids, which thou shalt have, shall be of the heathen that are round about you; of them shall ye buy bondmen and bondmaids.
 
-**TDB77:** Note in na neih theih ding uh sila pasal leh sila numeite in: note in na kimkot uh a, om minamte lak panin sila pasal leh sila numei na lei thei ding uh hi.
+**TDB77:** Note in na neih theih ding-te sila pasal leh sila numeite in: note in na kimkot-te a, om minamte lak panin sila pasal leh sila numei na lei thei ding-te hi.
 
-**ZVS:** Note in na neih theih ding uh sila numei leh sila pasalte hih bang ahi hi: Na kimkot uha om minam dangte lak panin sila numei leh sila pasal na lei thei ding uh hi.
+**ZVS:** Note in na neih theih ding-te sila numei leh sila pasalte hih bang ahi hi: Na kimkot uha om minam dangte lak panin sila numei leh sila pasal na lei thei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v45
 **EN:** Moreover of the children of the strangers that do sojourn among you, of them shall ye buy, and of their families that are with you, which they begat in your land: and they shall be your possession.
 
-**TDB77:** Note in na gam sung uhah a suak, note lakah a hong peem mi khualte leh note tawh a om amau’ innkuante lak panin zong na lei thei ding uh hi; amaute in nomau’ aa hi thei ding uh hi.
+**TDB77:** Note in na gam sung uhah a suak, note lakah a hong peem mi khualte leh note tawh a om amau’ innkuante lak panin zong na lei thei ding-te hi; amaute in nomau’ aa hi thei ding-te hi.
 
-**ZVS:** Note in na gamsung uhah a suak, note lakah a hong peem khualmite leh note tawh a om amau' innkuante lak panin zong na lei thei ding uh a, amaute pen nomau-a' hi thei ding uh hi.
+**ZVS:** Note in na gamsung uhah a suak, note lakah a hong peem khualmite leh note tawh a om amau' innkuante lak panin zong na lei thei ding-te a, amaute pen nomau-a' hi thei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v46
 **EN:** And ye shall take them as an inheritance for your children after you, to inherit them for a possession; they shall be your bondmen for ever: but over your brethren the children of Israel, ye shall not rule one over another with rigour.
 
-**TDB77:** Note in amaute pen note khit ciangin na tapate uh tungah amau’ neih tawntung dingin a luah dingin na pia thei ding uh hi; note in sila-in amaute na nei thei ding uh a, ahih hangin na sanggam uh Israel mite khat leh khat hih gawpgawpna tawh na ki-uk kei ding uh hi.
+**TDB77:** Note in amaute pen note khit ciangin na tapate-te tungah amau’ neih tawntung dingin a luah dingin na pia thei ding-te hi; note in sila-in amaute na nei thei ding-te a, ahih hangin na sanggam-te Israel mite khat leh khat hih gawpgawpna tawh na ki-uk kei ding-te hi.
 
-**ZVS:** Note in amaute pen note' khit ciangin na tapate uh tungah amau' neih tawntung dingin a luah dingin na pia thei ding uh hi. Note in sila-in amaute na nei thei ding uh a, ahih hangin na sanggam uh Israel mite khatlekhat hih gawpgawpna tawh na ki-uk kei ding uh hi.
+**ZVS:** Note in amaute pen note' khit ciangin na tapate-te tungah amau' neih tawntung dingin a luah dingin na pia thei ding-te hi. Note in sila-in amaute na nei thei ding-te a, ahih hangin na sanggam-te Israel mite khatlekhat hih gawpgawpna tawh na ki-uk kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | plural: uh marker
 
 ### v47
 **EN:** And if a sojourner or stranger wax rich by thee, and thy brother that dwelleth by him wax poor, and sell himself unto the stranger or sojourner by thee, or to the stock of the stranger's family:
 
-**TDB77:** “Note tawh a om khualmi ahih kei leh peemta khat hong hau a, ama kianga om na sanggampa uh zawngin, no tawh a om khualmipa tung ahi a, peemta-pa tung ahi zongin, tua ahih kei leh khualmipa innkuan khatpeuh peuh tungah amah a kizuak leh,
+**TDB77:** “Note tawh a om khualmi ahih kei leh peemta khat hong hau a, ama kianga om na sanggampa-te zawngin, no tawh a om khualmipa tung ahi a, peemta-pa tung ahi zongin, tua ahih kei leh khualmipa innkuan khatpeuh peuh tungah amah a kizuak leh,
 
-**ZVS:** “Note lakah a teng khualmi ahih kei leh peemta khat hong hau a, ama kianga om na sanggampa uh zawngin, no tawh a om khualmipa tung ahi a, peemta mipa tungah ahi zongin, tua ahih kei leh khualmipa' innkuan khat peuhpeuh tungah amah a kizuak leh,
+**ZVS:** “Note lakah a teng khualmi ahih kei leh peemta khat hong hau a, ama kianga om na sanggampa-te zawngin, no tawh a om khualmipa tung ahi a, peemta mipa tungah ahi zongin, tua ahih kei leh khualmipa' innkuan khat peuhpeuh tungah amah a kizuak leh,
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -505,9 +505,9 @@
 ### v55
 **EN:** For unto me the children of Israel are servants; they are my servants whom I brought forth out of the land of Egypt: I am the
 
-**TDB77:** Bang hang hiam cih leh Israel mite in kei adingin nasemte ahi uh hi; amaute pen Izipt gam panin keimah in ka paikhiatpih keima nasemte ahi uh hi: keimah in Topa na Pasian uh ka hi hi.
+**TDB77:** Bang hang hiam cih leh Israel mite in kei adingin nasemte ahi-te hi; amaute pen Izipt gam panin keimah in ka paikhiatpih keima nasemte ahi-te hi: keimah in Topa na Pasian-te ka hi hi.
 
-**ZVS:** Bang hang hiam cih leh Israel mite pen kei-a' dingin nasemte ahi uh hi. Amaute pen Egypt gam panin keimah in ka paikhiatpih keima nasemte ahi uh hi; kei pen { Topa } na Pasian uh ka hi hi.
+**ZVS:** Bang hang hiam cih leh Israel mite pen kei-a' dingin nasemte ahi-te hi. Amaute pen Egypt gam panin keimah in ka paikhiatpih keima nasemte ahi-te hi; kei pen { Topa } na Pasian-te ka hi hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

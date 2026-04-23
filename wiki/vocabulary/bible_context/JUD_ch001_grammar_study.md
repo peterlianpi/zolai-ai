@@ -49,23 +49,23 @@
 ### v4
 **EN:** For there are certain men crept in unawares, who were before of old ordained to this condemnation, ungodly men, turning the grace of our God into lasciviousness, and denying the only Lord God, and our Lord Jesus Christ.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite Pasian’ hehpihna thupha in kihhuai tat nopna suaksakin, eite hong uk khat bek ahi Topa Zeisu Khazih nialin, Pasian’ thu a deih lo mite in hih thutanna thuak dingin tanglai pek a, a kiciamtehsa mi kimkhat in note’ lakah hong lutsim uh hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite Pasian’ hehpihna thupha in kihhuai tat nopna suaksakin, eite hong uk khat bek ahi Topa Zeisu Khazih nialin, Pasian’ thu a deih lo mite in hih thutanna thuak dingin tanglai pek a, a kiciamtehsa mi kimkhat in note’ lakah hong lutsim-te hi.
 
-**ZVS:** Bang hang hiam cih leh Pasian' thu a ngaihsunlo mi pawlkhat, eite lakah kuama phawklohin hong lutsim uh a, amaute' mawh gamtat ngamnate a seelna-un Pasian' hehpihna thupha a lehlamin hei-in, eite in khat bek i neih i Mangpa leh i Topa ahi Jesuh Khrih a nial uh hi. Hihbang mite' gimthuak ding thu tanglai pekin Lai Siangtho in a gensa thu ahi hi.
+**ZVS:** Bang hang hiam cih leh Pasian' thu a ngaihsunlo mi pawlkhat, eite lakah kuama phawklohin hong lutsim-te a, amaute' mawh gamtat ngamnate a seelna-un Pasian' hehpihna thupha a lehlamin hei-in, eite in khat bek i neih i Mangpa leh i Topa ahi Jesuh Khrih a nial-te hi. Hihbang mite' gimthuak ding thu tanglai pekin Lai Siangtho in a gensa thu ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** I will therefore put you in remembrance, though ye once knew this, how that the Lord, having saved the people out of the land of Egypt, afterward destroyed them that believed not.
 
-**TDB77:** Note in na khempeuh thakhatin na theih uh hangin note ka hong phawksak nop thu in: Topa in Izipt gam sung mi pawlkhat a gupkhiat khit ciangin, a nung nihveina ah a um lo mite a siasak hi.
+**TDB77:** Note in na khempeuh thakhatin na theih-te hangin note ka hong phawksak nop thu in: Topa in Izipt gam sung mi pawlkhat a gupkhiat khit ciangin, a nung nihveina ah a um lo mite a siasak hi.
 
-**ZVS:** Note in na theihsa uh ahi ta zongin ka hong phawksak nop thu in: Topa in Egypt gam panin Israel mite honkhia khin napi-in amah a umlo mite a nung ciangin susiagawp hi.
+**ZVS:** Note in na theihsa-te ahi ta zongin ka hong phawksak nop thu in: Topa in Egypt gam panin Israel mite honkhia khin napi-in amah a umlo mite a nung ciangin susiagawp hi.
 
 ### v6
 **EN:** And the angels which kept not their first estate, but left their own habitation, he hath reserved in everlasting chains under darkness unto the judgment of the great day.
 
-**TDB77:** Amau thu ngahna uh kem lo uh a, amau omna uh pan a paikhia vantungmite zong ni lian Ni-a thukhenna dongin khuamial sungah a tawntungin hencipin a khum hi.
+**TDB77:** Amau thu ngahna-te kem lo-te a, amau omna-te pan a paikhia vantungmite zong ni lian Ni-a thukhenna dongin khuamial sungah a tawntungin hencipin a khum hi.
 
 **ZVS:** Amau' aana neih huamsung bekah omloin a omna panun a paikhia vantung mite zong leinuai khuamial sungah sikkol kibulhin amau' thu a kikhen ding Ni lianpi ngakin Pasian in a koihcip hi.
 
@@ -74,18 +74,18 @@
 ### v7
 **EN:** Even as Sodom and Gomorrha, and the cities about them in like manner, giving themselves over to fornication, and going after strange flesh, are set forth for an example, suffering the vengeance of eternal fire.
 
-**TDB77:** Tua mah bangin Sodom leh Gomorrah khuapi akipan a kimkot ah a om khuapite zong tua mite bangin a kihhuai noptatna ah gamta-in, a man lo pumpi’ deihna lungsim zui uh ahih maninah, meikuang tawntung daan thuakin, thu hilhkholh nading lim ahihna uh a kilang hi.
+**TDB77:** Tua mah bangin Sodom leh Gomorrah khuapi akipan a kimkot ah a om khuapite zong tua mite bangin a kihhuai noptatna ah gamta-in, a man lo pumpi’ deihna lungsim zui-te ahih maninah, meikuang tawntung daan thuakin, thu hilhkholh nading lim ahihna-te a kilang hi.
 
-**ZVS:** Sodom khua leh Gomorrah khua leh a kiima om khuapi mite zong tua vantung mite mah bangin gamta uh a, numei tawh mawhnopna bek thamloin pasal leh pasal kilunggulhna ciangdong nei uh ahih manin midangte' etteh dingin tawntung meikuang a thuak uh hi.
+**ZVS:** Sodom khua leh Gomorrah khua leh a kiima om khuapi mite zong tua vantung mite mah bangin gamta-te a, numei tawh mawhnopna bek thamloin pasal leh pasal kilunggulhna ciangdong nei-te ahih manin midangte' etteh dingin tawntung meikuang a thuak-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Likewise also these filthy dreamers defile the flesh, despise dominion, and speak evil of dignities.
 
-**TDB77:** Tua mah bangin tua mite in tua bangin a pumpi uh kihhuaisak a, ukna thu nial-in, vanmite a gensia uh hi.
+**TDB77:** Tua mah bangin tua mite in tua bangin a pumpi-te kihhuaisak a, ukna thu nial-in, vanmite a gensia-te hi.
 
-**ZVS:** Tua mite mah bangin hih mite zong thumu-in kinei-in amau pumpi thanghuaisak uh a, Pasian' thu nialin tunglama om minthan'na a neite a simmawhbawl uh hi.
+**ZVS:** Tua mite mah bangin hih mite zong thumu-in kinei-in amau pumpi thanghuaisak-te a, Pasian' thu nialin tunglama om minthan'na a neite a simmawhbawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -101,36 +101,36 @@
 ### v10
 **EN:** But these speak evil of those things which they know not: but what they know naturally, as brute beasts, in those things they corrupt themselves.
 
-**TDB77:** Tua mite in ahih uh leh, amau theih loh na peuhpeuh a kosia uh hi. A ngaihsun thei lo ganhingte bangin ngeina bangin a theihtheih nate uh hangin, amau pumpi uh a siasak uh hi.
+**TDB77:** Tua mite in ahih-te leh, amau theih loh na peuhpeuh a kosia-te hi. A ngaihsun thei lo ganhingte bangin ngeina bangin a theihtheih nate-te hangin, amau pumpi-te a siasak-te hi.
 
-**ZVS:** Ahi zongin hih mite in a theihtel loh uh thute simmawhbawl uh a, ganhing bangin a pian'pih lungsim uh tawh gamta uh ahih manin siatna thuaklawh uh hi.
+**ZVS:** Ahi zongin hih mite in a theihtel loh-te thute simmawhbawl-te a, ganhing bangin a pian'pih lungsim-te tawh gamta-te ahih manin siatna thuaklawh-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** Woe unto them! for they have gone in the way of Cain, and ran greedily after the error of Balaam for reward, and perished in the gainsaying of Core.
 
-**TDB77:** Amaute in gimna a thuak ding uh hi. Bang hang hiam na cih uh leh, amaute in Kain’ lampi zui-in thaman ngah dingin Balaam’ mawhna a manlangin zui-in a delh uh a, Korah’ lehdona bangin a kisia uh hi.
+**TDB77:** Amaute in gimna a thuak ding-te hi. Bang hang hiam na cih-te leh, amaute in Kain’ lampi zui-in thaman ngah dingin Balaam’ mawhna a manlangin zui-in a delh-te a, Korah’ lehdona bangin a kisia-te hi.
 
-**ZVS:** Hih mite-a' dingin dahhuai mahmah hi. Bang hang hiam cih leh Kain' gamtat bangin gamta-in, sum ngaihsutna-in Balaam' khialh bangin khial uh a, Korah' lehdo bangin lehdo-in siatna thuak uh hi.
+**ZVS:** Hih mite-a' dingin dahhuai mahmah hi. Bang hang hiam cih leh Kain' gamtat bangin gamta-in, sum ngaihsutna-in Balaam' khialh bangin khial-te a, Korah' lehdo bangin lehdo-in siatna thuak-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** These are spots in your feasts of charity, when they feast with you, feeding themselves without fear: clouds they are without water, carried about of winds; trees whose fruit withereth, without fruit, twice dead, plucked up by the roots;
 
-**TDB77:** Tua mite in note ki-itna pawite ah note tawh an a nekkhawm a dawn khawm lai takun, lau loin amaute kham tak kivakin pawi sungah a nin a kisawh tuucing ahi uh hi; tui om lo, huih in a leen’pih meii bang ahi zongin, pulhkhia-in a gah om lo nihvei si-in a bul pan a kibotkhia singkung bang ahi zongin;
+**TDB77:** Tua mite in note ki-itna pawite ah note tawh an a nekkhawm a dawn khawm lai takun, lau loin amaute kham tak kivakin pawi sungah a nin a kisawh tuucing ahi-te hi; tui om lo, huih in a leen’pih meii bang ahi zongin, pulhkhia-in a gah om lo nihvei si-in a bul pan a kibotkhia singkung bang ahi zongin;
 
-**ZVS:** Note' annek khopna-ah zumnamel neiloin hong omgawp uh ahih manin hong siatsuah uh a, amau' pumpi bek ngaihsun uh hi. Amaute pen cikmahin guah a zusak ngeilo, huih in a letkhiatmang meiipi, tuk hun laitak nangawnin a gah a gahlo, kizunglotin a keutum singkungte,
+**ZVS:** Note' annek khopna-ah zumnamel neiloin hong omgawp-te ahih manin hong siatsuah-te a, amau' pumpi bek ngaihsun-te hi. Amaute pen cikmahin guah a zusak ngeilo, huih in a letkhiatmang meiipi, tuk hun laitak nangawnin a gah a gahlo, kizunglotin a keutum singkungte,
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Raging waves of the sea, foaming out their own shame; wandering stars, to whom is reserved the blackness of darkness for ever.
 
-**TDB77:** amau zumna thu a phuansak tui kilok gilo bang ahi zongin, khuamial pha mahmah a tawntungin amaute ading a kikoih khol a, a om aksi leeng bang ahi zongin a suak uh hi.
+**TDB77:** amau zumna thu a phuansak tui kilok gilo bang ahi zongin, khuamial pha mahmah a tawntungin amaute ading a kikoih khol a, a om aksi leeng bang ahi zongin a suak-te hi.
 
-**ZVS:** a sepna uh tawh amau mah' maizumna ding a piangsak tuipi hualte, leh Pasian in amaute' omna dingin leisung khuamial thukpi a koihsak tawntung, a lampial aksite tawh kibang bek uh hi.
+**ZVS:** a sepna-te tawh amau mah' maizumna ding a piangsak tuipi hualte, leh Pasian in amaute' omna dingin leisung khuamial thukpi a koihsak tawntung, a lampial aksite tawh kibang bek-te hi.
 
 **Grammar:** intensifier: very/greatly | reciprocal: ki- prefix | plural: uh marker
 
@@ -144,25 +144,25 @@
 ### v15
 **EN:** To execute judgment upon all, and to convince all that are ungodly among them of all their ungodly deeds which they have ungodly committed, and of all their hard speeches which ungodly sinners have spoken against him.
 
-**TDB77:** Pasian’ thu a deih lo mi khempeuh in Pasian deih loh a bawlna uh na khempeuh akipan Pasian’ thu a deih loh uh mawhna a neite in, Topa tungah gensiatna kam khempeuh a kilangsak ding ahi zongin, Topa in a kisim zo lo misiangthote tawh hong paikhawm ding hi,” ci-in a genkhol hi.
+**TDB77:** Pasian’ thu a deih lo mi khempeuh in Pasian deih loh a bawlna-te na khempeuh akipan Pasian’ thu a deih loh-te mawhna a neite in, Topa tungah gensiatna kam khempeuh a kilangsak ding ahi zongin, Topa in a kisim zo lo misiangthote tawh hong paikhawm ding hi,” ci-in a genkhol hi.
 
-**ZVS:** Pasian' deihna bangin a gamtatlohna hang uh leh kam hoihlopipi zangin Pasian a gensiatnate uh hangin Pasian' deihna bangin a gamtalo mite tungah thu khenin mawhsakna pia ding hi,” na ci hi.
+**ZVS:** Pasian' deihna bangin a gamtatlohna hang-te leh kam hoihlopipi zangin Pasian a gensiatnate-te hangin Pasian' deihna bangin a gamtalo mite tungah thu khenin mawhsakna pia ding hi,” na ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v16
 **EN:** These are murmurers, complainers, walking after their own lusts; and their mouth speaketh great swelling words, having men's persons in admiration because of advantage.
 
-**TDB77:** Tua mite in phunin a mawhsak thei mi, amaute lunggulh deihgawhna bangin a gamta thei mi, a kam un kisaktheihna thu a gen thei mi, amau noptuamna ngaihsunin mi maitang a zahtak thei mi ahi uh hi.
+**TDB77:** Tua mite in phunin a mawhsak thei mi, amaute lunggulh deihgawhna bangin a gamta thei mi, a kam un kisaktheihna thu a gen thei mi, amau noptuamna ngaihsunin mi maitang a zahtak thei mi ahi-te hi.
 
-**ZVS:** Hih mite a tawntungin phunin khatlekhat mawhna kizong uh a, amau pumpi deihna bangun gamta-in kiphasak uh a, phattuamna a ngah theihna dingun midangte a phat uh hi.
+**ZVS:** Hih mite a tawntungin phunin khatlekhat mawhna kizong-te a, amau pumpi deihna bangun gamta-in kiphasak-te a, phattuamna a ngah theihna dingun midangte a phat-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** But, beloved, remember ye the words which were spoken before of the apostles of our Lord Jesus Christ;
 
-**TDB77:** Ka itte aw, note na hih uh leh, i Topa Zeisu Khazih’ sawltakte in a masa-in a genkholh thute na phawk un.
+**TDB77:** Ka itte aw, note na hih-te leh, i Topa Zeisu Khazih’ sawltakte in a masa-in a genkholh thute na phawk un.
 
 **ZVS:** Ahi zongin ka itte aw, i Topa Jesuh Khrih' sawltakte in note tungah hong gensa thute na phawk un.
 
@@ -171,25 +171,25 @@
 ### v18
 **EN:** How that they told you there should be mockers in the last time, who should walk after their own ungodly lusts.
 
-**TDB77:** Amaute in, “A nunung bel hunin Pasian’ deihlohna tawh kipawl amau pumpi uh deihgawhnate bangin zui-in, a kosia thei mite hong kilang ding uh hi,” ci-in note kiangah hong gen zo uh hi.
+**TDB77:** Amaute in, “A nunung bel hunin Pasian’ deihlohna tawh kipawl amau pumpi-te deihgawhnate bangin zui-in, a kosia thei mite hong kilang ding-te hi,” ci-in note kiangah hong gen zo-te hi.
 
-**ZVS:** Amaute in note kiangah, “Hun nunung lam ciangin Pasian' deihna tawh a kituaklo amau pumpi deihna zui-in note a hong simmawhbawl mi pawlkhat hong piang ding hi,” hong ci uh hi.
+**ZVS:** Amaute in note kiangah, “Hun nunung lam ciangin Pasian' deihna tawh a kituaklo amau pumpi deihna zui-in note a hong simmawhbawl mi pawlkhat hong piang ding hi,” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** These be they who separate themselves, sensual, having not the Spirit.
 
-**TDB77:** Tua mite in Kha Siangtho nei lo uh a, pawlpi kikhenna a bawl thei mi, pumpi deihna bek a zui thei mite ahi uh hi.
+**TDB77:** Tua mite in Kha Siangtho nei lo-te a, pawlpi kikhenna a bawl thei mi, pumpi deihna bek a zui thei mite ahi-te hi.
 
-**ZVS:** Hih mite in pawl kikhenna piangsakin, amau pumpi deihna bangin gamta uh a, Kha Siangtho zong neilo uh hi.
+**ZVS:** Hih mite in pawl kikhenna piangsakin, amau pumpi deihna bangin gamta-te a, Kha Siangtho zong neilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** But ye, beloved, building up yourselves on your most holy faith, praying in the Holy Ghost,
 
-**TDB77:** Ka itte aw, note in na hih uh leh, a siangtho mahmah upna tungah na pumpi uh lamin, Kha Siangtho tawh thungenin,
+**TDB77:** Ka itte aw, note in na hih-te leh, a siangtho mahmah upna tungah na pumpi-te lamin, Kha Siangtho tawh thungenin,
 
 **ZVS:** Ahi zongin ka it note ahih leh a siangtho na upna uhah na kip semsem un la, Kha Siangtho vangliatna tawh thu na ngen un.
 
@@ -198,7 +198,7 @@
 ### v21
 **EN:** Keep yourselves in the love of God, looking for the mercy of our Lord Jesus Christ unto eternal life.
 
-**TDB77:** nuntak tawntungna ngah nadingin i Topa Zeisu Khazih’ hehpihna na ngak lai takun, Pasian’ itna sungah na pumpi uh kemin om un.
+**TDB77:** nuntak tawntungna ngah nadingin i Topa Zeisu Khazih’ hehpihna na ngak lai takun, Pasian’ itna sungah na pumpi-te kemin om un.
 
 **ZVS:** I Topa Jesuh Khrih in a hong hehpihna tawh nuntak tawntungna hong piakding na ngakkawmun Pasian' itna sungah na kip un.
 
@@ -216,7 +216,7 @@
 ### v23
 **EN:** And others save with fear, pulling them out of the fire; hating even the garment spotted by the flesh.
 
-**TDB77:** Mi kimkhat mei sung pan kaikhia-in na gum un. Mi kimkhat zong pumpi deihgawhna hangin nin tawh a kisawh a puante nangawn uh muhthadah huaisa-in, lauthawng kawmin na hehpih un.
+**TDB77:** Mi kimkhat mei sung pan kaikhia-in na gum un. Mi kimkhat zong pumpi deihgawhna hangin nin tawh a kisawh a puante nangawn-te muhthadah huaisa-in, lauthawng kawmin na hehpih un.
 
 **ZVS:** meiphual sung panin dawhkhiat bangin midangte na honkhia un. Mi pawlkhatte' mawhna-ah note zong na siatkhak lohna dingun kidop kawmna tawh na huh un la, amau' gamtat hoihlo mawhnate na mudah un.
 

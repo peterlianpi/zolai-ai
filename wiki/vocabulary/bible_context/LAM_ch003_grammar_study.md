@@ -131,9 +131,9 @@
 ### v14
 **EN:** I was a derision to all my people; and their song all the day.
 
-**TDB77:** Mite in sun tawntung hong nuihsan uh a, leitung bup in ciamnuihna-in a hong nei uh hi.
+**TDB77:** Mite in sun tawntung hong nuihsan-te a, leitung bup in ciamnuihna-in a hong nei-te hi.
 
-**ZVS:** Mite in sun tawntung hong nuihsan niloh uh a, leitung bup in ciamnuihna-in a hong nei uh hi.
+**ZVS:** Mite in sun tawntung hong nuihsan niloh-te a, leitung bup in ciamnuihna-in a hong nei-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -361,9 +361,9 @@
 ### v42
 **EN:** We have transgressed and have rebelled: thou hast not pardoned.
 
-**TDB77:** “Topa aw ka khial khin uh a, nang hong lehdo kha ka hih manun ka mawhna uh na hong maisak kei hi.
+**TDB77:** “Topa aw ka khial khin-te a, nang hong lehdo kha ka hih manun ka mawhna-te na hong maisak kei hi.
 
-**ZVS:** “{ Topa } aw, nang tungah kong khial uh a, hong lehdokha ka hih manun ka mawhna uh na hong maisak nai kei hi.
+**ZVS:** “{ Topa } aw, nang tungah kong khial-te a, hong lehdokha ka hih manun ka mawhna-te na hong maisak nai kei hi.
 
 **Grammar:** completed: already done | negation: kei | plural: uh marker
 
@@ -379,9 +379,9 @@
 ### v44
 **EN:** Thou hast covered thyself with a cloud, that our prayer should not pass through.
 
-**TDB77:** Na hehna in meiipi zahin sah lua ahih manin, ka thungetna uh na kiang a hong tung zo kei hi.
+**TDB77:** Na hehna in meiipi zahin sah lua ahih manin, ka thungetna-te na kiang a hong tung zo kei hi.
 
-**ZVS:** Na hehna, meiipi zahin sah mahmah ahih manin ka thungetna uh na kiang a hong tungzo kei hi.
+**ZVS:** Na hehna, meiipi zahin sah mahmah ahih manin ka thungetna-te na kiang a hong tungzo kei hi.
 
 **Grammar:** negation: kei | causal: because | reciprocal: ki- prefix
 
@@ -397,16 +397,16 @@
 ### v46
 **EN:** All our enemies have opened their mouths against us.
 
-**TDB77:** Ka galte khempeuh in hong simmawhin a hong zahpih uh hi.
+**TDB77:** Ka galte khempeuh in hong simmawhin a hong zahpih-te hi.
 
-**ZVS:** “Ka galte khempeuh un hong simmawhin a hong zahpih uh hi.
+**ZVS:** “Ka galte khempeuh un hong simmawhin a hong zahpih-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v47
 **EN:** Fear and a snare is come upon us, desolation and destruction.
 
-**TDB77:** Siatna bekbek tawh kidimin, kihtakna leh launa tawh ka nungta uh hi.
+**TDB77:** Siatna bekbek tawh kidimin, kihtakna leh launa tawh ka nungta-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -445,18 +445,18 @@
 ### v52
 **EN:** Mine enemies chased me sore, like a bird, without cause.
 
-**TDB77:** A thu om lopi in ka galte in hong mudah uh a, vasa siah bangin thang a hong siah uh hi.
+**TDB77:** A thu om lopi in ka galte in hong mudah-te a, vasa siah bangin thang a hong siah-te hi.
 
-**ZVS:** “A thu omlopi-in ka galte in hong mudah uh a, vasa siah bangin thang a hong siah uh hi.
+**ZVS:** “A thu omlopi-in ka galte in hong mudah-te a, vasa siah bangin thang a hong siah-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v53
 **EN:** They have cut off my life in the dungeon, and cast a stone upon me.
 
-**TDB77:** Leihawm thukpi a kawt sungah hong hing khiat uh a, suangtumpi tawh a hong sincip uh hi.
+**TDB77:** Leihawm thukpi a kawt sungah hong hing khiat-te a, suangtumpi tawh a hong sincip-te hi.
 
-**ZVS:** Leihawm thukpi kawt sungah hong hing khiat uh a, suangtumpi tawh a hong sincip uh hi.
+**ZVS:** Leihawm thukpi kawt sungah hong hing khiat-te a, suangtumpi tawh a hong sincip-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -515,32 +515,32 @@
 ### v60
 **EN:** Thou hast seen all their vengeance and all their imaginations against me.
 
-**TDB77:** Ka galte’ hong muhdahna leh a vaihawm simna thute uh na thei khin zo hi.
+**TDB77:** Ka galte’ hong muhdahna leh a vaihawm simna thute-te na thei khin zo hi.
 
-**ZVS:** Ka galte' hong muhdahna leh a vaihawm simna thute uh na thei khinzo hi.
+**ZVS:** Ka galte' hong muhdahna leh a vaihawm simna thute-te na thei khinzo hi.
 
 ### v61
 **EN:** Thou hast heard their reproach, O
 
-**TDB77:** Topa aw amau’ hong simmawhnate na thei zo a, a ngimnate khempeuh uh zong na thei zo hi.
+**TDB77:** Topa aw amau’ hong simmawhnate na thei zo a, a ngimnate khempeuh-te zong na thei zo hi.
 
-**ZVS:** “{ Topa } aw, amau' hong simmawhnate na thei khinzo a, a ngimnate khempeuh uh zong na theizo hi.
+**ZVS:** “{ Topa } aw, amau' hong simmawhnate na thei khinzo a, a ngimnate khempeuh-te zong na theizo hi.
 
 ### v62
 **EN:** The lips of those that rose up against me, and their device against me all the day.
 
-**TDB77:** Sun tawntung kei bawlsiat nading bekbek kamkumin vai a hawm tawntung uh hi.
+**TDB77:** Sun tawntung kei bawlsiat nading bekbek kamkumin vai a hawm tawntung-te hi.
 
-**ZVS:** Sun tawntung keimah bawlsiat ding bekbek kikumin a vaihawm tawntung uh hi.
+**ZVS:** Sun tawntung keimah bawlsiat ding bekbek kikumin a vaihawm tawntung-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v63
 **EN:** Behold their sitting down, and their rising up; I am their musick.
 
-**TDB77:** Zingsang a kipan nitak dong a hong zahpih uh hi.
+**TDB77:** Zingsang a kipan nitak dong a hong zahpih-te hi.
 
-**ZVS:** Zingsanga kipan nitak dong a hong zahpih uh hi.
+**ZVS:** Zingsanga kipan nitak dong a hong zahpih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

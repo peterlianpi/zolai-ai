@@ -35,18 +35,18 @@
 ### v2
 **EN:** Son of man, thou dwellest in the midst of a rebellious house, which have eyes to see, and see not; they have ears to hear, and hear not: for they are a rebellious house.
 
-**TDB77:** “Ezekiel aw, a lehdo thei mite lakah a teeng na hi hi. Amaute in mit nei napi-in khua mu lo uh a, bil nei napi-in bangmah za thei lo uh hi. Amaute pen a lehdo thei mite ahihna hang uh ahi hi.
+**TDB77:** “Ezekiel aw, a lehdo thei mite lakah a teeng na hi hi. Amaute in mit nei napi-in khua mu lo-te a, bil nei napi-in bangmah za thei lo-te hi. Amaute pen a lehdo thei mite ahihna hang-te ahi hi.
 
-**ZVS:** “Mihing ahi Ezekiel aw, a lehdo thei mite lakah a teng na hi hi. Amaute in mit nei napi-in khua mulo uh hi. Amaute pen a lehdo thei mite ahihna hang uh ahi hi.
+**ZVS:** “Mihing ahi Ezekiel aw, a lehdo thei mite lakah a teng na hi hi. Amaute in mit nei napi-in khua mulo-te hi. Amaute pen a lehdo thei mite ahihna hang-te ahi hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
 ### v3
 **EN:** Therefore, thou son of man, prepare thee stuff for removing, and remove by day in their sight; and thou shalt remove from thy place to another place in their sight: it may be they will consider, though they be a rebellious house.
 
-**TDB77:** Ezekiel aw, tu-in galtai dingte’ gamtat bangin na van puak ding guang in la, suntangpi-in paikhia in. Na omna panin na paikhiat lam mi khempeuh musak in. A lehdo thei mi ahih tei hangun a thu thei thei kha ding uh hi.
+**TDB77:** Ezekiel aw, tu-in galtai dingte’ gamtat bangin na van puak ding guang in la, suntangpi-in paikhia in. Na omna panin na paikhiat lam mi khempeuh musak in. A lehdo thei mi ahih tei hangun a thu thei thei kha ding-te hi.
 
-**ZVS:** Ezekiel aw, tu-in galtai dingte' gamtat bangin na van puak ding guang in la, suntangpi-in paikhia in. Na omna panin na paikhiatlam mi khempeuh musak in. A lehdo thei mi ahih tei hangun a thu theithei khading uh hi.
+**ZVS:** Ezekiel aw, tu-in galtai dingte' gamtat bangin na van puak ding guang in la, suntangpi-in paikhia in. Na omna panin na paikhiatlam mi khempeuh musak in. A lehdo thei mi ahih tei hangun a thu theithei khading-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -98,7 +98,7 @@
 
 **TDB77:** “Ezekiel aw, a lehdo thei Israel mite in na gamtatna thu nang hong dong hi.
 
-**ZVS:** “Mihing ahi Ezekiel aw, a lehdo thei Israel mite in na gamtatna thu nang hong dot uh ciangin,
+**ZVS:** “Mihing ahi Ezekiel aw, a lehdo thei Israel mite in na gamtatna thu nang hong dot-te ciangin,
 
 ### v10
 **EN:** Say thou unto them, Thus saith the Lord
@@ -112,9 +112,9 @@
 ### v11
 **EN:** Say, I am your sign: like as I have done, so shall it be done unto them: they shall remove and go into captivity.
 
-**TDB77:** Na gamtatnasate pen amaute tunga thu piang ding lahna lim ahihna thu gen in. Amaute pen a kiman mi, sal a suak ding ahi uh hi.
+**TDB77:** Na gamtatnasate pen amaute tunga thu piang ding lahna lim ahihna thu gen in. Amaute pen a kiman mi, sal a suak ding ahi-te hi.
 
-**ZVS:** Na gamtatnasate pen amaute tungah a thupiang ding lahna lim ahihna thu gen in. Amaute pen a kiman, sal a suak ding mi ahi uh hi.
+**ZVS:** Na gamtatnasate pen amaute tungah a thupiang ding lahna lim ahihna thu gen in. Amaute pen a kiman, sal a suak ding mi ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -148,18 +148,18 @@
 ### v15
 **EN:** And they shall know that I am the
 
-**TDB77:** Minam dangte lak leh gam dangah amaute ka thehthang ciangin Topa ka hihna thu amaute in phawk ding uh hi.
+**TDB77:** Minam dangte lak leh gam dangah amaute ka thehthang ciangin Topa ka hihna thu amaute in phawk ding-te hi.
 
-**ZVS:** Minam dangte' lak gamdangah amaute ka thehthang ciangin { Topa } ka hihna thu amaute in hong phawk ding uh hi.
+**ZVS:** Minam dangte' lak gamdangah amaute ka thehthang ciangin { Topa } ka hihna thu amaute in hong phawk ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v16
 **EN:** But I will leave a few men of them from the sword, from the famine, and from the pestilence; that they may declare all their abominations among the heathen whither they come; and they shall know that I am the
 
-**TDB77:** Ahi zongin gal sung, kialpi leh natna sung panin tawm khat ka suaktasak dinga minam dangte’ lak-a a omna mun panun a gamtatnasate uh a muhdahhuaina phawkin, keimah in Topa ka hihna thu hong thei ding uh hi,” hong ci hi.
+**TDB77:** Ahi zongin gal sung, kialpi leh natna sung panin tawm khat ka suaktasak dinga minam dangte’ lak-a a omna mun panun a gamtatnasate-te a muhdahhuaina phawkin, keimah in Topa ka hihna thu hong thei ding-te hi,” hong ci hi.
 
-**ZVS:** Ahi zongin galsung, kialpi, leh natna sung panin tawmkhat ka suaktasak ding a, minam dangte' lakah a omna mun panun a gamtatnasate uh a muhdahhuaina phawkin, kei pen { Topa } ka hihna thu hong thei ding uh hi,” a hong ci hi.
+**ZVS:** Ahi zongin galsung, kialpi, leh natna sung panin tawmkhat ka suaktasak ding a, minam dangte' lakah a omna mun panun a gamtatnasate-te a muhdahhuaina phawkin, kei pen { Topa } ka hihna thu hong thei ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -184,18 +184,18 @@
 ### v19
 **EN:** And say unto the people of the land, Thus saith the Lord
 
-**TDB77:** Hih banga na gamtatna pen, amaute gama om lai ahi Jerusalem khua mite tungah Topa Pasian’ thugenna ahihna thu va gen in. Amaute in launa liin’na tawh an ne-in tui dawn ding uh hi. Amau’ gam sunga teengte a gamtat hoih khat beek om lo ahih manin, a gam sunga om khempeuh kipaikhiatpih mang ding hi.
+**TDB77:** Hih banga na gamtatna pen, amaute gama om lai ahi Jerusalem khua mite tungah Topa Pasian’ thugenna ahihna thu va gen in. Amaute in launa liin’na tawh an ne-in tui dawn ding-te hi. Amau’ gam sunga teengte a gamtat hoih khat beek om lo ahih manin, a gam sunga om khempeuh kipaikhiatpih mang ding hi.
 
-**ZVS:** Hih bangin na gamtatna pen, amaute' gama omlai ahi Jerusalem khuamite tungah Topa { Pasian' } thugenna ahihna thu va gen in. Amaute in launa lin'na tawh an ne-in tui dawn ding uh hi. Amau' gamsungah a tengte a hoih gamtat khat beek omlo ahih manin, a gamsung uhah a om mi khempeuh kipai khiatpihmang ding hi.
+**ZVS:** Hih bangin na gamtatna pen, amaute' gama omlai ahi Jerusalem khuamite tungah Topa { Pasian' } thugenna ahihna thu va gen in. Amaute in launa lin'na tawh an ne-in tui dawn ding-te hi. Amau' gamsungah a tengte a hoih gamtat khat beek omlo ahih manin, a gamsung uhah a om mi khempeuh kipai khiatpihmang ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** And the cities that are inhabited shall be laid waste, and the land shall be desolate; and ye shall know that I am the
 
-**TDB77:** Mihing a dimna khuapite kisusia ding a, gamsung khempeuh gamkhing suak ding hi. Tua ciangin Topa ka hihna thu hong thei ding uh hi,” hong ci hi.
+**TDB77:** Mihing a dimna khuapite kisusia ding a, gamsung khempeuh gamkhing suak ding hi. Tua ciangin Topa ka hihna thu hong thei ding-te hi,” hong ci hi.
 
-**ZVS:** Mihing a dimna khuapite kisusia ding a, gamsung khempeuh gamkhing suak ding hi. Tua ciangin { Topa } ka hihna thu hong thei ding uh hi,” a hong ci hi.
+**ZVS:** Mihing a dimna khuapite kisusia ding a, gamsung khempeuh gamkhing suak ding hi. Tua ciangin { Topa } ka hihna thu hong thei ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -218,9 +218,9 @@
 ### v23
 **EN:** Tell them therefore, Thus saith the Lord
 
-**TDB77:** Tua ahih ciangin Topa Pasian ahi keimah in tua tawh kisai-in ka thugenna amaute kiangah gen in. Hih paunak ka beisakta ding a, Israel mite in genin a nei nawn kei ding uh hi. Tu-in a hun a naina leh genkholhnate a manin a tun’ nading thu amaute kiangah gen in.
+**TDB77:** Tua ahih ciangin Topa Pasian ahi keimah in tua tawh kisai-in ka thugenna amaute kiangah gen in. Hih paunak ka beisakta ding a, Israel mite in genin a nei nawn kei ding-te hi. Tu-in a hun a naina leh genkholhnate a manin a tun’ nading thu amaute kiangah gen in.
 
-**ZVS:** Tua ahih ciangin Topa { Pasian } ahi keimah in tua thu tawh kisai-in ka thugenna amaute kiangah va gen in. Hih paunak ka beisakta ding a, Israel mite in genin a nei nawn kei ding uh hi. Tu-in a hun a naina leh genkholhnate a manin a tun'na ding thu amaute kiangah va gen in.
+**ZVS:** Tua ahih ciangin Topa { Pasian } ahi keimah in tua thu tawh kisai-in ka thugenna amaute kiangah va gen in. Hih paunak ka beisakta ding a, Israel mite in genin a nei nawn kei ding-te hi. Tu-in a hun a naina leh genkholhnate a manin a tun'na ding thu amaute kiangah va gen in.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -254,9 +254,9 @@
 ### v27
 **EN:** Son of man, behold, they of the house of Israel say, The vision that he seeth is for many days to come, and he prophesieth of the times that are far off.
 
-**TDB77:** “Ezekiel aw, na maang muhnate leh na thugen kholhnate pen mailam hun saupi ciangin a piang pan dingin Israel mite in ngaihsun kha uh hi.
+**TDB77:** “Ezekiel aw, na maang muhnate leh na thugen kholhnate pen mailam hun saupi ciangin a piang pan dingin Israel mite in ngaihsun kha-te hi.
 
-**ZVS:** “Mihing ahi Ezekiel aw, na maangmuhnate leh na thugen kholhnate pen mailam hun saupi ciangin a hong piang pan dingin Israel mite in ngaihsunkha uh hi.
+**ZVS:** “Mihing ahi Ezekiel aw, na maangmuhnate leh na thugen kholhnate pen mailam hun saupi ciangin a hong piang pan dingin Israel mite in ngaihsunkha-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 

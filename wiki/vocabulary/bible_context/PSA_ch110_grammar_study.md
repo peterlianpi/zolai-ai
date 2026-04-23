@@ -38,9 +38,9 @@
 ### v3
 **EN:** Thy people shall be willing in the day of thy power, in the beauties of holiness from the womb of the morning: thou hast the dew of thy youth.
 
-**TDB77:** Na mihonte mual siangtho tungah na makaih ciangin, utna lungsim tawh na mite hong kipia ding uh hi. Daitui bangin zingsang ciangin na khangnona nangma tungah hong tung ding hi.
+**TDB77:** Na mihonte mual siangtho tungah na makaih ciangin, utna lungsim tawh na mite hong kipia ding-te hi. Daitui bangin zingsang ciangin na khangnona nangma tungah hong tung ding hi.
 
-**ZVS:** Nangma mihonte mual siangtho tungah na makaih ciangin, utna lungsim tawh na mite hong kipia ding uh hi. Daitui bangin zingsangin na khangnona nangma tungah hong tung ding hi.
+**ZVS:** Nangma mihonte mual siangtho tungah na makaih ciangin, utna lungsim tawh na mite hong kipia ding-te hi. Daitui bangin zingsangin na khangnona nangma tungah hong tung ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

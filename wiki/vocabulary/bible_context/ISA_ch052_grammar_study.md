@@ -54,27 +54,27 @@
 ### v4
 **EN:** For thus saith the Lord
 
-**TDB77:** Bang hang hiam cih leh Topa Pasian in hih bangin ci hi: Izipt gamah peemta dingin ka mite a masa in pai a, thu om lopi-in Assiria mite in amaute nengniam uh hi.
+**TDB77:** Bang hang hiam cih leh Topa Pasian in hih bangin ci hi: Izipt gamah peemta dingin ka mite a masa in pai a, thu om lopi-in Assiria mite in amaute nengniam-te hi.
 
-**ZVS:** Bang hang hiam cih leh Topa { Pasian } in hih bangin ci hi: Egypt gamah peemta dingin ka mite a masa-in pai uh a, tua banah thu omlopi-in Assiria in amaute nengniam uh hi.
+**ZVS:** Bang hang hiam cih leh Topa { Pasian } in hih bangin ci hi: Egypt gamah peemta dingin ka mite a masa-in pai-te a, tua banah thu omlopi-in Assiria in amaute nengniam-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v5
 **EN:** Now therefore, what have I here, saith the
 
-**TDB77:** Tu-in Babilon ah tua mah bangin amaute tungah piang leuleu hi. Thu om lopi-in sal-in om uh hi. Amau a ukte, kihihsakna tawh awng uh a, sunthapai-in keima min kisimmawh hi.
+**TDB77:** Tu-in Babilon ah tua mah bangin amaute tungah piang leuleu hi. Thu om lopi-in sal-in om-te hi. Amau a ukte, kihihsakna tawh awng-te a, sunthapai-in keima min kisimmawh hi.
 
-**ZVS:** Tu-in Babylon-ah tua bangmahin amaute tungah piang leuleu hi. Thu omlopi-in salin om uh hi. Amau a ukte, kihihsakna tawh awng uh a, sunthapai-in keima min kisimmawh hi.
+**ZVS:** Tu-in Babylon-ah tua bangmahin amaute tungah piang leuleu hi. Thu omlopi-in salin om-te hi. Amau a ukte, kihihsakna tawh awng-te a, sunthapai-in keima min kisimmawh hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Therefore my people shall know my name: therefore they shall know in that day that I am he that doth speak: behold, it is I.
 
-**TDB77:** Tua ahih ciangin ka mite in keima min hong thei ding uh a, thu a genkholpa pen keimah ka hihna tua ni ciangin amaute in hong thei ding uh hi; keimah in hih lai-ah ka om hi,” a ci hi.
+**TDB77:** Tua ahih ciangin ka mite in keima min hong thei ding-te a, thu a genkholpa pen keimah ka hihna tua ni ciangin amaute in hong thei ding-te hi; keimah in hih lai-ah ka om hi,” a ci hi.
 
-**ZVS:** Tua ahih ciangin ka mite in keima min hong thei ding uh a, thu a genpa pen keimah ka hihna tua ni ciangin amaute in hong thei ding uh hi. Keimah, hih lai-ah ka om hi,” a ci hi.
+**ZVS:** Tua ahih ciangin ka mite in keima min hong thei ding-te a, thu a genpa pen keimah ka hihna tua ni ciangin amaute in hong thei ding-te hi. Keimah, hih lai-ah ka om hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | plural: uh marker
 
@@ -90,9 +90,9 @@
 ### v8
 **EN:** Thy watchmen shall lift up the voice; with the voice together shall they sing: for they shall see eye to eye, when the
 
-**TDB77:** Ngai un, na galvilte un a aw uh sangsak a, amaute lungdamin lasa khawm uh hi; bang hang hiam cih leh Zion ah Topa hong pai kikna amaute in maitang kituahin mu uh hi.
+**TDB77:** Ngai un, na galvilte un a aw-te sangsak a, amaute lungdamin lasa khawm-te hi; bang hang hiam cih leh Zion ah Topa hong pai kikna amaute in maitang kituahin mu-te hi.
 
-**ZVS:** Ngai un, na galvilte un a aw uh sangsak a, amaute in lungdamin la sa khawm uh hi. Bang hang hiam cih leh Zion-ah { Topa } hong paikikna amaute in maitang kituahin a mu uh hi.
+**ZVS:** Ngai un, na galvilte un a aw-te sangsak a, amaute in lungdamin la sa khawm-te hi. Bang hang hiam cih leh Zion-ah { Topa } hong paikikna amaute in maitang kituahin a mu-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -108,9 +108,9 @@
 ### v10
 **EN:** The
 
-**TDB77:** Topa in minam khempeuh mai-ah ama khut siangtho lakkhia khin a, ama mite honkhia hi. Lei mong khempeuh in i Pasian’ hotkhiatna mu ding uh hi.
+**TDB77:** Topa in minam khempeuh mai-ah ama khut siangtho lakkhia khin a, ama mite honkhia hi. Lei mong khempeuh in i Pasian’ hotkhiatna mu ding-te hi.
 
-**ZVS:** { Topa } in minam khempeuh mai-ah a vangliatna siangtho zangin ama mite honkhia hi. Leitung mi khempeuh in i Pasian' hotkhiatna mu ding uh hi.
+**ZVS:** { Topa } in minam khempeuh mai-ah a vangliatna siangtho zangin ama mite honkhia hi. Leitung mi khempeuh in i Pasian' hotkhiatna mu ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -126,9 +126,9 @@
 ### v12
 **EN:** For ye shall not go out with haste, nor go by flight: for the
 
-**TDB77:** Note’ mai-ah Topa pai ding a, Israel Pasian pen note’ nungah hong cingpa hi ding ahih manin, note pen galtai-in paikhia loin, kinawhsa-in na paikhia kei ding uh hi.
+**TDB77:** Note’ mai-ah Topa pai ding a, Israel Pasian pen note’ nungah hong cingpa hi ding ahih manin, note pen galtai-in paikhia loin, kinawhsa-in na paikhia kei ding-te hi.
 
-**ZVS:** Note' mai-ah { Topa } pai ding a, Israel Pasian pen note' nungah hong cingpa hi ding ahih manin note galtai-in paikhia loin, a kinawhsa-in na paikhia kei ding uh hi.
+**ZVS:** Note' mai-ah { Topa } pai ding a, Israel Pasian pen note' nungah hong cingpa hi ding ahih manin note galtai-in paikhia loin, a kinawhsa-in na paikhia kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -144,18 +144,18 @@
 ### v14
 **EN:** As many were astonished at thee; his visage was so marred more than any man, and his form more than the sons of men:
 
-**TDB77:** Mi tampite in amah lamdang sa uh hi— mihing a bang nawn lo zah dongin nakpi takin a mai sia a, mihing a sun nawn lo zah dongin a meel sia hi—
+**TDB77:** Mi tampite in amah lamdang sa-te hi— mihing a bang nawn lo zah dongin nakpi takin a mai sia a, mihing a sun nawn lo zah dongin a meel sia hi—
 
-**ZVS:** Mi tampite in amah lamdang sa uh hi. Mihing a bang nawnlo zah dongin nakpi takin a mai sia a, mihing a sun nawnlo zah dongin a mel a sia hi.
+**ZVS:** Mi tampite in amah lamdang sa-te hi. Mihing a bang nawnlo zah dongin nakpi takin a mai sia a, mihing a sun nawnlo zah dongin a mel a sia hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** So shall he sprinkle many nations; the kings shall shut their mouths at him: for that which had not been told them shall they see; and that which they had not heard shall they consider.
 
-**TDB77:** tua ahih ciangin amah in minam tampite dipkua sak ding a, ama hangin kumpite in a kam uh cih ding uh hi; bang hang hiam cih leh amaute tunga a kigen ngei lo nate mu ding uh a, amaute in a zak ngei loh uh nate theitel ding uh hi,” ci hi.
+**TDB77:** tua ahih ciangin amah in minam tampite dipkua sak ding a, ama hangin kumpite in a kam-te cih ding-te hi; bang hang hiam cih leh amaute tunga a kigen ngei lo nate mu ding-te a, amaute in a zak ngei loh-te nate theitel ding-te hi,” ci hi.
 
-**ZVS:** Tua ahih ciangin amah in minam tampite dipkuasak ding a, ama hangin kumpite in a kam uh cih ding uh hi. Bang hang hiam cih leh amaute tungah a kigen ngeilo nate mu ding uh a, amaute in a zak ngeiloh uh nate theitel ding uh hi,” a ci hi.
+**ZVS:** Tua ahih ciangin amah in minam tampite dipkuasak ding a, ama hangin kumpite in a kam-te cih ding-te hi. Bang hang hiam cih leh amaute tungah a kigen ngeilo nate mu ding-te a, amaute in a zak ngeiloh-te nate theitel ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 

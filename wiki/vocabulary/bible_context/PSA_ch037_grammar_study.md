@@ -33,9 +33,9 @@
 ### v2
 **EN:** For they shall soon be cut down like the grass, and wither as the green herb.
 
-**TDB77:** Bang hang hiam cih leh amaute lopa bangin vul pak ding uh a, lokung hingte bangin keutum ding uh hi.
+**TDB77:** Bang hang hiam cih leh amaute lopa bangin vul pak ding-te a, lokung hingte bangin keutum ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh lopa bangin amaute vulpak ding uh a, lokung hingte bangin keutum ding uh hi.
+**ZVS:** Bang hang hiam cih leh lopa bangin amaute vulpak ding-te a, lokung hingte bangin keutum ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -94,9 +94,9 @@
 ### v9
 **EN:** For evildoers shall be cut off: but those that wait upon the
 
-**TDB77:** Bang hang hiam cih leh migilote kipuaseh ding a, ahih hangin Topa a ngakte in leitung luah ding uh hi.
+**TDB77:** Bang hang hiam cih leh migilote kipuaseh ding a, ahih hangin Topa a ngakte in leitung luah ding-te hi.
 
-**ZVS:** Bang hang hiam cih leh migilote kipuaseh ding a, ahih hangin { Topa } a ngakte in leitung luah ding uh hi.
+**ZVS:** Bang hang hiam cih leh migilote kipuaseh ding a, ahih hangin { Topa } a ngakte in leitung luah ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -112,9 +112,9 @@
 ### v11
 **EN:** But the meek shall inherit the earth; and shall delight themselves in the abundance of peace.
 
-**TDB77:** Ahih hangin lungnemte in leitang luahin, gen zawh lohin amaute in nuamsa ding uh hi.
+**TDB77:** Ahih hangin lungnemte in leitang luahin, gen zawh lohin amaute in nuamsa ding-te hi.
 
-**ZVS:** Ahih hangin lungnemte in leitung luahin, genzawh lohin amaute nuamsa ding uh hi.
+**ZVS:** Ahih hangin lungnemte in leitung luahin, genzawh lohin amaute nuamsa ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -137,18 +137,18 @@
 ### v14
 **EN:** The wicked have drawn out the sword, and have bent their bow, to cast down the poor and needy, and to slay such as be of upright conversation.
 
-**TDB77:** Mizawngte leh mi cimawhte suniam ding, thutang-a gamtate that dingin migilote in namsau dokin a thal uh a keek hi;
+**TDB77:** Mizawngte leh mi cimawhte suniam ding, thutang-a gamtate that dingin migilote in namsau dokin a thal-te a keek hi;
 
-**ZVS:** Mizawngte leh mi cimawhte a suniam ding, a thutangte a that dingin migilote in namsau dokin, a thal uh a keek hi.
+**ZVS:** Mizawngte leh mi cimawhte a suniam ding, a thutangte a that dingin migilote in namsau dokin, a thal-te a keek hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v15
 **EN:** Their sword shall enter into their own heart, and their bows shall be broken.
 
-**TDB77:** a namsau uh amau lungtang mah-ah tum ding a, a thalte uh kitan ding hi.
+**TDB77:** a namsau-te amau lungtang mah-ah tum ding a, a thalte-te kitan ding hi.
 
-**ZVS:** A namsau uh amau' lungtang mahah tumin, a thalte uh kitan ding hi.
+**ZVS:** A namsau-te amau' lungtang mahah tumin, a thalte-te kitan ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -180,18 +180,18 @@
 ### v19
 **EN:** They shall not be ashamed in the evil time: and in the days of famine they shall be satisfied.
 
-**TDB77:** siatna hun ciangin amaute kimaizumsak lo a, kial hun ciangin tampi nei uh hi.
+**TDB77:** siatna hun ciangin amaute kimaizumsak lo a, kial hun ciangin tampi nei-te hi.
 
-**ZVS:** Siatna hun ciangin amaute kimaizumsak lo a, kial hun ciangin tampi nei uh hi.
+**ZVS:** Siatna hun ciangin amaute kimaizumsak lo a, kial hun ciangin tampi nei-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v20
 **EN:** But the wicked shall perish, and the enemies of the
 
-**TDB77:** Ahih hangin migilote kisia hi; Topa’ galte pen lono etlawm tawh kibang hi, amaute mangthang uh hi—meikhu bangin mangthang uh hi.
+**TDB77:** Ahih hangin migilote kisia hi; Topa’ galte pen lono etlawm tawh kibang hi, amaute mangthang-te hi—meikhu bangin mangthang-te hi.
 
-**ZVS:** Ahih hangin migilote kisia hi. { Topa' } galte pen lono etlawm tawh kibang a, amaute mangthang pak uh hi. Meikhu bangin mangthang uh hi.
+**ZVS:** Ahih hangin migilote kisia hi. { Topa' } galte pen lono etlawm tawh kibang a, amaute mangthang pak-te hi. Meikhu bangin mangthang-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -209,7 +209,7 @@
 
 **TDB77:** Bang hang hiam cih leh Topa’ thupha piakte in leitang luah dinga, ahih hangin ama samsiatte kipuaseh ding hi.
 
-**ZVS:** Bang hang hiam cih leh { Topa' } thupha piakte in leitung luah ding uh a, ahih hangin a samsiatte kipuaseh ding hi.
+**ZVS:** Bang hang hiam cih leh { Topa' } thupha piakte in leitung luah ding-te a, ahih hangin a samsiatte kipuaseh ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

@@ -43,63 +43,63 @@
 ### v3
 **EN:** Then came forth unto him Eliakim, Hilkiah's son, which was over the house, and Shebna the scribe, and Joah, Asaph's son, the recorder.
 
-**TDB77:** Tua ciangin amah tawh kimu dingin Hilkiah’ tapa ahi kumpi inn sung saipa Eliakim leh lai-atpa Shebna leh Asaf tapa ahi thuciamtehpa Joah hong paikhia uh hi.
+**TDB77:** Tua ciangin amah tawh kimu dingin Hilkiah’ tapa ahi kumpi inn sung saipa Eliakim leh lai-atpa Shebna leh Asaf tapa ahi thuciamtehpa Joah hong paikhia-te hi.
 
-**ZVS:** Tua ciangin amah tawh a kimu dingin Hilkiah' tapa ahi kumpi innsung a saipa Eliakim leh lai-atpa Shebna, leh Asaf' tapa ahi thuciamtehpa Joah hong paikhia uh hi.
+**ZVS:** Tua ciangin amah tawh a kimu dingin Hilkiah' tapa ahi kumpi innsung a saipa Eliakim leh lai-atpa Shebna, leh Asaf' tapa ahi thuciamtehpa Joah hong paikhia-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v4
 **EN:** And Rabshakeh said unto them, Say ye now to Hezekiah, Thus saith the great king, the king of Assyria, What confidence is this wherein thou trustest?
 
-**TDB77:** Tua ciangin a galkap manglian in amaute kiangah a genna panin, “Hazekiah’ kiangah, ‘Kumpi lian ahi, Assiria kumpipa in hih bangin ci hi. Hih na lungmuanna uhah bang siksan na hi uh hiam?
+**TDB77:** Tua ciangin a galkap manglian in amaute kiangah a genna panin, “Hazekiah’ kiangah, ‘Kumpi lian ahi, Assiria kumpipa in hih bangin ci hi. Hih na lungmuanna uhah bang siksan na hi-te hiam?
 
-**ZVS:** Tua ciangin a ulianpa in amaute kiangah a genna panin, “Hezekiah kiangah, ‘Kumpi lian ahi Assiria kumpipa in hih bangin ci hi: Hih na lungmuan'na uhah bang siksan na hi uh hiam?
+**ZVS:** Tua ciangin a ulianpa in amaute kiangah a genna panin, “Hezekiah kiangah, ‘Kumpi lian ahi Assiria kumpipa in hih bangin ci hi: Hih na lungmuan'na uhah bang siksan na hi-te hiam?
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix
 
 ### v5
 **EN:** I say, sayest thou, (but they are but vain words) I have counsel and strength for war: now on whom dost thou trust, that thou rebellest against me?
 
-**TDB77:** Kampau lel pen galdo nadingin vaihawmna leh vaang-in ngaihsun na hi uh hiam? Kei nong lehdo nadingun kua suang na hi uh hiam?
+**TDB77:** Kampau lel pen galdo nadingin vaihawmna leh vaang-in ngaihsun na hi-te hiam? Kei nong lehdo nadingun kua suang na hi-te hiam?
 
-**ZVS:** Kampau lel pen galdona dingin vaihawmna leh vangin ngaihsun na hi uh hiam? Kei nong lehdona dingun kua suang na hi uh hiam?
+**ZVS:** Kampau lel pen galdona dingin vaihawmna leh vangin ngaihsun na hi-te hiam? Kei nong lehdona dingun kua suang na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
 ### v6
 **EN:** Lo, thou trustest in the staff of this broken reed, on Egypt; whereon if a man lean, it will go into his hand, and pierce it: so is Pharaoh king of Egypt to all that trust in him.
 
-**TDB77:** En un, ama tunga a kingam mipa’ khut a sun ding, a kikuaitansa pumpeng ciangkhut tawh a kibang, Izipt na suang uh hi. Amah a muang khempeuhte tungah Izipt kumpipa Faro, tua pumpeng bang hi lel hi.
+**TDB77:** En un, ama tunga a kingam mipa’ khut a sun ding, a kikuaitansa pumpeng ciangkhut tawh a kibang, Izipt na suang-te hi. Amah a muang khempeuhte tungah Izipt kumpipa Faro, tua pumpeng bang hi lel hi.
 
-**ZVS:** En un, ama tunga a kingam mipa' khut a sun ding, a kikuaitansa pumpeeng ciangkhut tawh a kibang Egypt na suang uh hi. Amah a muang khempeuhte' tungah Egypt kumpipa Faro, tua pumpeeng bang hi lel hi.
+**ZVS:** En un, ama tunga a kingam mipa' khut a sun ding, a kikuaitansa pumpeeng ciangkhut tawh a kibang Egypt na suang-te hi. Amah a muang khempeuhte' tungah Egypt kumpipa Faro, tua pumpeeng bang hi lel hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** But if thou say to me, We trust in the
 
-**TDB77:** Ahih hangin note in, “Topa ka Pasian uh ka suang uh hi,” a ci-a kinei na hih uh leh ama mun sangte leh biakna taute Hezekiah in lakhia-in, Judah leh Jerusalem tungah, “Hih biakna tau mai-ah na bia ding uh hi,” ci hilo ahi hiam?
+**TDB77:** Ahih hangin note in, “Topa ka Pasian-te ka suang-te hi,” a ci-a kinei na hih-te leh ama mun sangte leh biakna taute Hezekiah in lakhia-in, Judah leh Jerusalem tungah, “Hih biakna tau mai-ah na bia ding-te hi,” ci hilo ahi hiam?
 
-**ZVS:** Ahih hangin note in, “{ Topa } ka Pasian uh ka suang uh hi,” a ci-a kinei na hih uh leh ama mun sangte leh biakna taute Hezekiah in lakhia-in, Judah leh Jerusalem tungah, “Hih biakna tau mai-ah na bia ding uh hi,” ci hilo ahi hiam?
+**ZVS:** Ahih hangin note in, “{ Topa } ka Pasian-te ka suang-te hi,” a ci-a kinei na hih-te leh ama mun sangte leh biakna taute Hezekiah in lakhia-in, Judah leh Jerusalem tungah, “Hih biakna tau mai-ah na bia ding-te hi,” ci hilo ahi hiam?
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Now therefore give pledges, I pray thee, to my master the king of Assyria, and I will give thee two thousand horses, if thou be able on thy part to set riders upon them.
 
-**TDB77:** Tu-in hong pai un la, ka topa Assiria kumpipa tawh kiciamna khat bawl un: A tunga tuang ding mi na ngah zawh nak uh leh sakol tulnih kong pia ding hi.
+**TDB77:** Tu-in hong pai un la, ka topa Assiria kumpipa tawh kiciamna khat bawl un: A tunga tuang ding mi na ngah zawh nak-te leh sakol tulnih kong pia ding hi.
 
-**ZVS:** Tu-in hong pai un la, ka topa Assiria kumpipa tawh kiciamna khat bawl un. A tungah a tuang ding mi na ngahzawh nak uh leh sakol tul nih kong pia ding hi.
+**ZVS:** Tu-in hong pai un la, ka topa Assiria kumpipa tawh kiciamna khat bawl un. A tungah a tuang ding mi na ngahzawh nak-te leh sakol tul nih kong pia ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix
 
 ### v9
 **EN:** How then wilt thou turn away the face of one captain of the least of my master's servants, and put thy trust on Egypt for chariots and for horsemen?
 
-**TDB77:** Izipt mite’ leengte leh sakol muanna tawh ka topa’ leengte lak panin a neu pen khat ahi galkap mang khat bek nangawn bangci-in not zo ding na hi uh hiam?
+**TDB77:** Izipt mite’ leengte leh sakol muanna tawh ka topa’ leengte lak panin a neu pen khat ahi galkap mang khat bek nangawn bangci-in not zo ding na hi-te hiam?
 
-**ZVS:** Egypt mite' leengte leh sakol galkapte muan'na tawh ka topa' nasemte lak panin a neupen khat ahi galkapmang khat bek nangawn bangci-in notzo ding na hi uh hiam?
+**ZVS:** Egypt mite' leengte leh sakol galkapte muan'na tawh ka topa' nasemte lak panin a neupen khat ahi galkapmang khat bek nangawn bangci-in notzo ding na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then)
 
@@ -115,18 +115,18 @@
 ### v11
 **EN:** Then said Eliakim and Shebna and Joah unto Rabshakeh, Speak, I pray thee, unto thy servants in the Syrian language; for we understand it: and speak not to us in the Jews' language, in the ears of the people that are on the wall.
 
-**TDB77:** Tua ciangin Eliakim, Shebna leh Joah in a ulianpa kiangah, “Kote in thei ngawn ka hih manun na nasemte tungah Aram pau tawh hong gen hoh in; kulh tunga om mite’ zakna-ah Judah pau tawh thu nong gen loh nadingin kong thuum uh hi,” ci uh hi.
+**TDB77:** Tua ciangin Eliakim, Shebna leh Joah in a ulianpa kiangah, “Kote in thei ngawn ka hih manun na nasemte tungah Aram pau tawh hong gen hoh in; kulh tunga om mite’ zakna-ah Judah pau tawh thu nong gen loh nadingin kong thuum-te hi,” ci-te hi.
 
-**ZVS:** Tua ciangin Eliakim, Shebna, leh Joah in a ulianpa kiangah, “Kote in thei ngawn ka hih manun na nasemte tungah Aram pau tawh hong gen hoh in. Kulhtunga om mite' zakna-ah Judah pau tawh thu nong genlohna dingin kong thum hi,” a ci uh hi.
+**ZVS:** Tua ciangin Eliakim, Shebna, leh Joah in a ulianpa kiangah, “Kote in thei ngawn ka hih manun na nasemte tungah Aram pau tawh hong gen hoh in. Kulhtunga om mite' zakna-ah Judah pau tawh thu nong genlohna dingin kong thum hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** But Rabshakeh said, Hath my master sent me to thy master and to thee to speak these words? hath he not sent me to the men that sit upon the wall, that they may eat their own dung, and drink their own piss with you?
 
-**TDB77:** Ahih hangin a ulianpa in, “Hih thute na topa uh leh note tung bekah gen ding a, amau’ ek mah ne-in amau’ zun mah dawnin note tawh a siakhawm ding kulh tunga tu mite tungah a gen lo dingin ka topa in hong sawl sa na hi hiam?” a ci hi.
+**TDB77:** Ahih hangin a ulianpa in, “Hih thute na topa-te leh note tung bekah gen ding a, amau’ ek mah ne-in amau’ zun mah dawnin note tawh a siakhawm ding kulh tunga tu mite tungah a gen lo dingin ka topa in hong sawl sa na hi hiam?” a ci hi.
 
-**ZVS:** Ahih hangin a ulianpa in, “Hih thute na topa uh leh note' tung bekah gen ding a, amau' ek mah ne-in amau' zun mah dawnin note tawh a siakhawm ding kulh tunga a tu mite tungah a genlo dingin ka topa in hong sawl sa na hi uh hiam?” a ci hi.
+**ZVS:** Ahih hangin a ulianpa in, “Hih thute na topa-te leh note' tung bekah gen ding a, amau' ek mah ne-in amau' zun mah dawnin note tawh a siakhawm ding kulh tunga a tu mite tungah a genlo dingin ka topa in hong sawl sa na hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to
 
@@ -151,7 +151,7 @@
 ### v15
 **EN:** Neither let Hezekiah make you trust in the
 
-**TDB77:** “Topa in eite hong honkhia taktak ding hi; hih khuapi pen Assiria kumpipa’ khut sungah kipia lo ding hi,” ci-a Hezekiah in hong genna tawh na Topa uh muang kha kei un.
+**TDB77:** “Topa in eite hong honkhia taktak ding hi; hih khuapi pen Assiria kumpipa’ khut sungah kipia lo ding hi,” ci-a Hezekiah in hong genna tawh na Topa-te muang kha kei un.
 
 **ZVS:** “{ Topa } in eite hong honkhia taktak ding a, hih khuapi pen Assiria kumpipa khutsungah kipialo ding hi,” ci-in Hezekiah in hong genna tawh na { Topa } uh muangkha kei un.
 
@@ -160,7 +160,7 @@
 ### v17
 **EN:** Until I come and take you away to a land like your own land, a land of corn and wine, a land of bread and vineyards.
 
-**TDB77:** Hezekiah' thu ngai kei un; bang hang hiam cih leh Assiria kumpipa in hih bangin ci hi: Kei tawh kilemna hong bawl un la kei kiangah hong pai un. Tua hi leh kei hong pai-in, note' gam tawh a kibang gam khat, an leh leenggahzu gamah kong koih matengin note khempeuh in nomau' leenggah ciat, nomau' theigah ciat, na tuikhuk panun nomau tui ciat na ne ding uh hi.
+**TDB77:** Hezekiah' thu ngai kei un; bang hang hiam cih leh Assiria kumpipa in hih bangin ci hi: Kei tawh kilemna hong bawl un la kei kiangah hong pai un. Tua hi leh kei hong pai-in, note' gam tawh a kibang gam khat, an leh leenggahzu gamah kong koih matengin note khempeuh in nomau' leenggah ciat, nomau' theigah ciat, na tuikhuk panun nomau tui ciat na ne ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -183,27 +183,27 @@
 ### v20
 **EN:** Who are they among all the gods of these lands, that have delivered their land out of my hand, that the
 
-**TDB77:** Topa in ka khut sung panin Jerusalem khua a hotkhiat nadingin, hih gamte khempeuh’ pasiante’ lakah kua in ka khut sung panin a gam uh honkhia zo ahi hiam?’ ci hi,” ci-in a gen hi.
+**TDB77:** Topa in ka khut sung panin Jerusalem khua a hotkhiat nadingin, hih gamte khempeuh’ pasiante’ lakah kua in ka khut sung panin a gam-te honkhia zo ahi hiam?’ ci hi,” ci-in a gen hi.
 
-**ZVS:** { Topa } in ka khutsung panin Jerusalem khua a hotkhiatna dingin, hih gamte khempeuh' pasian lakah kua in ka khutsung panin a gam uh honkhiazo ahi hiam?’ ci hi,” ci-in a gen hi.
+**ZVS:** { Topa } in ka khutsung panin Jerusalem khua a hotkhiatna dingin, hih gamte khempeuh' pasian lakah kua in ka khutsung panin a gam-te honkhiazo ahi hiam?’ ci hi,” ci-in a gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to
 
 ### v21
 **EN:** But they held their peace, and answered him not a word: for the king's commandment was, saying, Answer him not.
 
-**TDB77:** Ahih hangin kumpipa in, “Dawng kei un,” ci-in thu pia khol khin ahih manin amaute daii takin om uh a, kam khat beek dawng lo uh hi.
+**TDB77:** Ahih hangin kumpipa in, “Dawng kei un,” ci-in thu pia khol khin ahih manin amaute daii takin om-te a, kam khat beek dawng lo-te hi.
 
-**ZVS:** Ahih hangin kumpipa in, “Dawng kei un,” ci-in thu piakhol ahih manin amaute daitakin om uh a, kam khat beek dawnglo uh hi.
+**ZVS:** Ahih hangin kumpipa in, “Dawng kei un,” ci-in thu piakhol ahih manin amaute daitakin om-te a, kam khat beek dawnglo-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: lo | causal: because | plural: uh marker
 
 ### v22
 **EN:** Then came Eliakim, the son of Hilkiah, that was over the household, and Shebna the scribe, and Joah, the son of Asaph, the recorder, to Hezekiah with their clothes rent, and told him the words of Rabshakeh.
 
-**TDB77:** Tua ciangin Hilkiah’ tapa ahi kumpi-inn sung a sai Eliakim leh a lai-at Shebna leh Asaf tapa ahi thuciamtehpa Joah in a puan uh balkeekin Hezekiah’ kiangah pai uh a, a ulianpa’ thugen teng va gen uh hi.
+**TDB77:** Tua ciangin Hilkiah’ tapa ahi kumpi-inn sung a sai Eliakim leh a lai-at Shebna leh Asaf tapa ahi thuciamtehpa Joah in a puan-te balkeekin Hezekiah’ kiangah pai-te a, a ulianpa’ thugen teng va gen-te hi.
 
-**ZVS:** Tua ciangin Hilkiah' tapa ahi kumpi innsung a sai Eliakim, lai-at Shebna leh Asaf' tapa ahi thuciamtehpa Joah in a puan uh balkekin Hezekiah kiangah pai uh a, a ulianpa' thugen teng a va gen uh hi.
+**ZVS:** Tua ciangin Hilkiah' tapa ahi kumpi innsung a sai Eliakim, lai-at Shebna leh Asaf' tapa ahi thuciamtehpa Joah in a puan-te balkekin Hezekiah kiangah pai-te a, a ulianpa' thugen teng a va gen-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

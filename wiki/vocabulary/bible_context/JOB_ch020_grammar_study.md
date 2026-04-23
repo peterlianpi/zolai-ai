@@ -75,9 +75,9 @@
 ### v7
 **EN:** Yet he shall perish for ever like his own dung: they which have seen him shall say, Where is he?
 
-**TDB77:** leivui them bangin maimang lel ding hi. Amah a thei ngei mite in, ‘Amah koi-ah om ta hiam?’ ci-in lamdangsa ding uh hi.
+**TDB77:** leivui them bangin maimang lel ding hi. Amah a thei ngei mite in, ‘Amah koi-ah om ta hiam?’ ci-in lamdangsa ding-te hi.
 
-**ZVS:** leivui them bangin maimang veve lel ding hi. Amah a thei ngei mite in, ‘Amah koi-ah omta ahi hiam?’ ci-in lamdangsa ding uh hi.
+**ZVS:** leivui them bangin maimang veve lel ding hi. Amah a thei ngei mite in, ‘Amah koi-ah omta ahi hiam?’ ci-in lamdangsa ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -100,9 +100,9 @@
 ### v10
 **EN:** His children shall seek to please the poor, and his hands shall restore their goods.
 
-**TDB77:** mizawngte’ na a suhsakte, a tate in a lohsak kik ding uh hi.
+**TDB77:** mizawngte’ na a suhsakte, a tate in a lohsak kik ding-te hi.
 
-**ZVS:** mizawngte' na a suhsakte, a tate in lohsak ding uh hi.
+**ZVS:** mizawngte' na a suhsakte, a tate in lohsak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -253,7 +253,7 @@
 
 **TDB77:** Vantungte in hih mipa’ mawhna pholak a, leitung in ama langah teci pang hi.
 
-**ZVS:** Vantungte in hih mipa' mawhna pholak uh a, leitung in ama langah teci a pang hi.
+**ZVS:** Vantungte in hih mipa' mawhna pholak-te a, leitung in ama langah teci a pang hi.
 
 ### v28
 **EN:** The increase of his house shall depart, and his goods shall flow away in the day of his wrath.

@@ -51,9 +51,9 @@
 ### v4
 **EN:** And said unto him, Run, speak to this young man, saying, Jerusalem shall be inhabited as towns without walls for the multitude of men and cattle therein:
 
-**TDB77:** Tua ciangin vantungmi a masapa in a dawntuahpa kiangah, “Va tai in la, tehna khau a tawi tangvalpa kiangah hih thu va gen in, Jerusalem khua sungah mihing leh ganhing tam mahmah ding ahih manin Jerusalem kulh huam sungah ta zo lo ding uh hi.
+**TDB77:** Tua ciangin vantungmi a masapa in a dawntuahpa kiangah, “Va tai in la, tehna khau a tawi tangvalpa kiangah hih thu va gen in, Jerusalem khua sungah mihing leh ganhing tam mahmah ding ahih manin Jerusalem kulh huam sungah ta zo lo ding-te hi.
 
-**ZVS:** Tua ciangin vantung mi a masapa in a dawntuahpa kiangah, “Va tai in la, tehna khau a tawi tangvalpa kiangah hih thu va gen in. Jerusalem khuasungah mihing leh ganhing tam mahmah ding ahih manin Jerusalem kulhhuam sungah ta zolo ding uh hi.
+**ZVS:** Tua ciangin vantung mi a masapa in a dawntuahpa kiangah, “Va tai in la, tehna khau a tawi tangvalpa kiangah hih thu va gen in. Jerusalem khuasungah mihing leh ganhing tam mahmah ding ahih manin Jerusalem kulhhuam sungah ta zolo ding-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** For, behold, I will shake mine hand upon them, and they shall be a spoil to their servants: and ye shall know that the
 
-**TDB77:** Topa mahmah in note hong su ding a, ni danga note’ na hong sepsak mite in tu-in note’ nate hong lehsuh kik ding uh hi,” hong cisak hi. Hih bangin thu hong pian’ ciangin Vanglianpen Topa in kei hong sawl lam tak na thei ding uh hi.
+**TDB77:** Topa mahmah in note hong su ding a, ni danga note’ na hong sepsak mite in tu-in note’ nate hong lehsuh kik ding-te hi,” hong cisak hi. Hih bangin thu hong pian’ ciangin Vanglianpen Topa in kei hong sawl lam tak na thei ding-te hi.
 
-**ZVS:** { Topa } mahmah in note hong su ding a, nidanga note' na hong sepsak mite in tu-in note' nate hong lehsuh kik ding uh hi, hong cisak hi. Hih bangin thu hong pian' ciangin Vanglian { Topa } in kei hong sawl ahih lamtak na thei ding uh hi.
+**ZVS:** { Topa } mahmah in note hong su ding a, nidanga note' na hong sepsak mite in tu-in note' nate hong lehsuh kik ding-te hi, hong cisak hi. Hih bangin thu hong pian' ciangin Vanglian { Topa } in kei hong sawl ahih lamtak na thei ding-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -114,9 +114,9 @@
 ### v11
 **EN:** And many nations shall be joined to the
 
-**TDB77:** Tua hun ciangin Topa kiangah minam tampi hong pai ding uh a, ama mite suak ding uh hi. Topa in note hong ompih ding a, tua ciangin note kiangah kei a hong sawlna thu na thei ding uh hi.
+**TDB77:** Tua hun ciangin Topa kiangah minam tampi hong pai ding-te a, ama mite suak ding-te hi. Topa in note hong ompih ding a, tua ciangin note kiangah kei a hong sawlna thu na thei ding-te hi.
 
-**ZVS:** Tua hun ciangin { Topa } kiangah minam tampi hong pai ding uh a, ama mite a suak ding uh hi. { Topa } in note hong ompih ding a, tua ciangin note kiangah kei a hong sawl ahihna thu na thei ding uh hi.
+**ZVS:** Tua hun ciangin { Topa } kiangah minam tampi hong pai ding-te a, ama mite a suak ding-te hi. { Topa } in note hong ompih ding a, tua ciangin note kiangah kei a hong sawl ahihna thu na thei ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 

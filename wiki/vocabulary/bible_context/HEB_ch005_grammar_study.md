@@ -115,16 +115,16 @@
 ### v11
 **EN:** Of whom we have many things to say, and hard to be uttered, seeing ye are dull of hearing.
 
-**TDB77:** Tua Melkhizedek thu kote gen ding tampi a om hi. Ahih hangin note bil pil lo na hih uh ciangin a gen nading a haksa hi.
+**TDB77:** Tua Melkhizedek thu kote gen ding tampi a om hi. Ahih hangin note bil pil lo na hih-te ciangin a gen nading a haksa hi.
 
 **ZVS:** Hih thu tawh kisai-in i gen ding tampi a om hangin note in thu thei hak mahmah na hih manun i gentel theihna ding haksa hi.
 
 ### v12
 **EN:** For when for the time ye ought to be teachers, ye have need that one teach you again which be the first principles of the oracles of God; and are become such as have need of milk, and not of strong meat.
 
-**TDB77:** Note in a sawt vei zo-in thuhilhte a suak khin ding na kilawm napi-un, Pasian thupiakna lakah a kisim masa, a bulpi thute, midangte kiangah khatvei na sin kik nading uh om ahih ciangin zan hak an sam loin, nawizu nete bek na hi uh hi!
+**TDB77:** Note in a sawt vei zo-in thuhilhte a suak khin ding na kilawm napi-un, Pasian thupiakna lakah a kisim masa, a bulpi thute, midangte kiangah khatvei na sin kik nading-te om ahih ciangin zan hak an sam loin, nawizu nete bek na hi-te hi!
 
-**ZVS:** Tu-in note pen midang a hilh dingin sia na suahtheih ding uh hun hikhin napi-in note mahmah pen Pasian' thu a bulpite hilhding na kisam lai uh hi. Antak nethei nailoin nawi bek a nethei lai na hi uh hi.
+**ZVS:** Tu-in note pen midang a hilh dingin sia na suahtheih ding-te hun hikhin napi-in note mahmah pen Pasian' thu a bulpite hilhding na kisam lai-te hi. Antak nethei nailoin nawi bek a nethei lai na hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -133,7 +133,7 @@
 
 **TDB77:** Nawi bek a ne mi in naupang bang ahih ciangin dikna tawh kipawl thu a siam kei hi.
 
-**ZVS:** Nawi bek a ne laite pen naungek ahih manin a man leh a manlo thu bangmah phawkthei nailo uh hi.
+**ZVS:** Nawi bek a ne laite pen naungek ahih manin a man leh a manlo thu bangmah phawkthei nailo-te hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 

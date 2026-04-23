@@ -33,27 +33,27 @@
 ### v2
 **EN:** Let Israel now say, that his mercy endureth for ever.
 
-**TDB77:** “Ama itna kip kho tawntung hi,” Israelte in ci ta uh hen.
+**TDB77:** “Ama itna kip kho tawntung hi,” Israelte in ci ta-te hen.
 
-**ZVS:** “Ama itna kip tawntung hi,” Israel-te in ci ta uh hen.
+**ZVS:** “Ama itna kip tawntung hi,” Israel-te in ci ta-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v3
 **EN:** Let the house of Aaron now say, that his mercy endureth for ever.
 
-**TDB77:** “Ama itna kip kho tawntung hi,” Aaron innkuante in ci ta uh hen.
+**TDB77:** “Ama itna kip kho tawntung hi,” Aaron innkuante in ci ta-te hen.
 
-**ZVS:** “Ama itna kip tawntung hi,” Aaron innkuante in ci ta uh hen.
+**ZVS:** “Ama itna kip tawntung hi,” Aaron innkuante in ci ta-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v4
 **EN:** Let them now that fear the
 
-**TDB77:** “Ama itna kip kho tawntung hi,” Topa a zahtakte in ci ta uh hen.
+**TDB77:** “Ama itna kip kho tawntung hi,” Topa a zahtakte in ci ta-te hen.
 
-**ZVS:** “Ama itna kip tawntung hi,” amah a zahtakte in ci ta uh hen.
+**ZVS:** “Ama itna kip tawntung hi,” amah a zahtakte in ci ta-te hen.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -71,7 +71,7 @@
 
 **TDB77:** Topa in kei hong ompih hi; bangmah ka kihta kei ding hi. Mi in kei bang hong cih zo ding ahi hiam?
 
-**ZVS:** { Topa } in kei hong ompih hi. Bangmah ka kihta kei ding hi. Mihingte in kei, bang hong cihzo ding ahi uh hiam?
+**ZVS:** { Topa } in kei hong ompih hi. Bangmah ka kihta kei ding hi. Mihingte in kei, bang hong cihzo ding ahi-te hiam?
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
@@ -101,27 +101,27 @@
 ### v10
 **EN:** All nations compassed me about: but in the name of the
 
-**TDB77:** Minam khempeuh in kei hong umcih uh hi; ahih hangin Topa’ vang tawh amaute ka sugawp hi.
+**TDB77:** Minam khempeuh in kei hong umcih-te hi; ahih hangin Topa’ vang tawh amaute ka sugawp hi.
 
-**ZVS:** Minam khempeuh in kei hong umcih uh hi. Ahih hangin { Topa' } vang tawh amaute ka sugawp hi.
+**ZVS:** Minam khempeuh in kei hong umcih-te hi. Ahih hangin { Topa' } vang tawh amaute ka sugawp hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** They compassed me about; yea, they compassed me about: but in the name of the
 
-**TDB77:** Amaute in kei hong umcih hi, ka kimkot ah hong umcih uh hi; ahih hangin Topa’ vang tawh amaute ka sugawp hi.
+**TDB77:** Amaute in kei hong umcih hi, ka kimkot ah hong umcih-te hi; ahih hangin Topa’ vang tawh amaute ka sugawp hi.
 
-**ZVS:** Amaute in ka kimkotah kei hong umcih uh hi. Ahih hangin { Topa' } vang tawh amaute ka sugawp hi.
+**ZVS:** Amaute in ka kimkotah kei hong umcih-te hi. Ahih hangin { Topa' } vang tawh amaute ka sugawp hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** They compassed me about like bees; they are quenched as the fire of thorns: for in the name of the
 
-**TDB77:** Amaute in khuaipi bangin kei hong umcih uh a, lingkung meikang bangin amaute kuang uh hi; Topa’ vang tawh amaute ka sugawp hi.
+**TDB77:** Amaute in khuaipi bangin kei hong umcih-te a, lingkung meikang bangin amaute kuang-te hi; Topa’ vang tawh amaute ka sugawp hi.
 
-**ZVS:** Amaute in khuaipi bangin kei hong umcih uh a, ahi zongin selkeu kuang bangin amaute daikik pak uh hi. { Topa' } vang tawh amaute ka sugawp hi.
+**ZVS:** Amaute in khuaipi bangin kei hong umcih-te a, ahi zongin selkeu kuang bangin amaute daikik pak-te hi. { Topa' } vang tawh amaute ka sugawp hi.
 
 **Grammar:** plural: uh marker
 
@@ -232,18 +232,18 @@
 ### v25
 **EN:** Save now, I beseech thee, O
 
-**TDB77:** Topa aw, kote hong hon in, hong thuum ung! Topa aw, kong thuum uh hi, daupaina hong pia in!
+**TDB77:** Topa aw, kote hong hon in, hong thuum ung! Topa aw, kong thuum-te hi, daupaina hong pia in!
 
-**ZVS:** { Topa } aw, kote hong hon in; hong thum ung. { Topa } aw, kong thum uh hi; kote hong daupaisak in.
+**ZVS:** { Topa } aw, kote hong hon in; hong thum ung. { Topa } aw, kong thum-te hi; kote hong daupaisak in.
 
 **Grammar:** plural: uh marker
 
 ### v26
 **EN:** Blessed be he that cometh in the name of the
 
-**TDB77:** Topa’ min tawh hong paipa in thupha ngah ta hen! Topa’ inn panin nang kong phat uh hi.
+**TDB77:** Topa’ min tawh hong paipa in thupha ngah ta hen! Topa’ inn panin nang kong phat-te hi.
 
-**ZVS:** { Topa' } min tawh hong paipa in thupha ngah ta hen. { Topa' } inn panin nang kong phat uh hi.
+**ZVS:** { Topa' } min tawh hong paipa in thupha ngah ta hen. { Topa' } inn panin nang kong phat-te hi.
 
 **Grammar:** plural: uh marker
 

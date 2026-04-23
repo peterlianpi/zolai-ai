@@ -25,9 +25,9 @@
 ### v1
 **EN:** And the children of Israel again did evil in the sight of the
 
-**TDB77:** Ehud a sih khit ciangin Israel mite in Topa’ muhna-ah a sia gamta kik uh hi.
+**TDB77:** Ehud a sih khit ciangin Israel mite in Topa’ muhna-ah a sia gamta kik-te hi.
 
-**ZVS:** Ehud a sih khit ciangin { Topa' } muhna-ah Israel mite a sia gamta kik uh hi.
+**ZVS:** Ehud a sih khit ciangin { Topa' } muhna-ah Israel mite a sia gamta kik-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -43,9 +43,9 @@
 ### v3
 **EN:** And the children of Israel cried unto the
 
-**TDB77:** Tua ciangin Israel mite huhna ngen dingin, Topa tungah kiko uh hi; bang hang hiam cih leh amah in sik leeng zakua nei a, Israel mite kum sawmnih sung nakpi takin nengniam hi.
+**TDB77:** Tua ciangin Israel mite huhna ngen dingin, Topa tungah kiko-te hi; bang hang hiam cih leh amah in sik leeng zakua nei a, Israel mite kum sawmnih sung nakpi takin nengniam hi.
 
-**ZVS:** Tua ciangin Israel mite huhna a ngen dingin { Topa' } tungah a kiko uh hi. Bang hang hiam cih leh amah in sik leeng za kua nei a, Israel mite kum sawmnih sung nakpi takin gim a pia hi.
+**ZVS:** Tua ciangin Israel mite huhna a ngen dingin { Topa' } tungah a kiko-te hi. Bang hang hiam cih leh amah in sik leeng za kua nei a, Israel mite kum sawmnih sung nakpi takin gim a pia hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -59,9 +59,9 @@
 ### v5
 **EN:** And she dwelt under the palm tree of Deborah between Ramah and Beth–el in mount Ephraim: and the children of Israel came up to her for judgment.
 
-**TDB77:** Tua nu, Efraim mualtung gam sung Ramah leh Beth-el kikal nisuh kung nuai-ah thu khen hi; thu a khensak dingin ama kiangah Israel mite pai uh hi.
+**TDB77:** Tua nu, Efraim mualtung gam sung Ramah leh Beth-el kikal nisuh kung nuai-ah thu khen hi; thu a khensak dingin ama kiangah Israel mite pai-te hi.
 
-**ZVS:** Tuanu, Efraim mualtung gamsung Ramah leh Bethel kikal nisuhkung nuai-ah tu zel a, thu a khensak dingin ama kiangah Israel mite hong pai uh hi.
+**ZVS:** Tuanu, Efraim mualtung gamsung Ramah leh Bethel kikal nisuhkung nuai-ah tu zel a, thu a khensak dingin ama kiangah Israel mite hong pai-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -104,9 +104,9 @@
 ### v10
 **EN:** And Barak called Zebulun and Naphtali to Kedesh; and he went up with ten thousand men at his feet: and Deborah went up with him.
 
-**TDB77:** Barak in Kedesh-ah Zebulun leh Naftali sam hi; ama kiangah mihing tulsawm kuan to uh hi; amah tawh Deborah kuanto khawm hi.
+**TDB77:** Barak in Kedesh-ah Zebulun leh Naftali sam hi; ama kiangah mihing tulsawm kuan to-te hi; amah tawh Deborah kuanto khawm hi.
 
-**ZVS:** Barak in Kedesh-ah Zebulun minam leh Naftali minamte a sam hi. Ama kiangah mihing tul sawm bang kuanto uh a, amah tawh Deborah kuanto khawm hi.
+**ZVS:** Barak in Kedesh-ah Zebulun minam leh Naftali minamte a sam hi. Ama kiangah mihing tul sawm bang kuanto-te a, amah tawh Deborah kuanto khawm hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -158,18 +158,18 @@
 ### v16
 **EN:** But Barak pursued after the chariots, and after the host, unto Harosheth of the Gentiles: and all the host of Sisera fell upon the edge of the sword; and there was not a man left.
 
-**TDB77:** Barak in Harosheth-ha-goiim ciang dong a leengte leh a galkapte delh a, Sisera’ galkapte khempeuh namsau tawh kithatin bei mang uh hi; mi khat zong suakta lo hi.
+**TDB77:** Barak in Harosheth-ha-goiim ciang dong a leengte leh a galkapte delh a, Sisera’ galkapte khempeuh namsau tawh kithatin bei mang-te hi; mi khat zong suakta lo hi.
 
-**ZVS:** Barak in Harosheth-ha-goiim ciangdong a leengte leh a galkapte delh a, Sisera' galkapte khempeuh namsau tawh kithatin beimang uh a, mi khat zong suaktalo hi.
+**ZVS:** Barak in Harosheth-ha-goiim ciangdong a leengte leh a galkapte delh a, Sisera' galkapte khempeuh namsau tawh kithatin beimang-te a, mi khat zong suaktalo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Howbeit Sisera fled away on his feet to the tent of Jael the wife of Heber the Kenite: for there was peace between Jabin the king of Hazor and the house of Heber the Kenite.
 
-**TDB77:** Ahih hangin Sisera, Ken mi Heber’ zi Jael’ puanbuk-ah a khe-in tai hi; bang hang hiam cih leh Hazor kumpipa Jabin leh Ken mi Heber’ innkuante kilem uh hi.
+**TDB77:** Ahih hangin Sisera, Ken mi Heber’ zi Jael’ puanbuk-ah a khe-in tai hi; bang hang hiam cih leh Hazor kumpipa Jabin leh Ken mi Heber’ innkuante kilem-te hi.
 
-**ZVS:** Ahih hangin Sisera, Ken mi Heber' zi Jael' puanbukah a khe-in a tai hi. Bang hang hiam cih leh Hazor kumpipa Jabin leh Ken mi Heber' innkuante kilem uh hi.
+**ZVS:** Ahih hangin Sisera, Ken mi Heber' zi Jael' puanbukah a khe-in a tai hi. Bang hang hiam cih leh Hazor kumpipa Jabin leh Ken mi Heber' innkuante kilem-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -230,9 +230,9 @@
 ### v24
 **EN:** And the hand of the children of Israel prospered, and prevailed against Jabin the king of Canaan, until they had destroyed Jabin king of Canaan.
 
-**TDB77:** Israel mite in Kanaan kumpipa Jabin a suksiat matengin amaute in Kanaan kumpipa Jabin tungah thuak hak semsem uh hi.
+**TDB77:** Israel mite in Kanaan kumpipa Jabin a suksiat matengin amaute in Kanaan kumpipa Jabin tungah thuak hak semsem-te hi.
 
-**ZVS:** Israel mite in Kanaan kumpipa Jabin a suksiat matengin Kanaan kumpipa Jabin tungah thuak hak semsem uh hi.
+**ZVS:** Israel mite in Kanaan kumpipa Jabin a suksiat matengin Kanaan kumpipa Jabin tungah thuak hak semsem-te hi.
 
 **Grammar:** plural: uh marker
 

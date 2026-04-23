@@ -49,9 +49,9 @@
 ### v5
 **EN:** And if the avenger of blood pursue after him, then they shall not deliver the slayer up into his hand; because he smote his neighbour unwittingly, and hated him not beforetime.
 
-**TDB77:** Tua ciangin phulapa in amah a delh leh, tuapa tungah mi thatpa pia lo ding uh hi; bang hang hiam cih leh amah in theih lohna hangin a vengpa thatin, a beisa hun sungah ama tungah galneihna bangmah nei lo hi.
+**TDB77:** Tua ciangin phulapa in amah a delh leh, tuapa tungah mi thatpa pia lo ding-te hi; bang hang hiam cih leh amah in theih lohna hangin a vengpa thatin, a beisa hun sungah ama tungah galneihna bangmah nei lo hi.
 
-**ZVS:** Tua ciangin phulapa in amah a delh leh, tuapa tungah mi thatpa pialo ding uh hi. Bang hang hiam cih leh amah in theihlohna hangin a vengpa thatin, a beisa hun sungah ama tungah galneihna bangmah neilo hi.
+**ZVS:** Tua ciangin phulapa in amah a delh leh, tuapa tungah mi thatpa pialo ding-te hi. Bang hang hiam cih leh amah in theihlohna hangin a vengpa thatin, a beisa hun sungah ama tungah galneihna bangmah neilo hi.
 
 **Grammar:** sequence: then/therefore | future: will | negation: lo | plural: uh marker
 
@@ -67,18 +67,18 @@
 ### v7
 **EN:** And they appointed Kedesh in Galilee in mount Naphtali, and Shechem in mount Ephraim, and Kirjath–arba, which is Hebron, in the mountain of Judah.
 
-**TDB77:** Tua ahih ciangin amaute in Naftali mualtung gam sunga om Galile gam sung panin Kedesh khua, Efraim mualtung gam sungah Shekhem khua, leh Judah mualtung gam sungah Kiriatharba (Hebron a cihna) khuate tuam koih uh hi.
+**TDB77:** Tua ahih ciangin amaute in Naftali mualtung gam sunga om Galile gam sung panin Kedesh khua, Efraim mualtung gam sungah Shekhem khua, leh Judah mualtung gam sungah Kiriatharba (Hebron a cihna) khuate tuam koih-te hi.
 
-**ZVS:** Tua ahih ciangin amaute in Naftali mualtung gamsunga om Galilee gamsung panin Kedesh khua, Efraim mualtung gamsungah Shekhem khua, leh Judah mualtung gamsungah Kiriatharba (Hebron a cihna) khuate a tuamkoih uh hi.
+**ZVS:** Tua ahih ciangin amaute in Naftali mualtung gamsunga om Galilee gamsung panin Kedesh khua, Efraim mualtung gamsungah Shekhem khua, leh Judah mualtung gamsungah Kiriatharba (Hebron a cihna) khuate a tuamkoih-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And on the other side Jordan by Jericho eastward, they assigned Bezer in the wilderness upon the plain out of the tribe of Reuben, and Ramoth in Gilead out of the tribe of Gad, and Golan in Bashan out of the tribe of Manasseh.
 
-**TDB77:** Jerikho nisuahna Jordan galkhatah Reuben minam sung panin mualtung zang gam lak-a om Bezer khua, Gad minam sung panin Gilead gam sunga om Ramoth khua, leh Manasseh minam sung panin Bashan gam sunga Golan khuate seh uh hi.
+**TDB77:** Jerikho nisuahna Jordan galkhatah Reuben minam sung panin mualtung zang gam lak-a om Bezer khua, Gad minam sung panin Gilead gam sunga om Ramoth khua, leh Manasseh minam sung panin Bashan gam sunga Golan khuate seh-te hi.
 
-**ZVS:** Jerikho nisuahna Jordan galkhatah Reuben minam sung panin mualzang sehnel gama om Bezer khua, Gad minam sung panin Gilead gamsunga om Ramoth khua, leh Manasseh minam sung panin Bashan gamsunga om Golan khuate a seh uh hi.
+**ZVS:** Jerikho nisuahna Jordan galkhatah Reuben minam sung panin mualzang sehnel gama om Bezer khua, Gad minam sung panin Gilead gamsunga om Ramoth khua, leh Manasseh minam sung panin Bashan gamsunga om Golan khuate a seh-te hi.
 
 **Grammar:** plural: uh marker
 

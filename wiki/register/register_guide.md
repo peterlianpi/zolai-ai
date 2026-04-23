@@ -20,8 +20,8 @@ Zolai (Tedim) distinguishes between formal (biblical, academic, public speech) a
 
 | Register | Pattern | Example |
 | :--- | :--- | :--- |
-| **Formal** | `uh hi` (3rd person) | `A pai uh hi.` (They go.) |
-| **Informal** | `uh ve` | `A pai uh ve.` (They're going.) |
+| **Formal** | `uh hi` (3rd person) | `A pai-te hi.` (They go.) |
+| **Informal** | `uh ve` | `A pai-te ve.` (They're going.) |
 | **Slang** | `ote` / `ote hi` | `Keite' ote...` (Us guys...) |
 
 ---

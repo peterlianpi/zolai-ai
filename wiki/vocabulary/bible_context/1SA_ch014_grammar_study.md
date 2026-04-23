@@ -45,9 +45,9 @@
 ### v3
 **EN:** And Ahiah, the son of Ahitub, I–chabod's brother, the son of Phinehas, the son of Eli, the
 
-**TDB77:** Shiloh-ah Topa’ siampi Eli’ tapa Finehas, a tapa Ikabod, a sanggampa Ahitub’ tapa Ahijah in siampi-puan silh hi. Mite in Jonathan a paikhiat khit lam thei lo uh hi.
+**TDB77:** Shiloh-ah Topa’ siampi Eli’ tapa Finehas, a tapa Ikabod, a sanggampa Ahitub’ tapa Ahijah in siampi-puan silh hi. Mite in Jonathan a paikhiat khit lam thei lo-te hi.
 
-**ZVS:** Shiloh-ah { Topa' } siampi Eli' tapa Finehas, a tapa Ikhabod, a sanggampa Ahitub' tapa Ahijah in siampipuan silh hi. Mite in Jonathan a paikhiat khitlam theilo uh hi.
+**ZVS:** Shiloh-ah { Topa' } siampi Eli' tapa Finehas, a tapa Ikhabod, a sanggampa Ahitub' tapa Ahijah in siampipuan silh hi. Mite in Jonathan a paikhiat khitlam theilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -97,16 +97,16 @@
 ### v9
 **EN:** If they say thus unto us, Tarry until we come to you; then we will stand still in our place, and will not go up unto them.
 
-**TDB77:** Amaute in, ‘Note kiangah kong pai mateng uh hong ngak un,’ hong cih leh i omna mun-ah taang loin i ding ding a, amaute kiangah i paito kei ding hi.
+**TDB77:** Amaute in, ‘Note kiangah kong pai mateng-te hong ngak un,’ hong cih leh i omna mun-ah taang loin i ding ding a, amaute kiangah i paito kei ding hi.
 
-**ZVS:** Amaute in, ‘Note kiangah kong pai mateng uh hong ngak un,’ hong cih leh i omna munah taangloin i om ding a, amaute kiangah i paito kei ding hi.
+**ZVS:** Amaute in, ‘Note kiangah kong pai mateng-te hong ngak un,’ hong cih leh i omna munah taangloin i om ding a, amaute kiangah i paito kei ding hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix
 
 ### v10
 **EN:** But if they say thus, Come up unto us; then we will go up: for the
 
-**TDB77:** Ahih hangin amaute in, ‘Ko kiangah hong paito un,’ hong cih uh leh eite i paito ding hi; bang hang hiam cih leh Topa in eite khut sungah amaute hong pia khin hi. Hih in eite adingin lim hong hi ding hi,” a ci hi.
+**TDB77:** Ahih hangin amaute in, ‘Ko kiangah hong paito un,’ hong cih-te leh eite i paito ding hi; bang hang hiam cih leh Topa in eite khut sungah amaute hong pia khin hi. Hih in eite adingin lim hong hi ding hi,” a ci hi.
 
 **ZVS:** Ahih hangin amaute in, ‘Ko' kiangah hong paito un,’ hong cih leh eite i paito ding hi. Bang hang hiam cih leh { Topa } in eite' khutsungah amaute hong pia khin hi. Hih pen eite-a' dingin lim hi ding hi,” a ci hi.
 
@@ -115,25 +115,25 @@
 ### v11
 **EN:** And both of them discovered themselves unto the garrison of the Philistines: and the Philistines said, Behold, the Hebrews come forth out of the holes where they had hid themselves.
 
-**TDB77:** Tua ahih ciangin Filistia khuacingte kiangah amau tegel va kilak uh hi; Filistiate in, “En un, a bukna uh leivang panin Hebru mite hong pusuakkhia uh hi,” a ci uh hi.
+**TDB77:** Tua ahih ciangin Filistia khuacingte kiangah amau tegel va kilak-te hi; Filistiate in, “En un, a bukna-te leivang panin Hebru mite hong pusuakkhia-te hi,” a ci-te hi.
 
-**ZVS:** Tua ahih ciangin Filistia khuacingte kiangah amaute gel va kilak uh hi. Filistia-te in, “En un, a bukna uh leivang panin Hebru mite hong pusuakkhia uh hi,” a ci uh hi.
+**ZVS:** Tua ahih ciangin Filistia khuacingte kiangah amaute gel va kilak-te hi. Filistia-te in, “En un, a bukna-te leivang panin Hebru mite hong pusuakkhia-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v12
 **EN:** And the men of the garrison answered Jonathan and his armourbearer, and said, Come up to us, and we will shew you a thing. And Jonathan said unto his armourbearer, Come up after me: for the
 
-**TDB77:** Khuacing mite in Jonathan leh a galhiam puapa na hopih uh a, “Ko kiangah hong paito un, na khat kong lak ding uh hi,” a ci uh hi. Tua ciangin Jonathan in a galhiam puapa kiangah, “Ka nung hong zuito in; bang hang hiam cih leh Topa in Israelte khut sungah amaute pia khin hi,” a ci hi.
+**TDB77:** Khuacing mite in Jonathan leh a galhiam puapa na hopih-te a, “Ko kiangah hong paito un, na khat kong lak ding-te hi,” a ci-te hi. Tua ciangin Jonathan in a galhiam puapa kiangah, “Ka nung hong zuito in; bang hang hiam cih leh Topa in Israelte khut sungah amaute pia khin hi,” a ci hi.
 
-**ZVS:** Khuacing mite in Jonathan leh a galhiam puapa na hopih uh a, “Ko kiangah hong paito un; na khat kong lak ding uh hi,” a ci uh hi. Tua ciangin Jonathan in a galhiam puapa kiangah, “Ka nung hong zuito in; bang hang hiam cih leh { Topa } in Israel-te' khutsungah amaute hong pia khin hi,” a ci hi.
+**ZVS:** Khuacing mite in Jonathan leh a galhiam puapa na hopih-te a, “Ko kiangah hong paito un; na khat kong lak ding-te hi,” a ci-te hi. Tua ciangin Jonathan in a galhiam puapa kiangah, “Ka nung hong zuito in; bang hang hiam cih leh { Topa } in Israel-te' khutsungah amaute hong pia khin hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And Jonathan climbed up upon his hands and upon his feet, and his armourbearer after him: and they fell before Jonathan; and his armourbearer slew after him.
 
-**TDB77:** Tua ciangin Jonathan a khut leh a khe tawh kahto-in a galhiam puapa a nungah pai hi. Amaute Jonathan mai-ah puk uh a, a galhiam puapa in ama nungah amaute that hi;
+**TDB77:** Tua ciangin Jonathan a khut leh a khe tawh kahto-in a galhiam puapa a nungah pai hi. Amaute Jonathan mai-ah puk-te a, a galhiam puapa in ama nungah amaute that hi;
 
 **ZVS:** Tua ciangin Jonathan a khut leh a khe tawh kahto-in a galhiam puapa a nungah pai hi. Jonathan in amaute vattuk a, a galhiam puapa in ama nungah amaute that hi.
 
@@ -151,27 +151,27 @@
 ### v15
 **EN:** And there was trembling in the host, in the field, and among all the people: the garrison, and the spoilers, they also trembled, and the earth quaked: so it was a very great trembling.
 
-**TDB77:** Tua ciangin giahphual sung, gam sung, leh mite lakah apkhapna om hi; khuacingte leh galsimte nangawn liing uh hi; ziin liing hi; buaina lianpi mahmah khat hong suak hi.
+**TDB77:** Tua ciangin giahphual sung, gam sung, leh mite lakah apkhapna om hi; khuacingte leh galsimte nangawn liing-te hi; ziin liing hi; buaina lianpi mahmah khat hong suak hi.
 
-**ZVS:** Tua ciangin giahphual sung, gamsung, leh mite lakah apkhapna om hi. Khuacingte leh galsimte nangawn ling uh hi. Zin ling a, buaina lianpi mahmah khat hong suak hi.
+**ZVS:** Tua ciangin giahphual sung, gamsung, leh mite lakah apkhapna om hi. Khuacingte leh galsimte nangawn ling-te hi. Zin ling a, buaina lianpi mahmah khat hong suak hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | plural: uh marker
 
 ### v16
 **EN:** And the watchmen of Saul in Gibeah of Benjamin looked; and, behold, the multitude melted away, and they went on beating down one another.
 
-**TDB77:** Benjaminte’ gam sunga Gibeah-a Saul’ galvilte in en uh hi; en in, alang alangah mihonte kikhin maimai hi.
+**TDB77:** Benjaminte’ gam sunga Gibeah-a Saul’ galvilte in en-te hi; en in, alang alangah mihonte kikhin maimai hi.
 
-**ZVS:** Benjamin-te' gam sunga Gibeah-a Saul' galvilte in a et uh ciangin hih lam hua lamah mihonte a kikhin muaimuai a mu uh hi.
+**ZVS:** Benjamin-te' gam sunga Gibeah-a Saul' galvilte in a et-te ciangin hih lam hua lamah mihonte a kikhin muaimuai a mu-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** Then said Saul unto the people that were with him, Number now, and see who is gone from us. And when they had numbered, behold, Jonathan and his armourbearer were not there.
 
-**TDB77:** Tua ciangin Saul in amah tawh a omkhawm mite kiangah, “Mi sim un la, eite kiang panin kua paikhia hiam thei un,” a ci hi. Amaute in mi a sim khit uh ciangin, en in, Jonathan leh a galhiam puapa om lo hi.
+**TDB77:** Tua ciangin Saul in amah tawh a omkhawm mite kiangah, “Mi sim un la, eite kiang panin kua paikhia hiam thei un,” a ci hi. Amaute in mi a sim khit-te ciangin, en in, Jonathan leh a galhiam puapa om lo hi.
 
-**ZVS:** Tua ciangin Saul in amah tawh a omkhawm mite kiangah, “Mi sim un la, eite kiang panin kua paikhia hiam thei un,” a ci hi. Amaute in mi a sim khit uh ciangin, Jonathan leh a galhiam puapa na omlo hi.
+**ZVS:** Tua ciangin Saul in amah tawh a omkhawm mite kiangah, “Mi sim un la, eite kiang panin kua paikhia hiam thei un,” a ci hi. Amaute in mi a sim khit-te ciangin, Jonathan leh a galhiam puapa na omlo hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | negation: lo | reciprocal: ki- prefix
 
@@ -196,27 +196,27 @@
 ### v20
 **EN:** And Saul and all the people that were with him assembled themselves, and they came to the battle: and, behold, every man's sword was against his fellow, and there was a very great discomfiture.
 
-**TDB77:** Tua ciangin Saul leh amah tawh a om mi khempeuh kikhawmin gal phualah pai uh hi; en in, a galte khempeuh’ namsau in amau’ lawmte mah hih ciat a, kitawhnawina lianpi khat na om hi.
+**TDB77:** Tua ciangin Saul leh amah tawh a om mi khempeuh kikhawmin gal phualah pai-te hi; en in, a galte khempeuh’ namsau in amau’ lawmte mah hih ciat a, kitawhnawina lianpi khat na om hi.
 
-**ZVS:** Tua ciangin Saul leh amah tawh a om mi khempeuh kikhawmin galphualah pai uh hi. A galte khempeuh' namsau in amau' lawmte mah hih ciat a, kitawhnawina lianpi khat na om hi.
+**ZVS:** Tua ciangin Saul leh amah tawh a om mi khempeuh kikhawmin galphualah pai-te hi. A galte khempeuh' namsau in amau' lawmte mah hih ciat a, kitawhnawina lianpi khat na om hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** Moreover the Hebrews that were with the Philistines before that time, which went up with them into the camp from the country round about, even they also turned to be with the Israelites that were with Saul and Jonathan.
 
-**TDB77:** Tu-in tua hun ma-in Filistiate tawh omkhawm khinin giahphual-ah amaute tawh a pai khinsa Hebru mite nangawn Saul leh Jonathan tawh a om khawm Israelte tawh a kipawl dingin kihei uh hi.
+**TDB77:** Tu-in tua hun ma-in Filistiate tawh omkhawm khinin giahphual-ah amaute tawh a pai khinsa Hebru mite nangawn Saul leh Jonathan tawh a om khawm Israelte tawh a kipawl dingin kihei-te hi.
 
-**ZVS:** Tu-in tua hun ma-in Filistia-te tawh omkhawm khinin giahphualah amaute tawh a pai khinsa Hebru mite nangawn Saul leh Jonathan tawh a omkhawm Israel-te tawh a kipawl dingin kihei uh hi.
+**ZVS:** Tu-in tua hun ma-in Filistia-te tawh omkhawm khinin giahphualah amaute tawh a pai khinsa Hebru mite nangawn Saul leh Jonathan tawh a omkhawm Israel-te tawh a kipawl dingin kihei-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** Likewise all the men of Israel which had hid themselves in mount Ephraim, when they heard that the Philistines fled, even they also followed hard after them in the battle.
 
-**TDB77:** Tua mah bangin, Filistiate a taina thu Efraim mual tung gam-a a bu Israel mite khempeuh in a zak uh ciangin amaute in zong gal phualah nakpi takin amaute nung delh uh hi.
+**TDB77:** Tua mah bangin, Filistiate a taina thu Efraim mual tung gam-a a bu Israel mite khempeuh in a zak-te ciangin amaute in zong gal phualah nakpi takin amaute nung delh-te hi.
 
-**ZVS:** Tua mah bangin, Filistia-te a taina thu Efraim mualtung gamah a bu Israel mite khempeuh in a zak uh ciangin amaute in zong galphualah nakpi takin a nungdelh uh hi.
+**ZVS:** Tua mah bangin, Filistia-te a taina thu Efraim mualtung gamah a bu Israel mite khempeuh in a zak-te ciangin amaute in zong galphualah nakpi takin a nungdelh-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -232,16 +232,16 @@
 ### v24
 **EN:** And the men of Israel were distressed that day: for Saul had adjured the people, saying, Cursed be the man that eateth any food until evening, that I may be avenged on mine enemies. So none of the people tasted any food.
 
-**TDB77:** Israel mite tua ni-in lungkham uh hi; bang hang hiam cih leh Saul in mite tungah kiciamna khat koih a, “Tu nitak mateng leh ka galte ka thuk matengin an a nepa in samsiatna ngah ta hen,” a ci hi. Tua ahih ciangin mite khat beek in an ciam lo uh hi.
+**TDB77:** Israel mite tua ni-in lungkham-te hi; bang hang hiam cih leh Saul in mite tungah kiciamna khat koih a, “Tu nitak mateng leh ka galte ka thuk matengin an a nepa in samsiatna ngah ta hen,” a ci hi. Tua ahih ciangin mite khat beek in an ciam lo-te hi.
 
-**ZVS:** Israel mite tua ni-in lungkham uh hi; bang hang hiam cih leh Saul in mite tungah kiciamna khat koih a, “Tu nitak mateng leh ka galte ka thukzawh matengin an a nepa in samsiatna ngah ta hen,” a ci hi. Tua ahih ciangin mite khat beek in an ciamlo uh hi.
+**ZVS:** Israel mite tua ni-in lungkham-te hi; bang hang hiam cih leh Saul in mite tungah kiciamna khat koih a, “Tu nitak mateng leh ka galte ka thukzawh matengin an a nepa in samsiatna ngah ta hen,” a ci hi. Tua ahih ciangin mite khat beek in an ciamlo-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** And all they of the land came to a wood; and there was honey upon the ground.
 
-**TDB77:** Mi khempeuh tulak tung uh hi; lei lakah khuaizu om hi.
+**TDB77:** Mi khempeuh tulak tung-te hi; lei lakah khuaizu om hi.
 
 **ZVS:** Mi khempeuh tulak a tun' uh ciangin mun citengah khuaizu na om hi.
 
@@ -250,9 +250,9 @@
 ### v26
 **EN:** And when the people were come into the wood, behold, the honey dropped; but no man put his hand to his mouth: for the people feared the oath.
 
-**TDB77:** Mite tulak a lut uh ciangin, en in, a khuaizu taak a, ahih hangin kuamah in a kam sungah a khut tun’ lo hi; bang hang hiam cih leh mite in tua kiciamna kihta uh hi.
+**TDB77:** Mite tulak a lut-te ciangin, en in, a khuaizu taak a, ahih hangin kuamah in a kam sungah a khut tun’ lo hi; bang hang hiam cih leh mite in tua kiciamna kihta-te hi.
 
-**ZVS:** Mite tulak a lut uh ciangin, a khuaizu taak a, ahih hangin kuamah in ciam ngam vetlo uh hi. Bang hang hiam cih leh mite in tua kiciamna kihta uh hi.
+**ZVS:** Mite tulak a lut-te ciangin, a khuaizu taak a, ahih hangin kuamah in ciam ngam vetlo-te hi. Bang hang hiam cih leh mite in tua kiciamna kihta-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -268,9 +268,9 @@
 ### v28
 **EN:** Then answered one of the people, and said, Thy father straitly charged the people with an oath, saying, Cursed be the man that eateth any food this day. And the people were faint.
 
-**TDB77:** Tua ciangin mite khat in, “Na pa in kiciamna khat tawh nakpi takin mite thuhilh a, ‘Tu ni-in an a ne mipa in samsiatna ngah ta hen,’ ci hi,” a ci hi. Mite gim mahmah uh hi.
+**TDB77:** Tua ciangin mite khat in, “Na pa in kiciamna khat tawh nakpi takin mite thuhilh a, ‘Tu ni-in an a ne mipa in samsiatna ngah ta hen,’ ci hi,” a ci hi. Mite gim mahmah-te hi.
 
-**ZVS:** Tua ciangin mite khat in, “Na pa in kiciamna khat tawh nakpi takin mite thuhilh a, ‘Tuni-in an a ne mipa in samsiatna ngah ta hen,’ ci hi,” a ci hi. Mite gim mahmah uh hi.
+**ZVS:** Tua ciangin mite khat in, “Na pa in kiciamna khat tawh nakpi takin mite thuhilh a, ‘Tuni-in an a ne mipa in samsiatna ngah ta hen,’ ci hi,” a ci hi. Mite gim mahmah-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -293,36 +293,36 @@
 ### v31
 **EN:** And they smote the Philistines that day from Michmash to Aijalon: and the people were very faint.
 
-**TDB77:** Amaute in tua ni-in Mikmash panin Aijalon ciang dong Filistiate sattuk uh hi. Tua ciangin mite gim mahmah uh hi;
+**TDB77:** Amaute in tua ni-in Mikmash panin Aijalon ciang dong Filistiate sattuk-te hi. Tua ciangin mite gim mahmah-te hi;
 
-**ZVS:** Amaute in tua ni-in Mikmash panin Aijalon ciangdong Filistia-te sattuk uh hi. Tua ciangin mite gim mahmah uh hi.
+**ZVS:** Amaute in tua ni-in Mikmash panin Aijalon ciangdong Filistia-te sattuk-te hi. Tua ciangin mite gim mahmah-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | serial verb: -in (and then) | plural: uh marker
 
 ### v32
 **EN:** And the people flew upon the spoil, and took sheep, and oxen, and calves, and slew them on the ground: and the people did eat them with the blood.
 
-**TDB77:** van kinusiate tungah mite va leengin, tuu leh bawngtal leh bawngnote a tuahtuah munah that uh hi; tua ciangin mite in tuate a si tawh ne uh hi.
+**TDB77:** van kinusiate tungah mite va leengin, tuu leh bawngtal leh bawngnote a tuahtuah munah that-te hi; tua ciangin mite in tuate a si tawh ne-te hi.
 
-**ZVS:** Van kinusiate tungah mite va leengin, tuu leh bawngtal leh bawngnote a tuahtuahna munah go uh a, mite in tuate a si tawh a ne uh hi.
+**ZVS:** Van kinusiate tungah mite va leengin, tuu leh bawngtal leh bawngnote a tuahtuahna munah go-te a, mite in tuate a si tawh a ne-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v33
 **EN:** Then they told Saul, saying, Behold, the people sin against the
 
-**TDB77:** Tua ciangin amaute in Saul kiangah gen uh a, “En in, a si tawh nekna hangin Topa tungah mite khial uh hi,” a ci uh hi. Tua ciangin amah in, “Na zuau gamtat khin uh hi; suangtum lian khat kei kiang hih lai-ah hong khuk dih un,” a ci hi.
+**TDB77:** Tua ciangin amaute in Saul kiangah gen-te a, “En in, a si tawh nekna hangin Topa tungah mite khial-te hi,” a ci-te hi. Tua ciangin amah in, “Na zuau gamtat khin-te hi; suangtum lian khat kei kiang hih lai-ah hong khuk dih un,” a ci hi.
 
-**ZVS:** Tua ciangin Saul kiangah thu kiko a, “A si tawh sa nekna hangin { Topa' } tungah mite khial uh hi,” kici hi. Tua ciangin amah in, “Na zuau gamtat khin uh hi; suangtum lian khat hih lai kei kiangah hong khuk dih un,” a ci hi.
+**ZVS:** Tua ciangin Saul kiangah thu kiko a, “A si tawh sa nekna hangin { Topa' } tungah mite khial-te hi,” kici hi. Tua ciangin amah in, “Na zuau gamtat khin-te hi; suangtum lian khat hih lai kei kiangah hong khuk dih un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | completed: already done | reciprocal: ki- prefix | plural: uh marker
 
 ### v34
 **EN:** And Saul said, Disperse yourselves among the people, and say unto them, Bring me hither every man his ox, and every man his sheep, and slay them here, and eat; and sin not against the
 
-**TDB77:** Tua ciangin Saul in, “Mite lakah note pai un la, amaute kiangah, ‘Mi khempeuh in a bawngtal ahi a, a tuu ahi zongin hih lai-ah hong paipih hen la, ne un; a si tawh nekna hangin Topa tungah khial kei un,’ ci un,” a ci hi. Tua ahih ciangin mi khempeuh in tua zanin a bawngtal uh hong paipihin tua mun-ah go uh hi.
+**TDB77:** Tua ciangin Saul in, “Mite lakah note pai un la, amaute kiangah, ‘Mi khempeuh in a bawngtal ahi a, a tuu ahi zongin hih lai-ah hong paipih hen la, ne un; a si tawh nekna hangin Topa tungah khial kei un,’ ci un,” a ci hi. Tua ahih ciangin mi khempeuh in tua zanin a bawngtal-te hong paipihin tua mun-ah go-te hi.
 
-**ZVS:** Tua ciangin Saul in, “Mite lakah note pai-in amaute kiangah, ‘Mi khempeuh in a bawngtal ahi a, a tuu ahi zongin hih lai-ah hong paipihin go un la, a sa ne un; a si tawh nekna hangin { Topa' } tungah khial kei un,’ ci un,” a ci hi. Tua ahih ciangin mi khempeuh in tua zanin a bawngtalte uh hong paipihin tua munah go uh hi.
+**ZVS:** Tua ciangin Saul in, “Mite lakah note pai-in amaute kiangah, ‘Mi khempeuh in a bawngtal ahi a, a tuu ahi zongin hih lai-ah hong paipihin go un la, a sa ne un; a si tawh nekna hangin { Topa' } tungah khial kei un,’ ci un,” a ci hi. Tua ahih ciangin mi khempeuh in tua zanin a bawngtalte-te hong paipihin tua munah go-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -338,9 +338,9 @@
 ### v36
 **EN:** And Saul said, Let us go down after the Philistines by night, and spoil them until the morning light, and let us not leave a man of them. And they said, Do whatsoever seemeth good unto thee. Then said the priest, Let us draw near hither unto God.
 
-**TDB77:** Tua ciangin Saul in, “Filistiate kiangah zanin paisukin zingsang khuavak mateng amaute va sugawp ni; amaute mi khat zong siit kei ni,” a ci hi. Tua ciangin amaute in, “Hoih na sak peuhpeuh hih in,” a ci uh hi. Ahih hangin siampipa in, “Hih lai-ah Pasian kiang nai-ni,” a ci hi.
+**TDB77:** Tua ciangin Saul in, “Filistiate kiangah zanin paisukin zingsang khuavak mateng amaute va sugawp ni; amaute mi khat zong siit kei ni,” a ci hi. Tua ciangin amaute in, “Hoih na sak peuhpeuh hih in,” a ci-te hi. Ahih hangin siampipa in, “Hih lai-ah Pasian kiang nai-ni,” a ci hi.
 
-**ZVS:** Tua ciangin Saul in, “Filistia-te kiangah zanin paisukin zingsang khuavak dong amaute va sugawp ni; amaute mi khat zong sit kei ni,” a ci hi. Tua ciangin amaute in, “Hoih na sak peuhpeuh hih in,” a ci uh hi. Ahih hangin siampipa in, “Hih lai-ah Pasian kiang nai ni,” a ci hi.
+**ZVS:** Tua ciangin Saul in, “Filistia-te kiangah zanin paisukin zingsang khuavak dong amaute va sugawp ni; amaute mi khat zong sit kei ni,” a ci hi. Tua ciangin amaute in, “Hoih na sak peuhpeuh hih in,” a ci-te hi. Ahih hangin siampipa in, “Hih lai-ah Pasian kiang nai ni,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -374,9 +374,9 @@
 ### v40
 **EN:** Then said he unto all Israel, Be ye on one side, and I and Jonathan my son will be on the other side. And the people said unto Saul, Do what seemeth good unto thee.
 
-**TDB77:** Tua ciangin amah in Israelte khempeuh tungah, “Note lang khatah na om ding uh a, kei leh ka tapa Jonathan a lang khatah ka om ding uh hi,” a ci hi. Tua ciangin mite in Saul kiangah, “Hoih na sak bangin hih in,’ a ci uh hi.
+**TDB77:** Tua ciangin amah in Israelte khempeuh tungah, “Note lang khatah na om ding-te a, kei leh ka tapa Jonathan a lang khatah ka om ding-te hi,” a ci hi. Tua ciangin mite in Saul kiangah, “Hoih na sak bangin hih in,’ a ci-te hi.
 
-**ZVS:** Tua ciangin amah in Israel-te khempeuh tungah, “Note langkhatah na om ding uh a, kei leh ka tapa Jonathan a langkhatah ka om ding uh hi,” a ci hi. Tua ciangin mite in Saul kiangah, “Hoih na sak bangin hih in,” a ci uh hi.
+**ZVS:** Tua ciangin amah in Israel-te khempeuh tungah, “Note langkhatah na om ding-te a, kei leh ka tapa Jonathan a langkhatah ka om ding-te hi,” a ci hi. Tua ciangin mite in Saul kiangah, “Hoih na sak bangin hih in,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -419,18 +419,18 @@
 ### v45
 **EN:** And the people said unto Saul, Shall Jonathan die, who hath wrought this great salvation in Israel? God forbid: as the
 
-**TDB77:** Tua ciangin mite in Saul kiangah, “Israelte sungah hih gualzawhna lian a piangsak Jonathan si ding ahi hiam? Hi dek peuhmah lo ding! Topa a nuntak mah bangin, a lu tunga sam khat zong lei lakah kia lo ding hi; bang hang hiam cih leh amah in Pasian tawh tu ni-in tua thu piangsak hi,” a ci uh hi. Tua ahih ciangin mite in Jonathan tankhia uh a, amah si lo hi.
+**TDB77:** Tua ciangin mite in Saul kiangah, “Israelte sungah hih gualzawhna lian a piangsak Jonathan si ding ahi hiam? Hi dek peuhmah lo ding! Topa a nuntak mah bangin, a lu tunga sam khat zong lei lakah kia lo ding hi; bang hang hiam cih leh amah in Pasian tawh tu ni-in tua thu piangsak hi,” a ci-te hi. Tua ahih ciangin mite in Jonathan tankhia-te a, amah si lo hi.
 
-**ZVS:** Tua ciangin mite in Saul kiangah, “Israel-te sungah hih gualzawhna lian a piangsak Jonathan si ding ahi hiam? Hi dek peuhmahlo ding! { Topa } a nuntak mah bangin, a lu tunga samzang khat zong leilakah kialo ding hi; bang hang hiam cih leh amah in Pasian tawh tuni-in tua thu piangsak hi,” a ci uh hi. Tua ahih ciangin mite in Jonathan honkhia uh a, amah silo hi.
+**ZVS:** Tua ciangin mite in Saul kiangah, “Israel-te sungah hih gualzawhna lian a piangsak Jonathan si ding ahi hiam? Hi dek peuhmahlo ding! { Topa } a nuntak mah bangin, a lu tunga samzang khat zong leilakah kialo ding hi; bang hang hiam cih leh amah in Pasian tawh tuni-in tua thu piangsak hi,” a ci-te hi. Tua ahih ciangin mite in Jonathan honkhia-te a, amah silo hi.
 
 **Grammar:** causative: -sak suffix | quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v46
 **EN:** Then Saul went up from following the Philistines: and the Philistines went to their own place.
 
-**TDB77:** Tua ciangin Filistiate a delhna panin Saul paito hi; Filistiate amau’ mun-ah ciah uh hi.
+**TDB77:** Tua ciangin Filistiate a delhna panin Saul paito hi; Filistiate amau’ mun-ah ciah-te hi.
 
-**ZVS:** Tua ciangin Filistia-te a delhna panin Saul khawl a, Filistia-te zong amau' munah a ciah uh hi.
+**ZVS:** Tua ciangin Filistia-te a delhna panin Saul khawl a, Filistia-te zong amau' munah a ciah-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -473,9 +473,9 @@
 ### v51
 **EN:** And Kish was the father of Saul; and Ner the father of Abner was the son of Abiel.
 
-**TDB77:** Saul’ pa Kish leh Abner’ pa Ner in Abiel’ tapate ahi uh hi.
+**TDB77:** Saul’ pa Kish leh Abner’ pa Ner in Abiel’ tapate ahi-te hi.
 
-**ZVS:** Saul' pa Kish leh Abner' pa Ner pen Abiel' tapate ahi uh hi.
+**ZVS:** Saul' pa Kish leh Abner' pa Ner pen Abiel' tapate ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

@@ -33,7 +33,7 @@
 ### v2
 **EN:** And found a certain Jew named Aquila, born in Pontus, lately come from Italy, with his wife Priscilla; (because that Claudius had commanded all Jews to depart from Rome:) and came unto them.
 
-**TDB77:** Tua lai takin Klaudia kumpipa in Judah mi khempeuh Rom khua pan a paikhiat nadingun thu pia zo ahih ciangin Pontas gammi ahi, a min Akuila kici Judah mi khat a zi Prisilla tawh, Italy gam panin a sawt loin hong tung uh a, Paul in a muh ciangin a kiangah a tung hi.
+**TDB77:** Tua lai takin Klaudia kumpipa in Judah mi khempeuh Rom khua pan a paikhiat nadingun thu pia zo ahih ciangin Pontas gammi ahi, a min Akuila kici Judah mi khat a zi Prisilla tawh, Italy gam panin a sawt loin hong tung-te a, Paul in a muh ciangin a kiangah a tung hi.
 
 **ZVS:** Tua lai-ah Pontas gama suak, Jew mi Aquila a kici mi khat tawh a kimu hi. Gam uk Kumpipa in Jew mi khempeuh Rom khua panin a taikhiatna dingun thu pia ahih manin Aquila leh a zi Prisilla pen Italy gam panin Korin khua a hong tun' uh a sawt nailo ahi hi. Tua nupate tawh a kimu dingin Paul zong a inn uhah va hawh a,
 
@@ -42,9 +42,9 @@
 ### v3
 **EN:** And because he was of the same craft, he abode with them, and wrought: for by their occupation they were tentmakers.
 
-**TDB77:** A nasepna uh a kibang ahih ciangin Paul in amau’ innah teeng a, na a semkhawm uh hi. Bang hang hiam i cih leh, amaute in puanbuk khuite ahi uh hi.
+**TDB77:** A nasepna-te a kibang ahih ciangin Paul in amau’ innah teeng a, na a semkhawm-te hi. Bang hang hiam i cih leh, amaute in puanbuk khuite ahi-te hi.
 
-**ZVS:** tua nupate mah bangin Paul zong puanbuk bawl nasep tawh a nungta ahih manin amaute tawh omkhawmin na a semkhawm uh hi.
+**ZVS:** tua nupate mah bangin Paul zong puanbuk bawl nasep tawh a nungta ahih manin amaute tawh omkhawmin na a semkhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -69,9 +69,9 @@
 ### v6
 **EN:** And when they opposed themselves, and blasphemed, he shook his raiment, and said unto them, Your blood be upon your own heads; I am clean: from henceforth I will go unto the Gentiles.
 
-**TDB77:** Judah mite in thu nial uh a, a selpho uh ciangin Paul in langpanna tawh ama puan singkhia-in, “Note’ si uh note lu tungah om ta hen! Keimah ka siang hi. Tu-a kipanin Gentailte kiangah ka pai ding hi,” a cih khit ciangin
+**TDB77:** Judah mite in thu nial-te a, a selpho-te ciangin Paul in langpanna tawh ama puan singkhia-in, “Note’ si-te note lu tungah om ta hen! Keimah ka siang hi. Tu-a kipanin Gentailte kiangah ka pai ding hi,” a cih khit ciangin
 
-**ZVS:** Jew mite in ama thuhilhna nialin a gensiat uh ciangin Paul in a puan tunga leivui bangte sin'sanin, “Pasian tawh kikhenin siatna na tuah uh leh nomau khialhna hi a, kei nong ngawhna ding uh omlo hi. Tu-a kipanin Gentail mite kiangah thu ka hilh ding hi,” a ci hi.
+**ZVS:** Jew mite in ama thuhilhna nialin a gensiat-te ciangin Paul in a puan tunga leivui bangte sin'sanin, “Pasian tawh kikhenin siatna na tuah-te leh nomau khialhna hi a, kei nong ngawhna ding-te omlo hi. Tu-a kipanin Gentail mite kiangah thu ka hilh ding hi,” a ci hi.
 
 **Grammar:** optative: let there be / let it be | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v8
 **EN:** And Crispus, the chief ruler of the synagogue, believed on the Lord with all his house; and many of the Corinthians hearing believed, and were baptized.
 
-**TDB77:** Kikhopna inn ukpa Krispas in ama innkuanpihte tawh Topa a um hi. Korin mi tampite in zong thu ngai uh a, umin a kibaptaiz uh hi.
+**TDB77:** Kikhopna inn ukpa Krispas in ama innkuanpihte tawh Topa a um hi. Korin mi tampite in zong thu ngai-te a, umin a kibaptaiz-te hi.
 
-**ZVS:** Kikhopna inn ukpa Krispas leh a innsunga om mi khempeuh in Topa thu um uh a, Korin khua-a om midang tampite in zong thuhilhna ngai-in um uh a, tui a kiphum uh hi.
+**ZVS:** Kikhopna inn ukpa Krispas leh a innsunga om mi khempeuh in Topa thu um-te a, Korin khua-a om midang tampite in zong thuhilhna ngai-in um-te a, tui a kiphum-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -114,18 +114,18 @@
 ### v12
 **EN:** And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,
 
-**TDB77:** Gallio in Akhaia gam mangpa za a ngah ciangin Judah mite in lungsim kikhatin Paul a man uh a, thukhenna tokhom mai-ah a paipih khit uh ciangin,
+**TDB77:** Gallio in Akhaia gam mangpa za a ngah ciangin Judah mite in lungsim kikhatin Paul a man-te a, thukhenna tokhom mai-ah a paipih khit-te ciangin,
 
-**ZVS:** Rom khutnuai-ah Akhaia gamsung a uk dingin Gallio a kikoih ciangin Jew mite hong kikaikhawm uh a, Paul manin zumah a paipih uh hi.
+**ZVS:** Rom khutnuai-ah Akhaia gamsung a uk dingin Gallio a kikoih ciangin Jew mite hong kikaikhawm-te a, Paul manin zumah a paipih-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** Saying, This fellow persuadeth men to worship God contrary to the law.
 
-**TDB77:** “Hih pa in ngeina hi lopi-in Pasian biak nading mite a zol hi,” a ci uh hi.
+**TDB77:** “Hih pa in ngeina hi lopi-in Pasian biak nading mite a zol hi,” a ci-te hi.
 
-**ZVS:** Amaute in, “Hih mipa in ngeina omlopi-in mite in Pasian a biakna dingin zolding hanciam hi,” a ci uh hi.
+**ZVS:** Amaute in, “Hih mipa in ngeina omlopi-in mite in Pasian a biakna dingin zolding hanciam hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -141,9 +141,9 @@
 ### v15
 **EN:** But if it be a question of words and names, and of your law, look ye to it; for I will be no judge of such matters.
 
-**TDB77:** Tua ahih kei a, thu ahi zongin, min ahi zongin, nomau biakna thukhamna thu ahi zongin ahih leh, no na vaihawm ding uh hi. Tua thute khen ding ka ut kei hi,” a ci hi.
+**TDB77:** Tua ahih kei a, thu ahi zongin, min ahi zongin, nomau biakna thukhamna thu ahi zongin ahih leh, no na vaihawm ding-te hi. Tua thute khen ding ka ut kei hi,” a ci hi.
 
-**ZVS:** Ahi zongin hih thu pen kam zatzia, min, leh na ngeina uh a kituh na hih manun nomau mah in khentawm un. Tua bang thute keimah in ka hong khen kei ding hi,” a cih khit ciangin,
+**ZVS:** Ahi zongin hih thu pen kam zatzia, min, leh na ngeina-te a kituh na hih manun nomau mah in khentawm un. Tua bang thute keimah in ka hong khen kei ding hi,” a cih khit ciangin,
 
 **Grammar:** quotative: said/saying | future: will | negation: kei | plural: uh marker
 
@@ -159,9 +159,9 @@
 ### v17
 **EN:** Then all the Greeks took Sosthenes, the chief ruler of the synagogue, and beat him before the judgment seat. And Gallio cared for none of those things.
 
-**TDB77:** Mihonpite in kikhopna inn ukpa Sosthenes manin thukhenna tokhom mai-ah a sat uh hi. Gallio in ahih leh, tua thu phamawh sa loin a om hi.
+**TDB77:** Mihonpite in kikhopna inn ukpa Sosthenes manin thukhenna tokhom mai-ah a sat-te hi. Gallio in ahih leh, tua thu phamawh sa loin a om hi.
 
-**ZVS:** Amaute in kikhopna inn ukpa Sosthenes manin, zum mai-ah satgawp uh a, ahi zongin Gallio in themkhat zong phamawh salo hi.
+**ZVS:** Amaute in kikhopna inn ukpa Sosthenes manin, zum mai-ah satgawp-te a, ahi zongin Gallio in themkhat zong phamawh salo hi.
 
 **Grammar:** causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -170,7 +170,7 @@
 
 **TDB77:** Paul in ni tampi a tam khit ciangin ute naute tawh kikhen a, nidang lai-a a kiciamsa bangin Kenkhrea khua-ah a sam a met khit ciangin, Prisilla leh Akuila tawh teembaw tuangin Siria gamah a pai hi.
 
-**ZVS:** Korin khua-ah ni tampi sung thu um mite tawh Paul omkhawm lai a, tua khit ciangin amaute mangpha khakin Syria gam a zuan dingin Prisilla leh Aquila tawh teembaw a tuang uh hi. Paul in Pasian tungah thuciamnasa nei ahih manin teembaw a tuan' ma-un Korin khuapi teembaw khawlna Kenkhrea munah a sam a metsak hi.
+**ZVS:** Korin khua-ah ni tampi sung thu um mite tawh Paul omkhawm lai a, tua khit ciangin amaute mangpha khakin Syria gam a zuan dingin Prisilla leh Aquila tawh teembaw a tuang-te hi. Paul in Pasian tungah thuciamnasa nei ahih manin teembaw a tuan' ma-un Korin khuapi teembaw khawlna Kenkhrea munah a sam a metsak hi.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -179,16 +179,16 @@
 
 **TDB77:** Efesa khua-ah a tun’ uh ciangin Akuila leh Prisilla a nusia hi. Paul ahih leh, kikhopna inn sungah lut a, Judah mite tawh a kikum hi.
 
-**ZVS:** Tua bangin a pai uh ciangin Efesa khua tung uh a, Paul zong kikhopna inn-ah pai-in Jew mite tawh thu a kisel uh hi. Tua khua-ah Prisilla leh Aquila-te nupa a taam laina ding Paul in a gen hi.
+**ZVS:** Tua bangin a pai-te ciangin Efesa khua tung-te a, Paul zong kikhopna inn-ah pai-in Jew mite tawh thu a kisel-te hi. Tua khua-ah Prisilla leh Aquila-te nupa a taam laina ding Paul in a gen hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v20
 **EN:** When they desired him to tarry longer time with them, he consented not;
 
-**TDB77:** Amaute in amaute tawh Paul a om lai nadingin thu a nget uh hangin mang loin,
+**TDB77:** Amaute in amaute tawh Paul a om lai nadingin thu a nget-te hangin mang loin,
 
-**ZVS:** Thu um mi pawlkhatte in ni tampi sung Paul a tamna dingin gen uh a, ahi zongin amah tam nuamlo hi;
+**ZVS:** Thu um mi pawlkhatte in ni tampi sung Paul a tamna dingin gen-te a, ahi zongin amah tam nuamlo hi;
 
 **Grammar:** purpose: in order to
 
@@ -238,18 +238,18 @@
 ### v26
 **EN:** And he began to speak boldly in the synagogue: whom when Aquila and Priscilla had heard, they took him unto them, and expounded unto him the way of God more perfectly.
 
-**TDB77:** Amah in kikhopna inn sungah lau loin thu a hilh hi. Prisilla leh Akuila in ama thu a zak uh ciangin, a sam uh a, Pasian’ ngeina thu a tel zaw-in a hilh uh hi.
+**TDB77:** Amah in kikhopna inn sungah lau loin thu a hilh hi. Prisilla leh Akuila in ama thu a zak-te ciangin, a sam-te a, Pasian’ ngeina thu a tel zaw-in a hilh-te hi.
 
-**ZVS:** Amah in kikhopna innsungah hangtakin thu hilh ding kipan a, Prisilla leh Aquila in ama thuhilhna a zak uh ciangin a omna uh inn-ah Apollos ciahpihin, Pasian' thu paiziate a mantakin a hilhtel uh hi.
+**ZVS:** Amah in kikhopna innsungah hangtakin thu hilh ding kipan a, Prisilla leh Aquila in ama thuhilhna a zak-te ciangin a omna-te inn-ah Apollos ciahpihin, Pasian' thu paiziate a mantakin a hilhtel-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** And when he was disposed to pass into Achaia, the brethren wrote, exhorting the disciples to receive him: who, when he was come, helped them much which had believed through grace:
 
-**TDB77:** Tua ciangin amah in Akhaia gamah pai a sawm ciangin, ute naute in tua lai-a om nungzuite in a tun’sak nadingun vaikhakna lai a pia uh a, a hansuah uh hi. Amah in a tun’ ciangin hehpihna thupha tawh a um mite nakpi-in a huh hi.
+**TDB77:** Tua ciangin amah in Akhaia gamah pai a sawm ciangin, ute naute in tua lai-a om nungzuite in a tun’sak nadingun vaikhakna lai a pia-te a, a hansuah-te hi. Amah in a tun’ ciangin hehpihna thupha tawh a um mite nakpi-in a huh hi.
 
-**ZVS:** Akhaia gamah Apollos pai ding a sawm ciangin, Akhaia gama om thu um mite in limtakin a na pawlbawlna ding uh deihna tawh Efesa khua-a om thu um mite in lai a khak uh hi. Amah a tun' ciangin Pasian hehpihna hangin Jesuh thu a um tua lai-a om mite-a' dingin nuamtuam mahmah hi.
+**ZVS:** Akhaia gamah Apollos pai ding a sawm ciangin, Akhaia gama om thu um mite in limtakin a na pawlbawlna ding-te deihna tawh Efesa khua-a om thu um mite in lai a khak-te hi. Amah a tun' ciangin Pasian hehpihna hangin Jesuh thu a um tua lai-a om mite-a' dingin nuamtuam mahmah hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 

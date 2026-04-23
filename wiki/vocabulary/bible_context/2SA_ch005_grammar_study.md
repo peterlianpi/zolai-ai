@@ -25,27 +25,27 @@
 ### v1
 **EN:** Then came all the tribes of Israel to David unto Hebron, and spake, saying, Behold, we are thy bone and thy flesh.
 
-**TDB77:** Tu ciangin Israel minamte khempeuh Hebron-a David kiangah hong pai-in, “En in, kote in nangma guh leh nangma sa ka hi uh hi.
+**TDB77:** Tu ciangin Israel minamte khempeuh Hebron-a David kiangah hong pai-in, “En in, kote in nangma guh leh nangma sa ka hi-te hi.
 
-**ZVS:** Tua ciangin Israel minamte khempeuh Hebron-a David kiangah hong pai-in, “En in, kote pen nangma guh leh nangma sa ka hi uh hi.
+**ZVS:** Tua ciangin Israel minamte khempeuh Hebron-a David kiangah hong pai-in, “En in, kote pen nangma guh leh nangma sa ka hi-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** Also in time past, when Saul was king over us, thou wast he that leddest out and broughtest in Israel: and the
 
-**TDB77:** A beisa hunte ah, Saul in kote tungah kumpi ahih lai takin Israelte paikhiatpih in, a tumpihpa in nangmah na hi hi; Topa in nangma kiangah, ‘Nang in keima mi Israelte a cingpa hi-in, Israelte tungah ulian na hi ding hi,’ hong ci hi.” a ci uh hi.
+**TDB77:** A beisa hunte ah, Saul in kote tungah kumpi ahih lai takin Israelte paikhiatpih in, a tumpihpa in nangmah na hi hi; Topa in nangma kiangah, ‘Nang in keima mi Israelte a cingpa hi-in, Israelte tungah ulian na hi ding hi,’ hong ci hi.” a ci-te hi.
 
-**ZVS:** A beisa hunte-ah, kote tungah Saul kumpi ahih laitakin Israel-te kuan khiatpihin a ciahpihpa pen nangmah na hi hi. { Topa } in nangma kiangah, ‘Nang pen keima mi Israel-te a cingpa hi-in, Israel-te tungah ulian na hi ding hi,’ hong ci hi,” a ci uh hi.
+**ZVS:** A beisa hunte-ah, kote tungah Saul kumpi ahih laitakin Israel-te kuan khiatpihin a ciahpihpa pen nangmah na hi hi. { Topa } in nangma kiangah, ‘Nang pen keima mi Israel-te a cingpa hi-in, Israel-te tungah ulian na hi ding hi,’ hong ci hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** So all the elders of Israel came to the king to Hebron; and king David made a league with them in Hebron before the
 
-**TDB77:** Tua ahih ciangin Israel upate khempeuh Hebron-a kumpipa kiangah hong pai uh hi; Kumpipa David in amaute tawh Topa mai Hebron ah thuciamna khat bawl a, amaute in Israelte tungah kumpi-in David sathau nilh uh hi.
+**TDB77:** Tua ahih ciangin Israel upate khempeuh Hebron-a kumpipa kiangah hong pai-te hi; Kumpipa David in amaute tawh Topa mai Hebron ah thuciamna khat bawl a, amaute in Israelte tungah kumpi-in David sathau nilh-te hi.
 
-**ZVS:** Tua ahih ciangin Israel upate khempeuh Hebron-a kumpipa kiangah hong pai uh hi. Kumpipa David in amaute tawh { Topa' } mai Hebron-ah thuciamna khat bawl a, amaute in Israel-te tungah kumpi-in David sathau a nilh uh hi.
+**ZVS:** Tua ahih ciangin Israel upate khempeuh Hebron-a kumpipa kiangah hong pai-te hi. Kumpipa David in amaute tawh { Topa' } mai Hebron-ah thuciamna khat bawl a, amaute in Israel-te tungah kumpi-in David sathau a nilh-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -66,9 +66,9 @@
 ### v6
 **EN:** And the king and his men went to Jerusalem unto the Jebusites, the inhabitants of the land: which spake unto David, saying, Except thou take away the blind and the lame, thou shalt not come in hither: thinking, David cannot come in hither.
 
-**TDB77:** Tua ciangin kumpipa leh a mite tua gam-a teeng Jebus mite do dingin Jerusalem ah pai uh a, amaute in David kiangah, “Hih lai-ah hong pai zo kei ding hi; mittawte leh khebaite nangawn in nang hong nang zo ding uh hi,” a ci uh hi- “Hih lai-ah David hong pai zo peuhmah lo ding hi,” ci-in ngaihsun uh hi.
+**TDB77:** Tua ciangin kumpipa leh a mite tua gam-a teeng Jebus mite do dingin Jerusalem ah pai-te a, amaute in David kiangah, “Hih lai-ah hong pai zo kei ding hi; mittawte leh khebaite nangawn in nang hong nang zo ding-te hi,” a ci-te hi- “Hih lai-ah David hong pai zo peuhmah lo ding hi,” ci-in ngaihsun-te hi.
 
-**ZVS:** Tua ciangin kumpipa leh a mite tua gama teng Jebus mite a sim dingin Jerusalem-ah pai uh a, amaute in David kiangah, “Kote nong zo vet kei ding hi; mittaw leh khebaite nangawn in nang hong notkhiazo ding uh hi,” a ci uh hi. “Hih lai-ah David hong paizo peuhmahlo ding hi,” ci-in ngaihsun uh hi.
+**ZVS:** Tua ciangin kumpipa leh a mite tua gama teng Jebus mite a sim dingin Jerusalem-ah pai-te a, amaute in David kiangah, “Kote nong zo vet kei ding hi; mittaw leh khebaite nangawn in nang hong notkhiazo ding-te hi,” a ci-te hi. “Hih lai-ah David hong paizo peuhmahlo ding hi,” ci-in ngaihsun-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -149,18 +149,18 @@
 ### v17
 **EN:** But when the Philistines heard that they had anointed David king over Israel, all the Philistines came up to seek David; and David heard of it, and went down to the hold.
 
-**TDB77:** Israelte tungah kumpi-in David sathau a kinilh khitna thu Filistiate in a zak uh ciangin David a man dingin Filistiate khempeuh kuanto uh hi; ahih hangin David in tua thu za-in mun muanhuai ah paisuk hi.
+**TDB77:** Israelte tungah kumpi-in David sathau a kinilh khitna thu Filistiate in a zak-te ciangin David a man dingin Filistiate khempeuh kuanto-te hi; ahih hangin David in tua thu za-in mun muanhuai ah paisuk hi.
 
-**ZVS:** Israel-te tungah kumpi-in David sathau a kinilh khitna thu Filistia-te in a zak uh ciangin David a man dingin Filistia-te khempeuh kuanto uh hi. Ahih hangin David in tua thu za-in munmuan'huai-ah paisuk hi.
+**ZVS:** Israel-te tungah kumpi-in David sathau a kinilh khitna thu Filistia-te in a zak-te ciangin David a man dingin Filistia-te khempeuh kuanto-te hi. Ahih hangin David in tua thu za-in munmuan'huai-ah paisuk hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** The Philistines also came and spread themselves in the valley of Rephaim.
 
-**TDB77:** Tu-in Filistiate hong pai-in Refaim kuam sung dim khin uh hi.
+**TDB77:** Tu-in Filistiate hong pai-in Refaim kuam sung dim khin-te hi.
 
-**ZVS:** Tu-in Filistia-te hong pai-in Refaim kuamsung dim uh hi.
+**ZVS:** Tu-in Filistia-te hong pai-in Refaim kuamsung dim-te hi.
 
 **Grammar:** serial verb: -in (and then) | completed: already done | plural: uh marker
 
@@ -185,18 +185,18 @@
 ### v21
 **EN:** And there they left their images, and David and his men burned them.
 
-**TDB77:** Filistiate in tua lai-ah a milimte uh nusia uh a, David leh a mite in tuate puakhia uh hi.
+**TDB77:** Filistiate in tua lai-ah a milimte-te nusia-te a, David leh a mite in tuate puakhia-te hi.
 
-**ZVS:** Filistia-te in tua lai-ah a milimte uh nusia uh a, David leh a mite in tuate a puakhia uh hi.
+**ZVS:** Filistia-te in tua lai-ah a milimte-te nusia-te a, David leh a mite in tuate a puakhia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** And the Philistines came up yet again, and spread themselves in the valley of Rephaim.
 
-**TDB77:** Tua ciangin Filistiate hong kuanto kik lai-in Refaim kuam sung dim khin uh hi.
+**TDB77:** Tua ciangin Filistiate hong kuanto kik lai-in Refaim kuam sung dim khin-te hi.
 
-**ZVS:** Tua ciangin Filistia-te hong kuantokik lai-in Refaim kuamsung dim khin uh hi.
+**ZVS:** Tua ciangin Filistia-te hong kuantokik lai-in Refaim kuamsung dim khin-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | completed: already done | reciprocal: ki- prefix | plural: uh marker
 

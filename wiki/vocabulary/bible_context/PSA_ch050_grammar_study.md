@@ -90,9 +90,9 @@
 ### v8
 **EN:** I will not reprove thee for thy sacrifices or thy burnt offerings, to have been continually before me.
 
-**TDB77:** Na biak piakna uh ah note kong mawhsak kei hi; na meihal biaknate uh ka mai-ah om ngitnget hi.
+**TDB77:** Na biak piakna-te ah note kong mawhsak kei hi; na meihal biaknate-te ka mai-ah om ngitnget hi.
 
-**ZVS:** Na biakpiakna uhah note kong mawhsak kei hi. Na meihal biaknate uh ka mai-ah om ngitnget hi.
+**ZVS:** Na biakpiakna uhah note kong mawhsak kei hi. Na meihal biaknate-te ka mai-ah om ngitnget hi.
 
 **Grammar:** negation: kei
 
@@ -138,70 +138,70 @@
 ### v14
 **EN:** Offer unto God thanksgiving; and pay thy vows unto the most High:
 
-**TDB77:** Lungdam biakpiakna Pasian’ tungah pia un la, Sang Penpa tungah na thuciamnate uh bawl un;
+**TDB77:** Lungdam biakpiakna Pasian’ tungah pia un la, Sang Penpa tungah na thuciamnate-te bawl un;
 
-**ZVS:** Lungdam biakpiakna Pasian tungah pia un la, Sangpenpa tungah na thuciamnate uh bawl un.
+**ZVS:** Lungdam biakpiakna Pasian tungah pia un la, Sangpenpa tungah na thuciamnate-te bawl un.
 
 ### v15
 **EN:** And call upon me in the day of trouble: I will deliver thee, and thou shalt glorify me.
 
-**TDB77:** haksat hun ciangin kei tungah hong ko un; note kong honkhia ding a, note in kei nong thangsak ding uh hi.”
+**TDB77:** haksat hun ciangin kei tungah hong ko un; note kong honkhia ding a, note in kei nong thangsak ding-te hi.”
 
-**ZVS:** Haksat hun ciangin keima tungah hong ko un. Note kong honkhia ding a, note in keima min nong thangsak ding uh hi,” a ci hi.
+**ZVS:** Haksat hun ciangin keima tungah hong ko un. Note kong honkhia ding a, note in keima min nong thangsak ding-te hi,” a ci hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v16
 **EN:** But unto the wicked God saith, What hast thou to do to declare my statutes, or that thou shouldest take my covenant in thy mouth?
 
-**TDB77:** Ahih hangin migilote tungah Pasian in hih bangin ci hi: “Ka thukhamte lawh nading, ka thuciamna na muk uh tawh gen nading note in bang thu nei na hi uh hiam?
+**TDB77:** Ahih hangin migilote tungah Pasian in hih bangin ci hi: “Ka thukhamte lawh nading, ka thuciamna na muk-te tawh gen nading note in bang thu nei na hi-te hiam?
 
-**ZVS:** Ahih hangin migilote tungah Pasian in thu gen a, “Ka thukhamte lawhna ding ka thuciamna na muk uh tawh genna ding thu nei na hi uh hiam?
+**ZVS:** Ahih hangin migilote tungah Pasian in thu gen a, “Ka thukhamte lawhna ding ka thuciamna na muk-te tawh genna ding thu nei na hi-te hiam?
 
 **Grammar:** quotative: said/saying
 
 ### v17
 **EN:** Seeing thou hatest instruction, and castest my words behind thee.
 
-**TDB77:** Bang hang hiam cih leh note in hilhna na mudah uh a, ka thute na nunglam uhah na pai uh hi.
+**TDB77:** Bang hang hiam cih leh note in hilhna na mudah-te a, ka thute na nunglam uhah na pai-te hi.
 
-**ZVS:** Bang hang hiam cih leh hilh ding na ut kei uh a, ka thute na nunglam uhah na paii uh hi.
+**ZVS:** Bang hang hiam cih leh hilh ding na ut kei-te a, ka thute na nunglam uhah na paii-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v18
 **EN:** When thou sawest a thief, then thou consentedst with him, and hast been partaker with adulterers.
 
-**TDB77:** Guta khat mu le uhcin ama lawm, na hi pah uh a, numei-pasal mawhna a bawlte tawh na kikhawl uh hi.
+**TDB77:** Guta khat mu le uhcin ama lawm, na hi pah-te a, numei-pasal mawhna a bawlte tawh na kikhawl-te hi.
 
-**ZVS:** Guta khat mu le uh cin ama lawm na hi pah uh a, a paktat mite tawh na kikhawl uh hi.
+**ZVS:** Guta khat mu le-te cin ama lawm na hi pah-te a, a paktat mite tawh na kikhawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** Thou givest thy mouth to evil, and thy tongue frameth deceit.
 
-**TDB77:** Na kam uh, siatna na uksak uh a, na leii un kheemna khang sak hi.
+**TDB77:** Na kam uh, siatna na uksak-te a, na leii un kheemna khang sak hi.
 
-**ZVS:** “Na kam uh, siatna na uksak uh a, na leii un khemna a khangsak hi.
+**ZVS:** “Na kam uh, siatna na uksak-te a, na leii un khemna a khangsak hi.
 
 **Grammar:** plural: uh marker
 
 ### v20
 **EN:** Thou sittest and speakest against thy brother; thou slanderest thine own mother's son.
 
-**TDB77:** Na tu uh a, na sanggamte langpangin thu na gen uh hi; amaute’ mawhna na zong uh hi.
+**TDB77:** Na tu-te a, na sanggamte langpangin thu na gen-te hi; amaute’ mawhna na zong-te hi.
 
-**ZVS:** Na sanggamte uh langpangin thu na gen uh a, amaute' mawhna na zong uh hi.
+**ZVS:** Na sanggamte-te langpangin thu na gen-te a, amaute' mawhna na zong-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v21
 **EN:** These things hast thou done, and I kept silence; thou thoughtest that I was altogether such an one as thyself: but I will reprove thee, and set them in order before thine eyes.
 
-**TDB77:** Hihte khempeuh na gamta khin uh a, bangmah ka pau kei hi; kei pen no tawh a kibangin nong ngaihsun uh hi. Ahih hangin tu in note kong tai a, na mawhna uh na mai uh-ah ka koih hi.
+**TDB77:** Hihte khempeuh na gamta khin-te a, bangmah ka pau kei hi; kei pen no tawh a kibangin nong ngaihsun-te hi. Ahih hangin tu in note kong tai a, na mawhna-te na mai uh-ah ka koih hi.
 
-**ZVS:** Hihte khempeuh na gamta khin uh a, bangmah ka pau kei hi. Kei pen no tawh a kibangin nong ngaihsunkha uh hi. Ahih hangin tu-in note ka hong taii a, na mawhna uh na mai uhah ka koih hi.
+**ZVS:** Hihte khempeuh na gamta khin-te a, bangmah ka pau kei hi. Kei pen no tawh a kibangin nong ngaihsunkha-te hi. Ahih hangin tu-in note ka hong taii a, na mawhna-te na mai uhah ka koih hi.
 
 **Grammar:** completed: already done | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

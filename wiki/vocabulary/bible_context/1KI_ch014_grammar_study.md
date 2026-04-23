@@ -133,9 +133,9 @@
 ### v13
 **EN:** And all Israel shall mourn for him, and bury him: for he only of Jeroboam shall come to the grave, because in him there is found some good thing toward the
 
-**TDB77:** Tua ciangin Israel khempeuh ama hangin kapin vui ding uh hi; bang hang hiam cih leh Israel Pasian, Topa tungah a lungkimhuai na khat Jeroboam innkuan sung panin ama tungah kimu ahih manin Jeroboam sung panin amah bek hanah pai ding hi.
+**TDB77:** Tua ciangin Israel khempeuh ama hangin kapin vui ding-te hi; bang hang hiam cih leh Israel Pasian, Topa tungah a lungkimhuai na khat Jeroboam innkuan sung panin ama tungah kimu ahih manin Jeroboam sung panin amah bek hanah pai ding hi.
 
-**ZVS:** Tua ciangin Israel mi khempeuh ama hangin kapin vui ding uh hi. Bang hang hiam cih leh Israel Pasian, { Topa' } tungah a lungkimhuai na khat Jeroboam' innkuan sung panin ama tungah kimu ahih manin Jeroboam sung panin amah bek mah hanah kivui ding hi.
+**ZVS:** Tua ciangin Israel mi khempeuh ama hangin kapin vui ding-te hi. Bang hang hiam cih leh Israel Pasian, { Topa' } tungah a lungkimhuai na khat Jeroboam' innkuan sung panin ama tungah kimu ahih manin Jeroboam sung panin amah bek mah hanah kivui ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -151,9 +151,9 @@
 ### v15
 **EN:** For the
 
-**TDB77:** tui sunga pumpeng a kiliin’ mah bangin Topa in Israel vatin amau pute pate tungah a piak hih gam hoih panin Israel zung lot ding a, Eufrates gal khatah amaute thehthang ding hi; bang hang hiam cih leh amaute in Asherah milimte bawlin Topa a heh nadingin phin uh hi.
+**TDB77:** tui sunga pumpeng a kiliin’ mah bangin Topa in Israel vatin amau pute pate tungah a piak hih gam hoih panin Israel zung lot ding a, Eufrates gal khatah amaute thehthang ding hi; bang hang hiam cih leh amaute in Asherah milimte bawlin Topa a heh nadingin phin-te hi.
 
-**ZVS:** tui sunga pumpeeng a kilin' mah bangin { Topa } in Israel mite vatin amau pute pate tungah a piak hih gam hoih panin Israel zunglot ding a, Eufratis gun galkhatah amaute thehthang ding hi. Bang hang hiam cih leh amaute in Asherah milimte bawlin { Topa } a hehna dingin phin uh hi.
+**ZVS:** tui sunga pumpeeng a kilin' mah bangin { Topa } in Israel mite vatin amau pute pate tungah a piak hih gam hoih panin Israel zunglot ding a, Eufratis gun galkhatah amaute thehthang ding hi. Bang hang hiam cih leh amaute in Asherah milimte bawlin { Topa } a hehna dingin phin-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -178,9 +178,9 @@
 ### v18
 **EN:** And they buried him; and all Israel mourned for him, according to the word of the
 
-**TDB77:** Tua ciangin a nasem Ahijah kamsangpa tung tawnin Topa’ thugenna tawh kizui-in Israel khempeuh in amah vui-in ama hangin kap uh hi.
+**TDB77:** Tua ciangin a nasem Ahijah kamsangpa tung tawnin Topa’ thugenna tawh kizui-in Israel khempeuh in amah vui-in ama hangin kap-te hi.
 
-**ZVS:** Tua ciangin a nasem kamsang Ahijah tung tawnin { Topa' } thugenna tawh kizui-in Israel mi khempeuh in amah vui-in ama hangin a kap uh hi.
+**ZVS:** Tua ciangin a nasem kamsang Ahijah tung tawnin { Topa' } thugenna tawh kizui-in Israel mi khempeuh in amah vui-in ama hangin a kap-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -214,27 +214,27 @@
 ### v22
 **EN:** And Judah did evil in the sight of the
 
-**TDB77:** Tua ciangin Judah mite in Topa’ muhna ah a sia gamta uh a, a pu a pate khempeuh uh hih sangin a tam zaw-in amau’ hih a khialhnate uh tawh ama hazat nading piangsak uh hi.
+**TDB77:** Tua ciangin Judah mite in Topa’ muhna ah a sia gamta-te a, a pu a pate khempeuh-te hih sangin a tam zaw-in amau’ hih a khialhnate-te tawh ama hazat nading piangsak-te hi.
 
-**ZVS:** Tua ciangin Judah mite, { Topa' } muhna-ah a sia gamta uh a, a pu a pate khempeuh uh hih sangin a tamzaw-in amau' khialhnate uh tawh ama hazatna ding piangsak uh hi.
+**ZVS:** Tua ciangin Judah mite, { Topa' } muhna-ah a sia gamta-te a, a pu a pate khempeuh-te hih sangin a tamzaw-in amau' khialhnate-te tawh ama hazatna ding piangsak-te hi.
 
 **Grammar:** causative: -sak suffix | sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
 ### v23
 **EN:** For they also built them high places, and images, and groves, on every high hill, and under every green tree.
 
-**TDB77:** Bang hang hiam cih leh amaute in amau’ adingin mualtung a biaknate, khuampite, leh mualsang tung khempeuh leh singnim nuai khempeuh ah Asherah milimte bawl uh hi;
+**TDB77:** Bang hang hiam cih leh amaute in amau’ adingin mualtung a biaknate, khuampite, leh mualsang tung khempeuh leh singnim nuai khempeuh ah Asherah milimte bawl-te hi;
 
-**ZVS:** Bang hang hiam cih leh amaute in amau-a' dingin mualtunga biaknate, biakna songte leh mual sang tung khempeuh leh singniim nuai khempeuhah Asherah milimte bawl uh a,
+**ZVS:** Bang hang hiam cih leh amaute in amau-a' dingin mualtunga biaknate, biakna songte leh mual sang tung khempeuh leh singniim nuai khempeuhah Asherah milimte bawl-te a,
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v24
 **EN:** And there were also sodomites in the land: and they did according to all the abominations of the nations which the
 
-**TDB77:** pasal paktat pawlte zong gam sungah om uh hi. Topa in Israel mite mai-ah a hawlkhiat minamte’ gamtatna a kihhuai khempeuh bangin amaute gamta uh hi.
+**TDB77:** pasal paktat pawlte zong gam sungah om-te hi. Topa in Israel mite mai-ah a hawlkhiat minamte’ gamtatna a kihhuai khempeuh bangin amaute gamta-te hi.
 
-**ZVS:** biakna phualte-ah numei-pasal paktat pawlte zong om uh hi. { Topa } in Israel mite' mai-ah a hawlkhiat minam dangte' gamtatna a kihhuai khempeuh bangin amaute gamta uh hi.
+**ZVS:** biakna phualte-ah numei-pasal paktat pawlte zong om-te hi. { Topa } in Israel mite' mai-ah a hawlkhiat minam dangte' gamtatna a kihhuai khempeuh bangin amaute gamta-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -266,9 +266,9 @@
 ### v28
 **EN:** And it was so, when the king went into the house of the
 
-**TDB77:** Topa’ innah kumpipa a pai simin inncingte in tuate pua-in inncin’na inndei sungah tuate koihkik zel uh hi.
+**TDB77:** Topa’ innah kumpipa a pai simin inncingte in tuate pua-in inncin’na inndei sungah tuate koihkik zel-te hi.
 
-**ZVS:** { Topa' } biakinn-ah kumpipa a pai simin inncingte in tuate pua-in, tua ciangin inncin'na inndei sungah tuate koihkik zel uh hi.
+**ZVS:** { Topa' } biakinn-ah kumpipa a pai simin inncingte in tuate pua-in, tua ciangin inncin'na inndei sungah tuate koihkik zel-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 

@@ -59,7 +59,7 @@
 ### v5
 **EN:** Answer a fool according to his folly, lest he be wise in his own conceit.
 
-**TDB77:** Mihaite a pil kisa kha ding uh ahih manin, amau’ haina tawh kizui-in dawng in.
+**TDB77:** Mihaite a pil kisa kha ding-te ahih manin, amau’ haina tawh kizui-in dawng in.
 
 **ZVS:** Mihaite a pilin a kingaihsut khaklohna dingin amau' haina tawh kizui-in dawng zaw in.
 
@@ -245,7 +245,7 @@
 
 **TDB77:** Mi siahna-in gum a tote, ama gum tawhna sung mah-ah amah leh kiat zawsop a, mi a deng kha dinga suang a khukte, ama suang khuk mah in amah leh khak zaw hi.
 
-**ZVS:** Mi siahna-in gum a tote amau' gum tawhna sung mahah lehkiat zawsop uh a, mi a dengkha dingin suang a khukte amau' suang khuk mah in amau mah lehden'kha zaw hi.
+**ZVS:** Mi siahna-in gum a tote amau' gum tawhna sung mahah lehkiat zawsop-te a, mi a dengkha dingin suang a khukte amau' suang khuk mah in amau mah lehden'kha zaw hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 

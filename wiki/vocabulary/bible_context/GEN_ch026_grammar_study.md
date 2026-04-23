@@ -55,9 +55,9 @@
 ### v4
 **EN:** And I will make thy seed to multiply as the stars of heaven, and will give unto thy seed all these countries; and in thy seed shall all the nations of the earth be blessed;
 
-**TDB77:** Na suan-le-khakte van-a aksi bangin tampi ka phasak ding a, na suan-le-khakte' tungah hih leitang khempeuh ka pia ding hi; na suan-le-khakte thupha ka piak bangin leitung minam khempeuh in thupha a ngah nadingun hong ngen ding uh hi:
+**TDB77:** Na suan-le-khakte van-a aksi bangin tampi ka phasak ding a, na suan-le-khakte' tungah hih leitang khempeuh ka pia ding hi; na suan-le-khakte thupha ka piak bangin leitung minam khempeuh in thupha a ngah nadingun hong ngen ding-te hi:
 
-**ZVS:** Na suanlekhakte vana aksi bangin tampi ka phasak ding a, na suanlekhakte tungah hih leitang khempeuh ka pia ding hi. Na suanlekhakte thupha ka piak bangin leitung minam khempeuh in thupha a ngahna dingun hong ngen ding uh hi.
+**ZVS:** Na suanlekhakte vana aksi bangin tampi ka phasak ding a, na suanlekhakte tungah hih leitang khempeuh ka pia ding hi. Na suanlekhakte thupha ka piak bangin leitung minam khempeuh in thupha a ngahna dingun hong ngen ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -82,9 +82,9 @@
 ### v7
 **EN:** And the men of the place asked him of his wife; and he said, She is my sister: for he feared to say, She is my wife; lest, said he, the men of the place should kill me for Rebekah; because she was fair to look upon.
 
-**TDB77:** Tua mun a mite in ama' zi tawh kisai thu a dot uh ciangin amah in, “Ka sanggamnu hi,” ci hi; bang hang hiam cih leh, “Rebekah’ hangin tua mun mite in hong that kha ding ahih ciangin,” ci-in ngaihsun ahih manin, “Ka zi,” a cih ding lau hi; bang hang hiam cih leh amah ngaihbaang hi.
+**TDB77:** Tua mun a mite in ama' zi tawh kisai thu a dot-te ciangin amah in, “Ka sanggamnu hi,” ci hi; bang hang hiam cih leh, “Rebekah’ hangin tua mun mite in hong that kha ding ahih ciangin,” ci-in ngaihsun ahih manin, “Ka zi,” a cih ding lau hi; bang hang hiam cih leh amah ngaihbaang hi.
 
-**ZVS:** Tua mun mite in ama zi tawh kisai thu a dot uh ciangin amah in, “Ka sanggamnu hi,” na ci hi. Bang hang hiam cih leh, “Rebekah' hangin tua gam mite in hong that khading ahih ciangin,” ci-in ngaihsun ahih manin, “Ka zi hi,” a cih ding lau hi. Bang hang hiam cih leh amah ngaihbaang hi. .
+**ZVS:** Tua mun mite in ama zi tawh kisai thu a dot-te ciangin amah in, “Ka sanggamnu hi,” na ci hi. Bang hang hiam cih leh, “Rebekah' hangin tua gam mite in hong that khading ahih ciangin,” ci-in ngaihsun ahih manin, “Ka zi hi,” a cih ding lau hi. Bang hang hiam cih leh amah ngaihbaang hi. .
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | causal: because | reciprocal: ki- prefix
 
@@ -141,18 +141,18 @@
 ### v14
 **EN:** For he had possession of flocks, and possession of herds, and great store of servants: and the Philistines envied him.
 
-**TDB77:** Amah in tuuhon leh bawnghon, innkuan mi tampi nei a, Filistia mite in amah eng uh hi.
+**TDB77:** Amah in tuuhon leh bawnghon, innkuan mi tampi nei a, Filistia mite in amah eng-te hi.
 
-**ZVS:** Amah in tuuhon leh bawnghon, leh innkuan mi tampi nei a, Filistia mite in amah eng uh hi.
+**ZVS:** Amah in tuuhon leh bawnghon, leh innkuan mi tampi nei a, Filistia mite in amah eng-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v15
 **EN:** For all the wells which his father's servants had digged in the days of Abraham his father, the Philistines had stopped them, and filled them with earth.
 
-**TDB77:** (Ama' pa Abraham’ hun lai-a a pa’ nasemte in a tawh tuikhuk khempeuh tu-in Filistia mite in hucipin lei vuk uh hi.)
+**TDB77:** (Ama' pa Abraham’ hun lai-a a pa’ nasemte in a tawh tuikhuk khempeuh tu-in Filistia mite in hucipin lei vuk-te hi.)
 
-**ZVS:** (Ama pa Abraham' hun lai-a a pa' nasemte in a tawh tuikhuk khempeuh tu-in Filistia mite in hucipin lei vuk uh hi.)
+**ZVS:** (Ama pa Abraham' hun lai-a a pa' nasemte in a tawh tuikhuk khempeuh tu-in Filistia mite in hucipin lei vuk-te hi.)
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -177,45 +177,45 @@
 ### v18
 **EN:** And Isaac digged again the wells of water, which they had digged in the days of Abraham his father; for the Philistines had stopped them after the death of Abraham: and he called their names after the names by which his father had called them.
 
-**TDB77:** Isaak in a pa Abraham’ hun lai-a a kitosa tuikhukte to kik hi; bang hang hiam cih leh Abraham’ sih khit ciangin Filistia mite in tuate vukcip uh hi; amah in a pa’ phuahsa minte mah phuak hi.
+**TDB77:** Isaak in a pa Abraham’ hun lai-a a kitosa tuikhukte to kik hi; bang hang hiam cih leh Abraham’ sih khit ciangin Filistia mite in tuate vukcip-te hi; amah in a pa’ phuahsa minte mah phuak hi.
 
-**ZVS:** Isaac in a pa Abraham' hun lai-a a kitosa tuikhukte to pha kik hi. Bang hang hiam cih leh Abraham' sih khit ciangin Filistia mite in tuate vukcip uh hi. Amah in a pa' phuahsa minte mah phuak kik hi.
+**ZVS:** Isaac in a pa Abraham' hun lai-a a kitosa tuikhukte to pha kik hi. Bang hang hiam cih leh Abraham' sih khit ciangin Filistia mite in tuate vukcip-te hi. Amah in a pa' phuahsa minte mah phuak kik hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** And Isaac's servants digged in the valley, and found there a well of springing water.
 
-**TDB77:** Ahih hangin Isaak’ nasemte in tua kuam sung to-in tuikhuk a muh uh ciangin,
+**TDB77:** Ahih hangin Isaak’ nasemte in tua kuam sung to-in tuikhuk a muh-te ciangin,
 
-**ZVS:** Ahih hangin Isaac' nasemte in tua kuam sung to-in tuikhuk a muh uh ciangin,
+**ZVS:** Ahih hangin Isaac' nasemte in tua kuam sung to-in tuikhuk a muh-te ciangin,
 
 **Grammar:** serial verb: -in (and then)
 
 ### v20
 **EN:** And the herdmen of Gerar did strive with Isaac's herdmen, saying, The water is ours: and he called the name of the well Esek; because they strove with him.
 
-**TDB77:** Gerar gancingte leh Isaak’ gancingte kitawng uh a, “Tui, ko aa hi,” ci uh hi. Tua ahih ciangin amah in tua tuikhuk Esek ci-in min phuak hi, bang hang hiam cih leh amaute leh amah kitawng uh hi.
+**TDB77:** Gerar gancingte leh Isaak’ gancingte kitawng-te a, “Tui, ko aa hi,” ci-te hi. Tua ahih ciangin amah in tua tuikhuk Esek ci-in min phuak hi, bang hang hiam cih leh amaute leh amah kitawng-te hi.
 
-**ZVS:** Gerar gancingte leh Isaac' gancingte kitawng uh a, “Tui, ko-a' hi,” ci uh hi. Tua ahih ciangin amah in tua tuikhuk Esek ci-in min a phuak hi. Bang hang hiam cih leh amaute leh amah kitawng uh hi.
+**ZVS:** Gerar gancingte leh Isaac' gancingte kitawng-te a, “Tui, ko-a' hi,” ci-te hi. Tua ahih ciangin amah in tua tuikhuk Esek ci-in min a phuak hi. Bang hang hiam cih leh amaute leh amah kitawng-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** And they digged another well, and strove for that also: and he called the name of it Sitnah.
 
-**TDB77:** Tua ciangin amaute in tuikhuk dang khat to uh a, tua tungtang-ah zong amaute kitawng uh hi; tua ahih ciangin amah in tua pen Sitnah ci-in min phuak hi.
+**TDB77:** Tua ciangin amaute in tuikhuk dang khat to-te a, tua tungtang-ah zong amaute kitawng-te hi; tua ahih ciangin amah in tua pen Sitnah ci-in min phuak hi.
 
-**ZVS:** Tua ciangin amaute in tuikhuk dang khat to uh a, tua tungtangah zong amaute kitawng leuleu uh hi. Tua ahih ciangin amah in tua pen Sitnah ci-in min a phuak hi.
+**ZVS:** Tua ciangin amaute in tuikhuk dang khat to-te a, tua tungtangah zong amaute kitawng leuleu-te hi. Tua ahih ciangin amah in tua pen Sitnah ci-in min a phuak hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And he removed from thence, and digged another well; and for that they strove not: and he called the name of it Rehoboth; and he said, For now the
 
-**TDB77:** Tua mun panin amah kiin-in tuikhuk dang khat to hi, tua tungtangah amaute kitawng lo uh hi; tua ahih ciangin amah in a min Rehboth ci-in phuak hi, “Bang hang hiam cih leh tu-in Topa in eite’ adingin omna hong bawlsak khin a, eite hih gamah i pung ding hi,” ci hi.
+**TDB77:** Tua mun panin amah kiin-in tuikhuk dang khat to hi, tua tungtangah amaute kitawng lo-te hi; tua ahih ciangin amah in a min Rehboth ci-in phuak hi, “Bang hang hiam cih leh tu-in Topa in eite’ adingin omna hong bawlsak khin a, eite hih gamah i pung ding hi,” ci hi.
 
-**ZVS:** Tua mun panin amah kinin tuikhuk dang khat to leuleu hi. Tua tungtangah amaute kitawng nawnlo uh hi. Tua ahih ciangin amah in Rehoboth ci-in min a phuak hi. “Bang hang hiam cih leh tu-in { Topa } in eite-a' dingin omna hong bawlsak khin a, eite hih gamah i pung ding hi,” a ci hi.
+**ZVS:** Tua mun panin amah kinin tuikhuk dang khat to leuleu hi. Tua tungtangah amaute kitawng nawnlo-te hi. Tua ahih ciangin amah in Rehoboth ci-in min a phuak hi. “Bang hang hiam cih leh tu-in { Topa } in eite-a' dingin omna hong bawlsak khin a, eite hih gamah i pung ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -238,9 +238,9 @@
 ### v25
 **EN:** And he builded an altar there, and called upon the name of the
 
-**TDB77:** Tua ahih ciangin amah in tua lai mun-ah biakna tau khat lamin Topa' tungah thungen a, tua munah a puanbuk lam hi. Tua lai-ah Isaak’ nasemte in tuikhuk khat to uh hi.
+**TDB77:** Tua ahih ciangin amah in tua lai mun-ah biakna tau khat lamin Topa' tungah thungen a, tua munah a puanbuk lam hi. Tua lai-ah Isaak’ nasemte in tuikhuk khat to-te hi.
 
-**ZVS:** Tua ahih ciangin amah in tua lai munah biakna tau khat lamin { Topa } bia a, tua munah puanbuk a lam hi. Tua lai-ah Isaac' nasemte in tuikhuk khat a to uh hi.
+**ZVS:** Tua ahih ciangin amah in tua lai munah biakna tau khat lamin { Topa } bia a, tua munah puanbuk a lam hi. Tua lai-ah Isaac' nasemte in tuikhuk khat a to-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -256,9 +256,9 @@
 ### v27
 **EN:** And Isaac said unto them, Wherefore come ye to me, seeing ye hate me, and have sent me away from you?
 
-**TDB77:** Isaak in amaute' kiangah, “Note in kei hong mudahin note' kiang panin hong hawlkhia na hih uh ciangin bang hangin kei' kiangah hong hawh na hi uh hiam?” ci hi.
+**TDB77:** Isaak in amaute' kiangah, “Note in kei hong mudahin note' kiang panin hong hawlkhia na hih-te ciangin bang hangin kei' kiangah hong hawh na hi-te hiam?” ci hi.
 
-**ZVS:** Isaac in amaute' kiangah, “Note in kei hong mudahin note' kiang panin hong hawlkhia na hih uh ciangin bang hangin kei' kiangah hong hawh na hi uh hiam?” na ci hi.
+**ZVS:** Isaac in amaute' kiangah, “Note in kei hong mudahin note' kiang panin hong hawlkhia na hih-te ciangin bang hangin kei' kiangah hong hawh na hi-te hiam?” na ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
@@ -270,34 +270,34 @@
 ### v29
 **EN:** That thou wilt do us no hurt, as we have not touched thee, and as we have done unto thee nothing but good, and have sent thee away in peace: thou art now the blessed of the
 
-**TDB77:** Amaute in, “Nang tawh Topa a omna tel takin ka mu uh hi; tua ahih ciangin, kote in nang hong sukha loin, nang' tungah bangmah hong hih loin, a hoihin gamta-in lungnuam takin kong sawlkhiat mah bangun kote' tungah nang in siatna nong bawl loh nadingin nang leh kote' kikal-ah kiciamna khat om hen la,nang tawh thuciamna khat bawl ni, a ci hi ung. Nang in tu-in Topa’ thupha piak na hi hi,” ci uh hi.
+**TDB77:** Amaute in, “Nang tawh Topa a omna tel takin ka mu-te hi; tua ahih ciangin, kote in nang hong sukha loin, nang' tungah bangmah hong hih loin, a hoihin gamta-in lungnuam takin kong sawlkhiat mah bangun kote' tungah nang in siatna nong bawl loh nadingin nang leh kote' kikal-ah kiciamna khat om hen la,nang tawh thuciamna khat bawl ni, a ci hi ung. Nang in tu-in Topa’ thupha piak na hi hi,” ci-te hi.
 
 **Grammar:** optative: let there be / let it be | quotative: said/saying | sequence: then/therefore | hortative: let us | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** And he made them a feast, and they did eat and drink.
 
-**TDB77:** Tua ahih ciangin amah in amaute’ adingin pawi khat bawl a, amaute in ne-in dawn uh hi.
+**TDB77:** Tua ahih ciangin amah in amaute’ adingin pawi khat bawl a, amaute in ne-in dawn-te hi.
 
-**ZVS:** Tua ahih ciangin amah in amaute-a' dingin pawi khat bawl a, amaute in pawi an ne-in a dawn uh hi.
+**ZVS:** Tua ahih ciangin amah in amaute-a' dingin pawi khat bawl a, amaute in pawi an ne-in a dawn-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
 ### v31
 **EN:** And they rose up betimes in the morning, and sware one to another: and Isaac sent them away, and they departed from him in peace.
 
-**TDB77:** Zingsangin amaute thobaih uh a, khat leh khat kiciamna bawl uh hi; Isaak in amaute a lampi ding uhah kha a, ama' kiang panin amaute lungnuam takin pai khia uh hi.
+**TDB77:** Zingsangin amaute thobaih-te a, khat leh khat kiciamna bawl-te hi; Isaak in amaute a lampi ding uhah kha a, ama' kiang panin amaute lungnuam takin pai khia-te hi.
 
-**ZVS:** Zingsangin amaute tho baih uh a, khatlekhat kiciamna a bawl uh hi. Isaac in amaute a lampi ding uhah kha a, ama kiang panin amaute lungnuam takin a paikhia uh hi.
+**ZVS:** Zingsangin amaute tho baih-te a, khatlekhat kiciamna a bawl-te hi. Isaac in amaute a lampi ding uhah kha a, ama kiang panin amaute lungnuam takin a paikhia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v32
 **EN:** And it came to pass the same day, that Isaac's servants came, and told him concerning the well which they had digged, and said unto him, We have found water.
 
-**TDB77:** Tua ni mahin Isaak’ nasemte hong pai-in amau’ tawhsa tuikhuk thu ama' kiangah hong gen uh a, ama' kiangah, “Tui ka mu zo uh hi,” ci uh hi.
+**TDB77:** Tua ni mahin Isaak’ nasemte hong pai-in amau’ tawhsa tuikhuk thu ama' kiangah hong gen-te a, ama' kiangah, “Tui ka mu zo-te hi,” ci-te hi.
 
-**ZVS:** Tua ni mahin Isaac' nasemte hong pai-in amau' tawhsa tuikhuk thu ama kiangah hong gen uh a, “Tui ka muzo uh hi,” hong ci uh hi.
+**ZVS:** Tua ni mahin Isaac' nasemte hong pai-in amau' tawhsa tuikhuk thu ama kiangah hong gen-te a, “Tui ka muzo-te hi,” hong ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -322,9 +322,9 @@
 ### v35
 **EN:** Which were a grief of mind unto Isaac and to Rebekah.
 
-**TDB77:** amaute in Isaak leh Rebekah’ nuntakna haksasak uh hi.
+**TDB77:** amaute in Isaak leh Rebekah’ nuntakna haksasak-te hi.
 
-**ZVS:** A zite gel in Isaac leh Rebekah' nuntakna haksa sak uh hi.
+**ZVS:** A zite gel in Isaac leh Rebekah' nuntakna haksa sak-te hi.
 
 **Grammar:** plural: uh marker
 

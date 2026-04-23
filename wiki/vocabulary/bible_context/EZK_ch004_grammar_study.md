@@ -130,9 +130,9 @@
 ### v13
 **EN:** And the
 
-**TDB77:** Tua ciangin Topa in, “Israel mite, gamdangah ka thehthang hun ciangin thukham in nek dingin a kham an ninte tu-a mah bangin ne ding uh hi,” hong ci hi.
+**TDB77:** Tua ciangin Topa in, “Israel mite, gamdangah ka thehthang hun ciangin thukham in nek dingin a kham an ninte tu-a mah bangin ne ding-te hi,” hong ci hi.
 
-**ZVS:** Tua ciangin { Topa } in, “Israel mite, gamdangah ka thehthang hun ciangin thukham in nek dingin a kham an ninte tu-a mah bangin ne ding uh hi,” a hong ci hi.
+**ZVS:** Tua ciangin { Topa } in, “Israel mite, gamdangah ka thehthang hun ciangin thukham in nek dingin a kham an ninte tu-a mah bangin ne ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
@@ -157,18 +157,18 @@
 ### v16
 **EN:** Moreover he said unto me, Son of man, behold, I will break the staff of bread in Jerusalem: and they shall eat bread by weight, and with care; and they shall drink water by measure, and with astonishment:
 
-**TDB77:** Tua ciangin amah in thu hong gen thuah lai a, “Ezekiel aw, Jerusalem khuapi sungah an ka beisak ding a, mite in lunghihmawhna tawh a annek a tuidawnte uh ciangtan ding uh hi.
+**TDB77:** Tua ciangin amah in thu hong gen thuah lai a, “Ezekiel aw, Jerusalem khuapi sungah an ka beisak ding a, mite in lunghihmawhna tawh a annek a tuidawnte-te ciangtan ding-te hi.
 
-**ZVS:** Tua ciangin amah in thu hong genthuah lai a, “Mihing ahi Ezekiel aw, Jerusalem khuapi sungah an ka beisak ding a, mite in lunghihmawhna tawh a annek a tuidawnte uh ciangtan ding uh hi.
+**ZVS:** Tua ciangin amah in thu hong genthuah lai a, “Mihing ahi Ezekiel aw, Jerusalem khuapi sungah an ka beisak ding a, mite in lunghihmawhna tawh a annek a tuidawnte-te ciangtan ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v17
 **EN:** That they may want bread and water, and be astonished one with another, and consume away for their iniquity.
 
-**TDB77:** An leh tui loin amaute om ding uh a, amaute lunggimin, a tawpna-ah a mawhna hangun beimang ding uh hi,” hong ci hi.
+**TDB77:** An leh tui loin amaute om ding-te a, amaute lunggimin, a tawpna-ah a mawhna hangun beimang ding-te hi,” hong ci hi.
 
-**ZVS:** An leh tui loin amaute om ding uh a, amaute lunggimin, a tawpna-ah a mawhna hangun beimang ding uh hi,” a hong ci hi.
+**ZVS:** An leh tui loin amaute om ding-te a, amaute lunggimin, a tawpna-ah a mawhna hangun beimang ding-te hi,” a hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

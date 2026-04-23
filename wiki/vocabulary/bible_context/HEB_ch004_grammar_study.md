@@ -36,18 +36,18 @@
 ### v2
 **EN:** For unto us was the gospel preached, as well as unto them: but the word preached did not profit them, not being mixed with faith in them that heard it.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite in Lungdamna Thu tuate mah bangin i za zo hi. Ahih hangin amau a zak uh thu in a za mite lakah upna tawh a kigawm lo ahih ciangin, phattuamna a om kei hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite in Lungdamna Thu tuate mah bangin i za zo hi. Ahih hangin amau a zak-te thu in a za mite lakah upna tawh a kigawm lo ahih ciangin, phattuamna a om kei hi.
 
-**ZVS:** Bang hang hiam cih leh amaute in Lungdamna Thu a zak uh mah bangin eite in zong i za hi. Amaute in Lungdamna Thu a zak uh ciangin upna tawh na sanglo uh ahih manin a thuzak uh amaute-a' dingin a phattuamna omlo hi.
+**ZVS:** Bang hang hiam cih leh amaute in Lungdamna Thu a zak-te mah bangin eite in zong i za hi. Amaute in Lungdamna Thu a zak-te ciangin upna tawh na sanglo-te ahih manin a thuzak-te amaute-a' dingin a phattuamna omlo hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix
 
 ### v3
 **EN:** For we which have believed do enter into rest, as he said, As I have sworn in my wrath, if they shall enter into my rest: although the works were finished from the foundation of the world.
 
-**TDB77:** A um eite in Pasian’ nopsakna sungah i tum hi. Tua bang a genna in: ‘“Amaute in ka nopsakna sungah a tum thei kei ding uh hi,’ ci-in hehin ka kiciam hi,” a ci hi. Ahih hangin Pasian in a cil panin a na khempeuh a zo khin hi.
+**TDB77:** A um eite in Pasian’ nopsakna sungah i tum hi. Tua bang a genna in: ‘“Amaute in ka nopsakna sungah a tum thei kei ding-te hi,’ ci-in hehin ka kiciam hi,” a ci hi. Ahih hangin Pasian in a cil panin a na khempeuh a zo khin hi.
 
-**ZVS:** Ahi zongin eite ihih leh amah in, “Ka heh manin ka kiciam a, ‘Hih leitangah hong lutlo ding uh a, ka tawlngakna munah hong pai-in kei tawh hong tawlnga khawm ngeilo ding uh hi,’” a cihte bang hiloin ei thu umte pen Pasian tawh a tawlnga khawm ihi hi. Leitung a pian'sak cil peka kipanin a nasep a mankhin hinapi-in tu-a bangin thu gen veve lai hi.
+**ZVS:** Ahi zongin eite ihih leh amah in, “Ka heh manin ka kiciam a, ‘Hih leitangah hong lutlo ding-te a, ka tawlngakna munah hong pai-in kei tawh hong tawlnga khawm ngeilo ding-te hi,’” a cihte bang hiloin ei thu umte pen Pasian tawh a tawlnga khawm ihi hi. Leitung a pian'sak cil peka kipanin a nasep a mankhin hinapi-in tu-a bangin thu gen veve lai hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | completed: already done | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -63,27 +63,27 @@
 ### v5
 **EN:** And in this place again, If they shall enter into my rest.
 
-**TDB77:** Tua Lai Siangtho sungah a om kik in: “Amaute in ka nopsakna sungah a tum thei kei ding uh hi,” ci-in a om hi.
+**TDB77:** Tua Lai Siangtho sungah a om kik in: “Amaute in ka nopsakna sungah a tum thei kei ding-te hi,” ci-in a om hi.
 
-**ZVS:** Hih thu mah na kigenkik a, “Ka tawlngakna munah hong pai-in kei tawh hong tawlnga ngeilo ding uh hi,” na ci kik hi.
+**ZVS:** Hih thu mah na kigenkik a, “Ka tawlngakna munah hong pai-in kei tawh hong tawlnga ngeilo ding-te hi,” na ci kik hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** Seeing therefore it remaineth that some must enter therein, and they to whom it was first preached entered not in because of unbelief:
 
-**TDB77:** Tua ahih ciangin mi kimkhat a tum theih ding uh hangin, Lungdamna Thu nidang lai-inah a za mite in a up loh manunah a tum thei kei uh a,
+**TDB77:** Tua ahih ciangin mi kimkhat a tum theih ding-te hangin, Lungdamna Thu nidang lai-inah a za mite in a up loh manunah a tum thei kei-te a,
 
-**ZVS:** Lungdamna Thu a za masate in umlo uh ahih manin Pasian tawh va tawlnga khawm theilo uh hi. Tua ahih manin va pai-in Pasian tawh a tawlnga khawm ding mi pawlkhat omlai hi.
+**ZVS:** Lungdamna Thu a za masate in umlo-te ahih manin Pasian tawh va tawlnga khawm theilo-te hi. Tua ahih manin va pai-in Pasian tawh a tawlnga khawm ding mi pawlkhat omlai hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Again, he limiteth a certain day, saying in David, To day, after so long a time; as it is said, To day if ye will hear his voice, harden not your hearts.
 
-**TDB77:** Khatvei: “Tuni-in note in ama aw na zak uh leh, na lungsim uh na khauhsak kei un,” ci-in hih zah a sawt zo, “Tu ni,” ci-in David tungah a gen ciangin, nidang lai-in a genna bangin ni khat peuhpeuh ciamtehin a ngaihsun hi.
+**TDB77:** Khatvei: “Tuni-in note in ama aw na zak-te leh, na lungsim-te na khauhsak kei un,” ci-in hih zah a sawt zo, “Tu ni,” ci-in David tungah a gen ciangin, nidang lai-in a genna bangin ni khat peuhpeuh ciamtehin a ngaihsun hi.
 
-**ZVS:** “Tuni,” cihna kammal na omlai ahih manin Pasian in nidang khat seh lai ahihna thu hong kilang hi. Lai Siangtho sungah, “Tuni-in Pasian' aw na zak uh leh na lungsim uh khauhsak nawn kei un,” a cihna mun i mat khitsa mah bangin tuazawh kum tampi khit ciangin David tung tawnin thu hong genkik hi.
+**ZVS:** “Tuni,” cihna kammal na omlai ahih manin Pasian in nidang khat seh lai ahihna thu hong kilang hi. Lai Siangtho sungah, “Tuni-in Pasian' aw na zak-te leh na lungsim-te khauhsak nawn kei un,” a cihna mun i mat khitsa mah bangin tuazawh kum tampi khit ciangin David tung tawnin thu hong genkik hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -110,16 +110,16 @@
 
 **TDB77:** Pasian in ama nasepna khempeuh zo khinin tawlnga-a a om bangin, tua nopsakna sungah a tum mi in zong ama nasepna khempeuh zoin tawlnga-in a om hi.
 
-**ZVS:** Bang hang hiam cih leh a nasepna panin Pasian a tawlngak mah bangin va pai-in Pasian tawh a tawlngate khempeuh zong a nasepna panun khawl ding uh hi.
+**ZVS:** Bang hang hiam cih leh a nasepna panin Pasian a tawlngak mah bangin va pai-in Pasian tawh a tawlngate khempeuh zong a nasepna panun khawl ding-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v11
 **EN:** Let us labour therefore to enter into that rest, lest any man fall after the same example of unbelief.
 
-**TDB77:** Tua ahih ciangin Israel mite in thu ngaih lohna lungsim a neih uh ciangin, a kipuk uh bangin, kuamah kipuk loin tua nopsakna sunga tum nadingin hahkat ciat ni.
+**TDB77:** Tua ahih ciangin Israel mite in thu ngaih lohna lungsim a neih-te ciangin, a kipuk-te bangin, kuamah kipuk loin tua nopsakna sunga tum nadingin hahkat ciat ni.
 
-**ZVS:** Tua ahih manin amaute in a uploh manun Pasian' tawlngakna munah a lutzawhloh uh bang hiloin va pai-in Pasian tawh i tawlngak khawm theihna dingin hanciam ciat ni.
+**ZVS:** Tua ahih manin amaute in a uploh manun Pasian' tawlngakna munah a lutzawhloh-te bang hiloin va pai-in Pasian tawh i tawlngak khawm theihna dingin hanciam ciat ni.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | reciprocal: ki- prefix
 
@@ -151,7 +151,7 @@
 ### v15
 **EN:** For we have not an high priest which cannot be touched with the feeling of our infirmities; but was in all points tempted like as we are, yet without sin.
 
-**TDB77:** Bang hang hiam na cih uh leh, eite siampi ukpa in eite hat lohna hong hehpih zo lo mi ahi kei hi; eite thuak mah bangin ze-etna apawl apawl a thuak ngei mi, ahih hangin— mawhna khialhna nei lo ahi hi.
+**TDB77:** Bang hang hiam na cih-te leh, eite siampi ukpa in eite hat lohna hong hehpih zo lo mi ahi kei hi; eite thuak mah bangin ze-etna apawl apawl a thuak ngei mi, ahih hangin— mawhna khialhna nei lo ahi hi.
 
 **ZVS:** Eite' neih Siampi Lianpenpa in i ginat lohna-ah eite a hong hehpih theilo ding hilo hi; eite mah bangin ze-etna khempeuh a thuak hi a, ahi zongin mawhna a bawllo ahi hi.
 

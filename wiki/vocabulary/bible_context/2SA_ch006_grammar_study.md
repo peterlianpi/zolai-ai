@@ -43,16 +43,16 @@
 ### v4
 **EN:** And they brought it out of the house of Abinadab which was at Gibeah, accompanying the ark of God: and Ahio went before the ark.
 
-**TDB77:** Amaute in leeng thak khat tungah Pasian' Thuciamna Singkuang pua uh a, mualtunga om Abinadab' inn panin paikhiatpih uh hi. Abinadab' tapate Uzzah leh Ahio in leeng thak tungah Pasian' Thuciamna Singkuang koihin hawl uh a, Thuciamna Singkuang mai-ah Ahio a pai hi.
+**TDB77:** Amaute in leeng thak khat tungah Pasian' Thuciamna Singkuang pua-te a, mualtunga om Abinadab' inn panin paikhiatpih-te hi. Abinadab' tapate Uzzah leh Ahio in leeng thak tungah Pasian' Thuciamna Singkuang koihin hawl-te a, Thuciamna Singkuang mai-ah Ahio a pai hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** And David and all the house of Israel played before the
 
-**TDB77:** Tua ciangin David leh Israel mite khempeuh in Topa mai-ah a tha neih zah-un la sa-in, laiza khausai lasaknate, harp khausai lasaknate, khuangneute, kuangtuahte leh daltuahte tumin lungdamin laam uh hi.
+**TDB77:** Tua ciangin David leh Israel mite khempeuh in Topa mai-ah a tha neih zah-un la sa-in, laiza khausai lasaknate, harp khausai lasaknate, khuangneute, kuangtuahte leh daltuahte tumin lungdamin laam-te hi.
 
-**ZVS:** Tua ciangin David leh Israel mite khempeuh in { Topa' } mai-ah a tha neih zahun la sa-in, laia khausai lasaknate, harp khausai lasaknate, khuangneute, kuangtuahte, leh daltuahte tumin lungdamin a lam uh hi.
+**ZVS:** Tua ciangin David leh Israel mite khempeuh in { Topa' } mai-ah a tha neih zahun la sa-in, laia khausai lasaknate, harp khausai lasaknate, khuangneute, kuangtuahte, leh daltuahte tumin lungdamin a lam-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | plural: uh marker
 
@@ -138,9 +138,9 @@
 ### v15
 **EN:** So David and all the house of Israel brought up the ark of the
 
-**TDB77:** Tua ahih ciangin David leh Israel mi khempeuh in otna leh saki tumna awging tawh Topa’ thuciamna singkuang paipih to uh hi.
+**TDB77:** Tua ahih ciangin David leh Israel mi khempeuh in otna leh saki tumna awging tawh Topa’ thuciamna singkuang paipih to-te hi.
 
-**ZVS:** Tua ahih ciangin David leh Israel mi khempeuh in otna leh saki tumna awging tawh { Topa' } Thuciamna Singkuang paipihto uh hi.
+**ZVS:** Tua ahih ciangin David leh Israel mi khempeuh in otna leh saki tumna awging tawh { Topa' } Thuciamna Singkuang paipihto-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -154,9 +154,9 @@
 ### v17
 **EN:** And they brought in the ark of the
 
-**TDB77:** Tua ciangin amaute in Topa’ thuciamna singkuang hong tumpih uh a, David in ama adingin a lamsak puakbuk sung ama mun dingah koih uh hi; tua ciangin David in Topa’ mai-ah meihal biaknate leh thunuam-a biaknate pia hi.
+**TDB77:** Tua ciangin amaute in Topa’ thuciamna singkuang hong tumpih-te a, David in ama adingin a lamsak puakbuk sung ama mun dingah koih-te hi; tua ciangin David in Topa’ mai-ah meihal biaknate leh thunuam-a biaknate pia hi.
 
-**ZVS:** Tua ciangin amaute in { Topa' } Thuciamna Singkuang hong tumpih uh a, David in ama-a' dingin a lamsak puanbuk sung ama mun dingah a koih hi. Tua ciangin David in { Topa' } mai-ah meihal biaknate leh thunuama biaknate a pia hi.
+**ZVS:** Tua ciangin amaute in { Topa' } Thuciamna Singkuang hong tumpih-te a, David in ama-a' dingin a lamsak puanbuk sung ama mun dingah a koih hi. Tua ciangin David in { Topa' } mai-ah meihal biaknate leh thunuama biaknate a pia hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -170,9 +170,9 @@
 ### v19
 **EN:** And he dealt among all the people, even among the whole multitude of Israel, as well to the women as men, to every one a cake of bread, and a good piece of flesh, and a flagon of wine. So all the people departed every one to his house.
 
-**TDB77:** Israel mihon buppi, mi khempeuh, numeite leh pasalte tungah anlum pheng khat, sa baak khat, leh leenggahkeu pheeng khat pia ciat hi. Tua ciangin mi khempeuh a inn ciat uh ah ciah uh hi.
+**TDB77:** Israel mihon buppi, mi khempeuh, numeite leh pasalte tungah anlum pheng khat, sa baak khat, leh leenggahkeu pheeng khat pia ciat hi. Tua ciangin mi khempeuh a inn ciat-te ah ciah-te hi.
 
-**ZVS:** Israel mihon buppi, mi khempeuh, numei leh pasalte tungah anlum pheng khat, sa baak khat, leh leenggahkeu pheng khat ciat a pia hi. Tua ciangin mi khempeuh a inn ciat uhah a ciah uh hi.
+**ZVS:** Israel mihon buppi, mi khempeuh, numei leh pasalte tungah anlum pheng khat, sa baak khat, leh leenggahkeu pheng khat ciat a pia hi. Tua ciangin mi khempeuh a inn ciat uhah a ciah-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -197,9 +197,9 @@
 ### v22
 **EN:** And I will yet be more vile than thus, and will be base in mine own sight: and of the maidservants which thou hast spoken of, of them shall I be had in honour.
 
-**TDB77:** Hih sangin a simmawhhuai zaw-in ka kibawl lai ding a, nangma mit-ah a gina lo ka hi ding hi; ahih hangin nangma gen numeite in keimah hong pahtawi ding uh hi,” a ci hi,
+**TDB77:** Hih sangin a simmawhhuai zaw-in ka kibawl lai ding a, nangma mit-ah a gina lo ka hi ding hi; ahih hangin nangma gen numeite in keimah hong pahtawi ding-te hi,” a ci hi,
 
-**ZVS:** Hih sangin a simmawhhuai zaw-in ka kibawl lai ding a, nangma mit bekah a ginalo ka hi ding hi. Ahih hangin nangma gen numeite in keimah hong pahtawi ding uh hi,” a ci hi.
+**ZVS:** Hih sangin a simmawhhuai zaw-in ka kibawl lai ding a, nangma mit bekah a ginalo ka hi ding hi. Ahih hangin nangma gen numeite in keimah hong pahtawi ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 

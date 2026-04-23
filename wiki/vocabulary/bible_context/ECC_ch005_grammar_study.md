@@ -87,9 +87,9 @@
 ### v8
 **EN:** If thou seest the oppression of the poor, and violent perverting of judgment and justice in a province, marvel not at the matter: for he that is higher than the highest regardeth; and there be higher than they.
 
-**TDB77:** Kumpite in mizawngte gim ngah sakin, thuman thutangin na a kisep kei leh, lamdang sa kei in. Uliante pen amau’ tunga uliante in en uh a, tuate tungah a en sawn a lianzaw khat om lai hi.
+**TDB77:** Kumpite in mizawngte gim ngah sakin, thuman thutangin na a kisep kei leh, lamdang sa kei in. Uliante pen amau’ tunga uliante in en-te a, tuate tungah a en sawn a lianzaw khat om lai hi.
 
-**ZVS:** Kumpite in mizawngte gim ngahsakin, thuman thutangin na a kisep kei leh lamdang sa kei in. Uliante pen amau' tunga uliante in en uh a, tuate' tungah a ensawn a lianzaw khat omlai hi.
+**ZVS:** Kumpite in mizawngte gim ngahsakin, thuman thutangin na a kisep kei leh lamdang sa kei in. Uliante pen amau' tunga uliante in en-te a, tuate' tungah a ensawn a lianzaw khat omlai hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -123,27 +123,27 @@
 ### v12
 **EN:** The sleep of a labouring man is sweet, whether he eat little or much: but the abundance of the rich will not suffer him to sleep.
 
-**TDB77:** Na a sem mipa in a nek ding nei taleh nei takei leh lungnuam takin ihmu thei a, a haute ahih leh lungnuam takin ihmu thei lo uh hi.
+**TDB77:** Na a sem mipa in a nek ding nei taleh nei takei leh lungnuam takin ihmu thei a, a haute ahih leh lungnuam takin ihmu thei lo-te hi.
 
-**ZVS:** Na a sem mipa pen a nek ding nei ta leh nei ta kei leh lungnuam takin ihmu thei a, a haute ahih leh lungnuam takin ihmu theilo uh hi.
+**ZVS:** Na a sem mipa pen a nek ding nei ta leh nei ta kei leh lungnuam takin ihmu thei a, a haute ahih leh lungnuam takin ihmu theilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v13
 **EN:** There is a sore evil which I have seen under the sun, namely, riches kept for the owners thereof to their hurt.
 
-**TDB77:** A hoih het lo na khat hih leitungah ka mu hi: mite, amau’ lunggim nadingin hau uh hi.
+**TDB77:** A hoih het lo na khat hih leitungah ka mu hi: mite, amau’ lunggim nadingin hau-te hi.
 
-**ZVS:** A hoih hetlo na khat hih leitungah ka mu hi: Mite amau' lunggimna dingin hau uh hi.
+**ZVS:** A hoih hetlo na khat hih leitungah ka mu hi: Mite amau' lunggimna dingin hau-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v14
 **EN:** But those riches perish by evil travail: and he begetteth a son, and there is nothing in his hand.
 
-**TDB77:** Na a sep khialh manin a neihsa teng uh suplawh uh a, a tu a tate’ luah ding bangmah om nawn lo hi.
+**TDB77:** Na a sep khialh manin a neihsa teng-te suplawh-te a, a tu a tate’ luah ding bangmah om nawn lo hi.
 
-**ZVS:** Na a sep khialh manun a neihsa teng uh suplawh uh a, a tu a tate' luah ding bangmah om nawnlo hi.
+**ZVS:** Na a sep khialh manun a neihsa teng-te suplawh-te a, a tu a tate' luah ding bangmah om nawnlo hi.
 
 **Grammar:** negation: lo | causal: because | plural: uh marker
 

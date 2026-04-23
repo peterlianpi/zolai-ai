@@ -38,9 +38,9 @@
 ### v3
 **EN:** And said unto him, Art thou he that should come, or do we look for another?
 
-**TDB77:** “Nangmah in a hong pai dingpa taktak na hi hiam? Ahih kei leh, midang khat ka lamen lai ding uh hiam?” ci-in a dong sak hi.
+**TDB77:** “Nangmah in a hong pai dingpa taktak na hi hiam? Ahih kei leh, midang khat ka lamen lai ding-te hiam?” ci-in a dong sak hi.
 
-**ZVS:** “Nang pen a hong pai dingpa na hi hiam, tua ahih kei leh adang na lamen lai ding ka hi uh hiam?” ci-in a dongsak hi.
+**ZVS:** “Nang pen a hong pai dingpa na hi hiam, tua ahih kei leh adang na lamen lai ding ka hi-te hiam?” ci-in a dongsak hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | plural: uh marker
 
@@ -49,25 +49,25 @@
 
 **TDB77:** Zeisu in, “Note pai un la, na zaksa uh, na muhsa uh, Johan kiangah va gen un.
 
-**ZVS:** Jesuh in amaute kiangah, “Va ciahkik un la, tu-a na zakte uh leh na muh uh thute va gen un:
+**ZVS:** Jesuh in amaute kiangah, “Va ciahkik un la, tu-a na zakte-te leh na muh-te thute va gen un:
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v7
 **EN:** And as they departed, Jesus began to say unto the multitudes concerning John,
 
-**TDB77:** Tua mite a paikhiat khit uh ciangin, Zeisu in mihonte kiangah Johan’ thu a geninah, “Note in bang en dingin gampa lakah paikhia na hi uh hiam? Huih mut a, vuang pumpeeng en dingin paikhia na hi uh hiam?
+**TDB77:** Tua mite a paikhiat khit-te ciangin, Zeisu in mihonte kiangah Johan’ thu a geninah, “Note in bang en dingin gampa lakah paikhia na hi-te hiam? Huih mut a, vuang pumpeeng en dingin paikhia na hi-te hiam?
 
-**ZVS:** Tua thudong mite a ciahkhiat khit ciangin Jesuh in mihonte kiangah Johan' thu gen a, “Gamlakah Johan kiangah na pai uh ciangin bang a mu dingin kilamen na hi uh hiam? Huih in a mut awn diamdiam lopakungte a en ding maw?
+**ZVS:** Tua thudong mite a ciahkhiat khit ciangin Jesuh in mihonte kiangah Johan' thu gen a, “Gamlakah Johan kiangah na pai-te ciangin bang a mu dingin kilamen na hi-te hiam? Huih in a mut awn diamdiam lopakungte a en ding maw?
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v20
 **EN:** Then began he to upbraid the cities wherein most of his mighty works were done, because they repented not:
 
-**TDB77:** Tua khit ciangin vangliatna tampi a lahna khuate in, a mawhna kisik kik lo uh ahih ciangin Zeisu in a mawhsakinah,
+**TDB77:** Tua khit ciangin vangliatna tampi a lahna khuate in, a mawhna kisik kik lo-te ahih ciangin Zeisu in a mawhsakinah,
 
-**ZVS:** Tua ciangin Jesuh in na lamdang tampi a bawlna mun khuapi mite kisik nuamlo uh ahih manin taiibawl ding kipan a,
+**ZVS:** Tua ciangin Jesuh in na lamdang tampi a bawlna mun khuapi mite kisik nuamlo-te ahih manin taiibawl ding kipan a,
 
 **Grammar:** reciprocal: ki- prefix
 

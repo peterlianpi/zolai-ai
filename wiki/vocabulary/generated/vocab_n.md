@@ -287,7 +287,7 @@
 **[]** works
 **Meanings:** works | wonders | those | aaron | nor | eyes
 **CEFR:** A1
-> *Ham’ gam sungah bawl uh hi.*
+> *Ham’ gam sungah bawl-te hi.*
 > `PSA 105:27`
 
 ### nalamgdang
@@ -587,7 +587,7 @@
 **Meanings:** rebuking | seen | world | channels | foundations | discovered
 **CEFR:** A2
 **Usage:** Attested 145× across 2 Bible books.
-> *hong susia khin ding uh hi,’ a ci ding uh hi.*
+> *hong susia khin ding-te hi,’ a ci ding-te hi.*
 
 ### nakon
 **[]** nachon's
@@ -721,7 +721,7 @@
 **Related:** martha, pia, sangin, taktak, unu
 **CEFR:** A2
 **Usage:** Attested 675× across 10 Bible books.
-> *A kiteel na naunu’ tate in nang hong hopih uh hi.*
+> *A kiteel na naunu’ tate in nang hong hopih-te hi.*
 > → The children of thy elect sister greet thee. Amen.
 > `2JN 1:13`
 
@@ -822,7 +822,7 @@
 **Related:** tapate, nei, nga
 **CEFR:** A2
 **Usage:** Attested 210× across 2 Bible books.
-> *Neariah’ tapate in: Elio-enai, Hizkiah, leh Azrikam, thum pha uh hi.*
+> *Neariah’ tapate in: Elio-enai, Hizkiah, leh Azrikam, thum pha-te hi.*
 > → And the sons of Neariah; Elioenai, and Hezekiah, and Azrikam, three.
 > `1CH 3:23`
 
@@ -988,7 +988,7 @@
 **[]** breath
 **Meanings:** breath | any | mouths | ears | hear | neither
 **CEFR:** B1
-> *amaute’ kam sungah naksuk naktohna theihna nei lo uh hi.*
+> *amaute’ kam sungah naksuk naktohna theihna nei lo-te hi.*
 
 ### nakvangte
 **[n]** there
@@ -1002,7 +1002,7 @@
 **[]** angel
 **Meanings:** angel | slippery | let | way | wherefore | ways
 **CEFR:** B1
-> *Topa’ vantungmi’ delhna-ah a taina lampi uh mial-in nal sak in.*
+> *Topa’ vantungmi’ delhna-ah a taina lampi-te mial-in nal sak in.*
 > → Let their way be dark and slippery: and let the angel of the
 > `PSA 35:6`
 
@@ -1260,7 +1260,7 @@
 ### namgimtui
 **[n]** missing
 **CEFR:** B2
-> *A pilte ahih uh leh*
+> *A pilte ahih-te leh*
 > `MAT 25:4`
 
 ### namkimte
@@ -1308,7 +1308,7 @@
 **Synonyms:** lungkimlo, tentanin
 **CEFR:** B2
 **Usage:** Attested 75× across 2 Bible books.
-> *hih minam dangte in ka mite' gimna nasiasak semsem uh hi.*
+> *hih minam dangte in ka mite' gimna nasiasak semsem-te hi.*
 
 ### naupaaite
 **[]** women
@@ -1443,7 +1443,7 @@
 **[]** peter
 **Meanings:** peter | saith | cometh | findeth | asleep | disciples
 **CEFR:** B2
-> *Tom tawh ka ngakkhawm uh hi.*
+> *Tom tawh ka ngakkhawm-te hi.*
 
 ### ngakngak
 **[n]** come
@@ -1464,7 +1464,7 @@
 **[]** fasting
 **Meanings:** fasting | went | palace | passed | night | neither
 **CEFR:** B2
-> *An ka ngawl uh hi.*
+> *An ka ngawl-te hi.*
 
 ### ngawlin
 **[n]** face
@@ -1634,7 +1634,7 @@
 **[a]** missing
 **Meanings:** missing | another | flesh | men | beasts | kind
 **CEFR:** C1
-> *gamkhat leh gamkhat hong kido ding uh hi.*
+> *gamkhat leh gamkhat hong kido ding-te hi.*
 > `LUK 21:10`
 
 ### namtuam
@@ -1675,7 +1675,7 @@
 **Related:** note, nasepna, dangte, nasempa, citakin
 **CEFR:** C1
 **Usage:** Attested 770× across 16 Bible books.
-> *a thupiang khempeuh kumpipa kiangah a ko uh hi.*
+> *a thupiang khempeuh kumpipa kiangah a ko-te hi.*
 
 ### nasim
 **[]** great
@@ -1711,7 +1711,7 @@
 **Meanings:** day | course | samothracia | next | neapolis | therefore
 **CEFR:** C1
 **Usage:** Attested 75× across 2 Bible books.
-> *a zing ciangin Neapolis khua ka tung uh hi.*
+> *a zing ciangin Neapolis khua ka tung-te hi.*
 
 ### neek
 **[v]** bread
@@ -1729,7 +1729,7 @@
 **[]** known
 **Meanings:** known | let | your | moderation | men | lord
 **CEFR:** C1
-> *Mi khempeuh mai-ah na lungsim nemna uh na lak un.*
+> *Mi khempeuh mai-ah na lungsim nemna-te na lak un.*
 > `PHP 4:5`
 
 ### nereas
@@ -1797,7 +1797,7 @@
 ### ngeiah
 **[]** missing
 **CEFR:** C1
-> *Mihing Tapa in ama omna ngeiah a kahtokik na muh uh ciangin*
+> *Mihing Tapa in ama omna ngeiah a kahtokik na muh-te ciangin*
 > `JHN 6:62`
 
 ### ngeiloh
@@ -1863,14 +1863,14 @@
 **[]** saw
 **Meanings:** saw | vision | evidently | about | ninth | hour
 **CEFR:** C1
-> *nitumte enin hunsehin naseem uh hi.*
+> *nitumte enin hunsehin naseem-te hi.*
 
 ### nikanor
 **[n]** holy
 **Meanings:** holy | multitude | chose | stephen | man | full
 **CEFR:** C1
 **Usage:** Attested 155× across 2 Bible books.
-> *A vekpi-un sawltakte' thugente thukimpih uh ahih manin*
+> *A vekpi-un sawltakte' thugente thukimpih-te ahih manin*
 
 ### nikodemas
 **[n]** nicodemus
@@ -2181,7 +2181,7 @@ naak-saau
 **Meanings:** towns | thereof | beth | eastward | naaran | westward
 **CEFR:** C2
 **Usage:** Attested 155× across 2 Bible books.
-> *Amau' neihsa gam leh a ten'na uh Bethel leh a khuapite*
+> *Amau' neihsa gam leh a ten'na-te Bethel leh a khuapite*
 
 ### naau
 **[]** smaller brother or sister
@@ -2197,5 +2197,5 @@ naak-saau
 **CEFR:** C2
 
 ### nab
-**[verb]** (v) man, (guta man uh hi)
+**[verb]** (v) man, (guta man-te hi)
 **CEFR:** C2

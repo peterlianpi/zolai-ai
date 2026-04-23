@@ -73,18 +73,18 @@
 ### v6
 **EN:** And thy handmaid had two sons, and they two strove together in the field, and there was none to part them, but the one smote the other, and slew him.
 
-**TDB77:** Na nasemnu in tapa nih nei a, lo sungah amaute khat leh khat kitawng uh hi. Amaute a khen ding kuamah om lo a, khat in a khatpa satin that hi.
+**TDB77:** Na nasemnu in tapa nih nei a, lo sungah amaute khat leh khat kitawng-te hi. Amaute a khen ding kuamah om lo a, khat in a khatpa satin that hi.
 
-**ZVS:** Na nasemnu in tapa nih nei a, lo sungah amaute gel kitawng uh hi. Amaute gel a khen ding kuamah omlo a, khat in a khatpa satin that hi.
+**ZVS:** Na nasemnu in tapa nih nei a, lo sungah amaute gel kitawng-te hi. Amaute gel a khen ding kuamah omlo a, khat in a khatpa satin that hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And, behold, the whole family is risen against thine handmaid, and they said, Deliver him that smote his brother, that we may kill him, for the life of his brother whom he slew; and we will destroy the heir also: and so they shall quench my coal which is left, and shall not leave to my husband neither name nor remainder upon the earth.
 
-**TDB77:** Tu-in ka beh buppi na nasemnu’ langah hong pang uh a, amaute in, ‘Ama thah a sanggampa’ nuntakna tangin amah ka thah theih nadingun a sanggampa a sat mipa hong pia in,’ hong ci uh hi; tua bangin amaute in innluahpa zong susia ding uh hi. Tua bangin amaute in a om lai ka lametna-pa beisakin leitungah ka pasal’ suan-le-khak a suakta omsak lo ding uh hi,” a ci hi.
+**TDB77:** Tu-in ka beh buppi na nasemnu’ langah hong pang-te a, amaute in, ‘Ama thah a sanggampa’ nuntakna tangin amah ka thah theih nadingun a sanggampa a sat mipa hong pia in,’ hong ci-te hi; tua bangin amaute in innluahpa zong susia ding-te hi. Tua bangin amaute in a om lai ka lametna-pa beisakin leitungah ka pasal’ suan-le-khak a suakta omsak lo ding-te hi,” a ci hi.
 
-**ZVS:** Tu-in ka beh buppi na nasemnu' langah hong pangin amaute in, ‘Ama thah a sanggampa' nuntakna tangin amah ka thah theihna dingun a sanggampa a sat mipa hong pia in,’ hong ci uh hi. Tua bangin amaute in innluahpa zong susia ding uh hi. Tua bangin amaute in a omlai ka lametnapa beisakin leitungah ka pasal' suanlekhak a suakta omsaklo ding uh hi,” a ci hi.
+**ZVS:** Tu-in ka beh buppi na nasemnu' langah hong pangin amaute in, ‘Ama thah a sanggampa' nuntakna tangin amah ka thah theihna dingun a sanggampa a sat mipa hong pia in,’ hong ci-te hi. Tua bangin amaute in innluahpa zong susia ding-te hi. Tua bangin amaute in a omlai ka lametnapa beisakin leitungah ka pasal' suanlekhak a suakta omsaklo ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -285,18 +285,18 @@
 ### v30
 **EN:** Therefore he said unto his servants, See, Joab's field is near mine, and he hath barley there; go and set it on fire. And Absalom's servants set the field on fire.
 
-**TDB77:** Tua ciangin amah in a nasemte kiangah, “En un, Joab’ lo in keima aa zom hi a, tua lai-ah amah in mangbuhham nei hi; pai un la mei tawh hal un,” a ci hi. Tua ahih ciangin Absalom’ nasemte in a lo mei tawh hal uh hi.
+**TDB77:** Tua ciangin amah in a nasemte kiangah, “En un, Joab’ lo in keima aa zom hi a, tua lai-ah amah in mangbuhham nei hi; pai un la mei tawh hal un,” a ci hi. Tua ahih ciangin Absalom’ nasemte in a lo mei tawh hal-te hi.
 
-**ZVS:** Tua ciangin amah in a nasemte kiangah, “En un, Joab' lo pen keima-a' zom hi a, tua lai-ah amah in mangbuhham nei hi; pai un la mei tawh va hal un,” a ci hi. Tua ahih ciangin Absalom' nasemte in a lo mei tawh a hal uh hi.
+**ZVS:** Tua ciangin amah in a nasemte kiangah, “En un, Joab' lo pen keima-a' zom hi a, tua lai-ah amah in mangbuhham nei hi; pai un la mei tawh va hal un,” a ci hi. Tua ahih ciangin Absalom' nasemte in a lo mei tawh a hal-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v31
 **EN:** Then Joab arose, and came to Absalom unto his house, and said unto him, Wherefore have thy servants set my field on fire?
 
-**TDB77:** Tua ciangin Joab ding-in Absalom kiang ama inn-ah pai a, ama kiangah, “Bang hangin na nasemte in mei tawh ka lo hong halsak ahi uh hiam?” a ci hi.
+**TDB77:** Tua ciangin Joab ding-in Absalom kiang ama inn-ah pai a, ama kiangah, “Bang hangin na nasemte in mei tawh ka lo hong halsak ahi-te hiam?” a ci hi.
 
-**ZVS:** Tua ciangin Joab dingin Absalom' kiang ama inn-ah pai-in ama kiangah, “Bang hangin na nasemte in mei tawh ka lo hong halsak ahi uh hiam?” a ci hi.
+**ZVS:** Tua ciangin Joab dingin Absalom' kiang ama inn-ah pai-in ama kiangah, “Bang hangin na nasemte in mei tawh ka lo hong halsak ahi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | reciprocal: ki- prefix
 

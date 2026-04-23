@@ -40,7 +40,7 @@
 
 ### makaite = princes/leaders
 **Context:** Refers to the overall leaders of the tribes of Israel.
-**Example:** Hihte in Israel minamte’ makaite ahi uh hi.
+**Example:** Hihte in Israel minamte’ makaite ahi-te hi.
 
 ### vantung aksi = stars of heaven
 **Context:** Used metaphorically to describe a very large, uncountable number (like the stars).
@@ -105,7 +105,7 @@
 - **tul sawmnih leh tulli** = twenty and four thousand
   - Usage: A standard way to express the number 24,000 (20 thousand and 4 thousand).
 
-- **Israel minamte’ makaite ahi uh hi** = These were the leaders/princes of the tribes of Israel
+- **Israel minamte’ makaite ahi-te hi** = These were the leaders/princes of the tribes of Israel
   - Usage: A concluding statement summarizing the status of the preceding list of names.
 
 - **vantung aksi zahin a tamin a bawl nading** = as numerous as the stars of heaven

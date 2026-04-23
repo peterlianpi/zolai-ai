@@ -42,9 +42,9 @@
 ### v3
 **EN:** Likewise the people of the land shall worship at the door of this gate before the
 
-**TDB77:** Sabbath ni leh kha det ni simin mi khempeuh in zong tua kongpi mai-ah Topa bia-in kun ding uh hi.
+**TDB77:** Sabbath ni leh kha det ni simin mi khempeuh in zong tua kongpi mai-ah Topa bia-in kun ding-te hi.
 
-**ZVS:** Sabbath ni leh Khadet nisimin mi khempeuh in zong tua kongpi mai-ah { Topa } bia-in kun ding uh hi.
+**ZVS:** Sabbath ni leh Khadet nisimin mi khempeuh in zong tua kongpi mai-ah { Topa } bia-in kun ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
@@ -58,7 +58,7 @@
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: lo
 
 ### v5
-**EN:** And the meat offering shall be an ephah for a ram, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah.
+**EN:** And the meat offering shall be an ephah for a gam, and the meat offering for the lambs as he shall be able to give, and an hin of oil to an ephah.
 
 **TDB77:** Tua ganhingte tawh a piak khawm ding an tawh biak piak nadingin zong, tuutal khat ciangin an bung khat kizuisak ding a, tuunote tawh piak khop ding pen ama piak nop zahzah hi ding hi. An bung khat a piakna-ah sathau bing dim khat tawh kizuisak ding hi.
 
@@ -67,7 +67,7 @@
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix
 
 ### v6
-**EN:** And in the day of the new moon it shall be a young bullock without blemish, and six lambs, and a ram: they shall be without blemish.
+**EN:** And in the day of the new moon it shall be a young bullock without blemish, and six lambs, and a gam: they shall be without blemish.
 
 **TDB77:** Kha det ni ciangin pauban’na a om lo bawngtal khat, tuuno guk, leh tuutal khat hi ding hi.
 
@@ -76,7 +76,7 @@
 **Grammar:** future: will | negation: lo
 
 ### v7
-**EN:** And he shall prepare a meat offering, an ephah for a bullock, and an ephah for a ram, and for the lambs according as his hand shall attain unto, and an hin of oil to an ephah.
+**EN:** And he shall prepare a meat offering, an ephah for a bullock, and an ephah for a gam, and for the lambs according as his hand shall attain unto, and an hin of oil to an ephah.
 
 **TDB77:** Tuate tawh piakkhop dingin an tawh biak piak nadingin bawngtal, tuutalte khat ciangin an bung khat pai, leh tuunote tawh piakkhop ding pen ama piak nop zahzah hi ding hi. An bung khat a piakna-ah sathau bing dim khat tawh kizuisak ding hi.
 
@@ -96,9 +96,9 @@
 ### v9
 **EN:** But when the people of the land shall come before the
 
-**TDB77:** “A kiseh pawi hunte-ah Topa bia dingin hong pai mite khempeuh pen a lutna kongpi zui-in kileh kik lo ding uh a, tang takin paisuak ding uh hi. Leilu lam kongpi panin a lutte, leitaw lam kongpi-ah ciah ding uh a, leitaw lam kongpi panin a lutte, leilu lam kongpi-ah ciah ding uh hi.
+**TDB77:** “A kiseh pawi hunte-ah Topa bia dingin hong pai mite khempeuh pen a lutna kongpi zui-in kileh kik lo ding-te a, tang takin paisuak ding-te hi. Leilu lam kongpi panin a lutte, leitaw lam kongpi-ah ciah ding-te a, leitaw lam kongpi panin a lutte, leilu lam kongpi-ah ciah ding-te hi.
 
-**ZVS:** “A kiseh pawi hunte-ah { Topa } a bia dingin a hong pai mite khempeuh pen a hong lutna kongpi zui-in kileh kiklo ding uh a, tangtakin paisuak ding uh hi. Leilu lam kongpi panin a lutte, leitaw lam kongpi-ah ciah ding uh a, leitaw lam kongpi panin a lutte, leilu lam kongpi-ah ciah ding uh hi.
+**ZVS:** “A kiseh pawi hunte-ah { Topa } a bia dingin a hong pai mite khempeuh pen a hong lutna kongpi zui-in kileh kiklo ding-te a, tangtakin paisuak ding-te hi. Leilu lam kongpi panin a lutte, leitaw lam kongpi-ah ciah ding-te a, leitaw lam kongpi panin a lutte, leilu lam kongpi-ah ciah ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -110,7 +110,7 @@
 **Grammar:** future: will
 
 ### v11
-**EN:** And in the feasts and in the solemnities the meat offering shall be an ephah to a bullock, and an ephah to a ram, and to the lambs as he is able to give, and an hin of oil to an ephah.
+**EN:** And in the feasts and in the solemnities the meat offering shall be an ephah to a bullock, and an ephah to a gam, and to the lambs as he is able to give, and an hin of oil to an ephah.
 
 **TDB77:** Pawi nite leh a kiseh pawi hunte-ah an tawh biakna-a piak ding pen, bawngtal ahi a, tuutal ahi zongin khat ciangin an bung khat in zui ding a, tuunote tawh piakkhawm ding pen a mite’ piak nop zahzah hi ding hi. An bung khat a kipiak ciangin sathau bing dim khat in zui ding hi.
 
@@ -166,9 +166,9 @@
 ### v17
 **EN:** But if he give a gift of his inheritance to one of his servants, then it shall be his to the year of liberty; after it shall return to the prince: but his inheritance shall be his sons' for them.
 
-**TDB77:** Ahi zongin gam uk ulianpa in ama nasemte khatpeuh tungah leitang a piak leh, suahtakna kum a tun’ ciangin tua leitang pen a pia gam uk ulianpa’ neihsa suak kik ding hi. Bang hang hiam cih leh tua leitang in ama neihsa hi a, amah leh a tapate bek in nei paisuak thei ding uh hi.
+**TDB77:** Ahi zongin gam uk ulianpa in ama nasemte khatpeuh tungah leitang a piak leh, suahtakna kum a tun’ ciangin tua leitang pen a pia gam uk ulianpa’ neihsa suak kik ding hi. Bang hang hiam cih leh tua leitang in ama neihsa hi a, amah leh a tapate bek in nei paisuak thei ding-te hi.
 
-**ZVS:** Ahi zongin gam uk ulianpa in ama nasemte khat peuhpeuh tungah leitang a piak leh, suahtakna kum a tun' ciangin tua leitang pen a pia gam ukpa' neihsa suakkik ding hi. Bang bang hiam cih leh tua leitang pen ama neihsa hi a, amah leh a tapate bek in nei paisuak thei ding uh hi.
+**ZVS:** Ahi zongin gam uk ulianpa in ama nasemte khat peuhpeuh tungah leitang a piak leh, suahtakna kum a tun' ciangin tua leitang pen a pia gam ukpa' neihsa suakkik ding hi. Bang bang hiam cih leh tua leitang pen ama neihsa hi a, amah leh a tapate bek in nei paisuak thei ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -193,9 +193,9 @@
 ### v20
 **EN:** Then said he unto me, This is the place where the priests shall boil the trespass offering and the sin offering, where they shall bake the meat offering; that they bear them not out into the utter court, to sanctify the people.
 
-**TDB77:** “Hih mun pen, siampite in mawhna leh khialhna hangin biakna-in a kipia sate a huanna mun, leh an tawh biak piaknate a em nading mun ahi hi. Hih pen, tual puanung ah biakna sa leh ante paipih kha loin, tua a siangtho nate tawh tual puanung-a om mite a lawhsak khak loh nading uh ahi hi,” hong ci hi.
+**TDB77:** “Hih mun pen, siampite in mawhna leh khialhna hangin biakna-in a kipia sate a huanna mun, leh an tawh biak piaknate a em nading mun ahi hi. Hih pen, tual puanung ah biakna sa leh ante paipih kha loin, tua a siangtho nate tawh tual puanung-a om mite a lawhsak khak loh nading-te ahi hi,” hong ci hi.
 
-**ZVS:** “Hih mun pen, siampite in mawhna leh khialhna hangin biakna-in a kipia sate a huanna mun, leh an tawh biakpiaknate a emna ding mun ahi hi. Hih pen, tual puanungah biakna sa leh ante paipihkha loin, tua a siangtho nate tawh tual puanunga om mite a lawhsakkhak lohna ding uh ahi hi,” hong ci hi.
+**ZVS:** “Hih mun pen, siampite in mawhna leh khialhna hangin biakna-in a kipia sate a huanna mun, leh an tawh biakpiaknate a emna ding mun ahi hi. Hih pen, tual puanungah biakna sa leh ante paipihkha loin, tua a siangtho nate tawh tual puanunga om mite a lawhsakkhak lohna ding-te ahi hi,” hong ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 

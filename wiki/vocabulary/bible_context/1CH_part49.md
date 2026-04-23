@@ -120,7 +120,7 @@
 
 ### ngaihsutna = mind/thought/intention
 **Context:** Set your mind and your heart to seek the Lord.
-**Example:** na ngaihsutna uh leh na lungsim uh kipsak un.
+**Example:** na ngaihsutna-te leh na lungsim-te kipsak un.
 
 ### Thuciamna Singkuang = Ark of the Covenant
 **Context:** To bring up the Ark of the Covenant of the Lord.

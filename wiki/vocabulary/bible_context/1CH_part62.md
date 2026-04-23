@@ -40,19 +40,19 @@
 
 ### kipia-in ki-ap = consecrate/dedicate oneself
 **Context:** The act of willingly offering oneself or one's service.
-**Example:** amahmah kipia-in ki-ap ding na hi uh hiam?”
+**Example:** amahmah kipia-in ki-ap ding na hi-te hiam?”
 
 ### beh lutangte = chiefs of the fathers/heads of families
 **Context:** The leaders who initiated the willing offerings.
-**Example:** Tua ciangin beh lutangte in utthu-a piakna bawl uh a
+**Example:** Tua ciangin beh lutangte in utthu-a piakna bawl-te a
 
 ### utthu-a piakna = willing offering/act of willingness
 **Context:** The action taken by the leaders to offer willingly.
-**Example:** beh lutangte in utthu-a piakna bawl uh a
+**Example:** beh lutangte in utthu-a piakna bawl-te a
 
 ### kumpipa’ nasepna = the king's work
 **Context:** The area of work overseen by the rulers under the king.
-**Example:** leh kumpipa' nasepna-ah a uk uliante in zong hih uh hi.
+**Example:** leh kumpipa' nasepna-ah a uk uliante in zong hih-te hi.
 
 ### sumngo = brass/bronze
 **Context:** Another metal dedicated for the temple service.
@@ -72,7 +72,7 @@
 
 ### cingtakin = perfectly/sincerely/wholeheartedly
 **Context:** Describing the manner in which the people offered to the Lord.
-**Example:** amaute in lungsim khempeuh tawh Topa tungah cingtakin pia uh hi
+**Example:** amaute in lungsim khempeuh tawh Topa tungah cingtakin pia-te hi
 
 ### phat = praise
 **Context:** David's action in the assembly after the offerings.
@@ -98,21 +98,21 @@
 **Context:** An action God performs through His hand.
 **Example:** leh thakhauhsakna ding na khutsungah om hi.
 
-### nuam uh hi = we rejoice/we are pleased
+### nuam-te hi = we rejoice/we are pleased
 **Context:** The feeling of the people regarding God.
-**Example:** Tu-in nang tungah ka nuam uh hi
+**Example:** Tu-in nang tungah ka nuam-te hi
 
 ### mikhualte = strangers/sojourners
 **Context:** Describing the status of the people before God, like their ancestors.
-**Example:** nangma mai-ah mikhualte leh peemtate ka hi uh hi.
+**Example:** nangma mai-ah mikhualte leh peemtate ka hi-te hi.
 
 ### peemtate = sojourners/temporary residents
 **Context:** Used alongside 'mikhualte' to emphasize their temporary status on earth.
-**Example:** mikhualte leh peemtate ka hi uh hi.
+**Example:** mikhualte leh peemtate ka hi-te hi.
 
 ### nilim = shadow
 **Context:** Used metaphorically to describe the brevity of their earthly life.
-**Example:** ka hunte uh leitungah nilim bang hi a
+**Example:** ka hunte-te leitungah nilim bang hi a
 
 ### thumanna = uprightness/sincerity
 **Context:** The quality God tests and delights in.
@@ -148,14 +148,14 @@
   - Purpose marker, indicating 'for the purpose of X' or 'for X'. (e.g., nasepna-a' dingin = for the purpose of work)
   - Example: nasepna khempeuh-a dingin
 
-- **Kua in X tawh Y na hi uh hiam?**
+- **Kua in X tawh Y na hi-te hiam?**
   - Rhetorical question structure asking 'Who is it that, with X, you are Y?' Used to prompt self-reflection on willingness.
-  - Example: Kua in utna lungsim tawh Topa tungah tu ni-in amahmah kipia-in ki-ap ding na hi uh hiam?”
+  - Example: Kua in utna lungsim tawh Topa tungah tu ni-in amahmah kipia-in ki-ap ding na hi-te hiam?”
 
-- **X leh Y zong hih uh hi**
+- **X leh Y zong hih-te hi**
   - Structure indicating that others, in addition to the primary actors, also performed the action. (e.g., 'and the rulers also did it')
-  - Example: leh kumpipa' nasepna-ah a uk uliante in zong hih uh hi.
+  - Example: leh kumpipa' nasepna-ah a uk uliante in zong hih-te hi.
 
 - **Bang hang hiam cih leh X**
   - A common structure meaning 'Why is it that X?' or 'Because X is true'. Used to introduce a reason or explanation.
-  - Example: Bang hang hiam cih leh amaute in a lungsim khempeuh uh tawh...
+  - Example: Bang hang hiam cih leh amaute in a lungsim khempeuh-te tawh...

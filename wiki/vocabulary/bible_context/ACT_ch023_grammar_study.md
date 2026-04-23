@@ -51,7 +51,7 @@
 ### v4
 **EN:** And they that stood by said, Revilest thou God's high priest?
 
-**TDB77:** A kiangah a ding mite in zong, “Nang in Pasian’ siampi mangpa zahko na hi hiam?” a cih uh ciangin,
+**TDB77:** A kiangah a ding mite in zong, “Nang in Pasian’ siampi mangpa zahko na hi hiam?” a cih-te ciangin,
 
 **ZVS:** Paul gei-a om mite in, “Pasian' siampi lianpenpa na zahko hi,” a cih ciangun
 
@@ -62,14 +62,14 @@
 
 **TDB77:** Paul in, “Ute naute aw, amah in Pasian’ siampi mangpa ahih lam ka thei kei hi. ‘No mipawlte a uk mangpa na kosia kei ding hi,’ ci-in Lai Siangtho sungah kigelh zo hi,” a ci hi..
 
-**ZVS:** Paul in, “Lawmte aw, siampi lianpenpa ahihlam ka thei kei hi. Lai Siangtho in, ‘Na mite uh a ukpa na gensia kei ding uh hi,’ ci hi,” ci-in a dawng hi.
+**ZVS:** Paul in, “Lawmte aw, siampi lianpenpa ahihlam ka thei kei hi. Lai Siangtho in, ‘Na mite-te a ukpa na gensia kei ding-te hi,’ ci hi,” ci-in a dawng hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 
 ### v6
 **EN:** But when Paul perceived that the one part were Sadducees, and the other Pharisees, he cried out in the council, Men and brethren, I am a Pharisee, the son of a Pharisee: of the hope and resurrection of the dead I am called in question.
 
-**TDB77:** Upa kimkhat Farisai-te, kimkhat Saddusi-te ahih uh Paul in a theih ciangin, “Ute naute aw, Farisai mi ka hi hi. Farisai’ ta ka hi hi. Mi sisate hong thokik ding hi ci-in ka lamet hangin thu dotna ka thuak hi,” ci-in upate kiangah a ko hi.
+**TDB77:** Upa kimkhat Farisai-te, kimkhat Saddusi-te ahih-te Paul in a theih ciangin, “Ute naute aw, Farisai mi ka hi hi. Farisai’ ta ka hi hi. Mi sisate hong thokik ding hi ci-in ka lamet hangin thu dotna ka thuak hi,” ci-in upate kiangah a ko hi.
 
 **ZVS:** Paul in tua uliante lakah Saddusi mi leh Farisi mi a omlam a muh ciangin amaute kiangah, “Lawmte aw, kei pen Farisi mite' suan ahi Farisi mi ka hi hi. Mi site hingkik ding hi, ci-in lamenin upna ka neih manin hih lai-ah thusitna ka thuak hi,” a ci hi.
 
@@ -78,34 +78,34 @@
 ### v7
 **EN:** And when he had so said, there arose a dissension between the Pharisees and the Sadducees: and the multitude was divided.
 
-**TDB77:** Paul in tua thu a gen ciangin Farisai-te leh Saddusi-te khat leh khat kiseel uh ahih ciangin a kikhawmte a kikhen uh hi.
+**TDB77:** Paul in tua thu a gen ciangin Farisai-te leh Saddusi-te khat leh khat kiseel-te ahih ciangin a kikhawmte a kikhen-te hi.
 
-**ZVS:** Tua thu a gen khit phetin Saddusi mite leh Farisi mite kitawngpah uh a, tua uliante khen nih a pha uh hi.
+**ZVS:** Tua thu a gen khit phetin Saddusi mite leh Farisi mite kitawngpah-te a, tua uliante khen nih a pha-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** For the Sadducees say that there is no resurrection, neither angel, nor spirit: but the Pharisees confess both.
 
-**TDB77:** Bang hang hiam i cih leh, Saddusi-te in, “Hin’kikna ahi zongin, vantungmi ahi zongin, kha ahi zongin a om kei hi,” a ci uh hi. Farisai-te in ahih leh, a nihin a om uh hi a ci uh hi.
+**TDB77:** Bang hang hiam i cih leh, Saddusi-te in, “Hin’kikna ahi zongin, vantungmi ahi zongin, kha ahi zongin a om kei hi,” a ci-te hi. Farisai-te in ahih leh, a nihin a om-te hi a ci-te hi.
 
-**ZVS:** (Bang hang hiam cih leh Saddusi mite in mi a sih khit ciangin hingkik nawnlo ding hi. Vantung mi ahi a, kha ahi zongin omlo hi, ci uh hi. Ahi zongin Farisi mite in hih thu thumte om hi, ci-in a um uh hi.)
+**ZVS:** (Bang hang hiam cih leh Saddusi mite in mi a sih khit ciangin hingkik nawnlo ding hi. Vantung mi ahi a, kha ahi zongin omlo hi, ci-te hi. Ahi zongin Farisi mite in hih thu thumte om hi, ci-in a um-te hi.)
 
 **Grammar:** quotative: said/saying | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** And there arose a great cry: and the scribes that were of the Pharisees' part arose, and strove, saying, We find no evil in this man: but if a spirit or an angel hath spoken to him, let us not fight against God.
 
-**TDB77:** Tua ciangin gamlumna piang a, Farisai-te laka laitheite kimkhat ding-in nakpi-in a nial uh a, “Hih pa tungah bangmah mawhna ka mu kei uh hi. Kha ahi zongin, vantungmi ahi zongin ama kiangah a gen leh, bang phamawh ahi hiam?” a ci uh hi.
+**TDB77:** Tua ciangin gamlumna piang a, Farisai-te laka laitheite kimkhat ding-in nakpi-in a nial-te a, “Hih pa tungah bangmah mawhna ka mu kei-te hi. Kha ahi zongin, vantungmi ahi zongin ama kiangah a gen leh, bang phamawh ahi hiam?” a ci-te hi.
 
-**ZVS:** Amau' kitotna awging hupha semsem a, Farisi mite pawlsunga om Thukham hilh siate pawlkhat hong dingin nakpi takin hong pau uh a, “Hih mipa tungah khialhna themkhat zong omlo hi. Vantung mi ahi a, Pasian' sawl khat peuhpeuh in ahi zongin ama tungah thu a gen hi khathei ding hi,” a ci uh hi.
+**ZVS:** Amau' kitotna awging hupha semsem a, Farisi mite pawlsunga om Thukham hilh siate pawlkhat hong dingin nakpi takin hong pau-te a, “Hih mipa tungah khialhna themkhat zong omlo hi. Vantung mi ahi a, Pasian' sawl khat peuhpeuh in ahi zongin ama tungah thu a gen hi khathei ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** And when there arose a great dissension, the chief captain, fearing lest Paul should have been pulled in pieces of them, commanded the soldiers to go down, and to take him by force from among them, and to bring him into the castle.
 
-**TDB77:** Kiseelna a tam ciangin amaute in Paul a sukgawp khak ding uh galkap mangpa lunghimawh ahih ciangin, galkapte paisakin Paul amaute lak pan zawhthawh thu-in la a, galkap innah a paipih dingun a sawl hi.
+**TDB77:** Kiseelna a tam ciangin amaute in Paul a sukgawp khak ding-te galkap mangpa lunghimawh ahih ciangin, galkapte paisakin Paul amaute lak pan zawhthawh thu-in la a, galkap innah a paipih dingun a sawl hi.
 
 **ZVS:** Amaute' kitotna hong husia semsem ahih manin amaute in Paul balthanggawp khading hi, ci-in galkapmangpa lunghimawh hi. Tua ahih manin galkapte in Paul va kaikhia-in galkap inn-ah a paipihna dingun thu a pia hi.
 
@@ -123,9 +123,9 @@
 ### v12
 **EN:** And when it was day, certain of the Jews banded together, and bound themselves under a curse, saying that they would neither eat nor drink till they had killed Paul.
 
-**TDB77:** Khua a vak ciangin Judah mite kikhawm uh a, “Paul i thah khit matengin an i ne kei ding hi, tui i dawn kei ding hi,” ci-in a kiciam uh hi.
+**TDB77:** Khua a vak ciangin Judah mite kikhawm-te a, “Paul i thah khit matengin an i ne kei ding hi, tui i dawn kei ding hi,” ci-in a kiciam-te hi.
 
-**ZVS:** A zing ciangin Jew mite pawlkhat kikhawm uh a, Paul i thahkhit ciang bekin anne tuidawn pan ding hi hang, ci-in kiciamna a nei uh hi.
+**ZVS:** A zing ciangin Jew mite pawlkhat kikhawm-te a, Paul i thahkhit ciang bekin anne tuidawn pan ding hi hang, ci-in kiciamna a nei-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -134,32 +134,32 @@
 
 **TDB77:** Tua banga a kiciamte a kisim ciangin sawmli val pha hi.
 
-**ZVS:** Hih bangin a vaihawm mihing sawmli val bang a pha uh hi.
+**ZVS:** Hih bangin a vaihawm mihing sawmli val bang a pha-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v14
 **EN:** And they came to the chief priests and elders, and said, We have bound ourselves under a great curse, that we will eat nothing until we have slain Paul.
 
-**TDB77:** Tua mite in siampi liante leh upate kiangah a pai uh a, “Kote in Paul ka thah khit matengun bangmah ka ne kei ding uh hi ci-in ka kiciam uh hi.
+**TDB77:** Tua mite in siampi liante leh upate kiangah a pai-te a, “Kote in Paul ka thah khit matengun bangmah ka ne kei ding-te hi ci-in ka kiciam-te hi.
 
-**ZVS:** Siampi liante leh upate kiangah pai uh a, “Paul ka thahkhit mateng uh anletui ka neklohna dingun khauhtakin thuciamna khat ka nei khin uh hi.
+**ZVS:** Siampi liante leh upate kiangah pai-te a, “Paul ka thahkhit mateng-te anletui ka neklohna dingun khauhtakin thuciamna khat ka nei khin-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Now therefore ye with the council signify to the chief captain that he bring him down unto you to morrow, as though ye would enquire something more perfectly concerning him: and we, or ever he come near, are ready to kill him.
 
-**TDB77:** Tua ahih ciangin note in upa vaihawmte tawh Paul thu a pha takpi khen ding bangin a hong paipihsuk nadingun galkap mangpa kiangah na ngen un. Paul in note kiangah hong tun’ ma-in lam kalah that dingin ka omkhol ding uh hi,” ci-in a gen uh hi.
+**TDB77:** Tua ahih ciangin note in upa vaihawmte tawh Paul thu a pha takpi khen ding bangin a hong paipihsuk nadingun galkap mangpa kiangah na ngen un. Paul in note kiangah hong tun’ ma-in lam kalah that dingin ka omkhol ding-te hi,” ci-in a gen-te hi.
 
-**ZVS:** Tu-in note leh uliante in galkapmangpa tungah thu zasak un la, Paul' thu a cingin a theinuam kineihin, note kiangah Paul hong paipihsakna dingin na ngen un. Hih lai mun hong tun'ma-in kote in lamkalah ka na that ding uh hi,” a ci uh hi.
+**ZVS:** Tu-in note leh uliante in galkapmangpa tungah thu zasak un la, Paul' thu a cingin a theinuam kineihin, note kiangah Paul hong paipihsakna dingin na ngen un. Hih lai mun hong tun'ma-in kote in lamkalah ka na that ding-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** And when Paul's sister's son heard of their lying in wait, he went and entered into the castle, and told Paul.
 
-**TDB77:** Paul’ sanggamnu’ tapa in tuate lampi kiangah pangin a om uh cih a theih ciangin, galkap inn sungah lut a, Paul kiangah a zasak hi.
+**TDB77:** Paul’ sanggamnu’ tapa in tuate lampi kiangah pangin a om-te cih a theih ciangin, galkap inn sungah lut a, Paul kiangah a zasak hi.
 
 **ZVS:** Ahi zongin hih a thahsawmna thu uh, Paul sanggamnu' tapa in za ahih manin galkap inn-ah va pai-in Paul kiangah a va gen hi.
 
@@ -188,25 +188,25 @@
 
 **TDB77:** Galkap mangpa in tangvalpa’ khut lenin, a kilang lona-ah paipih a, “Bang thu hong ko nuam na hi hiam? ci-in a dong sim hi.
 
-**ZVS:** Galkapmangpa in zong a khutin tuapa lenin amau gel guak paikhia uh a, “Bang hong gennuam na hi hiam?” ci-in a dong hi.
+**ZVS:** Galkapmangpa in zong a khutin tuapa lenin amau gel guak paikhia-te a, “Bang hong gennuam na hi hiam?” ci-in a dong hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v20
 **EN:** And he said, The Jews have agreed to desire thee that thou wouldest bring down Paul to morrow into the council, as though they would enquire somewhat of him more perfectly.
 
-**TDB77:** Tangvalpa in, “Zing ciangin upa kikhopna-ah Paul hong paipihsuk a, Judah mite in ama thu tel takin a dong ding bangin, nang kiangah hong ngen dingin a vaihawm zo uh hi.
+**TDB77:** Tangvalpa in, “Zing ciangin upa kikhopna-ah Paul hong paipihsuk a, Judah mite in ama thu tel takin a dong ding bangin, nang kiangah hong ngen dingin a vaihawm zo-te hi.
 
-**ZVS:** Tangvalpa in, “Uliante in Paul' thu a cingin a theinuam kineihin, zing ciangin amaute kiangah Paul na paisakna dingin Jew mi aana neite in ngetding a thukim uh hi.
+**ZVS:** Tangvalpa in, “Uliante in Paul' thu a cingin a theinuam kineihin, zing ciangin amaute kiangah Paul na paisakna dingin Jew mi aana neite in ngetding a thukim-te hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v21
 **EN:** But do not thou yield unto them: for there lie in wait for him of them more than forty men, which have bound themselves with an oath, that they will neither eat nor drink till they have killed him: and now are they ready, looking for a promise from thee.
 
-**TDB77:** Tua ahih ciangin amau deihna bangin zui kei in. Bang hang hiam na cih leh, Paul a thah khit matengun an ne lo, tui dawn lo ding ci-in a kiciam mi sawmli val lampi gei-ah a ding uh hi. Tu-in tuate in amau thu na man’ ding a ngak uh hi,” a ci hi.
+**TDB77:** Tua ahih ciangin amau deihna bangin zui kei in. Bang hang hiam na cih leh, Paul a thah khit matengun an ne lo, tui dawn lo ding ci-in a kiciam mi sawmli val lampi gei-ah a ding-te hi. Tu-in tuate in amau thu na man’ ding a ngak-te hi,” a ci hi.
 
-**ZVS:** Ahi zongin lamkalah Paul a pangsim dingin mihing sawmli val bang om uh ahih manin amaute' hong ngetna pia kei in. Tua mihing sawmlite in Paul a thahkhit mateng uh anletui a neklohna dingun kiciamna khat bawlkhin uh hi. Amaute a kithawisa-in om uh a, nangma thupiak ding bek a ngak uh ahi hi,” a ci hi.
+**ZVS:** Ahi zongin lamkalah Paul a pangsim dingin mihing sawmli val bang om-te ahih manin amaute' hong ngetna pia kei in. Tua mihing sawmlite in Paul a thahkhit mateng-te anletui a neklohna dingun kiciamna khat bawlkhin-te hi. Amaute a kithawisa-in om-te a, nangma thupiak ding bek a ngak-te ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -231,7 +231,7 @@
 ### v24
 **EN:** And provide them beasts, that they may set Paul on, and bring him safe unto Felix the governor.
 
-**TDB77:** Paul tuan’ nading sakolte pia in. Mangpipa Feliks kiangah pha takpi-in a paipih ding uh hi,” ci-in thu a pia hi.
+**TDB77:** Paul tuan’ nading sakolte pia in. Mangpipa Feliks kiangah pha takpi-in a paipih ding-te hi,” ci-in thu a pia hi.
 
 **ZVS:** Paul' tuan'na ding sakol pawlkhat zong keng un la, Menzipa Feliks kiangah hoihtakin va tun'pih un,” a ci hi.
 
@@ -256,16 +256,16 @@
 ### v27
 **EN:** This man was taken of the Jews, and should have been killed of them: then came I with an army, and rescued him, having understood that he was a Roman.
 
-**TDB77:** Judah mite in hih pa a man uh a, a that ding a kisak lai takun, amah in Rom mi ahih thu ka theih ciangin galkapte tawh pai-in, amah ka honkhia hi.
+**TDB77:** Judah mite in hih pa a man-te a, a that ding a kisak lai takun, amah in Rom mi ahih thu ka theih ciangin galkapte tawh pai-in, amah ka honkhia hi.
 
-**ZVS:** Jew mite in hih mipa manin that dektak uh hi. Rom gammi ahihlam ka theih ciangin ka galkapte tawh pai-in ka va honkhia hi.
+**ZVS:** Jew mite in hih mipa manin that dektak-te hi. Rom gammi ahihlam ka theih ciangin ka galkapte tawh pai-in ka va honkhia hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** And when I would have known the cause wherefore they accused him, I brought him forth into their council:
 
-**TDB77:** Amaute in bang hangin a mawhsak uh hiam cih ka thei nuam a, amaute upa vaihawmte kiangah ka paipihsuk hi.
+**TDB77:** Amaute in bang hangin a mawhsak-te hiam cih ka thei nuam a, amaute upa vaihawmte kiangah ka paipihsuk hi.
 
 **ZVS:** Amaute' mawhsakna bang thu ahi hiam, ci-in theinuam ka hih manin thusit dingin amau' uliante kiangah ka paipih hi.
 
@@ -274,9 +274,9 @@
 ### v29
 **EN:** Whom I perceived to be accused of questions of their law, but to have nothing laid to his charge worthy of death or of bonds.
 
-**TDB77:** A kithahna ding ahi zongin, thong sungah a kikhum nading ahi zongin a kilawm a khialhna hang ahi lo, amau thukham thu bek in a mawhsak uh hi cih ka thei hi.
+**TDB77:** A kithahna ding ahi zongin, thong sungah a kikhum nading ahi zongin a kilawm a khialhna hang ahi lo, amau thukham thu bek in a mawhsak-te hi cih ka thei hi.
 
-**ZVS:** Thong khiatna ding leh sihna thuakna dingin khialhna a bawlna bangmah ka mu kei hi. A mawhsaknate uh amau' thukham ngeina tawh kisai hi lel hi.
+**ZVS:** Thong khiatna ding leh sihna thuakna dingin khialhna a bawlna bangmah ka mu kei hi. A mawhsaknate-te amau' thukham ngeina tawh kisai hi lel hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -292,27 +292,27 @@
 ### v31
 **EN:** Then the soldiers, as it was commanded them, took Paul, and brought him by night to Antipatris.
 
-**TDB77:** Tua ciangin galkap mangpa’ vaikhak bangin galkapte in Paul a la uh a, zan lai takin Antipatris khua-ah a tung uh hi.
+**TDB77:** Tua ciangin galkap mangpa’ vaikhak bangin galkapte in Paul a la-te a, zan lai takin Antipatris khua-ah a tung-te hi.
 
-**ZVS:** Galkapte zong a thu ngahna bangun gamta uh a, tua zanin Paul paikhiatpihin Antipatris khua dong a paipih uh hi.
+**ZVS:** Galkapte zong a thu ngahna bangun gamta-te a, tua zanin Paul paikhiatpihin Antipatris khua dong a paipih-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v32
 **EN:** On the morrow they left the horsemen to go with him, and returned to the castle:
 
-**TDB77:** A zing ciangin sakol galkapte in Paul paipih uh a, galkapte a ciah uh hi.
+**TDB77:** A zing ciangin sakol galkapte in Paul paipih-te a, galkapte a ciah-te hi.
 
-**ZVS:** A zing ciangin khe galkapte kilehkik uh a, sakol tung tuang galkapteng bek a kha suaksak uh hi.
+**ZVS:** A zing ciangin khe galkapte kilehkik-te a, sakol tung tuang galkapteng bek a kha suaksak-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v33
 **EN:** Who, when they came to Caesarea, and delivered the epistle to the governor, presented Paul also before him.
 
-**TDB77:** Sakol tuang galkapte in Kaisaria khua-ah a tun’ uh ciangin, Mangpipa’ khut tungah lai a pia uh hi. Paul zong Mangpipa mai-ah a koih uh hi.
+**TDB77:** Sakol tuang galkapte in Kaisaria khua-ah a tun’ uh ciangin, Mangpipa’ khut tungah lai a pia-te hi. Paul zong Mangpipa mai-ah a koih-te hi.
 
-**ZVS:** Amaute in Sisaria khua-ah Paul tun'pih uh a, menzipa kiangah a lai puak uh pia-in, ama tungah Paul a ap uh hi.
+**ZVS:** Amaute in Sisaria khua-ah Paul tun'pih-te a, menzipa kiangah a lai puak-te pia-in, ama tungah Paul a ap-te hi.
 
 **Grammar:** plural: uh marker
 

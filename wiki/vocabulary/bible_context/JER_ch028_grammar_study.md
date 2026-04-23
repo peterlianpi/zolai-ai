@@ -84,9 +84,9 @@
 ### v8
 **EN:** The prophets that have been before me and before thee of old prophesied both against many countries, and against great kingdoms, of war, and of evil, and of pestilence.
 
-**TDB77:** Nang leh kei’ ma-a a om, tang lai-a kamsangte in gam tampi leh gam liante tungah gal ahi zongin, kial ahi zongin, pulnatna ahi zongin hong tung ding hi, ci-in a gen khol zo uh hi.
+**TDB77:** Nang leh kei’ ma-a a om, tang lai-a kamsangte in gam tampi leh gam liante tungah gal ahi zongin, kial ahi zongin, pulnatna ahi zongin hong tung ding hi, ci-in a gen khol zo-te hi.
 
-**ZVS:** Nang leh kei' ma-in a om, tanglai-a kamsangte in gam tampi leh gam liante' tungah gal ahi zongin, kial ahi zongin, pulnatna ahi zongin hong tung ding hi, ci-in a genkholzo uh hi.
+**ZVS:** Nang leh kei' ma-in a om, tanglai-a kamsangte in gam tampi leh gam liante' tungah gal ahi zongin, kial ahi zongin, pulnatna ahi zongin hong tung ding hi, ci-in a genkholzo-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -136,9 +136,9 @@
 ### v14
 **EN:** For thus saith the
 
-**TDB77:** Bang hang hiam cih leh a vanglian Topa Israel mite’ Pasian in kong gen-inah: Hih gam khempeuhte’ ngawngah sik hakkol ka thuah khin zo a, amaute in Babilon kumpipa Nebukhadnezzar’ na a sem ding uh hi. Bang hang hiam cih leh gamsate nangawn ama’ tungah ka pia khin zo hi,’ va ci in,” a ci hi.
+**TDB77:** Bang hang hiam cih leh a vanglian Topa Israel mite’ Pasian in kong gen-inah: Hih gam khempeuhte’ ngawngah sik hakkol ka thuah khin zo a, amaute in Babilon kumpipa Nebukhadnezzar’ na a sem ding-te hi. Bang hang hiam cih leh gamsate nangawn ama’ tungah ka pia khin zo hi,’ va ci in,” a ci hi.
 
-**ZVS:** Bang hang hiam cih leh Vanglian { Topa, } Israel mite' Pasian in hong genin-ah: Hih gam khempeuhte' ngawngah sik hakkol ka thuah khinzo a, amaute in Babylon kumpipa Nebukhadnezzar' na a sem ding uh hi. Bang hang hiam cih leh gamsate nangawn ama tungah ka pia khinzo hi, ci hi,’ va ci in,” hong ci hi.
+**ZVS:** Bang hang hiam cih leh Vanglian { Topa, } Israel mite' Pasian in hong genin-ah: Hih gam khempeuhte' ngawngah sik hakkol ka thuah khinzo a, amaute in Babylon kumpipa Nebukhadnezzar' na a sem ding-te hi. Bang hang hiam cih leh gamsate nangawn ama tungah ka pia khinzo hi, ci hi,’ va ci in,” hong ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

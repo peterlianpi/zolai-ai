@@ -198,7 +198,7 @@
 ### v22
 **EN:** The shady trees cover him with their shadow; the willows of the brook compass him about.
 
-**TDB77:** Lingkungte leh lui gei-a gialheek kungte in ama ading nilim piangsak uh hi.
+**TDB77:** Lingkungte leh lui gei-a gialheek kungte in ama ading nilim piangsak-te hi.
 
 **ZVS:** Lingkungte leh lui gei-a gialhek kungte in ama-a' ding nilim piangsak hi.
 

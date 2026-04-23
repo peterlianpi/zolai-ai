@@ -8,7 +8,7 @@
 | a dawt hi | threatened | dawt = threaten |
 | huih hat | ferocious winds | huih (wind) + hat (strong) |
 | tui tampi a kia hi | relentless rains fell | tui (rain) + tampi (much) + kia (fall) |
-| a buuk sungah a kikhum uh hi | they sheltered inside | buuk (shelter) + ki-khum (hide themselves) |
+| a buuk sungah a kikhum-te hi | they sheltered inside | buuk (shelter) + ki-khum (hide themselves) |
 | thaupi lian bawlna | ability to make nuclear weapons | thaupi lian (nuclear weapon) + bawlna (making) |
 | gimna lian mahmah | very serious danger | gim (danger) + lian (great) + mahmah (very) |
 

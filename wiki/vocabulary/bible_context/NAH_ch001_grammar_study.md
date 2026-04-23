@@ -57,9 +57,9 @@
 ### v5
 **EN:** The mountains quake at him, and the hills melt, and the earth is burned at his presence, yea, the world, and all that dwell therein.
 
-**TDB77:** Ama mai-ah mualliante liing a, Mualneute tuisuak hi. Ama mai-ah leitang kicim a, leitung leh a tunga om khempeuh liing uh hi.
+**TDB77:** Ama mai-ah mualliante liing a, Mualneute tuisuak hi. Ama mai-ah leitang kicim a, leitung leh a tunga om khempeuh liing-te hi.
 
-**ZVS:** Ama mai-ah mual liante ling a, mual neute a tuisuak hi. Ama mai-ah leitang kicim a, leitung leh a tunga om khempeuh a ling uh hi.
+**ZVS:** Ama mai-ah mual liante ling a, mual neute a tuisuak hi. Ama mai-ah leitang kicim a, leitung leh a tunga om khempeuh a ling-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -100,9 +100,9 @@
 ### v10
 **EN:** For while they be folden together as thorns, and while they are drunken as drunkards, they shall be devoured as stubble fully dry.
 
-**TDB77:** Amaute, linglom bangin om uh a, zu leh sa tawh kidiahin a om lai takun ham bangin kihaltum ding hi.
+**TDB77:** Amaute, linglom bangin om-te a, zu leh sa tawh kidiahin a om lai takun ham bangin kihaltum ding hi.
 
-**ZVS:** Amaute, linglom bangin om uh a, zu leh sa tawh kidiahin a om laitakun ham bangin kihaltum ding hi.
+**ZVS:** Amaute, linglom bangin om-te a, zu leh sa tawh kidiahin a om laitakun ham bangin kihaltum ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -116,9 +116,9 @@
 ### v12
 **EN:** Thus saith the
 
-**TDB77:** Topa in ama mite tungah hih bangin thu gen a, “Assiria mite thahat-in a tam mahmah hangin, amaute kisusia-in maimang ding hi. No ka mite na hih uh leh, khat vei kong gimsak khit hangin, kong gimsak kik nawn kei ding hi.
+**TDB77:** Topa in ama mite tungah hih bangin thu gen a, “Assiria mite thahat-in a tam mahmah hangin, amaute kisusia-in maimang ding hi. No ka mite na hih-te leh, khat vei kong gimsak khit hangin, kong gimsak kik nawn kei ding hi.
 
-**ZVS:** { Topa } in ama mite tungah hih bangin thu gen a, “Assiria mite thahatin a tam mahmah hangin, amaute kisusia-in maimang ding uh hi. No ka mite na hih uh leh, khatvei lai-in kong gimsak khit hangin tu-in note kong gimsakkik nawn kei ding hi.
+**ZVS:** { Topa } in ama mite tungah hih bangin thu gen a, “Assiria mite thahatin a tam mahmah hangin, amaute kisusia-in maimang ding-te hi. No ka mite na hih-te leh, khatvei lai-in kong gimsak khit hangin tu-in note kong gimsakkik nawn kei ding hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix
 
@@ -134,18 +134,18 @@
 ### v14
 **EN:** And the
 
-**TDB77:** Topa in Assiria mite tawh kisai-in hih bangin thu pia hi: “Note na cimang ding uh a, note’ pasiante’ biakinn sunga om milimte ka susia ding hi. Note siahuai lua na hih manun, na hankhuk ding uh a bawlbawl ka hi ta hi,” ci hi.
+**TDB77:** Topa in Assiria mite tawh kisai-in hih bangin thu pia hi: “Note na cimang ding-te a, note’ pasiante’ biakinn sunga om milimte ka susia ding hi. Note siahuai lua na hih manun, na hankhuk ding-te a bawlbawl ka hi ta hi,” ci hi.
 
-**ZVS:** { Topa } in Assiria mite tawh kisai-in hih bangin thu pia hi: “Note na cimang ding uh a, na pasian-te uh biakinn sunga om milimte ka susia ding hi. Note siahuai lua na hih manun na hankhuk ding uh a bawlbawl ka hi ta hi,” a ci hi.
+**ZVS:** { Topa } in Assiria mite tawh kisai-in hih bangin thu pia hi: “Note na cimang ding-te a, na pasian-te-te biakinn sunga om milimte ka susia ding hi. Note siahuai lua na hih manun na hankhuk ding-te a bawlbawl ka hi ta hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Behold upon the mountains the feet of him that bringeth good tidings, that publisheth peace! O Judah, keep thy solemn feasts, perform thy vows: for the wicked shall no more pass through thee; he is utterly cut off.
 
-**TDB77:** En un, mual tungah kamtaipa hong tai a, gualzawhna thupha hong gen ding ahi hi. Judah mite aw, pawi bawl un la, Pasian’ tunga na ciam bangun gamta un. Bang hang hiam cih leh mi gilote kisusiacip khin a, na gam uh hong simkik ngei nawn lo ding uh hi.
+**TDB77:** En un, mual tungah kamtaipa hong tai a, gualzawhna thupha hong gen ding ahi hi. Judah mite aw, pawi bawl un la, Pasian’ tunga na ciam bangun gamta un. Bang hang hiam cih leh mi gilote kisusiacip khin a, na gam-te hong simkik ngei nawn lo ding-te hi.
 
-**ZVS:** En un, mualtungah kamtaipa hong tai a, gualzawhna ding thupha hong gen ding ahi hi. Judah mite aw, pawi bawl un la, Pasian' tungah na ciam bangun gamta un. Bang hang hiam cih leh migilote kisusiacip khin a, na gam uh hong simkik nawnlo ding hi.
+**ZVS:** En un, mualtungah kamtaipa hong tai a, gualzawhna ding thupha hong gen ding ahi hi. Judah mite aw, pawi bawl un la, Pasian' tungah na ciam bangun gamta un. Bang hang hiam cih leh migilote kisusiacip khin a, na gam-te hong simkik nawnlo ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

@@ -95,18 +95,18 @@
 ### v9
 **EN:** Rejoice, O young man, in thy youth; and let thy heart cheer thee in the days of thy youth, and walk in the ways of thine heart, and in the sight of thine eyes: but know thou, that for all these things God will bring thee into judgment.
 
-**TDB77:** Khangnote aw, na khangno uh nuam sa un la, na khangno lai-un lungdam un. Na hih nop peuhpeuh uh hih un la, na ut bang bangun gamta un. Ahi zongin na gamtatna uh tawh kizui-in, Pasian in thu hong khen ding lamtak phawk gige un.
+**TDB77:** Khangnote aw, na khangno-te nuam sa un la, na khangno lai-un lungdam un. Na hih nop peuhpeuh-te hih un la, na ut bang bangun gamta un. Ahi zongin na gamtatna-te tawh kizui-in, Pasian in thu hong khen ding lamtak phawk gige un.
 
-**ZVS:** Khangnote aw, na khangnona uh nuamsa un la, na khangno lai-un lungdam un. Na hihnop peuhpeuh uh hih un la, na ut bangbangun gamta un. Ahi zongin na gamtatna uh tawh kizui-in Pasian in thu hong khen ding phawk gige un.
+**ZVS:** Khangnote aw, na khangnona-te nuamsa un la, na khangno lai-un lungdam un. Na hihnop peuhpeuh-te hih un la, na ut bangbangun gamta un. Ahi zongin na gamtatna-te tawh kizui-in Pasian in thu hong khen ding phawk gige un.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
 ### v10
 **EN:** Therefore remove sorrow from thy heart, and put away evil from thy flesh: for childhood and youth are vanity.
 
-**TDB77:** Note kilunggimsak kei un la, na pumpi uh gentheisak kei un. Bang hang hiam cih leh na khangno hun sung uh sau vei lo ding hi.
+**TDB77:** Note kilunggimsak kei un la, na pumpi-te gentheisak kei un. Bang hang hiam cih leh na khangno hun sung-te sau vei lo ding hi.
 
-**ZVS:** Note kilunggimsak kei un la, na pumpi uh gentheisak kei un. Bang hang hiam cih leh na khangno hunsung uh sauveilo ding hi.
+**ZVS:** Note kilunggimsak kei un la, na pumpi-te gentheisak kei un. Bang hang hiam cih leh na khangno hunsung-te sauveilo ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

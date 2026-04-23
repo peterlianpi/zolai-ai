@@ -30,9 +30,9 @@
 ### v2
 **EN:** Canst thou number the months that they fulfil? or knowest thou the time when they bring forth?
 
-**TDB77:** Nangmah in tuate a ni ciamtehin, a suah hun ding uh thei na hi hiam?
+**TDB77:** Nangmah in tuate a ni ciamtehin, a suah hun ding-te thei na hi hiam?
 
-**ZVS:** Tuate a ni ciamtehin, a suah hun ding uh thei na hi hiam?
+**ZVS:** Tuate a ni ciamtehin, a suah hun ding-te thei na hi hiam?
 
 **Grammar:** plural: uh marker
 
@@ -48,9 +48,9 @@
 ### v4
 **EN:** Their young ones are in good liking, they grow up with corn; they go forth, and return not unto them.
 
-**TDB77:** A note gamlakah khangin, a nute kiangpan paikhia-in ciahkik nawn lo uh hi.
+**TDB77:** A note gamlakah khangin, a nute kiangpan paikhia-in ciahkik nawn lo-te hi.
 
-**ZVS:** A note gamlakah khangin, a nute kiang pan paikhia-in ciahkik nawnlo uh hi.
+**ZVS:** A note gamlakah khangin, a nute kiang pan paikhia-in ciahkik nawnlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -73,18 +73,18 @@
 ### v7
 **EN:** He scorneth the multitude of the city, neither regardeth he the crying of the driver.
 
-**TDB77:** Gamlumna mun khuapite tawh kigamla-ah om uh a, kuamah in zualsak zo lo, na semsak zo lo uh hi.
+**TDB77:** Gamlumna mun khuapite tawh kigamla-ah om-te a, kuamah in zualsak zo lo, na semsak zo lo-te hi.
 
-**ZVS:** Gamlumna mun khuapite tawh a kigamla-ah om uh a, kuamah in zualsak zolo a, na semsak zolo uh hi.
+**ZVS:** Gamlumna mun khuapite tawh a kigamla-ah om-te a, kuamah in zualsak zolo a, na semsak zolo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** The range of the mountains is his pasture, and he searcheth after every green thing.
 
-**TDB77:** Mualte tungah an zongin vak kawikawi uh a, nek theih ding singkung lopa a hing peuhpeuh zuan kawikawi uh hi.
+**TDB77:** Mualte tungah an zongin vak kawikawi-te a, nek theih ding singkung lopa a hing peuhpeuh zuan kawikawi-te hi.
 
-**ZVS:** Mualte tungah an zongin vak kawikawi uh a, nektheih ding singkung lopa a hing peuhpeuh zuan kawikawi uh hi.
+**ZVS:** Mualte tungah an zongin vak kawikawi-te a, nektheih ding singkung lopa a hing peuhpeuh zuan kawikawi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -123,9 +123,9 @@
 ### v13
 **EN:** Gavest thou the goodly wings unto the peacocks? or wings and feathers unto the ostrich?
 
-**TDB77:** “Kalaoh vasate in a kha uh bangzah takin nawhzap thei hiam! Ahi zongin gun vapi bangin kalaoh vasa leng thei lo hi.
+**TDB77:** “Kalaoh vasate in a kha-te bangzah takin nawhzap thei hiam! Ahi zongin gun vapi bangin kalaoh vasa leng thei lo hi.
 
-**ZVS:** “Vasa-kalaohte in a kha uh bangzah takin nawh zap thei ahi hiam! Ahi zongin gun vapi bangin vasa-kalaoh leng theilo hi.
+**ZVS:** “Vasa-kalaohte in a kha-te bangzah takin nawh zap thei ahi hiam! Ahi zongin gun vapi bangin vasa-kalaoh leng theilo hi.
 
 **Grammar:** negation: lo
 
@@ -189,18 +189,18 @@
 ### v21
 **EN:** He paweth in the valley, and rejoiceth in his strength: he goeth on to meet the armed men.
 
-**TDB77:** Amaute in lawpna tawh a khe-un lei khuat uh a, gal sungah a tha neih khempeuh uh tawh diang uh hi.
+**TDB77:** Amaute in lawpna tawh a khe-un lei khuat-te a, gal sungah a tha neih khempeuh-te tawh diang-te hi.
 
-**ZVS:** Amaute in lawpna tawh a khe-un lei khuat uh a, a thaneih khempeuh uh tawh galsungah a diang uh hi.
+**ZVS:** Amaute in lawpna tawh a khe-un lei khuat-te a, a thaneih khempeuh-te tawh galsungah a diang-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** He mocketh at fear, and is not affrighted; neither turneth he back from the sword.
 
-**TDB77:** Amaute in launa meel thei lo uh a, namsau kihta-in nungkik lo uh hi.
+**TDB77:** Amaute in launa meel thei lo-te a, namsau kihta-in nungkik lo-te hi.
 
-**ZVS:** Amaute in launa meel bangmah theilo uh a, namsau kihta-in nungkik cih zong omlo hi.
+**ZVS:** Amaute in launa meel bangmah theilo-te a, namsau kihta-in nungkik cih zong omlo hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -214,18 +214,18 @@
 ### v24
 **EN:** He swalloweth the ground with fierceness and rage: neither believeth he that it is the sound of the trumpet.
 
-**TDB77:** Lawp mahmahna tawh sakolte in mainawt uh a, peengkul a kitum ciangin omkhong thei lo uh hi.
+**TDB77:** Lawp mahmahna tawh sakolte in mainawt-te a, peengkul a kitum ciangin omkhong thei lo-te hi.
 
-**ZVS:** Lawp mahmahna tawh sakolte in mainawt uh a, peengkul a kitum ciangin omkhong theilo uh hi.
+**ZVS:** Lawp mahmahna tawh sakolte in mainawt-te a, peengkul a kitum ciangin omkhong theilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v25
 **EN:** He saith among the trumpets, Ha, ha; and he smelleth the battle afar off, the thunder of the captains, and the shouting.
 
-**TDB77:** Peengkul a kitum ciangin ham uh a, gal nai a tun’ ma-un galgim za uh a, galkapmangte’ thupiakna awging za uh hi.
+**TDB77:** Peengkul a kitum ciangin ham-te a, gal nai a tun’ ma-un galgim za-te a, galkapmangte’ thupiakna awging za-te hi.
 
-**ZVS:** Peengkul a kitum ciangin ham hathat uh a, gal mai a tun' ma-un gal gimnam za uh a, galkapmangte' thupiakna awging a za uh hi.
+**ZVS:** Peengkul a kitum ciangin ham hathat-te a, gal mai a tun' ma-un gal gimnam za-te a, galkapmangte' thupiakna awging a za-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -248,7 +248,7 @@
 ### v28
 **EN:** She dwelleth and abideth on the rock, upon the crag of the rock, and the strong place.
 
-**TDB77:** Suang sangpi dawn-ah bu bawl uh a, suangheng kawmte phualpi-in nei uh hi.
+**TDB77:** Suang sangpi dawn-ah bu bawl-te a, suangheng kawmte phualpi-in nei-te hi.
 
 **ZVS:** Suangpi dawnah bu bawl a, suangheeng kawmte phualpi-in nei hi.
 
@@ -266,9 +266,9 @@
 ### v30
 **EN:** Her young ones also suck up blood: and where the slain are, there is she.
 
-**TDB77:** Gan sihna kimkotah musanete kikhawm uh a, a note in sasi dawn uh hi,” a ci hi.
+**TDB77:** Gan sihna kimkotah musanete kikhawm-te a, a note in sasi dawn-te hi,” a ci hi.
 
-**ZVS:** Gan sihna kimkotah musanete kikhawm uh a, a note in sasi a dawn uh hi,” a ci hi.
+**ZVS:** Gan sihna kimkotah musanete kikhawm-te a, a note in sasi a dawn-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 

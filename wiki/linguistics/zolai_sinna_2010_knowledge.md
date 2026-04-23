@@ -33,8 +33,8 @@ Zolai Sinna, ZAUS 2010. Full text: resources/zolai_sinna_2010.md
 
 ## Concept: Comma after `le`
 **Rule:** Do NOT place comma after `le` (and).
-**Wrong:** `Thangpi, Lunsen, le, Lian Pau pilpen uh hi.`
-**Correct:** `Thangpi, Lunsen le Lian Pau pilpen uh hi.`
+**Wrong:** `Thangpi, Lunsen, le, Lian Pau pilpen-te hi.`
+**Correct:** `Thangpi, Lunsen le Lian Pau pilpen-te hi.`
 **Source:** Sinna 33, rule 2.4
 
 ## Concept: Prefix `ki-` (Reflexive/Reciprocal)

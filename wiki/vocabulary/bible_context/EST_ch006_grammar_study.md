@@ -36,18 +36,18 @@
 ### v2
 **EN:** And it was found written, that Mordecai had told of Bigthana and Teresh, two of the king's chamberlains, the keepers of the door, who sought to lay hand on the king Ahasuerus.
 
-**TDB77:** Tua banga kisim ciangin, kongcingte’ sung panin innsung mang Bigthana leh Teresh in Kumpipa Ahasu-eras thah a sawmna thu pen Mordekai in a genna thu a kiciamtehna sim kha uh hi.
+**TDB77:** Tua banga kisim ciangin, kongcingte’ sung panin innsung mang Bigthana leh Teresh in Kumpipa Ahasu-eras thah a sawmna thu pen Mordekai in a genna thu a kiciamtehna sim kha-te hi.
 
-**ZVS:** Tua banga a kisim ciangin, kongcingte sung panin innsungmang Bigthana leh Teresh in Kumpipa Ahasueras thah a sawmna thu pen Mordekai in a genna thu a kiciamtehna simkha uh hi.
+**ZVS:** Tua banga a kisim ciangin, kongcingte sung panin innsungmang Bigthana leh Teresh in Kumpipa Ahasueras thah a sawmna thu pen Mordekai in a genna thu a kiciamtehna simkha-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** And the king said, What honour and dignity hath been done to Mordecai for this? Then said the king's servants that ministered unto him, There is nothing done for him.
 
-**TDB77:** Tua thu a zak ciangin kumpipa in, “Hih thu hangin Mordekai’ tungah pahtawina ahi a, minliatna ahi zongin bang kipia ahi hiam?” a ci hi. Tua lai-a a om kumpipa’ nasemte in Mordekai tungah bangmah a kipiak lohna thu gen uh hi.
+**TDB77:** Tua thu a zak ciangin kumpipa in, “Hih thu hangin Mordekai’ tungah pahtawina ahi a, minliatna ahi zongin bang kipia ahi hiam?” a ci hi. Tua lai-a a om kumpipa’ nasemte in Mordekai tungah bangmah a kipiak lohna thu gen-te hi.
 
-**ZVS:** Tua thu a zak ciangin kumpipa in, “Hih thu hangin Mordekai' tungah pahtawina ahi a, minliatna ahi zongin bang kipia ahi hiam?” a ci hi. Tua lai-a a om kumpipa' nasemte in Mordekai' tungah bangmah a kipiak lohna thu a gen uh hi.
+**ZVS:** Tua thu a zak ciangin kumpipa in, “Hih thu hangin Mordekai' tungah pahtawina ahi a, minliatna ahi zongin bang kipia ahi hiam?” a ci hi. Tua lai-a a om kumpipa' nasemte in Mordekai' tungah bangmah a kipiak lohna thu a gen-te hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix | plural: uh marker
 
@@ -63,9 +63,9 @@
 ### v5
 **EN:** And the king's servants said unto him, Behold, Haman standeth in the court. And the king said, Let him come in.
 
-**TDB77:** Tua ahih ciangin kumpipa’ nasemte in ama kiangah, “Hih lai-ah Haman om hi, inntual ah ding hi,” a ci uh hi. Tua ciangin kumpipa in, “Amah hong tumsak un,” a ci hi.
+**TDB77:** Tua ahih ciangin kumpipa’ nasemte in ama kiangah, “Hih lai-ah Haman om hi, inntual ah ding hi,” a ci-te hi. Tua ciangin kumpipa in, “Amah hong tumsak un,” a ci hi.
 
-**ZVS:** Tua ahih ciangin kumpipa' nasemte in ama kiangah, “Hih lai-ah Haman om hi; inntualah ding hi,” a ci uh hi. Tua ciangin kumpipa in, “Amah hong tumsak un,” a ci hi.
+**ZVS:** Tua ahih ciangin kumpipa' nasemte in ama kiangah, “Hih lai-ah Haman om hi; inntualah ding hi,” a ci-te hi. Tua ciangin kumpipa in, “Amah hong tumsak un,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -135,18 +135,18 @@
 ### v13
 **EN:** And Haman told Zeresh his wife and all his friends every thing that had befallen him. Then said his wise men and Zeresh his wife unto him, If Mordecai be of the seed of the Jews, before whom thou hast begun to fall, thou shalt not prevail against him, but shalt surely fall before him.
 
-**TDB77:** Tua ciangin Haman in a zi Zeresh leh a lawmte khempeuh tungah ama tunga thu piang teng gen hi. Tua ciangin a zi Zeresh leh a lawmte in ama kiangah, “Tu-a na lelhtaak Mordekai in Judah mi ahih leh amah na zo kei ding a, amah in nang hong zo zaw ding hi,” a ci uh hi.
+**TDB77:** Tua ciangin Haman in a zi Zeresh leh a lawmte khempeuh tungah ama tunga thu piang teng gen hi. Tua ciangin a zi Zeresh leh a lawmte in ama kiangah, “Tu-a na lelhtaak Mordekai in Judah mi ahih leh amah na zo kei ding a, amah in nang hong zo zaw ding hi,” a ci-te hi.
 
-**ZVS:** Tua ciangin Haman in a zi Zeresh leh a lawmte khempeuh tungah ama tunga thupiang teng a gen hi. Tua ciangin a zi Zeresh leh a lawmte in ama kiangah, “Tu-a na lelhtak Mordekai pen Jew mi ahi hi; amah na zo kei ding a, amah in nang hong zozaw ding hi,” a ci uh hi.
+**ZVS:** Tua ciangin Haman in a zi Zeresh leh a lawmte khempeuh tungah ama tunga thupiang teng a gen hi. Tua ciangin a zi Zeresh leh a lawmte in ama kiangah, “Tu-a na lelhtak Mordekai pen Jew mi ahi hi; amah na zo kei ding a, amah in nang hong zozaw ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And while they were yet talking with him, came the king's chamberlains, and hasted to bring Haman unto the banquet that Esther had prepared.
 
-**TDB77:** Tua bangin Haman tawh amaute a kiho lai takin kumpipa’ innsung mangte hong pai a, Esther’ bawlsa nitak an ne dingin amah pai khiatpih pah uh hi.
+**TDB77:** Tua bangin Haman tawh amaute a kiho lai takin kumpipa’ innsung mangte hong pai a, Esther’ bawlsa nitak an ne dingin amah pai khiatpih pah-te hi.
 
-**ZVS:** Tua bangin Haman tawh amaute a kiho laitakin kumpipa' innsungmangte hong pai a, Esther' bawlsa nitak an a ne dingin amah a paikhiatpih pah uh hi.
+**ZVS:** Tua bangin Haman tawh amaute a kiho laitakin kumpipa' innsungmangte hong pai a, Esther' bawlsa nitak an a ne dingin amah a paikhiatpih pah-te hi.
 
 **Grammar:** punctual: immediately/suddenly | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 

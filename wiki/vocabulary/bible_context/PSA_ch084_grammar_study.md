@@ -46,14 +46,14 @@
 
 **TDB77:** Nangma inn sungah teeng a, nangmah phatna a sa ngitnget mite in thupha ngah mi ahi hi.
 
-**ZVS:** Nangma inn sungah tengin, nangmah phatna a sa ngitnget mite thupha ngah mi ahi uh hi.
+**ZVS:** Nangma inn sungah tengin, nangmah phatna a sa ngitnget mite thupha ngah mi ahi-te hi.
 
 ### v5
 **EN:** Blessed is the man whose strength is in thee; in whose heart are the ways of them.
 
-**TDB77:** Nangma sungah amau thahatna om a, amau lungsim sungah Zion zuatna lampi a om mite in thupha ngah mi ahi uh hi.
+**TDB77:** Nangma sungah amau thahatna om a, amau lungsim sungah Zion zuatna lampi a om mite in thupha ngah mi ahi-te hi.
 
-**ZVS:** Nangma tung panin thahatna ngahin Zion zuatna lampi a tawn nuam mite thupha ngah mi ahi uh hi.
+**ZVS:** Nangma tung panin thahatna ngahin Zion zuatna lampi a tawn nuam mite thupha ngah mi ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -69,9 +69,9 @@
 ### v7
 **EN:** They go from strength to strength, every one of them in Zion appeareth before God.
 
-**TDB77:** Amaute a tha uh hat semsem hi; Zion-ah pasiante’ Pasian kimu ding hi.
+**TDB77:** Amaute a tha-te hat semsem hi; Zion-ah pasiante’ Pasian kimu ding hi.
 
-**ZVS:** Amaute a paikawmun a tha uh hat semsem a, pasian-te' Pasian Zion-ah mu ding uh hi.
+**ZVS:** Amaute a paikawmun a tha-te hat semsem a, pasian-te' Pasian Zion-ah mu ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -85,7 +85,7 @@
 ### v9
 **EN:** Behold, O God our shield, and look upon the face of thine anointed.
 
-**TDB77:** Pasian aw, ka lum uh en in; na sathau nilhpa’ maitang en in!
+**TDB77:** Pasian aw, ka lum-te en in; na sathau nilhpa’ maitang en in!
 
 **ZVS:** Pasian aw, kote a hong hu dingpa hong etsak in la, na sathau nilhpa hong kem in.
 
@@ -110,7 +110,7 @@
 
 **TDB77:** Mi honte Topa aw, nangmah hong muang mi in thupha ngah mi ahi hi!
 
-**ZVS:** Vanglian { Topa } aw, nangmah a hong muang mite, thupha ngah mi ahi uh hi.
+**ZVS:** Vanglian { Topa } aw, nangmah a hong muang mite, thupha ngah mi ahi-te hi.
 
 ---
 

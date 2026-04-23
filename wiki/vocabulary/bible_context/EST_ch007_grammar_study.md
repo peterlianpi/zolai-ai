@@ -26,9 +26,9 @@
 ### v1
 **EN:** So the king and Haman came to banquet with Esther the queen.
 
-**TDB77:** Tua ahih ciangin Kumpinu Esther tawh an ne dingin kumpipa leh Haman va pai uh hi.
+**TDB77:** Tua ahih ciangin Kumpinu Esther tawh an ne dingin kumpipa leh Haman va pai-te hi.
 
-**ZVS:** Tua ahih ciangin Kumpinu Esther tawh an a ne dingin kumpipa leh Haman va pai uh hi.
+**ZVS:** Tua ahih ciangin Kumpinu Esther tawh an a ne dingin kumpipa leh Haman va pai-te hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | plural: uh marker
 
@@ -89,9 +89,9 @@
 ### v8
 **EN:** Then the king returned out of the palace garden into the place of the banquet of wine; and Haman was fallen upon the bed whereon Esther was. Then said the king, Will he force the queen also before me in the house? As the word went out of the king's mouth, they covered Haman's face.
 
-**TDB77:** Kumpi huan panin a annekna mun uhah kumpipa hong paikik ciangin Esther’ tutna lamah Haman na awn phei-a om mu a, kumpipa in, “Ka inn sung ka muhna nangawn-ah hih mipa in kumpinu hih ding ahi hiam?” ci hi. Kumpipa in tua thu a cih phetin amaute in Haman’ mai puan khuh uh hi.
+**TDB77:** Kumpi huan panin a annekna mun uhah kumpipa hong paikik ciangin Esther’ tutna lamah Haman na awn phei-a om mu a, kumpipa in, “Ka inn sung ka muhna nangawn-ah hih mipa in kumpinu hih ding ahi hiam?” ci hi. Kumpipa in tua thu a cih phetin amaute in Haman’ mai puan khuh-te hi.
 
-**ZVS:** Kumpi huan panin a annekna mun uhah kumpipa hong paikik ciangin Esther' tutna lamah Haman na awn phei-in a om mu a, kumpipa in, “Ka innsung ka muhna nangawnah hih mipa in kumpinu hih ding ahi hiam?” ci hi. Kumpipa in tua thu a cih phetin amaute in Haman' mai puan a khuh uh hi.
+**ZVS:** Kumpi huan panin a annekna mun uhah kumpipa hong paikik ciangin Esther' tutna lamah Haman na awn phei-in a om mu a, kumpipa in, “Ka innsung ka muhna nangawnah hih mipa in kumpinu hih ding ahi hiam?” ci hi. Kumpipa in tua thu a cih phetin amaute in Haman' mai puan a khuh-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -107,9 +107,9 @@
 ### v10
 **EN:** So they hanged Haman on the gallows that he had prepared for Mordecai. Then was the king's wrath pacified.
 
-**TDB77:** Tua ciangin kumpipa in, “Tua tungah amah khailum un,” a ci hi. Tua ahih ciangin Mordekai khailup nadingin a phuh khuam tungah Haman khai lum uh hi. Tua ciangin kumpipa’ hehna dam hi.
+**TDB77:** Tua ciangin kumpipa in, “Tua tungah amah khailum un,” a ci hi. Tua ahih ciangin Mordekai khailup nadingin a phuh khuam tungah Haman khai lum-te hi. Tua ciangin kumpipa’ hehna dam hi.
 
-**ZVS:** Tua ciangin kumpipa in, “Tua tungah amah khailum un,” a ci hi. Tua ahih ciangin Mordekai khailupna dingin a phuh khuam tungah Haman a khailum uh hi. Tua ciangin kumpipa' hehna a dam hi.
+**ZVS:** Tua ciangin kumpipa in, “Tua tungah amah khailum un,” a ci hi. Tua ahih ciangin Mordekai khailupna dingin a phuh khuam tungah Haman a khailum-te hi. Tua ciangin kumpipa' hehna a dam hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | purpose: in order to | plural: uh marker
 

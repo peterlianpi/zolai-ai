@@ -37,7 +37,7 @@
 
 **TDB77:** Hebru mi sila khat na lei ciangin, amah in kum guk sung nasem ding a, a kum sagihna ciangin bangmah pia loin suakta-in amah paikhia ding hi.
 
-**ZVS:** Hebru mi sila khat na lei uh ciangin, amah in kum guk sung na hong sepsak ding a, a kum sagihna ciangin bangmah hong pia loin a suakta-in paikhia ding hi.
+**ZVS:** Hebru mi sila khat na lei-te ciangin, amah in kum guk sung na hong sepsak ding a, a kum sagihna ciangin bangmah hong pia loin a suakta-in paikhia ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
@@ -141,9 +141,9 @@
 ### v14
 **EN:** But if a man come presumptuously upon his neighbour, to slay him with guile; thou shalt take him from mine altar, that he may die.
 
-**TDB77:** Ahih hangin mi khat in zuauna tawh mi dang khat thah ding tumin a hih leh, amah na thah theih nadingun note in ka biakna tau nangawn panin amah na la teitei ding uh hi.
+**TDB77:** Ahih hangin mi khat in zuauna tawh mi dang khat thah ding tumin a hih leh, amah na thah theih nadingun note in ka biakna tau nangawn panin amah na la teitei ding-te hi.
 
-**ZVS:** Ahih hangin mi khat in midang khat thah ding tumin a thah leh, amah na thah theihna dingun note in ka biakna tau a belhna nangawn panin amah na la teitei ding uh hi.
+**ZVS:** Ahih hangin mi khat in midang khat thah ding tumin a thah leh, amah na thah theihna dingun note in ka biakna tau a belhna nangawn panin amah na la teitei ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -326,9 +326,9 @@
 ### v35
 **EN:** And if one man's ox hurt another's, that he die; then they shall sell the live ox, and divide the money of it; and the dead ox also they shall divide.
 
-**TDB77:** “Mi khat’ bawngtal in a dang khat’ bawngtal liamsakin a sih leh, tua ciangin amaute in bawngtal a hing pen zuak ding uh a, tua man hawm ding uh hi; a ganhing si pen zong amaute in hawm ding uh hi.
+**TDB77:** “Mi khat’ bawngtal in a dang khat’ bawngtal liamsakin a sih leh, tua ciangin amaute in bawngtal a hing pen zuak ding-te a, tua man hawm ding-te hi; a ganhing si pen zong amaute in hawm ding-te hi.
 
-**ZVS:** “Mi khat' bawngtal in adang khat' bawngtal liamsakin a sih leh, amaute in a hing pen zuak ding uh a, tua man hawm ding uh hi. A ganhing si pen zong amaute in hawm ding uh hi.
+**ZVS:** “Mi khat' bawngtal in adang khat' bawngtal liamsakin a sih leh, amaute in a hing pen zuak ding-te a, tua man hawm ding-te hi. A ganhing si pen zong amaute in hawm ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 

@@ -33,16 +33,16 @@
 ### v2
 **EN:** The fear of a king is as the roaring of a lion: whoso provoketh him to anger sinneth against his own soul.
 
-**TDB77:** Kumpipa’ hehna in a lauhuai humpinelkai hawk bang hi a, kumpipa a hehsak khate in sih lawh uh hi.
+**TDB77:** Kumpipa’ hehna in a lauhuai humpinelkai hawk bang hi a, kumpipa a hehsak khate in sih lawh-te hi.
 
-**ZVS:** Kumpipa' hehna pen a lauhuai mahmah humpinelkai hawk bang hi a, kumpipa a hehsak khate in sihlawh uh hi.
+**ZVS:** Kumpipa' hehna pen a lauhuai mahmah humpinelkai hawk bang hi a, kumpipa a hehsak khate in sihlawh-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** It is an honour for a man to cease from strife: but every fool will be meddling.
 
-**TDB77:** Kitot khak ding pelhna in pahtak ngahna hi a, mihaite bek kitot ding ut uh hi.
+**TDB77:** Kitot khak ding pelhna in pahtak ngahna hi a, mihaite bek kitot ding ut-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -67,18 +67,18 @@
 ### v6
 **EN:** Most men will proclaim every one his own goodness: but a faithful man who can find?
 
-**TDB77:** Mi khempeuh in mi citakin kigen kim uh hi; ahi zongin a citak takpi ding mi kimu zo ding ahi hiam?
+**TDB77:** Mi khempeuh in mi citakin kigen kim-te hi; ahi zongin a citak takpi ding mi kimu zo ding ahi hiam?
 
-**ZVS:** Mi khempeuh pen mi citakin kigen kim uh hi; ahi zongin a citak takpi ding mi kimuzo ding ahi hiam?
+**ZVS:** Mi khempeuh pen mi citakin kigen kim-te hi; ahi zongin a citak takpi ding mi kimuzo ding ahi hiam?
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** The just man walketh in his integrity: his children are blessed after him.
 
-**TDB77:** Mi khat thumanin a hoihin a nuntak leh, ama suan-le-khakte mi hampha ahi uh hi.
+**TDB77:** Mi khat thumanin a hoihin a nuntak leh, ama suan-le-khakte mi hampha ahi-te hi.
 
-**ZVS:** Mi khat thumanin a hoihin a nuntak leh ama suanlekhakte mi hampha ahi uh hi.
+**ZVS:** Mi khat thumanin a hoihin a nuntak leh ama suanlekhakte mi hampha ahi-te hi.
 
 **Grammar:** plural: uh marker
 

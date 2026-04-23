@@ -100,9 +100,9 @@
 ### v10
 **EN:** Let all mine enemies be ashamed and sore vexed: let them return and be ashamed suddenly.
 
-**TDB77:** Ka galte khempeuh zahhuai in genthei mahmah ding uh hi; amaute in nungkik-in, maizumna thuak pah ding uh hi.
+**TDB77:** Ka galte khempeuh zahhuai in genthei mahmah ding-te hi; amaute in nungkik-in, maizumna thuak pah ding-te hi.
 
-**ZVS:** Ka galte khempeuh zahhuai mahmahin genthei ding uh hi. Amaute nungkikin maizumna thuak pah ding uh hi.
+**ZVS:** Ka galte khempeuh zahhuai mahmahin genthei ding-te hi. Amaute nungkikin maizumna thuak pah ding-te hi.
 
 **Grammar:** intensifier: very/greatly | serial verb: -in (and then) | future: will | plural: uh marker
 

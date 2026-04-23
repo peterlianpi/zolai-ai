@@ -20,19 +20,19 @@
 
 - `[TDB77]` *Glory ye in his holy name: let the heart of them rejoice that seek the* → **Ama min siangtho hangin nuamin diang un la, Topa a zong mite lungdam t**
 - `[TDB77]` *If any man defile the temple of God, him shall God destroy; for the te* → **Mikhat in Pasian’ biakna innpi a sukgawp leh, Pasian in tua pa a sugaw**
-- `[TDB77]` *All the brethren greet you. Greet ye one another with an holy kiss.* → **Ute naute khempeuh in note hong hopih uh hi. Khat leh khat a siangtho **
-- `[TDB77]` *But ye have an unction from the Holy One, and ye know all things.* → **Note in Siangtho Pa’ Kha Siangtho sathau nilhsa na hi uh a, na khempeu**
+- `[TDB77]` *All the brethren greet you. Greet ye one another with an holy kiss.* → **Ute naute khempeuh in note hong hopih-te hi. Khat leh khat a siangtho **
+- `[TDB77]` *But ye have an unction from the Holy One, and ye know all things.* → **Note in Siangtho Pa’ Kha Siangtho sathau nilhsa na hi-te a, na khempeu**
 
 ## righteous
 
 - `[TDB77]` *And his brother Asaph, who stood on his right hand, even Asaph the son* → **Asaf in lasa pawl a nihna a makaipa hi a, ama khangsimna a pupi Levi l**
 - `[TDB77]` *And all the congregation said that they would do so: for the thing was* → **Tua thu mi khempeuh in hoih sa ahih manin tua bangin hih ding a kikhaw**
-- `[TDB77]` *If ye know that he is righteous, ye know that every one that doeth rig* → **Amah in midik ahih note in na theih uh leh, dikna thu a sem mi khempeu**
+- `[TDB77]` *If ye know that he is righteous, ye know that every one that doeth rig* → **Amah in midik ahih note in na theih-te leh, dikna thu a sem mi khempeu**
 - `[TDB77]` *Little children, let no man deceive you: he that doeth righteousness i* → **Ka ta neute aw, lam hong khialsak thei dingin kuamah kizolsak kei un. **
 
 ## evil
 
-- `[TDB77]` *Now these things were our examples, to the intent we should not lust a* → **Amaute in a hoih lote a deihgawh uh bangin i deihgawh loh nadingin hih**
+- `[TDB77]` *Now these things were our examples, to the intent we should not lust a* → **Amaute in a hoih lote a deihgawh-te bangin i deihgawh loh nadingin hih**
 - `[TDB77]` *For if I by grace be a partaker, why am I evil spoken of for that for * → **Lungdamna kohna tawh hehpihna phatin an ka nek leh, bang hangin gensia**
 - `[TDB77]` *Doth not behave itself unseemly, seeketh not her own, is not easily pr* → **a kituak loin a gamta kei hi, ama phat nading a zong kei hi, a heh bai**
 - `[TDB77]` *Be not deceived: evil communications corrupt good manners.* → **Na kikheem kei un, ‘Mipha lote tawh kikholhna hangin gamtatna pha kisi**
@@ -47,9 +47,9 @@
 ## small
 
 - `[TDB77]` *And they cast lots, ward against ward, as well the small as the great,* → **Tua ciangin a neu a lian, sia leh a sinte a kibangin, amaute in amau’ **
-- `[TDB77]` *And they cast lots, as well the small as the great, according to the h* → **amaute in a neu a lian a kibangin a pate uh innkuan kuanin amau’ kongp**
-- `[TDB77]` *Your glorying is not good. Know ye not that a little leaven leaveneth * → **Na kisaktheihna uh a hoih kei hi. Silngo tawmkha in annel sial lom kha**
-- `[TDB77]` *I write unto you, little children, because your sins are forgiven you * → **Ka ta neute aw, ama min hangin na mawhna uh a kimaisak ahih ciangin, n**
+- `[TDB77]` *And they cast lots, as well the small as the great, according to the h* → **amaute in a neu a lian a kibangin a pate-te innkuan kuanin amau’ kongp**
+- `[TDB77]` *Your glorying is not good. Know ye not that a little leaven leaveneth * → **Na kisaktheihna-te a hoih kei hi. Silngo tawmkha in annel sial lom kha**
+- `[TDB77]` *I write unto you, little children, because your sins are forgiven you * → **Ka ta neute aw, ama min hangin na mawhna-te a kimaisak ahih ciangin, n**
 
 ## many
 
@@ -61,7 +61,7 @@
 ## all
 
 - `[TDB77]` *And Ophir, and Havilah, and Jobab. All these were the sons of Joktan.* → **Ofir mite, Havilah mite, leh Jobab mite’ pian’napa ahi hi; hihte khemp**
-- `[TDB77]` *And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and E* → **Midian’ tapate in: Efah, Efer, Hanok, Abida, leh Elda-ah ahi uh hi. Hi**
+- `[TDB77]` *And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and E* → **Midian’ tapate in: Efah, Efer, Hanok, Abida, leh Elda-ah ahi-te hi. Hi**
 - `[TDB77]` *And Tamar his daughter in law bare him Pharez and Zerah. All the sons * → **A tapa’ zi Tamar in zong amah tawh Perez leh Zerah nei hi. Judah in a **
 - `[TDB77]` *And the sons of Zerah; Zimri, and Ethan, and Heman, and Calcol, and Da* → **Zeran’ tapate in: Zimri, Ethan, Heman, Kalkol, leh Dara, a vekpi-in ng**
 
@@ -84,7 +84,7 @@
 - `[TDB77]` *Of the three, he was more honourable than the two; for he was their ca* → **Amah in mihing sawmthumte sung panin a minthang pen hi a, amaute a ukp**
 - `[TDB77]` *Behold, he was honourable among the thirty, but attained not to the fi* → **Mihing sawmthumte lakah amah minthang a, ahih hangin amah in mi thumte**
 - `[TDB77]` *Ezer the first, Obadiah the second, Eliab the third,* → **A ukpi Ezer, a nihna Obadiah, a thumna Eliab,**
-- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei uh a, a kisehsa bang danin kem lo**
+- `[TDB77]` *For because ye did it not at the first, the* → **A masa lai-in no Levi mite na om kei-te a, a kisehsa bang danin kem lo**
 
 ## last
 

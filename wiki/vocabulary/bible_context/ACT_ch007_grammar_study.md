@@ -57,9 +57,9 @@
 ### v4
 **EN:** Then came he out of the land of the Chaldeans, and dwelt in Charran: and from thence, when his father was dead, he removed him into this land, wherein ye now dwell.
 
-**TDB77:** Tua lai takin Abraham in Khaldea gam pan paikhia a, Haran khua tung a, a teeng hi. A pa a sih khit ciangin Pasian in tu-a a omna uh hih gamah tua khua panin a lalsak hi.
+**TDB77:** Tua lai takin Abraham in Khaldea gam pan paikhia a, Haran khua tung a, a teeng hi. A pa a sih khit ciangin Pasian in tu-a a omna-te hih gamah tua khua panin a lalsak hi.
 
-**ZVS:** Amah zong Khaldea gam panin paikhia-in Haran khua-ah teng hi. A pa a sih khit ciangin Pasian in tu-a na ten'na uh hih gamah amah na lalsak leuleu hi.
+**ZVS:** Amah zong Khaldea gam panin paikhia-in Haran khua-ah teng hi. A pa a sih khit ciangin Pasian in tu-a na ten'na-te hih gamah amah na lalsak leuleu hi.
 
 ### v5
 **EN:** And he gave him none inheritance in it, no, not so much as to set his foot on: yet he promised that he would give it to him for a possession, and to his seed after him, when as yet he had no child.
@@ -73,25 +73,25 @@
 ### v6
 **EN:** And God spake on this wise, That his seed should sojourn in a strange land; and that they should bring them into bondage, and entreat them evil four hundred years.
 
-**TDB77:** Pasian in, “Na suante in gam dangah zin ahi ding uh a, midangte kiangah sila a suak ding uh a, amaute in kum zali a bawlsia ding uh hi.
+**TDB77:** Pasian in, “Na suante in gam dangah zin ahi ding-te a, midangte kiangah sila a suak ding-te a, amaute in kum zali a bawlsia ding-te hi.
 
-**ZVS:** Tua bang hinapi-in, Pasian in Abraham kiangah, ‘Na suan na khakte gamdangah tengin salin om ding uh a, kum za li sung nakpi takin gimna thuak ding uh hi.
+**ZVS:** Tua bang hinapi-in, Pasian in Abraham kiangah, ‘Na suan na khakte gamdangah tengin salin om ding-te a, kum za li sung nakpi takin gimna thuak ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** And the nation to whom they shall be in bondage will I judge, said God: and after that shall they come forth, and serve me in this place.
 
-**TDB77:** Amaute sila-a a koihte tungah thu ka khen ding hi. A nung ciangin amaute paikhia-in hih gam sungah kei hong bia ding uh hi,’ ci-in thu a piakhol hi.
+**TDB77:** Amaute sila-a a koihte tungah thu ka khen ding hi. A nung ciangin amaute paikhia-in hih gam sungah kei hong bia ding-te hi,’ ci-in thu a piakhol hi.
 
-**ZVS:** Ahi zongin sila-in a nei gam mite tungah thu ka khen ding a, na suan na khakte tua gam panin paikhia-in hih lai gamah kei hong bia ding uh hi,’ ci hi.
+**ZVS:** Ahi zongin sila-in a nei gam mite tungah thu ka khen ding a, na suan na khakte tua gam panin paikhia-in hih lai gamah kei hong bia ding-te hi,’ ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v8
 **EN:** And he gave him the covenant of circumcision: and so Abraham begat Isaac, and circumcised him the eighth day; and Isaac begat Jacob; and Jacob begat the twelve patriarchs.
 
-**TDB77:** Pasian in vunat kiciamna thu a pia hi. Tua mah bangin Abraham in a tapa Isaak nei a, ni giat ni-in vun a at hi. Isaak’ tapa Jakob, Jakob’ tate, mipawl sawm leh nihte’ pate ahi uh hi.
+**TDB77:** Pasian in vunat kiciamna thu a pia hi. Tua mah bangin Abraham in a tapa Isaak nei a, ni giat ni-in vun a at hi. Isaak’ tapa Jakob, Jakob’ tate, mipawl sawm leh nihte’ pate ahi-te hi.
 
 **ZVS:** Tua ciangin Pasian in Abraham tungah kiciamna limin vun-atna ngeina na pia hi. Tua ahih manin Abraham in a tapa Isaac a suahzawh nipikal khat khit ciangin a vun at a, Isaac in a tapa Jakob' vun at leuleu a, Jakob in eite' pupite ahi a tapa sawmlenihte' vun na at leuleu hi.
 
@@ -100,9 +100,9 @@
 ### v9
 **EN:** And the patriarchs, moved with envy, sold Joseph into Egypt: but God was with him,
 
-**TDB77:** Tua pawlte’ pate in Josef a haza uh a, Izipt gamah a zuak uh hi.
+**TDB77:** Tua pawlte’ pate in Josef a haza-te a, Izipt gamah a zuak-te hi.
 
-**ZVS:** “I pupi dangte in Josef na haza uh a, mi tungah na zuakin, a leite in Egypt gamah sal dingin a na zuaksawn uh hi. Ahi zongin Pasian in i pupi Josef na huh a,
+**ZVS:** “I pupi dangte in Josef na haza-te a, mi tungah na zuakin, a leite in Egypt gamah sal dingin a na zuaksawn-te hi. Ahi zongin Pasian in i pupi Josef na huh a,
 
 **Grammar:** plural: uh marker
 
@@ -118,9 +118,9 @@
 ### v11
 **EN:** Now there came a dearth over all the land of Egypt and Canaan, and great affliction: and our fathers found no sustenance.
 
-**TDB77:** Tua lai takin Izipt gam leh Kanaan gam khempeuh ah kialpi tung a, nakpi-in gimna a tun’ ciangin i pate in annek ding mu zo lo uh hi.
+**TDB77:** Tua lai takin Izipt gam leh Kanaan gam khempeuh ah kialpi tung a, nakpi-in gimna a tun’ ciangin i pate in annek ding mu zo lo-te hi.
 
-**ZVS:** Tua ciangin Egypt gam leh Kanaan gam khempeuhah kialpi tung a, mi khempeuh in haksatna thuak uh ahih manin i pupite in zong annek ding muzo nawnlo uh hi.
+**ZVS:** Tua ciangin Egypt gam leh Kanaan gam khempeuhah kialpi tung a, mi khempeuh in haksatna thuak-te ahih manin i pupite in zong annek ding muzo nawnlo-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -138,7 +138,7 @@
 
 **TDB77:** A nih veina ciangin Josef in a ute a naute kiangah kilak a, tua ciangin Faro in Josef pawlte a thei hi.
 
-**ZVS:** A nihveina a pai uh ciangin a sanggamte tungah i pupi Josef na kipulak a, tua huna kipanin Faro in zong Josef innkuansung thu na thei hi.
+**ZVS:** A nihveina a pai-te ciangin a sanggamte tungah i pupi Josef na kipulak a, tua huna kipanin Faro in zong Josef innkuansung thu na thei hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -147,21 +147,21 @@
 
 **TDB77:** Tua lai takin Josef in a pa Jokob leh ama behte sawmsagih leh nga thu a kamtai sak hi.
 
-**ZVS:** Tua ciangin Josef in a pa Jakob kiangah mi sawl a, amah-a kipan a innkuan mi khempeuh Egypt-ah a paina dingun a gensak hi. Tua hun laitakin Jakob innkuan mi sawmsagih leh nga pha uh hi.
+**ZVS:** Tua ciangin Josef in a pa Jakob kiangah mi sawl a, amah-a kipan a innkuan mi khempeuh Egypt-ah a paina dingun a gensak hi. Tua hun laitakin Jakob innkuan mi sawmsagih leh nga pha-te hi.
 
 ### v15
 **EN:** So Jacob went down into Egypt, and died, he, and our fathers,
 
-**TDB77:** Izipt gamah Jakob paisuk a, amah leh i pate zong tua gamah a si khin uh hi.
+**TDB77:** Izipt gamah Jakob paisuk a, amah leh i pate zong tua gamah a si khin-te hi.
 
-**ZVS:** Tua ahih manin Jakob zong Egypt gamah pai a, amah-a kipan i pupite khempeuh tua gamah a si uh hi.
+**ZVS:** Tua ahih manin Jakob zong Egypt gamah pai a, amah-a kipan i pupite khempeuh tua gamah a si-te hi.
 
 **Grammar:** completed: already done | plural: uh marker
 
 ### v16
 **EN:** And were carried over into Sychem, and laid in the sepulchre that Abraham bought for a sum of money of the sons of Emmor the father of Sychem.
 
-**TDB77:** A sih khit uh ciangin a luang uh Shekhem khua-ah pua uh a, Shekhem khua sungah Hamor’ tate tung pan ngun tawh Abraham in a leisa han sungah a vui uh hi.
+**TDB77:** A sih khit-te ciangin a luang-te Shekhem khua-ah pua-te a, Shekhem khua sungah Hamor’ tate tung pan ngun tawh Abraham in a leisa han sungah a vui-te hi.
 
 **ZVS:** Amau' luanghawmte, Shekhem khua-ah kipua a, Abraham in Hamor-te beh tung panin han dingin sum tawh a lei leitangah kiphum hi.
 
@@ -170,9 +170,9 @@
 ### v17
 **EN:** But when the time of the promise drew nigh, which God had sworn to Abraham, the people grew and multiplied in Egypt,
 
-**TDB77:** “Pasian in Abraham kiangah a thuciam a hun tun’ dektak lai takin Izipt gam sungah tua mite nasia takin a khangto uh a,
+**TDB77:** “Pasian in Abraham kiangah a thuciam a hun tun’ dektak lai takin Izipt gam sungah tua mite nasia takin a khangto-te a,
 
-**ZVS:** “Pasian in Abraham tungah a thuciamna a tun'sak ding a nai kuan ciangin Egypt gamah ei mite tampi tak na pha ta uh hi.
+**ZVS:** “Pasian in Abraham tungah a thuciamna a tun'sak ding a nai kuan ciangin Egypt gamah ei mite tampi tak na pha ta-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -188,7 +188,7 @@
 
 **TDB77:** Tua kumpipa in ei mipawlte lungpilna tawh kheem a, naungeekte a hin’ theih loh nadingin a paihmang nadingun i pute i pate a bawlsia hi.
 
-**ZVS:** I mipihte na khemgawpin na khelbawl a, a ta ngekte uh a sihna dingin inn panin mun dangah a koihkhia sak hi.
+**ZVS:** I mipihte na khemgawpin na khelbawl a, a ta ngekte-te a sihna dingin inn panin mun dangah a koihkhia sak hi.
 
 **Grammar:** purpose: in order to
 
@@ -236,18 +236,18 @@
 ### v25
 **EN:** For he supposed his brethren would have understood how that God by his hand would deliver them: but they understood not.
 
-**TDB77:** Pasian in ama khut tawh amaute a gumkhia ding hi ci-in a sanggamte in thei dingin Josef in a up hangin a thei kei uh hi.
+**TDB77:** Pasian in ama khut tawh amaute a gumkhia ding hi ci-in a sanggamte in thei dingin Josef in a up hangin a thei kei-te hi.
 
-**ZVS:** Amah pen eite hong honkhia dingin Pasian in a zatding mipa hi, ci-in a mipihte in a thei ding sa a, ahi zongin a mipihte in na theilo uh hi.
+**ZVS:** Amah pen eite hong honkhia dingin Pasian in a zatding mipa hi, ci-in a mipihte in a thei ding sa a, ahi zongin a mipihte in na theilo-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | plural: uh marker
 
 ### v26
 **EN:** And the next day he shewed himself unto them as they strove, and would have set them at one again, saying, Sirs, ye are brethren; why do ye wrong one to another?
 
-**TDB77:** Zingsang ciangin amau kiangah pai a, “Lawmte aw, u leh nau hi napi-in bang hangin khat leh khat na kibawlsia uh hiam?’ ci-in kilemna thu a gen hi.
+**TDB77:** Zingsang ciangin amau kiangah pai a, “Lawmte aw, u leh nau hi napi-in bang hangin khat leh khat na kibawlsia-te hiam?’ ci-in kilemna thu a gen hi.
 
-**ZVS:** A zing ciangin Israel mi nih a kilai mu leuleu a, amaute a phelh dingin kipanin, ‘Lawmte aw, minam khat hilo na hi uh hiam? Bang hangin khatlekhat tuaci kibawl na hi uh hiam?’ ci hi.
+**ZVS:** A zing ciangin Israel mi nih a kilai mu leuleu a, amaute a phelh dingin kipanin, ‘Lawmte aw, minam khat hilo na hi-te hiam? Bang hangin khatlekhat tuaci kibawl na hi-te hiam?’ ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -297,7 +297,7 @@
 
 **TDB77:** A en cian dinga a naih ciangin, ‘Keimah in na pute na pate’ Pasian, Abraham’ Pasian, Isaak’ Pasian, Jakob’ Pasian ka hi hi,’ ci-in Topa’ aw a za hi. Tua lai takin Moses liingin a en ngam kei hi.
 
-**ZVS:** ‘Kei pen na pu na pate uh ahi Abraham, Isaac, leh Jakob-te' Pasian ka hi hi,’ a na ci hi. Moses zong lau-in linggawp a, en ngamlo hi.
+**ZVS:** ‘Kei pen na pu na pate-te ahi Abraham, Isaac, leh Jakob-te' Pasian ka hi hi,’ a na ci hi. Moses zong lau-in linggawp a, en ngamlo hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei
 
@@ -311,7 +311,7 @@
 ### v34
 **EN:** I have seen, I have seen the affliction of my people which is in Egypt, and I have heard their groaning, and am come down to deliver them. And now come, I will send thee into Egypt.
 
-**TDB77:** Izipt gamah a om ka mite thuak bawlsiatna ka mu zo a, amau tauna’ aw uh ka za zo hi. Amaute gumkhia dingin kong kumsuk zo hi. Tu-in pai in la, Izipt gamah kong paisak ding hi,” ci-in a gen hi.
+**TDB77:** Izipt gamah a om ka mite thuak bawlsiatna ka mu zo a, amau tauna’ aw-te ka za zo hi. Amaute gumkhia dingin kong kumsuk zo hi. Tu-in pai in la, Izipt gamah kong paisak ding hi,” ci-in a gen hi.
 
 **ZVS:** Ka mite in Egypt gamah bawlsiatna a thuaknate teltakin ka mukhin hi. Amaute' tauna awging ka za a, amaute a honkhia dingin a hong paisuk ka hi hi. Hih lai-ah hong pai in; Egypt gamah nang ka hong paisak ding hi,’ na ci hi.
 
@@ -322,7 +322,7 @@
 
 **TDB77:** “A kua in nang uk ding leh thu hong khen dingin hong koih ahi hiam?’ ci-a nialna a thuak hih Moses in a uk ding, a gum dingin Pasian in sawlkawm sungah a kilang vantungmi’ sawlna tawh a paisak hi.
 
-**ZVS:** “Moses pen Israel mite in deihloin, ‘Kote a hong uk ding leh thu a hong khen dingin kua in hong koih ahi hiam?’ a cihpa uh ahi hi. Ahi zongin Moses pen sawlpang kuang sung pan ama kiangah a kilang vantung mi' huhna tawh ukpa leh honkhiapa ahi dingin Pasian in a sawlpa ahi hi.
+**ZVS:** “Moses pen Israel mite in deihloin, ‘Kote a hong uk ding leh thu a hong khen dingin kua in hong koih ahi hiam?’ a cihpa-te ahi hi. Ahi zongin Moses pen sawlpang kuang sung pan ama kiangah a kilang vantung mi' huhna tawh ukpa leh honkhiapa ahi dingin Pasian in a sawlpa ahi hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
@@ -354,61 +354,61 @@
 ### v39
 **EN:** To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,
 
-**TDB77:** I pate in ama thu mang loin a nial uh a, ‘Komau mai-ah a pai dingin pasiante hong bawlsak in,
+**TDB77:** I pate in ama thu mang loin a nial-te a, ‘Komau mai-ah a pai dingin pasiante hong bawlsak in,
 
-**ZVS:** “Ahi zongin i pute in ama thu na mang nuamloin, amah na nawlkhin uh a, Egypt gamah ciahkik nopna lungsim na nei uh hi.
+**ZVS:** “Ahi zongin i pute in ama thu na mang nuamloin, amah na nawlkhin-te a, Egypt gamah ciahkik nopna lungsim na nei-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
 ### v40
 **EN:** Saying unto Aaron, Make us gods to go before us: for as for this Moses, which brought us out of the land of Egypt, we wot not what is become of him.
 
-**TDB77:** Bang hang hiam na cih leh, kote Izipt gam pan hong paikhiatpih hih Moses in bang ci ta hiam, kote in ka thei kei uh hi,’ ci-in Aaron kiangah genin, Izipt gamah a lung a heikik uh hi.
+**TDB77:** Bang hang hiam na cih leh, kote Izipt gam pan hong paikhiatpih hih Moses in bang ci ta hiam, kote in ka thei kei-te hi,’ ci-in Aaron kiangah genin, Izipt gamah a lung a heikik-te hi.
 
-**ZVS:** Tua ahih manin amaute in Aaron kiangah, ‘Egypt gam panin eite a hong paikhiatpih tua Moses tungah bang thu piang hiam cih theilo ihih manin, eite' mai-ah i paisak ding milim pasian pawlkhat hong bawlsak in,’ ci uh hi.
+**ZVS:** Tua ahih manin amaute in Aaron kiangah, ‘Egypt gam panin eite a hong paikhiatpih tua Moses tungah bang thu piang hiam cih theilo ihih manin, eite' mai-ah i paisak ding milim pasian pawlkhat hong bawlsak in,’ ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v41
 **EN:** And they made a calf in those days, and offered sacrifice unto the idol, and rejoiced in the works of their own hands.
 
-**TDB77:** Tua lai takin amaute in bawngno milim khat a bawl uh a, tua milim bia-in, amau khut tawh a bawl uh na tawh a lungdam uh hi. Tua ahih manin Pasian in amaute nungngat-in milim biakna sungah a piakhia hi.
+**TDB77:** Tua lai takin amaute in bawngno milim khat a bawl-te a, tua milim bia-in, amau khut tawh a bawl-te na tawh a lungdam-te hi. Tua ahih manin Pasian in amaute nungngat-in milim biakna sungah a piakhia hi.
 
-**ZVS:** Tua ahih manin amaute in bawngno tawh a kibang lim khat bawl uh a, ganhing tawh tua milim bia-in, amaute' bawltawm pasian hangin lungdamin pawi a na bawl uh hi.
+**ZVS:** Tua ahih manin amaute in bawngno tawh a kibang lim khat bawl-te a, ganhing tawh tua milim bia-in, amaute' bawltawm pasian hangin lungdamin pawi a na bawl-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | plural: uh marker
 
 ### v42
 **EN:** Then God turned, and gave them up to worship the host of heaven; as it is written in the book of the prophets, O ye house of Israel, have ye offered to me slain beasts and sacrifices by the space of forty years in the wilderness?
 
-**TDB77:** Pasian’ kamsangte’ laibu sungah: ‘Israel mipawlte aw, note in ganhingte gawhna tawh, biakna-in Gampalakah kum sawmli tawntung kei hong bia na hi uh hiam?
+**TDB77:** Pasian’ kamsangte’ laibu sungah: ‘Israel mipawlte aw, note in ganhingte gawhna tawh, biakna-in Gampalakah kum sawmli tawntung kei hong bia na hi-te hiam?
 
 **Grammar:** serial verb: -in (and then)
 
 ### v43
 **EN:** Yea, ye took up the tabernacle of Moloch, and the star of your god Remphan, figures which ye made to worship them: and I will carry you away beyond Babylon.
 
-**TDB77:** Note in Molok biakna inn leh Refan pasian’ aksi bia dingin na bawlsa milim uh na pua ta uh hi. Tua ahih ciangin keimah in note, Babilon khua gal khatah kong paipih ding hi,’ a cih mah bangin, Pasian in a nungngat a, vantung nate biak nadingin tua mite don nawn lo hi.
+**TDB77:** Note in Molok biakna inn leh Refan pasian’ aksi bia dingin na bawlsa milim-te na pua ta-te hi. Tua ahih ciangin keimah in note, Babilon khua gal khatah kong paipih ding hi,’ a cih mah bangin, Pasian in a nungngat a, vantung nate biak nadingin tua mite don nawn lo hi.
 
-**ZVS:** Tua ahih manin kamsangte laibu sungah, ‘Israel mite aw, gamlakah kum sawmli sung, gan go-in biakna na piakte uh kei tunga nong piak uh hilo hi. Note in na puak uh puanbuk pen Molok pasian milim puanbuk leh note' aksi pasian Refan' puanbuk ahi hi. Tuate pen na biak dingun note' bawltawm milim ahih manin Babylon khuapi khen pekah salin ka hong paisak ding hi,’ ci-in a kigelh mah bangin Pasian in amaute nungngat a, vana om aksite a bia dingin amaute a sawlkhia hi.
+**ZVS:** Tua ahih manin kamsangte laibu sungah, ‘Israel mite aw, gamlakah kum sawmli sung, gan go-in biakna na piakte-te kei tunga nong piak-te hilo hi. Note in na puak-te puanbuk pen Molok pasian milim puanbuk leh note' aksi pasian Refan' puanbuk ahi hi. Tuate pen na biak dingun note' bawltawm milim ahih manin Babylon khuapi khen pekah salin ka hong paisak ding hi,’ ci-in a kigelh mah bangin Pasian in amaute nungngat a, vana om aksite a bia dingin amaute a sawlkhia hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | negation: lo | plural: uh marker
 
 ### v44
 **EN:** Our fathers had the tabernacle of witness in the wilderness, as he had appointed, speaking unto Moses, that he should make it according to the fashion that he had seen.
 
-**TDB77:** “Na muhsa lim tawh kibang ciamna puanbuk na bawl in,’ ci-in Moses kiangah a genpa in a vaikhak mah bangin gampa lakah i pate in a nei uh hi.
+**TDB77:** “Na muhsa lim tawh kibang ciamna puanbuk na bawl in,’ ci-in Moses kiangah a genpa in a vaikhak mah bangin gampa lakah i pate in a nei-te hi.
 
-**ZVS:** “Gamlakah a omlai-un i pute in Pasian' ompihna puanbuk nei uh a, Pasian in Moses tungah a gensa, a lim ding a lahsa bang teekteekin a kibawl ahi hi.
+**ZVS:** “Gamlakah a omlai-un i pute in Pasian' ompihna puanbuk nei-te a, Pasian in Moses tungah a gensa, a lim ding a lahsa bang teekteekin a kibawl ahi hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v45
 **EN:** Which also our fathers that came after brought in with Jesus into the possession of the Gentiles, whom God drave out before the face of our fathers, unto the days of David;
 
-**TDB77:** A piang nunung eite pate in tua buk Gentailte’ lei a luah uh ciangin Joshua tawh a paipih uh hi. Tua Gentailte Pasian in David’ khang dongin i pu i pate mai pan a hawlkhia hi.
+**TDB77:** A piang nunung eite pate in tua buk Gentailte’ lei a luah-te ciangin Joshua tawh a paipih-te hi. Tua Gentailte Pasian in David’ khang dongin i pu i pate mai pan a hawlkhia hi.
 
-**ZVS:** Tua khit ciangin i pute in amau' pate tung panin a ngah uh tua puanbuk pen amau' ten'na ding gam a la dingin a kuan uh ciangin na pua uh a, Pasian in amaute' mai-ah tua gam mite hawlkhiatsak ahih manin tua gam a luah uh ciangin a puanbuk zong a na tun'pih uh hi. Tua ahih manin David' hun ciangdong tua puanbuk na om hi.
+**ZVS:** Tua khit ciangin i pute in amau' pate tung panin a ngah-te tua puanbuk pen amau' ten'na ding gam a la dingin a kuan-te ciangin na pua-te a, Pasian in amaute' mai-ah tua gam mite hawlkhiatsak ahih manin tua gam a luah-te ciangin a puanbuk zong a na tun'pih-te hi. Tua ahih manin David' hun ciangdong tua puanbuk na om hi.
 
 **Grammar:** plural: uh marker
 
@@ -452,36 +452,36 @@
 ### v51
 **EN:** Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.
 
-**TDB77:** “Lungkhauh a, lungsim leh bil tawh vunat loh mite aw, note in Kha Siangtho a tawntungin na nial uh hi. Na pute na pate uh a gamtat bangin na gamta uh hi.
+**TDB77:** “Lungkhauh a, lungsim leh bil tawh vunat loh mite aw, note in Kha Siangtho a tawntungin na nial-te hi. Na pute na pate-te a gamtat bangin na gamta-te hi.
 
-**ZVS:** “Na lungsim uh khauh mahmah a, lawki lungsim paii-in, Pasian' thu-ah bilngong na bang uh hi. I pu i pate mah bangin Kha Siangtho thu na mang nuam kei uh hi.
+**ZVS:** “Na lungsim-te khauh mahmah a, lawki lungsim paii-in, Pasian' thu-ah bilngong na bang-te hi. I pu i pate mah bangin Kha Siangtho thu na mang nuam kei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v52
 **EN:** Which of the prophets have not your fathers persecuted? and they have slain them which shewed before of the coming of the Just One; of whom ye have been now the betrayers and murderers:
 
-**TDB77:** No na pute na pate un a bawlsiat loh kamsang kua ahi hiam? ‘Midik Pa hong pai ding ci-a a genkholh mite a that uh hi. Tu-in tua Midik Pa a heekte, a thatte na suak zo uh hi.
+**TDB77:** No na pute na pate un a bawlsiat loh kamsang kua ahi hiam? ‘Midik Pa hong pai ding ci-a a genkholh mite a that-te hi. Tu-in tua Midik Pa a heekte, a thatte na suak zo-te hi.
 
-**ZVS:** I pu i pate in kamsang a bawlsiatloh khat beek omlo hi. Pasian' deihna bangin a gamta a Nasempa a hong paina ding thu a genkhol Pasian' kamtaite na that uh a, tu-in note in tua nasempa lehhekin na that leuleu uh hi.
+**ZVS:** I pu i pate in kamsang a bawlsiatloh khat beek omlo hi. Pasian' deihna bangin a gamta a Nasempa a hong paina ding thu a genkhol Pasian' kamtaite na that-te a, tu-in note in tua nasempa lehhekin na that leuleu-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v53
 **EN:** Who have received the law by the disposition of angels, and have not kept it.
 
-**TDB77:** Note in vantungmi hong piak bangin Thukham na ngah uh hangin na tang kei uh hi,” a ci hi.
+**TDB77:** Note in vantungmi hong piak bangin Thukham na ngah-te hangin na tang kei-te hi,” a ci hi.
 
-**ZVS:** Note in vantung mi tung tawnin Pasian' hong piak thukham ngah napi-in na mang nuam kei uh hi,” a ci hi.
+**ZVS:** Note in vantung mi tung tawnin Pasian' hong piak thukham ngah napi-in na mang nuam kei-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | negation: kei | plural: uh marker
 
 ### v54
 **EN:** When they heard these things, they were cut to the heart, and they gnashed on him with their teeth.
 
-**TDB77:** Amaute in hih thu a zak uh ciangin a lungso uh a, Stefen tungah a ha a gawi uh hi.
+**TDB77:** Amaute in hih thu a zak-te ciangin a lungso-te a, Stefen tungah a ha a gawi-te hi.
 
-**ZVS:** A kikhawm uliante in Stefen' thugen a zak uh ciangin nakpi takin heh uh a, a ha uh gawisan uh hi.
+**ZVS:** A kikhawm uliante in Stefen' thugen a zak-te ciangin nakpi takin heh-te a, a ha-te gawisan-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -504,18 +504,18 @@
 ### v57
 **EN:** Then they cried out with a loud voice, and stopped their ears, and ran upon him with one accord,
 
-**TDB77:** Ahih hangin amaute in nakpi-in kiko uh a, a bil uh humin ama kiangah lungsim kikhatin a tai uh a,
+**TDB77:** Ahih hangin amaute in nakpi-in kiko-te a, a bil-te humin ama kiangah lungsim kikhatin a tai-te a,
 
-**ZVS:** Ahi zongin amaute in a bil uh humsanin nakpi takin kiko-in Stefen bawhhuan uh a,
+**ZVS:** Ahi zongin amaute in a bil-te humsanin nakpi takin kiko-in Stefen bawhhuan-te a,
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v58
 **EN:** And cast him out of the city, and stoned him: and the witnesses laid down their clothes at a young man's feet, whose name was Saul.
 
-**TDB77:** khua nawlah a hawlkhiat khit uh ciangin suang tawh a deeng uh hi. Teci a pangte in a puan uh Saul kici tangvalpa khat khe kiangah a koih uh hi.
+**TDB77:** khua nawlah a hawlkhiat khit-te ciangin suang tawh a deeng-te hi. Teci a pangte in a puan-te Saul kici tangvalpa khat khe kiangah a koih-te hi.
 
-**ZVS:** khua pualamah kaikhia-in suang golpipi a khiat uh hi. Hih thu-ah teci pangin Stefen a deng mite in a puantungsilh uh suahin Saul a kici tangval khat kiangah lawnin a kemsak uh hi.
+**ZVS:** khua pualamah kaikhia-in suang golpipi a khiat-te hi. Hih thu-ah teci pangin Stefen a deng mite in a puantungsilh-te suahin Saul a kici tangval khat kiangah lawnin a kemsak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 

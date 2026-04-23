@@ -173,9 +173,9 @@
 ### v18
 **EN:** The woman also with whom man shall lie with seed of copulation, they shall both bathe themselves in water, and be unclean until the even.
 
-**TDB77:** Pasal khat in numei khat tawh a lupkhawm khit ciangin, amaute gel tui sungah kisil ding uh a, a nitak mateng a nin hi ding uh hi.
+**TDB77:** Pasal khat in numei khat tawh a lupkhawm khit ciangin, amaute gel tui sungah kisil ding-te a, a nitak mateng a nin hi ding-te hi.
 
-**ZVS:** Pasal leh numei a lupkhawm khit ciangin, amaute gel tui sungah kisil ding uh a, a nitak mateng a nin hi ding uh hi.
+**ZVS:** Pasal leh numei a lupkhawm khit ciangin, amaute gel tui sungah kisil ding-te a, a nitak mateng a nin hi ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -288,9 +288,9 @@
 ### v31
 **EN:** Thus shall ye separate the children of Israel from their uncleanness; that they die not in their uncleanness, when they defile my tabernacle that is among them.
 
-**TDB77:** “Amau’ laizanga om ka biakbuk nitsakna hangin amau’ nitna sungah amaute si kha ding uh ahih ciangin, tua bangin note in Israel mite amau’ nitna panin khenin na kem ding uh hi,” a ci hi.
+**TDB77:** “Amau’ laizanga om ka biakbuk nitsakna hangin amau’ nitna sungah amaute si kha ding-te ahih ciangin, tua bangin note in Israel mite amau’ nitna panin khenin na kem ding-te hi,” a ci hi.
 
-**ZVS:** “Amau' laizanga om ka biakbuk ninsakkha le uh amaute in sihlawh ding uh ahih ciangin, tua bangin note in Israel mite amau' nitna panin siangsakin na kem ding uh hi,” a ci hi.
+**ZVS:** “Amau' laizanga om ka biakbuk ninsakkha le-te amaute in sihlawh ding-te ahih ciangin, tua bangin note in Israel mite amau' nitna panin siangsakin na kem ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 

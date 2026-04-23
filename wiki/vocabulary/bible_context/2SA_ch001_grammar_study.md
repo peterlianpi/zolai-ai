@@ -51,9 +51,9 @@
 ### v4
 **EN:** And David said unto him, How went the matter? I pray thee, tell me. And he answered, That the people are fled from the battle, and many of the people also are fallen and dead; and Saul and Jonathan his son are dead also.
 
-**TDB77:** David in ama kiangah, “Bang ci bang ahi hiam? Hong gen in,” a ci hi. Tua ciangin amah in dawngin, “Galphual panin mite tai-a, mi tampi zong pukin si uh hi; Saul leh a tapa Jonathan zong si hi,” a ci hi.
+**TDB77:** David in ama kiangah, “Bang ci bang ahi hiam? Hong gen in,” a ci hi. Tua ciangin amah in dawngin, “Galphual panin mite tai-a, mi tampi zong pukin si-te hi; Saul leh a tapa Jonathan zong si hi,” a ci hi.
 
-**ZVS:** David in ama kiangah, “Bangci bang ahi hiam? Hong gen in,” a ci hi. Tua ciangin amah in dawngin, “Giahphual panin mite tai a, mi tampi zong pukin si uh hi. Saul leh a tapa Jonathan zong a si hi,” a ci hi.
+**ZVS:** David in ama kiangah, “Bangci bang ahi hiam? Hong gen in,” a ci hi. Tua ciangin amah in dawngin, “Giahphual panin mite tai a, mi tampi zong pukin si-te hi. Saul leh a tapa Jonathan zong a si hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
@@ -67,7 +67,7 @@
 ### v6
 **EN:** And the young man that told him said, As I happened by chance upon mount Gilboa, behold, Saul leaned upon his spear; and, lo, the chariots and horsemen followed hard after him.
 
-**TDB77:** Tua ciangin ama kiangah a gen tangvalpa in, “Gilboa Mual ah ka om kha hi; tua lai mun-ah Saul a teipi tungah kingam hi; en in, leengte leh sakol tuangte in amah pha dek mahmah ta uh hi.
+**TDB77:** Tua ciangin ama kiangah a gen tangvalpa in, “Gilboa Mual ah ka om kha hi; tua lai mun-ah Saul a teipi tungah kingam hi; en in, leengte leh sakol tuangte in amah pha dek mahmah ta-te hi.
 
 **ZVS:** Tua ciangin tangvalpa in, “Gilboa Mual-ah ka omkha a, tua lai munah Saul a teipi tungah kingam hi.
 
@@ -112,18 +112,18 @@
 ### v11
 **EN:** Then David took hold on his clothes, and rent them; and likewise all the men that were with him:
 
-**TDB77:** Tua ciangin David in ama puante lenin balkeek hi; amah tawh a om mite khempeuh in tua mah bangin hih uh hi.
+**TDB77:** Tua ciangin David in ama puante lenin balkeek hi; amah tawh a om mite khempeuh in tua mah bangin hih-te hi.
 
-**ZVS:** Tua ciangin David in ama puante lenin balkek a, amah tawh a om mite khempeuh in zong tua bangmahin a hih uh hi.
+**ZVS:** Tua ciangin David in ama puante lenin balkek a, amah tawh a om mite khempeuh in zong tua bangmahin a hih-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v12
 **EN:** And they mourned, and wept, and fasted until even, for Saul, and for Jonathan his son, and for the people of the
 
-**TDB77:** tua ahih ciangin Saul leh a tapa Jonathan, Topa’ mite leh Israel mite hangin amaute thumin kap uh a, nitak dong an tang uh hi; bang hang hiam cih leh gal sungah amaute si uh hi.
+**TDB77:** tua ahih ciangin Saul leh a tapa Jonathan, Topa’ mite leh Israel mite hangin amaute thumin kap-te a, nitak dong an tang-te hi; bang hang hiam cih leh gal sungah amaute si-te hi.
 
-**ZVS:** Tua ahih ciangin Saul, a tapa Jonathan, leh { Topa' } mi Israel-te hangin amaute thumin kap uh a, nitak dong an a tang uh hi; bang hang hiam cih leh gal sungah amaute si uh hi.
+**ZVS:** Tua ahih ciangin Saul, a tapa Jonathan, leh { Topa' } mi Israel-te hangin amaute thumin kap-te a, nitak dong an a tang-te hi; bang hang hiam cih leh gal sungah amaute si-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -200,7 +200,7 @@
 ### v21
 **EN:** Ye mountains of Gilboa, let there be no dew, neither let there be rain, upon you, nor fields of offerings: for there the shield of the mighty is vilely cast away, the shield of Saul, as though he had not been anointed with oil.
 
-**TDB77:** “No Gilboa mualte aw, Daitui ahi a, guah ahi zongin na tung uh ah omsak kei un, tui thukpi kilok zong omsak kei un! Bang hang hiam cih leh a vanglianpa’ lum nin hi, Saul’ lum, sathau kinuh lo hi.
+**TDB77:** “No Gilboa mualte aw, Daitui ahi a, guah ahi zongin na tung-te ah omsak kei un, tui thukpi kilok zong omsak kei un! Bang hang hiam cih leh a vanglianpa’ lum nin hi, Saul’ lum, sathau kinuh lo hi.
 
 **ZVS:** “No Gilboa mualte aw, daitui ahi a, guahtui ahi zongin, na tung uhah omsak kei un. Tui thukpi kilok zong omsak kei un! Bang hang hiam cih leh a vanglianpa' lum nin a, Saul' lum, sathau kinuhlo hi.
 
@@ -218,16 +218,16 @@
 ### v23
 **EN:** Saul and Jonathan were lovely and pleasant in their lives, and in their death they were not divided: they were swifter than eagles, they were stronger than lions.
 
-**TDB77:** “Saul leh Jonathan, ki-it a, it huai uh! A sih a hin’-in amaute kikhen lo uh; muvanlai sangin zaptelzaw uh, humpinelkal sangin thahatzaw uh hi.
+**TDB77:** “Saul leh Jonathan, ki-it a, it huai uh! A sih a hin’-in amaute kikhen lo uh; muvanlai sangin zaptelzaw uh, humpinelkal sangin thahatzaw-te hi.
 
-**ZVS:** “Saul leh Jonathan, ki-it uh a, it-huai uh! A sih a hin'in amaute kikhenlo a, muvanlai sangin zaptel zaw uh a, humpinelkai sangin thahat zaw uh hi.
+**ZVS:** “Saul leh Jonathan, ki-it-te a, it-huai uh! A sih a hin'in amaute kikhenlo a, muvanlai sangin zaptel zaw-te a, humpinelkai sangin thahat zaw-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v24
 **EN:** Ye daughters of Israel, weep over Saul, who clothed you in scarlet, with other delights, who put on ornaments of gold upon your apparel.
 
-**TDB77:** “No Israel numeite aw, Saul’ hangin kap un, puansan neel takin a silhte aw, na puan tung uh ah kizepna kham a suangte aw,
+**TDB77:** “No Israel numeite aw, Saul’ hangin kap un, puansan neel takin a silhte aw, na puan tung-te ah kizepna kham a suangte aw,
 
 **ZVS:** “No Israel numeite aw, Saul' hangin kap un. Puansan neel a silh, na puan tung uhah kizepna kham a suangte aw, ama hangin kap un.
 

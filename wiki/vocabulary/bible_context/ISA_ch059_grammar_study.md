@@ -37,61 +37,61 @@
 ### v2
 **EN:** But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.
 
-**TDB77:** ahih hangin note’ mawhnate in note leh na Pasian uh kikhenna piangsak a, amah in hong zak theih loh nadingin na khialhnate un ama maitang liah hi.
+**TDB77:** ahih hangin note’ mawhnate in note leh na Pasian-te kikhenna piangsak a, amah in hong zak theih loh nadingin na khialhnate un ama maitang liah hi.
 
-**ZVS:** Ahih hangin note' mawhnate in note leh na Pasian uh kikhenna hong piangsak a, amah in note' aw hong zak theihlohna dingin na khialhnate un ama maitang liah hi.
+**ZVS:** Ahih hangin note' mawhnate in note leh na Pasian-te kikhenna hong piangsak a, amah in note' aw hong zak theihlohna dingin na khialhnate un ama maitang liah hi.
 
 **Grammar:** causative: -sak suffix | purpose: in order to | reciprocal: ki- prefix
 
 ### v3
 **EN:** For your hands are defiled with blood, and your fingers with iniquity; your lips have spoken lies, your tongue hath muttered perverseness.
 
-**TDB77:** Bang hang hiam cih leh na khutte uh mi thahna sisan tawh nin a, na khutmete uh mawhna tawh nin hi; na mukte un zuau thu gen a, na leii un gitlohna thu gen hi.
+**TDB77:** Bang hang hiam cih leh na khutte-te mi thahna sisan tawh nin a, na khutmete-te mawhna tawh nin hi; na mukte un zuau thu gen a, na leii un gitlohna thu gen hi.
 
-**ZVS:** Bang hang hiam cih leh na khutte uh mi thahna sisan tawh nin a, na khutmete uh mawhna tawh a nin hi. Na mukte un zuauthu gen a, na leiite un gitlohna thu a gen hi.
+**ZVS:** Bang hang hiam cih leh na khutte-te mi thahna sisan tawh nin a, na khutmete-te mawhna tawh a nin hi. Na mukte un zuauthu gen a, na leiite un gitlohna thu a gen hi.
 
 ### v4
 **EN:** None calleth for justice, nor any pleadeth for truth: they trust in vanity, and speak lies; they conceive mischief, and bring forth iniquity.
 
-**TDB77:** Kuamah in thutang tawh thu na nei kei uh a, thuman tak tawh kuamah thukhen zumah na pai kei uh hi; note in bangmah lopi suan’in nei-in zuau thu na gen uh a, siat nading thu ngaihsunin, gitlohna na piangsak uh hi.
+**TDB77:** Kuamah in thutang tawh thu na nei kei-te a, thuman tak tawh kuamah thukhen zumah na pai kei-te hi; note in bangmah lopi suan’in nei-in zuau thu na gen-te a, siat nading thu ngaihsunin, gitlohna na piangsak-te hi.
 
-**ZVS:** Kuamah in thutang tawh thu na nei kei uh a, thuman tak tawh thukhen zumah na pai kei uh hi. Note in bangmahlopi suan'in nei-in zuauthu na gen uh a, siatna ding thu ngaihsunin buaina na piangsak uh hi.
+**ZVS:** Kuamah in thutang tawh thu na nei kei-te a, thuman tak tawh thukhen zumah na pai kei-te hi. Note in bangmahlopi suan'in nei-in zuauthu na gen-te a, siatna ding thu ngaihsunin buaina na piangsak-te hi.
 
 **Grammar:** causative: -sak suffix | serial verb: -in (and then) | negation: kei | plural: uh marker
 
 ### v5
 **EN:** They hatch cockatrice' eggs, and weave the spider's web: he that eateth of their eggs dieth, and that which is crushed breaketh out into a viper.
 
-**TDB77:** Na ngaihsutnate uh gul gunei tuii bangin gu nei hi a, na vaihawmnate uh maimom khau puan tawh kibang lel hi. Gul gunei tuii khat sukham lehang a dang khat hong tui zel hi.
+**TDB77:** Na ngaihsutnate-te gul gunei tuii bangin gu nei hi a, na vaihawmnate-te maimom khau puan tawh kibang lel hi. Gul gunei tuii khat sukham lehang a dang khat hong tui zel hi.
 
-**ZVS:** Na ngaihsutnate uh gul gunei tui bangin gu a nei hi a, na vaihawmnate uh maimom khau puan tawh kibang lel hi. Gul gunei tui khat sukham lehang adang khat hong tui zel hi.
+**ZVS:** Na ngaihsutnate-te gul gunei tui bangin gu a nei hi a, na vaihawmnate-te maimom khau puan tawh kibang lel hi. Gul gunei tui khat sukham lehang adang khat hong tui zel hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v6
 **EN:** Their webs shall not become garments, neither shall they cover themselves with their works: their works are works of iniquity, and the act of violence is in their hands.
 
-**TDB77:** Na maimom khau puante uh kizang thei lo ding a, kuamah in silh lo ding uh hi. Gitlohna gamta uh a, ngongtatna a khut sung uhah om hi.
+**TDB77:** Na maimom khau puante-te kizang thei lo ding a, kuamah in silh lo ding-te hi. Gitlohna gamta-te a, ngongtatna a khut sung uhah om hi.
 
-**ZVS:** Na maimom khau puante uh kizang theilo ding a, kuamah in silhlo ding uh hi. Na vaihawmnate uh tua maimom khau puan bangin a mawkna suak lel ding hi.
+**ZVS:** Na maimom khau puante-te kizang theilo ding a, kuamah in silhlo ding-te hi. Na vaihawmnate-te tua maimom khau puan bangin a mawkna suak lel ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** Their feet run to evil, and they make haste to shed innocent blood: their thoughts are thoughts of iniquity; wasting and destruction are in their paths.
 
-**TDB77:** Siatna bekbek na gelgel uh a, na hih ding uh na ngaklah mahmah uh hi. Mawh nei lo mite sisan luan ding haksa na sa kei uh hi. Na paina khempeuh uhah siatna vive om kawikawi hi.
+**TDB77:** Siatna bekbek na gelgel-te a, na hih ding-te na ngaklah mahmah-te hi. Mawh nei lo mite sisan luan ding haksa na sa kei-te hi. Na paina khempeuh uhah siatna vive om kawikawi hi.
 
-**ZVS:** Siatna bekbek na geelgeel uh a, na sepkhiat ding uh na ngaklah mahmah uh hi. Mawhneilo mite thah ding haksa na sa kei uh hi. Na paina khempeuh uhah siatna vive om kawikawi hi.
+**ZVS:** Siatna bekbek na geelgeel-te a, na sepkhiat ding-te na ngaklah mahmah-te hi. Mawhneilo mite thah ding haksa na sa kei-te hi. Na paina khempeuh uhah siatna vive om kawikawi hi.
 
 **Grammar:** intensifier: very/greatly | negation: kei | negation: lo | plural: uh marker
 
 ### v8
 **EN:** The way of peace they know not; and there is no judgment in their goings: they have made them crooked paths: whosoever goeth therein shall not know peace.
 
-**TDB77:** Note’ Omna peuhah Kuamah lungmuang thei lo a, note’ sepna khempeuh ah thuman khat beek om lo hi. Na lungsim uh lampi kawite bang a, hong zui khate in thunuam mu ngei lo uh hi.
+**TDB77:** Note’ Omna peuhah Kuamah lungmuang thei lo a, note’ sepna khempeuh ah thuman khat beek om lo hi. Na lungsim-te lampi kawite bang a, hong zui khate in thunuam mu ngei lo-te hi.
 
-**ZVS:** Note' omna peuhah kuamah lungmuang theilo a, note' sepna khempeuhah thuman khat beek omlo hi. Na lungsim uh kawi mahmah a, hong zuikha mite in thunuam mu ngeilo uh hi.
+**ZVS:** Note' omna peuhah kuamah lungmuang theilo a, note' sepna khempeuhah thuman khat beek omlo hi. Na lungsim-te kawi mahmah a, hong zuikha mite in thunuam mu ngeilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -125,18 +125,18 @@
 ### v12
 **EN:** For our transgressions are multiplied before thee, and our sins testify against us: for our transgressions are with us; and as for our iniquities, we know them;
 
-**TDB77:** Bang hang hiam cih leh nangma tungah kote’ thu-palsatnate tampi pha a, ka mawhnate uh in kote’ langah teci hong pang hi; kote’ thu-palsatnate, ka mawhnate uh ka thei uh hi.
+**TDB77:** Bang hang hiam cih leh nangma tungah kote’ thu-palsatnate tampi pha a, ka mawhnate-te in kote’ langah teci hong pang hi; kote’ thu-palsatnate, ka mawhnate-te ka thei-te hi.
 
-**ZVS:** Bang hang hiam cih leh nangma tungah kote' thupalsatna tampi tak pha a, ka mawhnate un kote' langah teci hong pang hi. Kote' thupalsatnate, ka mawhnate uh ka thei uh hi.
+**ZVS:** Bang hang hiam cih leh nangma tungah kote' thupalsatna tampi tak pha a, ka mawhnate un kote' langah teci hong pang hi. Kote' thupalsatnate, ka mawhnate-te ka thei-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** In transgressing and lying against the
 
-**TDB77:** Nangmah hong lehdo-in, nang kong nungngat uh a, nangma thu kong zui kei uh hi. Midangte nengniamin nang kong lehdo uh hi. Ka ngaihsutnate uh khial a, ka thugente uh zuau thu vive ahi hi.
+**TDB77:** Nangmah hong lehdo-in, nang kong nungngat-te a, nangma thu kong zui kei-te hi. Midangte nengniamin nang kong lehdo-te hi. Ka ngaihsutnate-te khial a, ka thugente-te zuau thu vive ahi hi.
 
-**ZVS:** Nangmah hong lehdo-in nang kong nial uh a, na thu kong zui kei uh hi. Midangte nengniamin nang kong lehdo uh hi. Ka ngaihsutnate uh khial a, ka thugente uh zuauthu vive ahi hi.
+**ZVS:** Nangmah hong lehdo-in nang kong nial-te a, na thu kong zui kei-te hi. Midangte nengniamin nang kong lehdo-te hi. Ka ngaihsutnate-te khial a, ka thugente-te zuauthu vive ahi hi.
 
 **Grammar:** serial verb: -in (and then) | negation: kei | plural: uh marker
 
@@ -188,9 +188,9 @@
 ### v19
 **EN:** So shall they fear the name of the
 
-**TDB77:** Tua ahih ciangin nisuahna pan nitumna kikal-a om mi khempeuh in amah zahtakin, a vangliatna kihta ding uh hi. Bang hang hiam cih leh Topa’ huih nung bang, tuipi khang bangin amah hong pai ding hi.
+**TDB77:** Tua ahih ciangin nisuahna pan nitumna kikal-a om mi khempeuh in amah zahtakin, a vangliatna kihta ding-te hi. Bang hang hiam cih leh Topa’ huih nung bang, tuipi khang bangin amah hong pai ding hi.
 
-**ZVS:** Tua ahih ciangin nisuahna leh nitumna kikalah a om mi khempeuh in amah zahtakin, a vangliatna kihta ding uh hi. Bang hang hiam cih leh huihpi nung bang, tuipi khang bangin amah hong pai ding hi.
+**ZVS:** Tua ahih ciangin nisuahna leh nitumna kikalah a om mi khempeuh in amah zahtakin, a vangliatna kihta ding-te hi. Bang hang hiam cih leh huihpi nung bang, tuipi khang bangin amah hong pai ding hi.
 
 **Grammar:** sequence: then/therefore | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -206,9 +206,9 @@
 ### v21
 **EN:** As for me, this is my covenant with them, saith the
 
-**TDB77:** Note tawh hih bangin thuciamna ka bawl hi: Nang tunga a om ka kha leh na kamsung a, ka koih keima thukhamte leh ka thuhilhnate note tungah kong pia khin a, tu-a kipanin a tawntungin note in tua thute zui-in na suan na khakte uh kam pan paikhia lo ding a, a khang khangin na maimangsak kei ding uh hi,” a ci hi.
+**TDB77:** Note tawh hih bangin thuciamna ka bawl hi: Nang tunga a om ka kha leh na kamsung a, ka koih keima thukhamte leh ka thuhilhnate note tungah kong pia khin a, tu-a kipanin a tawntungin note in tua thute zui-in na suan na khakte-te kam pan paikhia lo ding a, a khang khangin na maimangsak kei ding-te hi,” a ci hi.
 
-**ZVS:** “Note tawh hih bangin thuciamna ka bawl hi: Keima vangliatna tawh keima thukhamte leh ka thuhilhnate note tungah ka hong pia khin a, tu-a kipanin a tawntungin note in tua thute zui-in na suanlekhakte uh na hilh ding uh a, a khang khangin na maimangsak kei ding uh hi,” a ci hi.
+**ZVS:** “Note tawh hih bangin thuciamna ka bawl hi: Keima vangliatna tawh keima thukhamte leh ka thuhilhnate note tungah ka hong pia khin a, tu-a kipanin a tawntungin note in tua thute zui-in na suanlekhakte-te na hilh ding-te a, a khang khangin na maimangsak kei ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 

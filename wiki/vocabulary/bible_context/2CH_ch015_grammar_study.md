@@ -32,9 +32,9 @@
 ### v2
 **EN:** And he went out to meet Asa, and said unto him, Hear ye me, Asa, and all Judah and Benjamin; The
 
-**TDB77:** tua ciangin Asa dawntuah dingin amah pai-in ama kiangah, “Ka thu ngai un, Asa leh Judah mite leh Benjaminte aw: Note in amah tawh na om lai teng uh Topa in note tawh om hi. Amah na zon’ uh leh amah na mu ding uh a, ahih hangin amah na nusiat uh leh amah in note hong nusia ding hi.
+**TDB77:** tua ciangin Asa dawntuah dingin amah pai-in ama kiangah, “Ka thu ngai un, Asa leh Judah mite leh Benjaminte aw: Note in amah tawh na om lai teng-te Topa in note tawh om hi. Amah na zon’ uh leh amah na mu ding-te a, ahih hangin amah na nusiat-te leh amah in note hong nusia ding hi.
 
-**ZVS:** Tua ciangin Asa a dawntuah dingin amah pai-in ama kiangah, “Asa, leh Judah mite leh Benjamin mite aw, ka thu ngai un. Note amah tawh na om laiteng uh note tawh { Topa } hong om hi. Amah na zon' uh leh amah na mu ding uh a, ahih hangin amah na nusiat uh leh amah in note hong nusia ding hi.
+**ZVS:** Tua ciangin Asa a dawntuah dingin amah pai-in ama kiangah, “Asa, leh Judah mite leh Benjamin mite aw, ka thu ngai un. Note amah tawh na om laiteng-te note tawh { Topa } hong om hi. Amah na zon' uh leh amah na mu ding-te a, ahih hangin amah na nusiat-te leh amah in note hong nusia ding hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -43,16 +43,16 @@
 
 **TDB77:** Hun saupi sung Israel in Pasian man tawh om lo, thu a hilh siampi tawh om lo, thukham tawh om lo hi;
 
-**ZVS:** Hun saupi sung Israel mite, Pasian man tawh omlo, thu a hilh siampi tawh omlo, thukham tawh omlo uh hi.
+**ZVS:** Hun saupi sung Israel mite, Pasian man tawh omlo, thu a hilh siampi tawh omlo, thukham tawh omlo-te hi.
 
 **Grammar:** negation: lo
 
 ### v4
 **EN:** But when they in their trouble did turn unto the
 
-**TDB77:** ahih hangin a lungkham uh ciangin Israel Pasian, Topa’ lamah kihei uh a, amah zongin amaute in amah mu uh hi.
+**TDB77:** ahih hangin a lungkham-te ciangin Israel Pasian, Topa’ lamah kihei-te a, amah zongin amaute in amah mu-te hi.
 
-**ZVS:** Ahih hangin a lungkham uh ciangin Israel Pasian, { Topa' } lamah kihei uh a, amah zongin amaute in amah a mu uh hi.
+**ZVS:** Ahih hangin a lungkham-te ciangin Israel Pasian, { Topa' } lamah kihei-te a, amah zongin amaute in amah a mu-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -68,7 +68,7 @@
 ### v6
 **EN:** And nation was destroyed of nation, and city of city: for God did vex them with all adversity.
 
-**TDB77:** Pasian in lungkhamna nam khempeuh tawh buaisak ahih manin minam khat leh minam khat, khuapi khat leh khuapi khat kido-in amaute kitamkham uh hi.
+**TDB77:** Pasian in lungkhamna nam khempeuh tawh buaisak ahih manin minam khat leh minam khat, khuapi khat leh khuapi khat kido-in amaute kitamkham-te hi.
 
 **Grammar:** serial verb: -in (and then) | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -93,63 +93,63 @@
 ### v9
 **EN:** And he gathered all Judah and Benjamin, and the strangers with them out of Ephraim and Manasseh, and out of Simeon: for they fell to him out of Israel in abundance, when they saw that the
 
-**TDB77:** Tua ciangin amah in ‘Judah leh Benjamin mi khempeuh, leh Efraim, Manasseh, leh Simeon sung panin amaute kiangah a peemte khawm hi; bang hang hiam cih leh Topa a Pasian amah tawh a omna thu amaute in a muh uh ciangin Israelte kiang panin mi tampi tak ama kiangah tai uh hi.
+**TDB77:** Tua ciangin amah in ‘Judah leh Benjamin mi khempeuh, leh Efraim, Manasseh, leh Simeon sung panin amaute kiangah a peemte khawm hi; bang hang hiam cih leh Topa a Pasian amah tawh a omna thu amaute in a muh-te ciangin Israelte kiang panin mi tampi tak ama kiangah tai-te hi.
 
-**ZVS:** Tua ciangin amah in Judah leh Benjamin mi khempeuh, leh Efraim, Manasseh, leh Simeon sung panin amaute kiangah a peemte zong a khawm hi; bang hang hiam cih leh { Topa } a Pasian in amah a ompihna thu amaute in a muh uh ciangin Israel-te kiang panin mi tampi tak ama kiangah tai uh hi.
+**ZVS:** Tua ciangin amah in Judah leh Benjamin mi khempeuh, leh Efraim, Manasseh, leh Simeon sung panin amaute kiangah a peemte zong a khawm hi; bang hang hiam cih leh { Topa } a Pasian in amah a ompihna thu amaute in a muh-te ciangin Israel-te kiang panin mi tampi tak ama kiangah tai-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v10
 **EN:** So they gathered themselves together at Jerusalem in the third month, in the fifteenth year of the reign of Asa.
 
-**TDB77:** Asa’ uk kum sawm-le-ngana a kha thumna sungin Jerusalem ah amaute kikhawm uh hi.
+**TDB77:** Asa’ uk kum sawm-le-ngana a kha thumna sungin Jerusalem ah amaute kikhawm-te hi.
 
-**ZVS:** Asa' uk kum sawmlengana a kha thumna sungin Jerusalem-ah amaute kikhawm uh hi.
+**ZVS:** Asa' uk kum sawmlengana a kha thumna sungin Jerusalem-ah amaute kikhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And they offered unto the
 
-**TDB77:** Tua ni-in amaute in gal sung panin a ciahpih uh nate sung panin bawngtal za sagih leh tuu tul sagih tawh Topa tungah biakna pia uh hi.
+**TDB77:** Tua ni-in amaute in gal sung panin a ciahpih-te nate sung panin bawngtal za sagih leh tuu tul sagih tawh Topa tungah biakna pia-te hi.
 
-**ZVS:** Tua ni-in amaute in galsung panin a ciahpih uh nate sung panin bawngtal za sagih leh tuu tul sagih tawh { Topa' } tungah biakna a pia uh hi.
+**ZVS:** Tua ni-in amaute in galsung panin a ciahpih-te nate sung panin bawngtal za sagih leh tuu tul sagih tawh { Topa' } tungah biakna a pia-te hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v12
 **EN:** And they entered into a covenant to seek the
 
-**TDB77:** Tua ciangin a lungsim khempeuh uh leh a nuntakna khempeuh uh tawh a pu a pate uh’ Pasian, Topa a zon’ nading uh,
+**TDB77:** Tua ciangin a lungsim khempeuh-te leh a nuntakna khempeuh-te tawh a pu a pate uh’ Pasian, Topa a zon’ nading uh,
 
-**ZVS:** Tua ciangin a lungsim khempeuh uh leh a nuntakna khempeuh uh tawh a pu a pate uh' Pasian, { Topa } a zon' ding uh,
+**ZVS:** Tua ciangin a lungsim khempeuh-te leh a nuntakna khempeuh-te tawh a pu a pate uh' Pasian, { Topa } a zon' ding uh,
 
 **Grammar:** sequence: then/therefore
 
 ### v13
 **EN:** That whosoever would not seek the
 
-**TDB77:** leh Pasian, Topa a zong lo peuhmah, a moi ahi a, a ham ahi a, numei ahi a, pasal ahi zongin a kithah nading uh thuciamna khat bawl uh hi.
+**TDB77:** leh Pasian, Topa a zong lo peuhmah, a moi ahi a, a ham ahi a, numei ahi a, pasal ahi zongin a kithah nading-te thuciamna khat bawl-te hi.
 
-**ZVS:** leh Israel Pasian, { Topa } a zonglo peuhmah, a moi ahi a, a ham ahi a, numei ahi a, pasal ahi zongin a kithahna ding uh thuciamna khat a bawl uh hi.
+**ZVS:** leh Israel Pasian, { Topa } a zonglo peuhmah, a moi ahi a, a ham ahi a, numei ahi a, pasal ahi zongin a kithahna ding-te thuciamna khat a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** And they sware unto the
 
-**TDB77:** Amaute in awging pha, leh otna, leh peengkulte, leh sakite tawh Topa’ tungah kiciamna bawl uh hi.
+**TDB77:** Amaute in awging pha, leh otna, leh peengkulte, leh sakite tawh Topa’ tungah kiciamna bawl-te hi.
 
-**ZVS:** Amaute in awging pha, otna, peengkulte, leh sakite tawh { Topa' } tungah kiciamna a bawl uh hi.
+**ZVS:** Amaute in awging pha, otna, peengkulte, leh sakite tawh { Topa' } tungah kiciamna a bawl-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And all Judah rejoiced at the oath: for they had sworn with all their heart, and sought him with their whole desire; and he was found of them: and the
 
-**TDB77:** Tua ciangin Judah mi khempeuh tua kiciamna ah lungdam uh hi; bang hang hiam cih leh amaute in a lungsim khempeuh uh tawh kiciamin deihna taktak tawh amah zong a, tua ciangin amaute in amah mu uh a, Topa in a kiim uhah amaute gal daihna pia hi.
+**TDB77:** Tua ciangin Judah mi khempeuh tua kiciamna ah lungdam-te hi; bang hang hiam cih leh amaute in a lungsim khempeuh-te tawh kiciamin deihna taktak tawh amah zong a, tua ciangin amaute in amah mu-te a, Topa in a kiim uhah amaute gal daihna pia hi.
 
-**ZVS:** Tua ciangin Judah mi khempeuh tua kiciamna-ah lungdam uh hi; bang hang hiam cih leh amaute in a lungsim khempeuh uh tawh kiciamin deihna taktak tawh amah zong uh hi. Tua ciangin amaute in amah mu uh a, { Topa } in a kiim uhah amaute galdaihna a pia hi.
+**ZVS:** Tua ciangin Judah mi khempeuh tua kiciamna-ah lungdam-te hi; bang hang hiam cih leh amaute in a lungsim khempeuh-te tawh kiciamin deihna taktak tawh amah zong-te hi. Tua ciangin amaute in amah mu-te a, { Topa } in a kiim uhah amaute galdaihna a pia hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

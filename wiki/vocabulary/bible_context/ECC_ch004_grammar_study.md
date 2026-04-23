@@ -23,9 +23,9 @@
 ### v1
 **EN:** So I returned, and considered all the oppressions that are done under the sun: and behold the tears of such as were oppressed, and they had no comforter; and on the side of their oppressors there was power; but they had no comforter.
 
-**TDB77:** Leitungah thuman lo-a a kigamtatnate khempeuh ka ngaihsun kik leuleu hi. Nenniamna a thuak mite kap uh a, ahi zongin kuamah in amaute hehnem lo hi. A nengniam mite thahat lua uh ahih manin kuamah in thuk ngam lo hi.
+**TDB77:** Leitungah thuman lo-a a kigamtatnate khempeuh ka ngaihsun kik leuleu hi. Nenniamna a thuak mite kap-te a, ahi zongin kuamah in amaute hehnem lo hi. A nengniam mite thahat lua-te ahih manin kuamah in thuk ngam lo hi.
 
-**ZVS:** Tua ciangin leitungah thuman loin a kigamtatnate khempeuh ka ngaihsun kik leuleu hi. Nenniamna a thuak mite kap uh a, ahi zongin kuamah in amaute hehnemlo uh hi. A nengniam mite thahat lua uh ahih manin kuamah in thuk ngamlo hi.
+**ZVS:** Tua ciangin leitungah thuman loin a kigamtatnate khempeuh ka ngaihsun kik leuleu hi. Nenniamna a thuak mite kap-te a, ahi zongin kuamah in amaute hehnemlo-te hi. A nengniam mite thahat lua-te ahih manin kuamah in thuk ngamlo hi.
 
 **Grammar:** negation: lo | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -41,7 +41,7 @@
 
 **TDB77:** Mihing-a hong piang nai lo, hih leitung gitlohna teng a mu nai lote hampha zawlai sawnsawn hi.
 
-**ZVS:** Mihinga hong piang nailo, hih leitung gitlohna teng a mu nailote hamphazaw lai sawnsawn uh hi.
+**ZVS:** Mihinga hong piang nailo, hih leitung gitlohna teng a mu nailote hamphazaw lai sawnsawn-te hi.
 
 ### v4
 **EN:** Again, I considered all travail, and every right work, that for this a man is envied of his neighbour. This is also vanity and vexation of spirit.
@@ -55,9 +55,9 @@
 ### v5
 **EN:** The fool foldeth his hands together, and eateth his own flesh.
 
-**TDB77:** Mihaite in na sem loin a khut zepin om uh a, a tawpna-ah gil kialin sih lawh uh hi.
+**TDB77:** Mihaite in na sem loin a khut zepin om-te a, a tawpna-ah gil kialin sih lawh-te hi.
 
-**ZVS:** Mihaite in na sem loin a khut zepin om uh a, a tawpna-ah gilkialin sihlawh uh hi.
+**ZVS:** Mihaite in na sem loin a khut zepin om-te a, a tawpna-ah gilkialin sihlawh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -87,9 +87,9 @@
 ### v9
 **EN:** Two are better than one; because they have a good reward for their labour.
 
-**TDB77:** Mi khat sangin mi nih hoihzaw hi; amau’ sepna thaman ngah uh hi.
+**TDB77:** Mi khat sangin mi nih hoihzaw hi; amau’ sepna thaman ngah-te hi.
 
-**ZVS:** Mi khat sangin mi nih hoihzaw hi; amau' sepna thaman a tamzaw ngah uh hi.
+**ZVS:** Mi khat sangin mi nih hoihzaw hi; amau' sepna thaman a tamzaw ngah-te hi.
 
 **Grammar:** plural: uh marker
 

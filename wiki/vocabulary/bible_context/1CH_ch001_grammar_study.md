@@ -41,16 +41,16 @@
 ### v4
 **EN:** Noah, Shem, Ham, and Japheth.
 
-**TDB77:** Lamek’ ta Noah, Noah in tapa thum nei a, tuate in Shem, Ham leh Jafeth ahi uh hi.
+**TDB77:** Lamek’ ta Noah, Noah in tapa thum nei a, tuate in Shem, Ham leh Jafeth ahi-te hi.
 
-**ZVS:** Lamek' ta Noah ahi hi. Noah in tapa thum nei a, tuate pen Shem, Ham, leh Jafeth ahi uh hi.
+**ZVS:** Lamek' ta Noah ahi hi. Noah in tapa thum nei a, tuate pen Shem, Ham, leh Jafeth ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v5
 **EN:** The sons of Japheth; Gomer, and Magog, and Madai, and Javan, and Tubal, and Meshech, and Tiras.
 
-**TDB77:** Jafeth’ tapate in: Gomer, Magog, Madai, Javan, Tubal, Meshek, leh Tiras ahi uh a, amau’ min pua-in minam piang ciat hi.
+**TDB77:** Jafeth’ tapate in: Gomer, Magog, Madai, Javan, Tubal, Meshek, leh Tiras ahi-te a, amau’ min pua-in minam piang ciat hi.
 
 **ZVS:** Jafeth' tapate: Gomer, Magog, Madai, Javan, Tubal, Meshek, leh Tiras hi a, amau' min ciat pua-in minam tuamtuam a piang hi.
 
@@ -61,21 +61,21 @@
 
 **TDB77:** Gomer’ suante in: Ashkenaz mite, Rifath mite, leh Togarmah mite ahi hi.
 
-**ZVS:** Gomer' suante: Ashkenaz mite, Rifath mite, leh Togarmah mite ahi uh hi.
+**ZVS:** Gomer' suante: Ashkenaz mite, Rifath mite, leh Togarmah mite ahi-te hi.
 
 ### v7
 **EN:** And the sons of Javan; Elishah, and Tarshish, Kittim, and Dodanim.
 
-**TDB77:** Javan’ suante in: Elishah mite, Tarshish mite, Kittim mite leh Rodanim mite ahi uh hi.
+**TDB77:** Javan’ suante in: Elishah mite, Tarshish mite, Kittim mite leh Rodanim mite ahi-te hi.
 
-**ZVS:** Javan' suante: Elishah mite, Tarshish mite, Kittim mite, leh Rodanim mite ahi uh hi.
+**ZVS:** Javan' suante: Elishah mite, Tarshish mite, Kittim mite, leh Rodanim mite ahi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** The sons of Ham; Cush, and Mizraim, Put, and Canaan.
 
-**TDB77:** Ham’ tapate in: Kush, Izipt, Put, leh Kanaan ahi uh a, amau’ min pua-in minam piang ciat hi.
+**TDB77:** Ham’ tapate in: Kush, Izipt, Put, leh Kanaan ahi-te a, amau’ min pua-in minam piang ciat hi.
 
 **ZVS:** Ham' tapate: Kush, Egypt, Put, leh Kanaan hi a, amau' min ciat pua-in minam a piang hi.
 
@@ -84,9 +84,9 @@
 ### v9
 **EN:** And the sons of Cush; Seba, and Havilah, and Sabtah, and Raamah, and Sabtecha. And the sons of Raamah; Sheba, and Dedan.
 
-**TDB77:** Kush’ suante in: Seba mite, Havilah mite, Sabta mite, Raamah mite, leh Sabteka mite ahi uh hi. Raamah’ suante in: Sheba mite, leh Dedan mite ahi uh hi.
+**TDB77:** Kush’ suante in: Seba mite, Havilah mite, Sabta mite, Raamah mite, leh Sabteka mite ahi-te hi. Raamah’ suante in: Sheba mite, leh Dedan mite ahi-te hi.
 
-**ZVS:** Kush' suante: Seba mite, Havilah mite, Sabta mite, Raamah mite, leh Sabteka mite ahi uh hi. Raamah' suante: Sheba mite, leh Dedan mite ahi uh hi.
+**ZVS:** Kush' suante: Seba mite, Havilah mite, Sabta mite, Raamah mite, leh Sabteka mite ahi-te hi. Raamah' suante: Sheba mite, leh Dedan mite ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -142,7 +142,7 @@
 ### v17
 **EN:** The sons of Shem; Elam, and Asshur, and Arphaxad, and Lud, and Aram, and Uz, and Hul, and Gether, and Meshech.
 
-**TDB77:** Shem tapate in: Elam, Asshur, Arpakshad, Lud, Aram, Uz, Hul, Gether, leh Meshek ahi uh a, amau min pua-in minam piang ciat hi.
+**TDB77:** Shem tapate in: Elam, Asshur, Arpakshad, Lud, Aram, Uz, Hul, Gether, leh Meshek ahi-te a, amau min pua-in minam piang ciat hi.
 
 **ZVS:** Shem' tapate: Elam, Asshur, Arpakshad, Lud, Aram, Uz, Hul, Gether, leh Meshek hi a, amau' min ciat pua-in minam a piang hi.
 
@@ -184,9 +184,9 @@
 ### v23
 **EN:** And Ophir, and Havilah, and Jobab. All these were the sons of Joktan.
 
-**TDB77:** Ofir mite, Havilah mite, leh Jobab mite’ pian’napa ahi hi; hihte khempeuh in Joktan’ suante ahi uh hi.
+**TDB77:** Ofir mite, Havilah mite, leh Jobab mite’ pian’napa ahi hi; hihte khempeuh in Joktan’ suante ahi-te hi.
 
-**ZVS:** Ofir mite, Havilah mite, leh Jobab mite' pian'napa ahi hi. Hihte khempeuh, Joktan' suante ahi uh hi.
+**ZVS:** Ofir mite, Havilah mite, leh Jobab mite' pian'napa ahi hi. Hihte khempeuh, Joktan' suante ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -214,16 +214,16 @@
 ### v27
 **EN:** Abram; the same is Abraham.
 
-**TDB77:** tua ciangin Abraham a kici Abram ahi suk uh hi.
+**TDB77:** tua ciangin Abraham a kici Abram ahi suk-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v28
 **EN:** The sons of Abraham; Isaac, and Ishmael.
 
-**TDB77:** Abraham’ tapate in: Isaak leh Ishmael ahi uh hi.
+**TDB77:** Abraham’ tapate in: Isaak leh Ishmael ahi-te hi.
 
-**ZVS:** Abraham' tapate: Isaac leh Ishmael ahi uh hi.
+**ZVS:** Abraham' tapate: Isaac leh Ishmael ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -244,115 +244,115 @@
 ### v31
 **EN:** Jetur, Naphish, and Kedemah. These are the sons of Ishmael.
 
-**TDB77:** Jetur, Nafish, leh Kedemah ahi uh hi. Hihte in Ishmael’ tapate ahi uh hi.
+**TDB77:** Jetur, Nafish, leh Kedemah ahi-te hi. Hihte in Ishmael’ tapate ahi-te hi.
 
-**ZVS:** Jetur, Nafish, leh Kedemah ahi uh hi. Hihte pen Ishmael' tapate ahi uh hi.
+**ZVS:** Jetur, Nafish, leh Kedemah ahi-te hi. Hihte pen Ishmael' tapate ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v32
 **EN:** Now the sons of Keturah, Abraham's concubine: she bare Zimran, and Jokshan, and Medan, and Midian, and Ishbak, and Shuah. And the sons of Jokshan; Sheba, and Dedan.
 
-**TDB77:** Abraham’ zineu Keturah’ tapate: Zimran, Jokshan, Medan, Midian, Ishbak, leh Shuah ahi uh hi. Jokshan’ tapate in: Sheba leh Dedan ahi uh hi.
+**TDB77:** Abraham’ zineu Keturah’ tapate: Zimran, Jokshan, Medan, Midian, Ishbak, leh Shuah ahi-te hi. Jokshan’ tapate in: Sheba leh Dedan ahi-te hi.
 
-**ZVS:** Abraham' zineu Keturah' tapate: Zimran, Jokshan, Medan, Midian, Ishbak, leh Shuah ahi uh hi. Jokshan' tapate: Sheba leh Dedan ahi uh hi.
+**ZVS:** Abraham' zineu Keturah' tapate: Zimran, Jokshan, Medan, Midian, Ishbak, leh Shuah ahi-te hi. Jokshan' tapate: Sheba leh Dedan ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v33
 **EN:** And the sons of Midian; Ephah, and Epher, and Hanoch, and Abida, and Eldaah. All these are the sons of Keturah.
 
-**TDB77:** Midian’ tapate in: Efah, Efer, Hanok, Abida, leh Elda-ah ahi uh hi. Hihte khempeuh in Keturah’ suan leh khakte ahi uh hi.
+**TDB77:** Midian’ tapate in: Efah, Efer, Hanok, Abida, leh Elda-ah ahi-te hi. Hihte khempeuh in Keturah’ suan leh khakte ahi-te hi.
 
-**ZVS:** Midian' tapate: Efah, Efer, Hanok, Abida, leh Eldaah ahi uh hi. Hihte khempeuh pen Keturah' suanlekhakte ahi uh hi.
+**ZVS:** Midian' tapate: Efah, Efer, Hanok, Abida, leh Eldaah ahi-te hi. Hihte khempeuh pen Keturah' suanlekhakte ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v34
 **EN:** And Abraham begat Isaac. The sons of Isaac; Esau and Israel.
 
-**TDB77:** Abraham in Isaak’ pa ahi hi. Isaak’ tapate in Esau’ leh Israel ahi uh hi.
+**TDB77:** Abraham in Isaak’ pa ahi hi. Isaak’ tapate in Esau’ leh Israel ahi-te hi.
 
-**ZVS:** Abraham pen Isaac' pa ahi hi. Isaac' tapate Esau leh Israel ahi uh hi.
+**ZVS:** Abraham pen Isaac' pa ahi hi. Isaac' tapate Esau leh Israel ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v35
 **EN:** The sons of Esau; Eliphaz, Reuel, and Jeush, and Jaalam, and Korah.
 
-**TDB77:** Esau’ tapate in: Elifaz, Re-u-el, Jeush, Jalam, leh Korah ahi uh hi.
+**TDB77:** Esau’ tapate in: Elifaz, Re-u-el, Jeush, Jalam, leh Korah ahi-te hi.
 
-**ZVS:** Esau' tapate: Elifaz, Reuel, Jeush, Jalam, leh Korah ahi uh hi.
+**ZVS:** Esau' tapate: Elifaz, Reuel, Jeush, Jalam, leh Korah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v36
 **EN:** The sons of Eliphaz; Teman, and Omar, Zephi, and Gatam, Kenaz, and Timna, and Amalek.
 
-**TDB77:** Elifaz’ tapate in: Teman, Omar, Zefi, Gatam, Kenaz, Timna leh Amalek ahi uh hi.
+**TDB77:** Elifaz’ tapate in: Teman, Omar, Zefi, Gatam, Kenaz, Timna leh Amalek ahi-te hi.
 
-**ZVS:** Elifaz' tapate: Teman, Omar, Gatam, Kenaz, Timna, leh Amalek ahi uh hi.
+**ZVS:** Elifaz' tapate: Teman, Omar, Gatam, Kenaz, Timna, leh Amalek ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v37
 **EN:** The sons of Reuel; Nahath, Zerah, Shammah, and Mizzah.
 
-**TDB77:** Re-u-el’ tapate in: Nahath, Zerah, Shammah, leh Mizzah ahi uh hi.
+**TDB77:** Re-u-el’ tapate in: Nahath, Zerah, Shammah, leh Mizzah ahi-te hi.
 
-**ZVS:** Reuel' tapate: Nahath, Zerah, Shammah, leh Mizzah ahi uh hi.
+**ZVS:** Reuel' tapate: Nahath, Zerah, Shammah, leh Mizzah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v38
 **EN:** And the sons of Seir; Lotan, and Shobal, and Zibeon, and Anah, and Dishon, and Ezer, and Dishan.
 
-**TDB77:** Seir’ tapate in: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, leh Dishan ahi uh hi.
+**TDB77:** Seir’ tapate in: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, leh Dishan ahi-te hi.
 
-**ZVS:** Seir' tapate: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, leh Dishan ahi uh hi.
+**ZVS:** Seir' tapate: Lotan, Shobal, Zibeon, Anah, Dishon, Ezer, leh Dishan ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v39
 **EN:** And the sons of Lotan; Hori, and Homam: and Timna was Lotan's sister.
 
-**TDB77:** Lotan’ tapate in Hori leh Homan ahi uh hi; tua ciangin Lotan’ sanggamnu in Timna ahi hi.
+**TDB77:** Lotan’ tapate in Hori leh Homan ahi-te hi; tua ciangin Lotan’ sanggamnu in Timna ahi hi.
 
-**ZVS:** Lotan' tapate Hori leh Homam hi uh a, Lotan' sanggamnu pen Timna ahi hi.
+**ZVS:** Lotan' tapate Hori leh Homam hi-te a, Lotan' sanggamnu pen Timna ahi hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v40
 **EN:** The sons of Shobal; Alian, and Manahath, and Ebal, Shephi, and Onam. And the sons of Zibeon; Aiah, and Anah.
 
-**TDB77:** Shobal’ tapate in: Alian, Manahath, Ebal, Shefi, leh Onam ahi uh hi. Zebeon’ tapate in: Ai-ah leh Anah ahi uh hi.
+**TDB77:** Shobal’ tapate in: Alian, Manahath, Ebal, Shefi, leh Onam ahi-te hi. Zebeon’ tapate in: Ai-ah leh Anah ahi-te hi.
 
-**ZVS:** Shobal' tapate: Alian, Manahath, Ebal, Shefi, leh Onam ahi uh hi. Zibeon' tapate: Aiah leh Anah ahi uh hi.
+**ZVS:** Shobal' tapate: Alian, Manahath, Ebal, Shefi, leh Onam ahi-te hi. Zibeon' tapate: Aiah leh Anah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v41
 **EN:** The sons of Anah; Dishon. And the sons of Dishon; Amram, and Eshban, and Ithran, and Cheran.
 
-**TDB77:** Anah’ tapa in Dishon ahi hi. Dishon’ tapate in: Hamran, Eshban, Ithran, leh Kheran ahi uh hi.
+**TDB77:** Anah’ tapa in Dishon ahi hi. Dishon’ tapate in: Hamran, Eshban, Ithran, leh Kheran ahi-te hi.
 
-**ZVS:** Anah' tapa Dishon ahi hi. Dishon' tapate: Hamran, Eshban, Ithran, leh Kheran ahi uh hi.
+**ZVS:** Anah' tapa Dishon ahi hi. Dishon' tapate: Hamran, Eshban, Ithran, leh Kheran ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v42
 **EN:** The sons of Ezer; Bilhan, and Zaavan, and Jakan. The sons of Dishan; Uz, and Aran.
 
-**TDB77:** Ezer’ tapate in: Bilhan, Za-avan, leh Ja-akan ahi uh hi. Dishon tapate in: Uz leh Aran ahi uh hi.
+**TDB77:** Ezer’ tapate in: Bilhan, Za-avan, leh Ja-akan ahi-te hi. Dishon tapate in: Uz leh Aran ahi-te hi.
 
-**ZVS:** Ezer' tapate: Bilhan, Zaavan, leh Jaakan ahi uh hi. Dishan' tapate: Uz leh Aran ahi uh hi.
+**ZVS:** Ezer' tapate: Bilhan, Zaavan, leh Jaakan ahi-te hi. Dishan' tapate: Uz leh Aran ahi-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v43
 **EN:** Now these are the kings that reigned in the land of Edom before any king reigned over the children of Israel; Bela the son of Beor: and the name of his city was Dinhabah.
 
-**TDB77:** Israelte tungah kumpi khatpeuh peuh in a uk ma-in Edom gam sungah a uk kumpite in hihte ahi uh hi: Beor’ tapa Bela hi a, ama khuapi min in Dinhabah ahi hi.
+**TDB77:** Israelte tungah kumpi khatpeuh peuh in a uk ma-in Edom gam sungah a uk kumpite in hihte ahi-te hi: Beor’ tapa Bela hi a, ama khuapi min in Dinhabah ahi hi.
 
 **ZVS:** Israel-te tungah kumpi khat peuhpeuh in a uk ma-in Edom gamsungah a uk kumpite: Beor' tapa Bela hi a, ama khuapi min Dinhabah ahi hi.
 
@@ -431,9 +431,9 @@
 ### v54
 **EN:** Duke Magdiel, duke Iram. These are the dukes of Edom.
 
-**TDB77:** Magdiel, leh Iram ahi uh hi; hihte in Edom ukpite ahi uh hi.
+**TDB77:** Magdiel, leh Iram ahi-te hi; hihte in Edom ukpite ahi-te hi.
 
-**ZVS:** Magdiel, leh Iram hi uh a, hihte pen Edom ukpite ahi uh hi.
+**ZVS:** Magdiel, leh Iram hi-te a, hihte pen Edom ukpite ahi-te hi.
 
 **Grammar:** plural: uh marker
 

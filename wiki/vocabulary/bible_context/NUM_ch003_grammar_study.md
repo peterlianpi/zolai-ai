@@ -49,9 +49,9 @@
 ### v4
 **EN:** And Nadab and Abihu died before the
 
-**TDB77:** Ahih hangin Sinai gamlak Topa mai-ah mei siangtho lo a zat uh ciangin Topa mai-ah Nadab leh Abihu si hi; amaute in ta nei lo uh hi. Tua ahih ciangin Eleazar leh Ithamar in a pa uh Aaron’ nuntak sung teng siampi na sem uh hi.
+**TDB77:** Ahih hangin Sinai gamlak Topa mai-ah mei siangtho lo a zat-te ciangin Topa mai-ah Nadab leh Abihu si hi; amaute in ta nei lo-te hi. Tua ahih ciangin Eleazar leh Ithamar in a pa-te Aaron’ nuntak sung teng siampi na sem-te hi.
 
-**ZVS:** Ahih hangin Sinai sehnel gam { Topa' } mai-ah mei siangtholo a zat uh ciangin { Topa' } mai-ah Nadab leh Abihu si hi. Amaute in ta neilo uh ahih ciangin Eleazar leh Ithamar in a pa uh Aaron' nuntak sungteng bek siampi na a sem uh ahi hi.
+**ZVS:** Ahih hangin Sinai sehnel gam { Topa' } mai-ah mei siangtholo a zat-te ciangin { Topa' } mai-ah Nadab leh Abihu si hi. Amaute in ta neilo-te ahih ciangin Eleazar leh Ithamar in a pa-te Aaron' nuntak sungteng bek siampi na a sem-te ahi hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
@@ -76,18 +76,18 @@
 ### v7
 **EN:** And they shall keep his charge, and the charge of the whole congregation before the tabernacle of the congregation, to do the service of the tabernacle.
 
-**TDB77:** Amaute in biakbuk ah a sep uh ciangin amah leh mi honpi’ adingin kikhopna buk mai-ah na sem ding uh hi;
+**TDB77:** Amaute in biakbuk ah a sep-te ciangin amah leh mi honpi’ adingin kikhopna buk mai-ah na sem ding-te hi;
 
-**ZVS:** Amaute in biakbukah a sep uh ciangin amah leh mihonpi-a' dingin kikhopna buk mai-ah na sem ding uh hi.
+**ZVS:** Amaute in biakbukah a sep-te ciangin amah leh mihonpi-a' dingin kikhopna buk mai-ah na sem ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And they shall keep all the instruments of the tabernacle of the congregation, and the charge of the children of Israel, to do the service of the tabernacle.
 
-**TDB77:** amaute in kikhopna buk sung nazat khempeuh vaan ding uh a, biakbuk ah a sep uh ciangin Israel mite adingin na sem ding uh hi.
+**TDB77:** amaute in kikhopna buk sung nazat khempeuh vaan ding-te a, biakbuk ah a sep-te ciangin Israel mite adingin na sem ding-te hi.
 
-**ZVS:** Amaute in kikhopna buk sung nazat khempeuh vaan ding uh a, biakbukah a sep uh ciangin Israel mite-a' dingin na sem ding uh hi.
+**ZVS:** Amaute in kikhopna buk sung nazat khempeuh vaan ding-te a, biakbukah a sep-te ciangin Israel mite-a' dingin na sem ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -96,16 +96,16 @@
 
 **TDB77:** Nangmah in Aaron leh a tapate tungah Levi mite na pia ding hi; amaute pen Israel mite lak panin ama tungah a kipiate ahi hi.
 
-**ZVS:** Nangmah in Aaron leh a tapate' tungah Levi mite na pia ding a, amaute pen Israel mite lak panin keima tungah a kipiate hi ding uh hi.
+**ZVS:** Nangmah in Aaron leh a tapate' tungah Levi mite na pia ding a, amaute pen Israel mite lak panin keima tungah a kipiate hi ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
 ### v10
 **EN:** And thou shalt appoint Aaron and his sons, and they shall wait on their priest's office: and the stranger that cometh nigh shall be put to death.
 
-**TDB77:** Nangmah in Aaron leh a tapate na seh ding a, amaute in a siampi nasep uh don ding uh hi; ahih hangin midang khatpeuh a nai-ah a pai leh, tua mi kithat ding hi,” a ci hi.
+**TDB77:** Nangmah in Aaron leh a tapate na seh ding a, amaute in a siampi nasep-te don ding-te hi; ahih hangin midang khatpeuh a nai-ah a pai leh, tua mi kithat ding hi,” a ci hi.
 
-**ZVS:** Nangmah in Aaron leh a tapate na seh ding a, amaute in a siampi nasep uh don ding uh hi. Ahih hangin midang khatpeuh in siampi nasep a sep leh, tua mi kithat ding hi,” a ci hi.
+**ZVS:** Nangmah in Aaron leh a tapate na seh ding a, amaute in a siampi nasep-te don ding-te hi. Ahih hangin midang khatpeuh in siampi nasep a sep leh, tua mi kithat ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -189,14 +189,14 @@
 
 **TDB77:** Merari tapate’ min in: Mahli leh Mushi ahi hi. Hih mite in Levi mite beh lutang ahi hi.
 
-**ZVS:** Merari' tapate' min in: Mahli leh Mushi ahi hi. Hih mite pen Levi mite beh lutangte ahi uh hi.
+**ZVS:** Merari' tapate' min in: Mahli leh Mushi ahi hi. Hih mite pen Levi mite beh lutangte ahi-te hi.
 
 ### v21
 **EN:** Of Gershon was the family of the Libnites, and the family of the Shimites: these are the families of the Gershonites.
 
 **TDB77:** Gershon beh in Libni mite leh Shimei mite ahi hi; hihte in Gershonte beh ahi hi.
 
-**ZVS:** Gershon-te beh pen Libni mite leh Shimei mite hi a, hihte pen Gershon-te beh ahi uh hi.
+**ZVS:** Gershon-te beh pen Libni mite leh Shimei mite hi a, hihte pen Gershon-te beh ahi-te hi.
 
 ### v22
 **EN:** Those that were numbered of them, according to the number of all the males, from a month old and upward, even those that were numbered of them were seven thousand and five hundred.
@@ -210,7 +210,7 @@
 
 **TDB77:** Gershonte beh in nitumna lam biakbuk nungah giahphual satin,
 
-**ZVS:** Gershon-te beh in nitumna lam biakbuk nungah giahphual sat ding uh a,
+**ZVS:** Gershon-te beh in nitumna lam biakbuk nungah giahphual sat ding-te a,
 
 ### v24
 **EN:** And the chief of the house of the father of the Gershonites shall be Eliasaph the son of Lael.
@@ -256,7 +256,7 @@
 
 **TDB77:** Kohathte beh in biakbuk leitaw lam pangah giahphual satin,
 
-**ZVS:** Kohath-te beh in biakbuk leitaw lampangah giahphual sat ding uh a,
+**ZVS:** Kohath-te beh in biakbuk leitaw lampangah giahphual sat ding-te a,
 
 ### v30
 **EN:** And the chief of the house of the father of the families of the Kohathites shall be Elizaphan the son of Uzziel.
@@ -268,9 +268,9 @@
 ### v31
 **EN:** And their charge shall be the ark, and the table, and the candlestick, and the altars, and the vessels of the sanctuary wherewith they minister, and the hanging, and all the service thereof.
 
-**TDB77:** Amau’ et dingte in thuciamna singkuang, a sabuai, a meivakkhuam, a biak taute, siampite in nasepna-in a zat uh biakinn nazatte, kidalna puan leh hihte tawh a kizom na zat khempeuh ahi hi.
+**TDB77:** Amau’ et dingte in thuciamna singkuang, a sabuai, a meivakkhuam, a biak taute, siampite in nasepna-in a zat-te biakinn nazatte, kidalna puan leh hihte tawh a kizom na zat khempeuh ahi hi.
 
-**ZVS:** Amau' et dingte pen thuciamna singkuang, a sabuai, a meivakkhuam, a biakna taute, siampite in nasepna-in a zat uh biakbuk nazatte' kidalna puan leh hihte tawh a kizom nasep khempeuh ahi hi.
+**ZVS:** Amau' et dingte pen thuciamna singkuang, a sabuai, a meivakkhuam, a biakna taute, siampite in nasepna-in a zat-te biakbuk nazatte' kidalna puan leh hihte tawh a kizom nasep khempeuh ahi hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix
 
@@ -302,7 +302,7 @@
 
 **TDB77:** Merari-te beh sung pan a beh ukpi in Abihail’ tapa Zuriel ahi hi; amaute biakbuk leilu lam pangah giahphual sat dingte ahi hi.
 
-**ZVS:** Merari-te beh sung pan a beh ukpi pen Abihail' tapa Zuriel hi ding a, amaute pen biakbuk leilu lampangah giahphual a sat dingte ahi uh hi.
+**ZVS:** Merari-te beh sung pan a beh ukpi pen Abihail' tapa Zuriel hi ding a, amaute pen biakbuk leilu lampangah giahphual a sat dingte ahi-te hi.
 
 ### v36
 **EN:** And under the custody and charge of the sons of Merari shall be the boards of the tabernacle, and the bars thereof, and the pillars thereof, and the sockets thereof, and all the vessels thereof, and all that serveth thereto,
@@ -386,9 +386,9 @@
 ### v45
 **EN:** Take the Levites instead of all the firstborn among the children of Israel, and the cattle of the Levites instead of their cattle; and the Levites shall be mine: I am the
 
-**TDB77:** “Israel mite lakah tacil khempeuh leh a ganhingte uh tangdingin Levi mite leh a ganhingte uh la in; Levi mite keima’ aa hi ding hi: keimah in Topa ka hi hi.
+**TDB77:** “Israel mite lakah tacil khempeuh leh a ganhingte-te tangdingin Levi mite leh a ganhingte-te la in; Levi mite keima’ aa hi ding hi: keimah in Topa ka hi hi.
 
-**ZVS:** “Israel mite lakah tacil khempeuh leh a ganhingte uh tangdingin Levi mite leh a ganhingte uh la in. Levi mite keima-a' hi ding hi; kei pen { Topa } ka hi hi.
+**ZVS:** “Israel mite lakah tacil khempeuh leh a ganhingte-te tangdingin Levi mite leh a ganhingte-te la in. Levi mite keima-a' hi ding hi; kei pen { Topa } ka hi hi.
 
 **Grammar:** future: will
 
@@ -413,7 +413,7 @@
 ### v48
 **EN:** And thou shalt give the money, wherewith the odd number of them is to be redeemed, unto Aaron and to his sons.
 
-**TDB77:** tua a tamzaw teng a kitatna uh sumte Aaron leh a tapate tungah pia in,” a ci hi.
+**TDB77:** tua a tamzaw teng a kitatna-te sumte Aaron leh a tapate tungah pia in,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 

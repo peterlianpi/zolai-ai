@@ -28,9 +28,9 @@
 ### v1
 **EN:** Paul and Timothy, the servants of Jesus Christ, to all the saints in Christ Jesus which are at Philippi, with the bishops and deacons:
 
-**TDB77:** Khazih Zeisu’ silate ahi uh Paul leh Timoti in Filippi khua-ah a om pawlpi siate leh upate-a kipan Khazih Zeisu sungah kip-a a om misiangthote khempeuh thu kong zasak uh hi.
+**TDB77:** Khazih Zeisu’ silate ahi-te Paul leh Timoti in Filippi khua-ah a om pawlpi siate leh upate-a kipan Khazih Zeisu sungah kip-a a om misiangthote khempeuh thu kong zasak-te hi.
 
-**ZVS:** Jesuh Khrih' sila keimah Paul leh Timoti in Filippi khua-a om Khrih tawh a kipawl Pasian' mite, siate, leh upate khempeuh tungah lai ka hong khak uh hi.
+**ZVS:** Jesuh Khrih' sila keimah Paul leh Timoti in Filippi khua-a om Khrih tawh a kipawl Pasian' mite, siate, leh upate khempeuh tungah lai ka hong khak-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -51,7 +51,7 @@
 ### v5
 **EN:** For your fellowship in the gospel from the first day until now;
 
-**TDB77:** Note in lungdamna thu na zak ni uha kipanin tuni ciangdong, lungdamna thuhilh nasepna-ah kei na hong huhna uh hangin ka nuam mahmah a, note-a' dingin thu ka nget simin lungdam mahmahna tawh ka ngen tawntung hi.
+**TDB77:** Note in lungdamna thu na zak ni uha kipanin tuni ciangdong, lungdamna thuhilh nasepna-ah kei na hong huhna-te hangin ka nuam mahmah a, note-a' dingin thu ka nget simin lungdam mahmahna tawh ka ngen tawntung hi.
 
 **Grammar:** intensifier: very/greatly | purpose: in order to | reciprocal: ki- prefix
 
@@ -67,9 +67,9 @@
 ### v7
 **EN:** Even as it is meet for me to think this of you all, because I have you in my heart; inasmuch as both in my bonds, and in the defence and confirmation of the gospel, ye all are partakers of my grace.
 
-**TDB77:** Note khempeuh ading tua bang lungsim ka neih ding a kilawm hi. Bang hang hiam na cih uh leh, note khempeuh in keimah tawh thupha na ngah khawm uh a, keima thongkiatna-ah ahi zongin, Lungdamna Thu lamah hutna leh kipsakna-ah ahi zongin nong huh uh a, tua thu hangin note kong phawk tawntung hi.
+**TDB77:** Note khempeuh ading tua bang lungsim ka neih ding a kilawm hi. Bang hang hiam na cih-te leh, note khempeuh in keimah tawh thupha na ngah khawm-te a, keima thongkiatna-ah ahi zongin, Lungdamna Thu lamah hutna leh kipsakna-ah ahi zongin nong huh-te a, tua thu hangin note kong phawk tawntung hi.
 
-**ZVS:** Lungdamna thu hangin ka thongkiatna leh lungdamna thu man hi, ci-in pangin ka kipsakna ding hun ka ngahna-ah kei tawh a hong pangkhawm na hih manun ka lungsim sungah note na om tawntung uh a, hih zahta-in note ka hong phawkding a kilawm thu mah ahi hi.
+**ZVS:** Lungdamna thu hangin ka thongkiatna leh lungdamna thu man hi, ci-in pangin ka kipsakna ding hun ka ngahna-ah kei tawh a hong pangkhawm na hih manun ka lungsim sungah note na om tawntung-te a, hih zahta-in note ka hong phawkding a kilawm thu mah ahi hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -83,14 +83,14 @@
 ### v9
 **EN:** And this I pray, that your love may abound yet more and more in knowledge and in all judgment;
 
-**TDB77:** Note-a' ding deihsakna tawh thu ka hong ngetsak thu in: Note' lungsimah itna khang semsemin, a sia leh a pha a mantakin khenthei-in a hoihpen na teeltheihna ding uh ahi hi.
+**TDB77:** Note-a' ding deihsakna tawh thu ka hong ngetsak thu in: Note' lungsimah itna khang semsemin, a sia leh a pha a mantakin khenthei-in a hoihpen na teeltheihna ding-te ahi hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
 ### v10
 **EN:** That ye may approve things that are excellent; that ye may be sincere and without offence till the day of Christ;
 
-**TDB77:** Tua hi leh Khrih hong paikik ni ciangin paubaan'na omloin a siangtho na hi ding uh hi.
+**TDB77:** Tua hi leh Khrih hong paikik ni ciangin paubaan'na omloin a siangtho na hi ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
@@ -106,7 +106,7 @@
 
 **TDB77:** Ute naute aw, keimah tungah hong tung nate in Lungdamna Thu khaam lo tham loin, a khangsak zaw hi ci-in na theih nadingun ka deih hi.
 
-**ZVS:** Sanggamte aw, kei tungah a piang thu in lungdamna thu mai a nawtsakzaw ahihna thu na theihding uh ka deih hi.
+**ZVS:** Sanggamte aw, kei tungah a piang thu in lungdamna thu mai a nawtsakzaw ahihna thu na theihding-te ka deih hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
@@ -115,52 +115,52 @@
 
 **TDB77:** Tua ahih ciangin ka thongkiatna in Khazih hang ahi hi cih kumpipa a vil galkap khempeuh-a kipan midangte lakah a kilang hi.
 
-**ZVS:** Bang hang hiam cih leh Khrih nasem ka hihna hangin thongkia ka hihna thu, inncing galkapte-a kipanin mi khempeuh in a thei uh hi.
+**ZVS:** Bang hang hiam cih leh Khrih nasem ka hihna hangin thongkia ka hihna thu, inncing galkapte-a kipanin mi khempeuh in a thei-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
 ### v14
 **EN:** And many of the brethren in the Lord, waxing confident by my bonds, are much more bold to speak the word without fear.
 
-**TDB77:** Topa sungah a om ute naute lak pan a tampite in kei thuak khau kikhihna hangin thu-upna ah lungkimin lau loin, Pasian’ Thu a hilh ngam semsem uh hi.
+**TDB77:** Topa sungah a om ute naute lak pan a tampite in kei thuak khau kikhihna hangin thu-upna ah lungkimin lau loin, Pasian’ Thu a hilh ngam semsem-te hi.
 
-**ZVS:** Tua banah keima thongkiatna hangin hih lai-a om Khristiante a tamzaw in Topa muan'na-in nei uh a, lau hetloin Pasian' thu gen ngamna-in neizaw uh hi.
+**ZVS:** Tua banah keima thongkiatna hangin hih lai-a om Khristiante a tamzaw in Topa muan'na-in nei-te a, lau hetloin Pasian' thu gen ngamna-in neizaw-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** Some indeed preach Christ even of envy and strife; and some also of good will:
 
-**TDB77:** Mi kimkhatte in ki-en’na lungsim leh kitotna lungsim tawh Khazih’ thu a hilh uh hi.
+**TDB77:** Mi kimkhatte in ki-en’na lungsim leh kitotna lungsim tawh Khazih’ thu a hilh-te hi.
 
-**ZVS:** Mi pawlkhatte in ahih leh hong hazatna leh hong langpan' nopna tawh Khrih thu hilh uh a, ahi zongin mi pawlkhatte in lungsim hoihtak mah tawh a hilh uh hi.
+**ZVS:** Mi pawlkhatte in ahih leh hong hazatna leh hong langpan' nopna tawh Khrih thu hilh-te a, ahi zongin mi pawlkhatte in lungsim hoihtak mah tawh a hilh-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** The one preach Christ of contention, not sincerely, supposing to add affliction to my bonds:
 
-**TDB77:** Keimah in Lungdamna Thu hu dingin hong kikoih ka hihna thu kimkhatte in thei-in, ki-itna lungsim tawh a hilh uh hi.
+**TDB77:** Keimah in Lungdamna Thu hu dingin hong kikoih ka hihna thu kimkhatte in thei-in, ki-itna lungsim tawh a hilh-te hi.
 
-**ZVS:** Hih bang mite in, Pasian' hong sawlna tawh lungdamna thu ka hutna hangin thongkia ka hihna thu thei-in, itna lungsim tawh Pasian' thu a hilh uh hi.
+**ZVS:** Hih bang mite in, Pasian' hong sawlna tawh lungdamna thu ka hutna hangin thongkia ka hihna thu thei-in, itna lungsim tawh Pasian' thu a hilh-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** But the other of love, knowing that I am set for the defence of the gospel.
 
-**TDB77:** Kimkhat ahih uh leh, lungsim siangtho nei lo uh a, kihenna ka thuak lai takin hong gimsak behlap nuamin hanciam uh a, kitotna lungsim tawh Khazih’ thu a hilh uh hi.
+**TDB77:** Kimkhat ahih-te leh, lungsim siangtho nei lo-te a, kihenna ka thuak lai takin hong gimsak behlap nuamin hanciam-te a, kitotna lungsim tawh Khazih’ thu a hilh-te hi.
 
-**ZVS:** Pawlkhatte in ahih leh lungsim hoih tawh hiloin ka thongkiatna-ah na ka sak semsem theihna dingin kei hong demna-in Khrih thu a hilh uh hi.
+**ZVS:** Pawlkhatte in ahih leh lungsim hoih tawh hiloin ka thongkiatna-ah na ka sak semsem theihna dingin kei hong demna-in Khrih thu a hilh-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** What then? notwithstanding, every way, whether in pretence, or in truth, Christ is preached; and I therein do rejoice, yea, and will rejoice.
 
-**TDB77:** Tua bang ahih ciangin bang ci bang hiam? Kheemna tawh hi taleh, dikna tawh hi taleh bang ci bangin thuhilh ahi zongin Khazih thu a hilh uh hi. Tua ahih ciangin keimah in ka lungdam a, tunung ciangin zong ka lung a dam lai ding hi.
+**TDB77:** Tua bang ahih ciangin bang ci bang hiam? Kheemna tawh hi taleh, dikna tawh hi taleh bang ci bangin thuhilh ahi zongin Khazih thu a hilh-te hi. Tua ahih ciangin keimah in ka lungdam a, tunung ciangin zong ka lung a dam lai ding hi.
 
-**ZVS:** Ahi zongin phamawh ka sa kei hi. Lungsim hoih tawh a kihilh a, lungsimkhem tawh a kihilh ahi zongin, bangbang hita se leh Khrih' thu gen uh ahih nungsang, kei ka lungdam hi.
+**ZVS:** Ahi zongin phamawh ka sa kei hi. Lungsim hoih tawh a kihilh a, lungsimkhem tawh a kihilh ahi zongin, bangbang hita se leh Khrih' thu gen-te ahih nungsang, kei ka lungdam hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
@@ -217,14 +217,14 @@
 ### v25
 **EN:** And having this confidence, I know that I shall abide and continue with you all for your furtherance and joy of faith;
 
-**TDB77:** Hih thu a hoihpen ding hi, ci-in theitel ka hih manin note' khan'tohna ding leh upna hangin na lungdamna uh a khangsak dingin note ka hong hin'pih lai ding hi.
+**TDB77:** Hih thu a hoihpen ding hi, ci-in theitel ka hih manin note' khan'tohna ding leh upna hangin na lungdamna-te a khangsak dingin note ka hong hin'pih lai ding hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | future: will | causal: because | plural: uh marker
 
 ### v26
 **EN:** That your rejoicing may be more abundant in Jesus Christ for me by my coming to you again.
 
-**TDB77:** Tua ahih manin note kiangah ka hong hawhkik ciangin Jesuh Khrih tawh kipawlin na nuntakna uhah kei nong kisialhpihna ding uh thu tampi hong omlai ding hi.
+**TDB77:** Tua ahih manin note kiangah ka hong hawhkik ciangin Jesuh Khrih tawh kipawlin na nuntakna uhah kei nong kisialhpihna ding-te thu tampi hong omlai ding hi.
 
 **Grammar:** future: will | causal: because | reciprocal: ki- prefix | plural: uh marker
 
@@ -233,7 +233,7 @@
 
 **TDB77:** Note in galte hangin lau loin, lungsim kha khatah kipin, Lungdamna Thu tawh kipawl upna ading, lungsim kituakin na hahkatna uh, ka hong tun’ ciangin note tawh kimu-in ahi zongin, a kikhenin i om ahi zongin ka zak theih nadingin Khazih’ Lungdamna Thu tawh akilawm akituakin gamtat ding na hanciam un.
 
-**ZVS:** Note tawh a omkhawm dingin ka hong paithei a, ka hong paithei kei zongin note in lungdamna thu tawh kipawl upna thu-ah ngimna kikhatin kiptakin na omna ding uh leh deihna kikhatin na dokhawmna thu uh ka zak theihna dingin Khrih hanga lungdamna thu tawh a kilawm a kituakin na nuntak ding uh a thupi pen ahi hi.
+**ZVS:** Note tawh a omkhawm dingin ka hong paithei a, ka hong paithei kei zongin note in lungdamna thu tawh kipawl upna thu-ah ngimna kikhatin kiptakin na omna ding-te leh deihna kikhatin na dokhawmna thu-te ka zak theihna dingin Khrih hanga lungdamna thu tawh a kilawm a kituakin na nuntak ding-te a thupi pen ahi hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
@@ -242,21 +242,21 @@
 
 **TDB77:** Tua bangin galte hangah lau lohna in amaute’ adingin kisiat nading lim ahi hi; note’ adingin ahih leh, Pasian’ vaihawmna bangin gupna lim ahi hi.
 
-**ZVS:** Note a hong gualzosak dingpa pen Pasian ahih manin na galte uh na kihta kei un. Hangtakin om tawntung le uh cin, note a gualzo ding hi-in, na galte uh a guallel ding ahihna thu, na galte un hong thei ding hi.
+**ZVS:** Note a hong gualzosak dingpa pen Pasian ahih manin na galte-te na kihta kei un. Hangtakin om tawntung le-te cin, note a gualzo ding hi-in, na galte-te a guallel ding ahihna thu, na galte un hong thei ding hi.
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix
 
 ### v29
 **EN:** For unto you it is given in the behalf of Christ, not only to believe on him, but also to suffer for his sake;
 
-**TDB77:** Bang hang hiam cih leh Khrih' na sepna ding hunpha zong note tungah a hong kipia hi a, Khrih upna tawh ama na a sem hi bek loin, thuakna tawh zong a sem ding na hi uh hi.
+**TDB77:** Bang hang hiam cih leh Khrih' na sepna ding hunpha zong note tungah a hong kipia hi a, Khrih upna tawh ama na a sem hi bek loin, thuakna tawh zong a sem ding na hi-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v30
 **EN:** Having the same conflict which ye saw in me, and now hear to be in me.
 
-**TDB77:** Tua ahih ciangin tu-in note in na hong muh uh ka galdona leh tu mahmahin ka do lailai na zak uh thute-ah kei na hong dopih thei ding uh hi.
+**TDB77:** Tua ahih ciangin tu-in note in na hong muh-te ka galdona leh tu mahmahin ka do lailai na zak-te thute-ah kei na hong dopih thei ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | future: will | plural: uh marker
 

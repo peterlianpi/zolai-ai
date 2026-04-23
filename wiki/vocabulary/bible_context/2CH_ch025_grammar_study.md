@@ -107,9 +107,9 @@
 ### v10
 **EN:** Then Amaziah separated them, to wit, the army that was come to him out of Ephraim, to go home again: wherefore their anger was greatly kindled against Judah, and they returned home in great anger.
 
-**TDB77:** Tua ciangin Amaziah in Efraim panin hong pai galkapte innah a ciahkik dingin paikhia sak hi. Tua ciangin Judah mite tungah amaute heh mahmah uh a, heh mahmahna tawh innah ciahkik uh hi.
+**TDB77:** Tua ciangin Amaziah in Efraim panin hong pai galkapte innah a ciahkik dingin paikhia sak hi. Tua ciangin Judah mite tungah amaute heh mahmah-te a, heh mahmahna tawh innah ciahkik-te hi.
 
-**ZVS:** Tua ciangin Amaziah in Efraim panin hong pai galkapte, inn-ah a ciahkik dingin a paikhiasak hi. Tua ciangin Judah mite tungah amaute heh mahmah uh a, heh mahmahna tawh inn-ah a ciahkik uh hi.
+**ZVS:** Tua ciangin Amaziah in Efraim panin hong pai galkapte, inn-ah a ciahkik dingin a paikhiasak hi. Tua ciangin Judah mite tungah amaute heh mahmah-te a, heh mahmahna tawh inn-ah a ciahkik-te hi.
 
 **Grammar:** sequence: then/therefore | intensifier: very/greatly | purpose: in order to | plural: uh marker
 
@@ -125,18 +125,18 @@
 ### v12
 **EN:** And other ten thousand left alive did the children of Judah carry away captive, and brought them unto the top of the rock, and cast them down from the top of the rock, that they all were broken in pieces.
 
-**TDB77:** Judah mite in a dang tulsawm hing mat uh a, suangpi dawn khatah amaute paipihin suangpi dawn panin amaute lawnsuk uh hi; amaute khempeuh them len’ hi.
+**TDB77:** Judah mite in a dang tulsawm hing mat-te a, suangpi dawn khatah amaute paipihin suangpi dawn panin amaute lawnsuk-te hi; amaute khempeuh them len’ hi.
 
-**ZVS:** Adang tul sawm hingmat uh a, keen sang dawn khatah amaute paipihin tua keen dawn panin amaute lawnsuk uh a, amaute khempeuh themlen' hi.
+**ZVS:** Adang tul sawm hingmat-te a, keen sang dawn khatah amaute paipihin tua keen dawn panin amaute lawnsuk-te a, amaute khempeuh themlen' hi.
 
 **Grammar:** plural: uh marker
 
 ### v13
 **EN:** But the soldiers of the army which Amaziah sent back, that they should not go with him to battle, fell upon the cities of Judah, from Samaria even unto Beth–horon, and smote three thousand of them, and took much spoil.
 
-**TDB77:** Ahih hangin Amaziah in gal sungah amah tawh pai sak loin, innah a sawl kik galkap mite in Samaria panin Bethhoron dong Judah khuapite na sim uh a, tuate sungah mi tulthum thatin van tampi la uh hi.
+**TDB77:** Ahih hangin Amaziah in gal sungah amah tawh pai sak loin, innah a sawl kik galkap mite in Samaria panin Bethhoron dong Judah khuapite na sim-te a, tuate sungah mi tulthum thatin van tampi la-te hi.
 
-**ZVS:** Ahih hangin Amaziah in gal sungah amah tawh kuansak loin, inn-ah a sawlkik galkapte in Samaria panin Bethhoron dong Judah khuapite na sim uh a, tuate sungah mi tul thum thatin van tampi a la uh hi.
+**ZVS:** Ahih hangin Amaziah in gal sungah amah tawh kuansak loin, inn-ah a sawlkik galkapte in Samaria panin Bethhoron dong Judah khuapite na sim-te a, tuate sungah mi tul thum thatin van tampi a la-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -161,9 +161,9 @@
 ### v16
 **EN:** And it came to pass, as he talked with him, that the king said unto him, Art thou made of the king's counsel? forbear; why shouldest thou be smitten? Then the prophet forbare, and said, I know that God hath determined to destroy thee, because thou hast done this, and hast not hearkened unto my counsel.
 
-**TDB77:** Ahih hangin amah in thu a gen lai takin kumpipa in ama kiangah, “Kumpi tungah ngaihsutna a pia dingin nang hong koih ka hi uh hiam? Khawl in! Bang hangin nang hong kithat ding ahi hiam?” a ci hi. Tua ahih ciangin kamsangpa khawl a, ahih hangin, “Nangmah in hih bang gamta-in ka thugenna ngai lo na hih manin Pasian in nang hong suksiat ding a lungsim a khentatna ka thei hi,” a ci hi.
+**TDB77:** Ahih hangin amah in thu a gen lai takin kumpipa in ama kiangah, “Kumpi tungah ngaihsutna a pia dingin nang hong koih ka hi-te hiam? Khawl in! Bang hangin nang hong kithat ding ahi hiam?” a ci hi. Tua ahih ciangin kamsangpa khawl a, ahih hangin, “Nangmah in hih bang gamta-in ka thugenna ngai lo na hih manin Pasian in nang hong suksiat ding a lungsim a khentatna ka thei hi,” a ci hi.
 
-**ZVS:** Ahih hangin amah in thu a gen laitakin kumpipa in ama kiangah, “Kumpipa tungah ngaihsutna a pia dingin nang hong koih ka hi uh hiam? Khawl in! Bang hangin nang hong kithat ding ahi hiam?” a ci hi. Tua ahih ciangin kamsangpa khawl a, ahih hangin ama kiangah, “Hih bang gamta-in ka thugenna ngailo na hih manin Pasian in nang hong suksiat ding a lungsim a khentatna ka thei hi,” a ci hi.
+**ZVS:** Ahih hangin amah in thu a gen laitakin kumpipa in ama kiangah, “Kumpipa tungah ngaihsutna a pia dingin nang hong koih ka hi-te hiam? Khawl in! Bang hangin nang hong kithat ding ahi hiam?” a ci hi. Tua ahih ciangin kamsangpa khawl a, ahih hangin ama kiangah, “Hih bang gamta-in ka thugenna ngailo na hih manin Pasian in nang hong suksiat ding a lungsim a khentatna ka thei hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | causal: because | reciprocal: ki- prefix
 
@@ -199,25 +199,25 @@
 
 **TDB77:** Ahih hangin Amaziah in mang lo hi; bang hang hiam cih leh amaute in Edom pasiante bia ahih manin, Pasian in amau’ galte khut sungah amaute a piak theih nadingin tua in Pasian’ vaihawmna ahi hi.
 
-**ZVS:** Ahih hangin Amaziah in manglo hi; bang hang hiam cih leh amaute in Edom pasian-te bia uh ahih manin, Pasian in amau' galte' khutsungah amaute a piaktheihna dingin tua pen Pasian' vaihawmna ahi hi.
+**ZVS:** Ahih hangin Amaziah in manglo hi; bang hang hiam cih leh amaute in Edom pasian-te bia-te ahih manin, Pasian in amau' galte' khutsungah amaute a piaktheihna dingin tua pen Pasian' vaihawmna ahi hi.
 
 **Grammar:** purpose: in order to | negation: lo | causal: because
 
 ### v21
 **EN:** So Joash the king of Israel went up; and they saw one another in the face, both he and Amaziah king of Judah, at Beth–shemesh, which belongeth to Judah.
 
-**TDB77:** Tua ahih ciangin Israel kumpipa Joash kuanto hi; tua ahih ciangin Judahte’ gam Bethshemesh ah amah leh Judah kumpipa Amaziah khat leh khat gal sungah kimaituah uh hi.
+**TDB77:** Tua ahih ciangin Israel kumpipa Joash kuanto hi; tua ahih ciangin Judahte’ gam Bethshemesh ah amah leh Judah kumpipa Amaziah khat leh khat gal sungah kimaituah-te hi.
 
-**ZVS:** Tua ahih ciangin Israel kumpipa Joash kuanto a, Judah-te' gam Bethshemesh-ah amah leh Judah kumpipa Amaziah khatlekhat gal sungah kisi uh hi.
+**ZVS:** Tua ahih ciangin Israel kumpipa Joash kuanto a, Judah-te' gam Bethshemesh-ah amah leh Judah kumpipa Amaziah khatlekhat gal sungah kisi-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 
 ### v22
 **EN:** And Judah was put to the worse before Israel, and they fled every man to his tent.
 
-**TDB77:** Tua ciangin Israel mite in Judah mite zo-a, mi khempeuh a inn uhah tai uh hi.
+**TDB77:** Tua ciangin Israel mite in Judah mite zo-a, mi khempeuh a inn uhah tai-te hi.
 
-**ZVS:** Tua ciangin Israel mite in Judah mite zo a, mi khempeuh a inn uhah a tai uh hi.
+**ZVS:** Tua ciangin Israel mite in Judah mite zo a, mi khempeuh a inn uhah a tai-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
@@ -258,9 +258,9 @@
 ### v27
 **EN:** Now after the time that Amaziah did turn away from following the
 
-**TDB77:** Topa kiang panin amah a kiheikhiat a, kipanin amaute in amah sawmsimna khat Jerusalem ah bawl uh a, tua ciangin Lakhish ah amah nungdelh sak uh a, tua lai-ah amah that uh hi.
+**TDB77:** Topa kiang panin amah a kiheikhiat a, kipanin amaute in amah sawmsimna khat Jerusalem ah bawl-te a, tua ciangin Lakhish ah amah nungdelh sak-te a, tua lai-ah amah that-te hi.
 
-**ZVS:** { Topa } kiang panin amah a kihei khiata kipanin amaute in amah sawmsimna khat Jerusalem-ah nei uh ahih ciangin Lakhish-ah amah tai hi. Ahih hangin amaute in Lakhish-ah amah nungdelh sak uh a, tua lai-ah amah that uh hi.
+**ZVS:** { Topa } kiang panin amah a kihei khiata kipanin amaute in amah sawmsimna khat Jerusalem-ah nei-te ahih ciangin Lakhish-ah amah tai hi. Ahih hangin amaute in Lakhish-ah amah nungdelh sak-te a, tua lai-ah amah that-te hi.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix | plural: uh marker
 

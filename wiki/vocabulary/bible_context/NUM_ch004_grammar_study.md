@@ -52,106 +52,106 @@
 
 **TDB77:** Kikhopna buk sungah Kohath mite nasep ding in a siangtho pen nate ahi hi.
 
-**ZVS:** Kikhopna buk sungah Kohath mite in a siangthopen nate tawh kisai nasepte sem ding uh hi.
+**ZVS:** Kikhopna buk sungah Kohath mite in a siangthopen nate tawh kisai nasepte sem ding-te hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v5
 **EN:** And when the camp setteth forward, Aaron shall come, and his sons, and they shall take down the covering veil, and cover the ark of testimony with it:
 
-**TDB77:** Giahphual a kisuan ding ciangin, Aaron leh a tapate tumin kidalna puan khia ding uh a, tua puan tawh teci pan’na singkuang tun ding uh hi;
+**TDB77:** Giahphual a kisuan ding ciangin, Aaron leh a tapate tumin kidalna puan khia ding-te a, tua puan tawh teci pan’na singkuang tun ding-te hi;
 
-**ZVS:** “Giahphual a kisuan ding ciangin Aaron leh a tapate tumin kidalna puan lakhia ding uh a, tua puan tawh thuciamna singkuang tun ding uh hi.
+**ZVS:** “Giahphual a kisuan ding ciangin Aaron leh a tapate tumin kidalna puan lakhia ding-te a, tua puan tawh thuciamna singkuang tun ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v6
 **EN:** And shall put thereon the covering of badgers' skins, and shall spread over it a cloth wholly of blue, and shall put in the staves thereof.
 
-**TDB77:** tua ciangin amaute in savun tawh tuam ding uh a, tua tungah puan a dum tawh khuhin, a zawlte bulh ding uh hi.
+**TDB77:** tua ciangin amaute in savun tawh tuam ding-te a, tua tungah puan a dum tawh khuhin, a zawlte bulh ding-te hi.
 
-**ZVS:** Tua ciangin amaute in savun tawh tuam ding uh a, tua tungah puan a dum tawh khuhin, a zawlte bulh ding uh hi.
+**ZVS:** Tua ciangin amaute in savun tawh tuam ding-te a, tua tungah puan a dum tawh khuhin, a zawlte bulh ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v7
 **EN:** And upon the table of shewbread they shall spread a cloth of blue, and put thereon the dishes, and the spoons, and the bowls, and covers to cover withal: and the continual bread shall be thereon:
 
-**TDB77:** Ompihna Anlum sabuai tungah amaute in puan a dum phah ding uh a, tua tungah a kuangdaite, paknamtui pakante, kuang-ukte, tuibuahna thawl gongbakte koih ding uh hi; a kikoih tawntung anlum zong a tungah om ding hi;
+**TDB77:** Ompihna Anlum sabuai tungah amaute in puan a dum phah ding-te a, tua tungah a kuangdaite, paknamtui pakante, kuang-ukte, tuibuahna thawl gongbakte koih ding-te hi; a kikoih tawntung anlum zong a tungah om ding hi;
 
-**ZVS:** “Ompihna Anlum sabuai tungah amaute in puan a dum phah ding uh a, tua tungah a kuangdaite, paknamtui pakante, kuang-ukte, leh tuibuahna thawl gongbakte koih ding uh a, a kikoih tawntung anlum zong a tungah om ding hi.
+**ZVS:** “Ompihna Anlum sabuai tungah amaute in puan a dum phah ding-te a, tua tungah a kuangdaite, paknamtui pakante, kuang-ukte, leh tuibuahna thawl gongbakte koih ding-te a, a kikoih tawntung anlum zong a tungah om ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** And they shall spread upon them a cloth of scarlet, and cover the same with a covering of badgers' skins, and shall put in the staves thereof.
 
-**TDB77:** tua ciangin amaute in a ausan puan tawh tuate khuh ding uh a, savun tawh khuh thuahin, a zawlte bulh ding uh hi.
+**TDB77:** tua ciangin amaute in a ausan puan tawh tuate khuh ding-te a, savun tawh khuh thuahin, a zawlte bulh ding-te hi.
 
-**ZVS:** Tua ciangin amaute in a ausan puan tawh tuate khuh ding uh a, savun tawh khuh thuahin, a zawlte bulh ding uh hi.
+**ZVS:** Tua ciangin amaute in a ausan puan tawh tuate khuh ding-te a, savun tawh khuh thuahin, a zawlte bulh ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | plural: uh marker
 
 ### v9
 **EN:** And they shall take a cloth of blue, and cover the candlestick of the light, and his lamps, and his tongs, and his snuffdishes, and all the oil vessels thereof, wherewith they minister unto it:
 
-**TDB77:** Mei vakna meivak khuam pen, a meivakte, a taitehte, a kuangte, leh sathau piakna nazatte khempeuh tawh puan a dum khat-in tun ding uh hi:
+**TDB77:** Mei vakna meivak khuam pen, a meivakte, a taitehte, a kuangte, leh sathau piakna nazatte khempeuh tawh puan a dum khat-in tun ding-te hi:
 
-**ZVS:** “Mei vakna meikhuam pen, a meivakte, a taitehte, a kuangte, leh sathau piakna nazatte khempeuh tawh puan a dum khatin tun ding uh hi.
+**ZVS:** “Mei vakna meikhuam pen, a meivakte, a taitehte, a kuangte, leh sathau piakna nazatte khempeuh tawh puan a dum khatin tun ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v10
 **EN:** And they shall put it and all the vessels thereof within a covering of badgers' skins, and shall put it upon a bar.
 
-**TDB77:** amaute in a nazat khempeuh tawh savun-in tunin a puak nading tal tungah koih ding uh hi.
+**TDB77:** amaute in a nazat khempeuh tawh savun-in tunin a puak nading tal tungah koih ding-te hi.
 
-**ZVS:** Amaute in a nazat khempeuh savun-in tunin a puakna ding tal tungah koih ding uh hi.
+**ZVS:** Amaute in a nazat khempeuh savun-in tunin a puakna ding tal tungah koih ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v11
 **EN:** And upon the golden altar they shall spread a cloth of blue, and cover it with a covering of badgers' skins, and shall put to the staves thereof:
 
-**TDB77:** Puan a dum khat tawh kham biakna tau khuh ding uh a, savun tawh tua mah tuam thuahin, a zawlte bulh ding uh hi;
+**TDB77:** Puan a dum khat tawh kham biakna tau khuh ding-te a, savun tawh tua mah tuam thuahin, a zawlte bulh ding-te hi;
 
-**ZVS:** “Puan a dum khat tawh kham biakna tau khuh ding uh a, savun tawh tua mah tuam thuahin, a zawlte bulh ding uh hi.
+**ZVS:** “Puan a dum khat tawh kham biakna tau khuh ding-te a, savun tawh tua mah tuam thuahin, a zawlte bulh ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v12
 **EN:** And they shall take all the instruments of ministry, wherewith they minister in the sanctuary, and put them in a cloth of blue, and cover them with a covering of badgers' skins, and shall put them on a bar:
 
-**TDB77:** amaute in biakinn sungah a kizang nazat khempeuh la-in puan a dum khat tawh tunin, savun tawh tuate tun thuah ding uh a, a puak nading tal tungah koih ding uh hi.
+**TDB77:** amaute in biakinn sungah a kizang nazat khempeuh la-in puan a dum khat tawh tunin, savun tawh tuate tun thuah ding-te a, a puak nading tal tungah koih ding-te hi.
 
-**ZVS:** Amaute in biakbuk sungah a kizang nazat khempeuh la-in puan dum khat tawh tunin, savun tawh tuate tun thuah ding uh a, a puakna ding tal tungah koih ding uh hi.
+**ZVS:** Amaute in biakbuk sungah a kizang nazat khempeuh la-in puan dum khat tawh tunin, savun tawh tuate tun thuah ding-te a, a puakna ding tal tungah koih ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v13
 **EN:** And they shall take away the ashes from the altar, and spread a purple cloth thereon:
 
-**TDB77:** Amaute in a sumngo biakna tau panin a vutte luak khia ding uh a, a tungah puan a dupsan khat phah ding uh hi;
+**TDB77:** Amaute in a sumngo biakna tau panin a vutte luak khia ding-te a, a tungah puan a dupsan khat phah ding-te hi;
 
-**ZVS:** Amaute in a biakna tau panin a vutte luakkhia ding uh a, a tungah puan a dupsan khat phah ding uh hi.
+**ZVS:** Amaute in a biakna tau panin a vutte luakkhia ding-te a, a tungah puan a dupsan khat phah ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v14
 **EN:** And they shall put upon it all the vessels thereof, wherewith they minister about it, even the censers, the fleshhooks, and the shovels, and the basins, all the vessels of the altar; and they shall spread upon it a covering of badgers' skins, and put to the staves of it.
 
-**TDB77:** tua lai-ah nasep nadinga a kizang, biakna tau nazat khempeuh, a vut luahna peek, a tu-ka, a kawbia, leh a kuang, biakna tau nazat khempeuh, a tungah koih ding uh hi; tua tungah savun tawh tuam ding uh a, a zawlte bulh ding uh hi.
+**TDB77:** tua lai-ah nasep nadinga a kizang, biakna tau nazat khempeuh, a vut luahna peek, a tu-ka, a kawbia, leh a kuang, biakna tau nazat khempeuh, a tungah koih ding-te hi; tua tungah savun tawh tuam ding-te a, a zawlte bulh ding-te hi.
 
-**ZVS:** Tua lai-ah nasepna dinga a kizang, biakna tau nazat khempeuh, a vutluahna peek, a tu-ka, a kawbia, leh a kuang, biakna tau nazat khempeuh, a tungah koihin, tua tungah savun tawh tuam ding uh a, a zawlte bulh ding uh hi.
+**ZVS:** Tua lai-ah nasepna dinga a kizang, biakna tau nazat khempeuh, a vutluahna peek, a tu-ka, a kawbia, leh a kuang, biakna tau nazat khempeuh, a tungah koihin, tua tungah savun tawh tuam ding-te a, a zawlte bulh ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v15
 **EN:** And when Aaron and his sons have made an end of covering the sanctuary, and all the vessels of the sanctuary, as the camp is to set forward; after that, the sons of Kohath shall come to bear it: but they shall not touch any holy thing, lest they die. These things are the burden of the sons of Kohath in the tabernacle of the congregation.
 
-**TDB77:** Aaron leh a tapate in biakinn leh biakinn nazat khempeuh a tun khit uh giahphual a kisuan ding ciangin, tuate a pua dingin Kohath mite pai ding uh a, ahih hangin amaute in a siangtho nate lawng kha lo ding uh hi; lawng leh si ding uh hi. Hihte in Kohath’ mite puak ding kikhopna buk nate ahi hi.
+**TDB77:** Aaron leh a tapate in biakinn leh biakinn nazat khempeuh a tun khit-te giahphual a kisuan ding ciangin, tuate a pua dingin Kohath mite pai ding-te a, ahih hangin amaute in a siangtho nate lawng kha lo ding-te hi; lawng leh si ding-te hi. Hihte in Kohath’ mite puak ding kikhopna buk nate ahi hi.
 
-**ZVS:** Aaron leh a tapate in biakbuk leh biakbuk nazat khempeuh a tun khit uh giahphual a kisuan ciangin, tuate a pua dingin Kohath mite hong pai ding uh a, ahih hangin amaute in a siangtho nate lawngkhalo ding uh hi; lawng le-uh si ding uh hi. Hihte pen Kohath mite' puak ding kikhopna buk nate ahi hi.
+**ZVS:** Aaron leh a tapate in biakbuk leh biakbuk nazat khempeuh a tun khit-te giahphual a kisuan ciangin, tuate a pua dingin Kohath mite hong pai ding-te a, ahih hangin amaute in a siangtho nate lawngkhalo ding-te hi; lawng le-uh si ding-te hi. Hihte pen Kohath mite' puak ding kikhopna buk nate ahi hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -185,18 +185,18 @@
 ### v19
 **EN:** But thus do unto them, that they may live, and not die, when they approach unto the most holy things: Aaron and his sons shall go in, and appoint them every one to his service and to his burden:
 
-**TDB77:** a siangtho pen nate nai-ah amaute a pai ciangin si loin a hin’ na dingun hih un: Aaron leh a tapate pai-in a nasep ding uh leh a van puak ding ciat uhah amaute seh ding uh hi,
+**TDB77:** a siangtho pen nate nai-ah amaute a pai ciangin si loin a hin’ na dingun hih un: Aaron leh a tapate pai-in a nasep ding-te leh a van puak ding ciat uhah amaute seh ding-te hi,
 
-**ZVS:** A siangthopen nate nai-ah amaute a pai ciangun siloin a hin'na dingun hih un. Aaron leh a tapate pai-in a nasep ding uh leh a van puak ding ciat uhah amaute seh ding uh hi.
+**ZVS:** A siangthopen nate nai-ah amaute a pai ciangun siloin a hin'na dingun hih un. Aaron leh a tapate pai-in a nasep ding-te leh a van puak ding ciat uhah amaute seh ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v20
 **EN:** But they shall not go in to see when the holy things are covered, lest they die.
 
-**TDB77:** ahih hangin a siangtho nate tom khano sung bek nangawn a en dingin amaute tum lo ding uh hi, tum leh si ding uh hi,” a ci hi.
+**TDB77:** ahih hangin a siangtho nate tom khano sung bek nangawn a en dingin amaute tum lo ding-te hi, tum leh si ding-te hi,” a ci hi.
 
-**ZVS:** Ahih hangin a siangtho nate tomkhano sung bek nangawn a en dingin amaute tumlo ding uh hi; tum le-uh si ding uh hi,” a ci hi.
+**ZVS:** Ahih hangin a siangtho nate tomkhano sung bek nangawn a en dingin amaute tumlo ding-te hi; tum le-uh si ding-te hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | purpose: in order to | future: will | plural: uh marker
 
@@ -246,18 +246,18 @@
 ### v26
 **EN:** And the hangings of the court, and the hanging for the door of the gate of the court, which is by the tabernacle and by the altar round about, and their cords, and all the instruments of their service, and all that is made for them: so shall they serve.
 
-**TDB77:** buktual-a a kikhaite, biakbuk leh biakna tau kimkotah a om buktual kongpi puankhaite, a khaute, leh amau’ nasepna dinga nazat khempeuh pua ding uh hi; amaute in tuate tawh a kizom nasep kisam khempeuh sem ding uh hi.
+**TDB77:** buktual-a a kikhaite, biakbuk leh biakna tau kimkotah a om buktual kongpi puankhaite, a khaute, leh amau’ nasepna dinga nazat khempeuh pua ding-te hi; amaute in tuate tawh a kizom nasep kisam khempeuh sem ding-te hi.
 
-**ZVS:** buktuala puan kikhaite, biakbuk leh biakna tau kimkotah a om buktual kongpi puankhaite, a khaute, leh amau' nasepna dinga nazat khempeuh pua ding uh a, amaute in tuate tawh a kizom nasep kisam khempeuh sem ding uh hi.
+**ZVS:** buktuala puan kikhaite, biakbuk leh biakna tau kimkotah a om buktual kongpi puankhaite, a khaute, leh amau' nasepna dinga nazat khempeuh pua ding-te a, amaute in tuate tawh a kizom nasep kisam khempeuh sem ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v27
 **EN:** At the appointment of Aaron and his sons shall be all the service of the sons of the Gershonites, in all their burdens, and in all their service: and ye shall appoint unto them in charge all their burdens.
 
-**TDB77:** Gershon beh pasalte nasep ding, a puak ding leh a hih dingte khempeuh uh Aaron leh a tapate’ thupiakna bang hi ding hi; a puak ding khempeuh uh amaute na ap ding hi.
+**TDB77:** Gershon beh pasalte nasep ding, a puak ding leh a hih dingte khempeuh-te Aaron leh a tapate’ thupiakna bang hi ding hi; a puak ding khempeuh-te amaute na ap ding hi.
 
-**ZVS:** Gershon beh pasalte' nasep ding, a puak ding leh a hih dingte khempeuh uh Aaron leh a tapate' thupiakna bang hi ding a, a puak ding khempeuh uh amaute na ap ding uh hi.
+**ZVS:** Gershon beh pasalte' nasep ding, a puak ding leh a hih dingte khempeuh-te Aaron leh a tapate' thupiakna bang hi ding a, a puak ding khempeuh-te amaute na ap ding-te hi.
 
 **Grammar:** future: will
 
@@ -309,9 +309,9 @@
 ### v33
 **EN:** This is the service of the families of the sons of Merari, according to all their service, in the tabernacle of the congregation, under the hand of Ithamar the son of Aaron the priest.
 
-**TDB77:** Hih in siampi Aaron’ tapa Ithamar’ khut nuai-ah Merari mite in kikhopna buk sungah a sep ding teng uh ahi hi,” a ci hi.
+**TDB77:** Hih in siampi Aaron’ tapa Ithamar’ khut nuai-ah Merari mite in kikhopna buk sungah a sep ding teng-te ahi hi,” a ci hi.
 
-**ZVS:** Hih pen siampi Aaron' tapa Ithamar' khutnuai-ah Merari mite in kikhopna buk sungah a sep ding teng uh ahi hi,” a ci hi.
+**ZVS:** Hih pen siampi Aaron' tapa Ithamar' khutnuai-ah Merari mite in kikhopna buk sungah a sep ding teng-te ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | reciprocal: ki- prefix
 
@@ -325,7 +325,7 @@
 ### v35
 **EN:** From thirty years old and upward even unto fifty years old, every one that entereth into the service, for the work in the tabernacle of the congregation:
 
-**TDB77:** kikhopna buk sungah na sem dingin na sem thei ding kum sawmthum pan kum sawmnga a pha mi khempeuh a sim uh hi;
+**TDB77:** kikhopna buk sungah na sem dingin na sem thei ding kum sawmthum pan kum sawmnga a pha mi khempeuh a sim-te hi;
 
 **Grammar:** purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
@@ -391,7 +391,7 @@
 ### v45
 **EN:** These be those that were numbered of the families of the sons of Merari, whom Moses and Aaron numbered according to the word of the
 
-**TDB77:** Topa in Moses a thupiakna bangin Moses leh Aaron in a sim, Merari beh in hih zah ahi uh hi.
+**TDB77:** Topa in Moses a thupiakna bangin Moses leh Aaron in a sim, Merari beh in hih zah ahi-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -419,9 +419,9 @@
 ### v49
 **EN:** According to the commandment of the
 
-**TDB77:** Moses tung tawnin Topa’ thupiakna bangin a sep ding a puak ding ciat uh kiseh hi; Moses in Topa’ thupiak bangin amaute sim hi.
+**TDB77:** Moses tung tawnin Topa’ thupiakna bangin a sep ding a puak ding ciat-te kiseh hi; Moses in Topa’ thupiak bangin amaute sim hi.
 
-**ZVS:** Moses' tung tawnin { Topa' } thupiakna bangin a sep ding a puak ding ciat uh kiseh a, { Topa' } thupiak bangin Moses in amaute a sim hi.
+**ZVS:** Moses' tung tawnin { Topa' } thupiakna bangin a sep ding a puak ding ciat-te kiseh a, { Topa' } thupiak bangin Moses in amaute a sim hi.
 
 **Grammar:** reciprocal: ki- prefix
 

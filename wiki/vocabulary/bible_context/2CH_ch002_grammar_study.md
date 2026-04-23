@@ -87,7 +87,7 @@
 ### v9
 **EN:** Even to prepare me timber in abundance: for the house which I am about to build shall be wonderful great.
 
-**TDB77:** Taamtak, taaksan, leh cingsing zong, Lebanon panin hong puak in; bang hang hiam cih leh na nasemte in Lebanon sing phuk ding zia a theihna ka thei hi. Tua ahih ciangin kei-a' dingin sing tampi a sem dingin nangma nasemte pen keima nasemte tawh om ding uh hi; bang hang hiam cih leh ka lam ding biakinn pen lianin lamdang ding hi.
+**TDB77:** Taamtak, taaksan, leh cingsing zong, Lebanon panin hong puak in; bang hang hiam cih leh na nasemte in Lebanon sing phuk ding zia a theihna ka thei hi. Tua ahih ciangin kei-a' dingin sing tampi a sem dingin nangma nasemte pen keima nasemte tawh om ding-te hi; bang hang hiam cih leh ka lam ding biakinn pen lianin lamdang ding hi.
 
 **Grammar:** sequence: then/therefore | purpose: in order to | future: will | plural: uh marker
 
@@ -137,9 +137,9 @@
 ### v16
 **EN:** And we will cut wood out of Lebanon, as much as thou shalt need: and we will bring it to thee in floats by sea to Joppa; and thou shalt carry it up to Jerusalem.
 
-**TDB77:** tua ciangin na kisap sing peuhmah Lebanon panin kong phuk ding uh a, nangmah in Jerusalem ah na puaktoh theih nadingin phong-in tuipi tungah Joppa dong nang kiangah kong paipih ding uh hi,” zong ci lai hi.
+**TDB77:** tua ciangin na kisap sing peuhmah Lebanon panin kong phuk ding-te a, nangmah in Jerusalem ah na puaktoh theih nadingin phong-in tuipi tungah Joppa dong nang kiangah kong paipih ding-te hi,” zong ci lai hi.
 
-**ZVS:** Tua ciangin na kisap sing peuhmah Lebanon panin kong phuk ding uh a, nangmah in Jerusalem-ah na puaktoh theihna dingin phongin tuipi tungah Joppa dong nang kiangah kong paipih ding uh hi,” zong ci lai hi.
+**ZVS:** Tua ciangin na kisap sing peuhmah Lebanon panin kong phuk ding-te a, nangmah in Jerusalem-ah na puaktoh theihna dingin phongin tuipi tungah Joppa dong nang kiangah kong paipih ding-te hi,” zong ci lai hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 

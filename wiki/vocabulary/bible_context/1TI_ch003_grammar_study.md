@@ -41,7 +41,7 @@
 
 **TDB77:** Tua pa in zu ne loin, midang a sat a vua mi hi loin, a lungduai mi, thusia lamah a kiseel hat lo mi, sum a duh lo mi ahi ding hi.
 
-**ZVS:** zu a khamlo mi, a ngongtatlo mi, lungsimnem mi, kitot a uklo mi, sum a deihlualo mite hi ding uh hi.
+**ZVS:** zu a khamlo mi, a ngongtatlo mi, lungsimnem mi, kitot a uklo mi, sum a deihlualo mite hi ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 
@@ -50,7 +50,7 @@
 
 **TDB77:** Amah in ama inn pha takpi-in uk zoin a tate, na khempeuhah khuaval loin, a uk thei mi ahi ding hi.
 
-**ZVS:** A innkuan sung hoihtakin a ukzo mi, a tate thumangsak thei-in, na khempeuhah a kilawm a kituakin a gamtasak thei mi hi ding uh hi.
+**ZVS:** A innkuan sung hoihtakin a ukzo mi, a tate thumangsak thei-in, na khempeuhah a kilawm a kituakin a gamtasak thei mi hi ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will
 
@@ -82,43 +82,43 @@
 ### v8
 **EN:** Likewise must the deacons be grave, not doubletongued, not given to much wine, not greedy of filthy lucre;
 
-**TDB77:** Tua mah bangin pawlpi upate in zong khuaval lo mi, thu lang gen lo mi, zu dawnin a noptat lo mi, sum siangtho lo deih lo mi ahi ding uh a,
+**TDB77:** Tua mah bangin pawlpi upate in zong khuaval lo mi, thu lang gen lo mi, zu dawnin a noptat lo mi, sum siangtho lo deih lo mi ahi ding-te a,
 
-**ZVS:** Pawlpi upa dingte zong a gamtat hoih, a lungsim citak, leenggahzu tam a nelo, sum thu-ah a huaiham mi hilo ding uh hi.
+**ZVS:** Pawlpi upa dingte zong a gamtat hoih, a lungsim citak, leenggahzu tam a nelo, sum thu-ah a huaiham mi hilo ding-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v9
 **EN:** Holding the mystery of the faith in a pure conscience.
 
-**TDB77:** theihna lungsim siangtho tawh upna thu thukpi a zang ding uh hi.
+**TDB77:** theihna lungsim siangtho tawh upna thu thukpi a zang ding-te hi.
 
-**ZVS:** Lungsim kisuan'na a omlo, upna thu-ah a kip mite hi ding uh hi.
+**ZVS:** Lungsim kisuan'na a omlo, upna thu-ah a kip mite hi ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v10
 **EN:** And let these also first be proved; then let them use the office of a deacon, being found blameless.
 
-**TDB77:** Tua mite in a masa-in ze-etna thuak ta uh hen. Tua nung ciangin mawhsak nading a om kei leh, pawlpi upa na sem ta uh hen.
+**TDB77:** Tua mite in a masa-in ze-etna thuak ta-te hen. Tua nung ciangin mawhsak nading a om kei leh, pawlpi upa na sem ta-te hen.
 
-**ZVS:** A masa-in kize-et phot ding a, paubaan'na a om kei leh sem thei pan ding uh hi.
+**ZVS:** A masa-in kize-et phot ding a, paubaan'na a om kei leh sem thei pan ding-te hi.
 
 **Grammar:** serial verb: -in (and then)
 
 ### v11
 **EN:** Even so must their wives be grave, not slanderers, sober, faithful in all things.
 
-**TDB77:** Tua mah bangin amau’ zite in zong khuaval lo ding uh a, mite’ dai nading thu gensiam mi hi loin thuman thutak a nei mi, na khempeuhah a diktat mi ahi ding uh hi.
+**TDB77:** Tua mah bangin amau’ zite in zong khuaval lo ding-te a, mite’ dai nading thu gensiam mi hi loin thuman thutak a nei mi, na khempeuhah a diktat mi ahi ding-te hi.
 
-**ZVS:** A zite uh zong a gamtat hoih mi hi-in, mi gensiat a hatlote hi ding uh a, lungsim citak, thu khempeuhah a thuman mi hi ding uh hi.
+**ZVS:** A zite-te zong a gamtat hoih mi hi-in, mi gensiat a hatlote hi ding-te a, lungsim citak, thu khempeuhah a thuman mi hi ding-te hi.
 
 **Grammar:** future: will | plural: uh marker
 
 ### v12
 **EN:** Let the deacons be the husbands of one wife, ruling their children and their own houses well.
 
-**TDB77:** Upate in zi khat bek nei-in, amau’ tate leh a inn uh a pha takpi-in uk ta uh hen.
+**TDB77:** Upate in zi khat bek nei-in, amau’ tate leh a inn-te a pha takpi-in uk ta-te hen.
 
 **ZVS:** Upate pen zi khat bek a nei mi, a tate leh a innkuansung hoihtakin a ukzote hi ding hi.
 
@@ -127,9 +127,9 @@
 ### v13
 **EN:** For they that have used the office of a deacon well purchase to themselves a good degree, and great boldness in the faith which is in Christ Jesus.
 
-**TDB77:** Bang hang hiam cih leh, upa na pha takpi-a a semte in amau adingin a hoih a phatna ahi zongin, Khazih Zeisu sungah a om upna hangah launa om lohna a ngah uh hi.
+**TDB77:** Bang hang hiam cih leh, upa na pha takpi-a a semte in amau adingin a hoih a phatna ahi zongin, Khazih Zeisu sungah a om upna hangah launa om lohna a ngah-te hi.
 
-**ZVS:** Pawlpi upa hoihtakin a semthei mite pen mite in zahtak uh a, Khrih Jesuh a upna thu uh kisuan'na om hetloin hangtakin gen ngam uh hi.
+**ZVS:** Pawlpi upa hoihtakin a semthei mite pen mite in zahtak-te a, Khrih Jesuh a upna thu-te kisuan'na om hetloin hangtakin gen ngam-te hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -150,9 +150,9 @@
 ### v16
 **EN:** And without controversy great is the mystery of godliness: God was manifest in the flesh, justified in the Spirit, seen of angels, preached unto the Gentiles, believed on in the world, received up into glory.
 
-**TDB77:** Pasian biakna thu thukpi in bang zah lian hiam cih nial nading a om kei hi: ‘Amah in pumpi-ah a kilang hi, a thumanna Kha Siangtho tawh a kilang hi, vantungmite in a mu uh hi, minam khempeuh lakah a thu kihilh hi, Leitung khempeuh ah a thu ki-um hi, minthan’na tawh vantungah kilak tohna a ngah hi.’
+**TDB77:** Pasian biakna thu thukpi in bang zah lian hiam cih nial nading a om kei hi: ‘Amah in pumpi-ah a kilang hi, a thumanna Kha Siangtho tawh a kilang hi, vantungmite in a mu-te hi, minam khempeuh lakah a thu kihilh hi, Leitung khempeuh ah a thu ki-um hi, minthan’na tawh vantungah kilak tohna a ngah hi.’
 
-**ZVS:** I biakna pen a thuthuk a thulian taktak ahihna thu hih bangin i thei hi: Mihing lim pua-in amah hong kilang a, a man taktak ahihna thu Kha Siangtho in kilangsak a, vantung mite in a mu uh hi. Mi khempeuh tungah ama thu kihilh a, mun khempeuhah ama thu ki-umin, vantungah amah kilato hi.
+**ZVS:** I biakna pen a thuthuk a thulian taktak ahihna thu hih bangin i thei hi: Mihing lim pua-in amah hong kilang a, a man taktak ahihna thu Kha Siangtho in kilangsak a, vantung mite in a mu-te hi. Mi khempeuh tungah ama thu kihilh a, mun khempeuhah ama thu ki-umin, vantungah amah kilato hi.
 
 **Grammar:** negation: kei | reciprocal: ki- prefix | plural: uh marker
 

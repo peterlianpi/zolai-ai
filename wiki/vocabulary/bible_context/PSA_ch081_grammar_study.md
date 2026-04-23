@@ -69,52 +69,52 @@
 ### v6
 **EN:** I removed his shoulder from the burden: his hands were delivered from the pots.
 
-**TDB77:** “Na liangko uh a, vangik kong lakkhiat sak a, na khut uh-a na ciangkhaite uh kong khahsak hi.
+**TDB77:** “Na liangko-te a, vangik kong lakkhiat sak a, na khut uh-a na ciangkhaite-te kong khahsak hi.
 
-**ZVS:** “Na liangko uh-a om na vangikte uh ka hong lakkhiatsak a, na khut uh-a vangikte ka hong khiasak hi.
+**ZVS:** “Na liangko uh-a om na vangikte-te ka hong lakkhiatsak a, na khut uh-a vangikte ka hong khiasak hi.
 
 **Grammar:** plural: uh marker
 
 ### v7
 **EN:** Thou calledst in trouble, and I delivered thee; I answered thee in the secret place of thunder: I proved thee at the waters of Meribah. Selah.
 
-**TDB77:** Na cihmawh uh ciangin kei nong sam uh a, keimah in note kong honkhia hi; keimah in, a kilang lo vanging sung panin note kong dawng a, Meribah tui phualte-ah note kong ze-et hi.
+**TDB77:** Na cihmawh-te ciangin kei nong sam-te a, keimah in note kong honkhia hi; keimah in, a kilang lo vanging sung panin note kong dawng a, Meribah tui phualte-ah note kong ze-et hi.
 
-**ZVS:** Na cihmawh uh ciangin kei na hong sam uh a, keimah in note ka hong honkhia hi. A kilanglo vanging sung panin note ka hong dawng a, Meribah tui phualte-ah note ka hong ze-et hi.
+**ZVS:** Na cihmawh-te ciangin kei na hong sam-te a, keimah in note ka hong honkhia hi. A kilanglo vanging sung panin note ka hong dawng a, Meribah tui phualte-ah note ka hong ze-et hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v8
 **EN:** Hear, O my people, and I will testify unto thee: O Israel, if thou wilt hearken unto me;
 
-**TDB77:** Ka mite aw, note kong thuhilh laitakin hong ngai un! Israelte aw, ka thu hong ngai hi hoh le uh cin!
+**TDB77:** Ka mite aw, note kong thuhilh laitakin hong ngai un! Israelte aw, ka thu hong ngai hi hoh le-te cin!
 
 **ZVS:** Ka mite aw, note kong thuhilh laitakin limtakin hong ngai un. Israel-te aw, keima thu a hong ngai hi hoh le-uh cin!
 
 ### v9
 **EN:** There shall no strange god be in thee; neither shalt thou worship any strange god.
 
-**TDB77:** Note lakah pasian dang om lo ding a, Pasian dang khat’ mai-ah na kun kei ding uh hi.
+**TDB77:** Note lakah pasian dang om lo ding a, Pasian dang khat’ mai-ah na kun kei ding-te hi.
 
-**ZVS:** Note' lakah pasian dang omlo ding a, pasian dang khat' mai-ah na kun kei ding uh hi.
+**ZVS:** Note' lakah pasian dang omlo ding a, pasian dang khat' mai-ah na kun kei ding-te hi.
 
 **Grammar:** future: will | negation: kei | negation: lo | plural: uh marker
 
 ### v10
 **EN:** I am the
 
-**TDB77:** Keimah in, Izipt gam panin note a hong lakhia, Topa na Pasian uh ka hi hi. Na kam uh a gol-in ka un, keimah in kong dimsak ding hi.
+**TDB77:** Keimah in, Izipt gam panin note a hong lakhia, Topa na Pasian-te ka hi hi. Na kam-te a gol-in ka un, keimah in kong dimsak ding hi.
 
-**ZVS:** Egypt gam panin note a hong lakhia, { Topa } na Pasian uh ka hi hi. Na kam uh a golin ka un, keimah in kong dimsak ding hi.
+**ZVS:** Egypt gam panin note a hong lakhia, { Topa } na Pasian-te ka hi hi. Na kam-te a golin ka un, keimah in kong dimsak ding hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
 ### v11
 **EN:** But my people would not hearken to my voice; and Israel would none of me.
 
-**TDB77:** “Ahih hangin ka mite in keima aw ngai lo uh hi; Israelte in kei’ thu themkha zong zui lo uh hi.
+**TDB77:** “Ahih hangin ka mite in keima aw ngai lo-te hi; Israelte in kei’ thu themkha zong zui lo-te hi.
 
-**ZVS:** “Ahih hangin ka mite in keima thu hong ngailo uh a, Israel-te in keima thu themkha zong zuilo uh hi.
+**ZVS:** “Ahih hangin ka mite in keima thu hong ngailo-te a, Israel-te in keima thu themkha zong zuilo-te hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
@@ -150,7 +150,7 @@
 
 **TDB77:** Topa a mudahte in amah mai-et ding a, amaute’ dantuahna, kip paisuak ding hi.
 
-**ZVS:** Kei a hong mudahte ka mai-ah hong kun ding uh a, amaute' gimthuakna kip paisuak ding hi.
+**ZVS:** Kei a hong mudahte ka mai-ah hong kun ding-te a, amaute' gimthuakna kip paisuak ding hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix
 

@@ -37,9 +37,9 @@
 ### v4
 **EN:** Turn us, O God of our salvation, and cause thine anger toward us to cease.
 
-**TDB77:** Kote’ kihotkhiatna Pasian aw, kote ka ngei uh hong bangsak kik in la, kote tunga na lungkim lohna beisak ta in!
+**TDB77:** Kote’ kihotkhiatna Pasian aw, kote ka ngei-te hong bangsak kik in la, kote tunga na lungkim lohna beisak ta in!
 
-**ZVS:** Kote hong honkhia Pasian aw, kote ka ngei uh hong bangsakkik in la, kote tunga na lungkimlohna hong beisak ta in.
+**ZVS:** Kote hong honkhia Pasian aw, kote ka ngei-te hong bangsakkik in la, kote tunga na lungkimlohna hong beisak ta in.
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -71,7 +71,7 @@
 ### v8
 **EN:** I will hear what God the
 
-**TDB77:** Topa Pasian’ thu gen ding hong zasak dih un, bang hang hiam cih leh amah in ama lamah a lungsim uh tawh a kiheite, ama mi siangthote, a mite tungah kilemna thu gen ding hi.
+**TDB77:** Topa Pasian’ thu gen ding hong zasak dih un, bang hang hiam cih leh amah in ama lamah a lungsim-te tawh a kiheite, ama mi siangthote, a mite tungah kilemna thu gen ding hi.
 
 **ZVS:** { Topa } Pasian' thugen ding hong zasak dih un. Bang hang hiam cih leh ama lamah lungsim takpi tawh a kihei ama mi siangtho, ama mite' tungah kilemna thu a gen ding hi.
 
@@ -89,9 +89,9 @@
 ### v10
 **EN:** Mercy and truth are met together; righteousness and peace have kissed each other.
 
-**TDB77:** Itna kip leh thutakna kigawm ding a, thumanna leh kilemna kihual ding uh hi.
+**TDB77:** Itna kip leh thutakna kigawm ding a, thumanna leh kilemna kihual ding-te hi.
 
-**ZVS:** Itna kip leh thutak kigawm ding a, thuman leh kilemna kihual ding uh hi.
+**ZVS:** Itna kip leh thutak kigawm ding a, thuman leh kilemna kihual ding-te hi.
 
 **Grammar:** future: will | reciprocal: ki- prefix | plural: uh marker
 

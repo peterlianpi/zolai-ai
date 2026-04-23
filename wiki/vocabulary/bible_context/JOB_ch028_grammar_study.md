@@ -33,27 +33,27 @@
 ### v2
 **EN:** Iron is taken out of the earth, and brass is molten out of the stone.
 
-**TDB77:** Mihingte in lei sung panin sik tokhia a, suang sung panin sumsan huantui uh hi.
+**TDB77:** Mihingte in lei sung panin sik tokhia a, suang sung panin sumsan huantui-te hi.
 
-**ZVS:** Mihingte in lei sung panin sik tokhia a, suang sung panin sumsan a huantui uh hi.
+**ZVS:** Mihingte in lei sung panin sik tokhia a, suang sung panin sumsan a huantui-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** He setteth an end to darkness, and searcheth out all perfection: the stones of darkness, and the shadow of death.
 
-**TDB77:** Mihingte in khuamial thuk pen sung zongin, lei sung a thukpi dong zong uh a, khuamial thuk tawng sung pan suang tokhia uh hi.
+**TDB77:** Mihingte in khuamial thuk pen sung zongin, lei sung a thukpi dong zong-te a, khuamial thuk tawng sung pan suang tokhia-te hi.
 
-**ZVS:** Mihingte in khuamial thukpen sung zongin, lei sung a thukpi dong hahkatin zong uh a, khuamial thuktawng sung pan suang a tokhia uh hi.
+**ZVS:** Mihingte in khuamial thukpen sung zongin, lei sung a thukpi dong hahkatin zong-te a, khuamial thuktawng sung pan suang a tokhia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v4
 **EN:** The flood breaketh out from the inhabitant; even the waters forgotten of the foot: they are dried up, they are gone away from men.
 
-**TDB77:** Mihingte’ teen’na panin a gamlapi mun, kuamah a pai ngei lohna sungah, lei sung sumte tokhia uh hi. Tua lai-ah amau guak in na sem uh a, leithuk sungah khauhual tawh kivei suk kivei to uh hi.
+**TDB77:** Mihingte’ teen’na panin a gamlapi mun, kuamah a pai ngei lohna sungah, lei sung sumte tokhia-te hi. Tua lai-ah amau guak in na sem-te a, leithuk sungah khauhual tawh kivei suk kivei to-te hi.
 
-**ZVS:** Mihingte' ten'na panin a gamlapi mun, kuamah a pai ngeilohna sungah lei sung sumte a tokhia uh hi. Tua lai munah amau guak in na semsem uh a, lei thuk sungah khauhual tawh kiveisuk kiveito uh hi.
+**ZVS:** Mihingte' ten'na panin a gamlapi mun, kuamah a pai ngeilohna sungah lei sung sumte a tokhia-te hi. Tua lai munah amau guak in na semsem-te a, lei thuk sungah khauhual tawh kiveisuk kiveito-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -83,34 +83,34 @@
 ### v8
 **EN:** The lion's whelps have not trodden it, nor the fierce lion passed by it.
 
-**TDB77:** Humpinelkai ahi a, a kihtakhuai ganhing dangte ahi zongin, cik mahin tua lai-ah va pai ngei lo uh hi.
+**TDB77:** Humpinelkai ahi a, a kihtakhuai ganhing dangte ahi zongin, cik mahin tua lai-ah va pai ngei lo-te hi.
 
-**ZVS:** Humpinelkai ahi a, ganhing dangte ahi zongin cikmah hunin tua lai-ah va pai ngeilo uh hi.
+**ZVS:** Humpinelkai ahi a, ganhing dangte ahi zongin cikmah hunin tua lai-ah va pai ngeilo-te hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v9
 **EN:** He putteth forth his hand upon the rock; he overturneth the mountains by the roots.
 
-**TDB77:** “Mihingte in suang sak pente to uh a, mualte’ bul lei sung panin tokhia uh hi.
+**TDB77:** “Mihingte in suang sak pente to-te a, mualte’ bul lei sung panin tokhia-te hi.
 
-**ZVS:** “Mihingte in suang a sakpente to uh a, mualte' bul lei sung panin a tokhia uh hi.
+**ZVS:** “Mihingte in suang a sakpente to-te a, mualte' bul lei sung panin a tokhia-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v10
 **EN:** He cutteth out rivers among the rocks; and his eye seeth every precious thing.
 
-**TDB77:** Suangte a tawhvang uh ciangin, suangmanphate mu uh hi.
+**TDB77:** Suangte a tawhvang-te ciangin, suangmanphate mu-te hi.
 
-**ZVS:** Suangte a tawhvang uh ciangin suangmanphate a mu uh hi.
+**ZVS:** Suangte a tawhvang-te ciangin suangmanphate a mu-te hi.
 
 **Grammar:** plural: uh marker
 
 ### v11
 **EN:** He bindeth the floods from overflowing; and the thing that is hid bringeth he forth to light.
 
-**TDB77:** Amaute in tuinak kipatna dong lei sung to uh a, a kiphumcip nate hong suahkhia uh hi.
+**TDB77:** Amaute in tuinak kipatna dong lei sung to-te a, a kiphumcip nate hong suahkhia-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -128,16 +128,16 @@
 
 **TDB77:** A kimuh nading lampi mihingte in thei lo a, mihingte’ gam sungah lah om lo hi.
 
-**ZVS:** “Mihingte in a kimuhna ding a lampi theilo uh a, mihingte' gamsungah zong a lampi omlo hi.
+**ZVS:** “Mihingte in a kimuhna ding a lampi theilo-te a, mihingte' gamsungah zong a lampi omlo hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix
 
 ### v14
 **EN:** The depth saith, It is not in me: and the sea saith, It is not with me.
 
-**TDB77:** A thuk mahmah tuipi liante in, ‘Ko sungah om lo hi,’ ci uh a, tuipite in, ‘Ko kiangah om lo hi,’ ci uh hi.
+**TDB77:** A thuk mahmah tuipi liante in, ‘Ko sungah om lo hi,’ ci-te a, tuipite in, ‘Ko kiangah om lo hi,’ ci-te hi.
 
-**ZVS:** A thuk mahmah tuipi liante in, ‘Ko' sungah omlo hi,’ ci uh a, tuipite in, ‘Ko kiangah omlo hi,’ a ci uh hi.
+**ZVS:** A thuk mahmah tuipi liante in, ‘Ko' sungah omlo hi,’ ci-te a, tuipite in, ‘Ko kiangah omlo hi,’ a ci-te hi.
 
 **Grammar:** quotative: said/saying | intensifier: very/greatly | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -196,16 +196,16 @@
 
 **TDB77:** Nuntakna nei sungpan a mu thei kuamah om lo a, a leeng thei vasate nangawn in mu thei lo hi.
 
-**ZVS:** Nuntakna a nei sung pan a mu thei kuamah omlo a, a leengthei vasate nangawn in mu theilo uh hi.
+**ZVS:** Nuntakna a nei sung pan a mu thei kuamah omlo a, a leengthei vasate nangawn in mu theilo-te hi.
 
 **Grammar:** negation: lo
 
 ### v22
 **EN:** Destruction and death say, We have heard the fame thereof with our ears.
 
-**TDB77:** Sihna leh siatna nangawn in, a thu hem zak bek ung, ci uh hi.
+**TDB77:** Sihna leh siatna nangawn in, a thu hem zak bek ung, ci-te hi.
 
-**ZVS:** Sihna leh siatna nangawn in a thu hemzak bek ung, ci lai uh hi.
+**ZVS:** Sihna leh siatna nangawn in a thu hemzak bek ung, ci lai-te hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 

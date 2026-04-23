@@ -39,9 +39,9 @@
 ### v3
 **EN:** Because of the voice of the enemy, because of the oppression of the wicked: for they cast iniquity upon me, and in wrath they hate me.
 
-**TDB77:** Migilote’ sukcipna, galte’ huging in kei hong gimsak hi. Bang hang hiam cih leh amaute in kei tungah haksatna hong tun’ uh a, amaute in hehna tawh keimah hong galbawl ding uh nuamsa uh hi.
+**TDB77:** Migilote’ sukcipna, galte’ huging in kei hong gimsak hi. Bang hang hiam cih leh amaute in kei tungah haksatna hong tun’ uh a, amaute in hehna tawh keimah hong galbawl ding-te nuamsa-te hi.
 
-**ZVS:** Migilote' sukcipna, galte' huging in kei hong gimsak hi. Bang hang hiam cih leh amaute in keima tungah haksatna hong tun' uh a, hehna tawh keimah hong galbawl ding amaute in nuamsa uh hi.
+**ZVS:** Migilote' sukcipna, galte' huging in kei hong gimsak hi. Bang hang hiam cih leh amaute in keima tungah haksatna hong tun' uh a, hehna tawh keimah hong galbawl ding amaute in nuamsa-te hi.
 
 **Grammar:** plural: uh marker
 
@@ -91,18 +91,18 @@
 ### v9
 **EN:** Destroy, O Lord, and divide their tongues: for I have seen violence and strife in the city.
 
-**TDB77:** Topa aw, amau’ ngaihsutnate suksiatsak in la, a pau uh kilamdangsak in; bang hang hiam cih leh khua sungah ngongtatna leh kam kiselna ka mu hi.
+**TDB77:** Topa aw, amau’ ngaihsutnate suksiatsak in la, a pau-te kilamdangsak in; bang hang hiam cih leh khua sungah ngongtatna leh kam kiselna ka mu hi.
 
-**ZVS:** { Topa } aw, amau' geelnate suksiat sakin a pau uh kilamdangsak in. Bang hang hiam cih leh khua sungah ngongtatna leh kam kiselna ka mu hi.
+**ZVS:** { Topa } aw, amau' geelnate suksiat sakin a pau-te kilamdangsak in. Bang hang hiam cih leh khua sungah ngongtatna leh kam kiselna ka mu hi.
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v10
 **EN:** Day and night they go about it upon the walls thereof: mischief also and sorrow are in the midst of it.
 
-**TDB77:** Sun leh zanin amaute kulhpi tungah kot paipai uh a, a sungah siatna leh haksatnate om-in,
+**TDB77:** Sun leh zanin amaute kulhpi tungah kot paipai-te a, a sungah siatna leh haksatnate om-in,
 
-**ZVS:** Amaute sun leh zanin kulhpi tungah kot paipai uh a, khua sungah siatna leh ngongtatnate om a, mite lakah lungkhamna om hi.
+**ZVS:** Amaute sun leh zanin kulhpi tungah kot paipai-te a, khua sungah siatna leh ngongtatnate om a, mite lakah lungkhamna om hi.
 
 **Grammar:** serial verb: -in (and then) | plural: uh marker
 
@@ -145,7 +145,7 @@
 ### v15
 **EN:** Let death seize upon them, and let them go down quick into hell: for wickedness is in their dwellings, and among them.
 
-**TDB77:** Sihna amau tungah tungsak in; Leinuai-ah a hingtangin amaute paisuksak in la, amaute launa lianpi tawh a han uh ah paisak in.
+**TDB77:** Sihna amau tungah tungsak in; Leinuai-ah a hingtangin amaute paisuksak in la, amaute launa lianpi tawh a han-te ah paisak in.
 
 **ZVS:** Amau' tungah sihna tungsak in. Leinuai-ah a hingtangin amaute paisuk sak in la, amaute launa lianpi tawh a han uhah paisak in.
 
@@ -170,18 +170,18 @@
 ### v18
 **EN:** He hath delivered my soul in peace from the battle that was against me: for there were many with me.
 
-**TDB77:** Amah in ka galsimna-ah kei hong honin, a muan’huai munah hong koih ding hi, bang hang hiam cih leh keimah do dingin mi tampi kigual deudau uh hi.
+**TDB77:** Amah in ka galsimna-ah kei hong honin, a muan’huai munah hong koih ding hi, bang hang hiam cih leh keimah do dingin mi tampi kigual deudau-te hi.
 
-**ZVS:** Amah in ka galsimna sungah kei hong kem ding a, a muan'huai munah kei hong koih ding hi. Bang hang hiam cih leh keimah a hong do dingin mi tampi tak kigual deudau uh hi.
+**ZVS:** Amah in ka galsimna sungah kei hong kem ding a, a muan'huai munah kei hong koih ding hi. Bang hang hiam cih leh keimah a hong do dingin mi tampi tak kigual deudau-te hi.
 
 **Grammar:** purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v19
 **EN:** God shall hear, and afflict them, even he that abideth of old. Selah. Because they have no changes, therefore they fear not God.
 
-**TDB77:** Taanglai pan-a kumpi-a a kikoih Pasian in za ding a, amaute niamkhiat ding hi; bang hang hiam cih leh amaute in thukham zui lo uh a, Pasian zahtak lo uh hi.
+**TDB77:** Taanglai pan-a kumpi-a a kikoih Pasian in za ding a, amaute niamkhiat ding hi; bang hang hiam cih leh amaute in thukham zui lo-te a, Pasian zahtak lo-te hi.
 
-**ZVS:** Tanglai pek panin kumpi-in a kikoih Pasian in za-in amaute niamkhiat ding hi. Bang hang hiam cih leh amaute in thukham zuilo uh a, Pasian zahtaklo uh hi.
+**ZVS:** Tanglai pek panin kumpi-in a kikoih Pasian in za-in amaute niamkhiat ding hi. Bang hang hiam cih leh amaute in thukham zuilo-te a, Pasian zahtaklo-te hi.
 
 **Grammar:** future: will | negation: lo | reciprocal: ki- prefix | plural: uh marker
 
@@ -217,7 +217,7 @@
 
 **TDB77:** Ahih hangin Pasian aw, dum thukpenna munah nangmah in amaute na lawnsuk ding a, mi a thatte leh mikhemte pen amau nuntak ding zah lang hing lo ding hi. Ahih hangin keimah in nang kong muang ding hi.
 
-**ZVS:** Ahih hangin Pasian aw, dum thuk penna munah amaute na lawnsuk ding a, mi thatte leh mi khemte pen amau nuntak ding zah lang hinglo ding uh hi. Ahih hangin keimah in nang ka hong muang ding hi.
+**ZVS:** Ahih hangin Pasian aw, dum thuk penna munah amaute na lawnsuk ding a, mi thatte leh mi khemte pen amau nuntak ding zah lang hinglo ding-te hi. Ahih hangin keimah in nang ka hong muang ding hi.
 
 **Grammar:** future: will
 

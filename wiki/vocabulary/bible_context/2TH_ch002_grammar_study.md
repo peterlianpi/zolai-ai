@@ -28,23 +28,23 @@
 
 **TDB77:** Ute naute aw, i Topa Zeisu Khazih hong paina leh eite in ama kiangah i kikhopna thu panin,
 
-**ZVS:** Sanggamte aw, i Topa Jesuh Khrih hong paina ding thu leh amah a dawn dingin eite i kikhopna ding thu tawh kisai-in note kiangah kong thum nopna uh panin:
+**ZVS:** Sanggamte aw, i Topa Jesuh Khrih hong paina ding thu leh amah a dawn dingin eite i kikhopna ding thu tawh kisai-in note kiangah kong thum nopna-te panin:
 
 **Grammar:** reciprocal: ki- prefix
 
 ### v2
 **EN:** That ye be not soon shaken in mind, or be troubled, neither by spirit, nor by word, nor by letter as from us, as that the day of Christ is at hand.
 
-**TDB77:** Topa’ Ni a hong tun’ hun a nai zo bangin kamsan’na hang ahi zongin, kam pan pusuak thu hang ahi zongin, kote kiang pan hong khak uh lai hang ahi zongin, note in lungkiatna leh lunghimawh lin’na a manlangin na thuak loh nadingun ka hong thuum uh hi.
+**TDB77:** Topa’ Ni a hong tun’ hun a nai zo bangin kamsan’na hang ahi zongin, kam pan pusuak thu hang ahi zongin, kote kiang pan hong khak-te lai hang ahi zongin, note in lungkiatna leh lunghimawh lin’na a manlangin na thuak loh nadingun ka hong thuum-te hi.
 
-**ZVS:** Topa' hong paiding ni hong tung khinta hi, ci-a thu kigenna hangin lunghimawhin lungmangin om kei un. Thuhilh khat peuhpeuh in hih bang thu hong genkha thei ding a, tua thu pen kote' gen leh gelh hi, ci-in zong genkha ding uh hi.
+**ZVS:** Topa' hong paiding ni hong tung khinta hi, ci-a thu kigenna hangin lunghimawhin lungmangin om kei un. Thuhilh khat peuhpeuh in hih bang thu hong genkha thei ding a, tua thu pen kote' gen leh gelh hi, ci-in zong genkha ding-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v3
 **EN:** Let no man deceive you by any means: for that day shall not come, except there come a falling away first, and that man of sin be revealed, the son of perdition;
 
-**TDB77:** Kuamah in note bangmah hangin hong kheem kei hen. Bang hang hiam na cih uh leh, tua Ni hong tun’ ma-in langpan’na lian a piang masa ding a, kisiatna’ ta ahi Gilo Mi in hong piang ding hi.
+**TDB77:** Kuamah in note bangmah hangin hong kheem kei hen. Bang hang hiam na cih-te leh, tua Ni hong tun’ ma-in langpan’na lian a piang masa ding a, kisiatna’ ta ahi Gilo Mi in hong piang ding hi.
 
 **ZVS:** Ahi zongin kuama khemsa-in ta kei un. Bang hang hiam cih leh nakpi takin Pasian langpan'na lianpi leh hell khuksung a tungding ahi A Gilopa hong kilat matengin tua Ni hong tunglo ding hi.
 
@@ -62,25 +62,25 @@
 ### v5
 **EN:** Remember ye not, that, when I was yet with you, I told you these things?
 
-**TDB77:** Keimah in note tawh ka omkhawm lai takin hih thu ka hong gen zo hi ci-in phawk lo na hi uh hiam?
+**TDB77:** Keimah in note tawh ka omkhawm lai takin hih thu ka hong gen zo hi ci-in phawk lo na hi-te hiam?
 
-**ZVS:** Note tawh ka hong omkhawm lai-in hih thute khempeuh hong genkhin ka hih manin na phawk lai ding uh hi.
+**ZVS:** Note tawh ka hong omkhawm lai-in hih thute khempeuh hong genkhin ka hih manin na phawk lai ding-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then)
 
 ### v6
 **EN:** And now ye know what withholdeth that he might be revealed in his time.
 
-**TDB77:** Tua mi in ama hun laitak a kilatsak nadingin a kikhamna thu zong tu-in na thei uh hi.
+**TDB77:** Tua mi in ama hun laitak a kilatsak nadingin a kikhamna thu zong tu-in na thei-te hi.
 
-**ZVS:** Ahi zongin tu laitakin tua bang a pian'lohna dingin a kham khat om ahihna thu na thei uh hi. A hun a tun' ciangin A Gilopa hong kilang ding hi.
+**ZVS:** Ahi zongin tu laitakin tua bang a pian'lohna dingin a kham khat om ahihna thu na thei-te hi. A hun a tun' ciangin A Gilopa hong kilang ding hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix | plural: uh marker
 
 ### v7
 **EN:** For the mystery of iniquity doth already work: only he who now letteth will let, until he be taken out of the way.
 
-**TDB77:** Bang hang hiam na cih uh leh, a kiseel gitlohna in tu nangawnin na a sep laitak ahi hi. Ahih hangin a nial mi a kilakkhiat dongin a kham mi khat a om hi.
+**TDB77:** Bang hang hiam na cih-te leh, a kiseel gitlohna in tu nangawnin na a sep laitak ahi hi. Ahih hangin a nial mi a kilakkhiat dongin a kham mi khat a om hi.
 
 **ZVS:** Kuamah kim in a phawkloh Gitloh Gamtatna kigamta khinta a, ahi zongin hih thu a pian'ding a khamcippa a kilakkhiat khit matengin a hong piang ding thu hong piang nailo ding hi.
 
@@ -107,48 +107,48 @@
 ### v10
 **EN:** And with all deceivableness of unrighteousness in them that perish; because they received not the love of the truth, that they might be saved.
 
-**TDB77:** kisiatna a ngah mite ading diklohna khemna apawl pawlte tawh ahi zongin a piang ding hi. Bang hang hiam na cih uh leh, tua mite in gupna a ngah nadingun ki-itna tawh kipawl thuman a sang kei uh hi.
+**TDB77:** kisiatna a ngah mite ading diklohna khemna apawl pawlte tawh ahi zongin a piang ding hi. Bang hang hiam na cih-te leh, tua mite in gupna a ngah nadingun ki-itna tawh kipawl thuman a sang kei-te hi.
 
-**ZVS:** gitloh khemna a nam tuamtuam zangin, siatna a thuakding mite a khem ding hi. Tua bang mite in a suahtakna dingun thuman sang nuamlo, deihlo uh ahih manin siatna a tuak uh ahi hi.
+**ZVS:** gitloh khemna a nam tuamtuam zangin, siatna a thuakding mite a khem ding hi. Tua bang mite in a suahtakna dingun thuman sang nuamlo, deihlo-te ahih manin siatna a tuak-te ahi hi.
 
 **Grammar:** future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v11
 **EN:** And for this cause God shall send them strong delusion, that they should believe a lie:
 
-**TDB77:** Tua ahih manin Pasian in amaute lakah nasem dingin zuau thahatna paisak ahih manin amaute in a manlo thu um uh hi.
+**TDB77:** Tua ahih manin Pasian in amaute lakah nasem dingin zuau thahatna paisak ahih manin amaute in a manlo thu um-te hi.
 
 **Grammar:** purpose: in order to | causal: because | plural: uh marker
 
 ### v12
 **EN:** That they all might be damned who believed not the truth, but had pleasure in unrighteousness.
 
-**TDB77:** Tua ahih manin thuman umloin, mawhna sungah nuam a sa khempeuh in mawhsak thukhenna thuak ding uh hi.
+**TDB77:** Tua ahih manin thuman umloin, mawhna sungah nuam a sa khempeuh in mawhsak thukhenna thuak ding-te hi.
 
 **Grammar:** future: will | causal: because | plural: uh marker
 
 ### v13
 **EN:** But we are bound to give thanks alway to God for you, brethren beloved of the Lord, because God hath from the beginning chosen you to salvation through sanctification of the Spirit and belief of the truth:
 
-**TDB77:** Ahih hangin Pasian in a it ute naute aw, note in Kha Siangtho’ sian’thosakna tawh, thuman thutak na upna uh tawh, gupna na ngah nadingun Pasian in a masa belin note hong teel ahih ciangin kote in hih ding a kilawm bangin, note’ hangin Pasian’ hehpihna ka phat tawntung uh hi.
+**TDB77:** Ahih hangin Pasian in a it ute naute aw, note in Kha Siangtho’ sian’thosakna tawh, thuman thutak na upna-te tawh, gupna na ngah nadingun Pasian in a masa belin note hong teel ahih ciangin kote in hih ding a kilawm bangin, note’ hangin Pasian’ hehpihna ka phat tawntung-te hi.
 
-**ZVS:** Ahi zongin sanggamte aw, Topa in note hong it a, Kha Siangtho vangliatna hang leh note in thuman na upna uh hangin ama mi siangthote na suahna dingun nopsakna a ngah masa dingin Pasian in note hong teel ahih manin note hangin Pasian tungah lungdamna ka ko tawntung uh hi.
+**ZVS:** Ahi zongin sanggamte aw, Topa in note hong it a, Kha Siangtho vangliatna hang leh note in thuman na upna-te hangin ama mi siangthote na suahna dingun nopsakna a ngah masa dingin Pasian in note hong teel ahih manin note hangin Pasian tungah lungdamna ka ko tawntung-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v14
 **EN:** Whereunto he called you by our gospel, to the obtaining of the glory of our Lord Jesus Christ.
 
-**TDB77:** Tua bang deihna hangin ka thu hilh uh Lungdamna Thu tawh note hong sam zo hi. Bang hang hiam na cih uh leh, note in i Topa Zeisu Khazih’ vangliatna na ngah nading uh ahi hi.
+**TDB77:** Tua bang deihna hangin ka thu hilh-te Lungdamna Thu tawh note hong sam zo hi. Bang hang hiam na cih-te leh, note in i Topa Zeisu Khazih’ vangliatna na ngah nading-te ahi hi.
 
-**ZVS:** Topa Jesuh Khrih tawh minthan'na na ngahkhawm theihna dingun note tungah ka hong hilh uh Lungdamna Thu tawh hih nopsakna-ah Pasian in note a hong sam ahi hi.
+**ZVS:** Topa Jesuh Khrih tawh minthan'na na ngahkhawm theihna dingun note tungah ka hong hilh-te Lungdamna Thu tawh hih nopsakna-ah Pasian in note a hong sam ahi hi.
 
 ### v15
 **EN:** Therefore, brethren, stand fast, and hold the traditions which ye have been taught, whether by word, or our epistle.
 
-**TDB77:** Tua ahih ciangin ute naute aw, kam sung pan hong pusuak thu hang ahi zongin, kote lai hang ahi zongin note in na sinsa uh ngeinate ah kipin lenin, deih un.
+**TDB77:** Tua ahih ciangin ute naute aw, kam sung pan hong pusuak thu hang ahi zongin, kote lai hang ahi zongin note in na sinsa-te ngeinate ah kipin lenin, deih un.
 
-**ZVS:** Tua ahih ciangin sanggamte aw, kam tawh ahi a, lai tawh ahi zongin ka hong hilh uh thumante limtakin zui un la, kiptakin om un.
+**ZVS:** Tua ahih ciangin sanggamte aw, kam tawh ahi a, lai tawh ahi zongin ka hong hilh-te thumante limtakin zui un la, kiptakin om un.
 
 **Grammar:** sequence: then/therefore | reciprocal: ki- prefix
 
@@ -166,7 +166,7 @@
 
 **TDB77:** note’ lungsim hong hehnemin, na ahoih leh thu ahoih apawl apawlah note hong kipsak ta hen.
 
-**ZVS:** note lungsimah thakhauhna hong guan hen la, a hoih thu khempeuh genin a semzo dingin na tha uh hong hatsak ta hen.
+**ZVS:** note lungsimah thakhauhna hong guan hen la, a hoih thu khempeuh genin a semzo dingin na tha-te hong hatsak ta hen.
 
 **Grammar:** reciprocal: ki- prefix
 

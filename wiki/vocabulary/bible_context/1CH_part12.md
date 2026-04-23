@@ -16,7 +16,7 @@
 
 ### khangsimna = genealogy/lineage
 **Context:** Used in connection with 'ciamtehna' (sign/record) to mean genealogical record.
-**Example:** ...amaute in khangsimna ciamtehna nei uh hi.
+**Example:** ...amaute in khangsimna ciamtehna nei-te hi.
 
 ### tapa = son of
 **Context:** Standard patronymic marker, showing descent.
@@ -24,11 +24,11 @@
 
 ### kilo hih mite = those mentioned by name
 **Context:** Referring back to the list of individuals named previously.
-**Example:** a minin a kilo hih mite pen amau' beh ciatah ulian hi uh a...
+**Example:** a minin a kilo hih mite pen amau' beh ciatah ulian hi-te a...
 
 ### beh ciatah = in their families/by their clan
 **Context:** Used to specify the organizational structure of the people mentioned.
-**Example:** ...amau' beh ciatah ulian hi uh a...
+**Example:** ...amau' beh ciatah ulian hi-te a...
 
 ### nakpi takin = greatly/very much
 **Context:** An adverbial phrase intensifying the verb 'khang' (increased).
@@ -40,7 +40,7 @@
 
 ### kuam nisuahna lam pang = towards the rising of the sun/east side
 **Context:** Directional phrase indicating the path they took.
-**Example:** ...kuam nisuahna lampang, Gedor lutna lamah khualzin uh a...
+**Example:** ...kuam nisuahna lampang, Gedor lutna lamah khualzin-te a...
 
 ### leihoih = fat/rich (land)
 **Context:** Describing the quality of the pasture found.
@@ -48,15 +48,15 @@
 
 ### gamdai-in = peaceably/quietly
 **Context:** Describing the condition of the land they found.
-**Example:** ...leh gam zai-in, gam dai-in, a nopna mun mu uh hi;
+**Example:** ...leh gam zai-in, gam dai-in, a nopna mun mu-te hi;
 
 ### teeng masate = the former inhabitants/those who dwelt there of old
 **Context:** Referring to the original inhabitants of the land (Hamites).
-**Example:** ...tua lai-ah a teng masate pen Ham mite ahi uh hi.
+**Example:** ...tua lai-ah a teng masate pen Ham mite ahi-te hi.
 
 ### kumpipa = king
 **Context:** Title for Hezekiah.
-**Example:** Judah kumpipa Hezekiah' hun sungin hong pai uh a...
+**Example:** Judah kumpipa Hezekiah' hun sungin hong pai-te a...
 
 ### puanbukte = tents/booths
 **Context:** Referring to the temporary dwellings of the Meunim people that were destroyed.
@@ -64,15 +64,15 @@
 
 ### susia-in = having destroyed/smote
 **Context:** Action taken against the former inhabitants and their dwellings.
-**Example:** ...amau' puanbukte susia-in tuni dongin amaute beisak uh a...
+**Example:** ...amau' puanbukte susia-in tuni dongin amaute beisak-te a...
 
 ### makai-in = having as leader/captains
 **Context:** Indicating who led the group of Simeonites.
-**Example:** ...Ishi' tapate Pelatiah, Neariah, Refaiah, leh Uzziel makai-in a nei uh hi.
+**Example:** ...Ishi' tapate Pelatiah, Neariah, Refaiah, leh Uzziel makai-in a nei-te hi.
 
 ### suakta a om laite = the rest/those who escaped
 **Context:** Referring to the remaining Amalekites after the initial conflict.
-**Example:** Amaute in Amalek mi a suakta a omlaite susia uh a...
+**Example:** Amaute in Amalek mi a suakta a omlaite susia-te a...
 
 ### tacil = firstborn/eldest
 **Context:** Used to describe Reuben's status among Israel's sons.
@@ -127,4 +127,4 @@
 
 - **X susia-in Y**
   - Verbal participle structure: 'Having destroyed X, [they did] Y' (indicating sequential or causal action).
-  - Example: ...amau' puanbukte susia-in tuni dongin amaute beisak uh a...
+  - Example: ...amau' puanbukte susia-in tuni dongin amaute beisak-te a...

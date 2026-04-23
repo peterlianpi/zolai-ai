@@ -54,9 +54,9 @@
 ### v4
 **EN:** And Samuel did that which the
 
-**TDB77:** Topa’ thupiak bangin Samuel gamta-in Bethlehem ah pai hi. Tua khuapi upate a liingsa-in amah dawn dingin hong pai uh a, “Thu hoih a, hong pai na hi hiam?” a ci uh hi.
+**TDB77:** Topa’ thupiak bangin Samuel gamta-in Bethlehem ah pai hi. Tua khuapi upate a liingsa-in amah dawn dingin hong pai-te a, “Thu hoih a, hong pai na hi hiam?” a ci-te hi.
 
-**ZVS:** { Topa' } thupiak bangin Samuel gamta-in Bethlehem-ah a pai hi. Tua khuapi upate a lingsa-in amah a dawn dingin hong pai uh a, “Thuhoiha hong pai na hi hiam?” a ci uh hi.
+**ZVS:** { Topa' } thupiak bangin Samuel gamta-in Bethlehem-ah a pai hi. Tua khuapi upate a lingsa-in amah a dawn dingin hong pai-te a, “Thuhoiha hong pai na hi hiam?” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | plural: uh marker
 
@@ -164,7 +164,7 @@
 
 **TDB77:** Tu-in na mai-a om nasemte in laiza lasakna a tum siam mi khat a zon’ nadingin ka topa un na nasemte thu pia in; Pasian kiang panin kha gilo na tungah hong tun’ ciangin amah in tua hong tum ding a, tua ciangin na ci hong dam ding hi,” a ci hi.
 
-**ZVS:** Tu-in na mai-a om nasemte in laia lasakna a tumsiam mi khat a zon'na dingin ka topa un na nasemte thu pia in. Pasian' hong sawl kha gilo na tungah hong tun' ciangin amah in tua hong tum ding a, tua ciangin na ci hong dam ding hi,” a ci uh hi.
+**ZVS:** Tu-in na mai-a om nasemte in laia lasakna a tumsiam mi khat a zon'na dingin ka topa un na nasemte thu pia in. Pasian' hong sawl kha gilo na tungah hong tun' ciangin amah in tua hong tum ding a, tua ciangin na ci hong dam ding hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix
 

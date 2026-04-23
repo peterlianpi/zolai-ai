@@ -27,72 +27,72 @@
 ### v1
 **EN:** And they took their journey from Elim, and all the congregation of the children of Israel came unto the wilderness of Sin, which is between Elim and Sinai, on the fifteenth day of the second month after their departing out of the land of Egypt.
 
-**TDB77:** Amaute Elim panin ding khia uh a, Izipt leitang panin a paikhiat zawh uh a kha nihna ni sawm-le-nga ni-in Elim leh Sinai kikal-a om Sin gamlakah Israel mi honpite khempeuh tung uh hi.
+**TDB77:** Amaute Elim panin ding khia-te a, Izipt leitang panin a paikhiat zawh-te a kha nihna ni sawm-le-nga ni-in Elim leh Sinai kikal-a om Sin gamlakah Israel mi honpite khempeuh tung-te hi.
 
-**ZVS:** Elim panin amaute ding khia uh a, Egypt leitang panin a paikhiat zawh uh a kha nihna ni sawmlenga ni-in Elim leh Sinai kikala om Sin sehnel gamah Israel mihonte khempeuh tung uh hi.
+**ZVS:** Elim panin amaute ding khia-te a, Egypt leitang panin a paikhiat zawh-te a kha nihna ni sawmlenga ni-in Elim leh Sinai kikala om Sin sehnel gamah Israel mihonte khempeuh tung-te hi.
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v2
 **EN:** And the whole congregation of the children of Israel murmured against Moses and Aaron in the wilderness:
 
-**TDB77:** Gamlakah Moses leh Aaron' tungah Israel mihon buppi phun uh a,
+**TDB77:** Gamlakah Moses leh Aaron' tungah Israel mihon buppi phun-te a,
 
-**ZVS:** Sehnel gamah Moses leh Aaron' tungah Israel mihon buppi phun uh a,
+**ZVS:** Sehnel gamah Moses leh Aaron' tungah Israel mihon buppi phun-te a,
 
 **Grammar:** plural: uh marker
 
 ### v3
 **EN:** And the children of Israel said unto them, Would to God we had died by the hand of the
 
-**TDB77:** amaute' tungah, “Kote sabeel phungah tu-in ka kham takun an ka nek lai-un Izipt leitangah Topa in hong that khin hi zaw ta leh; bang hang hiam cih leh mihon buppi gilkialna tawh a that dingin note in gamlakah nong paikhiatpih uh hi,” a ci uh hi.
+**TDB77:** amaute' tungah, “Kote sabeel phungah tu-in ka kham takun an ka nek lai-un Izipt leitangah Topa in hong that khin hi zaw ta leh; bang hang hiam cih leh mihon buppi gilkialna tawh a that dingin note in gamlakah nong paikhiatpih-te hi,” a ci-te hi.
 
-**ZVS:** amaute tungah, “Kote, sabeel phungah tu-in ka kham takun an ka nek lai-un Egypt leitangah { Topa } in hong that khin hizaw ta leh maw! Bang hang hiam cih leh mihon buppi a puksisak dingin note in sehnel gamah nong paikhiatpih uh hi,” a ci uh hi.
+**ZVS:** amaute tungah, “Kote, sabeel phungah tu-in ka kham takun an ka nek lai-un Egypt leitangah { Topa } in hong that khin hizaw ta leh maw! Bang hang hiam cih leh mihon buppi a puksisak dingin note in sehnel gamah nong paikhiatpih-te hi,” a ci-te hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | completed: already done | plural: uh marker
 
 ### v4
 **EN:** Then said the
 
-**TDB77:** Tua ciangin Topa in Mose' kiangah, “En in, note adingin vantung panin an kong zusak ding hi; keima' thu a zuih uh leh a zuih loh uh ka theihtel nadingin mite paikhia-in ni simin ni khat kham khop ding kaikhawm ding uh hi.
+**TDB77:** Tua ciangin Topa in Mose' kiangah, “En in, note adingin vantung panin an kong zusak ding hi; keima' thu a zuih-te leh a zuih loh-te ka theihtel nadingin mite paikhia-in ni simin ni khat kham khop ding kaikhawm ding-te hi.
 
-**ZVS:** Tua ciangin { Topa } in Moses kiangah, “En in, note-a' dingin vantung panin an kong zusak ding hi. Keima thu a zuih uh leh a zuihloh uh ka theihtelna dingin mite paikhia-in nisimin ni khat khamkhop ding kaikhawm ding uh hi.
+**ZVS:** Tua ciangin { Topa } in Moses kiangah, “En in, note-a' dingin vantung panin an kong zusak ding hi. Keima thu a zuih-te leh a zuihloh-te ka theihtelna dingin mite paikhia-in nisimin ni khat khamkhop ding kaikhawm ding-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then) | purpose: in order to | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v5
 **EN:** And it shall come to pass, that on the sixth day they shall prepare that which they bring in; and it shall be twice as much as they gather daily.
 
-**TDB77:** A ni guk ni-in mite in amau’ ciahpihte a bawl uh ciangin nisim-a a khop ngei zah nih pha ding hi,” a ci hi.
+**TDB77:** A ni guk ni-in mite in amau’ ciahpihte a bawl-te ciangin nisim-a a khop ngei zah nih pha ding hi,” a ci hi.
 
-**ZVS:** A ni guk ni-in mite in ni simin a khop ngei zah nih uh khawmin bawl ding hi,” a ci hi.
+**ZVS:** A ni guk ni-in mite in ni simin a khop ngei zah nih-te khawmin bawl ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will
 
 ### v6
 **EN:** And Moses and Aaron said unto all the children of Israel, At even, then ye shall know that the
 
-**TDB77:** Tua ahih ciangin Moses leh Aaron in Israel mite' tungah, “Nitak ciangin Izipt leitang panin note hong paikhiatpihpa in Topa a hihna na thei ding uh a,
+**TDB77:** Tua ahih ciangin Moses leh Aaron in Israel mite' tungah, “Nitak ciangin Izipt leitang panin note hong paikhiatpihpa in Topa a hihna na thei ding-te a,
 
-**ZVS:** Tua ahih ciangin Moses leh Aaron in Israel mite tungah, “Nitak ciangin, Egypt gam panin note hong pai khiatpihpa pen { Topa } ahihna na thei ding uh hi.
+**ZVS:** Tua ahih ciangin Moses leh Aaron in Israel mite tungah, “Nitak ciangin, Egypt gam panin note hong pai khiatpihpa pen { Topa } ahihna na thei ding-te hi.
 
 **Grammar:** sequence: then/therefore | plural: uh marker
 
 ### v7
 **EN:** And in the morning, then ye shall see the glory of the
 
-**TDB77:** Topa’ tunga na phunna uh amah in za khin ahih manin zingsang ciangin Topa’ minthan’na na mu ding uh hi. Bang hang hiam cih leh kote’ tungah na phun theih nadingun kote in a bang hi mawk ka hi uh hiam?” a ci uh hi.
+**TDB77:** Topa’ tunga na phunna-te amah in za khin ahih manin zingsang ciangin Topa’ minthan’na na mu ding-te hi. Bang hang hiam cih leh kote’ tungah na phun theih nadingun kote in a bang hi mawk ka hi-te hiam?” a ci-te hi.
 
-**ZVS:** { Topa' } tungah na phunna uh amah in za khin ahih manin zingsang ciangin { Topa' } vangliatna na mu ding uh hi. Bang hang hiam cih leh kote' tungah na phun uh, kote a bang hi mawk ka hi uh hiam?” a ci hi.
+**ZVS:** { Topa' } tungah na phunna-te amah in za khin ahih manin zingsang ciangin { Topa' } vangliatna na mu ding-te hi. Bang hang hiam cih leh kote' tungah na phun uh, kote a bang hi mawk ka hi-te hiam?” a ci hi.
 
 **Grammar:** quotative: said/saying | future: will | causal: because | plural: uh marker
 
 ### v8
 **EN:** And Moses said, This shall be, when the
 
-**TDB77:** Moses in, “Ama' tungah na phunnate uh Topa in a zakna hangin, Topa in note' tungah nitakin nek ding sa, zingsangin kham tak-a na nek ding uh an hong piak ciangin—kote in a bang hi mawk ka hi uh hiam? Note’ phunnate in kote’ tung hi loin Topa’ tung ahi hi,” a ci hi.
+**TDB77:** Moses in, “Ama' tungah na phunnate-te Topa in a zakna hangin, Topa in note' tungah nitakin nek ding sa, zingsangin kham tak-a na nek ding-te an hong piak ciangin—kote in a bang hi mawk ka hi-te hiam? Note’ phunnate in kote’ tung hi loin Topa’ tung ahi hi,” a ci hi.
 
-**ZVS:** Moses in, “Ama tungah na phunnate uh { Topa } in a zakna hangin, { Topa } in note' tungah nitak an nek ding sa, zingsangin na kham tak uha na nek ding uh an hong piak ciangin — kote pen a bang hi mawk ka hi uh hiam? Note' phunnate pen kote' tung hiloin { Topa' } tung ahi hi,” a ci hi.
+**ZVS:** Moses in, “Ama tungah na phunnate-te { Topa } in a zakna hangin, { Topa } in note' tungah nitak an nek ding sa, zingsangin na kham tak uha na nek ding-te an hong piak ciangin — kote pen a bang hi mawk ka hi-te hiam? Note' phunnate pen kote' tung hiloin { Topa' } tung ahi hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | plural: uh marker
 
@@ -108,9 +108,9 @@
 ### v10
 **EN:** And it came to pass, as Aaron spake unto the whole congregation of the children of Israel, that they looked toward the wilderness, and, behold, the glory of the
 
-**TDB77:** Israel mihon buppi' tungah Aaron in thu a gen lai takin, amaute in gamlak lam en uh hi, en in, meii sungah Topa’ minthan’na hong kilang hi.
+**TDB77:** Israel mihon buppi' tungah Aaron in thu a gen lai takin, amaute in gamlak lam en-te hi, en in, meii sungah Topa’ minthan’na hong kilang hi.
 
-**ZVS:** Israel mihon buppi tungah Aaron in thu a gen laitakin, amaute in sehnel gam lam en uh a, tua laitakin meii sungah { Topa' } vangliatna hong kilang hi.
+**ZVS:** Israel mihon buppi tungah Aaron in thu a gen laitakin, amaute in sehnel gam lam en-te a, tua laitakin meii sungah { Topa' } vangliatna hong kilang hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -126,9 +126,9 @@
 ### v12
 **EN:** I have heard the murmurings of the children of Israel: speak unto them, saying, At even ye shall eat flesh, and in the morning ye shall be filled with bread; and ye shall know that I am the
 
-**TDB77:** “Israel mite’ phunnate ka za khin hi; amaute' kiangah, ‘Khuamui ciangin note in sa na ne ding uh a, zingsang ciangin an na kham ding uh hi; tua ciangin keimah in Topa na Pasian uh ka hihna na thei ding uh hi,’ ci in,” a ci hi.
+**TDB77:** “Israel mite’ phunnate ka za khin hi; amaute' kiangah, ‘Khuamui ciangin note in sa na ne ding-te a, zingsang ciangin an na kham ding-te hi; tua ciangin keimah in Topa na Pasian-te ka hihna na thei ding-te hi,’ ci in,” a ci hi.
 
-**ZVS:** “Israel mite' phunnate ka za khin hi. Amaute kiangah, ‘Khuamui ciangin note in sa na ne ding uh a, zingsang ciangin an na kham ding uh hi. Tua ciangin kei pen { Topa } na Pasian uh ka hihna na thei ding uh hi,’ ci in,” a ci hi.
+**ZVS:** “Israel mite' phunnate ka za khin hi. Amaute kiangah, ‘Khuamui ciangin note in sa na ne ding-te a, zingsang ciangin an na kham ding-te hi. Tua ciangin kei pen { Topa } na Pasian-te ka hihna na thei ding-te hi,’ ci in,” a ci hi.
 
 **Grammar:** quotative: said/saying | sequence: then/therefore | completed: already done | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -151,36 +151,36 @@
 ### v15
 **EN:** And when the children of Israel saw it, they said one to another, It is manna: for they wist not what it was. And Moses said unto them, This is the bread which the
 
-**TDB77:** Israel mite in a muh uh ciangin amaute khat leh khat in, “Bang ahi hiam?” kici uh hi. Bang hang hiam cih leh amaute in tua pen bang hiam cih thei lo uh hi. Moses in amaute' kiangah, “Topa in nek dinga note' tungah hong piak an ahi hi.
+**TDB77:** Israel mite in a muh-te ciangin amaute khat leh khat in, “Bang ahi hiam?” kici-te hi. Bang hang hiam cih leh amaute in tua pen bang hiam cih thei lo-te hi. Moses in amaute' kiangah, “Topa in nek dinga note' tungah hong piak an ahi hi.
 
-**ZVS:** Israel mite in a muh uh ciangin amaute khatlekhat in, “Bang ahi hiam?” kici uh hi. Bang hang hiam cih leh amaute in tua pen bang hiam cih theilo uh hi. Moses in amaute' kiangah, “{ Topa } in nek dinga note' tungah hong piak an ahi hi.
+**ZVS:** Israel mite in a muh-te ciangin amaute khatlekhat in, “Bang ahi hiam?” kici-te hi. Bang hang hiam cih leh amaute in tua pen bang hiam cih theilo-te hi. Moses in amaute' kiangah, “{ Topa } in nek dinga note' tungah hong piak an ahi hi.
 
 **Grammar:** negation: lo | reciprocal: ki- prefix | plural: uh marker
 
 ### v16
 **EN:** This is the thing which the
 
-**TDB77:** Topa’ thupiak in hih bang hi: ‘Note in na milip-un na kham zah ding uh khawm un; note in na puanbuk sung uh-ah a om mi zah tawh kituakin mi khat in lawhta khat ciat na la ding uh hi,’ ci hi,” ci-in a gen hi.
+**TDB77:** Topa’ thupiak in hih bang hi: ‘Note in na milip-un na kham zah ding-te khawm un; note in na puanbuk sung uh-ah a om mi zah tawh kituakin mi khat in lawhta khat ciat na la ding-te hi,’ ci hi,” ci-in a gen hi.
 
-**ZVS:** { Topa' } thupiak hih bang ahi hi: ‘Note in na milipun na khamzah ding uh khawm un. Na puanbuk sung uhah mi omzah tawh kituakin mi khat lawhta khat ciat na la ding uh hi,’ ci hi,” ci-in a gen hi.
+**ZVS:** { Topa' } thupiak hih bang ahi hi: ‘Note in na milipun na khamzah ding-te khawm un. Na puanbuk sung uhah mi omzah tawh kituakin mi khat lawhta khat ciat na la ding-te hi,’ ci hi,” ci-in a gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
 ### v17
 **EN:** And the children of Israel did so, and gathered, some more, some less.
 
-**TDB77:** Tua mah bangin Israel mite gamta uh hi; amaute in kaikhawm uh a, kimkhat in tam, kimkhat in tawm kaikhawm hi.
+**TDB77:** Tua mah bangin Israel mite gamta-te hi; amaute in kaikhawm-te a, kimkhat in tam, kimkhat in tawm kaikhawm hi.
 
-**ZVS:** Tua mah bangin Israel mite gamta uh hi. Amaute in kaikhawm uh a, pawlkhat in tam, pawlkhat in tawm, kaikhawm uh hi.
+**ZVS:** Tua mah bangin Israel mite gamta-te hi. Amaute in kaikhawm-te a, pawlkhat in tam, pawlkhat in tawm, kaikhawm-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
 ### v18
 **EN:** And when they did mete it with an omer, he that gathered much had nothing over, and he that gathered little had no lack; they gathered every man according to his eating.
 
-**TDB77:** Ahih hangin amaute in lawhta khat tawh a teh uh ciangin a tam a kaikhawmpa aa dim val lo a, tawm a kaikhawmpa’ aa dim lah lo hi; a milip-in a kham zah ding khawm uh hi.
+**TDB77:** Ahih hangin amaute in lawhta khat tawh a teh-te ciangin a tam a kaikhawmpa aa dim val lo a, tawm a kaikhawmpa’ aa dim lah lo hi; a milip-in a kham zah ding khawm-te hi.
 
-**ZVS:** Ahih hangin amaute in lawhta khat tawh a teh uh ciangin a tam a kaikhawmte-a' dimvallo a, a tawm a kaikhawmte-a' dimlah tuanlo hi. A milipin a khamzah ding khawm uh hi.
+**ZVS:** Ahih hangin amaute in lawhta khat tawh a teh-te ciangin a tam a kaikhawmte-a' dimvallo a, a tawm a kaikhawmte-a' dimlah tuanlo hi. A milipin a khamzah ding khawm-te hi.
 
 **Grammar:** serial verb: -in (and then) | negation: lo | plural: uh marker
 
@@ -196,72 +196,72 @@
 ### v20
 **EN:** Notwithstanding they hearkened not unto Moses; but some of them left of it until the morning, and it bred worms, and stank: and Moses was wroth with them.
 
-**TDB77:** Ahih hangin amaute in Moses’ thu ngai lo uh hi; mi pawl khat in zingsang dong koih uh a, than omin ning hi; amaute' tungah Moses heh hi.
+**TDB77:** Ahih hangin amaute in Moses’ thu ngai lo-te hi; mi pawl khat in zingsang dong koih-te a, than omin ning hi; amaute' tungah Moses heh hi.
 
-**ZVS:** Ahih hangin amaute in Moses' thu ngailo uh hi. Mi pawlkhat in zingsang dong koih uh a, than omin ning hi. Amaute tungah Moses heh hi.
+**ZVS:** Ahih hangin amaute in Moses' thu ngailo-te hi. Mi pawlkhat in zingsang dong koih-te a, than omin ning hi. Amaute tungah Moses heh hi.
 
 **Grammar:** negation: lo | plural: uh marker
 
 ### v21
 **EN:** And they gathered it every morning, every man according to his eating: and when the sun waxed hot, it melted.
 
-**TDB77:** Zingsang simin amaute in a kham zah ding ciat uh khawm uh hi; ahih hangin ni a sat ciangin tuisuak hi.
+**TDB77:** Zingsang simin amaute in a kham zah ding ciat-te khawm-te hi; ahih hangin ni a sat ciangin tuisuak hi.
 
-**ZVS:** Zingsang simin amaute in a khamzah ding ciat uh khawm uh hi. Ahi zongin ni a sat ciangin leilaka omte tuisuak hi.
+**ZVS:** Zingsang simin amaute in a khamzah ding ciat-te khawm-te hi. Ahi zongin ni a sat ciangin leilaka omte tuisuak hi.
 
 **Grammar:** plural: uh marker
 
 ### v22
 **EN:** And it came to pass, that on the sixth day they gathered twice as much bread, two omers for one man: and all the rulers of the congregation came and told Moses.
 
-**TDB77:** A ni guk ni-in amaute in an a zah nih, lawhta nih ciat, khawm uh hi; mihon makaite khempeuh hong pai-in Moses' kiangah a gen uh ciangin,
+**TDB77:** A ni guk ni-in amaute in an a zah nih, lawhta nih ciat, khawm-te hi; mihon makaite khempeuh hong pai-in Moses' kiangah a gen-te ciangin,
 
-**ZVS:** A ni guk ni-in amaute in an a zah nih, lawhta nih ciat, khawm uh hi. Mihon makaite khempeuh hong pai-in Moses kiangah a gen uh ciangin
+**ZVS:** A ni guk ni-in amaute in an a zah nih, lawhta nih ciat, khawm-te hi. Mihon makaite khempeuh hong pai-in Moses kiangah a gen-te ciangin
 
 **Grammar:** serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
 ### v23
 **EN:** And he said unto them, This is that which the
 
-**TDB77:** amah in amaute' kiangah, “Hih in Topa’ hong thupiak ahi hi: ‘Zing ciang pen a thupi-a tawlngak ni, Topa’ adingin sabbath siangtho ni ahi hi; na em dingte uh em-in, na huan dingte uh huan un la, a om lai teng zingsang ciang dong koih un,’ ci hi,” ci-in a gen hi.
+**TDB77:** amah in amaute' kiangah, “Hih in Topa’ hong thupiak ahi hi: ‘Zing ciang pen a thupi-a tawlngak ni, Topa’ adingin sabbath siangtho ni ahi hi; na em dingte-te em-in, na huan dingte-te huan un la, a om lai teng zingsang ciang dong koih un,’ ci hi,” ci-in a gen hi.
 
-**ZVS:** amah in amaute kiangah, “{ Topa' } hong thupiak hih bang ahi hi: ‘Zing ciang pen a thupi-a tawlngak ni, { Topa}-a' dingin sabbath siangtho ni ahi hi. Na em dingte uh emin, na huan dingte uh huan un la, a omlai teng zingsang ciangdong koih un,’ ci hi,” ci-in a gen hi.
+**ZVS:** amah in amaute kiangah, “{ Topa' } hong thupiak hih bang ahi hi: ‘Zing ciang pen a thupi-a tawlngak ni, { Topa}-a' dingin sabbath siangtho ni ahi hi. Na em dingte-te emin, na huan dingte-te huan un la, a omlai teng zingsang ciangdong koih un,’ ci hi,” ci-in a gen hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | purpose: in order to | reciprocal: ki- prefix
 
 ### v24
 **EN:** And they laid it up till the morning, as Moses bade: and it did not stink, neither was there any worm therein.
 
-**TDB77:** Tua ahih ciangin amaute in Moses’ sawl bangin zingsang dong koih uh hi; ning lo a, a sungah thante om lo hi.
+**TDB77:** Tua ahih ciangin amaute in Moses’ sawl bangin zingsang dong koih-te hi; ning lo a, a sungah thante om lo hi.
 
-**ZVS:** Tua ahih ciangin amaute in Moses' sawl bangin zingsang dong koih uh hi. Ninglo a, than zong tulo hi.
+**ZVS:** Tua ahih ciangin amaute in Moses' sawl bangin zingsang dong koih-te hi. Ninglo a, than zong tulo hi.
 
 **Grammar:** sequence: then/therefore | negation: lo | plural: uh marker
 
 ### v25
 **EN:** And Moses said, Eat that to day; for to day is a sabbath unto the
 
-**TDB77:** Moses in , “Tu ni-in ne un, tu ni-in Topa adingin sabbath ahi hi; tu ni-in gamlakah na mu kei ding uh hi;
+**TDB77:** Moses in , “Tu ni-in ne un, tu ni-in Topa adingin sabbath ahi hi; tu ni-in gamlakah na mu kei ding-te hi;
 
-**ZVS:** Moses in, “Tuni-in ne un; tuni pen { Topa}-a' dingin Sabbath ahi hi. Tuni-in a pualamah na mu kei ding uh hi.
+**ZVS:** Moses in, “Tuni-in ne un; tuni pen { Topa}-a' dingin Sabbath ahi hi. Tuni-in a pualamah na mu kei ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | negation: kei | plural: uh marker
 
 ### v26
 **EN:** Six days ye shall gather it; but on the seventh day, which is the sabbath, in it there shall be none.
 
-**TDB77:** Note in ni guk sung na khawm ding uh hi; ahih hangin sabbath ni ahi a ni sagih ni-in bang mah om lo ding hi,” a ci hi.
+**TDB77:** Note in ni guk sung na khawm ding-te hi; ahih hangin sabbath ni ahi a ni sagih ni-in bang mah om lo ding hi,” a ci hi.
 
-**ZVS:** Note in ni guk sung na khawm ding uh a, ahi zongin sabbath ni ahi a ni sagih ni-in bangmah omlo ding hi,” a ci hi.
+**ZVS:** Note in ni guk sung na khawm ding-te a, ahi zongin sabbath ni ahi a ni sagih ni-in bangmah omlo ding hi,” a ci hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | future: will | negation: lo | plural: uh marker
 
 ### v27
 **EN:** And it came to pass, that there went out some of the people on the seventh day for to gather, and they found none.
 
-**TDB77:** A ni sagih ni-in a kaikhawm dingin mi pawl khat kuan khia uh a, amaute in bangmah mu lo uh hi.
+**TDB77:** A ni sagih ni-in a kaikhawm dingin mi pawl khat kuan khia-te a, amaute in bangmah mu lo-te hi.
 
-**ZVS:** A ni sagih ni-in a kaikhawm dingin mi pawlkhat kuankhia uh a, ahi zongin amaute in bangmah mulo uh hi.
+**ZVS:** A ni sagih ni-in a kaikhawm dingin mi pawlkhat kuankhia-te a, ahi zongin amaute in bangmah mulo-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | negation: lo | plural: uh marker
 
@@ -270,7 +270,7 @@
 
 **TDB77:** Topa in Moses' kiangah, “Ka thupiakte leh ka thute zuih ding bang tan vei nial ding na hi hiam?
 
-**ZVS:** { Topa } in Moses kiangah, “Ka thupiakte leh ka thute zuih ding bang tanvei nial ding na hi uh hiam?
+**ZVS:** { Topa } in Moses kiangah, “Ka thupiakte leh ka thute zuih ding bang tanvei nial ding na hi-te hiam?
 
 **Grammar:** reciprocal: ki- prefix
 
@@ -288,16 +288,16 @@
 
 **TDB77:** Tua ahih ciangin a ni sagih ni-in mite tawlnga hi.
 
-**ZVS:** Tua ahih ciangin a ni sagih ni-in mite tawlnga uh hi.
+**ZVS:** Tua ahih ciangin a ni sagih ni-in mite tawlnga-te hi.
 
 **Grammar:** sequence: then/therefore | serial verb: -in (and then)
 
 ### v31
 **EN:** And the house of Israel called the name thereof Manna: and it was like coriander seed, white; and the taste of it was like wafers made with honey.
 
-**TDB77:** Tu-in Israel mite in a min manna ci uh hi; tua pen nannan tang tawh kibangin, a meel kang a, a limna pen, khuaizu tawh a kibawl mohpheng tawh kibang hi.
+**TDB77:** Tu-in Israel mite in a min manna ci-te hi; tua pen nannan tang tawh kibangin, a meel kang a, a limna pen, khuaizu tawh a kibawl mohpheng tawh kibang hi.
 
-**ZVS:** Tu-in Israel mite in a min manna ci uh hi. Tua pen nannan tang tawh kibangin a meel kang a, a limna pen khuaizu tawh a kibawl mohpheng tawh kibang hi.
+**ZVS:** Tu-in Israel mite in a min manna ci-te hi. Tua pen nannan tang tawh kibangin a meel kang a, a limna pen khuaizu tawh a kibawl mohpheng tawh kibang hi.
 
 **Grammar:** quotative: said/saying | serial verb: -in (and then) | reciprocal: ki- prefix | plural: uh marker
 
@@ -331,9 +331,9 @@
 ### v35
 **EN:** And the children of Israel did eat manna forty years, until they came to a land inhabited; they did eat manna, until they came unto the borders of the land of Canaan.
 
-**TDB77:** Amaute' teen’ theih nading leitang a tun’ mateng, kum sawmli sung Israel mite in manna ne uh hi; amaute Kanaan gamgi a tun’ matengun manna ne uh hi.
+**TDB77:** Amaute' teen’ theih nading leitang a tun’ mateng, kum sawmli sung Israel mite in manna ne-te hi; amaute Kanaan gamgi a tun’ matengun manna ne-te hi.
 
-**ZVS:** Amaute a ten' theihna ding uh leitang a tun' mateng, kum sawmli sung Israel mite in manna ne uh a, Kanaan gamgi a tun' matengun manna bek a ne uh ahi hi.
+**ZVS:** Amaute a ten' theihna ding-te leitang a tun' mateng, kum sawmli sung Israel mite in manna ne-te a, Kanaan gamgi a tun' matengun manna bek a ne-te ahi hi.
 
 **Grammar:** plural: uh marker
 

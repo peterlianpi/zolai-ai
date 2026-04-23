@@ -28,9 +28,9 @@
 ### v1
 **EN:** And Moses called all Israel, and said unto them, Hear, O Israel, the statutes and judgments which I speak in your ears this day, that ye may learn them, and keep, and do them.
 
-**TDB77:** Moses in Israelte khempeuh samin amaute kiangah, “Israelte aw, tu ni-a note zak-in kong gen thukhamte leh ngeina kipte za un la, note in thei-in lim takin zuih ding na ngaihsun ding uh hi.
+**TDB77:** Moses in Israelte khempeuh samin amaute kiangah, “Israelte aw, tu ni-a note zak-in kong gen thukhamte leh ngeina kipte za un la, note in thei-in lim takin zuih ding na ngaihsun ding-te hi.
 
-**ZVS:** Moses in Israel-te khempeuh samin amaute kiangah, “Israel-te aw, tuni-a note' zakin kong gen thukhamte leh ngeina kipte ngai un la, note in thei-in limtakin zuih ding na ngaihsun ding uh hi.
+**ZVS:** Moses in Israel-te khempeuh samin amaute kiangah, “Israel-te aw, tuni-a note' zakin kong gen thukhamte leh ngeina kipte ngai un la, note in thei-in limtakin zuih ding na ngaihsun ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | reciprocal: ki- prefix | plural: uh marker
 
@@ -56,9 +56,9 @@
 ### v5
 **EN:** (I stood between the
 
-**TDB77:** Note tungah Topa’ thu a gen dingin Topa leh note kikalah ka din’ hun lai takin, mei sung panin tua mual-ah Topa in kimai tuahin note hong hopih hi; mei hangin note lau na hih manun mual tungah na paito kei uh hi. Amah in:
+**TDB77:** Note tungah Topa’ thu a gen dingin Topa leh note kikalah ka din’ hun lai takin, mei sung panin tua mual-ah Topa in kimai tuahin note hong hopih hi; mei hangin note lau na hih manun mual tungah na paito kei-te hi. Amah in:
 
-**ZVS:** Note' tungah { Topa' } thu a gen dingin { Topa } leh note' kikalah ka din' laitakin, mei sung panin tua mualah { Topa } in kimaituahin note hong hopih a, mei hangin note lau na hih manun mualtungah na paito kei uh hi. Amah in:
+**ZVS:** Note' tungah { Topa' } thu a gen dingin { Topa } leh note' kikalah ka din' laitakin, mei sung panin tua mualah { Topa } in kimaituahin note hong hopih a, mei hangin note lau na hih manun mualtungah na paito kei-te hi. Amah in:
 
 **Grammar:** purpose: in order to | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
@@ -67,14 +67,14 @@
 
 **TDB77:** “Keimah in salsuahna, Izipt leitang panin nang a hong paikhiatpih Topa na Pasian ka hi hi.
 
-**ZVS:** “‘Kei pen salsuahna Egypt leitang panin note a hong paikhiatpih { Topa } na Pasian uh ka hi hi.
+**ZVS:** “‘Kei pen salsuahna Egypt leitang panin note a hong paikhiatpih { Topa } na Pasian-te ka hi hi.
 
 ### v7
 **EN:** Thou shalt have none other gods before me.
 
 **TDB77:** “Keimah longal pasian dang na nei kei ding hi.
 
-**ZVS:** “‘Keimah longal pasian dang na nei kei ding uh hi.
+**ZVS:** “‘Keimah longal pasian dang na nei kei ding-te hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -83,7 +83,7 @@
 
 **TDB77:** “A kiseek milim hita leh, tunga vantunga om hita leh, nuai-a leitunga om hita leh, lei nuai-a om tui sungah hita leh a om na khatpeuh peuh a sun khatpeuh peuh nang adingin na bawl kei ding hi;
 
-**ZVS:** “‘A kiseek milim hita leh, tunga vantung hita leh, nuai-a leitung hita leh, leinuai-a om tui sung hita lehah a om na khat peuhpeuh a sun khat peuhpeuh note-a' dingin na bawl kei ding uh hi.
+**ZVS:** “‘A kiseek milim hita leh, tunga vantung hita leh, nuai-a leitung hita leh, leinuai-a om tui sung hita lehah a om na khat peuhpeuh a sun khat peuhpeuh note-a' dingin na bawl kei ding-te hi.
 
 **Grammar:** purpose: in order to | future: will | negation: kei | reciprocal: ki- prefix
 
@@ -92,7 +92,7 @@
 
 **TDB77:** amaute mai-ah kun loin, amau’na na sem kei ding hi; bang hang hiam cih leh keimah Topa na Pasian in a aam Pasian ka hi a, kei hong mudahte tungah a pate’ mawhna a tate tungah khang thum khang lina dongin thuk-in,
 
-**ZVS:** Amaute' mai-ah kunloin, amau' na na sem kei ding uh hi; bang hang hiam cih leh keimah { Topa } note' Pasian, a aam Pasian ka hi a, kei hong mudahte' tungah a pate' mawhna a tate' tungah khang thum khang lina dongin thuk-in,
+**ZVS:** Amaute' mai-ah kunloin, amau' na na sem kei ding-te hi; bang hang hiam cih leh keimah { Topa } note' Pasian, a aam Pasian ka hi a, kei hong mudahte' tungah a pate' mawhna a tate' tungah khang thum khang lina dongin thuk-in,
 
 **Grammar:** serial verb: -in (and then) | future: will | negation: kei
 
@@ -110,7 +110,7 @@
 
 **TDB77:** “Topa na Pasian’ min na zangkhai zat kei ding hi: bang hang hiam cih leh Topa in ama min a zangkhai zat mi a mawh lo hi, ci lo ding hi.
 
-**ZVS:** “‘{ Topa } note' Pasian' min a sia lamin na zang kei ding uh hi; bang hang hiam cih leh { Topa } in ama min a sia lamin a zang mi a mawhlo hi, cilo ding hi.
+**ZVS:** “‘{ Topa } note' Pasian' min a sia lamin na zang kei ding-te hi; bang hang hiam cih leh { Topa } in ama min a sia lamin a zang mi a mawhlo hi, cilo ding hi.
 
 **Grammar:** future: will | negation: kei | negation: lo
 
@@ -128,16 +128,16 @@
 
 **TDB77:** Ni guk sung na semin na nasep ding khempeuh na hih ding hi;
 
-**ZVS:** Ni guk sung na semin na nasep ding khempeuh uh na hih ding uh hi.
+**ZVS:** Ni guk sung na semin na nasep ding khempeuh-te na hih ding-te hi.
 
 **Grammar:** future: will
 
 ### v14
 **EN:** But the seventh day is the sabbath of the
 
-**TDB77:** ahih hangin a ni sagih ni in Topa na Pasian’ sabbath ni ahi hi; tua ni-in nangmah bangin na nasem pasal leh na nasem numeite a tawlngak theih nadingin, nang, na tapate, na tanute, na nasempate, na nasem nute, na bawngtal, na la, na ganhing khatpeuh peuh leh na huang sung om zinte in na khatpeuh peuh sem lo ding uh hi.
+**TDB77:** ahih hangin a ni sagih ni in Topa na Pasian’ sabbath ni ahi hi; tua ni-in nangmah bangin na nasem pasal leh na nasem numeite a tawlngak theih nadingin, nang, na tapate, na tanute, na nasempate, na nasem nute, na bawngtal, na la, na ganhing khatpeuh peuh leh na huang sung om zinte in na khatpeuh peuh sem lo ding-te hi.
 
-**ZVS:** Ahih hangin a ni sagih ni pen { Topa } note' Pasian' Sabbath ni ahi hi. Tua ni-in note bangin na nasem numei leh na nasem pasalte uh a tawlngak theihna dingin note, na tapate, na tanute, na nasemnute, na nasempate, na bawngtal, na la, na ganhing khat peuhpeuh uh leh na huang sung uha om zinte in na khat peuhpeuh semlo ding uh hi.
+**ZVS:** Ahih hangin a ni sagih ni pen { Topa } note' Pasian' Sabbath ni ahi hi. Tua ni-in note bangin na nasem numei leh na nasem pasalte-te a tawlngak theihna dingin note, na tapate, na tanute, na nasemnute, na nasempate, na bawngtal, na la, na ganhing khat peuhpeuh-te leh na huang sung uha om zinte in na khat peuhpeuh semlo ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to | future: will | plural: uh marker
 
@@ -146,7 +146,7 @@
 
 **TDB77:** Izipt gamah nasem na hihna leh tua lai panin Topa na Pasian in a vangliatna khut leh a thahatna tawh hong paikhiatpihna na phawk ding hi; tua ahih ciangin sabbath ni na tan’ ding Topa na Pasian in thu hong pia hi.
 
-**ZVS:** Egypt-ah nasem na hihna uh leh tua lai panin { Topa } na Pasian un a vangliatna khut leh a thahatna tawh hong paikhiatpihna na phawk ding uh hi. Tua ahih ciangin Sabbath ni na tan' ding uh { Topa } note' Pasian in thu hong pia hi.
+**ZVS:** Egypt-ah nasem na hihna-te leh tua lai panin { Topa } na Pasian un a vangliatna khut leh a thahatna tawh hong paikhiatpihna na phawk ding-te hi. Tua ahih ciangin Sabbath ni na tan' ding-te { Topa } note' Pasian in thu hong pia hi.
 
 **Grammar:** sequence: then/therefore | future: will
 
@@ -155,7 +155,7 @@
 
 **TDB77:** “Topa na Pasian in hong piak leitang tungah na khan’ sau-in na nopsak theih nadingin Topa na Pasian in hong thupiak bangin na nu na pa zahtak in.
 
-**ZVS:** “‘{ Topa } note' Pasian in hong piak leitang tungah na khan' uh sau-in na nopsak theihna dingun { Topa } note' Pasian in hong thupiak bangin na nu na pa uh zahtak un.
+**ZVS:** “‘{ Topa } note' Pasian in hong piak leitang tungah na khan' uh sau-in na nopsak theihna dingun { Topa } note' Pasian in hong thupiak bangin na nu na pa-te zahtak un.
 
 **Grammar:** serial verb: -in (and then) | purpose: in order to
 
@@ -164,7 +164,7 @@
 
 **TDB77:** “‘Mi na that kei ding hi.
 
-**ZVS:** “‘Mi na that kei ding uh hi.
+**ZVS:** “‘Mi na that kei ding-te hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -173,7 +173,7 @@
 
 **TDB77:** “‘Nu-le-pa mawhna zong na bawl kei ding hi.
 
-**ZVS:** “‘Nulepa mawhna zong na bawl kei ding uh hi.
+**ZVS:** “‘Nulepa mawhna zong na bawl kei ding-te hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -182,7 +182,7 @@
 
 **TDB77:** “‘Na na gu kei ding hi.
 
-**ZVS:** “‘Na na gu kei ding uh hi.
+**ZVS:** “‘Na na gu kei ding-te hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -191,7 +191,7 @@
 
 **TDB77:** “‘Na vengte lang khatah zong a man loin teci na pang kei ding hi.
 
-**ZVS:** “‘Na vengte uh langkhatah zong a manloin teci na pang kei ding uh hi.
+**ZVS:** “‘Na vengte-te langkhatah zong a manloin teci na pang kei ding-te hi.
 
 **Grammar:** future: will | negation: kei
 
@@ -200,7 +200,7 @@
 
 **TDB77:** “‘Na vengte’ zi zong na deihgawh kei ding hi; na vengte’ inn, a lo, a nasempa, a nasemnu, a bawngtal, a la, ahih kei leh na vengte’ na khatpeuh peuh na deih kei ding hi,’ ci hi.
 
-**ZVS:** “‘Na vengte uh zi zong na deihgawh kei ding uh hi. Na vengte' inn, a lo, a nasempa, a nasemnu, a bawngtal, a la, ahih kei leh na vengte' na khat peuhpeuh na deihgawh kei ding uh hi,’ ci hi.
+**ZVS:** “‘Na vengte-te zi zong na deihgawh kei ding-te hi. Na vengte' inn, a lo, a nasempa, a nasemnu, a bawngtal, a la, ahih kei leh na vengte' na khat peuhpeuh na deihgawh kei ding-te hi,’ ci hi.
 
 **Grammar:** quotative: said/saying | future: will | negation: kei
 
@@ -216,9 +216,9 @@
 ### v23
 **EN:** And it came to pass, when ye heard the voice out of the midst of the darkness, (for the mountain did burn with fire,) that ye came near unto me, even all the heads of your tribes, and your elders;
 
-**TDB77:** Mei in mual a kat lai takin khuamial sung panin awging na zak uh ciangin na minam lutang khempeuh uh leh na upate uh kei kiangah nong pai uh hi;
+**TDB77:** Mei in mual a kat lai takin khuamial sung panin awging na zak-te ciangin na minam lutang khempeuh-te leh na upate-te kei kiangah nong pai-te hi;
 
-**ZVS:** “Mei in mual a kat laitakin khuamial sung panin awging na zak uh ciangin minam lutang khempeuh leh upate kei kiangah hong pai uh hi.
+**ZVS:** “Mei in mual a kat laitakin khuamial sung panin awging na zak-te ciangin minam lutang khempeuh leh upate kei kiangah hong pai-te hi.
 
 **Grammar:** reciprocal: ki- prefix | plural: uh marker
 
@@ -252,27 +252,27 @@
 ### v27
 **EN:** Go thou near, and hear all that the
 
-**TDB77:** A nai-ah va pai in la, Topa i Pasian in a gen ding khempeuh va za in; Topa i Pasian in nang tungah hong gen ding teng ko tungah hong gen in; kote in hong mangin ka sem ding uh hi,’ nong ci uh hi.
+**TDB77:** A nai-ah va pai in la, Topa i Pasian in a gen ding khempeuh va za in; Topa i Pasian in nang tungah hong gen ding teng ko tungah hong gen in; kote in hong mangin ka sem ding-te hi,’ nong ci-te hi.
 
-**ZVS:** A nai-ah va pai in la, { Topa } i Pasian in a gen ding khempeuh va za in. { Topa } i Pasian in nang tungah hong genteng ko' tungah nang hong gensawn in. Kote in hong mangin ka sem ding uh hi,’ nong ci uh hi.
+**ZVS:** A nai-ah va pai in la, { Topa } i Pasian in a gen ding khempeuh va za in. { Topa } i Pasian in nang tungah hong genteng ko' tungah nang hong gensawn in. Kote in hong mangin ka sem ding-te hi,’ nong ci-te hi.
 
 **Grammar:** quotative: said/saying | future: will | plural: uh marker
 
 ### v28
 **EN:** And the
 
-**TDB77:** “Kei kiangah nong gen uh ciangin Topa in na thu uh a za hi; Topa in kei kiangah, “Hih mite in nang kiangah hong gen uh thute ka za khin hi; a gen khempeuh uh a manin gen uh hi.
+**TDB77:** “Kei kiangah nong gen-te ciangin Topa in na thu-te a za hi; Topa in kei kiangah, “Hih mite in nang kiangah hong gen-te thute ka za khin hi; a gen khempeuh-te a manin gen-te hi.
 
-**ZVS:** “Kei kiangah nong gen uh ciangin { Topa } in na thu uh a za hi. { Topa } in kei kiangah, ‘Hih mite in nang kiangah hong gen uh thu ka za khin a, a gen khempeuh uh a manin gen uh hi.
+**ZVS:** “Kei kiangah nong gen-te ciangin { Topa } in na thu-te a za hi. { Topa } in kei kiangah, ‘Hih mite in nang kiangah hong gen-te thu ka za khin a, a gen khempeuh-te a manin gen-te hi.
 
 **Grammar:** completed: already done | causal: because | reciprocal: ki- prefix | plural: uh marker
 
 ### v29
 **EN:** O that there were such an heart in them, that they would fear me, and keep all my commandments always, that it might be well with them, and with their children for ever!
 
-**TDB77:** Amaute leh a suan a khakte uh a nopsak tawntung theih nadingin keimah zahtak ding leh ka thupiak khempeuh zuih ding hih bang ngaihsutna nei tawntung le-uh ka deih ahi hi.
+**TDB77:** Amaute leh a suan a khakte-te a nopsak tawntung theih nadingin keimah zahtak ding leh ka thupiak khempeuh zuih ding hih bang ngaihsutna nei tawntung le-uh ka deih ahi hi.
 
-**ZVS:** Amaute leh a suan a khakte uh a nopsak tawntung theihna dingun keimah zahtak ding leh ka thupiak khempeuh zuih ding hih bang ngaihsutna nei tawntung le-uh ka deih ahi hi.
+**ZVS:** Amaute leh a suan a khakte-te a nopsak tawntung theihna dingun keimah zahtak ding leh ka thupiak khempeuh zuih ding hih bang ngaihsutna nei tawntung le-uh ka deih ahi hi.
 
 **Grammar:** purpose: in order to | plural: uh marker
 
@@ -297,18 +297,18 @@
 ### v32
 **EN:** Ye shall observe to do therefore as the
 
-**TDB77:** Tua ahih ciangin Topa na Pasian un note hong thupiak bangin na gamtat ding uh na kingaihsun ding uh hi; ama thu panin taklam hita leh vei lamah hita leh na pial kei ding uh hi.
+**TDB77:** Tua ahih ciangin Topa na Pasian un note hong thupiak bangin na gamtat ding-te na kingaihsun ding-te hi; ama thu panin taklam hita leh vei lamah hita leh na pial kei ding-te hi.
 
-**ZVS:** “Tua ahih ciangin { Topa } na Pasian un note hong thupiak bangin na gamtat ding uh na kingaihsun ding uh a, ama thu panin taklam hita leh veilam hita lehah na pial kei ding uh hi.
+**ZVS:** “Tua ahih ciangin { Topa } na Pasian un note hong thupiak bangin na gamtat ding-te na kingaihsun ding-te a, ama thu panin taklam hita leh veilam hita lehah na pial kei ding-te hi.
 
 **Grammar:** sequence: then/therefore | future: will | negation: kei | reciprocal: ki- prefix | plural: uh marker
 
 ### v33
 **EN:** Ye shall walk in all the ways which the
 
-**TDB77:** Note nungta-in, nuamsa-in, na tan’ ding uh leitangah sawtpi na nuntak nadingun Topa na Pasian un note hong thupiakna lampi khempeuh na tawn ding uh hi.
+**TDB77:** Note nungta-in, nuamsa-in, na tan’ ding-te leitangah sawtpi na nuntak nadingun Topa na Pasian un note hong thupiakna lampi khempeuh na tawn ding-te hi.
 
-**ZVS:** Note nungta-in, nuamsa-in na luah ding uh leitangah sawtpi na nuntakna dingun { Topa } na Pasian un note hong thupiakna lampi khempeuh na tawn ding uh hi.
+**ZVS:** Note nungta-in, nuamsa-in na luah ding-te leitangah sawtpi na nuntakna dingun { Topa } na Pasian un note hong thupiakna lampi khempeuh na tawn ding-te hi.
 
 **Grammar:** serial verb: -in (and then) | future: will | plural: uh marker
 
