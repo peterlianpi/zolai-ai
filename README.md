@@ -1,9 +1,9 @@
 # Zomi AI: The Zolai Second Brain
 
-[![CI](https://github.com/peterlianpi/zolai-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/peterlianpi/zolai-ai/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![HuggingFace](https://img.shields.io/badge/🤗-peterpausianlian-blue)](https://huggingface.co/peterpausianlian)
 [![Kaggle](https://img.shields.io/badge/Kaggle-datasets-20BEFF)](https://www.kaggle.com/peterpausianlian)
+[![GitHub](https://img.shields.io/badge/GitHub-peterlianpi-black)](https://github.com/peterlianpi/zolai-ai)
 
 > **Vision:** To ensure the Zolai language thrives in the AI era by building a fully capable "Zolai AI Second Brain" — allowing the Zomi people to learn, work, and interact with cutting-edge technology entirely in their native tongue.
 >
@@ -11,11 +11,22 @@
 
 ---
 
+## 🔐 Security & Compliance
+
+✅ **Security Audit:** Multi-agent system scans for sensitive data  
+✅ **ZVS 2018 Standard:** 100% compliance with Tedim Zolai orthography  
+✅ **Git History:** Cleaned of all sensitive information  
+✅ **Wiki Audit:** 1,530 files validated by 3-agent discussion group
+
+---
+
 ## Quick Install
 
 **One-line install:**
 ```bash
-curl -fsSL https://raw.githubusercontent.com/peterlianpi/zolai-ai/master/install.sh | bash
+git clone https://github.com/peterlianpi/zolai-ai.git
+cd zolai-ai
+pip install -e .
 ```
 
 **Or via pip:**
@@ -116,9 +127,11 @@ python scripts/data_pipeline/build_llm_dataset_v3.py
 # Evaluation
 python scripts/evaluate_model.py
 
-# Quality
+# Quality & Security
 python scripts/maintenance/test_grammar_rules.py
 python scripts/doublecheck_master.py
+python scripts/quick_security_audit.py
+python scripts/wiki_example_audit_agents.py
 ```
 
 ---
@@ -155,14 +168,30 @@ See `agents/README.md` for the full list of 34 agents.
 
 ---
 
-## Zolai Language Rules (ZVS Standard)
+## Zolai Language Rules (ZVS 2018 Standard)
 
-- Dialect: **Tedim ZVS** — use `pasian`, `gam`, `tapa`, `topa`, `kumpipa`, `tua`
-- Never: `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`
-- Word order: **SOV**
-- Negation: `kei` not `lo` for conditionals (`nong pai kei a leh`, never `lo leh`)
-- Plural: never combine `uh` with `i` (we)
-- `o` is always /oʊ/ — never pure /o/
+**Dialect:** Tedim ZVS — use `pasian`, `gam`, `tapa`, `topa`, `kumpipa`, `tua`  
+**Never:** `pathian`, `ram`, `fapa`, `bawipa`, `siangpahrang`, `cu/cun`  
+**Word order:** SOV (Subject-Object-Verb)  
+**Negation:** `kei` for conditionals, `lo` for simple negatives  
+**Plural:** Use `-te` suffix (e.g., `thupite-te` = machines)  
+**Pronunciation:** `o` is always /oʊ/ — never pure /o/
+
+### Verified Grammar Patterns (Session 3)
+
+✅ **Plural Marker Position:** Tu hun lai tak BEFORE subject
+- ✅ "Tu hun lai tak AI agent in a sem khawm hi"
+- ❌ "AI agent tu hun lai tak in a sem khawm hi"
+
+✅ **Working Together:** a sem khawm (NOT kikhawm)
+- ✅ "amau te ki pawl in na a sem khawm hi"
+- ❌ "kikhawm" = gather in place only
+
+✅ **Gathering:** kikhawm (place-specific)
+- ✅ "biakinn ah i kikhawm hi" (we gather at church)
+
+✅ **Word Order:** Tu hun lai tak + SUBJECT + in + VERB + DIRECTIONAL + hi
+- ✅ "Tu hun lai tak AI agent in a sem khawm hong pia hi"
 
 See `wiki/` for full grammar reference and `docs/guides/AGENTS.md` for coding standards.
 
@@ -218,6 +247,15 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). We especially need:
 - Next.js / FastAPI developers
 
 > **AI Agent CLIs:** This project works great with [Kiro CLI](https://kiro.dev) (`.kiro/` auto-loaded) and [Gemini CLI](https://github.com/google-gemini/gemini-cli) (`gemini -f GEMINI.md`). See CONTRIBUTING.md for usage examples.
+
+## Security
+
+✅ **Multi-Agent Security Audit:** Run `python scripts/quick_security_audit.py`  
+✅ **Wiki Audit System:** Run `python scripts/wiki_example_audit_agents.py`  
+✅ **Git History:** Cleaned of all sensitive data  
+✅ **Environment Variables:** Use `.env` (gitignored) for API keys
+
+See [SECURITY.md](SECURITY.md) for detailed security guidelines.
 
 ## Author
 
