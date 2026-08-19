@@ -8,7 +8,7 @@ from datasets import Dataset
 from transformers import AutoTokenizer, AutoModelForCausalLM, DataCollatorForLanguageModeling, Trainer, TrainingArguments
 from peft import get_peft_model, LoraConfig, TaskType
 
-os.environ['HF_TOKEN'] = '***REMOVED***'
+os.environ['HF_TOKEN'] = os.environ.get('HF_TOKEN', '')
 
 # GPU setup
 print(f"GPU: {torch.cuda.get_device_name(0)}")
