@@ -26,6 +26,9 @@ yarn-error.log*
 .env
 .env*.local
 .env.production
+ENV_KEYS_VALUES*
+*_keys_values*.txt
+*_keys_values*.md
 
 # IDE
 .vscode/

@@ -76,9 +76,9 @@ checkpoint() {
   echo "$1" > "$CHECKPOINT_FILE"
 }
 
-# Telegram credentials (hardcoded for reliability)
-TG_TOKEN="***REMOVED***"
-TG_CHAT="1887749224"
+# Telegram credentials (from environment; set TELEGRAM_BOT_TOKEN and TELEGRAM_CHAT_ID)
+TG_TOKEN="${TELEGRAM_BOT_TOKEN:-}"
+TG_CHAT="${TELEGRAM_CHAT_ID:-}"
 
 # Telegram notification function
 notify_telegram() {
