@@ -103,3 +103,12 @@
 - `ROADMAP.md`: added "Current Focus Pillars" section (website, training/Kaggle,
   prediction, linguistic, wiki, org) + active-branch note.
 - `TODO.md`: added "Current Phase" section; bumped stamp to 2026-09-03.
+
+## Wiki↔Dictionary Reconciliation (added this session)
+
+- Added read-only audit `scripts/reconcile_wiki_dictionary.py` + report
+  `docs/wiki_dictionary_reconciliation.md` (committed `188ca5d`, pushed).
+- Findings: 36,667 dictionary headwords, 0 banned dialect headwords;
+  47.3% clean single-token wordlist coverage, ~35K compound/gap candidates
+  flagged for dictionary enrichment (A1-B1 priority noted).
+- Tool is re-runnable: `python scripts/reconcile_wiki_dictionary.py`.
