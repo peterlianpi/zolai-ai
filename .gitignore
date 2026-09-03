@@ -96,3 +96,8 @@ out/
 Thumbs.db
 *.tar.gz
 *.zip
+
+# HF Token + env-specific configs (never track)
+HF_TOKEN*
+*.env.gemini
+.env.gemini
