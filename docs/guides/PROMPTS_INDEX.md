@@ -431,14 +431,7 @@ python scripts/rebuild_v2_comprehensive.py
 - `REBUILD_STATUS.md` — Current rebuild status
 
 ### Data Files
-- `/data/processed/rebuild_v1/` — Existing v7 dictionaries
-- `/data/processed/rebuild_v2/` — New v2 outputs
 - `/Cleaned_Bible/` — Bible corpus
-
-### Scripts
-- `scripts/rebuild_v2_comprehensive.py` — Full pipeline
-- `scripts/rebuild_v2_embeddings.py` — Search layer
-- `scripts/agents/` — Individual agent implementations
 
 ---
 

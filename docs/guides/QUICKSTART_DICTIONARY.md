@@ -76,7 +76,7 @@ Result: "thank you"
 ## 📁 FILES LOCATION
 
 ```
-/path/to/zolai/data/processed/rebuild_v1/
+/path/to/zolai/data/processed/rebuild_v2/
 
 ├── final_en_zo_dictionary_v7.jsonl    (3.3 MB)
 ├── final_zo_en_dictionary_v7.jsonl    (1.9 MB)
@@ -196,17 +196,17 @@ A: Yes! 24,891 entries seeded in Prisma
 
 **Check Execution Log:**
 ```bash
-tail -50 /path/to/zolai/data/processed/rebuild_v1/heartbeat.log
+tail -50 /path/to/zolai/data/processed/rebuild_v2/heartbeat.log
 ```
 
 **View Quality Metrics:**
 ```bash
-cat /path/to/zolai/data/processed/rebuild_v1/audit.jsonl | jq '.'
+cat /path/to/zolai/data/processed/rebuild_v2/audit.jsonl | jq '.'
 ```
 
 **See Identified Gaps:**
 ```bash
-cat /path/to/zolai/data/processed/rebuild_v1/gaps_v3.json | jq '.'
+cat /path/to/zolai/data/processed/rebuild_v2/gaps_v3.json | jq '.'
 ```
 
 ---
