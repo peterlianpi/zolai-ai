@@ -70,3 +70,8 @@ Additional reference materials and supplementary documentation.
 - `ZOLAI_AI_ARCHITECTURE.md` — system + 5-step data pipeline.
 - `ZOLAI_GITHUB_ORG_PLAN.md` — plan to move to `zolai-ai` community org (separate repos per component, monorepo-first).
 - Root `AGENTS.md` + `context/` — active-branch contract (`main`), `master` archived.
+
+## Wiki & Org Artifacts
+
+- `WIKI_ENRICHMENT_GUIDE.md` — how to improve/keep the wiki (RAG-ready, ZVS 2018, index hygiene).
+- `org/zolai-ai-profile-README.draft.md` — draft org profile README for the future `zolai-ai` org.
