@@ -1,8 +1,17 @@
 # Zolai Project — TODO & Roadmap
 
-> Last updated: 2026-04-20
+> Last updated: 2026-09-03
 
 > **Note:** All training data is hosted on HuggingFace. The `data/` directory is gitignored and not tracked in this repo.
+
+---
+
+## 🎯 Current Phase
+
+- pcore-orchestra six-file context set + AGENTS contract + RAG/AI architecture (done on `main`).
+- Repo split planning for `zolai-ai` org (blueprint + scaffolds staged; no GitHub changes yet).
+- Wiki index hygiene + enrichment roadmap (`docs/WIKI_ENRICHMENT_GUIDE.md`).
+- Queued pillars: deepen website, model training/Kaggle, sentence & word prediction, linguistic refinement.
 
 ---
 
