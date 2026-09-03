@@ -17,7 +17,7 @@ Project guides, references, and deployment docs for the **Zolai Second Brain**.
 | `ROOT_STRUCTURE.md` | Root directory structure reference |
 | `LOGS_AND_TMP.md` | Logs and temp file conventions |
 | `ACTION_PLAN.md` | Action plan and priorities |
-| `schema.md` | Database schema (root-level) |
+| `specs/schema.md` | Database schema (Prisma, root-level) |
 | `GEMINI.md` | Gemini CLI context file (root-level — load with `gemini -f GEMINI.md`) |
 
 ## Guides (`guides/`)
