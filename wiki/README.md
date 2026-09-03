@@ -234,4 +234,15 @@
 
 ---
 
-**Last Updated: 2026-04-20**
+## 🧭 Reference & Instructions
+
+- [Zolai AI Instructions](zolai_ai_instructions.md) — language AI processing guide (ground truth)
+- [Zolai System Prompt](zolai_system_prompt.txt) — canonical system prompt
+- [Zolai Grammar Cheat Sheet](zolai_grammar_cheat_sheet.md) — quick grammar reference
+- [Zolai Standard Format](Zolai_Standard_Format.md) — ZVS 2018 format rules
+- [Zolai NotebookLM Complete](zolai_notebooklm_complete.md) — full pedagogical reference
+- [Books Summary](books_summary.md) — key texts overview
+- [Vocabulary Recommendations](vocab_recommendations.md) — vocab improvement notes
+- [Learning Summary (2026-04-22)](LEARNING_SUMMARY_2026_04_22.md) — prior learning-session recap
+
+**Last Updated: 2026-09-03**
