@@ -1,7 +1,7 @@
 # Architecture Context
 
 > Applies to the active branch `main`. `master` is the archived pre-overhaul history
-> (see `docs/ARCHITECTURE.md` / README "Branch Layout"). Update this file whenever the
+> (see `docs/ZOLAI_AI_ARCHITECTURE.md`, `docs/ZOLAI_RAG_AI_ARCHITECTURE.md` / README "Branch Layout"). Update this file whenever the
 > stack, boundaries, or invariants change.
 
 ## Stack
