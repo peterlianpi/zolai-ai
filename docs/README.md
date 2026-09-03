@@ -63,3 +63,10 @@ Additional reference materials and supplementary documentation.
 ---
 
 **Last Updated:** 2026-04-20
+
+## Architecture & Community
+
+- `ZOLAI_RAG_AI_ARCHITECTURE.md` — retrieval-augmented generation, embeddings/vector store, text-prediction & learning loops.
+- `ZOLAI_AI_ARCHITECTURE.md` — system + 5-step data pipeline.
+- `ZOLAI_GITHUB_ORG_PLAN.md` — plan to move to `zolai-ai` community org (separate repos per component, monorepo-first).
+- Root `AGENTS.md` + `context/` — active-branch contract (`main`), `master` archived.
