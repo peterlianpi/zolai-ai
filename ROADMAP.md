@@ -1,6 +1,20 @@
 # Zolai Second Brain — Open Source Roadmap
 
 > Building a fully capable AI second brain for the Zomi people in Tedim Zolai.
+> Active branch: `main` · `master` is the preserved archive.
+
+---
+
+## Current Focus Pillars (this phase)
+
+1. **Deepen the website** (`website/zolai-project/`) — dictionary search UI, translation
+   demo, model API integration, contributions/admin.
+2. **Model training + Kaggle** — LoRA/QLoRA session cadence, datasets/adapters on HF/Kaggle.
+3. **Sentence & word prediction** — predictive features + training corpora from the wiki.
+4. **Linguistic improvement** — ZVS 2018 enrichment, grammar refinement, vocabulary reconciliation.
+5. **Wiki update/improve** — apply `docs/WIKI_ENRICHMENT_GUIDE.md` (index hygiene, RAG readiness).
+6. **GitHub org migration** — promote monorepo → `zolai-ai` org, separate repos per component
+   (see `docs/ZOLAI_GITHUB_ORG_PLAN.md` + `docs/REPO_SPLIT_BLUEPRINT.md`), monorepo-first.
 
 ---
 

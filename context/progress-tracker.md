@@ -95,3 +95,11 @@
 - Each repo also has a `CONNECT.md` (provides/depends) referencing the split blueprint.
 - **No GitHub repos/org created** — review the staged scaffolds first; promote to the
   `zolai-ai` org when approved (Phase B: git filter-repo).
+
+## Roadmap/TODO Sync (added this session)
+
+- Pushed `main` to `origin` (`git push -u origin main`); remote now has the full
+  pcore-orchestra + repo-split + wiki docs on branch `main`.
+- `ROADMAP.md`: added "Current Focus Pillars" section (website, training/Kaggle,
+  prediction, linguistic, wiki, org) + active-branch note.
+- `TODO.md`: added "Current Phase" section; bumped stamp to 2026-09-03.
