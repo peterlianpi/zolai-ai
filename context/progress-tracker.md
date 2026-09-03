@@ -67,3 +67,10 @@
 3. Expand sentence/word-prediction training corpora from wiki nodes.
 4. Reconcile wiki vocabulary with dictionary FTS + embeddings.
 5. Update `zolai_ai_instructions.md` / `zolai_system_prompt.txt` as ground truth.
+
+## Docs/README Updates (added this session)
+
+- Root `README.md`: added **Branch Layout** (`main` active / `master` archive),
+  **Documentation & Context** section, and **current focus pillars** in Roadmap.
+- `zolai/README.md`: added branch layout, context-set reference, API quickstart.
+- `docs/README.md`: indexes architecture, RAG/AI, wiki enrichment, and org plan.

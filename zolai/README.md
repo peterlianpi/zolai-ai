@@ -34,3 +34,24 @@ pip install -e ".[dev]"
 zolai standardize-jsonl -i INPUT -o OUTPUT [--dedupe] [--min-chars N]
 zolai audit-jsonl -i INPUT [--text-field FIELD]
 ```
+
+## Branch Layout
+
+- **`main`** — active development branch (changes land here).
+- **`master`** — preserved archive of the pre-overhaul history; do not commit.
+
+## Context Set
+
+Read the six-file `context/` set at session start (ground truth):
+`project-overview`, `architecture`, `code-standards`, `project-setup`,
+`ui-context`, `progress-tracker`. Root `AGENTS.md` holds the agent contract.
+
+## API
+
+FastAPI server lives in `zolai/api/server.py`. Run with:
+
+```bash
+uvicorn zolai.api.server:app  # add --reload for dev
+```
+
+RAG/vector architecture: `docs/ZOLAI_RAG_AI_ARCHITECTURE.md`.

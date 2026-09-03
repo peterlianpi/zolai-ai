@@ -61,6 +61,28 @@ zolai/
 
 ---
 
+## Branch Layout
+
+- **`main`** — active development branch (all changes land here).
+- **`master`** — preserved archive of the pre-overhaul history. Do NOT commit/rewrite.
+- **`feature/*`** — short-lived topic branches merged into `main`.
+- **`archive/*`** — frozen snapshots (e.g. `archive/pre-cleanup-2026-04`).
+
+---
+
+## Documentation & Context
+
+- **Active-branch contract:** root `AGENTS.md` + the six-file `context/` set
+  (`project-overview`, `architecture`, `code-standards`, `project-setup`,
+  `ui-context`, `progress-tracker`) are read by agents at session start — ground truth.
+- **Architecture:** `docs/ZOLAI_AI_ARCHITECTURE.md` (system + 5-step pipeline) and
+  `docs/ZOLAI_RAG_AI_ARCHITECTURE.md` (vector store, embeddings, retrieval, text-prediction loops).
+- **Wiki enrichment:** `docs/WIKI_ENRICHMENT_GUIDE.md`.
+- **GitHub org plan:** `docs/ZOLAI_GITHUB_ORG_PLAN.md` — move to community org `zolai-ai`
+  (separate repos per component, monorepo-first), mirroring `P-Core-System`.
+
+---
+
 ## Data Assets
 
 All datasets are gitignored and distributed via **[Hugging Face Hub](https://huggingface.co/peterpausianlian)** and **[Kaggle](https://www.kaggle.com/peterpausianlian)**.
@@ -236,6 +258,13 @@ See [ROADMAP.md](ROADMAP.md) for the full 5-phase plan:
 - **Phase 3** Model & API — GGUF export, public REST API, Ollama support
 - **Phase 4** Community — language learning app, Telegram bot, OCR pipeline
 - **Phase 5** Advanced NLP — NER, POS tagger, ASR, TTS, dialect detection
+
+**Current focus pillars (this phase):**
+- Deepen the website (`website/zolai-project/`) — dictionary search, translation demo, model API
+- Model training + Kaggle — LoRA/QLoRA session cadence, datasets/adapters
+- Sentence & word prediction + linguistic refinement (ZVS 2018)
+- Wiki update/improve — apply `docs/WIKI_ENRICHMENT_GUIDE.md`
+- **GitHub org:** move to community org `zolai-ai` (separate repos, monorepo-first)
 
 ---
 
