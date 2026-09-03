@@ -22,6 +22,12 @@ for f in project-overview architecture code-standards progress-tracker ai-workfl
   test -f "$ROOT/context/$f.md" || printf '# %s\n\nFill for %s.\n' "$f" "$NAME" > "$ROOT/context/$f.md"
 done
 test -f "$ROOT/context/specs/README.md" || printf '# Specs\n\nCopy unit-spec template per feature.\n' > "$ROOT/context/specs/README.md"
-test -f "$ROOT/context/specs/_unit-spec.template.md" || cp "$(dirname "$TPL/.")/../../context/specs/_unit-spec.template.md" "$ROOT/context/specs/_unit-spec.template.md" 2>/dev/null || true
+if ! test -f "$ROOT/context/specs/_unit-spec.template.md"; then
+  # repo root = one level up from scripts/
+  RPT="$(cd "$(dirname "$0")/.." && pwd)"
+  if test -f "$RPT/context/specs/_unit-spec.template.md"; then
+    cp "$RPT/context/specs/_unit-spec.template.md" "$ROOT/context/specs/_unit-spec.template.md"
+  fi
+fi
 echo "Bootstrapped $NAME at $ROOT (type=$TYPE)"
 echo "Review: $ROOT/AGENTS.md  ;  fill context/ files per setup checklist."
