@@ -84,3 +84,14 @@
 - `docs/templates/repo/`: reusable `AGENTS.md` + six-context setup templates.
 - `scripts/repo_bootstrap.sh`: scaffolds a new split repo with six-file context + AGENTS.
 - **Status:** PLAN only. No repo creation/GitHub changes yet.
+
+## Split Scaffolds (staged, no GitHub)
+
+- Pre-scaffolded all 6 component repos in `/tmp/opencode/zolai-split-staging/` using
+  `scripts/repo_bootstrap.sh`: zolai-core/web/tauri/datasets/training/wiki — each with
+  AGENTS.md + six-file context + CONNECT.md, populated with **real repo-specific content**
+  (overview + architecture per repo type). Web's ui-context is web-aware; data/wiki types
+  get a "n/a" ui-context.
+- Each repo also has a `CONNECT.md` (provides/depends) referencing the split blueprint.
+- **No GitHub repos/org created** — review the staged scaffolds first; promote to the
+  `zolai-ai` org when approved (Phase B: git filter-repo).
