@@ -18,6 +18,7 @@ Project guides, references, and deployment docs for the **Zolai Second Brain**.
 | `LOGS_AND_TMP.md` | Logs and temp file conventions |
 | `ACTION_PLAN.md` | Action plan and priorities |
 | `specs/schema.md` | Database schema (Prisma, root-level) |
+| `wiki_dictionary_reconciliation.md` | Wiki ↔ dictionary reconciliation audit |
 | `GEMINI.md` | Gemini CLI context file (root-level — load with `gemini -f GEMINI.md`) |
 
 ## Guides (`guides/`)
