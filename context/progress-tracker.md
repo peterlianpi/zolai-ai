@@ -74,3 +74,13 @@
   **Documentation & Context** section, and **current focus pillars** in Roadmap.
 - `zolai/README.md`: added branch layout, context-set reference, API quickstart.
 - `docs/README.md`: indexes architecture, RAG/AI, wiki enrichment, and org plan.
+
+## Repo-Split Planning (added this session)
+
+- `docs/REPO_SPLIT_BLUEPRINT.md`: monorepo → `zolai-ai` org split design — target
+  repos (core/web/tauri/datasets/training/wiki/.github), per-repo six-file context +
+  semantic versioning, connection matrix, phased execution (B → filter-repo, C →
+  templates+hooks+CI, D → wiring).
+- `docs/templates/repo/`: reusable `AGENTS.md` + six-context setup templates.
+- `scripts/repo_bootstrap.sh`: scaffolds a new split repo with six-file context + AGENTS.
+- **Status:** PLAN only. No repo creation/GitHub changes yet.

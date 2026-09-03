@@ -75,3 +75,10 @@ Additional reference materials and supplementary documentation.
 
 - `WIKI_ENRICHMENT_GUIDE.md` — how to improve/keep the wiki (RAG-ready, ZVS 2018, index hygiene).
 - `org/zolai-ai-profile-README.draft.md` — draft org profile README for the future `zolai-ai` org.
+
+## Repo Split & Per-Repo Setup
+
+- `REPO_SPLIT_BLUEPRINT.md` — monorepo → multi-repo split design (target repos, per-repo
+  six-file context + semver, connection matrix, phasing).
+- `templates/repo/` — reusable per-repo templates (`AGENTS.md`, six-context setup).
+- `scripts/repo_bootstrap.sh` — bootstrap a split repo: `bash scripts/repo_bootstrap.sh <root> "<name>" <type>`.
