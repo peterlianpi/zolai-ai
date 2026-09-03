@@ -1,9 +1,10 @@
-# 🚀 ZOLAI DICTIONARY REBUILD - COMPLETE SUMMARY
+# 🚀 ZOLAI DICTIONARY REBUILD — COMPLETE SUMMARY
 
-**Status:** ✅ **COMPLETE & PRODUCTION READY**  
-**Timestamp:** April 16, 2025  
-**Total Runtime:** 4.6 minutes  
-**All Cycles:** 4/4 Successful  
+**Status:** ✅ **COMPLETE & PRODUCTION READY**
+**Timestamp:** April 16, 2025
+**Total Runtime:** 4.6 minutes
+**All Cycles:** 4/4 Successful
+**Last Updated:** 2026-09-03
 
 ---
 
@@ -20,7 +21,7 @@
 
 ---
 
-## 🔄 REBUILD PIPELINE - 4 CYCLES
+## 🔄 REBUILD PIPELINE — 4 CYCLES
 
 ### **CYCLE 1: Dictionary Merge & Bidirectional Mapping**
 - **Duration:** ~10 seconds
@@ -86,7 +87,7 @@
 
 ## 📁 OUTPUT FILES
 
-All files located in: `/path/to/zolai/data/processed/rebuild_v1/`
+All output files are served from **HuggingFace Hub / Kaggle** (datasets are gitignored). Local paths shown below are the canonical layout:
 
 | File | Size | Purpose |
 |------|------|---------|
@@ -155,15 +156,15 @@ The Next.js Prisma database has been fully populated with the rebuilt dictionary
 
 ### **Web Interface**
 ```bash
-cd /path/to/zolai/website/zolai-project
+cd website/zolai-project
 bun dev
 ```
 Then visit: `http://localhost:3000/dictionary`
 
 ### **API Endpoints**
-- `GET /api/dictionary/search?q=hello` - Search EN→ZO
-- `GET /api/dictionary/reverse?q=khat` - Search ZO→EN
-- `GET /api/dictionary/entries` - List all entries
+- `GET /api/dictionary/search?q=hello` — Search EN→ZO
+- `GET /api/dictionary/reverse?q=khat` — Search ZO→EN
+- `GET /api/dictionary/entries` — List all entries
 
 ### **Direct File Access**
 ```bash
@@ -172,6 +173,12 @@ grep '"en": "hello"' final_en_zo_dictionary_v7.jsonl
 
 # ZO→EN lookup
 grep '"zo": "khat"' final_zo_en_dictionary_v7.jsonl
+```
+
+### **Database Query**
+```bash
+cd website/zolai-project
+bunx prisma studio
 ```
 
 ---
@@ -215,15 +222,13 @@ grep '"zo": "khat"' final_zo_en_dictionary_v7.jsonl
 
 ## 💾 MEMORY & LEARNING
 
-### **Long-Term Memory**
-Stored in `memory.jsonl`:
+### **Long-Term Memory** (`memory.jsonl`)
 - Phase 1: Loaded 108,205 entries, 25,095 unique EN words
 - Phase 2: Extracted 371 Bible verses, 3 unique words
 - Phase 3: Built 21,259 ZO→EN mappings
 - Phase 4: 5 iterations of continuous learning
 
-### **Learning Events**
-Stored in `learning_log.jsonl`:
+### **Learning Events** (`learning_log.jsonl`)
 - Confidence boosts applied
 - Gap filling events
 - Conflict resolutions
@@ -270,8 +275,8 @@ Master Orchestrator
 
 ### **Data Flow**
 ```
-Dictionary Sources → Merge → Bible Learning → Sentence Learning → 
-Confidence Refinement → Gap Filling → Conflict Resolution → 
+Dictionary Sources → Merge → Bible Learning → Sentence Learning →
+Confidence Refinement → Gap Filling → Conflict Resolution →
 Final Dictionary → Database Seeding
 ```
 
@@ -289,11 +294,11 @@ Final Dictionary → Database Seeding
 
 All scripts are production-ready and can be re-run independently:
 
-1. **`rebuild_dictionary_orchestrator.py`** - Main merge and bidirectional mapping
-2. **`rebuild_cycle_2_bible_deep_learning.py`** - Bible extraction and learning
-3. **`rebuild_cycle_3_iterative_improvement.py`** - Sentence learning and gap analysis
-4. **`rebuild_cycle_4_continuous_learning.py`** - Iterative refinement loop
-5. **`rebuild_master_orchestrator.py`** - Orchestrates all cycles
+1. **`rebuild_dictionary_orchestrator.py`** — Main merge and bidirectional mapping
+2. **`rebuild_cycle_2_bible_deep_learning.py`** — Bible extraction and learning
+3. **`rebuild_cycle_3_iterative_improvement.py`** — Sentence learning and gap analysis
+4. **`rebuild_cycle_4_continuous_learning.py`** — Iterative refinement loop
+5. **`rebuild_master_orchestrator.py`** — Orchestrates all cycles
 
 ---
 
@@ -340,10 +345,10 @@ All scripts are production-ready and can be re-run independently:
 ## 📞 SUPPORT
 
 ### **Files to Reference**
-- **Heartbeat Log:** `heartbeat.log` - Complete execution timeline
-- **Memory:** `memory.jsonl` - Learning checkpoints
-- **Audit:** `audit.jsonl` - Quality metrics
-- **Gaps:** `gaps_v3.json` - Identified gaps
+- **Heartbeat Log:** `heartbeat.log` — Complete execution timeline
+- **Memory:** `memory.jsonl` — Learning checkpoints
+- **Audit:** `audit.jsonl` — Quality metrics
+- **Gaps:** `gaps_v3.json` — Identified gaps
 
 ### **Troubleshooting**
 - Check `heartbeat.log` for execution details

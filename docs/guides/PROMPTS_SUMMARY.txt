@@ -208,14 +208,11 @@ Prompts
 └─ PROMPT_QUICK_REFERENCE.md (navigation guide)
 
 Data
-├─ /data/processed/rebuild_v1/ (existing v7 dictionaries)
-├─ /data/processed/rebuild_v2/ (new v2 outputs)
-└─ /Cleaned_Bible/ (Bible corpus, 66 books)
+├─ /Cleaned_Bible/ (Bible corpus, 66 books)
 
 Scripts
 ├─ scripts/rebuild_v2_comprehensive.py (full pipeline)
 ├─ scripts/rebuild_v2_embeddings.py (search layer)
-└─ scripts/agents/ (individual agent implementations)
 
 Website
 ├─ website/zolai-project/ (Next.js app)

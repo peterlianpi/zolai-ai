@@ -83,221 +83,20 @@ Output Files
 
 ### Step 1: Ingestion Agent
 
-**File:** `scripts/agents/ingestion_agent.py`
+The agent is defined in `SYSTEM_PROMPT_DICTIONARY_V2.md` and `AGENT_PROMPTS.md`. Implementation follows the prompt specification.
 
-```python
-from __future__ import annotations
-import json
-from pathlib import Path
-from datetime import datetime
+### Step 2: Direction Detection & Normalization
 
-class IngestionAgent:
-    def __init__(self, project_root: Path):
-        self.project_root = project_root
-        self.data_dir = project_root / "data" / "processed" / "rebuild_v2"
-        self.data_dir.mkdir(parents=True, exist_ok=True)
-    
-    def load_existing_dictionaries(self) -> tuple[list[dict], list[dict]]:
-        """Load existing v7 dictionaries"""
-        en_zo_entries = []
-        zo_en_entries = []
-        
-        v7_en = self.project_root / "data" / "processed" / "rebuild_v1" / "final_en_zo_dictionary_v7.jsonl"
-        v7_zo = self.project_root / "data" / "processed" / "rebuild_v1" / "final_zo_en_dictionary_v7.jsonl"
-        
-        if v7_en.exists():
-            with open(v7_en, encoding="utf-8") as f:
-                for line in f:
-                    en_zo_entries.append(json.loads(line))
-        
-        if v7_zo.exists():
-            with open(v7_zo, encoding="utf-8") as f:
-                for line in f:
-                    zo_en_entries.append(json.loads(line))
-        
-        return en_zo_entries, zo_en_entries
-    
-    def load_bible_corpus(self) -> list[dict]:
-        """Load all 66 Bible books"""
-        bible_entries = []
-        bible_dir = self.project_root / "Cleaned_Bible"
-        
-        if not bible_dir.exists():
-            return bible_entries
-        
-        for bible_file in bible_dir.glob("*.txt"):
-            try:
-                with open(bible_file, encoding="utf-8") as f:
-                    content = f.read()
-                    bible_entries.append({
-                        "file": bible_file.name,
-                        "content": content,
-                        "source": "bible"
-                    })
-            except Exception as e:
-                print(f"Error loading {bible_file}: {e}")
-        
-        return bible_entries
-    
-    def validate_encoding(self, entries: list[dict]) -> int:
-        """Validate UTF-8 encoding"""
-        errors = 0
-        for entry in entries:
-            try:
-                json.dumps(entry, ensure_ascii=False)
-            except Exception:
-                errors += 1
-        return errors
-    
-    def run(self) -> dict:
-        """Execute ingestion"""
-        print("[Ingestion] Loading dictionaries...")
-        en_zo, zo_en = self.load_existing_dictionaries()
-        
-        print("[Ingestion] Loading Bible corpus...")
-        bible = self.load_bible_corpus()
-        
-        print("[Ingestion] Validating encoding...")
-        errors = self.validate_encoding(en_zo + zo_en)
-        
-        result = {
-            "source": "ingestion",
-            "timestamp": datetime.now().isoformat(),
-            "loaded": {
-                "en_zo_entries": len(en_zo),
-                "zo_en_entries": len(zo_en),
-                "bible_files": len(bible),
-            },
-            "encoding_errors": errors,
-            "status": "ready"
-        }
-        
-        return result
-```
-
-### Step 2: Direction Detection Agent
-
-**File:** `scripts/agents/direction_detection_agent.py`
-
-```python
-from __future__ import annotations
-import re
-
-class DirectionDetectionAgent:
-    def __init__(self):
-        self.english_words = set([
-            "the", "a", "an", "and", "or", "but", "in", "on", "at",
-            "eat", "drink", "sleep", "walk", "run", "jump", "sit",
-            # ... add more common English words
-        ])
-        
-        self.zo_phonetics = ["kh", "th", "ng", "ph", "ch", "sh"]
-    
-    def is_english(self, word: str) -> bool:
-        """Detect if word is English"""
-        word_lower = word.lower()
-        
-        # Check if ASCII-only
-        if not all(ord(c) < 128 for c in word):
-            return False
-        
-        # Check if known English word
-        if word_lower in self.english_words:
-            return True
-        
-        # Check length
-        if len(word) < 2:
-            return False
-        
-        return True
-    
-    def is_zo(self, word: str) -> bool:
-        """Detect if word is Zo"""
-        word_lower = word.lower()
-        
-        # Check for Zo phonetics
-        for phonetic in self.zo_phonetics:
-            if phonetic in word_lower:
-                return True
-        
-        # Check for non-ASCII
-        if any(ord(c) > 127 for c in word):
-            return True
-        
-        return False
-    
-    def detect_direction(self, headword: str) -> dict:
-        """Detect direction and confidence"""
-        is_en = self.is_english(headword)
-        is_zo = self.is_zo(headword)
-        
-        if is_en and not is_zo:
-            return {
-                "direction": "en_to_zo",
-                "confidence": 0.95,
-                "reason": "English characteristics detected"
-            }
-        elif is_zo and not is_en:
-            return {
-                "direction": "zo_to_en",
-                "confidence": 0.95,
-                "reason": "Zo characteristics detected"
-            }
-        else:
-            return {
-                "direction": "unknown",
-                "confidence": 0.5,
-                "reason": "Ambiguous characteristics"
-            }
-    
-    def run(self, entries: list[dict]) -> list[dict]:
-        """Execute direction detection"""
-        results = []
-        for entry in entries:
-            headword = entry.get("en") or entry.get("zo", "")
-            detection = self.detect_direction(headword)
-            
-            entry["direction"] = detection["direction"]
-            entry["confidence"] = detection["confidence"]
-            results.append(entry)
-        
-        return results
-```
-
-### Step 3: Normalization Agent
-
-**File:** `scripts/agents/normalization_agent.py`
-
-```python
-from __future__ import annotations
-import unicodedata
-
-class NormalizationAgent:
-    def normalize_text(self, text: str) -> str:
-        """Normalize text"""
-        # Remove extra whitespace
-        text = " ".join(text.split())
-        
-        # Normalize Unicode (NFC)
-        text = unicodedata.normalize("NFC", text)
-        
-        # Remove trailing punctuation (except apostrophes)
-        text = text.rstrip(".,!?;:")
-        
-        return text
-    
-    def run(self, entries: list[dict]) -> list[dict]:
-        """Execute normalization"""
-        for entry in entries:
-            if "en" in entry:
-                entry["en"] = self.normalize_text(entry["en"])
-            if "zo" in entry:
-                entry["zo"] = self.normalize_text(entry["zo"])
-        
-        return entries
-```
+Direction detection and normalization follow the prompt specifications defined in `SYSTEM_PROMPT_DICTIONARY_V2.md`. Each agent inherits from `Agent`, implements `run()`, logs to heartbeat, updates state, and returns results.
 
 ### Step 4-10: Other Agents
+
+Similar structure for remaining agents. Each agent:
+1. Inherits from `Agent` base class
+2. Implements `run()` method
+3. Logs to heartbeat
+4. Updates state
+5. Returns results
 
 Similar structure for remaining agents. Each agent:
 1. Inherits from `Agent` base class
@@ -487,7 +286,7 @@ cat /data/processed/rebuild_v2/audit_v2.json | python -m json.tool
 ### Issue: Encoding Errors
 **Solution:** Ensure all files are UTF-8 encoded
 ```bash
-file -i /data/processed/rebuild_v1/*.jsonl
+file -i /data/dictionary/processed/*.jsonl
 ```
 
 ### Issue: Missing Bible Files

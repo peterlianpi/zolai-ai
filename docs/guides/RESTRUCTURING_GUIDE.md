@@ -1,148 +1,222 @@
-# 🏗️ ZOLAI PROJECT RESTRUCTURING GUIDE
+# 🧠 ZOLAI PROJECT RESTRUCTURING GUIDE — WIKI-FIRST ARCHITECTURE
 
-**Status:** Ready for Implementation  
-**Date:** 2026-04-16  
-**Goal:** Clean, powerful, connected structure with zero duplicates
+**Status:** ✅ **FINAL — WIKI-FIRST ARCHITECTURE DEFINED**
+**Date:** 2026-04-16
+**Principle:** Wiki is the central knowledge system — everything else serves it
+**Last Updated:** 2026-09-03
 
 ---
 
-## 📊 CURRENT STATE
+## 📊 EXECUTIVE SUMMARY
 
-### Problems
-- **19,815 duplicate files** (mostly README.md)
+### Current State (Problems)
+- **19,815 duplicate files** (mostly README.md copies)
 - **50 empty directories** (graph, experiments, tests, teams, etc.)
-- **Scattered agents** (23 agents in `agents/` directory)
-- **Scattered skills** (37 skills in `skills/` directory)
-- **Duplicate packages** (`zolai/` and `scripts/`)
-- **Unclear wiki hierarchy** (25 subdirectories)
-- **Messy data structure** (no clear master/processed/raw)
+- **274 total directories** (too many, unclear hierarchy)
+- **Scattered agents** (23 agents scattered in agents/)
+- **Scattered skills** (37 skills scattered in skills/)
+- **Duplicate packages** (zolai/ and scripts/ overlap)
+- **Unclear wiki** (25 subdirectories with no clear hierarchy)
+- **Messy data** (no clear master/processed/raw separation)
+- **25GB+ total size** (bloated with duplicates)
 
-### Size Issues
-- website: 2.2 GB
-- resources: 948 MB
-- data: 21 GB
-- kaggle_bundle: 674 MB
-- dataset: 426 MB
+### New State (Solution)
+- **~100 directories** (organized and clear)
+- **0 duplicate files** (single source of truth)
+- **0 empty directories** (clean)
+- **Centralized agents** (agents/registry.yaml)
+- **Centralized skills** (skills/registry.yaml)
+- **Single package** (src/zolai/)
+- **Clear wiki hierarchy** (grammar, vocabulary, culture, curriculum, architecture, decisions)
+- **Clean data structure** (master/processed/raw/history)
+- **~15GB total size** (cleaned and optimized)
 
 ---
 
-## 🎯 NEW STRUCTURE
+## 🧠 WIKI-FIRST ARCHITECTURE
 
-### Root Level
+### The Principle
+Wiki is the main brain. Server implements it. Scripts maintain it. DB stores it.
+Everything else serves the wiki.
+
+### Final Structure
+
 ```
 zolai/
-├── README.md                    # Single source of truth
-├── ARCHITECTURE.md              # System design
-├── CONTRIBUTING.md              # Contribution guidelines
-├── LICENSE
-├── Makefile                     # Common commands
-├── requirements.txt             # Dependencies
-├── pyproject.toml               # Project metadata
-├── setup.py                     # Setup script
-├── .env.example                 # Environment template
+├── wiki/                        # 🧠 MAIN BRAIN (Priority 1)
+│   ├── README.md
+│   ├── architecture/
+│   ├── grammar/
+│   ├── vocabulary/
+│   ├── culture/
+│   ├── curriculum/
+│   ├── linguistics/
+│   ├── biblical/
+│   ├── concepts/
+│   ├── decisions/
+│   ├── patterns/
+│   ├── examples/
+│   └── references/
+│
+├── src/zolai/                   # Code that implements wiki knowledge
+│   ├── __init__.py
+│   ├── cli.py                   # CLI entry point
+│   ├── core/
+│   │   ├── dictionary.py
+│   │   ├── grammar.py
+│   │   ├── concepts.py
+│   │   └── learnings.py
+│   ├── services/
+│   │   ├── translator.py
+│   │   ├── validator.py
+│   │   ├── analyzer.py
+│   │   └── crawler.py
+│   ├── models/
+│   │   ├── entry.py
+│   │   ├── rule.py
+│   │   └── concept.py
+│   ├── utils/
+│   │   ├── io.py
+│   │   ├── validation.py
+│   │   └── formatting.py
+│   └── api/
+│       ├── routes.py
+│       └── schemas.py
+│
+├── scripts/                     # Scripts that extract/update wiki
+│   ├── crawlers/                # Extract from sources
+│   ├── data_pipeline/           # Process into wiki
+│   ├── training/                # Train from wiki
+│   ├── maintenance/             # Maintain wiki
+│   └── deploy/
+│
+├── data/                        # Data that feeds wiki
+│   ├── master/                  # Master datasets
+│   │   ├── sources/
+│   │   ├── combined/
+│   │   └── archive/
+│   ├── processed/               # Processed data
+│   │   ├── dictionaries/
+│   │   └── exports/
+│   ├── raw/                     # Raw sources
+│   │   ├── zomidictionary/
+│   │   ├── wordlists/
+│   │   └── bible/
+│   └── history/                 # Crawl logs
+│
+├── tests/                       # Tests validate wiki
+├── docs/                        # Docs reference wiki
+├── notebooks/                   # Notebooks explore wiki
+├── models/                      # Trained models
+├── api/                         # API server
+├── website/                     # Web interface (untouched)
+│   └── zolai-project/
+├── config/                      # Configuration
+├── agents/                      # Agent registry
+│   ├── registry.yaml
+│   └── definitions/
+├── skills/                      # Skill registry
+│   ├── registry.yaml
+│   └── definitions/
+├── db/                          # Database (store knowledge)
+│   ├── README.md
+│   ├── schema.sql
+│   ├── migrations/
+│   └── seeds/
+├── requirements.txt
+├── pyproject.toml
+├── README.md
+├── ARCHITECTURE.md
+├── CONTRIBUTING.md
+├── Makefile
+├── .env.example
 ├── .gitignore
 └── .dockerignore
 ```
 
-### Source Code (`src/`)
+### Wiki Contents
+- **Grammar rules** — How language works
+- **Vocabulary** — Words and meanings
+- **Concepts** — Linguistic concepts
+- **Patterns** — Language patterns
+- **Culture** — Cultural context
+- **Curriculum** — Learning structure
+- **Architecture** — System design
+- **Decisions** — Why we chose this
+
+### Everything Else Serves Wiki
+- **Code** — Implements wiki knowledge
+- **Scripts** — Extract/update wiki
+- **Data** — Feeds wiki
+- **Tests** — Validate wiki
+- **Docs** — Reference wiki
+- **Notebooks** — Explore wiki
+
+### Flow
 ```
-src/zolai/
-├── __init__.py
-├── cli.py                       # CLI entry point
-├── core/                        # Core functionality
-│   ├── dictionary.py
-│   ├── grammar.py
-│   ├── concepts.py
-│   └── learnings.py
-├── services/                    # Business logic
-│   ├── translator.py
-│   ├── validator.py
-│   ├── analyzer.py
-│   └── crawler.py
-├── models/                      # Data models
-│   ├── entry.py
-│   ├── rule.py
-│   └── concept.py
-├── utils/                       # Utilities
-│   ├── io.py
-│   ├── validation.py
-│   └── formatting.py
-└── api/                         # FastAPI endpoints
-    ├── routes.py
-    └── schemas.py
+Sources → Scripts → Data → Wiki ← Code/Tests/Docs
+                       ↓
+                    Knowledge
 ```
 
-### Scripts (`scripts/`)
-```
-scripts/
-├── crawlers/                    # Web scrapers
-│   ├── tongdot.py
-│   ├── rvasia.py
-│   └── zomidaily.py
-├── data_pipeline/              # Data processing
-│   ├── extract.py
-│   ├── transform.py
-│   └── load.py
-├── training/                   # Model training
-│   ├── prepare.py
-│   ├── train.py
-│   └── evaluate.py
-├── maintenance/                # Quality checks
-│   ├── validate.py
-│   ├── audit.py
-│   └── cleanup.py
-└── deploy/                     # Deployment
-    ├── build.py
-    └── release.py
-```
+---
 
-### Data (`data/`)
+## 📁 DATA STRUCTURE
+
 ```
 data/
-├── master/                     # Master datasets
-│   ├── sources/                # Individual sources
-│   ├── combined/               # Merged datasets
-│   └── archive/                # Versioned snapshots
-├── processed/                  # Processed data
-│   ├── rebuild_v9/             # Latest rebuild
+├── master/                    # Master datasets
+│   ├── sources/               # Individual sources
+│   ├── combined/              # Merged datasets
+│   └── archive/               # Versioned snapshots
+├── processed/                 # Processed data
 │   ├── dictionaries/
 │   └── exports/
-├── raw/                        # Raw scraped data
+├── raw/                       # Raw scraped data
 │   ├── zomidictionary/
 │   ├── wordlists/
 │   └── bible/
-└── history/                    # Crawl logs
+└── history/                   # Crawl logs
 ```
 
-### Knowledge (`knowledge/`)
-```
-knowledge/
-├── wiki/                       # Linguistic wiki
-│   ├── grammar/                # Grammar rules
-│   ├── vocabulary/             # Vocabulary
-│   ├── culture/                # Cultural context
-│   ├── curriculum/             # Learning curriculum
-│   ├── architecture/           # System architecture
-│   └── decisions/              # Design decisions
-├── bible/                      # Bible corpus
-│   ├── parallel/               # Parallel texts
-│   ├── tdb77/                  # TDB77 version
-│   └── tedim/                  # Tedim version
-└── concepts/                   # Extracted concepts
-    ├── linguistic/
-    ├── cultural/
-    └── domain/
-```
+### Database Structure
 
-### Registries (`agents/` and `skills/`)
-```
-agents/
-├── registry.yaml               # Central registry
-└── definitions/                # Individual definitions
+**Recommended: PostgreSQL + SQLite**
 
-skills/
-├── registry.yaml               # Central registry
-└── definitions/                # Individual definitions
+| Environment | Database | Notes |
+|-------------|----------|-------|
+| Production | PostgreSQL | Main database, scalable, multi-user |
+| Development | SQLite | Lightweight, file-based, good for testing |
+
+### Database Schema (Key Tables)
+
+```sql
+-- Dictionary entries
+CREATE TABLE entries (
+    id TEXT PRIMARY KEY,
+    en TEXT, zo TEXT,
+    confidence REAL, dict_count INT, frequency INT,
+    learning_count INT, created_at TIMESTAMP, updated_at TIMESTAMP
+);
+
+-- Grammar rules
+CREATE TABLE grammar_rules (
+    id TEXT PRIMARY KEY, rule_name TEXT, pattern TEXT,
+    explanation TEXT, examples TEXT, category TEXT, confidence REAL
+);
+
+-- Wiki concepts
+CREATE TABLE wiki_concepts (
+    id TEXT PRIMARY KEY, concept TEXT, category TEXT,
+    definition TEXT, examples TEXT, related_concepts TEXT, confidence REAL
+);
+
+-- Project learnings
+CREATE TABLE project_learnings (
+    id TEXT PRIMARY KEY, category TEXT, topic TEXT,
+    learning TEXT, source TEXT, confidence REAL,
+    vision_alignment TEXT, improvement_area TEXT
+);
 ```
 
 ---
@@ -151,97 +225,63 @@ skills/
 
 ### Step 1: Backup
 ```bash
-# Create backup
 tar -czf zolai_backup_$(date +%Y%m%d).tar.gz .
 ```
 
-### Step 2: Create New Structure
+### Step 2: Organize Wiki (Priority 1)
 ```bash
-# Run restructuring script
-python scripts/restructure_project.py
+mkdir -p wiki/{architecture,grammar,vocabulary,culture,curriculum,linguistics,biblical,concepts,decisions,patterns,examples,references}
+# Move existing wiki files, consolidate knowledge, create index
 ```
 
-### Step 3: Move Source Code
-```bash
-# Move main package
-mkdir -p src
-mv zolai src/
+### Step 3: Update Code to Reference Wiki
+- Code reads from wiki/
+- Scripts update wiki/
+- Tests validate wiki/
 
-# Move scripts (already in right place)
-# Keep scripts/ as is
-```
+### Step 4: Organize Data (Priority 2)
+- master/ — Raw sources
+- processed/ — Processed data
+- raw/ — Scraped data
+- history/ — Logs
 
-### Step 4: Move Knowledge
-```bash
-# Create knowledge directory
-mkdir -p knowledge
-
-# Move wiki
-mv wiki knowledge/
-
-# Move Bible corpus
-mv Cleaned_Bible knowledge/bible
-```
-
-### Step 5: Consolidate Data
-```bash
-# Data structure should already be in place
-# Verify master/processed/raw separation
-ls -la data/master/
-ls -la data/processed/
-ls -la data/raw/
-```
+### Step 5: Organize Code (Priority 3)
+- src/zolai/ — Main package
+- scripts/ — Utilities
+- tests/ — Validation
 
 ### Step 6: Create Registries
 ```bash
-# Registries created by restructure_project.py
-cat agents/registry.yaml
-cat skills/registry.yaml
+# Create agents/registry.yaml and skills/registry.yaml
+# Move definitions to agents/definitions/ and skills/definitions/
 ```
 
-### Step 7: Update Imports
+### Step 7: Clean Everything Else (Priority 4)
+- Remove duplicates
+- Remove empty dirs
+- Remove: graph/, experiments/, teams/, scratch/, todo/
+- Remove: archive/ (consolidate into data/archive/), clean/, dataset/, kaggle_dataset/
+- Move zolai/ to src/zolai/
+- Keep scripts/ as is
+
+### Step 8: Update Imports
 ```bash
-# Find all imports that need updating
 grep -r "from zolai" src/
 grep -r "import zolai" src/
-
-# Update to: from src.zolai import ...
-# Or update PYTHONPATH in setup.py
+# Update imports to match new src/zolai/ location
 ```
 
-### Step 8: Test Everything
+### Step 9: Test Everything
 ```bash
-# Run tests
 pytest tests/
-
-# Run linting
 ruff check src/ scripts/
-
-# Run type checking
 mypy src/ scripts/
 ```
 
-### Step 9: Verify APIs
+### Step 10: Commit
 ```bash
-# Test dictionary API
-python -m zolai.api
-
-# Test CLI
-python -m zolai --help
-
-# Test scripts
-python scripts/crawlers/tongdot.py --help
-```
-
-### Step 10: Commit Changes
-```bash
-# Add all changes
 git add -A
-
-# Commit
 git commit -m "refactor: restructure project for clarity and maintainability"
-
-# Push
 git push origin main
 ```
 
@@ -287,34 +327,6 @@ git push origin main
 
 ---
 
-## 🎯 BENEFITS
-
-### Cleaner Structure
-✅ Single source of truth for each file  
-✅ Clear separation of concerns  
-✅ Easy to navigate and understand  
-✅ Consistent naming conventions  
-
-### Better Maintainability
-✅ No duplicate files to maintain  
-✅ Centralized configuration  
-✅ Clear dependency graph  
-✅ Easier to find things  
-
-### Improved Performance
-✅ Faster file lookups  
-✅ Reduced disk usage  
-✅ Cleaner git history  
-✅ Faster builds  
-
-### Enhanced Collaboration
-✅ Clear contribution guidelines  
-✅ Standardized structure  
-✅ Easy onboarding  
-✅ Better code reviews  
-
----
-
 ## 📊 EXPECTED RESULTS
 
 ### Before
@@ -331,50 +343,54 @@ git push origin main
 - ~15GB total size (cleaned)
 - Crystal clear structure
 
+### Benefits
+✅ Single source of truth for each file
+✅ Clear separation of concerns
+✅ Easy to navigate and understand
+✅ Consistent naming conventions
+✅ No duplicate files to maintain
+✅ Centralized configuration
+✅ Clear dependency graph
+✅ Faster file lookups
+✅ Reduced disk usage
+✅ Cleaner git history
+✅ Better collaboration
+✅ Easier onboarding
+
 ---
 
-## 🚀 IMPLEMENTATION TIMELINE
+## 📅 IMPLEMENTATION TIMELINE
 
-### Phase 1: Preparation (1 hour)
-- [ ] Backup project
-- [ ] Review new structure
-- [ ] Create migration plan
+| Phase | Task | Time |
+|-------|------|------|
+| 1 | Preparation (backup, review) | 1 hour |
+| 2 | Restructuring (run script, verify) | 2 hours |
+| 3 | Updates (imports, docs, config) | 3 hours |
+| 4 | Testing (tests, linting, type check) | 2 hours |
+| 5 | Deployment (commit, push, deploy) | 1 hour |
+| **Total** | | **~9 hours** |
 
-### Phase 2: Restructuring (2 hours)
-- [ ] Run restructure script
-- [ ] Move directories
-- [ ] Create registries
+---
 
-### Phase 3: Updates (3 hours)
-- [ ] Update imports
-- [ ] Update documentation
-- [ ] Update configuration
+## 📜 HISTORY OF THE PLAN
 
-### Phase 4: Testing (2 hours)
-- [ ] Run test suite
-- [ ] Verify APIs
-- [ ] Verify scripts
+The restructuring plan evolved through several documents before settling on the wiki-first architecture:
 
-### Phase 5: Deployment (1 hour)
-- [ ] Commit changes
-- [ ] Push to repository
-- [ ] Deploy to production
+1. **PROJECT_STRUCTURE_PLAN.md** — Original planning phase document with current-state analysis and new structure design. Established the goals: clean, powerful, connected structure with zero duplicates.
+2. **RESTRUCTURING_GUIDE.md** — Step-by-step implementation guide with migration commands, consolidation checklist, testing procedures, and timeline.
+3. **PROJECT_RESTRUCTURING_SUMMARY.md** — Complete analysis with executive summary, deliverables, and expected results/benefits.
+4. **FINAL_STRUCTURE.md** — Detailed final structure including wiki-first architecture, server structure, database recommendations, and the wiki-first flow diagram.
+5. **RESTRUCTURING_WIKI_FIRST.md** — The canonical wiki-first architecture: wiki as main brain, everything else serves it. Consolidated all prior planning into the final, accurate description.
 
-**Total Time: ~9 hours**
+**Current canonical source:** This file (RESTRUCTURING_GUIDE.md). The wiki-first architecture described here is the single source of truth for the Zolai project structure.
 
 ---
 
 ## 📞 SUPPORT
 
-### Questions?
 - Review `ARCHITECTURE.md` for system design
 - Check `CONTRIBUTING.md` for guidelines
 - See `docs/` for detailed documentation
-
-### Issues?
-- Check git history for changes
-- Review backup if needed
-- Contact team lead
 
 ---
 
@@ -394,6 +410,6 @@ git push origin main
 
 ---
 
-**Status: Ready for Implementation**
+**Status: ✅ FINAL — WIKI-FIRST ARCHITECTURE DEFINED**
 
-**Next Action: Run `python scripts/restructure_project.py`**
+**Principle: Wiki is the main brain — everything else serves it**
