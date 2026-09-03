@@ -49,3 +49,21 @@
 - Orchestra subagent model cache was stale (`x-preview-f-free` removed from Zen);
   config updated to `ling-3.0-flash-fin-free` / `mimo-v2.5-free`. A process restart
   is required before subagents can spawn.
+
+## Org & Community Direction (added this session)
+
+- **Decision:** move Zolai AI to a GitHub community org `zolai-ai` (like `P-Core-System`),
+  separate repos per component; **monorepo first, physical split later**.
+- Plan written to `docs/ZOLAI_GITHUB_ORG_PLAN.md`. **No GitHub org/repo changes yet** —
+  pending approval. Repos: zolai-core, zolai-web, zolai-tauri, zolai-datasets,
+  zolai-wiki, zolai-training, .github (profile).
+- **Focus pillars (this phase):** deepen website, model training + Kaggle, learn sentences
+  & word prediction, linguistic improvement, wiki update/improve.
+
+## Wiki Improvement Roadmap
+
+1. Keep `wiki/README.md` as the index/canonical map (1529 files).
+2. Enrich grammar/linguistics + curriculum under ZVS 2018; feed RAG.
+3. Expand sentence/word-prediction training corpora from wiki nodes.
+4. Reconcile wiki vocabulary with dictionary FTS + embeddings.
+5. Update `zolai_ai_instructions.md` / `zolai_system_prompt.txt` as ground truth.
