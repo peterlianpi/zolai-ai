@@ -37,7 +37,7 @@
 | File | Pairs | Status |
 |------|-------|--------|
 | `data/master/combined/parallel.jsonl` | 105,511 | ✅ Rebuilt 2026-04-14 (all 4 versions × KJV) |
-| `Cleaned_Bible/Parallel/` | 66 books | ✅ TDB77 + Tedim2010 + KJV .md files |
+| `data/corpus/bible/markdown/Parallel/` | 66 books | ✅ TDB77 + Tedim2010 + KJV .md files |
 
 ---
 
@@ -205,7 +205,7 @@
 | `src/zolai/` | Core Python package | ✅ Active |
 | `zolai/` | Main package (CLI, API, modules) | ✅ Active |
 | `wiki/` | Knowledge base | 🟡 Growing |
-| `Cleaned_Bible/` | Bible corpus (all 66 books) | ✅ Complete |
+| `data/corpus/bible/markdown/` | Bible corpus (all 66 books) | ✅ Complete |
 | `scripts/` | Utility scripts | ✅ Well-organized |
 | `dev/` | Dev/audit tools | 🟡 Partial |
 | `notebooks/` | Kaggle notebooks | ✅ Active |

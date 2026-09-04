@@ -210,7 +210,7 @@ tail -f /data/processed/rebuild_v2/heartbeat.log
 
 **Data**
 - `/data/processed/rebuild_v2/` — New v2 outputs
-- `/Cleaned_Bible/` — Bible corpus (66 books)
+- `data/corpus/bible/markdown/` — Bible corpus (66 books)
 
 **Scripts**
 
