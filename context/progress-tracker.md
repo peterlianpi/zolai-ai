@@ -167,3 +167,16 @@
   unblock URL. Re-push after resolve: `git -C /tmp/opencode/zolai-ai-org/zolai-web push origin HEAD:main`.
 - Staging lives at `/tmp/opencode/zolai-ai-org/` (per-repo AGENTS + six-file context
   + CONNECT + README + .gitignore; heavy data/node_modules/.env excluded).
+
+## Org profile fix (added this session)
+
+- Renamed local+GitHub repo `zolai-github` → **`.github`** (the special org-profile
+  repo). Org page now shows it as the profile repo; rewritten `profile/README.md`
+  (complete org profile: intro, repo table, connect diagram, principles, get-started,
+  contribute) + root README. Fixed org description + `.github` repo description.
+- Appended a consistent "Part of the Zolai-AI org" footer + contribution link to every
+  component repo README (core/web/tauri/datasets/training/wiki); all pushed except
+  `zolai-web` (still behind secret push-protection block).
+- Org state: 8 repos (`.github`, `zolai-ai`, `zolai-core`, `zolai-datasets`,
+  `zolai-tauri`, `zolai-training`, `zolai-web`, `zolai-wiki`), all public, default
+  branch `main`. Local staging in `/tmp/opencode/zolai-ai-org/` aligned by name.
