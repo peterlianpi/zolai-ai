@@ -15,7 +15,7 @@ https://docs.github.com/en/organizations/collaborating-with-groups-in-organizati
 | Public profile README | `.github/profile/README.md` | ✅ (renders on Overview) |
 | Logo embedded | `logo.png` referenced in README | ✅ |
 | Org description | "Zolai AI — preserving & teaching Tedim Zolai (ZVS 2018)…" | ✅ |
-| Website | `https://zolai-ai.github.io` | ✅ |
+| Website | `https://zolai-ai.github.io/` (live GitHub Pages site) | ✅ |
 | Location | "Zomi (Chin) homeland — digital" | ✅ |
 | Repository topics | `zolai, tedim, zomi, zomi-language` (+ per-repo) | ✅ |
 | **Org avatar/logo** | Set via Settings → Profile → Upload new picture | ⚠️ **owner-only** (no API) — use `website/zolai-project/public/logo.png` (500×500) |
