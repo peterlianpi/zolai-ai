@@ -5,7 +5,7 @@
 
 ## Current Phase
 
-- In progress: P-Core context/docs/architecture overhaul (branch `main`).
+- In progress: P-Core context/docs/architecture overhaul (branch `main`); docs sweep done.
 
 ## Current Goal
 
@@ -19,7 +19,8 @@
 - Filled six-file context set: `context/architecture.md`, `project-overview.md`,
   `code-standards.md`, `project-setup.md`, `ui-context.md`, `progress-tracker.md`.
 - Added pcore-orchestra `context/ai-workflow-rules.md` + root `AGENTS.md`.
-- Security scan: no hardcoded API keys found; verified `.gitignore` + `.env.example`.
+- Docs sweep completed (2026-09-04): harmonized six→seven-file context terminology; fixed README ZVS dialect list; refreshed all guide indexes to 2026-09-04; added docs/ZOLAI_KNOWLEDGE_BRAIN_ARCHITECTURE.md (RAG-first); created CONTRIBUTING.md; marked aspirational website docs subdirs as planned; fixed docs/guides/AGENTS.md system specs (T4x2 GPU, pytest).
+- Knowledge-brain commit: added docs/ZOLAI_KNOWLEDGE_BRAIN_ARCHITECTURE.md (RAG-first architecture, no raw fine-tuning).
 
 ## In Progress
 
@@ -31,12 +32,14 @@
 
 - Reconcile `docs/PROJECT_STRUCTURE.md` / `ROOT_STRUCTURE.md` with actual repo layout.
 - Light code patches flagged by structure/architecture review (only clearly broken).
-- Commit docs/context to `main`.
+- Decide whether to auto-track the 89 local-only untracked files (context/, desktop/, scripts/bible/) or keep them untracked.
 
 ## Open Questions
 
 - Whether to auto-track the 89 local-only untracked files (context/, desktop/,
   scripts/bible/) or keep them untracked.
+- Whether CONTRIBUTING.md should be a full guide or remain a lightweight stub
+  (current: lightweight stub created for now).
 
 ## Architecture Decisions
 
@@ -125,3 +128,14 @@
 - Local-only artifacts under `artifacts/kg/` (gitignored).
 - Backlog B (PDF OCR), C (prediction features), D (dataset export via
   zolai-datasets), E (assistant) still open.
+
+## Docs Update Log
+
+- 2026-09-04: docs/context improvement sweep committed to `main`:
+  - Harmonized six→seven-file context terminology in root `AGENTS.md`.
+  - Fixed README ZVS dialect "Never" list (`pasian`, `gam`, `tapa` are USE words).
+  - Added `context/ai-workflow-rules.md` and `docs/ZOLAI_KNOWLEDGE_BRAIN_ARCHITECTURE.md` cross-refs.
+  - Fixed `docs/README.md` date, `KAGGLE_ROADMAP.md` path, removed stale References section, added knowledge-brain doc.
+  - Refreshed `docs/guides/{PROMPTS_INDEX,DOCUMENTATION_INDEX,AGENTS}.md` to 2026-09-04; fixed dead `/Cleaned_Bible/` path; softened pytest claim; corrected T4x2 GPU spec.
+  - Marked aspirational `website/zolai-project/AGENTS.md` docs subdirs as "(planned)".
+  - Created `CONTRIBUTING.md` stub; refreshed ROADMAP/TODO contributing line.
