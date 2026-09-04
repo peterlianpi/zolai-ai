@@ -9,13 +9,12 @@ Project guides, references, and deployment docs for the **Zolai Second Brain**.
 | `ZOLAI_KNOWLEDGE_BRAIN_ARCHITECTURE.md` | RAG-first knowledge brain architecture (no raw fine-tuning) |
 | `DATA_NAMING_GUIDE.md` | File and field naming conventions |
 | `DATA_NAMING_QUICK_REF.md` | Quick naming reference card |
-| `PROJECT_STRUCTURE.md` | Full project structure overview |
+| `STRUCTURE.md` | Canonical repo layout (verified against real filesystem) |
 | `SERVER_SETUP_GUIDE.md` | AWS Lightsail server deployment |
 | `AWS_DEPLOYMENT.md` | AWS deployment reference |
 | `ZOLAI_KAGGLE_OPENCLAW_GUIDE.md` | Kaggle + OpenClaw training guide |
 | `DATA_IMPROVEMENT_PLAN.md` | Data improvement plan |
 | `DATA_AUDIT.md` | Data audit report |
-| `ROOT_STRUCTURE.md` | Root directory structure reference |
 | `LOGS_AND_TMP.md` | Logs and temp file conventions |
 | `ACTION_PLAN.md` | Action plan and priorities |
 | `specs/schema.md` | Database schema (Prisma, root-level) |
