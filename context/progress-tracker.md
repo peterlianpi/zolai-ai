@@ -198,3 +198,13 @@
   to `logo.png` (500×500 avatar) and `og.png` (1200×630) with ImageMagick.
 - Deployed to `Zolai-AI/.github`; avatar upload still owner-only (Settings → Profile).
 - Wordmark: "ZOLAI AI" · tagline "TEDIM ZOLAI · ZVS 2018"; colors #062E24/#0E9F8A/#3EDDBF.
+
+## Org profile/brand fix (this session)
+
+- Root cause of "profile not showing": org profile README was at `.github/profile/README.md`
+  (nested); GitHub requires it at **`profile/README.md`** (repo root). Moved + pushed.
+- Removed broken `blog` link (`zolai-ai.github.io` had no Pages site) — set to `null`
+  (P-Core uses blog:null too; no Pages site needed).
+- Reverted to **existing website logo** per user: `.github/logo.png`/`og.png` now mirror
+  `website/public`; removed the generated SVG files.
+- Org profile README now at `profile/README.md` with absolute org-repo links.
