@@ -376,11 +376,11 @@ git push origin main
 
 The restructuring plan evolved through several documents before settling on the wiki-first architecture:
 
-1. **PROJECT_STRUCTURE_PLAN.md** — Original planning phase document with current-state analysis and new structure design. Established the goals: clean, powerful, connected structure with zero duplicates.
-2. **RESTRUCTURING_GUIDE.md** — Step-by-step implementation guide with migration commands, consolidation checklist, testing procedures, and timeline.
-3. **PROJECT_RESTRUCTURING_SUMMARY.md** — Complete analysis with executive summary, deliverables, and expected results/benefits.
-4. **FINAL_STRUCTURE.md** — Detailed final structure including wiki-first architecture, server structure, database recommendations, and the wiki-first flow diagram.
-5. **RESTRUCTURING_WIKI_FIRST.md** — The canonical wiki-first architecture: wiki as main brain, everything else serves it. Consolidated all prior planning into the final, accurate description.
+1. **`docs/archive/PROJECT_STRUCTURE_PLAN.md`** — Original planning phase document with current-state analysis and new structure design. Established the goals: clean, powerful, connected structure with zero duplicates.
+2. **`docs/archive/RESTRUCTURING_GUIDE.md`** — Step-by-step implementation guide with migration commands, consolidation checklist, testing procedures, and timeline.
+3. **`docs/archive/PROJECT_RESTRUCTURING_SUMMARY.md`** — Complete analysis with executive summary, deliverables, and expected results/benefits.
+4. **`docs/archive/FINAL_STRUCTURE.md`** — Detailed final structure including wiki-first architecture, server structure, database recommendations, and the wiki-first flow diagram.
+5. **`docs/archive/RESTRUCTURING_WIKI_FIRST.md`** — The canonical wiki-first architecture: wiki as main brain, everything else serves it. Consolidated all prior planning into the final, accurate description.
 
 **Current canonical source:** This file (RESTRUCTURING_GUIDE.md). The wiki-first architecture described here is the single source of truth for the Zolai project structure.
 
