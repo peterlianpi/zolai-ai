@@ -24,10 +24,10 @@ bunx prisma generate && bunx prisma migrate dev
 bun run dev
 ```
 
-## Context Files (Six-File Set)
+## Context Files (Seven-File Set)
 
-These are read automatically at session start by the orchestra agents. Keep them
-current — they are ground truth.
+These seven files (six core + ai-workflow-rules) are read automatically at
+session start by the orchestra agents. Keep them current — they are ground truth.
 
 | File | Contents |
 |------|----------|
