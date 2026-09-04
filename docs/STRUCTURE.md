@@ -18,14 +18,13 @@ zolai/                                          # repo root
 ├── SECURITY.md
 ├── TODO.md
 ├── docker-compose.yml
-├── docker-compose.prod.yml
+├── docker-compose.prod.yml  # untracked/local
 ├── Dockerfile
 ├── .dockerignore
 ├── .env.example
 ├── .gitignore
-├── .cursorignore
-├── .ignore
-├── .api_pid
+├── .cursorignore  # untracked/local
+├── .ignore  # untracked/local
 ├── run_api.py
 ├── package.json
 ├── pyproject.toml
