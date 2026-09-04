@@ -227,3 +227,14 @@
 - Accessibility: `prefers-reduced-motion` respected, `:focus-visible` rings, semantic
   nav landmarks, contrast-safe colors. `logo.png` unchanged (byte-identical).
 - Rebuilt & live: https://zolai-ai.github.io/ HTTP 200.
+
+## Workspace migration (this session)
+
+- Created org workspace **`/home/peter/Documents/Projects/zolai-ai/`** (org-named).
+- Moved current project in place as the **monorepo main** `zolai-ai/` (kept 19G: data,
+  .venv, node_modules, full git history). origin=peterlianpi/zolai-ai, org=Zolai-AI/zolai-ai.
+- Brought all 8 component repos (`zolai-core/web/tauri/datasets/training/wiki`, `.github`,
+  `zolai-ai.github.io`) as lightweight clones; normalized each to `main` and synced to org remotes.
+- `zolai-web` set to clean `main` (0 lib/generated tracked); push still blocked by GH013 (owner-only unblock).
+- Added `zolai-ai.code-workspace` (multi-root) + workspace `README.md` (data-ownership: main holds heavy data).
+- NOTE: default cwd/single-repo scope is now the monorepo subfolder `zolai-ai/`.
