@@ -238,3 +238,14 @@
 - `zolai-web` set to clean `main` (0 lib/generated tracked); push still blocked by GH013 (owner-only unblock).
 - Added `zolai-ai.code-workspace` (multi-root) + workspace `README.md` (data-ownership: main holds heavy data).
 - NOTE: default cwd/single-repo scope is now the monorepo subfolder `zolai-ai/`.
+
+## Monorepo restructure + P-Core-orchestra adoption (orchestra loop, this session)
+
+- Ran full orchestra loop (planner -> implementer -> verifier -> reviewer); verdict ORCHESTRA_COMPLETE.
+- Outcome: reverted earlier questionable doc moves (LICENSE/SECURITY/CONTRIBUTING/TODO/ROADMAP/GEMINI
+  restored to ROOT); kept `zolai/` package at root (parents[N] path safety); notebooks/kaggle_notebook_upload/path kept at root.
+- Versioning: reconciled to **2.0.0** across pyproject.toml + zolai/__init__.py + package.json; added CHANGELOG.md (Keep a Changelog).
+- Added orchestra tooling (adapted, not wholesale): scripts/init-context.sh, scripts/session-claims.sh, scripts/update-free-models.sh (all executable).
+- AGENTS.md seven-file context set confirmed consistent with context/.
+- Verification: pytest 24 passed; kg smoke PASS 3/3; import zolai = 2.0.0; tree clean. Only pre-existing ruff error in zolai/api/tools.py:52 (unrelated, not regressed).
+- Commits: c205e70 (version/CHANGELOG/scripts), d691db7 (restore root docs / rm docs/GEMINI.md).
