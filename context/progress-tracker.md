@@ -218,3 +218,12 @@
 - Pages built and live: `https://zolai-ai.github.io/` → HTTP 200; logo served correctly.
 - Org `blog` set back to the live URL (previously `null` when no site existed).
 - This resolves the earlier `zolai-ai.github.io` 404 for good.
+
+## Pages landing polish (this session)
+
+- Rebuilt `zolai-ai.github.io/index.html`: design-token brand theme (Zomi green/teal
+  palette), staggered entrance animations, logo hover scale/glow, pill hover lift +
+  sheen sweep, animated ambient blobs, gradient headline shine.
+- Accessibility: `prefers-reduced-motion` respected, `:focus-visible` rings, semantic
+  nav landmarks, contrast-safe colors. `logo.png` unchanged (byte-identical).
+- Rebuilt & live: https://zolai-ai.github.io/ HTTP 200.
