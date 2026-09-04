@@ -32,7 +32,8 @@ This is a **single repository**. Scope all reads and globs to this root only. Do
 ## Repository
 
 Bilingual (Tedim Zolai ⇄ English) AI toolkit for the Zomi people. Read the
-six-file context set in `context/` at session start — it is ground truth.
+seven core context files + ai-workflow-rules orchestration layer (seven-file set)
+in `context/` at session start — it is ground truth.
 
 ## Branch Layout
 
@@ -41,7 +42,7 @@ six-file context set in `context/` at session start — it is ground truth.
 - **`feature/*`** — short-lived topic branches merged into `main`.
 - **`archive/*`** — frozen snapshots (e.g. `archive/pre-cleanup-2026-04`).
 
-## Six-File Context
+## Seven-File Context
 
 | File | Purpose |
 |------|---------|

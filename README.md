@@ -72,14 +72,17 @@ zolai/
 
 ## Documentation & Context
 
-- **Active-branch contract:** root `AGENTS.md` + the six-file `context/` set
-  (`project-overview`, `architecture`, `code-standards`, `project-setup`,
-  `ui-context`, `progress-tracker`) are read by agents at session start — ground truth.
+- **Active-branch contract:** root `AGENTS.md` + the seven-file `context/` set
+   (`project-overview`, `architecture`, `code-standards`, `project-setup`,
+   `ui-context`, `progress-tracker`, `ai-workflow-rules`) are read by agents
+   at session start — ground truth.
 - **Architecture:** `docs/ZOLAI_AI_ARCHITECTURE.md` (system + 5-step pipeline) and
-  `docs/ZOLAI_RAG_AI_ARCHITECTURE.md` (vector store, embeddings, retrieval, text-prediction loops).
+   `docs/ZOLAI_RAG_AI_ARCHITECTURE.md` (vector store, embeddings, retrieval, text-prediction loops).
+- **Knowledge Brain:** `docs/ZOLAI_KNOWLEDGE_BRAIN_ARCHITECTURE.md` (RAG-first architecture, no raw fine-tuning).
 - **Wiki enrichment:** `docs/WIKI_ENRICHMENT_GUIDE.md`.
 - **GitHub org plan:** `docs/ZOLAI_GITHUB_ORG_PLAN.md` — move to community org `zolai-ai`
-  (separate repos per component, monorepo-first), mirroring `P-Core-System`.
+   (separate repos per component, monorepo-first), mirroring `P-Core-System`.
+- **Workflow rules:** `context/ai-workflow-rules.md` — agent behavior + scoping.
 
 ---
 
@@ -193,7 +196,7 @@ See `agents/README.md` for the full list of 34 agents.
 ## Zolai Language Rules (ZVS 2018 Standard)
 
 **Dialect:** Tedim ZVS — use `pasian`, `gam`, `tapa`, `topa`, `kumpipa`, `tua`  
-**Never:** `pasian`, `gam`, `tapa`, `bawipa`, `siangpahrang`, `cu/cun`  
+**Never:** `bawipa`, `siangpahrang`, `cu/cun`, `pathian`, `ram`, `fapa`  
 **Word order:** SOV (Subject-Object-Verb)  
 **Negation:** `kei` for conditionals, `lo` for simple negatives  
 **Plural:** Use `-te` suffix (e.g., `thupite-te` = machines)  
@@ -284,7 +287,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). We especially need:
 ✅ **Git History:** Cleaned of all sensitive data  
 ✅ **Environment Variables:** Use `.env` (gitignored) for API keys
 
-See [SECURITY.md](SECURITY.md) for detailed security guidelines.
+See **Security** section above and `scripts/quick_security_audit.py` for detailed security guidelines.
 
 ## Author
 

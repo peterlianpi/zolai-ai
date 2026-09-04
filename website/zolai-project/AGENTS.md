@@ -154,13 +154,13 @@ See `docs/api/API.md` for full endpoint reference.
 
 ```
 docs/
-├── api/              # API reference (API.md)
-├── audit/            # Codebase audits, compliance, security reviews
-├── auth/             # Better Auth docs, refactoring guides
-├── features/         # Feature-specific implementation docs
-├── mcp/              # MCP server setup and registry
-├── planning/         # Roadmaps, MVP plans, branching strategy
-├── references/       # Library quick-refs (Prisma, Hono, shadcn, etc.)
-├── testing/          # Testing strategy and monitoring guides
+├── api/              # API reference (API.md) — (planned)
+├── audit/            # Codebase audits, compliance, security reviews — (planned)
+├── auth/             # Better Auth docs, refactoring guides — (planned)
+├── features/         # Feature-specific implementation docs — (planned)
+├── mcp/              # MCP server setup and registry — (planned)
+├── planning/         # Roadmaps, MVP plans, branching strategy — (planned)
+├── references/       # Library quick-refs (Prisma, Hono, shadcn, etc.) — (planned)
+├── testing/          # Testing strategy and monitoring guides — (planned)
 └── archive/          # Starter template / generic Next.js docs
 ```
