@@ -429,12 +429,14 @@ python scripts/rebuild_v2_comprehensive.py
 - `README.md` — Project overview
 - `AGENTS.md` — Agent definitions
 - `DICTIONARY_REBUILD_SUMMARY.md` — Dictionary rebuild status & stats
+- `docs/ZOLAI_KNOWLEDGE_BRAIN_ARCHITECTURE.md` — RAG-first knowledge brain
 
 ### Data Files
-- `/Cleaned_Bible/` — Bible corpus
+- `data/parallel/` — Bible parallel corpus (`bible_parallel_tdb77_kjv.jsonl`, etc.)
+  *(gitignored; mirrored from HuggingFace/Kaggle)*
 
 ---
 
-**Last Updated:** 2026-04-16T03:10:19Z  
+**Last Updated:** 2026-09-04  
 **Status:** ✅ All prompts ready for use  
 **Next Step:** Choose your document and start reading!

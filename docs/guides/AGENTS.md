@@ -10,8 +10,8 @@ pip install -e ".[dev]"              # Install with dev dependencies (ruff, mypy
 
 **System Specs (Optimized for):**
 - CPU: 4 cores, RAM: 7.7GB, Disk: 233GB (88% full)
-- GPU: None (CPU-only torch)
-- Use `config/cpu_optimization.yaml` for training
+- GPU: T4x2 (training); CPU-optimized for inference
+- Use `config/cpu_optimization.yaml` for CPU training configs
 - Stream large JSONL files with `zolai.utils.data_loader`
 - Use `zolai.utils.device` for device-aware code
 
@@ -56,11 +56,7 @@ python scripts/export_all_linguistics_sources.py [--ocr] [--overwrite]
 
 ## Testing Validation
 
-**No formal extensive pytest test suite exists yet.** Validate changes by:
-1. Running the affected script/notebook end-to-end with a small sample
-2. Checking output JSONL validity: `python -c "import json; [json.loads(l) for l in open('output.jsonl')]"`
-3. Verifying UTF-8 integrity and no truncated fragments (lowercase-end check)
-4. Running grammar validation: `python scripts/test_grammar_rules.py`
+A `pytest` suite lives in `tests/` (per `code-standards.md`); run `pytest tests/` or `python -m pytest tests/ -v`. Validate changes end-to-end with a small sample, check JSONL validity, verify UTF-8 integrity, and run grammar validation.
 
 **Validation Scripts:**
 ```bash
