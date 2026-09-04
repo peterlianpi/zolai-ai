@@ -150,3 +150,20 @@
   Mistral OCR when `MISTRAL_API_KEY` set, else local pypdf/pdfplumber.
 - Plays-based-learning booklet indexed: 28 pdf-derived chunks (index 131 wiki + 28 pdf = 159).
 - smoke_test extended to verify pdf rows; PASS.
+
+## Org Migration EXECUTED (added this session) — zolai-ai org live
+
+- User created GitHub org `zolai-ai` (resolves `Zolai-AI`). Migration executed as
+  **fresh snapshot repos** (no filter-repo), org-prefixed names, monorepo kept on
+  `peterlianpi/zolai-ai` + mirrored to org.
+- Repos created & pushed (all public, `main`): `zolai-core`, `zolai-web`,
+  `zolai-tauri`, `zolai-datasets`, `zolai-training`, `zolai-wiki`,
+  `zolai-github` (org profile + community/*), and monorepo mirror `zolai-ai/zolai-ai`.
+- **Blocked:** `zolai-web` push rejected by org-wide secret push-protection
+  (GH013). Removed generated Prisma client (`lib/generated/`) + flattened to a
+  single clean commit; verified no tracked secret (env files gitignored, docs use
+  `=...` placeholders). Block persists on detector token `3IrYlPqjUCQX6d80auJXl9bJZuG`.
+  Needs org-admin: enable Secret Scanning to reveal the secret, or run GitHub's
+  unblock URL. Re-push after resolve: `git -C /tmp/opencode/zolai-ai-org/zolai-web push origin HEAD:main`.
+- Staging lives at `/tmp/opencode/zolai-ai-org/` (per-repo AGENTS + six-file context
+  + CONNECT + README + .gitignore; heavy data/node_modules/.env excluded).
