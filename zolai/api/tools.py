@@ -5,6 +5,8 @@ import json
 import os
 from typing import List, Optional
 
+from zolai.api.prediction_api import router as prediction_router  # noqa: E402
+
 app = FastAPI(title="Zolai Tool API")
 
 # Update this path if the API is moved
@@ -94,3 +96,5 @@ async def search_dictionary(payload: SearchQuery):
     ]
     
     return formatted_results
+
+app.include_router(prediction_router)

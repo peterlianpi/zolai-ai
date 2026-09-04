@@ -127,8 +127,9 @@
 - Replaced broken `scripts/kg/ingest_wiki.py` (wrote whole corpus as one record,
   zero newline bytes).
 - Local-only artifacts under `artifacts/kg/` (gitignored).
+- Backlog C (prediction lookup API) done. Added `zolai/api/prediction_api.py` with endpoints `/predictions/next`, `/predictions/completions`, `/predictions/corrections`, `/predictions/health`. Wired into `zolai/api/tools.py`. Tests pass.
 - Backlog B (PDF OCR), C (prediction features), D (dataset export via
-  zolai-datasets), E (assistant) still open.
+  zolai-datasets), E (assistant) still open (B done).
 
 ## Docs Update Log
 
