@@ -208,3 +208,13 @@
 - Reverted to **existing website logo** per user: `.github/logo.png`/`og.png` now mirror
   `website/public`; removed the generated SVG files.
 - Org profile README now at `profile/README.md` with absolute org-repo links.
+
+## Org Pages site live (this session)
+
+- Created `Zolai-AI/zolai-ai.github.io` (public, `main`) — GitHub Pages **org site**
+  (requires repo named exactly `zolai-ai.github.io` per official docs; serves the bare root).
+- Landing `index.html` + `README.md` + `_config.yml` (Jekyll minimal) + `logo.png`
+  (byte-identical to the website/orig brand).
+- Pages built and live: `https://zolai-ai.github.io/` → HTTP 200; logo served correctly.
+- Org `blog` set back to the live URL (previously `null` when no site existed).
+- This resolves the earlier `zolai-ai.github.io` 404 for good.
