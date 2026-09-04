@@ -258,3 +258,21 @@
   zolai-training, zolai-wiki; reconciled zolai-web package.json 0.1.0 -> 2.0.0.
 - Pushed: core 53c7eed, tauri 314d30c, datasets f8df64c, training 84f57d5, wiki f8f154d.
 - zolai-web committed locally only (push still blocked by GH013 unblock).
+
+## Backlog D/E/F/G status + resume doc (this session)
+
+- Created `docs/RESUME_BACKLOG.md`: single source of truth for remaining backlog (D=E/D/F/G), resume
+  commands, seven-file context reference, owner-only action checklist, data ownership, scripts.
+- **Backlog D** (dataset export via zolai-datasets → HF/Kaggle): NOT started.
+- **Backlog E** (Zolai RAG assistant): NOT started.
+- **Backlog F** (aggressive monorepo root restructure): deferred — advisory only; current layout
+  is stable and green (38 tests, smoke PASS, version 2.0.0, org workflow configured).
+- **Backlog G** (`zolai-web` push unblock): pending org-admin unblock via GH013 URL.
+- **Owner-only UI remaining:** avatar upload, pin repos, billing resolution.
+
+## Storage cleanup (this session)
+
+- Cleaned workspace `__pycache__`, `.pytest_cache`, `.ruff_cache`, `logs/`, `tmp/` (~1G freed).
+- Cleaned safe global package caches: `uv` (1.7G), `go-build` (1.3G), `pre-commit` (376M),
+  `pip` (371M), `huggingface` (88M), `node-gyp` (65M) — total ~5.3G freed.
+- Remaining large caches: Chrome (1G), Playwright (646M) — left in place to avoid breaking tools.
