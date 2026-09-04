@@ -1,0 +1,170 @@
+generator client {
+  provider = "prisma-client-js"
+  output   = "../lib/generated/prisma-desktop"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = env("DATABASE_URL")
+}
+
+// Desktop schema is intentionally minimal: it supports local-only COS/Mind + agent memory.
+// The web app continues to use `schema.prisma` (Postgres) for full features.
+
+model User {
+  id        String   @id
+  name      String?
+  email     String?  @unique
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  agentMemories AgentMemory[] @relation("UserAgentMemory")
+
+  @@index([email])
+  @@index([createdAt])
+  @@map("user")
+}
+
+model AgentMemory {
+  id        String    @id @default(cuid())
+  userId    String
+  agentId   String
+  key       String
+  value     Json
+  expiresAt DateTime? 
+  createdAt DateTime  @default(now())
+  updatedAt DateTime  @updatedAt
+
+  user User @relation("UserAgentMemory", fields: [userId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, agentId, key])
+  @@index([userId, agentId])
+  @@index([updatedAt])
+  @@map("agent_memory")
+}
+
+model AgentLearnLog {
+  id        String   @id @default(cuid())
+  agentId   String
+  taskType  String
+  input     Json?
+  output    Json?
+  feedback  String?
+  lesson    String?
+  createdAt DateTime @default(now())
+
+  @@index([agentId, taskType])
+  @@index([createdAt])
+  @@map("agent_learn_log")
+}
+
+model WikiEntry {
+  id        String   @id @default(cuid())
+  slug      String   @unique
+  title     String
+  category  String
+  content   String
+  status    String   @default("published")
+  tags      Json     @default("[]")
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@index([category])
+  @@index([slug])
+  @@map("wiki_entry")
+}
+
+model VocabWord {
+  id          String   @id @default(cuid())
+  zolai       String
+  english     String
+  pos         String?
+  category    String?
+  definition  String?
+  example     String?
+  explanation String?
+  synonyms    Json?    @default("[]")
+  antonyms    Json?    @default("[]")
+  related     Json?    @default("[]")
+  variants    Json?    @default("[]")
+  examples    Json?
+  accuracy    String?  @default("unverified")
+  tags        Json     @default("[]")
+  audioUrl    String?  @default("")
+  createdAt   DateTime @default(now())
+
+  @@index([zolai])
+  @@index([english])
+  @@index([category])
+  @@index([pos])
+  @@index([accuracy])
+  @@map("vocab_word")
+}
+
+model KgNode {
+  id          String   @id @default(cuid())
+  iri         String   @unique
+  kind        String?
+  label       String?
+  description String?
+  properties  Json     @default("{}")
+  sourceKey   String   @default("wiki")
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+
+  outgoing KgEdge[] @relation("KgEdgeFrom")
+  incoming KgEdge[] @relation("KgEdgeTo")
+  chunks   RagChunk[]
+
+  @@index([kind])
+  @@index([sourceKey])
+  @@map("kg_node")
+}
+
+model KgEdge {
+  id         String   @id @default(cuid())
+  fromId     String
+  toId       String
+  predicate  String
+  weight     Float    @default(1.0)
+  confidence Float?
+  properties Json     @default("{}")
+  sourceKey  String   @default("wiki")
+  createdAt  DateTime @default(now())
+
+  from KgNode @relation("KgEdgeFrom", fields: [fromId], references: [id], onDelete: Cascade)
+  to   KgNode @relation("KgEdgeTo", fields: [toId], references: [id], onDelete: Cascade)
+
+  @@unique([fromId, predicate, toId, sourceKey])
+  @@index([fromId])
+  @@index([toId])
+  @@index([predicate])
+  @@index([sourceKey])
+  @@map("kg_edge")
+}
+
+model RagChunk {
+  id           String   @id @default(cuid())
+  sourceType   String
+  sourceKey    String   @default("wiki")
+  sourceRef    String
+  chunkIndex   Int
+  content      String
+  contentHash  String   @unique
+  tokensApprox Int?
+  metadata     Json     @default("{}")
+  embedding      Json?
+  embeddingModel String?
+  embeddingDim   Int?
+  nodeId String? 
+  node   KgNode? @relation(fields: [nodeId], references: [id], onDelete: SetNull)
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([sourceType, sourceRef, chunkIndex, sourceKey])
+  @@index([sourceType, sourceKey])
+  @@index([sourceRef])
+  @@index([nodeId])
+  @@map("rag_chunk")
+}
+
