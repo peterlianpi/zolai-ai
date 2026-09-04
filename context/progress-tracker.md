@@ -180,3 +180,14 @@
 - Org state: 8 repos (`.github`, `zolai-ai`, `zolai-core`, `zolai-datasets`,
   `zolai-tauri`, `zolai-training`, `zolai-web`, `zolai-wiki`), all public, default
   branch `main`. Local staging in `/tmp/opencode/zolai-ai-org/` aligned by name.
+
+## Org public page / profile (added this session)
+
+- Followed official GitHub docs (org profile README = public `.github` repo +
+  `profile/README.md` on default branch). Ours matches ✅.
+- Embedded `logo.png` (500×500 from website public) into `.github` profile + added
+  `og.png` social card; set org description, website, location; added topics
+  (`zolai,tedim,zomi,zomi-language` + per-repo) to all repos.
+- Wrote `docs/org/GITHUB_ORG_PROFILE_SETUP.md` capturing official requirements +
+  owner-only remaining steps (avatar upload, pinning, billing resolution) which
+  cannot be done via API.
