@@ -101,3 +101,6 @@ Thumbs.db
 HF_TOKEN*
 *.env.gemini
 .env.gemini
+
+# Zolai Knowledge Brain — local vector/n-gram artifacts (built by zolai.knowledge)
+artifacts/kg/
