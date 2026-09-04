@@ -1,6 +1,6 @@
 # Zolai Project — TODO & Roadmap
 
-> Last updated: 2026-09-03
+> Last updated: 2026-09-04
 
 > **Note:** All training data is hosted on HuggingFace. The `data/` directory is gitignored and not tracked in this repo.
 

@@ -42,7 +42,7 @@
   - `peterpausianlian/zolai-qwen2.5-3b-lora` — stable QLoRA adapter
   - `peterpausianlian/zolai-qwen-0.5b` — active LoRA FP16 training
 - [x] CI/CD pipeline (GitHub Actions: lint, test, build)
-- [ ] Contributor guide and `CONTRIBUTING.md` (in progress)
+- [x] Contributor guide and `CONTRIBUTING.md`
 - [ ] Docker setup for local development
 
 ## Phase 3 — Model & API
@@ -99,4 +99,4 @@ Contributions welcome — especially:
 - Linguists familiar with Tibeto-Burman languages
 - ML engineers with low-resource NLP experience
 
-See `CONTRIBUTING.md` *(coming soon)* for guidelines.
+See `CONTRIBUTING.md` for guidelines.
