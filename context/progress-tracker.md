@@ -32,12 +32,11 @@
 
 - Reconcile `docs/PROJECT_STRUCTURE.md` / `ROOT_STRUCTURE.md` with actual repo layout (**done** — `docs/STRUCTURE.md` added, old docs archived to `docs/archive/`).
 - Light code patches flagged by structure/architecture review (only clearly broken).
-- Decide whether to auto-track the 89 local-only untracked files (context/, desktop/, scripts/bible/) or keep them untracked.
+- Decide whether to auto-track the 89 local-only untracked files (**done** — real source tracked via 5bf5b4f; local artifacts ignored via .gitignore additions).
 
 ## Open Questions
 
-- Whether to auto-track the 89 local-only untracked files (context/, desktop/,
-  scripts/bible/) or keep them untracked.
+- Whether to auto-track the 89 local-only untracked files (**resolved** — real source tracked, local artifacts ignored; commit 5bf5b4f).
 - Whether CONTRIBUTING.md should be a full guide or remain a lightweight stub
   (current: lightweight stub created for now).
 
@@ -52,6 +51,7 @@
 - Orchestra subagent model cache was stale (`x-preview-f-free` removed from Zen);
   config updated to `ling-3.0-flash-fin-free` / `mimo-v2.5-free`. A process restart
   is required before subagents can spawn.
+- This session: drove 3 orchestra cycles — docs consolidation (5→1 restructuring guide, 3→1 dictionary guide), broad docs/context sweep (ZVS dialect fix, six→seven-file harmonization, dead path cleanup, structure docs consolidation), and untracked-files decision (83 items resolved).
 
 ## Org & Community Direction (added this session)
 
@@ -77,6 +77,7 @@
   **Documentation & Context** section, and **current focus pillars** in Roadmap.
 - `zolai/README.md`: added branch layout, context-set reference, API quickstart.
 - `docs/README.md`: indexes architecture, RAG/AI, wiki enrichment, and org plan.
+- `docs/STRUCTURE.md`: canonical repo layout replacing PROJECT_STRUCTURE.md + ROOT_STRUCTURE.md (both archived).
 
 ## Repo-Split Planning (added this session)
 
