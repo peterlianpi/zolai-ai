@@ -428,7 +428,7 @@ python scripts/rebuild_v2_comprehensive.py
 ### Existing Documentation
 - `README.md` — Project overview
 - `AGENTS.md` — Agent definitions
-- `REBUILD_STATUS.md` — Current rebuild status
+- `DICTIONARY_REBUILD_SUMMARY.md` — Dictionary rebuild status & stats
 
 ### Data Files
 - `/Cleaned_Bible/` — Bible corpus
