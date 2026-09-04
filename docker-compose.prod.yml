@@ -1,0 +1,12 @@
+services:
+  api:
+    build: .
+    ports:
+      - "127.0.0.1:8001:8000"
+    volumes:
+      - ./data:/app/data
+    environment:
+      - ZOLAI_DATA_DIR=/app/data
+      - GEMINI_SERVER_URL=${GEMINI_SERVER_URL:-https://gemini.peterlianpi.site}
+      - GEMINI_SERVER_API_KEY=${GEMINI_SERVER_API_KEY}
+    restart: unless-stopped

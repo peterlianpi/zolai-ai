@@ -104,3 +104,10 @@ HF_TOKEN*
 
 # Zolai Knowledge Brain — local vector/n-gram artifacts (built by zolai.knowledge)
 artifacts/kg/
+
+# Local runtime artifacts (untracked files decision 2026-09-04)
+.api_pid
+artifacts/
+website/zolai-project/artifacts/
+data/dictionary/processed/
+.cursor/
