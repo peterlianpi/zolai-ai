@@ -24,14 +24,14 @@
 
 **One-line install:**
 ```bash
-git clone https://github.com/peterlianpi/zolai-ai.git
+git clone https://github.com/Zolai-AI/zolai-ai.git
 cd zolai-ai
 pip install -e .
 ```
 
 **Or via pip:**
 ```bash
-pip install git+https://github.com/peterlianpi/zolai-ai.git
+pip install git+https://github.com/Zolai-AI/zolai-ai.git
 zolai --help
 ```
 
@@ -114,7 +114,7 @@ huggingface-cli download peterpausianlian/zolai-tedim-v3 --repo-type dataset
 
 ```bash
 # Clone and install
-git clone https://github.com/peterlianpi/zolai-ai.git
+git clone https://github.com/Zolai-AI/zolai-ai.git
 cd zolai-ai
 pip install -e .
 pip install -e ".[dev]"
@@ -288,6 +288,16 @@ See [CONTRIBUTING.md](CONTRIBUTING.md). We especially need:
 ✅ **Environment Variables:** Use `.env` (gitignored) for API keys
 
 See **Security** section above and `scripts/quick_security_audit.py` for detailed security guidelines.
+
+## Part of the Zolai-AI org
+
+This repo is the main monorepo for the **[Zolai-AI](https://github.com/Zolai-AI)** organization.
+It holds source code, data, wiki, and website for the Zolai project.
+Component repos are mirrored to the org for public consumption:
+
+`zolai-core` · `zolai-web` · `zolai-tauri` · `zolai-datasets` · `zolai-training` · `zolai-wiki`
+
+See [`.github/CONTRIBUTING.md`](https://github.com/Zolai-AI/.github/blob/main/community/CONTRIBUTING.md) to contribute.
 
 ## Author
 
