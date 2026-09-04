@@ -139,3 +139,12 @@
   - Refreshed `docs/guides/{PROMPTS_INDEX,DOCUMENTATION_INDEX,AGENTS}.md` to 2026-09-04; fixed dead `/Cleaned_Bible/` path; softened pytest claim; corrected T4x2 GPU spec.
   - Marked aspirational `website/zolai-project/AGENTS.md` docs subdirs as "(planned)".
   - Created `CONTRIBUTING.md` stub; refreshed ROADMAP/TODO contributing line.
+
+## Zolai Knowledge Brain — Backlog B: PDF OCR ingest (added this session)
+
+- New `zolai/knowledge/pdf.py`: `iter_ocr_markdown()` scans `data/corpus/ocr/*/*/markdown.md`
+  (consolidated OCR outputs; skips `pages/` per-page duplicates) and `index_pdfs()` embeds
+  them as `source_type=pdf` into the same knowledge_vectors.jsonl. `extract_pdf_text()` uses
+  Mistral OCR when `MISTRAL_API_KEY` set, else local pypdf/pdfplumber.
+- Plays-based-learning booklet indexed: 28 pdf-derived chunks (index 131 wiki + 28 pdf = 159).
+- smoke_test extended to verify pdf rows; PASS.

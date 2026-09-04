@@ -42,6 +42,17 @@ def main() -> int:
     n = len(idx.texts)
     print(f"   indexed {n} chunks")
 
+    print("== step 1b: pdf ingest (backlog B) ==")
+    try:
+        from zolai.knowledge.pdf import index_pdfs  # noqa: E402
+        index_pdfs(out_dir=art)
+        idx = load_index(vec_path)
+        pdf_rows = [m.get("source_type") for m in idx.metas].count("pdf")
+        print(f"   pdf-derived rows: {pdf_rows}")
+        assert pdf_rows > 0, "no pdf-derived chunks indexed"
+    except Exception as e:  # noqa: BLE001
+        print(f"   pdf ingest skipped: {e}")
+
     print("\n== step 2: n-gram tables ==")
     ng = build_ngram_tables(out_dir=art)
     assert ng.exists(), "ngrams.jsonl missing"

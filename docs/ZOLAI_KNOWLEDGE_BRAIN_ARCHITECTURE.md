@@ -31,7 +31,7 @@ wordlists/*.tsv (67K) ──────┘
 
 | # | Layer | Status | Where |
 |---|-------|--------|-------|
-| 1 | MD+PDF ingest, chunking, OCR | Partial (MD JSONL exists) | `scripts/kg/ingest_wiki.py`, `zolai/ocr/mistral_ocr.py` |
+| 1 | MD+PDF ingest, chunking, OCR | ✅ wiki ingest + **PDF OCR-markdown ingest (backlog B)** | `zolai/knowledge/ingest.py`, `zolai/knowledge/pdf.py` |
 | 2 | Sentence/word/grammar/n-gram extraction | Partial | `wiki/vocabulary`, `dict_master_v2.json` |
 | 3 | Embeddings → **vector index** | ✅ done (offline JSONL + optional ChromaDB) | `zolai/knowledge/ingest.py` |
 | 4 | **Retrieval query API** | ✅ done (offline cosine) | `zolai/knowledge/retrieve.py` |
@@ -51,7 +51,7 @@ wordlists/*.tsv (67K) ──────┘
 
 ## Backlog (ordered, `main`)
 A. ~~Vector index writer + retrieval API~~ **DONE (this session):** `zolai/knowledge/` (ingest/retrieve/ngram), offline-ready JSONL cosine retrieval (skip ChromaDB when offline), n-gram prediction tables, passing `scripts/kg/smoke_test.py`. Replaces the broken `scripts/kg/ingest_wiki.py` (which emitted a single record with no newline bytes).
-B. PDF OCR ingest path into same vector store.
+B. ~~PDF OCR ingest into same vector store~~ **DONE (this session):** `zolai/knowledge/pdf.py` scans `data/corpus/ocr/*/*/markdown.md` (existing OCR outputs) and embeds them as `source_type=pdf` into the same index; `extract_pdf_text()` uses Mistral OCR when a `MISTRAL_API_KEY` is set, else a local pypdf/pdfplumber reader. Documented + images.
 C. Prediction/n-gram extraction + lookup.
 D. Dataset export interface (zolai-datasets).
 E. Assistant: website/app/desktop RAG integration.

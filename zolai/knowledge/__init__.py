@@ -12,4 +12,12 @@ from .ingest import index_pdfs, index_wiki
 from .ngram import build_ngram_tables
 from .retrieve import load_index, retrieve
 
-__all__ = ["index_wiki", "index_pdfs", "load_index", "retrieve", "build_ngram_tables"]
+__all__ = [
+    "index_wiki",
+    "index_pdfs",
+    "extract_pdf_text",
+    "iter_ocr_markdown",
+    "load_index",
+    "retrieve",
+    "build_ngram_tables",
+]
