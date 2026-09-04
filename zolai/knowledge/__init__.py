@@ -9,7 +9,13 @@ Primary artifact layout (gitignored, local-only):
   artifacts/kg/*.jsonl   — indexed knowledge chunks + embeddings + ngram tables
 """
 from .ingest import index_pdfs, index_wiki
-from .ngram import build_ngram_tables
+from .ngram import (
+    build_ngram_tables,
+    load_ngram_tables,
+    predict_completion,
+    predict_next,
+    suggest_corrections,
+)
 from .retrieve import load_index, retrieve
 
 __all__ = [
@@ -20,4 +26,8 @@ __all__ = [
     "load_index",
     "retrieve",
     "build_ngram_tables",
+    "load_ngram_tables",
+    "predict_next",
+    "predict_completion",
+    "suggest_corrections",
 ]
