@@ -6,6 +6,7 @@ Project guides, references, and deployment docs for the **Zolai Second Brain**.
 
 | File | Description |
 |------|-------------|
+| `ZOLAI_KNOWLEDGE_BRAIN_ARCHITECTURE.md` | RAG-first knowledge brain architecture (no raw fine-tuning) |
 | `DATA_NAMING_GUIDE.md` | File and field naming conventions |
 | `DATA_NAMING_QUICK_REF.md` | Quick naming reference card |
 | `PROJECT_STRUCTURE.md` | Full project structure overview |
@@ -32,7 +33,7 @@ Project guides, references, and deployment docs for the **Zolai Second Brain**.
 | `ZOLAI_PIPELINE_GUIDE.md` | Full data pipeline walkthrough |
 | `AGENTS.md` | Agent usage and coding standards |
 | `CHANGELOG.md` | Project changelog |
-| `KAGGLE_ROADMAP.md` | Kaggle training roadmap |
+| `KAGGLE_ROADMAP.md` | Kaggle training roadmap (`guides/training/KAGGLE_ROADMAP.md`) |
 | `MACHINE_OPTIMIZATION.md` | Hardware optimization guide |
 | `EXTERNAL_RESOURCES.md` | External tools and references |
 | `PROMPT_QUICK_REFERENCE.md` | Prompt engineering reference |
@@ -57,16 +58,9 @@ Agent prompts for data collection, cleaning, labeling, and wiki updates.
 | `master-prompt.md` | Extended master prompt |
 | `wiki_update.md` | Wiki update prompts |
 
-## References (`references/`)
-
-Additional reference materials and supplementary documentation.
-
----
-
-**Last Updated:** 2026-04-20
-
 ## Architecture & Community
 
+- `ZOLAI_KNOWLEDGE_BRAIN_ARCHITECTURE.md` — RAG-first knowledge brain (no raw fine-tuning).
 - `ZOLAI_RAG_AI_ARCHITECTURE.md` — retrieval-augmented generation, embeddings/vector store, text-prediction & learning loops.
 - `ZOLAI_AI_ARCHITECTURE.md` — system + 5-step data pipeline.
 - `ZOLAI_GITHUB_ORG_PLAN.md` — plan to move to `zolai-ai` community org (separate repos per component, monorepo-first).
@@ -83,3 +77,5 @@ Additional reference materials and supplementary documentation.
   six-file context + semver, connection matrix, phasing).
 - `templates/repo/` — reusable per-repo templates (`AGENTS.md`, six-context setup).
 - `scripts/repo_bootstrap.sh` — bootstrap a split repo: `bash scripts/repo_bootstrap.sh <root> "<name>" <type>`.
+
+**Last Updated:** 2026-09-04
