@@ -112,3 +112,16 @@
   47.3% clean single-token wordlist coverage, ~35K compound/gap candidates
   flagged for dictionary enrichment (A1-B1 priority noted).
 - Tool is re-runnable: `python scripts/reconcile_wiki_dictionary.py`.
+
+## Zolai Knowledge Brain — Backlog A (added this session)
+
+- New `zolai/knowledge/` package: `ingest.py` (O(n) heading chunking + batch
+  all-MiniLM-L6-v2 embeddings → JSONL), `retrieve.py` (offline numpy cosine
+  retrieval, no external vector DB, `format_context` for RAG injection),
+  `ngram.py` (unigram/bigram prediction tables), `__init__.py`.
+- `scripts/kg/smoke_test.py` PASS 3/3 deterministic corpus queries.
+- Replaced broken `scripts/kg/ingest_wiki.py` (wrote whole corpus as one record,
+  zero newline bytes).
+- Local-only artifacts under `artifacts/kg/` (gitignored).
+- Backlog B (PDF OCR), C (prediction features), D (dataset export via
+  zolai-datasets), E (assistant) still open.
