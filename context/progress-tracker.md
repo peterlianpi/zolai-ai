@@ -30,7 +30,7 @@
 
 ## Next Up
 
-- Reconcile `docs/PROJECT_STRUCTURE.md` / `ROOT_STRUCTURE.md` with actual repo layout.
+- Reconcile `docs/PROJECT_STRUCTURE.md` / `ROOT_STRUCTURE.md` with actual repo layout (**done** — `docs/STRUCTURE.md` added, old docs archived to `docs/archive/`).
 - Light code patches flagged by structure/architecture review (only clearly broken).
 - Decide whether to auto-track the 89 local-only untracked files (context/, desktop/, scripts/bible/) or keep them untracked.
 
@@ -139,6 +139,7 @@
   - Refreshed `docs/guides/{PROMPTS_INDEX,DOCUMENTATION_INDEX,AGENTS}.md` to 2026-09-04; fixed dead `/Cleaned_Bible/` path; softened pytest claim; corrected T4x2 GPU spec.
   - Marked aspirational `website/zolai-project/AGENTS.md` docs subdirs as "(planned)".
   - Created `CONTRIBUTING.md` stub; refreshed ROADMAP/TODO contributing line.
+- 2026-09-04: reconciled `docs/PROJECT_STRUCTURE.md` / `ROOT_STRUCTURE.md` with actual layout — added canonical `docs/STRUCTURE.md`, archived old docs to `docs/archive/`, updated `docs/README.md` index.
 
 ## Zolai Knowledge Brain — Backlog B: PDF OCR ingest (added this session)
 

@@ -1,3 +1,5 @@
+> **Archived 2026-09-04** — superseded by `docs/STRUCTURE.md`.
+
 # Zolai Project Structure (Final)
 
 ```
