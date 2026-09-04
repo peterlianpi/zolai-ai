@@ -133,7 +133,7 @@ Build a **high-quality, bidirectional dictionary + sentence dataset** by:
 **Goal:** Extract and integrate vocabulary from all 66 Bible books
 
 **Process:**
-1. Load all Bible files from `/Cleaned_Bible/`
+1. Load all Bible files from `data/corpus/bible/markdown/`
 2. Extract words and phrases
 3. Tag with `source: "bible"` and `topic: "religion"`
 4. Filter noise:

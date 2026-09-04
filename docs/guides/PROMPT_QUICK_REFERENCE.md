@@ -275,7 +275,7 @@ Each entry gets enriched with:
 - `IMPLEMENTATION_GUIDE.md` — Code examples and deployment
 
 ### Data
-- `/Cleaned_Bible/` — Bible corpus (66 books)
+- `data/corpus/bible/markdown/` — Bible corpus (66 books)
 
 ### Scripts
 - `scripts/rebuild_v2_comprehensive.py` — Full pipeline

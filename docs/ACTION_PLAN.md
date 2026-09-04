@@ -9,7 +9,7 @@
 - ✅ All imports working
 
 ### Phase 2: Data Unification
-- ✅ Merged `dataset/`, `clean/`, `Cleaned_Bible/`, `raw/` into `data/`
+- ✅ Merged `dataset/`, `clean/`, `data/corpus/bible/markdown/`, `raw/` into `data/`
 - ✅ Organized: `data/master/`, `data/processed/`, `data/raw/`, `data/history/`
 - ✅ Moved `db/` → `data/db/`
 - ✅ Moved `runs/` → `data/runs/`

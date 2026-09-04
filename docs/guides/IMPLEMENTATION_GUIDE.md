@@ -292,7 +292,7 @@ file -i /data/dictionary/processed/*.jsonl
 ### Issue: Missing Bible Files
 **Solution:** Check Bible directory exists
 ```bash
-ls -la /path/to/zolai/Cleaned_Bible/ | head
+ls -la data/corpus/bible/markdown/ | head
 ```
 
 ### Issue: Slow Performance
