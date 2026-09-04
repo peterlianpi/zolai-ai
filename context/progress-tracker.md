@@ -191,3 +191,10 @@
 - Wrote `docs/org/GITHUB_ORG_PROFILE_SETUP.md` capturing official requirements +
   owner-only remaining steps (avatar upload, pinning, billing resolution) which
   cannot be done via API.
+
+## Org brand assets (added this session)
+
+- Generated vector logo + social card (SVG sources in `docs/org/assets/`), rendered
+  to `logo.png` (500×500 avatar) and `og.png` (1200×630) with ImageMagick.
+- Deployed to `Zolai-AI/.github`; avatar upload still owner-only (Settings → Profile).
+- Wordmark: "ZOLAI AI" · tagline "TEDIM ZOLAI · ZVS 2018"; colors #062E24/#0E9F8A/#3EDDBF.

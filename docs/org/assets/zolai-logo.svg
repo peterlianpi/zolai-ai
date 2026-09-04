@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="500" viewBox="0 0 500 500">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#062E24"/>
+      <stop offset="1" stop-color="#0E9F8A"/>
+    </linearGradient>
+    <linearGradient id="z2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3EDDBF"/>
+      <stop offset="1" stop-color="#7AF0DB"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded tablet background -->
+  <rect x="8" y="8" width="484" height="484" rx="104" fill="url(#bg)"/>
+  <rect x="8" y="8" width="484" height="484" rx="104" fill="none" stroke="#D9F8F0" stroke-opacity="0.35" stroke-width="3"/>
+  <!-- Bilingual echo: faint second Z offset (Zolai ⇄ Zomi) -->
+  <text x="223" y="282" font-family="DejaVu Sans" font-weight="bold" font-size="300" fill="url(#z2)" fill-opacity="0.95">Z</text>
+  <!-- Primary monogram -->
+  <text x="184" y="258" font-family="DejaVu Sans" font-weight="bold" font-size="252" fill="#FFFFFF">Z</text>
+  <!-- Wordmark -->
+  <text x="250" y="398" text-anchor="middle" font-family="DejaVu Sans" font-weight="bold" font-size="40" letter-spacing="14" fill="#FFFFFF">ZOLAI AI</text>
+  <text x="250" y="432" text-anchor="middle" font-family="DejaVu Sans" font-size="20" letter-spacing="4" fill="#C9F6EB">TEDIM ZOLAI · ZVS 2018</text>
+</svg>
