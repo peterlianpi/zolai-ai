@@ -249,3 +249,11 @@
 - AGENTS.md seven-file context set confirmed consistent with context/.
 - Verification: pytest 24 passed; kg smoke PASS 3/3; import zolai = 2.0.0; tree clean. Only pre-existing ruff error in zolai/api/tools.py:52 (unrelated, not regressed).
 - Commits: c205e70 (version/CHANGELOG/scripts), d691db7 (restore root docs / rm docs/GEMINI.md).
+
+## Component-repo versioning alignment (continuation)
+
+- Aligned all 6 code component repos to the Zolai-AI **2.0.0** baseline (matching monorepo):
+  added a `CHANGELOG.md` to zolai-core, zolai-web, zolai-tauri, zolai-datasets,
+  zolai-training, zolai-wiki; reconciled zolai-web package.json 0.1.0 -> 2.0.0.
+- Pushed: core 53c7eed, tauri 314d30c, datasets f8df64c, training 84f57d5, wiki f8f154d.
+- zolai-web committed locally only (push still blocked by GH013 unblock).
