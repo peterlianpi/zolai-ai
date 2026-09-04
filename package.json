@@ -1,6 +1,6 @@
 {
   "name": "zolai",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "> **Vision:** To ensure the Zolai language thrives in the AI era by building a fully capable \"Zolai AI Second Brain\"—allowing the Zomi people to learn, work, and interact with cutting-edge technology entirely in their native tongue. >  > **Mission:** To digitize, standardize, and preserve the Zolai language through automated data-harvesting pipelines, creating high-purity bilingual datasets, and fine-tuning open-source Large Language Models (LLMs) to understand and generate fluent Tedim Zolai.",
   "main": "index.js",
   "directories": {
